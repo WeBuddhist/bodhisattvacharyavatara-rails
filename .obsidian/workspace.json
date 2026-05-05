@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Human-Sources/root-text.md",
+                "file": "2-Authoritative-Context/local wiki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "root-text"
+              "title": "local wiki"
             }
           }
         ],
@@ -209,12 +209,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "ed0906ae6e7f9aaf",
   "lastOpenFiles": [
+    "1-Human-Sources/root-text.md",
     "1-Human-Sources/Root Text",
     "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་ཟིན་བྲིས་མཚུངས་མེད་བླ་མའི་ཞལ་རྒྱུན།.md",
     "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་མཆན་འགྲེལ་བཞུགས་སོ།།.md",
-    "1-Human-Sources/root-text.md",
     "1-Human-Sources/Commentaries",
     "Untitled",
     "3-Text-Transformations/hello.md",

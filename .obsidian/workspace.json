@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Outline of README"
             }
+          },
+          {
+            "id": "dbacc952eaead644",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,6 +194,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d066ca5c15f520a5",
+  "active": "dbacc952eaead644",
   "lastOpenFiles": []
 }

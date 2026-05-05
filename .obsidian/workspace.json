@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8896e91e801fbab2",
+        "id": "0f5a71f43bce6ac8",
         "type": "tabs",
         "children": [
           {
-            "id": "d066ca5c15f520a5",
+            "id": "c6fd74d24ec87b44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Authoritative-Context/local wiki.md",
+                "file": "3-Text-Transformations/hello.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "local wiki"
+              "title": "hello"
             }
           }
         ]
@@ -194,15 +194,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "c6fd74d24ec87b44",
   "lastOpenFiles": [
+    "2-Authoritative-Context/local wiki.md",
+    "conflict-files-obsidian-git.md",
     "3-Text-Transformations/hello.md",
     "3-Text-Transformations",
     "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་ཟིན་བྲིས་མཚུངས་མེད་བླ་མའི་ཞལ་རྒྱུན།.md",
     "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་མཆན་འགྲེལ་བཞུགས་སོ།།.md",
     "1-Human-Sources/Commentaries",
     "1-Human-Sources/root-text.md",
-    "2-Authoritative-Context/local wiki.md",
     "README.md",
     "4-Wiki",
     "2-Authoritative-Context",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Human-Sources/root-text.md",
+                "file": "1-Human-Sources/Root Text/sk-iats-root-text.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "root-text"
+              "title": "sk-iats-root-text"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Authoritative-Context/local wiki.md",
+                "file": "1-Human-Sources/Translations/བྱང་ཚུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "local wiki"
+              "title": "བྱང་ཚུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།"
             }
           }
         ],
@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 378.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,16 +209,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed0906ae6e7f9aaf",
+  "active": "dbacc952eaead644",
   "lastOpenFiles": [
-    "1-Human-Sources/root-text.md",
+    "1-Human-Sources/Root Text/sk-iats-root-text.md",
+    "1-Human-Sources/Translations/བྱང་ཚུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།.md",
+    "2-Authoritative-Context/local wiki.md",
+    "1-Human-Sources/Translations",
     "1-Human-Sources/Root Text",
     "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་ཟིན་བྲིས་མཚུངས་མེད་བླ་མའི་ཞལ་རྒྱུན།.md",
     "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་མཆན་འགྲེལ་བཞུགས་སོ།།.md",
     "1-Human-Sources/Commentaries",
     "Untitled",
     "3-Text-Transformations/hello.md",
-    "2-Authoritative-Context/local wiki.md",
     "README.md",
     "4-Wiki",
     "3-Text-Transformations",

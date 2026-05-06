@@ -23,8 +23,8 @@
   "githubCopilotAccessToken": "",
   "githubCopilotToken": "",
   "githubCopilotTokenExpiresAt": 0,
-  "defaultChainType": "llm_chain",
-  "defaultModelKey": "google/gemini-2.5-flash|openrouterai",
+  "defaultChainType": "vault_qa",
+  "defaultModelKey": "google/gemini-2.5-pro|openrouterai",
   "embeddingModelKey": "openai/text-embedding-3-small|openrouterai",
   "temperature": 0.1,
   "maxTokens": 6000,
@@ -155,7 +155,9 @@
       "projectEnabled": true,
       "capabilities": [
         "vision"
-      ]
+      ],
+      "apiKey": "AIzaSyAuawhdSdU2J94JvBLQzgK-Aa6ZignTYiI",
+      "maxTokens": 122200
     },
     {
       "name": "openai/gpt-5.4",

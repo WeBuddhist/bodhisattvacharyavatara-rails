@@ -204,9 +204,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "8ed141f58f3bf2a3",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -225,8 +235,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "8ed141f58f3bf2a3",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/Can_you_give_Obsidian_Block_IDs_for_each_stanza@20260506_095637.md",
+    "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
@@ -258,7 +270,6 @@
     "README.md",
     "4-Wiki",
     "3-Text-Transformations",
-    "2-Authoritative-Context",
-    "1-Human-Sources"
+    "2-Authoritative-Context"
   ]
 }

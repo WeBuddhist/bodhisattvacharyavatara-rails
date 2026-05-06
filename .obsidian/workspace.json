@@ -201,10 +201,14 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "36efce4f06a4fd8e",
   "lastOpenFiles": [
-    "2-Authoritative-Context/Untitled",
-    "2-Authoritative-Context/Local Summary",
+    "2-Authoritative-Context/local wiki.md",
+    "2-Authoritative-Context/Local Summaries/Verse Summaries",
+    "2-Authoritative-Context/Local Summaries/Chapter Summaries",
+    "3-Text-Transformations/hello.md",
+    "2-Authoritative-Context/Local Glossary",
+    "2-Authoritative-Context/Local Summaries",
     "2-Authoritative-Context/Local Wiki",
     "1-Human-Sources/Translations/入菩薩行論.md",
     "1-Human-Sources/Root Text/root-text-sk.md",
@@ -234,10 +238,6 @@
     "bodhisattvacaryavatara (WB123)/Translation",
     "bodhisattvacaryavatara (WB123)/Root text",
     "bodhisattvacaryavatara (WB123)/Commentaries",
-    "bodhisattvacaryavatara (WB123)",
-    "1-Human-Sources/Translations/བྱང་ཚུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།.md",
-    "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts",
-    "copilot"
+    "bodhisattvacaryavatara (WB123)"
   ]
 }

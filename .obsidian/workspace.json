@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d066ca5c15f520a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Human-Sources/Root Text/sk-iats-root-text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sk-iats-root-text"
-            }
-          },
-          {
-            "id": "ed0906ae6e7f9aaf",
+            "id": "2db756730cd70bf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,9 +20,39 @@
               "icon": "lucide-file",
               "title": "བྱང་ཚུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།"
             }
+          },
+          {
+            "id": "7c5ced943238bf9d",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "3-Text-Transformations/hello.md",
+                "bFile": "3-Text-Transformations/hello.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: hello  (Index)"
+            }
+          },
+          {
+            "id": "68565fb40a33ec50",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "3-Text-Transformations/hello.md",
+                "bFile": "3-Text-Transformations/hello.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: hello  (Index)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,11 +225,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dbacc952eaead644",
+  "active": "68565fb40a33ec50",
   "lastOpenFiles": [
-    "1-Human-Sources/Root Text/sk-iats-root-text.md",
-    "1-Human-Sources/Translations/བྱང་ཚུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།.md",
     "2-Authoritative-Context/local wiki.md",
+    "conflict-files-obsidian-git.md",
+    "1-Human-Sources/Translations/བྱང་ཚུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།.md",
+    "1-Human-Sources/Root Text/sk-iats-root-text.md",
     "1-Human-Sources/Translations",
     "1-Human-Sources/Root Text",
     "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་ཟིན་བྲིས་མཚུངས་མེད་བླ་མའི་ཞལ་རྒྱུན།.md",

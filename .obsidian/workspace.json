@@ -40,15 +40,14 @@
             "id": "68565fb40a33ec50",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "3-Text-Transformations/hello.md",
-                "bFile": "3-Text-Transformations/hello.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "1-Human-Sources/Translations/བྱང་ཚུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: hello  (Index)"
+              "icon": "lucide-file",
+              "title": "བྱང་ཚུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།"
             }
           }
         ],
@@ -225,19 +224,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68565fb40a33ec50",
+  "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
+    "1-Human-Sources/Root Text/sk-iats-root-text.md",
     "2-Authoritative-Context/local wiki.md",
+    "3-Text-Transformations/hello.md",
     "conflict-files-obsidian-git.md",
     "1-Human-Sources/Translations/བྱང་ཚུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།.md",
-    "1-Human-Sources/Root Text/sk-iats-root-text.md",
     "1-Human-Sources/Translations",
     "1-Human-Sources/Root Text",
     "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་ཟིན་བྲིས་མཚུངས་མེད་བླ་མའི་ཞལ་རྒྱུན།.md",
     "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་མཆན་འགྲེལ་བཞུགས་སོ།།.md",
     "1-Human-Sources/Commentaries",
     "Untitled",
-    "3-Text-Transformations/hello.md",
     "README.md",
     "4-Wiki",
     "3-Text-Transformations",

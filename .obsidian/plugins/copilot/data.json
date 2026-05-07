@@ -12,7 +12,7 @@
   "azureOpenAIApiDeploymentName": "",
   "azureOpenAIApiVersion": "",
   "azureOpenAIApiEmbeddingDeploymentName": "",
-  "googleApiKey": "",
+  "googleApiKey": "AIzaSyBkdxEpqjFykFRVD18eMLKi3nG_u9khaqw",
   "openRouterAiApiKey": "",
   "xaiApiKey": "",
   "mistralApiKey": "",
@@ -157,7 +157,8 @@
         "vision"
       ],
       "apiKey": "AIzaSyAuawhdSdU2J94JvBLQzgK-Aa6ZignTYiI",
-      "maxTokens": 122200
+      "maxTokens": 122200,
+      "enableCors": true
     },
     {
       "name": "openai/gpt-5.4",
@@ -451,7 +452,7 @@
   "enableSavedMemory": true,
   "quickCommandIncludeNoteContext": true,
   "autoIncludeTextSelection": false,
-  "autoAddSelectionToContext": false,
+  "autoAddSelectionToContext": true,
   "autoAcceptEdits": false,
   "diffViewMode": "split",
   "userSystemPromptsFolder": "copilot/system-prompts",

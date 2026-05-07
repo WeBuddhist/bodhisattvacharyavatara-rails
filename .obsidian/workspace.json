@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d96650338f184314",
+        "id": "7792bce74c55e6ef",
         "type": "tabs",
         "children": [
           {
-            "id": "57158989196b9be4",
+            "id": "4241afca19492c84",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Random note.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Random note"
+              "title": "New tab"
             }
           }
         ]
@@ -207,12 +203,15 @@
   },
   "active": "8ed141f58f3bf2a3",
   "lastOpenFiles": [
-    "copilot/copilot-conversations/Role_Expert_Editor_in_Tibetan_Buddhist_Literature,_Text_Reconstruction,_and@20260507_111018.md",
+    "copilot/copilot-conversations/Add_Obsidian_Block_IDs_on_this_note@20260507_112303.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts/Edit obsidian block IDs.md",
+    "Random note.md",
     "copilot/copilot-conversations/Can_you_give_Obsidian_Block_IDs_for_each_stanza@20260506_095637.md",
+    "copilot/copilot-conversations/Role_Expert_Editor_in_Tibetan_Buddhist_Literature,_Text_Reconstruction,_and@20260507_111018.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་མཆན་འགྲེལ་བཞུགས་སོ།།.md",
-    "Random note.md",
     "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་ཟིན་བྲིས་མཚུངས་མེད་བླ་མའི་ཞལ་རྒྱུན།.md",
     "Bodhisattvacharyavatara",
     "2-Authoritative-Context/local wiki.md",
@@ -236,9 +235,6 @@
     "bodhisattvacaryavatara (WB123)/Versions/བྱང་ཚུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།.md",
     "bodhisattvacaryavatara (WB123)/Versions/入菩薩行論.md",
     "bodhisattvacaryavatara (WB123)/Commentaries/སྤྱོད་འཇུག་འགྲེལ་པ་གཞུང་དོན་རབ་གསལ་སྣང་བ།.md",
-    "bodhisattvacaryavatara (WB123)/Commentaries/སྤྱོད་འཇུག་གི་རྣམ་བཤད་རྒྱལ་སྲས་འཇུག་ངོགས།.md",
-    "bodhisattvacaryavatara (WB123)/Commentaries/སྤྱོད་འཇུག་ཟིན་བྲིས་དང་ཚིག་འགྲེལ་འཇམ་དབྱངས་བླ་མའི་ཞལ་ལུང་།.md",
-    "bodhisattvacaryavatara (WB123)/Commentaries/སྤྱོད་འཇུག་གི་ལེགས་པར་སྦྱར་བ།.md",
     "bodhisattvacaryavatara (WB123)/Versions",
     "bodhisattvacaryavatara (WB123)/Translation",
     "bodhisattvacaryavatara (WB123)/Root text",

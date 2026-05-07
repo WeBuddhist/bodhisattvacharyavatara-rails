@@ -1,0 +1,9 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "google": "checkbox",
+    "gemini-2.5-pro": "checkbox"
+  }
+}

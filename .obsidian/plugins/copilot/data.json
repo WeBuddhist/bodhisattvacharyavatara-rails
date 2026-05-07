@@ -297,6 +297,11 @@
       "capabilities": [
         "reasoning"
       ]
+    },
+    {
+      "name": "gemini-3.1-pro-preview-customtools",
+      "provider": "google",
+      "enabled": true
     }
   ],
   "activeEmbeddingModels": [

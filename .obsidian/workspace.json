@@ -11,10 +11,14 @@
             "id": "4241afca19492c84",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Random note.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Random note"
             }
           }
         ]
@@ -203,10 +207,15 @@
   },
   "active": "8ed141f58f3bf2a3",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/Explain_concept_based_on_my_stored_notes.@20260507_113608.md",
     "copilot/copilot-conversations/Add_Obsidian_Block_IDs_on_this_note@20260507_112303.md",
+    "copilot/copilot-conversations/Obsidian_Block_Formatting@20260507_113014.md",
+    "Random note.md",
+    "README.md",
+    "1-Human-Sources/Root Text/sk-iats-root-text.md",
+    "1-Human-Sources/Translations/入菩薩行論.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts/Edit obsidian block IDs.md",
-    "Random note.md",
     "copilot/copilot-conversations/Can_you_give_Obsidian_Block_IDs_for_each_stanza@20260506_095637.md",
     "copilot/copilot-conversations/Role_Expert_Editor_in_Tibetan_Buddhist_Literature,_Text_Reconstruction,_and@20260507_111018.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
@@ -221,7 +230,6 @@
     "2-Authoritative-Context/Local Glossary",
     "2-Authoritative-Context/Local Summaries",
     "2-Authoritative-Context/Local Wiki",
-    "1-Human-Sources/Translations/入菩薩行論.md",
     "1-Human-Sources/Root Text/root-text-sk.md",
     "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་འགྲེལ་བཤད་རྒྱལ་སྲས་རྒྱ་མཚོའི་ཡོན་ཏན་རིན་པོ་ཆེ་མི་ཟད་འཇོ་བའི་བུམ་བཟང་།.md",
     "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་འགྲེལ་པ་ལེགས་བཤད་རྒྱ་མཚོ།.md",
@@ -231,10 +239,6 @@
     "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་ལེགས་པར་སྦྱར་བ།.md",
     "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་རྣམ་བཤད་རྒྱལ་སྲས་འཇུག་ངོགས།.md",
     "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་འབྲུ་འགྲེལ་དབུ་མའི་ལམ་གྱི་སྒྲོན་མ།.md",
-    "bodhisattvacaryavatara (WB123)/Root text/The Way of Bodhisattva.md",
-    "bodhisattvacaryavatara (WB123)/Versions/བྱང་ཚུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།.md",
-    "bodhisattvacaryavatara (WB123)/Versions/入菩薩行論.md",
-    "bodhisattvacaryavatara (WB123)/Commentaries/སྤྱོད་འཇུག་འགྲེལ་པ་གཞུང་དོན་རབ་གསལ་སྣང་བ།.md",
     "bodhisattvacaryavatara (WB123)/Versions",
     "bodhisattvacaryavatara (WB123)/Translation",
     "bodhisattvacaryavatara (WB123)/Root text",

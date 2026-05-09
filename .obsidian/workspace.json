@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "6ae671b559c0ce43",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "effa11dea239f03b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Translations/入菩薩行論.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "入菩薩行論"
-            }
-          }
-        ]
-      },
-      {
         "id": "692b298ead53dffb",
         "type": "tabs",
         "children": [
@@ -33,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/bo-ཚྭ་ཉག་ཤེས་རབ་མཐར་ཕྱིན།.md",
+                "file": "1-SOURCES/Commentaries/སྤྱོད་འཇུག་གི་འབྲུ་འགྲེལ་དབུ་མའི་ལམ་གྱི་སྒྲོན་མ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bo-ཚྭ་ཉག་ཤེས་རབ་མཐར་ཕྱིན།"
+              "title": "སྤྱོད་འཇུག་གི་འབྲུ་འགྲེལ་དབུ་མའི་ལམ་གྱི་སྒྲོན་མ།"
             }
           }
         ]
@@ -237,14 +217,14 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "05bc820f49d95ff1",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/bo-ཚྭ་ཉག་ཤེས་རབ་མཐར་ཕྱིན།.md",
     "1-SOURCES/Commentaries/bo-ས་བཟང་མ་ཏི་པཎ་ཆེན་བློ་གྲོས་རྒྱལ་མཚན།.md",
     "1-SOURCES/Commentaries/bo-ཀུན་བཟང་དཔལ་ལྡན།.md",
     "1-SOURCES/Commentaries/bo-དགེ་བའི་ལྷ། Kṣemadeva.md",
     "1-SOURCES/Commentaries/bo-དར་མ་རིན་ཆེན།.md",
     "1-SOURCES/Commentaries/སྤྱོད་འཇུག་གི་འབྲུ་འགྲེལ་དབུ་མའི་ལམ་གྱི་སྒྲོན་མ།.md",
-    "1-SOURCES/Commentaries/bo-ཚྭ་ཉག་ཤེས་རབ་མཐར་ཕྱིན།.md",
     "1-SOURCES/Commentaries/bo-མི་ཉག་ཀུན་བསོད།.md",
     "1-SOURCES/Commentaries/bo-ཐོགས་མེད།.md",
     "1-SOURCES/Commentaries/bo-སྨུག་སངས་ཀརྨ་ཚེ་དཔལ།.md",

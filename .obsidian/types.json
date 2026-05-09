@@ -4,6 +4,8 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "google": "checkbox",
-    "gemini-2.5-pro": "checkbox"
+    "gemini-2.5-pro": "checkbox",
+    "author": "multitext",
+    "title": "multitext"
   }
 }

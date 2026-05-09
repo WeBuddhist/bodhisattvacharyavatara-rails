@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1-Human-Sources/Translations/བྱང་ཚུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "བྱང་ཚུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།"
             }
           }
         ]
@@ -202,20 +202,28 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
   "active": "becf22b4ffa62572",
   "lastOpenFiles": [
+    "gemini-scribe/Prompts/example-expert.md",
+    "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Scheduled-Tasks",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Prompts",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
+    "gemini-scribe",
+    "Bodhisattvacharyavatara/1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་མཆན་འགྲེལ་བཞུགས་སོ།།.md",
+    "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་མཆན་འགྲེལ་བཞུགས་སོ།།.md",
     "README.md",
     "Random note.md",
-    "Bodhisattvacharyavatara/1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་མཆན་འགྲེལ་བཞུགས་སོ།།.md",
     "Bodhisattvacharyavatara/1-Human-Sources/Commentaries",
     "Bodhisattvacharyavatara/1-Human-Sources",
-    "Bodhisattvacharyavatara",
     "2-Authoritative-Context/Root Text w Outlines/རྩ་བ་ས་བཅད་སྦྱར་མ།.md",
-    "2-Authoritative-Context/Root Text w Outlines",
-    "2-Authoritative-Context",
     "copilot/copilot-conversations/Explain_concept_based_on_my_stored_notes.@20260507_113608.md",
     "copilot/copilot-conversations/Add_Obsidian_Block_IDs_on_this_note@20260507_112303.md",
     "copilot/copilot-conversations/Obsidian_Block_Formatting@20260507_113014.md",
@@ -227,21 +235,14 @@
     "copilot/copilot-conversations/Role_Expert_Editor_in_Tibetan_Buddhist_Literature,_Text_Reconstruction,_and@20260507_111018.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་མཆན་འགྲེལ་བཞུགས་སོ།།.md",
     "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་ཟིན་བྲིས་མཚུངས་མེད་བླ་མའི་ཞལ་རྒྱུན།.md",
     "2-Authoritative-Context/local wiki.md",
-    "2-Authoritative-Context/Local Summaries/Verse Summaries",
-    "2-Authoritative-Context/Local Summaries/Chapter Summaries",
     "3-Text-Transformations/hello.md",
-    "2-Authoritative-Context/Local Glossary",
-    "2-Authoritative-Context/Local Summaries",
-    "2-Authoritative-Context/Local Wiki",
     "1-Human-Sources/Root Text/root-text-sk.md",
     "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་འགྲེལ་བཤད་རྒྱལ་སྲས་རྒྱ་མཚོའི་ཡོན་ཏན་རིན་པོ་ཆེ་མི་ཟད་འཇོ་བའི་བུམ་བཟང་།.md",
     "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་འགྲེལ་པ་ལེགས་བཤད་རྒྱ་མཚོ།.md",
     "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་འགྲེལ་པ་ངེས་ལེགས་མཛོད།.md",
     "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་འགྲེལ་པ་གཞུང་དོན་རབ་གསལ་སྣང་བ།.md",
-    "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་ཟིན་བྲིས་དང་ཚིག་འགྲེལ་འཇམ་དབྱངས་བླ་མའི་ཞལ་ལུང་།.md",
-    "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་ལེགས་པར་སྦྱར་བ།.md"
+    "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་ཟིན་བྲིས་དང་ཚིག་འགྲེལ་འཇམ་དབྱངས་བླ་མའི་ཞལ་ལུང་།.md"
   ]
 }

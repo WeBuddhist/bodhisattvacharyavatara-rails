@@ -8,7 +8,7 @@ Persistent instructions for the LLM working in this repo. Read in full before to
 
 **Railroads** is a method for making AI-assisted work on classical Buddhist texts reliable. Instead of feeding a model raw commentary and hoping it synthesises correctly, we lay the **rails** first: structured, machine-readable context packages that resolve every ambiguity in a passage and cite the human source for each decision. Once the rails are laid, any model can run any transformation — translation, adaptation, lesson plan — without redoing the philological work.
 
-Authority comes from the human commentary tradition, never from the LLM's parametric knowledge. **One repo per text.** This repo is for the *Bodhisattvacaryāvatāra*.
+Authority comes from the human commentary tradition, never from the LLM's parametric knowledge. **One vault per text.** This vault is for the *Bodhisattvacaryāvatāra*.
 
 ---
 
@@ -17,7 +17,7 @@ Authority comes from the human commentary tradition, never from the LLM's parame
 ```
 0-INBOX/            # drafts and scratch — not authoritative
 1-SOURCES/          # human-produced material — read-only ground truth
-   Root Text/
+   Text/
    Commentaries/
    Translations/
    References/      # dictionaries, secondary literature
@@ -73,8 +73,8 @@ bodhisattvapadaprāptiṃ vakṣyāmi śāstrasaṅgraham || ^1-1
 - Pre-chapter content (homage, colophons, title lines) goes under `## 0. Introduction` with IDs `^0-1`, `^0-2`, etc.
 - Chapter heading: `##`. Author-defined sub-sections: `###`. No `####`.
 
-Link form: `[[1-SOURCES/Root Text/sk-iast-root-text.md#^1-1]]`
-Transclude: `![[1-SOURCES/Root Text/sk-iast-root-text.md#^1-1]]`
+Link form: `[[1-SOURCES/Text/sk-iast-root-text.md#^1-1]]`
+Transclude: `![[1-SOURCES/Text/sk-iast-root-text.md#^1-1]]`
 
 ---
 
@@ -130,7 +130,7 @@ Only `complete` packages are used to generate transformations. Domain specialist
 
 ```markdown
 ## Source Text
-![[1-SOURCES/Root Text/sk-iast-root-text.md#^1-1]]
+![[1-SOURCES/Text/sk-iast-root-text.md#^1-1]]
 
 ## Traditional Interpretation
 
@@ -250,3 +250,19 @@ Do not generate from packages whose `status` is not `complete`.
 2. Assemble: section summary → source text → Traditional Interpretation → Word Analysis → Translation Notes → relevant Local-Wiki pages → terminology.md from the brief.
 3. Generate. File under `3-TRANSFORMATIONS/[brief-id]/outputs/`.
 4. Record context packages and generation date in frontmatter.
+
+---
+
+## 12. Citation Rules
+
+Every claim in `2-RAILS/` must be traceable to a specific passage in `1-SOURCES/`. The citation format is:
+
+```
+(1-SOURCES/[folder]/[filename].md#^block-id)
+```
+
+Example:
+
+```
+(1-SOURCES/Commentaries/prajnakaramati-sk.md#^1-1)
+```

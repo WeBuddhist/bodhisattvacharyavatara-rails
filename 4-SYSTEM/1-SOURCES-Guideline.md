@@ -12,7 +12,7 @@ For the LLM-facing version of these rules see `CLAUDE.md` Section 2 and Section 
 
 **Language tags everywhere.** Every file and folder carrying material in a specific language carries a language tag suffix. See Section 2 for the full tag list.
 
-**Flat file structure.** Editions, translations, and commentaries are single files placed directly in their folder — no subfolder per file.
+**Flat file structure.** Root texts, editions, translations, and commentaries are single files placed directly in their folder — no subfolder per file.
 
 **No interpretation in this folder.** Files in `1-SOURCES/` contain human-produced material exactly as received — formatted and annotated for navigation, but not interpreted. The only additions permitted are:
 
@@ -27,29 +27,27 @@ Any interpretive claim — compound analysis, sense assignment, syntactic readin
 
 |Language|Root text script|Notes|
 |---|---|---|
-|Sanskrit|Devanāgarī|IAST goes in `editions/` as `iast-sk-iast.md` — recommended but not required|
+|Sanskrit|Devanāgarī|IAST goes in `Text/` as `iast-sk-iast.md` — recommended but not required|
 |Pāli|Pāli romanisation with diacritics|No alternative script in root text|
-|Tibetan|Unicode Tibetan script|Wylie goes in `editions/` as `wylie-bo-wy.md`|
-|Chinese|Unicode (Traditional or Simplified)|Pinyin goes in `editions/` if needed|
+|Tibetan|Unicode Tibetan script|Wylie goes in `Text/` as `wylie-bo-wy.md`|
+|Chinese|Unicode (Traditional or Simplified)|Pinyin goes in `Text/` if needed|
 
-One script per file. Alternative script forms always go in `editions/`.
+One script per file. Alternative script forms always go in `Text/`.
 
 ---
 
-## 2. Folder Structure per Text
+## 2. Folder Structure
 
 ```
-[text-name]/
-├── [lang]-root-text.md              
-├── versions/                        
-│   ├── [lang]-[editor-surname].md   
-│   ├── [lang]-[editor-surname].md   
-│   └── [lang+script]-[editor-surname].md  
-├── commentaries/                    
+1-SOURCES/
+├── Text/                            # root text(s) and editions
+│   ├── [lang]-root-text.md
+│   └── [lang+script]-[editor-surname].md
+├── Commentaries/                    # authored commentaries
 │   └── [lang]-[commentary-name].md
-├── subcommentaries/                 
-│   └── [name]-[lang].md
-└── secondary-literature/            
+├── Translations/                    # translations into other languages
+│   └── [lang]-[translator-surname].md
+└── References/                      # secondary literature, dictionaries
     └── [author-surname]-[short-title]-[lang].md
 ```
 
@@ -57,10 +55,9 @@ One script per file. Alternative script forms always go in `editions/`.
 
 - All names lowercase, hyphenated, no diacritics in filename
 - Diacritics used freely inside file content and frontmatter
-- Text root folder uses the full canonical name, not a short title
 - Script-only editions (no named editor) are named by script: `iast-sk-iast.md`, `wylie-bo-wy.md`
 - Devanāgarī is never an edition for Sanskrit — it is the root text script
-- IAST goes in `editions/iast-sk-iast.md` — recommended but not required
+- IAST goes in `Text/iast-sk-iast.md` — recommended but not required
 
 ---
 
@@ -123,17 +120,13 @@ source_description: "Transcribed from Vaidya 1960 critical edition"
 source_url: https://www.dsbcproject.org/canon-text/content/71
 dsbc_url: https://www.dsbcproject.org/canon-text/content/71
 bdrc_work_id: WA1KG13126
-related_editions:
-  - 1-SOURCES/bodhisattvacaryavatara/editions/la-vallee-poussin-sk.md
-  - 1-SOURCES/bodhisattvacaryavatara/editions/vaidya-sk.md
-  - 1-SOURCES/bodhisattvacaryavatara/editions/iast-sk-iast.md
-related_translations:
-  - 1-SOURCES/bodhisattvacaryavatara/translations/crosby-en.md
-  - 1-SOURCES/bodhisattvacaryavatara/translations/tibetan-bo.md
 related_commentaries:
-  - 1-SOURCES/bodhisattvacaryavatara/commentaries/prajnakaramati-sk.md
-  - 1-SOURCES/bodhisattvacaryavatara/commentaries/kunzang-pelden-bo.md
-  - 1-SOURCES/bodhisattvacaryavatara/commentaries/minyak-kunzang-sonam-bo.md
+  - 1-SOURCES/Commentaries/prajnakaramati-sk.md
+  - 1-SOURCES/Commentaries/kunzang-pelden-bo.md
+  - 1-SOURCES/Commentaries/minyak-kunzang-sonam-bo.md
+related_translations:
+  - 1-SOURCES/Translations/crosby-en.md
+  - 1-SOURCES/Translations/tibetan-bo.md
 ---
 ```
 
@@ -158,7 +151,7 @@ script: IAST
 file_type: edition
 lang_tag: sk-iast
 verse_id_format: chapter-verse
-root_text: 1-SOURCES/bodhisattvacaryavatara/root-text-sk.md
+root_text: 1-SOURCES/Text/sk-root-text.md
 has_variants: true
 source_description: "Vaidya, P.L. (1960). Bodhicaryāvatāra. Darbhanga: Mithila Institute."
 source_url:
@@ -177,7 +170,7 @@ language: English
 file_type: translation
 lang_tag: en
 verse_id_format: chapter-verse
-root_text: 1-SOURCES/bodhisattvacaryavatara/root-text-sk.md
+root_text: 1-SOURCES/Text/sk-root-text.md
 translation_basis: Vaidya 1960 edition
 covers_verses: 1-1–10-58
 source_description: "Oxford University Press 1995 first edition"
@@ -198,7 +191,7 @@ file_type: commentary
 lang_tag: sk
 verse_id_format: chapter-verse        # the commentary's own ID system
 registered_id: prajnakaramati
-root_text: 1-SOURCES/bodhisattvacaryavatara/root-text-sk.md
+root_text: 1-SOURCES/Text/sk-root-text.md
 covers_verses: 1-1–10-58             # root text verse range covered
 source_description: "Transcribed from La Vallée Poussin edition 1901–1914"
 source_url:
@@ -217,7 +210,7 @@ date: 2017
 language: English
 file_type: secondary-literature
 lang_tag: en
-root_text: 1-SOURCES/bodhisattvacaryavatara/root-text-sk.md
+root_text: 1-SOURCES/Text/sk-root-text.md
 topics: [bodhicitta, chapter 6, patience]
 source_description: "Oxford University Press 2017"
 source_url: https://doi.org/10.1093/example
@@ -289,7 +282,7 @@ This keeps the `^chapter-verse` system fully consistent: chapter 0 is the pre-ch
 Example — Tibetan root text of the Bodhicaryāvatāra:
 
 ```markdown
-# སྤྱོད་འཇུག
+# སྤྱོད་འཇུག་
 
 ## 0. Introduction
 
@@ -325,7 +318,7 @@ Example — Tibetan root text of the Bodhicaryāvatāra:
 
 ### Sanskrit Root Text (Devanāgarī)
 
-Devanāgarī is the standard script for all Sanskrit root texts. IAST goes in `editions/iast-sk-iast.md` — recommended but not required.
+Devanāgarī is the standard script for all Sanskrit root texts. IAST goes in `Text/iast-sk-iast.md` — recommended but not required.
 
 ```markdown
 ---
@@ -356,7 +349,7 @@ somanassasahagataṃ ñāṇasampayuttaṃ rūpārammaṇaṃ vā saddhāramma�
 
 ### Tibetan Root Text (Unicode)
 
-Unicode Tibetan script is the standard for Tibetan root texts. Wylie transliteration goes in `editions/wylie-bo-wy.md`.
+Unicode Tibetan script is the standard for Tibetan root texts. Wylie transliteration goes in `Text/wylie-bo-wy.md`.
 
 ```markdown
 ---
@@ -407,8 +400,8 @@ title: Bodhicaryāvatāra — IAST Romanisation
 script: IAST
 file_type: edition
 lang_tag: sk-iast
-root_text: 1-SOURCES/bodhisattvacaryavatara/root-text-sk.md
-source_description: "IAST transcription of root-text-sk.md"
+root_text: 1-SOURCES/Text/sk-root-text.md
+source_description: "IAST transcription of sk-root-text.md"
 ---
 
 ## Chapter 1: Bodhicittānuśaṃsa
@@ -487,11 +480,11 @@ Text of general introduction to chapter 1. ^1-1-2
 
 ### 1.2 Introduction to root text verses 1–5
 
-![[1-SOURCES/bodhisattvacaryavatara/root-text-sk.md#^1-1]]
-![[1-SOURCES/bodhisattvacaryavatara/root-text-sk.md#^1-2]]
-![[1-SOURCES/bodhisattvacaryavatara/root-text-sk.md#^1-3]]
-![[1-SOURCES/bodhisattvacaryavatara/root-text-sk.md#^1-4]]
-![[1-SOURCES/bodhisattvacaryavatara/root-text-sk.md#^1-5]]
+![[1-SOURCES/Text/sk-root-text.md#^1-1]]
+![[1-SOURCES/Text/sk-root-text.md#^1-2]]
+![[1-SOURCES/Text/sk-root-text.md#^1-3]]
+![[1-SOURCES/Text/sk-root-text.md#^1-4]]
+![[1-SOURCES/Text/sk-root-text.md#^1-5]]
 
 Text of general introduction to root text verses 1–5. ^1-2-1
 Text of general introduction to root text verses 1–5. ^1-2-2
@@ -524,23 +517,23 @@ Text of general introduction to chapter 1. ^1-1-2
 
 ### 1.2 Introduction to root text verses 1–5
 
-![[1-SOURCES/bodhisattvacaryavatara/root-text-sk.md#^1-1]]
-![[1-SOURCES/bodhisattvacaryavatara/root-text-sk.md#^1-2]]
-![[1-SOURCES/bodhisattvacaryavatara/root-text-sk.md#^1-3]]
-![[1-SOURCES/bodhisattvacaryavatara/root-text-sk.md#^1-4]]
-![[1-SOURCES/bodhisattvacaryavatara/root-text-sk.md#^1-5]]
+![[1-SOURCES/Text/sk-root-text.md#^1-1]]
+![[1-SOURCES/Text/sk-root-text.md#^1-2]]
+![[1-SOURCES/Text/sk-root-text.md#^1-3]]
+![[1-SOURCES/Text/sk-root-text.md#^1-4]]
+![[1-SOURCES/Text/sk-root-text.md#^1-5]]
 
 Text of general introduction to root text verses 1–5. ^1-2-1
 Text of general introduction to root text verses 1–5. ^1-2-2
 
 ### 1.3 Commentary on each verse in section 1–5
 
-![[1-SOURCES/bodhisattvacaryavatara/root-text-sk.md#^1-1]]
+![[1-SOURCES/Text/sk-root-text.md#^1-1]]
 
 Commentary on first verse. ^1-3-1
 Commentary on first verse. ^1-3-2
 
-![[1-SOURCES/bodhisattvacaryavatara/root-text-sk.md#^1-2]]
+![[1-SOURCES/Text/sk-root-text.md#^1-2]]
 
 Commentary on second verse. ^1-3-3
 Commentary on second verse. ^1-3-4
@@ -565,13 +558,13 @@ The commentary's own block IDs are always independent of the root verse IDs. The
 ### Block ID Links — verse level
 
 ```markdown
-[[1-SOURCES/bodhisattvacaryavatara/root-text-sk.md#^1-1]]
+[[1-SOURCES/Text/sk-root-text.md#^1-1]]
 ```
 
 For transclusion:
 
 ```markdown
-![[1-SOURCES/bodhisattvacaryavatara/root-text-sk.md#^1-1]]
+![[1-SOURCES/Text/sk-root-text.md#^1-1]]
 ```
 
 Use full paths in all `1-SOURCES/` and `2-RAILS/` files. Short wiki links are acceptable only in `4-SYSTEM/` documentation.
@@ -579,7 +572,7 @@ Use full paths in all `1-SOURCES/` and `2-RAILS/` files. Short wiki links are ac
 ### Wiki Links — file level
 
 ```markdown
-[[1-SOURCES/bodhisattvacaryavatara/commentaries/prajnakaramati-sk.md]]
+[[1-SOURCES/Commentaries/prajnakaramati-sk.md]]
 ```
 
 Used for file-to-file navigation and in frontmatter `related_*` fields.
@@ -590,11 +583,10 @@ The machine-readable map used by the LLM and Dataview to traverse the verse-to-r
 
 **Root text maps outward:**
 
-- `related_editions`
-- `related_translations`
 - `related_commentaries`
+- `related_translations`
 
-**Editions, translations, commentaries map inward:**
+**Commentaries and translations map inward:**
 
 - `root_text` — the root text they derive from or comment on
 - `covers_verses` — verse range in block ID format, e.g. `1-1–10-58`
@@ -630,7 +622,7 @@ Rules:
 
 ## 13. Checklist for Adding a New File
 
-- [ ] Correct folder — `editions/`, `translations/`, `commentaries/`, or `secondary-literature/`
+- [ ] Correct folder — `Text/`, `Commentaries/`, `Translations/`, or `References/`
 - [ ] Filename uses language tag, no diacritics, no subfolders
 - [ ] Frontmatter complete — `source_description` required at minimum
 - [ ] External IDs added where applicable (BDRC, CBETA, GRETIL, DSBC, SuttaCentral)
@@ -648,7 +640,7 @@ Rules:
 - [ ] `related_*` fields updated in root text frontmatter
 - [ ] Commentary `registered_id` added to `index.md` if new
 - [ ] Sanskrit root text in Devanāgarī, Pāli in romanised Pāli, Tibetan/Chinese in Unicode
-- [ ] Alternative scripts go in `editions/` — IAST as `iast-sk-iast.md`
+- [ ] Alternative scripts go in `Text/` — IAST as `iast-sk-iast.md`
 - [ ] Verse numbers restart per chapter — `^chapter-verse` not continuous
 - [ ] No interpretation — `[Ed: ...]` notes only
 
@@ -673,7 +665,7 @@ All folders and files use ISO 639-1 base codes with script or system suffixes wh
 |`-sk-telugu`|Telugu script|South Indian manuscript tradition|
 |`-sk-malayalam`|Malayalam script|South Indian manuscript tradition|
 
-**Default:** always use `-sk` (Devanāgarī) for Sanskrit root texts. Other tags appear only in `editions/` for script or encoding variants.
+**Default:** always use `-sk` (Devanāgarī) for Sanskrit root texts. Other tags appear only in `Text/` for script or encoding variants.
 
 ### Pāli
 
@@ -687,7 +679,7 @@ All folders and files use ISO 639-1 base codes with script or system suffixes wh
 |`-pi-dev`|Devanāgarī|Some Indian print editions|
 |`-pi-latn-cscd`|CSCD romanisation|Chaṭṭha Saṅgāyana CD encoding (minor diacritic differences from PTS)|
 
-**Default:** always use `-pi` (PTS romanisation) for root texts. Other tags appear only in `editions/` for script or encoding variants.
+**Default:** always use `-pi` (PTS romanisation) for root texts. Other tags appear only in `Text/` for script or encoding variants.
 
 **Note on CSCD:** the CSCD digital edition uses slightly different diacritics from the PTS standard in some places. Tag CSCD-sourced files as `-pi-latn-cscd` if preserving the original encoding matters; use `-pi` if normalized to PTS standard.
 

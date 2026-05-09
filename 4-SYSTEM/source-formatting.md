@@ -84,16 +84,16 @@ Include only the fields that apply. Leave inapplicable fields out entirely. `sou
 
 ### Key External Databases
 
-| Database | Scope | Field |
-|---|---|---|
-| BDRC | Tibetan, Sanskrit, Pāli | `bdrc_work_id`, `bdrc_instance_id` |
-| CBETA | Chinese Buddhist canon | `cbeta_id` |
-| GRETIL | Sanskrit texts | `gretil_url` |
-| DSBC | Sanskrit Buddhist canon | `dsbc_url` |
-| SuttaCentral | Pāli, translations | `suttacentral_id` |
-| ACIP | Tibetan | `acip_id` |
-| VIAF | Authors and works | in `other_ids` |
-| Wikidata | Works and concepts | in `other_ids` |
+| Database     | Scope                   | Field                              |
+| ------------ | ----------------------- | ---------------------------------- |
+| BDRC         | Tibetan, Sanskrit, Pāli | `bdrc_work_id`, `bdrc_instance_id` |
+| CBETA        | Chinese Buddhist canon  | `cbeta_id`                         |
+| GRETIL       | Sanskrit texts          | `gretil_url`                       |
+| DSBC         | Sanskrit Buddhist canon | `dsbc_url`                         |
+| SuttaCentral | Pāli, translations      | `suttacentral_id`                  |
+| ACIP         | Tibetan                 | `acip_id`                          |
+| VIAF         | Authors and works       | in `other_ids`                     |
+| Wikidata     | Works and concepts      | in `other_ids`                     |
 
 ---
 
@@ -128,10 +128,10 @@ related_translations:
 
 `verse_id_format` declares how block IDs are structured in this file:
 
-| Value | Block ID format | Example |
-|---|---|---|
-| `chapter-verse` | `^chapter-verse` | `^6-33` |
-| `verse` | `^verse` | `^33` |
+| Value                | Block ID format       | Example  |
+| -------------------- | --------------------- | -------- |
+| `verse`              | `^verse`              | `^33`    |
+| `chapter-verse`      | `^chapter-verse`      | `^6-33`  |
 | `book-chapter-verse` | `^book-chapter-verse` | `^1-1-1` |
 
 ### Translation Frontmatter

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random note.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random note"
+              "title": "README"
             }
           }
         ]
@@ -171,8 +171,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -186,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -205,12 +205,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "8ed141f58f3bf2a3",
+  "active": "4241afca19492c84",
   "lastOpenFiles": [
+    "Random note.md",
     "copilot/copilot-conversations/Explain_concept_based_on_my_stored_notes.@20260507_113608.md",
     "copilot/copilot-conversations/Add_Obsidian_Block_IDs_on_this_note@20260507_112303.md",
     "copilot/copilot-conversations/Obsidian_Block_Formatting@20260507_113014.md",
-    "Random note.md",
     "README.md",
     "1-Human-Sources/Root Text/sk-iats-root-text.md",
     "1-Human-Sources/Translations/入菩薩行論.md",

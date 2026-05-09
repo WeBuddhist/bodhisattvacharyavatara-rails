@@ -39,3 +39,14 @@ The extensive use of custom AI prompts indicates a preference for automated text
 - Preserve original Tibetan and Chinese terminology and file names exactly as written; do not transliterate or translate file paths.
 - When answering questions about the *Bodhisattvacharyavatara*, prioritize the authoritative context and commentaries provided in the vault over general external knowledge.
 - Be prepared to assist with technical text formatting, such as editing Obsidian block IDs and generating glossaries, as indicated by the vault's custom prompts.
+
+## Folder Renaming (2026-05-09)
+
+The vault folder structure has been renamed to reflect the 🛤️ Railroads methodology more clearly:
+- `1-Human-Sources` is now `1-SOURCES`
+- `2-Authoritative-Context` is now `2-RAILS`
+- `3-Text-Transformations` is now `3-TRANSFORMATIONS`
+- `4-Wiki` has been removed (local-wiki content remains in `2-RAILS/local-wiki/`)
+- `1-Project` (or `0-Project`) is now `4-SYSTEM`
+
+All guidelines in `4-SYSTEM/` and the `README.md` have been updated to reflect these changes.

@@ -1,8 +1,8 @@
 {
   "provider": "gemini",
   "ollamaBaseUrl": "http://localhost:11434",
-  "apiKeySecretName": "railroads",
-  "chatModelName": "gemini-flash-latest",
+  "apiKeySecretName": "tigerboy-webuddhist",
+  "chatModelName": "gemini-3.1-pro-preview",
   "summaryModelName": "gemini-flash-latest",
   "completionsModelName": "gemini-flash-lite-latest",
   "imageModelName": "gemini-2.5-flash-image",

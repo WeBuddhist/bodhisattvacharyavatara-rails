@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/སྤྱོད་འཇུག་གི་འབྲུ་འགྲེལ་དབུ་མའི་ལམ་གྱི་སྒྲོན་མ།.md",
+                "file": "1-SOURCES/Commentaries/bo-ཚྭ་ཉག་ཤེས་རབ་མཐར་ཕྱིན།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "སྤྱོད་འཇུག་གི་འབྲུ་འགྲེལ་དབུ་མའི་ལམ་གྱི་སྒྲོན་མ།"
+              "title": "bo-ཚྭ་ཉག་ཤེས་རབ་མཐར་ཕྱིན།"
             }
           }
         ]
@@ -237,9 +237,14 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "05bc820f49d95ff1",
+  "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
-    "1-SOURCES/Commentaries/སྤྱོད་འཇུག་གི་ཟིན་བྲིས་མཚུངས་མེད་བླ་མའི་ཞལ་རྒྱུན།.md",
+    "1-SOURCES/Commentaries/bo-ས་བཟང་མ་ཏི་པཎ་ཆེན་བློ་གྲོས་རྒྱལ་མཚན།.md",
+    "1-SOURCES/Commentaries/bo-ཀུན་བཟང་དཔལ་ལྡན།.md",
+    "1-SOURCES/Commentaries/bo-དགེ་བའི་ལྷ། Kṣemadeva.md",
+    "1-SOURCES/Commentaries/bo-དར་མ་རིན་ཆེན།.md",
+    "1-SOURCES/Commentaries/སྤྱོད་འཇུག་གི་འབྲུ་འགྲེལ་དབུ་མའི་ལམ་གྱི་སྒྲོན་མ།.md",
+    "1-SOURCES/Commentaries/bo-ཚྭ་ཉག་ཤེས་རབ་མཐར་ཕྱིན།.md",
     "1-SOURCES/Commentaries/bo-མི་ཉག་ཀུན་བསོད།.md",
     "1-SOURCES/Commentaries/bo-ཐོགས་མེད།.md",
     "1-SOURCES/Commentaries/bo-སྨུག་སངས་ཀརྨ་ཚེ་དཔལ།.md",
@@ -269,11 +274,6 @@
     "gemini-scribe/AGENTS.md",
     "0-INBOX",
     "gemini-scribe/Prompts/example-expert.md",
-    "copilot/copilot-conversations/Explain_concept_based_on_my_stored_notes.@20260507_113608.md",
-    "gemini-scribe/example-prompts.json",
-    "2-RAILS/Root Text w Outlines/རྩ་བ་ས་བཅད་སྦྱར་མ།.md",
-    "copilot/copilot-conversations/Add_Obsidian_Block_IDs_on_this_note@20260507_112303.md",
-    "copilot/copilot-conversations/Obsidian_Block_Formatting@20260507_113014.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md"
+    "gemini-scribe/example-prompts.json"
   ]
 }

@@ -1,14 +1,14 @@
-# 2-Authoritative-Context — Guidelines
+# 2-RAILS — Guidelines
 
-This document explains the purpose, structure, and workflow of the `2-Authoritative-Context/` folder — the heart of the 🛤️ Railroad methodology.
+This document explains the purpose, structure, and workflow of the `2-RAILS/` folder — the heart of the 🛤️ Railroad methodology.
 
-For the LLM-facing schema see `CLAUDE.md` Sections 6–12. For blank templates see `0-Project/templates/2-authoritative-context/`. For the source material this folder is compiled from see `1-Human-Sources-Guidelines.md`.
+For the LLM-facing schema see `CLAUDE.md` Sections 6–12. For blank templates see `4-SYSTEM/templates/2-rails/`. For the source material this folder is compiled from see `1-SOURCES-Guidelines.md`.
 
 ---
 
 ## 1. What This Folder Is
 
-`2-Authoritative-Context/` is the track. It is where commentary interpretation is extracted from `1-Human-Sources/` and compiled into structured, machine-readable context packages — one per verse or analytical unit — that resolve every significant ambiguity in the passage and cite the specific human source that determines each decision.
+`2-RAILS/` is the track. It is where commentary interpretation is extracted from `1-SOURCES/` and compiled into structured, machine-readable context packages — one per verse or analytical unit — that resolve every significant ambiguity in the passage and cite the specific human source that determines each decision.
 
 This is 🛤️ Railroad's core output. Everything else in the project either feeds into it (human sources, domain specialist review) or runs on it (text transformations, wiki articles). When the packages in this folder are complete and reviewed, any model can generate a tradition-grounded translation, adaptation, or lesson from them without redoing the philological work from scratch.
 
@@ -18,7 +18,7 @@ Two projects inspire this folder's design:
 
 **Andrej Karpathy's LLM wiki pattern** provides the compilation methodology: instead of feeding raw source material to an LLM at generation time and hoping it synthesises correctly, you compile that material once into a structured knowledge base. Every query and every generation task then draws on pre-compiled, verified knowledge rather than rediscovering it from scratch. Knowledge accumulates — each ingest session makes the track richer and longer.
 
-In 🛤️ Railroad the raw material is the classical commentary tradition. The compiled knowledge base is `2-Authoritative-Context/`. The difference from a general research wiki is that every claim here must be traceable to a specific human source, every field is structured precisely for LLM consumption, and the entire system is designed for multilingual, multi-tradition aggregation rather than single-lineage philology.
+In 🛤️ Railroad the raw material is the classical commentary tradition. The compiled knowledge base is `2-RAILS/`. The difference from a general research wiki is that every claim here must be traceable to a specific human source, every field is structured precisely for LLM consumption, and the entire system is designed for multilingual, multi-tradition aggregation rather than single-lineage philology.
 
 The LLM is the compiler. Human domain specialists are the reviewers. Nothing in this folder is authoritative until a domain specialist has marked it complete.
 
@@ -41,7 +41,7 @@ This is what "authoritative context" means: not context that is authoritative be
 ## 3. Folder Structure
 
 ```
-2-Authoritative-Context/
+2-RAILS/
 ├── bodhisattvacaryavatara/
 │   ├── sections/    # multi-level summaries 
 │   │       ├── summaries.md       
@@ -89,7 +89,7 @@ This is what "authoritative context" means: not context that is authoritative be
 
 **Local-glossary files** are flat single files per language pair per text: `glossary-sk-en.md`, `glossary-sk-bo.md`, `glossary-pi-en.md` etc. One entry per source lemma, all entries in a single file, alphabetically sorted. The source language is always the first tag, the target the second.
 
-**Which pairs to create:** create a pair file for every source→target combination that is attested in the text's `1-Human-Sources/` translations and commentaries. For the BCA: `sk-en`, `sk-bo`, `sk-zh`, `bo-en`, `zh-en`. For the Abhidhamma: `pi-en`, `pi-zh`, `pi-bo`, `zh-en`. A `sk-pi` pair may be created for terms shared across Sanskrit and Pāli corpora.
+**Which pairs to create:** create a pair file for every source→target combination that is attested in the text's `1-SOURCES/` translations and commentaries. For the BCA: `sk-en`, `sk-bo`, `sk-zh`, `bo-en`, `zh-en`. For the Abhidhamma: `pi-en`, `pi-zh`, `pi-bo`, `zh-en`. A `sk-pi` pair may be created for terms shared across Sanskrit and Pāli corpora.
 
 ---
 
@@ -101,7 +101,7 @@ Each verse package contains five layers. Each layer resolves a different type of
 |---|---|---|
 |Structural outline|How the text is divided and what each section does|TOC-as-headings with study notes per node|
 |Section summary|Functional, cultural, and rhetorical context for a passage|Translator study notes per section|
-|_(foundation)_ Source text|Which edition, which variants, cross-tradition witnesses|Transclusions from `1-Human-Sources/`|
+|_(foundation)_ Source text|Which edition, which variants, cross-tradition witnesses|Transclusions from `1-SOURCES/`|
 |Traditional Interpretation|What commentaries say is happening|Paraphrased prose per commentary + Synthesis|
 |Morphological|Token segmentation, compound analysis, inflection|Token table with commentary citations|
 |Syntactic (UCCA)|Sentence structure, argument relations|ASCII tree with node key|
@@ -153,7 +153,7 @@ source_id: kunzang-pelden
 source_type: commentary
 text: bodhisattvacaryavatara
 language: Tibetan
-file: 1-Human-Sources/bodhisattvacaryavatara/commentaries/kunzang-pelden-bo.md
+file: 1-SOURCES/bodhisattvacaryavatara/commentaries/kunzang-pelden-bo.md
 outline_basis: explicit
 ---
 
@@ -173,7 +173,7 @@ The tone is devotional and motivational rather than analytical.
 
 Associated concepts: [[bodhicitta (awakening mind)]] · [[bodhisattva (awakening being)]]
 · [[sugata (gone to bliss)]] · [[dharmakāya (truth body)]]
-(1-Human-Sources/bodhisattvacaryavatara/commentaries/kunzang-pelden-bo.md#^ch1-intro)
+(1-SOURCES/bodhisattvacaryavatara/commentaries/kunzang-pelden-bo.md#^ch1-intro)
 
 ---
 
@@ -193,7 +193,7 @@ to practise it. Both are addressed throughout the text.
 
 Associated concepts: [[sugata (gone to bliss)]] · [[maṅgala (auspicious opening)]]
 · [[śāstra (treatise)]] · [[bodhisattva (awakening being)]] · [[Śāntideva]]
-(1-Human-Sources/bodhisattvacaryavatara/commentaries/kunzang-pelden-bo.md#^1-1)
+(1-SOURCES/bodhisattvacaryavatara/commentaries/kunzang-pelden-bo.md#^1-1)
 
 ---
 
@@ -381,10 +381,10 @@ This field is the first thing an AI skill reads when it needs the interpretive g
 ```markdown
 ## Source Text
 
-![[1-Human-Sources/bodhisattvacaryavatara/root-text-sk.md#^1-1]]
+![[1-SOURCES/bodhisattvacaryavatara/root-text-sk.md#^1-1]]
 
 **Sanskrit Variants**
-[Ed: Vaidya reads *sugatāṃ* for *sugatān* — see 1-Human-Sources/bodhisattvacaryavatara/editions/vaidya-sk.md#^1-1]
+[Ed: Vaidya reads *sugatāṃ* for *sugatān* — see 1-SOURCES/bodhisattvacaryavatara/editions/vaidya-sk.md#^1-1]
 
 **Tibetan witness**
 [Ed: Tibetan translation reads *bde gshegs* (sugatān) — consistent with Sanskrit]
@@ -393,7 +393,7 @@ This field is the first thing an AI skill reads when it needs the interpretive g
 [Ed: Xuanzang renders *sugatān* as 善逝 (shànshì) — confirms "gone to bliss" reading]
 ```
 
-The root verse is always transcluded from the primary source language file in `1-Human-Sources/` — never copied. Translations in other languages are recorded as **textual witnesses** in the Variants block when they shed light on the Sanskrit reading, not as parallel primary sources requiring separate treatment.
+The root verse is always transcluded from the primary source language file in `1-SOURCES/` — never copied. Translations in other languages are recorded as **textual witnesses** in the Variants block when they shed light on the Sanskrit reading, not as parallel primary sources requiring separate treatment.
 
 A witness note records:
 
@@ -448,18 +448,18 @@ Prajñākaramati opens his commentary on this verse by explaining that *sugatān
 refers collectively to all the buddhas of the three times, glossing the term
 as those who have gone (*gata*) to perfect bliss (*su*) through the complete
 abandonment of all obscurations.
-(1-Human-Sources/bodhisattvacaryavatara/commentaries/prajnakaramati-sk.md#^1-1)
+(1-SOURCES/bodhisattvacaryavatara/commentaries/prajnakaramati-sk.md#^1-1)
 
 He reads *sa-gaṇān* as a bahuvrīhi compound meaning "together with their
 retinues," specifying that the retinues consist of the eight great bodhisattvas.
-(1-Human-Sources/bodhisattvacaryavatara/commentaries/prajnakaramati-sk.md#^1-1)
+(1-SOURCES/bodhisattvacaryavatara/commentaries/prajnakaramati-sk.md#^1-1)
 
 ### kunzang-pelden — Meaningful to Behold (Tibetan, 19th c.)
 
 Kunzang Pelden treats this verse as the text's homage (*phyag 'tshal ba*) and
 explains that paying homage to the Sugatas first establishes the auspicious
 conditions for the composition to be of benefit.
-(1-Human-Sources/bodhisattvacaryavatara/commentaries/kunzang-pelden-bo.md#^1-1)
+(1-SOURCES/bodhisattvacaryavatara/commentaries/kunzang-pelden-bo.md#^1-1)
 
 ### minyak-kunzang-sonam — A Guide to the Bodhisattva's Way of Life (Tibetan, 19th c.)
 
@@ -467,7 +467,7 @@ Minyak Kunzang Sönam reads this opening verse as establishing the text's
 twofold purpose — removing obstacles through homage and ensuring completion
 through the statement of intent — following the standard Tibetan commentarial
 opening formula.
-(1-Human-Sources/bodhisattvacaryavatara/commentaries/minyak-kunzang-sonam-bo.md#^1-1)
+(1-SOURCES/bodhisattvacaryavatara/commentaries/minyak-kunzang-sonam-bo.md#^1-1)
 
 ### Synthesis
 
@@ -491,9 +491,9 @@ of humility about the work's ambition.
   prompts may foreground either function depending on context
 
 ## Concept Links
-- [[2-Authoritative-Context/bodhisattvacaryavatara/local-wiki/sugata_(gone-to-bliss)]]
-- [[2-Authoritative-Context/bodhisattvacaryavatara/local-wiki/dharmakaya_(truth-body)]]
-- [[2-Authoritative-Context/bodhisattvacaryavatara/local-wiki/bodhicitta_(awakening-mind)]]
+- [[2-RAILS/bodhisattvacaryavatara/local-wiki/sugata_(gone-to-bliss)]]
+- [[2-RAILS/bodhisattvacaryavatara/local-wiki/dharmakaya_(truth-body)]]
+- [[2-RAILS/bodhisattvacaryavatara/local-wiki/bodhicitta_(awakening-mind)]]
 ```
 
 **Rules for Traditional Interpretation:**
@@ -527,9 +527,9 @@ transformation_note: "verse 6-33 — Sanskrit and Tibetan traditions diverge
 
 | Token | Lemma | POS | Inflection | Compound_role | Compound_type | Source |
 |-------|-------|-----|------------|---------------|---------------|--------|
-| sugatān | sugata | noun | acc.pl.m | — | — | (1-Human-Sources/bodhisattvacaryavatara/commentaries/prajnakaramati-sk.md#^1-1) |
-| sa-gaṇān | sa+gaṇa | noun | acc.pl.m | member1+member2 | bahuvrīhi | (1-Human-Sources/bodhisattvacaryavatara/commentaries/prajnakaramati-sk.md#^1-1) |
-| natvā | nam | verb | absol | — | — | (1-Human-Sources/bodhisattvacaryavatara/commentaries/prajnakaramati-sk.md#^1-1) |
+| sugatān | sugata | noun | acc.pl.m | — | — | (1-SOURCES/bodhisattvacaryavatara/commentaries/prajnakaramati-sk.md#^1-1) |
+| sa-gaṇān | sa+gaṇa | noun | acc.pl.m | member1+member2 | bahuvrīhi | (1-SOURCES/bodhisattvacaryavatara/commentaries/prajnakaramati-sk.md#^1-1) |
+| natvā | nam | verb | absol | — | — | (1-SOURCES/bodhisattvacaryavatara/commentaries/prajnakaramati-sk.md#^1-1) |
 ```
 
 **Citation format:** `(filepath#^block-id)` pointing to the specific commentary passage that grounds the morphological reading.
@@ -555,9 +555,9 @@ H: Scene
 **Node Key**
 | Node | Label | Tokens | Commentary basis |
 |------|-------|--------|-----------------|
-| H | Scene | full verse | (1-Human-Sources/.../prajnakaramati-sk.md#^1-1) |
-| A | Participant | sugatān sagaṇān natvā | (1-Human-Sources/.../prajnakaramati-sk.md#^1-1) |
-| P | Process | vakṣyāmi śāstrasaṅgraham | (1-Human-Sources/.../prajnakaramati-sk.md#^1-1) |
+| H | Scene | full verse | (1-SOURCES/.../prajnakaramati-sk.md#^1-1) |
+| A | Participant | sugatān sagaṇān natvā | (1-SOURCES/.../prajnakaramati-sk.md#^1-1) |
+| P | Process | vakṣyāmi śāstrasaṅgraham | (1-SOURCES/.../prajnakaramati-sk.md#^1-1) |
 ```
 
 **UCCA label set**
@@ -595,7 +595,7 @@ The semantic gloss uses the **Obsidian Interlinear Glossing plugin** (`ling-glos
 - `\gla` — source language tokens (IAST/Romanisation/Wylie)
 - `\glb` — WSD in source language: the disambiguated sense in parentheses after each token, in the source language itself
 - `\glc` — English gloss: plain gloss for unambiguous tokens, disambiguating phrase in parentheses for ambiguous ones
-- `t` — free translation of the verse derived from the traditional interpretation
+- `t` — free translation of the verse derived from the traditional interpretation
 
 ```markdown
 ## Semantic Gloss
@@ -604,10 +604,10 @@ The semantic gloss uses the **Obsidian Interlinear Glossing plugin** (`ling-glos
 \gla sugatān sa-gaṇān natvā dharma-kāya-ādi-gocarān
 \glb sugata(sammāgata) sa-gaṇa(saha-gaṇa) natvā dharma-kāya(chos-sku)-ādi-gocarān
 \glc gone-to-bliss(buddhas-of-three-times) with-retinue(eight-great-bodhisattvas) having-paid-homage whose-scope(truth-body)-etc
-t Having paid homage to the Sugatas together with their retinues, whose scope encompasses the dharmakāya and so forth
+t Having paid homage to the Sugatas together with their retinues, whose scope encompasses the dharmakāya and so forth
 \`\`\`
 
-**Source:** (1-Human-Sources/bodhisattvacaryavatara/commentaries/prajnakaramati-sk.md#^1-1)
+**Source:** (1-SOURCES/bodhisattvacaryavatara/commentaries/prajnakaramati-sk.md#^1-1)
 ```
 
 **`\glb` rules — WSD in source language:**
@@ -639,7 +639,7 @@ This layer is the direct equivalent of Aquifer Bible's Translation Notes — it 
 śāstra opening formula. Prajñākaramati explains it as a ritualized act of
 homage that establishes the auspicious conditions for the text to benefit
 its readers — it is not merely ceremonial but functionally generative.
-(1-Human-Sources/.../prajnakaramati-sk.md#^1-1)
+(1-SOURCES/.../prajnakaramati-sk.md#^1-1)
 
 Rendering strategies:
 - **Scholarly**: keep the formula close to the Sanskrit — "Having paid homage
@@ -659,7 +659,7 @@ Rendering strategies:
 the three buddha bodies stands for all three. Prajñākaramati and all Tibetan
 commentators agree that *ādi* ("and so forth") implies *saṃbhogakāya* and
 *nirmāṇakāya* — the three bodies are the full referent.
-(1-Human-Sources/.../prajnakaramati-sk.md#^1-1)
+(1-SOURCES/.../prajnakaramati-sk.md#^1-1)
 
 Rendering strategies:
 - **Scholarly**: keep *dharmakāya* untranslated with footnote: "dharmakāya
@@ -678,7 +678,7 @@ teaching) to stand for the bodhisattva path itself. All commentators read
 this as Śāntideva's deliberate limitation of scope — this is a compendium,
 not a comprehensive treatise — which they interpret as an expression of
 humility.
-(1-Human-Sources/.../prajnakaramati-sk.md#^1-1)
+(1-SOURCES/.../prajnakaramati-sk.md#^1-1)
 
 Rendering strategies:
 - **Scholarly**: "a compendium of bodhisattva practice" — preserving the
@@ -717,7 +717,6 @@ language: Sanskrit
 text: bodhisattvacaryavatara
 attested_verses: [1-15, 1-16, 2-1, ...]
 commentary_coverage: [prajnakaramati, kunzang-pelden]
-global_concept: 4-Wiki/articles/articles/bodhicitta_(awakening-mind).md
 ---
 ```
 
@@ -726,7 +725,7 @@ global_concept: 4-Wiki/articles/articles/bodhicitta_(awakening-mind).md
 
 [English prose definition of this sense as it operates within this text,
 grounded strictly in the commentary tradition for this text.
-No cross-text comparisons here — that belongs in 4-Wiki/.]
+No cross-text comparisons here.]
 
 ## Commentary Attestations
 
@@ -744,8 +743,8 @@ with citations to the verse packages where it appears.]
 
 | Verse | Role | Status | Commentary basis |
 |-------|------|--------|-----------------|
-| 1-15 | defined | complete | (1-Human-Sources/.../prajnakaramati-sk.md#^1-15) |
-| 2-1 | elaborated | partial | (1-Human-Sources/.../prajnakaramati-sk.md#^2-1) |
+| 1-15 | defined | complete | (1-SOURCES/.../prajnakaramati-sk.md#^1-15) |
+| 2-1 | elaborated | partial | (1-SOURCES/.../prajnakaramati-sk.md#^2-1) |
 
 ## Related Senses
 
@@ -759,7 +758,7 @@ Local-wiki pages grow incrementally as more verse packages are completed. They a
 
 ## 8. Translation Briefs, Glossaries, and Terminology
 
-This section covers two parallel structures: the descriptive layer in `2-Authoritative-Context/` (what existing translations actually did) and the prescriptive layer in `3-Text-Transformations/` (what new transformations should do). Both use the same `brief.md` + `terminology.md` file pair.
+This section covers two parallel structures: the descriptive layer in `2-RAILS/` (what existing translations actually did) and the prescriptive layer in `3-TRANSFORMATIONS/` (what new transformations should do). Both use the same `brief.md` + `terminology.md` file pair.
 
 ---
 
@@ -768,7 +767,7 @@ This section covers two parallel structures: the descriptive layer in `2-Authori
 #### Structure
 
 ```
-2-Authoritative-Context/[text]/
+2-RAILS/[text]/
 ├── translation-briefs/
 │   ├── crosby-en/
 │   │   ├── brief.md           # description of this translation's style and choices
@@ -785,7 +784,7 @@ This section covers two parallel structures: the descriptive layer in `2-Authori
     └── sk-bo.md
 ```
 
-One `brief.md` + `terminology.md` pair per authoritative human translation in `1-Human-Sources/[text]/translations/`. These are created by extracting all instances of source-language keywords and their target-language renderings from the translation file, then frequency-ranking them.
+One `brief.md` + `terminology.md` pair per authoritative human translation in `1-SOURCES/[text]/translations/`. These are created by extracting all instances of source-language keywords and their target-language renderings from the translation file, then frequency-ranked them.
 
 #### brief.md — Translation Brief Format
 
@@ -794,7 +793,7 @@ One `brief.md` + `terminology.md` pair per authoritative human translation in `1
 brief_id: crosby-en
 type: descriptive
 language_pair: sk-en
-source_file: 1-Human-Sources/bodhisattvacaryavatara/translations/crosby-en.md
+source_file: 1-SOURCES/bodhisattvacaryavatara/translations/crosby-en.md
 text: bodhisattvacaryavatara
 translator: Crosby, Kate; Skilton, Andrew
 date: 1995
@@ -840,7 +839,7 @@ Whether Tibetan was consulted.]
 brief_id: crosby-en
 type: descriptive
 language_pair: sk-en
-source_file: 1-Human-Sources/bodhisattvacaryavatara/translations/crosby-en.md
+source_file: 1-SOURCES/bodhisattvacaryavatara/translations/crosby-en.md
 extraction_date: [ISO date]
 total_terms: [count]
 ---
@@ -896,7 +895,7 @@ First entry = most frequent = de facto standard for this translation.*
 
 #### combined-glossary/[pair].md — Combined Glossary Format
 
-One file per language pair. Aggregates all candidates from all translation briefs for that pair. Source is always `2-Authoritative-Context/` translation briefs — never `1-Human-Sources/` or `3-Text-Transformations/` directly.
+One file per language pair. Aggregates all candidates from all translation briefs for that pair. Source is always `2-RAILS/` translation briefs — never `1-SOURCES/` or `3-TRANSFORMATIONS/` directly.
 
 ```yaml
 ---
@@ -942,7 +941,7 @@ The "Most common by style" summary is what downstream terminology selection read
 #### Structure
 
 ```
-3-Text-Transformations/[text]/
+3-TRANSFORMATIONS/[text]/
 ├── scholarly-en/
 │   ├── brief.md           # transformation specification (prescriptive)
 │   └── terminology.md     # selected standard terminology (prescriptive)
@@ -1009,7 +1008,7 @@ brief_id: scholarly-en
 type: prescriptive
 language_pair: sk-en
 text: bodhisattvacaryavatara
-source_glossary: 2-Authoritative-Context/bodhisattvacaryavatara/combined-glossary/sk-en.md
+source_glossary: 2-RAILS/bodhisattvacaryavatara/combined-glossary/sk-en.md
 created_date: [ISO date]
 last_updated: [ISO date]
 ---
@@ -1068,7 +1067,7 @@ expected to know the term.
 
 **Creating a descriptive brief (folder 2):**
 
-1. Identify an authoritative human translation in `1-Human-Sources/[text]/translations/`
+1. Identify an authoritative human translation in `1-SOURCES/[text]/translations/`
 2. Create `translation-briefs/[id]/brief.md` describing the translation's style, register, audience, and philosophy
 3. Extract all source-language keywords and their target renderings into `translation-briefs/[id]/terminology.md`, frequency-ranked
 4. Update `combined-glossary/[pair].md` with the new source column
@@ -1076,7 +1075,7 @@ expected to know the term.
 **Creating a prescriptive brief (folder 3):**
 
 1. Define the transformation's audience, purpose, register, and constraints in `[transformation-id]/brief.md`
-2. Open `2-Authoritative-Context/[text]/combined-glossary/[pair].md`
+2. Open `2-RAILS/[text]/combined-glossary/[pair].md`
 3. For each term, select the standard rendering from the combined glossary candidates, noting rationale
 4. Record in `[transformation-id]/terminology.md`
 5. Humans review and may override any selection or add new terms
@@ -1084,17 +1083,13 @@ expected to know the term.
 
 ### Purpose
 
-Glossaries serve a different function from local-wiki concept pages. Concept pages are interpretive — they collect what commentaries say about a _sense_. Glossaries are lexical — they collect every _word form_ attested in the text with morphological data, sense ID mapping, and structured metadata designed for export to Wikipedia, Wikidata, and Wiktionary.
+Glossaries serve a different function from local-wiki concept pages. Concept pages are interpretive — they collect what commentaries say about a _sense_. Glossaries are lexical — they collect every _word form_ attested in the text with morphological data, sense ID mapping, and structured metadata.
 
 A glossary entry answers: what is this word, what forms does it take, what senses does it carry in this corpus, and how does it connect to the global scholarly infrastructure?
 
 ### Scope
 
 **Local glossary** (`local-glossary/` within each text folder): one file per language pair attested in that text. Each file maps source lemmas to their target-language equivalences as established by the commentary tradition and the text's translation history. A `glossary-sk-bo.md` file answers: for each Sanskrit term in this text, what is the canonical Tibetan rendering and what do Tibetan commentators understand by it?
-
-**Global glossary** (`4-Wiki/global-glossary/`): aggregation across all texts, one file per language pair. A `glossary-sk-en.md` at the global level collects Sanskrit→English equivalences from every Sanskrit text in the project.
-
-The global glossary is the primary source for Wiktionary, Wikidata, and Wikipedia exports. Local glossaries feed into it incrementally as texts are processed.
 
 ### Local Glossary File Format
 
@@ -1111,7 +1106,6 @@ script_source: IAST
 script_target: Unicode Tibetan
 total_lemmas: [count]
 last_updated: [ISO date]
-global_glossary: 4-Wiki/global-glossary/glossary-sk-bo.md
 ---
 
 ### bodhicitta → byang chub kyi sems
@@ -1145,9 +1139,9 @@ Tibetan commentators (Kunzang Pelden, Minyak Kunzang Sönam) develop the
 relative/ultimate distinction (*kun rdzob / don dam*) more explicitly than
 Sanskrit commentators. When this distinction is active, the Tibetan requires
 disambiguation that the Sanskrit leaves implicit.
-(1-Human-Sources/bodhisattvacaryavatara/commentaries/kunzang-pelden-bo.md#^1-15)
+(1-SOURCES/bodhisattvacaryavatara/commentaries/kunzang-pelden-bo.md#^1-15)
 
-**Local-wiki link:** [[2-Authoritative-Context/bodhisattvacaryavatara/local-wiki/bodhicitta_(awakening-mind).md]]
+**Local-wiki link:** [[2-RAILS/bodhisattvacaryavatara/local-wiki/bodhicitta_(awakening-mind).md]]
 
 **Wiktionary export fields**
 ```yaml
@@ -1201,106 +1195,6 @@ Cross-language mappings are captured directly in the language-pair glossary
 files. `glossary-sk-bo.md` is itself the Sanskrit↔Tibetan mapping. There is
 no need for a separate `glossary-cross.md` file.
 
-### Global Wiki Article Workflow
-
-Global wiki articles in `4-Wiki/articles/` aggregate from local wiki articles
-— they never go back to raw sources or verse packages directly. This keeps
-the citation chain clean: `1-Human-Sources/ → 2-Authoritative-Context/ → 4-Wiki/`.
-
-The global article workflow has two stages:
-
-**Stage 1 — Aggregate local articles.** Pull the completed Stage 4 content
-from each text's local-wiki article. Note where texts agree, where they
-diverge, and where one text has content another lacks.
-
-**Stage 2 — Write cross-text article.** The global article synthesises across
-texts using the local articles as its sources, in the same Wikipedia style.
-
-```markdown
----
-term: bodhicitta
-domain: awakening-mind
-title: bodhicitta (awakening mind)
-wikidata_qid: Q209440
-attested_texts: [bodhisattvacaryavatara]
-local_articles:
-  - 2-Authoritative-Context/bodhisattvacaryavatara/local-wiki/bodhicitta_(awakening-mind).md
-article_status: stub | draft | complete
----
-
-# bodhicitta (awakening mind)
-
-**Bodhicitta** (Sanskrit: बोधिचित्त) is the mind oriented toward complete
-awakening for the benefit of all sentient beings. It is a central concept
-in Mahāyāna Buddhism.
-
-## In the Bodhicaryāvatāra
-
-[Synthesis drawn from local article, with citations to local article sections
-rather than to verse packages directly.]
-^[2-Authoritative-Context/bodhisattvacaryavatara/local-wiki/bodhicitta_(awakening-mind).md#Definition]
-
-## Cross-Text Synthesis
-[Once multiple texts are covered — how the concept develops or varies across texts.]
-
-## See Also
-- [[2-Authoritative-Context/bodhisattvacaryavatara/local-wiki/bodhicitta_(awakening-mind)]]
-
-## External Links
-- [Wikidata Q209440](https://www.wikidata.org/wiki/Q209440)
-- [Wikipedia](https://en.wikipedia.org/wiki/Bodhicitta)
-````
-
-### Global Glossary File Format
-
-`4-Wiki/global-glossary/glossary-sk-en.md` (and equivalents for other pairs) aggregates entries across all texts. Each global entry references its local attestations and accumulates translation equivalences from across the corpus.
-
-```markdown
----
-source_language: Sanskrit
-source_lang_tag: sk
-target_language: English
-target_lang_tag: en
-scope: all texts
-last_updated: [ISO date]
----
-
-### bodhicitta → awakening mind
-
-**Wikidata QID:** Q209440
-**Wiktionary:** https://en.wiktionary.org/wiki/bodhicitta
-
-**Attested in texts**
-
-| Text | Local glossary | Verse count | Primary English rendering |
-|------|---------------|-------------|--------------------------|
-| Bodhicaryāvatāra | [[2-Authoritative-Context/bodhisattvacaryavatara/local-glossary/glossary-sk-en.md#^bodhicitta]] | 12 | awakening mind |
-| [next text] | | | |
-
-**Cross-text rendering comparison**
-[Where different texts use different English renderings for the same Sanskrit
-term — e.g. "awakening mind" vs "mind of enlightenment" — and which rendering
-is preferred in 🛤️ Railroad outputs and why.]
-
-**Wiktionary export fields**
-[Merged and reconciled from all local glossary entries]
-
-**Wikidata export fields**
-[Merged and reconciled from all local glossary entries]
-```
-
-### Export Workflow
-
-When a local glossary entry is sufficiently complete (all attested forms documented, all sense IDs assigned, Wiktionary and Wikidata fields populated):
-
-1. LLM merges the entry into the global glossary
-2. Domain specialist reviews the global entry
-3. Contributor exports to Wiktionary using the `wiktionary:` YAML block as the source — following Wiktionary's Sanskrit/Pāli/Tibetan entry conventions
-4. Contributor updates or creates the Wikidata item using the `wikidata:` block
-5. Wikipedia article links are updated where the term has a Wikipedia article
-
-The global glossary is the single point of truth for all export work. Local glossaries feed into it; exports go out from it.
-
 ### Checklist for a New Glossary Entry
 
 - [ ] Lemma heading with block ID `^lemma`
@@ -1312,7 +1206,6 @@ The global glossary is the single point of truth for all export work. Local glos
 - [ ] Local-wiki link added for each sense ID
 - [ ] Wiktionary export fields populated
 - [ ] Wikidata export fields populated
-- [ ] Entry merged into global glossary (`4-Wiki/global-glossary/glossary-[pair].md`) after review
 - [ ] Sense alignment table complete — all source sense IDs mapped to target equivalents
 - [ ] Translation type recorded (calque | loan | semantic-equivalent | paraphrase | untranslated)
 - [ ] Translation notes document any interpretive differences the target language introduces
@@ -1325,9 +1218,9 @@ This is the core 🛤️ Railroad workflow, adapted from Karpathy's ingest → c
 
 ### Step 1 — Structural Ingest (Before Verse Packages)
 
-Before any verse packages are created, the structural skeleton is established. A domain specialist adds structural outlines from commentaries and reference texts to `1-Human-Sources/` and instructs the LLM:
+Before any verse packages are created, the structural skeleton is established. A domain specialist adds structural outlines from commentaries and reference texts to `1-SOURCES/` and instructs the LLM:
 
-> "Create `toc-kunzang-pelden.md` from the structural outline in `1-Human-Sources/bodhisattvacaryavatara/commentaries/kunzang-pelden-bo.md`. Then update `toc-master.md` and create stub section summary files for any new sections."
+> "Create `toc-kunzang-pelden.md` from the structural outline in `1-SOURCES/bodhisattvacaryavatara/commentaries/kunzang-pelden-bo.md`. Then update `toc-master.md` and create stub section summary files for any new sections."
 
 The LLM:
 
@@ -1342,7 +1235,7 @@ The LLM:
 
 Once structural stubs are in place, verse-level ingest begins. The domain specialist instructs the LLM:
 
-> "Ingest `1-Human-Sources/bodhisattvacaryavatara/commentaries/prajnakaramati-sk.md` sections `^1-1` through `^1-10`. Populate or update verse packages for those verses. Note any new sense IDs and create local-wiki stubs for them."
+> "Ingest `1-SOURCES/bodhisattvacaryavatara/commentaries/prajnakaramati-sk.md` sections `^1-1` through `^1-10`. Populate or update verse packages for those verses. Note any new sense IDs and create local-wiki stubs for them."
 
 The LLM:
 
@@ -1386,16 +1279,20 @@ The LLM reads the relevant verse packages and local-wiki pages and synthesises a
 
 Run periodically to maintain data integrity:
 
-- Any layer field lacking a `1-Human-Sources/` citation → mark `status: draft`
-- Any sense ID in a gloss table not in `4-Wiki/` → create stub
+- Any layer field lacking a `1-SOURCES/` citation → mark `status: draft`
 - Any ⚑ flag without a `## Divergences` entry → add entry
-- Any verse in `1-Human-Sources/` with no package file → flag as uncovered
+- Any verse in `1-SOURCES/` with no package file → flag as uncovered
 - Any local-wiki page whose `attested_verses` list is out of sync → update
-- Any `4-Wiki/` concept page citing a `local-wiki` file that has moved → fix
+- Any local-wiki page whose `attested_verses` list is out of sync → update
+- Any local-wiki page whose `attested_verses` list is out of sync → update
+- Any local-wiki page whose `attested_verses` list is out of sync → update
+- Any local-wiki page whose `attested_verses` list is out of sync → update
+- Any local-wiki page whose `attested_verses` list is out of sync → update
+- Any local-wiki page whose `attested_verses` list is out of sync → update
 
 ### Step 5 — Generate
 
-Once all packages for a passage are `complete`, the context package is assembled and passed to a transformation prompt. See `3-Text-Transformations-Guidelines.md` for the generation workflow.
+Once all packages for a passage are `complete`, the context package is assembled and passed to a transformation prompt. See `3-TRANSFORMATIONS-Guidelines.md` for the generation workflow.
 
 ---
 
@@ -1447,7 +1344,7 @@ Layer 3 (UCCA) contains the full tree spanning both verses. Layers 1, 2, 4, and 
 ```yaml
 unit_type: group
 syntactic_unit: [6-33, 6-34]
-ucca_ref: see [[2-Authoritative-Context/.../context/verses/6-33.md#Layer-3]]
+ucca_ref: see [[2-RAILS/.../context/verses/6-33.md#Layer-3]]
 ```
 
 Layer 3 in 6-34.md contains only the reference — no duplication. All other layers (1, 2, 4, 5) address verse 6-34 specifically.
@@ -1503,21 +1400,21 @@ variation: [specific morphological or lexical change from template]
 
 ## 11. Citation Rules
 
-Every claim in `2-Authoritative-Context/` must be traceable to a specific passage in `1-Human-Sources/`. The citation format is:
+Every claim in `2-RAILS/` must be traceable to a specific passage in `1-SOURCES/`. The citation format is:
 
 ```
-(1-Human-Sources/[text]/[folder]/[filename].md#^block-id)
+(1-SOURCES/[text]/[folder]/[filename].md#^block-id)
 ```
 
 Example:
 
 ```
-(1-Human-Sources/bodhisattvacaryavatara/commentaries/prajnakaramati-sk.md#^1-1)
+(1-SOURCES/bodhisattvacaryavatara/commentaries/prajnakaramati-sk.md#^1-1)
 ```
 
 **If you cannot cite a claim, do not make it.** Leave the field blank and mark the layer `status: draft`. This is the absolute rule of the project.
 
-The LLM must never use its parametric knowledge as a source. If it knows something about a term from training but cannot find it in `1-Human-Sources/`, it does not include it.
+The LLM must never use its parametric knowledge as a source. If it knows something about a term from training but cannot find it in `1-SOURCES/`, it does not include it.
 
 ---
 
@@ -1557,7 +1454,7 @@ Use these to prioritise ingest work. Aim to complete all layers for a section be
 
 - [ ] Frontmatter complete — all required fields present
 - [ ] `unit_type` determined by consulting all available commentaries
-- [ ] Source text transcluded from `1-Human-Sources/` — not copied
+- [ ] Source text transcluded from `1-SOURCES/` — not copied
 - [ ] Variants noted as editorial notes with citations to edition files
 - [ ] `disambiguation:` frontmatter field populated for all ambiguous tokens
 - [ ] `speaker:` and `discourse_mode:` frontmatter fields set
@@ -1572,7 +1469,6 @@ Use these to prioritise ingest work. Aim to complete all layers for a section be
 - [ ] Morphological — every token in the table, every compound analysed, all citations present
 - [ ] Syntactic (UCCA) — tree reflects commentary reading, node key citations complete
 - [ ] Semantic Gloss — interlinear block complete, WSD in source language, English gloss with disambiguation
-- [ ] Semantic Gloss — sense IDs registered in `4-Wiki/`
 - [ ] Translation Dynamics — all figures documented with prose explanations and rendering strategies
 - [ ] Translation Dynamics — minimum two rendering strategies per figure, citations grounded in commentaries
 - [ ] Concept links added at bottom of file

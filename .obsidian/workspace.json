@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/སྤྱོད་འཇུག་གི་འབྲུ་འགྲེལ་དབུ་མའི་ལམ་གྱི་སྒྲོན་མ།.md",
+                "file": "1-SOURCES/Commentaries/bo-འབྲུག་ཀུན་མཁྱེན་པདྨ་དཀར་པོ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "སྤྱོད་འཇུག་གི་འབྲུ་འགྲེལ་དབུ་མའི་ལམ་གྱི་སྒྲོན་མ།"
+              "title": "bo-འབྲུག་ཀུན་མཁྱེན་པདྨ་དཀར་པོ།"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -224,7 +225,7 @@
     "1-SOURCES/Commentaries/bo-ཀུན་བཟང་དཔལ་ལྡན།.md",
     "1-SOURCES/Commentaries/bo-དགེ་བའི་ལྷ། Kṣemadeva.md",
     "1-SOURCES/Commentaries/bo-དར་མ་རིན་ཆེན།.md",
-    "1-SOURCES/Commentaries/སྤྱོད་འཇུག་གི་འབྲུ་འགྲེལ་དབུ་མའི་ལམ་གྱི་སྒྲོན་མ།.md",
+    "1-SOURCES/Commentaries/bo-འབྲུག་ཀུན་མཁྱེན་པདྨ་དཀར་པོ།.md",
     "1-SOURCES/Commentaries/bo-མི་ཉག་ཀུན་བསོད།.md",
     "1-SOURCES/Commentaries/bo-ཐོགས་མེད།.md",
     "1-SOURCES/Commentaries/bo-སྨུག་སངས་ཀརྨ་ཚེ་དཔལ།.md",

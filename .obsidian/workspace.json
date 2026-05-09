@@ -181,8 +181,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           },
           {
@@ -191,8 +191,8 @@
             "state": {
               "type": "gemini-agent-view",
               "state": {},
-              "icon": "sparkles",
-              "title": "Agent Mode"
+              "icon": "lucide-ghost",
+              "title": "gemini-agent-view"
             }
           }
         ],
@@ -218,6 +218,10 @@
   },
   "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
     "0-INBOX/todo.md",
     "README.md",
     "0-INBOX/Random note.md",
@@ -230,10 +234,6 @@
     "4-SYSTEM",
     "4-WIKI",
     "3-TRANSFORMATIONS",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Skills",
-    "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions",
     "0-INBOX/Claude.md",
     "0-INBOX/bo-༢-ཚད་ལྡན་རྒྱབ་རྟེན་རྒྱུ་ཆ།.md",
     "0-INBOX/1-Human-Sources-Guideline.md",

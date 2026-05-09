@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "532594b81673b8f1",
+        "id": "6ae671b559c0ce43",
         "type": "tabs",
         "children": [
           {
-            "id": "becf22b4ffa62572",
+            "id": "effa11dea239f03b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gemini-scribe/AGENTS.md",
+                "file": "Bodhisattvacharyavatara/1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་མཆན་འགྲེལ་བཞུགས་སོ།།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AGENTS"
+              "title": "སྤྱོད་འཇུག་གི་མཆན་འགྲེལ་བཞུགས་སོ།།"
             }
           }
         ]
@@ -216,12 +216,21 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "42281badcb936359",
+  "active": "effa11dea239f03b",
   "lastOpenFiles": [
-    "Claude.md",
+    "0-Inbox/Claude.md",
+    "0-Inbox/bo-༢-ཚད་ལྡན་རྒྱབ་རྟེན་རྒྱུ་ཆ།.md",
+    "0-Inbox/1-Human-Sources-Guideline.md",
+    "Bodhisattvacharyavatara/1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་མཆན་འགྲེལ་བཞུགས་སོ།།.md",
+    "0-Inbox/Random note.md",
+    "0-Inbox/todo.md",
+    "0-Inbox/Text Selection Guideline.md",
+    "0-Inbox/bo-༡-ཁུངས་ལྡན་ཡིག་ཆ།.md",
+    "0-Inbox/2-Authoritative-Context-Guideline.md",
+    "gemini-scribe/AGENTS.md",
+    "0-Inbox",
     "gemini-scribe/Prompts/example-expert.md",
     "copilot/copilot-conversations/Explain_concept_based_on_my_stored_notes.@20260507_113608.md",
-    "gemini-scribe/AGENTS.md",
     "1-Human-Sources/Translations/བྱང་ཚུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།.md",
     "gemini-scribe/example-prompts.json",
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
@@ -232,11 +241,8 @@
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
     "gemini-scribe",
-    "Bodhisattvacharyavatara/1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་མཆན་འགྲེལ་བཞུགས་སོ།།.md",
     "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་མཆན་འགྲེལ་བཞུགས་སོ།།.md",
     "README.md",
-    "Random note.md",
-    "Bodhisattvacharyavatara/1-Human-Sources/Commentaries",
     "2-Authoritative-Context/Root Text w Outlines/རྩ་བ་ས་བཅད་སྦྱར་མ།.md",
     "copilot/copilot-conversations/Add_Obsidian_Block_IDs_on_this_note@20260507_112303.md",
     "copilot/copilot-conversations/Obsidian_Block_Formatting@20260507_113014.md",
@@ -247,12 +253,6 @@
     "copilot/copilot-conversations/Can_you_give_Obsidian_Block_IDs_for_each_stanza@20260506_095637.md",
     "copilot/copilot-conversations/Role_Expert_Editor_in_Tibetan_Buddhist_Literature,_Text_Reconstruction,_and@20260507_111018.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་ཟིན་བྲིས་མཚུངས་མེད་བླ་མའི་ཞལ་རྒྱུན།.md",
-    "2-Authoritative-Context/local wiki.md",
-    "3-Text-Transformations/hello.md",
-    "1-Human-Sources/Root Text/root-text-sk.md",
-    "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་འགྲེལ་བཤད་རྒྱལ་སྲས་རྒྱ་མཚོའི་ཡོན་ཏན་རིན་པོ་ཆེ་མི་ཟད་འཇོ་བའི་བུམ་བཟང་།.md",
-    "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་འགྲེལ་པ་ལེགས་བཤད་རྒྱ་མཚོ།.md"
+    "copilot/copilot-custom-prompts/Clip Web Page.md"
   ]
 }

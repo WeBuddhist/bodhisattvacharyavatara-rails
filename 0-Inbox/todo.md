@@ -1,0 +1,3 @@
+- add reference folders for each
+- translation brief as header
+- 

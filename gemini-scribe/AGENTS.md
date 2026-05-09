@@ -1,5 +1,5 @@
 # AGENTS.md
-
+ 
 This file provides context about this Obsidian vault for AI agents.
 
 ## Vault Overview

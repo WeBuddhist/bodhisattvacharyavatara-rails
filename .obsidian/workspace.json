@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Human-Sources/Translations/བྱང་ཚུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།.md",
+                "file": "gemini-scribe/AGENTS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "བྱང་ཚུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།"
+              "title": "AGENTS"
             }
           }
         ]
@@ -184,13 +184,23 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "42281badcb936359",
+            "type": "leaf",
+            "state": {
+              "type": "gemini-agent-view",
+              "state": {},
+              "icon": "sparkles",
+              "title": "Agent Mode"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 378.5
+    "width": 1167.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,9 +216,14 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "becf22b4ffa62572",
+  "active": "42281badcb936359",
   "lastOpenFiles": [
+    "Claude.md",
     "gemini-scribe/Prompts/example-expert.md",
+    "copilot/copilot-conversations/Explain_concept_based_on_my_stored_notes.@20260507_113608.md",
+    "gemini-scribe/AGENTS.md",
+    "1-Human-Sources/Translations/བྱང་ཚུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།.md",
+    "gemini-scribe/example-prompts.json",
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Scheduled-Tasks",
@@ -222,9 +237,7 @@
     "README.md",
     "Random note.md",
     "Bodhisattvacharyavatara/1-Human-Sources/Commentaries",
-    "Bodhisattvacharyavatara/1-Human-Sources",
     "2-Authoritative-Context/Root Text w Outlines/རྩ་བ་ས་བཅད་སྦྱར་མ།.md",
-    "copilot/copilot-conversations/Explain_concept_based_on_my_stored_notes.@20260507_113608.md",
     "copilot/copilot-conversations/Add_Obsidian_Block_IDs_on_this_note@20260507_112303.md",
     "copilot/copilot-conversations/Obsidian_Block_Formatting@20260507_113014.md",
     "1-Human-Sources/Root Text/sk-iats-root-text.md",
@@ -240,9 +253,6 @@
     "3-Text-Transformations/hello.md",
     "1-Human-Sources/Root Text/root-text-sk.md",
     "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་འགྲེལ་བཤད་རྒྱལ་སྲས་རྒྱ་མཚོའི་ཡོན་ཏན་རིན་པོ་ཆེ་མི་ཟད་འཇོ་བའི་བུམ་བཟང་།.md",
-    "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་འགྲེལ་པ་ལེགས་བཤད་རྒྱ་མཚོ།.md",
-    "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་འགྲེལ་པ་ངེས་ལེགས་མཛོད།.md",
-    "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་འགྲེལ་པ་གཞུང་དོན་རབ་གསལ་སྣང་བ།.md",
-    "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་ཟིན་བྲིས་དང་ཚིག་འགྲེལ་འཇམ་དབྱངས་བླ་མའི་ཞལ་ལུང་།.md"
+    "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་འགྲེལ་པ་ལེགས་བཤད་རྒྱ་མཚོ།.md"
   ]
 }

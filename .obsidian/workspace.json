@@ -181,8 +181,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "copilot-chat-view"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           },
           {
@@ -191,16 +191,16 @@
             "state": {
               "type": "gemini-agent-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "gemini-agent-view"
+              "icon": "sparkles",
+              "title": "Agent Mode"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 1167.5
+    "width": 584.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,11 +211,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false,
+      "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "dbacc952eaead644",
+  "active": "8ed141f58f3bf2a3",
   "lastOpenFiles": [
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
     "0-Inbox/Claude.md",
     "0-Inbox/bo-༢-ཚད་ལྡན་རྒྱབ་རྟེན་རྒྱུ་ཆ།.md",
     "0-Inbox/1-Human-Sources-Guideline.md",
@@ -232,12 +238,8 @@
     "1-Human-Sources/Translations/བྱང་ཚུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།.md",
     "gemini-scribe/example-prompts.json",
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
-    "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Scheduled-Tasks",
-    "gemini-scribe/Skills",
     "gemini-scribe/Prompts",
-    "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions",
     "gemini-scribe",
     "1-Human-Sources/Commentaries/སྤྱོད་འཇུག་གི་མཆན་འགྲེལ་བཞུགས་སོ།།.md",
     "README.md",
@@ -250,7 +252,6 @@
     "copilot/copilot-custom-prompts/Edit obsidian block IDs.md",
     "copilot/copilot-conversations/Can_you_give_Obsidian_Block_IDs_for_each_stanza@20260506_095637.md",
     "copilot/copilot-conversations/Role_Expert_Editor_in_Tibetan_Buddhist_Literature,_Text_Reconstruction,_and@20260507_111018.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Clip Web Page.md"
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md"
   ]
 }

@@ -1,4 +1,4 @@
-# bodhisattvacharyavatara-rails
+# bodhisattvacaryavatara-rails
 
 བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ། · *Bodhisattvacaryāvatāra* · Śāntideva
 
@@ -14,7 +14,7 @@ The repo holds two layers of content:
 
 **Human reference material** (`1-SOURCES/`) — editions, translations, commentaries, sub-commentaries, secondary literature, dictionaries. This is received material, formatted for navigation but not interpreted.
 
-**Authoritative context — the rails** (`2-RAILS/`) — compact, structured interpretive packages compiled from the sources above. One package per verse, plus per-chapter summaries, a local concept wiki, and bilingual glossaries. Every claim in the rails cites the human source that grounds it.
+**The Rails** (`2-RAILS/`) — compact, structured interpretive packages compiled from the sources above. One package per verse, plus per-chapter summaries, a local concept wiki, and bilingual glossaries. Every claim in the rails cites the human source that grounds it.
 
 Once the rails are laid for a verse, any AI model can run any transformation on that verse — translation, adaptation, summary, lesson — without redoing the philological work each time.
 

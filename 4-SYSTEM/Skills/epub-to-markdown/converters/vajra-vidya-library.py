@@ -9,18 +9,25 @@ Publisher profile:
   Tibetan Buddhist texts typeset in Sigil, distributed via Thrangu Vajravidya.
 
 CSS class → callout mapping for this publisher:
-  .root  (#BB5500, orange-red) → > [!root]   Root text verses (Skt/Tib source stanzas)
-  .lung  (#7D6608, dark gold)  → > [!lung]   Scriptural citations (lung = canonical quote)
-  .bold  (#003377, blue)       → > [!toc]    TOC enumeration / outline items
-  .normal (#000000, black)     → plain text  Ordinary body paragraphs (no callout)
+  .root   (#BB5500, orange-red) → > [!root]   Root text verses (Skt/Tib source stanzas)
+  .lung   (#7D6608, dark gold)  → > [!lung]   Scriptural citations (lung = canonical quote)
+  .bold   (#003377, blue)       → > [!toc]    TOC enumeration / outline items (classed)
+  .normal (#000000, black)      → plain text  Ordinary body paragraphs (no callout)
 
-Additional metadata extracted vs. generic script:
+  Unclassed <p> sa-bcad detection:
+    Two additional patterns catch Tibetan outline labels (sa-bcad) that carry no CSS class:
+    1. Ordinal-start labels: paragraph begins with a Tibetan ordinal term (གཉིས་པ་ etc.)
+       AND contains a structural close marker (ནི།, partition count like ལ་གཉིས་, etc.)
+    2. Transition+outline combos: paragraph begins with a transition phrase (དེ་ལྟར་ etc.)
+       but embeds an ordinal + partition marker mid-sentence (e.g. "Having shown X,
+       the second Y has two [parts]: Z, W, ...")
+
+Additional metadata vs. generic script:
   publisher, title_en (from calibre:title_sort), source_id (BookId URN)
 
 Structure:
   TOC injected after frontmatter.
-  Horizontal rule + H2 chapter heading inserted between spine documents
-  when the document matches a known chapter file (Chapter\d+.xhtml).
+  Horizontal rule + H2 chapter heading inserted between spine chapter documents.
 
 Requirements: ebooklib, beautifulsoup4, PyYAML
 """
@@ -31,6 +38,37 @@ import ebooklib
 from ebooklib import epub
 from bs4 import BeautifulSoup
 import yaml
+
+
+# ---------------------------------------------------------------------------
+# Sa-bcad (outline label) detection patterns
+# ---------------------------------------------------------------------------
+
+# Primary: paragraph starts with a Tibetan ordinal term
+_ORDINAL_START = re.compile(
+    r'^(དང་པོ་?[ཉིའི]?|གཅིག་པ་|གཉིས་པ་|གསུམ་པ་|བཞི་པ་|ལྔ་པ་|'
+    r'དྲུག་པ་|བདུན་པ་|བརྒྱད་པ་|དགུ་པ་|བཅུ་པ་)'
+)
+# Structural close marker (ནི། or partition count phrase)
+_STRUCTURAL_CLOSE = re.compile(
+    r'(ནི།|ནི། །|ལ་གཉིས|ལ་གསུམ|ལ་བཞི|ལ་ལྔ|ལ་དྲུག|ལ་བདུན|'
+    r'གཉིས་[ཏས][ེི]|གསུམ་[ཏས][ེི]|བཞི་[ཏས][ེི]|'
+    r'ལྔ་[ཏས][ེི]|དྲུག་[ཏས][ེི])'
+)
+# Secondary: transition phrase + embedded ordinal + partition marker
+_EMBEDDED_OUTLINE = re.compile(
+    r'[།།]\s*(གཉིས་པ་|གསུམ་པ་|བཞི་པ་|ལྔ་པ་|དྲུག་པ་|བདུན་པ་|བརྒྱད་པ་)'
+    r'.{5,80}(ལ་གཉིས|ལ་གསུམ|ལ་བཞི|ལ་ལྔ|གཉིས་[ཏས][ེི]|གསུམ་[ཏས][ེི]|དང་པོ་ནི།)'
+)
+
+
+def is_outline_label(text):
+    """Return True if an unclassed <p> is a Tibetan sa-bcad outline label."""
+    if _ORDINAL_START.match(text) and _STRUCTURAL_CLOSE.search(text):
+        return True
+    if _EMBEDDED_OUTLINE.search(text):
+        return True
+    return False
 
 
 # ---------------------------------------------------------------------------
@@ -84,15 +122,12 @@ def build_toc_md(toc, depth=0):
     lines = []
     for entry in toc:
         if isinstance(entry, epub.Link):
-            indent = '  ' * depth
-            lines.append(indent + '- ' + (entry.title or ''))
-            # No reliable in-doc anchors across merged docs; omit href
+            lines.append('  ' * depth + '- ' + (entry.title or ''))
         elif isinstance(entry, tuple):
             section, children = entry
-            indent = '  ' * depth
             title = section.title if hasattr(section, 'title') else ''
             if title:
-                lines.append(indent + '- **' + title + '**')
+                lines.append('  ' * depth + '- **' + title + '**')
             lines.extend(build_toc_md(children, depth + 1))
     return lines
 
@@ -104,12 +139,7 @@ def toc_block(book):
     return '## དཀར་ཆག / Table of Contents\n\n' + '\n'.join(lines) + '\n\n---\n\n'
 
 
-# ---------------------------------------------------------------------------
-# Chapter title lookup
-# ---------------------------------------------------------------------------
-
 def build_chapter_map(book):
-    """Map spine filename → TOC title."""
     chapter_map = {}
     def walk(toc):
         for entry in toc:
@@ -163,6 +193,7 @@ def wrap_callout(callout_type, text):
 
 FRONT_MATTER_DOCS = {'cover.xhtml', 'Incover.xhtml', 'Publisher.xhtml', 'team.xhtml', 'Contents.xhtml'}
 
+
 def process_element(element):
     tag = element.name
 
@@ -175,11 +206,15 @@ def process_element(element):
         text = inline_formats(element)
         if not text:
             return ''
+
         if color_class == 'root':
             return wrap_callout('root', text)
         elif color_class == 'lung':
             return wrap_callout('lung', text)
         elif color_class == 'toc':
+            return wrap_callout('toc', text)
+        elif not element.get('class') and is_outline_label(text):
+            # Unclassed sa-bcad outline label detected by text pattern
             return wrap_callout('toc', text)
         else:
             return text + '\n\n'
@@ -217,8 +252,6 @@ def convert_epub_to_markdown(epub_path, output_path):
 
     metadata = extract_metadata(book)
     md = '---\n' + yaml.dump(metadata, allow_unicode=True, sort_keys=False) + '---\n\n'
-
-    # Inject structured TOC
     md += toc_block(book)
 
     chapter_map = build_chapter_map(book)
@@ -230,12 +263,9 @@ def convert_epub_to_markdown(epub_path, output_path):
             continue
 
         fname = item.get_name().split('/')[-1]
-
-        # Skip cover/publisher boilerplate
         if fname in FRONT_MATTER_DOCS:
             continue
 
-        # Insert chapter heading separator
         ch_match = chapter_re.match(fname)
         if ch_match:
             ch_title = chapter_map.get(fname, '')

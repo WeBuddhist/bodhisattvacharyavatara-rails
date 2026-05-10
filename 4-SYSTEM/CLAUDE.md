@@ -61,7 +61,7 @@ Authority comes from the human commentary tradition, never from the LLM's parame
 
 ## 4. Block IDs — the verse-level link
 
-Every verse ends with an Obsidian block ID. This is the only verse-level linking mechanism.
+Every verse or discrete prose block ends with an Obsidian block ID.
 
 ```
 sugatān sagaṇān natvā dharmakāyādigocaran |
@@ -70,11 +70,53 @@ bodhisattvapadaprāptiṃ vakṣyāmi śāstrasaṅgraham || ^1-1
 
 - Format `^chapter-verse`. No zero-padding (`^6-33`, not `^06-033`).
 - Verse numbers restart at 1 each chapter.
-- Pre-chapter content (homage, colophons, title lines) goes under `## 0. Introduction` with IDs `^0-1`, `^0-2`, etc.
-- Chapter heading: `##`. Author-defined sub-sections: `###`. No `####`.
+- Pre-chapter content (homage, colophons, title lines) goes under `## 0. Introduction ^0` with IDs `^0-1`, `^0-2`, etc.
 
 Link form: `[[1-SOURCES/Text/sk-iast-root-text.md#^1-1]]`
 Transclude: `![[1-SOURCES/Text/sk-iast-root-text.md#^1-1]]`
+
+---
+
+## 4a. Heading hierarchy for source text files
+
+Headings are **editorial structure added to the original text** — they are not themselves original content. To mark this distinction and prevent any collision with verse/block IDs, every heading block ID ends with **`-0`** (the zero slot is reserved for the heading; original content always starts at `1`).
+
+| Level | Markdown | Purpose | Block ID format | Example |
+|---|---|---|---|---|
+| 1 | `#` | Title of the work | none | `# Bodhisattvacaryāvatāra` |
+| 2 | `##` | Book or top-level chapter | `^N-0` | `## 1. ལེའུ་དང་པོ། ^1-0` |
+| 3 | `###` | Chapter or section | `^N-N-0` | `### 1.2 Some Section ^1-2-0` |
+| 4 | `####` | Deeper TOC level | `^N-N-N-0` | `#### 1.2.3 Sub-section ^1-2-3-0` |
+
+Content blocks beneath a heading use the same numeric path but replace the trailing `0` with the sequential block number starting at `1`:
+
+```
+## 0. Introduction ^0-0
+
+༄། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་བཞུགས་སོ། །
+༄༅༅། །རྒྱ་གར་སྐད་དུ། བོ་དྷི་སཏྭ་ཙརྱ་ཨ་བ་ཏཱ་ར། ^0-1
+
+## 1. ལེའུ་དང་པོ། ^1-0
+
+བདེ་གཤེགས་ཆོས་ཀྱི་སྐུ་མངའ་སྲས་བཅས་དང་། །
+ཕྱག་འོས་ཀུན་ལའང་གུས་པར་ཕྱག་འཚལ་ཏེ། །
+བདེ་གཤེགས་སྲས་ཀྱི་སྡོམ་ལ་འཇུག་པ་ནི། །
+ལུང་བཞིན་མདོར་བསྡུས་ནས་ནི་བརྗོད་པར་བྱ། ། ^1-1
+
+### 1.2 Some sub-section ^1-2-0
+
+First prose block here. ^1-2-1
+Second prose block here. ^1-2-2
+```
+
+Rules:
+- The `#` title line takes **no** block ID.
+- `##` headings use `^N-0`. Chapter `0` is always the pre-chapter introduction (`## 0. Introduction ^0-0`).
+- `###` headings use `^N-N-0`, where the first segment is the parent chapter and the second is the section's ordinal within that chapter.
+- `####` headings use `^N-N-N-0`.
+- The `0` in the final position is **reserved** for the heading; original-text blocks always start at `1`. This makes it unambiguous which IDs are editorial structure and which are original content.
+- IDs must not exceed four segments (three path segments + the `0`); flatten deeper structures.
+- No zero-padding on any segment.
 
 ---
 

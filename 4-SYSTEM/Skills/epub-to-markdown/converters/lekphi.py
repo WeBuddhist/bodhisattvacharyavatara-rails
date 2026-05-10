@@ -2,7 +2,7 @@
 """
 Converter: LEK-PHI Series (Khenpo Kunzang Palden / similar Tibetan commentaries)
 Generated: 2026-05-10
-Updated:   2026-05-10 — run-based span processing to capture inline colour-coded spans
+Updated:   2026-05-10 — run-based span processing; TOC built from body sabche labels
 
 Publisher: Unknown (publisher field absent from OPF metadata)
 
@@ -22,24 +22,12 @@ CSS class -> callout mapping:
     Tibetan-Commentary         inside any paragraph -> emit as plain-text run
     _idGenCharOverride-1       utility class -- always ignored
 
-  Mixed-paragraph patterns observed in this epub:
-    <p class="Tibetan-Regular-Indented">
-        <span class="Tibetan-Sabche _idGenCharOverride-1">outline label</span>
-        <span class="Tibetan-Commentary _idGenCharOverride-1">commentary body</span>
-    </p>
-    -> [!sabche] block + plain-text block
-
-    <p class="Tibetan-Commentary-Non-Indent">
-        <span class="Tibetan-Commentary">...las. </span>
-        <span class="Tibetan-External-Citations">citation verse</span>
-        <span class="Tibetan-Commentary">zhes...</span>
-    </p>
-    -> plain block + [!lung] block + plain block
-
-Processing approach -- run-based (not paragraph-level):
-  Each <p> is walked child-by-child. Consecutive spans/text-nodes sharing the
-  same effective semantic class are merged into a run. Each run is emitted as
-  its own block. This correctly handles all mixed-class paragraphs.
+TOC:
+  Built by scanning every [!sabche] block emitted during body processing,
+  in document order. This captures both paragraph-level Tibetan-Sabche
+  paragraphs AND inline Tibetan-Sabche spans inside mixed paragraphs
+  (e.g. Tibetan-Regular-Indented paragraphs that open with a sabche label).
+  The epub's book.toc is NOT used for the TOC, as it omits inline labels.
 """
 
 import argparse
@@ -90,7 +78,7 @@ def semantic_classes(element):
 def resolve_role(cls_set):
     """
     Map a set of CSS classes to a semantic role string.
-    Returns one of: 'sabche', 'lung', 'verse', 'plain', 'chapter', 'subchapter', 'skip', or None.
+    Returns: 'sabche', 'lung', 'verse', 'plain', 'chapter', 'subchapter', 'skip', or None.
     None means no semantic opinion (inherit from context).
     """
     if not cls_set:
@@ -118,9 +106,7 @@ def extract_runs(p_element):
     """
     Walk a <p> element's direct children and return a list of (role, text) pairs.
     Consecutive content with the same effective role is merged into one run.
-
     Role priority: span's own classes > paragraph's classes.
-    Bare NavigableString nodes inherit the paragraph's role.
     """
     p_role = resolve_role(semantic_classes(p_element)) or 'plain'
 
@@ -155,7 +141,6 @@ def extract_runs(p_element):
             span_role = resolve_role(semantic_classes(child))
             role = span_role if span_role is not None else p_role
 
-            # Collect inner text (handling nested br tags)
             inner = []
             for sub in child.descendants:
                 if isinstance(sub, NavigableString):
@@ -178,7 +163,7 @@ def extract_runs(p_element):
 
 
 # ---------------------------------------------------------------------------
-# Callout formatting
+# Callout / block formatting
 # ---------------------------------------------------------------------------
 
 def wrap_callout(callout_type, text):
@@ -243,41 +228,19 @@ def extract_metadata(book):
 
 
 # ---------------------------------------------------------------------------
-# TOC
-# ---------------------------------------------------------------------------
-
-def build_toc_md(toc, depth=0):
-    lines = []
-    for entry in toc:
-        if isinstance(entry, epub.Link):
-            lines.append('  ' * depth + '- ' + (entry.title or ''))
-        elif isinstance(entry, tuple):
-            section, children = entry
-            title = section.title if hasattr(section, 'title') else ''
-            if title:
-                lines.append('  ' * depth + '- **' + title + '**')
-            lines.extend(build_toc_md(children, depth + 1))
-    return lines
-
-
-def toc_block(book):
-    lines = build_toc_md(book.toc)
-    if not lines:
-        return ''
-    return '## dkar chag / Table of Contents\n\n' + '\n'.join(lines) + '\n\n---\n\n'
-
-
-# ---------------------------------------------------------------------------
 # Document processing
 # ---------------------------------------------------------------------------
 
 def process_body(body):
     """
     Walk all p elements in the body, emit Markdown via run-based extraction.
-    Consecutive verse-citation paragraphs are grouped into a single lung block.
+    Returns (md_text, sabche_labels) where sabche_labels is every sabche
+    text collected in document order (used to build the TOC).
+    Consecutive verse-citation paragraphs are grouped into a single [!lung].
     """
     paragraphs = body.find_all(['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6'])
     md = ''
+    sabche_labels = []
     i = 0
     while i < len(paragraphs):
         el = paragraphs[i]
@@ -311,7 +274,7 @@ def process_body(body):
             i += 1
             continue
 
-        # Verse citation: collect consecutive verse paragraphs into one lung block
+        # Verse citation: collect consecutive verse paragraphs into one [!lung]
         if p_role == 'verse':
             verse_lines = []
             j = i
@@ -328,14 +291,16 @@ def process_body(body):
             i = j
             continue
 
-        # General paragraph (sabche / lung / plain): run-based extraction
+        # General paragraph: run-based extraction
         runs = extract_runs(el)
         for role, text in runs:
+            if role == 'sabche':
+                sabche_labels.append(text)
             md += emit_run(role, text)
 
         i += 1
 
-    return md
+    return md, sabche_labels
 
 
 # ---------------------------------------------------------------------------
@@ -350,8 +315,11 @@ def convert_epub_to_markdown(epub_path, output_path):
         return
 
     metadata = extract_metadata(book)
-    md = '---\n' + yaml.dump(metadata, allow_unicode=True, sort_keys=False) + '---\n\n'
-    md += toc_block(book)
+    frontmatter = '---\n' + yaml.dump(metadata, allow_unicode=True, sort_keys=False) + '---\n\n'
+
+    # Process all body documents, collecting body text and sabche labels
+    body_md = ''
+    all_sabche_labels = []
 
     for item_id, linear in book.spine:
         item = book.get_item_with_id(item_id)
@@ -369,11 +337,18 @@ def convert_epub_to_markdown(epub_path, output_path):
         if not body:
             continue
 
-        md += process_body(body)
+        doc_md, doc_labels = process_body(body)
+        body_md += doc_md
+        all_sabche_labels.extend(doc_labels)
+
+    # Build TOC from every sabche label found in the body (document order)
+    toc_lines = ['- ' + label for label in all_sabche_labels]
+    toc_block = '## དཀར་ཆག / Table of Contents\n\n' + '\n'.join(toc_lines) + '\n\n---\n\n'
 
     with open(output_path, 'w', encoding='utf-8') as f:
-        f.write(md)
+        f.write(frontmatter + toc_block + body_md)
     print('Successfully extracted to ' + output_path)
+    print(f'TOC entries: {len(all_sabche_labels)}')
 
 
 if __name__ == '__main__':

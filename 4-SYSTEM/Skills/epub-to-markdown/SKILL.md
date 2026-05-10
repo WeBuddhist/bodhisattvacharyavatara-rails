@@ -139,7 +139,7 @@ python 4-SYSTEM/Skills/epub-to-markdown/converters/<publisher_slug>.py \
   path/to/output.md
 ```
 
-The output file should be placed in `0-INBOX/` initially.
+The output file should be placed in `0-INBOX/md-texts/`.
 
 ---
 

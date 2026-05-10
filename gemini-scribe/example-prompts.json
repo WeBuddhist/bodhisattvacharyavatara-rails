@@ -1,18 +1,18 @@
 [
   {
     "icon": "book-open",
-    "text": "Compare a specific verse from the sk-iats-root-text with the Chinese translation in 入菩薩行論"
+    "text": "Compare the explanations of the Wisdom chapter found in the Mipham and Prajnakaramati commentaries"
   },
   {
     "icon": "sparkles",
-    "text": "Generate a glossary of key Buddhist terminology found in the Commentaries folder"
+    "text": "Refine the Draft commentary formatting skill in the inbox using the 1-SOURCES-Guideline"
   },
   {
-    "icon": "search",
-    "text": "Find all references to bodhicitta across the Bodhisattvacharyavatara root texts and commentaries"
+    "icon": "link",
+    "text": "Align the Sanskrit verses in the sk-dev-root-text with the structural outline found in the 2-RAILS folder"
   },
   {
-    "icon": "folder-tree",
-    "text": "Organize the 1-Human-Sources folder by separating Tibetan, Chinese, and Sanskrit texts"
+    "icon": "file-plus",
+    "text": "Summarize the major philosophical arguments within the Kṣemadeva commentary"
   }
 ]

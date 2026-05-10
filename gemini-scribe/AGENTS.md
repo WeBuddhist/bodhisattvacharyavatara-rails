@@ -1,52 +1,44 @@
 # AGENTS.md
- 
+
 This file provides context about this Obsidian vault for AI agents.
 
 ## Vault Overview
 
-This vault serves as a specialized research and translation knowledge base focused on Buddhist philosophy, specifically Shantideva's *Bodhisattvacharyavatara* (A Guide to the Bodhisattva's Way of Life).
+This vault is a specialized research and translation environment focused on Shantideva's *Bodhisattvacharyavatara* (A Guide to the Bodhisattva's Way of Life). It serves as a digital scriptorium for comparative philology, housing root texts in Sanskrit, Tibetan, and Chinese alongside a vast collection of traditional commentaries.
 
-It acts as a meticulously structured repository for root texts, translations (Tibetan, Chinese), and various commentaries, while also integrating AI prompt templates to assist with translation, summarization, and textual analysis.
+The vault utilizes the **Railroads** methodology to manage the flow of information from raw primary sources to structured, authoritative context and AI-assisted transformations, ensuring high scholarly rigor in Buddhist philosophical studies.
 
 ## Organization
 
-The vault is organized methodically by text type and source authority, separating primary texts from structural and AI-generated content.
+The vault is organized according to the **Railroads** methodology, ensuring a clear pipeline from source material to final output:
 
-- **1-Human-Sources**: Contains primary materials divided into `Commentaries`, `Root Text`, and `Translations`.
-- **2-Authoritative-Context**: Houses structural materials like root texts combined with outlines (`Root Text w Outlines`).
-- **Bodhisattvacharyavatara**: A dedicated folder for this specific text's sources and commentaries.
-- **copilot**: Manages AI interactions, storing custom prompts (e.g., translation, summarization) and conversation logs.
+- **0-INBOX**: Contains raw data and draft skills/instructions currently under development.
+- **1-SOURCES**: The repository for primary materials, subdivided into `Commentaries` (largely Tibetan), `Text` (Sanskrit root texts), and `Translations` (Tibetan and Chinese versions).
+- **2-RAILS**: Houses 'Authoritative Context,' specifically root texts integrated with structural outlines (Sachet) that provide the logical backbone for the vault.
+- **3-TRANSFORMATIONS**: Contains annotated versions, processed texts, and AI-generated syntheses based on the source materials.
+- **4-SYSTEM**: The operational core of the vault, containing internal guidelines (`1-SOURCES-Guideline`, `2-RAILS-Guideline`), AI 'skills,' and configuration files for agents.
 
-The structure prioritizes distinguishing between root texts, human-authored commentaries, and translations, making it ideal for comparative textual analysis.
+Notes are connected through a hierarchical structure of outlines and commentaries, focusing on preserving the relationship between the root verses and their various interpretations.
 
 ## Key Topics
 
-- The *Bodhisattvacharyavatara* (A Guide to the Bodhisattva's Way of Life)
-- Buddhist philosophy and traditional commentaries
-- Multilingual translation and comparative analysis (Tibetan, Chinese, Sanskrit/IATS)
-- Textual structure and outlines
-- AI-assisted text processing and formatting
+- *Bodhisattvacharyavatara* (Shantideva)
+- Tibetan Buddhist Commentaries (e.g., Kṣemadeva, Mipham, Gyaltsab Je)
+- Multilingual Comparative Analysis (Tibetan, Chinese, Sanskrit Devanagari)
+- Textual Outlining and Structural Analysis (Sachet)
+- Buddhist Philosophy and Philology
+- AI-Assisted Translation and Source Formatting
 
 ## User Preferences
 
-Based on the vault's structure, the user values scholarly rigor, clear distinction between source types (root text vs. commentary), and structured analysis. The presence of multiple languages (Tibetan, Chinese, English) suggests the agent should be precise with terminology and capable of handling multilingual queries.
+The user maintains a highly academic and structured approach to knowledge management. There is a strong preference for preserving original linguistic data; Tibetan and Chinese scripts are used extensively in file names and content, and transliteration is avoided where possible.
 
-The extensive use of custom AI prompts indicates a preference for automated text processing, such as generating glossaries, formatting block IDs, and summarizing content. This implies the user favors a direct, academic, and highly structured writing style.
+Responses should be direct, formal, and precise. The user values technical accuracy—particularly regarding block IDs and formatting—and expects the agent to follow the specific logic defined in the `4-SYSTEM` guidelines. The focus is on depth of research and fidelity to the source texts rather than general summaries.
 
 ## Custom Instructions
 
-- Maintain strict separation between root texts, commentaries, and translations when synthesizing information.
-- Preserve original Tibetan and Chinese terminology and file names exactly as written; do not transliterate or translate file paths.
-- When answering questions about the *Bodhisattvacharyavatara*, prioritize the authoritative context and commentaries provided in the vault over general external knowledge.
-- Be prepared to assist with technical text formatting, such as editing Obsidian block IDs and generating glossaries, as indicated by the vault's custom prompts.
-
-## Folder Renaming (2026-05-09)
-
-The vault folder structure has been renamed to reflect the 🛤️ Railroads methodology more clearly:
-- `1-Human-Sources` is now `1-SOURCES`
-- `2-Authoritative-Context` is now `2-RAILS`
-- `3-Text-Transformations` is now `3-TRANSFORMATIONS`
-- `4-Wiki` has been removed (local-wiki content remains in `2-RAILS/local-wiki/`)
-- `1-Project` (or `0-Project`) is now `4-SYSTEM`
-
-All guidelines in `4-SYSTEM/` and the `README.md` have been updated to reflect these changes.
+- **Maintain Source Integrity**: Strictly separate root texts (`1-SOURCES/Text`), commentaries (`1-SOURCES/Commentaries`), and structural outlines (`2-RAILS`).
+- **Preserve Terminology**: Never translate or transliterate file paths or Tibetan/Chinese terminology unless explicitly asked. Keep original scripts intact.
+- **Follow System Guidelines**: Prioritize instructions found in `4-SYSTEM/1-SOURCES-Guideline` and `4-SYSTEM/2-RAILS-Guideline` when processing or formatting text.
+- **Railroads Methodology**: When synthesizing information, recognize that `1-SOURCES` are the evidence and `2-RAILS` are the structural authority.
+- **Technical Formatting**: Be prepared to handle specialized tasks like editing Obsidian block IDs or generating glossaries as per the vault's established patterns.

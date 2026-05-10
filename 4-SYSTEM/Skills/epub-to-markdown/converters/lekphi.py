@@ -163,6 +163,64 @@ def extract_runs(p_element):
 
 
 # ---------------------------------------------------------------------------
+# Root-text marker conversion  (༷ U+0F37, TIBETAN MARK NADA)
+# ---------------------------------------------------------------------------
+
+ROOT_MARKER = '༷'   # ༷  TIBETAN MARK NADA — marks syllables that belong to root text
+
+
+def convert_root_markers(text):
+    """
+    Convert ༷-marked syllables in a text string into Markdown bold spans.
+    Consecutive marked syllables are grouped into one **bold** run.
+    A space is inserted before/after each bold group for correct MD rendering.
+    The ༷ character is stripped from all output.
+
+    Example:
+        མེད་པའི་ཕྱིར་ན་འཐད༷་པ༷་བཞི་དང༷་བཅ༷ས་པ༷ར་བྱང་ཆུབ་སེམས་དཔའ་
+        → མེད་པའི་ཕྱིར་ན་ **འཐད་པ་** བཞི་ **དང་བཅས་པར་** བྱང་ཆུབ་སེམས་དཔའ་
+    """
+    if ROOT_MARKER not in text:
+        return text
+
+    # Tokenise: each token is the text up to and including the next boundary
+    # character (tsheg ་, shad །, space, newline).  The boundary stays attached
+    # to the token so syllable spacing is preserved in the output.
+    tokens = []
+    current = ''
+    for ch in text:
+        current += ch
+        if ch in ('་', '།', ' ', '\n'):   # ་  །  space  newline
+            tokens.append(current)
+            current = ''
+    if current:
+        tokens.append(current)
+
+    # Classify each token and strip the marker
+    classified = [(ROOT_MARKER in tok, tok.replace(ROOT_MARKER, '')) for tok in tokens]
+
+    # Group consecutive tokens with the same marking into runs
+    groups = []
+    for marked, clean in classified:
+        if groups and groups[-1][0] == marked:
+            groups[-1][1] += clean
+        else:
+            groups.append([marked, clean])
+
+    # Render: wrap marked runs in **…**, adding a leading space when needed
+    # and a trailing space so the following syllable separates cleanly.
+    parts = []
+    for marked, content in groups:
+        if marked:
+            prefix = ' ' if parts and not parts[-1].endswith(' ') else ''
+            parts.append(prefix + '**' + content + '** ')
+        else:
+            parts.append(content)
+
+    return ''.join(parts)
+
+
+# ---------------------------------------------------------------------------
 # Callout / block formatting
 # ---------------------------------------------------------------------------
 
@@ -175,7 +233,7 @@ def wrap_callout(callout_type, text):
 
 def emit_run(role, text):
     """Emit one run as the appropriate Markdown block."""
-    text = text.strip()
+    text = convert_root_markers(text.strip())
     if not text:
         return ''
     if role == 'sabche':
@@ -295,7 +353,8 @@ def process_body(body):
         runs = extract_runs(el)
         for role, text in runs:
             if role == 'sabche':
-                sabche_labels.append(text)
+                # Store the cleaned label (markers converted) for the TOC
+                sabche_labels.append(convert_root_markers(text.strip()))
             md += emit_run(role, text)
 
         i += 1

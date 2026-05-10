@@ -198,6 +198,29 @@ Spot-check that coloured blocks were correctly identified:
 | `epub_inspector.py` | Analyses any epub and outputs a JSON profile |
 | `epub_to_markdown.py` | Generic fallback converter (also serves as the template) |
 | `converters/<publisher_slug>.py` | Publisher-specific converters (generated and cached) |
+| `root_marker_to_bold.py` | Standalone post-processor: converts `༷` root-text markers to Markdown bold |
+
+---
+
+## Root-text marker conversion (`༷` → `**bold**`)
+
+Tibetan epubs sometimes mark root-text syllables with `༷` (U+0F37, TIBETAN MARK NADA). Consecutive marked syllables should be grouped into a single `**bold**` span, with a space before and after so the bold renders correctly in Obsidian and standard Markdown parsers.
+
+**Publisher-specific converters** (like `lekphi.py`) call `convert_root_markers()` inline during body processing, so the output MD is already clean — no `༷` characters remain and root text is bolded.
+
+**Standalone re-processing** — if you have an existing MD file that still contains `༷` markers (e.g. produced by an older converter), run:
+
+```bash
+python 4-SYSTEM/Skills/epub-to-markdown/root_marker_to_bold.py \
+  path/to/file.md          # edits in place
+
+python 4-SYSTEM/Skills/epub-to-markdown/root_marker_to_bold.py \
+  path/to/input.md path/to/output.md   # write to separate file
+```
+
+**Logic:** the text is tokenised at tsheg `་`, shad `།`, space, and newline boundaries. Each token is classified as marked (contains `༷`) or unmarked. Consecutive marked tokens are joined into one `**...**` span; `༷` is stripped from all output.
+
+**When writing new converters:** call `convert_root_markers(text)` on any text string before emitting it as a Markdown block. Import or copy the function from `root_marker_to_bold.py`.
 
 ---
 

@@ -2,34 +2,24 @@
 """
 Converter: Vajra Vidya Library
 Generated: 2026-05-10
-Template:  epub_to_markdown.py
 
-Publisher profile:
-  Vajra Vidya Library (Sarnath / Hong Kong)
-  Tibetan Buddhist texts typeset in Sigil, distributed via Thrangu Vajravidya.
+CSS class -> callout mapping:
+  .root   (#BB5500) -> > [!root]   Root text verses
+  .lung   (#7D6608) -> > [!lung]   Scriptural citations
+  .bold   (#003377) -> > [!toc]    TOC enumeration / outline items (standalone <p>)
 
-CSS class → callout mapping for this publisher:
-  .root   (#BB5500, orange-red) → > [!root]   Root text verses (Skt/Tib source stanzas)
-  .lung   (#7D6608, dark gold)  → > [!lung]   Scriptural citations (lung = canonical quote)
-  .bold   (#003377, blue)       → > [!toc]    TOC enumeration / outline items (classed)
-  .normal (#000000, black)      → plain text  Ordinary body paragraphs (no callout)
+Unclassed <p> sa-bcad detection (two sub-cases):
+  A) Leading <span class="bold"> inside plain <p>:
+       The outline label is blue-formatted as the first span of the paragraph,
+       with commentary continuing in the same element.
+       Fix: split into [!toc] callout for the label + plain text for the rest.
+  B) Ordinal-start unclassed <p> with structural close marker:
+       Truly unclassed paragraphs that are outline labels by text pattern.
+  C) Transition+outline combo: starts with transition phrase but embeds
+       ordinal + partition marker mid-sentence.
 
-  Unclassed <p> sa-bcad detection:
-    Two additional patterns catch Tibetan outline labels (sa-bcad) that carry no CSS class:
-    1. Ordinal-start labels: paragraph begins with a Tibetan ordinal term (གཉིས་པ་ etc.)
-       AND contains a structural close marker (ནི།, partition count like ལ་གཉིས་, etc.)
-    2. Transition+outline combos: paragraph begins with a transition phrase (དེ་ལྟར་ etc.)
-       but embeds an ordinal + partition marker mid-sentence (e.g. "Having shown X,
-       the second Y has two [parts]: Z, W, ...")
-
-Additional metadata vs. generic script:
-  publisher, title_en (from calibre:title_sort), source_id (BookId URN)
-
-Structure:
-  TOC injected after frontmatter.
-  Horizontal rule + H2 chapter heading inserted between spine chapter documents.
-
-Requirements: ebooklib, beautifulsoup4, PyYAML
+Additional metadata: publisher, title_en, source_id.
+Structure: TOC injected after frontmatter. Chapter separators from spine.
 """
 
 import argparse
@@ -41,21 +31,18 @@ import yaml
 
 
 # ---------------------------------------------------------------------------
-# Sa-bcad (outline label) detection patterns
+# Sa-bcad detection patterns (for truly unclassed <p> elements)
 # ---------------------------------------------------------------------------
 
-# Primary: paragraph starts with a Tibetan ordinal term
 _ORDINAL_START = re.compile(
     r'^(དང་པོ་?[ཉིའི]?|གཅིག་པ་|གཉིས་པ་|གསུམ་པ་|བཞི་པ་|ལྔ་པ་|'
     r'དྲུག་པ་|བདུན་པ་|བརྒྱད་པ་|དགུ་པ་|བཅུ་པ་)'
 )
-# Structural close marker (ནི། or partition count phrase)
 _STRUCTURAL_CLOSE = re.compile(
     r'(ནི།|ནི། །|ལ་གཉིས|ལ་གསུམ|ལ་བཞི|ལ་ལྔ|ལ་དྲུག|ལ་བདུན|'
     r'གཉིས་[ཏས][ེི]|གསུམ་[ཏས][ེི]|བཞི་[ཏས][ེི]|'
     r'ལྔ་[ཏས][ེི]|དྲུག་[ཏས][ེི])'
 )
-# Secondary: transition phrase + embedded ordinal + partition marker
 _EMBEDDED_OUTLINE = re.compile(
     r'[།།]\s*(གཉིས་པ་|གསུམ་པ་|བཞི་པ་|ལྔ་པ་|དྲུག་པ་|བདུན་པ་|བརྒྱད་པ་)'
     r'.{5,80}(ལ་གཉིས|ལ་གསུམ|ལ་བཞི|ལ་ལྔ|གཉིས་[ཏས][ེི]|གསུམ་[ཏས][ེི]|དང་པོ་ནི།)'
@@ -63,7 +50,6 @@ _EMBEDDED_OUTLINE = re.compile(
 
 
 def is_outline_label(text):
-    """Return True if an unclassed <p> is a Tibetan sa-bcad outline label."""
     if _ORDINAL_START.match(text) and _STRUCTURAL_CLOSE.search(text):
         return True
     if _EMBEDDED_OUTLINE.search(text):
@@ -97,7 +83,6 @@ def extract_metadata(book):
         if 'BookId' in str(attrs.get('id', '')):
             source_id = val
             break
-
     d = {
         'title': dc(book, 'title') or 'Unknown Title',
         'author': dc(book, 'creator') or 'Unknown Author',
@@ -191,7 +176,8 @@ def wrap_callout(callout_type, text):
 # Element processing
 # ---------------------------------------------------------------------------
 
-FRONT_MATTER_DOCS = {'cover.xhtml', 'Incover.xhtml', 'Publisher.xhtml', 'team.xhtml', 'Contents.xhtml'}
+FRONT_MATTER_DOCS = {'cover.xhtml', 'Incover.xhtml', 'Publisher.xhtml',
+                     'team.xhtml', 'Contents.xhtml'}
 
 
 def process_element(element):
@@ -202,6 +188,26 @@ def process_element(element):
         return '#' * level + ' ' + element.get_text().strip() + '\n\n'
 
     elif tag == 'p':
+
+        # Sub-case A: leading <span class="bold"> inside an unclassed <p>.
+        # The outline label is blue-formatted as the first span of the paragraph,
+        # with the rest being plain commentary on the same element.
+        # Split: [!toc] callout for label + plain paragraph for the rest.
+        if not element.get('class'):
+            first_child = next(
+                (c for c in element.children if str(c).strip()), None
+            )
+            if (first_child and hasattr(first_child, 'get')
+                    and 'bold' in first_child.get('class', [])):
+                label = first_child.get_text().strip()
+                first_child.extract()
+                rest = inline_formats(element)
+                result = wrap_callout('toc', label)
+                if rest:
+                    result += rest + '\n\n'
+                return result
+
+        # Standard class-based routing
         color_class = get_color_class(element)
         text = inline_formats(element)
         if not text:
@@ -214,7 +220,7 @@ def process_element(element):
         elif color_class == 'toc':
             return wrap_callout('toc', text)
         elif not element.get('class') and is_outline_label(text):
-            # Unclassed sa-bcad outline label detected by text pattern
+            # Sub-cases B & C: truly unclassed sa-bcad by text pattern
             return wrap_callout('toc', text)
         else:
             return text + '\n\n'
@@ -274,8 +280,8 @@ def convert_epub_to_markdown(epub_path, output_path):
                 md += '## ' + ch_title + '\n\n'
 
         soup = BeautifulSoup(item.get_content(), 'html.parser')
-        for tag in soup(['script', 'style']):
-            tag.decompose()
+        for t in soup(['script', 'style']):
+            t.decompose()
         body = soup.find('body')
         if not body:
             continue
@@ -288,7 +294,7 @@ def convert_epub_to_markdown(epub_path, output_path):
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='EPUB to Markdown — Vajra Vidya Library')
+    parser = argparse.ArgumentParser(description='EPUB to Markdown - Vajra Vidya Library')
     parser.add_argument('epub_path', help='Path to the source EPUB file')
     parser.add_argument('output_path', help='Path to the output Markdown file')
     args = parser.parse_args()

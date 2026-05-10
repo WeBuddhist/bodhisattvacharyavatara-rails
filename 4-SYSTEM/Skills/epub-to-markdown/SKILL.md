@@ -18,6 +18,19 @@ python 4-SYSTEM/Skills/epub-to-markdown/epub_to_markdown.py path/to/source.epub 
 - **Lists**: Converts unordered and ordered lists to Markdown syntax.
 - **Blockquotes**: Converts blockquote tags to Markdown `> ` syntax.
 - **Cleaning**: Removes scripts, styles, and redundant whitespace.
+- **Color-coded block types**: Detects CSS classes that encode semantic block types and maps them to Obsidian callout blocks (see §1.1 below).
+
+### 1.1 Color-to-Callout Mapping
+
+The EPUB uses CSS classes to encode three semantic block types. The script converts these into Obsidian callout blocks so the distinction is preserved in Markdown:
+
+| EPUB CSS class | Colour in epub | Meaning | Obsidian callout |
+|---|---|---|---|
+| `.root` | Orange-red (`#BB5500`) | Root text verses | `> [!root]` |
+| `.lung` | Dark gold (`#7D6608`) | Scriptural citations | `> [!lung]` |
+| `.bold` | Blue (`#003377`) | TOC enumeration items | `> [!toc]` |
+
+H1 and H2 headings are also blue in the epub (same `#003377`) and represent chapter/section titles — these are left as standard Markdown headings (`#`, `##`).
 
 ## 2. Post-Extraction Review
 
@@ -28,6 +41,7 @@ Verify the YAML frontmatter. Ensure the `title`, `author`, and `language` fields
 
 ### 2.2 Structural Integrity
 - **Headings**: Ensure the heading hierarchy correctly reflects the source's structure.
+- **Callout blocks**: Spot-check that `> [!root]`, `> [!lung]`, and `> [!toc]` callouts appear where expected. If a block is missing its callout, check whether the EPUB uses an unexpected CSS class name (open the `.epub` as a zip and inspect `Styles/styles_epub.css`).
 - **Broken Links**: Check for any internal EPUB links that may not resolve correctly in a single Markdown file.
 - **OCR/Encoding**: Check for characters that might have been misidentified during the EPUB's original creation (especially in Tibetan or Chinese texts).
 

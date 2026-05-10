@@ -1,58 +1,174 @@
-# EPUB to Markdown Extraction Skill (Python-Assisted)
+# EPUB to Markdown Extraction Skill
 
-This skill provides a workflow for extracting content from EPUB source files into clean, structured Markdown. It focuses on preserving the original text, hierarchy, and formatting (headings, lists, links) without applying any methodology-specific transformations like block IDs or structural outlines.
+This skill converts EPUB files to structured Markdown. It is **adaptive**: for each new epub it first inspects the epub's internal structure, then either reuses an existing publisher-specific converter or generates a new one tailored to that epub's conventions.
 
-## 1. Automated Extraction
+---
 
-Use the provided Python script `4-SYSTEM/Skills/epub-to-markdown/epub_to_markdown.py` to perform the extraction. This script handles the parsing of the EPUB container and converts HTML elements into their Markdown equivalents.
+## Workflow Overview
 
-**Command Usage:**
-```bash
-python 4-SYSTEM/Skills/epub-to-markdown/epub_to_markdown.py path/to/source.epub path/to/output.md
+```
+epub file
+   │
+   ▼
+Step 1: Inspect ──► profile JSON
+   │
+   ▼
+Step 2: Check converters/ for matching publisher slug
+   │
+   ├─ Found ──► Step 4: Run existing converter
+   │
+   └─ Not found ──► Step 3: Generate new converter ──► Step 4: Run it
+                                                           │
+                                                           ▼
+                                                    Step 5: Review output
 ```
 
-**What the script automates:**
-- **Metadata**: Extracts Title, Author, Date, and Language into YAML frontmatter.
-- **Heading Hierarchy**: Preserves H1 through H6 tags.
-- **Formatting**: Preserves bold, italic, and hyperlinks within paragraphs.
-- **Lists**: Converts unordered and ordered lists to Markdown syntax.
-- **Blockquotes**: Converts blockquote tags to Markdown `> ` syntax.
-- **Cleaning**: Removes scripts, styles, and redundant whitespace.
-- **Color-coded block types**: Detects CSS classes that encode semantic block types and maps them to Obsidian callout blocks (see §1.1 below).
+---
 
-### 1.1 Color-to-Callout Mapping
+## Step 1 — Inspect the EPUB
 
-The EPUB uses CSS classes to encode three semantic block types. The script converts these into Obsidian callout blocks so the distinction is preserved in Markdown:
+Run the inspector to extract a full structural profile of the epub:
 
-| EPUB CSS class | Colour in epub | Meaning | Obsidian callout |
-|---|---|---|---|
-| `.root` | Orange-red (`#BB5500`) | Root text verses | `> [!root]` |
-| `.lung` | Dark gold (`#7D6608`) | Scriptural citations | `> [!lung]` |
-| `.bold` | Blue (`#003377`) | TOC enumeration items | `> [!toc]` |
+```bash
+python 4-SYSTEM/Skills/epub-to-markdown/epub_inspector.py path/to/source.epub
+```
 
-H1 and H2 headings are also blue in the epub (same `#003377`) and represent chapter/section titles — these are left as standard Markdown headings (`#`, `##`).
+The inspector outputs JSON containing:
+- `publisher` / `publisher_slug` — identifies which converter to use
+- `title`, `title_en`, `author`, `language`, `date`, `source_id` — all available metadata
+- `css_classes` — every CSS class found in stylesheets, with its colour value, element count, and sample text from the epub
+- `heading_colors` — colour values assigned to h1–h6 in CSS
+- `toc` — structured table of contents
+- `spine_docs` — ordered list of content documents
 
-## 2. Post-Extraction Review
+Read the profile carefully. Pay attention to:
+- Which CSS classes carry **colour values** — these encode semantic block types
+- The `sample_texts` for each class — use these to understand what the class represents (root text, citation, commentary, verse, etc.)
+- Whether heading colours match class colours (sharing a colour usually means shared semantic role)
 
-After running the script, review the output to ensure data integrity:
+---
 
-### 2.1 Metadata Check
-Verify the YAML frontmatter. Ensure the `title`, `author`, and `language` fields are accurate. You may want to add a `source_url` or `isbn` if available.
+## Step 2 — Check for an Existing Converter
 
-### 2.2 Structural Integrity
-- **Headings**: Ensure the heading hierarchy correctly reflects the source's structure.
-- **Callout blocks**: Spot-check that `> [!root]`, `> [!lung]`, and `> [!toc]` callouts appear where expected. If a block is missing its callout, check whether the EPUB uses an unexpected CSS class name (open the `.epub` as a zip and inspect `Styles/styles_epub.css`).
-- **Broken Links**: Check for any internal EPUB links that may not resolve correctly in a single Markdown file.
-- **OCR/Encoding**: Check for characters that might have been misidentified during the EPUB's original creation (especially in Tibetan or Chinese texts).
+Look in `4-SYSTEM/Skills/epub-to-markdown/converters/` for a file named `<publisher_slug>.py` (where `publisher_slug` comes from the inspector output).
 
-## 3. Usage in the Vault
+**If a matching converter exists:** skip to Step 4.
 
-This tool is intended for the initial "ingestion" phase. Once the text is extracted:
-- Move the file to `0-INBOX/` or a relevant working directory.
-- If the text is intended for the `1-SOURCES/` directory, it will likely require further manual formatting (e.g., adding block IDs, cleaning OCR artifacts) according to the [[1-SOURCES-Guideline]].
+**If no converter exists:** proceed to Step 3.
 
-## 4. Limitations
+---
 
-- **Images**: The current script does not extract image files; it only preserves text.
-- **Complex Tables**: Tables are currently ignored or stripped of formatting; they may require manual reconstruction.
-- **CSS Layouts**: Complex CSS-based layouts (like sidebars or multi-column text) are flattened into a linear stream.
+## Step 3 — Generate a Custom Converter
+
+Using the profile from Step 1, write a new Python script at:
+
+```
+4-SYSTEM/Skills/epub-to-markdown/converters/<publisher_slug>.py
+```
+
+The script must follow the same interface as `epub_to_markdown.py`:
+
+```bash
+python converters/<publisher_slug>.py path/to/source.epub path/to/output.md
+```
+
+### What to customise in the generated script
+
+**3.1 Metadata frontmatter**
+Include every meaningful field the inspector found. Common additions beyond the generic script:
+- `publisher` (always add if present)
+- `title_en` (if `calibre:title_sort` contains an English title)
+- `source_id` (the epub UUID/URN — useful for stable referencing)
+- Any other OPF meta fields with obvious meaning
+
+**3.2 CSS class → callout mapping**
+For each CSS class with a non-black colour and meaningful element count:
+1. Look at the colour value and sample texts together
+2. Assign a descriptive `callout_type` string that names the semantic role (e.g. `root`, `lung`, `toc`, `verse`, `citation`, `commentary`, `note`, `heading-enum`)
+3. Implement this in `get_color_class()` and route through `wrap_callout()`
+
+Use this colour interpretation heuristic as a starting point:
+- **Red / orange tones** → root text, verse, primary source
+- **Gold / olive / amber tones** → scriptural citation, lung, canonical quote
+- **Blue tones** (on paragraphs, not headings) → structural enumeration, TOC item
+- **Green tones** → commentary note, gloss
+- **Black (#000000)** → ordinary body text, no callout needed
+
+If a class appears fewer than 5 times or its samples look like purely structural/decorative content (logos, credits), skip it.
+
+**3.3 TOC injection**
+If the epub has a meaningful TOC (more than just a cover + one section), inject a Markdown TOC block at the top of the output, after the frontmatter:
+
+```markdown
+## Table of Contents
+- Chapter title → [[#anchor]]
+  - Sub-entry
+```
+
+Use the `toc` array from the inspector to build this. Derive anchors from the `href` filename (e.g. `Chapter0001.xhtml` → `chapter-1`).
+
+**3.4 Chapter separators**
+If the spine has clearly named chapter documents (e.g. `Chapter0001.xhtml`, `Chapter0002.xhtml`), insert a horizontal rule (`---`) and an H2 chapter heading between spine documents, using the TOC title for that document if available.
+
+**3.5 Additional metadata**
+If `title_en` is present and differs from `title`, include it in the frontmatter as `title_en`.
+
+### Script template
+
+Base the generated script on `epub_to_markdown.py` — copy its structure and extend it. Do not start from scratch. Key functions to modify:
+- `extract_metadata()` — add publisher, title_en, source_id, etc.
+- `get_color_class()` — map this epub's specific classes
+- `convert_epub_to_markdown()` — add TOC injection and chapter separators if applicable
+
+Write a docstring at the top of the generated script explaining:
+- Publisher name
+- Date generated
+- What each callout type means for this publisher
+
+---
+
+## Step 4 — Run the Converter
+
+```bash
+python 4-SYSTEM/Skills/epub-to-markdown/converters/<publisher_slug>.py \
+  path/to/source.epub \
+  path/to/output.md
+```
+
+The output file should be placed in `0-INBOX/` initially.
+
+---
+
+## Step 5 — Post-Extraction Review
+
+### 5.1 Metadata
+Verify the YAML frontmatter is accurate and complete. Check that `title`, `author`, `publisher`, and `language` are correct.
+
+### 5.2 Callout blocks
+Spot-check that coloured blocks were correctly identified:
+- Sample several `> [!root]`, `> [!lung]` etc. blocks and confirm they match the expected content type
+- If callout blocks are absent but should be present, re-inspect the CSS (open the `.epub` as a zip and look at the stylesheet directly)
+
+### 5.3 Structure
+- Confirm chapter headings appear at the right places
+- Check that the TOC (if injected) links resolve within the document
+- Look for encoding artefacts, especially in Tibetan or other non-Latin scripts
+
+---
+
+## Reference Files
+
+| File | Purpose |
+|---|---|
+| `epub_inspector.py` | Analyses any epub and outputs a JSON profile |
+| `epub_to_markdown.py` | Generic fallback converter (also serves as the template) |
+| `converters/<publisher_slug>.py` | Publisher-specific converters (generated and cached) |
+
+---
+
+## Limitations
+
+- **Images**: Only text is extracted; image files are not copied.
+- **Complex tables**: May be flattened or stripped; manual reconstruction may be needed.
+- **CSS layouts**: Multi-column or sidebar layouts are linearised.
+- **Inline colour spans**: Colour applied to individual `<span>` elements within a paragraph (rather than the whole `<p>`) is not currently captured.

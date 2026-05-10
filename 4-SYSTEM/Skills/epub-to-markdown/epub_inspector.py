@@ -2,25 +2,18 @@
 """
 epub_inspector.py
 -----------------
-Analyses an EPUB file and outputs a structured JSON profile that Claude uses
-to decide whether an existing custom converter already covers this publisher,
-or whether to generate a new one.
+Analyses an EPUB and outputs a structured JSON profile Claude uses to decide
+whether an existing custom converter covers this publisher, or whether to
+generate a new one.
 
-Output (stdout, JSON):
-  publisher        - DC publisher string or null
-  title            - DC title
-  title_en         - calibre:title_sort if present (often the English title)
-  author           - DC creator
-  language         - DC language code
-  date             - DC date
-  source_id        - BookId identifier (uuid/urn)
-  sigil_version    - Sigil version used to build epub, if present
-  publisher_slug   - filesystem-safe slug derived from publisher name
-  css_classes      - list of {name, color, element_count, sample_text, suggested_callout}
-  heading_colors   - dict of h1..h6 color values found in CSS
-  spine_docs       - list of spine document filenames in order
-  toc              - nested list of {title, href, children}
-  all_metadata     - raw dump of all DC and OPF metadata
+Key output fields:
+  publisher / publisher_slug   - identifies which converter to reuse
+  css_classes                  - all semantic CSS classes with colour, count, samples
+  mixed_class_patterns         - paragraphs where inline <span> overrides parent <p>
+                                 class mid-sentence (requires run-based converter)
+  heading_colors               - h1..h6 colour values
+  toc                          - structured table of contents
+  spine_docs                   - ordered content documents
 
 Usage:
   python epub_inspector.py path/to/book.epub
@@ -30,9 +23,13 @@ import json
 import re
 import sys
 import unicodedata
+from collections import defaultdict
 import ebooklib
 from ebooklib import epub
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, NavigableString
+
+
+SEMANTIC_CLASSES = {'root', 'lung', 'bold', 'normal'}
 
 
 # ---------------------------------------------------------------------------
@@ -53,7 +50,6 @@ def dc(book, key):
 
 
 def opf_meta(book):
-    """Return dict of name->content from OPF <meta> tags."""
     result = {}
     for val, attrs in book.metadata.get('http://www.idpf.org/2007/opf', {}).get('meta', []):
         name = attrs.get('name') or attrs.get('property')
@@ -68,17 +64,11 @@ def opf_meta(book):
 # ---------------------------------------------------------------------------
 
 def parse_css_classes(book):
-    """
-    Parse all stylesheet items and return:
-      {class_name: {color, element_count, sample_texts}}
-    Also returns heading_colors {h1: color, ...}.
-    """
     raw_css = ''
     for item in book.get_items():
         if item.get_type() == ebooklib.ITEM_STYLE:
             raw_css += item.get_content().decode('utf-8', errors='replace') + '\n'
 
-    # Extract class rules: .classname { ... color: #xxx ... }
     class_rules = {}
     heading_colors = {}
 
@@ -90,17 +80,13 @@ def parse_css_classes(book):
             continue
         color = color_match.group(1).strip().rstrip(';').strip()
 
-        # Heading selectors
         for h in ['h1', 'h2', 'h3', 'h4', 'h5', 'h6']:
             if re.fullmatch(rf'\s*{h}\s*', selector):
                 heading_colors[h] = color
 
-        # Class selectors
         for cls_match in re.finditer(r'\.([\w-]+)', selector):
-            cls_name = cls_match.group(1)
-            class_rules[cls_name] = {'color': color}
+            class_rules[cls_match.group(1)] = {'color': color}
 
-    # Count elements and collect samples from spine
     class_counts = {k: 0 for k in class_rules}
     class_samples = {k: [] for k in class_rules}
 
@@ -117,7 +103,6 @@ def parse_css_classes(book):
                             if sample:
                                 class_samples.setdefault(cls, []).append(sample)
 
-    # Build output list, only classes that actually appear in content
     result = []
     for cls, rule in class_rules.items():
         count = class_counts.get(cls, 0)
@@ -128,11 +113,71 @@ def parse_css_classes(book):
             'color': rule['color'],
             'element_count': count,
             'sample_texts': class_samples.get(cls, []),
-            'suggested_callout': None,  # Claude fills this in
+            'suggested_callout': None,
         })
 
     result.sort(key=lambda x: -x['element_count'])
     return result, heading_colors
+
+
+# ---------------------------------------------------------------------------
+# Mixed-class paragraph detection
+# ---------------------------------------------------------------------------
+
+def find_mixed_class_paragraphs(book):
+    """
+    Detect <p> elements where inline <span> children carry a DIFFERENT semantic
+    class from the parent <p> (or introduce a semantic class into an unclassed <p>).
+
+    This signals that the epub uses sub-paragraph colour coding: semantic colour
+    can apply to partial sentences, trailing connectives, or embedded labels.
+    A paragraph-level callout approach will merge content incorrectly; the
+    converter must use a run-based approach instead.
+
+    Common patterns found in Tibetan Buddhist EPUBs:
+      <p class=lung> + <span class=normal>
+          Citation paragraph ending with a plain-text connective like
+          'ཞེས་དང༌།' or 'ཞེས་སོ།།'. The connective should be plain text,
+          not inside the [!lung] callout.
+      <p class=plain> + <span class=bold>
+          Outline label (blue) at the start of a commentary paragraph.
+          Should be split into [!toc] callout + plain commentary.
+
+    Returns list of {pattern, count, samples} sorted by frequency.
+    """
+    pattern_counts = defaultdict(int)
+    pattern_samples = defaultdict(list)
+
+    for item_id, _ in book.spine:
+        item = book.get_item_with_id(item_id)
+        if not item or item.get_type() != ebooklib.ITEM_DOCUMENT:
+            continue
+        soup = BeautifulSoup(item.get_content(), 'html.parser')
+        body = soup.find('body')
+        if not body:
+            continue
+        for p in body.find_all('p'):
+            p_sem = set(p.get('class', [])) & SEMANTIC_CLASSES
+            inline_sems = set()
+            for child in p.children:
+                if not hasattr(child, 'get'):
+                    continue
+                span_sem = set(child.get('class', [])) & SEMANTIC_CLASSES
+                if span_sem and span_sem != p_sem:
+                    inline_sems.update(span_sem)
+            if not inline_sems:
+                continue
+            p_label = ','.join(sorted(p_sem)) if p_sem else 'plain'
+            span_label = ','.join(sorted(inline_sems))
+            pattern = '<p class=' + p_label + '> contains inline <span class=' + span_label + '>'
+            pattern_counts[pattern] += 1
+            if len(pattern_samples[pattern]) < 2:
+                pattern_samples[pattern].append(p.get_text()[:120].strip())
+
+    return [
+        {'pattern': pat, 'count': cnt, 'samples': pattern_samples[pat]}
+        for pat, cnt in sorted(pattern_counts.items(), key=lambda x: -x[1])
+    ]
 
 
 # ---------------------------------------------------------------------------
@@ -143,13 +188,20 @@ def flatten_toc(toc, depth=0):
     entries = []
     for entry in toc:
         if isinstance(entry, epub.Link):
-            entries.append({'title': entry.title, 'href': entry.href, 'depth': depth, 'children': []})
+            entries.append({
+                'title': entry.title,
+                'href': entry.href,
+                'depth': depth,
+                'children': []
+            })
         elif isinstance(entry, tuple):
             section, children = entry
-            node = {'title': section.title if hasattr(section, 'title') else str(section),
-                    'href': section.href if hasattr(section, 'href') else None,
-                    'depth': depth,
-                    'children': flatten_toc(children, depth + 1)}
+            node = {
+                'title': section.title if hasattr(section, 'title') else str(section),
+                'href': section.href if hasattr(section, 'href') else None,
+                'depth': depth,
+                'children': flatten_toc(children, depth + 1)
+            }
             entries.append(node)
     return entries
 
@@ -164,15 +216,8 @@ def inspect_epub(epub_path):
     publisher = dc(book, 'publisher')
 
     css_classes, heading_colors = parse_css_classes(book)
+    mixed_class_patterns = find_mixed_class_paragraphs(book)
 
-    # All raw metadata for reference
-    all_metadata = {}
-    for ns, items in book.metadata.items():
-        for key, values in items.items():
-            for val, attrs in values:
-                all_metadata[f"{ns}#{key}"] = {'value': val, 'attrs': attrs}
-
-    # Identifiers
     source_id = None
     for val, attrs in book.get_metadata('DC', 'identifier') or []:
         if 'BookId' in str(attrs.get('id', '')):
@@ -183,7 +228,7 @@ def inspect_epub(epub_path):
         if ids:
             source_id = ids[0][0]
 
-    profile = {
+    return {
         'publisher': publisher,
         'publisher_slug': slugify(publisher) if publisher else 'unknown',
         'title': dc(book, 'title'),
@@ -195,13 +240,14 @@ def inspect_epub(epub_path):
         'sigil_version': meta.get('Sigil version'),
         'css_classes': css_classes,
         'heading_colors': heading_colors,
-        'spine_docs': [book.get_item_with_id(iid).get_name()
-                       for iid, _ in book.spine
-                       if book.get_item_with_id(iid)],
+        'mixed_class_patterns': mixed_class_patterns,
+        'spine_docs': [
+            book.get_item_with_id(iid).get_name()
+            for iid, _ in book.spine
+            if book.get_item_with_id(iid)
+        ],
         'toc': flatten_toc(book.toc),
     }
-
-    return profile
 
 
 if __name__ == '__main__':

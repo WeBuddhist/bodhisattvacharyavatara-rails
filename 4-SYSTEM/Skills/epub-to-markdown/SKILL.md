@@ -42,9 +42,13 @@ The inspector outputs JSON containing:
 - `spine_docs` — ordered list of content documents
 
 Read the profile carefully. Pay attention to:
-- Which CSS classes carry **colour values** — these encode semantic block types
-- The `sample_texts` for each class — use these to understand what the class represents (root text, citation, commentary, verse, etc.)
-- Whether heading colours match class colours (sharing a colour usually means shared semantic role)
+
+- **`css_classes`**: which classes carry colour values and what the samples suggest about their semantic role (root text, citation, TOC label, etc.)
+- **`heading_colors`**: whether heading colours share values with class colours (usually means same semantic role)
+- **`mixed_class_patterns`** ← critical: if this list is non-empty, the epub uses sub-paragraph colour coding — inline `<span>` elements override or exit the parent `<p>`'s class mid-sentence. This means a paragraph-level callout approach will incorrectly merge content that should be split into separate blocks. The converter **must** use a run-based approach (walking `<p>` children one by one and grouping by effective class). Common patterns and how to handle them:
+  - `<p class=lung> contains inline <span class=normal>` — citation paragraph with a trailing connective phrase (`ཞེས་དང༌།`, `ཞེས་སོ།།`) that reverts to plain text. Emit the citation body as `[!lung]`, then the connective as plain text.
+  - `<p class=plain> contains inline <span class=bold>` — outline label at the start (or middle) of a commentary paragraph. Split into `[!toc]` for the label + plain text for the rest.
+  - Any other pattern: examine the samples, decide whether the span is structural (should split into a new block) or merely decorative emphasis (can stay inside the parent block).
 
 ---
 

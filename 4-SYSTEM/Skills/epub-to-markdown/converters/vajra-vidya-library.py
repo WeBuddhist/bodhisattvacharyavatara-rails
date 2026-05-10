@@ -6,17 +6,27 @@ Generated: 2026-05-10
 CSS class -> callout mapping:
   .root   (#BB5500) -> > [!root]   Root text verses
   .lung   (#7D6608) -> > [!lung]   Scriptural citations
-  .bold   (#003377) -> > [!toc]    TOC enumeration / outline items (standalone <p>)
+  .bold   (#003377) -> > [!toc]    TOC enumeration / outline items
+  .normal (#000000) -> plain text  Explicit revert-to-plain inside colored block
 
-Unclassed <p> sa-bcad detection (two sub-cases):
-  A) Leading <span class="bold"> inside plain <p>:
-       The outline label is blue-formatted as the first span of the paragraph,
-       with commentary continuing in the same element.
-       Fix: split into [!toc] callout for the label + plain text for the rest.
-  B) Ordinal-start unclassed <p> with structural close marker:
-       Truly unclassed paragraphs that are outline labels by text pattern.
-  C) Transition+outline combo: starts with transition phrase but embeds
-       ordinal + partition marker mid-sentence.
+Processing approach — run-based, not paragraph-level:
+  Each <p> is walked child-by-child. Consecutive text nodes and spans that share
+  the same effective semantic class are merged into a "run". Each run is then
+  emitted as its own block (callout or plain text). This correctly handles:
+
+    1. Trailing .normal span in .lung/.root paragraph:
+         <p class="lung">verse...<span class="normal">ཞེས་དང༌།</span></p>
+         -> [!lung] callout for verse + plain text for ཞེས་དང༌།
+
+    2. Leading <span class="bold"> in plain <p> (outline label + commentary):
+         <p><span class="bold">label</span> commentary...</p>
+         -> [!toc] callout for label + plain text for commentary
+
+    3. Inline .bold single-word emphasis inside .lung paragraph:
+         stays inside the [!lung] callout (no semantic split needed for 1-2 word emphasis)
+
+    4. Truly unclassed <p> sa-bcad labels (ordinal-start or transition+outline):
+         detected by text pattern and emitted as [!toc] callout.
 
 Additional metadata: publisher, title_en, source_id.
 Structure: TOC injected after frontmatter. Chapter separators from spine.
@@ -26,12 +36,19 @@ import argparse
 import re
 import ebooklib
 from ebooklib import epub
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, NavigableString
 import yaml
 
 
 # ---------------------------------------------------------------------------
-# Sa-bcad detection patterns (for truly unclassed <p> elements)
+# Semantic class constants
+# ---------------------------------------------------------------------------
+
+SEMANTIC_CLASSES = {'root', 'lung', 'bold', 'normal'}
+
+
+# ---------------------------------------------------------------------------
+# Sa-bcad detection patterns (for truly unclassed runs)
 # ---------------------------------------------------------------------------
 
 _ORDINAL_START = re.compile(
@@ -142,34 +159,135 @@ def build_chapter_map(book):
 
 
 # ---------------------------------------------------------------------------
-# Inline formatting & colour class detection
+# Run-based paragraph processing
 # ---------------------------------------------------------------------------
 
-def get_color_class(element):
-    classes = element.get('class', [])
-    if 'root' in classes:
-        return 'root'
-    if 'lung' in classes:
-        return 'lung'
-    if 'bold' in classes:
-        return 'toc'
-    return None
+def extract_runs(element):
+    """
+    Walk a <p> element's children and return a list of (effective_class, text) pairs,
+    where consecutive content sharing the same semantic class is merged into one run.
 
+    effective_class is one of: 'root', 'lung', 'toc', 'normal', 'plain'
+      - Inherited from the <p>'s own class unless overridden by an inline <span>
+      - 'normal' and empty map to 'plain' for emission purposes
+      - .bold maps to 'toc'
+      - <br/> becomes '\n' within the current run
+    """
+    p_classes = set(element.get('class', []))
+    p_semantic = p_classes & SEMANTIC_CLASSES
 
-def inline_formats(element):
-    for s in element.find_all(['strong', 'b']):
-        s.replace_with('**' + s.get_text() + '**')
-    for i in element.find_all(['em', 'i']):
-        i.replace_with('*' + i.get_text() + '*')
-    for a in element.find_all('a', href=True):
-        a.replace_with('[' + a.get_text() + '](' + a['href'] + ')')
-    return element.get_text().strip()
+    def resolve(cls_set):
+        effective = cls_set & SEMANTIC_CLASSES if cls_set else p_semantic
+        if not effective:
+            return 'plain'
+        if 'root' in effective:
+            return 'root'
+        if 'lung' in effective:
+            return 'lung'
+        if 'bold' in effective:
+            return 'toc'
+        return 'plain'  # 'normal' -> plain
+
+    runs = []
+    cur_cls = None
+    cur_parts = []
+
+    def flush():
+        if cur_parts:
+            text = ''.join(cur_parts).strip()
+            if text:
+                runs.append((cur_cls, text))
+
+    for child in element.children:
+        if isinstance(child, NavigableString):
+            text = str(child)
+            if not text.strip():
+                continue
+            child_cls = resolve(None)
+            if child_cls == cur_cls:
+                cur_parts.append(text)
+            else:
+                flush()
+                cur_cls = child_cls
+                cur_parts = [text]
+
+        elif child.name == 'br':
+            cur_parts.append('\n')
+
+        elif child.name in ('a',):
+            # Links: inherit parent class, format as markdown link
+            href = child.get('href', '')
+            link_text = child.get_text()
+            text = '[' + link_text + '](' + href + ')' if href else link_text
+            child_cls = resolve(None)
+            if child_cls == cur_cls:
+                cur_parts.append(text)
+            else:
+                flush()
+                cur_cls = child_cls
+                cur_parts = [text]
+
+        else:
+            # <span> or other inline element
+            span_classes = set(child.get('class', []))
+            child_cls = resolve(span_classes)
+
+            # Collect text inside span, handling nested <br/>
+            inner_parts = []
+            for sub in child.children:
+                if isinstance(sub, NavigableString):
+                    inner_parts.append(str(sub))
+                elif sub.name == 'br':
+                    inner_parts.append('\n')
+                else:
+                    inner_parts.append(sub.get_text())
+            text = ''.join(inner_parts)
+            if not text.strip():
+                continue
+
+            if child_cls == cur_cls:
+                cur_parts.append(text)
+            else:
+                flush()
+                cur_cls = child_cls
+                cur_parts = [text]
+
+    flush()
+    return runs
 
 
 def wrap_callout(callout_type, text):
-    lines = text.split('\n')
+    lines = text.strip().split('\n')
     body = '\n'.join('> ' + line for line in lines)
     return '> [!' + callout_type + ']\n' + body + '\n\n'
+
+
+def emit_run(cls, text):
+    """Emit a single run as the appropriate Markdown block."""
+    text = text.strip()
+    if not text:
+        return ''
+    if cls == 'root':
+        return wrap_callout('root', text)
+    if cls == 'lung':
+        return wrap_callout('lung', text)
+    if cls == 'toc':
+        return wrap_callout('toc', text)
+    # plain / normal
+    if is_outline_label(text):
+        return wrap_callout('toc', text)
+    return text + '\n\n'
+
+
+def process_paragraph(element):
+    runs = extract_runs(element)
+    if not runs:
+        return ''
+    # Single-run fast path (the common case)
+    if len(runs) == 1:
+        return emit_run(runs[0][0], runs[0][1])
+    # Multi-run: emit each separately
+    return ''.join(emit_run(cls, text) for cls, text in runs)
 
 
 # ---------------------------------------------------------------------------
@@ -188,42 +306,7 @@ def process_element(element):
         return '#' * level + ' ' + element.get_text().strip() + '\n\n'
 
     elif tag == 'p':
-
-        # Sub-case A: leading <span class="bold"> inside an unclassed <p>.
-        # The outline label is blue-formatted as the first span of the paragraph,
-        # with the rest being plain commentary on the same element.
-        # Split: [!toc] callout for label + plain paragraph for the rest.
-        if not element.get('class'):
-            first_child = next(
-                (c for c in element.children if str(c).strip()), None
-            )
-            if (first_child and hasattr(first_child, 'get')
-                    and 'bold' in first_child.get('class', [])):
-                label = first_child.get_text().strip()
-                first_child.extract()
-                rest = inline_formats(element)
-                result = wrap_callout('toc', label)
-                if rest:
-                    result += rest + '\n\n'
-                return result
-
-        # Standard class-based routing
-        color_class = get_color_class(element)
-        text = inline_formats(element)
-        if not text:
-            return ''
-
-        if color_class == 'root':
-            return wrap_callout('root', text)
-        elif color_class == 'lung':
-            return wrap_callout('lung', text)
-        elif color_class == 'toc':
-            return wrap_callout('toc', text)
-        elif not element.get('class') and is_outline_label(text):
-            # Sub-cases B & C: truly unclassed sa-bcad by text pattern
-            return wrap_callout('toc', text)
-        else:
-            return text + '\n\n'
+        return process_paragraph(element)
 
     elif tag == 'ul':
         md = ''

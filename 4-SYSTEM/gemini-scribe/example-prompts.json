@@ -1,18 +1,18 @@
 [
   {
-    "icon": "book-open",
-    "text": "Compare the explanations of the Wisdom chapter found in the Mipham and Prajnakaramati commentaries"
+    "icon": "search",
+    "text": "Compare how the commentaries by Ngulchu Thogme and Kṣemadeva interpret the concept of the Awakening Mind"
   },
   {
     "icon": "sparkles",
-    "text": "Refine the Draft commentary formatting skill in the inbox using the 1-SOURCES-Guideline"
+    "text": "Process the files in the 0-INBOX using the source-property-extractor skill to align them with the 1-SOURCES-Guideline"
   },
   {
-    "icon": "link",
-    "text": "Align the Sanskrit verses in the sk-dev-root-text with the structural outline found in the 2-RAILS folder"
+    "icon": "book-open",
+    "text": "Identify discrepancies in verse numbering between the Chinese translation 入菩薩行論 and the Tibetan root text in the 2-RAILS folder"
   },
   {
-    "icon": "file-plus",
-    "text": "Summarize the major philosophical arguments within the Kṣemadeva commentary"
+    "icon": "lightbulb",
+    "text": "Create a summary of the philological insights regarding the Sanskrit root text found in the Prajñākaramati commentary"
   }
 ]

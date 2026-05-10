@@ -257,8 +257,11 @@ def extract_runs(element):
 
 
 def wrap_callout(callout_type, text):
-    lines = text.strip().split('\n')
-    body = '\n'.join('> ' + line for line in lines)
+    # Collapse consecutive newlines so no blank lines appear within the callout block.
+    # Consecutive shlokas are already separated because each is its own callout block.
+    text = re.sub(r'\n{2,}', '\n', text.strip())
+    lines = text.split('\n')
+    body = '\n'.join('> ' + line.strip() for line in lines if line.strip())
     return '> [!' + callout_type + ']\n' + body + '\n\n'
 
 

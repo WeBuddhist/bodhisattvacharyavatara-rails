@@ -45,10 +45,41 @@ Read the profile carefully. Pay attention to:
 
 - **`css_classes`**: which classes carry colour values and what the samples suggest about their semantic role (root text, citation, TOC label, etc.)
 - **`heading_colors`**: whether heading colours share values with class colours (usually means same semantic role)
-- **`mixed_class_patterns`** ← critical: if this list is non-empty, the epub uses sub-paragraph colour coding — inline `<span>` elements override or exit the parent `<p>`'s class mid-sentence. This means a paragraph-level callout approach will incorrectly merge content that should be split into separate blocks. The converter **must** use a run-based approach (walking `<p>` children one by one and grouping by effective class). Common patterns and how to handle them:
-  - `<p class=lung> contains inline <span class=normal>` — citation paragraph with a trailing connective phrase (`ཞེས་དང༌།`, `ཞེས་སོ།།`) that reverts to plain text. Emit the citation body as `[!lung]`, then the connective as plain text.
-  - `<p class=plain> contains inline <span class=bold>` — outline label at the start (or middle) of a commentary paragraph. Split into `[!toc]` for the label + plain text for the rest.
-  - Any other pattern: examine the samples, decide whether the span is structural (should split into a new block) or merely decorative emphasis (can stay inside the parent block).
+- **`mixed_class_patterns`**: if this list is non-empty, the epub uses sub-paragraph colour coding. **However, `mixed_class_patterns` can be empty even when inline spans carry semantic classes** — the inspector only detects patterns where the span class name differs from the paragraph class name, and it may miss utility-suffixed classes like `Tibetan-Sabche _idGenCharOverride-1`. **Always run the span co-occurrence check below regardless of what `mixed_class_patterns` reports.**
+
+**Mandatory inline-span check (run this after every inspection):**
+
+```bash
+python3 -c "
+from bs4 import BeautifulSoup
+from collections import Counter
+import zipfile, os, sys
+
+epub_path = sys.argv[1]
+with zipfile.ZipFile(epub_path) as z:
+    docs = [n for n in z.namelist() if n.endswith('.xhtml') or n.endswith('.html')]
+    counts = Counter()
+    for doc in docs:
+        soup = BeautifulSoup(z.read(doc), 'html.parser')
+        for p in soup.find_all('p'):
+            pcls = tuple(c for c in p.get('class', []) if not c.startswith('_'))
+            for span in p.find_all('span', recursive=False):
+                scls = tuple(c for c in span.get('class', []) if not c.startswith('_'))
+                if scls and scls != pcls:
+                    counts[(pcls, scls)] += 1
+    for (pc, sc), n in counts.most_common():
+        print(f'p={pc} span={sc}: {n}')
+" path/to/source.epub
+```
+
+Any `(p_class, span_class)` pair where they differ is a mixed-content paragraph requiring run-based processing. Common patterns and how to handle them:
+
+  - `<p class=plain> contains <span class=sabche>` — inline outline label at the start of a commentary paragraph. Split into `[!sabche]` for the label + plain text for the rest.
+  - `<p class=plain> contains <span class=lung>` — prose citation embedded mid-commentary. Split into plain + `[!lung]` + plain (or plain + `[!lung]` if citation is at the end).
+  - `<p class=lung> contains <span class=plain>` — citation paragraph with a trailing connective phrase (`ཞེས་དང༌།`, `ཞེས་སོ།།`) reverting to plain. Emit the citation body as `[!lung]`, then the connective as plain text.
+  - `<p class=plain> contains <span class=bold>` — outline label at the start of a commentary paragraph. Split into `[!toc]` for the label + plain text for the rest.
+
+**If any mixed patterns are found**, the converter must use a run-based approach: walk each `<p>`'s children one by one, resolve each span's effective semantic class (span class takes priority over paragraph class, utility classes like `_idGenCharOverride-1` are stripped), group consecutive same-class content into runs, and emit each run as its own block. See `converters/lekphi.py` for a complete reference implementation of this pattern.
 
 ---
 
@@ -175,4 +206,4 @@ Spot-check that coloured blocks were correctly identified:
 - **Images**: Only text is extracted; image files are not copied.
 - **Complex tables**: May be flattened or stripped; manual reconstruction may be needed.
 - **CSS layouts**: Multi-column or sidebar layouts are linearised.
-- **Inline colour spans**: Colour applied to individual `<span>` elements within a paragraph (rather than the whole `<p>`) is not currently captured.
+- **Inline colour spans**: Fully supported via run-based processing when the mandatory span co-occurrence check (Step 1) detects mixed patterns. Converters that pre-date this check (using paragraph-level `get_text()` only) will miss inline spans and must be regenerated.

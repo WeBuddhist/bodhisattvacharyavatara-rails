@@ -1,18 +1,18 @@
 [
   {
     "icon": "search",
-    "text": "Compare how the commentaries by Ngulchu Thogme and Kṣemadeva interpret the concept of the Awakening Mind"
+    "text": "Find all Tibetan commentaries in the Sources folder written by authors like Ngulchu Thogme or Khenpo Kunpal"
   },
   {
-    "icon": "sparkles",
-    "text": "Process the files in the 0-INBOX using the source-property-extractor skill to align them with the 1-SOURCES-Guideline"
+    "icon": "file-plus",
+    "text": "Create a summary of the 1-SOURCES-Guideline to help me properly format and tag new Tibetan source files"
   },
   {
-    "icon": "book-open",
-    "text": "Identify discrepancies in verse numbering between the Chinese translation 入菩薩行論 and the Tibetan root text in the 2-RAILS folder"
+    "icon": "globe",
+    "text": "Research the historical relationship between the Sanskrit root text and the Tibetan translation of the Bodhicharyavatara"
   },
   {
-    "icon": "lightbulb",
-    "text": "Create a summary of the philological insights regarding the Sanskrit root text found in the Prajñākaramati commentary"
+    "icon": "folder-tree",
+    "text": "Process the draft commentary in the Inbox using the format-commentary skill and move it to the Transformations folder"
   }
 ]

@@ -120,6 +120,34 @@ Rules:
 
 ---
 
+## 4b. Inline TOC phrases — wikilink tagging
+
+Buddhist texts frequently contain **inline structural announcements**: sentences where the author enumerates the upcoming sections before elaborating each one. These phrases are original content (not editorial additions), but they are also the textual source of the TOC headings. Tagging them makes the connection explicit and enables backlink navigation across the vault.
+
+**Convention:** wrap each announced term in a wikilink pointing to the block ID of the heading it sources.
+
+```markdown
+## ལེའུ་དང་པོ། ^1-0
+[[#^1-0|ལེའུ་དང་པོ་]]ལ་[[#^1-1-0|མདོར་བསྟན་པ་]]དང་[[#^1-2-0|རྒྱས་པར་བཤད་པ་]]གཉིས་ཡོད་པ་ལས།
+
+### མདོར་བསྟན་པ། ^1-1-0
+[[#^1-1-0|དང་པོ་མདོར་བསྟན་པ་]]ནི་འདི་དང་འདིའོ།།
+
+### རྒྱས་པར་བཤད་པ། ^1-2-0
+[[#^1-2-0|གཉིས་པ་རྒྱས་པར་བཤད་པ་]]ལ་ནི་དེ་དང་དེ་ལས་མང་བའོ།།
+```
+
+Rules:
+- In the **enumeration sentence** (where multiple sections are announced together), each announced term links forward to its corresponding section heading: `[[#^N-N-0|term]]`.
+- In the **body of each section**, the repetition of the section title links to its own heading: `[[#^N-N-0|term]]`. This is self-referential by design — it tags the phrase as the textual source of that heading.
+- For cross-file links (e.g. a commentary tagging terms from the root text structure): `[[filename#^N-N-0|term]]`.
+- Use the minimal display text — just the structural term itself, not the full grammatical phrase.
+- These wikilinks are the only inline tagging mechanism. Do not use italics, HTML spans, or Dataview fields for this purpose.
+
+**Why self-referential links are correct:** clicking `[[#^1-1-0|དང་པོ་མདོར་བསྟན་པ་]]` inside section `^1-1-0` scrolls you to the heading of that section — a minor navigation no-op. The value is in the backlinks panel: every file that tags a phrase with `#^1-1-0` becomes visible on that heading, revealing where the structure was announced across all commentaries and translations in the vault.
+
+---
+
 ## 5. 1-SOURCES rules
 
 Files here are received material — formatted for navigation but never interpreted. Permitted additions only:

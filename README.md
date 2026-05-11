@@ -74,6 +74,19 @@ Other transformations the rails are designed to support: thematic summaries, stu
 
 ---
 
+## Ingesting files into 1-SOURCES
+
+### Epubs
+
+1. **Drop the epub into `raw-data/`.**
+2. **Convert to Markdown** — run the `epub-to-markdown` skill. It will produce a `.md` file and place it in `temp/`.
+3. **Check the converted file** in `temp/` — verify the text came through cleanly before proceeding.
+4. **Add the table of contents** — run the `add-toc` skill on the file in `temp/`.
+5. **Check the file with TOC** in `temp/` — confirm the TOC is correct and the structure looks right.
+6. *(Next steps TBD.)*
+
+---
+
 ## How to contribute
 
 If you are a domain specialist (philologist, scholar, traditional teacher) reviewing or correcting AI-generated content: focus on `2-RAILS/`. Set `status: complete` only on packages whose claims you can stand behind. Flag divergences with ⚑ rather than smoothing them.

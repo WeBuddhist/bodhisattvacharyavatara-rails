@@ -9,11 +9,11 @@ import yaml
 EPUB to Markdown Extractor
 --------------------------
 Extracts EPUB content into clean Markdown, preserving semantic block types
-as Obsidian callout blocks based on CSS class colour coding:
+as wiki markup links based on CSS class colour coding:
 
-  .root  (orange-red #BB5500) -> > [!root]  -- root text verses
-  .lung  (dark gold  #7D6608) -> > [!lung]  -- scriptural citations
-  .bold  (blue       #003377) -> > [!toc]   -- TOC enumeration items
+  .root  (orange-red #BB5500) -> [[root|text]]  -- root text verses
+  .lung  (dark gold  #7D6608) -> [[lung|text]]  -- scriptural citations
+  .bold  (blue       #003377) -> [[toc|text]]   -- TOC enumeration items
 
 Requirements: ebooklib, beautifulsoup4, PyYAML
 """
@@ -57,10 +57,8 @@ def inline_formats(element):
 
 
 def wrap_callout(callout_type, text):
-    """Wrap text in an Obsidian callout block."""
-    lines = text.split('\n')
-    body = '\n'.join('> ' + line for line in lines)
-    return '> [!' + callout_type + ']\n' + body + '\n\n'
+    """Wrap text in wiki markup link format."""
+    return '[[' + callout_type + '|' + text + ']]\n\n'
 
 
 def process_element(element):

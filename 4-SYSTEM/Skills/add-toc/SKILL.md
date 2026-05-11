@@ -37,12 +37,17 @@ Common locations:
 
 ## Step 2 — Run the script
 
-Run `scripts/add_toc.py` relative to this skill directory:
+Run `scripts/add_toc.py` relative to this skill directory. Locate the skill
+directory within the workspace folder (always at `4-SYSTEM/Skills/add-toc/`)
+and build the path from the workspace root:
 
 ```bash
-python "C:/Users/trinley/Obsidian/bodhisattvacharyavatara-rails/4-SYSTEM/Skills/add-toc/scripts/add_toc.py" \
+python "<workspace_root>/4-SYSTEM/Skills/add-toc/scripts/add_toc.py" \
   "<absolute/path/to/input.md>"
 ```
+
+Replace `<workspace_root>` with the actual vault/workspace root path on the
+current machine (e.g. the folder containing `0-INBOX`, `1-SOURCES`, etc.).
 
 The script auto-detects the document format and writes the output to
 `0-INBOX/temp/toc-<filename>.md` inside the vault.
@@ -127,5 +132,5 @@ Tibetan numbering prefixes to watch for:
 
 ## Output location
 
-Always `0-INBOX/temp/toc-{original-filename}` within the vault root at:
-`C:/Users/trinley/Obsidian/bodhisattvacharyavatara-rails/`
+Always `0-INBOX/temp/toc-{original-filename}` within the vault root
+(the folder containing `0-INBOX`, `1-SOURCES`, `2-RAILS`, etc.).

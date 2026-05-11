@@ -163,6 +163,65 @@ def _extract_format_bc(lines):
 
 
 # ---------------------------------------------------------------------------
+# Format D  ([[toc|TEXT]] callouts in body — lekphi.py / epub converter output)
+# ---------------------------------------------------------------------------
+
+_TOC_CALLOUT = re.compile(r"\[\[toc\|([^\]]+)\]\]")
+
+# Tibetan ordinal words that mark subdivisions (short labels starting with
+# these are likely sub-entries rather than top-level division headers).
+_ORDINAL_WORDS = re.compile(
+    r"(?:དང་པོ|གཉིས་པ|གསུམ་པ|བཞི་པ|ལྔ་པ|དྲུག་པ|"
+    r"བདུན་པ|བརྒྱད་པ|དགུ་པ|བཅུ་པ)",
+    re.UNICODE,
+)
+
+# Long labels (>= 60 chars) are overview/division markers -> depth 1.
+# Short labels starting with an ordinal word               -> depth 2.
+# Everything else                                          -> depth 1.
+_LONG_LABEL_THRESHOLD = 60
+
+
+def _toc_callout_depth(raw_text):
+    t = raw_text.strip()
+    if len(t) >= _LONG_LABEL_THRESHOLD:
+        return 1
+    if _ORDINAL_WORDS.match(t):
+        return 2
+    return 1
+
+
+def _extract_format_d(lines):
+    """
+    Extract [[toc|TEXT]] callouts from the document body.
+    Used for files produced by the epub->markdown lekphi.py converter,
+    which embeds sa-bcad labels as [[toc|...]] callouts inline in the body.
+    Skips any existing flat TOC section to avoid double-counting.
+    Depth heuristic: long overview labels -> 1; short ordinal labels -> 2.
+    """
+    in_toc_section = False
+    entries = []
+    for line in lines:
+        if _TOC_HEADING.match(line):
+            in_toc_section = True
+            continue
+        if in_toc_section:
+            if line.startswith("---"):
+                in_toc_section = False
+            continue
+        for m in _TOC_CALLOUT.finditer(line):
+            raw = m.group(1)
+            text = clean_text(raw)
+            if not text:
+                continue
+            depth = _toc_callout_depth(raw)
+            entries.append({"depth": depth, "text": text})
+    if not entries:
+        return None
+    return _assign_toc_ids(entries)
+
+
+# ---------------------------------------------------------------------------
 # Render
 # ---------------------------------------------------------------------------
 
@@ -178,9 +237,9 @@ def render_toc(entries):
 # Main
 # ---------------------------------------------------------------------------
 
-# Fallback vault root — used only if find_vault_root() cannot auto-detect
+# Fallback vault root -- used only if find_vault_root() cannot auto-detect
 _WIN_ROOT = Path(r"C:\Users\trinley\Obsidian\bodhisattvacharyavatara-rails")
-_LIN_ROOT = Path("/sessions/eloquent-laughing-gates/mnt/bodhisattvacharyavatara-rails")
+_LIN_ROOT = Path("/sessions/relaxed-wizardly-meitner/mnt/bodhisattvacharyavatara-rails")
 VAULT_ROOT = _WIN_ROOT if _WIN_ROOT.exists() else _LIN_ROOT
 
 
@@ -212,11 +271,13 @@ def process_file(input_path, output_dir=None):
     entries = _extract_format_a(lines)
     if not entries:
         entries = _extract_format_bc(lines)
+    if not entries:
+        entries = _extract_format_d(lines)
 
     if not entries:
         print("ERROR: No TOC structure found in " + src.name, file=sys.stderr)
         print("The file needs a ## dkar-chag section with ^toc-* IDs,", file=sys.stderr)
-        print("or lines with ^X-Y(-Z)* block IDs.", file=sys.stderr)
+        print("or lines with ^X-Y(-Z)* block IDs, or [[toc|...]] callouts.", file=sys.stderr)
         return False
 
     toc_body    = render_toc(entries)
@@ -243,6 +304,7 @@ def process_file(input_path, output_dir=None):
 
     out_path.write_text(new_text, encoding="utf-8")
     print("TOC added. Output: " + str(out_path))
+    print("TOC entries: " + str(len(entries)))
     return True
 
 

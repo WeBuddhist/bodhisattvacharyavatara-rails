@@ -1,3 +1,12 @@
+---
+title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་གཞུང་དོན་སྣང་བ་ཞེས་བྱ་བ་བཞུགས།
+title in English: Commentary on Entering the Way of the Bodhisattva, Illumination of the Meaning of the Text
+author: ལོ་ཙཱ་བ་བློ་གྲོས་དཔལ་བཟང།
+author in English: Translator Lodro Palzang
+file_type: commentary
+language_tag: bo
+source_description: ""
+---
 
 ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་གཞུང་དོན་སྣང་བ་ཞེས་བྱ་བ་བཞུགས།
 

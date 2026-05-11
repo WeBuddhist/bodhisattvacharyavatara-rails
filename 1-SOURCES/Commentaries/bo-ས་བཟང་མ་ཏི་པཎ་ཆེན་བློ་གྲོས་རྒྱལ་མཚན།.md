@@ -1,3 +1,12 @@
+---
+title: སྤྱོད་འཇུག་འགྲེལ་པ་གཞུང་དོན་རབ་གསལ་སྣང་བ།
+title in English: Commentary on the Bodhicaryāvatāra, Brilliant Illumination of the Meaning of the Text
+author: ས་བཟང་མ་ཏི་པཎ་ཆེན་བློ་གྲོས་རྒྱལ་མཚན།
+author in English: Sazang Mati Panchen Lodro Gyaltsen
+file_type: commentary
+language_tag: bo
+source_description: ""
+---
 
 1
 

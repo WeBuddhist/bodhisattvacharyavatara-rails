@@ -1,3 +1,12 @@
+---
+title: སྤྱོད་འཇུག་གི་འབྲུ་འགྲེལ་དབུ་མའི་ལམ་གྱི་སྒྲོན་མ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+title in English: Syllable Commentary on the Bodhicaryāvatāra, Lamp of the Madhyamaka Path
+author: ཀུན་མཁྱེན་འབྲུག་པ་རིན་པོ་ཆེ་ངག་དབང་ཆོས་ཀྱི་རྒྱལ་པོ
+author in English: Kunkhyen Drukpa Rinpoche Ngawang Choekyi Gyalpo (Pema Karpo)
+file_type: commentary
+language_tag: bo
+source_description: ""
+---
 
 1
 

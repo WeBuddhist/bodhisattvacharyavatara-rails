@@ -1,4 +1,12 @@
-
+---
+title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་དཀའ་འགྲེལ།
+title in English: Difficult Points Commentary on Entering the Way of the Bodhisattva (Bodhisattvacaryāvatārapañjikā)
+author: ཤེས་རབ་འབྱུང་གནས་བློ་གྲོས།
+author in English: Prajñākaramati
+file_type: commentary
+language_tag: bo
+source_description: Indian Sanskrit sub-commentary on the Bodhisattvacaryāvatāra
+---
 
 ༄༅༅། །རྒྱ་གར་སྐད་དུ། བོ་དྷི་སཏྭ་ཙཱརྱ་ཨ་བ་ཏཱ་ར་པཉྩི་ཀཱ།
 

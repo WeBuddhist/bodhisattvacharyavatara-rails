@@ -1,3 +1,12 @@
+---
+title: ཤེས་རབ་ཀྱི་ལེའུའི་ཚིག་དོན་གོ་སླ་བར་རྣམ་པར་བཤད་པ་ནོར་བུ་ཀེ་ཏ་ཀ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+title in English: Clear Explanation of the Words and Meaning of the Wisdom Chapter, Ketaka
+author: འཇུ་མི་ཕམ།
+author in English: Ju Mipham
+file_type: commentary
+language_tag: bo
+source_description: Commentary on the wisdom chapter (chapter nine) of the Bodhisattvacaryāvatāra
+---
 
 ༄༅། །ཤེས་རབ་ཀྱི་ལེའུའི་ཚིག་དོན་གོ་སླ་བར་རྣམ་པར་བཤད་པ་ནོར་བུ་ཀེ་ཏ་ཀ་ཞེས་བྱ་བ་བཞུགས་སོ།།
 

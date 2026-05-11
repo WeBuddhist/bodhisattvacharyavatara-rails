@@ -1,3 +1,12 @@
+---
+title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཟིན་བྲིས་མཚུངས་མེད་བླ་མའི་ཞལ་རྒྱུན་བཞུགས་སོ། །
+title in English: Notes on Entering the Way of the Bodhisattva, Oral Teachings of the Incomparable Guru
+author: ཚྭ་ཉག་ཤེས་རབ་མཐར་ཕྱིན།
+author in English: Tsanyak Sherab Tartsin
+file_type: commentary
+language_tag: bo
+source_description: ""
+---
 
 1
 

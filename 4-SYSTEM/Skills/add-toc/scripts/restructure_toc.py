@@ -2,15 +2,15 @@
 """
 restructure_toc.py — Post-process a lekphi-format TOC to fix sa-bcad nesting.
 
-Long sa-bcad overview entries encode the full section hierarchy inline.
-This script:
-  1. Compresses long overview entries to their section title
-  2. Inserts synthetic intermediate headings (depth 2) implied by the overview
-  3. Promotes following tagged entries to depth 3 when the overview has 2 levels
+Improvements over the flat 2-level output from add_toc.py Format D:
+  1. Compresses long sa-bcad overview entries to a clean section title
+  2. Inserts synthetic intermediate depth-2 headings when the overview
+     describes two levels of hierarchy
+  3. Promotes leaf entries to depth 3 accordingly
   4. Removes meaningless stub entries (bare ལ་, ནི།, etc.)
   5. Re-numbers all ^toc-X-Y-Z block IDs
 
-Usage:  python restructure_toc.py <toc_file.md> [--output <out_file.md>]
+Usage:  python restructure_toc.py <toc_file.md> [output_file.md]
 """
 
 import re
@@ -18,152 +18,178 @@ import sys
 from pathlib import Path
 
 # ---------------------------------------------------------------------------
-# Tibetan text helpers
+# Tibetan helpers
 # ---------------------------------------------------------------------------
 
 _ORDINAL_PAT = re.compile(
-    r"^(?:དང་པོ|གཉིས་པ|གསུམ་པ|བཞི་པ|ལྔ་པ|དྲུག་པ|"
-    r"བདུན་པ|བརྒྱད་པ|དགུ་པ|བཅུ་པ)[་།\s]*",
+    r"^(?:དང་པོ|གཉིས་པ|གསུམ་པ|བཞི་པ|ལྔ་པ|དྲུག་པ|བདུན་པ|བརྒྱད་པ|དགུ་པ|བཅུ་པ)"
+    r"[་།\s]*",
     re.UNICODE,
 )
-_BRACKET_MARKERS = re.compile(r"^[༡༢༣༤༥༦༧༨༩༠]༽\s*|^[ཀ-ཬ]༽\s*", re.UNICODE)
+_BRACKET_PAT = re.compile(r"^[༡༢༣༤༥༦༧༨༩༠]༽\s*|^[ཀ-ཬ]༽\s*", re.UNICODE)
+
 
 def strip_ordinal(text):
     t = _ORDINAL_PAT.sub("", text.strip())
-    t = _BRACKET_MARKERS.sub("", t)
+    t = _BRACKET_PAT.sub("", t)
     return t.strip()
+
+
+def ensure_shad(text):
+    """Append shad if the text doesn't end with one."""
+    t = text.strip().rstrip("་")
+    if not t:
+        return text
+    return t + ("།" if not t.endswith("།") else "")
+
+
+# ---------------------------------------------------------------------------
+# Enumeration markers
+# ---------------------------------------------------------------------------
+
+# Matches count words followed by ལས།/སྟེ།/། (loose — catches "དང་གསུམ།" etc.)
+_ENUM_RE = re.compile(
+    r"(?:གཉིས་|གསུམ་|བཞི་|ལྔ་|དྲུག་|བདུན་|བརྒྱད་)"
+    r"(?:ལས།|སྟེ།|དང་བཅས།|ལས་།|།)",
+    re.UNICODE,
+)
+
+# Strict "X ལ་N་ལས/སྟེ།" — X has N parts
+_LAL_ENUM_RE = re.compile(
+    r"ལ་(?:གཉིས་|གསུམ་|བཞི་|ལྔ་|དྲུག་)(?:ལས།|སྟེ།)",
+    re.UNICODE,
+)
 
 
 # ---------------------------------------------------------------------------
 # Title extraction from long overview entries
 # ---------------------------------------------------------------------------
 
-# Enumeration markers that signal the end of a section title and start of a list
-_ENUM_MARKERS = re.compile(
-    r"(?:གཉིས་|གསུམ་|བཞི་|ལྔ་|དྲུག་|བདུན་|བརྒྱད་)"
-    r"(?:ལས།|སྟེ།|དང་བཅས།|ལས་།)",
-    re.UNICODE,
-)
-_INTRO_PREAMBLE = re.compile(
-    r"^(?:འདི་ཉིད་|གཞུང་འདི་|མདོ་[^།]{,20}།\s*)?",
-    re.UNICODE,
-)
-
-def extract_section_title(raw_text):
+def extract_section_title(text):
     """
-    Extract a clean section title from a long sa-bcad overview entry.
+    Extract the outermost (depth-1) section title from a long sa-bcad overview.
 
-    The overview text typically reads (translated):
-      "In explaining X, there are TWO parts: A and B.
-       The FIRST, A, has THREE parts: a, b, c.
-       The first, a, has ..."
-
-    The CURRENT FOCUS is whatever the overview is expanding last —
-    found by the last "དང་པོ་TITLE ལ་N་སྟེ/ལས།" pattern.
-    Falls back to the first item in "A དང་། B གཉིས་ལས།".
+    Strategy:
+      1. Find first enumeration marker in the text.
+         Everything before it is: "INTRO  ITEM1  དང་།  ITEM2  [count_word]"
+         Split by "དང་།" — the second-to-last part before the split is ITEM1.
+         Strip any leading preamble of the form "X ལ། " (structural particle).
+      2. If no "དང་།" split available, look for "TITLE ལ།" at start — TITLE
+         is the noun phrase before the "ལ།" structural particle.
+      3. Fallback: text before the first natural shad ".།".
     """
-    text = raw_text.strip()
+    raw = text.strip()
 
-    # Pattern 1 — last "དང་པོ་TITLE ལ་N་སྟེ།/ལས།"
-    # This identifies the innermost level currently being expanded.
-    p1 = re.compile(
-        r"དང་པོ་([^།]{4,}?)ལ་(?:གཉིས་|གསུམ་|བཞི་|ལྔ་|དྲུག་)"
-        r"(?:ལས།|སྟེ།)",
-        re.UNICODE,
-    )
-    hits = list(p1.finditer(text))
-    if hits:
-        candidate = hits[-1].group(1).strip().rstrip("་")
-        candidate = strip_ordinal(candidate)
-        if len(candidate) >= 4:
-            return candidate + ("།" if not candidate.endswith("།") else "")
-
-    # Pattern 2 — "PREAMBLE TITLE དང་། OTHER གཉིས་ལས།"
-    # The TITLE is the first of the two items enumerated.
-    p2 = re.compile(
-        r"ལ།\s+([^།]{4,}?)དང་།[^།]{4,}གཉིས་ལས།",
-        re.UNICODE,
-    )
-    m = p2.search(text)
+    # --- Attempt 1: Split-by-དང་། before the first enumeration marker -----
+    m = _ENUM_RE.search(raw)
     if m:
-        candidate = strip_ordinal(m.group(1).strip().rstrip("་"))
+        before_enum = raw[:m.start()].strip()
+        # Split on "དང་།" (conjunction + shad = list separator)
+        # Note: we require "།" after "དང་" to avoid splitting inside words
+        parts = re.split(r"དང་།", before_enum)
+        if len(parts) >= 2:
+            # Second-to-last part holds ITEM1
+            candidate = parts[-2].strip()
+            # Strip leading structural preamble "X ལ།  " where ལ། is a particle
+            # IMPORTANT: only strip if "ལ།" is preceded by a meaningful phrase
+            candidate = re.sub(r"^.+?(?<=[^ལ])ལ།\s*", "", candidate).strip()
+            # Also strip lone "ལ།" at start if leftover
+            candidate = re.sub(r"^ལ།\s*", "", candidate).strip()
+            candidate = strip_ordinal(candidate).rstrip("་")
+            if len(candidate) >= 4:
+                return ensure_shad(candidate)
+        else:
+            # Only one part — look for "TITLE ལ།" in that part
+            candidate = parts[0].strip()
+            m2 = re.search(r"^([^།]+?)(?<=[^ལ])ལ།", candidate, re.UNICODE)
+            if m2:
+                candidate = strip_ordinal(m2.group(1).strip().rstrip("་"))
+                if len(candidate) >= 4:
+                    return ensure_shad(candidate)
+
+    # --- Attempt 2: "TITLE ལ།" at the very beginning ----------------------
+    # Matches: noun phrase (no internal shads) + ལ། structural particle
+    m2 = re.search(r"^([^།]{4,}?)(?<![ལ])ལ།", raw, re.UNICODE)
+    if m2:
+        candidate = strip_ordinal(m2.group(1).strip().rstrip("་"))
         if len(candidate) >= 4:
-            return candidate + ("།" if not candidate.endswith("།") else "")
+            return ensure_shad(candidate)
 
-    # Pattern 3 — "TITLE ལ། SUB1 དང་།…" (the bit before the first ལ། + list)
-    # Split at the first enumeration marker
-    parts = _ENUM_MARKERS.split(text, maxsplit=1)
-    candidate = parts[0].strip()
-    # Trim trailing "ལ་" or "ལ།"
-    candidate = re.sub(r"\s*ལ།?\s*$", "", candidate).strip()
-    # Strip any leading preamble like "འདི་ཉིད་འཆད་པར་བྱེད་པ་ལ།"
-    candidate = _INTRO_PREAMBLE.sub("", candidate).strip()
-    # Drop leading "ལ།" left-overs
-    candidate = re.sub(r"^ལ།\s*", "", candidate).strip()
-    candidate = strip_ordinal(candidate)
-    if len(candidate) >= 4:
-        return candidate + ("།" if not candidate.endswith("།") else "")
-
-    # Ultimate fallback — first 50 chars
-    return text[:50].rstrip("་") + "།"
-
-
-def count_overview_levels(text):
-    """
-    Count enumeration levels in a long overview entry.
-    Returns 1 (single level — depth-2 children) or 2+ (depth-3 children needed).
-    """
-    # Each "ལ་N་སྟེ།/ལས།" chain = one additional nesting level
-    level_markers = re.findall(
-        r"ལ་(?:གཉིས་|གསུམ་|བཞི་|ལྔ་|དྲུག་)(?:ལས།|སྟེ།)",
-        text,
-        re.UNICODE,
+    # --- Attempt 3: first "དང་པོ་TITLE ལ་N་སྟེ།" -------------------------
+    m3 = re.search(
+        r"དང་པོ་([^།]{4,}?)ལ་(?:གཉིས་|གསུམ་|བཞི་|ལྔ་|དྲུག་)(?:ལས།|སྟེ།)",
+        raw, re.UNICODE
     )
-    # "X གཉིས་ལས།" without preceding ལ་ also counts
-    top_level = re.findall(r"(?<!ལ་)གཉིས་ལས།|(?<!ལ་)གསུམ་ལས།|(?<!ལ་)བཞི་ལས།", text, re.UNICODE)
-    return len(level_markers) + (1 if top_level else 0)
+    if m3:
+        candidate = strip_ordinal(m3.group(1).strip().rstrip("་"))
+        if len(candidate) >= 4:
+            return ensure_shad(candidate)
+
+    # --- Fallback: text before first shad ----------------------------------
+    parts_shad = raw.split("།")
+    candidate = strip_ordinal(parts_shad[0].strip().rstrip("་"))
+    if len(candidate) >= 4:
+        return ensure_shad(candidate)
+
+    return ensure_shad(raw[:60].rstrip("་།").strip())
+
+
+def extract_active_heading(text):
+    """
+    Depth-2 active heading = last 'དང་པོ་TITLE ལ་N་སྟེ།' match.
+    This is the sub-section currently being expanded in the overview.
+    """
+    hits = list(re.finditer(
+        r"དང་པོ་([^།]{4,}?)ལ་(?:གཉིས་|གསུམ་|བཞི་|ལྔ་|དྲུག་)(?:ལས།|སྟེ།)",
+        text, re.UNICODE
+    ))
+    if hits:
+        candidate = strip_ordinal(hits[-1].group(1).strip().rstrip("་"))
+        if len(candidate) >= 4:
+            return ensure_shad(candidate)
+    return None
 
 
 def extract_intermediate_headings(text):
     """
-    Extract the depth-2 (intermediate) headings implied by a 2-level overview.
-
-    For an overview that says "A ལ་གསུམ་སྟེ། X། Y། Z།  དང་པོ་X ལ་གཉིས་སྟེ། ...",
-    returns ["X", "Y", "Z"] — the items enumerated at the FIRST level of detail.
+    The depth-2 sibling headings from the first 'ལ་N་སྟེ/ལས།' block.
+    These are the items enumerated at the first level of detail.
     """
-    # Find the first "ལ་N་སྟེ།" block and split what follows on ། as items
+    # Find first "ལ་N་སྟེ།/ལས།" and take the items listed after it
     m = re.search(
         r"ལ་(?:གཉིས་|གསུམ་|བཞི་|ལྔ་|དྲུག་)(?:ལས།|སྟེ།)\s*(.+?)(?:།།|།\s*།|དང་པོ་)",
-        text,
-        re.DOTALL | re.UNICODE,
+        text, re.DOTALL | re.UNICODE
     )
     if not m:
         return []
-    items_text = m.group(1)
-    raw_items = [x.strip() for x in items_text.split("།") if x.strip()]
-    # Clean and filter short/meaningless items
+    raw_items = [x.strip() for x in m.group(1).split("།") if x.strip()]
     result = []
     for item in raw_items:
         item = strip_ordinal(item).rstrip("་").strip()
         if len(item) >= 5:
-            result.append(item + ("།" if not item.endswith("།") else ""))
+            result.append(ensure_shad(item))
     return result
 
 
-# ---------------------------------------------------------------------------
-# TOC entry dataclass
-# ---------------------------------------------------------------------------
+def count_overview_levels(text):
+    """Count nesting levels described by the overview (1 = single, 2+ = nested)."""
+    lal = len(_LAL_ENUM_RE.findall(text))
+    top = len(re.findall(r"(?<![་ལ])(?:གཉིས་ལས།|གསུམ་ལས།|བཞི་ལས།|ལྔ་ལས།)", text, re.UNICODE))
+    return lal + (1 if top else 0)
 
-class TocEntry:
-    def __init__(self, depth, text, synthetic=False):
-        self.depth = depth
-        self.text = text
-        self.synthetic = synthetic   # True if inferred from an overview, not a tagged entry
-        self.toc_id = ""             # Filled in by renumber()
 
-    def __repr__(self):
-        flag = "*" if self.synthetic else " "
-        return f"[{flag}d{self.depth}] {self.text[:60]}"
+def _count_leaf_items(text):
+    """Number from the LAST enumeration marker in the overview."""
+    hits = list(re.finditer(
+        r"(གཉིས་|གསུམ་|བཞི་|ལྔ་|དྲུག་|བདུན་|བརྒྱད་)(?:ལས།|སྟེ།|།)",
+        text, re.UNICODE
+    ))
+    if not hits:
+        return 3
+    return {
+        "གཉིས": 2, "གསུམ": 3, "བཞི": 4,
+        "ལྔ": 5, "དྲུག": 6, "བདུན": 7, "བརྒྱད": 8
+    }.get(hits[-1].group(1).rstrip("་"), 3)
 
 
 # ---------------------------------------------------------------------------
@@ -171,99 +197,103 @@ class TocEntry:
 # ---------------------------------------------------------------------------
 
 _STUB_PAT = re.compile(
-    r"^(?:ལ་?|ནི།|ལ།|དང་།|ཞེ་ན།|ལོ།|།།?)\s*$",
+    r"^(?:ལ་?|ནི།|ལ།|དང་།|ཞེ་ན།|ལོ།|།།?|ངོ་བོ་ནི་?|་+)\s*$",
     re.UNICODE,
 )
 
+
 def is_stub(text):
-    return bool(_STUB_PAT.match(text.strip()))
+    t = text.strip()
+    return not t or bool(_STUB_PAT.match(t)) or (len(t) <= 5 and t.endswith("།") and len(t.replace("།", "").replace("་", "")) <= 2)
 
 
 # ---------------------------------------------------------------------------
-# Parse the existing TOC lines
+# TOC entry
 # ---------------------------------------------------------------------------
 
-def parse_toc_entries(toc_lines):
-    """Read depth + text from existing * list lines."""
+class TocEntry:
+    def __init__(self, depth, text, synthetic=False):
+        self.depth = depth
+        self.text = text
+        self.synthetic = synthetic
+        self.toc_id = ""
+
+
+# ---------------------------------------------------------------------------
+# Parse existing TOC entries from * list
+# ---------------------------------------------------------------------------
+
+def parse_toc_entries(lines):
     entries = []
-    for line in toc_lines:
+    for line in lines:
         m = re.match(r"^( *)\* (.+?) \^toc-([\d\-]+)\s*$", line)
         if not m:
             continue
         indent = len(m.group(1))
         depth = indent // 3 + 1
-        text = m.group(2).strip()
-        entries.append(TocEntry(depth, text))
+        entries.append(TocEntry(depth, m.group(2).strip()))
     return entries
 
 
 # ---------------------------------------------------------------------------
-# Restructure
+# Main restructure pass
 # ---------------------------------------------------------------------------
 
-LONG_THRESHOLD = 60  # chars — entries longer than this are overview entries
+LONG_THRESHOLD = 60
+
 
 def restructure(entries):
-    """
-    Expand long overview entries, insert synthetic intermediate headings,
-    promote leaf entries to depth 3 where needed, remove stubs.
-    """
     result = []
     i = 0
     while i < len(entries):
         e = entries[i]
         text = e.text.strip()
 
-        # 1. Remove stub entries
+        # Drop stubs
         if is_stub(text):
             i += 1
             continue
 
-        # 2. Long depth-1 overview entry → compress + possibly add synthetics
+        # Long depth-1 overview entry — compress + optional 3-level expansion
         if e.depth == 1 and len(text) >= LONG_THRESHOLD:
-            title = extract_section_title(text)
+            outer = extract_section_title(text)
             levels = count_overview_levels(text)
-            intermediates = extract_intermediate_headings(text) if levels >= 2 else []
+            active = extract_active_heading(text) if levels >= 2 else None
+            intermediates = extract_intermediate_headings(text) if (levels >= 2 and active) else []
 
-            # Emit the compressed section heading
-            result.append(TocEntry(1, title))
+            result.append(TocEntry(1, outer))
 
-            if intermediates and levels >= 2:
-                # Emit the FIRST intermediate heading (current focus)
-                result.append(TocEntry(2, intermediates[0], synthetic=True))
-                # The NEXT entries (depth 2 in current structure) become depth 3
-                # They belong to this intermediate heading until we hit the next
-                # depth-1 entry or another long overview
+            if active:
+                result.append(TocEntry(2, active, synthetic=True))
+                # Consume next N leaf entries → depth 3
                 i += 1
+                n = _count_leaf_items(text)
                 collected = 0
-                n_items = _count_leaf_items(text)
-                while i < len(entries):
+                while i < len(entries) and collected < n:
                     nxt = entries[i]
                     if nxt.depth == 1:
-                        break  # Next section
+                        break
                     if is_stub(nxt.text):
                         i += 1
                         continue
                     result.append(TocEntry(3, nxt.text))
                     i += 1
                     collected += 1
-                    if collected >= n_items:
-                        break
-                # Emit remaining intermediate headings as depth-2 synthetic nodes
-                for ih in intermediates[1:]:
-                    result.append(TocEntry(2, ih, synthetic=True))
+                # Emit remaining intermediate headings (siblings of active)
+                for ih in intermediates:
+                    if ih != active:
+                        result.append(TocEntry(2, ih, synthetic=True))
             else:
                 i += 1
             continue
 
-        # 3. Long depth-2 overview entry — compress to depth-2 heading
+        # Long depth-2 entry — compress
         if e.depth == 2 and len(text) >= LONG_THRESHOLD:
-            title = extract_section_title(text)
-            result.append(TocEntry(2, title))
+            result.append(TocEntry(2, extract_section_title(text)))
             i += 1
             continue
 
-        # 4. Normal entry — keep as-is, just clean up
+        # Normal entry
         if not is_stub(text):
             result.append(TocEntry(e.depth, text))
         i += 1
@@ -271,35 +301,19 @@ def restructure(entries):
     return result
 
 
-def _count_leaf_items(overview_text):
-    """Count the number of items at the deepest enumerated level."""
-    # Find the last "ལ་N་སྟེ།" and extract N
-    m = re.search(
-        r"ལ་(གཉིས་|གསུམ་|བཞི་|ལྔ་|དྲུག་|བདུན་|བརྒྱད་)(?:ལས།|སྟེ།)(?!.*ལ་(?:གཉིས་|གསུམ་|བཞི་|ལྔ་|དྲུག་|བདུན་|བརྒྱད་)(?:ལས།|སྟེ།))",
-        overview_text,
-        re.DOTALL | re.UNICODE,
-    )
-    if m:
-        word = m.group(1).rstrip("་")
-        return {"གཉིས": 2, "གསུམ": 3, "བཞི": 4, "ལྔ": 5, "དྲུག": 6, "བདུན": 7, "བརྒྱད": 8}.get(word, 3)
-    return 3
-
-
 # ---------------------------------------------------------------------------
-# Renumber ^toc IDs
+# Renumber IDs
 # ---------------------------------------------------------------------------
 
 def renumber(entries):
     counters = {}
     for e in entries:
         d = e.depth
-        # Reset deeper levels
         for k in list(counters.keys()):
             if k > d:
                 del counters[k]
         counters[d] = counters.get(d, 0) + 1
-        parts = [str(counters.get(i, 1)) for i in range(1, d + 1)]
-        e.toc_id = "-".join(parts)
+        e.toc_id = "-".join(str(counters.get(j, 1)) for j in range(1, d + 1))
 
 
 # ---------------------------------------------------------------------------
@@ -307,75 +321,50 @@ def renumber(entries):
 # ---------------------------------------------------------------------------
 
 def render_toc(entries):
-    lines = []
-    for e in entries:
-        indent = "   " * (e.depth - 1)
-        lines.append(f"{indent}* {e.text} ^toc-{e.toc_id}")
-    return "\n".join(lines)
+    return "\n".join(
+        "   " * (e.depth - 1) + "* " + e.text + " ^toc-" + e.toc_id
+        for e in entries
+    )
 
 
 # ---------------------------------------------------------------------------
 # File processing
 # ---------------------------------------------------------------------------
 
-def process_file(toc_path, output_path=None):
-    src = Path(toc_path).resolve()
+_TOC_HDR = re.compile(r"^##\s*(དཀར་ཆག|Table of Contents)", re.IGNORECASE)
+
+
+def process_file(src_path, out_path=None):
+    src = Path(src_path).resolve()
     if not src.exists():
-        print(f"ERROR: File not found: {src}", file=sys.stderr)
-        return False
+        print(f"ERROR: {src}", file=sys.stderr); return False
 
-    text = src.read_text(encoding="utf-8")
-    lines = text.splitlines()
-
-    # Find the TOC block boundaries
-    toc_heading_re = re.compile(r"^##\s*(དཀར་ཆག|Table of Contents)", re.IGNORECASE)
-    toc_start = None
-    toc_end = None
+    lines = src.read_text("utf-8").splitlines()
+    toc_start = toc_end = None
     for i, line in enumerate(lines):
-        if toc_heading_re.match(line) and toc_start is None:
+        if _TOC_HDR.match(line) and toc_start is None:
             toc_start = i
         elif toc_start is not None and line.startswith("---"):
-            toc_end = i
-            break
+            toc_end = i; break
 
     if toc_start is None or toc_end is None:
-        print("ERROR: Could not locate TOC block in file.", file=sys.stderr)
-        return False
+        print("ERROR: TOC block not found", file=sys.stderr); return False
 
-    toc_lines = lines[toc_start + 1 : toc_end]
-
-    # Parse existing entries
-    raw_entries = parse_toc_entries(toc_lines)
-    print(f"Parsed {len(raw_entries)} TOC entries")
-
-    # Restructure
-    restructured = restructure(raw_entries)
-    print(f"Restructured to {len(restructured)} entries")
-
-    # Depth distribution
+    raw = parse_toc_entries(lines[toc_start + 1 : toc_end])
+    print(f"Parsed {len(raw)} entries")
+    restructured = restructure(raw)
+    print(f"Restructured → {len(restructured)} entries")
     from collections import Counter
-    depth_dist = Counter(e.depth for e in restructured)
-    print(f"Depth distribution: {dict(sorted(depth_dist.items()))}")
-    synthetic_count = sum(1 for e in restructured if e.synthetic)
-    print(f"Synthetic (inferred) headings: {synthetic_count}")
-
-    # Renumber
+    dc = Counter(e.depth for e in restructured)
+    print(f"Depths: {dict(sorted(dc.items()))}")
+    print(f"Synthetic headings: {sum(1 for e in restructured if e.synthetic)}")
     renumber(restructured)
 
-    # Render new TOC
-    new_toc = (
-        "## དཀར་ཆག / Table of Contents\n\n"
-        + render_toc(restructured)
-        + "\n\n---"
-    )
-
-    # Replace TOC block in document
-    new_lines = lines[:toc_start] + new_toc.splitlines() + lines[toc_end + 1:]
-    new_text = "\n".join(new_lines)
-
-    out = Path(output_path) if output_path else src.parent / f"restructured-{src.name}"
-    out.write_text(new_text, encoding="utf-8")
-    print(f"Output: {out}")
+    new_toc_block = "## དཀར་ཆག / Table of Contents\n\n" + render_toc(restructured) + "\n\n---"
+    new_lines = lines[:toc_start] + new_toc_block.splitlines() + lines[toc_end + 1:]
+    out = Path(out_path) if out_path else src.parent / f"restructured-{src.name}"
+    out.write_text("\n".join(new_lines), "utf-8")
+    print(f"Output → {out}")
     return True
 
 
@@ -383,6 +372,4 @@ if __name__ == "__main__":
     if len(sys.argv) < 2:
         print("Usage: python restructure_toc.py <toc_file.md> [output_file.md]")
         sys.exit(1)
-    inp = sys.argv[1]
-    out = sys.argv[2] if len(sys.argv) > 2 else None
-    sys.exit(0 if process_file(inp, out) else 1)
+    sys.exit(0 if process_file(sys.argv[1], sys.argv[2] if len(sys.argv) > 2 else None) else 1)

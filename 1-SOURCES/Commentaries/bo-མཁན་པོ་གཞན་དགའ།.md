@@ -1,5 +1,15 @@
 
 
+---
+title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ཞེས་བྱ་བའི་མཆན་འགྲེལ།
+title_in_english: Annotation Commentary on Entering the Bodhisattva's Way of Life
+author: གཞན་ཕན་བྱམས་པའི་གོ་ཆ།
+author_in_english: Gzhan phan Byams pa'i Go cha
+file_type: commentary
+language_tag: bo
+source_description: Interlinear annotation commentary (mchan 'grel) on the Bodhicaryāvatāra, drawing on the oral tradition of Patrul Rinpoche (Dpal sprul Chos kyi dbang po) and compiled by Gzhan phan Byams pa'i Go cha at Palpung Monastery (Shar dPal spungs) in accordance with the wishes of Situ Rinpoche.
+---
+
 ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ཞེས་བྱ་བའི་མཆན་འགྲེལ་བཞུགས་སོ། །
 
 ༄༅། །རྒྱ་གར་སྐད་དུ། བོ་དྷི་སཏྭ་ཙརྱ་ཨ་བ་ཏ་ར། བོད་སྐད་དུ། བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ། 

@@ -178,7 +178,10 @@ def render_toc(entries):
 # Main
 # ---------------------------------------------------------------------------
 
-VAULT_ROOT = Path("/sessions/eloquent-laughing-gates/mnt/bodhisattvacharyavatara-rails")
+# Fallback vault root — used only if find_vault_root() cannot auto-detect
+_WIN_ROOT = Path(r"C:\Users\trinley\Obsidian\bodhisattvacharyavatara-rails")
+_LIN_ROOT = Path("/sessions/eloquent-laughing-gates/mnt/bodhisattvacharyavatara-rails")
+VAULT_ROOT = _WIN_ROOT if _WIN_ROOT.exists() else _LIN_ROOT
 
 
 def find_vault_root(start):
@@ -217,7 +220,7 @@ def process_file(input_path, output_dir=None):
         return False
 
     toc_body    = render_toc(entries)
-    toc_section = "## དཀར་ཅག / Table of Contents\n\n" + toc_body + "\n\n---\n\n"
+    toc_section = "## དཀར་ཆག / Table of Contents\n\n" + toc_body + "\n\n---\n\n"
 
     if output_dir:
         out_dir = Path(output_dir)
@@ -231,7 +234,7 @@ def process_file(input_path, output_dir=None):
     if text.startswith("---"):
         fm_end = text.find("\n---", 3)
         if fm_end != -1:
-            fm_end = text.index("\n", fm_end) + 1
+            fm_end = text.index("\n", fm_end + 1) + 1
             new_text = text[:fm_end] + "\n" + toc_section + text[fm_end:]
         else:
             new_text = toc_section + text

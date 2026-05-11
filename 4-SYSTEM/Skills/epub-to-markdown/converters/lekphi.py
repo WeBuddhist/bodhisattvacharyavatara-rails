@@ -6,24 +6,24 @@ Updated:   2026-05-10 — run-based span processing; TOC built from body sabche 
 
 Publisher: Unknown (publisher field absent from OPF metadata)
 
-CSS class -> callout mapping:
+CSS class -> wiki markup mapping:
   Paragraph-level (paragraph own class determines role when no overriding span):
-    Tibetan-Sabche / Tibetan-Sabche-After-Title-Chapter  (blue  #005e7f) -> [!sabche]
-    Tibetan-External-Citations                           (gold  #897335) -> [!lung]
-    Tibetan-Citations-in-Verse_*                         (gold  #897335) -> grouped [!lung]
+    Tibetan-Sabche / Tibetan-Sabche-After-Title-Chapter  (blue  #005e7f) -> [[sabche|text]]
+    Tibetan-External-Citations                           (gold  #897335) -> [[quote|text]]
+    Tibetan-Citations-in-Verse_*                         (gold  #897335) -> grouped [[quote|text]]
     Tibetan-Commentary / Non-Indent / Regular-Indented   (dark  #343233) -> plain text
     Tibetan-Chapter                                      (dark  #343233) -> # heading
     Tibetan-Sub-Chapter                                  (dark  #343233) -> ## heading
     Credits-Page_* / Front-*                                             -> skipped
 
   Inline span override (span class takes precedence over paragraph class):
-    Tibetan-Sabche            inside any paragraph -> emit as [!sabche] run
-    Tibetan-External-Citations inside any paragraph -> emit as [!lung] run
+    Tibetan-Sabche             inside any paragraph -> emit as [[sabche|text]] run
+    Tibetan-External-Citations inside any paragraph -> emit as [[quote|text]] run
     Tibetan-Commentary         inside any paragraph -> emit as plain-text run
     _idGenCharOverride-1       utility class -- always ignored
 
 TOC:
-  Built by scanning every [!sabche] block emitted during body processing,
+  Built by scanning every [[sabche|…]] block emitted during body processing,
   in document order. This captures both paragraph-level Tibetan-Sabche
   paragraphs AND inline Tibetan-Sabche spans inside mixed paragraphs
   (e.g. Tibetan-Regular-Indented paragraphs that open with a sabche label).
@@ -226,9 +226,7 @@ def convert_root_markers(text):
 
 def wrap_callout(callout_type, text):
     text = text.strip()
-    lines = [l.rstrip() for l in text.split('\n')]
-    body = '\n'.join('> ' + l for l in lines if l)
-    return '> [!' + callout_type + ']\n' + body + '\n\n'
+    return '[[' + callout_type + '|' + text + ']]\n\n'
 
 
 def emit_run(role, text):
@@ -239,7 +237,7 @@ def emit_run(role, text):
     if role == 'sabche':
         return wrap_callout('sabche', text)
     if role == 'lung':
-        return wrap_callout('lung', text)
+        return wrap_callout('quote', text)
     return text + '\n\n'
 
 
@@ -345,7 +343,7 @@ def process_body(body):
                 else:
                     break
             if verse_lines:
-                md += wrap_callout('lung', '\n'.join(verse_lines))
+                md += wrap_callout('quote', '\n'.join(verse_lines))
             i = j
             continue
 

@@ -1,3 +1,12 @@
+---
+title: སྤྱོད་འཇུག་གི་རྣམ་པར་བཤད་པའི་དཀའ་འགྲེལ
+title in English: Difficult-Points Commentary on Engaging in the Bodhisattva's Conduct
+author: ནག་པོ་པ།
+author in English: Nag po pa
+file_type: commentary
+language_tag: bo
+source_description: Difficult-points commentary (dka' 'grel) on the Bodhisattvacharyavatara, composed by Nag po pa. The colophon reads — བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པའི་དཀའ་འགྲེལ་རྫོགས་སོ།
+---
 
 ༄༅། །སྤྱོད་འཇུག་གི་རྣམ་པར་བཤད་པ་བཞུགས་སོ།། 
   

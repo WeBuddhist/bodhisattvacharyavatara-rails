@@ -2,13 +2,13 @@
 """
 Converter: LEK-PHI Series (Khenpo Kunzang Palden / similar Tibetan commentaries)
 Generated: 2026-05-10
-Updated:   2026-05-10 — run-based span processing; TOC built from body sabche labels
+Updated:   2026-05-10 — run-based span processing; TOC built from body toc labels
 
 Publisher: Unknown (publisher field absent from OPF metadata)
 
 CSS class -> wiki markup mapping:
   Paragraph-level (paragraph own class determines role when no overriding span):
-    Tibetan-Sabche / Tibetan-Sabche-After-Title-Chapter  (blue  #005e7f) -> [[sabche|text]]
+    Tibetan-Sabche / Tibetan-Sabche-After-Title-Chapter  (blue  #005e7f) -> [[toc|text]]
     Tibetan-External-Citations                           (gold  #897335) -> [[quote|text]]
     Tibetan-Citations-in-Verse_*                         (gold  #897335) -> grouped [[quote|text]]
     Tibetan-Commentary / Non-Indent / Regular-Indented   (dark  #343233) -> plain text
@@ -17,16 +17,16 @@ CSS class -> wiki markup mapping:
     Credits-Page_* / Front-*                                             -> skipped
 
   Inline span override (span class takes precedence over paragraph class):
-    Tibetan-Sabche             inside any paragraph -> emit as [[sabche|text]] run
+    Tibetan-Sabche             inside any paragraph -> emit as [[toc|text]] run
     Tibetan-External-Citations inside any paragraph -> emit as [[quote|text]] run
     Tibetan-Commentary         inside any paragraph -> emit as plain-text run
     _idGenCharOverride-1       utility class -- always ignored
 
 TOC:
-  Built by scanning every [[sabche|…]] block emitted during body processing,
+  Built by scanning every [[toc|…]] block emitted during body processing,
   in document order. This captures both paragraph-level Tibetan-Sabche
   paragraphs AND inline Tibetan-Sabche spans inside mixed paragraphs
-  (e.g. Tibetan-Regular-Indented paragraphs that open with a sabche label).
+  (e.g. Tibetan-Regular-Indented paragraphs that open with a toc label).
   The epub's book.toc is NOT used for the TOC, as it omits inline labels.
 """
 
@@ -78,7 +78,7 @@ def semantic_classes(element):
 def resolve_role(cls_set):
     """
     Map a set of CSS classes to a semantic role string.
-    Returns: 'sabche', 'lung', 'verse', 'plain', 'chapter', 'subchapter', 'skip', or None.
+    Returns: 'toc', 'lung', 'verse', 'plain', 'chapter', 'subchapter', 'skip', or None.
     None means no semantic opinion (inherit from context).
     """
     if not cls_set:
@@ -90,7 +90,7 @@ def resolve_role(cls_set):
     if cls_set & SUBCHAPTER_CLASSES:
         return 'subchapter'
     if cls_set & SABCHE_CLASSES:
-        return 'sabche'
+        return 'toc'
     if cls_set & PROSE_CITATION_CLASSES:
         return 'lung'
     if cls_set & VERSE_CITATION_CLASSES:
@@ -213,7 +213,7 @@ def convert_root_markers(text):
     for marked, content in groups:
         if marked:
             prefix = ' ' if parts and not parts[-1].endswith(' ') else ''
-            parts.append(prefix + '**' + content + '** ')
+            parts.append(prefix + '**' + content.rstrip() + '**' + ' ')
         else:
             parts.append(content)
 
@@ -234,8 +234,8 @@ def emit_run(role, text):
     text = convert_root_markers(text.strip())
     if not text:
         return ''
-    if role == 'sabche':
-        return wrap_callout('sabche', text)
+    if role == 'toc':
+        return wrap_callout('toc', text)
     if role == 'lung':
         return wrap_callout('quote', text)
     return text + '\n\n'
@@ -290,13 +290,13 @@ def extract_metadata(book):
 def process_body(body):
     """
     Walk all p elements in the body, emit Markdown via run-based extraction.
-    Returns (md_text, sabche_labels) where sabche_labels is every sabche
+    Returns (md_text, toc_labels) where toc_labels is every toc
     text collected in document order (used to build the TOC).
     Consecutive verse-citation paragraphs are grouped into a single [!lung].
     """
     paragraphs = body.find_all(['p', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6'])
     md = ''
-    sabche_labels = []
+    toc_labels = []
     i = 0
     while i < len(paragraphs):
         el = paragraphs[i]
@@ -350,14 +350,14 @@ def process_body(body):
         # General paragraph: run-based extraction
         runs = extract_runs(el)
         for role, text in runs:
-            if role == 'sabche':
+            if role == 'toc':
                 # Store the cleaned label (markers converted) for the TOC
-                sabche_labels.append(convert_root_markers(text.strip()))
+                toc_labels.append(convert_root_markers(text.strip()))
             md += emit_run(role, text)
 
         i += 1
 
-    return md, sabche_labels
+    return md, toc_labels
 
 
 # ---------------------------------------------------------------------------
@@ -374,9 +374,9 @@ def convert_epub_to_markdown(epub_path, output_path):
     metadata = extract_metadata(book)
     frontmatter = '---\n' + yaml.dump(metadata, allow_unicode=True, sort_keys=False) + '---\n\n'
 
-    # Process all body documents, collecting body text and sabche labels
+    # Process all body documents, collecting body text and toc labels
     body_md = ''
-    all_sabche_labels = []
+    all_toc_labels = []
 
     for item_id, linear in book.spine:
         item = book.get_item_with_id(item_id)
@@ -396,16 +396,16 @@ def convert_epub_to_markdown(epub_path, output_path):
 
         doc_md, doc_labels = process_body(body)
         body_md += doc_md
-        all_sabche_labels.extend(doc_labels)
+        all_toc_labels.extend(doc_labels)
 
-    # Build TOC from every sabche label found in the body (document order)
-    toc_lines = ['- ' + label for label in all_sabche_labels]
+    # Build TOC from every toc label found in the body (document order)
+    toc_lines = ['- ' + label for label in all_toc_labels]
     toc_block = '## དཀར་ཆག / Table of Contents\n\n' + '\n'.join(toc_lines) + '\n\n---\n\n'
 
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(frontmatter + toc_block + body_md)
     print('Successfully extracted to ' + output_path)
-    print(f'TOC entries: {len(all_sabche_labels)}')
+    print(f'TOC entries: {len(all_toc_labels)}')
 
 
 if __name__ == '__main__':

@@ -74,7 +74,7 @@ with zipfile.ZipFile(epub_path) as z:
 
 Any `(p_class, span_class)` pair where they differ is a mixed-content paragraph requiring run-based processing. Common patterns and how to handle them:
 
-  - `<p class=plain> contains <span class=sabche>` — inline outline label at the start of a commentary paragraph. Split into `[[sabche|label]]` for the label + plain text for the rest.
+  - `<p class=plain> contains <span class=toc>` — inline outline label at the start of a commentary paragraph. Split into `[[toc|label]]` for the label + plain text for the rest.
   - `<p class=plain> contains <span class=lung>` — prose citation embedded mid-commentary. Split into plain + `[[quote|citation]]` + plain (or plain + `[[quote|citation]]` if citation is at the end).
   - `<p class=lung> contains <span class=plain>` — citation paragraph with a trailing connective phrase (`ཞེས་དང༌།`, `ཞེས་སོ།།`) reverting to plain. Emit the citation body as `[[quote|citation]]`, then the connective as plain text.
   - `<p class=plain> contains <span class=bold>` — outline label at the start of a commentary paragraph. Split into `[[toc|label]]` for the label + plain text for the rest.

@@ -74,10 +74,10 @@ with zipfile.ZipFile(epub_path) as z:
 
 Any `(p_class, span_class)` pair where they differ is a mixed-content paragraph requiring run-based processing. Common patterns and how to handle them:
 
-  - `<p class=plain> contains <span class=toc>` — inline outline label at the start of a commentary paragraph. Split into `[[toc|label]]` for the label + plain text for the rest.
+  - `<p class=plain> contains <span class=toc>` — inline outline label at the start of a commentary paragraph. Emit as `[[toc|label]]plain text` joined on one line (no newline between toc and the following plain run).
   - `<p class=plain> contains <span class=lung>` — prose citation embedded mid-commentary. Split into plain + `[[quote|citation]]` + plain (or plain + `[[quote|citation]]` if citation is at the end).
   - `<p class=lung> contains <span class=plain>` — citation paragraph with a trailing connective phrase (`ཞེས་དང༌།`, `ཞེས་སོ།།`) reverting to plain. Emit the citation body as `[[quote|citation]]`, then the connective as plain text.
-  - `<p class=plain> contains <span class=bold>` — outline label at the start of a commentary paragraph. Split into `[[toc|label]]` for the label + plain text for the rest.
+  - `<p class=plain> contains <span class=bold>` — outline label at the start of a commentary paragraph. Emit as `[[toc|label]]plain text` joined on one line (no newline between toc and the following plain run).
 
 **If any mixed patterns are found**, the converter must use a run-based approach: walk each `<p>`'s children one by one, resolve each span's effective semantic class (span class takes priority over paragraph class, utility classes like `_idGenCharOverride-1` are stripped), group consecutive same-class content into runs, and emit each run as its own block. See `converters/lekphi.py` for a complete reference implementation of this pattern.
 
@@ -164,10 +164,17 @@ Write a docstring at the top of the generated script explaining:
 
 ## Step 4 — Run the Converter
 
+Run via `importlib` to avoid stale `.pyc` bytecode on the mounted filesystem:
+
 ```bash
-python 4-SYSTEM/Skills/epub-to-markdown/converters/<publisher_slug>.py \
-  path/to/source.epub \
-  path/to/output.md
+python3 - << 'EOF'
+import importlib.util
+spec = importlib.util.spec_from_file_location("conv",
+    "4-SYSTEM/Skills/epub-to-markdown/converters/<publisher_slug>.py")
+lk = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(lk)
+lk.convert_epub_to_markdown("path/to/source.epub", "path/to/output.md")
+EOF
 ```
 
 The output file should be placed in `0-INBOX/md-texts/`.

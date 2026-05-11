@@ -349,11 +349,16 @@ def process_body(body):
 
         # General paragraph: run-based extraction
         runs = extract_runs(el)
-        for role, text in runs:
+        for idx, (role, text) in enumerate(runs):
             if role == 'toc':
                 # Store the cleaned label (markers converted) for the TOC
                 toc_labels.append(convert_root_markers(text.strip()))
-            md += emit_run(role, text)
+            block = emit_run(role, text)
+            # If more runs follow in this paragraph, strip trailing newlines
+            # so the next run continues on the same line (e.g. [[toc|…]]plain)
+            if idx < len(runs) - 1:
+                block = block.rstrip('\n')
+            md += block
 
         i += 1
 

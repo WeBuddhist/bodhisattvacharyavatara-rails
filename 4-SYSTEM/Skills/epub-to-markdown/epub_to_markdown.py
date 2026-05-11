@@ -12,7 +12,7 @@ Extracts EPUB content into clean Markdown, preserving semantic block types
 as wiki markup links based on CSS class colour coding:
 
   .root  (orange-red #BB5500) -> [[root|text]]  -- root text verses
-  .lung  (dark gold  #7D6608) -> [[lung|text]]  -- scriptural citations
+  .lung  (dark gold  #7D6608) -> [[quote|text]] -- scriptural citations
   .bold  (blue       #003377) -> [[toc|text]]   -- TOC enumeration items
 
 Requirements: ebooklib, beautifulsoup4, PyYAML
@@ -77,7 +77,7 @@ def process_element(element):
         if color_class == 'root':
             return wrap_callout('root', text)
         elif color_class == 'lung':
-            return wrap_callout('lung', text)
+            return wrap_callout('quote', text)
         elif color_class == 'bold':
             return wrap_callout('toc', text)
         else:

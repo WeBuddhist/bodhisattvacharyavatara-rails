@@ -74,10 +74,10 @@ with zipfile.ZipFile(epub_path) as z:
 
 Any `(p_class, span_class)` pair where they differ is a mixed-content paragraph requiring run-based processing. Common patterns and how to handle them:
 
-  - `<p class=plain> contains <span class=sabche>` — inline outline label at the start of a commentary paragraph. Split into `[!sabche]` for the label + plain text for the rest.
-  - `<p class=plain> contains <span class=lung>` — prose citation embedded mid-commentary. Split into plain + `[!lung]` + plain (or plain + `[!lung]` if citation is at the end).
-  - `<p class=lung> contains <span class=plain>` — citation paragraph with a trailing connective phrase (`ཞེས་དང༌།`, `ཞེས་སོ།།`) reverting to plain. Emit the citation body as `[!lung]`, then the connective as plain text.
-  - `<p class=plain> contains <span class=bold>` — outline label at the start of a commentary paragraph. Split into `[!toc]` for the label + plain text for the rest.
+  - `<p class=plain> contains <span class=sabche>` — inline outline label at the start of a commentary paragraph. Split into `[[sabche|label]]` for the label + plain text for the rest.
+  - `<p class=plain> contains <span class=lung>` — prose citation embedded mid-commentary. Split into plain + `[[quote|citation]]` + plain (or plain + `[[quote|citation]]` if citation is at the end).
+  - `<p class=lung> contains <span class=plain>` — citation paragraph with a trailing connective phrase (`ཞེས་དང༌།`, `ཞེས་སོ།།`) reverting to plain. Emit the citation body as `[[quote|citation]]`, then the connective as plain text.
+  - `<p class=plain> contains <span class=bold>` — outline label at the start of a commentary paragraph. Split into `[[toc|label]]` for the label + plain text for the rest.
 
 **If any mixed patterns are found**, the converter must use a run-based approach: walk each `<p>`'s children one by one, resolve each span's effective semantic class (span class takes priority over paragraph class, utility classes like `_idGenCharOverride-1` are stripped), group consecutive same-class content into runs, and emit each run as its own block. See `converters/lekphi.py` for a complete reference implementation of this pattern.
 
@@ -116,11 +116,11 @@ Include every meaningful field the inspector found. Common additions beyond the 
 - `source_id` (the epub UUID/URN — useful for stable referencing)
 - Any other OPF meta fields with obvious meaning
 
-**3.2 CSS class → callout mapping**
+**3.2 CSS class → wiki markup mapping**
 For each CSS class with a non-black colour and meaningful element count:
 1. Look at the colour value and sample texts together
-2. Assign a descriptive `callout_type` string that names the semantic role (e.g. `root`, `lung`, `toc`, `verse`, `citation`, `commentary`, `note`, `heading-enum`)
-3. Implement this in `get_color_class()` and route through `wrap_callout()`
+2. Assign a descriptive type string that names the semantic role (e.g. `root`, `quote`, `toc`, `verse`, `commentary`, `note`, `heading-enum`)
+3. Implement this in `get_color_class()` and route through `wrap_callout()`, which emits `[[type|text]]` wiki markup
 
 Use this colour interpretation heuristic as a starting point:
 - **Red / orange tones** → root text, verse, primary source
@@ -179,10 +179,10 @@ The output file should be placed in `0-INBOX/md-texts/`.
 ### 5.1 Metadata
 Verify the YAML frontmatter is accurate and complete. Check that `title`, `author`, `publisher`, and `language` are correct.
 
-### 5.2 Callout blocks
+### 5.2 Wiki markup blocks
 Spot-check that coloured blocks were correctly identified:
-- Sample several `> [!root]`, `> [!lung]` etc. blocks and confirm they match the expected content type
-- If callout blocks are absent but should be present, re-inspect the CSS (open the `.epub` as a zip and look at the stylesheet directly)
+- Sample several `[[root|…]]`, `[[quote|…]]` etc. blocks and confirm they match the expected content type
+- If wiki markup blocks are absent but should be present, re-inspect the CSS (open the `.epub` as a zip and look at the stylesheet directly)
 
 ### 5.3 Structure
 - Confirm chapter headings appear at the right places

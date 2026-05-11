@@ -1,0 +1,18 @@
+[
+  {
+    "icon": "globe",
+    "text": "Compare the Sanskrit root text with the Tibetan translation by Loden Sherab to identify differences in philosophical terminology"
+  },
+  {
+    "icon": "search",
+    "text": "Find all commentaries in the Sources folder authored by Indian scholars like Prajñākaramati or Kṣemadeva"
+  },
+  {
+    "icon": "lightbulb",
+    "text": "Describe how the sa bcad topical outlines are integrated with the root verses in the Rails folder"
+  },
+  {
+    "icon": "tag",
+    "text": "Review the Commentaries folder to ensure all filenames correctly use the bo- prefix as required by the system guidelines"
+  }
+]

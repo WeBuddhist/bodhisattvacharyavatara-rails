@@ -48,7 +48,7 @@ The authority behind every claim in the rails is the human commentary tradition.
 4-SYSTEM/           guidelines (CLAUDE.md and contributor docs)
 ```
 
-For the full schema — frontmatter, block-ID format, package layout, citation chain, naming rules — see [`4-SYSTEM/CLAUDE.md`](4-SYSTEM/CLAUDE.md).
+For the full schema — frontmatter, block-ID format, package layout, citation chain, naming rules — see [`4-SYSTEM/CLAUDE.md`](CLAUDE.md).
 
 ---
 
@@ -78,7 +78,7 @@ Other transformations the rails are designed to support: thematic summaries, stu
 
 If you are a domain specialist (philologist, scholar, traditional teacher) reviewing or correcting AI-generated content: focus on `2-RAILS/`. Set `status: complete` only on packages whose claims you can stand behind. Flag divergences with ⚑ rather than smoothing them.
 
-If you are adding a new source to `1-SOURCES/`: follow the naming and frontmatter rules in [`4-SYSTEM/CLAUDE.md`](4-SYSTEM/CLAUDE.md). Do not add interpretation to source files — interpretive notes belong in `2-RAILS/`.
+If you are adding a new source to `1-SOURCES/`: follow the naming and frontmatter rules in [`4-SYSTEM/CLAUDE.md`](CLAUDE.md). Do not add interpretation to source files — interpretive notes belong in `2-RAILS/`.
 
 If you are designing AI workflows or transformations: read `4-SYSTEM/CLAUDE.md` end to end, then look at completed verse packages in `2-RAILS/Verses/` for the shape of context the transformations consume.
 

@@ -1,3 +1,12 @@
+---
+title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ལེགས་པར་སྦྱར་བ།
+title_in_english: A Refinement of Entering the Bodhisattva's Way of Life
+author: དགེ་བའི་ལྷ།
+author_in_english: Kṣemadeva
+file_type: commentary
+language_tag: bo
+source_description: Indian commentary on the Bodhicaryāvatāra by Kṣemadeva, translated into Tibetan by paṇḍita Śrī Kumāra and chief translator Kṣemamati (dGe ba'i blo gros).
+---
 
 # བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ལེགས་པར་སྦྱར་བ།
 

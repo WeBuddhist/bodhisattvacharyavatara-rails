@@ -1,3 +1,12 @@
+---
+title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ཞེས་བྱ་བའི་འགྲེལ་པ།
+title_in_english: Commentary on Entering the Bodhisattva's Way of Life
+author: ངག་དབང་ཀུན་དགའ་དབང་ཕྱུག
+author_in_english: Ngakwang Kunga Wangchuk
+file_type: commentary
+language_tag: bo
+source_description: Commentary to facilitate easy entry for beginners into the Bodhicaryāvatāra, composed by Khenpo Ngakwang Kunga Wangchuk of Dzongsar Shedra, India.
+---
 
 # བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ཞེས་བྱ་བའི་འགྲེལ་པ།
 1.   

@@ -23,7 +23,8 @@ When asked to run this skill on a specific file (e.g., "add properties to [filen
    - `language_tag`: The primary language of the text.
    - `source_description`: A brief description of the source material derived from the colophon.
 4. **Update File:** Use the `update_frontmatter` tool to inject these properties into the file's YAML frontmatter. You will need to call `update_frontmatter` for each property you find.
-
+## Example: bo-དངུལ་ཆུ་ཐོགས་མེད།
+![[Pasted image 20260511170942.png]]
 ## Rules & Edge Cases
 - **Do not hallucinate:** If a specific piece of information (like an English translation) is not available in the title or colophon, do not invent it. Either skip that property or leave it empty.
 - **Efficiency:** Stick strictly to the title and colophon to keep processing fast and focused.

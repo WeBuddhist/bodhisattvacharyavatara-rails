@@ -164,7 +164,7 @@ Write a docstring at the top of the generated script explaining:
 
 ## Step 4 — Run the Converter
 
-Run via `importlib` to avoid stale `.pyc` bytecode on the mounted filesystem:
+Run via `importlib` to avoid stale `.pyc` bytecode on the mounted filesystem. Write output to `0-INBOX/temp/` first for review, then move to `0-INBOX/md-texts/` once confirmed:
 
 ```bash
 python3 - << 'EOF'
@@ -173,11 +173,11 @@ spec = importlib.util.spec_from_file_location("conv",
     "4-SYSTEM/Skills/epub-to-markdown/converters/<publisher_slug>.py")
 lk = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(lk)
-lk.convert_epub_to_markdown("path/to/source.epub", "path/to/output.md")
+lk.convert_epub_to_markdown("path/to/source.epub", "0-INBOX/temp/<output>.md")
 EOF
 ```
 
-The output file should be placed in `0-INBOX/md-texts/`.
+Once reviewed and confirmed correct, move the file to `0-INBOX/md-texts/`.
 
 ---
 
@@ -219,10 +219,10 @@ Tibetan epubs sometimes mark root-text syllables with `༷` (U+0F37, TIBETAN MAR
 
 ```bash
 python 4-SYSTEM/Skills/epub-to-markdown/root_marker_to_bold.py \
-  path/to/file.md          # edits in place
+  0-INBOX/temp/<file>.md          # edits in place
 
 python 4-SYSTEM/Skills/epub-to-markdown/root_marker_to_bold.py \
-  path/to/input.md path/to/output.md   # write to separate file
+  0-INBOX/temp/<input>.md 0-INBOX/temp/<output>.md   # write to separate file
 ```
 
 **Logic:** the text is tokenised at tsheg `་`, shad `།`, space, and newline boundaries. Each token is classified as marked (contains `༷`) or unmarked. Consecutive marked tokens are joined into one `**...**` span; `༷` is stripped from all output.

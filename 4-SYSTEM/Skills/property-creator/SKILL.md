@@ -15,7 +15,7 @@ When asked to run this skill on a specific file (e.g., "add properties to [filen
 1. **Read the File:** Use the `read_file` tool to retrieve the content of the target file.
 2. **Focus on Metadata:** Do not read or analyze the entire body text. Only examine the title (usually at the very top) and the colophon (publication/source information typically found at the beginning or end of the document).
 3. **Extract Properties:** Identify the following details from those specific sections:
-   - `title`: The original title of the work.
+   - `title`: The original title of the work, copied exactly as it appears in the file — including any trailing punctuation such as །། (shad).
    - `title in English`: The English translation of the title.
    - `author`: The original author.
    - `author in English`: The English translation or transliteration of the author's name.

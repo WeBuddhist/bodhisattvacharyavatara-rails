@@ -1,8 +1,11 @@
 ---
-title:
-  - བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཚིག་འགྲེལ་གཅེས་བཏུས།
+title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཚིག་འགྲེལ་གཅེས་བཏུས།
+title_in_english: A Compendium of Selected Commentaries on Entering the Bodhisattva's Way of Life
 author: ཀརྨ་བློ་གྲོས་ཆོས་དཔལ་བཟང་པོ།
-colophon: དཔའ་བོ་གཙུག་ལག་ཕྲེང་བས་མཛད་པའི་སྤྱོད་འཇུག་གི་འགྲེལ་ཆེན་ལས། ཁྲ་འགུ་བས་རྩ་བའི་ཚིག་འགྲེལ་ཁོ་ན་ཕྱོགས་བསྒྲིག་བྱེད་འཆར་ལྟར། རང་སློབ་མཁན་པོ་ཤེས་རབ་ཕུན་ཚོགས་ཀྱིས་ཐོན་གསར་རིག་མཛོད་ལས་འདོན་འཇུག་བཅས་གྲུབ་པར་བྱས་པ།
+author_in_english: Karma Lodrö Chöpel Zangpo
+file_type: commentary
+language_tag: bo
+source_description: A compendium of root text word-commentaries on the Bodhicaryāvatāra, compiled to facilitate entry into the Mahayana for beginners by drawing from the ocean of existing commentaries.
 ---
 
 # བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཚིག་འགྲེལ་གཅེས་བཏུས།

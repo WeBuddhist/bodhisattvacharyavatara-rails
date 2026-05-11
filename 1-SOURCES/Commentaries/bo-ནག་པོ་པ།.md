@@ -1,5 +1,5 @@
 ---
-title: སྤྱོད་འཇུག་གི་རྣམ་པར་བཤད་པའི་དཀའ་འགྲེལ
+title: སྤྱོད་འཇུག་གི་རྣམ་པར་བཤད་པ་བཞུགས་སོ།།
 title in English: Difficult-Points Commentary on Engaging in the Bodhisattva's Conduct
 author: ནག་པོ་པ།
 author in English: Nag po pa

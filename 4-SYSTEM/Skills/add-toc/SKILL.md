@@ -1,12 +1,10 @@
 ---
 name: add-toc
 description: >
-  Generate and prepend a detailed nested Table of Contents (TOC / དཀར་ཆག) to a
-  Tibetan commentary, structural-outline (sa-bcad), or formatted markdown
-  document. The TOC is formatted as a nested `*` list with 3-space indentation
-  per level, and each entry is tagged with a `^toc-X-Y-Z` Obsidian block ID
-  that reflects its position in the hierarchy. The output file is saved to
-  `0-INBOX/temp/` with the prefix `toc-` added to the original filename.
+  Generate a nested, decimal-numbered Table of Contents (TOC / dkar-chag) from
+  a flat draft list at the top of a Tibetan markdown document. Each entry in the
+  output is tagged with a `^toc-X-Y-Z` Obsidian block ID. The output file is
+  saved to `0-INBOX/temp/` with the prefix `toc-` added to the original filename.
 
   Trigger this skill whenever the user says things like:
   "add a TOC", "generate a table of contents", "create a dkar chag",
@@ -16,125 +14,149 @@ description: >
 
 # Add-TOC Skill
 
-This skill reads a Tibetan markdown document and produces a clean nested Table
-of Contents -- a `*`-list where each item is tagged with a hierarchical
-`^toc-X-Y-Z` Obsidian block ID -- then saves a new copy to `0-INBOX/temp/`
-with the filename prefixed `toc-`.
+The input is a **flat, unindented list** of Tibetan outline items already
+present in the document's TOC section. All items sit at the same bullet level
+regardless of their structural depth. Your job is to read this list, reconstruct
+the hierarchy from the Tibetan text itself, and write a clean nested TOC.
 
 ---
 
-## Step 1 -- Identify the input file
+## Step 1 -- Read the draft TOC
 
-The user will provide a file path, a filename, or a description of the
-document. Resolve it to an absolute path before proceeding.
+Use the Read tool to fetch only the opening portion of the file -- enough to
+capture the full TOC section. Stop at the first `---` or `##` heading that
+follows the TOC list.
 
-Common locations:
-- `1-SOURCES/Commentaries/` -- formatted Tibetan commentaries
-- `3-TRANSFORMATIONS/` -- sa-bcad structural outlines
-- `0-INBOX/temp/` -- working copies
-
----
-
-## Step 2 -- Run the script
-
-Run `scripts/add_toc.py` relative to this skill directory. Locate the skill
-directory within the workspace folder (always at `4-SYSTEM/Skills/add-toc/`)
-and build the path from the workspace root:
-
-```bash
-python "<workspace_root>/4-SYSTEM/Skills/add-toc/scripts/add_toc.py" \
-  "<absolute/path/to/input.md>"
-```
-
-Replace `<workspace_root>` with the actual vault/workspace root path on the
-current machine (e.g. the folder containing `0-INBOX`, `1-SOURCES`, etc.).
-
-The script auto-detects the document format and writes the output to
-`0-INBOX/temp/toc-<filename>.md` inside the vault.
-
----
-
-## Step 3 -- Verify and present
-
-After the script succeeds:
-
-1. Read the first 60 lines of the output file to confirm the TOC looks correct.
-2. If the hierarchy is clearly wrong (e.g., all items at depth 1, or items
-   in the wrong order), see **Manual correction** below.
-3. Present the output file path to the user using a `computer://` link.
-
----
-
-## TOC format reference
-
-The target format for each TOC line is:
+The draft looks like this (all bullets at the same level):
 
 ```
-* 1. SECTION TITLE ^toc-1
-   * 1.1 SUBSECTION TITLE ^toc-1-1
-      * 1.1.1 SUB-SUBSECTION TITLE ^toc-1-1-1
-      * ... ^toc-1-1-2
-   * 1.2 SECOND SUBSECTION ^toc-1-2
-* 2. SECOND SECTION ^toc-2
+* །དབུ་ནས་ཞབས་སུ་བསྡུས་པའི་དོན་གང་ཡིན་ཞེ་ན༑
+* དགོས་ཆེད་སུ་ཞིག་གི་དོན་དུ་མཛད་ཅེ་ན།
+* གཉིས་པ་སློབ་མས་ཇི་ལྟར་ཉན་པའི་ཚུལ་ལ། ཀུན་སློང་དང་། ཀུན་སྤྱོད་གཉིས། དང་པོ།
+* གཉིས་པ་ཀུན་སྤྱོད་ལའང་། སྤང་བྱའི་ཀུན་སྤྱོད་དང་། བླང་བྱའི་ཀུན་སྤྱོད་གཉིས།...
+* དྲི་མ་དྲུག་ནི།
+...
 ```
 
-Rules:
-- Bullet character: `*` (not `-`)
-- Indentation: exactly **3 spaces** per depth level (depth 1 = no indent)
-- Decimal prefix: `1.` for top-level, `1.1` for sub-level, `1.1.1` for sub-sub, etc.
-- Block ID: `^toc-` followed by dash-separated integers reflecting position
-  in the hierarchy, e.g. `^toc-2-3-1` means section 2, subsection 3, item 1
-- Text: clean title -- no Tibetan numbering prefixes, no list markers,
-  no Obsidian wiki-link syntax
-- No blank lines between TOC entries
-- The TOC block is preceded by a `## dkar-chag / Table of Contents` heading
-  and followed by a horizontal rule `---`
+---
+
+## Step 2 -- Infer the hierarchy
+
+Hierarchy is encoded entirely in the Tibetan text. Read each item and assign a
+depth using these signals, in order of priority:
+
+### 2a. Ordinal prefixes signal sibling rank
+
+An item beginning with an ordinal is a sibling of other items at the same
+ordinal series. The series restarts when a new parent is introduced:
+
+| Prefix | Meaning |
+|---|---|
+| དང་པོ། / དང་པོ་ | first |
+| གཉིས་པ། / གཉིས་པ་ | second |
+| གསུམ་པ། / གསུམ་པ་ | third |
+| བཞི་པ། / བཞི་པ་ | fourth |
+| ལྔ་པ། / ལྔ་པ་ | fifth |
+| དྲུག་པ། / དྲུག་པ་ | sixth |
+| བདུན་པ། / བདུན་པ་ | seventh |
+| ... | ... |
+
+Bracket markers (༡༽, ༢༽, ཀ༽, ཁ༽) and parenthetical numbers follow the same logic.
+
+### 2b. "Introduction + enumeration" items shift depth
+
+An item that **introduces sub-items** (ending with a count like `གཉིས།`,
+`གསུམ་སྟེ།`, `བཞི་ལས།`, or with `ལ།`) is a parent. The next item(s) are its
+children -- one level deeper.
+
+An item that simply names one element of an enumeration (short, no trailing
+count phrase) is a leaf at that depth.
+
+### 2c. Depth resets when a peer ordinal appears
+
+When you see `གཉིས་པ་...` after a series of children, you return to the depth
+of the matching `དང་པོ་` that opened that sibling series.
+
+### 2d. Items with no ordinal prefix
+
+Items with no ordinal prefix and no introduction phrase are at the same depth
+as the previous item unless context indicates otherwise.
 
 ---
 
-## Document formats the script handles
+## Step 3 -- Assign toc_ids
 
-### Format A -- Existing Obsidian-style TOC
+Walk the hierarchy in document order. Maintain a counter per depth level;
+reset deeper counters whenever you move up to a shallower level.
 
-Files that already contain a `## dkar-chag` section with `^toc-*` block IDs
-and Obsidian wiki links `[[#^id|text]]`. The script strips the wiki links
-and reformats with 3-space indentation and decimal numbering.
-
-### Format B -- Sa-bcad structural outline
-
-Files like `3-TRANSFORMATIONS/*.md` that have hierarchical list items
-with `^X-Y-Z` block IDs. The script uses indentation depth and the number
-of ID segments to determine the TOC hierarchy.
-
-### Format C -- Commentary body blocks
-
-Formatted commentaries where section-opening paragraphs have block IDs
-ending in `-0` (e.g. `^1-0`, `^1-1-0`, `^2-3-0`). The script picks up
-these "section header" blocks, strips the trailing `-0` to derive depth
-(1 segment -> depth 1, 2 segments -> depth 2, etc.), and builds the TOC
-from the first sentence or clause of each block.
+```
+depth 1  ->  1, 2, 3, ...
+depth 2  ->  1-1, 1-2, ..., 2-1, 2-2, ...
+depth 3  ->  1-1-1, 1-1-2, ..., 1-2-1, ...
+```
 
 ---
 
-## Manual correction
+## Step 4 -- Clean the display text
 
-If the auto-generated TOC has structural errors, correct them by editing
-the output file directly:
+Strip from each item:
+- Leading `*` or `-` bullet
+- Leading ordinal prefix (དང་པོ།, གཉིས་པ།, གཉིས་པ་, གསུམ་པ།, བཞི་པ།, etc.)
+- Leading bracket markers (༡༽, ༢༽, ཀ༽, ཁ༽, ...)
+- Leading Tibetan decimal labels (༡.༡, ༢.༡, ...)
+- Trailing `ལོ།།` -> replace with `།`
+- Trailing `།།` -> replace with `།`
+- Trailing block IDs (`^anything`)
+- Obsidian wiki-link wrappers (`[[#^id|text]]` -> keep `text`)
 
-- Adjust indentation (add/remove sets of 3 spaces)
-- Re-number `^toc-*` IDs to match the correct hierarchy
-- Clean up any residual Tibetan prefix text that the script missed
-
-Tibetan numbering prefixes to watch for:
-- Ordinals: dang-po, gnyis-pa, gsum-pa, bzhi-pa, lnga-pa, ...
-- Bracket numbers: 1), 2), 3), ... (Tibetan numerals with closing bracket)
-- Bracket letters: ka), kha), ga), ... (Tibetan consonants with bracket)
-- Decimal labels: 1.1, 1.2, 2.1, ... (Tibetan numerals)
-- Section closers: trailing lo//, la/, //
+Do **not** strip the body of the item -- keep the full descriptive phrase.
 
 ---
 
-## Output location
+## Step 5 -- Render
 
-Always `0-INBOX/temp/toc-{original-filename}` within the vault root
-(the folder containing `0-INBOX`, `1-SOURCES`, `2-RAILS`, etc.).
+Format each entry as:
+
+```
+{INDENT}* {DECIMAL} {CLEAN_TEXT} ^toc-{TOC_ID}
+```
+
+- `INDENT`: 3 spaces × (depth − 1); depth-1 items have no indent
+- `DECIMAL`: `1.` for depth-1, `1.1` for depth-2, `1.1.1` for depth-3, etc.
+- No blank lines between entries
+- Precede the block with `## དཀར་ཆག / Table of Contents`
+- Follow it with `---`
+
+Example:
+```
+## དཀར་ཆག / Table of Contents
+
+* 1. བཤད་བྱའི་ཡན་ལག་བཤད་པ། ^toc-1
+   * 1.1 སློབ་དཔོན་གྱིས་ཆོས་ཇི་ལྟར་འཆད་ཚུལ། ^toc-1-1
+      * 1.1.1 སློབ་དཔོན་སངས་རྒྱས་ཀྱིས་ཆོས་ཇི་ལྟར་འཆད་ཚུལ། ^toc-1-1-1
+      * 1.1.2 སློབ་དཔོན་དགྲ་བཅོམ་པས་ཆོས་ཇི་ལྟར་འཆད་ཚུལ། ^toc-1-1-2
+   * 1.2 སློབ་མས་ཇི་ལྟར་ཉན་ཚུལ། ^toc-1-2
+* 2. བཤད་བྱ་དངོས་བཤད་པ། ^toc-2
+
+---
+```
+
+---
+
+## Step 6 -- Write the output
+
+Write the complete file (new TOC section + original body) to:
+
+```
+0-INBOX/temp/toc-{original-filename}
+```
+
+within the vault root. If an existing `## དཀར་ཆག` section is present, replace it
+with the new one. Splice the TOC immediately after the YAML frontmatter.
+
+---
+
+## Step 7 -- Verify and present
+
+Read the first 40 lines of the output file to confirm the structure looks right.
+Present a `computer://` link to the file.

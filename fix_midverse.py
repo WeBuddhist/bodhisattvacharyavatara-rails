@@ -1,26 +1,26 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-fix_midverse.py — Split mid-verse merged half-lines in the already-formatted
-Tibetan translation file.
-
-Applies ONLY the mid-verse line-break fix without touching block IDs or verse
-numbers. Safe to run on an already-formatted file.
+fix_midverse.py — Split merged verse half-lines in the already-formatted
+Tibetan translation file, preserving all existing block IDs.
 
 Run from the vault root:
     python fix_midverse.py
 
-Pattern fixed: a single shad '།' preceded by a space and immediately followed
-by a Tibetan syllable (no space or shad after it).  Examples:
-    ཞིག །ནམ་   →   ཞིག །\n    ནམ་
-    གི །སྡུག་   →   གི །\n    སྡུག་
+Two patterns are fixed:
 
-The regex does NOT match:
-  - '། །' (SHAD_PAIR): the space before the second shad is preceded by '།'
-    (first shad), so the lookbehind '(?<![།])' blocks the match.
-  - A shad at end-of-line or before whitespace/another shad: blocked by the
-    positive lookahead '(?=[^\s།])'.
-  - Lines beginning with '།' (no preceding space).
+1. MID_VERSE BREAK — a single shad '།' preceded by a space and immediately
+   followed by a Tibetan syllable (no space/shad after).
+   Pattern: [letter] །[letter]  e.g. 'ཞིག །ན', 'གི །ས'
+   Regex: r'(?<![།]) །(?=[^\s།])'
+
+2. EMBEDDED SHAD_PAIR — '། །' in the MIDDLE of a line (not at end), followed
+   by a Tibetan syllable. The second line starts fresh.
+   Pattern: [text]། །[Tibetan][more text]
+   Regex: r'། །(?=[ༀ-ཿ])'
+
+Block IDs ('^N-N') are extracted before splitting and re-attached to the last
+split line. No verse numbers are changed.
 """
 
 import re, os, sys
@@ -33,29 +33,78 @@ if not files:
 INPUT = os.path.join(BASE, files[0])
 print(f"Processing: {INPUT}")
 
-# Mid-verse line-break pattern (see SKILL.md → Root-Text-Structure)
+# Pattern 1: mid-verse single-shad break
 MID_LINE_SHAD = re.compile(r'(?<![།]) །(?=[^\s།])')
+# Pattern 2: embedded SHAD_PAIR followed by Tibetan syllable
+EMBEDDED_PAIR = re.compile(r'། །(?=[ༀ-ཿ])')
+# Block ID at end of line
+BLOCK_ID_RE = re.compile(r'(\s*\^\S+)\s*$')
+
+
+def split_line(line):
+    """
+    Split a merged verse line into correctly-terminated sub-lines.
+    Returns a list of strings (without trailing newline).
+    The block ID, if any, is moved to the last sub-line.
+    """
+    # Extract trailing block ID
+    m = BLOCK_ID_RE.search(line)
+    if m:
+        bid = m.group(1)
+        core = line[:m.start()]
+    else:
+        bid = ''
+        core = line
+
+    # Apply both split patterns via sentinel substitution
+    # Use null-byte as sentinel so we can split cleanly after both passes
+    core = MID_LINE_SHAD.sub(' །\x00', core)    # mid-verse: keep the ' །'
+    core = EMBEDDED_PAIR.sub('། །\x00', core)   # embedded pair: keep '། །'
+
+    parts = [p.strip() for p in core.split('\x00') if p.strip()]
+    if not parts:
+        return [line]
+
+    result = []
+    for i, part in enumerate(parts):
+        if i == len(parts) - 1:
+            result.append(part + bid)
+        else:
+            result.append(part)
+    return result
+
+
+def needs_split(line):
+    return MID_LINE_SHAD.search(line) or EMBEDDED_PAIR.search(line)
+
 
 with open(INPUT, 'r', encoding='utf-8') as f:
-    lines = f.readlines()
+    raw = f.readlines()
 
-print(f"Read {len(lines)} lines")
+print(f"Read {len(raw)} lines")
 
 output = []
 changed = 0
-for i, line in enumerate(lines, 1):
+shown = 0
+for i, line in enumerate(raw, 1):
     stripped = line.rstrip('\n')
-    if MID_LINE_SHAD.search(stripped):
-        fixed = MID_LINE_SHAD.sub(' །\n', stripped)
-        output.append(fixed + '\n')
-        changed += 1
-        # Print first 10 changes for verification
-        if changed <= 10:
-            print(f"  Line {i}: split → {repr(fixed[:80])}")
+    if needs_split(stripped):
+        parts = split_line(stripped)
+        if len(parts) > 1:
+            changed += 1
+            for p in parts:
+                output.append(p + '\n')
+            if shown < 10:
+                shown += 1
+                print(f"  [{i}] → {len(parts)} lines:")
+                for p in parts:
+                    print(f"        {p}")
+        else:
+            output.append(line)
     else:
         output.append(line)
 
 with open(INPUT, 'w', encoding='utf-8') as f:
     f.writelines(output)
 
-print(f"\nDone. {changed} lines split. File: {INPUT}")
+print(f"\nDone. {changed} lines split → file: {INPUT}")

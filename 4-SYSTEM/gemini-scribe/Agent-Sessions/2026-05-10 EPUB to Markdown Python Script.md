@@ -17,11 +17,11 @@ require_confirmation:
 accessed_files:
   - "[[epub-to-markdown]]"
   - "[[epub_to_markdown.py]]"
-  - "[[SKILL]]"
+  - "[[4-SYSTEM/Skills/add-toc/SKILL]]"
   - "[[bo-spyod-jug-commentaries-collection.epub]]"
 context_files:
   - "[[epub_to_markdown]]"
-  - "[[SKILL]]"
+  - "[[4-SYSTEM/Skills/add-toc/SKILL]]"
 metadata:
   autoLabeled: true
 ---

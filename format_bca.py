@@ -46,6 +46,12 @@ COLOPHON_MARKER = 'འཇུག་པ་ལས'   # appears in every chapter col
 
 SHAD_PAIR = '། །'               # verse-line separator
 
+# Matches a mid-verse line break: space + shad directly followed by Tibetan text.
+# Examples: "ཞིག །ན", "གི །ས", "གོ །བ" — two half-verses merged onto one line.
+# Lookbehind (?<![།]) prevents matching the 2nd shad inside a '། །' pair.
+# Lookahead (?=[^\s།]) prevents matching a shad at end-of-line or before another shad.
+MID_LINE_SHAD = re.compile(r'(?<![།]) །(?=[^\s།])')
+
 # ─── Helpers ──────────────────────────────────────────────────────────────────
 def has_tibetan(line):
     return bool(re.search(r'[ༀ-࿿]', line))
@@ -63,19 +69,51 @@ def block_id(ch, rel):
     return f'^{ch}-{rel}'
 
 def split_stanza(text):
-    """Split a merged verse into individual lines, each ending with '། །'."""
+    """Split a merged verse into individual lines.
+
+    Handles two separators:
+      1. SHAD_PAIR '། །' — standard verse-line end (shad-space-shad).
+      2. MID_LINE_SHAD: a single shad immediately preceded by a space and
+         followed by a Tibetan syllable (no space/shad after). This is the
+         mid-verse line break — e.g. 'ཞིག །ན', 'གི །ས', 'གོ །བ'.
+         The first half-line keeps its trailing ' །'; the second starts fresh.
+
+    A null-byte sentinel (\x00) is inserted at mid-verse break points before
+    the SHAD_PAIR split so both split types are handled cleanly.
+    """
     text = text.strip()
     if not text:
         return []
+
+    # Insert sentinel after each mid-verse break (the ' །' is kept; \x00 marks split)
+    text = MID_LINE_SHAD.sub(r' །\x00', text)
+
     parts = text.split(SHAD_PAIR)
     lines = []
+
     for seg in parts[:-1]:
         s = seg.strip()
-        if s:
-            lines.append(s + SHAD_PAIR)
+        if not s:
+            continue
+        sub = s.split('\x00')
+        for j, piece in enumerate(sub):
+            piece = piece.strip()
+            if not piece:
+                continue
+            if j < len(sub) - 1:
+                lines.append(piece)            # already ends with ' །'
+            else:
+                lines.append(piece + SHAD_PAIR)  # restore full verse-line ending
+
     last = parts[-1].strip()
     if last:
-        lines.append(last)
+        sub = last.split('\x00')
+        for j, piece in enumerate(sub):
+            piece = piece.strip()
+            if not piece:
+                continue
+            lines.append(piece)  # last segment: keep as-is (may end with ' །' or nothing)
+
     return lines
 
 def format_stanza(raw_lines, ch, rel):
@@ -85,9 +123,6 @@ def format_stanza(raw_lines, ch, rel):
     if not combined:
         return []
     bid = block_id(ch, rel)
-    n = combined.count(SHAD_PAIR)
-    if n <= 1:
-        return [combined + ' ' + bid]
     vlines = split_stanza(combined)
     if not vlines:
         return [combined + ' ' + bid]

@@ -19,6 +19,7 @@ Raw source files typically contain:
 |---|---|---|
 | Standalone verse number on its own line | `11` | **Remove** — used only to set block ID |
 | Merged stanza (multiple verse-lines on one line) | `...། །...། །...།།` | **Split** at each `། །` separator |
+| Mid-verse merged half-lines | `...ཞིག །ནམ་...` | **Split** at `[letter] །[letter]` junction (single shad directly followed by Tibetan syllable) |
 | Already-split stanza (4 lines, one per line) | four lines ending with `། །` | Re-validate block ID |
 | Chapter-end colophon appended to last verse | `...མཆི། །བྱང་ཆུབ་སེམས་དཔའི་...ལེའུ་དང་པོའོ།། །།` | Strip colophon, keep verse text |
 | Blank lines (single or double) | — | Normalise to exactly one blank between stanzas |
@@ -30,6 +31,7 @@ Raw source files typically contain:
 ## Tibetan Text Conventions
 
 - **Verse-line separator**: `། །` (shad U+0F0D, space, shad). Each verse-line ends with this.
+- **Mid-verse line break**: A single shad `།` preceded by a space and immediately followed by a Tibetan syllable (no space after the shad). Pattern: `[letter] །[letter]` — e.g. `ག །ན`, `གི །ས`, `གོ །བ`. This marks two half-verses merged onto one physical line and must be split with a newline. The first half retains its trailing ` །`; the second begins on a new line. The negative-lookbehind `(?<![།])` prevents matching the second shad inside a `། །` pair; the positive-lookahead `(?=[^\s།])` prevents matching a shad at end-of-line or before another shad.
 - **Stanza**: typically 4 verse-lines (sometimes 2 or 8). One block ID per stanza.
 - **Colophon marker**: `འཇུག་པ་ལས` appears in every chapter-end colophon. The colophon also ends with `།། །།` (double-shad, space, double-shad).
 - **Double-shad** `།།` appears **only** in chapter colophons, never in regular verse. Use this to detect colophon lines reliably.
@@ -136,6 +138,7 @@ FULL_COLOPHON    = 'བྱང་ཆུབ་སེམས་དཔའི་སྤ
 SHAD_PAIR        = '། །'                  # verse-line separator
 TIBETAN_RANGE    = r'[ༀ-࿿]'              # any Tibetan character
 DOUBLE_SHAD      = '།།'                  # colophon-only marker
+MID_LINE_SHAD    = r'(?<![།]) །(?=[^\s།])'  # mid-verse break: space+shad not preceded by shad, followed by non-whitespace non-shad
 ```
 
 **Ordinal extraction from colophon:**

@@ -183,15 +183,17 @@ def build_file(day_num, verse_list, comm_dict):
     tnum = to_tib(day_num)
     lines = [f"# ཉིན་ {tnum}། — སྤྱོད་འཇུག་སློབ་སྦྱོང་།", ""]
 
+    last_heading = None
     for v in verse_list:
         heading = v["heading"]
         num     = v["num"]
         text    = v["text"]
 
-        # Section heading
-        if heading:
+        # Section heading — only emit when it changes
+        if heading and heading != last_heading:
             lines.append(f"## {heading}")
             lines.append("")
+            last_heading = heading
 
         # Formatted verse
         lines.append(format_verse(text))

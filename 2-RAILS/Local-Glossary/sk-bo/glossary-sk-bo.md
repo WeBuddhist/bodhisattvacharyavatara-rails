@@ -44,8 +44,8 @@ This glossary extracts philosophically and doctrinally notable Sanskrit terms fr
 | रसायन (rasāyana) | जगन्मृत्युविनाशाय जातमेतद्रसायनम् (^3-28) | རྩིར་གྱུར་པ། | འགྲོ་བ་ཀུན་གྱི་དགའ་བའི་རྒྱུ། །སེམས་ཅན་སྡུག་བསྔལ་རྩིར་གྱུར་པ། (^1-29) |
 | बोधिसत्त्व (bodhisattva) | भवचारकबन्धनो... सुगतानां सुत उच्यते (^1-9) | བྱང་ཆུབ་སེམས་དཔའ། | བྱང་ཆུབ་སེམས་སྐྱེས་གྱུར་ན་སྐད་ཅིག་གིས། (^1-13) |
 | सनरामर (sa-nara-āmara) | सनरामरलोकवन्दनीयो भवति (^1-9) | འཇིག་རྟེན་ལྷ་མིར་བཅས་པ། | འཇིག་རྟེན་ལྷ་མིར་བཅས་པས་ཕྱག་བྱར་འགྱུར། (^1-13) |
-| चिन्तामणि (cintāmaṇi) | चिन्तामणिर्भद्रघटः (^3-19) | ཡིད་བཞིན་ནོར། | (equiv. in ch.3) |
-| कल्पतरु / कल्पवृक्ष (kalpataru) | भवेयं कल्पवृक्षश्च (^3-19) | དཔག་བསམ་གྱི་ཤིང་། | (wish-fulfilling tree metaphor) |
+| चिन्तामणि (cintāmaṇi) | चिन्तामणिर्भद्रघटः (^3-19) | ཡིད་བཞིན་ནོར། | ཡིད་བཞིན་ནོར་དང་བུམ་པ་བཟང་། / རིག་སྔགས་གྲུབ་དང་སྨན་ཆེན་དང་། (^3-21) |
+| कल्पतरु / कल्पवृक्ष (kalpataru) | भवेयं कल्पवृक्षश्च (^3-19) | དཔག་བསམ་གྱི་ཤིང་། | ཡིད་བཞིན་ནོར་དང་བུམ་པ་བཟང་། / དཔག་བསམ་གྱི་ནི་ཤིང་དག་དང་། (^3-21) |
 | बोधिप्रणिधिचित्त (bodhi-praṇidhi-citta) | बोधिप्रणिधिचित्तं च (^1-15) | བྱང་ཆུབ་སྨོན་པའི་སེམས། | བྱང་ཆུབ་སྨོན་པའི་སེམས་དང་ནི། (^1-21) |
 | बोधिप्रस्थानचित्त (bodhi-prasthāna-citta) | बोधिप्रस्थानमेव च (^1-15) | བྱང་ཆུབ་འཇུག་པ། | བྱང་ཆུབ་འཇུག་པ་ཉིད་ཡིན་ནོ། (^1-21) |
 | संसार (saṃsāra) | बोधिप्रणिधिचित्तस्य संसारेऽपि फलं महत् (^1-17) | འཁོར་བ། | བྱང་ཆུབ་སྨོན་པའི་སེམས་ལས་ནི། །འཁོར་ཚེ་འབྲས་བུ་ཆེ་འབྱུང་ཡང་། (^1-22) |
@@ -161,20 +161,20 @@ This glossary extracts philosophically and doctrinally notable Sanskrit terms fr
 
 | Term | Context (Sanskrit) | bo-version (Term) | bo-version (Context) |
 |------|--------------------|-------------------|----------------------|
-| क्षान्ति (kṣānti) | (chapter title) | བཟོད་པ། | ལེའུ་དྲུག་པ། བཟོད་པ་བསྒོམ་པ། |
-| कुशलराशि (kuśala-rāśi) | एककोपेन निर्दह्यते... कुशलराशयः (cf. 6-1) | དགེ་བའི་ཚོགས། | (accumulation of merit) |
-| द्वेष (dveṣa) | द्वेषवन्तं च यो हन्यात् (context) | ཞེ་སྡང་། | (hatred/aversion) |
-| शत्रु (śatru) | द्वेषात् बलवतो भयम् / शत्रुभिः | དགྲ། | (enemy) |
-| परमक्लेश (parama-kleśa) | क्रोधः परमापत्तिः (context) | ཞེ་སྡང་ཉོན་མོངས་མཆོག | (worst affliction: hatred) |
-| मैत्री (maitrī) | (opposed to dveṣa) | བྱམས་པ། | (loving-kindness) |
-| कर्म (karma) | शुभाशुभकर्मफलं (context) | ལས། | (action/karma) |
-| सत्त्वक्षेत्र (sattva-kṣetra) | बुद्धक्षेत्र / सत्त्वक्षेत्र (context) | སེམས་ཅན་ཞིང་། | (field of beings) |
-| बोधिसंभार (bodhi-sambhāra) | पुण्यसंभार / बोधिसंभार (context) | བྱང་ཆུབ་ཀྱི་ཚོགས། | (accumulation for enlightenment) |
-| ईर्ष्या (īrṣyā) | (context of afflictions chapter) | ཕྲག་དོག། | (jealousy) |
-| अहंकार (ahaṃkāra) | (māna/ahaṃkāra context) | ང་རྒྱལ། | (pride/ego-clinging) |
-| सुख (sukha) | सुखेच्छया / सुखं प्रदा (context) | བདེ་བ། | (happiness/pleasure) |
-| दुःख (duḥkha) | (throughout ch.6) | སྡུག་བསྔལ། | (suffering) |
-| अनात्मन् (anātman) | (implicit in ch.6 reasoning on no-self of opponent) | བདག་མེད། | (selflessness) |
+| क्षान्ति (kṣānti) | (chapter title) | བཟོད་པ། | ཞེ་སྡང་ལྟ་བུའི་སྡིག་པ་མེད། / བཟོད་པ་ལྟ་བུའི་དཀའ་ཐུབ་མེད། (^6-2) |
+| कुशलराशि (kuśala-rāśi) | एककोपेन निर्दह्यते... कुशलराशयः (cf. 6-1) | དགེ་བའི་ཚོགས། | བསྐལ་པ་སྟོང་དུ་བསགས་པ་ཡི། / སྦྱིན་དང་བདེ་གཤེགས་མཆོད་ལ་སོགས། / ལེགས་སྤྱང་གང་ཡིན་དེ་ཀུན་ཡང་། / ཁོང་ཁྲོ་གཅིག་གིས་འཇོམས་པར་བྱེད། (^6-1) |
+| द्वेष (dveṣa) | द्वेषवन्तं च यो हन्यात् (context) | ཞེ་སྡང་། | ཞེ་སྡང་ལྟ་བུའི་སྡིག་པ་མེད། / དེ་བས་བཟོད་ལ་ནན་ཏན་དུ། (^6-2) |
+| शत्रु (śatru) | द्वेषात् बलवतो भयम् / शत्रुभिः | དགྲ། | ཁྲོ་བའི་དགྲ་ཡིས་དེ་ལ་སོགས། / གང་ཞིག་བསྒྲིམས་ཏེ་ཁྲོ་འཇོམས་པ། / དེ་ནི་འདི་དང་གཞན་དུ་བདེ། (^6-6) |
+| परमक्लेश (parama-kleśa) | क्रोधः परमापत्तिः (context) | ཞེ་སྡང་ཉོན་མོངས་མཆོག | ཞེ་སྡང་ལྟ་བུའི་སྡིག་པ་མེད། / བཟོད་པ་ལྟ་བུའི་དཀའ་ཐུབ་མེད། (^6-2) |
+| मैत्री (maitrī) | (opposed to dveṣa) | བྱམས་པ། | གང་ཞིག་བསྒྲིམས་ཏེ་ཁྲོ་འཇོམས་པ། / དེ་ནི་འདི་དང་གཞན་དུ་བདེ། (^6-6) |
+| कर्म (karma) | शुभाशुभकर्मफलं (context) | ལས། | ཉེས་པ་ཇི་སྙེད་ཐམས་ཅད་དང་། / དེ་ཀུན་རྐྱེན་གྱི་སྟོབས་ལས་བྱུང་། / རང་དབང་ཡོད་པ་མ་ཡིན་ནོ། (^6-25) |
+| सत्त्वक्षेत्र (sattva-kṣetra) | बुद्धक्षेत्र / सत्त्वक्षेत्र (context) | སེམས་ཅན་ཞིང་། | གཞན་ཡང་སྡུག་བསྔལ་ཡོན་ཏན་ནི། / འཁོར་བ་པ་ལ་སྙིང་རྗེ་སྐྱེ། (^6-21) |
+| बोधिसंभार (bodhi-sambhāra) | पुण्यसंभार / बोधिसंभार (context) | བྱང་ཆུབ་ཀྱི་ཚོགས། | བསྐལ་པ་སྟོང་དུ་བསགས་པ་ཡི། / ལེགས་སྤྱང་གང་ཡིན་དེ་ཀུན་ཡང་། / ཁོང་ཁྲོ་གཅིག་གིས་འཇོམས་པར་བྱེད། (^6-1) |
+| ईर्ष्या (īrṣyā) | (context of afflictions chapter) | ཕྲག་དོག། | མཐོ་ལ་ཕྲག་དོག་མཉམ་དང་འགྲན། / དམའ་ལ་ང་རྒྱལ་བསྟོད་ན་དྲེགས། (^6-25 context / ^8-12) |
+| अहंकार (ahaṃkāra) | (māna/ahaṃkāra context) | ང་རྒྱལ། | གཙོ་བོ་ཞེས་བྱར་གང་འདོད་དང་། / བདག་ཅེས་བརྟགས་པ་གང་ཡིན་པ། / ཆེད་དུ་བསམས་ཤིང་འབྱུང་བ་མེད། (^6-27) |
+| सुख (sukha) | सुखेच्छया / सुखं प्रदā (context) | བདེ་བ། | བདེ་བའི་རྒྱུ་ནི་རེས་འགའ་འབྱུང་། / སྡུག་བསྔལ་རྒྱུ་ནི་ཤིན་ཏུ་མང་། (^6-12) |
+| दुःख (duḥkha) | (throughout ch.6) | སྡུག་བསྔལ། | སྡུག་བསྔལ་ཡིད་མི་བདེ་བ་དང་། / གོམས་ན་སླ་བར་མི་འགྱུར་བའི། / གནོད་པ་ཆེན་པོ་བཟོད་པར་བྱོས། (^6-14) |
+| अनात्मन् (anātman) | (implicit in ch.6 reasoning on no-self of opponent) | བདག་མེད། | དེ་ལྟར་ཐམས་ཅད་གཞན་གྱི་དབང་། / དེ་ལྟར་ཤེས་ན་སྦྲུལ་ལྟ་བུའི། / དངོས་པོ་ཀུན་ལ་ཁྲོ་མི་འགྱུར། (^6-31) |
 
 ---
 
@@ -182,15 +182,15 @@ This glossary extracts philosophically and doctrinally notable Sanskrit terms fr
 
 | Term | Context (Sanskrit) | bo-version (Term) | bo-version (Context) |
 |------|--------------------|-------------------|----------------------|
-| वीर्य (vīrya) | (chapter title) | བརྩོན་འགྲུས། | ལེའུ་བདུན་པ། བརྩོན་འགྲུས་ཀྱི་ལེའུ། |
-| आलस्य (ālasya) | (opposed to vīrya) | ལེ་ལོ། | (laziness) |
-| छन्द (chanda) | (source of vīrya) | མོས་པ། | (aspiration/intention as basis of effort) |
-| अभिमान (abhimāna) | (confident pride) | མཐོ་རེ། | (self-confidence) |
-| आत्मसंभव (ātmasambhava) | (confident reliance on one's capacity) | བདག་གི་ཤེས། | (self-assessment) |
-| शमथ (śamatha) | (context of Ch.7 leading to Ch.8) | ཞི་གནས། | (calm abiding) |
-| श्रावक (śrāvaka) | (comparison with hearers) | ཉན་ཐོས། | (hearers/disciples of the Hīnayāna) |
-| प्रत्येकबुद्ध (pratyeka-buddha) | (comparison) | རང་སངས་རྒྱས། | (solitary realizers) |
-| बोधि (bodhi) | बोधिमण्डलसंश्रय (context) | བྱང་ཆུབ། | (enlightenment) |
+| वीर्य (vīrya) | (chapter title) | བརྩོན་འགྲུས། | དེ་ལྟར་བཟོད་པས་བརྩོན་འགྲུས་བརྩམ། / འདི་ལྟར་བརྩོན་ལ་བྱང་ཆུབ་གནས། (^7-1) |
+| आलस्य (ālasya) | (opposed to vīrya) | ལེ་ལོ། | སྙོམ་ལས་བདེ་བའི་རོ་མྱང་དང་། / གཉིད་ལ་བརྟེན་པའི་སྲེད་པ་ཡིས། / ལེ་ལོ་ཉེ་བར་སྐྱེ་བར་འགྱུར། (^7-4) |
+| छन्द (chanda) | (source of vīrya) | མོས་པ། | སེམས་ཅན་དོན་གྲུབ་བྱ་ཕྱིར་དཔུང་། / མོས་བརྟན་དགའ་དང་དོར་བ་ཡིན། / མོས་པ་སྡུག་བསྔལ་འཇིགས་པ་དང་། (^7-32) |
+| अभिमान (abhimāna) | (confident pride) | མཐོ་རེ། | རྡོ་རྗེ་རྒྱལ་མཚན་ཆོ་ག་ཡིས། / བརྩམས་ནས་ང་རྒྱལ་བསྒོམ་པར་བྱ། (^7-48) |
+| आत्मसंभव (ātmasambhava) | (confident reliance on one's capacity) | བདག་གི་ཤེས། | བདག་ལྟ་རིགས་ཀྱིས་མིར་སྐྱེས་ལ། / ཕན་དང་གནོད་པའི་ངོ་ཤེས་པས། / བྱང་ཆུབ་སྤྱོད་པ་མ་བཏང་ན། (^7-20) |
+| शमथ (śamatha) | (context of Ch.7 leading to Ch.8) | ཞི་གནས། | ཞི་གནས་རབ་ཏུ་ལྡན་པའི་ལྷག་མཐོང་གིས། / ཉོན་མོངས་རྣམ་པར་འཇོམས་པར་ཤེས་བྱས་ནས། / ཐོག་མར་ཞི་གནས་བཙལ་བྱ་དེ་ཡང་ནི། (^8-4) |
+| श्रावक (śrāvaka) | (comparison with hearers) | ཉན་ཐོས། | འདི་ནི་བྱང་ཆུབ་སེམས་སྟོབས་ཀྱིས། / སྔོན་གྱི་སྡིག་པ་ཟད་བྱེད་ཅིང་། / ཉན་ཐོས་རྣམས་པས་མཆོག་ཏུ་བཤད། (^7-30) |
+| प्रत्येकबुद्ध (pratyeka-buddha) | (comparison) | རང་སངས་རྒྱས། | དེ་བཞིན་རང་སངས་རྒྱས་རྣམས་དང་། / ཉན་ཐོས་རྣམས་ཀྱང་བདེ་གྱུར་ཅིག (^10-54 context / ^7-30) |
+| बोधि (bodhi) | बोधिमण्डलसंश्रय (context) | བྱང་ཆུབ། | དེ་ལྟར་བཟོད་པས་བརྩོན་འགྲུས་བརྩམ། / འདི་ལྟར་བརྩོན་ལ་བྱང་ཆུབ་གནས། (^7-1) |
 
 ---
 
@@ -198,19 +198,19 @@ This glossary extracts philosophically and doctrinally notable Sanskrit terms fr
 
 | Term | Context (Sanskrit) | bo-version (Term) | bo-version (Context) |
 |------|--------------------|-------------------|----------------------|
-| समाधि (samādhi) | (chapter theme) | ཏིང་ངེ་འཛིན། | (meditative absorption) |
-| शमथ (śamatha) | (calm abiding) | ཞི་གནས། | (tranquility meditation) |
-| विपश्यना (vipaśyanā) | (clear seeing/insight) | ལྷག་མཐོང་། | (insight meditation) |
-| विवेक (viveka) | (solitude, prerequisite for samādhi) | དབེན་པ། | (seclusion/solitude) |
-| उपेक्षा (upekṣā) | (equanimity) | བཏང་སྙོམས། | (equanimity) |
-| परात्मपरिवर्तन (parātma-parivartana) | (exchange of self and other) | བདག་གཞན་བརྗེ་བ། | (exchanging self and other) |
-| आत्मपरसमता (ātma-para-samatā) | (equalizing self and other) | བདག་གཞན་མཉམ་པར་བལྟ། | (equalizing self and other) |
-| बोधिसत्त्व (bodhisattva) | (throughout) | བྱང་ཆུབ་སེམས་དཔའ། | (bodhisattva) |
-| परदुःख (para-duḥkha) | (others' suffering) | གཞན་གྱི་སྡུག་བསྔལ། | (suffering of others) |
-| अवलोकितेश्वर (avalokiteśvara) | (compassion deity) | སྤྱན་རས་གཟིགས། | (Chenrezig) |
-| महाकरुणा (mahā-karuṇā) | (great compassion) | སྙིང་རྗེ་ཆེན་པོ། | (great compassion) |
-| करुणा (karuṇā) | (compassion) | སྙིང་རྗེ། | (compassion) |
-| सत्त्वपरिग्रह (sattva-parigraha) | (embracing all beings) | སེམས་ཅན་ཡོངས་སུ་བཟུང་། | (taking all beings into care) |
+| समाधि (samādhi) | (chapter theme) | ཏིང་ངེ་འཛིན། | དེ་ལྟར་བརྩོན་འགྲུས་བསྐྱེད་ནས་ནི། / ཡིད་ནི་ཏིང་ངེ་འཛིན་ལ་བཞག / སེམས་ནི་རྣམ་པར་གཡེངས་པའི་མི། / ཉོན་མོངས་མཆི་བའི་ཕྲག་ན་གནས། (^8-1) |
+| शमथ (śamatha) | (calm abiding) | ཞི་གནས། | ཞི་གནས་རབ་ཏུ་ལྡན་པའི་ལྷག་མཐོང་གིས། / ཉོན་མོངས་རྣམ་པར་འཇོམས་པར་ཤེས་བྱས་ནས། / ཐོག་མར་ཞི་གནས་བཙལ་བྱ་དེ་ཡང་ནི། (^8-4) |
+| विपश्यना (vipaśyanā) | (clear seeing/insight) | ལྷག་མཐོང་། | ཞི་གནས་རབ་ཏུ་ལྡན་པའི་ལྷག་མཐོང་གིས། / ཉོན་མོངས་རྣམ་པར་འཇོམས་པར་ཤེས་བྱས་ནས། (^8-4) |
+| विवेक (viveka) | (solitude, prerequisite for samādhi) | དབེན་པ། | དབེན་པ་ལ་ནི་དགའ་བ་བསྐྱེད། / རྩོད་དང་ཉོན་མོངས་ཀྱིས་སྟོང་པ། (^8-85) |
+| उपेक्षा (upekṣā) | (equanimity) | བཏང་སྙོམས། | བསམ་པ་གཞན་ནི་ཀུན་བཏང་སྟེ། / བདག་ལ་སེམས་པ་གཅིག་པུ་ཡིས། / སེམས་ནི་མཉམ་པར་གཞག་ཕྱིར་དང་། (^8-38) |
+| परात्मपरिवर्तन (parātma-parivartana) | (exchange of self and other) | བདག་གཞན་བརྗེ་བ། | གང་ཞིག་བདག་དང་གཞན་རྣམས་ནི། / བདག་དང་གཞན་དུ་བརྗེ་བྱ་བ། (^8-120) |
+| आत्मपरसमता (ātma-para-samatā) | (equalizing self and other) | བདག་གཞན་མཉམ་པར་བལྟ། | བདག་དང་གཞན་དུ་མཉམ་པ་ནི། / དང་པོ་ཉིད་དུ་འབད་དེ་བསྒོམ། (^8-90) |
+| बोधिसत्त्व (bodhisattva) | (throughout) | བྱང་ཆུབ་སེམས་དཔའ། | འགྲོ་བ་ཐ་དད་བདེ་སྡུག་དག / ཐམས་ཅད་བདག་བཞིན་བདེ་བ་འདོད་མཉམ་གཅིག (^8-91) |
+| परदुःख (para-duḥkha) | (others' suffering) | གཞན་གྱི་སྡུག་བསྔལ། | གཞན་གྱི་སྡུག་བསྔལ་དག / བདག་ལ་འབབ་པར་མི་འགྱུར་ཡང་། (^8-93) |
+| अवलोकितेश्वर (avalokiteśvara) | (compassion deity) | སྤྱན་རས་གཟིགས། | མགོན་པོ་སྤྱན་རས་གཟིགས། / ཐུགས་རྗེ་ཆེན་པོས་འགྲོ་བ་ཡི། (^8-118) |
+| महाकरुणा (mahā-karuṇā) | (great compassion) | སྙིང་རྗེ་ཆེན་པོ། | འགྲོ་བའི་སྡུག་བསྔལ་བསམ་བྱས་ན། / ཇི་ལྟར་སྙིང་རྗེ་སྡུག་བསྔལ་མང་། (^8-104) |
+| करुणा (karuṇā) | (compassion) | སྙིང་རྗེ། | གཞན་གྱི་སྡུག་བསྔལ་ཞི་དགའ་བས། / མནར་མེད་པར་ཡང་འཇུག་པར་འགྱུར། (^8-107) |
+| सत्त्वपरिग्रह (sattva-parigraha) | (embracing all beings) | སེམས་ཅན་ཡོངས་སུ་བཟུང་། | འཇིག་རྟེན་བདེ་བ་ཇི་སྙེད་པ། / དེ་ཀུན་གཞན་བདེ་འདོད་ལས་བྱུང་། (^8-129) |
 
 ---
 
@@ -218,31 +218,31 @@ This glossary extracts philosophically and doctrinally notable Sanskrit terms fr
 
 | Term | Context (Sanskrit) | bo-version (Term) | bo-version (Context) |
 |------|--------------------|-------------------|----------------------|
-| प्रज्ञा (prajñā) | (chapter title) | ཤེས་རབ། | ལེའུ་དགུ་པ། ཤེས་རབ་ཀྱི་ལེའུ། |
-| सत्यद्वय (satya-dvaya) | (two truths as organizing principle) | བདེན་གཉིས། | (two truths) |
-| संवृतिसत्य (saṃvṛti-satya) | (conventional truth) | ཀུན་རྫོབ་བདེན་པ། | (conventional/relative truth) |
-| परमार्थसत्य (paramārtha-satya) | (ultimate truth) | དོན་དམ་བདེན་པ། | (ultimate truth) |
-| शून्यता (śūnyatā) | (emptiness) | སྟོང་པ་ཉིད། | (emptiness) |
-| नैरात्म्य (nairātmya) | (selflessness) | བདག་མེད། | (no-self) |
-| पुद्गलनैरात्म्य (pudgala-nairātmya) | (selflessness of person) | གང་ཟག་གི་བདག་མེད། | (personal selflessness) |
-| धर्मनैरात्म्य (dharma-nairātmya) | (selflessness of phenomena) | ཆོས་ཀྱི་བདག་མེད། | (phenomenal selflessness) |
-| महायान (mahāyāna) | (context defending Mahāyāna scriptures) | ཐེག་པ་ཆེན་པོ། | (Great Vehicle) |
-| हीनयान (hīnayāna) | (lesser vehicle, implied) | ཐེག་ཆུང་། | (lesser vehicle) |
-| प्रतीत्यसमुत्पाद (pratītyasamutpāda) | (dependent origination) | རྟེན་འབྲེལ། | (interdependence/dependent arising) |
-| स्वभाव (svabhāva) | (inherent nature) | རང་བཞིན། | (self-nature) |
-| परभाव (parabhāva) | (other-nature) | གཞན་གྱི་རང་བཞིན། | (other-nature) |
-| सत्कायदृष्टि (satkāya-dṛṣṭi) | (view of a personal self) | འཇིག་ཚོགས་ལ་ལྟ་བ། | (view of self in the heap) |
-| क्लेश (kleśa) | (afflictions rooted in ignorance) | ཉོན་མོངས། | (defilements) |
-| अविद्या (avidyā) | (ignorance) | མ་རིག་པ། | (fundamental ignorance) |
-| विज्ञान (vijñāna) | (consciousness) | རྣམ་ཤེས། | (consciousness) |
-| स्कन्ध (skandha) | (aggregates) | ཕུང་པོ། | (aggregates) |
-| मध्यमक (madhyamaka) | (middle way philosophy, implied) | དབུ་མ། | (Middle Way) |
-| लोकसंवृति (loka-saṃvṛti) | (worldly convention) | འཇིག་རྟེན་ཀུན་རྫོབ། | (worldly conventional reality) |
-| परमार्थ (paramārtha) | (ultimate) | དོན་དམ། | (ultimate/highest meaning) |
-| योगाचार (yogācāra) | (mind-only school, addressed in debate) | སེམས་ཙམ་པ། | (mind-only school) |
-| बोधिचित्त (bodhicitta) | (motivating all prajñā practice) | བྱང་ཆུབ་སེམས། | (enlightenment mind) |
-| जिनपुत्र (jina-putra) | (sons of the Victors) | རྒྱལ་སྲས། | (sons of the Victorious Ones) |
-| मोक्ष (mokṣa) | (liberation) | ཐར་པ། | (liberation) |
+| प्रज्ञा (prajñā) | (chapter title) | ཤེས་རབ། | ཡན་ལག་འདི་དག་ཐམས་ཅད་ནི། / ཐུབ་པས་ཤེས་རབ་དོན་དུ་གསུངས། (^9-1) |
+| सत्यद्वय (satya-dvaya) | (two truths as organizing principle) | བདེན་གཉིས། | ཀུན་རྫོབ་དང་ནི་དོན་དམ་སྟེ། / འདི་ནི་བདེན་པ་གཉིས་སུ་འདོད། (^9-3) |
+| संवृतिसत्य (saṃvṛti-satya) | (conventional truth) | ཀུན་རྫོབ་བདེན་པ། | ཀུན་རྫོབ་དང་ནི་དོན་དམ་སྟེ། / འདི་ནི་བདེན་པ་གཉིས་སུ་འདོད། (^9-3) |
+| परमार्थसत्य (paramārtha-satya) | (ultimate truth) | དོན་དམ་བདེན་པ། | དོན་དམ་བློ་ཡི་སྤྱོད་ཡུལ་མིན། / བློ་ནི་ཀུན་རྫོབ་ཡིན་པར་བརྗོད། (^9-4) |
+| शून्यता (śūnyatā) | (emptiness) | སྟོང་པ་ཉིད། | དེས་ན་ཐེ་ཚོམ་མི་ཟ་བར། / སྟོང་པ་ཉིད་ནི་བསྒོམ་པར་བྱ། (^9-57) |
+| नैरात्म्य (nairātmya) | (selflessness) | བདག་མེད། | བདག་མེད་བསྒོམ་པ་མཆོག་ཡིན་ནོ། (^9-81) |
+| पुद्गलनैरात्म्य (pudgala-nairātmya) | (selflessness of person) | གང་ཟག་གི་བདག་མེད། | སོ་དང་སྐྲ་སེན་བདག་མ་ཡིན། / བདག་ནི་རུས་པ་ཁྲག་མ་ཡིན། (^9-61) |
+| धर्मनैरात्म्य (dharma-nairātmya) | (selflessness of phenomena) | ཆོས་ཀྱི་བདག་མེད། | ལུས་ནི་རྐང་པ་བྱིན་པ་མིན། / བརླ་དང་རྐེད་པའང་ལུས་མ་ཡིན། (^9-82) |
+| महायान (mahāyāna) | (context defending Mahāyāna scriptures) | ཐེག་པ་ཆེན་པོ། | གལ་ཏེ་ཐེག་ཆེན་མ་གྲུབ་ན། / ཁྱོད་ཀྱི་ལུང་ནི་ཇི་ལྟར་གྲུབ། (^9-45) |
+| हीनयान (hīnayāna) | (lesser vehicle, implied) | ཐེག་ཆུང་། | བསྟན་རྩ་དགེ་སློང་ཉིད་ཡིན་ན། / མྱ་ངན་འདས་པའང་དཀའ་བར་གནས། (^9-48) |
+| प्रतीत्यसमुत्पाद (pratītyasamutpāda) | (dependent origination) | རྟེན་འབྲེལ། | རྨོངས་པས་བདེན་པར་གང་བྱས་འདི། / སྒྱུ་མ་ལས་ནི་ཁྱད་ཅི་ཡོད། (^9-150) |
+| स्वभाव (svabhāva) | (inherent nature) | རང་བཞིན། | རང་བཞིན་གཉིས་སུ་ཐལ་འགྱུར་ཕྱིར། (^9-156) |
+| परभाव (parabhāva) | (other-nature) | གཞན་གྱི་རང་བཞིན། | སེམས་ལས་སྒྱུ་མ་གཞན་མིན་ཞིང་། / གཞན་མིན་པར་ཡང་མི་རྟག་ན། (^9-30) |
+| सत्कायदृष्टि (satkāya-dṛṣṭi) | (view of a personal self) | འཇིག་ཚོགས་ལ་ལྟ་བ། | གལ་ཏེ་བདག་འགའ་ཡོད་ན་ནི། / བདག་ཉིད་འགའ་ཡང་ཡོད་མིན་པས། / འཇིགས་པར་འགྱུར་བ་སུ་ཞིག་ཡིན། (^9-60) |
+| क्लेश (kleśa) | (afflictions rooted in ignorance) | ཉོན་མོངས། | ཉོན་མོངས་ཤེས་བྱའི་སྒྲིབ་པ་ཡི། / མུན་པའི་གཉེན་པོ་སྟོང་པ་ཉིད། (^9-58) |
+| अविद्या (avidyā) | (ignorance) | མ་རིག་པ། | སྒྱུ་འདྲའི་རྒྱལ་ལས་བསོད་ནམས་ནི། / གལ་ཏེ་སེམས་ཅན་སྒྱུ་འདྲ་ན། (^9-12 context / ^9-36) |
+| विज्ञान (vijñāna) | (consciousness) | རྣམ་ཤེས། | རྣམ་ཤེས་དྲུག་ཀྱང་བདག་མ་ཡིན། (^9-62) |
+| स्कन्ध (skandha) | (aggregates) | ཕུང་པོ། | སོ་དང་སྐྲ་སེན་བདག་མ་ཡིན། / རྣམ་ཤེས་དྲུག་ཀྱང་བདག་མ་ཡིན། (^9-61-62) |
+| मध्यमक (madhyamaka) | (middle way philosophy, implied) | དབུ་མ། | གང་ཚེ་དངོས་དང་དངོས་མེད་དག / བློ་ཡི་མདུན་ན་མི་གནས་པ། / དེ་ཚེ་རྣམ་པ་གཞན་མེད་པས། / དམིགས་པ་མེད་པར་རབ་ཏུ་ཞི། (^9-38) |
+| लोकसंवृति (loka-saṃvṛti) | (worldly convention) | འཇིག་རྟེན་ཀུན་རྫོབ། | རྣལ་འབྱོར་ཀུན་རྫོབ་ཉེས་མེད་དེ། / འཇིག་རྟེན་ལ་ལྟོས་དེ་ཉིད་མཐོང་། (^9-11) |
+| परमार्थ (paramārtha) | (ultimate) | དོན་དམ། | དོན་དམ་བློ་ཡི་སྤྱོད་ཡུལ་མིན། / བློ་ནི་ཀུན་རྫོབ་ཡིན་པར་བརྗོད། (^9-4) |
+| योगाचार (yogācāra) | (mind-only school, addressed in debate) | སེམས་ཙམ་པ། | གང་ཚེ་སེམས་ནི་གཟུང་བྲལ་བ། / དེ་ཚེ་ཐམས་ཅད་དེ་བཞིན་གཤེགས། / དེ་ལྟ་ན་ཡང་སེམས་ཙམ་དུ། / བརྟགས་ལ་ཡོན་ཏན་ཅི་ཞིག་ཡོད། (^9-33) |
+| बोधिचित्त (bodhicitta) | (motivating all prajñā practice) | བྱང་ཆུབ་སེམས། | ཡན་ལག་འདི་དག་ཐམས་ཅད་ནི། / ཐུབ་པས་ཤེས་རབ་དོན་དུ་གསུངས། (^9-1) |
+| जिनपुत्र (jina-putra) | (sons of the Victors) | རྒྱལ་སྲས། | བྱང་ཆུབ་སྤྱོད་པའི་རྗེས་མཐུན་པར། / རྒྱལ་བའི་མཆོད་སྡོང་བསྒྲུབས་པ་ཡང་། / བྱང་ཆུབ་སེམས་དཔའ་མྱ་ངན་ལས། (^9-41) |
+| मोक्ष (mokṣa) | (liberation) | ཐར་པ། | སེམས་ཅན་རང་བཞིན་མྱ་ངན་འདས། (^9-107) |
 
 ---
 
@@ -250,27 +250,27 @@ This glossary extracts philosophically and doctrinally notable Sanskrit terms fr
 
 | Term | Context (Sanskrit) | bo-version (Term) | bo-version (Context) |
 |------|--------------------|-------------------|----------------------|
-| परिणामना (pariṇāmanā) | (chapter title — dedication of merit) | བསྔོ་བ། | ལེའུ་བཅུ་པ། བསྔོ་བའི་ལེའུ། |
-| पुण्यराशि (puṇya-rāśi) | (accumulated merit to be dedicated) | བསོད་ནམས་ཚོགས། | (accumulation of merit) |
-| सर्वसत्त्व (sarva-sattva) | (all sentient beings) | སེམས་ཅན་ཐམས་ཅད། | (all sentient beings) |
-| बोधि (bodhi) | (enlightenment to be attained) | བྱང་ཆུབ། | (enlightenment) |
-| सुखावती (sukhāvatī) | (pure land of Amitābha) | བདེ་བ་ཅན། | (Sukhāvatī pure land) |
-| अमिताभ (amitābha) | (Buddha of infinite light) | འོད་དཔག་མེད། | (Amitābha) |
-| मञ्जुश्री (mañjuśrī) | (wisdom bodhisattva) | འཇམ་དཔལ། | (Mañjuśrī) |
-| समन्तभद्र (samantabhadra) | (dedication model) | ཀུན་ཏུ་བཟང་པོ། | (Samantabhadra) |
-| शासन (śāsana) | (the Buddha's teaching/doctrine) | བསྟན་པ། | (the teaching/doctrine) |
-| लोकनाथ (loka-nātha) | (lord of the world) | འཇིག་རྟེན་གྱི་མགོན། | (protector of the world) |
-| धर्मराज (dharma-rāja) | (king of dharma) | ཆོས་རྒྱལ། | (dharma king) |
-| बोधिसत्त्व (bodhisattva) | (throughout) | བྱང་ཆུབ་སེམས་དཔའ། | (bodhisattva) |
-| क्षेत्र (kṣetra) | (buddha-field/pure land) | ཞིང་། | (pure land/field) |
-| सत्त्वधातु (sattva-dhātu) | (realm of beings) | སེམས་ཅན་གྱི་ཁམས། | (realm of sentient beings) |
-| मञ्जुघोष (mañjughoṣa) | (Śāntideva's dedication to Mañjughoṣa at end of ch.10) | འཇམ་དབྱངས། | (Mañjughoṣa/Mañjuśrī) |
-| करुणा (karuṇā) | (compassion pervading dedication) | སྙིང་རྗེ། | (compassion) |
-| निर्वाण (nirvāṇa) | (final goal dedicated to all) | མྱ་ངན་ལས་འདས་པ། | (nirvāṇa/final liberation) |
-| सुगत (sugata) | (epithet of the Buddha in closing verses) | བདེ་གཤེགས། | (One Gone to Bliss) |
-| धर्मकाय (dharmakāya) | (truth body of the Buddha) | ཆོས་ཀྱི་སྐུ། | (dharma body) |
-| संभोगकाय (sambhogakāya) | (enjoyment body) | ལོངས་སྤྱོད་རྫོགས་སྐུ། | (complete enjoyment body) |
-| निर्माणकाय (nirmāṇakāya) | (emanation body) | སྤྲུལ་སྐུ། | (emanation body) |
+| परिणामना (pariṇāmanā) | (chapter title — dedication of merit) | བསྔོ་བ། | བདག་གིས་བྱང་ཆུབ་སྤྱོད་པ་ལ། / འཇུག་པ་རྣམ་པར་བརྩམས་པ་ཡི། / དགེ་བ་གང་དེས་འགྲོ་བ་ཀུན། / བྱང་ཆུབ་སྤྱོད་ལ་འཇུག་པར་ཤོག (^10-1) |
+| पुण्यराशि (puṇya-rāśi) | (accumulated merit to be dedicated) | བསོད་ནམས་ཚོགས། | ཕྱོགས་རྣམས་ཀུན་ན་ལུས་དང་སེམས། / དེ་དག་བདག་གི་བསོད་ནམས་ཀྱིས། (^10-2) |
+| सर्वसत्त्व (sarva-sattva) | (all sentient beings) | སེམས་ཅན་ཐམས་ཅད། | ཕྱོགས་རྣམས་ཀུན་ན་ལུས་དང་སེམས། / སྡུག་བསྔལ་ནད་པ་ཇི་སྙེད་པ། / དེ་དག་བདག་གི་བསོད་ནམས་ཀྱིས། / བདེ་དགའ་རྒྱ་མཚོ་ཐོབ་པར་ཤོག (^10-2) |
+| बोधि (bodhi) | (enlightenment to be attained) | བྱང་ཆུབ། | འགྲོ་བས་བྱང་ཆུབ་སེམས་དཔའི་བདེ་བ་རྒྱུན་མི་འཆད་ཐོབ་ཤོག (^10-3) |
+| सुखावती (sukhāvatī) | (pure land of Amitābha) | བདེ་བ་ཅན། | བདེ་ཅན་བདེ་བས་དགའ་བར་ཤོག (^10-4) |
+| अमिताभ (amitābha) | (Buddha of infinite light) | འོད་དཔག་མེད། | འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་གི / ཕྱག་ནས་འབབ་པའི་འོ་རྒྱུན་གྱིས། (^10-17) |
+| मञ्जुश्री (mañjuśrī) | (wisdom bodhisattva) | འཇམ་དཔལ། | མགོན་པོ་འཇམ་དབྱངས་དེ་ཉིད་ནི། / གེགས་མེད་པར་ཡང་མཐོང་བར་ཤོག (^10-56) |
+| समन्तभद्र (samantabhadra) | (dedication model) | ཀུན་ཏུ་བཟང་པོ། | བདག་གི་དགེ་རྩས་ཀུན་དུ་བཟང་ལ་སོགས། / བྱང་ཆུབ་སེམས་དཔའ་སྒྲིབ་པ་མེད་སྤྲིན་བདེ་བ་དང་། (^10-15) |
+| शासन (śāsana) | (the Buddha's teaching/doctrine) | བསྟན་པ། | བསྟན་པ་རྙེད་དང་བཀུར་སྟི་དང་། / བཅས་ཏེ་ཡུན་རིང་གནས་གྱུར་ཅིག (^10-60) |
+| लोकनाथ (loka-nātha) | (lord of the world) | འཇིག་རྟེན་གྱི་མགོན། | འཇིག་རྟེན་ཀུན་ནས་གདུང་བཞིན་དུ། / ལྷ་ཡང་དུས་སུ་ཆར་འབེབས་ཤིང་། (^10-42) |
+| धर्मराज (dharma-rāja) | (king of dharma) | ཆོས་རྒྱལ། | རྒྱལ་པོ་ཆོས་བཞིན་བྱེད་གྱུར་ཅིག / འཇིག་རྟེན་དག་ཀྱང་དར་བར་ཤོག (^10-42) |
+| बोधिसत्त्व (bodhisattva) | (throughout) | བྱང་ཆུབ་སེམས་དཔའ། | བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱིས་ནི། / འགྲོ་དོན་ཐུགས་ལ་དགོངས་འགྲུབ་ཤོག (^10-53) |
+| क्षेत्र (kṣetra) | (buddha-field/pure land) | ཞིང་། | ཐམས་ཅད་དུ་ཡང་ས་གཞི་དག / ལག་མཐིལ་མཉམ་པ་བཻ་ཌཱུརྱའི། / རང་བཞིན་འཇམ་པོར་གནས་པར་གྱུར། (^10-38) |
+| सत्त्वधातु (sattva-dhātu) | (realm of beings) | སེམས་ཅན་གྱི་ཁམས། | ཕྱོགས་རྣམས་ཀུན་ན་ལུས་དང་སེམས། / སྡུག་བསྔལ་ནད་པ་ཇི་སྙེད་པ། (^10-2) |
+| मञ्जुघोष (mañjughoṣa) | (Śāntideva's dedication to Mañjughoṣa at end of ch.10) | འཇམ་དབྱངས། | འཇམ་པའི་དབྱངས་ལ་ཕྱག་འཚལ་ལོ། (^10-61) |
+| करुणा (karuṇā) | (compassion pervading dedication) | སྙིང་རྗེ། | སྙིང་རྗེའི་སེམས་དང་ལྡན་གྱུར་ཅིག (^10-43) |
+| निर्वाण (nirvāṇa) | (final goal dedicated to all) | མྱ་ངན་ལས་འདས་པ། | ཇི་སྲིད་ནམ་མཁའ་གནས་པ་དང་། / འགྲོ་བ་ཇི་སྲིད་གནས་གྱུར་པ། / འགྲོ་བའི་སྡུག་བསྔལ་སེལ་བར་ཤོག (^10-58) |
+| सुगत (sugata) | (epithet of the Buddha in closing verses) | བདེ་གཤེགས། | གཞལ་མེད་ཁང་གྱུར་བདེ་གཤེགས་གང་བར་ཤོག (^10-8) |
+| धर्मकाय (dharmakāya) | (truth body of the Buddha) | ཆོས་ཀྱི་སྐུ། | བདག་གིས་བྱང་ཆུབ་སྤྱོད་པ་ལ། / དགེ་བ་གང་དེས་འགྲོ་བ་ཀུན། / བྱང་ཆུབ་སྤྱོད་ལ་འཇུག་པར་ཤོག (^10-1) |
+| संभोगकाय (sambhogakāya) | (enjoyment body) | ལོངས་སྤྱོད་རྫོགས་སྐུ། | འཁོར་གྱི་དཀྱིལ་འཁོར་ཡོད་དགུར་ཡང་། / བྱང་ཆུབ་སེམས་དཔའ་མང་པོ་དག / རང་གི་ལེགས་པས་ས་སྟེངས་དག / བརྒྱན་པར་མཛད་པས་བཞུགས་གྱུར་ཅིག (^10-39) |
+| निर्माणकाय (nirmāṇakāya) | (emanation body) | སྤྲུལ་སྐུ། | ཇི་ལྟར་འཇམ་དབྱངས་སྤྱོད་མཛད་པ། / བདག་གི་སྤྱོད་པའང་དེ་འདྲར་ཤོག (^10-57) |
 
 ---
 

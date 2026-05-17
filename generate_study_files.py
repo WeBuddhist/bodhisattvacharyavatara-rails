@@ -1,18 +1,25 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Generate 365 daily study files for the Bodhicaryavatara (སྤྱོད་འཇུག).
+སྤྱོད་འཇུག་ཉིན་ ༣༦༥ ཀྱི་སློབ་སྦྱོང་འཆར་གཞི་བཟོ་བའི་ལས་རིམ། — Version 2
+
+Each day file contains five sections:
+  1. སྐྱབས་འགྲོ།      — fixed refuge prayer
+  2. སེམས་བསྐྱེད།     — fixed bodhicitta aspiration/engagement prayer
+  3. ཚིགས་བཅད།       — day's verse(s) with sa bcad heading
+  4. འགྲེལ་བཤད།      — Kunpal commentary for those verses
+  5. གནད་ཚིག         — key terms from the verse, explained by the commentary
 
 Run from anywhere:
     python generate_study_files.py
 
-Requires no dependencies beyond the Python standard library.
+No dependencies beyond the Python standard library.
 """
 
 import re
 import os
 
-# ── Paths ────────────────────────────────────────────────────────────────────
+# ── Paths ─────────────────────────────────────────────────────────────────────
 ROOT_TEXT = (
     r"C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails"
     r"\0-INBOX\bo-root versions"
@@ -28,94 +35,110 @@ OUTPUT_DIR = (
     r"\3-TRANSFORMATIONS\སྤྱོད་འཇུག་སློབ་སྦྱོང། ཉིན་ ༣༦༥།"
 )
 
-# ── Tibetan digit conversion ──────────────────────────────────────────────────
+# ── Fixed opening prayers ─────────────────────────────────────────────────────
+
+SKYABS_DRO = (
+    "སངས་རྒྱས་ཆོས་དང་ཚོགས་ཀྱི་མཆོག་རྣམས་ལ། །\n"
+    "བྱང་ཆུབ་བར་དུ་བདག་ནི་སྐྱབས་སུ་མཆི། །\n"
+    "བདག་གིས་སྦྱིན་སོགས་བགྱིས་པའི་བསོད་ནམས་ཀྱིས། །\n"
+    "འགྲོ་ལ་ཕན་ཕྱིར་སངས་རྒྱས་འགྲུབ་པར་ཤོག །"
+)
+
+SEMS_BSKYED = (
+    "ཇི་ལྟར་སྔོན་གྱི་བདེ་གཤེགས་ཀྱིས། །\n"
+    "བྱང་ཆུབ་ཐུགས་ནི་བསྐྱེད་པ་དང་། །\n"
+    "བྱང་ཆུབ་སེམས་དཔའི་བསླབ་པ་ལ། །\n"
+    "དེ་དག་རིམ་བཞིན་གནས་པ་ལྟར། །\n"
+    "དེ་བཞིན་འགྲོ་ལ་ཕན་དོན་དུ། །\n"
+    "བྱང་ཆུབ་སེམས་ནི་བསྐྱེད་བགྱི་ཞིང་། །\n"
+    "དེ་བཞིན་དུ་ནི་བསླབ་པ་ལའང་། །\n"
+    "རིམ་པ་བཞིན་དུ་བསླབ་པར་བགྱི། །"
+)
+
+# ── Tibetan digit conversion ───────────────────────────────────────────────────
 _TDIG = str.maketrans("0123456789", "༠༡༢༣༤༥༦༧༨༩")
 
 def to_tib(n: int) -> str:
     return str(n).translate(_TDIG)
 
-# ── Parse the root text ───────────────────────────────────────────────────────
-ITEM_RE   = re.compile(r"^(\d+)\.\s+(.*)", re.DOTALL)
-HEADING_RE = re.compile(r"^(#{2,4})\s+(.+)")
-COLOPHON_RE = re.compile(r"ལེའུ.{1,20}འོ།།")
-SKIP_PATTERNS = [
-    "རྒྱ་གར་གྱི་མཁན་པོ",
-    "རྫོགས་སོ།།",
-]
+
+# ── Patterns ───────────────────────────────────────────────────────────────────
+ITEM_RE      = re.compile(r"^(\d+)\.\s+(.*)")
+HEADING_RE   = re.compile(r"^(#{2,4})\s+(.+)")
+COLOPHON_RE  = re.compile(r"ལེའུ.{1,20}འོ།།")
+SKIP_WORDS   = ["རྒྱ་གར་གྱི་མཁན་པོ", "རྫོགས་སོ།།"]
+
+
+# ── Parse root text ────────────────────────────────────────────────────────────
 
 def parse_root_text(path):
     """
-    Return a list of dicts:
-      { 'num': int, 'text': str, 'heading': str }
-    Only items AFTER the first heading, with non-empty text,
-    that don't match skip/colophon patterns.
+    Return list of dicts: {num, text, heading}
+    Tracks ## / ### / #### Markdown headings as sa bcad context.
+    Skips items before the first heading, blanks, colophons, skip-words.
     """
-    with open(path, encoding="utf-8") as f:
-        lines = f.readlines()
-
     verses = []
     current_heading = ""
     first_heading_seen = False
 
-    for line in lines:
-        line = line.rstrip("\n")
+    with open(path, encoding="utf-8") as fh:
+        for raw in fh:
+            line = raw.rstrip("\n")
 
-        # Track headings
-        hm = HEADING_RE.match(line)
-        if hm:
-            current_heading = hm.group(2).strip()
-            if not first_heading_seen:
+            # Track headings
+            hm = HEADING_RE.match(line)
+            if hm:
+                current_heading = line.strip()
                 first_heading_seen = True
-            continue
+                continue
 
-        if not first_heading_seen:
-            continue
+            if not first_heading_seen:
+                continue
 
-        # Match numbered items
-        im = ITEM_RE.match(line)
-        if not im:
-            continue
+            # Numbered item
+            im = ITEM_RE.match(line)
+            if not im:
+                continue
 
-        num  = int(im.group(1))
-        text = im.group(2).strip()
+            num  = int(im.group(1))
+            text = im.group(2).strip()
 
-        # Skip empty items
-        if not text:
-            continue
+            if not text:
+                continue
+            if any(w in text for w in SKIP_WORDS):
+                continue
+            if COLOPHON_RE.search(text):
+                continue
 
-        # Skip if any skip pattern matches
-        skip = False
-        for pat in SKIP_PATTERNS:
-            if pat in text:
-                skip = True
-                break
-        if skip:
-            continue
-
-        # Skip colophon items (chapter endings)
-        if COLOPHON_RE.search(text):
-            continue
-
-        verses.append({
-            "num":     num,
-            "text":    text,
-            "heading": current_heading,
-        })
+            verses.append({"num": num, "text": text, "heading": current_heading})
 
     return verses
 
-# ── Format a verse with pāda line-breaks ─────────────────────────────────────
-def format_verse(text):
-    """
-    Split on '། །' to get pādas, one per line, each ending '། །'
-    except the final pāda which keeps its original ending.
-    """
-    # Normalise any trailing whitespace inside the text
-    text = text.strip()
 
-    # Split on pāda marker – keep the separator attached to the preceding pāda
-    parts = re.split(r"(། །)", text)
-    # parts alternates: segment, separator, segment, separator, ...
+# ── Parse commentary ────────────────────────────────────────────────────────────
+
+def parse_commentary(path):
+    """
+    Return dict {item_num: text}.
+    Root text item N -> commentary item N + 4  (offset due to root text renumbering).
+    """
+    comm = {}
+    with open(path, encoding="utf-8") as fh:
+        for raw in fh:
+            m = ITEM_RE.match(raw.rstrip("\n"))
+            if m:
+                num  = int(m.group(1))
+                text = m.group(2).strip()
+                if text:
+                    comm[num] = text
+    return comm
+
+
+# ── Format verse with pada line-breaks ────────────────────────────────────────
+
+def format_verse(text):
+    """Split on '། །' so each pada is on its own line."""
+    parts = re.split(r"(། །)", text.strip())
     lines = []
     i = 0
     while i < len(parts):
@@ -124,131 +147,236 @@ def format_verse(text):
         i += 2
         if seg:
             lines.append(seg + (sep if sep else ""))
-
-    if not lines:
-        return text
-
-    # Remove trailing empty strings
     while lines and not lines[-1].strip():
         lines.pop()
+    return "\n".join(lines) if lines else text
 
-    return "\n".join(lines)
 
-# ── Parse the commentary ──────────────────────────────────────────────────────
-COMM_ITEM_RE = re.compile(r"^(\d+)\.\s+(.*)", re.DOTALL)
+# ── Extract key terms from verse with commentary explanations ──────────────────
 
-def parse_commentary(path):
+def extract_key_terms(verse_text, comm_text, max_terms=5):
     """
-    Return dict {item_num: text}.
-    Commentary item N corresponds to root verse N-4.
-    So root verse V → commentary item V+4.
-    """
-    comm = {}
-    with open(path, encoding="utf-8") as f:
-        lines = f.readlines()
+    Find meaningful sub-phrases from the verse that appear verbatim in the
+    commentary, and return the surrounding commentary sentence as explanation.
 
-    for line in lines:
-        line = line.rstrip("\n")
-        m = COMM_ITEM_RE.match(line)
-        if not m:
+    Rules:
+    - Only terms that genuinely appear in the commentary are returned.
+    - No fabrication: all explanations are verbatim excerpts from comm_text.
+    - Tries 5->3 syllable phrases per pada, most specific first.
+    - Extracts the shad-bounded sentence containing the matched phrase.
+
+    Returns: list of (term_str, explanation_str)
+    """
+    if not comm_text:
+        return []
+
+    results = []
+    seen    = set()
+
+    # Process each pada of the verse
+    padas = re.split(r"།\s*།|།།", verse_text)
+
+    for pada in padas:
+        pada = pada.strip().strip("།").strip()
+        if not pada:
             continue
-        num  = int(m.group(1))
-        text = m.group(2).strip()
-        if text:
-            comm[num] = text
 
-    return comm
+        # Syllables: split on tsek (་), ignore single-char fragments
+        syllables = [s for s in re.split(r"་+", pada) if len(s) > 1]
+        if len(syllables) < 3:
+            continue
 
-# ── Assign verses to 365 days ─────────────────────────────────────────────────
+        matched = False
+        for length in range(min(5, len(syllables)), 2, -1):
+            for start in range(len(syllables) - length + 1):
+                candidate = "་".join(syllables[start : start + length])
+
+                if len(candidate) < 5 or candidate in seen:
+                    continue
+
+                pos = comm_text.find(candidate)
+                if pos < 0:
+                    continue
+
+                # ── Extract surrounding sentence ───────────────────────────
+                # Look back up to 100 chars for a sentence boundary
+                look_back = max(0, pos - 100)
+                preceding = comm_text[look_back:pos]
+                last_bound = max(
+                    preceding.rfind("།"),
+                    preceding.rfind("ཏེ་"),
+                    preceding.rfind("ནས་"),
+                )
+                sent_start = (look_back + last_bound + 1) if last_bound >= 0 else look_back
+
+                # Look forward up to 200 chars for next shad
+                look_fwd  = min(len(comm_text), pos + len(candidate) + 200)
+                following = comm_text[pos + len(candidate) : look_fwd]
+                next_shad = following.find("།")
+                if next_shad >= 0:
+                    sent_end = pos + len(candidate) + next_shad + 1
+                else:
+                    sent_end = look_fwd
+
+                explanation = comm_text[sent_start:sent_end].strip()
+
+                # Quality filters
+                if 12 <= len(explanation) <= 400:
+                    seen.add(candidate)
+                    results.append((candidate, explanation))
+                    matched = True
+                    break  # one term per pada preferred
+
+            if matched:
+                break  # move to next pada
+
+        if len(results) >= max_terms:
+            break
+
+    return results
+
+
+# ── Day division ───────────────────────────────────────────────────────────────
+
 def assign_days(verses):
     """
-    Returns list of 365 lists, each containing verse dicts for that day.
+    Divide verse list into 365 day-batches.
     Days 1..extra get (base+1) verses; days (extra+1)..365 get base verses.
     """
     total = len(verses)
     base  = total // 365
     extra = total % 365
-
-    days = []
-    idx  = 0
+    days  = []
+    idx   = 0
     for day in range(1, 366):
         count = base + (1 if day <= extra else 0)
         days.append(verses[idx : idx + count])
         idx += count
-
     return days
 
-# ── Build output file content ─────────────────────────────────────────────────
+
+# ── Build one day file ─────────────────────────────────────────────────────────
+
 def build_file(day_num, verse_list, comm_dict):
     tnum = to_tib(day_num)
-    lines = [f"# ཉིན་ {tnum}། — སྤྱོད་འཇུག་སློབ་སྦྱོང་།", ""]
+    out  = []
 
+    # ── Title ──────────────────────────────────────────────────────────────────
+    out.append(f"# {tnum}། — སྤྱོད་འཇུག་སློབ་སྦྱོང་།")
+    out.append("")
+
+    # ── Section 1: Refuge ──────────────────────────────────────────────────────
+    out.append("## ༡། སྐྱབས་འགྲོ།")
+    out.append("")
+    out.append(SKYABS_DRO)
+    out.append("")
+
+    # ── Section 2: Bodhicitta ──────────────────────────────────────────────────
+    out.append("## ༢། སེམས་བསྐྱེད།")
+    out.append("")
+    out.append(SEMS_BSKYED)
+    out.append("")
+
+    # ── Section 3: Verse(s) with sa bcad heading ───────────────────────────────
+    out.append("## ༣། ཉིན་རེའི་སྤྱོད་འཇུག་སྦྱོར་བ།")
+    out.append("")
     last_heading = None
     for v in verse_list:
-        heading = v["heading"]
-        num     = v["num"]
-        text    = v["text"]
+        # Emit heading only when it changes
+        if v["heading"] and v["heading"] != last_heading:
+            out.append(v["heading"])
+            out.append("")
+            last_heading = v["heading"]
+        out.append(format_verse(v["text"]))
+        out.append("")
 
-        # Section heading — only emit when it changes
-        if heading and heading != last_heading:
-            lines.append(f"## {heading}")
-            lines.append("")
-            last_heading = heading
-
-        # Formatted verse
-        lines.append(format_verse(text))
-        lines.append("")
-        lines.append("---")
-        lines.append("")
-
-        # Commentary (offset +4)
-        comm_key = num + 4
-        if comm_key in comm_dict:
-            lines.append(comm_dict[comm_key])
+    # ── Section 4: Commentary ──────────────────────────────────────────────────
+    out.append("## ༤། འགྲེལ་བཤད།")
+    out.append("")
+    for v in verse_list:
+        comm_key = v["num"] + 4
+        comm = comm_dict.get(comm_key, "")
+        if comm:
+            out.append(comm)
+            out.append("")
         else:
-            lines.append("*(commentary not found)*")
+            out.append("*(commentary not found)*")
+            out.append("")
 
-        lines.append("")
+    # ── Section 5: Key terms ───────────────────────────────────────────────────
+    # Collect terms across all verses for the day; deduplicate
+    day_terms  = []
+    seen_terms = set()
+    for v in verse_list:
+        comm_key = v["num"] + 4
+        comm = comm_dict.get(comm_key, "")
+        for (term, gloss) in extract_key_terms(v["text"], comm):
+            if term not in seen_terms:
+                seen_terms.add(term)
+                day_terms.append((term, gloss))
 
-    return "\n".join(lines)
+    out.append("## ༥། གནད་ཚིག")
+    out.append("")
+    if day_terms:
+        for (term, gloss) in day_terms:
+            out.append(f"**{term}**")
+            out.append(f"{gloss}")
+            out.append("")
+    else:
+        out.append("*(གནད་ཚིག་གོང་གི་འགྲེལ་བཤད་ལས་ཞིབ་ཕྲར་གཟིགས་རོགས།)*")
+        out.append("")
 
-# ── Tibetan-numbered filename ─────────────────────────────────────────────────
+    return "\n".join(out)
+
+
+# ── Filename ───────────────────────────────────────────────────────────────────
+
 def day_filename(day_num):
     return f"ཉིན་ {to_tib(day_num)}།.md"
 
-# ── Main ──────────────────────────────────────────────────────────────────────
+
+# ── Main ───────────────────────────────────────────────────────────────────────
+
 def main():
-    print("Parsing root text …")
+    print("སྤྱོད་འཇུག་སློབ་སྦྱོང་། ཉིན་ ༣༦༥། — ཡིག་ཆ་བཟོ་བཞིན་པ།")
+    print()
+
+    print("  རྩ་བ་ཀློག་བཞིན་པ།...")
     verses = parse_root_text(ROOT_TEXT)
-    print(f"  → {len(verses)} verses found.")
+    print(f"    -> ཚིགས་བཅད་གྲངས། {len(verses)}")
 
-    print("Parsing commentary …")
+    print("  འགྲེལ་བ་ཀློག་བཞིན་པ།...")
     comm = parse_commentary(COMMENTARY)
-    print(f"  → {len(comm)} commentary items found.")
+    print(f"    -> འགྲེལ་བཤད་ཁག {len(comm)}")
 
-    print("Assigning verses to 365 days …")
-    days = assign_days(verses)
+    print("  ཉིན་ ༣༦༥ ལ་བགོ་བཞིན་པ།...")
+    days  = assign_days(verses)
+    total = len(verses)
+    base  = total // 365
+    extra = total % 365
+    print(f"    -> ཉིན་རེར་ཚིགས་བཅད་ {base}-{base+1}")
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    print("Writing files …")
+    print(f"  ཡིག་ཆ་འབྲི་བཞིན་པ།...")
+    terms_total = 0
     for day_num, verse_list in enumerate(days, start=1):
-        content  = build_file(day_num, verse_list, comm)
-        filename = day_filename(day_num)
-        filepath = os.path.join(OUTPUT_DIR, filename)
-        with open(filepath, "w", encoding="utf-8") as f:
-            f.write(content)
-
+        content = build_file(day_num, verse_list, comm)
+        terms_total += content.count("\n**")
+        filepath = os.path.join(OUTPUT_DIR, day_filename(day_num))
+        with open(filepath, "w", encoding="utf-8") as fh:
+            fh.write(content)
         if day_num % 50 == 0 or day_num == 365:
-            print(f"  … wrote day {day_num}/365")
+            print(f"    ཉིན་ {to_tib(day_num)} ལེགས་གྲུབ།")
 
-    print(f"\nDone. 365 files written to:\n  {OUTPUT_DIR}")
-    print(f"\nSummary:")
-    print(f"  Total verses : {len(verses)}")
-    print(f"  Commentary items loaded : {len(comm)}")
-    base  = len(verses) // 365
-    extra = len(verses) % 365
-    print(f"  Verses per day : {base} (days {extra+1}–365) or {base+1} (days 1–{extra})")
+    print()
+    print("ལེགས་གྲུབ། ཡིག་ཆ་ ༣༦༥ བཀོད་ཟིན།")
+    print()
+    print("གྲུབ་འབྲས་གཞི་གྲངས།:")
+    print(f"  ཚིགས་བཅད་གྲངས།          {total}")
+    print(f"  འགྲེལ་བཤད་གྲངས།          {len(comm)}")
+    print(f"  གནད་ཚིག་རྙེད་པའི་གྲངས།  {terms_total}")
+    print(f"  ཁ་ཕྱོགས།                 {OUTPUT_DIR}")
 
 
 if __name__ == "__main__":

@@ -1,7 +1,7 @@
 {
   "provider": "gemini",
   "ollamaBaseUrl": "http://localhost:11434",
-  "apiKeySecretName": "webuddhist-obsidian",
+  "apiKeySecretName": "jayliao",
   "chatModelName": "gemini-flash-latest",
   "summaryModelName": "gemini-flash-latest",
   "completionsModelName": "gemini-flash-lite-latest",
@@ -134,6 +134,6 @@
         "maxTemperature": 2
       }
     ],
-    "timestamp": 1779077763576
+    "timestamp": 1779091371744
   }
 }

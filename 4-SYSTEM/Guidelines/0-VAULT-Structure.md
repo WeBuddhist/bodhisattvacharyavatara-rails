@@ -1,6 +1,6 @@
 # 0-VAULT — Vault File Structure
 
-This document describes the top-level architecture of a 🛤️ Railroads vault. It is the orientation guideline — read it first, then continue to `1-SOURCES-Guideline.md` for source file rules and `2-RAILS-Guideline.md` for the rails compilation schema.
+This document describes the top-level architecture of a 🛤️ Railroads vault. It is the orientation guideline — read it first, then continue to [`../../1-SOURCES/About Sources.md`](../../1-SOURCES/About%20Sources.md) for source-file rules, [`../../2-RAILS/About Rails.md`](../../2-RAILS/About%20Rails.md) for the rails schema, and [`../../3-TRANSFORMATIONS/About Transformations.md`](../../3-TRANSFORMATIONS/About%20Transformations.md) for the transformation rules.
 
 This guideline is **text-agnostic**. The structure below applies to any Railroads vault — Bodhicaryāvatāra, Mūlamadhyamakakārikā, Abhidharmakośa, the Pāli Nikāyas, or any other classical text the methodology is applied to. Examples here use placeholders (`[text-slug]`, `[lang]`, `[commentary-name]`); the per-vault specifics are filled in by the text it serves.
 
@@ -15,11 +15,11 @@ This is a deliberate constraint. Mixing texts in a single vault would mean:
 - Block ID collisions across texts (e.g. `^1-1` of one text vs. another)
 - Commentary attributions that have to disambiguate by text every time they are cited
 - Local-wiki sense IDs that vary across texts being conflated
-- Glossaries that lose their per-text descriptive grounding
+- Bilingual Glossaries that lose their per-text descriptive grounding
 
 Each vault is named for the text it serves — typically `[text-slug]-rails` (e.g. `bodhisattvacharyavatara-rails`, `mulamadhyamakakarika-rails`). The vault is portable: cloning or copying it transfers the complete interpretive context for that text in one move.
 
-**What goes in the vault:** anything that is *about* this text — its editions, translations, commentaries on it, secondary literature on it, glossaries derived from its translation tradition, rails compiled from its commentary tradition, transformations generated from those rails.
+**What goes in the vault:** anything that is *about* this text — its editions, translations, commentaries on it, secondary literature on it, bilingual glossaries derived from its translation tradition, rails compiled from its commentary tradition, transformations generated from those rails.
 
 **What does not go in the vault:** general reference works (Sanskrit grammars, Tibetan dictionaries, Buddhist encyclopedias) unless they have entries specifically on this text. General reference belongs in a separate reference vault and is linked to externally.
 
@@ -34,26 +34,31 @@ Each vault is named for the text it serves — typically `[text-slug]-rails` (e.
 │   ├── Text/             # root text(s) and editions
 │   ├── Commentaries/     # authored commentaries
 │   ├── Translations/     # translations into other languages
-│   └── References/       # secondary literature, dictionaries with entries on this text
+│   ├── References/       # secondary literature, dictionaries with entries on this text
+│   └── Audio/            # recitation and teaching recordings
 ├── 2-RAILS/              # compiled interpretive context (the rails)
 │   ├── Verses/           # one package per verse or analytical unit
 │   ├── Sections/         # per-chapter summaries and structural outlines
 │   ├── Local-Wiki/       # one page per attested sense ID
-│   └── Glossaries/       # bilingual term mappings, per language pair
-├── 3-TRANSFORMATIONS/    # outputs generated from the rails
+│   └── Bilingual-Glossaries/       # bilingual term mappings, per language pair
+├── 3-TRANSFORMATIONS/    # outputs generated from the rails, in three categories
+│   ├── Translations/     # language-by-language translation tracks
+│   ├── Adaptations/      # audience-targeted retellings
+│   └── Plans/            # calendar-driven study/practice arcs
 └── 4-SYSTEM/             # guidelines, skills, templates, agent instructions
-    ├── Guidelines/       # this folder — vault rules and schemas
-    ├── Skills/           # repeatable workflows (ingest, format, extract)
+    ├── Guidelines/       # cross-cutting methodology docs (this folder)
+    ├── Skills/           # repeatable workflows (ingest, format, extract, translate, QA)
     ├── Templates/        # blank file templates for each frontmatter type
+    ├── How-to guides/    # human-facing instructions for non-AI tasks
+    ├── gemini-scribe/    # Gemini Scribe plugin workspace
     └── CLAUDE.md         # LLM-facing operational instructions
 ```
 
 The vault root also contains:
 
-- `README.md` — orientation for human contributors visiting the repo
-- `toc.md` — text-level table of contents linking into `1-SOURCES/` and `2-RAILS/`
+- `README.md` — orientation for any contributor (human or AI) visiting the repo. Holds the canonical reading paths.
 
-Top-level folders are numbered to enforce visual reading order: sources come before rails come before transformations.
+Top-level folders are numbered to enforce visual reading order: sources come before rails come before transformations. The canonical rules for each of those folders live inside that folder's own `About <FolderName>.md` doc — *not* in this Guidelines folder. The Guidelines folder holds only cross-cutting methodology that doesn't belong to any single layer.
 
 ---
 
@@ -81,8 +86,9 @@ Subfolders:
 - `Commentaries/` — authored commentaries on the text. One file per commentary, regardless of length. Block IDs follow the commentary author's own structural system (chapter-verse, folio-line, section-paragraph, etc.) as declared in frontmatter.
 - `Translations/` — translations of the root text into other languages. One file per translation. Block IDs correspond to the source verse, not the translator's numbering.
 - `References/` — secondary literature with substantive content on this text: monographs, articles, dictionaries with entries specific to the text.
+- `Audio/` — recitation and teaching recordings, aligned to source-text block IDs where possible.
 
-Naming conventions, frontmatter requirements, block ID rules, and editorial note conventions are specified in `1-SOURCES-Guideline.md`.
+Naming conventions, frontmatter requirements, block ID rules, and editorial note conventions are specified in [`../../1-SOURCES/About Sources.md`](../../1-SOURCES/About%20Sources.md).
 
 ### `2-RAILS/`
 
@@ -93,25 +99,44 @@ Subfolders:
 - `Verses/` — one package per verse or analytical unit. Files named by block ID without the caret (`1-1.md`, `6-33.md`, `0-4.md` for pre-chapter content).
 - `Sections/` — per-chapter or per-section summaries synthesised from the verse packages and from structural outlines extracted from each commentary.
 - `Local-Wiki/` — one page per attested sense ID within this text. Sense IDs are Wikipedia-style: `term (disambiguating phrase)`, e.g. `bodhicitta (awakening mind)`.
-- `Glossaries/` — bilingual lexicons, one file per language pair (`glossary-sk-en.md`, `glossary-sk-bo.md`, etc.). Derived descriptively from the translations in `1-SOURCES/Translations/`.
+- `Bilingual-Glossaries/` — bilingual lexicons, one file per language pair (`sk-en.md`, `sk-bo.md`, etc.). Derived descriptively from the translations in `1-SOURCES/Translations/`.
 
-Frontmatter, package layout, the disambiguation stack (Source Text → Traditional Interpretation → Morphological → Syntactic → Semantic Gloss → Translation Dynamics), citation rules, and divergence-flagging conventions are specified in `2-RAILS-Guideline.md`.
+Frontmatter, package layout, the disambiguation stack, citation rules, and divergence-flagging conventions are specified in [`../../2-RAILS/About Rails.md`](../../2-RAILS/About%20Rails.md).
 
 ### `3-TRANSFORMATIONS/`
 
-Generated outputs — translations, adaptations, lesson plans, study guides, daily reading content. Each transformation type lives under its own subfolder organised by **brief**:
+Generated outputs — translations, adaptations, lesson plans, study guides, daily reading content. The folder is organised into **three categories**, each a top-level subfolder; each second-level folder is one **track** governed by `requirements.md` (style contract) + `termbase.md` (vocabulary contract):
 
 ```
 3-TRANSFORMATIONS/
-├── [brief-id]/
-│   ├── brief.md          # purpose, audience, style, register
-│   ├── terminology.md    # standard term renderings selected from glossaries
-│   └── outputs/          # the generated files
+├── Translations/             # language-by-language translations
+│   └── [track-id]/
+│       ├── requirements.md   # the style contract
+│       ├── termbase.md       # the vocabulary contract
+│       ├── audience.md       # the audience profile
+│       ├── <output>.md       # the generated translation files
+│       └── qa-report.md      # MQM-taxonomy critique driving the next revision
+├── Adaptations/              # audience-targeted retellings
+│   └── [track-id]/
+│       ├── requirements.md
+│       ├── termbase.md
+│       └── <output>.md
+└── Plans/                    # calendar-driven study/practice arcs
+    └── [plan-id]/
+        ├── About <plan-name>.md
+        ├── <lang>/
+        │   ├── requirements.md
+        │   ├── termbase.md
+        │   ├── schedule.md
+        │   ├── days/
+        │   ├── communications/
+        │   └── assets/
+        └── …
 ```
 
-A brief defines the audience, register, style, and terminology choices for one consistent transformation type (e.g. `scholarly-en`, `childrens-en`, `liturgical-bo`). Each output file's frontmatter records which `2-RAILS/` packages it was generated from, enforcing the citation chain through to the final artefact.
+Each output file's frontmatter records which `2-RAILS/` packages it was generated from, enforcing the citation chain through to the final artefact. Transformations are generated only from packages whose `status` is `complete`. Draft or partial packages are not used.
 
-Transformations are generated only from packages whose `status` is `complete`. Draft or partial packages are not used.
+Full rules in [`../../3-TRANSFORMATIONS/About Transformations.md`](../../3-TRANSFORMATIONS/About%20Transformations.md).
 
 ### `4-SYSTEM/`
 
@@ -119,10 +144,12 @@ Operational infrastructure for both human contributors and the LLM. This folder 
 
 Subfolders:
 
-- `Guidelines/` — the schema documents (this file, `1-SOURCES-Guideline.md`, `2-RAILS-Guideline.md`, and any others)
-- `Skills/` — packaged workflows the LLM invokes for repeatable tasks (e.g. `epub-to-markdown`, `add-toc`, `format-root-text`, `format-commentary`, `property-creator`)
-- `Templates/` — blank-file templates for each frontmatter type, organised by target folder (`templates/1-sources/`, `templates/2-rails/`)
-- `CLAUDE.md` — condensed, LLM-facing instructions covering the most important rules from the Guidelines, plus operational procedures
+- `Guidelines/` — cross-cutting methodology docs that don't belong to any single layer: this file, [`why-rails.md`](why-rails.md), and the per-text [`vault-annex.md`](vault-annex.md). Layer-specific rules (1-SOURCES, 2-RAILS, 3-TRANSFORMATIONS) live in each folder's own `About <FolderName>.md`.
+- `Skills/` — packaged workflows the LLM invokes for repeatable tasks (e.g. `epub-to-markdown`, `verse-context`, `glossary-combine`, `glossary-select`). See `Skills/SKILLS-CATALOG.md` for the full list.
+- `Templates/` — blank-file templates for each frontmatter type, organised by target folder.
+- `How-to guides/` — human-facing instructions for non-AI tasks (vault setup, sync troubleshooting, transcription workflows).
+- `gemini-scribe/` — Gemini Scribe plugin workspace (`AGENTS.md`, Prompts/, Scheduled-Tasks/, Background-Tasks/, Agent-Sessions/, Skills/).
+- `CLAUDE.md` — condensed, LLM-facing operational instructions covering the most important rules from the folder READMEs, plus standard procedures.
 
 ---
 
@@ -135,7 +162,7 @@ Subfolders:
 Direction is one-way and never skipped:
 
 - `2-RAILS/` cites `1-SOURCES/` only — never another rails file, never parametric knowledge, never `3-TRANSFORMATIONS/`.
-- `3-TRANSFORMATIONS/` cites `2-RAILS/` only — never reaching past the rails directly into the sources.
+- `3-TRANSFORMATIONS/` cites `2-RAILS/` only — never reaching past the rails directly into the sources. (Plan tracks may also embed other completed `3-TRANSFORMATIONS/` outputs — e.g. a daily-readings file embedding the Translation output for its language — recorded the same way in `context_packages:`.)
 
 This rule is the heart of the methodology. It guarantees that every claim in any generated output is traceable back to a specific passage in a specific human source, through an intermediate package that a domain specialist has reviewed.
 
@@ -145,13 +172,13 @@ If a claim cannot be cited, it is not added. The field is left blank and the fil
 
 ## 5. Write Permissions
 
-| Folder | LLM may write? | Notes |
-|---|---|---|
-| `0-INBOX/` | yes | scratch only — never cited from elsewhere |
-| `1-SOURCES/` | **no** | read-only ground truth; only metadata additions allowed via skill workflows |
-| `2-RAILS/` | yes | primary work area |
-| `3-TRANSFORMATIONS/` | yes | only when explicitly instructed; only from `complete` packages |
-| `4-SYSTEM/` | **no** | read-only; rule changes require human contributor action |
+| Folder              | LLM may write? | Notes                                                                                       |
+| ------------------- | -------------- | ------------------------------------------------------------------------------------------- |
+| `0-INBOX/`          | yes            | scratch only — never cited from elsewhere                                                   |
+| `1-SOURCES/`        | **no**         | read-only ground truth; only metadata additions allowed via skill workflows                 |
+| `2-RAILS/`          | yes            | primary work area                                                                           |
+| `3-TRANSFORMATIONS/`| yes            | only when explicitly instructed; only from `complete` packages                              |
+| `4-SYSTEM/`         | **no**         | read-only; rule changes require human contributor action                                    |
 
 The `1-SOURCES/` restriction is the most important. The folder receives the human material once, has its block IDs and frontmatter added under controlled workflows, and is then frozen. Adding interpretation here — even something as small as a paraphrase or a glossing parenthetical — corrupts the ground truth and breaks the citation chain.
 
@@ -159,11 +186,11 @@ The `1-SOURCES/` restriction is the most important. The folder receives the huma
 
 ## 6. Language Tags and Filenames
 
-Every file carrying language-specific content carries a language tag suffix on its filename: `-sk` (Sanskrit IAST default), `-pi` (Pāli PTS default), `-bo` (Tibetan Unicode default), `-zh` (Chinese Unicode default), `-en` (English), and so on. When a non-default script or encoding is used, a script suffix is added: `-sk-iast`, `-bo-wy`, `-zh-cbeta`.
+Every file carrying language-specific content carries a language tag suffix on its filename: `-sk` (Sanskrit Devanāgarī default), `-pi` (Pāli PTS default), `-bo` (Tibetan Unicode default), `-zh` (Chinese Unicode default), `-en` (English), and so on. When a non-default script or encoding is used, a script suffix is added: `-sk-iast`, `-bo-wy`, `-zh-cbeta`.
 
 Filenames are lowercase, hyphenated, and use no diacritics. Diacritics appear freely inside file content and frontmatter, but never in filenames — this keeps the vault portable across filesystems and friendly to scripts that traverse it.
 
-The full tag list and naming conventions are specified in `1-SOURCES-Guideline.md` Section 14.
+The full tag list and naming conventions are specified in [`../../1-SOURCES/About Sources.md`](../../1-SOURCES/About%20Sources.md) §13.
 
 ---
 
@@ -175,12 +202,12 @@ Every verse or discrete prose block in `1-SOURCES/` ends with an Obsidian block 
 [verse text here] ^1-1
 ```
 
-- Format: `^chapter-verse` (most common), `^verse`, or `^book-chapter-verse` — declared per file in the `verse_id_format` frontmatter field.
+- Format: `^chapter-verse` (most common) — declared per file in the `verse_id_format` frontmatter field.
 - Numbers are not zero-padded. Use natural numbers (`^6-33`, not `^06-033`).
 - Verse numbers restart at 1 each chapter.
 - Pre-chapter material (homage, colophons, title lines) is placed under a `## 0. Introduction` heading with IDs `^0-1`, `^0-2`, etc.
 
-Headings in source-text files also carry block IDs, distinguished from content IDs by a trailing `-0` (the zero slot is reserved for headings; content always starts at `1`). The full heading-ID hierarchy is specified in `CLAUDE.md` Section 4a.
+The vault annex ([`vault-annex.md`](vault-annex.md)) specifies the addressing scheme and heading hierarchy for the root text(s) of this vault.
 
 Block IDs are how everything connects:
 
@@ -188,13 +215,13 @@ Block IDs are how everything connects:
 - A commentary citation: `(1-SOURCES/Commentaries/[lang]-[commentary-name].md#^1-1)`
 - A wiki link to a section heading: `[[1-SOURCES/Text/[lang]-root-text.md#^1-0]]`
 
-Detailed rules — placement, multi-line passages, the heading-ID hierarchy, inline TOC tagging — are in `1-SOURCES-Guideline.md` and `CLAUDE.md`.
+Detailed rules — placement, multi-line passages, heading-ID hierarchy, inline TOC tagging — are in [`../../1-SOURCES/About Sources.md`](../../1-SOURCES/About%20Sources.md) and [`../CLAUDE.md`](../CLAUDE.md).
 
 ---
 
 ## 8. Status Lifecycle
 
-Files in `2-RAILS/` (and the briefs in `3-TRANSFORMATIONS/`) carry a `status` field in frontmatter:
+Files in `2-RAILS/` (and the output files in `3-TRANSFORMATIONS/`) carry a `status` field in frontmatter:
 
 | Status | Meaning |
 |---|---|
@@ -212,16 +239,19 @@ To start a new Railroads vault for a different text:
 
 - [ ] Create the repo: `[text-slug]-rails`
 - [ ] Create the top-level folders: `0-INBOX/`, `1-SOURCES/`, `2-RAILS/`, `3-TRANSFORMATIONS/`, `4-SYSTEM/`
-- [ ] Create the `1-SOURCES/` subfolders: `Text/`, `Commentaries/`, `Translations/`, `References/`
-- [ ] Create the `2-RAILS/` subfolders: `Verses/`, `Sections/`, `Local-Wiki/`, `Glossaries/`
-- [ ] Copy `4-SYSTEM/Guidelines/` from a prior vault (this file, `1-SOURCES-Guideline.md`, `2-RAILS-Guideline.md`) — no text-specific edits needed
+- [ ] Create the `1-SOURCES/` subfolders: `Text/`, `Commentaries/`, `Translations/`, `References/`, `Audio/`
+- [ ] Create the `2-RAILS/` subfolders: `Verses/`, `Sections/`, `Local-Wiki/`, `Bilingual-Glossaries/`
+- [ ] Create the `3-TRANSFORMATIONS/` subfolders: `Translations/`, `Adaptations/`, `Plans/`
+- [ ] Copy `4-SYSTEM/Guidelines/` from a prior vault (this file, `why-rails.md`) — no text-specific edits needed
 - [ ] Copy `4-SYSTEM/Skills/` from a prior vault — reuse the ingest, formatting, and extraction workflows as-is
 - [ ] Copy `4-SYSTEM/Templates/` from a prior vault
-- [ ] Adapt `4-SYSTEM/CLAUDE.md`: keep the methodology sections; replace text-specific examples and the registered-commentary roster
+- [ ] Fill in `4-SYSTEM/Guidelines/vault-annex.md` with text-specific conventions
+- [ ] Adapt `4-SYSTEM/CLAUDE.md`: keep the methodology sections; replace text-specific examples and the registered-commentary roster in the annex
+- [ ] Copy `1-SOURCES/About Sources.md`, `2-RAILS/About Rails.md`, `3-TRANSFORMATIONS/About Transformations.md` from a prior vault — no text-specific edits needed
 - [ ] Write a text-specific `README.md` at the vault root
 - [ ] Begin ingest by dropping source material into `0-INBOX/raw-data/` and running the conversion skills
 
-The Guidelines and Skills folders are deliberately text-agnostic so they can be carried across vaults without modification. The only files that need per-text adaptation are `README.md` and `CLAUDE.md`.
+The Guidelines and Skills folders are deliberately text-agnostic so they can be carried across vaults without modification. The only files that need per-text adaptation are `README.md`, `CLAUDE.md`, and `vault-annex.md`.
 
 ---
 
@@ -230,9 +260,12 @@ The Guidelines and Skills folders are deliberately text-agnostic so they can be 
 For a human contributor or LLM new to a Railroads vault:
 
 1. `README.md` — what this specific vault is for
-2. `4-SYSTEM/Guidelines/0-VAULT-Structure.md` — this file: the architecture
-3. `4-SYSTEM/Guidelines/1-SOURCES-Guideline.md` — source file rules
-4. `4-SYSTEM/Guidelines/2-RAILS-Guideline.md` — rails compilation schema
-5. `4-SYSTEM/CLAUDE.md` — operational instructions and registered short IDs
+2. `4-SYSTEM/Guidelines/why-rails.md` — why the methodology works (specialist-pair and Wikipedia analogies)
+3. `4-SYSTEM/Guidelines/0-VAULT-Structure.md` — this file: the architecture
+4. `1-SOURCES/About Sources.md` — source file rules
+5. `2-RAILS/About Rails.md` — rails compilation schema
+6. `3-TRANSFORMATIONS/About Transformations.md` — transformation track rules
+7. `4-SYSTEM/CLAUDE.md` — operational instructions and vault-specific short IDs
+8. `4-SYSTEM/Guidelines/vault-annex.md` — text-specific conventions
 
-After these five files, a contributor has the complete picture of how the vault works and can begin productive work in `1-SOURCES/` or `2-RAILS/`.
+After these eight files, a contributor has the complete picture of how the vault works and can begin productive work in `1-SOURCES/` or `2-RAILS/`.

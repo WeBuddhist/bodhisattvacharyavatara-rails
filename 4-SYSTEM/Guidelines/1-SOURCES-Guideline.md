@@ -1,3 +1,5 @@
+> **SUPERSEDED** — The canonical source rules are now in [`1-SOURCES/About Sources.md`](../../1-SOURCES/About%20Sources.md). This file is kept for historical reference only.
+
 # 1-SOURCES — File Format and Linking Guidelines
 
 This document specifies the file format, verse annotation, and linking conventions for all materials in `1-SOURCES/`. Read this before adding any file to the folder.

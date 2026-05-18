@@ -23,6 +23,20 @@ print("Creating backup...")
 shutil.copy2(SOURCE_FILE, BACKUP_FILE)
 print("Backup created.")
 
+# Clean up any leftover artifacts from previous partial edits
+# Remove lines that are just whitespace followed by a heading that was already moved
+import re as _re
+# Remove orphan duplicate-heading lines (lines like "  གསུམ་པ་ནི།DEDUP_2")
+lines = content.split('\n')
+cleaned_lines = []
+for line in lines:
+    # Skip lines that are whitespace + ordinal heading + DEDUP_2 marker (artifact)
+    if 'DEDUP_2' in line:
+        print(f"  Removing artifact line: {line!r}")
+        continue
+    cleaned_lines.append(line)
+content = '\n'.join(cleaned_lines)
+
 # Split into paragraphs
 paragraphs = content.split('\n\n')
 print(f"Total paragraphs: {len(paragraphs)}")

@@ -1,0 +1,151 @@
+/* Settings tab appearance */
+
+.ling-gloss-settings-wide {
+    flex-grow: 1;
+    max-width: 250px;
+}
+
+.setting-item-info mark,
+.setting-item-info code {
+    color: var(--color-orange);
+    background-color: unset;
+}
+
+.setting-item-info span[title] {
+    text-decoration: underline dotted;
+}
+
+/* Error message appearance */
+
+.ling-gloss-error {
+    margin: 0.5em;
+    color: #FF4040;
+    font-style: italic;
+}
+
+.ling-gloss-error::before {
+    content: "❌ ";
+    font-style: normal;
+}
+
+/* Gloss element layout */
+
+.ling-gloss {
+    width: 100%;
+    display: flex;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+}
+
+.ling-gloss-number {
+    padding-inline-end: 1em;
+    white-space: nowrap;
+}
+
+.ling-gloss-body {
+    flex-grow: 1;
+}
+
+.ling-gloss-body > div:not(:last-child) {
+    margin-bottom: 0.5em;
+}
+
+.ling-gloss-elements {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em 1em;
+}
+
+.ling-gloss-element {
+    white-space: nowrap;
+}
+
+.ling-gloss-postamble {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0 0.5em;
+}
+
+/* Gloss element appearance */
+
+.ling-gloss-number::before {
+    content: "(";
+}
+
+.ling-gloss-number::after {
+    content: ")";
+}
+
+.ling-gloss-number:empty {
+    visibility: hidden;
+}
+
+.ling-gloss-preamble {
+    font-weight: bold;
+}
+
+.ling-gloss-translation {
+    font-style: italic;
+}
+
+.ling-gloss-translation::before {
+    content: "“";
+}
+
+.ling-gloss-translation::after {
+    content: "”";
+}
+
+.ling-gloss-source::before {
+    content: "(";
+}
+
+.ling-gloss-source::after {
+    content: ")";
+}
+
+.ling-gloss-level-a {
+    font-style: italic;
+}
+
+/* Gloss element horizontal alignment */
+
+.ling-gloss-element.ling-gloss-align-left {
+    text-align: start;
+}
+
+.ling-gloss-element.ling-gloss-align-right {
+    text-align: end;
+}
+
+.ling-gloss-element.ling-gloss-align-center {
+    text-align: center;
+}
+
+/* Gloss source layout overrides */
+
+.ling-gloss-source.ling-style-right {
+    flex-grow: 1 !important;
+    text-align: right !important;
+}
+
+.ling-gloss-source.ling-style-line {
+    flex-grow: 1 !important;
+    flex-basis: 100% !important;
+}
+
+/* Gloss source appearance overrides */
+
+.ling-gloss-source.ling-style-alt::before {
+    content: "[" !important;
+}
+
+.ling-gloss-source.ling-style-alt::after {
+    content: "]" !important;
+}
+
+/* Language-specific style overrides */
+
+.ling-gloss-level-a.ling-style-cjk {
+    font-style: unset !important;
+}

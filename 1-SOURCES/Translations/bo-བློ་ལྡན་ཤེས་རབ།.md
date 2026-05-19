@@ -1,3 +1,15 @@
+---
+title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
+author: Śāntideva
+translator: "Blo ldan shes rab (ལོ་ཙཱ་བ་བློ་ལྡན་ཤེས་རབ།)"
+language: Tibetan
+file_type: translation
+lang_tag: bo
+verse_id_format: chapter-verse
+root_text: 1-SOURCES/Text/sk-dev.md
+covers_verses: 1-1–10-61
+source_description: "Canonical Tibetan translation (Kangyur, Derge edition). Translated from Sanskrit by Sarvajñādeva and Bande Paltsek; revised by Dharmaśrībhadra and Rinchen Zangpo; finalised by Sumatikīrti and Blo ldan shes rab."
+---
 
 # བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
 

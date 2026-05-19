@@ -20,7 +20,7 @@ The vault is organized into a numbered pipeline that tracks the lifecycle of a t
 
 - Bodhicharyavatara (Spyod-'jug)
 - Classical Tibetan Commentaries (e.g., [[bo-དངུལ་ཆུ་ཐོགས་མེད།]], [[bo-མཁན་པོ་ཀུན་དཔལ།]], [[bo-འཇུ་མི་ཕམ།]])
-- Sanskrit Philology and root texts (e.g., [[sk-dev-root-text]], Prajñākaramati)
+- Sanskrit Philology and root texts (e.g., [[sk-dev]], Prajñākaramati)
 - Topical Outlines (sa bcad) and structural alignment
 - Digital Humanities and automated Markdown formatting
 - Buddhist Philosophy and Bodhisattva Ethics

@@ -2,101 +2,77 @@
 
 བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ། · *Bodhisattvacaryāvatāra* · Śāntideva
 
-A 🛤️ **Railroads** repo for Śāntideva's *Bodhisattvacaryāvatāra* — gathering the classical commentary tradition and compiling it into machine-readable context that lets any AI model do reliable, tradition-grounded work on this text.
+A collaborative [Obsidian](https://obsidian.md) vault that makes AI-powered work on the *Bodhisattvacaryāvatāra* reliable, traceable, and consistent at scale.
 
----
+## Why
 
-## What this repo contains
+AI models are powerful but unreliable at scale. Hand a model a classical text and a stack of commentary and ask for a translation, an adaptation, a study guide, or a daily reading, and what comes back looks fluent but is hard to trust:
 
-This is one repo per text. Everything here is about the *Bodhisattvacaryāvatāra* and nothing else.
+- **Hallucinations** — fabricated meanings that sound plausible.
+- **Inconsistency** — the same technical term rendered three different ways across one document.
+- **Style drift** — register shifts as the context window fills.
+- **No traceability** — no way to verify whether any specific claim is grounded in the commentary tradition or invented on the spot.
+- **Doesn't scale** — every new output rediscovers the same interpretive work from scratch.
 
-The repo holds two layers of content:
+These failures aren't because the model is weak. They happen because the model is being asked to be **two different specialists at once** — a source-language domain expert who understands every nuance the commentary tradition has worked out, *and* a target-language stylist who knows how to render that meaning for a specific audience. With no preparation and no division of labour, it tries to do both jobs at generation time, in the same prompt, from raw sources. The drift is structural.
 
-**Human reference material** (`1-SOURCES/`) — editions, translations, commentaries, sub-commentaries, secondary literature, dictionaries. This is received material, formatted for navigation but not interpreted.
+## How
 
-**The Rails** (`2-RAILS/`) — compact, structured interpretive packages compiled from the sources above. One package per verse, plus per-chapter summaries, a local concept wiki, and bilingual glossaries. Every claim in the rails cites the human source that grounds it.
+The fix is to separate the two specialists, then let them collaborate.
 
-Once the rails are laid for a verse, any AI model can run any transformation on that verse — translation, adaptation, summary, lesson — without redoing the philological work each time.
+**`2-RAILS/` is the source-language specialist, made permanent.** A pre-built, citation-grounded knowledge base of the commentary tradition — every sense distinction, every compound analysis, every commentator's reading — compiled once, by an LLM under domain-specialist review, with every claim citing the human source that grounds it.
 
----
+**Each track in `3-TRANSFORMATIONS/` is a target-language specialist for one audience.** A Translation track is a specialist in writing for a particular language and readership. An Adaptation track is a specialist in writing for a particular format (scholastic, liturgical, popular). A Plan track is a specialist in pacing a study arc along a calendar. Each one is bound by its own `requirements.md` (style contract) and `termbase.md` (vocabulary contract).
 
-## Why "rails"
+Two principles hold the collaboration together:
 
-The standard way to use AI on a classical text is to give it the source plus some commentary and ask it to translate. This fails because the model has to do interpretive work (compound analysis, sense disambiguation, syntactic parsing) at the same time as producing fluent output, and nothing it learns persists between sessions.
+- **Descriptive rails, prescriptive transformations.** The source specialist *describes* what the tradition attests: every commentator, every translator, every attested rendering. Each target specialist *prescribes* what *their* output does for *their* audience.
+- **One-way citation chain.** `1-SOURCES/ → 2-RAILS/ → 3-TRANSFORMATIONS/`. Target specialists cite the source specialist; they never reach past the rails into raw commentary.
 
-🛤️ Railroads inverts this: lay the interpretive track once, in a form humans can review and machines can read, then run transformations on top of it. The model generating a translation does stylistic work only — it does not decide what *dharmakāya* means in this verse, how the syntax goes, or how Prajñākaramati reads the compound. All of that is already in the package, already cited.
+This is what makes the methodology scale. The expensive interpretive work happens once, in `2-RAILS/`, and is amortised over every output ever produced from the vault. **Lay the rails once; run many transformations on them.**
 
-The authority behind every claim in the rails is the human commentary tradition. The LLM is the extraction and formatting agent; it adds no interpretation of its own.
+For the full reasoning — the specialist-pair and Wikipedia analogies — see [`4-SYSTEM/Guidelines/why-rails.md`](4-SYSTEM/Guidelines/why-rails.md).
 
----
+## What
 
-## Folder structure
+The vault is a four-stage pipeline. Each stage has its own folder; each folder's `About <Folder>.md` is the authoritative source on what goes in it and how.
 
 ```
-0-INBOX/            drafts and scratch
-1-SOURCES/          human-produced material — read-only ground truth
-   Root Text/
-   Commentaries/
-   Translations/
-   References/      secondary literature, dictionaries
-2-RAILS/            structured interpretive context (the rails)
-   Verses/
-   Sections/
-   Local-Wiki/
-   Glossaries/
-3-TRANSFORMATIONS/  outputs generated from the rails
-4-SYSTEM/           guidelines (CLAUDE.md and contributor docs)
+1-SOURCES/   →   2-RAILS/   →   3-TRANSFORMATIONS/
+human            original-       per-output prescriptive
+authoritative    language        rails plus the
+material         descriptive     AI-generated output
+                 context
+
+                ▲
+                │ all driven by
+                │
+              4-SYSTEM/   skills, templates, methodology
 ```
 
-For the full schema — frontmatter, block-ID format, package layout, citation chain, naming rules — see [`4-SYSTEM/CLAUDE.md`](CLAUDE.md).
+- **[`1-SOURCES/`](1-SOURCES/)** — root texts, commentaries, existing translations, audio, references. Read-only ground truth.
+- **[`2-RAILS/`](2-RAILS/)** — original-language descriptive context at every level a transformation might need: section summaries, verse packages, per-term wiki articles, bilingual glossaries. Every claim cites `1-SOURCES/`.
+- **[`3-TRANSFORMATIONS/`](3-TRANSFORMATIONS/)** — three categories of output (**Translations**, **Adaptations**, **Plans**). Each track is governed by `requirements.md` (style contract) + `termbase.md` (vocabulary contract); the AI-generated output files sit alongside, citing the rails.
+- **[`4-SYSTEM/`](4-SYSTEM/)** — skills and workflows for every stage of the pipeline, plus cross-cutting methodology docs and templates.
 
----
+Vault-specific conventions for the *Bodhisattvacaryāvatāra* (addressing scheme, registered commentary IDs, language tracks) live in [`4-SYSTEM/Guidelines/vault-annex.md`](4-SYSTEM/Guidelines/vault-annex.md).
 
-## What the rails are for
+## Getting started — pick your path
 
-The rails are a foundation that many downstream projects can run on. The first projects this repo is being built to support:
+### If you are a human contributor
 
-**Reviewing and improving existing English translations.** With every verse's interpretive decisions made explicit and cited, an existing translation can be checked against the commentary tradition systematically — flagging where the translator chose a sense the commentaries rule out, where a compound was read differently, where a divergence was flattened.
+1. **This README** — Why · How · What (you are here).
+2. [`4-SYSTEM/Guidelines/why-rails.md`](4-SYSTEM/Guidelines/why-rails.md) — the specialist-pair and Wikipedia analogies in full.
+3. [`4-SYSTEM/Guidelines/0-VAULT-Structure.md`](4-SYSTEM/Guidelines/0-VAULT-Structure.md) — the architecture and the citation chain.
+4. [`1-SOURCES/About Sources.md`](1-SOURCES/About%20Sources.md) — rules for collecting, formatting, and linking source material.
+5. [`2-RAILS/About Rails.md`](2-RAILS/About%20Rails.md) — the schema for the descriptive rails.
+6. [`3-TRANSFORMATIONS/About Transformations.md`](3-TRANSFORMATIONS/About%20Transformations.md) — how transformation tracks are set up and how outputs are produced.
+7. [`4-SYSTEM/Guidelines/vault-annex.md`](4-SYSTEM/Guidelines/vault-annex.md) — the conventions specific to this vault.
+8. [`4-SYSTEM/Skills/SKILLS-CATALOG.md`](4-SYSTEM/Skills/SKILLS-CATALOG.md) — every workflow skill, grouped by pipeline stage.
 
-**Generating translations and adaptations in other languages.** Once the rails for a verse are complete, the same package can drive a scholarly Swahili translation, a literary Chinese rendering, or a spoken-Tibetan adaptation — all grounded in the same commentary-backed interpretive choices, without re-doing the philology in each language.
+### If you are an AI agent
 
-**Shantideva in 365 days — a daily reading plan in our mobile app.** Five minutes of content per day, generated from the rails:
-
-- a daily notification
-- a reading guide for the day's verse(s)
-- *reading for meaning* in the user's language
-- commentaries from the user's tradition
-- a shareable image
-
-Each piece of content is generated from the same underlying verse package, adapted to format and audience.
-
-Other transformations the rails are designed to support: thematic summaries, study courses, sermon prompts, classroom materials, contemplative reading guides.
-
----
-
-## Ingesting files into 1-SOURCES
-
-### Epubs
-
-1. **Drop the epub into `raw-data/`.**
-2. **Convert to Markdown** — run the `epub-to-markdown` skill. It will produce a `.md` file and place it in `temp/`.
-3. **Check the converted file** in `temp/` — verify the text came through cleanly before proceeding.
-4. **Add the table of contents** — run the `add-toc` skill on the file in `temp/`.
-5. **Check the file with TOC** in `temp/` — confirm the TOC is correct and the structure looks right.
-6. *(Next steps TBD.)*
-
----
-
-## How to contribute
-
-If you are a domain specialist (philologist, scholar, traditional teacher) reviewing or correcting AI-generated content: focus on `2-RAILS/`. Set `status: complete` only on packages whose claims you can stand behind. Flag divergences with ⚑ rather than smoothing them.
-
-If you are adding a new source to `1-SOURCES/`: follow the naming and frontmatter rules in [`4-SYSTEM/CLAUDE.md`](CLAUDE.md). Do not add interpretation to source files — interpretive notes belong in `2-RAILS/`.
-
-If you are designing AI workflows or transformations: read `4-SYSTEM/CLAUDE.md` end to end, then look at completed verse packages in `2-RAILS/Verses/` for the shape of context the transformations consume.
-
----
-
-## Status
-
-Early stage. Sources are being ingested; the first verse packages are in draft. The methodology is settling in this repo first and will be generalised to other texts once it is proven here.
+1. [`4-SYSTEM/CLAUDE.md`](4-SYSTEM/CLAUDE.md) — operational instructions: citation chain, write permissions, do-nots, standard operations. Read in full before touching any file.
+2. The `About <Folder>.md` for the folder you're working in — [`1-SOURCES/About Sources.md`](1-SOURCES/About%20Sources.md), [`2-RAILS/About Rails.md`](2-RAILS/About%20Rails.md), or [`3-TRANSFORMATIONS/About Transformations.md`](3-TRANSFORMATIONS/About%20Transformations.md). Each is the canonical authority for that folder's rules.
+3. [`4-SYSTEM/Guidelines/vault-annex.md`](4-SYSTEM/Guidelines/vault-annex.md) — vault-specific conventions: addressing scheme, registered commentary IDs, language tracks.
+4. The relevant `4-SYSTEM/Skills/<skill>/SKILL.md` for the specific task.

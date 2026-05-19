@@ -1,3 +1,5 @@
+> **SUPERSEDED** — The canonical rails rules are now in [`2-RAILS/About Rails.md`](../../2-RAILS/About%20Rails.md). This file is kept for historical reference only.
+
 # 2-RAILS — Guidelines
 
 This document explains the purpose, structure, and workflow of the `2-RAILS/` folder — the heart of the 🛤️ Railroad methodology.

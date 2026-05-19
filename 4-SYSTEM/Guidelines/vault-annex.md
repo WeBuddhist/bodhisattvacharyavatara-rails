@@ -54,7 +54,7 @@ Second prose block. ^1-1-2
 
 ### Verse numbering rule
 
-Verse numbers restart at 1 at each chapter boundary. `^6-33` means chapter 6, verse 33 — not the 33rd verse of the whole text. This applies even where a source uses continuous numbering across the whole text; always convert to per-chapter IDs for block IDs, noting the continuous number in an editorial note if useful.
+Verse numbering rule: Verse numbers restart at 1 at each chapter boundary. `^6-33` means chapter 6, verse 33 — not the 33rd verse of the whole text. This applies even where a source uses continuous numbering across the whole text; always convert to per-chapter IDs for block IDs, noting the continuous number in an editorial note if useful.
 
 ### Inline TOC phrases — wikilink tagging
 
@@ -132,6 +132,7 @@ The consolidated bilingual glossaries in `2-RAILS/Bilingual-Glossaries/` will co
 | `Adaptations/bo-mchan-grel/` | Adaptation | Annotation commentary compilation — Tibetan | active |
 | `Plans/spyod-jug-365/` | Plan | Bodhisattvacaryāvatāra 365-day daily study — Tibetan/English | active |
 | `Translations/en-contemporary/` | Translation | Contemporary English translation | planned |
+| `Translations/en-plain-english/` | Translation | Plain English translation | active |
 
 ---
 

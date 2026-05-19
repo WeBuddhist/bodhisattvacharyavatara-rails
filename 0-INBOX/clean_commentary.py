@@ -1,87 +1,64 @@
 import re
 
-def clean_text(text):
-    # Remove common punctuation and whitespace for comparison
-    return re.sub(r'[，。！？；：、\s\t]', '', text)
-
-def solve():
-    # Read root text
-    with open('1-SOURCES/Translations/zh-隆蓮法師.md', 'r', encoding='utf-8') as f:
+def clean_commentary(root_path, comm_path, output_path):
+    # Read root verses
+    with open(root_path, 'r', encoding='utf-8') as f:
         root_content = f.read()
     
-    # Extract phrases from root text
-    # Lines starting with numbers are verses
     root_phrases = set()
-    lines = root_content.split('\n')
-    for line in lines:
-        line = line.strip()
-        if not line: continue
-        # Match lines like "1. text" or "10. text"
-        match = re.match(r'^\d+\.\s*(.*)', line)
-        if match:
-            text = match.group(1)
-            # Split by spaces to get phrases
-            parts = re.split(r'\s+', text)
-            for p in parts:
-                p_clean = clean_text(p)
-                if p_clean:
-                    root_phrases.add(p_clean)
-        else:
-            # Also check for lines that don't start with numbers but might be verses (like in Chapter headers or if numbers are missing)
-            # But based on the file content, they are numbered.
-            pass
-
-    # Read commentary
-    with open('1-SOURCES/Commentaries/zh-賈曹傑 入菩薩行論廣解.md', 'r', encoding='utf-8') as f:
-        comm_lines = f.readlines()
-
-    new_comm_lines = []
+    for line in root_content.split('\n'):
+        # Remove markdown numbering and leading spaces
+        line = re.sub(r'^\s*\d+\.\s*', '', line)
+        # Split by various delimiters
+        parts = re.split(r'[\s \u3000,，。！？]+', line)
+        for p in parts:
+            p = p.strip()
+            # Only consider phrases that look like verses (length >= 4)
+            if len(p) >= 4:
+                root_phrases.add(p)
     
-    # Process commentary lines
-    for line in comm_lines:
-        stripped_line = line.strip()
-        if not stripped_line:
-            new_comm_lines.append(line)
+    # Read commentary
+    with open(comm_path, 'r', encoding='utf-8') as f:
+        comm_content = f.read()
+    
+    lines = comm_content.split('\n')
+    new_lines = []
+    
+    for line in lines:
+        stripped = line.strip()
+        if not stripped:
+            new_lines.append(line)
             continue
-        
-        # Check if the line is a header (starts with # or 甲, 乙, etc.)
-        if stripped_line.startswith('#') or re.match(r'^[甲乙丙丁戊己庚辛壬癸][一二三四五六七八九十]', stripped_line):
-            new_comm_lines.append(line)
-            continue
-
-        # Check if the whole line consists of root phrases
-        # We split the line by punctuation to check each part
-        line_parts = re.split(r'([，。！？；：、\s\t]+)', stripped_line)
-        
-        is_verse_line = True
-        has_phrase = False
-        
-        # A verse line should consist of known phrases + punctuation
-        # If any part (that is not punctuation) is not a known phrase, then it's likely commentary
-        for part in line_parts:
-            p_clean = clean_text(part)
-            if not p_clean: # Skip punctuation/whitespace
-                continue
             
-            if p_clean in root_phrases:
-                has_phrase = True
-            else:
-                is_verse_line = False
+        # Check if line is a verse block
+        # Verses in the commentary often have punctuation like ， and 。
+        parts = re.split(r'[\s \u3000,，。！？]+', stripped)
+        is_verse = True
+        has_content = False
+        for p in parts:
+            p = p.strip()
+            if not p:
+                continue
+            has_content = True
+            # If any non-empty part is NOT a known root phrase, it's commentary
+            if p not in root_phrases:
+                is_verse = False
                 break
         
-        if is_verse_line and has_phrase:
-            # This is a verse line, skip it
+        if is_verse and has_content:
+            # Skip verse line
             continue
         else:
-            new_comm_lines.append(line)
+            new_lines.append(line)
+            
+    # Write cleaned content
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(new_lines))
 
-    # Some lines might have been missed if they are long or have weird formatting.
-    # Let's check the first few lines of the output to verify.
+if __name__ == "__main__":
+    import sys
+    import os
     
-    output = "".join(new_comm_lines)
-    
-    # Write back to file
-    with open('1-SOURCES/Commentaries/zh-賈曹傑 入菩薩行論廣解.md', 'w', encoding='utf-8') as f:
-        f.write(output)
-
-# solve() # This is a script, I will run the logic in my thought process and use tools.
+    # In a real environment, we'd use the tool's paths
+    # Here I will simulate the logic in the main block
+    pass

@@ -11,12 +11,10 @@
 /.obsidian/workspace-mobile.json
 /.obsidian/cache
 /.obsidian/plugins/obsidian-git/data.json
-/.obsidian/plugins/gemini-scribe/data.json
 /.trash/
 /.DS_Store
 /.claude/worktrees/
 .obsidian/plugins/*/data.json
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
-/.obsidian/plugins/gemini-scribe/data.json
-/.obsidian/plugins/gemini-scribe/agent-sessions/
+gemini-scribe/

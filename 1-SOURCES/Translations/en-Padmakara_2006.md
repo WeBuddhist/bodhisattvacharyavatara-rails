@@ -16,7 +16,7 @@ The Excellence of Bodhichitta
 
   
 
-Homage to all Buddhas and Bodhisattvas.
+Homage to all Buddhas and Bodhisattvas.  ^0-1
 
   
 
@@ -36,7 +36,7 @@ According to the scriptures, I shall now in brief describe
 
   
 
-The practice of the Bodhisattva discipline.
+The practice of the Bodhisattva discipline.  ^1-1
 
   
 
@@ -56,7 +56,7 @@ I therefore have no thought that this might be of benefit to others;
 
   
 
-I wrote it only to habituate my mind.
+I wrote it only to habituate my mind.  ^1-2
 
   
 
@@ -76,7 +76,7 @@ But others who now chance upon my words
 
   
 
-May profit also, equal to myself in fortune.
+May profit also, equal to myself in fortune.  ^1-3
 
   
 
@@ -96,7 +96,7 @@ If now I fail to turn it to my profit,
 
   
 
-How could such a chance be mine again?
+How could such a chance be mine again?  ^1-4
 
   
 
@@ -116,7 +116,7 @@ Likewise rarely, through the Buddhas’ power,
 
   
 
-Virtuous thoughts rise, brief and transient, in the world.
+Virtuous thoughts rise, brief and transient, in the world.  ^1-5
 
   
 
@@ -136,7 +136,7 @@ Except for perfect bodhichitta,
 
   
 
-What other virtue is there that can lay it low?
+What other virtue is there that can lay it low?  ^1-6
 
   
 
@@ -156,7 +156,7 @@ Whereby unnumbered multitudes
 
   
 
-Are brought with ease to supreme joy.
+Are brought with ease to supreme joy.  ^1-7
 
   
 
@@ -176,7 +176,7 @@ Who wish to have experience of a myriad joys
 
   
 
-Should never turn away from bodhichitta.
+Should never turn away from bodhichitta.  ^1-8
 
   
 
@@ -196,7 +196,7 @@ In that instant they are called the children of the Blissful One,
 
   
 
-Revered by all the world, by gods and humankind.
+Revered by all the world, by gods and humankind.  ^1-9
 
   
 
@@ -216,7 +216,7 @@ The body of a Buddha, jewel beyond all price.
 
   
 
-Such is bodhichitta. Let us grasp it firmly!
+Such is bodhichitta. Let us grasp it firmly!  ^1-10
 
   
 
@@ -236,7 +236,7 @@ Those who wish to leave this state of wandering
 
   
 
-Should hold well to this precious bodhichitta.
+Should hold well to this precious bodhichitta.  ^1-11
 
   
 
@@ -256,7 +256,7 @@ Alone the marvelous tree of bodhichitta
 
   
 
-Constantly bears fruit and grows unceasingly.
+Constantly bears fruit and grows unceasingly.  ^1-12
 
   
 
@@ -276,7 +276,7 @@ Will instantly be freed through having bodhichitta.
 
   
 
-Why do those who fear their sins not have recourse to it?
+Why do those who fear their sins not have recourse to it?  ^1-13
 
   
 
@@ -296,7 +296,7 @@ Its benefits are thus unbounded
 
   
 
-As the Wise and Loving Lord30 explained to Sudhana.
+As the Wise and Loving Lord30 explained to Sudhana.  ^1-14
 
   
 
@@ -316,7 +316,7 @@ First, aspiring, bodhichitta in intention;
 
   
 
-Then active bodhichitta, practical engagement.
+Then active bodhichitta, practical engagement.  ^1-15
 
   
 
@@ -336,7 +336,7 @@ The wise should understand respectively
 
   
 
-The difference that divides these two.
+The difference that divides these two.  ^1-16
 
   
 
@@ -356,7 +356,7 @@ Yet merit does not rise from it in ceaseless streams
 
   
 
-As is the case with active bodhichitta.
+As is the case with active bodhichitta.  ^1-17
 
   
 
@@ -376,7 +376,7 @@ Willing to set free the endless multitudes of beings,
 
   
 
-In that instant, from that moment on,
+In that instant, from that moment on,  ^1-18
 
   
 
@@ -396,7 +396,7 @@ Even during sleep and inattention,
 
   
 
-Rises equal to the vastness of the sky.
+Rises equal to the vastness of the sky.  ^1-19
 
   
 
@@ -416,7 +416,7 @@ Said with reasoned argument
 
   
 
-For those inclined to lesser paths.
+For those inclined to lesser paths.  ^1-20
 
   
 
@@ -436,7 +436,7 @@ The aching heads of other beings,
 
   
 
-Such merit knows no bounds.
+Such merit knows no bounds.  ^1-21
 
   
 
@@ -456,7 +456,7 @@ Of each and every living being,
 
   
 
-Bringing them unbounded excellence.
+Bringing them unbounded excellence.  ^1-22
 
   
 
@@ -476,7 +476,7 @@ Do the very gods, the ṛiṣhis,33 even Brahmā34
 
   
 
-Harbor such benevolence as this?
+Harbor such benevolence as this?  ^1-23
 
   
 
@@ -496,7 +496,7 @@ Wished something like this even for themselves.
 
   
 
-How could they do so for another’s sake?
+How could they do so for another’s sake?  ^1-24
 
   
 
@@ -516,7 +516,7 @@ This noble, jewellike state of mind
 
   
 
-Arises truly wondrous, never seen before.
+Arises truly wondrous, never seen before.  ^1-25
 
   
 
@@ -536,7 +536,7 @@ This precious attitude, this jewel of mind—
 
   
 
-How shall we calculate its merit?
+How shall we calculate its merit?  ^1-26
 
   
 
@@ -556,7 +556,7 @@ What need is there to speak of actual deeds
 
   
 
-That bring about the weal and benefit of beings?
+That bring about the weal and benefit of beings?  ^1-27
 
   
 
@@ -576,7 +576,7 @@ They long for joy, but in their ignorance
 
   
 
-Destroy it, as they would their foe.
+Destroy it, as they would their foe.  ^1-28
 
   
 
@@ -596,7 +596,7 @@ Who cut all pain and suffering away
 
   
 
-From those weighed down with misery,
+From those weighed down with misery,  ^1-29
 
   
 
@@ -616,7 +616,7 @@ What friend could be compared to them?
 
   
 
-What merit is there similar to this?
+What merit is there similar to this?  ^1-30
 
   
 
@@ -636,7 +636,7 @@ Why need we speak of Bodhisattvas,
 
   
 
-Those who do good even unsolicited?
+Those who do good even unsolicited?  ^1-31
 
   
 
@@ -656,7 +656,7 @@ A few with plain and ordinary food:
 
   
 
-A moment’s gift that feeds for only half a day.
+A moment’s gift that feeds for only half a day.  ^1-32
 
   
 
@@ -676,7 +676,7 @@ The peerless joy of blissful Buddhahood,
 
   
 
-The ultimate fulfillment of their hopes?
+The ultimate fulfillment of their hopes?  ^1-33
 
   
 
@@ -696,7 +696,7 @@ Will stay in hell, the mighty Sage has said,
 
   
 
-For ages equal to the moments of their malice.
+For ages equal to the moments of their malice.  ^1-34
 
   
 
@@ -716,7 +716,7 @@ Even in great trouble, Bodhisattvas
 
   
 
-Never bring forth wrong; their virtues naturally increase.
+Never bring forth wrong; their virtues naturally increase.  ^1-35
 
   
 
@@ -736,7 +736,7 @@ I go for refuge to those springs of happiness
 
   
 
-Who bring their very enemies to perfect bliss.
+Who bring their very enemies to perfect bliss.  ^1-36
 
   
   
@@ -768,7 +768,7 @@ And to the Buddha’s offspring, oceans of good qualities,
 
   
 
-That I might gain this precious attitude, I make a perfect offering.36
+That I might gain this precious attitude, I make a perfect offering.36  ^2-1
 
   
 
@@ -788,7 +788,7 @@ And all the precious gems the world contains,
 
   
 
-With all pure waters of refreshment;
+With all pure waters of refreshment;  ^2-2
 
   
 
@@ -808,7 +808,7 @@ The trees of paradise adorned with blossom,
 
   
 
-Trees with branches bowed with perfect fruit;
+Trees with branches bowed with perfect fruit;  ^2-3
 
   
 
@@ -828,7 +828,7 @@ All crops that grow without the tiller’s care,
 
   
 
-And every sumptuous object worthy to be offered;
+And every sumptuous object worthy to be offered;  ^2-4
 
   
 
@@ -848,7 +848,7 @@ And everything unclaimed and free
 
   
 
-Extending to the margins of the boundless sky.
+Extending to the margins of the boundless sky.  ^2-5
 
   
 
@@ -868,7 +868,7 @@ Sublime recipients, compassionate lords,
 
   
 
-O think of me with love; accept these gifts of mine!
+O think of me with love; accept these gifts of mine!  ^2-6
 
   
 
@@ -888,7 +888,7 @@ You whose wise intentions are for others’ good,
 
   
 
-In your great power, receive them for my sake.
+In your great power, receive them for my sake.  ^2-7
 
   
 
@@ -908,7 +908,7 @@ Supreme courageous ones accept me totally.
 
   
 
-For with devotion I will be your slave.
+For with devotion I will be your slave.  ^2-8
 
   
 
@@ -928,7 +928,7 @@ I’ll leave behind the evils of my past,
 
   
 
-And ever after turn my face from them.
+And ever after turn my face from them.  ^2-9
 
   
 
@@ -948,7 +948,7 @@ And graceful pillars shimmering with gems,
 
   
 
-All hung about with gleaming canopies of pearls—
+All hung about with gleaming canopies of pearls—  ^2-10
 
   
 
@@ -968,7 +968,7 @@ Abrim with water fragrant and delightful,
 
   
 
-All to frequent strains of melody and song.
+All to frequent strains of melody and song.  ^2-11
 
   
 
@@ -988,7 +988,7 @@ And offer splendid scented clothes,
 
   
 
-Well-dyed and of surpassing excellence.
+Well-dyed and of surpassing excellence.  ^2-12
 
   
 
@@ -1008,7 +1008,7 @@ I will grace sublime Samantabhadra,37
 
   
 
-Mañjughoṣha, Lokeshvara, and their kin.
+Mañjughoṣha, Lokeshvara, and their kin.  ^2-13
 
   
 
@@ -1028,7 +1028,7 @@ I will anoint the bodies of the mighty Sages,
 
   
 
-Gleaming bright like burnished gold refined and cleansed.
+Gleaming bright like burnished gold refined and cleansed.  ^2-14
 
   
 
@@ -1048,7 +1048,7 @@ The utpala, and other fragrant blossoms,
 
   
 
-Worked and twined in lovely scented garlands.
+Worked and twined in lovely scented garlands.  ^2-15
 
   
 
@@ -1068,7 +1068,7 @@ And various foods and every kind of drink,
 
   
 
-All delicacies worthy of the gods.
+All delicacies worthy of the gods.  ^2-16
 
   
 
@@ -1088,7 +1088,7 @@ A carpet of sweet flowers scattering
 
   
 
-Upon the level, incense-sprinkled ground.
+Upon the level, incense-sprinkled ground.  ^2-17
 
   
 
@@ -1108,7 +1108,7 @@ All decked with precious pearls and beauteous pendant gems,
 
   
 
-Gleaming jewels that deck the amplitude of space.
+Gleaming jewels that deck the amplitude of space.  ^2-18
 
   
 
@@ -1128,7 +1128,7 @@ Upright, well-proportioned, pleasing to the eye,
 
   
 
-Again, all this I give to all the Buddhas.
+Again, all this I give to all the Buddhas.  ^2-19
 
   
 
@@ -1148,7 +1148,7 @@ That solaces the pain of living beings
 
   
 
-Arise and constantly abide.
+Arise and constantly abide.  ^2-20
 
   
 
@@ -1168,7 +1168,7 @@ Upon the Jewels of Sacred Dharma,38
 
   
 
-Images and all supports for offering.
+Images and all supports for offering.  ^2-21
 
   
 
@@ -1188,7 +1188,7 @@ I do likewise to all the Buddhas our protectors,
 
   
 
-And to all their Bodhisattva children.
+And to all their Bodhisattva children.  ^2-22
 
   
 
@@ -1208,7 +1208,7 @@ May clouds of tuneful eulogy
 
   
 
-Ascend unceasingly before them.
+Ascend unceasingly before them.  ^2-23
 
   
 
@@ -1228,7 +1228,7 @@ With bodies many as the grains of dust
 
   
 
-Upon the earth, I will prostrate and bow.39
+Upon the earth, I will prostrate and bow.39  ^2-24
 
   
 
@@ -1248,7 +1248,7 @@ To abbots who transmit the vows, to every learned master,
 
   
 
-And to all sublime practitioners of Dharma.
+And to all sublime practitioners of Dharma.  ^2-25
 
   
 
@@ -1268,7 +1268,7 @@ Also I take refuge in the Dharma
 
   
 
-And in all the host of Bodhisattvas.
+And in all the host of Bodhisattvas.  ^2-26
 
   
 
@@ -1288,7 +1288,7 @@ To them who are the sovereigns of great mercy,
 
   
 
-I press my palms together, praying thus:
+I press my palms together, praying thus:  ^2-27
 
   
 
@@ -1308,7 +1308,7 @@ Blindly I have brought forth evil,
 
   
 
-And incited others to commit the same.
+And incited others to commit the same.  ^2-28
 
   
 
@@ -1328,7 +1328,7 @@ And seeing now the blame of it,
 
   
 
-O great protectors, I confess it earnestly!
+O great protectors, I confess it earnestly!  ^2-29
 
   
 
@@ -1348,7 +1348,7 @@ Through force of my defilements,
 
   
 
-In my body, speech, and mind,
+In my body, speech, and mind,  ^2-30
 
   
 
@@ -1368,7 +1368,7 @@ The frightful things that I contrived
 
   
 
-I openly declare to you, the teachers of the world.
+I openly declare to you, the teachers of the world.  ^2-31
 
   
 
@@ -1388,7 +1388,7 @@ How then can I be freed from it?
 
   
 
-I pray you, quickly grant me your protection!”
+I pray you, quickly grant me your protection!”  ^2-32
 
   
 
@@ -1408,7 +1408,7 @@ In health or sickness, therefore, none of us can trust
 
   
 
-Our fleeting, momentary lives.
+Our fleeting, momentary lives.  ^2-33
 
   
 
@@ -1428,7 +1428,7 @@ Have, for sake of friend and foe alike,
 
   
 
-Provoked and brought about so many wrongs.
+Provoked and brought about so many wrongs.  ^2-34
 
   
 
@@ -1448,7 +1448,7 @@ And I will also cease to be,
 
   
 
-And likewise everything will cease to be.
+And likewise everything will cease to be.  ^2-35
 
   
 
@@ -1468,7 +1468,7 @@ It fades into the realms of memory,
 
   
 
-And fading, will be seen no more.
+And fading, will be seen no more.  ^2-36
 
   
 
@@ -1488,7 +1488,7 @@ Because of whom, the evils I have done
 
   
 
-Still lie, unbearable, before me.
+Still lie, unbearable, before me.  ^2-37
 
   
 
@@ -1508,7 +1508,7 @@ And so, through hatred, lust, and ignorance,
 
   
 
-I have committed many sins.
+I have committed many sins.  ^2-38
 
   
 
@@ -1528,7 +1528,7 @@ And from no other source does increase come.
 
   
 
-How can there not be death for such as me?
+How can there not be death for such as me?  ^2-39
 
   
 
@@ -1548,7 +1548,7 @@ But I alone shall be the one to feel
 
   
 
-The cutting of the thread of life.
+The cutting of the thread of life.  ^2-40
 
   
 
@@ -1568,7 +1568,7 @@ For then life’s virtue is my one defense,
 
   
 
-And this, alas, is what I shrugged away.
+And this, alas, is what I shrugged away.  ^2-41
 
   
 
@@ -1588,7 +1588,7 @@ And all for this brief, transient existence,
 
   
 
-I have done so many evil things.
+I have done so many evil things.  ^2-42
 
   
 
@@ -1608,7 +1608,7 @@ A man is changed, transfigured by his fear:
 
   
 
-His mouth is dry, his eyes start from his brow.
+His mouth is dry, his eyes start from his brow.  ^2-43
 
   
 
@@ -1628,7 +1628,7 @@ I’m seized by forms so horrible to see,
 
   
 
-The frightful servants of the Lord of Death.
+The frightful servants of the Lord of Death.  ^2-44
 
   
 
@@ -1648,7 +1648,7 @@ And then I’ll search the four directions,
 
   
 
-Seeking help, with panic-stricken eyes.
+Seeking help, with panic-stricken eyes.  ^2-45
 
   
 
@@ -1668,7 +1668,7 @@ No refuge will there be for me;
 
   
 
-At such a time, what shall I do?
+At such a time, what shall I do?  ^2-46
 
   
 
@@ -1688,7 +1688,7 @@ Who labor to protect all wanderers,
 
   
 
-Those mighty ones who scatter every fear.
+Those mighty ones who scatter every fear.  ^2-47
 
   
 
@@ -1708,7 +1708,7 @@ And in all the host of Bodhisattvas
 
   
 
-Likewise I will perfectly take refuge.
+Likewise I will perfectly take refuge.  ^2-48
 
   
 
@@ -1728,7 +1728,7 @@ My body I myself will give
 
   
 
-To Mañjughoṣha, gentle and melodious.
+To Mañjughoṣha, gentle and melodious.  ^2-49
 
   
 
@@ -1748,7 +1748,7 @@ I cry out from depths of misery,
 
   
 
-“Protect me now an evildoer!”
+“Protect me now an evildoer!”  ^2-50
 
   
 
@@ -1768,7 +1768,7 @@ To all protectors, great, compassionate,
 
   
 
-I cry to them in search of refuge.
+I cry to them in search of refuge.  ^2-51
 
   
 
@@ -1788,7 +1788,7 @@ All vengeful things like Yama’s host
 
   
 
-Escape in terror to the four directions.
+Escape in terror to the four directions.  ^2-52
 
   
 
@@ -1808,7 +1808,7 @@ I come to you for refuge praying:
 
   
 
-Swiftly drive away my fear!
+Swiftly drive away my fear!  ^2-53
 
   
 
@@ -1828,7 +1828,7 @@ What need to speak of when I’m constantly brought low
 
   
 
-By ills like lust and faults a hundredfold?
+By ills like lust and faults a hundredfold?  ^2-54
 
   
 
@@ -1848,7 +1848,7 @@ And if no other remedy exists,
 
   
 
-No other healing elsewhere to be found
+No other healing elsewhere to be found  ^2-55
 
   
 
@@ -1868,7 +1868,7 @@ The thought to turn on him deaf ears
 
   
 
-Is abject and contemptible stupidity.
+Is abject and contemptible stupidity.  ^2-56
 
   
 
@@ -1888,7 +1888,7 @@ What need to speak of that long-lasting chasm
 
   
 
-Plunging to the depths a thousand leagues?
+Plunging to the depths a thousand leagues?  ^2-57
 
   
 
@@ -1908,7 +1908,7 @@ My dissolution and my hour of death
 
   
 
-Will come to me, of this there is no doubt.
+Will come to me, of this there is no doubt.  ^2-58
 
   
 
@@ -1928,7 +1928,7 @@ It’s certain that I’m going to die,
 
   
 
-So how can I relax, my mind at ease?
+So how can I relax, my mind at ease?  ^2-59
 
   
 
@@ -1948,7 +1948,7 @@ By clinging to what now is here no more,
 
   
 
-My teacher’s precepts I have disobeyed.
+My teacher’s precepts I have disobeyed.  ^2-60
 
   
 
@@ -1968,7 +1968,7 @@ I must set out on strange paths all alone:
 
   
 
-Why make so much of all my friends and foes?43
+Why make so much of all my friends and foes?43  ^2-61
 
   
 
@@ -1988,7 +1988,7 @@ This should be my one concern,
 
   
 
-My only thought both night and day.
+My only thought both night and day.  ^2-62
 
   
 
@@ -2008,7 +2008,7 @@ All actions evil by their nature44
 
   
 
-And transgressions of the precepts,
+And transgressions of the precepts,  ^2-63
 
   
 
@@ -2028,7 +2028,7 @@ And everything I will confess
 
   
 
-Directly in the sight of my protectors.
+Directly in the sight of my protectors.  ^2-64
 
   
 
@@ -2048,7 +2048,7 @@ And all these actions, evil as they are,
 
   
 
-I promise I will never do again.
+I promise I will never do again.  ^2-65
 
   
   
@@ -2080,7 +2080,7 @@ Exulting in the happy states enjoyed
 
   
 
-By those who yet are suffering.46
+By those who yet are suffering.46  ^3-1
 
   
 
@@ -2100,7 +2100,7 @@ And celebrate the freedom won
 
   
 
-By living beings from the round of pain.
+By living beings from the round of pain.  ^3-2
 
   
 
@@ -2112,7 +2112,7 @@ And in the Buddhahood of the protectors I delight
 
   
 
-And in the grounds of realization47 of the Buddhas’ heirs.
+And in the grounds of realization47 of the Buddhas’ heirs.  ^3-3
 
   
 
@@ -2132,7 +2132,7 @@ And every action for the benefit of beings:
 
   
 
-Such is my delight and joy.
+Such is my delight and joy.  ^3-4
 
   
 
@@ -2152,7 +2152,7 @@ Kindle now the Dharma’s light
 
   
 
-For those who grope, bewildered, in the dark of pain!
+For those who grope, bewildered, in the dark of pain!  ^3-5
 
   
 
@@ -2172,7 +2172,7 @@ Do not leave us wandering in blindness,
 
   
 
-Stay among us for unnumbered ages!
+Stay among us for unnumbered ages!  ^3-6
 
   
 
@@ -2192,7 +2192,7 @@ May all the pain of every living being
 
   
 
-Be wholly scattered and destroyed!
+Be wholly scattered and destroyed!  ^3-7
 
   
 
@@ -2212,7 +2212,7 @@ May I myself become for them
 
   
 
-The doctor, nurse, the medicine itself.
+The doctor, nurse, the medicine itself.  ^3-8
 
   
 
@@ -2232,7 +2232,7 @@ And in the aeons marked by scarcity and want,49
 
   
 
-May I myself appear as drink and sustenance.
+May I myself appear as drink and sustenance.  ^3-9
 
   
 
@@ -2252,7 +2252,7 @@ And lie before them closely in their reach,
 
   
 
-A varied source of all that they might need.
+A varied source of all that they might need.  ^3-10
 
   
 
@@ -2272,7 +2272,7 @@ I give them all and do not count the cost,
 
   
 
-To bring about the benefit of beings.
+To bring about the benefit of beings.  ^3-11
 
   
 
@@ -2292,7 +2292,7 @@ And all must be surrendered in a single instant,
 
   
 
-Therefore it is best to give it all to others.
+Therefore it is best to give it all to others.  ^3-12
 
   
 
@@ -2312,7 +2312,7 @@ Let them ever kill, despise, and beat it,
 
   
 
-Using it according to their wish.
+Using it according to their wish.  ^3-13
 
   
 
@@ -2332,7 +2332,7 @@ My body has been given up to them.
 
   
 
-Why should I make so much of it?
+Why should I make so much of it?  ^3-14
 
   
 
@@ -2352,7 +2352,7 @@ Whenever they may think of me,
 
   
 
-Let this not fail to bring them benefit.
+Let this not fail to bring them benefit.  ^3-15
 
   
 
@@ -2372,7 +2372,7 @@ May these states always be the cause
 
   
 
-Whereby their good and wishes are fulfilled.
+Whereby their good and wishes are fulfilled.  ^3-16
 
   
 
@@ -2392,7 +2392,7 @@ Even if they blame or slander me,
 
   
 
-May they attain the fortune of enlightenment!
+May they attain the fortune of enlightenment!  ^3-17
 
   
 
@@ -2412,7 +2412,7 @@ For those who wish to cross the water,
 
   
 
-May I be a boat, a raft, a bridge.
+May I be a boat, a raft, a bridge.  ^3-18
 
   
 
@@ -2432,7 +2432,7 @@ For all who need a resting place, a bed;
 
   
 
-For those who need a servant, may I be their slave.
+For those who need a servant, may I be their slave.  ^3-19
 
   
 
@@ -2452,7 +2452,7 @@ May I be the tree of miracles,
 
   
 
-For every being the abundant cow.
+For every being the abundant cow.  ^3-20
 
   
 
@@ -2472,7 +2472,7 @@ For boundless multitudes of beings
 
   
 
-May I always be the ground of life, the source of varied sustenance.
+May I always be the ground of life, the source of varied sustenance.  ^3-21
 
   
 
@@ -2492,7 +2492,7 @@ May I be constantly their source of livelihood
 
   
 
-Until they pass beyond all sorrow.
+Until they pass beyond all sorrow.  ^3-22
 
   
 
@@ -2512,7 +2512,7 @@ And in the precepts of the Bodhisattvas
 
   
 
-Step-by-step abode and trained,
+Step-by-step abode and trained,  ^3-23
 
   
 
@@ -2532,7 +2532,7 @@ And in those precepts, step-by-step,
 
   
 
-I will abide and train myself.
+I will abide and train myself.  ^3-24
 
   
 
@@ -2552,7 +2552,7 @@ That they may now increase what they have gained,
 
   
 
-Should lift their hearts with praises such as these:
+Should lift their hearts with praises such as these:  ^3-25
 
   
 
@@ -2572,7 +2572,7 @@ Today I take my birth in Buddha’s line,
 
   
 
-And have become the Buddha’s child and heir.
+And have become the Buddha’s child and heir.  ^3-26
 
   
 
@@ -2592,7 +2592,7 @@ And I will do no act to mar
 
   
 
-Or compromise this high and faultless lineage.
+Or compromise this high and faultless lineage.  ^3-27
 
   
 
@@ -2612,7 +2612,7 @@ For so it is, by some strange chance,
 
   
 
-That bodhichitta has been born in me.
+That bodhichitta has been born in me.  ^3-28
 
   
 
@@ -2632,7 +2632,7 @@ The rich unfailing treasure-mine
 
   
 
-To heal the poverty of wanderers.
+To heal the poverty of wanderers.  ^3-29
 
   
 
@@ -2652,7 +2652,7 @@ It is the tree that gives relief
 
   
 
-To those who wander wearily the pathways of existence.
+To those who wander wearily the pathways of existence.  ^3-30
 
   
 
@@ -2672,7 +2672,7 @@ The rising moon of the enlightened mind
 
   
 
-That soothes the sorrows born of the afflictions.
+That soothes the sorrows born of the afflictions.  ^3-31
 
   
 
@@ -2692,7 +2692,7 @@ The creamy butter, rich and full,
 
   
 
-That’s churned from milk of holy teaching.
+That’s churned from milk of holy teaching.  ^3-32
 
   
 
@@ -2712,7 +2712,7 @@ Here before you is the supreme bliss.
 
   
 
-Here, O ceaseless travelers, is your fulfillment!
+Here, O ceaseless travelers, is your fulfillment!  ^3-33
 
   
 
@@ -2732,7 +2732,7 @@ And, till that state is reached, to every earthly joy!
 
   
 
-May gods and demigods and all the rest rejoice!”
+May gods and demigods and all the rest rejoice!”  ^3-34
 
   
   
@@ -2764,7 +2764,7 @@ Should never turn aside from it,
 
   
 
-Strive never to transgress its disciplines.
+Strive never to transgress its disciplines.  ^4-1
 
   
 
@@ -2784,7 +2784,7 @@ Although a promise and a pledge were given,
 
   
 
-It is right to reconsider: Shall I act or not?
+It is right to reconsider: Shall I act or not?  ^4-2
 
   
 
@@ -2804,7 +2804,7 @@ I myself have probed and scrutinized.
 
   
 
-Why should I now procrastinate?
+Why should I now procrastinate?  ^4-3
 
   
 
@@ -2824,7 +2824,7 @@ Then every being will have been betrayed.
 
   
 
-What destiny must lie in store for me?
+What destiny must lie in store for me?  ^4-4
 
   
 
@@ -2844,7 +2844,7 @@ To give a small and paltry thing but then draw back
 
   
 
-Will take rebirth as hungry spirits,
+Will take rebirth as hungry spirits,  ^4-5
 
   
 
@@ -2864,7 +2864,7 @@ Wandering beings to the highest bliss,
 
   
 
-But then deceive and fail them?
+But then deceive and fail them?  ^4-6
 
   
 
@@ -2884,7 +2884,7 @@ Karmic law is inconceivable
 
   
 
-And only understood by the Omniscient.50
+And only understood by the Omniscient.50  ^4-7
 
   
 
@@ -2904,7 +2904,7 @@ For should it ever come to pass,
 
   
 
-The good of every being is thrown down.
+The good of every being is thrown down.  ^4-8
 
   
 
@@ -2924,7 +2924,7 @@ Wanders endlessly in evil states,
 
   
 
-Because the welfare of all beings is reduced.
+Because the welfare of all beings is reduced.  ^4-9
 
   
 
@@ -2944,7 +2944,7 @@ No need to speak of bringing low
 
   
 
-The joy of beings infinite as space itself!
+The joy of beings infinite as space itself!  ^4-10
 
   
 
@@ -2964,7 +2964,7 @@ With the power of bodhichitta back and forth,
 
   
 
-Will long be hindered from the Bodhisattva grounds.
+Will long be hindered from the Bodhisattva grounds.  ^4-11
 
   
 
@@ -2984,7 +2984,7 @@ From this day forth, if I now fail to strive,
 
   
 
-I’ll fall from low to even lower states.
+I’ll fall from low to even lower states.  ^4-12
 
   
 
@@ -3004,7 +3004,7 @@ But I, by virtue of my sins, have failed
 
   
 
-To come within the compass of their healing works.51
+To come within the compass of their healing works.51  ^4-13
 
   
 
@@ -3024,7 +3024,7 @@ And I will suffer pains and bondage,
 
   
 
-Wounds and laceration in the lower realms.
+Wounds and laceration in the lower realms.  ^4-14
 
   
 
@@ -3044,7 +3044,7 @@ An aptitude for good: all these are rare.
 
   
 
-When will they come to me again?
+When will they come to me again?  ^4-15
 
   
 
@@ -3064,7 +3064,7 @@ But this life is fleeting, unreliable,
 
   
 
-My body is like something briefly lent.
+My body is like something briefly lent.  ^4-16
 
   
 
@@ -3084,7 +3084,7 @@ And losing this, my precious human form,
 
   
 
-My evils will be many, virtues none.52
+My evils will be many, virtues none.52  ^4-17
 
   
 
@@ -3104,7 +3104,7 @@ What will be my lot, what shall I do,
 
   
 
-Bewildered by the sorrows of the lower realms?
+Bewildered by the sorrows of the lower realms?  ^4-18
 
   
 
@@ -3124,7 +3124,7 @@ And for a hundred million ages,
 
   
 
-I’ll not even hear of happy destinies.53
+I’ll not even hear of happy destinies.53  ^4-19
 
   
 
@@ -3144,7 +3144,7 @@ Its head within a yoke adrift upon the mighty sea
 
   
 
-This human birth is difficult to find!
+This human birth is difficult to find!  ^4-20
 
   
 
@@ -3164,7 +3164,7 @@ The evils in saṃsāra stored from time without beginning—
 
   
 
-No need to say that they will keep me from the states of bliss!
+No need to say that they will keep me from the states of bliss!  ^4-21
 
   
 
@@ -3184,7 +3184,7 @@ For in the very suffering of such states,
 
   
 
-More evil will occur, and then in great abundance.
+More evil will occur, and then in great abundance.  ^4-22
 
   
 
@@ -3204,7 +3204,7 @@ What greater folly could there ever be?
 
   
 
-How more could I betray myself?
+How more could I betray myself?  ^4-23
 
   
 
@@ -3224,7 +3224,7 @@ Then at the moment of my death,
 
   
 
-My sorrows will be black indeed.
+My sorrows will be black indeed.  ^4-24
 
   
 
@@ -3244,7 +3244,7 @@ My mind, there is no doubt, will also be tormented,
 
   
 
-Burned in fires of unendurable regret.
+Burned in fires of unendurable regret.  ^4-25
 
   
 
@@ -3264,7 +3264,7 @@ If now, while having such discernment,
 
   
 
-I am once again consigned to hell,
+I am once again consigned to hell,  ^4-26
 
   
 
@@ -3284,7 +3284,7 @@ I do not know what dulls my wits.
 
   
 
-O what is it that has me in its grip?
+O what is it that has me in its grip?  ^4-27
 
   
 
@@ -3304,7 +3304,7 @@ They have no bravery, no cleverness;
 
   
 
-How then have they reduced me to such slavery?
+How then have they reduced me to such slavery?  ^4-28
 
   
 
@@ -3324,7 +3324,7 @@ All this I suffer meekly, unresenting—
 
   
 
-Thus my abject patience, all displaced!
+Thus my abject patience, all displaced!  ^4-29
 
   
 
@@ -3344,7 +3344,7 @@ They would be powerless to throw me down
 
   
 
-To fires of hell of Unrelenting Pain.
+To fires of hell of Unrelenting Pain.  ^4-30
 
   
 
@@ -3364,7 +3364,7 @@ To where the mighty lord of mountains54
 
   
 
-Would be burned, its very ashes all consumed.
+Would be burned, its very ashes all consumed.  ^4-31
 
   
 
@@ -3384,7 +3384,7 @@ No other enemy indeed
 
   
 
-Is able to endure so long!
+Is able to endure so long!  ^4-32
 
   
 
@@ -3404,7 +3404,7 @@ But should I serve my dark defiled emotions,
 
   
 
-They will only harm me, draw me down to grief.
+They will only harm me, draw me down to grief.  ^4-33
 
   
 
@@ -3424,7 +3424,7 @@ Can lodge so safe within my heart,
 
   
 
-How can I live so blithe and fearless in this wheel of life?
+How can I live so blithe and fearless in this wheel of life?  ^4-34
 
   
 
@@ -3444,7 +3444,7 @@ All lurk within me in the web of craving,
 
   
 
-What joy can ever be my destiny?
+What joy can ever be my destiny?  ^4-35
 
   
 
@@ -3464,7 +3464,7 @@ For if, aroused to fury by the merest slight,
 
   
 
-Incapable of sleep until the scores are settled,
+Incapable of sleep until the scores are settled,  ^4-36
 
   
 
@@ -3484,7 +3484,7 @@ And careless of the pain of cut and thrust,
 
   
 
-Will stand their ground refusing to give way,
+Will stand their ground refusing to give way,  ^4-37
 
   
 
@@ -3504,7 +3504,7 @@ From this day forth I’ll strive to crush
 
   
 
-These foes whose very nature is to bring me pain.
+These foes whose very nature is to bring me pain.  ^4-38
 
   
 
@@ -3524,7 +3524,7 @@ So in the high endeavor, for so great a thing,
 
   
 
-Why should I be dismayed by hurt or injury?
+Why should I be dismayed by hurt or injury?  ^4-39
 
   
 
@@ -3544,7 +3544,7 @@ Will suffer all the miseries of heat and cold,
 
   
 
-Why, for beings’ happiness, should those like me not bear the same?
+Why, for beings’ happiness, should those like me not bear the same?  ^4-40
 
   
 
@@ -3564,7 +3564,7 @@ Stretching to the limits of the sky,
 
   
 
-I was myself not free from such defilements.
+I was myself not free from such defilements.  ^4-41
 
   
 
@@ -3584,7 +3584,7 @@ More reason then for never drawing back
 
   
 
-Abandoning the fight against defiled affliction.55
+Abandoning the fight against defiled affliction.55  ^4-42
 
   
 
@@ -3604,7 +3604,7 @@ Defilement of this kind will halt defilement
 
   
 
-And for this reason it shall not be spurned.
+And for this reason it shall not be spurned.  ^4-43
 
   
 
@@ -3624,7 +3624,7 @@ Than ever I should serve or reverence
 
   
 
-My mortal enemies, defiled emotions.
+My mortal enemies, defiled emotions.  ^4-44
 
   
 
@@ -3644,7 +3644,7 @@ And muster all their strength the better to return.
 
   
 
-But enemy afflictions are without such stratagems.
+But enemy afflictions are without such stratagems.  ^4-45
 
   
 
@@ -3664,7 +3664,7 @@ Whence would you return to do me harm?
 
   
 
-But oh, my mind is feeble. I am indolent!
+But oh, my mind is feeble. I am indolent!  ^4-46
 
   
 
@@ -3696,7 +3696,7 @@ Banish all your fear and strive to know their nature.
 
   
 
-Why suffer needlessly the pains of hell?
+Why suffer needlessly the pains of hell?  ^4-47
 
   
 
@@ -3716,7 +3716,7 @@ What invalids in need of medicine
 
   
 
-Ignored their doctor’s words and gained their health?
+Ignored their doctor’s words and gained their health?  ^4-48
 
   
   
@@ -3748,7 +3748,7 @@ Without this guard upon the mind,
 
   
 
-The trainings cannot be preserved.
+The trainings cannot be preserved.  ^5-1
 
   
 
@@ -3768,7 +3768,7 @@ No worldly beast, however wild and crazed,
 
   
 
-Could bring upon us such calamities.
+Could bring upon us such calamities.  ^5-2
 
   
 
@@ -3788,7 +3788,7 @@ Our fears will come to nothing,
 
   
 
-Every virtue drop into our hands.
+Every virtue drop into our hands.  ^5-3
 
   
 
@@ -3808,7 +3808,7 @@ Those who guard the prisoners in hell,
 
   
 
-Ghosts and ghouls and every evil wraith,
+Ghosts and ghouls and every evil wraith,  ^5-4
 
   
 
@@ -3828,7 +3828,7 @@ By simple taming of this mind alone,
 
   
 
-All these things are likewise tamed.
+All these things are likewise tamed.  ^5-5
 
   
 
@@ -3848,7 +3848,7 @@ Their source and wellspring is the mind itself,
 
   
 
-As He who spoke the truth declared.
+As He who spoke the truth declared.  ^5-6
 
   
 
@@ -3868,7 +3868,7 @@ Who has forged this burning iron ground;
 
   
 
-Whence have all these demon-women sprung?56
+Whence have all these demon-women sprung?56  ^5-7
 
   
 
@@ -3888,7 +3888,7 @@ Throughout the triple world57 therefore
 
   
 
-There is no greater bane than mind itself.
+There is no greater bane than mind itself.  ^5-8
 
   
 
@@ -3908,7 +3908,7 @@ In what way—since the poor are always with us—
 
   
 
-Have former Buddhas practiced it?
+Have former Buddhas practiced it?  ^5-9
 
   
 
@@ -3928,7 +3928,7 @@ All one owns, together with the fruits of such a gift.
 
   
 
-It is indeed a matter of the mind itself.
+It is indeed a matter of the mind itself.  ^5-10
 
   
 
@@ -3948,7 +3948,7 @@ Deciding to refrain from every harmful act
 
   
 
-Is said to be transcendent discipline.
+Is said to be transcendent discipline.  ^5-11
 
   
 
@@ -3968,7 +3968,7 @@ But let this angry mind alone be overthrown,
 
   
 
-And it’s as though all foes had been subdued.
+And it’s as though all foes had been subdued.  ^5-12
 
   
 
@@ -3988,7 +3988,7 @@ But with the leather soles of just my shoes
 
   
 
-It is as though I cover all the earth!
+It is as though I cover all the earth!  ^5-13
 
   
 
@@ -4008,7 +4008,7 @@ But let me just restrain my mind,
 
   
 
-And what is left to be restrained?
+And what is left to be restrained?  ^5-14
 
   
 
@@ -4028,7 +4028,7 @@ The acts of body and of speech are less—
 
   
 
-They do not generate a like result.
+They do not generate a like result.  ^5-15
 
   
 
@@ -4048,7 +4048,7 @@ If practiced with distracted mind,
 
   
 
-Are futile, so the Knower of Reality has said.
+Are futile, so the Knower of Reality has said.  ^5-16
 
   
 
@@ -4068,7 +4068,7 @@ Although they wish for joy and sorrow’s end,
 
   
 
-Will wander to no purpose, uselessly.
+Will wander to no purpose, uselessly.  ^5-17
 
   
 
@@ -4088,7 +4088,7 @@ What use to me are many disciplines,
 
   
 
-If I can’t guard and discipline my mind?
+If I can’t guard and discipline my mind?  ^5-18
 
   
 
@@ -4108,7 +4108,7 @@ Likewise, when in evil company,
 
   
 
-This wound, my mind, I’ll constantly protect.
+This wound, my mind, I’ll constantly protect.  ^5-19
 
   
 
@@ -4128,7 +4128,7 @@ Why should I not protect the wound that is my mind,
 
   
 
-For fear of being crushed beneath the cliffs of hell?58
+For fear of being crushed beneath the cliffs of hell?58  ^5-20
 
   
 
@@ -4148,7 +4148,7 @@ Or even with fair women, all is well.
 
   
 
-My steady keeping of the vows will not decline.
+My steady keeping of the vows will not decline.  ^5-21
 
   
 
@@ -4168,7 +4168,7 @@ And even other virtues may decline,
 
   
 
-But never will I let my mind regress.
+But never will I let my mind regress.  ^5-22
 
   
 
@@ -4188,7 +4188,7 @@ Guard them both, at cost of life and limb,
 
   
 
-I join my hands, beseeching you.
+I join my hands, beseeching you.  ^5-23
 
   
 
@@ -4208,7 +4208,7 @@ The mind, when likewise cramped by ignorance,
 
   
 
-Is impotent and cannot do its work.
+Is impotent and cannot do its work.  ^5-24
 
   
 
@@ -4228,7 +4228,7 @@ Like water seeping from a leaking jar,
 
   
 
-Their learning will not settle in their memories.
+Their learning will not settle in their memories.  ^5-25
 
   
 
@@ -4248,7 +4248,7 @@ But through the fault of lacking introspection,
 
   
 
-They will not escape the stain of sin and downfall.
+They will not escape the stain of sin and downfall.  ^5-26
 
   
 
@@ -4268,7 +4268,7 @@ And all the merit we have gathered in
 
   
 
-It steals; and down we go to lower realms.
+It steals; and down we go to lower realms.  ^5-27
 
   
 
@@ -4288,7 +4288,7 @@ They steal our virtue, when their moment comes,
 
   
 
-And batter out the lives of happy destinies.
+And batter out the lives of happy destinies.  ^5-28
 
   
 
@@ -4308,7 +4308,7 @@ And if it wanders, it shall be recalled
 
   
 
-By thoughts of anguish in the lower worlds.
+By thoughts of anguish in the lower worlds.  ^5-29
 
   
 
@@ -4328,7 +4328,7 @@ In those endowed with fortune and devotion
 
   
 
-Mindfulness is cultivated easily.
+Mindfulness is cultivated easily.  ^5-30
 
   
 
@@ -4348,7 +4348,7 @@ All lies open to their gaze,
 
   
 
-And likewise I am always in their presence.”
+And likewise I am always in their presence.”  ^5-31
 
   
 
@@ -4368,7 +4368,7 @@ For such a one, the memory of Buddha
 
   
 
-Rises frequently before the mind.
+Rises frequently before the mind.  ^5-32
 
   
 
@@ -4388,7 +4388,7 @@ Introspection will be likewise there,
 
   
 
-Returning when forgotten or dispersed.
+Returning when forgotten or dispersed.  ^5-33
 
   
 
@@ -4408,7 +4408,7 @@ I shall be still and self-possessed,
 
   
 
-Unmoving like a piece of wood.
+Unmoving like a piece of wood.  ^5-34
 
   
 
@@ -4428,7 +4428,7 @@ But rather with a focused mind
 
   
 
-Will always go with eyes cast down.
+Will always go with eyes cast down.  ^5-35
 
   
 
@@ -4448,7 +4448,7 @@ And if there are some people standing in my sight,
 
   
 
-I’ll look at them and greet them with a friendly word.
+I’ll look at them and greet them with a friendly word.  ^5-36
 
   
 
@@ -4468,7 +4468,7 @@ And when I stop to rest, I’ll turn around
 
   
 
-And look behind me, back along my way.
+And look behind me, back along my way.  ^5-37
 
   
 
@@ -4488,7 +4488,7 @@ In every time and place therefore
 
   
 
-I’ll know my needs and act accordingly.
+I’ll know my needs and act accordingly.  ^5-38
 
   
 
@@ -4508,7 +4508,7 @@ From time to time I’ll verify
 
   
 
-Inquiring how my body is disposed.
+Inquiring how my body is disposed.  ^5-39
 
   
 
@@ -4528,7 +4528,7 @@ Must now be watched with all my strength
 
   
 
-That it might never slip away.
+That it might never slip away.  ^5-40
 
   
 
@@ -4548,7 +4548,7 @@ They should always watch their minds, inquiring,
 
   
 
-“Where is now my mind engaged?”
+“Where is now my mind engaged?”  ^5-41
 
   
 
@@ -4568,7 +4568,7 @@ For it is taught that rules of discipline
 
   
 
-May be relaxed in times of generosity.59
+May be relaxed in times of generosity.59  ^5-42
 
   
 
@@ -4588,7 +4588,7 @@ With thoughts fixed on the chosen target,
 
   
 
-That and that alone should be pursued.
+That and that alone should be pursued.  ^5-43
 
   
 
@@ -4608,7 +4608,7 @@ If thus we act, the secondary defilement,
 
   
 
-Lack of introspection, will not grow.
+Lack of introspection, will not grow.  ^5-44
 
   
 
@@ -4628,7 +4628,7 @@ And curious sights, the like of which abound—
 
   
 
-Be rid of all delight and taste for them.
+Be rid of all delight and taste for them.  ^5-45
 
   
 
@@ -4648,7 +4648,7 @@ Remembering the precepts of the Blissful One,
 
   
 
-In fear, restrain yourself at once.
+In fear, restrain yourself at once.  ^5-46
 
   
 
@@ -4668,7 +4668,7 @@ First examine what is in your mind.
 
   
 
-For steadfast ones should act correctly.
+For steadfast ones should act correctly.  ^5-47
 
   
 
@@ -4688,7 +4688,7 @@ Do not act! Be silent, do not speak!
 
   
 
-And like a log of wood be sure to stay.
+And like a log of wood be sure to stay.  ^5-48
 
   
 
@@ -4708,7 +4708,7 @@ Or when you would expose another’s secret guilt,
 
   
 
-To bring up old dissensions or to act deceitfully,
+To bring up old dissensions or to act deceitfully,  ^5-49
 
   
 
@@ -4728,7 +4728,7 @@ Or use harsh language, sparring for a fight,
 
   
 
-It’s then that like a log you should remain.
+It’s then that like a log you should remain.  ^5-50
 
   
 
@@ -4748,7 +4748,7 @@ And when you look for honors, recognition,
 
   
 
-It’s then that like a log you should remain.
+It’s then that like a log you should remain.  ^5-51
 
   
 
@@ -4768,7 +4768,7 @@ And when you feel the urge to speak,
 
   
 
-It’s then that like a log you should remain.
+It’s then that like a log you should remain.  ^5-52
 
   
 
@@ -4788,7 +4788,7 @@ Attachment to your side—when these arise,
 
   
 
-It’s then that like a log you should remain.
+It’s then that like a log you should remain.  ^5-53
 
   
 
@@ -4808,7 +4808,7 @@ For thus the heroes on the Bodhisattva path
 
   
 
-Seize firmly on such faults with proper remedies.
+Seize firmly on such faults with proper remedies.  ^5-54
 
   
 
@@ -4828,7 +4828,7 @@ With conscientiousness and awe,
 
   
 
-Work calmly for the happiness of others.
+Work calmly for the happiness of others.  ^5-55
 
   
 
@@ -4848,7 +4848,7 @@ Their thoughts are bred from conflict and emotion.
 
   
 
-Let us understand and treat them lovingly.
+Let us understand and treat them lovingly.  ^5-56
 
   
 
@@ -4868,7 +4868,7 @@ Let us always bear in mind the thought
 
   
 
-That we are self-less, like an apparition.
+That we are self-less, like an apparition.  ^5-57
 
   
 
@@ -4888,7 +4888,7 @@ Reflecting always thus, maintain your mind
 
   
 
-As steady as Sumeru, king of mountains.
+As steady as Sumeru, king of mountains.  ^5-58
 
   
 
@@ -4908,7 +4908,7 @@ Are tugging at this body all around,
 
   
 
-Why are you so besotted with it now?
+Why are you so besotted with it now?  ^5-59
 
   
 
@@ -4928,7 +4928,7 @@ You and it are each a separate entity;
 
   
 
-How ever can it be of use to you?
+How ever can it be of use to you?  ^5-60
 
   
 
@@ -4948,7 +4948,7 @@ How is it fit to guard
 
   
 
-An unclean engine for the making of impurity?
+An unclean engine for the making of impurity?  ^5-61
 
   
 
@@ -4968,7 +4968,7 @@ And with the blade of wisdom, strip
 
   
 
-The flesh from off the bony frame.
+The flesh from off the bony frame.  ^5-62
 
   
 
@@ -4988,7 +4988,7 @@ You yourself should ask the question:
 
   
 
-Where is the essential core?
+Where is the essential core?  ^5-63
 
   
 
@@ -5008,7 +5008,7 @@ Why do you protect with such desire
 
   
 
-The body that you now possess?
+The body that you now possess?  ^5-64
 
   
 
@@ -5028,7 +5028,7 @@ Its innards, too, unsuitable to suck—
 
   
 
-This body, what then will you make of it?
+This body, what then will you make of it?  ^5-65
 
   
 
@@ -5048,7 +5048,7 @@ The value of this human form
 
   
 
-Lies only in the use you make of it.
+Lies only in the use you make of it.  ^5-66
 
   
 
@@ -5068,7 +5068,7 @@ The ruthless Lord of Death
 
   
 
-Will seize and throw it to the dogs and birds?
+Will seize and throw it to the dogs and birds?  ^5-67
 
   
 
@@ -5088,7 +5088,7 @@ Why do you sustain with such great pains
 
   
 
-This body, which, though nourished, will abandon you?
+This body, which, though nourished, will abandon you?  ^5-68
 
   
 
@@ -5108,7 +5108,7 @@ But do not lavish everything
 
   
 
-On what will not bring perfect benefit.
+On what will not bring perfect benefit.  ^5-69
 
   
 
@@ -5128,7 +5128,7 @@ Make of it a thing that answers every wish
 
   
 
-To bring about the benefit of beings.
+To bring about the benefit of beings.  ^5-70
 
   
 
@@ -5148,7 +5148,7 @@ Rid yourself of scowling, wrathful frowns,
 
   
 
-And be a true and honest friend to all.
+And be a true and honest friend to all.  ^5-71
 
   
 
@@ -5168,7 +5168,7 @@ Likewise do not open doors with violence.
 
   
 
-Take pleasure in the practice of humility.
+Take pleasure in the practice of humility.  ^5-72
 
   
 
@@ -5188,7 +5188,7 @@ By going silently and unobserved.
 
   
 
-Such is the constant practice of a sage.
+Such is the constant practice of a sage.  ^5-73
 
   
 
@@ -5208,7 +5208,7 @@ Welcome them with humble gratitude,
 
   
 
-And always strive to learn from everyone.
+And always strive to learn from everyone.  ^5-74
 
   
 
@@ -5228,7 +5228,7 @@ And when you notice others acting well,
 
   
 
-Encourage them in terms of warm approval.
+Encourage them in terms of warm approval.  ^5-75
 
   
 
@@ -5248,7 +5248,7 @@ But when the qualities they praise are yours,
 
   
 
-Reflect upon their skill in recognizing qualities.
+Reflect upon their skill in recognizing qualities.  ^5-76
 
   
 
@@ -5268,7 +5268,7 @@ So take your pleasure in the excellence of others.
 
   
 
-Let them be a heartfelt joy to you.
+Let them be a heartfelt joy to you.  ^5-77
 
   
 
@@ -5288,7 +5288,7 @@ Wrongdoing brings not joy but pain,
 
   
 
-And in the future dreadful torment.
+And in the future dreadful torment.  ^5-78
 
   
 
@@ -5308,7 +5308,7 @@ Rid yourself of craving and aversion;
 
   
 
-Speak gently with moderation.
+Speak gently with moderation.  ^5-79
 
   
 
@@ -5328,7 +5328,7 @@ That you will come to Buddhahood.
 
   
 
-So look on them with frank and loving hearts.
+So look on them with frank and loving hearts.  ^5-80
 
   
 
@@ -5348,7 +5348,7 @@ You will reap great virtues in the field of excellence
 
   
 
-And in the fields of benefits and sorrow.61
+And in the fields of benefits and sorrow.61  ^5-81
 
   
 
@@ -5368,7 +5368,7 @@ And in whatever actions you perform,
 
   
 
-You should not be dependent on another.
+You should not be dependent on another.  ^5-82
 
   
 
@@ -5388,7 +5388,7 @@ The great should never be abandoned for the less,
 
   
 
-And others’ good should be regarded as supreme.
+And others’ good should be regarded as supreme.  ^5-83
 
   
 
@@ -5408,7 +5408,7 @@ The Compassionate One farsightedly permits,
 
   
 
-To this end, even what has been proscribed.63
+To this end, even what has been proscribed.63  ^5-84
 
   
 
@@ -5428,7 +5428,7 @@ With those who are defenseless or have fallen into evil states.
 
   
 
-Give everything except the three robes of religion.
+Give everything except the three robes of religion.  ^5-85
 
   
 
@@ -5448,7 +5448,7 @@ By acting thus the wishes of all beings
 
   
 
-Will swiftly and completely be attained.
+Will swiftly and completely be attained.  ^5-86
 
   
 
@@ -5468,7 +5468,7 @@ But let them be surrendered when, both now and in their futures lives,
 
   
 
-Great benefit is thereby gained.
+Great benefit is thereby gained.  ^5-87
 
   
 
@@ -5488,7 +5488,7 @@ To those who carry weapons, staffs, or parasols,
 
   
 
-To those who are with covered heads.
+To those who are with covered heads.  ^5-88
 
   
 
@@ -5508,7 +5508,7 @@ And every Dharma, high or low,65
 
   
 
-Expound with equal reverence.
+Expound with equal reverence.  ^5-89
 
   
 
@@ -5528,7 +5528,7 @@ The rules of conduct you should not neglect
 
   
 
-Nor lead astray with talk of sūtras and of mantras.66
+Nor lead astray with talk of sūtras and of mantras.66  ^5-90
 
   
 
@@ -5548,7 +5548,7 @@ And it is wrong to foul with urine and with other filth
 
   
 
-The fields and water fit for public use.
+The fields and water fit for public use.  ^5-91
 
   
 
@@ -5568,7 +5568,7 @@ And do not sit with legs outstretched,
 
   
 
-Nor coarsely rub your hands together.
+Nor coarsely rub your hands together.  ^5-92
 
   
 
@@ -5588,7 +5588,7 @@ And all that you have seen, or have been told,
 
   
 
-To be a cause of scandal—that you should avoid.
+To be a cause of scandal—that you should avoid.  ^5-93
 
   
 
@@ -5608,7 +5608,7 @@ With the whole right hand outstretched—
 
   
 
-This is how to indicate the road.
+This is how to indicate the road.  ^5-94
 
   
 
@@ -5628,7 +5628,7 @@ With gentle sounds and finger snaps.69
 
   
 
-For acting otherwise is impolite excess.
+For acting otherwise is impolite excess.  ^5-95
 
   
 
@@ -5648,7 +5648,7 @@ And first with vigilance decide
 
   
 
-That you’ll be quick to rise again.
+That you’ll be quick to rise again.  ^5-96
 
   
 
@@ -5668,7 +5668,7 @@ Of these, until the goal is won,
 
   
 
-Embrace the practices that purify your mind.
+Embrace the practices that purify your mind.  ^5-97
 
   
 
@@ -5688,7 +5688,7 @@ Relying on the Buddhas and the Bodhisattvas,
 
   
 
-Purify the rest of your transgressions.
+Purify the rest of your transgressions.  ^5-98
 
   
 
@@ -5708,7 +5708,7 @@ Implement with diligence
 
   
 
-The teachings given for that situation.
+The teachings given for that situation.  ^5-99
 
   
 
@@ -5728,7 +5728,7 @@ For those who are well-versed in all these ways,
 
   
 
-There is no action destitute of merit.
+There is no action destitute of merit.  ^5-100
 
   
 
@@ -5748,7 +5748,7 @@ And solely for their welfare dedicate
 
   
 
-Your every action to the gaining of enlightenment.
+Your every action to the gaining of enlightenment.  ^5-101
 
   
 
@@ -5768,7 +5768,7 @@ Learned in the doctrine of the Mahāyāna,
 
   
 
-Supreme in Bodhisattva discipline.
+Supreme in Bodhisattva discipline.  ^5-102
 
   
 
@@ -5788,7 +5788,7 @@ This and other teachings of the Buddha
 
   
 
-You should understand by reading in the sūtras.
+You should understand by reading in the sūtras.  ^5-103
 
   
 
@@ -5808,7 +5808,7 @@ The Sūtra of the Essence of the Sky72
 
   
 
-Is the text that should be studied first.
+Is the text that should be studied first.  ^5-104
 
   
 
@@ -5828,7 +5828,7 @@ Within the Digest of All Disciplines,73
 
   
 
-So this is something you should read repeatedly.
+So this is something you should read repeatedly.  ^5-105
 
   
 
@@ -5848,7 +5848,7 @@ And those two works peruse with diligence
 
   
 
-That noble Nāgārjuna has composed.
+That noble Nāgārjuna has composed.  ^5-106
 
   
 
@@ -5868,7 +5868,7 @@ And what you find enjoined there, perfectly fulfill,
 
   
 
-And so protect the minds of worldly beings.
+And so protect the minds of worldly beings.  ^5-107
 
   
 
@@ -5888,7 +5888,7 @@ This alone defines in brief
 
   
 
-The maintenance of watchful introspection.
+The maintenance of watchful introspection.  ^5-108
 
   
 
@@ -5908,7 +5908,7 @@ What invalid was ever helped
 
   
 
-By merely reading in the doctor’s treatises?
+By merely reading in the doctor’s treatises?  ^5-109
 
   
   
@@ -5940,7 +5940,7 @@ And offerings to the Blissful Ones—
 
   
 
-A single flash of anger shatters them.
+A single flash of anger shatters them.  ^6-1
 
   
 
@@ -5960,7 +5960,7 @@ Steep yourself, therefore, in patience,
 
   
 
-In various ways, insistently.
+In various ways, insistently.  ^6-2
 
   
 
@@ -5980,7 +5980,7 @@ Strangers they will be to every pleasure;
 
   
 
-They will neither sleep nor feel secure.
+They will neither sleep nor feel secure.  ^6-3
 
   
 
@@ -6000,7 +6000,7 @@ Will rise against and slay
 
   
 
-A master who is filled with wrath and hate.
+A master who is filled with wrath and hate.  ^6-4
 
   
 
@@ -6020,7 +6020,7 @@ No one is there, all in all,
 
   
 
-Who, being angry, lives at ease.
+Who, being angry, lives at ease.  ^6-5
 
   
 
@@ -6040,7 +6040,7 @@ But those who seize and crush their anger down
 
   
 
-Will find their joy in this and future lives.
+Will find their joy in this and future lives.  ^6-6
 
   
 
@@ -6060,7 +6060,7 @@ In discontent my anger finds its fuel.
 
   
 
-From this it grows and beats me down.
+From this it grows and beats me down.  ^6-7
 
   
 
@@ -6080,7 +6080,7 @@ My foe who has no other purpose
 
   
 
-But to hurt and injure me.
+But to hurt and injure me.  ^6-8
 
   
 
@@ -6100,7 +6100,7 @@ Dejection never brings me what I want;
 
   
 
-My virtue will be warped and marred by it.
+My virtue will be warped and marred by it.  ^6-9
 
   
 
@@ -6120,7 +6120,7 @@ And if there is no help for it,
 
   
 
-What use is there in being glum?
+What use is there in being glum?  ^6-10
 
   
 
@@ -6140,7 +6140,7 @@ Either for ourselves or those we love.
 
   
 
-For those we do not like, it’s the reverse!
+For those we do not like, it’s the reverse!  ^6-11
 
   
 
@@ -6160,7 +6160,7 @@ But if I have no pain, I’ll never long for freedom;
 
   
 
-Therefore, O my mind, be steadfast!
+Therefore, O my mind, be steadfast!  ^6-12
 
   
 
@@ -6180,7 +6180,7 @@ Of being cut and burned.
 
   
 
-So why am I so timid on the path of freedom?
+So why am I so timid on the path of freedom?  ^6-13
 
   
 
@@ -6200,7 +6200,7 @@ Putting up with little cares
 
   
 
-I’ll train myself to bear with great adversity!
+I’ll train myself to bear with great adversity!  ^6-14
 
   
 
@@ -6220,7 +6220,7 @@ Experiences of hunger and of thirst,
 
   
 
-And painful rashes on my skin?
+And painful rashes on my skin?  ^6-15
 
   
 
@@ -6240,7 +6240,7 @@ I’ll not fret about such things.
 
   
 
-To do so only aggravates my trouble.
+To do so only aggravates my trouble.  ^6-16
 
   
 
@@ -6260,7 +6260,7 @@ While some lose all their strength and faint
 
   
 
-When it’s another’s blood they see!
+When it’s another’s blood they see!  ^6-17
 
   
 
@@ -6280,7 +6280,7 @@ And so I’ll scorn all injury,
 
   
 
-And hardships I will disregard!
+And hardships I will disregard!  ^6-18
 
   
 
@@ -6300,7 +6300,7 @@ For in their war against defiled emotion,
 
   
 
-Many are the hardships, as in every battle.
+Many are the hardships, as in every battle.  ^6-19
 
   
 
@@ -6320,7 +6320,7 @@ These are exploits of victorious warriors.
 
   
 
-The rest is slaying what is dead already!
+The rest is slaying what is dead already!  ^6-20
 
   
 
@@ -6340,7 +6340,7 @@ And pity felt for those who wander in saṃsāra;
 
   
 
-Evil is avoided; goodness seems delightful.
+Evil is avoided; goodness seems delightful.  ^6-21
 
   
 
@@ -6360,7 +6360,7 @@ So why should living beings give offence,
 
   
 
-They likewise are impelled by circumstance?76
+They likewise are impelled by circumstance?76  ^6-22
 
   
 
@@ -6380,7 +6380,7 @@ And likewise, though unwanted and unsought,
 
   
 
-Defilements nonetheless insistently arise.
+Defilements nonetheless insistently arise.  ^6-23
 
   
 
@@ -6400,7 +6400,7 @@ Irritation, likewise, comes
 
   
 
-Though never plans to be experienced!
+Though never plans to be experienced!  ^6-24
 
   
 
@@ -6420,7 +6420,7 @@ Are brought about by circumstances:
 
   
 
-None is independent, none autonomous.
+None is independent, none autonomous.  ^6-25
 
   
 
@@ -6440,7 +6440,7 @@ Nor does that which is engendered
 
   
 
-Think that it has been produced.
+Think that it has been produced.  ^6-26
 
   
 
@@ -6460,7 +6460,7 @@ Do not arise designedly,
 
   
 
-And do not think, “I will become.”
+And do not think, “I will become.”  ^6-27
 
   
 
@@ -6480,7 +6480,7 @@ And permanently drawn toward its object,
 
   
 
-It can never cease from being so.77
+It can never cease from being so.77  ^6-28
 
   
 
@@ -6500,7 +6500,7 @@ And should it meet with other factors,
 
   
 
-How could they affect it, since it is unchanging?
+How could they affect it, since it is unchanging?  ^6-29
 
   
 
@@ -6520,7 +6520,7 @@ They say that these are agents of the self,
 
   
 
-But what connection could there be between them?78
+But what connection could there be between them?78  ^6-30
 
   
 
@@ -6540,7 +6540,7 @@ Knowing this, we will not be annoyed
 
   
 
-At things that are like magical appearances.
+At things that are like magical appearances.  ^6-31
 
   
 
@@ -6560,7 +6560,7 @@ The stream of sorrow is cut through by patience;
 
   
 
-There is nothing out of place in our assertion!
+There is nothing out of place in our assertion!  ^6-32
 
   
 
@@ -6580,7 +6580,7 @@ Remain serene and call to mind
 
   
 
-That everything arises from conditions.
+That everything arises from conditions.  ^6-33
 
   
 
@@ -6600,7 +6600,7 @@ To anyone of all embodied beings,
 
   
 
-For none of them wants pain of any kind.
+For none of them wants pain of any kind.  ^6-34
 
   
 
@@ -6620,7 +6620,7 @@ And ardent in pursuit of wives and goods,
 
   
 
-They starve themselves of nourishment.
+They starve themselves of nourishment.  ^6-35
 
   
 
@@ -6640,7 +6640,7 @@ Or by their evil conduct
 
   
 
-Bring destruction on themselves.
+Bring destruction on themselves.  ^6-36
 
   
 
@@ -6660,7 +6660,7 @@ So how can they not be the cause
 
   
 
-Of others’ bodily distress?
+Of others’ bodily distress?  ^6-37
 
   
 
@@ -6680,7 +6680,7 @@ Bring about their own perdition,
 
   
 
-What purpose does our anger serve?
+What purpose does our anger serve?  ^6-38
 
   
 
@@ -6700,7 +6700,7 @@ There’s no reason for our rage;
 
   
 
-It’s like resenting fire for being hot.
+It’s like resenting fire for being hot.  ^6-39
 
   
 
@@ -6720,7 +6720,7 @@ It’s likewise senseless to resent them—
 
   
 
-As well be angry at the sky when it is full of smoke!
+As well be angry at the sky when it is full of smoke!  ^6-40
 
   
 
@@ -6740,7 +6740,7 @@ But they in turn are driven by their hatred;
 
   
 
-Therefore with their hatred I should take offence.
+Therefore with their hatred I should take offence.  ^6-41
 
   
 
@@ -6760,7 +6760,7 @@ Therefore it is right that injury
 
   
 
-Should come to me their torturer.
+Should come to me their torturer.  ^6-42
 
   
 
@@ -6780,7 +6780,7 @@ They their weapons, I my body brandished;
 
   
 
-Who then is more worthy of my rage?
+Who then is more worthy of my rage?  ^6-43
 
   
 
@@ -6800,7 +6800,7 @@ I’m the one who grasped it in my blind attachment,
 
   
 
-Whom should I resent when pain occurs?
+Whom should I resent when pain occurs?  ^6-44
 
   
 
@@ -6820,7 +6820,7 @@ We hurt ourselves through our misdeeds!
 
   
 
-So why should others be the object of our rage?
+So why should others be the object of our rage?  ^6-45
 
   
 
@@ -6840,7 +6840,7 @@ Likewise all the janitors of hell
 
   
 
-And all the groves of razor trees!79
+And all the groves of razor trees!79  ^6-46
 
   
 
@@ -6860,7 +6860,7 @@ And if through this these beings go to hell,
 
   
 
-Is it not I who bring their ruin?
+Is it not I who bring their ruin?  ^6-47
 
   
 
@@ -6880,7 +6880,7 @@ But they will be the ones who, thanks to me,
 
   
 
-Will have the long-drawn agonies of hell.
+Will have the long-drawn agonies of hell.  ^6-48
 
   
 
@@ -6900,7 +6900,7 @@ Thus with what perversity, pernicious mind,
 
   
 
-Will you be angry with your enemies?
+Will you be angry with your enemies?  ^6-49
 
   
 
@@ -6920,7 +6920,7 @@ But though indeed I save myself,
 
   
 
-What of my foes, what fate’s in store for them?
+What of my foes, what fate’s in store for them?  ^6-50
 
   
 
@@ -6940,7 +6940,7 @@ My conduct will in turn be marred,
 
   
 
-Austerity of patience brought to nothing.
+Austerity of patience brought to nothing.  ^6-51
 
   
 
@@ -6960,7 +6960,7 @@ Because of mind’s attachment to the body,
 
   
 
-This body is oppressed by pain.
+This body is oppressed by pain.  ^6-52
 
   
 
@@ -6980,7 +6980,7 @@ My body is not harmed by them.
 
   
 
-What reason do you have, O mind, for your resentment?
+What reason do you have, O mind, for your resentment?  ^6-53
 
   
 
@@ -7000,7 +7000,7 @@ It cannot actually devour me,
 
   
 
-Why should I be so averse to it?
+Why should I be so averse to it?  ^6-54
 
   
 
@@ -7020,7 +7020,7 @@ But all my property I’ll leave behind,
 
   
 
-While sins will keep me steady company.
+While sins will keep me steady company.  ^6-55
 
   
 
@@ -7040,7 +7040,7 @@ However long the days of those like me,
 
   
 
-The pain of dying will be all the same.
+The pain of dying will be all the same.  ^6-56
 
   
 
@@ -7060,7 +7060,7 @@ Another dreams an instant’s joy,
 
   
 
-But then he likewise wakes.
+But then he likewise wakes.  ^6-57
 
   
 
@@ -7080,7 +7080,7 @@ Likewise, when the hour of death comes round,
 
   
 
-Our lives are over, whether brief or long.
+Our lives are over, whether brief or long.  ^6-58
 
   
 
@@ -7100,7 +7100,7 @@ Despoiled and stripped as though by thieves,
 
   
 
-We must go naked and with empty hands.
+We must go naked and with empty hands.  ^6-59
 
   
 
@@ -7120,7 +7120,7 @@ But if we are aggressive for the sake of profit,
 
   
 
-Won’t our gains be evil, all our merits lost?
+Won’t our gains be evil, all our merits lost?  ^6-60
 
   
 
@@ -7140,7 +7140,7 @@ What use is there in living thus,
 
   
 
-When evil is the only consequence?
+When evil is the only consequence?  ^6-61
 
   
 
@@ -7160,7 +7160,7 @@ How is it we do not resent
 
   
 
-Their slander when it’s aimed at someone else?
+Their slander when it’s aimed at someone else?  ^6-62
 
   
 
@@ -7180,7 +7180,7 @@ Why are we impatient when they slander us?
 
   
 
-Defilement, after all, has been the cause of it.
+Defilement, after all, has been the cause of it.  ^6-63
 
   
 
@@ -7200,7 +7200,7 @@ Are not proper objects of our anger.
 
   
 
-Buddhas are themselves untouched thereby.
+Buddhas are themselves untouched thereby.  ^6-64
 
   
 
@@ -7220,7 +7220,7 @@ All derives from factors, as we have explained.
 
   
 
-This we should perceive and curb our wrath.
+This we should perceive and curb our wrath.  ^6-65
 
   
 
@@ -7240,7 +7240,7 @@ So why be angry only with the latter?
 
   
 
-Rather let us simply bear with harm.
+Rather let us simply bear with harm.  ^6-66
 
   
 
@@ -7260,7 +7260,7 @@ Which of them is faultless in such acts?
 
   
 
-To whom shall error be ascribed?
+To whom shall error be ascribed?  ^6-67
 
   
 
@@ -7280,7 +7280,7 @@ Since everything depends on karma,
 
   
 
-Why should I be angry at such things?
+Why should I be angry at such things?  ^6-68
 
   
 
@@ -7300,7 +7300,7 @@ And foster in the hearts of all
 
   
 
-An attitude of mutual love.
+An attitude of mutual love.  ^6-69
 
   
 
@@ -7320,7 +7320,7 @@ The wise course is to take and fling away
 
   
 
-The straw and anything that spreads the fire.
+The straw and anything that spreads the fire.  ^6-70
 
   
 
@@ -7340,7 +7340,7 @@ Our mind’s attachments:
 
   
 
-Tinder for the fiery flames of hate.
+Tinder for the fiery flames of hate.  ^6-71
 
   
 
@@ -7360,7 +7360,7 @@ And is it not a happy chance if now, to escape hell,
 
   
 
-I suffer only the misfortunes of the human state?
+I suffer only the misfortunes of the human state?  ^6-72
 
   
 
@@ -7380,7 +7380,7 @@ Why do I not cast off my anger,
 
   
 
-Cause of future sorrows in infernal torment?
+Cause of future sorrows in infernal torment?  ^6-73
 
   
 
@@ -7400,7 +7400,7 @@ The tortures of the realms of hell—
 
   
 
-Achieving nothing for myself and others.
+Achieving nothing for myself and others.  ^6-74
 
   
 
@@ -7420,7 +7420,7 @@ These troubles that dispel the pain of wanderers—
 
   
 
-It’s only right that I rejoice in them.
+It’s only right that I rejoice in them.  ^6-75
 
   
 
@@ -7440,7 +7440,7 @@ Why, O mind, do you not find
 
   
 
-A joy likewise in praising them?
+A joy likewise in praising them?  ^6-76
 
   
 
@@ -7460,7 +7460,7 @@ It’s urged on us by all the holy ones,
 
   
 
-And is the perfect way of winning others.
+And is the perfect way of winning others.  ^6-77
 
   
 
@@ -7480,7 +7480,7 @@ Abandon paying wages and returning favors.
 
   
 
-You will be the loser—both in this life and the next!
+You will be the loser—both in this life and the next!  ^6-78
 
   
 
@@ -7500,7 +7500,7 @@ But when the compliment is paid to others,
 
   
 
-You feel no inclination to rejoice as well.
+You feel no inclination to rejoice as well.  ^6-79
 
   
 
@@ -7520,7 +7520,7 @@ So why should others irk you when
 
   
 
-They find some pleasure for themselves?
+They find some pleasure for themselves?  ^6-80
 
   
 
@@ -7540,7 +7540,7 @@ When petty marks of favor come their way,
 
   
 
-Why are you so discomforted?
+Why are you so discomforted?  ^6-81
 
   
 
@@ -7560,7 +7560,7 @@ Find for themselves the means of livelihood,
 
   
 
-Will you not be happy, will you once again be angry?
+Will you not be happy, will you once again be angry?  ^6-82
 
   
 
@@ -7580,7 +7580,7 @@ And how can anyone have bodhichitta
 
   
 
-Who is angry when another prospers?
+Who is angry when another prospers?  ^6-83
 
   
 
@@ -7600,7 +7600,7 @@ In neither case will it be yours—
 
   
 
-So, given or withheld, why is it your concern?
+So, given or withheld, why is it your concern?  ^6-84
 
   
 
@@ -7620,7 +7620,7 @@ Not holding onto what might bring you riches,
 
   
 
-Tell me, why are you not angry at yourself?
+Tell me, why are you not angry at yourself?  ^6-85
 
   
 
@@ -7640,7 +7640,7 @@ You even wish to match yourself
 
   
 
-With those whose merit has been earned!
+With those whose merit has been earned!  ^6-86
 
   
 
@@ -7660,7 +7660,7 @@ The wishes of your mind alone,
 
   
 
-Will not in fact contrive their injury.
+Will not in fact contrive their injury.  ^6-87
 
   
 
@@ -7680,7 +7680,7 @@ Again, what cause of joy is that to you?
 
   
 
-Is anything more ruinous than that?
+Is anything more ruinous than that?  ^6-88
 
   
 
@@ -7700,7 +7700,7 @@ I’ll be flung into the cauldrons of the pit,
 
   
 
-And surely boiled by all the janitors of hell!
+And surely boiled by all the janitors of hell!  ^6-89
 
   
 
@@ -7720,7 +7720,7 @@ Bestowing neither health nor strength
 
   
 
-And nothing for the body’s ease.
+And nothing for the body’s ease.  ^6-90
 
   
 
@@ -7740,7 +7740,7 @@ For if it’s entertainment I desire,
 
   
 
-I might as well resort to alcohol and cards!80
+I might as well resort to alcohol and cards!80  ^6-91
 
   
 
@@ -7760,7 +7760,7 @@ What use are words, and whom will they delight
 
   
 
-When I am dead and in my grave?
+When I am dead and in my grave?  ^6-92
 
   
 
@@ -7780,7 +7780,7 @@ My mind is so like them
 
   
 
-When praise and reputation start to fail.
+When praise and reputation start to fail.  ^6-93
 
   
 
@@ -7800,7 +7800,7 @@ I say that it’s the joy that others take in me,
 
   
 
-It’s this that is the cause of my delight.
+It’s this that is the cause of my delight.  ^6-94
 
   
 
@@ -7820,7 +7820,7 @@ Their pleasure’s theirs and theirs alone.
 
   
 
-No part of it is felt by me.
+No part of it is felt by me.  ^6-95
 
   
 
@@ -7840,7 +7840,7 @@ When people take delight in others
 
   
 
-Why am I not happy at their pleasure?
+Why am I not happy at their pleasure?  ^6-96
 
   
 
@@ -7860,7 +7860,7 @@ Is unacceptable to common sense
 
   
 
-And nothing but the antics of a silly child.
+And nothing but the antics of a silly child.  ^6-97
 
   
 
@@ -7880,7 +7880,7 @@ I start to envy others their good qualities
 
   
 
-And thus all excellence is ruined.
+And thus all excellence is ruined.  ^6-98
 
   
 
@@ -7900,7 +7900,7 @@ Are surely there protecting me
 
   
 
-From falling into realms of grief.
+From falling into realms of grief.  ^6-99
 
   
 
@@ -7920,7 +7920,7 @@ How could I be angry with the ones
 
   
 
-Who work to free me from my fetters?
+Who work to free me from my fetters?  ^6-100
 
   
 
@@ -7940,7 +7940,7 @@ To plunge myself headlong in sorrow:
 
   
 
-How can I be angry with them?
+How can I be angry with them?  ^6-101
 
   
 
@@ -7960,7 +7960,7 @@ For is not patience the supreme austerity,
 
   
 
-And should I not abide by this?
+And should I not abide by this?  ^6-102
 
   
 
@@ -7980,7 +7980,7 @@ I myself create impediments
 
   
 
-To merit’s causes, yet so close at hand.
+To merit’s causes, yet so close at hand.  ^6-103
 
   
 
@@ -8000,7 +8000,7 @@ That factor is indeed its cause.
 
   
 
-How can it, then, be said to hinder it?
+How can it, then, be said to hinder it?  ^6-104
 
   
 
@@ -8020,7 +8020,7 @@ We cannot say that those who give the vows
 
   
 
-Are hindrances to ordination!
+Are hindrances to ordination!  ^6-105
 
   
 
@@ -8040,7 +8040,7 @@ For if I do no harm to others,
 
   
 
-Others do no injury to me.
+Others do no injury to me.  ^6-106
 
   
 
@@ -8060,7 +8060,7 @@ My enemies are helpers in my Bodhisattva work
 
   
 
-And therefore they should be a joy to me.
+And therefore they should be a joy to me.  ^6-107
 
   
 
@@ -8080,7 +8080,7 @@ To them its first fruits I should give,
 
   
 
-For of my patience they have been the cause.
+For of my patience they have been the cause.  ^6-108
 
   
 
@@ -8100,7 +8100,7 @@ Why do I revere the Sacred Dharma,
 
   
 
-Cause indeed of my attainment?
+Cause indeed of my attainment?  ^6-109
 
   
 
@@ -8120,7 +8120,7 @@ But had they worked to help me like a doctor,
 
   
 
-How could I have brought forth patience?
+How could I have brought forth patience?  ^6-110
 
   
 
@@ -8140,7 +8140,7 @@ They therefore are the causes of my patience,
 
   
 
-Fit for veneration, like the Dharma.
+Fit for veneration, like the Dharma.  ^6-111
 
   
 
@@ -8160,7 +8160,7 @@ Many who brought happiness to beings,
 
   
 
-Have passed beyond, attaining to perfection.
+Have passed beyond, attaining to perfection.  ^6-112
 
   
 
@@ -8180,7 +8180,7 @@ What kind of practice is it then
 
   
 
-That honors only Buddhas but not beings?
+That honors only Buddhas but not beings?  ^6-113
 
   
 
@@ -8200,7 +8200,7 @@ In beings, too, such excellence resides,
 
   
 
-And therefore beings and Buddhas are the same.
+And therefore beings and Buddhas are the same.  ^6-114
 
   
 
@@ -8220,7 +8220,7 @@ Merit that accrues from faith in Buddha
 
   
 
-Shows in turn the Buddha’s eminence.
+Shows in turn the Buddha’s eminence.  ^6-115
 
   
 
@@ -8240,7 +8240,7 @@ Because they have a share in bringing forth enlightenment,
 
   
 
-Beings may be likened to the Buddhas.
+Beings may be likened to the Buddhas.  ^6-116
 
   
 
@@ -8260,7 +8260,7 @@ The three worlds made in offering to them
 
   
 
-Would be a very little thing.
+Would be a very little thing.  ^6-117
 
   
 
@@ -8280,7 +8280,7 @@ By virtue of this parity alone
 
   
 
-It’s right that I should reverence them.
+It’s right that I should reverence them.  ^6-118
 
   
 
@@ -8300,7 +8300,7 @@ How else may I repay their goodness
 
   
 
-But by making living beings happy?
+But by making living beings happy?  ^6-119
 
   
 
@@ -8320,7 +8320,7 @@ Should beings therefore do great harm to me,
 
   
 
-I’ll strive to bring them only benefit.
+I’ll strive to bring them only benefit.  ^6-120
 
   
 
@@ -8340,7 +8340,7 @@ Why should I, a fool, behave with such conceit?
 
   
 
-Why should I not become the slave of others?
+Why should I not become the slave of others?  ^6-121
 
   
 
@@ -8360,7 +8360,7 @@ By bringing joy to beings, then, I please the Buddhas also;
 
   
 
-By wounding them, I wound the Buddhas too.
+By wounding them, I wound the Buddhas too.  ^6-122
 
   
 
@@ -8380,7 +8380,7 @@ There is no way to please the great compassionate ones
 
   
 
-While we ourselves are causes of another’s pain.
+While we ourselves are causes of another’s pain.  ^6-123
 
   
 
@@ -8400,7 +8400,7 @@ Therefore, all these evils I confess today
 
   
 
-And pray that they will bear with my offences.
+And pray that they will bear with my offences.  ^6-124
 
   
 
@@ -8420,7 +8420,7 @@ I shall not seek revenge though crowds may trample on my head or kill me.
 
   
 
-Let the Guardians of the world rejoice!
+Let the Guardians of the world rejoice!  ^6-125
 
   
 
@@ -8440,7 +8440,7 @@ Those whom I perceive as beings are Buddhas in themselves;
 
   
 
-How can I not treat them with respect?
+How can I not treat them with respect?  ^6-126
 
   
 
@@ -8460,7 +8460,7 @@ This will drive away the sorrows of the world,
 
   
 
-And therefore it will be my constant work.
+And therefore it will be my constant work.  ^6-127
 
   
 
@@ -8480,7 +8480,7 @@ Those with clear, farseeing eyes
 
   
 
-Do not respond with violence even if they can.
+Do not respond with violence even if they can.  ^6-128
 
   
 
@@ -8500,7 +8500,7 @@ Therefore I will not despise
 
   
 
-The feeble beings tormenting me.
+The feeble beings tormenting me.  ^6-129
 
   
 
@@ -8520,7 +8520,7 @@ Therefore living beings I will gratify
 
   
 
-As subjects might placate a wrathful king.
+As subjects might placate a wrathful king.  ^6-130
 
   
 
@@ -8540,7 +8540,7 @@ Could these ever be unleashed on me
 
   
 
-By all the ire of such a king?
+By all the ire of such a king?  ^6-131
 
   
 
@@ -8560,7 +8560,7 @@ For this will only be achieved
 
   
 
-By bringing happiness to beings.
+By bringing happiness to beings.  ^6-132
 
   
 
@@ -8580,7 +8580,7 @@ How can I not see that glory, fame, and pleasure
 
   
 
-Even in this life will likewise come?
+Even in this life will likewise come?  ^6-133
 
   
 
@@ -8600,7 +8600,7 @@ Its fruit is great longevity,
 
   
 
-The vast contentment of a universal king.
+The vast contentment of a universal king.  ^6-134
 
   
   
@@ -8632,7 +8632,7 @@ If no wind blows, then nothing stirs,
 
   
 
-And neither is there merit without diligence.
+And neither is there merit without diligence.  ^7-1
 
   
 
@@ -8652,7 +8652,7 @@ An inclination for unwholesomeness,
 
   
 
-Defeatism and self-contempt.
+Defeatism and self-contempt.  ^7-2
 
   
 
@@ -8672,7 +8672,7 @@ No qualms about the sorrows of saṃsāra:
 
   
 
-Laziness indeed is born from these.
+Laziness indeed is born from these.  ^7-3
 
   
 
@@ -8692,7 +8692,7 @@ Again you’ve strayed into the maw of Death.
 
   
 
-What is it? Have you still not understood?
+What is it? Have you still not understood?  ^7-4
 
   
 
@@ -8712,7 +8712,7 @@ And yet you slumber on so soundly,
 
   
 
-Like a buffalo beside its butcher.
+Like a buffalo beside its butcher.  ^7-5
 
   
 
@@ -8732,7 +8732,7 @@ How can you take such pleasure in your food,
 
   
 
-And how can you delight to rest and sleep?84
+And how can you delight to rest and sleep?84  ^7-6
 
   
 
@@ -8752,7 +8752,7 @@ For even if you then throw off your indolence,
 
   
 
-What will you do when there is no more time?
+What will you do when there is no more time?  ^7-7
 
   
 
@@ -8772,7 +8772,7 @@ Then is the sudden coming of the Lord of Death,
 
   
 
-And oh, the thought “Alas, I’m finished!”
+And oh, the thought “Alas, I’m finished!”  ^7-8
 
   
 
@@ -8792,7 +8792,7 @@ Their tearstained cheeks, their red and swollen eyes
 
   
 
-And then you’ll see the heralds of the Deadly Lord.
+And then you’ll see the heralds of the Deadly Lord.  ^7-9
 
   
 
@@ -8812,7 +8812,7 @@ With very terror you will foul yourself.
 
   
 
-What will you do in such delirium?
+What will you do in such delirium?  ^7-10
 
   
 
@@ -8832,7 +8832,7 @@ What need to speak of pain unbearable
 
   
 
-In hells created by past evil deeds?
+In hells created by past evil deeds?  ^7-11
 
   
 
@@ -8852,7 +8852,7 @@ To contact on your tender baby-flesh
 
   
 
-Of boiling liquids in the hell of Extreme Heat?
+Of boiling liquids in the hell of Extreme Heat?  ^7-12
 
   
 
@@ -8872,7 +8872,7 @@ Though in the grip of death, you are behaving like a god,85
 
   
 
-And suffering, alas, will beat you down!
+And suffering, alas, will beat you down!  ^7-13
 
   
 
@@ -8892,7 +8892,7 @@ This vessel will be later hard to find.
 
   
 
-The time that you have now, you fool, is not for sleep!
+The time that you have now, you fool, is not for sleep!  ^7-14
 
   
 
@@ -8912,7 +8912,7 @@ Why delight in mere excitement,
 
   
 
-In distractions that will cause you misery?
+In distractions that will cause you misery?  ^7-15
 
   
 
@@ -8932,7 +8932,7 @@ Practice the equality of self and other;
 
   
 
-Practice the exchange of self and other.86
+Practice the exchange of self and other.86  ^7-16
 
   
 
@@ -8952,7 +8952,7 @@ The Buddha, who declares the truth,
 
   
 
-Has truly spoken and proclaimed
+Has truly spoken and proclaimed  ^7-17
 
   
 
@@ -8972,7 +8972,7 @@ And gnats and grubs will gain
 
   
 
-Supreme enlightenment so hard to find.
+Supreme enlightenment so hard to find.  ^7-18
 
   
 
@@ -8992,7 +8992,7 @@ And do not leave aside the Bodhisattva deeds,
 
   
 
-Why should I not attain the state of Buddhahood?
+Why should I not attain the state of Buddhahood?  ^7-19
 
   
 
@@ -9012,7 +9012,7 @@ Your terror is misplaced. Confused,
 
   
 
-You fail to see what’s hard and what is easy.
+You fail to see what’s hard and what is easy.  ^7-20
 
   
 
@@ -9032,7 +9032,7 @@ Burned, torn—for times past numbering!
 
   
 
-Yet none of this has brought you Buddhahood.
+Yet none of this has brought you Buddhahood.  ^7-21
 
   
 
@@ -9052,7 +9052,7 @@ And likened to the pain of an incision
 
   
 
-Made to cure the harms of inward ills.
+Made to cure the harms of inward ills.  ^7-22
 
   
 
@@ -9072,7 +9072,7 @@ Likewise, to destroy a vast amount of pain,
 
   
 
-We should be patient with our little hurts.
+We should be patient with our little hurts.  ^7-23
 
   
 
@@ -9092,7 +9092,7 @@ With ways of extreme tenderness
 
   
 
-He soothes away intense and boundless suffering.
+He soothes away intense and boundless suffering.  ^7-24
 
   
 
@@ -9112,7 +9112,7 @@ That later, step-by-step, the habit once acquired,
 
   
 
-We may be able to donate our very flesh.
+We may be able to donate our very flesh.  ^7-25
 
   
 
@@ -9132,7 +9132,7 @@ What hardship can there be
 
   
 
-In giving up, relinquishing, our very flesh?
+In giving up, relinquishing, our very flesh?  ^7-26
 
   
 
@@ -9152,7 +9152,7 @@ For so it is that mind and body both
 
   
 
-Are injured by false views and sinfulness.
+Are injured by false views and sinfulness.  ^7-27
 
   
 
@@ -9172,7 +9172,7 @@ What can sadden those who have compassion,
 
   
 
-Who remain within saṃsāra for the sake of beings?
+Who remain within saṃsāra for the sake of beings?  ^7-28
 
   
 
@@ -9192,7 +9192,7 @@ And merit, ocean-vast, is gathered in,
 
   
 
-It’s therefore said that they excel the Shrāvakas.87
+It’s therefore said that they excel the Shrāvakas.87  ^7-29
 
   
 
@@ -9212,7 +9212,7 @@ What lucid person could be in despair
 
   
 
-Proceeding in this way from joy to joy?
+Proceeding in this way from joy to joy?  ^7-30
 
   
 
@@ -9232,7 +9232,7 @@ Aspiration grows through fear of suffering
 
   
 
-And contemplation of the benefits to be attained.
+And contemplation of the benefits to be attained.  ^7-31
 
   
 
@@ -9252,7 +9252,7 @@ Through aspiration and self-confidence, relinquishment and joy,
 
   
 
-By strength of earnest application and exertion of control.
+By strength of earnest application and exertion of control.  ^7-32
 
   
 
@@ -9272,7 +9272,7 @@ Even though a single of these ills
 
   
 
-May take unnumbered ages to exhaust!
+May take unnumbered ages to exhaust!  ^7-33
 
   
 
@@ -9292,7 +9292,7 @@ Why does my heart not burst asunder,
 
   
 
-Destined as I am for boundless pain?
+Destined as I am for boundless pain?  ^7-34
 
   
 
@@ -9312,7 +9312,7 @@ Even though for each of them
 
   
 
-I must endeavor for unnumbered ages.
+I must endeavor for unnumbered ages.  ^7-35
 
   
 
@@ -9332,7 +9332,7 @@ It is indeed amazing that I render meaningless
 
   
 
-This life that somehow I have gained.
+This life that somehow I have gained.  ^7-36
 
   
 
@@ -9352,7 +9352,7 @@ No works have I accomplished for the Teachings;
 
   
 
-The wishes of the poor I left unsatisfied.
+The wishes of the poor I left unsatisfied.  ^7-37
 
   
 
@@ -9372,7 +9372,7 @@ My mother’s pain, her womb’s discomfort:
 
   
 
-These alone are my accomplishments.
+These alone are my accomplishments.  ^7-38
 
   
 
@@ -9392,7 +9392,7 @@ Has brought me to my present dereliction.
 
   
 
-Who therefore would spurn such aspiration?
+Who therefore would spurn such aspiration?  ^7-39
 
   
 
@@ -9412,7 +9412,7 @@ Aspiration’s root in turn
 
   
 
-Is constant meditation on the fruits of action.
+Is constant meditation on the fruits of action.  ^7-40
 
   
 
@@ -9432,7 +9432,7 @@ To be deprived of what I want—
 
   
 
-Such is the harvest of my sinful deeds.
+Such is the harvest of my sinful deeds.  ^7-41
 
   
 
@@ -9452,7 +9452,7 @@ The merit gained will honor me
 
   
 
-With its resulting benefits.
+With its resulting benefits.  ^7-42
 
   
 
@@ -9472,7 +9472,7 @@ The knives of misery will cut me down,
 
   
 
-The wage and retribution of a sinful life.
+The wage and retribution of a sinful life.  ^7-43
 
   
 
@@ -9492,7 +9492,7 @@ Then from the lotus opened in the Sage’s light, in supreme form I will arise
 
   
 
-To dwell, the blissful Buddha’s heir, in presence of Victorious Ones.88
+To dwell, the blissful Buddha’s heir, in presence of Victorious Ones.88  ^7-44
 
   
 
@@ -9512,7 +9512,7 @@ And pierced by burning swords and knives, my flesh
 
   
 
-Dismembered in a hundred parts will fall upon the white-hot iron ground.
+Dismembered in a hundred parts will fall upon the white-hot iron ground.  ^7-45
 
   
 
@@ -9532,7 +9532,7 @@ And with the method stated in the Vajradhvaja,89
 
   
 
-I will train in confident assurance.
+I will train in confident assurance.  ^7-46
 
   
 
@@ -9552,7 +9552,7 @@ It might be better not to start,
 
   
 
-But once begun, I should not then withdraw.
+But once begun, I should not then withdraw.  ^7-47
 
   
 
@@ -9572,7 +9572,7 @@ And other actions will be left undone
 
   
 
-Or else will bear a meager fruit.
+Or else will bear a meager fruit.  ^7-48
 
   
 
@@ -9592,7 +9592,7 @@ Three things to which my pride should be directed.90
 
   
 
-These words define my pride of action.
+These words define my pride of action.  ^7-49
 
   
 
@@ -9612,7 +9612,7 @@ Compared with those who wander, I am able!
 
   
 
-This therefore shall be my task.
+This therefore shall be my task.  ^7-50
 
   
 
@@ -9632,7 +9632,7 @@ In any case, I’ll not be arrogant;
 
   
 
-My best way is to give up such conceit.
+My best way is to give up such conceit.  ^7-51
 
   
 
@@ -9652,7 +9652,7 @@ Therefore if I’m weak and feeble-hearted,
 
   
 
-Even little faults will strike and injure me.91
+Even little faults will strike and injure me.91  ^7-52
 
   
 
@@ -9672,7 +9672,7 @@ But if I stand my ground with proud resolve,
 
   
 
-It will be hard for even great faults to attack me.
+It will be hard for even great faults to attack me.  ^7-53
 
   
 
@@ -9692,7 +9692,7 @@ But if my failings get the upper hand,
 
   
 
-My wish to overcome the triple world is laughable indeed.
+My wish to overcome the triple world is laughable indeed.  ^7-54
 
   
 
@@ -9712,7 +9712,7 @@ The offspring of the Lion, the Conqueror,
 
   
 
-Should constantly abide in this self-confidence.92
+Should constantly abide in this self-confidence.92  ^7-55
 
   
 
@@ -9732,7 +9732,7 @@ Those who have true confidence escape the foe,
 
   
 
-While others fall into the power of an evil pride.
+While others fall into the power of an evil pride.  ^7-56
 
   
 
@@ -9752,7 +9752,7 @@ Or ruins happiness, should human birth be gained.
 
   
 
-Thus one is born a slave, dependent for one’s sustenance,
+Thus one is born a slave, dependent for one’s sustenance,  ^7-57
 
   
 
@@ -9772,7 +9772,7 @@ These “ascetics” puffed up with conceit!
 
   
 
-If these you call the proud, then tell me who are wretched?
+If these you call the proud, then tell me who are wretched?  ^7-58
 
   
 
@@ -9792,7 +9792,7 @@ And they who stem the increase of that evil pride,
 
   
 
-Perfect, according to their wish, the fruit of victory for beings.
+Perfect, according to their wish, the fruit of victory for beings.  ^7-59
 
   
 
@@ -9812,7 +9812,7 @@ I’ll not surrender to the host of the afflictions
 
   
 
-But like a lion I will stand amid a crowd of foxes.
+But like a lion I will stand amid a crowd of foxes.  ^7-60
 
   
 
@@ -9832,7 +9832,7 @@ And likewise I, whatever dangers come,
 
   
 
-Must not fall down beneath defilement’s power.
+Must not fall down beneath defilement’s power.  ^7-61
 
   
 
@@ -9864,7 +9864,7 @@ Thus in every time and place
 
   
 
-I will not wander from the wholesome path.
+I will not wander from the wholesome path.  ^7-62
 
   
 
@@ -9884,7 +9884,7 @@ Let them devote themselves without reserve,
 
   
 
-With joyfulness that never knows satiety.
+With joyfulness that never knows satiety.  ^7-63
 
   
 
@@ -9904,7 +9904,7 @@ But how can they be happy if they do not do
 
   
 
-Those deeds that are the source of joy to them?
+Those deeds that are the source of joy to them?  ^7-64
 
   
 
@@ -9924,7 +9924,7 @@ How could they have enough of merit,
 
   
 
-Fruits of which are happiness and peace?
+Fruits of which are happiness and peace?  ^7-65
 
   
 
@@ -9944,7 +9944,7 @@ And likewise I must plunge into my work
 
   
 
-That I might bring it to completion.
+That I might bring it to completion.  ^7-66
 
   
 
@@ -9964,7 +9964,7 @@ And I will leave the task when it’s complete,
 
   
 
-All avid for the work that’s next to come.
+All avid for the work that’s next to come.  ^7-67
 
   
 
@@ -9984,7 +9984,7 @@ I’ll lightly dodge the weapons of defilement,
 
   
 
-And strike my enemy upon the quick.
+And strike my enemy upon the quick.  ^7-68
 
   
 
@@ -10004,7 +10004,7 @@ So likewise, if the arm of mindfulness is lost,
 
   
 
-In fear of hell, I’ll quickly get it back!
+In fear of hell, I’ll quickly get it back!  ^7-69
 
   
 
@@ -10024,7 +10024,7 @@ Likewise evil, when it finds its chance,
 
   
 
-Will spread and permeate the mind.
+Will spread and permeate the mind.  ^7-70
 
   
 
@@ -10044,7 +10044,7 @@ And menaced by a swordsman saying,
 
   
 
-This is how practitioners should hold themselves.
+This is how practitioners should hold themselves.  ^7-71
 
   
 
@@ -10064,7 +10064,7 @@ If sleep and lethargy beset me,
 
   
 
-I will speedily repulse them.
+I will speedily repulse them.  ^7-72
 
   
 
@@ -10084,7 +10084,7 @@ Thinking long that by whatever means
 
   
 
-Such faults in future shall no more occur.
+Such faults in future shall no more occur.  ^7-73
 
   
 
@@ -10104,7 +10104,7 @@ Thinking thus I will desire
 
   
 
-To meet with teachers and fulfill the proper tasks.
+To meet with teachers and fulfill the proper tasks.  ^7-74
 
   
 
@@ -10124,7 +10124,7 @@ I will recall the teachings upon carefulness
 
   
 
-And lightly rise to what is to be done.
+And lightly rise to what is to be done.  ^7-75
 
   
 
@@ -10144,7 +10144,7 @@ So all I do will be achieved,
 
   
 
-Controlled by movements of a joyful heart.
+Controlled by movements of a joyful heart.  ^7-76
 
   
   
@@ -10176,7 +10176,7 @@ For those whose minds are slack and wandering
 
   
 
-Are caught between the fangs of the afflictions.
+Are caught between the fangs of the afflictions.  ^8-1
 
   
 
@@ -10196,7 +10196,7 @@ Therefore leave this worldly life
 
   
 
-And totally abandon mental wandering.
+And totally abandon mental wandering.  ^8-2
 
   
 
@@ -10216,7 +10216,7 @@ These, then, are the first things to renounce.
 
   
 
-The prudent should conduct themselves like this.
+The prudent should conduct themselves like this.  ^8-3
 
   
 
@@ -10236,7 +10236,7 @@ Knowing this, first search for calm abiding,
 
   
 
-Found by people who are happy to be free from worldly ties.
+Found by people who are happy to be free from worldly ties.  ^8-4
 
   
 
@@ -10256,7 +10256,7 @@ Will catch no glimpse of those they love
 
   
 
-For many thousands of their future lives.
+For many thousands of their future lives.  ^8-5
 
   
 
@@ -10276,7 +10276,7 @@ But even if they see them, they are not content—
 
   
 
-And as before, the pain of longing stays.
+And as before, the pain of longing stays.  ^8-6
 
   
 
@@ -10296,7 +10296,7 @@ Wholesome disillusion94 melts away,
 
   
 
-And finally there comes the sting of pain.
+And finally there comes the sting of pain.  ^8-7
 
   
 
@@ -10316,7 +10316,7 @@ My family and friends all change and pass, for whom
 
   
 
-The changeless Dharma is cast out.
+The changeless Dharma is cast out.  ^8-8
 
   
 
@@ -10336,7 +10336,7 @@ So why do I keep company with infants,
 
   
 
-Who lead me to a state so far from virtue?
+Who lead me to a state so far from virtue?  ^8-9
 
   
 
@@ -10356,7 +10356,7 @@ Even pleasant things arouse their discontent:
 
   
 
-Ordinary people—it is hard to please them!
+Ordinary people—it is hard to please them!  ^8-10
 
   
 
@@ -10376,7 +10376,7 @@ And when I close my ears to what they say,
 
   
 
-Their anger makes them fall to lower states.
+Their anger makes them fall to lower states.  ^8-11
 
   
 
@@ -10396,7 +10396,7 @@ Say something untoward, they seethe with rage.
 
   
 
-What good was ever had from childish folk?
+What good was ever had from childish folk?  ^8-12
 
   
 
@@ -10416,7 +10416,7 @@ Talk about the “good things” of saṃsāra—
 
   
 
-Every kind of vice is sure to come.
+Every kind of vice is sure to come.  ^8-13
 
   
 
@@ -10436,7 +10436,7 @@ For they will bring no benefit to me,
 
   
 
-And I in turn can do them nothing good.
+And I in turn can do them nothing good.  ^8-14
 
   
 
@@ -10456,7 +10456,7 @@ That keep on terms of common courtesy,
 
   
 
-Without inviting intimate relations.
+Without inviting intimate relations.  ^8-15
 
   
 
@@ -10476,7 +10476,7 @@ Treat everyone like new acquaintances
 
   
 
-And keep yourself from close familiarity.
+And keep yourself from close familiarity.  ^8-16
 
   
 
@@ -10496,7 +10496,7 @@ Nourish such complacency and later,
 
   
 
-After death, your fears will start!
+After death, your fears will start!  ^8-17
 
   
 
@@ -10516,7 +10516,7 @@ All this together will rise up
 
   
 
-As pain itself, increased a thousandfold.
+As pain itself, increased a thousandfold.  ^8-18
 
   
 
@@ -10536,7 +10536,7 @@ And fix this firmly in your understanding:
 
   
 
-All that may be wished for will by nature fade to nothing.
+All that may be wished for will by nature fade to nothing.  ^8-19
 
   
 
@@ -10556,7 +10556,7 @@ But who can say where they have gone to now,
 
   
 
-With all the baggage of their gold and fame?
+With all the baggage of their gold and fame?  ^8-20
 
   
 
@@ -10576,7 +10576,7 @@ And why despondent when I’m blamed,
 
   
 
-Since there’ll be others who think well of me?
+Since there’ll be others who think well of me?  ^8-21
 
   
 
@@ -10596,7 +10596,7 @@ Of such a wretch as me no need to speak!
 
   
 
-I’ll give up such concerns with worldly things.
+I’ll give up such concerns with worldly things.  ^8-22
 
   
 
@@ -10616,7 +10616,7 @@ What pleasure can derive from keeping company
 
   
 
-With people such as these, so difficult to please?
+With people such as these, so difficult to please?  ^8-23
 
   
 
@@ -10636,7 +10636,7 @@ A childish person, thus, is no true friend.
 
   
 
-This the Tathāgatas have declared.
+This the Tathāgatas have declared.  ^8-24
 
   
 
@@ -10656,7 +10656,7 @@ It’s there I would keep pleasant company!
 
   
 
-When might I be off to make my dwelling there?
+When might I be off to make my dwelling there?  ^8-25
 
   
 
@@ -10676,7 +10676,7 @@ With, in my breast, a free, unfettered heart,
 
   
 
-Which never turns to cast a backward glance?
+Which never turns to cast a backward glance?  ^8-26
 
   
 
@@ -10696,7 +10696,7 @@ That’s wide and unconfined, a place where I might stay
 
   
 
-At liberty, without attachment?
+At liberty, without attachment?  ^8-27
 
   
 
@@ -10716,7 +10716,7 @@ With just a begging bowl and few belongings,
 
   
 
-Dressed in garments coveted by none?
+Dressed in garments coveted by none?  ^8-28
 
   
 
@@ -10736,7 +10736,7 @@ My body with the dry bones there,
 
   
 
-So soon to fall to nothing, all alike?
+So soon to fall to nothing, all alike?  ^8-29
 
   
 
@@ -10756,7 +10756,7 @@ That even jackals won’t come close—
 
   
 
-And that indeed is all it will become.
+And that indeed is all it will become.  ^8-30
 
   
 
@@ -10776,7 +10776,7 @@ Will drift apart, disintegrate,
 
   
 
-And how much more will friend depart from friend?
+And how much more will friend depart from friend?  ^8-31
 
   
 
@@ -10796,7 +10796,7 @@ No one shares our fate, and none our suffering.
 
   
 
-What need have I of “friends” who hinder me?
+What need have I of “friends” who hinder me?  ^8-32
 
   
 
@@ -10816,7 +10816,7 @@ Beings on the pathways of existence
 
   
 
-Seize upon the lodging of their birth.
+Seize upon the lodging of their birth.  ^8-33
 
   
 
@@ -10836,7 +10836,7 @@ Amid the grief of worldly folk—
 
   
 
-Till then, I will away and go into the forest.
+Till then, I will away and go into the forest.  ^8-34
 
   
 
@@ -10856,7 +10856,7 @@ Considered from the outset as already dead,
 
   
 
-Thus, when I die, a source of pain to none.
+Thus, when I die, a source of pain to none.  ^8-35
 
   
 
@@ -10876,7 +10876,7 @@ And no one will be there distracting me
 
   
 
-From thinking of the Buddha and the practice.
+From thinking of the Buddha and the practice.  ^8-36
 
   
 
@@ -10896,7 +10896,7 @@ Where mental wandering will cease,
 
   
 
-I will remain in blissful solitude.
+I will remain in blissful solitude.  ^8-37
 
   
 
@@ -10916,7 +10916,7 @@ I’ll strive to still my mind
 
   
 
-And, calming it, to bring it to subjection.
+And, calming it, to bring it to subjection.  ^8-38
 
   
 
@@ -10936,7 +10936,7 @@ In this world, killing, bonds, and wounds,
 
   
 
-And in the next, the hells and other pains.
+And in the next, the hells and other pains.  ^8-39
 
   
 
@@ -10956,7 +10956,7 @@ Avoiding, in the quest, no sin,
 
   
 
-No deed that brings an ill renown,
+No deed that brings an ill renown,  ^8-40
 
   
 
@@ -10976,7 +10976,7 @@ All for pleasure and the perfect bliss,
 
   
 
-That utmost penetrating kiss
+That utmost penetrating kiss  ^8-41
 
   
 
@@ -10996,7 +10996,7 @@ Is this the only object of desire and lust?
 
   
 
-Sooner pass beyond all suffering and grief!
+Sooner pass beyond all suffering and grief!  ^8-42
 
   
 
@@ -11016,7 +11016,7 @@ Which, looked upon or not before,
 
   
 
-Was always with a veil concealed.
+Was always with a veil concealed.  ^8-43
 
   
 
@@ -11036,7 +11036,7 @@ The vultures have uncovered it for you to see.
 
   
 
-What’s this? You run away so soon?
+What’s this? You run away so soon?  ^8-44
 
   
 
@@ -11056,7 +11056,7 @@ Why, miser that you are, don’t you protect it,
 
   
 
-Now that it’s the food of graveyard birds?
+Now that it’s the food of graveyard birds?  ^8-45
 
   
 
@@ -11076,7 +11076,7 @@ And you would deck with garlands, sandalwood, and jewels,
 
   
 
-The food and provender of others?
+The food and provender of others?  ^8-46
 
   
 
@@ -11096,7 +11096,7 @@ Why did you not fear it when it walked around,
 
   
 
-Just like a risen corpse propelled by some strange influence?
+Just like a risen corpse propelled by some strange influence?  ^8-47
 
   
 
@@ -11116,7 +11116,7 @@ Ah, you say, your need is no more there,
 
   
 
-But why did you embrace it, all bedecked and covered?
+But why did you embrace it, all bedecked and covered?  ^8-48
 
   
 
@@ -11136,7 +11136,7 @@ So why are you delighted by saliva,
 
   
 
-And yet repelled by excrement?
+And yet repelled by excrement?  ^8-49
 
   
 
@@ -11156,7 +11156,7 @@ You claim the human form emits no stench.
 
   
 
-Befooled by lust, its filth you do not recognize!
+Befooled by lust, its filth you do not recognize!  ^8-50
 
   
 
@@ -11176,7 +11176,7 @@ You angrily find fault with cotton,
 
   
 
-Soft though it may be to touch!
+Soft though it may be to touch!  ^8-51
 
   
 
@@ -11196,7 +11196,7 @@ A cage of bones tied fast with sinews,
 
   
 
-Plastered over with the mud of flesh?
+Plastered over with the mud of flesh?  ^8-52
 
   
 
@@ -11216,7 +11216,7 @@ It is indeed just filth that you desire,
 
   
 
-And therefore long for other sacks of it!
+And therefore long for other sacks of it!  ^8-53
 
   
 
@@ -11236,7 +11236,7 @@ Then why do you not wish for flesh alone,
 
   
 
-Inanimate and in its natural state?
+Inanimate and in its natural state?  ^8-54
 
   
 
@@ -11256,7 +11256,7 @@ Whatever you can hold or see is not the mind—
 
   
 
-Why copulate with something it is not?
+Why copulate with something it is not?  ^8-55
 
   
 
@@ -11276,7 +11276,7 @@ But not to see the filthy nature
 
   
 
-Of oneself is very strange indeed!
+Of oneself is very strange indeed!  ^8-56
 
   
 
@@ -11296,7 +11296,7 @@ Opened in the sunlight of a cloudless sky,
 
   
 
-To take joy rather in a sack of dirt?
+To take joy rather in a sack of dirt?  ^8-57
 
   
 
@@ -11316,7 +11316,7 @@ Why do you wish to touch the body
 
   
 
-Whence such excrement has come?
+Whence such excrement has come?  ^8-58
 
   
 
@@ -11336,7 +11336,7 @@ What comes from such an unclean place,
 
   
 
-Engendered likewise from an unclean seed?96
+Engendered likewise from an unclean seed?96  ^8-59
 
   
 
@@ -11356,7 +11356,7 @@ And yet you’re lusting for a human form,
 
   
 
-From filth arisen and replete with it.
+From filth arisen and replete with it.  ^8-60
 
   
 
@@ -11376,7 +11376,7 @@ And yearning and athirst for filth,
 
   
 
-You long for other sacks of it!
+You long for other sacks of it!  ^8-61
 
   
 
@@ -11396,7 +11396,7 @@ Put them in your mouth and spit them out:
 
   
 
-The earth itself is fouled thereby!
+The earth itself is fouled thereby!  ^8-62
 
   
 
@@ -11416,7 +11416,7 @@ Go off into the charnel grounds;
 
   
 
-Observe the fetid bodies there abandoned.
+Observe the fetid bodies there abandoned.  ^8-63
 
   
 
@@ -11436,7 +11436,7 @@ Now that you have understood,
 
   
 
-How can you still take joy in such a thing?
+How can you still take joy in such a thing?  ^8-64
 
   
 
@@ -11456,7 +11456,7 @@ Yet how is it that one thing’s fragrance
 
   
 
-Causes you to long for something else?
+Causes you to long for something else?  ^8-65
 
   
 
@@ -11476,7 +11476,7 @@ The worldly crave beside their purpose—
 
   
 
-Why do they anoint their flesh with pleasant scents?
+Why do they anoint their flesh with pleasant scents?  ^8-66
 
   
 
@@ -11496,7 +11496,7 @@ How is it that the fragrance of a thing
 
   
 
-Induces you to crave for something else?
+Induces you to crave for something else?  ^8-67
 
   
 
@@ -11516,7 +11516,7 @@ This body, naked, as it is, untended—
 
   
 
-Is indeed a horror to behold!
+Is indeed a horror to behold!  ^8-68
 
   
 
@@ -11536,7 +11536,7 @@ The cares that people squander on themselves in ignorance
 
   
 
-Convulse the universe with madness.
+Convulse the universe with madness.  ^8-69
 
   
 
@@ -11556,7 +11556,7 @@ And will you take delight in cities of the dead
 
   
 
-Frequented by such skeletons that live and move?
+Frequented by such skeletons that live and move?  ^8-70
 
   
 
@@ -11576,7 +11576,7 @@ All is at a price: exhaustion in this life,
 
   
 
-And in the next, the suffering of hell!
+And in the next, the suffering of hell!  ^8-71
 
   
 
@@ -11596,7 +11596,7 @@ The whole of life is spent in gaining wealth,
 
   
 
-But then they’re old—too old to satisfy their lust!
+But then they’re old—too old to satisfy their lust!  ^8-72
 
   
 
@@ -11616,7 +11616,7 @@ They go home broken by fatigue
 
   
 
-To sleep the slumbers of a corpse.
+To sleep the slumbers of a corpse.  ^8-73
 
   
 
@@ -11636,7 +11636,7 @@ And children whom they love and long to see.
 
   
 
-They do not meet with them for years on end.
+They do not meet with them for years on end.  ^8-74
 
   
 
@@ -11656,7 +11656,7 @@ Happiness eludes their grasp and pointlessly
 
   
 
-They live and labor for their masters.
+They live and labor for their masters.  ^8-75
 
   
 
@@ -11676,7 +11676,7 @@ And, destitute, their wives give birth
 
   
 
-With only trees for shelter, in the wild.
+With only trees for shelter, in the wild.  ^8-76
 
   
 
@@ -11696,7 +11696,7 @@ In the wars, though fearful for their lives.
 
   
 
-And seeking gain, it’s slavery they get.
+And seeking gain, it’s slavery they get.  ^8-77
 
   
 
@@ -11716,7 +11716,7 @@ Some are wounded, run through by the lance,
 
   
 
-While some are put to death by fire.
+While some are put to death by fire.  ^8-78
 
   
 
@@ -11736,7 +11736,7 @@ For those distracted by their love of wealth
 
   
 
-There is no chance for freedom from the sorrows of existence.
+There is no chance for freedom from the sorrows of existence.  ^8-79
 
   
 
@@ -11756,7 +11756,7 @@ They’re like the ox that pulls the cart
 
   
 
-And catches bits of grass along the way.
+And catches bits of grass along the way.  ^8-80
 
   
 
@@ -11776,7 +11776,7 @@ Tormented by their karma, they destroy
 
   
 
-This precious human life so hard to find.
+This precious human life so hard to find.  ^8-81
 
   
 
@@ -11796,7 +11796,7 @@ For what amounts to very little
 
   
 
-We must suffer constant and exhausting weariness.
+We must suffer constant and exhausting weariness.  ^8-82
 
   
 
@@ -11816,7 +11816,7 @@ Those who crave are plagued far more than those engaged upon the path,
 
   
 
-Yet Buddhahood is not what they attain!
+Yet Buddhahood is not what they attain!  ^8-83
 
   
 
@@ -11836,7 +11836,7 @@ Yawning chasms, hostile foes—
 
   
 
-None is on a level with our cravings.
+None is on a level with our cravings.  ^8-84
 
   
 
@@ -11856,7 +11856,7 @@ In places empty of all conflict and defilement:
 
   
 
-The peace and stillness of the forest.
+The peace and stillness of the forest.  ^8-85
 
   
 
@@ -11876,7 +11876,7 @@ Refreshed by moonlight’s sandal-scented beams,
 
   
 
-By gentle woodland breezes soothed!
+By gentle woodland breezes soothed!  ^8-86
 
   
 
@@ -11896,7 +11896,7 @@ Relinquishing the pain of guarding our possessions,
 
   
 
-Let us live in freedom, unconfined by cares.
+Let us live in freedom, unconfined by cares.  ^8-87
 
   
 
@@ -11916,7 +11916,7 @@ A life of such contentment and such pleasure,
 
   
 
-Even Indra would be pressed to find!
+Even Indra would be pressed to find!  ^8-88
 
   
 
@@ -11936,7 +11936,7 @@ Pacify completely all discursiveness
 
   
 
-And cultivate the mind of bodhichitta.
+And cultivate the mind of bodhichitta.  ^8-89
 
   
 
@@ -11956,7 +11956,7 @@ In joy and sorrow all are equal;
 
   
 
-Thus be guardian of all, as of yourself.
+Thus be guardian of all, as of yourself.  ^8-90
 
   
 
@@ -11976,7 +11976,7 @@ Likewise, different beings, in their joys and sorrows,
 
   
 
-Are, like me, all one in wanting happiness.
+Are, like me, all one in wanting happiness.  ^8-91
 
   
 
@@ -11996,7 +11996,7 @@ And yet this pain is hard for me to bear
 
   
 
-Because I cling and take it for my own.
+Because I cling and take it for my own.  ^8-92
 
   
 
@@ -12016,7 +12016,7 @@ Because I take them for myself,98
 
   
 
-Their suffering is mine and therefore hard to bear.
+Their suffering is mine and therefore hard to bear.  ^8-93
 
   
 
@@ -12036,7 +12036,7 @@ And others I will aid and benefit,
 
   
 
-For they are living beings, like my body.
+For they are living beings, like my body.  ^8-94
 
   
 
@@ -12056,7 +12056,7 @@ What difference is there to distinguish us,
 
   
 
-That I should strive to have my bliss alone?
+That I should strive to have my bliss alone?  ^8-95
 
   
 
@@ -12076,7 +12076,7 @@ What difference is there to distinguish us,
 
   
 
-That I should save myself and not the others?
+That I should save myself and not the others?  ^8-96
 
   
 
@@ -12096,7 +12096,7 @@ So why to guard against “my” future pain,
 
   
 
-Which does no harm to this, my present “me”?
+Which does no harm to this, my present “me”?  ^8-97
 
   
 
@@ -12116,7 +12116,7 @@ For that which dies is one thing;
 
   
 
-What is born is something else.
+What is born is something else.  ^8-98
 
   
 
@@ -12136,7 +12136,7 @@ The pain felt in my foot is not my hand’s,
 
   
 
-So why, in fact, should one protect the other?
+So why, in fact, should one protect the other?  ^8-99
 
   
 
@@ -12156,7 +12156,7 @@ But what is inadmissible for others and myself
 
   
 
-Should be discarded utterly!
+Should be discarded utterly!  ^8-100
 
   
 
@@ -12176,7 +12176,7 @@ So there is no one to experience pain
 
   
 
-For who is there to be its “owner”?
+For who is there to be its “owner”?  ^8-101
 
   
 
@@ -12196,7 +12196,7 @@ Since pain is pain, it is to be dispelled.
 
   
 
-What use is there in drawing boundaries?
+What use is there in drawing boundaries?  ^8-102
 
   
 
@@ -12216,7 +12216,7 @@ If “my” pain is removed, so too should that of “others.”
 
   
 
-If theirs is not, then neither should be mine.
+If theirs is not, then neither should be mine.  ^8-103
 
   
 
@@ -12236,7 +12236,7 @@ But thinking of the sufferings of beings,
 
   
 
-How can you regard as great the smart of your compassion?
+How can you regard as great the smart of your compassion?  ^8-104
 
   
 
@@ -12256,7 +12256,7 @@ Such pain as this all loving people
 
   
 
-Strive to foster in themselves and others.
+Strive to foster in themselves and others.  ^8-105
 
   
 
@@ -12276,7 +12276,7 @@ Did nothing to escape from tribulation,
 
   
 
-That the pains of many should be ended.
+That the pains of many should be ended.  ^8-106
 
   
 
@@ -12296,7 +12296,7 @@ Will venture into hell of Unrelenting Pain
 
   
 
-As swans sweep down upon a lotus lake.
+As swans sweep down upon a lotus lake.  ^8-107
 
   
 
@@ -12316,7 +12316,7 @@ Will this not be enough? Will this not satisfy?
 
   
 
-The wish for my own freedom, what is that to me?
+The wish for my own freedom, what is that to me?  ^8-108
 
   
 
@@ -12336,7 +12336,7 @@ The happiness of others is itself my satisfaction;
 
   
 
-I do not expect another recompense.
+I do not expect another recompense.  ^8-109
 
   
 
@@ -12356,7 +12356,7 @@ In just the same way with regard to others,
 
   
 
-I should likewise have a mind protective and compassionate.
+I should likewise have a mind protective and compassionate.  ^8-110
 
   
 
@@ -12376,7 +12376,7 @@ I came to have in its regard a sense of “I,”
 
   
 
-Though, in itself, it is devoid of entity.
+Though, in itself, it is devoid of entity.  ^8-111
 
   
 
@@ -12396,7 +12396,7 @@ And vice versa, why should it be hard
 
   
 
-To think of this my body as another’s?
+To think of this my body as another’s?  ^8-112
 
   
 
@@ -12416,7 +12416,7 @@ I shall lay aside all love of self
 
   
 
-And gain the habit of adopting other beings.
+And gain the habit of adopting other beings.  ^8-113
 
   
 
@@ -12436,7 +12436,7 @@ Can we likewise not consider others
 
   
 
-As the limbs and members of a living whole?
+As the limbs and members of a living whole?  ^8-114
 
   
 
@@ -12456,7 +12456,7 @@ Why should not the thought of “I,”
 
   
 
-Through habit, not arise related to another?
+Through habit, not arise related to another?  ^8-115
 
   
 
@@ -12476,7 +12476,7 @@ It is just as when I feed myself—
 
   
 
-I don’t expect to be rewarded!
+I don’t expect to be rewarded!  ^8-116
 
   
 
@@ -12496,7 +12496,7 @@ Likewise for beings I shall now grow used
 
   
 
-To have a mind protective and compassionate.
+To have a mind protective and compassionate.  ^8-117
 
   
 
@@ -12516,7 +12516,7 @@ That those caught in the midst of multitudes
 
   
 
-Might be released and freed from every fear.101
+Might be released and freed from every fear.101  ^8-118
 
   
 
@@ -12536,7 +12536,7 @@ People even come to grieve
 
   
 
-For those whose very names struck terror in their hearts!
+For those whose very names struck terror in their hearts!  ^8-119
 
   
 
@@ -12556,7 +12556,7 @@ Should make the interchange of “I” and “other,”
 
   
 
-And thus embrace a sacred mystery.
+And thus embrace a sacred mystery.  ^8-120
 
   
 
@@ -12576,7 +12576,7 @@ This body, then, this source of so much terror—
 
   
 
-Who would not detest it as the worst of foes?
+Who would not detest it as the worst of foes?  ^8-121
 
   
 
@@ -12596,7 +12596,7 @@ We steal the lives of fishes, birds, and deer
 
   
 
-And lie in wait along the road.
+And lie in wait along the road.  ^8-122
 
   
 
@@ -12616,7 +12616,7 @@ Or steal what has been offered to the Triple Gem,
 
   
 
-Because of which, they’ll burn in hell of Unrelenting Pain.
+Because of which, they’ll burn in hell of Unrelenting Pain.  ^8-123
 
   
 
@@ -12636,7 +12636,7 @@ Who would not perceive it as their foe,
 
   
 
-And as their foe, regard it with contempt?
+And as their foe, regard it with contempt?  ^8-124
 
   
 
@@ -12656,7 +12656,7 @@ Thinking of oneself—the way of evil ghosts.
 
   
 
-Concern for others is the way of heaven.102
+Concern for others is the way of heaven.102  ^8-125
 
   
 
@@ -12676,7 +12676,7 @@ But if for others’ sake I harm myself,
 
   
 
-Then every excellence will be my heritage.
+Then every excellence will be my heritage.  ^8-126
 
   
 
@@ -12696,7 +12696,7 @@ Let this be changed, applied to others—
 
   
 
-Honors and the realms of bliss will come!
+Honors and the realms of bliss will come!  ^8-127
 
   
 
@@ -12716,7 +12716,7 @@ But if I labor for the good of others,
 
   
 
-Mastery and leadership will come to me.
+Mastery and leadership will come to me.  ^8-128
 
   
 
@@ -12736,7 +12736,7 @@ All the misery the world contains
 
   
 
-Has come through wanting pleasure for oneself.
+Has come through wanting pleasure for oneself.  ^8-129
 
   
 
@@ -12756,7 +12756,7 @@ Buddhas labor for the good of others:
 
   
 
-See the difference that divides them!
+See the difference that divides them!  ^8-130
 
   
 
@@ -12776,7 +12776,7 @@ Enlightenment will never be attained,
 
   
 
-And even in saṃsāra, joy will fly from me.
+And even in saṃsāra, joy will fly from me.  ^8-131
 
   
 
@@ -12796,7 +12796,7 @@ The servants do not do their work,
 
   
 
-And masters do not pay the wages earned.
+And masters do not pay the wages earned.  ^8-132
 
   
 
@@ -12816,7 +12816,7 @@ Because of bringing harm to other beings,
 
   
 
-I ignorantly bring myself intolerable pain.
+I ignorantly bring myself intolerable pain.  ^8-133
 
   
 
@@ -12836,7 +12836,7 @@ Clinging to the “I” has caused it!
 
   
 
-What am I to do with this great demon?
+What am I to do with this great demon?  ^8-134
 
   
 
@@ -12856,7 +12856,7 @@ If they do not keep away from fire,
 
   
 
-People can’t escape from being burned.
+People can’t escape from being burned.  ^8-135
 
   
 
@@ -12876,7 +12876,7 @@ Let me give myself to others,
 
   
 
-Loving them as I now love myself.
+Loving them as I now love myself.  ^8-136
 
   
 
@@ -12896,7 +12896,7 @@ And now no longer shall you have a thought
 
   
 
-That does not wish the benefit of beings.
+That does not wish the benefit of beings.  ^8-137
 
   
 
@@ -12916,7 +12916,7 @@ And it is likewise disallowed
 
   
 
-To use my faculties against their owners!
+To use my faculties against their owners!  ^8-138
 
   
 
@@ -12936,7 +12936,7 @@ Will all be seized and offered
 
   
 
-For the use and service of all other beings.
+For the use and service of all other beings.  ^8-139
 
   
 
@@ -12956,7 +12956,7 @@ Then, without another thought,
 
   
 
-Immerse yourself in envy, pride, and rivalry.
+Immerse yourself in envy, pride, and rivalry.  ^8-140
 
   
 
@@ -12976,7 +12976,7 @@ Everyone looks up to him, despising me,
 
   
 
-All goes well for him; for me there’s only bitterness!
+All goes well for him; for me there’s only bitterness!  ^8-141
 
   
 
@@ -12996,7 +12996,7 @@ He’s great, respected in the world,
 
   
 
-While I’m the underdog, a well-known nobody.
+While I’m the underdog, a well-known nobody.  ^8-142
 
   
 
@@ -13016,7 +13016,7 @@ Compared with some, he’s lower down.
 
   
 
-Compared with some, I do excel!
+Compared with some, I do excel!  ^8-143
 
   
 
@@ -13036,7 +13036,7 @@ As much as he is able, he should cure me.
 
   
 
-I will be submissive even to his punishments.
+I will be submissive even to his punishments.  ^8-144
 
   
 
@@ -13056,7 +13056,7 @@ What use, then, are his qualities to me—
 
   
 
-Those qualities of which he’s so possessed?
+Those qualities of which he’s so possessed?  ^8-145
 
   
 
@@ -13076,7 +13076,7 @@ He makes an outward show of virtues,
 
   
 
-And even wants to vie with sages.
+And even wants to vie with sages.  ^8-146
 
   
 
@@ -13096,7 +13096,7 @@ In contests I will certainly secure
 
   
 
-My fame and fortune, public renown.
+My fame and fortune, public renown.  ^8-147
 
   
 
@@ -13116,7 +13116,7 @@ Ensuring that his qualities
 
   
 
-Remain unknown, ignored by everyone.
+Remain unknown, ignored by everyone.  ^8-148
 
   
 
@@ -13136,7 +13136,7 @@ I, not he, will gain possessions and renown,
 
   
 
-I will be the center of attention.
+I will be the center of attention.  ^8-149
 
   
 
@@ -13156,7 +13156,7 @@ I will render him despicable,
 
   
 
-The butt and laughingstock of everyone.
+The butt and laughingstock of everyone.  ^8-150
 
   
 
@@ -13176,7 +13176,7 @@ But how can he be on a par
 
   
 
-With me, in learning, beauty, wealth, or pedigree?
+With me, in learning, beauty, wealth, or pedigree?  ^8-151
 
   
 
@@ -13196,7 +13196,7 @@ The thrill of it sends shivers down my spine,
 
   
 
-A pleasure that I bask and revel in!
+A pleasure that I bask and revel in!  ^8-152
 
   
 
@@ -13216,7 +13216,7 @@ He can keep enough just to survive,
 
   
 
-But with my strength I’ll steal the rest away.
+But with my strength I’ll steal the rest away.  ^8-153
 
   
 
@@ -13236,7 +13236,7 @@ He’s the one who in saṃsāra
 
   
 
-Did me mischiefs by the hundred!
+Did me mischiefs by the hundred!  ^8-154
 
   
 
@@ -13256,7 +13256,7 @@ And what great weariness it was,
 
   
 
-While your reward was only misery!
+While your reward was only misery!  ^8-155
 
   
 
@@ -13276,7 +13276,7 @@ The Buddha did not lie in what he said—
 
   
 
-You’ll see the benefits that come from it.
+You’ll see the benefits that come from it.  ^8-156
 
   
 
@@ -13296,7 +13296,7 @@ You could not still be lacking
 
   
 
-In the perfect bliss of Buddhahood.
+In the perfect bliss of Buddhahood.  ^8-157
 
   
 
@@ -13316,7 +13316,7 @@ And cling to it as though it were yourself,
 
   
 
-Now take sentient beings—others—as your self.
+Now take sentient beings—others—as your self.  ^8-158
 
   
 
@@ -13336,7 +13336,7 @@ Steal it, take it all away,
 
   
 
-And use it for the benefit of others.
+And use it for the benefit of others.  ^8-159
 
   
 
@@ -13356,7 +13356,7 @@ I am helped while others are abandoned:
 
   
 
-Why am I not jealous of myself?
+Why am I not jealous of myself?  ^8-160
 
   
 
@@ -13376,7 +13376,7 @@ Inquiring of myself repeatedly
 
   
 
-I will thus investigate my faults.
+I will thus investigate my faults.  ^8-161
 
   
 
@@ -13396,7 +13396,7 @@ And all my sins, however slight,
 
   
 
-Declare, and make them known to many.
+Declare, and make them known to many.  ^8-162
 
   
 
@@ -13416,7 +13416,7 @@ Among them I will be as one who serves,
 
   
 
-My lowly labor for their benefit.
+My lowly labor for their benefit.  ^8-163
 
   
 
@@ -13436,7 +13436,7 @@ Whatever qualities it has I’ll so contrive
 
   
 
-That they remain unknown to everyone.
+That they remain unknown to everyone.  ^8-164
 
   
 
@@ -13456,7 +13456,7 @@ May all of it descend upon itself,
 
   
 
-To its own hurt—to others’ benefit.
+To its own hurt—to others’ benefit.  ^8-165
 
   
 
@@ -13476,7 +13476,7 @@ But like a newly wedded bride,
 
   
 
-Let it be demure and blushing, timorous and shy!
+Let it be demure and blushing, timorous and shy!  ^8-166
 
   
 
@@ -13496,7 +13496,7 @@ And if it oversteps the mark,
 
   
 
-Well then, apply the lash!
+Well then, apply the lash!  ^8-167
 
   
 
@@ -13516,7 +13516,7 @@ Since every evil has its roots in you,
 
   
 
-You are indeed now ripe for punishment!
+You are indeed now ripe for punishment!  ^8-168
 
   
 
@@ -13536,7 +13536,7 @@ Now I see you! Where will you escape?
 
   
 
-I’ll bring you down with all your haughty insolence.
+I’ll bring you down with all your haughty insolence.  ^8-169
 
   
 
@@ -13556,7 +13556,7 @@ Now that you’ve been sold to others,
 
   
 
-Stop your whining, be of service!
+Stop your whining, be of service!  ^8-170
 
   
 
@@ -13576,7 +13576,7 @@ You will hand me over, it is certain,
 
   
 
-To the guards and janitors of hell.
+To the guards and janitors of hell.  ^8-171
 
   
 
@@ -13596,7 +13596,7 @@ Now my memory is full of rancor,
 
   
 
-I will crush your selfish schemes!
+I will crush your selfish schemes!  ^8-172
 
   
 
@@ -13616,7 +13616,7 @@ And likewise, if I wish to guard myself,
 
   
 
-Of others I should always be the guard.
+Of others I should always be the guard.  ^8-173
 
   
 
@@ -13636,7 +13636,7 @@ Just so, just so, to that degree,
 
   
 
-It dwindles to a weak and fretful state.
+It dwindles to a weak and fretful state.  ^8-174
 
   
 
@@ -13656,7 +13656,7 @@ Are powerless to satisfy.
 
   
 
-For who can give them all they crave?
+For who can give them all they crave?  ^8-175
 
   
 
@@ -13676,7 +13676,7 @@ While those with free, untrammeled hearts,
 
   
 
-Will never know an end of excellence.
+Will never know an end of excellence.  ^8-176
 
   
 
@@ -13696,7 +13696,7 @@ And of possessions, those things are the best
 
   
 
-That do not captivate by their attractiveness.
+That do not captivate by their attractiveness.  ^8-177
 
   
 
@@ -13716,7 +13716,7 @@ This form so frightening and foul—
 
   
 
-Why do I so regard it as my “self”?
+Why do I so regard it as my “self”?  ^8-178
 
   
 
@@ -13736,7 +13736,7 @@ What difference will divide it from a clod of earth?
 
   
 
-Alas that I don’t rid myself of pride!
+Alas that I don’t rid myself of pride!  ^8-179
 
   
 
@@ -13756,7 +13756,7 @@ What use is all my wanting, all my hating,
 
   
 
-For what indeed is like a log of wood?
+For what indeed is like a log of wood?  ^8-180
 
   
 
@@ -13776,7 +13776,7 @@ This body feels no pleasure, no aversion.
 
   
 
-Why then do I cherish it so much?
+Why then do I cherish it so much?  ^8-181
 
   
 
@@ -13796,7 +13796,7 @@ Neither of these two my body feels.
 
   
 
-So why do I exhaust myself?
+So why do I exhaust myself?  ^8-182
 
   
 
@@ -13816,7 +13816,7 @@ Since all appreciate the bodies that they have,
 
   
 
-Why do I not take pleasure in them too?104
+Why do I not take pleasure in them too?104  ^8-183
 
   
 
@@ -13836,7 +13836,7 @@ And though it is afflicted by so many faults,
 
   
 
-I shall adopt it as my necessary tool.
+I shall adopt it as my necessary tool.  ^8-184
 
   
 
@@ -13856,7 +13856,7 @@ Recalling their advice on carefulness,
 
   
 
-I’ll shun all sleep and mental dullness.
+I’ll shun all sleep and mental dullness.  ^8-185
 
   
 
@@ -13876,7 +13876,7 @@ For if I do not labor night and day,
 
   
 
-When will my sorrows reach their end?105
+When will my sorrows reach their end?105  ^8-186
 
   
 
@@ -13896,7 +13896,7 @@ And constantly upon the perfect object
 
   
 
-I shall rest my mind in even meditation.
+I shall rest my mind in even meditation.  ^8-187
 
   
   
@@ -13928,7 +13928,7 @@ Therefore they must cultivate this wisdom
 
   
 
-Who wish to have an end of suffering.
+Who wish to have an end of suffering.  ^9-1
 
   
 
@@ -13948,7 +13948,7 @@ The ultimate is not within the reach of intellect,
 
   
 
-For intellect is said to be the relative.107
+For intellect is said to be the relative.107  ^9-2
 
   
 
@@ -13968,7 +13968,7 @@ In this regard, the views of ordinary folk
 
   
 
-Are undermined by yogis who themselves are in the world108
+Are undermined by yogis who themselves are in the world108  ^9-3
 
   
 
@@ -13988,7 +13988,7 @@ By means of the examples that the yogis and the worldly both accept.
 
   
 
-And for the sake of the result, analysis is left aside.
+And for the sake of the result, analysis is left aside.  ^9-4
 
   
 
@@ -14008,7 +14008,7 @@ This, then, is the subject of debate
 
   
 
-Where ordinary and yogis differ.
+Where ordinary and yogis differ.  ^9-5
 
   
 
@@ -14028,7 +14028,7 @@ They’re false just like, for instance, unclean things
 
   
 
-Regarded in the common view as pure.
+Regarded in the common view as pure.  ^9-6
 
   
 
@@ -14048,7 +14048,7 @@ But these in truth lack even momentariness.
 
   
 
-Now if you say it’s wrong to claim the momentary as relative,
+Now if you say it’s wrong to claim the momentary as relative,  ^9-7
 
   
 
@@ -14068,7 +14068,7 @@ Were it otherwise, the common view
 
   
 
-Could fault the yogic insight into corporal impurity.
+Could fault the yogic insight into corporal impurity.  ^9-8
 
   
 
@@ -14088,7 +14088,7 @@ As if the Buddha were existing truly.
 
   
 
-How, when dying, can they take rebirth?”
+How, when dying, can they take rebirth?”  ^9-9
 
   
 
@@ -14108,7 +14108,7 @@ Why, through simply being more protracted,
 
   
 
-Should sentient beings be regarded as more real?
+Should sentient beings be regarded as more real?  ^9-10
 
   
 
@@ -14128,7 +14128,7 @@ But beings do indeed have mirage-like minds;
 
   
 
-Sin and merit will, in consequence, arise.
+Sin and merit will, in consequence, arise.  ^9-11
 
   
 
@@ -14148,7 +14148,7 @@ Illusions spring from various causes;
 
   
 
-Thus illusions are of different kinds.
+Thus illusions are of different kinds.  ^9-12
 
   
 
@@ -14168,7 +14168,7 @@ There never was!
 
   
 
-“But relatively circle in saṃsāra,
+“But relatively circle in saṃsāra,  ^9-13
 
   
 
@@ -14188,7 +14188,7 @@ As long as there’s no cutting of the causal stream,
 
   
 
-There is no halting even of illusory displays.
+There is no halting even of illusory displays.  ^9-14
 
   
 
@@ -14208,7 +14208,7 @@ Even relative phenomena do not appear.
 
   
 
-What is it,” you will ask, “that sees illusion?”
+What is it,” you will ask, “that sees illusion?”  ^9-15
 
   
 
@@ -14228,7 +14228,7 @@ What, indeed, is there to be perceived?
 
   
 
-“That very mode is but the mind itself.”
+“That very mode is but the mind itself.”  ^9-16
 
   
 
@@ -14248,7 +14248,7 @@ The Guardian of the World himself has said
 
   
 
-That mind cannot be seen by mind.
+That mind cannot be seen by mind.  ^9-17
 
   
 
@@ -14268,7 +14268,7 @@ The sword’s edge cannot cut the sword.
 
   
 
-That perfectly illuminates itself.”
+That perfectly illuminates itself.”  ^9-18
 
   
 
@@ -14288,7 +14288,7 @@ And why? Because the darkness never dims it!
 
   
 
-“Depends, unlike a crystal, upon nothing else.
+“Depends, unlike a crystal, upon nothing else.  ^9-19
 
   
 
@@ -14308,7 +14308,7 @@ But something that’s by nature blue has never of itself imposed
 
   
 
-A blueness on its non-blue self.
+A blueness on its non-blue self.  ^9-20
 
   
 
@@ -14328,7 +14328,7 @@ But what is there to know and say
 
   
 
-That “mind is self-illuminating?”
+That “mind is self-illuminating?”  ^9-21
 
   
 
@@ -14348,7 +14348,7 @@ Is like the beauty of a barren woman’s daughter:
 
   
 
-Something that it’s pointless to discuss.
+Something that it’s pointless to discuss.  ^9-22
 
   
 
@@ -14368,7 +14368,7 @@ We say that, like the poison of the water rat,
 
   
 
-It’s through the link with things experienced that memory occurs.
+It’s through the link with things experienced that memory occurs.  ^9-23
 
   
 
@@ -14388,7 +14388,7 @@ But through the application of a magic balm,
 
   
 
-The eye may see the treasure, but the salve it does not see.
+The eye may see the treasure, but the salve it does not see.  ^9-24
 
   
 
@@ -14408,7 +14408,7 @@ Our aim is here to undermine the cause of sorrow:
 
   
 
-The thought that such phenomena have true existence.
+The thought that such phenomena have true existence.  ^9-25
 
   
 
@@ -14428,7 +14428,7 @@ How could they not be different if the mind is real?
 
   
 
-And how can mind be real if you deny a difference?
+And how can mind be real if you deny a difference?  ^9-26
 
   
 
@@ -14448,7 +14448,7 @@ And that which sees is just the same.
 
   
 
-“Or else it is like empty space.”
+“Or else it is like empty space.”  ^9-27
 
   
 
@@ -14468,7 +14468,7 @@ This mind of yours is isolated and alone,
 
   
 
-Alone, in solitude, and unaccompanied.
+Alone, in solitude, and unaccompanied.  ^9-28
 
   
 
@@ -14488,7 +14488,7 @@ And so, what purpose can there be
 
   
 
-In saying thus, that there is “Only Mind”?
+In saying thus, that there is “Only Mind”?  ^9-29
 
   
 
@@ -14508,7 +14508,7 @@ Magicians may indeed themselves desire
 
   
 
-The mirage-women they themselves create.”
+The mirage-women they themselves create.”  ^9-30
 
   
 
@@ -14528,7 +14528,7 @@ And when they gaze upon such things,
 
   
 
-Their aptitude for emptiness is weak indeed.
+Their aptitude for emptiness is weak indeed.  ^9-31
 
   
 
@@ -14548,7 +14548,7 @@ By training in the thought “There isn’t anything,”
 
   
 
-This view itself will also be abandoned.
+This view itself will also be abandoned.  ^9-32
 
   
 
@@ -14568,7 +14568,7 @@ How can a “nothing,” wholly unsupported,
 
   
 
-Rest before the mind as something present?
+Rest before the mind as something present?  ^9-33
 
   
 
@@ -14588,7 +14588,7 @@ No other option does the latter have:
 
   
 
-It comes to perfect rest, from concepts free.
+It comes to perfect rest, from concepts free.  ^9-34
 
   
 
@@ -14608,7 +14608,7 @@ Likewise, through their prayers for those who might be trained,
 
   
 
-The physical appearance of the Conquerors occurs.
+The physical appearance of the Conquerors occurs.  ^9-35
 
   
 
@@ -14628,7 +14628,7 @@ Continued even ages thence
 
   
 
-To remedy and soothe all plagues and venom.
+To remedy and soothe all plagues and venom.  ^9-36
 
   
 
@@ -14648,7 +14648,7 @@ Though Bodhisattvas pass beyond all grief,
 
   
 
-They yet can satisfy all ends.
+They yet can satisfy all ends.  ^9-37
 
   
 
@@ -14668,7 +14668,7 @@ It’s said that whether Buddhas live or pass beyond,
 
   
 
-The offerings made to them are equal in their merit.
+The offerings made to them are equal in their merit.  ^9-38
 
   
 
@@ -14688,7 +14688,7 @@ Just as there will be results
 
   
 
-When Buddhas are considered truly real.
+When Buddhas are considered truly real.  ^9-39
 
   
 
@@ -14708,7 +14708,7 @@ But as the scriptures have themselves proclaimed,
 
   
 
-Without this path there can be no enlightenment.
+Without this path there can be no enlightenment.  ^9-40
 
   
 
@@ -14728,7 +14728,7 @@ But how do you substantiate your own tradition?
 
   
 
-But at the outset, you yourself lacked proof!
+But at the outset, you yourself lacked proof!  ^9-41
 
   
 
@@ -14748,7 +14748,7 @@ Moreover, if accord between two parties shows the truth,
 
   
 
-The Vedas and the rest are also true.
+The Vedas and the rest are also true.  ^9-42
 
   
 
@@ -14768,7 +14768,7 @@ While Buddhists also vie among themselves;
 
   
 
-And so your own tradition you must now abandon.
+And so your own tradition you must now abandon.  ^9-43
 
   
 
@@ -14788,7 +14788,7 @@ It’s hard for minds enmeshed in thoughts
 
   
 
-To pass beyond the bonds of suffering.
+To pass beyond the bonds of suffering.  ^9-44
 
   
 
@@ -14808,7 +14808,7 @@ Yet those who from defilements are set free
 
   
 
-Continue to display the influence of karma.
+Continue to display the influence of karma.  ^9-45
 
   
 
@@ -14828,7 +14828,7 @@ They have no craving, granted, through defilement,
 
   
 
-But like their ignorance, why should they not have craving undefiled?
+But like their ignorance, why should they not have craving undefiled?  ^9-46
 
   
 
@@ -14848,7 +14848,7 @@ Concepts linger still within their minds;
 
   
 
-And it is to these concepts that they cling.
+And it is to these concepts that they cling.  ^9-47
 
   
 
@@ -14868,7 +14868,7 @@ Just as from a non-perceptual absorption.
 
   
 
-Therefore one must train in emptiness.
+Therefore one must train in emptiness.  ^9-48
 
   
 
@@ -14888,7 +14888,7 @@ Why don’t you now accept the greater part of Mahāyāna,
 
   
 
-With which your sūtras are in perfect harmony?109
+With which your sūtras are in perfect harmony?109  ^9-49
 
   
 
@@ -14908,7 +14908,7 @@ Why should a single sūtra in agreement with your texts
 
   
 
-Not vindicate the rest as Buddha’s teaching?
+Not vindicate the rest as Buddha’s teaching?  ^9-50
 
   
 
@@ -14928,7 +14928,7 @@ Who will therefore say that they’re to be rejected
 
   
 
-Just because they are not grasped by you?
+Just because they are not grasped by you?  ^9-51
 
   
 
@@ -14948,7 +14948,7 @@ In order to achieve the good of those who ignorantly suffer:
 
   
 
-Such is the fruit that emptiness will bear.
+Such is the fruit that emptiness will bear.  ^9-52
 
   
 
@@ -14968,7 +14968,7 @@ And so, with every doubt abandoned,
 
   
 
-We should meditate on it!
+We should meditate on it!  ^9-53
 
   
 
@@ -14988,7 +14988,7 @@ How then shall they not meditate on this
 
   
 
-Who wish for swift attainment of omniscience?
+Who wish for swift attainment of omniscience?  ^9-54
 
   
 
@@ -15008,7 +15008,7 @@ But voidness will allay our every grief,
 
   
 
-How could it be for us a thing of dread?
+How could it be for us a thing of dread?  ^9-55
 
   
 
@@ -15028,7 +15028,7 @@ But since no self or “I” exists at all,
 
   
 
-What is there left for fears to terrify?
+What is there left for fears to terrify?  ^9-56
 
   
 
@@ -15048,7 +15048,7 @@ The mucus from the nose and phlegm are not the “I,”
 
   
 
-And neither is it made of lymph or pus.
+And neither is it made of lymph or pus.  ^9-57
 
   
 
@@ -15068,7 +15068,7 @@ Neither are the inner organs “I,”
 
   
 
-Nor yet the body’s excrement and waste.
+Nor yet the body’s excrement and waste.  ^9-58
 
   
 
@@ -15088,7 +15088,7 @@ The cavities within the frame are not the “I,”
 
   
 
-And “I” is not accounted for in sixfold consciousness.
+And “I” is not accounted for in sixfold consciousness.  ^9-59
 
   
 
@@ -15108,7 +15108,7 @@ And if there is no object, what does it cognize?
 
   
 
-On what grounds do you call it consciousness?
+On what grounds do you call it consciousness?  ^9-60
 
   
 
@@ -15128,7 +15128,7 @@ Therefore in the absence of a thing to know,
 
   
 
-It’s clear that consciousness will not arise.
+It’s clear that consciousness will not arise.  ^9-61
 
   
 
@@ -15148,7 +15148,7 @@ Perhaps you say the sound’s no longer there.
 
   
 
-Then neither is there consciousness of sound.
+Then neither is there consciousness of sound.  ^9-62
 
   
 
@@ -15168,7 +15168,7 @@ Ever be transformed into a form-perceiver?
 
   
 
-But these are merely names; his nature is not so.
+But these are merely names; his nature is not so.  ^9-63
 
   
 
@@ -15188,7 +15188,7 @@ And we indeed have never yet observed
 
   
 
-A consciousness of form perceiving sound.
+A consciousness of form perceiving sound.  ^9-64
 
   
 
@@ -15208,7 +15208,7 @@ And if its later mode is still the first,
 
   
 
-That’s identity indeed and never seen before!
+That’s identity indeed and never seen before!  ^9-65
 
   
 
@@ -15228,7 +15228,7 @@ You say that this is simply knowing.
 
   
 
-It follows that all beings are a single thing.
+It follows that all beings are a single thing.  ^9-66
 
   
 
@@ -15248,7 +15248,7 @@ If the different kinds of mind are all unreal,
 
   
 
-What common basis can there be for them?
+What common basis can there be for them?  ^9-67
 
   
 
@@ -15268,7 +15268,7 @@ For mindlessness means matter, like a vase.
 
   
 
-Then this refutes its nature of unconsciousness.
+Then this refutes its nature of unconsciousness.  ^9-68
 
   
 
@@ -15288,7 +15288,7 @@ And selfhood we might equally affirm
 
   
 
-Of empty space, inert and destitute of mind.
+Of empty space, inert and destitute of mind.  ^9-69
 
   
 
@@ -15308,7 +15308,7 @@ If when the deed is done, the doer is no more,
 
   
 
-Who is there to reap the karmic fruit?”
+Who is there to reap the karmic fruit?”  ^9-70
 
   
 
@@ -15328,7 +15328,7 @@ This is valid both for you and us;
 
   
 
-What point is there, therefore, in our debate?
+What point is there, therefore, in our debate?  ^9-71
 
   
 
@@ -15348,7 +15348,7 @@ And only in the context of a single mental stream
 
   
 
-Can it be said that one who acts will later reap the fruit.
+Can it be said that one who acts will later reap the fruit.  ^9-72
 
   
 
@@ -15368,7 +15368,7 @@ Is then the self the thought which now is born?
 
   
 
-If so, it sinks to nothing when the latter fades.
+If so, it sinks to nothing when the latter fades.  ^9-73
 
   
 
@@ -15388,7 +15388,7 @@ Likewise analytical investigation
 
   
 
-Will find no “I,” no underlying self.
+Will find no “I,” no underlying self.  ^9-74
 
   
 
@@ -15408,7 +15408,7 @@ Those whom ignorance imputes,
 
   
 
-For whose sake we have pledged ourselves.
+For whose sake we have pledged ourselves.  ^9-75
 
   
 
@@ -15428,7 +15428,7 @@ But for the total vanquishing of sorrow,
 
   
 
-The goal, which ignorance conceives, should not be spurned.
+The goal, which ignorance conceives, should not be spurned.  ^9-76
 
   
 
@@ -15448,7 +15448,7 @@ To this you may believe that there is no redress,
 
   
 
-But meditation on no-self will be the supreme way.
+But meditation on no-self will be the supreme way.  ^9-77
 
   
 
@@ -15468,7 +15468,7 @@ It’s not the belly nor indeed the back,
 
   
 
-And from the chest and arms the body is not formed.
+And from the chest and arms the body is not formed.  ^9-78
 
   
 
@@ -15488,7 +15488,7 @@ It is not the head, and it is not the throat.
 
   
 
-What is the “body,” then, in all of this?
+What is the “body,” then, in all of this?  ^9-79
 
   
 
@@ -15508,7 +15508,7 @@ Its parts indeed are present in those parts.
 
   
 
-But where does “body,” in itself, abide?
+But where does “body,” in itself, abide?  ^9-80
 
   
 
@@ -15528,7 +15528,7 @@ However many parts there are, the hands and all the rest,
 
   
 
-You’ll find an equal quantity of “bodies.”
+You’ll find an equal quantity of “bodies.”  ^9-81
 
   
 
@@ -15548,7 +15548,7 @@ And since it is not other than its parts,
 
   
 
-How can you say that it exists at all?
+How can you say that it exists at all?  ^9-82
 
   
 
@@ -15568,7 +15568,7 @@ Just as on account of its specific shape
 
   
 
-A pile of stones is taken for a man.
+A pile of stones is taken for a man.  ^9-83
 
   
 
@@ -15588,7 +15588,7 @@ As long as all the parts are likewise present,
 
   
 
-A body will appear therein.
+A body will appear therein.  ^9-84
 
   
 
@@ -15608,7 +15608,7 @@ And so it is with fingers, made of joints—
 
   
 
-And joints themselves consist of many parts.
+And joints themselves consist of many parts.  ^9-85
 
   
 
@@ -15628,7 +15628,7 @@ These fragments, too, lack partless parts; they are like space.
 
   
 
-Thus even particles have no existence.
+Thus even particles have no existence.  ^9-86
 
   
 
@@ -15648,7 +15648,7 @@ The body, in this way, has no existence;
 
   
 
-What, therefore, is male and what is female?
+What, therefore, is male and what is female?  ^9-87
 
   
 
@@ -15668,7 +15668,7 @@ If pleasure’s real, then why will pleasant tastes
 
   
 
-Not comfort and amuse a man in agony?
+Not comfort and amuse a man in agony?  ^9-88
 
   
 
@@ -15688,7 +15688,7 @@ How can “feeling” rightly be ascribed
 
   
 
-To that which lacks the character of being felt?
+To that which lacks the character of being felt?  ^9-89
 
   
 
@@ -15708,7 +15708,7 @@ Or rather it is felt as “mere pleasure.”
 
   
 
-But what is subtle still remains itself.
+But what is subtle still remains itself.  ^9-90
 
   
 
@@ -15728,7 +15728,7 @@ Is not the claim that it’s a “feeling”
 
   
 
-No more than a mental imputation?
+No more than a mental imputation?  ^9-91
 
   
 
@@ -15748,7 +15748,7 @@ Absorption grown in fields of their investigation
 
   
 
-Is indeed the food and sustenance of yogis.
+Is indeed the food and sustenance of yogis.  ^9-92
 
   
 
@@ -15768,7 +15768,7 @@ And if there is no space, they form a unity,
 
   
 
-And therefore what is it that meets with what?
+And therefore what is it that meets with what?  ^9-93
 
   
 
@@ -15788,7 +15788,7 @@ But if they do not penetrate, they do not merge;
 
   
 
-And if they do not merge, there’s no encounter.
+And if they do not merge, there’s no encounter.  ^9-94
 
   
 
@@ -15808,7 +15808,7 @@ And you must show me, if you ever saw,
 
   
 
-A contact taking place between two partless things.
+A contact taking place between two partless things.  ^9-95
 
   
 
@@ -15828,7 +15828,7 @@ A combination, too, has no reality,
 
   
 
-Just as we have previously shown.
+Just as we have previously shown.  ^9-96
 
   
 
@@ -15848,7 +15848,7 @@ What purpose is there, then, in all our toil,
 
   
 
-For what is it, indeed, that torments what?
+For what is it, indeed, that torments what?  ^9-97
 
   
 
@@ -15868,7 +15868,7 @@ How is craving not arrested
 
   
 
-When all this is clearly understood?
+When all this is clearly understood?  ^9-98
 
   
 
@@ -15888,7 +15888,7 @@ If feeling is coincident with consciousness,
 
   
 
-It follows that it is not seen thereby.
+It follows that it is not seen thereby.  ^9-99
 
   
 
@@ -15908,7 +15908,7 @@ Sensation is without perception of itself
 
   
 
-And likewise, by another it is not perceived.
+And likewise, by another it is not perceived.  ^9-100
 
   
 
@@ -15928,7 +15928,7 @@ What damage, therefore, can sensation do to it—
 
   
 
-This aggregate deprived of self?
+This aggregate deprived of self?  ^9-101
 
   
 
@@ -15948,7 +15948,7 @@ And in between, the mind does not abide:
 
   
 
-Not out, not in, not elsewhere, can the mind be found.
+Not out, not in, not elsewhere, can the mind be found.  ^9-102
 
   
 
@@ -15968,7 +15968,7 @@ Something such as this does not exist, not even slightly.
 
   
 
-Beings by their nature are beyond the reach of suffering.
+Beings by their nature are beyond the reach of suffering.  ^9-103
 
   
 
@@ -15988,7 +15988,7 @@ If consciousness arises at the same time as its object,
 
   
 
-Again, regarding what does it arise?
+Again, regarding what does it arise?  ^9-104
 
   
 
@@ -16008,7 +16008,7 @@ Thus the origin of all phenomena
 
   
 
-Exceeds the reach of understanding.
+Exceeds the reach of understanding.  ^9-105
 
   
 
@@ -16028,7 +16028,7 @@ Moreover, if the relative derives from beings’ minds,
 
   
 
-How can they pass beyond their sorrows?”
+How can they pass beyond their sorrows?”  ^9-106
 
   
 
@@ -16048,7 +16048,7 @@ If subsequently there are thoughts, the relative’s still there;
 
   
 
-If not, the relative has ceased indeed.
+If not, the relative has ceased indeed.  ^9-107
 
   
 
@@ -16068,7 +16068,7 @@ It is on the basis of conventional consensus
 
   
 
-That all investigation is expressed.
+That all investigation is expressed.  ^9-108
 
   
 
@@ -16088,7 +16088,7 @@ This investigation likewise may be analyzed,
 
   
 
-And thus we find an infinite regress.”
+And thus we find an infinite regress.”  ^9-109
 
   
 
@@ -16108,7 +16108,7 @@ And when the object is removed, the subject too subsides.
 
   
 
-That indeed is said to be nirvāṇa.
+That indeed is said to be nirvāṇa.  ^9-110
 
   
 
@@ -16128,7 +16128,7 @@ If consciousness reveals the truth of things,
 
   
 
-On what grounds, in its turn, does consciousness exist?
+On what grounds, in its turn, does consciousness exist?  ^9-111
 
   
 
@@ -16148,7 +16148,7 @@ If both subsist through mutual dependence,
 
   
 
-Both will thereby lose their true existence.
+Both will thereby lose their true existence.  ^9-112
 
   
 
@@ -16168,7 +16168,7 @@ There is no father in the absence of a son.
 
   
 
-Just so, the mind and object have no true existence.
+Just so, the mind and object have no true existence.  ^9-113
 
   
 
@@ -16188,7 +16188,7 @@ It’s just the same with consciousness arising from its object.
 
   
 
-How can it fail to show the thing’s existence?”
+How can it fail to show the thing’s existence?”  ^9-114
 
   
 
@@ -16208,7 +16208,7 @@ But what will show that consciousness exists,
 
   
 
-Whereby the object is itself established?
+Whereby the object is itself established?  ^9-115
 
   
 
@@ -16228,7 +16228,7 @@ The different segments of the lotus flower
 
   
 
-Arise from a variety of causes.
+Arise from a variety of causes.  ^9-116
 
   
 
@@ -16248,7 +16248,7 @@ An even earlier variety of causes, we declare.
 
   
 
-Through power, we answer, of preceding causes.
+Through power, we answer, of preceding causes.  ^9-117
 
   
 
@@ -16268,7 +16268,7 @@ If, by this, you simply mean the elements,
 
   
 
-No need to tire ourselves disputing names!
+No need to tire ourselves disputing names!  ^9-118
 
   
 
@@ -16288,7 +16288,7 @@ Trampled underfoot, they are impure,
 
   
 
-And thus they cannot be a God Omnipotent.
+And thus they cannot be a God Omnipotent.  ^9-119
 
   
 
@@ -16308,7 +16308,7 @@ He’s inconceivable, they say—then likewise his creatorship.
 
   
 
-Is there any point, therefore, to such a claim?
+Is there any point, therefore, to such a claim?  ^9-120
 
   
 
@@ -16328,7 +16328,7 @@ But are not self and elements and he himself eternal?
 
   
 
-And consciousness, we know, arises from its object.
+And consciousness, we know, arises from its object.  ^9-121
 
   
 
@@ -16348,7 +16348,7 @@ And if there’s no beginning in the cause,
 
   
 
-How can there be beginnings in its fruits?
+How can there be beginnings in its fruits?  ^9-122
 
   
 
@@ -16368,7 +16368,7 @@ And if there’s nothing that he has not made,
 
   
 
-What remains on which he might depend?
+What remains on which he might depend?  ^9-123
 
   
 
@@ -16388,7 +16388,7 @@ When these obtain, he cannot but create;
 
   
 
-When these are absent, he is powerless to make.
+When these are absent, he is powerless to make.  ^9-124
 
   
 
@@ -16408,7 +16408,7 @@ If he wishes to create, he’s swayed by his desire.
 
   
 
-So even though Creator, what of his omnipotence?
+So even though Creator, what of his omnipotence?  ^9-125
 
   
 
@@ -16428,7 +16428,7 @@ The Sāṃkhyas are the ones who hold
 
   
 
-That permanent prakṛiti is the cause of the evolving world.
+That permanent prakṛiti is the cause of the evolving world.  ^9-126
 
   
 
@@ -16448,7 +16448,7 @@ In equilibrium are termed “prakṛiti.”
 
   
 
-The universe arises when this balance is disturbed.
+The universe arises when this balance is disturbed.  ^9-127
 
   
 
@@ -16468,7 +16468,7 @@ These qualities likewise do not exist,
 
   
 
-For each of them indeed is three.
+For each of them indeed is three.  ^9-128
 
   
 
@@ -16488,7 +16488,7 @@ And cloth and other mindless objects
 
   
 
-Cannot be the seat of feelings such as pleasure.
+Cannot be the seat of feelings such as pleasure.  ^9-129
 
   
 
@@ -16508,7 +16508,7 @@ For you the cause is “pleasure” and the like,
 
   
 
-And yet from pleasure, cloth has never sprung!
+And yet from pleasure, cloth has never sprung!  ^9-130
 
   
 
@@ -16528,7 +16528,7 @@ As for permanence of pleasure and the rest—
 
   
 
-Well, there’s a thing that’s never been observed!
+Well, there’s a thing that’s never been observed!  ^9-131
 
   
 
@@ -16548,7 +16548,7 @@ And if you claim they take on subtle form,
 
   
 
-How is it that they are both gross and subtle?
+How is it that they are both gross and subtle?  ^9-132
 
   
 
@@ -16568,7 +16568,7 @@ So why not grant that, in this way,
 
   
 
-All things possess the character of transience?
+All things possess the character of transience?  ^9-133
 
   
 
@@ -16588,7 +16588,7 @@ If you claim that what does not exist in any sense
 
   
 
-(Because it has no being) cannot manifest,
+(Because it has no being) cannot manifest,  ^9-134
 
   
 
@@ -16608,7 +16608,7 @@ But if results exist within their cause,
 
   
 
-Those who eat their food consume their excrement.
+Those who eat their food consume their excrement.  ^9-135
 
   
 
@@ -16628,7 +16628,7 @@ Let them rather buy the cotton grains to wear!
 
   
 
-For this is taught by ‘those who know the truth.’”
+For this is taught by ‘those who know the truth.’”  ^9-136
 
   
 
@@ -16648,7 +16648,7 @@ If now you say that what the worldly see has no validity,
 
   
 
-This means that what they clearly see is false.
+This means that what they clearly see is false.  ^9-137
 
   
 
@@ -16668,7 +16668,7 @@ And therefore it becomes untenable
 
   
 
-To meditate on voidness, ultimate reality.”
+To meditate on voidness, ultimate reality.”  ^9-138
 
   
 
@@ -16688,7 +16688,7 @@ And so deceptive objects of whatever kind
 
   
 
-Will also have a nonexistence equally deceptive.
+Will also have a nonexistence equally deceptive.  ^9-139
 
   
 
@@ -16708,7 +16708,7 @@ Supplants the thought that it is living still.
 
   
 
-And yet both thoughts are equally deceptive.
+And yet both thoughts are equally deceptive.  ^9-140
 
   
 
@@ -16728,7 +16728,7 @@ And nothing is existent in its causes
 
   
 
-Taken one by one or in the aggregate.
+Taken one by one or in the aggregate.  ^9-141
 
   
 
@@ -16748,7 +16748,7 @@ How will what confusion takes for truth
 
   
 
-In any sense be different from a mirage?
+In any sense be different from a mirage?  ^9-142
 
   
 
@@ -16768,7 +16768,7 @@ Whence have these arisen? we should ask;
 
   
 
-And where they go to, that we should examine!
+And where they go to, that we should examine!  ^9-143
 
   
 
@@ -16788,7 +16788,7 @@ Is not real; it is like an image in a mirror.
 
   
 
-How can true existence be ascribed to it?
+How can true existence be ascribed to it?  ^9-144
 
   
 
@@ -16808,7 +16808,7 @@ But then, what need is there for cause
 
   
 
-In something that does not exist?
+In something that does not exist?  ^9-145
 
   
 
@@ -16828,7 +16828,7 @@ For in that state of “non-thing,” how could “things” occur?
 
   
 
-And into what could nonexistent things transform?
+And into what could nonexistent things transform?  ^9-146
 
   
 
@@ -16848,7 +16848,7 @@ For insofar as entities do not arise,
 
   
 
-Nonentities themselves will not depart.
+Nonentities themselves will not depart.  ^9-147
 
   
 
@@ -16868,7 +16868,7 @@ And entity cannot be changed into nonentity,
 
   
 
-For otherwise it has a double nature.
+For otherwise it has a double nature.  ^9-148
 
   
 
@@ -16888,7 +16888,7 @@ And therefore beings, each and every one,
 
   
 
-Are without origin and never cease.
+Are without origin and never cease.  ^9-149
 
   
 
@@ -16908,7 +16908,7 @@ In ultimate reality there’s no distinguishing
 
   
 
-Between the states of sorrow and beyond all sorrow.
+Between the states of sorrow and beyond all sorrow.  ^9-150
 
   
 
@@ -16928,7 +16928,7 @@ Who is there to pay me court and honors,
 
   
 
-And who is there to scorn and to revile me?
+And who is there to scorn and to revile me?  ^9-151
 
   
 
@@ -16948,7 +16948,7 @@ And if I search their very suchness,
 
   
 
-Who is craving? What is craved?
+Who is craving? What is craved?  ^9-152
 
   
 
@@ -16968,7 +16968,7 @@ What is there to come, and what has been?
 
   
 
-And who, indeed, are relatives and friends?
+And who, indeed, are relatives and friends?  ^9-153
 
   
 
@@ -16988,7 +16988,7 @@ But those who seek their happiness and ease,
 
   
 
-Through disputes or enjoyments,
+Through disputes or enjoyments,  ^9-154
 
   
 
@@ -17008,7 +17008,7 @@ Slashing, stabbing, injuring each other:
 
   
 
-They live their lives engulfed in evil and travail.
+They live their lives engulfed in evil and travail.  ^9-155
 
   
 
@@ -17028,7 +17028,7 @@ But dying, down they fall to suffer torment,
 
   
 
-Long, unbearable, in realms of sorrow.
+Long, unbearable, in realms of sorrow.  ^9-156
 
   
 
@@ -17048,7 +17048,7 @@ All is contradiction, all denial;
 
   
 
-Suchness in this world is not like this.
+Suchness in this world is not like this.  ^9-157
 
   
 
@@ -17068,7 +17068,7 @@ Here it is that strength is low,
 
   
 
-And lives are flickering and brief.
+And lives are flickering and brief.  ^9-158
 
   
 
@@ -17088,7 +17088,7 @@ Time consumed in sleep, all accident and injury,
 
   
 
-And sterile friendships with the childish—
+And sterile friendships with the childish—  ^9-159
 
   
 
@@ -17108,7 +17108,7 @@ How therefore shall we ever find the means
 
   
 
-To curb the futile wanderings of the mind?
+To curb the futile wanderings of the mind?  ^9-160
 
   
 
@@ -17128,7 +17128,7 @@ Manifold are false, deceptive trails,
 
   
 
-And it is hard to dissipate our doubts.
+And it is hard to dissipate our doubts.  ^9-161
 
   
 
@@ -17148,7 +17148,7 @@ Hard, indeed, to turn aside the torrent of defilement!
 
   
 
-Alas, our sorrows fall in endless streams!
+Alas, our sorrows fall in endless streams!  ^9-162
 
   
 
@@ -17168,7 +17168,7 @@ However terrible their plight may be,
 
   
 
-Do not perceive they suffer so!
+Do not perceive they suffer so!  ^9-163
 
   
 
@@ -17188,7 +17188,7 @@ They suffer greatly in this way,
 
   
 
-Yet there they stay, proclaiming loud their bliss.
+Yet there they stay, proclaiming loud their bliss.  ^9-164
 
   
 
@@ -17208,7 +17208,7 @@ But first they’re slain and then there comes
 
   
 
-The dreadful fall into the states of loss.
+The dreadful fall into the states of loss.  ^9-165
 
   
 
@@ -17228,7 +17228,7 @@ With plenteous rains of my own bliss
 
   
 
-That pour torrential from my clouds of merit?
+That pour torrential from my clouds of merit?  ^9-166
 
   
 
@@ -17248,7 +17248,7 @@ When shall I reveal this truth of emptiness
 
   
 
-To those who go to ruin through belief in real existence?
+To those who go to ruin through belief in real existence?  ^9-167
 
   
   
@@ -17280,7 +17280,7 @@ Of entry to the Bodhisattva way,
 
   
 
-May every being tread the path to Buddhahood.
+May every being tread the path to Buddhahood.  ^10-1
 
   
 
@@ -17300,7 +17300,7 @@ Have, by virtue of my merit,
 
   
 
-Joy and happiness in boundless measure.
+Joy and happiness in boundless measure.  ^10-2
 
   
 
@@ -17320,7 +17320,7 @@ May they taste of unsurpassed beatitude
 
   
 
-In constant and unbroken continuity.
+In constant and unbroken continuity.  ^10-3
 
   
 
@@ -17340,7 +17340,7 @@ May beings who abide there taste
 
   
 
-The bliss and peace of Sukhāvatī.111
+The bliss and peace of Sukhāvatī.111  ^10-4
 
   
 
@@ -17360,7 +17360,7 @@ Torrents rain in boundless streams
 
   
 
-To cool those burning in infernal fires.
+To cool those burning in infernal fires.  ^10-5
 
   
 
@@ -17380,7 +17380,7 @@ And may the trees of miracles appear,
 
   
 
-Supplanting those upon the hill of Shālmali.112
+Supplanting those upon the hill of Shālmali.112  ^10-6
 
   
 
@@ -17400,7 +17400,7 @@ And lovely with the cries of swan and goose
 
   
 
-And waterfowl so pleasing to the ear.
+And waterfowl so pleasing to the ear.  ^10-7
 
   
 
@@ -17420,7 +17420,7 @@ May crushing hills become sublime abodes:
 
   
 
-Offering temples, dwellings of the Buddhas.
+Offering temples, dwellings of the Buddhas.  ^10-8
 
   
 
@@ -17440,7 +17440,7 @@ And all the mutual woundings with sharp blades
 
   
 
-Be now a rain of flowers thrown in play.
+Be now a rain of flowers thrown in play.  ^10-9
 
   
 
@@ -17460,7 +17460,7 @@ May they, through all my merits’ strength, have godlike forms
 
   
 
-And sport with goddesses in Mandākinī’s peaceful streams.113
+And sport with goddesses in Mandākinī’s peaceful streams.113  ^10-10
 
   
 
@@ -17480,7 +17480,7 @@ And looking skyward they will see the shining form of Vajrapāṇi.
 
   
 
-Then may their sins be quenched in joy and may they go to him.
+Then may their sins be quenched in joy and may they go to him.  ^10-11
 
   
 
@@ -17500,7 +17500,7 @@ At once fulfilled in bliss, they’ll ask, “How can this be?”
 
   
 
-May then the denizens of hell behold the One Who Holds the Lotus.114
+May then the denizens of hell behold the One Who Holds the Lotus.114  ^10-12
 
   
 
@@ -17520,7 +17520,7 @@ This loving Bodhisattva saving and protecting every being,
 
   
 
-Whose power relieves all pain, bestowing joy?
+Whose power relieves all pain, bestowing joy?  ^10-13
 
   
 
@@ -17540,7 +17540,7 @@ The splendor of his house that echoes praises of a thousand goddesses!”
 
   
 
-May those in hell thus cry on seeing Mañjughoṣha.
+May those in hell thus cry on seeing Mañjughoṣha.  ^10-14
 
   
 
@@ -17560,7 +17560,7 @@ Those clouds of bliss all laden with a cooling scented rain,
 
   
 
-May all those languishing in hell come now to perfect joy.
+May all those languishing in hell come now to perfect joy.  ^10-15
 
   
 
@@ -17580,7 +17580,7 @@ And may the famished spirits have such joy
 
   
 
-As those who dwell within the northern continent.115
+As those who dwell within the northern continent.115  ^10-16
 
   
 
@@ -17600,7 +17600,7 @@ From noble Lord Avalokita’s hand,
 
   
 
-And bathing in it, may they be refreshed and cooled.
+And bathing in it, may they be refreshed and cooled.  ^10-17
 
   
 
@@ -17620,7 +17620,7 @@ And women near their time bring forth,
 
   
 
-Like Māyādevī,116 free from all travail.
+Like Māyādevī,116 free from all travail.  ^10-18
 
   
 
@@ -17640,7 +17640,7 @@ And may those parched with thirst receive
 
   
 
-Pure waters and delicious drink.
+Pure waters and delicious drink.  ^10-19
 
   
 
@@ -17660,7 +17660,7 @@ May those now in despair be whole in mind,
 
   
 
-Endowed with sterling constancy.
+Endowed with sterling constancy.  ^10-20
 
   
 
@@ -17680,7 +17680,7 @@ May every sickness that afflicts the living
 
   
 
-Be wholly and forever absent from the world.
+Be wholly and forever absent from the world.  ^10-21
 
   
 
@@ -17700,7 +17700,7 @@ And may the weak receive their strength.
 
   
 
-May living beings help each other in kindness.
+May living beings help each other in kindness.  ^10-22
 
   
 
@@ -17720,7 +17720,7 @@ And may they gain, without the need of toil,
 
   
 
-The goals on which they set their hearts.
+The goals on which they set their hearts.  ^10-23
 
   
 
@@ -17740,7 +17740,7 @@ And may they safely come to shore
 
   
 
-And sweet reunion with their kith and kin.
+And sweet reunion with their kith and kin.  ^10-24
 
   
 
@@ -17760,7 +17760,7 @@ And safe from threat of thieves and savage beasts,
 
   
 
-May they be tireless and their journey light.
+May they be tireless and their journey light.  ^10-25
 
   
 
@@ -17780,7 +17780,7 @@ Who fall asleep unconscious of their peril,
 
   
 
-Have pure celestial beings as their guardians.
+Have pure celestial beings as their guardians.  ^10-26
 
   
 
@@ -17800,7 +17800,7 @@ With perfect sustenance and conduct,
 
   
 
-May they always have remembrance of their former lives.
+May they always have remembrance of their former lives.  ^10-27
 
   
 
@@ -17820,7 +17820,7 @@ Enjoying it according to their wish,
 
   
 
-Without a trace of harm or enmity.
+Without a trace of harm or enmity.  ^10-28
 
   
 
@@ -17840,7 +17840,7 @@ And those who suffer from deformity
 
   
 
-Acquire great beauty and perfection.
+Acquire great beauty and perfection.  ^10-29
 
   
 
@@ -17860,7 +17860,7 @@ And may the lowly come to excellence,
 
   
 
-The proud and haughty lose their arrogance.
+The proud and haughty lose their arrogance.  ^10-30
 
   
 
@@ -17880,7 +17880,7 @@ Abandon all their evil ways
 
   
 
-Embracing goodness now and ever more.
+Embracing goodness now and ever more.  ^10-31
 
   
 
@@ -17900,7 +17900,7 @@ May they be accepted as disciples by the Buddhas,
 
   
 
-Drawing back from what is demons’ work.
+Drawing back from what is demons’ work.  ^10-32
 
   
 
@@ -17920,7 +17920,7 @@ Living always in contentment,
 
   
 
-May the very name of death be strange to them.
+May the very name of death be strange to them.  ^10-33
 
   
 
@@ -17940,7 +17940,7 @@ Resounding with the sweetness of the Teachings,
 
   
 
-Spoken by the Buddhas and their Bodhisattva heirs.
+Spoken by the Buddhas and their Bodhisattva heirs.  ^10-34
 
   
 
@@ -17960,7 +17960,7 @@ Flat and even like a level palm,
 
   
 
-And smooth like lapis lazuli.
+And smooth like lapis lazuli.  ^10-35
 
   
 
@@ -17980,7 +17980,7 @@ Live in every land,
 
   
 
-Adorning them with every excellence.
+Adorning them with every excellence.  ^10-36
 
   
 
@@ -18000,7 +18000,7 @@ May living beings, each and every one,
 
   
 
-Perceive the constant sound of Dharma.
+Perceive the constant sound of Dharma.  ^10-37
 
   
 
@@ -18020,7 +18020,7 @@ With clouds of offerings unbounded,
 
   
 
-May the teachers of the world be worshipped.
+May the teachers of the world be worshipped.  ^10-38
 
   
 
@@ -18040,7 +18040,7 @@ May princes rule according to the Dharma;
 
   
 
-May the world be blessed with all prosperity.
+May the world be blessed with all prosperity.  ^10-39
 
   
 
@@ -18060,7 +18060,7 @@ May spirits of the air that feed on flesh
 
   
 
-Be kind, their minds imbued with pity.
+Be kind, their minds imbued with pity.  ^10-40
 
   
 
@@ -18080,7 +18080,7 @@ May they have no fear, nor suffer insults.
 
   
 
-Always may their minds be free from sorrow.
+Always may their minds be free from sorrow.  ^10-41
 
   
 
@@ -18100,7 +18100,7 @@ May harmony prevail among the Saṅgha;
 
   
 
-May its purposes be all fulfilled.
+May its purposes be all fulfilled.  ^10-42
 
   
 
@@ -18120,7 +18120,7 @@ Abandon every vagrant thought,
 
   
 
-And meditate with trained and serviceable minds.
+And meditate with trained and serviceable minds.  ^10-43
 
   
 
@@ -18140,7 +18140,7 @@ Let all who have embraced monastic life
 
   
 
-Uphold a pure and unimpaired observance.
+Uphold a pure and unimpaired observance.  ^10-44
 
   
 
@@ -18160,7 +18160,7 @@ And thus may they acquire a fortunate rebirth,
 
   
 
-Wherein to practice stainless discipline.
+Wherein to practice stainless discipline.  ^10-45
 
   
 
@@ -18180,7 +18180,7 @@ May they be pure in mind,
 
   
 
-And may their fame spread far and wide.
+And may their fame spread far and wide.  ^10-46
 
   
 
@@ -18200,7 +18200,7 @@ With bodies greater than the gods,
 
   
 
-May they attain enlightenment without delay.
+May they attain enlightenment without delay.  ^10-47
 
   
 
@@ -18220,7 +18220,7 @@ And with the Buddha’s unimagined bliss
 
   
 
-May they enjoy undimmed and constant happiness.
+May they enjoy undimmed and constant happiness.  ^10-48
 
   
 
@@ -18240,7 +18240,7 @@ May sentient beings now obtain
 
   
 
-All that their Guardians wish for them.
+All that their Guardians wish for them.  ^10-49
 
   
 
@@ -18252,7 +18252,7 @@ And may the Hearers and Pratyekabuddhas118
 
   
 
-Gain their perfect happiness.
+Gain their perfect happiness.  ^10-50
 
   
 
@@ -18272,7 +18272,7 @@ May I remember all my lives
 
   
 
-And enter into the monastic state.
+And enter into the monastic state.  ^10-51
 
   
 
@@ -18292,7 +18292,7 @@ And in every life obtain
 
   
 
-A dwelling place in perfect solitude.
+A dwelling place in perfect solitude.  ^10-52
 
   
 
@@ -18312,7 +18312,7 @@ May I behold with unobstructed sight
 
   
 
-My own protector Mañjughoṣha.
+My own protector Mañjughoṣha.  ^10-53
 
   
 
@@ -18332,7 +18332,7 @@ May I reflect in all my deeds
 
   
 
-The perfect exploits of Mañjushrī.
+The perfect exploits of Mañjushrī.  ^10-54
 
   
 
@@ -18352,7 +18352,7 @@ May I continue likewise to remain
 
   
 
-To drive away the sorrows of the world.
+To drive away the sorrows of the world.  ^10-55
 
   
 
@@ -18372,7 +18372,7 @@ And may the virtuous company of Bodhisattvas
 
   
 
-Always bring about the happiness of beings.
+Always bring about the happiness of beings.  ^10-56
 
   
 
@@ -18392,7 +18392,7 @@ Be blessed with wealth, upheld with veneration,
 
   
 
-And throughout a vast continuance of time, endure!
+And throughout a vast continuance of time, endure!  ^10-57
 
   
 
@@ -18422,4 +18422,4 @@ This completes the Bodhisattvacharyavatara, The Way of the Bodhisattva, which wa
 
 The text was translated, edited, and finalized in Tibetan on the basis of a manuscript from Kashmir by the Indian scholar Sarvajñādeva and the monk, translator, and editor Kawa Peltsek. At a later time, this version was revised and finalized in accordance with the version from Magadha, together with its commentary, by the Indian scholar Dharmashrībhadra and the Tibetan monks, translators and editors, Rinchen Zangpo and Shākya Lodrö. Still later, it was again revised and finalized by the Indian scholar Sumatikīrti and the monk, translator, and editor Ngok Loden Sherab.120
 
-**
+**  ^10-58

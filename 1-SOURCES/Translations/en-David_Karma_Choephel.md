@@ -1,11 +1,24 @@
-**
+---
+title: Entering the Way of the Bodhisattva
+author: Śāntideva
+translator: "Choephel, David Karma (bhikshu Karma Lodrö Choephel)"
+language: English
+file_type: translation
+lang_tag: en
+verse_id_format: chapter-verse
+root_text: 1-SOURCES/Text/sk-dev.md
+covers_verses: 0-1–10-58
+source_description: "Translated into English from the canonical Tibetan text in comparison with the extant Sanskrit by the bhikshu Karma Lodrö Choephel."
+---
 Entering the Way of the Bodhisattva
 Shantideva
 In Sanskrit
 Bodhisatvacarya avatāra
 In Tibetan
 Byang chub sems dpa’i spyod pa la ’jug pa
-1. Explaining the Benefits of Bodhichitta
+## 0. Introduction
+
+## 1. Explaining the Benefits of Bodhichitta
 
 I prostrate to all buddhas and bodhisattvas.  ^0-1
 
@@ -192,7 +205,7 @@ I go for refuge to the wellsprings of joy.  ^1-36
 
 The first chapter, “Explaining the Benefits of Bodhichitta,” from Entering the Way of the Bodhisattva.
 
-2. Confessing Misdeeds
+## 2. Confessing Misdeeds
 
 3. In order to grasp that precious attitude,
 I make fine offerings to the tathagatas,
@@ -522,7 +535,7 @@ I’ll never do such acts again.  ^2-65
 
 The second chapter, “Confessing Misdeeds,” from Entering the Way of the Bodhisattva.
 
-3. Embracing Bodhichitta
+## 3. Embracing Bodhichitta
 
 4. Delighted, I rejoice in virtue—
 Respite from the pains
@@ -694,7 +707,7 @@ Gods, demigods, and everyone rejoice!  ^3-34
 
 The third chapter, “Embracing Bodhichitta,” from Entering the Way of the Bodhisattva.
 
-4. Teachings on Carefulness
+## 4. Teachings on Carefulness
 
 5. The victors’ offspring who have thus
 Grasped bodhichitta steadfastly
@@ -939,7 +952,7 @@ Be cured if they ignore the doctor’s advice?  ^4-48
 
 The fourth chapter, “Teachings on Carefulness,” from Entering the Way of the Bodhisattva.
 
-5. Guarding Awareness
+## 5. Guarding Awareness
 
 6. All those who wish to keep the precepts
 Should concentrate and guard their minds.
@@ -1488,7 +1501,7 @@ Bring benefit to patients?  ^5-109
 
 The fifth chapter, “Guarding Awareness,” from Entering the Way of the Bodhisattva.
 
-6. Transcendent Patience
+## 6. Transcendent Patience
 
 7. One moment’s anger shatters all
 Good acts accumulated
@@ -2164,7 +2177,7 @@ And a chakravarti’s pleasures.  ^6-134
 
 The sixth chapter, “Transcendent Patience,” from Entering the Way of the Bodhisattva.
 
-7. Teachings on Diligence
+## 7. Teachings on Diligence
 
 8. Thus with patience, be diligent.
 Enlightenment dwells in striving so.
@@ -2560,7 +2573,7 @@ Direction of enthusiasm.  ^7-77
 
 The seventh chapter, “Teachings on Diligence,” from Entering the Way of the Bodhisattva.
 
-8. Teachings on Meditation
+## 8. Teachings on Meditation
 
 9. After thus rousing diligence,
 Settle your mind into samadhi.
@@ -3500,7 +3513,7 @@ In equipoise with the right focus.  ^8-187
 
 The eighth chapter, “Teachings on Meditation,” from Entering the Way of the Bodhisattva.
 
-9. Transcendent Prajna
+## 9. Transcendent Prajna
 
 10. The Sage taught all these preparations
 For the sake of prajna,
@@ -4342,7 +4355,7 @@ Whose focus brings them ruin?  ^9-167
 
 The ninth chapter, “Transcendent Prajna,” from Entering the Way of the Bodhisattva.
 
-10. Dedication
+## 10. Dedication
 
 11. By the merit of my having written
 The Way of the Bodhisattva,
@@ -4636,4 +4649,3 @@ The tenth chapter, “Dedication,” from Entering the Way of the Bodhisattva. T
 
 The Tibetan translation was reviewed and finalized by the Indian master Sarvajnadeva and the great editor-translator Bande Paltsek according to a manuscript from Kashmir. Later, the Indian master Dharma Shri Bhadra and the editor-translators Bande Rinchen Sangpo and Shakya Lodrö revised, retranslated, and edited it according to a manuscript from central India. At a later time, the Indian master Sumatikirti and the editor-translator bhikshu Loden Sherap corrected it again and finalized it.
 Translated into English from the canonical Tibetan text in comparison with the extant Sanskrit by the bhikshu Karma Lodrö Choephel.
-**

@@ -1,9 +1,22 @@
-**
+---
+title: The Way of the Bodhisattva
+author: Śāntideva
+translator: Padmakara Translation Group
+date: 2006
+language: English
+file_type: translation
+lang_tag: en
+verse_id_format: chapter-verse
+root_text: 1-SOURCES/Text/sk-dev.md
+covers_verses: 0-1–10-58
+source_description: "Padmakara Translation Group (2006). The Way of the Bodhisattva. Revised edition. Boston: Shambhala Publications."
+---
 The Way of the Bodhisattva
 
-1
+## 0. Introduction
 
-The Excellence of Bodhichitta
+## 1. The Excellence of Bodhichitta
+
 Homage to all Buddhas and Bodhisattvas.  ^0-1
 
 1.
@@ -222,9 +235,8 @@ Is born—to them I bow!
 I go for refuge to those springs of happiness
 Who bring their very enemies to perfect bliss.  ^1-36
 
-2
+## 2. Confession
 
-Confession
 1.
 To the Buddhas, those thus gone,
 And to the sacred Dharma, spotless and supremely rare,
@@ -615,9 +627,8 @@ To take me as I am, a sinful man.
 And all these actions, evil as they are,
 I promise I will never do again.  ^2-65
 
-3
+## 3. Taking Hold of Bodhichitta
 
-Taking Hold of Bodhichitta
 1.
 With joy I celebrate the virtue that relieves all beings
 From the sorrows of the states of loss,45
@@ -820,9 +831,8 @@ I summon beings, calling them to Buddhahood.
 And, till that state is reached, to every earthly joy!
 May gods and demigods and all the rest rejoice!”  ^3-34
 
-4
+## 4. Carefulness
 
-Carefulness
 1.
 The children of the Conqueror who thus
 Have firmly grasped this bodhichitta,
@@ -1114,9 +1124,8 @@ That I might apply the precepts thus set forth.
 What invalids in need of medicine
 Ignored their doctor’s words and gained their health?  ^4-48
 
-5
+## 5. Vigilant Introspection
 
-Vigilant Introspection
 1.
 Those who wish to keep the trainings
 Must with perfect self-possession guard their minds.
@@ -1771,9 +1780,8 @@ For what is to be gained by mouthing syllables?
 What invalid was ever helped
 By merely reading in the doctor’s treatises?  ^5-109
 
-6
+## 6. Patience
 
-Patience
 1.
 All the good works gathered in a thousand ages,
 Such as deeds of generosity,
@@ -2578,9 +2586,8 @@ As beauty, health, and good renown.
 Its fruit is great longevity,
 The vast contentment of a universal king.  ^6-134
 
-7
+## 7. Diligence
 
-Diligence
 1.
 Thus with patience I will strive with diligence.
 For in such diligence enlightenment is found.
@@ -3040,9 +3047,8 @@ Impelled by every breath of wind,
 So all I do will be achieved,
 Controlled by movements of a joyful heart.  ^7-76
 
-8
+## 8. Meditative Concentration
 
-Meditative Concentration
 1.
 Cultivating diligence as just described,
 In concentration I will place my mind.
@@ -4165,9 +4171,8 @@ I’ll bend my mind from the mistaken path;
 And constantly upon the perfect object
 I shall rest my mind in even meditation.  ^8-187
 
-9
+## 9. Wisdom
 
-Wisdom
 1.
 All these branches of the Doctrine
 The Enlightened Sage expounded for the sake of wisdom.106
@@ -5170,9 +5175,8 @@ With reverence but without conceptual target,
 When shall I reveal this truth of emptiness
 To those who go to ruin through belief in real existence?  ^9-167
 
-10
+## 10. Dedication
 
-Dedication
 1.
 By all the virtue I have now amassed
 By composition of this book, which speaks

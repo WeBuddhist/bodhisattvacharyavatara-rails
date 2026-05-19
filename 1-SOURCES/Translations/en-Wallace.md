@@ -7,7 +7,7 @@ language: English
 file_type: translation
 lang_tag: en
 verse_id_format: chapter-verse
-root_text: 1-SOURCES/Text/sk-dev-root-text.md
+root_text: 1-SOURCES/Text/sk-dev.md
 covers_verses: 1-1–10-58
 source_description: "Wallace, Vesna A. and B. Alan Wallace (2009). A Guide to the Bodhisattva Way of Life. Ithaca: Snow Lion Publications."
 ---
@@ -31,7 +31,7 @@ July 1996 ^0-5
 
 ### Introduction
 
-#### A Brief Biography of Śāntideva
+### A Brief Biography of Śāntideva
 
 Śāntideva, an eighth-century Indian Buddhist monk, is among the most renowned and esteemed figures in the entire history of Mahāyāna Buddhism. As in the case of many other figures in the history of Indian Buddhism, there is little historical knowledge of the life of Śāntideva. Two brief accounts of his life are found in Tibetan sources. One early, concise biography was composed by the great Tibetan scholar Bu ston (twelfth-thirteenth century) in his work The History of Buddhism in India and Tibet. A later account was composed by Tāranātha (sixteenth-seventeenth century), a prominent Tibetan Buddhist scholar and historian. According to Tāranātha, Śāntideva, like Buddha Śākyamuni, was born into a royal family and was destined for the throne. But on the verge of his coronation, Mañjuśrī, a divine embodiment of wisdom, and Tārā, a divine embodiment of compassion, both appeared to him in dreams and counseled him not to ascend to the throne. Thus, he left his father's kingdom, retreated to the wilderness, and devoted himself to meditation. During this time, he achieved advanced states of samādhi and various siddhis, and from that time forward he constantly beheld visions of Mañjuśrī, who guided him as his spiritual mentor. ^0-6
 
@@ -43,7 +43,7 @@ Different versions of this work were recorded by his listeners, and they could n
 
 Thereafter, Śāntideva retreated to a monastery in a forest filled with wildlife. Some of the other monks noticed that at times animals would enter his cell and not come out, and they accused him of killing them. After he had demonstrated to them that no harm had come to these creatures, he once again departed, despite the pleas of his fellow monks to remain. On this and many other occasions, Śāntideva is said to have displayed his amazing siddhis. From this point on, he renounced the signs of monkhood and wandered about India, devoting himself to the service of others. ^0-10
 
-#### Contextualization of the Bodhicaryāvatāra
+### Contextualization of the Bodhicaryāvatāra
 
 At the outset of this treatise, Śāntideva denies any originality to his work, and indeed its contents conform closely to the teachings of many of the Mahāyāna sutras. However, the poignancy and poetic beauty of his work belie his disavowal of any ability in composition. Due to the terse nature of his Sanskrit verses, the aesthetic quality of his treatise has been very difficult to convey in English. Therefore, in our translation, where necessary we have opted for accuracy of content over poetic quality. We hope this does not obscure the fact that the Bodhicaryāvatāra stands as one of the great literary and religious classics of the entire Buddhist tradition. ^0-11
 
@@ -1931,7 +1931,7 @@ I bow to Mañjughoṣa, through whose grace my mind turns to virtue. I salute my
 
 ### 1. SANSKRIT EDITIONS OF ŚĀNTIDEVA'S WORKS
 
-#### Bodhicaryāvatāra
+### Bodhicaryāvatāra
 
 1889. Bodhicaryāvatāra. Edited by I. Minayef. In Zapiski Vostochnogo Otdeleniya Ruskogo Imperatorskogo Archeologicheskogo Obchestva (Transactions of the Oriental Section of the Royal Russian Archeological Society), vol. 4.
 
@@ -1947,7 +1947,7 @@ I bow to Mañjughoṣa, through whose grace my mind turns to virtue. I salute my
 
 1988. Bodhicaryāvatāra with Prajñākaramati's Commentary. Edited by Dwaraka Das Shastri. Bauddha Bharati Series, no. 21. Varanasi: Chandra Prakash Press.
 
-#### Śikṣāsamuccaya
+### Śikṣāsamuccaya
 
 1902. Śikṣāsamuccaya: A Compendium of Buddhist Teaching Compiled by Śāntideva Chiefly from Earlier Mahāyāna-Sūtras. Edited by Cecil Bendall. St. Petersburg: Imperial Academy of Sciences. Vol. 39-47. Reprinted in 1970.
 
@@ -1957,7 +1957,7 @@ I bow to Mañjughoṣa, through whose grace my mind turns to virtue. I salute my
 
 ### II. TRANSLATIONS OF ŚĀNTIDEVA'S WORKS
 
-#### Bodhicaryāvatāra: Asian Languages
+### Bodhicaryāvatāra: Asian Languages
 
 Bodhicaryāvatāra, Byang chub sems dpa'i spyod pa la 'jug pa. Derge: La 1.2.
 
@@ -1973,7 +1973,7 @@ Poppe, Nicholas. 1954. "A Fragment of the Bodhicaryāvatāra from Olon Sume." Ha
 
 Pu ti xing jing. No. 1662 in the Taisho shinshu daizokyo. 1924-32. Edited by J. Takakusu, K. Watanabe, et al. Tokyo: Taisho Issaikyo Kanko Kai.
 
-#### Bodhicaryāvatāra: Western Languages
+### Bodhicaryāvatāra: Western Languages
 
 Barnett, Lionel David. 1909. The Path of Light. New York: Grove; London: John Murray. Second edition published in 1947, London: John Murray.
 
@@ -2009,7 +2009,7 @@ Tucci, Giuseppe. 1925. In camino verso la lute. Torino. (Chapters 1-8)
 
 Wallace, B. Alan, tr. and ed. 1988. Transcendent Wisdom. The Ninth Chapter of the Śāntideva's Guide to the Bodhisattva Way of Life with a Commentary by H. H. the Dalai Lama, Tenzin Gyatso. Ithaca, New York: Snow Lion.
 
-#### Śikṣāsamuccaya: Asian Languages
+### Śikṣāsamuccaya: Asian Languages
 
 Da cheng ji pu sa xue lun. No. 1636 in the Taisho shinshu daiz6ky6.1924- 32. Edited by J. Takakusu, K. Watanabe, et al. Tokyo: Taisho Issaikyo Kanko Kai.
 
@@ -2019,7 +2019,7 @@ bSlab pa kun las btus pa'i tshig le'ur byas pa. No. 3939 in A Complete Catalogue
 
 bSlab pa kun las btus pa'i tshig le'ur byas pa. Peking edition of the Tibetan Tripitaka, vol. 102, no. 5336.
 
-#### Śikṣāsamuccaya: Western Languages
+### Śikṣāsamuccaya: Western Languages
 
 Barnett, Lionel David. 1909. The Path of Light. New York: Grove; London: John Murray. Second edition published in 1947, London: John Murray, pp. 103-107, Appendix.
 
@@ -2029,13 +2029,13 @@ Joshi, Lal Mani. 1977. Studies in the Buddhistic Culture of India: During the 7t
 
 Pezzali, Amalia.1982. Śāntideva, it Bodhiearyavatara e le Karikd del Śikṣāsamuccaya. Biblioteca Scientifica, vol. 11. Bologna: Editrice Mis- sionaria Italiana.
 
-#### Sūtrasamuccaya: Asian Languages
+### Sūtrasamuccaya: Asian Languages
 
 Fahu. Ta ch'eng Pao Yao Yil un. No. 1643 in Taisho shinshu daiz6ky6.1924- 32. Edited by J. Takakusu, K. Watanabe et al. Tokyo: Taisho Issaikyo Kanko Kai.
 
 ### III. COMMENTARIES AND SUMMARIES OF ŚĀNTIDEVA'S WORKS
 
-#### Bodhicaryāvatāra
+### Bodhicaryāvatāra
 
 rGyal tshab dar ma rin chen. 1973. sPyod 'jug ream hshad rgyal sras 'jug ngogs. Varanasi: mThog slob dge ldan spyi las khang.
 
@@ -2076,4 +2076,3 @@ Chimpa, Lama, and Alaka Chattopadhyaya, trs. 1990. Tāranātha's History of Budd
 de Jong, J. W. 1975. "La Legende de Śāntideva." Indo-Iranian journal 16, no. 3: 161-182.
 
 Pezzali, Amalia. 1968. Śāntideva: mystique bouddhiste des VIIe et VIIIe siecle. Firenze: Vallecchi Editore.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

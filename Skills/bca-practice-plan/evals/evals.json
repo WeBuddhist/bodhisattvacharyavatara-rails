@@ -1,0 +1,53 @@
+{
+  "skill_name": "bca-practice-plan",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Generate Day 2 of the 365-day Bodhisattvacharyavatara practice plan. It covers Chapter 4, verses 45-46. Save it to my Plans folder.",
+      "expected_output": "A complete 7-section markdown file in Tibetan saved as Day-002-Ch4-v45-46.md, with the correct fixed refuge/dedication prayers, and freshly generated motivation, benefits, commentary, daily application, and glossary sections specific to Ch4:45-46.",
+      "files": [],
+      "expectations": [
+        "The file contains all 7 sections numbered ༡། through ༧།",
+        "Section 1 contains the exact fixed refuge prayer (བྱང་ཆུབ་སྙིང་པོར་མཆིས་ཀྱི་བར།)",
+        "Section 6 contains the exact fixed dedication prayer (བདག་གིས་བྱང་ཆུབ་སྤྱོད་པ་ལ།)",
+        "The header shows Tibetan numerals ༢ for day 2 and ༤ for chapter 4",
+        "Section 3 has exactly 3 benefit bullet points",
+        "Section 5 has exactly 3 daily application points",
+        "Section 7 has at least 3 glossary terms",
+        "The file is saved as Day-002-Ch4-v45-46.md"
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "I'm on day 51 of the practice plan — can you make today's Spyod 'jug session? I believe that's Chapter 6, verses 9-10. Save it to my Plans folder.",
+      "expected_output": "A complete 7-section Tibetan practice plan for Day 51, covering the famous Ch6:9-10 verses on patience and anger. Commentary should draw on the rich traditional teaching on these verses (the enemy as teacher). Saved as Day-051-Ch6-v9-10.md.",
+      "files": [],
+      "expectations": [
+        "The file contains all 7 sections numbered ༡། through ༧།",
+        "Section 1 contains the exact fixed refuge prayer verbatim",
+        "Section 6 contains the exact fixed dedication and aspiration prayers verbatim",
+        "The header shows day number ༥༡ in Tibetan numerals",
+        "Commentary in Section 4 reflects the patience/anger teaching of Chapter 6",
+        "Section 3 has exactly 3 benefit points",
+        "Section 5 has exactly 3 practical application points",
+        "The file is saved correctly as Day-051-Ch6-v9-10.md"
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "Please create the practice plan for day 180 of the Bodhisattvacharyavatara study. I'd like it in both Tibetan and with English notes in the commentary sections if possible.",
+      "expected_output": "A complete 7-section plan for Day 180 (Chapter 8, verses 160-162 per the schedule). The fixed sections must remain in Tibetan only. The generated commentary sections may include English notes/translations. Saved as Day-180-Ch8-v160-162.md.",
+      "files": [],
+      "expectations": [
+        "The file contains all 7 sections",
+        "Fixed prayers (sections 1 and 6) are in Tibetan only — no English",
+        "Commentary sections contain English notes alongside Tibetan",
+        "Header correctly shows day number ༡༨༠ in Tibetan numerals",
+        "Verse content matches Chapter 8 (meditative concentration) themes",
+        "Section 3 has exactly 3 benefit points",
+        "Section 5 has exactly 3 daily application points",
+        "File is saved as Day-180-Ch8-v160-162.md"
+      ]
+    }
+  ]
+}

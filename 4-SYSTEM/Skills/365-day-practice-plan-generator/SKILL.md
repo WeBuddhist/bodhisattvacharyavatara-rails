@@ -60,7 +60,9 @@ Once you have the chapter and verse range, **read both source files** (root text
 
 Generate the complete document in Tibetan using the template below. The fixed sections are provided word-for-word; the variable sections must be generated freshly based on the specific chapter and verses.
 
-### Document header
+### Document header [MANDATORY — always first]
+
+The document header is **required in every output** and must appear **before Section 1**. Do not skip it, reorder it, or merge it into any other section.
 
 ```
 ---
@@ -274,6 +276,7 @@ If the user doesn't specify verses and asks only for a day number, consult that 
 
 ## Quality checklist before saving
 
+- [ ] Document header present, with correct day number, chapter ordinal, and verse range in Tibetan numerals — positioned **before Section 1**
 - [ ] All 7 sections present with correct section numbering (༡། through ༧།)
 - [ ] Section 1 and Section 6 match the fixed prayer texts **exactly** — do not paraphrase or alter
 - [ ] Day number, chapter, and verse numbers are in Tibetan numerals in the header

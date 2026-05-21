@@ -9,7 +9,7 @@ verse_id_format: chapter-verse
 root_text: 1-SOURCES/Text/sk-dev.md
 covers_verses: 1-1–10-61
 source_description: Canonical Tibetan translation (Kangyur, Derge edition). Translated from Sanskrit by Sarvajñādeva and Bande Paltsek; revised by Dharmaśrībhadra and Rinchen Zangpo; finalised by Sumatikīrti and Blo ldan shes rab.
-description: Missing Translations. [3.32]
+description: Missing Translations. [3.32] [8.25] [9.20. 3-4th line] [9.21]
 ---
 
 ## 0. Introduction

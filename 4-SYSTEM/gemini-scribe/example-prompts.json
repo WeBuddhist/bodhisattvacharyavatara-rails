@@ -1,18 +1,18 @@
 [
   {
-    "icon": "globe",
-    "text": "Compare the Sanskrit root text with the Tibetan translation by Loden Sherab to identify differences in philosophical terminology"
-  },
-  {
     "icon": "search",
-    "text": "Find all commentaries in the Sources folder authored by Indian scholars like Prajñākaramati or Kṣemadeva"
+    "text": "Search the Bilingual-Glossaries folder to find how Sanskrit philosophical terms are mapped to Tibetan and Chinese translations"
   },
   {
-    "icon": "lightbulb",
-    "text": "Describe how the sa bcad topical outlines are integrated with the root verses in the Rails folder"
+    "icon": "file-plus",
+    "text": "Draft a new daily study block for Chapter 6 verses 9 to 10 using the raw text from the Inbox and the spyod-jug-365 plan structure"
   },
   {
-    "icon": "tag",
-    "text": "Review the Commentaries folder to ensure all filenames correctly use the bo- prefix as required by the system guidelines"
+    "icon": "book-open",
+    "text": "Compare the commentary of Ngulchu Thogme with Ju Mipham in the Sources folder to highlight their structural approaches"
+  },
+  {
+    "icon": "calendar",
+    "text": "Review the verse schedule configuration within the 365-day-practice-plan-generator skill to verify the chapter progression"
   }
 ]

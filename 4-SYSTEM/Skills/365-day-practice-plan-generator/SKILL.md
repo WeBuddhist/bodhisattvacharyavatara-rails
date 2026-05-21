@@ -220,10 +220,13 @@ Choose terms where the technical or contextual meaning differs meaningfully from
 Combine all 7 sections into a single markdown file. Use this filename format:
 
 ```
-Day-[padded 3-digit day]-Ch[chapter]-v[start]-[end].md
+Day-[day]-Ch[chapter]-V[start]-[end].md
 ```
 
-Example: `Day-001-Ch4-v43-44.md`
+- Day number: no zero-padding (1, not 001)
+- Verse letter: uppercase **V**
+
+Example: `Day-1-Ch4-V43-44.md`
 
 Save to: `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\0-INBOX\Plans\`
 
@@ -288,5 +291,5 @@ If the user doesn't specify verses and asks only for a day number, consult that 
 - [ ] Each commentary block in Section 4 is extracted and summarised from `bo-དངུལ་ཆུ་ཐོགས་མེད།.md` — not invented
 - [ ] Exactly 3 daily application points in Section 5
 - [ ] Glossary has 3–6 terms with contextual definitions (not generic dictionary entries)
-- [ ] File saved with correct naming convention to the Plans folder
+- [ ] Filename follows the format `Day-[day]-Ch[chapter]-V[start]-[end].md` — no zero-padding, uppercase V
 - [ ] Horizontal rules (---) separate all major sections

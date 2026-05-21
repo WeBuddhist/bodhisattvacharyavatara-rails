@@ -65,6 +65,7 @@ Generate the complete document in Tibetan using the template below. The fixed se
 The document header is **required in every output** and must appear **before Section 1**. Do not skip it, reorder it, or merge it into any other section.
 
 ```
+
 ---
 # ཉིན་ [DAY_NUMBER_TIBETAN] - ཉིན་ ༣༦༥ ཡི་སྤྱོད་འཇུག་སློབ་སྦྱོང།
 
@@ -72,6 +73,8 @@ The document header is **required in every output** and must appear **before Sec
 
 ---
 ```
+
+> ⚠️ The blank line before the first `---` is required. Without it, Obsidian parses the header as YAML frontmatter and hides the title from view.
 
 Convert day numbers, chapter numbers, and verse numbers to Tibetan numerals (see numeral table below).
 

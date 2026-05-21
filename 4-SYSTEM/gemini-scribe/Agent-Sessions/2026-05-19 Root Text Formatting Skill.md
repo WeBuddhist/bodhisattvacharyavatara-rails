@@ -17,7 +17,7 @@ require_confirmation:
 metadata:
   autoLabeled: true
 accessed_files:
-  - "[[SKILL]]"
+  - "[[4-SYSTEM/Skills/add-toc/SKILL]]"
   - "[[zh-賈曹傑 入菩薩行論廣解]]"
 ---
 # Agent Session 2026-05-19

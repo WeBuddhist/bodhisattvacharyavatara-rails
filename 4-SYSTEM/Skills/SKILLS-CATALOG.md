@@ -32,6 +32,10 @@ Normalises an existing root-text file: heading structure, block IDs, verse forma
 Normalises an existing commentary file: OCR cleanup, heading structure, paragraph granularity, block IDs.
 → [`format-commentary/SKILL.md`](format-commentary/SKILL.md)
 
+### `format-chinese-commentary` **[exists]**
+Format and normalize Chinese commentaries: structures headings, maps traditional outlines (科判), breaks prose into short paragraphs, applies block IDs, and implements a robust batch-processing protocol for long texts.
+→ [`format-chinese-commentary/SKILL.md`](format-chinese-commentary/SKILL.md)
+
 ### `add-toc` **[exists]**
 Inserts or regenerates a table of contents in a source or rails file.
 → [`add-toc/SKILL.md`](add-toc/SKILL.md)

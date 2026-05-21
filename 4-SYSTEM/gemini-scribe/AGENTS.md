@@ -8,33 +8,40 @@ This vault is a specialized digital library and research environment dedicated t
 
 ## Organization
 
-The vault is organized into a numbered pipeline that tracks the lifecycle of a text from raw input to processed knowledge:
+The vault is meticulously organized into a numbered pipeline, tracking the lifecycle of texts from raw input to highly processed knowledge. 
 
-- **0-INBOX**: Temporary storage for raw data and draft workflows, such as draft AI skills for commentary formatting.
-- **1-SOURCES**: The repository for foundational materials, categorized into [[Commentaries]], [[Text]] (root texts), and [[Translations]]. Files are strictly prefixed by language codes like `bo-` for Tibetan or `sk-` for Sanskrit.
-- **2-RAILS**: Contains structured versions of texts where root verses are integrated with their traditional topical outlines (sa bcad), specifically in [[Root Text w Outlines]].
-- **3-TRANSFORMATIONS**: The final stage of processing, containing annotated commentaries and synthesized versions of the texts.
-- **4-SYSTEM**: The administrative core of the vault, housing AI agent configurations (like [[CLAUDE]]), automated "Skills," and formal maintenance guidelines.
+- **0-INBOX**: Serves as a temporary staging area for raw data, draft workflows, and initial text versions, including specialized root text versions and raw data for future processing. 
+- **1-SOURCES**: This core repository houses foundational materials, strictly categorized into [[Commentaries]], [[Text]] (root texts), and [[Translations]]. Files within this stage consistently adhere to language prefixes (e.g., `bo-`, `sk-`, `en-`, `zh-`) to denote their origin and language. 
+- **2-RAILS**: Here, texts are structured and aligned. This includes integrating root verses with traditional topical outlines (sa bcad) and developing extensive [[Bilingual-Glossaries]] (e.g., `sk-bo`, `sk-zh`, `sk-en`) for precise linguistic mapping. 
+- **3-TRANSFORMATIONS**: This stage represents the final processing, where texts are transformed into annotated commentaries, various adaptations (like *sa bcad* integrated files), and highly structured daily practice plans, such as the `spyod-jug-365` series. 
+- **4-SYSTEM**: The administrative and operational heart of the vault, containing AI agent configurations (like [[CLAUDE]]), a comprehensive set of automated "Skills" for text processing, and formal `Guidelines` that dictate vault structure and formatting conventions. 
+
+Notes are extensively linked using [[WikiLinks]], especially to track relationships between source texts, commentaries, and their outlines. The consistent application of language prefixes and a clear, sequential folder hierarchy underscores a highly methodical, pipeline-driven approach to knowledge management.
 
 ## Key Topics
 
 - Bodhicharyavatara (Spyod-'jug)
-- Classical Tibetan Commentaries (e.g., [[bo-དངུལ་ཆུ་ཐོགས་མེད།]], [[bo-མཁན་པོ་ཀུན་དཔལ།]], [[bo-འཇུ་མི་ཕམ།]])
-- Sanskrit Philology and root texts (e.g., [[sk-dev]], Prajñākaramati)
-- Topical Outlines (sa bcad) and structural alignment
-- Digital Humanities and automated Markdown formatting
+- Classical Tibetan Commentaries
+- Sanskrit Philology and Root Texts
+- Topical Outlines (sa bcad) and Textual Alignment
+- Multilingual Lexicography and Bilingual Glossaries
+- Digital Humanities and Automated Markdown Formatting
+- Algorithmic Text Processing and Automation Skills
+- Structured Study Plans and Daily Practice Schedules (e.g., 365-day plans)
 - Buddhist Philosophy and Bodhisattva Ethics
 
 ## User Preferences
 
-The user follows a highly methodical and technical approach to note-taking, emphasizing structural consistency and metadata accuracy. There is a clear preference for automation and algorithmic handling of text, as evidenced by the dedicated "Skills" and "Guidelines" directories.
+Kevin follows a highly methodical and technical approach to note-taking, emphasizing structural consistency, metadata accuracy, and precise linguistic handling. There is a strong preference for automation and algorithmic text processing, clearly evidenced by the extensive `4-SYSTEM/Skills` and `4-SYSTEM/Guidelines` directories. 
 
-Responses must be precise and respect the linguistic nuances of Tibetan and Sanskrit terms. When assisting with text processing, the agent should adhere strictly to the established pipeline and formatting conventions defined in the system guidelines. The user prefers the use of specific language prefixes (`bo-`, `sk-`) and maintains a rigorous folder hierarchy.
+When assisting with text processing or content generation, responses must be precise and rigorously adhere to the established pipeline and formatting conventions defined in the system guidelines. This includes strict adherence to specific language prefixes (`bo-`, `sk-`, `en-`, `zh-`) and maintaining the rigorous folder hierarchy. Respect for the linguistic nuances of Tibetan and Sanskrit terms is paramount.
 
 ## Custom Instructions
 
-- Refer to [[1-SOURCES-Guideline]] and [[2-RAILS-Guideline]] before suggesting changes to text structure or metadata.
-- Use the naming convention `bo-[Author Name]` for new Tibetan source files and `sk-` for Sanskrit.
-- When processing texts, prioritize preserving the relationship between root verses and their corresponding outlines (sa bcad).
-- Utilize the specific logic defined in `4-SYSTEM/` guidelines for tasks involving property extraction or commentary formatting.
-- Ensure Tibetan script and Sanskrit transliterations are handled with high fidelity and not altered during formatting unless specifically requested.
+- Refer to [[1-SOURCES-Guideline]], [[2-RAILS-Guideline]], and `4-SYSTEM/Guidelines` before suggesting any changes to text structure, metadata, or processing workflows.
+- Use the naming convention `bo-[Author Name]` for new Tibetan source files and `sk-` for Sanskrit, `en-` for English, and `zh-` for Chinese translations, maintaining consistency across all `1-SOURCES` subcategories.
+- When processing texts, always prioritize preserving the precise relationship between root verses, their traditional topical outlines (sa bcad), and associated commentaries.
+- Utilize the specific logic and workflows defined in the `4-SYSTEM/Skills` and `4-SYSTEM/Guidelines` directories for tasks such as property extraction, commentary formatting, glossary generation, and structured daily plan creation.
+- Ensure Tibetan script and Sanskrit transliterations are handled with the highest fidelity, avoiding any alteration during formatting unless explicitly requested.
+- When working with multilingual content, pay close attention to the alignment and accuracy of terms, especially in the context of bilingual glossaries.
+- Be prepared to assist with tasks related to the `365-day-practice-plan-generator` and similar structured content initiatives.

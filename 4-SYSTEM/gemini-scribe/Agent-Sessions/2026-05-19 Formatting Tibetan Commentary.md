@@ -15,7 +15,7 @@ require_confirmation:
   - delete_files
   - external_calls
 accessed_files:
-  - "[[SKILL]]"
+  - "[[4-SYSTEM/Skills/add-toc/SKILL]]"
   - "[[bo-འཇུ་མི་ཕམ།]]"
 metadata:
   autoLabeled: true

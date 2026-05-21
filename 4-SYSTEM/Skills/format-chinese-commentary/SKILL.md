@@ -1,99 +1,99 @@
 ---
 name: format-chinese-commentary
-description: Format and normalize Chinese Buddhist commentaries of the Bodhicharyavatara in the 1-SOURCES folder. Structures headings, maps traditional outlines (科判), applies block IDs, and implements a robust batch-processing protocol for long texts.
+description: 格式化和標準化《入菩薩行論》的中文註釋，將其存儲在 `1-SOURCES` 文件夾中。此技能負責結構化標題、對應傳統科判、應用區塊識別碼，並為長文本實施穩健的批處理協議。
 ---
 
-# Chinese Commentary Formatting Skill (中文註釋處理與格式化工具)
+# 中文註釋格式化技能
 
-## Purpose (目的)
+## 目的
 
-This skill defines the standard procedure for formatting, structuring, and normalizing Chinese commentaries of the *Bodhicharyavatara* (入菩薩行論) in the `1-SOURCES/Commentaries/` folder. It maps traditional Chinese outlines (科判) into the Markdown heading hierarchy, breaks down long prose into highly granular paragraphs, transcludes root verses, applies precise Obsidian block IDs, and implements a robust batch-processing protocol to handle long texts.
-
----
-
-## Core Principles (核心原則)
-
-1. **Strict Preservation (嚴格保留)**: Do not delete, summarize, or alter any commentary text. Maintain the original wording, including traditional outline labels (e.g., `甲一`, `乙二`, `丙三`).
-2. **Paragraph Granularity (段落細粒度化)**: Break long prose sections into very short, discrete paragraphs (ideally 1–3 sentences, not exceeding 3-4 lines of Chinese text). This is crucial for precise block referencing.
-3. **Traditional Outline (科判) Mapping**: Map hierarchical Chinese outline labels to the Markdown heading hierarchy up to Level 4 (`####`).
-4. **Root Verse Transclusion (根境頌詞嵌入)**: Transclude the matching root verse from the root text file immediately before the commentary on that verse.
-5. **Obsidian Block IDs (區塊識別碼)**: Apply sequential, unique block IDs at the end of every discrete text block, restarting the counter under each heading.
-6. **Batch Processing (分批處理)**: Since commentaries are extremely long, process the text in sequential batches, maintaining a state block to ensure continuity.
+此技能定義了在 `1-SOURCES/Commentaries/` 文件夾中，對《入菩薩行論》中文註釋進行格式化、結構化和標準化的標準程序。它將傳統中文科判映射到 Markdown 標題層次結構中，將長篇散文分解為高度細粒度的段落，嵌入根頌，應用精確的 Obsidian 區塊識別碼，並實施穩健的批處理協議以處理長文本。
 
 ---
 
-## 1. Heading Structure & Outline Mapping (標題結構與科判對照)
+## 核心原則
 
-Traditional Chinese commentaries organize their analysis using extensive hierarchical outlines (科判) prefixed with Heavenly Stems (甲、乙、丙、丁...), Earthly Branches (子、丑、寅、卯...), or Chinese numerals (一、二、三...). These must be mapped to the Markdown heading tree:
-
-- **Level 1 (`#`)**: Main Book Title. Used only once at the very top of the file (below the frontmatter). No block ID.
-- **Level 2 (`##`)**: Chapters (品). Format: `## N. [Chapter Title] ^N-0` (e.g., `## 1. 第一品 讚菩提心功德品 ^1-0`).
-- **Level 3 (`###`)**: Major structural divisions (usually `甲` level). Format: `### N.M [Division Title] ^N-M-0` (e.g., `### 1.1 甲一、釋題 ^1-1-0`).
-- **Level 4 (`####`)**: Sub-divisions (usually `乙` or `丙` level). Format: `#### N.M.P [Sub-division Title] ^N-M-P-0` (e.g., `#### 1.1.1 乙一、譯文皈敬 ^1-1-1-0`).
-- **Granular Divisions**: For deeper levels (e.g., `丁`, `戊`, `己`, `子`, `丑` etc.), do NOT use headings deeper than `####` (Level 5 `#####` is restricted). Instead, format them as bold text inside standard paragraphs, followed by a block ID (e.g., `**丁一、所為義。** 由於稱揚殊勝皈境功德... ^1-1-5`).
-
-### Format Rules:
-- Leave exactly one blank line before and after every heading.
-- ID format for headings always ends with `-0` (reserved for headings).
-- Do NOT add block IDs to heading lines using the caret `^` at the end; instead, write them inline at the end of the heading text (e.g., `### 1.1 甲一、釋題 ^1-1-0`).
+1.  **嚴格保留**: 不刪除、不總結、不更改任何註釋文本。保留原始措辭，包括傳統科判標籤（例如 `甲一`、`乙二`、`丙三`）。
+2.  **段落細粒度化**: 將長篇散文部分分解為非常簡短、獨立的段落（理想情況下為 1-3 句，不超過 3-4 行中文文本）。這對於精確的區塊引用至關重要。
+3.  **傳統科判映射**: 將分層的中文科判標籤映射到 Markdown 標題層次結構，最高到四級標題 (`####`)。
+4.  **根頌嵌入**: 在該頌詞的註釋之前，立即插入一個指向根文本文件中匹配根頌的嵌入連結。
+5.  **Obsidian 區塊識別碼**: 在每個獨立的文本區塊（段落、頌詞、獨立列表項）末尾應用順序、唯一的區塊識別碼，並在每個標題下重新開始計數。
+6.  **分批處理**: 由於註釋文本極長，必須以大約 **100-150 行文本**（或約 3000-5000 字）的順序批次（塊）進行處理文本，並維護一個狀態區塊以確保連續性。
 
 ---
 
-## 2. Paragraph & Verse Formatting (段落與頌詞格式)
+## 1. 標題結構與科判對照
 
-- **Prose Granularity**: Long paragraphs must be split at logical break points (e.g., transitions in argument, new sub-arguments, or before/after citations). Keep paragraphs short (1–2 sentences, 3-4 lines maximum) to optimize them for referencing.
-- **Root Verse Transclusion**: Whenever a root verse is introduced, insert a transclusion link pointing to the root text file.
-  - Format: `![[1-SOURCES/Text/sk-dev.md#^1-1]]` (where `sk-dev.md` is the root text declared in the frontmatter, and `^1-1` is the matching verse ID).
-- **Chinese Verse Translation**: If the commentary includes a Chinese translation of the root verse (usually 4-line stanzas), format it as an independent block with each verse-line on its own line:
-  ```markdown
-  為己一切生中備諮詢，  
-  亦為利他與我同類機，  
-  遵依正士智者之所許，  
-  入菩薩行論釋今當作。 ^1-10
-  ```
-  Note: Use two spaces at the end of each line for line breaks within the block, and place the block ID at the end of the final line.
+傳統中文註釋使用廣泛的分層科判（以天干：甲、乙、丙、丁...；地支：子、丑、寅、卯...；或中文數字：一、二、三... 作為前綴）來組織其分析。這些必須映射到 Markdown 標題樹中：
 
----
+-   **一級標題 (`#`)**: 主書名。僅在文件頂部（位於前置元數據下方）使用一次。無區塊識別碼。
+-   **二級標題 (`##`)**: 品。格式：`## N. [品名] ^N-0`（例如：`## 1. 第一品 讚菩提心功德品 ^1-0`）。
+-   **三級標題 (`###`)**: 主要結構劃分（通常是 `甲` 級）。格式：`### N.M [劃分標題] ^N-M-0`（例如：`### 1.1 甲一、釋題 ^1-1-0`）。
+-   **四級標題 (`####`)**: 次級劃分（通常是 `乙` 或 `丙` 級）。格式：`#### N.M.P [次級劃分標題] ^N-M-P-0`（例如：`#### 1.1.1 乙一、譯文皈敬 ^1-1-1-0`）。
+-   **更細粒度的劃分**: 對於更深層次（例如 `丁`、`戊`、`己`、`子`、`丑` 等），請勿使用深於 `####` 的標題（五級標題 `#####` 受限制）。相反，將它們格式化為標準段落中的粗體文本，後跟一個區塊識別碼（例如：`**丁一、所為義。** 由於稱揚殊勝皈境功德... ^1-1-5`）。
 
-## 3. Obsidian Block IDs (区块識別碼規範)
-
-- **Placement**: Add a unique block ID at the end of every discrete text block (paragraphs, verses, standalone list items).
-- **ID Format**:
-  - Chapter-level blocks: `^N-V` (where `N` is the Chapter number, and `V` is the sequential counter starting at 1).
-  - Section-level blocks: `^N-S-V` (where `S` is the Section number).
-  - To prevent complexity, **always prefer a flat 2-segment or 3-segment format** (e.g., `^1-1`, `^1-2` or `^1-1-1`, `^1-1-2`).
-- **Sequence Restart**: The sequential counter (`V`) MUST restart at `1` under every new Level 2 (`##`) or Level 3 (`###`) heading.
-- **No Carets on Headings**: Do NOT use block IDs with carets on heading lines. Headings use the inline `-0` format (e.g., `^1-1-0`).
+### 格式規則:
+-   每個標題前後必須留一個空行。
+-   標題的識別碼格式始終以 `-0` 結尾（為標題保留）。
+-   請勿在標題行末尾使用插入符號 `^` 添加區塊識別碼；而應將其內聯寫在標題文本的末尾（例如：`### 1.1 甲一、釋題 ^1-1-0`）。
 
 ---
 
-## 4. Batch Processing Protocol (分批處理協議)
+## 2. 段落與頌詞格式
 
-Since Chinese commentaries are extremely long, they must be processed in sequential batches (chunks) of approximately **100–150 lines of text** (or ~3000–5000 characters). 
+-   **散文粒度**: 長段落必須在邏輯斷點處（例如，論證的過渡、新的次級論點或引文之前/之後）進行拆分。保持段落簡短（1-2 句，最多 3-4 行），以優化其引用。
+-   **根頌嵌入**: 每當引入一個根頌時，插入一個指向根文本文件的嵌入連結。
+    -   格式：`![[1-SOURCES/Text/sk-dev.md#^1-1]]`（其中 `sk-dev.md` 是前置元數據中聲明的根文本，`^1-1` 是匹配的頌詞識別碼）。
+-   **中文頌詞翻譯**: 如果註釋包含根頌的中文翻譯（通常是四行詩節），請將其格式化為獨立的區塊，每行頌詞單獨成行：
+    ```markdown
+    為己一切生中備諮詢，  
+    亦為利他與我同類機，  
+    遵依正士智者之所許，  
+    入菩薩行論釋今當作。 ^1-10
+    ```
+    注意：在每個行末使用兩個空格來表示區塊內的換行，並將區塊識別碼放在最後一行的末尾。
 
-To maintain structural consistency across runs, the agent must adhere to the following protocol:
+---
 
-### Step 1: Identify and Split
-1. Read the raw text file and identify natural boundaries (e.g., end of chapters, end of major `甲` sections).
-2. Split the file into sequential batches. Save the raw batches in `0-INBOX/temp/` if needed.
+## 3. Obsidian 區塊識別碼規範
 
-### Step 2: Read State
-Before processing a new batch, read the **State Block** from the end of the previous processed file or the current session context. The State Block tracks:
-- `current_chapter` (Chapter number, e.g., `1`)
-- `current_section` (Section number, e.g., `1.1`)
-- `current_subsection` (Subsection number, e.g., `1.1.1` or `none`)
-- `block_counter` (Sequential block counter, e.g., `45`)
+-   **位置**: 在每個獨立的文本區塊（段落、頌詞、獨立列表項）的末尾添加一個唯一的區塊識別碼。
+-   **識別碼格式**:
+    -   章節級區塊：`^N-V`（其中 `N` 是章節號，`V` 是從 1 開始的順序計數器）。
+    -   分段級區塊：`^N-S-V`（其中 `S` 是分段號）。
+    -   為避免複雜性，**始終優先使用扁平的 2 段或 3 段格式**（例如：`^1-1`、`^1-2` 或 `^1-1-1`、`^1-1-2`）。
+-   **序列重啟**: 順序計數器 (`V`) 必須在每個新的二級標題 (`##`) 或三級標題 (`###`) 下重新從 `1` 開始。
+-   **標題上不使用插入符號**: 請勿在標題行上使用帶有插入符號 `^` 的區塊識別碼。標題使用內聯的 `-0` 格式（例如：`### 1.1 甲一、釋題 ^1-1-0`）。
 
-### Step 3: Format the Batch
-Process the batch applying all formatting, outline mapping, and block ID rules. Ensure that:
-- If a new heading is encountered, reset the `block_counter` to `1` (or appropriate sub-counter).
-- Increment the `block_counter` for every formatted paragraph/verse.
+---
 
-### Step 4: Write and Append
-Append the formatted text to the target file in `1-SOURCES/Commentaries/`.
+## 4. 分批處理協議
 
-### Step 5: Write State Block
-At the very end of the processed batch, write the updated State Block as an HTML comment so the next run can read it:
+由於中文註釋文本極長，必須以大約 **100-150 行文本**（或約 3000-5000 字）的順序批次（塊）進行處理。
+
+為確保在不同運行之間保持結構一致性，代理必須遵循以下協議：
+
+### 步驟 1: 識別和拆分
+1.  讀取原始文本文件並識別自然邊界（例如，章節末尾、主要 `甲` 部分的末尾）。
+2.  將文件拆分為順序批次。如有需要，將原始批次保存在 `0-INBOX/temp/` 中。
+
+### 步驟 2: 讀取狀態
+在處理新批次之前，從上一個已處理文件的末尾或當前會話上下文中讀取 **狀態區塊**。狀態區塊跟踪：
+-   `current_chapter`（章節號，例如 `1`）
+-   `current_section`（分段號，例如 `1.1`）
+-   `current_subsection`（次級分段號，例如 `1.1.1` 或 `none`）
+-   `block_counter`（順序區塊計數器，例如 `45`）
+
+### 步驟 3: 格式化批次
+處理批次，應用所有格式化、科判映射和區塊識別碼規則。確保：
+-   如果遇到新標題，將 `block_counter` 重置為 `1`（或適當的子計數器）。
+-   每個格式化的段落/頌詞都遞增 `block_counter`。
+
+### 步驟 4: 寫入和追加
+將格式化的文本追加到 `1-SOURCES/Commentaries/` 中的目標文件。
+
+### 步驟 5: 寫入狀態區塊
+在已處理批次的末尾，將更新後的狀態區塊作為 HTML 注釋寫入，以便下次運行可以讀取它：
 ```markdown
 <!-- BATCH_STATE
 current_chapter: 1
@@ -105,9 +105,9 @@ block_counter: 18
 
 ---
 
-## 5. Examples (示範)
+## 5. 示例
 
-### Raw Chinese Commentary Input:
+### 原始中文註釋輸入:
 ```text
 入菩薩行論廣解卷一
 極尊正士諸具大悲心者足下恭敬頂禮。
@@ -117,7 +117,7 @@ block_counter: 18
 梵語有四種，此是桑支達語也。此論題名「菩提」，藏語降曲；「薩埵」，藏語「生巴」；「雜雅」，藏语「覺巴」；阿瓦打[冒-目+阿]藏語「[覺/勿]巴。」
 ```
 
-### Formatted Output:
+### 格式化輸出:
 ```markdown
 ---
 title: 入菩薩行論廣解
@@ -157,7 +157,7 @@ source_description: "隆蓮法師譯《入菩薩行論廣解》。"
 
 #### 0.1.1 甲一、釋題 ^0-1-1-0
 
-梵語有四種，此是桑支達語也。此論題名「菩提」，藏語降曲；「薩埵」，藏語「生巴」；「雜雅」，藏語「覺巴」；阿瓦打[冒-目+阿]藏語「[覺/勿]巴。」 ^0-1-1-1
+梵語有四種，此是桑支達語也。此論題名「菩提」，藏語降曲；「薩埵」，藏語「生巴」；「雜雅」，藏语「覺巴」；阿瓦打[冒-目+阿]藏語「[覺/勿]巴。」 ^0-1-1-1
 
 <!-- BATCH_STATE
 current_chapter: 0
@@ -169,13 +169,13 @@ block_counter: 1
 
 ---
 
-## 6. Quality Checklist (品質檢查表)
+## 6. 品質檢查表
 
-- [ ] Frontmatter block exists at the very top with all required fields.
-- [ ] Headings are formatted strictly as `## N. Title ^N-0` (or `### N.M Title ^N-M-0`).
-- [ ] No carets `^` are placed at the end of heading lines.
-- [ ] All prose sections are broken into short paragraphs (max 3-4 lines).
-- [ ] Root verse transclusions are inserted correctly as `![[1-SOURCES/Text/sk-dev.md#^N-V]]`.
-- [ ] Block IDs are sequential, unique, and restart at 1 under each heading.
-- [ ] State Block is appended at the end of the batch.
-- [ ] No text, commentary, or outline labels were omitted or summarized.
+-   [ ] 文件頂部存在包含所有必需字段的前置元數據區塊。
+-   [ ] 標題嚴格按照 `## N. 標題 ^N-0`（或 `### N.M 標題 ^N-M-0`）的格式。
+-   [ ] 標題行末尾沒有插入符號 `^`。
+-   [ ] 所有散文部分都已拆分為短段落（最多 3-4 行）。
+-   [ ] 根頌嵌入已正確插入，格式為 `![[1-SOURCES/Text/sk-dev.md#^N-V]]`。
+-   [ ] 區塊識別碼是順序的、唯一的，並在每個標題下從 1 重新開始。
+-   [ ] 狀態區塊已追加到批次末尾。
+-   [ ] 沒有遺漏或總結任何文本、註釋或科判標籤。

@@ -291,5 +291,6 @@ If the user doesn't specify verses and asks only for a day number, consult that 
 - [ ] Each commentary block in Section 4 is extracted and summarised from `bo-དངུལ་ཆུ་ཐོགས་མེད།.md` — not invented
 - [ ] Exactly 3 daily application points in Section 5
 - [ ] Glossary has 3–6 terms with contextual definitions (not generic dictionary entries)
+- [ ] Tibetan spelling and grammar reviewed — check case endings (e.g. ལ་དོན། སུ་དོན། གི་དོན།), verb forms, and particles for correctness throughout all generated sections
 - [ ] Filename follows the format `Day-[day]-Ch[chapter]-V[start]-[end].md` — no zero-padding, uppercase V
 - [ ] Horizontal rules (---) separate all major sections

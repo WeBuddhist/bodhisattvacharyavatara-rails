@@ -1,14 +1,15 @@
 ---
 title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
 author: Śāntideva
-translator: "Blo ldan shes rab (ལོ་ཙཱ་བ་བློ་ལྡན་ཤེས་རབ།)"
+translator: Blo ldan shes rab (ལོ་ཙཱ་བ་བློ་ལྡན་ཤེས་རབ།)
 language: Tibetan
 file_type: translation
 lang_tag: bo
 verse_id_format: chapter-verse
 root_text: 1-SOURCES/Text/sk-dev.md
 covers_verses: 1-1–10-61
-source_description: "Canonical Tibetan translation (Kangyur, Derge edition). Translated from Sanskrit by Sarvajñādeva and Bande Paltsek; revised by Dharmaśrībhadra and Rinchen Zangpo; finalised by Sumatikīrti and Blo ldan shes rab."
+source_description: Canonical Tibetan translation (Kangyur, Derge edition). Translated from Sanskrit by Sarvajñādeva and Bande Paltsek; revised by Dharmaśrībhadra and Rinchen Zangpo; finalised by Sumatikīrti and Blo ldan shes rab.
+description: Missing Translations. [3.32]
 ---
 
 ## 0. Introduction
@@ -361,7 +362,8 @@ source_description: "Canonical Tibetan translation (Kangyur, Derge edition). Tra
 སྡིག་ཅན་བདག་གིས་སྡིག་པ་གང་། །
 ཤིན་ཏུ་མི་བཟད་བགྱིས་པ་དེ། །
 ཐམས་ཅད་འདྲེན་པ་རྣམས་ལ་བཤགས། ། ^2-31
-[MT: No translation for verse 32]
+
+[Missing Translation verse 3.32]
 
 བདག་ནི་སྡིག་པ་མ་བྱང་བར། །
 སྔོན་དུ་འགུམ་པར་འགྱུར་དུ་མཆི། །
@@ -535,7 +537,7 @@ source_description: "Canonical Tibetan translation (Kangyur, Derge edition). Tra
 
 བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ལས། སྡིག་པ་བཤགས་པའི་ལེའུ་སྟེ་གཉིས་པའོ།། །།
 
-## 3. ལེའུ་གསུམ་པ། བྱང་ཆུབ་ཀྱི་སེམས་ཡོངས་སུ་བཟུང་བ། ^TOC-3
+## 3. ལེའུ་གསུམ་པ། བྱང་ཆུབ་ཀྱི་སེམས་ཡོངས་སུ་བཟུང་བ།
 
 སེམས་ཅན་ཀུན་གྱི་ངན་སོང་གི །
 སྡུག་བསྔལ་ངལ་སོའི་དགེ་བ་དང་། །
@@ -706,7 +708,7 @@ source_description: "Canonical Tibetan translation (Kangyur, Derge edition). Tra
 
 བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ལས། བྱང་ཆུབ་ཀྱི་སེམས་ཡོངས་སུ་བཟུང་བ་ཞེས་བྱ་བ་སྟེ་ལེའུ་གསུམ་པའོ།། །།
 
-## 4. ལེའུ་བཞི་པ། བག་ཡོད་བསྟན་པ། ^TOC-4
+## 4. ལེའུ་བཞི་པ། བག་ཡོད་བསྟན་པ།
 
 རྒྱལ་བའི་སྲས་ཀྱིས་དེ་ལྟ་བུར། །
 བྱང་ཆུབ་སེམས་རབ་བརྟན་བཟུང་ནས། །
@@ -2683,7 +2685,7 @@ source_description: "Canonical Tibetan translation (Kangyur, Derge edition). Tra
 བྱིས་པ་འགའ་ཡང་བཤེས་མིན་ཞེས། །
 དེ་བཞིན་གཤེགས་པ་རྣམས་ཀྱིས་གསུངས། ། ^8-24
 
-[ED: No translation for verse 8.25]
+[Missing Translation verse 8.25]
 
 ནགས་ན་རི་དྭགས་བྱ་རྣམས་དང་། །
 ཤིང་རྣམས་མི་སྙན་རྗོད་མི་བྱེད། །
@@ -3604,9 +3606,9 @@ source_description: "Canonical Tibetan translation (Kangyur, Derge edition). Tra
 སྔོ་ཉིད་མིན་ལ་སྔོན་པོར་དེ། །
 བདག་གིས་བདག་ཉིད་བྱས་པ་མེད། ། ^9-20
 
-[MT: verse 9.20. 3-4th line ]
+[Missing Translation: verse 9.20. 3-4th line ]
 
-[MT: verse 9.21.]
+[Missing Translation: verse 9.21.]
 
 མར་མེ་གསལ་བར་བྱེད་དོ་ཞེས། །
 ཤེས་པས་ཤེས་ཏེ་རྗོད་བྱེད་ན། །

@@ -32,6 +32,15 @@ The output is always saved as a Tibetan-language markdown file.
 
 ---
 
+## Source files
+
+| File | Purpose |
+|------|---------|
+| `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\1-SOURCES\Translations\bo-བློ་ལྡན་ཤེས་རབ།.md` | **Root text** — canonical Tibetan translation by Blo ldan shes rab. **Always read this file and extract verses directly from it.** Never quote root-text verses from memory or training data. Verses are identified by block references in the format `^chapter-verse` (e.g. `^4-43` for Chapter 4, verse 43). |
+| `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\1-SOURCES\Commentaries\bo-དངུལ་ཆུ་ཐོགས་མེད།.md` | **Commentary** — Ngulchu Thokme's *Ocean of Good Explanations* in Tibetan. **Always read this file and extract commentary from it.** Never invent or improvise commentary. |
+
+---
+
 ## Step 1 — Gather inputs
 
 Ask the user (or infer from context) for:
@@ -42,6 +51,8 @@ Ask the user (or infer from context) for:
 4. **Language for commentary** — default is Tibetan (བོད་སྐད།); English commentary notes can be added if the user asks
 
 If the user only gives a day number, consult the verse schedule to find the chapter and verses for that day.
+
+Once you have the chapter and verse range, **read both source files** (root text and commentary) before writing any content. Extract the exact verse text and the relevant commentary passages before composing the document.
 
 ---
 
@@ -135,14 +146,10 @@ The three benefits should form a natural progression: from psychological/emotion
 For each verse being studied today:
 
 1. **Header**: `#### **[Tibetan numeral]. ཤླཽཀ་[ordinal]།** (ལེའུ་ [chapter] ཤླཽཀ་ [number])`
-2. **Verse block**: The full Tibetan verse in a blockquote, with `། །` line endings
-3. **Commentary** (`*   **འགྲེལ་བཤད།**`): 4–8 sentences of Tibetan-language commentary that:
-   - Unpacks the verse's literal meaning
-   - Explains the philosophical context (e.g., why "bearing a grudge against afflictions" differs from ordinary grudges)
-   - Connects the verse to the daily practice of bodhicitta
-   - Uses concrete imagery and analogy (the warrior metaphor, the example of a battlefield, etc.)
+2. **Verse block**: The full Tibetan verse in a blockquote, with `། །` line endings — copied **exactly** from `bo-བློ་ལྡན་ཤེས་རབ།.md` using the `^chapter-verse` block references. Do not quote verses from memory.
+3. **Commentary** (`*   **འགྲེལ་བཤད།**`): 4–8 sentences of Tibetan-language commentary **extracted and summarised from `bo-དངུལ་ཆུ་ཐོགས་མེད།.md`**. Locate the relevant passage for the verse in that commentary file, then rewrite it in clear, accessible Tibetan prose (simpler language, shorter sentences) that a practitioner can understand easily. **Do not invent, improvise, or supplement with material not found in that commentary file.**
 
-If a verse is very well-known (e.g., Ch. 4:43–44, Ch. 6:10, Ch. 8:120–125), draw on the traditional commentarial literature. For lesser-known verses, generate commentary that faithfully reflects the text's meaning and philosophical spirit.
+> ⚠️ **Critical rule for Section 4**: Both the verse text and the commentary content must come from the source files. If you cannot locate a verse or its commentary in the files, say so explicitly — do not substitute your own words.
 
 ---
 
@@ -271,7 +278,8 @@ If the user doesn't specify verses and asks only for a day number, consult that 
 - [ ] Section 1 and Section 6 match the fixed prayer texts **exactly** — do not paraphrase or alter
 - [ ] Day number, chapter, and verse numbers are in Tibetan numerals in the header
 - [ ] Exactly 3 benefit points in Section 3
-- [ ] Each verse has its own commentary block in Section 4
+- [ ] Each verse in Section 4 was copied directly from `bo-བློ་ལྡན་ཤེས་རབ།.md` — not quoted from memory
+- [ ] Each commentary block in Section 4 is extracted and summarised from `bo-དངུལ་ཆུ་ཐོགས་མེད།.md` — not invented
 - [ ] Exactly 3 daily application points in Section 5
 - [ ] Glossary has 3–6 terms with contextual definitions (not generic dictionary entries)
 - [ ] File saved with correct naming convention to the Plans folder

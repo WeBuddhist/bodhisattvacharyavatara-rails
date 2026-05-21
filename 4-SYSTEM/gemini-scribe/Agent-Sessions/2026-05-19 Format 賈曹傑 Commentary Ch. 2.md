@@ -16,7 +16,7 @@ require_confirmation:
   - external_calls
 accessed_files:
   - "[[4-SYSTEM/Skills/add-toc/SKILL]]"
-  - "[[zh-賈曹傑 入菩薩行論廣解]]"
+  - "[[zh-賈曹傑 入菩薩行論廣解-raw]]"
 metadata:
   autoLabeled: true
 ---

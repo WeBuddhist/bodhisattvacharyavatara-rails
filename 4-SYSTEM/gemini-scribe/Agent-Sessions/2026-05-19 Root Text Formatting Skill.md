@@ -18,7 +18,7 @@ metadata:
   autoLabeled: true
 accessed_files:
   - "[[4-SYSTEM/Skills/add-toc/SKILL]]"
-  - "[[zh-賈曹傑 入菩薩行論廣解]]"
+  - "[[zh-賈曹傑 入菩薩行論廣解-raw]]"
 ---
 # Agent Session 2026-05-19
 

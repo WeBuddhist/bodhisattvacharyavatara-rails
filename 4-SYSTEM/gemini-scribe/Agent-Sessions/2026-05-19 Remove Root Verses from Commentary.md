@@ -15,7 +15,7 @@ require_confirmation:
   - delete_files
   - external_calls
 accessed_files:
-  - "[[zh-賈曹傑 入菩薩行論廣解]]"
+  - "[[zh-賈曹傑 入菩薩行論廣解-raw]]"
 metadata:
   autoLabeled: true
 ---
@@ -46,7 +46,7 @@ metadata:
 > | Time | 2026-05-19T11:33:56.415+08:00 |
 
 > [!assistant]+
-> Kevin, I used the `read_file` tool to retrieve the content of the note [[zh-賈曹傑 入菩薩行論廣解]]. This allowed me to access the full text so I can identify and remove the root verses (根本論頌) as you requested, leaving only the commentary by Gyaltsab Je.
+> Kevin, I used the `read_file` tool to retrieve the content of the note [[zh-賈曹傑 入菩薩行論廣解-raw]]. This allowed me to access the full text so I can identify and remove the root verses (根本論頌) as you requested, leaving only the commentary by Gyaltsab Je.
 
 --- 
 ## Kevin
@@ -73,7 +73,7 @@ metadata:
 > | Time | 2026-05-19T11:57:02.402+08:00 |
 
 > [!assistant]+
-> Kevin, I used the `read_file` tool to retrieve the full content of [[zh-賈曹傑 入菩薩行論廣解]]. This allowed me to see the text in its entirety so I can identify the root verses (根本頌) and distinguish them from Gyaltsab Je's commentary (廣解).
+> Kevin, I used the `read_file` tool to retrieve the full content of [[zh-賈曹傑 入菩薩行論廣解-raw]]. This allowed me to see the text in its entirety so I can identify the root verses (根本頌) and distinguish them from Gyaltsab Je's commentary (廣解).
 > 
 > The reason you haven't seen any changes is that I have only **read** the file so far; I have not yet **written** the modified version back to your vault.
 > 

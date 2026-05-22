@@ -56,6 +56,34 @@ Once you have the chapter and verse range, **read both source files** (root text
 
 ---
 
+## Tibetan writing style — mandatory for all generated sections
+
+All generated prose must follow these style rules without exception:
+
+**Voice and person**
+- Write in the **first person singular**: use ངས་, ང་རང་, བདག་གིས་ — never ང་ཚོས་ or ང་ཚོ་. These are personal practice documents for one individual practitioner.
+
+**Sentence flow**
+- Sentences must be **connected and flowing**, linked by conjunctive particles: དང་། བཅས་། ཏེ། ནས། ཞིང་། etc.
+- Avoid short staccato clauses separated by།། — each paragraph should read like a single continuous thought, the way a lama would speak.
+- End substantive paragraphs and closing sentences with full final particles: ཡིན་ནོ།། or འགྱུར་རོ།། or ལགས་སོ།།
+
+**Register and tone**
+- Use **classical Tibetan literary register** (not Dzongkha, not modern journalistic Tibetan). The target is the same register as the *Spyod 'jug* itself and its traditional commentaries — elevated but not archaic, warm but not casual.
+- When referring to Śāntideva, always use the honorific form: རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷ། — never just ཞི་བའི་ལྷ or the author's name alone.
+- Address the practitioner directly in places (using ཁྱེད་ or the implied second person) to keep the personal practice feeling alive.
+
+**What to avoid**
+- ❌ Dzongkha grammatical patterns or vocabulary
+- ❌ Neutral, encyclopaedic or lecture-style prose
+- ❌ ང་ཚོས་ / ང་ཚོ་ (collective "we")
+- ❌ Clipped clauses that don't flow into one another
+
+**Model example** (Section 2 tone):
+> ཐོག་མར་ངས་དཀོན་མཆོག་གསུམ་ལ་གུས་པ་དང་སེམས་ཅན་ཐམས་ཅད་ལ་དམིགས་པའི་བྱང་ཆུབ་ཀྱི་སེམས་སྐྱེ་བའི་སྨོན་ལམ་འདེབས། དེ་རིང་ངས་སྤྱོད་འཇུག་གི་ལེའུ་དང་པོའི་ཤློཀ་དང་པོ་དང། གཉིས་པ། གསུམ་པ་བཅས་སློབ་སྦྱོང་དང་ཉམས་སུ་ལེན་རྒྱུ་ཡིན། རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷས་བྱང་ཆུབ་ཀྱི་སེམས་སྒོམ་པའི་ཕྱིར་གཞུང་འདི་བརྩམས་པར་གསུངས་པས། ང་རང་ཉིད་ཀྱིས་ཀྱང་རང་རྒྱུད་ཀྱི་ང་རྒྱལ་འཇོམས་པ་དང་གཞན་ཕན་གྱི་བསམ་པས་ཀུན་ནས་བསླངས་ཏེ་དེ་རིང་གི་སྤྱོད་འཇུག་སློབ་སྦྱོང་དང་ཉམས་ལེན་གྱི་ལས་ལ་འཇུག་པར་བྱ་རྒྱུ་ཡིན་ནོ།།
+
+---
+
 ## Step 2 — Compose the 7-section document
 
 Generate the complete document in Tibetan using the template below. The fixed sections are provided word-for-word; the variable sections must be generated freshly based on the specific chapter and verses.
@@ -292,5 +320,8 @@ If the user doesn't specify verses and asks only for a day number, consult that 
 - [ ] Exactly 3 daily application points in Section 5
 - [ ] Glossary has 3–6 terms with contextual definitions (not generic dictionary entries)
 - [ ] Tibetan spelling and grammar reviewed — check case endings (e.g. ལ་དོན། སུ་དོན། གི་དོན།), verb forms, and particles for correctness throughout all generated sections
+- [ ] Generated prose uses first person singular (ངས་ / ང་རང་), not collective ང་ཚོས་
+- [ ] Sentences flow smoothly with connective particles — no clipped Dzongkha-style clauses
+- [ ] Classical Tibetan literary register maintained; Śāntideva referred to as རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷ།
 - [ ] Filename follows the format `Day-[day]-Ch[chapter]-V[start]-[end].md` — no zero-padding, uppercase V
 - [ ] Horizontal rules (---) separate all major sections

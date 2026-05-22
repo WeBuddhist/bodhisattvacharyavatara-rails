@@ -115,17 +115,17 @@ Always include these two sub-sections verbatim:
 ```markdown
 ### ༡། སྐྱབས་འགྲོ་སེམས་བསྐྱེད།
 
-#### **༡. སྐྱབས་འགྲོ།** (སྤྱོད་འཇུག་ལེའུ་ ༢ ཤླཽཀ་ ༢༦)
+#### **༡. སྐྱབས་འགྲོ།**
 
 > བྱང་ཆུབ་སྙིང་པོར་མཆིས་ཀྱི་བར། །
 > 
 > སངས་རྒྱས་རྣམས་ལ་སྐྱབས་སུ་མཆི། །
 > 
-> ཆོས་དང་བྱང་ཆུབ་སེམས་དཔའི། །
+> ཆོས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཡི། །
 > 
 > ཚོགས་ལའང་དེ་བཞིན་སྐྱབས་སུ་མཆི། །
 
-#### **༢. སེམས་བསྐྱེད།** (སྤྱོད་འཇུག་ལེའུ་ ༣ ཤླཽཀ་ ༢༢ - ༢༣)
+#### **༢. སེམས་བསྐྱེད།**
 
 > ཇི་ལྟར་སྔོན་གྱི་བདེ་གཤེགས་ཀྱིས། །
 > 
@@ -146,19 +146,7 @@ Always include these two sub-sections verbatim:
 
 ---
 
-### Section 2 — ཀུན་སློང་བཅོས་པ། (Setting the Motivation) [GENERATED]
-
-Write a short motivational framing paragraph in Tibetan (3–5 sentences) that:
-- Grounds the practitioner in the Three Jewels and bodhicitta
-- Introduces the theme of today's chapter/verses in accessible terms
-- Frames the day's study as a chance to recognize and work with inner afflictions (ཉོན་མོངས་པ།)
-- Uses the **same voice and register** as the example: direct, encouraging, slightly literary Tibetan prose
-
-Do not use bullet points here — it should read as connected prose, like a brief oral teaching opening.
-
----
-
-### Section 3 — ཕན་ཡོན། (Benefits of Today's Verses) [GENERATED]
+### Section 2 — ཕན་ཡོན། (Benefits of Today's Verses) [GENERATED]
 
 Write exactly **3 benefit bullet points** in Tibetan. Each point should:
 - Have a bold **title** (4–7 Tibetan words) that names the specific benefit
@@ -174,7 +162,7 @@ The three benefits should form a natural progression: from psychological/emotion
 
 ---
 
-### Section 4 — དེ་རིང་གི་སྤྱོད་འཇུག་རྩ་ཚིག་དངོས། (Today's Root Verses with Commentary) [GENERATED]
+### Section 3 — དེ་རིང་གི་སྤྱོད་འཇུག་རྩ་ཚིག་དངོས། (Today's Root Verses with Commentary) [GENERATED]
 
 For each verse being studied today:
 
@@ -186,7 +174,7 @@ For each verse being studied today:
 
 ---
 
-### Section 5 — ཉིན་རེའི་འཚོ་བའི་ནང་ཉམས་སུ་ལེན་ཚུལ། (Daily Life Application) [GENERATED]
+### Section 4 — ཉིན་རེའི་འཚོ་བའི་ནང་ཉམས་སུ་ལེན་ཚུལ། (Daily Life Application) [GENERATED]
 
 Write exactly **3 practical application points** in Tibetan. Each should:
 - Have a numbered bold label (e.g., `**༡. [Short descriptive title]**`)
@@ -197,12 +185,12 @@ Ground each point in the specific verses studied today — don't give generic mi
 
 ---
 
-### Section 6 — བསྔོ་བ་དང་སྨོན་ལམ། (Dedication & Aspiration) [FIXED]
+### Section 5 — བསྔོ་བ་དང་སྨོན་ལམ། (Dedication & Aspiration) [FIXED]
 
 Always include these two sub-sections verbatim:
 
 ```markdown
-### ༦། བསྔོ་བ་དང་སྨོན་ལམ།
+### ༥། བསྔོ་བ་དང་སྨོན་ལམ།
 
 ####  **༡. བསྔོ་བ།** (སྤྱོད་འཇུག་ལེའུ་ ༡༠ ཤླཽཀ་ ༡)
 
@@ -227,7 +215,7 @@ Always include these two sub-sections verbatim:
 
 ---
 
-### Section 7 — གནད་ཚིག་ཁག་གི་འགྲེལ་བཤད། (Key Terms Glossary) [GENERATED]
+### Section 6 — གནད་ཚིག་ཁག་གི་འགྲེལ་བཤད། (Key Terms Glossary) [GENERATED]
 
 Select 3–6 key Tibetan terms that appear in today's verses. For each:
 - Bold the Tibetan term
@@ -311,13 +299,13 @@ If the user doesn't specify verses and asks only for a day number, consult that 
 ## Quality checklist before saving
 
 - [ ] Document header present, with correct day number, chapter ordinal, and verse range in Tibetan numerals — positioned **before Section 1**
-- [ ] All 7 sections present with correct section numbering (༡། through ༧།)
+- [ ] All 6 sections present with correct section numbering (༡། through ༦།)
 - [ ] Section 1 and Section 6 match the fixed prayer texts **exactly** — do not paraphrase or alter
 - [ ] Day number, chapter, and verse numbers are in Tibetan numerals in the header
 - [ ] Exactly 3 benefit points in Section 3
 - [ ] Each verse in Section 4 was copied directly from `bo-བློ་ལྡན་ཤེས་རབ།.md` — not quoted from memory
 - [ ] Each commentary block in Section 4 is extracted and summarised from `bo-དངུལ་ཆུ་ཐོགས་མེད།.md` — not invented
-- [ ] Exactly 3 daily application points in Section 5
+- [ ] Exactly 3 daily application points in Section 4
 - [ ] Glossary has 3–6 terms with contextual definitions (not generic dictionary entries)
 - [ ] Tibetan spelling and grammar reviewed — check case endings (e.g. ལ་དོན། སུ་དོན། གི་དོན།), verb forms, and particles for correctness throughout all generated sections
 - [ ] Generated prose uses first person singular (ངས་ / ང་རང་), not collective ང་ཚོས་

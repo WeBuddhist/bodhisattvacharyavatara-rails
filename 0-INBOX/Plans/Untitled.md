@@ -373,7 +373,8 @@ This practice plan focuses on the preciousness of human existence and the rarity
 > 
 > གོང་ནས་གོང་དུ་འཕེལ་བར་ཤོག །
 
-### ٦། གནད་ཚིག་ཁག་གི་འགྲེལ་བཤད།
+
+### ༦། གནད་ཚིག་ཁག་གི་འགྲེལ་བཤད།
 
 - **བྱང་ཆུབ་སེམས།** (Bodhicitta/Mind of Enlightenment) རྫོགས་པའི་སངས་རྒྱས་ཐོབ་པར་འདོད་པའི་བསམ་པ་སྟེ། འདི་ནི་དགེ་བ་ཐམས་ཅད་ཀྱི་རྩ་བ་ཡིན་ནོ། །
     

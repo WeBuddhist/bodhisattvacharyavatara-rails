@@ -286,91 +286,78 @@ Arranged in rows on lotuses of gold,
 A carpet of sweet flowers scattering
 Upon the level, incense-sprinkled ground.  ^2-17
 
-18.
 To those whose very nature is compassion
 I will give vast palaces, resounding with fair praise,
 All decked with precious pearls and beauteous pendant gems,
 Gleaming jewels that deck the amplitude of space.  ^2-18
 
-19.
 Fair and precious parasols adorned with golden shafts,
 All bordered round with hems of precious jewels,
 Upright, well-proportioned, pleasing to the eye,
 Again, all this I give to all the Buddhas.  ^2-19
 
-20.
 May a host of other offerings,
 And clouds of ravishing sweet melody
 That solaces the pain of living beings
 Arise and constantly abide.  ^2-20
 
-21.
 May rains of flowers and every precious gem
 Fall down in an unceasing stream
 Upon the Jewels of Sacred Dharma,38
 Images and all supports for offering.  ^2-21
 
-22.
 Just as Mañjughoṣha and the like
 Made offering to all the Conquerors,
 I do likewise to all the Buddhas our protectors,
 And to all their Bodhisattva children.  ^2-22
 
-23.
 To these vast oceans of good qualities
 I offer praise, a sea of airs and harmonies.
 May clouds of tuneful eulogy
 Ascend unceasingly before them.  ^2-23
 
-24.
 To Buddhas of the past, the present, and all future time,
 And to the Dharma and Sublime Assembly,
 With bodies many as the grains of dust
 Upon the earth, I will prostrate and bow.39  ^2-24
 
-25.
 To shrines and all supports
 Of bodhichitta I bow down;
 To abbots who transmit the vows, to every learned master,
 And to all sublime practitioners of Dharma.  ^2-25
 
-26.
 Until the essence of enlightenment is reached,
 I go for refuge to the Buddhas.
 Also I take refuge in the Dharma
 And in all the host of Bodhisattvas.  ^2-26
 
-27.
 To perfect Buddhas and to Bodhisattvas,
 In all directions where they may reside,
 To them who are the sovereigns of great mercy,
 I press my palms together, praying thus:  ^2-27
 
-28.
 “In this and all my other lives,
 While turning in the round without beginning,
 Blindly I have brought forth evil,
 And incited others to commit the same.  ^2-28
 
-29.
 “Deceived and overmastered by my ignorance,
 I have taken pleasure in such sin,40
 And seeing now the blame of it,
 O great protectors, I confess it earnestly!  ^2-29
 
-30.
 “Whatever I have done against the Triple Gem,
 Against my parents, teachers, and the rest,
 Through force of my defilements,
 In my body, speech, and mind,  ^2-30
 
-31.
 “All the evil I, a sinner, have committed,
 All the wicked deeds that cling to me,
 The frightful things that I contrived
 I openly declare to you, the teachers of the world.  ^2-31
 
-32.
+32. [Missing Translation verse 2.32]
+
 “It may be that my death will come to me
 Before my evil has been cleansed.
 How then can I be freed from it?

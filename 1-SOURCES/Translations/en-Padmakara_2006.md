@@ -19,217 +19,181 @@ The Way of the Bodhisattva
 
 Homage to all Buddhas and Bodhisattvas.  ^0-1
 
-1.
 To those who go in bliss,25 the dharmakāya26 they possess, and all their heirs,27
 To all those worthy of respect, I reverently bow.
 According to the scriptures, I shall now in brief describe
 The practice of the Bodhisattva discipline.  ^1-1
 
-2.
 Here I shall say nothing that has not been said before,
 And in the art of prosody I have no skill.
 I therefore have no thought that this might be of benefit to others;
 I wrote it only to habituate my mind.  ^1-2
 
-3.
 My faith will thus be strengthened for a little while,
 That I might grow accustomed to this virtuous way.
 But others who now chance upon my words
 May profit also, equal to myself in fortune.  ^1-3
 
-4.
 So hard to find the ease and wealth28
 Whereby the aims of beings may be gained.
 If now I fail to turn it to my profit,
 How could such a chance be mine again?  ^1-4
 
-5.
 Just as on a dark night black with clouds,
 The sudden lightning glares and all is clearly shown,
 Likewise rarely, through the Buddhas’ power,
 Virtuous thoughts rise, brief and transient, in the world.  ^1-5
 
-6.
 Virtue, thus, is weak; and always
 Evil is of great and overwhelming strength.
 Except for perfect bodhichitta,
 What other virtue is there that can lay it low?  ^1-6
 
-7.
 For many aeons deeply pondering,
 The mighty Sages29 saw its benefits,
 Whereby unnumbered multitudes
 Are brought with ease to supreme joy.  ^1-7
 
-8.
 Those who wish to crush the many sorrows of existence,
 Who wish to quell the pain of living beings,
 Who wish to have experience of a myriad joys
 Should never turn away from bodhichitta.  ^1-8
 
-9.
 Should bodhichitta come to birth
 In those who suffer, chained in prisons of saṃsāra,
 In that instant they are called the children of the Blissful One,
 Revered by all the world, by gods and humankind.  ^1-9
 
-10.
 For like the supreme substance of the alchemists,
 It takes our impure flesh and makes of it
 The body of a Buddha, jewel beyond all price.
 Such is bodhichitta. Let us grasp it firmly!  ^1-10
 
-11.
 Since the boundless wisdom of the only guide of beings
 Perfectly examined and perceived its priceless worth,
 Those who wish to leave this state of wandering
 Should hold well to this precious bodhichitta.  ^1-11
 
-12.
 All other virtues, like the plantain tree,
 Produce their fruit, but then their force is spent.
 Alone the marvelous tree of bodhichitta
 Constantly bears fruit and grows unceasingly.  ^1-12
 
-13.
 As though they pass through perils guarded by a hero,
 Even those weighed down with dreadful wickedness
 Will instantly be freed through having bodhichitta.
 Why do those who fear their sins not have recourse to it?  ^1-13
 
-14.
 Just as by the fire that will destroy the world,
 Great sins are surely and at once consumed by it.
 Its benefits are thus unbounded
 As the Wise and Loving Lord30 explained to Sudhana.  ^1-14
 
-15.
 Bodhichitta, the awakened mind,
 Is known in brief to have two aspects:
 First, aspiring, bodhichitta in intention;
 Then active bodhichitta, practical engagement.  ^1-15
 
-16.
 As corresponding to the wish to go
 And then to setting out,
 The wise should understand respectively
 The difference that divides these two.  ^1-16
 
-17.
 From bodhichitta in intention
 Great results arise for those still turning in the wheel of life;
 Yet merit does not rise from it in ceaseless streams
 As is the case with active bodhichitta.  ^1-17
 
-18.
 For when, with irreversible intent,
 The mind embraces bodhichitta,
 Willing to set free the endless multitudes of beings,
 In that instant, from that moment on,  ^1-18
 
-19.
 A great and unremitting stream,
 A strength of wholesome merit,
 Even during sleep and inattention,
 Rises equal to the vastness of the sky.  ^1-19
 
-20.
 This the Tathāgata,31
 In the sūtra Subāhu requested,32
 Said with reasoned argument
 For those inclined to lesser paths.  ^1-20
 
-21.
 If with kindly generosity
 One merely has the wish to soothe
 The aching heads of other beings,
 Such merit knows no bounds.  ^1-21
 
-22.
 No need to speak, then, of the wish
 To drive away the endless pain
 Of each and every living being,
 Bringing them unbounded excellence.  ^1-22
 
-23.
 Could our father or our mother
 Ever have so generous a wish?
 Do the very gods, the ṛiṣhis,33 even Brahmā34
 Harbor such benevolence as this?  ^1-23
 
-24.
 For in the past they never,
 Even in their dreams,
 Wished something like this even for themselves.
 How could they do so for another’s sake?  ^1-24
 
-25.
 This aim to bring the benefit of beings,
 A benefit that others wish not even for themselves,
 This noble, jewellike state of mind
 Arises truly wondrous, never seen before.  ^1-25
 
-26.
 This pain-dispelling draft,
 This cause of joy for those who wander through the world,35
 This precious attitude, this jewel of mind—
 How shall we calculate its merit?  ^1-26
 
-27.
 If the simple thought to be of help to others
 Exceeds in worth the worship of the Buddhas,
 What need is there to speak of actual deeds
 That bring about the weal and benefit of beings?  ^1-27
 
-28.
 For beings long to free themselves from misery,
 But misery itself they follow and pursue.
 They long for joy, but in their ignorance
 Destroy it, as they would their foe.  ^1-28
 
-29.
 But those who fill with bliss
 All beings destitute of joy,
 Who cut all pain and suffering away
 From those weighed down with misery,  ^1-29
 
-30.
 Who drive away the darkness of their ignorance—
 What virtue could be matched with theirs?
 What friend could be compared to them?
 What merit is there similar to this?  ^1-30
 
-31.
 If someone who returns a favor
 Is deserving of some praise,
 Why need we speak of Bodhisattvas,
 Those who do good even unsolicited?  ^1-31
 
-32.
 People praise as virtuous donors
 Those who with contempt support
 A few with plain and ordinary food:
 A moment’s gift that feeds for only half a day.  ^1-32
 
-33.
 What need is there to speak of those
 Who long bestow on countless multitudes
 The peerless joy of blissful Buddhahood,
 The ultimate fulfillment of their hopes?  ^1-33
 
-34.
 All those who harbor evil in their minds
 Against such lords of generosity, the Buddha’s heirs,
 Will stay in hell, the mighty Sage has said,
 For ages equal to the moments of their malice.  ^1-34
 
-35.
 But joyous and devoted thoughts
 Will yield abundant fruits in greater strength.
 Even in great trouble, Bodhisattvas
 Never bring forth wrong; their virtues naturally increase.  ^1-35
 
-36.
 To them in whom this precious jewel of mind
 Is born—to them I bow!
 I go for refuge to those springs of happiness
@@ -237,103 +201,86 @@ Who bring their very enemies to perfect bliss.  ^1-36
 
 ## 2. Confession
 
-1.
 To the Buddhas, those thus gone,
 And to the sacred Dharma, spotless and supremely rare,
 And to the Buddha’s offspring, oceans of good qualities,
 That I might gain this precious attitude, I make a perfect offering.36  ^2-1
 
-2.
 I offer every fruit and flower,
 Every kind of healing draft,
 And all the precious gems the world contains,
 With all pure waters of refreshment;  ^2-2
 
-3.
 Every mountain wrought of precious jewels,
 All sweet and lonely forest groves,
 The trees of paradise adorned with blossom,
 Trees with branches bowed with perfect fruit;  ^2-3
 
-4.
 The perfumed fragrance of divine and other realms,
 All incense, wishing trees, and trees of gems,
 All crops that grow without the tiller’s care,
 And every sumptuous object worthy to be offered;  ^2-4
 
-5.
 Lakes and meres adorned with lotuses,
 Delightful with the sweet-voiced cries of waterbirds,
 And everything unclaimed and free
 Extending to the margins of the boundless sky.  ^2-5
 
-6.
 I hold them all before my mind, and to the mighty Sage, the greatest of our kind,
 And to his heirs, I make a perfect offering.
 Sublime recipients, compassionate lords,
 O think of me with love; accept these gifts of mine!  ^2-6
 
-7.
 For, destitute of merit, I am very poor;
 I have no other wealth. And so, protectors,
 You whose wise intentions are for others’ good,
 In your great power, receive them for my sake.  ^2-7
 
-8.
 Enlightened ones and all your Bodhisattva heirs,
 I offer you my body throughout all my lives.
 Supreme courageous ones accept me totally.
 For with devotion I will be your slave.  ^2-8
 
-9.
 For if you will accept me, I will be
 Undaunted by saṃsāra and will act for beings’ sake.
 I’ll leave behind the evils of my past,
 And ever after turn my face from them.  ^2-9
 
-10.
 A bathing chamber excellently fragrant,
 With even floors of crystal, radiant and clear,
 And graceful pillars shimmering with gems,
 All hung about with gleaming canopies of pearls—  ^2-10
 
-11.
 There the blissful Buddhas and their heirs
 I’ll bathe with many a precious vase,
 Abrim with water fragrant and delightful,
 All to frequent strains of melody and song.  ^2-11
 
-12.
 With cloths of unexampled quality,
 With spotless, perfumed towels I will dry them,
 And offer splendid scented clothes,
 Well-dyed and of surpassing excellence.  ^2-12
 
-13.
 With different garments, light and supple,
 And a hundred beautiful adornments,
 I will grace sublime Samantabhadra,37
 Mañjughoṣha, Lokeshvara, and their kin.  ^2-13
 
-14.
 And with a sumptuous fragrance which
 Pervades a thousand million worlds,
 I will anoint the bodies of the mighty Sages,
 Gleaming bright like burnished gold refined and cleansed.  ^2-14
 
-15.
 I place before the mighty Sages, perfect objects of my worship,
 Glorious flowers like lotus and mandāravā,
 The utpala, and other fragrant blossoms,
 Worked and twined in lovely scented garlands.  ^2-15
 
-16.
 I will offer swelling clouds of frankincense,
 Whose ambient perfume ravishes the mind,
 And various foods and every kind of drink,
 All delicacies worthy of the gods.  ^2-16
 
-17.
 I will offer precious lamps
 Arranged in rows on lotuses of gold,
 A carpet of sweet flowers scattering

@@ -153,73 +153,75 @@ Whatever offense I have committed, out of disrespect, with my body, speech, and 
 
 And whatever terrible vices I, a sinner, defiled with many faults, have done, O Guides, I confess them all. ^2-31
 
-How shall I escape it? Rescue me quickly! May death not soon creep up on me before my vices have vanished. ^2-32
+[Missing Translation verse 2.32]
 
-Death does not differentiate between tasks done and undone. This traitor is not to be trusted by the healthy or the ill, for it is like an unexpected, great thunderbolt. ^2-33
+How shall I escape it? Rescue me quickly! May death not soon creep up on me before my vices have vanished. ^2-33
 
-I have committed various vices for the sake of friends and enemies. This I have not recognized: "Leaving everyone behind, I must pass away." ^2-34
+Death does not differentiate between tasks done and undone. This traitor is not to be trusted by the healthy or the ill, for it is like an unexpected, great thunderbolt. ^2-34
 
-My enemies will not remain, nor will my friends remain. I shall not remain. Nothing will remain. ^2-35
+I have committed various vices for the sake of friends and enemies. This I have not recognized: "Leaving everyone behind, I must pass away." ^2-35
 
-Whatever is experienced will fade to a memory. Like an experience in a dream, everything that has passed will not be seen again. ^2-36
+My enemies will not remain, nor will my friends remain. I shall not remain. Nothing will remain. ^2-36
 
-Even in this life, as I have stood by, many friends and enemies have passed away, but terrible sin induced by them remains ahead of me. ^2-37
+Whatever is experienced will fade to a memory. Like an experience in a dream, everything that has passed will not be seen again. ^2-37
 
-Thus, I have not considered that I am ephemeral. Due to delusion, attachment, and hatred, I have sinned in many ways. ^2-38
+Even in this life, as I have stood by, many friends and enemies have passed away, but terrible sin induced by them remains ahead of me. ^2-38
 
-Day and night, a life span unceasingly diminishes, and there is no adding onto it. Shall I not die then? ^2-39
+Thus, I have not considered that I am ephemeral. Due to delusion, attachment, and hatred, I have sinned in many ways. ^2-39
 
-Although lying here on a bed and relying on relatives, I alone have to bear the feeling of being cut off from my vitality. ^2-40
+Day and night, a life span unceasingly diminishes, and there is no adding onto it. Shall I not die then? ^2-40
 
-For a person seized by the messengers of Death, what good is a relative and what good is a friend? At that time, merit alone is a protection, and I have not applied myself to it. ^2-41
+Although lying here on a bed and relying on relatives, I alone have to bear the feeling of being cut off from my vitality. ^2-41
 
-O Protectors, I, negligent and unaware of this danger, have acquired many vices out of attachment to this transient life. ^2-42
+For a person seized by the messengers of Death, what good is a relative and what good is a friend? At that time, merit alone is a protection, and I have not applied myself to it. ^2-42
 
-One completely languishes while being led today to have the limbs of one's body amputated. Parched with thirst, and with pitiable eyes, one sees the world differently. ^2-43
+O Protectors, I, negligent and unaware of this danger, have acquired many vices out of attachment to this transient life. ^2-43
 
-How much more is one overpowered by the horrifying appearances of the messengers of Death as one is consumed by the fever of terror and smeared with a mass of excrement? ^2-44
+One completely languishes while being led today to have the limbs of one's body amputated. Parched with thirst, and with pitiable eyes, one sees the world differently. ^2-44
 
-With distressed glances I seek protection in the four directions. Which good person will be my protection from this great fear? ^2-45
+How much more is one overpowered by the horrifying appearances of the messengers of Death as one is consumed by the fever of terror and smeared with a mass of excrement? ^2-45
 
-Seeing the four directions devoid of protection, I return to confusion. What shall I do in that state of great fear? ^2-46
+With distressed glances I seek protection in the four directions. Which good person will be my protection from this great fear? ^2-46
 
-Right now I go for refuge to the Protectors of the World whose power is great, to the Jinas, who strive to protect the world and who eliminate every fear. ^2-47
+Seeing the four directions devoid of protection, I return to confusion. What shall I do in that state of great fear? ^2-47
 
-Likewise, I earnestly go for refuge to the Dharma that is mastered by them and that annihilates the fear of the cycle of existence, and to the assembly of Bodhisattvas as well. ^2-48
+Right now I go for refuge to the Protectors of the World whose power is great, to the Jinas, who strive to protect the world and who eliminate every fear. ^2-48
 
-Trembling with fear, I offer myself to Samantabhadra, and of my own will I offer myself to Mañjughoṣa. ^2-49
+Likewise, I earnestly go for refuge to the Dharma that is mastered by them and that annihilates the fear of the cycle of existence, and to the assembly of Bodhisattvas as well. ^2-49
 
-Terrified, I utter a mournful cry to the Protector Avalokita, whose conduct overflows with compassion, that he may protect me, a sinner. ^2-50
+Trembling with fear, I offer myself to Samantabhadra, and of my own will I offer myself to Mañjughoṣa. ^2-50
 
-Seeking protection, I earnestly invoke noble Ākāśagarbha, Kṣitigarbha, and all the Compassionate Ones. ^2-51
+Terrified, I utter a mournful cry to the Protector Avalokita, whose conduct overflows with compassion, that he may protect me, a sinner. ^2-51
 
-I bow to Vajrī, upon the sight of whom the messengers of Death and other malevolent beings flee in terror to the four directions. ^2-52
+Seeking protection, I earnestly invoke noble Ākāśagarbha, Kṣitigarbha, and all the Compassionate Ones. ^2-52
 
-After neglecting your counsel, in terror I go to you for refuge now as I face this fear. Swiftly remove my fear! ^2-53
+I bow to Vajrī, upon the sight of whom the messengers of Death and other malevolent beings flee in terror to the four directions. ^2-53
 
-Even one frightened by a fleeting illness would not disregard the physician's advice; how much more so one afflicted by the four hundred and four diseases, ^2-54
+After neglecting your counsel, in terror I go to you for refuge now as I face this fear. Swiftly remove my fear! ^2-54
 
-Of which just one can annihilate all people living in Jambudvīpa, and for which a medicine is not found in any region. ^2-55
+Even one frightened by a fleeting illness would not disregard the physician's advice; how much more so one afflicted by the four hundred and four diseases, ^2-55
 
-If I disregard the counsel of the Omniscient Physician who removes every pain, shame on me, extremely deluded one that I am! ^2-56
+Of which just one can annihilate all people living in Jambudvīpa, and for which a medicine is not found in any region. ^2-56
 
-If I stand very attentive even on a smaller cliff, then how much more so on an enduring chasm of a thousand leagues? ^2-57
+If I disregard the counsel of the Omniscient Physician who removes every pain, shame on me, extremely deluded one that I am! ^2-57
 
-It is inappropriate for me to be at ease, thinking, "Just today death will not arrive." The time when I will not exist is inevitable. ^2-58
+If I stand very attentive even on a smaller cliff, then how much more so on an enduring chasm of a thousand leagues? ^2-58
 
-Who can give me fearlessness? How shall I escape? I shall certainly not exist. Why is my mind at ease? ^2-59
+It is inappropriate for me to be at ease, thinking, "Just today death will not arrive." The time when I will not exist is inevitable. ^2-59
 
-What of value has remained with me from earlier experiences, which have disappeared, and engrossed in which I neglected the counsel of spiritual mentors? ^2-60
+Who can give me fearlessness? How shall I escape? I shall certainly not exist. Why is my mind at ease? ^2-60
 
-Upon forsaking my relatives and friends and this world of the living, alone I shall go elsewhere. What is the use of all my friends and enemies? ^2-61
+What of value has remained with me from earlier experiences, which have disappeared, and engrossed in which I neglected the counsel of spiritual mentors? ^2-61
 
-In that case, only this concern is appropriate for me day and night: How shall I surely escape suffering on account of that nonvirtue? ^2-62
+Upon forsaking my relatives and friends and this world of the living, alone I shall go elsewhere. What is the use of all my friends and enemies? ^2-62
 
-Whatever vice, whatever natural misdeed, and whatever misdeed by prohibition I, an ignorant fool, have accumulated, ^2-63
+In that case, only this concern is appropriate for me day and night: How shall I surely escape suffering on account of that nonvirtue? ^2-63
 
-Terrified of suffering, all this I confess, standing with folded hands in the presence of the Protectors and bowing repeatedly. ^2-64
+Whatever vice, whatever natural misdeed, and whatever misdeed by prohibition I, an ignorant fool, have accumulated, ^2-64
 
-May the Guides be aware of my transgressions together with my iniquity. O Protectors, may I not commit this evil again! ^2-65
+Terrified of suffering, all this I confess, standing with folded hands in the presence of the Protectors and bowing repeatedly. ^2-65
+
+May the Guides be aware of my transgressions together with my iniquity. O Protectors, may I not commit this evil again! ^2-66
 
 ## 3. Adopting the Spirit of Awakening
 

@@ -1,14 +1,15 @@
 ---
-title: Entering the Way of the Bodhisattva
+title:
+  - Entering the Way of the Bodhisattva
 author: Śāntideva
-translator: "Choephel, David Karma (bhikshu Karma Lodrö Choephel)"
+translator: Choephel, David Karma (bhikshu Karma Lodrö Choephel)
 language: English
 file_type: translation
 lang_tag: en
 verse_id_format: chapter-verse
 root_text: 1-SOURCES/Text/sk-dev.md
 covers_verses: 0-1–10-58
-source_description: "Translated into English from the canonical Tibetan text in comparison with the extant Sanskrit by the bhikshu Karma Lodrö Choephel."
+source_description: Translated into English from the canonical Tibetan text in comparison with the extant Sanskrit by the bhikshu Karma Lodrö Choephel.
 ---
 Entering the Way of the Bodhisattva
 Shantideva

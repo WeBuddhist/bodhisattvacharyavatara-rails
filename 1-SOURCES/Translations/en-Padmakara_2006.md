@@ -1,5 +1,6 @@
 ---
-title: The Way of the Bodhisattva
+title:
+  - The Way of the Bodhisattva
 author: Śāntideva
 translator: Padmakara Translation Group
 date: 2006

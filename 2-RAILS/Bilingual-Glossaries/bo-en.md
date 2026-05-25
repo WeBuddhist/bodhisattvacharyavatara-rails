@@ -3,118 +3,139 @@ language_pair: bo-en
 source_language: bo
 target_language: en
 raw_sources:
-  - 2-RAILS/Bilingual-Glossaries/sk-bo.md
-  - 2-RAILS/Bilingual-Glossaries/sk-en.md
-total_keywords: 9
-total_distinct_renderings: 25
+  - 2-RAILS/Bilingual-Glossaries/Raw/bo-en-ai.md
+total_keywords: 12
+total_distinct_renderings: 44
 generated: 2026-05-25
 status: draft
 ---
 
-# Consolidated bilingual glossary — bo → en
+# Consolidated glossary — bo → en
 
-This consolidated glossary is compiled by bridging the Sanskrit-to-Tibetan (`sk-bo`) and Sanskrit-to-English (`sk-en`) glossaries, using the original Sanskrit lemmas as the alignment bridge.
-
-## བྱང་ཆུབ་སེམས། / བྱང་ཆུབ་ཀྱི་སེམས། (bodhicitta)
+## དགེ་བ་
 
 | Rendering | Sources | Total frequency | Local-Wiki |
 |-----------|---------|-----------------|------------|
-| bodhichitta | Padmakara (15), Choephel (15) | 30 | — |
-| Spirit of Awakening | Wallace (15) | 15 | — |
-| awakened mind | Padmakara (2) | 2 | — |
-| awakening | Choephel (2) | 2 | — |
-| precious bodhichitta | Padmakara (2) | 2 | — |
-| perfect bodhichitta | Padmakara (1) | 1 | — |
-| perfect enlightenment | Choephel (1) | 1 | — |
-| Spirit of Perfect Awakening | Wallace (1) | 1 | — |
+| virtue | bo-en-ai (2) | 2 | — |
+| a-virtuous-act | bo-en-ai (1) | 1 | — |
+| only-virtue | bo-en-ai (1) | 1 | — |
+| virtues | bo-en-ai (1) | 1 | — |
 
 ---
 
-## བྱང་ཆུབ་སེམས་དཔའ། / རྒྱལ་སྲས། (bodhisattva)
+## བདེ་གཤེགས་
 
 | Rendering | Sources | Total frequency | Local-Wiki |
 |-----------|---------|-----------------|------------|
-| Bodhisattva | Padmakara (2), Choephel (1), Wallace (1) | 4 | — |
-| Buddha's heirs | Padmakara (2) | 2 | — |
-| offspring | Choephel (1) | 1 | — |
-| Child of the Sugatas | Wallace (1) | 1 | — |
-| children of the Blissful One | Padmakara (1) | 1 | — |
-| Children | Wallace (1) | 1 | — |
-| offspring of the sugatas | Choephel (1) | 1 | — |
+| of-the-Sugatas | bo-en-ai (2) | 2 | — |
+| to-the-Sugatas / Sugatas' | bo-en-ai (1) | 1 | — |
 
 ---
 
-## ཆོས་ཀྱི་སྐུ། (dharmakāya)
+## བདེ་བ་
 
 | Rendering | Sources | Total frequency | Local-Wiki |
 |-----------|---------|-----------------|------------|
-| dharmakāya | Padmakara (1), Wallace (1) | 2 | — |
-| dharmakaya | Choephel (1) | 1 | — |
+| find-connection-with-bliss / of-happiness | bo-en-ai (1) | 1 | — |
+| happiness | bo-en-ai (1) | 1 | — |
+| of-happiness / joy | bo-en-ai (1) | 1 | — |
+| the-highest-bliss | bo-en-ai (1) | 1 | — |
+| the-many... joys | bo-en-ai (1) | 1 | — |
+| the-supreme-bliss | bo-en-ai (1) | 1 | — |
 
 ---
 
-## དལ་འབྱོར། (kṣaṇasampat)
+## བསོད་ནམས་
 
 | Rendering | Sources | Total frequency | Local-Wiki |
 |-----------|---------|-----------------|------------|
-| ease and wealth | Padmakara (1) | 1 | — |
-| leisures and resources | Choephel (1) | 1 | — |
-| leisure and endowment | Wallace (1) | 1 | — |
+| merit | bo-en-ai (3) | 3 | — |
+| of-merit | bo-en-ai (1) | 1 | — |
+| The-merit | bo-en-ai (1) | 1 | — |
+| virtue | bo-en-ai (1) | 1 | — |
 
 ---
 
-## སྡིག་པ། / སྡིག་ཆེན། (pāpa)
+## བྱང་ཆུབ་སེམས་
 
 | Rendering | Sources | Total frequency | Local-Wiki |
 |-----------|---------|-----------------|------------|
-| vices | Wallace (2), Padmakara (1) | 3 | — |
-| misdeeds | Choephel (2) | 2 | — |
-| sins | Padmakara (3) | 3 | — |
-| evil | Padmakara (1) | 1 | — |
-| vice | Wallace (1) | 1 | — |
-| wrongs | Choephel (1) | 1 | — |
-| dreadful wickedness | Padmakara (1) | 1 | — |
-| great sins | Padmakara (1) | 1 | — |
+| bodhicitta | bo-en-ai (7) | 7 | — |
 
 ---
 
-## འཁོར་བ། (saṃsāra)
+## འགྲོ་བ་
 
 | Rendering | Sources | Total frequency | Local-Wiki |
 |-----------|---------|-----------------|------------|
-| samsara | Padmakara (1), Choephel (1) | 2 | — |
-| the cycle of existence | Wallace (2) | 2 | — |
-| wheel of life | Padmakara (1) | 1 | — |
-| samsara's | Choephel (1) | 1 | — |
+| actually-going | bo-en-ai (1) | 1 | — |
+| for-all-beings | bo-en-ai (1) | 1 | — |
+| of-wandering-beings | bo-en-ai (1) | 1 | — |
+| people | bo-en-ai (1) | 1 | — |
+| wishing-to-go | bo-en-ai (1) | 1 | — |
 
 ---
 
-## སྡོམ་པ། (saṃvara)
+## འབྲས་བུ་
 
 | Rendering | Sources | Total frequency | Local-Wiki |
 |-----------|---------|-----------------|------------|
-| discipline | Padmakara (1), Wallace (1) | 2 | — |
-| vows | Choephel (1) | 1 | — |
+| fruits | bo-en-ai (1) | 1 | — |
+| the-fruit | bo-en-ai (1) | 1 | — |
+| their-fruit | bo-en-ai (1) | 1 | — |
 
 ---
 
-## དགེ་བ། / བསོད་ནམས། (śubha)
+## རིན་ཆེན་
 
 | Rendering | Sources | Total frequency | Local-Wiki |
 |-----------|---------|-----------------|------------|
-| virtue | Padmakara (2), Choephel (1), Wallace (3) | 6 | — |
-| virtues | Choephel (2) | 2 | — |
-| merit | Wallace (1), Padmakara (1) | 2 | — |
-| virtuous way | Padmakara (1) | 1 | — |
-| good | Choephel (1) | 1 | — |
+| jewel | bo-en-ai (3) | 3 | — |
+| priceless | bo-en-ai (1) | 1 | — |
+| this-precious | bo-en-ai (1) | 1 | — |
 
 ---
 
-## བདེ་གཤེགས། (sugata)
+## སེམས་ཅན་
 
 | Rendering | Sources | Total frequency | Local-Wiki |
 |-----------|---------|-----------------|------------|
-| sugatas | Choephel (2) | 2 | — |
-| Sugatas | Wallace (2) | 2 | — |
-| those who go in bliss | Padmakara (1) | 1 | — |
-| Blissful One | Padmakara (1) | 1 | — |
+| beings | bo-en-ai (3) | 3 | — |
+| of-sentient-beings | bo-en-ai (3) | 3 | — |
+| being | bo-en-ai (1) | 1 | — |
+| of-sentient | bo-en-ai (1) | 1 | — |
+| sentient-beings | bo-en-ai (1) | 1 | — |
+| to-benefit-others | bo-en-ai (1) | 1 | — |
+
+---
+
+## སྐད་ཅིག་
+
+| Rendering | Sources | Total frequency | Local-Wiki |
+|-----------|---------|-----------------|------------|
+| even-those | bo-en-ai (1) | 1 | — |
+| for-just-a-moment | bo-en-ai (1) | 1 | — |
+| for-one-brilliant-instant | bo-en-ai (1) | 1 | — |
+| in-an-instant | bo-en-ai (1) | 1 | — |
+
+---
+
+## སྡིག་པ་
+
+| Rendering | Sources | Total frequency | Local-Wiki |
+|-----------|---------|-----------------|------------|
+| negativity | bo-en-ai (2) | 2 | — |
+| even-the-greatest-sins | bo-en-ai (1) | 1 | — |
+| misdeeds | bo-en-ai (1) | 1 | — |
+
+---
+
+## སྡུག་བསྔལ་
+
+| Rendering | Sources | Total frequency | Local-Wiki |
+|-----------|---------|-----------------|------------|
+| suffering | bo-en-ai (2) | 2 | — |
+| sufferings | bo-en-ai (1) | 1 | — |
+| the-suffering | bo-en-ai (1) | 1 | — |
+
+---

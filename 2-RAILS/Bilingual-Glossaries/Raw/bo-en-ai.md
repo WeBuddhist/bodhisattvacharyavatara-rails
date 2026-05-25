@@ -1,7 +1,7 @@
 ---
 gloss_file: 2-RAILS/Bilingual-Glossaries/Raw/bo-en-ai-gloss.md
 source_file: 1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md
-target_file: 3-TRANSFORMATIONS/Translations/Chapter one (AI).md
+target_file: 3-TRANSFORMATIONS/Translations/en-ai/Chapter one (AI).md
 source_language: bo
 target_language: en
 language_pair: bo-en

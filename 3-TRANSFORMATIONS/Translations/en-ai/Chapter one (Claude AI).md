@@ -76,6 +76,4 @@ But if one were to generate a joyful mind toward them, the fruit of that grows e
 
 To the one in whom this precious jewel of the mind has arisen, I bow down in reverence. To the source of happiness — even those who have harmed it find connection with bliss — I go for refuge. ^1-36
 
----
-
 _Thus ends the first chapter of the Bodhicaryāvatāra: "The Benefits of Bodhicitta."_

@@ -66,12 +66,12 @@ status: draft
 
 **Renderings attested in this source:**
 
-| Rendering | Frequency | First seen | Notes |
-|-----------|-----------|------------|-------|
-| virtue | 2 | ^1-3 | standard translation |
-| virtues | 1 | ^1-12 | pluralized form |
-| a-virtuous-act | 1 | ^1-32 | referring to giving food |
-| only-virtue | 1 | ^1-35 | contrasting with negativity |
+| Rendering      | Frequency | First seen | Notes                       |
+| -------------- | --------- | ---------- | --------------------------- |
+| virtue         | 2         | ^1-3       | standard translation        |
+| virtues        | 1         | ^1-12      | pluralized form             |
+| a-virtuous-act | 1         | ^1-32      | referring to giving food    |
+| only-virtue    | 1         | ^1-35      | contrasting with negativity |
 
 **Sample pairings:**
 

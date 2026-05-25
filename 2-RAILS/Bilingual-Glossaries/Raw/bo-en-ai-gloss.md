@@ -1,7 +1,7 @@
 ---
 source_file: 1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md
 source_language: bo
-target_file: 3-TRANSFORMATIONS/Translations/Chapter one (AI).md
+target_file: 3-TRANSFORMATIONS/Translations/en-ai/Chapter one (AI).md
 target_language: English
 target_lang_tag: en-ai
 translator: AI

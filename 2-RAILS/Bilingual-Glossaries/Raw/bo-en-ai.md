@@ -1,7 +1,7 @@
 ---
 gloss_file: 2-RAILS/Bilingual-Glossaries/Raw/bo-en-ai-gloss.md
 source_file: 1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md
-target_file: 3-TRANSFORMATIONS/Translations/Chapter one (AI).md
+target_file: 3-TRANSFORMATIONS/Translations/en-ai/Chapter one (AI).md
 source_language: bo
 target_language: en
 language_pair: bo-en
@@ -66,12 +66,12 @@ status: draft
 
 **Renderings attested in this source:**
 
-| Rendering | Frequency | First seen | Notes |
-|-----------|-----------|------------|-------|
-| virtue | 2 | ^1-3 | standard translation |
-| virtues | 1 | ^1-12 | pluralized form |
-| a-virtuous-act | 1 | ^1-32 | referring to giving food |
-| only-virtue | 1 | ^1-35 | contrasting with negativity |
+| Rendering      | Frequency | First seen | Notes                       |
+| -------------- | --------- | ---------- | --------------------------- |
+| virtue         | 2         | ^1-3       | standard translation        |
+| virtues        | 1         | ^1-12      | pluralized form             |
+| a-virtuous-act | 1         | ^1-32      | referring to giving food    |
+| only-virtue    | 1         | ^1-35      | contrasting with negativity |
 
 **Sample pairings:**
 

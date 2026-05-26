@@ -12,7 +12,7 @@ For every group of root-text verses that appears under a section heading in a sa
 1. Quotes the verses exactly as they appear in the source file.
 2. Appends a Tibetan prose paragraph that traces the full nested outline path — from the outermost relevant container all the way down to the specific leaf section — and closes with `གཞུང་ཚིག་ཡིན་ནོ།།`.
 
-Save the output as a Markdown file in the `2-RAILS/Verses/` folder of the workspace, named `bo-[chapter]-ས་བཅད་གཞིར་བཟུང་རྩ་ཚིང་ངོས་འཛིན།.md`.
+Save the output as a Markdown file in the `2-RAILS/Verses/` folder of the workspace, named `bo-[chapter]-ས་བཅད་གཞིར་བཟུང་རྩ་ཚིག་ངོས་འཛིན།.md`.
 
 ---
 

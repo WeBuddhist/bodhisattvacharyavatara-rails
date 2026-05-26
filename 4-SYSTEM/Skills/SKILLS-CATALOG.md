@@ -179,3 +179,7 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 ### `translation-frontmatter` **[exists]**
 **Purpose:** Generate complete YAML frontmatter for a translation file in `1-SOURCES/Translations/` by extracting metadata from the file's title page, colophon, and opening content.
 → [`translation-frontmatter/SKILL.md`](translation-frontmatter/SKILL.md)
+
+### `en-365-day-practice-plan-generator` **[exists]**
+**Purpose:** Generate a complete single-day Bodhisattvacharyavatara (སྤྱོད་འཇུག) practice plan session document in the traditional 7-section format, in English. Saves to `3-TRANSFORMATIONS/Plans/spyod-jug-365/en/Days/`.
+→ [`en-365-day-practice-plan-generator/SKILL.md`](en-365-day-practice-plan-generator/SKILL.md)

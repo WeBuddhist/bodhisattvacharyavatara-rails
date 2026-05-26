@@ -138,12 +138,12 @@ Number the sections consecutively in Tibetan numerals (༡། ༢། ༣། …)
 
 Title the file:
 ```
-bo-[chapter-name-in-Tibetan]-ས་བཅད་ལྟར་གཞུང་ཚིག་མདོར་བསྡུས།.md
+bo-[chapter-name-in-Tibetan]-ས་བཅད་གཞིར་བཟུང་རྩ་ཚིག་ངོས་འཛིན་བསྡུས་དོན།.md
 ```
 
 Add a closing colophon at the very end:
 ```
-*[Text name]་ལས། [Chapter title]་ཞེས་བྱ་བ་སྟེ་ལེའུ་[ordinal]་གཞུང་ཚིག་ས་བཅད་ལྟར་མདོར་བསྡུས་སོ།། །།*
+*[Text name]་ལས། [Chapter title]་ཞེས་བྱ་བ་སྟེ་ལེའུ་[ordinal]འི་རྩ་ཚིག་ས་བཅད་གཞིར་བཟུང་ངོས་འཛིན་བསྡུས་དོན་རྫོགས་སོ།། །།*
 ```
 
 ---

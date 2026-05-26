@@ -69,7 +69,9 @@ All generated prose must follow these style rules without exception:
 - End substantive paragraphs and closing sentences with full final particles: ཡིན་ནོ།། or འགྱུར་རོ།། or ལགས་སོ།།
 
 **Register and tone**
-- Use **classical Tibetan literary register** (not Dzongkha, not modern journalistic Tibetan). The target is the same register as the *Spyod 'jug* itself and its traditional commentaries — elevated but not archaic, warm but not casual.
+- The target audience is **general Tibetan-speaking practitioners who are beginners** to the *Bodhisattvacharyavatara* — not scholars or academics. Write accordingly.
+- All commentary content must be **extracted from the source commentary file** (`bo-དངུལ་ཆུ་ཐོགས་མེད།.md`) and the meaning preserved faithfully — but the **style and tone must be adapted** into clear, easy-to-read modern Tibetan that any practitioner can understand without difficulty. Think of it as rendering a traditional commentary into accessible language, the way a kind teacher would explain it to a new student.
+- Avoid archaic or highly technical scholastic phrasing. Prefer shorter, clearer sentences over dense classical constructions — but do not sacrifice correct Tibetan grammar.
 - When referring to Śāntideva, always use the honorific form: རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷ། — never just ཞི་བའི་ལྷ or the author's name alone.
 - Address the practitioner directly in places (using ཁྱེད་ or the implied second person) to keep the personal practice feeling alive.
 

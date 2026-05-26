@@ -1,21 +1,11 @@
 ---
 name: bca-practice-plan
-description: >
-  Generate a complete single-day Bodhisattvacharyavatara (སྤྱོད་འཇུག) practice plan session
-  document in the traditional 7-section format, in Tibetan. Use this skill whenever the user
-  asks to create, generate, or produce a daily practice plan, practice session, or ཉམས་ལེན་
-  document for the Bodhisattvacharyavatara (also written Bodhicaryavatara, Spyod 'jug, BCA,
-  or Guide to the Bodhisattva's Way of Life). Trigger on phrases like "create a practice plan
-  for day X", "generate today's BCA session", "make a Spyod 'jug practice plan", "365-day plan",
-  "ཉམས་ལེན་", "སྤྱོད་འཇུག་སློབ་སྦྱོང", "generate a practice document", or any request for a
-  structured daily Bodhisattvacharyavatara study/practice session. Always use this skill even
-  when the user just says something like "make me today's Spyod 'jug" or "can you do day 45
-  of the practice plan" — don't try to improvise a structure without this skill.
+description: Generate a complete single-day Bodhisattvacharyavatara (སྤྱོད་འཇུག) practice plan session document in the traditional 7-section format, in Tibetan. Use this skill whenever the user asks to create, generate, or produce a daily practice plan, practice session, or ཉམས་ལེན་ document for the Bodhisattvacharyavatara (also written Bodhicaryavatara, Spyod 'jug, BCA, or Guide to the Bodhisattva's Way of Life). Trigger on phrases like "create a practice plan for day X", "generate today's BCA session", "make a Spyod 'jug practice plan", "365-day plan", "ཉམས་ལེན་", "སྤྱོད་འཇུག་སློབ་སྦྱོང", "generate a practice document", or any request for a structured daily Bodhisattvacharyavatara study/practice session. Always use this skill even when the user just says something like "make me today's Spyod 'jug" or "can you do day 45 of the practice plan" — don't try to improvise a structure without this skill.
 ---
 
 # 365-Day Bodhisattvacharyavatara Practice Plan Generator
 
-This skill generates a single day's structured practice plan document for a 365-day study of Śāntideva's *Bodhisattvacharyavatara* (སྤྱོད་འཇུག). Each day produces a complete 7-section markdown file in Tibetan, following the traditional format used by Tigerboy (tigerboy@webuddhist.com).
+This skill generates a single day's structured practice plan document for a 365-day practice of Śāntideva's *Bodhisattvacharyavatara* (སྤྱོད་འཇུག). Each day produces a complete 7-section markdown file in Tibetan, following the traditional format used by Tigerboy (tigerboy@webuddhist.com).
 
 ---
 

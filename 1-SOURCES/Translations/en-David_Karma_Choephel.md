@@ -1,14 +1,15 @@
 ---
-title: Entering the Way of the Bodhisattva
+title:
+  - Entering the Way of the Bodhisattva
 author: Śāntideva
-translator: "Choephel, David Karma (bhikshu Karma Lodrö Choephel)"
+translator: Choephel, David Karma (bhikshu Karma Lodrö Choephel)
 language: English
 file_type: translation
 lang_tag: en
 verse_id_format: chapter-verse
 root_text: 1-SOURCES/Text/sk-dev.md
 covers_verses: 0-1–10-58
-source_description: "Translated into English from the canonical Tibetan text in comparison with the extant Sanskrit by the bhikshu Karma Lodrö Choephel."
+source_description: Translated into English from the canonical Tibetan text in comparison with the extant Sanskrit by the bhikshu Karma Lodrö Choephel.
 ---
 Entering the Way of the Bodhisattva
 Shantideva
@@ -22,183 +23,183 @@ Byang chub sems dpa’i spyod pa la ’jug pa
 
 I prostrate to all buddhas and bodhisattvas.  ^0-1
 
-1. I prostrate with respect to the sugatas,
+I prostrate with respect to the sugatas,
 Who have the dharmakaya, and their offspring,
 And also to all worthy of veneration.
 I’ll teach in brief, according to the scriptures,
 The way to enter the bodhisattva’s vows.  ^1-1
 
-2. I won’t say anything not said before,
+I won’t say anything not said before,
 Nor have I any skill in poetry.
 Thus I have not intended this for others—
 I’ve written it to cultivate my mind.  ^1-2
 
-3. Meanwhile, this will increase the power of
+Meanwhile, this will increase the power of
 My faith so that I cultivate the virtues.
 If someone else whose fortune equals mine
 Should see it, then it may be meaningful.  ^1-3
 
-4. I’ve gained what is most difficult to get—
+I’ve gained what is most difficult to get—
 The leisures and resources to benefit beings.
 If I do not accomplish good while here,
 How will I ever come to them again?  ^1-4
 
-5. Just as between the clouds on pitch-black nights,
+Just as between the clouds on pitch-black nights,
 Lightning reveals the heavens for an instant,
 Thoughts of the merits of the world arise
 For a rare moment through the buddhas’ power.  ^1-5
 
-6. Thus virtues are perpetually weak;
+Thus virtues are perpetually weak;
 The powers of misdeeds are terribly dreadful.
 Besides the wish for perfect enlightenment,
 What other virtue triumphs over them?  ^1-6
 
-7. The lords of sages, who have contemplated
+The lords of sages, who have contemplated
 For many aeons, see just this will help.
 Immeasurable multitudes of beings
 Through this will gain the sublime bliss with ease.  ^1-7
 
-8. No one should ever forsake bodhichitta
+No one should ever forsake bodhichitta
 Who wants to dispel beings’ unhappiness,
 Vanquish the hundreds of miseries of existence,
 And partake in the many hundreds of joys.  ^1-8
 
-9. If they rouse bodhichitta, in an instant
+If they rouse bodhichitta, in an instant
 The wretched, fettered in samsara’s prison,
 Are named the offspring of the sugatas
 And revered in the worlds of gods and humans.  ^1-9
 
-10. Just like the greatest kind of alchemy,
+Just like the greatest kind of alchemy,
 It takes this unclean body and transforms it
 Into a priceless jewel, a buddha’s body,
 So firmly grasp ahold of bodhichitta.  ^1-10
 
-11. Examined well by the sole leader of beings
+Examined well by the sole leader of beings
 With his immeasurable mind, it has great value.
 So you who wish to leave the places of beings,
 Firmly grasp hold of precious bodhichitta.  ^1-11
 
-12. All other virtues, like banana trees,
+All other virtues, like banana trees,
 Are spent once they have produced a result.
 The tree of bodhichitta constantly
 Bears fruit, thus thriving inexhaustibly.  ^1-12
 
-13. Like those who in great danger, rely on heroes,
+Like those who in great danger, rely on heroes,
 Why would the careful not rely on that
 Which liberates them in a single instant,
 Even if they have done horrendous wrongs?  ^1-13
 
-14. Like the inferno at an age’s end,
+Like the inferno at an age’s end,
 It burns up great misdeeds in a single instant.
 The wise protector Maitreya explained
 Its countless benefits to Sudhana.  ^1-14
 
-15. To summarize, it’s understood
+To summarize, it’s understood
 There are two types of bodhichitta:
 The mind aspiring for awakening
 And engagement in awakening.  ^1-15
 
-16. Just as they know the difference
+Just as they know the difference
 Between the wish to go and going,
 The wise should understand the contrast
 Between these two, respectively.  ^1-16
 
-17. Even in samsara, great results
+Even in samsara, great results
 Come from aspiring bodhichitta,
 Though unlike engaged bodhichitta,
 The merit is not continuous.  ^1-17
 
-18. But from the moment, when for the sake
+But from the moment, when for the sake
 Of freeing beings in infinite realms,
 You truly take up this intent
 With irreversible resolve,  ^1-18
 
-19. From that time on, the many powers
+From that time on, the many powers
 Of merit flow forth unremitting
 In torrents equal to the sky
 Even when you’re asleep or careless.  ^1-19
 
-20. The Tathagata himself explained
+The Tathagata himself explained
 This and its reasons for the sake
 Of beings inclined to the Foundation
 In the Sutra Requested by Subahu.  ^1-20
 
-21. If someone who benevolently
+If someone who benevolently
 Intends to merely eliminate
 Sharp pains in sentient beings’ heads
 Possesses immeasurable merit,  ^1-21
 
-22. What need to speak of those who wish
+What need to speak of those who wish
 To rid all sentient beings of
 Untold distresses and endow
 Each one with boundless qualities?  ^1-22
 
-23. Who has such altruism as this?
+Who has such altruism as this?
 Does even a father or a mother?
 Or do the gods or else the rishis?
 Do even Brahmas harbor this?  ^1-23
 
-24. If sentient beings themselves have never
+If sentient beings themselves have never
 Had such a wish as this before
 Even for their own sake in dreams,
 How could they have it for another?  ^1-24
 
-25. The wish to benefit beings that others
+The wish to benefit beings that others
 Have never had for their own sake—
 This special jewel of mind—is born,
 A wonder without precedent.  ^1-25
 
-26. The cause of every wanderer’s joy,
+The cause of every wanderer’s joy,
 The cure for beings’ suffering;
 How could one take the measure of
 The merit of this precious mind?  ^1-26
 
-27. If merely intending to benefit
+If merely intending to benefit
 Is greater than revering the Buddha,
 What need to speak of striving for
 The sake of all beings’ happiness?  ^1-27
 
-28. They wish to cast off suffering
+They wish to cast off suffering
 But rush toward suffering itself.
 They wish for happiness, but deluded,
 Crush their own pleasure like a foe.  ^1-28
 
-29. For those deprived of happiness
+For those deprived of happiness
 Who suffer many miseries,
 This satisfies with every pleasure
 And severs every suffering.  ^1-29
 
-30. It also will dispel delusion.
+It also will dispel delusion.
 How could there be such good as this?
 How could there be a friend like this?
 How could there be such merit as this?  ^1-30
 
-31. If to reciprocate a kind deed
+If to reciprocate a kind deed
 Is praiseworthy for a short while,
 What need to speak of bodhisattvas
 Who do good unsolicited?  ^1-31
 
-32. People extol as doing something good
+People extol as doing something good
 Those who provide a few with regular meals,
 Donating scornfully for a short time
 Plain food that satisfies for half a day.  ^1-32
 
-33. What need to speak of those who always give
+What need to speak of those who always give
 To beings of untold number for a long time
 The sublime happiness of the sugatas,
 Fulfilling every one of their desires?  ^1-33
 
-34. Someone who rouses a malicious thought
+Someone who rouses a malicious thought
 Toward such a patron, offspring of the victors,
 Will dwell in hell as many aeons as
 The count of their bad thoughts, the Sage has said.  ^1-34
 
-35. But the results of someone feeling faith
+But the results of someone feeling faith
 Proliferate in far greater abundance.
 With bodhisattvas, even grave events
 Don’t bring misdeeds; good naturally increases.  ^1-35
 
-36. I prostrate to the bodies of those in whom
+I prostrate to the bodies of those in whom
 This jewel, the sublime attitude, is born.
 Even harming them will lead to happiness.
 I go for refuge to the wellsprings of joy.  ^1-36
@@ -207,331 +208,333 @@ The first chapter, “Explaining the Benefits of Bodhichitta,” from Entering t
 
 ## 2. Confessing Misdeeds
 
-3. In order to grasp that precious attitude,
+In order to grasp that precious attitude,
 I make fine offerings to the tathagatas,
 To the true dharma, the immaculate jewel,
 And to the oceans of qualities, bodhisattvas.  ^2-1
 
-2. As many fruits and flowers as there are,
+As many fruits and flowers as there are,
 Whatever kinds of medicine exist,
 However many jewels there are in the world,
 All clean and pleasant waters there may be,  ^2-2
 
-3. Mountains of jewels and likewise forest groves
+Mountains of jewels and likewise forest groves
 In solitary and delightful places,
 Bushes adorned with ornamental flowers,
 And trees whose branches bow with splendid fruit,  ^2-3
 
-4. Incense and perfumes as from divine worlds
+Incense and perfumes as from divine worlds
 And so forth, wish-fulfilling trees, jewel trees,
 And crops that grow without need to be plowed,
 All ornaments that are fit to be offered,  ^2-4
 
-5. And lakes and pools bedecked with lotuses,
+And lakes and pools bedecked with lotuses,
 Where lovely swans have most delightful calls—
 Everything that’s unowned extending to
 The edges of the realms of infinite space—  ^2-5
 
-6. I imagine taking these and offer them well
+I imagine taking these and offer them well
 To the sages, greatest of beings, and their offspring,
 Sublime and greatly compassionate recipients.
 Think of me lovingly; accept these from me.  ^2-6
 
-7. I am bereft of merit, destitute,
+I am bereft of merit, destitute,
 And have no other wealth that I could offer.
 May the protectors, who think of others’ weal,
 Accept these through their power for my sake.  ^2-7
 
-8. Forevermore I offer all my bodies
+Forevermore I offer all my bodies
 To the victorious ones and to their offspring.
 O sublime beings, accept me entirely,
 And I will be your dedicated servant.  ^2-8
 
-9. Because you have accepted me completely,
+Because you have accepted me completely,
 Not fearing existence, I will benefit beings.
 I will transcend my previous misdeeds
 And never do another wrong again.  ^2-9
 
-10. Within this sweetly fragrant house for bathing,
+Within this sweetly fragrant house for bathing,
 Where the bright and lustrous floors are paved with crystal,
 Alluring pillars are aglow with jewels,
 And glistening pearls are draped in canopies,  ^2-10
 
-11. I bathe the sugatas and bodhisattvas
+I bathe the sugatas and bodhisattvas
 From precious vases that have been filled full
 Of water imbued with many fragrances,
 Accompanied by song and harmonies.  ^2-11
 
-12. With cloths that are beyond compare and clean,
+With cloths that are beyond compare and clean,
 Infused with a fine scent, I dry their bodies.
 And then I offer them the finest robes,
 Well dyed and most delightfully perfumed.  ^2-12
 
-13. I drape Samantabhadra, Lokeshvara,
+I drape Samantabhadra, Lokeshvara,
 Manjushri, and the other noble beings
 With fabrics that are delicate and soft
 And hundreds of the finest ornaments.  ^2-13
 
-14. Like polishing the purest refined gold,
+Like polishing the purest refined gold,
 I apply the finest scents, whose fragrances
 Waft everywhere throughout the billion worlds,
 To the radiant bodies of all sugatas.  ^2-14
 
-15. I offer the great beings I venerate,
+I offer the great beings I venerate,
 The lords of sages, every fragrant flower—
 Mandarava, lotus, jasmine, and so forth—
 And pleasing garlands strung attractively.  ^2-15
 
-16. I also offer billowing clouds of incense
+I also offer billowing clouds of incense
 Filled with the sweetest, most enchanting scents.
 And royal feasts I offer them as well,
 Replete with an assortment of food and drink.  ^2-16
 
-17. Further, I make an offering of jeweled lamps
+Further, I make an offering of jeweled lamps
 Arranged in rows on golden lotuses.
 I scatter the petals of attractive flowers
 On a paved floor anointed with perfume.  ^2-17
 
-18. I offer those who are compassionate
+I offer those who are compassionate
 Numberless palaces adorning the sky,
 Beautifully glowing with strings of pearls and jewels
 And echoing with melodious songs of praise.  ^2-18
 
-19. I always offer to the lords of sages
+I always offer to the lords of sages
 Beauteous, jeweled parasols with golden staves,
 Fine shaped, upright, and pleasing to the eye,
 Their rims festooned with winsome ornaments.  ^2-19
 
-20. And furthermore, may there extend
+And furthermore, may there extend
 Clouds of attractive offerings,
 With lovely tunes and harmonies,
 That soothe all beings’ sufferings.  ^2-20
 
-21. May rains of gems and flowers and more
+May rains of gems and flowers and more
 Continuously shower down
 On all the jewels of the true dharma
 As well as on stupas and likenesses.  ^2-21
 
-22. As Manjughosha and the rest
+As Manjughosha and the rest
 Make offerings to the victorious ones,
 I offer to the tathagatas—
 The protectors—and their offspring.  ^2-22
 
-23. I extol the oceans of qualities
+I extol the oceans of qualities
 With oceans of melodies of praise.
 May clouds of hymns in praise of them
 Arise just so continuously.  ^2-23
 
-24. I prostrate, bowing as many bodies
+I prostrate, bowing as many bodies
 As there are atoms in all realms,
 To all the buddhas of the three times,
 The dharma, and the sublime sangha.  ^2-24
 
-25. I prostrate to the sacred sites
+I prostrate to the sacred sites
 And stupas of the bodhisattva.
 I also prostrate to the abbots,
 The masters, and the supreme adepts.  ^2-25
 
-26. Until I reach enlightenment’s essence,
+Until I reach enlightenment’s essence,
 I go for refuge to the buddhas.
 I go for refuge to the dharma
 And sangha of bodhisattvas too.  ^2-26
 
-27. To the perfect buddhas and bodhisattvas
+To the perfect buddhas and bodhisattvas
 Who dwell in every direction—
 To those endowed with great compassion—
 I join my palms and supplicate:  ^2-27
 
-28. In this and in my other lives
+In this and in my other lives
 Throughout beginningless samsara,
 Deluded, I have done misdeeds.
 I’ve instigated them, and also—  ^2-28
 
-29. Compelled by ignorant confusion—
+Compelled by ignorant confusion—
 I have rejoiced in them. I see
 They were mistakes, and I confess
 To the protectors from my depths.  ^2-29
 
-30. I have, because of the afflictions,
+I have, because of the afflictions,
 Caused harm with body, speech, and mind
 To the three jewels and to my parents
 And to the gurus, among others.  ^2-30
 
-31. I, who am wicked and am stained
+I, who am wicked and am stained
 By numerous failings, have committed
 Misdeeds that are most terrible.
 Before the guides, I confess them all.  ^2-31
 
-32. I am going to perish quickly,
+[Missing Translation verse 2.32]
+
+I am going to perish quickly,
 Before I’m cleansed of my misdeeds.
 How can I be rescued from them?
-I beg you, please deliver me.  ^2-32
+I beg you, please deliver me.  ^2-33
 
-33. The Lord of Death, untrustworthy,
+The Lord of Death, untrustworthy,
 Won’t tarry for what’s done or undone.
 So no one, whether or not they’re ill,
-Should place their trust in fleeting life.  ^2-33
+Should place their trust in fleeting life.  ^2-34
 
-34. I must leave all behind and go,
+I must leave all behind and go,
 But I have not yet recognized that.
 For the sake of those I like or dislike,
-I have done various misdeeds.  ^2-34
+I have done various misdeeds.  ^2-35
 
-35. Those I don’t like will cease to be,
+Those I don’t like will cease to be,
 And those I like will cease to be.
 I myself will cease to be,
-And everyone will cease to be.  ^2-35
+And everyone will cease to be.  ^2-36
 
-36. All of the things that I have used
+All of the things that I have used
 Will become objects of memory,
 As if experienced in a dream.
-I’ll never see what’s past again.  ^2-36
+I’ll never see what’s past again.  ^2-37
 
-37. Even during this life, many of those
+Even during this life, many of those
 I like and dislike have passed away.
 And yet the terrible misdeeds
-I’ve done for their sake remain before me.  ^2-37
+I’ve done for their sake remain before me.  ^2-38
 
-38. Because I have not recognized
+Because I have not recognized
 That I, as well, am ephemeral,
 I have committed many wrongs
-Out of delusion, greed, and hatred.  ^2-38
+Out of delusion, greed, and hatred.  ^2-39
 
-39. Not pausing even a day or night,
+Not pausing even a day or night,
 This life’s continuously depleted,
 And there is no extending it.
-So why would one like me not die?  ^2-39
+So why would one like me not die?  ^2-40
 
-40. While I am lying in my bed
+While I am lying in my bed
 Surrounded by all my relatives,
 I will experience alone
-The feeling of my life being cut.  ^2-40
+The feeling of my life being cut.  ^2-41
 
-41. When seized by Yama’s messengers,
+When seized by Yama’s messengers,
 What good are friends? What good are kin?
 Merit alone will guard me then,
-But I, alas, haven’t practiced that.  ^2-41
+But I, alas, haven’t practiced that.  ^2-42
 
-42. Protectors, I have carelessly
+Protectors, I have carelessly
 Committed numerous misdeeds
 For the sake of this ephemeral life,
-Oblivious there is such a danger.  ^2-42
+Oblivious there is such a danger.  ^2-43
 
-43. If people who are being led
+If people who are being led
 To have their limbs chopped off today
 Look different than they did before
-With their parched mouths and bloodshot eyes,  ^2-43
+With their parched mouths and bloodshot eyes,  ^2-44
 
-44. What need to say how wretched I’ll be
+What need to say how wretched I’ll be
 When Yama’s henchmen have me seized,
 Their physiognomies dire and dread,
-And I am gripped by terrible pain?  ^2-44
+And I am gripped by terrible pain?  ^2-45
 
-45. “Who will protect me truly from
+“Who will protect me truly from
 This horrifying danger,” I’ll cry,
 Eyes bulging with terror, as I search
-In the four directions for a refuge.  ^2-45
+In the four directions for a refuge.  ^2-46
 
-46. But seeing no protection in
+But seeing no protection in
 The four directions, I’ll then despair.
 If there’s no refuge in that place,
-What will I do at such a time?  ^2-46
+What will I do at such a time?  ^2-47
 
-47. Thus from today, I’ll go for refuge
+Thus from today, I’ll go for refuge
 To the victors, guardians of beings,
 Who strive to protect all wanderers,
-Those with great power who dispel all fear.  ^2-47
+Those with great power who dispel all fear.  ^2-48
 
-48. Likewise I truly go for refuge
+Likewise I truly go for refuge
 To the dharma they have realized, which
 Dispels the terrors of samsara,
-And to the sangha of bodhisattvas.  ^2-48
+And to the sangha of bodhisattvas.  ^2-49
 
-49. Petrified with dread, I give
+Petrified with dread, I give
 Myself over to Samantabhadra.
 I also make an offering
-To Manjughosha of my body.  ^2-49
+To Manjughosha of my body.  ^2-50
 
-50. I cry a miserable wail
+I cry a miserable wail
 To guardian Avalokiteshvara,
 Whose acts of mercy are unmistaken.
-I beg, protect me who have done wrong.  ^2-50
+I beg, protect me who have done wrong.  ^2-51
 
-51. To noble Akashagarbha and
+To noble Akashagarbha and
 To Kshitigarbha, to every one
 Of the protectors with great compassion,
-I cry from my heart in search of refuge.  ^2-51
+I cry from my heart in search of refuge.  ^2-52
 
-52. I go for refuge to Vajrapani,
+I go for refuge to Vajrapani,
 Upon the sight of whom, from fear,
 Malevolent beings like the henchmen
-Of Yama flee in the four directions.  ^2-52
+Of Yama flee in the four directions.  ^2-53
 
-53. I have in the past transgressed your word,
+I have in the past transgressed your word,
 But now that I’ve seen the great peril,
 I go to you for refuge and plead:
-Swiftly eliminate this fear.  ^2-53
+Swiftly eliminate this fear.  ^2-54
 
-54. If one must do as doctors say
+If one must do as doctors say
 From fear of ordinary illness,
 What need to speak of being infected
 Continually by the sickness of
-The hundred wrongs of lust and such?  ^2-54
+The hundred wrongs of lust and such?  ^2-55
 
-55. If even one of these can ruin
+If even one of these can ruin
 All people who live in Jambudvipa
 And no other medicine to cure it
-Can be obtained in any direction,  ^2-55
+Can be obtained in any direction,  ^2-56
 
 56. To think that I might not do as
 Directed by the omniscient healer
 Who removes every pain would be
-Blameworthy and completely deluded.  ^2-56
+Blameworthy and completely deluded.  ^2-57
 
-57. If I must be quite careful of
+If I must be quite careful of
 A minor, ordinary chasm,
 What need to mention the abyss
-Where I’d fall a thousand leagues for long?  ^2-57
+Where I’d fall a thousand leagues for long?  ^2-58
 
-58. It is not right to sit content
+It is not right to sit content
 And say “I will not die today.”
 It is inevitable the time
-Will come when I will cease to be.  ^2-58
+Will come when I will cease to be.  ^2-59
 
-59. Who will grant me freedom from fear?
+Who will grant me freedom from fear?
 And how will I escape from this?
 I certainly will no longer be.
-How can my mind remain at ease?  ^2-59
+How can my mind remain at ease?  ^2-60
 
-60. My past experiences are gone,
+My past experiences are gone,
 And what do I have left of them?
 But out of my fixation on them,
-I’ve gone against the gurus’ words.  ^2-60
+I’ve gone against the gurus’ words.  ^2-61
 
-61. If I must leave this life behind
+If I must leave this life behind
 Along with family and friends
 And go off somewhere else alone,
-What good all those I like or dislike?  ^2-61
+What good all those I like or dislike?  ^2-62
 
-62. It would be right to only think
+It would be right to only think
 In just this way all day and night:
 “Nonvirtue leads to suffering.
-How can I be freed from it?”  ^2-62
+How can I be freed from it?”  ^2-63
 
-63. Whatever misdeeds I have done
+Whatever misdeeds I have done
 From being ignorant and deluded,
 Whether they’re naturally unwholesome
-Or disobedient misdeeds,  ^2-63
+Or disobedient misdeeds,  ^2-64
 
-64. Within the presence of the protectors,
+Within the presence of the protectors,
 From fear of suffering, I join
 My palms and prostrate repeatedly,
-Confessing every one of them.  ^2-64
+Confessing every one of them.  ^2-65
 
-65. I supplicate you, guides! Accept
+I supplicate you, guides! Accept
 That my misdeeds have been mistaken.
 They were not good, and for that reason,
-I’ll never do such acts again.  ^2-65
+I’ll never do such acts again.  ^2-66
 
 The second chapter, “Confessing Misdeeds,” from Entering the Way of the Bodhisattva.
 

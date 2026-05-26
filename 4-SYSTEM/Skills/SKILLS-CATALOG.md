@@ -116,6 +116,12 @@ These skills populate `2-RAILS/` with the structured context that translation an
 **Rules:** Translate small batches only — one or a few TOC nodes at a time. Every keyword rendering must match the per-track termbase. Introduce no new rendering without first adding it to the termbase and feeding it back into the consolidated bilingual glossary.
 → `translate-section/SKILL.md` *(to be written)*
 
+### `verse-commentary-summarizer` **[exists]**
+**Purpose:** Generate a verse-specific summary file by extracting explanations from provided commentaries, summarizing each commentary, and creating a combined synthesis.
+**Inputs:** Verse ID, list of commentary files, output path/track.
+**Outputs:** A summary file under `3-TRANSFORMATIONS/Translations/<track>/Verses/<verse-id>.md`.
+→ [`verse-commentary-summarizer/SKILL.md`](verse-commentary-summarizer/SKILL.md)
+
 ---
 
 ## Translation QA skills

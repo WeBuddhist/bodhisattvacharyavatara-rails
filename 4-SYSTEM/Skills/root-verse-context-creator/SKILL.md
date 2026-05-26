@@ -1,7 +1,6 @@
 ---
 name: root-verse-context-creator
-description: >
-  Use this skill for any task involving Tibetan Buddhist root texts that are combined with a nested outline (ས་བཅད།, sa-bcad). The skill generates a Tibetan contextual summary paragraph for each group of root verses by tracing the complete nested outline path — from the outermost container down to the specific section — and closing with གཞུང་ཚིག་ཡིན་ནོ།། in the style of Khenpo Kunpal's sa-bcad commentary. Trigger whenever the user says things like "summarize root text based on nested contents," "create verse context summaries," "generate sa-bcad path summaries," "do the next chapter," or shows a file that interleaves Tibetan nested outline headings with verse blocks. Also trigger for follow-up requests like "now do Chapter 2" or "continue the verse summaries." The task can scope to a single chapter or the whole text.
+description: Use this skill for any task involving Tibetan Buddhist root texts that are combined with a nested outline (ས་བཅད།, sa-bcad). The skill generates a Tibetan contextual summary paragraph for each group of root verses by tracing the complete nested outline path — from the outermost container down to the specific section — and closing with གཞུང་ཚིག་ཡིན་ནོ།། in the style of Khenpo Kunpal's sa-bcad commentary. Trigger whenever the user says things like "summarize root text based on nested contents," "create verse context summaries," "generate sa-bcad path summaries," "do the next chapter," or shows a file that interleaves Tibetan nested outline headings with verse blocks. Also trigger for follow-up requests like "now do Chapter 2" or "continue the verse summaries." The task can scope to a single chapter or the whole text.
 ---
 
 # Root Verse Context Creator

@@ -15,9 +15,9 @@ created_at: 2026-05-26
 
 ## 0. Homage and Preface 
 
-༄༅༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་ལེགས་པར་བཤད་པའི་རྒྱ་མཚོ་ཞེས་བྱ་བ་བཞུགས་སོ། ། ^0-1
+Herein lies the commentary on Entering the Way of the Bodhisattva, entitled "The Ocean of Good Explanations." ^0-1
 
-༄༅༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་ལེགས་པར་བཤད་པའི་རྒྱ་མཚོ་ཞེས་བྱ་བ། འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་ལ་ཕྱག་འཚལ་ལོ། ། ^0-2
+The commentary on Entering the Way of the Bodhisattva, entitled "The Ocean of Good Explanations." Homage to the noble lord Avalokiteśvara! ^0-2
 
 I bow to the Son of Śuddhodana (the Buddha), who, through the great rain of the sublime Dharma—which is free from the four extremes of elaboration and represents non-abiding nirvana—dispels the flames of afflictions of wandering beings and extensively increases the harvest of benefit and happiness; whose ocean of generating the mind, produced by love for all wandering beings without exception, arose from the warmth of the two accumulations, forming the densely gathered clouds of the three kayas. ^0-3
 
@@ -220,7 +220,7 @@ The first of these has five parts: overcoming negativity, accomplishing benefit 
 
 In contrast, the causes of non-virtue are easily gathered, so extremely fierce negativity arises continuously. To overcome it, we must generate a virtuous mind. What other virtue, apart from the mind of perfect awakening (bodhicitta), can overcome that extremely fierce negativity? None can overcome it. ^1-6-1
 
-As is said in the *Gaṇḍavyūha Sūtra*: 'Just as the eyes of a cat instantly overcome mice so they cannot endure, likewise, the eyes of the precious mind of awakening also instantly overcome the mice of karma and afflictions so they cannot endure.' ^1-6-2
+As is said in the *Gaṇ打avyūha Sūtra*: 'Just as the eyes of a cat instantly overcome mice so they cannot endure, likewise, the eyes of the precious mind of awakening also instantly overcome the mice of karma and afflictions so they cannot endure.' ^1-6-2
 
 Thus it is said. ^1-6-3
 

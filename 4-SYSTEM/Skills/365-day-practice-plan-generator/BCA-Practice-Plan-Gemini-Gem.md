@@ -305,9 +305,9 @@ For chapter names in the header, use the traditional Tibetan word form for the o
 - [ ] All 6 sections present with correct Tibetan section numbering (༡། through ༦།)
 - [ ] Sections 1 and 5 match the fixed prayer texts exactly — not paraphrased
 - [ ] Day, chapter, and verse numbers in Tibetan numerals in the header
-- [ ] Exactly 3 benefit points in Section 2
+- [ ] Exactly 3 benefit points in Section 2 — each title ends with འི་ཕན་ཡོན།
 - [ ] Section 3.1 — all verses copied exactly from the root text Knowledge file — not altered, not from memory
-- [ ] Section 3.2 — all commentary based on passages retrieved from the commentary Knowledge file — nothing invented
+- [ ] Section 3.2 — all commentary based on passages retrieved from the commentary Knowledge file — nothing invented; each begins with ཤློཀ་འདིའི་དོན་ནི་ and ends with། །plus a final particle
 - [ ] Exactly 3 daily application points in Section 4
 - [ ] Glossary has 3–6 terms with accessible, contextual definitions
 - [ ] Section 4 uses first person singular (ངས་ / ང་རང་) — never collective ང་ཚོས་

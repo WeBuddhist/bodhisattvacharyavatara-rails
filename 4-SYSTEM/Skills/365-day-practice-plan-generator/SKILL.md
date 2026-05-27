@@ -145,13 +145,18 @@ Always include these two sub-sections verbatim:
 > **Tone: neutral and explanatory.** Write as a teacher presenting the benefits to the practitioner. Do not use first person (ངས་ / ང་རང་). You may address the reader as ཁྱེད་ to maintain warmth.
 
 Write exactly **3 benefit bullet points** in Tibetan. Each point should:
-- Have a bold **title** (4–7 Tibetan words) that names the specific benefit
-- Follow with 2–3 sentences of clear, accessible explanation
+- Have a bold **title** (4–7 Tibetan words) that names the specific benefit — the title **must end with འི་ཕན་ཡོན།**
+- Be followed by 2–3 sentences of clear, accessible explanation on the same line after a colon (`:`)
 - Be tied specifically to the themes of today's verses (not generic bodhisattva benefits)
 
 Pattern to follow:
 ```markdown
-*   **[Benefit title in Tibetan]** [2–3 sentences of explanation]
+*   **[Benefit title ending in འི་ཕན་ཡོན།]**: [2–3 sentences of explanation]
+```
+
+Example:
+```
+*   **བདེ་གཤེགས་སྲས་སུ་འགྱུར་བའི་ཕན་ཡོན།**: བྱང་ཆུབ་ཀྱི་སེམས་སྐྱེས་པ་ཙམ་གྱིས་འཁོར་བར་འཁྱམས་པའི་སེམས་ཅན་ཉམ་ཐག་རྣམས་ཀྱང་སངས་རྒྱས་ཀྱི་སྲས་སུ་འགྱུར་ཞིང་ལྷ་མིས་ཕྱག་བྱ་བའི་གནས་སུ་འགྱུར་རོ། །
 ```
 
 The three benefits should form a natural progression: from psychological/emotional freedom → clarifying one's focus/target → developing resilience/courage. Adapt this arc to the specific chapter content.
@@ -179,7 +184,12 @@ For each verse, provide one commentary block in the same order as the verses abo
 
 1. **Header**: `#### **[Tibetan numeral]. ཤླཽཀ་[ordinal]།་འགྲེལ་བཤད།**`
 2. **Commentary label**: `*   **འགྲེལ་བཤད།**`
-3. **Commentary text**: 4–8 sentences of Tibetan prose **extracted and summarised from `bo-དངུལ་ཆུ་ཐོགས་མེད།.md`**. Locate the relevant passage for the verse in that file, then rewrite it in clear, easy-to-read modern Tibetan that a beginner practitioner can understand and apply directly. **Do not invent, improvise, or add material not found in that commentary file.**
+3. **Commentary text**: 4–8 sentences of Tibetan prose **extracted and summarised from `bo-དངུལ་ཆུ་ཐོགས་མེད།.md`**. The text **must begin with** `ཤློཀ་འདིའི་དོན་ནི་` and **must end** with `། །` preceded by one of the standard final particles: གོ། །, ངོ། །, དོ། །, ནོ། །, བོ། །, མོ། །, འོ། །, རོ། །, ལོ། །, སོ། །, or ཏོ། །. Rewrite in clear, easy-to-read modern Tibetan that a beginner practitioner can understand and apply directly. **Do not invent, improvise, or add material not found in that commentary file.**
+
+Example:
+```
+འགྲེལ་བཤད། ཤློཀ་འདིའི་དོན་ནི་ལས་དང་ཉོན་མོངས་པའི་འཆིང་བས་འཁོར་བའི་བཙོན་རར་བསྡམས་པའི་སྟོབས་ཀྱིས་སྡུག་བསྔལ་གྱིས་ཉམ་ཐག་པའི་སེམས་ཅན་རྣམས་ཀྱིས་བྱང་ཆུབ་ཀྱི་སེམས་བསྐྱེད་པར་གྱུར་ན། སྐད་ཅིག་དེ་ཉིད་ནས་བཟུང་སྟེ་མིང་བདེ་གཤེགས་རྣམས་ཀྱི་སྲས་ཞེས་བརྗོད་པར་འགྱུར་རོ། ། དེ་ནི་འཇིག་རྟེན་གྱི་ལྷ་དང་མིར་བཅས་པ་ཐམས་ཅད་ཀྱིས་ཕྱག་བྱ་བའི་གནས་སུ་འགྱུར་ཞེས་པའོ། །
+```
 
 > ⚠️ **Critical rule for Section 3**: Both verse text and commentary must come from the source files. If you cannot locate a verse or its commentary in the files, state this explicitly — do not substitute your own words.
 
@@ -316,9 +326,9 @@ If the user doesn't specify verses and asks only for a day number, consult that 
 - [ ] All 6 sections present with correct section numbering (༡། through ༦།)
 - [ ] Section 1 and Section 6 match the fixed prayer texts **exactly** — do not paraphrase or alter
 - [ ] Day number, chapter, and verse numbers are in Tibetan numerals in the header
-- [ ] Exactly 3 benefit points in Section 2
+- [ ] Exactly 3 benefit points in Section 2 — each title ends with འི་ཕན་ཡོན།
 - [ ] Section 3.1 — all verses copied directly from `bo-བློ་ལྡན་ཤེས་རབ།.md` — not quoted from memory
-- [ ] Section 3.2 — all commentary blocks extracted and summarised from `bo-དངུལ་ཆུ་ཐོགས་མེད།.md` — not invented
+- [ ] Section 3.2 — all commentary blocks extracted and summarised from `bo-དངུལ་ཆུ་ཐོགས་མེད།.md` — not invented; each begins with ཤློཀ་འདིའི་དོན་ནི་ and ends with །། plus a final particle
 - [ ] Exactly 3 daily application points in Section 4
 - [ ] Glossary has 3–6 terms with contextual definitions (not generic dictionary entries)
 - [ ] Tibetan spelling and grammar reviewed — check case endings (e.g. ལ་དོན། སུ་དོན། གི་དོན།), verb forms, and particles for correctness throughout all generated sections

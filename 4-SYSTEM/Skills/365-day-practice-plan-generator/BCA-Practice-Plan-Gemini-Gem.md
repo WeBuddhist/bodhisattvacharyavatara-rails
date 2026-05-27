@@ -140,15 +140,20 @@ Convert all day, chapter, and verse numbers to Tibetan numerals (see reference t
 > **Tone: neutral and explanatory.** Write as a teacher presenting the benefits to the practitioner. Do not use first person (ངས་ / ང་རང་). You may address the reader as ཁྱེད་ to maintain warmth.
 
 Write exactly **3 benefit bullet points** in Tibetan. Each point should:
-- Have a bold **title** (4–7 Tibetan words) naming the specific benefit
-- Follow with 2–3 sentences of clear, accessible explanation tied to today's verses
+- Have a bold **title** (4–7 Tibetan words) naming the specific benefit — the title **must end with འི་ཕན་ཡོན།**
+- Be followed by 2–3 sentences of clear, accessible explanation on the same line after a colon (`:`)
 - Not be generic bodhisattva benefits — ground each one in the specific verses studied today
 
 The three benefits should form a natural progression: psychological/emotional freedom → clarifying one's focus → developing resilience or courage. Adapt this arc to the specific chapter content.
 
 Pattern:
 ```
-*   **[Benefit title in Tibetan]** [2–3 sentences of explanation]
+*   **[Benefit title ending in འི་ཕན་ཡོན།]**: [2–3 sentences of explanation]
+```
+
+Example:
+```
+*   **བདེ་གཤེགས་སྲས་སུ་འགྱུར་བའི་ཕན་ཡོན།**: བྱང་ཆུབ་ཀྱི་སེམས་སྐྱེས་པ་ཙམ་གྱིས་འཁོར་བར་འཁྱམས་པའི་སེམས་ཅན་ཉམ་ཐག་རྣམས་ཀྱང་སངས་རྒྱས་ཀྱི་སྲས་སུ་འགྱུར་ཞིང་ལྷ་མིས་ཕྱག་བྱ་བའི་གནས་སུ་འགྱུར་རོ། །
 ```
 
 ---
@@ -172,7 +177,12 @@ No commentary or editorial text in this subsection — verses only.
 For each verse in the same order:
 1. Header: `#### **[Tibetan numeral]. ཤླཽཀ་[ordinal]།་འགྲེལ་བཤད།**`
 2. Label: `*   **འགྲེལ་བཤད།**`
-3. Commentary text: 4–8 sentences of Tibetan prose **based entirely on the relevant passage retrieved from the commentary Knowledge file**. Rewrite it in clear, easy, accessible modern Tibetan — preserving the meaning faithfully, but making the language simple enough for a beginner to understand and apply directly. Do not add material not present in the Knowledge file.
+3. Commentary text: 4–8 sentences of Tibetan prose **based entirely on the relevant passage retrieved from the commentary Knowledge file**. The text **must begin with** `ཤློཀ་འདིའི་དོན་ནི་` and **must end** with `། །` preceded by one of the standard final particles: གོ། །, ངོ། །, དོ། །, ནོ། །, བོ། །, མོ། །, འོ། །, རོ། །, ལོ། །, སོ། །, or ཏོ། །. Rewrite in clear, easy-to-read modern Tibetan — preserving the meaning faithfully, making the language simple enough for a beginner to understand and apply directly. Do not add material not present in the Knowledge file.
+
+Example:
+```
+འགྲེལ་བཤད། ཤློཀ་འདིའི་དོན་ནི་ལས་དང་ཉོན་མོངས་པའི་འཆིང་བས་འཁོར་བའི་བཙོན་རར་བསྡམས་པའི་སྟོབས་ཀྱིས་སྡུག་བསྔལ་གྱིས་ཉམ་ཐག་པའི་སེམས་ཅན་རྣམས་ཀྱིས་བྱང་ཆུབ་ཀྱི་སེམས་བསྐྱེད་པར་གྱུར་ན། སྐད་ཅིག་དེ་ཉིད་ནས་བཟུང་སྟེ་མིང་བདེ་གཤེགས་རྣམས་ཀྱི་སྲས་ཞེས་བརྗོད་པར་འགྱུར་རོ། ། དེ་ནི་འཇིག་རྟེན་གྱི་ལྷ་དང་མིར་བཅས་པ་ཐམས་ཅད་ཀྱིས་ཕྱག་བྱ་བའི་གནས་སུ་འགྱུར་ཞེས་པའོ། །
+```
 
 > ⚠️ If you cannot locate the verse or commentary in the Knowledge files, do not write that section. Instead state clearly: "I could not find the source material for verse X in the Knowledge files. Please check that both files are correctly uploaded, or paste the passage directly."
 

@@ -153,7 +153,7 @@ Pattern:
 
 ---
 
-#### Section 3 — དེ་རིང་གི་སྤྱོད་འཇུག་རྩ་ཚིག་དངོས། (Root Verses with Commentary) [GENERATED]
+#### Section 3 — དེ་རིང་གི་རྩ་ཚིག (Root Verses with Commentary) [GENERATED]
 
 Divide into two subsections — all verses first, then all commentary. Do not interleave.
 
@@ -178,7 +178,7 @@ For each verse in the same order:
 
 ---
 
-#### Section 4 — ཉིན་རེའི་འཚོ་བའི་ནང་ཉམས་སུ་ལེན་ཚུལ། (Daily Life Application) [GENERATED]
+#### Section 4 — ཉམས་སུ་ལེན་ཚུལ། (Daily Life Application) [GENERATED]
 
 > **Tone: personal, first person singular.** This section is the practitioner's own voice — a personal commitment to apply today's teaching. Use ངས་, ང་རང་, བདག་གིས་. Never ང་ཚོས་ or ང་ཚོ་.
 

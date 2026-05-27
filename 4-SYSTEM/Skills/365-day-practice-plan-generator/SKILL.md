@@ -158,7 +158,7 @@ The three benefits should form a natural progression: from psychological/emotion
 
 ---
 
-### Section 3 — དེ་རིང་གི་སྤྱོད་འཇུག་རྩ་ཚིག་དངོས། (Today's Root Verses with Commentary) [GENERATED]
+### Section 3 — དེ་རིང་གི་རྩ་ཚིག (Today's Root Verses with Commentary) [GENERATED]
 
 This section is divided into two distinct subsections: all root verses first, then all commentaries. Do not interleave them.
 
@@ -185,7 +185,7 @@ For each verse, provide one commentary block in the same order as the verses abo
 
 ---
 
-### Section 4 — ཉིན་རེའི་འཚོ་བའི་ནང་ཉམས་སུ་ལེན་ཚུལ། (Daily Life Application) [GENERATED]
+### Section 4 — ཉམས་སུ་ལེན་ཚུལ། (Daily Life Application) [GENERATED]
 
 > **Tone: personal, first person singular.** This section is the practitioner's own voice — a personal commitment to apply today's teaching. Use ངས་, ང་རང་, བདག་གིས་. Never ང་ཚོས་ or ང་ཚོ་.
 

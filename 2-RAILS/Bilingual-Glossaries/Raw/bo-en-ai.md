@@ -17,12 +17,12 @@ status: draft
 
 **Renderings attested in this source:**
 
-| Rendering | Frequency | First seen | Notes |
-|-----------|-----------|------------|-------|
-| for-one-brilliant-instant | 1 | ^1-5 | Used in compound context of lightning flash |
-| even-those | 1 | ^1-9 | loose alignment with `སྐད་ཅིག་གིས` ("the moment") |
-| in-an-instant | 1 | ^1-14 | with instrumental `གཅིག་གིས་` |
-| for-just-a-moment | 1 | ^1-32 | modifying meal-giving |
+| Rendering                 | Frequency | First seen | Notes                                             |
+| ------------------------- | --------- | ---------- | ------------------------------------------------- |
+| for-one-brilliant-instant | 1         | ^1-5       | Used in compound context of lightning flash       |
+| even-those                | 1         | ^1-9       | loose alignment with `སྐད་ཅིག་གིས` ("the moment") |
+| in-an-instant             | 1         | ^1-14      | with instrumental `གཅིག་གིས་`                     |
+| for-just-a-moment         | 1         | ^1-32      | modifying meal-giving                             |
 
 **Sample pairings:**
 

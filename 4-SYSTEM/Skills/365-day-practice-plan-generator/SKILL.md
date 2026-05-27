@@ -50,8 +50,9 @@ Once you have the chapter and verse range, **read both source files** (root text
 
 All generated prose must follow these style rules without exception:
 
-**Voice and person**
-- Write in the **first person singular**: use ངས་, ང་རང་, བདག་གིས་ — never ང་ཚོས་ or ང་ཚོ་. These are personal practice documents for one individual practitioner.
+**Voice and person — differs by section**
+- **Sections 2, 3.2, and 6** (Benefits, Commentary, Glossary): Use a **neutral, explanatory tone**. Write as a teacher explaining the teaching to a practitioner. You may address the reader as ཁྱེད་ (you) to maintain warmth, but never use ངས་ / ང་རང་ / བདག་གིས་ in these sections. The focus is the teaching itself, not the practitioner's personal voice.
+- **Section 4 only** (Daily Life Application): Use the **first person singular** — ངས་, ང་རང་, བདག་གིས་. Never ང་ཚོས་ or ང་ཚོ་. This section voices the practitioner's own personal commitment to applying today's teaching.
 
 **Sentence flow**
 - Sentences must be **connected and flowing**, linked by conjunctive particles: དང་། བཅས་། ཏེ། ནས། ཞིང་། etc.

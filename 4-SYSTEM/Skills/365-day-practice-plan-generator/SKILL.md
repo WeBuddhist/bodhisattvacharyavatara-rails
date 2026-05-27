@@ -68,11 +68,12 @@ All generated prose must follow these style rules without exception:
 
 **What to avoid**
 - ❌ Dzongkha grammatical patterns or vocabulary
-- ❌ Neutral, encyclopaedic or lecture-style prose
-- ❌ ང་ཚོས་ / ང་ཚོ་ (collective "we")
+- ❌ Cold, encyclopaedic or overly academic prose — even neutral-tone sections (2, 3.2, 6) should feel warm and accessible, like a kind teacher speaking to a student
+- ❌ First person singular (ངས་ / ང་རང་ / བདག་གིས་) in Sections 2, 3.2, and 6
+- ❌ ང་ཚོས་ / ང་ཚོ་ (collective "we") anywhere in the document
 - ❌ Clipped clauses that don't flow into one another
 
-**Model example** (Section 2 tone):
+**Model example** (Section 4 tone — personal application, first person singular):
 > ཐོག་མར་ངས་དཀོན་མཆོག་གསུམ་ལ་གུས་པ་དང་སེམས་ཅན་ཐམས་ཅད་ལ་དམིགས་པའི་བྱང་ཆུབ་ཀྱི་སེམས་སྐྱེ་བའི་སྨོན་ལམ་འདེབས། དེ་རིང་ངས་སྤྱོད་འཇུག་གི་ལེའུ་དང་པོའི་ཤློཀ་དང་པོ་དང། གཉིས་པ། གསུམ་པ་བཅས་སློབ་སྦྱོང་དང་ཉམས་སུ་ལེན་རྒྱུ་ཡིན། རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷས་བྱང་ཆུབ་ཀྱི་སེམས་སྒོམ་པའི་ཕྱིར་གཞུང་འདི་བརྩམས་པར་གསུངས་པས། ང་རང་ཉིད་ཀྱིས་ཀྱང་རང་རྒྱུད་ཀྱི་ང་རྒྱལ་འཇོམས་པ་དང་གཞན་ཕན་གྱི་བསམ་པས་ཀུན་ནས་བསླངས་ཏེ་དེ་རིང་གི་སྤྱོད་འཇུག་སློབ་སྦྱོང་དང་ཉམས་ལེན་གྱི་ལས་ལ་འཇུག་པར་བྱ་རྒྱུ་ཡིན་ནོ།།
 
 ---
@@ -141,9 +142,11 @@ Always include these two sub-sections verbatim:
 
 ### Section 2 — ཕན་ཡོན། (Benefits of Today's Verses) [GENERATED]
 
+> **Tone: neutral and explanatory.** Write as a teacher presenting the benefits to the practitioner. Do not use first person (ངས་ / ང་རང་). You may address the reader as ཁྱེད་ to maintain warmth.
+
 Write exactly **3 benefit bullet points** in Tibetan. Each point should:
 - Have a bold **title** (4–7 Tibetan words) that names the specific benefit
-- Follow with 2–3 sentences of explanation
+- Follow with 2–3 sentences of clear, accessible explanation
 - Be tied specifically to the themes of today's verses (not generic bodhisattva benefits)
 
 Pattern to follow:
@@ -170,11 +173,13 @@ No commentary, explanation, or editorial text belongs in this subsection — ver
 
 #### Subsection 3.2 — འགྲེལ་བཤད། (Commentary)
 
+> **Tone: neutral and explanatory.** Write as a teacher clarifying the meaning for the practitioner. Do not use first person (ངས་ / ང་རང་). You may address the reader as ཁྱེད་ to maintain warmth.
+
 For each verse, provide one commentary block in the same order as the verses above:
 
 1. **Header**: `#### **[Tibetan numeral]. ཤླཽཀ་[ordinal]།་འགྲེལ་བཤད།**`
 2. **Commentary label**: `*   **འགྲེལ་བཤད།**`
-3. **Commentary text**: 4–8 sentences of Tibetan prose **extracted and summarised from `bo-དངུལ་ཆུ་ཐོགས་མེད།.md`**. Locate the relevant passage for the verse in that file, then rewrite it in clear, accessible classical Tibetan (simpler phrasing, shorter sentences than the original) that a practitioner can read and apply directly. **Do not invent, improvise, or add material not found in that commentary file.**
+3. **Commentary text**: 4–8 sentences of Tibetan prose **extracted and summarised from `bo-དངུལ་ཆུ་ཐོགས་མེད།.md`**. Locate the relevant passage for the verse in that file, then rewrite it in clear, easy-to-read modern Tibetan that a beginner practitioner can understand and apply directly. **Do not invent, improvise, or add material not found in that commentary file.**
 
 > ⚠️ **Critical rule for Section 3**: Both verse text and commentary must come from the source files. If you cannot locate a verse or its commentary in the files, state this explicitly — do not substitute your own words.
 
@@ -182,12 +187,13 @@ For each verse, provide one commentary block in the same order as the verses abo
 
 ### Section 4 — ཉིན་རེའི་འཚོ་བའི་ནང་ཉམས་སུ་ལེན་ཚུལ། (Daily Life Application) [GENERATED]
 
+> **Tone: personal, first person singular.** This section is the practitioner's own voice — a personal commitment to apply today's teaching. Use ངས་, ང་རང་, བདག་གིས་. Never ང་ཚོས་ or ང་ཚོ་.
+
 Write exactly **3 practical application points** in Tibetan. Each should:
 - Have a numbered bold label (e.g., `**༡. [Short descriptive title]**`)
-- Give a concrete instruction for how to bring the verse's teaching into today's ordinary life
-- Be actionable and specific — tell the practitioner *what to do* when anger arises, when distraction occurs, etc.
-
-Ground each point in the specific verses studied today — don't give generic mindfulness advice.
+- Be written in first person — the practitioner speaking about what *they* will do
+- Give a concrete, actionable instruction for bringing the verse's teaching into today's ordinary life
+- Be specific to the verses studied today — not generic mindfulness advice
 
 ---
 
@@ -223,10 +229,12 @@ Always include these two sub-sections verbatim:
 
 ### Section 6 — གནད་ཚིག་ཁག་གི་འགྲེལ་བཤད། (Key Terms Glossary) [GENERATED]
 
+> **Tone: neutral and explanatory.** Write clear, accessible definitions as a teacher would. Do not use first person (ངས་ / ང་རང་). You may address the reader as ཁྱེད་ where natural.
+
 Select 3–6 key Tibetan terms that appear in today's verses. For each:
 - Bold the Tibetan term
 - Provide an English translation in parentheses
-- Write 2–4 sentences defining how the term is used in this specific verse/chapter context (not just a dictionary definition)
+- Write 2–4 sentences in clear, easy-to-read modern Tibetan defining how the term is used in this specific verse/chapter context (not just a dictionary definition)
 
 Pattern:
 ```markdown
@@ -314,7 +322,8 @@ If the user doesn't specify verses and asks only for a day number, consult that 
 - [ ] Exactly 3 daily application points in Section 4
 - [ ] Glossary has 3–6 terms with contextual definitions (not generic dictionary entries)
 - [ ] Tibetan spelling and grammar reviewed — check case endings (e.g. ལ་དོན། སུ་དོན། གི་དོན།), verb forms, and particles for correctness throughout all generated sections
-- [ ] Generated prose uses first person singular (ངས་ / ང་རང་), not collective ང་ཚོས་
+- [ ] Section 4 uses first person singular (ངས་ / ང་རང་) — never collective ང་ཚོས་
+- [ ] Sections 2, 3.2, and 6 use neutral tone — no first person (ངས་ / ང་རང་ / བདག་གིས་) in these sections
 - [ ] Sentences flow smoothly with connective particles — no clipped Dzongkha-style clauses
 - [ ] Classical Tibetan literary register maintained; Śāntideva referred to as རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷ།
 - [ ] Filename follows the format `Day-[day]-Ch[chapter]-V[start]-[end].md` — no zero-padding, uppercase V

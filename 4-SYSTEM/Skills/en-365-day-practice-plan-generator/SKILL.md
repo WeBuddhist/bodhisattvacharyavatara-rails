@@ -62,14 +62,12 @@ All generated prose must follow these style rules without exception:
 ### What to avoid
 
 - ❌ Cold, encyclopedic, or overly academic prose — even neutral-tone sections (2, 3, 6) should feel warm and accessible, like a kind teacher speaking to a student.
-    
 - ❌ First-person singular ("I", "me", "my") in Sections 2, 3, and 6.
-    
 - ❌ Collective pronouns ("we", "us", "our") anywhere in the document.
-    
 - ❌ Clipped clauses that don't flow into one another.
-    
+- ❌ Dont mention "commentators or teachers" Section 3 -Combined Commentary Summary for Verse.
 - ❌ Transliterated Sanskrit or Tibetan terms (e.g., use "Enlightenment" instead of Bodhi, "Hero of Enlightenment" instead of Bodhisattva).
+
 ### Model example (Section 3 -Combined Commentary Summary for Verse)
 
 > Śāntideva expresses deep humility by denying any claim to originality or poetic genius. This modest attitude helps him overcome pride and intellectual arrogance before his peers. He writes this text primarily to train his own mind and prevent his spiritual growth from declining.

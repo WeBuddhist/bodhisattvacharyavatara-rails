@@ -175,7 +175,7 @@ Based on the traditional commentaries of Gyaltsab Darma Rinchen, Sazang Mati Pan
 
 ```
 
-### Section 3 — Today's Root Verses & Commentaries (དེ་རིང་གི་སྤྱོད་འཇུག་རྩ་ཚིག་དངོས།)
+### Section 3 — Today's Root Verses & Commentaries (དེ་རིང་གི་སྤྱོད་འཇུག་རྩ་ཚིག་དངོས།) GENERATED
 
 For each verse in the assigned range, output the root verse in Tibetan and English, followed by a synthesized, combined commentary summary.
 

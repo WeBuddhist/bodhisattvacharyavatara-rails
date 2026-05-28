@@ -246,9 +246,9 @@ After saving, present the saved path to the user along with a brief, one-sentenc
     
 - [ ] Root verses copied exactly from `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md`.
     
-- [ ] English verse translations extracted from `3-TRANSFORMATIONS/Translations/en-ai/Chapter one (Claude AI).md` (or other verified translation).
+- [ ] English verse translations extracted from `3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-root-loden-sherab.md` (or other verified translation).
     
-- [ ] Combined commentary summary is in plain English (Grade 8-10), strictly 15-20 words per sentence, active voice, and adapts complex metaphors.
+- [ ] Combined commentary summary is in plain English (Grade 8-10), strictly 15-20 words per sentence, active voice, and adapts complex metaphors. 
     
 - [ ] Daily life application has exactly 3 numbered, actionable points in clear, everyday language.
     

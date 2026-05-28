@@ -94,7 +94,7 @@ Always include this section verbatim:
 
 ### Section 2 — Benefit (ཕན་ཡོན།) [GENERATED]
 
-Write exactly **3 benefit bullet points** in plain English (Grade 8–10 reading level). Open the section with this exact sentence:
+Write exactly 1 benefit bullet points** in plain English (Grade 8–10 reading level). Open the section with this exact sentence:
 
 `Based on the traditional commentaries of Gyaltsab Darma Rinchen, Sazang Mati Panchen, and Ngulchu Thokme Zangpo, practicing and reflecting on today's verses yields the following profound benefits:`
 

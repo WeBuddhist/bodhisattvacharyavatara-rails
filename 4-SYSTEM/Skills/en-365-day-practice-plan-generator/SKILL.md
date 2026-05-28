@@ -12,17 +12,11 @@ This skill generates a single day's structured daily practice plan document in E
 Each practice plan is a self-contained daily session that:
 
 - Opens with fixed refuge and bodhicitta prayers in English.
-
 - Sets a contextual motivation/benefit for the day's topic based on traditional commentaries.
-    
 - Explores the specific BCA verses assigned to that day, displaying both the Tibetan root text and its English translation.
-    
 - Provides a combined English commentary summary for each verse, synthesizing the explanations from Gyaltsab Darma Rinchen, Sazang Mati Panchen, and Ngulchu Thokme Zangpo.
-    
 - Offers practical daily life applications.
-    
 - Closes with fixed dedication and aspiration prayers in English.
-    
 - Concludes with a Key Terms Glossary defining notable terms in English.
     
 
@@ -184,12 +178,28 @@ Always include this section verbatim:
 > *May all wandering beings without exception*
 > *Engage in the Bodhisattva conduct.*
 
+> བདག་གིས་བྱང་ཆུབ་སྤྱོད་པ་ལ། །
+> 
+> འཇུག་པ་རྣམ་པར་བརྩམས་པ་ཡི། །
+> 
+> དགེ་བ་གང་དེས་འགྲོ་བ་ཀུན། །
+> 
+> བྱང་ཆུབ་སྤྱོད་ལ་འཇུག་པར་ཤོག །
+
 #### **2. Aspiration (སྨོན་ལམ།)**
 
 > *May the precious and supreme mind of awakening,*
 > *Where it has not arisen, arise;*
 > *Where it has arisen, may it not decline,*
 > *But increase further and further.*
+
+> བྱང་ཆུབ་སེམས་མཆོག་རིན་པོ་ཆེ། །
+> 
+> མ་སྐྱེས་པ་རྣམས་སྐྱེ་གྱུར་ཅིག །
+> 
+> སྐྱེས་པ་ཉམས་པ་མེད་པ་དང་། །
+> 
+> གོང་ནས་གོང་དུ་འཕེལ་བར་ཤོག །
 ```
 
 ### Section 6 — Key Terms Glossary (གནད་ཚིག་ཁག་གི་འགྲེལ་བཤད།) [GENERATED]

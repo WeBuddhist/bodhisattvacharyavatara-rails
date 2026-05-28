@@ -90,6 +90,10 @@ Always include this section verbatim:
 > *Likewise, I take refuge in the Dharma*
 > *And in the assembly of Bodhisattvas.*
 
+> *བྱང་ཆུབ་སྙིང་པོར་མཆིས་ཀྱི་བར། །*
+> *སངས་རྒྱས་རྣམས་ལ་སྐྱབས་སུ་མཆི། །*
+> *ཆོས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཡི། །*
+> *ཚོགས་ལའང་དེ་བཞིན་སྐྱབས་སུ་མཆི། །*
 ```
 
 ### Section 2 — Benefit (ཕན་ཡོན།) [GENERATED]

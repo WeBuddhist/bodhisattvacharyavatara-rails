@@ -182,4 +182,4 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 
 ### `en-365-day-practice-plan-generator` **[exists]**
 **Purpose:** Generate a complete single-day Bodhisattvacharyavatara (སྤྱོད་འཇུག) practice plan session document in the traditional 7-section format, in English. Saves to `3-TRANSFORMATIONS/Plans/spyod-jug-365/en/Days/`.
-→ [`en-365-day-practice-plan-generator/SKILL.md`](4-SYSTEM/Skills/en-365-day-practice-plan-generator/SKILL.md)
+→ [`en-365-day-practice-plan-generator/SKILL.md`](4-SYSTEM/Skills/en-365-day-practice-plan-generator(old)/SKILL.md)

@@ -94,7 +94,7 @@ Always include this section verbatim:
 
 ### Section 2 — Benefit (ཕན་ཡོན།) [GENERATED]
 
-Write exactly 1 benefit bullet points** in plain English (Grade 8–10 reading level). Open the section with this exact sentence:
+Write  1 benefit in plain English (Grade 8–10 reading level). Open the section with this exact sentence:
 
 `Based on the traditional commentaries of Gyaltsab Darma Rinchen, Sazang Mati Panchen, and Ngulchu Thokme Zangpo, practicing and reflecting on today's verses yields the following profound benefits:`
 
@@ -102,7 +102,7 @@ Each point should:
 
 - Have a bold **title** (with an explanatory tag in parentheses, e.g., **Title (Tag):**)
     
-- Follow with 2–3 sentences of explanation (not exceeding 50 words).
+- Follow with 4–5 sentences of explanation (not exceeding 50 words).
     
 - Use active voice, short sentences (15–20 words), and common English words (no jargon).
     
@@ -149,7 +149,7 @@ Format:
 
 ### Section 4 — Daily Life Application (ཉིན་རེའི་འཚོ་བའི་ནང་ཉམས་སུ་ལེན་ཚུལ།) [GENERATED]
 
-Write exactly **3 practical application points** in plain, accessible English (Grade 8–10 level). Each should:
+Write  1 practical application points in plain, accessible English (Grade 8–10 level). Each should:
 
 - Have a numbered bold label (e.g., `* 1. [Short descriptive title]:`)
     

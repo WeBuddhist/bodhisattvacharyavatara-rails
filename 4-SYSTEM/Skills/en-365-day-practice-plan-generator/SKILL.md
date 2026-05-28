@@ -30,13 +30,13 @@ The output is always saved as an English-language markdown file in `3-TRANSFORMA
 
 ## Source files
 
-|   |   |
-|---|---|
-|**File**|**Purpose**|
-|`1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md`|**Root text** — canonical Tibetan translation by Blo ldan shes rab. **Always read this file and extract verses directly from it.**|
-|`3-TRANSFORMATIONS/Translations/en-ai/Chapter one (Claude AI).md`|**English Verse Translation** — AI-generated English translation of the verses. (Or other verified English translations in `1-SOURCES/Translations/` like Wallace or Padmakara if requested).|
-|`3-TRANSFORMATIONS/Translations/en-ai/Verses/<verse-id>.md`|**Verse-specific Commentary Summaries** — Pre-generated commentary explanations and summaries for Gyaltsab, Sazang, and Thokme in English. **Always prioritize reading these files first to extract commentary summaries.**|
-|`3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-commentary-gyaltsab.md`<br><br>  <br><br>`3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-commentary-sazang.md`<br><br>  <br><br>`3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-commentary-thokme.md`|**Full English Commentaries** — Full AI-generated English translations of Gyaltsab, Sazang, and Thokme's commentaries. Use these if verse-specific summary files do not exist.|
+|                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **File**                                                                                                                                                                                                                                                                | **Purpose**                                                                                                                                                                                                                 |
+| `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md`                                                                                                                                                                                                                          | **Root text** — canonical Tibetan translation by Blo ldan shes rab. **Always read this file and extract verses directly from it.**                                                                                          |
+| `3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-root-loden-sherab.md`                                                                                                                                                                                             | **English Verse Translation** — AI-generated English translation of the verses. (Or other verified English translations in `1-SOURCES/Translations/` like Wallace or Padmakara if requested).                               |
+| `3-TRANSFORMATIONS/Translations/en-ai/Verses/<verse-id>.md`                                                                                                                                                                                                             | **Verse-specific Commentary Summaries** — Pre-generated commentary explanations and summaries for Gyaltsab, Sazang, and Thokme in English. **Always prioritize reading these files first to extract commentary summaries.** |
+| `3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-commentary-gyaltsab.md`<br><br>  <br><br>`3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-commentary-sazang.md`<br><br>  <br><br>`3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-commentary-thokme.md` | **Full English Commentaries** — Full AI-generated English translations of Gyaltsab, Sazang, and Thokme's commentaries. Use these if verse-specific summary files do not exist.                                              |
 
 ## Step 1 — Gather inputs
 
@@ -115,6 +115,8 @@ Pattern to follow:
 Based on the traditional commentaries of Gyaltsab Darma Rinchen, Sazang Mati Panchen, and Ngulchu Thokme Zangpo, practicing and reflecting on today's verses yields the following profound benefit:
 
 *   **[Benefit Title] ([Theme]):** [3–4 sentences of explanation]
+*   **[Benefit Title] ([Theme]):** [3–4 sentences of explanation]
+*   **[Benefit Title] ([Theme]):** [3–4 sentences of explanation]
 ```
 
 ### Section 3 — Today's Root Verses & Commentaries (དེ་རིང་གི་སྤྱོད་འཇུག་རྩ་ཚིག་དངོས།) [GENERATED]
@@ -145,7 +147,7 @@ Format:
 
 ### Section 4 — Daily Life Application (ཉིན་རེའི་འཚོ་བའི་ནང་ཉམས་སུ་ལེན་ཚུལ།) [GENERATED]
 
-Write  1 practical application points in plain, accessible English (Grade 8–10 level). Each should:
+Write  3 practical application points in plain, accessible English (Grade 8–10 level). Each should:
 
 - Have a numbered bold label (e.g., `* 1. [Short descriptive title]:`)
 - Give a concrete, actionable instruction for how to bring the verse's teaching into today's ordinary life.
@@ -158,7 +160,10 @@ Pattern:
 ```
 ### 4. Daily Life Application (ཉིན་རེའི་འཚོ་བའི་ནང་ཉམས་སུ་ལེན་ཚུལ།)
 
-*   **1. [Descriptive Title]:** [Concrete daily life instruction]
+*   **. [Descriptive Title]:** [Concrete daily life instruction]
+*   **. [Descriptive Title]:** [Concrete daily life instruction]
+*   **. [Descriptive Title]:** [Concrete daily life instruction]
+
 ```
 
 ### Section 5 — Dedication & Aspiration (བསྔོ་བ་དང་སྨོན་ལམ།) [FIXED]
@@ -223,7 +228,7 @@ After saving, present the saved path to the user along with a brief, one-sentenc
     
 - [ ] Section 1 and Section 5 match the fixed Tibetan and English prayer texts **exactly**.
     
-- [ ] Benefit section has exactly 1 bullet points written in plain English, avoiding jargon and transliteration.
+- [ ] Benefit section has exactly 3 bullet points written in plain English, avoiding jargon and transliteration.
     
 - [ ] Root verses copied exactly from `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md`.
     
@@ -231,7 +236,7 @@ After saving, present the saved path to the user along with a brief, one-sentenc
     
 - [ ] Combined commentary summary is in plain English (Grade 8-10), strictly 15-20 words per sentence, active voice, and adapts complex metaphors.
     
-- [ ] Daily life application has exactly 1 numbered, actionable points in clear, everyday language.
+- [ ] Daily life application has exactly 3 numbered, actionable points in clear, everyday language.
     
 - [ ] Glossary has 3–6 terms translated to closest English equivalents (no transliteration) with jargon-free definitions.
     

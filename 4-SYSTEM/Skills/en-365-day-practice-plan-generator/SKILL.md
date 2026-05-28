@@ -13,19 +13,12 @@ This skill generates a single day's structured daily practice plan document in E
 Each practice plan is a self-contained daily session that:
 
 - Opens with fixed refuge and bodhicitta prayers in both Tibetan and English.
-    
 - Sets a contextual motivation/benefit for the day's topic based on traditional commentaries.
-    
 - Explores the specific BCA verses assigned to that day, displaying both the Tibetan root text and its English translation.
-    
 - Provides a combined English commentary summary for each verse, synthesizing the explanations from Gyaltsab Darma Rinchen, Sazang Mati Panchen, and Ngulchu Thokme Zangpo.
-    
 - Offers practical daily life applications.
-    
 - Closes with fixed dedication and aspiration prayers in both Tibetan and English.
-    
 - Concludes with a Key Terms Glossary defining notable Tibetan terms in English.
-    
 
 The output is always saved as an English-language markdown file in `3-TRANSFORMATIONS/Plans/spyod-jug-365/en/Days/`.
 
@@ -52,7 +45,6 @@ All generated prose must follow these style rules without exception:
 ### Sentence flow
 
 - Sentences must flow smoothly and logically, linked by clear transitional phrasing, while strictly adhering to the 15–20 word limit per sentence.
-    
 - Avoid short, choppy, disconnected clauses. Each paragraph should read as a cohesive, continuous thought, similar to how a teacher would naturally speak.
     
 
@@ -78,11 +70,14 @@ All generated prose must follow these style rules without exception:
 - ❌ Clipped clauses that don't flow into one another.
     
 - ❌ Transliterated Sanskrit or Tibetan terms (e.g., use "Enlightenment" instead of Bodhi, "Hero of Enlightenment" instead of Bodhisattva).
-    
+### Model example (Section 3 -Combined Commentary Summary for Verse)
+
+> Śāntideva expresses deep humility by denying any claim to originality or poetic genius. This modest attitude helps him overcome pride and intellectual arrogance before his peers. He writes this text primarily to train his own mind and prevent his spiritual growth from declining.
 
 ### Model example (Section 4 tone — personal application, first-person singular):
 
 > "Today, I will study and practice the first three verses of Chapter One. Because the great teacher Śāntideva composed this text to help cultivate awakening, I will work to overcome my own pride. Motivated by the wish to benefit others, I will apply today's teaching directly to my daily life."
+
 
 ## Step 1 — Gather inputs
 

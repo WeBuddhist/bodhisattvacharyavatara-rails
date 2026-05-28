@@ -12,7 +12,7 @@ This skill generates a single day's structured daily practice plan document in E
 Each practice plan is a self-contained daily session that:
 
 - Opens with fixed refuge and bodhicitta prayers in English.
-    
+
 - Sets a contextual motivation/benefit for the day's topic based on traditional commentaries.
     
 - Explores the specific BCA verses assigned to that day, displaying both the Tibetan root text and its English translation.
@@ -94,20 +94,16 @@ Always include this section verbatim:
 
 ### Section 2 — Benefit (ཕན་ཡོན།) [GENERATED]
 
-Write  1 benefit in plain English (Grade 8–10 reading level). Open the section with this exact sentence:
+Write 1 benefit in plain English (Grade 8–10 reading level). Open the section with this exact sentence:
 
 `Based on the traditional commentaries of Gyaltsab Darma Rinchen, Sazang Mati Panchen, and Ngulchu Thokme Zangpo, practicing and reflecting on today's verses yields the following profound benefits:`
 
 Each point should:
 
 - Have a bold **title** (with an explanatory tag in parentheses, e.g., **Title (Tag):**)
-    
 - Follow with 4–5 sentences of explanation (not exceeding 50 words).
-    
 - Use active voice, short sentences (15–20 words), and common English words (no jargon).
-    
 - Be tied specifically to the themes of today's verses (not generic benefits).
-    
 - Avoid Sanskrit/Tibetan transliterations (e.g., use "Enlightenment" instead of "Bodhi", "Hero of Enlightenment" instead of "Bodhisattva").
     
 
@@ -116,7 +112,7 @@ Pattern to follow:
 ```
 ### 2. Benefit (ཕན་ཡོན།)
 
-Based on the traditional commentaries of Gyaltsab Darma Rinchen, Sazang Mati Panchen, and Ngulchu Thokme Zangpo, practicing and reflecting on today's verses yields the following profound benefits:
+Based on the traditional commentaries of Gyaltsab Darma Rinchen, Sazang Mati Panchen, and Ngulchu Thokme Zangpo, practicing and reflecting on today's verses yields the following profound benefit:
 
 *   **[Benefit Title] ([Theme]):** [3–4 sentences of explanation]
 ```
@@ -152,11 +148,8 @@ Format:
 Write  1 practical application points in plain, accessible English (Grade 8–10 level). Each should:
 
 - Have a numbered bold label (e.g., `* 1. [Short descriptive title]:`)
-    
 - Give a concrete, actionable instruction for how to bring the verse's teaching into today's ordinary life.
-    
 - Ground each point in the specific verses studied today — avoid generic mindfulness advice.
-    
 - Use direct, clear language with active voice and strict sentence lengths of 15–20 words.
     
 
@@ -230,7 +223,7 @@ After saving, present the saved path to the user along with a brief, one-sentenc
     
 - [ ] Section 1 and Section 5 match the fixed Tibetan and English prayer texts **exactly**.
     
-- [ ] Benefit section has exactly 3 bullet points written in plain English, avoiding jargon and transliteration.
+- [ ] Benefit section has exactly 1 bullet points written in plain English, avoiding jargon and transliteration.
     
 - [ ] Root verses copied exactly from `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md`.
     
@@ -238,7 +231,7 @@ After saving, present the saved path to the user along with a brief, one-sentenc
     
 - [ ] Combined commentary summary is in plain English (Grade 8-10), strictly 15-20 words per sentence, active voice, and adapts complex metaphors.
     
-- [ ] Daily life application has exactly 3 numbered, actionable points in clear, everyday language.
+- [ ] Daily life application has exactly 1 numbered, actionable points in clear, everyday language.
     
 - [ ] Glossary has 3–6 terms translated to closest English equivalents (no transliteration) with jargon-free definitions.
     

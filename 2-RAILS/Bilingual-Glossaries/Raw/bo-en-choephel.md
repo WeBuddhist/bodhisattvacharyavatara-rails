@@ -7,7 +7,7 @@ target_language: en
 language_pair: bo-en
 target_lang_tag: en
 translator: Choephel, David Karma
-total_keywords: 12
+total_keywords: 38
 status: draft
 ---
 
@@ -308,3 +308,464 @@ status: draft
 
 > **^1-30** — *བསོད་ནམས་ དེ་འདྲའང་ ག་ལ་ ཡོད*
 > → "such-merit-as-this"
+---
+
+## དལ་འབྱོར་
+
+**Renderings attested in this source:**
+
+| Rendering | Frequency | First seen | Notes |
+|---|---|---|---|
+| The-leisures-and-resources | 1 | ^1-4 | Standard translation of kṣaṇa-sampad |
+
+**Sample pairings:**
+
+> **^1-4** — *དལ་འབྱོར་ འདི་ནི་ རྙེད་པར་ ཤིན་ཏུ་དཀའ*
+> → "The-leisures-and-resources"
+
+---
+
+## སངས་རྒྱས་
+
+**Renderings attested in this source:**
+
+| Rendering | Frequency | First seen | Notes |
+|---|---|---|---|
+| buddhas’ | 1 | ^1-5 | Genitive context; buddhas' power |
+| the-Buddha | 1 | ^1-27 | Accusative context; revering the Buddha |
+
+**Sample pairings:**
+
+> **^1-5** — *དེ་བཞིན་ སངས་རྒྱས་ མཐུ་ཡིས་*
+> → "buddhas’"
+
+> **^1-27** — *སངས་རྒྱས་ མཆོད་ལས་ ཁྱད་འཕགས་*
+> → "the-Buddha"
+
+---
+
+## རྒྱལ་བ་
+
+**Renderings attested in this source:**
+
+| Rendering | Frequency | First seen | Notes |
+|---|---|---|---|
+| a-buddha’s | 1 | ^1-10 | Genitive form `རྒྱལ་བའི་` |
+
+**Sample pairings:**
+
+> **^1-10** — *མི་གཙང་ ལུས་ འདི་ བླངས་ནས་ རྒྱལ་བའི་ སྐུ*
+> → "a-buddha’s"
+
+---
+
+## སྲས་ / རྒྱལ་སྲས་
+
+**Renderings attested in this source:**
+
+| Rendering | Frequency | First seen | Notes |
+|---|---|---|---|
+| and-their-offspring | 1 | ^1-1 | As compound `སྲས་བཅས་` |
+| bodhisattva's | 1 | ^1-1 | Genitive form `སྲས་ཀྱི་` |
+| the-offspring | 1 | ^1-9 | Standard translation of `སྲས་` |
+| offspring-of-the-victors | 1 | ^1-34 | As compound `རྒྱལ་སྲས་` |
+| With-bodhisattvas | 1 | ^1-35 | As compound `རྒྱལ་སྲས་` with preposition |
+
+**Sample pairings:**
+
+> **^1-1** — *སྲས་བཅས་ དང་ ཕྱག་འོས་*
+> → "and-their-offspring"
+
+> **^1-1** — *བདེ་གཤེགས་ སྲས་ཀྱི་ སྡོམ་ལ་འཇུག་པ་*
+> → "bodhisattva's"
+
+> **^1-9** — *བདེ་གཤེགས་ རྣམས་ཀྱི་ སྲས་ ཞེས་བརྗོད་*
+> → "the-offspring"
+
+> **^1-34** — *རྒྱལ་སྲས་ སྦྱིན་བདག་ ལ*
+> → "offspring-of-the-victors"
+
+> **^1-35** — *རྒྱལ་སྲས་ རྣམས་ལ་ དོ་གལ་*
+> → "With-bodhisattvas"
+
+---
+
+## བྱང་ཆུབ་སེམས་དཔའ་
+
+**Renderings attested in this source:**
+
+| Rendering | Frequency | First seen | Notes |
+|---|---|---|---|
+| bodhisattvas | 1 | ^1-31 | Standard plural translation |
+
+**Sample pairings:**
+
+> **^1-31** — *བྱང་ཆུབ་ སེམས་དཔའ སྨོས་ཅི་ དགོས*
+> → "bodhisattvas"
+
+---
+
+## དེ་བཞིན་གཤེགས་པ་
+
+**Renderings attested in this source:**
+
+| Rendering | Frequency | First seen | Notes |
+|---|---|---|---|
+| The-Tathagata | 1 | ^1-20 | Capitalized with article |
+
+**Sample pairings:**
+
+> **^1-20** — *དེ་བཞིན་ གཤེགས་པ་ ཉིད་ཀྱིས་ གསུངས*
+> → "The-Tathagata"
+
+---
+
+## བྱམས་མགོན་
+
+**Renderings attested in this source:**
+
+| Rendering | Frequency | First seen | Notes |
+|---|---|---|---|
+| protector-Maitreya | 1 | ^1-14 | Aligning Maitreya with protector title |
+
+**Sample pairings:**
+
+> **^1-14** — *བྱམས་མགོན་ བློ་དང་ ལྡན་པས་ ནོར་བཟང་*
+> → "protector-Maitreya"
+
+---
+
+## གཏི་མུག་
+
+**Renderings attested in this source:**
+
+| Rendering | Frequency | First seen | Notes |
+|---|---|---|---|
+| but-deluded | 1 | ^1-28 | With agentive particle `པས་` |
+| delusion | 1 | ^1-30 | Standard noun translation |
+
+**Sample pairings:**
+
+> **^1-28** — *བདེ་བ་ འདོད་ཀྱང་ གཏི་མུག་ པས*
+> → "but-deluded"
+
+> **^1-30** — *གཏི་མུག་ ཀྱང་ནི་ སེལ་བྱེད་*
+> → "delusion"
+
+---
+
+## དམྱལ་བ་
+
+**Renderings attested in this source:**
+
+| Rendering | Frequency | First seen | Notes |
+|---|---|---|---|
+| in-hell | 1 | ^1-34 | Terminative form `དམྱལ་བར་` |
+
+**Sample pairings:**
+
+> **^1-34** — *དམྱལ་བར་ གནས་པར་ འགྱུར་ཞེས་*
+> → "in-hell"
+
+---
+
+## བསྐལ་པ་
+
+**Renderings attested in this source:**
+
+| Rendering | Frequency | First seen | Notes |
+|---|---|---|---|
+| aeons | 1 | ^1-7 | Standard plural translation |
+| as-many-aeons-as | 1 | ^1-34 | Terminative form `བསྐལ་པར་` with comparative context |
+
+**Sample pairings:**
+
+> **^1-7** — *བསྐལ་པ་ དུ་མར་ རབ་དགོངས་*
+> → "aeons"
+
+> **^1-34** — *བསྐལ་པར་ ནི དམྱལ་བར་*
+> → "as-many-aeons-as"
+
+---
+
+## ཐུབ་པ་
+
+**Renderings attested in this source:**
+
+| Rendering | Frequency | First seen | Notes |
+|---|---|---|---|
+| The-lords-of-sages | 1 | ^1-7 | As compound `ཐུབ་དབང་` (Lord of Sages) |
+| the-Sage | 1 | ^1-34 | Agentive form `ཐུབ་པས་` |
+
+**Sample pairings:**
+
+> **^1-7** — *ཐུབ་དབང་ རྣམས་ཀྱིས་ འདི་ཉིད་*
+> → "The-lords-of-sages"
+
+> **^1-34** — *ཐུབ་པས་ གསུངས*
+> → "the-Sage"
+
+---
+
+## འཁོར་བ་ / འཁོར་
+
+**Renderings attested in this source:**
+
+| Rendering | Frequency | First seen | Notes |
+|---|---|---|---|
+| samsara’s | 1 | ^1-9 | Genitive form `འཁོར་བའི་` |
+| Even-in-samsara | 1 | ^1-17 | As compound `འཁོར་ཚེ་` |
+
+**Sample pairings:**
+
+> **^1-9** — *འཁོར་བའི་ བཙོན་རར་ བསྡམས་པའི་*
+> → "samsara’s"
+
+> **^1-17** — *འཁོར་ཚེ་ འབྲས་བུ་ ཆེ་འབྱུང་*
+> → "Even-in-samsara"
+
+---
+
+## ལྷ་
+
+**Renderings attested in this source:**
+
+| Rendering | Frequency | First seen | Notes |
+|---|---|---|---|
+| of-gods-and-humans | 1 | ^1-9 | As compound `ལྷ་མིར་` |
+| the-gods | 1 | ^1-23 | Standard plural translation |
+
+**Sample pairings:**
+
+> **^1-9** — *འཇིག་རྟེན་ ལྷ་མིར་ བཅས་པས་*
+> → "of-gods-and-humans"
+
+> **^1-23** — *ལྷ་དང་ དྲང་སྲོང་ རྣམས་ཀྱང་*
+> → "the-gods"
+
+---
+
+## བསླབ་པ་ / སྡོམ་པ་
+
+**Renderings attested in this source:**
+
+| Rendering | Frequency | First seen | Notes |
+|---|---|---|---|
+| vows | 1 | ^1-1 | As part of compound `སྡོམ་ལ་འཇུག་པ་` |
+
+**Sample pairings:**
+
+> **^1-1** — *སྡོམ་ལ་འཇུག་པ་ ནི*
+> → "vows"
+
+---
+
+## འཇུག་པ་
+
+**Renderings attested in this source:**
+
+| Rendering | Frequency | First seen | Notes |
+|---|---|---|---|
+| The-way-to-enter-the-vows | 1 | ^1-1 | As part of compound `སྡོམ་ལ་འཇུག་པ་` |
+| engagement-in | 1 | ^1-15 | Standard translation of prasthāna |
+| engaged | 1 | ^1-17 | Adjectival form `འཇུག་པའི་` |
+
+**Sample pairings:**
+
+> **^1-1** — *སྡོམ་ལ་འཇུག་པ་ ནི*
+> → "The-way-to-enter-the-vows"
+
+> **^1-15** — *བྱང་ཆུབ་ འཇུག་པ་ ཉིད་ཡིན་*
+> → "engagement-in"
+
+> **^1-17** — *ཇི་ལྟར་ འཇུག་པའི་ སེམས་བཞིན་*
+> → "engaged"
+
+---
+
+## སྨོན་པ་
+
+**Renderings attested in this source:**
+
+| Rendering | Frequency | First seen | Notes |
+|---|---|---|---|
+| aspiring-for | 1 | ^1-15 | Genitive form `སྨོན་པའི་` |
+| aspiring | 1 | ^1-17 | Genitive form `སྨོན་པའི་` |
+
+**Sample pairings:**
+
+> **^1-15** — *བྱང་ཆུབ་ སྨོན་པའི་ སེམས་དང་*
+> → "aspiring-for"
+
+> **^1-17** — *བྱང་ཆུབ་ སྨོན་པའི་ སེམས་ལས་*
+> → "aspiring"
+
+---
+
+## བསྒོམ་
+
+**Renderings attested in this source:**
+
+| Rendering | Frequency | First seen | Notes |
+|---|---|---|---|
+| to-cultivate | 1 | ^1-2 | With purposive particle `ཕྱིར་` |
+| so-that-I-cultivate | 1 | ^1-3 | With purposive particle `ཕྱིར་` |
+
+**Sample pairings:**
+
+> **^1-2** — *ཡིད་ལ་ བསྒོམ་ཕྱིར་ ངས་*
+> → "to-cultivate"
+
+> **^1-3** — *དགེ་བ་ བསྒོམ་ཕྱིར་ བདག་གི་*
+> → "so-that-I-cultivate"
+
+---
+
+## ཡིད་
+
+**Renderings attested in this source:**
+
+| Rendering | Frequency | First seen | Notes |
+|---|---|---|---|
+| mind | 1 | ^1-2 | Locative form `ཡིད་ལ་` |
+| of-their | 1 | ^1-33 | Locative form `ཡིད་ལ་` in compound alignment |
+| feeling | 1 | ^1-35 | In compound `ཡིད་རབ་` |
+
+**Sample pairings:**
+
+> **^1-2** — *རང་གི་ ཡིད་ལ་ བསྒོམ་ཕྱིར་*
+> → "mind"
+
+> **^1-33** — *ཡིད་ལ་ བསམ་པ་ མཐའ་དག་*
+> → "of-their"
+
+> **^1-35** — *གང་ཞིག་ ཡིད་རབ་ དང་བྱེད་*
+> → "feeling"
+
+---
+
+## བག་ཅན་
+
+**Renderings attested in this source:**
+
+| Rendering | Frequency | First seen | Notes |
+|---|---|---|---|
+| the-careful | 1 | ^1-13 | Pluralized as "careful ones" |
+
+**Sample pairings:**
+
+> **^1-13** — *དེ་ལ་ བག་ཅན་ རྣམས་ཀྱིས་*
+> → "the-careful"
+
+---
+
+## བག་མེད་
+
+**Renderings attested in this source:**
+
+| Rendering | Frequency | First seen | Notes |
+|---|---|---|---|
+| careless | 1 | ^1-19 | In context of sleeping or distracted |
+
+**Sample pairings:**
+
+> **^1-19** — *གམ བག་མེད་ གྱུར་ཀྱང་*
+> → "careless"
+
+---
+
+## སྦྱིན་པ་ / སྦྱིན་
+
+**Renderings attested in this source:**
+
+| Rendering | Frequency | First seen | Notes |
+|---|---|---|---|
+| Donating | 1 | ^1-32 | Terminative form `སྦྱིན་པར་` |
+| give | 1 | ^1-33 | Standard verb translation |
+
+**Sample pairings:**
+
+> **^1-32** — *ཟས་ཙམ་ སྦྱིན་པར་ བྱེད་པ་*
+> → "Donating"
+
+> **^1-33** — *རྟག་ཏུ་ སྦྱིན་པ་ ལྟ་ཞིག་*
+> → "give"
+
+---
+
+## སྐྱབས་
+
+**Renderings attested in this source:**
+
+| Rendering | Frequency | First seen | Notes |
+|---|---|---|---|
+| for-refuge | 1 | ^1-36 | Terminative form `སྐྱབས་སུ་` |
+
+**Sample pairings:**
+
+> **^1-36** — *དེ་ལ་ སྐྱབས་སུ་ མཆི*
+> → "for-refuge"
+
+---
+
+## དགའ་བ་ / དགའ་
+
+**Renderings attested in this source:**
+
+| Rendering | Frequency | First seen | Notes |
+|---|---|---|---|
+| joy | 1 | ^1-26 | Genitive form `དགའ་བའི་` |
+
+**Sample pairings:**
+
+> **^1-26** — *དགའ་བའི་ རྒྱུ*
+> → "joy"
+
+---
+
+## མི་བདེ་བ་ / མི་བདེ་
+
+**Renderings attested in this source:**
+
+| Rendering | Frequency | First seen | Notes |
+|---|---|---|---|
+| unhappiness | 1 | ^1-8 | Standard noun translation of `མི་བདེ་` |
+| Untold-distresses | 1 | ^1-22 | Pluralized form `མི་བདེ་བ་` |
+
+**Sample pairings:**
+
+> **^1-8** — *མི་བདེ་ བསལ་བར་ འདོད་པ་*
+> → "unhappiness"
+
+> **^1-22** — *མི་བདེ་བ དཔག་ཏུ་ མེད་པ་*
+> → "Untold-distresses"
+
+---
+
+## སྤྱོད་པ་ / སྤྱོད་
+
+**Renderings attested in this source:**
+
+| Rendering | Frequency | First seen | Notes |
+|---|---|---|---|
+| partake-in | 1 | ^1-8 | Terminative form `སྤྱོད་པར་` |
+
+**Sample pairings:**
+
+> **^1-8** — *སྤྱོད་པར་ འདོད་པས་ ཀྱང་*
+> → "partake-in"
+
+---
+
+## དཀའ་
+
+**Renderings attested in this source:**
+
+| Rendering | Frequency | First seen | Notes |
+|---|---|---|---|
+| most-difficult | 1 | ^1-4 | As part of compound `ཤིན་ཏུ་དཀའ` |
+
+**Sample pairings:**
+
+> **^1-4** — *རྙེད་པར་ ཤིན་ཏུ་དཀའ*
+> → "most-difficult"

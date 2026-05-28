@@ -26,6 +26,7 @@ This is the style contract for the AI translation track of the *BodhisattvacaryÄ
 ## 4. Cultural-adaptation rules
 - **Transliteration:** No transliteration of Sanskrit or Tibetan terms (e.g., use "Enlightenment" instead of "Bodhi", "Hero of Enlightenment" instead of "Bodhisattva").
 - **Metaphors:** Adapt metaphors that are obscure to a modern Western audience into functional equivalents while preserving the meaning.
+
 ## 5. Source-rail dependencies
 The generation skill must consult the following rails for every batch:
 - `2-RAILS/Bilingual-Glossaries/Raw/bo-en-ai.md`

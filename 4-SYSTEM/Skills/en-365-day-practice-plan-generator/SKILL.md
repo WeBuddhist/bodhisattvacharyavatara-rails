@@ -27,7 +27,7 @@ The output is always saved as an English-language markdown file in `3-TRANSFORMA
 | File                                                                                                                                                                                                                                                | Purpose                                                                                                                                                                                                                     |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md`                                                                                                                                                                                                      | **Root text** — canonical Tibetan translation by Blo ldan shes rab. **Always read this file and extract verses directly from it.**                                                                                          |
-| `3-TRANSFORMATIONS/Translations/en-ai/Chapter one (Claude AI).md`                                                                                                                                                                                   | **English Verse Translation** — AI-generated English translation of the verses. (Or other verified English translations in `1-SOURCES/Translations/` like Wallace or Padmakara if requested).                               |
+| `3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-root-loden-sherab.md`                                                                                                                                                                         | **English Verse Translation** — AI-generated English translation of the verses. (Or other verified English translations in `1-SOURCES/Translations/` like Wallace or Padmakara if requested).                               |
 | `3-TRANSFORMATIONS/Translations/en-ai/Verses/<verse-id>.md`                                                                                                                                                                                         | **Verse-specific Commentary Summaries** — Pre-generated commentary explanations and summaries for Gyaltsab, Sazang, and Thokme in English. **Always prioritize reading these files first to extract commentary summaries.** |
 | `3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-commentary-gyaltsab.md`<br><br>`3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-commentary-sazang.md`<br><br>`3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-commentary-thokme.md` | **Full English Commentaries** — Full AI-generated English translations of Gyaltsab, Sazang, and Thokme's commentaries. Use these if verse-specific summary files do not exist.                                              |
 
@@ -153,6 +153,8 @@ Each point should:
 - Follow with 2–3 sentences of explanation (not exceeding 50 words)
 - Be tied specifically to the themes of today's verses (not generic benefits)
 - Adhere strictly to the explanatory tone (no "I" or "we").
+  - **Constraint:** Explain benefits as practical improvements to mental health, relationships, or stress management.
+- Avoid academic explanations of merit or karmic results. Focus on the _human_ benefit.
     
 
 Pattern to follow:
@@ -184,14 +186,14 @@ Format:
 
 ##### **Combined Commentary Summary for Verse [CHAPTER_NUMBER]-[VERSE_NUMBER]**
 [Provide a synthesized, cohesive, and well-structured English summary of the explanations from Gyaltsab Darma Rinchen, Sazang Mati Panchen, and Ngulchu Thokme Zangpo. 
-Instead of separate bullet points, write a unified narrative of 1-2 lines that highlights the key points and concepts. 
-Use a warm, explanatory tone (no "I" or "we").]
+- Instead of separate bullet points, write a unified narrative of 1-2 lines that highlights the key points and concepts. 
+- Use a warm, explanatory tone (no "I" or "we").]
 **Crucial Style Constraints:** 
 - Write in plain English suited for a Grade 8–10 reading level.
 - Limit sentence length to 15–20 words and use active voice.
 - Do NOT use transliterated Sanskrit or Tibetan terms (e.g., use "Enlightenment" instead of "Bodhi"). 
 - Adapt any obscure traditional metaphors into functional modern equivalents.
-- Instead of separate bullet points, write a unified narrative of 2-3 short sentences highlighting the key points and concepts.]
+
 - strictly follow to make sure that explanation for each verse doesnt exceed one paragraph.
 ```
 

@@ -1,6 +1,6 @@
 ---
 name: en-365-day-practice-plan-generator
-description: Generate a complete single-day Bodhisattvacharyavatara (སྤྱོད་འཇུག) practice plan session document in the traditional 7-section format, in English, with combined commentary summaries. Saves to 3-TRANSFORMATIONS/Plans/spyod-jug-365/en/Days/.
+description: Generate a complete single-day Bodhisattvacharyavatara (སྤྱོད་འཇུག) practice plan session document in the traditional 7-section format, in English, with combined commentary summaries. Saves to 3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/.
 ---
 
 
@@ -20,7 +20,7 @@ Each practice plan is a self-contained daily session that:
 - Closes with fixed dedication and aspiration prayers in both Tibetan and English.
 - Concludes with a Key Terms Glossary defining notable Tibetan terms in English.
 
-The output is always saved as an English-language markdown file in `3-TRANSFORMATIONS/Plans/spyod-jug-365/en/Days/`.
+The output is always saved as an English-language markdown file in `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/`.
 
 ## Source files
 
@@ -86,7 +86,7 @@ Ask the user (or infer from context) for:
     
 2. **Chapter** and **verse range** — if not provided, look up from the schedule in `4-SYSTEM/Skills/365-day-practice-plan-generator/references/verse-schedule.md`.
     
-3. **Save location** — always defaults to: `3-TRANSFORMATIONS/Plans/spyod-jug-365/en/Days/`.
+3. **Save location** — always defaults to: `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/`.
     
 
 If the user only gives a day number, consult the verse schedule to find the chapter and verses for that day.
@@ -275,10 +275,10 @@ Pattern:
 
 ## Step 3 — Save the file
 
-Save the file to `3-TRANSFORMATIONS/Plans/spyod-jug-365/en/Days/[DAY_NUMBER].md`.
+Save the file to `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/[DAY_NUMBER].md`.
 
 - Filename format: `[DAY_NUMBER].md` (e.g. `1.md`, `2.md`, `45.md` — no zero-padding).
-- Target directory: `3-TRANSFORMATIONS/Plans/spyod-jug-365/en/Days/`
+- Target directory: `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/`
 
 After saving, present the saved path to the user along with a brief, one-sentence summary of the day's verses.
 
@@ -296,4 +296,4 @@ After saving, present the saved path to the user along with a brief, one-sentenc
 - [ ] Sections 2, 3, and 6 completely avoid first-person singular pronouns ("I", "me", "my").
 - [ ] Glossary has 3–6 terms with contextual, commentary-based definitions.
 - [ ] Generated prose strictly adheres to 8-10 Grade reading level, 15-20 words per sentence, and avoids all untranslated jargon.
-- [ ] Saved exactly to `3-TRANSFORMATIONS/Plans/spyod-jug-365/en/Days/[DAY_NUMBER].md`.
+- [ ] Saved exactly to `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/[DAY_NUMBER].md`.

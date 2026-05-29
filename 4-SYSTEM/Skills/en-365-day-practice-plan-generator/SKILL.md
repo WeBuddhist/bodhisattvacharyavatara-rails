@@ -96,9 +96,8 @@ Once you have the chapter and verse range, **read the source files** before writ
 
 Generate the complete document in English using the template below. The fixed sections are provided word-for-word; the variable sections must be generated freshly based on the specific chapter and verses.
 
-### Document Frontmatter & Headers
+### Document Frontmatter & Headers - MANDATORY
 
-$$MANDATORY$$
 
 The document frontmatter and header must appear at the very top of the file:
 
@@ -185,15 +184,14 @@ Format:
 > *[English Verse Translation]*
 
 ##### **Combined Commentary Summary for Verse [CHAPTER_NUMBER]-[VERSE_NUMBER]**
-[Provide a synthesized, cohesive, and well-structured English summary of the explanations from Gyaltsab Darma Rinchen, Sazang Mati Panchen, and Ngulchu Thokme Zangpo. 
+- Provide a English summary of the explanations from Gyaltsab Darma Rinchen, Sazang Mati Panchen, and Ngulchu Thokme Zangpo in a plan English. 
 - Instead of separate bullet points, write a unified narrative of 1-2 lines that highlights the key points and concepts. 
-- Use a warm, explanatory tone (no "I" or "we").]
+- Use a warm, explanatory tone (no "I" or "we").
 **Crucial Style Constraints:** 
 - Write in plain English suited for a Grade 8–10 reading level.
 - Limit sentence length to 15–20 words and use active voice.
 - Do NOT use transliterated Sanskrit or Tibetan terms (e.g., use "Enlightenment" instead of "Bodhi"). 
 - Adapt any obscure traditional metaphors into functional modern equivalents.
-
 - strictly follow to make sure that explanation for each verse doesnt exceed one paragraph.
 ```
 
@@ -252,9 +250,7 @@ Always include this section verbatim:
 > གོང་ནས་གོང་དུ་འཕེལ་བར་ཤོག །
 ```
 
-### Section 6 — Key Terms Glossary (གནད་ཚིག་ཁག་གི་འགྲེལ་བཤད།)
-
-$$GENERATED$$
+### Section 6 — Key Terms Glossary (གནད་ཚིག་ཁག་གི་འགྲེལ་བཤད།) GENERATED
 
 Select 3–6 key Tibetan terms that appear in today's verses. For each:
 

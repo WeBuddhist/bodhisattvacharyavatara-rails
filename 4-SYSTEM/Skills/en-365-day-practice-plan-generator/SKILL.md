@@ -67,7 +67,8 @@ All generated prose must follow these style rules without exception:
 - ❌ Clipped clauses that don't flow into one another.
 - ❌ Dont mention "commentators or teachers" Section 3 -Combined Commentary Summary for Verse.
 - ❌ Transliterated Sanskrit or Tibetan terms (e.g., use "Enlightenment" instead of Bodhi, "Hero of Enlightenment" instead of Bodhisattva).
-
+### Model Example (Section - Benefit (ཕན་ཡོན།)
+> **Releasing Pride (Humility):** The great teacher Śāntideva said that he did not have any special skill or new ideas. This shows us that if we let go of being too proud of our knowledge, it is easier to learn. When we are humble, we stop being arrogant. This is important because arrogance can stop us from making progress on our spiritual path.
 ### Model example (Section 3 -Combined Commentary Summary for Verse)
 
 > Śāntideva expresses deep humility by denying any claim to originality or poetic genius. This modest attitude helps him overcome pride and intellectual arrogance before his peers. He writes this text primarily to train his own mind and prevent his spiritual growth from declining.
@@ -159,7 +160,7 @@ Each point should:
 3. **Meaning:** The core message, tone, and specific information must remain exactly the same as the original. Do not add or remove any points
 4. **Tone:** Keep it informative, clear, and accessible.
 5. Explain benefits as practical improvements to mental health, relationships, or stress management.
-
+> 
 Pattern to follow:
 
 ```

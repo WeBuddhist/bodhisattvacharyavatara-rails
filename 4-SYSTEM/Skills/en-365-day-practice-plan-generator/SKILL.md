@@ -148,13 +148,20 @@ Write exactly **3 benefit bullet points** in English. Open the section with this
 
 Each point should:
 
+- **"Please rewrite the following text at a B1 English proficiency level (CEFR).**
+**Constraints:**
+
 - Have a bold **title** (with an explanatory tag in parentheses, e.g., **Title (Tag):**)
 - Follow with 2–3 sentences of explanation (not exceeding 50 words)
 - Be tied specifically to the themes of today's verses (not generic benefits)
 - Adhere strictly to the explanatory tone (no "I" or "we").
-  - **Constraint:** Explain benefits as practical improvements to mental health, relationships, or stress management.
-- Avoid academic explanations of merit or karmic results. Focus on the _human_ benefit.
-    
+- 
+1. **Vocabulary:** Use simple, high-frequency words. Avoid jargon, overly academic terms, or complex metaphors unless absolutely necessary.
+2. **Sentence Structure:** Keep sentences short and direct (aim for 10–20 words per sentence). Use clear logical connectors like _and, but, because, first, finally_.
+3. **Meaning:** The core message, tone, and specific information must remain exactly the same as the original. Do not add or remove any points
+4. **Tone:** Keep it informative, clear, and accessible.
+5. Explain benefits as practical improvements to mental health, relationships, or stress management.
+6. Explain benefits as practical improvements to mental health, relationships, or stress management.
 
 Pattern to follow:
 

@@ -154,6 +154,14 @@ Creates or updates Obsidian frontmatter properties on a file.
 Ingests a structural outline (TOC) into a source or rails file.
 → [`structural-outline-ingest/SKILL.md`](structural-outline-ingest/SKILL.md)
 
+### `create-skill` **[exists]**
+Creates a new skill from scratch: generates the SKILL.md, prompt structure, and registers it in the catalog.
+→ [`create-skill/SKILL.md`](create-skill/SKILL.md)
+
+### `vault-audit` **[exists]**
+Audits the vault for consistency: checks that all linked files exist, frontmatter is complete, and skills are registered in the catalog.
+→ [`vault-audit/SKILL.md`](vault-audit/SKILL.md)
+
 ---
 
 ## Vault-specific skills

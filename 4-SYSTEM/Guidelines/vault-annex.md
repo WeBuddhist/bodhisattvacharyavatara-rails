@@ -130,7 +130,7 @@ The consolidated bilingual glossaries in `2-RAILS/Bilingual-Glossaries/` will co
 | ------------ | -------- | ----------- | ------ |
 | `Adaptations/bo-kunpal-sa-bcad/` | Adaptation | Khenpo Kunpal structural outline (sa-bcad) — Tibetan | active |
 | `Adaptations/bo-mchan-grel/` | Adaptation | Annotation commentary compilation — Tibetan | active |
-| `Plans/spyod-jug-365/` | Plan | Bodhisattvacaryāvatāra 365-day daily study — Tibetan/English | active |
+| `Plans/the-bodhisattva-challenge/` | Plan | Bodhisattvacaryāvatāra 365-day daily study — Tibetan/English | active |
 | `Translations/en-contemporary/` | Translation | Contemporary English translation | planned |
 | `Translations/en-plain-english/` | Translation | Plain English translation | active |
 

@@ -1,4 +1,4 @@
-# About spyod-jug-365 — སྤྱོད་འཇུག་སློབ་སྦྱོང། ཉིན་ ༣༦༥།
+# About the-bodhisattva-challenge — སྤྱོད་འཇུག་སློབ་སྦྱོང། ཉིན་ ༣༦༥།
 
 *Bodhisattvacaryāvatāra in 365 Days* — a daily study plan covering the entire text over one year.
 

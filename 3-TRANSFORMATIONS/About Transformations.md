@@ -36,7 +36,7 @@ See [`Adaptations/About Adaptations.md`](Adaptations/About Adaptations.md) for t
 
 A plan track organises engagement with the text along a calendar — daily readings, weekly retreat sessions, a year-long course, a chanting preparation arc. Each day or session is generated from rails (and often from completed Translation or Adaptation outputs), then arranged into a publishable schedule with surrounding communications and assets.
 
-Plans are language-stratified: each published language gets its own subfolder inside the plan folder, with its own `requirements.md`, `termbase.md`, `schedule.md`, `days/`, `communications/`, and `assets/`. Language streams can be at different completion stages independently.
+Plans are language-stratified: each published language gets its own subfolder inside the plan folder, with its own `requirements.md`, `termbase.md`, `schedule.md`, `days/`, `communication/`, and `assets/`. Language streams can be at different completion stages independently.
 
 The plan's governing files are:
 
@@ -76,7 +76,7 @@ See [`Plans/About Plans.md`](Plans/About Plans.md) for the full convention and p
  ├── days/ # per-session output files
  │ ├── day-1.md # intro + text transclusion + notifications
  │ └── day-N.md
- ├── communications/ # cross-day outreach content
+ ├── communication/  # cross-day outreach content
  │ └── announcements.md
  └── assets/
  └── images/
@@ -196,7 +196,7 @@ Adaptation and Plan skills are not yet catalogued; they will be added as those t
 - [ ] Run `glossary-select` to produce `<lang>/termbase.md` for each stream.
 - [ ] Build `<lang>/schedule.md` for each stream.
 - [ ] Generate day-1 for each stream as `draft`; review; iterate until `complete` before proceeding to day-2.
-- [ ] Add communications content to `<lang>/communications/` as the plan rolls out.
+- [ ] Add communications content to `<lang>/communication/` as the plan rolls out.
 
 ---
 
@@ -205,4 +205,16 @@ Adaptation and Plan skills are not yet catalogued; they will be added as those t
 - [ ] Frontmatter lists every `2-RAILS/` package consulted in `context_packages:`.
 - [ ] Every keyword rendering is in the per-track `termbase.md` (or has been added to it before generation, and to the consolidated bilingual glossary as a new attestation row).
 - [ ] `transformation_type:`, `generation_date:`, and `status:` set.
-- [ ] No claim that cannot be traced back to a `2-RAILS/` package. If a needed clai
+- [ ] No claim that cannot be traced back to a `2-RAILS/` package. If a needed claim has no rail, stop and build the rail first.
+- [ ] On completion of QA: every MQM critical or major error closed; `status: complete` set by a domain specialist.
+
+---
+
+## 9. Where to look next
+
+- [Top-level `README.md`](../README.md) — the pipeline overview and reading paths.
+- [`Translations/About Translations.md`](Translations/About Translations.md) — the translation-track convention plus the Phase 1/2/3 workflow used to produce each track's output.
+- [`Adaptations/About Adaptations.md`](Adaptations/About Adaptations.md) — the adaptation-track convention.
+- [`Plans/About Plans.md`](Plans/About Plans.md) — the plan-track convention; currently houses [`Plans/[plan-id]/`](Plans/[plan-id]/).
+- [`../2-RAILS/About Rails.md`](../2-RAILS/About Rails.md) — the descriptive context this folder consumes.
+- [`../4-SYSTEM/CLAUDE.md`](../4-SYSTEM/CLAUDE.md) — the operational quick-reference.

@@ -154,6 +154,8 @@ Each point should:
 - Follow with 2–3 sentences of explanation (not exceeding 50 words)
 - Be tied specifically to the themes of today's verses (not generic benefits)
 - Adhere strictly to the explanatory tone (no "I" or "we").
+- Strictly keep the English level at B1.
+
  **Constraints:**
 1. **Vocabulary:** Use simple, high-frequency words. Avoid jargon, overly academic terms, or complex metaphors unless absolutely necessary.
 2. **Sentence Structure:** Keep sentences short and direct (aim for 10–20 words per sentence). Use clear logical connectors like _and, but, because, first, finally_.
@@ -193,7 +195,8 @@ Format:
 - Instead of separate bullet points, write a unified narrative of 1-2 lines that highlights the key points and concepts. 
 - Use a warm, explanatory tone (no "I" or "we").
 **Crucial Style Constraints:** 
-- Write in plain English suited for a Grade 8–10 reading level B1 CERF level
+- Write in plain English suited for a Grade 8–10 reading level 
+-  Strictly keep the English level at B1.
 - Limit sentence length to 15–20 words and use active voice.
 - Do NOT use transliterated Sanskrit or Tibetan terms (e.g., use "Enlightenment" instead of "Bodhi"). 
 - Adapt any obscure traditional metaphors into functional modern equivalents.
@@ -210,6 +213,7 @@ Write exactly **3 practical application points** in English. Each should:
 - Give a concrete, actionable instruction for how to bring the verse's teaching into today's ordinary life.
 - Be written strictly in the **first-person singular** ("I", "me", "my").
 - Ground each point in the specific verses studied today — avoid generic mindfulness advice.
+  -  Strictly keep the English level at B1.
     
 
 Pattern:

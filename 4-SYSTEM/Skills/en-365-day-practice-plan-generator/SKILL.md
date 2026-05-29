@@ -71,7 +71,7 @@ All generated prose must follow these style rules without exception:
 > **Releasing Pride (Humility):** The great teacher Śāntideva said that he did not have any special skill or new ideas. This shows us that if we let go of being too proud of our knowledge, it is easier to learn. When we are humble, we stop being arrogant. This is important because arrogance can stop us from making progress on our spiritual path.
 ### Model example (Section 3 -Combined Commentary Summary for Verse)
 
-> Śāntideva expresses deep humility by denying any claim to originality or poetic genius. This modest attitude helps him overcome pride and intellectual arrogance before his peers. He writes this text primarily to train his own mind and prevent his spiritual growth from declining.
+> Śāntideva also shows humility by saying he is not trying to be a famous poet. This helps him avoid pride. He explains that this text contains nothing new, and he is not writing for those who are already experts. His main goal is to train his own mind and keep his wish for enlightenment strong.
 
 ### Model example (Section 4 tone — personal application, first-person singular):
 
@@ -193,7 +193,7 @@ Format:
 - Instead of separate bullet points, write a unified narrative of 1-2 lines that highlights the key points and concepts. 
 - Use a warm, explanatory tone (no "I" or "we").
 **Crucial Style Constraints:** 
-- Write in plain English suited for a Grade 8–10 reading level.
+- Write in plain English suited for a Grade 8–10 reading level B1 CERF level
 - Limit sentence length to 15–20 words and use active voice.
 - Do NOT use transliterated Sanskrit or Tibetan terms (e.g., use "Enlightenment" instead of "Bodhi"). 
 - Adapt any obscure traditional metaphors into functional modern equivalents.

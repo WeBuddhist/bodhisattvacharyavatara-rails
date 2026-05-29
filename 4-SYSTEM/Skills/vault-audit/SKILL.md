@@ -149,9 +149,25 @@ Scan all `.md` files in `2-RAILS/` and `3-TRANSFORMATIONS/` for internal wiki li
 
 Skip links to external URLs (`http://`, `https://`). Skip links into `4-SYSTEM/` — documentation cross-links are not production dependencies.
 
+### Check 7 — File placement
+
+This check catches two classes of structural error: files placed in the wrong rail folder, and transformation verse files whose corresponding rail does not yet exist.
+
+**7a — Misplaced files in `2-RAILS/Verses/`**
+
+Per CLAUDE.md §4, every file in `2-RAILS/Verses/` must be named with the verse-ID pattern: `<chapter>-<verse>.md` (e.g. `1-1.md`, `6-33.md`). Ignore `.gitkeep`.
+
+For every file in `2-RAILS/Verses/` whose name does not match `^\d+-\d+\.md`:
+- `- [ ] \`2-RAILS/Verses/<filename>\`: misplaced file — does not follow verse-ID naming convention (\`<chapter>-<verse>.md\`). Review: move to \`2-RAILS/Sections/\` or correct the filename.`
+
+**7b — Missing verse rails for existing transformations**
+
+Collect the set of unique filenames under any `3-TRANSFORMATIONS/*/Verses/` directory (e.g. `1-1.md`, `6-33.md`). For each filename that does not have a corresponding file at `2-RAILS/Verses/<filename>`:
+- `- [ ] \`2-RAILS/Verses/<filename>\`: verse rail missing — transformation(s) exist but no rail has been authored. Do not generate further transformations from this verse until the rail is complete.`
+
 ### Write the report
 
-1. Collect all flagged issues across all six checks.
+1. Collect all flagged issues across all seven checks.
 2. Set `total_issues:` in the frontmatter to the total count of checkbox items.
 3. Write the report to `0-INBOX/vault-audit-<YYYY-MM-DD>.md`.
 4. Do not write or modify any other file.
@@ -160,7 +176,7 @@ Skip links to external URLs (`http://`, `https://`). Skip links into `4-SYSTEM/`
 
 ## Completion check
 
-- [ ] All six checks have been executed
+- [ ] All seven checks have been executed
 - [ ] Every flagged issue includes the exact file path and line number where applicable
 - [ ] Every section has either a list of checkbox items or `✓ No issues found.`
 - [ ] `total_issues:` frontmatter field reflects the correct count

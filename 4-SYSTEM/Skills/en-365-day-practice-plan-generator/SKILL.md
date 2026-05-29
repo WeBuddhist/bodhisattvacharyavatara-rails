@@ -195,6 +195,7 @@ Format:
 **Crucial Style Constraints:** 
 - Write in plain English suited for a Grade 8–10 reading level B1 CERF level
 - Limit sentence length to 15–20 words and use active voice.
+- Strictly limit the paragraph length not more than 50 words.
 - Do NOT use transliterated Sanskrit or Tibetan terms (e.g., use "Enlightenment" instead of "Bodhi"). 
 - Adapt any obscure traditional metaphors into functional modern equivalents.
 - strictly follow to make sure that explanation for each verse doesnt exceed one paragraph.

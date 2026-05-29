@@ -193,7 +193,8 @@ Format:
 - Instead of separate bullet points, write a unified narrative of 1-2 lines that highlights the key points and concepts. 
 - Use a warm, explanatory tone (no "I" or "we").
 **Crucial Style Constraints:** 
-- Write in plain English suited for a Grade 8–10 reading level B1 CERF level
+- Write in plain English suited for a Grade 8–10 reading level 
+-  Strictly keep the English level at B1.
 - Limit sentence length to 15–20 words and use active voice.
 - Do NOT use transliterated Sanskrit or Tibetan terms (e.g., use "Enlightenment" instead of "Bodhi"). 
 - Adapt any obscure traditional metaphors into functional modern equivalents.

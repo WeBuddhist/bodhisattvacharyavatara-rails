@@ -4,11 +4,11 @@ author: Śāntideva
 translator: 索達吉堪布
 language: Chinese
 file_type: translation
-lang_tag: zh-hans
+lang_tag: zh-hant
 verse_id_format: chapter-verse
 root_text: 1-SOURCES/Text/sk-dev.md
 covers_verses: 0-1–10-68
-source_description: "索達吉堪布 譯。入菩薩行論。簡體中文。"
+source_description: 索達吉堪布 譯。入菩薩行論。簡體中文。
 ---
 ## 0. Introduction
 

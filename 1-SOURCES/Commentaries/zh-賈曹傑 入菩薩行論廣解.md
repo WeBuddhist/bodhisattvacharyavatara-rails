@@ -478,8 +478,8 @@ source_description: "隆蓮法師譯《入菩薩行論廣解》。"
 
 **寅五、花鬘。**  應於勝勇識前而為供養。以何供養？謂以悅意曼陀羅，妙蓮優鉢羅等，芬芳散佈，取善為貫串之花餯而為供養也。 ^2-13
 
-![[1-SOURCES/Text/sk-dev.md#^2-15]]
-![[1-SOURCES/Translations/zh-隆蓮法師a.md#^2-15]]
+![[1-SOURCES/Text/sk-dev.md#^2-16]]
+![[1-SOURCES/Translations/zh-隆蓮法師a.md#^2-16]]
 
 **寅六、薰香。**  次以沉檀等奪意妙香，遍滿十方，妙香雲聚，而為供養。 ^2-14
 
@@ -2193,7 +2193,7 @@ Or 謂所造惡業之果盡已，當生善趣，故解脫惡趣並非難事。�
 
 **申三、所忍之境：** ^6-51
 
-![[1-SOURCES/Text/sk-dev.md#^5-16]]
+![[1-SOURCES/Text/sk-dev.md#^6-16]]
 ![[1-SOURCES/Translations/zh-隆蓮法師a.md#^6-16]]
 
 若遇寒熱風雨疾病繩繫杖擊等逼惱，堅忍不應退卻。若於小逼惱事如此，餘逼惱事當更增長，忍力漸轉小故。 ^6-52
@@ -2397,10 +2397,10 @@ Or 謂所造惡業之果盡已，當生善趣，故解脫惡趣並非難事。�
 
 **未三、觀現前及裝轉之因不應瞋恨：** ^6-109
 
-![[1-SOURCES/Text/sk-dev.md#^6-13]]
-![[1-SOURCES/Translations/zh-隆蓮法師a.md#^6-13]]
-![[1-SOURCES/Text/sk-dev.md#^6-14]]
-![[1-SOURCES/Translations/zh-隆蓮法師a.md#^6-14]]
+![[1-SOURCES/Text/sk-dev.md#^6-43]]
+![[1-SOURCES/Translations/zh-隆蓮法師a.md#^6-43]]
+![[1-SOURCES/Text/sk-dev.md#^6-44]]
+![[1-SOURCES/Translations/zh-隆蓮法師a.md#^6-44]]
 
 若謂他人作損惱故應瞋恨，若瞋現前作損惱者，刀杖等物現加於人而作損惱，應瞋刀杖等。若謂彼非由自主而作損惱，乃人所投擲，而瞋能投擲者，人亦由瞋恚所逼，不由自主，二者之中當瞋於誰？縱使生瞋，應瞋於瞋恚也。 ^6-110
 

@@ -5,7 +5,7 @@ description: Generate a complete single-day Bodhisattvacharyavatara practice pla
 
 # English Practice Plan Generator — The Bodhisattva Challenge
 
-This skill generates one day's session document for the 365-day Bodhisattva Challenge English stream. Each file is a self-contained daily practice session following the 6-section format defined in `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/requirements.md`. Read that file in full before generating anything. All rules there are binding.
+This skill generates one day's session document for the 365-day Bodhisattva Challenge English stream. Read that file in full before generating anything. All rules there are binding.
 
 ---
 
@@ -13,7 +13,7 @@ This skill generates one day's session document for the 365-day Bodhisattva Chal
 
 Each day file:
 
-- Opens with a push-notification line and a short orientation paragraph.
+- Opens with a short orientation paragraph.
 - Contains the fixed opening liturgy (four immeasurables, refuge, bodhisattva vow) reproduced verbatim.
 - Presents the day's root verses in Tibetan and English, read as a unit.
 - Offers one focused note from the commentary tradition — not a summary of all verses, but one thread followed cleanly.
@@ -26,14 +26,14 @@ The output is saved as `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day
 
 ## Source files
 
-| File | Purpose |
-|---|---|
-| `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` | **Root text** — canonical Tibetan. Extract verses exactly as they appear. |
-| `3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-root-loden-sherab.md` | **Verse translation** — AI-generated English translation of the Loden Sherab root text. Use block IDs to locate each verse. |
-| `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/assets/liturgy.md` | **Fixed liturgy** — opening and closing prayers reproduced verbatim in sections 2.2 and 2.5. |
-| `3-TRANSFORMATIONS/Translations/en-ai/Verses/<verse-id>.md` | **Commentary summaries (interim)** — combined summaries from Gyaltsab Darma Rinchen, Sazang Mati Panchen, and Ngulchu Thokme Zangpo. Use these until `2-RAILS/Verses/<verse-id>.md` packages reach `status: complete`. |
-| `2-RAILS/Verses/<verse-id>.md` | **Verse context packages (preferred)** — use when `status: complete`. Supersedes interim sources. |
-| `4-SYSTEM/Skills/en-365-day-practice-plan-generator/references/verse-schedule.md` | **Verse schedule** — maps day numbers to chapter and verse range. |
+| File                                                                              | Purpose                                                                                                                                                                                                                |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md`                                    | **Root text** — canonical Tibetan. Extract verses exactly as they appear.                                                                                                                                              |
+| `3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-root-loden-sherab.md`       | **Verse translation** — AI-generated English translation of the Loden Sherab root text. Use block IDs to locate each verse.                                                                                            |
+| `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/assets/liturgy.md`          | **Fixed liturgy** — opening and closing prayers reproduced verbatim in sections 2.2 and 2.5.                                                                                                                           |
+| `3-TRANSFORMATIONS/Translations/en-ai/Verses/<verse-id>.md`                       | **Commentary summaries (interim)** — combined summaries from Gyaltsab Darma Rinchen, Sazang Mati Panchen, and Ngulchu Thokme Zangpo. Use these until `2-RAILS/Verses/<verse-id>.md` packages reach `status: complete`. |
+| `2-RAILS/Verses/<verse-id>.md`                                                    | **Verse context packages (preferred)** — use when `status: complete`. Supersedes interim sources.                                                                                                                      |
+| `4-SYSTEM/Skills/en-365-day-practice-plan-generator/references/verse-schedule.md` | **Verse schedule** — maps day numbers to chapter and verse range.                                                                                                                                                      |
 
 > ⚠️ **Rail status check:** Only rails with `status: complete` may be used for sections 2.4 and 2.6. If no complete rail exists, use the interim commentary summaries and record this in the frontmatter `generation_note`. If neither source exists for a verse, stop and flag the dependency — do not invent content.
 

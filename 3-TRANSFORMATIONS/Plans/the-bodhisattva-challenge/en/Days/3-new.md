@@ -4,9 +4,11 @@ chapter: 1
 verses: "1-7 to 1-9"
 status: draft
 context_packages:
-  - 2-RAILS/Sections/1-0.md
+  - 3-TRANSFORMATIONS/Translations/en-ai/Verses/1-7.md
+  - 3-TRANSFORMATIONS/Translations/en-ai/Verses/1-8.md
+  - 3-TRANSFORMATIONS/Translations/en-ai/Verses/1-9.md
   - 1-SOURCES/Translations/en-Padmakara_2006.md
-generation_note: "Verse rails for 1-7, 1-8, 1-9 do not yet exist. Translation adapted from Padmakara 2006. Commentary drawn from section rail 1-0 (status: draft). Revise once verse rails are complete."
+generation_note: "Verse rails not yet in 2-RAILS. Commentary drawn from en-ai verse summaries (status: draft). Translation adapted from Padmakara 2006. Revise once 2-RAILS verse packages are complete."
 generation_date: 2026-05-31
 ---
 
@@ -67,9 +69,9 @@ Chapter 1 opens with Shantideva building the case for why bodhicitta is the most
 
 ## Commentary note
 
-The third verse makes a claim worth sitting with. The moment bodhicitta genuinely arises — not as a vague aspiration but as a real shift in intention — a person who was bound in samsara becomes, in that instant, a child of the buddhas. The commentators are not speaking metaphorically. They mean that generating bodhicitta marks a genuine change in who you are, one that others recognise.
+The moment bodhicitta genuinely arises, two things happen simultaneously. The commentators call them a change of name and a change of status. A change of name: the being is now called an heir of the buddhas. A change of status: this is not an honorary title. The being becomes, in that instant, an actual field of merit — worthy of respect from the gods of the desire and form realms, who are themselves the objects of ordinary aspiration.
 
-This is not encouragement to feel good about yourself. It is a description of what the vow actually does. The transformation doesn't accumulate gradually over years of practice. It happens at the moment of genuine generation — which is what you just did.
+Gyaltsab Darma Rinchen is precise on one point that matters for this training: this transformation is not the exclusive property of advanced bodhisattvas who have attained the great grounds. It applies to ordinary beings generating bodhicitta for the very first time. Which means the vow you just renewed is not a statement of distant aspiration. Something real happened.
 
 ## Aspiration and dedication
 

@@ -1,24 +1,32 @@
 # About the-bodhisattva-challenge — སྤྱོད་འཇུག་སློབ་སྦྱོང། ཉིན་ ༣༦༥།
 
-*Bodhisattvacaryāvatāra in 365 Days* — a daily study plan covering the entire text over one year.
+*Bodhisattvacaryāvatāra in 365 Days* — a daily practice plan covering the entire text over one year.
 
 ## Purpose
 
-A structured daily engagement with the *Bodhisattvacaryāvatāra*, providing five minutes of content per day. Each day covers one or more verses, with supporting context drawn from the commentary tradition.
+A morning practice arc delivered by phone notification. Each day opens with a short hook, moves through a fixed liturgy (four immeasurables, refuge, bodhisattva vow), presents two to four verses from the *Bodhisattvacaryāvatāra* with a brief commentary note, closes with the aspiration and dedication, and ends with one concrete practice instruction for the day. The whole session takes five to ten minutes.
+
+## Audience
+
+Lay Buddhists who are new to Buddhist philosophy but already oriented to the bodhisattva path. They know about taking refuge and renewing the bodhisattva vow; they have not studied Śāntideva or the Mahāyāna sūtric tradition. They are time-poor, sceptical of formulaic spiritual content, and want authentic engagement with a primary text delivered efficiently.
 
 ## Per-session shape (all language streams)
 
-Each day file contains:
-1. **Daily notification text** — a short phrase suitable for a push notification
-2. **Verse** — the root text passage(s) for the day, in the source language
-3. **Reading for meaning** — the passage in the target language, generated from `2-RAILS/` verse packages
-4. **Commentary note** — a brief gloss from the principal commentary tradition, drawn from the rails
+Each day file contains exactly six elements, in this order:
+
+1. **Notification hook** — one sentence, max 12 words, specific to the day's verses. The push notification text.
+2. **Opening liturgy** — four immeasurables, refuge, bodhisattva vow. Identical text every day; presented as a recitation, not as new content.
+3. **Today's verses** — root text passage(s) in source language with target-language translation.
+4. **Reading for meaning** — one to three short paragraphs drawing from the commentary tradition via the rails. Not a summary; an explanation of what the verses open up.
+5. **Aspiration and dedication** — aspiration prayer and dedication verses. Identical text every day.
+6. **Today's practice** — one concrete instruction, specific to the day's verses.
 
 ## Languages
 
 | Folder | Language | Status |
 | ------ | -------- | ------ |
 | `bo/` | Tibetan | active — 365 days generated |
+| `en/` | English | in progress — 12 days generated |
 
 ## Source-rail dependencies
 
@@ -31,5 +39,6 @@ Day files are generated as `draft`. A domain specialist sets `complete` after re
 
 ## Notes
 
-- The `bo/schedule.md` file is the master day-by-day calendar for the Tibetan stream.
-- Day files in `bo/days/` follow the naming convention: `ཉིན་ ༡།.md` through `ཉིན་ ༣༦༥།.md`.
+- The `bo/schedule.md` file is the master day-by-day calendar for the Tibetan stream. Day files follow the naming convention `ཉིན་ ༡།.md` through `ཉིན་ ༣༦༥།.md`.
+- The `en/schedule.md` file is the master calendar for the English stream. Day files follow the naming convention `1.md` through `365.md`.
+- Per-stream style contracts and vocabulary contracts live at `<lang>/requirements.md` and `<lang>/termbase.md` respectively.

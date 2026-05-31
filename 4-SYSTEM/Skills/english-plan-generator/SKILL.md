@@ -95,6 +95,7 @@ Two to four sentences, maximum 60 words. This is the first thing the reader sees
 - Not a summary — the reader has not read the verses yet. An orientation, not a spoiler.
 - Not a lesson. The introduction prepares; it does not teach.
 - Covers any structural context that would otherwise need explaining in section 2.4. Do not repeat it there.
+- Written for a general audience. No academic framing, no chapter titles in quotes, no scholarly vocabulary. Plain, warm, direct.
 
 ---
 
@@ -153,7 +154,8 @@ Rules:
 - Source: `3-TRANSFORMATIONS/Translations/en-ai/Verses/<verse-id>.md` (interim) or `2-RAILS/Verses/<verse-id>.md` (preferred). Use the commentators' specific observations — not a generic synthesis.
 - Cite a commentator by name when making a specific attribution (Gyaltsab Darma Rinchen, Sazang Mati Panchen, or Ngulchu Thokme Zangpo).
 - Do not open with an attribution phrase ("Based on the traditional commentaries of…").
-- If a technical term is introduced, define it in one clause in context. No term should require a glossary to understand.
+- If a technical term is introduced, define it in plain language in context — no scholastic labels, no taxonomy names. The idea should land without a glossary.
+- Written for a general audience. Drop scholastic category names; carry the idea in plain language. The reader should encounter the insight, not the framework.
 - The note must come from the rails. If the commentary tradition does not say it, do not say it.
 
 ---
@@ -184,10 +186,11 @@ Rules:
 
 - One instruction only. Not three. Not a numbered list.
 - If the verse touches on one of the three marks — impermanence, the unsatisfactory nature of conditioned things, or the constructed nature of self — draw this out only if the commentators actually make this connection. Do not impose the three marks as a formula.
-- Grounded in the commentary: there must be a traceable line from a specific commentator's observation to the practice being suggested. 
+- Grounded in the commentary: there must be a traceable line from a specific commentator's observation to the practice being suggested.
 - Name a real situation the reader will actually encounter making it clear it's an example: a difficult conversation, a moment of impatience, a craving they recognise, the urge to scroll instead of sit. Not "in your daily life" or "when you interact with others."
 - Oriented toward one of three things: doing less harm, doing more good, or knowing your mind better. If it does not point toward one of these, revise it.
 - Written in the second person, present tense.
+- Practical and accessible. Written for a general audience — no scholastic framing, no category labels, no language that assumes familiarity with commentary literature. The instruction should feel immediately usable by someone who has never read a commentary.
 - Not a wellness tip. Not an invitation to breathe or pause in a way disconnected from what the commentators actually say.
 - No sub-steps, no "First… Then… Finally…" structure.
 
@@ -277,6 +280,8 @@ Apply this test to every section before saving.
 - Enthusiasm is doing the work that substance should be doing ("This profound verse teaches us the importance of…").
 - Multiple points are listed because a single point was not padded enough to fill the space.
 - Technical Buddhist terms are used to sound authentic without being explained or applied.
+- Scholastic category names (e.g. "faith of conviction," "faith of clarity") are used as labels without being unpacked in plain language.
+- The opening reads like an academic abstract rather than a warm, direct orientation.
 
 A domain specialist should be able to point to the specific passage in the source rails that grounds every claim in sections 2.4 and 2.6. If a claim cannot be located, do not include it regardless of how it sounds.
 

@@ -13,10 +13,10 @@ This skill generates one day's session document for the 365-day Bodhisattva Chal
 
 Each day file:
 
-- Opens with a short orientation paragraph.
+- Opens with a short orientation paragraph that situates today's verses within the intent and function of the section and chapter they belong to.
 - Contains the fixed opening liturgy (four immeasurables, refuge, bodhisattva vow) reproduced verbatim.
-- Presents the day's root verses in Tibetan and English, read as a unit.
-- Offers one focused note from the commentary tradition — not a summary of all verses, but one thread followed cleanly.
+- Presents the day's root verses in Tibetan and a clear, factual English translation, read as a unit.
+- Offers one important concept or fact drawn from the commentary tradition — something not self-evident in the verses alone, not an explanation of them.
 - Closes with the fixed aspiration and dedication prayers reproduced verbatim.
 - Ends with one concrete practice instruction grounded in what the commentators specifically say.
 
@@ -88,12 +88,13 @@ The day title doubles as the notification text — what appears in the phone not
 [INTRODUCTION]
 ```
 
-Two to four sentences, maximum 60 words. This is the first thing the reader sees after opening the notification. It orients them to where they are in the training, what the verses are about to offer, and why it matters now.
+Two to four sentences, maximum 60 words. This is the first thing the reader sees after opening the notification. It orients them by presenting today's verses in the context of the section and chapter they belong to — what the section is doing within the chapter, and where today's verses sit within that.
 
-- Acknowledge the cumulative arc where relevant: if a new chapter begins, say so; if today's verses continue yesterday's argument, note the connection in one clause.
+- Ground the orientation in structure: name the section's function or the chapter's purpose as the rail material describes it. This is the primary job of 2.1.
+- Acknowledge transitions where relevant: if a new chapter or section begins, say so; if today's verses continue a sequence, note where that sequence stands.
 - Not a summary — the reader has not read the verses yet. An orientation, not a spoiler.
 - Not a lesson. The introduction prepares; it does not teach.
-- Covers any context that would otherwise need explaining in section 2.4. Do not repeat it there.
+- Covers any structural context that would otherwise need explaining in section 2.4. Do not repeat it there.
 
 ---
 
@@ -127,7 +128,7 @@ Do not vary, condense, paraphrase, preface with explanation, or add section head
 
 Present both layers for each verse before moving to the next. Tibetan and English on their own lines within a single block-quote. No sub-headers between individual verses. The passage reads as a unit.
 
-The English translation must be self-explanatory after the introduction in 2.1. If a verse requires explanation to be intelligible, flag the translation for revision — do not compensate with extra commentary in 2.4.
+The English translation must be clear and factual — accurate to the source, not smoothed into paraphrase or elevated into poetry. If a verse requires explanation to be intelligible, flag the translation for revision — do not compensate with extra commentary in 2.4.
 
 > ⚠️ Both the Tibetan and English verse texts must come from the source files. Do not paraphrase or substitute.
 
@@ -141,11 +142,12 @@ The English translation must be self-explanatory after the introduction in 2.1. 
 [COMMENTARY NOTE — prose only, maximum 150 words]
 ```
 
-One focused note from the commentary tradition on a single topic touched by the day's verses. This section is enrichment, not explanation. Its job is to offer something the reader would not have arrived at alone: a specific observation, a distinction, a consequence, or an angle the commentators draw out of these verses.
+One important concept or fact from the commentary tradition that the verses alone do not make visible. This section is not an explanation of the verses — do not use it to clarify what the verses say or mean. Its job is to add something: a concept the commentators introduce, a distinction they draw, a consequence they trace, or a fact about the teaching that a careful reader of the verses would not arrive at independently.
 
 Rules:
 
-- Pick one topic and follow it. Do not survey all verses or provide a general reading.
+- The content must add to the verses, not explain them. If a reader could derive the point by reading the verses again, it does not belong here.
+- Pick one concept or fact and follow it. Do not survey all verses or provide a general reading.
 - Prose only. No bullet points, sub-headers, or lists.
 - Maximum 150 words.
 - Source: `3-TRANSFORMATIONS/Translations/en-ai/Verses/<verse-id>.md` (interim) or `2-RAILS/Verses/<verse-id>.md` (preferred). Use the commentators' specific observations — not a generic synthesis.
@@ -181,8 +183,9 @@ One concrete instruction derived directly from what the commentators say in sect
 Rules:
 
 - One instruction only. Not three. Not a numbered list.
-- Grounded in the commentary: there must be a traceable line from a specific commentator's observation to the practice being suggested. Name the commentator explicitly — not as an academic citation, but as the source of the specific insight (e.g. "Gyaltsab Darma Rinchen notes that… so today, when…").
-- Name a real situation the reader will actually encounter: a difficult conversation, a moment of impatience, a craving they recognise, the urge to scroll instead of sit. Not "in your daily life" or "when you interact with others."
+- If the verse touches on one of the three marks — impermanence, the unsatisfactory nature of conditioned things, or the constructed nature of self — draw this out only if the commentators actually make this connection. Do not impose the three marks as a formula.
+- Grounded in the commentary: there must be a traceable line from a specific commentator's observation to the practice being suggested. 
+- Name a real situation the reader will actually encounter making it clear it's an example: a difficult conversation, a moment of impatience, a craving they recognise, the urge to scroll instead of sit. Not "in your daily life" or "when you interact with others."
 - Oriented toward one of three things: doing less harm, doing more good, or knowing your mind better. If it does not point toward one of these, revise it.
 - Written in the second person, present tense.
 - Not a wellness tip. Not an invitation to breathe or pause in a way disconnected from what the commentators actually say.
@@ -265,7 +268,7 @@ Apply this test to every section before saving.
 **Authentic looks like:**
 - The commentary note in 2.4 could only have been written about this specific verse. Swapping it with yesterday's note would be immediately obvious.
 - The practice instruction in 2.6 names a situation so specific that the reader recognises their own life in it.
-- The depth in 2.4 comes from the commentary tradition and would surprise a careful reader of the verse alone — but is immediately legible once said.
+- The content in 2.4 comes from the commentary tradition and would not be accessible to a careful reader of the verses alone — it adds something the verses do not contain by themselves.
 - The writing makes one clear point and stops. It trusts the reader.
 
 **Slop looks like:**
@@ -283,10 +286,10 @@ A domain specialist should be able to point to the specific passage in the sourc
 
 - [ ] Frontmatter present: `day`, `chapter`, `verses`, `status`, and `generation_note` if interim sources were used.
 - [ ] Day title is the notification text — specific, max 12 words, no rhetorical question, no affirmation.
-- [ ] Opening (2.1) is 2–4 sentences, max 60 words, orients without summarising or teaching.
+- [ ] Opening (2.1) is 2–4 sentences, max 60 words, situates today's verses within the function of their section and chapter — orients without summarising or teaching.
 - [ ] Opening liturgy (2.2) reproduced verbatim from `en/assets/liturgy.md`, block-quote format, no added headers.
 - [ ] Verses (2.3) Tibetan extracted exactly from `bo-བློ་ལྡན་ཤེས་རབ།.md`; English from `3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-root-loden-sherab.md`. No sub-headers between verses.
-- [ ] Commentary note (2.4) is prose only, max 150 words, one topic, grounded in the rails, names commentator(s) specifically. Does not open with attribution phrase. "Shantideva" appears at most once.
+- [ ] Commentary note (2.4) is prose only, max 150 words, presents one important concept or fact from the commentaries not self-evident in the verses — not an explanation of the verses. Grounded in the rails, names commentator(s) specifically. Does not open with attribution phrase. "Shantideva" appears at most once.
 - [ ] Closing liturgy (2.5) reproduced verbatim from `en/assets/liturgy.md`, block-quote format.
 - [ ] Practice challenge (2.6) is one instruction, second person present tense, names a real situation, names the commentator, traceable to 2.4.
 - [ ] No forbidden elements present (benefits list, glossary, Tibetan section labels, bullet application blocks, "Today I will…" structure, parenthetical tags, "profound benefits", "great teacher Shantideva", collective attribution opener).

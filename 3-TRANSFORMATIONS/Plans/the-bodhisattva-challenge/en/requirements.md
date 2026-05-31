@@ -63,9 +63,6 @@ The three prayers have a specific logic: the four immeasurables set the vast int
 
 The root text passage(s) assigned to this day. Present in two layers:
 
-1. Tibetan source text, exactly as it appears in the relevant `2-RAILS/Verses/` package. Do not alter, correct, or modernise the Tibetan.
-2. English translation from `1-SOURCES/Translations/en-David_Karma_Choephel.md`, using the block ID for the relevant verse. Where the Choephel rendering conflicts with a locked termbase entry, the termbase takes precedence for that term only; flag the conflict in the frontmatter.
-
 Present both layers for each verse before moving to the next. No sub-headers between individual verses. The passage reads as a unit.
 
 The English translation must be self-explanatory. A reader who has read the introduction (2.1) and the verses should understand what Shantideva is saying without needing the commentary note. If the translation requires explanation to be intelligible, the translation is at fault, not the reader — flag it for revision rather than compensating in 2.4.

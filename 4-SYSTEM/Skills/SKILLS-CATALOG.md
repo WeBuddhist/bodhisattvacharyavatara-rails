@@ -191,3 +191,7 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 ### `en-365-day-practice-plan-generator` **[exists]**
 **Purpose:** Generate a complete single-day Bodhisattvacharyavatara (སྤྱོད་འཇུག) practice plan session document in the traditional 7-section format, in English. Saves to `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/`.
 → [`en-365-day-practice-plan-generator/SKILL.md`](4-SYSTEM/Skills/en-365-day-practice-plan-generator(old)/SKILL.md)
+
+### `english-plan-generator` **[exists]**
+**Purpose:** Generate a complete single-day Bodhisattvacharyavatara practice plan session document in the 6-section format defined by `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/requirements.md`. Supersedes `en-365-day-practice-plan-generator` for the Bodhisattva Challenge English stream. Saves to `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/`.
+→ [`english-plan-generator/SKILL.md`](english-plan-generator/SKILL.md)

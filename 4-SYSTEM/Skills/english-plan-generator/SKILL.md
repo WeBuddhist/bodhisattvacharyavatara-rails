@@ -80,7 +80,7 @@ The day title doubles as the notification text — what appears in the phone not
 
 ---
 
-### Section 2.1 — Opening
+### Section 2.1 — Introduction
 
 ```
 ## Opening
@@ -160,10 +160,10 @@ Rules:
 
 ---
 
-### Section 2.5 — Aspiration and Dedication
+### Section 2.5 — Aspiration
 
 ```
-## Aspiration and Dedication
+## Aspiration
 
 [VERBATIM LITURGY from en/assets/liturgy.md — "Closing" heading]
 ```

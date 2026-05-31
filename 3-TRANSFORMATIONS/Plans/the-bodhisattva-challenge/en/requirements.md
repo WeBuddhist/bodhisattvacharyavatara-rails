@@ -1,16 +1,18 @@
 # Requirements — Bodhisattva Challenge, English Stream
 
-Style contract for the English-language stream of the Bodhisattvacharyavatara 365-day plan. Read in full before generating any day file. All rules are binding; no section may be added, removed, or reordered.
+Style contract for the English-language stream of The Bodhisattva Challenge: One Year Training in the Way of the Bodhisattva. Read in full before generating any day file. All rules are binding; no section may be added, removed, or reordered.
 
 ---
 
 ## 1. Audience
 
-Sincere Buddhists who want to improve — as practitioners and as human beings. They are not scholars and have not studied Shantideva in depth, but they are serious. They come to the plan because they want to be reminded of what they already know matters: that everything is impermanent, that nothing fully satisfies, that the self they habitually protect is not as solid as it feels. These three reminders are not abstract philosophy for them — they are the ground of daily life, and they keep forgetting.
+Sincere Buddhists who want to improve — as practitioners and as human beings. They are not scholars and have not studied Shantideva in depth, but they are serious. They come to the challenge to train as bodhisattvas — not to learn about the bodhisattva path, but to walk it. Each day's session is one day in a year-long training. The vow renewal is not a preamble; it is the heart of what they are doing.
 
-Their practical compass is simple: do less harm, do more good, know your mind better. They want the day's verses to help them move along this compass. Not to explain it at length. Not to impress them with doctrine. To illuminate one step they can take today.
+They want to be reminded of what they already know matters: that everything is impermanent, that nothing fully satisfies, that the self they habitually protect is not as solid as it feels. These three are not abstract philosophy — they are the ground of daily life, and practitioners keep forgetting them.
 
-They do not want to be lectured. They do not want philosophical complexity. They want to be reminded — with care and without padding — of something true and usable.
+Their practical compass is simple: do less harm, do more good, know your mind better. They want the day's verses to help them move along this compass. They will also appreciate a little genuine depth — something from the commentary tradition that opens the verse up in a way they couldn't have reached alone. But they do not want to be lectured, and they do not want complexity for its own sake. What they want is authentic, useful, and brief.
+
+The central editorial tension in this plan is between accessible and authentic on one side, and AI-generated self-help content on the other. Every section must sit clearly on the right side of that line. See section 4 for the test.
 
 Write for someone who already knows the basics and is trying to actually live them.
 
@@ -34,7 +36,7 @@ One sentence. Maximum 12 words. This is the push notification text — the first
 
 ### 2.2 Opening liturgy
 
-The four immeasurables, refuge, and bodhisattva vow, in that order. The text is fixed in `termbase.md` under the key `liturgy.opening` and is reproduced verbatim every day.
+The four immeasurables, refuge, and bodhisattva vow, in that order. The text is fixed in `en/assets/liturgy.md` under the heading `Opening` and is reproduced verbatim every day.
 
 - Do not vary, condense, paraphrase, or preface the liturgy with explanation.
 - Do not add section headers or commentary within the liturgy block.
@@ -58,9 +60,15 @@ Present both layers for each verse before moving to the next. No sub-headers bet
 
 One to three short paragraphs drawn from the commentary tradition via the source rails. Maximum 200 words total.
 
-This section explains what the day's verses open up — the interpretive move the commentators make, the consequence that follows from taking the verse seriously. It is not a summary of the verses (the reader just read them), not a list of benefits, and not a philosophical exposition.
+This section has two parts, run together as continuous prose with no sub-headers:
+
+**Orientation (optional, one sentence).** If the verses need context to land — because they open a new section, follow a significant turn in the argument, or build directly on a previous day — provide one sentence of orientation before moving to the commentary. Where are we in the training, and why does it matter now? If the verses are self-evident in context, skip this.
+
+**Commentary.** What the day's verses open up — the interpretive move the commentators make, the consequence that follows from taking the verse seriously. It is not a summary of the verses (the reader just read them), not a list of benefits, and not a philosophical exposition.
 
 One move per day. The commentary makes one point and lands it. It does not survey multiple interpretations or build an argument across several ideas. If the verse connects naturally to impermanence, unsatisfactoriness, or the constructed nature of things, follow that connection — but only if the verse actually supports it, not as a formula applied to every day.
+
+Genuine depth from the commentary tradition is welcome here. If a commentator makes a specific and surprising observation that opens the verse up in a way that helps the reader train — include it. Attribute it lightly ("the commentators note…" or simply let it stand as the reading). What is not welcome is depth that is fabricated, generic, or requires a philosophical vocabulary the reader does not have.
 
 Style:
 
@@ -75,7 +83,7 @@ Style:
 
 ### 2.5 Aspiration and dedication
 
-The aspiration prayer and dedication verses, in that order. The text is fixed in `termbase.md` under the key `liturgy.closing` and is reproduced verbatim every day.
+The aspiration prayer and dedication verses, in that order. The text is fixed in `en/assets/liturgy.md` under the heading `Closing` and is reproduced verbatim every day.
 
 Same rules as 2.2. Present as continuous verse in block-quote format. Do not vary, condense, or explain.
 
@@ -89,6 +97,7 @@ Every practice instruction should orient toward one of three things: doing less 
 
 - One instruction only. Not three. Not a numbered list.
 - Specific: a reader who had not read the verses could not follow the instruction. If the practice could have been written on any day, it is too generic.
+- Name a real situation. Not "in your daily life" or "when you interact with others" — something the reader will actually encounter: a difficult conversation, a moment of impatience, a craving they recognise, the urge to scroll instead of sit. Ground the instruction in a recognisable human moment.
 - Not a wellness tip. Not an invitation to breathe, pause, or be present in a way disconnected from what the verses actually say.
 - Written in the second person, present tense.
 - No sub-steps, no "First… Then… Finally…" structure.
@@ -122,7 +131,30 @@ The Tibetan script in sections 2.2, 2.3, and 2.5 is reproduced exactly as it app
 
 ---
 
-## 4. What is not permitted
+## 4. The authenticity test
+
+The line between authentic Buddhist teaching and AI-generated self-help content is real and readers will feel it. Apply this test to every section before finalising a day file.
+
+**Authentic looks like:**
+- The commentary note could only have been written about this specific verse. A reader who swapped it with yesterday's note would notice immediately.
+- The practice instruction names a situation so specific that the reader recognises their own life in it.
+- The depth in section 2.4 comes from the commentary tradition and would surprise a reader who read only the verse. It is not what a careful reader would have thought of unaided — but it is immediately legible once said.
+- The writing makes one clear point and stops. It trusts the reader.
+- The vow renewal in 2.2 lands as a commitment, not as background noise.
+
+**Slop looks like:**
+- The commentary note could have been written about any verse in the chapter, or any verse in the book.
+- The practice instruction could appear in any wellness app on any morning.
+- Enthusiasm is doing the work that substance should be doing ("This profound verse teaches us the importance of…").
+- Multiple points are listed because a single point was not padded enough to fill the space.
+- The tone is warm but no one is home — there is no specific claim being made, no risk being taken, nothing a reader could push back on.
+- Technical Buddhist terms are used to sound authentic without being explained or applied.
+
+If any section of a day file reads like slop by this test, do not adjust the wording — identify what specific, attributable thing from the rails would replace it, and use that instead.
+
+---
+
+## 5. What is not permitted
 
 The following are forbidden in all sections:
 
@@ -139,7 +171,7 @@ The following are forbidden in all sections:
 
 ---
 
-## 5. Formatting
+## 6. Formatting
 
 - Verse text (liturgy, root verses, prayers): block-quote format (`>`), Tibetan and English each on their own line within the block.
 - Section headings: `#` for the day title, `##` for each of the six sections. No `###` or lower.
@@ -149,7 +181,7 @@ The following are forbidden in all sections:
 
 ---
 
-## 6. Source-rail dependencies
+## 7. Source-rail dependencies
 
 Each day file draws from:
 
@@ -160,8 +192,10 @@ Only rails with `status: complete` may be used. If a needed rail is not complete
 
 ---
 
-## 7. Termbase
+## 8. Termbase
 
-All renderings are locked in `en/termbase.md`. The generation skill must not introduce a keyword rendering not listed there. If a term appears in the day's verses and is absent from the termbase, update the termbase first and add the new rendering as an attestation row in the relevant `2-RAILS/Bilingual-Glossaries/` consolidated file before proceeding.
+All keyword renderings are locked in `en/termbase.md`. The termbase governs translation consistency only — one chosen English rendering per Tibetan or Sanskrit term, with a one-line rationale. It does not store full texts.
 
-The liturgy texts (four immeasurables, refuge, bodhisattva vow, aspiration prayer, dedication) are fixed in the termbase under `liturgy.opening` and `liturgy.closing` and reproduced verbatim in every day file.
+The generation skill must not introduce a keyword rendering not listed in the termbase. If a term appears in the day's verses and is absent, update the termbase first and add the new rendering as an attestation row in the relevant `2-RAILS/Bilingual-Glossaries/` consolidated file before proceeding.
+
+Liturgy texts (four immeasurables, refuge, bodhisattva vow, aspiration prayer, dedication) are stored in `en/assets/liturgy.md` and reproduced verbatim in every day file.

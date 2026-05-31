@@ -1,6 +1,6 @@
-# About the-bodhisattva-challenge — སྤྱོད་འཇུག་སློབ་སྦྱོང། ཉིན་ ༣༦༥།
+# The Bodhisattva Challenge: One Year Training in the Way of the Bodhisattva
 
-*Bodhisattvacaryāvatāra in 365 Days* — a daily practice plan covering the entire text over one year.
+*སྤྱོད་འཇུག་སློབ་སྦྱོང། ཉིན་ ༣༦༥།* — a daily practice plan covering the entire Bodhisattvacharyavatara over one year.
 
 ## Purpose
 

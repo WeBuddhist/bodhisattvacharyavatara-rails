@@ -42,7 +42,7 @@ This element has two parts displayed together when the reader opens the day.
 
 ---
 
-### 2.2 Opening liturgy
+### 2.2 Renewing the Bodhisattva Vow
 
 The four immeasurables, refuge, and bodhisattva vow, in that order. The text is fixed in `en/assets/liturgy.md` under the heading `Opening` and is reproduced verbatim every day.
 
@@ -58,7 +58,7 @@ The four immeasurables, refuge, and bodhisattva vow, in that order. The text is 
 The root text passage(s) assigned to this day. Present in two layers:
 
 1. Tibetan source text, exactly as it appears in the relevant `2-RAILS/Verses/` package. Do not alter, correct, or modernise the Tibetan.
-2. English translation, using the rendering locked in `termbase.md`. If a verse's rendering is not yet in the termbase, stop and update the termbase before generating.
+2. English translation from `1-SOURCES/Translations/en-David_Karma_Choephel.md`, using the block ID for the relevant verse. Where the Choephel rendering conflicts with a locked termbase entry, the termbase takes precedence for that term only; flag the conflict in the frontmatter.
 
 Present both layers for each verse before moving to the next. No sub-headers between individual verses. The passage reads as a unit.
 
@@ -66,13 +66,15 @@ The English translation must be self-explanatory. A reader who has read the intr
 
 ---
 
-### 2.4 Commentary note
+### 2.4 From the Tradition
 
 One focused note from the commentary tradition on a single topic touched by the day's verses. Maximum 150 words.
 
 The verses are self-explanatory (see 2.3). This section is not an explanation — it is enrichment. Its job is to offer something the reader would not have arrived at alone: a specific observation, a distinction, a consequence, or an angle that the commentators draw out of these verses. It should feel like something worth knowing, not like context the reader needs in order to understand.
 
 Pick one topic from the day's verses and follow it. Do not survey all three verses or provide a general reading. One thread, one point, landed cleanly.
+
+Source: draw from the combined commentary summaries in `3-TRANSFORMATIONS/Translations/en-ai/Verses/<verse-id>.md`. Use the specific observations made by Gyaltsab Darma Rinchen, Sazang Mati Panchen, and Ngulchu Thokme — not a generic synthesis. Cite the commentator by name when making a specific attribution.
 
 - Prose only. No bullet points, sub-headers, or lists.
 - Shantideva's name at most once. Vary: "he", "the author", "Shantideva". Never "the great teacher Shantideva".
@@ -90,16 +92,16 @@ Same rules as 2.2. Present as continuous verse in block-quote format. Do not var
 
 ---
 
-### 2.6 Today's practice
+### 2.6 Today's Practice Challenge
 
-One concrete instruction, grounded in and specific to the day's verse(s). Between one sentence and one short paragraph.
+One concrete instruction derived directly from the commentary material in section 2.4 — not from the verse alone, but from what the commentators specifically say about how this teaching applies. Between one sentence and one short paragraph.
 
 Every practice instruction should orient toward one of three things: doing less harm, doing more good, or knowing your mind better. These are the measure of a useful instruction. If it does not point toward one of the three, revise it.
 
 - One instruction only. Not three. Not a numbered list.
-- Specific: a reader who had not read the verses could not follow the instruction. If the practice could have been written on any day, it is too generic.
+- Grounded in the commentary: there should be a traceable line from a specific commentator's observation to the practice being suggested. If the instruction could have been written without reading the commentaries, it is not specific enough.
 - Name a real situation. Not "in your daily life" or "when you interact with others" — something the reader will actually encounter: a difficult conversation, a moment of impatience, a craving they recognise, the urge to scroll instead of sit. Ground the instruction in a recognisable human moment.
-- Not a wellness tip. Not an invitation to breathe, pause, or be present in a way disconnected from what the verses actually say.
+- Not a wellness tip. Not an invitation to breathe, pause, or be present in a way disconnected from what the commentators actually say.
 - Written in the second person, present tense.
 - No sub-steps, no "First… Then… Finally…" structure.
 

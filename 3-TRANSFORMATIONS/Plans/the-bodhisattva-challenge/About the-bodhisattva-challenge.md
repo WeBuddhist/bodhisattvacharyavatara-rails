@@ -15,11 +15,11 @@ Lay Buddhists who are new to Buddhist philosophy but already oriented to the bod
 Each day file contains exactly six elements, in this order:
 
 1. **Opening** — a short notification text (max 12 words, the push notification) plus an introductory paragraph (max 60 words) that contextualises the day's verses within the training arc. The reader sees this first when they tap in.
-2. **Opening liturgy** — four immeasurables, refuge, bodhisattva vow. Identical text every day; presented as a recitation, not as new content.
-3. **Today's verses** — root text passage(s) in source language with target-language translation.
-4. **Commentary note** — one focused note (max 150 words) from the commentary tradition on a single topic from the day's verses. The verses are self-explanatory; this section is enrichment, not explanation.
+2. **Renewing the Bodhisattva Vow** — four immeasurables, refuge, and bodhisattva vow. Identical text every day; presented as a recitation, not as new content.
+3. **Today's verses** — root text passage(s) in Tibetan with English translation from David Karma Choephel.
+4. **From the Tradition** — one focused note (max 150 words) from the commentary tradition on a single topic from the day's verses. The verses are self-explanatory; this section is enrichment, not explanation.
 5. **Aspiration and dedication** — aspiration prayer and dedication verses. Identical text every day.
-6. **Today's practice** — one concrete instruction, specific to the day's verses.
+6. **Today's Practice Challenge** — one concrete instruction derived from the commentary material, grounded in a recognisable real-life situation.
 
 ## Languages
 

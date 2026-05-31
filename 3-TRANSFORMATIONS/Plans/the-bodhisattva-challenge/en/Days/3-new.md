@@ -7,8 +7,8 @@ context_packages:
   - 3-TRANSFORMATIONS/Translations/en-ai/Verses/1-7.md
   - 3-TRANSFORMATIONS/Translations/en-ai/Verses/1-8.md
   - 3-TRANSFORMATIONS/Translations/en-ai/Verses/1-9.md
-  - 1-SOURCES/Translations/en-Padmakara_2006.md
-generation_note: "Verse rails not yet in 2-RAILS. Commentary drawn from en-ai verse summaries (status: draft). Translation adapted from Padmakara 2006. Revise once 2-RAILS verse packages are complete."
+  - 1-SOURCES/Translations/en-David_Karma_Choephel.md
+generation_note: "Verse rails not yet in 2-RAILS. Commentary drawn from en-ai verse summaries (status: draft). Translation from David Karma Choephel. Revise once 2-RAILS verse packages are complete."
 generation_date: 2026-05-31
 ---
 
@@ -20,7 +20,7 @@ Every sage who reflected carefully found the same answer: bodhicitta.
 
 Chapter 1 opens with Shantideva building the case for why bodhicitta is the most important thing you can cultivate. Today's three verses are the core of that argument: the conclusion every enlightened being reached after long reflection, the three things you actually want, and what happens the instant you genuinely generate it.
 
-## Opening liturgy
+## Renewing the Bodhisattva Vow
 
 > May all beings enjoy happiness and the causes of happiness.
 > May all beings be free from suffering and the causes of suffering.
@@ -42,32 +42,32 @@ Chapter 1 opens with Shantideva building the case for why bodhicitta is the most
 > འདིས་ནི་ཚད་མེད་སྐྱེ་བོའི་ཚོགས་རྣམས་ཀྱིས། །
 > བདེ་མཆོག་བདེ་བླག་ཉིད་དུ་ཐོབ་པར་བྱེད། །
 >
-> For many ages deeply pondering,
-> the mighty sages saw its benefits —
-> that through it, countless beings
-> are brought with ease to supreme joy.
+> The lords of sages, who have contemplated
+> for many aeons, see just this will help.
+> Immeasurable multitudes of beings
+> through this will gain the sublime bliss with ease.
 
 > སྲིད་པའི་སྡུག་བསྔལ་བརྒྱ་ཕྲག་གཞོམ་འདོད་ཅིང་། །
 > སེམས་ཅན་མི་བདེ་བསལ་བར་འདོད་པ་དང་། །
 > བདེ་མང་བརྒྱ་ཕྲག་སྤྱོད་པར་འདོད་པས་ཀྱང་། །
 > བྱང་ཆུབ་སེམས་ཉིད་རྟག་ཏུ་གཏང་མི་བྱ། །
 >
-> Those who wish to crush the many sorrows of existence,
-> who wish to end the pain of living beings,
-> who wish to have experience of lasting joy —
-> should never turn away from bodhicitta.
+> No one should ever forsake bodhicitta
+> who wants to dispel beings' unhappiness,
+> vanquish the hundreds of miseries of existence,
+> and partake in the many hundreds of joys.
 
 > བྱང་ཆུབ་སེམས་སྐྱེས་གྱུར་ན་སྐད་ཅིག་གིས། །
 > འཁོར་བའི་བཙོན་རར་བསྡམས་པའི་ཉམ་ཐག་རྣམས། །
 > བདེ་གཤེགས་རྣམས་ཀྱི་སྲས་ཞེས་བརྗོད་བྱ་ཞིང་། །
 > འཇིག་རྟེན་ལྷ་མིར་བཅས་པས་ཕྱག་བྱར་འགྱུར། །
 >
-> Should bodhicitta come to birth
-> in those who suffer, chained in prisons of samsara —
-> in that instant they are called children of the Blissful Ones,
-> revered by all the world, by gods and humans alike.
+> If they rouse bodhicitta, in an instant
+> the wretched, fettered in samsara's prison,
+> are named the offspring of the sugatas
+> and revered in the worlds of gods and humans.
 
-## Commentary note
+## From the Tradition
 
 The moment bodhicitta genuinely arises, two things happen simultaneously. The commentators call them a change of name and a change of status. A change of name: the being is now called an heir of the buddhas. A change of status: this is not an honorary title. The being becomes, in that instant, an actual field of merit — worthy of respect from the gods of the desire and form realms, who are themselves the objects of ordinary aspiration.
 
@@ -84,6 +84,6 @@ Gyaltsab Darma Rinchen is precise on one point that matters for this training: t
 > may all wandering beings without exception
 > enter the bodhisattva path.
 
-## Today's practice
+## Today's Practice Challenge
 
-Today, when you feel impatient with someone — when they're slow, wrong, or in the way — notice the gap between that irritation and the vow you renewed this morning. You don't need to manufacture warmth. Just hold both things at once: this is a being I vowed to free from suffering. That noticing is the practice.
+Gyaltsab Darma Rinchen notes that the transformation of verse 1-9 is not reserved for advanced practitioners — it applies to ordinary beings generating bodhicitta for the very first time. Today, once, when you're about to say something dismissive, lose your patience, or close off — pause. You already changed this morning when you renewed the vow. Ask whether what you're about to do reflects who you now are.

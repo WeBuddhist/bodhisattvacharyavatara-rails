@@ -17,16 +17,16 @@ Each day file contains exactly six elements, in this order:
 1. **Opening** — a short notification text (max 12 words, the push notification) plus an introductory paragraph (max 60 words) that contextualises the day's verses within the training arc. The reader sees this first when they tap in.
 2. **Renewing the Bodhisattva Vow** — four immeasurables, refuge, and bodhisattva vow. Identical text every day; presented as a recitation, not as new content.
 3. **Today's verses** — root text passage(s) in Tibetan with English.
-4. **From the Tradition** — one focused note (max 150 words) from the commentary tradition on a single topic from the day's verses. The verses are self-explanatory; this section is enrichment, not explanation.
+4. **From the Tradition** — one focused note (max 150 words) from the commentary tradition on a single topic from the day's verses. The verses are self-explanatory; this section is adding new information, not an explanation of the verses.
 5. **Aspiration and dedication** — aspiration prayer and dedication verses. Identical text every day.
-6. **Today's Practice Challenge** — one concrete instruction derived from the commentary material, grounded in a recognisable real-life situation.
+6. **Today's Practice Challenge** — one concrete practice instruction derived from the commentary material.
 
 ## Languages
 
-| Folder | Language | Status |
-| ------ | -------- | ------ |
-| `bo/` | Tibetan | active — 365 days generated |
-| `en/` | English | in progress — 12 days generated |
+| Folder | Language | Status                          |
+| ------ | -------- | ------------------------------- |
+| `bo/`  | Tibetan  | active — 365 days generated     |
+| `en/`  | English  | in progress — 12 days generated |
 
 ## Source-rail dependencies
 
@@ -39,6 +39,5 @@ Day files are generated as `draft`. A domain specialist sets `complete` after re
 
 ## Notes
 
-- The `bo/schedule.md` file is the master day-by-day calendar for the Tibetan stream. Day files follow the naming convention `ཉིན་ ༡།.md` through `ཉིན་ ༣༦༥།.md`.
 - The `en/schedule.md` file is the master calendar for the English stream. Day files follow the naming convention `1.md` through `365.md`.
 - Per-stream style contracts and vocabulary contracts live at `<lang>/requirements.md` and `<lang>/termbase.md` respectively.

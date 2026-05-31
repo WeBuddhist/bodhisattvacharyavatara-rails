@@ -22,15 +22,23 @@ Write for someone who already knows the basics and is trying to actually live th
 
 Every day file contains exactly six sections, in this order. No other sections are permitted.
 
-### 2.1 Notification hook
+### 2.1 Opening — notification text and introduction
 
-One sentence. Maximum 12 words. This is the push notification text — the first and often only thing the reader sees.
+This element has two parts displayed together when the reader opens the day.
 
-- Must be specific to the day's verses. A reader who does not open the day cannot infer the verse content from the hook — but a reader who does open it should find that the hook was a genuine entry point, not decoration.
+**Notification text.** One sentence, maximum 12 words. This is what appears in the phone notification tray — the first and sometimes only thing the reader sees.
+
+- Specific to the day's verses. Not a chapter title, not a day number, not a generic aspiration.
 - No rhetorical questions.
-- No affirmations or generic aspirational phrases ("Begin your day with intention", "Be the change").
-- No quotation marks around content that is not a direct quote from the text.
-- Not a chapter title or a restatement of the day number.
+- No affirmations ("Begin your day with intention", "Be the change").
+- Not in quotation marks unless it is a direct quote from the text.
+
+**Introduction.** Two to four sentences. This is the first thing the reader sees after tapping in. It gives them just enough context to enter the day's verses and the liturgy with understanding: where they are in the training, what the verses are about to offer, and why it matters at this point in the year.
+
+- Not a summary of the verses — the reader has not read them yet. An orientation, not a spoiler.
+- Not a lesson. The introduction prepares; it does not teach.
+- Covers any context that would otherwise need to be explained in section 2.4. Once written here, nothing needs to be repeated there.
+- Maximum 60 words.
 
 ---
 
@@ -60,11 +68,9 @@ Present both layers for each verse before moving to the next. No sub-headers bet
 
 One to three short paragraphs drawn from the commentary tradition via the source rails. Maximum 200 words total.
 
-This section has two parts, run together as continuous prose with no sub-headers:
+One to three short paragraphs of pure commentary drawn from the commentary tradition via the source rails. Maximum 200 words total.
 
-**Orientation (optional, one sentence).** If the verses need context to land — because they open a new section, follow a significant turn in the argument, or build directly on a previous day — provide one sentence of orientation before moving to the commentary. Where are we in the training, and why does it matter now? If the verses are self-evident in context, skip this.
-
-**Commentary.** What the day's verses open up — the interpretive move the commentators make, the consequence that follows from taking the verse seriously. It is not a summary of the verses (the reader just read them), not a list of benefits, and not a philosophical exposition.
+Context for the day's verses has already been provided in section 2.1. This section does not repeat or extend that context — it goes directly to what the verses open up: the interpretive move the commentators make, the consequence that follows from taking the verse seriously. It is not a summary of the verses (the reader just read them), not a list of benefits, and not a philosophical exposition.
 
 One move per day. The commentary makes one point and lands it. It does not survey multiple interpretations or build an argument across several ideas. If the verse connects naturally to impermanence, unsatisfactoriness, or the constructed nature of things, follow that connection — but only if the verse actually supports it, not as a formula applied to every day.
 

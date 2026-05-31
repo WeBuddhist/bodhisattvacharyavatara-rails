@@ -62,28 +62,23 @@ The root text passage(s) assigned to this day. Present in two layers:
 
 Present both layers for each verse before moving to the next. No sub-headers between individual verses. The passage reads as a unit.
 
+The English translation must be self-explanatory. A reader who has read the introduction (2.1) and the verses should understand what Shantideva is saying without needing the commentary note. If the translation requires explanation to be intelligible, the translation is at fault, not the reader — flag it for revision rather than compensating in 2.4.
+
 ---
 
-### 2.4 Reading for meaning
+### 2.4 Commentary note
 
-One to three short paragraphs drawn from the commentary tradition via the source rails. Maximum 200 words total.
+One focused note from the commentary tradition on a single topic touched by the day's verses. Maximum 150 words.
 
-One to three short paragraphs of pure commentary drawn from the commentary tradition via the source rails. Maximum 200 words total.
+The verses are self-explanatory (see 2.3). This section is not an explanation — it is enrichment. Its job is to offer something the reader would not have arrived at alone: a specific observation, a distinction, a consequence, or an angle that the commentators draw out of these verses. It should feel like something worth knowing, not like context the reader needs in order to understand.
 
-Context for the day's verses has already been provided in section 2.1. This section does not repeat or extend that context — it goes directly to what the verses open up: the interpretive move the commentators make, the consequence that follows from taking the verse seriously. It is not a summary of the verses (the reader just read them), not a list of benefits, and not a philosophical exposition.
+Pick one topic from the day's verses and follow it. Do not survey all three verses or provide a general reading. One thread, one point, landed cleanly.
 
-One move per day. The commentary makes one point and lands it. It does not survey multiple interpretations or build an argument across several ideas. If the verse connects naturally to impermanence, unsatisfactoriness, or the constructed nature of things, follow that connection — but only if the verse actually supports it, not as a formula applied to every day.
-
-Genuine depth from the commentary tradition is welcome here. If a commentator makes a specific and surprising observation that opens the verse up in a way that helps the reader train — include it. Attribute it lightly ("the commentators note…" or simply let it stand as the reading). What is not welcome is depth that is fabricated, generic, or requires a philosophical vocabulary the reader does not have.
-
-Style:
-
-- Prose only. No bullet points, numbered lists, bold-keyword-parenthetical pairs (e.g. "Releasing Pride (Humility)"), or sub-headers.
-- Shantideva's name appears at most once per section. Vary the reference: "he", "the author", "Shantideva". Never use "the great teacher Shantideva" as a fixed epithet.
-- Do not open with an attribution phrase ("Based on the traditional commentaries of…"). The authority of the commentary tradition is established by the rails; it does not need to be announced in the prose.
-- Do not front-load the conclusion. Let the commentary move.
-- Technical terms may be introduced here. Define them in context on their first appearance within a day file — not in a separate end-of-day glossary. One clause; no more.
-- No philosophical exposition beyond what the verse itself requires. If the commentary note could not be understood without a glossary of technical terms, it is too complex.
+- Prose only. No bullet points, sub-headers, or lists.
+- Shantideva's name at most once. Vary: "he", "the author", "Shantideva". Never "the great teacher Shantideva".
+- Do not open with an attribution phrase ("Based on the traditional commentaries of…").
+- The note must come from the rails. If the commentary tradition does not say it, do not say it.
+- If a technical term is introduced, define it in one clause in context. No term should require a glossary to understand.
 
 ---
 

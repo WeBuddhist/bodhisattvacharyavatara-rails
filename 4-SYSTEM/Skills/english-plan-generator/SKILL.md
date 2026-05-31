@@ -118,7 +118,7 @@ Do not vary, condense, paraphrase, preface with explanation, or add section head
 
 > [Tibetan verse — from bo-བློ་ལྡན་ཤེས་རབ།.md]
 >
-> [English verse — from en-David_Karma_Choephel.md]
+> [English verse]
 
 > [next verse, Tibetan]
 >
@@ -150,10 +150,8 @@ Rules:
 - Maximum 150 words.
 - Source: `3-TRANSFORMATIONS/Translations/en-ai/Verses/<verse-id>.md` (interim) or `2-RAILS/Verses/<verse-id>.md` (preferred). Use the commentators' specific observations — not a generic synthesis.
 - Cite a commentator by name when making a specific attribution (Gyaltsab Darma Rinchen, Sazang Mati Panchen, or Ngulchu Thokme Zangpo).
-- Shantideva's name at most once. Vary: "he", "the author", "Shantideva". Never "the great teacher Shantideva".
 - Do not open with an attribution phrase ("Based on the traditional commentaries of…").
 - If a technical term is introduced, define it in one clause in context. No term should require a glossary to understand.
-- If the verse touches on one of the three marks — impermanence, the unsatisfactory nature of conditioned things, or the constructed nature of self — draw this out only if the commentators actually make this connection. Do not impose the three marks as a formula.
 - The note must come from the rails. If the commentary tradition does not say it, do not say it.
 
 ---

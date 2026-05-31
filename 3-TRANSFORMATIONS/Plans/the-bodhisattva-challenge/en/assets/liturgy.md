@@ -14,8 +14,8 @@ Fixed opening and closing prayers for the Bodhisattva Challenge English stream. 
 
 > May all beings enjoy happiness and the causes of happiness.
 > May all beings be free from suffering and the causes of suffering.
-> May all beings never be parted from joy that is free from suffering.
-> May all beings dwell in equanimity, free from attachment and aversion.
+> May all beings never be separated from supreme happiness, free from suffering.
+> May all beings rest in immeasurable equanimity, free from attachment and aversion.
 
 *Refuge (recite 3 times)*
 
@@ -23,18 +23,18 @@ Fixed opening and closing prayers for the Bodhisattva Challenge English stream. 
 
 *Taking the Bodhisattva Vow (recite 3 times)*
 
-> Just as the buddhas of the past aroused bodhicitta
-> and progressively trained in the bodhisattva conduct,
-> so I too, for the benefit of all beings,
-> will arouse bodhicitta and progressively train in that same conduct.
+> Just as the buddhas of the past gave rise to bodhicitta
+> And trained step by step in the bodhisattva conduct,
+> So I too, for the benefit of all beings, will give rise to bodhicitta
+> And train step by step in that same conduct.
 
 ## Closing
 
-> May the precious and supreme mind of awakening —
-> where it has not yet arisen, arise;
-> where it has arisen, may it not decline,
-> but grow ever further.
+> May the precious and supreme bodhicitta —
+> Where it has not yet arisen, may it arise;
+> Where it has arisen, may it not decline,
+> But grow ever further.
 >
-> By whatever merit arises from this practice,
-> may all wandering beings without exception
-> enter the bodhisattva path.
+> By the merit of this practice,
+> May all wandering beings, without exception,
+> Enter the path of the bodhisattva.

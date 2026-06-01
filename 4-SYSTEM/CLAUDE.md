@@ -2,6 +2,20 @@
 
 Persistent operational instructions for an LLM agent working in this vault. Read before touching any file.
 
+---
+
+## ⚑ Before doing anything — check for a skill first
+
+**This is the single most important rule in this file.**
+
+1. Open `4-SYSTEM/Skills/SKILLS-CATALOG.md` and scan for a skill that matches the task.
+2. If a match exists, open its `SKILL.md` in full and follow the execution steps exactly — do not improvise.
+3. Only if no skill exists should you proceed using the general rules below.
+
+Skipping this step is the most common agent error in this vault. The skills exist precisely to ensure consistency and correct citation format. A task done without its skill must be redone.
+
+---
+
 This file is the **operational quick-reference**. The canonical rules for each folder live in that folder's README:
 
 - [`../1-SOURCES/About Sources.md`](../1-SOURCES/About%20Sources.md) — sources rules in full

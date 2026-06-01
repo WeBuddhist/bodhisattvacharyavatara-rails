@@ -1,0 +1,633 @@
+---
+audit_date: 2026-05-29
+total_issues: 587
+---
+
+# Vault audit — 2026-05-29
+
+**587 issue(s) found.**
+
+---
+
+## 1. Skills sync
+
+- [ ] `365-day-practice-plan-generator`: missing from SKILLS-CATALOG.md
+- [ ] `365-day-practice-plan-generator`: missing `.claude/commands/365-day-practice-plan-generator.md`
+- [ ] `Root-Text-Structure`: missing `.claude/commands/Root-Text-Structure.md`
+- [ ] `commentary-frontmatter`: missing `.claude/commands/commentary-frontmatter.md`
+- [ ] `en-365-day-practice-plan-generator`: missing `.claude/commands/en-365-day-practice-plan-generator.md`
+- [ ] `format-chinese-commentary`: missing `.claude/commands/format-chinese-commentary.md`
+- [ ] `reference-frontmatter`: missing `.claude/commands/reference-frontmatter.md`
+- [ ] `root-text-frontmatter`: missing `.claude/commands/root-text-frontmatter.md`
+- [ ] `root-verse-context-creator`: missing from SKILLS-CATALOG.md
+- [ ] `root-verse-context-creator`: missing `.claude/commands/root-verse-context-creator.md`
+- [ ] `translation-frontmatter`: missing `.claude/commands/translation-frontmatter.md`
+- [ ] `verse-commentary-summarizer`: missing `.claude/commands/verse-commentary-summarizer.md`
+
+## 2. Frontmatter completeness
+
+### 2-RAILS/Verses/ — no frontmatter found (required: verse_id, root_text, root_block, language, commentaries, status)
+
+- [ ] `2-RAILS/Verses/bo-Ch0-བསྟན་བཅོས་རྩོམ་པ་ལ་འཇུག་པའི་ཡན་ལག་ས་བཅད་གཞིར་བཟུང་རྩ་ཚིག་ངོས་འཛིན།.md`: no frontmatter found
+- [ ] `2-RAILS/Verses/bo-Ch1-ལེའུ་དང་པོ་ས་བཅད་གཞིར་བཟུང་རྩ་ཚིག་ངོས་འཛིན།.md`: no frontmatter found
+- [ ] `2-RAILS/Verses/bo-Ch10-ལེའུ་བཅུ་པ་ས་བཅད་གཞིར་བཟུང་རྩ་ཚིག་ངོས་འཛིན་བསྡུས་དོན།.md`: no frontmatter found
+- [ ] `2-RAILS/Verses/bo-Ch2-ལེའུ་གཉིས་པ་ས་བཅད་གཞིར་བཟུང་རྩ་ཚིག་ངོས་འཛིན་བསྡུས་དོན།.md`: no frontmatter found
+- [ ] `2-RAILS/Verses/bo-Ch3-ལེའུ་གསུམ་པ་ས་བཅད་གཞིར་བཟུང་རྩ་ཚིག་ངོས་འཛིན་བསྡུས་དོན།.md`: no frontmatter found
+- [ ] `2-RAILS/Verses/bo-Ch4-ལེའུ་བཞི་པ་ས་བཅད་གཞིར་བཟུང་རྩ་ཚིག་ངོས་འཛིན་བསྡུས་དོན།.md`: no frontmatter found
+- [ ] `2-RAILS/Verses/bo-Ch5-ལེའུ་ལྔ་པ་ས་བཅད་གཞིར་བཟུང་རྩ་ཚིག་ངོས་འཛིན་བསྡུས་དོན།.md`: no frontmatter found
+- [ ] `2-RAILS/Verses/bo-Ch6-ལེའུ་དྲུག་པ་ས་བཅད་གཞིར་བཟུང་རྩ་ཚིག་ངོས་འཛིན་བསྡུས་དོན།.md`: no frontmatter found
+- [ ] `2-RAILS/Verses/bo-Ch7-ལེའུ་བདུན་པ་ས་བཅད་གཞིར་བཟུང་རྩ་ཚིག་ངོས་འཛིན་བསྡུས་དོན།.md`: no frontmatter found
+- [ ] `2-RAILS/Verses/bo-Ch8-ལེའུ་བརྒྱད་པ་ས་བཅད་གཞིར་བཟུང་རྩ་ཚིག་ངོས་འཛིན་བསྡུས་དོན།.md`: no frontmatter found
+- [ ] `2-RAILS/Verses/bo-Ch9-ལེའུ་དགུ་པ་ས་བཅད་གཞིར་བཟུང་རྩ་ཚིག་ངོས་འཛིན་བསྡུས་དོན།.md`: no frontmatter found
+
+### 3-TRANSFORMATIONS/ — missing context_packages
+
+- [ ] `3-TRANSFORMATIONS/Adaptations/bo-kunpal-sa-bcad/bo-མཁན་པོ་ཀུན་དཔལ། སྤྱོད་འཇུག་ས་བཅད། ས་བཅད་རྐྱང་པ།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Adaptations/bo-kunpal-sa-bcad/bo-མཁན་པོ་ཀུན་དཔལ། སྤྱོད་འཇུག་ས་བཅད། ས་བཅད་རྩ་སྦྱར།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Adaptations/bo-mchan-grel/སྤྱོད་འཇུག་གི་མཆན་འགྲེལ་བཞུགས་སོ།།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Adaptations/bo-thogmed-sachad/bo-ཐོགས་མེད།-སྤྱོད་འཇུག་ས་བཅད།-ས་བཅད་རྐྱང་པ།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༤༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༤༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༤༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༤༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༤༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༤༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༤༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༤༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༤༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༤༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༥༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༥༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༥༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༥༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༥༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༥༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༥༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༥༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༥༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༥༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༦༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༦༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༦༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༦༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༦༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༦༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༦༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༦༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༦༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༦༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༧༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༧༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༧༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༧༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༧༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༧༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༧༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༧༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༧༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༧༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༨༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༨༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༨༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༨༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༨༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༨༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༨༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༨༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༨༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༨༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༩༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༩༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༩༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༩༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༩༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༩༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༩༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༩༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༩༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༩༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༠༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༠༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༠༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༠༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༠༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༠༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༠༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༠༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༠༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༠༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༡༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༡༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༡༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༡༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༡༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༡༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༡༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༡༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༡༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༡༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༢༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༢༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༢༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༢༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༢༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༢༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༢༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༢༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༢༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༢༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༣༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༣༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༣༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༣༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༣༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༣༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༣༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༣༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༣༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༣༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༤༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༤༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༤༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༤༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༤༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༤༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༤༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༤༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༤༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༤༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༥༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༥༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༥༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༥༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༥༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༥༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༥༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༥༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༥༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༥༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༦༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༦༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༦༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༦༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༦༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༦༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༦༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༦༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༦༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༦༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༧༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༧༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༧༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༧༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༧༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༧༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༧༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༧༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༧༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༧༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༨༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༨༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༨༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༨༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༨༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༨༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༨༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༨༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༨༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༨༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༩༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༩༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༩༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༩༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༩༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༩༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༩༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༩༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༩༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༡༩༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༠༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༠༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༠༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༠༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༠༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༠༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༠༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༠༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༠༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༠༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༡༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༡༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༡༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༡༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༡༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༡༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༡༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༡༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༡༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༡༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༢༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༢༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༢༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༢༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༢༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༢༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༢༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༢༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༢༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༢༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༣༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༣༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༣༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༣༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༣༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༣༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༣༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༣༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༣༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༣༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༤༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༤༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༤༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༤༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༤༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༤༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༤༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༤༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༤༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༤༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༥༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༥༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༥༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༥༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༥༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༥༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༥༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༥༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༥༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༥༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༦༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༦༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༦༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༦༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༦༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༦༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༦༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༦༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༦༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༦༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༧༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༧༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༧༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༧༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༧༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༧༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༧༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༧༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༧༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༧༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༨༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༨༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༨༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༨༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༨༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༨༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༨༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༨༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༨༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༨༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༩༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༩༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༩༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༩༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༩༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༩༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༩༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༩༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༩༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༢༩༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༠༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༠༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༠༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༠༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༠༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༠༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༠༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༠༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༠༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༠༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༡༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༡༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༡༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༡༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༡༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༡༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༡༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༡༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༡༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༡༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༢༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༢༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༢༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༢༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༢༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༢༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༢༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༢༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༢༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༢༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༣༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༣༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༣༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༣༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༣༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༣༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༣༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༣༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༣༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༣༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༤༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༤༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༤༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༤༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༤༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༤༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༤༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༤༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༤༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༤༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༥༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༥༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༥༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༥༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༥༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༥༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༥༦།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༥༧།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༥༨།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༥༩།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༦༠།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༦༡།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༦༢།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༦༣།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༦༤།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/bo/days/ཉིན་ ༣༦༥།.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/en/Days/1.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/en/Days/1a.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/en/Days/2.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/en/Days/2a.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/en/Days/3.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/en/Days/3a.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/en/Days/4a.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Plans/spyod-jug-365/en/Days/5a.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Chapter one (Claude AI).md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-commentary-gyaltsab.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-commentary-sazang.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-commentary-thokme.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-root-loden-sherab.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-1.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-2.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-3.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-4.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-5.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-6.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-7.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-8.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-9.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-10.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-11.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-12.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-13.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-14.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-15.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-1.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-2.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-3.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-4.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-5.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-6.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-7.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-8.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-9.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-10.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-11.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-12.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-13.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-14.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-15.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-16.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-17.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-18.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-19.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-20.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-21.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-22.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-23.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-24.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-25.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-26.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-27.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-28.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-29.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-30.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-31.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-32.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-33.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-34.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-35.md`: missing frontmatter field(s): context_packages
+- [ ] `3-TRANSFORMATIONS/Translations/en-plain-english/Verses/1-36.md`: missing frontmatter field(s): context_packages
+
+## 3. Citation chain integrity
+
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-1.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 15: `![[1-SOURCES/Text/sk-dev.md#^1-1]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-1.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 17: `![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-1]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-2.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 15: `![[1-SOURCES/Text/sk-dev.md#^1-2]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-2.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 17: `![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-2]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-3.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 15: `![[1-SOURCES/Text/sk-dev.md#^1-3]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-3.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 17: `![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-3]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-4.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 15: `![[1-SOURCES/Text/sk-dev.md#^1-4]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-4.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 17: `![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-4]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-5.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 15: `![[1-SOURCES/Text/sk-dev.md#^1-5]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-5.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 17: `![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-5]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-6.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 15: `![[1-SOURCES/Text/sk-dev.md#^1-6]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-6.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 17: `![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-6]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-7.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 15: `![[1-SOURCES/Text/sk-dev.md#^1-7]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-7.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 17: `![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-7]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-8.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 15: `![[1-SOURCES/Text/sk-dev.md#^1-8]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-8.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 17: `![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-8]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-9.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 15: `![[1-SOURCES/Text/sk-dev.md#^1-9]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-9.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 17: `![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-9]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-10.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 14: `![[1-SOURCES/Text/sk-dev.md#^1-10]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-10.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 16: `![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-10]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-11.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 14: `![[1-SOURCES/Text/sk-dev.md#^1-11]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-11.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 16: `![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-11]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-12.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 14: `![[1-SOURCES/Text/sk-dev.md#^1-12]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-12.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 16: `![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-12]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-13.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 14: `![[1-SOURCES/Text/sk-dev.md#^1-13]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-13.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 16: `![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-13]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-14.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 14: `![[1-SOURCES/Text/sk-dev.md#^1-14]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-14.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 16: `![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-14]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-15.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 14: `![[1-SOURCES/Text/sk-dev.md#^1-15]]`
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-15.md`: direct reference to 1-SOURCES/ bypasses 2-RAILS/ — line 16: `![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-15]]`
+
+## 4. Status consistency
+
+✓ No issues found.
+
+## 5. Stale inbox files
+
+- [ ] `0-INBOX/temp/add-toc.skill` — last modified 2026-05-18. Review: promote to permanent location or delete.
+- [ ] `0-INBOX/temp/shantideva-en-2009.md` — last modified 2026-05-19. Review: promote to permanent location or delete.
+
+## 7. File placement
+
+### 7a — Misplaced files in `2-RAILS/Verses/`
+
+All 11 files currently in `2-RAILS/Verses/` are chapter-level files named with the `bo-Ch<N>-` pattern. Per CLAUDE.md §4, this folder must only contain verse-rail files named `<chapter>-<verse>.md` (e.g. `1-1.md`). These files belong in `2-RAILS/Sections/`.
+
+- [ ] `2-RAILS/Verses/bo-Ch0-བསྟན་བཅོས་རྩོམ་པ་ལ་འཇུག་པའི་ཡན་ལག་ས་བཅད་གཞིར་བཟུང་རྩ་ཚིག་ངོས་འཛིན།.md`: misplaced file — does not follow verse-ID naming convention (`<chapter>-<verse>.md`). Review: move to `2-RAILS/Sections/` or correct the filename.
+- [ ] `2-RAILS/Verses/bo-Ch1-ལེའུ་དང་པོ་ས་བཅད་གཞིར་བཟུང་རྩ་ཚིག་ངོས་འཛིན།.md`: misplaced file — does not follow verse-ID naming convention. Review: move to `2-RAILS/Sections/` or correct the filename.
+- [ ] `2-RAILS/Verses/bo-Ch2-ལེའུ་གཉིས་པ་ས་བཅད་གཞིར་བཟུང་རྩ་ཚིག་ངོས་འཛིན་བསྡུས་དོན།.md`: misplaced file — does not follow verse-ID naming convention. Review: move to `2-RAILS/Sections/` or correct the filename.
+- [ ] `2-RAILS/Verses/bo-Ch3-ལེའུ་གསུམ་པ་ས་བཅད་གཞིར་བཟུང་རྩ་ཚིག་ངོས་འཛིན་བསྡུས་དོན།.md`: misplaced file — does not follow verse-ID naming convention. Review: move to `2-RAILS/Sections/` or correct the filename.
+- [ ] `2-RAILS/Verses/bo-Ch4-ལེའུ་བཞི་པ་ས་བཅད་གཞིར་བཟུང་རྩ་ཚིག་ངོས་འཛིན་བསྡུས་དོན།.md`: misplaced file — does not follow verse-ID naming convention. Review: move to `2-RAILS/Sections/` or correct the filename.
+- [ ] `2-RAILS/Verses/bo-Ch5-ལེའུ་ལྔ་པ་ས་བཅད་གཞིར་བཟུང་རྩ་ཚིག་ངོས་འཛིན་བསྡུས་དོན།.md`: misplaced file — does not follow verse-ID naming convention. Review: move to `2-RAILS/Sections/` or correct the filename.
+- [ ] `2-RAILS/Verses/bo-Ch6-ལེའུ་དྲུག་པ་ས་བཅད་གཞིར་བཟུང་རྩ་ཚིག་ངོས་འཛིན་བསྡུས་དོན།.md`: misplaced file — does not follow verse-ID naming convention. Review: move to `2-RAILS/Sections/` or correct the filename.
+- [ ] `2-RAILS/Verses/bo-Ch7-ལེའུ་བདུན་པ་ས་བཅད་གཞིར་བཟུང་རྩ་ཚིག་ངོས་འཛིན་བསྡུས་དོན།.md`: misplaced file — does not follow verse-ID naming convention. Review: move to `2-RAILS/Sections/` or correct the filename.
+- [ ] `2-RAILS/Verses/bo-Ch8-ལེའུ་བརྒྱད་པ་ས་བཅད་གཞིར་བཟུང་རྩ་ཚིག་ངོས་འཛིན་བསྡུས་དོན།.md`: misplaced file — does not follow verse-ID naming convention. Review: move to `2-RAILS/Sections/` or correct the filename.
+- [ ] `2-RAILS/Verses/bo-Ch9-ལེའུ་དགུ་པ་ས་བཅད་གཞིར་བཟུང་རྩ་ཚིག་ངོས་འཛིན་བསྡུས་དོན།.md`: misplaced file — does not follow verse-ID naming convention. Review: move to `2-RAILS/Sections/` or correct the filename.
+- [ ] `2-RAILS/Verses/bo-Ch10-ལེའུ་བཅུ་པ་ས་བཅད་གཞིར་བཟུང་རྩ་ཚིག་ངོས་འཛིན་བསྡུས་དོན།.md`: misplaced file — does not follow verse-ID naming convention. Review: move to `2-RAILS/Sections/` or correct the filename.
+
+### 7b — Missing verse rails for existing transformations
+
+Verse files exist in `3-TRANSFORMATIONS/*/Verses/` with no corresponding rail in `2-RAILS/Verses/`. These transformations were generated without authorised rails. Do not generate further transformations from these verses until rails are authored and marked `status: complete`.
+
+- [ ] `2-RAILS/Verses/1-1.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-2.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-3.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-4.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-5.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-6.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-7.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-8.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-9.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-10.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-11.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-12.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-13.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-14.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-15.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-16.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-17.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-18.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-19.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-20.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-21.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-22.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-23.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-24.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-25.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-26.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-27.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-28.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-29.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-30.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-31.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-32.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-33.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-34.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-35.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+- [ ] `2-RAILS/Verses/1-36.md`: verse rail missing — transformation(s) exist but no rail has been authored.
+
+## 6. Dead wiki links
+
+- [ ] `2-RAILS/About Rails.md`: dead link → `Local-Wiki/<term>_(<disambiguator>).md` (line 159)
+- [ ] `2-RAILS/About Rails.md`: dead link → `2-RAILS/Local-Wiki/<term>_(<disambiguator>).md` (line 236)
+- [ ] `2-RAILS/About Rails.md`: dead link → `term (alternate-sense)` (line 288)
+- [ ] `2-RAILS/About Rails.md`: dead link → `opposite-term (opposite-sense)` (line 289)
+- [ ] `2-RAILS/About Rails.md`: dead link → `Local-Wiki/term_(disambiguating-phrase).md` (line 348)
+- [ ] `2-RAILS/About Rails.md`: dead link → `2-RAILS/Verses/6-33.md` (line 437)
+- [ ] `2-RAILS/About Rails.md`: dead link → `2-RAILS/Verses/1-29.md` (line 454)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-1.md`: dead link → `en-AI-generated-commentary-gyaltsab.md` (line 24)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-1.md`: dead link → `en-AI-generated-commentary-sazang.md` (line 40)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-1.md`: dead link → `en-AI-generated-commentary-thokme.md` (line 61)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-10.md`: dead link → `3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-commentary-gyaltsab.md|en-AI-generated-commentary-gyaltsab` (line 23)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-10.md`: dead link → `3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-commentary-sazang.md|en-AI-generated-commentary-sazang` (line 27)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-10.md`: dead link → `3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-commentary-thokme.md|en-AI-generated-commentary-thokme` (line 35)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-11.md`: dead link → `en-AI-generated-commentary-gyaltsab.md` (line 23)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-11.md`: dead link → `en-AI-generated-commentary-sazang.md` (line 27)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-11.md`: dead link → `en-AI-generated-commentary-thokme.md` (line 31)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-12.md`: dead link → `en-AI-generated-commentary-gyaltsab.md` (line 23)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-12.md`: dead link → `en-AI-generated-commentary-sazang.md` (line 27)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-12.md`: dead link → `en-AI-generated-commentary-thokme.md` (line 32)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-13.md`: dead link → `en-AI-generated-commentary-gyaltsab.md` (line 23)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-13.md`: dead link → `en-AI-generated-commentary-sazang.md` (line 26)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-13.md`: dead link → `en-AI-generated-commentary-thokme.md` (line 33)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-14.md`: dead link → `en-AI-generated-commentary-gyaltsab.md` (line 23)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-14.md`: dead link → `en-AI-generated-commentary-sazang.md` (line 33)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-14.md`: dead link → `en-AI-generated-commentary-thokme.md` (line 48)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-15.md`: dead link → `en-AI-generated-commentary-gyaltsab.md` (line 23)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-15.md`: dead link → `en-AI-generated-commentary-sazang.md` (line 43)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-15.md`: dead link → `en-AI-generated-commentary-thokme.md` (line 52)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-2.md`: dead link → `en-AI-generated-commentary-gyaltsab.md` (line 24)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-2.md`: dead link → `en-AI-generated-commentary-sazang.md` (line 35)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-2.md`: dead link → `en-AI-generated-commentary-thokme.md` (line 40)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-3.md`: dead link → `en-AI-generated-commentary-gyaltsab.md` (line 22)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-3.md`: dead link → `en-AI-generated-commentary-sazang.md` (line 37)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-3.md`: dead link → `en-AI-generated-commentary-thokme.md` (line 44)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-4.md`: dead link → `en-AI-generated-commentary-gyaltsab.md` (line 23)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-4.md`: dead link → `en-AI-generated-commentary-sazang.md` (line 38)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-4.md`: dead link → `en-AI-generated-commentary-thokme.md` (line 53)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-5.md`: dead link → `en-AI-generated-commentary-gyaltsab.md` (line 24)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-5.md`: dead link → `en-AI-generated-commentary-sazang.md` (line 31)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-5.md`: dead link → `en-AI-generated-commentary-thokme.md` (line 35)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-6.md`: dead link → `en-AI-generated-commentary-gyaltsab.md` (line 24)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-6.md`: dead link → `en-AI-generated-commentary-sazang.md` (line 32)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-6.md`: dead link → `en-AI-generated-commentary-thokme.md` (line 39)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-7.md`: dead link → `en-AI-generated-commentary-gyaltsab.md` (line 24)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-7.md`: dead link → `en-AI-generated-commentary-sazang.md` (line 29)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-7.md`: dead link → `en-AI-generated-commentary-thokme.md` (line 32)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-8.md`: dead link → `3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-commentary-gyaltsab.md|en-AI-generated-commentary-gyaltsab` (line 24)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-8.md`: dead link → `3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-commentary-sazang.md|en-AI-generated-commentary-sazang` (line 28)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-8.md`: dead link → `3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-commentary-thokme.md|en-AI-generated-commentary-thokme` (line 32)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-9.md`: dead link → `3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-commentary-gyaltsab.md|en-AI-generated-commentary-gyaltsab` (line 24)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-9.md`: dead link → `3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-commentary-sazang.md|en-AI-generated-commentary-sazang` (line 28)
+- [ ] `3-TRANSFORMATIONS/Translations/en-ai/Verses/1-9.md`: dead link → `3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-commentary-thokme.md|en-AI-generated-commentary-thokme` (line 31)

@@ -363,178 +363,176 @@ By numerous failings, have committed
 Misdeeds that are most terrible.
 Before the guides, I confess them all.  ^2-31
 
-[Missing Translation verse 2.32]
-
 I am going to perish quickly,
 Before I’m cleansed of my misdeeds.
 How can I be rescued from them?
-I beg you, please deliver me.  ^2-33
+I beg you, please deliver me.  ^2-32
 
 The Lord of Death, untrustworthy,
 Won’t tarry for what’s done or undone.
 So no one, whether or not they’re ill,
-Should place their trust in fleeting life.  ^2-34
+Should place their trust in fleeting life.  ^2-33
 
 I must leave all behind and go,
 But I have not yet recognized that.
 For the sake of those I like or dislike,
-I have done various misdeeds.  ^2-35
+I have done various misdeeds.  ^2-34
 
 Those I don’t like will cease to be,
 And those I like will cease to be.
 I myself will cease to be,
-And everyone will cease to be.  ^2-36
+And everyone will cease to be.  ^2-35
 
 All of the things that I have used
 Will become objects of memory,
 As if experienced in a dream.
-I’ll never see what’s past again.  ^2-37
+I’ll never see what’s past again.  ^2-36
 
 Even during this life, many of those
 I like and dislike have passed away.
 And yet the terrible misdeeds
-I’ve done for their sake remain before me.  ^2-38
+I’ve done for their sake remain before me.  ^2-37
 
 Because I have not recognized
 That I, as well, am ephemeral,
 I have committed many wrongs
-Out of delusion, greed, and hatred.  ^2-39
+Out of delusion, greed, and hatred.  ^2-38
 
 Not pausing even a day or night,
 This life’s continuously depleted,
 And there is no extending it.
-So why would one like me not die?  ^2-40
+So why would one like me not die?  ^2-39
 
 While I am lying in my bed
 Surrounded by all my relatives,
 I will experience alone
-The feeling of my life being cut.  ^2-41
+The feeling of my life being cut.  ^2-40
 
 When seized by Yama’s messengers,
 What good are friends? What good are kin?
 Merit alone will guard me then,
-But I, alas, haven’t practiced that.  ^2-42
+But I, alas, haven’t practiced that.  ^2-41
 
 Protectors, I have carelessly
 Committed numerous misdeeds
 For the sake of this ephemeral life,
-Oblivious there is such a danger.  ^2-43
+Oblivious there is such a danger.  ^2-42
 
 If people who are being led
 To have their limbs chopped off today
 Look different than they did before
-With their parched mouths and bloodshot eyes,  ^2-44
+With their parched mouths and bloodshot eyes,  ^2-43
 
 What need to say how wretched I’ll be
 When Yama’s henchmen have me seized,
 Their physiognomies dire and dread,
-And I am gripped by terrible pain?  ^2-45
+And I am gripped by terrible pain?  ^2-44
 
 “Who will protect me truly from
 This horrifying danger,” I’ll cry,
 Eyes bulging with terror, as I search
-In the four directions for a refuge.  ^2-46
+In the four directions for a refuge.  ^2-45
 
 But seeing no protection in
 The four directions, I’ll then despair.
 If there’s no refuge in that place,
-What will I do at such a time?  ^2-47
+What will I do at such a time?  ^2-46
 
 Thus from today, I’ll go for refuge
 To the victors, guardians of beings,
 Who strive to protect all wanderers,
-Those with great power who dispel all fear.  ^2-48
+Those with great power who dispel all fear.  ^2-47
 
 Likewise I truly go for refuge
 To the dharma they have realized, which
 Dispels the terrors of samsara,
-And to the sangha of bodhisattvas.  ^2-49
+And to the sangha of bodhisattvas.  ^2-48
 
 Petrified with dread, I give
 Myself over to Samantabhadra.
 I also make an offering
-To Manjughosha of my body.  ^2-50
+To Manjughosha of my body.  ^2-49
 
 I cry a miserable wail
 To guardian Avalokiteshvara,
 Whose acts of mercy are unmistaken.
-I beg, protect me who have done wrong.  ^2-51
+I beg, protect me who have done wrong.  ^2-50
 
 To noble Akashagarbha and
 To Kshitigarbha, to every one
 Of the protectors with great compassion,
-I cry from my heart in search of refuge.  ^2-52
+I cry from my heart in search of refuge.  ^2-51
 
 I go for refuge to Vajrapani,
 Upon the sight of whom, from fear,
 Malevolent beings like the henchmen
-Of Yama flee in the four directions.  ^2-53
+Of Yama flee in the four directions.  ^2-52
 
 I have in the past transgressed your word,
 But now that I’ve seen the great peril,
 I go to you for refuge and plead:
-Swiftly eliminate this fear.  ^2-54
+Swiftly eliminate this fear.  ^2-53
 
 If one must do as doctors say
 From fear of ordinary illness,
 What need to speak of being infected
 Continually by the sickness of
-The hundred wrongs of lust and such?  ^2-55
+The hundred wrongs of lust and such?  ^2-54
 
 If even one of these can ruin
 All people who live in Jambudvipa
 And no other medicine to cure it
-Can be obtained in any direction,  ^2-56
+Can be obtained in any direction,  ^2-55
 
 56. To think that I might not do as
 Directed by the omniscient healer
 Who removes every pain would be
-Blameworthy and completely deluded.  ^2-57
+Blameworthy and completely deluded.  ^2-56
 
 If I must be quite careful of
 A minor, ordinary chasm,
 What need to mention the abyss
-Where I’d fall a thousand leagues for long?  ^2-58
+Where I’d fall a thousand leagues for long?  ^2-57
 
 It is not right to sit content
 And say “I will not die today.”
 It is inevitable the time
-Will come when I will cease to be.  ^2-59
+Will come when I will cease to be.  ^2-58
 
 Who will grant me freedom from fear?
 And how will I escape from this?
 I certainly will no longer be.
-How can my mind remain at ease?  ^2-60
+How can my mind remain at ease?  ^2-59
 
 My past experiences are gone,
 And what do I have left of them?
 But out of my fixation on them,
-I’ve gone against the gurus’ words.  ^2-61
+I’ve gone against the gurus’ words.  ^2-60
 
 If I must leave this life behind
 Along with family and friends
 And go off somewhere else alone,
-What good all those I like or dislike?  ^2-62
+What good all those I like or dislike?  ^2-61
 
 It would be right to only think
 In just this way all day and night:
 “Nonvirtue leads to suffering.
-How can I be freed from it?”  ^2-63
+How can I be freed from it?”  ^2-62
 
 Whatever misdeeds I have done
 From being ignorant and deluded,
 Whether they’re naturally unwholesome
-Or disobedient misdeeds,  ^2-64
+Or disobedient misdeeds,  ^2-63
 
 Within the presence of the protectors,
 From fear of suffering, I join
 My palms and prostrate repeatedly,
-Confessing every one of them.  ^2-65
+Confessing every one of them.  ^2-64
 
 I supplicate you, guides! Accept
 That my misdeeds have been mistaken.
 They were not good, and for that reason,
-I’ll never do such acts again.  ^2-66
+I’ll never do such acts again.  ^2-65
 
 The second chapter, “Confessing Misdeeds,” from Entering the Way of the Bodhisattva.
 
@@ -4652,3 +4650,4 @@ The tenth chapter, “Dedication,” from Entering the Way of the Bodhisattva. T
 
 The Tibetan translation was reviewed and finalized by the Indian master Sarvajnadeva and the great editor-translator Bande Paltsek according to a manuscript from Kashmir. Later, the Indian master Dharma Shri Bhadra and the editor-translators Bande Rinchen Sangpo and Shakya Lodrö revised, retranslated, and edited it according to a manuscript from central India. At a later time, the Indian master Sumatikirti and the editor-translator bhikshu Loden Sherap corrected it again and finalized it.
 Translated into English from the canonical Tibetan text in comparison with the extant Sanskrit by the bhikshu Karma Lodrö Choephel.
+                                  

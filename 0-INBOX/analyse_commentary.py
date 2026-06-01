@@ -94,7 +94,62 @@ def annotate_lines(lines: list[str], tag: str) -> list[str]:
     return result
 
 
-# ── 5. Main ───────────────────────────────────────────────────────────────────
+# ── 5. Post-processing ────────────────────────────────────────────────────────
+_FOOTNOTE_RE = re.compile(r"^\[\^\d+\]:")
+
+def _post_process(lines: list[str]) -> list[str]:
+    """
+    1. Remove footnote lines (starting with [^n]:).
+    2. Remove non-blank lines that contain no word characters (standalone
+       symbols such as --- horizontal rules), but preserve YAML front-matter
+       delimiters (the two opening/closing --- lines at the top of the file).
+    3. Collapse consecutive blank lines down to a single blank line.
+    """
+    WORD = re.compile(r"\w")
+
+    # ── passes 1 & 2: filter footnotes and standalone symbols ────────────────
+    filtered: list[str] = []
+    frontmatter_dashes = 0          # count of --- lines seen while in frontmatter
+    frontmatter_closed = False
+
+    for line in lines:
+        s = line.strip()
+
+        # Track YAML front-matter (first two bare --- lines)
+        if not frontmatter_closed and s == "---":
+            frontmatter_dashes += 1
+            if frontmatter_dashes == 2:
+                frontmatter_closed = True
+            filtered.append(line)
+            continue
+
+        # Remove footnote lines
+        if _FOOTNOTE_RE.match(s):
+            continue
+
+        # Remove standalone-symbol lines (non-blank, zero word chars)
+        if s and not WORD.search(s):
+            continue
+
+        filtered.append(line)
+
+    # ── pass 3: collapse consecutive blank lines to one ──────────────────────
+    result: list[str] = []
+    prev_blank = False
+    for line in filtered:
+        is_blank = not line.strip()
+        if is_blank:
+            if not prev_blank:
+                result.append(line)
+            prev_blank = True
+        else:
+            result.append(line)
+            prev_blank = False
+
+    return result
+
+
+# ── 6. Main ───────────────────────────────────────────────────────────────────
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -153,13 +208,21 @@ def main() -> None:
         annotated_sections += 1
         total_citations += len(root_lines)
 
-    # ── write full file with annotations applied and transclusions removed ──────
+    # ── collect output lines (annotations applied, transclusions removed) ────────
+    out_lines: list[str] = []
+    for i, line in enumerate(raw_lines):
+        if verse_id_of(line) is not None:
+            continue                         # remove ![[...#^N-M]] lines
+        out_lines.append(annotated.get(i, line))
+
+    # ── post-process ──────────────────────────────────────────────────────────
+    out_lines = _post_process(out_lines)
+
+    # ── write ─────────────────────────────────────────────────────────────────
     args.out.parent.mkdir(parents=True, exist_ok=True)
     with open(args.out, "w", encoding="utf-8") as fh:
-        for i, line in enumerate(raw_lines):
-            if verse_id_of(line) is not None:
-                continue                     # remove ![[...#^N-M]] lines
-            fh.write(annotated.get(i, line) + "\n")
+        for line in out_lines:
+            fh.write(line + "\n")
 
     print(f"[info] annotated output    → {args.out}", file=sys.stderr)
     print(f"[info] sections annotated  : {annotated_sections}", file=sys.stderr)

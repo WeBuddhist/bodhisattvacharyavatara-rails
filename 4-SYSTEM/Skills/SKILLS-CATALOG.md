@@ -154,6 +154,14 @@ Creates or updates Obsidian frontmatter properties on a file.
 Ingests a structural outline (TOC) into a source or rails file.
 → [`structural-outline-ingest/SKILL.md`](structural-outline-ingest/SKILL.md)
 
+### `create-skill` **[exists]**
+Creates a new skill from scratch: generates the SKILL.md, prompt structure, and registers it in the catalog.
+→ [`create-skill/SKILL.md`](create-skill/SKILL.md)
+
+### `vault-audit` **[exists]**
+Audits the vault for consistency: checks that all linked files exist, frontmatter is complete, and skills are registered in the catalog.
+→ [`vault-audit/SKILL.md`](vault-audit/SKILL.md)
+
 ---
 
 ## Vault-specific skills
@@ -179,3 +187,7 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 ### `translation-frontmatter` **[exists]**
 **Purpose:** Generate complete YAML frontmatter for a translation file in `1-SOURCES/Translations/` by extracting metadata from the file's title page, colophon, and opening content.
 → [`translation-frontmatter/SKILL.md`](translation-frontmatter/SKILL.md)
+
+### `en-365-day-practice-plan-generator` **[exists]**
+**Purpose:** Generate a complete single-day Bodhisattvacharyavatara (སྤྱོད་འཇུག) practice plan session document in the traditional 7-section format, in English. Saves to `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/`.
+→ [`en-365-day-practice-plan-generator/SKILL.md`](4-SYSTEM/Skills/en-365-day-practice-plan-generator(old)/SKILL.md)

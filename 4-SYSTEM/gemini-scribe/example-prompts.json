@@ -5,7 +5,11 @@
   },
   {
     "icon": "file-plus",
+<<<<<<< HEAD
     "text": "Help me draft a step-by-step workflow for importing and formatting the raw Chinese commentary of Gyaltsab Je currently in the Inbox folder"
+=======
+    "text": "Draft a new daily study block for Chapter 6 verses 9 to 10 using the raw text from the Inbox and the the-bodhisattva-challenge plan structure"
+>>>>>>> origin/main
   },
   {
     "icon": "folder-tree",

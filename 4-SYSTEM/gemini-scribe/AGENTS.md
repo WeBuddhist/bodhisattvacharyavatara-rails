@@ -10,11 +10,19 @@ This vault is a specialized digital library and research environment dedicated t
 
 The vault is meticulously organized into a numbered pipeline, tracking the lifecycle of texts from raw input to highly processed knowledge:
 
+<<<<<<< HEAD
 - **0-INBOX**: Serves as a temporary staging area for raw data, draft workflows, and initial text versions, including specialized root text versions and raw data for future processing.
 - **1-SOURCES**: This core repository houses foundational materials, strictly categorized into [[Commentaries]], [[Text]] (root texts), and [[Translations]]. Files within this stage consistently adhere to language prefixes (e.g., `bo-` for Tibetan, `sk-` for Sanskrit, `en-` for English, `zh-` for Chinese) to denote their origin and language.
 - **2-RAILS**: Here, texts are structured and aligned. This includes integrating root verses with traditional topical outlines (sa bcad) and developing extensive [[Bilingual-Glossaries]] (e.g., `sk-bo`, `sk-zh`, `sk-en`) for precise linguistic mapping.
 - **3-TRANSFORMATIONS**: This stage represents the final processing, where texts are transformed into annotated commentaries, various adaptations (like `bo-kunpal-sa-bcad` integrated files), and highly structured daily study/practice plans, such as the `spyod-jug-365` series (e.g., Tibetan daily study files like `ཉིན་ ༡།`).
 - **4-SYSTEM**: The administrative and operational heart of the vault, containing configurations for AI assistants, a comprehensive set of automated "Skills" for text processing (such as glossary extraction, formatting, and practice plan generation), and formal `Guidelines` that dictate vault structure and formatting conventions.
+=======
+- **0-INBOX**: Serves as a temporary staging area for raw data, draft workflows, and initial text versions, including specialized root text versions and raw data for future processing. 
+- **1-SOURCES**: This core repository houses foundational materials, strictly categorized into [[Commentaries]], [[Text]] (root texts), and [[Translations]]. Files within this stage consistently adhere to language prefixes (e.g., `bo-`, `sk-`, `en-`, `zh-`) to denote their origin and language. 
+- **2-RAILS**: Here, texts are structured and aligned. This includes integrating root verses with traditional topical outlines (sa bcad) and developing extensive [[Bilingual-Glossaries]] (e.g., `sk-bo`, `sk-zh`, `sk-en`) for precise linguistic mapping. 
+- **3-TRANSFORMATIONS**: This stage represents the final processing, where texts are transformed into annotated commentaries, various adaptations (like *sa bcad* integrated files), and highly structured daily practice plans, such as the `the-bodhisattva-challenge` series. 
+- **4-SYSTEM**: The administrative and operational heart of the vault, containing AI agent configurations (like [[CLAUDE]]), a comprehensive set of automated "Skills" for text processing, and formal `Guidelines` that dictate vault structure and formatting conventions. 
+>>>>>>> origin/main
 
 Additionally, the vault features a dedicated `gemini-scribe` folder for managing AI assistant sessions, prompts, and scheduled tasks. Notes are extensively linked using [[WikiLinks]], especially to track relationships between source texts, commentaries, and their outlines. The consistent application of language prefixes and a clear, sequential folder hierarchy underscores a highly methodical, pipeline-driven approach to knowledge management.
 

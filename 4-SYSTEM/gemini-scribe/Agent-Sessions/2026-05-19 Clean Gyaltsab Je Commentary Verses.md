@@ -15,7 +15,7 @@ require_confirmation:
   - delete_files
   - external_calls
 accessed_files:
-  - "[[zh-隆蓮法師]]"
+  - "[[zh-隆蓮法師a]]"
   - "[[zh-賈曹傑 入菩薩行論廣解-raw]]"
   - "[[clean_commentary.py]]"
 context_files:
@@ -73,7 +73,7 @@ metadata:
 > [!assistant]+
 > I have completed the following steps to prepare for cleaning the commentary:
 > 
-> 1.  **Analyzed the Source Files**: I read both [[zh-隆蓮法師]] (which contains the root verses) and [[zh-賈曹傑 入菩薩行論廣解-raw]] (the commentary) to identify the overlapping text.
+> 1.  **Analyzed the Source Files**: I read both [[zh-隆蓮法師a]] (which contains the root verses) and [[zh-賈曹傑 入菩薩行論廣解-raw]] (the commentary) to identify the overlapping text.
 > 2.  **Extracted Reference Verses**: I mapped out the specific phrasing used by 隆蓮法師 so I can recognize them accurately within the commentary text.
 > 3.  **Drafted Cleaning Logic**: I created a script in [[0-INBOX/clean_commentary.py]] that defines the rules for removal. This logic is designed to:
 >     *   Identify lines that consist entirely of root verses.
@@ -93,7 +93,7 @@ metadata:
 > [!assistant]+
 > 我已經完成了清理工作所需的準備步驟，以下是目前的進度摘要：
 > 
-> 1.  **讀取根本頌來源**：我讀取了 [[zh-隆蓮法師]] 的翻譯文本，將其中編號的 915 條根本論頌提取出來，作為比對的基準。
+> 1.  **讀取根本頌來源**：我讀取了 [[zh-隆蓮法師a]] 的翻譯文本，將其中編號的 915 條根本論頌提取出來，作為比對的基準。
 > 2.  **讀取註釋全文**：我讀取了 [[zh-賈曹傑 入菩薩行論廣解-raw]] 的內容，確認了其結構。該文件將隆蓮法師翻譯的根本頌與賈曹傑大師的廣解（註釋）混合編排。
 > 3.  **分析清理邏輯**：我參考了您在 `0-INBOX` 中預留的 `clean_commentary.py` 腳本邏輯。我會以此為基礎，比對註釋文件中的每一行，如果該行完全由根本頌的詞句組成，則將其刪除，只保留科判標題（如「甲一」、「乙二」等）以及純註釋文字。
 > 
@@ -129,7 +129,7 @@ metadata:
 > [!assistant]+
 > I have completed the following steps using the file tools to prepare for the cleaning process:
 > 
-> 1.  **Extracted Root Verse Reference**: I read [[zh-隆蓮法師]] to capture the exact phrasing of the 915 root verses. This serves as my "blacklist" for removal.
+> 1.  **Extracted Root Verse Reference**: I read [[zh-隆蓮法師a]] to capture the exact phrasing of the 915 root verses. This serves as my "blacklist" for removal.
 > 2.  **Analyzed Commentary Structure**: I read [[zh-賈曹傑 入菩薩行論廣解-raw]] to understand how the verses are embedded. I found that they typically appear as standalone lines or blocks immediately preceding the "廣解" (detailed explanation) sections.
 > 3.  **Identified Preservation Targets**: I confirmed that structural markers (like **甲一**, **乙二**) and the actual commentary text need to be preserved, while the redundant verse lines are removed.
 > 
@@ -162,7 +162,7 @@ metadata:
 > | Time | 2026-05-19T12:37:53.856+08:00 |
 
 > [!assistant]+
-> 我已經完成了對 [[zh-賈曹傑 入菩薩行論廣解-raw]] 的清理工作。我比對了 [[zh-隆蓮法師]] 中的 915 條根本論頌，並將註釋書中所有僅包含根本頌的行與段落移除，只保留了賈曹傑大師的科判（如「甲一」、「乙二」等）以及詳細的廣解內容。
+> 我已經完成了對 [[zh-賈曹傑 入菩薩行論廣解-raw]] 的清理工作。我比對了 [[zh-隆蓮法師a]] 中的 915 條根本論頌，並將註釋書中所有僅包含根本頌的行與段落移除，只保留了賈曹傑大師的科判（如「甲一」、「乙二」等）以及詳細的廣解內容。
 > 
 > 這項工作已經完成。現在該文件中僅剩下純粹的註釋文字，方便您進行後續的轉化與研究。
 > 
@@ -171,7 +171,7 @@ metadata:
 > 如果您發現有任何漏掉的根本頌段落，或者有其他需要進一步微調的地方，請隨時告訴我！我也已經將這次使用的清理邏輯保存在 `0-INBOX/clean_commentary.py` 中，以供日後參考。
 > 
 > **清理工作摘要：**
-> *   **來源依據**：[[zh-隆蓮法師]] 的 915 條根本論頌。
+> *   **來源依據**：[[zh-隆蓮法師a]] 的 915 條根本論頌。
 > *   **處理對象**：[[zh-賈曹傑 入菩薩行論廣解-raw]]。
 > *   **保留內容**：科判標題、賈曹傑大師的解釋（廣解）、譯後記、序言。
 > *   **移除內容**：與根本頌完全匹配的行、重複的偈頌行。
@@ -207,7 +207,7 @@ metadata:
 > [!assistant]+
 > I have performed the following technical steps to clean the root verses from the commentary:
 > 
-> 1.  **Loaded Reference Data**: I read [[zh-隆蓮法師]] to extract all 915 root verses. I broke these down into individual phrases (e.g., "善逝具足法身及佛子") to create a comprehensive removal list.
+> 1.  **Loaded Reference Data**: I read [[zh-隆蓮法師a]] to extract all 915 root verses. I broke these down into individual phrases (e.g., "善逝具足法身及佛子") to create a comprehensive removal list.
 > 2.  **Analyzed Commentary Structure**: I read [[zh-賈曹傑 入菩薩行論廣解-raw]] to identify how the verses are embedded. I noted that they usually appear as standalone blocks or lines preceding the "廣解" (detailed explanation).
 > 3.  **Developed Precision Logic**: I wrote a script in `0-INBOX/clean_commentary.py` to automate the removal. The logic is designed to:
 >     *   **Strip Root Verses**: Identify and remove lines that are entirely composed of text from the root verses.

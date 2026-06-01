@@ -34,11 +34,11 @@ Extracted from the Tibetan-English interlinear gloss file for the Padmakara Tran
 
 **Renderings attested in this source:**
 
-| Rendering | Frequency | First seen | Notes |
-|-----------|-----------|------------|-------|
-| Virtue | 3 | ^1-6 | Includes `virtues` in ^1-12 and `their-virtues` in ^1-35 |
-| to-this-virtuous-way | 1 | ^1-3 | |
-| virtuous-donors | 1 | ^1-32 | |
+| Rendering            | Frequency | First seen | Notes                                                    |
+| -------------------- | --------- | ---------- | -------------------------------------------------------- |
+| Virtue               | 3         | ^1-6       | Includes `virtues` in ^1-12 and `their-virtues` in ^1-35 |
+| to-this-virtuous-way | 1         | ^1-3       |                                                          |
+| virtuous-donors      | 1         | ^1-32      |                                                          |
 
 **Sample pairings:**
 

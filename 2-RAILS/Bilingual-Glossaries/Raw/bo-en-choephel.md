@@ -41,13 +41,13 @@ status: draft
 
 **Renderings attested in this source:**
 
-| Rendering | Frequency | First seen | Notes |
-|---|---|---|---|
-| of-beings | 1 | ^1-11 | As genitive `འགྲོ་བའི་` |
-| to-go | 1 | ^1-16 | As terminative `འགྲོ་བར་` |
-| going | 1 | ^1-16 | Contrasting wish vs actually going |
-| wanderer’s | 1 | ^1-26 | Referring to all wandering beings |
-| Those | 1 | ^1-32 | Referring to ordinary people |
+| Rendering  | Frequency | First seen | Notes                              |
+| ---------- | --------- | ---------- | ---------------------------------- |
+| of-beings  | 1         | ^1-11      | As genitive `འགྲོ་བའི་`            |
+| to-go      | 1         | ^1-16      | As terminative `འགྲོ་བར་`          |
+| going      | 1         | ^1-16      | Contrasting wish vs actually going |
+| wanderer’s | 1         | ^1-26      | Referring to all wandering beings  |
+| Those      | 1         | ^1-32      | Referring to ordinary people       |
 
 **Sample pairings:**
 

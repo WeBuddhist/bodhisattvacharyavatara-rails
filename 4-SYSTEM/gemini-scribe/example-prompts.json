@@ -1,18 +1,22 @@
 [
   {
-    "icon": "search",
-    "text": "Search the Bilingual-Glossaries folder to find how Sanskrit philosophical terms are mapped to Tibetan and Chinese translations"
+    "icon": "book-open",
+    "text": "Review the Guidelines folder to explain the exact structural and metadata rules for formatting a newly added commentary in 1-SOURCES"
   },
   {
     "icon": "file-plus",
+<<<<<<< HEAD
+    "text": "Help me draft a step-by-step workflow for importing and formatting the raw Chinese commentary of Gyaltsab Je currently in the Inbox folder"
+=======
     "text": "Draft a new daily study block for Chapter 6 verses 9 to 10 using the raw text from the Inbox and the the-bodhisattva-challenge plan structure"
+>>>>>>> origin/main
   },
   {
-    "icon": "book-open",
-    "text": "Compare the commentary of Ngulchu Thogme with Ju Mipham in the Sources folder to highlight their structural approaches"
+    "icon": "folder-tree",
+    "text": "Examine the 365-day practice plan schedule to summarize how the verses are distributed across the daily Tibetan study plans"
   },
   {
-    "icon": "calendar",
-    "text": "Review the verse schedule configuration within the 365-day-practice-plan-generator skill to verify the chapter progression"
+    "icon": "sparkles",
+    "text": "Analyze how Khenpo Kunpal's sa bcad outline is integrated with the root verses in the Adaptations folder and summarize its methodology"
   }
 ]

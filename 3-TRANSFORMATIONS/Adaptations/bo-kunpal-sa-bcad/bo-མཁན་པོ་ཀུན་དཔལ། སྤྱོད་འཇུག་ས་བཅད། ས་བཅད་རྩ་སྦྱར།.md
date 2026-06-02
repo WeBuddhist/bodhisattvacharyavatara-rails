@@ -1,3 +1,14 @@
+---
+title: དཀར་ཆག་ས་བཅད།
+title in English: Table of Contents Structural Outline with Root Text
+author: མཁན་པོ་ཀུན་དཔལ།
+author in English: Khenpo Kunpal
+file_type: adaptation
+language_tag: bo
+source_description: "Structural outline (ས་བཅད) of the Bodhisattvacaryāvatāra by Khenpo Kunpal, combined with the Tibetan root text verses (ས་བཅད་རྩ་སྦྱར།). Derived from the kunpal commentary."
+status: draft
+---
+
 - # དཀར་ཆག་ས་བཅད།
 
 - བཤད་བྱའི་ཡན་ལག་བཤད་པ། ^TOC-1

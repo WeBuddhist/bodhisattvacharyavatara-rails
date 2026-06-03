@@ -24,10 +24,10 @@ The output is always saved as a Tibetan-language markdown file.
 
 ## Source files
 
-| File | Purpose |
-|------|---------|
+| File                                                                                                                                     | Purpose                                                                                                                                                                                                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\0-INBOX\bo-root versions\bo-བློ་ལྡན་ཤེས་རབ།-དངུལ་ཆུ་ཐོགས་མེད་སྤྱོད་འཇུག་རྩ་བ།.md` | **Root text** — canonical Tibetan translation by Blo ldan shes rab. **Always read this file and extract verses directly from it.** Never quote root-text verses from memory or training data. Verses are identified by block references in the format `^chapter-verse` (e.g. `^4-43` for Chapter 4, verse 43). |
-| `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\1-SOURCES\Commentaries\bo-དངུལ་ཆུ་ཐོགས་མེད།.md` | **Commentary** — Ngulchu Thokme's *Ocean of Good Explanations* in Tibetan. **Always read this file and extract commentary from it.** Never invent or improvise commentary. |
+| `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\1-SOURCES\Commentaries\bo-དངུལ་ཆུ་ཐོགས་མེད།.md`                                   | **Commentary** — Ngulchu Thokme's *Ocean of Good Explanations* in Tibetan. **Always read this file and extract commentary from it.** Never invent or improvise commentary.                                                                                                                                     |
 
 ---
 

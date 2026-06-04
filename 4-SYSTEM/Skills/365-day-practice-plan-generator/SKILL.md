@@ -165,13 +165,19 @@ The three benefits should form a natural progression: from psychological/emotion
 
 ### Section 3 — དེ་རིང་གི་རྩ་ཚིག (Today's Root Verses with Commentary) [GENERATED]
 
-This section is divided into two distinct subsections: all root verses first, then all commentaries. Do not interleave them.
+Open the section with the literal heading `### ༣། དེ་རིང་གི་རྩ་ཚིག`. The section is divided into two distinct subsections: all root verses first, then all commentaries. Do not interleave them.
+
+> ⚠️ The 3.1/3.2 split below is **organisational only** — do **not** output `#### ༣.༡ རྩ་ཚིག` or `#### ༣.༢ འགྲེལ་བཤད།` headings. The per-verse headers described below are the only headings inside this section.
 
 #### Subsection 3.1 — རྩ་ཚིག (Root Verses)
 
 The user will provide the verses for the day in their prompt. For each verse provided, look up the exact text in `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\0-INBOX\bo-root versions\bo-བློ་ལྡན་ཤེས་རབ།-དངུལ་ཆུ་ཐོགས་མེད་སྤྱོད་འཇུག་རྩ་བ།.md` using the `^chapter-verse` block reference for that verse. List them in sequence:
 
-1. **Header**: `#### **[Tibetan numeral]. ཤླཽཀ་[ordinal]།** (ལེའུ་ [chapter ordinal] ཤླཽཀ་ [verse number])`
+1. **Header**: `#### **[verse number in Tibetan numerals]. ཤླཽཀ་[ordinal word]།** (ལེའུ་ [chapter in Tibetan numerals] ཤླཽཀ་ [verse number in Tibetan numerals])`
+   - Bold contains only the numeral, the ordinal-word verse name, and the ། — the parenthetical reference stays **outside** the bold.
+   - The ordinal word is the verse number spelled out (e.g. ༡༢ → བཅུ་གཉིས་པ, ༢༠ → ཉི་ཤུ་པ, ༣༠ → སུམ་ཅུ་པ).
+   - The verse number is the verse's **real number within the chapter** and must match the day's assigned verse range (the filename `V[start]-[end]`). Never use a document-local or cumulative count.
+   - Example: `#### **༡༢. ཤླཽཀ་བཅུ་གཉིས་པ།** (ལེའུ་ ༡ ཤླཽཀ་ ༡༢)`
 2. **Verse block**: The full Tibetan verse in a blockquote, with `། །` line endings — copied **exactly** from `bo-བློ་ལྡན་ཤེས་རབ།-དངུལ་ཆུ་ཐོགས་མེད་སྤྱོད་འཇུག་རྩ་བ།.md` using the `^chapter-verse` block reference for that verse. **Use the exact text from the file. Never quote verses from memory or training data.**
 
 No commentary, explanation, or editorial text belongs in this subsection — verses only.
@@ -182,12 +188,24 @@ No commentary, explanation, or editorial text belongs in this subsection — ver
 
 For each verse, provide one commentary block in the same order as the verses above:
 
-1. **Header**: `#### **[Tibetan numeral]. ཤླཽཀ་[ordinal]།་འགྲེལ་བཤད།**`
-2. **Commentary text**: 4–8 sentences of Tibetan prose **extracted and summarised from `bo-དངུལ་ཆུ་ཐོགས་མེད།.md`**. The text **must strictly begin with** `འགྲེལ་བཤད།: ཤློཀ་འདིའི་དོན་ནི་` and **must end with** `ཞེས་པའོ། །`. Rewrite in clear, easy-to-read modern Tibetan that a beginner practitioner can understand and apply directly. **Do not invent, improvise, or add material not found in that commentary file.**
+1. **Header**: `#### **[verse number in Tibetan numerals]. ཤླཽཀ་[ordinal word]།** འགྲེལ་བཤད།`
+   - The bold part is **identical** to the corresponding verse header's bold part; ` འགྲེལ་བཤད།` follows **outside** the bold, after a space.
+   - Example: `#### **༡༢. ཤླཽཀ་བཅུ་གཉིས་པ།** འགྲེལ་བཤད།`
+2. **Commentary body**: exactly two bullet points:
+   - `- **ངོས་འཛིན།**: ` — one sentence identifying what kind of root verse this is and what it teaches, ending with `…སྟོན་པའི་རྩ་ཚིག་ཡིན་ནོ། །`
+   - `- **འགྲེལ་བཤད།**: ` — 4–8 sentences of Tibetan prose **extracted and summarised from `bo-དངུལ་ཆུ་ཐོགས་མེད།.md`**, **strictly beginning with** `ཤློཀ་འདིའི་དོན་ནི་` and **ending with** `ཞེས་པའོ། །`. Rewrite in clear, easy-to-read modern Tibetan that a beginner practitioner can understand and apply directly. **Do not invent, improvise, or add material not found in that commentary file.**
 
-Example:
-```
-འགྲེལ་བཤད།: ཤློཀ་འདིའི་དོན་ནི་ལས་དང་ཉོན་མོངས་པའི་འཆིང་བས་འཁོར་བའི་བཙོན་རར་བསྡམས་པའི་སྟོབས་ཀྱིས་སྡུག་བསྔལ་གྱིས་ཉམ་ཐག་པའི་སེམས་ཅན་རྣམས་ཀྱིས་བྱང་ཆུབ་ཀྱི་སེམས་བསྐྱེད་པར་གྱུར་ན། སྐད་ཅིག་དེ་ཉིད་ནས་བཟུང་སྟེ་མིང་བདེ་གཤེགས་རྣམས་ཀྱི་སྲས་ཞེས་བརྗོད་པར་འགྱུར་བ་དང། འཇིག་རྟེན་གྱི་ལྷ་དང་མིར་བཅས་པ་ཐམས་ཅད་ཀྱིས་ཕྱག་བྱ་བའི་གནས་སུ་འགྱུར་ཞེས་པའོ། །
+Worked example (Chapter 1, verse 12) — Subsection 3.1 entry, then its Subsection 3.2 entry:
+```markdown
+#### **༡༢. ཤླཽཀ་བཅུ་གཉིས་པ།** (ལེའུ་ ༡ ཤླཽཀ་ ༡༢)
+
+> དགེ་བ་གཞན་ཀུན་ཆུ་ཤིང་བཞིན་དུ་ནི། ། འབྲས་བུ་བསྐྱེད་ནས་ཟད་པར་འགྱུར་བ་ཉིད། ། བྱང་ཆུབ་སེམས་ཀྱི་ལྗོན་ཤིང་རྟག་པར་ཡང་། ། འབྲས་བུ་འབྱིན་པས་མི་ཟད་འཕེལ་བར་འགྱུར། །
+
+#### **༡༢. ཤླཽཀ་བཅུ་གཉིས་པ།** འགྲེལ་བཤད།
+
+- **ངོས་འཛིན།**: ཤློཀ་འདི་ནི་འབྲས་བུ་ཅན་གྱི་ལྗོན་ཤིང་གི་དཔེའི་སྒོ་ནས་དགེ་རྩ་མི་ཟད་ཅིང་གོང་དུ་འཕེལ་བར་སྟོན་པའི་རྩ་ཚིག་ཡིན་ནོ། །
+
+- **འགྲེལ་བཤད།**: ཤློཀ་འདིའི་དོན་ནི་དགེ་བ་གཞན་ཏེ་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱིས་མ་ཟིན་པ་ཀུན་ནི་ཆུ་ཤིང་བཞིན་དུ་འབྲས་བུ་ལན་གཅིག་བསྐྱེད་ནས་རང་བཞིན་གྱིས་ཟད་པར་འགྱུར་བ་ཉིད་ཡིན་ལ། བྱང་ཆུབ་སེམས་ཀྱི་ལྗོན་ཤིང་ནི་རྟག་པར་ཡང་འབྲས་བུ་འབྱིན་པས་ནམ་ཡང་མི་ཟད་ཅིང་སླར་ཡང་འཕེལ་བར་འགྱུར་རོ་ཞེས་པའོ། །
 ```
 
 > ⚠️ **Critical rule for Section 3**: Both verse text and commentary must come from the source files. If you cannot locate a verse or its commentary in the files, state this explicitly — do not substitute your own words.
@@ -309,8 +327,11 @@ If the user doesn't specify verses and asks only for a day number, consult that 
 - [ ] Section 1 and Section 5 match the fixed prayer texts **exactly** — do not paraphrase or alter
 - [ ] Day number, chapter, and verse numbers are in Tibetan numerals in the header
 - [ ] Exactly 3 benefit points in Section 2 — each title ends with འི་ཕན་ཡོན།
+- [ ] Section 3 — no `#### ༣.༡ རྩ་ཚིག` / `#### ༣.༢ འགྲེལ་བཤད།` headings in the output
+- [ ] Section 3 — verse headers follow `#### **N. ཤླཽཀ་[ordinal]།** (ལེའུ་ C ཤླཽཀ་ N)` and commentary headers follow `#### **N. ཤླཽཀ་[ordinal]།** འགྲེལ་བཤད།` — parenthetical and འགྲེལ་བཤད། **outside** the bold
+- [ ] Section 3 — verse numbers in all headers are the real chapter verse numbers and match the day's assigned range (filename `V[start]-[end]`)
 - [ ] Section 3.1 — verses provided by user; each found in `bo-བློ་ལྡན་ཤེས་རབ།-དངུལ་ཆུ་ཐོགས་མེད་སྤྱོད་འཇུག་རྩ་བ།.md` and copied exactly — not quoted from memory or training data
-- [ ] Section 3.2 — all commentary blocks extracted and summarised from `bo-དངུལ་ཆུ་ཐོགས་མེད།.md` — not invented; each strictly begins with `འགྲེལ་བཤད།: ཤློཀ་འདིའི་དོན་ནི་` and ends with `ཞེས་པའོ། །`
+- [ ] Section 3.2 — each commentary block has the two bullets `- **ངོས་འཛིན།**:` and `- **འགྲེལ་བཤད།**:`; the འགྲེལ་བཤད། bullet is extracted and summarised from `bo-དངུལ་ཆུ་ཐོགས་མེད།.md` — not invented — and strictly begins with `ཤློཀ་འདིའི་དོན་ནི་` and ends with `ཞེས་པའོ། །`
 - [ ] Exactly 1 daily application point in Section 4, focused on real-life challenges
 - [ ] Tibetan spelling and grammar reviewed — check case endings (e.g. ལ་དོན། སུ་དོན། གི་དོན།), verb forms, and particles for correctness throughout all generated sections
 - [ ] Section 4 uses first person singular (ངས་ / ང་རང་) — never collective ང་ཚོས་

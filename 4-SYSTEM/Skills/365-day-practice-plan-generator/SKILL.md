@@ -36,7 +36,7 @@ The output is always saved as a Tibetan-language markdown file.
 Ask the user (or infer from context) for:
 
 1. **Day number** (1–365) — required
-2. **Chapter** (ལེའུ་) and **verse range** (ཤླཽཀ་) — if not provided, look up from the schedule in `references/verse-schedule.md`
+2. **Chapter** (ལེའུ་) and **verse range** (ཤློཀ་) — if not provided, look up from the schedule in `references/verse-schedule.md`
 3. **Save location** — default to the user's Obsidian folder: `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\0-INBOX\Plans\`
 4. **Language for commentary** — default is Tibetan (བོད་སྐད།); English commentary notes can be added if the user asks
 
@@ -91,7 +91,7 @@ The document header is **required in every output** and must appear **before Sec
 ---
 # ཉིན་ [DAY_NUMBER_TIBETAN] - ཉིན་ ༣༦༥ ཡི་སྤྱོད་འཇུག་སློབ་སྦྱོང།
 
-## སྤྱོད་འཇུག་ལེའུ་[CHAPTER_ORDINAL]། ཤླཽཀ་ [VERSE_START_TIBETAN] - [VERSE_END_TIBETAN]
+## སྤྱོད་འཇུག་ལེའུ་[CHAPTER_ORDINAL]། ཤློཀ་ [VERSE_START_TIBETAN] - [VERSE_END_TIBETAN]
 
 ---
 ```
@@ -173,12 +173,12 @@ Open the section with the literal heading `### ༣། དེ་རིང་ག�
 
 The user will provide the verses for the day in their prompt. For each verse provided, look up the exact text in `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\0-INBOX\bo-root versions\bo-བློ་ལྡན་ཤེས་རབ།-དངུལ་ཆུ་ཐོགས་མེད་སྤྱོད་འཇུག་རྩ་བ།.md` using the `^chapter-verse` block reference for that verse. List them in sequence:
 
-1. **Header**: `#### **[verse number in Tibetan numerals]. ཤླཽཀ་[ordinal word]།** (ལེའུ་ [chapter in Tibetan numerals] ཤླཽཀ་ [verse number in Tibetan numerals])`
+1. **Header**: `#### **[verse number in Tibetan numerals]. ཤློཀ་[ordinal word]།** (ལེའུ་ [chapter in Tibetan numerals] ཤློཀ་ [verse number in Tibetan numerals])`
    - Bold contains only the numeral, the ordinal-word verse name, and the ། — the parenthetical reference stays **outside** the bold.
    - The ordinal word is the verse number spelled out (e.g. ༡༢ → བཅུ་གཉིས་པ, ༢༠ → ཉི་ཤུ་པ, ༣༠ → སུམ་ཅུ་པ).
    - The verse number is the verse's **real number within the chapter** and must match the day's assigned verse range (the filename `V[start]-[end]`). Never use a document-local or cumulative count.
-   - Example: `#### **༡༢. ཤླཽཀ་བཅུ་གཉིས་པ།** (ལེའུ་ ༡ ཤླཽཀ་ ༡༢)`
-2. **Verse block**: The full Tibetan verse in a blockquote, with `། །` line endings — copied **exactly** from `bo-བློ་ལྡན་ཤེས་རབ།-དངུལ་ཆུ་ཐོགས་མེད་སྤྱོད་འཇུག་རྩ་བ།.md` using the `^chapter-verse` block reference for that verse. **Use the exact text from the file. Never quote verses from memory or training data.**
+   - Example: `#### **༡༢. ཤློཀ་བཅུ་གཉིས་པ།** (ལེའུ་ ༡ ཤློཀ་ ༡༢)`
+1. **Verse block**: The full Tibetan verse in a blockquote, with `། །` line endings — copied **exactly** from `bo-བློ་ལྡན་ཤེས་རབ།-དངུལ་ཆུ་ཐོགས་མེད་སྤྱོད་འཇུག་རྩ་བ།.md` using the `^chapter-verse` block reference for that verse. **Use the exact text from the file. Never quote verses from memory or training data.**
 
 No commentary, explanation, or editorial text belongs in this subsection — verses only.
 
@@ -188,20 +188,20 @@ No commentary, explanation, or editorial text belongs in this subsection — ver
 
 For each verse, provide one commentary block in the same order as the verses above:
 
-1. **Header**: `#### **[verse number in Tibetan numerals]. ཤླཽཀ་[ordinal word]།** འགྲེལ་བཤད།`
+1. **Header**: `#### **[verse number in Tibetan numerals]. ཤློཀ་[ordinal word]།** འགྲེལ་བཤད།`
    - The bold part is **identical** to the corresponding verse header's bold part; ` འགྲེལ་བཤད།` follows **outside** the bold, after a space.
-   - Example: `#### **༡༢. ཤླཽཀ་བཅུ་གཉིས་པ།** འགྲེལ་བཤད།`
-2. **Commentary body**: exactly two bullet points:
+   - Example: `#### **༡༢. ཤློཀ་བཅུ་གཉིས་པ།** འགྲེལ་བཤད།`
+1. **Commentary body**: exactly two bullet points:
    - `- **ངོས་འཛིན།**: ` — one sentence identifying what kind of root verse this is and what it teaches, ending with `…སྟོན་པའི་རྩ་ཚིག་ཡིན་ནོ། །`
    - `- **འགྲེལ་བཤད།**: ` — 4–8 sentences of Tibetan prose **extracted and summarised from `bo-དངུལ་ཆུ་ཐོགས་མེད།.md`**, **strictly beginning with** `ཤློཀ་འདིའི་དོན་ནི་` and **ending with** `ཞེས་པའོ། །`. Rewrite in clear, easy-to-read modern Tibetan that a beginner practitioner can understand and apply directly. **Do not invent, improvise, or add material not found in that commentary file.**
 
 Worked example (Chapter 1, verse 12) — Subsection 3.1 entry, then its Subsection 3.2 entry:
 ```markdown
-#### **༡༢. ཤླཽཀ་བཅུ་གཉིས་པ།** (ལེའུ་ ༡ ཤླཽཀ་ ༡༢)
+#### **༡༢. ཤློཀ་བཅུ་གཉིས་པ།** (ལེའུ་ ༡ ཤློཀ་ ༡༢)
 
 > དགེ་བ་གཞན་ཀུན་ཆུ་ཤིང་བཞིན་དུ་ནི། ། འབྲས་བུ་བསྐྱེད་ནས་ཟད་པར་འགྱུར་བ་ཉིད། ། བྱང་ཆུབ་སེམས་ཀྱི་ལྗོན་ཤིང་རྟག་པར་ཡང་། ། འབྲས་བུ་འབྱིན་པས་མི་ཟད་འཕེལ་བར་འགྱུར། །
 
-#### **༡༢. ཤླཽཀ་བཅུ་གཉིས་པ།** འགྲེལ་བཤད།
+#### **༡༢. ཤློཀ་བཅུ་གཉིས་པ།** འགྲེལ་བཤད།
 
 - **ངོས་འཛིན།**: ཤློཀ་འདི་ནི་འབྲས་བུ་ཅན་གྱི་ལྗོན་ཤིང་གི་དཔེའི་སྒོ་ནས་དགེ་རྩ་མི་ཟད་ཅིང་གོང་དུ་འཕེལ་བར་སྟོན་པའི་རྩ་ཚིག་ཡིན་ནོ། །
 
@@ -328,7 +328,7 @@ If the user doesn't specify verses and asks only for a day number, consult that 
 - [ ] Day number, chapter, and verse numbers are in Tibetan numerals in the header
 - [ ] Exactly 3 benefit points in Section 2 — each title ends with འི་ཕན་ཡོན།
 - [ ] Section 3 — no `#### ༣.༡ རྩ་ཚིག` / `#### ༣.༢ འགྲེལ་བཤད།` headings in the output
-- [ ] Section 3 — verse headers follow `#### **N. ཤླཽཀ་[ordinal]།** (ལེའུ་ C ཤླཽཀ་ N)` and commentary headers follow `#### **N. ཤླཽཀ་[ordinal]།** འགྲེལ་བཤད།` — parenthetical and འགྲེལ་བཤད། **outside** the bold
+- [ ] Section 3 — verse headers follow `#### **N. ཤློཀ་[ordinal]།** (ལེའུ་ C ཤློཀ་ N)` and commentary headers follow `#### **N. ཤློཀ་[ordinal]།** འགྲེལ་བཤད།` — parenthetical and འགྲེལ་བཤད། **outside** the bold
 - [ ] Section 3 — verse numbers in all headers are the real chapter verse numbers and match the day's assigned range (filename `V[start]-[end]`)
 - [ ] Section 3.1 — verses provided by user; each found in `bo-བློ་ལྡན་ཤེས་རབ།-དངུལ་ཆུ་ཐོགས་མེད་སྤྱོད་འཇུག་རྩ་བ།.md` and copied exactly — not quoted from memory or training data
 - [ ] Section 3.2 — each commentary block has the two bullets `- **ངོས་འཛིན།**:` and `- **འགྲེལ་བཤད།**:`; the འགྲེལ་བཤད། bullet is extracted and summarised from `bo-དངུལ་ཆུ་ཐོགས་མེད།.md` — not invented — and strictly begins with `ཤློཀ་འདིའི་དོན་ནི་` and ends with `ཞེས་པའོ། །`

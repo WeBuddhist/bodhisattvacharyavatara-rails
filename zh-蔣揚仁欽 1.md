@@ -1,3 +1,14 @@
+---
+title: 蔣揚仁欽 1
+title in English: Jiangyang Renqin 1
+author: 蔣揚仁欽
+author in English: Jiangyang Renqin
+file_type: root-text
+language_tag: zh
+chapters: 10
+verse_id_format: chapter-verse
+source_description: "Chinese translation of the Bodhicaryāvatāra by Śāntideva."
+---
 
 第一品 菩提心利益
 1. 法身善逝佛子伴，及諸應敬我悉禮；今當依教略宣說，佛子律儀趨行方。
@@ -367,7 +378,7 @@
 64. 於佛塔像法，誹詆損毀者，吾亦不應瞋，因佛遠諸害。
 65. 於害上師尊，及傷親友者，思彼皆緣生，知已應止瞋。
 66. 情與無情二，俱害諸有情，云何唯瞋人？故我應忍害。
-67. 或由愚損人，或因痴還瞋；此中孰無過？孰為有過者？
+67. 或由愚損人，或因癡還瞋；此中孰無過？孰為有過者？
 68. 因何昔造業，於今受他害？一切既依業，憑何瞋於彼？
 69. 如是體解已，以慈互善待。故吾當一心，勤行諸福善。
 70. 譬如屋著火，燃及他屋時，理當速移棄，助火蔓延草。

@@ -19,14 +19,17 @@ Fixed opening and closing prayers for the Bodhisattva Challenge English stream. 
 
 *REFUGE (recite 3 times)*
 
-> Until reaching enlightenment, I take refuge in the Buddha, the Dharma, and the Sangha.
+> Until reaching the heart of buddhahood,
+> I take refuge in the Buddha,
+> I take refuge in the dharma,
+> And in the sangha of bodhisattvas.
 
 *TAKING THE BODHISATTVA VOW (recite 3 times)*
 
 > Just as the buddhas of the past gave rise to bodhicitta
-> And trained step by step in the bodhisattva conduct,
+> And  step by step in the bodhisattva training,
 > So I too, for the benefit of all beings, will give rise to bodhicitta
-> And train step by step in that same conduct.
+> And train step by step in that same training.
 
 ## Closing
 

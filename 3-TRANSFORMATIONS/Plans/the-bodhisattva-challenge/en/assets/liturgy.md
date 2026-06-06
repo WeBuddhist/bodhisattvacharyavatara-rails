@@ -33,10 +33,10 @@ Fixed opening and closing prayers for the Bodhisattva Challenge English stream. 
 
 ## Closing
 
-> May the precious and supreme bodhicitta
-> Arise in those in whom it has not arisen
-> And in those in whom it has arisen
-> Not decline, but grow ever further
+> May the precious, supreme mind of enlightenment
+> Arise in those who don't have it yet
+> And in those who already have it,
+> May it not decline, but grow ever further
 >
 > 
 > By the merit of this practice,

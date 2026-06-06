@@ -27,9 +27,9 @@ Fixed opening and closing prayers for the Bodhisattva Challenge English stream. 
 *TAKING THE BODHISATTVA VOW (recite 3 times)*
 
 > Just as the buddhas of the past gave rise to bodhicitta
-> And  step by step in the bodhisattva training,
+> And engaged step by step in  bodhisattva training,
 > So I too, for the benefit of all beings, will give rise to bodhicitta
-> And train step by step in that same training.
+> And engage step by step in that same training.
 
 ## Closing
 

@@ -51,6 +51,9 @@ The Way of the Bodhisattva,
 May every wandering being enter
 The bodhisattvas’ ways.  ^10-1
 
-> By the merit of this practice,
-> May all wandering beings, without exception,
-> Enter the path of the bodhisattva.
+
+
+By the merit of practicing
+A Guide to the Conduct of the Bodhisattvas,
+May all living beings come to engage
+In the training of the bodhisattva.

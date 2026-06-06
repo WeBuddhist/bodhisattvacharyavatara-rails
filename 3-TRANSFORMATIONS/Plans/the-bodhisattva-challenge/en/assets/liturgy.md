@@ -33,12 +33,19 @@ Fixed opening and closing prayers for the Bodhisattva Challenge English stream. 
 
 ## Closing
 
-> May the precious, supreme mind of enlightenment
+> May the precious bodhicitta
 > Arise in those who don't have it yet
 > And in those who already have it,
 > May it not decline, but grow ever further
->
-> 
+
+
+
+> བདག་གིས་བྱང་ཆུབ་སྤྱོད་པ་ལ། །
+> འཇུག་པ་རྣམ་པར་བརྩམས་པ་ཡི། །
+> དགེ་བ་གང་དེས་འགྲོ་བ་ཀུན། །
+> བྱང་ཆུབ་སྤྱོད་ལ་འཇུག་པར་ཤོག །
+
+
 > By the merit of this practice,
 > May all wandering beings, without exception,
 > Enter the path of the bodhisattva.

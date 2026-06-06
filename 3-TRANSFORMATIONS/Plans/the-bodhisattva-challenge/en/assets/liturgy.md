@@ -46,6 +46,11 @@ Fixed opening and closing prayers for the Bodhisattva Challenge English stream. 
 > བྱང་ཆུབ་སྤྱོད་ལ་འཇུག་པར་ཤོག །
 
 
+11. By the merit of my having written
+The Way of the Bodhisattva,
+May every wandering being enter
+The bodhisattvas’ ways.  ^10-1
+
 > By the merit of this practice,
 > May all wandering beings, without exception,
 > Enter the path of the bodhisattva.

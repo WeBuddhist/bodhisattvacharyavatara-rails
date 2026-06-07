@@ -36,7 +36,7 @@ Fixed opening and closing prayers for the Bodhisattva Challenge English stream. 
 > May the precious bodhicitta
 > Arise in those who don't have it yet;
 > And in those who already have it,
-> May it not decline, but grow ever further
+> May it not decline, but grow ever further.
 > 
 > By the merit of practicing
 > The Bodhicharyavatara today

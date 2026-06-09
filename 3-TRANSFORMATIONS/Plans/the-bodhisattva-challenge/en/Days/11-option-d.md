@@ -19,7 +19,7 @@ design_principles: "Day 1 feedback applied (excl. #1 sourcing, #7 UI): no AI mar
 
 *Push notification:* Would you help someone who could never thank you?
 
-It feels right to return a favor. Someone helps us, we help them back, and we call that fair. Today's verses go a step further. They describe the bodhisattva, helping strangers who never asked for it and could never pay it back. Shantideva asks a simple question: is anyone kinder than that?
+We praise a person for returning a kindness. Today's verses go further. They point to the bodhisattva, helping total strangers with no claim on them and nothing to give back. Shantideva asks one question: is there any kindness greater than this?
 
 ## Renewing the Bodhisattva Vow
 

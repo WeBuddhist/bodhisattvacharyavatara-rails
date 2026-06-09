@@ -19,7 +19,7 @@ design_principles: "Day 1 feedback applied (excl. #1 sourcing, #7 UI): no AI mar
 
 *Push notification:* Would you help someone who could never thank you?
 
-We all admire someone who pays back a kindness. Today's verses start exactly there, then go further. Shantideva points to the bodhisattva, who helps people without being asked and without owing them anything, and asks: where could you find a goodness, a friend, or a merit to equal that? It is the high point of Chapter One's praise of bodhicitta.
+We respect people who return a favor. Someone helps us, we help them back, and that feels right. Today's verses go a step further. They describe the bodhisattva, who helps people who never asked, and who can never repay them. Shantideva asks a simple question: is anyone kinder than that?
 
 ## Renewing the Bodhisattva Vow
 

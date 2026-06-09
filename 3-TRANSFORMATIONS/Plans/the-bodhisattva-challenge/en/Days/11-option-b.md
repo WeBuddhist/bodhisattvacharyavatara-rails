@@ -10,7 +10,7 @@ generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translati
 design_principles: "Day 1 feedback applied (excl. #1 sourcing, #7 UI): no AI markers, clear context, short and audio-led, relatable to daily life, plain English, liturgy kept up front."
 ---
 
-# Day 11 — No favor owed, no thanks expected
+		# Day 11 — No favor owed, no thanks expected
 
 > Listen to today's practice (5 min) ▷
 > A short reading and the recitations, read aloud. Tap play, or read below.

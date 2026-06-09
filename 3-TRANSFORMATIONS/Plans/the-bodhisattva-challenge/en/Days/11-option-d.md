@@ -9,7 +9,7 @@ voice: "Warm and personal, substantive commentary, very short practice"
 generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-29.md, 1-30.md, 1-31.md). No 2-RAILS/Verses/ packages exist for these verses yet. Built from user feedback on variants A/B/C: A's opening, non-casual From the Tradition, one-to-two-line practice."
 design_principles: "Day 1 feedback applied (excl. #1 sourcing, #7 UI): no AI markers, clear context, short and audio-led, relatable to daily life, plain English, liturgy kept up front."
 ---
-
+   
 # Day 11 — Kindness that asks for nothing back
 
 > Listen to today's practice (5 min) ▷

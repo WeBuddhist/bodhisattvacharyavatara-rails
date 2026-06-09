@@ -3,27 +3,27 @@ day: 11
 chapter: 1
 verses: "1-29 to 1-31"
 status: draft
-option: B
-angle: "Where is there an equal? Bodhicitta as the friend and the merit nothing matches"
-format: "Reflection-led. One guided question the reader sits with. ~6 minutes."
-generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-29.md, 1-30.md, 1-31.md). No 2-RAILS/Verses/ packages exist for these verses yet."
-design_principles: "Day 1 feedback applied (excl. #1 sourcing, #7 UI): no AI markers, clear context, concise, relatable to daily life, plain English, liturgy kept up front, optional audio."
+variant: B
+teaching: "Bodhicitta is beyond compare because it gives joy, removes pain, and clears confusion for beings who never asked and gave nothing in return."
+voice: "Plain and direct"
+generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-29.md, 1-30.md, 1-31.md). No 2-RAILS/Verses/ packages exist for these verses yet. Three variants (A/B/C) deliver the same teaching in different voices."
+design_principles: "Day 1 feedback applied (excl. #1 sourcing, #7 UI): no AI markers, clear context, short and audio-led, relatable to daily life, plain English, liturgy kept up front."
 ---
 
-# Day 11 — The friend you never had to earn
+# Day 11 — No favor owed, no thanks expected
 
-> Listen to today's practice (6 min) ▷
-> Prefer to read? The full text is below.
+> Listen to today's practice (5 min) ▷
+> A short reading and the recitations, read aloud. Tap play, or read below.
 
 ## Opening
 
-*Push notification:* Who has helped you without ever being asked?
+*Push notification:* We praise people who repay a favor. Bodhisattvas were never owed one.
 
-The verses you have been reading all praise bodhicitta. Today they turn that praise into a question, and ask it three times. Where is there a goodness equal to this? Where is there such a friend? Where is there such merit? These are not rhetorical throwaways. Shantideva wants you to actually look for the answer, so today's reading is built around one of those questions.
+This is the high point of Chapter One's praise of the awakening mind. The mind does three things at once: it gives joy to those who have none, removes their suffering, and clears the confusion behind it. Nothing else does all three. And it does them for people who never asked and gave nothing in return.
 
 ## Renewing the Bodhisattva Vow
 
-Start here every day. Read slowly, or follow along with the audio.
+Begin here every day. Say each part slowly. You can read it or follow the audio.
 
 *Mind Training (recite 3 times)*
 
@@ -71,7 +71,7 @@ Start here every day. Read slowly, or follow along with the audio.
 
 ## From the Tradition
 
-Sazang Mati Panchen reads the three questions as one claim: nothing in ordinary life is built the way this mind is built. A good friend helps you, but usually after you have helped them, or because the bond runs both ways. That is the normal shape of a friendship, and there is nothing wrong with it. But the friend the verse points to gives first, gives to strangers, and waits for no return. Sazang Mati Panchen says the bodhisattva acts without expecting anything back, not even the quiet hope that being good will pay off later. That is the part most of us miss. We can picture selfless help. It is harder to picture help with no flicker of self in it at all. The questions in the verse are asking you to search your own experience for something that matches, and to notice that you come up short.
+The last verse runs a simple comparison. In daily life we respect someone who returns a favor. They owed it, and they came through. Fair enough. But the bodhisattva owes nothing. No one helped them first. No one asked. They act anyway, moved by compassion. Sazang Mati Panchen adds the sharp point: they expect no return, and not even a karmic reward later. So set the two side by side. Repaying a debt is good. Helping where there is no debt, no request, and no payoff is a different thing entirely. That is the standard the verse sets.
 
 ## Aspiration and Dedication
 
@@ -87,4 +87,4 @@ Sazang Mati Panchen reads the three questions as one claim: nothing in ordinary 
 
 ## Today's Practice Challenge
 
-Sit for one minute with the verse's own question, made personal: who has helped me without my having earned it? A parent, a teacher, a stranger, someone whose name you never learned. Let one face come to mind and stay there for a breath or two. You do not need to do anything about it today. Just notice that this kind of help was given to you, and that you are now being asked to become a person who gives it the same way.
+Do one helpful thing today that no one asked you to do, for someone who cannot pay you back. Clear a colleague's desk, carry a bag for a stranger, check in on someone out of the blue. Keep it small and keep it quiet. Afterward, notice if part of you wanted credit for it. Do not fight that. Just see it, and let the act stand on its own.

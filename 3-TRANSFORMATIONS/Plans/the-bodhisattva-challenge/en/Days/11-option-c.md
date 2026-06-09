@@ -3,27 +3,27 @@ day: 11
 chapter: 1
 verses: "1-29 to 1-31"
 status: draft
-option: C
-angle: "Kindness no one asked for, and no hidden payoff"
-format: "Ultra-short, micro-practice. Tight reading, one small experiment. ~4 minutes."
-generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-29.md, 1-30.md, 1-31.md). No 2-RAILS/Verses/ packages exist for these verses yet."
-design_principles: "Day 1 feedback applied (excl. #1 sourcing, #7 UI): no AI markers, clear context, very short, strongly relatable to daily life, plain English, liturgy kept up front, audio offered."
+variant: C
+teaching: "Bodhicitta is beyond compare because it gives joy, removes pain, and clears confusion for beings who never asked and gave nothing in return."
+voice: "Contemplative"
+generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-29.md, 1-30.md, 1-31.md). No 2-RAILS/Verses/ packages exist for these verses yet. Three variants (A/B/C) deliver the same teaching in different voices."
+design_principles: "Day 1 feedback applied (excl. #1 sourcing, #7 UI): no AI markers, clear context, short and audio-led, relatable to daily life, plain English, liturgy kept up front."
 ---
 
-# Day 11 — Good done before anyone asks
+# Day 11 — The goodness that has no equal
 
-> Listen to today's practice (4 min) ▷
-> Short reading and recitations. Read below if you prefer.
+> Listen to today's practice (5 min) ▷
+> A short reading and the recitations, read aloud. Tap play, or read below.
 
 ## Opening
 
-*Push notification:* We praise people who say thank you. What about people who go first?
+*Push notification:* Where is there a friend who gives first, and asks for nothing?
 
-Chapter One has been praising bodhicitta for many days. Today it ends with a down-to-earth comparison you already understand. Just three verses, and the last one is the one to keep.
+Chapter One has been gathering toward this. Today the praise of the awakening mind comes to rest on a single thought. This mind meets people who have no happiness and fills them with joy, cuts through the pain they already carry, and clears the confusion underneath. And it turns toward beings who never asked for it and offered nothing first. The verses ask, quietly, where anything like it could be found.
 
 ## Renewing the Bodhisattva Vow
 
-Begin here. Recite slowly, or follow the audio.
+Begin here every day. Say each part slowly. You can read it or follow the audio.
 
 *Mind Training (recite 3 times)*
 
@@ -71,7 +71,7 @@ Begin here. Recite slowly, or follow the audio.
 
 ## From the Tradition
 
-The last verse runs a simple comparison. In daily life we respect someone who returns a favor. They owed you one, and they came through. Fair enough. But the bodhisattva owes no one anything. Nobody did them a kindness first, and nobody asked them for help. They go first anyway. Sazang Mati Panchen adds the detail that makes it sharp: they act without expecting a return, and without even the quiet hope of a karmic reward later. So measure the two side by side. Repaying a debt is good. Helping where there is no debt, no request, and no payoff is something else entirely. That is the bar the verse sets.
+Sazang Mati Panchen lets the comparison breathe. We honor a person who repays a kindness, and rightly so, for they could have let the debt slip and they did not. But the bodhisattva carries no debt at all. No one helped them first. No one came asking. Compassion alone moves them to step forward. And here Sazang Mati Panchen says something worth sitting with: they act without expecting a return, not even the faint hope of a reward ripening later. Most of our own goodness keeps a small place for ourselves, a wish to be seen, a quiet warmth at being the one who helped. The verse points beyond that, toward a giving so complete that nothing of self remains in it.
 
 ## Aspiration and Dedication
 
@@ -87,4 +87,4 @@ The last verse runs a simple comparison. In daily life we respect someone who re
 
 ## Today's Practice Challenge
 
-Do one helpful thing today that no one asked you to do, for someone who cannot pay you back. Clear a colleague's dishes, carry something for a stranger, send a message to someone who would not expect to hear from you. Keep it small and keep it quiet. Afterward, notice if part of you wanted to be seen doing it. You do not have to fix that today. Just see it, and let the small act stand on its own.
+Sometime today, do a small kindness for someone who cannot return it, and let no one know it was you. Then pause for a breath and look honestly at what you hoped for, even the smallest thing: a thank-you, a good feeling, a sense of being the kind of person who helps. You do not have to be free of that today. It is enough to see it clearly, and to know the direction the practice is pointing.

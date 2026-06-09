@@ -72,7 +72,7 @@ accessed_files:
 > 
 > Once this is done, the plugin will correctly recognize and use the skills you have stored in `4-SYSTEM/Skills/` (such as `epub-to-markdown`, `format-commentary`, etc.).
 > 
-> I have updated the [[AGENTS.md]] file to record this preference for future sessions. Currently, your skills are located in `4-SYSTEM/Skills/`, but they are not yet visible to me because the plugin is still looking in its default state folder.
+> I have updated the [[gemini-scribe/AGENTS]] file to record this preference for future sessions. Currently, your skills are located in `4-SYSTEM/Skills/`, but they are not yet visible to me because the plugin is still looking in its default state folder.
 
 --- 
 ## User
@@ -148,6 +148,6 @@ Note: To fully transition away from the `4-SYSTEM/gemini-scribe/` subfolder, the
 > 3.  **Delete** the now-empty `4-SYSTEM/gemini-scribe/` folder.
 > 4.  **Restart Obsidian**.
 > 
-> Since you have already updated the **Plugin State Folder** setting to `4-SYSTEM`, the plugin will look for its data directly in that folder upon restart. I have updated [[AGENTS.md]] with a note about this move for continuity.
+> Since you have already updated the **Plugin State Folder** setting to `4-SYSTEM`, the plugin will look for its data directly in that folder upon restart. I have updated [[gemini-scribe/AGENTS]] with a note about this move for continuity.
 
 --- 

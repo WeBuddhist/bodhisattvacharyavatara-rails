@@ -120,7 +120,7 @@ These skills populate `2-RAILS/` with the structured context that translation an
 **Purpose:** Generate a verse-specific summary file by extracting explanations from provided commentaries, summarizing each commentary, and creating a combined synthesis.
 **Inputs:** Verse ID, list of commentary files, output path/track.
 **Outputs:** A summary file under `3-TRANSFORMATIONS/Translations/<track>/Verses/<verse-id>.md`.
-→ [`verse-commentary-summarizer/SKILL.md`](verse-commentary-summarizer/SKILL.md)
+→ [`verse-commentary-summarizer/SKILL.md`](4-SYSTEM/Skills/verse-commentary-summarizer/SKILL.md)
 
 ---
 

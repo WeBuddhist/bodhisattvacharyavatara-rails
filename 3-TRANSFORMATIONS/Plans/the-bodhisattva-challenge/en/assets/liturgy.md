@@ -10,31 +10,38 @@ Fixed opening and closing prayers for the Bodhisattva Challenge English stream. 
 
 ## Opening
 
-*MIND TRAINING (recite 3 times)*
+## Mind Training
+*(recite 3 times)*
 
-> May all beings enjoy happiness and the causes of happiness.
-> May all beings be free from suffering and the causes of suffering.
-> May all beings never be separated from supreme happiness, free from suffering.
-> May all beings rest in immeasurable equanimity, free from attachment and aversion.
+May all beings enjoy happiness and the causes of happiness.
+May all beings be free from suffering and the causes of suffering.
+May all beings never be separated from supreme happiness, free from suffering.
+May all beings rest in great equanimity, free from attachment and aversion to those near and far.
 
-*REFUGE (recite 3 times)*
+## Refuge
+*(recite 3 times)*
 
-> Until I reach the heart of awakening, I take refuge in the Buddha, the Dharma, and the Sangha.
+Until reaching the heart of buddhahood,
+I take refuge in the Buddha,
+I take refuge in the dharma,
+And in the sangha of bodhisattvas.
 
-*TAKING THE BODHISATTVA VOW (recite 3 times)*
+## Taking the Bodhisattva Vow
+*(recite 3 times)*
 
-> Just as the buddhas of the past gave rise to bodhicitta
-> And trained step by step in the bodhisattva conduct,
-> So I too, for the benefit of all beings, will give rise to bodhicitta
-> And train step by step in that same conduct.
+Just as the buddhas of the past gave rise to bodhicitta
+And engaged step by step in the training of the bodhisattvas,
+So I too, for the benefit of all beings, will give rise to bodhicitta
+And engage step by step in that same training.
 
 ## Closing
 
-> May the precious and supreme bodhicitta —
-> Where it has not yet arisen, may it arise;
-> Where it has arisen, may it not decline,
-> But grow ever further.
->
-> By the merit of this practice,
-> May all wandering beings, without exception,
-> Enter the path of the bodhisattva.
+May the precious bodhicitta
+Arise in those who don't have it yet;
+And in those who already have it,
+May it not decline, but grow ever further.
+
+By the merit of practicing
+The Bodhicharyavatara today
+May all living beings come to engage
+In the conduct of the bodhisattvas.

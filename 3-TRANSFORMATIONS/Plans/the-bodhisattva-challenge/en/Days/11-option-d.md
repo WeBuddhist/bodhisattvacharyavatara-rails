@@ -71,15 +71,9 @@ Begin here every day. Say each part slowly. You can read it or follow the audio.
 
 ## From the Tradition
 
-You help a friend move all day. That evening, you catch yourself hoping they noticed how much you did.
+Think of a time you quietly did something kind for someone you love. You made dinner, or tidied up without being asked. And somewhere underneath, you were hoping they would notice. When the thank-you didn't come, you felt a little let down.
 
-That small hope is what this verse measures against.
-
-The verse praises the bodhisattva for helping people who never asked. A careful reader can stop there.
-
-Sazang Mati Panchen, a fourteenth-century commentator on this text, goes a step further. He says the bodhisattva expects no return. Not a thank-you. Not even the quiet sense that the good deed will ripen into merit later.
-
-That last part is what the verse alone does not give you. Most kindness keeps a small seat for the self. This points past even that.
+That small hope is gentle, and very human. The verse praises the bodhisattva for helping people who never asked, and a careful reader can stop there. But Sazang Mati Panchen, a fourteenth-century commentator on this text, takes it one step further. He points out that the bodhisattva helps without waiting for anything back, not even the quiet hope that the kindness will someday return to them as good fortune. That last part is what the verse alone does not tell us. Most of our kindness still keeps a little room for ourselves. This points gently past even that.
 
 ## Aspiration and Dedication
 

@@ -71,7 +71,15 @@ Begin here every day. Say each part slowly. You can read it or follow the audio.
 
 ## From the Tradition
 
-Sazang Mati Panchen draws out what makes the final verse land. In the world, we admire a person who repays a kindness, because they were under an obligation and they honored it. The bodhisattva stands outside that logic altogether. No one did them a favor first, no one petitioned them for help, and yet, moved by compassion alone, they act for the welfare of beings they have never met. Sazang Mati Panchen then names the quality that completes the picture: the bodhisattva acts without expecting any return, and without even the subtle anticipation that this goodness will ripen into merit for themselves. Ordinary generosity, however sincere, tends to keep a small place for the self, a wish to be appreciated or to feel virtuous. The verse points toward a giving in which even that last trace has been let go.
+You help a friend move all day. That evening, you catch yourself hoping they noticed how much you did.
+
+That small hope is what this verse measures against.
+
+The verse praises the bodhisattva for helping people who never asked. A careful reader can stop there.
+
+Sazang Mati Panchen, a fourteenth-century commentator on this text, goes a step further. He says the bodhisattva expects no return. Not a thank-you. Not even the quiet sense that the good deed will ripen into merit later.
+
+That last part is what the verse alone does not give you. Most kindness keeps a small seat for the self. This points past even that.
 
 ## Aspiration and Dedication
 

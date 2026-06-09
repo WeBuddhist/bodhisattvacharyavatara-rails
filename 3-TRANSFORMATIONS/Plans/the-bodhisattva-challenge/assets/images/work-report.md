@@ -7,13 +7,13 @@ status: draft
 ---
 
 # Image Assets — Work Report
-## The Bodhisattva Challenge: *སྤྱོད་འཇུག་སློབ་སྦྱོང། ཉིན་ ༣༦༥།*
+## The Bodhisattva Challenge
 
 ---
 
 ## Overview
 
-- 11 numbered illustrations: `Bodhicharyavatara_00` – `Bodhicharyavatara_10`
+- 11 numbered illustrations
 - Shared visual language: meditating figure in prayer, semi-transparent body revealing an interior world, expansive natural landscape behind
 - Consistent style: grain texture, soft gradients, warm or cool palette per image
 - `_00` = cover/intro; `_01`–`_10` = one image per chapter of the *Bodhisattvacaryāvatāra*

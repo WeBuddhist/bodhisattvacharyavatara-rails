@@ -19,7 +19,7 @@ design_principles: "Day 1 feedback applied (excl. #1 sourcing, #7 UI): no AI mar
 
 *Push notification:* Would you help someone who could never thank you?
 
-Picture someone you will never meet, on the worst day of their life. They didn't ask for your help. They can't pay you back. Most of us would hesitate. Today's verses describe a person who wouldn't, not for a second, and then ask a simple question: is there anything in the world to compare with that?
+Picture someone you will never meet, on the worst day of their life. They didn't ask for your help, and they could never pay you back. Most of us would hesitate. Today's verses describe a person who helps anyway, without a second thought, and then asks a simple question: who could possibly be more admirable than that?
 
 ## Renewing the Bodhisattva Vow
 

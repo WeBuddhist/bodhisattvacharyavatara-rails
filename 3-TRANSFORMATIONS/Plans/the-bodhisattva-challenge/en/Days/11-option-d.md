@@ -17,9 +17,9 @@ design_principles: "Day 1 feedback applied (excl. #1 sourcing, #7 UI): no AI mar
 
 ## Opening
 
-*Push notification:* Who has helped you, knowing you could never repay them?
+*Push notification:* Would you help someone who could never thank you?
 
-For days now you have heard why the awakening mind is praised so highly. Today that praise reaches its peak. This mind brings joy to people who have none, lifts away their pain, and clears the confusion underneath, and it does all of this for beings who never asked and never gave anything in return. Nothing in ordinary life is built quite like it.
+Picture someone you will never meet, on the worst day of their life. They didn't ask for your help. They can't pay you back. Most of us would hesitate. Today's verses describe a person who wouldn't, not for a second, and then ask a simple question: is there anything in the world to compare with that?
 
 ## Renewing the Bodhisattva Vow
 

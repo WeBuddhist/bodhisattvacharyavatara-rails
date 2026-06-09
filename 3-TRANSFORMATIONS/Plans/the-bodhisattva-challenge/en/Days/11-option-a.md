@@ -10,6 +10,7 @@ generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translati
 design_principles: "Day 1 feedback applied (excl. #1 sourcing, #7 UI): no AI markers, clear context, short and audio-led, relatable to daily life, plain English, liturgy kept up front."
 ---
 
+
 # Day 11 — One mind that does three things at once
 
 > Listen to today's practice (5 min) ▷

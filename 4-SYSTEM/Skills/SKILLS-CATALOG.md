@@ -195,3 +195,9 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 ### `english-plan-generator` **[exists]**
 **Purpose:** Generate a complete single-day Bodhisattvacharyavatara practice plan session document in the 6-section format defined by `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/requirements.md`. Supersedes `en-365-day-practice-plan-generator` for the Bodhisattva Challenge English stream. Saves to `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/`.
 → [`english-plan-generator/SKILL.md`](english-plan-generator/SKILL.md)
+
+### `plan-day-feedback-revision` **[exists]**
+**Purpose:** Audit an existing Bodhisattva Challenge plan day file against the Day-1 tester feedback criteria and revise it in place to fix every content issue (AI-slop, Tier 3 accessibility, orientation, liturgy prominence, translation flags, credibility, reading load) without breaking the 6-section format or the citation chain.
+**Inputs:** A target day file under `…/en/Days/`, the `english-plan-generator` contract, the Day-1 feedback summary, the Tier 3 persona, the liturgy asset, and the verse's source rail (preferred) or interim commentary summary.
+**Outputs:** The revised day file overwritten in place at `…/en/Days/[DAY].md` (with a `revision` frontmatter block), plus an audit record at `…/en/feedback-audit/[DAY].md`.
+→ [`plan-day-feedback-revision/SKILL.md`](plan-day-feedback-revision/SKILL.md)

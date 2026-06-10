@@ -6,7 +6,7 @@ status: draft
 variant: A
 generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-32.md, 1-33.md, 1-34.md). No 2-RAILS/Verses/ packages exist for these verses yet."
 ---
-
+3
 # Day 12 — The charity that earns praise, and what earns more
 
 ## Opening

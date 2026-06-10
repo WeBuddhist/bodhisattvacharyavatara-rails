@@ -168,6 +168,8 @@ Rules:
 - Rich text is allowed: bold the key phrase, and a short two- or three-item list is fine when it genuinely aids clarity (for example, naming the parts of a single idea). Do not let a list become a survey of separate points.
 - Source: `en-ai/Verses/<verse-id>.md` (interim) or `2-RAILS/Verses/<verse-id>.md` (preferred). Use the commentators' specific observations, not a generic synthesis.
 - Name the commentator when making a specific attribution (Gyaltsab Darma Rinchen, Sazang Mati Panchen, or Ngulchu Thokme Zangpo). The name alone is usually enough; do not pad with biography ("a Tibetan master who lived about 700 years ago" is too much), and never refer to them vaguely as "an old teacher". Do not open with an attribution phrase.
+- Distinguish what a commentator says from a scripture they quote. If the point rests on a sutra or text the commentator cites (not their own observation), say so ("Ngulchu Thokme points to a sutra…"), not "Ngulchu Thokme gives an example".
+- When the note rests on a named scripture, name it (English title, no diacritics, italicised) so the claim is verifiable and feels grounded, e.g. the *Sutra of the Mudra of Entering the Definite and Indefinite*. The title is in the rails; do not invent or guess one.
 - Define any unavoidable term in plain language, in context, in one clause. No scholastic labels or taxonomy names.
 - End on the single idea, stated plainly (a bolded one-line takeaway is encouraged).
 - The note must come from the rails. If the tradition does not say it, do not say it.

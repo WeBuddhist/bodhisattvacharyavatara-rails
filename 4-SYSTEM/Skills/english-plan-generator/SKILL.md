@@ -168,7 +168,7 @@ Rules:
 - Rich text is allowed: bold the key phrase, and a short two- or three-item list is fine when it genuinely aids clarity (for example, naming the parts of a single idea). Do not let a list become a survey of separate points.
 - Source: `en-ai/Verses/<verse-id>.md` (interim) or `2-RAILS/Verses/<verse-id>.md` (preferred). Use the commentators' specific observations, not a generic synthesis.
 - Name the commentator when making a specific attribution (Gyaltsab Darma Rinchen, Sazang Mati Panchen, or Ngulchu Thokme Zangpo). The name alone is usually enough; do not pad with biography ("a Tibetan master who lived about 700 years ago" is too much), and never refer to them vaguely as "an old teacher". Do not open with an attribution phrase.
-- Distinguish what a commentator says from a scripture they quote. If the point rests on a sutra or text the commentator cites (not their own observation), say so ("Ngulchu Thokme points to a sutra…"), not "Ngulchu Thokme gives an example".
+- Distinguish what a commentator says from a scripture they relay. If the point rests on a sutra or text (not the commentator's own observation), say so plainly ("Ngulchu Thokme shares a teaching from the *Sutra of…*"), not "gives an example" (he is not the author), not figurative "points to a sutra", and not "quotes a sutra" (one quotes *from* a text, not a whole sutra). Attribute the claim itself to the source ("the sutra says…"), not to the commentator.
 - When the note rests on a named scripture, name it (English title, no diacritics, italicised) so the claim is verifiable and feels grounded, e.g. the *Sutra of the Mudra of Entering the Definite and Indefinite*. The title is in the rails; do not invent or guess one.
 - Define any unavoidable term in plain language, in context, in one clause. No scholastic labels or taxonomy names.
 - End on the single idea, stated plainly (a bolded one-line takeaway is encouraged).
@@ -249,7 +249,7 @@ Write for a practicing Buddhist who, in most cases, **reads English at about A2 
 
 **Rare or technical terms** — "cyclic existence", "two accumulations", "the engaging mind of enlightenment" — are avoided entirely. Do not reach for a word you would then have to explain.
 
-**No idioms or figurative phrases.** Readers are mostly non-native and read literally. Avoid expressions that do not mean what they literally say: "look up to", "hold up", "rush past it", "weigh the same", "plant the seed", "turns cold", "a good heart", "counts for". Use plain, literal wording ("respect", "show", "matters more", "creates good"). Concrete narrated scenes are fine; fixed figurative idioms are not.
+**No idioms or figurative phrases.** Readers are mostly non-native and read literally. Avoid expressions that do not mean what they literally say: "look up to", "hold up", "rush past it", "weigh the same", "plant the seed", "turns cold", "a good heart", "counts for", "points to (a source)". Say "quotes", "uses", "respects", "matters more" instead. Use plain, literal wording ("respect", "show", "matters more", "creates good"). Concrete narrated scenes are fine; fixed figurative idioms are not.
 
 **No diacritics** in English prose. Plain spellings only.
 

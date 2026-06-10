@@ -1817,31 +1817,25 @@
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-77]]
 
+## ཉིན་ ༢༠༢།
+
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-1]]
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-2]]
 
----
-
-## ཉིན་ ༢༠༢།
+## ཉིན་ ༢༠༣།
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-3]]
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-4]]
 
----
-
-## ཉིན་ ༢༠༣།
+## ཉིན་ ༢༠༤།
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-5]]
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-6]]
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-7]]
-
----
-
-## ཉིན་ ༢༠༤།
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-8]]
 

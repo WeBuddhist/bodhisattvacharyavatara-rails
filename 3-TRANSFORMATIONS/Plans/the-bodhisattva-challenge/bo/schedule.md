@@ -249,6 +249,8 @@
 
 ## ཉིན་ ༢༨།
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-33]]
+
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-34]]
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-35]]

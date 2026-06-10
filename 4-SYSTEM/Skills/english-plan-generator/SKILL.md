@@ -2,7 +2,7 @@
 name: english-plan-generator
 description: Generate a complete single-day Bodhisattvacharyavatara practice plan session document in the 6-section format defined in 3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/requirements.md. Saves to 3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/.
 ---
-
+	
 # English Practice Plan Generator — The Bodhisattva Challenge
 
 This skill generates one day's session document for the 365-day Bodhisattva Challenge English stream. Read that file in full before generating anything. All rules there are binding.

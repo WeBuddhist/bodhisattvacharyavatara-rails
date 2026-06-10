@@ -17,7 +17,7 @@ These six principles override older habits. When a detailed rule below seems to 
 2. **A narrated voice, not commentary.** Speak *to* the reader, in the second person, in the present tense. Set a scene and let them stand inside it. Do not write *about* the teaching from the outside ("The commentator says... He explains..."). Show first, then name.
 3. **One idea per day.** Carry a single concept the whole way through. Do not survey the verses.
 4. **The practice challenge is the centre.** Testers respond to it most. Keep it short, concrete, and doable. Make it clearly the one task for the day. Do not bury it under other instructions.
-5. **Rich text helps.** Use bold for the key phrase, short line breaks, and the occasional short list so a phone reader can scan. Format with purpose, never for decoration.
+5. **Use rich text generously.** Testers asked for this repeatedly. Bold the key phrase and the takeaway, break the text into short beats with blank lines, and use a short two- or three-item list for a contrast or the parts of one idea. Keep it purposeful, but lean in. The only thing to avoid is true clutter (a bold word on every line, or whole bolded sentences).
 6. **Light load.** The whole session is a five-minute read. The liturgy and one challenge are the practice. Do not pile on extra tasks or long passages.
 
 ---
@@ -249,7 +249,15 @@ Write for a practicing Buddhist who, in most cases, **reads English at about A2 
 
 **Rare or technical terms** — "cyclic existence", "two accumulations", "the engaging mind of enlightenment" — are avoided entirely. Do not reach for a word you would then have to explain.
 
-**No idioms or figurative phrases.** Readers are mostly non-native and read literally. Avoid expressions that do not mean what they literally say: "look up to", "hold up", "rush past it", "weigh the same", "plant the seed", "turns cold", "a good heart", "counts for", "points to (a source)". Say "quotes", "uses", "respects", "matters more" instead. Use plain, literal wording ("respect", "show", "matters more", "creates good"). Concrete narrated scenes are fine; fixed figurative idioms are not.
+**No idioms or figurative phrases.** Readers are mostly non-native and read literally. Avoid expressions that do not mean what they literally say: "look up to", "hold up", "rush past it", "weigh the same", "plant the seed", "turns cold", "a good heart", "counts for", "points to (a source)". Say "quotes", "uses", "respects", "matters more" instead.
+
+**Clear, complete sentences.** Read each line aloud and make sure it flows.
+
+- Avoid a vague "it" with no clear thing it refers to ("you feel it. Real respect." reads better as "you feel a quiet respect").
+- Do not lean on sentence fragments only for emphasis when a full sentence is cleaner. (A short fragment like "A vast kindness." is fine once; a string of them is not.)
+- In a contrast, name the subject once in the lead-in ("two thoughts you can have toward a bodhisattva:") rather than repeating it awkwardly ("toward that same bodhisattva").
+- Do not repeat the same word in neighbouring lines (e.g. "respect… respect"); vary it ("admire… respect").
+- Name the karmic result "merit", not the noun "good" (see above). Use plain, literal wording ("respect", "show", "matters more", "creates good"). Concrete narrated scenes are fine; fixed figurative idioms are not.
 
 **No diacritics** in English prose. Plain spellings only.
 
@@ -276,8 +284,9 @@ Write for a practicing Buddhist who, in most cases, **reads English at about A2 
 - `##` — each of the six sections. No `###` or lower.
 - **No helper / descriptor lines under section headings.** Do not add an italic "what this section is" line beneath a heading (e.g. *"A note from the teachers who explained this text."*). The heading stands on its own; the content begins directly.
 - Verse and liturgy text: block-quote format (`>`), Tibetan and English each on their own line.
-- **Bold** is used to highlight the key phrase or takeaway, the micro-instruction in 2.6, and a term on first use. Use it sparingly enough that it still draws the eye.
-- **Short lists** (two to three items) are allowed where they genuinely aid scanning. Do not use a list to smuggle in a survey of multiple points.
+- **Bold** the key phrase, the closing takeaway, the micro-instruction in 2.6, and a term on first use. Use it generously across the day file (testers asked for more rich text), but not so often it stops drawing the eye: no bolded full sentences, no bold word in every line.
+- **Short lists** (two to three items) are encouraged where they aid scanning, e.g. a contrast or the parts of one idea. Do not use a list to smuggle in a survey of multiple points.
+- **Line breaks.** Break prose into short beats with blank lines between them, rather than one dense block.
 - **No em dashes (—) in prose.** They read as machine-written. Use short sentences, commas, or a period instead. The only permitted `—` is the structural separator in the day-title line.
 - No horizontal rules (`---`) between sections within a day file.
 
@@ -344,7 +353,8 @@ A domain specialist must be able to point to the passage in the rails that groun
 - [ ] One concept carried across the whole file (and, for option sets, shared across all options).
 - [ ] A2 reading level: short sentences, everyday words, no stacked clauses.
 - [ ] Buddhist terms used directly, never explained or glossed. No idioms or figurative phrases; wording is plain and literal.
-- [ ] Rich text used with purpose: a bolded key phrase/takeaway, helpful line breaks, at most a short list where it aids scanning.
+- [ ] Rich text used generously and purposefully: bolded key phrase and takeaway, short beats with line breaks, a short list for a contrast where it helps.
+- [ ] Sentences read cleanly aloud: no vague "it", no string of fragments, no awkward "that same X" repetition, no repeated word in neighbouring lines.
 - [ ] No em dashes in prose (only the day-title separator).
 - [ ] No diacritics in English prose.
 - [ ] No sub-headers below `##` level. No horizontal rules between sections.
@@ -361,8 +371,10 @@ A domain specialist must be able to point to the passage in the rails that groun
 - **Voice:** added a narrated, second-person, present-tense voice; recommended the receiver's-eye-view device; banned commentary-textbook register in 2.4.
 - **Section headings stand alone (later same-day revision):** an earlier draft of this revision required a short italic helper line under each heading; that was removed at the editor's direction. Headings now stand on their own with no descriptor line. Also banned cross-day references and vague unnamed "old teacher" mentions, and trimmed commentator identification to the name alone (no biography).
 - **No glosses, no idioms (later same-day revision):** Buddhist terms are now used directly and never explained or glossed (the audience knows them); the term a commentary's point depends on must be kept, not softened into a vague phrase; and idioms / figurative expressions are banned in favour of plain literal wording, since most readers are non-native.
-- **Formatting:** reversed the old bans on lists and on bold-for-emphasis. Rich text (bold key phrase, line breaks, short lists) is now allowed and encouraged where it aids a phone reader. Added an em-dash ban in prose.
-- **Section labels:** added the required short plain-language helper line under each section (fixes tester confusion about section purpose).
+- **Formatting:** reversed the old bans on lists and on bold-for-emphasis. Rich text is now used generously and purposefully (testers asked for more): bold the key phrase and takeaway, break prose into short beats with line breaks, use short contrast lists. Added an em-dash ban in prose.
+- **Karmic result is "merit":** name it "merit" (a known term), not the abstract noun "good" ("creates great good" etc.).
+- **Scripture citation:** when a note rests on a sutra a commentator relays, name the sutra (English title, no diacritics, from the rails) and attribute the claim to the source ("the sutra says…"); distinguish what a commentator says from what they relay; say "shares a teaching from", not "gives an example", "points to", or "quotes a sutra".
+- **Sentence-level clarity:** read lines aloud; no vague "it", no strings of fragments, no awkward "that same X" repetition, no repeated word in neighbouring lines.
 - **Practice challenge (2.6):** tightened to one short, marked, embodied action; reinforced "the centre of the session".
 - **Light load:** added the five-minute, one-task principle.
 - **Comparison options:** added guidance to share one concept across options and vary only scene and action.

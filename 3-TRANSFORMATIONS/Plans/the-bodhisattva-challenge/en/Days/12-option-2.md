@@ -7,7 +7,7 @@ variant: "Option 2 — immersive voice, 'received coin' scene (anchor)"
 concept: "Sazang Mati Panchen: the manner of giving is part of the gift. (Shared across all three Day 12 options.)"
 generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-32.md, 1-33.md, 1-34.md). No 2-RAILS/Verses/ packages exist for these verses yet. Written at A2 English, second-person immersive narration, rich-text formatting, one concept, one short practice action, per the skill plus Day 2 feedback. This option's voice is the anchor for the set; options 1-3 share the concept and the immersive voice, and differ only in the opening scene and the practice action."
 ---
-
+ 
 # Day 12 — Same gift, two very different hands
 
 ## Opening

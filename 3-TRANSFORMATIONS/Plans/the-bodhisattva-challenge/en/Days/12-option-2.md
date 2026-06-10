@@ -22,8 +22,6 @@ Today's verses begin right here. First an ordinary giver, then a **bodhisattva**
 
 ## Renewing the Bodhisattva Vow
 
-*We say this short promise every day. Read it aloud if you can.*
-
 > **Mind Training** *(recite 3 times)*
 >
 > May all beings enjoy happiness and the causes of happiness.
@@ -46,8 +44,6 @@ Today's verses begin right here. First an ordinary giver, then a **bodhisattva**
 > And engage step by step in that same training.
 
 ## Today's Verses
-
-*Today's lines. First in Tibetan, then in simple English.*
 
 > འགྲོ་བ་ཉུང་ཟད་ནར་མའི་ཟས་སྦྱོར་བ། །
 > སྐད་ཅིག་ཟས་ཙམ་སྦྱིན་པར་བྱེད་པ་དང་། །
@@ -72,8 +68,6 @@ Today's verses begin right here. First an ordinary giver, then a **bodhisattva**
 
 ## From the Tradition
 
-*A short look from the old teachers.*
-
 Come back to those two gifts.
 
 In today's verse, a man gives food to a few hungry people. But he gives it roughly, and turns away. People still call him kind.
@@ -90,8 +84,6 @@ Miss the second side, he told us, and the gift turns cold.
 Carry this with you today: **how you give is part of the gift.**
 
 ## Aspiration
-
-*A wish to close with.*
 
 > May the precious bodhicitta
 > Arise in those who don't have it yet;

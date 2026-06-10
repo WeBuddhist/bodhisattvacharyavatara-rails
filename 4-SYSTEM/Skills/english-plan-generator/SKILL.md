@@ -118,14 +118,12 @@ The first thing the reader sees after the notification. Its job is to **draw the
 ```
 ## Renewing the Bodhisattva Vow
 
-*[one short, warm helper line — see "Section helper lines"]*
-
 [VERBATIM LITURGY from en/assets/liturgy.md — "Opening" heading]
 ```
 
 The fixed opening liturgy in this order: four immeasurables → refuge → bodhisattva vow. Reproduced exactly as in `en/assets/liturgy.md`, in block-quote format.
 
-Do not vary, condense, paraphrase, or add headers inside the liturgy. The repetition is the point: readers are recommitting, not reading for new information. (A single italic helper line *above* the block is allowed and encouraged; it is not part of the liturgy.)
+Do not vary, condense, paraphrase, or add headers inside the liturgy. The repetition is the point: readers are recommitting, not reading for new information.
 
 ---
 
@@ -133,8 +131,6 @@ Do not vary, condense, paraphrase, or add headers inside the liturgy. The repeti
 
 ```
 ## Today's Verses
-
-*[one short helper line]*
 
 > [Tibetan verse — from bo-བློ་ལྡན་ཤེས་རབ།.md]
 >
@@ -158,8 +154,6 @@ The English must be clear and factual, accurate to the source, not smoothed into
 ```
 ## From the Tradition
 
-*[one short helper line, e.g. "A note from the teachers who explained this text."]*
-
 [NARRATED COMMENTARY NOTE — max 150 words]
 ```
 
@@ -173,7 +167,7 @@ Rules:
 - Maximum 150 words. Short sentences (A2).
 - Rich text is allowed: bold the key phrase, and a short two- or three-item list is fine when it genuinely aids clarity (for example, naming the parts of a single idea). Do not let a list become a survey of separate points.
 - Source: `en-ai/Verses/<verse-id>.md` (interim) or `2-RAILS/Verses/<verse-id>.md` (preferred). Use the commentators' specific observations, not a generic synthesis.
-- Name a commentator when making a specific attribution (Gyaltsab Darma Rinchen, Sazang Mati Panchen, or Ngulchu Thokme Zangpo). Do not open with an attribution phrase.
+- Name the commentator when making a specific attribution (Gyaltsab Darma Rinchen, Sazang Mati Panchen, or Ngulchu Thokme Zangpo). The name alone is usually enough; do not pad with biography ("a Tibetan master who lived about 700 years ago" is too much), and never refer to them vaguely as "an old teacher". Do not open with an attribution phrase.
 - Define any unavoidable term in plain language, in context, in one clause. No scholastic labels or taxonomy names.
 - End on the single idea, stated plainly (a bolded one-line takeaway is encouraged).
 - The note must come from the rails. If the tradition does not say it, do not say it.
@@ -184,8 +178,6 @@ Rules:
 
 ```
 ## Aspiration
-
-*[one short helper line]*
 
 [VERBATIM LITURGY from en/assets/liturgy.md — "Closing" heading]
 ```
@@ -220,21 +212,6 @@ Rules:
 
 ---
 
-## Section helper lines
-
-To fix the "I don't know what these sections are" confusion testers reported, place **one short italic line under each section heading** that says, in plain words, what the section is. Keep it warm and human, not a form label. Examples actually used:
-
-- Today's Verses → *Today's lines. First in Tibetan, then in simple English.*
-- From the Tradition → *A note from the teachers who explained this text.*
-- Renewing the Bodhisattva Vow → *We say this short promise every day. Read it aloud if you can.*
-
-Name the commentator in 2.4 (Ngulchu Thokme, Sazang Mati Panchen, Gyaltsab Darma Rinchen). The helper line already frames them as the teachers who explained this text, so the name alone is usually enough. Do not pad with biography ("a Tibetan master who lived about 700 years ago" is too much). Never refer to them vaguely as "an old teacher" or "the old teachers" with no name.
-- Aspiration → *A wish to close with.*
-
-The Opening needs no helper line; the narration carries it. The practice challenge uses the "**Your task today:**" line instead.
-
----
-
 ## Producing multiple options for comparison
 
 When asked for several options of the same day for review:
@@ -262,9 +239,13 @@ Write for a practicing Buddhist who, in most cases, **reads English at about A2 
 
 **Word choice.** Everyday words. Prefer "give" over "bestow", "kind" over "benevolent", "the highest happiness" over "supreme felicity". If a plain word exists, use it.
 
-**Common Buddhist terms** — bodhicitta, bodhisattva, samsara, karma, merit, refuge, dharma, buddha, sangha — are used freely; readers know them. Bold a term like **bodhisattva** on first use and, if needed, gloss it in one short clause.
+**Buddhist terms** — bodhicitta, bodhisattva, samsara, karma, merit, refuge, dharma, buddha, sangha — are used freely and **never explained or glossed**. This audience knows them. Do not append a definition such as "a bodhisattva, a person who lives for all beings". You may bold a term on first use.
 
-**Less common terms** — "cyclic existence", "two accumulations", "the engaging mind of enlightenment" — get a one-clause plain gloss on first appearance, or are avoided entirely.
+**Keep the term the commentary depends on.** If a commentator's point rests on a specific term (for example, that the merit comes from faith toward a *bodhisattva*), keep that word. Do not soften it into a vague phrase like "a kind person", or the reasoning collapses.
+
+**Rare or technical terms** — "cyclic existence", "two accumulations", "the engaging mind of enlightenment" — are avoided entirely. Do not reach for a word you would then have to explain.
+
+**No idioms or figurative phrases.** Readers are mostly non-native and read literally. Avoid expressions that do not mean what they literally say: "look up to", "hold up", "rush past it", "weigh the same", "plant the seed", "turns cold", "a good heart", "counts for". Use plain, literal wording ("respect", "show", "matters more", "creates good"). Concrete narrated scenes are fine; fixed figurative idioms are not.
 
 **No diacritics** in English prose. Plain spellings only.
 
@@ -289,7 +270,7 @@ Write for a practicing Buddhist who, in most cases, **reads English at about A2 
 
 - `#` — day title only (doubles as notification text).
 - `##` — each of the six sections. No `###` or lower.
-- **Section helper line:** one short *italic* line directly under a section heading (see "Section helper lines"). Not part of any liturgy or verse block.
+- **No helper / descriptor lines under section headings.** Do not add an italic "what this section is" line beneath a heading (e.g. *"A note from the teachers who explained this text."*). The heading stands on its own; the content begins directly.
 - Verse and liturgy text: block-quote format (`>`), Tibetan and English each on their own line.
 - **Bold** is used to highlight the key phrase or takeaway, the micro-instruction in 2.6, and a term on first use. Use it sparingly enough that it still draws the eye.
 - **Short lists** (two to three items) are allowed where they genuinely aid scanning. Do not use a list to smuggle in a survey of multiple points.
@@ -350,7 +331,7 @@ A domain specialist must be able to point to the passage in the rails that groun
 - [ ] Frontmatter present: `day`, `chapter`, `verses`, `status`, `concept`, and `generation_note` if interim sources were used.
 - [ ] Day title is the notification text: specific, max 12 words, no rhetorical question, no affirmation.
 - [ ] Opening (2.1) is narrated and second person, max 60 words, draws the reader into a concrete scene, then points to the verses. Not a summary or lesson.
-- [ ] Each section carries a short plain-language helper line (except Opening and the practice challenge).
+- [ ] No helper / descriptor lines under any section heading. Content begins directly after each heading.
 - [ ] Opening liturgy (2.2) verbatim from `en/assets/liturgy.md`, block-quote, no headers inside the block.
 - [ ] Verses (2.3) Tibetan exactly from `bo-བློ་ལྡན་ཤེས་རབ།.md`; English from `en-AI-generated-root-loden-sherab.md`. No sub-headers between verses.
 - [ ] From the Tradition (2.4) is one concept, narrated (not analysed), max 150 words, grounded in the rails, names the commentator, does not open with an attribution phrase. "Shantideva" appears at most once.
@@ -358,6 +339,7 @@ A domain specialist must be able to point to the passage in the rails that groun
 - [ ] Practice challenge (2.6) is one short action, second person present tense, marked as the day's one task, names a real situation, traceable to 2.4.
 - [ ] One concept carried across the whole file (and, for option sets, shared across all options).
 - [ ] A2 reading level: short sentences, everyday words, no stacked clauses.
+- [ ] Buddhist terms used directly, never explained or glossed. No idioms or figurative phrases; wording is plain and literal.
 - [ ] Rich text used with purpose: a bolded key phrase/takeaway, helpful line breaks, at most a short list where it aids scanning.
 - [ ] No em dashes in prose (only the day-title separator).
 - [ ] No diacritics in English prose.
@@ -373,6 +355,8 @@ A domain specialist must be able to point to the passage in the rails that groun
 - Added the "Reader-first principles" block and stated the A2, non-native audience up front.
 - **Reading level:** replaced "split sentences over 25 words" with an explicit A2 target (short sentences, everyday words).
 - **Voice:** added a narrated, second-person, present-tense voice; recommended the receiver's-eye-view device; banned commentary-textbook register in 2.4.
+- **Section headings stand alone (later same-day revision):** an earlier draft of this revision required a short italic helper line under each heading; that was removed at the editor's direction. Headings now stand on their own with no descriptor line. Also banned cross-day references and vague unnamed "old teacher" mentions, and trimmed commentator identification to the name alone (no biography).
+- **No glosses, no idioms (later same-day revision):** Buddhist terms are now used directly and never explained or glossed (the audience knows them); the term a commentary's point depends on must be kept, not softened into a vague phrase; and idioms / figurative expressions are banned in favour of plain literal wording, since most readers are non-native.
 - **Formatting:** reversed the old bans on lists and on bold-for-emphasis. Rich text (bold key phrase, line breaks, short lists) is now allowed and encouraged where it aids a phone reader. Added an em-dash ban in prose.
 - **Section labels:** added the required short plain-language helper line under each section (fixes tester confusion about section purpose).
 - **Practice challenge (2.6):** tightened to one short, marked, embodied action; reinforced "the centre of the session".

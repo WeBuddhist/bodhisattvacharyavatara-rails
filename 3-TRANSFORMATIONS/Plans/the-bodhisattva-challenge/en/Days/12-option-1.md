@@ -20,8 +20,6 @@ Today's verses begin with a giver just like that. Then they show you a **bodhisa
 
 ## Renewing the Bodhisattva Vow
 
-*We say this short promise every day. Read it aloud if you can.*
-
 > **Mind Training** *(recite 3 times)*
 >
 > May all beings enjoy happiness and the causes of happiness.
@@ -44,8 +42,6 @@ Today's verses begin with a giver just like that. Then they show you a **bodhisa
 > And engage step by step in that same training.
 
 ## Today's Verses
-
-*Today's lines. First in Tibetan, then in simple English.*
 
 > འགྲོ་བ་ཉུང་ཟད་ནར་མའི་ཟས་སྦྱོར་བ། །
 > སྐད་ཅིག་ཟས་ཙམ་སྦྱིན་པར་བྱེད་པ་དང་། །
@@ -70,8 +66,6 @@ Today's verses begin with a giver just like that. Then they show you a **bodhisa
 
 ## From the Tradition
 
-*A short look from the old teachers.*
-
 Stay with that plate of food for a moment.
 
 You got what you needed. So why does it sting?
@@ -85,8 +79,6 @@ Notice what you are feeling. That feeling *is* the teaching.
 Carry it with you today: **the way you give is part of the gift.**
 
 ## Aspiration
-
-*A wish to close with.*
 
 > May the precious bodhicitta
 > Arise in those who don't have it yet;

@@ -3292,3 +3292,9 @@
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^10-57]]
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^10-58]]
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^10-59]]
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^10-60]]
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^10-61]]

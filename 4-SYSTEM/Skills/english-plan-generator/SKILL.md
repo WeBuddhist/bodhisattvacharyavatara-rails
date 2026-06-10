@@ -243,6 +243,8 @@ Write for a practicing Buddhist who, in most cases, **reads English at about A2 
 
 **Keep the term the commentary depends on.** If a commentator's point rests on a specific term (for example, that the merit comes from faith toward a *bodhisattva*), keep that word. Do not soften it into a vague phrase like "a kind person", or the reasoning collapses.
 
+**Name the karmic result "merit".** When a verse or commentary speaks of the positive result of an action (Tibetan *bsod nams*, the "fruit" that increases), call it **merit** — a term this audience knows. Do not paraphrase it into the abstract noun "good" ("creates great good", "even more good", "does enormous good"); used as a noun this way it reads awkwardly. "Brings great merit", "more merit" is natural.
+
 **Rare or technical terms** — "cyclic existence", "two accumulations", "the engaging mind of enlightenment" — are avoided entirely. Do not reach for a word you would then have to explain.
 
 **No idioms or figurative phrases.** Readers are mostly non-native and read literally. Avoid expressions that do not mean what they literally say: "look up to", "hold up", "rush past it", "weigh the same", "plant the seed", "turns cold", "a good heart", "counts for". Use plain, literal wording ("respect", "show", "matters more", "creates good"). Concrete narrated scenes are fine; fixed figurative idioms are not.

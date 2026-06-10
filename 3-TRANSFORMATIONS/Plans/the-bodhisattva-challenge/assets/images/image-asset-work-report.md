@@ -16,7 +16,7 @@ status: draft
 - 11 numbered illustrations
 - Shared visual language: meditating figure in prayer, semi-transparent body revealing an interior world, expansive natural landscape behind
 - Consistent style: grain texture, soft gradients, warm or cool palette per image
-- `_00` = cover/intro; `_01`–`_10` = one image per chapter of the *Bodhisattvacaryāvatāra*
+- One image per chapter of the *Bodhisattvacaryāvatāra*
 - Suitable as chapter headers or daily session images
 
 ---
@@ -158,6 +158,6 @@ status: draft
 
 ## Notes for Use
 
-All 11 numbered illustrations are horizontal landscape format and consistent in compositional structure (figure centred, landscape behind), making them suitable as banner images in day files, push notification thumbnails, or print materials. File sizes range from 85 KB (webp) to 501 KB (JPG); the JPG files are larger and could be compressed for mobile delivery without quality loss.
+- All 11 numbered illustrations are horizontal landscape format and consistent in compositional structure (figure centred, landscape behind), making them suitable as banner images in day files, push notification thumbnails, or print materials. 
+- File sizes range from 85 KB (webp) to 501 KB (JPG); the JPG files are larger and could be compressed for mobile delivery without quality loss.
 
-The three JPG files (`_02`, `_07`, `_10`) use uppercase `.JPG` extension — normalise to lowercase `.jpg` when referencing in markdown or web contexts to avoid case-sensitivity issues on Linux systems.

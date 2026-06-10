@@ -158,7 +158,7 @@ The English must be clear and factual, accurate to the source, not smoothed into
 ```
 ## From the Tradition
 
-*[one short helper line, e.g. "A short look from the old teachers."]*
+*[one short helper line, e.g. "A note from the teachers who explained this text."]*
 
 [NARRATED COMMENTARY NOTE — max 150 words]
 ```
@@ -225,8 +225,10 @@ Rules:
 To fix the "I don't know what these sections are" confusion testers reported, place **one short italic line under each section heading** that says, in plain words, what the section is. Keep it warm and human, not a form label. Examples actually used:
 
 - Today's Verses → *Today's lines. First in Tibetan, then in simple English.*
-- From the Tradition → *A short look from the old teachers.*
+- From the Tradition → *A note from the teachers who explained this text.*
 - Renewing the Bodhisattva Vow → *We say this short promise every day. Read it aloud if you can.*
+
+Name the commentator in 2.4 (Ngulchu Thokme, Sazang Mati Panchen, Gyaltsab Darma Rinchen). The helper line already frames them as the teachers who explained this text, so the name alone is usually enough. Do not pad with biography ("a Tibetan master who lived about 700 years ago" is too much). Never refer to them vaguely as "an old teacher" or "the old teachers" with no name.
 - Aspiration → *A wish to close with.*
 
 The Opening needs no helper line; the narration carries it. The practice challenge uses the "**Your task today:**" line instead.
@@ -308,6 +310,8 @@ Write for a practicing Buddhist who, in most cases, **reads English at about A2 
 - "The great teacher Shantideva" as a fixed epithet.
 - "Based on the traditional commentaries of [names]…" as an opening phrase.
 - Commentary-textbook register in 2.4 ("The commentator argues/explains/notes that…") in place of narration.
+- Cross-references to other day files ("yesterday's verse", "as we saw last time", "tomorrow we will…"). Each day stands on its own; a reader may arrive on any day, and the plan's concepts do not run in a guaranteed sequence.
+- A commentator referred to vaguely ("an old teacher", "the old teachers") instead of being named and briefly identified.
 - Em dashes in prose (see Formatting rules).
 - Collective pronouns ("we", "us", "our") except where the liturgy itself uses them.
 - Any claim in 2.4 or 2.6 not traceable to the source rails.

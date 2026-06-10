@@ -3,17 +3,18 @@ day: 12
 chapter: 1
 verses: "1-32 to 1-34"
 status: draft
-variant: F
-generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-32.md, 1-33.md, 1-34.md). No 2-RAILS/Verses/ packages exist for these verses yet. Written to incorporate Day 2 tester feedback: lower reading level, shorter sentences, segmented paragraphs, light bolding."
+variant: "F — minimal scannable style"
+concept: "Sazang: giving has four parts (who, what, how, how long); how you give is its own act"
+generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-32.md, 1-33.md, 1-34.md). No 2-RAILS/Verses/ packages exist for these verses yet. Revised per Day 2 feedback: A2 English, one shared concept across options D/E/F, short actionable challenge, rich text."
 ---
 
-# Day 12 — A single angry thought counts, even if you never speak it
+# Day 12 — The way you give is its own act
 
 ## Opening
 
-*Push notification:* Does a thought count if you never act on it?
+*Push notification:* Today, watch how you give, not just what.
 
-We all have angry thoughts we never say out loud, and they feel harmless because they stay inside. Today's verses first praise the bodhisattva as the greatest of all givers. Then comes a warning from the Buddha himself: ill will toward such a being is no small, private thing.
+Today's verses compare two givers. One gives a little food to a few people, in a rude way. People praise him. The other, the **bodhisattva**, gives the highest happiness to countless beings, with respect, forever. The difference is not only the gift.
 
 ## Renewing the Bodhisattva Vow
 
@@ -63,11 +64,15 @@ We all have angry thoughts we never say out loud, and they feel harmless because
 
 ## From the Tradition
 
-We treat unspoken anger as free. No one heard it, so it did not happen.
+A man gives one meal, in a rude way. People still call him good.
 
-Today's third verse warns that a negative mind toward a bodhisattva brings eons of suffering. A careful reader might still assume the real danger lies in acting on it. Sazang Mati Panchen, a fourteenth-century commentator on this text, closes that exit. Merely harboring a single moment of a harmful thought is enough, he says, "let alone physical or verbal harm".
+The verse stops at this picture. **Sazang Mati Panchen**, a teacher from the 14th century who explained this text, adds one idea. Giving has **four parts**:
 
-He is pointing at something the tradition calls mental action: **the thought itself is already a complete act**, with its own weight, whether or not it ever reaches your hands or your mouth.
+**Who. What. How. How long.**
+
+The rude giver fails at "how": he gives "with contempt" (without respect). The bodhisattva is complete in all four: countless beings, the highest happiness, full respect, forever.
+
+One thing to keep: **how you give is its own act**.
 
 ## Aspiration and Dedication
 
@@ -83,4 +88,4 @@ He is pointing at something the tradition calls mental action: **the thought its
 
 ## Today's Practice Challenge
 
-The next time irritation rises today toward someone trying to do good, maybe clumsily (a preachy friend, a colleague's unwanted advice), catch the thought before you excuse it as harmless because you kept it in. By Sazang's measure the thought already counts, so meet it early, while it is still one moment and not a settled habit.
+Give one thing today with respect: **stop, look at the person, then give**. That is all.

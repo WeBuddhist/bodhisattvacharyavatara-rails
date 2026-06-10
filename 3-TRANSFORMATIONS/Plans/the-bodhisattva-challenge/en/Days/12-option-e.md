@@ -3,17 +3,18 @@ day: 12
 chapter: 1
 verses: "1-32 to 1-34"
 status: draft
-variant: E
-generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-32.md, 1-33.md, 1-34.md). No 2-RAILS/Verses/ packages exist for these verses yet. Written to incorporate Day 2 tester feedback: lower reading level, shorter sentences, segmented paragraphs, light bolding."
+variant: "E — direct coach style"
+concept: "Sazang: giving has four parts (who, what, how, how long); how you give is its own act"
+generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-32.md, 1-33.md, 1-34.md). No 2-RAILS/Verses/ packages exist for these verses yet. Revised per Day 2 feedback: A2 English, one shared concept across options D/E/F, short actionable challenge, rich text."
 ---
 
-# Day 12 — The giving that outlasts everything, even space itself
+# Day 12 — Giving has four parts. Most of us forget one
 
 ## Opening
 
-*Push notification:* Every kindness we know runs out. One kind of giving doesn't.
+*Push notification:* Who, what, how, how long: the four parts of giving.
 
-Even the kindest people we know run out: of time, of money, of patience. Today's verses compare a donor who feeds a few people for half a day with the bodhisattvas, who give the highest happiness to countless beings, always. Everything turns on that last word.
+When you give something, you probably think about the gift. Today's verses ask you to look somewhere else: at **the way you give**. They show a man who gives one meal without respect, and the bodhisattvas, who give the highest happiness to all beings, always.
 
 ## Renewing the Bodhisattva Vow
 
@@ -63,11 +64,15 @@ Even the kindest people we know run out: of time, of money, of patience. Today's
 
 ## From the Tradition
 
-Even our best giving has an end point. We listen until we are tired. We help until the weekend. We give until the month gets expensive. Today's verse says the bodhisattvas give the highest happiness "always".
+Think about the last time you helped someone when you were tired. You did it, but maybe with a sigh.
 
-A careful reader might take "always" to mean "their whole life". The commentators say it means far more. Ngulchu Thokme, a fourteenth-century commentator on this text, records the classical explanation: their giving is "never exhausted as long as space and wandering beings remain". Sazang Mati Panchen, another commentator on the text, puts it the same way: it continues "as long as space remains and the cycle of existence is not emptied".
+The verse only shows the picture: one meal, given without respect. **Sazang Mati Panchen**, a teacher from the 14th century who explained this text, adds the idea behind it. Every act of giving has four parts:
 
-So "always" here is not a long time. It is giving with **no end point at all**. That is the real distance between the donor we praise and the bodhisattva the verse points to.
+**Who** you give to. **What** you give. **How** you give. **How long** it lasts.
+
+Most of us only think about the "what". Sazang points at the "how". The rude giver gives "with contempt" (without respect). The bodhisattva gives with respect, "fulfilling all the wishes in their minds".
+
+**The way you give is its own act.** You can change it today, even if your gift is small.
 
 ## Aspiration and Dedication
 
@@ -83,4 +88,4 @@ So "always" here is not a long time. It is giving with **no end point at all**. 
 
 ## Today's Practice Challenge
 
-Notice the exact moment today when you feel you have done your share: listened long enough to a friend's problem, helped enough around the house, given enough at work. You do not have to push past it. Just mark where your "always" ends, now that you know the giving in today's verse has no such point.
+Pick one moment today when someone asks for help. Before you act, choose your "how": **kind face, full attention, no sigh**. Then give.

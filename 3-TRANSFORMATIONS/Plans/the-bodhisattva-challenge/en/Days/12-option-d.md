@@ -3,17 +3,18 @@ day: 12
 chapter: 1
 verses: "1-32 to 1-34"
 status: draft
-variant: D
-generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-32.md, 1-33.md, 1-34.md). No 2-RAILS/Verses/ packages exist for these verses yet. Written to incorporate Day 2 tester feedback: lower reading level, shorter sentences, segmented paragraphs, light bolding."
+variant: "D — warm story style"
+concept: "Sazang: giving has four parts (who, what, how, how long); how you give is its own act"
+generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-32.md, 1-33.md, 1-34.md). No 2-RAILS/Verses/ packages exist for these verses yet. Revised per Day 2 feedback: A2 English, one shared concept across options D/E/F, short actionable challenge, rich text."
 ---
 
-# Day 12 — Four parts of giving: who, what, how, and how long
+# Day 12 — How you give is as important as what you give
 
 ## Opening
 
-*Push notification:* We praise the gift. The commentators ask how it was given.
+*Push notification:* Anyone can give a meal. How do you give it?
 
-Think of the last time you gave something: money, food, a little of your time. Today's verses start with a man who feeds a few people one meal, given with contempt, and people still call him good. Then they ask what we should make of the bodhisattvas, who give the highest happiness to countless beings, always.
+Think of someone who gives food to a poor man, but in a rude way. People still say, "He is good." Today's verses look at this. They compare this small, rude gift with the way a **bodhisattva** gives: to all beings, with respect, forever.
 
 ## Renewing the Bodhisattva Vow
 
@@ -63,11 +64,15 @@ Think of the last time you gave something: money, food, a little of your time. T
 
 ## From the Tradition
 
-Most of us have given something with a sigh: coins dropped without looking up, help given while making it clear what it costs us. Today's verses already show the strange math of praise: a man feeds a few people one meal, with contempt, and everyone calls him good.
+We all know how it feels to get help from someone who is annoyed. We get the help, but it hurts a little.
 
-The verses stop at the comparison. The commentators go further and split every act of giving into four parts: **who** you give to, **what** you give, **how** you give it, and **how long** it lasts. Sazang Mati Panchen, a fourteenth-century commentator on this text, paints the "how" most vividly: the donor we praise gives while "treating them with contempt, fighting, and beating them", while the bodhisattva gives in a way that "completely fulfills all the various desires in their minds".
+The verses show this with one picture: a man gives a meal, but without respect. The verse stops there. **Sazang Mati Panchen**, a teacher from the 14th century who explained this text, goes one step more. He says giving has **four parts**:
 
-The part we can use today: **how you give is its own act**, separate from what you give.
+**who** you give to, **what** you give, **how** you give, and **how long** it lasts.
+
+The rude giver fails in the "how". Sazang says he gives "with contempt" (without respect). The bodhisattva gives with respect and "fulfills all the wishes in their minds".
+
+The lesson is simple: **how you give is its own act**. A small gift, given with respect, becomes bigger.
 
 ## Aspiration and Dedication
 
@@ -83,4 +88,4 @@ The part we can use today: **how you give is its own act**, separate from what y
 
 ## Today's Practice Challenge
 
-Give one thing today with full attention to how you give it. When a coworker asks for help, or someone at home needs a minute of your time, notice the urge to give quickly and a little coldly, just to be done with it. The commentators treat the manner of giving as its own act, so make this one respectful all the way through.
+Today, give one small thing (your time, a cup of tea, an answer to a question) **slowly and with respect**. Notice how different it feels from giving in a hurry.

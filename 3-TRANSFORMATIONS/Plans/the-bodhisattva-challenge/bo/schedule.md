@@ -1049,11 +1049,13 @@
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^5-108]]
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^5-109]]
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^5-110]]
+
 ---
 
 ## ཉིན་ ༡༡༧།
-
-![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^5-109]]
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^6-1]]
 
@@ -1295,7 +1297,7 @@
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^6-68]]
 
-།དེ་ལྟར་མཐོང་ནས་ཅི་ནས་ཀྱང་། །ཐམས་ཅད་ཕན་ཚུན་བྱམས་སེམས་སུ། །འགྱུར་བ་དེ་ལྟར་བདག་གིས་ནི། །བསོད་ནམས་དག་ལ་བསྒྲིམས་ཏེ་བྱ། །
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^6-69]]
 
 ---
 
@@ -1495,11 +1497,11 @@
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^6-124]]
 
-![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^6-125]]
-
 ---
 
 ## ཉིན་ ༡༦༦།
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^6-125]]
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^6-126]]
 
@@ -1535,11 +1537,13 @@
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^6-134]]
 
-![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-1]]
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^6-135]]
 
 ---
 
 ## ཉིན་ ༡༧༡།
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-1]]
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-2]]
 

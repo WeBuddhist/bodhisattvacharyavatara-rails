@@ -3,22 +3,20 @@ day: 12
 chapter: 1
 verses: "1-32 to 1-34"
 status: draft
-variant: "Option 3 — question-led, conversational voice"
+variant: "Option 3 — immersive voice, 'asked for help' scene"
 concept: "Sazang Mati Panchen: the manner of giving is part of the gift. (Shared across all three Day 12 options.)"
-generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-32.md, 1-33.md, 1-34.md). No 2-RAILS/Verses/ packages exist for these verses yet. Written at A2 English with rich-text formatting, per Day 2 feedback. Options 1-3 share one concept and differ only in voice and practice action."
+generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-32.md, 1-33.md, 1-34.md). No 2-RAILS/Verses/ packages exist for these verses yet. Written at A2 English, second-person immersive narration, rich-text formatting, one concept, one short practice action, per the skill plus Day 2 feedback. Options 1-3 share the concept and the immersive voice, and differ only in the opening scene and the practice action."
 ---
 
-# Day 12 — It is not just what you give. It is how.
+# Day 12 — When help is given with a sigh
 
 ## Opening
 
-*A few words before you begin.*
+Imagine you need help, so you ask someone close to you. They say yes. But they sigh. They rush. They make you feel like a burden.
 
-Why does the way we treat people matter so much?
+You got the help. But it does not feel like a gift.
 
-Today's verses start to answer. They compare a rude giver with a **bodhisattva** — a person who gives for the good of all beings.
-
-The lesson is about *how* we give, not only *what*.
+Today's verses begin with a giver like that. Then they turn to a **bodhisattva**, who gives for all beings.
 
 ## Renewing the Bodhisattva Vow
 
@@ -47,7 +45,7 @@ The lesson is about *how* we give, not only *what*.
 
 ## Today's Verses
 
-*Today's lines — first in Tibetan, then in simple English.*
+*Today's lines. First in Tibetan, then in simple English.*
 
 > འགྲོ་བ་ཉུང་ཟད་ནར་མའི་ཟས་སྦྱོར་བ། །
 > སྐད་ཅིག་ཟས་ཙམ་སྦྱིན་པར་བྱེད་པ་དང་། །
@@ -72,15 +70,19 @@ The lesson is about *how* we give, not only *what*.
 
 ## From the Tradition
 
-*One idea from the old teachers.*
+*A short look from the old teachers.*
 
-Why does a small, rude gift feel so small?
+Stay with that sigh for a moment.
 
-**Sazang Mati Panchen**, an old teacher, gives the answer. A gift is not only the thing in your hand. It is also the way you hand it over.
+The help came. So why did it feel cold?
 
-In the verse, the giver gives food. But he gives it with no respect. The food is real. The kindness is not.
+A teacher long ago, **Sazang Mati Panchen**, gives you the answer. A gift, he said, is more than the thing you hand over. It is also the warmth you hand it with.
 
-One idea to carry today: **the way you give is part of the gift.**
+Take the warmth away, even from real help, and it shrinks into something small.
+
+Now turn it around. The kindest moments in your life were probably not the biggest gifts. They were the warm ones.
+
+Hold this today: **the way you give is part of the gift.**
 
 ## Aspiration
 
@@ -100,6 +102,6 @@ One idea to carry today: **the way you give is part of the gift.**
 
 **Your task today:**
 
-Next time you help someone, do not rush.
+The next time someone needs your help, don't hurry.
 
-**Stop, be with them for a moment, then help.**
+**Stop. Be with them for a moment. Then help.**

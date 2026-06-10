@@ -3,22 +3,22 @@ day: 12
 chapter: 1
 verses: "1-32 to 1-34"
 status: draft
-variant: "Option 2 — clean, scannable voice"
+variant: "Option 2 — immersive voice, 'received coin' scene (anchor)"
 concept: "Sazang Mati Panchen: the manner of giving is part of the gift. (Shared across all three Day 12 options.)"
-generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-32.md, 1-33.md, 1-34.md). No 2-RAILS/Verses/ packages exist for these verses yet. Written at A2 English with rich-text formatting, per Day 2 feedback. Options 1-3 share one concept and differ only in voice and practice action."
+generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-32.md, 1-33.md, 1-34.md). No 2-RAILS/Verses/ packages exist for these verses yet. Written at A2 English, second-person immersive narration, rich-text formatting, one concept, one short practice action, per the skill plus Day 2 feedback. This option's voice is the anchor for the set; options 1-3 share the concept and the immersive voice, and differ only in the opening scene and the practice action."
 ---
 
-# Day 12 — Two givers: one is rude, one is kind
+# Day 12 — Same gift, two very different hands
 
 ## Opening
 
-*A few words before you begin.*
+Imagine two gifts.
 
-Today's verses show two people who give.
+In the first, someone drops a coin into your hand and looks away. In the second, they give you the same coin, meet your eyes, and smile.
 
-The first gives a small gift, in a rude way. People still praise him. The second is a **bodhisattva** — someone who lives for all beings. They give far more, and with respect.
+Same coin. Very different gift.
 
-Watch the difference between them.
+Today's verses begin right here. First an ordinary giver, then a **bodhisattva**, who gives for all beings.
 
 ## Renewing the Bodhisattva Vow
 
@@ -47,7 +47,7 @@ Watch the difference between them.
 
 ## Today's Verses
 
-*Today's lines — first in Tibetan, then in simple English.*
+*Today's lines. First in Tibetan, then in simple English.*
 
 > འགྲོ་བ་ཉུང་ཟད་ནར་མའི་ཟས་སྦྱོར་བ། །
 > སྐད་ཅིག་ཟས་ཙམ་སྦྱིན་པར་བྱེད་པ་དང་། །
@@ -72,18 +72,22 @@ Watch the difference between them.
 
 ## From the Tradition
 
-*One idea from the old teachers.*
+*A short look from the old teachers.*
 
-In the verse, the first giver gives real food. But he is rude. People still call him good.
+Come back to those two gifts.
 
-**Sazang Mati Panchen**, a teacher from long ago, looked closer. He said every gift has two parts:
+In today's verse, a man gives food to a few hungry people. But he gives it roughly, and turns away. People still call him kind.
+
+Now imagine you are the one receiving it. The food fills your hands. But something is missing, isn't it?
+
+A teacher long ago, **Sazang Mati Panchen**, gave that missing thing a name. He said every gift has two sides:
 
 - **What** you give
 - **How** you give it
 
-The rude giver gets the first part right. He fails the second. So his gift feels cold.
+Miss the second side, he told us, and the gift turns cold.
 
-One idea to carry today: **how you give is part of the gift.**
+Carry this with you today: **how you give is part of the gift.**
 
 ## Aspiration
 
@@ -103,6 +107,6 @@ One idea to carry today: **how you give is part of the gift.**
 
 **Your task today:**
 
-Pick one message someone is waiting for.
+Think of one message someone is waiting for.
 
-Do not send it fast and cold. **Slow down, write it with care, then send.**
+Before you send it, **picture their face. Write it warmly. Then send.**

@@ -3,20 +3,20 @@ day: 12
 chapter: 1
 verses: "1-32 to 1-34"
 status: draft
-variant: "Option 1 — warm, story voice"
+variant: "Option 1 — immersive voice, 'received food' scene"
 concept: "Sazang Mati Panchen: the manner of giving is part of the gift. (Shared across all three Day 12 options.)"
-generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-32.md, 1-33.md, 1-34.md). No 2-RAILS/Verses/ packages exist for these verses yet. Written at A2 English with rich-text formatting, per Day 2 feedback. Options 1-3 share one concept and differ only in voice and practice action."
+generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-32.md, 1-33.md, 1-34.md). No 2-RAILS/Verses/ packages exist for these verses yet. Written at A2 English, second-person immersive narration, rich-text formatting, one concept, one short practice action, per the skill plus Day 2 feedback. Options 1-3 share the concept and the immersive voice, and differ only in the opening scene and the practice action."
 ---
 
-# Day 12 — A small gift, given coldly, stays small
+# Day 12 — The same food, warm hands or cold
 
 ## Opening
 
-*A few words before you begin.*
+Imagine you are tired and hungry. Someone brings you a plate of food. But they drop it in front of you, say nothing, and walk away.
 
-Chapter 1 keeps praising the kind heart of a **bodhisattva** — a person who lives for the good of all beings.
+The food is real. Yet you feel small.
 
-Today the verses look at two givers. One gives a little. One gives a lot. But the real difference is not only the **size** of the gift.
+Today's verses begin with a giver just like that. Then they show you a **bodhisattva**, who gives for all beings.
 
 ## Renewing the Bodhisattva Vow
 
@@ -45,7 +45,7 @@ Today the verses look at two givers. One gives a little. One gives a lot. But th
 
 ## Today's Verses
 
-*Today's lines — first in Tibetan, then in simple English.*
+*Today's lines. First in Tibetan, then in simple English.*
 
 > འགྲོ་བ་ཉུང་ཟད་ནར་མའི་ཟས་སྦྱོར་བ། །
 > སྐད་ཅིག་ཟས་ཙམ་སྦྱིན་པར་བྱེད་པ་དང་། །
@@ -70,15 +70,19 @@ Today the verses look at two givers. One gives a little. One gives a lot. But th
 
 ## From the Tradition
 
-*One idea from the old teachers.*
+*A short look from the old teachers.*
 
-Think of a time someone helped you — but in a cold way. Maybe they did the right thing. But it did not feel kind.
+Stay with that plate of food for a moment.
 
-**Sazang Mati Panchen** was a teacher long ago. He studied these verses. He said a gift is more than one thing. *What* you give matters. But *how* you give matters too.
+You got what you needed. So why does it sting?
 
-The first giver in the verse gives food. He gives it in a rude way. So the gift stays small.
+A teacher long ago, **Sazang Mati Panchen**, can tell you why. He said a gift is never only the thing you receive. It is also the way it reaches you.
 
-One idea to carry today: **the way you give is part of the gift.**
+The giver in the verse hands over food. But there is no warmth, no respect. So in your hands it becomes a small, cold thing.
+
+Notice what you are feeling. That feeling *is* the teaching.
+
+Carry it with you today: **the way you give is part of the gift.**
 
 ## Aspiration
 
@@ -98,6 +102,6 @@ One idea to carry today: **the way you give is part of the gift.**
 
 **Your task today:**
 
-Give one thing to someone — money, food, or a little help.
+Today you will give something. Maybe money, food, or a small hand.
 
-Before you give it: **stop, look at them, then give.**
+When you do, **slow down. Look at the person. Then give.**

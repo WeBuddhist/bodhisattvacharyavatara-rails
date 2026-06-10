@@ -1717,11 +1717,11 @@
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-49]]
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-50]]
+
 ---
 
 ## ཉིན་ ༡༩༡།
-
-![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-50]]
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-51]]
 
@@ -1837,6 +1837,8 @@
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-7]]
 
+## ཉིན་ ༢༠༥།
+
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-8]]
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-9]]
@@ -1845,43 +1847,39 @@
 
 ---
 
-## ཉིན་ ༢༠༥།
+## ཉིན་ ༢༠༦།
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-11]]
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-12]]
 
----
-
-## ཉིན་ ༢༠༦།
-
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-13]]
-
-![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-14]]
-
-![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-15]]
 
 ---
 
 ## ཉིན་ ༢༠༧།
 
-![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-16]]
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-14]]
 
-![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-17]]
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-15]]
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-16]]
 
 ---
 
 ## ཉིན་ ༢༠༨།
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-17]]
+
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-18]]
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-19]]
 
-![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-20]]
-
 ---
 
 ## ཉིན་ ༢༠༩།
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-20]]
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-21]]
 
@@ -1893,13 +1891,15 @@
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-23]]
 
-།གང་ཕྱིར་བྱིས་པ་རང་དོན་ནི། །མེད་པར་དགའ་བ་མི་འབྱུང་བས། །བྱིས་པ་འགའ་ཡང་བཤེས་མིན་ཞེས། །དེ་བཞིན་གཤེགས་པ་རྣམས་ཀྱིས་གསུངས། །
-
-ནགས་ན་རི་དྭགས་བྱ་རྣམས་དང་། །ཤིང་རྣམས་མི་སྙན་རྗོད་མི་བྱེད། །འགྲོགས་ན་བདེ་བ་དེ་དག་དང་། །ནམ་ཞིག་ལྷན་ཅིག་བདག་གནས་འགྱུར། །
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-24]]
 
 ---
 
 ## ཉིན་ ༢༡༡།
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-25]]
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-26]]
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-27]]
 

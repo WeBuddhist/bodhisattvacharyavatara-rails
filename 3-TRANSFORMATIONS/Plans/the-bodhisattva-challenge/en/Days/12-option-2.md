@@ -99,8 +99,8 @@ Carry this with you today: **how you give is part of the gift.**
 > May it not decline, but grow ever further.
 >
 > By the merit of practicing
-> The Bodhicharyavatara today
-> May all living beings come to engage
+> The Bodhicharyavatara today[
+]()> May all living beings come to engage
 > In the conduct of the bodhisattvas.
 
 ## Today's Practice Challenge

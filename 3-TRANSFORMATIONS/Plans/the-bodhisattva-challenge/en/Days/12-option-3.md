@@ -3,22 +3,26 @@ day: 12
 chapter: 1
 verses: "1-32 to 1-34"
 status: draft
-variant: "Option 3 — Why a bodhisattva is worth so much"
-concept: "Gyaltsab Darma Rinchen: every buddha is born from a bodhisattva, so a bodhisattva is the source of all the good a buddha brings — which is why both help and harm toward them count for so much."
-generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-32.md, 1-33.md, 1-34.md). No 2-RAILS/Verses/ packages exist for these verses yet. Written at a lower English reading level with rich-text formatting and plain-language section labels, per Day 2 feedback."
+variant: "Option 3 — question-led, conversational voice"
+concept: "Sazang Mati Panchen: the manner of giving is part of the gift. (Shared across all three Day 12 options.)"
+generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-32.md, 1-33.md, 1-34.md). No 2-RAILS/Verses/ packages exist for these verses yet. Written at A2 English with rich-text formatting, per Day 2 feedback. Options 1-3 share one concept and differ only in voice and practice action."
 ---
 
-# Day 12 — Every buddha was once a bodhisattva
+# Day 12 — It is not just what you give. It is how.
 
 ## Opening
 
-*What this is: a short note to set up today's verses before you read them.*
+*A few words before you begin.*
 
-Today's verses compare an ordinary giver with a **bodhisattva**, then say that helping or hurting a bodhisattva carries huge weight. That can sound like a big claim. Today's note explains *why* the old teachers thought it was true — and the reason is simpler than it sounds.
+Why does the way we treat people matter so much?
+
+Today's verses start to answer. They compare a rude giver with a **bodhisattva** — a person who gives for the good of all beings.
+
+The lesson is about *how* we give, not only *what*.
 
 ## Renewing the Bodhisattva Vow
 
-*What this is: the same short vow you say each day. Read it aloud if you can.*
+*We say this short promise every day. Read it aloud if you can.*
 
 > **Mind Training** *(recite 3 times)*
 >
@@ -43,7 +47,7 @@ Today's verses compare an ordinary giver with a **bodhisattva**, then say that h
 
 ## Today's Verses
 
-*What this is: today's lines, first in Tibetan, then in plain English.*
+*Today's lines — first in Tibetan, then in simple English.*
 
 > འགྲོ་བ་ཉུང་ཟད་ནར་མའི་ཟས་སྦྱོར་བ། །
 > སྐད་ཅིག་ཟས་ཙམ་སྦྱིན་པར་བྱེད་པ་དང་། །
@@ -68,19 +72,19 @@ Today's verses compare an ordinary giver with a **bodhisattva**, then say that h
 
 ## From the Tradition
 
-*What this is: one idea from the old teachers that the verse alone does not spell out.*
+*One idea from the old teachers.*
 
-Why does the verse treat a bodhisattva as so precious that even a bad thought about one is so serious?
+Why does a small, rude gift feel so small?
 
-**Gyaltsab Darma Rinchen** gives the reason. Every buddha was once a bodhisattva. No one becomes a buddha without first walking the bodhisattva's path. So a bodhisattva is the **seed** of a buddha — and a buddha is the source of so much good in the world.
+**Sazang Mati Panchen**, an old teacher, gives the answer. A gift is not only the thing in your hand. It is also the way you hand it over.
 
-Think of an apple tree. Harm a grown tree and you lose one tree. Crush the seed and you lose every tree, and every apple, that would have come from it.
+In the verse, the giver gives food. But he gives it with no respect. The food is real. The kindness is not.
 
-The idea to keep: **a bodhisattva is a beginning, not just a person.** That is why both kindness and harm toward them reach so far.
+One idea to carry today: **the way you give is part of the gift.**
 
 ## Aspiration
 
-*What this is: the same closing wish you say each day.*
+*A wish to close with.*
 
 > May the precious bodhicitta
 > Arise in those who don't have it yet;
@@ -94,6 +98,8 @@ The idea to keep: **a bodhisattva is a beginning, not just a person.** That is w
 
 ## Today's Practice Challenge
 
-**This is your one task for today.**
+**Your task today:**
 
-Bring to mind one person who is genuinely trying to be better — a friend working on their temper, a colleague learning to be more honest, someone in your family taking small steps. Their effort is still young, like a seed. Today, instead of judging where they fall short, silently wish their effort to grow. Gyaltsab Darma Rinchen's point is that what is just beginning in someone is worth protecting, because of all it can become.
+Next time you help someone, do not rush.
+
+**Stop, be with them for a moment, then help.**

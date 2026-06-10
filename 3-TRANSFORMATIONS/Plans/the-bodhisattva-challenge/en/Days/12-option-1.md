@@ -3,22 +3,24 @@ day: 12
 chapter: 1
 verses: "1-32 to 1-34"
 status: draft
-variant: "Option 1 — How you give is part of the gift"
-concept: "Sazang Mati Panchen: giving has four parts (who, what, how, how long); the manner of giving is itself part of the act."
-generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-32.md, 1-33.md, 1-34.md). No 2-RAILS/Verses/ packages exist for these verses yet. Written at a lower English reading level with rich-text formatting and plain-language section labels, per Day 2 feedback."
+variant: "Option 1 — warm, story voice"
+concept: "Sazang Mati Panchen: the manner of giving is part of the gift. (Shared across all three Day 12 options.)"
+generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-32.md, 1-33.md, 1-34.md). No 2-RAILS/Verses/ packages exist for these verses yet. Written at A2 English with rich-text formatting, per Day 2 feedback. Options 1-3 share one concept and differ only in voice and practice action."
 ---
 
-# Day 12 — A small gift, given rudely, still gets praised
+# Day 12 — A small gift, given coldly, stays small
 
 ## Opening
 
-*What this is: a short note to set up today's verses before you read them.*
+*A few words before you begin.*
 
-Chapter 1 has been praising the awakening mind. Today it makes a comparison. It looks at an **ordinary giver** and a **bodhisattva** — someone living for the good of all beings — and asks how they differ. The answer is not only about the size of the gift.
+Chapter 1 keeps praising the kind heart of a **bodhisattva** — a person who lives for the good of all beings.
+
+Today the verses look at two givers. One gives a little. One gives a lot. But the real difference is not only the **size** of the gift.
 
 ## Renewing the Bodhisattva Vow
 
-*What this is: the same short vow you say each day. Read it aloud if you can.*
+*We say this short promise every day. Read it aloud if you can.*
 
 > **Mind Training** *(recite 3 times)*
 >
@@ -43,7 +45,7 @@ Chapter 1 has been praising the awakening mind. Today it makes a comparison. It 
 
 ## Today's Verses
 
-*What this is: today's lines, first in Tibetan, then in plain English.*
+*Today's lines — first in Tibetan, then in simple English.*
 
 > འགྲོ་བ་ཉུང་ཟད་ནར་མའི་ཟས་སྦྱོར་བ། །
 > སྐད་ཅིག་ཟས་ཙམ་སྦྱིན་པར་བྱེད་པ་དང་། །
@@ -68,24 +70,19 @@ Chapter 1 has been praising the awakening mind. Today it makes a comparison. It 
 
 ## From the Tradition
 
-*What this is: one idea from the old teachers that the verse alone does not spell out.*
+*One idea from the old teachers.*
 
-The verse shows one giver who hands over a little food, in a rude way. People still call him good.
+Think of a time someone helped you — but in a cold way. Maybe they did the right thing. But it did not feel kind.
 
-**Sazang Mati Panchen** was a teacher from the 1300s who explained this text. He points out that any gift has **four parts**:
+**Sazang Mati Panchen** was a teacher long ago. He studied these verses. He said a gift is more than one thing. *What* you give matters. But *how* you give matters too.
 
-- **Who** you give to
-- **What** you give
-- **How** you give it
-- **How long** the help lasts
+The first giver in the verse gives food. He gives it in a rude way. So the gift stays small.
 
-The rude giver fails at *how*. He gives "with contempt." The bodhisattva is full in all four: countless people, the highest happiness, real respect, and forever.
-
-So here is the idea to keep: **the way you give is part of the gift.** A kind thing handed over coldly is not the same kind thing.
+One idea to carry today: **the way you give is part of the gift.**
 
 ## Aspiration
 
-*What this is: the same closing wish you say each day.*
+*A wish to close with.*
 
 > May the precious bodhicitta
 > Arise in those who don't have it yet;
@@ -99,6 +96,8 @@ So here is the idea to keep: **the way you give is part of the gift.** A kind th
 
 ## Today's Practice Challenge
 
-**This is your one task for today.**
+**Your task today:**
 
-Pick one small thing you already plan to give — handing back change to a cashier, passing food at the table, sending a reply someone is waiting on. Before you do it, slow down for a second. Look at the person. Then give it with full attention, not on autopilot. Sazang Mati Panchen's point is that *how* you give is its own act. Today, let the manner carry as much care as the gift.
+Give one thing to someone — money, food, or a little help.
+
+Before you give it: **stop, look at them, then give.**

@@ -3,22 +3,26 @@ day: 12
 chapter: 1
 verses: "1-32 to 1-34"
 status: draft
-variant: "Option 2 — A single thought has weight"
-concept: "Sazang Mati Panchen and Gyaltsab Darma Rinchen: a thought is an action; even one moment of ill-will, with no word or deed, carries real karmic weight."
-generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-32.md, 1-33.md, 1-34.md). No 2-RAILS/Verses/ packages exist for these verses yet. Written at a lower English reading level with rich-text formatting and plain-language section labels, per Day 2 feedback."
+variant: "Option 2 — clean, scannable voice"
+concept: "Sazang Mati Panchen: the manner of giving is part of the gift. (Shared across all three Day 12 options.)"
+generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-32.md, 1-33.md, 1-34.md). No 2-RAILS/Verses/ packages exist for these verses yet. Written at A2 English with rich-text formatting, per Day 2 feedback. Options 1-3 share one concept and differ only in voice and practice action."
 ---
 
-# Day 12 — A single angry thought is counted as an act
+# Day 12 — Two givers: one is rude, one is kind
 
 ## Opening
 
-*What this is: a short note to set up today's verses before you read them.*
+*A few words before you begin.*
 
-Today's reading has two halves. First it praises the **bodhisattva** — someone who gives the highest good to countless beings. Then it turns to a warning. If such a person matters that much, then turning against them in your mind also matters. The verses are about the weight of what we think, not only what we do.
+Today's verses show two people who give.
+
+The first gives a small gift, in a rude way. People still praise him. The second is a **bodhisattva** — someone who lives for all beings. They give far more, and with respect.
+
+Watch the difference between them.
 
 ## Renewing the Bodhisattva Vow
 
-*What this is: the same short vow you say each day. Read it aloud if you can.*
+*We say this short promise every day. Read it aloud if you can.*
 
 > **Mind Training** *(recite 3 times)*
 >
@@ -43,7 +47,7 @@ Today's reading has two halves. First it praises the **bodhisattva** — someone
 
 ## Today's Verses
 
-*What this is: today's lines, first in Tibetan, then in plain English.*
+*Today's lines — first in Tibetan, then in simple English.*
 
 > འགྲོ་བ་ཉུང་ཟད་ནར་མའི་ཟས་སྦྱོར་བ། །
 > སྐད་ཅིག་ཟས་ཙམ་སྦྱིན་པར་བྱེད་པ་དང་། །
@@ -68,19 +72,22 @@ Today's reading has two halves. First it praises the **bodhisattva** — someone
 
 ## From the Tradition
 
-*What this is: one idea from the old teachers that the verse alone does not spell out.*
+*One idea from the old teachers.*
 
-The third verse sounds harsh. It says ill-will toward a bodhisattva leads to long suffering. But the commentators draw out a point that is easy to miss.
+In the verse, the first giver gives real food. But he is rude. People still call him good.
 
-**Sazang Mati Panchen** stresses three words: *"let alone physical or verbal harm."* You do not have to say or do anything. A single angry thought, held for a moment, already counts as an act.
+**Sazang Mati Panchen**, a teacher from long ago, looked closer. He said every gift has two parts:
 
-**Gyaltsab Darma Rinchen** adds that this is why we need *care of mind* — watching our own thoughts closely, the way you would watch your step on ice.
+- **What** you give
+- **How** you give it
 
-The idea to keep: **a thought is not nothing.** What passes through the mind leaves a trace, even when no one sees it.
+The rude giver gets the first part right. He fails the second. So his gift feels cold.
+
+One idea to carry today: **how you give is part of the gift.**
 
 ## Aspiration
 
-*What this is: the same closing wish you say each day.*
+*A wish to close with.*
 
 > May the precious bodhicitta
 > Arise in those who don't have it yet;
@@ -94,6 +101,8 @@ The idea to keep: **a thought is not nothing.** What passes through the mind lea
 
 ## Today's Practice Challenge
 
-**This is your one task for today.**
+**Your task today:**
 
-Watch for the next moment a sharp thought rises about someone — the driver who cut in, the coworker who took the credit, the family member who pushed your button. You will not stop the thought from appearing. But notice it the instant it lands, and choose not to feed it for the next ten seconds. Gyaltsab Darma Rinchen calls this care of mind: catching the thought while it is still small, before it grows.
+Pick one message someone is waiting for.
+
+Do not send it fast and cold. **Slow down, write it with care, then send.**

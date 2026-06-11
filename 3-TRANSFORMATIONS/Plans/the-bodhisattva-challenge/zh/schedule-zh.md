@@ -10,11 +10,16 @@
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-1]]
 
+![[zh-如石法師#^1-1]]
+
+
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-2]]
+
+![[zh-如石法師#^1-2]]
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-3]]
 
----
+![[zh-如石法師#^1-3]]
 
 ## ཉིན་ ༢།
 
@@ -133,6 +138,8 @@
 ## ཉིན་ ༡༥།
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-1]]
+
+![[zh-如石法師#^2-1]]
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-2]]
 

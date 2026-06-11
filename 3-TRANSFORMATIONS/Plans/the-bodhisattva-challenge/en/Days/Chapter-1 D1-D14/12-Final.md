@@ -80,6 +80,6 @@ The verse warns that a hostile mind toward a bodhisattva leads to long suffering
 > May all living beings come to engage
 > In the conduct of the bodhisattvas.
 
-## Today's Practice Challenge
+## Today's Practice
 
 Notice the next flash of contempt you feel toward someone you have quietly written off. Before it hardens into a settled judgment, remember that you cannot see all the good they may still give rise to.

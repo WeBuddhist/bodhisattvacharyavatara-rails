@@ -213,8 +213,6 @@
 
 ![[1-SOURCES/Translations/zh-蔣揚仁欽譯師#^2-1]]
 
-![[zh-如石法師#^2-1]]
-
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-2]]
 
 ![[1-SOURCES/Translations/zh-蔣揚仁欽譯師#^2-2]]

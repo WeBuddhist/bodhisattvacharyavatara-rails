@@ -173,11 +173,11 @@
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-12]]
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-13]]
+
 ---
 
 ## ཉིན་ ༢༠།
-
-![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-13]]
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-14]]
 

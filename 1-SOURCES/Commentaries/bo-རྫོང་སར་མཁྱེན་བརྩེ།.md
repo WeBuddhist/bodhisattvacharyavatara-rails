@@ -1,6 +1,19 @@
+---
+title: སྤྱོད་འཇུག་གླེང་བ།
+author: རྫོང་སར་མཁྱེན་བརྩེ་རིན་པོ་ཆེ།
+translator:
+language: Tibetan
+file_type: commentary
+lang_tag: bo
+source_description: "Oral teachings on the Bodhisattvacharyavatara by Dzongsar Khyentse Rinpoche, transcribed as a series of dharma classes (ཆོས་ཐུན་)"
+root_text:
+covers_verses:
+colophon: "No formal colophon. Text ends without closure; this is a transcription of oral dharma sessions, not a finished written composition."
+---
+
 ༈ སྤྱོད་འཇུག་གླེང་བ་བཞུགས་སོ། །
 
-ཆོས་ཐུན་དང་པོ།
+## ཆོས་ཐུན་དང་པོ།
 
 སྤྱོད་འཇུག་ངོ་སྤྲོད་ཀྱི་སྐོར་སྐད་ཆ་ཞིག་བཤད་རྒྱུ་ཡིན། འོན་ཀྱང་ཁྱེད་ཚོས་འདིས་སྤྱོད་འཇུག་གི་བཀའ་ཁྲིད་ཐོབ་སོང་ཟེར་ནས་གཞན་དག་ལ་མ་བཤད་རོགས་བྱེད། གང་ཡིན་ཟེར་ན་འདིས་སྤྱོད་འཇུག་གི་བཀའ་ཁྲིད་གོ་ཞེ་དྲག་ཆོད་ཀྱི་མ་རེད། སྤྱོད་འཇུག་གི་སྐོར་སྐད་ཆ་བཤད་པ་ལ་ཉི་མ་རིང་པོ་འགོར་གྱི་མ་རེད། ཕལ་ཆེར་རིང་ན་ཉི་མ་བཅུ་ཙམ་གྱི་ནང་དུ་ཚར་འགྲོ་རྒྱུ་ཡིན་པས་ཉི་མ་མང་པོ་འགོར་གྱི་མ་རེད། དེ་ཡང་ཚན་པ་རེར་ཆུ་ཚོད་ཕྱེད་ཀ་ཙམ་མམ་སྐར་མ་བཞི་བཅུ་ཞེ་ལྔ། ཡང་ན་ཆུ་ཚོད་རེ་རེ་བྱས་པ་བཅུ་ཚོད་ཀྱི་འདང་རྒྱུ་རེད་དྲན་གྱི་ཡོད།
 

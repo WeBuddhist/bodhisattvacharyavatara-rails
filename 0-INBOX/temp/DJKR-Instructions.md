@@ -1,132 +1,268 @@
-# DJKR Instructions — Actionable Guidance from the Chöjuk Commentary
+# DJKR — ཆོས་ཐུན་ཁག་ནས་བཀའ་སློབ་དང་གདམས་ངག་བཀོལ་བ།
 
-*Extracted from: `1-SOURCES/Commentaries/bo-རྫོང་སར་མཁྱེན་བརྩེ།.md`*
-*Source: Oral teachings on the Bodhisattvacaryāvatāra by Dzongsar Khyentse Rinpoche*
-
----
-
-## On the Central Purpose of Practice
-
-- The single most repeated instruction across all sessions: **understand the nature of reality (དངོས་པོའི་གནས་ཚུལ)**. Every practice — generosity, ethics, patience, diligence, meditation — must ultimately aim at this.
-- Imbue every practice with prajna (wisdom): "ཡན་ལག་འདི་དག་ཐམས་ཅད་ནི། ཐུབ་པས་ཤེས་རབ་དོན་དུ་གསུངས།" — Śāntideva stated that all the limbs/branches of practice were taught by the Sage for the sake of prajñā.
-- Do not pursue merit for worldly aims (longevity, wealth, prestige). The purpose of accumulating merit is so that beings may understand the nature of reality and bodhicitta may arise.
-- Use the precious human birth (དལ་འབྱོར་གྱི་མི་ལུས) for studying and understanding the nature of reality — not merely as religious specialty but as the actual opportunity to realize what things truly are.
+*གཞི་རྩའི་ཡིག་ཆ། `1-SOURCES/Commentaries/bo-རྫོང་སར་མཁྱེན་བརྩེ།.md`*
+*སྤྱོད་འཇུག་གི་ཁ་སྐོང་བཀའ་ཁྲིད། རྫོང་སར་མཁྱེན་བརྩེ་རིན་པོ་ཆེ།*
 
 ---
 
-## On Practice Sessions and Liturgy
+## ཆོས་ཐུན་དང་པོ (l.16–79)
 
-- Begin every practice session with the refuge and bodhicitta verse:
-  > སངས་རྒྱས་ཆོས་དང་ཚོགས་ཀྱི་མཆོག་རྣམས་ལ། བྱང་ཆུབ་བར་དུ་བདག་ནི་སྐྱབས་སུ་མཆི། བདག་གིས་སྦྱིན་སོགས་བགྱིས་པའི་བསོད་ནམས་ཀྱིས། འགྲོ་ལ་ཕན་ཕྱིར་སངས་རྒྱས་འགྲུབ་པར་ཤོག།
-- Motivate every action with bodhicitta: even lighting a single butter lamp should be done with the thought "may all beings understand the nature of reality."
-- Dedicate merit specifically so that beings may understand the nature of reality, not for ordinary worldly goals.
-- When possible, read the Chöjuk (སྤྱོད་འཇུག) root text. Even opening to a random page and reading is beneficial.
-- Practice the seven-branch offering (ཡན་ལག་བདུན་པ): prostrations, offerings, confession, rejoicing, requesting teachings, requesting the Buddhas to remain, and dedication. Even simply reciting it has power.
-- Rejoicing (རྗེས་སུ་ཡི་རང) alone accumulates merit equivalent to half the merit of the original virtuous act — it is among the easiest and most powerful practices.
+> ཁྱེད་ཚོས་འདིས་སྤྱོད་འཇུག་གི་བཀའ་ཁྲིད་ཐོབ་སོང་ཟེར་ནས་གཞན་དག་ལ་མ་བཤད་རོགས་བྱེད།
 
----
+*(l.18)*
 
-## On Bodhicitta Cultivation
+> སེམས་ཅན་ཐམས་ཅད་ཀྱིས་ཆོས་ཀྱི་གནས་ལུགས་སམ་དངོས་པོའི་གནས་ཚུལ་གང་ཡིན་པ་དེ་ཇི་ལྟ་བ་བཞིན་དུ་རྟོགས་ཐུབ་པའི་ཆེད་དུ་སྨོན་ལམ་བརྒྱབ་པའམ་དེའི་ཆེད་དུ་འབད་རྩོལ་བྱེད་པའམ་སྤྱོད་པ་སྤྱད་པ་དེ་བྱང་ཆུབ་ཀྱི་སེམས་ཞེས་པ་དེ་བཟོ་བར་ངེས་པར་དུ་དགོས།
 
-- Understand both relative (ཀུན་རྫོབ་) and ultimate (དོན་དམ་) bodhicitta together, not separately.
-- Regularly contemplate the equality of self and other (བདག་གཞན་མཉམ་པ): cultivate the view that self and other are equal in their wish to be free from suffering.
-- Practice exchange of self and other (བདག་གཞན་བརྗེ་བ): place yourself in another's position and genuinely consider their perspective and experience — as DJKR describes it: "put your foot in the other person's shoe."
-- This meditation on exchanging self and other, though ancient, is profoundly relevant to modern leadership, conflict resolution, and interpersonal life.
-- For tantra practitioners: maintaining bodhicitta is especially crucial. Losing it is a root downfall.
-- Beginners who cannot undertake heavy practice should at minimum make aspirations and dedications regularly.
+*(l.52)*
+
+> ཡན་ལག་འདི་དག་ཐམས་ཅད་ནི། །ཐུབ་པས་ཤེས་རབ་དོན་དུ་གསུངས།
+
+*(l.74)*
+
+> དེ་ཡང་ནང་པའི་ཐུན་མོང་མ་ཡིན་པའི་ཁྱད་ཆོས་ཏེ་ཐབས་དང་ཤེས་རབ་ཟུང་དུ་འཇུག་པའི་ལམ་ཡིན། ནང་པ་སངས་རྒྱས་པའི་ཆོས་ལམ་འགག་ནང་བཞིན་དེ་ཐབས་རྐྱང་པ་མིན་ཞིང་ཤེས་རབ་རྐྱང་པའང་མིན།
+
+*(l.78)*
 
 ---
 
-## On Patience (བཟོད་པ)
+## ཆོས་ཐུན་གཉིས་པ (l.80–121)
 
-- Practice patience. In the Chöjuk, nothing is said to cause more harm than anger: "སྡིག་པ་སྤངས་ཕྱིར་སྡུག་བསྔལ་མེད། མཁས་པའི་ཕྱིར་ན་མི་དགའ་མེད།"
-- The highest form of patience is **patience with the unborn nature of phenomena** (མི་སྐྱེ་བའི་ཆོས་ལ་བཟོད་པ) — not being frightened or destabilised by emptiness, but being able to hold it in mind and let it pervade one's thinking.
-- Train in patience gradually: Śāntideva teaches beginners step by step — e.g., if someone hits you with a stick, direct anger at the stick rather than the person; then at the afflictions (ཉོན་མོངས་པ) that drive the person, not at the person themselves, who is under their power (རང་དབང་མེད་པར་ཉོན་མོངས་པས་གཡོག་པོར་བསྐོས།).
-- When anger arises, direct it at the afflictions, not at people: "If anger must blaze, let it blaze at the afflictions."
-- Patience is not passive suppression; it is wisdom seeing the true condition of things.
+> ཡན་ལག་འདི་དག་ཐམས་ཅད་ནི། །ཐུབ་པས་ཤེས་རབ་དོན་དུ་གསུངས། །ཞེས་སྦྱིན་པ་དང་...འདི་མ་བྱེད་འདི་བྱེད། འདི་མ་བསམ་འདི་བསམ་ལ་སོགས་པ་གསུང་དགོས་པའི་རྒྱུ་མཚན་དེ་ཤེས་རབ་ཀྱི་དོན་དུ་ཡིན་གསུངས་པ་རེད།
 
----
+*(l.82)*
 
-## On Diligence (བརྩོན་འགྲུས)
+> སྦྱིན་པ་དང་། ཚུལ་ཁྲིམས། བཟོད་པ། བརྩོན་འགྲུས། བསམ་གཏན་དེ་ཚོ་ཐམས་ཅད་ཤེས་རབ་ཀྱི་དོན་དུ་གསུངས་པ་རེད་ཅེས་དེ་ཙམ་གྱི་མིན་པར། དཔེར་ན་བྱམས་སྙིང་རྗེ་དང་ངེས་འབྱུང་ལ་སོགས་པ་དེ་ཚོ་ཐམས་ཅད་ལ་ཤེས་རབ་ཀྱི་རྩིས་ཟིན་པ་ཞིག་དགོས་ཀྱི་ཡོད།
 
-- Diligence is defined as enthusiasm for virtue (དགེ་བ་ལ་སྤྲོ་བ), not mere quantity of time spent or texts recited.
-- The deepest virtue is understanding the nature of reality. So cultivate genuine delight in this.
-- Warning: reciting many mantras, waking early, reading many pages, doing long sessions — these can be signs of diligence, but check whether you genuinely enjoy virtue or are just going through motions.
-- A practical instruction for beginners: develop appreciation for Śākyamuni Buddha (ཤཱཀྱ་ཐུབ་པ) — think of the Buddha at whatever frequency is honest for you. If you can do it once a year, do that. Then once a month; then weekly; then daily; then hourly; then every few minutes. Done this way, a person becomes an extraordinary practitioner.
-  - Recalling the Buddha does not require a full recitation; a single moment of genuine appreciation — visualising the Buddha's head, hands, or feet — is sufficient.
-- Do not assign too many practices to beginners; it produces discouragement. Students should feel that what they are doing is genuinely achievable and joyful.
-- The analogy of fans and athletes: a football fan who loves the game will wake at 2am willingly, know players' birthdays, follow every match. Diligence flows naturally from genuine love. Cultivate genuine love of the Dharma.
-- Teach students to gradually increase their engagement: start with delight in the Three Jewels. Once that's established, they will naturally want more.
+*(l.90)*
 
----
+> ནང་པ་སངས་རྒྱས་པའི་བྱ་བ་གང་ཞིག་ཡིན་རུང་དེ་ལྟ་བུའི་ཤེས་རབ་དེར་སླེབས་ཐུབ་དགོས་པས། ཡན་ལག་འདི་དག་ཐམས་ཅད་ནི། །ཐུབ་པས་ཤེས་རབ་དོན་དུ་གསུངས། །ཞེས་པ་གསུངས་པ་རེད།
 
-## On Guarding the Mind (སེམས་བསྲུང)
+*(l.98)*
 
-- Guard the mind: "བསླབ་པ་བསྲུང་བ་འདོད་པ་ཡིས། རབ་ཏུ་སྒྲིམ་ནས་སེམས་སྲུང་སྟེ།"
-- Mindfulness (དྲན་པ) and mind-guarding must be combined with prajñā — mindfulness without wisdom is just suffering.
-- Develop samatha (ཞི་གནས) as the basis for vipaśyanā (ལྷག་མཐོང).
-- Cultivate vipaśyanā to see what is not ordinarily seen: impermanence, impurity, suffering, and selflessness as they truly are.
+> མ་རིག་པའི་གཉེན་པོ་ངོ་མ་གང་རེད་ཅེ་ན། མ་རིག་པའི་ཁོ་རང་གི་བདེན་པའམ་ཁོ་རང་གི་གནས་ཚུལ། ཡང་ན་ཁོ་རང་གི་སྙིང་པོ་དེ་ཁོ་རང་གི་གཉེན་པོ་ངོ་མ་དེ་རེད་ཡོད། དེ་གང་རེད་ཅེ་ན་མ་རིག་པ་དེ་ཡང་རྩེད་མོ་རྩེད་ཆས་ནང་བཞིན་དང་རྨི་ལམ་ནང་བཞིན། གློག་བརྙན་ནང་བཞིན། སྒྱུ་མ་ནང་བཞིན། ཆུ་ཟླ་ནང་བཞིན་ཡིན།
+
+*(l.108)*
+
+> བྱང་ཆུབ་སེམས་དཔའི་བསམ་བློ་གཏོང་སྟངས་ཏེ་བསམ་བློ་འཁྱེར་སོ་དང་ལྟ་བ་དེར་གཞིར་བཞག་ནས་བྱང་ཆུབ་སེམས་དཔའ་ཚོས་རང་གི་དོན་དུ་ལས་ཀ་བྱེད་སྟངས་དང་གཞན་གྱི་དོན་དུ་ལས་ཀ་བྱེད་སྟངས་དམིགས་ཡུལ་དང་བཅས་པ་རྣམས་སྤྱོད་འཇུག་གི་ནང་དུ་གསུངས་ཡོད།
+
+*(l.110)*
 
 ---
 
-## On the Spiritual Teacher
+## ཆོས་ཐུན་གསུམ་པ (l.122–177)
 
-- Rely on a spiritual friend (དགེ་བའི་བཤེས་གཉེན) who is skilled in Mahāyāna meaning and holds the bodhisattva vows.
-- The ideal spiritual friend is one in whose activities — whatever they do — directly or indirectly help beings understand the nature of reality.
+> གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་ལས་དང་པོ་པ་ཚོས་དཀའ་ལས་དངོས་སུ་རྒྱག་མ་ཐུབ་ཀྱང་སྨོན་ལམ་བརྒྱབ།
 
----
+*(l.134)*
 
-## On Kadampa Practice Instructions
+> སངས་རྒྱས་ཆོས་དང་ཚོགས་ཀྱི་མཆོག་རྣམས་ལ། །བྱང་ཆུབ་བར་དུ་བདག་ནི་སྐྱབས་སུ་མཆི། །བདག་གིས་སྦྱིན་སོགས་བགྱིས་པའི་བསོད་ནམས་ཀྱིས། །འགྲོ་ལ་ཕན་ཕྱིར་སངས་རྒྱས་འགྲུབ་པར་ཤོག།
 
-- The classic Kadampa instruction on what to relinquish in practice: be willing to give up reputation/fame (གཏམ་སྙན་གྲགས), preoccupation with food and clothing, and gossip.
-- Contemplate that praise, blame, and the eight worldly concerns have no real meaning — this contemplation itself is powerful practice.
+*(l.136)*
 
----
+> དུས་རྒྱུན་ང་ཚོས་ཕྱག་འཚལ་བ་དང་། མཆོད་མེ་ཕུལ་བ། སྤོས་ཕུལ་བ། མཆོད་རྟེན་ལ་བསྐོར་བ་རྒྱག་པ།...ཡིན་ན་རེད་བསམ་པ་སེམས་བསྐྱེད་ཀྱིས་རྩིས་ཟིན་དགོས་རེད་ཅེས་གསུང་གི་ཡོད་རེད།
 
-## On Teaching and Communication
+*(l.138)*
 
-- Study and present Dharma in language accessible to contemporary people. The intent is transmission of the nature of reality, not preservation of archaic forms.
-- **Critical instruction on terminology (ཐ་སྙད):** Be extremely attentive to how Buddhist terms land in the minds of modern students, especially those educated in English or Western contexts. The Tibetan word སྙིང་རྗེ (compassion) may be heard as the Christian concept "Compassion" in the minds of Western-educated Tibetans. Similarly, སྡིག་པ (non-virtue) may be heard as "Sin" — a fundamentally different concept. These unconscious translations corrupt the teaching.
-- Use different methods (ཐབས་ཤེས) for different audiences. There is no one-size-fits-all approach.
-- When introducing the Chöjuk to beginners or youth, give a few days of introductory talks (ངོ་སྤྲོད་ཀྱི་ཚུལ་དུ་བཀའ་མོལ) — this helps them understand how to read commentaries and the mode of discourse used.
-- When teaching teachers and leaders: introduce the practice of exchanging self and other (བདག་གཞན་བརྗེ་བ). This is the Buddhist contribution to leadership training — and DJKR says it is the most practically transformative teaching for anyone in a leadership role.
-- Do not repeat old formulas to young people; find ways to express the meaning freshly.
-- When you cannot yet reach deep truths, at least ensure students develop genuine affection and appreciation for the Buddha and the Dharma.
+> ངས་མཆོད་མེ་ཕུལ་བ་འདི་ལ་བརྟེན་ནས་རང་ལས་ཀྱང་རྩ་ཆེ་བའི་གཞན་དག་ཐམས་ཅད་ཀྱིས་དངོས་པོའི་གནས་ལུགས་མཐོང་བའི་རྒྱུ་ཞིག་ཆགས་འགྲོ་བར་ཤོག།
 
----
+*(l.140)*
 
-## On Establishing the View
+> བག་ཆགས་ཀྱི་དབང་གིས་ཁ་རྩང་གི་ང་དང་དེ་རིང་གི་ང་གཉིས་གཅིག་པ་ཡིན་བསམ་གྱི་རེད།
 
-- The most important tool for establishing the view (ལྟ་བ་གཏན་ལ་འབེབས་པ) is the Two Truths framework (བདེན་གཉིས་ཀྱི་སྐད་ཆ).
-- Understand the Two Truths as a **tool** (ལག་ཆ་ལྟ་བུ), like tools used to build a house: once the house is built, you set them down. The Two Truths are not themselves the final truth to cling to.
-- The analogy of the rope and snake is key: all confusion, suffering, and affliction arise from not understanding the nature of reality (misidentifying the rope as a snake). Realising the rope is a rope dissolves the fear. Use this image to understand why establishing the view matters.
-- When teaching emptiness, **teach only to suitable vessels** (གདུལ་བྱ་སྣོད་དང་ལྡན་པ). Skillful means (ཐབས་མཁས) are essential. Use different styles of explanation for different minds. Don't just thrust the truth at someone unprepared — find the appropriate approach.
+*(l.148)*
+
+> མི་རྟག་པ་དང་། མི་གཙང་བ། སྡུག་བསྔལ་བ་བཅས་དེ་དག་གི་རང་བཞིན་མཐོང་བ་ལ་བདེན་པ་མཐོང་ཞེས་བརྗོད་དགོས།
+
+*(l.166)*
+
+> དེ་ལས་ཀྱང་གལ་ཆེ་བའི་བདེན་པ་མཐོང་བར་ངོས་འཛིན་བྱེད་ས་དེ་བདག་མེད་པ་ལ་བདག་མེད་པར་མཐོང་བའམ་ཆོས་ཐམས་ཅད་རང་བཞིན་གྱིས་མ་གྲུབ་པར་སྟོང་པ་ཉིད་ཡིན་པ་ལ་སྟོང་པ་ཉིད་དུ་མཐོང་བ་དེ་ཡིན།
+
+*(l.168)*
 
 ---
 
-## On Study — Recommended Texts
+## ཆོས་ཐུན་བཞི་པ (l.178–235)
 
-For those wishing to study in preparation for Vajrayāna:
-- Read the **Vimalakīrti Sutra** (དྲི་མེད་གྲགས་པའི་མདོ)
-- Read short sūtras such as the *Sarvadharmāpravṛtti* (ཆོས་ཐམས་ཅད་འབྱུང་བ་མེད་པའི་མདོ)
-- Read the *Mañjuśrī-vikrīḍita Sūtra* (འཇམ་དཔལ་རྣམ་པར་རོལ་པའི་མདོ)
-- Read the **Uttaratantra Śāstra** (རྒྱུད་བླ་མ) — recommended especially
-- Read **Nāgārjuna's Dharmadhātu Stotra** (ཆོས་དབྱིངས་བསྟོད་པ) — this should be read even by those who have studied Nāgārjuna's root texts; it is often neglected
+> དངོས་གནས་བྱེད་ན་ནང་པ་སངས་རྒྱས་པའི་ཆོས་དེ་ཕྱི་ནང་གསང་གསུམ་གྱི་ཚན་རིག་རེད་སྡོད་ཡོད།
 
-For those in śrāvakayāna/Chinese Buddhist study contexts: remember that Śāntideva and the entire Madhyamaka vision are technically Indian (Śāntideva was from Gujarat), not external imports.
+*(l.182)*
 
----
+> དངོས་པོའི་གནས་ཚུལ་དོན་དུ་གཉེར་མཁན་ཞིག་རེད་བསམ་ནས་དེའི་ལམ་ཉམས་སུ་ལེན་པ་དེ་ནང་པ་སངས་རྒྱས་པའི་ལམ་ཞེས་མཛུབ་མོ་བཙུག་ས་དེ་རེད།
 
-## On Karma and Dependent Origination
+*(l.202)*
 
-- When explaining karma and rebirth, don't stay at the superficial level. The deepest teaching on karma leads to dependent origination (རྟེན་ཅིང་འབྲེལ་འབྱུང), and from there to śūnyatā — which leads naturally back to the nature of reality.
-- "Good actions lead to heaven; bad actions lead to hell; plant a seed and the fruit grows" — these are the coarse teachings on karma. The subtle teaching is dependent origination, which leads directly to emptiness.
+> ཉོན་མོངས་ཞེས་པ་གང་རེད་ཟེར་དུས་མཚམས་མཚམས་ང་ཚོས་ཚིག་གང་བེད་སྤྱོད་གཏོང་གི་ཡོད་ཅེ་ན། ཚུལ་བཞིན་མ་ཡིན་པ་ཡིད་ལ་བྱེད་པ་ཞེས་བརྗོད་ཀྱི་ཡོད།...དངོས་པོའི་གནས་ཚུལ་གང་ཡིན་པ་དེ་མ་ཡིན་པའམ་དེ་དང་མ་མཐུན་པའི་བསམ་བློ་གཏོང་སྡོད་པ་དེ་ཚུལ་བཞིན་མ་ཡིན་པ་ཡིད་ལ་བྱེད་པ་ཡིན།
+
+*(l.206)*
 
 ---
 
-## Miscellaneous Practical Notes
+## ཆོས་ཐུན་ལྔ་པ (l.236–281)
 
-- Do not tell others you received the complete Chöjuk teachings from these sessions alone (session 1 warning).
-- Simple, sincere devotion is valid and important. The example of the Sri Lankan bus driver: he simply scattered flowers at a Buddha image with his shoes removed and hands joined — no elaborate ritual, just sincere offering. DJKR found this deeply moving and began emulating it.
-- Any form of showing affection for the Three Jewels is valid: phone wallpaper of the Buddha, a tattoo of the Dharma — these are all legitimate expressions and should not be criticized by teachers.
-- "Once a minute remembrance of Śākyamuni Buddha" is real practice. Let it be brief but genuine: a moment's thought of the Buddha's head, hands, or feet; a moment's recollection of his history or qualities.
+> དངོས་གནས་བསམ་བློ་ལེགས་པར་གཏོང་ཤེས་ན་དལ་འབྱོར་གྱི་མི་ལུས་ཞེས་ངོས་འཛིན་བྱེད་ས་ངོ་མ་དེ། དངོས་པོའི་གནས་ཚུལ་ཇི་བཞིན་ཤེས་འདོད་མི་ལ་ཡོང་གི་ཡོད་པ་ལས།
+
+*(l.242)*
+
+> ཟག་མེད་ཀྱི་དགེ་བ་དེ་ཕར་བཞག་ནས་ཟག་བཅས་ཀྱི་དགེ་བ་རྐྱང་པ་བསྒྲུབ་པ་ཡིན་ན་ནང་པ་སངས་རྒྱས་པ་མ་བྱུང་བ་ཡིན།
+
+*(l.252)*
+
+> གལ་ཏེ་དེ་ལས་ཤེས་རབ་ཀྱི་བསླབ་པ་དེ་མེད་པར་བཏང་ན། ཚུལ་ཁྲིམས་ཀྱི་བསླབ་པ་དང་ཏིང་ངེ་འཛིན་གྱི་བསླབ་པ་གཉིས་ལ་གྱོང་རག་སྡོད་ཡོད།
+
+*(l.254)*
+
+> བྱང་ཆུབ་ཀྱི་སེམས་ཉམས་པ་ཡིན་ན་རྩ་བའི་ལྟུང་བ་ཞིག་ཕོག་གི་ཡོད། དེ་བཞིན་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་རྩིས་མ་ཟིན་ནས་ལྷ་བསྒོམ་པ་དང་སྔགས་ཟླས་བྱས་པ་ཡིན་ན་རང་གཞན་གཉིས་ཆར་གནོད་པ་ལས་ཕན་མི་ཐོགས་པར་གསུངས་ཡོད།
+
+*(l.256)*
+
+> མཆོད་པ་ཕུལ་བ་དང་། སྡིག་པ་བཤགས་པ་དང་། ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་བའི་གསོལ་བ་བཏབ་པ་ལ་སོགས་པ་ཡན་ལག་བདུན་པ་བྱེད་པ་དེ་ནི་གཙོ་བོ་གང་རེད་ཅེ་ན། བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་ས་བོན་དེ་རང་རྒྱུད་ལ་ཡོད་པ་དེ་ཆེ་རུ་དང་མང་དུ་དང་བརྟན་དུ་གཏོང་བའི་ཆེད་དུ་ཐེག་པ་ཆེན་པོའི་ཐབས་ཤེས་དེ་ཚོ་ཡིན།
+
+*(l.274)*
+
+> གཞན་གྱིས་དངོས་པོའི་གནས་ཚུལ་ཇི་ལྟ་བ་ཤེས་པའི་ཆེད་དང་བྱང་ཆུབ་ཀྱི་སེམས་སྐྱེ་བའི་ཆེད་དུ་བསོད་ནམས་བསག་དགོས་པ་ཡིན།
+
+*(l.280)*
+
+---
+
+## ཆོས་ཐུན་དྲུག་པ (l.282–345)
+
+> བཀའ་གདམས་པའི་དགེ་བའི་བཤེས་གཉེན་དེ་ཚོའི་གསུང་དེ་ཚོ་ཤིན་ཏུ་ལེགས་པོ་ཡོད། ཆོས་ཉམས་ལེན་བྱེད་པའི་ཚེ་ན་གྱོང་ལྟོ་གོས་གཏམ་གསུམ་ལ་གཏང་དགོས་ཀྱི་རེད་ཅེས་གསུངས་ཡོད།
+
+*(l.292)*
+
+> ནམ་ཞིག་ན་བསྟོད་སྨད་དང་། རྙེད་བཀུར། ཐོབ་ཤོར་འདི་དག་ཧ་ལས་པ་གང་ཡང་མི་འདུག་སྙམ་པའི་བསམ་བློ་ཞིག་སྐྱེ་གི་ཡོད།
+
+*(l.296)*
+
+> གང་ལྟར་སྔར་བཤད་པ་ལྟར་རང་དོན་གྱི་ཆེད་དུ་ཆོས་ཉམས་ལེན་མཁན་ཡིན་ན་ཡང་འདྲ། གཞན་མར་ཆོས་བཤད་པའི་སྐབས་དེ་ཚོར་བདག་མེད་པའི་སྐོར་བཤད་དགོས།
+
+*(l.310)*
+
+> ན་གཞོན་ཚོར་སྡུག་བསྔལ་ཡོད་ཀྱང་སྐད་ཆ་མི་སྙན་པ་དེ་ཚོ་བཤད་ཡོང་དུས་ཉན་སྙིང་བྲོ་གི་མི་འདུག་ཟེར་མཁན་དང་། ཡང་སྡུག་བསྔལ་མེད་བསམ་མཁན་དེ་ཚོ་ཡང་གཙོ་བོར་འགག་དོན་སྙིང་པོ་དེ་ཁོ་ཚོར་གང་ཞིག་བྱུང་ཡོད་མ་རེད་ཅེ་ན། དངོས་པོའི་གནས་ཚུལ་བདག་མེད་དེའི་སྐོར་ཕལ་ཆེར་མ་ཐོས་པ་དང་གོ་རྟོགས་མེད་པ་རེད།
+
+*(l.312)*
+
+> དོན་དམ་བྱང་ཆུབ་ཀྱི་སེམས་སམ་དངོས་པོའི་གནས་ཚུལ་རྟོགས་པའི་ཤེས་རབ་དེ་བྱང་ཆུབ་ཀྱི་སེམས་ཞེས་དངོས་འཛིན་བྱེད་ས་ཆེ་ཤོས་ཆགས་ཀྱི་ཡོད།
+
+*(l.330)*
+
+> ཇི་ལྟར་སྔོན་གྱི་བདེ་གཤེགས་ཀྱིས། །བྱང་ཆུབ་ཐུགས་ནི་བསྐྱེད་པ་དང་། །བྱང་ཆུབ་སེམས་དཔའི་བསླབ་པ་ལ། །དེ་དག་རིམ་བཞིན་གནས་པ་ལྟར། །དེ་བཞིན་འགྲོ་ལ་ཕན་དོན་དུ། །བྱང་ཆུབ་སེམས་ནི་བསྐྱེད་བགྱི་ཞིང་། །དེ་བཞིན་དུ་ནི་བསླབ་པ་ལའང་། །རིམ་པ་བཞིན་དུ་བསླབ་པར་བགྱི།
+
+*(l.338)*
+
+> བྱང་ཆུབ་ཀྱི་སེམས་བསྐྱེད་ཅེས་བརྗོད་དུས་ཕན་སེམས་འདྲ་དང་། སྙིང་རྗེ་བཅོས་མ་འདྲ་དང་...དེ་ཙམ་མིན་པར་སེམས་ཅན་ཐམས་ཅད་ལ་དངོས་པོའི་གནས་ཚུལ་རྟོགས་པའི་ཆེད་དུ་ཐབས་ཤེས་བརྒྱ་འགྱུར་སྟོང་འགྱུར་མང་པོ་བྱེད་ཀྱི་ཡིན་བསམ་པ།
+
+*(l.340)*
+
+---
+
+## ཆོས་ཐུན་བདུན་པ (l.346–395)
+
+> བྱང་ཆུབ་ཀྱི་སེམས་བསྐྱེད་ཚར་བའི་རྗེས་སུ་བྱང་ཆུབ་སེམས་དཔའི་བསླབ་བྱ་གང་ཡོད་པ་ཐམས་ཅད་ལམ་སེང་བསླབ་མ་ཐུབ་ཀྱང་། རིམ་གྱིས་སོ་སོའི་བློ་དང་མཚམས་ཞིང་ནུས་པ་དང་བསྟུན་གིན་བསྟུན་གིན་རིམ་གྱིས་བསླབ་པར་གྱིས།
+
+*(l.352)*
+
+> ཡན་ལག་འདི་དག་ཐམས་ཅད་ནི། །ཐུབ་པས་ཤེས་རབ་དོན་དུ་གསུངས། །ཞེས་གསུངས་པ་ལྟར་དུ་ཤེས་རབ་ཀྱིས་རྩིས་ཟིན་པའི་ཚུལ་ཁྲིམས་དེ་དགོས་ཀྱི་ཡོད།
+
+*(l.356)*
+
+> བསླབ་པ་བསྲུང་བ་འདོད་པ་ཡིས། །རབ་ཏུ་སྒྲིམ་ནས་སེམས་སྲུང་སྟེ། །སེམས་ནི་བསྲུང་བ་མ་ནུས་ན། །བསླབ་པ་སྲུང་བ་ཡོང་མི་ནུས།
+
+*(l.360)*
+
+> ཤེས་རབ་ཀྱིས་རྩིས་ཟིན་པའི་སྒོ་ནས་སེམས་བསྲུང་བྱ་རྒྱུ་གནད་འགག་ཆེན་པོ་ཡིན་པ་ལས། ཤེས་རབ་མེད་པའི་སེམས་པ་བསྲུང་བ་རྐྱང་པ་བྱེད་པ་ནི་སྡུག་གྱོང་རང་ཡིན།
+
+*(l.362)*
+
+> ཞི་གནས་རབ་ཏུ་ལྡན་པའི་ལྷག་མཐོང་གིས། །ཉོན་མོངས་རྣམ་པར་འཇོམས་པར་ཤེས་བྱས་ནས། །ཐོག་མར་ཞི་གནས་བཙལ་བྱ་དེ་ཡང་ནི། །འཇིག་རྟེན་ཆགས་པ་མེད་ལ་མངོན་དགས་འགྲུབ།
+
+*(l.364)*
+
+> སྡིག་པ་སྤངས་ཕྱིར་སྡུག་བསྔལ་མེད། །མཁས་པའི་ཕྱིར་ན་མི་དགའ་མེད།
+
+*(l.382)*
+
+> ཁྱོད་ཚོ་ནང་པ་སངས་རྒྱས་པ་རེད་འདུག ཁྱོད་ཚོས་ཅི་ཞིག་བྱེད་ཀྱི་ཡོད་ཟེར་ན། རྡོག་རྡོག་མར་བཤད་རྒྱུ་དེ་དངོས་པོའི་གནས་ཚུལ་ཇི་མ་ཇི་བཞིན་ཤེས་འདོད་ཡོད་པ་དང་། དེའི་ཆེད་དུ་དཀའ་ལས་བརྒྱབས། དངོས་པོའི་གནས་ཚུལ་ཧ་གོ་བ་ཡིན་ན། དངོས་པོའི་གནས་ཚུལ་ཧ་མ་གོ་བའི་མ་རིག་པ་ལ་བརྟེན་ནས་བྱུང་བའི་སྡུག་བསྔལ་ལས་ཐར་བ་ཡིན་པར་འདོད་མཁན་གྱི་རྗེས་འཇུག་པ་ཡིན་ཞེས་ལབ་དགོས་ཀྱི་ཡོད།
+
+*(l.390)*
+
+> གང་བྱེད་ཀྱང་བྱེད་ཆོག་པ་ཡིན། ཡིན་ན་ཡང་དེ་དག་གི་ཐ་མའི་ཐ་མར་བབས་ས་དེ་དངོས་པོའི་གནས་ཚུལ་ཧ་གོ་བའི་ཆེད་དུ་ཡིན་དགོས།
+
+*(l.394)*
+
+---
+
+## ཆོས་ཐུན་བརྒྱད་པ (l.396–463)
+
+> གལ་ཏེ་སྤྲོ་ལངས་ཤིང་ཁོང་ཁྲོ་འབར་དགོས་ཀྱི་ཡོད་ན་ཉོན་མོངས་པའི་དགྲ་བོ་ལ་འབར་དགོས་ཀྱི་རེད།
+
+*(l.408)*
+
+> བཟོད་པ་ཞེས་པ་དེ་ཡང་དོན་དག་རྡོག་རྡོག་དངོས་པོའི་གནས་ཚུལ་དེ་ལ་མི་སྐྲག་པའམ་མི་འཇིགས་པ་སྟེ། དངོས་པོའི་གནས་ཚུལ་ལམ་མི་སྐྱེ་བའི་ཆོས་སམ་སྟོང་པ་ཉིད་དེ་ལ་བཟོད་པའམ་ཁས་བླངས་ཐུབ་པ་དང་། བསམ་བློའི་ནང་དུ་འཁོར་ཐུབ་པ་སྟེ་བསམ་བློའི་ནང་དུ་ཤོང་བ་བྱེད་དགོས་པ་ཡིན།
+
+*(l.412)*
+
+> བརྩོན་གང་དགེ་བ་ལ་སྤྲོ་བ་སྟེ།
+
+*(l.414)*
+
+> རང་རང་སོ་སོའི་བློ་ཚོད་དང་ནུས་པ་ཤེས་ཡོན་བཅས་ལ་བསྟུན་ནས་བྱེད་ཆོག་པ་ཡིན།
+
+*(l.430)*
+
+> མཚམས་མཚམས་ལ་རང་ཉིད་དང་གཞན་ནམ་བདག་གཞན་མཉམ་པའི་བྱང་ཆུབ་ཀྱི་སེམས་ཏེ་རང་གཞན་གཉིས་གཅིག་པའམ་འདྲ་མཉམ་རེད་བསམ་པའི་སྒོ་ནས་སྒོམ་སྟངས་མང་པོ་ཞིག་གསུངས་ཡོད་པས་དེ་ཚོར་བསམ་བློ་གཏོང་། དེ་ནས་བདག་གཞན་བརྗེ་བའི་བྱང་ཆུབ་ཀྱི་སེམས་ཏེ། རང་མི་གཞན་དག་གི་ས་ཆ་ལ་བཞག གཞན་རང་གི་ས་ཆ་ལ་བཞག་པ།
+
+*(l.438)*
+
+> སྙིང་རྗེ་ཞེས་བརྗོད་དུས...བོད་པའི་ཕོ་གསར་མོ་གསར་ཚོའི་བསམ་བློའི་ནང་དུ་ནང་པའི་སྙིང་རྗེ་དེ་ཡིན་མདོག་མདོག་ཡིན་ཡང་ཁ་ནས་མར་འདོན་ཡོང་དུས་ཡེ་ཤུའི་སྙིང་རྗེ་དེ་འདོན་ཡོང་གི་ཡོད།
+
+*(l.460)*
+
+> སྡིག་པ་ཞེས་པ་ཁོ་ཚོའི་རྣ་ཅོག་གཡས་པ་ནང་ཚུར་འཛུལ་བ་དང་ཀླད་པའི་ནང་དུ་དབྱིན་ཇིའི་ཐ་སྙད་བེད་སྤྱོད་གཏོང་གཏོང་མཐར་ཁ་ནས་མར་འདོན་དུས་ Sin ཞེས་པ་དེ་འདོན་ཡོང་གི་ཡོད།...Sin ཞེས་པ་ང་ཚོའི་ནང་པའི་བཤད་པའི་སྡིག་པ་དང་འདྲ་ཡི་མེད།
+
+*(l.462)*
+
+---
+
+## ཆོས་ཐུན་དགུ་པ (l.464–536)
+
+> གལ་ཏེ་ཉམས་ལེན་མ་བྱེད་ན་ཁ་ལག་བཟོས་པའི་ཐ་མར་མ་བཟས་པ་དང་གཅིག་པ་རེད།
+
+*(l.468)*
+
+> སྔགས་ཀྱི་སྐོར་ལ་དོ་སྣང་དགོས་པ་དང་གནང་རོགས་གནང་།
+
+*(l.474)*
+
+> གལ་ཏེ་སྔགས་ཀྱི་སྐོར་ལ་སློབ་སྦྱོང་བྱ་རྒྱུའི་འདུན་པ་ཡོད་ཅིང་...དྲི་མེད་གྲགས་པའི་མདོ་ལྟ་བུ་དེ་དག་ཀློག་ན་ཕན་ཐོགས་ཡོད།
+
+*(l.476)*
+
+> མདོ་སྡེ་ཆུང་ཆུང་སྟེ་དཔེར་ན་ཆོས་ཐམས་ཅད་འབྱུང་བ་མེད་པའི་མདོ་དང་། འཇམ་དཔལ་རྣམ་པར་རོལ་པའི་མདོ་ཞེས་པ་དེ་ཚོར་ཐོས་བསམ་ཅུང་ཟད་གནང་ན་སྔགས་གཟིགས་མ་མྱོང་མཁན་ལ་གྲ་སྒྲིག་ལྟ་བུའི་ཕན་ཐོགས་ཡོད།
+
+*(l.480)*
+
+> རྒྱུད་བླ་མར་གཟིགས་ན་ཡག་པོ་ཡོད་ཅིང་།...ཀླུ་སྒྲུབ་ཀྱིས་མཛད་པའི་ཆོས་དབྱིངས་བསྟོད་པ་ལ་སོགས་པའི་བསྟོད་ཚོགས་དེ་ཚོར་ལ་གཟིགས་དགོས། བཤད་གྲྭ་དེ་ཚོའི་ནང་དུ་དབུ་མ་རྩ་བ་ཤེས་རབ་དེ་ཚོ་ལ་ཟླ་བ་ལྔ་དྲུག་སློབ་སྦྱོང་བྱས་ཤིང་ཆོས་དབྱིངས་བསྟོད་པ་དེ་ཚོ་ཚར་གཅིག་ཀྱང་འདོན་གྱི་མི་འདུག ཇུས་གཏོགས་མ་བྱས་པ་དེ་ཅུང་ཟད་མ་འགྲིག་པ་ཡིན་ས་རེད།
+
+*(l.482)*
+
+> མདོ་སྡེ་དང་བསྟན་བཅོས་མང་པོའི་ནང་དུ་སྟོང་པ་ཉིད་ཀྱི་ཆོས་དེ་གདུལ་བྱ་སྣོད་དང་ལྡན་པ་ལ་མ་གཏོགས་བཤད་ཉན་གྱི་མ་རེད་ཅེས་གསུངས་ཡོད་པས། གཟབ་གཟབ་དང་ཐབས་མཁས་པོའི་སྒོ་ནས་སྟེ།
+
+*(l.492)*
+
+> གང་ལྟར་བདེན་པ་ཞེས་དངོས་པོའི་གནས་ཚུལ་ཞེས་པ་དེ་གང་ཞིག་ཡིན་པ་ཞིག་གཏན་ལ་ཕབ་དགོས་པ་སྟེ། དཔེར་ན་ཐག་ཁྲ་སྦྲུལ་མ་ཡིན་པར་ཧ་གོ་དགོས་པ་ཡིན། ཧ་གོ་བ་ལ་མི་དང་མི་བར་དུ་ཚིག་དང་ཐ་སྙད་དང་། དཔེ་དང་རིགས་པ་བཅས་བེད་སྤྱོད་གཏོང་ནས་སྐད་ཆ་ཞིག་བཤད་དགོས་པ་ལས་གཞན་ཐབས་ཤེས་མེད།
+
+*(l.494)*
+
+> བདེན་པ་གཉིས་ཞེས་པ་དེ་ཡང་ལག་ཆ་ཙམ་ཞིག་ཡིན། དེ་ཡང་ལྟ་བ་གཏན་ལ་དབབ་དགོས་པས་མ་བཟོ་རང་བཟོ་རེད།
+
+*(l.510)*
+
+> བདེན་པ་གཉིས་ཞེས་པ་དེ་ཡང་ལག་ཆ་ཙམ་ཞིག་རེད་མ་གཏོགས། བདེན་པ་གཉིས་ཞེས་པ་དེ་ནང་པས་མར་གཡུག་རྒྱུ་མེད་པར་ད་ནས་བཟུང་སྟེ་སང་ཉིན་སངས་རྒྱས་ཀྱི་གོ་འཕང་མ་ཐོབ་བར་དུ་བདེན་གཉིས་ཞེས་པ་ཞིག་གཟུང་གཟུང་ཁར་འགྲོ་སྡོད་དགོས་པ་ཞིག་ཡོད་མ་རེད། ལྟ་བ་གཏན་ལ་འབེབས་པའི་སྐབས་སུ་དགོས་ཀྱི་ཡོད།
+
+*(l.534)*
+
+> ཁྱེད་རྣམ་པས་ལས་དང་པོའམ་ཕྲུ་གུ་དེ་ཚོར་སྤྱོད་འཇུག་གོ་བརྡ་འཕྲོད་པའི་ཆེད་དུ་ཉི་མ་ཁ་ཤས་ཤིག་གི་རིང་ལ་ངོ་སྤྲོད་ཀྱི་ཚུལ་དུ་བཀའ་མོལ་གནང་ན་གནང་སྟངས་དེ།
+
+*(l.536)*

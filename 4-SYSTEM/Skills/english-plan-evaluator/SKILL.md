@@ -114,6 +114,7 @@ Verdict: READY TO COMPLETE | NEEDS FIXES (n critical, n major, n minor)
 The rating is always the last thing in the report.
 
 Rules for the report:
+- **Write the feedback in plain, simple language anyone can follow.** Do not use the skill's own jargon in the feedback ("major", "minor", "slop", "machine-tell", "meta label", "monitor-a-bad-feeling"). Say the problem in everyday words: not "machine-tell: em-dashes" but "has long dashes (—) that make it look AI-written"; not "old liturgy mismatch" but "uses the old prayers, which don't match the current ones". The severities still drive the score behind the scenes, but the words the reader sees should be plain.
 - Quote the exact text for every failure. Never describe a problem without showing it.
 - Give each failure a concrete one-line fix, not a vague note.
 - Be specific about location (which section).

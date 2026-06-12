@@ -106,7 +106,12 @@ Verdict: READY TO COMPLETE | NEEDS FIXES (n critical, n major, n minor)
 
 ## Passed
 - short list of the notable checks that passed (structure, grounding, etc.)
+
+## Rating
+[N]/10 — [label]. One sentence justifying the score.
 ```
+
+The rating is always the last thing in the report.
 
 Rules for the report:
 - Quote the exact text for every failure. Never describe a problem without showing it.
@@ -121,6 +126,24 @@ Rules for the report:
 - **READY TO COMPLETE** only if there are zero critical and zero major issues. Minor issues may remain at the reviewer's discretion.
 - Any critical issue → **NEEDS FIXES**, and the day must not be promoted to `status: complete`.
 - The evaluator never sets `status: complete` itself. A domain specialist makes that call after the critical and major issues are cleared.
+
+---
+
+## Rating scale
+
+End every evaluation with one overall rating out of 10. The rating summarises quality, but fidelity is non-negotiable, so the severities cap it:
+
+- **9–10 — Excellent, ready.** Zero critical, zero major. 10 = nothing to fix; 9 = one trivial minor. Could be published as written.
+- **7–8 — Good, ready with optional polish.** Zero critical, zero major, a few minors.
+- **5–6 — Needs fixes.** Zero critical, one or two major. Not ready; clear the majors and re-evaluate.
+- **3–4 — Weak.** Zero critical, three or more major, or style problems throughout. Substantial rework.
+- **1–2 — Reject.** Any critical issue at all (a claim not traceable to the rails, altered verse or liturgy text, content not from the sources). Must not be used or marked complete, however good the rest is.
+
+Capping rules:
+- Any critical issue forces the score into **1–2**, regardless of other strengths.
+- Any major issue caps the score at **6**.
+- A score of **7 or above** corresponds to "READY TO COMPLETE"; **6 or below** corresponds to "NEEDS FIXES".
+- The rating is a reviewer aid, not permission to publish. Only a domain specialist sets `status: complete`.
 
 ---
 

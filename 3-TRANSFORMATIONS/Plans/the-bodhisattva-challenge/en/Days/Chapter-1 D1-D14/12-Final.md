@@ -9,7 +9,7 @@ generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translati
 # Day 12 — The greatest benefactor, and the gravest one to wrong
 
 > **Notification**
-> **Title:** Written someone off already?
+> **Title:** Look again at someone you've written off
 > **Detail:** When you look down on someone today, remember you can't see the good they might still do.
 
 ## Opening

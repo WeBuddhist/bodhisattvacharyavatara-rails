@@ -3,20 +3,20 @@ day: 15
 chapter: 2
 verses: "2-1 to 2-3"
 status: draft
-option: A
-angle: "You can offer what you don't own — mental offering, free of grasping (Sazang Mati Panchen)"
-generation_note: "No en-ai or 2-RAILS material exists for Chapter 2. English verses from the published translation 1-SOURCES/Translations/en-David_Karma_Choephel.md (^2-1 to ^2-3). Commentary grounded in the Tibetan source: bo-ས་བཟང་མ་ཏི་པཎ་ཆེན་བློ་གྲོས་རྒྱལ་མཚན།.md (^2-1-1), via the Tibetan plan (bo/Chapter-2 D15-D40/Day-15-Ch2-V1-3.md). Interim; needs domain-specialist review before status: complete."
+option: C
+angle: "No altar needed, just your mind — the sutra behind the offering (Ngulchu Thokme)"
+generation_note: "No en-ai or 2-RAILS material exists for Chapter 2. English verses from 1-SOURCES/Translations/en-David_Karma_Choephel.md (^2-1 to ^2-3). Commentary grounded in the Tibetan source: bo-དངུལ་ཆུ་ཐོགས་མེད།.md (^2-10-2), which cites the King of Meditative Stabilization Sutra; via the Tibetan plan (bo/Chapter-2 D15-D40/Day-15-Ch2-V1-3.md). Interim; needs domain-specialist review before status: complete."
 ---
 
-# Day 15 — Chapter Two begins: offering everything beautiful
+# Day 15 — Chapter Two begins: the whole world as an offering
 
 > **Notification**
-> **Title:** Offer something beautiful you pass today
-> **Detail:** Chapter 2 begins with offering. When you pass something beautiful that no one owns, offer it in your mind.
+> **Title:** Offer the whole world, no altar needed
+> **Detail:** Chapter 2 begins with offering. Today, picture something beautiful and give it to the Three Jewels in your mind.
 
 ## Opening
 
-Chapter One showed how precious the awakening mind is. Chapter Two begins by guarding it, and the first move is offering. Today's verses open a long offering to the buddhas: flowers, fruit, healing herbs, jewels, clear water, whole mountains and forests.
+Chapter Two begins today, and it opens not with confession but with a gift. Shantideva offers the buddhas flowers, clear water, jewelled mountains, quiet forests, and trees heavy with fruit, none of it his to own.
 
 ## Renewing the Bodhisattva Vow
 
@@ -75,9 +75,9 @@ Chapter One showed how precious the awakening mind is. Chapter Two begins by gua
 
 ## From the Tradition
 
-We usually think you can only give away what belongs to you.
+You might think a real offering needs wealth, an altar, candles to light.
 
-These verses do something else. They offer the buddhas flowers, jewels, whole mountains and forests, **none of which are the giver's to give**. Sazang Mati Panchen, a fourteenth-century commentator on this text, explains why it still counts. The offering is made in the mind: you take in the beauty of the world and hand it over with an open heart. What matters is not who owns the thing, but whether you can let it go freely. Because nothing here is yours to lose, the giving carries no grasping, and Sazang says this gathers merit without limit.
+Shantideva had none of that. Ngulchu Thokme, a fourteenth-century commentator on this text, shows where he looked instead. He points to the *King of Meditative Stabilization Sutra*, which gives a simple instruction: picture every flower, every clear stream, every mountain and forest in all directions, none of them owned by anyone, and offer them all in your mind. Done without grasping, Ngulchu Thokme says, this gathers boundless merit and deepens your wish to awaken. **You have no altar. But you have a mind, and that is enough.**
 
 ## Aspiration and Dedication
 
@@ -93,4 +93,4 @@ These verses do something else. They offer the buddhas flowers, jewels, whole mo
 
 ## Today's Practice
 
-Sometime today you will pass something beautiful that belongs to no one: a tree in blossom, the sky, light on water. If you notice it, offer it in your mind. Nothing needs to leave your hands.
+When you are outside today, find one beautiful thing that belongs to no one, a tree, the open sky, running water, and offer it in your mind to the Buddha, the Dharma, and the Sangha.

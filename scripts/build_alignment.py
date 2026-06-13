@@ -5,7 +5,7 @@ For each verse id present in both the reader ``verse`` array and
 ``bodhisattva-verse-segment-texts.json``, writes an alignment object:
 
 - ``alignment_annotation.span`` — character span from the reader file
-- ``target_annotation`` — one or more segment spans from the segment file
+- ``target_annotation`` — merged segment span (min start, max end when split)
 """
 
 from __future__ import annotations
@@ -28,6 +28,13 @@ def segment_spans(item: dict) -> list[dict]:
     return [segs["span"]]
 
 
+def merge_spans(spans: list[dict]) -> dict:
+    return {
+        "start": min(span["start"] for span in spans),
+        "end": max(span["end"] for span in spans),
+    }
+
+
 def load_segment_index(path: Path) -> dict[str, list[dict]]:
     items = json.loads(path.read_text(encoding="utf-8"))
     index: dict[str, list[dict]] = {}
@@ -43,12 +50,11 @@ def build_alignment(reader: dict, segment_index: dict[str, list[dict]]) -> list[
         verse_id = entry.get("id")
         if not verse_id or verse_id not in segment_index:
             continue
+        merged = merge_spans(segment_index[verse_id])
         alignment.append(
             {
                 "alignment_annotation": {"span": dict(entry["span"])},
-                "target_annotation": [
-                    {"span": dict(span)} for span in segment_index[verse_id]
-                ],
+                "target_annotation": [{"span": merged}],
             }
         )
     return alignment

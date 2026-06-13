@@ -7,6 +7,7 @@ lang_tag: sk
 source_description: "Sanskrit root text of the Bodhisattvacharyavatara, formatted according to project standards."
 verse_id_format: chapter-verse
 ---
+## 0. Introduction
 
 # शबोधिचर्यावतारः। ॥
 

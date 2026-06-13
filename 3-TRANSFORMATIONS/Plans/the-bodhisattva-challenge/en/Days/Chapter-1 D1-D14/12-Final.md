@@ -9,8 +9,8 @@ generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translati
 # Day 12 — The greatest benefactor, and the gravest one to wrong
 
 > **Notification**
-> **Title:** Have you quietly written someone off?
-> **Detail:** Today's reading: why the bodhisattva is the greatest benefactor of all, since every buddha is born from one. Practice: when contempt rises for someone you have dismissed, remember you cannot see all the good they may still give rise to.
+> **Title:** Written someone off already?
+> **Detail:** When you look down on someone today, remember you can't see the good they might still do.
 
 ## Opening
 

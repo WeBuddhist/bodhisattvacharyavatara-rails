@@ -5,7 +5,7 @@ evaluator: english-plan-evaluator
 scale: out of 10 (computed)
 scope: Canonical day files only (1–11, 12-Final, 13, 14). Option/draft files excluded.
 ---
-x
+
 # Chapter 1 Evaluation — Days 1–14
 
 Scores are **computed**, not chosen: start at 10, subtract 2 for each bigger problem (major) and 1 for each small one (minor); if there is any bigger problem the score can't go above 6; if nothing breaks trust it can't go below 3. 7 or above = ready; 6 or below = needs fixes. Feedback is in plain language. Grounding was spot-checked, so a specialist should still confirm each day before it is marked final.

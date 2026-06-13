@@ -16,7 +16,7 @@ generation_note: "Combination of options A and C. No en-ai or 2-RAILS material e
 
 ## Opening
 
-Chapter One showed how precious the awakening mind is. Chapter Two begins by guarding it, and the first move is offering. Today's verses open a long offering to the buddhas: flowers, fruit, healing herbs, jewels, clear water, whole mountains and forests.
+Chapter One showed how precious the awakening mind is. Chapter Two begins by protecting that mind, and the first step is to give. Today's verses begin by offering the buddhas everything beautiful: flowers, fruit, healing herbs, jewels, clear water, whole mountains and forests.
 
 ## Renewing the Bodhisattva Vow
 
@@ -75,9 +75,11 @@ Chapter One showed how precious the awakening mind is. Chapter Two begins by gua
 
 ## From the Tradition
 
-You might think a real offering needs wealth, an altar, candles to light.
+You might think a real offering needs money and a proper altar. It doesn't.
 
-Shantideva had none of that. Ngulchu Thokme, a fourteenth-century commentator on this text, shows where he looked instead. He points to the *King of Meditative Stabilization Sutra*, which gives a simple instruction: picture every flower, every clear stream, every mountain and forest in all directions, none of them owned by anyone, and offer them all in your mind. Done without grasping, Ngulchu Thokme says, this gathers boundless merit and deepens your wish to awaken. **You have no altar. But you have a mind, and that is enough.**
+Ngulchu Thokme, a fourteenth-century teacher, points to an old sutra, the *King of Meditative Stabilization*. Its instruction is simple. The world is full of beauty that no one owns: flowers, clear water, mountains, forests. Picture it, and offer it in your mind.
+
+Give this way, holding on to nothing, and the merit is huge. **You have no altar, but you have a mind, and that is enough.**
 
 ## Aspiration and Dedication
 

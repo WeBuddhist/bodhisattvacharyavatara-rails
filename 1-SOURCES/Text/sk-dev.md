@@ -8,8 +8,6 @@ source_description: "Sanskrit root text of the Bodhisattvacharyavatara, formatte
 verse_id_format: chapter-verse
 ---
 
-## 0. Introduction
-
 # शबोधिचर्यावतारः। ॥
 
 ॐ नमो बुद्धाय॥ ^0-1

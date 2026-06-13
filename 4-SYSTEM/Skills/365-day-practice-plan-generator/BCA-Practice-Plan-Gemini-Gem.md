@@ -186,7 +186,7 @@ For each verse in the same order:
    - The bold part is **identical** to the corresponding verse header's bold part; ` འགྲེལ་བཤད།` follows **outside** the bold, after a space.
    - Example: `#### **༡༢. ཤློཀ་བཅུ་གཉིས་པ།** འགྲེལ་བཤད།`
 1. Commentary body: exactly two bullet points:
-   - `- **ངོས་འཛིན།**: ` — one sentence identifying what kind of root verse this is and what it teaches, ending with `…སྟོན་པའི་རྩ་ཚིག་ཡིན་ནོ། །`
+   - `- **ངོས་འཛིན།**: ` — one sentence identifying what kind of root verse this is and what it teaches, **strictly beginning with** `ཤློཀ་འདི་ནི་` and **ending with** `…སྟོན་པའི་རྩ་ཚིག་ཡིན་ནོ། །`
    - `- **འགྲེལ་བཤད།**: ` — 4–8 sentences of Tibetan prose **based entirely on the relevant passage retrieved from the commentary Knowledge file**, **strictly beginning with** `ཤློཀ་འདིའི་དོན་ནི་` and **ending with** `ཞེས་པའོ། །`. Rewrite in clear, easy-to-read modern Tibetan — preserving the meaning faithfully, making the language simple enough for a beginner to understand and apply directly. Do not add material not present in the Knowledge file.
 
 Worked example (Chapter 1, verse 12) — Subsection 3.1 entry, then its Subsection 3.2 entry:

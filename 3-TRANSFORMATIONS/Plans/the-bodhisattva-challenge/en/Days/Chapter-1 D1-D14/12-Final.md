@@ -8,9 +8,11 @@ generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translati
 	   
 # Day 12 — The greatest benefactor, and the gravest one to wrong
 
-## Opening
+> **Notification**
+> **Title:** Have you quietly written someone off?
+> **Detail:** Today's reading: why the bodhisattva is the greatest benefactor of all, since every buddha is born from one. Practice: when contempt rises for someone you have dismissed, remember you cannot see all the good they may still give rise to.
 
-*Push notification:* We honor a single meal. What do we owe the bodhisattva?
+## Opening
 
 We honor a person for giving a hungry stranger a single meal. Today's verses start there, then go far past it: the bodhisattva gives countless beings the highest happiness, always. Then the verses turn the comparison over. If such a being is the greatest benefactor of all, then turning against one is the gravest harm of all.
 

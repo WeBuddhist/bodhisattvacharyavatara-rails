@@ -79,7 +79,7 @@ You might think a real offering needs money and a proper altar. It doesn't.
 
 Ngulchu Thokme, a fourteenth-century teacher, points to an old sutra, the *King of Meditative Stabilization*. Its instruction is simple. The world is full of beauty that no one owns: flowers, clear water, mountains, forests. Picture it, and offer it in your mind.
 
-Give this way, holding on to nothing, and the merit is huge. **You have no altar, but you have a mind, and that is enough.**
+When you give this way, without clinging to anything, it brings great merit. You don't need an altar for that. **Your mind is enough.**
 
 ## Aspiration and Dedication
 

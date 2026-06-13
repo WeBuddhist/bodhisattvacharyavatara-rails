@@ -95,4 +95,4 @@ When you give this way, without clinging to anything, it brings great merit. You
 
 ## Today's Practice
 
-Sometime today you will pass something beautiful that belongs to no one: a tree in blossom, the sky, light on water. If you notice it, offer it in your mind. Nothing needs to leave your hands.
+Sometime today you will pass something beautiful that belongs to no one: a tree in blossom, the sky, light on water. If you notice it, offer it in your mind to the Buddha, the Dharma, and the Sangha.

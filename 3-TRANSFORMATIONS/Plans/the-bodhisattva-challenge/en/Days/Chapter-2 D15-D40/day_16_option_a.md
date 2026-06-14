@@ -65,9 +65,9 @@ Yesterday the offering began with the beauty of this world. Today it grows far l
 
 ## From the Tradition
 
-A real offering, we assume, takes real resources. The more you give, the more it costs you.
+We think of an offering as something small, held in two hands.
 
-Ngulchu Thokme, a fourteenth-century teacher, points the other way. The mind has no edges. In it, one offering can be stretched as wide as space and filled with everything beautiful that no one owns. That costs you nothing. And an offering this vast, he says, gathers vast merit. **Great good, almost no effort.** This is something the mind can do that the hands cannot.
+Ngulchu Thokme says it can be as big as you can picture. In your mind there is no limit. You can gather every beautiful thing there is, in this world and beyond, and offer it all at once. You don't need to own any of it. **You can make this offering right now, in your mind.**
 
 ## Aspiration and Dedication
 

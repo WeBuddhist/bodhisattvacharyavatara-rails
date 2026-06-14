@@ -16,7 +16,7 @@ generation_note: "No en-ai or 2-RAILS material exists for Chapter 2. English ver
 
 ## Opening
 
-Yesterday's offering covered this world. Today it has no limit. Shantideva offers the riches of the god realms, lakes bright with lotuses and singing swans, everything beautiful out to the farthest edge of space. None of it owned by anyone.
+Yesterday the offering began with the beauty of this world. Today it reaches much further. Shantideva offers the treasures of the god realms, and lakes full of lotuses and singing swans, all the way out to the edge of space. None of it belongs to anyone.
 
 ## Renewing the Bodhisattva Vow
 

@@ -83,4 +83,4 @@ Ngulchu Thokme says it can be as big as you can picture. In your mind there is n
 
 ## Today's Practice
 
-Today, picture one beautiful thing, a flower, a lake, the open sky, and in your mind let it spread out as far as you can. Offer all of it to the Buddha, the Dharma, and the Sangha.
+Today, don't stop at one thing. In your mind, gather as much beauty as you can hold, flowers, lakes, mountains, whole skies, and offer it all at once to the Buddha, the Dharma, and the Sangha.

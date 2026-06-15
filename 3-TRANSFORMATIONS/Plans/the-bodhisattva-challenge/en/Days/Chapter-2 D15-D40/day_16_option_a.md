@@ -16,7 +16,7 @@ generation_note: "No en-ai or 2-RAILS material exists for Chapter 2. English ver
 
 ## Opening
 
-Yesterday the offering began with the beauty of this world. Today it grows far larger. Shantideva offers even the riches of the heavens, beautiful lakes with lotuses and singing swans, every lovely thing there is, and gives it all to the buddhas, though none of it was ever his.
+Yesterday the offering began with the beauty of this world. Today it grows far larger. Shantideva offers even the riches of the heavens, beautiful lakes with lotuses and singing swans, every lovely thing there is. He owns none of it, and gives it all to the buddhas.
 
 ## Renewing the Bodhisattva Vow
 

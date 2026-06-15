@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 """Get verse text from reader JSON by span start/end."""
-
 from __future__ import annotations
 
 import argparse

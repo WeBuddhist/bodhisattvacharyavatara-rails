@@ -198,6 +198,20 @@ class ReaderBuilder:
         title, block_id = split_block_id(raw_title)
         self._append_segment(header_html(level, title), block_id)
 
+    def paragraph_break(self) -> None:
+        """Called when a blank line is encountered in the source.
+
+        Flushes the accumulated paragraph only when its last line ends with a
+        sentence-final punctuation character (。！？), which indicates a genuine
+        paragraph boundary.  A blank line whose preceding line ends mid-word or
+        mid-clause is treated as a soft wrap and leaves the accumulator intact.
+        """
+        if not self._paragraph_lines:
+            return
+        last = self._paragraph_lines[-1]
+        if last and last[-1] in "。！？":
+            self._flush_paragraph()
+
     def add_body_line(self, raw_line: str) -> None:
         if VERSE_NUMBER_RE.match(raw_line):
             self._flush_paragraph()
@@ -221,6 +235,7 @@ def build_commentary_document(text: str) -> dict:
     for raw_line in body.splitlines():
         line = raw_line.rstrip()
         if not line:
+            builder.paragraph_break()
             continue
 
         header_match = HEADER_RE.match(line)
@@ -295,11 +310,13 @@ def main() -> None:
         json.dumps(ordered, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
-    print(
+    summary = (
         f"Wrote {args.output} "
         f"({len(document['content'])} chars, {len(document['verse'])} segments, "
         f"type={document['metadata']['type']})"
     )
+    sys.stdout.buffer.write(summary.encode("utf-8"))
+    sys.stdout.buffer.write(b"\n")
 
 
 if __name__ == "__main__":

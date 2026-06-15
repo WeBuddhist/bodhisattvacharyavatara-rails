@@ -67,7 +67,7 @@ For two days the offering has only grown larger, the whole world, the heavens, e
 
 It's easy to think you need something of your own before you can give.
 
-Shantideva has nothing. Gyaltsab Darma Rinchen, a fifteenth-century teacher, points to the plain reason he gives in the verse: no merit behind him, and no wealth of his own. So he offers what was never his, the beauty of the world, and asks the buddhas to accept it by their own power. The gift does not work because the giver is rich. It works because they receive it. **You can come with empty hands.**
+Shantideva had nothing. Gyaltsab Darma Rinchen, a fifteenth-century teacher, notes what the verse admits plainly: no merit saved up, no wealth to call his own. So he offers what was never his, the beauty of the world, and asks the buddhas to accept it. He is not rich. The gift still counts, because they take it up out of compassion. **You can come with empty hands.**
 
 ## Aspiration and Dedication
 
@@ -83,4 +83,4 @@ Shantideva has nothing. Gyaltsab Darma Rinchen, a fifteenth-century teacher, poi
 
 ## Today's Practice
 
-Today, when you feel you have nothing worth giving, offer something good in your mind to the Buddha, the Dharma, and the Sangha anyway. Trust that it is received.
+Today, the moment you think you have nothing to give, give something small anyway, your full attention, a kind word, a little help. Your hands were never as empty as they felt.

@@ -201,3 +201,9 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 **Inputs:** A target day file under `…/en/Days/`, the `english-plan-generator` contract, the Day-1 feedback summary, the Tier 3 persona, the liturgy asset, and the verse's source rail (preferred) or interim commentary summary.
 **Outputs:** The revised day file overwritten in place at `…/en/Days/[DAY].md` (with a `revision` frontmatter block), plus an audit record at `…/en/feedback-audit/[DAY].md`.
 → [`plan-day-feedback-revision/SKILL.md`](plan-day-feedback-revision/SKILL.md)
+
+### `Outline-Extractor` **[exists]**
+**Purpose:** Extract the structural outline (ས་བཅད།) from a Tibetan commentary in `1-SOURCES/Commentaries/` and produce two output files: a flat tab-indented list (`ས་བཅད་རྐྱང་པ།`) and a nested heading+list structured outline (`ལྟེ་བའི་དཀར་ཆག།`), both saved to `3-TRANSFORMATIONS/Adaptations/<commentary-id>-sa-bcad/`.
+**Inputs:** Commentary file path in `1-SOURCES/Commentaries/`, a short `commentary-id`, and the Tibetan title of the work.
+**Outputs:** Two `.md` files in `3-TRANSFORMATIONS/Adaptations/<commentary-id>-sa-bcad/` — the flat extracted outline and the nested structured outline.
+→ [`Outline-Extractor/SKILL.md`](Outline-Extractor/SKILL.md)

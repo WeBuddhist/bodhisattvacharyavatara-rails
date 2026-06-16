@@ -276,6 +276,11 @@ Write exactly **1 practical application point** in Tibetan. It should:
 - Focus specifically on how to put the day's verses into action during real-life challenges
 - Be concrete and actionable — not generic mindfulness advice
 
+Real example (Day 15 — Chapter 2, Verses 1–3):
+```markdown
+**༡. རང་བྱུང་གི་མཛེས་པ་མཆོད་པར་འབུལ་བ།**: དེ་རིང་ངས་ལམ་བགྲོད་པའི་སྐབས་སམ་ཕྱི་རོལ་ཏུ་འགྲོ་བའི་ཚེ། མེ་ཏོག་སྙིང་རྗེ་མོ་དང་། ཆུ་མིག་དྭངས་མ། རི་བོ་དང་ནགས་ཚལ་ཉམས་དགའ་བ་སོགས་བདག་པོས་མ་བཟུང་བའི་རང་བྱུང་གི་མཛེས་པ་གང་མཐོང་བ་དེ་དག་ཐམས་ཅད་སེམས་ཀྱི་ངང་ནས་དཀོན་མཆོག་ལ་མཆོད་པར་འབུལ་རྒྱུ་ཡིན། ངས་དེ་ལྟར་གོམས་པར་བྱས་ཏེ་རང་གི་སེམས་རྒྱུད་དགེ་བའི་ཕྱོགས་ལ་སྤྲོ་བ་བསྐྱེད་ཅིང་། རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷའི་ལེགས་བཤད་བཞིན་དུ་འཛིན་ཆགས་མེད་པའི་བློ་རྒྱུན་སྐྱོང་བར་བྱའོ། །
+```
+
 ---
 
 ### Section 5 — བསྔོ་བ་དང་སྨོན་ལམ། (Dedication & Aspiration) [FIXED]

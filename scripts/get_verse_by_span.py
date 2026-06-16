@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Get verse text from reader JSON by span start/end."""
+"""Get text from reader JSON by character offset (content[start:end])."""
 from __future__ import annotations
 
 import argparse
@@ -12,10 +12,10 @@ DEFAULT_JSON = Path(__file__).resolve().parent / "data" / "zh-隆蓮法師a.json
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Return verse text for a matching span start/end."
+        description="Return text for a character span in reader JSON content."
     )
-    parser.add_argument("start", type=int, help="Span start offset")
-    parser.add_argument("span_end", type=int, help="Span end offset")
+    parser.add_argument("start", type=int, help="Start offset (inclusive)")
+    parser.add_argument("end", type=int, help="End offset (exclusive)")
     parser.add_argument(
         "--json",
         type=Path,
@@ -34,6 +34,16 @@ def main() -> None:
 
     args = parse_args()
 
+    if args.start < 0 or args.end < 0:
+        print("start and end must be non-negative.", file=sys.stderr)
+        raise SystemExit(1)
+    if args.start > args.end:
+        print(
+            f"Invalid span: start ({args.start}) must be <= end ({args.end}).",
+            file=sys.stderr,
+        )
+        raise SystemExit(1)
+
     try:
         payload = json.loads(args.json.read_text(encoding="utf-8"))
     except OSError as exc:
@@ -44,33 +54,22 @@ def main() -> None:
         raise SystemExit(1) from exc
 
     content = payload.get("content")
-    verses = payload.get("verse")
-    if not isinstance(content, str) or not isinstance(verses, list):
-        print("JSON must contain: content (str), verse (list)", file=sys.stderr)
+    if not isinstance(content, str):
+        print("JSON must contain: content (str)", file=sys.stderr)
         raise SystemExit(1)
 
-    for verse_index, verse in enumerate(verses, start=1):
-        if not isinstance(verse, dict):
-            continue
-        span = verse.get("span")
-        if not isinstance(span, dict):
-            continue
+    if args.end > len(content):
+        print(
+            f"Span end ({args.end}) exceeds content length ({len(content)}).",
+            file=sys.stderr,
+        )
+        raise SystemExit(1)
 
-        start = span.get("start")
-        end = span.get("end")
-        if start == args.start and end == args.span_end:
-            text = content[start:end]
-            print(f"verse_index: {verse_index}")
-            print(f"span: {start}-{end}")
-            print("text:")
-            print(text)
-            return
-
-    print(
-        f"No verse found for start={args.start}, span_end={args.span_end}.",
-        file=sys.stderr,
-    )
-    raise SystemExit(1)
+    text = content[args.start : args.end]
+    print(f"span: {args.start}-{args.end}")
+    print(f"length: {len(text)}")
+    print("text:")
+    print(text)
 
 
 if __name__ == "__main__":

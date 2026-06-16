@@ -45,6 +45,28 @@ DEFAULT_BASE_URL = "https://api-aq25662yyq-uc.a.run.app"
 DEFAULT_PREVIEW_OUTPUT = Path(__file__).resolve().parent / "payloads/alignment_preview.json"
 
 
+def _alignment_span(entry: dict) -> dict | None:
+    """Return the root span for one alignment entry.
+
+    Reader JSON may store ``alignment_annotation`` as either a single
+    ``{"span": ...}`` object (translation alignments) or a list of span
+    objects (commentary alignments with multiple root verses).  Lists are
+    merged to min-start / max-end.
+    """
+    aa = entry.get("alignment_annotation")
+    if isinstance(aa, list):
+        spans = [item["span"] for item in aa if item.get("span")]
+        if not spans:
+            return None
+        return {
+            "start": min(s["start"] for s in spans),
+            "end": max(s["end"] for s in spans),
+        }
+    if isinstance(aa, dict) and aa.get("span"):
+        return dict(aa["span"])
+    return None
+
+
 def build_payload(document: dict, *, target_manifestation_id: str) -> dict:
     alignment = document.get("alignment", [])
 
@@ -65,9 +87,13 @@ def build_payload(document: dict, *, target_manifestation_id: str) -> dict:
                 target_annotation.append({"span": span, "index": target_index})
             alignment_index.append(target_index)
 
+        span = _alignment_span(entry)
+        if span is None:
+            continue
+
         alignment_annotation.append(
             {
-                "span": entry["alignment_annotation"]["span"],
+                "span": span,
                 "index": align_index,
                 "alignment_index": alignment_index,
             }

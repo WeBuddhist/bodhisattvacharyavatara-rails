@@ -2321,17 +2321,7 @@
             "start": 71,
             "end": 113
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 11244,
-          "end": 12119
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 113,
@@ -2401,65 +2391,25 @@
             "start": 281,
             "end": 323
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 17037,
-          "end": 17599
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 323,
             "end": 365
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 17037,
-          "end": 17599
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 365,
             "end": 407
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 17037,
-          "end": 17599
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 407,
             "end": 449
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 17037,
-          "end": 17599
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 449,
@@ -2481,17 +2431,7 @@
             "start": 491,
             "end": 533
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 22308,
-          "end": 22324
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 533,
@@ -2529,33 +2469,13 @@
             "start": 617,
             "end": 651
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 22510,
-          "end": 22758
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 651,
             "end": 685
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 22510,
-          "end": 22758
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 685,
@@ -2577,33 +2497,13 @@
             "start": 719,
             "end": 753
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 22758,
-          "end": 23054
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 753,
             "end": 787
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 22758,
-          "end": 23054
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 787,
@@ -2625,17 +2525,7 @@
             "start": 821,
             "end": 855
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 23054,
-          "end": 23274
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 855,
@@ -2657,17 +2547,7 @@
             "start": 991,
             "end": 1025
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 23274,
-          "end": 23716
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 1025,
@@ -2689,49 +2569,19 @@
             "start": 1059,
             "end": 1093
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 23716,
-          "end": 23975
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 1093,
             "end": 1127
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 23716,
-          "end": 23975
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 1127,
             "end": 1161
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 23716,
-          "end": 23975
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 1161,
@@ -2753,17 +2603,7 @@
             "start": 1195,
             "end": 1229
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 32273,
-          "end": 32391
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 1229,
@@ -2785,17 +2625,7 @@
             "start": 1263,
             "end": 1297
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 32391,
-          "end": 32623
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 1297,
@@ -2833,97 +2663,37 @@
             "start": 1400,
             "end": 1442
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 37913,
-          "end": 38071
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 1442,
             "end": 1483
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 37913,
-          "end": 38071
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 1483,
             "end": 1525
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 37913,
-          "end": 38071
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 1525,
             "end": 1567
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 37913,
-          "end": 38071
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 1567,
             "end": 1609
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 37913,
-          "end": 38071
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 1609,
             "end": 1651
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 37913,
-          "end": 38071
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 1651,
@@ -2945,17 +2715,7 @@
             "start": 1693,
             "end": 1735
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 38071,
-          "end": 38145
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 1735,
@@ -2977,209 +2737,79 @@
             "start": 1777,
             "end": 1819
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 38145,
-          "end": 38421
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 1819,
             "end": 1861
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 38145,
-          "end": 38421
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 1861,
             "end": 1903
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 38145,
-          "end": 38421
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 1903,
             "end": 1945
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 38145,
-          "end": 38421
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 1945,
             "end": 1987
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 38145,
-          "end": 38421
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 1987,
             "end": 2029
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 38145,
-          "end": 38421
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 2029,
             "end": 2071
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 38145,
-          "end": 38421
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 2071,
             "end": 2113
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 38145,
-          "end": 38421
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 2113,
             "end": 2155
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 38145,
-          "end": 38421
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 2155,
             "end": 2197
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 38145,
-          "end": 38421
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 2197,
             "end": 2231
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 38145,
-          "end": 38421
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 2231,
             "end": 2265
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 38145,
-          "end": 38421
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 2265,
             "end": 2299
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 38145,
-          "end": 38421
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 2299,
@@ -3201,33 +2831,13 @@
             "start": 2333,
             "end": 2367
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 38454,
-          "end": 39517
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 2367,
             "end": 2401
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 38454,
-          "end": 39517
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 2401,
@@ -3249,305 +2859,115 @@
             "start": 2469,
             "end": 2503
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39554,
-          "end": 39791
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 2503,
             "end": 2537
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39554,
-          "end": 39791
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 2537,
             "end": 2571
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39554,
-          "end": 39791
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 2571,
             "end": 2605
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39554,
-          "end": 39791
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 2605,
             "end": 2639
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39554,
-          "end": 39791
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 2639,
             "end": 2673
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39554,
-          "end": 39791
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 2673,
             "end": 2707
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39554,
-          "end": 39791
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 2707,
             "end": 2741
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39554,
-          "end": 39791
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 2741,
             "end": 2775
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39554,
-          "end": 39791
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 2775,
             "end": 2809
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39554,
-          "end": 39791
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 2809,
             "end": 2843
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39554,
-          "end": 39791
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 2843,
             "end": 2877
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39554,
-          "end": 39791
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 2877,
             "end": 2911
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39554,
-          "end": 39791
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 2911,
             "end": 2945
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39554,
-          "end": 39791
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 2945,
             "end": 2979
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39554,
-          "end": 39791
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 2979,
             "end": 3013
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39554,
-          "end": 39791
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 3013,
             "end": 3047
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39554,
-          "end": 39791
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 3047,
             "end": 3081
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39554,
-          "end": 39791
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 3081,
             "end": 3115
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39554,
-          "end": 39791
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 3115,
@@ -3569,225 +2989,85 @@
             "start": 3251,
             "end": 3285
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39791,
-          "end": 40084
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 3285,
             "end": 3319
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39791,
-          "end": 40084
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 3319,
             "end": 3353
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39791,
-          "end": 40084
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 3353,
             "end": 3387
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39791,
-          "end": 40084
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 3387,
             "end": 3421
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39791,
-          "end": 40084
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 3421,
             "end": 3455
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39791,
-          "end": 40084
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 3455,
             "end": 3489
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39791,
-          "end": 40084
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 3489,
             "end": 3523
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39791,
-          "end": 40084
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 3523,
             "end": 3557
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39791,
-          "end": 40084
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 3557,
             "end": 3591
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39791,
-          "end": 40084
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 3591,
             "end": 3625
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39791,
-          "end": 40084
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 3625,
             "end": 3659
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39791,
-          "end": 40084
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 3659,
             "end": 3693
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39791,
-          "end": 40084
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 3693,
             "end": 3727
           }
-        }
-      ],
-      "alignment_annotation": {
-        "span": {
-          "start": 39791,
-          "end": 40084
-        }
-      }
-    },
-    {
-      "target_annotation": [
+        },
         {
           "span": {
             "start": 3727,

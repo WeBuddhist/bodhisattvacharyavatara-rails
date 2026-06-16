@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build alignment_annotation for commentary text (宗薩蔣揚欽哲仁波切).
+"""Build commentary-to-root alignment for 宗薩蔣揚欽哲仁波切 (and similar texts).
 
 In the commentary markdown, blocks of commentary text are preceded by one or
 more root-text embed references like:
@@ -10,17 +10,19 @@ Alignment rules
 ---------------
 * The commentary text that follows root embed(s) is aligned to those root
   verse(s), until the next root embed or markdown heading.
-* Multiple consecutive root embeds before any commentary → many-to-many:
-  each root verse gets its own alignment entry pointing to the same
-  commentary block.
-* alignment_annotation.span  = root verse character span
-                               (from zh-隆蓮法師a.json)
-* target_annotation[0].span  = merged commentary character span
-                               (start of first segment, end of last segment
-                                in the block; spans are into the commentary
-                                JSON's content string)
+* Multiple consecutive root embeds before any commentary → one commentary
+  block aligned to all of those root verses.
+* target_annotation[*].span  = root verse character span
+                                 (from the root reader JSON)
+* alignment_annotation.span    = merged commentary character span
+                                 (into the commentary JSON content string)
 
-Output: the commentary JSON is regenerated with an "alignment" key added.
+Outputs
+-------
+1. Commentary reader JSON (metadata, content, verse, alignment array).
+2. ``<text-name>-commentary-alignment.json`` — API-ready alignment payload
+   with indexed ``target_annotation`` (root) and ``alignment_annotation``
+   (commentary).
 """
 
 from __future__ import annotations
@@ -312,10 +314,10 @@ def build_alignment(
 ) -> list[dict]:
     """
     Group consecutive verse segments that share the same non-empty root IDs,
-    then emit one alignment entry per root verse ID in the group.
+    then emit one alignment entry per commentary block.
 
-    alignment_annotation.span  ← root verse span (from root JSON)
-    target_annotation[0].span  ← merged commentary span for the group
+    target_annotation[*].span  ← root verse span(s) (from root JSON)
+    alignment_annotation.span  ← merged commentary span for the group
     """
     alignment: list[dict] = []
 
@@ -334,8 +336,9 @@ def build_alignment(
             j += 1
 
         group_spans = [verse[k]["span"] for k in range(i, j)]
-        target_span = merge_spans(group_spans)
+        commentary_span = merge_spans(group_spans)
 
+        root_targets: list[dict] = []
         for root_id in roots:
             root_span = root_index.get(root_id)
             if root_span is None:
@@ -344,16 +347,66 @@ def build_alignment(
                     file=sys.stderr,
                 )
                 continue
+            root_targets.append({"span": root_span})
+
+        if root_targets:
             alignment.append(
                 {
-                    "target_annotation": [{"span": root_span}],
-                    "alignment_annotation": {"span": target_span}
+                    "target_annotation": root_targets,
+                    "alignment_annotation": {"span": commentary_span},
                 }
             )
 
         i = j
 
     return alignment
+
+
+def build_alignment_payload(
+    alignment: list[dict],
+    *,
+    target_manifestation_id: str,
+) -> dict:
+    """Flatten pairwise alignment entries into an API-ready payload."""
+    target_annotation: list[dict] = []
+    target_index_by_span: dict[tuple[int, int], int] = {}
+    alignment_annotation: list[dict] = []
+
+    for align_index, entry in enumerate(alignment):
+        alignment_index: list[int] = []
+
+        for target in entry.get("target_annotation", []):
+            span = target["span"]
+            key = (span["start"], span["end"])
+            target_index = target_index_by_span.get(key)
+            if target_index is None:
+                target_index = len(target_annotation)
+                target_index_by_span[key] = target_index
+                target_annotation.append({"span": span, "index": target_index})
+            alignment_index.append(target_index)
+
+        aa = entry.get("alignment_annotation")
+        if not isinstance(aa, dict) or not aa.get("span"):
+            continue
+
+        alignment_annotation.append(
+            {
+                "span": dict(aa["span"]),
+                "index": align_index,
+                "alignment_index": alignment_index,
+            }
+        )
+
+    return {
+        "type": "alignment",
+        "target_manifestation_id": target_manifestation_id,
+        "target_annotation": target_annotation,
+        "alignment_annotation": alignment_annotation,
+    }
+
+
+def default_alignment_output(commentary_md: Path) -> Path:
+    return _HERE / "data" / f"{commentary_md.stem}-commentary-alignment.json"
 
 
 # ── main ─────────────────────────────────────────────────────────────────────
@@ -378,6 +431,18 @@ def main() -> None:
         default=DEFAULT_OUTPUT,
         help="Output commentary JSON (default overwrites existing)",
     )
+    parser.add_argument(
+        "--alignment-output",
+        type=Path,
+        default=None,
+        help="Alignment payload JSON "
+        "(default: data/<commentary-md-stem>-commentary-alignment.json)",
+    )
+    parser.add_argument(
+        "--target-manifestation-id",
+        default="MNF_PLACEHOLDER",
+        help="Root text manifestation id for the alignment payload",
+    )
     args = parser.parse_args()
 
     # Load inputs
@@ -399,8 +464,16 @@ def main() -> None:
 
     # Build alignment
     alignment = build_alignment(verse, segment_roots, root_index)
+    alignment_payload = build_alignment_payload(
+        alignment,
+        target_manifestation_id=args.target_manifestation_id,
+    )
 
-    # Write output
+    alignment_output = args.alignment_output or default_alignment_output(
+        args.commentary_md
+    )
+
+    # Write outputs
     args.output.parent.mkdir(parents=True, exist_ok=True)
     document = {
         "metadata": metadata,
@@ -413,14 +486,21 @@ def main() -> None:
         encoding="utf-8",
     )
 
+    alignment_output.parent.mkdir(parents=True, exist_ok=True)
+    alignment_output.write_text(
+        json.dumps(alignment_payload, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+
     # Summary
-    aligned_root_ids = {e["alignment_annotation"]["span"]["start"] for e in alignment}
     summary = (
         f"Wrote {args.output.name}\n"
-        f"  content chars  : {len(content)}\n"
-        f"  verse segments : {len(verse)}\n"
-        f"  alignment entries: {len(alignment)}\n"
-        f"  unique root spans: {len(aligned_root_ids)}\n"
+        f"Wrote {alignment_output.name}\n"
+        f"  content chars       : {len(content)}\n"
+        f"  verse segments      : {len(verse)}\n"
+        f"  alignment groups    : {len(alignment)}\n"
+        f"  root target spans   : {len(alignment_payload['target_annotation'])}\n"
+        f"  commentary alignments: {len(alignment_payload['alignment_annotation'])}\n"
     )
     sys.stdout.buffer.write(summary.encode("utf-8"))
     sys.stdout.buffer.write(b"\n")

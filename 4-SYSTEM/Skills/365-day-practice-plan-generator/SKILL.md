@@ -26,8 +26,8 @@ The output is always saved as a Tibetan-language markdown file.
 
 | File                                                                                                                                     | Purpose                                                                                                                                                                                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\0-INBOX\bo-root versions\bo-བློ་ལྡན་ཤེས་རབ།-དངུལ་ཆུ་ཐོགས་མེད་སྤྱོད་འཇུག་རྩ་བ།.md` | **Root text** — canonical Tibetan translation by Blo ldan shes rab. **Always read this file and extract verses directly from it.** Never quote root-text verses from memory or training data. Verses are identified by block references in the format `^chapter-verse` (e.g. `^4-43` for Chapter 4, verse 43). |
-| `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\1-SOURCES\Commentaries\bo-དངུལ་ཆུ་ཐོགས་མེད།.md`                                   | **Commentary** — Ngulchu Thokme's *Ocean of Good Explanations* in Tibetan. **Always read this file and extract commentary from it.** Never invent or improvise commentary.                                                                                                                                     |
+| `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\1-SOURCES\Translations\bo-བློ་ལྡན་ཤེས་རབ།.md` | **Root text** — canonical Tibetan translation by Blo ldan shes rab. **Always read this file and extract verses directly from it.** Never quote root-text verses from memory or training data. Verses are identified by block references in the format `^chapter-verse` (e.g. `^4-43` for Chapter 4, verse 43). |
+| `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\1-SOURCES\Commentaries\` (all `.md` files in this folder) | **Commentaries** — all available Tibetan and Chinese commentaries on the *Bodhisattvacharyavatara*. **Always read the relevant files and extract commentary from them.** Never invent or improvise commentary. Read as many commentaries as are relevant to the verse being covered. |
 
 ---
 
@@ -42,7 +42,7 @@ Ask the user (or infer from context) for:
 
 If the user only gives a day number, consult the verse schedule to find the chapter and verses for that day.
 
-Once you have the chapter and verse range, **read both source files** (root text and commentary) before writing any content. Extract the exact verse text and the relevant commentary passages before composing the document.
+Once you have the chapter and verse range, **read the root text and all relevant commentary files** before writing any content. Extract the exact verse text from `bo-བློ་ལྡན་ཤེས་རབ།.md` and the relevant commentary passages from all files in `1-SOURCES/Commentaries/` before composing the document.
 
 ---
 
@@ -171,7 +171,7 @@ Open the section with the literal heading `### ༣། དེ་རིང་ག�
 
 #### Subsection 3.1 — རྩ་ཚིག (Root Verses)
 
-The user will provide the verses for the day in their prompt. For each verse provided, look up the exact text in `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\0-INBOX\bo-root versions\bo-བློ་ལྡན་ཤེས་རབ།-དངུལ་ཆུ་ཐོགས་མེད་སྤྱོད་འཇུག་རྩ་བ།.md` using the `^chapter-verse` block reference for that verse. List them in sequence:
+The user will provide the verses for the day in their prompt. For each verse provided, look up the exact text in `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\1-SOURCES\Translations\bo-བློ་ལྡན་ཤེས་རབ།.md` using the `^chapter-verse` block reference for that verse. List them in sequence:
 
 1. **Header**: `#### **[verse number in Tibetan numerals]. ཤློཀ་[ordinal word]།** (ལེའུ་ [chapter in Tibetan numerals] ཤློཀ་ [verse number in Tibetan numerals])`
    - Bold contains only the numeral, the ordinal-word verse name, and the ། — the parenthetical reference stays **outside** the bold.
@@ -193,7 +193,7 @@ For each verse, provide one commentary block in the same order as the verses abo
    - Example: `#### **༡༢. ཤློཀ་བཅུ་གཉིས་པ།** འགྲེལ་བཤད།`
 1. **Commentary body**: exactly two bullet points:
    - `- **ངོས་འཛིན།**: ` — one sentence identifying what kind of root verse this is and what it teaches, ending with `…སྟོན་པའི་རྩ་ཚིག་ཡིན་ནོ། །`
-   - `- **འགྲེལ་བཤད།**: ` — 4–8 sentences of Tibetan prose **extracted and summarised from `bo-དངུལ་ཆུ་ཐོགས་མེད།.md`**, **strictly beginning with** `ཤློཀ་འདིའི་དོན་ནི་` and **ending with** `ཞེས་པའོ། །`. Rewrite in clear, easy-to-read modern Tibetan that a beginner practitioner can understand and apply directly. **Do not invent, improvise, or add material not found in that commentary file.**
+   - `- **འགྲེལ་བཤད།**: ` — 4–8 sentences of Tibetan prose **extracted and summarised from all commentaries in `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\1-SOURCES\Commentaries\`**. Read every commentary file in that folder, identify what each says about the verse, and synthesise their views into a single flowing commentary. **Strictly begin with** `ཤློཀ་འདིའི་དོན་ནི་` and **end with** `ཞེས་པའོ། །`. Rewrite in clear, easy-to-read modern Tibetan that a beginner practitioner can understand and apply directly. **Do not invent, improvise, or add material not found in the commentary files.** At the end of the commentary block, add a **Sources** line listing a clickable Obsidian wikilink for each commentary actually cited, using the format `[[1-SOURCES/Commentaries/filename|Display name]]` — so the reader can open the raw source and verify the passage. Example: `**མཆན།**: [[1-SOURCES/Commentaries/bo-དངུལ་ཆུ་ཐོགས་མེད།.md|དངུལ་ཆུ་ཐོགས་མེད།]] · [[1-SOURCES/Commentaries/bo-འཇུ་མི་ཕམ།.md|མི་ཕམ་རིན་པོ་ཆེ།]]`
 
 Worked example (Chapter 1, verse 12) — Subsection 3.1 entry, then its Subsection 3.2 entry:
 ```markdown
@@ -206,9 +206,11 @@ Worked example (Chapter 1, verse 12) — Subsection 3.1 entry, then its Subsecti
 - **ངོས་འཛིན།**: ཤློཀ་འདི་ནི་འབྲས་བུ་ཅན་གྱི་ལྗོན་ཤིང་གི་དཔེའི་སྒོ་ནས་དགེ་རྩ་མི་ཟད་ཅིང་གོང་དུ་འཕེལ་བར་སྟོན་པའི་རྩ་ཚིག་ཡིན་ནོ། །
 
 - **འགྲེལ་བཤད།**: ཤློཀ་འདིའི་དོན་ནི་དགེ་བ་གཞན་ཏེ་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱིས་མ་ཟིན་པ་ཀུན་ནི་ཆུ་ཤིང་བཞིན་དུ་འབྲས་བུ་ལན་གཅིག་བསྐྱེད་ནས་རང་བཞིན་གྱིས་ཟད་པར་འགྱུར་བ་ཉིད་ཡིན་ལ། བྱང་ཆུབ་སེམས་ཀྱི་ལྗོན་ཤིང་ནི་རྟག་པར་ཡང་འབྲས་བུ་འབྱིན་པས་ནམ་ཡང་མི་ཟད་ཅིང་སླར་ཡང་འཕེལ་བར་འགྱུར་རོ་ཞེས་པའོ། །
+
+  **མཆན།**: [[1-SOURCES/Commentaries/bo-དངུལ་ཆུ་ཐོགས་མེད།.md|དངུལ་ཆུ་ཐོགས་མེད།]] · [[1-SOURCES/Commentaries/bo-འཇུ་མི་ཕམ།.md|མི་ཕམ་རིན་པོ་ཆེ།]]
 ```
 
-> ⚠️ **Critical rule for Section 3**: Both verse text and commentary must come from the source files. If you cannot locate a verse or its commentary in the files, state this explicitly — do not substitute your own words.
+> ⚠️ **Critical rule for Section 3**: Both verse text and commentary must come from the source files. Verse text must be copied exactly from `bo-བློ་ལྡན་ཤེས་རབ།.md`. Commentary must be extracted and synthesised from the files in `1-SOURCES/Commentaries/`. If you cannot locate a verse or its commentary in the files, state this explicitly — do not substitute your own words.
 
 ---
 
@@ -330,8 +332,8 @@ If the user doesn't specify verses and asks only for a day number, consult that 
 - [ ] Section 3 — no `#### ༣.༡ རྩ་ཚིག` / `#### ༣.༢ འགྲེལ་བཤད།` headings in the output
 - [ ] Section 3 — verse headers follow `#### **N. ཤློཀ་[ordinal]།** (ལེའུ་ C ཤློཀ་ N)` and commentary headers follow `#### **N. ཤློཀ་[ordinal]།** འགྲེལ་བཤད།` — parenthetical and འགྲེལ་བཤད། **outside** the bold
 - [ ] Section 3 — verse numbers in all headers are the real chapter verse numbers and match the day's assigned range (filename `V[start]-[end]`)
-- [ ] Section 3.1 — verses provided by user; each found in `bo-བློ་ལྡན་ཤེས་རབ།-དངུལ་ཆུ་ཐོགས་མེད་སྤྱོད་འཇུག་རྩ་བ།.md` and copied exactly — not quoted from memory or training data
-- [ ] Section 3.2 — each commentary block has the two bullets `- **ངོས་འཛིན།**:` and `- **འགྲེལ་བཤད།**:`; the འགྲེལ་བཤད། bullet is extracted and summarised from `bo-དངུལ་ཆུ་ཐོགས་མེད།.md` — not invented — and strictly begins with `ཤློཀ་འདིའི་དོན་ནི་` and ends with `ཞེས་པའོ། །`
+- [ ] Section 3.1 — verses provided by user; each found in `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` and copied exactly — not quoted from memory or training data
+- [ ] Section 3.2 — each commentary block has the two bullets `- **ངོས་འཛིན།**:` and `- **འགྲེལ་བཤད།**:`; the འགྲེལ་བཤད། bullet is extracted and summarised from all relevant files in `1-SOURCES/Commentaries/` — not invented — strictly begins with `ཤློཀ་འདིའི་དོན་ནི་` and ends with `ཞེས་པའོ། །`; followed by a **མཆན།** line of clickable Obsidian wikilinks to each commentary cited
 - [ ] Exactly 1 daily application point in Section 4, focused on real-life challenges
 - [ ] Tibetan spelling and grammar reviewed — check case endings (e.g. ལ་དོན། སུ་དོན། གི་དོན།), verb forms, and particles for correctness throughout all generated sections
 - [ ] Section 4 uses first person singular (ངས་ / ང་རང་) — never collective ང་ཚོས་

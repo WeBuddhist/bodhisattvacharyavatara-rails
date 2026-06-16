@@ -16,7 +16,7 @@ generation_note: "No en-ai or 2-RAILS material exists for Chapter 2. English ver
 
 ## Opening
 
-Yesterday Shantideva offered everything, with empty hands. Today he notices what changes once the buddhas accept him. The fear of his own future loosens. He gives that up to the buddhas and the bodhisattvas, and finds he can finally turn toward other people. Then he clears the ground: he lets go of past wrongs and promises no new ones.
+Yesterday Shantideva offered everything he had, with empty hands. Today something gentler happens. Once the buddhas take him in, the fear he carried about his own future quietly eases, and for the first time he can look up and think of other people. Then, lightly, he sets down his old wrongs and promises no new ones.
 
 ## Renewing the Bodhisattva Vow
 
@@ -75,9 +75,9 @@ Yesterday Shantideva offered everything, with empty hands. Today he notices what
 
 ## From the Tradition
 
-Most of us spend a lot of the day quietly guarding ourselves. We worry about what is coming, and that worry keeps our attention on us.
+So much of the day goes into quietly looking after ourselves. We turn things over, worry about what is coming, and without meaning to, our attention stays on us.
 
-The verse says that once the buddhas accept you, you no longer fear samsara, and you can benefit beings. Ngulchu Thokme, a fourteenth-century teacher, fills in why the second part follows from the first. When you are held by someone great, the fear of your own suffering drops away, and that is exactly what frees you to act for others. He then adds a condition: if you are still weighed down by your own misdeeds, you cannot help anyone. So you confess what is past and promise no more. The cost of the wrongs you keep falls on the people you could have helped.
+The verse says that once the buddhas have taken you in, the fear of samsara eases and you can begin to help others. Ngulchu Thokme, a fourteenth-century teacher, shows how tender this is. When someone great is holding you, you no longer have to brace against your own suffering, and **that ease is what leaves room for anyone else**. He adds one gentle caution: while you are still carrying old wrongs, that room stays small, so you let the past go and promise no more. When you stay weighed down, it is the people you could have helped who lose out.
 
 ## Aspiration and Dedication
 
@@ -93,4 +93,4 @@ The verse says that once the buddhas accept you, you no longer fear samsara, and
 
 ## Today's Practice
 
-If a flicker of worry about yourself comes up today, notice it, and instead of turning inward to manage it, do one small thing for the person in front of you. Let being held by the Buddha, the dharma, and the sangha be the reason you can look up.
+Today, the next time you catch yourself worrying about your own day, pause for a moment. Then do one small, kind thing for whoever is near you: a question, a little help, a word of thanks. Let that be how you look up.

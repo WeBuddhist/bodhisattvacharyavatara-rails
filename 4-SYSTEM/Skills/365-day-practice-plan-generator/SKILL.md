@@ -200,7 +200,7 @@ For each verse, provide one commentary block in the same order as the verses abo
    - Example: `#### **༡༢. ཤློཀ་བཅུ་གཉིས་པ།** འགྲེལ་བཤད།`
 1. **Commentary body**: exactly two bullet points:
    - `- **ངོས་འཛིན།**: ` — one sentence identifying what kind of root verse this is and what it teaches, ending with `…སྟོན་པའི་རྩ་ཚིག་ཡིན་ནོ། །`
-   - `- **འགྲེལ་བཤད།**: ` — 4–8 sentences of Tibetan prose **extracted and summarised from all commentaries in `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\1-SOURCES\Commentaries\`**. Read every commentary file in that folder, identify what each says about the verse, and synthesise their views into a single flowing commentary. **Strictly begin with** `ཤློཀ་འདིའི་དོན་ནི་` and **end with** `ཞེས་པའོ། །`. Rewrite in clear, easy-to-read modern Tibetan that a beginner practitioner can understand and apply directly. **Do not invent, improvise, or add material not found in the commentary files.** At the end of the commentary block, add a **Sources** line listing a clickable Obsidian wikilink for each commentary actually cited, using the format `[[1-SOURCES/Commentaries/filename|Display name]]` — so the reader can open the raw source and verify the passage. Example: `**མཆན།**: [[1-SOURCES/Commentaries/bo-དངུལ་ཆུ་ཐོགས་མེད།.md|དངུལ་ཆུ་ཐོགས་མེད།]] · [[1-SOURCES/Commentaries/bo-འཇུ་མི་ཕམ།.md|མི་ཕམ་རིན་པོ་ཆེ།]]`
+   - `- **འགྲེལ་བཤད།**: ` — 4–8 sentences of Tibetan prose **extracted and summarised from all commentaries in `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\1-SOURCES\Commentaries\`**. Read every commentary file in that folder, identify what each says about the verse, and synthesise their views into a single flowing commentary. **Strictly begin with** `ཤློཀ་འདིའི་དོན་ནི་` and **end with** `ཞེས་པའོ། །`. Rewrite in clear, easy-to-read modern Tibetan that a beginner practitioner can understand and apply directly. **Do not invent, improvise, or add material not found in the commentary files.** At the end of the commentary block, add a **Sources** line listing a clickable Obsidian wikilink for each **specific block** actually cited, using the format `[[1-SOURCES/Commentaries/filename#^blockid|Display name ^blockid]]` — so the reader can open the raw source and jump directly to the cited passage. Example: `**མཆན།**: [[1-SOURCES/Commentaries/bo-དངུལ་ཆུ་ཐོགས་མེད།.md#^2-8-1|དངུལ་ཆུ་ཐོགས་མེད། ^2-8-1]] · [[1-SOURCES/Commentaries/bo-དངུལ་ཆུ་ཐོགས་མེད།.md#^2-8-2|^2-8-2]]`
 
 Worked example (Chapter 1, verse 12) — Subsection 3.1 entry, then its Subsection 3.2 entry:
 ```markdown
@@ -245,21 +245,21 @@ Additional worked example (Day 15 — Chapter 2, Verses 1–3):
 - **ངོས་འཛིན།**: ཤློཀ་འདི་ནི་དཀོན་མཆོག་གསུམ་ལ་སྤྱིར་མཆོད་པ་འབུལ་བའི་ཚུལ་སྟོན་པའི་རྩ་ཚིག་ཡིན་ནོ། །
 - **འགྲེལ་བཤད།**: ཤློཀ་འདིའི་དོན་ནི་རིན་པོ་ཆེ་ལྟ་བུའི་བྱང་ཆུབ་ཀྱི་སེམས་དེ་རང་གི་རྒྱུད་ལ་བརྟན་པོར་གཟུང་བར་བྱ་བའི་དགོས་ཆེད་དུ། ཡུལ་དེ་བཞིན་གཤེགས་པ་རྣམས་དང་། དམ་པའི་ཆོས་དངོས་པོ་དང་དངོས་པོ་མེད་པར་རྟོག་པའི་དྲི་མ་མེད་པ་རྣམས་དང་། སངས་རྒྱས་ཀྱི་སྲས་ཡོན་ཏན་རྒྱ་མཚོ་མཐའ་ཡས་པ་མངའ་བའི་བྱང་ཆུབ་སེམས་དཔའ་འཕགས་པ་རྣམས་ཏེ་དཀོན་མཆོག་གསུམ་པོ་ལ། ཚུལ་ནི་སངས་རྒྱས་ཐོབ་འདོད་ཀྱི་བསམ་པ་སོགས་ཆོ་ག་དྲུག་གི་སྒོ་ནས་ལེགས་པར་མཆོད་པ་འབུལ་ལོ་ཞེས་པའོ། །
 
-  **མཆན།**: [[1-SOURCES/Commentaries/bo-དངུལ་ཆུ་ཐོགས་མེད།.md|དངུལ་ཆུ་ཐོགས་མེད།]]
+  **མཆན།**: [[1-SOURCES/Commentaries/bo-དངུལ་ཆུ་ཐོགས་མེད།.md#^2-8-1|དངུལ་ཆུ་ཐོགས་མེད། ^2-8-1]] · [[1-SOURCES/Commentaries/bo-དངུལ་ཆུ་ཐོགས་མེད།.md#^2-8-2|^2-8-2]]
 
 #### **༢. ཤློཀ་གཉིས་པ།** འགྲེལ་བཤད།
 
 - **ངོས་འཛིན།**: ཤློཀ་འདི་ནི་བདག་པོས་ཡོངས་སུ་མ་བཟུང་བའི་མཆོད་རྫས་རྣམས་དམིགས་པར་སྟོན་པའི་རྩ་ཚིག་ཡིན་ནོ། །
 - **འགྲེལ་བཤད།**: ཤློཀ་འདིའི་དོན་ནི་འཇིག་རྟེན་གྱི་ཁམས་འདི་ན་ཆུ་དང་ཐང་ལས་སྐྱེས་པའི་མེ་ཏོག་དང་འབྲས་བུ་ཇི་སྙེད་ཅིག་ཡོད་པ་དང་། ནད་གསོ་བའི་སྨན་གྱི་རིགས་གང་དག་ཡོད་པ་དང་། རིན་པོ་ཆེའི་བྱེ་བྲག་ཇི་སྙེད་ཡོད་པ་དང་། བསིལ་ཞིང་ཞིམ་ལ་ཡང་བ་སོགས་ཡན་ལག་བརྒྱད་དང་ལྡན་པའི་ཆུ་གཙང་མ་ཡིད་དུ་འོང་བ་ཅི་ཡོད་པ་དེ་དག་ཐམས་ཅད་བློས་བླངས་ནས་མཆོད་པར་འབུལ་ལོ་ཞེས་པའོ། །
 
-  **མཆན།**: [[1-SOURCES/Commentaries/bo-དངུལ་ཆུ་ཐོགས་མེད།.md|དངུལ་ཆུ་ཐོགས་མེད།]]
+  **མཆན།**: [[1-SOURCES/Commentaries/bo-དངུལ་ཆུ་ཐོགས་མེད།.md#^2-10-2|དངུལ་ཆུ་ཐོགས་མེད། ^2-10-2]] · [[1-SOURCES/Commentaries/bo-དངུལ་ཆུ་ཐོགས་མེད།.md#^2-10-3|^2-10-3]]
 
 #### **༣. ཤློཀ་གསུམ་པ།** འགྲེལ་བཤད།
 
 - **ངོས་འཛིན།**: ཤློཀ་འདི་ནི་བདག་མེད་པའི་རི་དང་ནགས་ཚལ་སོགས་མཆོད་པར་སྟོན་པའི་རྩ་ཚིག་ཡིན་ནོ། །
 - **འགྲེལ་བཤད།**: ཤློཀ་འདིའི་དོན་ནི་གསེར་སོགས་ལས་གྲུབ་པའི་རིན་པོ་ཆེའི་རི་བོ་རྣམས་དང་། དེ་བཞིན་དུ་འདུ་འཛིས་དབེན་ཞིང་ཉམས་དགའ་བའི་ནགས་ཚལ་དང་ས་ཕྱོགས་རྣམས་དང་། རང་གི་མེ་ཏོག་གིས་མཛེས་པར་བརྒྱན་ཅིང་སྤྲས་པའི་ལྗོན་ཤིང་རྣམས་དང་། འབྲས་བུ་བཟང་པོའི་ལྕིད་ཀྱིས་ཡལ་ག་དུད་པའི་ཤིང་རྣམས་ཀྱང་ཡིད་ཀྱིས་སྤྲུལ་ནས་མཆོད་རྫས་སུ་འབུལ་ལོ་ཞེས་པའོ། །
 
-  **མཆན།**: [[1-SOURCES/Commentaries/bo-དངུལ་ཆུ་ཐོགས་མེད།.md|དངུལ་ཆུ་ཐོགས་མེད།]]
+  **མཆན།**: [[1-SOURCES/Commentaries/bo-དངུལ་ཆུ་ཐོགས་མེད།.md#^2-10-6|དངུལ་ཆུ་ཐོགས་མེད། ^2-10-6]]
 ```
 
 > ⚠️ **Critical rule for Section 3**: Both verse text and commentary must come from the source files. Verse text must be copied exactly from `bo-བློ་ལྡན་ཤེས་རབ།.md`. Commentary must be extracted and synthesised from the files in `1-SOURCES/Commentaries/`. If you cannot locate a verse or its commentary in the files, state this explicitly — do not substitute your own words.
@@ -327,7 +327,7 @@ Day-[day]-Ch[chapter]-V[start]-[end].md
 
 Example: `Day-1-Ch4-V43-44.md`
 
-Save to: `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\0-INBOX\Plans\`
+Save to: `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\3-TRANSFORMATIONS\Plans\bo\`
 
 After saving, present the file with a `computer://` link and a one-sentence summary of the day's verses.
 

@@ -93,4 +93,4 @@ The verse says that once the buddhas have taken you in, the fear of samsara ease
 
 ## Today's Practice
 
-Today, the next time you catch yourself worrying about your own day, pause for a moment. Then do one small, kind thing for whoever is near you: a question, a little help, a word of thanks. Let that be how you look up.
+The next time you notice yourself worrying about your own day, pause for a moment. Then do one small, kind thing for whoever is near you: a question, a little help, a word of thanks. Even that small turn toward someone else is enough.

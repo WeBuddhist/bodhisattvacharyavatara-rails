@@ -108,7 +108,7 @@ Verdict: READY TO COMPLETE | NEEDS FIXES (n critical, n major, n minor)
 - short list of the notable checks that passed (structure, grounding, etc.)
 
 ## Rating
-[N]/10 — [label]. One sentence justifying the score.
+[N]/10 — [label]. Show the arithmetic (e.g. "10 − 2 majors − 1 minor = 7, capped at 6 → 6") plus one plain sentence.
 ```
 
 The rating is always the last thing in the report.
@@ -130,21 +130,69 @@ Rules for the report:
 
 ---
 
-## Rating scale
+## Rating — standardised scoring
 
-End every evaluation with one overall rating out of 10. The rating summarises quality, but fidelity is non-negotiable, so the severities cap it:
+The score out of 10 is **computed**, not chosen by feel, so the same day always gets the same number. Two steps: classify each issue using the severity table, then apply the formula.
 
-- **9–10 — Excellent, ready.** Zero critical, zero major. 10 = nothing to fix; 9 = one trivial minor. Could be published as written.
-- **7–8 — Good, ready with optional polish.** Zero critical, zero major, a few minors.
-- **5–6 — Needs fixes.** Zero critical, one or two major. Not ready; clear the majors and re-evaluate.
-- **3–4 — Weak.** Zero critical, three or more major, or style problems throughout. Substantial rework.
-- **1–2 — Reject.** Any critical issue at all (a claim not traceable to the rails, altered verse or liturgy text, content not from the sources). Must not be used or marked complete, however good the rest is.
+### Step 1 — count the issues
 
-Capping rules:
-- Any critical issue forces the score into **1–2**, regardless of other strengths.
-- Any major issue caps the score at **6**.
-- A score of **7 or above** corresponds to "READY TO COMPLETE"; **6 or below** corresponds to "NEEDS FIXES".
+Go through the checks and list each failure. Then count how many are **critical**, **major**, and **minor**, using the severity table below. Counting rules:
+
+- **Count each distinct issue once.** Five em-dashes are one em-dash issue, not five. A heading that is both wrong-named and out of order is one issue (the worse one).
+- A **pervasive** style pattern (e.g. bold on almost every phrase, dashes throughout) counts as **one major**, not many minors.
+- If an issue could fit two severities, use the table; the table decides, not the reviewer.
+
+### Step 2 — apply the formula
+
+1. Start at **10**.
+2. Subtract **2** for each major issue.
+3. Subtract **1** for each minor issue.
+4. If there is **any major issue**, the result may not exceed **6** (cap).
+5. If there is **no critical issue**, the result may not fall below **3** (floor).
+6. If there is **any critical issue**, ignore steps 1–5: the score is **2**, or **1** if there is more than one critical. Critical always wins.
+
+Always show the arithmetic in the report, e.g. "10 − 2 majors − 1 minor = 7, capped at 6 → **6/10**".
+
+### Bands (for interpretation only)
+
+- **9–10** Excellent, ready · **7–8** Good, ready with small polish · **5–6** Needs fixes · **3–4** Weak · **1–2** Do not use.
+- **7 or above = "READY TO COMPLETE"; 6 or below = "NEEDS FIXES".**
 - The rating is a reviewer aid, not permission to publish. Only a domain specialist sets `status: complete`.
+
+### Severity table (fixed classification)
+
+Classify every issue by this table. Do not reclassify by feel.
+
+**Critical** (fidelity / trust — any one forces the 1–2 band):
+- A claim in From the Tradition or Today's Practice that cannot be traced to a rail / source.
+- Verse text (Tibetan or English) altered, paraphrased, or not from the source files.
+- Liturgy text with invented or changed lines that alter the prayer's meaning.
+- Anything presented as commentary that is actually the model's own invention.
+
+**Major** (clear rule violation — −2 each, caps at 6):
+- A required section missing, or sections out of order.
+- A wrong section heading ("Introduction" not "Opening"; "Today's Practice Challenge" not "Today's Practice").
+- Liturgy is an outdated version that does not match the current `liturgy.md` (content intact but wording differs).
+- An em-dash in body prose, or an emoji in body text (counts once; pervasive use still counts once).
+- From the Tradition explains the verse instead of adding something the verses do not contain.
+- A known term paraphrased into a stand-in ("a truly good person" for bodhisattva).
+- A consequence stated with no "to whom".
+- A rhetorical question-and-answer in From the Tradition.
+- Today's Practice is forceful: assignment framing, a stack of commands, or asking the reader to watch a presumed bad feeling.
+- Importance asserted ("great", "profound") instead of shown by comparison or result.
+- A mechanism compressed into one abstract sentence the reader must unpack.
+- Any forbidden element present (benefits list, glossary, bullet application block, parenthetical keyword tags, "Today I will…" device, "great teacher Shantideva", collective-attribution opener, sub-headers below `##`).
+
+**Minor** (polish — −1 each):
+- No push-notification hook line.
+- No one-clause commentator identification.
+- Heading-label inconsistency ("Aspiration" not "Aspiration and Dedication"; bold vs italic liturgy labels differing from other days).
+- Bold a little heavy (upper edge of "sparing"), not pervasive.
+- A spelling inconsistency (e.g. "honour"/"honor").
+- A word count over or under a limit by less than about 20%.
+- A meta closing label on the practice ("that is the practice").
+- A single idiom or elevated phrase a non-native reader might stumble on.
+- A mild filler word or phrase.
 
 ---
 

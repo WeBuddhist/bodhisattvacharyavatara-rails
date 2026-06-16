@@ -77,35 +77,35 @@ status: draft
 
 # <title-bo>
 
-## N. <Level-1 text> ^TOC-N
+## <Level-1 text> ^TOC-N
 
-### N.N <Level-2 text> ^TOC-N-N
+### <Level-2 text> ^TOC-N-N
 
-#### N.N.N <Level-3 text> ^TOC-N-N-N
+#### <Level-3 text> ^TOC-N-N-N
 
-##### N.N.N.N <Level-4 text> ^TOC-N-N-N-N
+##### <Level-4 text> ^TOC-N-N-N-N
 
-###### N.N.N.N.N <Level-5 text> ^TOC-N-N-N-N-N
+###### <Level-5 text> ^TOC-N-N-N-N-N
 
-- **N.N.N.N.N.N** <Level-6 text> ^TOC-N-N-N-N-N-N
-  - **N.N.N.N.N.N.N** <Level-7 text> ^TOC-N-N-N-N-N-N-N
-    - **N.N.N.N.N.N.N.N** <Level-8 text> ^TOC-N-N-N-N-N-N-N-N
+- **<Level-6 text>** ^TOC-N-N-N-N-N-N
+  - **<Level-7 text>** ^TOC-N-N-N-N-N-N-N
+    - **<Level-8 text>** ^TOC-N-N-N-N-N-N-N-N
 ```
 
 Depth-to-format mapping:
 
 | Depth (segments after TOC-) | Format |
 |---|---|
-| 1 | `## N.` |
-| 2 | `### N.N` |
-| 3 | `#### N.N.N` |
-| 4 | `##### N.N.N.N` |
-| 5 | `###### N.N.N.N.N` |
-| 6 | `- **N.N.N.N.N.N**` |
-| 7 | `  - **N.N.N.N.N.N.N**` (2-space indent per additional level) |
+| 1 | `## ` |
+| 2 | `### ` |
+| 3 | `#### ` |
+| 4 | `##### ` |
+| 5 | `###### ` |
+| 6 | `- **` |
+| 7 | `  - **` (2-space indent per additional level) |
 | 8+ | `    - **…**` (2 additional spaces per level beyond 7) |
 
-The numeric prefix on each entry is the TOC ID segments joined with `.` (e.g. `^TOC-2-2-2-1` → prefix `2.2.2.1`). Always include the block ID at the end of each line.
+Always include the block ID at the end of each line.
 
 Add a `---` horizontal rule between the top-level sections (between `## 1.` and `## 2.` groups) for readability.
 
@@ -165,7 +165,7 @@ Write the YAML frontmatter block first (see Output file format above).
 Then write `# <title-bo>` followed by a blank line.
 
 For each entry in depth-first order, apply the depth-to-format mapping from the Output file format section:
-- Depths 1–5: use the appropriate heading level with the numeric prefix.
+- Depths 1–5: use the appropriate heading level.
 - Depth 6+: use indented bold list items with 2 spaces of indentation per level beyond 5.
 - Always append the block ID at the end of the line.
 - Insert a `---` horizontal rule between top-level (depth-1) sections.

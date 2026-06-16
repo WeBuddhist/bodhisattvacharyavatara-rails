@@ -1,15 +1,17 @@
 ---
-title: སྤྱོད་འཇུག་ཤེར་ལེའི་རྒྱ་ཆེར་འགྲེལ་མཆན་སྙིང་པོའི་དོན་གསལ་ཉིན་བྱེད་ཆེན་པོ — ལྟེ་བའི་དཀར་ཆག།
-title_en: "Table of Contents: The Great Sun Illuminating the Essential Meaning — Structural Outline"
-author: བྲག་གཡབ་བློ་གྲོས།
-author_en: Drag Yab Lodrö
-source: "[[1-SOURCES/Commentaries/bo-བྲག་གཡབ་བློ་གྲོས།]]"
-file_type: Adaptation
-language_tag: bo
-tags: [sa-bcad, outline, wisdom-chapter, bodhicaryavatara]
+title: bo-drag-yab སྤྱོད་འཇུག་ཤེར་ལེའི་རྒྱ་ཆེར་འགྲེལ་མཆན་སྙིང་པོའི་དོན་གསལ་ཉིན་བྱེད་ཆེན་པོ ལྟེ་བའི་དཀར་ཆག
+commentary: 1-SOURCES/Commentaries/bo-བྲག་གཡབ་བློ་གྲོས།.md
+derived_from: 3-TRANSFORMATIONS/Adaptations/bo-drag-yab-sa-bcad/bo-བྲག་གཡབ་བློ་གྲོས། སྤྱོད་འཇུག་ཤེར་ལེའི་རྒྱ་ཆེར་འགྲེལ་མཆན་སྙིང་པོའི་དོན་གསལ་ཉིན་བྱེད་ཆེན་པོ ས་བཅད་རྐྱང་པ།.md
+file_type: adaptation
+lang_tag: bo
+status: draft
 ---
 
+# སྤྱོད་འཇུག་ཤེར་ལེའི་རྒྱ་ཆེར་འགྲེལ་མཆན་སྙིང་པོའི་དོན་གསལ་ཉིན་བྱེད་ཆེན་པོ
+
 ## གཞུང་སྔ་ཕྱི་མཚམས་སྦྱར་ཏེ་བསྟན་བཅོས་ཀྱི་ལུས་རྣམ་བཞག་ཤེས་རབ་བསྐྱེད་དགོས་པའི་རྒྱུ་མཚན་མདོར་བསྟན་པ། ^TOC-1
+
+---
 
 ## དེའི་ཡན་ལག་རྒྱས་པར་བཤད་པ། ^TOC-2
 
@@ -102,6 +104,8 @@ tags: [sa-bcad, outline, wisdom-chapter, bodhicaryavatara]
 - **མཉམ་བཞག་ཏུ་སྟོང་ཉིད་སྒོམ་པ།** ^TOC-2-3-2-2-1
 
 - **རྗེས་ཐོབ་ཏུ་སྙིང་རྗེ་སྒོམ་པར་གདམས་པ།** ^TOC-2-3-2-2-2
+
+---
 
 ## དགེ་རྩ་གཞན་དོན་དུ་བསྔོ་བ། ^TOC-3
 

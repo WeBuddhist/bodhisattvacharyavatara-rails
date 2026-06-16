@@ -40,11 +40,13 @@ try:
 except ImportError:  # pragma: no cover - dependency check
     requests = None
 
-DEFAULT_INPUT = (
-    Path(__file__).resolve().parent.parent / "data/zh-隆蓮法師a.json"
-)
+_DATA_DIR = Path(__file__).resolve().parent.parent / "data"
+DEFAULT_INPUT = _DATA_DIR / "zh-隆蓮法師a.json"
 DEFAULT_BASE_URL = "https://api-aq25662yyq-uc.a.run.app"
-DEFAULT_PREVIEW_OUTPUT = Path(__file__).resolve().parent / "payloads/commentary_preview.json"
+
+
+def _default_preview_output(input_path: Path) -> Path:
+    return input_path.parent / f"{input_path.stem}-commentary_payload.json"
 
 
 def _pick_title(metadata: dict) -> str | None:
@@ -200,11 +202,12 @@ def main() -> None:
     parser.add_argument(
         "--preview-output",
         type=Path,
-        default=DEFAULT_PREVIEW_OUTPUT,
-        help=f"Where to write the --dry-run payload JSON "
-        f"(default: {DEFAULT_PREVIEW_OUTPUT})",
+        default=None,
+        help="Where to write the --dry-run payload JSON "
+        "(default: <input-stem>-commentary_payload.json next to --input)",
     )
     args = parser.parse_args()
+    preview_output = args.preview_output or _default_preview_output(args.input)
 
     try:
         document = json.loads(args.input.read_text(encoding="utf-8"))
@@ -221,12 +224,12 @@ def main() -> None:
     )
 
     if args.dry_run:
-        args.preview_output.parent.mkdir(parents=True, exist_ok=True)
-        args.preview_output.write_text(
+        preview_output.parent.mkdir(parents=True, exist_ok=True)
+        preview_output.write_text(
             json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
             encoding="utf-8",
         )
-        print(f"Wrote payload preview to {args.preview_output}")
+        print(f"Wrote payload preview to {preview_output}")
         return
 
     if requests is None:

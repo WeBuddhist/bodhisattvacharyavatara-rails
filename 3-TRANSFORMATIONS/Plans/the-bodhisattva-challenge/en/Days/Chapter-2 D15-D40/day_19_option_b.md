@@ -7,7 +7,7 @@ option: B
 angle: "A gift fitted to the one who receives it (Gyaltsab Darma Rinchen, verse 12)"
 generation_note: "No en-ai or 2-RAILS material exists for Chapter 2. English verses from 1-SOURCES/Translations/en-David_Karma_Choephel.md (^2-11, ^2-12, ^2-13). Commentary grounded in the Tibetan source bo-རྒྱལ་ཚབ་དར་མ་རིན་ཆེན།.md (block before ^2-8-2 and ^2-8-2: drying the body, then offering saffron robes suited to those in monastic form and fine soft coloured garments to those in lay form). The benefit (being pervaded by the fragrance of moral discipline) is drawn from the user-provided English translation of the Tibetan plan (bo/Chapter-2 D15-D40/Day-19-Ch2-V11-13.md). Interim; needs domain-specialist review before status: complete."
 ---
-
+	
 # Day 19 — Give the gift that fits the person
 
 > **Notification**

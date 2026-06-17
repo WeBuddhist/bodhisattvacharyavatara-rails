@@ -12,6 +12,12 @@ The pipeline reads top-to-bottom: source ingestion populates `1-SOURCES/`, the r
 
 These skills bring raw material into `1-SOURCES/` in a consistent, citation-ready format.
 
+### `clean-commentary-text` **[exists]**
+**Purpose:** Inspect a raw Tibetan commentary for mechanical text issues (page markers, running headers/footers, extra spaces, encoding artifacts), generate a targeted Python cleaning script, run it, and save the cleaned draft to `0-INBOX/`.
+**Inputs:** Raw commentary file path in `1-SOURCES/Commentaries/` and a desired output filename.
+**Outputs:** Cleaned draft at `0-INBOX/<output_name>` and a generated script at `4-SYSTEM/Skills/clean-commentary-text/clean-<commentary-id>.py`.
+→ [`clean-commentary-text/SKILL.md`](clean-commentary-text/SKILL.md)
+
 ### `epub-to-markdown` **[exists]**
 Converts EPUB files (commentaries, reference texts) into formatted Obsidian markdown with block IDs, headings, and frontmatter.
 → [`epub-to-markdown/SKILL.md`](epub-to-markdown/SKILL.md)

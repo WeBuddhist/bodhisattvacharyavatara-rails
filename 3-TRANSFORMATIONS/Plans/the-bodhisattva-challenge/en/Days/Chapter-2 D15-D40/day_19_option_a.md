@@ -4,15 +4,15 @@ chapter: 2
 verses: "2-11 to 2-13"
 status: draft
 option: A
-angle: "You bathe them, and it is your own mind that comes clean (the offering reflects back on the offerer)"
-generation_note: "No en-ai or 2-RAILS material exists for Chapter 2. English verses from 1-SOURCES/Translations/en-David_Karma_Choephel.md (^2-11, ^2-12, ^2-13). The bathing/drying/robing scene is the verse, also explained in the Tibetan commentaries (Gyaltsab, Sazang, Ngulchu Thokme). The reflexive point (imagining the bath purifies the offerer's own mind-stream; 'སེམས་རབ་ཏུ་དྭངས') is from the benefits section of the user-provided English translation of the Tibetan plan (bo/Chapter-2 D15-D40/Day-19-Ch2-V11-13.md); it is not pinned to a single named commentator, so it is attributed to the commentary tradition. Interim; needs domain-specialist review before status: complete."
+angle: "Real giving notices the other person and gives what suits them, not what suits you; and it leaves the giver clothed in their own good conduct (Gyaltsab Darma Rinchen, verse 13)"
+generation_note: "No en-ai or 2-RAILS material exists for Chapter 2. English verses from 1-SOURCES/Translations/en-David_Karma_Choephel.md (^2-11, ^2-12, ^2-13). Commentary grounded in the Tibetan source bo-རྒྱལ་ཚབ་དར་མ་རིན་ཆེན།.md (^2-8-1/^2-8-2: saffron robes for those who appear as monastics, soft colourful cloth for those who appear as householders — giving what suits each recipient). The reflexive note (offering robes leaves one pervaded by the good fragrance of moral discipline) is from the benefits section of the Tibetan plan (bo/Chapter-2 D15-D40/Day-19-Ch2-V11-13.md). Interim; needs domain-specialist review before status: complete."
 ---
 
-# Day 19 — You wash them, your own mind clears
+# Day 19 — Give what suits them, not what suits you
 
 > **Notification**
-> **Title:** Offer clean water as a bath today
-> **Detail:** Shantideva washes the buddhas in his mind. Today, offer water the same way, and let your mind grow calm.
+> **Title:** Give someone what they need, not what you'd want
+> **Detail:** Shantideva dresses each being in what suits them. Today, give with the other person in mind.
 
 ## Opening
 
@@ -75,9 +75,9 @@ Today's offering is a gentle one. In his mind, Shantideva bathes the buddhas and
 
 ## From the Tradition
 
-The buddhas were never dirty, so a bath can't be for their sake. It is for yours.
+It is easy to give people what we would like, and call it generosity.
 
-When you tend them gently in your mind, pouring the warm water, taking your time, something quietly shifts. The old teachers put it simply: this kind of care clears your own mind. The day's small angers and worries loosen their grip, and the mind settles. **The tenderness you give the buddhas is really tenderness you give yourself.**
+The verse offers fine robes, which at first sounds like one grand gift for everyone. Gyaltsab Darma Rinchen, a fifteenth-century teacher, points out that it isn't. Some of these figures appear as monks and nuns, and to them Shantideva gives plain saffron robes. Others appear as householders, and to them he gives soft, colourful cloth. He looks at who is in front of him and gives what fits that person, not what would suit himself. **Real giving starts by noticing the other person.** And it comes back to you: clothing each one with care, you find yourself clothed in your own good conduct.
 
 ## Aspiration and Dedication
 
@@ -93,4 +93,4 @@ When you tend them gently in your mind, pouring the warm water, taking your time
 
 ## Today's Practice
 
-Today, when you wash, or when you see clean water, pause for a moment. Picture the water as pure and fragrant, and offer it as a bath to the buddhas and bodhisattvas. Notice your own mind grow a little calmer as you do.
+Today, before you do something kind for someone, pause and picture what they would actually want, not what you would want. Then give them that.

@@ -1603,7 +1603,7 @@ verse_id_format: chapter-verse
 न स्वार्थेन विना प्रीतियरस्माद्बालस्य जायते॥ ^8-24
 
 स्वार्थद्वारेण या प्रीतिरात्मार्थं प्रीतिरेव सा। 
-द्रव्यनाशे यथोद्वेगः सुखहानिकृतो हि सः॥ [Ed: Variant verse; embedded as "extra verse" in final [8.24]. Not assigned a standalone ID in sanskrit-final.md.] ^8-186
+द्रव्यनाशे यथोद्वेगः सुखहानिकृतो हि सः॥ ^8.24]. Not assigned a standalone ID in sanskrit-final.md.] ^8-186
 
 नावध्यायन्ति तरवो न चाराध्याः प्रयत्नतः कदा तैः सुखसंवासैः सह वासो भवेन्मम॥ ^8-25
 

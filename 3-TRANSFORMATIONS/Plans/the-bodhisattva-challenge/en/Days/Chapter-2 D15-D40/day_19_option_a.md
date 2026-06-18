@@ -16,7 +16,7 @@ generation_note: "No en-ai or 2-RAILS material exists for Chapter 2. English ver
 
 ## Opening
 
-Today the offering becomes a bath. In his mind, Shantideva fills vases with sweet-scented water and washes the buddhas and bodhisattvas while music plays. Then he dries them, dresses them in fine robes, and adorns them with jewels.
+Today's offering is a gentle one. In his mind, Shantideva bathes the buddhas and bodhisattvas in warm, scented water, with music playing. He dries them, wraps them in soft robes, and adorns them with jewels, caring for them the way you would for someone you love.
 
 ## Renewing the Bodhisattva Vow
 
@@ -75,9 +75,9 @@ Today the offering becomes a bath. In his mind, Shantideva fills vases with swee
 
 ## From the Tradition
 
-The buddhas do not need washing. The bath is really for you.
+The buddhas were never dirty, so a bath can't be for their sake. It is for yours.
 
-You imagine all of it: the water, the music, the care. The buddhas were never dirty. But as you wash them in your mind, something in you changes. The old teachers explain it simply: this practice clears your own mind. Your anger and worry settle, and the mind grows calm. **The kindness you give the buddhas is really kindness you give yourself.**
+When you tend them gently in your mind, pouring the warm water, taking your time, something quietly shifts. The old teachers put it simply: this kind of care clears your own mind. The day's small angers and worries loosen their grip, and the mind settles. **The tenderness you give the buddhas is really tenderness you give yourself.**
 
 ## Aspiration and Dedication
 

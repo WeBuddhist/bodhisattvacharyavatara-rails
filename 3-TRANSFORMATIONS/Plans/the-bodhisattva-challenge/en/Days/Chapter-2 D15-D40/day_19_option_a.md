@@ -5,7 +5,7 @@ verses: "2-11 to 2-13"
 status: draft
 option: A
 angle: "Real giving notices the other person and gives what suits them, not what suits you; and it leaves the giver clothed in their own good conduct (Gyaltsab Darma Rinchen, verse 13)"
-generation_note: "No en-ai or 2-RAILS material exists for Chapter 2. English verses from 1-SOURCES/Translations/en-David_Karma_Choephel.md (^2-11, ^2-12, ^2-13). Commentary grounded in the Tibetan source bo-རྒྱལ་ཚབ་དར་མ་རིན་ཆེན།.md (^2-8-1/^2-8-2: saffron robes for those who appear as monastics, soft colourful cloth for those who appear as householders — giving what suits each recipient). The reflexive note (offering robes leaves one pervaded by the good fragrance of moral discipline) is from the benefits section of the Tibetan plan (bo/Chapter-2 D15-D40/Day-19-Ch2-V11-13.md). Interim; needs domain-specialist review before status: complete."
+generation_note: "No en-ai or 2-RAILS material exists for Chapter 2. English verses from 1-SOURCES/Translations/en-David_Karma_Choephel.md (^2-11, ^2-12, ^2-13). From the Tradition draws on two Tibetan commentaries: Gyaltsab Darma Rinchen (bo-རྒྱལ་ཚབ་དར་མ་རིན་ཆེན།.md ^2-8-2: householders given soft colourful cloth, monastics saffron — giving what suits each recipient) and Ngulchu Thokme (bo-དངུལ་ཆུ་ཐོགས་མེད།.md ^2-10-20: the bodhisattvas take on householder form 'for the sake of those to be trained', so the ornaments are a kindness aimed outward). Interim; needs domain-specialist review before status: complete."
 ---
 
 # Day 19 — Give what suits them, not what suits you
@@ -77,7 +77,9 @@ Today's offering is a gentle one. In his mind, Shantideva bathes the buddhas and
 
 It is easy to give people what we would like, and call it generosity.
 
-The verse offers fine robes, which at first sounds like one grand gift for everyone. Gyaltsab Darma Rinchen, a fifteenth-century teacher, points out that it isn't. Some of these figures appear as monks and nuns, and to them Shantideva gives plain saffron robes. Others appear as householders, and to them he gives soft, colourful cloth. He looks at who is in front of him and gives what fits that person, not what would suit himself. **Real giving starts by noticing the other person.** And it comes back to you: clothing each one with care, you find yourself clothed in your own good conduct.
+The verse dresses the bodhisattvas in fine robes and jewels. Gyaltsab Darma Rinchen, a fifteenth-century teacher, notices the robes are not all alike. To those who look like monks and nuns, Shantideva gives plain saffron robes; to those who look like householders, soft and colourful cloth. He gives each one what fits them, not what he himself would want.
+
+Ngulchu Thokme, a fourteenth-century teacher, adds something easy to miss about the jewels. These beings have already seen the truth; they need no ornament at all. They take on a warm, ordinary look on purpose, so that people feel they can come close. The jewels were never for them. They are a kindness, meant for the people they hope to reach. **All of it, the robes, the jewels, the care, was only ever turned outward, toward others.**
 
 ## Aspiration and Dedication
 

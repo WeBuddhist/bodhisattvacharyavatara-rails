@@ -1,11 +1,19 @@
 ---
 title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་དཀའ་འགྲེལ།
-title in English: Difficult Points Commentary on Entering the Way of the Bodhisattva (Bodhisattvacaryāvatārapañjikā)
+title_english: Difficult Points Commentary on Entering the Way of the Bodhisattva (Bodhisattvacaryāvatārapañjikā)
 author: ཤེས་རབ་འབྱུང་གནས་བློ་གྲོས།
-author in English: Prajñākaramati
+author_english: Prajñākaramati
+translator: བཻ་རོ་ཙ་ན་རཀྵི་ཏ (Vairocanarakṣita)
+translation_site: དཔལ་བཱི་ཀྲ་མ་ལ་ཤཱི་ལའི་གཙུག་ལག་ཁང་ (Vikramaśīla)
+language: Tibetan
+script: Tibetan
 file_type: commentary
-language_tag: bo
-source_description: Indian Sanskrit sub-commentary on the Bodhisattvacaryāvatāra
+lang_tag: bo
+verse_id_format: chapter-verse
+registered_id: prajnakaramati
+root_text: 1-SOURCES/Text/sk-dev-root-text.md
+covers_verses: 1-1–10-58
+source_description: "Tibetan translation of the Sanskrit Bodhicaryāvatārapañjikā by Prajñākaramati, rendered into Tibetan by Vairocanarakṣita at Vikramaśīla — digital source and edition unknown"
 ---
 
 ༄༅༅། །རྒྱ་གར་སྐད་དུ། བོ་དྷི་སཏྭ་ཙཱརྱ་ཨ་བ་ཏཱ་ར་པཉྩི་ཀཱ།
@@ -2726,7 +2734,4 @@ source_description: Indian Sanskrit sub-commentary on the Bodhisattvacaryāvatā
 
   
 
-ཕྱོགས་ཙམ་བཀྲོལ་ལས་དགེ་བ་གང་། །ཐོབ་དེས་འགྲོ་རྣམས་རྒྱལ་བར་ཤོག །ནུབ་ཕྱོགས་རྒྱུད་དུ་འགྲོ་སྙམ་པ་ཡི་བསམ་པས་བདག་གིས་འགྲེལ་པ་འདི་བརྩམས་ཏེ། །དེ་ན་རྩ་བ་རྐྱང་པ་འང་ཡོད་དམ་མེད་སྙམ་བདག་ནི་ཐེ་ཚོམ་གྱུར་པ་ན། །ལྟ་སྨོས་ཅི་དགོས་འགྲེལ་པ་མེད་སྙམ་དེས་ན་ང་རྒྱལ་སྒོ་ནས་བྱས་སོ་ཞེས། །ཐུགས་དགོངས་མ་མཛད་དག་པའི་བློ་ཅན་རྣམས་ཀྱིས་གཞན་དག་ཅི་དགར་སེམས་ལ་རག །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་དཀའ་འགྲེལ། དཔལ་བཱི་ཀྲ་མ་ལ་ཤཱི་ལའི་གཙུག་ལག་ཁང་གི་མཁས་པ་ཆེན་པོ་དགེ་སློང་བཻ་རོ་ཙ་ན་རཀྵི་ཏས་མཛད་པ་རྫོགས་སོ།། །།//
-
-  
-**
+ཕྱོགས་ཙམ་བཀྲོལ་ལས་དགེ་བ་གང་། །ཐོབ་དེས་འགྲོ་རྣམས་རྒྱལ་བར་ཤོག །ནུབ་ཕྱོགས་རྒྱུད་དུ་འགྲོ་སྙམ་པ་ཡི་བསམ་པས་བདག་གིས་འགྲེལ་པ་འདི་བརྩམས་ཏེ། །དེ་ན་རྩ་བ་རྐྱང་པ་འང་ཡོད་དམ་མེད་སྙམ་བདག་ནི་ཐེ་ཚོམ་གྱུར་པ་ན། །ལྟ་སྨོས་ཅི་དགོས་འགྲེལ་པ་མེད་སྙམ་དེས་ན་ང་རྒྱལ་སྒོ་ནས་བྱས་སོ་ཞེས། །ཐུགས་དགོངས་མ་མཛད་དག་པའི་བློ་ཅན་རྣམས་ཀྱིས་གཞན་དག་ཅི་དགར་སེམས་ལ་རག །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་དཀའ་འགྲེལ། དཔལ་བཱི་ཀྲ་མ་ལ་ཤཱི་ལའི་གཙུག་ལག་ཁང་གི་མཁས་པ་ཆེན་པོ་དགེ་སློང་བཻ་རོ་ཙ་ན་རཀྵི་ཏས་མཛད་པ་རྫོགས་སོ།། །།

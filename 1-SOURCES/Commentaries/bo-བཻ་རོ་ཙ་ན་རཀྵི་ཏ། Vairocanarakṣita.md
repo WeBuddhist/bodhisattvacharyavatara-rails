@@ -1,19 +1,18 @@
 ---
 title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་དཀའ་འགྲེལ།
 title_english: Difficult Points Commentary on Entering the Way of the Bodhisattva (Bodhisattvacaryāvatārapañjikā)
-author: ཤེས་རབ་འབྱུང་གནས་བློ་གྲོས།
-author_english: Prajñākaramati
-translator: བཻ་རོ་ཙ་ན་རཀྵི་ཏ (Vairocanarakṣita)
-translation_site: དཔལ་བཱི་ཀྲ་མ་ལ་ཤཱི་ལའི་གཙུག་ལག་ཁང་ (Vikramaśīla)
+author: བཻ་རོ་ཙ་ན་རཀྵི་ཏ།
+author_english: Vairocanarakṣita
+composition_site: དཔལ་བཱི་ཀྲ་མ་ལ་ཤཱི་ལའི་གཙུག་ལག་ཁང་ (Vikramaśīla)
 language: Tibetan
 script: Tibetan
 file_type: commentary
 lang_tag: bo
 verse_id_format: chapter-verse
-registered_id: prajnakaramati
+registered_id: vairocanarakshita
 root_text: 1-SOURCES/Text/sk-dev-root-text.md
 covers_verses: 1-1–10-58
-source_description: "Tibetan translation of the Sanskrit Bodhicaryāvatārapañjikā by Prajñākaramati, rendered into Tibetan by Vairocanarakṣita at Vikramaśīla — digital source and edition unknown"
+source_description: "Tibetan commentary on the Bodhisattvacaryāvatāra composed by Vairocanarakṣita at Vikramaśīla — digital source and edition unknown"
 ---
 
 ༄༅༅། །རྒྱ་གར་སྐད་དུ། བོ་དྷི་སཏྭ་ཙཱརྱ་ཨ་བ་ཏཱ་ར་པཉྩི་ཀཱ།

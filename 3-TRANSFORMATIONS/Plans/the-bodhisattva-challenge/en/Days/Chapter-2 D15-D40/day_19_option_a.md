@@ -4,19 +4,19 @@ chapter: 2
 verses: "2-11 to 2-13"
 status: draft
 option: A
-angle: "You bathe them, and it is your own mind that comes clean (Ngulchu Thokme, verse 11)"
-generation_note: "No en-ai or 2-RAILS material exists for Chapter 2. English verses from 1-SOURCES/Translations/en-David_Karma_Choephel.md (^2-11, ^2-12, ^2-13). Bath offering grounded in the Tibetan source bo-དངུལ་ཆུ་ཐོགས་མེད།.md (^2-10-16: vases of fragrant water, songs and music, bathing the tathagatas and their offspring). The reflexive benefit (the offerer's own mind-stream is purified, the mind becomes clear) is drawn from the user-provided English translation of the Tibetan plan's 'benefits' section (bo/Chapter-2 D15-D40/Day-19-Ch2-V11-13.md); it is not pinned to one named commentator. Interim; needs domain-specialist review before status: complete."
+angle: "You bathe them, and it is your own mind that comes clean (the offering reflects back on the offerer)"
+generation_note: "No en-ai or 2-RAILS material exists for Chapter 2. English verses from 1-SOURCES/Translations/en-David_Karma_Choephel.md (^2-11, ^2-12, ^2-13). The bathing/drying/robing scene is the verse, also explained in the Tibetan commentaries (Gyaltsab, Sazang, Ngulchu Thokme). The reflexive point (imagining the bath purifies the offerer's own mind-stream; 'སེམས་རབ་ཏུ་དྭངས') is from the benefits section of the user-provided English translation of the Tibetan plan (bo/Chapter-2 D15-D40/Day-19-Ch2-V11-13.md); it is not pinned to a single named commentator, so it is attributed to the commentary tradition. Interim; needs domain-specialist review before status: complete."
 ---
 
 # Day 19 — You wash them, your own mind clears
 
 > **Notification**
-> **Title:** Turn this morning's wash into a bath you offer
-> **Detail:** Shantideva bathes the buddhas in his mind. Today, let clean water be an offering, and let your own mind settle.
+> **Title:** Offer clean water as a bath today
+> **Detail:** Shantideva washes the buddhas in his mind. Today, offer water the same way, and let your mind grow calm.
 
 ## Opening
 
-Yesterday Shantideva built a fragrant bathhouse in his mind. Today he carries the water in. He fills bright vases with scented water and, with song and music, bathes the buddhas and the bodhisattvas. Then he dries them with soft, sweet cloths, offers them fine robes, and adorns the great noble ones. The whole thing is made by imagining it, with care.
+Today the offering becomes a bath. In his mind, Shantideva fills vases with sweet-scented water and washes the buddhas and bodhisattvas while music plays. Then he dries them, dresses them in fine robes, and adorns them with jewels.
 
 ## Renewing the Bodhisattva Vow
 
@@ -75,9 +75,9 @@ Yesterday Shantideva built a fragrant bathhouse in his mind. Today he carries th
 
 ## From the Tradition
 
-A buddha needs no bath. So why offer one?
+The buddhas do not need washing. The bath is really for you.
 
-The verse has you pour fragrant water over the buddhas and bathe them with song and music. Ngulchu Thokme, a fourteenth-century teacher, describes the whole scene as something the mind makes, the vases, the scented water, the music, all imagined with care. Here is the quiet turn the tradition points to. The buddhas were never dirty; the one who comes away cleaner is you. As you tend them gently in your mind, your own worries and irritations settle, and the mind grows clear, the way water clears once you stop stirring it. The care you give them lands in you.
+You imagine all of it: the water, the music, the care. The buddhas were never dirty. But as you wash them in your mind, something in you changes. The old teachers explain it simply: this practice clears your own mind. Your anger and worry settle, and the mind grows calm. **The kindness you give the buddhas is really kindness you give yourself.**
 
 ## Aspiration and Dedication
 
@@ -93,4 +93,4 @@ The verse has you pour fragrant water over the buddhas and bathe them with song 
 
 ## Today's Practice
 
-When you wash this morning, or the next time you see clean, clear water, take a few unhurried seconds. Picture the water as fresh and fragrant, and offer it as a bath to the buddhas and bodhisattvas. As you do, let your own mind settle a little, the way the water is calm and clear.
+Today, when you wash, or when you see clean water, pause for a moment. Picture the water as pure and fragrant, and offer it as a bath to the buddhas and bodhisattvas. Notice your own mind grow a little calmer as you do.

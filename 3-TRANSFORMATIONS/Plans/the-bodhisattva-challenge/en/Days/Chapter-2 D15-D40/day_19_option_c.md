@@ -7,7 +7,7 @@ option: C
 angle: "The great ones dress up not for themselves but to reach people (Ngulchu Thokme, verse 13)"
 generation_note: "No en-ai or 2-RAILS material exists for Chapter 2. English verses from 1-SOURCES/Translations/en-David_Karma_Choephel.md (^2-11, ^2-12, ^2-13). Commentary grounded in the Tibetan source bo-དངུལ་ཆུ་ཐོགས་མེད།.md (^2-10-20: adorning with hundreds of supreme ornaments the aryas who, though they have directly seen the truth, take on the marks of laypeople 'by force of the disciples to be tamed', e.g. Samantabhadra, Manjughosha, Lokeshvara, Vajrapani, Maitreya). The benefit (becoming enriched with the ornaments of bodhisattva qualities) is drawn from the user-provided English translation of the Tibetan plan (bo/Chapter-2 D15-D40/Day-19-Ch2-V11-13.md). Interim; needs domain-specialist review before status: complete."
 ---
-
+	
 # Day 19 — The ones who dress up for our sake
 
 > **Notification**

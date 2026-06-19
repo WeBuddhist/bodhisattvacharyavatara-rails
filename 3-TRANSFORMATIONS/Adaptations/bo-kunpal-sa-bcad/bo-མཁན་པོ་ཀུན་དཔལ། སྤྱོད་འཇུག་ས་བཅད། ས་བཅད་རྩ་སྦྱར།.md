@@ -68,7 +68,7 @@ status: draft
 	- བསྟན་བཅོས་ཀྱི་མཚན། ^TOC-2-1
 		- མཚན་དངོས། ^TOC-2-1-1
 
-			> རྒྱ་གར་སྐད་དུ། བོ་དྷི་སཏྭ་ཙརྱ་ཨ་བ་ཏཱ་ར།
+			![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^0-2]]
 			![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^0-3]]
 
 		- ཞར་བྱུང་འགྱུར་ཕྱག ^TOC-2-1-2 
@@ -398,10 +398,9 @@ status: draft
 
 								- དགེ་རྩ་གཞན་དོན་དུ་བསྔོ་བའི་ཡན་ལག ^TOC-2-2-2-1-3-1-1-1-4
 									![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-6]]
-									
 									![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-7]]
 									
-									![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-8]]
+									![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-8]
 									
 									![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-9]]
 
@@ -421,7 +420,6 @@ status: draft
 									![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-14]]
 									
 									![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-15]]
-									
 									![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-16]]
 
 								- བློ་སྦྱོང་གི་འབྲས་བུ་གཞན་དོན་ལ་བསྔོ་བ། ^TOC-2-2-2-1-3-1-1-2-4
@@ -508,7 +506,7 @@ status: draft
 									![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^4-12]]
 									
 									![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^4-13]]
-									གསོ་བའི་སྤྱོད་ཡུལ་མ་གྱུར་ཏོ།
+									![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^4-13]]
 									
 									![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^4-14]]
 
@@ -1020,7 +1018,7 @@ status: draft
 										![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^6-67]]
 										
 										![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^6-68]]
-										བདག་གིས་འདི་ལ་ཅི་སྟེ་བཀོན།
+										![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^6-68]]
 										
 										![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^6-69]]
 										
@@ -1058,9 +1056,9 @@ status: draft
 										![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^6-85]]
 										
 										![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^6-86]]
-										ལྷན་ཅིག་འགྲན་པར་བྱེད་འདོད་དམ། ། 
+										![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^6-86]]
 										
-										བམ་པོ་གཉིས་པའོ། །
+										![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^6-86]]
 
 								- འདོད་པའི་གེགས་བྱེད་པ་ལ་བཟོད་པ་བསྒོམ་པ། ^TOC-2-2-2-2-3-1-2-2-2
 
@@ -1449,7 +1447,7 @@ status: draft
 										![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-22]]
 										
 										![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-23]]
-										དགའ་བ་ཇི་ལྟར་སྐྱེ་བར་འགྱུར།
+										![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-23]]
 										
 										![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-24]]
 
@@ -1537,7 +1535,7 @@ status: draft
 												![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-58]]
 												
 												![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-59]]
-												མི་གཙང་སྐྱེས་པའང་འདོད་པར་བྱེད།
+												![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-59]]
 												
 												![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-60]]
 												
@@ -1849,7 +1847,7 @@ status: draft
 
 						- ཤེས་རབ་བསྐྱེད་པ་མདོར་བསྟན་པ། ^TOC-2-2-2-3-3-1-1
 							![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^9-1]]
-							ཐུབ་པས་ཤེས་རབ་དོན་དུ་གསུངས། །
+							![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^9-1]]
 							![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^9-1]]
 
 						- དེ་རྒྱས་པར་བཤད་པ། ^TOC-2-2-2-3-3-1-2
@@ -2368,7 +2366,7 @@ status: draft
 								![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^10-30]]
 								
 								![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^10-31]]
-								རྟག་ཏུ་དགེ་བ་བྱེད་པར་ཤོག
+								![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^10-31]]
 								
 								![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^10-32]]
 								
@@ -2406,7 +2404,7 @@ status: draft
 
 						- མཆོག་གི་དགོངས་པ་རྫོགས་པར་བསྔོ་བ། ^TOC-2-2-2-4-2-1-2
 							![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^10-48]]
-							རྟག་ཏུ་བདེ་དང་ལྡན་གྱུར་ཅིག
+							![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^10-48]]
 							
 							![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^10-49]]
 							

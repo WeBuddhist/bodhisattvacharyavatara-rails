@@ -10,8 +10,9 @@ Removes editorial scaffolding only, never a character of body text:
     Covers an OCR line counter on its own line AND an inline sequential outline
     number before a sa-bcad opener. Numbers glued to text are left untouched.
   - block / verse IDs: Obsidian IDs such as ^0-1, ^1-2, ^1-2-0.
-  - heading markup: leading #/##/### and the heading's trailing block ID are
-    stripped, but the heading TEXT is kept as a normal line.
+  - heading block IDs: a heading's trailing block ID is stripped, but the
+    leading #/##/### markup and the heading text are both kept, on their own
+    line, acting as a separator between prose runs.
   - intra-section line breaks: consecutive content lines within a section are
     joined into one continuous run. Kept heading-text lines act as separators.
 
@@ -53,11 +54,7 @@ def strip_frontmatter(text: str) -> str:
 def reference_body(text: str) -> str:
     t = BLOCK_ID_RE.sub("", text)
     t = BARE_NUM_RE.sub("", t)
-    kept = []
-    for ln in t.split("\n"):
-        m = HEADING_RE.match(ln)
-        kept.append(m.group(1) if m else ln)
-    return squeeze("\n".join(kept))
+    return squeeze(t)
 
 
 def process(text: str):
@@ -89,7 +86,7 @@ def process(text: str):
         m = HEADING_RE.match(ln)
         if m:
             flush()
-            htext = m.group(1).strip()
+            htext = ln.strip()
             if htext:
                 blocks.append(("heading", htext))
                 stats["headings"] += 1
@@ -127,7 +124,7 @@ def main(argv):
 
     print(
         "{}: removed {} index/outline numbers, {} block IDs; "
-        "stripped tags from {} headings; emitted {} blocks.".format(
+        "kept markup on {} headings; emitted {} blocks.".format(
             args.input, stats["numbers"], stats["block_ids"],
             stats["headings"], len(blocks)
         )

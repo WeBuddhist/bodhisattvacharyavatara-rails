@@ -83,4 +83,4 @@ Then come the lamps. Ngulchu Thokme, a fourteenth-century teacher, treats a lamp
 
 ## Today's Practice
 
-Offer a treat in your mind before you enjoy it, and offer a light when you switch one on, wishing to see one thing more clearly.
+The next time something good is in front of you, a meal, a coffee, a treat, pause before the first taste and offer it in your mind to the buddhas and bodhisattvas. And as you switch on a light, offer it too, wishing to see one thing more clearly: a habit of your own, or someone you judged too quickly.

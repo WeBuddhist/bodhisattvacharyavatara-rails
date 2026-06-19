@@ -65,7 +65,7 @@ After the scented oils, Shantideva offers flowers. He gathers the loveliest he c
 
 ## From the Tradition
 
-It seems like a one-way thing to hand someone a gift. It leaves you, and that is that.
+Giving usually feels like a one-way street: the gift leaves your hands, and you are left with a little less.
 
 The verse offers flowers to the buddhas, and Ngulchu Thokme, a fourteenth-century teacher, lingers on what kind of flowers: the most pleasing ones, gathered and strung with care. The tradition draws a quiet link between the flower in your hand and the mind that offers it. When you offer beauty gladly, without grabbing it back, something flower-like takes root in you: patience, and a settled, calm attention. The flower leaves your hand, but the qualities it asks of you, openness and ease, stay and grow. The one who is changed by the giving is you.
 

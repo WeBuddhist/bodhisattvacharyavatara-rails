@@ -46,6 +46,12 @@ Format and normalize Chinese commentaries: structures headings, maps traditional
 Inserts or regenerates a table of contents in a source or rails file.
 → [`add-toc/SKILL.md`](add-toc/SKILL.md)
 
+### `tag-inline-toc` **[exists]**
+**Purpose:** Insert markdown headings with `^N-N-0` block IDs at section boundaries in a formatted Tibetan commentary, then wrap the inline structural announcement phrases (*sa bcad*) with Obsidian wikilinks per CLAUDE.md §5b.
+**Inputs:** A formatted commentary file from `0-INBOX/segmentation/` (has paragraph block IDs; lacks heading block IDs and wikilink tags).
+**Outputs:** File at `0-INBOX/temp/tagged-<original-filename>` with headings, heading block IDs, and `[[#^N-N-0|term]]` wikilinks applied to all announcement and restatement phrases.
+→ [`tag-inline-toc/SKILL.md`](tag-inline-toc/SKILL.md)
+
 ---
 
 ## Rails-building skills (context preparation for translation)

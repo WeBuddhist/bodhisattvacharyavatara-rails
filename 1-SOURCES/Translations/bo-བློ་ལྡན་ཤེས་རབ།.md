@@ -1,15 +1,14 @@
 ---
 title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
-author: Śāntideva
-translator: Blo ldan shes rab (ལོ་ཙཱ་བ་བློ་ལྡན་ཤེས་རབ།)
+translator: Sarvajñādeva; Bande Paltsek; Dharmaśrībhadra; Rinchen Zangpo; Śākya-blo-gros; Sumatikīrti; Blo ldan shes rab
 language: Tibetan
 file_type: translation
 lang_tag: bo
 verse_id_format: chapter-verse
 root_text: 1-SOURCES/Text/sk-dev.md
+translation_basis: Kashmir manuscripts (first translation by Sarvajñādeva and Bande Paltsek); Central Indian manuscripts and commentaries (revision by Dharmaśrībhadra, Rinchen Zangpo, and Śākya-blo-gros); finalised by Sumatikīrti and Blo ldan shes rab
 covers_verses: 1-1–10-61
-source_description: Canonical Tibetan translation (Kangyur, Derge edition). Translated from Sanskrit by Sarvajñādeva and Bande Paltsek; revised by Dharmaśrībhadra and Rinchen Zangpo; finalised by Sumatikīrti and Blo ldan shes rab.
-description: Missing Translations. [2.32] [8.25] [9.20. 3-4th line] [9.21]
+source_description: "Canonical Tibetan translation (Kangyur, Derge edition). Translated from Sanskrit by Sarvajñādeva and Bande Paltsek from Kashmir manuscripts; revised by Dharmaśrībhadra, Rinchen Zangpo, and Śākya-blo-gros against Central Indian manuscripts and commentaries; finalised by Sumatikīrti and Blo ldan shes rab."
 ---
 # ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་བཞུགས་སོ། །
 

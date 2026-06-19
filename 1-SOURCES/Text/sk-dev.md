@@ -7,13 +7,11 @@ lang_tag: sk
 source_description: "Sanskrit root text of the Bodhisattvacharyavatara, formatted according to project standards."
 verse_id_format: chapter-verse
 ---
-# बोधिचर्यावतारः।
+# बोधिचर्यावतारः।  
+  
+## Introduction
 
-## 0. Introduction
-
-# शबोधिचर्यावतारः। ॥
-
-ॐ नमो बुद्धाय॥ ^0-1
+॥ॐ नमो बुद्धाय॥ ^01
 
 ## 1. बोधिचित्तानुशंसो नाम प्रथमः परिच्छेदः।
 

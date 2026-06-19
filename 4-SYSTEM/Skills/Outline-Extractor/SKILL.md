@@ -166,7 +166,7 @@ As you read, maintain a running tree of outline entries. Each entry has:
 
 When a section announcement names N sub-items, those sub-items become children of the current node at depth+1.
 
-### Step 4 — Write File 1 (flat extracted outline)
+### Step 5 — Write File 1 (flat extracted outline)
 
 Create `3-TRANSFORMATIONS/Adaptations/<commentary-id>-sa-bcad/bo-<commentary-id> <title-bo> ས་བཅད་རྐྱང་པ།.md`.
 
@@ -176,7 +176,7 @@ For each entry in depth-first order:
 - Write `<(depth-1) tabs>- <text> ^TOC-<id-segments>`
 - Insert one blank line before the first child of any parent.
 
-### Step 5 — Write File 2 (nested structured outline)
+### Step 6 — Write File 2 (nested structured outline)
 
 Create `3-TRANSFORMATIONS/Adaptations/<commentary-id>-sa-bcad/bo-<commentary-id> <title-bo> ལྟེ་བའི་དཀར་ཆག།.md`.
 
@@ -190,7 +190,7 @@ For each entry in depth-first order, apply the depth-to-format mapping from the 
 - Always append the block ID at the end of the line.
 - Insert a `---` horizontal rule between top-level (depth-1) sections.
 
-### Step 6 — Verify
+### Step 7 — Verify
 
 Re-read both output files and confirm:
 a. Every block ID in File 1 is present in File 2.
@@ -203,6 +203,7 @@ d. No source text has been altered.
 ## Completion check
 
 - [ ] `commentary-file` confirmed to exist in `1-SOURCES/Commentaries/`
+- [ ] Split script written, executed, and `0-INBOX/temp/<commentary-id>-split.md` created with higher line count than source
 - [ ] Output folder `3-TRANSFORMATIONS/Adaptations/<commentary-id>-sa-bcad/` exists
 - [ ] File 1 (`ས་བཅད་རྐྱང་པ།`) written with correct tab-indented list format and sequential block IDs
 - [ ] File 2 (`ལྟེ་བའི་དཀར་ཆག།`) written with YAML frontmatter, heading hierarchy for depths 1–5, and bold indented list items for depth 6+

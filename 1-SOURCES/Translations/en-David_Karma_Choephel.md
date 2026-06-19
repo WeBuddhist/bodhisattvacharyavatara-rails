@@ -11,17 +11,17 @@ root_text: 1-SOURCES/Text/sk-dev.md
 covers_verses: 0-1–10-58
 source_description: Translated into English from the canonical Tibetan text in comparison with the extant Sanskrit by the bhikshu Karma Lodrö Choephel.
 ---
-Entering the Way of the Bodhisattva
-Shantideva
-In Sanskrit
-Bodhisatvacarya avatāra
-In Tibetan
-Byang chub sems dpa’i spyod pa la ’jug pa
+# Entering the Way of the Bodhisattva
+
 ## 0. Introduction
 
-## 1. Explaining the Benefits of Bodhichitta
+In Sanskrit: Bodhisatvacarya avatāra
+
+In Tibetan: Byang chub sems dpa’i spyod pa la ’jug pa
 
 I prostrate to all buddhas and bodhisattvas.  ^0-1
+
+## 1. Explaining the Benefits of Bodhichitta
 
 I prostrate with respect to the sugatas,
 Who have the dharmakaya, and their offspring,

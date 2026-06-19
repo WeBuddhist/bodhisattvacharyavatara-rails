@@ -56,7 +56,7 @@ What it removes (editorial scaffolding only — never a character of body text):
 
 - **Index / outline numbers** — any bare number (ASCII `0-9` or Tibetan `༠-༩`, optional trailing `.`/`)`) that stands alone between whitespace boundaries. This catches both an OCR line counter on its own line *and* an inline sequential outline number sitting before a sa-bcad opener (e.g. `…ཏོ། །19. དང་པོ་ནི།…`). Numbers fused to text (`1.2`, `ལོ16`) are left untouched, since Tibetan never delimits a real syllable with a bare space.
 - **Block / verse IDs** — `^N`, `^N-N`, `^N-N-N` … wherever they appear.
-- **Heading tags** — the leading `#`/`##`/`###` markup and the heading's trailing block ID are stripped, but the heading's **text is kept** as a normal line. (The heading *structure* is dropped here on the assumption it will be re-derived downstream by `format-commentary` / `add-toc`; the words are never lost.)
+- **Heading block IDs** — only the heading's trailing block ID is stripped. The leading `#`/`##`/`###` markup and the heading text are **both kept**, on their own line, acting as a separator between prose runs.
 - **Intra-section line breaks** — consecutive content lines within a section are joined into one continuous run, so the rule-based segmenter starts from raw prose. Kept heading-text lines act as run separators, so a title or section head never fuses onto neighbouring prose.
 
 Frontmatter (the leading `--- … ---` block) is preserved verbatim.

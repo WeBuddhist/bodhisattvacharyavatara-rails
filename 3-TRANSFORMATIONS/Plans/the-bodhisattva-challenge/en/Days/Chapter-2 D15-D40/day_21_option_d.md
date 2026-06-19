@@ -65,11 +65,9 @@ Today's offerings are the good things and a small bright one. In his mind, Shant
 
 ## From the Tradition
 
-There is a small tightening we know well: the good thing arrives, and part of us wants it only for ourselves.
+The verse offers fine foods and incense. Gyaltsab Darma Rinchen, a fifteenth-century teacher, notes that Shantideva gives not the leftovers but the very things he would most like to keep. Each time you hand over what you wanted for yourself, even in the mind, the grip of holding on loosens a little.
 
-The verse offers fine foods and sweet incense to the buddhas. Gyaltsab Darma Rinchen, a fifteenth-century teacher, lists the delicacies plainly, sweet syrups, white sugar, the nicest things on the table. Shantideva does not offer the leftovers; he offers the very things he would most like to keep. Each time you hand over what you wanted for yourself, even in the mind, the tight grip of holding on loosens a little. Giving, it turns out, is a muscle, and this is how it grows stronger.
-
-Then come the lamps. Ngulchu Thokme, a fourteenth-century teacher, treats them as more than decoration. A lamp does one thing: it ends darkness wherever it reaches. When you offer light in your mind, you are practising for the kind of light that clears not-knowing, first the blind spots about yourself, then the quick, wrong conclusions you draw about others. **Open the hand, and the grip loosens; offer the light, and you see a little more clearly.**
+Then come the lamps. Ngulchu Thokme, a fourteenth-century teacher, treats a lamp as more than decoration: it ends darkness wherever it reaches. Offering light is practice for the kind of light that clears not-knowing, the blind spots about yourself and the quick conclusions you draw about others. **Open the hand, and the grip loosens; offer the light, and you see a little more clearly.**
 
 ## Aspiration and Dedication
 
@@ -85,4 +83,4 @@ Then come the lamps. Ngulchu Thokme, a fourteenth-century teacher, treats them a
 
 ## Today's Practice
 
-The next time something good is in front of you, a nice meal, a coffee, a small treat, pause before the first taste and offer it in your mind to the buddhas and bodhisattvas; if you feel a flicker of not wanting to share it, that is the very spot to give from. And once today, as you switch on a light, offer that light too, and quietly wish to see one thing more clearly, a habit of your own, or someone you may have judged too quickly.
+Offer a treat in your mind before you enjoy it, and offer a light when you switch one on, wishing to see one thing more clearly.

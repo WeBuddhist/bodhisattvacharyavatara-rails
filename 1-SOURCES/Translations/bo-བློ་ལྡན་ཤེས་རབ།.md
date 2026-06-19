@@ -11,10 +11,9 @@ covers_verses: 1-1–10-61
 source_description: Canonical Tibetan translation (Kangyur, Derge edition). Translated from Sanskrit by Sarvajñādeva and Bande Paltsek; revised by Dharmaśrībhadra and Rinchen Zangpo; finalised by Sumatikīrti and Blo ldan shes rab.
 description: Missing Translations. [2.32] [8.25] [9.20. 3-4th line] [9.21]
 ---
+# ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་བཞུགས་སོ། །
 
 ## 0. Introduction
-
-༄། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་བཞུགས་སོ། ། ^0-1
 
 ༄༅༅། །རྒྱ་གར་སྐད་དུ། བོ་དྷི་སཏྭ་ཙརྱ་ཨ་བ་ཏཱ་ར། ^0-2
 

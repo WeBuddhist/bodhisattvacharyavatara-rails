@@ -1,18 +1,11 @@
 ---
-title: སྤྱོད་འཇུག་འགྲེལ་པ་གཞུང་དོན་རབ་གསལ་སྣང་བ
-title_in_english: "[FILL IN]"
-author: "[FILL IN — check colophon near end of file]"
-author_in_english: "[FILL IN]"
-registered_id: "[FILL IN — add to 4-SYSTEM/Guidelines/vault-annex.md]"
+title: སྤྱོད་འཇུག་འགྲེལ་པ་གཞུང་དོན་རབ་གསལ་སྣང་བ།
+title in English: Commentary on the Bodhicaryāvatāra, Brilliant Illumination of the Meaning of the Text
+author: ས་བཟང་མ་ཏི་པཎ་ཆེན་བློ་གྲོས་རྒྱལ་མཚན།
+author in English: Sazang Mati Panchen Lodro Gyaltsen
 file_type: commentary
 language_tag: bo
-root_text: 1-SOURCES/Text/sk-dev-root-text.md
-covers_verses: "[FILL IN e.g. 1-1–10-58]"
-source_description: >
-  Digital segment export (text_id adaf7b34-8d5c-4534-8c18-8b0fe0443bb2),
-  2353 segments. Converted from 0-INBOX/སྤྱོད་འཇུག་འགྲེལ་པ་གཞུང་དོན་རབ་གསལ་སྣང་བ.md
-status: draft
-verse_id_format: chapter-verse
+source_description: ""
 ---
 
 སྤྱོད་འཇུག་འགྲེལ་པ་གཞུང་དོན་རབ་གསལ་སྣང་བ། དོན་དམ་མཐུན་པའི་མཚན་གྱི་དོན། །དོན་ཆེན་སྒྲུབ་པ་སྤྱིའི་ཕྱག། དོན་མཆོག་ལྡན་པའི་བསྟན་འཆོས་དངོས། །དོན་དེ་ལེགས་པར་བསྒྱུར་བའི་ཚུལ་ལོ། །

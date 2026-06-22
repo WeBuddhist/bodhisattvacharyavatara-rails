@@ -326,3 +326,12 @@ Full rules in [`../3-TRANSFORMATIONS/About Transformations.md`](../3-TRANSFORMAT
 3. For each batch: load section + verse rails → generate → record `context_packages:` in frontmatter → set `status: draft`.
 4. Run `translation-qa` (or equivalent QA skill); iterate until no critical/major errors.
 5. Domain specialist sets `status: complete`.
+
+---
+
+## 12. Quick-reference skill table
+
+| Task | Skill |
+|---|---|
+| Summarise a verse or chapter for a specific audience | `multilevel-summary` |
+ary` |

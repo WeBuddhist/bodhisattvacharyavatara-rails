@@ -39,14 +39,14 @@ The output is saved as `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day
 
 ## Source files
 
-| File | Purpose |
-| --- | --- |
-| `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` | **Root text.** Canonical Tibetan. Extract verses exactly as they appear. |
-| `3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-root-loden-sherab.md` | **Verse translation.** AI-generated English of the Loden Sherab root text. Use block IDs to locate each verse. |
-| `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/assets/liturgy.md` | **Fixed liturgy.** Opening and closing prayers reproduced verbatim in sections 2.2 and 2.5. |
-| `3-TRANSFORMATIONS/Translations/en-ai/Verses/<verse-id>.md` | **Commentary summaries (interim).** Combined summaries from Gyaltsab Darma Rinchen, Sazang Mati Panchen, and Ngulchu Thokme Zangpo. Use until `2-RAILS/Verses/<verse-id>.md` packages reach `status: complete`. |
-| `2-RAILS/Verses/<verse-id>.md` | **Verse context packages (preferred).** Use when `status: complete`. Supersedes interim sources. |
-| `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/assets/schedule.md` | **Verse schedule.** Maps day numbers to chapter, verse range, and date. |
+| File                                                                        | Purpose                                                                                                                                                                                                         |
+| --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md`                              | **Root text.** Canonical Tibetan. Extract verses exactly as they appear.                                                                                                                                        |
+| `3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-root-loden-sherab.md` | **Verse translation.** AI-generated English of the Loden Sherab root text. Use block IDs to locate each verse.                                                                                                  |
+| `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/assets/liturgy.md`    | **Fixed liturgy.** Opening and closing prayers reproduced verbatim in sections 2.2 and 2.5.                                                                                                                     |
+| `3-TRANSFORMATIONS/Translations/en-ai/Verses/<verse-id>.md`                 | **Commentary summaries (interim).** Combined summaries from Gyaltsab Darma Rinchen, Sazang Mati Panchen, and Ngulchu Thokme Zangpo. Use until `2-RAILS/Verses/<verse-id>.md` packages reach `status: complete`. |
+| `2-RAILS/Verses/<verse-id>.md`                                              | **Verse context packages (preferred).** Use when `status: complete`. Supersedes interim sources.                                                                                                                |
+| `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/assets/schedule.md`   | **Verse schedule.** Maps day numbers to chapter, verse range, and date.                                                                                                                                         |
 
 > ⚠️ **Rail status check:** Only rails with `status: complete` may be used for sections 2.4 and 2.6. If no complete rail exists, use the interim commentary summaries and record this in the frontmatter `generation_note`. If neither source exists for a verse, stop and flag the dependency. Do not invent content.
 

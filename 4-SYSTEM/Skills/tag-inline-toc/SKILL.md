@@ -138,6 +138,8 @@ After (heading line inserted above, wikilink added inline):
 9. **Output file goes to `0-INBOX/temp/`**, never to `1-SOURCES/` or `2-RAILS/`.
 10. **Never skip a depth level.** Depth must be traversed in order: depth-1 → depth-2 → depth-3 → … Do not assign a depth-N block ID until the parent depth-(N-1) section is established.
 11. **Complete every section at the current depth before descending.** All siblings at a given depth must be fully tagged (heading inserted + wikilinks applied) before processing any child section at the next depth. Do not move to a deeper level mid-sibling-list.
+12. **Chapter title lines (ལེའུ་N།) are plain text.** Never insert a heading before them and never add wikilinks to them. They are not sa bcad and are not body openers.
+13. **Editorial section markers (N.N) are structural delimiters, not sa bcad.** The sa bcad to tag is the first Tibetan line that follows the marker.
 
 ---
 
@@ -188,6 +190,21 @@ Count words that trigger Form B detection (appearing directly after `་ལ་` 
 `གཉིས།` `གསུམ།` `བཞི།` `ལྔ།` `དྲུག།` `བདུན།` `བརྒྱད།` `དགུ།` `བཅུ།`
 
 ---
+
+#### Chapter title lines — NOT body openers
+
+Lines of the form `ལེའུ་[ordinal]། [brief description]` (e.g. `ལེའུ་དང་པོ། བྱང་ཆུབ་སེམས་ཀྱི་ཕན་ཡོན་བཤད་པ།`) are **chapter labels**, not sa bcad body openers.
+
+**Do not** insert a heading line immediately before a chapter title line.  
+**Do not** wrap any part of a chapter title line in a self-referential wikilink.
+
+A chapter title line simply sits as plain text inside the larger structure. The actual structural announcements for that chapter's content appear on the **sa bcad lines that follow the editorial section markers (N.N)** inside the chapter.
+
+#### Editorial section markers — NOT sa bcad
+
+Lines of the form `N.N` (e.g. `1.1`, `2.3`, `8.17`) are **editorial verse-section markers** added to the commentary to help locate verse references. They are not sa bcad themselves and do not receive wikilinks or heading lines.
+
+The **first non-empty Tibetan line immediately following** an editorial section marker is the sa bcad announcement for that verse section. That line IS a sa bcad and must be tagged: a heading line inserted before it, and wikilinks applied to its announced terms.
 
 #### Identifying section-body restatements
 

@@ -15,9 +15,9 @@ def pick_input_file() -> Path:
             lines = candidate.read_text(encoding="utf-8-sig").splitlines()
         except UnicodeDecodeError:
             continue
-        if len(lines) == 6820:
+        if len(lines) == 6819:
             return candidate
-    raise FileNotFoundError("Could not find the 6820-line target segmented commentary.")
+    raise FileNotFoundError("Could not find the target segmented commentary.")
 
 
 COUNT_WORDS = {
@@ -93,7 +93,7 @@ def parse_announcement(line: str) -> dict | None:
     topics = extract_topics(match.group("topics"), count)
     if len(topics) < 2:
         return None
-    return {"count": count, "topics": topics, "start": match.start("topics")}
+    return {"count": count, "topics": topics, "start": match.start("topics"), "prefix": match.group("prefix")}
 
 
 def parse_ordinal_start(line: str) -> dict | None:
@@ -121,6 +121,15 @@ def heading_title(topic: str) -> str:
     if not title.endswith("།"):
         title += "།"
     return title
+
+
+def unresolved_heading_title(line: str, ordinal_start: dict, announcement: dict) -> str:
+    prefix = announcement.get("prefix", "")
+    title = prefix[ordinal_start["end"] :] if len(prefix) >= ordinal_start["end"] else ""
+    title = re.sub(r"ལ(?:་ཡང)?་?$", "", title).strip()
+    if not title:
+        title = line[ordinal_start["start"] : ordinal_start["end"]].strip("་")
+    return heading_title(title)
 
 
 def wrap_span(line: str, start: int, end: int, block_id: str) -> str:
@@ -165,6 +174,21 @@ def tag_announcement_terms(line: str, announcement: dict, parent_path: list[int]
     return tagged, changed
 
 
+def find_previously_opened_path(contexts: list[dict], ordinal_idx: int, line: str) -> list[int] | None:
+    """Resolve repeated ordinal announcements inside an already-opened section."""
+    for context in reversed(contexts):
+        if ordinal_idx <= len(context["topics"]) and ordinal_idx in context["opened"]:
+            topic = clean_topic(context["topics"][ordinal_idx - 1])
+            if topic and topic in line:
+                return context["parent_path"] + [ordinal_idx]
+
+    for context in reversed(contexts):
+        if ordinal_idx <= len(context["topics"]) and ordinal_idx in context["opened"]:
+            return context["parent_path"] + [ordinal_idx]
+
+    return None
+
+
 def output_path_for(input_path: Path) -> Path:
     out_path = OUT_DIR / ("tagged-" + input_path.name)
     if not out_path.exists():
@@ -188,6 +212,10 @@ def main() -> None:
     contexts = []
     out = []
     current_chunk = "frontmatter"
+    marker_base_path = []
+    marker_root_used = False
+    marker_extra_root_counter = 0
+    frontmatter_root_counter = 0
     in_frontmatter = False
     frontmatter_marks = 0
     stats = {
@@ -212,6 +240,10 @@ def main() -> None:
 
         if MARKER_RE.match(stripped):
             current_chunk = stripped.split(".")[0]
+            marker_base_path = [int(part) for part in stripped.split(".")]
+            marker_root_used = False
+            marker_extra_root_counter = 0
+            contexts = []
             stats["chunks"].setdefault(current_chunk, {"markers": 0, "headings": 0, "announcements": 0})
             stats["chunks"][current_chunk]["markers"] += 1
 
@@ -225,6 +257,7 @@ def main() -> None:
         announcement = parse_announcement(line)
         ordinal_start = parse_ordinal_start(line)
         opened_path = None
+        fallback_parent_path = None
         working = line
 
         if ordinal_start:
@@ -253,13 +286,39 @@ def main() -> None:
                 stats["chunks"].setdefault(current_chunk, {"markers": 0, "headings": 0, "announcements": 0})
                 stats["chunks"][current_chunk]["headings"] += 1
             elif announcement:
-                if out and out[-1] != "":
+                fallback_parent_path = find_previously_opened_path(contexts, ord_idx, line)
+                if fallback_parent_path is not None:
+                    opened_path = fallback_parent_path
+                else:
+                    if marker_base_path:
+                        if not marker_root_used:
+                            opened_path = marker_base_path
+                            marker_root_used = True
+                        else:
+                            marker_extra_root_counter += 1
+                            opened_path = marker_base_path + [100 + marker_extra_root_counter]
+                    else:
+                        frontmatter_root_counter += 1
+                        opened_path = [0, frontmatter_root_counter]
+
+                    block_id = path_id(opened_path)
+                    title = unresolved_heading_title(line, ordinal_start, announcement)
+                    if out and out[-1] != "":
+                        out.append("")
+                    out.append(f"{heading_level(opened_path)} {title} {block_id}")
                     out.append("")
-                out.append("<!-- TODO: unclear depth; ordinal opener had no active parent context -->")
-                stats["todos"] += 1
+                    working = wrap_span(working, ordinal_start["start"], ordinal_start["end"], block_id)
+                    stats["headings_inserted"] += 1
+                    stats["section_body_restatements_tagged"] += 1
+                    stats["max_depth"] = max(stats["max_depth"], len(opened_path))
+                    stats["chunks"].setdefault(current_chunk, {"markers": 0, "headings": 0, "announcements": 0})
+                    stats["chunks"][current_chunk]["headings"] += 1
 
         if announcement:
-            parent_path = opened_path if opened_path is not None else []
+            if opened_path is not None:
+                parent_path = opened_path
+            else:
+                parent_path = []
             tagged, changed = tag_announcement_terms(working, announcement, parent_path)
             if changed:
                 working = tagged
@@ -291,7 +350,7 @@ def main() -> None:
     stats["unopened_declared_sections"] = sum(len(c["topics"]) - len(c["opened"]) for c in contexts)
     heading_ids = re.findall(r"\^([0-9][0-9-]*-0)\b", out_text)
     stats["duplicate_heading_ids"] = len(heading_ids) - len(set(heading_ids))
-    print(json.dumps(stats, ensure_ascii=False, indent=2))
+    print(json.dumps(stats, ensure_ascii=True, indent=2))
 
 
 if __name__ == "__main__":

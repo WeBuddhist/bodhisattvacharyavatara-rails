@@ -133,11 +133,31 @@ Add a `---` horizontal rule between the top-level sections (between `## 1.` and 
 3. Confirm `title-bo` is provided. If not, read the commentary's frontmatter `title:` field and use that, then confirm.
 4. Check whether `3-TRANSFORMATIONS/Adaptations/<commentary-id>-sa-bcad/` already contains output files. If yes, warn the user that they will be overwritten and ask to confirm.
 
-### Step 2 — Read the commentary
+### Step 2 — Pre-process: split section markers onto new lines
 
-Read the entire commentary file. Scan for structural outline passages using the markers in Rule 2. Tibetan commentaries typically open with a top-level structural announcement enumerating the major sections, then repeat that announcement locally before each section begins.
+Before scanning for structure, normalise the source text so that every known section marker begins on its own line. This step is purely mechanical — it does not depend on Markdown markup, bold, numbering, or any other formatting convention.
 
-### Step 3 — Build the internal outline tree
+Run a Python script (write it to `0-INBOX/temp/split-<commentary-id>.py` and execute it with `bash`) that:
+
+1. Reads the source file with `encoding='utf-8', errors='replace'`.
+2. Joins all lines into a single string (so the input line count does not matter).
+3. For every pattern in the list below, inserts a `\n` immediately **before** the first character of the pattern wherever it appears mid-string (i.e. not already at the start of a line):
+   - Tibetan chapter-index markers: `ཀ༡`, `ཀ༢`, `ཀ༣`, `ཀ༤`, `ཀ༥`, `ཀ༦`, `ཀ༧`, `ཀ༨`, `ཀ༩`, `ཀ༡༠`, `ཀ༡༡`, `ཀ༡༢` (extend the list if the text has more chapters)
+   - Ordinal section announcements: `དང་པོ།`, `གཉིས་པ།`, `གསུམ་པ།`, `བཞི་པ།`, `ལྔ་པ།`, `དྲུག་པ།`, `བདུན་པ།`, `བརྒྱད་པ།`, `དགུ་པ།`, `བཅུ་པ།`
+   - Ordinal connectors used mid-sentence: `དང་པོ་ནི།`, `གཉིས་པ་ནི།`, `གསུམ་པ་ནི།`
+   - The auspicious marker `༈` when it occurs mid-line
+   - Arabic/Indic numbered-entry patterns: a digit or digits immediately followed by `. ` (e.g. `1. `, `2. `, `10. `)
+4. Collapses any run of three or more consecutive blank lines down to two.
+5. Writes the result to `0-INBOX/temp/<commentary-id>-split.md` (never to `1-SOURCES/`).
+6. Prints the original line count and the new line count so you can confirm the split increased the line count.
+
+Use the split file (`0-INBOX/temp/<commentary-id>-split.md`) as the working text for all subsequent steps. The original `1-SOURCES/` file is never modified.
+
+### Step 3 — Read the split text
+
+Read `0-INBOX/temp/<commentary-id>-split.md`. Scan for structural outline passages using the markers in Rule 2. Tibetan commentaries typically open with a top-level structural announcement enumerating the major sections, then repeat that announcement locally before each section begins. Because Step 2 has already placed each marker at the start of its own line, pattern-matching is now line-by-line rather than requiring regex look-behind across long prose runs.
+
+### Step 4 — Build the internal outline tree
 
 As you read, maintain a running tree of outline entries. Each entry has:
 - `text`: the Tibetan structural phrase (verbatim)
@@ -146,7 +166,7 @@ As you read, maintain a running tree of outline entries. Each entry has:
 
 When a section announcement names N sub-items, those sub-items become children of the current node at depth+1.
 
-### Step 4 — Write File 1 (flat extracted outline)
+### Step 5 — Write File 1 (flat extracted outline)
 
 Create `3-TRANSFORMATIONS/Adaptations/<commentary-id>-sa-bcad/bo-<commentary-id> <title-bo> ས་བཅད་རྐྱང་པ།.md`.
 
@@ -156,7 +176,7 @@ For each entry in depth-first order:
 - Write `<(depth-1) tabs>- <text> ^TOC-<id-segments>`
 - Insert one blank line before the first child of any parent.
 
-### Step 5 — Write File 2 (nested structured outline)
+### Step 6 — Write File 2 (nested structured outline)
 
 Create `3-TRANSFORMATIONS/Adaptations/<commentary-id>-sa-bcad/bo-<commentary-id> <title-bo> ལྟེ་བའི་དཀར་ཆག།.md`.
 
@@ -170,7 +190,7 @@ For each entry in depth-first order, apply the depth-to-format mapping from the 
 - Always append the block ID at the end of the line.
 - Insert a `---` horizontal rule between top-level (depth-1) sections.
 
-### Step 6 — Verify
+### Step 7 — Verify
 
 Re-read both output files and confirm:
 a. Every block ID in File 1 is present in File 2.
@@ -183,6 +203,7 @@ d. No source text has been altered.
 ## Completion check
 
 - [ ] `commentary-file` confirmed to exist in `1-SOURCES/Commentaries/`
+- [ ] Split script written, executed, and `0-INBOX/temp/<commentary-id>-split.md` created with higher line count than source
 - [ ] Output folder `3-TRANSFORMATIONS/Adaptations/<commentary-id>-sa-bcad/` exists
 - [ ] File 1 (`ས་བཅད་རྐྱང་པ།`) written with correct tab-indented list format and sequential block IDs
 - [ ] File 2 (`ལྟེ་བའི་དཀར་ཆག།`) written with YAML frontmatter, heading hierarchy for depths 1–5, and bold indented list items for depth 6+

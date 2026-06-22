@@ -1,6 +1,6 @@
 ---
 name: commentary-segmentation
-description: Segment an OCR-clean but under-segmented Tibetan commentary in 1-SOURCES/Commentaries into short, individually-referenceable blocks (prose paragraphs, verse stanzas, quotations) based on the functional content of the text — quotation frames, objection/answer markers, sa-bcad outline enumerations, and sentence-final particles. Use when a commentary's text is one continuous run (or has overly long paragraphs) and needs breaking into citation-sized units before block IDs are applied. Runs AFTER format-commentary's OCR cleanup and BEFORE block-ID stamping and verse-context. Does not interpret, translate, or alter a single character of the source.
+description: Segment an OCR-clean but under-segmented Tibetan commentary in 1-SOURCES/Commentaries into short, individually-referenceable blocks (prose paragraphs, verse stanzas, quotations) based on the functional content of the text — quotation frames, objection/answer markers, sa-bcad outline enumerations, sentence-final particles, and verse stanza detection. Use when a commentary's text is one continuous run (or has overly long paragraphs) and needs breaking into citation-sized units before block IDs are applied. Runs AFTER format-commentary's OCR cleanup and BEFORE block-ID stamping and verse-context. Does not interpret, translate, or alter a single character of the source.
 ---
 
 **Role:** Expert editor in classical Tibetan Buddhist commentary (`འགྲེལ་པ་`) structure and Obsidian markdown.
@@ -84,6 +84,7 @@ Run `scripts/segment_commentary.py`. It inserts a paragraph break at every high-
 - `enumeration-head` — a sa-bcad head such as `…ལ་གསུམ་སྟེ།` / `…ལ་གཉིས་ལས།` closes; the
 - `ordinal-open` — `དང་པོ་…`, `གཉིས་པ་…`, `གསུམ་པ་…` opens a new topical node.
 - `objection-close` / `objection-open` — `…ཅེ་ན།` / `…ཞེ་ན།` closes an objection; `འོ་ན་…` opens the reply or next objection.
+- `verse-stanza` — a paragraph that is itself a complete verse stanza (ཚིགས་བཅད) is detected automatically and emitted as a single block without running the rule engine. Detection criteria: ends with a double shad (`།།` / `། །`); yields 2–4 pādas when split on shads; every pāda has 6–11 syllables; syllable counts are uniform across pādas (±1). Detected stanzas are never split by the syllable cap and are never flagged `STAGE2_REVIEW`.
 
 ```
 python3 scripts/segment_commentary.py \
@@ -99,7 +100,7 @@ The script **never** edits content: before writing, it asserts that the output w
 Open the Stage-1 report and review only the segments flagged `STAGE2_REVIEW` (longer than `--max-syllables`). These are prose runs with no lexical cue. For each, insert a paragraph break at the genuine topic shift — typically where the commentary moves from stating a position to giving its reason, from one objection to the next, or from gloss to scriptural support. Constraints:
 
 - Only *insert* `\n\n` boundaries. Do not change, reorder, or delete any syllable.
-- Keep verse `པད, padas` of one stanza together; never split a stanza across blocks, and never merge two independent stanzas into one block.
+- Verse stanzas that form their own paragraph are already protected by the script (trigger `verse-stanza`). For verse embedded inside a larger prose paragraph — where the script could not isolate the stanza — do not split pādas; insert a break before the first pāda and after the final `།།`, keeping all pādas of one stanza together. Never merge two independent stanzas into one block.
 - Place a source-attribution line (e.g. `…ལས།`) and its closing `ཞེས་སོ། །` on their own blocks around the quote, per `format-commentary` §3.
 - When a passage genuinely cannot be cut without breaking sense, leave it whole and note it; over-long is safer than wrong.
 

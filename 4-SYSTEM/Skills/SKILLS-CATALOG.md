@@ -219,3 +219,9 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 **Inputs:** Commentary file path in `1-SOURCES/Commentaries/`, a short `commentary-id`, and the Tibetan title of the work.
 **Outputs:** Two `.md` files in `3-TRANSFORMATIONS/Adaptations/<commentary-id>-sa-bcad/` — the flat extracted outline and the nested structured outline.
 → [`Outline-Extractor/SKILL.md`](Outline-Extractor/SKILL.md)
+
+### `multilevel-summary` **[exists]**
+**Purpose:** Generate an audience-targeted summary (kids, general, or academic) of a verse or chapter of the Bodhisattvacaryāvatāra, grounded in the traditional commentary tradition.
+**Inputs:** Scope type (`verse` or `chapter`), scope ID (verse ID such as `1-1`, or chapter number/name), and audience (`kids`, `general`, or `academic`).
+**Outputs:** One summary file at `3-TRANSFORMATIONS/Adaptations/multilevel-summaries/<audience>/verse-<chapter-verse>.md` or `…/chapter-<N>.md`, with Obsidian segment-links to all commentary blocks used.
+→ [`multilevel-summary/SKILL.md`](multilevel-summary/SKILL.md)

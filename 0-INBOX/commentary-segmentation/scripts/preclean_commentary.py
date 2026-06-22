@@ -5,11 +5,24 @@ Reverts an already-formatted commentary back to continuous prose so that
 Stage-1 (segment_commentary.py) can re-derive block boundaries from scratch.
 Removes editorial scaffolding only, never a character of body text:
 
-  - index / outline numbers: a run of digits (ASCII 0-9 or Tibetan U+0F20-29),
-    optional trailing "." or ")", standing alone between whitespace boundaries.
-    Covers an OCR line counter on its own line AND an inline sequential outline
-    number before a sa-bcad opener. Numbers glued to text are left untouched.
+  - index / outline numbers: one or more dot-separated digit groups (ASCII
+    0-9 or Tibetan U+0F20-29), e.g. "7", "1.1", "2.9", optional trailing "."
+    or ")", standing alone between whitespace boundaries. Covers an OCR line
+    counter on its own line AND an inline sequential outline number before a
+    sa-bcad opener (including chapter.verse-style counters like "1.1"/"2.9").
+    Numbers glued to text are left untouched.
   - block / verse IDs: Obsidian IDs such as ^0-1, ^1-2, ^1-2-0.
+  - legacy running-header page markers: a scanned-page artifact of the form
+    "-7-" (a page number wrapped in bare hyphens, never whitespace-bounded
+    digits alone, so the index-number rule above can't see it). When the
+    marker is immediately followed by a running-header token rendered in a
+    legacy non-Unicode Tibetan font (surfaces as Latin-1/Latin-Extended
+    mojibake, e.g. "-7- uôh-ºWâG-Vïm-¤ôºÛ-z;º-FÛh-¸Ûm-ƒÛÅü"), the marker and
+    that token are removed together. A bare marker with no such token (or
+    with real Tibetan text immediately after it) has only the marker
+    removed -- the rule only ever deletes a token that contains zero
+    Tibetan characters, so genuine body text immediately after a page break
+    is never touched.
   - heading block IDs: a heading's trailing block ID is stripped, but the
     leading #/##/### markup and the heading text are both kept, on their own
     line, acting as a separator between prose runs.
@@ -34,7 +47,40 @@ TSHEG = "་"
 FRONTMATTER_RE = re.compile(r"^---\n.*?\n---\n", re.DOTALL)
 BLOCK_ID_RE = re.compile(r"\s*\^[A-Za-z0-9_-]+")
 HEADING_RE = re.compile(r"^\s{0,3}#{1,6}\s+(.*)$")
-BARE_NUM_RE = re.compile(r"(?<!\S)[0-9༠-༩]+[.)]?(?!\S)")
+
+# Index / outline numbers: one or more dot-separated digit groups
+# ("7", "1.1", "2.9", "11.1.2", ...), optional trailing "." or ")",
+# standing alone between whitespace boundaries.
+BARE_NUM_RE = re.compile(r"(?<!\S)[0-9༠-༩]+(?:\.[0-9༠-༩]+)*[.)]?(?!\S)")
+
+# Tibetan Unicode block (U+0F00-U+0FFF) -- used to confirm a token is NOT
+# genuine body text.
+_TIBETAN = "ༀ-࿿"
+
+# Codepoints that show up in this corpus's legacy (non-Unicode) Tibetan font
+# encoding once mis-rendered as Latin text: Latin-1 Supplement (U+00A0-00FF),
+# Latin Extended-A's Y-with-diaeresis (U+0178), Latin Extended-B's f-with-hook
+# (U+0192), the spacing modifier circumflex (U+02C6), and the General
+# Punctuation low-9 quote (U+201A). Real Tibetan commentary prose never
+# contains these, so their presence -- combined with the total absence of
+# any Tibetan character in the same token -- is the signal that a token is
+# OCR page furniture, not content.
+_LEGACY_GLYPH = " -ÿŸƒˆ‚"
+
+# A legacy running-header token: a single whitespace-delimited run with zero
+# Tibetan characters that contains at least one legacy-font glyph.
+_LEGACY_TOKEN = (
+    r"(?:[^{tib}\s])*[{glyph}](?:[^{tib}\s])*"
+).format(tib=_TIBETAN, glyph=_LEGACY_GLYPH)
+
+# Legacy running-header page marker: a bare "-N-" (hyphen-wrapped page
+# number, so the whitespace-bounded BARE_NUM_RE above can't match it) with
+# an optional immediately-following legacy-font header token. The header
+# token is only consumed if it actually looks like legacy-font mojibake;
+# real Tibetan text right after a page break is left untouched.
+HEADER_MARKER_RE = re.compile(
+    r"(?<!\S)-[0-9]{{1,4}}-(?:[ \t]+{token})?(?!\S)".format(token=_LEGACY_TOKEN)
+)
 
 SEP = "\n\n"
 
@@ -53,6 +99,7 @@ def strip_frontmatter(text: str) -> str:
 
 def reference_body(text: str) -> str:
     t = BLOCK_ID_RE.sub("", text)
+    t = HEADER_MARKER_RE.sub("", t)
     t = BARE_NUM_RE.sub("", t)
     return squeeze(t)
 
@@ -68,12 +115,19 @@ def process(text: str):
 
     n_block_ids = len(BLOCK_ID_RE.findall(body))
     body = BLOCK_ID_RE.sub("", body)
+    n_headers = len(HEADER_MARKER_RE.findall(body))
+    body = HEADER_MARKER_RE.sub("", body)
     n_numbers = len(BARE_NUM_RE.findall(body))
     body = BARE_NUM_RE.sub("", body)
 
     blocks = []
     buf = []
-    stats = {"numbers": n_numbers, "headings": 0, "block_ids": n_block_ids}
+    stats = {
+        "numbers": n_numbers,
+        "headings": 0,
+        "block_ids": n_block_ids,
+        "headers": n_headers,
+    }
 
     def flush():
         if buf:
@@ -123,10 +177,11 @@ def main(argv):
     assert_no_loss(text, cleaned)
 
     print(
-        "{}: removed {} index/outline numbers, {} block IDs; "
-        "kept markup on {} headings; emitted {} blocks.".format(
+        "{}: removed {} index/outline numbers, {} block IDs, {} legacy "
+        "running-header markers; kept markup on {} headings; emitted {} "
+        "blocks.".format(
             args.input, stats["numbers"], stats["block_ids"],
-            stats["headings"], len(blocks)
+            stats["headers"], stats["headings"], len(blocks)
         )
     )
 

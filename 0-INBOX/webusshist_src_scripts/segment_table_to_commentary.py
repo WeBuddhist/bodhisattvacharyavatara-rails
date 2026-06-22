@@ -9,7 +9,10 @@ INPUT FORMAT: markdown table with | segment_number | segment_id | content | tags
 
 OUTPUT FORMAT:
   - YAML frontmatter (draft status; fill in author/registered_id after)
-  - Original segment content preserved exactly, one paragraph per segment
+  - Segment content flattened into one continuous prose run: no blank lines,
+    no internal line breaks. Every non-whitespace character is preserved —
+    only whitespace structure changes, asserted by a no-loss check before
+    writing (same principle as preclean_commentary.py).
   - Empty-content segments are skipped entirely
   - No block IDs, no inserted headings, no title heading — pure original text
   - Output written to 0-INBOX/temp/ for review before moving to 1-SOURCES/
@@ -25,6 +28,19 @@ import argparse
 import pathlib
 import re
 import sys
+
+
+def squeeze(s):
+    """Collapse all whitespace (spaces, tabs, newlines) out of a string,
+    leaving only non-whitespace characters — used to verify no body text
+    was lost when flattening segment content."""
+    return re.sub(r"\s+", "", s)
+
+
+def flatten(content):
+    """Collapse a segment's internal whitespace (including any embedded
+    line breaks or blank lines) into single spaces, trimmed."""
+    return re.sub(r"\s+", " ", content).strip()
 
 
 def parse_segment_table(path):
@@ -101,15 +117,26 @@ def convert_file(input_path, output_dir, overwrite=False, dry_run=False):
         return out_path
     title = extract_title_from_filename(input_path)
     frontmatter = build_frontmatter(title, text_id, input_path.name, len(rows))
-    parts = [frontmatter]
+
+    flattened = []
     non_empty = 0
     for seg_num, seg_id, content in rows:
-        if content.strip():
-            # Each non-empty segment is its own paragraph (blank line after)
-            parts.append(content + "\n\n")
+        c = flatten(content)
+        if c:
+            # Continuous prose: no blank lines, no internal line breaks.
+            flattened.append(c)
             non_empty += 1
         # Empty-content segments are dropped entirely
-    output_text = "".join(parts)
+    body_text = " ".join(flattened)
+    output_text = frontmatter + body_text + "\n"
+
+    # No-loss guard: every non-whitespace character from the non-empty
+    # segments must still be present after flattening.
+    expected = squeeze("".join(c for _, _, c in rows if c.strip()))
+    if squeeze(body_text) != expected:
+        print("  x ABORT: flattening altered body text. No file written.", file=sys.stderr)
+        return None
+
     output_dir.mkdir(parents=True, exist_ok=True)
     out_path.write_bytes(output_text.encode("utf-8"))
     empty = len(rows) - non_empty

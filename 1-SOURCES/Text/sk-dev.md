@@ -1,10 +1,11 @@
 ---
 title: Bodhisattvacharyavatara
-author: Shantideva
+author:
+  - Shantideva
 language: Sanskrit
 file_type: root-text
 lang_tag: sk
-source_description: "Sanskrit root text of the Bodhisattvacharyavatara, formatted according to project standards."
+source_description: Sanskrit root text of the Bodhisattvacharyavatara, formatted according to project standards.
 verse_id_format: chapter-verse
 ---
 # बोधिचर्यावतारः।  

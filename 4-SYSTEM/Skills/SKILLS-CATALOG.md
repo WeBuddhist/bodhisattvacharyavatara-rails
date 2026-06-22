@@ -174,6 +174,12 @@ Creates a new skill from scratch: generates the SKILL.md, prompt structure, and 
 Audits the vault for consistency: checks that all linked files exist, frontmatter is complete, and skills are registered in the catalog.
 → [`vault-audit/SKILL.md`](vault-audit/SKILL.md)
 
+### `transclusion` **[exists]**
+**Purpose:** Insert Obsidian block-transclusion links for root-text verse(s) into a second root-text version or into commentary files, placing each transclusion at the correct structural position.
+**Inputs:** (Type 1) Two root-text/translation file paths and an optional verse range; (Type 2) verse ID(s), root-text file path, and one or more commentary file paths with commentary type.
+**Outputs:** Target file(s) modified in place with `![[file#^block-id]]` transclusion links inserted; no new files created.
+→ [`transclusion/SKILL.md`](transclusion/SKILL.md)
+
 ---
 
 ## Vault-specific skills

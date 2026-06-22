@@ -17,7 +17,7 @@ description: >
 Tibetan commentaries use **inline structural announcements** (*sa bcad*): sentences where the author enumerates the sub-topics that will follow before treating each one in turn. This skill makes those announcements machine-readable by doing **two things**:
 
 1. **Inline TOC** — wrapping each announced term and each section-body restatement in `[[#^N-N-0|term]]` Obsidian wikilinks.
-2. **Heading TOC** — inserting a standalone markdown heading line (`##` / `###` / `####`) with a block ID immediately before each section-body paragraph.
+2. **Heading TOC** — inserting a standalone markdown heading line (`##` through `######`) with a block ID immediately before each section-body paragraph.
 
 This implements the convention in CLAUDE.md §5b. The output is saved to `0-INBOX/temp/` and is **not** yet a `1-SOURCES/` file; human review is required before ingest.
 
@@ -48,7 +48,7 @@ A single file at:
 The output adds two types of markup to the original prose:
 
 1. **Wikilinks** — wrap existing terms in `[[#^block-id|term]]`; no prose text is deleted or reordered.
-2. **Heading lines** — new `##` / `###` / `####` lines inserted on a blank line immediately before each section-body paragraph. These are net-new lines not present in the source.
+2. **Heading lines** — new `##` through `######` lines inserted on a blank line immediately before each section-body paragraph. These are net-new lines not present in the source.
 
 ---
 
@@ -63,6 +63,11 @@ Insert one heading line per section, on its own line, immediately before the par
 | 1 (top-level) | `##` | `## <title> ^N-0` |
 | 2 | `###` | `### <title> ^N-N-0` |
 | 3 | `####` | `#### <title> ^N-N-N-0` |
+| 4 | `#####` | `##### <title> ^N-N-N-N-0` |
+| 5 | `######` | `###### <title> ^N-N-N-N-N-0` |
+| 6+ | `######` | `###### <title> ^N-…-N-0` (block ID extends as needed) |
+
+Markdown supports only 6 heading levels (`#` through `######`). For depth 6 and beyond, continue using `######` and rely on the block ID to distinguish nesting.
 
 The `<title>` is the short section name (the announced term or section title, not the full ordinal phrase).
 
@@ -122,16 +127,16 @@ After (heading line inserted above, wikilink added inline):
 
 ## Rules
 
-1. **Insert heading lines before each section body.** Each section gets exactly one `##` / `###` / `####` heading line placed on a blank line immediately before its opening paragraph. Depth-1 → `##`, depth-2 → `###`, depth-3 → `####`.
+1. **Insert heading lines before each section body.** Each section gets exactly one heading line placed on a blank line immediately before its opening paragraph. Depth-1 → `##`, depth-2 → `###`, depth-3 → `####`, depth-4 → `#####`, depth-5 → `######`, depth-6+ → `######` (block ID differentiates further nesting).
 2. **Do not insert, delete, or alter any existing prose text.** The only permitted changes are: (a) inserting new heading lines, and (b) wrapping an existing term in `[[#^id|term]]`. No words, characters, punctuation, or whitespace in the existing prose may be added, removed, or reordered.
 3. **Heading title is the short section name.** Use the announced/section term, not the full ordinal phrase. E.g. `བཤད་པ།` not `གཉིས་པ་བཤད་པ།`.
 4. **Block ID on the heading line.** Append the block ID directly after the heading title, separated by a space: `### བཤད་པ། ^1-2-0`.
 5. **Wrap only the minimal display text in wikilinks.** Structural term only — not surrounding particles, conjunctions, or count words.
-6. **Block ID scheme.** Section block IDs follow the `^N-N-0` pattern (depth-1 → `^1-0`; depth-2 → `^1-1-0`; depth-3 → `^1-1-1-0`). Maximum four segments (`^N-N-N-0`).
+6. **Block ID scheme.** Section block IDs follow the `^N-N-0` pattern, extending as deep as needed: depth-1 → `^1-0`; depth-2 → `^1-1-0`; depth-3 → `^1-1-1-0`; depth-4 → `^1-1-1-1-0`; and so on. There is no maximum depth — add one numeric segment per level.
 7. **Announced terms must link to real block IDs.** Every `[[#^id|term]]` must correspond to a block ID on a heading line in the same file.
 8. **Self-referential links are intentional.** The inline wikilink at the start of a section body (`[[#^1-2-0|གཉིས་པ་བཤད་པ་]]`) points to the heading line directly above it.
 9. **Output file goes to `0-INBOX/temp/`**, never to `1-SOURCES/` or `2-RAILS/`.
-10. **Never skip a depth level.** Depth must be traversed in order: depth-1 → depth-2 → depth-3. Do not assign a depth-2 block ID until the parent depth-1 section is established, and do not assign a depth-3 block ID until the parent depth-2 section is established.
+10. **Never skip a depth level.** Depth must be traversed in order: depth-1 → depth-2 → depth-3 → … Do not assign a depth-N block ID until the parent depth-(N-1) section is established.
 11. **Complete every section at the current depth before descending.** All siblings at a given depth must be fully tagged (heading inserted + wikilinks applied) before processing any child section at the next depth. Do not move to a deeper level mid-sibling-list.
 
 ---
@@ -220,12 +225,12 @@ Working through the document from top to bottom, reconstruct nesting from the an
 1. Top-level announcement → **depth-1** sections, block IDs `^1-0`, `^2-0`, `^3-0`, …
 2. Announcement inside a depth-1 section → **depth-2**, block IDs `^1-1-0`, `^1-2-0`, …
 3. Announcement inside a depth-2 section → **depth-3**, block IDs `^1-1-1-0`, …
-4. Do not go deeper than depth-3.
+4. Continue recursively: announcement inside a depth-N section → **depth-(N+1)**, appending one more numeric segment to the block ID. **There is no maximum depth.**
 
 **Depth discipline — strictly enforced:**
-- Process the hierarchy **depth by depth, left to right**. Finish all depth-1 sections completely (heading + wikilinks) before descending to depth-2. Finish all depth-2 siblings under a parent before descending to depth-3.
-- Never skip a depth level. A section announced at depth-2 cannot be promoted to depth-1, and no depth-3 section may be processed before its depth-2 parent is complete.
-- If an announcement appears to skip a level (e.g. depth-1 jumps directly to what looks like depth-3), flag it with `<!-- TODO: unexpected depth -->` and treat it conservatively as depth-2.
+- Process the hierarchy **depth by depth, left to right**. Finish all depth-1 sections completely (heading + wikilinks) before descending to depth-2. Finish all depth-N siblings under a parent before descending to depth-(N+1).
+- Never skip a depth level. A section announced at depth-N cannot be promoted or demoted — it must be processed at its correct depth.
+- If an announcement appears to skip a level (e.g. depth-1 jumps directly to what looks like depth-3), leave a `<!-- TODO: unclear depth -->` comment and treat it conservatively as the next level down from the current parent.
 
 Record for each section: its block ID, short title, announced title, and the paragraph where its body opens.
 
@@ -313,7 +318,7 @@ If a file with that name already exists, append `-v2` (then `-v3`, etc.) rather 
 
 Read the output file. Confirm:
 - YAML frontmatter intact
-- Heading lines present (`##` / `###` / `####` with block IDs)
+- Heading lines present (`##` through `######` with block IDs, one per section at correct depth)
 - At least one `[[#^...|...]]` wikilink present in an announcement sentence
 - At least one `[[#^...|ordinal+title]]` wikilink present at a section opening
 - Existing prose text unchanged (no deletions or reordering)
@@ -331,11 +336,11 @@ Report to the user:
 
 - [ ] Input file read
 - [ ] All structural announcement sentences identified
-- [ ] Section hierarchy and block ID map built (`^N-0`, `^N-N-0`, `^N-N-N-0`)
-- [ ] Depth levels never skipped — depth-1 fully complete before depth-2 begins; depth-2 fully complete before depth-3 begins
+- [ ] Section hierarchy and block ID map built — unlimited depth, one segment per level (`^N-0`, `^N-N-0`, `^N-N-N-0`, `^N-N-N-N-0`, …)
+- [ ] Depth levels never skipped — each depth-N level fully complete before descending to depth-(N+1)
 - [ ] Every sibling at each depth level tagged before descending to children
 - [ ] Every announced term in every announcement sentence wrapped in `[[#^id|term]]`
-- [ ] Heading line (`##` / `###` / `####` with block ID) inserted before each section body
+- [ ] Heading line inserted before each section body (`##` depth-1, `###` depth-2, `####` depth-3, `#####` depth-4, `######` depth-5+)
 - [ ] Every section-body restatement wrapped in `[[#^id|ordinal+title]]` (inline heading tag)
 - [ ] Existing prose text unchanged (no insertions into prose, no deletions)
 - [ ] Output written to `0-INBOX/temp/tagged-<filename>`

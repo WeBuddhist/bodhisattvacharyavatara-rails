@@ -54,7 +54,7 @@ python3 scripts/preclean_commentary.py \
 
 What it removes (editorial scaffolding only — never a character of body text):
 
-- **Index / outline numbers** — any bare number (ASCII `0-9` or Tibetan `༠-༩`, optional trailing `.`/`)`) that stands alone between whitespace boundaries. This catches both an OCR line counter on its own line *and* an inline sequential outline number sitting before a sa-bcad opener (e.g. `…ཏོ། །19. དང་པོ་ནི།…`). Numbers fused to text (`1.2`, `ལོ16`) are left untouched, since Tibetan never delimits a real syllable with a bare space.
+- **Index / outline numbers** — any whitespace-bounded token consisting solely of digits (ASCII `0-9` or Tibetan `༠-༩`) with optional internal dots (hierarchical numbers such as `4.11`, `1.2.3`) and an optional trailing `.` or `)`, is removed unconditionally. Covers simple counters (`1`, `2`, `3`), terminated counters (`1.`, `2.`), and hierarchical section labels (`4.11`, `1.2.3.`). Catches both an OCR line counter on its own line *and* an inline outline number sitting before a sa-bcad opener (e.g. `…ཏོ། །19. དང་པོ་ནི།…`). Numbers fused to body text (e.g. `ལོ16`) are left untouched — Tibetan never delimits a real syllable with a bare space.
 - **Block / verse IDs** — `^N`, `^N-N`, `^N-N-N` … wherever they appear.
 - **Heading block IDs** — only the heading's trailing block ID is stripped. The leading `#`/`##`/`###` markup and the heading text are **both kept**, on their own line, acting as a separator between prose runs.
 - **Intra-section line breaks** — consecutive content lines within a section are joined into one continuous run, so the rule-based segmenter starts from raw prose. Kept heading-text lines act as run separators, so a title or section head never fuses onto neighbouring prose.

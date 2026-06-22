@@ -131,6 +131,8 @@ After (heading line inserted above, wikilink added inline):
 7. **Announced terms must link to real block IDs.** Every `[[#^id|term]]` must correspond to a block ID on a heading line in the same file.
 8. **Self-referential links are intentional.** The inline wikilink at the start of a section body (`[[#^1-2-0|གཉིས་པ་བཤད་པ་]]`) points to the heading line directly above it.
 9. **Output file goes to `0-INBOX/temp/`**, never to `1-SOURCES/` or `2-RAILS/`.
+10. **Never skip a depth level.** Depth must be traversed in order: depth-1 → depth-2 → depth-3. Do not assign a depth-2 block ID until the parent depth-1 section is established, and do not assign a depth-3 block ID until the parent depth-2 section is established.
+11. **Complete every section at the current depth before descending.** All siblings at a given depth must be fully tagged (heading inserted + wikilinks applied) before processing any child section at the next depth. Do not move to a deeper level mid-sibling-list.
 
 ---
 
@@ -219,6 +221,11 @@ Working through the document from top to bottom, reconstruct nesting from the an
 2. Announcement inside a depth-1 section → **depth-2**, block IDs `^1-1-0`, `^1-2-0`, …
 3. Announcement inside a depth-2 section → **depth-3**, block IDs `^1-1-1-0`, …
 4. Do not go deeper than depth-3.
+
+**Depth discipline — strictly enforced:**
+- Process the hierarchy **depth by depth, left to right**. Finish all depth-1 sections completely (heading + wikilinks) before descending to depth-2. Finish all depth-2 siblings under a parent before descending to depth-3.
+- Never skip a depth level. A section announced at depth-2 cannot be promoted to depth-1, and no depth-3 section may be processed before its depth-2 parent is complete.
+- If an announcement appears to skip a level (e.g. depth-1 jumps directly to what looks like depth-3), flag it with `<!-- TODO: unexpected depth -->` and treat it conservatively as depth-2.
 
 Record for each section: its block ID, short title, announced title, and the paragraph where its body opens.
 
@@ -325,6 +332,8 @@ Report to the user:
 - [ ] Input file read
 - [ ] All structural announcement sentences identified
 - [ ] Section hierarchy and block ID map built (`^N-0`, `^N-N-0`, `^N-N-N-0`)
+- [ ] Depth levels never skipped — depth-1 fully complete before depth-2 begins; depth-2 fully complete before depth-3 begins
+- [ ] Every sibling at each depth level tagged before descending to children
 - [ ] Every announced term in every announcement sentence wrapped in `[[#^id|term]]`
 - [ ] Heading line (`##` / `###` / `####` with block ID) inserted before each section body
 - [ ] Every section-body restatement wrapped in `[[#^id|ordinal+title]]` (inline heading tag)

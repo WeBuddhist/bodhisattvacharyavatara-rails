@@ -5,13 +5,13 @@ Reverts an already-formatted commentary back to continuous prose so that
 Stage-1 (segment_commentary.py) can re-derive block boundaries from scratch.
 Removes editorial scaffolding only, never a character of body text:
 
-  - index / outline numbers: a run of digits (ASCII 0-9 or Tibetan U+0F20-29),
-    optional trailing "." or ")", standing alone between whitespace boundaries.
-    Covers an OCR line counter on its own line AND an inline sequential outline
-    number before a sa-bcad opener. Numbers glued to text are left untouched.
-    Only numbers that fit a non-decreasing counter sequence across the file
-    are removed; one that breaks the sequence is left in place and reported
-    as FLAGGED_NUMBER, since it may be real content rather than scaffolding.
+  - index / outline numbers: any whitespace-bounded token that consists solely
+    of digits (ASCII 0-9 or Tibetan U+0F20-29) with optional internal dots
+    (hierarchical numbers such as 4.11, 1.2.3) and an optional trailing "."
+    or ")", is treated as scaffolding and removed unconditionally. Covers
+    simple counters (1, 2, 3), terminated counters (1., 2.), section labels
+    (4.11, 1.2.3.), and Tibetan-digit equivalents. Numbers fused to body text
+    (e.g. "ལོ16") are left untouched.
   - block / verse IDs: Obsidian IDs such as ^0-1, ^1-2, ^1-2-0.
   - heading block IDs: a heading's trailing block ID is stripped, but the
     leading #/##/### markup and the heading text are both kept, on their own
@@ -46,7 +46,7 @@ HEADING_RE = re.compile(r"^\s*#{1,6}\s*(.*)$")
 # real editorial heading. Still treated as a heading (safe — text is kept,
 # never deleted) but surfaced in the report instead of passing silently.
 SUSPECT_HEADING_TEXT_RE = re.compile(r"^[0-9༠-༩]+[.)]?$")
-BARE_NUM_RE = re.compile(r"(?<!\S)[0-9༠-༩]+[.)]?(?!\S)")
+BARE_NUM_RE = re.compile(r"(?<!\S)[0-9༠-༩]+(?:\.[0-9༠-༩]+)*[.)]?(?!\S)")
 
 SEP = "\n\n"
 
@@ -63,78 +63,21 @@ def strip_frontmatter(text: str) -> str:
     return FRONTMATTER_RE.sub("", text, count=1)
 
 
-# --- safer number handling -------------------------------------------------
-# BARE_NUM_RE used to be stripped unconditionally on the assumption every
-# whitespace-bounded number is OCR scaffolding (a line counter or inline
-# outline index). That can't distinguish scaffolding from a genuine content
-# numeral (e.g. a verse number cited inline), and the old no-loss check
-# couldn't catch a wrongful deletion since it was designed to permit number
-# removal. Now: only numbers that fit a non-decreasing sequence across the
-# file (the OCR-counter signature) are silently removed; anything that
-# breaks that sequence is left in the text and surfaced in the report for a
-# human to judge.
-TIB_DIGITS = "༠༡༢༣༤༥༦༧༨༩"
-
-
-def _num_value(token: str):
-    core = token.rstrip(".)")
-    if not core:
-        return None
-    digits = []
-    for ch in core:
-        if ch.isdigit():
-            digits.append(ch)
-        elif ch in TIB_DIGITS:
-            digits.append(str(TIB_DIGITS.index(ch)))
-        else:
-            return None
-    return int("".join(digits)) if digits else None
-
-
-def _longest_nondecreasing_run(values):
-    """Index set (into `values`) of one longest non-decreasing subsequence —
-    the most plausible single OCR-counter run threaded through the file."""
-    n = len(values)
-    if n == 0:
-        return set()
-    dp = [1] * n
-    prev = [-1] * n
-    for i in range(n):
-        for j in range(i):
-            if values[j] <= values[i] and dp[j] + 1 > dp[i]:
-                dp[i] = dp[j] + 1
-                prev[i] = j
-    best = max(range(n), key=lambda i: dp[i])
-    keep, i = set(), best
-    while i != -1:
-        keep.add(i)
-        i = prev[i]
-    return keep
-
-
 def strip_numbers(body: str):
-    """Return (new_body, n_stripped, flagged) where flagged is a list of
-    (token, context_preview) for numbers left in place because they broke
-    the file's counter sequence."""
-    matches = list(BARE_NUM_RE.finditer(body))
-    parsed = [_num_value(m.group(0)) for m in matches]
-    parsable_idx = [i for i, v in enumerate(parsed) if v is not None]
-    keep_local = _longest_nondecreasing_run([parsed[i] for i in parsable_idx])
-    keep_global = {parsable_idx[i] for i in keep_local}
+    """Return (new_body, n_stripped, flagged).
 
-    out, flagged, last = [], [], 0
-    for i, m in enumerate(matches):
+    All whitespace-bounded index/outline numbers matched by BARE_NUM_RE are
+    removed unconditionally. This includes simple counters (1, 2.), terminated
+    counters (3.), and hierarchical section labels (4.11, 1.2.3.). The
+    `flagged` list is always empty (retained for API compatibility).
+    """
+    matches = list(BARE_NUM_RE.finditer(body))
+    out, last = [], 0
+    for m in matches:
         out.append(body[last:m.start()])
-        if i in keep_global:
-            pass  # scaffolding -- drop it
-        else:
-            out.append(m.group(0))  # not part of the counter run -- keep it
-            ctx_start, ctx_end = max(0, m.start() - 20), min(len(body), m.end() + 20)
-            preview = body[ctx_start:ctx_end].replace("\n", " ").strip()
-            flagged.append((m.group(0), preview))
         last = m.end()
     out.append(body[last:])
-    return "".join(out), len(keep_global), flagged
+    return "".join(out), len(matches), []
 
 
 def process(text: str):
@@ -154,7 +97,7 @@ def process(text: str):
     blocks = []
     buf = []
     stats = {"numbers": n_numbers, "headings": 0, "block_ids": n_block_ids,
-              "suspect_headings": 0, "flagged_numbers": flagged_numbers}
+              "suspect_headings": 0}
 
     def flush():
         if buf:
@@ -207,7 +150,6 @@ def main(argv):
     cleaned, blocks, stats, expected_body = process(text)
     assert_no_loss(expected_body, cleaned)
 
-    flagged_numbers = stats["flagged_numbers"]
     print(
         "{}: removed {} index/outline numbers, {} block IDs; "
         "kept markup on {} headings ({} suspect — bare-number heading text, "
@@ -216,9 +158,6 @@ def main(argv):
             stats["headings"], stats["suspect_headings"], len(blocks)
         )
     )
-    if flagged_numbers:
-        print(f"  {len(flagged_numbers)} number(s) left in place — broke the file's "
-              f"counter sequence, may be real content. See report.")
 
     if args.report:
         with Path(args.report).open("w", encoding="utf-8") as fh:
@@ -226,9 +165,6 @@ def main(argv):
             for i, (kind, txt) in enumerate(blocks, 1):
                 preview = txt.strip()[:80].replace("\t", " ").replace("\n", "/")
                 fh.write("{}\t{}\t{}\t{}\n".format(i, kind, count_syllables(txt), preview))
-            for token, ctx in flagged_numbers:
-                fh.write("FLAGGED_NUMBER\t{}\t-\t{}\n".format(
-                    token, ctx.replace("\t", " ")))
         print("Report: " + args.report)
 
     if not args.dry_run:

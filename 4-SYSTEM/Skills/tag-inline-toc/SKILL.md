@@ -146,13 +146,53 @@ Read the full input file. Extract and hold:
 
 ### Step 2 — Identify announcement sentences
 
-Scan the body for **structural announcement phrases**. These are sentences (or short clauses) that:
+Scan the body for **structural announcement phrases**. These are sentences (or short clauses) that enumerate upcoming sub-topics. Two distinct surface forms appear:
+
+#### Form A — Full-sentence style (longer)
 
 - Enumerate two or more upcoming sub-topics joined by `དང་`.
 - End (or nearly end) with a count word: `གཉིས།`, `གཉིས་ལས།`, `གཉིས་སྟེ།`, `གསུམ།`, `གསུམ་ལས།`, `གསུམ་སྟེ།`, `བཞི།`, `བཞི་ལས།`, `ལྔ།`, `དྲུག།` (and so on).
 - Often begin with the parent section title or ordinal: `X ལ་ Y དང་ Z གཉིས།`.
 
-Also identify **section-body restatements**: the paragraph that opens a section with an ordinal-plus-title phrase (`གཉིས་པ་བཤད་པ་ནི་`, `གསུམ་པ་འདོགས་ཚུལ་ནི་`, etc.).
+Example:
+```
+ལེའུ་དང་པོ་ལ་མདོར་བསྟན་པ་དང་རྒྱས་པར་བཤད་པ་གཉིས་ཡོད་པ་ལས།
+```
+
+#### Form B — Short commentary style (compact)
+
+In commentaries, outlines frequently appear as a compact line containing the **count immediately after** `་ལ་` or `་ལ་ཡང་`, followed by the topic names separated by `དང༌།` on the same line, with the last topic ending in `འོ། །`.
+
+Pattern:
+```
+[parent section]་ལ་[count]། [topic 1]དང༌། [topic 2]དང༌། [topic N]འོ། །
+[parent section]་ལ་ཡང་[count]། [topic 1]དང༌། [topic 2]འོ། །
+```
+
+Example:
+```
+གཉིས་པ་ལ་བཞི། བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་ཕན་ཡོན་བཤད་པ་དང༌། བྱང་ཆུབ་ཀྱི་སེམས་ངོས་བཟུང་བ་དང༌། དེ་ལ་ཕན་ཡོན་དེ་དག་འབྱུང་བའི་རྒྱུ་མཚན་དང༌། བྱང་ཆུབ་ཀྱི་སེམས་སྒོམ་པའི་གང་ཟག་ལ་བསྟོད་པའོ། །
+```
+
+Here `གཉིས་པ་ལ་བཞི།` declares four sub-topics; the four terms follow inline, each ended by `དང༌།` except the last which ends `འོ། །`. Extract each `དང༌།`-separated segment as an announced term (strip trailing `འོ། །` from the last).
+
+Count words that trigger Form B detection (appearing directly after `་ལ་` or `་ལ་ཡང་`):
+
+`གཉིས།` `གསུམ།` `བཞི།` `ལྔ།` `དྲུག།` `བདུན།` `བརྒྱད།` `དགུ།` `བཅུ།`
+
+---
+
+#### Identifying section-body restatements
+
+Also identify **section-body restatements**: the paragraph that opens a section. After a count is declared, each sub-section may be addressed in **one of three forms**:
+
+| Form | Pattern | Example |
+|---|---|---|
+| Ordinal only | `[ordinal]་ནི།` or `[ordinal]་ནི` | `གཉིས་པ་ནི།` |
+| Name only | `[topic name]་ནི།` or `[topic name]་ནི` | `དོན་གནས་འཕོ་བའི་ཕན་ཡོན་ནི` |
+| Ordinal + name | `[ordinal]་[topic name]་ནི།` | `གཉིས་པ་དོན་གནས་འཕོ་བའི་ཕན་ཡོན་ནི` |
+
+When scanning for section-body openings, match any of the three forms. Use the declared topic list from the nearest ancestor announcement to resolve which sub-section is being opened when the form is "ordinal only" or "name only".
 
 Common section-start ordinals:
 

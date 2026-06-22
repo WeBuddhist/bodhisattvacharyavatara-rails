@@ -1,6 +1,6 @@
 ---
 name: transclusion
-description: Insert Obsidian block-transclusion links for root-text verse(s) into a second root-text version or into commentary files, placing each transclusion at the correct structural position.
+description: Insert Obsidian block-transclusion links for root-text verse(s) into a second root-text version or into commentary files, placing each transclusion at the correct structural position. TRIGGER this skill whenever a user requests transclusion in any phrasing or language — e.g. "root text verse transclusion", "add transclusions", "transclude verses into commentary", or equivalent phrases in Tibetan, Sanskrit, Chinese, or any other language.
 ---
 
 # transclusion

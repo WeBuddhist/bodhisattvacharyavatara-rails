@@ -164,10 +164,11 @@ The phrase `གཉིས་པ་ལ་བཞི།` declares 4 children. The fo
    **Parsing logic for number-declaration blocks:** when a phrase containing `་ལ་<N>།` or `་ལ་ཡང་<N>།` is found, read forward to collect exactly N named items — these names appear in the same sentence as a semicolon-delimited or shad-delimited list and become the child outline entries of that node. The subsequent sub-item address phrases (form b above) confirm the match and mark where each child's body begins; they are not themselves separate outline entries — they are the body openers for the entries already named.
 3. **Preserve original Tibetan text exactly.** Do not translate, paraphrase, or correct orthography. Copy text verbatim from the source.
 4. **Block IDs are hierarchical.** `^TOC-N` for level-1 entries, `^TOC-N-N` for level-2, etc. Numbering is sequential within each parent: the first child of `^TOC-1` is `^TOC-1-1`, the second is `^TOC-1-2`, and so on. Never skip or reuse numbers.
-5. **Two outputs are always produced.** Do not produce one without the other.
-6. **Output folder must exist.** Create `3-TRANSFORMATIONS/Adaptations/<commentary-id>-sa-bcad/` before writing if it does not exist.
-7. **No citation chain violation.** These files are Adaptations. They may not be transcluded into `2-RAILS/` files. Any rail file that needs this structural information must cite the original `1-SOURCES/` commentary block IDs.
-8. **Status is always `draft`.** Only a human domain specialist may change `status` to `complete`.
+5. **Complete all siblings before advancing.** When a number-declaration establishes N siblings, do not advance past that sibling group until all N entries — and all their own descendant sub-outlines recursively — have been fully extracted. Concretely: finish sibling 1 (including every sub-declaration it contains, at any depth) before extracting sibling 2; finish sibling 2 completely before extracting sibling 3; and so on. Only after the last sibling and all its descendants are extracted is the current sibling group considered closed. This applies at every level of nesting: a sub-declaration inside sibling 2 must itself be fully resolved before sibling 3 is touched.
+6. **Two outputs are always produced.** Do not produce one without the other.
+7. **Output folder must exist.** Create `3-TRANSFORMATIONS/Adaptations/<commentary-id>-sa-bcad/` before writing if it does not exist.
+8. **No citation chain violation.** These files are Adaptations. They may not be transcluded into `2-RAILS/` files. Any rail file that needs this structural information must cite the original `1-SOURCES/` commentary block IDs.
+9. **Status is always `draft`.** Only a human domain specialist may change `status` to `complete`.
 
 ---
 
@@ -215,6 +216,15 @@ As you read, maintain a running tree of outline entries. Each entry has:
 - `id`: the `^TOC-…` block ID (assign sequentially)
 
 When a section announcement names N sub-items, those sub-items become children of the current node at depth+1.
+
+**Traversal order and completeness (Rule 5).** Process the tree strictly depth-first, left-to-right:
+
+1. When sibling group S of N entries is opened, set a counter: *remaining = N*.
+2. Enter sibling 1. Before decrementing *remaining*, fully resolve sibling 1: if it contains a sub-declaration for M grandchildren, open a new sibling group and repeat this process recursively until every descendant at every depth is extracted.
+3. Only after sibling 1 (and all its descendants) is complete, decrement *remaining* and move to sibling 2. Repeat.
+4. When *remaining* reaches 0, the sibling group is closed. Return to the parent level and continue from there.
+
+If you reach the end of the text with *remaining > 0* for any open sibling group, flag each missing sibling explicitly with `[MISSING — not found in source]` at the correct position in the tree, and note the discrepancy. Do not silently skip or collapse missing siblings.
 
 ### Step 5 — Write File 1 (flat extracted outline)
 

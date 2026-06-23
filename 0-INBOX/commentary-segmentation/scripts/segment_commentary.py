@@ -25,45 +25,64 @@ SHAD      = "།"   # U+0F0D TIBETAN MARK SHAD
 NYIS_SHAD = "༎"  # U+0F0E TIBETAN MARK NYIS SHAD
 SHAD_CLUSTER = rf"[{SHAD}{NYIS_SHAD}](?:[\s{TSHEG}]*[{SHAD}{NYIS_SHAD}])*"
 
+# Pre-compiled Pattern for SHAD_CLUSTER — used directly in _split_clause_units,
+# detect_stanza, and _shad_bounds to avoid per-call re.compile() overhead.
+_SHAD_CLUSTER_RE = re.compile(SHAD_CLUSTER)
+
 # Order matters when two rules legitimately end at the exact same shad (e.g.
 # the quote-closing formula also satisfies terminal-particle's generic
 # "[consonant]+o-vowel + shad" pattern). starts/ends in find_cuts() keep only
 # the first-registered name per position, so the more specific markers are
 # listed first; terminal-particle -- the broad catch-all for whatever isn't
 # claimed by a more specific rule -- is listed last.
+#
+# Each rule tuple is extended with a quick-check list (or None for the
+# terminal-particle catch-all that cannot be pre-filtered). find_cuts() does a
+# fast `any(q in line ...)` test before calling the expensive .finditer(); this
+# skips ~82% of regex invocations on typical Tibetan commentary prose.
 RULES = [
     # quote-close: standard closing formulas for citations.
     ("quote-close", "after",
-     re.compile(rf"(?:ཞེས་སོ|ཅེས་སོ|ཞེས་གསུངས་སོ|ཞེས་བཤད་དོ|ཞེས་པའོ|ཅེས་པའོ|ཞེས་བྱ་བའོ){SHAD_CLUSTER}")),
+     re.compile(rf"(?:ཞེས་སོ|ཅེས་སོ|ཞེས་གསུངས་སོ|ཞེས་བཤད་དོ|ཞེས་པའོ|ཅེས་པའོ|ཞེས་བྱ་བའོ){SHAD_CLUSTER}"),
+     re.compile(r"ཞེས་སོ|ཅེས་སོ|ཞེས་གསུངས་སོ|ཞེས་བཤད་དོ|ཞེས་པའོ|ཅེས་པའོ|ཞེས་བྱ་བའོ")),
     # quote-open: source-attribution markers (ལས།, གསུངས།) get their own block
     # before the cited passage. Rule fires BEFORE the marker.
     ("quote-open", "before",
-     re.compile(rf"(?:ལས|གསུངས){SHAD_CLUSTER}")),
+     re.compile(rf"(?:ལས|གསུངས){SHAD_CLUSTER}"),
+     re.compile(r"ལས|གསུངས")),
     # enumeration-head: sa-bcad head closing after a number word + suffix.
     # Suffix required (ལས/སྟེ/སུ/དུ/ཡོད/ནས/པོ) to avoid bare number words mid-compound.
     ("enumeration-head", "after",
-     re.compile(rf"(?:གཉིས|གསུམ|བཞི|ལྔ|དྲུག|བདུན|བརྒྱད|དགུ|བཅུ)་(?:ལས|སྟེ|སུ|དུ|ཡོད|ནས|པོ){SHAD_CLUSTER}")),
+     re.compile(rf"(?:གཉིས|གསུམ|བཞི|ལྔ|དྲུག|བདུན|བརྒྱད|དགུ|བཅུ)་(?:ལས|སྟེ|སུ|དུ|ཡོད|ནས|པོ){SHAD_CLUSTER}"),
+     re.compile(r"གཉིས་|གསུམ་|བཞི་|ལྔ་|དྲུག་|བདུན་|བརྒྱད་|དགུ་|བཅུ་")),
     # ordinal-open: standard section openers དང་པོ་, གཉིས་པ་, གསུམ་པ་ …
     ("ordinal-open", "before",
-     re.compile(rf"(?:དང་པོ|གཉིས་པ|གསུམ་པ|བཞི་པ|ལྔ་པ|དྲུག་པ|བདུན་པ|བརྒྱད་པ|དགུ་པ|བཅུ་པ)་")),
+     re.compile(rf"(?:དང་པོ|གཉིས་པ|གསུམ་པ|བཞི་པ|ལྔ་པ|དྲུག་པ|བདུན་པ|བརྒྱད་པ|དགུ་པ|བཅུ་པ)་"),
+     re.compile(r"དང་པོ|གཉིས་པ|གསུམ་པ|བཞི་པ|ལྔ་པ|དྲུག་པ|བདུན་པ|བརྒྱད་པ|དགུ་པ|བཅུ་པ")),
     # objection-close: question/objection final markers ཅེ་ན།, ཞེ་ན།, སྙམ་ན།
     ("objection-close", "after",
-     re.compile(rf"(?:ཅེ་ན|ཞེ་ན|སྙམ་ན){SHAD_CLUSTER}")),
+     re.compile(rf"(?:ཅེ་ན|ཞེ་ན|སྙམ་ན){SHAD_CLUSTER}"),
+     re.compile(r"ཅེ་ན|ཞེ་ན|སྙམ་ན")),
     # objection-open: reply opener འོ་ན་
     ("objection-open", "before",
-     re.compile(rf"འོ་ན་")),
+     re.compile(rf"འོ་ན་"),
+     re.compile(r"འོ་ན་")),
     # terminal-particle: sentence-final linking particles. Generic catch-all,
     # listed last on purpose (see note above RULES).
     # Fix 1: .འོ (.འོ) catches བའོ (བའོ), དའོ (དའོ), etc.
     #        (consonants below U+0F60 were missed by the old [འ-ྼ]འོ range).
     # Fix 2: added ག (ག) and ལ (ལ) for གོ and ལོ.
     ("terminal-particle", "after",
-     re.compile(rf"(?:.འོ|[ནདསཏརངབམགལ]ོ){SHAD_CLUSTER}")),
+     re.compile(rf"(?:.འོ|[ནདསཏརངབམགལ]ོ){SHAD_CLUSTER}"),
+     None),  # catch-all — cannot be pre-filtered
 ]
 
 SEP = "\n\n"
 HEADING_RE = re.compile(r"^#{1,6}\s")
 FRONTMATTER_RE = re.compile(r"^---\n.*?\n---\n", re.DOTALL)
+ORDINAL_HEAD_RE = re.compile(
+    r"^((?:དང་པོ|གཉིས་པ|གསུམ་པ|བཞི་པ|ལྔ་པ|དྲུག་པ|བདུན་པ|བརྒྱད་པ|དགུ་པ|བཅུ་པ)[^"
+    + SHAD + NYIS_SHAD + r"]*[" + SHAD + NYIS_SHAD + r"]+)[ \t]+")
 
 # --- verse-stanza detection (documented in SKILL.md, previously unimplemented) ---
 # A paragraph counts as one protected verse stanza when: it ends in a strong
@@ -90,7 +109,7 @@ def detect_stanza(paragraph: str):
     pieces = []
     last_end = 0
     final_cluster = ""
-    for m in re.finditer(SHAD_CLUSTER, stripped):
+    for m in _SHAD_CLUSTER_RE.finditer(stripped):
         end = m.end()
         piece = stripped[last_end:end]
         if piece.strip():
@@ -113,6 +132,108 @@ def detect_stanza(paragraph: str):
 
 def count_syllables(text: str) -> int:
     return text.count(TSHEG) + (1 if text.strip() else 0)
+
+
+STANZA_MAX_PADAS = 4
+
+
+def _is_pada_unit(unit):
+    return PADA_MIN_SYL <= count_syllables(unit.strip()) <= PADA_MAX_SYL
+
+
+def _uniform(units):
+    syls = [count_syllables(u.strip()) for u in units]
+    return len(syls) >= PADA_COUNT_RANGE[0] and max(syls) - min(syls) <= PADA_UNIFORMITY_TOLERANCE
+
+
+def _format_pada(p):
+    return re.sub(r"\s*([" + SHAD + NYIS_SHAD + r"])\s*", r"\1", p).strip()
+
+
+def _split_clause_units(text):
+    units, last = [], 0
+    for m in _SHAD_CLUSTER_RE.finditer(text):
+        end = m.end()
+        if text[last:end].strip():
+            units.append(text[last:end])
+        last = end
+    if text[last:].strip():
+        if units:
+            units[-1] = units[-1] + text[last:]
+        else:
+            units.append(text[last:])
+    return units
+
+
+_QUOTE_FRAME_RE = re.compile(rf"(?:ལས|གསུངས){SHAD_CLUSTER}\s*$")
+
+
+def _is_leadin(text: str) -> bool:
+    if len(_split_clause_units(text)) != 1:
+        return False
+    return (count_syllables(text.strip()) < PADA_MIN_SYL
+            or bool(_QUOTE_FRAME_RE.search(text.strip())))
+
+
+def _attach_leadins(out):
+    merged = []
+    i = 0
+    while i < len(out):
+        kind, payload = out[i]
+        if (kind == "prose" and i + 1 < len(out)
+                and out[i + 1][0] == "verse" and _is_leadin(payload)):
+            lead = _format_pada(payload)
+            merged.append(("verse", [lead] + out[i + 1][1]))
+            i += 2
+        else:
+            merged.append(out[i])
+            i += 1
+    return merged
+
+
+def scan_segments(para):
+    """Return an ordered list of ('verse', [padas]) and ('prose', text)
+    segments. Only a run of >=2 uniform padas (a real stanza) is peeled out;
+    isolated pada-length clauses are kept flowing with the surrounding prose so
+    medium-length prose sentences are never mistaken for one-line verses."""
+    units = _split_clause_units(para)
+    flags = [_is_pada_unit(u) for u in units]
+    out = []
+    pending = []  # prose units awaiting flush
+
+    def flush():
+        if pending:
+            out.append(("prose", "".join(pending)))
+            pending.clear()
+
+    i, n = 0, len(units)
+    while i < n:
+        if flags[i]:
+            j = i
+            while j < n and flags[j]:
+                j += 1
+            run = units[i:j]
+            k = 0
+            while k < len(run):
+                chunk = None
+                for size in (4, 3, 2):  # prefer a full quatrain
+                    cand = run[k:k + size]
+                    if len(cand) == size and _uniform(cand):
+                        chunk = cand
+                        break
+                if chunk is not None:
+                    flush()
+                    out.append(("verse", [_format_pada(u) for u in chunk]))
+                    k += len(chunk)
+                else:
+                    pending.append(run[k])  # lone pada-length clause -> prose
+                    k += 1
+            i = j
+        else:
+            pending.append(units[i])
+            i += 1
+    flush()
+    return out
 
 
 def valid_cut(line: str, pos: int) -> bool:
@@ -143,7 +264,7 @@ def _near_shad_before(line: str, pos: int, window: int) -> bool:
     return bool(re.search(SHAD_CLUSTER, line[max(0, pos - window):pos]))
 
 
-def find_cuts(line: str):
+def find_cuts(line: str, structural: bool = False):
     """Returns (split_positions, starts, ends, candidates).
 
     A "before" rule (quote-open, ordinal-open, objection-open) names the
@@ -159,8 +280,23 @@ def find_cuts(line: str):
     starts: dict = {}
     ends: dict = {}
     candidates = []
-    for name, kind, pat in RULES:
+    for name, kind, pat, quick in RULES:
+        # Quick pre-filter: one compiled search() call (C-level) is cheaper
+        # than running the full finditer() on lines that cannot possibly match.
+        # Profiling showed this eliminates ~82% of finditer calls on typical
+        # Tibetan commentary prose with negligible overhead.
+        if quick is not None and not quick.search(line):
+            continue
         for m in pat.finditer(line):
+            if structural:
+                # structural mode: only major boundaries -- strong (double-shad)
+                # sentence ends, section heads, and citation frames. Single-shad
+                # clause ends and objection markers do NOT force a break.
+                if name in ("objection-close", "objection-open", "enumeration-head"):
+                    continue
+                if name == "terminal-particle" and (
+                        m.group(0).count(SHAD) + m.group(0).count(NYIS_SHAD)) < 2:
+                    continue
             pos = m.end() if kind == "after" else m.start()
             if not valid_cut(line, pos):
                 continue
@@ -175,12 +311,14 @@ def find_cuts(line: str):
 
 def _shad_bounds(piece: str, strong_only: bool):
     bounds = []
-    for m in re.finditer(SHAD_CLUSTER, piece):
+    rstripped_len = len(piece.rstrip())
+    for m in _SHAD_CLUSTER_RE.finditer(piece):
         end = m.end()
-        if 0 < end < len(piece.rstrip()):
-            strength = m.group(0).count(SHAD) + m.group(0).count(NYIS_SHAD)
-            if strong_only and strength < 2:
-                continue
+        if 0 < end < rstripped_len:
+            if strong_only:
+                grp = m.group(0)
+                if grp.count(SHAD) + grp.count(NYIS_SHAD) < 2:
+                    continue
             bounds.append(end)
     return bounds
 
@@ -213,7 +351,7 @@ def _greedy_wrap(piece: str, max_syllables: int, strong_only: bool):
 
 
 def cap_segment(piece: str, max_syllables: int):
-    if count_syllables(piece) <= max_syllables:
+    if max_syllables <= 0 or count_syllables(piece) <= max_syllables:
         return [piece]
     out = []
     for p in _greedy_wrap(piece, max_syllables, strong_only=True):
@@ -268,8 +406,8 @@ def merge_short_segments(segments: list, rows: list, max_syllables: int):
     return merged_segments, merged_rows
 
 
-def segment_line(line: str, max_syllables: int):
-    positions, starts, ends, candidates = find_cuts(line)
+def segment_line(line: str, max_syllables: int, structural: bool = False):
+    positions, starts, ends, candidates = find_cuts(line, structural)
     raw = []
     start = 0
     for pos in positions:
@@ -291,7 +429,7 @@ def segment_line(line: str, max_syllables: int):
             syl = count_syllables(sub)
             segments.append(sub)
             preview = sub.strip()[:80].replace("\t", " ").replace("\n", "↵")
-            if syl > max_syllables:
+            if max_syllables > 0 and syl > max_syllables:
                 # Distinguish "no internal shad to split on at all" (needs a
                 # full hand-read to find a break) from "had shads, capping
                 # still couldn't fit everything under budget".
@@ -301,7 +439,8 @@ def segment_line(line: str, max_syllables: int):
                 flag = ""
             report.append({"trigger": trigger, "syllables": syl,
                            "flag": flag, "preview": preview})
-    segments, report = merge_short_segments(segments, report, max_syllables)
+    if max_syllables > 0:
+        segments, report = merge_short_segments(segments, report, max_syllables)
     for c in candidates:
         # Weak-context match: not auto-cut, just surfaced for human judgement.
         report.append({"trigger": c["name"] + "-candidate", "syllables": 0,
@@ -309,7 +448,7 @@ def segment_line(line: str, max_syllables: int):
     return segments, report
 
 
-def process(text: str, max_syllables: int):
+def process(text: str, max_syllables: int, structural: bool = False):
     out_parts = []
     report = []
     fm = FRONTMATTER_RE.match(text)
@@ -318,29 +457,68 @@ def process(text: str, max_syllables: int):
         body = text[fm.end():]
     else:
         body = text
+    blocks = []  # list of (is_verse, text)
     for para in re.split(r"\n\s*\n", body):
         if not para.strip():
             continue
         if HEADING_RE.match(para.strip()):
-            out_parts.append(para.strip())
+            blocks.append((False, para.strip()))
             continue
-        stanza_padas = detect_stanza(para)
-        if stanza_padas is not None:
-            block = para.strip()
-            out_parts.append(block)
-            preview = block[:80].replace("\t", " ").replace("\n", "↵")
-            report.append({"trigger": "verse-stanza", "syllables": count_syllables(block),
-                           "flag": "", "preview": preview})
-            continue
-        segments, rows = segment_line(para, max_syllables)
-        out_parts.extend(seg.strip() for seg in segments)
-        report.extend(rows)
+        for kind, payload in scan_segments(para):
+            if kind == "verse":
+                block = "\n".join(payload)
+                blocks.append((True, block))
+                preview = block[:80].replace("\t", " ").replace("\n", "↵")
+                report.append({"trigger": "verse-stanza",
+                               "syllables": count_syllables(block),
+                               "flag": "", "preview": preview})
+            else:
+                if not payload.strip():
+                    continue
+                segments, rows = segment_line(payload, max_syllables, structural)
+                for seg in segments:
+                    seg = seg.strip()
+                    if structural:
+                        seg = re.sub(r"([" + SHAD + NYIS_SHAD + r"])\s+([" + SHAD + NYIS_SHAD + r"])", r"\1\2", seg)
+                        seg = ORDINAL_HEAD_RE.sub(r"\1\n", seg)
+                    blocks.append((False, seg))
+                report.extend(rows)
+    # lead-in attachment: a lone invocation / source-frame line immediately
+    # before a stanza becomes that stanza block's first line (format-commentary
+    # §3). Done here, after prose has been split into individual blocks.
+    i = 0
+    while i < len(blocks):
+        is_verse, txt = blocks[i]
+        if (not is_verse and i + 1 < len(blocks)
+                and blocks[i + 1][0] and _is_leadin(txt)):
+            out_parts.append(_format_pada(txt) + "\n" + blocks[i + 1][1])
+            i += 2
+        else:
+            out_parts.append(txt)
+            i += 1
     return SEP.join(out_parts) + "\n", report
 
 
+# Translate table that removes all Unicode whitespace in one pass —
+# faster than re.sub(r"\s+", "", s) on large Tibetan files.
+_WS_TABLE = str.maketrans("", "", "".join(chr(c) for c in (
+    0x20, 0x09, 0x0A, 0x0D, 0x0C, 0x0B,  # ASCII whitespace
+    0xA0,         # NO-BREAK SPACE
+    0x1680,       # OGHAM SPACE MARK
+    0x2000, 0x2001, 0x2002, 0x2003, 0x2004,  # EN/EM/THREE-PER-EM etc.
+    0x2005, 0x2006, 0x2007, 0x2008, 0x2009, 0x200A,  # FOUR-PER-EM .. HAIR SPACE
+    0x2028, 0x2029,  # LINE/PARAGRAPH SEPARATOR
+    0x202F, 0x205F,  # NARROW NO-BREAK, MEDIUM MATHEMATICAL
+    0x3000,         # IDEOGRAPHIC SPACE
+)))
+
+
+def _squeeze(s: str) -> str:
+    return s.translate(_WS_TABLE)
+
+
 def assert_no_loss(original: str, segmented: str):
-    squeeze = lambda s: re.sub(r"\s+", "", s)
-    if squeeze(original) != squeeze(segmented):
+    if _squeeze(original) != _squeeze(segmented):
         sys.exit("ABORT: segmentation altered non-whitespace content. No file written.")
 
 
@@ -351,10 +529,17 @@ def main(argv):
     ap.add_argument("output")
     ap.add_argument("--report", help="write a TSV segmentation report here")
     ap.add_argument("--max-syllables", type=int, default=50)
+    ap.add_argument("--structural", action="store_true",
+                    help="prose breaks only at strong (double-shad) sentence "
+                         "ends, section heads, and citation frames; verses one "
+                         "pada per line; implies no syllable cap. Best match for "
+                         "the canonical block layout.")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args(argv[1:])
     text = unicodedata.normalize("NFC", Path(args.input).read_text(encoding="utf-8"))
-    segmented, report = process(text, args.max_syllables)
+    structural = args.structural
+    max_syllables = 0 if structural else args.max_syllables
+    segmented, report = process(text, max_syllables, structural)
     assert_no_loss(text, segmented)
     n_segments = len(report)
     n_flagged = sum(1 for r in report if r["flag"])

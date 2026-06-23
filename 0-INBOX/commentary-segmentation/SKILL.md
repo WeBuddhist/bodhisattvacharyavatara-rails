@@ -97,6 +97,13 @@ python3 scripts/segment_commentary.py \
 The script **never** edits content: before writing, it asserts that the output with all inserted blank lines removed is byte-identical to the input, and aborts otherwise. Write the Stage-1 output to `0-INBOX/` first — never overwrite the source until boundaries are approved.
 
 **Stage 2 — semantic refinement (LLM, this prompt).**
+
+**Before writing any Stage 2 code, read `scripts/segment_commentary.py` in full.** Understanding the script's internals saves multiple rewrites. Key facts:
+
+- **TSV index ≠ paragraph index.** The TSV numbers segments as the script counts them internally. The `.segmented.md` file paragraphs (blocks separated by `\n\n`) do not have a 1-to-1 correspondence with TSV indices, because short adjacent segments get merged by `merge_short_segments`. Do not try to map TSV row N directly to paragraph N in the output file.
+- **Internal `\n` characters inside a block are original source line boundaries** that Stage 1's `merge_short_segments` joined because they were individually below the syllable cap. The correct Stage 2 action for any over-long block that contains internal `\n` is to expand those newlines to `\n\n` — each line becomes its own paragraph. Do not split these blocks by pattern-matching; just split on `\n`.
+- **The script's no-loss check uses a custom `_squeeze`** (a specific whitespace-removal table, not `re.sub(r'\s+', '', s)`). If your own no-loss check uses a different squeeze function and reports a mismatch that the script's check did not, first verify whether the mismatch was already present in the Stage 1 output before concluding your Stage 2 introduced it. Run: `squeeze(source) == squeeze(stage1_output)` before touching Stage 2.
+
 Open the Stage-1 report and review only the segments flagged `STAGE2_REVIEW` (longer than `--max-syllables`). These are prose runs with no lexical cue. For each, insert a paragraph break at the genuine topic shift — typically where the commentary moves from stating a position to giving its reason, from one objection to the next, or from gloss to scriptural support. Constraints:
 
 - Only *insert* `\n\n` boundaries. Do not change, reorder, or delete any syllable.
@@ -104,7 +111,7 @@ Open the Stage-1 report and review only the segments flagged `STAGE2_REVIEW` (lo
 - Place a source-attribution line (e.g. `…ལས།`) and its closing `ཞེས་སོ། །` on their own blocks around the quote, per `format-commentary` §3.
 - When a passage genuinely cannot be cut without breaking sense, leave it whole and note it; over-long is safer than wrong.
 
-After Stage 2, re-run the no-loss check (concatenate all blocks, strip whitespace, compare to the source) before proceeding.
+After Stage 2, re-run the no-loss check (concatenate all blocks, strip whitespace, compare to the source) before proceeding. **Run the check against the original source, not the Stage 1 output**, so any pre-existing Stage 1 deviation is caught here and noted for the domain specialist rather than silently inherited.
 
 ---
 
@@ -124,12 +131,13 @@ Once boundaries are approved, IDs are assigned exactly as `format-commentary` §
 **Procedure**
 
 1. Confirm the file is OCR-clean (run `format-commentary` first if not).
-2. If the file already carries index numbers, block/verse IDs, headings, or per-line/per-verse breaks, run **Stage 0** (`preclean_commentary.py`) to `0-INBOX/` to strip the scaffolding back to continuous prose. Skip if the file is already plain running text.
-3. Run Stage 1 (on the Stage-0 output, if you ran it) to `0-INBOX/`, producing the segmented draft and the TSV report.
-4. Review `STAGE2_REVIEW`-flagged segments and refine boundaries by hand (Stage 2).
-5. Re-run the no-loss check; confirm every non-whitespace character is preserved.
-6. Have a domain specialist approve the boundaries.
-7. Hand off to the block-ID pass, then copy the approved, ID-stamped file back into `1-SOURCES/Commentaries/`.
+2. **Read `scripts/segment_commentary.py` and `scripts/preclean_commentary.py` in full** before doing anything else. Do not write Stage 2 code until you understand the script internals (see Stage 2 notes above).
+3. If the file already carries index numbers, block/verse IDs, headings, or per-line/per-verse breaks, run **Stage 0** (`preclean_commentary.py`) to `0-INBOX/` to strip the scaffolding back to continuous prose. Skip if the file is already plain running text.
+4. Run Stage 1 (on the Stage-0 output, if you ran it) to `0-INBOX/`, producing the segmented draft and the TSV report.
+5. Before writing any Stage 2 script, read 10–20 `STAGE2_REVIEW` samples from the report, identify which have internal `\n` (expand to `\n\n`) and which are genuinely single long sentences (leave whole). Write one script that handles both cases.
+6. Run Stage 2. Then run the no-loss check against the **original source file**.
+7. Have a domain specialist approve the boundaries.
+8. Hand off to the block-ID pass, then copy the approved, ID-stamped file back into `1-SOURCES/Commentaries/`.
 
 **Output**
 

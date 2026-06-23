@@ -220,6 +220,12 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 **Outputs:** The revised day file overwritten in place at `…/en/Days/[DAY].md` (with a `revision` frontmatter block), plus an audit record at `…/en/feedback-audit/[DAY].md`.
 → [`plan-day-feedback-revision/SKILL.md`](plan-day-feedback-revision/SKILL.md)
 
+### `toc-candidate-extraction` **[exists]**
+**Purpose:** Scan a Tibetan commentary passage and extract every ས་བཅད candidate — Type A (topic announcements), Type B (node headers), and Type C (closing counts). Prioritises recall: extracts all possible candidates rather than filtering. Outputs a structured candidate list saved to `0-INBOX/toc-candidates-<commentary-id>.md` for review before downstream outline-building.
+**Inputs:** A Tibetan text passage (pasted or from a file) and a short `commentary-id` for the output filename.
+**Outputs:** `0-INBOX/toc-candidates-<commentary-id>.md` containing every candidate with TYPE, exact text, 10-word context window, and named items.
+→ [`toc-candidate-extraction/SKILL.md`](toc-candidate-extraction/SKILL.md)
+
 ### `Outline-Extractor` **[exists]**
 **Purpose:** Extract the structural outline (ས་བཅད།) from a Tibetan commentary in `1-SOURCES/Commentaries/` and produce two output files: a flat tab-indented list (`ས་བཅད་རྐྱང་པ།`) and a nested heading+list structured outline (`ལྟེ་བའི་དཀར་ཆག།`), both saved to `3-TRANSFORMATIONS/Adaptations/<commentary-id>-sa-bcad/`.
 **Inputs:** Commentary file path in `1-SOURCES/Commentaries/`, a short `commentary-id`, and the Tibetan title of the work.

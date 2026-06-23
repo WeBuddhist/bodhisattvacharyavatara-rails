@@ -23,12 +23,53 @@ This implements the convention in CLAUDE.md §5b. The output is saved to `0-INBO
 
 ---
 
+## Architecture — why this skill is split in two
+
+The work has two very different kinds of subtask, and conflating them is slow and error-prone:
+
+- **Linguistic judgment** — deciding which lines are sa bcad, and where each announced term begins and ends. This genuinely needs language understanding.
+- **Deterministic mechanics** — building the section tree, assigning `^N-…-0` block IDs, inserting heading lines, wrapping exact substrings, and proving no prose was altered. This is pure string manipulation and must NOT be done by hand.
+
+So the skill runs in **two phases**:
+
+```
+  commentary.md
+       │
+       ▼
+  [optional] find_sa_bcad.py  ── shortlist of candidate sa bcad lines
+       │
+       ▼
+  PHASE 1 (model)  ── read the file, emit an ANNOTATION (JSON):
+       │               ordered sections with depth, heading title,
+       │               exact body-start context, restatement, and
+       │               any announced-in-parent term. No IDs. No rewriting.
+       ▼
+  PHASE 2 (script) ── tag_inline_toc.py render:
+       │               assign block IDs from depth, insert headings,
+       │               wrap wikilinks by anchored exact match, and
+       │               PROVE existing prose is unchanged, then write.
+       ▼
+  0-INBOX/temp/tagged-<filename>
+```
+
+Because block IDs are assigned by code, depth-skipping and numbering bugs are impossible by construction. Because wraps are exact-substring and the result is diffed back against the source, silent transcription drift is caught and the run fails loudly. **The model never retypes Tibetan prose** — it only points at substrings that already exist.
+
+Scripts live in `scripts/`:
+
+| Script | Phase | Role |
+|---|---|---|
+| `scripts/find_sa_bcad.py` | pre-1 | Heuristic shortlist of candidate sa bcad / opening lines. Optional but recommended for long files. |
+| `scripts/tag_inline_toc.py` | 2 | Deterministic renderer + prose-integrity verifier. **Required.** |
+| `scripts/annotation.schema.json` | — | JSON schema for the Phase-1 annotation. |
+| `scripts/example-annotation.json` | — | A worked example annotation. |
+
+---
+
 ## Inputs
 
 | Field | Description |
 |---|---|
 | Input file | Path to a formatted Tibetan commentary file — typically `0-INBOX/segmentation/<filename>.md` |
-| Block ID map | The operator supplies, or Claude derives from the sa bcad structure, a mapping of section → block ID (`^N-N-0`) |
 
 The input file must already have:
 - YAML frontmatter (at minimum `title:`, `author:`, `file_type:`, `language_tag:`)
@@ -39,24 +80,12 @@ The input file must already have:
 
 ## Output
 
-A single file at:
+A single file at `0-INBOX/temp/tagged-<original-filename>` (the script auto-suffixes `-v2`, `-v3`, … rather than overwriting). It adds two kinds of markup and nothing else:
 
-```
-0-INBOX/temp/tagged-<original-filename>
-```
-
-The output adds two types of markup to the original prose:
-
-1. **Wikilinks** — wrap existing terms in `[[#^block-id|term]]`; no prose text is deleted or reordered.
-2. **Heading lines** — new `##` through `######` lines inserted on a blank line immediately before each section-body paragraph. These are net-new lines not present in the source.
-
----
-
-## Output file format
+1. **Heading lines** — new `##`–`######` lines with block IDs, inserted on blank lines before each section body.
+2. **Wikilinks** — existing terms wrapped in `[[#^id|term]]`. No prose text is deleted, inserted, or reordered.
 
 ### Heading line format
-
-Insert one heading line per section, on its own line, immediately before the paragraph that opens that section's body. Use a blank line before and after the heading.
 
 | Depth | Heading level | Format |
 |---|---|---|
@@ -67,79 +96,69 @@ Insert one heading line per section, on its own line, immediately before the par
 | 5 | `######` | `###### <title> ^N-N-N-N-N-0` |
 | 6+ | `######` | `###### <title> ^N-…-N-0` (block ID extends as needed) |
 
-Markdown supports only 6 heading levels (`#` through `######`). For depth 6 and beyond, continue using `######` and rely on the block ID to distinguish nesting.
+Markdown has only 6 heading levels. For depth 6+, keep `######` and let the block ID carry the nesting. `<title>` is the short section name (the announced term), not the full ordinal phrase — `བཤད་པ།`, not `གཉིས་པ་བཤད་པ།`.
 
-The `<title>` is the short section name (the announced term or section title, not the full ordinal phrase).
+### Wikilink formats
 
-Example:
-```
-## མཚན་གྱི་དོན། ^1-0
-
-## སྤྱིའི་ཕྱག། ^2-0
-
-### རྩོམ་པ་ལ་འཇུག་ཚུལ། ^3-1-0
-
-#### མཆོད་པར་བརྗོད་པ། ^3-1-1-0
-```
-
-### Wikilink format — announcement sentence
-
-In the enumeration sentence, each announced term becomes a link pointing **forward** to the block ID of the section it announces:
-
-```
-[[#^1-1-0|མདོར་བསྟན་པ་]]
-```
-
-Example:
-
-Before:
-```
-ལེའུ་དང་པོ་ལ་མདོར་བསྟན་པ་དང་རྒྱས་པར་བཤད་པ་གཉིས་ཡོད་པ་ལས།
-```
-
-After:
+Announcement sentence (each announced term links **forward** to its child section):
 ```
 ལེའུ་དང་པོ་ལ་[[#^1-1-0|མདོར་བསྟན་པ་]]དང་[[#^1-2-0|རྒྱས་པར་བཤད་པ་]]གཉིས་ཡོད་པ་ལས།
 ```
 
-### Wikilink format — section body restatement (inline heading tag)
-
-At the opening of each section, the ordinal-plus-title phrase is wrapped in a self-referential link. This stays **inline in the prose** alongside the heading line above it.
-
-Before:
-```
-གཉིས་པ་བཤད་པ་ནི་སྤངས་རྟོགས་མཐར་ཕྱིན་པའི་...
-གསུམ་པ་འདོགས་ཚུལ་ནི་དཔེ་དང་གཞུང་ཚད་དང་...
-```
-
-After (heading line inserted above, wikilink added inline):
+Section-body restatement (the ordinal+title at the section opening links to its own heading — self-referential by design):
 ```
 ### བཤད་པ། ^1-2-0
 
 [[#^1-2-0|གཉིས་པ་བཤད་པ་]]ནི་སྤངས་རྟོགས་མཐར་ཕྱིན་པའི་...
-
-#### འདོགས་ཚུལ། ^1-3-0
-
-[[#^1-3-0|གསུམ་པ་འདོགས་ཚུལ་]]ནི་དཔེ་དང་གཞུང་ཚད་དང་...
 ```
 
 ---
 
-## Rules
+## The annotation (Phase-1 output)
 
-1. **Insert heading lines before each section body.** Each section gets exactly one heading line placed on a blank line immediately before its opening paragraph. Depth-1 → `##`, depth-2 → `###`, depth-3 → `####`, depth-4 → `#####`, depth-5 → `######`, depth-6+ → `######` (block ID differentiates further nesting).
-2. **Do not insert, delete, or alter any existing prose text.** The only permitted changes are: (a) inserting new heading lines, and (b) wrapping an existing term in `[[#^id|term]]`. No words, characters, punctuation, or whitespace in the existing prose may be added, removed, or reordered.
-3. **Heading title is the short section name.** Use the announced/section term, not the full ordinal phrase. E.g. `བཤད་པ།` not `གཉིས་པ་བཤད་པ།`.
-4. **Block ID on the heading line.** Append the block ID directly after the heading title, separated by a space: `### བཤད་པ། ^1-2-0`.
-5. **Wrap only the minimal display text in wikilinks.** Structural term only — not surrounding particles, conjunctions, or count words.
-6. **Block ID scheme.** Section block IDs follow the `^N-N-0` pattern, extending as deep as needed: depth-1 → `^1-0`; depth-2 → `^1-1-0`; depth-3 → `^1-1-1-0`; depth-4 → `^1-1-1-1-0`; and so on. There is no maximum depth — add one numeric segment per level.
-7. **Announced terms must link to real block IDs.** Every `[[#^id|term]]` must correspond to a block ID on a heading line in the same file.
-8. **Self-referential links are intentional.** The inline wikilink at the start of a section body (`[[#^1-2-0|གཉིས་པ་བཤད་པ་]]`) points to the heading line directly above it.
-9. **Output file goes to `0-INBOX/temp/`**, never to `1-SOURCES/` or `2-RAILS/`.
-10. **Never skip a depth level.** Depth must be traversed in order: depth-1 → depth-2 → depth-3 → … Do not assign a depth-N block ID until the parent depth-(N-1) section is established.
-11. **Complete every section at the current depth before descending.** All siblings at a given depth must be fully tagged (heading inserted + wikilinks applied) before processing any child section at the next depth. Do not move to a deeper level mid-sibling-list.
-12. **Chapter title lines (ལེའུ་N།) are plain text.** Never insert a heading before them and never add wikilinks to them. They are not sa bcad and are not body openers.
-13. **Editorial section markers (N.N) are structural delimiters, not sa bcad.** The sa bcad to tag is the first Tibetan line that follows the marker.
+The model produces a JSON file — an ordered list of sections, **in document order, top to bottom**. The script turns it into the tagged file. Full schema: `scripts/annotation.schema.json`. Worked example: `scripts/example-annotation.json`.
+
+```json
+{
+  "source_file": "0-INBOX/segmentation/foo.md",
+  "sections": [
+    {
+      "depth": 1,
+      "heading_title": "ལེའུ་དང་པོ།",
+      "body_start_context": "ལེའུ་དང་པོ་ལ་མདོར་བསྟན",
+      "restatement": "ལེའུ་དང་པོ་"
+    },
+    {
+      "depth": 2,
+      "heading_title": "མདོར་བསྟན་པ།",
+      "body_start_context": "དང་པོ་མདོར་བསྟན་པ་ནི",
+      "restatement": "དང་པོ་མདོར་བསྟན་པ་",
+      "announced_in_parent": { "context": "ལེའུ་དང་པོ་ལ་མདོར", "term": "མདོར་བསྟན་པ་" }
+    },
+    {
+      "depth": 2,
+      "heading_title": "རྒྱས་པར་བཤད་པ།",
+      "body_start_context": "གཉིས་པ་རྒྱས་པར་བཤད་པ་ནི",
+      "restatement": "གཉིས་པ་རྒྱས་པར་བཤད་པ་",
+      "announced_in_parent": { "context": "ལེའུ་དང་པོ་ལ་མདོར", "term": "རྒྱས་པར་བཤད་པ་" }
+    }
+  ]
+}
+```
+
+Per-section fields:
+
+| Field | Required | Meaning |
+|---|---|---|
+| `depth` | yes | Nesting depth (1 = top-level `##`). Must descend one level at a time — never skip. |
+| `heading_title` | yes | Short section name for the heading line (announced term only). |
+| `body_start_context` | yes | A **verbatim** substring of the original, **unique to the line** where this section's body opens. The heading is inserted right before that line. Make it long enough to be unique — the script errors if it matches 0 or >1 lines. |
+| `restatement` | no | The verbatim ordinal+title phrase at the body opening (e.g. `གཉིས་པ་བཤད་པ་`) to wrap in a self-link. Must occur on the body line. |
+| `announced_in_parent` | no | `{ "context", "term" }` — where this section is named in the PARENT's enumeration sentence. `context` is a unique substring of that line; `term` is the verbatim announced term to wrap (minimal structural term only). |
+
+**The model assigns no block IDs.** It only gives `depth`; the script derives every `^N-…-0`. This is what makes depth-skips and mis-numbering impossible.
+
+All context/term/restatement strings must be **copied verbatim** from the source. If the script reports "context not found" or "term not found", the model copied inexactly — fix the string, do not loosen the script.
 
 ---
 
@@ -147,218 +166,111 @@ After (heading line inserted above, wikilink added inline):
 
 ### Step 1 — Read the file
 
-Read the full input file. Extract and hold:
-- The YAML frontmatter block.
-- The full body text.
+Read the full input file. Hold the YAML frontmatter and the body.
 
----
+### Step 2 — (Recommended) run the pre-filter
 
-### Step 2 — Identify announcement sentences
+For anything but a very short file, surface candidate lines first so you adjudicate a shortlist instead of scanning cold:
 
-Scan the body for **structural announcement phrases**. These are sentences (or short clauses) that enumerate upcoming sub-topics. Two distinct surface forms appear:
+```bash
+python3 4-SYSTEM/Skills/tag-inline-toc/scripts/find_sa_bcad.py <input-file>
+```
 
-#### Form A — Full-sentence style (longer)
+It tags lines as `announcement:FormA`, `announcement:FormB`, or `section-opening`, and flags chapter labels / editorial markers to skip. **These are heuristics** — confirm each, reject false positives, and (critically) fix the exact term boundaries yourself. The script never decides depth or wraps anything.
 
-- Enumerate two or more upcoming sub-topics joined by `དང་`.
-- End (or nearly end) with a count word: `གཉིས།`, `གཉིས་ལས།`, `གཉིས་སྟེ།`, `གསུམ།`, `གསུམ་ལས།`, `གསུམ་སྟེ།`, `བཞི།`, `བཞི་ལས།`, `ལྔ།`, `དྲུག།` (and so on).
-- Often begin with the parent section title or ordinal: `X ལ་ Y དང་ Z གཉིས།`.
+### Step 3 — Identify sa bcad and section openings (the linguistic judgment)
 
-Example:
+This is the part only you can do. Two announcement surface forms:
+
+**Form A — full sentence.** Enumerates two or more sub-topics joined by `དང་`, closing with a count word (`གཉིས།`, `གསུམ་ལས།`, `བཞི་ཡོད་པ་ལས།`, …). Often opens with the parent title/ordinal: `X ལ་ Y དང་ Z གཉིས།`.
 ```
 ལེའུ་དང་པོ་ལ་མདོར་བསྟན་པ་དང་རྒྱས་པར་བཤད་པ་གཉིས་ཡོད་པ་ལས།
 ```
+Here the announced terms (`མདོར་བསྟན་པ`, `རྒྱས་པར་བཤད་པ`) ARE named inline — each becomes an `announced_in_parent` entry on its child section.
 
-#### Form B — Short commentary style (compact)
-
-In commentaries, outlines frequently appear as a compact line containing the **count immediately after** `་ལ་` or `་ལ་ཡང་`, followed by the topic names separated by `དང༌།` on the same line, with the last topic ending in `འོ། །`.
-
-Pattern:
+**Form B — compact.** The count appears right after `་ལ་`/`་ལ་ཡང་`; topic names (if any) follow, separated by `དང༌།`, the last closing `འོ། །`.
 ```
-[parent section]་ལ་[count]། [topic 1]དང༌། [topic 2]དང༌། [topic N]འོ། །
-[parent section]་ལ་ཡང་[count]། [topic 1]དང༌། [topic 2]འོ། །
+གཉིས་པ་ལ་བཞི། བྱང་ཆུབ་ཀྱི་སེམས་...བཤད་པ་དང༌། ...ངོས་བཟུང་བ་དང༌། ...རྒྱུ་མཚན་དང༌། ...བསྟོད་པའོ། །
 ```
+When the compact line only states a count with no inline names (`དང་པོ་ལ་བཞི་ལས།`), the children are named only at their own openings — those sections have no `announced_in_parent`.
 
-Example:
-```
-གཉིས་པ་ལ་བཞི། བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་ཕན་ཡོན་བཤད་པ་དང༌། བྱང་ཆུབ་ཀྱི་སེམས་ངོས་བཟུང་བ་དང༌། དེ་ལ་ཕན་ཡོན་དེ་དག་འབྱུང་བའི་རྒྱུ་མཚན་དང༌། བྱང་ཆུབ་ཀྱི་སེམས་སྒོམ་པའི་གང་ཟག་ལ་བསྟོད་པའོ། །
-```
+Count words (closed set): `གཉིས། གསུམ། བཞི། ལྔ། དྲུག། བདུན། བརྒྱད། དགུ། བཅུ།`
 
-Here `གཉིས་པ་ལ་བཞི།` declares four sub-topics; the four terms follow inline, each ended by `དང༌།` except the last which ends `འོ། །`. Extract each `དང༌།`-separated segment as an announced term (strip trailing `འོ། །` from the last).
+**Section-body openings** take one of three forms; use the nearest ancestor announcement to resolve which sub-section is opening:
 
-Count words that trigger Form B detection (appearing directly after `་ལ་` or `་ལ་ཡང་`):
-
-`གཉིས།` `གསུམ།` `བཞི།` `ལྔ།` `དྲུག།` `བདུན།` `བརྒྱད།` `དགུ།` `བཅུ།`
-
----
-
-#### Chapter title lines — NOT body openers
-
-Lines of the form `ལེའུ་[ordinal]། [brief description]` (e.g. `ལེའུ་དང་པོ། བྱང་ཆུབ་སེམས་ཀྱི་ཕན་ཡོན་བཤད་པ།`) are **chapter labels**, not sa bcad body openers.
-
-**Do not** insert a heading line immediately before a chapter title line.  
-**Do not** wrap any part of a chapter title line in a self-referential wikilink.
-
-A chapter title line simply sits as plain text inside the larger structure. The actual structural announcements for that chapter's content appear on the **sa bcad lines that follow the editorial section markers (N.N)** inside the chapter.
-
-#### Editorial section markers — NOT sa bcad
-
-Lines of the form `N.N` (e.g. `1.1`, `2.3`, `8.17`) are **editorial verse-section markers** added to the commentary to help locate verse references. They are not sa bcad themselves and do not receive wikilinks or heading lines.
-
-The **first non-empty Tibetan line immediately following** an editorial section marker is the sa bcad announcement for that verse section. That line IS a sa bcad and must be tagged: a heading line inserted before it, and wikilinks applied to its announced terms.
-
-#### Identifying section-body restatements
-
-Also identify **section-body restatements**: the paragraph that opens a section. After a count is declared, each sub-section may be addressed in **one of three forms**:
-
-| Form | Pattern | Example |
-|---|---|---|
-| Ordinal only | `[ordinal]་ནི།` or `[ordinal]་ནི` | `གཉིས་པ་ནི།` |
-| Name only | `[topic name]་ནི།` or `[topic name]་ནི` | `དོན་གནས་འཕོ་བའི་ཕན་ཡོན་ནི` |
-| Ordinal + name | `[ordinal]་[topic name]་ནི།` | `གཉིས་པ་དོན་གནས་འཕོ་བའི་ཕན་ཡོན་ནི` |
-
-When scanning for section-body openings, match any of the three forms. Use the declared topic list from the nearest ancestor announcement to resolve which sub-section is being opened when the form is "ordinal only" or "name only".
-
-Common section-start ordinals:
-
-| Tibetan | Meaning |
+| Form | Example |
 |---|---|
-| དང་པོ། / དང་པོ་ནི། | First |
-| གཉིས་པ། / གཉིས་པ་ནི། | Second |
-| གསུམ་པ། / གསུམ་པ་ནི། | Third |
-| བཞི་པ། / བཞི་པ་ནི། | Fourth |
-| ལྔ་པ། | Fifth |
-| དྲུག་པ། | Sixth |
-| བདུན་པ། | Seventh |
-| བརྒྱད་པ། | Eighth |
-| དགུ་པ། | Ninth |
-| བཅུ་པ། | Tenth |
+| Ordinal only | `གཉིས་པ་ནི།` |
+| Name only | `དོན་གནས་འཕོ་བའི་ཕན་ཡོན་ནི` |
+| Ordinal + name | `གཉིས་པ་དོན་གནས་འཕོ་བའི་ཕན་ཡོན་ནི` |
+
+**Not sa bcad — never tag:**
+- **Chapter title lines** `ལེའུ་[ordinal]། [desc]` are plain text. No heading before them, no wikilink on them.
+- **Editorial section markers** `N.N` (e.g. `1.1`, `8.17`) are verse-locator delimiters. The sa bcad is the **first Tibetan line that follows** the marker — tag that line, not the marker.
+
+### Step 4 — Build the annotation
+
+Walk the document top to bottom and emit the `sections` list (see schema above). For each section, in order:
+- set `depth` from the nesting implied by the announcements (descend exactly one level at a time);
+- set `heading_title` to the short term;
+- copy `body_start_context` verbatim from the body-opening line, long enough to be unique in the file;
+- if the opening restates the ordinal+title, copy it verbatim into `restatement`;
+- if the section is named inline in its parent's enumeration, add `announced_in_parent` with a unique `context` from that enumeration line and the verbatim `term`.
+
+**Depth discipline:** list sections in document order; finish all siblings at a depth before descending. The script enforces "no skipped levels" and will abort if `depth` jumps by more than one. If an announcement is ambiguous, resolve conservatively as the next level down and leave yourself a note to review.
+
+Write the annotation to `0-INBOX/temp/<filename>.annotation.json`.
+
+### Step 5 — Render with the script
+
+```bash
+python3 4-SYSTEM/Skills/tag-inline-toc/scripts/tag_inline_toc.py render \
+    --input  <input-file> \
+    --annot  0-INBOX/temp/<filename>.annotation.json \
+    --output 0-INBOX/temp/tagged-<filename>
+```
+
+The script assigns block IDs, inserts headings, wraps wikilinks by anchored exact match, and **verifies prose integrity before writing**. It prints a report (sections, headings inserted, self-restatements tagged, announcements tagged, max depth) and fails non-zero on any problem:
+
+- *context not found* / *context is ambiguous* → lengthen or correct `body_start_context` / `announced_in_parent.context`.
+- *term not found* / *restatement not on body line* → the term was not copied verbatim; fix it.
+- *depth skips a level* → fix the `depth` sequence.
+- *PROSE INTEGRITY VIOLATION* → a wrap or context altered prose; inspect the reported line. **Never** work around this by editing the source.
+
+If `--output` is omitted, the path is derived as `0-INBOX/temp/tagged-<input-basename>` with `-v2`/`-v3` suffixing.
+
+### Step 6 — Verify and present
+
+The render step already proves prose integrity. To re-check an existing tagged file against its source at any time:
+
+```bash
+python3 4-SYSTEM/Skills/tag-inline-toc/scripts/tag_inline_toc.py verify \
+    --input <input-file> --tagged 0-INBOX/temp/tagged-<filename>
+```
+
+Then report to the user: the counts from the render report, the output path, and any sections you resolved ambiguously and want a human to review. The output stays in `0-INBOX/temp/` — it is **not** a `1-SOURCES/` file. Human review is required before `structural-outline-ingest`.
 
 ---
 
-### Step 3 — Build the section hierarchy and assign block IDs
+## Rules (invariants the script enforces)
 
-Working through the document from top to bottom, reconstruct nesting from the announcements:
-
-1. Top-level announcement → **depth-1** sections, block IDs `^1-0`, `^2-0`, `^3-0`, …
-2. Announcement inside a depth-1 section → **depth-2**, block IDs `^1-1-0`, `^1-2-0`, …
-3. Announcement inside a depth-2 section → **depth-3**, block IDs `^1-1-1-0`, …
-4. Continue recursively: announcement inside a depth-N section → **depth-(N+1)**, appending one more numeric segment to the block ID. **There is no maximum depth.**
-
-**Depth discipline — strictly enforced:**
-- Process the hierarchy **depth by depth, left to right**. Finish all depth-1 sections completely (heading + wikilinks) before descending to depth-2. Finish all depth-N siblings under a parent before descending to depth-(N+1).
-- Never skip a depth level. A section announced at depth-N cannot be promoted or demoted — it must be processed at its correct depth.
-- If an announcement appears to skip a level (e.g. depth-1 jumps directly to what looks like depth-3), leave a `<!-- TODO: unclear depth -->` comment and treat it conservatively as the next level down from the current parent.
-
-Record for each section: its block ID, short title, announced title, and the paragraph where its body opens.
-
----
-
-### Step 4 — Extract announced terms
-
-For an announcement such as:
-
-```
-ལེའུ་དང་པོ་ལ་མདོར་བསྟན་པ་དང་རྒྱས་པར་བཤད་པ་གཉིས་ཡོད་པ་ལས།
-```
-
-The announced terms are the elements between `ལ་` and the count word, joined by `དང་`:
-1. `མདོར་བསྟན་པ` → block ID `^1-1-0`, short title `མདོར་བསྟན་པ།`
-2. `རྒྱས་པར་བཤད་པ` → block ID `^1-2-0`, short title `རྒྱས་པར་བཤད་པ།`
-
-If the announcement is ambiguous, leave a `<!-- TODO: unclear -->` comment and continue.
-
----
-
-### Step 5 — Tag announcement sentences
-
-In each announcement sentence, wrap each announced term in `[[#^block-id|term]]`.
-
-- Wrap only the minimal structural term; leave particles and count words outside.
-- Do not create overlapping links.
-
-Example:
-```
-# Before
-ལེའུ་དང་པོ་ལ་མདོར་བསྟན་པ་དང་རྒྱས་པར་བཤད་པ་གཉིས་ཡོད་པ་ལས།
-
-# After
-ལེའུ་དང་པོ་ལ་[[#^1-1-0|མདོར་བསྟན་པ་]]དང་[[#^1-2-0|རྒྱས་པར་བཤད་པ་]]གཉིས་ཡོད་པ་ལས།
-```
-
----
-
-### Step 6 — Insert heading lines and tag section-body restatements
-
-For each section opening, do both actions together:
-
-**6a — Insert heading line** immediately before the section-body paragraph:
-
-```
-### བཤད་པ། ^1-2-0
-```
-
-Ensure there is a blank line before the heading (after the previous paragraph) and a blank line after the heading (before the section-body paragraph).
-
-**6b — Wrap the inline restatement** in a self-referential wikilink on the same paragraph:
-
-```
-[[#^1-2-0|གཉིས་པ་བཤད་པ་]]ནི་སྤངས་རྟོགས་མཐར་ཕྱིན་པའི་...
-```
-
-Combined result for a section opening:
-
-```
-(blank line)
-### བཤད་པ། ^1-2-0
-
-[[#^1-2-0|གཉིས་པ་བཤད་པ་]]ནི་སྤངས་རྟོགས་མཐར་ཕྱིན་པའི་བྱང་ཆུབ་ཐོབ་པའི་...
-```
-
----
-
-### Step 7 — Write output file
-
-Compose the final document:
-- YAML frontmatter (unchanged)
-- Full body text with heading lines inserted and wikilinks applied
-
-Write to:
-```
-0-INBOX/temp/tagged-<original-filename>
-```
-
-If a file with that name already exists, append `-v2` (then `-v3`, etc.) rather than overwriting.
-
----
-
-### Step 8 — Verify and present
-
-Read the output file. Confirm:
-- YAML frontmatter intact
-- Heading lines present (`##` through `######` with block IDs, one per section at correct depth)
-- At least one `[[#^...|...]]` wikilink present in an announcement sentence
-- At least one `[[#^...|ordinal+title]]` wikilink present at a section opening
-- Existing prose text unchanged (no deletions or reordering)
-
-Report to the user:
-- Number of heading lines inserted
-- Number of announcement sentences tagged
-- Number of section-body restatements tagged (inline heading tags)
-- Any positions where parsing was ambiguous (left as `<!-- TODO -->`)
-- The output file path
+1. **No prose is altered.** The only changes are inserted heading lines and `[[#^id|term]]` wrappers. The script proves this by stripping its own additions and diffing against the source; a mismatch aborts the run.
+2. **Block IDs are derived from depth, by the script** — `^N-0`, `^N-N-0`, `^N-N-N-0`, … one segment per level, no maximum depth, no zero-padding.
+3. **Depth is never skipped** and siblings complete before descending. Enforced.
+4. **Heading title is the short section name**, not the full ordinal phrase.
+5. **Wrap only the minimal structural term** — not surrounding particles, conjunctions, or count words.
+6. **Announced terms link to real heading block IDs**; self-referential body links are intentional (§5b).
+7. **Chapter title lines (`ལེའུ་N།`) and editorial markers (`N.N`) are never tagged**; the sa bcad after a marker is.
+8. **Output goes to `0-INBOX/temp/`**, never `1-SOURCES/` or `2-RAILS/`.
 
 ---
 
 ## Completion check
 
 - [ ] Input file read
-- [ ] All structural announcement sentences identified
-- [ ] Section hierarchy and block ID map built — unlimited depth, one segment per level (`^N-0`, `^N-N-0`, `^N-N-N-0`, `^N-N-N-N-0`, …)
-- [ ] Depth levels never skipped — each depth-N level fully complete before descending to depth-(N+1)
-- [ ] Every sibling at each depth level tagged before descending to children
-- [ ] Every announced term in every announcement sentence wrapped in `[[#^id|term]]`
-- [ ] Heading line inserted before each section body (`##` depth-1, `###` depth-2, `####` depth-3, `#####` depth-4, `######` depth-5+)
-- [ ] Every section-body restatement wrapped in `[[#^id|ordinal+title]]` (inline heading tag)
-- [ ] Existing prose text unchanged (no insertions into prose, no deletions)
+- [ ] (Long files) pre-filter run and candidates adjudicated
+- [ ] Annotation built in document order, depth descends one level at a time
+- [ ] All context/term/restatement strings copied verbatim from the source
+- [ ] `tag_inline_toc.py render` exited 0 with a prose-integrity VERIFIED report
 - [ ] Output written to `0-INBOX/temp/tagged-<filename>`
-- [ ] Verification pass confirms headings and wikilinks both present
+- [ ] Ambiguous sections noted for human review

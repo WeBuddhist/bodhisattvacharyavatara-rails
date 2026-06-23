@@ -220,6 +220,12 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 **Outputs:** The revised day file overwritten in place at `…/en/Days/[DAY].md` (with a `revision` frontmatter block), plus an audit record at `…/en/feedback-audit/[DAY].md`.
 → [`plan-day-feedback-revision/SKILL.md`](plan-day-feedback-revision/SKILL.md)
 
+### `toc-candidate-extraction` **[exists]**
+**Purpose:** Scan a Tibetan commentary passage and extract every ས་བཅད candidate — Type A (topic announcements), Type B (node headers), and Type C (closing counts). Prioritises recall: extracts all possible candidates rather than filtering. Outputs a structured candidate list saved to `0-INBOX/toc-candidates-<commentary-id>.md` for review before downstream outline-building.
+**Inputs:** A Tibetan text passage (pasted or from a file) and a short `commentary-id` for the output filename.
+**Outputs:** `0-INBOX/toc-candidates-<commentary-id>.md` containing every candidate with TYPE, exact text, 10-word context window, and named items.
+→ [`toc-candidate-extraction/SKILL.md`](toc-candidate-extraction/SKILL.md)
+
 ### `Outline-Extractor` **[exists]**
 **Purpose:** Extract the structural outline (ས་བཅད།) from a Tibetan commentary in `1-SOURCES/Commentaries/` and produce two output files: a flat tab-indented list (`ས་བཅད་རྐྱང་པ།`) and a nested heading+list structured outline (`ལྟེ་བའི་དཀར་ཆག།`), both saved to `3-TRANSFORMATIONS/Adaptations/<commentary-id>-sa-bcad/`.
 **Inputs:** Commentary file path in `1-SOURCES/Commentaries/`, a short `commentary-id`, and the Tibetan title of the work.
@@ -231,3 +237,15 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 **Inputs:** Scope type (`verse` or `chapter`), scope ID (verse ID such as `1-1`, or chapter number/name), and audience (`kids`, `general`, or `academic`).
 **Outputs:** One summary file at `3-TRANSFORMATIONS/Adaptations/multilevel-summaries/<audience>/verse-<chapter-verse>.md` or `…/chapter-<N>.md`, with Obsidian segment-links to all commentary blocks used.
 → [`multilevel-summary/SKILL.md`](multilevel-summary/SKILL.md)
+
+### `BCA-Term-Definition` **[exists]**
+**Purpose:** Extract verbatim definitions of key terms from Tibetan commentaries and fill them into the Meaning column of `BCA-Term-Localization.md`, formatted in traditional Tibetan quotation style.
+**Inputs:** One or more terms from the Bo column of `2-RAILS/Local-Wiki/BCA-Term-Localization.md`; all commentary files under `1-SOURCES/Commentaries/`.
+**Outputs:** `2-RAILS/Local-Wiki/BCA-Term-Localization.md` updated in place — Meaning cells filled with verbatim quotations framed as `[short-name]ནས་「…」ཞེས་གསུངས་སོ།།` with inline block-ID citations.
+→ [`BCA-Term-Definition/SKILL.md`](BCA-Term-Definition/SKILL.md)
+
+### `BAC-Term-Localization` **[exists]**
+**Purpose:** Translate Tibetan Buddhist key terms in BCA-Term-Localization.md into English, Chinese, Hindi, Nepali, Russian, and Mongolian, deriving each rendering from the commentary-based Meaning column.
+**Inputs:** One or more terms (or "all") from the Bo column of `2-RAILS/Local-Wiki/BCA-Term-Localization.md`; target languages (default: all six); the Meaning column as the disambiguating source.
+**Outputs:** `2-RAILS/Local-Wiki/BCA-Term-Localization.md` updated in place — En, Zh, Hin, Nep, Rus, Mon cells filled with contextually accurate renderings; novel renderings flagged with `*`.
+→ [`BAC-Term-Localization/SKILL.md`](BAC-Term-Localization/SKILL.md)

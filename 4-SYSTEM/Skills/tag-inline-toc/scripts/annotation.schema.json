@@ -1,0 +1,59 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "tag-inline-toc annotation",
+  "description": "Phase-1 output: an ordered list of sa bcad sections. The model emits this; tag_inline_toc.py assigns block IDs and renders. No block IDs appear here — they are derived from depth.",
+  "type": "object",
+  "required": ["sections"],
+  "additionalProperties": false,
+  "properties": {
+    "source_file": {
+      "type": "string",
+      "description": "Optional. Path of the input file this annotation describes."
+    },
+    "sections": {
+      "type": "array",
+      "minItems": 1,
+      "description": "Sections in DOCUMENT ORDER, top to bottom. Depth must descend one level at a time (no skipped levels).",
+      "items": {
+        "type": "object",
+        "required": ["depth", "heading_title", "body_start_context"],
+        "additionalProperties": false,
+        "properties": {
+          "depth": {
+            "type": "integer",
+            "minimum": 1,
+            "description": "Nesting depth. 1 = top-level (## heading). Each step deeper adds one to the block-ID path."
+          },
+          "heading_title": {
+            "type": "string",
+            "description": "Short section name for the heading line — the announced term only, NOT the full ordinal phrase (e.g. 'བཤད་པ།' not 'གཉིས་པ་བཤད་པ།')."
+          },
+          "body_start_context": {
+            "type": "string",
+            "description": "A verbatim substring from the ORIGINAL text that is unique to the line where this section's body paragraph begins. The heading line is inserted immediately before that line. Make it long enough to be unique."
+          },
+          "restatement": {
+            "type": "string",
+            "description": "Optional. The verbatim ordinal+title phrase at the start of the body (e.g. 'གཉིས་པ་བཤད་པ་') to wrap in a self-referential wikilink. Must occur on the body_start_context line."
+          },
+          "announced_in_parent": {
+            "type": "object",
+            "description": "Optional. Where this section is named inside the PARENT's enumeration sentence. The term is wrapped in a forward link to this section's id.",
+            "required": ["context", "term"],
+            "additionalProperties": false,
+            "properties": {
+              "context": {
+                "type": "string",
+                "description": "A verbatim substring unique to the parent's enumeration line."
+              },
+              "term": {
+                "type": "string",
+                "description": "The verbatim announced term within that line to wrap (minimal structural term only — no particles or count words)."
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -335,3 +335,4 @@ Full rules in [`../3-TRANSFORMATIONS/About Transformations.md`](../3-TRANSFORMAT
 |---|---|
 | Summarise a verse or chapter for a specific audience | `multilevel-summary` |
 ary` |
+| Localize Tibetan terms into En/Zh/Hin/Nep/Rus/Mon | `BAC-Term-Localization` |

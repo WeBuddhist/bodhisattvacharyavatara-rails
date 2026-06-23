@@ -28,22 +28,23 @@ This skill populates the **Meaning** column of `2-RAILS/Local-Wiki/BCA-Term-Loca
 Every definitional hit — whether from one commentary or many — is written into the same Meaning cell using this format:
 
 ```
-[commentary-short-name]ནས་「[verbatim explanation text]」ཞེས་གསུངས་སོ།།
+[short-name] "[verbatim explanation text]" ཞེས་གསུངས་སོ།། ([1-SOURCES/Commentaries/<filename> > ^<block-id>](1-SOURCES/Commentaries/<filename>#^<block-id>))
 ```
 
 When multiple hits exist (from the same or different commentaries), list each one on its own line inside the cell, one after the other:
 
 ```
-[commentary-A-short-name]ནས་「[verbatim explanation text A]」ཞེས་གསུངས་སོ།།
-[commentary-B-short-name]ནས་「[verbatim explanation text B]」ཞེས་གསུངས་སོ།།
-[commentary-C-short-name]ནས་「[verbatim explanation text C]」ཞེས་གསུངས་སོ།།
+[commentary-A-short-name] "[verbatim explanation text A]" ཞེས་གསུངས་སོ།། ([1-SOURCES/Commentaries/<filename-A> > ^<block-id-A>](1-SOURCES/Commentaries/<filename-A>#^<block-id-A>))
+[commentary-B-short-name] "[verbatim explanation text B]" ཞེས་གསུངས་སོ།། ([1-SOURCES/Commentaries/<filename-B> > ^<block-id-B>](1-SOURCES/Commentaries/<filename-B>#^<block-id-B>))
 ```
 
 There is no special treatment for single vs. multiple hits — the format is identical; additional entries are simply appended as additional lines.
 
-**`[commentary-short-name]`** is the registered short ID for the commentary as declared in the file's frontmatter (`id:` or `short_id:` field). If no short ID is declared, use the filename stem without the language tag.
+**`[short-name]`** is the registered short ID for the commentary as declared in the file's frontmatter (`id:` or `short_id:` field). If no short ID is declared, use the filename stem without the language tag.
 
-**`[verbatim explanation text]`** is the exact text extracted from the commentary, beginning immediately after the definitional marker (`ནི་`, `ཞེས་པ་ནི་`, or `ཅེས་པ་ནི་`) and ending at the first sentence-final punctuation (`།།`, `།`, or the next structural boundary). Do not include the marker itself in the quotation.
+**`"[verbatim explanation text]"`** is enclosed in standard double quotation marks `"..."`. The text is the exact content extracted from the commentary, beginning immediately after the definitional marker (`ནི་`, `ཞེས་པ་ནི་`, or `ཅེས་པ་ནི་`) and ending at the first sentence-final punctuation (`།།`, `།`, or the next structural boundary). Do not include the marker itself in the quotation.
+
+**The citation** is a markdown hyperlink: display text is `<filename> > ^<block-id>` and the href is `<filename>#^<block-id>`, wrapped in parentheses after ཞེས་གསུངས་སོ།།
 
 ---
 
@@ -51,12 +52,11 @@ There is no special treatment for single vs. multiple hits — the format is ide
 
 Search for these patterns in commentary files, where `{TERM}` is the exact Tibetan string of the target term:
 
-| Pattern | Example |
-|---|---|
-| `{TERM}ནི་` | `སེམས་བསྐྱེད་པ་ནི་` |
-| `{TERM}་ནི་` | (with tsheg before ནི་) |
-| `{TERM}ཞེས་པ་ནི་` | `སེམས་བསྐྱེད་པ་ཞེས་པ་ནི་` |
-| `{TERM}ཅེས་པ་ནི་` | `སེམས་བསྐྱེད་པ་ཅེས་པ་ནི་` |
+| Pattern         | Example                 |
+| --------------- | ----------------------- |
+| `{TERM}་ནི་`    | (with tsheg before ནི་) |
+| `{TERM}ཞེས་པ་`  | `སེམས་བསྐྱེད་པ་ཞེས་པ་`  |
+| `{TERM}ཅེས་པ་་` | `སེམས་བསྐྱེད་པ་ཅེས་པ་`  |
 
 Accept the pattern anywhere in a paragraph — not only at the start of a sentence. A hit is valid only when the term is followed immediately (without intervening words) by one of these markers.
 
@@ -69,7 +69,7 @@ Accept the pattern anywhere in a paragraph — not only at the start of a senten
 3. **No interpretation.** Do not choose between two passages on the basis of which is "better" or "clearer". Include all valid hits, each as its own quotation line.
 4. **Do not touch any cell other than Meaning.** The Bo, En, Zh, Hin, Nep, Rus, Mon columns are not modified by this skill.
 5. **Do not overwrite non-empty Meaning cells without explicit instruction.** If a Meaning cell already contains text, skip that row unless the user explicitly asks to overwrite or append.
-6. **Cite every quotation to its block ID.** After each Meaning cell entry, append a parenthetical block reference on the same line: `([[1-SOURCES/Commentaries/<filename>.md#^<block-id>]])`. This is required even when the cell is inside a table — use the inline citation form, not a footnote.
+6. **Cite every quotation to its block ID.** After ཞེས་གསུངས་སོ།། append a markdown hyperlink in parentheses: `([1-SOURCES/Commentaries/<filename> > ^<block-id>](1-SOURCES/Commentaries/<filename>#^<block-id>))`. Use the inline citation form — no footnotes.
 7. **Use the commentary short ID, not the full filename.** Check the frontmatter of each commentary file for a registered `id:` or `short_id:` before constructing the quotation frame.
 8. **Do not modify `1-SOURCES/` files.** This skill reads commentaries but never writes to them.
 
@@ -107,7 +107,7 @@ For each hit recorded in Step 3:
 1. Look up the commentary short name from the table built in Step 2.
 2. Construct the quotation entry:
    ```
-   [short-name]ནས་「[verbatim text]」ཞེས་གསུངས་སོ།། ([[1-SOURCES/Commentaries/<filename>#^<block-id>]])
+   [short-name] "[verbatim text]" ཞེས་གསུངས་སོ།། ([1-SOURCES/Commentaries/<filename> > ^<block-id>](1-SOURCES/Commentaries/<filename>#^<block-id>))
    ```
 3. If multiple hits exist for the same term, order them by commentary (alphabetical by short name) unless the user specifies an order.
 
@@ -132,8 +132,8 @@ After processing, report:
 ## Completion check
 
 - [ ] Only the Meaning column was modified; all other columns are unchanged
-- [ ] Every filled Meaning cell contains only verbatim text from a commentary, framed with `[short-name]ནས་「…」ཞེས་གསུངས་སོ།།`
-- [ ] Every quotation entry includes the block-ID citation in parentheses
+- [ ] Every filled Meaning cell contains only verbatim text from a commentary, framed with `[short-name] "…" ཞེས་གསུངས་སོ།།`
+- [ ] Every quotation entry includes the block-ID as a markdown hyperlink in parentheses: `([filename > ^id](filename#^id))`
 - [ ] No Meaning cell was overwritten unless the user explicitly authorised it
 - [ ] Terms with no definitional hit are left blank (not filled with a note or placeholder)
 - [ ] No file in `1-SOURCES/` was modified

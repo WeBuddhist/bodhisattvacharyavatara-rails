@@ -656,6 +656,10 @@ def _leading_tibetan_ordinal_word(text: str):
 # title cannot continue into the next). Kept so the ordinal check only credits
 # WHOLE-title occurrences, never a title that is merely the prefix of a longer one.
 _BOUND = "§"
+# Precompiled char-class patterns (kept out of f-strings: Python < 3.12 forbids
+# backslashes inside f-string literals).
+_SHAD_OR_NEWLINE_RE = "[" + _SHAD_CHARS + "\r\n]+"
+_TSHEG_BOUND_CLASS = "[" + _TSHEG + _BOUND + "]"
 
 
 def _canon(s: str) -> str:
@@ -674,7 +678,7 @@ def _canon(s: str) -> str:
     # trailing / inline block IDs
     s = re.sub(r"\^[\w\-]+", "", s)
     # shad/danda family and newlines become a boundary sentinel
-    s = re.sub(f"[{_SHAD_CHARS}\\r\\n]+", _BOUND, s)
+    s = re.sub(_SHAD_OR_NEWLINE_RE, _BOUND, s)
     # drop remaining whitespace; keep tsheg + letters/digits + sentinel
     s = re.sub(r"[ \t]+", "", s)
     # collapse runs of tsheg / sentinels; drop tsheg adjacent to a sentinel
@@ -727,24 +731,51 @@ def _title_bigram_coverage(topic_canon: str, corpus_canon: str) -> float:
     return len(covered) / len(sylls)
 
 
+def _title_boundary_after(corpus_canon: str, j: int) -> bool:
+    """True if position `j` (just past a title occurrence) is a place a title can
+    legitimately end: end-of-corpus, a shad boundary, or a trailing grammatical
+    particle. This rejects occurrences where the matched topic is only the PREFIX
+    of a longer compound title (followed by another content syllable)."""
+    if j >= len(corpus_canon):
+        return True
+    if corpus_canon[j] == _BOUND:
+        return True
+    if corpus_canon[j] == _TSHEG:
+        rest = corpus_canon[j + 1:]
+        nxt = re.split(_TSHEG_BOUND_CLASS, rest, maxsplit=1)[0]
+        return nxt in _TRAILING_PARTICLES
+    return False
+
+
 def _observed_ordinals_before(topic_canon: str, corpus_canon: str):
-    """Return the set of ordinal integers that immediately precede `topic_canon`
-    wherever it occurs in the corpus (i.e. the ordinal the source actually attaches
-    to this title). Empty set means the title is never directly ordinal-led."""
+    """Return the set of ordinal integers the source actually attaches to this
+    WHOLE title. An occurrence counts only when (a) the topic ends at a title
+    boundary (not a prefix of a longer title) and (b) an ordinal word directly
+    precedes it at a header boundary (start, or just after a shad). Empty set means
+    the title is never directly ordinal-led — in which case we do NOT flag, since
+    the ordinal may legitimately come from a parent announcement."""
     observed = set()
     if not topic_canon:
         return observed
+    L = len(topic_canon)
     start = 0
     while True:
         i = corpus_canon.find(topic_canon, start)
         if i == -1:
             break
-        before = corpus_canon[max(0, i - 12):i].rstrip(_TSHEG)
+        start = i + 1
+        if not _title_boundary_after(corpus_canon, i + L):
+            continue
+        before = corpus_canon[:i].rstrip(_TSHEG)
         for word, num in _TIB_ORDINALS:          # longest-first
             if before.endswith(word):
-                observed.add(num)
+                k = len(before) - len(word)
+                # Credit the ordinal unless it is glued to a preceding syllable by a
+                # tsheg (i.e. it is mid-compound, not opening a header). A shad
+                # sentinel, a label/colon, or start-of-text all mean "header opens".
+                if k == 0 or before[k - 1] != _TSHEG:
+                    observed.add(num)
                 break
-        start = i + 1
     return observed
 
 

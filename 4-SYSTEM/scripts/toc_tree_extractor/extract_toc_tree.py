@@ -384,7 +384,7 @@ decimal-numbered TOC tree, a list of QC ISSUES found by an automated checker, th
 VERBATIM ENUMERATION BLOCKS (the sa-bcad division announcements), and the SECTION
 CANDIDATES (the section headers extracted from the text). Produce a CORRECTED tree.
 
-The QC pass FOCUSES ON THREE THINGS — do these and little else:
+The QC pass FOCUSES ON FOUR THINGS — do these and little else:
 
 1. NUMBERING vs TIBETAN ORDINALS — make the decimal numbering agree with the Tibetan
    ordinal at the start of each node's text (དང་པོ་=1, གཉིས་པ་=2, གསུམ་པ་=3, བཞི་པ་=4,
@@ -406,6 +406,20 @@ The QC pass FOCUSES ON THREE THINGS — do these and little else:
    candidates (what was actually found in the text). Match names by MEANING and shared core
    words, not exact strings (inserted/dropped qualifiers like ཅུང་ཟད་, near-synonym verbs,
    added/removed ནི། པ་ འོ།). Do not duplicate a node that already exists under a varied name.
+
+4. NO HALLUCINATED NODES — every node's TITLE and its leading Tibetan ORDINAL must
+   correspond to a real string in the ENUMERATIONS or SECTION CANDIDATES. The checker flags:
+     - "title not attested ... possible hallucination": the node's topic words do NOT occur
+       in candidates/enumerations. Either it is a real section recorded under different
+       wording (find the matching candidate/enumeration string by meaning and REPLACE the
+       node's text with that attested wording), or it is invented — in which case DELETE the
+       node and renumber its siblings.
+     - "ordinal N not attested for this title": the title exists in the source but with a
+       DIFFERENT ordinal (or none). Correct the node's Tibetan ordinal to the one the source
+       attaches to that title, then fix the decimal to agree. Never keep an ordinal the
+       source did not put on that title.
+   Do NOT invent titles or ordinals to satisfy a count; only insert parts that are actually
+   present in the enumerations/candidates.
 
 ALSO tidy: indentation must be 3 spaces × (depth − 1); remove duplicate decimals; repair
 malformed lines. Each entry must be the TITLE ONLY — strip any trailing division clause
@@ -590,6 +604,14 @@ def repair_tree(client, model, commentary_id, tree_text, issues_text,
 
 # ------------------------------------------------------------------------------
 # Deterministic TOC-tree QC checker (no API calls)
+#
+# Two kinds of checks:
+#   (a) internal consistency — indentation, decimal-vs-Tibetan-ordinal agreement,
+#       duplicate decimals, and gap-free sibling sequences.
+#   (b) attestation — every node's TITLE and leading ORDINAL must correspond to an
+#       actual string in the candidates + enumerations corpus. This is what catches
+#       Gemini hallucinations: invented sections, reworded-away titles, or ordinals
+#       the source never attached to a given title.
 # ------------------------------------------------------------------------------
 # Tibetan ordinals -> integer, longest forms first so e.g. བཅུ་གཅིག་པ matches before བཅུ་པ.
 _TIB_ORDINALS = [
@@ -602,21 +624,195 @@ _TREE_LINE_RE = re.compile(
     r"(?P<text>.*?)(?:\s*\^toc-[\d-]+)?\s*$"
 )
 
+# Min fraction of a title's Tibetan-syllable bigrams that must be found in the
+# candidates+enumerations corpus before we accept a reworded (non-verbatim) title
+# as "attested". Below this, the title is flagged as a possible hallucination.
+TITLE_COVERAGE_MIN = 0.5
+
+# Tsheg (syllable separator) and the shad / danda family we strip when canonicalising.
+_TSHEG = "་"
+_SHAD_CHARS = "།༎༏༐༑༒༔༺༻༼༽༄༅"
+# Trailing grammatical particles a tree title may carry that the source string need
+# not — stripped (once) only for the purpose of fuzzy matching, never from the tree.
+_TRAILING_PARTICLES = ["ནི", "ལ", "འོ", "པོ", "པ", "སྟེ", "ཏེ", "དང", "གོ", "ངོ", "ནོ", "བོ", "མོ"]
+
 
 def _leading_tibetan_ordinal(text: str):
     """Return the integer value of the leading Tibetan ordinal, or None."""
+    word, num = _leading_tibetan_ordinal_word(text)
+    return num
+
+
+def _leading_tibetan_ordinal_word(text: str):
+    """Return (word, int) for the leading Tibetan ordinal, or (None, None)."""
     t = text.lstrip(" *#\t")
     for word, num in _TIB_ORDINALS:
         if t.startswith(word):
-            return num
-    return None
+            return word, num
+    return None, None
 
 
-def qc_check_tree(tree_text: str):
-    """Return a list of human-readable QC issue strings for a TOC tree (deterministic)."""
+# Sentinel marking a shad / line boundary in canonical form (a place where one
+# title cannot continue into the next). Kept so the ordinal check only credits
+# WHOLE-title occurrences, never a title that is merely the prefix of a longer one.
+_BOUND = "§"
+
+
+def _canon(s: str) -> str:
+    """Canonical form for robust Tibetan substring matching.
+
+    Removes wiki-link wrappers and block IDs and all whitespace, KEEPS the tsheg
+    (་) as a syllable separator, and REPLACES every shad/danda (line/clause
+    boundary) with a single sentinel `§`. Matching is then insensitive to spacing
+    while still knowing where one title stops and the next begins.
+    """
+    if not s:
+        return ""
+    # [[#^id|display]] / [[file#^id|display]] -> display
+    s = re.sub(r"\[\[[^\]|]*\|([^\]]*)\]\]", r"\1", s)
+    s = re.sub(r"\[\[([^\]]*)\]\]", r"\1", s)
+    # trailing / inline block IDs
+    s = re.sub(r"\^[\w\-]+", "", s)
+    # shad/danda family and newlines become a boundary sentinel
+    s = re.sub(f"[{_SHAD_CHARS}\\r\\n]+", _BOUND, s)
+    # drop remaining whitespace; keep tsheg + letters/digits + sentinel
+    s = re.sub(r"[ \t]+", "", s)
+    # collapse runs of tsheg / sentinels; drop tsheg adjacent to a sentinel
+    s = re.sub(_TSHEG + "+", _TSHEG, s)
+    s = re.sub(f"{_TSHEG}*{_BOUND}+{_TSHEG}*", _BOUND, s)
+    return s.strip(_TSHEG + _BOUND)
+
+
+def _strip_leading_ordinal(text: str) -> str:
+    """Return the title text with its leading Tibetan ordinal word removed."""
+    word, _ = _leading_tibetan_ordinal_word(text)
+    if not word:
+        return text.strip()
+    t = text.lstrip(" *#\t")
+    t = t[len(word):]
+    return t.lstrip(_TSHEG + " ")
+
+
+def _strip_trailing_particle(canon_topic: str) -> str:
+    """Strip one trailing grammatical particle (for fuzzy matching only)."""
+    for p in _TRAILING_PARTICLES:
+        if canon_topic.endswith(_TSHEG + p) or canon_topic == p:
+            return canon_topic[: -len(p)].rstrip(_TSHEG)
+    return canon_topic
+
+
+def _title_bigram_coverage(topic_canon: str, corpus_canon: str) -> float:
+    """Fraction of the topic's syllables covered by a contiguous bigram present in
+    the corpus.
+
+    Using *syllable coverage by matched bigrams* (rather than the raw fraction of
+    bigrams matched) tolerates a legitimately inserted qualifier — e.g. a node
+    header that adds ཅུང་ཟད་ to an enumeration's མཚན་དོན་བཤད་པ — because only the
+    qualifier's own syllables go uncovered, while the surrounding contiguous runs
+    still match. An invented title, by contrast, has no contiguous run in the
+    source and scores near zero. Requiring CONTIGUOUS bigrams (not scattered single
+    syllables) avoids false "attested" verdicts from common grammatical syllables
+    that happen to appear somewhere in a large corpus.
+    """
+    sylls = [x for x in topic_canon.split(_TSHEG) if x]
+    if not sylls:
+        return 0.0
+    if len(sylls) == 1:
+        return 1.0 if sylls[0] in corpus_canon else 0.0
+    covered = set()
+    for i in range(len(sylls) - 1):
+        if (sylls[i] + _TSHEG + sylls[i + 1]) in corpus_canon:
+            covered.add(i)
+            covered.add(i + 1)
+    return len(covered) / len(sylls)
+
+
+def _observed_ordinals_before(topic_canon: str, corpus_canon: str):
+    """Return the set of ordinal integers that immediately precede `topic_canon`
+    wherever it occurs in the corpus (i.e. the ordinal the source actually attaches
+    to this title). Empty set means the title is never directly ordinal-led."""
+    observed = set()
+    if not topic_canon:
+        return observed
+    start = 0
+    while True:
+        i = corpus_canon.find(topic_canon, start)
+        if i == -1:
+            break
+        before = corpus_canon[max(0, i - 12):i].rstrip(_TSHEG)
+        for word, num in _TIB_ORDINALS:          # longest-first
+            if before.endswith(word):
+                observed.add(num)
+                break
+        start = i + 1
+    return observed
+
+
+def _attestation_issues(lineno, dec, text, ord_word, ordn, corpus_canon):
+    """Check one node's title + ordinal against the candidates/enumerations corpus.
+
+    Returns a list of issue strings (possibly empty). Three things must correspond
+    to the actual extracted strings:
+      1. the node TITLE (topic) must appear in candidates/enumerations;
+      2. the leading Tibetan ORDINAL must be the one the source attaches to that
+         title (not an invented or altered number);
+      3. (numbering vs ordinal is checked separately, deterministically.)
+    """
+    out = []
+    disp_canon = _canon(text)
+    if not disp_canon:
+        return out
+
+    # Tier 1 — the exact display (ordinal + title) appears verbatim. Fully attested.
+    if disp_canon in corpus_canon:
+        return out
+
+    topic_canon = _canon(_strip_leading_ordinal(text))
+    topic_for_match = topic_canon
+    found_topic = bool(topic_canon) and topic_canon in corpus_canon
+    if not found_topic and topic_canon:
+        # allow one trailing grammatical particle to differ (titles vs source)
+        trimmed = _strip_trailing_particle(topic_canon)
+        if trimmed and trimmed in corpus_canon:
+            topic_for_match, found_topic = trimmed, True
+
+    # Tier 2 — title attested; verify the ordinal the source attaches to it.
+    if found_topic:
+        if ord_word is not None:
+            observed = _observed_ordinals_before(topic_for_match, corpus_canon)
+            if observed and ordn not in observed:
+                shown = ", ".join(str(x) for x in sorted(observed))
+                out.append(
+                    f"L{lineno}: ordinal {ordn} ({ord_word}) not attested for this "
+                    f"title in candidates/enumerations (source attaches: {shown})  "
+                    f"->  {dec} {text[:40]}"
+                )
+        return out
+
+    # Tier 3 — title not found verbatim. Fall back to fuzzy syllable coverage.
+    coverage = _title_bigram_coverage(topic_canon or disp_canon, corpus_canon)
+    if coverage < TITLE_COVERAGE_MIN:
+        out.append(
+            f"L{lineno}: title not attested in candidates/enumerations "
+            f"(coverage {coverage:.0%}) — possible hallucination  ->  "
+            f"{dec} {text[:50]}"
+        )
+    return out
+
+
+def qc_check_tree(tree_text: str, corpus_text: str = ""):
+    """Return a list of human-readable QC issue strings for a TOC tree (deterministic).
+
+    When `corpus_text` (the merged candidates + enumerations) is supplied, each node
+    is additionally checked against the ACTUAL extracted strings: its title text and
+    its leading Tibetan ordinal must be attested in candidates/enumerations. This
+    catches hallucinated nodes, invented titles, and ordinals the source never
+    attached to a title — the things Gemini tends to make up.
+    """
     issues = []
     seen = {}
     parsed = []  # (lineno, segs_tuple)
+    corpus_canon = _canon(corpus_text) if corpus_text else ""
     for lineno, raw in enumerate(tree_text.splitlines(), 1):
         if not re.match(r"^\s*\*\s", raw):
             continue  # not a tree entry (header, ---, blank, etc.)
@@ -634,7 +830,7 @@ def qc_check_tree(tree_text: str):
         if indent != 3 * (depth - 1):
             issues.append(f"L{lineno}: indent {indent} spaces != expected "
                           f"{3 * (depth - 1)} for depth {depth} ({dec})")
-        ordn = _leading_tibetan_ordinal(text)
+        ord_word, ordn = _leading_tibetan_ordinal_word(text)
         if ordn is not None and ordn != last:
             issues.append(f"L{lineno}: Tibetan ordinal = {ordn} but decimal last "
                           f"segment = {last}  ->  {dec} {text[:40]}")
@@ -642,6 +838,13 @@ def qc_check_tree(tree_text: str):
             issues.append(f"L{lineno}: duplicate decimal {dec} (also at L{seen[dec]})")
         else:
             seen[dec] = lineno
+
+        # ---- attestation against candidates + enumerations ----
+        if corpus_canon:
+            issues.extend(
+                _attestation_issues(lineno, dec, text, ord_word, ordn, corpus_canon)
+            )
+
         parsed.append((lineno, tuple(int(s) for s in segs)))
 
     # sibling-sequence check: each parent's children must be 1..n with no gaps/dups
@@ -899,7 +1102,10 @@ def main():
     if not args.no_qc:
         print()
         print("QC — checking the TOC tree ...", flush=True)
-        issues_before = qc_check_tree(tree_body)
+        # The corpus QC matches every node's title + ordinal against the ACTUAL
+        # extracted strings (candidates + enumerations), catching hallucinations.
+        qc_corpus = candidates_doc + "\n" + enumerations_text
+        issues_before = qc_check_tree(tree_body, corpus_text=qc_corpus)
         print(f"  {len(issues_before)} issue(s) found.")
 
         repaired = False
@@ -912,7 +1118,7 @@ def main():
                                 candidates_text=candidates_doc,
                                 fallback_model=args.fallback_model)
             if fixed:
-                issues_after = qc_check_tree(fixed)
+                issues_after = qc_check_tree(fixed, corpus_text=qc_corpus)
                 tree_body = fixed
                 tree_file.write_text(tree_frontmatter + tree_body.rstrip() + "\n",
                                      encoding="utf-8")

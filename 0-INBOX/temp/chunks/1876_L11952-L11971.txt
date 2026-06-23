@@ -1,3 +1,0 @@
-# CHUNK 1876 | source lines 11952-11971 of 11971
-# Each line is prefixed with its 1-based line number.
-

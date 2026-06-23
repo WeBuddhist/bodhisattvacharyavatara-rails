@@ -237,3 +237,9 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 **Inputs:** One or more terms from the Bo column of `2-RAILS/Local-Wiki/BCA-Term-Localization.md`; all commentary files under `1-SOURCES/Commentaries/`.
 **Outputs:** `2-RAILS/Local-Wiki/BCA-Term-Localization.md` updated in place — Meaning cells filled with verbatim quotations framed as `[short-name]ནས་「…」ཞེས་གསུངས་སོ།།` with inline block-ID citations.
 → [`BCA-Term-Definition/SKILL.md`](BCA-Term-Definition/SKILL.md)
+
+### `BAC-Term-Localization` **[exists]**
+**Purpose:** Translate Tibetan Buddhist key terms in BCA-Term-Localization.md into English, Chinese, Hindi, Nepali, Russian, and Mongolian, deriving each rendering from the commentary-based Meaning column.
+**Inputs:** One or more terms (or "all") from the Bo column of `2-RAILS/Local-Wiki/BCA-Term-Localization.md`; target languages (default: all six); the Meaning column as the disambiguating source.
+**Outputs:** `2-RAILS/Local-Wiki/BCA-Term-Localization.md` updated in place — En, Zh, Hin, Nep, Rus, Mon cells filled with contextually accurate renderings; novel renderings flagged with `*`.
+→ [`BAC-Term-Localization/SKILL.md`](BAC-Term-Localization/SKILL.md)

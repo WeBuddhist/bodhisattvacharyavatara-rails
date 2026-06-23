@@ -231,3 +231,9 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 **Inputs:** Scope type (`verse` or `chapter`), scope ID (verse ID such as `1-1`, or chapter number/name), and audience (`kids`, `general`, or `academic`).
 **Outputs:** One summary file at `3-TRANSFORMATIONS/Adaptations/multilevel-summaries/<audience>/verse-<chapter-verse>.md` or `…/chapter-<N>.md`, with Obsidian segment-links to all commentary blocks used.
 → [`multilevel-summary/SKILL.md`](multilevel-summary/SKILL.md)
+
+### `BCA-Term-Definition` **[exists]**
+**Purpose:** Extract verbatim definitions of key terms from Tibetan commentaries and fill them into the Meaning column of `BCA-Term-Localization.md`, formatted in traditional Tibetan quotation style.
+**Inputs:** One or more terms from the Bo column of `2-RAILS/Local-Wiki/BCA-Term-Localization.md`; all commentary files under `1-SOURCES/Commentaries/`.
+**Outputs:** `2-RAILS/Local-Wiki/BCA-Term-Localization.md` updated in place — Meaning cells filled with verbatim quotations framed as `[short-name]ནས་「…」ཞེས་གསུངས་སོ།།` with inline block-ID citations.
+→ [`BCA-Term-Definition/SKILL.md`](BCA-Term-Definition/SKILL.md)

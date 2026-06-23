@@ -1,0 +1,65 @@
+{
+  "source_file": "0-INBOX/com_segmentation/segmented/bo-མཁན་པོ་ཀུན་དགའ་དབང་ཕྱུག.md",
+  "_note": "Worked example of the Phase-1 raw candidate artifact (a real 3-level slice of the patience chapter). Flat, document-order, NO depth yet. Lines that are BOTH a title and an enumeration appear as two records at the same line. Step 4 joins these into the annotation tree.",
+  "candidates": [
+    {
+      "line": 4997,
+      "type": "enumeration",
+      "count": 2,
+      "parent_marker": "གཉིས་པ་བཟོད་པ་སྒོམ་པའི་ཚུལ་དངོས་བསྟན་པ་",
+      "children": [
+        "མི་འདོད་པ་བྱེད་པ་ལ་བཟོད་པ་སྒོམ་པ་",
+        "འདོད་པའི་གེགས་བྱེད་པ་ལ་བཟོད་པ་སྒོམ་པ་"
+      ],
+      "text": "གཉིས་པ་བཟོད་པ་སྒོམ་པའི་ཚུལ་དངོས་བསྟན་པ་ལ་གཉིས། མི་འདོད་པ་བྱེད་པ་ལ་བཟོད་པ་སྒོམ་པ་དང༌། འདོད་པའི་གེགས་བྱེད་པ་ལ་བཟོད་པ་སྒོམ་པའོ། །"
+    },
+
+    {
+      "line": 4999,
+      "type": "title",
+      "ordinal": 1,
+      "name": null,
+      "carries_enum": true,
+      "restatement": "དང་པོ་",
+      "text": "དང་པོ་ལ་བཞི། བདག་ལ་སྡུག་བསྔལ་བྱེད་པ་ལ་བཟོད་པ་དང་། ...",
+      "_join": "ordinal-only title -> name resolved from L4997.children[0] = མི་འདོད་པ་བྱེད་པ་ལ་བཟོད་པ་སྒོམ་པ་"
+    },
+    {
+      "line": 4999,
+      "type": "enumeration",
+      "count": 4,
+      "parent_marker": "དང་པོ་",
+      "children": [
+        "བདག་ལ་སྡུག་བསྔལ་བྱེད་པ་ལ་བཟོད་པ་",
+        "བདག་ལ་བརྙས་བཅོས་བྱེད་པ་ལ་བཟོད་པ་",
+        "བདག་གི་བཤེས་ལ་མི་འདོད་པ་བྱེད་པ་ལ་བཟོད་པ་",
+        "བདག་གི་དགྲ་ལ་ལེགས་པར་བྱེད་པ་ལ་བཟོད་པ་སྒོམ་པ་"
+      ],
+      "text": "དང་པོ་ལ་བཞི། བདག་ལ་སྡུག་བསྔལ་བྱེད་པ་ལ་བཟོད་པ་དང་། བདག་ལ་བརྙས་བཅོས་བྱེད་པ་ལ་བཟོད་པ་དང༌། བདག་གི་བཤེས་ལ་མི་འདོད་པ་བྱེད་པ་ལ་བཟོད་པ་དང་།",
+      "_note": "count 4 but only 3 names on line 4999; the 4th (བདག་གི་དགྲ་...) continues at line 5001 after a segmentation break. Children are gathered across the continuation, not just the head line."
+    },
+
+    {
+      "line": 5003,
+      "type": "title",
+      "ordinal": 1,
+      "name": null,
+      "carries_enum": true,
+      "restatement": "དང་པོ་",
+      "text": "དང་པོ་ལ་གསུམ། སྡུག་བསྔལ་དང་ལེན་གྱིས་བཟོད་པ་སྒོམ་པ། ...",
+      "_join": "ordinal-only title -> name resolved from L4999.children[0] = བདག་ལ་སྡུག་བསྔལ་བྱེད་པ་ལ་བཟོད་པ་"
+    },
+    {
+      "line": 5003,
+      "type": "enumeration",
+      "count": 3,
+      "parent_marker": "དང་པོ་",
+      "children": [
+        "སྡུག་བསྔལ་དང་ལེན་གྱིས་བཟོད་པ་སྒོམ་པ་",
+        "ཆོས་ལ་ངེས་པར་སེམས་པས་བཟོད་པ་སྒོམ་པ་",
+        "གནོད་བྱེད་ལ་ཇི་མི་སྙམ་པས་བཟོད་པ་སྒོམ་པ་"
+      ],
+      "text": "དང་པོ་ལ་གསུམ། སྡུག་བསྔལ་དང་ལེན་གྱིས་བཟོད་པ་སྒོམ་པ། ཆོས་ལ་ངེས་པར་སེམས་པས་བཟོད་པ་སྒོམ་པ། གནོད་བྱེད་ལ་ཇི་མི་སྙམ་པས་བཟོད་པ་སྒོམ་པའོ། །"
+    }
+  ]
+}

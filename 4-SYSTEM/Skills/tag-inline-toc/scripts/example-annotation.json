@@ -1,0 +1,41 @@
+{
+  "source_file": "0-INBOX/segmentation/example-commentary.md",
+  "sections": [
+    {
+      "depth": 1,
+      "heading_title": "དང་པོ།",
+      "body_start_context": "དང་པོ་ལ་བཞི་ལས།",
+      "restatement": "དང་པོ་"
+    },
+    {
+      "depth": 2,
+      "heading_title": "བསྒྱུར་བ།",
+      "body_start_context": "དང་པོ་བསྒྱུར་བ་ནི། ལེགས་པར",
+      "restatement": "དང་པོ་བསྒྱུར་བ་"
+    },
+    {
+      "depth": 2,
+      "heading_title": "བཤད་པ།",
+      "body_start_context": "གཉིས་པ་བཤད་པ་ནི་སྤངས",
+      "restatement": "གཉིས་པ་བཤད་པ་"
+    },
+    {
+      "depth": 2,
+      "heading_title": "འདོགས་ཚུལ།",
+      "body_start_context": "གསུམ་པ་འདོགས་ཚུལ་ནི་དཔེ",
+      "restatement": "གསུམ་པ་འདོགས་ཚུལ་"
+    },
+    {
+      "depth": 2,
+      "heading_title": "དགོས་པ།",
+      "body_start_context": "བཞི་པ་དགོས་པ་ལ་སྤྱིར",
+      "restatement": "བཞི་པ་དགོས་པ་"
+    },
+    {
+      "depth": 1,
+      "heading_title": "སྤྱིའི་ཕྱག།",
+      "body_start_context": "གཉིས་པ་སྤྱིའི་ཕྱག་ནི། གང་ཟག",
+      "restatement": "གཉིས་པ་སྤྱིའི་ཕྱག་"
+    }
+  ]
+}

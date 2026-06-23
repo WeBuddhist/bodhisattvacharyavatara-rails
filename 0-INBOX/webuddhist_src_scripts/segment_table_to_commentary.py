@@ -9,18 +9,19 @@ INPUT FORMAT: markdown table with | segment_number | segment_id | content | tags
 
 OUTPUT FORMAT:
   - YAML frontmatter (draft status; fill in author/registered_id after)
-  - Segment content flattened into one continuous prose run: no blank lines,
-    no internal line breaks. Every non-whitespace character is preserved —
-    only whitespace structure changes, asserted by a no-loss check before
-    writing (same principle as preclean_commentary.py).
+  - Segment content preserved verbatim - no whitespace reshaping at all.
+    Each segment is written exactly as it appears in the table cell, one
+    segment per line. A no-loss check before writing asserts every
+    non-whitespace character is preserved.
   - Empty-content segments are skipped entirely
-  - No block IDs, no inserted headings, no title heading — pure original text
+  - No block IDs, no inserted headings, no title heading - pure original text
   - Output written to 0-INBOX/temp/ for review before moving to 1-SOURCES/
 
 USAGE:
   python3 segment_table_to_commentary.py path/to/file.md
   python3 segment_table_to_commentary.py file1.md file2.md
   python3 segment_table_to_commentary.py path/to/folder/
+  python3 segment_table_to_commentary.py path/to/folder/ --recursive
   python3 segment_table_to_commentary.py file.md --outdir path/to/output/
 """
 
@@ -32,15 +33,9 @@ import sys
 
 def squeeze(s):
     """Collapse all whitespace (spaces, tabs, newlines) out of a string,
-    leaving only non-whitespace characters — used to verify no body text
-    was lost when flattening segment content."""
+    leaving only non-whitespace characters - used to verify no body text
+    was lost when assembling segment content."""
     return re.sub(r"\s+", "", s)
-
-
-def flatten(content):
-    """Collapse a segment's internal whitespace (including any embedded
-    line breaks or blank lines) into single spaces, trimmed."""
-    return re.sub(r"\s+", " ", content).strip()
 
 
 def parse_segment_table(path):
@@ -84,13 +79,13 @@ def build_frontmatter(title, text_id, input_filename, total_segments):
         "---\n"
         "title: " + title + "\n"
         'title_in_english: "[FILL IN]"\n'
-        'author: "[FILL IN — check colophon near end of file]"\n'
+        'author: "[FILL IN - check colophon near end of file]"\n'
         'author_in_english: "[FILL IN]"\n'
-        'registered_id: "[FILL IN — add to 4-SYSTEM/Guidelines/vault-annex.md]"\n'
+        'registered_id: "[FILL IN - add to 4-SYSTEM/Guidelines/vault-annex.md]"\n'
         "file_type: commentary\n"
         "language_tag: bo\n"
         "root_text: 1-SOURCES/Text/sk-dev-root-text.md\n"
-        'covers_verses: "[FILL IN e.g. 1-1–10-58]"\n'
+        'covers_verses: "[FILL IN e.g. 1-1-10-58]"\n'
         "source_description: >\n"
         "  Digital segment export (text_id " + text_id + "),\n"
         "  " + str(total_segments) + " segments. Converted from 0-INBOX/" + input_filename + "\n"
@@ -118,23 +113,22 @@ def convert_file(input_path, output_dir, overwrite=False, dry_run=False):
     title = extract_title_from_filename(input_path)
     frontmatter = build_frontmatter(title, text_id, input_path.name, len(rows))
 
-    flattened = []
+    segments = []
     non_empty = 0
     for seg_num, seg_id, content in rows:
-        c = flatten(content)
-        if c:
-            # Continuous prose: no blank lines, no internal line breaks.
-            flattened.append(c)
+        if content.strip():
+            # Preserve segment content verbatim, one segment per line.
+            segments.append(content)
             non_empty += 1
         # Empty-content segments are dropped entirely
-    body_text = " ".join(flattened)
+    body_text = "\n".join(segments)
     output_text = frontmatter + body_text + "\n"
 
     # No-loss guard: every non-whitespace character from the non-empty
-    # segments must still be present after flattening.
+    # segments must still be present in the output body.
     expected = squeeze("".join(c for _, _, c in rows if c.strip()))
     if squeeze(body_text) != expected:
-        print("  x ABORT: flattening altered body text. No file written.", file=sys.stderr)
+        print("  x ABORT: body text altered. No file written.", file=sys.stderr)
         return None
 
     output_dir.mkdir(parents=True, exist_ok=True)
@@ -156,13 +150,14 @@ def find_vault_root(start):
     return None
 
 
-def collect_input_files(paths):
+def collect_input_files(paths, recursive=False):
     result = []
     for p_str in paths:
         p = pathlib.Path(p_str).resolve()
         if p.is_dir():
-            found = sorted(p.glob("*.md"))
-            print("  Found " + str(len(found)) + " .md files in " + str(p))
+            found = sorted(p.rglob("*.md") if recursive else p.glob("*.md"))
+            scope = "recursively" if recursive else "(top level)"
+            print("  Found " + str(len(found)) + " .md files " + scope + " in " + str(p))
             result.extend(found)
         elif p.is_file():
             result.append(p)
@@ -179,9 +174,11 @@ def main():
     parser.add_argument("--outdir", default=None)
     parser.add_argument("--overwrite", action="store_true")
     parser.add_argument("--dry-run", action="store_true")
+    parser.add_argument("-r", "--recursive", action="store_true",
+                        help="Recurse into subfolders when a folder is given.")
     args = parser.parse_args()
 
-    input_files = collect_input_files(args.inputs)
+    input_files = collect_input_files(args.inputs, recursive=args.recursive)
     if not input_files:
         print("No input files found.", file=sys.stderr)
         sys.exit(1)

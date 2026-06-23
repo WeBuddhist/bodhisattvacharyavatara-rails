@@ -64,7 +64,7 @@ Accept the pattern anywhere in a paragraph — not only at the start of a senten
 
 ## Rules
 
-1. **No original writing.** The Meaning cell contains only verbatim text from the source commentary plus the fixed frame words (`ནས་`, `ཞེས་གསུངས་སོ།།`). If a term has no definitional hit in any commentary, leave the Meaning cell empty and move to the next term. Do not write a placeholder, a note, or a summary.
+1. **No original writing.** The Meaning cell contains only verbatim text from the source commentary plus the fixed frame words (`ཞེས་གསུངས་སོ།།`). If a term has no definitional hit in any commentary, leave the Meaning cell empty and move to the next term. Do not write a placeholder, a note, or a summary.
 2. **Verbatim extraction only.** Copy the explanation exactly as it appears in the commentary. Do not correct spelling, normalise orthography, or truncate for length unless a passage runs more than three sentences — in that case, take only the first complete sentence after the marker.
 3. **No interpretation.** Do not choose between two passages on the basis of which is "better" or "clearer". Include all valid hits, each as its own quotation line.
 4. **Do not touch any cell other than Meaning.** The Bo, En, Zh, Hin, Nep, Rus, Mon columns are not modified by this skill.

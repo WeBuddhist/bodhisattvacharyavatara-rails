@@ -25,19 +25,21 @@ This skill populates the **Meaning** column of `2-RAILS/Local-Wiki/BCA-Term-Loca
 
 ## Output cell format
 
-Each Meaning cell may contain one or more quotation entries. When multiple commentaries define the same term, list them one per line, separated by a single blank line.
+Every definitional hit — whether from one commentary or many — is written into the same Meaning cell using this format:
 
-Single-commentary format:
 ```
 [commentary-short-name]ནས་「[verbatim explanation text]」ཞེས་གསུངས་སོ།།
 ```
 
-Multi-commentary format (one entry per line):
+When multiple hits exist (from the same or different commentaries), list each one on its own line inside the cell, one after the other:
+
 ```
 [commentary-A-short-name]ནས་「[verbatim explanation text A]」ཞེས་གསུངས་སོ།།
-
 [commentary-B-short-name]ནས་「[verbatim explanation text B]」ཞེས་གསུངས་སོ།།
+[commentary-C-short-name]ནས་「[verbatim explanation text C]」ཞེས་གསུངས་སོ།།
 ```
+
+There is no special treatment for single vs. multiple hits — the format is identical; additional entries are simply appended as additional lines.
 
 **`[commentary-short-name]`** is the registered short ID for the commentary as declared in the file's frontmatter (`id:` or `short_id:` field). If no short ID is declared, use the filename stem without the language tag.
 
@@ -114,7 +116,7 @@ For each hit recorded in Step 3:
 1. Open `2-RAILS/Local-Wiki/BCA-Term-Localization.md`.
 2. For each processed term:
    a. Locate the row matching the Bo cell.
-   b. Replace the empty Meaning cell content with the formatted quotation entry (or entries, separated by `<br>` for multi-line within a single table cell, since markdown tables do not support literal newlines).
+   b. Replace the empty Meaning cell content with all formatted quotation entries for that term, each on its own line, in the order found (alphabetical by commentary short name unless the user specifies otherwise).
 3. Write the updated file back to disk.
 4. Do not reformat, reorder, or change spacing in any other part of the table.
 

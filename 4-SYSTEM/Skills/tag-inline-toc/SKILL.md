@@ -23,45 +23,48 @@ This implements the convention in CLAUDE.md §5b. The output is saved to `0-INBO
 
 ---
 
-## Architecture — why this skill is split in two
+## Architecture
 
-The work has two very different kinds of subtask, and conflating them is slow and error-prone:
+The work has two very different kinds of subtask:
 
-- **Linguistic judgment** — deciding which lines are sa bcad, and where each announced term begins and ends. This genuinely needs language understanding.
-- **Deterministic mechanics** — building the section tree, assigning `^N-…-0` block IDs, inserting heading lines, wrapping exact substrings, and proving no prose was altered. This is pure string manipulation and must NOT be done by hand.
+- **Linguistic judgment (Phase 1)** — finding the sa bcad phrases, reading what they mean, and assembling the section tree. This genuinely needs language understanding, and it is done **entirely by the model**.
+- **Deterministic mechanics (Phase 2)** — assigning `^N-…-0` block IDs, inserting heading lines, wrapping exact substrings, and proving no prose was altered. This is pure string manipulation and is done **entirely by a script**.
 
-So the skill runs in **two phases**:
+### Phase 1 is model-only — do NOT script the extraction
+
+Sa bcad detection has too many surface variants (counts that close with `།`/`་ལས།`/`་སྟེ།`/`་ཡོད་པ་ལས།`; names that contain internal `དང་`; titles that appear as ordinal-only, name-only, or ordinal+name; verse quotations that merely *look* like enumerations). A rule/regex extractor cannot separate genuine sa bcad from look-alikes, and cannot find verbatim term boundaries — every rule spawns three exceptions, and tuning it is an endless loop. **Phase 1 reads for meaning; it does not pattern-match with code.** The only script in this skill is the Phase-2 renderer.
+
+### Flow
 
 ```
   commentary.md
        │
-       ▼
-  [optional] find_sa_bcad.py  ── shortlist of candidate sa bcad lines
+       ▼  PHASE 1 — model, reading for meaning
+   1. Frame:      identify the top-level division + chapter boundaries (TOC of the TOC)
+   2. Extract:    per chapter (chunkable / parallel), list every sa bcad CANDIDATE of
+                  both types → a raw candidate artifact. No tree yet, no depth yet.
+   3. Review:     read the raw artifact once end-to-end; fix span boundaries, drop
+                  look-alikes, confirm counts.
+   4. Reconstruct: per chapter, JOIN the two candidate types into nodes and rebuild the
+                  tree (depth) by ordinal+count bookkeeping → the annotation (JSON).
        │
-       ▼
-  PHASE 1 (model)  ── read the file, emit an ANNOTATION (JSON):
-       │               ordered sections with depth, heading title,
-       │               exact body-start context, restatement, and
-       │               any announced-in-parent term. No IDs. No rewriting.
-       ▼
-  PHASE 2 (script) ── tag_inline_toc.py render:
-       │               assign block IDs from depth, insert headings,
-       │               wrap wikilinks by anchored exact match, and
-       │               PROVE existing prose is unchanged, then write.
+       ▼  PHASE 2 — script, tag_inline_toc.py render
+   5. Render:     assign block IDs from depth, insert headings, wrap wikilinks by anchored
+                  exact match, PROVE existing prose is unchanged, then write.
        ▼
   0-INBOX/temp/tagged-<filename>
 ```
 
 Because block IDs are assigned by code, depth-skipping and numbering bugs are impossible by construction. Because wraps are exact-substring and the result is diffed back against the source, silent transcription drift is caught and the run fails loudly. **The model never retypes Tibetan prose** — it only points at substrings that already exist.
 
-Scripts live in `scripts/`:
+### Files in `scripts/`
 
-| Script | Phase | Role |
+| File | Phase | Role |
 |---|---|---|
-| `scripts/find_sa_bcad.py` | pre-1 | Heuristic shortlist of candidate sa bcad / opening lines. Optional but recommended for long files. |
-| `scripts/tag_inline_toc.py` | 2 | Deterministic renderer + prose-integrity verifier. **Required.** |
-| `scripts/annotation.schema.json` | — | JSON schema for the Phase-1 annotation. |
+| `scripts/tag_inline_toc.py` | 2 | Deterministic renderer + prose-integrity verifier. **The only script.** |
+| `scripts/annotation.schema.json` | 1 → 2 | Schema for the **annotation** (Phase-1 final output / Phase-2 input). |
 | `scripts/example-annotation.json` | — | A worked example annotation. |
+| `scripts/example-candidates.json` | 1 | A worked example of the raw candidate artifact. |
 
 ---
 
@@ -114,114 +117,139 @@ Section-body restatement (the ordinal+title at the section opening links to its 
 
 ---
 
-## The annotation (Phase-1 output)
+## The two candidate types (the heart of Phase 1)
 
-The model produces a JSON file — an ordered list of sections, **in document order, top to bottom**. The script turns it into the tagged file. Full schema: `scripts/annotation.schema.json`. Worked example: `scripts/example-annotation.json`.
+Every node in the outline is described by **two different phrases**, in two different places, and you usually need **both** to fully reconstruct it:
+
+**Type 1 — child enumeration** (appears at a parent's start; announces the parent's children).
+A count, optionally followed by the children's names:
+```
+དང་པོ་ལའང་སྡུག་བསྔལ་མི་རྟག་སྟོང་བདག་མེད་བཞི་ཡོང་པ་ལས།     ← count 4, names: སྡུག་བསྔལ / མི་རྟག / སྟོང་ / བདག་མེད
+གཉིས་པ་མཚན་དོན་སྨོས་པའི་དགོས་པ་...ལ་གཉིས། དགོས་པ་དངོས་དང་། མཚན་བཏགས་པའི་དགོས་པའོ། །   ← count 2, two named children
+དང་པོ་ལ་གསུམ་སྟེ།                                        ← count 3, COUNT-ONLY (names supplied by the titles)
+```
+
+**Type 2 — in-location title** (appears at the *start of a child's own span*; marks where that child begins, and may carry the child's *own* Type-1 enumeration). Three surface forms:
+```
+གཉིས་པ་ནི།                  ← ordinal-only  (name must come from the parent enumeration)
+མི་རྟག་པ་ལ་                 ← name-only     (ordinal recovered by matching the name into the parent enum)
+མི་རྟག་པ་ལའང་གསུམ་ནི།       ← ordinal/name + its OWN enumeration (count 3) — Type 2 carrying a Type 1
+```
+
+So the `མི་རྟག` node's *name and sibling position* come from the parent's Type-1 enumeration (`...སྡུག་བསྔལ་མི་རྟག་སྟོང་བདག་མེད་བཞི...`), while its *location and any children* come from its Type-2 title (`མི་རྟག་པ་ལའང་གསུམ་ནི།`). Reconstruction (Step 4) is the **join** of these two views.
+
+**Not sa bcad — never a candidate:**
+- **Chapter label lines** `ལེའུ་[ordinal]། [desc]` are plain prose. (Note: a *chapter enumeration* like `Nth … ལེའུ་ལ་ གཉིས། ལེའུའི་གཞུང་ དང་ ལེའུའི་མཚན` IS a Type-1 enumeration — tag it; the bare label line is not.)
+- **Editorial markers** `N.N` (e.g. `1.1`, `8.17`) are verse locators. The sa bcad is the **first Tibetan line after** the marker.
+- **Verse quotations / ordinary prose** that merely contain `ལ་ … དང་ … <count>`. If it is a citation or a sentence that happens to list things, it is not sa bcad. This is a meaning call — make it.
+
+---
+
+## The raw candidate artifact (Phase-1 intermediate)
+
+A flat JSON list of every candidate, **in document order**, with no depth and no tree yet. One record per candidate. Worked example: `scripts/example-candidates.json`.
 
 ```json
 {
-  "source_file": "0-INBOX/segmentation/foo.md",
-  "sections": [
+  "source_file": "0-INBOX/.../foo.md",
+  "candidates": [
     {
-      "depth": 1,
-      "heading_title": "ལེའུ་དང་པོ།",
-      "body_start_context": "ལེའུ་དང་པོ་ལ་མདོར་བསྟན",
-      "restatement": "ལེའུ་དང་པོ་"
+      "line": 4999,
+      "type": "enumeration",
+      "count": 4,
+      "parent_marker": "དང་པོ་",
+      "children": ["བདག་ལ་སྡུག་བསྔལ་བྱེད་པ་", "བདག་ལ་བརྙས་བཅོས་བྱེད་པ་", "...", "..."],
+      "text": "དང་པོ་ལ་བཞི། བདག་ལ་སྡུག་བསྔལ་བྱེད་པ་ལ་བཟོད་པ་དང་། ..."
     },
     {
-      "depth": 2,
-      "heading_title": "མདོར་བསྟན་པ།",
-      "body_start_context": "དང་པོ་མདོར་བསྟན་པ་ནི",
-      "restatement": "དང་པོ་མདོར་བསྟན་པ་",
-      "announced_in_parent": { "context": "ལེའུ་དང་པོ་ལ་མདོར", "term": "མདོར་བསྟན་པ་" }
-    },
-    {
-      "depth": 2,
-      "heading_title": "རྒྱས་པར་བཤད་པ།",
-      "body_start_context": "གཉིས་པ་རྒྱས་པར་བཤད་པ་ནི",
-      "restatement": "གཉིས་པ་རྒྱས་པར་བཤད་པ་",
-      "announced_in_parent": { "context": "ལེའུ་དང་པོ་ལ་མདོར", "term": "རྒྱས་པར་བཤད་པ་" }
+      "line": 5003,
+      "type": "title",
+      "ordinal": 1,
+      "name": "བདག་ལ་སྡུག་བསྔལ་བྱེད་པ་",
+      "carries_enum": true,
+      "restatement": "དང་པོ་",
+      "text": "དང་པོ་ལ་གསུམ། སྡུག་བསྔལ་དང་ལེན་གྱིས་བཟོད་པ་སྒོམ་པ། ..."
     }
   ]
 }
 ```
 
-Per-section fields:
+Per-candidate fields:
+
+| Field | Applies to | Meaning |
+|---|---|---|
+| `line` | both | 1-based line number in the source (your anchor; lets you copy a verbatim, unique context later). |
+| `type` | both | `"enumeration"` (Type 1) or `"title"` (Type 2). |
+| `text` | both | The verbatim line (or the verbatim sa bcad span on it), copied exactly. |
+| `count` | enumeration | Integer the count word states. |
+| `parent_marker` | enumeration | The leading ordinal/name the enumeration is attached to, verbatim (may be just `དང་པོ་`, or a full `གཉིས་པ་NAME་`). |
+| `children` | enumeration | Verbatim name spans of the announced children, in order. Empty list if count-only. |
+| `ordinal` | title | 1-based position among siblings (`དང་པོ`=1 …), or `null` if name-only with no ordinal. |
+| `name` | title | Verbatim name span, or `null` if ordinal-only. |
+| `carries_enum` | title | `true` if this title line also declares its own children (a Type-2 carrying a Type-1; that Type-1 should also appear as its own `enumeration` record). |
+| `restatement` | title | The verbatim ordinal(+name) prefix at the body opening to self-link later. |
+
+All `text`/`children`/`name`/`restatement`/`parent_marker` strings must be **verbatim spans** — exact bytes from the source, never paraphrased. Loose spans pass here but fail the Phase-2 verbatim check.
+
+---
+
+## The annotation (Phase-1 final output → Phase-2 input)
+
+After the join+reconstruction, emit the annotation — an ordered list of sections **in document order**. This is unchanged from the renderer's contract; full schema: `scripts/annotation.schema.json`, worked example: `scripts/example-annotation.json`.
+
+```json
+{
+  "source_file": "0-INBOX/.../foo.md",
+  "sections": [
+    { "depth": 1, "heading_title": "ལེའུ་དང་པོ།", "body_start_context": "<verbatim line>", "restatement": "ལེའུ་དང་པོ་" },
+    { "depth": 2, "heading_title": "མདོར་བསྟན་པ།", "body_start_context": "<verbatim line>", "restatement": "དང་པོ་མདོར་བསྟན་པ་",
+      "announced_in_parent": { "context": "<verbatim enumeration line>", "term": "མདོར་བསྟན་པ་" } }
+  ]
+}
+```
 
 | Field | Required | Meaning |
 |---|---|---|
 | `depth` | yes | Nesting depth (1 = top-level `##`). Must descend one level at a time — never skip. |
-| `heading_title` | yes | Short section name for the heading line (announced term only). |
-| `body_start_context` | yes | A **verbatim** substring of the original, **unique to the line** where this section's body opens. The heading is inserted right before that line. Make it long enough to be unique — the script errors if it matches 0 or >1 lines. |
-| `restatement` | no | The verbatim ordinal+title phrase at the body opening (e.g. `གཉིས་པ་བཤད་པ་`) to wrap in a self-link. Must occur on the body line. |
-| `announced_in_parent` | no | `{ "context", "term" }` — where this section is named in the PARENT's enumeration sentence. `context` is a unique substring of that line; `term` is the verbatim announced term to wrap (minimal structural term only). |
+| `heading_title` | yes | Short section name for the heading line (the term only). |
+| `body_start_context` | yes | A **verbatim** substring **unique to the body-opening line**. Copy the whole line from the artifact's `line` to guarantee uniqueness; the script errors on 0 or >1 matches. |
+| `restatement` | no | Verbatim ordinal+title at the body opening to wrap in a self-link. Must occur on the body line. |
+| `announced_in_parent` | no | `{ "context", "term" }` — a unique substring of the parent's enumeration line and the verbatim child term to wrap. |
 
-**The model assigns no block IDs.** It only gives `depth`; the script derives every `^N-…-0`. This is what makes depth-skips and mis-numbering impossible.
-
-All context/term/restatement strings must be **copied verbatim** from the source. If the script reports "context not found" or "term not found", the model copied inexactly — fix the string, do not loosen the script.
+**The model assigns no block IDs.** It gives only `depth`; the script derives every `^N-…-0`.
 
 ---
 
 ## Procedure
 
-### Step 1 — Read the file
+### Step 1 — Frame the document (TOC of the TOC)
 
-Read the full input file. Hold the YAML frontmatter and the body.
+Read the opening structural matter and find the **top-level division and the chapter boundaries** — e.g. a four-fold grouping of ten chapters closing with `…ལེའུ་བཅུ་ཡོད་པ་ལས།`, with each chapter introduced by a `Nth … ལེའུ་ལ་ COUNT …` enumeration. Record, for each chapter: its line range and its **base depth** (its depth in the spine). This frame is what makes Step 2 chunkable and gives each chapter a stable place in the tree.
 
-### Step 2 — (Recommended) run the pre-filter
+### Step 2 — Extract raw candidates, per chapter (chunkable / parallel)
 
-For anything but a very short file, surface candidate lines first so you adjudicate a shortlist instead of scanning cold:
+For each chapter chunk, read for meaning and list **every** candidate of both types into the raw artifact (see format above). Extraction is **stateless** — each candidate is judged locally — so chapters can be done independently and **in parallel** (e.g. spawn one subagent per chapter range, each returning its `candidates` slice; concatenate in document order).
 
-```bash
-python3 4-SYSTEM/Skills/tag-inline-toc/scripts/find_sa_bcad.py <input-file>
-```
+Bias toward **recall with honest typing**: include a line only if it is genuinely a child enumeration or an in-location title; exclude verse quotations and incidental lists. Capture verbatim spans. Do not assign depth here.
 
-It tags lines as `announcement:FormA`, `announcement:FormB`, or `section-opening`, and flags chapter labels / editorial markers to skip. **These are heuristics** — confirm each, reject false positives, and (critically) fix the exact term boundaries yourself. The script never decides depth or wraps anything.
+### Step 3 — Review the raw artifact once
 
-### Step 3 — Identify sa bcad and section openings (the linguistic judgment)
+Read the consolidated artifact end-to-end (it is short — hundreds of lines, not the whole document). Fix span boundaries, drop look-alikes that slipped through, and confirm each enumeration's `count` matches the number of `children` it names (or is intentionally count-only). This single pass is the human-auditable checkpoint.
 
-This is the part only you can do. Two announcement surface forms:
+### Step 4 — Reconstruct the tree, per chapter (join → annotation)
 
-**Form A — full sentence.** Enumerates two or more sub-topics joined by `དང་`, closing with a count word (`གཉིས།`, `གསུམ་ལས།`, `བཞི་ཡོད་པ་ལས།`, …). Often opens with the parent title/ordinal: `X ལ་ Y དང་ Z གཉིས།`.
-```
-ལེའུ་དང་པོ་ལ་མདོར་བསྟན་པ་དང་རྒྱས་པར་བཤད་པ་གཉིས་ཡོད་པ་ལས།
-```
-Here the announced terms (`མདོར་བསྟན་པ`, `རྒྱས་པར་བཤད་པ`) ARE named inline — each becomes an `announced_in_parent` entry on its child section.
+Within each chapter, walk the candidates in document order and rebuild the tree by **ordinal + count bookkeeping**, joining the two types:
 
-**Form B — compact.** The count appears right after `་ལ་`/`་ལ་ཡང་`; topic names (if any) follow, separated by `དང༌།`, the last closing `འོ། །`.
-```
-གཉིས་པ་ལ་བཞི། བྱང་ཆུབ་ཀྱི་སེམས་...བཤད་པ་དང༌། ...ངོས་བཟུང་བ་དང༌། ...རྒྱུ་མཚན་དང༌། ...བསྟོད་པའོ། །
-```
-When the compact line only states a count with no inline names (`དང་པོ་ལ་བཞི་ལས།`), the children are named only at their own openings — those sections have no `announced_in_parent`.
+- An **enumeration** (Type 1) opens a frame expecting `count` children at depth+1; if it names children, those names fill the slots in order.
+- A **title** (Type 2) fills the next slot of the open frame: its `ordinal` says which slot; its `name` (or the slot's enumerated name) gives the term. Match `name`↔enumerated-child by **meaning** after stripping the leading ordinal and trailing particles (`ལ/ལའང/ནི/པ/སྟེ`); use ordinal+slot as the primary key and the name as the cross-check (and as the display source when the title is ordinal-only).
+- If the title `carries_enum`, it in turn opens a deeper frame.
+- A frame **closes** when it has `count` contiguous children (ordinals 1..count). Use this redundancy to self-check: if a frame can't close, or an ordinal is skipped, or a name doesn't match its slot, mark the node `"review": "<reason>"` and continue conservatively (treat as the next sibling/child).
 
-Count words (closed set): `གཉིས། གསུམ། བཞི། ལྔ། དྲུག། བདུན། བརྒྱད། དགུ། བཅུ།`
+Emit each joined node as an annotation `section`: `depth` = base depth of the chapter + frame depth; `heading_title` = the short term; `body_start_context` = the verbatim title line (from `line`); `restatement` = the title's restatement span; `announced_in_parent` = `{context: parent enumeration line, term: this child's name}` when the parent named it. Concatenate all chapters' sections in document order into one annotation file: `0-INBOX/temp/<filename>.annotation.json`.
 
-**Section-body openings** take one of three forms; use the nearest ancestor announcement to resolve which sub-section is opening:
+> **Block-ID convention:** the renderer assigns IDs from `depth` across the whole annotation. Keep the literal sa bcad nesting from the text (the spine's top division is depth 1). If chapter-rooted IDs that align with the chapter-verse root text are wanted instead, make each chapter a depth-1 node and note this choice for the reviewer.
 
-| Form | Example |
-|---|---|
-| Ordinal only | `གཉིས་པ་ནི།` |
-| Name only | `དོན་གནས་འཕོ་བའི་ཕན་ཡོན་ནི` |
-| Ordinal + name | `གཉིས་པ་དོན་གནས་འཕོ་བའི་ཕན་ཡོན་ནི` |
-
-**Not sa bcad — never tag:**
-- **Chapter title lines** `ལེའུ་[ordinal]། [desc]` are plain text. No heading before them, no wikilink on them.
-- **Editorial section markers** `N.N` (e.g. `1.1`, `8.17`) are verse-locator delimiters. The sa bcad is the **first Tibetan line that follows** the marker — tag that line, not the marker.
-
-### Step 4 — Build the annotation
-
-Walk the document top to bottom and emit the `sections` list (see schema above). For each section, in order:
-- set `depth` from the nesting implied by the announcements (descend exactly one level at a time);
-- set `heading_title` to the short term;
-- copy `body_start_context` verbatim from the body-opening line, long enough to be unique in the file;
-- if the opening restates the ordinal+title, copy it verbatim into `restatement`;
-- if the section is named inline in its parent's enumeration, add `announced_in_parent` with a unique `context` from that enumeration line and the verbatim `term`.
-
-**Depth discipline:** list sections in document order; finish all siblings at a depth before descending. The script enforces "no skipped levels" and will abort if `depth` jumps by more than one. If an announcement is ambiguous, resolve conservatively as the next level down and leave yourself a note to review.
-
-Write the annotation to `0-INBOX/temp/<filename>.annotation.json`.
-
-### Step 5 — Render with the script
+### Step 5 — Render + verify (Phase 2, the script)
 
 ```bash
 python3 4-SYSTEM/Skills/tag-inline-toc/scripts/tag_inline_toc.py render \
@@ -230,47 +258,41 @@ python3 4-SYSTEM/Skills/tag-inline-toc/scripts/tag_inline_toc.py render \
     --output 0-INBOX/temp/tagged-<filename>
 ```
 
-The script assigns block IDs, inserts headings, wraps wikilinks by anchored exact match, and **verifies prose integrity before writing**. It prints a report (sections, headings inserted, self-restatements tagged, announcements tagged, max depth) and fails non-zero on any problem:
+The script assigns block IDs, inserts headings, wraps wikilinks by anchored exact match, and **verifies prose integrity before writing**. It prints a report and fails non-zero on any problem:
 
-- *context not found* / *context is ambiguous* → lengthen or correct `body_start_context` / `announced_in_parent.context`.
-- *term not found* / *restatement not on body line* → the term was not copied verbatim; fix it.
-- *depth skips a level* → fix the `depth` sequence.
-- *PROSE INTEGRITY VIOLATION* → a wrap or context altered prose; inspect the reported line. **Never** work around this by editing the source.
+- *context not found* / *context is ambiguous* → copy the full body line as `body_start_context`; lengthen `announced_in_parent.context`.
+- *term not found* / *restatement not on body line* → the span was not copied verbatim; fix it.
+- *depth skips a level* → fix the `depth` sequence (a Step-4 bookkeeping slip).
+- *PROSE INTEGRITY VIOLATION* → a wrap/context altered prose; inspect the reported line. **Never** work around it by editing the source.
 
-If `--output` is omitted, the path is derived as `0-INBOX/temp/tagged-<input-basename>` with `-v2`/`-v3` suffixing.
-
-### Step 6 — Verify and present
-
-The render step already proves prose integrity. To re-check an existing tagged file against its source at any time:
-
+Re-check any tagged file at any time:
 ```bash
 python3 4-SYSTEM/Skills/tag-inline-toc/scripts/tag_inline_toc.py verify \
     --input <input-file> --tagged 0-INBOX/temp/tagged-<filename>
 ```
 
-Then report to the user: the counts from the render report, the output path, and any sections you resolved ambiguously and want a human to review. The output stays in `0-INBOX/temp/` — it is **not** a `1-SOURCES/` file. Human review is required before `structural-outline-ingest`.
+Then report to the user: the render counts, the output path, and every node you marked `"review"`. The output stays in `0-INBOX/temp/` — it is **not** a `1-SOURCES/` file. Human review is required before `structural-outline-ingest`.
 
 ---
 
-## Rules (invariants the script enforces)
+## Rules
 
-1. **No prose is altered.** The only changes are inserted heading lines and `[[#^id|term]]` wrappers. The script proves this by stripping its own additions and diffing against the source; a mismatch aborts the run.
-2. **Block IDs are derived from depth, by the script** — `^N-0`, `^N-N-0`, `^N-N-N-0`, … one segment per level, no maximum depth, no zero-padding.
-3. **Depth is never skipped** and siblings complete before descending. Enforced.
-4. **Heading title is the short section name**, not the full ordinal phrase.
-5. **Wrap only the minimal structural term** — not surrounding particles, conjunctions, or count words.
-6. **Announced terms link to real heading block IDs**; self-referential body links are intentional (§5b).
-7. **Chapter title lines (`ལེའུ་N།`) and editorial markers (`N.N`) are never tagged**; the sa bcad after a marker is.
+1. **Phase 1 is model-only meaning work.** Do not write or invoke a rule/regex extractor for sa bcad detection or span-finding. The only script is the Phase-2 renderer.
+2. **No prose is altered.** The only changes are inserted heading lines and `[[#^id|term]]` wrappers; the renderer proves this by diffing and aborts on mismatch.
+3. **Block IDs are derived from depth, by the script** — `^N-0`, `^N-N-0`, … one segment per level, no maximum depth, no zero-padding.
+4. **Depth is never skipped**; siblings complete before descending. Enforced by the script.
+5. **Verbatim spans only.** Every `text`/`children`/`name`/`context`/`term`/`restatement` is exact bytes from the source.
+6. **Heading title is the short section name**, not the full ordinal phrase. **Wrap only the minimal structural term.**
+7. **Chapter label lines (`ལེའུ་N།`) and editorial markers (`N.N`) are never tagged**; the sa bcad after a marker is.
 8. **Output goes to `0-INBOX/temp/`**, never `1-SOURCES/` or `2-RAILS/`.
 
 ---
 
 ## Completion check
 
-- [ ] Input file read
-- [ ] (Long files) pre-filter run and candidates adjudicated
-- [ ] Annotation built in document order, depth descends one level at a time
-- [ ] All context/term/restatement strings copied verbatim from the source
-- [ ] `tag_inline_toc.py render` exited 0 with a prose-integrity VERIFIED report
-- [ ] Output written to `0-INBOX/temp/tagged-<filename>`
-- [ ] Ambiguous sections noted for human review
+- [ ] Step 1: top-level division + chapter boundaries (and per-chapter base depth) recorded
+- [ ] Step 2: raw candidate artifact built per chapter (both types), verbatim spans, no depth
+- [ ] Step 3: artifact reviewed once; look-alikes dropped; counts vs named children confirmed
+- [ ] Step 4: per-chapter join+reconstruction into one annotation; ambiguities marked `"review"`
+- [ ] Step 5: `tag_inline_toc.py render` exited 0 with a prose-integrity VERIFIED report
+- [ ] Output written to `0-INBOX/temp/tagged-<filename>`; review nodes reported to the user

@@ -134,7 +134,9 @@ This is the most important quality bar for the translated prose, and the reason 
 
 - **Conversational Hindustani, not literary/Sanskritized Hindi.** Short, clear sentences, one idea at a time. If a sentence has to be re-read, split it or simplify it.
 - **Use everyday words.** Reach for इंसान, भलाई, सुकून, चैन, जरिया, सोच, असल में, नमन, शरण, भरोसा, कमाल की सोच — the vocabulary of normal speech. Avoid stiff, bookish, or over-Sanskritized choices when a plain word exists.
-- **Don't translate word-for-word.** Carry the meaning, not the surface words. A literal rendering of English idiom into Hindi is usually what makes it sound technical and wooden. Say what the English means, the way a Hindi speaker would actually say it.
+- **Explain the meaning, don't translate the words.** Read the English, understand the point, then say it in Hindi the way you'd explain it to a friend. Free, natural, sense-for-sense rendering is the goal; a literal word-for-word translation is exactly what makes it sound stiff and technical. It is fine to recast a sentence completely, as long as the meaning, the doctrinal point, and any commentator attribution are fully preserved.
+- **Don't repeat the same word.** When a key word starts piling up in one passage (e.g. भरोसा appearing five times, or मन, अभ्यास over and over), vary it with natural synonyms (भरोसा / यक़ीन / हौसला for faith, trust, confidence) or fold it into a pronoun (ये तीनों, एक-दूसरे को). Repetition is one of the fastest ways to make plain Hindi sound clumsy.
+- **Name the thing; don't leave referents vague.** A bare इसे, यह, उसे, or यह सब often leaves the reader unsure what is meant. If "this/it" could be unclear, name it plainly — e.g. for "writing this," say यह किताब लिखने से, not इसे लिखने से. The reader should never have to guess what a pronoun points to. (English sources lean on "this/it" because the surrounding verses make the referent obvious; in the standalone Hindi sentence it often is not, so spell it out.)
 - **No jargon dumps and no lofty titles.** Don't stack Buddhist technical terms or honorifics (महान प्राणी, प्रबुद्ध वीर, बोधिसत्त्व as a bare title). Describe the thing plainly first; attach a term only if it genuinely helps, with a one-clause plain gloss.
 - **Keep the warmth and the precision.** Plain does not mean vague. The doctrinal point and the commentator's specific distinction must still be exactly there (Rules 4, 5, 5a) — just said in plain words.
 
@@ -143,10 +145,11 @@ Quick contrast (illustrative):
 | Too technical / stiff | Plain "chai" Hindi |
 |---|---|
 | अपने चित्त को प्रशिक्षित करने हेतु | अपने मन को सँवारने के लिए |
-| कर्मों के फलविपाक में आस्था | इस बात का भरोसा कि हम जो करते हैं उसका असर होता है |
+| कर्मों के फलविपाक में आस्था | यह भरोसा कि हम जो करते हैं उसका असर होता है |
 | बोधिसत्त्व के संवर में प्रवेश | जो सबकी भलाई के रास्ते पर चलते हैं, उनके संकल्प में उतरना |
+| ...भरोसा... भरोसा... भरोसा... भरोसा... (एक ही शब्द बार-बार) | भरोसा... यक़ीन... हौसला... ये तीनों (शब्द बदलते हुए) |
 
-The reference register comes from the verse-summary Hindi skill the team already trusts; match that voice, while keeping the plan's need to name commentators and preserve their specific point.
+The reference register comes from the verse-summary Hindi skill the team already trusts; match that voice, while keeping the plan's need to name commentators and preserve their specific point. The bar is the team's approved sample: a short, warm, everyday-Hindi explanation a person would actually say out loud, with no word repeating and no stiff vocabulary.
 
 ---
 
@@ -172,6 +175,8 @@ The reference register comes from the verse-summary Hindi skill the team already
 - [ ] Frontmatter, day title, notification text, liturgy block-quotes, and Tibetan + English verse block-quotes reproduced verbatim.
 - [ ] `translated_from:` added to frontmatter; `status: draft`; existing `generation_note` preserved.
 - [ ] Hindi reads in plain, conversational "chai" register — everyday Hindustani, short clear sentences, no heavy Sanskritized vocabulary, no lofty titles or jargon dumps; technical terms glossed plainly.
+- [ ] Translated sense-for-sense, not word-for-word; sentences recast freely for natural flow while keeping the meaning and attribution intact.
+- [ ] No key word repeats awkwardly within a passage (varied with synonyms or pronouns).
 - [ ] Commentator names transliterated with the source's one-clause identification preserved.
 - [ ] Hindi prose adds nothing and omits nothing relative to the English; no doctrinal point flattened despite the plainer wording.
 - [ ] No bullet lists or sub-headers introduced; no em-dashes added to body prose.

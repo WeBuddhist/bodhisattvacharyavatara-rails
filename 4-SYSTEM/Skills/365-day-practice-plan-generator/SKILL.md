@@ -51,7 +51,7 @@ Once you have the chapter and verse range, **read the root text and all relevant
 All generated prose must follow these style rules without exception:
 
 **Voice and person — differs by section**
-- **Sections 2 and 4** (Introduction and Commentary): Use a **neutral, explanatory tone**. Write as a teacher explaining the teaching to a practitioner. You may address the reader as ཁྱེད་ (you) to maintain warmth, but never use ངས་ / ང་རང་ / བདག་གིས་ in these sections. The focus is the teaching itself, not the practitioner's personal voice.
+- **Sections 2 and 4** (Introduction and Explanations): Use a **neutral, explanatory tone**. Write as a teacher explaining the teaching to a practitioner. You may address the reader as ཁྱེད་ (you) to maintain warmth, but never use ངས་ / ང་རང་ / བདག་གིས་ in these sections. The focus is the teaching itself, not the practitioner's personal voice.
 - **Section 5 only** (Daily Life Application): Use the **first person singular** — ངས་, ང་རང་, བདག་གིས་. Never ང་ཚོས་ or ང་ཚོ་. This section voices the practitioner's own personal commitment to applying today's teaching.
 
 **Sentence flow**
@@ -172,82 +172,75 @@ No commentary, explanation, or editorial text belongs in this section — verses
 
 ---
 
-### Section 4 — འགྲེལ་བཤད། (Commentary) [GENERATED]
+### Section 4 — འགྲེལ་བཤད། (Explanations) [GENERATED]
 
 Open the section with the literal heading `### ༤། འགྲེལ་བཤད།`.
 
-> **Tone: neutral and explanatory.** Write as a teacher clarifying the meaning for the practitioner. Do not use first person (ངས་ / ང་རང་). You may address the reader as ཁྱེད་ to maintain warmth.
+> **Tone: neutral and engaging.** Write as a teacher bringing the teaching alive for the practitioner. Do not use first person (ངས་ / ང་རང་). You may address the reader as ཁྱེད་ to maintain warmth.
 
-For each verse, provide one commentary block in the same order as the verses above:
+#### How to find the commentary — the pipeline
 
-1. **Header**: `#### **[verse number in Tibetan numerals]. ཤློཀ་[ordinal word]།** འགྲེལ་བཤད།`
-   - The bold part is **identical** to the corresponding verse header's bold part; ` འགྲེལ་བཤད།` follows **outside** the bold, after a space.
-   - Example: `#### **༡༢. ཤློཀ་བཅུ་གཉིས་པ།** འགྲེལ་བཤད།`
-1. **Commentary body**: exactly two bullet points:
-   - `- **ངོས་འཛིན།**: ` — one sentence identifying what kind of root verse this is and what it teaches, ending with `…སྟོན་པའི་རྩ་ཚིག་ཡིན་ནོ། །`
-   - `- **འགྲེལ་བཤད།**: ` — 4–8 sentences of Tibetan prose **extracted and summarised from all commentaries in `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\1-SOURCES\Commentaries\`**. Read every commentary file in that folder, identify what each says about the verse, and synthesise their views into a single flowing commentary. **Strictly begin with** `ཤློཀ་འདིའི་དོན་ནི་` and **end with** `ཞེས་པའོ། །`. Rewrite in clear, easy-to-read modern Tibetan that a beginner practitioner can understand and apply directly. **Do not invent, improvise, or add material not found in the commentary files.** At the end of the commentary block, add a **Sources** line listing a clickable Obsidian wikilink for each **specific block** actually cited, using the format `[[1-SOURCES/Commentaries/filename#^blockid|Display name ^blockid]]` — so the reader can open the raw source and jump directly to the cited passage. Example: `**མཆན།**: [[1-SOURCES/Commentaries/bo-དངུལ་ཆུ་ཐོགས་མེད།.md#^2-8-1|དངུལ་ཆུ་ཐོགས་མེད། ^2-8-1]] · [[1-SOURCES/Commentaries/bo-དངུལ་ཆུ་ཐོགས་མེད།.md#^2-8-2|^2-8-2]]`
+The commentary files in `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\1-SOURCES\Commentaries\` have root verses transcluded directly into them. To find what each commentary says about a verse:
 
-Worked example (Chapter 1, verse 12) — Section 3 entry, then its Section 4 entry:
+1. Open each commentary file.
+2. Locate the transclusion of the day's verse (e.g. `![[1-SOURCES/Text/...#^chapter-verse]]`).
+3. **All text from that transclusion up to the next root verse transclusion is the commentary on that verse.** This block is your source material.
+
+Read every commentary file and collect this pipeline material for each assigned verse before writing anything.
+
+#### What to include
+
+For each verse, write an explanation block under the verse header:
+
+`#### **[verse number in Tibetan numerals]. ཤློཀ་[ordinal word]།** འགྲེལ་བཤད།`
+
+Based on what the pipeline material actually contains, include one or more of the following content types. Do not force all three — use only those for which genuine material exists.
+
+---
+
+**Type 1 — ཁ་སྐོང་། (Extra information)**
+
+Use when the verse mentions or elaborates on an important topic or term (e.g. དལ་འབྱོར་, བྱང་ཆུབ་སེམས་, etc.) and the commentaries contain rich material on it. Expand on the topic using that material — write in engaging, accessible Tibetan that deepens the practitioner's understanding.
+
 ```markdown
-#### **༡༢. ཤློཀ་བཅུ་གཉིས་པ།** (ལེའུ་ ༡ ཤློཀ་ ༡༢)
+**ཁ་སྐོང་།** [Topic]: [Engaging expansion drawn from the commentary — 3–6 sentences.]
 
-> དགེ་བ་གཞན་ཀུན་ཆུ་ཤིང་བཞིན་དུ་ནི། ། འབྲས་བུ་བསྐྱེད་ནས་ཟད་པར་འགྱུར་བ་ཉིད། ། བྱང་ཆུབ་སེམས་ཀྱི་ལྗོན་ཤིང་རྟག་པར་ཡང་། ། འབྲས་བུ་འབྱིན་པས་མི་ཟད་འཕེལ་བར་འགྱུར། །
-
-#### **༡༢. ཤློཀ་བཅུ་གཉིས་པ།** འགྲེལ་བཤད།
-
-- **ངོས་འཛིན།**: ཤློཀ་འདི་ནི་འབྲས་བུ་ཅན་གྱི་ལྗོན་ཤིང་གི་དཔེའི་སྒོ་ནས་དགེ་རྩ་མི་ཟད་ཅིང་གོང་དུ་འཕེལ་བར་སྟོན་པའི་རྩ་ཚིག་ཡིན་ནོ། །
-
-- **འགྲེལ་བཤད།**: ཤློཀ་འདིའི་དོན་ནི་དགེ་བ་གཞན་ཏེ་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱིས་མ་ཟིན་པ་ཀུན་ནི་ཆུ་ཤིང་བཞིན་དུ་འབྲས་བུ་ལན་གཅིག་བསྐྱེད་ནས་རང་བཞིན་གྱིས་ཟད་པར་འགྱུར་བ་ཉིད་ཡིན་ལ། བྱང་ཆུབ་སེམས་ཀྱི་ལྗོན་ཤིང་ནི་རྟག་པར་ཡང་འབྲས་བུ་འབྱིན་པས་ནམ་ཡང་མི་ཟད་ཅིང་སླར་ཡང་འཕེལ་བར་འགྱུར་རོ་ཞེས་པའོ། །
-
-  **མཆན།**: [[1-SOURCES/Commentaries/bo-དངུལ་ཆུ་ཐོགས་མེད།.md|དངུལ་ཆུ་ཐོགས་མེད།]] · [[1-SOURCES/Commentaries/bo-འཇུ་མི་ཕམ།.md|མི་ཕམ་རིན་པོ་ཆེ།]]
+**མཆན།**: [[1-SOURCES/Commentaries/filename#^blockid|Display name ^blockid]]
 ```
 
-Additional worked example (Day 15 — Chapter 2, Verses 1–3):
+---
+
+**Type 2 — གཏམ་རྒྱུད། (Story)**
+
+Use when you find an interesting story in the pipeline material related to the verse. Adapt it: render the classical language into clear modern Tibetan, and shape it into a short, inspiring narrative that helps practitioners understand and stay engaged with the BCA.
+
 ```markdown
-#### **༡. ཤློཀ་དང་པོ།** (ལེའུ་ ༢ ཤློཀ་ ༡)
+**གཏམ་རྒྱུད།**: [Story in clear modern Tibetan — short and inspiring, ≤ 8 sentences.]
 
-> རིན་ཆེན་སེམས་དེ་གཟུང་བར་བྱ་བའི་ཕྱིར། །
-> དེ་བཞིན་གཤེགས་པ་རྣམས་དང་དམ་པའི་ཆོས། །
-> དཀོན་མཆོག་དྲི་མ་མེད་དང་སངས་རྒྱས་སྲས། །
-> ཡོན་ཏན་རྒྱ་མཚོ་རྣམས་ལ་ལེགས་པར་མཆོད། །
-
-#### **༢. ཤློཀ་གཉིས་པ།** (ལེའུ་ ༢ ཤློཀ་ ༢)
-
-> མེ་ཏོག་འབྲས་བུ་ཇི་སྙེད་ཡོད་པ་དང་། །
-> སྨན་གྱི་རྣམ་པ་གང་དག་ཡོད་པ་དང་། །
-> འཇིག་རྟེན་རིན་ཆེན་ཇི་སྙེད་ཡོད་པ་དང་། །
-> ཆུ་གཙང་ཡིད་དུ་འོང་བ་ཅི་ཡོད་དང་། །
-
-#### **༣. ཤློཀ་གསུམ་པ།** (ལེའུ་ ༢ ཤློཀ་ ༣)
-
-> རིན་ཆེན་རི་བོ་དང་ནི་དེ་བཞིན་དུ། །
-> ནགས་ཚལ་ས་ཕྱོགས་དབེན་ཞིང་ཉམས་དགའ་དང་། །
-> ལྗོན་ཤིང་མེ་ཏོག་རྒྱན་སྤྲས་སྤུད་པ་དང་། །
-> ཤིང་གང་འབྲས་བཟང་ཡལ་ག་དུད་པ་དང་། །
-
-#### **༡. ཤློཀ་དང་པོ།** འགྲེལ་བཤད།
-
-- **ངོས་འཛིན།**: ཤློཀ་འདི་ནི་དཀོན་མཆོག་གསུམ་ལ་སྤྱིར་མཆོད་པ་འབུལ་བའི་ཚུལ་སྟོན་པའི་རྩ་ཚིག་ཡིན་ནོ། །
-- **འགྲེལ་བཤད།**: ཤློཀ་འདིའི་དོན་ནི་རིན་པོ་ཆེ་ལྟ་བུའི་བྱང་ཆུབ་ཀྱི་སེམས་དེ་རང་གི་རྒྱུད་ལ་བརྟན་པོར་གཟུང་བར་བྱ་བའི་དགོས་ཆེད་དུ། ཡུལ་དེ་བཞིན་གཤེགས་པ་རྣམས་དང་། དམ་པའི་ཆོས་དངོས་པོ་དང་དངོས་པོ་མེད་པར་རྟོག་པའི་དྲི་མ་མེད་པ་རྣམས་དང་། སངས་རྒྱས་ཀྱི་སྲས་ཡོན་ཏན་རྒྱ་མཚོ་མཐའ་ཡས་པ་མངའ་བའི་བྱང་ཆུབ་སེམས་དཔའ་འཕགས་པ་རྣམས་ཏེ་དཀོན་མཆོག་གསུམ་པོ་ལ། ཚུལ་ནི་སངས་རྒྱས་ཐོབ་འདོད་ཀྱི་བསམ་པ་སོགས་ཆོ་ག་དྲུག་གི་སྒོ་ནས་ལེགས་པར་མཆོད་པ་འབུལ་ལོ་ཞེས་པའོ། །
-
-  **མཆན།**: [[1-SOURCES/Commentaries/bo-དངུལ་ཆུ་ཐོགས་མེད།.md#^2-8-1|དངུལ་ཆུ་ཐོགས་མེད། ^2-8-1]] · [[1-SOURCES/Commentaries/bo-དངུལ་ཆུ་ཐོགས་མེད།.md#^2-8-2|^2-8-2]]
-
-#### **༢. ཤློཀ་གཉིས་པ།** འགྲེལ་བཤད།
-
-- **ངོས་འཛིན།**: ཤློཀ་འདི་ནི་བདག་པོས་ཡོངས་སུ་མ་བཟུང་བའི་མཆོད་རྫས་རྣམས་དམིགས་པར་སྟོན་པའི་རྩ་ཚིག་ཡིན་ནོ། །
-- **འགྲེལ་བཤད།**: ཤློཀ་འདིའི་དོན་ནི་འཇིག་རྟེན་གྱི་ཁམས་འདི་ན་ཆུ་དང་ཐང་ལས་སྐྱེས་པའི་མེ་ཏོག་དང་འབྲས་བུ་ཇི་སྙེད་ཅིག་ཡོད་པ་དང་། ནད་གསོ་བའི་སྨན་གྱི་རིགས་གང་དག་ཡོད་པ་དང་། རིན་པོ་ཆེའི་བྱེ་བྲག་ཇི་སྙེད་ཡོད་པ་དང་། བསིལ་ཞིང་ཞིམ་ལ་ཡང་བ་སོགས་ཡན་ལག་བརྒྱད་དང་ལྡན་པའི་ཆུ་གཙང་མ་ཡིད་དུ་འོང་བ་ཅི་ཡོད་པ་དེ་དག་ཐམས་ཅད་བློས་བླངས་ནས་མཆོད་པར་འབུལ་ལོ་ཞེས་པའོ། །
-
-  **མཆན།**: [[1-SOURCES/Commentaries/bo-དངུལ་ཆུ་ཐོགས་མེད།.md#^2-10-2|དངུལ་ཆུ་ཐོགས་མེད། ^2-10-2]] · [[1-SOURCES/Commentaries/bo-དངུལ་ཆུ་ཐོགས་མེད།.md#^2-10-3|^2-10-3]]
-
-#### **༣. ཤློཀ་གསུམ་པ།** འགྲེལ་བཤད།
-
-- **ངོས་འཛིན།**: ཤློཀ་འདི་ནི་བདག་མེད་པའི་རི་དང་ནགས་ཚལ་སོགས་མཆོད་པར་སྟོན་པའི་རྩ་ཚིག་ཡིན་ནོ། །
-- **འགྲེལ་བཤད།**: ཤློཀ་འདིའི་དོན་ནི་གསེར་སོགས་ལས་གྲུབ་པའི་རིན་པོ་ཆེའི་རི་བོ་རྣམས་དང་། དེ་བཞིན་དུ་འདུ་འཛིས་དབེན་ཞིང་ཉམས་དགའ་བའི་ནགས་ཚལ་དང་ས་ཕྱོགས་རྣམས་དང་། རང་གི་མེ་ཏོག་གིས་མཛེས་པར་བརྒྱན་ཅིང་སྤྲས་པའི་ལྗོན་ཤིང་རྣམས་དང་། འབྲས་བུ་བཟང་པོའི་ལྕིད་ཀྱིས་ཡལ་ག་དུད་པའི་ཤིང་རྣམས་ཀྱང་ཡིད་ཀྱིས་སྤྲུལ་ནས་མཆོད་རྫས་སུ་འབུལ་ལོ་ཞེས་པའོ། །
-
-  **མཆན།**: [[1-SOURCES/Commentaries/bo-དངུལ་ཆུ་ཐོགས་མེད།.md#^2-10-6|དངུལ་ཆུ་ཐོགས་མེད། ^2-10-6]]
+**མཆན།**: [[1-SOURCES/Commentaries/filename#^blockid|Display name ^blockid]]
 ```
 
-> ⚠️ **Critical rule for Section 4**: Commentary must be extracted and synthesised from the files in `1-SOURCES/Commentaries/`. If you cannot locate commentary for a verse in the files, state this explicitly — do not invent or improvise.
+---
+
+**Type 3 — མ་མཐའ། (Keyword)**
+
+Use when the verse contains an important or difficult term that a beginner practitioner might not understand. Explain it in plain Tibetan, briefly and clearly.
+
+```markdown
+**མ་མཐའ།** [Term]: [Plain-language explanation — 2–3 sentences.]
+
+**མཆན།**: [[1-SOURCES/Commentaries/filename#^blockid|Display name ^blockid]]
+```
+
+---
+
+#### Rules
+
+- **Authenticity is absolute.** Every piece of content — extra information, story, keyword definition — must come directly from the pipeline material found in the commentary files. Never invent, assume, or add from general knowledge or training data.
+- **Be selective.** For a given verse you might include only a ཁ་སྐོང་། and a མ་མཐའ། — or only a གཏམ་རྒྱུད། — or all three. Follow the commentary material, not a formula.
+- Each content block must end with a `**མཆན།**` line citing the specific block ID(s) used, formatted as clickable Obsidian wikilinks: `[[1-SOURCES/Commentaries/filename#^blockid|Display name ^blockid]]`.
+
+> ⚠️ **Critical rule for Section 4**: All content must be extracted from `1-SOURCES/Commentaries/` via the pipeline. If you cannot locate commentary for a verse in the files, state this explicitly — do not invent or improvise.
 
 ---
 
@@ -373,10 +366,11 @@ If the user doesn't specify verses and asks only for a day number, read that fil
 - [ ] Section 2 introduction is 2–4 sentences, ≤ 60 words — introduces the day with the verse(s), not an explanation of the verse
 - [ ] Section 3 — no subsection headings in the output
 - [ ] Section 3 — verse headers follow `#### **N. ཤློཀ་[ordinal]།** (ལེའུ་ C ཤློཀ་ N)` — parenthetical **outside** the bold
-- [ ] Section 4 — commentary headers follow `#### **N. ཤློཀ་[ordinal]།** འགྲེལ་བཤད།` — འགྲེལ་བཤད། **outside** the bold; verse numbers match those in Section 3
+- [ ] Section 4 — explanation headers follow `#### **N. ཤློཀ་[ordinal]།** འགྲེལ་བཤད།` — འགྲེལ་བཤད། **outside** the bold; verse numbers match those in Section 3
 - [ ] Section 3 — verse numbers in all headers are the real chapter verse numbers and match the day's assigned range (filename `V[start]-[end]`)
 - [ ] Section 3 — verses found in `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` and copied exactly — not quoted from memory or training data
-- [ ] Section 4 — each commentary block has the two bullets `- **ངོས་འཛིན།**:` and `- **འགྲེལ་བཤད།**:`; the འགྲེལ་བཤད། bullet is extracted and summarised from all relevant files in `1-SOURCES/Commentaries/` — not invented — strictly begins with `ཤློཀ་འདིའི་དོན་ནི་` and ends with `ཞེས་པའོ། །`; followed by a **མཆན།** line of clickable Obsidian wikilinks to each commentary cited
+- [ ] Section 4 — each explanation block contains one or more of: **ཁ་སྐོང་།** (extra information), **གཏམ་རྒྱུད།** (story), **མ་མཐའ།** (keyword); only types for which genuine pipeline material exists are included — never all three by default
+- [ ] Section 4 — all content sourced from `1-SOURCES/Commentaries/` via the pipeline (commentary text between the verse transclusion and the next verse transclusion); each block ends with a **མཆན།** citation line
 - [ ] Exactly 1 daily application point in Section 5, focused on real-life challenges
 - [ ] Tibetan spelling and grammar reviewed — check case endings (e.g. ལ་དོན། སུ་དོན། གི་དོན།), verb forms, and particles for correctness throughout all generated sections
 - [ ] Section 5 uses first person singular (ངས་ / ང་རང་) — never collective ང་ཚོས་

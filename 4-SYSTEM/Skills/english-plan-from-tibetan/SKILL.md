@@ -20,7 +20,7 @@ A lay Buddhist, new to the philosophy, time-poor, sceptical of formulaic spiritu
 ## Inputs
 
 1. **The English translation of the Tibetan day plan** — pasted or attached by the user. This is the primary content source. It contains the day's verses (in English), the "benefits", per-verse explanations, and a "how to practice" note, all translated from the bo plan, which itself draws on the Tibetan commentaries.
-2. **Day number, chapter, verse range** — from the user, or from `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/assets/schedule.md`.
+2. **Day number, chapter, verse range** — from the user, or from `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/assets/schedule-corrected.md`.
 3. **Published English verse translation** — `1-SOURCES/Translations/en-David_Karma_Choephel.md`. Use this for the verse text (it is a recognised translation already in the vault). Locate verses by block ID, e.g. `^2-6`.
 4. **Canonical Tibetan root** — `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md`. Use for the Tibetan verse text.
 5. **The Tibetan commentaries** (for grounding and attribution) — `1-SOURCES/Commentaries/bo-རྒྱལ་ཚབ་དར་མ་རིན་ཆེན།.md` (Gyaltsab Darma Rinchen), `bo-ས་བཟང་མ་ཏི་པཎ་ཆེན་བློ་གྲོས་རྒྱལ་མཚན།.md` (Sazang Mati Panchen), `bo-དངུལ་ཆུ་ཐོགས་མེད།.md` (Ngulchu Thokme). These cover every chapter, so a specific commentator can usually be named.

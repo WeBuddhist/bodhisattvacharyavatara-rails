@@ -46,7 +46,7 @@ The output is saved as `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day
 | `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/assets/liturgy.md`    | **Fixed liturgy.** Opening and closing prayers reproduced verbatim in sections 2.2 and 2.5.                                                                                                                     |
 | `3-TRANSFORMATIONS/Translations/en-ai/Verses/<verse-id>.md`                 | **Commentary summaries (interim).** Combined summaries from Gyaltsab Darma Rinchen, Sazang Mati Panchen, and Ngulchu Thokme Zangpo. Use until `2-RAILS/Verses/<verse-id>.md` packages reach `status: complete`. |
 | `2-RAILS/Verses/<verse-id>.md`                                              | **Verse context packages (preferred).** Use when `status: complete`. Supersedes interim sources.                                                                                                                |
-| `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/assets/schedule.md`   | **Verse schedule.** Maps day numbers to chapter, verse range, and date.                                                                                                                                         |
+| `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/assets/schedule-corrected.md`   | **Verse schedule.** Maps day numbers to chapter, verse range, and date.                                                                                                                                         |
 
 > ⚠️ **Rail status check:** Only rails with `status: complete` may be used for sections 2.4 and 2.6. If no complete rail exists, use the interim commentary summaries and record this in the frontmatter `generation_note`. If neither source exists for a verse, stop and flag the dependency. Do not invent content.
 
@@ -57,7 +57,7 @@ The output is saved as `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day
 Ask the user (or infer from context) for:
 
 1. **Day number** (1–365). Required.
-2. **Chapter** and **verse range.** If not provided, look up from `assets/schedule.md`.
+2. **Chapter** and **verse range.** If not provided, look up from `assets/schedule-corrected.md`.
 
 Once you have the chapter and verse range, read all source files before writing. Extract the Tibetan verse text, the English translation (by block ID from `en-AI-generated-root-loden-sherab.md`), and the commentary material from the appropriate verse package(s). **Choose your single concept now**, before drafting, so the whole file can carry it.
 

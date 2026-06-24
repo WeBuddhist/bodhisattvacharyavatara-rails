@@ -80,68 +80,26 @@ RULES = [
 SEP = "\n\n"
 HEADING_RE = re.compile(r"^#{1,6}\s")
 FRONTMATTER_RE = re.compile(r"^---\n.*?\n---\n", re.DOTALL)
-ORDINAL_HEAD_RE = re.compile(
-    r"^((?:དང་པོ|གཉིས་པ|གསུམ་པ|བཞི་པ|ལྔ་པ|དྲུག་པ|བདུན་པ|བརྒྱད་པ|དགུ་པ|བཅུ་པ)[^"
-    + SHAD + NYIS_SHAD + r"]*[" + SHAD + NYIS_SHAD + r"]+)[ \t]+")
 
-# --- verse-stanza detection (documented in SKILL.md, previously unimplemented) ---
-# A paragraph counts as one protected verse stanza when: it ends in a strong
-# (double) shad cluster; splitting on every shad cluster yields 2-4 non-empty
-# pieces (padas); every pada has 6-11 tsheg-delimited syllables; and the
-# syllable counts are uniform across padas (max-min <= 1). Detected stanzas
-# are emitted whole, are never run through the rule engine or cap_segment,
-# and are never flagged STAGE2_REVIEW regardless of total length.
+# --- verse-stanza (ཚིགས་བཅད) detection parameters ---
+# scan_segments() peels a run of clause units out as one protected verse stanza
+# when 2-4 consecutive units each carry PADA_MIN_SYL..PADA_MAX_SYL tsheg-
+# delimited syllables, the counts are uniform across them (max-min <=
+# PADA_UNIFORMITY_TOLERANCE), and each ends on a strong (double) shad. Detected
+# stanzas are emitted whole — never run through the rule engine or cap_segment,
+# never flagged STAGE2_REVIEW, regardless of total length.
+#
+# TOLERANCE is 2 (not 1) because real quatrains vary slightly across pādas
+# (6 vs 8 syllables is attested) and a pāda closing on a single shad makes the
+# counter under-count by one tsheg; 2 still discriminates against prose.
 PADA_MIN_SYL = 6
 PADA_MAX_SYL = 11
 PADA_COUNT_RANGE = (2, 4)
-
-
-def detect_stanza(paragraph: str):
-    """Return the list of pada strings if `paragraph` is one verse stanza,
-    else None. Only matches when the *entire* paragraph is the stanza (no
-    leftover prose after the closing double shad) -- a verse embedded inside
-    a larger prose paragraph is out of scope here per SKILL.md and is left
-    for Stage 2 to isolate by hand."""
-    stripped = paragraph.strip()
-    if not stripped:
-        return None
-    pieces = []
-    last_end = 0
-    final_cluster = ""
-    for m in _SHAD_CLUSTER_RE.finditer(stripped):
-        end = m.end()
-        piece = stripped[last_end:end]
-        if piece.strip():
-            pieces.append(piece)
-            final_cluster = m.group(0)
-        last_end = end
-    if stripped[last_end:].strip():
-        return None  # trailing non-shad-terminated content -- not a clean stanza
-    if not (PADA_COUNT_RANGE[0] <= len(pieces) <= PADA_COUNT_RANGE[1]):
-        return None
-    if final_cluster.count(SHAD) + final_cluster.count(NYIS_SHAD) < 2:
-        return None  # must close on a strong (double) shad
-    syllables = [count_syllables(p) for p in pieces]
-    if any(not (PADA_MIN_SYL <= s <= PADA_MAX_SYL) for s in syllables):
-        return None
-    if max(syllables) - min(syllables) > PADA_UNIFORMITY_TOLERANCE:
-        return None
-    return pieces
+PADA_UNIFORMITY_TOLERANCE = 2
 
 
 def count_syllables(text: str) -> int:
     return text.count(TSHEG) + (1 if text.strip() else 0)
-
-
-STANZA_MAX_PADAS = 4
-
-# Tibetan verse meter varies slightly across pādas (e.g. 6 vs 8 syllables in
-# the same quatrain is attested). TOLERANCE=1 was too tight for texts where
-# some pādas end with a single shad rather than a double shad and the syllable
-# counter therefore under-counts by one tsheg. Widening to 2 retains
-# discrimination against prose while accepting real stanzas with minor
-# length variation.
-PADA_UNIFORMITY_TOLERANCE = 2
 
 
 def _is_pada_unit(unit):
@@ -201,22 +159,6 @@ def _is_leadin(text: str) -> bool:
         return False
     return (count_syllables(text.strip()) < PADA_MIN_SYL
             or bool(_QUOTE_FRAME_RE.search(text.strip())))
-
-
-def _attach_leadins(out):
-    merged = []
-    i = 0
-    while i < len(out):
-        kind, payload = out[i]
-        if (kind == "prose" and i + 1 < len(out)
-                and out[i + 1][0] == "verse" and _is_leadin(payload)):
-            lead = _format_pada(payload)
-            merged.append(("verse", [lead] + out[i + 1][1]))
-            i += 2
-        else:
-            merged.append(out[i])
-            i += 1
-    return merged
 
 
 def scan_segments(para):

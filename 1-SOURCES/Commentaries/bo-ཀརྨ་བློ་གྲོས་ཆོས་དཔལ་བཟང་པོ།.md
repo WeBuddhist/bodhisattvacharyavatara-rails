@@ -4,7 +4,8 @@ title_in_english: A Compendium of Selected Commentaries on Entering the Bodhisat
 author: ཀརྨ་བློ་གྲོས་ཆོས་དཔལ་བཟང་པོ།
 author_in_english: Karma Lodrö Chöpel Zangpo
 file_type: commentary
-language_tag: bo
+language: Tibetan
+lang_tag: bo
 source_description: A compendium of root text word-commentaries on the Bodhicaryāvatāra, compiled to facilitate entry into the Mahayana for beginners by drawing from the ocean of existing commentaries.
 ---
 

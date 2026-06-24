@@ -1,13 +1,13 @@
 ---
-title:
-  - བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཤེས་རབ་ལེའུའི་མཆན་འགྲེལ་དོན་གསལ་མེ་ལོང་ཞེས་བྱ་བ་བཞུགས་སོ།།
-  - ཤེས་རབ་ལེའུའི་མཆན་འགྲེལ་དོན་གསལ་མེ་ལོང་།
+title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཤེས་རབ་ལེའུའི་མཆན་འགྲེལ་དོན་གསལ་མེ་ལོང་ཞེས་བྱ་བ་བཞུགས་སོ།།
+title_in_english: Mirror of Clear Meaning: Annotation-Commentary on the Wisdom Chapter of the Bodhicaryāvatāra
 author:
   - གཞན་ཕན་ཆོས་ཀྱི་བློ་གྲོས།
   - ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
   - འཇམ་དབྱངས་བློ་གྲོས་རྒྱ་མཚོ།
+author_in_english: Zhenpen Chokyi Lodro (Shechen Gyaltsab Gyurme Pema Namgyal; with Jamyang Lodrö Gyatso)
+file_type: commentary
 language: Tibetan
-file_type: Commentary
 lang_tag: bo
 source_description: Commentary on the 9th chapter of the Bodhisattvacharyavatara by Zhenpen Chokyi Lodro
 verse_id_format: bca-09-{verse}

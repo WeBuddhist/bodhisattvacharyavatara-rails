@@ -1,5 +1,5 @@
 ---
-title: "སྤྱོད་འཇུག་གི་འབྲེལ་བ། རྒྱུ་ཆའི་དཀར་ཆག — Related Resources Catalog"
+title: "Commentaries and Related Resources"
 file_type: reference
 language: bo, en
 lang_tag: bo
@@ -8,71 +8,43 @@ generated_from: "སྤྱོད་འཇུག་གི་འབྲེལ་བ
 last_updated: 2026-06-24
 ---
 
-# སྤྱོད་འཇུག་གི་འབྲེལ་བ། རྒྱུ་ཆའི་དཀར་ཆག
-## Related Resources Catalog — *Bodhisattvacaryāvatāra*
+# Commentaries and Related Resources
 
-This catalog gathers the known resources connected to the *Bodhisattvacaryāvatāra* (བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།) by Śāntideva — written commentaries, summary and structural outlines, supplementary materials, and recorded teachings. Each entry links to its BDRC record where one exists; the **In Vault** column marks the texts already held in `1-SOURCES/Commentaries/`.
+| Resource Type                      | མིང་།       | Count   |
+| ---------------------------------- | ----------- | ------- |
+| Written Commentaries               | འགྲེལ་བ།    | 98      |
+| Summaries                          | བསྡུས་དོན།  | 14      |
+| Structural Outlines                | ས་བཅད།      | 7       |
+| Supplementary Materials            | རྒྱུ་ཆ་གཞན། | 14      |
+| Recorded Teachings (Audio / Video) | དཔེ་ཁྲིད།   | 5       |
+| Unclassified                       | —           | 3       |
+| **Total (unique)**                 |             | **141** |
 
----
+## Book IDs — in-vault commentaries
 
-## Summary Statistics
+| `registered_id`        | Author                                                  | `book_id`       |
+| ---------------------- | ------------------------------------------------------- | --------------- |
+| `prajnakaramati`       | प्रज्ञाकरमति                                            | `BCA-BOC-11PKM` |
+| `kunpal`               | མཁན་པོ་ཀུན་དཔལ། / Khenpo Kunpal                         | `BCA-BOC-20KP`  |
+| `mipham`               | འཇུ་མི་ཕམ། / Ju Mipham                                  | `BCA-BOC-19JM`  |
+| `khenpo-zhengah`       | མཁན་པོ་གཞན་དགའ། / Khenpo Shenga                         | `BCA-BOC-20KZ`  |
+| `gyaltsab`             | རྒྱལ་ཚབ་དར་མ་རིན་ཆེན། / Gyaltsab Darma Rinchen          | `BCA-BOC-15GDR` |
+| `minyak-kunzang-sonam` | མི་ཉག་ཀུན་བསོད། / Minyak Kunzang Sönam                  | `BCA-BOC-19MKS` |
+| `ngulchu-thogmed`      | དངུལ་ཆུ་ཐོགས་མེད། / Ngülchu Thogmé                      | `BCA-BOC-14TZ`  |
+| `sabzang`              | ས་བཟང་མ་ཏི་པཎ་ཆེན། / Sabzang Mati Paṇchen               | `BCA-BOC-14SMP` |
+| `druk-kunkhyen`        | འབྲུག་ཀུན་མཁྱེན་པདྨ་དཀར་པོ། / Druk Kunkhyen Pema Karpo  | `BCA-BOC-16PK`  |
+| `zhechen-gyaltshab`    | ཞེ་ཆེན་རྒྱལ་ཚབ། / Shechen Gyaltsab                      | `BCA-BOC-20ZG`  |
+| `karma-lodo`           | ཀརྨ་བློ་གྲོས་ཆོས་དཔལ་བཟང་པོ། / Karma Lodrö Chöpelzangpo | `BCA-BOC-··KLC` |
+| `khenpo-kunga`         | མཁན་པོ་ཀུན་དགའ་དབང་ཕྱུག / Khenpo Kunga Wangchuk         | `BCA-BOC-··KKW` |
+| `tsawa-nyag`           | ཚྭ་ཉག་ཤེས་རབ་མཐར་ཕྱིན། / Tsawa Nyag Sherab Tharchin     | `BCA-BOC-··TN`  |
+| `drak-gyap`            | བྲག་གཡབ་བློ་གྲོས། / Drakgyap Lodrö                      | `BCA-BOC-··DGL` |
+| `tsechenrab`           | (author placeholder)                                    | `BCA-BOC-··—`   |
+| `lozang-pelzang`       | ལོ་ཙཱ་བ་བློ་གྲོས་དཔལ་བཟང་། / Lotsāwa Lodrö Pelzang      | `BCA-BOC-··LP`  |
+| `nakpopa`              | कृष्णपाद                                                | `BCA-BOC-··NKP` |
+| `ksemadeva`            | क्षेमदेव                                                | `BCA-BOC-··KD`  |
+| `wuzheng`              | 无著菩萨 / Sodargye translation                             | `BCA-ZHC-··WZ`  |
+| `dalai-lama-14`        | 第十四世達賴喇嘛 / 14th Dalai Lama                              | `BCA-ZHC-21DL`  |
 
-| Resource Type             | མིང་།                   | Count   |
-| ------------------------- | ----------------------- | ------- |
-| Written Commentaries      | འགྲེལ་བ།        | 98      |
-| Summary Outlines          | བསྡུས་དོན།              | 14      |
-| Structural Outlines       | ས་བཅད།                  | 7       |
-| Supplementary Materials   | རྒྱུ་ཆ་གཞན།             | 14      |
-| Recorded Teachings (Audio / Video) | དཔེ་ཁྲིད། | 5       |
-| Unclassified              | —                       | 3       |
-| **Total (unique)**        |                         | **141** |
-
----
-
-## Book IDs (catalog codes)
-
-Every in-vault source carries a vault-internal catalog code in its `book_id` frontmatter field, built per the cataloging convention in [`../About Sources.md`](../About%20Sources.md) §3a:
-
-```
-[Root Title]-[Language & Resource Type]-[Century][Author Code]
-```
-
-**Root-title code registered for this vault:**
-
-| Root title | Code | Notes |
-| ---------- | ---- | ----- |
-| *Bodhicaryāvatāra* (*Bodhisattvacaryāvatāra*) | `BCA` | The vault's only root text. |
-
-**Language codes used in this vault:** `EN` English · `BO` Tibetan · `SA` Sanskrit, plus `ZH` Chinese (vault extension for the Chinese commentaries). **Resource type:** `V` version/translation of the root text · `C` commentary.
-
-**Catalog codes for the registered commentaries.** Author codes are the uppercase initials of each commentator; the century is the century the work was composed. Centuries marked `··` are not yet verified against the source colophon and must be confirmed before the code is finalised (the code is not stable until the century is filled). Like `registered_id`, a `book_id` never changes once assigned.
-
-| `registered_id`        | Author                                                  | `book_id`       | Century basis                                              |
-| ---------------------- | ------------------------------------------------------- | --------------- | ---------------------------------------------------------- |
-| `prajnakaramati`       | प्रज्ञाकरमति             | `BCA-BOC-11PKM` | c. 11th c. (Tibetan translation of the Sanskrit *pañjikā*) |
-| `kunpal`               | མཁན་པོ་ཀུན་དཔལ། / Khenpo Kunpal                         | `BCA-BOC-20KP`  | early 20th c.                                              |
-| `mipham`               | འཇུ་མི་ཕམ། / Ju Mipham                                  | `BCA-BOC-19JM`  | late 19th c.                                               |
-| `khenpo-zhengah`       | མཁན་པོ་གཞན་དགའ། / Khenpo Zhenga                         | `BCA-BOC-20KZ`  | early 20th c.                                              |
-| `gyaltsab`             | རྒྱལ་ཚབ་དར་མ་རིན་ཆེན། / Gyaltsab Darma Rinchen          | `BCA-BOC-15GDR` | early 15th c.                                              |
-| `minyak-kunzang-sonam` | མི་ཉག་ཀུན་བསོད། / Minyak Kunzang Sönam                  | `BCA-BOC-19MKS` | 19th c.                                                    |
-| `ngulchu-thogmed`      | དངུལ་ཆུ་ཐོགས་མེད། / Ngülchu Thogmé (Thogme Zangpo)      | `BCA-BOC-14TZ`  | 14th c. ⚑                                                  |
-| `sabzang`              | ས་བཟང་མ་ཏི་པཎ་ཆེན། / Sabzang Mati Paṇchen               | `BCA-BOC-14SMP` | 14th c.                                                    |
-| `druk-kunkhyen`        | འབྲུག་ཀུན་མཁྱེན་པདྨ་དཀར་པོ། / Druk Kunkhyen Pema Karpo  | `BCA-BOC-16PK`  | 16th c.                                                    |
-| `zhechen-gyaltshab`    | ཞེ་ཆེན་རྒྱལ་ཚབ། / Zhechen Gyaltsab                      | `BCA-BOC-20ZG`  | early 20th c.                                              |
-| `karma-lodo`           | ཀརྨ་བློ་གྲོས་ཆོས་དཔལ་བཟང་པོ། / Karma Lodrö Chöpelzangpo | `BCA-BOC-··KLC` | century to verify                                          |
-| `khenpo-kunga`         | མཁན་པོ་ཀུན་དགའ་དབང་ཕྱུག / Khenpo Kunga Wangchuk         | `BCA-BOC-··KKW` | century to verify                                          |
-| `tsawa-nyag`           | ཚྭ་ཉག་ཤེས་རབ་མཐར་ཕྱིན། / Tsawa Nyag Sherab Tharchin     | `BCA-BOC-··TN`  | century to verify                                          |
-| `drak-gyap`            | བྲག་གཡབ་བློ་གྲོས། / Drakgyap Lodrö                      | `BCA-BOC-··DGL` | century to verify                                          |
-| `tsechenrab`           | (author placeholder)                                    | `BCA-BOC-··—`   | resolve author then assign                                 |
-| `lozang-pelzang`       | ལོ་ཙཱ་བ་བློ་གྲོས་དཔལ་བཟང་། / Lotsāwa Lodrö Pelzang      | `BCA-BOC-··LP`  | century to verify                                          |
-| `nakpopa`              | कृष्णपाद                                    | `BCA-BOC-··NKP` | century to verify                                          |
-| `ksemadeva`            | क्षेमदेव                                 | `BCA-BOC-··KD`  | century to verify                                          |
-| `wuzheng`              | 无著菩萨 / Sodargye translation                             | `BCA-ZHC-··WZ`  | century to verify                                          |
-| `dalai-lama-14`        | 第十四世達賴喇嘛 / 14th Dalai Lama                              | `BCA-ZHC-21DL`  | 20th–21st c.                                               |
-
-⚑ The convention's worked example in `About Sources.md` §3a renders Thogme Zangpo as `BCA-BOC-12TZ`; historically he is 14th-century (1295–1369), so this roster uses `14TZ`. Confirm the intended century before finalising.
-
----
 
 ## 1. འགྲེལ་བ། — Written Commentaries
 
@@ -89,8 +61,8 @@ Every in-vault source carries a vault-internal catalog code in its `book_id` fro
 | 9   | བྱང་ཆུབ་སེམས་པའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཊཱིཀྐ་རིན་པོ་ཆེའི་ཕྲེང་བ།                                                   | རྒྱལ་མཁན་པོ་གྲགས་པ་རྒྱལ་མཚན།                        | [↗](http://purl.bdrc.io/resource/WA4CZ74200)        |          |
 | 10  | སྤྱོད་འཇུག་རྣམ་བཤད་རྒྱལ་སྲས་འཇུག་ངོགས་ལས་རྩ་འགྲེལ་སོ་སོར་འབྱེད་པ་ནག་པོ་འགྲོ་ཤེས།                                | ཏྲེ་ཧོར་ཁང་གསར་བློ་བཟང་ཚུལ་ཁྲིམས་བསྟན་པའི་རྒྱལ་མཚན། | [↗](http://purl.bdrc.io/resource/WA0XL846C97B5FBE1) |          |
 | 11  | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འབྲུ་འགྲེལ།                                                                | ཨ་འཛི་ནོར་བུ་དབང་རྒྱལ།                              | [↗](http://purl.bdrc.io/resource/WA0XL60FBEB493C5A) |          |
-| 12  | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་དཀའ་འགྲེལ།                                                                 | वैरोचनरक्षित                               | [↗](http://purl.bdrc.io/resource/WA0RT3906)         |          |
-| 13  | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བཤད་པ།                                                                     | दीपंकरश्रीज्ञान                                 | [↗](http://purl.bdrc.io/resource/WA0RT3936)         |          |
+| 12  | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་དཀའ་འགྲེལ།                                                                 | वैरोचनरक्षित                                        | [↗](http://purl.bdrc.io/resource/WA0RT3906)         |          |
+| 13  | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བཤད་པ།                                                                     | दीपंकरश्रीज्ञान                                     | [↗](http://purl.bdrc.io/resource/WA0RT3936)         |          |
 | 14  | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པའི་དཀའ་འགྲེལ།                                                  | कृष्णपाद                                            | [↗](http://purl.bdrc.io/resource/WA0RT3218)         |          |
 | 15  | གསང་ཕུ་བློ་གྲོས་མཚུངས་མེད་ཀྱིས་མཛད་པའི་སྤྱོད་འཇུག་རྣམ་བཤད་རིན་ཆེན་སྣང་བ།                                        | གཉལ་བ་བློ་གྲོས་མཚུངས་མེད།                           | [↗](http://purl.bdrc.io/resource/WA0XL03EAFCD91717) |          |
 | 16  | སྤྱོད་འཇུག་ཤེས་རབ་ལེའུའི་དཀའ་འགྲེལ་ལུང་རིགས་འོད་སྣང་།                                                           | གླག་བླ་བསོད་ནམས་ཆོས་འགྲུབ།                          | [↗](http://purl.bdrc.io/resource/WA0XLD4ECB2128610) |          |
@@ -159,17 +131,17 @@ Every in-vault source carries a vault-internal catalog code in its `book_id` fro
 | 79  | སྤྱོད་འཇུག་གི་འབྲུ་འགྲེལ་དབུ་མའི་ལམ་གྱི་སྒྲོན་མ།                                                                | འབྲུག་ཆེན ༠༤་པདྨ་དཀར་པོ།                            | [↗](http://purl.bdrc.io/resource/WA1KG12679)        |          |
 | 80  | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ཞེས་བྱ་བའི་མཆན་འགྲེལ།                                                        | རྒྱ་ཀོང་མཁན་ཆེན་གཞན་ཕན་ཆོས་ཀྱི་སྣང་བ།               | [↗](http://purl.bdrc.io/resource/WA1KG3711)         |          |
 | 81  | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ས་བཅད་དོན་གསལ་མེ་ལོང་དང་སྤྱོད་འཇུག་མཆན་འགྲེལ།                              | རྫ་དཔལ་སྤྲུལ་ཨོ་རྒྱན་འཇིགས་མེད་ཆོས་ཀྱི་དབང་པོ།      | [↗](http://purl.bdrc.io/resource/WA1KG3818)         |          |
-| 82  | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ལེགས་པར་སྦྱར་བ།                                                            | क्षेमदेव                             | [↗](http://purl.bdrc.io/resource/WA0RT3219)         |          |
-| 83  | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་དཀའ་འགྲེལ།                                                                 | प्रज्ञाकरमति                          | [↗](http://purl.bdrc.io/resource/WA21708)           |          |
+| 82  | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ལེགས་པར་སྦྱར་བ།                                                            | क्षेमदेव                                            | [↗](http://purl.bdrc.io/resource/WA0RT3219)         |          |
+| 83  | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་དཀའ་འགྲེལ།                                                                 | प्रज्ञाकरमति                                        | [↗](http://purl.bdrc.io/resource/WA21708)           |          |
 | 84  | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་དཀའ་འགྲེལ་དང་ལུང་སྦྱོར་མདོར་བསྡུས་འཇམ་དབྱངས་བླ་མའི་དགོངས་གསལ།              | ལི་ཐང་སྡེ་གཞུང་སྤྲུལ་སྐུ                            | [↗](http://purl.bdrc.io/resource/WA0XL4A02710267C2) |          |
-| 85  | བྱང་ཆུབ་ཀྱི་སྤྱོད་པ་ལ་འཇུག་པའི་དགོངས་པའི་འགྲེལ་པ་ཁྱད་པར་གསལ་བྱེད།                                               | विभूतिचन्द्र                              | [↗](http://purl.bdrc.io/resource/WA0RT3225)         |          |
-| 86  | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཤེས་རབ་ལེའུ་དང་བསྔོ་བའི་དཀའ་འགྲེལ།                                         | श्रीविभूतिचन्द्र                               | [↗](http://purl.bdrc.io/resource/WA0RT3222)         |          |
+| 85  | བྱང་ཆུབ་ཀྱི་སྤྱོད་པ་ལ་འཇུག་པའི་དགོངས་པའི་འགྲེལ་པ་ཁྱད་པར་གསལ་བྱེད།                                               | विभूतिचन्द्र                                        | [↗](http://purl.bdrc.io/resource/WA0RT3225)         |          |
+| 86  | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཤེས་རབ་ལེའུ་དང་བསྔོ་བའི་དཀའ་འགྲེལ།                                         | श्रीविभूतिचन्द्र                                    | [↗](http://purl.bdrc.io/resource/WA0RT3222)         |          |
 | 87  | སྤྱོད་འཇུག་ཤེས་རབ་ལེའུའི་མཆན་འགྲེལ་དོན་གསལ་མེ་ལོང་།                                                             | ཞེ་ཆེན་རྒྱལ་ཚབ ༠༤་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།           | [↗](http://purl.bdrc.io/resource/WA0XLE3B6CBCF3107) |          |
 | 88  | སྤྱོད་འཇུག་གི་དཀའ་གནས་གསལ་བྱེད།                                                                                 | རྡོ་གྲུབ་ཆེན ༠༣་འཇིགས་མེད་བསྟན་པའི་ཉི་མ།            | [↗](http://purl.bdrc.io/resource/WA0XLE045244F98EE) |          |
 | 89  | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ།                                                                   | ཀུན་དགའ་དབང་ཕྱུག                                    | [↗](http://purl.bdrc.io/resource/WA0XL9CCE5DC370F3) |          |
 | 90  | རྒྱལ་སྲས་སྤྱོད་པའི་གཞུང་ལས་ཤེས་རབ་བྱེ་བྲག་ཏུ་བཤད་པ།                                                             | སྡེ་དགེ་མཁན་པོ་བསམ་གཏན་བློ་གྲོས།                    | [↗](http://purl.bdrc.io/resource/WA0XL02DB4796470F) |          |
 | 91  | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་འཇུག་པའི་གསལ་བྱེད་ལེགས་པར་བཤད་པའི་སྣང་བ།                                              | གྲགས་པ་གཞོན་ནུ།                                     | [↗](http://purl.bdrc.io/resource/WA0XL42F52DDABE6B) |          |
-| 92  | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྟོགས་པར་དཀའ་བའི་གནས་གཏན་ལ་དབབ་པ།                                          | कृष्ण                 | [↗](http://purl.bdrc.io/resource/WA0RT3220)         |          |
+| 92  | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྟོགས་པར་དཀའ་བའི་གནས་གཏན་ལ་དབབ་པ།                                          | कृष्ण                                               | [↗](http://purl.bdrc.io/resource/WA0RT3220)         |          |
 | 93  | སྤྱོད་འཇུག་ཤེར་ལེའི་རྒྱ་ཆེར་འགྲེལ་མཆན་སྙིང་པོའི་དོན་གསལ་ཉིན་བྱེད་ཆེན་པོ།                                        | བློ་གྲོས་རྒྱལ་མཚན།                                  | [↗](http://purl.bdrc.io/resource/WA27521)           |          |
 | 94  | སྤྱོད་འཇུག་གི་ཚིག་འགྲེལ་གཅེས་བཏུས།                                                                              | མཁན་ཆེན་ཁྲ་འགུ་རིན་པོ་ཆེ།                           | [↗](http://purl.bdrc.io/resource/WA3JT13379)        |          |
 | 95  | ཟབ་མོ་ལྟ་བའི་ལུགས་ཀྱི་བྱང་ཆུབ་སེམས་དཔའི་སྡོམ་པ་ལེན་ཚུལ་སྤྱོད་འཇུག་དང་སྦྱར་བ།                                    | འབྲུག་རྗེ་མཁན་པོ ༦༩་དགེ་འདུན་རིན་ཆེན།               | [↗](http://purl.bdrc.io/resource/WA0XLFBD57931D203) |          |
@@ -179,24 +151,24 @@ Every in-vault source carries a vault-internal catalog code in its `book_id` fro
 
 ---
 
-## 2. བསྡུས་དོན། — Summary Outlines
+## 2. བསྡུས་དོན། — Summaries
 
-| # | མཚན་བྱང་། Title | མཛད་པ་པོ། Author | BDRC | In Vault |
-|---|---|---|---|---|
-| 1 | སྤྱོད་འཇུག་གི་བསྡུས་དོན་མཁས་པའི་མགུལ་རྒྱན། | སྤྱན་སྔ་བློ་གྲོས་རྒྱལ་མཚན། | [↗](http://purl.bdrc.io/resource/WA0XL9B37D5AA0C6E) |  |
-| 2 | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན། | འཇམ་དབྱངས་ཀུན་དགའ། | [↗](http://purl.bdrc.io/resource/WA0XL6E55AC487F4A) |  |
-| 3 | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་གཞུང་བསྡུས་དོན་གསལ་བའི་མེ་ལོང་ལྟར་རྣམ་པར་བཤད་པ་ཀུན་གསལ་ཉི་མའི་དཀྱིལ་འཁོར། ༼༡༽ | ཨ་སྐྱོང་མཁན་པོ་བློ་བཟང་རྡོ་རྗེ། | [↗](http://purl.bdrc.io/resource/WA0XL3940CFFD6562) |  |
-| 4 | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་གཞུང་བསྡུས་དོན་གསལ་བའི་མེལོང་ལྟར་རྣམ་པར་བཤད་པ་ཀུན་གསལ་ཉི་མའི་དཀྱིལ་འཁོར། ༼༢༽ | ཨ་སྐྱོང་མཁན་པོ་བློ་བཟང་རྡོ་རྗེ། | [↗](http://purl.bdrc.io/resource/WA0XL7AF3617FF935) |  |
-| 5 | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན། ཤཱཀྱའི་དགེ་སློང་ཆོས་ཀྱི་སེང་གེས་སྦྱར་བ། | ཉང་བྲན་ཆོས་ཀྱི་སེངྒེ | [↗](http://purl.bdrc.io/resource/WA2KG5026) |  |
-| 6 | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན། | བུ་སྟོན་རིན་ཆེན་གྲུབ། | [↗](http://purl.bdrc.io/resource/WA0XLC82B1135AE34) |  |
-| 7 | སྤྱོད་འཇུག་གི་བསྡུས་དོན། | སློབ་དཔོན་བསོད་ནམས་རྩེ་མོ། | [↗](http://purl.bdrc.io/resource/WA0XLE049A5879C5C) |  |
-| 8 | སྤྱོད་འཇུག་གི་བསྡུས་དོན་དང་སློབ་དཔོན་ཞི་བ་ལྷའི་ལོ་རྒྱུས། | — | [↗](http://purl.bdrc.io/resource/WA0XLDD71AEEFC04B) |  |
-| 9 | དགེ་སློང་ཕྱྭ་པ་ཆོས་ཀྱི་སེང་གེས་མཛད་པའི་སྤྱོད་འཇུག་བསྡུས་དོན། | ཕྱྭ་པ་ཆོས་ཀྱི་སེངྒེ | [↗](http://purl.bdrc.io/resource/WA0XL35285BBD15E4) |  |
-| 10 | སྤྱོད་འཇུག་བསྡུས་དོན། | རྗེ་བཙུན་གྲགས་པ་རྒྱལ་མཚན། | [↗](http://purl.bdrc.io/resource/WA0XL1F093687C3AB) |  |
-| 11 | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན། | ས་བཟང་མ་ཏི་པཎ་ཆེན་བློ་གྲོས་རྒྱལ་མཚན། | [↗](http://purl.bdrc.io/resource/WA0XL58E85ACD4623) |  |
-| 12 | སྤྱོད་འཇུག་གི་བསྡུས་དོན་ཉི་མའི་འོད་ཟེར། | བླ་མ་དམ་པ་བསོད་ནམས་རྒྱལ་མཚན། | [↗](http://purl.bdrc.io/resource/WA0XL9D94CF5BA8BA) |  |
-| 13 | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན་འཇམ་དབྱངས་བླ་མའི་ཞལ་ལུང་། | ལི་ཐང་སྡེ་གཞུང་སྤྲུལ་སྐུ། | [↗](http://purl.bdrc.io/resource/WA0XL47D2D894CF09) |  |
-| 14 | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན། | པཎཌིཏ་མ་ཏི། | [↗](http://purl.bdrc.io/resource/WA0NGMCP47229) |  |
+| #   | མཚན་བྱང་། Title                                                                                                    | མཛད་པ་པོ། Author                     | BDRC                                                | In Vault |
+| --- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------ | --------------------------------------------------- | -------- |
+| 1   | སྤྱོད་འཇུག་གི་བསྡུས་དོན་མཁས་པའི་མགུལ་རྒྱན།                                                                         | སྤྱན་སྔ་བློ་གྲོས་རྒྱལ་མཚན།           | [↗](http://purl.bdrc.io/resource/WA0XL9B37D5AA0C6E) |          |
+| 2   | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན།                                                                    | འཇམ་དབྱངས་ཀུན་དགའ།                   | [↗](http://purl.bdrc.io/resource/WA0XL6E55AC487F4A) |          |
+| 3   | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་གཞུང་བསྡུས་དོན་གསལ་བའི་མེ་ལོང་ལྟར་རྣམ་པར་བཤད་པ་ཀུན་གསལ་ཉི་མའི་དཀྱིལ་འཁོར། ༼༡༽ | ཨ་སྐྱོང་མཁན་པོ་བློ་བཟང་རྡོ་རྗེ།      | [↗](http://purl.bdrc.io/resource/WA0XL3940CFFD6562) |          |
+| 4   | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་གཞུང་བསྡུས་དོན་གསལ་བའི་མེལོང་ལྟར་རྣམ་པར་བཤད་པ་ཀུན་གསལ་ཉི་མའི་དཀྱིལ་འཁོར། ༼༢༽  | ཨ་སྐྱོང་མཁན་པོ་བློ་བཟང་རྡོ་རྗེ།      | [↗](http://purl.bdrc.io/resource/WA0XL7AF3617FF935) |          |
+| 5   | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན། ཤཱཀྱའི་དགེ་སློང་ཆོས་ཀྱི་སེང་གེས་སྦྱར་བ།                            | ཉང་བྲན་ཆོས་ཀྱི་སེངྒེ                 | [↗](http://purl.bdrc.io/resource/WA2KG5026)         |          |
+| 6   | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན།                                                                    | བུ་སྟོན་རིན་ཆེན་གྲུབ།                | [↗](http://purl.bdrc.io/resource/WA0XLC82B1135AE34) |          |
+| 7   | སྤྱོད་འཇུག་གི་བསྡུས་དོན།                                                                                           | སློབ་དཔོན་བསོད་ནམས་རྩེ་མོ།           | [↗](http://purl.bdrc.io/resource/WA0XLE049A5879C5C) |          |
+| 8   | སྤྱོད་འཇུག་གི་བསྡུས་དོན་དང་སློབ་དཔོན་ཞི་བ་ལྷའི་ལོ་རྒྱུས།                                                           | —                                    | [↗](http://purl.bdrc.io/resource/WA0XLDD71AEEFC04B) |          |
+| 9   | དགེ་སློང་ཕྱྭ་པ་ཆོས་ཀྱི་སེང་གེས་མཛད་པའི་སྤྱོད་འཇུག་བསྡུས་དོན།                                                       | ཕྱྭ་པ་ཆོས་ཀྱི་སེངྒེ                  | [↗](http://purl.bdrc.io/resource/WA0XL35285BBD15E4) |          |
+| 10  | སྤྱོད་འཇུག་བསྡུས་དོན།                                                                                              | རྗེ་བཙུན་གྲགས་པ་རྒྱལ་མཚན།            | [↗](http://purl.bdrc.io/resource/WA0XL1F093687C3AB) |          |
+| 11  | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན།                                                                    | ས་བཟང་མ་ཏི་པཎ་ཆེན་བློ་གྲོས་རྒྱལ་མཚན། | [↗](http://purl.bdrc.io/resource/WA0XL58E85ACD4623) |          |
+| 12  | སྤྱོད་འཇུག་གི་བསྡུས་དོན་ཉི་མའི་འོད་ཟེར།                                                                            | བླ་མ་དམ་པ་བསོད་ནམས་རྒྱལ་མཚན།         | [↗](http://purl.bdrc.io/resource/WA0XL9D94CF5BA8BA) |          |
+| 13  | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན་འཇམ་དབྱངས་བླ་མའི་ཞལ་ལུང་།                                           | ལི་ཐང་སྡེ་གཞུང་སྤྲུལ་སྐུ།            | [↗](http://purl.bdrc.io/resource/WA0XL47D2D894CF09) |          |
+| 14  | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན།                                                                    | པཎཌིཏ་མ་ཏི།                          | [↗](http://purl.bdrc.io/resource/WA0NGMCP47229)     |          |
 
 ---
 
@@ -258,10 +230,3 @@ The following three entries appear in the source CSV without a resource type or 
 | 3 | སྤྱོད་འཇུག་ཆེན་མོ། *(root text)* | शान्तिदेव | — | Root text; listed here for completeness |
 
 ---
-
-## Notes
-
-- **In Vault**: Column left blank for manual completion — mark entries as texts present in `1-SOURCES/Commentaries/`.
-- **BDRC links**: Most resources resolve to [BDRC (Buddhist Digital Resource Center)](https://www.bdrc.io). Links marked ↗ open the resource in the BDRC library.
-- **Duplicate entries**: Several resources appeared twice in the source list (R7F788F87, R9DCD3008, RE07335AF, R9A454784, R9ACAFA99, R9B72A4A4). These have been merged into single entries here. Additionally, Written Commentaries #93 (old #98) — same title and BDRC ID WA0RT3220 with two author attributions (both forms of कृष्ण / Kṛṣṇa) — has been merged into a single row.
-- **Author unknown (—)**: Author field was blank in the source record.

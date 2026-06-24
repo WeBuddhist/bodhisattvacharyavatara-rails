@@ -1,10 +1,11 @@
 ---
 title: སྤྱོད་འཇུག་ཤེར་ལེའི་རྒྱ་ཆེར་འགྲེལ་མཆན་སྙིང་པོའི་དོན་གསལ་ཉིན་བྱེད་ཆེན་པོ
-title in English: "The Great Sun Illuminating the Essential Meaning: An Extensive Commentary with Annotations on the Wisdom Chapter of the Bodhicaryavatara"
+title_in_english: "The Great Sun Illuminating the Essential Meaning: An Extensive Commentary with Annotations on the Wisdom Chapter of the Bodhicaryavatara"
 author: བྲག་གཡབ་བློ་གྲོས།
-author in English: Drag Yab Lodrö
-file_type: Commentary
-language_tag: bo
+author_in_english: Drag Yab Lodrö
+file_type: commentary
+language: Tibetan
+lang_tag: bo
 source_description: Commentary with annotations on the ninth chapter (Perfection of Wisdom) of the Bodhicaryavatara.
 ---
 

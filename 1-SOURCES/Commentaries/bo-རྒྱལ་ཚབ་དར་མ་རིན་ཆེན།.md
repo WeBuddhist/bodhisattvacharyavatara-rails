@@ -1,10 +1,11 @@
 ---
 title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་བཤད་རྒྱལ་སྲས་འཇུག་ངོགས་བཞུགས་སོ། །
-title in English: Commentary on Entering the Way of the Bodhisattva, Gateway for the Bodhisattvas
+title_in_english: Commentary on Entering the Way of the Bodhisattva, Gateway for the Bodhisattvas
 author: རྒྱལ་ཚབ་དར་མ་རིན་ཆེན།
-author in English: Gyaltsab Dharma Rinchen
+author_in_english: Gyaltsab Dharma Rinchen
 file_type: commentary
-language_tag: bo
+language: Tibetan
+lang_tag: bo
 source_description: ""
 ---
 

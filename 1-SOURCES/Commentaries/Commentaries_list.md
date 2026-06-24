@@ -259,8 +259,8 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 ## བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་ཐེག་ཆེན་ཆོས་ཀྱི་རྒྱ་མཚོ་ཟབ་རྒྱས་མཐའ་ཡས་པའི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་ཐེག་ཆེན་ཆོས་ཀྱི་རྒྱ་མཚོ་ཟབ་རྒྱས་མཐའ་ཡས་པའི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།
-**Author:** ཀརྨ་བློ་གྲོས་ཆོས་དཔལ་བཟང་པོ། (Karma Lodrö Chöpel Zangpo / Khenchen Thrangu Rinpoche)
-**Century:** 1933–2023 (20th–21st c. CE) [BDRC P1663; d. 4 June 2023]
+**Author:** དཔའ་བོ་གཙུག་ལག་ཕྲེང་བ། (Pawo Tsuglag Trengwa / Pawo Rinpoche II)
+**Century:** 1504–1566 (16th c. CE) [BDRC P2127]
 
 ---
 

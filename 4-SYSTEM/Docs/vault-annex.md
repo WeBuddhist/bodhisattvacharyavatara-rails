@@ -80,7 +80,7 @@ Every commentary file in `1-SOURCES/Commentaries/` declares a `registered_id` in
 | `khenpo-zhengah` | མཁན་པོ་གཞན་དགའ། / Khenpo Zhenga | commentary | Tibetan | `bo-མཁན་པོ་གཞན་དགའ།.md` |
 | `gyaltsab` | རྒྱལ་ཚབ་དར་མ་རིན་ཆེན། / Gyaltsab Darma Rinchen | commentary | Tibetan | `bo-རྒྱལ་ཚབ་དར་མ་རིན་ཆེན།.md` |
 | `minyak-kunzang-sonam` | མི་ཉག་ཀུན་བསོད། / Mi Nyag Kunzang Sönam | commentary | Tibetan | `bo-མི་ཉག་ཀུན་བསོད།.md` |
-| `karma-lodo` | ཀརྨ་བློ་གྲོས་ཆོས་དཔལ་བཟང་པོ། / Karma Lodrö Chöpelzangpo | commentary | Tibetan | `bo-ཀརྨ་བློ་གྲོས་ཆོས་དཔལ་བཟང་པོ།.md` |
+| `karma-lodo` | ཁྲ་འགུ་རིན་པོ་ཆེ། / Khenchen Thrangu Rinpoche (Karma Lodrö Chöpelzangpo) | commentary | Tibetan | `bo-ཁྲ་འགུ་རིན་པོ་ཆེ།.md` |
 | `khenpo-kunga` | མཁན་པོ་ཀུན་དགའ་དབང་ཕྱུག | commentary | Tibetan | `bo-མཁན་པོ་ཀུན་དགའ་དབང་ཕྱུག.md` |
 | `ngulchu-thogmed` | དངུལ་ཆུ་ཐོགས་མེད། / Ngülchu Thogmé | commentary | Tibetan | `bo-དངུལ་ཆུ་ཐོགས་མེད།.md` |
 | `tsawa-nyag` | ཚྭ་ཉག་ཤེས་རབ་མཐར་ཕྱིན། | commentary | Tibetan | `bo-ཚྭ་ཉག་ཤེས་རབ་མཐར་ཕྱིན།.md` |

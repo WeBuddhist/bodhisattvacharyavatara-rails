@@ -4,7 +4,7 @@ source_type: commentary
 text: bodhisattvacaryavatara
 language: Tibetan
 lang_tag: bo
-file: 1-SOURCES/Commentaries/bo-ཀརྨ་བློ་གྲོས་ཆོས་དཔལ་བཟང་པོ།.md
+file: 1-SOURCES/Commentaries/bo-ཁྲ་འགུ་རིན་པོ་ཆེ།.md
 outline_basis: explicit
 chapters_covered: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 ingest_date: 2026-06-15
@@ -31,7 +31,7 @@ This chapter establishes the BCA's opening frame and then argues that *bodhicitt
 A translator must note that the commentary treats BCA 1-1 as containing two structurally distinct speech acts: the first half (ab) as an act of *vandanā* (ཕྱག་བྱ་བ།, prostration-homage) and the second half (cd) as a *pratijñā* (རྩོམ་པར་དམ་བཅའ་བ།, formal pledge to compose). Conflating these in translation would flatten a structural distinction the commentary builds its opening analysis on.
 
 Associated concepts: [[bodhicitta (awakening mind)]] · [[vandanā (homage)]] · [[pratijñā (formal pledge)]] · [[bodhisattva (awakening being)]]
-(1-SOURCES/Commentaries/bo-ཀརྨ་བློ་གྲོས་ཆོས་དཔལ་བཟང་པོ།.md#^2-2-109)
+(1-SOURCES/Commentaries/bo-ཁྲ་འགུ་རིན་པོ་ཆེ།.md#^2-2-109)
 
 ### 1.1 Opening of the Treatise (1-1–1-3)
 
@@ -60,7 +60,7 @@ This chapter develops the ritual context and motivational foundation that must p
 The implied audience is practitioners preparing to take the bodhisattva vow in a ritual setting; the commentary's detail about the seven-limb offering reflects liturgical practice rather than mere textual analysis. A translator who presents the seven-limb structure as simply a list of devotional acts would miss that the commentary treats each limb as accomplishing a specific preparatory function (purification, accumulation, invitation, rejoicing, requesting, etc.) in a logically ordered sequence.
 
 Associated concepts: [[yan lag bdun pa (sevenfold practice)]] · [[bodhisattva vow]] · [[merit (bsod nams)]] · [[confession (bshags pa)]]
-(1-SOURCES/Commentaries/bo-ཀརྨ་བློ་གྲོས་ཆོས་དཔལ་བཟང་པོ།.md#^2-2-272)
+(1-SOURCES/Commentaries/bo-ཁྲ་འགུ་རིན་པོ་ཆེ།.md#^2-2-272)
 
 ### 2.1 Chapter Connection and Introduction to the Ritual (2-1–2-7)
 
@@ -92,7 +92,7 @@ This chapter marks the pivot from preparation to the actual uptake of the bodhis
 The commentary reads Chapter 3 as structurally pivotal within the entire BCA: after this chapter, the remainder of the text (Chapters 4–10, covering the six pāramitās and their supporting qualities) is organized under the heading "guarding what has been obtained" (ཐོབ་པ་མི་ཉམས་པར་སྲུང་བའི་ཚུལ།). A translator or adapter who treats Chapters 3–10 as six independent topics misses this unifying frame: the pāramitās are how one maintains the bodhicitta commitment taken in Chapter 3.
 
 Associated concepts: [[bodhicitta (awakening mind)]] · [[bodhisattva vow]] · [[pāramitā (perfection)]] · [[śīla (ethical conduct)]]
-(1-SOURCES/Commentaries/bo-ཀརྨ་བློ་གྲོས་ཆོས་དཔལ་བཟང་པོ།.md#^2-2-411)
+(1-SOURCES/Commentaries/bo-ཁྲ་འགུ་རིན་པོ་ཆེ།.md#^2-2-411)
 
 ### 3.1 Chapter Connection (3-1)
 
@@ -117,7 +117,7 @@ Develops *carefulness* (བག་ཡོད་པ།, *appramāda*) as the first 
 The Tibetan term *bag yod pa* is often translated as "conscientiousness" or "vigilance." The commentary's analysis shows that it encompasses both the *absence of heedlessness* (bag med pa) and the active quality of *attention to what matters*. A translation that treats this as simple "carefulness" in a colloquial sense would miss the strong connection to the mind-training (*lojong*) tradition's use of the term as a technical mental factor.
 
 Associated concepts: [[bag yod pa (carefulness/heedfulness)]] · [[appramāda (non-heedlessness)]] · [[bodhicitta (awakening mind)]]
-(1-SOURCES/Commentaries/bo-ཀརྨ་བློ་གྲོས་ཆོས་དཔལ་བཟང་པོ།.md#^2-2-550)
+(1-SOURCES/Commentaries/bo-ཁྲ་འགུ་རིན་པོ་ཆེ།.md#^2-2-550)
 
 ### 4.1 Chapter Connection (4-1)
 

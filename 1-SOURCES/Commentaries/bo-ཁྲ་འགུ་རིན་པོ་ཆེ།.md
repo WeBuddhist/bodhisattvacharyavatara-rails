@@ -1,9 +1,9 @@
 ---
-book_id: BCA-BOC-20KLCZ
+book_id: BCA-BOC-20KTR
 title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཚིག་འགྲེལ་གཅེས་བཏུས།
 title_in_english: A Compendium of Selected Commentaries on Entering the Bodhisattva's Way of Life
 author: ཀརྨ་བློ་གྲོས་ཆོས་དཔལ་བཟང་པོ།
-author_in_english: Karma Lodrö Chöpel Zangpo
+author_in_english: Khenchen Thrangu Rinpoche (Karma Lodrö Chöpel Zangpo, 1933–2023)
 file_type: commentary
 language: Tibetan
 lang_tag: bo

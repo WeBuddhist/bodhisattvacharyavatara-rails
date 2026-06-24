@@ -51,8 +51,8 @@ Once you have the chapter and verse range, **read the root text and all relevant
 All generated prose must follow these style rules without exception:
 
 **Voice and person — differs by section**
-- **Sections 2 and 3.2** (Benefits and Commentary): Use a **neutral, explanatory tone**. Write as a teacher explaining the teaching to a practitioner. You may address the reader as ཁྱེད་ (you) to maintain warmth, but never use ངས་ / ང་རང་ / བདག་གིས་ in these sections. The focus is the teaching itself, not the practitioner's personal voice.
-- **Section 4 only** (Daily Life Application): Use the **first person singular** — ངས་, ང་རང་, བདག་གིས་. Never ང་ཚོས་ or ང་ཚོ་. This section voices the practitioner's own personal commitment to applying today's teaching.
+- **Sections 2 and 4** (Introduction and Commentary): Use a **neutral, explanatory tone**. Write as a teacher explaining the teaching to a practitioner. You may address the reader as ཁྱེད་ (you) to maintain warmth, but never use ངས་ / ང་རང་ / བདག་གིས་ in these sections. The focus is the teaching itself, not the practitioner's personal voice.
+- **Section 5 only** (Daily Life Application): Use the **first person singular** — ངས་, ང་རང་, བདག་གིས་. Never ང་ཚོས་ or ང་ཚོ་. This section voices the practitioner's own personal commitment to applying today's teaching.
 
 **Sentence flow**
 - Sentences must be **connected and flowing**, linked by conjunctive particles: དང་། བཅས་། ཏེ། ནས། ཞིང་། etc.
@@ -69,11 +69,11 @@ All generated prose must follow these style rules without exception:
 **What to avoid**
 - ❌ Dzongkha grammatical patterns or vocabulary
 - ❌ Cold, encyclopaedic or overly academic prose — even neutral-tone sections (2, 3.2, 6) should feel warm and accessible, like a kind teacher speaking to a student
-- ❌ First person singular (ངས་ / ང་རང་ / བདག་གིས་) in Sections 2 and 3.2
+- ❌ First person singular (ངས་ / ང་རང་ / བདག་གིས་) in Sections 2 and 4
 - ❌ ང་ཚོས་ / ང་ཚོ་ (collective "we") anywhere in the document
 - ❌ Clipped clauses that don't flow into one another
 
-**Model example** (Section 4 tone — personal application, first person singular):
+**Model example** (Section 5 tone — personal application, first person singular):
 > ཐོག་མར་ངས་དཀོན་མཆོག་གསུམ་ལ་གུས་པ་དང་སེམས་ཅན་ཐམས་ཅད་ལ་དམིགས་པའི་བྱང་ཆུབ་ཀྱི་སེམས་སྐྱེ་བའི་སྨོན་ལམ་འདེབས། དེ་རིང་ངས་སྤྱོད་འཇུག་གི་ལེའུ་དང་པོའི་ཤློཀ་དང་པོ་དང། གཉིས་པ། གསུམ་པ་བཅས་སློབ་སྦྱོང་དང་ཉམས་སུ་ལེན་རྒྱུ་ཡིན། རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷས་བྱང་ཆུབ་ཀྱི་སེམས་སྒོམ་པའི་ཕྱིར་གཞུང་འདི་བརྩམས་པར་གསུངས་པས། ང་རང་ཉིད་ཀྱིས་ཀྱང་རང་རྒྱུད་ཀྱི་ང་རྒྱལ་འཇོམས་པ་དང་གཞན་ཕན་གྱི་བསམ་པས་ཀུན་ནས་བསླངས་ཏེ་དེ་རིང་གི་སྤྱོད་འཇུག་སློབ་སྦྱོང་དང་ཉམས་ལེན་གྱི་ལས་ལ་འཇུག་པར་བྱ་རྒྱུ་ཡིན་ནོ།།
 
 ---
@@ -140,43 +140,22 @@ Always include these two sub-sections verbatim:
 
 ---
 
-### Section 2 — ཕན་ཡོན། (Benefits of Today's Verses) [GENERATED]
+### Section 2 — ངོ་སྤྲོད། (Introduction) [GENERATED]
 
-> **Tone: neutral and explanatory.** Write as a teacher presenting the benefits to the practitioner. Do not use first person (ངས་ / ང་རང་). You may address the reader as ཁྱེད་ to maintain warmth.
+> **Tone: neutral and engaging.** Write as a teacher warmly opening the day's practice. Do not use first person (ངས་ / ང་རང་). You may address the reader as ཁྱེད་ to maintain warmth.
 
-Write exactly **3 benefit bullet points** in Tibetan. Each point should:
-- Have a bold **title** (4–7 Tibetan words) that names the specific benefit — the title **must end with འི་ཕན་ཡོན།**
-- Be followed by 2–3 sentences of clear, accessible explanation on the same line after a colon (`:`)
-- Be tied specifically to the themes of today's verses (not generic bodhisattva benefits)
-
-Pattern to follow:
-```markdown
-*   **[Benefit title ending in འི་ཕན་ཡོན།]**: [2–3 sentences of explanation]
-```
-
-Example:
-```
-*   **བདེ་གཤེགས་སྲས་སུ་འགྱུར་བའི་ཕན་ཡོན།**: བྱང་ཆུབ་ཀྱི་སེམས་སྐྱེས་པ་ཙམ་གྱིས་འཁོར་བར་འཁྱམས་པའི་སེམས་ཅན་ཉམ་ཐག་རྣམས་ཀྱང་སངས་རྒྱས་ཀྱི་སྲས་སུ་འགྱུར་ཞིང་ལྷ་མིས་ཕྱག་བྱ་བའི་གནས་སུ་འགྱུར་རོ། །
-```
-
-The three benefits should form a natural progression: from psychological/emotional freedom → clarifying one's focus/target → developing resilience/courage. Adapt this arc to the specific chapter content.
-
-Full example (Day 15 — Chapter 2, Verses 1–3):
-```
-*   **དཀོན་མཆོག་ལ་མཆོད་པ་འབུལ་བའི་ཕན་ཡོན།**: དེ་བཞིན་གཤེགས་པ་དང་དམ་པའི་ཆོས་སོགས་དཀོན་མཆོག་གསུམ་ལ་ལེགས་པར་མཆོད་པ་ཕུལ་བ་ལ་བརྟེན་ནས། རང་གི་རྒྱུད་ལ་སྐྱེས་པའི་རིན་པོ་ཆེ་ལྟ་བུའི་བྱང་ཆུབ་ཀྱི་སེམས་དེ་ཉིད་མི་ཉམས་ཤིང་བརྟན་པོར་གཟུང་ཐུབ་པར་འགྱུར་རོ། །
-*   **བདག་མེད་པའི་དངོས་པོ་འབུལ་བའི་ཕན་ཡོན།**: འཇིག་རྟེན་གྱི་ཁམས་ན་ཡོད་པའི་མེ་ཏོག་དང་འབྲས་བུ་ཆུ་གཙང་ལ་སོགས་པ་དམིགས་ནས་མཆོད་པར་ཕུལ་བས། བློའི་དམིགས་པ་རབ་ཏུ་རྒྱ་ཆེར་འཕེལ་ཞིང་སེམས་ཀྱི་འཛིན་ཆགས་མེད་པར་བསོད་ནམས་དཔག་ཏུ་མེད་པ་སོག་པར་འགྱུར་རོ། །
-*   **རང་བྱུང་གི་མཛེས་པ་དམིགས་པའི་ཕན་ཡོན།**: རིན་པོ་ཆེའི་རི་བོ་དང་ནགས་ཚལ་ཉམས་དགའ་བ་སོགས་བདག་པོས་མ་བཟུང་བའི་རང་བྱུང་གི་མཛེས་པ་ཐམས་ཅད་ཡིད་ཀྱིས་སྤྲུལ་ནས་མཆོད་པས། སངས་རྒྱས་ཐོབ་འདོད་ཀྱི་བསམ་པ་མཐར་ཕྱིན་ཅིང་དགེ་བའི་རྩ་བ་རྒྱུན་མི་ཆད་པར་འཕེལ་བར་འགྱུར་རོ། །
-```
+Write exactly **2–4 sentences, ≤ 60 words** in Tibetan. This is not an explanation of the verse(s) — it is an introduction of the day with the verse(s). It should:
+- Introduce the day and its verse(s) as the entry point into today's practice
+- Be very engaging — draw a direct, living connection between the verse and the practitioner's own life
+- Invite the practitioner in, so they feel motivated to sit with this teaching today
 
 ---
 
-### Section 3 — དེ་རིང་གི་རྩ་ཚིག (Today's Root Verses with Commentary) [GENERATED]
+### Section 3 — དེ་རིང་གི་རྩ་ཚིག (Today's Root Verses) [GENERATED]
 
-Open the section with the literal heading `### ༣། དེ་རིང་གི་རྩ་ཚིག`. The section is divided into two distinct subsections: all root verses first, then all commentaries. Do not interleave them.
+Open the section with the literal heading `### ༣། དེ་རིང་གི་རྩ་ཚིག`. Include only root verses here — no commentary. Commentary appears in Section 4.
 
-> ⚠️ The 3.1/3.2 split below is **organisational only** — do **not** output `#### ༣.༡ རྩ་ཚིག` or `#### ༣.༢ འགྲེལ་བཤད།` headings. The per-verse headers described below are the only headings inside this section.
-
-#### Subsection 3.1 — རྩ་ཚིག (Root Verses)
+> ⚠️ Do **not** output subsection headings. The per-verse headers described below are the only headings inside this section.
 
 The user will provide the verses for the day in their prompt. For each verse provided, look up the exact text in `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\1-SOURCES\Translations\bo-བློ་ལྡན་ཤེས་རབ།.md` using the `^chapter-verse` block reference for that verse. List them in sequence:
 
@@ -187,9 +166,15 @@ The user will provide the verses for the day in their prompt. For each verse pro
    - Example: `#### **༡༢. ཤློཀ་བཅུ་གཉིས་པ།** (ལེའུ་ ༡ ཤློཀ་ ༡༢)`
 1. **Verse block**: The full Tibetan verse in a blockquote, with `། །` line endings — copied **exactly** from `bo-བློ་ལྡན་ཤེས་རབ།-དངུལ་ཆུ་ཐོགས་མེད་སྤྱོད་འཇུག་རྩ་བ།.md` using the `^chapter-verse` block reference for that verse. **Use the exact text from the file. Never quote verses from memory or training data.**
 
-No commentary, explanation, or editorial text belongs in this subsection — verses only.
+No commentary, explanation, or editorial text belongs in this section — verses only.
 
-#### Subsection 3.2 — འགྲེལ་བཤད། (Commentary)
+> ⚠️ **Critical rule for Section 3**: Verse text must be copied exactly from `bo-བློ་ལྡན་ཤེས་རབ།.md` using the `^chapter-verse` block reference. If you cannot locate a verse in the file, state this explicitly — do not substitute your own words.
+
+---
+
+### Section 4 — འགྲེལ་བཤད། (Commentary) [GENERATED]
+
+Open the section with the literal heading `### ༤། འགྲེལ་བཤད།`.
 
 > **Tone: neutral and explanatory.** Write as a teacher clarifying the meaning for the practitioner. Do not use first person (ངས་ / ང་རང་). You may address the reader as ཁྱེད་ to maintain warmth.
 
@@ -262,11 +247,11 @@ Additional worked example (Day 15 — Chapter 2, Verses 1–3):
   **མཆན།**: [[1-SOURCES/Commentaries/bo-དངུལ་ཆུ་ཐོགས་མེད།.md#^2-10-6|དངུལ་ཆུ་ཐོགས་མེད། ^2-10-6]]
 ```
 
-> ⚠️ **Critical rule for Section 3**: Both verse text and commentary must come from the source files. Verse text must be copied exactly from `bo-བློ་ལྡན་ཤེས་རབ།.md`. Commentary must be extracted and synthesised from the files in `1-SOURCES/Commentaries/`. If you cannot locate a verse or its commentary in the files, state this explicitly — do not substitute your own words.
+> ⚠️ **Critical rule for Section 4**: Commentary must be extracted and synthesised from the files in `1-SOURCES/Commentaries/`. If you cannot locate commentary for a verse in the files, state this explicitly — do not invent or improvise.
 
 ---
 
-### Section 4 — ཉམས་སུ་ལེན་ཚུལ། (Daily Life Application) [GENERATED]
+### Section 5 — ཉམས་སུ་ལེན་ཚུལ། (Daily Life Application) [GENERATED]
 
 > **Tone: personal, first person singular.** This section is the practitioner's own voice — a personal commitment to apply today's teaching. Use ངས་, ང་རང་, བདག་གིས་. Never ང་ཚོས་ or ང་ཚོ་.
 

@@ -37,8 +37,7 @@ Ask the user (or infer from context) for:
 
 1. **Day number** (1–365) — required
 2. **Chapter** (ལེའུ་) and **verse range** (ཤློཀ་) — if not provided, read `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\3-TRANSFORMATIONS\Plans\the-bodhisattva-challenge\bo\schedule-corrected.md` and look up the day's assigned verse(s) there
-3. **Save location** — default to the user's Obsidian folder: `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\0-INBOX\Plans\`
-4. **Language for commentary** — default is Tibetan (བོད་སྐད།); English commentary notes can be added if the user asks
+3. **Language for commentary** — default is Tibetan (བོད་སྐད།); English commentary notes can be added if the user asks
 
 If the user only gives a day number, read `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/bo/schedule-corrected.md` to find the chapter and verse(s) assigned for that day.
 
@@ -292,22 +291,23 @@ Always include these two sub-sections verbatim:
 ---
 
 
-## Step 3 — Assemble and save the file
+## Step 3 — Assemble and write to the correct file
 
-Combine all 7 sections into a single markdown file. Use this filename format:
+Combine all sections into the complete document. Then:
 
-```
-Day-[day]-Ch[chapter]-V[start]-[end].md
-```
+1. **Construct the target filename** from the day's inputs:
+   ```
+   Day-[day]-Ch[chapter]-V[start]-[end].md
+   ```
+   - Day number: no zero-padding (1, not 001)
+   - Verse letter: uppercase **V**
+   - Example: `Day-1-Ch4-V43-44.md`
 
-- Day number: no zero-padding (1, not 001)
-- Verse letter: uppercase **V**
+2. **Find the matching file** inside `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\3-TRANSFORMATIONS\Plans\the-bodhisattva-challenge\bo\`. The 365 target files are distributed across chapter subfolders (e.g. `Chapter-1 D1-D14\`, `Chapter-4 D34-D55\`). Search all subfolders for the filename constructed in step 1 — the name will match exactly.
 
-Example: `Day-1-Ch4-V43-44.md`
+3. **Write the generated content into that file** — replacing whatever placeholder content is there.
 
-Save to: `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\3-TRANSFORMATIONS\Plans\bo\`
-
-After saving, present the file with a `computer://` link and a one-sentence summary of the day's verses.
+After writing, present the file and confirm which file was written to with its subfolder path.
 
 ---
 

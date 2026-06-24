@@ -290,6 +290,64 @@ Always include these two sub-sections verbatim:
 
 ---
 
+### Section 7 — Image Generation Prompt [GENERATED]
+
+This section produces a single English-language prompt for an external AI image generator. **Do not generate an image** — write only the prompt. The prompt will be used by Tigerboy to produce a classical Indian painting that illustrates the day's practice, and the day's verse and challenge will be overlaid as text before sharing on social media.
+
+#### What to draw from
+
+Before writing the prompt, synthesise the following from what was already generated:
+
+- **The verse(s)** (Section 3) — the core theme, imagery, and metaphors Śāntideva uses
+- **The explanations** (Section 4) — any vivid scenes, stories, or key concepts that emerged
+- **The daily challenge** (Section 5) — the concrete human situation the practitioner is asked to work with
+
+The prompt must tell a single coherent visual story that connects verse, explanation, and challenge — not three separate scenes.
+
+#### Style parameters — always include
+
+- Classical Indian Buddhist manuscript painting (Pāla dynasty style)
+- Rich jewel tones: deep lapis lazuli blue, vermillion, gold leaf accents, forest green
+- Flat perspective, elegant line work, decorative borders typical of illuminated manuscripts
+- Figures in traditional Indian iconographic postures; landscape stylised and ornamental
+- Warm devotional atmosphere — serene, luminous, inspiring
+
+#### Composition guidance
+
+The verse text and challenge text will be overlaid on the finished image for social media sharing. Design the prompt so:
+
+- The **main narrative scene occupies the centre** of the image
+- Decorative borders or sky/landscape at the **top and bottom** give natural space for text overlays
+- The scene is **not overcrowded** — one or two clear focal figures or moments, not a busy panorama
+- Target aspect ratio: **4:5 portrait** (ideal for Instagram)
+
+#### How to write the prompt
+
+1. Open with a concise scene description — who or what is depicted, what is happening, what emotion it conveys
+2. Add the setting and natural elements drawn from the verse's own imagery (e.g. a wish-fulfilling tree, a lotus lake, a solitary figure on a mountain path)
+3. Specify the painting style and technical parameters
+4. Close with mood and lighting: "warm golden light", "serene and devotional", "glowing from within"
+
+Write the prompt as a single flowing paragraph of 80–140 words. Do not use bullet points inside the prompt itself. Do not include instructions or meta-commentary in the prompt — only the image description.
+
+#### Format in the document
+
+Output the prompt under this heading:
+
+```markdown
+### ༧། Image Generation Prompt
+
+[Prompt text here — English, single paragraph, 80–140 words.]
+```
+
+#### Example prompt (illustrative only — do not reuse)
+
+```
+A solitary bodhisattva sits beneath a vast wish-fulfilling tree whose golden branches stretch across a lapis-blue sky, its roots glowing beneath the earth. Before him, a wandering figure pauses on a dusty path, hands folded, eyes lifted in sudden recognition. The scene is rendered in Pāla dynasty manuscript painting style: rich jewel tones of vermillion, forest green, and deep blue with gold leaf accents, elegant flat perspective, fine calligraphic linework, and ornamental floral borders framing the composition top and bottom. The mood is serene and luminous — warm golden afternoon light, a sense of boundless quiet, the first moment of turning toward virtue. 4:5 portrait orientation.
+```
+
+---
+
 
 ## Step 3 — Assemble and write to the correct file
 
@@ -360,7 +418,7 @@ If the user doesn't specify verses and asks only for a day number, read that fil
 ## Quality checklist before saving
 
 - [ ] Document header present, with correct day number, chapter ordinal, and verse range in Tibetan numerals — positioned **before Section 1**
-- [ ] All 6 sections present with correct section numbering (༡། through ༦།)
+- [ ] All 7 sections present with correct section numbering (༡། through ༧།)
 - [ ] Section 1 and Section 6 match the fixed prayer texts **exactly** — do not paraphrase or alter
 - [ ] Day number, chapter, and verse numbers are in Tibetan numerals in the header
 - [ ] Section 2 introduction is 2–4 sentences, ≤ 60 words — introduces the day with the verse(s), not an explanation of the verse
@@ -377,5 +435,6 @@ If the user doesn't specify verses and asks only for a day number, read that fil
 - [ ] Sections 2 and 4 use neutral tone — no first person (ངས་ / ང་རང་ / བདག་གིས་) in these sections
 - [ ] Sentences flow smoothly with connective particles — no clipped Dzongkha-style clauses
 - [ ] Classical Tibetan literary register maintained; Śāntideva referred to as རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷ།
+- [ ] Section 7 — image generation prompt is English, single paragraph, 80–140 words; based on the day's verse(s), explanations, and challenge; specifies Pāla dynasty style, jewel tones, 4:5 portrait; no meta-commentary inside the prompt
 - [ ] Filename follows the format `Day-[day]-Ch[chapter]-V[start]-[end].md` — no zero-padding, uppercase V
 - [ ] Horizontal rules (---) separate all major sections

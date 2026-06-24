@@ -1,3 +1,13 @@
+---
+title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་གཞུང་དོན་རབ་གསལ་སྣང་བ་བཞུགས་སོ། །
+title_in_english: "Commentary on Entering the Bodhisattva's Way of Life: Luminously Clear Illumination of the Meaning of the Text"
+author: ས་བཟང་མ་ཏི་པཎ་ཆེན་བློ་གྲོས་རྒྱལ་མཚན།
+author_in_english: Sa bzang Mati Panchen Lodro Gyaltsen (1294–1376)
+file_type: commentary
+language: Tibetan
+lang_tag: bo
+source_description: ""
+---
 # ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་གཞུང་དོན་རབ་གསལ་སྣང་བ་བཞུགས་སོ། །
 
 

@@ -1,3 +1,13 @@
+---
+title: སྤྱོད་འཇུག་གླེང་བ་བཞུགས་སོ། །
+title_in_english: Discourse on the Bodhicaryāvatāra (proofreading draft)
+author: རྫོང་སར་མཁྱེན་བརྩེ་རིན་པོ་ཆེ།
+author_in_english: Dzongsar Khyentse Rinpoche
+file_type: commentary
+language: Tibetan
+lang_tag: bo
+source_description: ""
+---
 # ༈ སྤྱོད་འཇུག་གླེང་བ་བཞུགས་སོ། །
 
 ## ཆོས་ཐུན་དང་པོ།

@@ -1,3 +1,13 @@
+---
+title: 入菩薩行論教授
+title_in_english: Teaching on the Bodhicaryāvatāra
+author: 第十四世達賴喇嘛
+author_in_english: H.H. the 14th Dalai Lama, Tenzin Gyatso
+file_type: commentary
+language: Chinese
+lang_tag: zh
+source_description: ""
+---
 《入菩薩行論教授》
 
 寂天菩薩 造論

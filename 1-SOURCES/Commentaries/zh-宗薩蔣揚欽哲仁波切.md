@@ -1,3 +1,13 @@
+---
+title: 入菩薩行論講解
+title_in_english: Commentary on Entering the Bodhisattva's Way of Life
+author: 宗薩蔣揚欽哲仁波切
+author_in_english: Dzongsar Jamyang Khyentse Rinpoche
+file_type: commentary
+language: Chinese
+lang_tag: zh
+source_description: ""
+---
 ### 禮敬
 
 

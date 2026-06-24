@@ -1,12 +1,12 @@
 ---
-title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་བ།
-title_in_english: Commentary on the Bodhicaryāvatāra
-author: སློབ་དཔོན་བསོད་ནམས་རྩེ་མོ།
-author_in_english: Sönam Tsemo (1142–1182)
+title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་དམ་པའི་དགོངས་པ་རབ་གསལ།
+title_in_english: "Brilliant Illumination of the Sacred Meaning: Commentary on the Bodhicaryāvatāra"
+author: བཙུན་པ་སངས་རྒྱས་ཡོན་ཏན།
+author_in_english: Tsönpa Sangyé Yönten
 file_type: commentary
 language: Tibetan
 lang_tag: bo
-source_description: "Block from VEIE0OPI1C1BBFCB trilingual alignment corpus (BDRC work I3CN4457)"
+source_description: "Block from VEIE0OPI1C1BBFCB trilingual alignment corpus (BDRC volume I3CN4457)"
 bdrc_work_id: I3CN4457
 ---
 ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་

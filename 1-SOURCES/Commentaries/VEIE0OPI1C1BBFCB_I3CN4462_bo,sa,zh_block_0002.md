@@ -1,12 +1,12 @@
 ---
-title: སྤྱོད་འཇུག་འགྲེལ་པ་གཞུང་དོན་སྣང་བ།
-title_in_english: "Commentary on the Bodhicaryāvatāra: Illumination of the Meaning of the Text"
-author: ཇོ་ནང་ལོ་ཆེན་བློ་གྲོས་དཔལ་བཟང།
-author_in_english: Jonang Lochen Lodro Palzang
+title: བྱང་ཆུབ་སེམས་པའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་སྤྱོད་པ་རབ་ཏུ་གསལ་བ།
+title_in_english: "Brilliantly Clear on the Conduct: Commentary on the Bodhicaryāvatāra"
+author: བོ་དོང་པཎ་ཆེན་ཕྱོགས་ལས་རྣམ་རྒྱལ།
+author_in_english: Bodongpa Choglé Namgyal (1375–1451)
 file_type: commentary
 language: Tibetan
 lang_tag: bo
-source_description: "Block from VEIE0OPI1C1BBFCB trilingual alignment corpus (BDRC work I3CN4462)"
+source_description: "Block from VEIE0OPI1C1BBFCB trilingual alignment corpus (BDRC volume I3CN4462)"
 bdrc_work_id: I3CN4462
 ---
 ༄༅། །བྱང་ཆུབ་སེམས་པའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་

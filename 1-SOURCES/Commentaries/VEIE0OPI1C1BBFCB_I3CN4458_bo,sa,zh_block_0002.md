@@ -1,12 +1,12 @@
 ---
-title: བྱང་ཆུབ་སེམས་པའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཟིན་བྲིས་འཇམ་དཔལ་ཞལ་ལུང་ཞེས་བྱ་བ།
-title_in_english: "Notes on the Bodhicaryāvatāra: Oral Teachings of Mañjuśrī"
-author: ལྷོ་པ་ཀུན་མཁྱེན་རིན་ཆེན་དཔལ།
-author_in_english: Lhopa Kunkhyen Rinchen Pal
+title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་འཐད་པ་ཀུན་ལས་བཏུས་པའི་སྒྲོན་མེ།
+title_in_english: "Lamp Gathering All the Reasonings: Commentary on the Bodhicaryāvatāra According to the Sakya Tradition"
+author: བདེ་བ་ཅན་པ་ཡེ་ཤེས་མགོན་པོ།
+author_in_english: Yeshe Gonpo of Dewachen
 file_type: commentary
 language: Tibetan
 lang_tag: bo
-source_description: "Block from VEIE0OPI1C1BBFCB trilingual alignment corpus (BDRC work I3CN4458)"
+source_description: "Block from VEIE0OPI1C1BBFCB trilingual alignment corpus (BDRC volume I3CN4458)"
 bdrc_work_id: I3CN4458
 ---
 ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་

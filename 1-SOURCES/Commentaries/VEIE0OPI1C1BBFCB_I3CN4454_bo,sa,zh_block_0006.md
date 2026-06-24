@@ -1,12 +1,12 @@
 ---
-title: སྤྱོད་འཇུག་ཤེས་རབ་ལེའུའི་འགྲེལ་པ།
-title_in_english: Commentary on the Wisdom Chapter of the Bodhicaryāvatāra
-author: བྱང་ཆུབ་སྐྱབས།
-author_in_english: Byang-chub-skyabs (Bodhirakṣita)
+title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་སྒྲུང་འགྲེལ་ལས་འབྲས་གསལ་བའི་མེ་ལོང་།
+title_in_english: "Mirror Illuminating the Fruit: From the Narrative Commentary on the Bodhicaryāvatāra"
+author: དབང་ཕྱུག་རིན་ཆེན།
+author_in_english: Wangchuk Rinchen
 file_type: commentary
 language: Tibetan
 lang_tag: bo
-source_description: "Block from VEIE0OPI1C1BBFCB trilingual alignment corpus (BDRC work I3CN4454)"
+source_description: "Block from VEIE0OPI1C1BBFCB trilingual alignment corpus (BDRC volume I3CN4454)"
 bdrc_work_id: I3CN4454
 ---
 ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་སྒྲུང་འགྲེལ

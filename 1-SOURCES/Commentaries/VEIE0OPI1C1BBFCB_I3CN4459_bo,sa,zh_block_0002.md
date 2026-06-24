@@ -1,12 +1,12 @@
 ---
-title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན་གསལ་བར་བྱེད་པའི་ལྡེ་མིག་ཅེས་བྱ་བ།
-title_in_english: Key that Illuminates the Summary Meaning of the Bodhicaryāvatāra
+title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་བྱང་ཆུབ་ཀྱི་སེམས་གསལ་བར་བྱེད་པ་ཟླ་བའི་འོད་ཟེར།
+title_in_english: "Moonbeams Clarifying the Mind of Awakening: Commentary on the Bodhicaryāvatāra"
 author: བུ་སྟོན་རིན་ཆེན་གྲུབ།
 author_in_english: Butön Rinchen Drup (1290–1364)
 file_type: commentary
 language: Tibetan
 lang_tag: bo
-source_description: "Block from VEIE0OPI1C1BBFCB trilingual alignment corpus (BDRC work I3CN4459)"
+source_description: "Block from VEIE0OPI1C1BBFCB trilingual alignment corpus (BDRC volume I3CN4459)"
 bdrc_work_id: I3CN4459
 ---
 ༄༅༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་

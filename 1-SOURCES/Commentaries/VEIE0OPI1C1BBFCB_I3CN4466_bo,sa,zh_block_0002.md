@@ -1,12 +1,12 @@
 ---
-title: སྤྱོད་འཇུག་ཤེས་རབ་ལེའུའི་སྤྱི་དོན་རིམ་པར་ཕྱེ་བ་ཟབ་མོ་རྟེན་འབྱུང་གི་དེ་ཁོ་ན་ཉིད་ཡང་གསལ་སྒྲོན་མེ་ཞེས་བྱ་བ།
-title_in_english: "Lamp Further Illuminating the Reality of Dependent Origination: General Meaning of the Wisdom Chapter of the Bodhicaryāvatāra"
+title: སྤྱོད་འཇུག་ཤེས་རབ་ལེའུའི་གཞུང་འགྲེལ་ཟབ་མོ་རྟེན་འབྱུང་གི་དེ་ཁོ་ན་ཉིད་གསལ་བའི་སྒྲོན་མེ།
+title_in_english: "Lamp Illuminating the Reality of Dependent Origination: Textual Commentary on the Wisdom Chapter of the Bodhicaryāvatāra"
 author: ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ།
 author_in_english: Thubten Chökyi Drakpa
 file_type: commentary
 language: Tibetan
 lang_tag: bo
-source_description: "Block from VEIE0OPI1C1BBFCB trilingual alignment corpus (BDRC work I3CN4466)"
+source_description: "Block from VEIE0OPI1C1BBFCB trilingual alignment corpus (BDRC volume I3CN4466)"
 bdrc_work_id: I3CN4466
 ---
 ༄༅། །སྤྱོད་འཇུག་ཤེས་རབ་ལེའུའི་གཞུང་འགྲེལ་ཟབ་མོ་རྟེན་

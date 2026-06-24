@@ -1,12 +1,12 @@
 ---
-title: སྤྱོད་འཇུག་ཤེས་རབ་ལེའུའི་འགྲེལ་པ།
-title_in_english: Commentary on the Wisdom Chapter of the Bodhicaryāvatāra
-author: བྱང་ཆུབ་སྐྱབས།
-author_in_english: Byang-chub-skyabs (Bodhirakṣita)
+title: རྒྱལ་སྲས་སྤྱོད་པའི་གཞུང་ལས་ཤེས་རབ་བྱེ་བྲག་ཏུ་བཤད་པ་བློ་གསར་ལམ་མཚོན།
+title_in_english: "Path-Illuminating Fresh Intelligence: A Specific Explanation of Wisdom from the Bodhisattva Sons' Text"
+author: མཁན་བསམ་གཏན་བློ་གྲོས།
+author_in_english: Khen Samten Lodrö
 file_type: commentary
 language: Tibetan
 lang_tag: bo
-source_description: "Block from VEIE0OPI1C1BBFCB trilingual alignment corpus (BDRC work I3CN4454)"
+source_description: "Block from VEIE0OPI1C1BBFCB trilingual alignment corpus (BDRC volume I3CN4454)"
 bdrc_work_id: I3CN4454
 ---
 ༄༅། །རྒྱལ་སྲས་སྤྱོད་པའི་གཞུང་ལས་ཤེས་རབ་བྱེ་བྲག་ཏུ་བཤད་
@@ -1415,4 +1415,4 @@ bdrc_work_id: I3CN4454
 
 སྲིད་ལམ་འཁྱམས་རྣམས་ཐར་པའི་གྲོང་ཁྱེར་དུ། །
 ཅི་བདེར་དབུགས་འབྱིན་ཐོབ་པའི་རྒྱུ་ཚོགས་སུ། །
-ཀུན་བྱེད་མཁན་པོས་སྨོན་ན་དེ་བཞིན་ཤོག། །།
+ཀུན་བྱེད་མཁན་པོས་སྨོན་ན་དེ་བཞིན་ཤོག། 

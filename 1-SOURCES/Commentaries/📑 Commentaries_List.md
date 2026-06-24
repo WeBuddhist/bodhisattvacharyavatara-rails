@@ -12,10 +12,10 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCAC19_ZGPN_bo.md
+## BCAC19_SG_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཤེས་རབ་ལེའུའི་མཆན་འགྲེལ་དོན་གསལ་མེ་ལོང་ཞེས་བྱ་བ་བཞུགས་སོ།།
-**Author:** གཞན་ཕན་ཆོས་ཀྱི་བློ་གྲོས། / ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ། / འཇམ་དབྱངས་བློ་གྲོས་རྒྱ་མཚོ།
+**Author:** ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ། (Shechen Gyaltsab Gyurme Pema Namgyal)
 **Century:** 1871–1926 (19th–20th c. CE) [BDRC P235, Shechen Gyaltsab Pema Namgyal]
 
 ---

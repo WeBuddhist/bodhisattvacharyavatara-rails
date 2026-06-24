@@ -1,4 +1,5 @@
 ---
+book_id: BCA-BOC-14LLP2
 title: སྤྱོད་འཇུག་འགྲེལ་པ་གཞུང་དོན་སྣང་བ།
 title_in_english: "Commentary on the Bodhicaryāvatāra: Illumination of the Meaning of the Text"
 author: ཇོ་ནང་ལོ་ཆེན་བློ་གྲོས་དཔལ་བཟང།

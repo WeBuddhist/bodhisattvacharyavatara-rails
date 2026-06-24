@@ -1,4 +1,5 @@
 ---
+book_id: BCA-BOC-14SMPLG
 title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་གཞུང་དོན་རབ་གསལ་སྣང་བ་བཞུགས་སོ། །
 title_in_english: "Commentary on Entering the Bodhisattva's Way of Life: Luminously Clear Illumination of the Meaning of the Text"
 author: ས་བཟང་མ་ཏི་པཎ་ཆེན་བློ་གྲོས་རྒྱལ་མཚན།

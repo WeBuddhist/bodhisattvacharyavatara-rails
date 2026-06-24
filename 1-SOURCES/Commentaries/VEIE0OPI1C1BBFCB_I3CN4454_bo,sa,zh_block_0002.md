@@ -1,4 +1,5 @@
 ---
+book_id: BCA-BOC-14BR
 title: སྤྱོད་འཇུག་ཤེས་རབ་ལེའུའི་འགྲེལ་པ།
 title_in_english: Commentary on the Wisdom Chapter of the Bodhicaryāvatāra
 author: བྱང་ཆུབ་སྐྱབས།

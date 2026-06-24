@@ -1,4 +1,5 @@
 ---
+book_id: BCA-BOC-19MSL
 title: རྒྱལ་སྲས་སྤྱོད་པའི་གཞུང་ལས་ཤེས་རབ་བྱེ་བྲག་ཏུ་བཤད་པ་བློ་གསར་ལམ་མཚོན།
 title_in_english: "Path-Illuminating Fresh Intelligence: A Specific Explanation of Wisdom from the Bodhisattva Sons' Text"
 author: མཁན་བསམ་གཏན་བློ་གྲོས།

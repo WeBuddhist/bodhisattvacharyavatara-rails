@@ -1,4 +1,5 @@
 ---
+book_id: BCA-BOC-14DYG
 title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་འཐད་པ་ཀུན་ལས་བཏུས་པའི་སྒྲོན་མེ།
 title_in_english: "Lamp Gathering All the Reasonings: Commentary on the Bodhicaryāvatāra According to the Sakya Tradition"
 author: བདེ་བ་ཅན་པ་ཡེ་ཤེས་མགོན་པོ།

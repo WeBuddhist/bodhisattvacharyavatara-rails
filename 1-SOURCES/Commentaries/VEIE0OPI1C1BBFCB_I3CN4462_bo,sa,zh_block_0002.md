@@ -1,4 +1,5 @@
 ---
+book_id: BCA-BOC-14BPCN
 title: བྱང་ཆུབ་སེམས་པའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་སྤྱོད་པ་རབ་ཏུ་གསལ་བ།
 title_in_english: "Brilliantly Clear on the Conduct: Commentary on the Bodhicaryāvatāra"
 author: བོ་དོང་པཎ་ཆེན་ཕྱོགས་ལས་རྣམ་རྒྱལ།

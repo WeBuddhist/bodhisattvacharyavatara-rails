@@ -1,4 +1,5 @@
 ---
+book_id: BCA-ZHC-20TG
 title: 入菩薩行論教授
 title_in_english: Teaching on the Bodhicaryāvatāra
 author: 第十四世達賴喇嘛

@@ -1,4 +1,5 @@
 ---
+book_id: BCA-BOC-10KLND
 title: "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ལེགས་པར་སྦྱར་བ།"
 title_in_english: "Well-Composed Commentary on Entering the Conduct of a Bodhisattva (Bodhisattvacaryāvatārasaṃskāra)"
 author: "དགེ་བའི་ལྷ།"

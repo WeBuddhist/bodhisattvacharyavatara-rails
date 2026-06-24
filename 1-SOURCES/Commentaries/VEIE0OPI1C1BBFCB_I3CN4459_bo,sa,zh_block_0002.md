@@ -1,4 +1,5 @@
 ---
+book_id: BCA-BOC-14BRD2
 title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་བྱང་ཆུབ་ཀྱི་སེམས་གསལ་བར་བྱེད་པ་ཟླ་བའི་འོད་ཟེར།
 title_in_english: "Moonbeams Clarifying the Mind of Awakening: Commentary on the Bodhicaryāvatāra"
 author: བུ་སྟོན་རིན་ཆེན་གྲུབ།

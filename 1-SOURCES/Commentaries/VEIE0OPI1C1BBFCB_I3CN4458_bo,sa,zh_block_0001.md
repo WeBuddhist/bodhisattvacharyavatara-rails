@@ -1,4 +1,5 @@
 ---
+book_id: BCA-BOC-12LKRP
 title: བྱང་ཆུབ་སེམས་པའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཟིན་བྲིས་འཇམ་དཔལ་ཞལ་ལུང་ཞེས་བྱ་བ།
 title_in_english: "Notes on the Bodhicaryāvatāra: Oral Teachings of Mañjuśrī"
 author: ལྷོ་པ་ཀུན་མཁྱེན་རིན་ཆེན་དཔལ།

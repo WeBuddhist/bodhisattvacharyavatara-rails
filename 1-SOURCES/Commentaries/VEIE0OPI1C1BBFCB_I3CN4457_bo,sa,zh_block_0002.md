@@ -1,4 +1,5 @@
 ---
+book_id: BCA-BOC-12JDG
 title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན།
 title_in_english: Summary Meaning of the Bodhicaryāvatāra
 author: རྗེ་བཙུན་གྲགས་པ་རྒྱལ་མཚན།

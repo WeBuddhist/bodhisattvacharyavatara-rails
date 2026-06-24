@@ -1,4 +1,5 @@
 ---
+book_id: BCA-BOC-13ANON2
 title: "ཤེས་རབ་ལེའུའི་དཀའ་འགྲེལ།"
 title_in_english: "Difficult Points Commentary on the Wisdom Chapter"
 author: "unknown"

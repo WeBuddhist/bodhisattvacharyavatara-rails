@@ -1,4 +1,5 @@
 ---
+book_id: BCA-BOC-11VR
 title: "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་དཀའ་འགྲེལ།"
 title_in_english: "Difficult Points Commentary on the Bodhicaryāvatāra (Bodhisattvacaryāvatārapañjikā)"
 author: "བཻ་རོ་ཙ་ན་རཀྵི་ཏ།"

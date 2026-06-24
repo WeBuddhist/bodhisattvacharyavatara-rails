@@ -1,4 +1,5 @@
 ---
+book_id: BCA-BOC-10PKM
 title: "བྱང་ཆུབ་ཀྱི་སྤྱོད་པ་ལ་འཇུག་པའི་དཀའ་འགྲེལ།"
 title_in_english: "Difficult Points Commentary on Entering the Conduct of a Bodhisattva (Bodhicaryāvatārapañjikā)"
 author: "མཁས་པ་ཤེས་རབ་འབྱུང་གནས་བློ་གྲོས།"

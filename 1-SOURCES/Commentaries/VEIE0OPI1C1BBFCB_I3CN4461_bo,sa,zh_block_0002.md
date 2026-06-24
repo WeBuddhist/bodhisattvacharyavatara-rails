@@ -1,4 +1,5 @@
 ---
+book_id: BCA-BOC-14SMP
 title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན།
 title_in_english: Summary Meaning of the Bodhicaryāvatāra
 author: ས་བཟང་མ་ཏི་པཎ་ཆེན་བློ་གྲོས་རྒྱལ་མཚན།

@@ -1,4 +1,5 @@
 ---
+book_id: BCA-BOC-13ANON1
 title: "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཤེས་རབ་ལེའུ་དང་བསྔོ་བའི་དཀའ་འགྲེལ།"
 title_in_english: "Difficult Points Commentary on the Wisdom and Dedication Chapters of the Bodhicaryāvatāra"
 author: "unknown"

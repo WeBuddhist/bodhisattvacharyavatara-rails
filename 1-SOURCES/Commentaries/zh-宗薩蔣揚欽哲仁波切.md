@@ -1,4 +1,5 @@
 ---
+book_id: BCA-ZHC-21DKR1
 title: 入菩薩行論講解
 title_in_english: Commentary on Entering the Bodhisattva's Way of Life
 author: 宗薩蔣揚欽哲仁波切

@@ -1,4 +1,5 @@
 ---
+book_id: BCA-BOC-21DKR
 title: སྤྱོད་འཇུག་གླེང་བ་བཞུགས་སོ། །
 title_in_english: Discourse on the Bodhicaryāvatāra (proofreading draft)
 author: རྫོང་སར་མཁྱེན་བརྩེ་རིན་པོ་ཆེ།

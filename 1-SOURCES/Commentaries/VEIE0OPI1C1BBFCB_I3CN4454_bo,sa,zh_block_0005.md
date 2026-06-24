@@ -1,4 +1,5 @@
 ---
+book_id: BCA-BOC-13KTB
 title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་གཏམ་རྒྱུད།
 title_in_english: "A Narrative of the Bodhicaryāvatāra"
 author: ཀུན་མཁྱེན་འཚོ་སྣ་བས་མཛད་པར་གྲགས།

@@ -96,7 +96,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཚིག་འགྲེལ་གཅེས་བཏུས།
 **Author:** ཀརྨ་བློ་གྲོས་ཆོས་དཔལ་བཟང་པོ། (Karma Lodrö Chöpel Zangpo)
-**Century:** ~16th–17th c. CE [not readily found on BDRC; scholarly est.]
+**Century:** 1933–2023 (20th–21st c. CE) [the late Khenchen Thrangu Rinpoche, ཁྲ་འགུ་རིན་པོ་ཆེ།; d. 4 June 2023]
 
 ---
 
@@ -259,8 +259,8 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 ## བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་ཐེག་ཆེན་ཆོས་ཀྱི་རྒྱ་མཚོ་ཟབ་རྒྱས་མཐའ་ཡས་པའི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་ཐེག་ཆེན་ཆོས་ཀྱི་རྒྱ་མཚོ་ཟབ་རྒྱས་མཐའ་ཡས་པའི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།
-**Author:** ཀརྨ་བློ་གྲོས་ཆོས་དཔལ་བཟང་པོ། (Karma Lodrö Chöpel Zangpo)
-**Century:** ~16th–17th c. CE [not readily found on BDRC; scholarly est.]
+**Author:** ཀརྨ་བློ་གྲོས་ཆོས་དཔལ་བཟང་པོ། (Karma Lodrö Chöpel Zangpo / Khenchen Thrangu Rinpoche)
+**Century:** 1933–2023 (20th–21st c. CE) [BDRC P1663; d. 4 June 2023]
 
 ---
 

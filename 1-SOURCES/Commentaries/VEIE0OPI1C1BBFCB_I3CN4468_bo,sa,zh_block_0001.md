@@ -1,4 +1,5 @@
 ---
+book_id: BCA-BOC-19NW
 title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ཞེས་བྱ་བའི་མཆན་འགྲེལ་གྱི་ཡང་འགྲེལ།
 title_in_english: Super-commentary on the Annotation-Commentary on the Bodhicaryāvatāra
 author: ནོར་བུ་དབང་རྒྱལ།

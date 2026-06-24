@@ -1,4 +1,5 @@
 ---
+book_id: BCA-BOC-10DR1
 title: "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་དོན་སུམ་ཅུ་རྩ་དྲུག་བསྡུས་པ།"
 title_in_english: "Thirty-Six Point Summary of the Bodhicaryāvatāra (Bodhisattvacaryāvatāraṣaṭtriṃśatpiṇḍārtha)"
 author: "ཆོས་སྐྱོང།"

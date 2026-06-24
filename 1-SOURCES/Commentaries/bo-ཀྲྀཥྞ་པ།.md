@@ -1,4 +1,5 @@
 ---
+book_id: BCA-BOC-11KP
 title: "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྟོགས་པར་དཀའ་བའི་གནས་གཏན་ལ་དབབ་པ།"
 title_in_english: "Determining Difficult Points of the Bodhicaryāvatāra (Bodhisattvacaryāvatāradurbodhanirṇaya)"
 author: "ཀྲྀཥྞ་པ།"

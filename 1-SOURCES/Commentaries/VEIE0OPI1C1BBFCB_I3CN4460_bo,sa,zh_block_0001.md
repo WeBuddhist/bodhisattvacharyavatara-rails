@@ -1,4 +1,5 @@
 ---
+book_id: BCA-BOC-14GTZ
 title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་ལེགས་པར་བཤད་པའི་རྒྱ་མཚོ་ཞེས་བྱ་བ།
 title_in_english: "Ocean of Well-Spoken Commentary on Entering the Bodhisattva's Way of Life"
 author: རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ་དཔལ།

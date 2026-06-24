@@ -1,4 +1,5 @@
 ---
+book_id: BCA-BOC-13WR
 title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་སྒྲུང་འགྲེལ་ལས་འབྲས་གསལ་བའི་མེ་ལོང་།
 title_in_english: "Mirror Illuminating the Fruit: From the Narrative Commentary on the Bodhicaryāvatāra"
 author: དབང་ཕྱུག་རིན་ཆེན།

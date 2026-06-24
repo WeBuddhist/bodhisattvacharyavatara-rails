@@ -1,4 +1,5 @@
 ---
+book_id: BCA-BOC-XXTSY
 title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་དམ་པའི་དགོངས་པ་རབ་གསལ།
 title_in_english: "Brilliant Illumination of the Sacred Meaning: Commentary on the Bodhicaryāvatāra"
 author: བཙུན་པ་སངས་རྒྱས་ཡོན་ཏན།

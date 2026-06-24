@@ -1,4 +1,5 @@
 ---
+book_id: BCA-BOC-14BRD1
 title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན་གསལ་བར་བྱེད་པའི་ལྡེ་མིག་ཅེས་བྱ་བ།
 title_in_english: Key that Illuminates the Summary Meaning of the Bodhicaryāvatāra
 author: བུ་སྟོན་རིན་ཆེན་གྲུབ།

@@ -1,4 +1,5 @@
 ---
+book_id: BCA-BOC-12ST
 title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་བ།
 title_in_english: Commentary on the Bodhicaryāvatāra
 author: སློབ་དཔོན་བསོད་ནམས་རྩེ་མོ།

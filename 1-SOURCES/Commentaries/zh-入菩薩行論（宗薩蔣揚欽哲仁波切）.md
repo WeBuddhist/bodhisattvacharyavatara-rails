@@ -1,4 +1,5 @@
 ---
+book_id: BCA-ZHC-21DKR3
 title: 入菩薩行論
 author: 宗薩蔣揚欽哲仁波切
 translator: 西遊譯文

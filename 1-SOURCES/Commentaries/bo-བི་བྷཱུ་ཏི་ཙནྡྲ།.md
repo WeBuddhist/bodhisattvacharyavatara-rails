@@ -1,4 +1,5 @@
 ---
+book_id: BCA-BOC-12VC
 title: "བྱང་ཆུབ་ཀྱི་སྤྱོད་པ་ལ་འཇུག་པའི་དགོངས་པའི་འགྲེལ་པ་ཁྱད་པར་གསལ་བྱེད།"
 title_in_english: "Viśeṣadyotanī: Commentary Illuminating the Distinctive Intent of the Bodhicaryāvatāra"
 author: "བི་བྷཱུ་ཏི་ཙནྡྲ།"

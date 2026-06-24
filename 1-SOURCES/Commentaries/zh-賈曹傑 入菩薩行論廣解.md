@@ -1,4 +1,5 @@
 ---
+book_id: BCA-ZHC-14GJ
 title: 入菩薩行論廣解
 author: 賈曹傑 (Gyaltsab Je)
 translator: 隆蓮法師 (Longlian)

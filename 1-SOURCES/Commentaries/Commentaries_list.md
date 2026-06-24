@@ -8,6 +8,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ལེགས་པར་སྦྱར་བ།
 **Author:** དགེ་བའི་ལྷ། (Kṣemadeva)
+**Century:** ~10th–11th c. CE [BDRC P1KG3495: no birth/death dates; scholarly est.]
 
 ---
 
@@ -15,13 +16,15 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ལེགས་པར་སྦྱར་བ། (Bodhisattvacaryāvatārasaṃskāra, D3874)
 **Author:** དགེ་བའི་ལྷ། (Kalyāṇadeva)
+**Century:** ~10th–11th c. CE [not on BDRC; scholarly est.]
 
 ---
 
 ## bo-ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཤེས་རབ་ལེའུའི་མཆན་འགྲེལ་དོན་གསལ་མེ་ལོང་ཞེས་བྱ་བ་བཞུགས་སོ།།
-**Author:** གཞན་ཕན་ཆོས་ཀྱི་བློ་གྲོས། / ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
+**Author:** གཞན་ཕན་ཆོས་ཀྱི་བློ་གྲོས། / ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ། / འཇམ་དབྱངས་བློ་གྲོས་རྒྱ་མཚོ།
+**Century:** 1871–1926 (19th–20th c. CE) [BDRC P235, Shechen Gyaltsab Pema Namgyal]
 
 ---
 
@@ -29,6 +32,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 **Title:** ཤེས་རབ་ཀྱི་ལེའུའི་ཚིག་དོན་གོ་སླ་བར་རྣམ་པར་བཤད་པ་ནོར་བུ་ཀེ་ཏ་ཀ་ཞེས་བྱ་བ་བཞུགས་སོ།།
 **Author:** འཇུ་མི་ཕམ། (Ju Mipham)
+**Century:** 1846–1912 (19th–20th c. CE) [BDRC P252]
 
 ---
 
@@ -36,6 +40,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་གཞུང་དོན་སྣང་བ་ཞེས་བྱ་བ་བཞུགས།
 **Author:** ལོ་ཙཱ་བ་བློ་གྲོས་དཔལ་བཟང།
+**Century:** 1299–1354 (14th c. CE) [BDRC P153; = Jonang Lochen Lodrö Palzang]
 
 ---
 
@@ -43,6 +48,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 **Title:** སྤྱོད་འཇུག་གི་རྣམ་པར་བཤད་པ་བཞུགས་སོ།།
 **Author:** ནག་པོ་པ། (Nag po pa)
+**Century:** fl. 11th c. CE [BDRC P3299: no birth/death dates]
 
 ---
 
@@ -55,8 +61,8 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ## bo-རྒྱལ་བ་རིན་པོ་ཆེ།.md
 
-**Title:** སྔོན་འགྲོའི་གསུང་བཤད། (oral teachings on སྤྱོད་འཇུག)
-**Author:** རྒྱལ་བ་རིན་པོ་ཆེ། (Dalai Lama)
+**Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་གསུང་བཤད།
+**Author:** རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (H.H. the 14th Dalai Lama, Tenzin Gyatso)
 
 ---
 
@@ -69,8 +75,8 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ## bo-མཁན་པོ་ཀུན་དཔལ།.md
 
-**Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་གཞུང་དོན་རབ་གསལ་སྣང་བ་བཞུགས་སོ། །
-**Author:** མཁན་པོ་ཀུན་དཔལ། (Khenpo Kunpal)
+**Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཚིག་འགྲེལ་འཇམ་དབྱངས་བླ་མའི་ཞལ་ལུང་བདུད་རྩིའི་ཐིག་པ།
+**Author:** མཁན་པོ་ཀུན་བཟང་དཔལ་ལྡན། (Khenpo Kunzang Palden / Khenpo Kunpal)
 
 ---
 
@@ -210,42 +216,25 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 ## བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་བཞུགས།.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་བཞུགས།
-**Author:** (unidentified — frontmatter status: draft, check colophon)
+**Author:** ཆོས་ཀྱི་སེང་གེ། (Chökyi Sengge / Dharmasimha); wisdom chapter supplemented by Sonam Tsemo
 
 ---
-
-## བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཚིག་འགྲེལ་གཅེས་བཏུས་བཞུགས་སོ.md
-
-**Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཚིག་འགྲེལ་གཅེས་བཏུས་བཞུགས་སོ
-**Author:** (unidentified — frontmatter status: draft, check colophon)
-
----
-
-## བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ཞེས་བྱ་བའི་འགྲེལ་པ་བཞུགས་སོ.md
-
-**Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ཞེས་བྱ་བའི་འགྲེལ་པ་བཞུགས་སོ
-**Author:** (unidentified — frontmatter status: draft, check colophon)
 
 ---
 
 ## སྤྱོད་འཇུག་ཟིན་བྲིས་དང་ཚིག་འགྲེལ་འཇམ་དབྱངས་བླ་མའི་ཞལ་ལུང་བདུད་རྩིའི་ཐིག་པ།.md
 
 **Title:** སྤྱོད་འཇུག་ཟིན་བྲིས་དང་ཚིག་འགྲེལ་འཇམ་དབྱངས་བླ་མའི་ཞལ་ལུང་བདུད་རྩིའི་ཐིག་པ།
-**Author:** (unidentified — frontmatter status: draft, check colophon)
+**Author:** མཁན་པོ་ཀུན་བཟང་དཔལ་ལྡན། (Khenpo Kunzang Palden / Khenpo Kunpal), recording oral teachings of Mipham Rinpoche
 
 ---
-
-## སྤྱོད་འཇུག་འགྲེལ་པ་རབ་ཏུ་གསལ་བ.md
-
-**Title:** སྤྱོད་འཇུག་འགྲེལ་པ་རབ་ཏུ་གསལ་བ
-**Author:** (unidentified — frontmatter status: draft, check colophon)
 
 ---
 
 ## བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་ཐེག་ཆེན་ཆོས་ཀྱི་རྒྱ་མཚོ་ཟབ་རྒྱས་མཐའ་ཡས་པའི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་ཐེག་ཆེན་ཆོས་ཀྱི་རྒྱ་མཚོ་ཟབ་རྒྱས་མཐའ་ཡས་པའི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།
-**Author:** (unidentified — frontmatter status: draft, check colophon)
+**Author:** ཀརྨ་བློ་གྲོས་ཆོས་དཔལ་བཟང་པོ། (Karma Lodrö Chöpel Zangpo)
 
 ---
 
@@ -265,14 +254,14 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ## zh-宗薩蔣揚欽哲仁波切.md
 
-**Title:** (Bodhicaryāvatāra commentary, untitled in opening)
+**Title:** 入菩薩行論講解
 **Author:** 宗薩蔣揚欽哲仁波切 (Dzongsar Khyentse Rinpoche)
 
 ---
 
 ## zh-宗薩蔣揚欽哲仁波切 (2014-2015).md
 
-**Title:** 入菩薩行論講錄 (2014)
+**Title:** 入菩薩行論講錄 (2014-2015)
 **Author:** 宗薩蔣揚欽哲仁波切 (Dzongsar Khyentse Rinpoche)
 
 ---
@@ -370,7 +359,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ## VEIE0OPI1C1BBFCB_I3CN4460_bo,sa,zh_block_0002.md
 
-**Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན་ཉི་མའི་འོད་ཟེར་བཞུགས།
+**Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན་ཉི་མའི་འོད་ཟེར།
 **Author:** བླ་མ་དམ་པ་བསོད་ནམས་རྒྱལ་མཚན། (Lama Dampa Sönam Gyaltsen)
 
 ---

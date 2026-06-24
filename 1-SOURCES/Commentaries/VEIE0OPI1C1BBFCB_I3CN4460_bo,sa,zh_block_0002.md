@@ -1,5 +1,5 @@
 ---
-title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན་ཉིན་བྱེད་འོད་ཟེར།
+title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན་ཉི་མའི་འོད་ཟེར།
 title_in_english: "Sunbeams: Summary of the Bodhicaryāvatāra"
 author: བླ་མ་དམ་པ་བསོད་ནམས་རྒྱལ་མཚན།
 author_in_english: Lama Dampa Sönam Gyaltsen (1312–1375)

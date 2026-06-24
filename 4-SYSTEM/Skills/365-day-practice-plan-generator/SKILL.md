@@ -222,12 +222,12 @@ Use when you find an interesting story in the pipeline material related to the v
 
 ---
 
-**Type 3 — མ་མཐའ། (Keyword)**
+**Type 3 — གནད་ཚིག (Keyword)**
 
 Use when the verse contains an important or difficult term that a beginner practitioner might not understand. Explain it in plain Tibetan, briefly and clearly.
 
 ```markdown
-**མ་མཐའ།** [Term]: [Plain-language explanation — 2–3 sentences.]
+**གནད་ཚིག** [Term]: [Plain-language explanation — 2–3 sentences.]
 
 **མཆན།**: [[1-SOURCES/Commentaries/filename#^blockid|Display name ^blockid]]
 ```
@@ -237,7 +237,7 @@ Use when the verse contains an important or difficult term that a beginner pract
 #### Rules
 
 - **Authenticity is absolute.** Every piece of content — extra information, story, keyword definition — must come directly from the pipeline material found in the commentary files. Never invent, assume, or add from general knowledge or training data.
-- **Be selective.** For a given verse you might include only a ཁ་སྐོང་། and a མ་མཐའ། — or only a གཏམ་རྒྱུད། — or all three. Follow the commentary material, not a formula.
+- **Be selective.** For a given verse you might include only a ཁ་སྐོང་། and a གནད་ཚིག — or only a གཏམ་རྒྱུད། — or all three. Follow the commentary material, not a formula.
 - Each content block must end with a `**མཆན།**` line citing the specific block ID(s) used, formatted as clickable Obsidian wikilinks: `[[1-SOURCES/Commentaries/filename#^blockid|Display name ^blockid]]`.
 
 > ⚠️ **Critical rule for Section 4**: All content must be extracted from `1-SOURCES/Commentaries/` via the pipeline. If you cannot locate commentary for a verse in the files, state this explicitly — do not invent or improvise.
@@ -369,7 +369,7 @@ If the user doesn't specify verses and asks only for a day number, read that fil
 - [ ] Section 4 — explanation headers follow `#### **N. ཤློཀ་[ordinal]།** འགྲེལ་བཤད།` — འགྲེལ་བཤད། **outside** the bold; verse numbers match those in Section 3
 - [ ] Section 3 — verse numbers in all headers are the real chapter verse numbers and match the day's assigned range (filename `V[start]-[end]`)
 - [ ] Section 3 — verses found in `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` and copied exactly — not quoted from memory or training data
-- [ ] Section 4 — each explanation block contains one or more of: **ཁ་སྐོང་།** (extra information), **གཏམ་རྒྱུད།** (story), **མ་མཐའ།** (keyword); only types for which genuine pipeline material exists are included — never all three by default
+- [ ] Section 4 — each explanation block contains one or more of: **ཁ་སྐོང་།** (extra information), **གཏམ་རྒྱུད།** (story), **གནད་ཚིག** (keyword); only types for which genuine pipeline material exists are included — never all three by default
 - [ ] Section 4 — all content sourced from `1-SOURCES/Commentaries/` via the pipeline (commentary text between the verse transclusion and the next verse transclusion); each block ends with a **མཆན།** citation line
 - [ ] Exactly 1 daily application point in Section 5, focused on real-life challenges
 - [ ] Tibetan spelling and grammar reviewed — check case endings (e.g. ལ་དོན། སུ་དོན། གི་དོན།), verb forms, and particles for correctness throughout all generated sections

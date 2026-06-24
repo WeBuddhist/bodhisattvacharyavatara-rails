@@ -238,6 +238,12 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 **Outputs:** `0-INBOX/toc-candidates-<commentary-id>.md` containing every candidate with TYPE, exact text, 10-word context window, and named items.
 → [`toc-candidate-extraction/SKILL.md`](toc-candidate-extraction/SKILL.md)
 
+### `toc-tree-extraction` **[exists]**
+**Purpose:** Build the FULL nested, decimal-numbered ས་བཅད TOC tree (དཀར་ཆག) from a Tibetan commentary — the complete pipeline, not just candidates. Claude-native port of `4-SYSTEM/Scripts/toc_tree_extractor/extract_toc_tree.py` (which uses the Gemini API): Claude performs the four inference passes itself — (1) section candidates, (2) verbatim enumeration blocks, (3) nested decimal tree, (4) QC repair — while two bundled Python helpers (`chunk_file.py`, `qc_check_tree.py`) do the deterministic chunking and tree QC. Use for in-session runs on one/a-few commentaries; use the Gemini script for headless batch runs.
+**Inputs:** Commentary/root-text `.md` path (normally `1-SOURCES/Commentaries/`) and a short `commentary-id`.
+**Outputs:** `0-INBOX/toc-candidates-<id>.md`, `0-INBOX/toc-tree-<id>.md` (no `^toc` block IDs), and `0-INBOX/toc-tree-qc-<id>.md`; per-chunk staging under `0-INBOX/temp/TOC-<id>/`.
+→ [`toc-tree-extraction/SKILL.md`](toc-tree-extraction/SKILL.md)
+
 ### `Outline-Extractor` **[exists]**
 **Purpose:** Extract the structural outline (ས་བཅད།) from a Tibetan commentary in `1-SOURCES/Commentaries/` and produce two output files: a flat tab-indented list (`ས་བཅད་རྐྱང་པ།`) and a nested heading+list structured outline (`ལྟེ་བའི་དཀར་ཆག།`), both saved to `3-TRANSFORMATIONS/Adaptations/<commentary-id>-sa-bcad/`.
 **Inputs:** Commentary file path in `1-SOURCES/Commentaries/`, a short `commentary-id`, and the Tibetan title of the work.

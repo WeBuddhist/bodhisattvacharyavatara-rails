@@ -1,6 +1,6 @@
 ---
 gloss_file: 2-RAILS/Bilingual-Glossaries/Raw/sk-en-padmakara-gloss.md
-source_file: 1-SOURCES/Text/sk-dev.md
+source_file: 1-SOURCES/Text/BCAV08_SH_sk.md
 target_file: 1-SOURCES/Translations/en-Padmakara_2006.md
 source_language: sk
 target_language: en

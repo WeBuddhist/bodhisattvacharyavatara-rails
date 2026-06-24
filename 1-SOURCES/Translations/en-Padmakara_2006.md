@@ -8,7 +8,7 @@ language: English
 file_type: translation
 lang_tag: en
 verse_id_format: chapter-verse
-root_text: 1-SOURCES/Text/sk-dev.md
+root_text: 1-SOURCES/Text/BCAV08_SH_sk.md
 covers_verses: 0-1–10-58
 source_description: "Padmakara Translation Group (2006). The Way of the Bodhisattva. Revised edition. Boston: Shambhala Publications."
 ---

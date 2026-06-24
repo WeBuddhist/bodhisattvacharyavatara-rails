@@ -1,17 +1,17 @@
 ---
 day: 10
 chapter: 1
-verses: "1-27 to 1-28"
+verses: "1-26 to 1-28"
 status: draft
 translated_from: "en/Days/Chapter-1 D1-D14/10.md"
-generation_note: "Regenerated with the english-plan-generator skill. Commentary drawn from 1-SOURCES/Commentaries (Gyaltsab, Sazang, Ngulchu Thokme) for 1-27/1-28; no en-ai or 2-RAILS packages for these verses. English verses from en-AI-generated-root-loden-sherab.md; Tibetan from bo-བློ་ལྡན་ཤེས་རབ།.md. Needs domain-specialist review before status: complete."
+generation_note: "Regenerated with the english-plan-generator skill; verse grouping realigned to en/assets/schedule.md. Commentary from en-ai/Verses summaries; English verses from en-AI-generated-root-loden-sherab.md; Tibetan from bo-བློ་ལྡན་ཤེས་རབ།.md. Needs domain-specialist review before status: complete."
 ---
 
-# Day 10 — Wanting happiness, we run from it
+# Day 10 — We want to be happy, and run the other way
 
 > **Notification**
-> **Title:** Name what you're really reaching for
-> **Detail:** We chase happiness but, confused, run from it. Today, name what you actually want.
+> **Title:** Name what you were really reaching for
+> **Detail:** We chase happiness and, confused, run from it. Today, name what you actually wanted.
 
 ## Opening
 
@@ -41,6 +41,13 @@ generation_note: "Regenerated with the english-plan-generator skill. Commentary 
 > And engage step by step in that same training.
 
 ## Today's Verses
+
+> འགྲོ་བ་ཀུན་གྱི་དགའ་བའི་རྒྱུ། །
+> སེམས་ཅན་སྡུག་བསྔལ་རྩིར་གྱུར་པ། །
+> རིན་ཆེན་སེམས་ཀྱི་བསོད་ནམས་གང་། །
+> དེ་ལ་ཇི་ལྟར་གཞལ་གྱིས་ལང་། །
+>
+> This jewel of the mind is the cause of joy for all wandering beings, and the medicine that cures their suffering. How can its immeasurable merit ever be measured?
 
 > ཕན་པར་བསམས་པ་ཙམ་གྱིས་ཀྱང་། །
 > སངས་རྒྱས་མཆོད་ལས་ཁྱད་འཕགས་ན། །

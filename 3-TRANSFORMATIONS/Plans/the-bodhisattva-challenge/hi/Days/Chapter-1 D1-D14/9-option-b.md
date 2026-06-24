@@ -1,21 +1,21 @@
 ---
 day: 9
 chapter: 1
-verses: "1-23 to 1-26"
+verses: "1-23 to 1-25"
 status: draft
 translated_from: "en/Days/Chapter-1 D1-D14/9.md"
-generation_note: "Regenerated with the english-plan-generator skill. Interim commentary summaries used (en-ai/Verses/1-23.md, 1-24.md, 1-25.md, 1-26.md); no 2-RAILS packages yet. English verses from en-AI-generated-root-loden-sherab.md; Tibetan from bo-བློ་ལྡན་ཤེས་རབ།.md. Needs domain-specialist review before status: complete."
+generation_note: "Regenerated with the english-plan-generator skill; verse grouping realigned to en/assets/schedule.md. Commentary from en-ai/Verses summaries; English verses from en-AI-generated-root-loden-sherab.md; Tibetan from bo-བློ་ལྡན་ཤེས་རབ།.md. Needs domain-specialist review before status: complete."
 ---
 
-# Day 9 — Even Brahma's vast goodwill falls short of this
+# Day 9 — A wish no one in the world has had
 
 > **Notification**
-> **Title:** Push your kindness past where it usually stops
-> **Detail:** Even a god's goodwill stops short of this wish. Today, take one wish all the way.
+> **Title:** Take one kind wish further than usual
+> **Detail:** This wish is rarer than any ordinary love. Today, take one wish all the way.
 
 ## Opening
 
-आज पहले अध्याय की बात अपने अंजाम पर पहुँचती है। ये श्लोक हर किस्म के प्राणी को टटोलते हैं, माँ-बाप, ऋषि-मुनि, देवता, यहाँ तक कि ब्रह्मा को भी, और पाते हैं कि ऐसी चाह पूरे संसार में कभी कहीं नहीं जागी। जो मन इतना अनोखा है, वह जो करता है उसका भी कोई हिसाब नहीं।
+आज के श्लोक सारी दुनिया में ऐसी चाह तलाशते हैं और कहीं नहीं पाते। न माँ-बाप में, जो अपने बच्चों पर जान छिड़कते हैं। न ज्ञानियों में, न देवताओं में, यहाँ तक कि उनके सबसे ऊँचे देवता में भी नहीं। श्लोक कहते हैं, दूसरों के लिए ऐसी चाह आज तक किसी ने नहीं की। बहुतों ने तो अपने ही लिए इसे कभी नहीं चाहा, सपने में भी नहीं। इतनी अनोखी है यह।
 
 ## Renewing the Bodhisattva Vow
 
@@ -63,16 +63,11 @@ generation_note: "Regenerated with the english-plan-generator skill. Interim com
 >
 > This precious jewel of the mind arises in no other being even for their own sake. It is a wondrous birth that is truly unprecedented.
 
-> འགྲོ་བ་ཀུན་གྱི་དགའ་བའི་རྒྱུ། །
-> སེམས་ཅན་སྡུག་བསྔལ་རྩིར་གྱུར་པ། །
-> རིན་ཆེན་སེམས་ཀྱི་བསོད་ནམས་གང་། །
-> དེ་ལ་ཇི་ལྟར་གཞལ་གྱིས་ལང་། །
->
-> This jewel of the mind is the cause of joy for all wandering beings, and the medicine that cures their suffering. How can its immeasurable merit ever be measured?
-
 ## From the Tradition
 
-चौदहवीं सदी के शिक्षक सज़ंग मती पंचेन कहते हैं कि ब्रह्मा ने संसार की सबसे बड़ी सद्भावना अपने बस में कर ली है, वे हर किसी का भला चाहते हैं। फिर भी, उनके मुताबिक, यह वह मन नहीं है। असली फ़र्क़ निशाने का है। ब्रह्मा चाहते हैं कि प्राणियों को सुख-चैन और बेहतर जीवन मिले। पर बोधिसत्व की चाह बिल्कुल अलग है: कि हर एक प्राणी, कोई छूटे नहीं, पूरी तरह जाग उठे। चाहे सद्भावना कितनी ही विशाल क्यों न हो, वह रहती संसार के अंदर ही है। यह चाह उससे बाहर निकल जाती है, तभी तो श्लोक चारों ओर ढूँढ़कर भी इसे कहीं नहीं पाते।
+चौदहवीं सदी के शिक्षक **ङुलछु थोकमे** माँ-बाप के प्यार को सबसे मज़बूत और सबसे स्वाभाविक सद्भावना मानते हैं जिससे हम वाक़िफ़ हैं। फिर वे एक पुरानी पंक्ति सुनाते हैं: माँ-बाप, दोस्त, नाते-रिश्तेदार भी अपने प्यारों के लिए उतना नहीं चाहते, जितना एक बोधिसत्व हर एक जीव के लिए चाहता है।
+
+ऐसा नहीं कि माँ-बाप का प्यार कम होता है। बस उसकी पहुँच इतनी ही है, उन थोड़े-से लोगों तक जो उनके दिल के क़रीब हैं। पर यह चाह हर किसी तक जाती है, किसी को छोड़े बग़ैर। यही वह बात थी जो इस दुनिया में पहले कभी किसी के ज़ेहन में आई ही नहीं।
 
 ## Aspiration and Dedication
 
@@ -88,4 +83,4 @@ generation_note: "Regenerated with the english-plan-generator skill. Interim com
 
 ## Today's Practice
 
-आज जब किसी का भला सोचें, कोई थका-हारा सहकर्मी हो या कोई मुश्किल में फँसा दोस्त, तो देखिए कि वह चाह अक्सर कहाँ आकर थम जाती है, कुछ इस तरह कि 'बस इनका भला हो जाए'। ज़रा एक बार उसी चाह को और दूर तक ले जाइए, बिल्कुल यहाँ तक: ये पूरी तरह मुक्त हो जाएँ।
+आज जब किसी का भला सोचें, तो देखिए कि वह चाह अक्सर कहाँ आकर थम जाती है, कुछ इस तरह कि 'बस इनकी मुश्किलें कुछ कम हों'। ज़रा एक चाह को आख़िर तक ले जाइए: तुम पूरी तरह मुक्त हो जाओ।

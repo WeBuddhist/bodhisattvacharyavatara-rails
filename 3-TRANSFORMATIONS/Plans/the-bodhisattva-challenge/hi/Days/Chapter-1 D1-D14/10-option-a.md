@@ -1,21 +1,21 @@
 ---
 day: 10
 chapter: 1
-verses: "1-27 to 1-28"
+verses: "1-26 to 1-28"
 status: draft
 translated_from: "en/Days/Chapter-1 D1-D14/10.md"
-generation_note: "Regenerated with the english-plan-generator skill. Commentary drawn from 1-SOURCES/Commentaries (Gyaltsab, Sazang, Ngulchu Thokme) for 1-27/1-28; no en-ai or 2-RAILS packages for these verses. English verses from en-AI-generated-root-loden-sherab.md; Tibetan from bo-བློ་ལྡན་ཤེས་རབ།.md. Needs domain-specialist review before status: complete."
+generation_note: "Regenerated with the english-plan-generator skill; verse grouping realigned to en/assets/schedule.md. Commentary from en-ai/Verses summaries; English verses from en-AI-generated-root-loden-sherab.md; Tibetan from bo-བློ་ལྡན་ཤེས་རབ།.md. Needs domain-specialist review before status: complete."
 ---
 
-# Day 10 — Wanting happiness, we run from it
+# Day 10 — We want to be happy, and run the other way
 
 > **Notification**
-> **Title:** Name what you're really reaching for
-> **Detail:** We chase happiness but, confused, run from it. Today, name what you actually want.
+> **Title:** Name what you were really reaching for
+> **Detail:** We chase happiness and, confused, run from it. Today, name what you actually wanted.
 
 ## Opening
 
-दो श्लोक इस अध्याय की दलील को पूरा करते हैं। पहला अब तक का सबसे बड़ा दावा करता है: दूसरों की मदद की चाह तक बुद्धों को चढ़ावे चढ़ाने से बढ़कर है। दूसरा दिखाता है कि यह मन इतना ज़रूरी क्यों है।
+आज के श्लोक एक चौंकाने वाली बात कहते हैं: दूसरों की मदद की महज़ चाह उन सबसे बड़े चढ़ावों से भी बढ़कर है जो बुद्धों के सामने रखे जाते हैं। फिर वे एक दुखद बात की ओर मुड़ते हैं। लोग सुखी होना चाहते हैं, फिर भी सीधे उसी की ओर बढ़ते रहते हैं जो उन्हें चोट पहुँचाता है, इसलिए नहीं कि उन्हें दर्द चाहिए, बल्कि इसलिए कि वे इस बात को लेकर उलझे हैं कि किससे क्या होता है।
 
 ## Renewing the Bodhisattva Vow
 
@@ -42,6 +42,13 @@ generation_note: "Regenerated with the english-plan-generator skill. Commentary 
 
 ## Today's Verses
 
+> འགྲོ་བ་ཀུན་གྱི་དགའ་བའི་རྒྱུ། །
+> སེམས་ཅན་སྡུག་བསྔལ་རྩིར་གྱུར་པ། །
+> རིན་ཆེན་སེམས་ཀྱི་བསོད་ནམས་གང་། །
+> དེ་ལ་ཇི་ལྟར་གཞལ་གྱིས་ལང་། །
+>
+> This jewel of the mind is the cause of joy for all wandering beings, and the medicine that cures their suffering. How can its immeasurable merit ever be measured?
+
 > ཕན་པར་བསམས་པ་ཙམ་གྱིས་ཀྱང་། །
 > སངས་རྒྱས་མཆོད་ལས་ཁྱད་འཕགས་ན། །
 > སེམས་ཅན་མ་ལུས་ཐམས་ཅད་ཀྱི། །
@@ -58,7 +65,9 @@ generation_note: "Regenerated with the english-plan-generator skill. Commentary 
 
 ## From the Tradition
 
-पंद्रहवीं सदी के एक शिक्षक ग्यालत्सब जे इन श्लोकों से तीन बातें निकालते हैं जो यह मन करता है: यह प्राणियों को सुख देता है, उनका दुख काटता है, और सबसे गहरी बात, यह उनकी इस उलझन को साफ़ करता है कि किस चीज़ से क्या होता है। यही तीसरी बात सबसे अहम है। लोग यह चाहने में नहीं उलझे कि उन्हें सुख चाहिए। वे जो चूक जाते हैं वह है वजह: कि नुक़सानदेह काम राहत नहीं, दर्द लाता है। सज़ंग मती पंचेन इसकी तस्वीर देते हैं, एक पतंगे की जो आग में जा गिरता है, ख़ुद को जलाने की नीयत से नहीं, बस यह न समझ पाने से कि वह जा कहाँ रहा है।
+चौदहवीं सदी के एक शिक्षक **सज़ंग मती पंचेन** इसके लिए एक तस्वीर देते हैं। एक पतंगे को सोचिए जो आग की ओर उड़ता है। वह ख़ुद को जलाने की कोशिश में नहीं है। वह बस रोशनी की ओर खिंचा चला आता है और उसे ज़रा भी पता नहीं कि वह जा कहाँ रहा है।
+
+वे कहते हैं, हम भी अक्सर यही होते हैं, भले हम इसे मानना न चाहें। दिक्कत यह नहीं कि लोग सुखी नहीं होना चाहते। हर कोई चाहता है। दिक्कत यह है कि उन्हें दिखता नहीं कि असल में कौन-सा रास्ता वहाँ ले जाता है, और कौन-सा वापस दर्द में।
 
 ## Aspiration and Dedication
 
@@ -74,4 +83,4 @@ generation_note: "Regenerated with the english-plan-generator skill. Commentary 
 
 ## Today's Practice
 
-अगली बार जब आप किसी ऐसी चीज़ की ओर हाथ बढ़ाएँ जो पहले सुकून देती है और फिर चुभती है, थकान के बाद भी फ़ोन पर उँगली फिराना, पेट भरने के बाद भी खाते जाना, अपनापन चाहते हुए कोई तीखी बात कह देना, तो ज़रा रुककर पहचानिए कि असल में आप चाहते क्या थे। चाहना तो सच्चा था। बस पहुँचने का रास्ता गलत था। पतंगा जलना नहीं चाहता।
+अगली बार जब आप किसी ऐसी चीज़ की ओर हाथ बढ़ाएँ जो पहले राहत देती है और फिर आपको और बुरा छोड़ जाती है, आराम के बजाय फ़ोन स्क्रॉल करना, क़रीबी महसूस करना चाहते हुए कोई तीखी बात कह देना, तो रुककर पहचानिए कि असल में आप चाहते क्या थे। चाहना तो ठीक था। बस मुड़ने की दिशा गलत थी।

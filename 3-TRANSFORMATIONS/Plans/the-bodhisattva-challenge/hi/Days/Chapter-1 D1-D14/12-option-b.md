@@ -1,48 +1,53 @@
 ---
 day: 12
 chapter: 1
-verses: "1-32 to 1-34"
+verses: "1-31 to 1-32"
 status: draft
 translated_from: "en/Days/Chapter-1 D1-D14/12.md"
-generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-32.md, 1-33.md, 1-34.md). No 2-RAILS/Verses/ packages exist for these verses yet."
+generation_note: "Regenerated with the english-plan-generator skill; verse grouping realigned to en/assets/schedule-corrected.md. Commentary from en-ai/Verses summaries; English verses from en-AI-generated-root-loden-sherab.md; Tibetan from bo-བློ་ལྡན་ཤེས་རབ།.md. Needs domain-specialist review before status: complete."
 ---
-	   
-# Day 12 — The greatest benefactor, and the gravest one to wrong
+
+# Day 12 — Kindness that asks for nothing back
 
 > **Notification**
-> **Title:** Look again at someone you've written off
-> **Detail:** When you look down on someone today, remember you can't see the good they might still do.
+> **Title:** After helping, notice what you hoped for
+> **Detail:** The bodhisattva helps unasked, expecting nothing. Today, notice any wish for credit.
 
 ## Opening
 
-किसी भूखे अजनबी को एक वक़्त की रोटी दे देने भर से हम किसी को भला मान लेते हैं। आज के श्लोक यहीं से चलते हैं, और फिर इससे बहुत आगे निकल जाते हैं: बोधिसत्व तो अनगिनत प्राणियों को सबसे ऊँचा सुख देता है, वह भी लगातार। फिर श्लोक तुलना को उलट देते हैं। अगर ऐसा प्राणी सबसे बड़ा भला करने वाला है, तो उसके ख़िलाफ़ खड़े हो जाना सबसे बड़ी बुराई ठहरती है।
+जो किसी का एहसान चुका देता है, उसकी कद्र करना जायज़ है। पर आज के श्लोक इससे परे ले जाते हैं। बोधिसत्व उनकी मदद करता है जिन्होंने उसके लिए कभी कुछ नहीं किया, जिन्होंने माँगा तक नहीं। और जो वह देता है वह कोई एक वक़्त का खाना या कोई फ़ायदा नहीं, बल्कि ऐसा सुख जो टिका रहता है, हर किसी को, पूरे मान के साथ, जब तक यह दुनिया क़ायम है।
 
 ## Renewing the Bodhisattva Vow
 
-Begin here every day. Say each part slowly. You can read it or follow the audio.
-
-*Mind Training (recite 3 times)*
-
+> **Mind Training** *(recite 3 times)*
+>
 > May all beings enjoy happiness and the causes of happiness.
 > May all beings be free from suffering and the causes of suffering.
 > May all beings never be separated from supreme happiness, free from suffering.
 > May all beings rest in great equanimity, free from attachment and aversion to those near and far.
-
-*Refuge (recite 3 times)*
-
+>
+> **Refuge** *(recite 3 times)*
+>
 > Until reaching the heart of buddhahood,
 > I take refuge in the Buddha,
 > I take refuge in the dharma,
 > And in the sangha of bodhisattvas.
-
-*Taking the Bodhisattva Vow (recite 3 times)*
-
+>
+> **Taking the Bodhisattva Vow** *(recite 3 times)*
+>
 > Just as the buddhas of the past gave rise to bodhicitta
 > And engaged step by step in the training of the bodhisattvas,
 > So I too, for the benefit of all beings, will give rise to bodhicitta
 > And engage step by step in that same training.
 
 ## Today's Verses
+
+> ཕན་བཏགས་ལན་ལྡོན་གང་ཡིན་པ། །
+> དེ་ཡང་རེ་ཞིག་བསྔགས་འོས་ན། །
+> མ་བཅོལ་ལེགས་པར་བྱེད་པ་ཡི། །
+> བྱང་ཆུབ་སེམས་དཔའ་སྨོས་ཅི་དགོས། །
+>
+> We praise those who merely repay a favor. What need is there to speak of the Hero of Enlightenment, who does good unsolicited?
 
 > འགྲོ་བ་ཉུང་ཟད་ནར་མའི་ཟས་སྦྱོར་བ། །
 > སྐད་ཅིག་ཟས་ཙམ་སྦྱིན་པར་བྱེད་པ་དང་། །
@@ -51,25 +56,9 @@ Begin here every day. Say each part slowly. You can read it or follow the audio.
 >
 > People honor a person as a virtuous benefactor for giving a single meal to a few beings. They do this even when the food is given with disrespect, satisfying them for only half a day.
 
-> སེམས་ཅན་གྲངས་མཐའ་ཡས་ལ་དུས་རིང་དུ། །
-> བདེ་བར་གཤེགས་ཀྱི་བདེ་བ་བླ་ན་མེད། །
-> ཡིད་ལ་བསམ་པ་མཐའ་དག་རྫོགས་བྱེད་པ། །
-> རྟག་ཏུ་སྦྱིན་པ་ལྟ་ཞིག་སྨོས་ཅི་དགོས། །
->
-> What need is there to speak of the Heroes of Enlightenment? They give the supreme bliss of the Blissful Ones to countless beings, fulfilling every wish in their minds.
-
-> གང་ཞིག་དེ་འདྲའི་རྒྱལ་སྲས་སྦྱིན་བདག་ལ། །
-> གལ་ཏེ་ངན་སེམས་སྐྱེད་པར་བྱེད་ན་དེ། །
-> ངན་སེམས་བསྐྱེད་པའི་གྲངས་བཞིན་བསྐལ་པར་ནི། །
-> དམྱལ་བར་གནས་པར་འགྱུར་ཞེས་ཐུབ་པས་གསུངས། །
->
-> If anyone harbors a negative mind toward such a child of the Buddha, they will dwell in hell for eons. The Sage said they will remain there for as many eons as there were moments of that negative mind.
-
 ## From the Tradition
 
-तस्वीर देखिए: कोई अभी-अभी अपनी ज़िंदगी की दिशा बदलने लगा है, पहले लड़खड़ाते क़दम भर रहा है। उसी वक़्त अगर आपने उसका हौसला तोड़ दिया, तो बात सिर्फ़ उसका एक दिन बिगाड़ने की नहीं रहती। हो सकता है आप वह सब कुछ ही काट दें जो उस छोटी-सी शुरुआत से उग सकता था।
-
-श्लोक आगाह करता है कि बोधिसत्व के लिए बैर पाले मन लंबी तकलीफ़ की ओर ले जाता है, नफ़रत के हर पल का एक-एक हिसाब। पर यह बस अंजाम बताता है, वजह नहीं। पंद्रहवीं सदी के इस ग्रंथ के टीकाकार ग्यालत्सब दार्मा रिनचेन वह वजह बताते हैं। उनके मुताबिक हर बुद्ध किसी न किसी बोधिसत्व से ही जन्मता है। बोधिसत्व ही तो बुद्धों की जड़ है। इसलिए किसी एक का बुरा चाहना मानो हर आने वाले बुद्ध की जड़ पर, और उनकी लाई हर भलाई पर, चोट करना है। उनके लिए यही इसे सबसे बड़ी बुराई बनाता है।
+चौदहवीं सदी के शिक्षक **सज़ंग मती पंचेन** वह हिस्सा जोड़ते हैं जो अक्सर छूट जाता है। बोधिसत्व बदले में कुछ नहीं चाहता, यह मद्धम-सी तसल्ली तक नहीं कि यह नेकी कभी पुण्य बनकर उसके खाते में लौटेगी। हमारी भलाई में अक्सर अपने लिए एक छोटा कोना बचा रहता है: एक धन्यवाद, एक गरमाहट, यह आस कि इसका कुछ लाभ हमें भी हो। यह बात उस कोने से भी आगे की है।
 
 ## Aspiration and Dedication
 
@@ -85,4 +74,4 @@ Begin here every day. Say each part slowly. You can read it or follow the audio.
 
 ## Today's Practice
 
-जिस किसी को आपने मन ही मन बेकार मान लिया है, उसके लिए जब अगली बार हिक़ारत की एक लहर उठे, तो उसके किसी ठोस फ़ैसले में बदल जाने से पहले याद कर लीजिए, वह आगे जो भलाई कर सकता है, वह सब आपकी नज़र से बाहर है।
+आज कोई भला काम करने के बाद, चाहे किसी के लिए दरवाज़ा रोकना हो, किसी दोस्त की ख़बर लेना हो, या बिन कहे हाथ बँटाना, पल भर ठहरकर देखिए कि मन ने क्या आस लगाई थी। बड़ी बातें नहीं, नन्ही-नन्ही: एक धन्यवाद, एक गरमाहट, यह एहसास कि मैं नेक हूँ। इसे हटाना ज़रूरी नहीं। बस इस पर नज़र डाल लीजिए।

@@ -190,23 +190,23 @@ last_updated: 2026-06-24
 
 ## 5. དཔེ་ཁྲིད། — Recorded Teachings (Audio / Video)
 
-| # | File | Title | Author | Century | Links |
-|---|---|---|---|---|---|
-| 1 |  | བྱང་ཆུབ་སེམས་པའི་སྤྱོད་པ་ལ་འཇུག་པ། | མཁན་སྤྲུལ་འཇམ་དབྱངས་སྦྱིན་པ་རྒྱ་མཚོ། |  | [↗](https://soundcloud.com/user-400759752/004a4) |
-| 2 |  | སྤྱོད་འཇུག་ཐོགས་འགྲེལ། | མཁན་པོ་ཚུལ་ཁྲིམས་བློ་གྲོས། |  | [↗](https://freewechat.com/a/MzAwNTI5MDk5Nw==/2651461874/2) |
-| 3 |  | སྤྱོད་འཇུག | དགའ་ལྡན་རྒན་སྙན་གྲགས་རིན་པོ་ཆེ། |  | [↗](https://hu-hu.facebook.com/teachtibetan/videos/) |
-| 4 |  | སྤྱོད་འཇུག་ཆེན་མོའི་བཀའ་ཁྲིད། | ཏཱ་ལའི་བླ་མ ༡༤་བསྟན་འཛིན་རྒྱ་མཚོ། |  | [↗](https://www.youtube.com/watch?v=aGpJB_ZEW2A) |
-| 5 |  | བྱང་ཆུབ་སེམས་པའི་སྤྱོད་པ་ལ་འཇུག་པ། | མཁན་ཆེན་ངག་དབང་ཀུན་དཀའ་དབང་ཕྱུག |  | [↗](https://www.google.com/search?q=སྤྱོད་འཇུག་འཆད་ཁྲིད) |
+| #   | File | Title                              | Author                               | Century | Links                                                       |
+| --- | ---- | ---------------------------------- | ------------------------------------ | ------- | ----------------------------------------------------------- |
+| 1   |      | བྱང་ཆུབ་སེམས་པའི་སྤྱོད་པ་ལ་འཇུག་པ། | མཁན་སྤྲུལ་འཇམ་དབྱངས་སྦྱིན་པ་རྒྱ་མཚོ། |         | [↗](https://soundcloud.com/user-400759752/004a4)            |
+| 2   |      | སྤྱོད་འཇུག་ཐོགས་འགྲེལ།             | མཁན་པོ་ཚུལ་ཁྲིམས་བློ་གྲོས།           |         | [↗](https://freewechat.com/a/MzAwNTI5MDk5Nw==/2651461874/2) |
+| 3   |      | སྤྱོད་འཇུག                         | དགའ་ལྡན་རྒན་སྙན་གྲགས་རིན་པོ་ཆེ།      |         | [↗](https://hu-hu.facebook.com/teachtibetan/videos/)        |
+| 4   |      | སྤྱོད་འཇུག་ཆེན་མོའི་བཀའ་ཁྲིད།      | ཏཱ་ལའི་བླ་མ ༡༤་བསྟན་འཛིན་རྒྱ་མཚོ།    |         | [↗](https://www.youtube.com/watch?v=aGpJB_ZEW2A)            |
+| 5   |      | བྱང་ཆུབ་སེམས་པའི་སྤྱོད་པ་ལ་འཇུག་པ། | མཁན་ཆེན་ངག་དབང་ཀུན་དཀའ་དབང་ཕྱུག      |         | [↗](https://www.google.com/search?q=སྤྱོད་འཇུག་འཆད་ཁྲིད)    |
 
 ---
 
 ## 6. Unclassified — Pending Identification
 
 
-| # | File | Title | Author | Century | Links |
-|---|---|---|---|---|---|
-| 1 |  | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་དོན་བསྡུས་པ། | — |  | [↗](https://library.bdrc.io/show/bdr:WA0RT3224) — D3879 |
-| 2 |  | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་བ་ལེགས་པར་བཤད་པའི་རྒྱ་མཚོ། | — |  | [↗](https://library.bdrc.io/show/bdr:WA0LULDC296292) — Attributed to Thokme Zangpo — possibly same as #6 in Written Commentaries |
-| 3 |  | སྤྱོད་འཇུག་ཆེན་མོ། *(root text)* | शान्तिदेव |  | Root text; listed here for completeness |
+| #   | File | Title                                                                 | Author    | Century | Links                                                                                                                            |
+| --- | ---- | --------------------------------------------------------------------- | --------- | ------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 1   |      | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་དོན་བསྡུས་པ།                     | —         |         | [↗](https://library.bdrc.io/show/bdr:WA0RT3224) — D3879                                                                          |
+| 2   |      | བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་བ་ལེགས་པར་བཤད་པའི་རྒྱ་མཚོ། | —         |         | [↗](https://library.bdrc.io/show/bdr:WA0LULDC296292) — Attributed to Thokme Zangpo — possibly same as #6 in Written Commentaries |
+| 3   |      | སྤྱོད་འཇུག་ཆེན་མོ། *(root text)*                                      | शान्तिदेव |         | Root text; listed here for completeness                                                                                          |
 
 ---

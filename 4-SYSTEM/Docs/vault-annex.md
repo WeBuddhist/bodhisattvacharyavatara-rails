@@ -103,42 +103,9 @@ Every commentary file in `1-SOURCES/Commentaries/` declares a `registered_id` in
 
 Every source carries a vault-internal catalog code in its `book_id` frontmatter field, built per the cataloging convention in [`../../1-SOURCES/About Sources.md`](../../1-SOURCES/About%20Sources.md) §3a: `[Root Title]-[Language & Resource Type]-[Century][Author Code]`.
 
-**Root-title code registered for this vault:**
+**Root-title code registered for this vault:** `BCA` — *Bodhicaryāvatāra* (the vault's only root text). **Language codes:** `EN` English · `BO` Tibetan · `SA` Sanskrit · `ZH` Chinese (vault extension). **Resource type:** `V` version/translation · `C` commentary.
 
-| Root title | Code | Notes |
-| ---------- | ---- | ----- |
-| *Bodhicaryāvatāra* (*Bodhisattvacaryāvatāra*) | `BCA` | The vault's only root text. |
-
-**Language codes used in this vault:** `EN` English · `BO` Tibetan · `SA` Sanskrit, plus `ZH` Chinese (vault extension for the Chinese commentaries in the roster). **Resource type:** `V` version/translation of the root text · `C` commentary.
-
-**Catalog codes for the registered commentaries.** Author codes are the uppercase initials of each commentator; the century is the century the work was composed. Centuries marked `··` are not yet verified against the source colophon and must be confirmed before the code is finalised (the code is not stable until the century is filled).
-
-| `registered_id` | `book_id` | Century basis |
-| --------------- | --------- | ------------- |
-| `prajnakaramati` | `BCA-BOC-11PKM` | Prajñākaramati, c. 11th c. (Tibetan translation of the Sanskrit *pañjikā*) |
-| `kunpal` | `BCA-BOC-20KP` | Khenpo Kunpal, early 20th c. |
-| `mipham` | `BCA-BOC-19JM` | Ju Mipham, late 19th c. |
-| `khenpo-zhengah` | `BCA-BOC-20KZ` | Khenpo Zhenga, early 20th c. |
-| `gyaltsab` | `BCA-BOC-15GDR` | Gyaltsab Darma Rinchen, early 15th c. |
-| `minyak-kunzang-sonam` | `BCA-BOC-19MKS` | Minyak Kunzang Sönam, 19th c. |
-| `ngulchu-thogmed` | `BCA-BOC-14TZ` | Ngülchu Thogmé (Thogme Zangpo), 14th c. ⚑ |
-| `sabzang` | `BCA-BOC-14SMP` | Sabzang Mati Paṇchen, 14th c. |
-| `druk-kunkhyen` | `BCA-BOC-16PK` | Druk Kunkhyen Pema Karpo, 16th c. |
-| `zhechen-gyaltshab` | `BCA-BOC-20ZG` | Zhechen Gyaltsab, early 20th c. |
-| `karma-lodo` | `BCA-BOC-··KLC` | Karma Lodrö Chöpelzangpo — century to verify |
-| `khenpo-kunga` | `BCA-BOC-··KKW` | Khenpo Kunga Wangchuk — century to verify |
-| `tsawa-nyag` | `BCA-BOC-··TN` | Tsawa Nyag Sherab Tharchin — century to verify |
-| `drak-gyap` | `BCA-BOC-··DGL` | Drakgyap Lodrö — century to verify |
-| `tsechenrab` | `BCA-BOC-··—` | Author placeholder; resolve author then assign |
-| `lozang-pelzang` | `BCA-BOC-··LP` | Lotsāwa Lodrö Pelzang — century to verify |
-| `nakpopa` | `BCA-BOC-··NKP` | Nakpopa (Kṛṣṇapāda) — century to verify |
-| `ksemadeva` | `BCA-BOC-··KD` | Kṣemadeva — century to verify |
-| `wuzheng` | `BCA-ZHC-··WZ` | 无著菩萨 / Sodargye translation — century to verify |
-| `dalai-lama-14` | `BCA-ZHC-21DL` | 14th Dalai Lama, 20th–21st c. |
-
-⚑ The convention's worked example in `About Sources.md` §3a renders Thogme Zangpo as `BCA-BOC-12TZ`; historically he is 14th-century (1295–1369), so the roster uses `14TZ`. Confirm the intended century before finalising.
-
-Once a translation track or new commentary is added, register its `book_id` here in the same form.
+The per-commentary `book_id` assignments are maintained in the commentaries catalog — see [`../../1-SOURCES/Commentaries/Commentaries_catalog.md`](../../1-SOURCES/Commentaries/Commentaries_catalog.md) §"Book IDs (catalog codes)". Register the `book_id` of any new commentary or translation track there in the same form.
 
 ---
 

@@ -14,5 +14,10 @@ gemini-scribe/
 .trash/
 .DS_Store
 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
 # Claude Code worktrees (local only)
 .claude/worktrees/

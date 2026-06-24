@@ -268,12 +268,12 @@ Real example (Day 15 — Chapter 2, Verses 1–3):
 
 ---
 
-### Section 5 — བསྔོ་བ་དང་སྨོན་ལམ། (Dedication & Aspiration) [FIXED]
+### Section 6 — བསྔོ་བ་དང་སྨོན་ལམ། (Dedication & Aspiration) [FIXED]
 
 Always include these two sub-sections verbatim:
 
 ```markdown
-### ༥། བསྔོ་བ་དང་སྨོན་ལམ།
+### ༦། བསྔོ་བ་དང་སྨོན་ལམ།
 
 ####  **༡. བསྔོ་བ།**
 
@@ -367,11 +367,11 @@ If the user doesn't specify verses and asks only for a day number, consult that 
 ## Quality checklist before saving
 
 - [ ] Document header present, with correct day number, chapter ordinal, and verse range in Tibetan numerals — positioned **before Section 1**
-- [ ] All 5 sections present with correct section numbering (༡། through ༥།)
-- [ ] Section 1 and Section 5 match the fixed prayer texts **exactly** — do not paraphrase or alter
+- [ ] All 6 sections present with correct section numbering (༡། through ༦།)
+- [ ] Section 1 and Section 6 match the fixed prayer texts **exactly** — do not paraphrase or alter
 - [ ] Day number, chapter, and verse numbers are in Tibetan numerals in the header
-- [ ] Exactly 3 benefit points in Section 2 — each title ends with འི་ཕན་ཡོན།
-- [ ] Section 3 — no `#### ༣.༡ རྩ་ཚིག` / `#### ༣.༢ འགྲེལ་བཤད།` headings in the output
+- [ ] Section 2 introduction is 2–4 sentences, ≤ 60 words — introduces the day with the verse(s), not an explanation of the verse
+- [ ] Section 3 — no subsection headings in the output
 - [ ] Section 3 — verse headers follow `#### **N. ཤློཀ་[ordinal]།** (ལེའུ་ C ཤློཀ་ N)` and commentary headers follow `#### **N. ཤློཀ་[ordinal]།** འགྲེལ་བཤད།` — parenthetical and འགྲེལ་བཤད། **outside** the bold
 - [ ] Section 3 — verse numbers in all headers are the real chapter verse numbers and match the day's assigned range (filename `V[start]-[end]`)
 - [ ] Section 3.1 — verses provided by user; each found in `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` and copied exactly — not quoted from memory or training data

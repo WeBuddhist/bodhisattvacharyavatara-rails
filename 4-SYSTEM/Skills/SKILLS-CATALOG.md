@@ -221,7 +221,7 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 → [`plan-day-feedback-revision/SKILL.md`](plan-day-feedback-revision/SKILL.md)
 
 ### `hindi-plan-from-english` **[exists]**
-**Purpose:** Translate an existing English Bodhisattva Challenge day-plan file into Hindi, rendering only the Opening/Introduction, From the Tradition, and Today's Practice sections into Devanagari Hindi while reproducing everything else verbatim.
+**Purpose:** Translate an existing English Bodhisattva Challenge day-plan file into plain, conversational ("chai"-register) Hindi, rendering only the Opening/Introduction, From the Tradition, and Today's Practice sections into everyday Devanagari Hindi while reproducing everything else verbatim.
 **Inputs:** A finished English day file under `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/<Chapter-folder>/<DAY_NUMBER>.md`, plus the day number.
 **Outputs:** A structurally identical Hindi day file at `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/hi/Days/<Chapter-folder>/<DAY_NUMBER>.md` with only the three prose sections translated.
 → [`hindi-plan-from-english/SKILL.md`](hindi-plan-from-english/SKILL.md)

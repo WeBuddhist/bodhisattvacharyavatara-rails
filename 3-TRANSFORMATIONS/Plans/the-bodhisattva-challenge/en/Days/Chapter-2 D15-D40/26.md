@@ -16,7 +16,7 @@ generation_note: "No en-ai or 2-RAILS material exists for Chapter 2. English ver
 
 ## Opening
 
-Confession begins. Shantideva owns the harm of this life and every life before it: what he did, what he led others into, and what he was glad to see. He sees it as a mistake and confesses it to the buddhas and bodhisattvas from the depth of his heart, and means it.
+Confession begins. Shantideva owns the harm of this life and every life before it: what he did, what he pushed others into, and what he was simply glad to see. He names it as a mistake and confesses it to the buddhas and bodhisattvas, holding nothing back.
 
 ## Renewing the Bodhisattva Vow
 

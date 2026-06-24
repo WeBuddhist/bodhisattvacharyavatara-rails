@@ -1,20 +1,21 @@
 ---
 day: 14
 chapter: 1
-verses: "1-36 to 1-37"
+verses: "1-35 to 1-36"
 status: draft
 translated_from: "en/Days/Chapter-1 D1-D14/14.md"
-concept: "Ngulchu Thokme: harming a bodhisattva leads to suffering and to happiness at once, with no contradiction. The suffering is the natural ripening of the harmer's own anger; the happiness comes from the bodhisattva's compassion, which works to lead even attackers to peace (King Maitribala)."
-generation_note: "Interim commentary summary used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-36.md). No 2-RAILS/Verses/ packages exist for these verses yet. Verse 1-37 is the closing colophon of Chapter 1, not a content verse; rendered plainly as the chapter's closing line. Final day of Chapter 1."
+generation_note: "Regenerated with the english-plan-generator skill; verse grouping realigned to en/assets/schedule-corrected.md. Closes Chapter 1 (final verses 1-35, 1-36). Commentary from en-ai/Verses summaries; English verses from en-AI-generated-root-loden-sherab.md; Tibetan from bo-བློ་ལྡན་ཤེས་རབ།.md. Needs domain-specialist review before status: complete."
 ---
 
-# Day 14 — Chapter One ends: honoring those who carry bodhicitta
+# Day 14 — Meeting harm with patience — Chapter 1 closes
+
+> **Notification**
+> **Title:** Admire someone who meets unkindness with patience
+> **Detail:** Chapter 1 closes. Today, bring to mind someone steady and kind, and simply admire them.
 
 ## Opening
-	
-*Push notification:* Today: the people who answer harm with kindness.
 
-हम सब जानते हैं कि ऐसा इंसान कितनी मुश्किल से मिलता है जो कठोरता का जवाब नरमी से दे। आज का श्लोक, पहले अध्याय का आख़िरी, ऐन ऐसे ही लोगों के सामने सिर झुकाता है: **जो अपने भीतर बोधिचित्त लिए चलते हैं**। यह उन्हें मान देता है, और उन्हें सुख का सच्चा सोता मानकर उनकी शरण में जाता है।
+पहला अध्याय इस बात पर समाप्त होता है कि जो लोग इस मन को अपने भीतर संजोए चलते हैं, उनके प्रति हमारा रुख़ क्या हो। ऐसे इंसान में टिकी पल भर की श्रद्धा, श्लोक कहता है, हर अंधे को फिर से आँखें दे देने से भी बड़ी भलाई लाती है। और वे इतने पक्के होते हैं कि जो उन्हें चोट पहुँचाते हैं, वे भी वक़्त के साथ सुख की राह पर ले आए जाते हैं। अध्याय उनके आगे सिर झुकाते हुए विदा लेता है।
 
 ## Renewing the Bodhisattva Vow
 
@@ -41,6 +42,13 @@ generation_note: "Interim commentary summary used (3-TRANSFORMATIONS/Translation
 
 ## Today's Verses
 
+> འོན་ཏེ་གང་ཞིག་ཡིད་རབ་དང་བྱེད་ན། །
+> དེ་ཡི་འབྲས་བུ་དེ་བས་ལྷག་པར་འཕེལ། །
+> རྒྱལ་སྲས་རྣམས་ལ་དོ་གལ་ཆེན་པོས་ཀྱང་། །
+> སྡིག་པ་མི་འབྱུང་དགེ་བ་ངང་གིས་འཕེལ། །
+>
+> However, if one generates a faithful mind toward them, its fruit will increase even further. Even when great harm befalls these children of the Buddha, no negativity arises, and their virtue naturally increases.
+
 > གང་ལ་སེམས་ཀྱི་དམ་པ་རིན་ཆེན་དེ། །
 > སྐྱེས་པ་དེ་ཡི་སྐུ་ལ་ཕྱག་འཚལ་ཞིང་། །
 > གང་ལ་གནོད་པ་བྱས་ཀྱང་བདེ་འབྲེལ་བ། །
@@ -48,19 +56,11 @@ generation_note: "Interim commentary summary used (3-TRANSFORMATIONS/Translation
 >
 > I pay homage to the body of anyone in whom this precious jewel of the mind has arisen. I take refuge in those sources of happiness, who connect even their harmers with joy.
 
-> བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ལས་བྱང་ཆུབ་སེམས་ཀྱི་ཕན་ཡོན་བཤད་པ་ཞེས་བྱ་བ་སྟེ་ལེའུ་དང་པོའོ།། །།
->
-> This completes the first chapter of the Bodhisattvacharyavatara, the explanation of the benefits of bodhicitta.
-
 ## From the Tradition
 
-जब कोई हमारे साथ ज़्यादती करता है, तो आम तौर पर हम चाहते हैं कि या तो वह हमारी नज़रों से हटे, या उसे इसका ख़ामियाज़ा भुगतना पड़े।
+चौदहवीं सदी के शिक्षक **ङुलछु थोकमे** एक जायज़ सवाल का जवाब देते हैं। पहले श्लोक कह चुके थे कि ऐसे इंसान को सताना भयानक अंजाम लाता है। और अब कहते हैं कि जो उन्हें सताते हैं, वे भी आख़िरकार सुख से जुड़ जाते हैं। तो बात क्या है?
 
-आज का श्लोक कहता है कि बोधिसत्व इसका ठीक उल्टा करता है। जो उसे चोट पहुँचाते हैं, उन्हें भी वह सुख देता है। पर यह उस बात से उलझता-सा लगता है जो हमने पहले पढ़ी थी, कि किसी बोधिसत्व को सताना भयानक दुख की ओर ले जाता है।
-
-चौदहवीं सदी के शिक्षक **ङुलछु थोकमे** बताते हैं कि **दोनों बातें एक साथ सच हो सकती हैं**। किसी बोधिसत्व को चोट पहुँचाओ, तो तुम्हारा अपना गुस्सा तुम्हीं पर दुख बरसाता है। पर बोधिसत्व तुम्हें छोड़ता नहीं। उसकी करुणा इतनी गहरी होती है कि वह आख़िरकार तुम्हें सुख तक ले जाने में जुटा रहता है।
-
-वे मैत्रीबल नाम के एक राजा की पुरानी कहानी सुनाते हैं। प्रेत उसका ख़ून पी गए, पर गुस्सा करने के बजाय उसने उन्हीं प्रेतों को आज़ादी की राह दिखा दी।
+वे कहते हैं, दोनों बातें सच हैं, और इनमें कोई उलझन नहीं। किसी का किया नुक़सान उसके अपने गुस्से के कारण उसी पर पलटकर आता है। पर बोधिसत्व अपनी तरफ़ से ज़रा भी गुस्सा नहीं रखता, और अपने सताने वाले तक का चुपचाप भला चाहता रहता है, जब तक वह चाह रंग न ले आए। वे राजा मैत्रीबल की पुरानी कहानी सुनाते हैं। पाँच प्रेतों ने उसे घायल कर उसका ख़ून पिया, फिर भी उसने गुस्से के बजाय उन्हें प्यार से अपनाया, और आख़िर में उन्हीं को एक बेहतर राह दिखा दी।
 
 ## Aspiration and Dedication
 
@@ -76,4 +76,4 @@ generation_note: "Interim commentary summary used (3-TRANSFORMATIONS/Translation
 
 ## Today's Practice
 
-आज अगर कोई आपको चिढ़ा दे, कोई बदतमीज़ी भरी बात या कोई बेरुख़ी, तो ज़रा आज़माइए कि क्या आप तब भी **उसका भला चाह पाते हैं**। ज़रा-सा भी बहुत है।
+किसी एक ऐसे इंसान को मन में लाइए जो बदसुलूकी का जवाब पलटकर वार से नहीं, सब्र से देता है, कोई जिसे आप जानते हों या जिसके बारे में सुना हो। बस पल भर के लिए उसे सराह लीजिए। यही ख़ामोश-सी सराहना आज का अभ्यास है।

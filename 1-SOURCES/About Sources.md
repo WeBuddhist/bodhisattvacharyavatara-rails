@@ -212,6 +212,7 @@ date: [Date]
 language: [Target language]
 file_type: translation
 lang_tag: [tag]
+book_id: [Root]-[LangType]-[Century][AuthorCode]   # see §3a; versions use the V marker, e.g. BCA-ENV-21DKC
 verse_id_format: chapter-verse
 root_text: 1-SOURCES/Text/[lang]-root-text.md
 translation_basis: [edition used]
@@ -232,6 +233,7 @@ language: [Commentary language]
 script: [Script]
 file_type: commentary
 lang_tag: [tag]
+book_id: [Root]-[LangType]-[Century][AuthorCode]   # see §3a; commentaries use the C marker, e.g. BCA-BOC-21DL
 verse_id_format: chapter-verse
 registered_id: [short-id]
 root_text: 1-SOURCES/Text/[lang]-root-text.md
@@ -625,6 +627,7 @@ For languages not listed, use the appropriate ISO 639-1 code. When a resource is
 - [ ] Filename uses language tag, no diacritics, no subfolders.
 - [ ] Frontmatter complete — `source_description` required at minimum.
 - [ ] External IDs added where applicable (BDRC, CBETA, GRETIL, DSBC, SuttaCentral).
+- [ ] `book_id` assigned per the §3a cataloging convention and registered in the vault annex.
 - [ ] `source_url` included if sourced digitally.
 - [ ] `verse_id_format` declared in frontmatter.
 - [ ] Every verse has a block ID on its last line.

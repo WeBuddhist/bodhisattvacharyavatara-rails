@@ -1,10 +1,11 @@
 ---
 title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་ངེས་ལེགས་མཛོད་ཅེས་བྱ་བ་བཞུགས་སོ། །
-title in English: Commentary on Entering the Way of the Bodhisattva, Treasury of Definitive Goodness
+title_in_english: Commentary on Entering the Way of the Bodhisattva, Treasury of Definitive Goodness
 author: སྨུག་སངས་ཀརྨ་ཚེ་དཔལ།
-author in English: Mugsung Karma Tsepal
+author_in_english: Mugsung Karma Tsepal
 file_type: commentary
-language_tag: bo
+language: Tibetan
+lang_tag: bo
 source_description: ""
 ---
 ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་ངེས་ལེགས་མཛོད་ཅེས་བྱ་བ་བཞུགས་སོ། །﻿བཀྲ་ཤིས་གང་ཞིག་གསེར་སྦྱངས་རྡུལ་བརྩེགས་རི་བོའི་ངོས། །བཀྲ་ཤིས་ཉི་འོད་བྱེ་བས་འཁྱཱུད་འདྲའི་གཟི་བྱིན་ཅན། །བཀྲ་ཤིས་ངོ་མཚར་མཚན་དཔེའི་དཔལ་ཡོན་རྫོགས་པའི་སྐུ། །བཀྲ་ཤིས་སྟོན་མཆོག་ཤཱཀྱ་ཏོག་ལ་གུས་ཕྱག་བཅཡ། རྒྱལ་ཀུན་ཡབ་ཏུ་གྱུར་སྲས་ཀྱི་ཚུལ། །མཁྱེན་རབ་དབང་ཕྱུག་སྨྲ་མཁས་ཡོངས་ཀྱི་ལྷ། །མཚན་ཙམ་ཐོས་པས་རྨོངས་པ་འགོག་བྱེད་པའི། །འཇམ་དཔལ་ཡེ་ཤེས་སེམས་དཔས་བདག་བློ་སྐྱོངས། །

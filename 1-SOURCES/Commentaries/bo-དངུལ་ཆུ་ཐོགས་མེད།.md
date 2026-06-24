@@ -1,10 +1,11 @@
 ---
 title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་ལེགས་པར་བཤད་པའི་རྒྱ་མཚོ།
-title in English: "Ocean of Good Explanations: A Commentary on the Bodhisattvacaryavatara"
+title_in_english: "Ocean of Good Explanations: A Commentary on the Bodhisattvacaryavatara"
 author: དངུལ་ཆུ་ཐོགས་མེད།
-author in English: Ngulchu Thokme
-file_type: Commentary
-language_tag: bo
+author_in_english: Ngulchu Thokme
+file_type: commentary
+language: Tibetan
+lang_tag: bo
 source_description: Composed by Lungrik Mawa Thokme at the glorious E monastery (dpal e'i gtsug lag khang).
 ---
 

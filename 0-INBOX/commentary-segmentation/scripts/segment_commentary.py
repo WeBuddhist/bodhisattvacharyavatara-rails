@@ -26,7 +26,7 @@ NYIS_SHAD = "༎"  # U+0F0E TIBETAN MARK NYIS SHAD
 SHAD_CLUSTER = rf"[{SHAD}{NYIS_SHAD}](?:[\s{TSHEG}]*[{SHAD}{NYIS_SHAD}])*"
 
 # Pre-compiled Pattern for SHAD_CLUSTER — used directly in _split_clause_units,
-# detect_stanza, and _shad_bounds to avoid per-call re.compile() overhead.
+# scan_segments, and _shad_bounds to avoid per-call re.compile() overhead.
 _SHAD_CLUSTER_RE = re.compile(SHAD_CLUSTER)
 
 # Order matters when two rules legitimately end at the exact same shad (e.g.
@@ -94,7 +94,6 @@ ORDINAL_HEAD_RE = re.compile(
 PADA_MIN_SYL = 6
 PADA_MAX_SYL = 11
 PADA_COUNT_RANGE = (2, 4)
-PADA_UNIFORMITY_TOLERANCE = 1
 
 
 def detect_stanza(paragraph: str):
@@ -136,9 +135,38 @@ def count_syllables(text: str) -> int:
 
 STANZA_MAX_PADAS = 4
 
+# Tibetan verse meter varies slightly across pādas (e.g. 6 vs 8 syllables in
+# the same quatrain is attested). TOLERANCE=1 was too tight for texts where
+# some pādas end with a single shad rather than a double shad and the syllable
+# counter therefore under-counts by one tsheg. Widening to 2 retains
+# discrimination against prose while accepting real stanzas with minor
+# length variation.
+PADA_UNIFORMITY_TOLERANCE = 2
+
 
 def _is_pada_unit(unit):
-    return PADA_MIN_SYL <= count_syllables(unit.strip()) <= PADA_MAX_SYL
+    stripped = unit.strip()
+    # Real verse padas always end with a strong (double) shad cluster.
+    # Handles both "།།" (consecutive) and "། །" (shad-space-shad) which
+    # Tibetan OCR and digital sources commonly produce.
+    # Outline/list sub-items end with a single shad — requiring double-shad
+    # prevents them from being mistaken for verse.
+    if not stripped:
+        return False
+    last = stripped[-1]
+    if last == NYIS_SHAD:
+        ends_double = True
+    elif last == SHAD:
+        # Walk backwards past any whitespace to find the preceding shad
+        i = len(stripped) - 2
+        while i >= 0 and stripped[i] in (" ", "\t", " "):
+            i -= 1
+        ends_double = i >= 0 and stripped[i] in (SHAD, NYIS_SHAD)
+    else:
+        ends_double = False
+    if not ends_double:
+        return False
+    return PADA_MIN_SYL <= count_syllables(stripped) <= PADA_MAX_SYL
 
 
 def _uniform(units):
@@ -198,6 +226,20 @@ def scan_segments(para):
     medium-length prose sentences are never mistaken for one-line verses."""
     units = _split_clause_units(para)
     flags = [_is_pada_unit(u) for u in units]
+
+    # Gap-bridging pass: some texts mark pāda boundaries with a single shad
+    # (།) rather than a double shad (། །), producing a False flag that breaks
+    # an otherwise valid stanza run. Promote a single-shad unit to pada status
+    # when it is sandwiched between two double-shad pada units and its syllable
+    # count falls in the pada range. The surrounding double-shad requirement
+    # keeps normal prose sentences (which almost always end with single shad)
+    # from being mis-promoted.
+    n = len(units)
+    for i in range(1, n - 1):
+        if not flags[i] and flags[i - 1] and flags[i + 1]:
+            stripped = units[i].strip()
+            if PADA_MIN_SYL <= count_syllables(stripped) <= PADA_MAX_SYL:
+                flags[i] = True
     out = []
     pending = []  # prose units awaiting flush
 
@@ -480,16 +522,91 @@ def process(text: str, max_syllables: int, structural: bool = False):
                     seg = seg.strip()
                     if structural:
                         seg = re.sub(r"([" + SHAD + NYIS_SHAD + r"])\s+([" + SHAD + NYIS_SHAD + r"])", r"\1\2", seg)
-                        seg = ORDINAL_HEAD_RE.sub(r"\1\n", seg)
                     blocks.append((False, seg))
                 report.extend(rows)
+    # Citation-marker split (structural mode only).
+    # After Stage 0 joins source lines with spaces, a citation marker that was
+    # on its own source line arrives as "[prose] [source]ལས།" (with a space
+    # marking the original line boundary). Split it off into its own block so
+    # the source reference, the quoted passage, and the closing formula each
+    # occupy separate blocks.  The regex requires whitespace before the marker
+    # so that in-sentence grammatical ལས། (no preceding space) is never split.
+    if structural:
+        # Split citation markers from the prose block they landed in.
+        # Stage 0 joined source lines with spaces, so a citation marker that
+        # was its own source segment arrives as "...prose [marker]las/sungs."
+        # We detect it by: last-space exists, everything after the last space
+        # has no further spaces, and that tail ends with las/sungs + a shad.
+        # Pure ASCII / Unicode-escape constants avoid encoding issues.
+        _LAS   = "\u0f63\u0f66"   # las (unicode escapes - no Tibetan in source)
+        _SUNGS = "\u0f42\u0f66\u0f74\u0f44\u0f66"  # sungs
+        _SHADS = SHAD + NYIS_SHAD
+        split_blocks = []
+        for is_verse, txt in blocks:
+            if not is_verse:
+                # Prose block: citation marker may trail prose after a space.
+                stripped = txt.strip()
+                last_sp = stripped.rfind(" ")
+                if last_sp > 0:
+                    tail = stripped[last_sp + 1:]
+                    core = tail.rstrip(_SHADS)
+                    if (" " not in tail
+                            and len(core) < len(tail)   # at least one shad
+                            and (core.endswith(_LAS) or core.endswith(_SUNGS))):
+                        split_blocks.append((False, stripped[:last_sp].strip()))
+                        split_blocks.append((False, tail))
+                        continue
+            elif is_verse:
+                # Verse block: citation marker may be its first line because
+                # scan_segments sees pada-length syllables and groups it into
+                # the stanza. Peel it off as a separate prose block.
+                lines = txt.split("\n")
+                if len(lines) >= 2:
+                    first = lines[0].strip()
+                    core = first.rstrip(_SHADS)
+                    if (len(core) < len(first)  # ends in a shad
+                            and (core.endswith(_LAS) or core.endswith(_SUNGS))):
+                        split_blocks.append((False, first))
+                        split_blocks.append((True, "\n".join(lines[1:])))
+                        continue
+            split_blocks.append((is_verse, txt))
+        blocks = split_blocks
+
+    # Closer attachment (structural mode only).
+    # Closing formulas like zhe-s-pa-ltar-ro (as it is said) end with double-shad
+    # and are cut into their own block by the terminal-particle rule. They should
+    # be re-joined to the preceding block with a space.
+    # Detection: no internal space (single source line), starts with zhe-s or
+    # ce-s, and short (<=10 syllables) -- avoids prose that begins with zhe-s.
+    if structural:
+        _ZHE = "\u0f5e\u0f7a\u0f66\u0f0b"   # zhe-s-tsheg
+        _CE  = "\u0f45\u0f7a\u0f66\u0f0b"   # ce-s-tsheg
+        CLOSER_MAX_SYL = 10
+        merged = []
+        for is_verse, txt in blocks:
+            stripped = txt.strip()
+            if (not is_verse
+                    and merged
+                    and not merged[-1][0]   # attach only to prose, not verse
+                    and " " not in stripped
+                    and (stripped.startswith(_ZHE) or stripped.startswith(_CE))
+                    and count_syllables(stripped) <= CLOSER_MAX_SYL):
+                prev_verse, prev_txt = merged[-1]
+                merged[-1] = (prev_verse, prev_txt.rstrip() + " " + stripped)
+            else:
+                merged.append((is_verse, txt))
+        blocks = merged
+
     # lead-in attachment: a lone invocation / source-frame line immediately
     # before a stanza becomes that stanza block's first line (format-commentary
     # §3). Done here, after prose has been split into individual blocks.
+    # Skipped in structural mode — citation markers, verses, and closers each
+    # keep their own block there.
     i = 0
     while i < len(blocks):
         is_verse, txt = blocks[i]
-        if (not is_verse and i + 1 < len(blocks)
+        if (not structural
+                and not is_verse and i + 1 < len(blocks)
                 and blocks[i + 1][0] and _is_leadin(txt)):
             out_parts.append(_format_pada(txt) + "\n" + blocks[i + 1][1])
             i += 2

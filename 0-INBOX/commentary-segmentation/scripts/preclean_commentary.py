@@ -102,6 +102,11 @@ def process(text: str):
     def flush():
         if buf:
             run = re.sub(r"\s+", " ", " ".join(s.strip() for s in buf)).strip()
+            # Normalize: insert space after shad/nyis-shad when followed directly
+            # by Tibetan content (no space). OCR sources often omit this space.
+            # U+0F0D=shad, U+0F0E=nyis-shad, U+0F0B=tsheg, U+0F0C=delimiter.
+            run = re.sub("([།༎])([^\s།༎་༌])",
+                         r"\1 \2", run)
             if run:
                 blocks.append(("prose", run))
             buf.clear()

@@ -68,7 +68,7 @@ All generated prose must follow these style rules without exception:
 
 **What to avoid**
 - ❌ Dzongkha grammatical patterns or vocabulary
-- ❌ Cold, encyclopaedic or overly academic prose — even neutral-tone sections (2, 3.2, 6) should feel warm and accessible, like a kind teacher speaking to a student
+- ❌ Cold, encyclopaedic or overly academic prose — even neutral-tone sections (2, 4, 6) should feel warm and accessible, like a kind teacher speaking to a student
 - ❌ First person singular (ངས་ / ང་རང་ / བདག་གིས་) in Sections 2 and 4
 - ❌ ང་ཚོས་ / ང་ཚོ་ (collective "we") anywhere in the document
 - ❌ Clipped clauses that don't flow into one another
@@ -187,7 +187,7 @@ For each verse, provide one commentary block in the same order as the verses abo
    - `- **ངོས་འཛིན།**: ` — one sentence identifying what kind of root verse this is and what it teaches, ending with `…སྟོན་པའི་རྩ་ཚིག་ཡིན་ནོ། །`
    - `- **འགྲེལ་བཤད།**: ` — 4–8 sentences of Tibetan prose **extracted and summarised from all commentaries in `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\1-SOURCES\Commentaries\`**. Read every commentary file in that folder, identify what each says about the verse, and synthesise their views into a single flowing commentary. **Strictly begin with** `ཤློཀ་འདིའི་དོན་ནི་` and **end with** `ཞེས་པའོ། །`. Rewrite in clear, easy-to-read modern Tibetan that a beginner practitioner can understand and apply directly. **Do not invent, improvise, or add material not found in the commentary files.** At the end of the commentary block, add a **Sources** line listing a clickable Obsidian wikilink for each **specific block** actually cited, using the format `[[1-SOURCES/Commentaries/filename#^blockid|Display name ^blockid]]` — so the reader can open the raw source and jump directly to the cited passage. Example: `**མཆན།**: [[1-SOURCES/Commentaries/bo-དངུལ་ཆུ་ཐོགས་མེད།.md#^2-8-1|དངུལ་ཆུ་ཐོགས་མེད། ^2-8-1]] · [[1-SOURCES/Commentaries/bo-དངུལ་ཆུ་ཐོགས་མེད།.md#^2-8-2|^2-8-2]]`
 
-Worked example (Chapter 1, verse 12) — Subsection 3.1 entry, then its Subsection 3.2 entry:
+Worked example (Chapter 1, verse 12) — Section 3 entry, then its Section 4 entry:
 ```markdown
 #### **༡༢. ཤློཀ་བཅུ་གཉིས་པ།** (ལེའུ་ ༡ ཤློཀ་ ༡༢)
 
@@ -372,14 +372,15 @@ If the user doesn't specify verses and asks only for a day number, consult that 
 - [ ] Day number, chapter, and verse numbers are in Tibetan numerals in the header
 - [ ] Section 2 introduction is 2–4 sentences, ≤ 60 words — introduces the day with the verse(s), not an explanation of the verse
 - [ ] Section 3 — no subsection headings in the output
-- [ ] Section 3 — verse headers follow `#### **N. ཤློཀ་[ordinal]།** (ལེའུ་ C ཤློཀ་ N)` and commentary headers follow `#### **N. ཤློཀ་[ordinal]།** འགྲེལ་བཤད།` — parenthetical and འགྲེལ་བཤད། **outside** the bold
+- [ ] Section 3 — verse headers follow `#### **N. ཤློཀ་[ordinal]།** (ལེའུ་ C ཤློཀ་ N)` — parenthetical **outside** the bold
+- [ ] Section 4 — commentary headers follow `#### **N. ཤློཀ་[ordinal]།** འགྲེལ་བཤད།` — འགྲེལ་བཤད། **outside** the bold; verse numbers match those in Section 3
 - [ ] Section 3 — verse numbers in all headers are the real chapter verse numbers and match the day's assigned range (filename `V[start]-[end]`)
-- [ ] Section 3.1 — verses provided by user; each found in `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` and copied exactly — not quoted from memory or training data
-- [ ] Section 3.2 — each commentary block has the two bullets `- **ངོས་འཛིན།**:` and `- **འགྲེལ་བཤད།**:`; the འགྲེལ་བཤད། bullet is extracted and summarised from all relevant files in `1-SOURCES/Commentaries/` — not invented — strictly begins with `ཤློཀ་འདིའི་དོན་ནི་` and ends with `ཞེས་པའོ། །`; followed by a **མཆན།** line of clickable Obsidian wikilinks to each commentary cited
-- [ ] Exactly 1 daily application point in Section 4, focused on real-life challenges
+- [ ] Section 3 — verses found in `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` and copied exactly — not quoted from memory or training data
+- [ ] Section 4 — each commentary block has the two bullets `- **ངོས་འཛིན།**:` and `- **འགྲེལ་བཤད།**:`; the འགྲེལ་བཤད། bullet is extracted and summarised from all relevant files in `1-SOURCES/Commentaries/` — not invented — strictly begins with `ཤློཀ་འདིའི་དོན་ནི་` and ends with `ཞེས་པའོ། །`; followed by a **མཆན།** line of clickable Obsidian wikilinks to each commentary cited
+- [ ] Exactly 1 daily application point in Section 5, focused on real-life challenges
 - [ ] Tibetan spelling and grammar reviewed — check case endings (e.g. ལ་དོན། སུ་དོན། གི་དོན།), verb forms, and particles for correctness throughout all generated sections
-- [ ] Section 4 uses first person singular (ངས་ / ང་རང་) — never collective ང་ཚོས་
-- [ ] Sections 2 and 3.2 use neutral tone — no first person (ངས་ / ང་རང་ / བདག་གིས་) in these sections
+- [ ] Section 5 uses first person singular (ངས་ / ང་རང་) — never collective ང་ཚོས་
+- [ ] Sections 2 and 4 use neutral tone — no first person (ངས་ / ང་རང་ / བདག་གིས་) in these sections
 - [ ] Sentences flow smoothly with connective particles — no clipped Dzongkha-style clauses
 - [ ] Classical Tibetan literary register maintained; Śāntideva referred to as རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷ།
 - [ ] Filename follows the format `Day-[day]-Ch[chapter]-V[start]-[end].md` — no zero-padding, uppercase V

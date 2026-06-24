@@ -4,7 +4,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-10KLND-BO.md
+## BCAC10_KLND_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ལེགས་པར་སྦྱར་བ། (Bodhisattvacaryāvatārasaṃskāra, D3874)
 **Author:** དགེ་བའི་ལྷ། (Kalyāṇadeva)
@@ -12,7 +12,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-19ZGPN-BO.md
+## BCAC19_ZGPN_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཤེས་རབ་ལེའུའི་མཆན་འགྲེལ་དོན་གསལ་མེ་ལོང་ཞེས་བྱ་བ་བཞུགས་སོ།།
 **Author:** གཞན་ཕན་ཆོས་ཀྱི་བློ་གྲོས། / ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ། / འཇམ་དབྱངས་བློ་གྲོས་རྒྱ་མཚོ།
@@ -20,7 +20,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-19JM-BO.md
+## BCAC19_JM_bo.md
 
 **Title:** ཤེས་རབ་ཀྱི་ལེའུའི་ཚིག་དོན་གོ་སླ་བར་རྣམ་པར་བཤད་པ་ནོར་བུ་ཀེ་ཏ་ཀ་ཞེས་བྱ་བ་བཞུགས་སོ།།
 **Author:** འཇུ་མི་ཕམ། (Ju Mipham)
@@ -28,7 +28,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-14LLP-BO.md
+## BCAC14_LLP_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་གཞུང་དོན་སྣང་བ་ཞེས་བྱ་བ་བཞུགས།
 **Author:** ལོ་ཙཱ་བ་བློ་གྲོས་དཔལ་བཟང།
@@ -36,7 +36,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-11NPP-BO.md
+## BCAC11_NPP_bo.md
 
 **Title:** སྤྱོད་འཇུག་གི་རྣམ་པར་བཤད་པ་བཞུགས་སོ།།
 **Author:** ནག་པོ་པ། (Nag po pa)
@@ -44,7 +44,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-14GDR-BO.md
+## BCAC14_GDR_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་བཤད་རྒྱལ་སྲས་འཇུག་ངོགས་བཞུགས་སོ།
 **Author:** རྒྱལ་ཚབ་དར་མ་རིན་ཆེན། (Gyaltsab Dharma Rinchen)
@@ -52,7 +52,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-20TG-BO.md
+## BCAC20_TG_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་གསུང་བཤད།
 **Author:** རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (H.H. the 14th Dalai Lama, Tenzin Gyatso)
@@ -60,7 +60,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-19KZ-BO.md
+## BCAC19_KZ_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ཞེས་བྱ་བའི་མཆན་འགྲེལ།
 **Author:** གཞན་ཕན་བྱམས་པའི་གོ་ཆ། (Khenpo Zhenga's interlinear annotation)
@@ -68,7 +68,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-19KKP-BO.md
+## BCAC19_KKP_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཚིག་འགྲེལ་འཇམ་དབྱངས་བླ་མའི་ཞལ་ལུང་བདུད་རྩིའི་ཐིག་པ།
 **Author:** མཁན་པོ་ཀུན་བཟང་དཔལ་ལྡན། (Khenpo Kunzang Palden / Khenpo Kunpal)
@@ -76,7 +76,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-16NKW-BO.md
+## BCAC16_NKW_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ཞེས་བྱ་བའི་འགྲེལ་པ།
 **Author:** ངག་དབང་ཀུན་དགའ་དབང་ཕྱུག (Ngakwang Kunga Wangchuk)
@@ -84,7 +84,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-20KTR-BO.md
+## BCAC20_KTR_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཚིག་འགྲེལ་གཅེས་བཏུས།
 **Author:** ཀརྨ་བློ་གྲོས་ཆོས་དཔལ་བཟང་པོ། (Karma Lodrö Chöpel Zangpo)
@@ -92,7 +92,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-21DKR-BO.md
+## BCAC21_DKR_bo.md
 
 **Title:** སྤྱོད་འཇུག་གླེང་བ་བཞུགས་སོ།
 **Author:** རྫོང་སར་མཁྱེན་བརྩེ། (Dzongsar Khyentse Rinpoche)
@@ -100,7 +100,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-14SMPLG-BO.md
+## BCAC14_SMPLG_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་གཞུང་དོན་རབ་གསལ་སྣང་བ་བཞུགས་སོ།
 **Author:** ས་བཟང་མ་ཏི་པཎ་ཆེན་བློ་གྲོས་རྒྱལ་མཚན།
@@ -108,7 +108,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-19MKS-BO.md
+## BCAC19_MKS_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་བཤད་རྒྱལ་སྲས་རྒྱ་མཚོའི་ཡོན་ཏན་རིན་པོ་ཆེ་མི་ཟད་འཇོ་བའི་བུམ་བཟང་ཞེས་བྱ་བ་བཞུགས་སོ།།
 **Author:** མི་ཉག་ཀུན་བསོད། (Minyak Kunso)
@@ -116,7 +116,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-10DR1-BO.md
+## BCAC10_DR1_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་དོན་སུམ་ཅུ་རྩ་དྲུག་བསྡུས་པ། (D3878)
 **Author:** ཆོས་སྐྱོང། (Dharmarakṣita / Suvarṇadvīpa)
@@ -124,7 +124,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-10DR2-BO.md
+## BCAC10_DR2_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་དོན་བསྡུས་པ། (D3879)
 **Author:** ཆོས་སྐྱོང། (Dharmarakṣita / Suvarṇadvīpa)
@@ -132,7 +132,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-12VC-BO.md
+## BCAC12_VC_bo.md
 
 **Title:** བྱང་ཆུབ་ཀྱི་སྤྱོད་པ་ལ་འཇུག་པའི་དགོངས་པའི་འགྲེལ་པ་ཁྱད་པར་གསལ་བྱེད། (Viśeṣadyotanī, D3880)
 **Author:** བི་བྷཱུ་ཏི་ཙནྡྲ། (Vibhūticandra)
@@ -140,7 +140,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-11VR-BO.md
+## BCAC11_VR_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་དཀའ་འགྲེལ། (Bodhisattvacaryāvatārapañjikā, D3875a)
 **Author:** བཻ་རོ་ཙ་ན་རཀྵི་ཏ། (Vairocanarak​ṣita)
@@ -148,7 +148,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-10PKM-BO.md
+## BCAC10_PKM_bo.md
 
 **Title:** བྱང་ཆུབ་ཀྱི་སྤྱོད་པ་ལ་འཇུག་པའི་དཀའ་འགྲེལ། (Bodhicaryāvatārapañjikā, D3872)
 **Author:** མཁས་པ་ཤེས་རབ་འབྱུང་གནས་བློ་གྲོས། (Prajñākaramati)
@@ -156,7 +156,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-13ANON1-BO.md
+## BCAC13_ANON1_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཤེས་རབ་ལེའུ་དང་བསྔོ་བའི་དཀའ་འགྲེལ། (D3877)
 **Author:** (unknown)
@@ -164,7 +164,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-13ANON2-BO.md
+## BCAC13_ANON2_bo.md
 
 **Title:** ཤེས་རབ་ལེའུའི་དཀའ་འགྲེལ། (D3876)
 **Author:** (unknown)
@@ -172,7 +172,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-11KP-BO.md
+## BCAC11_KP_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྟོགས་པར་དཀའ་བའི་གནས་གཏན་ལ་དབབ་པ། (Bodhisattvacaryāvatāradurbodhanirṇaya, D3875)
 **Author:** ཀྲྀཥྞ་པ། (Kṛṣṇapāda)
@@ -180,7 +180,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-19DYBL-BO.md
+## BCAC19_DYBL_bo.md
 
 **Title:** སྤྱོད་འཇུག་ཤེར་ལེའི་རྒྱ་ཆེར་འགྲེལ་མཆན་སྙིང་པོའི་དོན་གསལ་ཉིན་བྱེད་ཆེན་པོ
 **Author:** བྲག་གཡབ་བློ་གྲོས། (Drag Yab Lodrö)
@@ -188,7 +188,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-13ANON3-BO.md
+## BCAC13_ANON3_bo.md
 
 **Title:** སྤྱོད་འཇུག་གི་རྣམ་པར་བཤད་པ། (D3873)
 **Author:** (unknown)
@@ -196,7 +196,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-19TNST-BO.md
+## BCAC19_TNST_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཟིན་བྲིས་མཚུངས་མེད་བླ་མའི་ཞལ་རྒྱུན་བཞུགས་སོ།
 **Author:** ཚྭ་ཉག་ཤེས་རབ་མཐར་ཕྱིན།
@@ -204,7 +204,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-16PK-BO.md
+## BCAC16_PK_bo.md
 
 **Title:** སྤྱོད་འཇུག་གི་འབྲུ་འགྲེལ་དབུ་མའི་ལམ་གྱི་སྒྲོན་མ་ཞེས་བྱ་བ་བཞུགས་སོ།།
 **Author:** ཀུན་མཁྱེན་འབྲུག་པ་རིན་པོ་ཆེ་ངག་དབང་ཆོས་ཀྱི་རྒྱལ་པོ (Pema Karpo)
@@ -212,7 +212,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-19MKTP-BO.md
+## BCAC19_MKTP_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་ངེས་ལེགས་མཛོད་ཅེས་བྱ་བ་བཞུགས་སོ།
 **Author:** སྨུག་སངས་ཀརྨ་ཚེ་དཔལ། (Mugsung Karma Tsepal)
@@ -220,7 +220,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-14NT-BO.md
+## BCAC14_NT_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་ལེགས་པར་བཤད་པའི་རྒྱ་མཚོ།
 **Author:** དངུལ་ཆུ་ཐོགས་མེད། (Ngulchu Thokme)
@@ -228,7 +228,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-12CS-BO.md
+## BCAC12_CS_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་བཞུགས།
 **Author:** ཆོས་ཀྱི་སེང་གེ། (Chökyi Sengge / Dharmasimha); wisdom chapter supplemented by Sonam Tsemo
@@ -238,7 +238,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-19KKP2-BO.md
+## BCAC19_KKP2_bo.md
 
 **Title:** སྤྱོད་འཇུག་ཟིན་བྲིས་དང་ཚིག་འགྲེལ་འཇམ་དབྱངས་བླ་མའི་ཞལ་ལུང་བདུད་རྩིའི་ཐིག་པ།
 **Author:** མཁན་པོ་ཀུན་བཟང་དཔལ་ལྡན། (Khenpo Kunzang Palden / Khenpo Kunpal), recording oral teachings of Mipham Rinpoche
@@ -248,7 +248,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-16PTT-BO.md
+## BCAC16_PTT_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་ཐེག་ཆེན་ཆོས་ཀྱི་རྒྱ་མཚོ་ཟབ་རྒྱས་མཐའ་ཡས་པའི་སྙིང་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།
 **Author:** དཔའ་བོ་གཙུག་ལག་ཕྲེང་བ། (Pawo Tsuglag Trengwa / Pawo Rinpoche II)
@@ -256,7 +256,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-14GJ-ZH.md
+## BCAC14_GJ_zh.md
 
 **Title:** 入菩薩行論廣解
 **Author:** 賈曹傑 (Gyaltsab Je); tr. 隆蓮法師
@@ -264,7 +264,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-20TG-ZH.md
+## BCAC20_TG_zh.md
 
 **Title:** 入菩薩行論教授
 **Author:** 第十四世達賴喇嘛 (14th Dalai Lama)
@@ -272,7 +272,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-21DKR1-ZH.md
+## BCAC21_DKR1_zh.md
 
 **Title:** 入菩薩行論講解
 **Author:** 宗薩蔣揚欽哲仁波切 (Dzongsar Khyentse Rinpoche)
@@ -280,7 +280,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-21DKR2-ZH.md
+## BCAC21_DKR2_zh.md
 
 **Title:** 入菩薩行論講錄 (2014-2015)
 **Author:** 宗薩蔣揚欽哲仁波切 (Dzongsar Khyentse Rinpoche)
@@ -288,7 +288,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-21DKR3-ZH.md
+## BCAC21_DKR3_zh.md
 
 **Title:** 入菩薩行論
 **Author:** 宗薩蔣揚欽哲仁波切 (Dzongsar Khyentse Rinpoche); tr. 西遊譯文
@@ -296,7 +296,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-14BR-BO.md
+## BCAC14_BR_bo.md
 
 **Title:** སྤྱོད་འཇུག་ཤེས་རབ་ལེའུའི་འགྲེལ་པ་བཞུགས་སོ།
 **Author:** བྱང་ཆུབ་སྐྱབས། (Bodhirakṣita / Jangchub Kyab)
@@ -304,7 +304,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-19MSL-BO.md
+## BCAC19_MSL_bo.md
 
 **Title:** རྒྱལ་སྲས་སྤྱོད་པའི་གཞུང་ལས་ཤེས་རབ་བྱེ་བྲག་ཏུ་བཤད་པ་བློ་གསར་ལམ་མཚོན་ཞེས་བྱ་བ་བཞུགས་སོ།
 **Author:** མཁན་བསམ་གཏན་བློ་གྲོས། (Mkhan Samten Lodrö)
@@ -312,7 +312,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-13KTB-BO.md
+## BCAC13_KTB_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་གཏམ་རྒྱུད་བཞུགས་སོ།
 **Author:** ཀུན་མཁྱེན་འཚོ་སྣ་བས། (Kunkhyen Tsona Ba)
@@ -320,7 +320,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-13WR-BO.md
+## BCAC13_WR_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་སྒྲུང་འགྲེལ་ལས་འབྲས་གསལ་བའི་མེ་ལོང་ཞེས་བྱ་བ་བཞུགས་སོ།
 **Author:** དབང་ཕྱུག་རིན་ཆེན། (Wangchuk Rinchen)
@@ -328,7 +328,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-12ST-BO.md
+## BCAC12_ST_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་བ།
 **Author:** སློབ་དཔོན་བསོད་ནམས་རྩེ་མོ། (Ācārya Sonamtsemo)
@@ -336,7 +336,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-12JDG-BO.md
+## BCAC12_JDG_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན་བཞུགས།
 **Author:** རྗེ་བཙུན་གྲགས་པ་རྒྱལ་མཚན། (Jetsun Dragpa Gyaltsen)
@@ -344,7 +344,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-XXTSY-BO.md
+## BCACXX_TSY_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་དམ་པའི་དགོངས་པ་རབ་གསལ་ཞེས་བྱ་བ་བཞུགས་སོ།
 **Author:** བཙུན་པ་སངས་རྒྱས་ཡོན་ཏན། (Tsünpa Sangyé Yönten)
@@ -352,7 +352,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-12LKRP-BO.md
+## BCAC12_LKRP_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་པའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཟིན་བྲིས་འཇམ་དཔལ་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ།
 **Author:** ལྷོ་པ་ཀུན་མཁྱེན་རིན་ཆེན་དཔལ། (Lhopa Kunkhyen Rinchen Pal)
@@ -360,7 +360,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-14DYG-BO.md
+## BCAC14_DYG_bo.md
 
 **Title:** དཔལ་ས་སྐྱ་པའི་ལུགས་ཀྱི་བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་འཐད་པ་ཀུན་ལས་བཏུས་པའི་སྒྲོན་མེ་ཞེས་བྱ་བ་བཞུགས་སོ།
 **Author:** བདེ་བ་ཅན་པ་ཡེ་ཤེས་མགོན་པོ། (Dewachen Pa Yeshe Gönpo)
@@ -368,7 +368,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-14BRD1-BO.md
+## BCAC14_BRD1_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན་གསལ་བར་བྱེད་པའི་ལྡེ་མིག་ཅེས་བྱ་བ་བཞུགས་སོ།
 **Author:** བུ་སྟོན་རིན་ཆེན་གྲུབ། (Buton Rinchendrup)
@@ -376,7 +376,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-14BRD2-BO.md
+## BCAC14_BRD2_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་བྱང་ཆུབ་ཀྱི་སེམས་གསལ་བར་བྱེད་པ་ཟླ་བའི་འོད་ཟེར་བཞུགས་སོ།
 **Author:** བུ་སྟོན་རིན་ཆེན་གྲུབ། (Buton Rinchendrup)
@@ -384,7 +384,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-14GTZ-BO.md
+## BCAC14_GTZ_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་ལེགས་པར་བཤད་པའི་རྒྱ་མཚོ་ཞེས་བྱ་བ་བཞུགས་སོ།
 **Author:** རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ་དཔལ། (Gyalse Tokme Zangpo)
@@ -392,7 +392,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-14LDSG-BO.md
+## BCAC14_LDSG_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན་ཉི་མའི་འོད་ཟེར།
 **Author:** བླ་མ་དམ་པ་བསོད་ནམས་རྒྱལ་མཚན། (Lama Dampa Sönam Gyaltsen)
@@ -400,7 +400,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-14SMP-BO.md
+## BCAC14_SMP_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན་བཞུགས་ལགས་སོ།
 **Author:** ས་བཟང་པཎ་ཆེན། (Sazang Paṇchen)
@@ -408,7 +408,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-14LLP2-BO.md
+## BCAC14_LLP2_bo.md
 
 **Title:** སྤྱོད་འཇུག་འགྲེལ་པ་བཞུགས་སོ།
 **Author:** ཇོ་ནང་ལོ་ཆེན་བློ་གྲོས་དཔལ་བཟང། (Jonang Lo Chen Lodro Palzang)
@@ -416,7 +416,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-14BPCN-BO.md
+## BCAC14_BPCN_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་པའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་སྤྱོད་པ་རབ་ཏུ་གསལ་བ་ཞེས་བྱ་བ་བཞུགས་སོ།
 **Author:** བོ་དོང་པཎ་ཆེན་ཕྱོགས་ལས་རྣམ་རྒྱལ། (Bodong Paṇchen Chokle Namgyal)
@@ -425,7 +425,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-19TCD1-BO.md
+## BCAC19_TCD1_bo.md
 
 **Title:** སྤྱོད་འཇུག་ཤེས་རབ་ལེའུའི་སྤྱི་དོན་རིམ་པར་ཕྱེ་བ་ཟབ་མོ་རྟེན་འབྱུང་གི་དེ་ཁོ་ན་ཉིད་ཡང་གསལ་སྒྲོན་མེ་ཞེས་བྱ་བ་བཞུགས་སོ།
 **Author:** ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ། (Thubten Chokyi Dragpa)
@@ -433,7 +433,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-19TCD2-BO.md
+## BCAC19_TCD2_bo.md
 
 **Title:** སྤྱོད་འཇུག་ཤེས་རབ་ལེའུའི་གཞུང་འགྲེལ་ཟབ་མོ་རྟེན་འབྱུང་གི་དེ་ཁོ་ན་ཉིད་གསལ་བའི་སྒྲོན་མེ་ཞེས་བྱ་བ་བཞུགས་སོ།
 **Author:** ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ། (Thubten Chokyi Dragpa)
@@ -441,7 +441,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCA-C-19NW-BO.md
+## BCAC19_NW_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ཞེས་བྱ་བའི་མཆན་འགྲེལ་གྱི་ཡང་འགྲེལ་བཞུགས་སོ།
 **Author:** ནོར་བུ་དབང་རྒྱལ། (Norbu Wangyel)

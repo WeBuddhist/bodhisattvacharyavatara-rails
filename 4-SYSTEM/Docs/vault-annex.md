@@ -101,11 +101,11 @@ Every commentary file in `1-SOURCES/Commentaries/` declares a `registered_id` in
 
 ## 3a. Book IDs (catalog codes)
 
-Every source carries a vault-internal catalog code in its `book_id` frontmatter field, built per the cataloging convention in [`../../1-SOURCES/About Sources.md`](../../1-SOURCES/About%20Sources.md) §3a: `[Root Title]-[Language & Resource Type]-[Century][Author Code]`.
+Every source carries a vault-internal catalog code in its `book_id` frontmatter field, built per the cataloging convention in [`../../1-SOURCES/About Sources.md`](../../1-SOURCES/About%20Sources.md) §3a: `[Root Title][Resource Type][Century]_[Author Code]_[language]` (e.g. `BCAC14_GDR_bo`).
 
-**Root-title code registered for this vault:** `BCA` — *Bodhicaryāvatāra* (the vault's only root text). **Language codes:** `EN` English · `BO` Tibetan · `SA` Sanskrit · `ZH` Chinese (vault extension). **Resource type:** `V` version/translation · `C` commentary.
+**Root-title code registered for this vault:** `BCA` — *Bodhicaryāvatāra* (the vault's only root text). **Resource type:** `V` version/translation · `C` commentary. **Language codes** (lowercase, at the end of the code): `en` English · `bo` Tibetan · `sa` Sanskrit · `zh` Chinese (vault extension).
 
-The per-source `book_id` assignments are maintained in two catalogs, each with its own "Book IDs (catalog codes)" section: commentaries in [`../../1-SOURCES/Commentaries/📑 Commentaries_catalog.md`](📑%20Commentaries_catalog.md), and root-text versions/translations in [`../../1-SOURCES/Translations/📑 Versions_catalog.md`](../../1-SOURCES/Translations/📑%20Versions_catalog.md). Register the `book_id` of any new source in the matching catalog in the same form.
+The per-source `book_id` assignments are maintained in two catalogs, each with its own "Book IDs (catalog codes)" section: commentaries in [`../../1-SOURCES/Commentaries/📑 Commentaries_catalog.md`](Commentaries_catalog.md), and root-text versions/translations in [`../../1-SOURCES/Translations/📑 Versions_catalog.md`](../../1-SOURCES/Translations/📑%20Versions_catalog.md). Register the `book_id` of any new source in the matching catalog in the same form.
 
 ---
 

@@ -35,6 +35,78 @@ from pathlib import Path
 
 TSHEG = "་"
 
+# ── Botok-derived space normalisation ──────────────────────────────────────
+# Adapted from OpenPecha/Botok botok/utils/corpus_normalization.py (MIT)
+# https://github.com/OpenPecha/Botok/blob/master/botok/utils/corpus_normalization.py
+
+_LINEBREAKS_RE = re.compile(r"\r\n?|| | ")
+
+_ZERO_WIDTH_STRIP = dict.fromkeys(map(ord, [
+    "​",  # ZERO WIDTH SPACE
+    "⁠",  # WORD JOINER
+    "﻿",  # ZERO WIDTH NO-BREAK SPACE / BOM
+    "᠎",  # MONGOLIAN VOWEL SEPARATOR (deprecated)
+    "͏",  # COMBINING GRAPHEME JOINER
+]))
+
+_SPACE_TO_ASCII = {ord(ch): " " for ch in [
+    " ",  # NO-BREAK SPACE
+    " ", " ", " ", " ", " ", " ",
+    " ", " ", " ", " ", " ", " ",
+    " ", " ", "　",  # narrow, medium, ideographic spaces
+    "\t", "\x0b", "\x0c",          # TAB, VT, FF
+]}
+
+# Space after tsheg (U+0F0B/0F0C/0FD2) when followed by initial letter or shad
+_TSHEG_SPACE_INITIAL_RE = re.compile(
+    r"([་༌࿒]) +([ཀ-ཬ།-༑])"
+)
+# Space between final letter (U+0F40-0FBC) and tsheg
+_LETTER_SPACE_TSHEG_RE = re.compile(
+    r"([ཀ-ྼ]) +([་༌࿒])"
+)
+
+
+def normalize_spaces_tibetan(text: str) -> tuple[str, dict]:
+    """Apply Botok-derived space normalisation; return (text, log).
+
+    Log keys (int counts):
+      linebreaks_normalised       – CRLF/CR/NEL/LS/PS converted to LF
+      zero_width_removed          – zero-width / BOM chars stripped
+      unicode_spaces_mapped       – non-ASCII spaces/tabs mapped to ASCII space
+      tsheg_space_removed         – spaces between tsheg and following letter/shad
+      letter_tsheg_space_removed  – spaces between final letter and tsheg
+    """
+    log = dict(linebreaks_normalised=0, zero_width_removed=0,
+               unicode_spaces_mapped=0, tsheg_space_removed=0,
+               letter_tsheg_space_removed=0)
+
+    # Normalise non-LF line endings to LF
+    log["linebreaks_normalised"] = len(_LINEBREAKS_RE.findall(text))
+    text = _LINEBREAKS_RE.sub("\n", text)
+
+    # Strip zero-width / BOM characters
+    before_len = len(text)
+    text = text.translate(_ZERO_WIDTH_STRIP)
+    log["zero_width_removed"] = before_len - len(text)
+
+    # Map Unicode spaces and tabs to ASCII space
+    before = text
+    text = text.translate(_SPACE_TO_ASCII)
+    log["unicode_spaces_mapped"] = sum(1 for a, b in zip(before, text) if a != b)
+
+    # Tibetan-specific: remove space after tsheg before letter/shad
+    log["tsheg_space_removed"] = len(_TSHEG_SPACE_INITIAL_RE.findall(text))
+    text = _TSHEG_SPACE_INITIAL_RE.sub(r"\1\2", text)
+
+    # Tibetan-specific: remove space between final letter and tsheg
+    log["letter_tsheg_space_removed"] = len(_LETTER_SPACE_TSHEG_RE.findall(text))
+    text = _LETTER_SPACE_TSHEG_RE.sub(r"\1\2", text)
+
+    return text, log
+
+# ───────────────────────────────────────────────────────────────────────────
+
 FRONTMATTER_RE = re.compile(r"^---\n.*?\n---\n", re.DOTALL)
 BLOCK_ID_RE = re.compile(r"\s*\^[A-Za-z0-9_-]+")
 # Widened: space after the hashes is optional (catches "##Heading" with no
@@ -151,7 +223,9 @@ def main(argv):
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args(argv[1:])
 
-    text = unicodedata.normalize("NFC", Path(args.input).read_text(encoding="utf-8"))
+    raw = Path(args.input).read_text(encoding="utf-8")
+    raw, space_log = normalize_spaces_tibetan(raw)
+    text = unicodedata.normalize("NFC", raw)
     cleaned, blocks, stats, expected_body = process(text)
     assert_no_loss(expected_body, cleaned)
 
@@ -163,6 +237,19 @@ def main(argv):
             stats["headings"], stats["suspect_headings"], len(blocks)
         )
     )
+    print(
+        "  space normalisation: {} linebreak(s) normalised, "
+        "{} zero-width char(s) removed, "
+        "{} unicode space(s) mapped to ASCII, "
+        "{} tsheg-space(s) removed, "
+        "{} letter-tsheg space(s) removed.".format(
+            space_log["linebreaks_normalised"],
+            space_log["zero_width_removed"],
+            space_log["unicode_spaces_mapped"],
+            space_log["tsheg_space_removed"],
+            space_log["letter_tsheg_space_removed"],
+        )
+    )
 
     if args.report:
         with Path(args.report).open("w", encoding="utf-8") as fh:
@@ -170,6 +257,10 @@ def main(argv):
             for i, (kind, txt) in enumerate(blocks, 1):
                 preview = txt.strip()[:80].replace("\t", " ").replace("\n", "/")
                 fh.write("{}\t{}\t{}\t{}\n".format(i, kind, count_syllables(txt), preview))
+            # Append space-normalisation summary as a trailing comment block
+            fh.write("\n# space_normalisation_summary\n")
+            for k, v in space_log.items():
+                fh.write("#\t{}\t{}\n".format(k, v))
         print("Report: " + args.report)
 
     if not args.dry_run:

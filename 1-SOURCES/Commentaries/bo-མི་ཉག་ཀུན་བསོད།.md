@@ -1,5 +1,6 @@
 ---
-title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་བཤད་རྒྱལ་སྲས་རྒྱ་མཚོའི་ཡོན་ཏན་རིན་པོ་ཆེ་མི་ཟད་འཇོ་བའི་བུམ་བཟང་ཞེས་བྱ་བ་བཞུགས་སོ། །
+title:
+  - བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་བཤད་རྒྱལ་སྲས་རྒྱ་མཚོའི་ཡོན་ཏན་རིན་པོ་ཆེ་མི་ཟད་འཇོ་བའི་བུམ་བཟང་ཞེས་བྱ་བ་བཞུགས་སོ། །
 title in English: Commentary on Entering the Way of the Bodhisattva, The Inexhaustible Treasury Vase of the Qualities of the Ocean of the Bodhisattvas
 author: མི་ཉག་ཀུན་བསོད།
 author in English: Minyak Kunsod

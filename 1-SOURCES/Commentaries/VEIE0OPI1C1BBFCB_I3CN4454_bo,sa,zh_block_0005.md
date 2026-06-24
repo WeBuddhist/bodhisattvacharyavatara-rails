@@ -1,3 +1,14 @@
+---
+title: སྤྱོད་འཇུག་ཤེས་རབ་ལེའུའི་འགྲེལ་པ།
+title_in_english: Commentary on the Wisdom Chapter of the Bodhicaryāvatāra
+author: བྱང་ཆུབ་སྐྱབས།
+author_in_english: Byang-chub-skyabs (Bodhirakṣita)
+file_type: commentary
+language: Tibetan
+lang_tag: bo
+source_description: "Block from VEIE0OPI1C1BBFCB trilingual alignment corpus (BDRC work I3CN4454)"
+bdrc_work_id: I3CN4454
+---
 ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་
 གཏམ་རྒྱུད་བཞུགས་སོ། །
 ཀུན་མཁྱེན་འཚོ་སྣ་བས་མཛད་པར་གྲགས།

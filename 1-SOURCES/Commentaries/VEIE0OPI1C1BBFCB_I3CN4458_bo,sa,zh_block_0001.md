@@ -1,3 +1,14 @@
+---
+title: བྱང་ཆུབ་སེམས་པའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཟིན་བྲིས་འཇམ་དཔལ་ཞལ་ལུང་ཞེས་བྱ་བ།
+title_in_english: "Notes on the Bodhicaryāvatāra: Oral Teachings of Mañjuśrī"
+author: ལྷོ་པ་ཀུན་མཁྱེན་རིན་ཆེན་དཔལ།
+author_in_english: Lhopa Kunkhyen Rinchen Pal
+file_type: commentary
+language: Tibetan
+lang_tag: bo
+source_description: "Block from VEIE0OPI1C1BBFCB trilingual alignment corpus (BDRC work I3CN4458)"
+bdrc_work_id: I3CN4458
+---
 ༄༅། །བྱང་ཆུབ་སེམས་པའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཟིན་བྲིས་
 འཇམ་དཔལ་ཞལ་ལུང་ཞེས་བྱ་བ་
 བཞུགས་སོ། །

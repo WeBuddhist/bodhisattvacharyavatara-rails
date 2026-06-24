@@ -1,3 +1,14 @@
+---
+title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་ལེགས་པར་བཤད་པའི་རྒྱ་མཚོ་ཞེས་བྱ་བ།
+title_in_english: "Ocean of Well-Spoken Commentary on Entering the Bodhisattva's Way of Life"
+author: རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ་དཔལ།
+author_in_english: Gyalsé Thogme Zangpo Pal (1295–1369)
+file_type: commentary
+language: Tibetan
+lang_tag: bo
+source_description: "Block from VEIE0OPI1C1BBFCB trilingual alignment corpus (BDRC work I3CN4460)"
+bdrc_work_id: I3CN4460
+---
 ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་
 ལེགས་པར་བཤད་པའི་རྒྱ་མཚོ་ཞེས་བྱ་བ་
 བཞུགས་སོ། །

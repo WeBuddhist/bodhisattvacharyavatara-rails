@@ -1,3 +1,14 @@
+---
+title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ཞེས་བྱ་བའི་མཆན་འགྲེལ་གྱི་ཡང་འགྲེལ།
+title_in_english: Super-commentary on the Annotation-Commentary on the Bodhicaryāvatāra
+author: ནོར་བུ་དབང་རྒྱལ།
+author_in_english: Norbu Wanggyal
+file_type: commentary
+language: Tibetan
+lang_tag: bo
+source_description: "Block from VEIE0OPI1C1BBFCB trilingual alignment corpus (BDRC work I3CN4468)"
+bdrc_work_id: I3CN4468
+---
 ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ཞེས་བྱ་བའི་
 མཆན་འགྲེལ་གྱི་ཡང་འགྲེལ་བཞུགས་སོ། །
 ནོར་བུ་དབང་རྒྱལ་གྱིས་མཛད།

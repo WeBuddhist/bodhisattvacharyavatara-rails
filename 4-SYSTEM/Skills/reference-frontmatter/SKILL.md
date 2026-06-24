@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Reference / Secondary Literature Frontmatter Creator
 
-This skill populates the standard YAML frontmatter for a secondary literature or reference file (`file_type: secondary-literature`) in `1-SOURCES/References/`. It extracts all available metadata from the file's title page, colophon, and opening content, then writes the complete frontmatter block according to the spec in `4-SYSTEM/Guidelines/source-formatting.md` § 4.
+This skill populates the standard YAML frontmatter for a secondary literature or reference file (`file_type: secondary-literature`) in `1-SOURCES/References/`. It extracts all available metadata from the file's title page, colophon, and opening content, then writes the complete frontmatter block according to the spec in `4-SYSTEM/docs/source-formatting.md` § 4.
 
 ## Instructions
 

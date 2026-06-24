@@ -32,7 +32,7 @@ When this file and a folder README disagree, the folder README wins.
 
 Authority comes from the human commentary tradition, never from the LLM's parametric knowledge.
 
-**One vault per text.** This vault is for the *Bodhisattvacaryāvatāra* (བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།) by Śāntideva. For vault-specific conventions (addressing scheme, registered commentary IDs, language tracks), see [`Guidelines/vault-annex.md`](Guidelines/vault-annex.md).
+**One vault per text.** This vault is for the *Bodhisattvacaryāvatāra* (བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།) by Śāntideva. For vault-specific conventions (addressing scheme, registered commentary IDs, language tracks), see [`docs/vault-annex.md`](vault-annex.md).
 
 ---
 
@@ -109,7 +109,7 @@ Every verse or discrete prose block in `1-SOURCES/` ends with an Obsidian block 
 
 - Format: `^chapter-verse` — declared per file in the `verse_id_format` frontmatter field.
 - Numbers are not zero-padded. Use natural numbers (`^6-33`, not `^06-033`).
-- The vault annex ([`Guidelines/vault-annex.md`](Guidelines/vault-annex.md)) specifies the addressing scheme for this vault's root text.
+- The vault annex ([`docs/vault-annex.md`](vault-annex.md)) specifies the addressing scheme for this vault's root text.
 
 Link form: `[[1-SOURCES/Text/sk-dev-root-text.md#^1-1]]`
 Transclude: `![[1-SOURCES/Text/sk-dev-root-text.md#^1-1]]`
@@ -302,7 +302,7 @@ Full rules in [`../3-TRANSFORMATIONS/About Transformations.md`](../3-TRANSFORMAT
 - **No parametric knowledge.** If you cannot cite a claim to a file in `1-SOURCES/`, do not include it.
 - **No consensus flattening.** When commentaries disagree, say so.
 - Present tense for analytical claims; past tense for historical statements.
-- Use registered short IDs for commentaries throughout (e.g. the IDs in [`Guidelines/vault-annex.md`](Guidelines/vault-annex.md) §Commentaries).
+- Use registered short IDs for commentaries throughout (e.g. the IDs in [`docs/vault-annex.md`](vault-annex.md) §Commentaries).
 
 ---
 
@@ -335,4 +335,3 @@ Full rules in [`../3-TRANSFORMATIONS/About Transformations.md`](../3-TRANSFORMAT
 |---|---|
 | Summarise a verse or chapter for a specific audience | `multilevel-summary` |
 ary` |
-| Localize Tibetan terms into En/Zh/Hin/Nep/Rus/Mon | `BAC-Term-Localization` |

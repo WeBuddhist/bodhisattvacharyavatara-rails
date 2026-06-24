@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Translation Frontmatter Creator
 
-This skill populates the standard YAML frontmatter for a translation file (`file_type: translation`) in `1-SOURCES/Translations/`. It extracts all available metadata from the file's title, colophon, and opening content, then writes the complete frontmatter block according to the spec in `4-SYSTEM/Guidelines/source-formatting.md` § 4.
+This skill populates the standard YAML frontmatter for a translation file (`file_type: translation`) in `1-SOURCES/Translations/`. It extracts all available metadata from the file's title, colophon, and opening content, then writes the complete frontmatter block according to the spec in `4-SYSTEM/docs/source-formatting.md` § 4.
 
 ## Instructions
 

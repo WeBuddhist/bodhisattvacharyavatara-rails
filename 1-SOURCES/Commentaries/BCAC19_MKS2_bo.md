@@ -1,5 +1,5 @@
 ---
-book_id: BCAC19_TCD1_bo
+book_id: BCAC19_MKS2_bo
 title: སྤྱོད་འཇུག་ཤེས་རབ་ལེའུའི་སྤྱི་དོན་རིམ་པར་ཕྱེ་བ་ཟབ་མོ་རྟེན་འབྱུང་གི་དེ་ཁོ་ན་ཉིད་ཡང་གསལ་སྒྲོན་མེ་ཞེས་བྱ་བ།
 title_in_english: "Lamp Further Illuminating the Reality of Dependent Origination: General Meaning of the Wisdom Chapter of the Bodhicaryāvatāra"
 author: ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ།

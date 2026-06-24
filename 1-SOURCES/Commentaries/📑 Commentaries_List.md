@@ -320,7 +320,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCAC13_WR_bo.md
+## BCACXX_WR_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་སྒྲུང་འགྲེལ་ལས་འབྲས་གསལ་བའི་མེ་ལོང་ཞེས་བྱ་བ་བཞུགས་སོ།
 **Author:** དབང་ཕྱུག་རིན་ཆེན། (Wangchuk Rinchen)
@@ -425,7 +425,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCAC19_TCD1_bo.md
+## BCAC19_MKS2_bo.md
 
 **Title:** སྤྱོད་འཇུག་ཤེས་རབ་ལེའུའི་སྤྱི་དོན་རིམ་པར་ཕྱེ་བ་ཟབ་མོ་རྟེན་འབྱུང་གི་དེ་ཁོ་ན་ཉིད་ཡང་གསལ་སྒྲོན་མེ་ཞེས་བྱ་བ་བཞུགས་སོ།
 **Author:** ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ། (Thubten Chokyi Dragpa)
@@ -433,7 +433,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCAC19_TCD2_bo.md
+## BCAC19_MKS3_bo.md
 
 **Title:** སྤྱོད་འཇུག་ཤེས་རབ་ལེའུའི་གཞུང་འགྲེལ་ཟབ་མོ་རྟེན་འབྱུང་གི་དེ་ཁོ་ན་ཉིད་གསལ་བའི་སྒྲོན་མེ་ཞེས་བྱ་བ་བཞུགས་སོ།
 **Author:** ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ། (Thubten Chokyi Dragpa)

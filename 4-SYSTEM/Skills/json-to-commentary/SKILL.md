@@ -6,7 +6,7 @@ description: Convert tipitaka.org Atthakatha and Tiká JSON exports into properl
 # JSON to Commentary
 
 Converts tipitaka.org Atthakathā / Ṭīkā JSON exports into Markdown commentary files
-that follow `4-SYSTEM/Guidelines/source-formatting.md`, placing output in `1-SOURCES/Commentaries/`.
+that follow `4-SYSTEM/docs/source-formatting.md`, placing output in `1-SOURCES/Commentaries/`.
 
 Source files covered:
 

@@ -13,7 +13,7 @@ The output of this skill is the raw input that `section-summary-combined` later 
 
 ## Inputs
 
-- **Commentary file** — one file from `1-SOURCES/Commentaries/<commentary-name>.md`. Must be properly formatted with heading IDs and block IDs (see `4-SYSTEM/Guidelines/source-formatting.md`).
+- **Commentary file** — one file from `1-SOURCES/Commentaries/<commentary-name>.md`. Must be properly formatted with heading IDs and block IDs (see `4-SYSTEM/docs/source-formatting.md`).
 - **TOC node** — the node-ID and heading text of the section to summarise (e.g. `^1-1-0` "Ganthārambhakathā"). The node corresponds to a heading in the commentary file.
 
 If multiple commentaries cover the same node, run this skill once per commentary.

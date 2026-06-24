@@ -1,11 +1,11 @@
 ---
 name: json-to-source-text
-description: Convert JSON dumps of classical texts (tipitaka.org, SuttaCentral, GRETIL exports, BDRC, custom scraped JSON) into properly formatted Markdown source-text files for `1-SOURCES/Text/`. Adaptive — inspects each JSON's schema, reuses an existing converter if the source shape is known, otherwise generates a new converter. The current converter (`tipitaka_org_book.py`) produces Pāli Tipiṭaka root texts in the Bible-style book-verse numbering scheme — see `4-SYSTEM/Guidelines/source-formatting.md` §5 "Pāli — Tipiṭaka root texts (Bible-style addressing)" for the full convention. New converters for other source types must declare which output convention they target.
+description: Convert JSON dumps of classical texts (tipitaka.org, SuttaCentral, GRETIL exports, BDRC, custom scraped JSON) into properly formatted Markdown source-text files for `1-SOURCES/Text/`. Adaptive — inspects each JSON's schema, reuses an existing converter if the source shape is known, otherwise generates a new converter. The current converter (`tipitaka_org_book.py`) produces Pāli Tipiṭaka root texts in the Bible-style book-verse numbering scheme — see `4-SYSTEM/docs/source-formatting.md` §5 "Pāli — Tipiṭaka root texts (Bible-style addressing)" for the full convention. New converters for other source types must declare which output convention they target.
 ---
 
 # JSON to Source Text Skill
 
-Converts JSON-formatted classical text dumps into Markdown source-text files that obey the rules in `4-SYSTEM/Guidelines/source-formatting.md`.
+Converts JSON-formatted classical text dumps into Markdown source-text files that obey the rules in `4-SYSTEM/docs/source-formatting.md`.
 
 The skill is **adaptive**: every JSON source uses its own schema (tipitaka.org exports look very different from SuttaCentral exports, which look different from BDRC dumps). For each new JSON shape the skill first profiles the structure, then either reuses an existing source-specific converter or generates a new one.
 
@@ -246,8 +246,8 @@ grep -E "^\^|\^[0-9]+-[0-9]+( |$)" 0-INBOX/temp/<file>.md | head -20
 
 ## Related Guidelines
 
-- `4-SYSTEM/Guidelines/source-formatting.md` — the authoritative formatting rules. The converter output must conform to these.
-- `4-SYSTEM/Guidelines/1-SOURCES-Guideline.md` — broader rules for `1-SOURCES/`.
+- `4-SYSTEM/docs/source-formatting.md` — the authoritative formatting rules. The converter output must conform to these.
+- `4-SYSTEM/docs/1-SOURCES-Guideline.md` — broader rules for `1-SOURCES/`.
 - `4-SYSTEM/Skills/format-root-text/SKILL.md` — for post-hoc cleanup of source files (this skill's output may benefit from a pass through that one).
 
 ---

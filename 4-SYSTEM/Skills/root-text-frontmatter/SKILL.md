@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Root Text Frontmatter Creator
 
-This skill populates the standard YAML frontmatter for a root text file (`file_type: root-text`) in `1-SOURCES/Text/`. It extracts all available metadata from the file's title, colophon, and opening lines, then writes the complete frontmatter block according to the spec in `4-SYSTEM/Guidelines/source-formatting.md` § 4.
+This skill populates the standard YAML frontmatter for a root text file (`file_type: root-text`) in `1-SOURCES/Text/`. It extracts all available metadata from the file's title, colophon, and opening lines, then writes the complete frontmatter block according to the spec in `4-SYSTEM/docs/source-formatting.md` § 4.
 
 ## Instructions
 

@@ -5,7 +5,7 @@ description: Scaffold a new skill completely and correctly — creates the SKILL
 
 # create-skill
 
-This is the canonical way to add a new skill to the vault. It replaces the four-step manual checklist in `4-SYSTEM/Guidelines/skills-system.md` with a single guided procedure that cannot omit a registration step.
+This is the canonical way to add a new skill to the vault. It replaces the four-step manual checklist in `4-SYSTEM/docs/skills-system.md` with a single guided procedure that cannot omit a registration step.
 
 Never create a skill folder manually and register it piecemeal. Use this skill. The `vault-audit` skill checks that every skill folder is registered in all required locations — if you use this skill, those checks will always pass.
 

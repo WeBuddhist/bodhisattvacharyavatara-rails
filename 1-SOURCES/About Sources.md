@@ -6,7 +6,7 @@ This README is the **authoritative document** for everything in `1-SOURCES/`: wh
 
 The folder is **read-only for the LLM** except via the controlled source-ingestion skills. Everything in `2-RAILS/` cites a file in this folder; everything in `3-TRANSFORMATIONS/` ultimately traces back here through the rails. The integrity of the whole vault depends on `1-SOURCES/` being verifiable against its underlying editions.
 
-This README is **text-agnostic** for the methodology. Vault-specific conventions (addressing scheme, registered commentary roster, language tracks) live in [`../4-SYSTEM/Guidelines/vault-annex.md`](../4-SYSTEM/Guidelines/vault-annex.md).
+This README is **text-agnostic** for the methodology. Vault-specific conventions (addressing scheme, registered commentary roster, language tracks) live in [`../4-SYSTEM/docs/vault-annex.md`](vault-annex.md).
 
 ---
 
@@ -136,7 +136,7 @@ related_translations:
 | `book-chapter-verse` | `^book-chapter-verse` | `^1-1-1` |
 | `book-verse` | `^book-verse` | `^1-1` |
 
-The per-vault annex ([`../4-SYSTEM/Guidelines/vault-annex.md`](../4-SYSTEM/Guidelines/vault-annex.md)) specifies which format applies to the root text(s) of this vault.
+The per-vault annex ([`../4-SYSTEM/docs/vault-annex.md`](vault-annex.md)) specifies which format applies to the root text(s) of this vault.
 
 ### Edition
 
@@ -197,7 +197,7 @@ gretil_url:
 ---
 ```
 
-The `registered_id` is the short identifier used in `2-RAILS/` to attribute claims to this commentary. Once assigned, it never changes. New commentaries must be registered in the vault's annex ([`../4-SYSTEM/Guidelines/vault-annex.md`](../4-SYSTEM/Guidelines/vault-annex.md) §Commentaries) before their `registered_id` is used in any rail file.
+The `registered_id` is the short identifier used in `2-RAILS/` to attribute claims to this commentary. Once assigned, it never changes. New commentaries must be registered in the vault's annex ([`../4-SYSTEM/docs/vault-annex.md`](vault-annex.md) §Commentaries) before their `registered_id` is used in any rail file.
 
 ### Reference / secondary literature
 
@@ -603,8 +603,8 @@ For languages not listed, use the appropriate ISO 639-1 code. When a resource is
 ## 14. Where to look next
 
 - [Top-level `README.md`](../README.md) — the pipeline overview and reading paths.
-- [`../4-SYSTEM/Guidelines/0-VAULT-Structure.md`](../4-SYSTEM/Guidelines/0-VAULT-Structure.md) — the architecture and the citation chain.
+- [`../4-SYSTEM/docs/0-VAULT-Structure.md`](0-VAULT-Structure.md) — the architecture and the citation chain.
 - [`../2-RAILS/About Rails.md`](../2-RAILS/About%20Rails.md) — what rails do with the material in this folder.
-- [`../4-SYSTEM/Guidelines/vault-annex.md`](../4-SYSTEM/Guidelines/vault-annex.md) — vault-specific addressing, commentary roster, language tracks.
+- [`../4-SYSTEM/docs/vault-annex.md`](vault-annex.md) — vault-specific addressing, commentary roster, language tracks.
 - [`../4-SYSTEM/CLAUDE.md`](../4-SYSTEM/CLAUDE.md) §4–6 — the operational quick-reference for source-file rules.
 - [`../4-SYSTEM/Skills/SKILLS-CATALOG.md`](../4-SYSTEM/Skills/SKILLS-CATALOG.md) §"Source ingestion skills" — the skills that bring material into this folder.

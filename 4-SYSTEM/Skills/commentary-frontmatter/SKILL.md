@@ -6,7 +6,7 @@ version: 1.0.0
 
 # Commentary Frontmatter Creator
 
-This skill populates the standard YAML frontmatter for a commentary file (`file_type: commentary`) in `1-SOURCES/Commentaries/`. It extracts all available metadata from the file's title, colophon, and opening content, then writes the complete frontmatter block according to the spec in `4-SYSTEM/Guidelines/source-formatting.md` § 4.
+This skill populates the standard YAML frontmatter for a commentary file (`file_type: commentary`) in `1-SOURCES/Commentaries/`. It extracts all available metadata from the file's title, colophon, and opening content, then writes the complete frontmatter block according to the spec in `4-SYSTEM/docs/source-formatting.md` § 4.
 
 ## Instructions
 

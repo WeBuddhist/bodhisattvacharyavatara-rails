@@ -9,7 +9,8 @@ root_text: 1-SOURCES/Text/sk-dev.md
 translation_basis: Kashmir manuscripts (first translation by Sarvajñādeva and Bande Paltsek); Central Indian manuscripts and commentaries (revision by Dharmaśrībhadra, Rinchen Zangpo, and Śākya-blo-gros); finalised by Sumatikīrti and Blo ldan shes rab
 covers_verses: 1-1–10-61
 source_description: Canonical Tibetan translation (Kangyur, Derge edition). Translated from Sanskrit by Sarvajñādeva and Bande Paltsek from Kashmir manuscripts; revised by Dharmaśrībhadra, Rinchen Zangpo, and Śākya-blo-gros against Central Indian manuscripts and commentaries; finalised by Sumatikīrti and Blo ldan shes rab.
-note:
+source: https://webuddhist.com/
+license: public
 ---
 # ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་བཞུགས་སོ། ། ^0
 

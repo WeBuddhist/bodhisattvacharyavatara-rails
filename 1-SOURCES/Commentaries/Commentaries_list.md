@@ -414,4 +414,4 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 ## VEIE0OPI1C1BBFCB_I3CN4468_bo,sa,zh_block_0001.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ཞེས་བྱ་བའི་མཆན་འགྲེལ་གྱི་ཡང་འགྲེལ་བཞུགས་སོ།
-**Author:** ནོར་བུ་དབང་རྒྱལ། (Norbu Wangyel) — title page attribution; end colophon names གཞན་ཕན་བྱམས་པའི་གོ་ཆ། (Khenpo Zhenga) as composer — authorship uncertain, needs further check
+**Author:** ནོར་བུ་དབང་རྒྱལ། (Norbu Wangyel)

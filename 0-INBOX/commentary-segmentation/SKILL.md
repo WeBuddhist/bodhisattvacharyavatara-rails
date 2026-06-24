@@ -5,26 +5,19 @@ description: Segment an OCR-clean but under-segmented Tibetan commentary in 1-SO
 
 **Role:** Expert editor in classical Tibetan Buddhist commentary (`འགྲེལ་པ་`) structure and Obsidian markdown.
 
-**Task:** Process Tibetan commentaries by structuring the text with specific hierarchical logic — without adding, removing, reordering, or re-spelling any character of the source.
+**Task:** Insert block boundaries into a Tibetan commentary so each block is a citation-sized unit (a prose sentence or two, one verse stanza, or one quotation) — without adding, removing, reordering, or re-spelling any character of the source.
 
-**1. Text Reconstruction**
+The boundaries follow the text's own functional signals: quotation frames, objection/answer markers, sa-bcad enumerations, sentence-final particles, and verse meter. Most of this is done deterministically by the scripts in `scripts/`; you only hand-finish what the rules cannot resolve.
 
-- **No Deletions:** Strictly preserve the entire source text. Do not omit any analysis or citations.
-    
-- **Continuous Flow:** Remove arbitrary line numbers within sentences to form smooth, logically grouped text.
-    
-- **Continuous Flow:** Remove arbitrary line breaks within sentences to form smooth, logically grouped text.
+**Scope and the citation chain.** This skill operates on files in `1-SOURCES/Commentaries/`. Per `4-SYSTEM/CLAUDE.md` §6, the only permitted edits to a source file are structural (block boundaries, block IDs, navigation, factual `[Ed:...]` notes). Inserting a paragraph break is structural; rewording, glossing, or "fixing" the text is interpretation and is forbidden here. If the text needs OCR repair, that belongs to `format-commentary`, which runs first. Every script here enforces this with a no-loss assertion: the output minus whitespace must equal the input minus whitespace, or it aborts and writes nothing.
 
-**2. Paragraph & Verse Formatting**
+---
 
-- **Logical Blocks (Granularity):** Break long prose sections into very short, discrete paragraphs (ideally 1–2 sentences). Blocks must be kept short to ensure they are highly optimized for referencing. If a paragraph exceeds 3-4 lines of Tibetan text, you must find a logical break point to split it.
-    
-- **Verses (ཚིགས་བཅད):** Count and separate blocks by each independent stanza. An independent stanza is defined by its context. Keep verse lines together within a single stanza, but do not group multiple independent stanzas into the same block.
-    
-- **Quotes (ལུང་འདྲེན):** Place source references (e.g., སྡུད་པ་ལས།) on their own separate line above the quote. Place concluding remarks (e.g., ཞེས་སོ། །) on their own separate line below the quote.
-    
+**What good output looks like**
 
-**Scope and the citation chain.** This skill operates on files in `1-SOURCES/Commentaries/`. Per `4-SYSTEM/CLAUDE.md` §6, the only permitted edits to a source file are structural (block boundaries, block IDs, navigation, factual `[Ed:...]` notes). Inserting a paragraph break is structural; rewording, glossing, or "fixing" the text is interpretation and is forbidden here. If the text needs OCR repair, that belongs to `format-commentary`, which runs first.
+- **Granularity:** 1–2 sentences of prose per block; one stanza per verse block; one quotation per quote block — small enough that a downstream rail can cite exactly the span it needs. A prose block that exceeds ~40 tsheg-delimited syllables should be split unless it is a single indivisible clause, quotation, or stanza.
+- **Verses (ཚིགས་བཅད):** one independent stanza per block. Keep a stanza's pādas together; never merge two independent stanzas into one block.
+- **Quotes (ལུང་འདྲེན):** the source attribution (e.g. `སྡུད་པ་ལས།`) on its own block above the quote, and the closing formula (e.g. `ཞེས་སོ། །`) on its own block below it (format-commentary §3).
 
 ---
 
@@ -37,13 +30,31 @@ format-commentary            →  commentary-segmentation  →  (block-ID stampi
 
 Do not run this skill on text that is not yet OCR-clean. Do not run the block-ID pass until a domain specialist has approved the boundaries.
 
+```
+[Stage 0]                   [Stage 1]               [Stage 2]              [check]        [human]      [next skill]
+preclean_commentary.py  →  segment_commentary.py  →  stage2_refine.py  →  no-loss vs  →  approval  →  block-ID
+(strip scaffolding,         (deterministic            (mechanical            source                     stamping
+ optional)                  boundaries)               refinement)                                       + hand review
+```
+
+---
+
+**Scripts at a glance**
+
+| Script | Stage | Role |
+|---|---|---|
+| `preclean_commentary.py` | 0 | Strip prior scaffolding (index numbers, block IDs, heading IDs, per-line breaks) back to continuous prose. Optional. |
+| `segment_commentary.py`  | 1 | Deterministic boundary insertion. The core of the skill. |
+| `stage2_refine.py`       | 2 | Mechanical refinement of the Stage-1 draft (newline expansion, citation/lead-in splits, optional connector splits). |
+| `batch_segment.py`       | 0+1 | Run Stage 0 + Stage 1 over a whole directory in parallel; emits per-file reports plus a batch summary and a combined flagged-rows file. |
+
+All scripts share `--dry-run` (validate, write nothing) and a `--report` TSV. Paths below are relative to the vault root.
+
 ---
 
 **Stage 0 — pre-clean already-formatted files (optional, run first when needed)**
 
-Some commentary files arrive already carrying scaffolding from an earlier pass: standalone OCR index numbers (a line that is just `1`, `2`, `3`…), Obsidian block / verse IDs (`^0-1`, `^1-2`, `^1-2-0`), markdown headings (`##`, `###`), and line breaks that wrap verses and split sentences across lines. Segmentation needs to re-derive boundaries from continuous prose, so this scaffolding must be removed **before** Stage 1. If a file is already plain, under-segmented running text, skip this stage.
-
-Run `scripts/preclean_commentary.py`:
+Some commentary files arrive already carrying scaffolding from an earlier pass: standalone OCR index numbers (a line that is just `1`, `2`, `3`…), Obsidian block / verse IDs (`^0-1`, `^1-2`, `^1-2-0`), markdown headings (`##`, `###`), and line breaks that wrap verses and split sentences across lines. Segmentation re-derives boundaries from continuous prose, so this scaffolding must be removed **before** Stage 1. If a file is already plain, under-segmented running text, skip this stage.
 
 ```
 python3 scripts/preclean_commentary.py \
@@ -54,99 +65,126 @@ python3 scripts/preclean_commentary.py \
 
 What it removes (editorial scaffolding only — never a character of body text):
 
-- **Index / outline numbers** — any whitespace-bounded token consisting solely of digits (ASCII `0-9` or Tibetan `༠-༩`) with optional internal dots (hierarchical numbers such as `4.11`, `1.2.3`) and an optional trailing `.` or `)`, is removed unconditionally. Covers simple counters (`1`, `2`, `3`), terminated counters (`1.`, `2.`), and hierarchical section labels (`4.11`, `1.2.3.`). Catches both an OCR line counter on its own line *and* an inline outline number sitting before a sa-bcad opener (e.g. `…ཏོ། །19. དང་པོ་ནི།…`). Numbers fused to body text (e.g. `ལོ16`) are left untouched — Tibetan never delimits a real syllable with a bare space.
+- **Index / outline numbers** — any whitespace-bounded token consisting solely of digits (ASCII `0-9` or Tibetan `༠-༩`) with optional internal dots (hierarchical numbers such as `4.11`, `1.2.3`) and an optional trailing `.` or `)`, removed unconditionally. Covers simple counters (`1`, `2`, `3`), terminated counters (`1.`, `2.`), and hierarchical section labels (`4.11`, `1.2.3.`). Catches both an OCR line counter on its own line *and* an inline outline number sitting before a sa-bcad opener (e.g. `…ཏོ། །19. དང་པོ་ནི།…`). Numbers fused to body text (e.g. `ལོ16`) are left untouched — Tibetan never delimits a real syllable with a bare space.
 - **Block / verse IDs** — `^N`, `^N-N`, `^N-N-N` … wherever they appear.
-- **Heading block IDs** — only the heading's trailing block ID is stripped. The leading `#`/`##`/`###` markup and the heading text are **both kept**, on their own line, acting as a separator between prose runs.
-- **Intra-section line breaks** — consecutive content lines within a section are joined into one continuous run, so the rule-based segmenter starts from raw prose. Kept heading-text lines act as run separators, so a title or section head never fuses onto neighbouring prose.
+- **Heading block IDs** — only the heading's trailing block ID is stripped. The leading `#`/`##`/`###` markup and the heading text are **both kept**, on their own line, acting as a separator between prose runs. A heading whose text is itself a bare number (likely OCR noise) is kept but flagged `heading-suspect` in the report.
+- **Intra-section line breaks** — consecutive content lines within a section are joined into one continuous run, so Stage 1 starts from raw prose. Kept heading-text lines act as run separators, so a title or section head never fuses onto neighbouring prose.
 
-Frontmatter (the leading `--- … ---` block) is preserved verbatim.
-
-Like Stage 1, the script **never** edits body text: before writing it asserts that the output, with whitespace removed, is identical to the input with *only* the removed scaffolding (index lines, block IDs, heading hashes) and whitespace removed — and aborts otherwise. Write the cleaned draft to `0-INBOX/`, then feed it into Stage 1.
-
-Updated flow when a file is already formatted:
-
-```
-preclean_commentary.py  →  segment_commentary.py  →  Stage-2 review  →  no-loss check  →  approval  →  block-ID stamping
-(Stage 0: strip scaffolding)  (Stage 1: boundaries)
-```
+Frontmatter (the leading `--- … ---` block) is preserved verbatim and excluded from the no-loss comparison.
 
 ---
 
-**Two-stage method**
+**Stage 1 — deterministic boundary detection (script)**
 
-Segmentation is split into a deterministic stage that is always safe, and an LLM stage that handles only what the rules cannot.
+`scripts/segment_commentary.py` inserts a paragraph break at every high-confidence *functional* boundary, and only there:
 
-**Stage 1 — deterministic boundary detection (script).**
-Run `scripts/segment_commentary.py`. It inserts a paragraph break at every high-confidence *functional* boundary in the Tibetan, and only there:
-
-- `terminal-particle` — a clause-final particle (འོ/ནོ/དོ/སོ/ཏོ…) plus `།` ends a prose sentence.
-- `quote-close` — explicit closers `ཞེས་སོ། །`, `ཅེས་སོ། །`, `ཞེས་གསུངས་སོ། །`, `ཞེས་པའོ། །` end a citation.
-- `enumeration-head` — a sa-bcad head such as `…ལ་གསུམ་སྟེ།` / `…ལ་གཉིས་ལས།` closes; the
+- `terminal-particle` — a clause-final particle (`འོ`/`ནོ`/`དོ`/`སོ`/`ཏོ`/`གོ`/`ལོ`…) plus `།` ends a prose sentence. Broad catch-all; runs last so more specific markers claim a position first.
+- `quote-close` — explicit closers (`ཞེས་སོ། །`, `ཅེས་སོ། །`, `ཞེས་གསུངས་སོ། །`, `ཞེས་པའོ། །`, `ཞེས་བྱ་བའོ། །`…) end a citation.
+- `quote-open` — a source-attribution marker (`…ལས།`, `…གསུངས།`) gets its own block before the cited passage.
+- `enumeration-head` — a sa-bcad head closing on a number-word + suffix (e.g. `…ལ་གསུམ་སྟེ།`, `…ལ་གཉིས་ལས།`) ends a node.
 - `ordinal-open` — `དང་པོ་…`, `གཉིས་པ་…`, `གསུམ་པ་…` opens a new topical node.
-- `objection-close` / `objection-open` — `…ཅེ་ན།` / `…ཞེ་ན།` closes an objection; `འོ་ན་…` opens the reply or next objection.
-- `verse-stanza` — a paragraph that is itself a complete verse stanza (ཚིགས་བཅད) is detected automatically and emitted as a single block without running the rule engine. Detection criteria: ends with a double shad (`།།` / `། །`); yields 2–4 pādas when split on shads; every pāda has 6–11 syllables; syllable counts are uniform across pādas (±1). Detected stanzas are never split by the syllable cap and are never flagged `STAGE2_REVIEW`.
+- `objection-close` / `objection-open` — `…ཅེ་ན།` / `…ཞེ་ན།` / `…སྙམ་ན།` closes an objection; `འོ་ན་…` opens the reply. `objection-open` is a weak-context rule: it only auto-cuts when it sits just after a shad; otherwise it is reported as a `-candidate` for a human to judge rather than cut blindly.
+- `verse-stanza` — a run of 2–4 consecutive clause units, each 6–11 syllables, uniform in length (max − min ≤ 2), each ending on a strong (double) shad, is peeled out as one protected stanza: emitted whole, never run through the rule engine or the syllable cap, never flagged `STAGE2_REVIEW`. A single-shad unit sandwiched between two stanza pādas is bridged into the run (some sources mark pāda ends with a single shad). An isolated pāda-length clause stays with the surrounding prose, so a medium prose sentence is never mistaken for a one-line verse.
+
+After the rule pass it enforces a syllable cap: any segment still longer than `--max-syllables` is split at shad (clause) boundaries; over-cap segments with no internal shad are flagged `STAGE2_REVIEW:NO_SHAD_FOUND`. Over-fragmented adjacent segments are merged back while they fit the cap (citation boundaries are never merged away). The run also prints a **quote-balance** check (count of `quote-open` vs `quote-close`); a `MISMATCH` points to an unclosed or stray citation marker worth a look.
+
+Two ways to run it:
 
 ```
+# (a) cap-based — finer control, every over-cap block flagged for review:
 python3 scripts/segment_commentary.py \
-    "1-SOURCES/Commentaries/<file>.md" \
+    "0-INBOX/<file>.preclean.md" \
     "0-INBOX/<file>.segmented.md" \
     --report "0-INBOX/<file>.segreport.tsv" \
     --max-syllables 40
+
+# (b) structural — closest match to the canonical block layout:
+python3 scripts/segment_commentary.py \
+    "0-INBOX/<file>.preclean.md" \
+    "0-INBOX/<file>.structural.md" \
+    --report "0-INBOX/<file>.segreport.tsv" \
+    --structural
 ```
 
-The script **never** edits content: before writing, it asserts that the output with all inserted blank lines removed is byte-identical to the input, and aborts otherwise. Write the Stage-1 output to `0-INBOX/` first — never overwrite the source until boundaries are approved.
+`--structural` breaks prose only at strong (double-shad) sentence ends, section heads, and citation frames; emits verses one pāda per line; splits citation markers and re-attaches short closing formulas to their block; and implies **no syllable cap**. It is the best single-pass match for the layout downstream rails expect. Use the cap-based mode (a) when you want every long run surfaced for manual review instead.
 
-**Stage 2 — semantic refinement (LLM, this prompt).**
+Note the default for `--max-syllables` is **50** if you omit it; the granularity target is ~40, so pass `--max-syllables 40` explicitly (the batch runner already defaults to 40). The cap is ignored under `--structural`.
 
-**Before writing any Stage 2 code, read `scripts/segment_commentary.py` in full.** Understanding the script's internals saves multiple rewrites. Key facts:
+The Stage-1 output goes to `0-INBOX/` — never overwrite the source until boundaries are approved.
 
-- **TSV index ≠ paragraph index.** The TSV numbers segments as the script counts them internally. The `.segmented.md` file paragraphs (blocks separated by `\n\n`) do not have a 1-to-1 correspondence with TSV indices, because short adjacent segments get merged by `merge_short_segments`. Do not try to map TSV row N directly to paragraph N in the output file.
-- **Internal `\n` characters inside a block are original source line boundaries** that Stage 1's `merge_short_segments` joined because they were individually below the syllable cap. The correct Stage 2 action for any over-long block that contains internal `\n` is to expand those newlines to `\n\n` — each line becomes its own paragraph. Do not split these blocks by pattern-matching; just split on `\n`.
-- **The script's no-loss check uses a custom `_squeeze`** (a specific whitespace-removal table, not `re.sub(r'\s+', '', s)`). If your own no-loss check uses a different squeeze function and reports a mismatch that the script's check did not, first verify whether the mismatch was already present in the Stage 1 output before concluding your Stage 2 introduced it. Run: `squeeze(source) == squeeze(stage1_output)` before touching Stage 2.
+**Batch mode.** To process an entire directory in parallel:
 
-Open the Stage-1 report and review only the segments flagged `STAGE2_REVIEW` (longer than `--max-syllables`). These are prose runs with no lexical cue. For each, insert a paragraph break at the genuine topic shift — typically where the commentary moves from stating a position to giving its reason, from one objection to the next, or from gloss to scriptural support. Constraints:
+```
+python3 scripts/batch_segment.py \
+    "1-SOURCES/Commentaries" "0-INBOX/segmented" \
+    --preclean --max-syllables 40
+```
+
+It runs Stage 0 (with `--preclean`) then Stage 1 per file across all CPUs, skips files whose output already exists (`--force` to redo), and writes `batch_summary.tsv` (one row per file, including the quote-balance status) and `batch_flagged.tsv` (every `STAGE2_REVIEW` row across all files) into the output directory.
+
+---
+
+**Stage 2 — semantic refinement**
+
+Most of the Stage-1 residue is mechanical and is handled by `scripts/stage2_refine.py`. Run it first, then hand-review only what it leaves behind.
+
+```
+python3 scripts/stage2_refine.py \
+    "0-INBOX/<file>.segmented.md" \
+    "0-INBOX/<file>.stage2.md" \
+    --max-syllables 40 \
+    --source "1-SOURCES/Commentaries/<file>.md" \
+    --report "0-INBOX/<file>.stage2.tsv"
+```
+
+It performs, deterministically and no-loss:
+
+- **Newline expansion** (default) — `merge_short_segments` in Stage 1 joins consecutive source lines that were each under the cap, leaving an internal `\n` inside a block. For any over-cap block containing an internal `\n`, every `\n` becomes a paragraph break — each original source line becomes its own block. This restores boundaries the source already marked; it never guesses.
+- **Citation lead-in / verse split** (default) — a short source-frame line glued onto a following stanza is peeled back onto its own block.
+- **Connector split** (opt-in, `--split-connectors`) — over-cap *single-line* prose is split at strong sub-clause connectors (`ཅིང་`/`ཞིང་`/`སྟེ་`/`ཏེ་`/`ནས་`/`ལས་`), never producing a piece below 8 syllables. Off by default: a connector is a weaker signal than a source-marked line break, so prefer leaving a block whole over a wrong cut.
+
+Passing `--source` adds a second no-loss assertion against the **original source file**, so any deviation inherited from Stage 1 is caught here rather than passed downstream silently. Blocks still over the cap that the tool can't safely split are reported as `STAGE2_MANUAL`.
+
+**Hand-review** the `STAGE2_MANUAL` rows (and any `STAGE2_REVIEW` rows from Stage 1). These are prose runs with no lexical cue. Insert a paragraph break only at a genuine topic shift — where the commentary moves from a position to its reason, from one objection to the next, or from gloss to scriptural support. Rules for hand edits:
 
 - Only *insert* `\n\n` boundaries. Do not change, reorder, or delete any syllable.
-- Verse stanzas that form their own paragraph are already protected by the script (trigger `verse-stanza`). For verse embedded inside a larger prose paragraph — where the script could not isolate the stanza — do not split pādas; insert a break before the first pāda and after the final `།།`, keeping all pādas of one stanza together. Never merge two independent stanzas into one block.
-- Place a source-attribution line (e.g. `…ལས།`) and its closing `ཞེས་སོ། །` on their own blocks around the quote, per `format-commentary` §3.
-- When a passage genuinely cannot be cut without breaking sense, leave it whole and note it; over-long is safer than wrong.
+- For a verse embedded inside a larger prose paragraph (the script couldn't isolate it), do not split pādas: break before the first pāda and after the final `།།`, keeping the stanza together. Never merge two independent stanzas.
+- Keep a `…ལས།` attribution line and its closing `ཞེས་སོ། །` on their own blocks (format-commentary §3).
+- When a passage genuinely cannot be cut without breaking sense, leave it whole. Over-long is safer than wrong.
 
-After Stage 2, re-run the no-loss check (concatenate all blocks, strip whitespace, compare to the source) before proceeding. **Run the check against the original source, not the Stage 1 output**, so any pre-existing Stage 1 deviation is caught here and noted for the domain specialist rather than silently inherited.
+If you write any bespoke refinement code, read `scripts/segment_commentary.py` first — two facts save rewrites:
 
----
+- **TSV index ≠ paragraph index.** The TSV numbers segments as the script counts them internally; `merge_short_segments` then merges short adjacent segments, so TSV row N does not map to output paragraph N.
+- **Use the script's `_squeeze`** (the whitespace-translate table in `segment_commentary.py` / `stage2_refine.py`, not `re.sub(r'\s+','',s)`) for any no-loss check, or you may see phantom mismatches. If a mismatch appears, first test `squeeze(source) == squeeze(stage1_output)` to see whether it predates your change.
 
-**Granularity target**
-
-- Aim for 1–2 sentences of prose per block, one stanza per verse block, one quotation per quote block — small enough that a downstream rail can cite exactly the span it needs.
-- A block that still exceeds ~40 tsheg-delimited syllables after Stage 2 should be revisited unless it is a single indivisible quotation or stanza.
+After Stage 2, re-run a no-loss check against the **original source** (the `--source` flag does this automatically) before proceeding.
 
 ---
 
-**Block-ID stamping (separate, mechanical pass — out of scope here but documented for the handoff)**
+**Block-ID stamping (separate, mechanical pass — out of scope here, documented for the handoff)**
 
-Once boundaries are approved, IDs are assigned exactly as `format-commentary` §4 specifies: a `^N-…` ID at the end of every block, numbering restarting under each `##` / `###` heading, no IDs on headings, max three segments. Keep this as its own step so segmentation can be re-tuned and re-run without disturbing IDs already in use elsewhere in the vault.
+Once boundaries are approved, IDs are assigned exactly as `format-commentary` §4 specifies: a `^N-…` ID at the end of every block, numbering restarting under each `##` / `###` heading, no IDs on headings, max three segments. Keeping this as its own step lets segmentation be re-tuned and re-run without disturbing IDs already in use elsewhere in the vault.
 
 ---
 
 **Procedure**
 
 1. Confirm the file is OCR-clean (run `format-commentary` first if not).
-2. **Read `scripts/segment_commentary.py` and `scripts/preclean_commentary.py` in full** before doing anything else. Do not write Stage 2 code until you understand the script internals (see Stage 2 notes above).
-3. If the file already carries index numbers, block/verse IDs, headings, or per-line/per-verse breaks, run **Stage 0** (`preclean_commentary.py`) to `0-INBOX/` to strip the scaffolding back to continuous prose. Skip if the file is already plain running text.
-4. Run Stage 1 (on the Stage-0 output, if you ran it) to `0-INBOX/`, producing the segmented draft and the TSV report.
-5. Before writing any Stage 2 script, read 10–20 `STAGE2_REVIEW` samples from the report, identify which have internal `\n` (expand to `\n\n`) and which are genuinely single long sentences (leave whole). Write one script that handles both cases.
-6. Run Stage 2. Then run the no-loss check against the **original source file**.
-7. Have a domain specialist approve the boundaries.
-8. Hand off to the block-ID pass, then copy the approved, ID-stamped file back into `1-SOURCES/Commentaries/`.
+2. If the file carries index numbers, block/verse IDs, headings, or per-line/per-verse breaks, run **Stage 0** (`preclean_commentary.py`) to `0-INBOX/`. Skip if it is already plain running text.
+3. Run **Stage 1** (`segment_commentary.py`, on the Stage-0 output if you ran it) to `0-INBOX/`, producing the segmented draft and the TSV report. Use `--structural` for the canonical layout, or `--max-syllables 40` for review-oriented output. For many files at once, use `batch_segment.py`.
+4. Run **Stage 2** (`stage2_refine.py`) with `--source` pointing at the original. Then hand-review the `STAGE2_MANUAL` / `STAGE2_REVIEW` rows.
+5. Re-run the no-loss check against the **original source file**.
+6. Have a domain specialist approve the boundaries.
+7. Hand off to the block-ID pass, then copy the approved, ID-stamped file back into `1-SOURCES/Commentaries/`.
 
 **Output**
 
 - A boundary-segmented commentary draft in `0-INBOX/` (not the source — the source is only updated after approval and ID stamping).
-- A TSV report listing each segment, the rule that triggered its boundary, its syllable count, and any `STAGE2_REVIEW` flag.
+- TSV reports listing each segment, the rule that triggered its boundary, its syllable count, and any review flag.
 
 **Rules recap**
 
-- No character changes — boundaries only. The script enforces this; Stage 2 must honor it too.
+- No character changes — boundaries only. The scripts enforce this; hand edits must honor it too.
 - OCR repair and translation are out of scope (other skills own those).
 - Never write block IDs in this step.
 - When in doubt, under-cut rather than over-cut.

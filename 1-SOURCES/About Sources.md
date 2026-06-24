@@ -194,6 +194,7 @@ language: [Language]
 script: [Script]
 file_type: edition
 lang_tag: [lang-script]
+book_id: [Root]-[LangType]-[Century][AuthorCode]   # see §3a
 verse_id_format: chapter-verse
 root_text: 1-SOURCES/Text/[lang]-root-text.md
 has_variants: true

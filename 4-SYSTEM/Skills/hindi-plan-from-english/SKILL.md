@@ -19,10 +19,24 @@ Gather these before starting. If an input is missing, stop and ask the human con
 |---|---|---|
 | **Source English day file** | The finished English day file to translate. Read it in full. | `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/<Chapter-folder>/<DAY_NUMBER>.md` |
 | **Day number** | Which day to translate (1–365). Used to locate the source file and name the output. | e.g. `1`, `45` — no zero-padding |
+| **Source-context files** | The rails/commentary the English plan was generated from. Read these for context so the Hindi captures the full meaning behind the English prose. Locate them from the day file's frontmatter (`verses`, `generation_note`) — they are the same sources the English plan was built on. | See "Source-context files" below |
 
 Notes on locating the source:
 - English day files live in chapter subfolders such as `Chapter-1 D1-D14/` and `Chapter-2 D15-D40/`. A given day number may also have variant files (`11-option-a.md`, `12-option-1.md`, etc.). Translate the canonical `<DAY_NUMBER>.md` unless the user names a specific variant.
 - If you cannot find a clean `<DAY_NUMBER>.md`, stop and ask which file to translate rather than picking a variant on your own.
+
+### Source-context files
+
+The English plan was generated from source rails. Reading them gives you the reasoning and commentary behind the English prose, which lets you choose accurate Hindi renderings and avoid flattening doctrinal points. Pull the verse IDs from the day file's `verses` frontmatter field, then read whichever of these exist for those verses:
+
+| Context file | What it gives you | Path |
+|---|---|---|
+| **Verse context package (preferred)** | Disambiguated restatement + commentary synthesis in the original language. | `2-RAILS/Verses/<verse-id>.md` (use when `status: complete`) |
+| **Interim commentary summaries** | Combined commentary summaries (Gyaltsab Darma Rinchen, Sazang Mati Panchen, Ngulchu Thokme Zangpo). The day file's `generation_note` says when these were the source. | `3-TRANSFORMATIONS/Translations/en-ai/Verses/<verse-id>.md` |
+| **AI English verse translation** | The English rendering of each verse, by block ID — context for the "From the Tradition" note. | `3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-root-loden-sherab.md` |
+| **Tibetan root text** | The canonical Tibetan verses. | `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` |
+
+These files are **read-only context**. They sharpen the translation; they do not change what gets translated. The Hindi prose must still match the English day file in content (see Rules 4 and 9) — context guides word choice and meaning, never adds new claims the English does not make. If none of the context files exist for a verse, proceed from the English alone and note this; do not block on it.
 
 ---
 
@@ -105,6 +119,7 @@ generation_note: "[copied verbatim from source if present]"
 3. **Reproduce fixed content verbatim.** The frontmatter, day title, notification text, liturgy block-quotes, and the Tibetan + English verse block-quotes must be identical to the source. Do not translate the English verse translation, even though a Hindi reader will see English there — that boundary is intentional and set by the requester.
 4. **Accuracy over fluency, but fluent where possible.** The Hindi must say what the English says — no additions, no omissions, no softening of doctrinal claims. Then make it read naturally to a Hindi-speaking lay Buddhist.
 5. **Preserve cultural and Buddhist meaning.** Where the English names a specific commentator's distinction, a doctrinal point, or a precise condition, carry it across exactly. Never collapse a precise point into a generic spiritual statement.
+5a. **Use the source context to translate faithfully, not to expand.** Read the source rails/commentary (step 3) so you understand the full meaning behind the English prose and can pick the right Hindi term or phrasing. The context disambiguates; it never licenses adding claims, examples, or detail the English day file does not contain. The Hindi must still match the English in content.
 6. **Render key Buddhist terms in standard Devanagari Hindi/Sanskrit forms.** Use common, widely-understood spellings: बोधिचित्त (bodhicitta), संसार (samsara), कर्म (karma), बोधिसत्त्व (bodhisattva), धर्म (dharma), बुद्ध (buddha), संघ (sangha), पुण्य (merit), शरण (refuge), निर्वाण (nirvana). Be consistent within and across day files. Do not consult or modify any vault termbase for this skill.
 7. **Keep proper names in standard Hindi forms.** शांतिदेव (Shantideva); for the commentators, transliterate to Devanagari on first use and keep the one-clause identification the English gives (e.g. who they are / when they lived) so the Hindi reader gets the same context.
 8. **Preserve formatting within translated prose.** Paragraph breaks, the absence of bullet lists, prose-only structure, and the no-em-dash convention of the source all carry over. Do not introduce lists or sub-headers that were not in the source.
@@ -117,17 +132,19 @@ generation_note: "[copied verbatim from source if present]"
 
 1. **Resolve the source file.** From the day number, locate `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/<Chapter-folder>/<DAY_NUMBER>.md`. If multiple candidates exist or the canonical file is absent, stop and ask the user which to translate.
 2. **Read the source in full.** Note the exact frontmatter, the day title, the notification block, every `##` heading and its exact wording (record which header variant is used for Opening and for Practice), and the verbatim liturgy and verse blocks.
-3. **Identify the three translatable bodies.** Capture the prose under Opening/Introduction, under From the Tradition, and under Today's Practice(/Challenge). If the Opening section contains a `*Push notification:*` / notification line above the intro prose, that line stays English; translate only the introductory prose beneath it.
-4. **Translate each of the three bodies into Hindi**, one at a time, applying Rules 4–9. After each, re-read the English and the Hindi side by side to confirm nothing was added, dropped, or softened, and that every doctrinal point and commentator attribution survived.
-5. **Assemble the output file.** Start from an exact copy of the source. Replace only the three translated bodies. Leave the headings in English. Add `translated_from: "en/Days/<Chapter-folder>/<DAY_NUMBER>.md"` to the frontmatter and keep `status: draft`. Preserve any existing `generation_note` verbatim.
-6. **Create directories if needed** and save to `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/hi/Days/<Chapter-folder>/<DAY_NUMBER>.md`.
-7. **Diff against the source.** Confirm that the only lines that differ are: the three translated bodies, the added `translated_from:` frontmatter line, and nothing else. If any verbatim region changed, fix it before reporting completion.
+3. **Gather the source context.** Read the day file's `verses` field to get the verse IDs, and its `generation_note` to learn which source was used. Then read the available source-context files (see "Source-context files") for those verses — verse rails preferred, interim commentary summaries otherwise, plus the AI English verse translation. Hold this context in mind so the meaning behind the English prose is fully understood before you translate, especially for the "From the Tradition" note, which compresses a specific commentator's point.
+4. **Identify the three translatable bodies.** Capture the prose under Opening/Introduction, under From the Tradition, and under Today's Practice(/Challenge). If the Opening section contains a `*Push notification:*` / notification line above the intro prose, that line stays English; translate only the introductory prose beneath it.
+5. **Translate each of the three bodies into Hindi**, one at a time, applying Rules 4–9 and using the source context from step 3 to choose accurate Hindi renderings and preserve doctrinal precision. After each, re-read the English and the Hindi side by side to confirm nothing was added, dropped, or softened, and that every doctrinal point and commentator attribution survived.
+6. **Assemble the output file.** Start from an exact copy of the source. Replace only the three translated bodies. Leave the headings in English. Add `translated_from: "en/Days/<Chapter-folder>/<DAY_NUMBER>.md"` to the frontmatter and keep `status: draft`. Preserve any existing `generation_note` verbatim.
+7. **Create directories if needed** and save to `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/hi/Days/<Chapter-folder>/<DAY_NUMBER>.md`.
+8. **Diff against the source.** Confirm that the only lines that differ are: the three translated bodies, the added `translated_from:` frontmatter line, and nothing else. If any verbatim region changed, fix it before reporting completion.
 
 ---
 
 ## Completion check
 
 - [ ] Source English day file located and read in full; header variants for Opening and Practice recorded.
+- [ ] Source-context files read for the day's verse IDs (verse rails preferred, else interim commentary summaries, plus the AI English verse translation); used to inform renderings without adding content.
 - [ ] Exactly three section bodies translated into Hindi: Opening/Introduction, From the Tradition, Today's Practice(/Challenge).
 - [ ] All `##` section headings left in English and in original order.
 - [ ] Frontmatter, day title, notification text, liturgy block-quotes, and Tibetan + English verse block-quotes reproduced verbatim.

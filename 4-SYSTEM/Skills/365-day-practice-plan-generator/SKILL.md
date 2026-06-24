@@ -36,11 +36,11 @@ The output is always saved as a Tibetan-language markdown file.
 Ask the user (or infer from context) for:
 
 1. **Day number** (1–365) — required
-2. **Chapter** (ལེའུ་) and **verse range** (ཤློཀ་) — if not provided, look up from the schedule in `references/verse-schedule.md`
+2. **Chapter** (ལེའུ་) and **verse range** (ཤློཀ་) — if not provided, read `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\3-TRANSFORMATIONS\Plans\the-bodhisattva-challenge\bo\schedule-corrected.md` and look up the day's assigned verse(s) there
 3. **Save location** — default to the user's Obsidian folder: `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\0-INBOX\Plans\`
 4. **Language for commentary** — default is Tibetan (བོད་སྐད།); English commentary notes can be added if the user asks
 
-If the user only gives a day number, consult the verse schedule to find the chapter and verses for that day.
+If the user only gives a day number, read `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/bo/schedule-corrected.md` to find the chapter and verse(s) assigned for that day.
 
 Once you have the chapter and verse range, **read the root text and all relevant commentary files** before writing any content. Extract the exact verse text from `bo-བློ་ལྡན་ཤེས་རབ།.md` and the relevant commentary passages from all files in `1-SOURCES/Commentaries/` before composing the document.
 
@@ -157,7 +157,7 @@ Open the section with the literal heading `### ༣། དེ་རིང་ག�
 
 > ⚠️ Do **not** output subsection headings. The per-verse headers described below are the only headings inside this section.
 
-The user will provide the verses for the day in their prompt. For each verse provided, look up the exact text in `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\1-SOURCES\Translations\bo-བློ་ལྡན་ཤེས་རབ།.md` using the `^chapter-verse` block reference for that verse. List them in sequence:
+Read `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\3-TRANSFORMATIONS\Plans\the-bodhisattva-challenge\bo\schedule-corrected.md` to confirm the verse(s) assigned for the day. Then look up the exact text of each verse in `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\1-SOURCES\Translations\bo-བློ་ལྡན་ཤེས་རབ།.md` using the `^chapter-verse` block reference. List them in sequence:
 
 1. **Header**: `#### **[verse number in Tibetan numerals]. ཤློཀ་[ordinal word]།** (ལེའུ་ [chapter in Tibetan numerals] ཤློཀ་ [verse number in Tibetan numerals])`
    - Bold contains only the numeral, the ordinal-word verse name, and the ། — the parenthetical reference stays **outside** the bold.
@@ -358,9 +358,9 @@ For chapter names in the header, use the traditional Tibetan word form for the o
 
 ## Verse schedule reference
 
-For full day-by-day verse assignments, read `references/verse-schedule.md` (bundled with this skill).
+For full day-by-day verse assignments, read `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\3-TRANSFORMATIONS\Plans\the-bodhisattva-challenge\bo\schedule-corrected.md`.
 
-If the user doesn't specify verses and asks only for a day number, consult that file to find the correct chapter and verse range before generating the plan.
+If the user doesn't specify verses and asks only for a day number, read that file first to find the correct chapter and verse range before generating the plan.
 
 ---
 

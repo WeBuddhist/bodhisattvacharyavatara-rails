@@ -12,10 +12,11 @@ covers_verses: 1-1–10-58
 source_description: "Wallace, Vesna A. and B. Alan Wallace (2009). A Guide to the Bodhisattva Way of Life. Ithaca: Snow Lion Publications."
 ---
 
-## 0. Introduction
+# A Guide to the Bodhisattva Way of Life ^0
 
-# 1. The Benefit of the Spirit of Awakening
+## 0. Introduction ^I-0
 
+## 1. The Benefit of the Spirit of Awakening ^1-0
 
 Reverently bowing to the Sugatas, who are endowed with the Dharmakāya, together with their Children and all who are worthy of veneration, I shall concisely present a guide to the discipline of the Children of the Sugatas in accordance with the scriptures. ^1-1
 
@@ -89,7 +90,7 @@ But if one's mind is kindly inclined, one will bring forth an even greater fruit
 
 I pay homage to the bodies of those in whom this precious jewel of the mind has arisen. I go for refuge to those who are mines of joy, toward whom even an offense results in happiness. ^1-36
 
-## 2. The Confession of Sin
+## 2. The Confession of Sin ^2-0
 
 In order to adopt that jewel of the mind, I make offerings to the Tathāgatas, to the stainless jewel of the sublime Dharma, and to the Children of the Buddhas, who are oceans of excellent qualities. ^2-1
 
@@ -223,7 +224,7 @@ Terrified of suffering, all this I confess, standing with folded hands in the pr
 
 May the Guides be aware of my transgressions together with my iniquity. O Protectors, may I not commit this evil again! ^2-66
 
-## 3. Adopting the Spirit of Awakening
+## 3. Adopting the Spirit of Awakening ^3-0
 
 I happily rejoice in the virtue of all sentient beings, which relieves the suffering of the miserable states of existence. May those who suffer dwell in happiness. ^3-1
 
@@ -291,7 +292,7 @@ For the caravan of beings traveling on the path of mundane existence and starvin
 
 Today I invite the world to Sugatahood and temporal happiness. May the gods, asuras, and others rejoice in the presence of all the Protectors! ^3-33
 
-## 4. Attending to the Spirit of Awakening
+## 4. Attending to the Spirit of Awakening ^4-0
 
 Thus, upon firmly adopting the Spirit of Awakening, a Child of the Jinas should always vigilantly strive not to neglect his training. ^4-1
 
@@ -389,7 +390,7 @@ Mental afflictions do not exist in sense objects, nor in the sense faculties, no
 
 After pondering in this way, I shall make an effort to apply the teachings as they have been explained. How can someone who could be cured by medicine be restored to health if he strays from the physician's advice? ^4-48
 
-## 5. Guarding Introspection
+## 5. Guarding Introspection ^5-0
 
 Those who wish to protect their practice should zealously guard the mind. The practice cannot be protected without guarding the unsteady mind. ^5-1
 
@@ -607,7 +608,7 @@ In brief, this alone is the definition of introspection: the repeated examinatio
 
 I shall practice it with my body. What is the use of merely reading the words? Will a sick person have any benefit merely by reading about medical treatments? ^5-109
 
-## 6. The Perfection of Patience
+## 6. The Perfection of Patience ^6-0
 
 Anger destroys all the good conduct, such as generosity and worshiping the Sugatas, that has been acquired over thousands of eons. ^6-1
 
@@ -877,7 +878,7 @@ Let alone future Buddhahood, do you not see that in this life, fortune, fame, an
 
 While transmigrating, a patient person attains beauty, health, charisma, long life, and the abundant joy of a Cakravarti. ^6-134
 
-## 7. The Perfection of Zeal
+## 7. The Perfection of Zeal ^7-0
 
 Thus, one who has patience should cultivate zeal, because Awakening is established with zeal, and there is no merit without zeal, just as there is no movement without wind. ^7-1
 
@@ -1029,7 +1030,7 @@ Bringing to mind the teaching on conscientiousness, one should arouse oneself so
 
 Just as cotton is swayed in the direction of the wind's coming and going, so should one surrender oneself to one's enthusiasm, and in this way one's supernormal powers will thrive. ^7-75
 
-## 8. The Perfection of Meditation
+## 8. The Perfection of Meditation ^8-0
 
 Upon developing zeal in that way, one should stabilize the mind in meditative concentration, since a person whose mind is distracted lives between the fangs of mental afflictions. ^8-1
 
@@ -1404,7 +1405,7 @@ So enough of worldly conduct! Recalling the teaching on conscientiousness and wa
 
 Therefore, withdrawing the mind from evil ways, I shall always concentrate it on its own meditative object to eliminate obscurations. ^8-186
 
-## 9. The Perfection of Wisdom
+## 9. The Perfection of Wisdom ^9-0
 
 The Sage taught this entire system for the sake of wisdom. Therefore, with the desire to ward off suffering, one should develop wisdom. ^9-1
 
@@ -1764,7 +1765,7 @@ Thus, when might I bring relief to those tormented by the fire of suffering, wit
 
 When shall I respectfully teach emptiness and the accumulation of merit—in terms of conventional truth and without reification—to those whose views are reified? ^9-167
 
-## 10. Dedication
+## 10. Dedication ^10-0
 
 May all sentient beings be graced with the Bodhisattva way of life by the virtue I have obtained while reflecting on A Guide to the Bodhisattva Way of Life. ^10-1
 
@@ -1881,153 +1882,3 @@ Whatever suffering there is for the world, may it all ripen upon me. May the wor
 May the teaching that is the sole medicine for the suffering of the world and the source of all prosperity and joy remain for a long time, accompanied by riches and honor. ^10-57
 
 I bow to Mañjughoṣa, through whose grace my mind turns to virtue. I salute my spiritual friend through whose kindness it becomes stronger. ^10-58
-
-## Bibliography
-
-### 1. SANSKRIT EDITIONS OF ŚĀNTIDEVA'S WORKS
-
-### Bodhicaryāvatāra
-
-1889. Bodhicaryāvatāra. Edited by I. Minayef. In Zapiski Vostochnogo Otdeleniya Ruskogo Imperatorskogo Archeologicheskogo Obchestva (Transactions of the Oriental Section of the Royal Russian Archeological Society), vol. 4.
-
-1898. Adikarmapradīpa, Bodhicaryāvatāratika. Edited by Louis de la Vallée Poussin. In Bouddhisme, Etudes et Materiaux, vol. 1. Bruxelles, London: Academic and Luzac. (Includes only the ninth chapter of the text.)
-
-1901-1914. Bodhicaryāvatārapañjikā. Commentary to the Bodhicaryāvatāra of Śāntideva. Edited by Louis de la Vallée Poussin. Biblioteca Indica, no. 150. Calcutta: The Asiatic Society. (Includes only the first nine chapters of the text.)
-
-1901. Prajñākaramati's Commentary to the Bodhicaryāvatāra of Śāntideva. Edited with Indices by Louis de la Vallée Poussin. Bibliotheca Indica. New Series, no. 983. Calcutta: Asiatic Society of Bengal.
-
-1960. Bodhicaryāvatāra of Śāntideva with the Commentary Pañjikā of Prajñākaramati. Edited by P. L. Vaidya. Buddhist Sanskrit Texts, no. 12. Darbhanga: The Mithila Institute of Post-Graduate Studies and Research in Sanskrit Learning.
-
-1960. Bodhicaryāvatāra. Edited by Vidhushekhara Bhattacharya. Biblioteca Indica, no. 280. Calcutta: The Asiatic Society. (Sanskrit text together with the Tibetan version.)
-
-1988. Bodhicaryāvatāra with Prajñākaramati's Commentary. Edited by Dwaraka Das Shastri. Bauddha Bharati Series, no. 21. Varanasi: Chandra Prakash Press.
-
-### Śikṣāsamuccaya
-
-1902. Śikṣāsamuccaya: A Compendium of Buddhist Teaching Compiled by Śāntideva Chiefly from Earlier Mahāyāna-Sūtras. Edited by Cecil Bendall. St. Petersburg: Imperial Academy of Sciences. Vol. 39-47. Reprinted in 1970.
-
-1956. Śāntideva's Śikṣāsamuccaya-kārikās. Edited and translated into English by Lal Mani Joshi. Sarnath: Mahabodhi Society.
-
-1961. Śikṣāsamuccaya. Edited by P. L. Vaidya. Buddhist Sanskrit Texts, no. 11. Darbhanga: The Mithila Institute of Post-Graduate Studies and Research in Sanskrit Learning.
-
-### II. TRANSLATIONS OF ŚĀNTIDEVA'S WORKS
-
-### Bodhicaryāvatāra: Asian Languages
-
-Bodhicaryāvatāra, Byang chub sems dpa'i spyod pa la 'jug pa. Derge: La 1.2.
-
-Bodhicaryāvatāra: Mongolskii perevod Chos-kyi hod-zer'a.1929. Edited by B. Vladimirtsov. Bibliotheca Buddhica, vol. 28. Leningrad: Izdalestvo Akademii Nauk SSSR.
-
-Byang chub sems dpa'i spyod pa la 'jug pa. No. 3871 in A Complete Catalogue of the Tibetan Buddhist Canons. 1934. Edited by H. Ui, M. Suzuki, Y. Kanakura, and T. Tada. Sendai, Japan: Tohoku Imperial University by Saito Gratitude Foundation. Second edition printed in 1970, Tokyo.
-
-Byang chub sems dpa'i spyod pa la 'jug pa. Peking edition of the Tibetan Tripitaka, no. 5272, vol. 99.
-
-Kanakura, Y. 1958. Satori eno Michi. Kyoto: Heirakuji Shoten. (Japanese)
-
-Poppe, Nicholas. 1954. "A Fragment of the Bodhicaryāvatāra from Olon Sume." Harvard Journal of Asiatic Studies 17: 411-418. (Mongolian)
-
-Pu ti xing jing. No. 1662 in the Taisho shinshu daizokyo. 1924-32. Edited by J. Takakusu, K. Watanabe, et al. Tokyo: Taisho Issaikyo Kanko Kai.
-
-### Bodhicaryāvatāra: Western Languages
-
-Barnett, Lionel David. 1909. The Path of Light. New York: Grove; London: John Murray. Second edition published in 1947, London: John Murray.
-
-Batchelor, Stephen. 1979. A Guide to the Bodhisattva's Way of Life. Dharamsala: Library of Tibetan Works and Archives. Second edition published in 1981.
-
-Crosby, Kate, and Andrew Skilton. 1996. Śāntideva. The Bodhicaryāvatāra. The World's Classics. Oxford, New York: Oxford University Press.
-
-Ensink, J. 1955. Degrote weg naar het licht: Een keuze uit de literatuur van het Mahāyāna Buddhisme. Uit het Sanskrit vertaald en toegelicht. Amsterdam: De Arbeiderspers. Second edition published in 1973, Amsterdam: Wetenschappelijke Uitgereij. (Chapter 2)
-
-Finot, Louis. 1920. La Marche à la lumière: Bodhicaryāvatāra. Les classiques de l'Orient, vol. 2. Paris: Editions Bossard.
-
-La Vallée Poussin, Louis de. 1892. "Bodhicaryāvatāra: Introduction à la pratique de la sainteté bouddhique." Museon 11: 87-115. Reprinted in 1896. (Chapters 1-4, 10)
-
-—. 1896. "Śāntideva: Bodhicaryāvatāra. Expos. de la pratique des Bodhisattvas (Tr. du cinquieme Pariccheda)." Museon 15: 306-18. (Chapter 5)
-
-—. 1907. Bodhicaryāvatāra: Introduction à la pratique des future Buddhas: Poème de Śāntideva. Paris: Librairie Blond.
-
-Lindtner, Christian. 1981. To buddhistiske laeredigte. Indiske Studier, vol. 1, pp. 36-162. Copenhagen: I Kommision hos Akademisk Forlag.
-
-Matics, Marion L. 1970. Entering the Path of Enlightenment. London: Macmillan.
-
-Pezzali, Amalia. 1975. Il Bodhicaryāvatāra di Śāntideva. Bologna: Egidi.
-
-Sastri, N. Aiyaswami. 1950. "Epitome of the Bodhicaryāvatāra with Its Pañjikā." Adyar Library Bulletin 17: 36-441. (Chapter 10)
-
-Schmidt, Richard. 1923. Der Eintritt in den Wandel in Erlechtung (Bodhicaryāvatāra). Von Śāntideva. Ein buddhistisches Lehrgedicht des VII. Jahrhunderts n. Chr. Aus dem Sanskrit ubersetzt. Dokumente der Religion, vol. 5. Paderborn: Ferdinand Schoning.
-
-Sharma, Parmananda. 1990. Bodhicaryāvatāra, 2 vols. New Delhi: Aditya Prakashan.
-
-Steinkellner, Ernst. 1981. Śāntideva: Eintritt in das Leben zur Erlechtung (Bodhicaryāvatāra). Lehrgedicht des Mahāyāna aus dem Sanskrit ubersetzt von Ernst Steinkellner. Diederichs Gelbe Reihe, vol. 34. Dusseldorf: Eugen Diederichs.
-
-Tucci, Giuseppe. 1925. In camino verso la lute. Torino. (Chapters 1-8)
-
-Wallace, B. Alan, tr. and ed. 1988. Transcendent Wisdom. The Ninth Chapter of the Śāntideva's Guide to the Bodhisattva Way of Life with a Commentary by H. H. the Dalai Lama, Tenzin Gyatso. Ithaca, New York: Snow Lion.
-
-### Śikṣāsamuccaya: Asian Languages
-
-Da cheng ji pu sa xue lun. No. 1636 in the Taisho shinshu daiz6ky6.1924- 32. Edited by J. Takakusu, K. Watanabe, et al. Tokyo: Taisho Issaikyo Kanko Kai.
-
-bSlab pa kun las btus pa. No. 3940 in A Complete Catalogue of the Tibetan Buddhist Canons. 1934. Edited by H. Ui, M. Suzuki, Y. Kanakura, and T. Tada. Sendai, Japan: Tohoku Imperial University by Saito Gratitude Foundation. Second edition printed in 1970, Tokyo.
-
-bSlab pa kun las btus pa'i tshig le'ur byas pa. No. 3939 in A Complete Catalogue of the Tibetan Buddhist Canons. 1934. Edited by H. Ui, M. Suzuki, Y. Kanakura, and T. Tada. Sendai, Japan: Tohoku Imperial University by Saito Gratitude Foundation. Second edition printed in 1970, Tokyo. (Contains only karikas)
-
-bSlab pa kun las btus pa'i tshig le'ur byas pa. Peking edition of the Tibetan Tripitaka, vol. 102, no. 5336.
-
-### Śikṣāsamuccaya: Western Languages
-
-Barnett, Lionel David. 1909. The Path of Light. New York: Grove; London: John Murray. Second edition published in 1947, London: John Murray, pp. 103-107, Appendix.
-
-Bendall, Cecil, and W. H. D. Rouse. 1981. Śikṣā-samuccaya: A Compendium of Buddhist Doctrine Compiled by Śāntideva, Chiefly from Earlier Mahāyāna Sutras. Delhi, Vanarasi, Patna: Motilal Banarsidass. First edition published in London: John Murray, 1922.
-
-Joshi, Lal Mani. 1977. Studies in the Buddhistic Culture of India: During the 7th and 8th centuries AD. Delhi, Varanasi, Patna: Motilal Banar- sidass. (Contains only karikas, pp. 97-99)
-
-Pezzali, Amalia.1982. Śāntideva, it Bodhiearyavatara e le Karikd del Śikṣāsamuccaya. Biblioteca Scientifica, vol. 11. Bologna: Editrice Mis- sionaria Italiana.
-
-### Sūtrasamuccaya: Asian Languages
-
-Fahu. Ta ch'eng Pao Yao Yil un. No. 1643 in Taisho shinshu daiz6ky6.1924- 32. Edited by J. Takakusu, K. Watanabe et al. Tokyo: Taisho Issaikyo Kanko Kai.
-
-### III. COMMENTARIES AND SUMMARIES OF ŚĀNTIDEVA'S WORKS
-
-### Bodhicaryāvatāra
-
-rGyal tshab dar ma rin chen. 1973. sPyod 'jug ream hshad rgyal sras 'jug ngogs. Varanasi: mThog slob dge ldan spyi las khang.
-
-Gyatso, Kelsang. 1989. Meaningful to Behold. London: Tharpa.
-
-Gyatso, Tenzin, the Fourteenth Dalai Lama. 1994. A Flash of Lightning in the Dark of Night: A Guide to the Bodhisattva's Way of Life. Translated from the Tibetan by the Padmakara Translation Group. Boston, London: Shambhala.
-
-Ishida, Chiko. 1988. "Some New Remarks on the Bodhicaryāvatāra Chap. V." Journal of Indian and Buddhist Studies 37, no. 1.
-
-Kajihara, Meiko. 1992. "On the Parinamana Chapter of the Bodhicaryāvatāra." Journal of Indian and Buddhist Studies 40, no. 20.
-
-mKhan po kun bzang dpal ldan. 1982. Byang chub sems dpa'i spyod pa Ia'jug pa'i tshig 'grel 'jam dbyangs bla ma'i zhal lung hdud rtsi'i thig pa. Paro, Bhutan: Kyichu Temple.
-
-Saito, Akira. 1993. "A Study of Aksayamati (=Śāntideva)'s Bodhi- sattvacaryavatara as Found in the Tibetan Manuscripts from Tunhuang." A Report of the Grant-in-Aid for Scientific Research (C). Mie, Japan.
-
-Saito, Akira. 1994. "On the Difference between the Earlier and the Current Versions of Śāntideva's Bodhi(sattva)caryavatara, with Special Reference to Chap. 9 (/8) Entitled: 'Perfection of Wisdom (prajnaparamita).'" Research paper presented at IXth World Sanskrit Conference held on 9th to 15th January 1994 in Melbourne, Australia.
-
-Sweet, Michael. 1976. "Śāntideva and the Madhyamika: The Prajnaparamita-pariccheda of the Bodhicaryāvatāra." Ph.D. dissertation, University of Wisconsin.
-
-Thogs med bzang po. 1974. Byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa'i rgya mtsho. Sarnath.
-
-Thub bstan chos kyi Brags pa. 1988. Byang chub sems pa'i spyod pa la 'jug pa'i 'grel bshad rgyal sras rgya mtsho'i yon tan rin po the mi zad jo ba'i bum bzang. Krung go'i bod kyi shes rin dpe skrun khang.
-
-Wisdom: Two Buddhist Commentaries on the Ninth Chapter of Shantideva's Bodhicharyavatara (Khenchen Kunzang Palden: The Nectar of Manjushri's Speech; Minyak Kunzang Sonam: The Brilliant Torch). 1993. Translated from the Tibetan by the Padmakara Translation Group. Peyzac-le-Moustier: Padmakara.
-
-### IV. INDICES TO THE BODHICARYĀVATĀRA
-
-Takashi, Hirano. 1966. An Index to the Bodhicaryavatara-panjika, chapter IX. Tokyo: The Suzuki Foundation.
-
-Weller, F. 1952. Tibetisch-Sanskritischer Index zum Bodhicaryavatara. Abhandlungen der Sachsischen Akademie der Wissenschaften zu Leipzig. Phil.-hist. Klasse, Band 46, Heft 3. Berlin: Akademie Verlag.
-
-### V. WRITINGS ON ŚĀNTIDEVA
-
-Bu ston. 1986. "The Biography of the Bodhisattva Śāntideva." In the History of Buddhism in India and Tibet, pp. 161-166. Translated by E. Obermiller. Bibliotheca Indo-Buddhica, no. 26. Delhi: Sri Satguru Publications. First edition Heidelberg, 1932.
-
-Chimpa, Lama, and Alaka Chattopadhyaya, trs. 1990. Tāranātha's History of Buddhism in India, pp. 215-220. Delhi: Motilal Banarsidass. First edition Simla, 1970.
-
-de Jong, J. W. 1975. "La Legende de Śāntideva." Indo-Iranian journal 16, no. 3: 161-182.
-
-Pezzali, Amalia. 1968. Śāntideva: mystique bouddhiste des VIIe et VIIIe siecle. Firenze: Vallecchi Editore.

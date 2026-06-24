@@ -105,7 +105,7 @@ Every source carries a vault-internal catalog code in its `book_id` frontmatter 
 
 **Root-title code registered for this vault:** `BCA` — *Bodhicaryāvatāra* (the vault's only root text). **Language codes:** `EN` English · `BO` Tibetan · `SA` Sanskrit · `ZH` Chinese (vault extension). **Resource type:** `V` version/translation · `C` commentary.
 
-The per-commentary `book_id` assignments are maintained in the commentaries catalog — see [`../../1-SOURCES/Commentaries/Commentaries_catalog.md`](../../1-SOURCES/Commentaries/Commentaries_catalog.md) §"Book IDs (catalog codes)". Register the `book_id` of any new commentary or translation track there in the same form.
+The per-source `book_id` assignments are maintained in two catalogs, each with its own "Book IDs (catalog codes)" section: commentaries in [`../../1-SOURCES/Commentaries/📑 Commentaries_catalog.md`](../../1-SOURCES/Commentaries/📑%20Commentaries_catalog.md), and root-text versions/translations in [`../../1-SOURCES/Translations/📑 Versions_catalog.md`](../../1-SOURCES/Translations/📑%20Versions_catalog.md). Register the `book_id` of any new source in the matching catalog in the same form.
 
 ---
 

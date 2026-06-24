@@ -101,6 +101,49 @@ Include only the fields that apply. Leave inapplicable fields out entirely. `sou
 
 ---
 
+## 3a. Book ID and cataloging convention
+
+Alongside the external IDs above, every text related to the **Bodhicaryāvatāra (BCA)** — and to any other root text the vault later adopts — carries a vault-internal catalog code in the `book_id` frontmatter field. This standardised alphanumeric code keeps the database scalable: it identifies a work's root text, language, resource type, century, and author in a single string, independent of any external database.
+
+### Code structure
+
+The identifier is built from four blocks:
+
+```
+[Root Title]-[Language & Resource Type]-[Century][Author Code]
+```
+
+### Component breakdown
+
+**1. Root Title (3 letters).** An uppercase identifier for the root text.
+
+- `BCA` — *Bodhicaryāvatāra*
+- Future root texts each receive their own unique 3-letter uppercase identifier.
+
+**2. Language & Resource Type (3 letters).** The first two letters give the language; the third gives the resource type.
+
+- First two letters (language): `EN` English · `BO` Tibetan (*Bod skad*) · `SA` Sanskrit.
+- Third letter (resource type): `V` version / direct translation of the root text · `C` commentary on the root text.
+
+**3. Century (2 digits).** The century in which the specific work or translation was written — e.g. `12` for the 12th century, `21` for the 21st.
+
+**4. Author / translator code (variable length).** Uppercase initials of the author, commentator, or translator.
+
+### Examples in practice
+
+**Root-text versions / translations** use the `V` resource marker:
+
+- `BCA-ENV-21DKC` — *Bodhicaryāvatāra*, **EN**glish **V**ersion, **21**st-century translation by **D**avid **K**arma **C**hoepel.
+
+**Commentaries** use the `C` resource marker:
+
+- `BCA-BOC-12TZ` — *Bodhicaryāvatāra*, Ti**be**tan (**BO**) **C**ommentary, **12**th-century text by **T**hogme **Z**angpo.
+- `BCA-BOC-21DL` — *Bodhicaryāvatāra*, Ti**be**tan (**BO**) **C**ommentary, **21**st-century commentary by His Holiness the **D**alai **L**ama.
+
+Record the assigned `book_id` in the file's frontmatter (see §4) and, for this vault, register it against the source roster in the vault annex ([`../4-SYSTEM/Docs/vault-annex.md`](../4-SYSTEM/Docs/vault-annex.md)). Like `registered_id`, a `book_id` never changes once assigned.
+
+---
+
 ## 4. Frontmatter
 
 ### Root Text
@@ -114,6 +157,7 @@ language: [Language]
 script: [Script]
 file_type: root-text
 lang_tag: [tag]
+book_id: [Root]-[LangType]-[Century][AuthorCode]   # see §3a; e.g. BCA-ENV-21DKC
 chapters: [N]
 total_verses: [N]
 verse_id_format: chapter-verse | verse | book-chapter-verse | book-verse

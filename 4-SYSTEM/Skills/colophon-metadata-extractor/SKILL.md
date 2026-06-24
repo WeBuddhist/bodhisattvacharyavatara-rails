@@ -1,11 +1,11 @@
 ---
 name: colophon-metadata-extractor
-description: Extracts author, title, and language from a Tibetan text's colophon (last 200 syllables) and opening (first 200 syllables), populates frontmatter, and saves the file as lang_tag-author_name.md in the same folder.
+description: Extracts author, title, and language from a Tibetan text's colophon (last 200 syllables) and opening (first 200 syllables), and populates the YAML frontmatter (Properties) of the same file in place. Does not rename or move the file.
 ---
 
 # colophon-metadata-extractor
 
-This skill extracts structured metadata from unprocessed Tibetan source files (typically Derge catalog files named `D*.txt` in `1-SOURCES/Commentaries/raw/`) by analysing the first and last 200 syllables of the text. It uses the LLM to identify the author, title, language, and other colophon information, then writes a new `.md` file with populated YAML frontmatter and the original text content. The output filename follows the vault convention: `{lang_tag}-{author_name_in_original_script}.md`.
+This skill extracts structured metadata from Tibetan source files (typically Derge catalog files in `1-SOURCES/Commentaries/raw/`) by analysing the first and last 200 syllables of the text. It uses the LLM to identify the author, title, language, and other colophon information, then writes the extracted metadata into the YAML frontmatter (Properties) of the **same file**, leaving the filename and body content unchanged.
 
 This skill prevents the common failure mode of manually guessing metadata or reading entire large files when the relevant information is concentrated in the title block and colophon.
 
@@ -22,19 +22,13 @@ If neither `file_path` nor `batch: true` is provided, ask the user which file(s)
 
 ## Output
 
-One new file per input, saved to the same folder (`1-SOURCES/Commentaries/raw/`):
-
-```
-1-SOURCES/Commentaries/raw/{lang_tag}-{author_name_in_original_script}.md
-```
-
-Example: `1-SOURCES/Commentaries/raw/bo-མཁས་པ་ཤེས་རབ་འབྱུང་གནས།.md`
-
-The original `D*.txt` file is **not** modified or deleted.
+The input file is updated in place: its YAML frontmatter (Properties) is populated with the extracted metadata. The filename and body content are **not changed**.
 
 ---
 
-## Output file format
+## Frontmatter schema
+
+The following fields are written into the file's YAML frontmatter block. If a frontmatter block already exists, update only these fields; leave any other existing fields untouched. If no frontmatter block exists, prepend one.
 
 ```yaml
 ---
@@ -50,7 +44,7 @@ derge_catalog_id:             # original D-number, e.g. D3872
 ---
 ```
 
-Followed by the complete original text content (unchanged).
+The body content of the file is **not modified**.
 
 ---
 
@@ -60,12 +54,11 @@ Followed by the complete original text content (unchanged).
 2. **Extract exactly 200 syllables from the end** (the colophon region) and **200 syllables from the beginning** (the title region). If the file has fewer than 400 syllables total, use the entire text.
 3. **Do not read the middle of the text.** The skill must work without loading the full file body into the LLM context. Read only the head and tail regions.
 4. **The LLM analyses only the extracted syllable regions.** From the colophon region, extract: author name, translator name (if present), place of composition (if present), and any closing dedication or attribution. From the title region, extract: formal title and Sanskrit/alternate title (if present).
-5. **Author name in the output filename must use original script** (Tibetan, Sanskrit, etc.), matching the existing vault convention (e.g. `bo-འཇུ་མི་ཕམ།.md`).
-6. **The `lang_tag` is determined from the text content**, not assumed. Most D-files are Tibetan (`bo`), but verify from the opening lines (look for `རྒྱ་གར་སྐད་དུ།` / `བོད་སྐད་དུ།` markers).
-7. **The `derge_catalog_id` is extracted from the original filename** (e.g. `D3872` from `D3872.txt`).
-8. **Do not overwrite existing files.** If `{lang_tag}-{author_name}.md` already exists in the target folder, append a numeric suffix: `{lang_tag}-{author_name}-2.md`.
-9. **Do not modify the original D-file.** The original file is preserved as-is.
-10. **If the LLM cannot confidently identify the author**, use the title as a fallback for the filename: `{lang_tag}-{title_short}.md`, and set `author: unknown` in frontmatter. Report this to the user.
+5. **The `lang_tag` is determined from the text content**, not assumed. Most D-files are Tibetan (`bo`), but verify from the opening lines (look for `རྒྱ་གར་སྐད་དུ།` / `བོད་སྐད་དུ།` markers).
+6. **The `derge_catalog_id` is extracted from the original filename** (e.g. `D3872` from `D3872.txt`).
+7. **Do not rename or move the file.** Only the frontmatter of the existing file is updated.
+8. **Do not modify the body content of the file.** Only the YAML frontmatter block is written or updated.
+9. **If the LLM cannot confidently identify the author**, set `author: unknown` in frontmatter and report this to the user.
 
 ---
 
@@ -111,27 +104,24 @@ lang_tag: [ISO tag: bo, sk, zh, en]
 If you cannot determine a field with confidence, write "unknown".
 ```
 
-### Step 4 — Construct the output file
+### Step 4 — Build the frontmatter block
 
-1. Build the YAML frontmatter block using the extracted metadata and the Derge catalog ID.
-2. Read the **entire original file content** (the raw text, not just the extracted regions).
-3. Combine: frontmatter block + blank line + original file content.
-4. Determine the output filename: `{lang_tag}-{author_name}.md`
-   - Strip any trailing punctuation from the author name for the filename if it would cause issues, but keep the Tibetan shad `།` as it matches existing vault convention.
-   - If author is `unknown`, use a short form of the title instead.
+Build the YAML frontmatter using the extracted metadata and the Derge catalog ID.
 
-### Step 5 — Write the output file
+### Step 5 — Write the frontmatter into the existing file
 
-1. Check that no file with the target name already exists. If it does, append `-2` (or `-3`, etc.).
-2. Write the new file to `1-SOURCES/Commentaries/raw/{output_filename}`.
-3. Report to the user: the original filename, the new filename, and the extracted metadata fields.
+1. Read the current content of the input file.
+2. If the file already begins with a `---` frontmatter block, replace it with the new frontmatter. Preserve all body content exactly.
+3. If no frontmatter block exists, prepend the new frontmatter block (followed by a blank line) before the existing content.
+4. Write the updated content back to the **same file** at the same path. Do not change the filename or move the file.
+5. Report to the user: the filename, and the extracted metadata fields.
 
 ### Step 6 — Batch mode (if applicable)
 
 If `batch: true`:
 1. List all files matching `D*.txt` and `D*.md` in `1-SOURCES/Commentaries/raw/`.
 2. For each file, execute Steps 1–5.
-3. At the end, report a summary table: original filename → new filename → author → title.
+3. At the end, report a summary table: filename → author → title.
 
 ---
 
@@ -140,8 +130,7 @@ If `batch: true`:
 - [ ] Syllable extraction used `[་།]` regex, not word-level or line-level splitting
 - [ ] Exactly 200 syllables extracted from each end (or full text if shorter)
 - [ ] Middle of the text was not read into LLM context
-- [ ] Output file has complete YAML frontmatter with all fields populated (or marked `unknown`)
-- [ ] Output filename follows `{lang_tag}-{author_name_in_original_script}.md` convention
+- [ ] Frontmatter has all fields populated (or marked `unknown`)
 - [ ] `derge_catalog_id` in frontmatter matches the original filename
-- [ ] Original D-file is unmodified
-- [ ] No existing file was overwritten
+- [ ] Filename is unchanged
+- [ ] Body content of the file is unmodified

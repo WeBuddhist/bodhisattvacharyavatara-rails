@@ -293,22 +293,22 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ## VEIE0OPI1C1BBFCB_I3CN4454_bo,sa,zh_block_0003.md
 
-**Title:** སྤྱོད་འཇུག་ཤེས་རབ་ལེའུའི་འགྲེལ་པ་བཞུགས་སོ།
-**Author:** བྱང་ཆུབ་སྐྱབས། (Bodhirakṣita / Jangchub Kyab)
+**Title:** རྒྱལ་སྲས་སྤྱོད་པའི་གཞུང་ལས་ཤེས་རབ་བྱེ་བྲག་ཏུ་བཤད་པ་བློ་གསར་ལམ་མཚོན་ཞེས་བྱ་བ་བཞུགས་སོ།
+**Author:** མཁན་བསམ་གཏན་བློ་གྲོས། (Mkhan Samten Lodrö)
 
 ---
 
 ## VEIE0OPI1C1BBFCB_I3CN4454_bo,sa,zh_block_0005.md
 
-**Title:** སྤྱོད་འཇུག་ཤེས་རབ་ལེའུའི་འགྲེལ་པ་བཞུགས་སོ།
-**Author:** བྱང་ཆུབ་སྐྱབས། (Bodhirakṣita / Jangchub Kyab)
+**Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་གཏམ་རྒྱུད་བཞུགས་སོ།
+**Author:** ཀུན་མཁྱེན་འཚོ་སྣ་བས། (Kunkhyen Tsona Ba)
 
 ---
 
 ## VEIE0OPI1C1BBFCB_I3CN4454_bo,sa,zh_block_0006.md
 
-**Title:** སྤྱོད་འཇུག་ཤེས་རབ་ལེའུའི་འགྲེལ་པ་བཞུགས་སོ།
-**Author:** བྱང་ཆུབ་སྐྱབས། (Bodhirakṣita / Jangchub Kyab)
+**Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་སྒྲུང་འགྲེལ་ལས་འབྲས་གསལ་བའི་མེ་ལོང་ཞེས་བྱ་བ་བཞུགས་སོ།
+**Author:** དབང་ཕྱུག་རིན་ཆེན། (Wangchuk Rinchen)
 
 ---
 
@@ -321,15 +321,15 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ## VEIE0OPI1C1BBFCB_I3CN4457_bo,sa,zh_block_0002.md
 
-**Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་བ།
-**Author:** སློབ་དཔོན་བསོད་ནམས་རྩེ་མོ། (Ācārya Sonamtsemo)
+**Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན་བཞུགས།
+**Author:** རྗེ་བཙུན་གྲགས་པ་རྒྱལ་མཚན། (Jetsun Dragpa Gyaltsen)
 
 ---
 
 ## VEIE0OPI1C1BBFCB_I3CN4457_bo,sa,zh_block_0003.md
 
-**Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་བ།
-**Author:** སློབ་དཔོན་བསོད་ནམས་རྩེ་མོ། (Ācārya Sonamtsemo)
+**Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་དམ་པའི་དགོངས་པ་རབ་གསལ་ཞེས་བྱ་བ་བཞུགས་སོ།
+**Author:** བཙུན་པ་སངས་རྒྱས་ཡོན་ཏན། (Tsünpa Sangyé Yönten)
 
 ---
 
@@ -342,8 +342,8 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ## VEIE0OPI1C1BBFCB_I3CN4458_bo,sa,zh_block_0002.md
 
-**Title:** བྱང་ཆུབ་སེམས་པའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཟིན་བྲིས་འཇམ་དཔལ་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ།
-**Author:** ལྷོ་པ་ཀུན་མཁྱེན་རིན་ཆེན་དཔལ། (Lhopa Kunkhyen Rinchen Pal)
+**Title:** དཔལ་ས་སྐྱ་པའི་ལུགས་ཀྱི་བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་འཐད་པ་ཀུན་ལས་བཏུས་པའི་སྒྲོན་མེ་ཞེས་བྱ་བ་བཞུགས་སོ།
+**Author:** བདེ་བ་ཅན་པ་ཡེ་ཤེས་མགོན་པོ། (Dewachen Pa Yeshe Gönpo)
 
 ---
 
@@ -356,7 +356,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ## VEIE0OPI1C1BBFCB_I3CN4459_bo,sa,zh_block_0002.md
 
-**Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན་གསལ་བར་བྱེད་པའི་ལྡེ་མིག་ཅེས་བྱ་བ་བཞུགས་སོ།
+**Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་བྱང་ཆུབ་ཀྱི་སེམས་གསལ་བར་བྱེད་པ་ཟླ་བའི་འོད་ཟེར་བཞུགས་སོ།
 **Author:** བུ་སྟོན་རིན་ཆེན་གྲུབ། (Buton Rinchendrup)
 
 ---
@@ -370,8 +370,8 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ## VEIE0OPI1C1BBFCB_I3CN4460_bo,sa,zh_block_0002.md
 
-**Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་ལེགས་པར་བཤད་པའི་རྒྱ་མཚོ་ཞེས་བྱ་བ་བཞུགས་སོ།
-**Author:** རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ་དཔལ། (Gyalse Tokme Zangpo)
+**Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་བསྡུས་དོན་ཉི་མའི་འོད་ཟེར་བཞུགས།
+**Author:** བླ་མ་དམ་པ་བསོད་ནམས་རྒྱལ་མཚན། (Lama Dampa Sönam Gyaltsen)
 
 ---
 
@@ -391,8 +391,8 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ## VEIE0OPI1C1BBFCB_I3CN4462_bo,sa,zh_block_0002.md
 
-**Title:** སྤྱོད་འཇུག་འགྲེལ་པ་བཞུགས་སོ།
-**Author:** ཇོ་ནང་ལོ་ཆེན་བློ་གྲོས་དཔལ་བཟང། (Jonang Lo Chen Lodro Palzang)
+**Title:** བྱང་ཆུབ་སེམས་པའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་སྤྱོད་པ་རབ་ཏུ་གསལ་བ་ཞེས་བྱ་བ་བཞུགས་སོ།
+**Author:** བོ་དོང་པཎ་ཆེན་ཕྱོགས་ལས་རྣམ་རྒྱལ། (Bodong Paṇchen Chokle Namgyal)
 
 
 ---
@@ -406,7 +406,7 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ## VEIE0OPI1C1BBFCB_I3CN4466_bo,sa,zh_block_0002.md
 
-**Title:** སྤྱོད་འཇུག་ཤེས་རབ་ལེའུའི་སྤྱི་དོན་རིམ་པར་ཕྱེ་བ་ཟབ་མོ་རྟེན་འབྱུང་གི་དེ་ཁོ་ན་ཉིད་ཡང་གསལ་སྒྲོན་མེ་ཞེས་བྱ་བ་བཞུགས་སོ།
+**Title:** སྤྱོད་འཇུག་ཤེས་རབ་ལེའུའི་གཞུང་འགྲེལ་ཟབ་མོ་རྟེན་འབྱུང་གི་དེ་ཁོ་ན་ཉིད་གསལ་བའི་སྒྲོན་མེ་ཞེས་བྱ་བ་བཞུགས་སོ།
 **Author:** ཐུབ་བསྟན་ཆོས་ཀྱི་གྲགས་པ། (Thubten Chokyi Dragpa)
 
 ---
@@ -414,4 +414,4 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 ## VEIE0OPI1C1BBFCB_I3CN4468_bo,sa,zh_block_0001.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ཞེས་བྱ་བའི་མཆན་འགྲེལ་གྱི་ཡང་འགྲེལ་བཞུགས་སོ།
-**Author:** ནོར་བུ་དབང་རྒྱལ། (Norbu Wangyel)
+**Author:** ནོར་བུ་དབང་རྒྱལ། (Norbu Wangyel) — title page attribution; end colophon names གཞན་ཕན་བྱམས་པའི་གོ་ཆ། (Khenpo Zhenga) as composer — authorship uncertain, needs further check

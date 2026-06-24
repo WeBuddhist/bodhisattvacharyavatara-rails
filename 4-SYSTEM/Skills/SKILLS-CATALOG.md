@@ -30,6 +30,12 @@ Converts JSON exports of root texts (e.g. from tipitaka.org or SuttaCentral) int
 Converts JSON exports of classical commentaries into formatted commentary markdown files.
 → [`json-to-commentary/SKILL.md`](json-to-commentary/SKILL.md)
 
+### `colophon-metadata-extractor` **[exists]**
+**Purpose:** Extract author, title, and language from a Tibetan text's colophon (last 200 syllables) and title block (first 200 syllables), populate frontmatter, and save as `{lang_tag}-{author_name}.md`.
+**Inputs:** A `D*` file in `1-SOURCES/Commentaries/raw/`, or `batch: true` to process all D-files.
+**Outputs:** New `.md` file in the same folder with YAML frontmatter and original content; original file untouched.
+→ [`colophon-metadata-extractor/SKILL.md`](colophon-metadata-extractor/SKILL.md)
+
 ### `format-root-text` **[exists]**
 Normalises an existing root-text file: heading structure, block IDs, verse formatting.
 → [`format-root-text/SKILL.md`](format-root-text/SKILL.md)

@@ -1,6 +1,6 @@
 ---
 name: hindi-plan-from-english
-description: Translate an existing English Bodhisattva Challenge day-plan file into Hindi, rendering only the Opening/Introduction, From the Tradition, and Today's Practice sections into Devanagari Hindi while reproducing the liturgy, Tibetan verses, English verse translation, notification, and all section headings verbatim. Saves to 3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/hi/Days/.
+description: Translate an existing English Bodhisattva Challenge day-plan file into plain, conversational Hindi, rendering only the Opening/Introduction, From the Tradition, and Today's Practice sections into everyday Devanagari Hindi while reproducing the liturgy, Tibetan verses, English verse translation, notification, and all section headings verbatim. Saves to 3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/hi/Days/.
 ---
 
 # hindi-plan-from-english
@@ -117,14 +117,36 @@ generation_note: "[copied verbatim from source if present]"
 1. **Translate only the three named section bodies.** Opening/Introduction, From the Tradition, and Today's Practice(/Challenge). Every other line in the file is copied byte-for-byte from the English source.
 2. **Keep all `##` headings in English.** Do not translate, transliterate, or reorder section headings.
 3. **Reproduce fixed content verbatim.** The frontmatter, day title, notification text, liturgy block-quotes, and the Tibetan + English verse block-quotes must be identical to the source. Do not translate the English verse translation, even though a Hindi reader will see English there — that boundary is intentional and set by the requester.
-4. **Accuracy over fluency, but fluent where possible.** The Hindi must say what the English says — no additions, no omissions, no softening of doctrinal claims. Then make it read naturally to a Hindi-speaking lay Buddhist.
+4. **Accuracy in plain, everyday Hindi.** The Hindi must say what the English says — no additions, no omissions, no softening of doctrinal claims — but it must read like a friend explaining over chai, not like a textbook. Plainness is a hard requirement, not a nicety: testers found the earlier Hindi too hard and too technical. See "Language and register" below.
 5. **Preserve cultural and Buddhist meaning.** Where the English names a specific commentator's distinction, a doctrinal point, or a precise condition, carry it across exactly. Never collapse a precise point into a generic spiritual statement.
 5a. **Use the source context to translate faithfully, not to expand.** Read the source rails/commentary (step 3) so you understand the full meaning behind the English prose and can pick the right Hindi term or phrasing. The context disambiguates; it never licenses adding claims, examples, or detail the English day file does not contain. The Hindi must still match the English in content.
-6. **Render key Buddhist terms in standard Devanagari Hindi/Sanskrit forms.** Use common, widely-understood spellings: बोधिचित्त (bodhicitta), संसार (samsara), कर्म (karma), बोधिसत्त्व (bodhisattva), धर्म (dharma), बुद्ध (buddha), संघ (sangha), पुण्य (merit), शरण (refuge), निर्वाण (nirvana). Be consistent within and across day files. Do not consult or modify any vault termbase for this skill.
+6. **Prefer plain Hindi over technical terms; gloss the rest.** Do not reach for heavy Sanskritized vocabulary. Use everyday Hindustani words people actually speak (इंसान, भलाई, सुकून, जरिया, सोच, नमन, शरण). Terms that are already everyday Hindi can stay as-is (कर्म, धर्म, संसार, बुद्ध, पुण्य). For more technical terms, lead with a plain description and only attach the term lightly if useful: bodhicitta → "सबके भले के लिए जागने का संकल्प (बोधिचित्त)"; bodhisattva → "जो सबकी भलाई में जुटे रहते हैं" rather than बोधिसत्त्व as a bare title. Never use lofty titles like महान प्राणी or प्रबुद्ध वीर. Be consistent within and across day files. Do not consult or modify any vault termbase for this skill.
 7. **Keep proper names in standard Hindi forms.** शांतिदेव (Shantideva); for the commentators, transliterate to Devanagari on first use and keep the one-clause identification the English gives (e.g. who they are / when they lived) so the Hindi reader gets the same context.
 8. **Preserve formatting within translated prose.** Paragraph breaks, the absence of bullet lists, prose-only structure, and the no-em-dash convention of the source all carry over. Do not introduce lists or sub-headers that were not in the source.
 9. **Do not invent or "improve" content.** If the English says something, translate it. If it does not, do not add it. This skill translates; it does not re-author.
 10. **Write only inside `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/hi/`.** Never edit the English source, the liturgy assets, or any `1-SOURCES/` file.
+
+---
+
+## Language and register — the "Chai" rule
+
+This is the most important quality bar for the translated prose, and the reason this skill was revised. Testers said the Hindi was too hard and too technical. Fix that by writing the way an Indian friend would explain the idea to you over chai: warm, natural, human, in the Hindi people actually speak.
+
+- **Conversational Hindustani, not literary/Sanskritized Hindi.** Short, clear sentences, one idea at a time. If a sentence has to be re-read, split it or simplify it.
+- **Use everyday words.** Reach for इंसान, भलाई, सुकून, चैन, जरिया, सोच, असल में, नमन, शरण, भरोसा, कमाल की सोच — the vocabulary of normal speech. Avoid stiff, bookish, or over-Sanskritized choices when a plain word exists.
+- **Don't translate word-for-word.** Carry the meaning, not the surface words. A literal rendering of English idiom into Hindi is usually what makes it sound technical and wooden. Say what the English means, the way a Hindi speaker would actually say it.
+- **No jargon dumps and no lofty titles.** Don't stack Buddhist technical terms or honorifics (महान प्राणी, प्रबुद्ध वीर, बोधिसत्त्व as a bare title). Describe the thing plainly first; attach a term only if it genuinely helps, with a one-clause plain gloss.
+- **Keep the warmth and the precision.** Plain does not mean vague. The doctrinal point and the commentator's specific distinction must still be exactly there (Rules 4, 5, 5a) — just said in plain words.
+
+Quick contrast (illustrative):
+
+| Too technical / stiff | Plain "chai" Hindi |
+|---|---|
+| अपने चित्त को प्रशिक्षित करने हेतु | अपने मन को सँवारने के लिए |
+| कर्मों के फलविपाक में आस्था | इस बात का भरोसा कि हम जो करते हैं उसका असर होता है |
+| बोधिसत्त्व के संवर में प्रवेश | जो सबकी भलाई के रास्ते पर चलते हैं, उनके संकल्प में उतरना |
+
+The reference register comes from the verse-summary Hindi skill the team already trusts; match that voice, while keeping the plan's need to name commentators and preserve their specific point.
 
 ---
 
@@ -149,8 +171,9 @@ generation_note: "[copied verbatim from source if present]"
 - [ ] All `##` section headings left in English and in original order.
 - [ ] Frontmatter, day title, notification text, liturgy block-quotes, and Tibetan + English verse block-quotes reproduced verbatim.
 - [ ] `translated_from:` added to frontmatter; `status: draft`; existing `generation_note` preserved.
-- [ ] Key Buddhist terms in standard Devanagari forms, consistent; commentator names transliterated with the source's one-clause identification preserved.
-- [ ] Hindi prose adds nothing and omits nothing relative to the English; no doctrinal point flattened.
+- [ ] Hindi reads in plain, conversational "chai" register — everyday Hindustani, short clear sentences, no heavy Sanskritized vocabulary, no lofty titles or jargon dumps; technical terms glossed plainly.
+- [ ] Commentator names transliterated with the source's one-clause identification preserved.
+- [ ] Hindi prose adds nothing and omits nothing relative to the English; no doctrinal point flattened despite the plainer wording.
 - [ ] No bullet lists or sub-headers introduced; no em-dashes added to body prose.
 - [ ] Saved to `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/hi/Days/<Chapter-folder>/<DAY_NUMBER>.md`; no English source or `1-SOURCES/` file modified.
 - [ ] Diff against source shows only the three translated bodies and the added `translated_from:` line changed.

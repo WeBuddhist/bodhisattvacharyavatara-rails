@@ -17,15 +17,60 @@ This catalog lists all known related resources for the *Bodhisattvacaryāvatāra
 
 ## Summary Statistics
 
-| Resource Type | མིང་། | Count |
-|---|---|---|
-| Written Commentaries | འགྲེལ་བ། {ཡི་གེ} | 98 |
-| Summary Outlines | བསྡུས་དོན། | 14 |
-| Structural Outlines | ས་བཅད། | 7 |
-| Other Related Materials | རྒྱུ་ཆ་གཞན། | 14 |
-| Teachings — Audio / Video | དཔེ་ཁྲིད། {སྒྲའམ་བརྙན་} | 5 |
-| Unclassified | — | 3 |
-| **Total (unique)** | | **141** |
+| Resource Type             | མིང་།                   | Count   |
+| ------------------------- | ----------------------- | ------- |
+| Written Commentaries      | འགྲེལ་བ། {ཡི་གེ}        | 98      |
+| Summary Outlines          | བསྡུས་དོན།              | 14      |
+| Structural Outlines       | ས་བཅད།                  | 7       |
+| Other Related Materials   | རྒྱུ་ཆ་གཞན།             | 14      |
+| Teachings — Audio / Video | དཔེ་ཁྲིད། {སྒྲའམ་བརྙན་} | 5       |
+| Unclassified              | —                       | 3       |
+| **Total (unique)**        |                         | **141** |
+
+---
+
+## Book IDs (catalog codes)
+
+Every in-vault source carries a vault-internal catalog code in its `book_id` frontmatter field, built per the cataloging convention in [`../About Sources.md`](../About%20Sources.md) §3a:
+
+```
+[Root Title]-[Language & Resource Type]-[Century][Author Code]
+```
+
+**Root-title code registered for this vault:**
+
+| Root title | Code | Notes |
+| ---------- | ---- | ----- |
+| *Bodhicaryāvatāra* (*Bodhisattvacaryāvatāra*) | `BCA` | The vault's only root text. |
+
+**Language codes used in this vault:** `EN` English · `BO` Tibetan · `SA` Sanskrit, plus `ZH` Chinese (vault extension for the Chinese commentaries). **Resource type:** `V` version/translation of the root text · `C` commentary.
+
+**Catalog codes for the registered commentaries.** Author codes are the uppercase initials of each commentator; the century is the century the work was composed. Centuries marked `··` are not yet verified against the source colophon and must be confirmed before the code is finalised (the code is not stable until the century is filled). Like `registered_id`, a `book_id` never changes once assigned.
+
+| `registered_id`        | Author                                                  | `book_id`       | Century basis                                              |
+| ---------------------- | ------------------------------------------------------- | --------------- | ---------------------------------------------------------- |
+| `prajnakaramati`       | ཤེས་རབ་འབྱུང་གནས་བློ་གྲོས། / Prajñākaramati             | `BCA-BOC-11PKM` | c. 11th c. (Tibetan translation of the Sanskrit *pañjikā*) |
+| `kunpal`               | མཁན་པོ་ཀུན་དཔལ། / Khenpo Kunpal                         | `BCA-BOC-20KP`  | early 20th c.                                              |
+| `mipham`               | འཇུ་མི་ཕམ། / Ju Mipham                                  | `BCA-BOC-19JM`  | late 19th c.                                               |
+| `khenpo-zhengah`       | མཁན་པོ་གཞན་དགའ། / Khenpo Zhenga                         | `BCA-BOC-20KZ`  | early 20th c.                                              |
+| `gyaltsab`             | རྒྱལ་ཚབ་དར་མ་རིན་ཆེན། / Gyaltsab Darma Rinchen          | `BCA-BOC-15GDR` | early 15th c.                                              |
+| `minyak-kunzang-sonam` | མི་ཉག་ཀུན་བསོད། / Minyak Kunzang Sönam                  | `BCA-BOC-19MKS` | 19th c.                                                    |
+| `ngulchu-thogmed`      | དངུལ་ཆུ་ཐོགས་མེད། / Ngülchu Thogmé (Thogme Zangpo)      | `BCA-BOC-14TZ`  | 14th c. ⚑                                                  |
+| `sabzang`              | ས་བཟང་མ་ཏི་པཎ་ཆེན། / Sabzang Mati Paṇchen               | `BCA-BOC-14SMP` | 14th c.                                                    |
+| `druk-kunkhyen`        | འབྲུག་ཀུན་མཁྱེན་པདྨ་དཀར་པོ། / Druk Kunkhyen Pema Karpo  | `BCA-BOC-16PK`  | 16th c.                                                    |
+| `zhechen-gyaltshab`    | ཞེ་ཆེན་རྒྱལ་ཚབ། / Zhechen Gyaltsab                      | `BCA-BOC-20ZG`  | early 20th c.                                              |
+| `karma-lodo`           | ཀརྨ་བློ་གྲོས་ཆོས་དཔལ་བཟང་པོ། / Karma Lodrö Chöpelzangpo | `BCA-BOC-··KLC` | century to verify                                          |
+| `khenpo-kunga`         | མཁན་པོ་ཀུན་དགའ་དབང་ཕྱུག / Khenpo Kunga Wangchuk         | `BCA-BOC-··KKW` | century to verify                                          |
+| `tsawa-nyag`           | ཚྭ་ཉག་ཤེས་རབ་མཐར་ཕྱིན། / Tsawa Nyag Sherab Tharchin     | `BCA-BOC-··TN`  | century to verify                                          |
+| `drak-gyap`            | བྲག་གཡབ་བློ་གྲོས། / Drakgyap Lodrö                      | `BCA-BOC-··DGL` | century to verify                                          |
+| `tsechenrab`           | (author placeholder)                                    | `BCA-BOC-··—`   | resolve author then assign                                 |
+| `lozang-pelzang`       | ལོ་ཙཱ་བ་བློ་གྲོས་དཔལ་བཟང་། / Lotsāwa Lodrö Pelzang      | `BCA-BOC-··LP`  | century to verify                                          |
+| `nakpopa`              | ནག་པོ་པ། / Kṛṣṇapāda                                    | `BCA-BOC-··NKP` | century to verify                                          |
+| `ksemadeva`            | དགེ་བའི་ལྷ། / Kṣemadeva                                 | `BCA-BOC-··KD`  | century to verify                                          |
+| `wuzheng`              | 无著菩萨 / Sodargye translation                             | `BCA-ZHC-··WZ`  | century to verify                                          |
+| `dalai-lama-14`        | 第十四世達賴喇嘛 / 14th Dalai Lama                              | `BCA-ZHC-21DL`  | 20th–21st c.                                               |
+
+⚑ The convention's worked example in `About Sources.md` §3a renders Thogme Zangpo as `BCA-BOC-12TZ`; historically he is 14th-century (1295–1369), so this roster uses `14TZ`. Confirm the intended century before finalising.
 
 ---
 

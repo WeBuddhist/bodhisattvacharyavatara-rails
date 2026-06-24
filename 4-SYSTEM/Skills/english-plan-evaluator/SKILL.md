@@ -26,7 +26,7 @@ It is the QA companion to `english-plan-generator`. Every criterion below mirror
    - `3-TRANSFORMATIONS/Translations/en-ai/Verses/<verse-id>.md` (interim) or `2-RAILS/Verses/<verse-id>.md` (preferred).
    - `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/assets/liturgy.md` (fixed liturgy).
    - `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` and `3-TRANSFORMATIONS/Translations/en-ai/en-AI-generated-root-loden-sherab.md` (verse text).
-   - `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/assets/schedule.md` (expected chapter and verse range).
+   - `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/assets/schedule-corrected.md` (expected chapter and verse range).
 
 Read the day file and every relevant source before scoring. Do not score grounding from memory.
 

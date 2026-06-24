@@ -16,7 +16,7 @@
 | `2-RAILS` | `Sections/<node-id>.md` | Section context for transition days |
 | `3-TRANSFORMATIONS` | `en-ai/en-AI-generated-root-loden-sherab.md` | AI English translation — locate verses by block ID |
 | `3-TRANSFORMATIONS` | `en-ai/Verses/<verse-id>.md` | Interim commentary summaries (fallback only) |
-| Plan Assets | `en/assets/schedule.md` | Verse schedule — maps day numbers to chapter + verse range |
+| Plan Assets | `en/assets/schedule-corrected.md` | Verse schedule — maps day numbers to chapter + verse range |
 | Plan Assets | `en/assets/liturgy.md` | Fixed liturgy — reproduced verbatim in §2.2 and §2.5 |
 | Plan Contracts | `en/requirements.md` | Style contract — all rules binding |
 | Plan Contracts | `en/termbase.md` | Vocabulary contract — one rendering per keyword |
@@ -33,7 +33,7 @@
 ### Step 2 — Identify Day & Verse Range
 
 > [!info] Scheduling · Cross-reference Lookup
-> Determine the day number (1–365). Look up chapter and verse range in `en/assets/schedule.md` if not provided.
+> Determine the day number (1–365). Look up chapter and verse range in `en/assets/schedule-corrected.md` if not provided.
 
 ### Step 3 — Rail Status Check ⬦ Decision Point
 

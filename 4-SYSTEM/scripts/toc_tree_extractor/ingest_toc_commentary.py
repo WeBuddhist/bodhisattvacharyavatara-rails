@@ -13,10 +13,17 @@ For each TOC entry the script tries TWO ways to locate where it belongs:
 Heading format (all depths):
     * <decimal> <title>
 
+Fixes applied:
+  - Sibling constraint: search starts after the previous sibling's located line,
+    not just after the parent. Prevents matching early enumeration/preview blocks
+    where upcoming section titles are listed before the sections actually begin.
+  - Clamped sort order: when multiple entries clamp to the same line, they are
+    sorted by their natural (pre-clamp) text position, not arbitrary insertion order.
+
 Usage:
     python 4-SYSTEM/scripts/toc_tree_extractor/ingest_toc_commentary.py \\
-        0-INBOX/toc-tree-kunpal.md \\
-        1-SOURCES/Commentaries/BCAC10_DR1_bo.md
+        0-INBOX/toc-tree-BCAC20_TG_bo.md \\
+        1-SOURCES/Commentaries/BCAC20_TG_bo.md
 
 Output defaults to: 0-INBOX/<source_stem>.toc.md
 """
@@ -184,9 +191,11 @@ def main():
     print("Out:    {}".format(out_path))
     print()
 
-    # insertions[line_idx] = [heading, ...]
+    # insertions[line_idx] = [(natural_line, heading), ...]
+    # natural_line = where context was actually found (before clamping), used for sort order
     insertions = {}
-    dec_line = {}  # dec -> located line index (for parent chaining)
+    dec_line = {}        # dec -> located line index (for parent chaining)
+    depth_last_line = {} # depth -> last natural line located at that depth (sibling constraint)
 
     def parent_dec(dec):
         parts = dec.split(".")
@@ -207,38 +216,67 @@ def main():
         return line_to_canon_pos(offsets, pl + 1) if pl is not None else 0
 
     for dec, title, ctx in entries:
-        heading = "* <{}> {}".format(dec, title)
-        after_cp = after_pos_for(dec)
+        depth = len(dec.split("."))
+        block_id = "^" + dec.replace(".", "-") + "-0"
+        heading = "{} {} {}".format("#" * depth, title, block_id)
+
         parent_line = parent_line_for(dec)
+        after_cp = after_pos_for(dec)
+
+        # Sibling constraint: search AFTER the previous sibling at this depth.
+        # This prevents matching an early enumeration/preview block where
+        # upcoming section titles are listed before the sections actually begin.
+        prev_sib_line = depth_last_line.get(depth)
+        if prev_sib_line is not None:
+            prev_sib_cp = line_to_canon_pos(offsets, prev_sib_line + 1)
+            if prev_sib_cp > after_cp:
+                after_cp = prev_sib_cp
+
         located_line = None
+        natural_line = None   # where context was found before any clamping
         score = 0.0
         method = ""
 
         def _search(query, after, label):
-            """Search with after constraint; if not found retry from 0."""
+            """Search with after constraint; if not found, retry strategies:
+            1. Full-text from 0 (catches contexts extracted from early enumeration blocks).
+            2. If full-text finds a match BEFORE `after`, look for a second occurrence
+               after `after` — the first occurrence was likely a preview/enumeration block,
+               the second is the actual section opening.
+            """
             cp, sc = find_in_canon(canon_text, query, after_pos=after,
                                    min_match=args.min_match)
             if cp is not None:
                 return cp, sc, label
-            # retry full-text — Tibetan commentaries often announce sub-sections
-            # early (enumeration block) before the section body appears
-            cp, sc = find_in_canon(canon_text, query, after_pos=0,
-                                   min_match=args.min_match)
-            if cp is not None:
-                return cp, sc, label + "(full)"
-            return None, sc, label
+            # full-text retry — context may have come from an early enumeration block
+            cp0, sc0 = find_in_canon(canon_text, query, after_pos=0,
+                                     min_match=args.min_match)
+            if cp0 is None:
+                return None, sc0, label
+            # If the full-text hit is BEFORE the sibling/parent constraint, look for a
+            # later occurrence (the actual section body rather than the preview).
+            if cp0 < after:
+                # search again starting just past the first hit
+                cp2, sc2 = find_in_canon(canon_text, query,
+                                         after_pos=cp0 + 1,
+                                         min_match=args.min_match)
+                if cp2 is not None and cp2 >= after:
+                    return cp2, sc2, label + "(body)"
+            return cp0, sc0, label + "(full)"
 
         # strategy 1: context match
         if ctx and ctx != "?":
             cp, score, method = _search(tib_canon(ctx), after_cp, "ctx")
             if cp is not None:
                 located_line = canon_pos_to_line(offsets, cp)
+                natural_line = located_line
 
         # strategy 2: title match
         if located_line is None:
             cp, score, method = _search(tib_canon(title), after_cp, "title")
             if cp is not None:
                 located_line = canon_pos_to_line(offsets, cp)
+                natural_line = located_line
 
         # clamp: never insert before parent — keeps output order consistent
         if located_line is not None and parent_line is not None:
@@ -246,24 +284,32 @@ def main():
                 located_line = parent_line + 1
                 method += "+clamped"
 
+        # Update sibling tracker using natural position (pre-clamp) so the
+        # next sibling searches from where this entry was actually found.
+        if natural_line is not None:
+            depth_last_line[depth] = natural_line
+
         dec_line[dec] = located_line
 
         if located_line is not None:
             print("  [{}] score={:3.0%}  line {:4}  [{}]  {}".format(
                 dec, score, located_line + 1, method, title[:50]))
-            insertions.setdefault(located_line, []).append(heading)
+            nat = natural_line if natural_line is not None else located_line
+            insertions.setdefault(located_line, []).append((nat, heading))
         else:
             fallback_line = (parent_line + 1) if parent_line is not None else 0
             print("  [{}] NO MATCH  [fallback line {}]  {}".format(
                 dec, fallback_line + 1, title[:50]))
             insertions.setdefault(fallback_line, []).append(
-                heading + "  <!-- not found -->")
+                (fallback_line, heading + "  <!-- not found -->"))
 
-    # Rebuild file with headings injected (blank line before and after each block)
+    # Rebuild file with headings injected (blank line before and after each block).
+    # Multiple headings at the same line are sorted by natural (pre-clamp) position.
     out_lines = []
     for i, line in enumerate(lines):
-        heads = insertions.get(i, [])
-        if heads:
+        pairs = insertions.get(i, [])
+        if pairs:
+            heads = [h for _, h in sorted(pairs, key=lambda x: x[0])]
             if out_lines and out_lines[-1].strip():
                 out_lines.append("\n")
             for h in heads:
@@ -273,7 +319,7 @@ def main():
 
     for i in sorted(k for k in insertions if k >= len(lines)):
         out_lines.append("\n")
-        for h in insertions[i]:
+        for _, h in sorted(insertions[i], key=lambda x: x[0]):
             out_lines.append(h + "\n")
 
     out_path.parent.mkdir(parents=True, exist_ok=True)

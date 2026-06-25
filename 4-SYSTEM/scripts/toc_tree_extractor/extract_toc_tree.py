@@ -362,11 +362,11 @@ OUTPUT — emit ONLY the TOC block, exactly in this shape and nothing else:
 
 ## དཀར་ཆག / Table of Contents
 
-* 1. <clean text> (<context>)
-   * 1.1 <clean text> (<context>)
+* 1. <clean text> [[<context>]]
+   * 1.1 <clean text> [[<context>]]
       * 1.1.1 <clean text>
-   * 1.2 <clean text> (<context>)
-* 2. <clean text> (<context>)
+   * 1.2 <clean text> [[<context>]]
+* 2. <clean text> [[<context>]]
 
 ---
 
@@ -381,13 +381,13 @@ FORMAT RULES (follow exactly):
    - counters reset for deeper levels whenever you move up to a shallower level
    - cover the whole document; do not drop branches. Output Tibetan, no English,
      no commentary, no code fences.
-   - each entry is TITLE followed by CONTEXT: "<clean title> (<context>)"
+   - each entry is TITLE followed by CONTEXT: "<clean title> [[<context>]]"
      The context is taken from the CONTEXT: field of the matching candidate — copy
-     the full CONTEXT value (before + after surrounding words) verbatim into the
-     parentheses. If no matching candidate has a CONTEXT field, or if the context
-     is empty, omit the parentheses entirely (write the title only, no trailing "()").
+     the full CONTEXT value (before + after surrounding words) verbatim inside the
+     double brackets. If no matching candidate has a CONTEXT field, or if the context
+     is empty, omit the brackets entirely (write the title only, no trailing "[[]]").
      For gap-filled nodes (parts inserted from enumerations with no candidate),
-     omit the parentheses.
+     omit the brackets.
    - no trailing particle, no ། , no ⟨gap⟩ or any other marker on any entry.
 """
 
@@ -455,11 +455,11 @@ The QC pass FOCUSES ON FOUR THINGS — do these and little else:
    present in the enumerations/candidates.
 
 ALSO tidy: indentation must be 3 spaces × (depth − 1); remove duplicate decimals; repair
-malformed lines. Each entry has the form "<title> (<context>)" — PRESERVE the trailing
-"(<context>)" suffix on every existing entry; do NOT remove or alter context suffixes.
+malformed lines. Each entry has the form "<title> [[<context>]]" — PRESERVE the trailing
+"[[<context>]]" suffix on every existing entry; do NOT remove or alter context suffixes.
 Strip any trailing division clause (ལ་གཉིས་ཏེ། ...) or particle (ནི། ལ། འོ། ...) and any
-trailing ། from the TITLE part only (before the context parenthesis). When inserting a
-gap node, omit the context parenthesis. Do NOT add ^toc block IDs.
+trailing ། from the TITLE part only (before the context brackets). When inserting a
+gap node, omit the context brackets. Do NOT add ^toc block IDs.
 
 DO NOT: reorder or reword the topic of existing real nodes; change Tibetan text; turn
 doctrinal/content lists into nodes; or INVENT a Tibetan ordinal where neither the node nor
@@ -658,8 +658,8 @@ _TREE_LINE_RE = re.compile(
     r"^(?P<indent>\s*)\*\s+(?P<dec>\d+(?:\.\d+)*)\.?\s+"
     r"(?P<text>.*?)(?:\s*\^toc-[\d-]+)?\s*$"
 )
-# Strips a trailing " (context…)" from a tree entry's text for QC purposes.
-_CONTEXT_SUFFIX_RE = re.compile(r"\s*\([^)]*\)\s*$")
+# Strips a trailing " [[context…]]" from a tree entry's text for QC purposes.
+_CONTEXT_SUFFIX_RE = re.compile(r"\s*\[\[.*?\]\]\s*$", re.DOTALL)
 
 # Min fraction of a title's Tibetan-syllable bigrams that must be found in the
 # candidates+enumerations corpus before we accept a reworded (non-verbatim) title

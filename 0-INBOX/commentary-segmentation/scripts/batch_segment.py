@@ -39,13 +39,23 @@ from pathlib import Path
 
 # ---------------------------------------------------------------------------
 # Import the two stage modules from the same directory so we can call their
-# process() functions directly instead of spawning subprocesses — eliminates
+# process() functions directly instead of spawning subprocesses -- eliminates
 # per-file Python startup overhead.
+# Always load from .py source (bypasses stale __pycache__ .pyc files).
 # ---------------------------------------------------------------------------
+import types as _types
+
+def _load_source(name, path):
+    """Load a module from a .py file, bypassing __pycache__."""
+    src = Path(path).read_text(encoding="utf-8")
+    mod = _types.ModuleType(name)
+    mod.__file__ = str(path)
+    exec(compile(src, str(path), "exec"), mod.__dict__)
+    return mod
+
 _HERE = Path(__file__).parent
-sys.path.insert(0, str(_HERE))
-import preclean_commentary as preclean  # noqa: E402
-import segment_commentary as segment    # noqa: E402
+preclean = _load_source("preclean_commentary", _HERE / "preclean_commentary.py")
+segment  = _load_source("segment_commentary",  _HERE / "segment_commentary.py")
 
 
 # ---------------------------------------------------------------------------
@@ -59,7 +69,6 @@ def _inject_status(text: str, status: str = "segmented") -> str:
     m = _FM_RE.match(text)
     if m:
         fence_open, body, fence_close = m.group(1), m.group(2), m.group(3)
-        # Replace existing status line or append
         if re.search(r"^status\s*:", body, re.MULTILINE):
             body = re.sub(r"^status\s*:.*$", f"status: {status}", body,
                           flags=re.MULTILINE)
@@ -80,14 +89,13 @@ def _process_one(args):
      max_syllables, dry_run, force) = args
 
     inp = Path(input_path)
-    stem = inp.stem  # e.g. "khenpo-namdrol-ch1"
+    stem = inp.stem
 
     out_segmented = Path(output_dir) / f"{stem}.md"
     out_preclean  = Path(output_dir) / f"{stem}.preclean.md"
     rep_preclean  = Path(reports_dir) / f"{stem}.preclean.tsv"
     rep_segment   = Path(reports_dir) / f"{stem}.segreport.tsv"
 
-    # Skip if output already exists
     if not force and out_segmented.exists():
         return {
             "file": inp.name, "status": "skipped",
@@ -156,11 +164,10 @@ def _process_one(args):
             "quote_open": n_quote_open, "quote_close": n_quote_close,
             "quote_status": quote_status,
             "elapsed_s": round(elapsed, 3), "error": "",
-            "_report": report,  # carried for flagged rows only
+            "_report": report,
         }
 
     except SystemExit as e:
-        # assert_no_loss calls sys.exit() on failure — catch it here
         elapsed = time.perf_counter() - t0
         return {
             "file": inp.name, "status": "ABORT",
@@ -204,6 +211,8 @@ def main(argv):
                     help="Directory for TSV reports (default: OUTPUT_DIR/reports)")
     ap.add_argument("--dry-run",        action="store_true",
                     help="Validate but do not write any output files")
+    ap.add_argument("--files", nargs="+", metavar="FILENAME",
+                    help="Process only these filenames (names only, not paths)")
     args = ap.parse_args(argv[1:])
 
     input_dir  = Path(args.input_dir)
@@ -211,6 +220,9 @@ def main(argv):
     reports_dir = Path(args.reports) if args.reports else output_dir / "reports"
 
     files = sorted(input_dir.glob(f"*{args.ext}"))
+    if args.files:
+        wanted = set(args.files)
+        files = [f for f in files if f.name in wanted]
     if not files:
         sys.exit(f"No {args.ext} files found in {input_dir}")
 
@@ -223,8 +235,6 @@ def main(argv):
         for f in files
     ]
 
-    # Use a pool only when workers > 1 to keep tracebacks readable in single-
-    # worker mode (common during testing).
     t_start = time.perf_counter()
     if args.workers == 1:
         results = [_process_one(t) for t in tasks]
@@ -233,7 +243,6 @@ def main(argv):
             results = list(pool.imap_unordered(_process_one, tasks, chunksize=8))
     elapsed_total = time.perf_counter() - t_start
 
-    # ---- Collect flagged rows across all files ----
     flagged_rows = []
     for res in results:
         if res.get("_report"):
@@ -245,7 +254,6 @@ def main(argv):
                         "flag": r["flag"], "preview": r["preview"],
                     })
 
-    # ---- Write batch summary ----
     if not args.dry_run:
         output_dir.mkdir(parents=True, exist_ok=True)
         summary_path = output_dir / "batch_summary.tsv"
@@ -267,7 +275,6 @@ def main(argv):
             w.writeheader()
             w.writerows(flagged_rows)
 
-    # ---- Print summary ----
     n_ok      = sum(1 for r in results if r["status"] == "ok")
     n_skip    = sum(1 for r in results if r["status"] == "skipped")
     n_abort   = sum(1 for r in results if r["status"] in ("ABORT", "ERROR"))

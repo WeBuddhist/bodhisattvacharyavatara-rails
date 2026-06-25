@@ -27,6 +27,7 @@ from pathlib import Path
 TSHEG     = "་"   # Tibetan mark intersyllabic tsheg
 SHAD      = "།"   # Tibetan mark shad
 NYIS_SHAD = "༎"   # Tibetan mark nyis shad
+HONOR     = "༄༅"  # Tibetan honorific mark (text/section opener)
 
 FRONTMATTER_RE = re.compile(r"^---\n.*?\n---\n", re.DOTALL)
 BLOCK_ID_RE    = re.compile(r"\s*\^[A-Za-z0-9_-]+")
@@ -40,7 +41,7 @@ BARE_HEADING_RE= re.compile(r"^#{1,6}\s*$",             re.MULTILINE)
 HASH_RE        = re.compile(r"#+")
 LATIN_RE       = re.compile(r"[a-zA-Z]+")
 ASCII_DIGIT_RE = re.compile(r"[0-9]+")
-REPLACEMENT_RE = re.compile(r"�+")
+REPLACEMENT_RE = re.compile("\ufffd+")
 
 SEP = "\n\n"
 
@@ -106,8 +107,18 @@ def process(text):
             run = re.sub(r"\s+", " ", " ".join(s.strip() for s in buf)).strip()
             # Remove spurious spaces after tsheg (line-break artefacts)
             run = re.sub(TSHEG + r" +", TSHEG, run)
-            if run:
-                blocks.append(("prose", run))
+            # Remove spurious space after honorific mark (༄༅། །) before text
+            run = re.sub(r"(" + HONOR + SHAD + r"\s" + SHAD + r")\s+(?=[ཀ-ྼ])",
+                         r"\1", run)
+            # Split at double-shad (། །) sentence boundaries not part of the
+            # honorific mark: (?<!༅) ensures we don't split the prefix.
+            run = re.sub(r"(?<!༅)(" + SHAD + r"\s" + SHAD + r")\s+(?=[ཀ-ྼ])",
+                         lambda m: m.group(1) + "\n\n", run)
+            # Split before honorific marks appearing mid-run.
+            run = re.sub(r"\s+(?=" + HONOR + r")", "\n\n", run)
+            for part in (p.strip() for p in run.split("\n\n")):
+                if part:
+                    blocks.append(("prose", part))
             buf.clear()
 
     for ln in body.split("\n"):
@@ -125,7 +136,25 @@ def process(text):
             continue
         if ln.strip():
             buf.append(ln)
+        else:
+            flush()  # blank line = paragraph separator
     flush()
+
+    # Merge standalone honorific-mark blocks (bare "༄༅། །" with no Tibetan
+    # content after it) into the following prose block -- the mark is a prefix.
+    merged, i = [], 0
+    while i < len(blocks):
+        kind, text = blocks[i]
+        if (kind == "prose"
+                and text.startswith(HONOR)
+                and not re.search(r"[ཀ-ྼ]", text[len(HONOR):])):
+            if i + 1 < len(blocks) and blocks[i + 1][0] == "prose":
+                merged.append(("prose", text + blocks[i + 1][1]))
+                i += 2
+                continue
+        merged.append(blocks[i])
+        i += 1
+    blocks[:] = merged
 
     out = []
     if head:

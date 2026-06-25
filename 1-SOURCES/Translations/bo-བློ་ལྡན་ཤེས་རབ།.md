@@ -1,6 +1,6 @@
 ---
 title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
-translator: Sarvajñādeva; Bande Paltsek; Dharmaśrībhadra; Rinchen Zangpo; Śākya-blo-gros; Sumatikīrti; Blo ldan shes rab
+translator: Sarvajñādeva་[bdrc:]; Bande Paltsek; Dharmaśrībhadra; Rinchen Zangpo; Śākya-blo-gros; Sumatikīrti; Blo ldan shes rab
 language: Tibetan
 file_type: translation
 lang_tag: bo

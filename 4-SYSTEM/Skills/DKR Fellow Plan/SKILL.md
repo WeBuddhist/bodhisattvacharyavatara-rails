@@ -26,16 +26,16 @@ A 5-section practice plan document that:
 | File | Purpose |
 |---|---|
 | `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\1-SOURCES\Translations\bo-བློ་ལྡན་ཤེས་རབ།.md` | **Root text** — canonical Tibetan translation by Blo ldan shes rab. Read this file and extract verses ^10-45 through ^10-58 exactly. Never quote verses from memory. |
-| `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\0-INBOX\DKR-Fellow\schedule.md` | **Schedule** — confirms Day 63 = Chapter 10, Verses 45–58 (10.45–10.58). Read this to verify the assignment before extracting verses. |
-| `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\0-INBOX\DKR-Fellow\All-Plans-in-One.md` | **DKR's teaching — pre-assigned by day.** The Day-63 section (heading `## Day-63-Ch10-V45-58`) contains DKR's teaching for this day at blocks **^9-39 through ^9-43**. Copy these blocks verbatim into Section 3 — do not generate or paraphrase. |
+| `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\3-TRANSFORMATIONS\Plans\DKR-Fellow\schedule.md` | **Schedule** — confirms Day 63 = Chapter 10, Verses 45–58 (10.45–10.58). Read this to verify the assignment before extracting verses. |
+| `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\3-TRANSFORMATIONS\Plans\DKR-Fellow\All-Plans-in-One.md` | **DKR's teaching — pre-assigned by day.** The Day-63 section (heading `## Day-63-Ch10-V45-58`) contains DKR's teaching for this day at blocks **^9-39 through ^9-43**. Copy these blocks verbatim into Section 3 — do not generate or paraphrase. |
 
 ---
 
 ## Step 1 — Verify the assignment
 
-1. Read `0-INBOX/DKR-Fellow/schedule.md` and confirm Day 63 = 10.45–10.58.
+1. Read `3-TRANSFORMATIONS/Plans/DKR-Fellow/schedule.md` and confirm Day 63 = 10.45–10.58.
 2. Read `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` and locate verses ^10-45 through ^10-58. Extract their exact text.
-3. Read `0-INBOX/DKR-Fellow/All-Plans-in-One.md`, section `## Day-63-Ch10-V45-58`, blocks ^9-39 through ^9-43. These are the pre-assigned DKR teaching paragraphs for Day 63 — copy them verbatim for Section 3.
+3. Read `3-TRANSFORMATIONS/Plans/DKR-Fellow/All-Plans-in-One.md`, section `## Day-63-Ch10-V45-58`, blocks ^9-39 through ^9-43. These are the pre-assigned DKR teaching paragraphs for Day 63 — copy them verbatim for Section 3.
 
 Do not write any content until all three reads are complete.
 
@@ -155,7 +155,7 @@ Open with the heading `### ༢། དེ་རིང་གི་རྩ་ཚི�
 
 **No prose in this section — root verses only.**
 
-1. Read `0-INBOX/DKR-Fellow/schedule.md` to confirm Day 63 = verses 10.45–10.58.
+1. Read `3-TRANSFORMATIONS/Plans/DKR-Fellow/schedule.md` to confirm Day 63 = verses 10.45–10.58.
 2. Read `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` and extract verses ^10-45 through ^10-58 exactly.
 3. For each verse, output:
    - **Header**: `#### **[verse number in Tibetan numerals]. ཤློཀ་[ordinal word]།** (ལེའུ་ ༡༠ ཤློཀ་ [verse number in Tibetan numerals])`
@@ -171,16 +171,22 @@ Open with the heading `### ༢། དེ་རིང་གི་རྩ་ཚི�
 
 Open with the heading `### ༣། གསུང་ཆོས།`.
 
+Immediately after that heading, add the day's teaching title as a `####` subheading, taken verbatim from the `###` sub-heading found inside that day's section in `All-Plans-in-One.md`. For Day 63 this is:
+
+```
+#### དངོས་པོའི་གནས་ཚུལ་རྟོགས་པའི་མཐའ་སྡོམ།
+```
+
 **Do not generate or paraphrase.** Copy the pre-assigned DKR teaching paragraphs verbatim from `0-INBOX/DKR-Fellow/All-Plans-in-One.md`.
 
 #### Source pipeline for Section 3
 
-Read the `## Day-63-Ch10-V45-58` section of `All-Plans-in-One.md` (under the sub-heading `#### དངོས་པོའི་གནས་ཚུལ་རྟོགས་པའི་མཐའ་སྡོམ།`) and copy blocks **^9-39 through ^9-43** exactly as they appear, preserving paragraph breaks.
+Read the `## Day-63-Ch10-V45-58` section of `All-Plans-in-One.md`. The `###` sub-heading immediately following the day header is the teaching title — include it as `####` in the plan. Then copy blocks **^9-39 through ^9-43** exactly as they appear, preserving paragraph breaks.
 
 After the final block, add a single citation line:
 
 ```
-**མཆན།**: [[0-INBOX/DKR-Fellow/All-Plans-in-One.md#^9-39|All-Plans-in-One ^9-39–^9-43]]
+**མཆན།**: [[3-TRANSFORMATIONS/Plans/DKR-Fellow/All-Plans-in-One.md#^9-39|All-Plans-in-One ^9-39–^9-43]]
 ```
 
 > ⚠️ Critical: copy the blocks exactly — do not rephrase, summarise, or supplement with any other material.
@@ -244,7 +250,7 @@ Write **exactly 1 practical application point** in Tibetan:
 Combine all sections into the complete document and write it to:
 
 ```
-C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\0-INBOX\DKR-Fellow\Day-63-Ch10-V45-58.md
+C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\3-TRANSFORMATIONS\Plans\DKR-Fellow\Day-63-Ch10-V45-58.md
 ```
 
 After writing, present the file and confirm it was written successfully.
@@ -297,6 +303,7 @@ Ordinal word forms for Chapter 10 verses (45–58):
 - [ ] Section 1 and Section 4 match the fixed prayer texts **exactly** — do not paraphrase or alter
 - [ ] Section 2 — verses ^10-45 through ^10-58 found in source file and copied exactly; each verse has a header following `#### **N. ཤློཀ་[ordinal]།** (ལེའུ་ ༡༠ ཤློཀ་ N)` — parenthetical outside the bold
 - [ ] Section 2 — no prose, no commentary — root verses only
+- [ ] Section 3 — teaching title included as `####` subheading immediately after `### ༣། གསུང་ཆོས།`, taken from the `###` sub-heading in that day's All-Plans-in-One section
 - [ ] Section 3 — blocks ^9-39 through ^9-43 copied verbatim from `All-Plans-in-One.md` (Day-63 section); ends with a **མཆན།** citation line referencing `All-Plans-in-One ^9-39–^9-43`
 - [ ] Section 3 — no generated, paraphrased, or supplemented content; text matches source exactly
 - [ ] Section 5 — exactly 1 application point; first person singular (ངས་ / ང་རང་); concrete and actionable; sealed with final particle
@@ -305,5 +312,5 @@ Ordinal word forms for Chapter 10 verses (45–58):
 - [ ] No ང་ཚོས་ / ང་ཚོ་ anywhere in the document
 - [ ] No Dzongkha-style phrasing
 - [ ] Classical Tibetan literary register maintained; Śāntideva = རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷ།; DKR = རྫོང་སར་མཁྱེན་བརྩེ་རིན་པོ་ཆེ།
-- [ ] Output written to `0-INBOX/DKR-Fellow/Day-63-Ch10-V45-58.md`
+- [ ] Output written to `3-TRANSFORMATIONS/Plans/DKR-Fellow/Day-63-Ch10-V45-58.md`
 - [ ] File presented to user after writing

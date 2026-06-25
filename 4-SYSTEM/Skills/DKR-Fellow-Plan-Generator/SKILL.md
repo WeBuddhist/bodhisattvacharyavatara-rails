@@ -88,6 +88,9 @@ Keep modifier chains to **one level deep**. Rewrite deeper stacks as two clauses
 - ❌ ང་ཚོས་ / ང་ཚོ་ anywhere in the document
 - ❌ Stacked relative clauses: X-བའི་ Y-བའི་ Z — rewrite as two clauses
 - ❌ Ending a paragraph on a subordinate particle (ཞིང་, ནས་, ལ་) — always close with a full final particle
+- ❌ **བགྱི་** as a first-person verb — this is Dzongkha-style honorific, wrong for a practitioner's own voice. Use བྱ་ / བྱེད་ / བྱ་རྒྱུ་ / བྱ་བ་ཡིན་ instead.
+- ❌ **གནད་དུ་ཕབ་** paired with **བསམ་གཏན་** — unnatural collocation. Use ཡིད་གཏད་དེ / སེམས་བཞག་སྟེ / དྲན་པ་གཏད་དེ.
+- ❌ **ཕྱི་ལོར་ + ཐོབ་ངེས་མིན་** — fabricated compound not found in the tradition. To express "hard to obtain again later" follow the verse: ཕྱིར་ཐོབ་དཀའ་བས / ཕྱིས་འབྱོར་དཀའ་བས.
 
 ---
 
@@ -242,7 +245,7 @@ Write **exactly 1 practical application point** in Tibetan:
 The following example from Day 1 shows the required authentic Tibetan writing style: verse teaching cited directly, concrete daily commitment stated plainly, first-person voice throughout, sealed with a full final particle. Match this register and structure:
 
 ```markdown
-**༡. དལ་འབྱོར་རིན་ཆེན་སྤྱོད་སྟངས།**: རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷས་གསུངས་པ་ལྟར། དལ་འབྱོར་གྱི་མི་ལུས་འདི་རྙེད་དཀའ་ཞིང་ཕྱི་ལོར་ཐོབ་ངེས་མིན་པས། དེ་རིང་བདག་གིས་ལོ་ཙམ་དང་ཉིན་ཙམ་ལ་མི་ལྟོས་པར། ད་ལྟ་བྱང་ཆུབ་ཀྱི་སེམས་ལ་མི་ལྡོག་པར་གོམས་འདྲིས་བྱ་རྒྱུ་ཡིན། རྫོང་སར་མཁྱེན་བརྩེ་རིན་པོ་ཆེའི་གསུང་ལྟར་སྤྱོད་འཇུག་གི་ཡི་གེ་རེ་གཉིས་ཀློག་ཞིང་། ཚིག་གི་དོན་ལ་བསམ་གཏན་གནད་དུ་ཕབ་ཏེ། བདག་གི་ཉིན་ལྟར་གྱི་ལས་ཀར་བྱང་སེམས་ཀྱི་དྲན་པ་རྒྱུན་གཅོད་མི་བྱ་བར་བསྒྲུབ་པར་བགྱི་འགྱུར་རོ།།
+**༡. དལ་འབྱོར་རིན་ཆེན་སྤྱོད་སྟངས།**: རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷས་གསུངས་པ་ལྟར། དལ་འབྱོར་གྱི་མི་ལུས་འདི་རྙེད་དཀའ་ཞིང་ཕྱིར་ཐོབ་དཀའ་བས། དེ་རིང་བདག་གིས་ལོ་ཙམ་དང་ཉིན་ཙམ་ལ་མི་ལྟོས་པར། ད་ལྟ་བྱང་ཆུབ་ཀྱི་སེམས་ལ་མི་ལྡོག་པར་གོམས་འདྲིས་བྱ་རྒྱུ་ཡིན། རྫོང་སར་མཁྱེན་བརྩེ་རིན་པོ་ཆེའི་གསུང་ལྟར་སྤྱོད་འཇུག་གི་ཡི་གེ་རེ་གཉིས་ཀློག་ཞིང་། ཚིག་གི་དོན་ལ་ཡིད་གཏད་དེ། བདག་གི་ཉིན་ལྟར་གྱི་ལས་ཀར་བྱང་སེམས་ཀྱི་དྲན་པ་རྒྱུན་དུ་འཁྱོང་བར་བྱ་བ་ཡིན་ནོ།།
 ```
 
 ---

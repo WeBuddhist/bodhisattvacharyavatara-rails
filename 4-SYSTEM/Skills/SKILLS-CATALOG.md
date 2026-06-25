@@ -273,3 +273,9 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 **Inputs:** One or more terms (or "all") from the Bo column of `2-RAILS/Local-Wiki/BCA-Term-Localization.md`; target languages (default: all six); the Meaning column as the disambiguating source.
 **Outputs:** `2-RAILS/Local-Wiki/BCA-Term-Localization.md` updated in place — En, Zh, Hin, Nep, Rus, Mon cells filled with contextually accurate renderings; novel renderings flagged with `*`.
 → [`BAC-Term-Localization/SKILL.md`](BAC-Term-Localization/SKILL.md)
+
+### `dkr-fellow-plan` **[exists]**
+**Purpose:** Generate the Day-63 practice plan for the 63-day DKR Fellow package. Produces a 5-section Tibetan-language markdown document: (1) fixed Refuge & Bodhicitta prayers, (2) root verses for Chapter 10 V.45–58, (3) DKR's teaching extracted from BCAC21_DKR_bo.md Session 2, (4) fixed Dedication & Aspiration prayers, (5) a concrete daily-life application.
+**Inputs:** `0-INBOX/DKR-Fellow/schedule.md` (verse assignment), `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` (root text verses ^10-45–^10-58), `1-SOURCES/Commentaries/BCAC21_DKR_bo.md` (DKR teaching, Session 2 ^2-1–^2-20).
+**Outputs:** `0-INBOX/DKR-Fellow/Day-63-Ch10-V45-58.md` filled with the complete 5-section practice plan.
+→ [`DKR Fellow Plan/SKILL.md`](DKR%20Fellow%20Plan/SKILL.md)

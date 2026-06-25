@@ -167,11 +167,11 @@ Open with the heading `### ༢། དེ་རིང་གི་རྩ་ཚི�
 
 ---
 
-### Section 3 — གསུང་ཆོས། (DKR's Teaching) [VERBATIM FROM ALL-PLANS-IN-ONE]
+### Section 3 — གསུང་ཆོས། (DKR's Teaching) [VERBATIM FROM DKR-TEACHING-ASSIGNMENT-TO-DAYS]
 
 Open with the heading `### ༣། གསུང་ཆོས།`.
 
-Immediately after that heading, add the day's teaching title as a `####` subheading, taken verbatim from the `###` sub-heading found inside that day's section in `All-Plans-in-One.md`. For Day 63 this is:
+Immediately after that heading, add the day's teaching title as a `####` subheading, taken verbatim from the `###` sub-heading found inside that day's section in `DKR-Teaching-Assignment-to-Days.md`. For Day 63 this is:
 
 ```
 #### དངོས་པོའི་གནས་ཚུལ་རྟོགས་པའི་མཐའ་སྡོམ།
@@ -303,7 +303,7 @@ Ordinal word forms for Chapter 10 verses (45–58):
 - [ ] Section 1 and Section 4 match the fixed prayer texts **exactly** — do not paraphrase or alter
 - [ ] Section 2 — verses ^10-45 through ^10-58 found in source file and copied exactly; each verse has a header following `#### **N. ཤློཀ་[ordinal]།** (ལེའུ་ ༡༠ ཤློཀ་ N)` — parenthetical outside the bold
 - [ ] Section 2 — no prose, no commentary — root verses only
-- [ ] Section 3 — teaching title included as `####` subheading immediately after `### ༣། གསུང་ཆོས།`, taken from the `###` sub-heading in that day's All-Plans-in-One section
+- [ ] Section 3 — teaching title included as `####` subheading immediately after `### ༣། གསུང་ཆོས།`, taken from the `###` sub-heading in that day's DKR-Teaching-Assignment-to-Days section
 - [ ] Section 3 — blocks ^9-39 through ^9-43 copied verbatim from `DKR-Teaching-Assignment-to-Days.md` (Day-63 section); ends with a **མཆན།** citation line referencing `DKR-Teaching-Assignment-to-Days ^9-39–^9-43`
 - [ ] Section 3 — no generated, paraphrased, or supplemented content; text matches source exactly
 - [ ] Section 5 — exactly 1 application point; first person singular (ངས་ / ང་རང་); concrete and actionable; sealed with final particle

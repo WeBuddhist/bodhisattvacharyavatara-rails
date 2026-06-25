@@ -1,148 +1,61 @@
 #!/usr/bin/env python3
 """Stage-0 pre-clean for Tibetan commentary segmentation.
 
-Reverts an already-formatted commentary back to continuous prose so that
-Stage-1 (segment_commentary.py) can re-derive block boundaries from scratch.
-Removes editorial scaffolding only, never a character of body text:
+Removes editorial scaffolding from a Tibetan commentary, producing continuous
+prose suitable for Stage-1 (segment_commentary.py) boundary detection.
 
-  - index / outline numbers: any whitespace-bounded token that consists solely
-    of digits (ASCII 0-9 or Tibetan U+0F20-29) with optional internal dots
-    (hierarchical numbers such as 4.11, 1.2.3) and an optional trailing "."
-    or ")", is treated as scaffolding and removed unconditionally. Covers
-    simple counters (1, 2, 3), terminated counters (1., 2.), section labels
-    (4.11, 1.2.3.), and Tibetan-digit equivalents. Numbers fused to body text
-    (e.g. "ལོ16") are left untouched.
-  - block / verse IDs: Obsidian IDs such as ^0-1, ^1-2, ^1-2-0.
-  - heading block IDs: a heading's trailing block ID is stripped, but the
-    leading #/##/### markup and the heading text are both kept, on their own
-    line, acting as a separator between prose runs.
-  - intra-section line breaks: consecutive content lines within a section are
-    joined into one continuous run. Kept heading-text lines act as separators.
+Passes (all run before the no-loss snapshot, in order):
+  1. git conflict markers  -- 7+ consecutive <, =, or > at line start
+  2. blockquote prefixes   -- leading > chars (1-6); text content kept
+  3. bare heading lines    -- lines that are only # chars; dropped entirely
+  4. # characters          -- all # removed; heading text becomes prose
+  5. Latin letters         -- a-z, A-Z removed (OCR artefacts)
+  6. ASCII digit runs      -- 0-9 removed (incl. fused noise like "lo16")
+  7. Obsidian block IDs    -- ^N-N patterns
+  8. standalone numbers    -- whitespace-bounded digits (ASCII + Tibetan)
+  9. line reflow           -- consecutive content lines joined into prose runs
 
-Frontmatter is preserved verbatim and excluded from the no-loss comparison.
+Frontmatter (--- block) is preserved verbatim and excluded from no-loss check.
 
 Usage:
-    python3 preclean_commentary.py INPUT.md OUTPUT.md [--report REPORT.tsv]
-                                   [--dry-run]
+    python3 preclean_commentary.py INPUT.md OUTPUT.md [--report R.tsv] [--dry-run]
 """
 from __future__ import annotations
-
-import argparse
-import re
-import sys
-import unicodedata
+import argparse, re, sys, unicodedata
 from pathlib import Path
 
-TSHEG = "་"
-
-# ── Botok-derived space normalisation ──────────────────────────────────────
-# Adapted from OpenPecha/Botok botok/utils/corpus_normalization.py (MIT)
-# https://github.com/OpenPecha/Botok/blob/master/botok/utils/corpus_normalization.py
-
-_LINEBREAKS_RE = re.compile(r"\r\n?|| | ")
-
-_ZERO_WIDTH_STRIP = dict.fromkeys(map(ord, [
-    "​",  # ZERO WIDTH SPACE
-    "⁠",  # WORD JOINER
-    "﻿",  # ZERO WIDTH NO-BREAK SPACE / BOM
-    "᠎",  # MONGOLIAN VOWEL SEPARATOR (deprecated)
-    "͏",  # COMBINING GRAPHEME JOINER
-]))
-
-_SPACE_TO_ASCII = {ord(ch): " " for ch in [
-    " ",  # NO-BREAK SPACE
-    " ", " ", " ", " ", " ", " ",
-    " ", " ", " ", " ", " ", " ",
-    " ", " ", "　",  # narrow, medium, ideographic spaces
-    "\t", "\x0b", "\x0c",          # TAB, VT, FF
-]}
-
-# Space after tsheg (U+0F0B/0F0C/0FD2) when followed by initial letter or shad
-_TSHEG_SPACE_INITIAL_RE = re.compile(
-    r"([་༌࿒]) +([ཀ-ཬ།-༑])"
-)
-# Space between final letter (U+0F40-0FBC) and tsheg
-_LETTER_SPACE_TSHEG_RE = re.compile(
-    r"([ཀ-ྼ]) +([་༌࿒])"
-)
-
-
-def normalize_spaces_tibetan(text: str) -> tuple[str, dict]:
-    """Apply Botok-derived space normalisation; return (text, log).
-
-    Log keys (int counts):
-      linebreaks_normalised       – CRLF/CR/NEL/LS/PS converted to LF
-      zero_width_removed          – zero-width / BOM chars stripped
-      unicode_spaces_mapped       – non-ASCII spaces/tabs mapped to ASCII space
-      tsheg_space_removed         – spaces between tsheg and following letter/shad
-      letter_tsheg_space_removed  – spaces between final letter and tsheg
-    """
-    log = dict(linebreaks_normalised=0, zero_width_removed=0,
-               unicode_spaces_mapped=0, tsheg_space_removed=0,
-               letter_tsheg_space_removed=0)
-
-    # Normalise non-LF line endings to LF
-    log["linebreaks_normalised"] = len(_LINEBREAKS_RE.findall(text))
-    text = _LINEBREAKS_RE.sub("\n", text)
-
-    # Strip zero-width / BOM characters
-    before_len = len(text)
-    text = text.translate(_ZERO_WIDTH_STRIP)
-    log["zero_width_removed"] = before_len - len(text)
-
-    # Map Unicode spaces and tabs to ASCII space
-    before = text
-    text = text.translate(_SPACE_TO_ASCII)
-    log["unicode_spaces_mapped"] = sum(1 for a, b in zip(before, text) if a != b)
-
-    # Tibetan-specific: remove space after tsheg before letter/shad
-    log["tsheg_space_removed"] = len(_TSHEG_SPACE_INITIAL_RE.findall(text))
-    text = _TSHEG_SPACE_INITIAL_RE.sub(r"\1\2", text)
-
-    # Tibetan-specific: remove space between final letter and tsheg
-    log["letter_tsheg_space_removed"] = len(_LETTER_SPACE_TSHEG_RE.findall(text))
-    text = _LETTER_SPACE_TSHEG_RE.sub(r"\1\2", text)
-
-    return text, log
-
-# ───────────────────────────────────────────────────────────────────────────
+TSHEG     = "་"   # Tibetan mark intersyllabic tsheg
+SHAD      = "།"   # Tibetan mark shad
+NYIS_SHAD = "༎"   # Tibetan mark nyis shad
+HONOR     = "༄༅"  # Tibetan honorific mark (text/section opener)
 
 FRONTMATTER_RE = re.compile(r"^---\n.*?\n---\n", re.DOTALL)
-BLOCK_ID_RE = re.compile(r"\s*\^[A-Za-z0-9_-]+")
-# Widened: space after the hashes is optional (catches "##Heading" with no
-# space, which the old \s+ requirement silently dropped into prose) and
-# leading whitespace is unbounded (was capped at 0-3).
-HEADING_RE = re.compile(r"^\s*#{1,6}\s*(.*)$")
-# A heading whose captured text is itself just a bare number ("#1", "## 12)")
-# is most likely OCR noise (a stray hash glued to a page/line counter), not a
-# real editorial heading. Still treated as a heading (safe — text is kept,
-# never deleted) but surfaced in the report instead of passing silently.
+BLOCK_ID_RE    = re.compile(r"\s*\^[A-Za-z0-9_-]+")
+HEADING_RE     = re.compile(r"^\s*#{1,6}\s*(.*)$")
 SUSPECT_HEADING_TEXT_RE = re.compile(r"^[0-9༠-༩]+[.)]?$")
-BARE_NUM_RE = re.compile(r"(?<!\S)[0-9༠-༩]+(?:\.[0-9༠-༩]+)*[.)]?(?!\S)")
+BARE_NUM_RE    = re.compile(r"(?<!\S)[0-9༠-༩]+(?:\.[0-9༠-༩]+)*[.)]?(?!\S)")
+
+GIT_MARKER_RE  = re.compile(r"^(?:<{7,}|={7,}|>{7,}).*$", re.MULTILINE)
+BLOCKQUOTE_RE  = re.compile(r"^>{1,6} ?",               re.MULTILINE)
+BARE_HEADING_RE= re.compile(r"^#{1,6}\s*$",             re.MULTILINE)
+HASH_RE        = re.compile(r"#+")
+LATIN_RE       = re.compile(r"[a-zA-Z]+")
+ASCII_DIGIT_RE = re.compile(r"[0-9]+")
+REPLACEMENT_RE = re.compile("\ufffd+")
 
 SEP = "\n\n"
 
 
-def count_syllables(text: str) -> int:
+def count_syllables(text):
     return text.count(TSHEG) + (1 if text.strip() else 0)
 
-
-def squeeze(s: str) -> str:
+def squeeze(s):
     return re.sub(r"\s+", "", s)
 
-
-def strip_frontmatter(text: str) -> str:
+def strip_frontmatter(text):
     return FRONTMATTER_RE.sub("", text, count=1)
 
-
-def strip_numbers(body: str):
-    """Return (new_body, n_stripped, flagged).
-
-    All whitespace-bounded index/outline numbers matched by BARE_NUM_RE are
-    removed unconditionally. This includes simple counters (1, 2.), terminated
-    counters (3.), and hierarchical section labels (4.11, 1.2.3.). The
-    `flagged` list is always empty (retained for API compatibility).
-    """
+def strip_numbers(body):
     matches = list(BARE_NUM_RE.finditer(body))
     out, last = [], 0
     for m in matches:
@@ -152,7 +65,7 @@ def strip_numbers(body: str):
     return "".join(out), len(matches), []
 
 
-def process(text: str):
+def process(text):
     fm = FRONTMATTER_RE.match(text)
     if fm:
         head = fm.group(0).rstrip("\n")
@@ -161,30 +74,55 @@ def process(text: str):
         head = None
         body = text
 
-    n_block_ids = len(BLOCK_ID_RE.findall(body))
-    body = BLOCK_ID_RE.sub("", body)
-    body, n_numbers, flagged_numbers = strip_numbers(body)
-    expected_body = body  # snapshot for the no-loss check, before line-reflow
+    # 1. Git conflict markers
+    n_git    = len(GIT_MARKER_RE.findall(body)); body = GIT_MARKER_RE.sub("", body)
+    # 2. Blockquote prefixes
+    n_bq     = len(BLOCKQUOTE_RE.findall(body)); body = BLOCKQUOTE_RE.sub("", body)
+    # 3. Bare heading lines (count before # strip)
+    n_bare   = len(BARE_HEADING_RE.findall(body)); body = BARE_HEADING_RE.sub("", body)
+    # 4. All # characters
+    n_hash   = len(HASH_RE.findall(body)); body = HASH_RE.sub("", body)
+    # 5. Latin letters
+    n_latin  = len(LATIN_RE.findall(body)); body = LATIN_RE.sub("", body)
+    # 6. ASCII digit runs (incl. fused noise)
+    n_digits = len(ASCII_DIGIT_RE.findall(body)); body = ASCII_DIGIT_RE.sub("", body)
+    # 6b. Unicode replacement character U+FFFD (encoding artefacts)
+    n_repl   = len(REPLACEMENT_RE.findall(body)); body = REPLACEMENT_RE.sub("", body)
+    # 7. Obsidian block IDs
+    n_ids    = len(BLOCK_ID_RE.findall(body)); body = BLOCK_ID_RE.sub("", body)
+    # 8. Standalone numbers (Tibetan digits + any remaining)
+    body, n_nums, _ = strip_numbers(body)
 
-    blocks = []
-    buf = []
-    stats = {"numbers": n_numbers, "headings": 0, "block_ids": n_block_ids,
-              "suspect_headings": 0}
+    expected_body = body   # no-loss snapshot -- taken after all char removal
+
+    blocks, buf = [], []
+    stats = dict(git_markers=n_git, blockquotes=n_bq, bare_headings=n_bare,
+                 hashes=n_hash, latin=n_latin, ascii_digits=n_digits,
+                 replacement_chars=n_repl,
+                 block_ids=n_ids, numbers=n_nums,
+                 headings=0, suspect_headings=0)
 
     def flush():
         if buf:
             run = re.sub(r"\s+", " ", " ".join(s.strip() for s in buf)).strip()
-            # Normalize: insert space after shad/nyis-shad when followed directly
-            # by Tibetan content (no space). OCR sources often omit this space.
-            # U+0F0D=shad, U+0F0E=nyis-shad, U+0F0B=tsheg, U+0F0C=delimiter.
-            run = re.sub("([།༎])([^\s།༎་༌])",
-                         r"\1 \2", run)
-            if run:
-                blocks.append(("prose", run))
+            # Remove spurious spaces after tsheg (line-break artefacts)
+            run = re.sub(TSHEG + r" +", TSHEG, run)
+            # Remove spurious space after honorific mark (༄༅། །) before text
+            run = re.sub(r"(" + HONOR + SHAD + r"\s" + SHAD + r")\s+(?=[ཀ-ྼ])",
+                         r"\1", run)
+            # Split at double-shad (། །) sentence boundaries not part of the
+            # honorific mark: (?<!༅) ensures we don't split the prefix.
+            run = re.sub(r"(?<!༅)(" + SHAD + r"\s" + SHAD + r")\s+(?=[ཀ-ྼ])",
+                         lambda m: m.group(1) + "\n\n", run)
+            # Split before honorific marks appearing mid-run.
+            run = re.sub(r"\s+(?=" + HONOR + r")", "\n\n", run)
+            for part in (p.strip() for p in run.split("\n\n")):
+                if part:
+                    blocks.append(("prose", part))
             buf.clear()
 
     for ln in body.split("\n"):
-        m = HEADING_RE.match(ln)
+        m = HEADING_RE.match(ln)   # will not match after step 4 removes all #
         if m:
             flush()
             htext = ln.strip()
@@ -198,76 +136,70 @@ def process(text: str):
             continue
         if ln.strip():
             buf.append(ln)
+        else:
+            flush()  # blank line = paragraph separator
     flush()
+
+    # Merge standalone honorific-mark blocks (bare "༄༅། །" with no Tibetan
+    # content after it) into the following prose block -- the mark is a prefix.
+    merged, i = [], 0
+    while i < len(blocks):
+        kind, text = blocks[i]
+        if (kind == "prose"
+                and text.startswith(HONOR)
+                and not re.search(r"[ཀ-ྼ]", text[len(HONOR):])):
+            if i + 1 < len(blocks) and blocks[i + 1][0] == "prose":
+                merged.append(("prose", text + blocks[i + 1][1]))
+                i += 2
+                continue
+        merged.append(blocks[i])
+        i += 1
+    blocks[:] = merged
 
     out = []
     if head:
         out.append(head)
     out.extend(b[1] for b in blocks)
-    text_out = SEP.join(out) + "\n"
-    return text_out, blocks, stats, expected_body
+    return SEP.join(out) + "\n", blocks, stats, expected_body
 
 
-def assert_no_loss(expected_body: str, cleaned: str):
+def assert_no_loss(expected_body, cleaned):
     if squeeze(expected_body) != squeeze(strip_frontmatter(cleaned)):
         sys.exit("ABORT: pre-clean altered body text. No file written.")
 
 
 def main(argv):
-    ap = argparse.ArgumentParser(
-        description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter
-    )
-    ap.add_argument("input")
-    ap.add_argument("output")
-    ap.add_argument("--report", help="write a TSV report of the cleaned blocks here")
-    ap.add_argument("--dry-run", action="store_true")
-    args = ap.parse_args(argv[1:])
+    ap = argparse.ArgumentParser(description=__doc__,
+                                 formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("input"); ap.add_argument("output")
+    ap.add_argument("--report"); ap.add_argument("--dry-run", action="store_true")
+    a = ap.parse_args(argv[1:])
 
-    raw = Path(args.input).read_text(encoding="utf-8")
-    raw, space_log = normalize_spaces_tibetan(raw)
-    text = unicodedata.normalize("NFC", raw)
+    text = unicodedata.normalize("NFC", Path(a.input).read_text(encoding="utf-8", errors="replace"))
     cleaned, blocks, stats, expected_body = process(text)
     assert_no_loss(expected_body, cleaned)
 
-    print(
-        "{}: removed {} index/outline numbers, {} block IDs; "
-        "kept markup on {} headings ({} suspect — bare-number heading text, "
-        "check report); emitted {} blocks.".format(
-            args.input, stats["numbers"], stats["block_ids"],
-            stats["headings"], stats["suspect_headings"], len(blocks)
-        )
-    )
-    print(
-        "  space normalisation: {} linebreak(s) normalised, "
-        "{} zero-width char(s) removed, "
-        "{} unicode space(s) mapped to ASCII, "
-        "{} tsheg-space(s) removed, "
-        "{} letter-tsheg space(s) removed.".format(
-            space_log["linebreaks_normalised"],
-            space_log["zero_width_removed"],
-            space_log["unicode_spaces_mapped"],
-            space_log["tsheg_space_removed"],
-            space_log["letter_tsheg_space_removed"],
-        )
-    )
+    print("{}: removed {} git markers, {} blockquote prefixes, {} bare headings, "
+          "{} hashes, {} latin letters, {} ASCII digits, {} replacement chars, "
+          "{} numbers, {} block IDs; emitted {} blocks.".format(
+              a.input, stats["git_markers"], stats["blockquotes"],
+              stats["bare_headings"], stats["hashes"], stats["latin"],
+              stats["ascii_digits"], stats["replacement_chars"],
+              stats["numbers"], stats["block_ids"], len(blocks)))
 
-    if args.report:
-        with Path(args.report).open("w", encoding="utf-8") as fh:
+    if a.report:
+        with Path(a.report).open("w", encoding="utf-8") as fh:
             fh.write("index\tkind\tsyllables\tpreview\n")
             for i, (kind, txt) in enumerate(blocks, 1):
                 preview = txt.strip()[:80].replace("\t", " ").replace("\n", "/")
-                fh.write("{}\t{}\t{}\t{}\n".format(i, kind, count_syllables(txt), preview))
-            # Append space-normalisation summary as a trailing comment block
-            fh.write("\n# space_normalisation_summary\n")
-            for k, v in space_log.items():
-                fh.write("#\t{}\t{}\n".format(k, v))
-        print("Report: " + args.report)
+                fh.write(f"{i}\t{kind}\t{count_syllables(txt)}\t{preview}\n")
+        print("Report: " + a.report)
 
-    if not args.dry_run:
-        out = Path(args.output)
-        out.parent.mkdir(parents=True, exist_ok=True)
-        out.write_text(cleaned, encoding="utf-8")
-        print("Wrote " + args.output)
+    if not a.dry_run:
+        p = Path(a.output)
+        p.parent.mkdir(parents=True, exist_ok=True)
+        p.write_text(cleaned, encoding="utf-8")
+        print("Wrote " + a.output)
     return 0
 
 

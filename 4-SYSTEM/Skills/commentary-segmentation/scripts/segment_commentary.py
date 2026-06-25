@@ -45,9 +45,10 @@ RULES = [
     ("quote-close", "after",
      re.compile(rf"(?:ཞེས་སོ|ཅེས་སོ|ཞེས་གསུངས་སོ|ཞེས་བཤད་དོ|ཞེས་པའོ|ཅེས་པའོ|ཞེས་བྱ་བའོ){SHAD_CLUSTER}"),
      re.compile(r"ཞེས་སོ|ཅེས་སོ|ཞེས་གསུངས་སོ|ཞེས་བཤད་དོ|ཞེས་པའོ|ཅེས་པའོ|ཞེས་བྱ་བའོ")),
-    # quote-open: source-attribution markers (ལས།, གསུངས།) get their own block
-    # before the cited passage. Rule fires BEFORE the marker.
-    ("quote-open", "before",
+    # quote-open: source-attribution markers (ལས།, གསུངས།) cut AFTER the marker
+    # so the quoted passage starts a new block. Direction "after" avoids the
+    # valid_cut() rejection that "before" triggers (preceding char is always་ tsheg).
+    ("quote-open", "after",
      re.compile(rf"(?:ལས|གསུངས){SHAD_CLUSTER}"),
      re.compile(r"ལས|གསུངས")),
     # enumeration-head: sa-bcad head closing after a number word + suffix.
@@ -133,7 +134,18 @@ def _uniform(units):
 
 
 def _format_pada(p):
-    return re.sub(r"\s*([" + SHAD + NYIS_SHAD + r"])\s*", r"\1", p).strip()
+    p = p.strip()
+    # Collapse multiple spaces to one.
+    p = re.sub(r" {2,}", " ", p)
+    # Remove space before a shad, but ONLY when the character immediately
+    # before that space is NOT itself a shad.  This preserves the ། །
+    # (shad-space-shad) punctuation sequence while still stripping stray
+    # OCR spaces like "word །" → "word།".
+    p = re.sub(r"(?<![" + SHAD + NYIS_SHAD + r"]) +([" + SHAD + NYIS_SHAD + r"])", r"\1", p)
+    # Ensure a space after ། ། (or any shad) when followed directly by
+    # Tibetan content with no separator.
+    p = re.sub(r"([" + SHAD + NYIS_SHAD + r"])([^\s" + SHAD + NYIS_SHAD + TSHEG + r"])", r"\1 \2", p)
+    return p
 
 
 def _split_clause_units(text):

@@ -27,7 +27,7 @@ A 5-section practice plan document that:
 |---|---|
 | `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\1-SOURCES\Translations\bo-བློ་ལྡན་ཤེས་རབ།.md` | **Root text** — canonical Tibetan translation by Blo ldan shes rab. Read this file and extract verses ^10-45 through ^10-58 exactly. Never quote verses from memory. |
 | `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\0-INBOX\DKR-Fellow\schedule.md` | **Schedule** — confirms Day 63 = Chapter 10, Verses 45–58 (10.45–10.58). Read this to verify the assignment before extracting verses. |
-| `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\1-SOURCES\Commentaries\BCAC21_DKR_bo.md` | **DKR's teaching** — Dzongsar Khyentse Rinpoche's Tibetan commentary in 9 teaching sessions. For Day 63 (Chapter 10 — Dedication chapter), the directly relevant segment is **ཆོས་ཐུན་གཉིས་པ།** (Session 2, block IDs ^2-1 through ^2-20), which explicitly addresses the Dedication chapter and the overarching theme of wisdom as the goal of all practices. Read all of Session 2 before writing Section 3. |
+| `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\0-INBOX\DKR-Fellow\All-Plans-in-One.md` | **DKR's teaching — pre-assigned by day.** The Day-63 section (heading `## Day-63-Ch10-V45-58`) contains DKR's teaching for this day at blocks **^9-39 through ^9-43**. Copy these blocks verbatim into Section 3 — do not generate or paraphrase. |
 
 ---
 
@@ -35,7 +35,7 @@ A 5-section practice plan document that:
 
 1. Read `0-INBOX/DKR-Fellow/schedule.md` and confirm Day 63 = 10.45–10.58.
 2. Read `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` and locate verses ^10-45 through ^10-58. Extract their exact text.
-3. Read `1-SOURCES/Commentaries/BCAC21_DKR_bo.md`, ཆོས་ཐུན་གཉིས་པ། (lines beginning at `## ཆོས་ཐུན་གཉིས་པ།`, blocks ^2-1 through ^2-20). Collect the teaching material you will use for Section 3.
+3. Read `0-INBOX/DKR-Fellow/All-Plans-in-One.md`, section `## Day-63-Ch10-V45-58`, blocks ^9-39 through ^9-43. These are the pre-assigned DKR teaching paragraphs for Day 63 — copy them verbatim for Section 3.
 
 Do not write any content until all three reads are complete.
 
@@ -167,35 +167,23 @@ Open with the heading `### ༢། དེ་རིང་གི་རྩ་ཚི�
 
 ---
 
-### Section 3 — གསུང་ཆོས། (DKR's Teaching) [GENERATED]
+### Section 3 — གསུང་ཆོས། (DKR's Teaching) [VERBATIM FROM ALL-PLANS-IN-ONE]
 
 Open with the heading `### ༣། གསུང་ཆོས།`.
 
-**Tone: neutral, explanatory.** Write as a teacher sharing DKR's teaching with the practitioner. Do not use first person.
+**Do not generate or paraphrase.** Copy the pre-assigned DKR teaching paragraphs verbatim from `0-INBOX/DKR-Fellow/All-Plans-in-One.md`.
 
 #### Source pipeline for Section 3
 
-The relevant segment is **ཆོས་ཐུན་གཉིས་པ།** from `BCAC21_DKR_bo.md` (blocks ^2-1 through ^2-20). This session:
+Read the `## Day-63-Ch10-V45-58` section of `All-Plans-in-One.md` (under the sub-heading `#### དངོས་པོའི་གནས་ཚུལ་རྟོགས་པའི་མཐའ་སྡོམ།`) and copy blocks **^9-39 through ^9-43** exactly as they appear, preserving paragraph breaks.
 
-- Opens with the key BCA verse: *ཡན་ལག་འདི་དག་ཐམས་ཅད་ནི། །ཐུབ་པས་ཤེས་རབ་དོན་དུ་གསུངས།* and DKR's statement that even the Dedication chapter (ལེའུ་བཅུ་པ་བསྔོ་བའི་ལེའུ་) serves the goal of wisdom — making it the directly relevant teaching for Day 63.
-- Develops the theme of Wisdom (ཤེས་རབ་) as the ground of all Bodhisattva practices, using vivid analogies (dreams, films, children's toys) to illustrate the nature of reality.
-- Emphasises that compassion and merit must be "held by wisdom" (ཤེས་རབ་ཀྱིས་རྩིས་ཟིན་པ་) to be genuine Mahayana practice.
-
-#### What to include
-
-Write a flowing teaching prose in Tibetan of **3–5 paragraphs** based on what the pipeline material actually contains. Use content types as appropriate:
-
-- **གནད་ཚིག** (key point): when a key concept from DKR's teaching needs brief clarification for the practitioner.
-- **དཔེ** (analogy): when DKR uses a vivid analogy — render it clearly and keep the teaching connection explicit.
-- **གལ་གནད** (essential point): to mark a conclusion DKR draws that practitioners should carry into practice.
-
-End each distinct teaching unit with a citation line:
+After the final block, add a single citation line:
 
 ```
-**མཆན།**: [[1-SOURCES/Commentaries/BCAC21_DKR_bo.md#^2-N|BCAC21_DKR_bo ^2-N]]
+**མཆན།**: [[0-INBOX/DKR-Fellow/All-Plans-in-One.md#^9-39|All-Plans-in-One ^9-39–^9-43]]
 ```
 
-> ⚠️ Critical: all content must be extracted from BCAC21_DKR_bo.md blocks ^2-1 through ^2-20. Do not invent or add material from training data.
+> ⚠️ Critical: copy the blocks exactly — do not rephrase, summarise, or supplement with any other material.
 
 ---
 
@@ -309,8 +297,8 @@ Ordinal word forms for Chapter 10 verses (45–58):
 - [ ] Section 1 and Section 4 match the fixed prayer texts **exactly** — do not paraphrase or alter
 - [ ] Section 2 — verses ^10-45 through ^10-58 found in source file and copied exactly; each verse has a header following `#### **N. ཤློཀ་[ordinal]།** (ལེའུ་ ༡༠ ཤློཀ་ N)` — parenthetical outside the bold
 - [ ] Section 2 — no prose, no commentary — root verses only
-- [ ] Section 3 — all content extracted from BCAC21_DKR_bo.md blocks ^2-1 through ^2-20; each teaching unit ends with a **མཆན།** citation line
-- [ ] Section 3 — neutral tone throughout; no first person (ངས་ / ང་རང་ / བདག་གིས་)
+- [ ] Section 3 — blocks ^9-39 through ^9-43 copied verbatim from `All-Plans-in-One.md` (Day-63 section); ends with a **མཆན།** citation line referencing `All-Plans-in-One ^9-39–^9-43`
+- [ ] Section 3 — no generated, paraphrased, or supplemented content; text matches source exactly
 - [ ] Section 5 — exactly 1 application point; first person singular (ངས་ / ང་རང་); concrete and actionable; sealed with final particle
 - [ ] Section 5 — draws from both the day's verses **and** DKR's teaching
 - [ ] Tibetan spelling and grammar reviewed — check case endings, verb forms, and particles

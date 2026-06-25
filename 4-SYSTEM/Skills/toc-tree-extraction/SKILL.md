@@ -70,6 +70,7 @@ and ask** before doing anything else.
 | `0-INBOX/temp/TOC-<id>/candidates/chunk_NNN.md` | per-chunk section candidates (resumable) |
 | `0-INBOX/temp/TOC-<id>/enumerations/chunk_NNN.md` | per-chunk verbatim enumeration blocks |
 | `0-INBOX/toc-candidates-<id>.md` | merged candidates |
+| `0-INBOX/toc-enumerations-<id>.md` | merged verbatim enumerations |
 | `0-INBOX/toc-tree-<id>.md` | the final nested decimal TOC tree |
 | `0-INBOX/toc-tree-qc-<id>.md` | QC report (issues before / after repair) |
 
@@ -96,52 +97,51 @@ missing chunk.
 
 ## Pass 1 — Section candidates · ISOLATED subagent per chunk
 
-For each chunk file (that has no existing result), dispatch a **separate `Task` subagent**.
-Give it nothing but the pass-1 prompt and that one chunk:
+For each chunk whose result file does not already exist, dispatch a **separate `Task`
+subagent**. The subagent reads the chunk and the prompt by path and writes its own result
+file — you pass only paths, never chunk text:
 
 > Read `4-SYSTEM/Skills/toc-tree-extraction/prompts/pass1-candidates.md` and follow it
-> exactly. Apply it to ONLY the chunk below. Return only the candidate blocks (or
-> `NO CANDIDATES`). Do not do any other task.
->
-> --- BEGIN CHUNK ---
-> {chunk_text}
-> --- END CHUNK ---
+> exactly. Apply it to ONLY the chunk file `0-INBOX/temp/TOC-<id>/chunks/chunk_NNN.md`.
+> Write your output to `0-INBOX/temp/TOC-<id>/candidates/chunk_NNN.md`, starting with the
+> line `<!-- chunk NNN | source: <id> -->`, a blank line, then the candidate blocks — or
+> `<!-- no candidates -->` if the prompt yields `NO CANDIDATES`. Do no other task; reply only
+> with the path you wrote.
 
-Write the returned text to `0-INBOX/temp/TOC-<id>/candidates/chunk_NNN.md` with a header:
-
-```
-<!-- chunk NNN | lines START–END | source: <id> -->
-
-[returned candidate blocks, or: <!-- no candidates --> ]
-```
-
-Independent chunks have no dependencies, so you may dispatch several pass-1 subagents in
-parallel (one message, multiple `Task` calls).
+Independent chunks have no dependencies, so dispatch several pass-1 subagents **in parallel**
+— multiple `Task` calls in one message. (The harness runs a bounded number at once and queues
+the rest.) Because each writes a distinct `chunk_NNN.md`, parallel writes never collide.
 
 ---
 
 ## Pass 2 — Verbatim enumerations · ISOLATED subagent per chunk
 
 Run **separately** over the same chunks — a different isolated subagent, because verbatim
-copying must not be contaminated by the interpretive instructions of the other passes.
+copying must not be contaminated by the interpretive instructions of the other passes. Same
+read-by-path / write-own-file pattern:
 
 > Read `4-SYSTEM/Skills/toc-tree-extraction/prompts/pass2-enumerations.md` and follow it
-> exactly. Apply it to ONLY the chunk below. Return only the enumeration blocks (or
-> `NO ENUMERATIONS`). Copy verbatim; add no interpretation.
->
-> --- BEGIN CHUNK ---
-> {chunk_text}
-> --- END CHUNK ---
+> exactly. Apply it to ONLY the chunk file `0-INBOX/temp/TOC-<id>/chunks/chunk_NNN.md`. Write
+> your output to `0-INBOX/temp/TOC-<id>/enumerations/chunk_NNN.md` — the enumeration blocks,
+> or `NO ENUMERATIONS`. Copy verbatim; add no interpretation. Reply only with the path you
+> wrote.
 
-Write each result to `0-INBOX/temp/TOC-<id>/enumerations/chunk_NNN.md` (or `NO ENUMERATIONS`).
-These may also run in parallel.
+These run in parallel too (one message, multiple `Task` calls), each writing a distinct file.
 
 ---
 
-## Merge (deterministic, done by you)
+## Merge (deterministic — concatenate on disk, don't read into context)
 
-Concatenate the per-chunk candidate files (keeping their `<!-- chunk NNN -->` headers) into
-`0-INBOX/toc-candidates-<id>.md` with frontmatter:
+Merging is mechanical text assembly, not inference. Do it with the shell so the chunk text
+never enters your context. Concatenate the per-chunk candidate files (keeping their
+`<!-- chunk NNN -->` headers) into `0-INBOX/toc-candidates-<id>.md`, e.g.:
+
+```bash
+cd 0-INBOX/temp/TOC-<id>/candidates && cat chunk_*.md > /tmp/cand-body.md
+# then prepend frontmatter and move into place
+```
+
+Frontmatter:
 
 ```yaml
 ---
@@ -153,29 +153,24 @@ total_candidates: <N>
 ---
 ```
 
-Concatenate the non-`NO ENUMERATIONS` enumeration files (in document order) into a single
-enumerations text block for the next pass. Merging is mechanical text assembly — fine to do
-in this context; it is not an inference task.
+Likewise concatenate the enumeration files (skipping `NO ENUMERATIONS` ones, in document
+order) into `0-INBOX/toc-enumerations-<id>.md`. Pass 3 reads both merged files by path.
 
 ---
 
 ## Pass 3 — Build the nested decimal tree · ISOLATED subagent
 
-Dispatch ONE subagent with only the pass-3 prompt and the two merged inputs:
+Dispatch ONE subagent with only the pass-3 prompt and the paths of the two merged inputs:
 
 > Read `4-SYSTEM/Skills/toc-tree-extraction/prompts/pass3-tree.md` and follow it exactly.
-> Build the full nested decimal TOC for commentary "<id>" from the candidates below,
-> reconciled against the enumerations. Output only the tree block.
->
-> --- BEGIN CANDIDATES ---
-> {merged_candidates}
-> --- END CANDIDATES ---
->
-> --- BEGIN ENUMERATIONS ---
-> {merged_enumerations}
-> --- END ENUMERATIONS ---
+> Build the full nested decimal TOC for commentary "<id>" from the candidates in
+> `0-INBOX/toc-candidates-<id>.md`, reconciled against the enumerations in
+> `0-INBOX/toc-enumerations-<id>.md`. Write only the tree block (starting with
+> `## དཀར་ཆག / Table of Contents`) to `0-INBOX/toc-tree-<id>.md`. Reply only with the path
+> you wrote.
 
-Write the returned tree to `0-INBOX/toc-tree-<id>.md` with `stage: toc-tree` frontmatter.
+After it returns, prepend `stage: toc-tree` frontmatter to `0-INBOX/toc-tree-<id>.md` if the
+subagent did not.
 
 ---
 
@@ -187,7 +182,7 @@ numbering/attestation logic and must be identical every run):
 ```bash
 python 4-SYSTEM/Skills/toc-tree-extraction/scripts/qc_check_tree.py \
   0-INBOX/toc-tree-<id>.md \
-  --corpus 0-INBOX/toc-candidates-<id>.md 0-INBOX/temp/TOC-<id>/enumerations/*.md \
+  --corpus 0-INBOX/toc-candidates-<id>.md 0-INBOX/toc-enumerations-<id>.md \
   --out 0-INBOX/toc-tree-qc-<id>.md
 ```
 
@@ -195,31 +190,19 @@ It flags indentation errors, Tibetan-ordinal vs decimal mismatch, duplicate deci
 gaps/dups, titles not attested (possible hallucination), and ordinals not attested for a
 title. Exit code = issue count.
 
-If issues remain, dispatch ONE **isolated repair subagent** with only the pass-4 prompt plus
-the issue list, tree, and both sources:
+If issues remain, dispatch ONE **isolated repair subagent** with only the pass-4 prompt and
+the paths of the issue report, tree, and both sources:
 
 > Read `4-SYSTEM/Skills/toc-tree-extraction/prompts/pass4-qc-repair.md` and follow it exactly.
-> Correct the tree for commentary "<id>", fixing every listed issue against BOTH the
-> enumerations and the candidates. Output only the corrected tree.
->
-> --- BEGIN ISSUES ---
-> {issues}
-> --- END ISSUES ---
-> --- BEGIN ENUMERATIONS ---
-> {merged_enumerations}
-> --- END ENUMERATIONS ---
-> --- BEGIN SECTION CANDIDATES ---
-> {merged_candidates}
-> --- END SECTION CANDIDATES ---
-> --- BEGIN TREE ---
-> {tree}
-> --- END TREE ---
+> Correct the tree for commentary "<id>", fixing every issue in `0-INBOX/toc-tree-qc-<id>.md`
+> against BOTH the enumerations (`0-INBOX/toc-enumerations-<id>.md`) and the candidates
+> (`0-INBOX/toc-candidates-<id>.md`). The tree to fix is `0-INBOX/toc-tree-<id>.md`. Overwrite
+> that same file with the corrected tree block and reply only with its path.
 
-Overwrite `0-INBOX/toc-tree-<id>.md` with the repaired tree, **re-run the checker**, and record
-issues-before / issues-after in `0-INBOX/toc-tree-qc-<id>.md`. Iterate (a fresh isolated repair
-subagent per round) until the count is 0 or only genuinely-ambiguous issues remain (note those
-for the human). Keep the deterministic checker as the gate — never declare the tree clean on a
-subagent's say-so.
+After it returns, **re-run the checker** and record issues-before / issues-after in
+`0-INBOX/toc-tree-qc-<id>.md`. Iterate (a fresh isolated repair subagent per round) until the
+count is 0 or only genuinely-ambiguous issues remain (note those for the human). Keep the
+deterministic checker as the gate — never declare the tree clean on a subagent's say-so.
 
 ---
 
@@ -227,11 +210,11 @@ subagent's say-so.
 
 1. Confirm `input-file` and `commentary-id` (ask if not obvious).
 2. `chunk_file.py` → overlapping chunks.
-3. Pass 1: one isolated subagent per chunk → `candidates/chunk_NNN.md` (resumable, parallelisable).
-4. Pass 2: one isolated subagent per chunk → `enumerations/chunk_NNN.md`.
-5. Merge candidates → `0-INBOX/toc-candidates-<id>.md`; assemble enumerations text.
-6. Pass 3: one isolated subagent → `0-INBOX/toc-tree-<id>.md`.
-7. Pass 4: `qc_check_tree.py` → isolated repair subagent → re-check → `0-INBOX/toc-tree-qc-<id>.md`.
+3. Pass 1: isolated subagent per chunk, reads its chunk + writes its own `candidates/chunk_NNN.md` (resumable, parallel).
+4. Pass 2: isolated subagent per chunk, writes its own `enumerations/chunk_NNN.md` (parallel).
+5. Merge on disk (shell `cat`) → `0-INBOX/toc-candidates-<id>.md` and `0-INBOX/toc-enumerations-<id>.md`.
+6. Pass 3: one isolated subagent reads both merged files → writes `0-INBOX/toc-tree-<id>.md`.
+7. Pass 4: `qc_check_tree.py` → isolated repair subagent (reads/overwrites by path) → re-check → `0-INBOX/toc-tree-qc-<id>.md`.
 8. Report totals (candidates, enumeration blocks, issues before/after) and the output paths.
 
 **Isolation is the whole point.** If you ever find yourself doing a pass's reasoning in this

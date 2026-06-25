@@ -220,10 +220,10 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCAC14_NT_bo.md
+## BCAC14_NTS_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་ལེགས་པར་བཤད་པའི་རྒྱ་མཚོ།
-**Author:** དངུལ་ཆུ་ཐོགས་མེད། (Ngulchu Thokme)
+**Author:** དངུལ་ཆུ་ཐོགས་མེད། (Ngulchu Thokme Sangpo)
 **Century:** 1295–1369 (14th c. CE) [BDRC P1830; = Gyalse Tokme Zangpo]
 
 ---
@@ -384,10 +384,10 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCAC14_GTZ_bo.md
+## BCAC14_NTS2_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་ལེགས་པར་བཤད་པའི་རྒྱ་མཚོ་ཞེས་བྱ་བ་བཞུགས་སོ།
-**Author:** རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ་དཔལ། (Gyalse Tokme Zangpo)
+**Author:** རྒྱལ་སྲས་ཐོགས་མེད་བཟང་པོ་དཔལ། (Ngulchu Thokme Sangpo / Gyalse Tokme Zangpo)
 **Century:** 1295–1369 (14th c. CE) [BDRC P1830]
 
 ---

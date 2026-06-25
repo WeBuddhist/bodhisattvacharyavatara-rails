@@ -1,9 +1,9 @@
 ---
-book_id: BCAC14_NT_bo
+book_id: BCAC14_NTS_bo
 title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་ལེགས་པར་བཤད་པའི་རྒྱ་མཚོ།
 title_in_english: "Ocean of Good Explanations: A Commentary on the Bodhisattvacaryavatara"
 author: དངུལ་ཆུ་ཐོགས་མེད།
-author_in_english: Ngulchu Thokme
+author_in_english: Ngulchu Thokme Sangpo
 file_type: commentary
 language: Tibetan
 lang_tag: bo

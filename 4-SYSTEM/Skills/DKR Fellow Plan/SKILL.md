@@ -72,7 +72,7 @@ All generated prose follows these rules without exception.
 Keep modifier chains to **one level deep**. Rewrite deeper stacks as two clauses.
 
 ❌ Bad: ང་རང་གི་མི་རྟག་པའི་བསམ་པ་འདིས་ད་ལྟར་གྱི་གོ་སྐབས་ལ་རྩར་ཆོད་ཅིག་བྱ་རྒྱུ་ཡིན་ནོ།།
-✓ Good: མི་རྟག་པར་དྲན་ཞིང་ད་ལྟར་གྱི་གོ་སྐབས་ལ་རྩར་ཆོད་ཅིག་བྱ་རྒྱུ་ཡིན་ནོ།།
+✓ Good: མི་རྟག་པར་དྲན་ཞིང་ད་ལྟར་གྱི་གོ་སྐབས་ལ་དམ་འཛིན་བྱ་རྒྱུ་ཡིན་ནོ།།
 
 ### Register and tone
 

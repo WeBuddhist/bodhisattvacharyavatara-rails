@@ -136,7 +136,9 @@ read-by-path / write-own-file pattern:
 > exactly. Read ONLY lines START–END of the source file `<input-file>` (use
 > `sed -n 'START,ENDp' "<input-file>"`). Write your output to
 > `0-INBOX/temp/TOC-<id>/enumerations/chunk_NNN.md` — the enumeration blocks, or
-> `NO ENUMERATIONS`. Copy verbatim; add no interpretation. Reply only with the path you wrote.
+> `NO ENUMERATIONS`. Isolate ONLY the division-announcement clauses (start at the topic being
+> divided, stop at the closing count/list marker); do NOT copy the commentary body that
+> explains each part. Copy verbatim; add no interpretation. Reply only with the path you wrote.
 
 These run in parallel too (one message, multiple `Task` calls), each writing a distinct file.
 

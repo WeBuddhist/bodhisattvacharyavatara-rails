@@ -1,5 +1,3 @@
-<<<<<<<< HEAD:0-INBOX/test_seg/bo-རྒྱལ་བ་རིན་པོ་ཆེ།_extracted.md
-========
 ---
 book_id: BCAC20_TG_bo
 title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་གསུང་བཤད།
@@ -9,10 +7,9 @@ author_in_english: H.H. the 14th Dalai Lama, Tenzin Gyatso
 file_type: commentary
 language: Tibetan
 lang_tag: bo
-source_description: ""
+source_description: 
 ---
 # བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་གསུང་བཤད།
->>>>>>>> c4296023aabfb7e0f6852a2d12e7b36a13222d6e:1-SOURCES/Commentaries/BCAC20_TG_bo.md
 
 [སྔོན་འགྲོའི་གསུང་བཤད།] དེ་རིང་སྤྱོད་འཇུག་བཤད་པ་ལ་ནམ་རྒྱུན་ལྟར་མགོ་དེར་ཤེས་
 རབ་སྙིང་པོ་འདོན་རྒྱུ་དང་། དེ་ཐེག་པ་ཆེན་པོའི་མདོ་སྡེ་དང་། བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་

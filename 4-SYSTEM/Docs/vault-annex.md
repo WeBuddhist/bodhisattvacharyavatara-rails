@@ -82,7 +82,7 @@ Every commentary file in `1-SOURCES/Commentaries/` declares a `registered_id` in
 | `minyak-kunzang-sonam` | མི་ཉག་ཀུན་བསོད། / Mi Nyag Kunzang Sönam | commentary | Tibetan | `bo-མི་ཉག་ཀུན་བསོད།.md` |
 | `karma-lodo` | ཁྲ་འགུ་རིན་པོ་ཆེ། / Khenchen Thrangu Rinpoche (Karma Lodrö Chöpelzangpo) | commentary | Tibetan | `bo-ཁྲ་འགུ་རིན་པོ་ཆེ།.md` |
 | `khenpo-kunga` | མཁན་པོ་ཀུན་དགའ་དབང་ཕྱུག | commentary | Tibetan | `bo-མཁན་པོ་ཀུན་དགའ་དབང་ཕྱུག.md` |
-| `ngulchu-thogmed` | དངུལ་ཆུ་ཐོགས་མེད། / Ngülchu Thogmé | commentary | Tibetan | `bo-དངུལ་ཆུ་ཐོགས་མེད།.md` |
+| `ngulchu-thogmed` | དངུལ་ཆུ་ཐོགས་མེད། / Ngulchu Thokme Sangpo | commentary | Tibetan | `BCAC14_NTS_bo.md` (ed. 2: `BCAC14_NTS2_bo.md`) |
 | `tsawa-nyag` | ཚྭ་ཉག་ཤེས་རབ་མཐར་ཕྱིན། | commentary | Tibetan | `bo-ཚྭ་ཉག་ཤེས་རབ་མཐར་ཕྱིན།.md` |
 | `drak-gyap` | བྲག་གཡབ་བློ་གྲོས། / Drakgyap Lodrö | commentary | Tibetan | `bo-བྲག་གཡབ་བློ་གྲོས།.md` |
 | `tsechenrab` | གནམ་ལྕགས་སྦྲིས་གྱི་སྐྱིལ་ (placeholder) | commentary | Tibetan | `bo-སྨུག་སངས་ཀརྨ་ཚེ་དཔལ།.md` |

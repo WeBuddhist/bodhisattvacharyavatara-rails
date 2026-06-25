@@ -276,6 +276,6 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 
 ### `dkr-fellow-plan` **[exists]**
 **Purpose:** Generate the Day-63 practice plan for the 63-day DKR Fellow package. Produces a 5-section Tibetan-language markdown document: (1) fixed Refuge & Bodhicitta prayers, (2) root verses for Chapter 10 V.45–58, (3) DKR's teaching extracted from BCAC21_DKR_bo.md Session 2, (4) fixed Dedication & Aspiration prayers, (5) a concrete daily-life application.
-**Inputs:** `3-TRANSFORMATIONS/Plans/DKR-Fellow/schedule.md` (verse assignment), `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` (root text verses ^10-45–^10-58), `3-TRANSFORMATIONS/Plans/DKR-Fellow/All-Plans-in-One.md` (DKR teaching, Day-63 section ^9-39–^9-43).
+**Inputs:** `3-TRANSFORMATIONS/Plans/DKR-Fellow/schedule.md` (verse assignment), `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` (root text verses ^10-45–^10-58), `3-TRANSFORMATIONS/Plans/DKR-Fellow/DKR-Teaching-Assignment-to-Days.md` (DKR teaching, Day-63 section ^9-39–^9-43).
 **Outputs:** `3-TRANSFORMATIONS/Plans/DKR-Fellow/Day-63-Ch10-V45-58.md` filled with the complete 5-section practice plan.
 → [`DKR Fellow Plan/SKILL.md`](DKR%20Fellow%20Plan/SKILL.md)

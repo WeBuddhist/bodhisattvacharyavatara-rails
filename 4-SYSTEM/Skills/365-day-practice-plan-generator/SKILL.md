@@ -47,34 +47,98 @@ Once you have the chapter and verse range, **read the root text and all relevant
 
 ## Tibetan writing style — mandatory for all generated sections
 
-All generated prose must follow these style rules without exception:
+All generated prose must follow these style rules without exception.
 
-**Voice and person — differs by section**
-- **Section 2** (Introduction): Use the **first person singular** — ངས་, ང་རང་, བདག་གིས་. The practitioner opens the day in their own voice, speaking personally about the teaching and why it matters today.
-- **Section 4** (Explanations): Use a **neutral, explanatory tone**. Write as a teacher explaining the teaching to a practitioner. You may address the reader as ཁྱེད་ (you) to maintain warmth, but never use ངས་ / ང་རང་ / བདག་གིས་ in Section 4. The focus is the teaching itself, not the practitioner's personal voice.
-- **Section 5** (Daily Life Application): Use the **first person singular** — ངས་, ང་རང་, བདག་གིས་. Never ང་ཚོས་ or ང་ཚོ་. This section voices the practitioner's own personal commitment to applying today's teaching.
+---
 
-**Sentence flow**
-- Sentences must be **connected and flowing**, linked by conjunctive particles: དང་། བཅས་། ཏེ། ནས། ཞིང་། etc.
-- Avoid short staccato clauses separated by།། — each paragraph should read like a single continuous thought, the way a lama would speak.
-- End substantive paragraphs and closing sentences with full final particles: ཡིན་ནོ།། or འགྱུར་རོ།། or ལགས་སོ།།
+### Voice and person — differs by section
 
-**Register and tone**
-- The target audience is **general Tibetan-speaking practitioners who are beginners** to the *Bodhisattvacharyavatara* — not scholars or academics. Write accordingly.
-- All commentary content must be **extracted from the source commentary file** (`bo-དངུལ་ཆུ་ཐོགས་མེད།.md`) and the meaning preserved faithfully — but the **style and tone must be adapted** into clear, easy-to-read modern Tibetan that any practitioner can understand without difficulty. Think of it as rendering a traditional commentary into accessible language, the way a kind teacher would explain it to a new student.
-- Avoid archaic or highly technical scholastic phrasing. Prefer shorter, clearer sentences over dense classical constructions — but do not sacrifice correct Tibetan grammar.
-- When referring to Śāntideva, always use the honorific form: རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷ། — never just ཞི་བའི་ལྷ or the author's name alone.
-- Address the practitioner directly in places (using ཁྱེད་ or the implied second person) to keep the personal practice feeling alive.
+- **Section 2** (Introduction): **Neutral, warm tone.** Write as a kind teacher opening the day. Address the reader as ཁྱེད་ to maintain closeness, but never use ངས་ / ང་རང་ / བདག་གིས་ here. Introduce the teaching; do not explain the verse.
+- **Section 4** (Explanations): **Neutral, explanatory tone.** Write as a teacher bringing the teaching alive. Address the reader as ཁྱེད་. Never use ངས་ / ང་རང་ / བདག་གིས་ in this section.
+- **Section 5** (Daily Life Application): **First person singular only** — ངས་, ང་རང་, བདག་གིས་. Never ང་ཚོས་ or ང་ཚོ་. This is the practitioner's own voice committing to today's practice.
 
-**What to avoid**
+---
+
+### Sentence architecture — the single most important rule
+
+**Each clause must do one thing.** Give it one time reference, one action, or one conclusion — then close it and open the next. Never pack two or more logical functions into a single subordinate clause.
+
+**The test:** read each clause aloud. If a native speaker has to pause to re-parse the structure, the clause is too complex. Break it in two.
+
+**Clause connection ladder — use in order of closeness:**
+
+| Particle | Use when… |
+|---|---|
+| ཞིང་ / ལ་ | two actions happen together or in quick succession |
+| ནས་ / ཏེ | the second clause follows from or results from the first |
+| དང་། | listing items of equal weight |
+| ། | complete stop before a new, independent thought |
+| ཡིན་ནོ།། / འགྱུར་རོ།། | close a paragraph with a sense of settled conclusion |
+
+**Never end a paragraph mid-thought.** The final sentence should feel like an arrival, not a trailing clause.
+
+---
+
+### Nominalization trap — avoid collapsing actions into abstract nouns
+
+Tibetan makes it easy to stack genitive modifiers (X-བའི་ Y-བའི་ Z). This produces text that is grammatically valid but impossible to read naturally. Keep modifier chains to **one level deep**. If you need two levels, rewrite as two clauses.
+
+❌ **Bad** — stacked nominalizations:
+> ང་རང་གི་མི་རྟག་པའི་བསམ་པ་འདིས་ད་ལྟར་གྱི་གོ་སྐབས་ལ་རྩར་ཆོད་ཅིག་བྱ་རྒྱུ་ཡིན་ནོ།།
+
+✓ **Good** — the action expressed as a verb, the connection made with ལས་ or ཞིང་:
+> མི་རྟག་པར་དྲན་ཞིང་ད་ལྟར་གྱི་གོ་སྐབས་ལ་རྩར་ཆོད་ཅིག་བྱ་རྒྱུ་ཡིན་ནོ།།
+
+❌ **Bad** — a temporal clause buried inside a relative clause:
+> ཅིག་ཤེས་བཞིན་དུ་དེ་ལ་དུས་ཚོད་འཐོར་བར་འཇུག་བཞིན་ཡོད་པའི་སྐབས་དེར།
+
+✓ **Good** — the time reference stated simply:
+> དོན་མེད་པར་དུས་འདའ་རྒྱུར་གྱུར་བའི་སྐབས།
+
+---
+
+### Sentence rhythm
+
+- **Open sentences name the situation clearly** — who, when, or what — before the verb.
+- **Middle clauses carry the action** — connected by ཞིང་ or ཏེ.
+- **Closing sentences land with a concrete commitment or conclusion** — sealed by ཡིན་ནོ།། or འགྱུར་རོ།།
+- Vary sentence length. Two medium sentences followed by one short, decisive sentence reads better than three medium sentences in a row.
+- Never open two consecutive sentences with the same grammatical construction.
+
+---
+
+### Register and tone
+
+- The target audience is **general Tibetan-speaking practitioners who are beginners** to the *Bodhisattvacharyavatara* — not scholars or academics.
+- Commentary must be **extracted from the source file** and its meaning preserved faithfully — but rendered into clear, warm, modern Tibetan that any practitioner can follow without difficulty. Think of a kind teacher explaining a classical text to a new student.
+- Avoid archaic scholastic phrasing. Prefer concrete verbs over abstract constructions. Do not sacrifice correct Tibetan grammar.
+- Always refer to Śāntideva as རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷ། — never the name alone or shortened forms.
+- Address the practitioner directly (ཁྱེད་) wherever it keeps the personal practice feeling alive — but not so often it becomes a formula.
+
+---
+
+### What to avoid
+
 - ❌ Dzongkha grammatical patterns or vocabulary
-- ❌ Cold, encyclopaedic or overly academic prose — even neutral-tone sections (2, 4, 6) should feel warm and accessible, like a kind teacher speaking to a student
-- ❌ First person singular (ངས་ / ང་རང་ / བདག་གིས་) in Section 4
-- ❌ ང་ཚོས་ / ང་ཚོ་ (collective "we") anywhere in the document
-- ❌ Clipped clauses that don't flow into one another
+- ❌ Cold, encyclopaedic prose — every section should feel like a warm human voice, even the explanatory ones
+- ❌ ངས་ / ང་རང་ / བདག་གིས་ in Sections 2 and 4
+- ❌ ང་ཚོས་ / ང་ཚོ་ anywhere in the document
+- ❌ Stacked relative clauses: X-བའི་ Y-བའི་ Z — rewrite as two clauses
+- ❌ Long participial strings used as temporal clauses — name the time simply, then start the main clause
+- ❌ Ending a paragraph on a subordinate particle (ཞིང་, ནས་, ལ་) — always close with a full final particle
 
-**Model example** (Section 2 tone — personal application, first person singular):
-> རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷའི་སྤྱོད་འཇུག་ལེའུ་བཞི་པའི་ཤློཀ་བཅུ་བཞི་ནས་བཅུ་དྲུག་བར་གྱི་ཤློཀ་གསུམ་དེ་རིང་ཉམས་སུ་ལེན་རྒྱུ་ཡིན། ད་ལྟ་ང་ལ་ཡོད་པའི་མི་ལུས་ཀྱི་གོ་སྐབས་འདི་ཤིན་ཏུ་ཐོབ་དཀའ་ཞིང་ཐོབ་ཀྱང་མི་རྟག་པ་ཡིན་པས། ངས་ད་རེས་མི་ལུས་ཀྱི་གོ་སྐབས་བཟང་པོ་འདིའི་རིན་ཐང་ངོ་ཤེས་པའི་ཐོག་ནས་གོ་སྐབས་འདི་ཉིད་རང་དང་གཞན་ལ་ཕན་པའི་ཕྱོགས་སུ་གཏོང་རྒྱུ་ཡིན།
+---
+
+### Model examples
+
+**Section 2 — neutral introduction, warm, ≤ 60 words:**
+> རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷའི་ལེའུ་བཞི་པའི་ཤློཀ་བཅུ་བཞི་ནས་བཅུ་དྲུག་བར་གྱི་ཤློཀ་གསུམ་དེ་རིང་ཉམས་སུ་ལེན་རྒྱུ་ཡིན་ཏེ། ད་ལྟར་ཁྱེད་ལ་ཡོད་པའི་མི་ལུས་ཀྱི་གོ་སྐབས་འདི་ཐོབ་ཤིན་ཏུ་དཀའ་ལ་ཐོབ་ཀྱང་མི་རྟག་པར་གསུངས་པས། ཁྱེད་ད་རེས་མི་ལུས་ཀྱི་གཏིང་རིན་ཐང་ལ་ཡིད་ཀྱིས་གཏད་ལ་འདི་དང་ཕྲད་ཅིག།
+
+**Section 4 — explanation, neutral teacher voice:**
+> ཤློཀ་འདིར་"དེང་ནས་"ཞེས་གསུངས་པ་ནི་དགེ་བའི་བློ་སྐྱེས་པའི་དུས་ད་ལྟ་འདི་ཉིད་ནས་ཞེས་པའི་དོན་ཡིན་ཏེ། ཐར་པ་གཞན་གྱིས་བསྟེར་ཐབས་མེད་ལ་རང་ཉིད་ཀྱིས་བརྩོན་མི་བྱས་ན་ལྟར་སྔར་མི་ཐར་བར་གསུངས་སོ།། སྔོན་ཆད་སངས་རྒྱས་དཔག་མེད་འདས་ཟིན་ཀྱང་བདག་མ་བཏུལ་བ་འདི་ཡིན་ཏེ། ད་དུང་རང་གིས་རང་སྣོད་མ་ཡིན་པར་བྱས་ན་ངན་འགྲོར་ལྟུང་གི་སངས་རྒྱས་དང་ཕྲད་པར་མི་འགྱུར་བར་གསུངས་སོ།།
+
+**Section 5 — daily application, first person singular:**
+> དེ་རིང་ངས་དོན་མེད་པར་དུས་འདའ་རྒྱུར་གྱུར་བའི་སྐབས་ཐམས་ཅད་དུ། མི་ལུས་འདི་གཡར་ཆས་ལྟར་མི་རྟག་བར་སེམས་ལ་བཟུང་ཞིང་ད་ལྟར་གྱི་གོ་སྐབས་ལ་གདེང་འཇོག་བྱ་ཞིང་། དེ་ལ་ཐག་གཅིག་ཏུ་དགེ་བ་ཕྲ་མོ་ཞིག་གིས་ཁྱལ་བཙུགས་ཏེ་ཉམས་སུ་ལེན་རྒྱུ་ཡིན། རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷས་"ད་དུང་དེ་བཞིན་བདག་བྱེད་ན་"ཞེས་གདམས་པའི་ཤུགས་ལས། ང་རང་ཉིད་ཀྱིས་ད་རེས་"ཕྱིར་བྱའོ་"ཞེས་མི་བཞག་པར་ད་ལྟར་ཉམས་སུ་ལེན་རྒྱུ་ཡིན་ནོ།།
 
 ---
 

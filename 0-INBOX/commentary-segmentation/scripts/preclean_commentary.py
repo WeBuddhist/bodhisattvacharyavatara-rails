@@ -5,6 +5,15 @@ Reverts an already-formatted commentary back to continuous prose so that
 Stage-1 (segment_commentary.py) can re-derive block boundaries from scratch.
 Removes editorial scaffolding only, never a character of body text:
 
+  - git conflict markers: lines beginning with 7+ consecutive '<', '=', or '>'
+    characters (e.g. "<<<<<<< HEAD", "=======",
+    ">>>>>>>> c4296023...:1-SOURCES/Commentaries/BCAC14_SMPLG_bo.md").
+    Entire line is removed unconditionally — these are never body text.
+  - blockquote prefixes: leading '>' characters (1–6) plus an optional space
+    are stripped from each line. The text content of the line is kept and
+    flows into the prose run.
+  - bare heading markers: a line consisting solely of '#' characters (with no
+    heading text) is dropped entirely — it is scaffolding, not a real heading.
   - index / outline numbers: any whitespace-bounded token that consists solely
     of digits (ASCII 0-9 or Tibetan U+0F20-29) with optional internal dots
     (hierarchical numbers such as 4.11, 1.2.3) and an optional trailing "."
@@ -48,6 +57,22 @@ HEADING_RE = re.compile(r"^\s*#{1,6}\s*(.*)$")
 SUSPECT_HEADING_TEXT_RE = re.compile(r"^[0-9༠-༩]+[.)]?$")
 BARE_NUM_RE = re.compile(r"(?<!\S)[0-9༠-༩]+(?:\.[0-9༠-༩]+)*[.)]?(?!\S)")
 
+# Git conflict marker lines: 7+ consecutive '<', '=', or '>' at line start,
+# optionally followed by any text (commit hash, branch name, file path, etc.).
+# Matches all three marker types:
+#   <<<<<<< HEAD  /  <<<<<<< branch-name
+#   =======
+#   >>>>>>> commit:path  /  >>>>>>>> commit:path
+GIT_MARKER_RE = re.compile(r"^(?:<{7,}|={7,}|>{7,}).*$", re.MULTILINE)
+
+# Blockquote prefix: 1–6 '>' characters (anything beyond 6 is a git marker
+# caught above) plus an optional single space. The text after is body content.
+BLOCKQUOTE_RE = re.compile(r"^>{1,6} ?", re.MULTILINE)
+
+# Bare heading markers — a line that is only '#' characters with no text body.
+# These carry no content and must be dropped before the no-loss snapshot.
+BARE_HEADING_RE = re.compile(r"^#{1,6}\s*$", re.MULTILINE)
+
 SEP = "\n\n"
 
 
@@ -89,24 +114,56 @@ def process(text: str):
         head = None
         body = text
 
+    # --- Scaffolding removal (all before the no-loss snapshot) ---
+
+    # 1. Git conflict markers — entire lines, never body text.
+    n_git_markers = len(GIT_MARKER_RE.findall(body))
+    body = GIT_MARKER_RE.sub("", body)
+
+    # 2. Blockquote '>' prefixes — strip the prefix, keep the text content.
+    n_blockquotes = len(BLOCKQUOTE_RE.findall(body))
+    body = BLOCKQUOTE_RE.sub("", body)
+
+    # 3. Bare heading markers ('#' with no text) — no content, drop entirely.
+    n_bare_headings = len(BARE_HEADING_RE.findall(body))
+    body = BARE_HEADING_RE.sub("", body)
+
+    # 4. Obsidian block / verse IDs.
     n_block_ids = len(BLOCK_ID_RE.findall(body))
     body = BLOCK_ID_RE.sub("", body)
+
+    # 5. Index / outline numbers.
     body, n_numbers, flagged_numbers = strip_numbers(body)
+
     expected_body = body  # snapshot for the no-loss check, before line-reflow
 
     blocks = []
     buf = []
-    stats = {"numbers": n_numbers, "headings": 0, "block_ids": n_block_ids,
-              "suspect_headings": 0}
+    stats = {
+        "numbers": n_numbers,
+        "headings": 0,
+        "block_ids": n_block_ids,
+        "suspect_headings": 0,
+        "bare_headings": n_bare_headings,
+        "blockquotes": n_blockquotes,
+        "git_markers": n_git_markers,
+    }
 
     def flush():
         if buf:
             run = re.sub(r"\s+", " ", " ".join(s.strip() for s in buf)).strip()
-            # Normalize: insert space after shad/nyis-shad when followed directly
+            # Rule 1: remove spurious spaces after tsheg (་).
+            # ་ connects syllables within a word; a space after it is always a
+            # line-break artifact introduced by joining, never legitimate text.
+            run = re.sub(r"་ +", "་", run)
+            # Rule 2: insert space after shad/nyis-shad when followed directly
             # by Tibetan content (no space). OCR sources often omit this space.
+            # ། །ན is handled correctly: the internal space is preserved by the
+            # \s+ step above, and only the missing space after the second །
+            # is inserted here. །། (no-space nyis-shad) is left untouched
+            # because the character class excludes [།༎].
             # U+0F0D=shad, U+0F0E=nyis-shad, U+0F0B=tsheg, U+0F0C=delimiter.
-            run = re.sub("([།༎])([^\s།༎་༌])",
-                         r"\1 \2", run)
+            run = re.sub(r"([།༎])([^\s།༎་༌])", r"\1 \2", run)
             if run:
                 blocks.append(("prose", run))
             buf.clear()
@@ -156,11 +213,13 @@ def main(argv):
     assert_no_loss(expected_body, cleaned)
 
     print(
-        "{}: removed {} index/outline numbers, {} block IDs; "
-        "kept markup on {} headings ({} suspect — bare-number heading text, "
-        "check report); emitted {} blocks.".format(
-            args.input, stats["numbers"], stats["block_ids"],
-            stats["headings"], stats["suspect_headings"], len(blocks)
+        "{}: removed {} git-conflict markers, {} blockquote prefixes, "
+        "{} bare headings, {} index/outline numbers, {} block IDs; "
+        "kept markup on {} headings ({} suspect); emitted {} blocks.".format(
+            args.input,
+            stats["git_markers"], stats["blockquotes"], stats["bare_headings"],
+            stats["numbers"], stats["block_ids"],
+            stats["headings"], stats["suspect_headings"], len(blocks),
         )
     )
 

@@ -6,7 +6,7 @@ language: Chinese
 file_type: translation
 lang_tag: zh-hant
 verse_id_format: chapter-verse
-root_text: 1-SOURCES/Text/sk-dev.md
+root_text: 1-SOURCES/Text/BCAV08_SH_sk.md
 covers_verses: 0-1–10-68
 source_description: 索達吉堪布 譯。入菩薩行論。簡體中文。
 ---

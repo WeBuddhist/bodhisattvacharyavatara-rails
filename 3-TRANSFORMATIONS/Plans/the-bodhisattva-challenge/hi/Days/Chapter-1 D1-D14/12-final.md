@@ -1,17 +1,17 @@
 ---
 day: 12
 chapter: 1
-verses: "1-32 to 1-34"
+verses: "1-31 to 1-32"
 status: draft
 translated_from: "en/Days/Chapter-1 D1-D14/12.md"
-generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-32.md, 1-33.md, 1-34.md). No 2-RAILS/Verses/ packages exist for these verses yet."
+generation_note: "Regenerated with the english-plan-generator skill; verse grouping realigned to en/assets/schedule-corrected.md. Commentary from en-ai/Verses summaries; English verses from en-AI-generated-root-loden-sherab.md; Tibetan from bo-བློ་ལྡན་ཤེས་རབ།.md. Needs domain-specialist review before status: complete."
 ---
-	   
-# Day 12 — The greatest benefactor, and the gravest one to wrong
+
+# Day 12 — Kindness that asks for nothing back
 
 > **Notification**
-> **Title:** Look again at someone you've written off
-> **Detail:** When you look down on someone today, remember you can't see the good they might still do.
+> **Title:** After helping, notice what you hoped for
+> **Detail:** The bodhisattva helps unasked, expecting nothing. Today, notice any wish for credit.
 
 ## Opening
 
@@ -19,24 +19,22 @@ generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translati
 
 ## Renewing the Bodhisattva Vow
 
-Begin here every day. Say each part slowly. You can read it or follow the audio.
-
-*Mind Training (recite 3 times)*
-
+> **Mind Training** *(recite 3 times)*
+>
 > May all beings enjoy happiness and the causes of happiness.
 > May all beings be free from suffering and the causes of suffering.
 > May all beings never be separated from supreme happiness, free from suffering.
 > May all beings rest in great equanimity, free from attachment and aversion to those near and far.
-
-*Refuge (recite 3 times)*
-
+>
+> **Refuge** *(recite 3 times)*
+>
 > Until reaching the heart of buddhahood,
 > I take refuge in the Buddha,
 > I take refuge in the dharma,
 > And in the sangha of bodhisattvas.
-
-*Taking the Bodhisattva Vow (recite 3 times)*
-
+>
+> **Taking the Bodhisattva Vow** *(recite 3 times)*
+>
 > Just as the buddhas of the past gave rise to bodhicitta
 > And engaged step by step in the training of the bodhisattvas,
 > So I too, for the benefit of all beings, will give rise to bodhicitta
@@ -44,26 +42,19 @@ Begin here every day. Say each part slowly. You can read it or follow the audio.
 
 ## Today's Verses
 
+> ཕན་བཏགས་ལན་ལྡོན་གང་ཡིན་པ། །
+> དེ་ཡང་རེ་ཞིག་བསྔགས་འོས་ན། །
+> མ་བཅོལ་ལེགས་པར་བྱེད་པ་ཡི། །
+> བྱང་ཆུབ་སེམས་དཔའ་སྨོས་ཅི་དགོས། །
+>
+> We praise those who merely repay a favor. What need is there to speak of the Hero of Enlightenment, who does good unsolicited?
+
 > འགྲོ་བ་ཉུང་ཟད་ནར་མའི་ཟས་སྦྱོར་བ། །
 > སྐད་ཅིག་ཟས་ཙམ་སྦྱིན་པར་བྱེད་པ་དང་། །
 > བརྙས་བཅས་ཉིན་ཕྱེད་འགྲངས་པར་བྱེད་པ་ཡང་། །
 > དགེ་བ་བྱེད་པ་ཡིན་ཞེས་སྐྱེ་བོས་བཀུར། །
 >
 > People honor a person as a virtuous benefactor for giving a single meal to a few beings. They do this even when the food is given with disrespect, satisfying them for only half a day.
-
-> སེམས་ཅན་གྲངས་མཐའ་ཡས་ལ་དུས་རིང་དུ། །
-> བདེ་བར་གཤེགས་ཀྱི་བདེ་བ་བླ་ན་མེད། །
-> ཡིད་ལ་བསམ་པ་མཐའ་དག་རྫོགས་བྱེད་པ། །
-> རྟག་ཏུ་སྦྱིན་པ་ལྟ་ཞིག་སྨོས་ཅི་དགོས། །
->
-> What need is there to speak of the Heroes of Enlightenment? They give the supreme bliss of the Blissful Ones to countless beings, fulfilling every wish in their minds.
-
-> གང་ཞིག་དེ་འདྲའི་རྒྱལ་སྲས་སྦྱིན་བདག་ལ། །
-> གལ་ཏེ་ངན་སེམས་སྐྱེད་པར་བྱེད་ན་དེ། །
-> ངན་སེམས་བསྐྱེད་པའི་གྲངས་བཞིན་བསྐལ་པར་ནི། །
-> དམྱལ་བར་གནས་པར་འགྱུར་ཞེས་ཐུབ་པས་གསུངས། །
->
-> If anyone harbors a negative mind toward such a child of the Buddha, they will dwell in hell for eons. The Sage said they will remain there for as many eons as there were moments of that negative mind.
 
 ## From the Tradition
 

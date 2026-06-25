@@ -1,21 +1,21 @@
 ---
 day: 6
 chapter: 1
-verses: "1-15 to 1-17"
+verses: "1-15 to 1-16"
 status: draft
 translated_from: "en/Days/Chapter-1 D1-D14/6.md"
-generation_note: "Regenerated with the english-plan-generator skill. Interim commentary summaries used (en-ai/Verses/1-15.md, 1-16.md, 1-17.md); no 2-RAILS packages yet. English verses from en-AI-generated-root-loden-sherab.md; Tibetan from bo-བློ་ལྡན་ཤེས་རབ།.md. Needs domain-specialist review before status: complete."
+generation_note: "Regenerated with the english-plan-generator skill; verse grouping realigned to en/assets/schedule.md. Commentary from en-ai/Verses summaries; English verses from en-AI-generated-root-loden-sherab.md; Tibetan from bo-བློ་ལྡན་ཤེས་རབ།.md. Needs domain-specialist review before status: complete."
 ---
 
-# Day 6 — Wishing to go is not the same as going
+# Day 6 — Wanting to go is not the same as going
 
 > **Notification**
-> **Title:** Notice what keeps you from starting
+> **Title:** Notice what you keep meaning to start
 > **Detail:** There are two kinds of this mind: wishing, and setting out. Today, notice the gap.
 
 ## Opening
 
-आज अध्याय गुणगान छोड़कर यह बताने लगता है कि चीज़ है क्या। जागते हुए मन के दो रूप होते हैं: एक है जागने की चाह रखना, और दूसरा है सचमुच राह पर चल पड़ना। दोनों एक बात नहीं हैं, और शांतिदेव चाहते हैं कि यह फ़र्क़ हमें भीतर तक महसूस हो।
+आज के दो श्लोक इस मन के दो रंग दिखाते हैं। एक है जागने की बस चाह रखना। और दूसरा है उस चाह को लेकर असल में कदम बढ़ा देना। शांतिदेव बड़ी आसान मिसाल देते हैं: सफ़र पर जाने का मन करना और उठकर सचमुच निकल जाना, ये दोनों एक जैसे नहीं। दोनों की अपनी अहमियत है, पर यह पहचानना काम आता है कि इस वक़्त आप कहाँ खड़े हैं।
 
 ## Renewing the Bodhisattva Vow
 
@@ -56,16 +56,11 @@ generation_note: "Regenerated with the english-plan-generator skill. Interim com
 >
 > Think of the difference between wishing to travel and actually traveling. In the same way, the wise should understand the difference between these two minds.
 
-> བྱང་ཆུབ་སྨོན་པའི་སེམས་ལས་ནི། །
-> འཁོར་ཚེ་འབྲས་བུ་ཆེ་འབྱུང་ཡང་། །
-> ཇི་ལྟར་འཇུག་པའི་སེམས་བཞིན་དུ། །
-> བསོད་ནམས་རྒྱུན་ཆགས་འབྱུང་བ་མིན། །
->
-> Great fruits arise in the cycle of life from the aspiring mind. However, it does not produce a continuous flow of merit in the way the engaging mind does.
-
 ## From the Tradition
 
-चौदहवीं सदी के शिक्षक ङुलछु थोकमे मैत्रेय की एक तस्वीर सामने लाते हैं, जो एक सूत्र में मिलती है: एक चटका हुआ हीरा भी सोने के बड़े से बड़े टुकड़े से ज़्यादा चमकता है, और 'हीरा' कहलाना कभी नहीं छोड़ता। जागने की चाह बिल्कुल वैसी ही है। असली अभ्यास के साथ जुड़ने से पहले ही यह छोटे-मोटे रास्तों की नेकी पर भारी पड़ती है, अभी से 'बोधिसत्व' का नाम पाती है, और प्राणियों को संसार की तंगी से ऊपर उठा देती है। यह कोई दूसरे नंबर का इनाम नहीं, यह तो पहले से ही कुछ अनमोल है।
+पंद्रहवीं सदी के शिक्षक **ग्यालत्सब जे** एक बारीक बात पकड़ते हैं जो आसानी से नज़र से चूक जाती है। दोनों मन हू-ब-हू एक ही चीज़ चाहते हैं, दोनों चाहते हैं कि औरों के भले के लिए जागें।
+
+फ़र्क़ चाह का नहीं है। फ़र्क़ बस यह है कि इनमें से एक ने कदम उठा लिया है। एक सच्चे मन से चाहता है, मगर जहाँ का तहाँ रह जाता है। दूसरा भी उतने ही सच्चे मन से चाहता है, और चल पड़ता है।
 
 ## Aspiration and Dedication
 
@@ -81,4 +76,4 @@ generation_note: "Regenerated with the english-plan-generator skill. Interim com
 
 ## Today's Practice
 
-कोई एक काम चुनिए जिसे करने की ठान आप बहुत दिनों से रखे हुए हैं, अपने अभ्यास में या रोज़ की ज़िंदगी में। बड़े नरमी और सच्चाई से देखिए कि आख़िर वह क्या है जो आपको चाहने और शुरू करने के बीच ही अटकाए रखता है। आज कुछ कर डालना ज़रूरी नहीं। बस इस फ़ासले को ठीक-ठीक पहचान लीजिए।
+कोई एक काम मन में लाइए जिसे करने की सोच आप अरसे से पाले हुए हैं। आज उसे कर डालने का दबाव ख़ुद पर मत डालिए। बस सच्चाई से ग़ौर कीजिए कि आख़िर किस चीज़ की वजह से आप शुरू करने के बजाय चाहते ही रह जाते हैं।

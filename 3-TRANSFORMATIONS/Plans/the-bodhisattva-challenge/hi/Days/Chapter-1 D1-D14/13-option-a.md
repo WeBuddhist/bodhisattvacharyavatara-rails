@@ -1,22 +1,21 @@
 ---
 day: 13
 chapter: 1
-verses: "1-34 to 1-35"
+verses: "1-33 to 1-34"
 status: draft
 translated_from: "en/Days/Chapter-1 D1-D14/13.md"
-concept: "Ngulchu Thokme and Sazang Mati Panchen: a faithful, admiring mind toward a bodhisattva bears greater fruit than an angry one bears harm. The good outweighs the bad."
-generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-34.md, 1-35.md). No 2-RAILS/Verses/ packages exist for these verses yet. Generated under the english-plan-generator skill, 2026-06-10 revision (A2, narrated voice, rich text, one concept, one short practice)."
+generation_note: "Regenerated with the english-plan-generator skill; verse grouping realigned to en/assets/schedule-corrected.md. Commentary from en-ai/Verses summaries; English verses from en-AI-generated-root-loden-sherab.md; Tibetan from bo-བློ་ལྡན་ཤེས་རབ།.md. Needs domain-specialist review before status: complete."
 ---
-	 
-# Day 13 — A moment of admiration matters more than you think
+
+# Day 13 — Why a moment of anger can cost so much
 
 > **Notification**
-> **Title:** Who do you really look up to?
-> **Detail:** Admiring a good person does more good than you'd think. Let yourself admire someone for a moment.
+> **Title:** Catch one flash of ill-will before it grows
+> **Detail:** A moment of anger at a good person carries real weight. Today, catch one early and let it go.
 
 ## Opening
 
-आज के श्लोक बोधिसत्व के प्रति आपके दो भावों की बात करते हैं: गुस्सा और कद्र। गुस्सा सिर्फ़ आपको नुक़सान पहुँचाता है, बोधिसत्व को नहीं। कद्र इसका उल्टा करती है: यह आपको और भी बड़ा पुण्य देती है।
+कल का श्लोक दिखा रहा था कि एक बोधिसत्व कितना भला करता है। आज का श्लोक दूसरी ओर मुड़ता है। ऐसा इंसान इतना अनमोल है कि उसके प्रति एक भी गुस्से भरा ख़याल बहुत भारी पड़ता है। श्लोक इसे बेलाग कह देता है: गुस्से के हर पल के बदले युगों लंबा दुख। यह हमें चेताता है कि हम अपने मन को हल्के में न लें।
 
 ## Renewing the Bodhisattva Vow
 
@@ -43,6 +42,13 @@ generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translati
 
 ## Today's Verses
 
+> སེམས་ཅན་གྲངས་མཐའ་ཡས་ལ་དུས་རིང་དུ། །
+> བདེ་བར་གཤེགས་ཀྱི་བདེ་བ་བླ་ན་མེད། །
+> ཡིད་ལ་བསམ་པ་མཐའ་དག་རྫོགས་བྱེད་པ། །
+> རྟག་ཏུ་སྦྱིན་པ་ལྟ་ཞིག་སྨོས་ཅི་དགོས། །
+>
+> What need is there to speak of the Heroes of Enlightenment? They give the supreme bliss of the Blissful Ones to countless beings, fulfilling every wish in their minds.
+
 > གང་ཞིག་དེ་འདྲའི་རྒྱལ་སྲས་སྦྱིན་བདག་ལ། །
 > གལ་ཏེ་ངན་སེམས་སྐྱེད་པར་བྱེད་ན་དེ། །
 > ངན་སེམས་བསྐྱེད་པའི་གྲངས་བཞིན་བསྐལ་པར་ནི། །
@@ -50,22 +56,11 @@ generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translati
 >
 > If anyone harbors a negative mind toward such a child of the Buddha, they will dwell in hell for eons. The Sage said they will remain there for as many eons as there were moments of that negative mind.
 
-> འོན་ཏེ་གང་ཞིག་ཡིད་རབ་དང་བྱེད་ན། །
-> དེ་ཡི་འབྲས་བུ་དེ་བས་ལྷག་པར་འཕེལ། །
-> རྒྱལ་སྲས་རྣམས་ལ་དོ་གལ་ཆེན་པོས་ཀྱང་། །
-> སྡིག་པ་མི་འབྱུང་དགེ་བ་ངང་གིས་འཕེལ། །
->
-> However, if one generates a faithful mind toward them, its fruit will increase even further. Even when great harm befalls these children of the Buddha, no negativity arises, and their virtue naturally increases.
-
 ## From the Tradition
 
-आज के श्लोक कहते हैं कि बोधिसत्व की महज़ कद्र करना ही **बहुत बड़ा पुण्य** लाता है।
+पंद्रहवीं सदी के एक शिक्षक **ग्यालत्सब जे** बताते हैं कि ऐसे इंसान पर गुस्सा सबसे बड़ा नुक़सान क्यों माना जाता है। हर बुद्ध, वे कहते हैं, कभी न कभी एक बोधिसत्व था। यानी बोधिसत्व ही वह जड़ है जहाँ से बुद्ध आते हैं। उसका बुरा चाहना उस सारी भलाई की जड़ पर वार करना है जो उससे अनगिनत प्राणियों के लिए पनप सकती थी। इसीलिए श्लोक हमसे यहाँ इतना सावधान रहने को कहता है।
 
-चौदहवीं सदी के एक शिक्षक **ङुलछु थोकमे** इसे एक सूत्र की कहानी से समझाते हैं। उसमें दुनिया का हर इंसान अंधा हो चुका है, और एक व्यक्ति उन सबकी आँखों की रोशनी लौटा देता है। यह बहुत बड़ी भलाई होगी। फिर भी सूत्र कहता है कि सच्ची श्रद्धा से एक बोधिसत्व को देख भर लेना इससे भी ज़्यादा कीमती है।
-
-बोधिसत्व ने हर प्राणी को मुक्त करने का प्रण लिया है। इसीलिए उसमें रखी एक पल की श्रद्धा भी इतने मायने रखती है।
-
-## Aspiration
+## Aspiration and Dedication
 
 > May the precious bodhicitta
 > Arise in those who don't have it yet;
@@ -79,4 +74,4 @@ generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translati
 
 ## Today's Practice
 
-आज अगर कोई सचमुच भला इंसान आपके मन में आए, जैसे कोई शिक्षक, कोई दोस्त, या कोई भी जो दयालु है, तो बस एक पल के लिए उसकी कद्र होने दीजिए। इससे ज़्यादा कुछ नहीं चाहिए।
+आज उस पल पर नज़र रखिए जब किसी के प्रति झुँझलाहट या हिक़ारत उठे। न उसे ठीक करना है, न उसके लिए बुरा महसूस करना है। बस उसे जल्दी पकड़ लीजिए, उसके बढ़ने से पहले, और उसे गुज़र जाने दीजिए।

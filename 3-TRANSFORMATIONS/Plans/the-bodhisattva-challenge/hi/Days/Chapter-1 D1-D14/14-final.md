@@ -1,18 +1,19 @@
 ---
 day: 14
 chapter: 1
-verses: "1-36 to 1-37"
+verses: "1-35 to 1-36"
 status: draft
 translated_from: "en/Days/Chapter-1 D1-D14/14.md"
-concept: "Ngulchu Thokme: harming a bodhisattva leads to suffering and to happiness at once, with no contradiction. The suffering is the natural ripening of the harmer's own anger; the happiness comes from the bodhisattva's compassion, which works to lead even attackers to peace (King Maitribala)."
-generation_note: "Interim commentary summary used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-36.md). No 2-RAILS/Verses/ packages exist for these verses yet. Verse 1-37 is the closing colophon of Chapter 1, not a content verse; rendered plainly as the chapter's closing line. Final day of Chapter 1."
+generation_note: "Regenerated with the english-plan-generator skill; verse grouping realigned to en/assets/schedule-corrected.md. Closes Chapter 1 (final verses 1-35, 1-36). Commentary from en-ai/Verses summaries; English verses from en-AI-generated-root-loden-sherab.md; Tibetan from bo-བློ་ལྡན་ཤེས་རབ།.md. Needs domain-specialist review before status: complete."
 ---
 
-# Day 14 — Chapter One ends: honoring those who carry bodhicitta
+# Day 14 — Meeting harm with patience — Chapter 1 closes
+
+> **Notification**
+> **Title:** Admire someone who meets unkindness with patience
+> **Detail:** Chapter 1 closes. Today, bring to mind someone steady and kind, and simply admire them.
 
 ## Opening
-	
-*Push notification:* Today: the people who answer harm with kindness.
 
 <!-- अंतिम हिंदी अनुवाद यहाँ पेस्ट करें / paste final Hindi here -->
 
@@ -41,16 +42,19 @@ generation_note: "Interim commentary summary used (3-TRANSFORMATIONS/Translation
 
 ## Today's Verses
 
+> འོན་ཏེ་གང་ཞིག་ཡིད་རབ་དང་བྱེད་ན། །
+> དེ་ཡི་འབྲས་བུ་དེ་བས་ལྷག་པར་འཕེལ། །
+> རྒྱལ་སྲས་རྣམས་ལ་དོ་གལ་ཆེན་པོས་ཀྱང་། །
+> སྡིག་པ་མི་འབྱུང་དགེ་བ་ངང་གིས་འཕེལ། །
+>
+> However, if one generates a faithful mind toward them, its fruit will increase even further. Even when great harm befalls these children of the Buddha, no negativity arises, and their virtue naturally increases.
+
 > གང་ལ་སེམས་ཀྱི་དམ་པ་རིན་ཆེན་དེ། །
 > སྐྱེས་པ་དེ་ཡི་སྐུ་ལ་ཕྱག་འཚལ་ཞིང་། །
 > གང་ལ་གནོད་པ་བྱས་ཀྱང་བདེ་འབྲེལ་བ། །
 > བདེ་བའི་འབྱུང་གནས་དེ་ལ་སྐྱབས་སུ་མཆི། །
 >
 > I pay homage to the body of anyone in whom this precious jewel of the mind has arisen. I take refuge in those sources of happiness, who connect even their harmers with joy.
-
-> བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ལས་བྱང་ཆུབ་སེམས་ཀྱི་ཕན་ཡོན་བཤད་པ་ཞེས་བྱ་བ་སྟེ་ལེའུ་དང་པོའོ།། །།
->
-> This completes the first chapter of the Bodhisattvacharyavatara, the explanation of the benefits of bodhicitta.
 
 ## From the Tradition
 

@@ -1,21 +1,21 @@
 ---
 day: 7
 chapter: 1
-verses: "1-18 to 1-20"
+verses: "1-17 to 1-19"
 status: draft
 translated_from: "en/Days/Chapter-1 D1-D14/7.md"
-generation_note: "Regenerated with the english-plan-generator skill. Interim commentary summaries used (en-ai/Verses/1-18.md, 1-19.md, 1-20.md); no 2-RAILS packages yet. English verses from en-AI-generated-root-loden-sherab.md; Tibetan from bo-བློ་ལྡན་ཤེས་རབ།.md. Needs domain-specialist review before status: complete."
+generation_note: "Regenerated with the english-plan-generator skill; verse grouping realigned to en/assets/schedule.md. Commentary from en-ai/Verses summaries; English verses from en-AI-generated-root-loden-sherab.md; Tibetan from bo-བློ་ལྡན་ཤེས་རབ།.md. Needs domain-specialist review before status: complete."
 ---
 
-# Day 7 — Merit that keeps growing even while you sleep
+# Day 7 — Good that grows even while you sleep
 
 > **Notification**
-> **Title:** Check your promise, and renew it
-> **Detail:** Once the resolve is real, merit grows on its own. Today, check in and renew yours.
+> **Title:** Renew your resolve so it doesn't fade
+> **Detail:** Once the resolve is real, good keeps growing on its own, as long as it doesn't fade. Today, renew it.
 
 ## Opening
 
-एक बार जब वह चलने वाला मन सच में थाम लिया जाता है, सारे प्राणियों को आज़ाद कराने की एक मज़बूत, न डिगने वाली चाह के साथ, तो फिर पुण्य ख़ुद-ब-ख़ुद बनता रहता है, तब भी जब आप नींद में हों या मन भटका हो। आज के श्लोक यही बताते हैं, और साथ में यह भी कि इस बात को सबसे पहले किसे सुनने की दरकार थी।
+आज के श्लोक दोनों मनों को इस बात से तौलते हैं कि हर एक आख़िर ले किधर जाता है। जागने की चाह बड़े फल देती है, पर वे आते हैं और चले जाते हैं। मगर जो मन सच में निकल पड़ा है, उसकी बात ही और है। एक बार आपने उसे थाम लिया और दिल से ठान लिया कि सबको आज़ाद कराना है, तो भलाई फिर ख़ुद-ब-ख़ुद बढ़ती जाती है, तब भी जब आप नींद में हों या उसे भूल बैठे हों।
 
 ## Renewing the Bodhisattva Vow
 
@@ -42,6 +42,13 @@ generation_note: "Regenerated with the english-plan-generator skill. Interim com
 
 ## Today's Verses
 
+> བྱང་ཆུབ་སྨོན་པའི་སེམས་ལས་ནི། །
+> འཁོར་ཚེ་འབྲས་བུ་ཆེ་འབྱུང་ཡང་། །
+> ཇི་ལྟར་འཇུག་པའི་སེམས་བཞིན་དུ། །
+> བསོད་ནམས་རྒྱུན་ཆགས་འབྱུང་བ་མིན། །
+>
+> Great fruits arise in the cycle of life from the aspiring mind. However, it does not produce a continuous flow of merit in the way the engaging mind does.
+
 > གང་ནས་བཟུང་སྟེ་སེམས་ཅན་ཁམས། །
 > མཐའ་ཡས་རབ་ཏུ་དགྲོལ་བའི་ཕྱིར། །
 > མི་ལྡོག་པ་ཡི་སེམས་ཀྱིས་སུ། །
@@ -56,16 +63,11 @@ generation_note: "Regenerated with the english-plan-generator skill. Interim com
 >
 > from then on, even while asleep or careless, a vast stream of merit arises continuously, as vast as the sky.
 
-> འདི་ནི་འཐད་པ་དང་བཅས་པར། །
-> ལག་བཟང་གིས་ནི་ཞུས་པ་ལས། །
-> དམན་མོས་སེམས་ཅན་དོན་གྱི་ཕྱིར། །
-> དེ་བཞིན་གཤེགས་པ་ཉིད་ཀྱིས་གསུངས། །
->
-> The Buddha explained this clearly with sound reasoning in the teaching requested by Subāhu. He did this for the sake of those with lesser aspirations.
-
 ## From the Tradition
 
-पंद्रहवीं सदी के शिक्षक ग्यालत्सब जे समझाते हैं कि यह श्लोक पहले-पहल किसके लिए कहा गया। कुछ साधक बोधिसत्व की राह से सहम गए थे, सुस्ती से नहीं, डर से। उन्हें लगा कि एक बुद्ध बनने के लिए जितने पुण्य और समझ की ज़रूरत है, वह इतनी बड़ी है कि पहुँच के बाहर है, और वे पलटकर सिर्फ़ अपने सुकून की ओर बढ़ गए। बुद्ध का जवाब वही पिछला श्लोक है: एक बार सबको आज़ाद कराने की चाह दिल से बन जाए, तो पुण्य ख़ुद जमा होता रहता है, नींद में भी। असली मुश्किल कभी जमा करना थी ही नहीं, असली मुश्किल है वह संकल्प कर लेना।
+चौदहवीं सदी के शिक्षक **ङुलछु थोकमे** एक मद्धम-सी शर्त जोड़ते हैं जिस पर नज़र कम ही जाती है। हाँ, यह भलाई अपने आप बढ़ती है, पर तभी तक जब तक उसके पीछे की चाह सलामत है।
+
+तो यह एक बार करके भूल जाने वाली बात नहीं है। चाह बुझ गई, तो बढ़ना भी रुक गया। यही वजह है कि यह संकल्प, एक बार ले लेने के बाद, बचाकर रखने के क़ाबिल है।
 
 ## Aspiration and Dedication
 
@@ -81,4 +83,4 @@ generation_note: "Regenerated with the english-plan-generator skill. Interim com
 
 ## Today's Practice
 
-आज ज़रा उस इरादे का हाल पूछिए जो इस अभ्यास की शुरुआत में आपने ठाना था। क्या उसमें अब भी जान है, या वह धीरे-से बस एक आदत बनकर रह गया है? एक पल ठहरिए, उसे दोबारा कहिए, और सच्चे मन से कहिए।
+थोड़ा पीछे लौटकर उस इरादे को याद कीजिए जो इस अभ्यास की शुरुआत में आपने ठाना था। उसमें अब भी जान बाक़ी है, या वह चुपके-से बस एक ढर्रा बन गया है? उसे अभी दोबारा कहिए, और सच्चे मन से कहिए।

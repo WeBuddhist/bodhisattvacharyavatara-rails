@@ -1,21 +1,21 @@
 ---
 day: 8
 chapter: 1
-verses: "1-21 to 1-22"
+verses: "1-20 to 1-22"
 status: draft
 translated_from: "en/Days/Chapter-1 D1-D14/8.md"
-generation_note: "Regenerated with the english-plan-generator skill. Interim commentary summaries used (en-ai/Verses/1-21.md, 1-22.md); no 2-RAILS packages yet. English verses from en-AI-generated-root-loden-sherab.md; Tibetan from bo-བློ་ལྡན་ཤེས་རབ།.md. Needs domain-specialist review before status: complete."
+generation_note: "Regenerated with the english-plan-generator skill; verse grouping realigned to en/assets/schedule.md. Commentary from en-ai/Verses summaries; English verses from en-AI-generated-root-loden-sherab.md; Tibetan from bo-བློ་ལྡན་ཤེས་རབ།.md. Needs domain-specialist review before status: complete."
 ---
 
-# Day 8 — Even wishing to cure a headache counts
+# Day 8 — Even wishing to cure one headache counts
 
 > **Notification**
 > **Title:** Wish one good thing for someone struggling
-> **Detail:** Even the smallest wish to help carries great merit. Today, wish clearly for one person.
+> **Detail:** Even the smallest wish to help carries great merit. Today, make one clear wish for someone.
 
 ## Opening
 
-दो श्लोक, और एक सीधी-सी दलील। मदद की सबसे छोटी चाह भी, चाहे बस किसी का एक सिरदर्द दूर करने की हो, बेशुमार पुण्य लाती है। तो ज़रा सोचिए, हर प्राणी को उसके सारे दुख से छुड़ाने और उसे हर भली चीज़ देने की चाह में कितना पुण्य होगा।
+आज के श्लोक एक ऐसी घबराहट से शुरू होते हैं जो कई लोगों को होती है: यह राह इतनी बड़ी दिखती है कि शुरू ही क्यों करें? शांतिदेव इसका जवाब एक छोटी-सी मिसाल से देते हैं। किसी एक का सिरदर्द दूर करने की चाह तक उतनी छोटी नहीं जितनी हम समझते हैं। और जब इतनी छोटी चाह के भी मायने हैं, तो हर प्राणी को सारे दर्द से छुड़ाने की चाह का तो कोई नाप ही नहीं।
 
 ## Renewing the Bodhisattva Vow
 
@@ -42,6 +42,13 @@ generation_note: "Regenerated with the english-plan-generator skill. Interim com
 
 ## Today's Verses
 
+> འདི་ནི་འཐད་པ་དང་བཅས་པར། །
+> ལག་བཟང་གིས་ནི་ཞུས་པ་ལས། །
+> དམན་མོས་སེམས་ཅན་དོན་གྱི་ཕྱིར། །
+> དེ་བཞིན་གཤེགས་པ་ཉིད་ཀྱིས་གསུངས། །
+>
+> The Buddha explained this clearly with sound reasoning in the teaching requested by Subāhu. He did this for the sake of those with lesser aspirations.
+
 > སེམས་ཅན་རྣམས་ཀྱི་ཀླད་ནད་ཙམ། །
 > བསལ་ལོ་སྙམ་དུ་བསམས་ན་ཡང་། །
 > ཕན་འདོགས་བསམ་པ་དང་ལྡན་དེ། །
@@ -58,7 +65,9 @@ generation_note: "Regenerated with the english-plan-generator skill. Interim com
 
 ## From the Tradition
 
-चौदहवीं सदी के एक शिक्षक सज़ंग मती पंचेन मैत्रकन्या नाम की एक स्त्री की कहानी सुनाते हैं। उसने अपनी माँ को सताया था, और इसके कारण एक ऐसे नरक में जन्मी जहाँ उसके सिर पर एक जलता हुआ लोहे का पहिया घूमता था। उसी पीड़ा के बीच उसके मन में एक ख़याल उठा: जो भी इस तरह तड़पेगा, उसका यह दुख मुझ पर ही आ पड़े। बस इसी एक ख़याल से वह पहिया गायब हो गया, और वह उसी पल एक सुखी लोक में चली गई। किसी और का दुख अपने ऊपर लेने की एक सच्ची चाह, सबसे भयानक जगह में भी, वही ताक़त रखती है जिसकी ओर यह श्लोक इशारा करता है।
+चौदहवीं सदी के एक शिक्षक **सज़ंग मती पंचेन** इस श्लोक के पीछे की कहानी सुनाते हैं। मैत्रकन्या नाम की एक स्त्री ने अपनी माँ के साथ बहुत बुरा किया था, और मरने के बाद वह तड़प की एक जगह जा पहुँची, जहाँ उसके सिर पर एक जलता हुआ पहिया घूम रहा था। उसी पीड़ा के बीच उसके मन में एक ख़याल उठा: जो भी इस तरह तड़पे, उसका यह दुख मुझ पर आ जाए।
+
+यह सोचते ही पहिया हट गया और वह छूट गई। सज़ंग की बात सीधी है। अगर एक भला ख़याल सबसे भयानक जगह में इतना कर सकता है, तो यहाँ वह क्या कुछ नहीं कर सकता।
 
 ## Aspiration and Dedication
 
@@ -74,4 +83,4 @@ generation_note: "Regenerated with the english-plan-generator skill. Interim com
 
 ## Today's Practice
 
-किसी ऐसे एक इंसान के बारे में सोचिए जिसे आप जानते हैं और जो किसी मुश्किल से गुज़र रहा है, कोई बीमारी, कोई नुक़सान, या ऐसी हालत जिससे निकलने का रास्ता न दिखे। बस एक बार, जितना साफ़ हो सके, यह चाहिए: वह इससे छूट जाए। यह मत आँकिए कि आपने ठीक किया या नहीं। चाह का होना ही काफ़ी है।
+किसी एक इंसान के बारे में सोचिए जो अभी किसी मुश्किल से गुज़र रहा है। एक बार, जितने साफ़ दिल से हो सके, उसके लिए यह चाहिए: तुम इससे छूट जाओ। यह जैसे भी निकले, ठीक है। चाह का होना ही मायने रखता है।

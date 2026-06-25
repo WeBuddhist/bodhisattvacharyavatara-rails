@@ -292,4 +292,4 @@ _Thus ends Chapter Three: "Taking Up the Mind of Enlightenment."_
 
 ---
 
-*Source: Sanskrit root text of the Bodhisattvacaryāvatāra by Śāntideva (sk-dev.md). Translated at Grade 8 reading level following the en-plain-english style contract.*
+*Source: Sanskrit root text of the Bodhisattvacaryāvatāra by Śāntideva (BCAV08_SH_sk.md). Translated at Grade 8 reading level following the en-plain-english style contract.*

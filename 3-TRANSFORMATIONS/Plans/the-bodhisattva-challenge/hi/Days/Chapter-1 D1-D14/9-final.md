@@ -1,17 +1,17 @@
 ---
 day: 9
 chapter: 1
-verses: "1-23 to 1-26"
+verses: "1-23 to 1-25"
 status: draft
 translated_from: "en/Days/Chapter-1 D1-D14/9.md"
-generation_note: "Regenerated with the english-plan-generator skill. Interim commentary summaries used (en-ai/Verses/1-23.md, 1-24.md, 1-25.md, 1-26.md); no 2-RAILS packages yet. English verses from en-AI-generated-root-loden-sherab.md; Tibetan from bo-བློ་ལྡན་ཤེས་རབ།.md. Needs domain-specialist review before status: complete."
+generation_note: "Regenerated with the english-plan-generator skill; verse grouping realigned to en/assets/schedule.md. Commentary from en-ai/Verses summaries; English verses from en-AI-generated-root-loden-sherab.md; Tibetan from bo-བློ་ལྡན་ཤེས་རབ།.md. Needs domain-specialist review before status: complete."
 ---
 
-# Day 9 — Even Brahma's vast goodwill falls short of this
+# Day 9 — A wish no one in the world has had
 
 > **Notification**
-> **Title:** Push your kindness past where it usually stops
-> **Detail:** Even a god's goodwill stops short of this wish. Today, take one wish all the way.
+> **Title:** Take one kind wish further than usual
+> **Detail:** This wish is rarer than any ordinary love. Today, take one wish all the way.
 
 ## Opening
 
@@ -62,13 +62,6 @@ generation_note: "Regenerated with the english-plan-generator skill. Interim com
 > སྔ་ན་མེད་པའི་རྨད་ཅིག་འཁྲུངས། །
 >
 > This precious jewel of the mind arises in no other being even for their own sake. It is a wondrous birth that is truly unprecedented.
-
-> འགྲོ་བ་ཀུན་གྱི་དགའ་བའི་རྒྱུ། །
-> སེམས་ཅན་སྡུག་བསྔལ་རྩིར་གྱུར་པ། །
-> རིན་ཆེན་སེམས་ཀྱི་བསོད་ནམས་གང་། །
-> དེ་ལ་ཇི་ལྟར་གཞལ་གྱིས་ལང་། །
->
-> This jewel of the mind is the cause of joy for all wandering beings, and the medicine that cures their suffering. How can its immeasurable merit ever be measured?
 
 ## From the Tradition
 

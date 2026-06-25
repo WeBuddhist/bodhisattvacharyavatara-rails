@@ -1,17 +1,17 @@
 ---
 day: 11
 chapter: 1
-verses: "1-29 to 1-31"
+verses: "1-29 to 1-30"
 status: draft
 translated_from: "en/Days/Chapter-1 D1-D14/11.md"
-generation_note: "Regenerated with the english-plan-generator skill. Interim commentary summaries used (en-ai/Verses/1-29.md, 1-30.md, 1-31.md); no 2-RAILS packages yet. English verses from en-AI-generated-root-loden-sherab.md; Tibetan from bo-བློ་ལྡན་ཤེས་རབ།.md. Needs domain-specialist review before status: complete."
+generation_note: "Regenerated with the english-plan-generator skill; verse grouping realigned to en/assets/schedule.md. Commentary from en-ai/Verses summaries; English verses from en-AI-generated-root-loden-sherab.md; Tibetan from bo-བློ་ལྡན་ཤེས་རབ།.md. Needs domain-specialist review before status: complete."
 ---
 
-# Day 11 — Kindness that asks for nothing back
+# Day 11 — The friend who helps you see clearly
 
 > **Notification**
-> **Title:** After helping, notice what you hoped for
-> **Detail:** The bodhisattva helps unasked, expecting nothing. Today, notice any wish for credit.
+> **Title:** Thank someone who helped you see clearly
+> **Detail:** The deepest help isn't comfort, but clarity. Today, remember someone who gave you that.
 
 ## Opening
 
@@ -55,13 +55,6 @@ generation_note: "Regenerated with the english-plan-generator skill. Interim com
 > བསོད་ནམས་དེ་འདྲའང་ག་ལ་ཡོད། །
 >
 > It also dispels their ignorance. Where is there a virtue equal to this? Where is there such a spiritual friend, and where is there such merit?
-
-> ཕན་བཏགས་ལན་ལྡོན་གང་ཡིན་པ། །
-> དེ་ཡང་རེ་ཞིག་བསྔགས་འོས་ན། །
-> མ་བཅོལ་ལེགས་པར་བྱེད་པ་ཡི། །
-> བྱང་ཆུབ་སེམས་དཔའ་སྨོས་ཅི་དགོས། །
->
-> We praise those who merely repay a favor. What need is there to speak of the Hero of Enlightenment, who does good unsolicited?
 
 ## From the Tradition
 

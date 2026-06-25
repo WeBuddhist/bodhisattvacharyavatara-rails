@@ -186,6 +186,12 @@ Audits the vault for consistency: checks that all linked files exist, frontmatte
 **Outputs:** Target file(s) modified in place with `![[file#^block-id]]` transclusion links inserted; no new files created.
 → [`transclusion/SKILL.md`](transclusion/SKILL.md)
 
+### `tibetan-ocr-quality` **[exists]**
+**Purpose:** Calculate perplexity of a Tibetan OCR output file using KenLM and Botok normalization to assess OCR quality.
+**Inputs:** A `.txt` file containing raw Tibetan OCR output; the `BoKenlm-syl-v0.4.arpa` model file.
+**Outputs:** Console report with sentence count, token count, log-probability, and perplexity score.
+→ [`tibetan-ocr-quality/SKILL.md`](tibetan-ocr-quality/SKILL.md)
+
 ---
 
 ## Vault-specific skills
@@ -237,6 +243,12 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 **Inputs:** A Tibetan text passage (pasted or from a file) and a short `commentary-id` for the output filename.
 **Outputs:** `0-INBOX/toc-candidates-<commentary-id>.md` containing every candidate with TYPE, exact text, 10-word context window, and named items.
 → [`toc-candidate-extraction/SKILL.md`](toc-candidate-extraction/SKILL.md)
+
+### `toc-tree-extraction` **[exists]**
+**Purpose:** Build the FULL nested, decimal-numbered ས་བཅད TOC tree (དཀར་ཆག) from a Tibetan commentary — the complete pipeline, not just candidates. Claude-native port of `4-SYSTEM/Scripts/toc_tree_extractor/extract_toc_tree.py` (which uses the Gemini API): Claude performs the four inference passes itself — (1) section candidates, (2) verbatim enumeration blocks, (3) nested decimal tree, (4) QC repair — while two bundled Python helpers (`chunk_file.py`, `qc_check_tree.py`) do the deterministic chunking and tree QC. Use for in-session runs on one/a-few commentaries; use the Gemini script for headless batch runs.
+**Inputs:** Commentary/root-text `.md` path (normally `1-SOURCES/Commentaries/`) and a short `commentary-id`.
+**Outputs:** `0-INBOX/toc-candidates-<id>.md`, `0-INBOX/toc-tree-<id>.md` (no `^toc` block IDs), and `0-INBOX/toc-tree-qc-<id>.md`; per-chunk staging under `0-INBOX/temp/TOC-<id>/`.
+→ [`toc-tree-extraction/SKILL.md`](toc-tree-extraction/SKILL.md)
 
 ### `Outline-Extractor` **[exists]**
 **Purpose:** Extract the structural outline (ས་བཅད།) from a Tibetan commentary in `1-SOURCES/Commentaries/` and produce two output files: a flat tab-indented list (`ས་བཅད་རྐྱང་པ།`) and a nested heading+list structured outline (`ལྟེ་བའི་དཀར་ཆག།`), both saved to `3-TRANSFORMATIONS/Adaptations/<commentary-id>-sa-bcad/`.

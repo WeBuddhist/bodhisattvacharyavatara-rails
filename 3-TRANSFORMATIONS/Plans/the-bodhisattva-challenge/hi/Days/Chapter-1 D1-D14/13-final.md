@@ -1,18 +1,17 @@
 ---
 day: 13
 chapter: 1
-verses: "1-34 to 1-35"
+verses: "1-33 to 1-34"
 status: draft
 translated_from: "en/Days/Chapter-1 D1-D14/13.md"
-concept: "Ngulchu Thokme and Sazang Mati Panchen: a faithful, admiring mind toward a bodhisattva bears greater fruit than an angry one bears harm. The good outweighs the bad."
-generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translations/en-ai/Verses/1-34.md, 1-35.md). No 2-RAILS/Verses/ packages exist for these verses yet. Generated under the english-plan-generator skill, 2026-06-10 revision (A2, narrated voice, rich text, one concept, one short practice)."
+generation_note: "Regenerated with the english-plan-generator skill; verse grouping realigned to en/assets/schedule-corrected.md. Commentary from en-ai/Verses summaries; English verses from en-AI-generated-root-loden-sherab.md; Tibetan from bo-བློ་ལྡན་ཤེས་རབ།.md. Needs domain-specialist review before status: complete."
 ---
-	 
-# Day 13 — A moment of admiration matters more than you think
+
+# Day 13 — Why a moment of anger can cost so much
 
 > **Notification**
-> **Title:** Who do you really look up to?
-> **Detail:** Admiring a good person does more good than you'd think. Let yourself admire someone for a moment.
+> **Title:** Catch one flash of ill-will before it grows
+> **Detail:** A moment of anger at a good person carries real weight. Today, catch one early and let it go.
 
 ## Opening
 
@@ -43,6 +42,13 @@ generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translati
 
 ## Today's Verses
 
+> སེམས་ཅན་གྲངས་མཐའ་ཡས་ལ་དུས་རིང་དུ། །
+> བདེ་བར་གཤེགས་ཀྱི་བདེ་བ་བླ་ན་མེད། །
+> ཡིད་ལ་བསམ་པ་མཐའ་དག་རྫོགས་བྱེད་པ། །
+> རྟག་ཏུ་སྦྱིན་པ་ལྟ་ཞིག་སྨོས་ཅི་དགོས། །
+>
+> What need is there to speak of the Heroes of Enlightenment? They give the supreme bliss of the Blissful Ones to countless beings, fulfilling every wish in their minds.
+
 > གང་ཞིག་དེ་འདྲའི་རྒྱལ་སྲས་སྦྱིན་བདག་ལ། །
 > གལ་ཏེ་ངན་སེམས་སྐྱེད་པར་བྱེད་ན་དེ། །
 > ངན་སེམས་བསྐྱེད་པའི་གྲངས་བཞིན་བསྐལ་པར་ནི། །
@@ -50,18 +56,11 @@ generation_note: "Interim commentary summaries used (3-TRANSFORMATIONS/Translati
 >
 > If anyone harbors a negative mind toward such a child of the Buddha, they will dwell in hell for eons. The Sage said they will remain there for as many eons as there were moments of that negative mind.
 
-> འོན་ཏེ་གང་ཞིག་ཡིད་རབ་དང་བྱེད་ན། །
-> དེ་ཡི་འབྲས་བུ་དེ་བས་ལྷག་པར་འཕེལ། །
-> རྒྱལ་སྲས་རྣམས་ལ་དོ་གལ་ཆེན་པོས་ཀྱང་། །
-> སྡིག་པ་མི་འབྱུང་དགེ་བ་ངང་གིས་འཕེལ། །
->
-> However, if one generates a faithful mind toward them, its fruit will increase even further. Even when great harm befalls these children of the Buddha, no negativity arises, and their virtue naturally increases.
-
 ## From the Tradition
 
 <!-- अंतिम हिंदी अनुवाद यहाँ पेस्ट करें / paste final Hindi here -->
 
-## Aspiration
+## Aspiration and Dedication
 
 > May the precious bodhicitta
 > Arise in those who don't have it yet;

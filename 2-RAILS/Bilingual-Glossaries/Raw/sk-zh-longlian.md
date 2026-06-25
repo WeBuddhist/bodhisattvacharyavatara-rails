@@ -1,6 +1,6 @@
 ---
 gloss_file: 2-RAILS/Bilingual-Glossaries/Raw/sk-zh-longlian-gloss.md
-source_file: 1-SOURCES/Text/sk-dev.md
+source_file: 1-SOURCES/Text/BCAV08_SH_sk.md
 target_file: 1-SOURCES/Translations/zh-隆蓮法師.md
 source_language: sk
 target_language: zh

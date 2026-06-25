@@ -1,13 +1,6 @@
 ---
 name: toc-candidate-extraction
-description: >
-  Extract ས་བཅད (sa bcad) structural outline candidates from Tibetan Buddhist commentary text.
-  Use this skill whenever the user provides Tibetan text and wants to find structural outline
-  markers — whether they call it "sa bcad extraction", "TOC candidates", "structural analysis",
-  "outline detection", or simply ask to "find the divisions" or "extract the structure" from a
-  Tibetan passage. Trigger for any task involving ས་བཅད, sa bcad, Type A announcements, Type B
-  node headers, Type C closing counts, or structural segmentation of Tibetan commentary or
-  root text. Prioritise recall: it is better to extract too many candidates than to miss one.
+description: 'Extract ས་བཅད (sa bcad) structural outline candidates from Tibetan Buddhist commentary text. Use this skill whenever the user provides Tibetan text and wants to find structural outline markers — whether they call it "sa bcad extraction", "TOC candidates", "structural analysis", "outline detection", or simply ask to "find the divisions" or "extract the structure" from a Tibetan passage. Trigger for any task involving ས་བཅད, sa bcad, Type A announcements, Type B node headers, Type C closing counts, or structural segmentation of Tibetan commentary or root text. Prioritise recall: it is better to extract too many candidates than to miss one.'
 ---
 
 # ས་བཅད Candidate Extraction

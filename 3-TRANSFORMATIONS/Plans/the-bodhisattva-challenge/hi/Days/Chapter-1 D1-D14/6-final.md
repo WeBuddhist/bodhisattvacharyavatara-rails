@@ -1,16 +1,16 @@
 ---
 day: 6
 chapter: 1
-verses: "1-15 to 1-17"
+verses: "1-15 to 1-16"
 status: draft
 translated_from: "en/Days/Chapter-1 D1-D14/6.md"
-generation_note: "Regenerated with the english-plan-generator skill. Interim commentary summaries used (en-ai/Verses/1-15.md, 1-16.md, 1-17.md); no 2-RAILS packages yet. English verses from en-AI-generated-root-loden-sherab.md; Tibetan from bo-བློ་ལྡན་ཤེས་རབ།.md. Needs domain-specialist review before status: complete."
+generation_note: "Regenerated with the english-plan-generator skill; verse grouping realigned to en/assets/schedule.md. Commentary from en-ai/Verses summaries; English verses from en-AI-generated-root-loden-sherab.md; Tibetan from bo-བློ་ལྡན་ཤེས་རབ།.md. Needs domain-specialist review before status: complete."
 ---
 
-# Day 6 — Wishing to go is not the same as going
+# Day 6 — Wanting to go is not the same as going
 
 > **Notification**
-> **Title:** Notice what keeps you from starting
+> **Title:** Notice what you keep meaning to start
 > **Detail:** There are two kinds of this mind: wishing, and setting out. Today, notice the gap.
 
 ## Opening
@@ -55,13 +55,6 @@ generation_note: "Regenerated with the english-plan-generator skill. Interim com
 > བྱེ་བྲག་རིམ་བཞིན་ཤེས་པར་བྱ། །
 >
 > Think of the difference between wishing to travel and actually traveling. In the same way, the wise should understand the difference between these two minds.
-
-> བྱང་ཆུབ་སྨོན་པའི་སེམས་ལས་ནི། །
-> འཁོར་ཚེ་འབྲས་བུ་ཆེ་འབྱུང་ཡང་། །
-> ཇི་ལྟར་འཇུག་པའི་སེམས་བཞིན་དུ། །
-> བསོད་ནམས་རྒྱུན་ཆགས་འབྱུང་བ་མིན། །
->
-> Great fruits arise in the cycle of life from the aspiring mind. However, it does not produce a continuous flow of merit in the way the engaging mind does.
 
 ## From the Tradition
 

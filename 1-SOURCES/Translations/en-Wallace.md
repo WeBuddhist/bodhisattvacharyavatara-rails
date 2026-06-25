@@ -7,7 +7,7 @@ language: English
 file_type: translation
 lang_tag: en
 verse_id_format: chapter-verse
-root_text: 1-SOURCES/Text/sk-dev.md
+root_text: 1-SOURCES/Text/BCAV08_SH_sk.md
 covers_verses: 1-1–10-58
 source_description: "Wallace, Vesna A. and B. Alan Wallace (2009). A Guide to the Bodhisattva Way of Life. Ithaca: Snow Lion Publications."
 ---

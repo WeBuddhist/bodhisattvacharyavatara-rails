@@ -1,17 +1,17 @@
 ---
 day: 8
 chapter: 1
-verses: "1-21 to 1-22"
+verses: "1-20 to 1-22"
 status: draft
 translated_from: "en/Days/Chapter-1 D1-D14/8.md"
-generation_note: "Regenerated with the english-plan-generator skill. Interim commentary summaries used (en-ai/Verses/1-21.md, 1-22.md); no 2-RAILS packages yet. English verses from en-AI-generated-root-loden-sherab.md; Tibetan from bo-བློ་ལྡན་ཤེས་རབ།.md. Needs domain-specialist review before status: complete."
+generation_note: "Regenerated with the english-plan-generator skill; verse grouping realigned to en/assets/schedule.md. Commentary from en-ai/Verses summaries; English verses from en-AI-generated-root-loden-sherab.md; Tibetan from bo-བློ་ལྡན་ཤེས་རབ།.md. Needs domain-specialist review before status: complete."
 ---
 
-# Day 8 — Even wishing to cure a headache counts
+# Day 8 — Even wishing to cure one headache counts
 
 > **Notification**
 > **Title:** Wish one good thing for someone struggling
-> **Detail:** Even the smallest wish to help carries great merit. Today, wish clearly for one person.
+> **Detail:** Even the smallest wish to help carries great merit. Today, make one clear wish for someone.
 
 ## Opening
 
@@ -41,6 +41,13 @@ generation_note: "Regenerated with the english-plan-generator skill. Interim com
 > And engage step by step in that same training.
 
 ## Today's Verses
+
+> འདི་ནི་འཐད་པ་དང་བཅས་པར། །
+> ལག་བཟང་གིས་ནི་ཞུས་པ་ལས། །
+> དམན་མོས་སེམས་ཅན་དོན་གྱི་ཕྱིར། །
+> དེ་བཞིན་གཤེགས་པ་ཉིད་ཀྱིས་གསུངས། །
+>
+> The Buddha explained this clearly with sound reasoning in the teaching requested by Subāhu. He did this for the sake of those with lesser aspirations.
 
 > སེམས་ཅན་རྣམས་ཀྱི་ཀླད་ནད་ཙམ། །
 > བསལ་ལོ་སྙམ་དུ་བསམས་ན་ཡང་། །

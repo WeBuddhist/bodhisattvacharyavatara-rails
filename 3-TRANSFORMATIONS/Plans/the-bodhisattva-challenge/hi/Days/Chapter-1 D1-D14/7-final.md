@@ -1,17 +1,17 @@
 ---
 day: 7
 chapter: 1
-verses: "1-18 to 1-20"
+verses: "1-17 to 1-19"
 status: draft
 translated_from: "en/Days/Chapter-1 D1-D14/7.md"
-generation_note: "Regenerated with the english-plan-generator skill. Interim commentary summaries used (en-ai/Verses/1-18.md, 1-19.md, 1-20.md); no 2-RAILS packages yet. English verses from en-AI-generated-root-loden-sherab.md; Tibetan from bo-བློ་ལྡན་ཤེས་རབ།.md. Needs domain-specialist review before status: complete."
+generation_note: "Regenerated with the english-plan-generator skill; verse grouping realigned to en/assets/schedule.md. Commentary from en-ai/Verses summaries; English verses from en-AI-generated-root-loden-sherab.md; Tibetan from bo-བློ་ལྡན་ཤེས་རབ།.md. Needs domain-specialist review before status: complete."
 ---
 
-# Day 7 — Merit that keeps growing even while you sleep
+# Day 7 — Good that grows even while you sleep
 
 > **Notification**
-> **Title:** Check your promise, and renew it
-> **Detail:** Once the resolve is real, merit grows on its own. Today, check in and renew yours.
+> **Title:** Renew your resolve so it doesn't fade
+> **Detail:** Once the resolve is real, good keeps growing on its own, as long as it doesn't fade. Today, renew it.
 
 ## Opening
 
@@ -42,6 +42,13 @@ generation_note: "Regenerated with the english-plan-generator skill. Interim com
 
 ## Today's Verses
 
+> བྱང་ཆུབ་སྨོན་པའི་སེམས་ལས་ནི། །
+> འཁོར་ཚེ་འབྲས་བུ་ཆེ་འབྱུང་ཡང་། །
+> ཇི་ལྟར་འཇུག་པའི་སེམས་བཞིན་དུ། །
+> བསོད་ནམས་རྒྱུན་ཆགས་འབྱུང་བ་མིན། །
+>
+> Great fruits arise in the cycle of life from the aspiring mind. However, it does not produce a continuous flow of merit in the way the engaging mind does.
+
 > གང་ནས་བཟུང་སྟེ་སེམས་ཅན་ཁམས། །
 > མཐའ་ཡས་རབ་ཏུ་དགྲོལ་བའི་ཕྱིར། །
 > མི་ལྡོག་པ་ཡི་སེམས་ཀྱིས་སུ། །
@@ -55,13 +62,6 @@ generation_note: "Regenerated with the english-plan-generator skill. Interim com
 > ནམ་མཁའ་མཉམ་པར་རབ་ཏུ་འབྱུང་། །
 >
 > from then on, even while asleep or careless, a vast stream of merit arises continuously, as vast as the sky.
-
-> འདི་ནི་འཐད་པ་དང་བཅས་པར། །
-> ལག་བཟང་གིས་ནི་ཞུས་པ་ལས། །
-> དམན་མོས་སེམས་ཅན་དོན་གྱི་ཕྱིར། །
-> དེ་བཞིན་གཤེགས་པ་ཉིད་ཀྱིས་གསུངས། །
->
-> The Buddha explained this clearly with sound reasoning in the teaching requested by Subāhu. He did this for the sake of those with lesser aspirations.
 
 ## From the Tradition
 

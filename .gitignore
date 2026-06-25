@@ -18,6 +18,7 @@ gemini-scribe/
 __pycache__/
 *.pyc
 *.pyo
+.venv
 
 # Claude Code worktrees (local only)
 .claude/worktrees/

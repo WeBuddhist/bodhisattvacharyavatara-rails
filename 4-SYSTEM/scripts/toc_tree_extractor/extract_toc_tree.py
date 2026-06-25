@@ -52,6 +52,33 @@ import time
 from datetime import date
 from pathlib import Path
 
+
+def _load_dotenv():
+    """Load a .env file — searches cwd, vault root, script dir (first found wins)."""
+    candidates = [Path.cwd()]
+    for p in Path.cwd().parents:
+        if (p / "4-SYSTEM").is_dir():
+            candidates.append(p)
+            break
+    candidates.append(Path(__file__).parent)
+    for base in candidates:
+        env_file = base / ".env"
+        if env_file.exists():
+            with open(env_file, encoding="utf-8") as f:
+                for line in f:
+                    line = line.strip()
+                    if not line or line.startswith("#") or "=" not in line:
+                        continue
+                    key, _, val = line.partition("=")
+                    key = key.strip()
+                    val = val.strip().strip('"').strip("'")
+                    if key and key not in os.environ:
+                        os.environ[key] = val
+            return
+
+
+_load_dotenv()
+
 # ------------------------------------------------------------------------------
 # Defaults
 # ------------------------------------------------------------------------------

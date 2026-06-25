@@ -4,7 +4,7 @@ translator: "Sarvajñādeva[bdr:P00KG07267\r
 
   ]; Bande Paltsek[bdr:P8182]; Dharmaśrībhadra[bdr:P8171]; Rinchen Zangpo[bdr:P753]; Śākya-blo-gros[bdr:P8216\r
 
-  ]; Sumatikīrti[bdr:P3822]; Blo ldan shes rab[bdr:P2551]"
+  ]; Sumatikīrti[bdr:P8893]; Blo ldan shes rab[bdr:P2551]"
 language: Tibetan
 file_type: translation
 lang_tag: bo

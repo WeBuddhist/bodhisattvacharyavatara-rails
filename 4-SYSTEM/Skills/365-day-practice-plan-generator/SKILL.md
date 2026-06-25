@@ -50,8 +50,9 @@ Once you have the chapter and verse range, **read the root text and all relevant
 All generated prose must follow these style rules without exception:
 
 **Voice and person — differs by section**
-- **Sections 2 and 4** (Introduction and Explanations): Use a **neutral, explanatory tone**. Write as a teacher explaining the teaching to a practitioner. You may address the reader as ཁྱེད་ (you) to maintain warmth, but never use ངས་ / ང་རང་ / བདག་གིས་ in these sections. The focus is the teaching itself, not the practitioner's personal voice.
-- **Section 5 only** (Daily Life Application): Use the **first person singular** — ངས་, ང་རང་, བདག་གིས་. Never ང་ཚོས་ or ང་ཚོ་. This section voices the practitioner's own personal commitment to applying today's teaching.
+- **Section 2** (Introduction): Use the **first person singular** — ངས་, ང་རང་, བདག་གིས་. The practitioner opens the day in their own voice, speaking personally about the teaching and why it matters today.
+- **Section 4** (Explanations): Use a **neutral, explanatory tone**. Write as a teacher explaining the teaching to a practitioner. You may address the reader as ཁྱེད་ (you) to maintain warmth, but never use ངས་ / ང་རང་ / བདག་གིས་ in Section 4. The focus is the teaching itself, not the practitioner's personal voice.
+- **Section 5** (Daily Life Application): Use the **first person singular** — ངས་, ང་རང་, བདག་གིས་. Never ང་ཚོས་ or ང་ཚོ་. This section voices the practitioner's own personal commitment to applying today's teaching.
 
 **Sentence flow**
 - Sentences must be **connected and flowing**, linked by conjunctive particles: དང་། བཅས་། ཏེ། ནས། ཞིང་། etc.
@@ -68,7 +69,7 @@ All generated prose must follow these style rules without exception:
 **What to avoid**
 - ❌ Dzongkha grammatical patterns or vocabulary
 - ❌ Cold, encyclopaedic or overly academic prose — even neutral-tone sections (2, 4, 6) should feel warm and accessible, like a kind teacher speaking to a student
-- ❌ First person singular (ངས་ / ང་རང་ / བདག་གིས་) in Sections 2 and 4
+- ❌ First person singular (ངས་ / ང་རང་ / བདག་གིས་) in Section 4
 - ❌ ང་ཚོས་ / ང་ཚོ་ (collective "we") anywhere in the document
 - ❌ Clipped clauses that don't flow into one another
 
@@ -141,12 +142,12 @@ Always include these two sub-sections verbatim:
 
 ### Section 2 — ངོ་སྤྲོད། (Introduction) [GENERATED]
 
-> **Tone: neutral and engaging.** Write as a teacher warmly opening the day's practice. Do not use first person (ངས་ / ང་རང་). You may address the reader as ཁྱེད་ to maintain warmth.
+> **Tone: first person and very engaging.** Write in the practitioner's own voice — ངས་, ང་རང་, བདག་གིས་. This is not a teacher introducing the day; it is the practitioner themselves opening their practice, speaking directly about the verse and why it matters right now.
 
 Write exactly **2–4 sentences, ≤ 60 words** in Tibetan. This is not an explanation of the verse(s) — it is an introduction of the day with the verse(s). It should:
-- Introduce the day and its verse(s) as the entry point into today's practice
+- Speak in first person: the practitioner introduces the day and its verse(s) in their own voice
 - Be very engaging — draw a direct, living connection between the verse and the practitioner's own life
-- Invite the practitioner in, so they feel motivated to sit with this teaching today
+- Invite a felt sense of why this teaching matters today, so they are motivated to sit with it
 
 ---
 
@@ -432,7 +433,8 @@ If the user doesn't specify verses and asks only for a day number, read that fil
 - [ ] Exactly 1 daily application point in Section 5, focused on real-life challenges
 - [ ] Tibetan spelling and grammar reviewed — check case endings (e.g. ལ་དོན། སུ་དོན། གི་དོན།), verb forms, and particles for correctness throughout all generated sections
 - [ ] Section 5 uses first person singular (ངས་ / ང་རང་) — never collective ང་ཚོས་
-- [ ] Sections 2 and 4 use neutral tone — no first person (ངས་ / ང་རང་ / བདག་གིས་) in these sections
+- [ ] Section 2 uses first person singular (ངས་ / ང་རང་) — practitioner's own voice opening the day
+- [ ] Section 4 uses neutral tone — no first person (ངས་ / ང་རང་ / བདག་གིས་) in Section 4
 - [ ] Sentences flow smoothly with connective particles — no clipped Dzongkha-style clauses
 - [ ] Classical Tibetan literary register maintained; Śāntideva referred to as རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷ།
 - [ ] Section 7 — image generation prompt is English, single paragraph, 80–140 words; based on the day's verse(s), explanations, and challenge; specifies Pāla dynasty style, jewel tones, 4:5 portrait; no meta-commentary inside the prompt

@@ -12,23 +12,23 @@ A root text is the primary source — the original Sanskrit, Tibetan, Pali, or o
 
 ### Required Properties
 
-| Property | Description | Example |
-|----------|-------------|---------|
-| `file_type` | Must be `root-text` | `file_type: root-text` |
-| `title` | Title in the source language | `title: bodhisattvacaryāvatāra` |
-| `language` or `lang_tag` | Full language name **or** BCP47 code — at least one required. Both recommended. | `language: Sanskrit` / `lang_tag: sa` |
-| `category_id` | Unique ID for this work in the API | `category_id: JD5ULLPAV1cxg7RSb7L3q` |
-| `license` | Copyright status | `license: public` |
-| `author` | Author name(s), separated by semicolons. Attach a BDRC or OpenPecha ID using `[bdrc:ID]` or `[op:ID]`. Names in parentheses are treated as aliases. | `author: Śāntideva [bdrc:P1583]` |
-| `source` | URL of the source edition used | `source: https://webuddhist.com/` |
-| `edition_type` | `critical`, `diplomatic`, or `collated` | `edition_type: critical` |
+| Property                 | Description                                                                                                                                         | Example                               |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| `file_type`              | Must be `root-text`                                                                                                                                 | `file_type: root-text`                |
+| `title`                  | Title in the source language                                                                                                                        | `title: bodhisattvacaryāvatāra`       |
+| `language` or `lang_tag` | Full language name **or** BCP47 code — at least one required. Both recommended.                                                                     | `language: Sanskrit` / `lang_tag: sa` |
+| `category_id`            | Unique ID for this work in the API                                                                                                                  | `category_id: JD5ULLPAV1cxg7RSb7L3q`  |
+| `license`                | Copyright status                                                                                                                                    | `license: public`                     |
+| `author`                 | Author name(s), separated by semicolons. Attach a BDRC or OpenPecha ID using `[bdrc:ID]` or `[op:ID]`. Names in parentheses are treated as aliases. | `author: Śāntideva [bdrc:P1583]`      |
+| `source`                 | URL of the source edition used                                                                                                                      | `source: https://webuddhist.com/`     |
+| `edition_type`           | `critical`, `diplomatic`, or `collated`                                                                                                             | `edition_type: critical`              |
 
 ### Recommended Properties
 
-| Property | Description | Example |
-|----------|-------------|---------|
-| `bdrc_work_id` | BDRC work ID — used to auto-resolve `translation_of` and fetch `alt_titles` for translation files | `bdrc_work_id: WA19740` |
-| `alt_titles` | Alternative titles (other scripts, transliterations) — auto-fetched from BDRC if `bdrc_work_id` is set | |
+| Property       | Description                                                                                            | Example                 |
+| -------------- | ------------------------------------------------------------------------------------------------------ | ----------------------- |
+| `bdrc_work_id` | BDRC work ID — used to auto-resolve `translation_of` and fetch `alt_titles` for translation files      | `bdrc_work_id: WA19740` |
+| `alt_titles`   | Alternative titles (other scripts, transliterations) — auto-fetched from BDRC if `bdrc_work_id` is set |                         |
 
 ### Optional Properties
 

@@ -129,6 +129,15 @@ Tibetan makes it easy to stack genitive modifiers (X-བའི་ Y-བའི་
 
 ---
 
+### Vocabulary precision — common errors to avoid
+
+| Wrong | Correct | Note |
+|---|---|---|
+| གཡོག་མི་བྱ་བར་ | གཡོ་མི་བྱ་བར་ | གཡོག་ = to serve (as a servant); གཡོ་ = deception/pretext/excuse |
+| བློ་ལངས་ | བློ་སྐྱེས་ | བློ་ལངས་ is unusual; བློ་སྐྱེ་ is the correct verb for "a thought arises" |
+
+---
+
 ### Model examples
 
 **Section 2 — neutral introduction, warm, ≤ 60 words:**

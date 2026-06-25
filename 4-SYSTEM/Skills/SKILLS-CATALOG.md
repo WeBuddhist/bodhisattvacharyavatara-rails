@@ -186,6 +186,12 @@ Audits the vault for consistency: checks that all linked files exist, frontmatte
 **Outputs:** Target file(s) modified in place with `![[file#^block-id]]` transclusion links inserted; no new files created.
 → [`transclusion/SKILL.md`](transclusion/SKILL.md)
 
+### `tibetan-ocr-quality` **[exists]**
+**Purpose:** Calculate perplexity of a Tibetan OCR output file using KenLM and Botok normalization to assess OCR quality.
+**Inputs:** A `.txt` file containing raw Tibetan OCR output; the `BoKenlm-syl-v0.4.arpa` model file.
+**Outputs:** Console report with sentence count, token count, log-probability, and perplexity score.
+→ [`tibetan-ocr-quality/SKILL.md`](tibetan-ocr-quality/SKILL.md)
+
 ---
 
 ## Vault-specific skills

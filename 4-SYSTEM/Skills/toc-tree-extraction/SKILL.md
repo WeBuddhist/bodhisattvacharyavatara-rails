@@ -67,6 +67,7 @@ and ask** before doing anything else.
 
 | File | Stage |
 |---|---|
+| `0-INBOX/temp/TOC-<id>/chunk-index.tsv` | chunk line-range index (no text duplicated) |
 | `0-INBOX/temp/TOC-<id>/candidates/chunk_NNN.md` | per-chunk section candidates (resumable) |
 | `0-INBOX/temp/TOC-<id>/enumerations/chunk_NNN.md` | per-chunk verbatim enumeration blocks |
 | `0-INBOX/toc-candidates-<id>.md` | merged candidates |
@@ -80,33 +81,44 @@ source/rails file with block IDs is a separate step — use `add-toc`.)
 
 ---
 
-## Step 0 — Chunk the file (deterministic helper)
+## Step 0 — Plan the chunks (deterministic helper, index-only)
+
+Do NOT copy the text into per-chunk files. Just plan the line windows — subagents read their
+range straight from the source:
 
 ```bash
 python 4-SYSTEM/Skills/toc-tree-extraction/scripts/chunk_file.py \
-  "<input-file>" --chunk-size 150 --overlap 25 \
-  --output-dir 0-INBOX/temp/TOC-<id>/chunks
+  "<input-file>" --chunk-size 150 --overlap 25 --index-only \
+  --output-dir 0-INBOX/temp/TOC-<id>
 ```
 
-The 25-line overlap guarantees every candidate appears in full in at least one chunk.
-**Resumability:** before dispatching a pass-1 or pass-2 subagent for a chunk, check whether
-its output file already exists and skip if so, so an interrupted run resumes from the first
+This writes one tiny file, `0-INBOX/temp/TOC-<id>/chunk-index.tsv`, with a row per chunk:
+`chunk_id <TAB> start_line <TAB> end_line` (1-based, inclusive). The 25-line overlap
+guarantees every candidate appears in full in at least one window; no source text is
+duplicated on disk. Read this small index into your context — it's just numbers — and drive
+the passes from it.
+
+**Resumability:** before dispatching a pass-1/pass-2 subagent for a chunk, check whether its
+output file already exists and skip if so, so an interrupted run resumes from the first
 missing chunk.
 
 ---
 
 ## Pass 1 — Section candidates · ISOLATED subagent per chunk
 
-For each chunk whose result file does not already exist, dispatch a **separate `Task`
-subagent**. The subagent reads the chunk and the prompt by path and writes its own result
-file — you pass only paths, never chunk text:
+For each chunk row whose result file does not already exist, dispatch a **separate `Task`
+subagent**. Pass it the prompt path, the source path, and that chunk's line range from the
+index — never chunk text:
 
 > Read `4-SYSTEM/Skills/toc-tree-extraction/prompts/pass1-candidates.md` and follow it
-> exactly. Apply it to ONLY the chunk file `0-INBOX/temp/TOC-<id>/chunks/chunk_NNN.md`.
+> exactly. Read ONLY lines START–END of the source file `<input-file>` (use
+> `sed -n 'START,ENDp' "<input-file>"`, or the Read tool with offset=START / limit=END−START+1).
 > Write your output to `0-INBOX/temp/TOC-<id>/candidates/chunk_NNN.md`, starting with the
-> line `<!-- chunk NNN | source: <id> -->`, a blank line, then the candidate blocks — or
-> `<!-- no candidates -->` if the prompt yields `NO CANDIDATES`. Do no other task; reply only
-> with the path you wrote.
+> line `<!-- chunk NNN | lines START–END | source: <id> -->`, a blank line, then the
+> candidate blocks — or `<!-- no candidates -->` if the prompt yields `NO CANDIDATES`. Do no
+> other task; reply only with the path you wrote.
+
+(Substitute the actual `START`, `END`, `NNN`, and `<input-file>` from the index row.)
 
 Independent chunks have no dependencies, so dispatch several pass-1 subagents **in parallel**
 — multiple `Task` calls in one message. (The harness runs a bounded number at once and queues
@@ -121,10 +133,12 @@ copying must not be contaminated by the interpretive instructions of the other p
 read-by-path / write-own-file pattern:
 
 > Read `4-SYSTEM/Skills/toc-tree-extraction/prompts/pass2-enumerations.md` and follow it
-> exactly. Apply it to ONLY the chunk file `0-INBOX/temp/TOC-<id>/chunks/chunk_NNN.md`. Write
-> your output to `0-INBOX/temp/TOC-<id>/enumerations/chunk_NNN.md` — the enumeration blocks,
-> or `NO ENUMERATIONS`. Copy verbatim; add no interpretation. Reply only with the path you
-> wrote.
+> exactly. Read ONLY lines START–END of the source file `<input-file>` (use
+> `sed -n 'START,ENDp' "<input-file>"`). Write your output to
+> `0-INBOX/temp/TOC-<id>/enumerations/chunk_NNN.md` — the enumeration blocks, or
+> `NO ENUMERATIONS`. Isolate ONLY the division-announcement clauses (start at the topic being
+> divided, stop at the closing count/list marker); do NOT copy the commentary body that
+> explains each part. Copy verbatim; add no interpretation. Reply only with the path you wrote.
 
 These run in parallel too (one message, multiple `Task` calls), each writing a distinct file.
 
@@ -209,8 +223,8 @@ deterministic checker as the gate — never declare the tree clean on a subagent
 ## Execution summary
 
 1. Confirm `input-file` and `commentary-id` (ask if not obvious).
-2. `chunk_file.py` → overlapping chunks.
-3. Pass 1: isolated subagent per chunk, reads its chunk + writes its own `candidates/chunk_NNN.md` (resumable, parallel).
+2. `chunk_file.py --index-only` → `chunk-index.tsv` (line ranges only, no text copied).
+3. Pass 1: isolated subagent per chunk, reads its line range from the source + writes its own `candidates/chunk_NNN.md` (resumable, parallel).
 4. Pass 2: isolated subagent per chunk, writes its own `enumerations/chunk_NNN.md` (parallel).
 5. Merge on disk (shell `cat`) → `0-INBOX/toc-candidates-<id>.md` and `0-INBOX/toc-enumerations-<id>.md`.
 6. Pass 3: one isolated subagent reads both merged files → writes `0-INBOX/toc-tree-<id>.md`.

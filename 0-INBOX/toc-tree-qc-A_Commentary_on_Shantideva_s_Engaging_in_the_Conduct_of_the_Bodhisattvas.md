@@ -1,0 +1,517 @@
+---
+source: A_Commentary_on_Shantideva_s_Engaging_in_the_Conduct_of_the_Bodhisattvas
+skill: toc-candidate-extraction
+stage: toc-tree-qc
+date: 2026-06-24
+model: gemini-flash-latest
+repaired: true
+issues_before: 267
+issues_after: 232
+---
+
+# TOC tree QC report
+
+## Issues found (before repair)
+
+- L76: Tibetan ordinal = 3 but decimal last segment = 1  ->  2.2.3.1.3.1 གསུམ་པ་སྐལ་མཉམ་གཞན་ལའང་ཕན་ཚུལ་
+- L85: Tibetan ordinal = 4 but decimal last segment = 5  ->  2.2.3.1.3.2.5 བཞི་པ་གཞུང་གིས་བསྟན་ཚུལ་
+- L96: Tibetan ordinal = 3 but decimal last segment = 1  ->  2.2.3.2.2.1.1.3.1 གསུམ་པ་བདེན་གཉིས་ཀྱི་དབྱེ་བ་
+- L107: Tibetan ordinal = 2 but decimal last segment = 3  ->  2.2.3.2.2.1.1.3.1.3.1.4.3 གཉིས་པ་ཐུན་མོང་དུ་བླང་ཚུལ་
+- L185: Tibetan ordinal = 2 but decimal last segment = 3  ->  2.2.3.2.2.1.2.2.1.3.3 གཉིས་པ་གཞུང་དོན་
+- L200: Tibetan ordinal = 3 but decimal last segment = 2  ->  2.2.3.2.2.1.2.2.1.4.5.2.1.2.2 གསུམ་པ་དོན་བསྡུ་
+- L224: indent 27 spaces != expected 12 for depth 5 (2.2.1.1.6)
+- L225: indent 27 spaces != expected 12 for depth 5 (2.2.1.1.7)
+- L226: indent 27 spaces != expected 12 for depth 5 (2.2.1.1.8)
+- L230: indent 33 spaces != expected 24 for depth 9 (2.2.3.2.2.1.8.1.3)
+- L259: Tibetan ordinal = 4 but decimal last segment = 3  ->  2.2.3.2.2.2.1.3 བཞི་པ་ངེས་ཚིག་
+- L262: Tibetan ordinal = 5 but decimal last segment = 4  ->  2.2.3.2.2.2.1.4 ལྔ་པ་སྒོམ་ཚུལ་
+- L263: Tibetan ordinal = 6 but decimal last segment = 5  ->  2.2.3.2.2.2.1.5 དྲུག་པ་དབྱེ་བ་
+- L264: Tibetan ordinal = 7 but decimal last segment = 6  ->  2.2.3.2.2.2.1.6 བདུན་པ་བསྡུས་ཚུལ་
+- L265: Tibetan ordinal = 8 but decimal last segment = 7  ->  2.2.3.2.2.2.1.7 བརྒྱད་པ་མི་མཐུན་ཕྱོགས་
+- L266: Tibetan ordinal = 9 but decimal last segment = 8  ->  2.2.3.2.2.2.1.8 དགུ་པ་ཡོན་ཏན་
+- L267: Tibetan ordinal = 10 but decimal last segment = 9  ->  2.2.3.2.2.2.1.9 བཅུ་པ་ཕན་ཚུན་རྣམ་པར་ངེས་པ་
+- L293: Tibetan ordinal = 2 but decimal last segment = 3  ->  2.2.3.2.2.2.2.3.1.1.2.1.3 གཉིས་པ་ལྕི་བར་བསྟན་པ་
+- L294: Tibetan ordinal = 3 but decimal last segment = 4  ->  2.2.3.2.2.2.2.3.1.1.2.1.4 གསུམ་པ་ཡུན་རིང་ཐོགས་ཚུལ་
+- L295: Tibetan ordinal = 3 but decimal last segment = 5  ->  2.2.3.2.2.2.2.3.1.1.2.1.5 གསུམ་པ་སྒྲུབ་པར་གདམས་པ་
+- L308: Tibetan ordinal = 3 but decimal last segment = 2  ->  2.2.3.2.2.2.2.3.1.1.2.2.2.1.1.2 གསུམ་པ་ཡུན་རིང་གནོད་པས་སྤང་ཚུལ་
+- L309: Tibetan ordinal = 4 but decimal last segment = 3  ->  2.2.3.2.2.2.2.3.1.1.2.2.2.1.1.3 བཞི་པ་བསྟེན་པར་དཀའ་བས་སྤང་ཚུལ་
+- L323: Tibetan ordinal = 3 but decimal last segment = 4  ->  2.2.3.2.2.2.2.3.1.1.2.2.2.4 གསུམ་པ་སྤྱིའི་དོན་བསྡུ་
+- L342: Tibetan ordinal = 9 but decimal last segment = 6  ->  2.2.3.2.2.2.2.3.2.1.2.2.2.2.6 དགུ་པ་ཤེས་རབ་སེམས་གཙོ་བས་འགྲུབ་ཚུལ་
+- L342: ordinal 9 (དགུ་པ) not attested for this title in candidates/enumerations (source attaches: 6)  ->  2.2.3.2.2.2.2.3.2.1.2.2.2.2.6 དགུ་པ་ཤེས་རབ་སེམས་གཙོ་བས་འགྲུབ་ཚུལ་
+- L349: ordinal 1 (དང་པོ) not attested for this title in candidates/enumerations (source attaches: 3)  ->  2.2.3.2.2.2.2.3.2.2.1 དང་པོ་བསྲུང་བར་གདམས་པ་
+- L355: Tibetan ordinal = 2 but decimal last segment = 3  ->  2.2.3.2.2.2.2.3.2.2.2.2.3 གཉིས་པ་དྲན་པ་ཉམས་པ་
+- L411: Tibetan ordinal = 3 but decimal last segment = 5  ->  2.2.3.2.2.2.2.3.2.2.3.2.2.5 གསུམ་པ་བསྡུས་ཏེ་བསྟན་པ་
+- L412: Tibetan ordinal = 3 but decimal last segment = 6  ->  2.2.3.2.2.2.2.3.2.2.3.2.2.6 གསུམ་པ་ཉམས་སུ་བླང་བར་གདམས་པ་
+- L417: indent 18 spaces != expected 21 for depth 8 (2.2.3.2.2.2.3.4)
+- L418: indent 18 spaces != expected 21 for depth 8 (2.2.3.2.2.2.3.5)
+- L419: indent 21 spaces != expected 24 for depth 9 (2.2.3.2.2.2.3.5.1)
+- L420: indent 24 spaces != expected 27 for depth 10 (2.2.3.2.2.2.3.5.1.1)
+- L421: indent 24 spaces != expected 27 for depth 10 (2.2.3.2.2.2.3.5.1.2)
+- L422: indent 24 spaces != expected 27 for depth 10 (2.2.3.2.2.2.3.5.1.3)
+- L423: indent 21 spaces != expected 24 for depth 9 (2.2.3.2.2.2.3.5.2)
+- L424: indent 24 spaces != expected 27 for depth 10 (2.2.3.2.2.2.3.5.2.1)
+- L425: indent 27 spaces != expected 30 for depth 11 (2.2.3.2.2.2.3.5.2.1.1)
+- L426: indent 27 spaces != expected 30 for depth 11 (2.2.3.2.2.2.3.5.2.1.2)
+- L427: indent 27 spaces != expected 30 for depth 11 (2.2.3.2.2.2.3.5.2.1.3)
+- L428: indent 24 spaces != expected 27 for depth 10 (2.2.3.2.2.2.3.5.2.2)
+- L429: indent 27 spaces != expected 30 for depth 11 (2.2.3.2.2.2.3.5.2.2.1)
+- L430: indent 27 spaces != expected 30 for depth 11 (2.2.3.2.2.2.3.5.2.2.2)
+- L431: indent 30 spaces != expected 33 for depth 12 (2.2.3.2.2.2.3.5.2.2.2.1)
+- L432: indent 33 spaces != expected 36 for depth 13 (2.2.3.2.2.2.3.5.2.2.2.1.1)
+- L433: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.1.1.1)
+- L434: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.1)
+- L435: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.1.1)
+- L436: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.1.2)
+- L437: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.1.3)
+- L438: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.1.4)
+- L439: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.1.5)
+- L440: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.1.6)
+- L441: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.2)
+- L442: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.2.1)
+- L443: indent 45 spaces != expected 48 for depth 17 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.2.1.1)
+- L444: indent 48 spaces != expected 51 for depth 18 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.2.1.1.1)
+- L445: indent 48 spaces != expected 51 for depth 18 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.2.1.1.2)
+- L446: indent 48 spaces != expected 51 for depth 18 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.2.1.1.3)
+- L447: indent 45 spaces != expected 48 for depth 17 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.2.1.2)
+- L448: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.2.2)
+- L449: indent 45 spaces != expected 48 for depth 17 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.2.2.1)
+- L450: indent 45 spaces != expected 48 for depth 17 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.2.2.2)
+- L451: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.2.3)
+- L452: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.2.4)
+- L452: Tibetan ordinal = 2 but decimal last segment = 4  ->  2.2.3.2.2.2.3.5.2.2.2.1.1.1.2.4 གཉིས་པ་རྩོད་པ་སྤང་པ་
+- L453: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.3)
+- L454: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.3.1)
+- L455: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.3.2)
+- L456: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.3.3)
+- L457: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.3.4)
+- L458: indent 45 spaces != expected 48 for depth 17 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.3.4.1)
+- L459: indent 45 spaces != expected 48 for depth 17 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.3.4.2)
+- L460: indent 45 spaces != expected 48 for depth 17 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.3.4.3)
+- L461: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.3.5)
+- L462: indent 45 spaces != expected 48 for depth 17 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.3.5.1)
+- L463: indent 45 spaces != expected 48 for depth 17 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.3.5.2)
+- L464: indent 45 spaces != expected 48 for depth 17 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.3.5.3)
+- L465: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.1.1.2)
+- L466: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.1.2.1)
+- L467: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.2.1.1)
+- L468: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.2.1.2)
+- L469: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.1.2.2)
+- L470: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.2.2.1)
+- L471: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.2.2.2)
+- L472: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.2.2.3)
+- L473: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.1.2.3)
+- L474: indent 33 spaces != expected 36 for depth 13 (2.2.3.2.2.2.3.5.2.2.2.1.2)
+- L475: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.1.2.1)
+- L476: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.1.2.2)
+- L477: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.2.2.1)
+- L478: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.2.2.2)
+- L479: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.2.2.3)
+- L480: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.2.2.4)
+- L481: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.1.2.3)
+- L482: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.2.3.1)
+- L483: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.2.3.2)
+- L484: indent 33 spaces != expected 36 for depth 13 (2.2.3.2.2.2.3.5.2.2.2.1.3)
+- L485: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.1.3.1)
+- L486: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.3.1.1)
+- L487: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.3.1.2)
+- L488: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.1.3.2)
+- L489: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.1.3.3)
+- L490: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.3.3.1)
+- L491: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.3.3.2)
+- L492: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.3.3.3)
+- L493: indent 39 spaces != expected 21 for depth 8 (2.2.3.2.2.3.3.4)
+- L494: indent 30 spaces != expected 33 for depth 12 (2.2.3.2.2.2.3.5.2.2.2.2)
+- L495: indent 33 spaces != expected 36 for depth 13 (2.2.3.2.2.2.3.5.2.2.2.2.1)
+- L496: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.2.1.1)
+- L497: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.2.1.2)
+- L498: indent 33 spaces != expected 36 for depth 13 (2.2.3.2.2.2.3.5.2.2.2.2.2)
+- L499: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.2.2.1)
+- L500: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.2.2.2)
+- L501: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.2.2.3)
+- L502: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.2.2.4)
+- L503: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.2.2.5)
+- L504: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.2.2.5.1)
+- L505: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.2.2.5.2)
+- L506: indent 30 spaces != expected 33 for depth 12 (2.2.3.2.2.2.3.5.2.2.2.3)
+- L507: indent 33 spaces != expected 36 for depth 13 (2.2.3.2.2.2.3.5.2.2.2.3.1)
+- L508: indent 33 spaces != expected 36 for depth 13 (2.2.3.2.2.2.3.5.2.2.2.3.2)
+- L509: indent 33 spaces != expected 36 for depth 13 (2.2.3.2.2.2.3.5.2.2.2.3.3)
+- L510: indent 33 spaces != expected 36 for depth 13 (2.2.3.2.2.2.3.5.2.2.2.3.4)
+- L511: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.3.4.1)
+- L512: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.3.4.2)
+- L513: indent 33 spaces != expected 36 for depth 13 (2.2.3.2.2.2.3.5.2.2.2.3.5)
+- L514: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.3.5.1)
+- L515: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.3.5.2)
+- L516: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.3.5.3)
+- L517: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.3.5.4)
+- L518: indent 33 spaces != expected 36 for depth 13 (2.2.3.2.2.2.3.5.2.2.2.3.6)
+- L519: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.3.6.1)
+- L520: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.3.6.2)
+- L521: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.3.6.2.1)
+- L522: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.3.6.2.2)
+- L523: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.3.6.3)
+- L536: Tibetan ordinal = 2 but decimal last segment = 5  ->  2.2.3.2.2.4.5 གཉིས་པ་གཞུང་དོན་
+- L538: Tibetan ordinal = 1 but decimal last segment = 2  ->  2.2.3.2.2.4.5.2 དང་པོ་མདོར་བསྟན་
+- L558: Tibetan ordinal = 2 but decimal last segment = 3  ->  2.2.3.2.2.4.5.3 གཉིས་པ་གསུམ་པགཉེན་པོ་ལའང་གཉིས་
+- L568: indent 39 spaces != expected 36 for depth 13 (2.2.3.2.2.4.3.2.1.1.1.3.2)
+- L624: Tibetan ordinal = 2 but decimal last segment = 5  ->  2.2.3.2.2.5.5 གཉིས་པ་གཞུང་དོན་
+- L629: Tibetan ordinal = 1 but decimal last segment = 2  ->  2.2.3.2.2.5.5.2.1.2 དང་པོ་མདོར་བསྟན་
+- L630: Tibetan ordinal = 2 but decimal last segment = 3  ->  2.2.3.2.2.5.5.2.1.3 གཉིས་པ་རྒྱས་བཤད་
+- L646: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.5.5.2.1.3.2.1.3)
+- L649: Tibetan ordinal = 2 but decimal last segment = 1  ->  2.2.3.2.2.5.5.2.2.1 གཉིས་པ་རྣམ་རྟོག་སྤང་ཚུལ་གཉིས་
+- L651: duplicate decimal 2.2.3.2.2.2.2.3.2.2.2 (also at L350)
+- L652: duplicate decimal 2.2.3.2.2.2.2.3.2.2.2.1 (also at L351)
+- L654: indent 39 spaces != expected 36 for depth 13 (2.2.3.2.2.2.2.3.2.2.1.1.1)
+- L655: indent 36 spaces != expected 33 for depth 12 (2.2.3.2.2.2.2.3.2.2.1.2)
+- L656: indent 39 spaces != expected 33 for depth 12 (2.2.3.2.2.2.2.3.2.2.2.1)
+- L656: duplicate decimal 2.2.3.2.2.2.2.3.2.2.2.1 (also at L351)
+- L657: indent 42 spaces != expected 36 for depth 13 (2.2.3.2.2.2.2.3.2.2.2.1.1)
+- L657: duplicate decimal 2.2.3.2.2.2.2.3.2.2.2.1.1 (also at L653)
+- L658: indent 45 spaces != expected 39 for depth 14 (2.2.3.2.2.2.2.3.2.2.2.1.1.1)
+- L659: indent 48 spaces != expected 42 for depth 15 (2.2.3.2.2.2.2.3.2.2.2.1.1.1.1)
+- L660: indent 51 spaces != expected 42 for depth 15 (2.2.3.2.2.2.2.3.2.2.2.1.1.1.1)
+- L660: duplicate decimal 2.2.3.2.2.2.2.3.2.2.2.1.1.1.1 (also at L659)
+- L661: indent 51 spaces != expected 42 for depth 15 (2.2.3.2.2.2.2.3.2.2.2.1.1.1.2)
+- L662: indent 51 spaces != expected 42 for depth 15 (2.2.3.2.2.2.2.3.2.2.2.1.1.1.3)
+- L663: duplicate decimal 2.2.3.2.2.2.2.3.2.1.2.2.2.1.2 (also at L334)
+- L677: indent 39 spaces != expected 33 for depth 12 (2.2.3.2.2.2.2.3.2.2.2.2)
+- L677: duplicate decimal 2.2.3.2.2.2.2.3.2.2.2.2 (also at L352)
+- L678: indent 42 spaces != expected 36 for depth 13 (2.2.3.2.2.2.2.3.2.2.2.2.1)
+- L678: duplicate decimal 2.2.3.2.2.2.2.3.2.2.2.2.1 (also at L353)
+- L679: indent 42 spaces != expected 36 for depth 13 (2.2.3.2.2.2.2.3.2.2.2.2.2)
+- L679: duplicate decimal 2.2.3.2.2.2.2.3.2.2.2.2.2 (also at L354)
+- L680: indent 42 spaces != expected 36 for depth 13 (2.2.3.2.2.2.2.3.2.2.2.2.3)
+- L680: duplicate decimal 2.2.3.2.2.2.2.3.2.2.2.2.3 (also at L355)
+- L681: indent 42 spaces != expected 36 for depth 13 (2.2.3.2.2.2.2.3.2.2.2.2.4)
+- L682: indent 45 spaces != expected 39 for depth 14 (2.2.3.2.2.2.2.3.2.2.2.2.4.1)
+- L683: indent 45 spaces != expected 39 for depth 14 (2.2.3.2.2.2.2.3.2.2.2.2.4.2)
+- L683: Tibetan ordinal = 4 but decimal last segment = 2  ->  2.2.3.2.2.2.2.3.2.2.2.2.4.2 བཞི་པ་སྐྱོ་བ་བསྐྱེད་ཚུལ་
+- L684: indent 48 spaces != expected 42 for depth 15 (2.2.3.2.2.2.2.3.2.2.2.2.4.2.1)
+- L685: indent 48 spaces != expected 42 for depth 15 (2.2.3.2.2.2.2.3.2.2.2.2.4.2.2)
+- L686: indent 48 spaces != expected 42 for depth 15 (2.2.3.2.2.2.2.3.2.2.2.2.4.2.3)
+- L687: indent 33 spaces != expected 30 for depth 11 (2.2.3.2.2.2.2.3.2.2.3)
+- L687: Tibetan ordinal = 2 but decimal last segment = 3  ->  2.2.3.2.2.2.2.3.2.2.3 གཉིས་པ་དབེན་པ་ལ་དགའ་བ་བསྐྱེད་ཚུལ་
+- L687: duplicate decimal 2.2.3.2.2.2.2.3.2.2.3 (also at L358)
+- L688: indent 36 spaces != expected 33 for depth 12 (2.2.3.2.2.2.2.3.2.2.3.1)
+- L688: duplicate decimal 2.2.3.2.2.2.2.3.2.2.3.1 (also at L359)
+- L689: indent 36 spaces != expected 33 for depth 12 (2.2.3.2.2.2.2.3.2.2.3.2)
+- L689: duplicate decimal 2.2.3.2.2.2.2.3.2.2.3.2 (also at L363)
+- L690: indent 39 spaces != expected 36 for depth 13 (2.2.3.2.2.2.2.3.2.2.3.2.1)
+- L690: duplicate decimal 2.2.3.2.2.2.2.3.2.2.3.2.1 (also at L364)
+- L691: indent 39 spaces != expected 36 for depth 13 (2.2.3.2.2.2.2.3.2.2.3.2.2)
+- L691: duplicate decimal 2.2.3.2.2.2.2.3.2.2.3.2.2 (also at L365)
+- L710: Tibetan ordinal = 3 but decimal last segment = 5  ->  2.2.3.2.2.5.5.2.3.2.1.1.2.5 གསུམ་པ་གདམས་པ་
+- L717: Tibetan ordinal = 2 but decimal last segment = 4  ->  2.2.3.2.2.5.5.2.3.2.1.2.2.4 གཉིས་པ་བདག་ཉིད་གཞན་ལ་གཏོང་ཚུལ་
+- L720: Tibetan ordinal = 3 but decimal last segment = 5  ->  2.2.3.2.2.5.5.2.3.2.1.2.2.5 གསུམ་པ་བདག་གཞན་གཙོ་བོའི་སྐྱོན་ཡོན་
+- L723: Tibetan ordinal = 4 but decimal last segment = 6  ->  2.2.3.2.2.5.5.2.3.2.1.2.2.6 བཞི་པ་མ་བརྗེས་པའི་ཉེས་དམིགས་
+- L724: Tibetan ordinal = 5 but decimal last segment = 7  ->  2.2.3.2.2.5.5.2.3.2.1.2.2.7 ལྔ་པ་རྩ་བ་བདག་འཛིན་སྤང་ཚུལ་
+- L729: Tibetan ordinal = 3 but decimal last segment = 4  ->  2.2.3.2.2.5.5.2.3.2.1.2.4 གསུམ་པ་བཞི་པབརྗེས་ནས་འགྲུབ་ཚུལ་
+- L734: Tibetan ordinal = 1 but decimal last segment = 2  ->  2.2.3.2.2.5.5.2.3.2.1.2.4.2.1.2 དང་པོ་འཇིག་རྟེན་ཆོས་བརྒྱད་ལ་བརྟགས་ཏེ་བསྒ
+- L735: Tibetan ordinal = 2 but decimal last segment = 3  ->  2.2.3.2.2.5.5.2.3.2.1.2.4.2.1.3 གཉིས་པ་མཐོ་བའི་ཡོན་ཏན་ལ་བརྟགས་ཏེ་བསྒོམ་ཚ
+- L770: Tibetan ordinal = 1 but decimal last segment = 4  ->  2.2.3.2.2.6.3.2.1.4 དང་པོ་
+- L781: Tibetan ordinal = 2 but decimal last segment = 5  ->  2.2.3.2.2.6.3.2.1.5 གཉིས་པ་མ་ཤེས་པའི་ཉེས་དམིགས་
+- L782: Tibetan ordinal = 3 but decimal last segment = 6  ->  2.2.3.2.2.6.3.2.1.6 གསུམ་པ་ཤེས་པའི་ཕན་ཡོན་
+- L800: Tibetan ordinal = 2 but decimal last segment = 5  ->  2.2.3.2.2.6.5 གཉིས་པ་གཞུང་དོན་
+- L806: indent 27 spaces != expected 24 for depth 9 (2.2.3.2.6.5.2.1.3)
+- L806: Tibetan ordinal = 1 but decimal last segment = 3  ->  2.2.3.2.6.5.2.1.3 དང་པོ་
+- L809: Tibetan ordinal = 2 but decimal last segment = 1  ->  2.2.3.2.2.6.5.2.1.3.2.1 གཉིས་པ་སྒྱུ་མ་ལྟ་བུར་བསྟན་པ་
+- L814: Tibetan ordinal = 3 but decimal last segment = 1  ->  2.2.3.2.2.6.5.2.1.3.3.1 གསུམ་པ་རྩོད་སྤང་
+- L839: Tibetan ordinal = 2 but decimal last segment = 3  ->  2.2.3.2.2.6.5.2.1.3.3.1.2.1.2.3 གཉིས་པ་འཁྲུལ་གཞᅵར་མེད་ན་འཁོར་འདས་མི་འབྱུ
+- L848: indent 39 spaces != expected 36 for depth 13 (2.2.3.2.2.2.3.5.2.2.2.2.3)
+- L848: Tibetan ordinal = 2 but decimal last segment = 3  ->  2.2.3.2.2.2.3.5.2.2.2.2.3 གཉིས་པ་དོན་དམ་སྟོང་པར་ཤེས་པ་ལམ་དུ་བསྒྲུབ
+- L849: indent 42 spaces != expected 36 for depth 13 (2.2.3.2.2.2.3.5.2.2.2.3.1)
+- L849: duplicate decimal 2.2.3.2.2.2.3.5.2.2.2.3.1 (also at L507)
+- L850: indent 42 spaces != expected 36 for depth 13 (2.2.3.2.2.2.3.5.2.2.2.3.2)
+- L850: duplicate decimal 2.2.3.2.2.2.3.5.2.2.2.3.2 (also at L508)
+- L851: indent 45 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.3.2.1)
+- L852: indent 45 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.3.2.2)
+- L853: indent 48 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.3.2.2.1)
+- L854: indent 48 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.3.2.2.2)
+- L855: indent 51 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.3.2.2.2.1)
+- L856: indent 54 spaces != expected 48 for depth 17 (2.2.3.2.2.2.3.5.2.2.2.3.2.2.2.1.1)
+- L857: indent 54 spaces != expected 48 for depth 17 (2.2.3.2.2.2.3.5.2.2.2.3.2.2.2.1.2)
+- L858: indent 54 spaces != expected 48 for depth 17 (2.2.3.2.2.2.3.5.2.2.2.3.2.2.2.1.3)
+- L859: indent 54 spaces != expected 48 for depth 17 (2.2.3.2.2.2.3.5.2.2.2.3.2.2.2.1.4)
+- L860: indent 51 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.3.2.2.2.2)
+- L861: indent 51 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.3.2.2.2.3)
+- L862: indent 45 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.3.2.2.3)
+- L921: Tibetan ordinal = 2 but decimal last segment = 3  ->  2.2.3.2.2.6.5.2.3.1.2.3 གཉིས་པ་རྡུལ་ཕྲན་རྟག་པས་བསྐྱེད་པ་དགག་པ་
+- L922: Tibetan ordinal = 3 but decimal last segment = 4  ->  2.2.3.2.2.6.5.2.3.1.2.4 གསུམ་པ་གཙོ་བོ་རྟགས་པ་བསྐྱེད་པ་དགག་པ་
+- L952: Tibetan ordinal = 2 but decimal last segment = 1  ->  2.2.3.3.2.1 གཉིས་པ་བསྔོ་སའི་འབྲས་བུ་
+- L954: Tibetan ordinal = 3 but decimal last segment = 1  ->  2.2.3.3.3.1 གསུམ་པ་ཆེད་དུ་བྱ་བ་
+- L956: Tibetan ordinal = 4 but decimal last segment = 1  ->  2.2.3.3.4.1 བཞི་པ་བྱེད་ལས་འགྲུབ་ཚུལ་
+- L958: Tibetan ordinal = 5 but decimal last segment = 1  ->  2.2.3.3.5.1 ལྔ་པ་བློའི་རྣམ་པ་
+- L960: Tibetan ordinal = 6 but decimal last segment = 1  ->  2.2.3.3.6.1 དྲུག་པ་བསྔོ་བའི་ཆོ་ག་
+- L988: Tibetan ordinal = 2 but decimal last segment = 1  ->  2.2.3.3.7.1.1.1.3.2.1 གཉིས་པ་གཟུགས་དང་གཟི་བརྗིད་ལྡན་པར་བསྔོ་བ་
+- L989: Tibetan ordinal = 3 but decimal last segment = 2  ->  2.2.3.3.7.1.1.1.3.2.2 གསུམ་པ་དགེ་ཞིང་ཕུན་སུམ་ཚོགས་པར་བསྔོ་བ་
+- L990: Tibetan ordinal = 4 but decimal last segment = 3  ->  2.2.3.3.7.1.1.1.3.2.3 བཞི་པ་ཞིང་ཁམས་ཡོངས་སུ་དག་པར་བསྔོ་བ་
+- L991: Tibetan ordinal = 5 but decimal last segment = 4  ->  2.2.3.3.7.1.1.1.3.2.4 ལྔ་པ་ཆོས་ཀྱི་མཐུན་རྐྱེན་ཚང་བར་བསྔོ་བ་
+- L992: indent 30 spaces != expected 27 for depth 10 (2.2.3.3.7.1.1.3.2.5)
+- L992: Tibetan ordinal = 6 but decimal last segment = 5  ->  2.2.3.3.7.1.1.3.2.5 དྲུག་པ་འཇིག་རྟེན་དར་ཞིང་དགེ་བར་བསྔོ་བ་
+- L993: indent 21 spaces != expected 15 for depth 6 (2.2.3.3.5.2)
+- L994: indent 24 spaces != expected 18 for depth 7 (2.2.3.3.5.2.1)
+- L995: indent 24 spaces != expected 18 for depth 7 (2.2.3.3.5.2.2)
+- L996: indent 24 spaces != expected 18 for depth 7 (2.2.3.3.5.2.3)
+- L997: indent 24 spaces != expected 21 for depth 8 (2.2.3.2.5.5.2.4)
+- L998: indent 24 spaces != expected 21 for depth 8 (2.2.3.2.5.5.2.5)
+- L999: indent 24 spaces != expected 21 for depth 8 (2.2.3.2.5.5.2.6)
+- L1000: indent 24 spaces != expected 21 for depth 8 (2.2.3.2.5.5.2.7)
+- L1001: Tibetan ordinal = 2 but decimal last segment = 3  ->  2.2.3.2.2.5.5.3 གཉིས་པ་རང་གི་དོན་དུ་བསྔོ་བ་
+- L1005: Tibetan ordinal = 3 but decimal last segment = 4  ->  2.2.3.2.2.5.5.4 གསུམ་པ་བསྟན་པའི་དོན་དུ་བསྔོ་བ་
+- L1006: Tibetan ordinal = 2 but decimal last segment = 5  ->  2.2.3.2.2.5.5.5 གཉིས་པ་བཀའ་དྲིན་དྲན་པའི་ཕྱག་འཚལ་བ་
+- children of 2.2.1.1: numbered [6, 7, 8], expected [1, 2, 3]
+- children of 2.2.3.2.2.1.2.2.1.8.1: numbered [1, 2, 4], expected [1, 2, 3]
+- children of 2.2.3.2.2.1.8.1: numbered [3], expected [1]
+- children of 2.2.3.2.2.2.2.3.2.1.2.2.2.1: numbered [1, 2, 2, 3], expected [1, 2, 3, 4]
+- children of 2.2.3.2.2.2.2.3.2.2: numbered [1, 2, 2, 3, 3], expected [1, 2, 3, 4, 5]
+- children of 2.2.3.2.2.2.2.3.2.2.2: numbered [1, 1, 1, 2, 2], expected [1, 2, 3, 4, 5]
+- children of 2.2.3.2.2.2.2.3.2.2.2.2: numbered [1, 1, 2, 2, 3, 3, 4], expected [1, 2, 3, 4, 5, 6, 7]
+- children of 2.2.3.2.2.2.2.3.2.2.3: numbered [1, 1, 2, 2], expected [1, 2, 3, 4]
+- children of 2.2.3.2.2.2.2.3.2.2.3.2: numbered [1, 1, 2, 2], expected [1, 2, 3, 4]
+- children of 2.2.3.2.2.2.3: numbered [4, 5], expected [1, 2]
+- children of 2.2.3.2.2.3.3: numbered [4], expected [1]
+- children of 2.2.3.2.2.2.3.5.2.2.2.3: numbered [1, 1, 2, 2, 3, 4, 5, 6], expected [1, 2, 3, 4, 5, 6, 7, 8]
+- children of 2.2.3.2.2.4.3.2.1.1.1.3: numbered [2], expected [1]
+- children of 2.2.3.2.2.5.5.2.1.3.2.1: numbered [1, 2, 4], expected [1, 2, 3]
+- children of 2.2.3.2.2.2.5.5.2.1.3.2.1: numbered [3], expected [1]
+- children of 2.2.3.2.2.2.2.3.2.2.2.1: numbered [1, 1], expected [1, 2]
+- children of 2.2.3.2.2.2.2.3.2.2.1: numbered [2], expected [1]
+- children of 2.2.3.2.2.2.2.3.2.2.2.1.1.1: numbered [1, 1, 2, 3], expected [1, 2, 3, 4]
+- children of 2.2.3.2.6.5.2.1: numbered [3], expected [1]
+- children of 2.2.3.3.7.1.1.3.2: numbered [5], expected [1]
+- children of 2.2.3.2.5.5.2: numbered [4, 5, 6, 7], expected [1, 2, 3, 4]
+
+## Issues remaining after repair
+
+- L76: Tibetan ordinal = 3 but decimal last segment = 1  ->  2.2.3.1.3.1 གསུམ་པ་སྐལ་མཉམ་གཞན་ལའང་ཕན་ཚུལ་
+- L85: Tibetan ordinal = 4 but decimal last segment = 5  ->  2.2.3.1.3.2.5 བཞི་པ་གཞུང་གིས་བསྟན་ཚུལ་
+- L96: Tibetan ordinal = 3 but decimal last segment = 1  ->  2.2.3.2.2.1.1.3.1 གསུམ་པ་བདེན་གཉིས་ཀྱི་དབྱེ་བ་
+- L107: Tibetan ordinal = 2 but decimal last segment = 3  ->  2.2.3.2.2.1.1.3.1.3.1.4.3 གཉིས་པ་ཐུན་མོང་དུ་བླང་ཚུལ་
+- L138: indent 30 spaces != expected 33 for depth 12 (2.2.3.2.2.1.2.2.1.2.2.1)
+- L139: indent 30 spaces != expected 33 for depth 12 (2.2.3.2.2.1.2.2.1.2.2.2)
+- L140: indent 30 spaces != expected 33 for depth 12 (2.2.3.2.2.1.2.2.1.2.2.3)
+- L141: indent 30 spaces != expected 33 for depth 12 (2.2.3.2.2.1.2.2.1.2.2.4)
+- L185: Tibetan ordinal = 2 but decimal last segment = 3  ->  2.2.3.2.2.1.2.2.1.3.3 གཉིས་པ་གཞུང་དོན་
+- L200: Tibetan ordinal = 3 but decimal last segment = 2  ->  2.2.3.2.2.1.2.2.1.4.5.2.1.2.2 གསུམ་པ་དོན་བསྡུ་
+- L257: indent 24 spaces != expected 27 for depth 10 (2.2.3.2.2.2.2.1.2.2)
+- L259: Tibetan ordinal = 4 but decimal last segment = 3  ->  2.2.3.2.2.2.1.3 བཞི་པ་ངེས་ཚིག་
+- L262: Tibetan ordinal = 5 but decimal last segment = 4  ->  2.2.3.2.2.2.1.4 ལྔ་པ་སྒོམ་ཚུལ་
+- L263: Tibetan ordinal = 6 but decimal last segment = 5  ->  2.2.3.2.2.2.1.5 དྲུག་པ་དབྱེ་བ་
+- L264: Tibetan ordinal = 7 but decimal last segment = 6  ->  2.2.3.2.2.2.1.6 བདུན་པ་བསྡུས་ཚུལ་
+- L265: Tibetan ordinal = 8 but decimal last segment = 7  ->  2.2.3.2.2.2.1.7 བརྒྱད་པ་མི་མཐུན་ཕྱོགས་
+- L266: Tibetan ordinal = 9 but decimal last segment = 8  ->  2.2.3.2.2.2.1.8 དགུ་པ་ཡོན་ཏན་
+- L267: Tibetan ordinal = 10 but decimal last segment = 9  ->  2.2.3.2.2.2.1.9 བཅུ་པ་ཕན་ཚུན་རྣམ་པར་ངེས་པ་
+- L293: Tibetan ordinal = 2 but decimal last segment = 3  ->  2.2.3.2.2.2.2.3.1.1.2.1.3 གཉིས་པ་ལྕི་བར་བསྟན་པ་
+- L294: Tibetan ordinal = 3 but decimal last segment = 4  ->  2.2.3.2.2.2.2.3.1.1.2.1.4 གསུམ་པ་ཡུན་རིང་ཐོགས་ཚུལ་
+- L295: Tibetan ordinal = 3 but decimal last segment = 5  ->  2.2.3.2.2.2.2.3.1.1.2.1.5 གསུམ་པ་སྒྲུབ་པར་གདམས་པ་
+- L308: Tibetan ordinal = 3 but decimal last segment = 2  ->  2.2.3.2.2.2.2.3.1.1.2.2.2.1.1.2 གསུམ་པ་ཡུན་རིང་གནོད་པས་སྤང་ཚུལ་
+- L309: Tibetan ordinal = 4 but decimal last segment = 3  ->  2.2.3.2.2.2.2.3.1.1.2.2.2.1.1.3 བཞི་པ་བསྟེན་པར་དཀའ་བས་སྤང་ཚུལ་
+- L323: Tibetan ordinal = 3 but decimal last segment = 4  ->  2.2.3.2.2.2.2.3.1.1.2.2.2.4 གསུམ་པ་སྤྱིའི་དོན་བསྡུ་
+- L349: ordinal 1 (དང་པོ) not attested for this title in candidates/enumerations (source attaches: 3)  ->  2.2.3.2.2.2.2.3.2.2.1 དང་པོ་བསྲུང་བར་གདམས་པ་
+- L355: Tibetan ordinal = 2 but decimal last segment = 3  ->  2.2.3.2.2.2.2.3.2.2.2.2.3 གཉིས་པ་དྲན་པ་ཉམས་པ་
+- L411: Tibetan ordinal = 3 but decimal last segment = 5  ->  2.2.3.2.2.2.2.3.2.2.3.2.2.5 གསུམ་པ་བསྡུས་ཏེ་བསྟན་པ་
+- L412: Tibetan ordinal = 3 but decimal last segment = 6  ->  2.2.3.2.2.2.2.3.2.2.3.2.2.6 གསུམ་པ་ཉམས་སུ་བླང་བར་གདམས་པ་
+- L417: indent 18 spaces != expected 21 for depth 8 (2.2.3.2.2.2.3.4)
+- L418: indent 18 spaces != expected 21 for depth 8 (2.2.3.2.2.2.3.5)
+- L419: indent 21 spaces != expected 24 for depth 9 (2.2.3.2.2.2.3.5.1)
+- L420: indent 24 spaces != expected 27 for depth 10 (2.2.3.2.2.2.3.5.1.1)
+- L421: indent 24 spaces != expected 27 for depth 10 (2.2.3.2.2.2.3.5.1.2)
+- L422: indent 24 spaces != expected 27 for depth 10 (2.2.3.2.2.2.3.5.1.3)
+- L423: indent 21 spaces != expected 24 for depth 9 (2.2.3.2.2.2.3.5.2)
+- L424: indent 24 spaces != expected 27 for depth 10 (2.2.3.2.2.2.3.5.2.1)
+- L425: indent 27 spaces != expected 30 for depth 11 (2.2.3.2.2.2.3.5.2.1.1)
+- L426: indent 27 spaces != expected 30 for depth 11 (2.2.3.2.2.2.3.5.2.1.2)
+- L427: indent 27 spaces != expected 30 for depth 11 (2.2.3.2.2.2.3.5.2.1.3)
+- L428: indent 24 spaces != expected 27 for depth 10 (2.2.3.2.2.2.3.5.2.2)
+- L429: indent 27 spaces != expected 30 for depth 11 (2.2.3.2.2.2.3.5.2.2.1)
+- L430: indent 27 spaces != expected 30 for depth 11 (2.2.3.2.2.2.3.5.2.2.2)
+- L431: indent 30 spaces != expected 33 for depth 12 (2.2.3.2.2.2.3.5.2.2.2.1)
+- L432: indent 33 spaces != expected 36 for depth 13 (2.2.3.2.2.2.3.5.2.2.2.1.1)
+- L433: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.1.1.1)
+- L434: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.1)
+- L435: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.1.1)
+- L436: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.1.2)
+- L437: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.1.3)
+- L438: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.1.4)
+- L439: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.1.5)
+- L440: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.1.6)
+- L441: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.2)
+- L442: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.2.1)
+- L443: indent 45 spaces != expected 48 for depth 17 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.2.1.1)
+- L444: indent 48 spaces != expected 51 for depth 18 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.2.1.1.1)
+- L445: indent 48 spaces != expected 51 for depth 18 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.2.1.1.2)
+- L446: indent 48 spaces != expected 51 for depth 18 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.2.1.1.3)
+- L447: indent 45 spaces != expected 48 for depth 17 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.2.1.2)
+- L448: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.2.2)
+- L449: indent 45 spaces != expected 48 for depth 17 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.2.2.1)
+- L450: indent 45 spaces != expected 48 for depth 17 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.2.2.2)
+- L451: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.2.3)
+- L452: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.2.4)
+- L452: Tibetan ordinal = 2 but decimal last segment = 4  ->  2.2.3.2.2.2.3.5.2.2.2.1.1.1.2.4 གཉིས་པ་རྩོད་པ་སྤང་པ་
+- L453: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.3)
+- L454: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.3.1)
+- L455: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.3.2)
+- L456: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.3.3)
+- L457: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.3.4)
+- L458: indent 45 spaces != expected 48 for depth 17 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.3.4.1)
+- L459: indent 45 spaces != expected 48 for depth 17 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.3.4.2)
+- L460: indent 45 spaces != expected 48 for depth 17 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.3.4.3)
+- L461: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.3.5)
+- L462: indent 45 spaces != expected 48 for depth 17 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.3.5.1)
+- L463: indent 45 spaces != expected 48 for depth 17 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.3.5.2)
+- L464: indent 45 spaces != expected 48 for depth 17 (2.2.3.2.2.2.3.5.2.2.2.1.1.1.3.5.3)
+- L465: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.1.1.2)
+- L466: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.1.2.1)
+- L467: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.2.1.1)
+- L468: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.2.1.2)
+- L469: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.1.2.2)
+- L470: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.2.2.1)
+- L471: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.2.2.2)
+- L472: indent 42 spaces != expected 45 for depth 16 (2.2.3.2.2.2.3.5.2.2.2.1.1.2.2.3)
+- L473: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.1.2.3)
+- L474: indent 33 spaces != expected 36 for depth 13 (2.2.3.2.2.2.3.5.2.2.2.1.2)
+- L475: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.1.2.1)
+- L476: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.1.2.2)
+- L477: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.2.2.1)
+- L478: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.2.2.2)
+- L479: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.2.2.3)
+- L480: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.2.2.4)
+- L481: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.1.2.3)
+- L482: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.2.3.1)
+- L483: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.2.3.2)
+- L484: indent 33 spaces != expected 36 for depth 13 (2.2.3.2.2.2.3.5.2.2.2.1.3)
+- L485: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.1.3.1)
+- L486: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.3.1.1)
+- L487: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.3.1.2)
+- L488: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.1.3.2)
+- L489: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.1.3.3)
+- L490: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.3.3.1)
+- L491: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.3.3.2)
+- L492: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.3.3.3)
+- L493: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.1.3.3.4)
+- L494: indent 30 spaces != expected 33 for depth 12 (2.2.3.2.2.2.3.5.2.2.2.2)
+- L495: indent 33 spaces != expected 36 for depth 13 (2.2.3.2.2.2.3.5.2.2.2.2.1)
+- L496: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.2.1.1)
+- L497: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.2.1.2)
+- L498: indent 33 spaces != expected 36 for depth 13 (2.2.3.2.2.2.3.5.2.2.2.2.2)
+- L499: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.2.2.1)
+- L500: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.2.2.2)
+- L501: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.2.2.3)
+- L502: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.2.2.4)
+- L503: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.2.2.5)
+- L504: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.2.2.5.1)
+- L505: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.2.2.5.2)
+- L506: indent 30 spaces != expected 33 for depth 12 (2.2.3.2.2.2.3.5.2.2.2.3)
+- L507: indent 33 spaces != expected 36 for depth 13 (2.2.3.2.2.2.3.5.2.2.2.3.1)
+- L508: indent 33 spaces != expected 36 for depth 13 (2.2.3.2.2.2.3.5.2.2.2.3.2)
+- L509: indent 33 spaces != expected 36 for depth 13 (2.2.3.2.2.2.3.5.2.2.2.3.3)
+- L510: indent 33 spaces != expected 36 for depth 13 (2.2.3.2.2.2.3.5.2.2.2.3.4)
+- L511: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.3.4.1)
+- L512: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.3.4.2)
+- L513: indent 33 spaces != expected 36 for depth 13 (2.2.3.2.2.2.3.5.2.2.2.3.5)
+- L514: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.3.5.1)
+- L515: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.3.5.2)
+- L516: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.3.5.3)
+- L517: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.3.5.4)
+- L518: indent 33 spaces != expected 36 for depth 13 (2.2.3.2.2.2.3.5.2.2.2.3.6)
+- L519: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.3.6.1)
+- L520: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.3.6.2)
+- L521: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.3.6.2.1)
+- L522: indent 39 spaces != expected 42 for depth 15 (2.2.3.2.2.2.3.5.2.2.2.3.6.2.2)
+- L523: indent 36 spaces != expected 39 for depth 14 (2.2.3.2.2.2.3.5.2.2.2.3.6.3)
+- L536: Tibetan ordinal = 2 but decimal last segment = 5  ->  2.2.3.2.2.4.5 གཉིས་པ་གཞུང་དོན་
+- L538: Tibetan ordinal = 1 but decimal last segment = 2  ->  2.2.3.2.2.4.5.2 དང་པོ་མདོར་བསྟན་
+- L558: Tibetan ordinal = 2 but decimal last segment = 3  ->  2.2.3.2.2.4.5.3 གཉིས་པ་གསུམ་པགཉེན་པོ་ལའང་གཉིས་
+- L624: Tibetan ordinal = 2 but decimal last segment = 5  ->  2.2.3.2.2.5.5 གཉིས་པ་གཞུང་དོན་
+- L629: Tibetan ordinal = 1 but decimal last segment = 2  ->  2.2.3.2.2.5.5.2.1.2 དང་པོ་མདོར་བསྟན་
+- L630: Tibetan ordinal = 2 but decimal last segment = 3  ->  2.2.3.2.2.5.5.2.1.3 གཉིས་པ་རྒྱས་བཤད་
+- L649: Tibetan ordinal = 2 but decimal last segment = 1  ->  2.2.3.2.2.5.5.2.2.1 གཉིས་པ་རྣམ་རྟོག་སྤང་ཚུལ་གཉིས་
+- L654: indent 39 spaces != expected 33 for depth 12 (2.2.3.2.2.5.5.2.2.1.1.1)
+- L655: indent 36 spaces != expected 33 for depth 12 (2.2.3.2.2.5.5.2.2.1.1.2)
+- L656: indent 39 spaces != expected 33 for depth 12 (2.2.3.2.2.5.5.2.2.1.2.1)
+- L656: duplicate decimal 2.2.3.2.2.5.5.2.2.1.2.1 (also at L652)
+- L657: indent 42 spaces != expected 36 for depth 13 (2.2.3.2.2.5.5.2.2.1.2.1.1)
+- L657: duplicate decimal 2.2.3.2.2.5.5.2.2.1.2.1.1 (also at L653)
+- L658: indent 45 spaces != expected 39 for depth 14 (2.2.3.2.2.5.5.2.2.1.2.1.1.1)
+- L659: indent 48 spaces != expected 42 for depth 15 (2.2.3.2.2.5.5.2.2.1.2.1.1.1.1)
+- L660: indent 51 spaces != expected 45 for depth 16 (2.2.3.2.2.5.5.2.2.1.2.1.1.1.1.1)
+- L661: indent 51 spaces != expected 45 for depth 16 (2.2.3.2.2.5.5.2.2.1.2.1.1.1.1.2)
+- L662: indent 51 spaces != expected 45 for depth 16 (2.2.3.2.2.5.5.2.2.1.2.1.1.1.1.3)
+- L663: indent 42 spaces != expected 36 for depth 13 (2.2.3.2.2.5.5.2.2.1.2.1.2)
+- L664: indent 45 spaces != expected 39 for depth 14 (2.2.3.2.2.5.5.2.2.1.2.1.2.1)
+- L665: indent 48 spaces != expected 42 for depth 15 (2.2.3.2.2.5.5.2.2.1.2.1.2.1.1)
+- L666: indent 48 spaces != expected 42 for depth 15 (2.2.3.2.2.5.5.2.2.1.2.1.2.1.2)
+- L667: indent 48 spaces != expected 42 for depth 15 (2.2.3.2.2.5.5.2.2.1.2.1.2.1.3)
+- L668: indent 45 spaces != expected 39 for depth 14 (2.2.3.2.2.5.5.2.2.1.2.1.2.2)
+- L669: indent 48 spaces != expected 42 for depth 15 (2.2.3.2.2.5.5.2.2.1.2.1.2.2.1)
+- L670: indent 48 spaces != expected 42 for depth 15 (2.2.3.2.2.5.5.2.2.1.2.1.2.2.2)
+- L671: indent 48 spaces != expected 42 for depth 15 (2.2.3.2.2.5.5.2.2.1.2.1.2.2.3)
+- L672: indent 48 spaces != expected 42 for depth 15 (2.2.3.2.2.5.5.2.2.1.2.1.2.2.4)
+- L673: indent 48 spaces != expected 42 for depth 15 (2.2.3.2.2.5.5.2.2.1.2.1.2.2.5)
+- L674: indent 48 spaces != expected 42 for depth 15 (2.2.3.2.2.5.5.2.2.1.2.1.2.2.6)
+- L675: indent 48 spaces != expected 42 for depth 15 (2.2.3.2.2.5.5.2.2.1.2.1.2.2.7)
+- L676: indent 48 spaces != expected 42 for depth 15 (2.2.3.2.2.5.5.2.2.1.2.1.2.2.8)
+- L677: indent 39 spaces != expected 33 for depth 12 (2.2.3.2.2.5.5.2.2.1.2.2)
+- L678: indent 42 spaces != expected 36 for depth 13 (2.2.3.2.2.5.5.2.2.1.2.2.1)
+- L679: indent 42 spaces != expected 36 for depth 13 (2.2.3.2.2.5.5.2.2.1.2.2.2)
+- L680: indent 42 spaces != expected 36 for depth 13 (2.2.3.2.2.5.5.2.2.1.2.2.3)
+- L681: indent 42 spaces != expected 36 for depth 13 (2.2.3.2.2.5.5.2.2.1.2.2.4)
+- L682: indent 45 spaces != expected 39 for depth 14 (2.2.3.2.2.5.5.2.2.1.2.2.4.1)
+- L683: indent 45 spaces != expected 39 for depth 14 (2.2.3.2.2.5.5.2.2.1.2.2.4.2)
+- L683: Tibetan ordinal = 4 but decimal last segment = 2  ->  2.2.3.2.2.5.5.2.2.1.2.2.4.2 བཞི་པ་སྐྱོ་བ་བསྐྱེད་ཚུལ་
+- L684: indent 48 spaces != expected 42 for depth 15 (2.2.3.2.2.5.5.2.2.1.2.2.4.2.1)
+- L685: indent 48 spaces != expected 42 for depth 15 (2.2.3.2.2.5.5.2.2.1.2.2.4.2.2)
+- L686: indent 48 spaces != expected 42 for depth 15 (2.2.3.2.2.5.5.2.2.1.2.2.4.2.3)
+- L687: indent 33 spaces != expected 30 for depth 11 (2.2.3.2.2.5.5.2.2.1.3)
+- L687: Tibetan ordinal = 2 but decimal last segment = 3  ->  2.2.3.2.2.5.5.2.2.1.3 གཉིས་པ་དབེན་པ་ལ་དགའ་བ་བསྐྱེད་ཚུལ་
+- L688: indent 36 spaces != expected 33 for depth 12 (2.2.3.2.2.5.5.2.2.1.3.1)
+- L689: indent 36 spaces != expected 33 for depth 12 (2.2.3.2.2.5.5.2.2.1.3.2)
+- L690: indent 39 spaces != expected 36 for depth 13 (2.2.3.2.2.5.5.2.2.1.3.2.1)
+- L691: indent 39 spaces != expected 36 for depth 13 (2.2.3.2.2.5.5.2.2.1.3.2.2)
+- L710: Tibetan ordinal = 3 but decimal last segment = 5  ->  2.2.3.2.2.5.5.2.3.2.1.1.2.5 གསུམ་པ་གདམས་པ་
+- L717: Tibetan ordinal = 2 but decimal last segment = 4  ->  2.2.3.2.2.5.5.2.3.2.1.2.2.4 གཉིས་པ་བདག་ཉིད་གཞན་ལ་གཏོང་ཚུལ་
+- L720: Tibetan ordinal = 3 but decimal last segment = 5  ->  2.2.3.2.2.5.5.2.3.2.1.2.2.5 གསུམ་པ་བདག་གཞན་གཙོ་བོའི་སྐྱོན་ཡོན་
+- L723: Tibetan ordinal = 4 but decimal last segment = 6  ->  2.2.3.2.2.5.5.2.3.2.1.2.2.6 བཞི་པ་མ་བརྗེས་པའི་ཉེས་དམིགས་
+- L724: Tibetan ordinal = 5 but decimal last segment = 7  ->  2.2.3.2.2.5.5.2.3.2.1.2.2.7 ལྔ་པ་རྩ་བ་བདག་འཛིན་སྤང་ཚུལ་
+- L729: Tibetan ordinal = 3 but decimal last segment = 4  ->  2.2.3.2.2.5.5.2.3.2.1.2.4 གསུམ་པ་བཞི་པབརྗེས་ནས་འགྲུབ་ཚུལ་
+- L734: Tibetan ordinal = 1 but decimal last segment = 2  ->  2.2.3.2.2.5.5.2.3.2.1.2.4.2.1.2 དང་པོ་འཇིག་རྟེན་ཆོས་བརྒྱད་ལ་བརྟགས་ཏེ་བསྒ
+- L735: Tibetan ordinal = 2 but decimal last segment = 3  ->  2.2.3.2.2.5.5.2.3.2.1.2.4.2.1.3 གཉིས་པ་མཐོ་བའི་ཡོན་ཏན་ལ་བརྟགས་ཏེ་བསྒོམ་ཚ
+- L770: Tibetan ordinal = 1 but decimal last segment = 4  ->  2.2.3.2.2.6.3.2.1.4 དང་པོ་
+- L781: Tibetan ordinal = 2 but decimal last segment = 5  ->  2.2.3.2.2.6.3.2.1.5 གཉིས་པ་མ་ཤེས་པའི་ཉེས་དམིགས་
+- L782: Tibetan ordinal = 3 but decimal last segment = 6  ->  2.2.3.2.2.6.3.2.1.6 གསུམ་པ་ཤེས་པའི་ཕན་ཡོན་
+- L799: Tibetan ordinal = 2 but decimal last segment = 5  ->  2.2.3.2.2.6.5 གཉིས་པ་གཞུང་དོན་
+- L805: Tibetan ordinal = 1 but decimal last segment = 3  ->  2.2.3.2.2.6.5.2.1.3 དང་པོ་
+- L808: Tibetan ordinal = 2 but decimal last segment = 1  ->  2.2.3.2.2.6.5.2.1.3.2.1 གཉིས་པ་སྒྱུ་མ་ལྟ་བུར་བསྟན་པ་
+- L813: Tibetan ordinal = 3 but decimal last segment = 1  ->  2.2.3.2.2.6.5.2.1.3.3.1 གསུམ་པ་རྩོད་སྤང་
+- L838: Tibetan ordinal = 2 but decimal last segment = 3  ->  2.2.3.2.2.6.5.2.1.3.3.1.2.1.2.3 གཉིས་པ་འཁྲུལ་གཞི་མེད་ན་འཁོར་འདས་མི་འབྱུང
+- L847: Tibetan ordinal = 2 but decimal last segment = 3  ->  2.2.3.2.2.6.5.2.1.3.3.1.2.3 གཉིས་པ་དོན་དམ་སྟོང་པར་ཤེས་པ་ལམ་དུ་བསྒྲུབ
+- L861: indent 45 spaces != expected 48 for depth 17 (2.2.3.2.2.6.5.2.1.3.3.1.2.3.2.2.3)
+- L862: Tibetan ordinal = 2 but decimal last segment = 3  ->  2.2.3.2.2.6.5.2.3 གཉིས་པ་བདག་མེད་གཉིས་ལ་འཇུག་ཚུལ་
+- L914: Tibetan ordinal = 3 but decimal last segment = 4  ->  2.2.3.2.2.6.5.2.4 གསུམ་པ་མཐར་འཛིན་མཐའ་དག་དགག་པ་
+- L920: Tibetan ordinal = 2 but decimal last segment = 3  ->  2.2.3.2.2.6.5.2.4.1.2.3 གཉིས་པ་རྡུལ་ཕྲན་རྟག་པས་བསྐྱེད་པ་དགག་པ་
+- L921: Tibetan ordinal = 3 but decimal last segment = 4  ->  2.2.3.2.2.6.5.2.4.1.2.4 གསུམ་པ་གཙོ་བོ་རྟགས་པ་བསྐྱེད་པ་དགག་པ་
+- L951: Tibetan ordinal = 2 but decimal last segment = 1  ->  2.2.3.3.2.1 གཉིས་པ་བསྔོ་སའི་འབྲས་བུ་
+- L953: Tibetan ordinal = 3 but decimal last segment = 1  ->  2.2.3.3.3.1 གསུམ་པ་ཆེད་དུ་བྱ་བ་
+- L955: Tibetan ordinal = 4 but decimal last segment = 1  ->  2.2.3.3.4.1 བཞི་པ་བྱེད་ལས་འགྲུབ་ཚུལ་
+- L957: Tibetan ordinal = 5 but decimal last segment = 1  ->  2.2.3.3.5.1 ལྔ་པ་བློའི་རྣམ་པ་
+- L959: Tibetan ordinal = 6 but decimal last segment = 1  ->  2.2.3.3.6.1 དྲུག་པ་བསྔོ་བའི་ཆོ་ག་
+- L987: Tibetan ordinal = 2 but decimal last segment = 1  ->  2.2.3.3.7.1.1.1.3.2.1 གཉིས་པ་གཟུགས་དང་གཟི་བརྗིད་ལྡན་པར་བསྔོ་བ་
+- L988: Tibetan ordinal = 3 but decimal last segment = 2  ->  2.2.3.3.7.1.1.1.3.2.2 གསུམ་པ་དགེ་ཞིང་ཕུན་སུམ་ཚོགས་པར་བསྔོ་བ་
+- L989: Tibetan ordinal = 4 but decimal last segment = 3  ->  2.2.3.3.7.1.1.1.3.2.3 བཞི་པ་ཞིང་ཁམས་ཡོངས་སུ་དག་པར་བསྔོ་བ་
+- L990: Tibetan ordinal = 5 but decimal last segment = 4  ->  2.2.3.3.7.1.1.1.3.2.4 ལྔ་པ་ཆོས་ཀྱི་མཐུན་རྐྱེན་ཚང་བར་བསྔོ་བ་
+- L991: indent 30 spaces != expected 27 for depth 10 (2.2.3.3.7.1.1.3.2.5)
+- L991: Tibetan ordinal = 6 but decimal last segment = 5  ->  2.2.3.3.7.1.1.3.2.5 དྲུག་པ་འཇིག་རྟེན་དར་ཞིང་དགེ་བར་བསྔོ་བ་
+- L1000: indent 21 spaces != expected 18 for depth 7 (2.2.3.3.7.1.2)
+- L1001: indent 24 spaces != expected 21 for depth 8 (2.2.3.3.7.1.2.1)
+- L1002: indent 24 spaces != expected 21 for depth 8 (2.2.3.3.7.1.2.2)
+- L1003: indent 24 spaces != expected 21 for depth 8 (2.2.3.3.7.1.2.3)
+- L1004: indent 21 spaces != expected 18 for depth 7 (2.2.3.3.7.1.3)
+- L1005: indent 21 spaces != expected 15 for depth 6 (2.2.3.3.7.2)
+- children of 2.2.3.2.2.2.1.2: numbered [1, 3], expected [1, 2]
+- children of 2.2.3.2.2.2.2.1.2: numbered [2], expected [1]
+- children of 2.2.3.2.2.2.3: numbered [4, 5], expected [1, 2]
+- children of 2.2.3.2.2.5.5.2.2.1.2: numbered [1, 1, 2], expected [1, 2, 3]
+- children of 2.2.3.2.2.5.5.2.2.1.2.1: numbered [1, 1, 2], expected [1, 2, 3]
+- children of 2.2.3.2.2.6: numbered [1, 2, 3, 5], expected [1, 2, 3, 4]
+- children of 2.2.3.2.2.6.5.2: numbered [1, 3, 4], expected [1, 2, 3]
+- children of 2.2.3.3.7.1.1.3.2: numbered [5], expected [1]

@@ -16,3 +16,5 @@ gemini-scribe/
 
 # Claude Code worktrees (local only)
 .claude/worktrees/
+
+.env

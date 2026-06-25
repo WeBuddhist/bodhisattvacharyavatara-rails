@@ -72,7 +72,7 @@ All generated prose must follow these style rules without exception:
 - ❌ ང་ཚོས་ / ང་ཚོ་ (collective "we") anywhere in the document
 - ❌ Clipped clauses that don't flow into one another
 
-**Model example** (Section 5 tone — personal application, first person singular):
+**Model example** (Section 2 tone — personal application, first person singular):
 > ཐོག་མར་ངས་དཀོན་མཆོག་གསུམ་ལ་གུས་པ་དང་སེམས་ཅན་ཐམས་ཅད་ལ་དམིགས་པའི་བྱང་ཆུབ་ཀྱི་སེམས་སྐྱེ་བའི་སྨོན་ལམ་འདེབས། དེ་རིང་ངས་སྤྱོད་འཇུག་གི་ལེའུ་དང་པོའི་ཤློཀ་དང་པོ་དང། གཉིས་པ། གསུམ་པ་བཅས་སློབ་སྦྱོང་དང་ཉམས་སུ་ལེན་རྒྱུ་ཡིན། རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷས་བྱང་ཆུབ་ཀྱི་སེམས་སྒོམ་པའི་ཕྱིར་གཞུང་འདི་བརྩམས་པར་གསུངས་པས། ང་རང་ཉིད་ཀྱིས་ཀྱང་རང་རྒྱུད་ཀྱི་ང་རྒྱལ་འཇོམས་པ་དང་གཞན་ཕན་གྱི་བསམ་པས་ཀུན་ནས་བསླངས་ཏེ་དེ་རིང་གི་སྤྱོད་འཇུག་སློབ་སྦྱོང་དང་ཉམས་ལེན་གྱི་ལས་ལ་འཇུག་པར་བྱ་རྒྱུ་ཡིན་ནོ།།
 
 ---

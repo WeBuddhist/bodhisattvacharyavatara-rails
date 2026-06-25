@@ -133,7 +133,18 @@ def _uniform(units):
 
 
 def _format_pada(p):
-    return re.sub(r"\s*([" + SHAD + NYIS_SHAD + r"])\s*", r"\1", p).strip()
+    p = p.strip()
+    # Collapse multiple spaces to one.
+    p = re.sub(r" {2,}", " ", p)
+    # Remove space before a shad, but ONLY when the character immediately
+    # before that space is NOT itself a shad.  This preserves the ། །
+    # (shad-space-shad) punctuation sequence while still stripping stray
+    # OCR spaces like "word །" → "word།".
+    p = re.sub(r"(?<![" + SHAD + NYIS_SHAD + r"]) +([" + SHAD + NYIS_SHAD + r"])", r"\1", p)
+    # Ensure a space after ། ། (or any shad) when followed directly by
+    # Tibetan content with no separator.
+    p = re.sub(r"([" + SHAD + NYIS_SHAD + r"])([^\s" + SHAD + NYIS_SHAD + TSHEG + r"])", r"\1 \2", p)
+    return p
 
 
 def _split_clause_units(text):

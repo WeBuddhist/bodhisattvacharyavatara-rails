@@ -364,7 +364,7 @@ OUTPUT — emit ONLY the TOC block, exactly in this shape and nothing else:
 
 * 1. <clean text> [[<context>]]
    * 1.1 <clean text> [[<context>]]
-      * 1.1.1 <clean text>
+      * 1.1.1 <clean text> [[<context>]]
    * 1.2 <clean text> [[<context>]]
 * 2. <clean text> [[<context>]]
 
@@ -381,13 +381,18 @@ FORMAT RULES (follow exactly):
    - counters reset for deeper levels whenever you move up to a shallower level
    - cover the whole document; do not drop branches. Output Tibetan, no English,
      no commentary, no code fences.
-   - each entry is TITLE followed by CONTEXT: "<clean title> [[<context>]]"
-     The context is taken from the CONTEXT: field of the matching candidate — copy
-     the full CONTEXT value (before + after surrounding words) verbatim inside the
-     double brackets. If no matching candidate has a CONTEXT field, or if the context
-     is empty, omit the brackets entirely (write the title only, no trailing "[[]]").
-     For gap-filled nodes (parts inserted from enumerations with no candidate),
-     omit the brackets.
+   - EVERY entry MUST have a [[context]] suffix — no entry may appear without one.
+     The context is a short verbatim Tibetan excerpt that locates the section in the
+     source text. Source priority (use the first that applies):
+       a. The matching candidate's CONTEXT: field — copy it verbatim.
+       b. The enumeration passage that names this part — copy the relevant sentence
+          or clause verbatim from the ENUMERATIONS input.
+       c. The ITEMS list text of the parent candidate that enumerates this part —
+          copy the relevant item line verbatim.
+     In all cases copy the Tibetan EXACTLY as it appears in the source; do not
+     paraphrase. Keep the excerpt concise (roughly 10–20 Tibetan syllables is enough).
+     Do NOT emit an entry without [[context]] — if you cannot find any source text
+     for a node, write [[?]] as a placeholder rather than leaving it blank.
    - no trailing particle, no ། , no ⟨gap⟩ or any other marker on any entry.
 """
 
@@ -458,8 +463,13 @@ ALSO tidy: indentation must be 3 spaces × (depth − 1); remove duplicate decim
 malformed lines. Each entry has the form "<title> [[<context>]]" — PRESERVE the trailing
 "[[<context>]]" suffix on every existing entry; do NOT remove or alter context suffixes.
 Strip any trailing division clause (ལ་གཉིས་ཏེ། ...) or particle (ནི། ལ། འོ། ...) and any
-trailing ། from the TITLE part only (before the context brackets). When inserting a
-gap node, omit the context brackets. Do NOT add ^toc block IDs.
+trailing ། from the TITLE part only (before the context brackets). Do NOT add ^toc block IDs.
+
+CONTEXT ON EVERY NODE — this is mandatory, including gap-filled nodes. When inserting a
+gap node (a part declared in the enumerations but absent from the candidates), find its
+context by copying the relevant clause from the ENUMERATION BLOCKS verbatim — the sentence
+that lists or announces this part. If no enumeration passage is available, write [[?]] as
+a placeholder. Never emit a node without [[...]].
 
 DO NOT: reorder or reword the topic of existing real nodes; change Tibetan text; turn
 doctrinal/content lists into nodes; or INVENT a Tibetan ordinal where neither the node nor

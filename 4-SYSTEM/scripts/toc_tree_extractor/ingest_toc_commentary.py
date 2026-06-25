@@ -192,39 +192,59 @@ def main():
         parts = dec.split(".")
         return ".".join(parts[:-1]) if len(parts) > 1 else None
 
-    def after_pos_for(dec):
+    def parent_line_for(dec):
+        """Return the located line of the nearest located ancestor, or None."""
         pdec = parent_dec(dec)
         while pdec:
             pl = dec_line.get(pdec)
             if pl is not None:
-                return line_to_canon_pos(offsets, pl + 1)
+                return pl
             pdec = parent_dec(pdec)
-        return 0
+        return None
+
+    def after_pos_for(dec):
+        pl = parent_line_for(dec)
+        return line_to_canon_pos(offsets, pl + 1) if pl is not None else 0
 
     for dec, title, ctx in entries:
         heading = "* <{}> {}".format(dec, title)
         after_cp = after_pos_for(dec)
+        parent_line = parent_line_for(dec)
         located_line = None
         score = 0.0
         method = ""
 
+        def _search(query, after, label):
+            """Search with after constraint; if not found retry from 0."""
+            cp, sc = find_in_canon(canon_text, query, after_pos=after,
+                                   min_match=args.min_match)
+            if cp is not None:
+                return cp, sc, label
+            # retry full-text — Tibetan commentaries often announce sub-sections
+            # early (enumeration block) before the section body appears
+            cp, sc = find_in_canon(canon_text, query, after_pos=0,
+                                   min_match=args.min_match)
+            if cp is not None:
+                return cp, sc, label + "(full)"
+            return None, sc, label
+
         # strategy 1: context match
-        if ctx:
-            cp, score = find_in_canon(
-                canon_text, tib_canon(ctx), after_pos=after_cp,
-                min_match=args.min_match)
+        if ctx and ctx != "?":
+            cp, score, method = _search(tib_canon(ctx), after_cp, "ctx")
             if cp is not None:
                 located_line = canon_pos_to_line(offsets, cp)
-                method = "ctx"
 
         # strategy 2: title match
         if located_line is None:
-            cp, score = find_in_canon(
-                canon_text, tib_canon(title), after_pos=after_cp,
-                min_match=args.min_match)
+            cp, score, method = _search(tib_canon(title), after_cp, "title")
             if cp is not None:
                 located_line = canon_pos_to_line(offsets, cp)
-                method = "title"
+
+        # clamp: never insert before parent — keeps output order consistent
+        if located_line is not None and parent_line is not None:
+            if located_line < parent_line:
+                located_line = parent_line + 1
+                method += "+clamped"
 
         dec_line[dec] = located_line
 
@@ -233,9 +253,7 @@ def main():
                 dec, score, located_line + 1, method, title[:50]))
             insertions.setdefault(located_line, []).append(heading)
         else:
-            pdec = parent_dec(dec)
-            fallback_line = (dec_line[pdec] + 1
-                             if pdec and dec_line.get(pdec) is not None else 0)
+            fallback_line = (parent_line + 1) if parent_line is not None else 0
             print("  [{}] NO MATCH  [fallback line {}]  {}".format(
                 dec, fallback_line + 1, title[:50]))
             insertions.setdefault(fallback_line, []).append(

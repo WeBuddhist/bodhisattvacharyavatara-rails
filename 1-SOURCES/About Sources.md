@@ -101,6 +101,48 @@ Include only the fields that apply. Leave inapplicable fields out entirely. `sou
 
 ---
 
+## 3a. Book ID and cataloging convention
+
+Alongside the external IDs above, every text related to the **Bodhicaryāvatāra (BCA)** — and to any other root text the vault later adopts — carries a vault-internal catalog code in the `book_id` frontmatter field. This standardised alphanumeric code keeps the database scalable: it identifies a work's root text, resource type, century, author, and language in a single string, independent of any external database.
+
+### Code structure
+
+The identifier is built from these blocks. The root title, resource type, and century run together with no separators; an underscore then sets off the author code, and a final underscore sets off the lowercase language tag — placed last so that all language editions of the same work sort together:
+
+```
+[Root Title][Resource Type][Century]_[Author Code]_[language]
+```
+
+### Component breakdown
+
+**1. Root Title (3 letters).** An uppercase identifier for the root text.
+
+- `BCA` — *Bodhicaryāvatāra*
+- Future root texts each receive their own unique 3-letter uppercase identifier.
+
+**2. Resource Type (1 letter).** The kind of text: `V` version / direct translation of the root text · `C` commentary on the root text.
+
+**3. Century (2 digits).** The century in which the specific work or translation was written — e.g. `12` for the 12th century, `21` for the 21st.
+
+**4. Author / translator code (variable length).** Uppercase initials of the author, commentator, or translator, set off by a leading underscore.
+
+**5. Language (2 lowercase letters).** The language of this text, written in lowercase and placed at the end (after an underscore) so that the different language editions and translations of one work group together: `en` English · `bo` Tibetan (*Bod skad*) · `sa` Sanskrit · `zh` Chinese.
+
+### Examples in practice
+
+**Root-text versions / translations** use the `V` resource marker:
+
+- `BCAV21_DKC_en` — *Bodhicaryāvatāra*, **V**ersion, **21**st-century translation by **D**avid **K**arma **C**hoepel, in English (**en**).
+
+**Commentaries** use the `C` resource marker:
+
+- `BCAC12_TZ_bo` — *Bodhicaryāvatāra*, **C**ommentary, **12**th-century text by **T**hogme **Z**angpo, in Tibetan (**bo**).
+- `BCAC21_DL_bo` — *Bodhicaryāvatāra*, **C**ommentary, **21**st-century commentary by His Holiness the **D**alai **L**ama, in Tibetan (**bo**).
+
+Record the assigned `book_id` in the file's frontmatter (see §4) and, for this vault, register it against the source roster in the vault annex ([`../4-SYSTEM/Docs/vault-annex.md`](../4-SYSTEM/Docs/vault-annex.md)). Like `registered_id`, a `book_id` never changes once assigned.
+
+---
+
 ## 4. Frontmatter
 
 ### Root Text
@@ -114,6 +156,7 @@ language: [Language]
 script: [Script]
 file_type: root-text
 lang_tag: [tag]
+book_id: [Root][Type][Century]_[AuthorCode]_[lang]   # see §3a; e.g. BCAV21_DKC_en
 chapters: [N]
 total_verses: [N]
 verse_id_format: chapter-verse | verse | book-chapter-verse | book-verse
@@ -150,6 +193,7 @@ language: [Language]
 script: [Script]
 file_type: edition
 lang_tag: [lang-script]
+book_id: [Root][Type][Century]_[AuthorCode]_[lang]   # see §3a
 verse_id_format: chapter-verse
 root_text: 1-SOURCES/Text/[lang]-root-text.md
 has_variants: true
@@ -167,6 +211,7 @@ date: [Date]
 language: [Target language]
 file_type: translation
 lang_tag: [tag]
+book_id: [Root][Type][Century]_[AuthorCode]_[lang]   # see §3a; versions use the V marker, e.g. BCAV21_DKC_en
 verse_id_format: chapter-verse
 root_text: 1-SOURCES/Text/[lang]-root-text.md
 translation_basis: [edition used]
@@ -187,6 +232,7 @@ language: [Commentary language]
 script: [Script]
 file_type: commentary
 lang_tag: [tag]
+book_id: [Root][Type][Century]_[AuthorCode]_[lang]   # see §3a; commentaries use the C marker, e.g. BCAC21_DL_bo
 verse_id_format: chapter-verse
 registered_id: [short-id]
 root_text: 1-SOURCES/Text/[lang]-root-text.md
@@ -580,6 +626,7 @@ For languages not listed, use the appropriate ISO 639-1 code. When a resource is
 - [ ] Filename uses language tag, no diacritics, no subfolders.
 - [ ] Frontmatter complete — `source_description` required at minimum.
 - [ ] External IDs added where applicable (BDRC, CBETA, GRETIL, DSBC, SuttaCentral).
+- [ ] `book_id` assigned per the §3a cataloging convention and registered in the vault annex.
 - [ ] `source_url` included if sourced digitally.
 - [ ] `verse_id_format` declared in frontmatter.
 - [ ] Every verse has a block ID on its last line.

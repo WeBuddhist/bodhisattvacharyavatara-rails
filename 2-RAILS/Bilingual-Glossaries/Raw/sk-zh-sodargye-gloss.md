@@ -1,5 +1,5 @@
 ---
-source_file: 1-SOURCES/Text/sk-dev.md
+source_file: 1-SOURCES/Text/BCAV08_SH_sk.md
 source_language: sk
 target_file: 1-SOURCES/Translations/zh-索達吉堪布.md
 target_language: zh

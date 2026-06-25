@@ -19,7 +19,7 @@ Options:
     --dry-run           Parse and validate but do not write any files.
 
 Output layout:
-    OUTPUT_DIR/<stem>.segmented.md      Stage-1 output (always produced)
+    OUTPUT_DIR/<stem>.md                Stage-1 output (same name as source)
     OUTPUT_DIR/reports/<stem>.segreport.tsv
     OUTPUT_DIR/reports/<stem>.preclean.tsv  (only when --preclean)
     OUTPUT_DIR/batch_summary.tsv            one row per file
@@ -49,6 +49,28 @@ import segment_commentary as segment    # noqa: E402
 
 
 # ---------------------------------------------------------------------------
+# Helpers
+# ---------------------------------------------------------------------------
+
+_FM_RE = re.compile(r"^(---\r?\n)(.*?)(^---\r?\n)", re.DOTALL | re.MULTILINE)
+
+def _inject_status(text: str, status: str = "segmented") -> str:
+    """Add or update 'status: <value>' in the YAML front matter."""
+    m = _FM_RE.match(text)
+    if m:
+        fence_open, body, fence_close = m.group(1), m.group(2), m.group(3)
+        # Replace existing status line or append
+        if re.search(r"^status\s*:", body, re.MULTILINE):
+            body = re.sub(r"^status\s*:.*$", f"status: {status}", body,
+                          flags=re.MULTILINE)
+        else:
+            body = body.rstrip("\n") + f"\nstatus: {status}\n"
+        return fence_open + body + fence_close + text[m.end():]
+    else:
+        return f"---\nstatus: {status}\n---\n\n" + text
+
+
+# ---------------------------------------------------------------------------
 # Worker
 # ---------------------------------------------------------------------------
 
@@ -60,7 +82,7 @@ def _process_one(args):
     inp = Path(input_path)
     stem = inp.stem  # e.g. "khenpo-namdrol-ch1"
 
-    out_segmented = Path(output_dir) / f"{stem}.segmented.md"
+    out_segmented = Path(output_dir) / f"{stem}.md"
     out_preclean  = Path(output_dir) / f"{stem}.preclean.md"
     rep_preclean  = Path(reports_dir) / f"{stem}.preclean.tsv"
     rep_segment   = Path(reports_dir) / f"{stem}.segreport.tsv"
@@ -76,7 +98,7 @@ def _process_one(args):
 
     t0 = time.perf_counter()
     try:
-        text = unicodedata.normalize("NFC", inp.read_text(encoding="utf-8"))
+        text = unicodedata.normalize("NFC", inp.read_text(encoding="utf-8", errors="replace"))
 
         # ---- Stage 0 (optional) ----
         if do_preclean:
@@ -113,7 +135,7 @@ def _process_one(args):
         if not dry_run:
             Path(output_dir).mkdir(parents=True, exist_ok=True)
             Path(reports_dir).mkdir(parents=True, exist_ok=True)
-            out_segmented.write_text(segmented, encoding="utf-8")
+            out_segmented.write_text(_inject_status(segmented), encoding="utf-8")
             rep_segment.write_text(
                 "index\ttrigger\tsyllables\tflag\tpreview\n" +
                 "".join(

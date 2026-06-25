@@ -30,6 +30,12 @@ Converts JSON exports of root texts (e.g. from tipitaka.org or SuttaCentral) int
 Converts JSON exports of classical commentaries into formatted commentary markdown files.
 → [`json-to-commentary/SKILL.md`](json-to-commentary/SKILL.md)
 
+### `colophon-metadata-extractor` **[exists]**
+**Purpose:** Extract author, title, and language from a Tibetan text's colophon (last 200 syllables) and title block (first 200 syllables), populate frontmatter, and save as `{lang_tag}-{author_name}.md`.
+**Inputs:** A `D*` file in `1-SOURCES/Commentaries/raw/`, or `batch: true` to process all D-files.
+**Outputs:** New `.md` file in the same folder with YAML frontmatter and original content; original file untouched.
+→ [`colophon-metadata-extractor/SKILL.md`](colophon-metadata-extractor/SKILL.md)
+
 ### `format-root-text` **[exists]**
 Normalises an existing root-text file: heading structure, block IDs, verse formatting.
 → [`format-root-text/SKILL.md`](format-root-text/SKILL.md)
@@ -180,6 +186,12 @@ Audits the vault for consistency: checks that all linked files exist, frontmatte
 **Outputs:** Target file(s) modified in place with `![[file#^block-id]]` transclusion links inserted; no new files created.
 → [`transclusion/SKILL.md`](transclusion/SKILL.md)
 
+### `tibetan-ocr-quality` **[exists]**
+**Purpose:** Calculate perplexity of a Tibetan OCR output file using KenLM and Botok normalization to assess OCR quality.
+**Inputs:** A `.txt` file containing raw Tibetan OCR output; the `BoKenlm-syl-v0.4.arpa` model file.
+**Outputs:** Console report with sentence count, token count, log-probability, and perplexity score.
+→ [`tibetan-ocr-quality/SKILL.md`](tibetan-ocr-quality/SKILL.md)
+
 ---
 
 ## Vault-specific skills
@@ -221,7 +233,7 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 → [`plan-day-feedback-revision/SKILL.md`](plan-day-feedback-revision/SKILL.md)
 
 ### `hindi-plan-from-english` **[exists]**
-**Purpose:** Translate an existing English Bodhisattva Challenge day-plan file into Hindi, rendering only the Opening/Introduction, From the Tradition, and Today's Practice sections into Devanagari Hindi while reproducing everything else verbatim.
+**Purpose:** Translate an existing English Bodhisattva Challenge day-plan file into plain, conversational ("chai"-register) Hindi, rendering only the Opening/Introduction, From the Tradition, and Today's Practice sections into everyday Devanagari Hindi while reproducing everything else verbatim.
 **Inputs:** A finished English day file under `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/<Chapter-folder>/<DAY_NUMBER>.md`, plus the day number.
 **Outputs:** A structurally identical Hindi day file at `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/hi/Days/<Chapter-folder>/<DAY_NUMBER>.md` with only the three prose sections translated.
 → [`hindi-plan-from-english/SKILL.md`](hindi-plan-from-english/SKILL.md)
@@ -231,6 +243,12 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 **Inputs:** A Tibetan text passage (pasted or from a file) and a short `commentary-id` for the output filename.
 **Outputs:** `0-INBOX/toc-candidates-<commentary-id>.md` containing every candidate with TYPE, exact text, 10-word context window, and named items.
 → [`toc-candidate-extraction/SKILL.md`](toc-candidate-extraction/SKILL.md)
+
+### `toc-tree-extraction` **[exists]**
+**Purpose:** Build the FULL nested, decimal-numbered ས་བཅད TOC tree (དཀར་ཆག) from a Tibetan commentary — the complete pipeline, not just candidates. Claude-native port of `4-SYSTEM/Scripts/toc_tree_extractor/extract_toc_tree.py` (which uses the Gemini API): Claude performs the four inference passes itself — (1) section candidates, (2) verbatim enumeration blocks, (3) nested decimal tree, (4) QC repair — while two bundled Python helpers (`chunk_file.py`, `qc_check_tree.py`) do the deterministic chunking and tree QC. Use for in-session runs on one/a-few commentaries; use the Gemini script for headless batch runs.
+**Inputs:** Commentary/root-text `.md` path (normally `1-SOURCES/Commentaries/`) and a short `commentary-id`.
+**Outputs:** `0-INBOX/toc-candidates-<id>.md`, `0-INBOX/toc-tree-<id>.md` (no `^toc` block IDs), and `0-INBOX/toc-tree-qc-<id>.md`; per-chunk staging under `0-INBOX/temp/TOC-<id>/`.
+→ [`toc-tree-extraction/SKILL.md`](toc-tree-extraction/SKILL.md)
 
 ### `Outline-Extractor` **[exists]**
 **Purpose:** Extract the structural outline (ས་བཅད།) from a Tibetan commentary in `1-SOURCES/Commentaries/` and produce two output files: a flat tab-indented list (`ས་བཅད་རྐྱང་པ།`) and a nested heading+list structured outline (`ལྟེ་བའི་དཀར་ཆག།`), both saved to `3-TRANSFORMATIONS/Adaptations/<commentary-id>-sa-bcad/`.
@@ -255,3 +273,9 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 **Inputs:** One or more terms (or "all") from the Bo column of `2-RAILS/Local-Wiki/BCA-Term-Localization.md`; target languages (default: all six); the Meaning column as the disambiguating source.
 **Outputs:** `2-RAILS/Local-Wiki/BCA-Term-Localization.md` updated in place — En, Zh, Hin, Nep, Rus, Mon cells filled with contextually accurate renderings; novel renderings flagged with `*`.
 → [`BAC-Term-Localization/SKILL.md`](BAC-Term-Localization/SKILL.md)
+
+### `dkr-fellow-plan` **[exists]**
+**Purpose:** Generate the Day-63 practice plan for the 63-day DKR Fellow package. Produces a 5-section Tibetan-language markdown document: (1) fixed Refuge & Bodhicitta prayers, (2) root verses for Chapter 10 V.45–58, (3) DKR's teaching extracted from BCAC21_DKR_bo.md Session 2, (4) fixed Dedication & Aspiration prayers, (5) a concrete daily-life application.
+**Inputs:** `0-INBOX/DKR-Fellow/schedule.md` (verse assignment), `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` (root text verses ^10-45–^10-58), `1-SOURCES/Commentaries/BCAC21_DKR_bo.md` (DKR teaching, Session 2 ^2-1–^2-20).
+**Outputs:** `0-INBOX/DKR-Fellow/Day-63-Ch10-V45-58.md` filled with the complete 5-section practice plan.
+→ [`DKR Fellow Plan/SKILL.md`](DKR%20Fellow%20Plan/SKILL.md)

@@ -9,7 +9,7 @@ script: Traditional
 file_type: translation
 lang_tag: zh-hant
 verse_id_format: chapter-verse
-root_text: 1-SOURCES/Text/sk-dev.md
+root_text: 1-SOURCES/Text/BCAV08_SH_sk.md
 covers_verses: 0-1–10-58
 translated_from: Tibetan
 translation_date: "1950s"

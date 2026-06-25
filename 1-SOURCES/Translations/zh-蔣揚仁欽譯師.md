@@ -6,7 +6,7 @@ language: Chinese
 file_type: translation
 lang_tag: zh
 verse_id_format: chapter-verse
-root_text: 1-SOURCES/Text/sk-dev.md
+root_text: 1-SOURCES/Text/BCAV08_SH_sk.md
 covers_verses: 1-1–10-58
 source_description: "蔣揚仁欽譯師 漢譯。入菩薩行論。"
 ---

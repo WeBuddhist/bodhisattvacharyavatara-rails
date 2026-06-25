@@ -26,16 +26,16 @@ A 5-section practice plan document that:
 | File | Purpose |
 |---|---|
 | `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\1-SOURCES\Translations\bo-བློ་ལྡན་ཤེས་རབ།.md` | **Root text** — canonical Tibetan translation by Blo ldan shes rab. Read this file and extract verses ^10-45 through ^10-58 exactly. Never quote verses from memory. |
-| `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\0-INBOX\DKR-Fellow\schedule.md` | **Schedule** — confirms Day 63 = Chapter 10, Verses 45–58 (10.45–10.58). Read this to verify the assignment before extracting verses. |
-| `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\0-INBOX\DKR-Fellow\All-Plans-in-One.md` | **DKR's teaching — pre-assigned by day.** The Day-63 section (heading `## Day-63-Ch10-V45-58`) contains DKR's teaching for this day at blocks **^9-39 through ^9-43**. Copy these blocks verbatim into Section 3 — do not generate or paraphrase. |
+| `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\3-TRANSFORMATIONS\Plans\DKR-Fellow\schedule.md` | **Schedule** — confirms Day 63 = Chapter 10, Verses 45–58 (10.45–10.58). Read this to verify the assignment before extracting verses. |
+| `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\3-TRANSFORMATIONS\Plans\DKR-Fellow\DKR-Teaching-Assignment-to-Days.md` | **DKR's teaching — pre-assigned by day.** The Day-63 section (heading `## Day-63-Ch10-V45-58`) contains DKR's teaching for this day at blocks **^9-39 through ^9-43**. Copy these blocks verbatim into Section 3 — do not generate or paraphrase. |
 
 ---
 
 ## Step 1 — Verify the assignment
 
-1. Read `0-INBOX/DKR-Fellow/schedule.md` and confirm Day 63 = 10.45–10.58.
+1. Read `3-TRANSFORMATIONS/Plans/DKR-Fellow/schedule.md` and confirm Day 63 = 10.45–10.58.
 2. Read `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` and locate verses ^10-45 through ^10-58. Extract their exact text.
-3. Read `0-INBOX/DKR-Fellow/All-Plans-in-One.md`, section `## Day-63-Ch10-V45-58`, blocks ^9-39 through ^9-43. These are the pre-assigned DKR teaching paragraphs for Day 63 — copy them verbatim for Section 3.
+3. Read `3-TRANSFORMATIONS/Plans/DKR-Fellow/DKR-Teaching-Assignment-to-Days.md`, section `## Day-63-Ch10-V45-58`, blocks ^9-39 through ^9-43. These are the pre-assigned DKR teaching paragraphs for Day 63 — copy them verbatim for Section 3.
 
 Do not write any content until all three reads are complete.
 
@@ -88,6 +88,9 @@ Keep modifier chains to **one level deep**. Rewrite deeper stacks as two clauses
 - ❌ ང་ཚོས་ / ང་ཚོ་ anywhere in the document
 - ❌ Stacked relative clauses: X-བའི་ Y-བའི་ Z — rewrite as two clauses
 - ❌ Ending a paragraph on a subordinate particle (ཞིང་, ནས་, ལ་) — always close with a full final particle
+- ❌ **བགྱི་** as a first-person verb — this is Dzongkha-style honorific, wrong for a practitioner's own voice. Use བྱ་ / བྱེད་ / བྱ་རྒྱུ་ / བྱ་བ་ཡིན་ instead.
+- ❌ **གནད་དུ་ཕབ་** paired with **བསམ་གཏན་** — unnatural collocation. Use ཡིད་གཏད་དེ / སེམས་བཞག་སྟེ / དྲན་པ་གཏད་དེ.
+- ❌ **ཕྱི་ལོར་ + ཐོབ་ངེས་མིན་** — fabricated compound not found in the tradition. To express "hard to obtain again later" follow the verse: ཕྱིར་ཐོབ་དཀའ་བས / ཕྱིས་འབྱོར་དཀའ་བས.
 
 ---
 
@@ -100,7 +103,7 @@ Generate the complete document using the template below.
 ```
  
 ---
-# ཉིན་ ༦༣ - DKR Fellow སྤྱོད་འཇུག་སློབ་སྦྱོང།
+# ཉིན་ ༦༣ - མཁྱེན་བརྩེའི་སློབ་འབངས་སྤྱོད་འཇུག་སློབ་སྦྱོང། ཉིན་ ༦༣ །
 
 ## སྤྱོད་འཇུག་ལེའུ་བཅུ་པ། ཤློཀ་ ༤༥ - ༥༨
 
@@ -155,7 +158,7 @@ Open with the heading `### ༢། དེ་རིང་གི་རྩ་ཚི�
 
 **No prose in this section — root verses only.**
 
-1. Read `0-INBOX/DKR-Fellow/schedule.md` to confirm Day 63 = verses 10.45–10.58.
+1. Read `3-TRANSFORMATIONS/Plans/DKR-Fellow/schedule.md` to confirm Day 63 = verses 10.45–10.58.
 2. Read `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` and extract verses ^10-45 through ^10-58 exactly.
 3. For each verse, output:
    - **Header**: `#### **[verse number in Tibetan numerals]. ཤློཀ་[ordinal word]།** (ལེའུ་ ༡༠ ཤློཀ་ [verse number in Tibetan numerals])`
@@ -167,20 +170,26 @@ Open with the heading `### ༢། དེ་རིང་གི་རྩ་ཚི�
 
 ---
 
-### Section 3 — གསུང་ཆོས། (DKR's Teaching) [VERBATIM FROM ALL-PLANS-IN-ONE]
+### Section 3 — གསུང་ཆོས། (DKR's Teaching) [VERBATIM FROM DKR-TEACHING-ASSIGNMENT-TO-DAYS]
 
 Open with the heading `### ༣། གསུང་ཆོས།`.
 
-**Do not generate or paraphrase.** Copy the pre-assigned DKR teaching paragraphs verbatim from `0-INBOX/DKR-Fellow/All-Plans-in-One.md`.
+Immediately after that heading, add the day's teaching title as a `####` subheading, taken verbatim from the `###` sub-heading found inside that day's section in `DKR-Teaching-Assignment-to-Days.md`. For Day 63 this is:
+
+```
+#### དངོས་པོའི་གནས་ཚུལ་རྟོགས་པའི་མཐའ་སྡོམ།
+```
+
+**Do not generate or paraphrase.** Copy the pre-assigned DKR teaching paragraphs verbatim from `3-TRANSFORMATIONS/Plans/DKR-Fellow/DKR-Teaching-Assignment-to-Days.md`.
 
 #### Source pipeline for Section 3
 
-Read the `## Day-63-Ch10-V45-58` section of `All-Plans-in-One.md` (under the sub-heading `#### དངོས་པོའི་གནས་ཚུལ་རྟོགས་པའི་མཐའ་སྡོམ།`) and copy blocks **^9-39 through ^9-43** exactly as they appear, preserving paragraph breaks.
+Read the `## Day-63-Ch10-V45-58` section of `DKR-Teaching-Assignment-to-Days.md`. The `###` sub-heading immediately following the day header is the teaching title — include it as `####` in the plan. Then copy blocks **^9-39 through ^9-43** exactly as they appear, preserving paragraph breaks.
 
 After the final block, add a single citation line:
 
 ```
-**མཆན།**: [[0-INBOX/DKR-Fellow/All-Plans-in-One.md#^9-39|All-Plans-in-One ^9-39–^9-43]]
+**མཆན།**: [[3-TRANSFORMATIONS/Plans/DKR-Fellow/DKR-Teaching-Assignment-to-Days.md#^9-39|DKR-Teaching-Assignment-to-Days ^9-39–^9-43]]
 ```
 
 > ⚠️ Critical: copy the blocks exactly — do not rephrase, summarise, or supplement with any other material.
@@ -233,8 +242,10 @@ Write **exactly 1 practical application point** in Tibetan:
 
 **Example tone and structure (illustrative only — do not reuse):**
 
+The following example from Day 1 shows the required authentic Tibetan writing style: verse teaching cited directly, concrete daily commitment stated plainly, first-person voice throughout, sealed with a full final particle. Match this register and structure:
+
 ```markdown
-**༡. ཤེས་རབ་དང་བཅས་པའི་བསྔོ་བ།**: དེ་རིང་ངས་བྱ་བ་དགེ་བ་གང་བྱས་ཀྱང་རྗེས་སུ་སྨོན་ལམ་འདེབས་སྐབས་སུ། འདི་གློག་བརྙན་ལྟ་བུ་རེད། འདི་རྩེད་མོ་རྩེད་ཆས་ལྟ་བུ་རེད་བསམ་སྟེ། རང་བཞིན་གྱིས་མ་གྲུབ་པའི་ཤེས་རབ་ཀྱིས་རྩིས་ཟིན་ནས་བསྔོ་བ་འདེབས་རྒྱུ་ཡིན། རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷའི་སྨོན་ལམ་ལྟར་འགྲོ་བ་ཀུན་གྱི་སྡུག་བསྔལ་ཟད་ཅིང་བདེ་སྐྱིད་ཐོབ་པར་སྨོན་ལམ་འདེབས་རྒྱུ་ཡིན་ནོ།།
+**༡. དལ་འབྱོར་རིན་ཆེན་སྤྱོད་སྟངས།**: རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷས་གསུངས་པ་ལྟར། དལ་འབྱོར་གྱི་མི་ལུས་འདི་རྙེད་དཀའ་ཞིང་ཕྱིར་ཐོབ་དཀའ་བས། དེ་རིང་བདག་གིས་ལོ་ཙམ་དང་ཉིན་ཙམ་ལ་མི་ལྟོས་པར། ད་ལྟ་བྱང་ཆུབ་ཀྱི་སེམས་ལ་མི་ལྡོག་པར་གོམས་འདྲིས་བྱ་རྒྱུ་ཡིན། རྫོང་སར་མཁྱེན་བརྩེ་རིན་པོ་ཆེའི་གསུང་ལྟར་སྤྱོད་འཇུག་གི་ཡི་གེ་རེ་གཉིས་ཀློག་ཞིང་། ཚིག་གི་དོན་ལ་ཡིད་གཏད་དེ། བདག་གི་ཉིན་ལྟར་གྱི་ལས་ཀར་བྱང་སེམས་ཀྱི་དྲན་པ་རྒྱུན་དུ་འཁྱོང་བར་བྱ་བ་ཡིན་ནོ།།
 ```
 
 ---
@@ -244,7 +255,7 @@ Write **exactly 1 practical application point** in Tibetan:
 Combine all sections into the complete document and write it to:
 
 ```
-C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\0-INBOX\DKR-Fellow\Day-63-Ch10-V45-58.md
+C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\3-TRANSFORMATIONS\Plans\DKR-Fellow\Day-63-Ch10-V45-58.md
 ```
 
 After writing, present the file and confirm it was written successfully.
@@ -297,7 +308,8 @@ Ordinal word forms for Chapter 10 verses (45–58):
 - [ ] Section 1 and Section 4 match the fixed prayer texts **exactly** — do not paraphrase or alter
 - [ ] Section 2 — verses ^10-45 through ^10-58 found in source file and copied exactly; each verse has a header following `#### **N. ཤློཀ་[ordinal]།** (ལེའུ་ ༡༠ ཤློཀ་ N)` — parenthetical outside the bold
 - [ ] Section 2 — no prose, no commentary — root verses only
-- [ ] Section 3 — blocks ^9-39 through ^9-43 copied verbatim from `All-Plans-in-One.md` (Day-63 section); ends with a **མཆན།** citation line referencing `All-Plans-in-One ^9-39–^9-43`
+- [ ] Section 3 — teaching title included as `####` subheading immediately after `### ༣། གསུང་ཆོས།`, taken from the `###` sub-heading in that day's DKR-Teaching-Assignment-to-Days section
+- [ ] Section 3 — blocks ^9-39 through ^9-43 copied verbatim from `DKR-Teaching-Assignment-to-Days.md` (Day-63 section); ends with a **མཆན།** citation line referencing `DKR-Teaching-Assignment-to-Days ^9-39–^9-43`
 - [ ] Section 3 — no generated, paraphrased, or supplemented content; text matches source exactly
 - [ ] Section 5 — exactly 1 application point; first person singular (ངས་ / ང་རང་); concrete and actionable; sealed with final particle
 - [ ] Section 5 — draws from both the day's verses **and** DKR's teaching
@@ -305,5 +317,5 @@ Ordinal word forms for Chapter 10 verses (45–58):
 - [ ] No ང་ཚོས་ / ང་ཚོ་ anywhere in the document
 - [ ] No Dzongkha-style phrasing
 - [ ] Classical Tibetan literary register maintained; Śāntideva = རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷ།; DKR = རྫོང་སར་མཁྱེན་བརྩེ་རིན་པོ་ཆེ།
-- [ ] Output written to `0-INBOX/DKR-Fellow/Day-63-Ch10-V45-58.md`
+- [ ] Output written to `3-TRANSFORMATIONS/Plans/DKR-Fellow/Day-63-Ch10-V45-58.md`
 - [ ] File presented to user after writing

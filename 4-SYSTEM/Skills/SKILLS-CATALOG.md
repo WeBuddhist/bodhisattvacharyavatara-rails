@@ -44,6 +44,19 @@ Normalises an existing root-text file: heading structure, block IDs, verse forma
 Normalises an existing commentary file: OCR cleanup, heading structure, paragraph granularity, block IDs.
 → [`format-commentary/SKILL.md`](format-commentary/SKILL.md)
 
+### `commentary-segmentation` **[exists]**
+**Purpose:** Insert block boundaries into an OCR-clean Tibetan commentary so each block is a citation-sized unit (prose sentence or two, one verse stanza, one quotation). Rule-based (Stage 0 pre-clean + Stage 1 deterministic boundary detection). Run after `format-commentary`, before TOC inclusion and block-ID stamping.
+**Inputs:** A formatted commentary file in `1-SOURCES/Commentaries/` or `0-INBOX/`.
+**Outputs:** Boundary-segmented draft in `0-INBOX/` plus TSV reports. No block IDs assigned.
+→ [`commentary-segmentation/SKILL.md`](commentary-segmentation/SKILL.md)
+
+### `block-resegmentation` **[exists]**
+**Purpose:** Re-draw block boundaries in a Stage-1 segmented commentary to produce semantically coherent, citation-sized units. The LLM flags merge/split operations (broken verse stanzas, orphaned lead-ins, incomplete enumerations, fused objection/reply); a Python script applies them and verifies text integrity. Run after `commentary-segmentation` Stage 1 **and** after TOC headings are embedded; before block-ID stamping.
+**Inputs:** A Stage-1 segmented file with TOC headings embedded, in `0-INBOX/`.
+**Outputs:** `0-INBOX/resegmented/<id>.reseg.md` (resegmented file) + `0-INBOX/resegmented/<id>.ops.md` (human-readable operations log). Staging files under `0-INBOX/temp/RESEG-<id>/windows/` (resumable).
+**Requires:** `pip install google-genai` and `GEMINI_API_KEY` set.
+→ [`block-resegmentation/SKILL.md`](block-resegmentation/SKILL.md)
+
 ### `format-chinese-commentary` **[exists]**
 Format and normalize Chinese commentaries: structures headings, maps traditional outlines (科判), breaks prose into short paragraphs, applies block IDs, and implements a robust batch-processing protocol for long texts.
 → [`format-chinese-commentary/SKILL.md`](format-chinese-commentary/SKILL.md)

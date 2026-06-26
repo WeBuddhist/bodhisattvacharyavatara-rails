@@ -14,9 +14,17 @@ A leading YAML frontmatter block (--- ... ---) is preserved untouched; only
 the body below it is reflowed.
 
 Usage:
+    # single file
     python shad_linebreak.py input.txt [output.txt]
-    cat input.txt | python shad_linebreak.py        # stdin -> stdout
+    cat input.txt | python shad_linebreak.py            # stdin -> stdout
+
+    # whole folder, recursive -> writes a ".reflowed" sibling per file
+    python shad_linebreak.py path/to/folder
+    python shad_linebreak.py path/to/folder --ext .md .txt
+    python shad_linebreak.py path/to/folder --suffix .reflowed
 """
+import argparse
+import os
 import re
 import sys
 
@@ -58,19 +66,65 @@ def reflow(text: str) -> str:
     return out + '\n'
 
 
+def process_text(text: str) -> str:
+    front, body = split_frontmatter(text)
+    return front + reflow(body)
+
+
+def sibling_path(path: str, suffix: str) -> str:
+    """foo.md -> foo<suffix>.md"""
+    root, ext = os.path.splitext(path)
+    return root + suffix + ext
+
+
+def process_folder(folder: str, exts, suffix: str) -> int:
+    exts = tuple(e.lower() for e in exts)
+    count = 0
+    for dirpath, _dirs, files in os.walk(folder):
+        for name in sorted(files):
+            root, ext = os.path.splitext(name)
+            if ext.lower() not in exts:
+                continue
+            if root.endswith(suffix):          # skip already-generated siblings
+                continue
+            src = os.path.join(dirpath, name)
+            dst = sibling_path(src, suffix)
+            with open(src, encoding='utf-8') as f:
+                text = f.read()
+            with open(dst, 'w', encoding='utf-8') as f:
+                f.write(process_text(text))
+            print(os.path.relpath(dst, folder))
+            count += 1
+    return count
+
+
 def main():
-    args = sys.argv[1:]
-    if args:
-        with open(args[0], encoding='utf-8') as f:
+    p = argparse.ArgumentParser(description='Reflow Tibetan text by the shad (།).')
+    p.add_argument('input', nargs='?', help='input file or folder (stdin if omitted)')
+    p.add_argument('output', nargs='?', help='output file (single-file mode only)')
+    p.add_argument('--ext', nargs='+', default=['.md'],
+                   help='folder mode: extensions to process (default: .md)')
+    p.add_argument('--suffix', default='.reflowed',
+                   help='folder mode: sibling suffix (default: .reflowed)')
+    args = p.parse_args()
+
+    # folder mode
+    if args.input and os.path.isdir(args.input):
+        n = process_folder(args.input, args.ext, args.suffix)
+        print(f'\n{n} file(s) processed.', file=sys.stderr)
+        return
+
+    # single-file / stdin mode
+    if args.input:
+        with open(args.input, encoding='utf-8') as f:
             text = f.read()
     else:
         text = sys.stdin.read()
 
-    front, body = split_frontmatter(text)
-    result = front + reflow(body)
+    result = process_text(text)
 
-    if len(args) >= 2:
-        with open(args[1], 'w', encoding='utf-8') as f:
+    if args.output:
+        with open(args.output, 'w', encoding='utf-8') as f:
             f.write(result)
     else:
         sys.stdout.write(result)

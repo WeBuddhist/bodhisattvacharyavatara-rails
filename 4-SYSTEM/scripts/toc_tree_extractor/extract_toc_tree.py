@@ -1107,16 +1107,60 @@ def main():
                 enum_out.write_text(enum_result.rstrip() + "\n", encoding="utf-8")
 
     # ---- Step 4a: combine section candidates into one file ----
+    # ---- Step 4a: combine + de-duplicate by LINE number ----
+    # Overlapping chunks can produce the same candidate twice (same LINE: value).
+    # Keep only the first occurrence for each line number; collect the rest as
+    # duplicates so they can be reported but excluded from the tree build.
     combined_parts = []
     total_candidates = 0
+    total_duplicates = 0
+    seen_lines: set[int] = set()
+
+    # Regex to parse a full candidate block (CONTEXT / SECTION_TITLE / LINE / ITEMS)
+    _BLOCK_RE = re.compile(
+        r"(CONTEXT:.*?LINE:\s*(\d+).*?(?=\nCONTEXT:|\Z))",
+        re.DOTALL,
+    )
+
     for idx, start, end, _text, _numbered in chunks:
         chunk_out = temp_dir / f"chunk_{idx:03d}.md"
         if not chunk_out.exists():
             print(f"  ! missing {chunk_out.name}; skipping in combine", file=sys.stderr)
             continue
         content = chunk_out.read_text(encoding="utf-8")
-        total_candidates += count_candidates(content)
-        combined_parts.append(content.rstrip() + "\n")
+
+        # Split the chunk content into header comment + candidate blocks.
+        # Everything before the first CONTEXT: is the chunk header; keep it as-is.
+        first_block = content.find("CONTEXT:")
+        if first_block == -1:
+            # No candidates in this chunk — keep as-is (handles <!-- no candidates -->)
+            total_candidates += count_candidates(content)
+            combined_parts.append(content.rstrip() + "\n")
+            continue
+
+        header_part = content[:first_block]
+        blocks_part = content[first_block:]
+
+        kept_blocks = []
+        for m in _BLOCK_RE.finditer(blocks_part):
+            block_text = m.group(1).rstrip()
+            line_num = int(m.group(2))
+            if line_num in seen_lines:
+                total_duplicates += 1
+                continue
+            seen_lines.add(line_num)
+            kept_blocks.append(block_text)
+            total_candidates += 1
+
+        if kept_blocks:
+            combined_parts.append(
+                (header_part + "\n".join(kept_blocks)).rstrip() + "\n"
+            )
+        else:
+            # All blocks were duplicates — emit the header comment only
+            combined_parts.append(
+                (header_part.rstrip() + "\n<!-- all duplicates removed -->\n")
+            )
 
     frontmatter = (
         "---\n"
@@ -1126,6 +1170,7 @@ def main():
         f"date: {date.today().isoformat()}\n"
         f"model: {args.model}\n"
         f"total_candidates: {total_candidates}\n"
+        f"duplicates_removed: {total_duplicates}\n"
         "---\n\n"
     )
     candidates_doc = frontmatter + "\n".join(combined_parts)
@@ -1149,7 +1194,8 @@ def main():
         enumerations_text = "\n\n".join(enum_chunks)
 
     print()
-    print(f"✓ Pass 1: {total_candidates} section candidates merged → {out_file}")
+    dup_note = f" ({total_duplicates} overlap duplicates removed)" if total_duplicates else ""
+    print(f"✓ Pass 1: {total_candidates} section candidates merged{dup_note} → {out_file}")
     if not args.no_enum:
         print(f"✓ Pass 2: {total_enum_blocks} enumeration blocks across "
               f"{enum_file_count} chunk files → {enum_dir}")

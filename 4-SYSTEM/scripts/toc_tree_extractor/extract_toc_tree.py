@@ -172,6 +172,8 @@ particle / division phrase. Examples:
     དང་པོ་ལ་གཉིས་ཏེ།      ->  དང་པོ་
     གཉིས་པ་འགྱུར་ཕྱག་ནི།   ->  གཉིས་པ་འགྱུར་ཕྱག་
     གསུམ་པ་མཚན་དོན་ནི།     ->  གསུམ་པ་མཚན་དོན་]
+LINE: [the source line number (from the leading "N:" prefix in the chunk) where the
+SECTION_TITLE text appears]
 ITEMS:
 1. [first named item, in Tibetan]
 2. [second named item, in Tibetan]
@@ -249,6 +251,7 @@ INPUT 1 — CANDIDATES: extracted section headers. Each block looks like:
     CONTEXT: <surrounding Tibetan>
     SECTION_TITLE: <ordinal + topic name, trailing particle/division phrase stripped,
                     e.g. གཉིས་པ་འགྱུར་ཕྱག་>
+    LINE: <source line number where the section title appears>
     ITEMS:
     1. <first named sub-part>
     2. <second named sub-part>
@@ -362,11 +365,11 @@ OUTPUT — emit ONLY the TOC block, exactly in this shape and nothing else:
 
 ## དཀར་ཆག / Table of Contents
 
-* 1. <clean text> [[<context>]]
-   * 1.1 <clean text> [[<context>]]
-      * 1.1.1 <clean text> [[<context>]]
-   * 1.2 <clean text> [[<context>]]
-* 2. <clean text> [[<context>]]
+* 1. <clean text> [[<line>]]
+   * 1.1 <clean text> [[<line>]]
+      * 1.1.1 <clean text> [[<line>]]
+   * 1.2 <clean text> [[<line>]]
+* 2. <clean text> [[<line>]]
 
 ---
 
@@ -381,19 +384,10 @@ FORMAT RULES (follow exactly):
    - counters reset for deeper levels whenever you move up to a shallower level
    - cover the whole document; do not drop branches. Output Tibetan, no English,
      no commentary, no code fences.
-   - EVERY entry MUST have a [[context]] suffix — no entry may appear without one.
-     The context is a short verbatim Tibetan excerpt that locates the section in the
-     source text. Source priority (use the first that applies):
-       a. The matching candidate's CONTEXT: field — copy it verbatim.
-       b. The enumeration passage that names this part — copy the relevant sentence
-          or clause verbatim from the ENUMERATIONS input.
-       c. The ITEMS list text of the parent candidate that enumerates this part —
-          copy the relevant item line verbatim.
-     In all cases copy the Tibetan EXACTLY as it appears in the source; do not
-     paraphrase. Keep the excerpt concise (roughly 10–20 Tibetan syllables is enough).
-     Do NOT emit an entry without [[context]] — if you cannot find any source text
-     for a node, write [[?]] as a placeholder rather than leaving it blank.
    - no trailing particle, no ། , no ⟨gap⟩ or any other marker on any entry.
+   - EVERY entry MUST end with [[<line>]] where <line> is the LINE: number from the
+     matching candidate block. For nodes inserted from enumerations (no candidate),
+     write [[?]]. Never omit the [[...]] suffix.
 """
 
 TREE_USER_PROMPT_TEMPLATE = """\
@@ -460,16 +454,10 @@ The QC pass FOCUSES ON FOUR THINGS — do these and little else:
    present in the enumerations/candidates.
 
 ALSO tidy: indentation must be 3 spaces × (depth − 1); remove duplicate decimals; repair
-malformed lines. Each entry has the form "<title> [[<context>]]" — PRESERVE the trailing
-"[[<context>]]" suffix on every existing entry; do NOT remove or alter context suffixes.
-Strip any trailing division clause (ལ་གཉིས་ཏེ། ...) or particle (ནི། ལ། འོ། ...) and any
-trailing ། from the TITLE part only (before the context brackets). Do NOT add ^toc block IDs.
-
-CONTEXT ON EVERY NODE — this is mandatory, including gap-filled nodes. When inserting a
-gap node (a part declared in the enumerations but absent from the candidates), find its
-context by copying the relevant clause from the ENUMERATION BLOCKS verbatim — the sentence
-that lists or announces this part. If no enumeration passage is available, write [[?]] as
-a placeholder. Never emit a node without [[...]].
+malformed lines. Strip any trailing division clause (ལ་གཉིས་ཏེ། ...) or particle
+(ནི། ལ། འོ། ...) and any trailing ། from the TITLE part only (before the [[line]] suffix).
+Do NOT add ^toc block IDs. PRESERVE the trailing [[<line>]] suffix on every entry exactly
+as-is; when inserting a gap node, use [[?]] as the suffix.
 
 DO NOT: reorder or reword the topic of existing real nodes; change Tibetan text; turn
 doctrinal/content lists into nodes; or INVENT a Tibetan ordinal where neither the node nor
@@ -506,7 +494,9 @@ only the corrected tree.
 # Chunking
 # ------------------------------------------------------------------------------
 def make_chunks(lines, chunk_size, overlap):
-    """Return a list of (index, start_line, end_line, text) tuples (1-based line numbers)."""
+    """Return a list of (index, start_line, end_line, text, numbered_text) tuples
+    (1-based line numbers).  `text` is the raw content; `numbered_text` prepends the
+    1-based source line number to every line so Gemini can report LINE: accurately."""
     total = len(lines)
     chunks = []
     start = 0
@@ -514,7 +504,10 @@ def make_chunks(lines, chunk_size, overlap):
     while start < total:
         end = min(start + chunk_size, total)
         text = "".join(lines[start:end])
-        chunks.append((idx, start + 1, end, text))
+        numbered = "".join(
+            f"{start + i + 1}: {lines[start + i]}" for i in range(end - start)
+        )
+        chunks.append((idx, start + 1, end, text, numbered))
         idx += 1
         if end >= total:
             break
@@ -601,7 +594,9 @@ def _generate(client, model, system_prompt, contents, fallback_model="", label="
 
 
 def extract_from_chunk(client, model, chunk_text, fallback_model=""):
-    """Pass 1 — section candidates. Returns the model's text (CONTEXT/SECTION_TITLE/ITEMS)."""
+    """Pass 1 — section candidates. Returns the model's text (CONTEXT/SECTION_TITLE/LINE/ITEMS).
+    `chunk_text` must already have source line numbers prepended to each line (e.g. "66: ...")
+    so that Gemini can populate the LINE: field accurately."""
     contents = USER_PROMPT_TEMPLATE.format(chunk_text=chunk_text)
     return _generate(client, model, SYSTEM_PROMPT, contents,
                      fallback_model=fallback_model, label="chunk")
@@ -1066,7 +1061,7 @@ def main():
 
     if args.dry_run:
         print("Dry run — no API calls made. Chunk plan:")
-        for idx, start, end, _ in chunks:
+        for idx, start, end, _text, _numbered in chunks:
             print(f"  chunk_{idx:03d}: lines {start}–{end}")
         return
 
@@ -1074,14 +1069,15 @@ def main():
 
     # ---- Step 3: PASS 1 — section candidates (resumable) ----
     print("Pass 1 — section candidates:")
-    for idx, start, end, text in chunks:
+    for idx, start, end, text, numbered in chunks:
         chunk_out = temp_dir / f"chunk_{idx:03d}.md"
         if chunk_out.exists() and not args.force:
             print(f"  chunk_{idx:03d} (lines {start}–{end})  [skip — exists]")
             continue
 
         print(f"  chunk_{idx:03d} (lines {start}–{end})  → Gemini ...", flush=True)
-        result = extract_from_chunk(client, args.model, text,
+        # Pass the line-numbered text so Gemini can report accurate LINE: values.
+        result = extract_from_chunk(client, args.model, numbered,
                                     fallback_model=args.fallback_model)
 
         header = f"<!-- chunk {idx:03d} | lines {start}–{end} | source: {commentary_id} -->\n\n"
@@ -1094,13 +1090,14 @@ def main():
     # ---- Step 3b: PASS 2 — raw enumeration blocks, one file per chunk (resumable) ----
     if not args.no_enum:
         print("\nPass 2 — raw enumeration blocks:")
-        for idx, start, end, text in chunks:
+        for idx, start, end, text, _numbered in chunks:
             enum_out = enum_dir / f"chunk_{idx:03d}.md"
             if enum_out.exists() and not args.force:
                 print(f"  chunk_{idx:03d} (lines {start}–{end})  [skip — exists]")
                 continue
 
             print(f"  chunk_{idx:03d} (lines {start}–{end})  → Gemini ...", flush=True)
+            # Pass raw text (no line numbers) so Gemini copies Tibetan verbatim.
             enum_result = extract_enumerations_from_chunk(
                 client, args.model, text, fallback_model=args.fallback_model)
 
@@ -1110,16 +1107,60 @@ def main():
                 enum_out.write_text(enum_result.rstrip() + "\n", encoding="utf-8")
 
     # ---- Step 4a: combine section candidates into one file ----
+    # ---- Step 4a: combine + de-duplicate by LINE number ----
+    # Overlapping chunks can produce the same candidate twice (same LINE: value).
+    # Keep only the first occurrence for each line number; collect the rest as
+    # duplicates so they can be reported but excluded from the tree build.
     combined_parts = []
     total_candidates = 0
-    for idx, start, end, _ in chunks:
+    total_duplicates = 0
+    seen_lines: set[int] = set()
+
+    # Regex to parse a full candidate block (CONTEXT / SECTION_TITLE / LINE / ITEMS)
+    _BLOCK_RE = re.compile(
+        r"(CONTEXT:.*?LINE:\s*(\d+).*?(?=\nCONTEXT:|\Z))",
+        re.DOTALL,
+    )
+
+    for idx, start, end, _text, _numbered in chunks:
         chunk_out = temp_dir / f"chunk_{idx:03d}.md"
         if not chunk_out.exists():
             print(f"  ! missing {chunk_out.name}; skipping in combine", file=sys.stderr)
             continue
         content = chunk_out.read_text(encoding="utf-8")
-        total_candidates += count_candidates(content)
-        combined_parts.append(content.rstrip() + "\n")
+
+        # Split the chunk content into header comment + candidate blocks.
+        # Everything before the first CONTEXT: is the chunk header; keep it as-is.
+        first_block = content.find("CONTEXT:")
+        if first_block == -1:
+            # No candidates in this chunk — keep as-is (handles <!-- no candidates -->)
+            total_candidates += count_candidates(content)
+            combined_parts.append(content.rstrip() + "\n")
+            continue
+
+        header_part = content[:first_block]
+        blocks_part = content[first_block:]
+
+        kept_blocks = []
+        for m in _BLOCK_RE.finditer(blocks_part):
+            block_text = m.group(1).rstrip()
+            line_num = int(m.group(2))
+            if line_num in seen_lines:
+                total_duplicates += 1
+                continue
+            seen_lines.add(line_num)
+            kept_blocks.append(block_text)
+            total_candidates += 1
+
+        if kept_blocks:
+            combined_parts.append(
+                (header_part + "\n".join(kept_blocks)).rstrip() + "\n"
+            )
+        else:
+            # All blocks were duplicates — emit the header comment only
+            combined_parts.append(
+                (header_part.rstrip() + "\n<!-- all duplicates removed -->\n")
+            )
 
     frontmatter = (
         "---\n"
@@ -1129,6 +1170,7 @@ def main():
         f"date: {date.today().isoformat()}\n"
         f"model: {args.model}\n"
         f"total_candidates: {total_candidates}\n"
+        f"duplicates_removed: {total_duplicates}\n"
         "---\n\n"
     )
     candidates_doc = frontmatter + "\n".join(combined_parts)
@@ -1139,7 +1181,7 @@ def main():
     total_enum_blocks = enum_file_count = 0
     if not args.no_enum:
         enum_chunks = []
-        for idx, start, end, _ in chunks:
+        for idx, start, end, _text, _numbered in chunks:
             enum_out = enum_dir / f"chunk_{idx:03d}.md"
             if not enum_out.exists():
                 continue
@@ -1152,7 +1194,8 @@ def main():
         enumerations_text = "\n\n".join(enum_chunks)
 
     print()
-    print(f"✓ Pass 1: {total_candidates} section candidates merged → {out_file}")
+    dup_note = f" ({total_duplicates} overlap duplicates removed)" if total_duplicates else ""
+    print(f"✓ Pass 1: {total_candidates} section candidates merged{dup_note} → {out_file}")
     if not args.no_enum:
         print(f"✓ Pass 2: {total_enum_blocks} enumeration blocks across "
               f"{enum_file_count} chunk files → {enum_dir}")

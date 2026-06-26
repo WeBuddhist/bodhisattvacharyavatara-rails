@@ -257,6 +257,12 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 **Outputs:** `0-INBOX/toc-candidates-<commentary-id>.md` containing every candidate with TYPE, exact text, 10-word context window, and named items.
 → [`toc-candidate-extraction/SKILL.md`](toc-candidate-extraction/SKILL.md)
 
+### `toc-tree-ingest` **[exists]**
+**Purpose:** Ingest a pre-extracted TOC tree (`toc-tree-*.md`) into a commentary file in `1-SOURCES/Commentaries/commentaries_with_toc/` by inserting markdown headings with block IDs, one depth level per run. The `[[...]]` context snippets in the tree are used only to locate positions in the commentary — never copied into the output.
+**Inputs:** `toc-tree-*.md` path; target commentary file path; `commentary_id`; `depth` (integer, which level to ingest this run).
+**Outputs:** Commentary file updated in place with `## ... ^N-0` … `###### ... ^N-N-…-0` heading lines inserted before each section's context anchor. JSON parse cache at `0-INBOX/temp/TOC-<id>/toc-tree-<id>.json`.
+→ [`toc-tree-ingest/SKILL.md`](toc-tree-ingest/SKILL.md)
+
 ### `toc-tree-extraction` **[exists]**
 **Purpose:** Build the FULL nested, decimal-numbered ས་བཅད TOC tree (དཀར་ཆག) from a Tibetan commentary — the complete pipeline, not just candidates. Claude-native port of `4-SYSTEM/Scripts/toc_tree_extractor/extract_toc_tree.py` (which uses the Gemini API): Claude performs the four inference passes itself — (1) section candidates, (2) verbatim enumeration blocks, (3) nested decimal tree, (4) QC repair — while two bundled Python helpers (`chunk_file.py`, `qc_check_tree.py`) do the deterministic chunking and tree QC. Use for in-session runs on one/a-few commentaries; use the Gemini script for headless batch runs.
 **Inputs:** Commentary/root-text `.md` path (normally `1-SOURCES/Commentaries/`) and a short `commentary-id`.

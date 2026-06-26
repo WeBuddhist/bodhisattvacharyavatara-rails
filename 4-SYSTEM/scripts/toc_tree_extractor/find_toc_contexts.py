@@ -1,13 +1,22 @@
 #!/usr/bin/env python3
 """
-find_toc_contexts.py — rewrite [[context]] in a TOC tree with accurate body contexts.
+find_toc_contexts.py -- rewrite [[context]] in a TOC tree with accurate body contexts.
 
-For each entry the script finds ALL occurrences of the section title in the source,
-then picks the one that is the actual section opening — not a preview or enumeration.
+For each entry the script finds the section opening using a layered strategy:
+
+  1. Existing [[ctx]] hint search  -- if the TOC already has a snippet, locate it
+     in the source first; this is the strongest prior for correct position.
+  2. Verbatim title search         -- find all occurrences of the section title.
+  3. Fuzzy title search            -- syllable-window match when verbatim fails.
+
+When multiple candidates survive the position constraint, Gemini is called with
+FULL TOC context (existing ctx hint, parent title+ctx, resolved sibling ctxs)
+AND text context (source passages around each candidate) so the AI can make a
+well-informed pick -- not a preview/dkar-chag listing, but the actual body opening.
 
   0 occurrences  -> fuzzy fallback; keep existing context if nothing found
   1 occurrence   -> use it directly (no API call)
-  2+ occurrences -> narrow by position; call Gemini only when still ambiguous
+  2+ occurrences -> narrow by position; call Gemini with TOC+text context
 
 Rewrites the toc-tree file in-place (backs up original as .bak).
 
@@ -64,7 +73,7 @@ CONSTRAINT_MIN_SCORE = 0.85
 # ---------------------------------------------------------------------------
 # Tibetan canonicalisation
 # ---------------------------------------------------------------------------
-_TSHEG = "་"   # tsheg ་
+_TSHEG = "་"   # tsheg
 _SHAD_CHARS = "།༎༏༐༑༒༔"
 _SHAD_OR_WS_RE = re.compile("[" + _SHAD_CHARS + r"\s]+")
 
@@ -220,6 +229,30 @@ def passage_around(lines, line_idx, radius=2):
 
 
 # ---------------------------------------------------------------------------
+# Ctx-hint search  (existing [[ctx]] as location prior)
+# ---------------------------------------------------------------------------
+def find_ctx_hint_positions(canon_text, ctx_hint, offsets, min_match=0.7):
+    """
+    Search for an existing [[ctx]] snippet in the source text.
+    Returns list of (line_idx, score). Score 1.0 = verbatim; <1.0 = fuzzy.
+    """
+    if not ctx_hint or ctx_hint in ("?", ""):
+        return []
+    query = tib_canon(ctx_hint)
+    if not query:
+        return []
+    # verbatim
+    positions = find_all_verbatim(canon_text, query)
+    if positions:
+        return [(canon_pos_to_line(offsets, cp), 1.0) for cp in positions]
+    # fuzzy
+    fpos, score = find_best_fuzzy(canon_text, query, min_match=min_match)
+    if fpos is not None:
+        return [(canon_pos_to_line(offsets, fpos), score)]
+    return []
+
+
+# ---------------------------------------------------------------------------
 # Gemini disambiguation
 # ---------------------------------------------------------------------------
 def get_client():
@@ -233,10 +266,17 @@ def get_client():
     return genai.Client(api_key=api_key)
 
 
-def gemini_pick(client, model, dec, title, parent_info, candidates):
+def gemini_pick(client, model, dec, title, parent_info, candidates,
+                existing_ctx=None, sibling_info=None):
     """
     Ask Gemini which candidate is the actual section OPENING (not a preview).
-    candidates: list of (line_idx, passage_text)
+
+    Uses full TOC context (existing [[ctx]] hint, parent title+ctx, sibling ctxs)
+    plus source text context (passages around each candidate) to decide.
+
+    candidates    : list of (line_idx, passage_text)
+    existing_ctx  : the [[ctx]] snippet already in the TOC for this entry, or None
+    sibling_info  : list of "dec: title [[ctx]]" strings for preceding siblings
     Returns 0-based index into candidates, or None on failure.
     """
     import time
@@ -246,17 +286,46 @@ def gemini_pick(client, model, dec, title, parent_info, candidates):
         f"{i+1}. (line {c[0]+1})\n{c[1]}"
         for i, c in enumerate(candidates)
     )
+
+    toc_context_parts = []
+    if parent_info:
+        toc_context_parts.append(f"Parent section: {parent_info}")
+    if sibling_info:
+        toc_context_parts.append(
+            "Preceding siblings (already located):\n" +
+            "\n".join(f"  {s}" for s in sibling_info[-3:])
+        )
+    if existing_ctx and existing_ctx != "?":
+        toc_context_parts.append(
+            f"Existing context hint in TOC: [{existing_ctx}]\n"
+            "(This snippet was previously recorded as the opening of this section.\n"
+            " Strongly prefer the candidate whose passage contains or matches this hint.)"
+        )
+
+    toc_context_block = (
+        "\nTOC STRUCTURAL CONTEXT:\n" + "\n".join(toc_context_parts)
+        if toc_context_parts else ""
+    )
+
     prompt = (
         "You are locating sections in a Tibetan Buddhist commentary.\n\n"
-        f"Section: {dec}  title: {title}\n"
-        f"Parent / preceding section: {parent_info or '(none)'}\n\n"
-        f"The section title appears at {len(candidates)} locations in the text.\n"
-        "Which location is where this section ACTUALLY OPENS — where the commentary\n"
-        "begins treating this topic — NOT where it is merely listed in a preview,\n"
+        f"Section: {dec}  title: {title}"
+        f"{toc_context_block}\n\n"
+        f"The section title appears at {len(candidates)} locations in the source text.\n"
+        "Which location is where this section ACTUALLY OPENS -- where the commentary\n"
+        "begins treating this topic -- NOT where it is merely listed in a preview,\n"
         "dkar-chag, or enumeration of upcoming topics?\n\n"
-        "A section OPENING: the surrounding text is commentary prose on this topic.\n"
-        "A PREVIEW / ENUMERATION: the surrounding text lists several upcoming section\n"
-        "names in sequence (parallel ordinal phrases back to back).\n\n"
+        "RULES for identifying a section OPENING vs. a PREVIEW:\n"
+        "  OPENING:  the surrounding text is commentary prose specifically on this\n"
+        "            topic; the title appears as a heading or the first phrase of\n"
+        "            the body treatment.\n"
+        "  PREVIEW / ENUMERATION: the surrounding text lists several upcoming\n"
+        "            section names in sequence (parallel ordinal phrases back-to-back,\n"
+        "            dkar-chag, or a numbered list of forthcoming topics).\n"
+        "  POSITION: the opening must come AFTER the parent section's opening and\n"
+        "            after any preceding sibling sections shown above.\n"
+        "  HINT:     if an existing context hint is given, strongly prefer the\n"
+        "            candidate whose passage contains or matches that hint.\n\n"
         f"Candidates:\n{cand_lines}\n\n"
         "Reply with ONLY the candidate number (1, 2, 3, ...). Nothing else."
     )
@@ -328,9 +397,11 @@ def main():
 
     client = None  # lazy-init
 
-    dec_line = {}        # dec -> located line (for parent chaining)
+    dec_line      = {}   # dec -> located line (for parent/sibling constraint chaining)
     depth_last_line = {} # depth -> last CONFIDENT located line (sibling constraint)
-    new_contexts = {}    # dec -> new context string
+    dec_ctx       = {}   # dec -> resolved context string (passed to AI as sibling info)
+    dec_title     = {e["dec"]: e["title"] for e in entries}
+    new_contexts  = {}   # dec -> new context string to write
 
     def parent_dec(dec):
         parts = dec.split(".")
@@ -345,10 +416,32 @@ def main():
             pdec = parent_dec(pdec)
         return None
 
+    def sibling_info_for(dec, depth):
+        """Return resolved siblings at same depth, formatted for AI context."""
+        prefix = ".".join(dec.split(".")[:-1])
+        siblings = []
+        for d, ctx_str in dec_ctx.items():
+            d_depth  = len(d.split("."))
+            d_prefix = ".".join(d.split(".")[:-1])
+            if d_depth == depth and d_prefix == prefix and d != dec:
+                t = dec_title.get(d, "")
+                siblings.append(f"{d}: {t} [[{ctx_str}]]")
+        return siblings
+
+    def parent_info_str(dec):
+        pdec = parent_dec(dec)
+        if not pdec:
+            return ""
+        pl   = dec_line.get(pdec)
+        pt   = dec_title.get(pdec, "")
+        pctx = dec_ctx.get(pdec, "")
+        line_tag = f" line {pl+1}" if pl is not None else ""
+        return f"{pdec}: {pt} [[{pctx}]]{line_tag}"
+
     for entry in entries:
         dec   = entry["dec"]
         title = entry["title"]
-        ctx   = entry["ctx"]
+        ctx   = entry["ctx"]   # existing [[ctx]] from TOC (may be None or "?")
         depth = len(dec.split("."))
 
         parent_line = parent_line_for(dec)
@@ -367,69 +460,96 @@ def main():
         match_score  = 0.0
         method = ""
 
-        # ---- Find candidates ----
-        if n_sylls <= args.short_title_syllables:
-            # Very short / ordinal-only title — too common to search reliably.
-            all_positions = []
-        else:
-            all_positions = find_all_verbatim(canon_text, query)
+        # ================================================================
+        # STEP 1: Locate existing [[ctx]] hint in source.
+        # This is the strongest position prior -- if the TOC already has
+        # a snippet that can be found in the body, use it directly.
+        # ================================================================
+        if ctx and ctx not in ("?", ""):
+            hint_hits = find_ctx_hint_positions(canon_text, ctx, offsets)
+            after_hint = [(li, sc) for li, sc in hint_hits
+                          if line_to_canon_pos(offsets, li) >= min_canon]
+            if after_hint:
+                after_hint.sort(key=lambda x: line_to_canon_pos(offsets, x[0]))
+                hint_line, hint_score = after_hint[0]
+                if hint_score >= CONSTRAINT_MIN_SCORE:
+                    located_line = hint_line
+                    match_score  = hint_score
+                    method = ("ctx-hint(verbatim)"
+                              if hint_score == 1.0
+                              else f"ctx-hint(fuzzy {hint_score:.0%})")
 
-        if all_positions:
-            match_score = 1.0
-            after = [cp for cp in all_positions if cp >= min_canon]
-
-            if len(after) == 0:
-                # All occurrences are before expected position (preview block).
-                # Use the last occurrence — furthest in doc, closest to actual body.
-                chosen_cp = all_positions[-1]
-                method = "last(pre-parent)"
-
-            elif len(after) == 1:
-                chosen_cp = after[0]
-                method = "unique-after-constraint"
-
+        # ================================================================
+        # STEP 2: Verbatim title search, if ctx-hint didn't resolve.
+        # ================================================================
+        if located_line is None:
+            if n_sylls <= args.short_title_syllables:
+                all_positions = []
             else:
-                # Multiple occurrences in the right region — ask AI to pick.
-                if len(after) <= 5 and not args.no_ai:
-                    if client is None:
-                        client = get_client()
-                    p_line = parent_line_for(dec)
-                    parent_info = (f"{parent_dec(dec)}: line {p_line+1}"
-                                   if p_line is not None else "")
-                    candidates = [
-                        (canon_pos_to_line(offsets, cp),
-                         passage_around(lines, canon_pos_to_line(offsets, cp)))
-                        for cp in after
-                    ]
-                    print(f"  [{dec}] {len(after)} candidates -> Gemini ...",
-                          flush=True)
-                    pick = gemini_pick(client, args.model, dec, title,
-                                       parent_info, candidates)
-                    chosen_cp = after[pick if pick is not None else 0]
-                    method = f"ai-pick({(pick or 0)+1}/{len(after)})"
-                else:
+                all_positions = find_all_verbatim(canon_text, query)
+
+            if all_positions:
+                match_score = 1.0
+                after = [cp for cp in all_positions if cp >= min_canon]
+
+                if len(after) == 0:
+                    # All occurrences before constraint -- use last (furthest in doc).
+                    chosen_cp = all_positions[-1]
+                    method = "last(pre-parent)"
+
+                elif len(after) == 1:
                     chosen_cp = after[0]
-                    method = "first-after-constraint"
+                    method = "unique-after-constraint"
 
-            located_line = canon_pos_to_line(offsets, chosen_cp)
-
-        else:
-            # No verbatim match — try fuzzy after min_canon
-            segment = canon_text[min_canon:]
-            fpos, score = find_best_fuzzy(segment, query, min_match=args.min_match)
-            if fpos is not None and n_sylls > args.short_title_syllables:
-                located_line = canon_pos_to_line(offsets, min_canon + fpos)
-                match_score  = score
-                method = f"fuzzy({score:.0%})"
-            else:
-                # No match — keep existing context
-                if ctx and ctx != "?":
-                    new_contexts[dec] = ctx
-                    print(f"  [{dec}] NO MATCH -- kept existing ctx  {title[:40]}")
                 else:
-                    new_contexts[dec] = "?"
-                    print(f"  [{dec}] NO MATCH -- [[?]]  {title[:40]}")
-                continue
+                    # Multiple candidates -- call AI with full TOC + text context.
+                    if len(after) <= 5 and not args.no_ai:
+                        if client is None:
+                            client = get_client()
+                        candidates = [
+                            (canon_pos_to_line(offsets, cp),
+                             passage_around(lines, canon_pos_to_line(offsets, cp)))
+                            for cp in after
+                        ]
+                        p_info   = parent_info_str(dec)
+                        sib_info = sibling_info_for(dec, depth)
+                        print(f"  [{dec}] {len(after)} candidates -> Gemini (TOC+text ctx) ...",
+                              flush=True)
+                        pick = gemini_pick(
+                            client, args.model, dec, title,
+                            p_info, candidates,
+                            existing_ctx=ctx,
+                            sibling_info=sib_info,
+                        )
+                        chosen_cp = after[pick if pick is not None else 0]
+                        method = f"ai-pick({(pick or 0)+1}/{len(after)})"
+                    else:
+                        chosen_cp = after[0]
+                        method = "first-after-constraint"
+
+                located_line = canon_pos_to_line(offsets, chosen_cp)
+
+            else:
+                # ============================================================
+                # STEP 3: Fuzzy title search.
+                # ============================================================
+                segment = canon_text[min_canon:]
+                fpos, score = find_best_fuzzy(segment, query, min_match=args.min_match)
+                if fpos is not None and n_sylls > args.short_title_syllables:
+                    located_line = canon_pos_to_line(offsets, min_canon + fpos)
+                    match_score  = score
+                    method = f"fuzzy({score:.0%})"
+                else:
+                    # No match at all -- keep existing context
+                    if ctx and ctx != "?":
+                        new_contexts[dec] = ctx
+                        dec_ctx[dec] = ctx
+                        print(f"  [{dec}] NO MATCH -- kept existing ctx  {title[:40]}")
+                    else:
+                        new_contexts[dec] = "?"
+                        dec_ctx[dec] = "?"
+                        print(f"  [{dec}] NO MATCH -- [[?]]  {title[:40]}")
+                    continue
 
         # ---- Extract verbatim snippet from source ----
         snippet = snippet_from_source(lines, located_line)
@@ -437,9 +557,10 @@ def main():
             snippet = ctx or "?"
 
         new_contexts[dec] = snippet
+        dec_ctx[dec] = snippet
 
-        # Only advance the sibling/parent position tracker for confident matches.
-        # A weak fuzzy hit must not cascade and block later siblings.
+        # Only advance position tracker for confident matches.
+        # Weak fuzzy hits must not cascade and block later siblings.
         if match_score >= CONSTRAINT_MIN_SCORE:
             dec_line[dec] = located_line
             depth_last_line[depth] = located_line

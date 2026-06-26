@@ -317,19 +317,25 @@ Use when the verse contains an important or difficult term that a beginner pract
 
 ---
 
-### Section 5 — ཉམས་སུ་ལེན་ཚུལ། (Daily Life Application) [GENERATED]
+### Section 5 — ཉམས་སུ་ལེན་ཚུལ། (Today's Challenge) [GENERATED]
 
 > **Tone: personal, first person singular.** This section is the practitioner's own voice — a personal commitment to apply today's teaching. Use ངས་, ང་རང་, བདག་གིས་. Never ང་ཚོས་ or ང་ཚོ་.
 
-Write exactly **1 practical application point** in Tibetan. It should:
+Write exactly **1 today's challenge** in Tibetan. It should:
 - Have a bold label (e.g., `**༡. [Short descriptive title]**`)
 - Be written in first person — the practitioner speaking about what *they* will do
-- Focus specifically on how to put the day's verses into action during real-life challenges
-- Be concrete and actionable — not generic mindfulness advice
+- Be **very simple and actionable** — something any ordinary person can actually do today in their daily life, not advanced practice
+- Be concrete and specific — not generic mindfulness advice
+- Speak to common human situations: family, work, irritation, kindness, honesty, patience, generosity
+- **If the day has more than one verse**, choose the single verse whose theme translates most naturally into a practical everyday challenge, and paste that verse (in Tibetan, as a blockquote) immediately after the bold label and before the challenge text
 
 Real example (Day 15 — Chapter 2, Verses 1–3):
 ```markdown
-**༡. རང་བྱུང་གི་མཛེས་པ་མཆོད་པར་འབུལ།**: དེ་རིང་ངས་ལམ་བགྲོད་པའི་སྐབས་སམ་ཕྱི་རོལ་ཏུ་འགྲོ་བའི་ཚེ། མེ་ཏོག་སྙིང་རྗེ་མོ་དང་། ཆུ་མིག་དྭངས་མ། རི་བོ་དང་ནགས་ཚལ་ཉམས་དགའ་བ་སོགས་བདག་པོས་མ་བཟུང་བའི་རང་བྱུང་གི་མཛེས་པ་གང་མཐོང་བ་དེ་དག་ཐམས་ཅད་སེམས་ཀྱི་ངང་ནས་དཀོན་མཆོག་ལ་མཆོད་པར་འབུལ་རྒྱུ་ཡིན། ངས་དེ་ལྟར་གོམས་པར་བྱས་ཏེ་རང་གི་སེམས་རྒྱུད་དགེ་བའི་ཕྱོགས་ལ་སྤྲོ་བ་བསྐྱེད་ཅིང་། རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷའི་ལེགས་བཤད་བཞིན་དུ་འཛིན་ཆགས་མེད་པའི་བློ་རྒྱུན་སྐྱོང་བར་བྱའོ། །
+**༡. རང་བྱུང་གི་མཛེས་པ་མཆོད་པར་འབུལ།**
+
+> [Tibetan verse blockquote here — the chosen verse only]
+
+དེ་རིང་ངས་ལམ་བགྲོད་པའི་སྐབས་སམ་ཕྱི་རོལ་ཏུ་འགྲོ་བའི་ཚེ། མེ་ཏོག་སྙིང་རྗེ་མོ་དང་། ཆུ་མིག་དྭངས་མ། རི་བོ་དང་ནགས་ཚལ་ཉམས་དགའ་བ་སོགས་བདག་པོས་མ་བཟུང་བའི་རང་བྱུང་གི་མཛེས་པ་གང་མཐོང་བ་དེ་དག་ཐམས་ཅད་སེམས་ཀྱི་ངང་ནས་དཀོན་མཆོག་ལ་མཆོད་པར་འབུལ་རྒྱུ་ཡིན། ངས་དེ་ལྟར་གོམས་པར་བྱས་ཏེ་རང་གི་སེམས་རྒྱུད་དགེ་བའི་ཕྱོགས་ལ་སྤྲོ་བ་བསྐྱེད་ཅིང་། རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷའི་ལེགས་བཤད་བཞིན་དུ་འཛིན་ཆགས་མེད་པའི་བློ་རྒྱུན་སྐྱོང་བར་བྱའོ། །
 ```
 
 ---
@@ -503,7 +509,8 @@ If the user doesn't specify verses and asks only for a day number, read that fil
 - [ ] Section 3 — verses found in `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` and copied exactly — not quoted from memory or training data
 - [ ] Section 4 — each explanation block contains one or more of: **ཁ་སྐོང་།** (extra information), **གཏམ་རྒྱུད།** (story), **གནད་ཚིག** (keyword); only types for which genuine pipeline material exists are included — never all three by default
 - [ ] Section 4 — all content sourced from `1-SOURCES/Commentaries/` via the pipeline (commentary text between the verse transclusion and the next verse transclusion); each block ends with a **མཆན།** citation line
-- [ ] Exactly 1 daily application point in Section 5, focused on real-life challenges
+- [ ] Exactly 1 today's challenge in Section 5 — very simple and actionable for ordinary people in daily life
+- [ ] If the day has multiple verses, Section 5 uses the single best verse for the challenge, with that verse quoted as a blockquote between the bold label and the challenge text
 - [ ] Tibetan spelling and grammar reviewed — check case endings (e.g. ལ་དོན། སུ་དོན། གི་དོན།), verb forms, and particles for correctness throughout all generated sections
 - [ ] Section 5 uses first person singular (ངས་ / ང་རང་) — never collective ང་ཚོས་
 - [ ] Section 2 uses first person singular (ངས་ / ང་རང་) — practitioner's own voice opening the day

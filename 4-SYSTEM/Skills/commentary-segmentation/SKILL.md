@@ -24,17 +24,17 @@ The boundaries follow the text's own functional signals: quotation frames, objec
 **Pipeline position**
 
 ```
-format-commentary            →  commentary-segmentation  →  (block-ID stamping)  →  verse-context / verse-context-batch
-(OCR clean, heading structure)   (this skill: boundaries)     (mechanical)            (rails consume the blocks)
+format-commentary            →  commentary-segmentation  →  verse-context / verse-context-batch
+(OCR clean, heading structure)   (this skill: boundaries)     (rails consume the blocks)
 ```
 
-Do not run this skill on text that is not yet OCR-clean. Do not run the block-ID pass until a domain specialist has approved the boundaries.
+Do not run this skill on text that is not yet OCR-clean.
 
 ```
-[Stage 0]                   [Stage 1]               [Stage 2]              [check]        [human]      [next skill]
-preclean_commentary.py  →  segment_commentary.py  →  stage2_refine.py  →  no-loss vs  →  approval  →  block-ID
-(strip scaffolding,         (deterministic            (mechanical            source                     stamping
- optional)                  boundaries)               refinement)                                       + hand review
+[Stage 0]                   [Stage 1]               [Stage 2]              [check]        [human]
+preclean_commentary.py  →  segment_commentary.py  →  stage2_refine.py  →  no-loss vs  →  approval
+(strip scaffolding,         (deterministic            (mechanical            source         + hand review
+ optional)                  boundaries)               refinement)
 ```
 
 ---
@@ -54,7 +54,7 @@ All scripts share `--dry-run` (validate, write nothing) and a `--report` TSV. Pa
 
 **Stage 0 — pre-clean already-formatted files (optional, run first when needed)**
 
-Some commentary files arrive already carrying scaffolding from an earlier pass: standalone OCR index numbers (a line that is just `1`, `2`, `3`…), Obsidian block / verse IDs (`^0-1`, `^1-2`, `^1-2-0`), markdown headings (`##`, `###`), and line breaks that wrap verses and split sentences across lines. Segmentation re-derives boundaries from continuous prose, so this scaffolding must be removed **before** Stage 1. If a file is already plain, under-segmented running text, skip this stage.
+Some commentary files arrive already carrying scaffolding from an earlier pass: standalone OCR index numbers (a line that is just `1`, `2`, `3`…), Obsidian block / verse IDs (`^0-1`, `^1-2`, `^1-2-0`), markdown heading markers (`##`, `###`), and line breaks that wrap verses and split sentences across lines. Segmentation re-derives boundaries from continuous prose, so this scaffolding must be removed **before** Stage 1. If a file is already plain, under-segmented running text, skip this stage.
 
 ```
 python3 scripts/preclean_commentary.py \
@@ -67,8 +67,8 @@ What it removes (editorial scaffolding only — never a character of body text):
 
 - **Index / outline numbers** — any whitespace-bounded token consisting solely of digits (ASCII `0-9` or Tibetan `༠-༩`) with optional internal dots (hierarchical numbers such as `4.11`, `1.2.3`) and an optional trailing `.` or `)`, removed unconditionally. Covers simple counters (`1`, `2`, `3`), terminated counters (`1.`, `2.`), and hierarchical section labels (`4.11`, `1.2.3.`). Catches both an OCR line counter on its own line *and* an inline outline number sitting before a sa-bcad opener (e.g. `…ཏོ། །19. དང་པོ་ནི།…`). Numbers fused to body text (e.g. `ལོ16`) are left untouched — Tibetan never delimits a real syllable with a bare space.
 - **Block / verse IDs** — `^N`, `^N-N`, `^N-N-N` … wherever they appear.
-- **Heading block IDs** — only the heading's trailing block ID is stripped. The leading `#`/`##`/`###` markup and the heading text are **both kept**, on their own line, acting as a separator between prose runs. A heading whose text is itself a bare number (likely OCR noise) is kept but flagged `heading-suspect` in the report.
-- **Intra-section line breaks** — consecutive content lines within a section are joined into one continuous run, so Stage 1 starts from raw prose. Kept heading-text lines act as run separators, so a title or section head never fuses onto neighbouring prose.
+- **Heading markers** — all `#` characters are stripped from the body. Heading text is preserved as plain prose and acts as a natural separator between prose runs; a heading whose text is a bare number (likely OCR noise) is flagged `heading-suspect` in the report.
+- **Intra-section line breaks** — consecutive content lines are joined into one continuous run, so Stage 1 starts from raw prose. Heading-text lines (now plain prose) still act as run separators, so a section title never fuses onto neighbouring content.
 
 Frontmatter (the leading `--- … ---` block) is preserved verbatim and excluded from the no-loss comparison.
 
@@ -161,12 +161,6 @@ After Stage 2, re-run a no-loss check against the **original source** (the `--so
 
 ---
 
-**Block-ID stamping (separate, mechanical pass — out of scope here, documented for the handoff)**
-
-Once boundaries are approved, IDs are assigned exactly as `format-commentary` §4 specifies: a `^N-…` ID at the end of every block, numbering restarting under each `##` / `###` heading, no IDs on headings, max three segments. Keeping this as its own step lets segmentation be re-tuned and re-run without disturbing IDs already in use elsewhere in the vault.
-
----
-
 **Procedure**
 
 1. Confirm the file is OCR-clean (run `format-commentary` first if not).
@@ -175,11 +169,10 @@ Once boundaries are approved, IDs are assigned exactly as `format-commentary` §
 4. Run **Stage 2** (`stage2_refine.py`) with `--source` pointing at the original. Then hand-review the `STAGE2_MANUAL` / `STAGE2_REVIEW` rows.
 5. Re-run the no-loss check against the **original source file**.
 6. Have a domain specialist approve the boundaries.
-7. Hand off to the block-ID pass, then copy the approved, ID-stamped file back into `1-SOURCES/Commentaries/`.
 
 **Output**
 
-- A boundary-segmented commentary draft in `0-INBOX/` (not the source — the source is only updated after approval and ID stamping).
+- A boundary-segmented commentary draft in `0-INBOX/` (not the source — the source is only updated after human approval).
 - TSV reports listing each segment, the rule that triggered its boundary, its syllable count, and any review flag.
 
 **Rules recap**

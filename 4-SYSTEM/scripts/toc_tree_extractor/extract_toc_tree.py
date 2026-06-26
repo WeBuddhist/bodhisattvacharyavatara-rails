@@ -52,6 +52,33 @@ import time
 from datetime import date
 from pathlib import Path
 
+
+def _load_dotenv():
+    """Load a .env file — searches cwd, vault root, script dir (first found wins)."""
+    candidates = [Path.cwd()]
+    for p in Path.cwd().parents:
+        if (p / "4-SYSTEM").is_dir():
+            candidates.append(p)
+            break
+    candidates.append(Path(__file__).parent)
+    for base in candidates:
+        env_file = base / ".env"
+        if env_file.exists():
+            with open(env_file, encoding="utf-8") as f:
+                for line in f:
+                    line = line.strip()
+                    if not line or line.startswith("#") or "=" not in line:
+                        continue
+                    key, _, val = line.partition("=")
+                    key = key.strip()
+                    val = val.strip().strip('"').strip("'")
+                    if key and key not in os.environ:
+                        os.environ[key] = val
+            return
+
+
+_load_dotenv()
+
 # ------------------------------------------------------------------------------
 # Defaults
 # ------------------------------------------------------------------------------
@@ -335,11 +362,11 @@ OUTPUT — emit ONLY the TOC block, exactly in this shape and nothing else:
 
 ## དཀར་ཆག / Table of Contents
 
-* 1. <clean text>
-   * 1.1 <clean text>
-      * 1.1.1 <clean text>
-   * 1.2 <clean text>
-* 2. <clean text>
+* 1. <clean text> [[<context>]]
+   * 1.1 <clean text> [[<context>]]
+      * 1.1.1 <clean text> [[<context>]]
+   * 1.2 <clean text> [[<context>]]
+* 2. <clean text> [[<context>]]
 
 ---
 
@@ -354,8 +381,19 @@ FORMAT RULES (follow exactly):
    - counters reset for deeper levels whenever you move up to a shallower level
    - cover the whole document; do not drop branches. Output Tibetan, no English,
      no commentary, no code fences.
-   - each entry is the TITLE ONLY (ordinal + topic name); no trailing particle, no ། , no
-     ⟨gap⟩ or any other marker on any entry.
+   - EVERY entry MUST have a [[context]] suffix — no entry may appear without one.
+     The context is a short verbatim Tibetan excerpt that locates the section in the
+     source text. Source priority (use the first that applies):
+       a. The matching candidate's CONTEXT: field — copy it verbatim.
+       b. The enumeration passage that names this part — copy the relevant sentence
+          or clause verbatim from the ENUMERATIONS input.
+       c. The ITEMS list text of the parent candidate that enumerates this part —
+          copy the relevant item line verbatim.
+     In all cases copy the Tibetan EXACTLY as it appears in the source; do not
+     paraphrase. Keep the excerpt concise (roughly 10–20 Tibetan syllables is enough).
+     Do NOT emit an entry without [[context]] — if you cannot find any source text
+     for a node, write [[?]] as a placeholder rather than leaving it blank.
+   - no trailing particle, no ། , no ⟨gap⟩ or any other marker on any entry.
 """
 
 TREE_USER_PROMPT_TEMPLATE = """\
@@ -422,9 +460,16 @@ The QC pass FOCUSES ON FOUR THINGS — do these and little else:
    present in the enumerations/candidates.
 
 ALSO tidy: indentation must be 3 spaces × (depth − 1); remove duplicate decimals; repair
-malformed lines. Each entry must be the TITLE ONLY — strip any trailing division clause
-(ལ་གཉིས་ཏེ། ...) or particle (ནི། ལ། འོ། ...) and any trailing ། from every entry. Do NOT
-add ^toc block IDs.
+malformed lines. Each entry has the form "<title> [[<context>]]" — PRESERVE the trailing
+"[[<context>]]" suffix on every existing entry; do NOT remove or alter context suffixes.
+Strip any trailing division clause (ལ་གཉིས་ཏེ། ...) or particle (ནི། ལ། འོ། ...) and any
+trailing ། from the TITLE part only (before the context brackets). Do NOT add ^toc block IDs.
+
+CONTEXT ON EVERY NODE — this is mandatory, including gap-filled nodes. When inserting a
+gap node (a part declared in the enumerations but absent from the candidates), find its
+context by copying the relevant clause from the ENUMERATION BLOCKS verbatim — the sentence
+that lists or announces this part. If no enumeration passage is available, write [[?]] as
+a placeholder. Never emit a node without [[...]].
 
 DO NOT: reorder or reword the topic of existing real nodes; change Tibetan text; turn
 doctrinal/content lists into nodes; or INVENT a Tibetan ordinal where neither the node nor
@@ -623,6 +668,8 @@ _TREE_LINE_RE = re.compile(
     r"^(?P<indent>\s*)\*\s+(?P<dec>\d+(?:\.\d+)*)\.?\s+"
     r"(?P<text>.*?)(?:\s*\^toc-[\d-]+)?\s*$"
 )
+# Strips a trailing " [[context…]]" from a tree entry's text for QC purposes.
+_CONTEXT_SUFFIX_RE = re.compile(r"\s*\[\[.*?\]\]\s*$", re.DOTALL)
 
 # Min fraction of a title's Tibetan-syllable bigrams that must be found in the
 # candidates+enumerations corpus before we accept a reworded (non-verbatim) title
@@ -853,6 +900,8 @@ def qc_check_tree(tree_text: str, corpus_text: str = ""):
             continue
         dec = m.group("dec")
         text = m.group("text").strip()
+        # Strip trailing " (context…)" for all QC checks — context is display-only.
+        title_only = _CONTEXT_SUFFIX_RE.sub("", text).strip()
         indent = len(m.group("indent").replace("\t", "   "))
         segs = dec.split(".")
         depth = len(segs)
@@ -861,10 +910,10 @@ def qc_check_tree(tree_text: str, corpus_text: str = ""):
         if indent != 3 * (depth - 1):
             issues.append(f"L{lineno}: indent {indent} spaces != expected "
                           f"{3 * (depth - 1)} for depth {depth} ({dec})")
-        ord_word, ordn = _leading_tibetan_ordinal_word(text)
+        ord_word, ordn = _leading_tibetan_ordinal_word(title_only)
         if ordn is not None and ordn != last:
             issues.append(f"L{lineno}: Tibetan ordinal = {ordn} but decimal last "
-                          f"segment = {last}  ->  {dec} {text[:40]}")
+                          f"segment = {last}  ->  {dec} {title_only[:40]}")
         if dec in seen:
             issues.append(f"L{lineno}: duplicate decimal {dec} (also at L{seen[dec]})")
         else:
@@ -873,10 +922,10 @@ def qc_check_tree(tree_text: str, corpus_text: str = ""):
         # ---- attestation against candidates + enumerations ----
         if corpus_canon:
             issues.extend(
-                _attestation_issues(lineno, dec, text, ord_word, ordn, corpus_canon)
+                _attestation_issues(lineno, dec, title_only, ord_word, ordn, corpus_canon)
             )
 
-        parsed.append((lineno, tuple(int(s) for s in segs)))
+        parsed.append((lineno, tuple(int(s) for s in segs)))  # title_only used above
 
     # sibling-sequence check: each parent's children must be 1..n with no gaps/dups
     children = {}

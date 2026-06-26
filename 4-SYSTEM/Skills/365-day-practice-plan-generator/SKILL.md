@@ -146,8 +146,9 @@ Tibetan makes it easy to stack genitive modifiers (X-བའི་ Y-བའི་
 **Section 4 — explanation, neutral teacher voice:**
 > ཤློཀ་འདིར་"དེང་ནས་"ཞེས་གསུངས་པ་ནི་དགེ་བའི་བློ་སྐྱེས་པའི་དུས་ད་ལྟ་འདི་ཉིད་ནས་ཞེས་པའི་དོན་ཡིན་ཏེ། ཐར་པ་གཞན་གྱིས་བསྟེར་ཐབས་མེད་ལ་རང་ཉིད་ཀྱིས་བརྩོན་མི་བྱས་ན་ལྟར་སྔར་མི་ཐར་བར་གསུངས་སོ།། སྔོན་ཆད་སངས་རྒྱས་དཔག་མེད་འདས་ཟིན་ཀྱང་བདག་མ་བཏུལ་བ་འདི་ཡིན་ཏེ། ད་དུང་རང་གིས་རང་སྣོད་མ་ཡིན་པར་བྱས་ན་ངན་འགྲོར་ལྟུང་གི་སངས་རྒྱས་དང་ཕྲད་པར་མི་འགྱུར་བར་གསུངས་སོ།།
 
-**Section 5 — daily application, first person singular:**
-> དེ་རིང་ངས་དོན་མེད་པར་དུས་འདའ་རྒྱུར་གྱུར་བའི་སྐབས་ཐམས་ཅད་དུ། མི་ལུས་འདི་གཡར་ཆས་ལྟར་མི་རྟག་བར་སེམས་ལ་བཟུང་ཞིང་ད་ལྟར་གྱི་གོ་སྐབས་ལ་གདེང་འཇོག་བྱ་ཞིང་། དེ་ལ་ཐག་གཅིག་ཏུ་དགེ་བ་ཕྲ་མོ་ཞིག་གིས་ཁྱལ་བཙུགས་ཏེ་ཉམས་སུ་ལེན་རྒྱུ་ཡིན། རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷས་"ད་དུང་དེ་བཞིན་བདག་བྱེད་ན་"ཞེས་གདམས་པའི་ཤུགས་ལས། ང་རང་ཉིད་ཀྱིས་ད་རེས་"ཕྱིར་བྱའོ་"ཞེས་མི་བཞག་པར་ད་ལྟར་ཉམས་སུ་ལེན་རྒྱུ་ཡིན་ནོ།།
+**Section 5 — today's challenge, two-part format:**
+> **ལག་གཉིས་ཐལ་མོ་སྦྱར་ནས་སྐྱབས་ཡུལ་རྣམས་ལ་གུས་ཕྱག་འཚལ།**
+> **འགྲེལ་བཤད།** ཞོགས་པ་མལ་ནས་ལངས་མ་ཐག་སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་མདུན་དུ་བསྒོམས་ནས་གུས་པས་ཕྱག་འཚལ་དགོས། དེ་ནས་དེ་རིང་ཉིན་གང་བོར་རང་གི་བྱ་སྤྱོད་ཐམས་ཅད་གཞན་ལ་ཕན་པའི་ལས་འབའ་ཞིག་སྒྲུབ་པའི་དམ་བཅའ་བརྟན་པོ་ཞིག་འཇོག་པར་བྱའོ། །
 
 ---
 
@@ -317,19 +318,30 @@ Use when the verse contains an important or difficult term that a beginner pract
 
 ---
 
-### Section 5 — ཉམས་སུ་ལེན་ཚུལ། (Daily Life Application) [GENERATED]
+### Section 5 — ཉམས་སུ་ལེན་ཚུལ། (Today's Challenge) [GENERATED]
 
 > **Tone: personal, first person singular.** This section is the practitioner's own voice — a personal commitment to apply today's teaching. Use ངས་, ང་རང་, བདག་གིས་. Never ང་ཚོས་ or ང་ཚོ་.
 
-Write exactly **1 practical application point** in Tibetan. It should:
-- Have a bold label (e.g., `**༡. [Short descriptive title]**`)
-- Be written in first person — the practitioner speaking about what *they* will do
-- Focus specifically on how to put the day's verses into action during real-life challenges
-- Be concrete and actionable — not generic mindfulness advice
+Write exactly **1 today's challenge** in Tibetan using this two-part format:
 
-Real example (Day 15 — Chapter 2, Verses 1–3):
+1. **A bold Tibetan phrase** — a short, memorable title drawn from or closely related to the day's verse. This is the headline the practitioner carries with them all day.
+2. **འགྲེལ་བཤད།** — 2–3 sentences of practical instruction in first person. What to notice, do, or remember today. Very simple and actionable — something any ordinary person can do in daily life.
+
+Rules:
+- Be concrete and specific — not generic mindfulness advice
+- Speak to common human situations: family, work, irritation, kindness, honesty, patience, generosity
+- **If the day has more than one verse**, choose the single verse whose theme translates most naturally into a practical everyday challenge
+
+Format:
 ```markdown
-**༡. རང་བྱུང་གི་མཛེས་པ་མཆོད་པར་འབུལ་བ།**: དེ་རིང་ངས་ལམ་བགྲོད་པའི་སྐབས་སམ་ཕྱི་རོལ་ཏུ་འགྲོ་བའི་ཚེ། མེ་ཏོག་སྙིང་རྗེ་མོ་དང་། ཆུ་མིག་དྭངས་མ། རི་བོ་དང་ནགས་ཚལ་ཉམས་དགའ་བ་སོགས་བདག་པོས་མ་བཟུང་བའི་རང་བྱུང་གི་མཛེས་པ་གང་མཐོང་བ་དེ་དག་ཐམས་ཅད་སེམས་ཀྱི་ངང་ནས་དཀོན་མཆོག་ལ་མཆོད་པར་འབུལ་རྒྱུ་ཡིན། ངས་དེ་ལྟར་གོམས་པར་བྱས་ཏེ་རང་གི་སེམས་རྒྱུད་དགེ་བའི་ཕྱོགས་ལ་སྤྲོ་བ་བསྐྱེད་ཅིང་། རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷའི་ལེགས་བཤད་བཞིན་དུ་འཛིན་ཆགས་མེད་པའི་བློ་རྒྱུན་སྐྱོང་བར་བྱའོ། །
+**[Short Tibetan phrase — the day's headline]**
+**འགྲེལ་བཤད།** [2–3 sentences of practical instruction in first person — short and to the point.]
+```
+
+Real example:
+```markdown
+**ལག་གཉིས་ཐལ་མོ་སྦྱར་ནས་སྐྱབས་ཡུལ་རྣམས་ལ་གུས་ཕྱག་འཚལ།**
+**འགྲེལ་བཤད།** ཞོགས་པ་མལ་ནས་ལངས་མ་ཐག་སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་མདུན་དུ་བསྒོམས་ནས་གུས་པས་ཕྱག་འཚལ་དགོས། དེ་ནས་དེ་རིང་ཉིན་གང་བོར་རང་གི་བྱ་སྤྱོད་ཐམས་ཅད་གཞན་ལ་ཕན་པའི་ལས་འབའ་ཞིག་སྒྲུབ་པའི་དམ་བཅའ་བརྟན་པོ་ཞིག་འཇོག་པར་བྱའོ། །
 ```
 
 ---
@@ -503,7 +515,9 @@ If the user doesn't specify verses and asks only for a day number, read that fil
 - [ ] Section 3 — verses found in `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` and copied exactly — not quoted from memory or training data
 - [ ] Section 4 — each explanation block contains one or more of: **ཁ་སྐོང་།** (extra information), **གཏམ་རྒྱུད།** (story), **གནད་ཚིག** (keyword); only types for which genuine pipeline material exists are included — never all three by default
 - [ ] Section 4 — all content sourced from `1-SOURCES/Commentaries/` via the pipeline (commentary text between the verse transclusion and the next verse transclusion); each block ends with a **མཆན།** citation line
-- [ ] Exactly 1 daily application point in Section 5, focused on real-life challenges
+- [ ] Exactly 1 today's challenge in Section 5 — short two-part format: bold Tibetan phrase headline + **འགྲེལ་བཤད།** with 2–3 sentences of practical instruction
+- [ ] Section 5 challenge is very simple and actionable for ordinary people in daily life — concrete, not generic
+- [ ] If the day has multiple verses, Section 5 is based on the single verse whose theme translates most naturally into everyday action
 - [ ] Tibetan spelling and grammar reviewed — check case endings (e.g. ལ་དོན། སུ་དོན། གི་དོན།), verb forms, and particles for correctness throughout all generated sections
 - [ ] Section 5 uses first person singular (ངས་ / ང་རང་) — never collective ང་ཚོས་
 - [ ] Section 2 uses first person singular (ངས་ / ང་རང་) — practitioner's own voice opening the day

@@ -20,7 +20,7 @@ The Way of the Bodhisattva ^T-1
 
 Homage to all Buddhas and Bodhisattvas. ^I-1
 
-To those who go in bliss,25 the dharmakāya26 they possess, and all their heirs,27
+To those who go in bliss, the dharmakāya they possess, and all their heirs,
 To all those worthy of respect, I reverently bow.
 According to the scriptures, I shall now in brief describe
 The practice of the Bodhisattva discipline. ^1-1
@@ -35,7 +35,7 @@ That I might grow accustomed to this virtuous way.
 But others who now chance upon my words
 May profit also, equal to myself in fortune. ^1-3
 
-So hard to find the ease and wealth28
+So hard to find the ease and wealth
 Whereby the aims of beings may be gained.
 If now I fail to turn it to my profit,
 How could such a chance be mine again? ^1-4
@@ -51,7 +51,7 @@ Except for perfect bodhichitta,
 What other virtue is there that can lay it low? ^1-6
 
 For many aeons deeply pondering,
-The mighty Sages29 saw its benefits,
+The mighty Sages saw its benefits,
 Whereby unnumbered multitudes
 Are brought with ease to supreme joy. ^1-7
 
@@ -88,7 +88,7 @@ Why do those who fear their sins not have recourse to it? ^1-13
 Just as by the fire that will destroy the world,
 Great sins are surely and at once consumed by it.
 Its benefits are thus unbounded
-As the Wise and Loving Lord30 explained to Sudhana. ^1-14
+As the Wise and Loving Lord explained to Sudhana. ^1-14
 
 Bodhichitta, the awakened mind,
 Is known in brief to have two aspects:
@@ -115,8 +115,8 @@ A strength of wholesome merit,
 Even during sleep and inattention,
 Rises equal to the vastness of the sky. ^1-19
 
-This the Tathāgata,31
-In the sūtra Subāhu requested,32
+This the Tathāgata,
+In the sūtra Subāhu requested,
 Said with reasoned argument
 For those inclined to lesser paths. ^1-20
 
@@ -132,7 +132,7 @@ Bringing them unbounded excellence. ^1-22
 
 Could our father or our mother
 Ever have so generous a wish?
-Do the very gods, the ṛiṣhis,33 even Brahmā34
+Do the very gods, the ṛiṣhis, even Brahmā
 Harbor such benevolence as this? ^1-23
 
 For in the past they never,
@@ -146,7 +146,7 @@ This noble, jewellike state of mind
 Arises truly wondrous, never seen before. ^1-25
 
 This pain-dispelling draft,
-This cause of joy for those who wander through the world,35
+This cause of joy for those who wander through the world,
 This precious attitude, this jewel of mind—
 How shall we calculate its merit? ^1-26
 
@@ -205,7 +205,7 @@ Who bring their very enemies to perfect bliss. ^1-36
 To the Buddhas, those thus gone,
 And to the sacred Dharma, spotless and supremely rare,
 And to the Buddha’s offspring, oceans of good qualities,
-That I might gain this precious attitude, I make a perfect offering.36 ^2-1
+That I might gain this precious attitude, I make a perfect offering. ^2-1
 
 I offer every fruit and flower,
 Every kind of healing draft,
@@ -264,7 +264,7 @@ Well-dyed and of surpassing excellence. ^2-12
 
 With different garments, light and supple,
 And a hundred beautiful adornments,
-I will grace sublime Samantabhadra,37
+I will grace sublime Samantabhadra,
 Mañjughoṣha, Lokeshvara, and their kin. ^2-13
 
 And with a sumptuous fragrance which
@@ -304,7 +304,7 @@ Arise and constantly abide. ^2-20
 
 May rains of flowers and every precious gem
 Fall down in an unceasing stream
-Upon the Jewels of Sacred Dharma,38
+Upon the Jewels of Sacred Dharma,
 Images and all supports for offering. ^2-21
 
 Just as Mañjughoṣha and the like
@@ -320,7 +320,7 @@ Ascend unceasingly before them. ^2-23
 To Buddhas of the past, the present, and all future time,
 And to the Dharma and Sublime Assembly,
 With bodies many as the grains of dust
-Upon the earth, I will prostrate and bow.39 ^2-24
+Upon the earth, I will prostrate and bow. ^2-24
 
 To shrines and all supports
 Of bodhichitta I bow down;
@@ -343,7 +343,7 @@ Blindly I have brought forth evil,
 And incited others to commit the same. ^2-28
 
 “Deceived and overmastered by my ignorance,
-I have taken pleasure in such sin,40
+I have taken pleasure in such sin,
 And seeing now the blame of it,
 O great protectors, I confess it earnestly! ^2-29
 
@@ -402,7 +402,7 @@ And all around, my family and friends.
 But I alone shall be the one to feel
 The cutting of the thread of life. ^2-40
 
-And when the heralds of the Deadly King41 have gripped me,
+And when the heralds of the Deadly King have gripped me,
 What help to me will be my friends and kin?
 For then life’s virtue is my one defense,
 And this, alas, is what I shrugged away. ^2-41
@@ -453,7 +453,7 @@ I cry out from depths of misery,
 “Protect me now an evildoer!” ^2-50
 
 Now to the noble one, Ākāshagarbha,
-And to Kṣhitigarbha, from my heart I call.42
+And to Kṣhitigarbha, from my heart I call.
 To all protectors, great, compassionate,
 I cry to them in search of refuge. ^2-51
 
@@ -505,7 +505,7 @@ My teacher’s precepts I have disobeyed. ^2-60
 And when this life is left behind,
 And with it all my kith and kin,
 I must set out on strange paths all alone:
-Why make so much of all my friends and foes?43 ^2-61
+Why make so much of all my friends and foes? ^2-61
 
 How instead can I make sure
 To rid myself of evil, only cause of sorrow?
@@ -514,7 +514,7 @@ My only thought both night and day. ^2-62
 
 The wrongs that I have done
 Through ignorant stupidity:
-All actions evil by their nature44
+All actions evil by their nature
 And transgressions of the precepts, ^2-63
 
 Fearing all the pains to come
@@ -530,9 +530,9 @@ I promise I will never do again. ^2-65
 ## 3. Taking Hold of Bodhichitta ^3-0
 
 With joy I celebrate the virtue that relieves all beings
-From the sorrows of the states of loss,45
+From the sorrows of the states of loss,
 Exulting in the happy states enjoyed
-By those who yet are suffering.46 ^3-1
+By those who yet are suffering. ^3-1
 
 I revel in the stores of virtue,
 Cause of gaining the enlightened state,
@@ -540,7 +540,7 @@ And celebrate the freedom won
 By living beings from the round of pain. ^3-2
 
 And in the Buddhahood of the protectors I delight
-And in the grounds of realization47 of the Buddhas’ heirs. ^3-3
+And in the grounds of realization of the Buddhas’ heirs. ^3-3
 
 Their enlightened attitude, an ocean of great good,
 That seeks to place all beings in the state of bliss,
@@ -557,7 +557,7 @@ Who wish to pass into nirvāṇa:
 Do not leave us wandering in blindness,
 Stay among us for unnumbered ages! ^3-6
 
-Through these actions now performed48
+Through these actions now performed
 And all the virtues I have gained,
 May all the pain of every living being
 Be wholly scattered and destroyed! ^3-7
@@ -569,7 +569,7 @@ The doctor, nurse, the medicine itself. ^3-8
 
 Raining down a flood of food and drink,
 May I dispel the ills of thirst and famine.
-And in the aeons marked by scarcity and want,49
+And in the aeons marked by scarcity and want,
 May I myself appear as drink and sustenance. ^3-9
 
 For sentient beings, poor and destitute,
@@ -732,7 +732,7 @@ But then deceive and fail them? ^4-6
 As for those who, losing bodhichitta,
 Lead others nonetheless to liberation,
 Karmic law is inconceivable
-And only understood by the Omniscient.50 ^4-7
+And only understood by the Omniscient. ^4-7
 
 This failure, for the Bodhisattva,
 Is the gravest of all downfalls.
@@ -762,7 +762,7 @@ I’ll fall from low to even lower states. ^4-12
 Striving for the benefit of all that lives,
 Unnumbered Buddhas have already lived and passed away.
 But I, by virtue of my sins, have failed
-To come within the compass of their healing works.51 ^4-13
+To come within the compass of their healing works. ^4-13
 
 And this will always be my lot
 If I continue to behave like this,
@@ -782,7 +782,7 @@ My body is like something briefly lent. ^4-16
 And yet the way I act is such
 That I shall not regain a human life!
 And losing this, my precious human form,
-My evils will be many, virtues none.52 ^4-17
+My evils will be many, virtues none. ^4-17
 
 Here is now my chance for wholesome deeds,
 But if I fail to practice virtue,
@@ -792,7 +792,7 @@ Bewildered by the sorrows of the lower realms? ^4-18
 Never, there, performing any virtue,
 Only ever piling up my sins,
 And for a hundred million ages,
-I’ll not even hear of happy destinies.53 ^4-19
+I’ll not even hear of happy destinies. ^4-19
 
 This is why Lord Buddha has declared
 That like a turtle that perchance can place
@@ -851,7 +851,7 @@ To fires of hell of Unrelenting Pain. ^4-30
 
 And yet the mighty fiend of my afflictions
 Flings me in an instant headlong down
-To where the mighty lord of mountains54
+To where the mighty lord of mountains
 Would be burned, its very ashes all consumed. ^4-31
 
 O my enemy, afflictive passion,
@@ -907,7 +907,7 @@ I was myself not free from such defilements. ^4-41
 To speak like that, not knowing my capacity,
 Were these not, truly, but a madman’s words?
 More reason then for never drawing back
-Abandoning the fight against defiled affliction.55 ^4-42
+Abandoning the fight against defiled affliction. ^4-42
 
 This shall be my all-consuming passion.
 Filled with rancor I will wage my war!
@@ -977,11 +977,11 @@ As He who spoke the truth declared. ^5-6
 The hellish instruments to torture living beings—
 Who invented them for such intent?
 Who has forged this burning iron ground;
-Whence have all these demon-women sprung?56 ^5-7
+Whence have all these demon-women sprung? ^5-7
 
 All are but the offspring of the sinful mind,
 This the mighty Sage has said.
-Throughout the triple world57 therefore
+Throughout the triple world therefore
 There is no greater bane than mind itself. ^5-8
 
 If transcendent giving is
@@ -1042,7 +1042,7 @@ This wound, my mind, I’ll constantly protect. ^5-19
 For if I carefully protect my wounds
 Because I fear the pain of minor injuries,
 Why should I not protect the wound that is my mind,
-For fear of being crushed beneath the cliffs of hell?58 ^5-20
+For fear of being crushed beneath the cliffs of hell? ^5-20
 
 If this is how I act and live,
 Then even in the midst of evil folk,
@@ -1152,7 +1152,7 @@ They should always watch their minds, inquiring,
 When this becomes impossible,
 In case of danger or festivity, I’ll act as it seems best.
 For it is taught that rules of discipline
-May be relaxed in times of generosity.59 ^5-42
+May be relaxed in times of generosity. ^5-42
 
 When something has been planned and started on,
 Attention should not drift to other things.
@@ -1345,16 +1345,16 @@ That you will come to Buddhahood.
 So look on them with frank and loving hearts. ^5-80
 
 Always fired by highest aspiration,
-Laboring to implement the antidotes,60
+Laboring to implement the antidotes,
 You will reap great virtues in the field of excellence
-And in the fields of benefits and sorrow.61 ^5-81
+And in the fields of benefits and sorrow. ^5-81
 
 Acting thus with faith and understanding,
 You should always undertake good works.
 And in whatever actions you perform,
 You should not be dependent on another. ^5-82
 
-The perfections,62 giving and the rest,
+The perfections, giving and the rest,
 Progress in sequence, growing in importance.
 The great should never be abandoned for the less,
 And others’ good should be regarded as supreme. ^5-83
@@ -1362,7 +1362,7 @@ And others’ good should be regarded as supreme. ^5-83
 Therefore understand this well,
 And always labor for the benefit of beings.
 The Compassionate One farsightedly permits,
-To this end, even what has been proscribed.63 ^5-84
+To this end, even what has been proscribed. ^5-84
 
 Eat only what is needful;
 Share with those who have embraced the discipline,
@@ -1384,18 +1384,18 @@ To those who, though not sick, wrap cloths around their heads,
 To those who carry weapons, staffs, or parasols,
 To those who are with covered heads. ^5-88
 
-To those upon the lower paths do not explain the vast and deep,64
+To those upon the lower paths do not explain the vast and deep,
 Nor tutor women unaccompanied by men.
-And every Dharma, high or low,65
+And every Dharma, high or low,
 Expound with equal reverence. ^5-89
 
 Those suited to the teachings of great scope
 Should not be introduced to lesser paths.
 The rules of conduct you should not neglect
-Nor lead astray with talk of sūtras and of mantras.66 ^5-90
+Nor lead astray with talk of sūtras and of mantras. ^5-90
 
 When you spit and throw away
-Your tooth sticks, you should cover them.67
+Your tooth sticks, you should cover them.
 And it is wrong to foul with urine and with other filth
 The fields and water fit for public use. ^5-91
 
@@ -1405,7 +1405,7 @@ And do not sit with legs outstretched,
 Nor coarsely rub your hands together. ^5-92
 
 Do not travel, sit, or stay alone
-With women of another house.68
+With women of another house.
 And all that you have seen, or have been told,
 To be a cause of scandal—that you should avoid. ^5-93
 
@@ -1416,7 +1416,7 @@ This is how to indicate the road. ^5-94
 
 Do not wave your arms with uncouth gestures.
 Express yourself instead with unobtrusive signs,
-With gentle sounds and finger snaps.69
+With gentle sounds and finger snaps.
 For acting otherwise is impolite excess. ^5-95
 
 Lie down to sleep in the preferred direction,
@@ -1430,7 +1430,7 @@ Of these, until the goal is won,
 Embrace the practices that purify your mind. ^5-97
 
 Reciting thrice by day and thrice by night,
-The Sūtra in Three Sections,70
+The Sūtra in Three Sections,
 Relying on the Buddhas and the Bodhisattvas,
 Purify the rest of your transgressions. ^5-98
 
@@ -1455,22 +1455,22 @@ Learned in the doctrine of the Mahāyāna,
 Supreme in Bodhisattva discipline. ^5-102
 
 Learn how to attend upon your guru
-As described in Shrī Sambhava’s life.71
+As described in Shrī Sambhava’s life.
 This and other teachings of the Buddha
 You should understand by reading in the sūtras. ^5-103
 
 Indeed within these sūtras all the practices are found;
 Therefore read and study them.
-The Sūtra of the Essence of the Sky72
+The Sūtra of the Essence of the Sky
 Is the text that should be studied first. ^5-104
 
 All that must be practiced constantly
 Is clearly and extensively explained
-Within the Digest of All Disciplines,73
+Within the Digest of All Disciplines,
 So this is something you should read repeatedly. ^5-105
 
 From time to time, for sake of brevity,
-Consult the Digest of the Sūtras.74
+Consult the Digest of the Sūtras.
 And those two works peruse with diligence
 That noble Nāgārjuna has composed. ^5-106
 
@@ -1551,7 +1551,7 @@ And many are the seeds of suffering!
 But if I have no pain, I’ll never long for freedom;
 Therefore, O my mind, be steadfast! ^6-12
 
-The Karna folk and those devoted to the Goddess,75
+The Karna folk and those devoted to the Goddess,
 Endure the meaningless austerities
 Of being cut and burned.
 So why am I so timid on the path of freedom? ^6-13
@@ -1599,7 +1599,7 @@ Evil is avoided; goodness seems delightful. ^6-21
 I am not angry with my bile and other humors—
 Fertile source of suffering and pain!
 So why should living beings give offence,
-They likewise are impelled by circumstance?76 ^6-22
+They likewise are impelled by circumstance? ^6-22
 
 Although they are unlooked for, undesired,
 These ills afflict us all the same.
@@ -1629,7 +1629,7 @@ And do not think, “I will become.” ^6-27
 For that which is not born does not exist,
 So what could want to come to be?
 And permanently drawn toward its object,
-It can never cease from being so.77 ^6-28
+It can never cease from being so. ^6-28
 
 Indeed! This self, if permanent,
 Is certainly inert like space itself.
@@ -1639,7 +1639,7 @@ How could they affect it, since it is unchanging? ^6-29
 If, when conditions act on it, it stays just as it was before,
 What influence have these conditions had?
 They say that these are agents of the self,
-But what connection could there be between them?78 ^6-30
+But what connection could there be between them? ^6-30
 
 All things, then, depend on other things,
 And these likewise depend; they are not independent.
@@ -1719,7 +1719,7 @@ So why should others be the object of our rage? ^6-45
 And who indeed should I be angry with?
 This pain is all my own contriving—
 Likewise all the janitors of hell
-And all the groves of razor trees!79 ^6-46
+And all the groves of razor trees! ^6-46
 
 Those who harm me rise against me—
 It’s my karma that has summoned them.
@@ -1944,7 +1944,7 @@ And nothing for the body’s ease. ^6-90
 If I am wise in what is good for me,
 I’ll ask what benefit these bring.
 For if it’s entertainment I desire,
-I might as well resort to alcohol and cards!80 ^6-91
+I might as well resort to alcohol and cards! ^6-91
 
 I lose my life, my wealth I squander,
 All for reputation’s sake.
@@ -2062,7 +2062,7 @@ In beings, too, such excellence resides,
 And therefore beings and Buddhas are the same. ^6-114
 
 Offerings made to those with loving minds
-Reveal the eminence of living beings.81
+Reveal the eminence of living beings.
 Merit that accrues from faith in Buddha
 Shows in turn the Buddha’s eminence. ^6-115
 
@@ -2116,7 +2116,7 @@ Henceforth I will be master of myself, the servant of the world.
 I shall not seek revenge though crowds may trample on my head or kill me.
 Let the Guardians of the world rejoice! ^6-125
 
-The great compassionate lords consider as themselves82
+The great compassionate lords consider as themselves
 All beings—there’s no doubt of this.
 Those whom I perceive as beings are Buddhas in themselves;
 How can I not treat them with respect? ^6-126
@@ -2168,7 +2168,7 @@ For in such diligence enlightenment is found.
 If no wind blows, then nothing stirs,
 And neither is there merit without diligence. ^7-1
 
-Diligence means joy in virtuous ways.83
+Diligence means joy in virtuous ways.
 Its contraries have been defined as laziness,
 An inclination for unwholesomeness,
 Defeatism and self-contempt. ^7-2
@@ -2191,7 +2191,7 @@ Like a buffalo beside its butcher. ^7-5
 All the paths of flight are blocked,
 The Lord of Death now has you in his sights.
 How can you take such pleasure in your food,
-And how can you delight to rest and sleep?84 ^7-6
+And how can you delight to rest and sleep? ^7-6
 
 Death will swoop on you so swiftly.
 Gather merit till that moment comes!
@@ -2225,7 +2225,7 @@ Of boiling liquids in the hell of Extreme Heat? ^7-12
 
 So testy and thin-skinned, you want results without endeavor—
 Many are the troubles now in store for you!
-Though in the grip of death, you are behaving like a god,85
+Though in the grip of death, you are behaving like a god,
 And suffering, alas, will beat you down! ^7-13
 
 So take advantage of this human boat.
@@ -2241,7 +2241,7 @@ In distractions that will cause you misery? ^7-15
 Do not be downcast, but marshal all your powers;
 Make an effort; be the master of yourself!
 Practice the equality of self and other;
-Practice the exchange of self and other.86 ^7-16
+Practice the exchange of self and other. ^7-16
 
 “Oh, but how could I become enlightened?”
 Don’t excuse yourself with such despondency!
@@ -2306,7 +2306,7 @@ Who remain within saṃsāra for the sake of beings? ^7-28
 For through their power of bodhichitta,
 Former sins are totally consumed,
 And merit, ocean-vast, is gathered in,
-It’s therefore said that they excel the Shrāvakas.87 ^7-29
+It’s therefore said that they excel the Shrāvakas. ^7-29
 
 Mounted on the horse of bodhichitta,
 Which puts to flight all mournful weariness,
@@ -2381,7 +2381,7 @@ The wage and retribution of a sinful life. ^7-43
 Through virtue I will rest within the cool heart of a fragrant spreading lotus,
 With splendor nurtured by the sweet words of the Conqueror.
 Then from the lotus opened in the Sage’s light, in supreme form I will arise
-To dwell, the blissful Buddha’s heir, in presence of Victorious Ones.88 ^7-44
+To dwell, the blissful Buddha’s heir, in presence of Victorious Ones. ^7-44
 
 Or else as wages of my many sins, my skin completely flayed, I shall be utterly brought low
 By creatures of the Lord of Death, who on my body pour a liquid bronze all melted in the dreadful blaze.
@@ -2390,7 +2390,7 @@ Dismembered in a hundred parts will fall upon the white-hot iron ground. ^7-45
 
 Therefore I will aspire and tend to virtue,
 And steep myself in it with great devotion.
-And with the method stated in the Vajradhvaja,89
+And with the method stated in the Vajradhvaja,
 I will train in confident assurance. ^7-46
 
 Let me first consider my reserves—
@@ -2404,7 +2404,7 @@ And other actions will be left undone
 Or else will bear a meager fruit. ^7-48
 
 Action, the afflictions, and ability:
-Three things to which my pride should be directed.90
+Three things to which my pride should be directed.
 “I will do this, I myself, alone!”
 These words define my pride of action. ^7-49
 
@@ -2421,7 +2421,7 @@ My best way is to give up such conceit. ^7-51
 When they find a dying serpent,
 Even crows behave like soaring eagles.
 Therefore if I’m weak and feeble-hearted,
-Even little faults will strike and injure me.91 ^7-52
+Even little faults will strike and injure me. ^7-52
 
 But if, depressed, I give up trying,
 How can I gain freedom from my abject state?
@@ -2436,7 +2436,7 @@ My wish to overcome the triple world is laughable indeed. ^7-54
 “I will be victor over all,
 And nothing shall prevail and bring me down!”
 The offspring of the Lion, the Conqueror,
-Should constantly abide in this self-confidence.92 ^7-55
+Should constantly abide in this self-confidence. ^7-55
 
 Those whom arrogance destroys
 Are thus defiled; they lack self-confidence.
@@ -2471,7 +2471,7 @@ Must not fall down beneath defilement’s power. ^7-61
 Better for me to be burned to death,
 And better to be killed, my head cut off!
 At no time will I bow and scrape
-Before that foe of mine, defiled emotion.93
+Before that foe of mine, defiled emotion.
 62a.
 Thus in every time and place
 I will not wander from the wholesome path. ^7-62
@@ -2580,7 +2580,7 @@ And as before, the pain of longing stays. ^8-6
 
 If I crave for other beings,
 A veil is cast upon the perfect truth.
-Wholesome disillusion94 melts away,
+Wholesome disillusion melts away,
 And finally there comes the sting of pain. ^8-7
 
 My thoughts are all for them,
@@ -2743,7 +2743,7 @@ Desire’s the parent of all woe:
 In this world, killing, bonds, and wounds,
 And in the next, the hells and other pains. ^8-39
 
-You send your go-betweens, both boy and maid,95
+You send your go-betweens, both boy and maid,
 With many invitations for the prize,
 Avoiding, in the quest, no sin,
 No deed that brings an ill renown, ^8-40
@@ -2841,7 +2841,7 @@ Whence such excrement has come? ^8-58
 And if you have no craving for impurity,
 Why will you now embrace and kiss
 What comes from such an unclean place,
-Engendered likewise from an unclean seed?96 ^8-59
+Engendered likewise from an unclean seed? ^8-59
 
 The tiny fetid worms that come from filth—
 You have no love of them.
@@ -2994,7 +2994,7 @@ Pacify completely all discursiveness
 And cultivate the mind of bodhichitta. ^8-89
 
 Strive at first to meditate
-Upon the sameness of yourself and others.97
+Upon the sameness of yourself and others.
 In joy and sorrow all are equal;
 Thus be guardian of all, as of yourself. ^8-90
 
@@ -3010,7 +3010,7 @@ Because I cling and take it for my own. ^8-92
 
 And other beings’ pain
 I do not feel, and yet,
-Because I take them for myself,98
+Because I take them for myself,
 Their suffering is mine and therefore hard to bear. ^8-93
 
 And therefore I’ll dispel the pain of others,
@@ -3073,7 +3073,7 @@ A multitude of sorrows can be cured,
 Such pain as this all loving people
 Strive to foster in themselves and others. ^8-105
 
-Thus Supuṣhpachandra,99
+Thus Supuṣhpachandra,
 Knowing that the king would cause him harm,
 Did nothing to escape from tribulation,
 That the pains of many should be ended. ^8-106
@@ -3098,7 +3098,7 @@ From even slight disparagement,
 In just the same way with regard to others,
 I should likewise have a mind protective and compassionate. ^8-110
 
-The drop of sperm and blood100 belonged to others.
+The drop of sperm and blood belonged to others.
 Yet, through strong habituation,
 I came to have in its regard a sense of “I,”
 Though, in itself, it is devoid of entity. ^8-111
@@ -3136,7 +3136,7 @@ To have a mind protective and compassionate. ^8-117
 This is why the Lord Avalokita
 Out of great compassion blessed his name,
 That those caught in the midst of multitudes
-Might be released and freed from every fear.101 ^8-118
+Might be released and freed from every fear. ^8-118
 
 And so we should be undeterred by hardships,
 For through the influence of use and habit,
@@ -3171,7 +3171,7 @@ And as their foe, regard it with contempt? ^8-124
 “If I give this, what will be left for me?”
 Thinking of oneself—the way of evil ghosts.
 “If I keep this, what will be left to give?”
-Concern for others is the way of heaven.102 ^8-125
+Concern for others is the way of heaven. ^8-125
 
 If to serve myself I harm another,
 I’ll suffer later in the realms of hell.
@@ -3243,7 +3243,7 @@ And everything I see my body has
 Will all be seized and offered
 For the use and service of all other beings. ^8-139
 
-Take others—lower, higher, equal—as yourself,103
+Take others—lower, higher, equal—as yourself,
 Identify yourself as “other.”
 Then, without another thought,
 Immerse yourself in envy, pride, and rivalry. ^8-140
@@ -3461,7 +3461,7 @@ So why do I exhaust myself? ^8-182
 If I say I do it since it’s loved by other people,
 Others whom I thus regard as friends,
 Since all appreciate the bodies that they have,
-Why do I not take pleasure in them too?104 ^8-183
+Why do I not take pleasure in them too? ^8-183
 
 Therefore, free from all attachment,
 I will give this body for the benefit of beings.
@@ -3476,7 +3476,7 @@ I’ll shun all sleep and mental dullness. ^8-185
 Like the Buddhas’ heirs, in their compassion,
 I will bear with all that should be borne.
 For if I do not labor night and day,
-When will my sorrows reach their end?105 ^8-186
+When will my sorrows reach their end? ^8-186
 
 Thus to banish all obscuring veils
 I’ll bend my mind from the mistaken path;
@@ -3486,19 +3486,19 @@ I shall rest my mind in even meditation. ^8-187
 ## 9. Wisdom ^9-0
 
 All these branches of the Doctrine
-The Enlightened Sage expounded for the sake of wisdom.106
+The Enlightened Sage expounded for the sake of wisdom.
 Therefore they must cultivate this wisdom
 Who wish to have an end of suffering. ^9-1
 
 Relative and ultimate,
 These the two truths are declared to be.
 The ultimate is not within the reach of intellect,
-For intellect is said to be the relative.107 ^9-2
+For intellect is said to be the relative. ^9-2
 
 In light of this, within the world, two kinds of people are observed:
 Those with yogic insight and the common run of people.
 In this regard, the views of ordinary folk
-Are undermined by yogis who themselves are in the world108 ^9-3
+Are undermined by yogis who themselves are in the world ^9-3
 
 (Within whose ranks
 The lower, in degrees of insight, are confuted by the higher)
@@ -3728,14 +3728,14 @@ Therefore one must train in emptiness. ^9-48
 If all the words recorded in the sūtras
 You admit to be the Buddha’s perfect speech,
 Why don’t you now accept the greater part of Mahāyāna,
-With which your sūtras are in perfect harmony?109 ^9-49
+With which your sūtras are in perfect harmony? ^9-49
 
 If due to just a single jarring element,
 The whole is held to be at fault,
 Why should a single sūtra in agreement with your texts
 Not vindicate the rest as Buddha’s teaching? ^9-50
 
-Mahākāshyapa110 himself and others
+Mahākāshyapa himself and others
 Could not sound the depths of such a teaching.
 Who will therefore say that they’re to be rejected
 Just because they are not grasped by you? ^9-51
@@ -4340,7 +4340,7 @@ In constant and unbroken continuity. ^10-3
 Throughout the spheres and reaches of the world,
 In hellish states as many as there are,
 May beings who abide there taste
-The bliss and peace of Sukhāvatī.111 ^10-4
+The bliss and peace of Sukhāvatī. ^10-4
 
 May those caught in the freezing ice be warmed,
 And from great clouds of Bodhisattvas
@@ -4350,7 +4350,7 @@ To cool those burning in infernal fires. ^10-5
 May forests where the leaves are blades and swords
 Become sweet groves and pleasant woodland glades.
 And may the trees of miracles appear,
-Supplanting those upon the hill of Shālmali.112 ^10-6
+Supplanting those upon the hill of Shālmali. ^10-6
 
 And may the very pits of hell be sweet
 With fragrant pools all perfumed with the scent of lotuses,
@@ -4370,7 +4370,7 @@ Be now a rain of flowers thrown in play. ^10-9
 And those engulfed in fiery Vaitaraṇī,
 Their flesh destroyed, their bones bleached white as kunda flowers,
 May they, through all my merits’ strength, have godlike forms
-And sport with goddesses in Mandākinī’s peaceful streams.113 ^10-10
+And sport with goddesses in Mandākinī’s peaceful streams. ^10-10
 
 “What fear is it,” they’ll ask, “that grips the henchmen of the Deadly Lord, the frightful vultures, and the carrion crows?
 What noble strength is it that brings us joy and drives away our dreadful night?”
@@ -4380,7 +4380,7 @@ Then may their sins be quenched in joy and may they go to him. ^10-11
 And when they see the seething lava-flood of hell
 Extinguished in a rain of blossoms, drenched in fragrant streams,
 At once fulfilled in bliss, they’ll ask, “How can this be?”
-May then the denizens of hell behold the One Who Holds the Lotus.114 ^10-12
+May then the denizens of hell behold the One Who Holds the Lotus. ^10-12
 
 “Friends, throw away your fears and quickly gather here.
 For who is it who comes to us to banish dread, this gleaming youth with bound-up hair,
@@ -4400,7 +4400,7 @@ May all those languishing in hell come now to perfect joy. ^10-15
 And may the stooping animals be freed
 From fear of being preyed upon, each other’s food.
 And may the famished spirits have such joy
-As those who dwell within the northern continent.115 ^10-16
+As those who dwell within the northern continent. ^10-16
 
 And may they be replete and satisfied
 By streams of milk that pour
@@ -4410,7 +4410,7 @@ And bathing in it, may they be refreshed and cooled. ^10-17
 And may the blind receive their sight,
 And may the deaf begin to hear,
 And women near their time bring forth,
-Like Māyādevī,116 free from all travail. ^10-18
+Like Māyādevī, free from all travail. ^10-18
 
 And may the naked now be clothed,
 And all the hungry eat their fill.
@@ -4468,7 +4468,7 @@ And those who suffer from deformity
 Acquire great beauty and perfection. ^10-29
 
 May all the women of the world
-Attain the strength of masculinity.117
+Attain the strength of masculinity.
 And may the lowly come to excellence,
 The proud and haughty lose their arrogance. ^10-30
 
@@ -4567,11 +4567,11 @@ Their high intention for the sake of wanderers.
 May sentient beings now obtain
 All that their Guardians wish for them. ^10-49
 
-And may the Hearers and Pratyekabuddhas118
+And may the Hearers and Pratyekabuddhas
 Gain their perfect happiness. ^10-50
 
 And till, through Mañjughoṣha’s perfect kindness,
-I attain the ground of Perfect Joy,119
+I attain the ground of Perfect Joy,
 May I remember all my lives
 And enter into the monastic state. ^10-51
 

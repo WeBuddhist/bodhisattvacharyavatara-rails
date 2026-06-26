@@ -177,7 +177,7 @@ def main():
             if (parent / "4-SYSTEM").is_dir():
                 vault_root = parent
                 break
-        out_path = vault_root / "0-INBOX" / (src_path.stem + ".toc.md")
+        out_path = vault_root / "1-SOURCES" / "Commentaries" / "commentaries_with_toc" / (src_path.stem + ".toc.md")
 
     entries = parse_toc(toc_path)
     if not entries:

@@ -11,10 +11,10 @@ This is a runnable version of the `toc-candidate-extraction` skill
     3. Save one result file per chunk under
        0-INBOX/temp/TOC-<commentary-id>/candidates/ (resumable). A second pass copies the
        raw enumeration blocks to 0-INBOX/temp/TOC-<commentary-id>/enumerations/.
-    4. Combine all chunk results into 0-INBOX/toc-candidates-<commentary-id>.md.
+    4. Combine all chunk results into 0-INBOX/temp/TOC-<id>/toc-candidates-<id>.md.
     5. Send the merged candidates back to Gemini and build a full nested,
-       decimal-numbered TOC tree (no ^toc block IDs) saved to
-       0-INBOX/toc-tree-<commentary-id>.md, then QC it.  (skip tree with --no-tree)
+       decimal-numbered TOC tree saved to 0-INBOX/temp/TOC-<id>/toc-tree-<id>.md,
+       then QC it (0-INBOX/temp/TOC-<id>/toc-tree-qc-<id>.md).  (skip with --no-tree)
 
 The extraction step prioritises RECALL: it is better to extract too many
 candidates than to miss one.
@@ -98,7 +98,7 @@ MAX_BACKOFF_SECONDS = 120       # cap on a single wait
 TEMP_BASE_SUBDIR = "0-INBOX/temp"     # the TOC-<name> folder is created under here
 CANDIDATES_DIRNAME = "candidates"     # per-chunk section-candidate staging
 ENUM_DIRNAME = "enumerations"         # per-chunk raw enumeration blocks (one file/chunk)
-FINAL_SUBDIR = "0-INBOX"
+# Final outputs (candidates, tree, qc) live inside the same per-text temp folder
 
 
 # ------------------------------------------------------------------------------
@@ -999,21 +999,21 @@ def main():
                              "(default: <root>/0-INBOX/temp/TOC-<commentary-id>/candidates/)")
     parser.add_argument("--out", default=None,
                         help="Override combined candidates file "
-                             "(default: <root>/0-INBOX/toc-candidates-<commentary-id>.md)")
+                             "(default: <root>/0-INBOX/temp/TOC-<id>/toc-candidates-<id>.md)")
     parser.add_argument("--enum-dir", default=None,
                         help="Override the per-chunk enumerations folder "
                              "(default: <root>/0-INBOX/temp/TOC-<commentary-id>/enumerations/). "
                              "One file per chunk, raw verbatim enumeration blocks.")
     parser.add_argument("--tree-out", default=None,
                         help="Override TOC-tree output file "
-                             "(default: <root>/0-INBOX/toc-tree-<commentary-id>.md)")
+                             "(default: <root>/0-INBOX/temp/TOC-<id>/toc-tree-<id>.md)")
     parser.add_argument("--no-enum", action="store_true",
                         help="Skip the enumeration extraction pass (pass 2)")
     parser.add_argument("--no-tree", action="store_true",
                         help="Stop after merging candidates; skip the TOC-tree step")
     parser.add_argument("--qc-out", default=None,
                         help="Override the TOC-tree QC report file "
-                             "(default: <root>/0-INBOX/toc-tree-qc-<commentary-id>.md)")
+                             "(default: <root>/0-INBOX/temp/TOC-<id>/toc-tree-qc-<id>.md)")
     parser.add_argument("--no-qc", action="store_true",
                         help="Skip the QC pass on the TOC tree")
     parser.add_argument("--no-qc-fix", action="store_true",
@@ -1035,13 +1035,13 @@ def main():
     temp_dir = Path(args.temp_dir).resolve() if args.temp_dir \
         else toc_folder / CANDIDATES_DIRNAME
     out_file = Path(args.out).resolve() if args.out \
-        else vault_root / FINAL_SUBDIR / f"toc-candidates-{commentary_id}.md"
+        else toc_folder / f"toc-candidates-{commentary_id}.md"
     enum_dir = Path(args.enum_dir).resolve() if args.enum_dir \
         else toc_folder / ENUM_DIRNAME
     tree_file = Path(args.tree_out).resolve() if args.tree_out \
-        else vault_root / FINAL_SUBDIR / f"toc-tree-{commentary_id}.md"
+        else toc_folder / f"toc-tree-{commentary_id}.md"
     qc_file = Path(args.qc_out).resolve() if args.qc_out \
-        else vault_root / FINAL_SUBDIR / f"toc-tree-qc-{commentary_id}.md"
+        else toc_folder / f"toc-tree-qc-{commentary_id}.md"
 
     temp_dir.mkdir(parents=True, exist_ok=True)
     out_file.parent.mkdir(parents=True, exist_ok=True)

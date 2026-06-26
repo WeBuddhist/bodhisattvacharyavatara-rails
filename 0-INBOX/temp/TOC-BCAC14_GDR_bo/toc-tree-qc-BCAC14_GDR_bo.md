@@ -1,0 +1,259 @@
+---
+source: BCAC14_GDR_bo
+skill: toc-candidate-extraction
+stage: toc-tree-qc
+date: 2026-06-26
+model: gemini-flash-latest
+repaired: true
+issues_before: 161
+issues_after: 80
+---
+
+# TOC tree QC report
+
+## Issues found (before repair)
+
+- L42: Tibetan ordinal = 2 but decimal last segment = 4  ->  1.3.2.2.2.1.1.2.4 གཉིས་པ་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་ངོ་བོ་ངོས་བཟ
+- L48: Tibetan ordinal = 3 but decimal last segment = 5  ->  1.3.2.2.2.1.1.2.5 གསུམ་པ་དེ་ལ་ཕན་ཡོན་དེ་དག་འབྱུང་བའི་རྒྱུ་
+- L60: Tibetan ordinal = 4 but decimal last segment = 6  ->  1.3.2.2.2.1.1.2.6 བཞི་པ་བྱང་ཆུབ་ཀྱི་སེམས་སྒོམ་པའི་གང་ཟག་ལ་
+- L104: title not attested in candidates/enumerations (coverage 0%) — possible hallucination  ->  1.3.2.2.2.2.1.1.1.3.1 དང་པོ་རྒྱུའི་སྐྱེས་འགྲོ་
+- L127: indent 30 spaces != expected 24 for depth 9 (1.3.2.2.2.2.1.1.2)
+- L128: indent 33 spaces != expected 27 for depth 10 (1.3.2.2.2.2.1.1.2.1)
+- L129: indent 33 spaces != expected 27 for depth 10 (1.3.2.2.2.2.1.1.2.2)
+- L130: indent 33 spaces != expected 27 for depth 10 (1.3.2.2.2.2.1.1.2.3)
+- L131: indent 30 spaces != expected 24 for depth 9 (1.3.2.2.2.2.1.1.3)
+- L132: indent 33 spaces != expected 27 for depth 10 (1.3.2.2.2.2.1.1.3.1)
+- L133: indent 36 spaces != expected 30 for depth 11 (1.3.2.2.2.2.1.1.3.1.1)
+- L134: indent 39 spaces != expected 33 for depth 12 (1.3.2.2.2.2.1.1.3.1.1.1)
+- L135: indent 39 spaces != expected 33 for depth 12 (1.3.2.2.2.2.1.1.3.1.1.2)
+- L136: indent 39 spaces != expected 33 for depth 12 (1.3.2.2.2.2.1.1.3.1.1.3)
+- L137: indent 36 spaces != expected 30 for depth 11 (1.3.2.2.2.2.1.1.3.1.2)
+- L138: indent 33 spaces != expected 27 for depth 10 (1.3.2.2.2.2.1.1.3.2)
+- L139: indent 36 spaces != expected 30 for depth 11 (1.3.2.2.2.2.1.1.3.2.1)
+- L140: indent 36 spaces != expected 30 for depth 11 (1.3.2.2.2.2.1.1.3.2.2)
+- L141: indent 30 spaces != expected 24 for depth 9 (1.3.2.2.2.2.1.1.4)
+- L142: indent 33 spaces != expected 27 for depth 10 (1.3.2.2.2.2.1.1.4.1)
+- L143: indent 36 spaces != expected 30 for depth 11 (1.3.2.2.2.2.1.1.4.1.1)
+- L144: indent 39 spaces != expected 33 for depth 12 (1.3.2.2.2.2.1.1.4.1.1.1)
+- L145: indent 39 spaces != expected 33 for depth 12 (1.3.2.2.2.2.1.1.4.1.1.2)
+- L146: indent 36 spaces != expected 30 for depth 11 (1.3.2.2.2.2.1.1.4.1.2)
+- L147: indent 33 spaces != expected 27 for depth 10 (1.3.2.2.2.2.1.1.4.2)
+- L148: indent 36 spaces != expected 30 for depth 11 (1.3.2.2.2.2.1.1.4.2.1)
+- L149: indent 36 spaces != expected 30 for depth 11 (1.3.2.2.2.2.1.1.4.2.2)
+- L150: indent 33 spaces != expected 27 for depth 10 (1.3.2.2.2.2.1.1.4.3)
+- L151: duplicate decimal 1.3.2.2.2.2.1.1.2 (also at L127)
+- L194: indent 21 spaces != expected 24 for depth 9 (1.3.2.2.2.2.1.2.2)
+- L209: indent 39 spaces != expected 36 for depth 13 (1.3.2.2.2.2.1.2.1.3.2.2.2)
+- L209: duplicate decimal 1.3.2.2.2.2.1.2.1.3.2.2.2 (also at L190)
+- L210: indent 39 spaces != expected 36 for depth 13 (1.3.2.2.2.2.1.2.1.3.2.2.3)
+- L214: indent 36 spaces != expected 33 for depth 12 (1.3.2.2.2.2.1.1.3.2.1.1)
+- L215: indent 36 spaces != expected 33 for depth 12 (1.3.2.2.2.2.1.1.3.2.1.2)
+- L216: indent 36 spaces != expected 33 for depth 12 (1.3.2.2.2.2.1.1.3.2.1.3)
+- L217: indent 39 spaces != expected 36 for depth 13 (1.3.2.2.2.2.1.1.3.2.1.3.1)
+- L218: indent 39 spaces != expected 36 for depth 13 (1.3.2.2.2.2.1.1.3.2.1.3.2)
+- L219: indent 36 spaces != expected 33 for depth 12 (1.3.2.2.2.2.1.1.3.2.1.4)
+- L220: indent 39 spaces != expected 36 for depth 13 (1.3.2.2.2.2.1.1.3.2.1.4.1)
+- L221: indent 39 spaces != expected 36 for depth 13 (1.3.2.2.2.2.1.1.3.2.1.4.2)
+- L222: indent 39 spaces != expected 36 for depth 13 (1.3.2.2.2.2.1.1.3.2.1.4.3)
+- L223: indent 36 spaces != expected 33 for depth 12 (1.3.2.2.2.2.1.1.3.2.1.5)
+- L269: indent 36 spaces != expected 30 for depth 11 (1.3.2.2.2.2.1.2.1.1.2)
+- L269: duplicate decimal 1.3.2.2.2.2.1.2.1.1.2 (also at L159)
+- L270: indent 39 spaces != expected 33 for depth 12 (1.3.2.2.2.2.1.2.1.1.2.1)
+- L271: indent 42 spaces != expected 36 for depth 13 (1.3.2.2.2.2.1.2.1.1.2.1.1)
+- L272: indent 42 spaces != expected 36 for depth 13 (1.3.2.2.2.2.1.2.1.1.2.1.2)
+- L273: indent 42 spaces != expected 36 for depth 13 (1.3.2.2.2.2.1.2.1.1.2.1.3)
+- L274: indent 39 spaces != expected 33 for depth 12 (1.3.2.2.2.2.1.2.1.1.2.2)
+- L275: indent 42 spaces != expected 36 for depth 13 (1.3.2.2.2.2.1.2.1.1.2.2.1)
+- L276: indent 45 spaces != expected 39 for depth 14 (1.3.2.2.2.2.1.2.1.1.2.2.1.1)
+- L277: indent 45 spaces != expected 39 for depth 14 (1.3.2.2.2.2.1.2.1.1.2.2.1.2)
+- L278: indent 42 spaces != expected 36 for depth 13 (1.3.2.2.2.2.1.2.1.1.2.2.2)
+- L279: indent 45 spaces != expected 39 for depth 14 (1.3.2.2.2.2.1.2.1.1.2.2.2.1)
+- L280: indent 45 spaces != expected 39 for depth 14 (1.3.2.2.2.2.1.2.1.1.2.2.2.2)
+- L281: indent 42 spaces != expected 36 for depth 13 (1.3.2.2.2.2.1.2.1.1.2.2.3)
+- L282: indent 45 spaces != expected 39 for depth 14 (1.3.2.2.2.2.1.2.1.1.2.2.3.1)
+- L283: indent 45 spaces != expected 39 for depth 14 (1.3.2.2.2.2.1.2.1.1.2.2.3.2)
+- L284: indent 45 spaces != expected 39 for depth 14 (1.3.2.2.2.2.1.2.1.1.2.2.3.3)
+- L285: indent 42 spaces != expected 36 for depth 13 (1.3.2.2.2.2.1.2.1.1.2.2.4)
+- L286: indent 42 spaces != expected 36 for depth 13 (1.3.2.2.2.2.1.2.1.1.2.2.5)
+- L287: indent 42 spaces != expected 36 for depth 13 (1.3.2.2.2.2.1.2.1.1.2.2.6)
+- L311: indent 48 spaces != expected 36 for depth 13 (1.3.2.2.2.2.1.2.2.2.2.3.2)
+- L334: indent 48 spaces != expected 39 for depth 14 (1.3.2.2.2.2.2.1.1.3.2.1.3.2)
+- L335: indent 51 spaces != expected 42 for depth 15 (1.3.2.2.2.2.2.1.1.3.2.1.3.2.1)
+- L336: indent 51 spaces != expected 42 for depth 15 (1.3.2.2.2.2.2.1.1.3.2.1.3.2.2)
+- L337: indent 51 spaces != expected 39 for depth 14 (1.3.2.2.2.2.2.1.1.3.2.1.3.3)
+- L338: indent 51 spaces != expected 39 for depth 14 (1.3.2.2.2.2.2.1.1.3.2.1.3.4)
+- L339: indent 51 spaces != expected 39 for depth 14 (1.3.2.2.2.2.2.1.1.3.2.1.3.5)
+- L393: duplicate decimal 1.3.2.2.2.2.1.2 (also at L152)
+- L394: duplicate decimal 1.3.2.2.2.2.1.2.1 (also at L153)
+- L395: duplicate decimal 1.3.2.2.2.2.1.2.1.1 (also at L154)
+- L396: duplicate decimal 1.3.2.2.2.2.1.2.1.1.1 (also at L155)
+- L397: duplicate decimal 1.3.2.2.2.2.1.2.1.1.1.1 (also at L156)
+- L398: duplicate decimal 1.3.2.2.2.2.1.2.1.1.1.2 (also at L157)
+- L399: duplicate decimal 1.3.2.2.2.2.1.2.1.1.1.3 (also at L158)
+- L400: duplicate decimal 1.3.2.2.2.2.1.2.1.1.2 (also at L159)
+- L401: duplicate decimal 1.3.2.2.2.2.1.2.1.1.3 (also at L160)
+- L402: duplicate decimal 1.3.2.2.2.2.1.2.1.1.4 (also at L161)
+- L403: duplicate decimal 1.3.2.2.2.2.1.2.1.1.4.1 (also at L162)
+- L404: duplicate decimal 1.3.2.2.2.2.1.2.1.1.4.2 (also at L163)
+- L405: duplicate decimal 1.3.2.2.2.2.1.2.1.1.4.3 (also at L164)
+- L406: duplicate decimal 1.3.2.2.2.2.1.2.1.1.4.4 (also at L165)
+- L407: duplicate decimal 1.3.2.2.2.2.1.2.1.1.5 (also at L166)
+- L408: duplicate decimal 1.3.2.2.2.2.1.2.1.1.5.1 (also at L167)
+- L409: duplicate decimal 1.3.2.2.2.2.1.2.1.1.5.1.1 (also at L168)
+- L410: duplicate decimal 1.3.2.2.2.2.1.2.1.1.5.1.2 (also at L169)
+- L411: duplicate decimal 1.3.2.2.2.2.1.2.1.1.5.1.2.1 (also at L170)
+- L412: duplicate decimal 1.3.2.2.2.2.1.2.1.1.5.1.2.2 (also at L171)
+- L413: duplicate decimal 1.3.2.2.2.2.1.2.1.1.5.1.3 (also at L172)
+- L414: duplicate decimal 1.3.2.2.2.2.1.2.1.1.5.2 (also at L173)
+- L415: duplicate decimal 1.3.2.2.2.2.1.2.1.1.5.3 (also at L174)
+- L416: duplicate decimal 1.3.2.2.2.2.1.2.1.2 (also at L175)
+- L417: duplicate decimal 1.3.2.2.2.2.1.2.1.3 (also at L176)
+- L418: duplicate decimal 1.3.2.2.2.2.1.2.1.3.1 (also at L177)
+- L419: duplicate decimal 1.3.2.2.2.2.1.2.1.3.1.1 (also at L178)
+- L420: duplicate decimal 1.3.2.2.2.2.1.2.1.3.1.2 (also at L179)
+- L421: duplicate decimal 1.3.2.2.2.2.1.2.1.3.1.3 (also at L180)
+- L422: duplicate decimal 1.3.2.2.2.2.1.2.1.3.2 (also at L181)
+- L423: duplicate decimal 1.3.2.2.2.2.1.2.1.3.2.1 (also at L182)
+- L424: duplicate decimal 1.3.2.2.2.2.1.2.1.3.2.1.1 (also at L183)
+- L425: duplicate decimal 1.3.2.2.2.2.1.2.1.3.2.1.2 (also at L184)
+- L426: duplicate decimal 1.3.2.2.2.2.1.2.1.3.2.1.3 (also at L185)
+- L427: duplicate decimal 1.3.2.2.2.2.1.2.1.3.2.1.4 (also at L186)
+- L428: duplicate decimal 1.3.2.2.2.2.1.2.1.3.2.1.5 (also at L187)
+- L429: duplicate decimal 1.3.2.2.2.2.1.2.1.3.2.2 (also at L188)
+- L430: duplicate decimal 1.3.2.2.2.2.1.2.1.3.2.2.1 (also at L189)
+- L431: duplicate decimal 1.3.2.2.2.2.1.2.1.3.2.2.2 (also at L190)
+- L432: duplicate decimal 1.3.2.2.2.2.1.2.1.3.2.3 (also at L191)
+- L433: duplicate decimal 1.3.2.2.2.2.1.2.1.3.2.3.1 (also at L192)
+- L434: duplicate decimal 1.3.2.2.2.2.1.2.1.3.2.3.2 (also at L193)
+- L435: indent 21 spaces != expected 24 for depth 9 (1.3.2.2.2.2.1.2.2)
+- L435: duplicate decimal 1.3.2.2.2.2.1.2.2 (also at L194)
+- L436: duplicate decimal 1.3.2.2.2.2.2 (also at L195)
+- L437: duplicate decimal 1.3.2.2.2.2.2.1 (also at L196)
+- L438: duplicate decimal 1.3.2.2.2.2.2.1.1 (also at L197)
+- L439: duplicate decimal 1.3.2.2.2.2.2.1.1.1 (also at L198)
+- L440: duplicate decimal 1.3.2.2.2.2.2.1.1.2 (also at L199)
+- L441: duplicate decimal 1.3.2.2.2.2.2.1.1.2.1 (also at L200)
+- L442: duplicate decimal 1.3.2.2.2.2.2.1.1.2.1.1 (also at L201)
+- L443: duplicate decimal 1.3.2.2.2.2.2.1.1.2.1.2 (also at L202)
+- L444: duplicate decimal 1.3.2.2.2.2.2.1.1.2.1.2.1 (also at L203)
+- L445: duplicate decimal 1.3.2.2.2.2.2.1.1.2.1.2.1.1 (also at L204)
+- L446: duplicate decimal 1.3.2.2.2.2.2.1.1.2.1.2.1.2 (also at L205)
+- L447: duplicate decimal 1.3.2.2.2.2.2.1.1.2.1.2.1.3 (also at L206)
+- L448: duplicate decimal 1.3.2.2.2.2.2.1.1.2.1.2.2 (also at L207)
+- L449: duplicate decimal 1.3.2.2.2.2.2.1.1.2.1.2.2.1 (also at L208)
+- L452: duplicate decimal 1.3.2.2.2.2.2.1.1.2.1.2.3 (also at L211)
+- L453: duplicate decimal 1.3.2.2.2.2.2.1.1.2.2 (also at L212)
+- L454: duplicate decimal 1.3.2.2.2.2.2.1.1.2.2.1 (also at L213)
+- children of 1.3.2.2.2.2: numbered [1, 2, 2], expected [1, 2, 3]
+- children of 1.3.2.2.2.2.1: numbered [1, 2, 2], expected [1, 2, 3]
+- children of 1.3.2.2.2.2.1.1: numbered [1, 2, 2, 3, 4], expected [1, 2, 3, 4, 5]
+- children of 1.3.2.2.2.2.1.2: numbered [1, 1, 2, 2], expected [1, 2, 3, 4]
+- children of 1.3.2.2.2.2.1.2.1: numbered [1, 1, 2, 2, 3, 3], expected [1, 2, 3, 4, 5, 6]
+- children of 1.3.2.2.2.2.1.2.1.1: numbered [1, 1, 2, 2, 2, 3, 3, 4, 4, 5, 5], expected [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+- children of 1.3.2.2.2.2.1.2.1.1.1: numbered [1, 1, 2, 2, 3, 3], expected [1, 2, 3, 4, 5, 6]
+- children of 1.3.2.2.2.2.1.2.1.1.4: numbered [1, 1, 2, 2, 3, 3, 4, 4], expected [1, 2, 3, 4, 5, 6, 7, 8]
+- children of 1.3.2.2.2.2.1.2.1.1.5: numbered [1, 1, 2, 2, 3, 3], expected [1, 2, 3, 4, 5, 6]
+- children of 1.3.2.2.2.2.1.2.1.1.5.1: numbered [1, 1, 2, 2, 3, 3], expected [1, 2, 3, 4, 5, 6]
+- children of 1.3.2.2.2.2.1.2.1.1.5.1.2: numbered [1, 1, 2, 2], expected [1, 2, 3, 4]
+- children of 1.3.2.2.2.2.1.2.1.3: numbered [1, 1, 2, 2], expected [1, 2, 3, 4]
+- children of 1.3.2.2.2.2.1.2.1.3.1: numbered [1, 1, 2, 2, 3, 3], expected [1, 2, 3, 4, 5, 6]
+- children of 1.3.2.2.2.2.1.2.1.3.2: numbered [1, 1, 2, 2, 3, 3], expected [1, 2, 3, 4, 5, 6]
+- children of 1.3.2.2.2.2.1.2.1.3.2.1: numbered [1, 1, 2, 2, 3, 3, 4, 4, 5, 5], expected [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+- children of 1.3.2.2.2.2.1.2.1.3.2.2: numbered [1, 1, 2, 2, 2, 3], expected [1, 2, 3, 4, 5, 6]
+- children of 1.3.2.2.2.2.1.2.1.3.2.3: numbered [1, 1, 2, 2], expected [1, 2, 3, 4]
+- children of 1.3.2.2.2.2.2: numbered [1, 1, 2], expected [1, 2, 3]
+- children of 1.3.2.2.2.2.2.1: numbered [1, 1, 2], expected [1, 2, 3]
+- children of 1.3.2.2.2.2.2.1.1: numbered [1, 1, 2, 2, 3], expected [1, 2, 3, 4, 5]
+- children of 1.3.2.2.2.2.2.1.1.2: numbered [1, 1, 2, 2], expected [1, 2, 3, 4]
+- children of 1.3.2.2.2.2.2.1.1.2.1: numbered [1, 1, 2, 2], expected [1, 2, 3, 4]
+- children of 1.3.2.2.2.2.2.1.1.2.1.2: numbered [1, 1, 2, 2, 3, 3], expected [1, 2, 3, 4, 5, 6]
+- children of 1.3.2.2.2.2.2.1.1.2.1.2.1: numbered [1, 1, 2, 2, 3, 3], expected [1, 2, 3, 4, 5, 6]
+- children of 1.3.2.2.2.2.2.1.1.2.1.2.2: numbered [1, 1, 2, 3], expected [1, 2, 3, 4]
+- children of 1.3.2.2.2.2.2.1.1.2.2: numbered [1, 1, 2, 3], expected [1, 2, 3, 4]
+- children of 1.3.2.2.2.2.2.2.2.1.1.1: numbered [1, 3], expected [1, 2]
+- children of 1.3.2.2.2.2.1.2.2.2.2.3: numbered [2], expected [1]
+- children of 1.3.2.2.2.2.2.2.2.1.1.3.1.2.1.3: numbered [1, 3], expected [1, 2]
+- children of 1.3.2.2.2.2.2.1.1.3.2.1.3: numbered [2, 3, 4, 5], expected [1, 2, 3, 4]
+
+## Issues remaining after repair
+
+- L32: indent 27 spaces != expected 30 for depth 11 (1.3.2.2.2.2.1.1.2.1.2)
+- L33: indent 27 spaces != expected 30 for depth 11 (1.3.2.2.2.2.1.1.2.1.3)
+- L104: title not attested in candidates/enumerations (coverage 0%) — possible hallucination  ->  1.3.2.2.2.2.1.1.1.3.1 དང་པོ་རྒྱུའི་སྐྱེས་འགྲོ་
+- L127: indent 30 spaces != expected 24 for depth 9 (1.3.2.2.2.2.1.1.2)
+- L128: indent 33 spaces != expected 27 for depth 10 (1.3.2.2.2.2.1.1.2.1)
+- L129: indent 33 spaces != expected 27 for depth 10 (1.3.2.2.2.2.1.1.2.2)
+- L130: indent 33 spaces != expected 27 for depth 10 (1.3.2.2.2.2.1.1.2.3)
+- L131: indent 30 spaces != expected 24 for depth 9 (1.3.2.2.2.2.1.1.3)
+- L132: indent 33 spaces != expected 27 for depth 10 (1.3.2.2.2.2.1.1.3.1)
+- L133: indent 36 spaces != expected 30 for depth 11 (1.3.2.2.2.2.1.1.3.1.1)
+- L134: indent 39 spaces != expected 33 for depth 12 (1.3.2.2.2.2.1.1.3.1.1.1)
+- L135: indent 39 spaces != expected 33 for depth 12 (1.3.2.2.2.2.1.1.3.1.1.2)
+- L136: indent 39 spaces != expected 33 for depth 12 (1.3.2.2.2.2.1.1.3.1.1.3)
+- L137: indent 36 spaces != expected 30 for depth 11 (1.3.2.2.2.2.1.1.3.1.2)
+- L138: indent 33 spaces != expected 27 for depth 10 (1.3.2.2.2.2.1.1.3.2)
+- L139: indent 36 spaces != expected 30 for depth 11 (1.3.2.2.2.2.1.1.3.2.1)
+- L140: indent 36 spaces != expected 30 for depth 11 (1.3.2.2.2.2.1.1.3.2.2)
+- L141: indent 30 spaces != expected 24 for depth 9 (1.3.2.2.2.2.1.1.4)
+- L142: indent 33 spaces != expected 27 for depth 10 (1.3.2.2.2.2.1.1.4.1)
+- L143: indent 36 spaces != expected 30 for depth 11 (1.3.2.2.2.2.1.1.4.1.1)
+- L144: indent 39 spaces != expected 33 for depth 12 (1.3.2.2.2.2.1.1.4.1.1.1)
+- L145: indent 39 spaces != expected 33 for depth 12 (1.3.2.2.2.2.1.1.4.1.1.2)
+- L146: indent 36 spaces != expected 30 for depth 11 (1.3.2.2.2.2.1.1.4.1.2)
+- L147: indent 33 spaces != expected 27 for depth 10 (1.3.2.2.2.2.1.1.4.2)
+- L148: indent 36 spaces != expected 30 for depth 11 (1.3.2.2.2.2.1.1.4.2.1)
+- L149: indent 36 spaces != expected 30 for depth 11 (1.3.2.2.2.2.1.1.4.2.2)
+- L150: indent 33 spaces != expected 27 for depth 10 (1.3.2.2.2.2.1.1.4.3)
+- L151: Tibetan ordinal = 2 but decimal last segment = 5  ->  1.3.2.2.2.2.1.1.5 གཉིས་པ་ལེའུའི་མཚན་
+- L194: indent 21 spaces != expected 24 for depth 9 (1.3.2.2.2.2.1.2.2)
+- L369: ordinal 2 (གཉིས་པ) not attested for this title in candidates/enumerations (source attaches: 3)  ->  1.3.2.2.2.2.3.1.1.2.1.4.2.1.1.3.3.2 གཉིས་པ་རྩོད་པ་སྤང་བ་
+- L373: indent 39 spaces != expected 42 for depth 15 (1.3.2.2.2.2.3.1.1.2.1.4.2.1.2)
+- L374: indent 42 spaces != expected 45 for depth 16 (1.3.2.2.2.2.3.1.1.2.1.4.2.1.2.1)
+- L375: indent 42 spaces != expected 45 for depth 16 (1.3.2.2.2.2.3.1.1.2.1.4.2.1.2.2)
+- L376: indent 42 spaces != expected 45 for depth 16 (1.3.2.2.2.2.3.1.1.2.1.4.2.1.2.3)
+- L377: indent 45 spaces != expected 48 for depth 17 (1.3.2.2.2.2.3.1.1.2.1.4.2.1.2.3.1)
+- L378: indent 45 spaces != expected 48 for depth 17 (1.3.2.2.2.2.3.1.1.2.1.4.2.1.2.3.2)
+- L379: indent 45 spaces != expected 48 for depth 17 (1.3.2.2.2.2.3.1.1.2.1.4.2.1.2.3.3)
+- L380: indent 45 spaces != expected 48 for depth 17 (1.3.2.2.2.2.3.1.1.2.1.4.2.1.2.3.4)
+- L381: indent 45 spaces != expected 48 for depth 17 (1.3.2.2.2.2.3.1.1.2.1.4.2.1.2.3.5)
+- L382: indent 42 spaces != expected 45 for depth 16 (1.3.2.2.2.2.3.1.1.2.1.4.2.1.2.4)
+- L383: indent 45 spaces != expected 48 for depth 17 (1.3.2.2.2.2.3.1.1.2.1.4.2.1.2.4.1)
+- L384: indent 45 spaces != expected 48 for depth 17 (1.3.2.2.2.2.3.1.1.2.1.4.2.1.2.4.2)
+- L417: indent 33 spaces != expected 36 for depth 13 (1.3.2.2.2.2.3.1.1.2.1.4.3)
+- L418: indent 36 spaces != expected 39 for depth 14 (1.3.2.2.2.2.3.1.1.2.1.4.3.1)
+- L419: indent 39 spaces != expected 42 for depth 15 (1.3.2.2.2.2.3.1.1.2.1.4.3.1.1)
+- L420: indent 39 spaces != expected 42 for depth 15 (1.3.2.2.2.2.3.1.1.2.1.4.3.1.2)
+- L421: indent 39 spaces != expected 42 for depth 15 (1.3.2.2.2.2.3.1.1.2.1.4.3.1.3)
+- L422: indent 42 spaces != expected 45 for depth 16 (1.3.2.2.2.2.3.1.1.2.1.4.3.1.3.1)
+- L423: indent 42 spaces != expected 45 for depth 16 (1.3.2.2.2.2.3.1.1.2.1.4.3.1.3.2)
+- L424: indent 36 spaces != expected 39 for depth 14 (1.3.2.2.2.2.3.1.1.2.1.4.3.2)
+- L425: indent 39 spaces != expected 42 for depth 15 (1.3.2.2.2.2.3.1.1.2.1.4.3.2.1)
+- L426: indent 42 spaces != expected 45 for depth 16 (1.3.2.2.2.2.3.1.1.2.1.4.3.2.1.1)
+- L427: indent 45 spaces != expected 48 for depth 17 (1.3.2.2.2.2.3.1.1.2.1.4.3.2.1.1.1)
+- L428: indent 45 spaces != expected 48 for depth 17 (1.3.2.2.2.2.3.1.1.2.1.4.3.2.1.1.2)
+- L429: indent 45 spaces != expected 48 for depth 17 (1.3.2.2.2.2.3.1.1.2.1.4.3.2.1.1.3)
+- L430: indent 48 spaces != expected 51 for depth 18 (1.3.2.2.2.2.3.1.1.2.1.4.3.2.1.1.3.1)
+- L431: indent 48 spaces != expected 51 for depth 18 (1.3.2.2.2.2.3.1.1.2.1.4.3.2.1.1.3.2)
+- L432: indent 45 spaces != expected 48 for depth 17 (1.3.2.2.2.2.3.1.1.2.1.4.3.2.1.1.4)
+- L433: indent 48 spaces != expected 51 for depth 18 (1.3.2.2.2.2.3.1.1.2.1.4.3.2.1.1.4.1)
+- L434: indent 48 spaces != expected 51 for depth 18 (1.3.2.2.2.2.3.1.1.2.1.4.3.2.1.1.4.2)
+- L435: indent 51 spaces != expected 54 for depth 19 (1.3.2.2.2.2.3.1.1.2.1.4.3.2.1.1.4.2.1)
+- L436: indent 51 spaces != expected 54 for depth 19 (1.3.2.2.2.2.3.1.1.2.1.4.3.2.1.1.4.2.2)
+- L437: indent 42 spaces != expected 45 for depth 16 (1.3.2.2.2.2.3.1.1.2.1.4.3.2.1.2)
+- L438: indent 45 spaces != expected 48 for depth 17 (1.3.2.2.2.2.3.1.1.2.1.4.3.2.1.2.1)
+- L439: indent 48 spaces != expected 51 for depth 18 (1.3.2.2.2.2.3.1.1.2.1.4.3.2.1.2.1.1)
+- L440: indent 48 spaces != expected 51 for depth 18 (1.3.2.2.2.2.3.1.1.2.1.4.3.2.1.2.1.2)
+- L441: indent 45 spaces != expected 48 for depth 17 (1.3.2.2.2.2.3.1.1.2.1.4.3.2.1.2.2)
+- L442: indent 48 spaces != expected 51 for depth 18 (1.3.2.2.2.2.3.1.1.2.1.4.3.2.1.2.2.1)
+- L443: indent 48 spaces != expected 51 for depth 18 (1.3.2.2.2.2.3.1.1.2.1.4.3.2.1.2.2.2)
+- L444: indent 39 spaces != expected 42 for depth 15 (1.3.2.2.2.2.3.1.1.2.1.4.3.2.2)
+- L445: indent 42 spaces != expected 45 for depth 16 (1.3.2.2.2.2.3.1.1.2.1.4.3.2.2.1)
+- L446: indent 45 spaces != expected 48 for depth 17 (1.3.2.2.2.2.3.1.1.2.1.4.3.2.2.1.1)
+- L447: indent 45 spaces != expected 48 for depth 17 (1.3.2.2.2.2.3.1.1.2.1.4.3.2.2.1.2)
+- L448: indent 42 spaces != expected 45 for depth 16 (1.3.2.2.2.2.3.1.1.2.1.4.3.2.2.2)
+- L449: indent 45 spaces != expected 48 for depth 17 (1.3.2.2.2.2.3.1.1.2.1.4.2.3.2.2.1)
+- L449: duplicate decimal 1.3.2.2.2.2.3.1.1.2.1.4.2.3.2.2.1 (also at L413)
+- L450: indent 45 spaces != expected 48 for depth 17 (1.3.2.2.2.2.3.1.1.2.1.4.2.3.2.2.2)
+- L450: duplicate decimal 1.3.2.2.2.2.3.1.1.2.1.4.2.3.2.2.2 (also at L414)
+- children of 1.3.2.2.2.2.1.1.2.1: numbered [2, 3], expected [1, 2]
+- children of 1.3.2.2.2.2.3.1.1.2.1.4.2.3.2.2: numbered [1, 1, 2, 2, 3], expected [1, 2, 3, 4, 5]

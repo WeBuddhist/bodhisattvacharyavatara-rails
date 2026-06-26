@@ -102,8 +102,11 @@ def parse_toc(path):
     return entries
 
 
-def rewrite_toc(path, new_contexts):
-    """Rewrite the toc-tree file replacing [[context]] for each decimal key."""
+def rewrite_toc(path, new_contexts, out_path=None):
+    """Write updated toc-tree to out_path (defaults to path, i.e. in-place).
+    Always backs up the original source at path + '.bak'."""
+    if out_path is None:
+        out_path = path
     raw_lines = path.read_text(encoding="utf-8").splitlines(keepends=True)
     out = []
     for raw in raw_lines:
@@ -118,8 +121,17 @@ def rewrite_toc(path, new_contexts):
             out.append(raw)
     bak = path.with_suffix(path.suffix + ".bak")
     bak.write_text(path.read_text(encoding="utf-8"), encoding="utf-8")
-    path.write_text("".join(out), encoding="utf-8")
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    out_path.write_text("".join(out), encoding="utf-8")
     return bak
+
+
+def find_vault_root(start):
+    """Walk up from start until we find the dir containing 4-SYSTEM/."""
+    for p in [start] + list(start.parents):
+        if (p / "4-SYSTEM").is_dir():
+            return p
+    return start
 
 
 # ---------------------------------------------------------------------------
@@ -421,33 +433,4 @@ def main():
 
         # ---- Extract verbatim snippet from source ----
         snippet = snippet_from_source(lines, located_line)
-        if not snippet:
-            snippet = ctx or "?"
-
-        new_contexts[dec] = snippet
-
-        # Only advance the sibling/parent position tracker for confident matches.
-        # A weak fuzzy hit must not cascade and block later siblings.
-        if match_score >= CONSTRAINT_MIN_SCORE:
-            dec_line[dec] = located_line
-            depth_last_line[depth] = located_line
-            conf_tag = ""
-        else:
-            conf_tag = " (low-conf: pos not advanced)"
-
-        print(f"  [{dec}] line {located_line+1:4}  [{method}]{conf_tag}"
-              f"  ctx: {snippet[:50]}")
-
-    print()
-
-    if args.dry_run:
-        print("Dry run -- no file written.")
-        return
-
-    bak = rewrite_toc(toc_path, new_contexts)
-    print(f"Written -> {toc_path}")
-    print(f"Backup  -> {bak}")
-
-
-if __name__ == "__main__":
-    main()
+     

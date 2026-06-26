@@ -433,4 +433,38 @@ def main():
 
         # ---- Extract verbatim snippet from source ----
         snippet = snippet_from_source(lines, located_line)
-     
+        if not snippet:
+            snippet = ctx or "?"
+
+        new_contexts[dec] = snippet
+
+        # Only advance the sibling/parent position tracker for confident matches.
+        # A weak fuzzy hit must not cascade and block later siblings.
+        if match_score >= CONSTRAINT_MIN_SCORE:
+            dec_line[dec] = located_line
+            depth_last_line[depth] = located_line
+            conf_tag = ""
+        else:
+            conf_tag = " (low-conf: pos not advanced)"
+
+        print(f"  [{dec}] line {located_line+1:4}  [{method}]{conf_tag}"
+              f"  ctx: {snippet[:50]}", flush=True)
+
+    print()
+
+    if args.dry_run:
+        print("Dry run -- no file written.")
+        return
+
+    # Derive output path: 0-INBOX/temp/TOC-<id>/toc-tree-<id>.md
+    commentary_id = re.sub(r"^toc-tree-", "", toc_path.stem)
+    vault_root = find_vault_root(toc_path)
+    out_path = vault_root / "0-INBOX" / "temp" / f"TOC-{commentary_id}" / toc_path.name
+
+    bak = rewrite_toc(toc_path, new_contexts, out_path=out_path)
+    print(f"Written -> {out_path}")
+    print(f"Backup  -> {bak}")
+
+
+if __name__ == "__main__":
+    main()

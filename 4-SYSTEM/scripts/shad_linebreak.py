@@ -18,10 +18,9 @@ Usage:
     python shad_linebreak.py input.txt [output.txt]
     cat input.txt | python shad_linebreak.py            # stdin -> stdout
 
-    # whole folder, recursive -> writes a ".reflowed" sibling per file
+    # whole folder, recursive -> overwrites each source file in place
     python shad_linebreak.py path/to/folder
     python shad_linebreak.py path/to/folder --ext .md .txt
-    python shad_linebreak.py path/to/folder --suffix .reflowed
 """
 import argparse
 import os
@@ -29,8 +28,9 @@ import re
 import sys
 
 # A shad group: one shad, then any number of (spaces + shad).
-# Either preceded by the yig-mgo header ༄༅ (kept, no break) or standalone (break after).
-PATTERN = re.compile(r'(༄༅\s*།(?:\s*།)*)|(།(?:\s*།)*)')
+# Either preceded by a yig-mgo head mark (any run of ༄ ༅ ༆ ༇, e.g. ༄། །,
+# ༄༅། །, ༄༅༅། །) -> kept, no break; or standalone -> break after.
+PATTERN = re.compile(r'([༄-༇]+\s*།(?:\s*།)*)|(།(?:\s*།)*)')
 
 # A leading YAML frontmatter block: --- on the first line, then content,
 # then a closing --- (or ...) on its own line.
@@ -71,29 +71,21 @@ def process_text(text: str) -> str:
     return front + reflow(body)
 
 
-def sibling_path(path: str, suffix: str) -> str:
-    """foo.md -> foo<suffix>.md"""
-    root, ext = os.path.splitext(path)
-    return root + suffix + ext
-
-
-def process_folder(folder: str, exts, suffix: str) -> int:
+def process_folder(folder: str, exts) -> int:
+    """Recurse folder and overwrite each matching file in place."""
     exts = tuple(e.lower() for e in exts)
     count = 0
     for dirpath, _dirs, files in os.walk(folder):
         for name in sorted(files):
-            root, ext = os.path.splitext(name)
+            _root, ext = os.path.splitext(name)
             if ext.lower() not in exts:
                 continue
-            if root.endswith(suffix):          # skip already-generated siblings
-                continue
-            src = os.path.join(dirpath, name)
-            dst = sibling_path(src, suffix)
-            with open(src, encoding='utf-8') as f:
+            path = os.path.join(dirpath, name)
+            with open(path, encoding='utf-8') as f:
                 text = f.read()
-            with open(dst, 'w', encoding='utf-8') as f:
+            with open(path, 'w', encoding='utf-8') as f:
                 f.write(process_text(text))
-            print(os.path.relpath(dst, folder))
+            print(os.path.relpath(path, folder))
             count += 1
     return count
 
@@ -104,14 +96,12 @@ def main():
     p.add_argument('output', nargs='?', help='output file (single-file mode only)')
     p.add_argument('--ext', nargs='+', default=['.md'],
                    help='folder mode: extensions to process (default: .md)')
-    p.add_argument('--suffix', default='.reflowed',
-                   help='folder mode: sibling suffix (default: .reflowed)')
     args = p.parse_args()
 
-    # folder mode
+    # folder mode -> overwrite each matching file in place
     if args.input and os.path.isdir(args.input):
-        n = process_folder(args.input, args.ext, args.suffix)
-        print(f'\n{n} file(s) processed.', file=sys.stderr)
+        n = process_folder(args.input, args.ext)
+        print(f'\n{n} file(s) processed (overwritten in place).', file=sys.stderr)
         return
 
     # single-file / stdin mode

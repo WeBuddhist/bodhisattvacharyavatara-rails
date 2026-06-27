@@ -68,9 +68,9 @@ Interpretation:
    # Download BoKenlm-syl-v0.4.arpa and place in 4-SYSTEM/models/
    ```
 
-3. **Run the scoring script.** Execute `4-SYSTEM/Skills/tibetan-ocr-quality/score_ocr.py`:
+3. **Run the scoring script.** Execute `4-SYSTEM/Skills/tibetan-ocr-quality/scripts/score_ocr.py`:
    ```
-   python 4-SYSTEM/Skills/tibetan-ocr-quality/score_ocr.py <input-file> [--model <model-path>]
+   python 4-SYSTEM/Skills/tibetan-ocr-quality/scripts/score_ocr.py <input-file> [--model <model-path>]
    ```
 
 4. **Report the result.** Present the perplexity score and a brief interpretation to the user.

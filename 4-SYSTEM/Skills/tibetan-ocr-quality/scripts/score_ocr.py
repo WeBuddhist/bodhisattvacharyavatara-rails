@@ -122,50 +122,50 @@ def _normalize_invalid_start_string(s):
 
 
 def _normalize_unicode(s, form="nfd"):
-    s = s.replace("ཱི", "ཱི")
-    s = s.replace("ཱུ", "ཱུ")
+    s = s.replace("ཱི", "ཱི")
+    s = s.replace("ཱུ", "ཱུ")
     s = s.replace("ཷ", "ྲཱྀ")
     s = s.replace("ཹ", "ླཱྀ")
-    s = s.replace("ཱྀ", "ཱྀ")
+    s = s.replace("ཱྀ", "ཱྀ")
     if form == "nfd":
-        s = s.replace("གྷ", "གྷ")
+        s = s.replace("གྷ", "གྷ")
         s = s.replace("཈", "ཇྷ")
-        s = s.replace("ཌྷ", "ཌྷ")
-        s = s.replace("དྷ", "དྷ")
-        s = s.replace("བྷ", "བྷ")
-        s = s.replace("ཛྷ", "ཛྷ")
-        s = s.replace("ཀྵ", "ཀྵ")
-        s = s.replace("ྲྀ", "ྲྀ")
-        s = s.replace("ླྀ", "ླྀ")
-        s = s.replace("ྒྷ", "ྒྷ")
+        s = s.replace("ཌྷ", "ཌྷ")
+        s = s.replace("དྷ", "དྷ")
+        s = s.replace("བྷ", "བྷ")
+        s = s.replace("ཛྷ", "ཛྷ")
+        s = s.replace("ཀྵ", "ཀྵ")
+        s = s.replace("ྲྀ", "ྲྀ")
+        s = s.replace("ླྀ", "ླྀ")
+        s = s.replace("ྒྷ", "ྒྷ")
         s = s.replace("྘", "ྗྷ")
-        s = s.replace("ྜྷ", "ྜྷ")
-        s = s.replace("ྡྷ", "ྡྷ")
-        s = s.replace("ྦྷ", "ྦྷ")
-        s = s.replace("ྫྷ", "ྫྷ")
-        s = s.replace("ྐྵ", "ྐྵ")
+        s = s.replace("ྜྷ", "ྜྷ")
+        s = s.replace("ྡྷ", "ྡྷ")
+        s = s.replace("ྦྷ", "ྦྷ")
+        s = s.replace("ྫྷ", "ྫྷ")
+        s = s.replace("ྐྵ", "ྐྵ")
     else:
-        s = s.replace("གྷ", "གྷ")
-        s = s.replace("ཌྷ", "ཌྷ")
-        s = s.replace("དྷ", "དྷ")
-        s = s.replace("བྷ", "བྷ")
-        s = s.replace("ཛྷ", "ཛྷ")
-        s = s.replace("ཀྵ", "ཀྵ")
-        s = s.replace("ྲྀ", "ྲྀ")
-        s = s.replace("ླྀ", "ླྀ")
-        s = s.replace("ྒྷ", "ྒྷ")
-        s = s.replace("ྜྷ", "ྜྷ")
-        s = s.replace("ྡྷ", "ྡྷ")
-        s = s.replace("ྦྷ", "ྦྷ")
-        s = s.replace("ྫྷ", "ྫྷ")
-        s = s.replace("ྐྵ", "ྐྵ")
+        s = s.replace("གྷ", "གྷ")
+        s = s.replace("ཌྷ", "ཌྷ")
+        s = s.replace("དྷ", "དྷ")
+        s = s.replace("བྷ", "བྷ")
+        s = s.replace("ཛྷ", "ཛྷ")
+        s = s.replace("ཀྵ", "ཀྵ")
+        s = s.replace("ྲྀ", "ྲྀ")
+        s = s.replace("ླྀ", "ླྀ")
+        s = s.replace("ྒྷ", "ྒྷ")
+        s = s.replace("ྜྷ", "ྜྷ")
+        s = s.replace("ྡྷ", "ྡྷ")
+        s = s.replace("ྦྷ", "ྦྷ")
+        s = s.replace("ྫྷ", "ྫྷ")
+        s = s.replace("ྐྵ", "ྐྵ")
     s = s.replace("ༀ", "ཨོཾ")
     s = s.replace("ཅ༹", "ཙ")
     s = s.replace("ཆ༹", "ཚ")
     s = s.replace("ཇ༹", "ཛ")
     s = _unicode_reorder(s)
     s = re.sub(
-        "ཪ(?![ྐ-ྗྚ-ྫྷྮྯྴ-ྼ])",
+        "ཪ(?![ྐ-ྗྚ-ྫྷྮྯྴ-ྼ])",
         "ར", s,
     )
     s = _normalize_invalid_start_string(s)
@@ -418,7 +418,7 @@ def normalize_for_perplexity(text, space_sskt=True, fold_sskt=False):
     """
     text = _normalize_corpus(text)
 
-    # 1) NYIS TSHEG → TSHEG, collapse runs
+    # 1) NYIS TSHEG -> TSHEG, collapse runs
     text = text.replace("࿒", "་")
     text = _MULTI_TSHEG_RE.sub("་", text)
 
@@ -428,10 +428,10 @@ def normalize_for_perplexity(text, space_sskt=True, fold_sskt=False):
     # 3) Normalize nasalization marks
     text = text.replace("ྂ", "ཾ").replace("ྃ", "ཾ")
 
-    # 3.5) Typographic shad for ག/ཤ/ཀ at line end
+    # 3.5) Typographic shad for ga/sha/ka at line end
     text = _GA_SHA_KA_NL_RE.sub(r"\1།\n", text)
 
-    # 4) Tibetan letter before newline → insert tsheg
+    # 4) Tibetan letter before newline -> insert tsheg
     text = _LETTER_BEFORE_NL_RE.sub(r"\1་\n", text)
 
     # 5) Drop newlines
@@ -440,13 +440,13 @@ def normalize_for_perplexity(text, space_sskt=True, fold_sskt=False):
     # 6) Drop yig-mgo marks
     text = _YIG_MGO_RE.sub("", text)
 
-    # 7) Digit runs → placeholder D
+    # 7) Digit runs -> placeholder D
     text = _DIGIT_RUN_RE.sub("D", text)
 
     # 8) Strip non-Tibetan (keep D and spaces)
     text = _NON_TIBETAN_RE.sub(" ", text)
 
-    # 9) Punctuation/space runs → shad token
+    # 9) Punctuation/space runs -> shad token
     text = _PUNCT_OR_SPACE_RE.sub(" ། ", text)
 
     # 9b) Isolate brackets
@@ -459,7 +459,7 @@ def normalize_for_perplexity(text, space_sskt=True, fold_sskt=False):
     if space_sskt or fold_sskt:
         text = _process_sskt(text, space_sskt, fold_sskt)
 
-    # 10) Tshegs → spaces
+    # 10) Tshegs -> spaces
     text = text.replace("་", " ")
     text = _MULTI_SPACE_RE.sub(" ", text)
 
@@ -505,7 +505,7 @@ def score_file(input_path, model_path):
         )
         sys.exit(1)
 
-    # Split into sentences on shad (།)
+    # Split into sentences on shad
     sentences = [s.strip() for s in normalized.split("།") if s.strip()]
     if not sentences:
         print("ERROR: No sentences found after normalization.", file=sys.stderr)

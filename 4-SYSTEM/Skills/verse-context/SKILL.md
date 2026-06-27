@@ -1,35 +1,40 @@
 ---
 name: verse-context
-description: Build the verse-level context file for one verse — transclude relevant commentary passages, synthesise commentators' interpretations in the original language, and write a disambiguated restatement of the verse in the original language (Pali) precise enough to exclude any mistranslation. Output goes to 2-RAILS/Verses/<verse-id>.md.
+description: Build the verse-level context package for one verse of the Bodhisattvacaryāvatāra. Transcludes the Sanskrit and Tibetan root verse, paraphrases each commentary's reading (English), then compiles the Tibetan descriptive layers the transformations consume — an AI-Overview synthesis, a chendrel (ཚིག་འགྲེལ) word-commentary, word-by-word disambiguation, key concepts, attached stories, metaphors, scriptural quotations, and a disambiguated restatement. Output goes to 2-RAILS/Verses/<verse-id>.md.
 ---
 
 # verse-context
 
-This skill produces the **verse-level factual context** that the translation skill works from. It is the single most important rail for defusing the hallucination failure mode: the translator never sees the raw verse alone, it sees a disambiguated version of the verse — a restatement in the original language so precise that no misreading of the Pali is possible.
+Produces the **verse-level descriptive context** that every downstream transformation (translation, adaptation, study plan) works from. The translator never sees the bare verse: it sees the disambiguated restatement plus the chendrel, the concepts, the stories, and the cited synthesis. This is the rail that defuses hallucination — every interpretive decision is made and cited here, once, before any output is generated.
 
-The file has three sections, produced in order:
+Authoritative schema: [`2-RAILS/About Rails.md`](../../../2-RAILS/About%20Rails.md) §5. Vault conventions (commentary IDs, language tracks, addressing): [`4-SYSTEM/Docs/vault-annex.md`](../../Docs/vault-annex.md). When this skill and `About Rails.md` disagree, **About Rails wins**.
 
-1. **Commentary passages** — transcluded directly from `1-SOURCES/` (no rewriting).
-2. **Synthesis** — per-commentary interpretive prose in the original language, plus a divergences block where commentaries disagree.
-3. **Disambiguated verse** — the verse restated in the original language with every ambiguity resolved according to the Synthesis.
+---
+
+## Language rule
+
+- **Traditional Interpretation** — English paraphrase, one subsection per commentary.
+- **Every other section is in Tibetan**: AI Overview, Chendrel, Word-by-word Disambiguation, Key Concepts, Stories, Metaphors, Quotations, and the Disambiguated Restatement.
+- Quotations are verbatim Tibetan. Never translate scripture in the rail — that is a transformation's job.
+
+This follows the vault-annex convention: the primary analysis language for `2-RAILS/` is Tibetan; only the cross-tradition paraphrase is held in English so coverage is legible at a glance.
 
 ---
 
 ## Inputs
 
-- **Verse ID** — block ID of the verse in the root text, without the caret (e.g. `1-1`, `1-15`).
-- **Root-text file** — `1-SOURCES/Text/<root-text>.md` (e.g. `pi-dhammasangani.md`).
-- **Commentary files** — all relevant `1-SOURCES/Commentaries/*.md` files that discuss this verse. For Dhammasaṅgaṇī this typically includes the aṭṭhakathā, mūlaṭīkā, and anuṭīkā.
+- **Verse ID** — block ID of the verse, no caret (e.g. `1-1`, `6-33`). Per-chapter numbering.
+- **Sanskrit root** — `1-SOURCES/Text/BCAV08_SH_sk.md#^<verse-id>`.
+- **Tibetan root** — `1-SOURCES/Text/<bo-root-text>.md#^<verse-id>` (transclude; if the Tibetan root-text file does not yet carry this block, the Tibetan verse must be added to a root-text file under `1-SOURCES/Text/` first — do not paste the verse into the rail).
+- **Commentary files** — every relevant `1-SOURCES/Commentaries/*.md`. For this verse, prefer:
+  - a **word-commentary / annotation** (*mchan-'grel*) source for the Chendrel and disambiguation (e.g. `BCAC19_KS_bo`);
+  - **story commentaries** (*gtam-rgyud* / *sgrung-'grel*) for the Stories (e.g. `BCACXX_WR_bo`, `BCAC13_KTB_bo`);
+  - scholarly commentaries for the paraphrase and concepts.
+  Use the `registered_id` from the vault annex to attribute every claim.
 
 ## Output
 
-One file at:
-
-```
-2-RAILS/Verses/<verse-id>.md
-```
-
-If the file exists, update in place. Never overwrite a manually edited Synthesis without first checking that the manual edit is still supported by the underlying commentary transclusions.
+One file at `2-RAILS/Verses/<verse-id>.md`. Update in place if it exists; never overwrite a hand-edited Tibetan section without confirming the edit is still supported by the cited blocks.
 
 ---
 
@@ -37,122 +42,172 @@ If the file exists, update in place. Never overwrite a manually edited Synthesis
 
 ```markdown
 ---
-verse_id: <e.g. 1-1>
-root_text: 1-SOURCES/Text/<root-text>.md
-root_block: ^<verse-id>
-language: <pi | sa | ...>
-commentaries: [<commentary-name>, <commentary-name>, ...]
+ref: <e.g. 1-1>
+unit_type: single | group | template | instance
+unit_verses: [<verse-id>]
+commentary_coverage: [<id>, <id>, …]
+tradition_coverage: [<tradition>, …]
+concepts_in_verse: [<བོད་སྐད་ term> (gloss), …]
+concepts_in_commentary: [<བོད་སྐད་ term> (gloss), …]
+stories: [<story name>, …]
+layer_order: [traditional, ai-overview, chendrel, word-disambiguation, concepts, stories, metaphors, quotations]
 status: draft
 ---
 
-## Verse
+## Source Text
 
-![[1-SOURCES/Text/<root-text>.md#^<verse-id>]]
+### Sanskrit
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^<verse-id>]]
 
-## Commentary passages
+### Tibetan
+![[1-SOURCES/Text/<bo-root-text>.md#^<verse-id>]]
 
-### <commentary-name>
+**Variants**
+[Ed: …]
 
-![[1-SOURCES/Commentaries/<commentary-name>.md#^<block-id>]]
-![[1-SOURCES/Commentaries/<commentary-name>.md#^<block-id>]]
+## Traditional Interpretation
 
-### <next commentary-name>
-
-![[1-SOURCES/Commentaries/<commentary-name>.md#^<block-id>]]
-
-## Synthesis (original language)
-
-### <commentary-name>
-
-<original-language prose summarising how this commentary reads the verse:
-what each word refers to, which compound is read which way, which sense of
-an ambiguous term is active, which referent each pronoun has. Every claim
-ends with a citation to the source block.>
-(1-SOURCES/Commentaries/<commentary-name>.md#^<block-id>)
-
-### <next commentary-name>
-
-<same shape, in the original language.>
-
-### Consensus
-
-<one paragraph in the original language stating what all commentaries agree
-on for this verse — referents, sense selections, compound readings.>
+### <id> — <Commentary full name> (<language>)
+<English paraphrase; every claim cited.>
+(1-SOURCES/Commentaries/<id>.md#^<block>)
 
 ### Divergences
+<only where commentaries genuinely disagree; each position attributed, ⚑.>
 
-<only if commentaries disagree. One bullet per divergence:>
+## AI Overview (བསྡུས་དོན།)
 
-- **<token or phrase>** — <commentary-A> reads ... ⚑; <commentary-B> reads ... ⚑.
-  (1-SOURCES/Commentaries/<commentary-A>.md#^<block-id>)
-  (1-SOURCES/Commentaries/<commentary-B>.md#^<block-id>)
+**ངོ་སྤྲོད་མདོར་བསྡུས།** <one–two Tibetan sentences: what the verse says.>
+(1-SOURCES/Commentaries/<id>.md#^<block>)
 
-## Disambiguated verse (original language)
+**གནད་དོན་གཙོ་བོ།**
+- <key point, Tibetan> (1-SOURCES/Commentaries/<id>.md#^<block>)
+- <key point, Tibetan> (1-SOURCES/Commentaries/<id>.md#^<block>)
 
-<restatement of the verse in the original language. Every ambiguity that the
-commentaries resolve is resolved here too. Where commentaries diverge, give
-the Consensus reading and footnote the alternatives. This is the text the
-translation skill works from — not the bare verse above.>
+## Chendrel — ཚིག་འགྲེལ
 
-(1-SOURCES/Commentaries/<commentary-name>.md#^<block-id>)
-(1-SOURCES/Commentaries/<commentary-name>.md#^<block-id>)
+<running Tibetan word-commentary: each phrase of the root verse with its gloss
+woven inline, mchan-'grel style.>
+(1-SOURCES/Commentaries/<mchan-grel-id>.md#^<block>)
+
+## Word-by-word Disambiguation (ཚིག་དོན་གསལ་བཤད།)
+
+- **<root word/phrase>** — <Tibetan disambiguating gloss.>
+  (1-SOURCES/Commentaries/<id>.md#^<block>)
+
+## Key Concepts (ཆོས་ཀྱི་གནད་ཚིག)
+
+### ཚིགས་བཅད་ནང་གི་གནད་ཚིག
+- **<term>** (<gloss>) — <Tibetan note.>
+  (1-SOURCES/Commentaries/<id>.md#^<block>) · [[2-RAILS/Local-Wiki/<term>_(<disambiguator>).md]]
+
+### འགྲེལ་པ་ནས་འབྱུང་བའི་གནད་ཚིག
+- **<term>** (<gloss>) — <Tibetan note.>
+  (1-SOURCES/Commentaries/<id>.md#^<block>) · [[2-RAILS/Local-Wiki/<term>_(<disambiguator>).md]]
+
+## Stories (སྒྲུང་།)
+
+- **<story name>** — <Tibetan précis; which phrase it illustrates.>
+  (1-SOURCES/Commentaries/<story-id>.md#^<block>)
+
+## Metaphors (དཔེ།)
+
+- **<image>** → <tenor.> <how the commentary develops it.>
+  (1-SOURCES/Commentaries/<id>.md#^<block>)
+
+## Quotations (ལུང་།)
+
+> <verbatim Tibetan scripture>
+> — <scripture as named by the commentary>
+> (1-SOURCES/Commentaries/<id>.md#^<block>)
+
+## Disambiguated Restatement (Tibetan)
+
+<short Tibetan rewrite of the verse with every ambiguity the synthesis
+resolved made explicit. Cite the blocks that authorise each choice.>
+(1-SOURCES/Commentaries/<id>.md#^<block>)
+
+## Concept Links
+- [[2-RAILS/Local-Wiki/<term>_(<disambiguator>).md]]
 ```
 
 ---
 
 ## Rules
 
-1. **Three sections, fixed order: passages → synthesis → disambiguated verse.** The disambiguated verse is the output of the synthesis; never write it first.
-2. **The Verse block transcludes the root text.** It never copies it. If the root-text file does not have the verse block ID, fix the root text first using `format-root-text` — do not work around it.
-3. **Commentary passages are transclusions, not paraphrases.** Use `![[...#^block-id]]`. The translator can click through to the full block.
-4. **Synthesis is one subsection per commentary, then a Consensus subsection, then Divergences if needed.** Per-commentary subsections preserve responsibility; Consensus collapses agreement; Divergences flag splits.
-5. **All Synthesis prose is in the original language.** No English. No translation aside.
-6. **The Disambiguated verse is in the original language only.** Pali for the Dhammasaṅgaṇī. The point of this section is to give the translator a version of the Pali in which no further interpretive decision is required — referents fixed, compounds parsed, ambiguous senses chosen.
-7. **Every claim in the Synthesis and every choice in the Disambiguated verse is cited** to a source-block ID in `1-SOURCES/Commentaries/`.
-8. **Divergences are not flattened.** If commentaries disagree on a referent and there is no consensus, the Disambiguated verse follows the most widely attested reading and footnotes the others as ⚑ alternatives — it never silently chooses.
+1. **Required sections always present:** Source Text, Traditional Interpretation, AI Overview, Disambiguated Restatement. The rest are populated where the commentaries supply material and **omitted otherwise** (a verse with no attached story drops the Stories section — do not write an empty heading).
+2. **Both languages in Source Text.** Transclude the Sanskrit and the Tibetan root blocks; never copy them. If a block ID is missing in a root-text file, fix the root text first.
+3. **Traditional Interpretation is the cited anchor.** The AI Overview is its Tibetan compression — every claim in the Overview must trace to a paraphrase that is itself cited. Do not introduce a claim in the Overview that is not in Traditional Interpretation.
+4. **Chendrel uses a word-commentary source.** It is not your own gloss — it re-presents an attested *mchan-'grel* / annotation reading as running word-commentary, cited to its blocks.
+5. **Word-by-word disambiguation only for non-obvious choices** — sense selection, compound parsing, referent. Skip obvious tokens.
+6. **Stories are précis, not invention.** Only narratives a commentary actually attaches to the verse; name the story and cite the block.
+7. **Quotations are verbatim and attributed.** Reproduce the Tibetan as the commentary gives it; name the scripture the commentary names; cite the commentary block that adduces it.
+8. **Every claim cites a `1-SOURCES/` block.** No parametric knowledge. Uncited field → leave blank, `status: draft`.
+9. **Divergences are never flattened.** ⚑ each position; the Disambiguated Restatement follows the best-attested reading and footnotes the alternatives.
+10. **`status: draft` always.** The LLM never sets `complete`; a domain specialist does.
 
 ---
 
 ## Procedure
 
-1. Read the root-text verse block.
-2. For each commentary file, locate every block that discusses this verse. The discussion may span several non-contiguous blocks. Record all relevant block IDs.
-3. Draft the **Verse** section: one transclusion of the root block.
-4. Draft the **Commentary passages** section: one subsection per commentary, transcluding every relevant block in source order.
-5. Draft the **Synthesis** section, one commentary subsection at a time. Each subsection states, in the original language: what each word refers to, how each compound is parsed, which sense of ambiguous terms is active, what each pronoun's antecedent is. Cite every claim.
-6. Write the **Consensus** subsection — the original-language paragraph that states what every commentary agrees on.
-7. If genuine divergences exist, write the **Divergences** subsection. Both readings, both flags ⚑, both cited.
-8. Draft the **Disambiguated verse**. Rewrite the verse in the original language so that every ambiguity the Synthesis resolved is explicit. Cite the commentary blocks that authorise each disambiguation.
-9. Fill the frontmatter. Set `status: draft`.
-10. Write the file to `2-RAILS/Verses/<verse-id>.md`.
+1. Read the Sanskrit and Tibetan root blocks. Confirm both block IDs exist; if the Tibetan root file lacks the block, stop and fix the root text.
+2. For each commentary, locate every block discussing this verse (may be non-contiguous). Record block IDs and the `registered_id`.
+3. Write **Traditional Interpretation** — one English subsection per commentary, each claim cited. Add **Divergences** if any.
+4. Write the **AI Overview** in Tibetan from the paraphrases (see prompt below).
+5. Build the **Chendrel** from the annotation source; **Word-by-word Disambiguation** for non-obvious tokens.
+6. Fill **Key Concepts** (in-verse / from-commentary), **Stories**, **Metaphors**, **Quotations** — each from a cited block; omit any section with no material.
+7. Write the **Disambiguated Restatement** in Tibetan.
+8. Fill frontmatter; set `status: draft`. Add **Concept Links**.
+9. Write to `2-RAILS/Verses/<verse-id>.md`.
 
 ---
 
-## What "disambiguation" looks like in practice
+## AI Overview — generation prompt
 
-Pali bare verse:
+The AI Overview reproduces the experience of a Google "AI Overview" answer box, in Tibetan, over the commentary corpus. Generate it with this prompt:
 
-> *kusalā dhammā*
-
-This phrase is famously underspecified — what counts as *kusalā*, what scope of *dhammā*, are they nominative or accusative here? A disambiguated version draws on the commentaries to fix all three:
-
-> *kusalā dhammā* (nominative plural, masculine; *kusalā* in the sense of
-> "free of fault and producing pleasant result" per the aṭṭhakathā ⚑; *dhammā*
-> in the sense of "mental states classified by the Dhammasaṅgaṇī mātikā",
-> excluding the meaning "doctrines" and excluding the meaning "phenomena
-> generally" — the mūlaṭīkā confirms this scoping).
-
-Every parenthetical above is grounded in a commentary citation. That is the level of resolution this section aims for.
+> You are compiling the **AI Overview** block for one verse package. Your only
+> sources are the per-commentary paraphrases already written in this file's
+> **Traditional Interpretation** section, each of which is cited to a
+> `1-SOURCES/` block. Do not use any knowledge outside those paraphrases.
+>
+> Write in **Tibetan**. Produce, in this order:
+>
+> 1. **ངོ་སྤྲོད་མདོར་བསྡུས། (the direct answer)** — one or two sentences that
+>    answer "what does this verse say?" as the commentaries collectively read
+>    it. Lead with the conclusion, the way an AI Overview opens with the
+>    answer before the detail. Neutral, synthetic voice — not "commentary X
+>    says," but the settled reading. End the sentence(s) with the source
+>    citation(s) they rest on.
+>
+> 2. **གནད་དོན་གཙོ་བོ། (key points)** — three to six short bullets, each a
+>    single scannable idea (a referent fixed, a term's sense chosen, the
+>    verse's function in the chapter, a concept introduced). Each bullet ends
+>    with the `(1-SOURCES/Commentaries/<id>.md#^<block>)` source(s) it draws
+>    on — the inline-citation feel of an AI Overview's linked snippets. Where
+>    a point aggregates several commentaries, cite all of them.
+>
+> Constraints matching the AI-Overview style:
+> - **Synthesise, attribute by citation.** The prose reads as one voice;
+>   attribution lives in the trailing source links, not in the sentence.
+> - **Lead with the answer, keep it skimmable.** Short sentences, short
+>   bullets, no throat-clearing.
+> - **Surface disagreement, don't hide it.** If the commentaries split on a
+>   point, say so in that bullet and mark it ⚑, citing each side — an AI
+>   Overview flags "it depends," it does not fabricate consensus.
+> - **Every claim is grounded.** If a statement cannot be traced to a cited
+>   paraphrase above, cut it.
 
 ---
 
 ## Completion check
 
-- [ ] `verse_id`, `root_block`, and `language` set in frontmatter
-- [ ] Verse block transcludes (does not copy) the root text
-- [ ] Every commentary that mentions this verse appears as a subsection under Commentary passages
-- [ ] Synthesis has one subsection per commentary + Consensus + (Divergences, if any)
-- [ ] Every Synthesis claim ends with a `(1-SOURCES/Commentaries/...#^...)` citation
-- [ ] Disambiguated verse is in the original language only
-- [ ] Every disambiguating decision in the Disambiguated verse has a supporting citation
-- [ ] Genuine commentary disagreements appear in Divergences with ⚑ on each position
+- [ ] Frontmatter complete; `status: draft`.
+- [ ] Source Text transcludes both Sanskrit and Tibetan (not copied).
+- [ ] Traditional Interpretation: one English subsection per commentary, every sentence cited; Divergences ⚑ where they exist.
+- [ ] AI Overview in Tibetan: direct answer + key points, every line cited, ⚑ on splits, nothing beyond the paraphrases above.
+- [ ] Chendrel drawn from a cited word-commentary source (or section omitted).
+- [ ] Word-by-word disambiguation only for non-obvious tokens, each cited.
+- [ ] Key Concepts: in-verse and from-commentary, cited and Local-Wiki-linked.
+- [ ] Stories / Metaphors / Quotations populated from cited blocks, omitted where absent; quotations verbatim Tibetan.
+- [ ] Disambiguated Restatement in Tibetan, each choice cited.
+- [ ] Concept Links present for every key term.

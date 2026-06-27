@@ -1,5 +1,5 @@
 ---
-book_id: BCAC19_KZ_bo
+book_id: BCAC19_KS_bo
 title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ཞེས་བྱ་བའི་མཆན་འགྲེལ།
 title_in_english: Annotation Commentary on Entering the Bodhisattva's Way of Life
 author: གཞན་ཕན་བྱམས་པའི་གོ་ཆ།

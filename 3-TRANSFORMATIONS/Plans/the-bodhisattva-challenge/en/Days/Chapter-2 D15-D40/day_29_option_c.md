@@ -7,7 +7,7 @@ option: C
 angle: "We are a sudden guest — arriving having left everything behind, leaving the same way; not seeing this, the three poisons drive the wrongs; lead on verse 38, Sazang Mati Panchen"
 generation_note: "No en-ai or 2-RAILS material exists for Chapter 2. English verses from 1-SOURCES/Translations/en-David_Karma_Choephel.md (^2-36, ^2-37, ^2-38). Tibetan verses from 1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md (^2-36, ^2-37, ^2-38). From the Tradition grounded in Sazang Mati Panchen (1-SOURCES/Commentaries/BCAC14_SMPLG_bo.md, the Rab-gsal-snang-ba): verse 36 — just as the joys and sorrows of a dream become mere memory on waking and are not directly seen, so the defiled things we enjoyed (fighting enemies, keeping company with friends, eating, amassing wealth) become 'I experienced such and such', mere objects of memory; verse 38 (the day's lead) — 'I am like a sudden guest, who came having left everything behind from former lives and goes leaving everything behind to future lives'; not realizing this, through the three poisons (delusion about what to take up or drop, attachment to one's own side, aversion to the other side) I did many wrongs such as killing, so confess with deep regret; and 'in a sudden life, who can be trusted?'. The benefit (recognizing the sudden, transient nature of life, one drops attachment and aversion and swiftly enters the path of virtue) is from the user-provided English translation of the Tibetan plan (bo/Chapter-2 D15-D40, Day 29, Ch2 V36-38). Interim; needs domain-specialist review before status: complete."
 ---
-
+ 
 # Day 29 — A guest who travels light
 
 > **Notification**

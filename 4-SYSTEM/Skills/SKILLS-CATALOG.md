@@ -93,7 +93,7 @@ These skills populate `2-RAILS/` with the structured context that translation an
 ### `verse-context` **[exists]**
 **Purpose:** Build the verse-level context file for one verse.
 **Inputs:** Root-text verse (from `1-SOURCES/`), all commentary passages that discuss it (via block transclusions from `1-SOURCES/`).
-**Outputs:** One file at `2-RAILS/Verses/<verse-id>.md` containing: (1) transclusions of commentary passages, (2) a synthesis of the commentators' interpretations in the original language, (3) a disambiguated restatement of the verse in the original language precise enough to exclude any mistranslation.
+**Outputs:** One file at `2-RAILS/Verses/<verse-id>.md` with: Sanskrit + Tibetan source transclusions; per-commentary English paraphrase (Traditional Interpretation) + Divergences; and the Tibetan descriptive layers — an AI-Overview synthesis (generation prompt lives in the skill), a chendrel (ཚིག་འགྲེལ) word-commentary replacing the old UCCA layer, word-by-word disambiguation, key concepts (in-verse / from-commentary), attached stories, metaphors, scriptural quotations, and a disambiguated restatement. Format is authoritative in `2-RAILS/About Rails.md` §5.
 → [`verse-context/SKILL.md`](verse-context/SKILL.md)
 
 ### `local-wiki-article` **[exists]**

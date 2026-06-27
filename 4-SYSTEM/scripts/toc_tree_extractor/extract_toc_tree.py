@@ -251,11 +251,18 @@ INPUT 1 — CANDIDATES: extracted section headers. Each block looks like:
     CONTEXT: <surrounding Tibetan>
     SECTION_TITLE: <ordinal + topic name, trailing particle/division phrase stripped,
                     e.g. གཉིས་པ་འགྱུར་ཕྱག་>
-    LINE: <source line number where the section title appears>
+    LINE: <source line number where the section node header opens>
     ITEMS:
-    1. <first named sub-part>
-    2. <second named sub-part>
+    1. [[N]]<first named sub-part>
+    2. [[N]]<second named sub-part>
     (ITEMS may be a single line "[implicit]" when sub-parts are not stated)
+
+CRITICAL RULE FOR ITEMS:
+Every item listed under ITEMS: is a DIRECT CHILD of its parent SECTION_TITLE — always
+one level deeper, never promoted to a higher level. The [[N]] prefix on each item is
+its source line number; use it as the [[line]] suffix for that child node in the tree.
+Do NOT add Tibetan ordinals (དང་པོ་, གཉིས་པ་, གསུམ་པ་, ...) to item text unless the
+item text itself already starts with one. Do not invent ordinals.
 
 INPUT 2 — ENUMERATIONS: the author's division announcements, copied VERBATIM from the
 source (no interpretation). They are grouped into blocks like:
@@ -333,11 +340,13 @@ HOW TO INFER HIERARCHY (read the Tibetan, do not guess from candidate order alon
    Bracket/parenthetical markers (༡༽, ༢༽, ཀ༽, ཁ༽) follow the same logic.
    A series restarts when a new parent is introduced.
 
-2. An "announcement" candidate that introduces sub-items (ends in a count such as
-   གཉིས་ཏེ། / གསུམ་སྟེ། / བཞི་ལས། / ...ལ།) is a PARENT. Its named ITEMS become its
-   direct children, one level deeper. Each child that is itself later announced and
-   subdivided becomes a parent in turn — match a child to the announcement that
-   re-states and divides it.
+2. An "announcement" candidate that introduces sub-items is a PARENT. Its ITEMS are
+   its DIRECT CHILDREN, always one level deeper — never at the same level or above.
+   Use the [[N]] line number from each item as the child's [[line]] suffix.
+   If an item text itself starts with a Tibetan ordinal (དང་པོ་, གཉིས་པ་, གསུམ་པ་ ...),
+   keep it; otherwise emit the item text exactly as written with NO added ordinal.
+   Each child that is itself later announced and subdivided becomes a parent in turn —
+   match it to the announcement candidate that re-states and divides it.
 
 3. When a peer ordinal reappears (e.g. གཉིས་པ་ after a run of children), return to
    the depth of the matching དང་པོ་ that opened that sibling series.
@@ -353,6 +362,10 @@ CLEAN each display string:
      part carries a Tibetan ordinal, leave the text without one (the decimal still numbers it).
    - strip leading bullets, bracket markers (༡༽ ཀ༽ ...), and Tibetan decimal labels
    - strip trailing block IDs (^...) and wiki-link wrappers ([[#^id|text]] -> text)
+   - strip the [[N]] line-number prefix from ITEMS text (it becomes the [[line]] suffix
+     on that node, not part of the display title)
+   - NEVER add a Tibetan ordinal to a node whose source text (item or candidate) does
+     not already start with one — the decimal number is sufficient
    - KEEP ONLY THE TITLE. Strip everything after the topic name: the division clause that
      announces sub-parts (ལ་གཉིས་ཏེ། / ལ་གསུམ་ལས། / ལ་བཞི། / ...སྟེ། / ...ལས།) and trailing
      grammatical particles / connectives (ནི། / ནི / ལ། / འོ། / པོ། / སྟེ། / དང་). Examples:
@@ -385,9 +398,11 @@ FORMAT RULES (follow exactly):
    - cover the whole document; do not drop branches. Output Tibetan, no English,
      no commentary, no code fences.
    - no trailing particle, no ། , no ⟨gap⟩ or any other marker on any entry.
-   - EVERY entry MUST end with [[<line>]] where <line> is the LINE: number from the
-     matching candidate block. For nodes inserted from enumerations (no candidate),
-     write [[?]]. Never omit the [[...]] suffix.
+   - EVERY entry MUST end with [[<line>]] where <line> is:
+       • the LINE: number from the matching candidate's SECTION_TITLE, OR
+       • the [[N]] prefix from the ITEMS list entry for that child node.
+     For nodes inserted from enumerations with no line number, write [[?]].
+     Never omit the [[...]] suffix.
 """
 
 TREE_USER_PROMPT_TEMPLATE = """\
@@ -938,6 +953,132 @@ def qc_check_tree(tree_text: str, corpus_text: str = ""):
 # ------------------------------------------------------------------------------
 # Helpers
 # ------------------------------------------------------------------------------
+# Item-line annotation
+# ------------------------------------------------------------------------------
+_TSHEG_SIMPLE = "་"
+_SHAD_WS_RE = re.compile(r"[།༎༏༐༑༒༔\s]+")
+
+def _tib_simple_canon(s: str) -> str:
+    """Lightweight Tibetan canonicalisation for item-line search."""
+    s = _SHAD_WS_RE.sub(_TSHEG_SIMPLE, s)
+    s = re.sub(re.escape(_TSHEG_SIMPLE) + "+", _TSHEG_SIMPLE, s)
+    return s.strip(_TSHEG_SIMPLE)
+
+
+def _parse_context_line_map(context_text: str) -> dict[int, str]:
+    """Parse a CONTEXT field that contains embedded line numbers from the numbered
+    chunk text (e.g. '1433: ཆོས་...གསུམ། 1434: རགོལ་བ་དགོད་པ་དང་།').
+    Returns {line_no: text_snippet} for every 'N:' segment found."""
+    result = {}
+    parts = re.split(r'\b(\d+):\s*', context_text)
+    # parts = [pre, line_no, text, line_no, text, ...]
+    i = 1
+    while i < len(parts) - 1:
+        try:
+            ln = int(parts[i])
+            result[ln] = parts[i + 1]
+        except (ValueError, IndexError):
+            pass
+        i += 2
+    return result
+
+
+def _find_item_line(source_lines: list[str], item_text: str, section_line_1based: int,
+                    context_line_map: dict[int, str] | None = None,
+                    min_syllables: int = 1) -> int | None:
+    """Return the 1-based source line number where item_text appears.
+
+    Strategy 1 — CONTEXT map (fast, exact):
+      The CONTEXT field already contains 'N: text' snippets copied directly from the
+      numbered source. Check each line in the map; if item_text appears in that
+      snippet, return N immediately.  This avoids Unicode mismatch between Gemini's
+      paraphrase and the source file.
+
+    Strategy 2 — full-file fuzzy search (fallback):
+      Scan the entire source, collect all matching lines, return the one nearest to
+      section_line_1based.  Uses longest-prefix syllable matching so minor trailing
+      differences (dropped particles, shad variants) don't prevent a match."""
+
+    canon_item = _tib_simple_canon(item_text)
+    sylls = [s for s in canon_item.split(_TSHEG_SIMPLE) if s]
+    if not sylls:
+        return None
+
+    # ── Strategy 1: look in the CONTEXT line map ─────────────────────────────
+    if context_line_map:
+        for ln, snippet in sorted(context_line_map.items()):
+            if canon_item in _tib_simple_canon(snippet):
+                return ln
+        # Shorter prefix fallback within the CONTEXT map
+        for prefix_len in range(len(sylls) - 1, min_syllables - 1, -1):
+            needle = _TSHEG_SIMPLE.join(sylls[:prefix_len])
+            for ln, snippet in sorted(context_line_map.items()):
+                if needle in _tib_simple_canon(snippet):
+                    return ln
+
+    # ── Strategy 2: full-file fuzzy search ───────────────────────────────────
+    needles = [
+        _TSHEG_SIMPLE.join(sylls[:n])
+        for n in range(len(sylls), min_syllables - 1, -1)
+    ]
+    matches: list[int] = []
+    for i, raw_line in enumerate(source_lines):
+        canon_line = _tib_simple_canon(raw_line)
+        for needle in needles:
+            if needle in canon_line:
+                matches.append(i + 1)
+                break
+    if not matches:
+        return None
+    return min(matches, key=lambda ln: (abs(ln - section_line_1based), ln))
+
+
+# Parses "1. some text" or "1. [[N]]some text" from an ITEMS block
+_ITEM_LINE_RE = re.compile(r"^(\d+\.\s*)(?:\[\[[\w?]*\]\])?(.*)", re.MULTILINE)
+
+# Parses a full candidate block to extract CONTEXT, SECTION_TITLE, LINE, and ITEMS
+_CANDIDATE_BLOCK_RE = re.compile(
+    r"(CONTEXT:\s*(?P<ctx>[^\n]*)\nSECTION_TITLE:\s*(?P<title>[^\n]+)\nLINE:\s*(?P<line>\d+)\nITEMS:\n"
+    r"(?P<items>.*?))(?=\nCONTEXT:|\Z)",
+    re.DOTALL,
+)
+
+
+def annotate_items_with_lines(candidates_text: str, source_lines: list[str]) -> str:
+    """Re-write each ITEMS block in candidates_text so every non-implicit item
+    gets a [[N]] prefix with its 1-based source line number."""
+
+    def _rewrite_block(m: re.Match) -> str:
+        full_block = m.group(1)
+        ctx_text = m.group("ctx") or ""
+        section_line = int(m.group("line"))
+        items_raw = m.group("items").rstrip()
+
+        if items_raw.strip() == "[implicit]":
+            return full_block  # nothing to annotate
+
+        # Parse line numbers embedded in the CONTEXT field (e.g. "1434: text")
+        ctx_map = _parse_context_line_map(ctx_text)
+
+        new_items_lines = []
+        for item_m in _ITEM_LINE_RE.finditer(items_raw):
+            prefix = item_m.group(1)   # e.g. "1. "
+            item_text = item_m.group(2).strip()
+            found = _find_item_line(source_lines, item_text, section_line,
+                                    context_line_map=ctx_map)
+            tag = f"[[{found}]]" if found else "[[?]]"
+            new_items_lines.append(f"{prefix}{tag}{item_text}")
+
+        if not new_items_lines:
+            return full_block
+
+        new_items = "\n".join(new_items_lines)
+        return full_block.replace(f"ITEMS:\n{items_raw}", f"ITEMS:\n{new_items}")
+
+    return _CANDIDATE_BLOCK_RE.sub(_rewrite_block, candidates_text)
+
+
+# ------------------------------------------------------------------------------
 def find_vault_root(start: Path) -> Path:
     """Walk upward looking for the vault root (the dir containing 4-SYSTEM/)."""
     for parent in [start, *start.parents]:
@@ -1192,6 +1333,11 @@ def main():
             total_enum_blocks += count_enum_blocks(c)
             enum_chunks.append(f"<!-- chunk {idx:03d} | lines {start}–{end} -->\n{c}")
         enumerations_text = "\n\n".join(enum_chunks)
+
+    # ---- Step 4c: annotate ITEMS with source line numbers ----
+    print("Annotating ITEMS with line numbers ...", flush=True)
+    candidates_doc = annotate_items_with_lines(candidates_doc, lines)
+    out_file.write_text(candidates_doc, encoding="utf-8")
 
     print()
     dup_note = f" ({total_duplicates} overlap duplicates removed)" if total_duplicates else ""

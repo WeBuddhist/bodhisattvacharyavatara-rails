@@ -93,17 +93,17 @@
 གང་ལ་བརྟེན་ནས་ཡུད་ཀྱིས་སྒྲོལ་འགྱུར་བ། །
 དེ་ལ་བག་ཅན་རྣམས་ཀྱིས་ཅིས་མི་བརྟེན། །
 
-**Tibetan:** 
-**ལག་ལེན།** དེ་རིང་ངས་བྱས་པའི་སྡིག་པ་བཤགས་ཤིང་། བྱང་ཆུབ་ཀྱི་སེམས་ལ་བརྟེན་ནས་ལམ་བཟང་པོར་ལོག་རྒྱུ་ཡིན། 
-**འགྲེལ་བཤད།** སྡིག་པ་ཤིན་ཏུ་མི་བཟད་པ་བྱས་ཀྱང་། བྱང་ཆུབ་སེམས་དཔའ་ལ་བརྟེན་ནས་ཡུད་ཙམ་གྱིས་གྲོལ་བར་འགྱུར་ན། བག་ཡོད་པ་རྣམས་ཀྱིས་ཅིའི་ཕྱིར་མི་བརྟེན་ཞེས་གསུངས། སྡིག་པ་བཤགས་ཤིང་བྱང་ཆུབ་ཀྱི་སེམས་ལ་བརྟེན་པ་ནི་སྡིག་ལས་གྲོལ་བའི་ལམ་ཡིན།
+**Tibetan**:
+**ལག་ལེན།**: དེ་རིང་ངས་ནོར་འཁྲུལ་བཤགས་ནས་བྱང་སེམས་སྐར་མ་བཅུར་སྒོམ་རྒྱུ་ཡིན།
+**འགྲེལ་བཤད།**: (རང་སེམས་འདུལ་བ་དང་དགེ་བ་བྱ་བ།) ཚིགས་བཅད་འདིའི་ནང་མི་དཔའ་བོ་ཞིག་ལ་བརྟེན་ན་འཇིགས་པ་ལས་ཐར་བ་བཞིན། བྱང་ཆུབ་ཀྱི་སེམས་ལ་བརྟེན་ན་སྡིག་པ་ཆེན་པོ་ལས་སྐད་ཅིག་གིས་ཐར་ཐུབ་པར་གསུངས་ཡོད། དེར་བརྟེན་རང་གི་ནོར་འཁྲུལ་ལ་འགྱོད་པ་བསྐྱེད་དེ་བྱང་ཆུབ་ཀྱི་སེམས་སྒོམ་པ་ནི་དེ་རིང་གི་སྤྱོད་འཇུག་ཚིགས་བཅད་འདིའི་དགོངས་དོན་དང་མཐུན་པའི་ཉམས་ལེན་རྣལ་མ་དེ་ཡིན།
 
-**English:** 
-**Practice**: Today I will confess one harmful action aloud and turn to bodhicitta as my protection and guide. 
-**Explanation**: This verse says even the most terrible sins can be quickly overcome by relying on the heroic bodhicitta, so why don't the wise rely on it? Confessing a harmful action and consciously turning to bodhicitta is the direct path away from evil.
+**English**:
+**Action**: Today, I will meditate on Bodhicitta for ten minutes to purify past mistakes.
+**Explanation**: (Taming the mind and doing virtue) This verse explains that just as relying on a brave hero saves one from great danger, relying on Bodhicitta instantly frees one from even the heaviest negative karmas. Therefore, meditating on the mind of awakening (Bodhicitta) while regretting past wrongs is the direct, practical application of this verse.
 
-**Hindi:** 
-**अभ्यास**: आज मैं एक हानिकारक कार्य को स्वीकार करूँगा और बोधिचित्त को अपना सहारा और मार्गदर्शक बनाऊँगा। 
-**व्याख्या**: यह श्लोक कहता है कि बोधिचित्त रूपी वीर पर आश्रय लेने से अत्यंत गंभीर पाप भी शीघ्र नष्ट होते हैं, तो बुद्धिमान इस पर आश्रय क्यों न लें? पाप स्वीकार कर बोधिचित्त का आश्रय लेना पाप से मुक्ति का सीधा मार्ग है।
+**Hindi**:
+**व्यावहारिक कार्य (Action)**: आज मैं अपनी गलतियों को सुधारने के लिए दस मिनट बोधिचित्त का ध्यान करूंगा।
+**व्याख्या (Explanation)**: (मन को वश में करना और पुण्य करना) यह श्लोक बताता है कि जिस प्रकार एक शूरवीर पर भरोसा करने से बड़े खतरे से बचा जा सकता है, उसी प्रकार बोधिचित्त का आश्रय लेने से भारी पाप भी तुरंत नष्ट हो जाते हैं। इसलिए, अपनी गलतियों पर पछतावा करते हुए बोधिचित्त का ध्यान करना इस श्लोक का वास्तविक और सीधा अभ्यास है।
 
 ---
 

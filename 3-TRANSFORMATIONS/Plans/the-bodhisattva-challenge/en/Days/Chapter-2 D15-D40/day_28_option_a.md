@@ -16,7 +16,7 @@ generation_note: "No en-ai or 2-RAILS material exists for Chapter 2. English ver
 
 ## Opening
 
-The confession continues, and today it turns to why there is no time to waste. We have all woken from a vivid dream and watched it thin into a faint memory. These three verses say our waking life goes the same way. Death comes without warning, we leave everyone behind, and the friends and enemies we schemed for, along with us, all cease to be.
+The confession continues, showing why there is no time to waste. We have all watched a vivid dream fade away after waking. Today's verses say our actual life does the exact same thing. Death comes suddenly, we leave everyone behind, and we—along with our friends and enemies—will simply disappear.
 
 ## Renewing the Bodhisattva Vow
 

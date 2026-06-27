@@ -260,61 +260,33 @@ The commentary files in `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\1
 2. Locate the transclusion of the day's verse (e.g. `![[1-SOURCES/Text/...#^chapter-verse]]`).
 3. **All text from that transclusion up to the next root verse transclusion is the commentary on that verse.** This block is your source material.
 
-Read every commentary file and collect this pipeline material for each assigned verse before writing anything.
+Read every commentary file and collect this pipeline material for **all** of the day's assigned verses before writing anything.
 
-#### What to include
+#### What to write
 
-For each verse, write an explanation block under the verse header:
+Write **one single combined explanation** covering all of the day's verses together — not a separate block per verse.
 
-`#### **[verse number in Tibetan numerals]. ཤློཀ་[ordinal word]།** འགྲེལ་བཤད།`
+The explanation should be **informative and inspiring**: it synthesises the most meaningful, illuminating, or moving content across the pipeline material for all of the day's verses into a unified whole. This may be a thematic expansion of a key idea, a teaching story, a clarification of a difficult term, or any combination — whatever the commentary material most richly supports. It should read as a warm, coherent teaching, not a mechanical list of per-verse notes.
 
-Based on what the pipeline material actually contains, include one or more of the following content types. Do not force all three — use only those for which genuine material exists.
+Length: **4–8 sentences**. Prefer depth over coverage — one idea rendered fully is better than three ideas sketched superficially.
 
----
-
-**Type 1 — ཁ་སྐོང་། (Extra information)**
-
-Use when the verse mentions or elaborates on an important topic or term (e.g. དལ་འབྱོར་, བྱང་ཆུབ་སེམས་, etc.) and the commentaries contain rich material on it. Expand on the topic using that material — write in engaging, accessible Tibetan that deepens the practitioner's understanding.
+Format:
 
 ```markdown
-**ཁ་སྐོང་།** [Topic]: [Engaging expansion drawn from the commentary — 3–6 sentences.]
+[Combined explanation — 4–8 sentences in clear, warm Tibetan, synthesising the day's commentary material across all assigned verses.]
 
-**མཆན།**: [[1-SOURCES/Commentaries/filename#^blockid|Display name ^blockid]]
+**མཆན།**: [[1-SOURCES/Commentaries/filename#^blockid|Display name ^blockid]], [[1-SOURCES/Commentaries/filename#^blockid|Display name ^blockid]]
 ```
 
----
-
-**Type 2 — གཏམ་རྒྱུད། (Story)**
-
-Use when you find an interesting story in the pipeline material related to the verse. Adapt it: render the classical language into clear modern Tibetan, and shape it into a short, inspiring narrative that helps practitioners understand and stay engaged with the BCA.
-
-```markdown
-**གཏམ་རྒྱུད།**: [Story in clear modern Tibetan — short and inspiring, ≤ 8 sentences.]
-
-**མཆན།**: [[1-SOURCES/Commentaries/filename#^blockid|Display name ^blockid]]
-```
-
----
-
-**Type 3 — གནད་ཚིག (Keyword)**
-
-Use when the verse contains an important or difficult term that a beginner practitioner might not understand. Explain it in plain Tibetan, briefly and clearly.
-
-```markdown
-**གནད་ཚིག** [Term]: [Plain-language explanation — 2–3 sentences.]
-
-**མཆན།**: [[1-SOURCES/Commentaries/filename#^blockid|Display name ^blockid]]
-```
-
----
+The `**མཆན།**` line lists **all** block IDs drawn from, formatted as clickable Obsidian wikilinks. If material came from multiple commentary files, list all of them.
 
 #### Rules
 
-- **Authenticity is absolute.** Every piece of content — extra information, story, keyword definition — must come directly from the pipeline material found in the commentary files. Never invent, assume, or add from general knowledge or training data.
-- **Be selective.** For a given verse you might include only a ཁ་སྐོང་། and a གནད་ཚིག — or only a གཏམ་རྒྱུད། — or all three. Follow the commentary material, not a formula.
-- Each content block must end with a `**མཆན།**` line citing the specific block ID(s) used, formatted as clickable Obsidian wikilinks: `[[1-SOURCES/Commentaries/filename#^blockid|Display name ^blockid]]`.
+- **Authenticity is absolute.** All content must be drawn directly from the pipeline material found in the commentary files. Never invent, assume, or add from general knowledge or training data.
+- **One unified explanation, not per-verse sub-sections.** Do not add sub-headers or separate the content by verse number inside Section 4.
+- The explanation must end with a `**མཆན།**` line citing every block ID used.
 
-> ⚠️ **Critical rule for Section 4**: All content must be extracted from `1-SOURCES/Commentaries/` via the pipeline. If you cannot locate commentary for a verse in the files, state this explicitly — do not invent or improvise.
+> ⚠️ **Critical rule for Section 4**: All content must be extracted from `1-SOURCES/Commentaries/` via the pipeline. If you cannot locate commentary for the day's verses in the files, state this explicitly — do not invent or improvise.
 
 ---
 
@@ -513,8 +485,9 @@ If the user doesn't specify verses and asks only for a day number, read that fil
 - [ ] Section 4 — explanation headers follow `#### **N. ཤློཀ་[ordinal]།** འགྲེལ་བཤད།` — འགྲེལ་བཤད། **outside** the bold; verse numbers match those in Section 3
 - [ ] Section 3 — verse numbers in all headers are the real chapter verse numbers and match the day's assigned range (filename `V[start]-[end]`)
 - [ ] Section 3 — verses found in `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` and copied exactly — not quoted from memory or training data
-- [ ] Section 4 — each explanation block contains one or more of: **ཁ་སྐོང་།** (extra information), **གཏམ་རྒྱུད།** (story), **གནད་ཚིག** (keyword); only types for which genuine pipeline material exists are included — never all three by default
-- [ ] Section 4 — all content sourced from `1-SOURCES/Commentaries/` via the pipeline (commentary text between the verse transclusion and the next verse transclusion); each block ends with a **མཆན།** citation line
+- [ ] Section 4 — one single combined explanation covering all of the day's verses; no per-verse sub-headers or sub-sections inside Section 4
+- [ ] Section 4 — explanation is 4–8 sentences; informative and inspiring, synthesising the most meaningful commentary material across all assigned verses
+- [ ] Section 4 — all content sourced from `1-SOURCES/Commentaries/` via the pipeline (commentary text between the verse transclusion and the next verse transclusion); ends with a **མཆན།** citation line listing all block IDs used
 - [ ] Exactly 1 today's challenge in Section 5 — short two-part format: bold Tibetan phrase headline + **འགྲེལ་བཤད།** with 2–3 sentences of practical instruction
 - [ ] Section 5 challenge is very simple and actionable for ordinary people in daily life — concrete, not generic
 - [ ] If the day has multiple verses, Section 5 is based on the single verse whose theme translates most naturally into everyday action

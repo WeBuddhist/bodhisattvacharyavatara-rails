@@ -293,3 +293,327 @@
 **Hindi:** 
 **अभ्यास**: आज मैं अपने आध्यात्मिक गुरु की कृपा का स्मरण करके उनके प्रति सच्ची श्रद्धा और सम्मान की भावना जगाऊँगा। 
 **व्याख्या**: यह श्लोक कहता है कि बोधिसत्त्व के प्रति श्रद्धा जगाने से फल और भी बढ़ता है और कठिनाइयों में भी पुण्य स्वाभाविक रूप से फलता है। गुरु की कृपा का सच्चे भाव से स्मरण करने पर बिना प्रयास के ही पुण्य वृद्धि होती है।
+
+
+# Shortened Tibetan, English, and Hindi.
+
+### ཚིགས་བཅད་ ༡ ། (Verse 1)
+
+**Tibetan:**
+
+- **ལག་ལེན།** དེ་རིང་གཞན་ལ་ཆོས་ཀྱི་གདམས་ངག་ཅིག་སྤེལ་རྒྱུ་ཡིན།
+    
+- **འགྲེལ་བཤད།** དད་པས་གདམས་ངག་སྤེལ་བ་ནི་གཞན་ལ་ཕན་ཞིང་དགེ་བ་སྒྲུབ་པའི་ལམ་དངོས་ཡིན།
+    
+
+**English:**
+
+- **Practice:** Share a dharma teaching or meaningful quote with someone today.
+    
+- **Explanation:** Sharing virtuous teachings out of faith directly cultivates virtue and benefits others.
+    
+
+**Hindi:**
+
+- **अभ्यास:** आज किसी के साथ धर्म-शिक्षा या प्रेरक विचार साझा करें।
+    
+- **व्याख्या:** श्रद्धापूर्वक पुण्य शिक्षाएँ साझा करना दूसरों को लाभ पहुँचाने का प्रत्यक्ष उपाय है।
+    
+
+### ཚིགས་བཅད་ ༢ ། (Verse 2)
+
+**Tibetan:**
+
+- **ལག་ལེན།** དེ་རིང་དུས་ཚོད་ཆུད་ཟོས་མི་གཏོང་བར་དགེ་བའི་ལས་ལ་བརྩོན་རྒྱུ་ཡིན།
+    
+- **འགྲེལ་བཤད།** དལ་འབྱོར་རྙེད་དཀའ་བས་ད་ལྟ་ནས་དགེ་བར་བརྩོན་པ་ནི་གོ་སྐབས་དམ་འཛིན་ཡིན།
+    
+
+**English:**
+
+- **Practice:** Spend one hour on a virtuous activity, avoiding screen distractions.
+    
+- **Explanation:** Human life is rare; acting virtuously now seizes this fleeting opportunity.
+    
+
+**Hindi:**
+
+- **अभ्यास:** एक घंटा व्यर्थ कार्यों को छोड़कर पुण्य कार्य में लगाएँ।
+    
+- **व्याख्या:** मानव जीवन दुर्लभ है; अभी पुण्य करना इस अवसर का सदुपयोग है।
+    
+
+### ཚིགས་བཅད་ ༣ ། (Verse 3)
+
+**Tibetan:**
+
+- **ལག་ལེན།** བྱ་བ་གང་བྱེད་ཀྱང་བྱང་ཆུབ་ཀྱི་སེམས་བསྐྱེད་ནས་སྒྲུབ་རྒྱུ་ཡིན།
+    
+- **འགྲེལ་བཤད།** བྱང་ཆུབ་ཀྱི་སེམས་ནི་སངས་རྒྱས་ཀྱིས་གཟིགས་པའི་བདེ་མཆོག་ཐོབ་པའི་ཐབས་མཆོག་ཡིན།
+    
+
+**English:**
+
+- **Practice:** Begin every activity with bodhicitta—the wish to benefit all beings.
+    
+- **Explanation:** The Buddhas saw bodhicitta as the supreme path to ultimate happiness.
+    
+
+**Hindi:**
+
+- **अभ्यास:** हर कार्य की शुरुआत बोधिचित्त (सबके हित की भावना) से करें।
+    
+- **व्याख्या:** बुद्धों ने बोधिचित्त को असीम सुख का सर्वोच्च मार्ग बताया है।
+    
+
+### ཚིགས་བཅད་ ༤ ། (Verse 4)
+
+**Tibetan:**
+
+- **ལག་ལེན།** བྱང་ཆུབ་སེམས་སྐྱེད་ཀྱི་སྨོན་ལམ་ལྷག་བསམ་དག་པས་ཀློག་རྒྱུ་ཡིན།
+    
+- **འགྲེལ་བཤད།** བྱང་སེམས་སྐྱེས་མ་ཐག་འཁོར་བའི་སེམས་ཅན་ཡང་སངས་རྒྱས་ཀྱི་སྲས་སུ་འགྱུར་རོ། །
+    
+
+**English:**
+
+- **Practice:** Recite the bodhicitta aspiration prayer once with sincere devotion.
+    
+- **Explanation:** Generating bodhicitta instantly elevates worldly beings to the status of Buddhas' heirs.
+    
+
+**Hindi:**
+
+- **अभ्यास:** पूर्ण श्रद्धा से बोधिचित्त की प्रार्थना पढ़ें।
+    
+- **व्याख्या:** बोधिचित्त उत्पन्न होते ही संसारी प्राणी भी बुद्धों के पुत्र बन जाते हैं।
+    
+
+### ཚིགས་བཅད་ ༥ ། (Verse 5)
+
+**Tibetan:**
+
+- **ལག་ལེན།** ནོར་འཁྲུལ་བཤགས་ནས་སྐར་མ་བཅུར་བྱང་སེམས་སྒོམ་རྒྱུ་ཡིན།
+    
+- **འགྲེལ་བཤད།** དཔའ་བོར་བརྟེན་པ་བཞིན་བྱང་སེམས་སྒོམ་ན་སྡིག་པ་ཆེན་པོ་ལས་མྱུར་དུ་ཐར་བར་འགྱུར།
+    
+
+**English:**
+
+- **Practice:** Meditate on bodhicitta for ten minutes to purify past mistakes.
+    
+- **Explanation:** Like relying on a hero, bodhicitta instantly frees us from heavy negative karma.
+    
+
+**Hindi:**
+
+- **अभ्यास:** गलतियाँ सुधारने के लिए दस मिनट बोधिचित्त का ध्यान करें।
+    
+- **व्याख्या:** शूरवीर की तरह बोधिचित्त का आश्रय बड़े पापों से तुरंत मुक्त करता है।
+    
+
+### ཚིགས་བཅད་ ༦ ། (Verse 6)
+
+**Tibetan:**
+
+- **ལག་ལེན།** སྨོན་ལམ་ཙམ་མིན་པར་དངོས་སུ་གཞན་ལ་རོགས་རམ་བྱ་རྒྱུ་ཡིན།
+    
+- **འགྲེལ་བཤད།** སྨོན་སེམས་ལས་འཇུག་སེམས་ལག་ལེན་དུ་བསྟར་བ་ནི་བྱང་སེམས་དངོས་ཡིན།
+    
+
+**English:**
+
+- **Practice:** Help someone with a concrete act, moving beyond mere well-wishes.
+    
+- **Explanation:** True bodhicitta requires both the aspiration to help and the actual engagement.
+    
+
+**Hindi:**
+
+- **अभ्यास:** केवल शुभकामना नहीं, बल्कि किसी की ठोस सहायता करें।
+    
+- **व्याख्या:** सच्चा बोधिचित्त केवल इच्छा तक सीमित नहीं, बल्कि कर्म में दिखता है।
+    
+
+### ཚིགས་བཅད་ ༧ ། (Verse 7)
+
+**Tibetan:**
+
+- **ལག་ལེན།** གཉིད་མ་ལོག་གོང་དགེ་བ་རྣམས་སེམས་ཅན་ལ་བསྔོ་རྒྱུ་ཡིན།
+    
+- **འགྲེལ་བཤད།** བསྔོ་བ་བྱས་ན་གཉིད་ལོག་དུས་སུའང་བསོད་ནམས་ནམ་མཁའ་མཉམ་པར་འཕེལ་ལོ། །
+    
+
+**English:**
+
+- **Practice:** Dedicate all of today's virtue to all beings before sleeping.
+    
+- **Explanation:** Dedication unlocks an uninterrupted stream of merit, even during sleep.
+    
+
+**Hindi:**
+
+- **अभ्यास:** सोने से पहले आज के सभी पुण्य सभी प्राणियों को समर्पित करें।
+    
+- **व्याख्या:** पुण्य-समर्पण से सोते समय भी आकाश समान अनंत पुण्य निरंतर बढ़ता है।
+    
+
+### ཚིགས་བཅད་ ༨ ། (Verse 8)
+
+**Tibetan:**
+
+- **ལག་ལེན།** སྐར་མ་ལྔར་སེམས་ཅན་གྱི་སྡུག་བསྔལ་བསལ་འདོད་ཀྱི་སྙིང་རྗེ་བསྒོམ་རྒྱུ་ཡིན།
+    
+- **འགྲེལ་བཤད།** གཞན་གྱི་སྡུག་བསྔལ་སེལ་བར་འདོད་པ་ཙམ་གྱིས་ཀྱང་བསོད་ནམས་དཔག་མེད་ཐོབ།
+    
+
+**English:**
+
+- **Practice:** Spend five minutes sincerely wishing all beings freedom from suffering.
+    
+- **Explanation:** Merely wishing to relieve others' pain creates immeasurable merit.
+    
+
+**Hindi:**
+
+- **अभ्यास:** पाँच मिनट प्राणियों को दुःख-मुक्त देखने की कामना करें।
+    
+- **व्याख्या:** दूसरों का दुःख दूर करने की केवल भावना भी असीम पुण्य देती है।
+    
+
+### ཚིགས་བཅད་ ༩ ། (Verse 9)
+
+**Tibetan:**
+
+- **ལག་ལེན།** མི་མཐུན་པའི་མི་ལའང་བྱམས་བརྩེ་བསྐྱེད་རྒྱུ་ཡིན།
+    
+- **འགྲེལ་བཤད།** དགྲ་ལའང་བྱམས་པ་ནི་ལྷ་དང་ཚངས་པ་ལའང་མེད་པའི་བྱང་སེམས་ཀྱི་ཁྱད་ཆོས་ཡིན།
+    
+
+**English:**
+
+- **Practice:** Extend genuine kindness even to a difficult or disliked person.
+    
+- **Explanation:** Loving all beings equally is a universal altruism not even the gods possess.
+    
+
+**Hindi:**
+
+- **अभ्यास:** कठिन या नापसंद व्यक्ति के प्रति भी सच्ची दयालुता रखें।
+    
+- **व्याख्या:** सभी को समान रूप से प्रेम करना बोधिचित्त की वह विशेषता है जो देवताओं में भी नहीं होती।
+    
+
+### ཚིགས་བཅད་ ༡༠ ། (Verse 10)
+
+**Tibetan:**
+
+- **ལག་ལེན།** རང་ལ་སྡུག་བསྔལ་བསྐྱེད་པའི་གོམས་གཤིས་ངན་པ་ཞིག་སྤང་རྒྱུ་ཡིན།
+    
+- **འགྲེལ་བཤད།** གོམས་གཤིས་ངན་པ་སྤོང་བ་ནི་གཏི་མུག་ལས་ལྡོག་སྟེ་ཤེས་རབ་བསྟེན་པ་ཡིན།
+    
+
+**English:**
+
+- **Practice:** Consciously stop one habitual action that you know causes suffering.
+    
+- **Explanation:** Dropping harmful habits acts as a direct antidote to our self-destructive delusion.
+    
+
+**Hindi:**
+
+- **अभ्यास:** दुःख देने वाली कोई एक बुरी आदत जानबूझकर छोड़ें।
+    
+- **व्याख्या:** हानिकारक आदतों को रोकना मोह और आत्म-विनाश का सीधा उपाय है।
+    
+
+### ཚིགས་བཅད་ ༡༡ ། (Verse 11)
+
+**Tibetan:**
+
+- **ལག་ལེན།** ཉོན་མོངས་སྐྱེས་ཚེ་བྱང་སེམས་དྲན་པར་བྱས་ཏེ་ཞི་བར་བྱ་རྒྱུ་ཡིན།
+    
+- **འགྲེལ་བཤད།** བྱང་ཆུབ་ཀྱི་སེམས་ནི་གཏི་མུག་དང་ཉོན་མོངས་སེལ་བའི་གྲོགས་མཆོག་ཡིན།
+    
+
+**English:**
+
+- **Practice:** Recall bodhicitta immediately to calm the mind when anger arises.
+    
+- **Explanation:** Bodhicitta is the supreme friend and source of merit for destroying delusion.
+    
+
+**Hindi:**
+
+- **अभ्यास:** क्रोध उठने पर तुरंत बोधिचित्त का स्मरण कर मन शांत करें।
+    
+- **व्याख्या:** भ्रम और मोह को दूर करने के लिए बोधिचित्त के समान कोई मित्र या पुण्य नहीं है।
+    
+
+### ཚིགས་བཅད་ ༡༢ ། (Verse 12)
+
+**Tibetan:**
+
+- **ལག་ལེན།** རེ་བ་མ་བཏོན་ཡང་གཞན་གྱི་དགོས་མཁོར་རོགས་རམ་བྱ་རྒྱུ་ཡིན།
+    
+- **འགྲེལ་བཤད།** མ་བཅོལ་བར་གཞན་ལ་ཕན་འདོགས་པ་ནི་བྱང་ཆུབ་སེམས་དཔའི་སྦྱིན་པ་རྣལ་མ་ཡིན།
+    
+
+**English:**
+
+- **Practice:** Help someone with their needs without waiting to be asked.
+    
+- **Explanation:** Unsolicited help goes beyond obligation and exemplifies pure generosity.
+    
+
+**Hindi:**
+
+- **अभ्यास:** माँगे बिना ही किसी जरूरतमंद की मदद करें।
+    
+- **व्याख्या:** बिना माँगे सहायता करना एहसान चुकाने से परे एक शुद्ध उदारता है।
+    
+
+### ཚིགས་བཅད་ ༡༣ ། (Verse 13)
+
+**Tibetan:**
+
+- **ལག་ལེན།** ཕན་འདོགས་མཁན་ལ་བཀའ་དྲིན་དྲན་ཞིང་སྨད་སེམས་སྤང་རྒྱུ་ཡིན།
+    
+- **འགྲེལ་བཤད།** བྱང་སེམས་ལ་ངན་སེམས་བསྐྱེད་ན་སྡུག་བསྔལ་མྱོང་བས་དྲིན་དྲན་ཞིང་བཟོད་པ་སྒོམ་དགོས།
+    
+
+**English:**
+
+- **Practice:** Cultivate gratitude for those who help you and avoid criticizing them.
+    
+- **Explanation:** Suppressing criticism and feeling gratitude trains patience and prevents heavy negative karma.
+    
+
+**Hindi:**
+
+- **अभ्यास:** उपकारियों के प्रति कृतज्ञ रहें और उनकी आलोचना न करें।
+    
+- **व्याख्या:** कृतज्ञता क्षमा की साधना है जो हमें भारी पाप से बचाती है।
+    
+
+### ཚིགས་བཅད་ ༡༤ ། (Verse 14)
+
+**Tibetan:**
+
+- **ལག་ལེན།** དགེ་བའི་བཤེས་གཉེན་གྱི་དྲིན་དྲན་ནས་མོས་གུས་བསྐྱེད་རྒྱུ་ཡིན།
+    
+- **འགྲེལ་བཤད།** ལམ་སྟོན་པར་དད་མོས་བྱས་ན་དཀའ་ངལ་ཡོད་ཀྱང་དགེ་བ་ངང་གིས་འཕེལ་ལོ། །
+    
+
+**English:**
+
+- **Practice:** Cultivate sincere faith and reverence by recalling your spiritual teacher's kindness.
+    
+- **Explanation:** Genuine reverence toward teachers causes virtues to grow effortlessly, even amid difficulties.
+    
+
+**Hindi:**
+
+- **अभ्यास:** आध्यात्मिक गुरु की कृपा याद कर उनके प्रति सच्ची श्रद्धा जगाएँ।
+    
+- **व्याख्या:** गुरु के प्रति सच्ची श्रद्धा से कठिनाइयों में भी पुण्य स्वाभाविक रूप से बढ़ता है।

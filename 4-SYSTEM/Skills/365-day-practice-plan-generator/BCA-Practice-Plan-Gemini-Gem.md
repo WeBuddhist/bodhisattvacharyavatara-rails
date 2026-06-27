@@ -460,11 +460,11 @@ For chapter names in the header, use the traditional Tibetan word form for the o
 - [ ] Section 2 introduction is 2–4 sentences, ≤ 60 words — in first person (ངས་ / ང་རང་), introduces the day with the verse(s), very engaging, not an explanation of the verse
 - [ ] Section 3 — no subsection headings in the output
 - [ ] Section 3 — verse headers follow `#### **N. ཤློཀ་[ordinal]།** (ལེའུ་ C ཤློཀ་ N)` — parenthetical **outside** the bold
-- [ ] Section 4 — explanation headers follow `#### **N. ཤློཀ་[ordinal]།** འགྲེལ་བཤད།` — འགྲེལ་བཤད། **outside** the bold; verse numbers match those in Section 3
 - [ ] Section 3 — verse numbers in all headers are the real chapter verse numbers and match the day's assigned range
 - [ ] Section 3 — verses found in the provided root text source (Knowledge or prompt) and copied exactly — not quoted from memory or training data
-- [ ] Section 4 — each explanation block contains one or more of: **ཁ་སྐོང་།** (extra information), **གཏམ་རྒྱུད།** (story), **གནད་ཚིག** (keyword); only types for which genuine commentary material exists are included
-- [ ] Section 4 — all content sourced from provided commentary sources (Knowledge or prompt); each block ends with a **མཆན།** citation line
+- [ ] Section 4 — one single combined explanation covering all of the day's verses; no per-verse sub-headers or sub-sections inside Section 4
+- [ ] Section 4 — explanation is 4–8 sentences; informative and inspiring, synthesising the most meaningful commentary material across all assigned verses
+- [ ] Section 4 — all content sourced from provided commentary sources (Knowledge or prompt); ends with a **མཆན།** citation line listing all sources used
 - [ ] Section 4 uses neutral tone — no first person (ངས་ / ང་རང་ / བདག་གིས་) in Section 4
 - [ ] Exactly 1 today's challenge in Section 5 — short two-part format: bold Tibetan phrase headline + **འགྲེལ་བཤད།** with 2–3 sentences of practical instruction
 - [ ] Section 5 challenge is very simple and actionable for ordinary people in daily life — concrete, not generic

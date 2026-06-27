@@ -126,6 +126,12 @@ These skills populate `2-RAILS/` with the structured context that translation an
 **Outputs:** `3-TRANSFORMATIONS/Translations/<track-name>/termbase.md` — the prescriptive termbase scoped to keywords that appear in the text being translated; plus updates to the consolidated bilingual glossary for any new derived renderings.
 → [`glossary-select/SKILL.md`](glossary-select/SKILL.md)
 
+### `AI-summary-generator` **[exists]**
+**Purpose:** Generate the scholarly "AI Overview" synthesis layer for one verse in Tibetan — core synthesis, key themes, divergences, and practical application — drawing only on that verse's already-cited Traditional Interpretation paraphrases.
+**Inputs:** A verse ID and its `2-RAILS/Verses/<verse-id>.md` file (its Traditional Interpretation section is the sole source).
+**Outputs:** The AI Overview (བསྡུས་དོན།) section of `2-RAILS/Verses/<verse-id>.md`, written or replaced in place; no other layer touched.
+→ [`AI-summary-generator/SKILL.md`](AI-summary-generator/SKILL.md)
+
 ---
 
 ## Translation requirements skills

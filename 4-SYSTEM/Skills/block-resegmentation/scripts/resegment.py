@@ -54,7 +54,7 @@ from pathlib import Path
 
 # ── defaults ─────────────────────────────────────────────────────────────────
 
-DEFAULT_MODEL          = "gemini-2.5-flash-preview-05-20"
+DEFAULT_MODEL          = "gemini-2.5-flash"
 DEFAULT_FALLBACK_MODEL = "gemini-2.0-flash"
 DEFAULT_WINDOW_SIZE    = 40    # blocks per LLM window
 DEFAULT_OVERLAP        = 5     # overlap blocks between adjacent windows
@@ -130,14 +130,20 @@ A JSON array of operations. Blocks not mentioned are kept as-is.
 [
   {"op": "merge", "blocks": [N, M]},
   {"op": "merge", "blocks": [N, M, P]},
-  {"op": "split", "block": N, "after": "<verbatim unique substring ending at split point>"}
+  {"op": "split", "block": N, "after": "<verbatim unique substring ending at split point>"},
+  {"op": "split", "block": N, "after": ["<sub1>", "<sub2>", "<sub3>"]}
 ]
 
 Rules for the output:
-- Only merge CONSECUTIVE blocks (adjacent in the document).
+- Block numbers are CONTINUOUS and INCLUDE heading blocks. You may only merge blocks
+  with consecutive numbers (e.g. N and N+1). If a heading block sits between two
+  content blocks they are NOT consecutive — never merge across a heading, and never
+  propose a merge whose numbers skip over one (e.g. [1, 3]).
 - Each block number appears in AT MOST ONE operation.
-- For "after": copy a verbatim substring from the block that ends exactly at the
-  split point and is UNIQUE within that block (10–20 characters is usually enough).
+- A single split block may have MORE THAN ONE cut point: set "after" to a LIST of
+  substrings, in document order, to break one long block into 3 or more thought units.
+- For each "after" substring: copy a verbatim slice from the block that ends exactly
+  at the split point and is UNIQUE within that block (10–20 characters is usually enough).
 - If nothing needs to change in this window, output: []
 - Output ONLY the JSON array. No explanation, no commentary, no code fences.
 """
@@ -343,7 +349,9 @@ def _op_key(op):
     if op["op"] == "merge":
         return ("merge", tuple(sorted(op["blocks"])))
     else:
-        return ("split", op["block"], op.get("after", ""))
+        after = op.get("after", "")
+        after_key = tuple(after) if isinstance(after, list) else after
+        return ("split", op["block"], after_key)
 
 
 def combine_operations(window_results, blocks):
@@ -448,8 +456,9 @@ def validate_operations(ops, blocks):
             if not bn:
                 errors.append(f"split: missing 'block' field — skipped")
                 continue
-            if not after:
-                errors.append(f"split block {bn}: missing 'after' substring — skipped")
+            afters = after if isinstance(after, list) else [after]
+            if not afters or any(not a for a in afters):
+                errors.append(f"split block {bn}: missing/empty 'after' substring — skipped")
                 continue
             if 1 <= bn <= total and is_heading(blocks[bn - 1]):
                 errors.append(f"split block {bn}: is a heading — skipped")
@@ -510,20 +519,38 @@ def apply_operations(blocks, ops):
 
         elif op["op"] == "split":
             block_text = blocks[i]
-            after_str  = op["after"]
-            idx = block_text.find(after_str)
-            if idx == -1:
-                print(f"  ! split block {bn}: substring not found: {after_str!r}; "
-                      f"keeping block whole", file=sys.stderr)
+            after_val  = op["after"]
+            cut_strs   = after_val if isinstance(after_val, list) else [after_val]
+            cut_positions = []
+            ok = True
+            for after_str in cut_strs:
+                occ = block_text.count(after_str)
+                if occ == 0:
+                    print(f"  ! split block {bn}: substring not found: {after_str!r}; "
+                          f"keeping block whole", file=sys.stderr)
+                    ok = False
+                    break
+                if occ > 1:
+                    print(f"  ! split block {bn}: substring not unique "
+                          f"({occ} occurrences): {after_str!r}; "
+                          f"keeping block whole", file=sys.stderr)
+                    ok = False
+                    break
+                cut_positions.append(block_text.find(after_str) + len(after_str))
+            if not ok:
                 new_blocks.append(block_text)
             else:
-                split_at = idx + len(after_str)
-                part1 = block_text[:split_at].strip()
-                part2 = block_text[split_at:].strip()
-                if part1:
-                    new_blocks.append(part1)
-                if part2:
-                    new_blocks.append(part2)
+                parts = []
+                prev = 0
+                for pos in sorted(set(cut_positions)):
+                    seg = block_text[prev:pos].strip()
+                    if seg:
+                        parts.append(seg)
+                    prev = pos
+                tail = block_text[prev:].strip()
+                if tail:
+                    parts.append(tail)
+                new_blocks.extend(parts if parts else [block_text])
             i += 1
 
     return new_blocks
@@ -599,7 +626,9 @@ def write_ops_log(log_path: Path, ops_applied, errors, conflicts,
                 lines.append("")
             elif op["op"] == "split":
                 bn = op["block"]
-                lines.append(f"**SPLIT** block {bn}  after: `{op['after']}`")
+                af = op['after']
+                af_disp = af if isinstance(af, str) else " | ".join(af)
+                lines.append(f"**SPLIT** block {bn}  after: `{af_disp}`")
                 lines.append(f"  Block {bn}: {preview(orig_blocks[bn - 1])}")
                 lines.append("")
 
@@ -733,8 +762,9 @@ def main():
         if op["op"] == "merge":
             print(f"  MERGE {op['blocks']}")
         else:
-            after_preview = op['after'][:50]
-            print(f"  SPLIT block {op['block']} after: {after_preview!r}")
+            af = op['after']
+            af_disp = af if isinstance(af, str) else " | ".join(af)
+            print(f"  SPLIT block {op['block']} after: {af_disp[:50]!r}")
 
     if validation_errors:
         print(f"\nValidation errors ({len(validation_errors)}) — skipped:")

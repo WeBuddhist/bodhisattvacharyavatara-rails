@@ -60,11 +60,11 @@ All files in `1-SOURCES/Commentaries/`. Backup files (`.bak`, `.bak2`, `.cleaned
 
 ---
 
-## BCAC19_KZ_bo.md
+## BCAC19_KS_bo.md
 
 **Title:** བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ཞེས་བྱ་བའི་མཆན་འགྲེལ།
-**Author:** གཞན་ཕན་བྱམས་པའི་གོ་ཆ། (Khenpo Zhenga's interlinear annotation)
-**Century:** 1871–1927 (19th–20th c. CE) [BDRC P699, Khenpo Zhenga]
+**Author:** གཞན་ཕན་བྱམས་པའི་གོ་ཆ། (Khenpo Shenga's interlinear annotation)
+**Century:** 1871–1927 (19th–20th c. CE) [BDRC P699, Khenpo Shenga]
 
 ---
 

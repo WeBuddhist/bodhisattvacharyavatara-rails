@@ -69,11 +69,16 @@ Each verse package contains layered analysis. Each layer resolves a different ty
 | --------------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------- |
 | Structural outline | How the text is divided and what each section does | Headings-as-tree with study notes per node (in `Sections/`) |
 | Section summary | Functional, cultural, and rhetorical context for a passage | Translator study notes per section (in `Sections/`) |
-| *(foundation)* Source text | Which edition, which variants, cross-tradition witnesses | Transclusions from `1-SOURCES/` |
+| *(foundation)* Source text | Which edition, which variants, cross-tradition witnesses — **both Sanskrit and Tibetan** for this vault | Transclusions from `1-SOURCES/` |
 | Traditional Interpretation | What commentaries say is happening | Paraphrase per commentary + Synthesis + Divergences |
+| AI Overview | A scannable, synthesised answer to "what does this verse say," compiled from all commentaries with an inline source on every claim | One headline reading + key points, Tibetan, each cited |
+| Chendrel (ཚིག་འགྲེལ word-commentary) | The verse re-presented as a running Tibetan word-gloss in the *mchan-'grel* manner — annotation woven into the root words | Phrase-by-phrase Tibetan gloss, cited |
+| Word-by-word disambiguation | Per-token sense, compound, and referent resolution where a commentary makes a non-obvious choice | Token-level Tibetan notes with citations |
+| Key concepts | Buddhist concepts the verse introduces, plus further concepts the commentaries raise | Tibetan term list, each linked to Local-Wiki and cited |
+| Stories | Narratives the commentaries attach to the verse (from *gtam-rgyud* / *sgrung-'grel* sources) | Tibetan story précis, each cited |
+| Metaphors | Figures and similes used in the verse and elaborated by the commentaries | Tibetan per-figure prose, cited |
+| Quotations | Scriptural passages (*lung*) the commentaries adduce on this verse or topic | Verbatim Tibetan quotations with source attribution, cited |
 | Disambiguated restatement | A version of the verse in the original language precise enough to exclude all misreadings | A short rewrite of the verse, drawing on the synthesis |
-| Word Analysis (optional) | Compound analysis, sense disambiguation, inflection — only where commentary makes a non-obvious choice | Token-level notes with citations |
-| Translation Notes | Figures of speech, idioms, honorifics, culturally bound expressions | Per-figure prose with rendering strategies |
 
 The structural outline and section summaries sit above the verse-level layers because macro context precedes micro analysis — knowing what a section is doing in the text's overall argument shapes how every verse within it is read.
 
@@ -81,9 +86,9 @@ Within the verse package, Traditional Interpretation is always the anchor — it
 
 ### Optional formal layers
 
-Some texts and some commentary traditions warrant heavier formal apparatus — full morphological tables, UCCA-style syntactic trees, interlinear semantic glosses. These are **optional layers** layered on top of the core stack above. When they are used, they slot in between Traditional Interpretation and Translation Notes, in an order declared per-package by frontmatter `layer_order:` and followed by the resolver script at assembly time.
+Some texts and some commentary traditions warrant heavier formal apparatus — full morphological tables, interlinear semantic glosses, or the Tibetan **chendrel** (ཚིག་འགྲེལ, *tshig-'grel*) word-commentary. These are **optional layers** layered on top of the core stack above. When they are used, they slot in between Traditional Interpretation and the Disambiguated Restatement, in an order declared per-package by frontmatter `layer_order:` and followed by the resolver script at assembly time.
 
-The optional formal-layer order is language-specific. For Sanskrit (word-by-word commentaries), morphology grounds syntax. For Tibetan (holistic commentaries), the syntactic reading from the paraphrase precedes word-level analysis. Pāli sits closer to Sanskrit. Declare per package.
+The optional formal-layer order is language-specific. For Sanskrit (word-by-word commentaries), morphology grounds syntax. For Tibetan — the primary analysis language of this vault — the *mchan-'grel* annotation tradition supplies a native word-commentary, so the **chendrel** layer replaces the UCCA-style syntactic tree used for languages without one. Declare per package.
 
 ### Multi-traditional by design
 
@@ -177,10 +182,12 @@ coarser_groupings:
  [commentary-id-1]: [1-1, 1-2] # commentaries that group this verse with others
 template_ref: # for instance type only
 commentary_coverage: [[commentary-id-1], [commentary-id-2]]
-tradition_coverage: [theravada] # traditions represented in Traditional Interpretation
-concepts: [term (disambiguating-phrase), citta (mind), …]
-# Optional formal-layer ordering (only if optional formal layers are used)
-layer_order: [traditional, morphological, syntactic, semantic-gloss, translation-notes]
+tradition_coverage: [nyingma, gelug, …] # traditions represented in Traditional Interpretation
+concepts_in_verse: [བདེ་གཤེགས་ (sugata), ཆོས་སྐུ་ (dharmakāya), …] # concepts the verse introduces
+concepts_in_commentary: [རྒྱུ་གསུམ་ (three causes of a buddha's heir), …] # further concepts the commentaries raise
+stories: [བུ་མོའི་སྒྲུང་, ཀླུ་སྒྲུབ་ཀྱི་སྒྲུང་, …] # narratives the commentaries attach to this verse
+# Optional formal-layer ordering (chendrel replaces the UCCA syntactic layer for Tibetan)
+layer_order: [traditional, ai-overview, chendrel, word-disambiguation, concepts, stories, metaphors, quotations]
 # Status fields
 status: draft | partial | complete
 ---
@@ -193,7 +200,11 @@ Only `status: complete` packages are used to generate transformations. Domain sp
 ```markdown
 ## Source Text
 
-![[1-SOURCES/Text/[lang]-root-text.md#^1-1]]
+### Sanskrit
+![[1-SOURCES/Text/[BCAV..]-sk.md#^1-1]]
+
+### Tibetan
+![[1-SOURCES/Text/[bo-root-text].md#^1-1]]
 
 **Variants**
 [Ed: alternative reading found in <edition>, noted but not adopted here.]
@@ -203,41 +214,101 @@ Only `status: complete` packages are used to generate transformations. Domain sp
 ### [commentary-id-1] — [Commentary full name] ([language])
 [Paraphrase of this commentary's reading of the verse. English. Every claim
 cites the commentary block that grounds it.]
-(1-SOURCES/Commentaries/pi-[commentary-id-1].md#^1-1)
+(1-SOURCES/Commentaries/[commentary-id-1].md#^1-1)
 
 ### [commentary-id-2] — [Commentary full name] ([language])
 [Paraphrase, citations.]
-(1-SOURCES/Commentaries/pi-[commentary-id-2].md#^1-1)
-
-### Synthesis
-[What all sources agree on. Do not flatten disagreement here.]
+(1-SOURCES/Commentaries/[commentary-id-2].md#^1-1)
 
 ### Divergences
 [Where commentaries genuinely disagree, attributed and flagged ⚑.]
 
+## AI Overview (བསྡུས་དོན།)
+
+[A scannable synthesis in the style of a Google "AI Overview": lead with one
+or two sentences in Tibetan stating directly what the verse says according to
+the commentaries as a whole, then a short list of key points. Every sentence
+and every bullet ends with the source(s) it draws on. This is the reader-
+facing compression of Traditional Interpretation above. See the verse-context
+skill for the generation prompt. ⚑ marks any point on which commentaries split.]
+
+**ངོ་སྤྲོད་མདོར་བསྡུས།** [one–two Tibetan sentences answering "what does this verse say."]
+(1-SOURCES/Commentaries/[commentary-id-1].md#^1-1)
+
+**གནད་དོན་གཙོ་བོ།**
+- [key point in Tibetan] (1-SOURCES/Commentaries/[commentary-id-1].md#^1-1)
+- [key point in Tibetan] (1-SOURCES/Commentaries/[commentary-id-2].md#^1-1)
+
+## Chendrel — ཚིག་འགྲེལ
+
+[The verse re-presented as a running Tibetan word-commentary in the mchan-'grel
+manner: each phrase of the root verse followed by its gloss, woven together so
+the verse reads continuously with the annotation inline. Drawn from a word-
+commentary source (e.g. an annotation commentary). Cite the source block(s).]
+(1-SOURCES/Commentaries/[mchan-grel-id].md#^1-1)
+
+## Word-by-word Disambiguation (ཚིག་དོན་གསལ་བཤད།)
+
+[Token-level notes, in Tibetan, only where a commentary makes a non-obvious
+choice — sense selection, compound parsing, referent of a term. Each note
+cites the commentary that determines the reading. Omit a token if its reading
+is obvious.]
+
+- **[root word/phrase]** — [the disambiguating gloss in Tibetan]
+  (1-SOURCES/Commentaries/[commentary-id].md#^1-1)
+
+## Key Concepts (ཆོས་ཀྱི་གནད་ཚིག)
+
+### ཚིགས་བཅད་ནང་གི་གནད་ཚིག — concepts the verse introduces
+- **[term]** ([disambiguating phrase]) — [one-line Tibetan note]
+  (1-SOURCES/Commentaries/[commentary-id].md#^1-1) · [[2-RAILS/Local-Wiki/<term>_(<disambiguator>).md]]
+
+### འགྲེལ་པ་ནས་འབྱུང་བའི་གནད་ཚིག — further concepts the commentaries raise
+- **[term]** ([disambiguating phrase]) — [one-line Tibetan note]
+  (1-SOURCES/Commentaries/[commentary-id].md#^1-1) · [[2-RAILS/Local-Wiki/<term>_(<disambiguator>).md]]
+
+## Stories (སྒྲུང་།)
+
+[Narratives the commentaries attach to this verse, from gtam-rgyud / sgrung-'grel
+story commentaries. One short Tibetan précis per story; name the story and the
+phrase of the verse it illustrates. Cite the source block.]
+
+- **[story name]** — [one–three sentence Tibetan précis; which phrase it illustrates].
+  (1-SOURCES/Commentaries/[story-commentary-id].md#^1-1)
+
+## Metaphors (དཔེ།)
+
+[Figures and similes in the verse and as developed by the commentaries. Per
+figure: the image, what it stands for, how the commentaries unpack it. Tibetan.
+Cite the commentary that explains the figure.]
+
+- **[image]** → [tenor / what it illustrates]. [how the commentary develops it.]
+  (1-SOURCES/Commentaries/[commentary-id].md#^1-1)
+
+## Quotations (ལུང་།)
+
+[Scriptural passages (sūtra, tantra, śāstra) the commentaries quote on this
+verse or its topic. Verbatim Tibetan, attributed to the cited scripture as the
+commentary gives it, plus the commentary block that adduces it.]
+
+> [verbatim Tibetan quotation]
+> — [scripture as named by the commentary]
+> (1-SOURCES/Commentaries/[commentary-id].md#^1-1)
+
 ## Disambiguated Restatement (original language)
 
-[A short rewrite of the verse in the original language, precise enough that
-no misreading or mistranslation is possible. Transformation skills work
-from this restatement, not from the raw verse. Cite the synthesis above.]
-
-## Word Analysis
-[Token-level notes only where the commentary makes a non-obvious choice —
-compound analysis, sense disambiguation, inflection ambiguity. Each note
-cites the commentary that determines the reading. Omit this section entirely
-if there are no non-obvious choices.]
-
-## Translation Notes
-[Figures of speech, idioms, honorifics, cultural references — each with
-rendering strategies for different audiences. Cite the commentary that
-explains the figure. Minimum two rendering strategies per figure.]
+[A short rewrite of the verse in the original language (Tibetan), precise
+enough that no misreading or mistranslation is possible. Transformation skills
+work from this restatement, not from the raw verse. Cite the synthesis above.]
 
 ## Concept Links
 - [[2-RAILS/Local-Wiki/<term>_(<disambiguator>).md]]
 - …
 ```
 
-Keep the body in prose. No quoting commentaries at length — paraphrase. English throughout (except Disambiguated Restatement, which stays in the original language). Original-language terms italicised on first use.
+Section order follows `layer_order:`. Sections with no content for a given verse are omitted (e.g. a verse with no attached story drops the Stories section). The Source Text, Traditional Interpretation, AI Overview, and Disambiguated Restatement sections are always required; the rest are populated where the commentaries supply material.
+
+Keep paraphrase prose concise. No quoting commentaries at length except in the Quotations section (where verbatim scripture is the point). **Traditional Interpretation is in English; every other section is in Tibetan** (per the vault-annex language convention — the Disambiguated Restatement is likewise Tibetan, the original language). Original-language terms italicised on first use in the English sections.
 
 Authoring skill: `verse-context`.
 
@@ -489,17 +560,21 @@ Transformations in `3-TRANSFORMATIONS/` consume `complete` rails to derive their
 
 - [ ] Frontmatter complete — all required fields present.
 - [ ] `unit_type` determined by consulting all available commentaries; `coarser_groupings:` filled in if any commentary groups this verse with others.
-- [ ] Source text transcluded from `1-SOURCES/` — not copied.
+- [ ] Source text transcluded from `1-SOURCES/` — not copied — for **both Sanskrit and Tibetan**.
 - [ ] Variants noted as editorial notes with citations to edition files where they exist.
-- [ ] Traditional Interpretation — one section per commentary, every sentence cited.
-- [ ] Synthesis written — states only what all traditions agree on.
+- [ ] Traditional Interpretation — one section per commentary, every sentence cited (English).
 - [ ] Divergences section records all genuine disagreements with ⚑.
+- [ ] AI Overview written in Tibetan — headline reading + key points, every line cited; ⚑ on any split.
+- [ ] Chendrel (ཚིག་འགྲེལ) populated from a word-commentary source, cited — or omitted if no such source covers the verse.
+- [ ] Word-by-word disambiguation populated only where a commentary makes a non-obvious choice — otherwise omitted.
+- [ ] Key Concepts: in-verse and from-commentary subsections, each term cited and Local-Wiki-linked.
+- [ ] Stories section populated from gtam-rgyud / sgrung-'grel sources where they attach a narrative to the verse — otherwise omitted.
+- [ ] Metaphors section populated for every figure in the verse or developed by a commentary, cited.
+- [ ] Quotations section gives verbatim Tibetan scripture the commentaries adduce, attributed and cited.
 - [ ] `transformation_note:` added to frontmatter if traditions are doctrinally incompatible.
 - [ ] `tradition_coverage:` frontmatter field lists all traditions represented.
 - [ ] Textual witnesses from other languages recorded in the Source Text Variants block.
-- [ ] Disambiguated Restatement written in the original language.
-- [ ] Word Analysis populated only where the commentary makes a non-obvious choice — otherwise omitted.
-- [ ] Translation Notes populated for every figure of speech, idiom, or culturally bound expression — minimum two rendering strategies per figure.
+- [ ] Disambiguated Restatement written in the original language (Tibetan).
 - [ ] Concept Links added at the bottom of the file for every key term that appears.
 - [ ] Local-Wiki pages created or updated for any new sense IDs.
 - [ ] All status fields set to `draft` pending domain specialist review.

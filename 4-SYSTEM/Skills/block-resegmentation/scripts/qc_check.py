@@ -49,7 +49,7 @@ from pathlib import Path
 
 # ── defaults ─────────────────────────────────────────────────────────────────
 
-DEFAULT_MODEL          = "gemini-2.5-flash-preview-05-20"
+DEFAULT_MODEL          = "gemini-2.5-flash"
 DEFAULT_FALLBACK_MODEL = "gemini-2.0-flash"
 MAX_RETRIES            = 8
 RETRY_BACKOFF_BASE     = 8
@@ -98,13 +98,16 @@ SHORT_FRAGMENT
 [
   {"op": "merge", "blocks": [N, M]},
   {"op": "merge", "blocks": [N, M, P]},
-  {"op": "split", "block": N, "after": "<verbatim unique substring ending at split point>"}
+  {"op": "split", "block": N, "after": "<verbatim unique substring ending at split point>"},
+  {"op": "split", "block": N, "after": ["<sub1>", "<sub2>"]}
 ]
 
 Rules:
 - Only output corrections for REAL issues. Skip false positives entirely.
-- Only merge CONSECUTIVE blocks.
-- "after" must be verbatim from the block and unique within it.
+- Block numbers are CONTINUOUS and include heading blocks. Only merge blocks with
+  consecutive numbers (N and N+1); never merge across a heading or skip a number.
+- "after" must be verbatim from the block and unique within it. To break one long
+  block into 3+ units, set "after" to a LIST of substrings in document order.
 - Each block number appears in AT MOST ONE operation.
 - Heading blocks (lines starting with #) are NEVER touched.
 - If no corrections are needed, output: []
@@ -149,9 +152,15 @@ def squeeze(text: str) -> str:
     return re.sub(r'\s+', '', text)
 
 
+def _normalize_tsheg(text: str) -> str:
+    """Map the non-breaking tsheg (U+0F0C ༌) to the normal tsheg (U+0F0B ་)
+    so regex and length checks match consistently across both forms."""
+    return text.replace('༌', '་')
+
+
 def count_syllables(block: str) -> int:
     """Rough syllable count: number of tsheg characters + 1."""
-    return block.count('་') + 1
+    return _normalize_tsheg(block).count('་') + 1
 
 
 # ── deterministic checks ──────────────────────────────────────────────────────
@@ -172,11 +181,12 @@ def run_deterministic_checks(blocks, over_length=OVER_LENGTH_THRESHOLD,
         if is_heading(block):
             continue
         bn = i + 1
+        nblock = _normalize_tsheg(block)
 
-        if _CONNECTOR_RE.search(block):
+        if _CONNECTOR_RE.search(nblock):
             issues.append({"block_n": bn, "flag": "CONNECTOR_ENDING", "text": block})
 
-        if _OBJECTION_RE.search(block) and _REPLY_RE.search(block):
+        if _OBJECTION_RE.search(nblock) and _REPLY_RE.search(nblock):
             issues.append({"block_n": bn, "flag": "OBJECTION_REPLY_FUSED", "text": block})
 
         syls = count_syllables(block)
@@ -345,8 +355,9 @@ def validate_corrections(ops, blocks):
             after = op.get("after", "")
             if not bn:
                 errors.append("split: missing 'block'"); continue
-            if not after:
-                errors.append(f"split block {bn}: missing 'after'"); continue
+            afters = after if isinstance(after, list) else [after]
+            if not afters or any(not a for a in afters):
+                errors.append(f"split block {bn}: missing/empty 'after'"); continue
             if 1 <= bn <= total and is_heading(blocks[bn-1]):
                 errors.append(f"split block {bn}: is heading — skipped"); continue
             if bn in claimed:
@@ -383,18 +394,34 @@ def apply_corrections(blocks, ops):
             else:
                 i += 1
         elif op["op"] == "split":
-            text  = blocks[i]
-            after = op["after"]
-            idx   = text.find(after)
-            if idx == -1:
-                print(f"  ! QC split block {bn}: substring not found: {after!r}; "
-                      f"keeping whole", file=sys.stderr)
+            text     = blocks[i]
+            after    = op["after"]
+            cut_strs = after if isinstance(after, list) else [after]
+            cut_positions = []
+            ok = True
+            for a in cut_strs:
+                occ = text.count(a)
+                if occ == 0:
+                    print(f"  ! QC split block {bn}: substring not found: {a!r}; "
+                          f"keeping whole", file=sys.stderr)
+                    ok = False; break
+                if occ > 1:
+                    print(f"  ! QC split block {bn}: substring not unique "
+                          f"({occ} occurrences): {a!r}; keeping whole", file=sys.stderr)
+                    ok = False; break
+                cut_positions.append(text.find(a) + len(a))
+            if not ok:
                 new_blocks.append(text)
             else:
-                p1 = text[:idx + len(after)].strip()
-                p2 = text[idx + len(after):].strip()
-                if p1: new_blocks.append(p1)
-                if p2: new_blocks.append(p2)
+                parts = []
+                prev = 0
+                for pos in sorted(set(cut_positions)):
+                    seg = text[prev:pos].strip()
+                    if seg: parts.append(seg)
+                    prev = pos
+                tail = text[prev:].strip()
+                if tail: parts.append(tail)
+                new_blocks.extend(parts if parts else [text])
             i += 1
 
     return new_blocks

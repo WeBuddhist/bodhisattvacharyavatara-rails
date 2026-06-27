@@ -93,7 +93,7 @@ These skills populate `2-RAILS/` with the structured context that translation an
 ### `verse-context` **[exists]**
 **Purpose:** Build the verse-level context file for one verse.
 **Inputs:** Root-text verse (from `1-SOURCES/`), all commentary passages that discuss it (via block transclusions from `1-SOURCES/`).
-**Outputs:** One file at `2-RAILS/Verses/<verse-id>.md` containing: (1) transclusions of commentary passages, (2) a synthesis of the commentators' interpretations in the original language, (3) a disambiguated restatement of the verse in the original language precise enough to exclude any mistranslation.
+**Outputs:** One file at `2-RAILS/Verses/<verse-id>.md` with: Sanskrit + Tibetan source transclusions; per-commentary English paraphrase (Traditional Interpretation) + Divergences; and the Tibetan descriptive layers — an AI-Overview synthesis (generation prompt lives in the skill), a chendrel (ཚིག་འགྲེལ) word-commentary replacing the old UCCA layer, word-by-word disambiguation, key concepts (in-verse / from-commentary), attached stories, metaphors, scriptural quotations, and a disambiguated restatement. Format is authoritative in `2-RAILS/About Rails.md` §5.
 → [`verse-context/SKILL.md`](verse-context/SKILL.md)
 
 ### `local-wiki-article` **[exists]**
@@ -125,6 +125,12 @@ These skills populate `2-RAILS/` with the structured context that translation an
 **Inputs:** `2-RAILS/Bilingual-Glossaries/<lang-pair>.md`, `3-TRANSFORMATIONS/Translations/<track-name>/requirements.md`, Local-Wiki articles as needed.
 **Outputs:** `3-TRANSFORMATIONS/Translations/<track-name>/termbase.md` — the prescriptive termbase scoped to keywords that appear in the text being translated; plus updates to the consolidated bilingual glossary for any new derived renderings.
 → [`glossary-select/SKILL.md`](glossary-select/SKILL.md)
+
+### `AI-summary-generator` **[exists]**
+**Purpose:** Generate the scholarly "AI Overview" synthesis layer for one verse in Tibetan — core synthesis, key themes, divergences, and practical application — drawing only on that verse's already-cited Traditional Interpretation paraphrases.
+**Inputs:** A verse ID and its `2-RAILS/Verses/<verse-id>.md` file (its Traditional Interpretation section is the sole source).
+**Outputs:** The AI Overview (བསྡུས་དོན།) section of `2-RAILS/Verses/<verse-id>.md`, written or replaced in place; no other layer touched.
+→ [`AI-summary-generator/SKILL.md`](AI-summary-generator/SKILL.md)
 
 ---
 

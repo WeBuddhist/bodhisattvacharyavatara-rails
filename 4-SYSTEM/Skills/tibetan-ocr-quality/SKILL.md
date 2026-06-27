@@ -47,9 +47,9 @@ Interpretation:
 
 ## Rules
 
-1. **Dependencies must be installed before running.** The script requires `kenlm` and `botok` Python packages. Install with: `pip install kenlm botok --break-system-packages`.
+1. **Dependencies must be installed before running.** The script requires only the `kenlm` Python package. Install with: `pip install kenlm --break-system-packages`. The Botok normalization logic is inlined in the script — no `botok` dependency needed.
 2. **The ARPA model must be present on disk.** If the model file is not found at the expected path, the skill stops and tells the user to download it from `https://huggingface.co/openpecha/BoKenlm-syl-v0.4`.
-3. **Normalization uses Botok's `normalize_for_perplexity()`.** Do not implement custom tokenization — always use Botok's pipeline to ensure consistency with the model's training tokenization.
+3. **Normalization uses the inlined `normalize_for_perplexity()`.** The function is ported from Botok's `corpus_normalization.py` (Apache-2.0) to ensure consistency with the model's training tokenization, without requiring botok as a runtime dependency.
 4. **Do not modify the input file.** This is a read-only quality check.
 5. **Empty files or files with no Tibetan content must be reported, not scored.** If normalization produces zero tokens, report an error rather than dividing by zero.
 
@@ -57,9 +57,9 @@ Interpretation:
 
 ## Procedure
 
-1. **Check dependencies.** Verify `kenlm` and `botok` are importable. If not, install them:
+1. **Check dependencies.** Verify `kenlm` is importable. If not, install it:
    ```
-   pip install kenlm botok --break-system-packages
+   pip install kenlm --break-system-packages
    ```
 
 2. **Locate the model file.** Check the path provided by the user, or the default `4-SYSTEM/models/BoKenlm-syl-v0.4.arpa`. If not found, stop and instruct the user to download it:
@@ -79,7 +79,7 @@ Interpretation:
 
 ## Completion check
 
-- [ ] `kenlm` and `botok` are installed and importable
+- [ ] `kenlm` is installed and importable
 - [ ] Model file exists at the specified path
 - [ ] Script ran without errors on the input file
 - [ ] Perplexity score was reported to the user

@@ -310,7 +310,7 @@ Section order follows `layer_order:`. Sections with no content for a given verse
 
 Keep paraphrase prose concise. No quoting commentaries at length except in the Quotations section (where verbatim scripture is the point). **Traditional Interpretation is in English; every other section is in Tibetan** (per the vault-annex language convention — the Disambiguated Restatement is likewise Tibetan, the original language). Original-language terms italicised on first use in the English sections.
 
-Authoring skill: `verse-context`.
+Authoring skill: `verse-context`. A blank copy-me skeleton in this format lives at [`Verses/_TEMPLATE.md`](Verses/_TEMPLATE.md).
 
 ---
 

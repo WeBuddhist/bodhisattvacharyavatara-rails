@@ -75,7 +75,7 @@ The confession continues, showing why there is no time to waste. We have all wat
 
 ## From the Tradition
 
-Think of waking from a dream where something good has just happened. A moment ago it felt real; now it is only something you remember. **Gyaltsab Je**, a fifteenth-century teacher, says the things we enjoy now end the same way. The win, the meal, the company we hold onto: at death each one becomes only a memory of something we once had, nothing we can still reach. The verse already says we must leave it all behind. Gyaltsab adds where that leaves the wrongs we do to grab and defend these things. The harm stays with us; the thing we did it for is gone. So he says to decide, again and again, starting now, to put our effort into what lasts.
+Think of waking from a good dream that felt real but is now just a memory. The fifteenth-century teacher Gyaltsab Je says the things we enjoy in life end the exact same way. At death, our successes and relationships become memories we can no longer touch. The verse already says we must leave everything behind. Gyaltsab points out the danger of the bad deeds we commit to get and protect these things. The harm we caused stays with us, but the prize is gone. Therefore, he urges us to continually focus our efforts on what actually lasts.
 
 ## Aspiration and Dedication
 

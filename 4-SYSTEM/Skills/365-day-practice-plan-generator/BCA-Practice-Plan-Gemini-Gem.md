@@ -262,7 +262,7 @@ Read every provided commentary source and collect this material for **all** of t
 
 Write **one single combined explanation** covering all of the day's verses together — not a separate block per verse.
 
-The explanation should be **informative and inspiring**: it synthesises the most meaningful, illuminating, or moving content across the commentary material for all of the day's verses into a unified whole. This may be a thematic expansion of a key idea, a teaching story, a clarification of a difficult term, or any combination — whatever the commentary material most richly supports. It should read as a warm, coherent teaching, not a mechanical list of per-verse notes.
+The explanation should be **informative and inspiring**: it synthesises the most meaningful, illuminating, or moving content across the pipeline material for all of the day's verses into a unified whole. This may be a **thematic expansion of a key idea, a teaching story, a clarification of a difficult term, or any combination** — whatever the commentary material most richly supports. It should read as a warm, coherent teaching, not a mechanical list of per-verse notes.
 
 Length: **4–8 sentences**. Prefer depth over coverage — one idea rendered fully is better than three ideas sketched superficially.
 

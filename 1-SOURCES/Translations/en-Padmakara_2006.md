@@ -12,13 +12,13 @@ root_text: 1-SOURCES/Text/BCAV08_SH_sk.md
 covers_verses: 0-1–10-58
 source_description: "Padmakara Translation Group (2006). The Way of the Bodhisattva. Revised edition. Boston: Shambhala Publications."
 ---
-The Way of the Bodhisattva ^T-1
+# The Way of the Bodhisattva ^T-1
 
 ## 0. Introduction ^I-0
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^1-0]]
-
 ## 1. The Excellence of Bodhichitta ^1-0
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^I-1]]
 
 Homage to all Buddhas and Bodhisattvas. ^I-1
 
@@ -273,8 +273,6 @@ To them in whom this precious jewel of mind
 Is born—to them I bow!
 I go for refuge to those springs of happiness
 Who bring their very enemies to perfect bliss. ^1-36
-
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^2-0]]
 
 ## 2. Confession ^2-0
 
@@ -733,8 +731,6 @@ To take me as I am, a sinful man.
 And all these actions, evil as they are,
 I promise I will never do again. ^2-65
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^3-0]]
-
 ## 3. Taking Hold of Bodhichitta ^3-0
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^3-1]]
@@ -970,8 +966,6 @@ Here, O ceaseless travelers, is your fulfillment! ^3-33
 I summon beings, calling them to Buddhahood.
 And, till that state is reached, to every earthly joy!
 May gods and demigods and all the rest rejoice!” ^3-34
-
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^4-0]]
 
 ## 4. Carefulness ^4-0
 
@@ -1313,8 +1307,6 @@ This is how I should reflect and labor,
 That I might apply the precepts thus set forth.
 What invalids in need of medicine
 Ignored their doctor’s words and gained their health? ^4-48
-
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^5-0]]
 
 ## 5. Vigilant Introspection ^5-0
 
@@ -2080,8 +2072,6 @@ But all this must be acted out in truth,
 For what is to be gained by mouthing syllables?
 What invalid was ever helped
 By merely reading in the doctor’s treatises? ^5-109
-
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^6-0]]
 
 ## 6. Patience ^6-0
 
@@ -3023,8 +3013,6 @@ As beauty, health, and good renown.
 Its fruit is great longevity,
 The vast contentment of a universal king. ^6-134
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-0]]
-
 ## 7. Diligence ^7-0
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-1]]
@@ -3456,103 +3444,109 @@ Must not fall down beneath defilement’s power. ^7-61
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-62]]
 
+Better for me to be burned to death,
+And better to be killed, my head cut off!
+At no time will I bow and scrape
+Before that foe of mine, defiled emotion.
+62a.
+Thus in every time and place
+I will not wander from the wholesome path. ^7-62
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-63]]
+
 Like those who take great pleasure in their games,
 Whatever task the Bodhisattvas do,
 Let them devote themselves without reserve,
-With joyfulness that never knows satiety. ^7-62
+With joyfulness that never knows satiety. ^7-63
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-63]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-64]]
 
 People labor hard to gain contentment
 Though success is very far from sure.
 But how can they be happy if they do not do
-Those deeds that are the source of joy to them? ^7-63
+Those deeds that are the source of joy to them? ^7-64
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-64]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-65]]
 
 And since they never have enough of pleasure,
 Honey on the razor’s edge,
 How could they have enough of merit,
-Fruits of which are happiness and peace? ^7-64
+Fruits of which are happiness and peace? ^7-65
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-65]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-66]]
 
 The elephant, tormented by the noonday sun,
 Will dive into the waters of a lake,
 And likewise I must plunge into my work
-That I might bring it to completion. ^7-65
+That I might bring it to completion. ^7-66
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-66]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-67]]
 
 If impaired by weakness or fatigue,
 I’ll lay the work aside, the better to resume.
 And I will leave the task when it’s complete,
-All avid for the work that’s next to come. ^7-66
+All avid for the work that’s next to come. ^7-67
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-67]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-68]]
 
 As seasoned fighters face the swords
 Of enemies upon the battle line,
 I’ll lightly dodge the weapons of defilement,
-And strike my enemy upon the quick. ^7-67
+And strike my enemy upon the quick. ^7-68
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-68]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-69]]
 
 If, in the fray, the soldier drops his sword,
 In fright, he swiftly takes it up again.
 So likewise, if the arm of mindfulness is lost,
-In fear of hell, I’ll quickly get it back! ^7-68
+In fear of hell, I’ll quickly get it back! ^7-69
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-69]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-70]]
 
 Just as poison fills the body,
 Borne on the current of the blood,
 Likewise evil, when it finds its chance,
-Will spread and permeate the mind. ^7-69
+Will spread and permeate the mind. ^7-70
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-70]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-71]]
 
 I will be like a frightened man, a brimming oil-jar in his hand,
 And menaced by a swordsman saying,
 “Spill one drop and you shall die!”
-This is how practitioners should hold themselves. ^7-70
+This is how practitioners should hold themselves. ^7-71
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-71]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-72]]
 
 Just as a man would swiftly stand
 If in his lap a serpent were to glide,
 If sleep and lethargy beset me,
-I will speedily repulse them. ^7-71
+I will speedily repulse them. ^7-72
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-72]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-73]]
 
 Every time, then, that I fail,
 I will reprove and chide myself,
 Thinking long that by whatever means
-Such faults in future shall no more occur. ^7-72
+Such faults in future shall no more occur. ^7-73
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-73]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-74]]
 
 At all times and in any situation,
 How can I make mindfulness my constant habit?
 Thinking thus I will desire
-To meet with teachers and fulfill the proper tasks. ^7-73
+To meet with teachers and fulfill the proper tasks. ^7-74
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-74]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-75]]
 
 By all means, then, before I start some work,
 That I might have the strength sufficient to the task,
 I will recall the teachings upon carefulness
-And lightly rise to what is to be done. ^7-74
-
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-75]]
+And lightly rise to what is to be done. ^7-75
 
 Just as flaxen threads waft to and fro,
 Impelled by every breath of wind,
 So all I do will be achieved,
-Controlled by movements of a joyful heart. ^7-75
-
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-0]]
+Controlled by movements of a joyful heart. ^7-76
 
 ## 8. Meditative Concentration ^8-0
 
@@ -3887,971 +3881,979 @@ Just like a risen corpse propelled by some strange influence? ^8-47
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-48]]
 
+You loved it once, when clothed and draped it was.
+Well, now it’s naked, why do you not want it?
+Ah, you say, your need is no more there,
+But why did you embrace it, all bedecked and covered? ^8-48
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-49]]
+
 From food, a single source, come equally
 The body’s filth and nectar of the mouth.
 So why are you delighted by saliva,
-And yet repelled by excrement? ^8-48
+And yet repelled by excrement? ^8-49
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-49]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-50]]
 
 Taking no delight in pillows
 Made of cotton soft to touch,
 You claim the human form emits no stench.
-Befooled by lust, its filth you do not recognize! ^8-49
-
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-50]]
-
-You loved it once, when clothed and draped it was.
-Well, now it’s naked, why do you not want it?
-Ah, you say, your need is no more there,
-But why did you embrace it, all bedecked and covered? ^8-50
+Befooled by lust, its filth you do not recognize! ^8-50
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-51]]
+
+Lustful one, befuddled by desire,
+Because you cannot copulate with it,
+You angrily find fault with cotton,
+Soft though it may be to touch! ^8-51
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-52]]
 
 And if you have no love of filth,
 How can you coddle on your lap
 A cage of bones tied fast with sinews,
-Plastered over with the mud of flesh? ^8-51
+Plastered over with the mud of flesh? ^8-52
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-52]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-53]]
 
 In fact you’re full of filth yourself;
 You wallow in it constantly.
 It is indeed just filth that you desire,
-And therefore long for other sacks of it! ^8-52
+And therefore long for other sacks of it! ^8-53
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-53]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-54]]
 
 “But it’s the skin and flesh I love
 To touch and look upon.”
 Then why do you not wish for flesh alone,
-Inanimate and in its natural state? ^8-53
+Inanimate and in its natural state? ^8-54
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-54]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-55]]
 
 The mind that you perhaps desire,
 You cannot hold or look upon.
 Whatever you can hold or see is not the mind—
-Why copulate with something it is not? ^8-54
+Why copulate with something it is not? ^8-55
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-55]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-56]]
 
 To fail to grasp the unclean nature
 Of another’s flesh is not perhaps so strange.
 But not to see the filthy nature
-Of oneself is very strange indeed! ^8-55
+Of oneself is very strange indeed! ^8-56
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-56]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-57]]
 
 Why does the mind, intent on filthiness,
 Neglect the fresh young lotus blossom,
 Opened in the sunlight of a cloudless sky,
-To take joy rather in a sack of dirt? ^8-56
+To take joy rather in a sack of dirt? ^8-57
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-57]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-58]]
 
 And since you’re disinclined to touch
 A place or object grimed with excrement,
 Why do you wish to touch the body
-Whence such excrement has come? ^8-57
+Whence such excrement has come? ^8-58
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-58]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-59]]
 
 And if you have no craving for impurity,
 Why will you now embrace and kiss
 What comes from such an unclean place,
-Engendered likewise from an unclean seed? ^8-58
+Engendered likewise from an unclean seed? ^8-59
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-59]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-60]]
 
 The tiny fetid worms that come from filth—
 You have no love of them.
 And yet you’re lusting for a human form,
-From filth arisen and replete with it. ^8-59
+From filth arisen and replete with it. ^8-60
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-60]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-61]]
 
 Toward your own impurity
 Disgust you do not feel;
 And yearning and athirst for filth,
-You long for other sacks of it! ^8-60
+You long for other sacks of it! ^8-61
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-61]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-62]]
 
 Pleasant substances like camphor,
 Rice, and fresh green herbs—
 Put them in your mouth and spit them out:
-The earth itself is fouled thereby! ^8-61
+The earth itself is fouled thereby! ^8-62
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-62]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-63]]
 
 If still you doubt such filthiness,
 Though it is very plain for all to see,
 Go off into the charnel grounds;
-Observe the fetid bodies there abandoned. ^8-62
+Observe the fetid bodies there abandoned. ^8-63
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-63]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-64]]
 
 When their skins are peeled away,
 You feel great horror and revulsion.
 Now that you have understood,
-How can you still take joy in such a thing? ^8-63
+How can you still take joy in such a thing? ^8-64
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-64]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-65]]
 
 The scent that now perfumes the skin
 Is sandalwood and nothing else.
 Yet how is it that one thing’s fragrance
-Causes you to long for something else? ^8-64
+Causes you to long for something else? ^8-65
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-65]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-66]]
 
 Is it not best to have no lust
 For something that by nature stinks?
 The worldly crave beside their purpose—
-Why do they anoint their flesh with pleasant scents? ^8-65
+Why do they anoint their flesh with pleasant scents? ^8-66
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-66]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-67]]
 
 For if this scent is sandalwood,
 How can it be the perfume of the body?
 How is it that the fragrance of a thing
-Induces you to crave for something else? ^8-66
+Induces you to crave for something else? ^8-67
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-67]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-68]]
 
 With lanky hair, with long nails overgrown,
 With dirty teeth all reeking with the stink of slime,
 This body, naked, as it is, untended—
-Is indeed a horror to behold! ^8-67
+Is indeed a horror to behold! ^8-68
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-68]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-69]]
 
 Why go to such excess to clean and polish
 What is but a weapon that will injure you?
 The cares that people squander on themselves in ignorance
-Convulse the universe with madness. ^8-68
+Convulse the universe with madness. ^8-69
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-69]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-70]]
 
 When you saw the heaps of human bones,
 You felt revulsion in the charnel ground.
 And will you take delight in cities of the dead
-Frequented by such skeletons that live and move? ^8-69
+Frequented by such skeletons that live and move? ^8-70
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-70]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-71]]
 
 What’s more, possession of another’s filth
 Is not to be acquired free of charge.
 All is at a price: exhaustion in this life,
-And in the next, the suffering of hell! ^8-70
+And in the next, the suffering of hell! ^8-71
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-71]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-72]]
 
 To gather riches young boys are unable,
 And what can they enjoy when they’re full grown?
 The whole of life is spent in gaining wealth,
-But then they’re old—too old to satisfy their lust! ^8-71
+But then they’re old—too old to satisfy their lust! ^8-72
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-72]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-73]]
 
 Some are wretched in their great desire,
 But worn out by their daylong work,
 They go home broken by fatigue
-To sleep the slumbers of a corpse. ^8-72
+To sleep the slumbers of a corpse. ^8-73
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-73]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-74]]
 
 Some, wearied by their travels far from home,
 Must suffer separation from their wives
 And children whom they love and long to see.
-They do not meet with them for years on end. ^8-73
+They do not meet with them for years on end. ^8-74
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-74]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-75]]
 
 Some, ambitious for prosperity,
 Not knowing how to get it, sell themselves.
 Happiness eludes their grasp and pointlessly
-They live and labor for their masters. ^8-74
+They live and labor for their masters. ^8-75
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-75]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-76]]
 
 Some sell themselves, no longer free,
 In bondage, slavery to others.
 And, destitute, their wives give birth
-With only trees for shelter, in the wild. ^8-75
+With only trees for shelter, in the wild. ^8-76
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-76]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-77]]
 
 Fools deceived by craving for a livelihood
 Decide that they will make their fortune
 In the wars, though fearful for their lives.
-And seeking gain, it’s slavery they get. ^8-76
+And seeking gain, it’s slavery they get. ^8-77
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-77]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-78]]
 
 Some, as the result of craving,
 Have their bodies slashed, impaled on pointed stakes.
 Some are wounded, run through by the lance,
-While some are put to death by fire. ^8-77
+While some are put to death by fire. ^8-78
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-78]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-79]]
 
 The pain of gaining, keeping, and of losing all!
 See the endless hardships brought on us by property!
 For those distracted by their love of wealth
-There is no chance for freedom from the sorrows of existence. ^8-78
+There is no chance for freedom from the sorrows of existence. ^8-79
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-79]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-80]]
 
 They indeed, possessed of many wants,
 Will suffer many troubles, all for very little:
 They’re like the ox that pulls the cart
-And catches bits of grass along the way. ^8-79
+And catches bits of grass along the way. ^8-80
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-80]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-81]]
 
 For sake of such a paltry thing,
 Which is not rare, which even beasts can find,
 Tormented by their karma, they destroy
-This precious human life so hard to find. ^8-80
+This precious human life so hard to find. ^8-81
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-81]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-82]]
 
 All that we desire is sure to perish,
 On which account we fall to hellish pain.
 For what amounts to very little
-We must suffer constant and exhausting weariness. ^8-81
+We must suffer constant and exhausting weariness. ^8-82
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-82]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-83]]
 
 With but a millionth part of such vexation
 Enlightenment itself could be attained!
 Those who crave are plagued far more than those engaged upon the path,
-Yet Buddhahood is not what they attain! ^8-82
+Yet Buddhahood is not what they attain! ^8-83
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-83]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-84]]
 
 Reflect upon the pains of hell and other evil states!
 Weapons, fires, and poisons,
 Yawning chasms, hostile foes—
-None is on a level with our cravings. ^8-83
+None is on a level with our cravings. ^8-84
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-84]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-85]]
 
 So, revolted by our lust and wanting,
 Let us now rejoice in solitude,
 In places empty of all conflict and defilement:
-The peace and stillness of the forest. ^8-84
+The peace and stillness of the forest. ^8-85
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-85]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-86]]
 
 Happy those intent on others’ good,
 Who roam in pleasant places formed of massive stone,
 Refreshed by moonlight’s sandal-scented beams,
-By gentle woodland breezes soothed! ^8-85
+By gentle woodland breezes soothed! ^8-86
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-86]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-87]]
 
 In caves, beneath the trees, in houses left abandoned,
 May we linger long as we might wish.
 Relinquishing the pain of guarding our possessions,
-Let us live in freedom, unconfined by cares. ^8-86
+Let us live in freedom, unconfined by cares. ^8-87
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-87]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-88]]
 
 To have such liberty unmarred by craving,
 Loosed from every bond and tie—
 A life of such contentment and such pleasure,
-Even Indra would be pressed to find! ^8-87
+Even Indra would be pressed to find! ^8-88
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-88]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-89]]
 
 Reflecting in such ways as these
 Upon the excellence of solitude,
 Pacify completely all discursiveness
-And cultivate the mind of bodhichitta. ^8-88
+And cultivate the mind of bodhichitta. ^8-89
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-89]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-90]]
 
 Strive at first to meditate
 Upon the sameness of yourself and others.
 In joy and sorrow all are equal;
-Thus be guardian of all, as of yourself. ^8-89
+Thus be guardian of all, as of yourself. ^8-90
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-90]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-91]]
 
 The hand and other limbs are many and distinct,
 But all are one—the body to be kept and guarded.
 Likewise, different beings, in their joys and sorrows,
-Are, like me, all one in wanting happiness. ^8-90
+Are, like me, all one in wanting happiness. ^8-91
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-91]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-92]]
 
 This pain of mine does not afflict
 Or cause discomfort to another’s body,
 And yet this pain is hard for me to bear
-Because I cling and take it for my own. ^8-91
+Because I cling and take it for my own. ^8-92
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-92]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-93]]
 
 And other beings’ pain
 I do not feel, and yet,
 Because I take them for myself,
-Their suffering is mine and therefore hard to bear. ^8-92
+Their suffering is mine and therefore hard to bear. ^8-93
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-93]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-94]]
 
 And therefore I’ll dispel the pain of others,
 For it is simply pain, just like my own.
 And others I will aid and benefit,
-For they are living beings, like my body. ^8-93
-
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-94]]
-
-Since I and other beings both,
-In wanting happiness, are equal and alike,
-What difference is there to distinguish us,
-That I should strive to have my bliss alone? ^8-94
+For they are living beings, like my body. ^8-94
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-95]]
 
 Since I and other beings both,
-In fleeing suffering, are equal and alike,
+In wanting happiness, are equal and alike,
 What difference is there to distinguish us,
-That I should save myself and not the others? ^8-95
+That I should strive to have my bliss alone? ^8-95
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-96]]
+
+Since I and other beings both,
+In fleeing suffering, are equal and alike,
+What difference is there to distinguish us,
+That I should save myself and not the others? ^8-96
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-97]]
 
 Since the pain of others does no harm to me,
 I do not shield myself from it.
 So why to guard against “my” future pain,
-Which does no harm to this, my present “me”? ^8-96
+Which does no harm to this, my present “me”? ^8-97
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-97]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-98]]
 
 To think that “I will have to bear it”
 Is in fact a false idea.
 For that which dies is one thing;
-What is born is something else. ^8-97
+What is born is something else. ^8-98
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-98]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-99]]
 
 “It’s for the sufferers themselves,” you’ll say,
 “To shield themselves from injuries that come!”
 The pain felt in my foot is not my hand’s,
-So why, in fact, should one protect the other? ^8-98
+So why, in fact, should one protect the other? ^8-99
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-99]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-100]]
 
 “True, it’s inadmissible,” you’ll say,
 “It happens simply through the force of ego-clinging.”
 But what is inadmissible for others and myself
-Should be discarded utterly! ^8-99
+Should be discarded utterly! ^8-100
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-100]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-101]]
 
 Continua and gatherings, so-called,
 Like garlands and like armies, are unreal.
 So there is no one to experience pain
-For who is there to be its “owner”? ^8-100
+For who is there to be its “owner”? ^8-101
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-101]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-102]]
 
 Suffering has no “possessor,”
 Therefore no distinctions can be made in it.
 Since pain is pain, it is to be dispelled.
-What use is there in drawing boundaries? ^8-101
+What use is there in drawing boundaries? ^8-102
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-102]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-103]]
 
 “But why dispel the pains of all?”
 You cannot argue in this way!
 If “my” pain is removed, so too should that of “others.”
-If theirs is not, then neither should be mine. ^8-102
+If theirs is not, then neither should be mine. ^8-103
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-103]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-104]]
 
 “Compassion makes us feel such pain,” you say,
 “So why should we make efforts to engender it?”
 But thinking of the sufferings of beings,
-How can you regard as great the smart of your compassion? ^8-103
+How can you regard as great the smart of your compassion? ^8-104
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-104]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-105]]
 
 And if through such a single pain
 A multitude of sorrows can be cured,
 Such pain as this all loving people
-Strive to foster in themselves and others. ^8-104
+Strive to foster in themselves and others. ^8-105
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-105]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-106]]
 
 Thus Supuṣhpachandra,
 Knowing that the king would cause him harm,
 Did nothing to escape from tribulation,
-That the pains of many should be ended. ^8-105
+That the pains of many should be ended. ^8-106
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-106]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-107]]
 
 Those whose minds are practiced in this way,
 Whose joy it is to soothe another’s ills,
 Will venture into hell of Unrelenting Pain
-As swans sweep down upon a lotus lake. ^8-106
+As swans sweep down upon a lotus lake. ^8-107
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-107]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-108]]
 
 The ocean-like immensity of joy
 Arising when all beings will be freed,
 Will this not be enough? Will this not satisfy?
-The wish for my own freedom, what is that to me? ^8-107
+The wish for my own freedom, what is that to me? ^8-108
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-108]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-109]]
 
 The work of bringing benefit to beings
 Will not, then, make me proud and self-admiring.
 The happiness of others is itself my satisfaction;
-I do not expect another recompense. ^8-108
+I do not expect another recompense. ^8-109
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-109]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-110]]
 
 Therefore just as I defend myself
 From even slight disparagement,
 In just the same way with regard to others,
-I should likewise have a mind protective and compassionate. ^8-109
+I should likewise have a mind protective and compassionate. ^8-110
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-110]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-111]]
 
 The drop of sperm and blood belonged to others.
 Yet, through strong habituation,
 I came to have in its regard a sense of “I,”
-Though, in itself, it is devoid of entity. ^8-110
+Though, in itself, it is devoid of entity. ^8-111
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-111]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-112]]
 
 And so, why not identify
 Another’s body, calling it my “I”?
 And vice versa, why should it be hard
-To think of this my body as another’s? ^8-111
+To think of this my body as another’s? ^8-112
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-112]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-113]]
 
 Perceiving now the faults possessed by “I,”
 The ocean of good qualities that are in “other,”
 I shall lay aside all love of self
-And gain the habit of adopting other beings. ^8-112
+And gain the habit of adopting other beings. ^8-113
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-113]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-114]]
 
 Just as hands and other limbs
 Are thought of as the members of a body,
 Can we likewise not consider others
-As the limbs and members of a living whole? ^8-113
+As the limbs and members of a living whole? ^8-114
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-114]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-115]]
 
 Just as in connection with this form, devoid of self,
 My sense of “I” arose through strong habituation,
 Why should not the thought of “I,”
-Through habit, not arise related to another? ^8-114
+Through habit, not arise related to another? ^8-115
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-115]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-116]]
 
 Thus when I work for others’ sake,
 There’ll be no sense of boasting self-congratulation.
 It is just as when I feed myself—
-I don’t expect to be rewarded! ^8-115
+I don’t expect to be rewarded! ^8-116
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-116]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-117]]
 
 Therefore just as I defend myself
 From even slight disparagement,
 Likewise for beings I shall now grow used
-To have a mind protective and compassionate. ^8-116
+To have a mind protective and compassionate. ^8-117
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-117]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-118]]
 
 This is why the Lord Avalokita
 Out of great compassion blessed his name,
 That those caught in the midst of multitudes
-Might be released and freed from every fear. ^8-117
+Might be released and freed from every fear. ^8-118
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-118]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-119]]
 
 And so we should be undeterred by hardships,
 For through the influence of use and habit,
 People even come to grieve
-For those whose very names struck terror in their hearts! ^8-118
+For those whose very names struck terror in their hearts! ^8-119
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-119]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-120]]
 
 Those desiring speedily to be
 A refuge for themselves and others
 Should make the interchange of “I” and “other,”
-And thus embrace a sacred mystery. ^8-119
+And thus embrace a sacred mystery. ^8-120
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-120]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-121]]
 
 Because of our attachment to our bodies,
 Even little things alarm us.
 This body, then, this source of so much terror—
-Who would not detest it as the worst of foes? ^8-120
+Who would not detest it as the worst of foes? ^8-121
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-121]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-122]]
 
 Wishing to relieve our bodies’ ills,
 Our hungry mouths, the dryness of our throats,
 We steal the lives of fishes, birds, and deer
-And lie in wait along the road. ^8-121
+And lie in wait along the road. ^8-122
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-122]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-123]]
 
 And for the sake of profit and position
 Some there are who even kill their parents,
 Or steal what has been offered to the Triple Gem,
-Because of which, they’ll burn in hell of Unrelenting Pain. ^8-122
+Because of which, they’ll burn in hell of Unrelenting Pain. ^8-123
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-123]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-124]]
 
 Where are the wise and prudent then
 Who cherish, guard, and serve the body?
 Who would not perceive it as their foe,
-And as their foe, regard it with contempt? ^8-123
+And as their foe, regard it with contempt? ^8-124
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-124]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-125]]
 
 “If I give this, what will be left for me?”
 Thinking of oneself—the way of evil ghosts.
 “If I keep this, what will be left to give?”
-Concern for others is the way of heaven. ^8-124
+Concern for others is the way of heaven. ^8-125
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-125]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-126]]
 
 If to serve myself I harm another,
 I’ll suffer later in the realms of hell.
 But if for others’ sake I harm myself,
-Then every excellence will be my heritage. ^8-125
+Then every excellence will be my heritage. ^8-126
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-126]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-127]]
 
 Wanting what is best for me—
 Stupidity, inferiority, and lower realms result!
 Let this be changed, applied to others—
-Honors and the realms of bliss will come! ^8-126
+Honors and the realms of bliss will come! ^8-127
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-127]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-128]]
 
 Enslaving others, forcing them to serve me,
 I will come to know the state of servitude.
 But if I labor for the good of others,
-Mastery and leadership will come to me. ^8-127
+Mastery and leadership will come to me. ^8-128
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-128]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-129]]
 
 All the joy the world contains
 Has come through wishing happiness for others.
 All the misery the world contains
-Has come through wanting pleasure for oneself. ^8-128
+Has come through wanting pleasure for oneself. ^8-129
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-129]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-130]]
 
 Is there need for lengthy explanation?
 Childish beings look out for themselves;
 Buddhas labor for the good of others:
-See the difference that divides them! ^8-129
+See the difference that divides them! ^8-130
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-130]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-131]]
 
 If I do not interchange
 My happiness for others’ pain,
 Enlightenment will never be attained,
-And even in saṃsāra, joy will fly from me. ^8-130
+And even in saṃsāra, joy will fly from me. ^8-131
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-131]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-132]]
 
 Leaving future lives outside the reckoning,
 Even this life’s needs are not fulfilled:
 The servants do not do their work,
-And masters do not pay the wages earned. ^8-131
+And masters do not pay the wages earned. ^8-132
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-132]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-133]]
 
 Casting far away abundant joys
 That may be gained in this or future lives,
 Because of bringing harm to other beings,
-I ignorantly bring myself intolerable pain. ^8-132
+I ignorantly bring myself intolerable pain. ^8-133
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-133]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-134]]
 
 All the harm with which this world is rife,
 All fear and suffering that there is,
 Clinging to the “I” has caused it!
-What am I to do with this great demon? ^8-133
+What am I to do with this great demon? ^8-134
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-134]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-135]]
 
 If this “I” is not relinquished wholly,
 Sorrow likewise cannot be avoided.
 If they do not keep away from fire,
-People can’t escape from being burned. ^8-134
+People can’t escape from being burned. ^8-135
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-135]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-136]]
 
 To free myself from harm
 And others from their sufferings,
 Let me give myself to others,
-Loving them as I now love myself. ^8-135
+Loving them as I now love myself. ^8-136
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-136]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-137]]
 
 “For I am now beneath the rule of others,”
 Of this you must be certain, O my mind.
 And now no longer shall you have a thought
-That does not wish the benefit of beings. ^8-136
+That does not wish the benefit of beings. ^8-137
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-137]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-138]]
 
 My sight and other senses, now the property of others—
 To use them for myself would be improper.
 And it is likewise disallowed
-To use my faculties against their owners! ^8-137
+To use my faculties against their owners! ^8-138
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-138]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-139]]
 
 Thus sentient beings will be my chief concern.
 And everything I see my body has
 Will all be seized and offered
-For the use and service of all other beings. ^8-138
+For the use and service of all other beings. ^8-139
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-139]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-140]]
 
 Take others—lower, higher, equal—as yourself,
 Identify yourself as “other.”
 Then, without another thought,
-Immerse yourself in envy, pride, and rivalry. ^8-139
+Immerse yourself in envy, pride, and rivalry. ^8-140
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-140]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-141]]
 
 He’s the center of attention. I am nothing.
 And, unlike him, I’m poor without possessions.
 Everyone looks up to him, despising me,
-All goes well for him; for me there’s only bitterness! ^8-140
+All goes well for him; for me there’s only bitterness! ^8-141
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-141]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-142]]
 
 All I have is sweat and drudgery,
 While he’s there, sitting at his ease.
 He’s great, respected in the world,
-While I’m the underdog, a well-known nobody. ^8-141
+While I’m the underdog, a well-known nobody. ^8-142
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-142]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-143]]
 
 What! A nobody without distinction?
 Not true! I do have some good qualities.
 Compared with some, he’s lower down.
-Compared with some, I do excel! ^8-142
+Compared with some, I do excel! ^8-143
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-143]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-144]]
 
 My discipline, my understanding have declined,
 But I am helpless, ruled by my defilements.
 As much as he is able, he should cure me.
-I will be submissive even to his punishments. ^8-143
+I will be submissive even to his punishments. ^8-144
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-144]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-145]]
 
 The fact is he does nothing of the sort!
 By what right, then, does he belittle me?
 What use, then, are his qualities to me—
-Those qualities of which he’s so possessed? ^8-144
+Those qualities of which he’s so possessed? ^8-145
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-145]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-146]]
 
 Indifferent to the plight of living beings,
 Who tread the brink of evil destinies,
 He makes an outward show of virtues,
-And even wants to vie with sages. ^8-145
+And even wants to vie with sages. ^8-146
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-146]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-147]]
 
 That I might excel, outstripping him—
 Him, regarded as my peer and equal!
 In contests I will certainly secure
-My fame and fortune, public renown. ^8-146
+My fame and fortune, public renown. ^8-147
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-147]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-148]]
 
 By every means I’ll advertise
 My gifts to all the world,
 Ensuring that his qualities
-Remain unknown, ignored by everyone. ^8-147
+Remain unknown, ignored by everyone. ^8-148
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-148]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-149]]
 
 My faults I will conceal, dissimulate.
 For I, not he, will be the object of devotion;
 I, not he, will gain possessions and renown,
-I will be the center of attention. ^8-148
+I will be the center of attention. ^8-149
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-149]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-150]]
 
 I will take such satisfaction
 In his evil deeds and degradation.
 I will render him despicable,
-The butt and laughingstock of everyone. ^8-149
+The butt and laughingstock of everyone. ^8-150
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-150]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-151]]
 
 People say this pitiful nonentity
 Is trying to compete with me!
 But how can he be on a par
-With me, in learning, beauty, wealth, or pedigree? ^8-150
+With me, in learning, beauty, wealth, or pedigree? ^8-151
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-151]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-152]]
 
 Just to hear them talk about my excellence,
 My reputation on the lips of all,
 The thrill of it sends shivers down my spine,
-A pleasure that I bask and revel in! ^8-151
+A pleasure that I bask and revel in! ^8-152
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-152]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-153]]
 
 Even if he does have something,
 I’m the one he’s working for!
 He can keep enough just to survive,
-But with my strength I’ll steal the rest away. ^8-152
+But with my strength I’ll steal the rest away. ^8-153
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-153]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-154]]
 
 I will wear his happiness away;
 I will always hurt and injure him.
 He’s the one who in saṃsāra
-Did me mischiefs by the hundred! ^8-153
+Did me mischiefs by the hundred! ^8-154
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-154]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-155]]
 
 Countless ages, O my mind,
 You spent, desiring to attain your aims.
 And what great weariness it was,
-While your reward was only misery! ^8-154
+While your reward was only misery! ^8-155
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-155]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-156]]
 
 And therefore now most certainly
 Apply yourself completely to the good of others.
 The Buddha did not lie in what he said—
-You’ll see the benefits that come from it. ^8-155
+You’ll see the benefits that come from it. ^8-156
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-156]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-157]]
 
 If indeed, you had in former times
 Embraced this work and undertaken it,
 You could not still be lacking
-In the perfect bliss of Buddhahood. ^8-156
+In the perfect bliss of Buddhahood. ^8-157
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-157]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-158]]
 
 Therefore, just as you identify
 A drop of others’ blood and sperm,
 And cling to it as though it were yourself,
-Now take sentient beings—others—as your self. ^8-157
+Now take sentient beings—others—as your self. ^8-158
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-158]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-159]]
 
 Now for others you should spy
 On everything your body seems to have.
 Steal it, take it all away,
-And use it for the benefit of others. ^8-158
+And use it for the benefit of others. ^8-159
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-159]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-160]]
 
 I indeed am happy, others sad;
 I am high and mighty, others low;
 I am helped while others are abandoned:
-Why am I not jealous of myself? ^8-159
+Why am I not jealous of myself? ^8-160
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-160]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-161]]
 
 Happiness, fulfillment: these I give away.
 The pain of others: this I will embrace.
 Inquiring of myself repeatedly
-I will thus investigate my faults. ^8-160
+I will thus investigate my faults. ^8-161
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-161]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-162]]
 
 When others are at fault, I’ll take
 And turn the blame upon myself,
 And all my sins, however slight,
-Declare, and make them known to many. ^8-161
+Declare, and make them known to many. ^8-162
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-162]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-163]]
 
 The fame of others I will magnify
 That it might thus outshine my own.
 Among them I will be as one who serves,
-My lowly labor for their benefit. ^8-162
+My lowly labor for their benefit. ^8-163
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-163]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-164]]
 
 This ego is by nature rife with faults,
 Its accidental gifts I should not praise.
 Whatever qualities it has I’ll so contrive
-That they remain unknown to everyone. ^8-163
+That they remain unknown to everyone. ^8-164
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-164]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-165]]
 
 All the harm, in short, that ego does
 To its advantage and to others’ cost,
 May all of it descend upon itself,
-To its own hurt—to others’ benefit. ^8-164
+To its own hurt—to others’ benefit. ^8-165
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-165]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-166]]
 
 Do not let it strut about the place,
 So arrogant, so overbearing.
 But like a newly wedded bride,
-Let it be demure and blushing, timorous and shy! ^8-165
+Let it be demure and blushing, timorous and shy! ^8-166
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-166]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-167]]
 
 “Do this!” “Be like that!” “Such things don’t ever do!”
 It’s thus that you will bring it forcibly to heel.
 And if it oversteps the mark,
-Well then, apply the lash! ^8-166
+Well then, apply the lash! ^8-167
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-167]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-168]]
 
 And so, O mind, if still you will refuse,
 Though you have been so lengthily advised,
 Since every evil has its roots in you,
-You are indeed now ripe for punishment! ^8-167
+You are indeed now ripe for punishment! ^8-168
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-168]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-169]]
 
 The time when you could do me harm
 Is in the past and now is here no more.
 Now I see you! Where will you escape?
-I’ll bring you down with all your haughty insolence. ^8-168
+I’ll bring you down with all your haughty insolence. ^8-169
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-169]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-170]]
 
 Let every thought of working for yourself
 Be utterly rejected, cast aside!
 Now that you’ve been sold to others,
-Stop your whining, be of service! ^8-169
+Stop your whining, be of service! ^8-170
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-170]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-171]]
 
 For if, through being inattentive,
 I do not deliver you to others,
 You will hand me over, it is certain,
-To the guards and janitors of hell. ^8-170
+To the guards and janitors of hell. ^8-171
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-171]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-172]]
 
 For this is how so many times
 You have betrayed me, and how long I’ve suffered!
 Now my memory is full of rancor,
-I will crush your selfish schemes! ^8-171
+I will crush your selfish schemes! ^8-172
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-172]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-173]]
 
 And so it is that if I want contentment,
 I should never seek to please myself.
 And likewise, if I wish to guard myself,
-Of others I should always be the guard. ^8-172
+Of others I should always be the guard. ^8-173
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-173]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-174]]
 
 To the extent this human form
 Is cosseted and saved from hurt,
 Just so, just so, to that degree,
-It dwindles to a weak and fretful state. ^8-173
+It dwindles to a weak and fretful state. ^8-174
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-174]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-175]]
 
 For those who sink to such a pass,
 The earth and all it holds
 Are powerless to satisfy.
-For who can give them all they crave? ^8-174
+For who can give them all they crave? ^8-175
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-175]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-176]]
 
 Their hopeless craving brings them misery,
 And evil schemes invade their minds,
 While those with free, untrammeled hearts,
-Will never know an end of excellence. ^8-175
+Will never know an end of excellence. ^8-176
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-176]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-177]]
 
 Therefore for the increase of my body’s wants,
 I’ll give no space, no opportunity.
 And of possessions, those things are the best
-That do not captivate by their attractiveness. ^8-176
+That do not captivate by their attractiveness. ^8-177
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-177]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-178]]
 
 Dust and ashes are the body’s final state—
 This body which, inert, is moved by other forces.
 This form so frightening and foul—
-Why do I so regard it as my “self”? ^8-177
+Why do I so regard it as my “self”? ^8-178
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-178]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-179]]
 
 Alive or dead what difference does it make?
 What use is this machine to me?
 What difference will divide it from a clod of earth?
-Alas that I don’t rid myself of pride! ^8-178
+Alas that I don’t rid myself of pride! ^8-179
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-179]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-180]]
 
 Through lavishing attention on this body,
 Such sorrow have I brought myself so senselessly.
 What use is all my wanting, all my hating,
-For what indeed is like a log of wood? ^8-179
+For what indeed is like a log of wood? ^8-180
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-180]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-181]]
 
 Whether I protect and pamper it,
 Or whether it is eaten up by carrion birds,
 This body feels no pleasure, no aversion.
-Why then do I cherish it so much? ^8-180
+Why then do I cherish it so much? ^8-181
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-181]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-182]]
 
 Resentment when it is reviled,
 Or pleasure when it is esteemed,
 Neither of these two my body feels.
-So why do I exhaust myself? ^8-181
+So why do I exhaust myself? ^8-182
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-182]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-183]]
 
 If I say I do it since it’s loved by other people,
 Others whom I thus regard as friends,
 Since all appreciate the bodies that they have,
-Why do I not take pleasure in them too? ^8-182
+Why do I not take pleasure in them too? ^8-183
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-183]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-184]]
 
 Therefore, free from all attachment,
 I will give this body for the benefit of beings.
 And though it is afflicted by so many faults,
-I shall adopt it as my necessary tool. ^8-183
+I shall adopt it as my necessary tool. ^8-184
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-184]]
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-185]]
 
 And so, enough of all my childish ways.
 I’ll follow in the footsteps of the wise;
 Recalling their advice on carefulness,
-I’ll shun all sleep and mental dullness. ^8-184
+I’ll shun all sleep and mental dullness. ^8-185
 
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-185]]
+Like the Buddhas’ heirs, in their compassion,
+I will bear with all that should be borne.
+For if I do not labor night and day,
+When will my sorrows reach their end? ^8-186
 
 Thus to banish all obscuring veils
 I’ll bend my mind from the mistaken path;
 And constantly upon the perfect object
-I shall rest my mind in even meditation. ^8-185
-
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-0]]
+I shall rest my mind in even meditation. ^8-187
 
 ## 9. Wisdom ^9-0
 
@@ -6021,8 +6023,6 @@ My wealth of merit gathered in,
 With reverence but without conceptual target,
 When shall I reveal this truth of emptiness
 To those who go to ruin through belief in real existence? ^9-167
-
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-0]]
 
 ## 10. Dedication ^10-0
 

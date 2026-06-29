@@ -8,7 +8,7 @@ angle: "Real refuge has a forward edge — taking refuge here means recommitting
 generation_note: "No en-ai or 2-RAILS material exists for Chapter 2. English verses from 1-SOURCES/Translations/en-David_Karma_Choephel.md (^2-52, ^2-53). Tibetan verses from 1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md (^2-52, ^2-53). From the Tradition grounded in Gyaltsab Darma Rinchen (1-SOURCES/Commentaries/Raw/BCAC14_GDR_bo_segmented.md): verse 52 — Vajrapani, on seeing whom Yama's messengers, hell-guards and those hostile to beings scatter terrified to the four directions, I take refuge (line 754); verse 53 — I previously transgressed your command, did wrong and failed to do virtue; now seeing the great fear of endless samsara and the lower realms, I take refuge in you, [so grant that] regarding what to adopt and reject I follow your command (blang dor gyi gnas la khyed kyi bka' ...) (756). The benefit (firm remorse for transgressing the Buddha's commands purifies wrongs and obscurations) and the practice (a firm pledge from now on not to accumulate negative deeds but to practice strictly in accordance with the protectors' commands) are from the user-provided English translation of the Tibetan plan (bo/Chapter-2 D15-D40, Day 35, Ch2 V52-53). NOTE: commentary files were reorganized into 1-SOURCES/Commentaries/Raw/ with ASCII IDs. Interim; needs domain-specialist review before status: complete."
 ---
 
-# Day 35 — Refuge that faces forward
+#  35 
 
 > **Notification**
 > **Title:** Make one small, concrete pledge for tomorrow onward

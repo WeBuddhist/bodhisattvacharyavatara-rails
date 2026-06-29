@@ -2789,11 +2789,6 @@ Well, now it’s naked, why do you not want it?
 Ah, you say, your need is no more there,
 But why did you embrace it, all bedecked and covered? 
 
-Lustful one, befuddled by desire,
-Because you cannot copulate with it,
-You angrily find fault with cotton,
-Soft though it may be to touch! ^8-51
-
 And if you have no love of filth,
 How can you coddle on your lap
 A cage of bones tied fast with sinews,
@@ -3463,11 +3458,6 @@ And so, enough of all my childish ways.
 I’ll follow in the footsteps of the wise;
 Recalling their advice on carefulness,
 I’ll shun all sleep and mental dullness. ^8-185
-
-Like the Buddhas’ heirs, in their compassion,
-I will bear with all that should be borne.
-For if I do not labor night and day,
-When will my sorrows reach their end? ^8-186
 
 Thus to banish all obscuring veils
 I’ll bend my mind from the mistaken path;

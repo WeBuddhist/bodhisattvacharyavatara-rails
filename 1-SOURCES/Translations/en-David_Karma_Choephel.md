@@ -23,181 +23,253 @@ I prostrate to all buddhas and bodhisattvas. ^I-3
 
 ## 1. Explaining the Benefits of Bodhichitta ^1-0
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-1]]
+
 I prostrate with respect to the sugatas,
 Who have the dharmakaya, and their offspring,
 And also to all worthy of veneration.
 I’ll teach in brief, according to the scriptures,
 The way to enter the bodhisattva’s vows. ^1-1
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-2]]
+
 I won’t say anything not said before,
 Nor have I any skill in poetry.
 Thus I have not intended this for others—
 I’ve written it to cultivate my mind. ^1-2
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-3]]
 
 Meanwhile, this will increase the power of
 My faith so that I cultivate the virtues.
 If someone else whose fortune equals mine
 Should see it, then it may be meaningful. ^1-3
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-4]]
+
 I’ve gained what is most difficult to get—
 The leisures and resources to benefit beings.
 If I do not accomplish good while here,
 How will I ever come to them again? ^1-4
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-5]]
 
 Just as between the clouds on pitch-black nights,
 Lightning reveals the heavens for an instant,
 Thoughts of the merits of the world arise
 For a rare moment through the buddhas’ power. ^1-5
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-6]]
+
 Thus virtues are perpetually weak;
 The powers of misdeeds are terribly dreadful.
 Besides the wish for perfect enlightenment,
 What other virtue triumphs over them? ^1-6
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-7]]
 
 The lords of sages, who have contemplated
 For many aeons, see just this will help.
 Immeasurable multitudes of beings
 Through this will gain the sublime bliss with ease. ^1-7
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-8]]
+
 No one should ever forsake bodhichitta
 Who wants to dispel beings’ unhappiness,
 Vanquish the hundreds of miseries of existence,
 And partake in the many hundreds of joys. ^1-8
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-9]]
 
 If they rouse bodhichitta, in an instant
 The wretched, fettered in samsara’s prison,
 Are named the offspring of the sugatas
 And revered in the worlds of gods and humans. ^1-9
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-10]]
+
 Just like the greatest kind of alchemy,
 It takes this unclean body and transforms it
 Into a priceless jewel, a buddha’s body,
 So firmly grasp ahold of bodhichitta. ^1-10
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-11]]
 
 Examined well by the sole leader of beings
 With his immeasurable mind, it has great value.
 So you who wish to leave the places of beings,
 Firmly grasp hold of precious bodhichitta. ^1-11
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-12]]
+
 All other virtues, like banana trees,
 Are spent once they have produced a result.
 The tree of bodhichitta constantly
 Bears fruit, thus thriving inexhaustibly. ^1-12
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-13]]
 
 Like those who in great danger, rely on heroes,
 Why would the careful not rely on that
 Which liberates them in a single instant,
 Even if they have done horrendous wrongs? ^1-13
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-14]]
+
 Like the inferno at an age’s end,
 It burns up great misdeeds in a single instant.
 The wise protector Maitreya explained
 Its countless benefits to Sudhana. ^1-14
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-15]]
 
 To summarize, it’s understood
 There are two types of bodhichitta:
 The mind aspiring for awakening
 And engagement in awakening. ^1-15
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-16]]
+
 Just as they know the difference
 Between the wish to go and going,
 The wise should understand the contrast
 Between these two, respectively. ^1-16
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-17]]
 
 Even in samsara, great results
 Come from aspiring bodhichitta,
 Though unlike engaged bodhichitta,
 The merit is not continuous. ^1-17
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-18]]
+
 But from the moment, when for the sake
 Of freeing beings in infinite realms,
 You truly take up this intent
 With irreversible resolve, ^1-18
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-19]]
 
 From that time on, the many powers
 Of merit flow forth unremitting
 In torrents equal to the sky
 Even when you’re asleep or careless. ^1-19
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-20]]
+
 The Tathagata himself explained
 This and its reasons for the sake
 Of beings inclined to the Foundation
 In the Sutra Requested by Subahu. ^1-20
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-21]]
 
 If someone who benevolently
 Intends to merely eliminate
 Sharp pains in sentient beings’ heads
 Possesses immeasurable merit, ^1-21
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-22]]
+
 What need to speak of those who wish
 To rid all sentient beings of
 Untold distresses and endow
 Each one with boundless qualities? ^1-22
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-23]]
 
 Who has such altruism as this?
 Does even a father or a mother?
 Or do the gods or else the rishis?
 Do even Brahmas harbor this? ^1-23
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-24]]
+
 If sentient beings themselves have never
 Had such a wish as this before
 Even for their own sake in dreams,
 How could they have it for another? ^1-24
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-25]]
 
 The wish to benefit beings that others
 Have never had for their own sake—
 This special jewel of mind—is born,
 A wonder without precedent. ^1-25
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-26]]
+
 The cause of every wanderer’s joy,
 The cure for beings’ suffering;
 How could one take the measure of
 The merit of this precious mind? ^1-26
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-27]]
 
 If merely intending to benefit
 Is greater than revering the Buddha,
 What need to speak of striving for
 The sake of all beings’ happiness? ^1-27
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-28]]
+
 They wish to cast off suffering
 But rush toward suffering itself.
 They wish for happiness, but deluded,
 Crush their own pleasure like a foe. ^1-28
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-29]]
 
 For those deprived of happiness
 Who suffer many miseries,
 This satisfies with every pleasure
 And severs every suffering. ^1-29
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-30]]
+
 It also will dispel delusion.
 How could there be such good as this?
 How could there be a friend like this?
 How could there be such merit as this? ^1-30
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-31]]
 
 If to reciprocate a kind deed
 Is praiseworthy for a short while,
 What need to speak of bodhisattvas
 Who do good unsolicited? ^1-31
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-32]]
+
 People extol as doing something good
 Those who provide a few with regular meals,
 Donating scornfully for a short time
 Plain food that satisfies for half a day. ^1-32
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-33]]
 
 What need to speak of those who always give
 To beings of untold number for a long time
 The sublime happiness of the sugatas,
 Fulfilling every one of their desires? ^1-33
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-34]]
+
 Someone who rouses a malicious thought
 Toward such a patron, offspring of the victors,
 Will dwell in hell as many aeons as
 The count of their bad thoughts, the Sage has said. ^1-34
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-35]]
+
 But the results of someone feeling faith
 Proliferate in far greater abundance.
 With bodhisattvas, even grave events
 Don’t bring misdeeds; good naturally increases. ^1-35
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-36]]
 
 I prostrate to the bodies of those in whom
 This jewel, the sublime attitude, is born.
@@ -208,270 +280,378 @@ The first chapter, “Explaining the Benefits of Bodhichitta,” from Entering t
 
 ## 2. Confessing Misdeeds ^2-0
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-1]]
+
 In order to grasp that precious attitude,
 I make fine offerings to the tathagatas,
 To the true dharma, the immaculate jewel,
 And to the oceans of qualities, bodhisattvas. ^2-1
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-2]]
 
 As many fruits and flowers as there are,
 Whatever kinds of medicine exist,
 However many jewels there are in the world,
 All clean and pleasant waters there may be, ^2-2
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-3]]
+
 Mountains of jewels and likewise forest groves
 In solitary and delightful places,
 Bushes adorned with ornamental flowers,
 And trees whose branches bow with splendid fruit, ^2-3
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-4]]
 
 Incense and perfumes as from divine worlds
 And so forth, wish-fulfilling trees, jewel trees,
 And crops that grow without need to be plowed,
 All ornaments that are fit to be offered, ^2-4
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-5]]
+
 And lakes and pools bedecked with lotuses,
 Where lovely swans have most delightful calls—
 Everything that’s unowned extending to
 The edges of the realms of infinite space— ^2-5
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-6]]
 
 I imagine taking these and offer them well
 To the sages, greatest of beings, and their offspring,
 Sublime and greatly compassionate recipients.
 Think of me lovingly; accept these from me. ^2-6
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-7]]
+
 I am bereft of merit, destitute,
 And have no other wealth that I could offer.
 May the protectors, who think of others’ weal,
 Accept these through their power for my sake. ^2-7
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-8]]
 
 Forevermore I offer all my bodies
 To the victorious ones and to their offspring.
 O sublime beings, accept me entirely,
 And I will be your dedicated servant. ^2-8
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-9]]
+
 Because you have accepted me completely,
 Not fearing existence, I will benefit beings.
 I will transcend my previous misdeeds
 And never do another wrong again. ^2-9
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-10]]
 
 Within this sweetly fragrant house for bathing,
 Where the bright and lustrous floors are paved with crystal,
 Alluring pillars are aglow with jewels,
 And glistening pearls are draped in canopies, ^2-10
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-11]]
+
 I bathe the sugatas and bodhisattvas
 From precious vases that have been filled full
 Of water imbued with many fragrances,
 Accompanied by song and harmonies. ^2-11
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-12]]
 
 With cloths that are beyond compare and clean,
 Infused with a fine scent, I dry their bodies.
 And then I offer them the finest robes,
 Well dyed and most delightfully perfumed. ^2-12
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-13]]
+
 I drape Samantabhadra, Lokeshvara,
 Manjushri, and the other noble beings
 With fabrics that are delicate and soft
 And hundreds of the finest ornaments. ^2-13
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-14]]
 
 Like polishing the purest refined gold,
 I apply the finest scents, whose fragrances
 Waft everywhere throughout the billion worlds,
 To the radiant bodies of all sugatas. ^2-14
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-15]]
+
 I offer the great beings I venerate,
 The lords of sages, every fragrant flower—
 Mandarava, lotus, jasmine, and so forth—
 And pleasing garlands strung attractively. ^2-15
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-16]]
 
 I also offer billowing clouds of incense
 Filled with the sweetest, most enchanting scents.
 And royal feasts I offer them as well,
 Replete with an assortment of food and drink. ^2-16
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-17]]
+
 Further, I make an offering of jeweled lamps
 Arranged in rows on golden lotuses.
 I scatter the petals of attractive flowers
 On a paved floor anointed with perfume. ^2-17
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-18]]
 
 I offer those who are compassionate
 Numberless palaces adorning the sky,
 Beautifully glowing with strings of pearls and jewels
 And echoing with melodious songs of praise. ^2-18
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-19]]
+
 I always offer to the lords of sages
 Beauteous, jeweled parasols with golden staves,
 Fine shaped, upright, and pleasing to the eye,
 Their rims festooned with winsome ornaments. ^2-19
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-20]]
 
 And furthermore, may there extend
 Clouds of attractive offerings,
 With lovely tunes and harmonies,
 That soothe all beings’ sufferings. ^2-20
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-21]]
+
 May rains of gems and flowers and more
 Continuously shower down
 On all the jewels of the true dharma
 As well as on stupas and likenesses. ^2-21
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-22]]
 
 As Manjughosha and the rest
 Make offerings to the victorious ones,
 I offer to the tathagatas—
 The protectors—and their offspring. ^2-22
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-23]]
+
 I extol the oceans of qualities
 With oceans of melodies of praise.
 May clouds of hymns in praise of them
 Arise just so continuously. ^2-23
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-24]]
 
 I prostrate, bowing as many bodies
 As there are atoms in all realms,
 To all the buddhas of the three times,
 The dharma, and the sublime sangha. ^2-24
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-25]]
+
 I prostrate to the sacred sites
 And stupas of the bodhisattva.
 I also prostrate to the abbots,
 The masters, and the supreme adepts. ^2-25
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-26]]
 
 Until I reach enlightenment’s essence,
 I go for refuge to the buddhas.
 I go for refuge to the dharma
 And sangha of bodhisattvas too. ^2-26
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-27]]
+
 To the perfect buddhas and bodhisattvas
 Who dwell in every direction—
 To those endowed with great compassion—
 I join my palms and supplicate: ^2-27
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-28]]
 
 In this and in my other lives
 Throughout beginningless samsara,
 Deluded, I have done misdeeds.
 I’ve instigated them, and also— ^2-28
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-29]]
+
 Compelled by ignorant confusion—
 I have rejoiced in them. I see
 They were mistakes, and I confess
 To the protectors from my depths. ^2-29
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-30]]
 
 I have, because of the afflictions,
 Caused harm with body, speech, and mind
 To the three jewels and to my parents
 And to the gurus, among others. ^2-30
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-31]]
+
 I, who am wicked and am stained
 By numerous failings, have committed
 Misdeeds that are most terrible.
 Before the guides, I confess them all. ^2-31
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-32]]
 
 I am going to perish quickly,
 Before I’m cleansed of my misdeeds.
 How can I be rescued from them?
 I beg you, please deliver me. ^2-32
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-33]]
+
 The Lord of Death, untrustworthy,
 Won’t tarry for what’s done or undone.
 So no one, whether or not they’re ill,
 Should place their trust in fleeting life. ^2-33
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-34]]
 
 I must leave all behind and go,
 But I have not yet recognized that.
 For the sake of those I like or dislike,
 I have done various misdeeds. ^2-34
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-35]]
+
 Those I don’t like will cease to be,
 And those I like will cease to be.
 I myself will cease to be,
 And everyone will cease to be. ^2-35
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-36]]
 
 All of the things that I have used
 Will become objects of memory,
 As if experienced in a dream.
 I’ll never see what’s past again. ^2-36
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-37]]
+
 Even during this life, many of those
 I like and dislike have passed away.
 And yet the terrible misdeeds
 I’ve done for their sake remain before me. ^2-37
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-38]]
 
 Because I have not recognized
 That I, as well, am ephemeral,
 I have committed many wrongs
 Out of delusion, greed, and hatred. ^2-38
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-39]]
+
 Not pausing even a day or night,
 This life’s continuously depleted,
 And there is no extending it.
 So why would one like me not die? ^2-39
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-40]]
 
 While I am lying in my bed
 Surrounded by all my relatives,
 I will experience alone
 The feeling of my life being cut. ^2-40
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-41]]
+
 When seized by Yama’s messengers,
 What good are friends? What good are kin?
 Merit alone will guard me then,
 But I, alas, haven’t practiced that. ^2-41
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-42]]
 
 Protectors, I have carelessly
 Committed numerous misdeeds
 For the sake of this ephemeral life,
 Oblivious there is such a danger. ^2-42
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-43]]
+
 If people who are being led
 To have their limbs chopped off today
 Look different than they did before
 With their parched mouths and bloodshot eyes, ^2-43
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-44]]
 
 What need to say how wretched I’ll be
 When Yama’s henchmen have me seized,
 Their physiognomies dire and dread,
 And I am gripped by terrible pain? ^2-44
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-45]]
+
 “Who will protect me truly from
 This horrifying danger,” I’ll cry,
 Eyes bulging with terror, as I search
 In the four directions for a refuge. ^2-45
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-46]]
 
 But seeing no protection in
 The four directions, I’ll then despair.
 If there’s no refuge in that place,
 What will I do at such a time? ^2-46
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-47]]
+
 Thus from today, I’ll go for refuge
 To the victors, guardians of beings,
 Who strive to protect all wanderers,
 Those with great power who dispel all fear. ^2-47
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-48]]
 
 Likewise I truly go for refuge
 To the dharma they have realized, which
 Dispels the terrors of samsara,
 And to the sangha of bodhisattvas. ^2-48
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-49]]
+
 Petrified with dread, I give
 Myself over to Samantabhadra.
 I also make an offering
 To Manjughosha of my body. ^2-49
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-50]]
 
 I cry a miserable wail
 To guardian Avalokiteshvara,
 Whose acts of mercy are unmistaken.
 I beg, protect me who have done wrong. ^2-50
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-51]]
+
 To noble Akashagarbha and
 To Kshitigarbha, to every one
 Of the protectors with great compassion,
 I cry from my heart in search of refuge. ^2-51
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-52]]
 
 I go for refuge to Vajrapani,
 Upon the sight of whom, from fear,
 Malevolent beings like the henchmen
 Of Yama flee in the four directions. ^2-52
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-53]]
+
 I have in the past transgressed your word,
 But now that I’ve seen the great peril,
 I go to you for refuge and plead:
 Swiftly eliminate this fear. ^2-53
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-54]]
 
 If one must do as doctors say
 From fear of ordinary illness,
@@ -479,55 +659,77 @@ What need to speak of being infected
 Continually by the sickness of
 The hundred wrongs of lust and such? ^2-54
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-55]]
+
 If even one of these can ruin
 All people who live in Jambudvipa
 And no other medicine to cure it
 Can be obtained in any direction, ^2-55
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-56]]
 
 To think that I might not do as
 Directed by the omniscient healer
 Who removes every pain would be
 Blameworthy and completely deluded. ^2-56
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-57]]
+
 If I must be quite careful of
 A minor, ordinary chasm,
 What need to mention the abyss
 Where I’d fall a thousand leagues for long? ^2-57
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-58]]
 
 It is not right to sit content
 And say “I will not die today.”
 It is inevitable the time
 Will come when I will cease to be. ^2-58
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-59]]
+
 Who will grant me freedom from fear?
 And how will I escape from this?
 I certainly will no longer be.
 How can my mind remain at ease? ^2-59
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-60]]
 
 My past experiences are gone,
 And what do I have left of them?
 But out of my fixation on them,
 I’ve gone against the gurus’ words. ^2-60
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-61]]
+
 If I must leave this life behind
 Along with family and friends
 And go off somewhere else alone,
 What good all those I like or dislike? ^2-61
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-62]]
 
 It would be right to only think
 In just this way all day and night:
 “Nonvirtue leads to suffering.
 How can I be freed from it?” ^2-62
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-63]]
+
 Whatever misdeeds I have done
 From being ignorant and deluded,
 Whether they’re naturally unwholesome
 Or disobedient misdeeds, ^2-63
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-64]]
+
 Within the presence of the protectors,
 From fear of suffering, I join
 My palms and prostrate repeatedly,
 Confessing every one of them. ^2-64
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-65]]
 
 I supplicate you, guides! Accept
 That my misdeeds have been mistaken.
@@ -538,10 +740,14 @@ The second chapter, “Confessing Misdeeds,” from Entering the Way of the Bodh
 
 ## 3. Embracing Bodhichitta ^3-0
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-1]]
+
 Delighted, I rejoice in virtue—
 Respite from the pains
 Of lower realms—and in those who suffer
 Dwelling in happiness. ^3-1
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-2]]
 
 I celebrate the virtues gathered
 That cause enlightenment. ^3-2
@@ -551,155 +757,217 @@ From the suffering of samsara,
 In the protectors’ buddhahood,
 And the bodhisattvas’ levels. ^3-3
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-3]]
+
 I rejoice gladly in the ocean
 Of bodhichitta that brings
 All sentient beings to happiness
 And gives them benefit. ^3-4
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-4]]
 
 With my palms joined, I implore the buddhas
 In all directions: Light
 The lamp of dharma in the gloom
 Of ignorant beings’ woes! ^3-5
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-5]]
+
 Joining my palms, I beseech the victors
 Who wish to pass to nirvana,
 Don’t leave these wanderers in blindness—
 Stay for countless aeons! ^3-6
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-6]]
 
 May the virtue I have amassed
 By doing all of this
 Eliminate all the suffering
 Of every sentient being. ^3-7
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-7]]
+
 As long as sentient beings are ill,
 Until their ailments are cured,
 May I be their medicine, their doctor,
 And their nurse as well. ^3-8
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-8]]
 
 May showers of food and drink relieve
 The torments of hunger and thirst.
 In intermediate aeons of famine,
 May I become food and drink. ^3-9
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-9]]
+
 May I be an inexhaustible treasure
 For poor and deprived beings
 And stay nearby them as the various
 Things they need and want. ^3-10
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-10]]
 
 To benefit all sentient beings,
 I give without hesitation
 My body, my belongings, and
 All virtues of the three times. ^3-11
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-11]]
+
 Nirvana’s relinquishing everything.
 My wish is to gain nirvana.
 At some point, all must be relinquished—
 It’s best to give it to beings. ^3-12
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-12]]
 
 As I have given living beings
 This body for their pleasure,
 May they always do with it as they like—
 Let them kill, revile, or beat it. ^3-13
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-13]]
+
 They may make my body a cause for sport,
 Or jest or snickering,
 But I have given them my body.
 Why bother holding it dear? ^3-14
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-14]]
 
 So let them do whatever acts
 Will not bring them any harm.
 May thinking of me never be
 Meaningless for any. ^3-15
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-15]]
+
 When someone thinks of me and has
 A thought of anger or faith,
 May that be the cause of what fulfills
 Their every benefit. ^3-16
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-16]]
 
 May anyone who slanders me,
 Any others who cause harm,
 And all who criticize me have
 The fortune to awaken. ^3-17
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-17]]
+
 May I be a guardian of the defenseless,
 A leader of travelers,
 A boat or ship or even a bridge
 For those who wish to cross, ^3-18
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-18]]
 
 The land for those who seek the land,
 A bed for those without.
 For all those beings who want a servant,
 May I become their slave. ^3-19
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-19]]
+
 May I be a wish-fulfilling jewel,
 Fine vase, accomplished mantra,
 Great medicine, a heaven tree,
 And bountiful cow for beings. ^3-20
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-20]]
 
 Like earth and the other elements,
 Like space, may I always be
 The ground, supporting in many ways
 The lives of sentient beings. ^3-21
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-21]]
+
 Likewise in all ways for all beings
 Out to the edges of space,
 May I be, till all pass to nirvana,
 What gives them sustenance. ^3-22
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-22]]
 
 Just as the sugatas of the past
 Aroused the mind of bodhichitta,
 Just as they followed step-by-step
 The training of the bodhisattvas, ^3-23
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-23]]
+
 So, too, shall I, to benefit wanderers,
 Arouse the mind of bodhichitta.
 So, too, shall I follow step-by-step
 The bodhisattvas’ training. ^3-24
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-24]]
 
 Once the intelligent have thus
 Embraced sincerely bodhichitta,
 They take delight in their resolve
 So that it may continue to grow. ^3-25
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-25]]
+
 My life has become fruitful now.
 I’ve gained this human existence well.
 Now I’ve been born in the buddhas’ family
 And have become the buddhas’ child. ^3-26
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-26]]
 
 From now on I shall always act
 In ways that befit my family
 So as to bring no blemish on
 This stainless, venerable family. ^3-27
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-27]]
+
 Like a blind man who has discovered
 A jewel amidst a heap of garbage,
 Somehow, by a coincidence,
 Bodhichitta has been born in me. ^3-28
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-28]]
 
 This is the great elixir that
 Vanquishes the Lord of Death.
 It is the inexhaustible treasure
 Dispelling the poverty of beings. ^3-29
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-29]]
+
 This is the supreme medicine
 That cures the maladies of the world,
 A resting tree for beings exhausted
 From wandering the paths of existence. ^3-30
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-30]]
 
 This is the universal bridge
 That frees all beings from lower realms,
 The rising moon of mind that soothes
 The torments of sentient beings’ afflictions. ^3-31
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-31]]
+
 It’s the great sun that brings an end
 To the darkness of beings’ ignorance.
 It is the butter that emerges
 From churning the milk of the true dharma. ^3-32
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-32]]
+
 For travelers roaming on the paths of existence,
 Desiring to partake of happiness,
 This sublime blissfulness is close at hand
 To satisfy the supreme guests, sentient beings. ^3-33
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-33]]
 
 Today, in the presence of all the protectors,
 I invite all sentient beings as my guests

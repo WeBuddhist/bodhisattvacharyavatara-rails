@@ -182,32 +182,29 @@ Convert all day, chapter, and verse numbers to Tibetan numerals (see reference t
 ```markdown
 ### ༡། སྐྱབས་འགྲོ་སེམས་བསྐྱེད།
 
-#### **༡. སྐྱབས་འགྲོ།**
+#### **༡. ཚད་མེད་བཞི།**
+
+> སེམས་ཅན་ཐམས་ཅད་བདེ་བ་དང་བདེ་བའི་རྒྱུ་དང་ལྡན་པར་གྱུར་ཅིག
+> སེམས་ཅན་ཐམས་ཅད་སྡུག་བསྔལ་དང་སྡུག་བསྔལ་གྱི་རྒྱུ་དང་བྲལ་བར་གྱུར་ཅིག
+> སེམས་ཅན་ཐམས་ཅད་སྡུག་བསྔལ་མེད་པའི་བདེ་བ་དང་མི་འབྲལ་བར་གྱུར་ཅིག
+> སེམས་ཅན་ཐམས་ཅད་ཉེ་རིང་ཆགས་སྡང་གཉིས་དང་བྲལ་བའི་བཏང་སྙོམ་ལ་གནས་པར་གྱུར་ཅིག
+
+#### **༢. སྐྱབས་འགྲོ།**
 
 > བྱང་ཆུབ་སྙིང་པོར་མཆིས་ཀྱི་བར། །
-> 
 > སངས་རྒྱས་རྣམས་ལ་སྐྱབས་སུ་མཆི། །
-> 
 > ཆོས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཡི། །
-> 
 > ཚོགས་ལའང་དེ་བཞིན་སྐྱབས་སུ་མཆི། །
 
-#### **༢. སེམས་བསྐྱེད།**
+#### **༣. སེམས་བསྐྱེད།**
 
 > ཇི་ལྟར་སྔོན་གྱི་བདེ་གཤེགས་ཀྱིས། །
-> 
 > བྱང་ཆུབ་ཐུགས་ནི་བསྐྱེད་པ་དང་། །
-> 
 > བྱང་ཆུབ་སེམས་དཔའི་བསླབ་པ་ལ། །
-> 
 > དེ་དག་རིམ་བཞིན་གནས་པ་ལྟར། །
-
 > དེ་བཞིན་འགྲོ་ལ་ཕན་དོན་དུ། །
-> 
 > བྱང་ཆུབ་སེམས་ནི་བསྐྱེད་བགྱི་ཞིང་། །
-> 
 > དེ་བཞིན་དུ་ནི་བསླབ་པ་ལའང་། །
-> 
 > རིམ་པ་བཞིན་དུ་བསླབ་པར་བགྱི། །
 ```
 
@@ -259,61 +256,31 @@ Commentary sources have root verses transcluded directly into them. Sources may 
 2. Locate the transclusion of the day's verse (e.g. `![[...#^chapter-verse]]`).
 3. **All text from that transclusion up to the next root verse transclusion is the commentary on that verse.** This block is your source material.
 
-Read every provided commentary source and collect this material for each assigned verse before writing anything.
+Read every provided commentary source and collect this material for **all** of the day's assigned verses before writing anything.
 
-#### What to include
+#### What to write
 
-For each verse, write an explanation block under the verse header:
+Write **one single combined explanation** covering all of the day's verses together — not a separate block per verse.
 
-`#### **[verse number in Tibetan numerals]. ཤློཀ་[ordinal word]།** འགྲེལ་བཤད།`
+The explanation should be **informative and inspiring**: it synthesises the most meaningful, illuminating, or moving content across the pipeline material for all of the day's verses into a unified whole. This may be a **thematic expansion of a key idea, a teaching story, a clarification of a difficult term, or any combination** — whatever the commentary material most richly supports. It should read as a warm, coherent teaching, not a mechanical list of per-verse notes.
 
-Based on what the commentary material actually contains, include one or more of the following content types. Do not force all three — use only those for which genuine material exists.
+Length: **4–8 sentences**. Prefer depth over coverage — one idea rendered fully is better than three ideas sketched superficially.
 
----
-
-**Type 1 — ཁ་སྐོང་། (Extra information)**
-
-Use when the verse mentions an important topic or term and the commentaries contain rich material on it. Expand on the topic using that material — write in engaging, accessible Tibetan.
+Format:
 
 ```markdown
-**ཁ་སྐོང་།** [Topic]: [Engaging expansion drawn from the commentary — 3–6 sentences.]
+[Combined explanation — 4–8 sentences in clear, warm Tibetan, synthesising the day's commentary material across all assigned verses.]
 
-**མཆན།**: [Commentary source reference]
+**མཆན།**: [Commentary source reference(s) — list all sources drawn from]
 ```
-
----
-
-**Type 2 — གཏམ་རྒྱུད། (Story)**
-
-Use when you find an interesting story in the commentary material related to the verse. Adapt it into clear modern Tibetan — short and inspiring, ≤ 8 sentences.
-
-```markdown
-**གཏམ་རྒྱུད།**: [Story in clear modern Tibetan.]
-
-**མཆན།**: [Commentary source reference]
-```
-
----
-
-**Type 3 — གནད་ཚིག (Keyword)**
-
-Use when the verse contains an important or difficult term that a beginner practitioner might not understand. Explain it plainly — 2–3 sentences.
-
-```markdown
-**གནད་ཚིག** [Term]: [Plain-language explanation.]
-
-**མཆན།**: [Commentary source reference]
-```
-
----
 
 #### Rules
 
-- **Authenticity is absolute.** Every piece of content must come directly from the provided commentary sources (Knowledge or prompt). Never invent, assume, or add from general knowledge or training data.
-- **Be selective.** For a given verse you might include only a ཁ་སྐོང་། and a གནད་ཚིག — or only a གཏམ་རྒྱུད། — or all three. Follow the commentary material, not a formula.
-- Each content block must end with a `**མཆན།**` line citing the specific source used.
+- **Authenticity is absolute.** All content must come directly from the provided commentary sources (Knowledge or prompt). Never invent, assume, or add from general knowledge or training data.
+- **One unified explanation, not per-verse sub-sections.** Do not add sub-headers or separate the content by verse number inside Section 4.
+- The explanation must end with a `**མཆན།**` line citing every source used.
 
-> ⚠️ **Critical rule for Section 4**: If you cannot locate commentary for a verse in the provided sources (Knowledge or prompt), state this explicitly — do not invent or improvise.
+> ⚠️ **Critical rule for Section 4**: If you cannot locate commentary for the day's verses in the provided sources (Knowledge or prompt), state this explicitly — do not invent or improvise.
 
 ---
 
@@ -490,11 +457,11 @@ For chapter names in the header, use the traditional Tibetan word form for the o
 - [ ] Section 2 introduction is 2–4 sentences, ≤ 60 words — in first person (ངས་ / ང་རང་), introduces the day with the verse(s), very engaging, not an explanation of the verse
 - [ ] Section 3 — no subsection headings in the output
 - [ ] Section 3 — verse headers follow `#### **N. ཤློཀ་[ordinal]།** (ལེའུ་ C ཤློཀ་ N)` — parenthetical **outside** the bold
-- [ ] Section 4 — explanation headers follow `#### **N. ཤློཀ་[ordinal]།** འགྲེལ་བཤད།` — འགྲེལ་བཤད། **outside** the bold; verse numbers match those in Section 3
 - [ ] Section 3 — verse numbers in all headers are the real chapter verse numbers and match the day's assigned range
 - [ ] Section 3 — verses found in the provided root text source (Knowledge or prompt) and copied exactly — not quoted from memory or training data
-- [ ] Section 4 — each explanation block contains one or more of: **ཁ་སྐོང་།** (extra information), **གཏམ་རྒྱུད།** (story), **གནད་ཚིག** (keyword); only types for which genuine commentary material exists are included
-- [ ] Section 4 — all content sourced from provided commentary sources (Knowledge or prompt); each block ends with a **མཆན།** citation line
+- [ ] Section 4 — one single combined explanation covering all of the day's verses; no per-verse sub-headers or sub-sections inside Section 4
+- [ ] Section 4 — explanation is 4–8 sentences; informative and inspiring, synthesising the most meaningful commentary material across all assigned verses
+- [ ] Section 4 — all content sourced from provided commentary sources (Knowledge or prompt); ends with a **མཆན།** citation line listing all sources used
 - [ ] Section 4 uses neutral tone — no first person (ངས་ / ང་རང་ / བདག་གིས་) in Section 4
 - [ ] Exactly 1 today's challenge in Section 5 — short two-part format: bold Tibetan phrase headline + **འགྲེལ་བཤད།** with 2–3 sentences of practical instruction
 - [ ] Section 5 challenge is very simple and actionable for ordinary people in daily life — concrete, not generic

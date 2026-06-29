@@ -96,6 +96,12 @@ These skills populate `2-RAILS/` with the structured context that translation an
 **Outputs:** One file at `2-RAILS/Verses/<verse-id>.md` with: Sanskrit + Tibetan source transclusions; per-commentary English paraphrase (Traditional Interpretation) + Divergences; and the Tibetan descriptive layers — an AI-Overview synthesis (generation prompt lives in the skill), a chendrel (ཚིག་འགྲེལ) word-commentary replacing the old UCCA layer, word-by-word disambiguation, key concepts (in-verse / from-commentary), attached stories, metaphors, scriptural quotations, and a disambiguated restatement. Format is authoritative in `2-RAILS/About Rails.md` §5.
 → [`verse-context/SKILL.md`](verse-context/SKILL.md)
 
+### `Verse-package-file-creator` **[exists]**
+**Purpose:** Extract four targeted commentary elements — story (གཏམ་རྒྱུད/སྒྲུང), extended information (ཞར་བྱུང), keyword explanation (ཚིག་འགྲེལ), and key-concept explanation (གནད་དོན) — for one verse, by tracing the verse through its block-transclusion into one or more commentaries. A lighter, focused relative of `verse-context` that produces only those four Tibetan layers rather than the full rail.
+**Inputs:** A verse (text or verse ID), the `1-SOURCES/` root file carrying its block ID, one or more commentary files that transclude the verse, and an output filename.
+**Outputs:** One extraction file at `2-RAILS/Verses/<output-filename>.md` — the four elements in Tibetan, each cited to its commentary block (falling back to the verse-transclusion anchor when commentary prose is un-stamped), with ⚑ divergences when multiple commentaries disagree. `status: draft`.
+→ [`Verse-package-file-creator/SKILL.md`](Verse-package-file-creator/SKILL.md)
+
 ### `local-wiki-article` **[exists]**
 **Purpose:** Create or update a Local-Wiki article for one key term.
 **Inputs:** Commentary passages that explain or define the term (via block citations from `1-SOURCES/`).

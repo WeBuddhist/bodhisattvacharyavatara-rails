@@ -624,5 +624,124 @@ def main() -> None:
     # ── Combined JSON (all sources, English words only) ──────────────────────
     write_combined_json(comp, sources, outdir / (stems_slug + "_termbase.json"))
 
+    # ── Keyword → verses JSON ─────────────────────────────────────────────────
+    write_keyword_verses_json(comp, sources, outdir / (stems_slug + "_keyword_verses.json"))
+
+# ---------------------------------------------------------------------------
+# Verse extraction
+# ---------------------------------------------------------------------------
+
+# Matches verse markers like ^1-1, ^2-34, ^I-0, ^0
+_VERSE_MARKER = re.compile(r"\^([\w][\w\-]*\d+)\s*$")
+
+
+def extract_verses(path: pathlib.Path) -> list[dict]:
+    """
+    Parse a translation markdown file into a list of verse dicts::
+
+        [{"verse_id": "1-1", "text": "Reverently bowing..."}, ...]
+
+    Lines starting with `![[...]]` (transclusion links) are skipped.
+    Frontmatter is stripped. Heading lines (^N-0) are included but
+    can be filtered downstream.
+    """
+    text  = strip_frontmatter(path.read_text(encoding="utf-8"))
+    verses: list[dict] = []
+    for line in text.splitlines():
+        line = line.strip()
+        if not line or line.startswith("![["):
+            continue
+        m = _VERSE_MARKER.search(line)
+        if m:
+            verse_id = m.group(1)
+            # strip the marker itself from the displayed text
+            verse_text = line[: m.start()].strip()
+            # strip leading markdown heading chars
+            verse_text = re.sub(r"^#+\s*", "", verse_text).strip()
+            if verse_text:
+                verses.append({"verse_id": verse_id, "text": verse_text})
+    return verses
+
+
+def build_inverted_index(
+    sources: list[pathlib.Path],
+) -> dict[str, dict[str, list[dict]]]:
+    """
+    Pre-tokenize all verses once and return an inverted index::
+
+        { stem: { word: [{"verse_id": ..., "text": ...}, ...] } }
+
+    This lets write_keyword_verses_json do O(1) lookups per keyword
+    instead of re-tokenizing every verse for every keyword.
+    """
+    index: dict[str, dict[str, list[dict]]] = {}
+    for src in sources:
+        stem   = src.stem
+        inv: dict[str, list[dict]] = {}
+        for verse in extract_verses(src):
+            for word in set(tokenize(verse["text"])):
+                if word not in STOPWORDS and len(word) > 2:
+                    inv.setdefault(word, []).append(
+                        {"verse_id": verse["verse_id"], "text": verse["text"]}
+                    )
+        index[stem] = inv
+    return index
+
+
+def write_keyword_verses_json(
+    comp: dict,
+    sources: list[pathlib.Path],
+    dest: pathlib.Path,
+) -> None:
+    """
+    Write a JSON file mapping each English keyword to the verses where it appears.
+
+    Output shape::
+
+        {
+          "word": {
+            "score": <avg_tfidf>,
+            "occurrences": [
+              {"source": "en-Wallace", "verse_id": "1-3", "text": "..."},
+              ...
+            ]
+          },
+          ...
+        }
+
+    Words are sorted by average TF-IDF descending (same order as termbase).
+    """
+    stems = [src.stem for src in sources]
+
+    # Build inverted index once: tokenize each verse a single time
+    inv_index = build_inverted_index(sources)
+
+    # Collect all English words sorted by avg TF-IDF
+    all_words: set[str] = set()
+    for d in comp.values():
+        all_words.update(d["row_map"].keys())
+    english_words = [w for w in all_words if is_english(w)]
+    english_words.sort(
+        key=lambda w: sum(comp[s]["row_map"].get(w, {}).get("score", 0.0) for s in stems) / len(stems),
+        reverse=True,
+    )
+
+    result: dict = {}
+    for word in english_words:
+        avg_score   = sum(comp[s]["row_map"].get(word, {}).get("score", 0.0) for s in stems) / len(stems)
+        occurrences = [
+            {"source": stem, "verse_id": v["verse_id"], "text": v["text"]}
+            for stem in stems
+            for v in inv_index[stem].get(word, [])
+        ]
+        if occurrences:
+            result[word] = {"score": round(avg_score, 4), "occurrences": occurrences}
+
+    dest.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
+    total_occs = sum(len(v["occurrences"]) for v in result.values())
+    print(f"Written  -> {dest}  ({len(result):,} keywords, {total_occs:,} verse occurrences)")
+
+
 if __name__ == "__main__":
     main()
+

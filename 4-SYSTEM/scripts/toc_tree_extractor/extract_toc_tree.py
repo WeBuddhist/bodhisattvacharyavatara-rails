@@ -163,7 +163,7 @@ When unsure, omit it. Precision matters: do not pad the output with doubtful can
 
 OUTPUT FORMAT — for each section output EXACTLY this block, nothing more:
 
-CONTEXT: [10 Tibetan words before + 10 Tibetan words after the section]
+CONTEXT: [20 Tibetan words before + 20 Tibetan words after the section]
 SECTION_TITLE: [the section ordinal marker TOGETHER WITH the section's topic name, but
 WITHOUT any trailing division clause or grammatical particle. Strip the "divided into N"
 phrase (e.g. ལ་གཉིས་ཏེ། , ལ་གསུམ་ལས། , ལ་བཞི། ) and trailing markers such as ནི། and the
@@ -173,7 +173,10 @@ particle / division phrase. Examples:
     གཉིས་པ་འགྱུར་ཕྱག་ནི།   ->  གཉིས་པ་འགྱུར་ཕྱག་
     གསུམ་པ་མཚན་དོན་ནི།     ->  གསུམ་པ་མཚན་དོན་]
 LINE: [the source line number (from the leading "N:" prefix in the chunk) where the
-SECTION_TITLE text appears]
+announcement or section opening BEGINS — the first line of the passage that announces
+or opens this section. This may be earlier than the line containing the SECTION_TITLE
+ordinal itself (e.g. when the division clause begins on a preceding line). Use the
+line numbers visible in the CONTEXT field to identify the start.]
 ITEMS:
 1. [first named item, in Tibetan]
 2. [second named item, in Tibetan]
@@ -1079,6 +1082,39 @@ def annotate_items_with_lines(candidates_text: str, source_lines: list[str]) -> 
 
 
 # ------------------------------------------------------------------------------
+def find_announcement_start(source_lines: list[str], title_line_1based: int,
+                            max_lookback: int = 15) -> int:
+    """Scan backward from title_line to find where the enclosing announcement begins.
+
+    Walks backward through source_lines looking for the first line that ends with
+    a Tibetan shad (།) or is blank — which marks the end of the *prior* sentence.
+    The announcement start is the line immediately after that boundary.
+
+    Returns a 1-based line number. Falls back to (title_line - max_lookback) if no
+    boundary is found within the lookback window, or to 1 if already at the top.
+    """
+    idx = title_line_1based - 1  # convert to 0-based
+    for i in range(idx - 1, max(0, idx - max_lookback) - 1, -1):
+        line = source_lines[i].strip()
+        if not line or re.search(r"[།༎༏༐༑༒༔]\s*$", line):
+            return i + 2  # 1-based: the line immediately after the boundary
+    # No boundary found — return the furthest lookback point (but never < 1)
+    return max(1, title_line_1based - max_lookback)
+
+
+def rewrite_lines_to_announcement_start(candidates_text: str, source_lines: list[str],
+                                        max_lookback: int = 15) -> str:
+    """Replace each LINE: value in candidates_text with the 1-based source line where
+    the enclosing announcement begins, found by scanning backward to the nearest shad
+    or blank line from the Gemini-reported title line."""
+    def _replace(m: re.Match) -> str:
+        original = int(m.group(1))
+        start = find_announcement_start(source_lines, original, max_lookback)
+        return f"LINE: {start}"
+    return re.sub(r"^LINE:\s*(\d+)", _replace, candidates_text, flags=re.MULTILINE)
+
+
+# ------------------------------------------------------------------------------
 def find_vault_root(start: Path) -> Path:
     """Walk upward looking for the vault root (the dir containing 4-SYSTEM/)."""
     for parent in [start, *start.parents]:
@@ -1334,7 +1370,11 @@ def main():
             enum_chunks.append(f"<!-- chunk {idx:03d} | lines {start}–{end} -->\n{c}")
         enumerations_text = "\n\n".join(enum_chunks)
 
-    # ---- Step 4c: annotate ITEMS with source line numbers ----
+    # ---- Step 4c: rewrite LINE: values to announcement start ----
+    print("Rewriting LINE: values to announcement start ...", flush=True)
+    candidates_doc = rewrite_lines_to_announcement_start(candidates_doc, lines)
+
+    # ---- Step 4d: annotate ITEMS with source line numbers ----
     print("Annotating ITEMS with line numbers ...", flush=True)
     candidates_doc = annotate_items_with_lines(candidates_doc, lines)
     out_file.write_text(candidates_doc, encoding="utf-8")

@@ -68,12 +68,12 @@ status: draft
 	- བསྟན་བཅོས་ཀྱི་མཚན། ^TOC-2-1
 		- མཚན་དངོས། ^TOC-2-1-1
 
-			![[1-SOURCES/Translations/bo-LDSR།.md#^0-2]]
-			![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^0-3]]
+			![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^I-1]]
+			![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^I-2]]
 
 		- ཞར་བྱུང་འགྱུར་ཕྱག ^TOC-2-1-2 
 
-			![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^0-4]]
+			![[bo-བློ་ལྡན་ཤེས་རབ།#^I-3]]
 
 	- མཚན་དེ་ལྡན་གྱི་གཞུང་བཤད་པ། ^TOC-2-2
 		- བསྟན་བཅོས་རྩོམ་པ་ལ་འཇུག་པའི་ཡན་ལག ^TOC-2-2-1

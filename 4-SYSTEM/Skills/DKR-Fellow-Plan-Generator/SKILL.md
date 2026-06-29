@@ -230,22 +230,74 @@ Always include verbatim:
 
 Open with the heading `### ༥། ཉམས་སུ་ལེན་ཚུལ།`.
 
-**Tone: personal, first person singular.** Use ངས་, ང་རང་, བདག་གིས་. Never ང་ཚོས་ or ང་ཚོ་.
+Write **exactly 1 practical application** drawn directly from the day's root text verses **and** from DKR's teaching in Section 3. The practice must be grounded in what the verses actually say and what Khyentse Rinpoche specifically teaches for this day — not generic advice.
 
-Write **exactly 1 practical application point** in Tibetan:
+#### Output format
 
-- A bold label: `**༡. [Short Tibetan title]**`
-- Written in first person — the practitioner speaks about what *they* will do today
-- Draws directly from the day's verses (Ch.10 V.45–58: aspiration verses, aspirations for all beings to flourish) **and** from DKR's teaching in Session 2 (wisdom as the ground of all practice, holding virtue with wisdom)
-- Concrete and actionable — not generic advice
-- Sealed with a full final particle (ཡིན་ནོ།། or འགྱུར་རོ།།)
+Use the following trilingual structure:
 
-**Example tone and structure (illustrative only — do not reuse):**
+```
+**ལག་ལེན།**
+**Tibetan:** [practice]
+**English:** [practice]
+**Hindi:** [practice]
 
-The following example from Day 1 shows the required authentic Tibetan writing style: verse teaching cited directly, concrete daily commitment stated plainly, first-person voice throughout, sealed with a full final particle. Match this register and structure:
+**འགྲེལ་བཤད།**
+**Tibetan:** (category) [explanation]
+**English:** (category) [explanation]
+**Hindi:** (category) [explanation]
+```
+
+#### Rules for ལག་ལེན (Practice)
+
+Every practice must satisfy ALL THREE:
+
+**1. Actionable today** — doable in ordinary daily life right now, not a vague aspiration or retreat activity.
+
+| ✗ Not actionable | ✓ Actionable |
+|---|---|
+| "དེ་རིང་སྙིང་རྗེ་སྒོམ་ཞིང་དུས་ཚོད་ཆུད་ཟོས་སུ་མི་གཏོང་རྒྱུ་ཡིན།" | "དེ་རིང་ངས་མི་དབུལ་པོ་ཞིག་ལ་ཉིན་གུང་ཁ་ལག་ཅིག་སྤྲད་རྒྱུ་ཡིན།" |
+
+**2. Brief** — under 20 Tibetan syllables (equivalent brevity in English ≤ 20 words, Hindi ≤ 20 words).
+
+**3. Connected to one of nine categories** — label the *explanation* (not the practice) with the matching category in parentheses:
+
+- སྡིག་པ་མི་བྱ་བ། — avoiding evil
+- དགེ་བ་བྱ་བ། — doing good
+- རང་སེམས་འདུལ་བ། — taming the mind
+- སྦྱིན་པའི་ཉམས་ལེན། — generosity
+- ཚུལ་ཁྲིམས་ཀྱི་ཉམས་ལེན། — ethics
+- བཟོད་པའི་ཉམས་ལེན། — patience
+- བརྩོན་འགྲུས་ཀྱི་ཉམས་ལེན། — diligence
+- བསམ་གཏན་གྱི་ཉམས་ལེན། — meditation
+- ཤེས་རབ་ཀྱི་ཉམས་ལེན། — wisdom
+
+#### Rules for འགྲེལ་བཤད (Explanation)
+
+- Under 40 Tibetan syllables (equivalent brevity in English and Hindi)
+- Explain **how** today's specific practice enacts **this day's** verse teaching and DKR's teaching
+- Reference what the verses actually say and what Khyentse Rinpoche specifically teaches — not generic spiritual statements
+- Open with the relevant category in parentheses
+- The explanation is a bridge: verse teaching + DKR teaching → today's action
+
+#### Tibetan voice for this section
+
+- **First person singular only** — ངས་, ང་རང་, བདག་གིས་. Never ང་ཚོས་ or ང་ཚོ་.
+- Concrete and authentic — verse teaching cited directly, daily commitment stated plainly.
+- Tibetan practice text sealed with a full final particle (ཡིན་ནོ།། or འགྱུར་རོ།།).
+
+**Example (illustrative only — do not reuse):**
 
 ```markdown
-**༡. དལ་འབྱོར་རིན་ཆེན་སྤྱོད་སྟངས།**: རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷས་གསུངས་པ་ལྟར། དལ་འབྱོར་གྱི་མི་ལུས་འདི་རྙེད་དཀའ་ཞིང་ཕྱིར་ཐོབ་དཀའ་བས། དེ་རིང་བདག་གིས་ལོ་ཙམ་དང་ཉིན་ཙམ་ལ་མི་ལྟོས་པར། ད་ལྟ་བྱང་ཆུབ་ཀྱི་སེམས་ལ་མི་ལྡོག་པར་གོམས་འདྲིས་བྱ་རྒྱུ་ཡིན། རྫོང་སར་མཁྱེན་བརྩེ་རིན་པོ་ཆེའི་གསུང་ལྟར་སྤྱོད་འཇུག་གི་ཡི་གེ་རེ་གཉིས་ཀློག་ཞིང་། ཚིག་གི་དོན་ལ་ཡིད་གཏད་དེ། བདག་གི་ཉིན་ལྟར་གྱི་ལས་ཀར་བྱང་སེམས་ཀྱི་དྲན་པ་རྒྱུན་དུ་འཁྱོང་བར་བྱ་བ་ཡིན་ནོ།།
+**ལག་ལེན།**
+**Tibetan:** དེ་རིང་ངས་སྡུག་བསྔལ་མྱོང་བའི་གང་ཟག་གཅིག་ལ་ཕན་པའི་ལས་གཅིག་བྱ་རྒྱུ་ཡིན།
+**English:** I will do one act today that directly benefits someone who is suffering.
+**Hindi:** आज मैं किसी दुखी व्यक्ति की एक मदद करूंगा।
+
+**འགྲེལ་བཤད།**
+**Tibetan:** (སྦྱིན་པའི་ཉམས་ལེན།) རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷས་གསུངས་པ་ལྟར་འགྲོ་བ་ཐམས་ཅད་བདེ་བར་གྱུར་ཅིག་ཅེས་སྨོན་ལམ་འདེབས་པ་ལས་ལྷག་སྟེ། རྫོང་སར་མཁྱེན་བརྩེ་རིན་པོ་ཆེའི་གསུང་ལྟར་བདེ་སྨོན་དེ་ལས་ཀར་བསྒྲུབ་དགོས།
+**English:** (Generosity) Beyond aspirations for all beings to be happy as Śāntideva teaches, Khyentse Rinpoche emphasizes enacting those aspirations through concrete acts.
+**Hindi:** (दान का अभ्यास) शांतिदेव की शिक्षा से आगे जाकर ख्येंत्से रिनपोछे सिखाते हैं कि यह कामना कर्म में परिणित होनी चाहिए।
 ```
 
 ---
@@ -311,8 +363,11 @@ Ordinal word forms for Chapter 10 verses (45–58):
 - [ ] Section 3 — teaching title included as `####` subheading immediately after `### ༣། གསུང་ཆོས།`, taken from the `###` sub-heading in that day's DKR-Teaching-Assignment-to-Days section
 - [ ] Section 3 — blocks ^9-39 through ^9-43 copied verbatim from `DKR-Teaching-Assignment-to-Days.md` (Day-63 section); ends with a **མཆན།** citation line referencing `DKR-Teaching-Assignment-to-Days ^9-39–^9-43`
 - [ ] Section 3 — no generated, paraphrased, or supplemented content; text matches source exactly
-- [ ] Section 5 — exactly 1 application point; first person singular (ངས་ / ང་རང་); concrete and actionable; sealed with final particle
-- [ ] Section 5 — draws from both the day's verses **and** DKR's teaching
+- [ ] Section 5 — exactly 1 practice in trilingual format (ལག་ལེན། + འགྲེལ་བཤད།, each in Tibetan / English / Hindi)
+- [ ] Section 5 — ལག་ལེན: under 20 syllables/words per language; actionable today; category label on འགྲེལ་བཤད only
+- [ ] Section 5 — འགྲེལ་བཤད: under 40 syllables per language; references specific verse content **and** DKR's teaching; opens with category in parentheses
+- [ ] Section 5 — Tibetan practice text: first person singular (ངས་ / ང་རང་); sealed with final particle (ཡིན་ནོ།། or འགྱུར་རོ།།)
+- [ ] Section 5 — draws from both the day's root text verses **and** Khyentse Rinpoche's teaching (Section 3)
 - [ ] Tibetan spelling and grammar reviewed — check case endings, verb forms, and particles
 - [ ] No ང་ཚོས་ / ང་ཚོ་ anywhere in the document
 - [ ] No Dzongkha-style phrasing

@@ -1082,36 +1082,73 @@ def annotate_items_with_lines(candidates_text: str, source_lines: list[str]) -> 
 
 
 # ------------------------------------------------------------------------------
+# Tibetan structural division markers that appear in announcement sentences.
+_DIVISION_MARKER_RE = re.compile(
+    r"(སྟེ།|ལས།|ལའང་|གསུམ་སྟེ|གཉིས་ཏེ|བཞི་ལས|ལ་གཉིས|ལ་གསུམ|ལ་བཞི|ལ་ལྔ|"
+    r"ལ་དྲུག|ལ་བདུན|ལ་བརྒྱད|ལ་དགུ|ལ་བཅུ|གཉིས་ལས|གསུམ་ལས|བཞི་ལས|ལྔ་ལས)"
+)
+
+
 def find_announcement_start(source_lines: list[str], title_line_1based: int,
-                            max_lookback: int = 15) -> int:
-    """Scan backward from title_line to find where the enclosing announcement begins.
+                            title_words: list[str] | None = None,
+                            max_lookahead: int = 30) -> int:
+    """Scan forward from title_line to find the prose line where the announcement begins.
 
-    Walks backward through source_lines looking for the first line that ends with
-    a Tibetan shad (།) or is blank — which marks the end of the *prior* sentence.
-    The announcement start is the line immediately after that boundary.
+    Strategy 1 — preferred: find the first non-heading, non-blank prose line that
+    contains BOTH a division marker (སྟེ། / ལས། / ལའང་ / etc.) AND at least one key
+    syllable from the section title. This is the actual announcement sentence.
 
-    Returns a 1-based line number. Falls back to (title_line - max_lookback) if no
-    boundary is found within the lookback window, or to 1 if already at the top.
+    Strategy 2 — fallback: return the first non-heading, non-blank prose line after
+    title_line (covers cases where the announcement wording differs too much from the
+    extracted title).
+
+    Lines starting with '#' (markdown headings) and YAML front-matter ('---') are
+    always skipped. Returns a 1-based line number; falls back to title_line_1based
+    if nothing is found within max_lookahead lines.
     """
-    idx = title_line_1based - 1  # convert to 0-based
-    for i in range(idx - 1, max(0, idx - max_lookback) - 1, -1):
+    idx = title_line_1based - 1  # 0-based
+    limit = min(len(source_lines), idx + max_lookahead)
+    key_sylls = [s for s in re.split(r"[་\s།༎༏༐༑༒༔]+", " ".join(title_words or []))
+                 if len(s) > 1]
+
+    first_prose = None  # fallback: first non-heading prose line
+
+    for i in range(idx, limit):
         line = source_lines[i].strip()
-        if not line or re.search(r"[།༎༏༐༑༒༔]\s*$", line):
-            return i + 2  # 1-based: the line immediately after the boundary
-    # No boundary found — return the furthest lookback point (but never < 1)
-    return max(1, title_line_1based - max_lookback)
+        if not line or line.startswith("#") or line.startswith("---"):
+            continue
+        if first_prose is None:
+            first_prose = i + 1  # 1-based
+        # Strategy 1: division marker + title syllable present
+        if _DIVISION_MARKER_RE.search(line):
+            if not key_sylls or any(s in line for s in key_sylls):
+                return i + 1
+    # Strategy 2: first prose line (even without a division marker)
+    return first_prose if first_prose is not None else title_line_1based
+
+
+# Regex to parse SECTION_TITLE + LINE pairs out of a candidates block
+_TITLE_LINE_RE = re.compile(
+    r"SECTION_TITLE:\s*(?P<title>[^\n]+)\n(?:.*?\n)*?LINE:\s*(?P<line>\d+)",
+    re.MULTILINE,
+)
 
 
 def rewrite_lines_to_announcement_start(candidates_text: str, source_lines: list[str],
-                                        max_lookback: int = 15) -> str:
+                                        max_lookahead: int = 30) -> str:
     """Replace each LINE: value in candidates_text with the 1-based source line where
-    the enclosing announcement begins, found by scanning backward to the nearest shad
-    or blank line from the Gemini-reported title line."""
+    the announcement prose begins, found by scanning forward from the Gemini-reported
+    line to the first prose line containing a division marker + title syllables."""
+
     def _replace(m: re.Match) -> str:
-        original = int(m.group(1))
-        start = find_announcement_start(source_lines, original, max_lookback)
-        return f"LINE: {start}"
-    return re.sub(r"^LINE:\s*(\d+)", _replace, candidates_text, flags=re.MULTILINE)
+        title = m.group("title").strip()
+        original = int(m.group("line"))
+        title_words = [s for s in re.split(r"[་\s།༎༏༐༑༒༔]+", title) if len(s) > 1]
+        start = find_announcement_start(source_lines, original, title_words, max_lookahead)
+        # Reconstruct the matched block with the updated LINE: value
+        return m.group(0).replace(f"LINE: {original}", f"LINE: {start}")
+
+    return _TITLE_LINE_RE.sub(_replace, candidates_text)
 
 
 # ------------------------------------------------------------------------------

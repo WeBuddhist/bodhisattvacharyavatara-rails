@@ -15,9 +15,15 @@ source_description: Translated into English from the canonical Tibetan text in c
 
 ## 0. Introduction ^I-0
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^I-1]]
+
 In Sanskrit: Bodhisatvacarya avatāra ^I-1
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^I-2]]
+
 In Tibetan: Byang chub sems dpa’i spyod pa la ’jug pa ^I-2
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^I-3]]
 
 I prostrate to all buddhas and bodhisattvas. ^I-3
 
@@ -275,6 +281,8 @@ I prostrate to the bodies of those in whom
 This jewel, the sublime attitude, is born.
 Even harming them will lead to happiness.
 I go for refuge to the wellsprings of joy. ^1-36
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-a]]
 
 The first chapter, “Explaining the Benefits of Bodhichitta,” from Entering the Way of the Bodhisattva. ^1-a
 
@@ -736,6 +744,8 @@ That my misdeeds have been mistaken.
 They were not good, and for that reason,
 I’ll never do such acts again. ^2-65
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-a]]
+
 The second chapter, “Confessing Misdeeds,” from Entering the Way of the Bodhisattva. ^2-a
 
 ## 3. Embracing Bodhichitta ^3-0
@@ -973,6 +983,8 @@ Today, in the presence of all the protectors,
 I invite all sentient beings as my guests
 To buddhahood, and till then happiness.
 Gods, demigods, and everyone rejoice! ^3-34
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-a]]
 
 The third chapter, “Embracing Bodhichitta,” from Entering the Way of the Bodhisattva. ^3-a
 
@@ -1314,6 +1326,8 @@ I’ve contemplated thus and now will strive
 To undertake the precepts as described.
 How can a patient who needs medicine
 Be cured if they ignore the doctor’s advice? ^4-48
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^4-a]]
 
 The fourth chapter, “Teachings on Carefulness,” from Entering the Way of the Bodhisattva. ^4-a
 
@@ -2081,6 +2095,8 @@ With body, I will practice these—
 What does just mouthing words achieve?
 Does merely reading medical books
 Bring benefit to patients? ^5-109
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^5-a]]
 
 The fifth chapter, “Guarding Awareness,” from Entering the Way of the Bodhisattva. ^5-a
 
@@ -3026,6 +3042,8 @@ Beauty and so forth,
 Good health, prestige, a very long life,
 And a chakravarti’s pleasures. ^6-134
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^6-a]]
+
 The sixth chapter, “Transcendent Patience,” from Entering the Way of the Bodhisattva. ^6-a
 
 ## 7. Teachings on Diligence ^7-0
@@ -3571,6 +3589,8 @@ As tufts of cotton are directed
 By wind as it moves to and fro,
 So, too, is all accomplished under
 Direction of enthusiasm. ^7-77
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-a]]
 
 The seventh chapter, “Teachings on Diligence,” from Entering the Way of the Bodhisattva. ^7-a
 
@@ -4882,6 +4902,8 @@ I’ll turn my mind from the wrong paths,
 And I will rest continuously
 In equipoise with the right focus. ^8-187
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-a]]
+
 The eighth chapter, “Teachings on Meditation,” from Entering the Way of the Bodhisattva. ^8-a
 
 ## 9. Transcendent Prajna ^9-0
@@ -6058,6 +6080,8 @@ Respectfully accumulate merit
 And then teach emptiness to those
 Whose focus brings them ruin? ^9-167
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^9-a]]
+
 The ninth chapter, “Transcendent Prajna,” from Entering the Way of the Bodhisattva. ^9-a
 
 ## 10. Dedication ^10-0
@@ -6466,8 +6490,8 @@ A virtuous mind arose.
 I also bow to the spiritual friends
 Whose kindness made me thrive. ^10-58
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^10-a]]
+
 The tenth chapter, “Dedication,” from Entering the Way of the Bodhisattva. This completes Entering the Way of the Bodhisattva by Master Shantideva. ^10-a
 
-The Tibetan translation was reviewed and finalized by the Indian master Sarvajnadeva and the great editor-translator Bande Paltsek according to a manuscript from Kashmir. Later, the Indian master Dharma Shri Bhadra and the editor-translators Bande Rinchen Sangpo and Shakya Lodrö revised, retranslated, and edited it according to a manuscript from central India. At a later time, the Indian master Sumatikirti and the editor-translator bhikshu Loden Sherap corrected it again and finalized it. ^a
-
-Translated into English from the canonical Tibetan text in comparison with the extant Sanskrit by the bhikshu Karma Lodrö Choephel. ^b
+The Tibetan translation was revi

@@ -5407,4 +5407,1067 @@ Of a banana tree, there’s nothing,
 When scrutinized analytically,
 The me as well is nothing true. ^9-74
 
-![[1-SOURCES/Tex
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-75]]
+
+“If sentient beings do not exist,
+For whom should one arouse compassion?”
+For those projected by delusion,
+Whom we accept for the sake of results. ^9-75
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-76]]
+
+“Whose is the fruit if there are no beings?”
+That’s true; the wish is from delusion.
+For the sake of quelling suffering,
+Don’t block delusion about the result. ^9-76
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-77]]
+
+Delusions of a self increase
+The cause of suffering—the ego.
+“But there’s no stopping that,” you say.
+To cultivate selflessness is supreme. ^9-77
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-78]]
+
+The body’s not the feet or calves,
+Nor are the thighs or hips the body.
+It’s not the belly or the back;
+Neither is it the chest or arms. ^9-78
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-79]]
+
+It’s not the ribs, hands, armpits, shoulders,
+And it is not the organs either.
+The head and throat are not the body,
+So what, then, is the body here? ^9-79
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-80]]
+
+Now if the body were to dwell
+Partially in all of them,
+Its parts would thus dwell in those parts,
+But where would it reside itself? ^9-80
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-81]]
+
+If the entirety of the body
+Should dwell within the hands and such,
+Then there would be as many bodies
+As there are hands, et cetera. ^9-81
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-82]]
+
+If there’s no body, outside or in,
+How’s there a body in hands and such?
+If it’s not separate from the hands
+And such, then how does it exist? ^9-82
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-83]]
+
+Thus there’s no body. From delusion,
+We think of hands and such as the body,
+Just like perceiving a scarecrow as
+A human from its specific shape. ^9-83
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-84]]
+
+While the conditions are assembled,
+The body will appear as human.
+Likewise as long as there are hands
+And such, they’ll seem to be a body. ^9-84
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-85]]
+
+In the same way, what are the hands,
+Which are assemblages of fingers?
+Those are assemblages of knuckles.
+Dissecting knuckles into their parts, ^9-85
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-86]]
+
+The parts, too, divide into atoms.
+Dividing atoms into sides,
+Those, too, can split and have, like space,
+No parts, so there are no atoms either. ^9-86
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-87]]
+
+In this way, what discerning person
+Would lust for such a dreamlike form?
+When in this way there is no body,
+What is a man? What is a woman? ^9-87
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-88]]
+
+If pain exists in suchness, then
+Why does it not distress the cheerful?
+Why don’t those wracked with grief enjoy
+The tasty, if it’s pleasurable? ^9-88
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-89]]
+
+If it is not experienced
+Because the stronger overwhelms it,
+Then how can something that in nature
+Is not experience be a feeling? ^9-89
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-90]]
+
+“The pain is there in a subtle form.”
+Has its gross form not been dispelled?
+If it’s a different, mere pleasure,
+The subtle form would be of that. ^9-90
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-91]]
+
+If causes of its contrary
+Arise, so pain does not occur,
+Does that not prove that to conceive
+Of it as feeling is just fixation? ^9-91
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-92]]
+
+So therefore, as its antidote,
+Cultivate this investigation.
+The dhyana that grows in the field
+Of analysis is food for yogis. ^9-92
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-93]]
+
+If there’s a gap between the object
+And faculty, where is the contact?
+If there’s no gap, they would be one,
+And what would be in contact with what? ^9-93
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-94]]
+
+An atom can’t penetrate an atom;
+There is no space and they are equal.
+They won’t merge without penetration,
+And without merging, there’s no contact. ^9-94
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-95]]
+
+How is it logical to say
+That there is contact with the partless?
+If you should happen to observe
+The partless come in contact, show me. ^9-95
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-96]]
+
+It’s most illogical to contact
+An immaterial consciousness,
+Or, as examined earlier,
+Assemblies, as they are not things. ^9-96
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-97]]
+
+If contact thus does not exist,
+Then out of what does feeling arise?
+For sake of what are these travails?
+What causes injury to whom? ^9-97
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-98]]
+
+If there’s not anyone who feels
+And there’s not any feeling either,
+Once we have seen this situation,
+Why is it craving would not cease? ^9-98
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-99]]
+
+When seeing or touching, it’s by a nature
+That’s dreamlike and illusory.
+As they arise together with mind,
+Feelings are not perceived by it. ^9-99
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-100]]
+
+The earlier would be remembered
+But not experienced by a later.
+They’re not experienced by themselves,
+Nor are they felt by something else. ^9-100
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-101]]
+
+There is no one at all who feels,
+And feelings therefore are not real.
+Thus in this egoless assemblage,
+How then can they cause any harm? ^9-101
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-102]]
+
+Mind does not dwell in faculties,
+In form and such, or in between.
+Mind is not inside and not outside,
+And there is nowhere else it’s found. ^9-102
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-103]]
+
+What’s not a body and not other,
+Not mingled and not separate,
+Is nothing at all, and for this reason,
+The nature of beings is nirvana. ^9-103
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-104]]
+
+If mind precedes that which is known,
+What does it focus on to arise?
+If mind and the known are synchronous,
+What does it focus on to arise? ^9-104
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-105]]
+
+If it is after what is known,
+What does the mind arise from then?
+In such a way, one cannot realize
+The arising of any phenomenon. ^9-105
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-106]]
+
+“If there is thus no relative,
+Then how is it there are two truths?
+If it’s from another relative,
+Then how could beings reach nirvana?” ^9-106
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-107]]
+
+But that is someone else’s thought;
+It is not their own relative.
+It would exist if recognized later;
+If not, there is no relative. ^9-107
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-108]]
+
+The thought and what is thought of both
+Are each dependent on the other.
+All the analyses are stated
+According to the common consensus. ^9-108
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-109]]
+
+“If the analysis must be
+Analyzed analytically,
+So too must that analysis
+Be analyzed, ad infinitum.” ^9-109
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-110]]
+
+When the object has been analyzed,
+There is no basis to analyze.
+Without a base, it won’t arise,
+And this is what is called nirvana. ^9-110
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-111]]
+
+For those to whom these two seem true,
+This is extremely difficult.
+If entities are proven by knowing,
+What basis does knowing have to exist? ^9-111
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-112]]
+
+But if what’s known proves there is knowing,
+What basis has what’s known for being?
+If each exists by force of the other,
+Then neither of them could exist. ^9-112
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-113]]
+
+One’s not a parent without a child,
+So how then can the child arise?
+Without a child, there is no parent.
+Likewise these two are nonexistent. ^9-113
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-114]]
+
+“A shoot arises from a seed,
+And due to this, the seed is known.
+Why don’t we know the object exists
+Through the cognition it produces?” ^9-114
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-115]]
+
+A mind that’s other than the shoot
+Realizes that there was a seed.
+How is it known that there exists
+A knower by which the known is realized? ^9-115
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-116]]
+
+First, the people of the world
+Can see perceptually all causes.
+Distinctions of lotus stalks and such
+Are born of distinctions in the causes. ^9-116
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-117]]
+
+“What makes distinctions in the causes?”
+Distinctions in preceding causes.
+“Why can a cause produce a result?”
+It’s from the previous cause’s power. ^9-117
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-118]]
+
+If God is the cause of sentient beings,
+Then tell us first, please, what is God?
+“The elements,” you say. So be it—
+Why bother over a mere name? ^9-118
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-119]]
+
+But earth and such are multiple,
+Impermanent, inanimate,
+And not divine. They’re stepped upon
+And filthy, so they are not God. ^9-119
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-120]]
+
+Space is not God, since it’s inert.
+The self is not; it’s been refuted.
+An inconceivable creator
+Is beyond thought; why speak of it? ^9-120
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-121]]
+
+What do you posit He creates?
+A self? Aren’t that and earth and such
+And God by nature permanent?
+Cognition arises from its object ^9-121
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-122]]
+
+Without beginning; pleasure and pain,
+From actions. Do say what He creates.
+And if the cause has no beginning,
+How’s there a beginning to results? ^9-122
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-123]]
+
+Why is He not creating always?
+He’s not dependent on something else.
+There’s nothing else He did not make,
+So what could He depend upon? ^9-123
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-124]]
+
+If He’s dependent, the assembly
+Would be the cause, and God would not.
+When they’re assembled, He would have
+No power to not create, and when
+They’re not, no power to create. ^9-124
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-125]]
+
+If God creates without the wish to do so,
+It follows He’s controlled by something else.
+And if He wants to, He depends on that.
+Even creating, how is He almighty? ^9-125
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-126]]
+
+Those who say atoms are permanent
+Have been refuted earlier.
+The permanent, primal substance is
+The cause of beings, hold the Samkhyas. ^9-126
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-127]]
+
+They say that when the qualities—
+The so-called sattva, rajas, and tamas—
+Are balanced, that’s the primal substance.
+Unbalanced, they are called the world. ^9-127
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-128]]
+
+For one to have three natures is
+Illogical, so it’s nonexistent.
+Likewise the qualities don’t exist,
+For each of them is triple too. ^9-128
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-129]]
+
+It is far-fetched for sound and such
+To exist without the qualities,
+And pleasure and such aren’t possible
+In cloth and other mindless things. ^9-129
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-130]]
+
+If the nature of their cause is things,
+Haven’t we analyzed things already?
+For you, the cause is pleasure and such,
+But blankets don’t arise from them. ^9-130
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-131]]
+
+Pleasure and so forth come from blankets;
+Without them, there’s no pleasure and such.
+And pleasure and so forth as well
+Are never observed as permanent. ^9-131
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-132]]
+
+If instances of pleasure exist,
+Why isn’t the feeling apprehended?
+You say just that has become subtle,
+But how can it be gross and subtle? ^9-132
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-133]]
+
+If they lose grossness and turn subtle,
+Then gross or subtle, they are transient.
+Why do you not assert all things
+Are similarly impermanent? ^9-133
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-134]]
+
+If grossness is not other than pleasure,
+Pleasure is clearly impermanent.
+If you say something nonexistent
+Cannot arise—it doesn’t exist— ^9-134
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-135]]
+
+A nonexistent instance arising
+Amounts to this, despite your wish.
+If the result dwells in the cause,
+Then eating food is eating feces, ^9-135
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-136]]
+
+And for the price of cotton cloth,
+You should buy cotton seeds and wear them.
+“Since they’re deluded, people don’t see it.”
+But those who know reality ^9-136
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-137]]
+
+Present this, and there are some people
+Who know it—why do they not see it?
+If worldly folk lack valid knowledge,
+Then seeing the manifest is not true. ^9-137
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-138]]
+
+“If valid cognition were invalid,
+Then would not what is known be false?
+Therefore, in suchness, meditating
+On emptiness is illogical.” ^9-138
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-139]]
+
+Sans contact with imagined things,
+Their nothingness is not apprehended.
+Therefore the unreality
+Of a false thing is clearly false. ^9-139
+
+Thus when a child dies in a dream,
+The thought that they do not exist
+Negates the thought they do exist,
+And yet, it also is a fiction. ^9-140
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-141]]
+
+Having investigated thus,
+Nothing without a cause exists,
+And nothing dwells in the conditions,
+Individually or combined. ^9-141
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-142]]
+
+It does not come from somewhere else,
+Nor does it stay, nor does it go.
+Though the deluded say it’s true,
+How does it differ from illusion? ^9-142
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-143]]
+
+What an illusion emanates
+And that which causes emanate:
+Scrutinize where it is they come from
+And also where it is they go. ^9-143
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-144]]
+
+That which is seen when something else
+Is present but not when it’s absent
+Is fabricated, like a reflection.
+How is there any truth to it? ^9-144
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-145]]
+
+How would a cause be necessary
+For a thing that exists already?
+However, if it doesn’t exist,
+How would a cause be necessary? ^9-145
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-146]]
+
+Even a thousand million causes
+Cannot transform the nonexistent.
+How in that phase is it a thing?
+And what else would become a thing? ^9-146
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-147]]
+
+If at the time of nonexistence,
+A thing can’t possibly exist,
+When can a thing come into being?
+And if a thing has not arisen,
+That nonexistence does not vanish. ^9-147
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-148]]
+
+Without removing nonexistence,
+There’s no chance for the thing to be.
+Nor can a thing become nonexistent—
+For it would therefore have two natures. ^9-148
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-149]]
+
+In this way, there is no cessation,
+Nor is there any existent thing.
+Thus at all times, all wanderers
+Have not been born and do not cease. ^9-149
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-150]]
+
+Wandering beings are like dreams,
+Like a banana tree when probed.
+Reaching nirvana and not reaching
+Are not, in suchness, any different. ^9-150
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-151]]
+
+With things, which in this way are empty,
+What’s there to get? What’s there to lose?
+And who is there to be respected
+Or denigrated, and by whom? ^9-151
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-152]]
+
+Whence do pleasure and suffering come?
+What’s to dislike and what’s to like?
+When you investigate, in suchness,
+Who’s there that craves? What’s there to crave? ^9-152
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-153]]
+
+When it’s examined, in this world
+Of living beings, who here dies?
+What will become? What once became?
+And what are family and friends? ^9-153
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-154]]
+
+All those like me must understand
+That everything is just like space.
+The causes, strife and merriment,
+Make those who want pleasure for themselves ^9-154
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-155]]
+
+Become enraged or else exultant.
+They grieve, they toil, and they dispute.
+They slash and stab each other, doing
+Misdeeds that make their lives arduous. ^9-155
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-156]]
+
+Returning, returning to higher realms,
+Consuming, consuming the many pleasures,
+They die and plunge to lower realms—
+Intense, long-lasting agonies. ^9-156
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-157]]
+
+So many abysses in existence!
+And there, such things as these aren’t suchness.
+There, too, they’re incompatible.
+In existence, there is no such suchness. ^9-157
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-158]]
+
+There, the incomparable and dreadful
+Oceans of suffering are endless.
+And there, one has so little strength;
+And there, life is so very short. ^9-158
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-159]]
+
+There, in maintaining life and health,
+In weariness from hunger and thirst,
+In sleep and in adversity,
+In the fruitless company of fools, ^9-159
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-160]]
+
+Life passes quickly, pointlessly.
+Discernment is so hard to find.
+And there, what method could there be
+To stop the habits of distraction? ^9-160
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-161]]
+
+There, too, the maras try to make
+One fall into great lower realms.
+And there, wrong paths are plentiful.
+It’s difficult to get past doubt. ^9-161
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-162]]
+
+It’s hard to find these leisures again;
+Most hard to find a buddha appearing.
+Hard to give up the flood of afflictions.
+Alas! The stream of suffering! ^9-162
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-163]]
+
+Although the suffering is extreme,
+They do not see their own misery.
+Alas! It is most fitting to grieve
+For those deluged by suffering! ^9-163
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-164]]
+
+Just as some bathe repeatedly
+But enter flames again and again,
+Although they suffer terribly,
+They have the conceit that they are happy. ^9-164
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-165]]
+
+Likewise they live with the pretense
+That they will never grow old or die.
+But first they’re slain, and then there comes
+The terrible fall to lower realms. ^9-165
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-166]]
+
+So when will I bring peace to those
+Ravaged by fires of suffering
+By showering down from clouds of merit
+A rain of comforts to sustain them? ^9-166
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-167]]
+
+And when will I, free of all focus,
+Respectfully accumulate merit
+And then teach emptiness to those
+Whose focus brings them ruin? ^9-167
+
+The ninth chapter, “Transcendent Prajna,” from Entering the Way of the Bodhisattva. ^9-a
+
+## 10. Dedication ^10-0
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-1]]
+
+By the merit of my having written
+The Way of the Bodhisattva,
+May every wandering being enter
+The bodhisattvas’ ways. ^10-1
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-2]]
+
+May everyone in all directions
+Who’s anguished or diseased
+In body or mind gain, through my merit,
+An ocean of happiness. ^10-2
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-3]]
+
+As long as they are in samsara,
+May their happiness never wane.
+May beings continuously obtain
+The bodhisattvas’ joy. ^10-3
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-4]]
+
+May all the beings in the hells,
+As many as there are
+In every universe, delight
+In the joys of the Blissful Realm. ^10-4
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-5]]
+
+May all those stricken by cold find warmth;
+Those stricken by heat be cooled
+By boundless oceans of waters born
+From great clouds of bodhisattvas. ^10-5
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-6]]
+
+May sword-leaf forests become for them
+Thick groves of sandalwood.
+May the trunks of shalmali trees grow
+Into wish-fulfilling trees. ^10-6
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-7]]
+
+May the regions of the hells become delightful
+With lakes of aromatic lotuses
+Made beautiful by gray geese, ducks, ruddy geese,
+White swans, and so forth, calling pleasantly. ^10-7
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-8]]
+
+May the heaps of embers become mounds of jewels;
+The burning ground become a crystal floor.
+May the crushing mountains also become temples
+Of worship that are filled with sugatas. ^10-8
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-9]]
+
+From today onward, may the rains of lava,
+Embers, and armaments be a rain of flowers.
+May those who strike each other with their weapons
+From now on playfully toss flowers instead. ^10-9
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-10]]
+
+May those sunk in the Unfordable River—whose water is like fire—
+Their flesh all fallen off, their bones as white as jasmine flowers,
+By the power of my virtue achieve the body of a god
+And dwell in goddesses’ company by the Mandakini. ^10-10
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-11]]
+
+“What frightens so the terrible henchmen of the Lord of Death, the crows, and vultures?
+Whose might,” they wonder, “this fine power dispelling the gloom all round and bringing us joy?”
+Looking up, may they see Vajrapani blazing in the center of the sky.
+Freed of misdeeds by the power of utter joy, may they consort with him. ^10-11
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-12]]
+
+Seeing a rain of blossoms mixed with scented water
+Drench and extinguish the infernal conflagrations,
+May the beings in hell be sated with a sudden pleasure,
+And wondering why that is, behold there Padmapani. ^10-12
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-13]]
+
+“Friends, cast away your fear and hurry here! Who could this be, now come to us
+Relieving all our suffering, exuding the energy of joy,
+Protecting beings from all, the bodhisattva who has roused compassion,
+The youth with hair in a topknot who dispels our every fear? ^10-13
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-14]]
+
+“Behold! See how a hundred gods revere his lotus feet with their tiaras.
+His eyes are moist with compassion; a shower of many flowers falls upon his head.
+Look at this lovely palace where a thousand goddesses praise him in song!”
+May the denizens of hell let forth such a clamor when they behold Manjughosha. ^10-14
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-15]]
+
+Then through my virtue, may the beings in the hells,
+Seeing a cloud of bodhisattvas free of obscurations
+Led by Samantabhadra shower down on them
+A comforting, cool, fragrant rain, take true delight. ^10-15
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-16]]
+
+May animals’ fear of being eaten
+By one another vanish.
+Like humans in Unpleasant Sound,
+May hungry ghosts be happy. ^10-16
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-17]]
+
+May streams of milk flowing from the hands
+Of noble Lokeshvara
+Ever satiate, bathe, and refresh
+The preta hungry ghosts. ^10-17
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-18]]
+
+May everyone who’s blind now see,
+And may the deaf always hear.
+May the pregnant give birth without pain,
+Just like Queen Mayadevi. ^10-18
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-19]]
+
+May those who are naked obtain clothing;
+The hungry acquire food.
+May those who are thirsty procure water
+And delicious beverages. ^10-19
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-20]]
+
+May beggars gain prosperity;
+Those wracked with grief gain joy.
+May the despondent be relieved
+And have great stability. ^10-20
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-21]]
+
+May every being who is sick
+Be swiftly cured of illness.
+May none of wanderers’ maladies
+Ever occur again. ^10-21
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-22]]
+
+May those who are frightened have no fears;
+May all in bonds be freed.
+May the powerless be powerful
+And friendly with each other. ^10-22
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-23]]
+
+May all directions be propitious
+For every traveler.
+May they accomplish without effort
+The aims for which they travel. ^10-23
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-24]]
+
+May those embarked on boats and ships
+Accomplish their intentions,
+And may they safely reach the shore
+To rejoice with their families. ^10-24
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-25]]
+
+May those astray on desolate paths
+Meet travelers and journey
+Unafraid of bandits, tigers, and such,
+With ease and unfatigued. ^10-25
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-26]]
+
+May the young and old without protection
+In wretched, roadless wilds—
+Asleep, inebriated, or mad—
+Be guarded by the gods. ^10-26
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-27]]
+
+Freed of all lack of leisure, may they
+Have faith, compassion, and prajna.
+May they, with perfect food and conduct,
+Recall their past lives always. ^10-27
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-28]]
+
+May all have wealth as endless as
+The treasury of the sky,
+Enjoying it as they wish without
+Any quarreling or threats. ^10-28
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-29]]
+
+May beings with little vitality
+Be vigorous and robust.
+May those ascetics with bad physiques
+Have the most sublime bodies. ^10-29
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-30]]
+
+May all the women in the world
+Gain favorable positions.
+May those who are lowly gain high status
+And also vanquish pride. ^10-30
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-31]]
+
+May every being without exception,
+Through this merit of mine,
+Abandon all misdeeds and then
+Act virtuously always. ^10-31
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-32]]
+
+Never parted from bodhichitta, may they
+Engage in enlightened conduct.
+May they be accepted by the buddhas
+And give up the acts of maras. ^10-32
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-33]]
+
+May every sentient being have
+Immeasurably long life.
+May all live happily forever.
+May the word death be unheard. ^10-33
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-34]]
+
+May pleasure groves of wishing trees
+Filled with dharma proclaimed
+By buddhas and the buddhas’ offspring
+Abound in all directions. ^10-34
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-35]]
+
+Everywhere may the ground be free
+Of gravel, and so forth,
+As even as a palm, as smooth
+As vaidurya in nature. ^10-35
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-36]]
+
+May great assemblies of bodhisattvas
+Be seated all around,
+And may they beautify the earth
+With their magnificence. ^10-36
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-37]]
+
+May all corporeal beings hear
+The unceasing sound of dharma
+From every bird, tree, and light ray,
+And even from the sky. ^10-37
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-38]]
+
+May they perpetually encounter
+The buddhas and their children
+And with boundless clouds of offerings,
+Revere the teacher of beings. ^10-38
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-39]]
+
+May the gods make the rains fall in season.
+May crops be excellent.
+May monarchs act according to dharma,
+And may the people thrive. ^10-39
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-40]]
+
+May medicines be efficacious
+And mantras be accomplished.
+May dakinis and rakshasas
+And such be compassionate. ^10-40
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-41]]
+
+May no sentient being be miserable,
+None wicked, none diseased.
+May none be fearful or despised.
+Let no one be unhappy. ^10-41
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-42]]
+
+Thriving with reading and recitation,
+May temples be well established.
+May the sangha—always harmonious—
+Accomplish its purposes. ^10-42
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-43]]
+
+May bhikshus with the wish to train
+Find solitary places,
+Give up all distraction, and meditate
+With minds that are workable. ^10-43
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-44]]
+
+May the bhikshunis be supported
+And give up quarrels and harm.
+May everyone who has gone forth
+Have unbroken discipline. ^10-44
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-45]]
+
+May those who’ve broken vows repent,
+And always giving up wrong,
+Be born in the higher realms and keep
+Their vows inviolate. ^10-45
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-46]]
+
+May panditas be venerated
+And also receive alms.
+Their mind streams pure, may they be known
+In every direction. ^10-46
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-47]]
+
+Without enduring the lower realms’ pains
+Or undergoing hardship,
+With a body better than a god’s,
+May beings soon become buddhas. ^10-47
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-48]]
+
+May every being frequently make
+Offerings to all buddhas.
+May they be happy always with
+The buddhas’ infinite bliss. ^10-48
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-49]]
+
+The bodhisattvas’ wishes for
+The sake of beings fulfilled,
+May sentient beings easily gain
+What the protectors intend. ^10-49
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-50]]
+
+Likewise may the pratyekabuddhas
+And shravakas be happy. ^10-50
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-51]]
+
+Until through Manjughosha’s kindness,
+I achieve the level Joyous,
+Always may I recall my lives,
+Go forth, and be ordained. ^10-51
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-52]]
+
+Even with meager fare, may I
+Live with vitality.
+In all my lives, may I find places
+Of perfect solitude. ^10-52
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-53]]
+
+Whenever I have the wish to see him
+Or ask of him a question,
+May I see without impediment
+Manjushri, the protector. ^10-53
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-54]]
+
+Just as Manjushri acts to achieve
+The benefit of all beings
+To the ends of space in the ten directions,
+May my deeds be the same. ^10-54
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-55]]
+
+For as long as space endures,
+As long as there are beings,
+I will remain to eliminate
+The sufferings of beings. ^10-55
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-56]]
+
+Whatever the sufferings of wanderers,
+May they all ripen on me.
+May the sangha of bodhisattvas bring
+Beings to happiness. ^10-56
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-57]]
+
+Sole cure for beings’ suffering,
+Source of all happiness,
+May the teachings remain for a long time,
+Supported and respected. ^10-57
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-58]]
+
+I bow to Manjushri, through whose kindness
+A virtuous mind arose.
+I also bow to the spiritual friends
+Whose kindness made me thrive. ^10-58
+
+The tenth chapter, “Dedication,” from Entering the Way of the Bodhisattva. This completes Entering the Way of the Bodhisattva by Master Shantideva. ^10-a
+
+The Tibetan translation was reviewed and finalized by the Indian master Sarvajnadeva and the great editor-translator Bande Paltsek according to a manuscript from Kashmir. Later, the Indian master Dharma Shri Bhadra and the editor-translators Bande Rinchen Sangpo and Shakya Lodrö revised, retranslated, and edited it according to a manuscript from central India. At a later time, the Indian master Sumatikirti and the editor-translator bhikshu Loden Sherap corrected it again and finalized it. ^a
+
+Translated into English from the canonical Tibetan text in comparison with the extant Sanskrit by the bhikshu Karma Lodrö Choephel. ^b

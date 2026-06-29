@@ -163,7 +163,7 @@ When unsure, omit it. Precision matters: do not pad the output with doubtful can
 
 OUTPUT FORMAT — for each section output EXACTLY this block, nothing more:
 
-CONTEXT: [10 Tibetan words before + 10 Tibetan words after the section]
+CONTEXT: [20 Tibetan words before + 20 Tibetan words after the section]
 SECTION_TITLE: [the section ordinal marker TOGETHER WITH the section's topic name, but
 WITHOUT any trailing division clause or grammatical particle. Strip the "divided into N"
 phrase (e.g. ལ་གཉིས་ཏེ། , ལ་གསུམ་ལས། , ལ་བཞི། ) and trailing markers such as ནི། and the
@@ -173,7 +173,10 @@ particle / division phrase. Examples:
     གཉིས་པ་འགྱུར་ཕྱག་ནི།   ->  གཉིས་པ་འགྱུར་ཕྱག་
     གསུམ་པ་མཚན་དོན་ནི།     ->  གསུམ་པ་མཚན་དོན་]
 LINE: [the source line number (from the leading "N:" prefix in the chunk) where the
-SECTION_TITLE text appears]
+announcement or section opening BEGINS — the first line of the passage that announces
+or opens this section. This may be earlier than the line containing the SECTION_TITLE
+ordinal itself (e.g. when the division clause begins on a preceding line). Use the
+line numbers visible in the CONTEXT field to identify the start.]
 ITEMS:
 1. [first named item, in Tibetan]
 2. [second named item, in Tibetan]
@@ -1079,6 +1082,76 @@ def annotate_items_with_lines(candidates_text: str, source_lines: list[str]) -> 
 
 
 # ------------------------------------------------------------------------------
+# Tibetan structural division markers that appear in announcement sentences.
+_DIVISION_MARKER_RE = re.compile(
+    r"(སྟེ།|ལས།|ལའང་|གསུམ་སྟེ|གཉིས་ཏེ|བཞི་ལས|ལ་གཉིས|ལ་གསུམ|ལ་བཞི|ལ་ལྔ|"
+    r"ལ་དྲུག|ལ་བདུན|ལ་བརྒྱད|ལ་དགུ|ལ་བཅུ|གཉིས་ལས|གསུམ་ལས|བཞི་ལས|ལྔ་ལས)"
+)
+
+
+def find_announcement_start(source_lines: list[str], title_line_1based: int,
+                            title_words: list[str] | None = None,
+                            max_lookahead: int = 30) -> int:
+    """Scan forward from title_line to find the prose line where the announcement begins.
+
+    Strategy 1 — preferred: find the first non-heading, non-blank prose line that
+    contains BOTH a division marker (སྟེ། / ལས། / ལའང་ / etc.) AND at least one key
+    syllable from the section title. This is the actual announcement sentence.
+
+    Strategy 2 — fallback: return the first non-heading, non-blank prose line after
+    title_line (covers cases where the announcement wording differs too much from the
+    extracted title).
+
+    Lines starting with '#' (markdown headings) and YAML front-matter ('---') are
+    always skipped. Returns a 1-based line number; falls back to title_line_1based
+    if nothing is found within max_lookahead lines.
+    """
+    idx = title_line_1based - 1  # 0-based
+    limit = min(len(source_lines), idx + max_lookahead)
+    key_sylls = [s for s in re.split(r"[་\s།༎༏༐༑༒༔]+", " ".join(title_words or []))
+                 if len(s) > 1]
+
+    first_prose = None  # fallback: first non-heading prose line
+
+    for i in range(idx, limit):
+        line = source_lines[i].strip()
+        if not line or line.startswith("#") or line.startswith("---"):
+            continue
+        if first_prose is None:
+            first_prose = i + 1  # 1-based
+        # Strategy 1: division marker + title syllable present
+        if _DIVISION_MARKER_RE.search(line):
+            if not key_sylls or any(s in line for s in key_sylls):
+                return i + 1
+    # Strategy 2: first prose line (even without a division marker)
+    return first_prose if first_prose is not None else title_line_1based
+
+
+# Regex to parse SECTION_TITLE + LINE pairs out of a candidates block
+_TITLE_LINE_RE = re.compile(
+    r"SECTION_TITLE:\s*(?P<title>[^\n]+)\n(?:.*?\n)*?LINE:\s*(?P<line>\d+)",
+    re.MULTILINE,
+)
+
+
+def rewrite_lines_to_announcement_start(candidates_text: str, source_lines: list[str],
+                                        max_lookahead: int = 30) -> str:
+    """Replace each LINE: value in candidates_text with the 1-based source line where
+    the announcement prose begins, found by scanning forward from the Gemini-reported
+    line to the first prose line containing a division marker + title syllables."""
+
+    def _replace(m: re.Match) -> str:
+        title = m.group("title").strip()
+        original = int(m.group("line"))
+        title_words = [s for s in re.split(r"[་\s།༎༏༐༑༒༔]+", title) if len(s) > 1]
+        start = find_announcement_start(source_lines, original, title_words, max_lookahead)
+        # Reconstruct the matched block with the updated LINE: value
+        return m.group(0).replace(f"LINE: {original}", f"LINE: {start}")
+
+    return _TITLE_LINE_RE.sub(_replace, candidates_text)
+
+
+# ------------------------------------------------------------------------------
 def find_vault_root(start: Path) -> Path:
     """Walk upward looking for the vault root (the dir containing 4-SYSTEM/)."""
     for parent in [start, *start.parents]:
@@ -1334,7 +1407,11 @@ def main():
             enum_chunks.append(f"<!-- chunk {idx:03d} | lines {start}–{end} -->\n{c}")
         enumerations_text = "\n\n".join(enum_chunks)
 
-    # ---- Step 4c: annotate ITEMS with source line numbers ----
+    # ---- Step 4c: rewrite LINE: values to announcement start ----
+    print("Rewriting LINE: values to announcement start ...", flush=True)
+    candidates_doc = rewrite_lines_to_announcement_start(candidates_doc, lines)
+
+    # ---- Step 4d: annotate ITEMS with source line numbers ----
     print("Annotating ITEMS with line numbers ...", flush=True)
     candidates_doc = annotate_items_with_lines(candidates_doc, lines)
     out_file.write_text(candidates_doc, encoding="utf-8")

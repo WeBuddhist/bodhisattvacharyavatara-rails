@@ -3030,220 +3030,308 @@ The sixth chapter, “Transcendent Patience,” from Entering the Way of the Bod
 
 ## 7. Teachings on Diligence ^7-0
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-1]]
+
 Thus with patience, be diligent.
 Enlightenment dwells in striving so.
 There is no motion without wind;
 No merit without diligence. ^7-1
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-2]]
 
 Diligence is a zest for virtue.
 What’s contrary to that? To explain,
 It’s laziness—clinging to the bad
 And sloth and self-disparagement. ^7-2
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-3]]
+
 Laziness arises from
 Not wearying of samsaric pain,
 From craving sleep and savoring
 The pleasures of being indolent. ^7-3
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-4]]
 
 Stalked by the hunters, the afflictions,
 You’ve walked into the trap of birth.
 Yet do you still not understand
 You’ve entered the maw of the Lord of Death? ^7-4
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-5]]
+
 Have you not seen that your compeers
 Are being killed, one after another?
 Still, even so you fall asleep,
 Just like a buffalo with a butcher. ^7-5
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-6]]
 
 When all around the ways are blocked
 And the Lord of Death is watching you,
 How is it you enjoy your food?
 How can you like so much to sleep? ^7-6
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-7]]
+
 You will die soon, so until then
 Gather the accumulations.
 For then, when there is no more time
 To give up sloth, what will you do? ^7-7
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-8]]
 
 This is undone, this just begun,
 And this remains but halfway done.
 The Lord of Death will suddenly come,
 And you will think, “Alas, I’m finished!” ^7-8
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-9]]
+
 You’ll watch your relatives lose all hope
 As tears from shock of grief roll down
 Their faces, their eyes red and swollen.
 You’ll see the faces of Yama’s henchmen. ^7-9
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-10]]
 
 Recalling your misdeeds with anguish
 And hearing the din of hell, the dread
 Will make you foul yourself with filth.
 You’ll be in torment—what will you do? ^7-10
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-11]]
+
 If like a living, writhing fish,
 You have such terror in this life,
 What of the intense suffering
 Of hell from the misdeeds you’ve done? ^7-11
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-12]]
 
 Your flesh is tender when it’s touched
 By scalding water, yet you have done
 The karma of the hottest hells.
 Why do you stay so comfortably? ^7-12
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-13]]
+
 You want results without any effort—
 Such pain for one so delicate!
 When grasped by death, you’re like a god.
 Alas! Suffering will destroy you! ^7-13
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-14]]
 
 Free yourself with the human boat
 From the great river of suffering.
 Such a boat is hard to get again.
 Now is no time for sleep, you fool. ^7-14
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-15]]
+
 Forsaking the sublime joy of dharma,
 The cause of infinite delight,
 Why do you relish such distractions
 And games that will cause suffering? ^7-15
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-16]]
 
 Don’t be discouraged; practice with
 The forces, purpose, and self-control:
 The equality of self and others
 And exchanging yourself for others. ^7-16
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-17]]
+
 Don’t get demoralized and think,
 “How is it I could be awakened?”
 For the Tathagata who speaks
 The truth has spoken truly thus: ^7-17
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-18]]
 
 If they should rouse the strength of effort,
 Even gnats, mosquitoes, bees, and worms
 Will gain what is so hard to achieve—
 Unexcelled enlightenment. ^7-18
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-19]]
+
 If I, born in the human race,
 Can recognize what helps and harms
 And don’t give up enlightened conduct,
 Why wouldn’t I reach enlightenment? ^7-19
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-20]]
 
 “But I’m afraid of sacrificing
 My limbs and such,” I say, not thinking
 What is severe and what is light—
 Delusion has left me in fear. ^7-20
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-21]]
+
 For countless millions of aeons,
 I will be hacked and stabbed and burnt
 And rent asunder many times,
 But not achieve enlightenment. ^7-21
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-22]]
 
 The suffering for me to achieve
 Enlightenment, though, has a limit,
 Like pain from an incision made
 To excise a painful foreign object. ^7-22
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-23]]
+
 All physicians cure disease
 Through the discomfort of a treatment.
 Therefore put up with small distress
 To overcome myriad sufferings. ^7-23
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-24]]
 
 The Supreme Physician does not use
 Commonplace treatments such as those.
 He cures unfathomably great diseases
 With the most gentle of remedies. ^7-24
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-25]]
+
 Initially, the Guide prescribes
 Giving away vegetables and the like.
 Eventually, when used to that,
 You will be able to give your flesh. ^7-25
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-26]]
 
 For once you understand your body
 To be like vegetables and such,
 What difficulty would there be
 In relinquishing your flesh and such? ^7-26
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-27]]
+
 There is no pain from giving up wrong,
 No melancholy from being wise,
 For harm to the body is from misdeeds
 And harm to the mind from misconceptions. ^7-27
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-28]]
 
 If physical pleasure is from merit
 And mental pleasure from being wise,
 Would the compassionate despair
 To stay in samsara for others’ sake? ^7-28
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-29]]
+
 Because the power of bodhichitta
 Exhausts one’s misdeeds from the past
 And gathers oceans of merit, it’s taught
 That they surpass the shravakas. ^7-29
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-30]]
 
 So ride the horse of bodhichitta
 That banishes all weariness.
 Who in their senses would be lazy
 To go from one joy to the next? ^7-30
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-31]]
+
 To benefit beings, the forces are
 Longing, steadfastness, joy, and deferring.
 Longing is born of fearing suffering
 And contemplating its benefits. ^7-31
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-32]]
 
 Thus give up what is contrary.
 By force of effort and mastery
 Of longing, pride, joy, putting aside,
 Strive to increase your diligence. ^7-32
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-33]]
+
 My own and others’ infinite wrongs
 Are mine indeed to eliminate,
 But every single fault will take
 An ocean of aeons to extinguish, ^7-33
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-34]]
 
 And I don’t see that I’ve begun
 To exhaust them even the slightest bit.
 Infinite suffering is my lot;
 Why does my heart not burst apart? ^7-34
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-35]]
+
 My own and others’ numerous
 Qualities are for me to accomplish,
 And though each quality will take
 An ocean of aeons to cultivate, ^7-35
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-36]]
 
 I’ve never cultivated even
 A fraction of a quality.
 It is astounding how I’ve squandered
 This birth that somehow I’ve achieved. ^7-36
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-37]]
+
 I haven’t worshipped the Bhagavan
 Or given the pleasures of great feasts.
 I have not acted for the teachings,
 Fulfilled the wishes of the poor, ^7-37
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-38]]
 
 Provided safety to those in fear,
 Or given comfort to the wretched.
 All I’ve created is suffering
 And pain inside my mother’s womb. ^7-38
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-39]]
+
 Because I have not longed for dharma,
 Such tribulations have occurred
 To me before and even now.
 Who would forsake the wish for dharma? ^7-39
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-40]]
 
 The Sage has said the basis of
 Everything virtuous is longing.
 The root of that is meditating
 On the full ripening of results. ^7-40
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-41]]
+
 Sufferings, unhappiness,
 Dangers of assorted types,
 And deprivation of desires
 Occur because of committing misdeeds. ^7-41
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-42]]
 
 Wherever they go, those who perform
 The virtue that their heart desires
 Will be welcomed with offerings
 Resulting from their acts of merit. ^7-42
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-43]]
+
 Wherever they go, those who commit
 Misdeeds, though they want happiness,
 Will be destroyed because of their wrongs
 By the weapons of suffering. ^7-43
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-44]]
 
 From virtues, you will dwell within the heart
 Of a vast, cool, and fragrant lotus flower,
@@ -3254,6 +3342,8 @@ The lotus blossoms, you will then emerge
 Before the victors with a supreme body—
 You will become a child of the sugatas. ^7-44
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-45]]
+
 But from your many nonvirtues, the henchmen
 Of Yama will entirely flay your skin,
 And you will be most miserable and wretched.
@@ -3263,60 +3353,84 @@ And blows rained down by blazing swords and spears
 Will hack your flesh into a hundred pieces,
 And you will fall onto the burning iron ground. ^7-45
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-46]]
+
 Therefore you should long for virtue
 And cultivate it with dedication.
 Once started, meditate on pride
 With the methods from the Vajradhvaja. ^7-46
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-47]]
 
 Examine first your resources
 And then begin or don’t begin.
 Not starting may well be the best;
 Do not turn back once you’ve begun. ^7-47
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-48]]
+
 For with that habit, in other lives
 Misdeeds and suffering will increase,
 Or else the time of the result
 Will be diminished, unaccomplished. ^7-48
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-49]]
 
 Be prideful of these three: your acts,
 Afflictions, and ability.
 To say, “I shall do this alone,”
 Is in itself the pride of action. ^7-49
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-50]]
+
 The worldly, overcome by afflictions,
 Cannot accomplish their own good.
 Beings are not as able as I,
 And therefore I’ll do this myself. ^7-50
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-51]]
 
 How can I just sit there when
 Another does the menial work?
 If out of pride, I won’t do that,
 It’s best for me to have no pride. ^7-51
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-52]]
+
 When it encounters a dead snake,
 Even a crow acts like a garuda.
 When I myself am weak, a downfall—
 Even if small—will cause me harm. ^7-52
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-53]]
 
 Can there be freedom from privation
 For the disheartened who have stopped trying?
 It’s hard for even the great to best
 Those who have roused their pride and effort. ^7-53
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-54]]
+
 Therefore with a steadfast mind,
 I’ll vanquish downfalls. If instead
 They conquer me, my wish to triumph
 Over the three realms is laughable. ^7-54
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-55]]
 
 I’ll be victorious over all.
 I will let nothing vanquish me.
 A child of the lion, the Victor,
 I shall abide within such pride. ^7-55
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-56]]
+
 Those beings whom pride has subjugated
 Do not have pride; they are afflicted.
 They have succumbed to the foe pride—
 The proud are not controlled by foes. ^7-56
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-57]]
 
 Inflated by afflicted pride,
 That pride will lead you to lower realms,
@@ -3324,20 +3438,28 @@ Destroying the feast of being human.
 A slave who feeds on others’ scraps,
 You will be stupid, ugly, and weak. ^7-57
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-58]]
+
 You’ll be reviled everywhere.
 If wretched folk inflated with pride
 Are also counted among the proud,
 Do say, then, what the lowly are like. ^7-58
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-59]]
 
 Those who grasp pride in order to defeat the enemy pride,
 They are the proud, the victorious who are themselves the heroes.
 The ones who thus destroy the growing enemy of pride
 Will perfect the result of victory that beings desire. ^7-59
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-60]]
+
 Amidst the crowd of the afflictions,
 Persevere in a thousand ways.
 Like lions with jackals, do not let
 The hosts of the afflictions strike. ^7-60
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-61]]
 
 No matter how great the danger is,
 People always guard their eyes.
@@ -3352,70 +3474,98 @@ Bow to the enemy, affliction. ^7-62
 Likewise in every situation,
 I’ll never act any way but right. ^7-63
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-62]]
+
 Like wanting the pleasure that results
 From play, they are enchanted with
 The acts that are for them to do—
 Delighted, never satisfied. ^7-64
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-63]]
 
 We act for sake of happiness,
 Not knowing whether pleasure will come.
 How can all those whose deeds are pleasure
 Be happy if they do not act? ^7-65
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-64]]
+
 If you aren’t sated by desires,
 Which are like honey on a razor,
 How can you then be sated by merit,
 Whose ripening is peace and pleasure? ^7-66
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-65]]
 
 So therefore to complete your task,
 Immerse yourself in action, like
 An elephant scorched in midday sun
 Who sees a lake and plunges in. ^7-67
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-66]]
+
 But when your strength diminishes,
 Put work aside to act again later.
 Once it’s well done, leave it behind—
 Look forward to the next and later. ^7-68
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-67]]
 
 Like parrying the enemy’s blade
 When you are in the thick of battle,
 Evade the weapons of afflictions,
 And strike the foe afflictions hard. ^7-69
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-68]]
+
 If you should drop your sword in battle,
 You’d swiftly pick it up from fear.
 If you lose mindfulness—your weapon—
 Take it up quickly, fearing hell. ^7-70
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-69]]
 
 Just as a poison spreads throughout
 The body through the flow of blood,
 Likewise if they can get a chance,
 Your wrongs will spread throughout your mind. ^7-71
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-70]]
+
 Practitioners should concentrate,
 As fearful as someone holding a bowl
 That brims with oil before a swordsman
 Who threatens death if any spills. ^7-72
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-71]]
 
 So just as you would spring up quick
 If a snake should get into your lap,
 If sleep and slothfulness should come,
 Then counteract them with great haste. ^7-73
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-72]]
+
 For every single wrong that occurs,
 Chastise yourself and ponder long,
 “However I can, I’ll make it so
 This never happens to me again.” ^7-74
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-73]]
 
 “In circumstances such as this,
 How shall I practice mindfulness?”
 With that as cause, you should seek out
 A meeting and appropriate action. ^7-75
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-74]]
+
 Before you act, no matter what,
 To have the strength for everything,
 Recall the words on carefulness
 So that you will be light and nimble. ^7-76
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-75]]
 
 As tufts of cotton are directed
 By wind as it moves to and fro,
@@ -3426,60 +3576,84 @@ The seventh chapter, “Teachings on Diligence,” from Entering the Way of the 
 
 ## 8. Teachings on Meditation ^8-0
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-1]]
+
 After thus rousing diligence,
 Settle your mind into samadhi.
 A person whose mind wanders perches
 Between the fangs of the afflictions. ^8-1
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-2]]
 
 With solitude of body and mind,
 Distraction won’t occur.
 So you should thus forsake the world
 And also give up discursive thoughts. ^8-2
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-3]]
+
 You won’t renounce the world if attached
 Or else if you crave goods and such.
 In order to abandon those,
 The wise should contemplate like this: ^8-3
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-4]]
 
 Realizing that afflictions are destroyed
 By shamatha and insight in conjunction,
 First seek out shamatha, which comes from joy
 For having no attachment to the world. ^8-4
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-5]]
+
 Who is someone ephemeral
 To cling to the impermanent?
 In a thousand lives, you’ll never see
 The ones who were so dear to you. ^8-5
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-6]]
 
 Not seeing them, you’ll feel no joy.
 Your mind won’t rest in equipoise.
 Even seeing them won’t be enough—
 Craving will plague you as before. ^8-6
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-7]]
+
 Being attached to sentient beings
 Obscures completely the true nature
 And wrecks world weariness as well.
 Grief will torment you in the end. ^8-7
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-8]]
 
 Because you only think of them,
 Your life will pass by pointlessly.
 Inconstant friends and relatives
 Will ruin even constant dharma. ^8-8
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-9]]
+
 Acting the same as childish folk,
 You’ll surely go to the lower realms.
 They lead you to unsuitable states—
 What good’s the company of fools? ^8-9
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-10]]
 
 One moment, friends, but in the next
 They’re enemies. They are incensed
 By what should please them. It is hard
 To gratify ordinary beings. ^8-10
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-11]]
+
 Angered by talk of what is helpful,
 They turn me away from my own welfare.
 If I don’t listen to their words,
 They’ll go to lower realms, enraged. ^8-11
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-12]]
 
 They’re jealous of superiors;
 Competitive with their own equals.
@@ -3488,190 +3662,266 @@ And arrogant when they are praised.
 When you reproach them, they get angry.
 When is there benefit from the childish? ^8-12
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-13]]
+
 When you keep company with the childish,
 You praise yourself, belittle others,
 Talk of samsara and such with them—
 Nonvirtue inevitably occurs. ^8-13
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-14]]
 
 In this way, my associating
 With them will only bring me ruin.
 They will not bring me benefit,
 And I won’t benefit them either. ^8-14
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-15]]
+
 Flee far away from childish folk.
 Be friendly when you do meet them,
 And without getting too familiar,
 Dispassionately behave well. ^8-15
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-16]]
 
 Just like a bee with flower nectar,
 I’ll only take for dharma’s sake
 And live unacquainted with anyone,
 As though I’d never seen them before. ^8-16
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-17]]
+
 “I get a lot and am respected;
 Many people are fond of me.”
 If you cling to conceits like these,
 You will face terrors after death. ^8-17
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-18]]
 
 The passions of a deluded mind,
 Whatever it may be they are for,
 Are multiplied a thousand times
 To then rise up as suffering. ^8-18
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-19]]
+
 Therefore the wise do not desire.
 It’s from desires that fear arises.
 They’ll be discarded naturally,
 So understand this and be steadfast. ^8-19
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-20]]
 
 Even if you gain many things
 And become popular and renowned,
 It is uncertain where you’ll go
 Along with all those goods and fame. ^8-20
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-21]]
+
 When someone else disparages me,
 What joy is there for me in praise?
 When someone else is lauding me,
 Why be displeased when I am slandered? ^8-21
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-22]]
 
 If even buddhas cannot please
 Beings with various inclinations,
 What need to speak of a wretch like me?
 Thus I will give up worldly thoughts. ^8-22
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-23]]
+
 They revile people who get nothing
 And speak ill of those who get much.
 What pleasure comes from those whose nature
 Is to be hard to get along with? ^8-23
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-24]]
 
 As the tathagatas have said,
 No childish being is a friend
 Because unless it suits their purpose,
 The childish are not gratified. ^8-24
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-25]]
+
 In forests, animals and birds
 And trees don’t speak disparagingly.
 When is it I will live together
 With them, whose company is pleasant? ^8-25
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-26]]
 
 When will it be that I can stay
 In caves or in abandoned temples
 Or under trees, not looking back,
 And not attached to anything? ^8-26
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-27]]
+
 When will it be that I can dwell
 In places naturally vast
 That no one owns where I can act
 In freedom and without attachment? ^8-27
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-28]]
 
 When will I keep a plain alms bowl
 And such, and clothes that no one wants?
 When will I live free from all fear
 Even if I don’t protect this body? ^8-28
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-29]]
+
 When will I go to charnel grounds
 To see that other people’s bones
 And my own body are the same
 In being perishable things? ^8-29
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-30]]
 
 This body of my very own
 Will also become just like those
 Whose stench is such that even jackals
 Will not come anywhere close to them. ^8-30
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-31]]
+
 This body is born all alone,
 And if the flesh and bones born with it
 Will fall apart, be strewn about,
 What need to speak of other friends? ^8-31
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-32]]
 
 At birth, it’s born alone; at death,
 It dies alone. If no one else
 Can take a share of the pain, what good
 Are loved ones who make hindrances? ^8-32
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-33]]
+
 In the same way as travelers
 Take lodging when they’re on the road,
 Those on the pathways of existence
 Take lodging in a place of birth. ^8-33
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-34]]
 
 Up to the time when four pallbearers
 Would carry it away from there
 While people mournfully lament,
 Till then I shall go to the forest. ^8-34
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-35]]
+
 With no friends and no grudges either,
 This body’ll stay in solitude.
 Considered as if dead already,
 There’ll be no mourners when it dies. ^8-35
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-36]]
 
 With no one seated at my side
 To cause disturbances and grief,
 There’s no one to distract me from
 Recalling the buddha and so forth. ^8-36
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-37]]
+
 Thus I’ll remain in solitude,
 In the delightful atmosphere
 Of joyful forests with few hardships,
 Where all distractions are quieted. ^8-37
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-38]]
 
 Relinquishing all other thoughts
 And with one-pointed mental focus,
 I’ll strive to settle my mind down
 In equipoise and to subdue it. ^8-38
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-39]]
+
 In this world and the next one too,
 Desires will lead you to your ruin.
 Here they bring killing, bonds, and wounds,
 And in the next, the hells and such. ^8-39
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-40]]
 
 The one for whom you earlier
 Made many requests through go-betweens,
 For whose sake you did not refrain
 From misdeeds or even from disgrace, ^8-40
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-41]]
+
 For whom you put yourself in peril
 And also used up all your wealth,
 The one whose tight embrace would bring
 The highest pleasure is nothing but ^8-41
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-42]]
 
 A skeleton—not anything else.
 What you have lusted for and clung to
 Has no control, is not a self.
 Why don’t you go to nirvana instead? ^8-42
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-43]]
+
 You first took pains to lift her face,
 But she then bashfully looked down.
 Whether you’d seen it before or not,
 It had been shrouded by a veil. ^8-43
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-44]]
 
 The thought of it afflicted you,
 But now her face is visible—
 You see what vultures have revealed,
 And why does it now make you flee? ^8-44
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-45]]
+
 You guarded it so closely from
 The glance of anyone else’s eyes.
 Why don’t you, who are so possessive,
 Protect it when it’s being eaten? ^8-45
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-46]]
 
 You see the pile of flesh that vultures
 And other animals devour.
 Would you give someone else’s food
 Garlands, perfumes, and jewelry? ^8-46
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-47]]
+
 Seeing it as a skeleton,
 You’re frightened, though it does not move.
 Why aren’t you scared when, like a zombie,
 It’s animated by something else? ^8-47
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-50]]
 
 You lusted for it when it was covered,
 So why not when it is uncovered?
 If it will serve no purpose, why
 Would you embrace it when it’s covered? ^8-48
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-48]]
+
 Since both saliva and excrement
 Are made out of the very same food,
 Why of the two do you dislike
 Excrement and yet like saliva? ^8-49
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-49]]
 
 Not even taking pleasure in
 A cotton pillow soft to the touch,
@@ -3683,150 +3933,210 @@ Deluded, lowly, lustful people
 Get angry over it and say
 That it’s unable to make love. ^8-51
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-51]]
+
 If you have no desire for filth,
 Why then embrace another person,
 A cage of bones that’s bound by sinews
 And plastered with the mud of flesh? ^8-52
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-52]]
 
 You have a lot of filth yourself—
 You should be satisfied with that.
 Thirsting for the unclean, you lust
 For yet another sack of filth. ^8-53
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-53]]
+
 Saying “This flesh is what I like,”
 You want to touch and gaze on it.
 Then why don’t you desire the flesh
 That is devoid of conscious nature? ^8-54
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-54]]
 
 The consciousness that you desire
 Cannot be touched or looked upon.
 What can be is not consciousness.
 Why bother with a pointless embrace? ^8-55
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-55]]
+
 Not realizing another’s body
 Is filth by nature is no surprise.
 Not realizing that you yourself
 Are filth itself is most amazing. ^8-56
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-56]]
 
 Why does your mind, addicted to filth,
 Neglect the fresh, young lotus flower
 Blooming beneath the cloudless sunlight
 And love instead a cage of filth? ^8-57
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-57]]
+
 If you have no desire to touch
 A place befouled by excrement,
 Why would you want to touch the body
 Out of which it originates? ^8-58
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-58]]
 
 If filth is not what you desire,
 Then why do you embrace another?
 The field from which they were born was filth,
 As were the seeds, as was what grew them. ^8-59
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-59]]
+
 You do not want the unclean worms
 Born from manure, even though they’re tiny,
 And yet you want what’s born from filth,
 A body of plentiful filth by nature. ^8-60
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-60]]
 
 Not only do you not revile
 Yourself whose nature is unclean,
 You want another bag of feces,
 Voraciously desiring filth. ^8-61
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-61]]
+
 When you put some nice camphor and such
 Or even rice and vegetables
 Inside your mouth and spit it out,
 The ground is dirtied and polluted. ^8-62
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-62]]
 
 If even though it’s evident,
 You doubt that this is so unclean,
 Then look at other, fetid bodies
 Discarded in the charnel grounds. ^8-63
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-63]]
+
 And when the skin is flayed from it,
 You know you will be terrified,
 And yet how is it you are still
 Attracted to the very same thing? ^8-64
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-64]]
 
 The fragrance applied to the body
 Is nothing else but sandalwood.
 Why does the scent of something else
 Allure you, then, to someone else? ^8-65
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-65]]
+
 Is it not best to not be attracted
 To this, which naturally smells foul?
 Why do the worldly, pointlessly craving,
 Perfume it with nice fragrances? ^8-66
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-66]]
 
 If that sweet scent is sandalwood,
 What is it here the body emits?
 Why would you be attracted to someone
 Because of something else’s scent? ^8-67
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-67]]
+
 The body naturally has
 Long hair and nails, stained whitish teeth.
 It reeks, besmeared with grimy muck.
 If naked, it is terrifying. ^8-68
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-68]]
 
 Why do you toil to polish up
 What’s like a sword that injures you?
 Those crazed by efforts of self-delusion
 Have set the entire earth in turmoil. ^8-69
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-69]]
+
 If seeing only skeletons
 In charnel grounds repulses you,
 Can you like charnel towns that teem
 With animated skeletons? ^8-70
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-70]]
 
 That which is in this way unclean
 Cannot be got without a cost—
 Exhaustion from earning for its sake
 And wounds in hells and other realms. ^8-71
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-71]]
+
 Children aren’t able to earn money.
 In youth, how is this happiness?
 You use your life up gathering wealth.
 When old, what good are your desires? ^8-72
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-72]]
 
 Some passionate but humble folk,
 Exhausted by a full day’s work,
 Return home only to lay down
 Their worn-out bodies like a corpse. ^8-73
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-73]]
+
 Others might go abroad and suffer
 From weariness and long hard travel.
 They wish to see their wives and children
 But won’t see them for a whole year. ^8-74
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-74]]
 
 Deluded by want for their own ends,
 They sell themselves to help themselves.
 Not gaining that, they’re driven by
 The winds of others’ futile work. ^8-75
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-75]]
+
 Some sell their bodies and are put
 To work for others, with no freedom.
 The women give birth under trees
 Or in the wild, wherever they can. ^8-76
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-76]]
 
 Saying they want a livelihood,
 Fools who are duped by their desires
 Fear for their lives but go to battle
 Or enter servitude for profit. ^8-77
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-77]]
+
 Some greedy beings get themselves wounded,
 While others are impaled on stakes.
 There are those who are gored by spears,
 And some are even burnt alive. ^8-78
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-78]]
 
 Know the travails of getting, keeping, and losing it
 Make wealth a never-ending source of ill.
 For those whom greed for wealth distracts, there is no chance
 For freedom from the suffering of existence. ^8-79
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-79]]
+
 For the desirous, faults like these
 Are plentiful, but gains are few,
 Just as the oxen pulling a cart
 Get only a few bites of grass. ^8-80
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-80]]
 
 For sake of paltry gains so common
 That even oxen manage them,
@@ -3834,518 +4144,726 @@ These perfect leisures and resources,
 Which are so difficult to get,
 Are crushed by the ordeals of karma. ^8-81
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-81]]
+
 For just a millionth fraction of
 The arduous efforts that they make
 Continually for minor ends—
 Pleasures that definitely perish ^8-82
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-82]]
 
 And cast them to the hells and such—
 They could be buddhas, but the greedy,
 Instead of awakened conduct, have
 Great miseries and no awakening. ^8-83
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-83]]
+
 Considering the sufferings
 Of hell and so forth, there’s no weapon,
 No poison, fire, abyss, or foe
 That can compare to the desires. ^8-84
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-84]]
 
 Thus weary yourself of desires
 And rouse delight for solitude.
 Deep in a peaceful forest free
 Of quarrels and disturbances, ^8-85
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-85]]
+
 On broad flat stones—delightful palaces
 Cooled by the sandalwood of the moon’s rays—
 The fortunate pace, fanned by a woodland breeze,
 Serene and silent, pondering other’s weal. ^8-86
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-86]]
 
 In empty huts, by trees, or else in caves,
 You may remain as long as you desire.
 The pains of getting and keeping left behind,
 You live without a care, dependent on none. ^8-87
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-87]]
+
 To freely act with no desires
 And without ties to anyone—
 Enjoyable comfort of contentment
 Is hard for even a prince to find. ^8-88
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-88]]
 
 Once you’ve reflected on these and other
 Advantages of solitude,
 Then fully pacify your thoughts
 And meditate on bodhichitta. ^8-89
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-89]]
+
 First meditate ardently upon
 The equality of self and other.
 They’re equal in both pain and pleasure,
 So protect everyone like yourself. ^8-90
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-90]]
 
 Although of many different kinds, the hands and so forth
 Are one as a body to protect. Likewise though beings
 Are different and separate in their joys and pains,
 They all are equal, the same as me in wanting comfort. ^8-91
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-91]]
+
 Even though my own suffering
 Does not cause harm to others’ bodies,
 My suffering is unbearable
 Because of ego-clinging. ^8-92
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-92]]
 
 Likewise the sufferings of others
 Have no effect on me, but still
 Their suffering is unbearable
 Because of ego-clinging. ^8-93
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-93]]
+
 I will dispel others’ suffering
 Since it is suffering, like my own.
 I shall bring benefit to others
 Since they are beings, like my body. ^8-94
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-94]]
 
 For when both I and others are
 The same in wanting to be happy
 And they’re no different from me,
 Why only work for my own pleasure? ^8-95
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-95]]
+
 And when both I and others are
 The same in wanting not to suffer
 And they’re no different from me,
 Then why protect myself, not others? ^8-96
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-96]]
 
 If I will not protect them since
 Their suffering does not cause me harm,
 Then future suffering as well
 Does not harm me—why guard against it? ^8-97
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-97]]
+
 It is erroneous to think,
 “It’s me who will experience it,”
 Because it is one being who dies
 And yet another who is born. ^8-98
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-98]]
 
 If they whose suffering it is
 Themselves must guard themselves from it,
 Since the foot’s pain is not the hand’s,
 Why should the one protect the other? ^8-99
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-99]]
+
 “Even though it’s illogical,
 We act from ego-clinging,” you say.
 We must, as much as possible,
 Give up fallacious selves and others. ^8-100
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-100]]
 
 Continua and aggregates,
 Like series, armies, and such, are false.
 The suffering one does not exist,
 So who is it that this belongs to? ^8-101
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-101]]
+
 That suffering has no owner is
 No different for anyone.
 I will dispel it since it’s painful—
 In this, why should I set a limit? ^8-102
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-102]]
 
 There’s no dispute the suffering
 Of everyone must be prevented.
 If mine’s prevented, prevent all.
 Or else, like beings’, not mine either. ^8-103
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-103]]
+
 “Compassion is too painful,” you say,
 “So why arouse it with such effort?”
 But when you think of beings’ torments,
 How is the pain of compassion greater? ^8-104
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-104]]
 
 For if a single suffering
 Eliminates many miseries,
 Those with compassion will induce
 That suffering in themselves and others. ^8-105
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-105]]
+
 Thus even though Supushpachandra
 Knew that the king would cause him harm,
 He did not shy away from pain
 To end the sufferings of many. ^8-106
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-106]]
 
 Those who have trained their own mind streams
 Will enter even the Incessant
 With joy for quelling others’ woes,
 Like swans alighting on lotus ponds. ^8-107
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-107]]
+
 When beings have been liberated,
 Is not the ocean of joy that brings
 Sufficient in and of itself?
 What good is wanting liberation? ^8-108
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-108]]
 
 So though I have done good for others,
 I’m not conceited or amazed.
 Solely enjoying helping others,
 I’ve no hope for a ripened result. ^8-109
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-109]]
+
 Thus just as I protect myself
 From any blame, no matter how slight,
 For others, I will likewise be
 Protective and compassionate. ^8-110
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-110]]
 
 Just as, due to habituation,
 I know the drops of blood and semen
 That came from others as myself,
 Though that has no reality, ^8-111
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-111]]
+
 Why don’t I similarly grasp
 The bodies of other beings as me?
 It also is not difficult
 To see my body as someone else. ^8-112
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-112]]
 
 Knowing that I have faults while others
 Are oceans of good qualities,
 I’ll meditate on giving up
 Self-clinging while adopting others. ^8-113
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-113]]
+
 In the same way as we accept
 That hands and such are body parts,
 Why do we not likewise accept
 The living are a part of the world? ^8-114
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-114]]
 
 The thought this selfless body is me
 Arose due to habituation,
 So why will the idea others
 Are me not come with habituation? ^8-115
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-115]]
+
 So though I have done good for others,
 I’m not conceited or amazed,
 Just as there’s no hope for return
 When I eat my own food myself. ^8-116
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-116]]
 
 Thus just as I protect myself
 From any blame, no matter how slight,
 I’ll cultivate compassionate,
 Protective thoughts for beings. ^8-117
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-117]]
+
 That is why Avalokiteshvara
 From his compassion, blessed his name
 To soothe the fears that wanderers
 Have even of being among people. ^8-118
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-118]]
 
 Do not turn back from difficulty—
 From the power of habituation,
 Though someone’s name did once strike fear,
 Without them, you will feel no joy. ^8-119
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-119]]
+
 All those who wish to swiftly give
 Protection to themselves and others
 Should practice the most excellent secret,
 The exchange of self and other. ^8-120
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-120]]
 
 Due to attachment to our bodies,
 We’re scared by even the smallest fright.
 Who wouldn’t abhor this fearsome body
 As if it were an enemy? ^8-121
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-121]]
+
 From the desire to cure the illness
 Of hunger, thirst, and such, the body
 Will make you kill birds, fish, and deer
 And wait in ambush by the road. ^8-122
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-122]]
 
 And if it makes you kill your parents
 Or steal what’s offered the three jewels
 For sake of gain or else respect
 So you’ll be burned in the Incessant, ^8-123
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-123]]
+
 No one who’s wise would want that body,
 Nor would they shield or venerate it.
 Who would not look at it and see
 An enemy? Who would not scorn it? ^8-124
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-124]]
 
 “If I give this, what will I enjoy?”
 Such selfish thoughts are the way of fiends.
 “If I enjoy this, what can I give?”
 Such altruism is divine dharma. ^8-125
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-125]]
+
 If you harm others for your own sake,
 You’ll be tormented in hell and elsewhere.
 If you are harmed for others’ sake,
 You will gain everything excellent. ^8-126
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-126]]
 
 Those who want high rank for themselves
 Become lowly dolts in lower realms,
 But those who pass it on to others
 Will gain respect in the high realms. ^8-127
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-127]]
+
 If you use others for selfish ends,
 You will experience servitude.
 Using yourself for others’ sake,
 You will experience lordliness. ^8-128
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-128]]
 
 All happiness in the world is born
 Of wishing others happiness.
 All suffering in the world is born
 Of wanting happiness for yourself. ^8-129
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-129]]
+
 What need is there to explain at length?
 The childish act for their own ends;
 The sages act for others’ sake.
 Look at the difference between them. ^8-130
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-130]]
 
 If you do not exchange your pleasures
 For other beings’ miseries,
 You will not achieve buddhahood
 Or have any happiness in samsara. ^8-131
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-131]]
+
 No need to mention the next life.
 In this life, servants who don’t work
 And masters who do not pay wages
 Will also not achieve their aims. ^8-132
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-132]]
 
 Fools throw away the perfect pleasure
 Of gaining seen and unseen joys,
 And, causing others misery,
 They take on terrible suffering. ^8-133
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-133]]
+
 All of the violence in the world
 And all the fear and suffering
 Arise from clinging to a self.
 What does that ogre do for me? ^8-134
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-134]]
 
 Without relinquishing your self,
 You can’t abandon suffering.
 Just as without relinquishing fire,
 You cannot avoid getting burned. ^8-135
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-135]]
+
 Therefore to calm harms to myself
 And pacify others’ suffering,
 I’ll give myself away to others
 And cling to others as myself. ^8-136
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-136]]
 
 Mind, understand with certainty
 That I am owned by other beings.
 Now do not think of anything else
 Than benefiting sentient beings. ^8-137
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-137]]
+
 It is not right to gain selfish ends
 With eyes and such that others own.
 It is not right to treat them badly
 With eyes that are for their benefit. ^8-138
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-138]]
 
 Therefore I will put beings first.
 Anything I see on my body,
 I’ll take away and put to use
 For sake of benefiting others. ^8-139
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-139]]
+
 Make the inferior and so forth
 Yourself and make yourself the other.
 Then meditate without any thought
 On envy, rivalry, and pride. ^8-140
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-140]]
 
 “They are respected; I am not.
 I do not get as much as them.
 They’re praised, while I am ridiculed,
 And they are happy, while I suffer. ^8-141
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-141]]
+
 “I am the one who does the work,
 But they live comfortably indeed.
 They’re known in society as great,
 While it’s said I’ve no qualities. ^8-142
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-142]]
 
 “No qualities? What can I do?
 But I have all the qualities.
 There are some they’re inferior to
 And some I am superior to. ^8-143
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-143]]
+
 “My discipline, views, and so forth are
 Corrupted due to the afflictions.
 I’ve no control, so they should cure me
 As best they can; I’ll take the pain. ^8-144
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-144]]
 
 “But I’m not someone they would heal.
 Why do they treat me with contempt?
 If they’re a person with qualities,
 What use are their qualities to me? ^8-145
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-145]]
+
 “They’ve no compassion for those inside
 The maws of the dread lower realms.
 Conceited with external virtues,
 They want to vie against the wise.” ^8-146
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-146]]
 
 When I see those who are my peers,
 “To make myself superior,
 I’ll get their things and gain respect
 Even if I must fight for it. ^8-147
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-147]]
+
 “No matter what, I’ll make it so
 My qualities are world renowned.
 I’ll make sure no one ever hears
 Of any of their qualities. ^8-148
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-148]]
 
 “Furthermore, I will hide my faults
 So I am honored and they aren’t.
 Now I will easily get goods
 And be respected—they will not. ^8-149
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-149]]
+
 “When they act inappropriately,
 I’ll watch for a long time with glee.
 I will make them a laughingstock
 That all revile among themselves.” ^8-150
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-150]]
 
 “This wretch is trying to rival me,
 It’s said, but can they be my equal
 In learning or intelligence,
 In body, stature, or in wealth? ^8-151
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-151]]
+
 “When they hear of my qualities
 That are well known to everyone,
 Let them experience the rapture
 Of feeling shivers of delight. ^8-152
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-152]]
 
 “Although they might possess some wealth,
 We’ll take it all away by force,
 And if they do some work for us,
 We’ll give them just enough to live. ^8-153
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-153]]
+
 “We will deprive them of happiness
 And always yoke them to our torments.
 This one wrought miseries for us
 Hundreds of times in all samsara.” ^8-154
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-154]]
 
 O mind, you have spent countless aeons
 Wanting to benefit yourself,
 But even with such great ordeals,
 You’ve only created suffering. ^8-155
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-155]]
+
 Therefore you must apply yourself
 Completely to benefiting others.
 Later you’ll see the merits in this—
 The Sage’s words are undeceiving. ^8-156
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-156]]
 
 If you had done these acts before,
 A situation such as this
 That’s not a buddha’s perfect bliss
 Would never have been possible. ^8-157
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-157]]
+
 And therefore, just as you have clung
 To drops of others’ sperm and blood
 As being yourself, likewise you must
 Meditate thus for others too. ^8-158
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-158]]
 
 You should act as a spy for others.
 When you see anything on your body,
 Then take away that very thing
 And use it to benefit other beings. ^8-159
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-159]]
+
 “I’m comfortable; others are not.
 I’m high in stature; others are low,
 And I am helped, while others aren’t.”
 Why aren’t you envious of yourself? ^8-160
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-160]]
 
 Deprive yourself of happiness.
 Take others’ suffering on yourself.
 When you think, “What is this one doing?”
 Examine your own deficiencies. ^8-161
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-161]]
+
 Even the wrongs that others do
 Must be transformed into your own faults.
 Even the minor wrongs you do
 Must be confessed to many people. ^8-162
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-162]]
 
 Proclaim especially others’ fame,
 So that it will outshine your own.
 Employ yourself to all their ends
 As if you were the lowest slave. ^8-163
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-163]]
+
 This one is rife with faults by nature,
 So do not praise their fleeting virtues.
 Do all you can so no one knows
 Anything of their qualities. ^8-164
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-164]]
 
 In brief, for your own selfish sake,
 You have caused injuries to others.
 Now make it so, for beings’ sake,
 That all the harm will fall on you. ^8-165
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-165]]
+
 Don’t let this one be impetuous
 In arrogant and headstrong ways.
 Instead, leave it like a new bride
 Who’s shy and fearful and restrained. ^8-166
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-166]]
 
 “Do that! You must remain like this!
 And you must never act like that!”
 Exert your power over it;
 Punish it if it disobeys. ^8-167
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-167]]
+
 If, mind, you will not act like that
 Even though I have told you to,
 You will indeed be subjugated,
 Since all wrongs are because of you. ^8-168
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-168]]
 
 The bygone days when you were able
 To ruin me were different.
 I see wherever you go now.
 I’ll destroy all your vanity. ^8-169
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-169]]
+
 Give up the idea that you still
 Have purposes of your very own.
 Since I have sold you off to others,
 Offer your strength without despair. ^8-170
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-170]]
 
 If I get careless and do not
 Deliver you to sentient beings,
 It’s certain you’ll deliver me
 Down to the keepers of the hells. ^8-171
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-171]]
+
 I’ve suffered long the many times
 That you have given me away.
 Now I remember my resentment.
 I shall destroy your selfish thoughts. ^8-172
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-172]]
 
 Therefore if you want to be pleased,
 Do not make pleasure for yourself.
 If you want to protect yourself,
 Continuously protect others. ^8-173
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-173]]
+
 The more that I protect this body,
 The more it gets too tender and falls. ^8-174
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-174]]
 
 If the desires of one who’s fallen
 In such a way can’t be fulfilled
 By even this entire earth,
 Who is there that can meet their wants? ^8-175
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-175]]
+
 Insatiable desires produce
 Afflictions and degenerate thoughts.
 Those not dependent on anything
 Have never-ending excellence. ^8-176
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-176]]
 
 So don’t give physical desires
 An opportunity to grow.
 Not clinging to anything as being
 Desirable is the finest thing. ^8-177
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-177]]
+
 In the end, it will end up as ash,
 Unmoving, moved by someone else.
 Why do I grasp at this unclean
 And frightening form as being me? ^8-178
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-178]]
 
 No matter whether it’s live or dead,
 What use have I of this machine?
 If it’s no different from a clod,
 Alas, why not be rid of pride? ^8-179
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-179]]
+
 Because of doting on this body,
 I’ve brought myself pointless miseries.
 What use is getting attached or angry
 For this, which is the same as wood? ^8-180
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-180]]
 
 Thus whether I take care of it,
 Or vultures and the like consume it,
 It feels no attachment or aversion,
 So why am I attached to it? ^8-181
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-181]]
+
 If it is not itself aware
 Of anger when it is disparaged
 And pleasure when it is admired,
 Who am I tiring myself for? ^8-182
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-182]]
 
 If you should say that someone who
 Is fond of this body is my friend,
 Everyone’s fond of their own body,
 So why am I not fond of them? ^8-183
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-183]]
+
 So I’ll give up, without attachment,
 This body for wanderers’ benefit.
 Therefore, though it has many faults,
 I’ll keep it, using it to act. ^8-184
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-184]]
 
 I’ve had enough of childish conduct.
 I’ll follow the footsteps of the wise.
@@ -4356,6 +4874,8 @@ Like the compassionate bodhisattvas,
 I’ll have the proper fortitude.
 If I don’t strive both day and night,
 When will my sufferings reach an end? ^8-186
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-185]]
 
 Thus to dispel the obscurations,
 I’ll turn my mind from the wrong paths,

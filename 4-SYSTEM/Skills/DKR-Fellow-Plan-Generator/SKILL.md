@@ -286,6 +286,22 @@ Every practice must satisfy ALL THREE:
 - Concrete and authentic — verse teaching cited directly, daily commitment stated plainly.
 - Tibetan practice text sealed with a full final particle (ཡིན་ནོ།། or འགྱུར་རོ།།).
 
+#### ⚠️ CRITICAL — Authentic Tibetan only (NOT Dzongkha)
+
+**Every generated Tibetan sentence in Section 5 must be authentic Tibetan. Dzongkha is strictly forbidden.**
+
+Dzongkha and Tibetan share script and vocabulary but diverge in grammar and idiom. The most common contamination patterns to avoid:
+
+| ❌ Dzongkha form | ✓ Tibetan equivalent |
+|---|---|
+| བགྱི་ (as 1st-person verb) | བྱ་ / བྱེད་ / བྱ་རྒྱུ་ / བྱ་བ་ཡིན་ |
+| གནད་དུ་ཕབ་ + བསམ་གཏན་ | ཡིད་གཏད་དེ / སེམས་བཞག་སྟེ / དྲན་པ་གཏད་དེ |
+| ཐུགས་རྗེ་ཆེ། (as general thanks formula in practitioner voice) | write out the actual meaning; use སྙིང་རྗེ་ for compassion |
+| ཕྱི་ལོར་ + ཐོབ་ངེས་མིན་ | ཕྱིར་ཐོབ་དཀའ་བས / ཕྱིས་འབྱོར་དཀའ་བས |
+| ལགས་ / ལགས་སོ། (as sentence-final particle) | ཡིན་ནོ།། / འགྱུར་རོ།། |
+
+If you are uncertain whether a phrase is Dzongkha or Tibetan, restructure using simpler, attested classical Tibetan constructions rather than risk contamination.
+
 **Example (illustrative only — do not reuse):**
 
 ```markdown
@@ -370,7 +386,7 @@ Ordinal word forms for Chapter 10 verses (45–58):
 - [ ] Section 5 — draws from both the day's root text verses **and** Khyentse Rinpoche's teaching (Section 3)
 - [ ] Tibetan spelling and grammar reviewed — check case endings, verb forms, and particles
 - [ ] No ང་ཚོས་ / ང་ཚོ་ anywhere in the document
-- [ ] No Dzongkha-style phrasing
+- [ ] No Dzongkha-style phrasing — **all generated Tibetan sentences in Section 5 must be authentic Tibetan, NOT Dzongkha** (see Section 5 critical note for common contamination patterns)
 - [ ] Classical Tibetan literary register maintained; Śāntideva = རྒྱལ་སྲས་ཆེན་པོ་ཞི་བ་ལྷ།; DKR = རྫོང་སར་མཁྱེན་བརྩེ་རིན་པོ་ཆེ།
 - [ ] Output written to `3-TRANSFORMATIONS/Plans/DKR-Fellow/Day-63-Ch10-V45-58.md`
 - [ ] File presented to user after writing

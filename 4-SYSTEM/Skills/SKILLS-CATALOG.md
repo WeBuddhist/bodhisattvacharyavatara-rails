@@ -211,6 +211,12 @@ Audits the vault for consistency: checks that all linked files exist, frontmatte
 **Outputs:** Target file(s) modified in place with `![[file#^block-id]]` transclusion links inserted; no new files created.
 → [`transclusion/SKILL.md`](transclusion/SKILL.md)
 
+### `Transclusion-rootext-into-commentaries` **[exists]**
+**Purpose:** Transclude root-text verses into a Tibetan commentary and format the blank-line spacing around each transclusion, via a three-stage scripted pipeline: (1) insert `![[root#^N-V]]` before each verse's first full inline quotation in the commentary (variant-tolerant; full stanza preferred over passing citations), (2) remove the blank line between the preceding commentary line and the transclusion, (3) add a blank line before the sa-bcad (ས་བཅད) block that introduces the verse — before the first line of a preceding enumeration when one exists, and nothing when the line above is prose/connector/conclusion.
+**Inputs:** `root` (root/translation path with `^N-V` block IDs), `commentary` (Tibetan commentary path), `link-base` (transclusion link base, e.g. `bo-བློ་ལྡན་ཤེས་རབ།`), optional `chapter`.
+**Outputs:** The commentary file modified in place — only inserted `![[…]]` lines and the blank lines immediately around them; no commentary text changed. Bundles three dry-runnable Python scripts under `scripts/`.
+→ [`Transclusion-rootext-into-commentaries/SKILL.md`](Transclusion-rootext-into-commentaries/SKILL.md)
+
 ### `tibetan-ocr-quality` **[exists]**
 **Purpose:** Calculate perplexity of a Tibetan OCR output file using KenLM and Botok normalization to assess OCR quality.
 **Inputs:** A `.txt` file containing raw Tibetan OCR output; the `BoKenlm-syl-v0.4.arpa` model file.

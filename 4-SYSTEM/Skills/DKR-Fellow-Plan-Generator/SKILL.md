@@ -271,7 +271,7 @@ Every practice must satisfy ALL THREE:
 
 #### Rules for འགྲེལ་བཤད (Explanation)
 
-- Under 40 Tibetan syllables (equivalent brevity in English and Hindi)
+- Under 50 Tibetan syllables (equivalent brevity in English ≤ 50 words, Hindi ≤ 50 words)
 - Explain **how** today's specific practice enacts **this day's** verse teaching and DKR's teaching
 - Reference what the verses actually say and what Khyentse Rinpoche specifically teaches — not generic spiritual statements
 - Open with the relevant category in parentheses
@@ -378,7 +378,7 @@ Ordinal word forms for Chapter 10 verses (45–58):
 - [ ] Section 3 — no generated, paraphrased, or supplemented content; text matches source exactly
 - [ ] Section 5 — exactly 1 practice in trilingual format (ལག་ལེན། + འགྲེལ་བཤད།, each in Tibetan / English / Hindi)
 - [ ] Section 5 — ལག་ལེན: under 20 syllables/words per language; actionable today; category label on འགྲེལ་བཤད only
-- [ ] Section 5 — འགྲེལ་བཤད: under 40 syllables per language; references specific verse content **and** DKR's teaching; opens with category in parentheses
+- [ ] Section 5 — འགྲེལ་བཤད: under 50 syllables/words per language; references specific verse content **and** DKR's teaching; opens with category in parentheses
 - [ ] Section 5 — Tibetan practice text: first person singular (ངས་ / ང་རང་); sealed with final particle (ཡིན་ནོ།། or འགྱུར་རོ།།)
 - [ ] Section 5 — draws from both the day's root text verses **and** Khyentse Rinpoche's teaching (Section 3)
 - [ ] Tibetan spelling and grammar reviewed — check case endings, verb forms, and particles

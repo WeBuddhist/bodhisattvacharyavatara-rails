@@ -4,31 +4,33 @@
 For each root-text verse stanza, find its first FULL inline quotation in the
 commentary and insert  ![[<link-base>#^N-V]]  on the line immediately before it
 (short Obsidian link form). Full stanza is preferred over a partial/illustrative
-quotation; a verse quoted in passing (single line + ཞེས་པ་ནི། closer) is matched
+quotation; a verse quoted in passing (single line + closer) is matched
 only when no fuller quotation exists.
 
-Matching tolerates minor orthographic variants (e.g. བསྒོམ/སྒོམ, དེང/དེ, ཟློག/བཟློག)
-via a character-overlap ratio and anchors on ANY stanza line, so a variant first
-line does not block the match.
+Matching tolerates minor orthographic variants via a character-overlap ratio.
+Also handles commentaries that quote the full stanza on a single bold line
+(**line1 line2 line3 line4**).
 
 Usage:
-  python3 01_transclude_verses.py \
-      --root  1-SOURCES/Translations/<root>.md \
-      --commentary 1-SOURCES/Commentaries/Raw/<comm>.md \
-      --link-base "bo-བློ་ལྡན་ཤེས་རབ།" \
+  python3 01_transclude_verses.py \\
+      --root  1-SOURCES/Translations/<root>.md \\
+      --commentary 1-SOURCES/Commentaries/Raw/<comm>.md \\
+      --link-base "bo-blo-ldan-shes-rab" \\
       [--chapter N | --chapter all] [--apply]
 
 Without --apply it prints a per-verse placement report (dry run). With --apply it
 writes the transclusions into the commentary in place. Re-running is safe: verses
 already transcluded are skipped.
 """
-import re, sys, argparse, unicodedata
+import re, sys, io, argparse, unicodedata
 from difflib import SequenceMatcher
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
 
 def norm(s):
     s = unicodedata.normalize("NFC", s)
     s = re.sub(r'!\[\[.*?\]\]', '', s)
     s = re.sub(r'\^[\w-]+', '', s)
+    s = s.replace('**', '')          # strip Markdown bold markers
     for ch in ['།','༎','་',' ','༅','༄','༈']:
         s = s.replace(ch, '')
     return s.strip()
@@ -44,8 +46,14 @@ def line_match(v, c):
     if len(v) >= 8 and v in c: return True
     return False
 
-CLOSERS = ['ཞེསཔནི','ཅེསཔནི','ཞེསཔ','ཅེསཔ','ཞེསགསུངས','ཞེསབྱབ']
-def is_closer(cn): return any(cn.startswith(c) for c in CLOSERS)
+CLOSERS = ['zes-pa-ni', 'ces-pa-ni']  # not used for Tibetan matching here
+
+def is_closer(cn):
+    # Tibetan closers in normalised (stripped) form
+    closers = ['zespa ni', 'cespani', 'zesgsung']
+    for c in closers:
+        if cn.startswith(c): return True
+    return False
 
 def stanza_score(stanza, comm_norm, start):
     n = len(stanza)
@@ -68,17 +76,42 @@ def build_cand_index(comm_norm):
         idx.setdefault(cn[1:6], []).append(i)
     return idx
 
+def stanza_concat_match(stanza, comm_norm_line):
+    """Return True if the stanza lines concatenated match a single commentary line.
+    Handles commentaries that quote the full stanza on one bold line."""
+    if not stanza or not comm_norm_line: return False
+    cat = ''.join(stanza)
+    if not cat: return False
+    if cat == comm_norm_line: return True
+    r = ratio(cat, comm_norm_line)
+    if r >= 0.78: return True
+    return False
+
 def find_best(stanza, comm_norm, taken, cand_idx):
     cand_starts = set()
+    # Candidate starts from individual stanza lines (multi-line match)
     for p, sl in enumerate(stanza):
         if len(sl) < 5: continue
         for k in (sl[:5], sl[1:6]):
             for ci in cand_idx.get(k, ()):
                 st = ci - p
                 if st >= 0: cand_starts.add(st)
+    # Candidate starts from concatenated stanza (single-line bold match)
+    cat = ''.join(stanza)
+    if len(cat) >= 5:
+        for k in (cat[:5], cat[1:6]):
+            for ci in cand_idx.get(k, ()):
+                cand_starts.add(ci)
     best = None
     for start in cand_starts:
         if start in taken: continue
+        # Try single-line (bold) match first
+        if stanza_concat_match(stanza, comm_norm[start]):
+            matched, reach = len(stanza), 1
+            key = (matched, -start)
+            if best is None or key > best[0]:
+                best = (key, start, reach)
+            continue
         matched, reach = stanza_score(stanza, comm_norm, start)
         need = max(2, (len(stanza) + 1) // 2)
         ok = matched >= need
@@ -117,7 +150,7 @@ def main():
     ap.add_argument('--root', required=True)
     ap.add_argument('--commentary', required=True)
     ap.add_argument('--link-base', required=True,
-                    help='base of the transclusion link, e.g. bo-བློ་ལྡན་ཤེས་རབ།')
+                    help='base of the transclusion link')
     ap.add_argument('--chapter', default='all')
     ap.add_argument('--apply', action='store_true')
     a = ap.parse_args()
@@ -136,7 +169,8 @@ def main():
     insertions = []; unplaced = []; taken = set()
     for vid, (ch, vn, stanza) in verses.items():
         if vid in existing:
-            unplaced.append((vid, 'already-transcluded')); continue
+            unplaced.append((vid, 'already-transcluded'))
+            continue
         idx, span = find_best(stanza, comm_norm, taken, cand_idx)
         if idx is None:
             unplaced.append((vid, 'NO-MATCH (quoted with large variant / split / absent)'))
@@ -148,7 +182,7 @@ def main():
     insertions.sort()
     print("verses=%d  placed=%d  unplaced=%d" % (len(verses), len(insertions), len(unplaced)))
     for li, vid in insertions:
-        print("  ^%-7s -> line %d: %s" % (vid, li + 1, comm_raw[li][:34]))
+        print("  ^%-7s -> line %d" % (vid, li + 1))
     if unplaced:
         print("UNPLACED (resolve by hand if a genuine quotation exists):")
         for vid, why in unplaced:

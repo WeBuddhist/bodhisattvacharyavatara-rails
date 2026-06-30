@@ -9,10 +9,52 @@ Install dependencies:
 """
 
 import json
+import re
 import spacy
 import yake
 from dataclasses import dataclass
 from pathlib import Path
+
+
+# ---------------------------------------------------------------------------
+# Verse parsing (shared with generate_en_translation_idf.py logic)
+# ---------------------------------------------------------------------------
+
+_VERSE_MARKER = re.compile(r"\^([\w][\w\-]*\d+)\s*$")
+
+
+def _strip_frontmatter(text: str) -> str:
+    if text.startswith("---"):
+        end = text.find("\n---", 3)
+        if end != -1:
+            return text[end + 4:]
+    return text
+
+
+def extract_verses(path: Path) -> list[dict]:
+    """Parse a translation markdown into [{verse_id, text}, ...], skipping transclusion lines.
+    Accumulates multi-line verses so the full verse text is captured."""
+    text    = _strip_frontmatter(path.read_text(encoding="utf-8"))
+    verses  = []
+    pending: list[str] = []
+    for line in text.splitlines():
+        line = line.strip()
+        if not line or line.startswith("![["):
+            continue
+        m = _VERSE_MARKER.search(line)
+        if m:
+            last = re.sub(r"^#+\s*", "", line[: m.start()].strip()).strip()
+            if last:
+                pending.append(last)
+            verse_text = " ".join(pending).strip()
+            if verse_text:
+                verses.append({"verse_id": m.group(1), "text": verse_text})
+            pending = []
+        else:
+            clean = re.sub(r"^#+\s*", "", line).strip()
+            if clean:
+                pending.append(clean)
+    return verses
 
 
 # Custom stop words specific to Pali translation style
@@ -165,6 +207,76 @@ class KeywordExtractor:
         Path(path).write_text("\n".join(lines), encoding="utf-8")
         print(f"Saved {len(keywords)} keywords to {path}")
 
+    def save_verse_keywords_json(
+        self,
+        keywords: list["Keyword"],
+        source_path: Path,
+        out_path: str,
+    ) -> None:
+        """
+        Write a verse-centric JSON mapping each verse_id to its text and
+        the keywords found within it::
+
+            {
+              "6-22": {
+                "text": "We don't get angry at bile...",
+                "keywords": [
+                  {"key": "angry", "rank": 1, "score": 0.001234, "count": 2},
+                  ...
+                ]
+              },
+              ...
+            }
+
+        Matching strategy: case-insensitive substring search (handles
+        unigrams, bigrams, trigrams naturally).
+        Keywords within each verse are sorted by YAKE score ascending
+        (most important first). rank = position in global keyword list
+        sorted by score (1 = most important).
+        """
+        verses            = extract_verses(source_path)
+        sorted_kw         = sorted(keywords, key=lambda k: k.score)
+        verse_texts_lower = [v["text"].lower() for v in verses]
+
+        # Build verse → matched keywords
+        result: dict = {}
+        for rank, kw in enumerate(sorted_kw, 1):
+            raw_lower = kw.raw.lower()
+            for i, lt in enumerate(verse_texts_lower):
+                if raw_lower not in lt:
+                    continue
+                vid = verses[i]["verse_id"]
+                if vid not in result:
+                    result[vid] = {"text": verses[i]["text"], "keywords": []}
+                # count occurrences of the phrase in the verse
+                count = lt.count(raw_lower)
+                result[vid]["keywords"].append({
+                    "key":   kw.normalized,
+                    "rank":  rank,
+                    "score": round(kw.score, 6),
+                    "count": count,
+                })
+
+        # sort keywords within each verse by score ascending
+        for v in result.values():
+            v["keywords"].sort(key=lambda k: k["score"])
+
+        # natural sort on verse IDs
+        def _verse_key(vid: str):
+            parts = re.split(r"[-]", vid)
+            try:
+                return [int(p) for p in parts]
+            except ValueError:
+                return [0]
+
+        ordered = dict(sorted(result.items(), key=lambda kv: _verse_key(kv[0])))
+
+        Path(out_path).write_text(
+            json.dumps(ordered, ensure_ascii=False, indent=2), encoding="utf-8"
+        )
+        total = sum(len(v["keywords"]) for v in ordered.values())
+        print(f"Saved {len(ordered)} verses ({total} keyword hits) to {out_path}")
+
     def preview_scores(self, text: str, path: str) -> None:
         """
         Saves ALL YAKE keywords and their scores to a Markdown file,
@@ -221,11 +333,11 @@ class KeywordExtractor:
 # ---------------------------------------------------------------------------
 
 if __name__ == "__main__":
+    import sys
 
     OUTPUT_DIR = Path(__file__).resolve().parent
 
-    #SOURCE_PATH = Path(r"C:\Users\geshe lobzang tseten\repos\abhidhamma-rails\1-SOURCES\Translations\en-1-rhys_davids.md")  # <-- change this to your .md file path
-    SOURCE_PATH = Path(r"C:\Users\geshe lobzang tseten\repos\abhidhamma-rails\1-SOURCES\Translations\en-1-ukyaw_khine.md")
+    SOURCE_PATH = Path(sys.argv[1]) if len(sys.argv) > 1 else Path(r"C:\Users\geshe lobzang tseten\repos\bodhisattvacharyavatara-rails\1-SOURCES\Translations\en-Wallace.md")
     source_stem = SOURCE_PATH.stem
 
     with open(SOURCE_PATH, "r", encoding="utf-8") as f:
@@ -240,5 +352,12 @@ if __name__ == "__main__":
     keywords = extractor.extract(SOURCE)
 
     # Save outputs
-    extractor.save_json(keywords, OUTPUT_DIR /"output"/ f"{source_stem}-raw.json", OUTPUT_DIR / "output" / f"{source_stem}-normalized.json")
-    extractor.save_md(keywords, OUTPUT_DIR/ "output" / f"{source_stem}-keywords.md")
+    extractor.save_json(keywords, OUTPUT_DIR / "output" / f"{source_stem}-raw.json", OUTPUT_DIR / "output" / f"{source_stem}-normalized.json")
+    extractor.save_md(keywords, OUTPUT_DIR / "output" / f"{source_stem}-keywords.md")
+
+    # Save verse-centric keyword index
+    extractor.save_verse_keywords_json(
+        keywords,
+        SOURCE_PATH,
+        OUTPUT_DIR / "output" / f"{source_stem}-keyword_verses_yake.json",
+    )

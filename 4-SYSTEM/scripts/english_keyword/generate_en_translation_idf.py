@@ -595,6 +595,17 @@ def _parse_args() -> argparse.Namespace:
             f"(default: {_DEFAULT_OUTDIR})"
         ),
     )
+    p.add_argument(
+        "--bottom", "-b",
+        metavar="N",
+        type=int,
+        default=None,
+        help=(
+            "Also write a '<stem>_bottom_N.json' report of the N most frequent "
+            "keywords sorted by TF-IDF ascending (lowest distinctiveness first). "
+            "Useful for identifying stopword candidates."
+        ),
+    )
     return p.parse_args()
 
 
@@ -625,7 +636,13 @@ def main() -> None:
     write_combined_json(comp, sources, outdir / (stems_slug + "_termbase.json"))
 
     # ── Keyword → verses JSON ─────────────────────────────────────────────────
-    write_keyword_verses_json(comp, sources, outdir / (stems_slug + "_keyword_verses.json"))
+    kw_data = write_keyword_verses_json(comp, sources, outdir / (stems_slug + "_keyword_verses.json"))
+
+    # ── Bottom-N report (optional) ────────────────────────────────────────────
+    if args.bottom:
+        write_bottom_json(kw_data, args.bottom, outdir / (stems_slug + f"_bottom_{args.bottom}.json"))
+
+    write_verse_keywords_json(kw_data, outdir / (stems_slug + "_verse_keywords.json"))
 
 # ---------------------------------------------------------------------------
 # Verse extraction
@@ -647,6 +664,7 @@ def extract_verses(path: pathlib.Path) -> list[dict]:
     """
     text  = strip_frontmatter(path.read_text(encoding="utf-8"))
     verses: list[dict] = []
+    pending_lines: list[str] = []
     for line in text.splitlines():
         line = line.strip()
         if not line or line.startswith("![["):
@@ -654,12 +672,21 @@ def extract_verses(path: pathlib.Path) -> list[dict]:
         m = _VERSE_MARKER.search(line)
         if m:
             verse_id = m.group(1)
-            # strip the marker itself from the displayed text
-            verse_text = line[: m.start()].strip()
-            # strip leading markdown heading chars
-            verse_text = re.sub(r"^#+\s*", "", verse_text).strip()
+            # last line of verse (may have text before the marker)
+            last_line = line[: m.start()].strip()
+            last_line = re.sub(r"^#+\s*", "", last_line).strip()
+            if last_line:
+                pending_lines.append(last_line)
+            # join all accumulated lines as the full verse text
+            verse_text = " ".join(pending_lines).strip()
             if verse_text:
                 verses.append({"verse_id": verse_id, "text": verse_text})
+            pending_lines = []
+        else:
+            # accumulate lines belonging to the current verse
+            clean = re.sub(r"^#+\s*", "", line).strip()
+            if clean:
+                pending_lines.append(clean)
     return verses
 
 
@@ -679,11 +706,14 @@ def build_inverted_index(
         stem   = src.stem
         inv: dict[str, list[dict]] = {}
         for verse in extract_verses(src):
-            for word in set(tokenize(verse["text"])):
-                if word not in STOPWORDS and len(word) > 2:
-                    inv.setdefault(word, []).append(
-                        {"verse_id": verse["verse_id"], "text": verse["text"]}
-                    )
+            tokens = [w for w in tokenize(verse["text"]) if w not in STOPWORDS and len(w) > 2]
+            word_counts: dict[str, int] = {}
+            for word in tokens:
+                word_counts[word] = word_counts.get(word, 0) + 1
+            for word, cnt in word_counts.items():
+                inv.setdefault(word, []).append(
+                    {"verse_id": verse["verse_id"], "text": verse["text"], "count": cnt}
+                )
         index[stem] = inv
     return index
 
@@ -727,21 +757,185 @@ def write_keyword_verses_json(
     )
 
     result: dict = {}
-    for word in english_words:
+    for rank, word in enumerate(english_words, 1):
         avg_score   = sum(comp[s]["row_map"].get(word, {}).get("score", 0.0) for s in stems) / len(stems)
         occurrences = [
-            {"source": stem, "verse_id": v["verse_id"], "text": v["text"]}
+            {"source": stem, "verse_id": v["verse_id"], "text": v["text"], "count": v.get("count", 1)}
             for stem in stems
             for v in inv_index[stem].get(word, [])
         ]
         if occurrences:
-            result[word] = {"score": round(avg_score, 4), "occurrences": occurrences}
+            total_count = sum(o.get("count", 1) for o in occurrences)
+            result[word] = {
+                "rank":        rank,
+                "score":       round(avg_score, 4),
+                "total_count": total_count,
+                "occurrences": occurrences,
+            }
 
     dest.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
     total_occs = sum(len(v["occurrences"]) for v in result.values())
     print(f"Written  -> {dest}  ({len(result):,} keywords, {total_occs:,} verse occurrences)")
+    return result
+
+
+# ---------------------------------------------------------------------------
+# Bottom-N report: most frequent keywords sorted by TF-IDF ascending
+# ---------------------------------------------------------------------------
+
+def write_bottom_json(
+    keyword_data: dict,
+    n: int,
+    dest: pathlib.Path,
+) -> None:
+    """
+    Write a JSON report of the N most frequent keywords sorted by TF-IDF ascending.
+
+    Output shape::
+
+        [
+          {
+            "bottom_rank": 1,
+            "word": "said",
+            "tfidf_rank": 2891,
+            "score": 1337.83,
+            "total_count": 12,
+            "verses": 12
+          },
+          ...
+        ]
+
+    bottom_rank = position in this list (1 = most frequent among bottom scorers).
+    tfidf_rank  = position in the full TF-IDF-descending list (1 = most distinctive).
+    """
+    pool = sorted(keyword_data.items(), key=lambda kv: -kv[1]["total_count"])[:n]
+    pool.sort(key=lambda kv: kv[1]["score"])
+
+    rows = []
+    for bottom_rank, (word, d) in enumerate(pool, 1):
+        rows.append({
+            "bottom_rank": bottom_rank,
+            "word":        word,
+            "tfidf_rank":  d["rank"],
+            "score":       d["score"],
+            "total_count": d["total_count"],
+            "verses":      len(d["occurrences"]),
+        })
+
+    dest.write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"Written  -> {dest}  ({len(rows):,} bottom keywords)")
+
+
+# ---------------------------------------------------------------------------
+# CLI
+# ---------------------------------------------------------------------------
+
+def _parse_args() -> argparse.Namespace:
+    p = argparse.ArgumentParser(
+        description=(
+            "Compute TF-IDF vocabulary analysis for one or more markdown "
+            "translation files."
+        ),
+    )
+    p.add_argument("--input", "-i", metavar="PATH", nargs="+", default=None,
+                   help=f"Source markdown files. (default: {_DEFAULT_INPUT})")
+    p.add_argument("--outdir", "-o", metavar="DIR", default=None,
+                   help=f"Output directory. (default: {_DEFAULT_OUTDIR})")
+    p.add_argument("--bottom", "-b", metavar="N", type=int, default=None,
+                   help="Write bottom-N report: N most frequent keywords sorted by TF-IDF ascending.")
+    return p.parse_args()
+
+
+# ---------------------------------------------------------------------------
+# Main
+# ---------------------------------------------------------------------------
+
+def main() -> None:
+    args   = _parse_args()
+    outdir = pathlib.Path(args.outdir).resolve() if args.outdir else _DEFAULT_OUTDIR
+    outdir.mkdir(parents=True, exist_ok=True)
+
+    sources = (
+        [pathlib.Path(p).resolve() for p in args.input]
+        if args.input
+        else [_DEFAULT_INPUT]
+    )
+
+    for src in sources:
+        if not src.exists():
+            raise FileNotFoundError(f"Translation not found:\n  {src}")
+
+    comp       = build_comparison(sources)
+    stems_slug = "_vs_".join(src.stem for src in sources) if len(sources) > 1 else sources[0].stem
+
+    write_combined_json(comp, sources, outdir / (stems_slug + "_termbase.json"))
+
+    kw_data = write_keyword_verses_json(comp, sources, outdir / (stems_slug + "_keyword_verses.json"))
+
+    if args.bottom:
+        write_bottom_json(kw_data, args.bottom, outdir / (stems_slug + f"_bottom_{args.bottom}.json"))
+
+    write_verse_keywords_json(kw_data, outdir / (stems_slug + "_verse_keywords.json"))
+
+
+# ---------------------------------------------------------------------------
+# Verse-centric JSON: verse_id → {text, keywords}
+# ---------------------------------------------------------------------------
+
+def write_verse_keywords_json(
+    keyword_data: dict,
+    dest: pathlib.Path,
+) -> None:
+    """
+    Invert keyword_data into a verse-centric structure.
+
+    Output shape::
+
+        {
+          "6-22": {
+            "text": "...",
+            "keywords": [
+              {"key": "beings", "rank": 3, "score": 97141.66, "count": 1},
+              ...
+            ]
+          },
+          ...
+        }
+
+    Keywords within each verse are sorted by TF-IDF rank ascending (most
+    distinctive first).
+    """
+    verses: dict = {}
+
+    for word, d in keyword_data.items():
+        for occ in d["occurrences"]:
+            vid = occ["verse_id"]
+            if vid not in verses:
+                verses[vid] = {"text": occ["text"], "keywords": []}
+            verses[vid]["keywords"].append({
+                "key":         word,
+                "rank":        d["rank"],
+                "score":       d["score"],
+                "count":       occ.get("count", 1),
+            })
+
+    # sort keywords within each verse by rank ascending (most distinctive first)
+    for v in verses.values():
+        v["keywords"].sort(key=lambda k: k["rank"])
+
+    # sort verses by verse_id (natural sort on chapter-verse)
+    def verse_sort_key(vid: str):
+        parts = re.split(r"[-]", vid)
+        try:
+            return [int(p) for p in parts]
+        except ValueError:
+            return [0]
+
+    ordered = dict(sorted(verses.items(), key=lambda kv: verse_sort_key(kv[0])))
+
+    dest.write_text(json.dumps(ordered, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"Written  -> {dest}  ({len(ordered):,} verses)")
 
 
 if __name__ == "__main__":
     main()
-

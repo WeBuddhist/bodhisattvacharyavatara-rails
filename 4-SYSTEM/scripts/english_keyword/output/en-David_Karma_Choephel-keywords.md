@@ -1,0 +1,517 @@
+# Keywords
+
+| Score | Keyword |
+|-------|---------|
+| 0.000028 | text |
+| 0.000208 | sk.md |
+| 0.003296 | mind |
+| 0.005462 | body |
+| 0.005923 | suffer |
+| 0.006626 | tibetan text |
+| 0.008851 | great |
+| 0.012010 | affliction |
+| 0.012500 | misdeed |
+| 0.012769 | harm |
+| 0.012993 | canonical tibetan text |
+| 0.013625 | pleasure |
+| 0.014519 | bodhisattva |
+| 0.015833 | sake |
+| 0.016334 | long |
+| 0.016687 | sentient |
+| 0.016908 | act |
+| 0.016996 | likewise |
+| 0.017052 | good |
+| 0.017427 | bodhichitta |
+| 0.018333 | people |
+| 0.019712 | realm |
+| 0.019734 | quality |
+| 0.020071 | life |
+| 0.020286 | benefit |
+| 0.020326 | bodhisattvas |
+| 0.020331 | buddha |
+| 0.020433 | happiness |
+| 0.021103 | arise |
+| 0.021361 | merit |
+| 0.021913 | pain |
+| 0.023287 | fear |
+| 0.023397 | time |
+| 0.023461 | thing |
+| 0.023587 | hell |
+| 0.023861 | enter |
+| 0.024073 | dharma |
+| 0.026024 | text comparison |
+| 0.026980 | world |
+| 0.028033 | protect |
+| 0.029598 | think |
+| 0.030099 | death |
+| 0.031403 | bear |
+| 0.031951 | gain |
+| 0.031978 | exist |
+| 0.032129 | angry |
+| 0.033003 | joy |
+| 0.034538 | true |
+| 0.035042 | suffering |
+| 0.035375 | nature |
+| 0.036534 | pride |
+| 0.038370 | lower |
+| 0.038772 | bring |
+| 0.039101 | live |
+| 0.039977 | being |
+| 0.041608 | compassion |
+| 0.042090 | delude |
+| 0.043760 | happy |
+| 0.044288 | desire |
+| 0.044396 | thought |
+| 0.044787 | samsara |
+| 0.046510 | god |
+| 0.046728 | wrong |
+| 0.046841 | praise |
+| 0.047143 | filth |
+| 0.047404 | sage |
+| 0.048357 | nirvana |
+| 0.048844 | low realm |
+| 0.048914 | david karma |
+| 0.049287 | space |
+| 0.049467 | power |
+| 0.050124 | virtue |
+| 0.050354 | friend |
+| 0.050896 | patience |
+| 0.050923 | speak |
+| 0.055441 | anger |
+| 0.055649 | karma |
+| 0.055868 | teaching |
+| 0.056136 | word |
+| 0.056223 | stay |
+| 0.056762 | make |
+| 0.057122 | result |
+| 0.058514 | teach |
+| 0.058681 | enemy |
+| 0.059021 | hard |
+| 0.059098 | food |
+| 0.059988 | sublime |
+| 0.061273 | accomplish |
+| 0.061358 | dwell |
+| 0.061826 | delight |
+| 0.062484 | human |
+| 0.062572 | accept |
+| 0.062729 | lord |
+| 0.063232 | condition |
+| 0.063657 | protector |
+| 0.064396 | offer |
+| 0.065643 | great vehicle |
+| 0.066144 | lord death |
+| 0.066796 | hand |
+| 0.067575 | remain |
+| 0.068337 | śāntideva translator |
+| 0.068857 | cultivate |
+| 0.070349 | respect |
+| 0.070469 | wise |
+| 0.071026 | emptiness |
+| 0.071852 | direction |
+| 0.072190 | tree |
+| 0.073128 | incessant |
+| 0.074347 | awareness |
+| 0.074396 | prajna |
+| 0.075054 | transcendent |
+| 0.075420 | feel |
+| 0.075500 | destroy |
+| 0.076055 | free |
+| 0.076168 | enlightenment |
+| 0.076281 | fall |
+| 0.076289 | crave |
+| 0.076696 | aeon |
+| 0.076709 | delusion |
+| 0.076738 | meditate |
+| 0.077174 | hold |
+| 0.077354 | faith |
+| 0.077498 | cease |
+| 0.077584 | end |
+| 0.077621 | past |
+| 0.077837 | achieve |
+| 0.078030 | flesh |
+| 0.078067 | childish |
+| 0.078175 | child |
+| 0.078281 | wealth |
+| 0.079792 | sanskrit |
+| 0.083575 | eye |
+| 0.083696 | offspring |
+| 0.083798 | śāntideva |
+| 0.083798 | david |
+| 0.084079 | return |
+| 0.084173 | victor |
+| 0.084245 | relative |
+| 0.084512 | refuge |
+| 0.084748 | examine |
+| 0.085173 | give |
+| 0.086005 | guard |
+| 0.086082 | know |
+| 0.086161 | illusory |
+| 0.086502 | chapter |
+| 0.086552 | existence |
+| 0.086618 | offering |
+| 0.086646 | sound |
+| 0.086785 | diligence |
+| 0.086837 | conduct |
+| 0.086837 | single |
+| 0.087058 | work |
+| 0.087173 | yama |
+| 0.087196 | worldly |
+| 0.087203 | suchness |
+| 0.087351 | cognition |
+| 0.089944 | sugata |
+| 0.090212 | great compassion |
+| 0.091566 | sutra |
+| 0.092126 | die |
+| 0.092833 | ocean |
+| 0.095233 | higher |
+| 0.095320 | leave |
+| 0.096028 | jewel |
+| 0.096044 | continuously |
+| 0.096423 | dependent |
+| 0.096903 | understand |
+| 0.096965 | moment |
+| 0.097038 | occur |
+| 0.097564 | please |
+| 0.097650 | matter |
+| 0.097682 | infinite |
+| 0.097802 | compassionate |
+| 0.097876 | find |
+| 0.097942 | ruin |
+| 0.098247 | focus |
+| 0.098274 | contact |
+| 0.098300 | form |
+| 0.100671 | effort |
+| 0.106196 | flower |
+| 0.106337 | fault |
+| 0.107468 | block |
+| 0.107672 | dispel |
+| 0.107945 | today |
+| 0.109679 | kill |
+| 0.110242 | hatre |
+| 0.110327 | pointlessly |
+| 0.110377 | experience |
+| 0.110516 | master |
+| 0.110581 | mindfulness |
+| 0.110586 | cloud |
+| 0.110589 | wood |
+| 0.110635 | grasp |
+| 0.110735 | buddhahood |
+| 0.110882 | supreme |
+| 0.110992 | fill |
+| 0.111196 | wretche |
+| 0.111334 | karma lodrö choephel |
+| 0.111371 | sleep |
+| 0.111388 | lose |
+| 0.111435 | thousand |
+| 0.111540 | strength |
+| 0.111661 | want |
+| 0.111668 | unclean |
+| 0.111740 | misery |
+| 0.111740 | earth |
+| 0.111780 | perfect |
+| 0.113058 | long time |
+| 0.113352 | tathagata |
+| 0.113665 | alas |
+| 0.113811 | inside |
+| 0.114417 | illusion |
+| 0.118346 | long life |
+| 0.119052 | realize |
+| 0.119126 | recall |
+| 0.120372 | true dharma |
+| 0.120933 | delude mind |
+| 0.120988 | action |
+| 0.121752 | eliminate |
+| 0.122396 | instant |
+| 0.122440 | lord sage |
+| 0.123833 | lodrö choephel |
+| 0.124149 | equal |
+| 0.124299 | ground |
+| 0.124307 | fine |
+| 0.124446 | object |
+| 0.125553 | wanderer |
+| 0.125632 | weapon |
+| 0.125656 | cure |
+| 0.125727 | water |
+| 0.125884 | prostrate |
+| 0.126069 | strive |
+| 0.126551 | danger |
+| 0.127609 | grow |
+| 0.127891 | precept |
+| 0.127898 | heart |
+| 0.128235 | cast |
+| 0.128465 | choephel |
+| 0.128587 | high realm |
+| 0.128643 | rare |
+| 0.128673 | tibetan |
+| 0.128907 | fame |
+| 0.128959 | begin |
+| 0.128973 | manjughosha |
+| 0.129033 | enjoy |
+| 0.129090 | freedom |
+| 0.129175 | attach |
+| 0.129238 | bone |
+| 0.129272 | birth |
+| 0.129334 | lotus |
+| 0.129343 | blood |
+| 0.129491 | difficult |
+| 0.129614 | basis |
+| 0.129731 | permanent |
+| 0.129921 | distress |
+| 0.130307 | weariness |
+| 0.130532 | vehicle |
+| 0.131295 | present |
+| 0.131783 | lodrö |
+| 0.131967 | manjushri |
+| 0.133012 | eat |
+| 0.138371 | karma lodrö |
+| 0.141929 | place |
+| 0.142737 | fire |
+| 0.147442 | part |
+| 0.147460 | day |
+| 0.148596 | medicine |
+| 0.148667 | purpose |
+| 0.151237 | extant sanskrit |
+| 0.151375 | human body |
+| 0.151769 | intent |
+| 0.151836 | dislike |
+| 0.152095 | minor |
+| 0.152272 | wish |
+| 0.152395 | bliss |
+| 0.152409 | ordinary |
+| 0.152419 | terrible |
+| 0.152542 | battle |
+| 0.152636 | lust |
+| 0.152827 | company |
+| 0.152830 | attachment |
+| 0.152845 | grief |
+| 0.152876 | embrace |
+| 0.152880 | naturally |
+| 0.152882 | vulture |
+| 0.152890 | reach |
+| 0.152903 | turn |
+| 0.152908 | bother |
+| 0.152923 | solitude |
+| 0.152932 | sky |
+| 0.153068 | separate |
+| 0.153140 | consciousness |
+| 0.153170 | real |
+| 0.153292 | false |
+| 0.153337 | subtle |
+| 0.153388 | nonexistent |
+| 0.155300 | cause |
+| 0.155403 | heat |
+| 0.155933 | distraction |
+| 0.156452 | light |
+| 0.156515 | bow |
+| 0.156557 | weak |
+| 0.156569 | vanquish |
+| 0.156587 | afflict |
+| 0.156832 | relinquish |
+| 0.157908 | illogical |
+| 0.164627 | carefulness |
+| 0.165221 | inflict |
+| 0.165227 | incessant hell |
+| 0.166805 | sk.md cover |
+| 0.169845 | fool |
+| 0.170318 | samantabhadra |
+| 0.172966 | foe |
+| 0.173904 | immeasurable |
+| 0.175855 | force |
+| 0.179072 | produce |
+| 0.179219 | rain |
+| 0.179322 | create |
+| 0.180048 | fruit |
+| 0.180187 | respectfully |
+| 0.180692 | palm |
+| 0.181259 | path |
+| 0.181635 | atom |
+| 0.181861 | elephant |
+| 0.182257 | discipline |
+| 0.182759 | increase |
+| 0.182851 | patient |
+| 0.182873 | lead |
+| 0.183085 | practice |
+| 0.183152 | sangha |
+| 0.183356 | lack |
+| 0.183636 | rejoice |
+| 0.183681 | ignorant |
+| 0.183723 | hear |
+| 0.183738 | drink |
+| 0.184030 | family |
+| 0.184205 | countless |
+| 0.184866 | greed |
+| 0.185122 | vast |
+| 0.185280 | english |
+| 0.185347 | illness |
+| 0.185350 | livelihood |
+| 0.185418 | thirst |
+| 0.185472 | keeper |
+| 0.185546 | displease |
+| 0.185555 | burn |
+| 0.185567 | seek |
+| 0.185641 | forsake |
+| 0.185650 | henchman |
+| 0.185675 | slave |
+| 0.185694 | honor |
+| 0.185706 | king |
+| 0.185716 | despair |
+| 0.185722 | control |
+| 0.185735 | dread |
+| 0.185810 | cle |
+| 0.185866 | situation |
+| 0.185889 | pass |
+| 0.185901 | strike |
+| 0.185934 | folk |
+| 0.185978 | person |
+| 0.186015 | touch |
+| 0.186058 | cotton |
+| 0.186101 | delightful |
+| 0.186119 | selfish |
+| 0.186235 | prove |
+| 0.186239 | awakening |
+| 0.186244 | pointless |
+| 0.186411 | distinction |
+| 0.188109 | confess misdeed |
+| 0.189313 | indian |
+| 0.189728 | hundred |
+| 0.190620 | illusory mind |
+| 0.192800 | read |
+| 0.193337 | completely |
+| 0.194557 | source |
+| 0.194894 | arouse |
+| 0.194895 | longing |
+| 0.195595 | swiftly |
+| 0.195678 | abandon |
+| 0.195916 | depend |
+| 0.196015 | dedication |
+| 0.196727 | bring misdeed |
+| 0.196766 | impermanent |
+| 0.196866 | analyze |
+| 0.196884 | dispute |
+| 0.202499 | confess |
+| 0.209991 | direct |
+| 0.211126 | continually |
+| 0.211911 | displeasure |
+| 0.215134 | intense |
+| 0.218377 | great misdeed |
+| 0.222247 | wound |
+| 0.224409 | firmly |
+| 0.225750 | torment |
+| 0.226271 | forest |
+| 0.227738 | guardian |
+| 0.227942 | downfall |
+| 0.228454 | scent |
+| 0.229128 | face |
+| 0.229281 | night |
+| 0.229721 | follow |
+| 0.229787 | parent |
+| 0.230663 | precious |
+| 0.231195 | mind arise |
+| 0.231361 | vow |
+| 0.231805 | ill |
+| 0.232107 | aim |
+| 0.232130 | lamp |
+| 0.232157 | boat |
+| 0.232292 | perform |
+| 0.232478 | doubt |
+| 0.232490 | traveler |
+| 0.232562 | comfort |
+| 0.232862 | scripture |
+| 0.233164 | bhikshu |
+| 0.233262 | bodhisattva bring |
+| 0.233793 | fortune |
+| 0.233896 | clean |
+| 0.234263 | limb |
+| 0.234385 | noble |
+| 0.234390 | short |
+| 0.234424 | weal |
+| 0.234645 | being suffer |
+| 0.234729 | essence |
+| 0.234843 | victorious |
+| 0.234870 | fragrant |
+| 0.234879 | hero |
+| 0.234996 | bind |
+| 0.235016 | cut |
+| 0.235233 | throw |
+| 0.235282 | rest |
+| 0.235332 | steadfast |
+| 0.235356 | agony |
+| 0.235403 | slight |
+| 0.235419 | wish fulfil |
+| 0.235430 | entire |
+| 0.235455 | physical |
+| 0.235455 | woman |
+| 0.235483 | hunger |
+| 0.235508 | order |
+| 0.235551 | care |
+| 0.235581 | proud |
+| 0.235653 | chance |
+| 0.235681 | dead |
+| 0.235701 | skin |
+| 0.235763 | revile |
+| 0.235766 | stop |
+| 0.235792 | plentiful |
+| 0.235824 | sandalwood |
+| 0.235828 | charnel |
+| 0.235835 | fearful |
+| 0.235842 | habituation |
+| 0.235844 | lowly |
+| 0.235886 | peace |
+| 0.235897 | excellent |
+| 0.235904 | quickly |
+| 0.235955 | fond |
+| 0.236041 | high |
+| 0.236092 | nonsentient |
+| 0.236161 | apprehend |
+| 0.236162 | early |
+| 0.236236 | hungry |
+| 0.241245 | incense |
+| 0.244786 | commit |
+| 0.247997 | cause harm |
+| 0.248773 | resolve |
+| 0.249210 | till |
+| 0.250408 | strong |
+| 0.251400 | feeling |
+| 0.251451 | bear great |
+| 0.251879 | concentrate |
+| 0.251964 | mountain |
+| 0.252649 | ignore |
+| 0.253343 | aversion |
+| 0.253379 | mind stream |
+| 0.254025 | train |
+| 0.254512 | embrace bodhichitta |
+| 0.255080 | austerity |
+| 0.255812 | deliver |
+| 0.256384 | laziness |
+| 0.256422 | asleep |
+| 0.257235 | talk |
+| 0.257378 | flee |
+| 0.257611 | attract |
+| 0.257770 | excrement |
+| 0.257823 | naked |
+| 0.257998 | fulfill |
+| 0.258112 | protection |
+| 0.258634 | fulfil |
+| 0.258634 | meet |
+| 0.259204 | gather |
+| 0.259627 | wander |
+| 0.259872 | behold |
+| 0.261229 | indian master |
+| 0.261982 | sangha bodhisattva |
+| 0.262848 | abandon suffering |
+| 0.267824 | make people |
+| 0.272034 | bring benefit |
+| 0.275601 | good quality |
+| 0.276265 | buddha bodhisattva |
+| 0.276461 | great misery |
+| 0.279917 | great harm |
+| 0.285093 | suffer arise |
+| 0.286988 | mind run |
+| 0.289533 | transcendent patience |
+| 0.290324 | mind unshakable |
+| 0.291618 | akashagarbha |
+| 0.292119 | mount |
+| 0.296569 | compendium |
+| 0.297379 | bhagavan |
+| 0.297618 | involuntarily |
+| 0.299134 | avalokiteshvara |

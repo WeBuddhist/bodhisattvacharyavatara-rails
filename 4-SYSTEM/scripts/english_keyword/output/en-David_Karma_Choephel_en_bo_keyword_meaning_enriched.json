@@ -1,0 +1,4588 @@
+{
+  "I-3": {
+    "text": "I prostrate to all buddhas and bodhisattvas.",
+    "keywords": [
+      {
+        "key": "buddhas",
+        "rank": 22,
+        "score": 20450.8759,
+        "count": 1,
+        "bo": "སངས་རྒྱས་"
+      },
+      {
+        "key": "bodhisattvas",
+        "rank": 43,
+        "score": 14607.7685,
+        "count": 1,
+        "bo": "བྱང་ཆུབ་སེམས་དཔའ་"
+      },
+      {
+        "key": "prostrate",
+        "rank": 226,
+        "score": 5112.719,
+        "count": 1,
+        "bo": "ཕྱག་འཚལ་ལོ"
+      }
+    ]
+  },
+  "I-0": {
+    "text": "Entering the Way of the Bodhisattva ^0 0. Introduction",
+    "keywords": [
+      {
+        "key": "way",
+        "rank": 35,
+        "score": 16693.2038,
+        "count": 1,
+        "bo": "སྤྱོད་པ་"
+      },
+      {
+        "key": "bodhisattva",
+        "rank": 44,
+        "score": 14607.7685,
+        "count": 1,
+        "bo": "བྱང་ཆུབ་སེམས་དཔའ་"
+      },
+      {
+        "key": "entering",
+        "rank": 162,
+        "score": 6459.1686,
+        "count": 1,
+        "bo": "འཇུག་པ་"
+      },
+      {
+        "key": "introduction",
+        "rank": 2953,
+        "score": 490.1855,
+        "count": 1,
+        "bo": "ཀླད་ཀྱི་དོན་"
+      }
+    ]
+  },
+  "I-2": {
+    "text": "In Tibetan: Byang chub sems dpa’i spyod pa la ’jug pa",
+    "keywords": [
+      {
+        "key": "tibetan",
+        "rank": 600,
+        "score": 2191.1653,
+        "count": 1,
+        "bo": "བོད་སྐད་"
+      },
+      {
+        "key": "sems",
+        "rank": 1574,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "སེམས་"
+      },
+      {
+        "key": "byang",
+        "rank": 1742,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "བྱང་"
+      },
+      {
+        "key": "dpa",
+        "rank": 1908,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "དཔའ་"
+      },
+      {
+        "key": "spyod",
+        "rank": 1944,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "སྤྱོད་"
+      },
+      {
+        "key": "chub",
+        "rank": 2066,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "ཆུབ་"
+      },
+      {
+        "key": "jug",
+        "rank": 2232,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "འཇུག་པ"
+      }
+    ]
+  },
+  "I-1": {
+    "text": "In Sanskrit: Bodhisatvacarya avatāra",
+    "keywords": [
+      {
+        "key": "sanskrit",
+        "rank": 968,
+        "score": 1460.7768,
+        "count": 1,
+        "bo": "རྒྱ་གར་སྐད་དུ"
+      },
+      {
+        "key": "bodhisatvacarya",
+        "rank": 2393,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "བོ་དྷི་སཏྭ་ཙརྱ་"
+      }
+    ]
+  },
+  "1-0": {
+    "text": "1. Explaining the Benefits of Bodhichitta",
+    "keywords": [
+      {
+        "key": "bodhichitta",
+        "rank": 24,
+        "score": 19720.4874,
+        "count": 1,
+        "bo": "བྱང་ཆུབ་སེམས་"
+      },
+      {
+        "key": "benefits",
+        "rank": 511,
+        "score": 2619.5301,
+        "count": 1,
+        "bo": "ཕན་ཡོན་"
+      },
+      {
+        "key": "explaining",
+        "rank": 1240,
+        "score": 1154.3385,
+        "count": 1,
+        "bo": "བཤད་པ"
+      }
+    ]
+  },
+  "1-1": {
+    "text": "I prostrate with respect to the sugatas, Who have the dharmakaya, and their offspring, And also to all worthy of veneration. I’ll teach in brief, according to the scriptures, The way to enter the bodhisattva’s vows.",
+    "keywords": [
+      {
+        "key": "way",
+        "rank": 35,
+        "score": 16693.2038,
+        "count": 1,
+        "bo": "འཇུག་པ་"
+      },
+      {
+        "key": "bodhisattva",
+        "rank": 44,
+        "score": 14607.7685,
+        "count": 1,
+        "bo": "བདེ་གཤེགས་སྲས་"
+      },
+      {
+        "key": "offspring",
+        "rank": 132,
+        "score": 7303.8842,
+        "count": 1,
+        "bo": "སྲས་"
+      },
+      {
+        "key": "respect",
+        "rank": 178,
+        "score": 6052.7534,
+        "count": 1,
+        "bo": "གུས་པར་"
+      },
+      {
+        "key": "sugatas",
+        "rank": 191,
+        "score": 5843.1074,
+        "count": 1,
+        "bo": "བདེ་གཤེགས"
+      },
+      {
+        "key": "prostrate",
+        "rank": 226,
+        "score": 5112.719,
+        "count": 1,
+        "bo": "ཕྱག་འཚལ་"
+      },
+      {
+        "key": "enter",
+        "rank": 388,
+        "score": 3283.628,
+        "count": 1,
+        "bo": "འཇུག་པ་"
+      },
+      {
+        "key": "teach",
+        "rank": 426,
+        "score": 2922.5088,
+        "count": 1,
+        "bo": "བརྗོད་པར་བྱ་"
+      },
+      {
+        "key": "scriptures",
+        "rank": 446,
+        "score": 2921.5537,
+        "count": 1,
+        "bo": "ལུང་"
+      },
+      {
+        "key": "vows",
+        "rank": 514,
+        "score": 2587.8212,
+        "count": 1,
+        "bo": "སྡོམ་"
+      },
+      {
+        "key": "veneration",
+        "rank": 618,
+        "score": 2191.1653,
+        "count": 1,
+        "bo": ""
+      },
+      {
+        "key": "brief",
+        "rank": 664,
+        "score": 2107.8407,
+        "count": 1,
+        "bo": "མདོར་བསྡུས་"
+      },
+      {
+        "key": "according",
+        "rank": 678,
+        "score": 2070.3153,
+        "count": 1,
+        "bo": "བཞིན་"
+      },
+      {
+        "key": "worthy",
+        "rank": 1115,
+        "score": 1399.4928,
+        "count": 1,
+        "bo": "ཕྱག་འོས་"
+      },
+      {
+        "key": "dharmakaya",
+        "rank": 2004,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "ཆོས་ཀྱི་སྐུ་"
+      }
+    ]
+  },
+  "1-2": {
+    "text": "I won’t say anything not said before, Nor have I any skill in poetry. Thus I have not intended this for others— I’ve written it to cultivate my mind.",
+    "keywords": [
+      {
+        "key": "mind",
+        "rank": 5,
+        "score": 58818.3628,
+        "count": 1,
+        "bo": "ཡིད་"
+      },
+      {
+        "key": "others",
+        "rank": 10,
+        "score": 36156.1654,
+        "count": 1,
+        "bo": "གཞན་"
+      },
+      {
+        "key": "won",
+        "rank": 47,
+        "score": 13992.0892,
+        "count": 1,
+        "bo": "བརྗོད་མེད།"
+      },
+      {
+        "key": "say",
+        "rank": 71,
+        "score": 10650.6139,
+        "count": 1,
+        "bo": "བརྗོད་"
+      },
+      {
+        "key": "anything",
+        "rank": 97,
+        "score": 8779.0347,
+        "count": 1,
+        "bo": "མ་བྱུང་བ་ཡང་"
+      },
+      {
+        "key": "cultivate",
+        "rank": 117,
+        "score": 8036.8991,
+        "count": 1,
+        "bo": "བསྒོམ་"
+      },
+      {
+        "key": "said",
+        "rank": 1142,
+        "score": 1337.8337,
+        "count": 1,
+        "bo": "བརྗོད་"
+      },
+      {
+        "key": "written",
+        "rank": 1315,
+        "score": 1004.9357,
+        "count": 1,
+        "bo": "བརྩམས"
+      },
+      {
+        "key": "poetry",
+        "rank": 2375,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "སྡེབ་སྦྱོར་"
+      },
+      {
+        "key": "skill",
+        "rank": 2470,
+        "score": 699.7464,
+        "count": 1,
+        "bo": "མཁས་པ་"
+      },
+      {
+        "key": "intended",
+        "rank": 3023,
+        "score": 453.5833,
+        "count": 1,
+        "bo": "བསམ་པ་"
+      }
+    ]
+  },
+  "1-3": {
+    "text": "Meanwhile, this will increase the power of My faith so that I cultivate the virtues. If someone else whose fortune equals mine Should see it, then it may be meaningful.",
+    "keywords": [
+      {
+        "key": "else",
+        "rank": 15,
+        "score": 27401.9287,
+        "count": 1,
+        "bo": "གཞན་"
+      },
+      {
+        "key": "someone",
+        "rank": 41,
+        "score": 15208.6517,
+        "count": 1,
+        "bo": "གཞན་"
+      },
+      {
+        "key": "see",
+        "rank": 48,
+        "score": 13891.5178,
+        "count": 1,
+        "bo": "མཐོང་"
+      },
+      {
+        "key": "virtues",
+        "rank": 77,
+        "score": 10225.4379,
+        "count": 1,
+        "bo": "དགེ་བ་"
+      },
+      {
+        "key": "cultivate",
+        "rank": 117,
+        "score": 8036.8991,
+        "count": 1,
+        "bo": "བསྒོམ་"
+      },
+      {
+        "key": "faith",
+        "rank": 149,
+        "score": 6688.5504,
+        "count": 1,
+        "bo": "དད་པ"
+      },
+      {
+        "key": "power",
+        "rank": 163,
+        "score": 6428.8158,
+        "count": 1,
+        "bo": "ཤུགས་"
+      },
+      {
+        "key": "mine",
+        "rank": 417,
+        "score": 2968.354,
+        "count": 1,
+        "bo": "བདག་"
+      },
+      {
+        "key": "fortune",
+        "rank": 533,
+        "score": 2432.2002,
+        "count": 1,
+        "bo": "སྐལ་བ་"
+      },
+      {
+        "key": "equals",
+        "rank": 741,
+        "score": 1824.1501,
+        "count": 1,
+        "bo": "མཉམ་པ་"
+      },
+      {
+        "key": "increase",
+        "rank": 1139,
+        "score": 1346.2228,
+        "count": 1,
+        "bo": "འཕེལ་"
+      },
+      {
+        "key": "meanwhile",
+        "rank": 1330,
+        "score": 959.2228,
+        "count": 1,
+        "bo": "རེ་ཞིག་"
+      },
+      {
+        "key": "meaningful",
+        "rank": 2745,
+        "score": 594.1642,
+        "count": 1,
+        "bo": "དོན་ཡོད་"
+      }
+    ]
+  },
+  "1-4": {
+    "text": "I’ve gained what is most difficult to get— The leisures and resources to benefit beings. If I do not accomplish good while here, How will I ever come to them again?",
+    "keywords": [
+      {
+        "key": "beings",
+        "rank": 4,
+        "score": 97141.6603,
+        "count": 1,
+        "bo": "སྐྱེས་བུ་"
+      },
+      {
+        "key": "get",
+        "rank": 34,
+        "score": 16731.9903,
+        "count": 1,
+        "bo": "རྙེད་པར་"
+      },
+      {
+        "key": "benefit",
+        "rank": 59,
+        "score": 11817.0449,
+        "count": 1,
+        "bo": "ཕན་པ"
+      },
+      {
+        "key": "come",
+        "rank": 107,
+        "score": 8586.5271,
+        "count": 1,
+        "bo": "འབྱོར་པར་འགྱུར་"
+      },
+      {
+        "key": "again",
+        "rank": 125,
+        "score": 7716.5682,
+        "count": 1,
+        "bo": "ཕྱིས་"
+      },
+      {
+        "key": "accomplish",
+        "rank": 164,
+        "score": 6352.1493,
+        "count": 1,
+        "bo": ""
+      },
+      {
+        "key": "while",
+        "rank": 204,
+        "score": 5560.2986,
+        "count": 1,
+        "bo": "འདི་ལ་"
+      },
+      {
+        "key": "ever",
+        "rank": 206,
+        "score": 5506.4593,
+        "count": 1,
+        "bo": "ག་ལ་"
+      },
+      {
+        "key": "most",
+        "rank": 246,
+        "score": 4660.7456,
+        "count": 1,
+        "bo": "ཤིན་ཏུ་"
+      },
+      {
+        "key": "difficult",
+        "rank": 474,
+        "score": 2860.9373,
+        "count": 1,
+        "bo": "དཀའ་"
+      },
+      {
+        "key": "gained",
+        "rank": 525,
+        "score": 2493.7597,
+        "count": 1,
+        "bo": "ཐོབ་པར་གྱུར་པ་"
+      },
+      {
+        "key": "leisures",
+        "rank": 613,
+        "score": 2191.1653,
+        "count": 1,
+        "bo": "དལ་བ།"
+      },
+      {
+        "key": "resources",
+        "rank": 1277,
+        "score": 1083.2685,
+        "count": 1,
+        "bo": "འབྱོར་པ་"
+      }
+    ]
+  },
+  "1-5": {
+    "text": "Just as between the clouds on pitch-black nights, Lightning reveals the heavens for an instant, Thoughts of the merits of the world arise For a rare moment through the buddhas’ power.",
+    "keywords": [
+      {
+        "key": "buddhas",
+        "rank": 22,
+        "score": 20450.8759,
+        "count": 1,
+        "bo": "སངས་རྒྱས་"
+      },
+      {
+        "key": "arise",
+        "rank": 33,
+        "score": 16945.9025,
+        "count": 1,
+        "bo": "འབྱུང་"
+      },
+      {
+        "key": "thoughts",
+        "rank": 75,
+        "score": 10228.7807,
+        "count": 1,
+        "bo": "བློ་གྲོས་"
+      },
+      {
+        "key": "world",
+        "rank": 142,
+        "score": 7133.7871,
+        "count": 1,
+        "bo": "འཇིག་རྟེན་"
+      },
+      {
+        "key": "power",
+        "rank": 163,
+        "score": 6428.8158,
+        "count": 1,
+        "bo": "མཐུ་"
+      },
+      {
+        "key": "instant",
+        "rank": 234,
+        "score": 4898.2247,
+        "count": 1,
+        "bo": "སྐད་ཅིག་"
+      },
+      {
+        "key": "clouds",
+        "rank": 240,
+        "score": 4744.8527,
+        "count": 1,
+        "bo": "སྤྲིན་"
+      },
+      {
+        "key": "moment",
+        "rank": 286,
+        "score": 4279.4424,
+        "count": 1,
+        "bo": "ཐང་འགའ་"
+      },
+      {
+        "key": "rare",
+        "rank": 353,
+        "score": 3648.3002,
+        "count": 1,
+        "bo": "བརྒྱ་ལམ་ན"
+      },
+      {
+        "key": "merits",
+        "rank": 402,
+        "score": 3125.2251,
+        "count": 1,
+        "bo": "བསོད་ནམས་"
+      },
+      {
+        "key": "nights",
+        "rank": 1440,
+        "score": 730.6272,
+        "count": 1,
+        "bo": "མཚན་མོ་"
+      },
+      {
+        "key": "heavens",
+        "rank": 1728,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "གནམ་མཁའ།"
+      },
+      {
+        "key": "pitch-black",
+        "rank": 1853,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "མུན་ནག་"
+      },
+      {
+        "key": "reveals",
+        "rank": 2532,
+        "score": 677.8361,
+        "count": 1,
+        "bo": "སྟོན་པ"
+      },
+      {
+        "key": "lightning",
+        "rank": 2651,
+        "score": 635.2149,
+        "count": 1,
+        "bo": "གློག་འགྱུ་"
+      }
+    ]
+  },
+  "1-6": {
+    "text": "Thus virtues are perpetually weak; The powers of misdeeds are terribly dreadful. Besides the wish for perfect enlightenment, What other virtue triumphs over them?",
+    "keywords": [
+      {
+        "key": "misdeeds",
+        "rank": 16,
+        "score": 26293.9832,
+        "count": 1,
+        "bo": "སྡིག་པ"
+      },
+      {
+        "key": "wish",
+        "rank": 27,
+        "score": 18948.059,
+        "count": 1,
+        "bo": "སེམས་"
+      },
+      {
+        "key": "virtues",
+        "rank": 77,
+        "score": 10225.4379,
+        "count": 1,
+        "bo": "དགེ་བ་"
+      },
+      {
+        "key": "virtue",
+        "rank": 87,
+        "score": 9498.1535,
+        "count": 1,
+        "bo": "དགེ་བ་"
+      },
+      {
+        "key": "enlightenment",
+        "rank": 135,
+        "score": 7303.8842,
+        "count": 1,
+        "bo": "བྱང་ཆུབ་"
+      },
+      {
+        "key": "perfect",
+        "rank": 202,
+        "score": 5597.9711,
+        "count": 1,
+        "bo": "རྫོགས་པའི་"
+      },
+      {
+        "key": "weak",
+        "rank": 557,
+        "score": 2203.5312,
+        "count": 1,
+        "bo": "ཉམ་ཆུང་"
+      },
+      {
+        "key": "dreadful",
+        "rank": 576,
+        "score": 2191.1653,
+        "count": 1,
+        "bo": "མི་བཟད་པ"
+      },
+      {
+        "key": "perpetually",
+        "rank": 891,
+        "score": 1460.7768,
+        "count": 1,
+        "bo": "རྒྱུན་མི་ཆད་པར།"
+      },
+      {
+        "key": "terribly",
+        "rank": 1088,
+        "score": 1399.4928,
+        "count": 1,
+        "bo": "ཤིན་ཏུ་"
+      },
+      {
+        "key": "powers",
+        "rank": 1301,
+        "score": 1029.6911,
+        "count": 1,
+        "bo": "སྟོབས་"
+      },
+      {
+        "key": "triumphs",
+        "rank": 1866,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "ཟིལ་གྱིས་གནོན་པར་འགྱུར"
+      },
+      {
+        "key": "besides",
+        "rank": 2800,
+        "score": 572.2539,
+        "count": 1,
+        "bo": "མིན་པ"
+      }
+    ]
+  },
+  "1-7": {
+    "text": "The lords of sages, who have contemplated For many aeons, see just this will help. Immeasurable multitudes of beings Through this will gain the sublime bliss with ease.",
+    "keywords": [
+      {
+        "key": "beings",
+        "rank": 4,
+        "score": 97141.6603,
+        "count": 1,
+        "bo": "སྐྱེ་བོ"
+      },
+      {
+        "key": "see",
+        "rank": 48,
+        "score": 13891.5178,
+        "count": 1,
+        "bo": "གཟིགས་"
+      },
+      {
+        "key": "many",
+        "rank": 58,
+        "score": 11927.4745,
+        "count": 1,
+        "bo": "དུ་མར་"
+      },
+      {
+        "key": "sublime",
+        "rank": 100,
+        "score": 8764.6611,
+        "count": 1,
+        "bo": "མཆོག་"
+      },
+      {
+        "key": "aeons",
+        "rank": 119,
+        "score": 8034.2727,
+        "count": 1,
+        "bo": "བསྐལ་པ་"
+      },
+      {
+        "key": "sages",
+        "rank": 136,
+        "score": 7303.8842,
+        "count": 1,
+        "bo": "ཐུབ་དབང་"
+      },
+      {
+        "key": "gain",
+        "rank": 165,
+        "score": 6342.4062,
+        "count": 1,
+        "bo": "ཐོབ་པར་བྱེད"
+      },
+      {
+        "key": "bliss",
+        "rank": 268,
+        "score": 4382.3305,
+        "count": 1,
+        "bo": "བདེ་མཆོག་"
+      },
+      {
+        "key": "lords",
+        "rank": 292,
+        "score": 4198.4783,
+        "count": 1,
+        "bo": "དབང་"
+      },
+      {
+        "key": "immeasurable",
+        "rank": 472,
+        "score": 2921.5537,
+        "count": 1,
+        "bo": "ཚད་མེད་"
+      },
+      {
+        "key": "ease",
+        "rank": 1140,
+        "score": 1343.3883,
+        "count": 1,
+        "bo": "བདེ་བླག་ཉིད་དུ་"
+      },
+      {
+        "key": "contemplated",
+        "rank": 1177,
+        "score": 1270.4299,
+        "count": 1,
+        "bo": "རབ་དགོངས་མཛད་པ"
+      },
+      {
+        "key": "help",
+        "rank": 1316,
+        "score": 993.6206,
+        "count": 1,
+        "bo": "ཕན་པར་"
+      },
+      {
+        "key": "multitudes",
+        "rank": 2219,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "ཚོགས་"
+      }
+    ]
+  },
+  "1-8": {
+    "text": "No one should ever forsake bodhichitta Who wants to dispel beings’ unhappiness, Vanquish the hundreds of miseries of existence, And partake in the many hundreds of joys.",
+    "keywords": [
+      {
+        "key": "beings",
+        "rank": 4,
+        "score": 97141.6603,
+        "count": 1,
+        "bo": "སེམས་ཅན་"
+      },
+      {
+        "key": "bodhichitta",
+        "rank": 24,
+        "score": 19720.4874,
+        "count": 1,
+        "bo": "བྱང་ཆུབ་སེམས་ཉིད་"
+      },
+      {
+        "key": "many",
+        "rank": 58,
+        "score": 11927.4745,
+        "count": 1,
+        "bo": "མང་"
+      },
+      {
+        "key": "miseries",
+        "rank": 193,
+        "score": 5843.1074,
+        "count": 1,
+        "bo": "སྡུག་བསྔལ་"
+      },
+      {
+        "key": "existence",
+        "rank": 195,
+        "score": 5824.2384,
+        "count": 1,
+        "bo": "སྲིད་པ་"
+      },
+      {
+        "key": "ever",
+        "rank": 206,
+        "score": 5506.4593,
+        "count": 1,
+        "bo": "རྟག་ཏུ་"
+      },
+      {
+        "key": "dispel",
+        "rank": 217,
+        "score": 5114.3903,
+        "count": 1,
+        "bo": "བསལ་བར་"
+      },
+      {
+        "key": "vanquish",
+        "rank": 329,
+        "score": 3651.9421,
+        "count": 1,
+        "bo": "གཞོམ་"
+      },
+      {
+        "key": "forsake",
+        "rank": 345,
+        "score": 3651.9421,
+        "count": 1,
+        "bo": "གཏང་"
+      },
+      {
+        "key": "joys",
+        "rank": 434,
+        "score": 2921.5537,
+        "count": 1,
+        "bo": "བདེ་"
+      },
+      {
+        "key": "wants",
+        "rank": 526,
+        "score": 2490.4798,
+        "count": 1,
+        "bo": "འདོད་པ་"
+      },
+      {
+        "key": "hundreds",
+        "rank": 662,
+        "score": 2107.8407,
+        "count": 2,
+        "bo": "བརྒྱ་ཕྲག་"
+      },
+      {
+        "key": "unhappiness",
+        "rank": 949,
+        "score": 1460.7768,
+        "count": 1,
+        "bo": "མི་བདེ་"
+      },
+      {
+        "key": "partake",
+        "rank": 1004,
+        "score": 1460.7768,
+        "count": 1,
+        "bo": "སྤྱོད་པར་"
+      }
+    ]
+  },
+  "1-9": {
+    "text": "If they rouse bodhichitta, in an instant The wretched, fettered in samsara’s prison, Are named the offspring of the sugatas And revered in the worlds of gods and humans.",
+    "keywords": [
+      {
+        "key": "bodhichitta",
+        "rank": 24,
+        "score": 19720.4874,
+        "count": 1,
+        "bo": "བྱང་ཆུབ་སེམས་"
+      },
+      {
+        "key": "samsara",
+        "rank": 64,
+        "score": 11686.2148,
+        "count": 1,
+        "bo": "འཁོར་བ"
+      },
+      {
+        "key": "offspring",
+        "rank": 132,
+        "score": 7303.8842,
+        "count": 1,
+        "bo": "སྲས་"
+      },
+      {
+        "key": "sugatas",
+        "rank": 191,
+        "score": 5843.1074,
+        "count": 1,
+        "bo": "བདེ་གཤེགས་རྣམས་"
+      },
+      {
+        "key": "wretched",
+        "rank": 224,
+        "score": 5112.719,
+        "count": 1,
+        "bo": "ཉམ་ཐག་"
+      },
+      {
+        "key": "gods",
+        "rank": 227,
+        "score": 5112.719,
+        "count": 1,
+        "bo": "ལྷ་"
+      },
+      {
+        "key": "instant",
+        "rank": 234,
+        "score": 4898.2247,
+        "count": 1,
+        "bo": "སྐད་ཅིག་"
+      },
+      {
+        "key": "worlds",
+        "rank": 366,
+        "score": 3498.7319,
+        "count": 1,
+        "bo": "འཇིག་རྟེན་"
+      },
+      {
+        "key": "rouse",
+        "rank": 579,
+        "score": 2191.1653,
+        "count": 1,
+        "bo": "སྐྱེས་"
+      },
+      {
+        "key": "prison",
+        "rank": 827,
+        "score": 1461.2544,
+        "count": 1,
+        "bo": "བཙོན་ར"
+      },
+      {
+        "key": "humans",
+        "rank": 1138,
+        "score": 1355.6722,
+        "count": 1,
+        "bo": "མི་"
+      },
+      {
+        "key": "fettered",
+        "rank": 2151,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "བསྡམས་པའི་"
+      },
+      {
+        "key": "revered",
+        "rank": 2316,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "ཕྱག་བྱར་འགྱུར"
+      },
+      {
+        "key": "named",
+        "rank": 3046,
+        "score": 437.3944,
+        "count": 1,
+        "bo": "ཞེས་བརྗོད་བྱ་"
+      }
+    ]
+  },
+  "1-10": {
+    "text": "Just like the greatest kind of alchemy, It takes this unclean body and transforms it Into a priceless jewel, a buddha’s body, So firmly grasp ahold of bodhichitta.",
+    "keywords": [
+      {
+        "key": "like",
+        "rank": 7,
+        "score": 43106.3205,
+        "count": 1,
+        "bo": "ལྟ་བུ་"
+      },
+      {
+        "key": "body",
+        "rank": 8,
+        "score": 41011.2959,
+        "count": 2,
+        "bo": "ལུས་"
+      },
+      {
+        "key": "bodhichitta",
+        "rank": 24,
+        "score": 19720.4874,
+        "count": 1,
+        "bo": "བྱང་ཆུབ་སེམས་"
+      },
+      {
+        "key": "buddha",
+        "rank": 67,
+        "score": 10955.8264,
+        "count": 1,
+        "bo": "རྒྱལ་བ"
+      },
+      {
+        "key": "jewel",
+        "rank": 186,
+        "score": 5843.1074,
+        "count": 1,
+        "bo": "རིན་ཆེན་"
+      },
+      {
+        "key": "grasp",
+        "rank": 187,
+        "score": 5843.1074,
+        "count": 1,
+        "bo": "ཟུང་"
+      },
+      {
+        "key": "unclean",
+        "rank": 194,
+        "score": 5843.1074,
+        "count": 1,
+        "bo": "མི་གཙང་"
+      },
+      {
+        "key": "firmly",
+        "rank": 765,
+        "score": 1716.7618,
+        "count": 1,
+        "bo": "རབ་བརྟན་"
+      },
+      {
+        "key": "greatest",
+        "rank": 784,
+        "score": 1654.6291,
+        "count": 1,
+        "bo": "མཆོག་"
+      },
+      {
+        "key": "kind",
+        "rank": 1326,
+        "score": 964.9717,
+        "count": 1,
+        "bo": "རྣམ་པ་"
+      },
+      {
+        "key": "takes",
+        "rank": 1360,
+        "score": 884.8356,
+        "count": 1,
+        "bo": "བླངས་ནས་"
+      },
+      {
+        "key": "ahold",
+        "rank": 1519,
+        "score": 730.6272,
+        "count": 1,
+        "bo": "ཟུང་"
+      },
+      {
+        "key": "priceless",
+        "rank": 1676,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "རིང་ཐང་མེད་པར་"
+      },
+      {
+        "key": "alchemy",
+        "rank": 1843,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "གསེར་འགྱུར་རྩི"
+      },
+      {
+        "key": "transforms",
+        "rank": 2131,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "བསྒྱུར་"
+      }
+    ]
+  },
+  "1-11": {
+    "text": "Examined well by the sole leader of beings With his immeasurable mind, it has great value. So you who wish to leave the places of beings, Firmly grasp hold of precious bodhichitta.",
+    "keywords": [
+      {
+        "key": "beings",
+        "rank": 4,
+        "score": 97141.6603,
+        "count": 2,
+        "bo": "འགྲོ་བ"
+      },
+      {
+        "key": "mind",
+        "rank": 5,
+        "score": 58818.3628,
+        "count": 1,
+        "bo": "བློ་"
+      },
+      {
+        "key": "bodhichitta",
+        "rank": 24,
+        "score": 19720.4874,
+        "count": 1,
+        "bo": "བྱང་ཆུབ་སེམས་"
+      },
+      {
+        "key": "wish",
+        "rank": 27,
+        "score": 18948.059,
+        "count": 1,
+        "bo": "འདོད་པ་"
+      },
+      {
+        "key": "grasp",
+        "rank": 187,
+        "score": 5843.1074,
+        "count": 1,
+        "bo": "ཟུང་"
+      },
+      {
+        "key": "hold",
+        "rank": 298,
+        "score": 4091.3675,
+        "count": 1,
+        "bo": "ཟུང་"
+      },
+      {
+        "key": "leave",
+        "rank": 318,
+        "score": 3723.9269,
+        "count": 1,
+        "bo": "བྲལ་བར་"
+      },
+      {
+        "key": "places",
+        "rank": 369,
+        "score": 3494.543,
+        "count": 1,
+        "bo": "གནས་"
+      },
+      {
+        "key": "examined",
+        "rank": 409,
+        "score": 3040.2502,
+        "count": 1,
+        "bo": "བརྟགས་"
+      },
+      {
+        "key": "immeasurable",
+        "rank": 472,
+        "score": 2921.5537,
+        "count": 1,
+        "bo": "ཚད་མེད་"
+      },
+      {
+        "key": "precious",
+        "rank": 552,
+        "score": 2236.662,
+        "count": 1,
+        "bo": "རིན་ཆེན་"
+      },
+      {
+        "key": "firmly",
+        "rank": 765,
+        "score": 1716.7618,
+        "count": 1,
+        "bo": "བརྟན་པར་"
+      },
+      {
+        "key": "sole",
+        "rank": 1226,
+        "score": 1176.136,
+        "count": 1,
+        "bo": "གཅིག་པུ་"
+      },
+      {
+        "key": "leader",
+        "rank": 1344,
+        "score": 928.6562,
+        "count": 1,
+        "bo": "དེད་དཔོན་"
+      },
+      {
+        "key": "value",
+        "rank": 3123,
+        "score": 325.9657,
+        "count": 1,
+        "bo": "རིན"
+      }
+    ]
+  },
+  "1-12": {
+    "text": "All other virtues, like banana trees, Are spent once they have produced a result. The tree of bodhichitta constantly Bears fruit, thus thriving inexhaustibly.",
+    "keywords": [
+      {
+        "key": "like",
+        "rank": 7,
+        "score": 43106.3205,
+        "count": 1,
+        "bo": "བཞིན་དུ་"
+      },
+      {
+        "key": "bodhichitta",
+        "rank": 24,
+        "score": 19720.4874,
+        "count": 1,
+        "bo": "བྱང་ཆུབ་སེམས"
+      },
+      {
+        "key": "virtues",
+        "rank": 77,
+        "score": 10225.4379,
+        "count": 1,
+        "bo": "དགེ་བ་"
+      },
+      {
+        "key": "trees",
+        "rank": 170,
+        "score": 6294.7931,
+        "count": 1,
+        "bo": "ཤིང་སྡོང་ཚོ།"
+      },
+      {
+        "key": "once",
+        "rank": 173,
+        "score": 6256.2215,
+        "count": 1,
+        "bo": "ནས་"
+      },
+      {
+        "key": "tree",
+        "rank": 283,
+        "score": 4312.5214,
+        "count": 1,
+        "bo": "ལྗོན་ཤིང་"
+      },
+      {
+        "key": "result",
+        "rank": 290,
+        "score": 4235.1178,
+        "count": 1,
+        "bo": "འབྲས་བུ་"
+      },
+      {
+        "key": "fruit",
+        "rank": 485,
+        "score": 2795.8275,
+        "count": 1,
+        "bo": "འབྲས་བུ་"
+      },
+      {
+        "key": "banana",
+        "rank": 565,
+        "score": 2191.8816,
+        "count": 1,
+        "bo": "ཆུ་ཤིང་"
+      },
+      {
+        "key": "bears",
+        "rank": 670,
+        "score": 2099.2391,
+        "count": 1,
+        "bo": "འབྱིན་པ"
+      },
+      {
+        "key": "produced",
+        "rank": 791,
+        "score": 1599.1866,
+        "count": 1,
+        "bo": "བསྐྱེད་"
+      },
+      {
+        "key": "thriving",
+        "rank": 834,
+        "score": 1461.2544,
+        "count": 1,
+        "bo": "འཕེལ་བར་འགྱུར།"
+      },
+      {
+        "key": "constantly",
+        "rank": 1097,
+        "score": 1399.4928,
+        "count": 1,
+        "bo": "རྟག་པར་"
+      },
+      {
+        "key": "spent",
+        "rank": 1324,
+        "score": 980.3709,
+        "count": 1,
+        "bo": "ཟད་པར་འགྱུར་བ།"
+      },
+      {
+        "key": "inexhaustibly",
+        "rank": 2357,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "མི་ཟད་"
+      }
+    ]
+  },
+  "1-13": {
+    "text": "Like those who in great danger, rely on heroes, Why would the careful not rely on that Which liberates them in a single instant, Even if they have done horrendous wrongs?",
+    "keywords": [
+      {
+        "key": "why",
+        "rank": 6,
+        "score": 43623.5482,
+        "count": 1,
+        "bo": "ཅིས་"
+      },
+      {
+        "key": "like",
+        "rank": 7,
+        "score": 43106.3205,
+        "count": 1,
+        "bo": "ལྟར་"
+      },
+      {
+        "key": "wrongs",
+        "rank": 80,
+        "score": 10225.4379,
+        "count": 1,
+        "bo": "སྡིག་པ་"
+      },
+      {
+        "key": "done",
+        "rank": 82,
+        "score": 9969.2878,
+        "count": 1,
+        "bo": "བྱས་"
+      },
+      {
+        "key": "instant",
+        "rank": 234,
+        "score": 4898.2247,
+        "count": 1,
+        "bo": "ཡུད་ཀྱིས་"
+      },
+      {
+        "key": "single",
+        "rank": 248,
+        "score": 4577.0114,
+        "count": 1,
+        "bo": "ཡུད་"
+      },
+      {
+        "key": "danger",
+        "rank": 401,
+        "score": 3146.2688,
+        "count": 1,
+        "bo": "འཇིགས་པ་"
+      },
+      {
+        "key": "heroes",
+        "rank": 447,
+        "score": 2921.5537,
+        "count": 1,
+        "bo": "དཔའ་"
+      },
+      {
+        "key": "careful",
+        "rank": 787,
+        "score": 1624.1193,
+        "count": 1,
+        "bo": "བག་ཅན་"
+      },
+      {
+        "key": "rely",
+        "rank": 1231,
+        "score": 1164.8477,
+        "count": 2,
+        "bo": "བརྟེན་"
+      },
+      {
+        "key": "liberates",
+        "rank": 2006,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "སྒྲོལ་"
+      },
+      {
+        "key": "horrendous",
+        "rank": 2086,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "མི་བཟད་"
+      }
+    ]
+  },
+  "1-14": {
+    "text": "Like the inferno at an age’s end, It burns up great misdeeds in a single instant. The wise protector Maitreya explained Its countless benefits to Sudhana.",
+    "keywords": [
+      {
+        "key": "like",
+        "rank": 7,
+        "score": 43106.3205,
+        "count": 1,
+        "bo": "བཞིན་"
+      },
+      {
+        "key": "misdeeds",
+        "rank": 16,
+        "score": 26293.9832,
+        "count": 1,
+        "bo": "སྡིག་པ་"
+      },
+      {
+        "key": "wise",
+        "rank": 111,
+        "score": 8396.9566,
+        "count": 1,
+        "bo": "བློ་དང་ལྡན་པས་"
+      },
+      {
+        "key": "instant",
+        "rank": 234,
+        "score": 4898.2247,
+        "count": 1,
+        "bo": "སྐད་ཅིག་"
+      },
+      {
+        "key": "single",
+        "rank": 248,
+        "score": 4577.0114,
+        "count": 1,
+        "bo": "གཅིག་"
+      },
+      {
+        "key": "countless",
+        "rank": 331,
+        "score": 3651.9421,
+        "count": 1,
+        "bo": "དཔག་ཏུ་མེད་པ"
+      },
+      {
+        "key": "protector",
+        "rank": 462,
+        "score": 2921.5537,
+        "count": 1,
+        "bo": "མགོན་"
+      },
+      {
+        "key": "end",
+        "rank": 479,
+        "score": 2808.6618,
+        "count": 1,
+        "bo": "མཐའ་"
+      },
+      {
+        "key": "benefits",
+        "rank": 511,
+        "score": 2619.5301,
+        "count": 1,
+        "bo": "ཕན་ཡོན་"
+      },
+      {
+        "key": "burns",
+        "rank": 1188,
+        "score": 1250.09,
+        "count": 1,
+        "bo": "སྲེག་པར་བྱེད"
+      },
+      {
+        "key": "explained",
+        "rank": 1302,
+        "score": 1029.6911,
+        "count": 1,
+        "bo": "བཤད"
+      },
+      {
+        "key": "maitreya",
+        "rank": 1601,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "བྱམས་མགོན"
+      },
+      {
+        "key": "sudhana",
+        "rank": 1682,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "ནོར་བཟང་"
+      },
+      {
+        "key": "inferno",
+        "rank": 1914,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "མེ"
+      },
+      {
+        "key": "age",
+        "rank": 2641,
+        "score": 635.2149,
+        "count": 1,
+        "bo": "དུས་"
+      }
+    ]
+  },
+  "1-15": {
+    "text": "To summarize, it’s understood There are two types of bodhichitta: The mind aspiring for awakening And engagement in awakening.",
+    "keywords": [
+      {
+        "key": "mind",
+        "rank": 5,
+        "score": 58818.3628,
+        "count": 1,
+        "bo": "སེམས་"
+      },
+      {
+        "key": "bodhichitta",
+        "rank": 24,
+        "score": 19720.4874,
+        "count": 1,
+        "bo": "བྱང་ཆུབ་སེམས་"
+      },
+      {
+        "key": "awakening",
+        "rank": 347,
+        "score": 3651.9421,
+        "count": 2,
+        "bo": "བྱང་ཆུབ་"
+      },
+      {
+        "key": "types",
+        "rank": 775,
+        "score": 1689.8502,
+        "count": 1,
+        "bo": "རྣམ་པ་"
+      },
+      {
+        "key": "aspiring",
+        "rank": 945,
+        "score": 1460.7768,
+        "count": 1,
+        "bo": "སྨོན་པ་"
+      },
+      {
+        "key": "summarize",
+        "rank": 2221,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "མདོར་བསྡུས་ན"
+      },
+      {
+        "key": "engagement",
+        "rank": 2428,
+        "score": 699.7464,
+        "count": 1,
+        "bo": "འཇུག་པ་"
+      },
+      {
+        "key": "understood",
+        "rank": 2834,
+        "score": 555.2589,
+        "count": 1,
+        "bo": "ཤེས་བྱ་"
+      }
+    ]
+  },
+  "1-16": {
+    "text": "Just as they know the difference Between the wish to go and going, The wise should understand the contrast Between these two, respectively.",
+    "keywords": [
+      {
+        "key": "wish",
+        "rank": 27,
+        "score": 18948.059,
+        "count": 1,
+        "bo": "འདོད་"
+      },
+      {
+        "key": "wise",
+        "rank": 111,
+        "score": 8396.9566,
+        "count": 1,
+        "bo": "མཁས་པས་"
+      },
+      {
+        "key": "know",
+        "rank": 150,
+        "score": 6675.8922,
+        "count": 1,
+        "bo": "ཤེས་པ"
+      },
+      {
+        "key": "understand",
+        "rank": 251,
+        "score": 4473.324,
+        "count": 1,
+        "bo": "ཤེས་པར་བྱ"
+      },
+      {
+        "key": "going",
+        "rank": 798,
+        "score": 1574.4978,
+        "count": 1,
+        "bo": "འགྲོ་བ།"
+      },
+      {
+        "key": "difference",
+        "rank": 1291,
+        "score": 1048.7563,
+        "count": 1,
+        "bo": "བྱེ་བྲག་"
+      },
+      {
+        "key": "contrast",
+        "rank": 2868,
+        "score": 535.2769,
+        "count": 1,
+        "bo": "བྱེ་བྲག་"
+      },
+      {
+        "key": "respectively",
+        "rank": 3095,
+        "score": 379.5108,
+        "count": 1,
+        "bo": "རིམ་བཞིན་"
+      }
+    ]
+  },
+  "1-17": {
+    "text": "Even in samsara, great results Come from aspiring bodhichitta, Though unlike engaged bodhichitta, The merit is not continuous.",
+    "keywords": [
+      {
+        "key": "bodhichitta",
+        "rank": 24,
+        "score": 19720.4874,
+        "count": 2,
+        "bo": ""
+      },
+      {
+        "key": "merit",
+        "rank": 28,
+        "score": 18421.2329,
+        "count": 1,
+        "bo": "བསོད་ནམས་"
+      },
+      {
+        "key": "samsara",
+        "rank": 64,
+        "score": 11686.2148,
+        "count": 1,
+        "bo": "འཁོར་ཚེ་"
+      },
+      {
+        "key": "come",
+        "rank": 107,
+        "score": 8586.5271,
+        "count": 1,
+        "bo": "འབྱུང་"
+      },
+      {
+        "key": "results",
+        "rank": 373,
+        "score": 3459.4313,
+        "count": 1,
+        "bo": "འབྲས་བུ་"
+      },
+      {
+        "key": "aspiring",
+        "rank": 945,
+        "score": 1460.7768,
+        "count": 1,
+        "bo": "སྨོན་པའི་"
+      },
+      {
+        "key": "unlike",
+        "rank": 1247,
+        "score": 1144.5078,
+        "count": 1,
+        "bo": "མི་འདྲ་བ།"
+      },
+      {
+        "key": "continuous",
+        "rank": 2845,
+        "score": 548.0,
+        "count": 1,
+        "bo": "རྒྱུན་ཆགས་"
+      },
+      {
+        "key": "engaged",
+        "rank": 2887,
+        "score": 526.9602,
+        "count": 1,
+        "bo": "འཇུག་པའི་"
+      }
+    ]
+  },
+  "1-18": {
+    "text": "But from the moment, when for the sake Of freeing beings in infinite realms, You truly take up this intent With irreversible resolve,",
+    "keywords": [
+      {
+        "key": "beings",
+        "rank": 4,
+        "score": 97141.6603,
+        "count": 1,
+        "bo": "སེམས་ཅན་"
+      },
+      {
+        "key": "sake",
+        "rank": 17,
+        "score": 25772.804,
+        "count": 1,
+        "bo": "ཕྱིར"
+      },
+      {
+        "key": "realms",
+        "rank": 20,
+        "score": 21911.6527,
+        "count": 1,
+        "bo": "ཁམས་"
+      },
+      {
+        "key": "take",
+        "rank": 145,
+        "score": 6857.3826,
+        "count": 1,
+        "bo": "བླངས་"
+      },
+      {
+        "key": "infinite",
+        "rank": 166,
+        "score": 6297.7174,
+        "count": 1,
+        "bo": "མཐའ་ཡས་"
+      },
+      {
+        "key": "truly",
+        "rank": 209,
+        "score": 5422.6888,
+        "count": 1,
+        "bo": "ཡང་དག་"
+      },
+      {
+        "key": "moment",
+        "rank": 286,
+        "score": 4279.4424,
+        "count": 1,
+        "bo": "གང་ནས་བཟུང་སྟེ་"
+      },
+      {
+        "key": "intent",
+        "rank": 521,
+        "score": 2520.4561,
+        "count": 1,
+        "bo": "སེམས་"
+      },
+      {
+        "key": "resolve",
+        "rank": 1119,
+        "score": 1389.5484,
+        "count": 1,
+        "bo": "སེམས་"
+      },
+      {
+        "key": "irreversible",
+        "rank": 1501,
+        "score": 730.6272,
+        "count": 1,
+        "bo": "མི་ལྡོག་པ"
+      },
+      {
+        "key": "freeing",
+        "rank": 2616,
+        "score": 646.9553,
+        "count": 1,
+        "bo": "རབ་ཏུ་དགྲོལ་བ"
+      }
+    ]
+  },
+  "1-19": {
+    "text": "From that time on, the many powers Of merit flow forth unremitting In torrents equal to the sky Even when you’re asleep or careless.",
+    "keywords": [
+      {
+        "key": "merit",
+        "rank": 28,
+        "score": 18421.2329,
+        "count": 1,
+        "bo": "བསོད་ནམས་"
+      },
+      {
+        "key": "forth",
+        "rank": 30,
+        "score": 18193.4059,
+        "count": 1,
+        "bo": "མདུན་དུ།"
+      },
+      {
+        "key": "many",
+        "rank": 58,
+        "score": 11927.4745,
+        "count": 1,
+        "bo": "དུ་མ་ཞིག"
+      },
+      {
+        "key": "time",
+        "rank": 123,
+        "score": 7900.8436,
+        "count": 1,
+        "bo": "དེང་"
+      },
+      {
+        "key": "sky",
+        "rank": 261,
+        "score": 4383.7631,
+        "count": 1,
+        "bo": "ནམ་མཁའ་"
+      },
+      {
+        "key": "equal",
+        "rank": 408,
+        "score": 3045.0112,
+        "count": 1,
+        "bo": "མཉམ་པར་"
+      },
+      {
+        "key": "careless",
+        "rank": 573,
+        "score": 2191.1653,
+        "count": 1,
+        "bo": "བག་མེད་"
+      },
+      {
+        "key": "asleep",
+        "rank": 643,
+        "score": 2191.1653,
+        "count": 1,
+        "bo": "གཉིད་ལོག་"
+      },
+      {
+        "key": "powers",
+        "rank": 1301,
+        "score": 1029.6911,
+        "count": 1,
+        "bo": "ཤུགས་"
+      },
+      {
+        "key": "flow",
+        "rank": 1373,
+        "score": 853.6407,
+        "count": 1,
+        "bo": "རབ་ཏུ་འབྱུང་"
+      },
+      {
+        "key": "torrents",
+        "rank": 1738,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "ཆུ་རུད།"
+      },
+      {
+        "key": "unremitting",
+        "rank": 1925,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "རྒྱུན་མི་འཆད་པར་"
+      }
+    ]
+  },
+  "1-20": {
+    "text": "The Tathagata himself explained This and its reasons for the sake Of beings inclined to the Foundation In the Sutra Requested by Subahu.",
+    "keywords": [
+      {
+        "key": "beings",
+        "rank": 4,
+        "score": 97141.6603,
+        "count": 1,
+        "bo": "སེམས་ཅན་"
+      },
+      {
+        "key": "sake",
+        "rank": 17,
+        "score": 25772.804,
+        "count": 1,
+        "bo": "དོན་གྱི་ཕྱིར།"
+      },
+      {
+        "key": "sutra",
+        "rank": 466,
+        "score": 2921.5537,
+        "count": 1,
+        "bo": "ཞུས་པ་"
+      },
+      {
+        "key": "tathagata",
+        "rank": 650,
+        "score": 2191.1653,
+        "count": 1,
+        "bo": "དེ་བཞིན་གཤེགས་པ་"
+      },
+      {
+        "key": "explained",
+        "rank": 1302,
+        "score": 1029.6911,
+        "count": 1,
+        "bo": "གསུངས་"
+      },
+      {
+        "key": "reasons",
+        "rank": 1325,
+        "score": 974.0232,
+        "count": 1,
+        "bo": "འཐད་པ"
+      },
+      {
+        "key": "subahu",
+        "rank": 1988,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "ལག་བཟང་"
+      },
+      {
+        "key": "inclined",
+        "rank": 2677,
+        "score": 616.0745,
+        "count": 1,
+        "bo": "མོས"
+      },
+      {
+        "key": "himself",
+        "rank": 2742,
+        "score": 594.1642,
+        "count": 1,
+        "bo": "ཉིད་"
+      },
+      {
+        "key": "foundation",
+        "rank": 2852,
+        "score": 541.3731,
+        "count": 1,
+        "bo": "དམན་"
+      },
+      {
+        "key": "requested",
+        "rank": 2956,
+        "score": 488.5819,
+        "count": 1,
+        "bo": "ཞུས་པ་"
+      }
+    ]
+  },
+  "1-21": {
+    "text": "If someone who benevolently Intends to merely eliminate Sharp pains in sentient beings’ heads Possesses immeasurable merit,",
+    "keywords": [
+      {
+        "key": "beings",
+        "rank": 4,
+        "score": 97141.6603,
+        "count": 1,
+        "bo": "སེམས་ཅན་"
+      },
+      {
+        "key": "sentient",
+        "rank": 13,
+        "score": 27754.7601,
+        "count": 1,
+        "bo": "སེམས་ཅན་"
+      },
+      {
+        "key": "merit",
+        "rank": 28,
+        "score": 18421.2329,
+        "count": 1,
+        "bo": "བསོད་ནམས་"
+      },
+      {
+        "key": "someone",
+        "rank": 41,
+        "score": 15208.6517,
+        "count": 1,
+        "bo": "དེ་"
+      },
+      {
+        "key": "pains",
+        "rank": 115,
+        "score": 8036.8991,
+        "count": 1,
+        "bo": "ཟུག་རྔུ།"
+      },
+      {
+        "key": "merely",
+        "rank": 381,
+        "score": 3354.993,
+        "count": 1,
+        "bo": "ཙམ་"
+      },
+      {
+        "key": "immeasurable",
+        "rank": 472,
+        "score": 2921.5537,
+        "count": 1,
+        "bo": "དཔག་མེད་"
+      },
+      {
+        "key": "eliminate",
+        "rank": 513,
+        "score": 2609.404,
+        "count": 1,
+        "bo": "བསལ་"
+      },
+      {
+        "key": "heads",
+        "rank": 1285,
+        "score": 1053.9203,
+        "count": 1,
+        "bo": "ཀླད་"
+      },
+      {
+        "key": "sharp",
+        "rank": 1388,
+        "score": 765.2082,
+        "count": 1,
+        "bo": "ཀླད་ནད་"
+      },
+      {
+        "key": "benevolently",
+        "rank": 1736,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "བྱམས་སེམས་ཀྱིས།"
+      },
+      {
+        "key": "possesses",
+        "rank": 1756,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "ལྡན་"
+      },
+      {
+        "key": "intends",
+        "rank": 3044,
+        "score": 438.2089,
+        "count": 1,
+        "bo": "རྩིས་བྱེད་པ།"
+      }
+    ]
+  },
+  "1-22": {
+    "text": "What need to speak of those who wish To rid all sentient beings of Untold distresses and endow Each one with boundless qualities?",
+    "keywords": [
+      {
+        "key": "beings",
+        "rank": 4,
+        "score": 97141.6603,
+        "count": 1,
+        "bo": "སེམས་ཅན་"
+      },
+      {
+        "key": "sentient",
+        "rank": 13,
+        "score": 27754.7601,
+        "count": 1,
+        "bo": "སེམས་ཅན་"
+      },
+      {
+        "key": "qualities",
+        "rank": 25,
+        "score": 19457.6012,
+        "count": 1,
+        "bo": "ཡོན་ཏན་"
+      },
+      {
+        "key": "wish",
+        "rank": 27,
+        "score": 18948.059,
+        "count": 1,
+        "bo": "འདོད་པ་"
+      },
+      {
+        "key": "speak",
+        "rank": 93,
+        "score": 9251.7758,
+        "count": 1,
+        "bo": "སྨོས"
+      },
+      {
+        "key": "need",
+        "rank": 161,
+        "score": 6462.6279,
+        "count": 1,
+        "bo": "དགོས"
+      },
+      {
+        "key": "boundless",
+        "rank": 582,
+        "score": 2191.1653,
+        "count": 1,
+        "bo": "དཔག་མེད་"
+      },
+      {
+        "key": "rid",
+        "rank": 709,
+        "score": 1940.8659,
+        "count": 1,
+        "bo": "བསལ་"
+      },
+      {
+        "key": "untold",
+        "rank": 978,
+        "score": 1460.7768,
+        "count": 1,
+        "bo": "དཔག་ཏུ་མེད་པ་"
+      },
+      {
+        "key": "endow",
+        "rank": 1704,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "བསྒྲུབ་པར་"
+      },
+      {
+        "key": "distresses",
+        "rank": 2270,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "མི་བདེ་བ"
+      }
+    ]
+  },
+  "1-23": {
+    "text": "Who has such altruism as this? Does even a father or a mother? Or do the gods or else the rishis? Do even Brahmas harbor this?",
+    "keywords": [
+      {
+        "key": "else",
+        "rank": 15,
+        "score": 27401.9287,
+        "count": 1,
+        "bo": ""
+      },
+      {
+        "key": "gods",
+        "rank": 227,
+        "score": 5112.719,
+        "count": 1,
+        "bo": "ལྷ་"
+      },
+      {
+        "key": "mother",
+        "rank": 875,
+        "score": 1460.7768,
+        "count": 1,
+        "bo": "མ་"
+      },
+      {
+        "key": "altruism",
+        "rank": 973,
+        "score": 1460.7768,
+        "count": 1,
+        "bo": "ཕན་སེམས་"
+      },
+      {
+        "key": "harbor",
+        "rank": 1229,
+        "score": 1164.8477,
+        "count": 1,
+        "bo": "ཡོད"
+      },
+      {
+        "key": "rishis",
+        "rank": 2233,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "དྲང་སྲོང་"
+      },
+      {
+        "key": "brahmas",
+        "rank": 2285,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "ཚངས་པ་"
+      },
+      {
+        "key": "father",
+        "rank": 2542,
+        "score": 677.8361,
+        "count": 1,
+        "bo": "ཕ་"
+      }
+    ]
+  },
+  "1-24": {
+    "text": "If sentient beings themselves have never Had such a wish as this before Even for their own sake in dreams, How could they have it for another?",
+    "keywords": [
+      {
+        "key": "beings",
+        "rank": 4,
+        "score": 97141.6603,
+        "count": 1,
+        "bo": "སེམས་ཅན་"
+      },
+      {
+        "key": "sentient",
+        "rank": 13,
+        "score": 27754.7601,
+        "count": 1,
+        "bo": "སེམས་ཅན་"
+      },
+      {
+        "key": "sake",
+        "rank": 17,
+        "score": 25772.804,
+        "count": 1,
+        "bo": "དོན་དུ་"
+      },
+      {
+        "key": "wish",
+        "rank": 27,
+        "score": 18948.059,
+        "count": 1,
+        "bo": "སེམས"
+      },
+      {
+        "key": "never",
+        "rank": 50,
+        "score": 13468.981,
+        "count": 1,
+        "bo": "ནམ་ཡང་"
+      },
+      {
+        "key": "themselves",
+        "rank": 72,
+        "score": 10473.7908,
+        "count": 1,
+        "bo": "དེ་དག་ཉིད་"
+      },
+      {
+        "key": "another",
+        "rank": 140,
+        "score": 7146.664,
+        "count": 1,
+        "bo": "གཞན་"
+      },
+      {
+        "key": "dreams",
+        "rank": 988,
+        "score": 1460.7768,
+        "count": 1,
+        "bo": "རྨི་ལམ་"
+      }
+    ]
+  },
+  "1-25": {
+    "text": "The wish to benefit beings that others Have never had for their own sake— This special jewel of mind—is born, A wonder without precedent.",
+    "keywords": [
+      {
+        "key": "beings",
+        "rank": 4,
+        "score": 97141.6603,
+        "count": 1,
+        "bo": "སེམས་ཅན་"
+      },
+      {
+        "key": "mind",
+        "rank": 5,
+        "score": 58818.3628,
+        "count": 1,
+        "bo": "སེམས་"
+      },
+      {
+        "key": "others",
+        "rank": 10,
+        "score": 36156.1654,
+        "count": 1,
+        "bo": "གཞན་དག་"
+      },
+      {
+        "key": "sake",
+        "rank": 17,
+        "score": 25772.804,
+        "count": 1,
+        "bo": "དོན་"
+      },
+      {
+        "key": "wish",
+        "rank": 27,
+        "score": 18948.059,
+        "count": 1,
+        "bo": ""
+      },
+      {
+        "key": "without",
+        "rank": 32,
+        "score": 17261.5823,
+        "count": 1,
+        "bo": "མེད་པའི་"
+      },
+      {
+        "key": "born",
+        "rank": 38,
+        "score": 16073.7982,
+        "count": 1,
+        "bo": "འཁྲུངས"
+      },
+      {
+        "key": "never",
+        "rank": 50,
+        "score": 13468.981,
+        "count": 1,
+        "bo": "མི་འབྱུང་"
+      },
+      {
+        "key": "benefit",
+        "rank": 59,
+        "score": 11817.0449,
+        "count": 1,
+        "bo": "དོན་"
+      },
+      {
+        "key": "jewel",
+        "rank": 186,
+        "score": 5843.1074,
+        "count": 1,
+        "bo": "རིན་ཆེན་"
+      },
+      {
+        "key": "wonder",
+        "rank": 1156,
+        "score": 1321.6823,
+        "count": 1,
+        "bo": "རྨད་"
+      },
+      {
+        "key": "precedent",
+        "rank": 2622,
+        "score": 646.9553,
+        "count": 1,
+        "bo": "སྔ་ན"
+      },
+      {
+        "key": "special",
+        "rank": 3104,
+        "score": 365.6881,
+        "count": 1,
+        "bo": "ཁྱད་པར་"
+      }
+    ]
+  },
+  "1-26": {
+    "text": "The cause of every wanderer’s joy, The cure for beings’ suffering; How could one take the measure of The merit of this precious mind?",
+    "keywords": [
+      {
+        "key": "beings",
+        "rank": 4,
+        "score": 97141.6603,
+        "count": 1,
+        "bo": "སེམས་ཅན་"
+      },
+      {
+        "key": "mind",
+        "rank": 5,
+        "score": 58818.3628,
+        "count": 1,
+        "bo": "སེམས་"
+      },
+      {
+        "key": "suffering",
+        "rank": 9,
+        "score": 39159.5552,
+        "count": 1,
+        "bo": "སྡུག་བསྔལ་"
+      },
+      {
+        "key": "cause",
+        "rank": 21,
+        "score": 20459.3137,
+        "count": 1,
+        "bo": "རྒྱུ་"
+      },
+      {
+        "key": "merit",
+        "rank": 28,
+        "score": 18421.2329,
+        "count": 1,
+        "bo": "བསོད་ནམས་"
+      },
+      {
+        "key": "joy",
+        "rank": 37,
+        "score": 16073.7982,
+        "count": 1,
+        "bo": "དགའ་བ"
+      },
+      {
+        "key": "every",
+        "rank": 57,
+        "score": 12363.6015,
+        "count": 1,
+        "bo": "ཀུན"
+      },
+      {
+        "key": "take",
+        "rank": 145,
+        "score": 6857.3826,
+        "count": 1,
+        "bo": "ལང་"
+      },
+      {
+        "key": "cure",
+        "rank": 252,
+        "score": 4446.5045,
+        "count": 1,
+        "bo": "རྩིར་གྱུར་པ"
+      },
+      {
+        "key": "precious",
+        "rank": 552,
+        "score": 2236.662,
+        "count": 1,
+        "bo": "རིན་ཆེན་"
+      },
+      {
+        "key": "measure",
+        "rank": 1369,
+        "score": 865.3636,
+        "count": 1,
+        "bo": "གཞལ་"
+      },
+      {
+        "key": "wanderer",
+        "rank": 2093,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "འགྲོ་བ"
+      }
+    ]
+  },
+  "1-27": {
+    "text": "If merely intending to benefit Is greater than revering the Buddha, What need to speak of striving for The sake of all beings’ happiness?",
+    "keywords": [
+      {
+        "key": "beings",
+        "rank": 4,
+        "score": 97141.6603,
+        "count": 1,
+        "bo": "སེམས་ཅན་"
+      },
+      {
+        "key": "sake",
+        "rank": 17,
+        "score": 25772.804,
+        "count": 1,
+        "bo": "དོན་"
+      },
+      {
+        "key": "happiness",
+        "rank": 19,
+        "score": 22642.0411,
+        "count": 1,
+        "bo": "བདེ་"
+      },
+      {
+        "key": "benefit",
+        "rank": 59,
+        "score": 11817.0449,
+        "count": 1,
+        "bo": "ཕན་པར་"
+      },
+      {
+        "key": "buddha",
+        "rank": 67,
+        "score": 10955.8264,
+        "count": 1,
+        "bo": "སངས་རྒྱས་"
+      },
+      {
+        "key": "speak",
+        "rank": 93,
+        "score": 9251.7758,
+        "count": 1,
+        "bo": "སྨོས་"
+      },
+      {
+        "key": "need",
+        "rank": 161,
+        "score": 6462.6279,
+        "count": 1,
+        "bo": "དགོས"
+      },
+      {
+        "key": "merely",
+        "rank": 381,
+        "score": 3354.993,
+        "count": 1,
+        "bo": "ཙམ་"
+      },
+      {
+        "key": "greater",
+        "rank": 475,
+        "score": 2857.0604,
+        "count": 1,
+        "bo": "ཁྱད་འཕགས་"
+      },
+      {
+        "key": "striving",
+        "rank": 852,
+        "score": 1461.2544,
+        "count": 1,
+        "bo": "བརྩོན་པ་"
+      },
+      {
+        "key": "revering",
+        "rank": 1598,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "མཆོད་"
+      },
+      {
+        "key": "intending",
+        "rank": 2275,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "བསམས་པ་"
+      }
+    ]
+  },
+  "1-28": {
+    "text": "They wish to cast off suffering But rush toward suffering itself. They wish for happiness, but deluded, Crush their own pleasure like a foe.",
+    "keywords": [
+      {
+        "key": "like",
+        "rank": 7,
+        "score": 43106.3205,
+        "count": 1,
+        "bo": "ལྟར་"
+      },
+      {
+        "key": "suffering",
+        "rank": 9,
+        "score": 39159.5552,
+        "count": 2,
+        "bo": "སྡུག་བསྔལ་"
+      },
+      {
+        "key": "pleasure",
+        "rank": 12,
+        "score": 27763.8332,
+        "count": 1,
+        "bo": "བདེ་བ་"
+      },
+      {
+        "key": "happiness",
+        "rank": 19,
+        "score": 22642.0411,
+        "count": 1,
+        "bo": "བདེ་བ་"
+      },
+      {
+        "key": "wish",
+        "rank": 27,
+        "score": 18948.059,
+        "count": 2,
+        "bo": "འདོད་"
+      },
+      {
+        "key": "deluded",
+        "rank": 90,
+        "score": 9495.0495,
+        "count": 1,
+        "bo": "གཏི་མུག་པས"
+      },
+      {
+        "key": "itself",
+        "rank": 112,
+        "score": 8164.1987,
+        "count": 1,
+        "bo": "ཉིད་"
+      },
+      {
+        "key": "cast",
+        "rank": 294,
+        "score": 4159.1494,
+        "count": 1,
+        "bo": "འདོར་"
+      },
+      {
+        "key": "off",
+        "rank": 319,
+        "score": 3661.1485,
+        "count": 1,
+        "bo": "འདོར་"
+      },
+      {
+        "key": "foe",
+        "rank": 320,
+        "score": 3653.1359,
+        "count": 1,
+        "bo": "དགྲ་"
+      },
+      {
+        "key": "toward",
+        "rank": 501,
+        "score": 2709.6302,
+        "count": 1,
+        "bo": "ལ་"
+      },
+      {
+        "key": "rush",
+        "rank": 1212,
+        "score": 1188.3284,
+        "count": 1,
+        "bo": "མངོན་པར་རྒྱུག"
+      },
+      {
+        "key": "crush",
+        "rank": 2715,
+        "score": 608.05,
+        "count": 1,
+        "bo": "འཇོམས"
+      }
+    ]
+  },
+  "1-29": {
+    "text": "For those deprived of happiness Who suffer many miseries, This satisfies with every pleasure And severs every suffering.",
+    "keywords": [
+      {
+        "key": "suffering",
+        "rank": 9,
+        "score": 39159.5552,
+        "count": 1,
+        "bo": "སྡུག་བསྔལ་"
+      },
+      {
+        "key": "pleasure",
+        "rank": 12,
+        "score": 27763.8332,
+        "count": 1,
+        "bo": "བདེ་བ"
+      },
+      {
+        "key": "happiness",
+        "rank": 19,
+        "score": 22642.0411,
+        "count": 1,
+        "bo": "བདེ་བ"
+      },
+      {
+        "key": "every",
+        "rank": 57,
+        "score": 12363.6015,
+        "count": 2,
+        "bo": "ཐམས་ཅད་"
+      },
+      {
+        "key": "many",
+        "rank": 58,
+        "score": 11927.4745,
+        "count": 1,
+        "bo": "མང་"
+      },
+      {
+        "key": "miseries",
+        "rank": 193,
+        "score": 5843.1074,
+        "count": 1,
+        "bo": "སྡུག་བསྔལ་"
+      },
+      {
+        "key": "suffer",
+        "rank": 242,
+        "score": 4742.6415,
+        "count": 1,
+        "bo": "ལྡན་"
+      },
+      {
+        "key": "deprived",
+        "rank": 668,
+        "score": 2099.2391,
+        "count": 1,
+        "bo": "ཕོངས་པ་"
+      },
+      {
+        "key": "satisfies",
+        "rank": 1107,
+        "score": 1399.4928,
+        "count": 1,
+        "bo": "ཚིམ་པ་"
+      },
+      {
+        "key": "severs",
+        "rank": 1553,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "གཅོད་བྱེད་"
+      }
+    ]
+  },
+  "1-30": {
+    "text": "It also will dispel delusion. How could there be such good as this? How could there be a friend like this? How could there be such merit as this?",
+    "keywords": [
+      {
+        "key": "like",
+        "rank": 7,
+        "score": 43106.3205,
+        "count": 1,
+        "bo": "དེ་འདྲ་"
+      },
+      {
+        "key": "merit",
+        "rank": 28,
+        "score": 18421.2329,
+        "count": 1,
+        "bo": "བསོད་ནམས་"
+      },
+      {
+        "key": "delusion",
+        "rank": 153,
+        "score": 6573.4958,
+        "count": 1,
+        "bo": "གཏི་མུག་"
+      },
+      {
+        "key": "dispel",
+        "rank": 217,
+        "score": 5114.3903,
+        "count": 1,
+        "bo": "སེལ་བྱེད་པ"
+      },
+      {
+        "key": "friend",
+        "rank": 324,
+        "score": 3653.1359,
+        "count": 1,
+        "bo": "བཤེས་"
+      }
+    ]
+  },
+  "1-31": {
+    "text": "If to reciprocate a kind deed Is praiseworthy for a short while, What need to speak of bodhisattvas Who do good unsolicited?",
+    "keywords": [
+      {
+        "key": "bodhisattvas",
+        "rank": 43,
+        "score": 14607.7685,
+        "count": 1,
+        "bo": "བྱང་ཆུབ་སེམས་དཔའ་"
+      },
+      {
+        "key": "speak",
+        "rank": 93,
+        "score": 9251.7758,
+        "count": 1,
+        "bo": "སྨོས་"
+      },
+      {
+        "key": "need",
+        "rank": 161,
+        "score": 6462.6279,
+        "count": 1,
+        "bo": "དགོས"
+      },
+      {
+        "key": "while",
+        "rank": 204,
+        "score": 5560.2986,
+        "count": 1,
+        "bo": "རེ་ཞིག་"
+      },
+      {
+        "key": "short",
+        "rank": 812,
+        "score": 1510.5578,
+        "count": 1,
+        "bo": "རེ་ཞིག་"
+      },
+      {
+        "key": "unsolicited",
+        "rank": 1294,
+        "score": 1043.7616,
+        "count": 1,
+        "bo": "མ་བཅོལ་"
+      },
+      {
+        "key": "kind",
+        "rank": 1326,
+        "score": 964.9717,
+        "count": 1,
+        "bo": "ཕན་བཏགས་"
+      },
+      {
+        "key": "reciprocate",
+        "rank": 1829,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "ལན་ལྡོན་"
+      },
+      {
+        "key": "deed",
+        "rank": 1948,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "ཕན་བཏགས་"
+      },
+      {
+        "key": "praiseworthy",
+        "rank": 2250,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "བསྔགས་འོས་"
+      }
+    ]
+  },
+  "1-32": {
+    "text": "People extol as doing something good Those who provide a few with regular meals, Donating scornfully for a short time Plain food that satisfies for half a day.",
+    "keywords": [
+      {
+        "key": "people",
+        "rank": 65,
+        "score": 11509.6848,
+        "count": 1,
+        "bo": "སྐྱེ་བོ་"
+      },
+      {
+        "key": "something",
+        "rank": 76,
+        "score": 10227.2431,
+        "count": 1,
+        "bo": ""
+      },
+      {
+        "key": "time",
+        "rank": 123,
+        "score": 7900.8436,
+        "count": 1,
+        "bo": "སྐད་ཅིག་"
+      },
+      {
+        "key": "food",
+        "rank": 211,
+        "score": 5378.7883,
+        "count": 1,
+        "bo": "ཟས་"
+      },
+      {
+        "key": "doing",
+        "rank": 386,
+        "score": 3292.2973,
+        "count": 1,
+        "bo": "བྱེད་པ་"
+      },
+      {
+        "key": "day",
+        "rank": 700,
+        "score": 1967.1903,
+        "count": 1,
+        "bo": "ཉིན་"
+      },
+      {
+        "key": "few",
+        "rank": 804,
+        "score": 1533.5899,
+        "count": 1,
+        "bo": "ཉུང་ཟད་"
+      },
+      {
+        "key": "short",
+        "rank": 812,
+        "score": 1510.5578,
+        "count": 1,
+        "bo": "སྐད་ཅིག་"
+      },
+      {
+        "key": "extol",
+        "rank": 1048,
+        "score": 1460.7768,
+        "count": 1,
+        "bo": "བཀུར"
+      },
+      {
+        "key": "satisfies",
+        "rank": 1107,
+        "score": 1399.4928,
+        "count": 1,
+        "bo": "འགྲངས་པར་བྱེད་པ"
+      },
+      {
+        "key": "plain",
+        "rank": 1191,
+        "score": 1250.09,
+        "count": 1,
+        "bo": "ཙམ་"
+      },
+      {
+        "key": "provide",
+        "rank": 1392,
+        "score": 739.1561,
+        "count": 1,
+        "bo": "སྦྱོར་བ"
+      },
+      {
+        "key": "scornfully",
+        "rank": 1713,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "བརྙས་བཅས་"
+      },
+      {
+        "key": "donating",
+        "rank": 1887,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "སྦྱིན་པར་བྱེད་པ"
+      },
+      {
+        "key": "meals",
+        "rank": 2721,
+        "score": 600.7911,
+        "count": 1,
+        "bo": "ཟས་"
+      },
+      {
+        "key": "regular",
+        "rank": 3085,
+        "score": 397.8436,
+        "count": 1,
+        "bo": "ནར་མའི་"
+      },
+      {
+        "key": "half",
+        "rank": 3121,
+        "score": 328.8328,
+        "count": 1,
+        "bo": "ཕྱེད་"
+      }
+    ]
+  },
+  "1-33": {
+    "text": "What need to speak of those who always give To beings of untold number for a long time The sublime happiness of the sugatas, Fulfilling every one of their desires?",
+    "keywords": [
+      {
+        "key": "beings",
+        "rank": 4,
+        "score": 97141.6603,
+        "count": 1,
+        "bo": "སེམས་ཅན་"
+      },
+      {
+        "key": "happiness",
+        "rank": 19,
+        "score": 22642.0411,
+        "count": 1,
+        "bo": "བདེ་བ"
+      },
+      {
+        "key": "give",
+        "rank": 45,
+        "score": 14480.5505,
+        "count": 1,
+        "bo": "སྦྱིན་པ་"
+      },
+      {
+        "key": "always",
+        "rank": 52,
+        "score": 12920.9545,
+        "count": 1,
+        "bo": "རྟག་ཏུ་"
+      },
+      {
+        "key": "every",
+        "rank": 57,
+        "score": 12363.6015,
+        "count": 1,
+        "bo": "མཐའ་དག་"
+      },
+      {
+        "key": "desires",
+        "rank": 81,
+        "score": 10167.5415,
+        "count": 1,
+        "bo": "ཡིད་ལ་བསམ་པ་"
+      },
+      {
+        "key": "speak",
+        "rank": 93,
+        "score": 9251.7758,
+        "count": 1,
+        "bo": "སྨོས་"
+      },
+      {
+        "key": "sublime",
+        "rank": 100,
+        "score": 8764.6611,
+        "count": 1,
+        "bo": "བླ་ན་མེད"
+      },
+      {
+        "key": "time",
+        "rank": 123,
+        "score": 7900.8436,
+        "count": 1,
+        "bo": "དུས་"
+      },
+      {
+        "key": "need",
+        "rank": 161,
+        "score": 6462.6279,
+        "count": 1,
+        "bo": "དགོས"
+      },
+      {
+        "key": "sugatas",
+        "rank": 191,
+        "score": 5843.1074,
+        "count": 1,
+        "bo": "བདེ་བར་གཤེགས་"
+      },
+      {
+        "key": "untold",
+        "rank": 978,
+        "score": 1460.7768,
+        "count": 1,
+        "bo": "མཐའ་ཡས་"
+      },
+      {
+        "key": "fulfilling",
+        "rank": 2631,
+        "score": 646.9553,
+        "count": 1,
+        "bo": "རྫོགས་བྱེད་པ"
+      },
+      {
+        "key": "number",
+        "rank": 3111,
+        "score": 349.5193,
+        "count": 1,
+        "bo": "གྲངས་"
+      }
+    ]
+  },
+  "1-34": {
+    "text": "Someone who rouses a malicious thought Toward such a patron, offspring of the victors, Will dwell in hell as many aeons as The count of their bad thoughts, the Sage has said.",
+    "keywords": [
+      {
+        "key": "hell",
+        "rank": 36,
+        "score": 16268.0664,
+        "count": 1,
+        "bo": "དམྱལ་བར་"
+      },
+      {
+        "key": "someone",
+        "rank": 41,
+        "score": 15208.6517,
+        "count": 1,
+        "bo": "གང་ཞིག་"
+      },
+      {
+        "key": "many",
+        "rank": 58,
+        "score": 11927.4745,
+        "count": 1,
+        "bo": "གྲངས་བཞིན་"
+      },
+      {
+        "key": "thoughts",
+        "rank": 75,
+        "score": 10228.7807,
+        "count": 1,
+        "bo": "སེམས་"
+      },
+      {
+        "key": "thought",
+        "rank": 84,
+        "score": 9634.0931,
+        "count": 1,
+        "bo": "སེམས་"
+      },
+      {
+        "key": "dwell",
+        "rank": 89,
+        "score": 9495.0495,
+        "count": 1,
+        "bo": "གནས་པར་"
+      },
+      {
+        "key": "victors",
+        "rank": 118,
+        "score": 8036.8991,
+        "count": 1,
+        "bo": "རྒྱལ་"
+      },
+      {
+        "key": "aeons",
+        "rank": 119,
+        "score": 8034.2727,
+        "count": 1,
+        "bo": "བསྐལ་པར་"
+      },
+      {
+        "key": "offspring",
+        "rank": 132,
+        "score": 7303.8842,
+        "count": 1,
+        "bo": "སྲས་"
+      },
+      {
+        "key": "sage",
+        "rank": 300,
+        "score": 4067.0166,
+        "count": 1,
+        "bo": "ཐུབ་པ།"
+      },
+      {
+        "key": "toward",
+        "rank": 501,
+        "score": 2709.6302,
+        "count": 1,
+        "bo": "ལ་"
+      },
+      {
+        "key": "patron",
+        "rank": 898,
+        "score": 1460.7768,
+        "count": 1,
+        "bo": "སྦྱིན་བདག་"
+      },
+      {
+        "key": "bad",
+        "rank": 1086,
+        "score": 1410.9845,
+        "count": 1,
+        "bo": "ངན་"
+      },
+      {
+        "key": "said",
+        "rank": 1142,
+        "score": 1337.8337,
+        "count": 1,
+        "bo": "གསུངས་"
+      },
+      {
+        "key": "rouses",
+        "rank": 2200,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "སྐྱེད་པར་བྱེད་"
+      },
+      {
+        "key": "malicious",
+        "rank": 2265,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "ངན་"
+      },
+      {
+        "key": "count",
+        "rank": 2744,
+        "score": 594.1642,
+        "count": 1,
+        "bo": "གྲངས་"
+      }
+    ]
+  },
+  "1-35": {
+    "text": "But the results of someone feeling faith Proliferate in far greater abundance. With bodhisattvas, even grave events Don’t bring misdeeds; good naturally increases.",
+    "keywords": [
+      {
+        "key": "don",
+        "rank": 11,
+        "score": 34907.4893,
+        "count": 1,
+        "bo": "མི་འབྱུང་"
+      },
+      {
+        "key": "misdeeds",
+        "rank": 16,
+        "score": 26293.9832,
+        "count": 1,
+        "bo": "སྡིག་པ་"
+      },
+      {
+        "key": "someone",
+        "rank": 41,
+        "score": 15208.6517,
+        "count": 1,
+        "bo": "གང་ཞིག་"
+      },
+      {
+        "key": "bodhisattvas",
+        "rank": 43,
+        "score": 14607.7685,
+        "count": 1,
+        "bo": "རྒྱལ་སྲས་རྣམས་"
+      },
+      {
+        "key": "faith",
+        "rank": 149,
+        "score": 6688.5504,
+        "count": 1,
+        "bo": "ཡིད་རབ་དང་"
+      },
+      {
+        "key": "bring",
+        "rank": 158,
+        "score": 6478.5609,
+        "count": 1,
+        "bo": "འབྱུང་"
+      },
+      {
+        "key": "feeling",
+        "rank": 200,
+        "score": 5632.834,
+        "count": 1,
+        "bo": "ཡིད་...བྱེད་"
+      },
+      {
+        "key": "naturally",
+        "rank": 313,
+        "score": 3811.2896,
+        "count": 1,
+        "bo": "ངང་གིས་"
+      },
+      {
+        "key": "results",
+        "rank": 373,
+        "score": 3459.4313,
+        "count": 1,
+        "bo": "འབྲས་བུ་"
+      },
+      {
+        "key": "greater",
+        "rank": 475,
+        "score": 2857.0604,
+        "count": 1,
+        "bo": "ལྷག་པར་"
+      },
+      {
+        "key": "grave",
+        "rank": 1165,
+        "score": 1293.9106,
+        "count": 1,
+        "bo": "དོ་གལ་ཆེན་པོ་"
+      },
+      {
+        "key": "far",
+        "rank": 1292,
+        "score": 1048.558,
+        "count": 1,
+        "bo": "དེ་བས་"
+      },
+      {
+        "key": "proliferate",
+        "rank": 1797,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "འཕེལ"
+      },
+      {
+        "key": "abundance",
+        "rank": 2504,
+        "score": 677.8361,
+        "count": 1,
+        "bo": "ལྷག་པར་"
+      },
+      {
+        "key": "events",
+        "rank": 2838,
+        "score": 551.543,
+        "count": 1,
+        "bo": "དོ་གལ་"
+      },
+      {
+        "key": "increases",
+        "rank": 3101,
+        "score": 373.3273,
+        "count": 1,
+        "bo": "འཕེལ"
+      }
+    ]
+  },
+  "1-36": {
+    "text": "I prostrate to the bodies of those in whom This jewel, the sublime attitude, is born. Even harming them will lead to happiness. I go for refuge to the wellsprings of joy.",
+    "keywords": [
+      {
+        "key": "happiness",
+        "rank": 19,
+        "score": 22642.0411,
+        "count": 1,
+        "bo": "བདེ་བ"
+      },
+      {
+        "key": "joy",
+        "rank": 37,
+        "score": 16073.7982,
+        "count": 1,
+        "bo": "བདེ་བ"
+      },
+      {
+        "key": "born",
+        "rank": 38,
+        "score": 16073.7982,
+        "count": 1,
+        "bo": "སྐྱེས་པ"
+      },
+      {
+        "key": "bodies",
+        "rank": 73,
+        "score": 10389.0462,
+        "count": 1,
+        "bo": "སྐུ་"
+      },
+      {
+        "key": "sublime",
+        "rank": 100,
+        "score": 8764.6611,
+        "count": 1,
+        "bo": "དམ་པ་"
+      },
+      {
+        "key": "refuge",
+        "rank": 159,
+        "score": 6469.5529,
+        "count": 1,
+        "bo": "སྐྱབས་སུ་མཆི།"
+      },
+      {
+        "key": "jewel",
+        "rank": 186,
+        "score": 5843.1074,
+        "count": 1,
+        "bo": "རིན་ཆེན་"
+      },
+      {
+        "key": "prostrate",
+        "rank": 226,
+        "score": 5112.719,
+        "count": 1,
+        "bo": "ཕྱག་འཚལ་"
+      },
+      {
+        "key": "lead",
+        "rank": 732,
+        "score": 1871.9132,
+        "count": 1,
+        "bo": "འབྲེལ་བ"
+      },
+      {
+        "key": "harming",
+        "rank": 1187,
+        "score": 1250.09,
+        "count": 1,
+        "bo": "གནོད་པ་བྱས་"
+      },
+      {
+        "key": "attitude",
+        "rank": 1283,
+        "score": 1064.8052,
+        "count": 1,
+        "bo": "སེམས་"
+      },
+      {
+        "key": "wellsprings",
+        "rank": 2079,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "འབྱུང་གནས་"
+      }
+    ]
+  },
+  "2-0": {
+    "text": "The first chapter, “Explaining the Benefits of Bodhichitta,” from Entering the Way of the Bodhisattva. ^1-a 2. Confessing Misdeeds",
+    "keywords": [
+      {
+        "key": "misdeeds",
+        "rank": 16,
+        "score": 26293.9832,
+        "count": 1,
+        "bo": "སྡིག་པ་"
+      },
+      {
+        "key": "bodhichitta",
+        "rank": 24,
+        "score": 19720.4874,
+        "count": 1,
+        "bo": "བྱང་ཆུབ་སེམས་"
+      },
+      {
+        "key": "way",
+        "rank": 35,
+        "score": 16693.2038,
+        "count": 1,
+        "bo": "སྤྱོད་པ"
+      },
+      {
+        "key": "bodhisattva",
+        "rank": 44,
+        "score": 14607.7685,
+        "count": 1,
+        "bo": "བྱང་ཆུབ་སེམས་དཔའ་"
+      },
+      {
+        "key": "entering",
+        "rank": 162,
+        "score": 6459.1686,
+        "count": 1,
+        "bo": "འཇུག་པ"
+      },
+      {
+        "key": "chapter",
+        "rank": 213,
+        "score": 5218.8081,
+        "count": 1,
+        "bo": "ལེའུ་"
+      },
+      {
+        "key": "benefits",
+        "rank": 511,
+        "score": 2619.5301,
+        "count": 1,
+        "bo": "ཕན་ཡོན་"
+      },
+      {
+        "key": "confessing",
+        "rank": 587,
+        "score": 2191.1653,
+        "count": 1,
+        "bo": "བཤགས་པ"
+      },
+      {
+        "key": "explaining",
+        "rank": 1240,
+        "score": 1154.3385,
+        "count": 1,
+        "bo": "བཤད་པ་"
+      }
+    ]
+  },
+  "2-1": {
+    "text": "In order to grasp that precious attitude, I make fine offerings to the tathagatas, To the true dharma, the immaculate jewel, And to the oceans of qualities, bodhisattvas.",
+    "keywords": [
+      {
+        "key": "qualities",
+        "rank": 25,
+        "score": 19457.6012,
+        "count": 1,
+        "bo": "ཡོན་ཏན་"
+      },
+      {
+        "key": "dharma",
+        "rank": 29,
+        "score": 18259.7106,
+        "count": 1,
+        "bo": "ཆོས"
+      },
+      {
+        "key": "bodhisattvas",
+        "rank": 43,
+        "score": 14607.7685,
+        "count": 1,
+        "bo": "སངས་རྒྱས་སྲས"
+      },
+      {
+        "key": "make",
+        "rank": 53,
+        "score": 12911.2638,
+        "count": 1,
+        "bo": "མཆོད"
+      },
+      {
+        "key": "true",
+        "rank": 62,
+        "score": 11712.857,
+        "count": 1,
+        "bo": "དམ་པའི་"
+      },
+      {
+        "key": "jewel",
+        "rank": 186,
+        "score": 5843.1074,
+        "count": 1,
+        "bo": "དཀོན་མཆོག་"
+      },
+      {
+        "key": "grasp",
+        "rank": 187,
+        "score": 5843.1074,
+        "count": 1,
+        "bo": "གཟུང་བར་"
+      },
+      {
+        "key": "oceans",
+        "rank": 190,
+        "score": 5843.1074,
+        "count": 1,
+        "bo": "རྒྱ་མཚོ་"
+      },
+      {
+        "key": "tathagatas",
+        "rank": 271,
+        "score": 4382.3305,
+        "count": 1,
+        "bo": "དེ་བཞིན་གཤེགས་པ་རྣམས་"
+      },
+      {
+        "key": "offerings",
+        "rank": 299,
+        "score": 4076.9669,
+        "count": 1,
+        "bo": "མཆོད"
+      },
+      {
+        "key": "fine",
+        "rank": 510,
+        "score": 2634.8008,
+        "count": 1,
+        "bo": "ལེགས་པར་"
+      },
+      {
+        "key": "precious",
+        "rank": 552,
+        "score": 2236.662,
+        "count": 1,
+        "bo": "རིན་ཆེན་"
+      },
+      {
+        "key": "order",
+        "rank": 801,
+        "score": 1555.0644,
+        "count": 1,
+        "bo": "ཕྱིར"
+      },
+      {
+        "key": "attitude",
+        "rank": 1283,
+        "score": 1064.8052,
+        "count": 1,
+        "bo": "སེམས་"
+      },
+      {
+        "key": "immaculate",
+        "rank": 1921,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "དྲི་མ་མེད་"
+      }
+    ]
+  },
+  "2-2": {
+    "text": "As many fruits and flowers as there are, Whatever kinds of medicine exist, However many jewels there are in the world, All clean and pleasant waters there may be,",
+    "keywords": [
+      {
+        "key": "exist",
+        "rank": 55,
+        "score": 12488.0059,
+        "count": 1,
+        "bo": "ཡོད་པ་"
+      },
+      {
+        "key": "many",
+        "rank": 58,
+        "score": 11927.4745,
+        "count": 2,
+        "bo": "ཇི་སྙེད་"
+      },
+      {
+        "key": "world",
+        "rank": 142,
+        "score": 7133.7871,
+        "count": 1,
+        "bo": "འཇིག་རྟེན་"
+      },
+      {
+        "key": "jewels",
+        "rank": 192,
+        "score": 5843.1074,
+        "count": 1,
+        "bo": "རིན་ཆེན་"
+      },
+      {
+        "key": "flowers",
+        "rank": 212,
+        "score": 5286.729,
+        "count": 1,
+        "bo": "མེ་ཏོག་"
+      },
+      {
+        "key": "whatever",
+        "rank": 279,
+        "score": 4330.9849,
+        "count": 1,
+        "bo": "གང་དག་"
+      },
+      {
+        "key": "medicine",
+        "rank": 311,
+        "score": 3811.2896,
+        "count": 1,
+        "bo": "སྨན་"
+      },
+      {
+        "key": "clean",
+        "rank": 480,
+        "score": 2798.9855,
+        "count": 1,
+        "bo": "གཙང་"
+      },
+      {
+        "key": "kinds",
+        "rank": 752,
+        "score": 1764.204,
+        "count": 1,
+        "bo": "རྣམ་པ་"
+      },
+      {
+        "key": "pleasant",
+        "rank": 871,
+        "score": 1460.7768,
+        "count": 1,
+        "bo": "ཡིད་དུ་འོང་བ་"
+      },
+      {
+        "key": "fruits",
+        "rank": 1190,
+        "score": 1250.09,
+        "count": 1,
+        "bo": "འབྲས་བུ་"
+      },
+      {
+        "key": "waters",
+        "rank": 1310,
+        "score": 1012.7488,
+        "count": 1,
+        "bo": "ཆུ་"
+      }
+    ]
+  },
+  "2-3": {
+    "text": "Mountains of jewels and likewise forest groves In solitary and delightful places, Bushes adorned with ornamental flowers, And trees whose branches bow with splendid fruit,",
+    "keywords": [
+      {
+        "key": "likewise",
+        "rank": 39,
+        "score": 15394.4204,
+        "count": 1,
+        "bo": "དེ་བཞིན་དུ་"
+      },
+      {
+        "key": "trees",
+        "rank": 170,
+        "score": 6294.7931,
+        "count": 1,
+        "bo": "ཤིང་"
+      },
+      {
+        "key": "jewels",
+        "rank": 192,
+        "score": 5843.1074,
+        "count": 1,
+        "bo": "རིན་ཆེན་"
+      },
+      {
+        "key": "flowers",
+        "rank": 212,
+        "score": 5286.729,
+        "count": 1,
+        "bo": "མེ་ཏོག་"
+      },
+      {
+        "key": "delightful",
+        "rank": 342,
+        "score": 3651.9421,
+        "count": 1,
+        "bo": "ཉམས་དགའ་"
+      },
+      {
+        "key": "places",
+        "rank": 369,
+        "score": 3494.543,
+        "count": 1,
+        "bo": "ས་ཕྱོགས་"
+      },
+      {
+        "key": "bow",
+        "rank": 412,
+        "score": 3003.9554,
+        "count": 1,
+        "bo": "དུད་པ་"
+      },
+      {
+        "key": "fruit",
+        "rank": 485,
+        "score": 2795.8275,
+        "count": 1,
+        "bo": "འབྲས་"
+      },
+      {
+        "key": "groves",
+        "rank": 665,
+        "score": 2099.2391,
+        "count": 1,
+        "bo": "ནགས་ཚལ་"
+      },
+      {
+        "key": "mountains",
+        "rank": 711,
+        "score": 1940.8659,
+        "count": 1,
+        "bo": "རི་བོ་"
+      },
+      {
+        "key": "forest",
+        "rank": 774,
+        "score": 1689.8502,
+        "count": 1,
+        "bo": "ནགས་ཚལ་"
+      },
+      {
+        "key": "solitary",
+        "rank": 890,
+        "score": 1460.7768,
+        "count": 1,
+        "bo": "དབེན་"
+      },
+      {
+        "key": "bushes",
+        "rank": 1461,
+        "score": 730.6272,
+        "count": 1,
+        "bo": "ལྗོན་ཤིང་"
+      },
+      {
+        "key": "ornamental",
+        "rank": 2070,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "རྒྱན་"
+      },
+      {
+        "key": "splendid",
+        "rank": 2380,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "བཟང་"
+      },
+      {
+        "key": "adorned",
+        "rank": 2395,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "རྒྱན་སྤྲས་སྤུད་པ་"
+      },
+      {
+        "key": "branches",
+        "rank": 2905,
+        "score": 521.8808,
+        "count": 1,
+        "bo": "ཡལ་ག་"
+      }
+    ]
+  },
+  "2-4": {
+    "text": "Incense and perfumes as from divine worlds And so forth, wish-fulfilling trees, jewel trees, And crops that grow without need to be plowed, All ornaments that are fit to be offered,",
+    "keywords": [
+      {
+        "key": "forth",
+        "rank": 30,
+        "score": 18193.4059,
+        "count": 1,
+        "bo": "སོགས་"
+      },
+      {
+        "key": "without",
+        "rank": 32,
+        "score": 17261.5823,
+        "count": 1,
+        "bo": "མ་"
+      },
+      {
+        "key": "need",
+        "rank": 161,
+        "score": 6462.6279,
+        "count": 1,
+        "bo": "མ་རྨོས་"
+      },
+      {
+        "key": "trees",
+        "rank": 170,
+        "score": 6294.7931,
+        "count": 2,
+        "bo": "ཤིང་"
+      },
+      {
+        "key": "jewel",
+        "rank": 186,
+        "score": 5843.1074,
+        "count": 1,
+        "bo": "རིན་ཆེན་"
+      },
+      {
+        "key": "worlds",
+        "rank": 366,
+        "score": 3498.7319,
+        "count": 1,
+        "bo": "འཇིག་རྟེན་"
+      },
+      {
+        "key": "grow",
+        "rank": 411,
+        "score": 3013.0138,
+        "count": 1,
+        "bo": "འཁྲུངས་པའི་"
+      },
+      {
+        "key": "wish-fulfilling",
+        "rank": 448,
+        "score": 2921.5537,
+        "count": 1,
+        "bo": "དཔག་བསམ་"
+      },
+      {
+        "key": "ornaments",
+        "rank": 594,
+        "score": 2191.1653,
+        "count": 1,
+        "bo": "རྒྱན་རྣམས་"
+      },
+      {
+        "key": "incense",
+        "rank": 615,
+        "score": 2191.1653,
+        "count": 1,
+        "bo": "སྤོས་"
+      },
+      {
+        "key": "divine",
+        "rank": 636,
+        "score": 2191.1653,
+        "count": 1,
+        "bo": "ལྷ་"
+      },
+      {
+        "key": "fit",
+        "rank": 788,
+        "score": 1614.7922,
+        "count": 1,
+        "bo": "འོས་པའི་"
+      },
+      {
+        "key": "perfumes",
+        "rank": 828,
+        "score": 1461.2544,
+        "count": 1,
+        "bo": "དྲི་"
+      },
+      {
+        "key": "crops",
+        "rank": 1372,
+        "score": 855.0577,
+        "count": 1,
+        "bo": "ལོ་ཏོག་"
+      },
+      {
+        "key": "offered",
+        "rank": 1394,
+        "score": 731.3762,
+        "count": 1,
+        "bo": "མཆོད་པར་"
+      },
+      {
+        "key": "plowed",
+        "rank": 1854,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "རྨོས་"
+      }
+    ]
+  },
+  "2-5": {
+    "text": "And lakes and pools bedecked with lotuses, Where lovely swans have most delightful calls— Everything that’s unowned extending to The edges of the realms of infinite space—",
+    "keywords": [
+      {
+        "key": "realms",
+        "rank": 20,
+        "score": 21911.6527,
+        "count": 1,
+        "bo": "ཁམས་"
+      },
+      {
+        "key": "space",
+        "rank": 114,
+        "score": 8073.9608,
+        "count": 1,
+        "bo": "ནམ་མཁའ་"
+      },
+      {
+        "key": "everything",
+        "rank": 148,
+        "score": 6709.986,
+        "count": 1,
+        "bo": "དེ་དག་ཀུན"
+      },
+      {
+        "key": "infinite",
+        "rank": 166,
+        "score": 6297.7174,
+        "count": 1,
+        "bo": "རབ་འབྱམས་"
+      },
+      {
+        "key": "most",
+        "rank": 246,
+        "score": 4660.7456,
+        "count": 1,
+        "bo": "ཤིན་ཏུ་"
+      },
+      {
+        "key": "delightful",
+        "rank": 342,
+        "score": 3651.9421,
+        "count": 1,
+        "bo": "ཡིད་འོང་"
+      },
+      {
+        "key": "swans",
+        "rank": 577,
+        "score": 2191.1653,
+        "count": 1,
+        "bo": "ངང་པ་"
+      },
+      {
+        "key": "lovely",
+        "rank": 631,
+        "score": 2191.1653,
+        "count": 1,
+        "bo": "ཡིད་འོང་"
+      },
+      {
+        "key": "lotuses",
+        "rank": 639,
+        "score": 2191.1653,
+        "count": 1,
+        "bo": "པདྨ་"
+      },
+      {
+        "key": "edges",
+        "rank": 1034,
+        "score": 1460.7768,
+        "count": 1,
+        "bo": "མཐས་"
+      },
+      {
+        "key": "lakes",
+        "rank": 1225,
+        "score": 1176.136,
+        "count": 1,
+        "bo": "མཚོ་"
+      },
+      {
+        "key": "extending",
+        "rank": 1286,
+        "score": 1053.9203,
+        "count": 1,
+        "bo": "གཏུགས་པ"
+      },
+      {
+        "key": "bedecked",
+        "rank": 2181,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "བརྒྱན་པ་"
+      },
+      {
+        "key": "unowned",
+        "rank": 2398,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "ཡོངས་སུ་གཟུང་བ་མེད་པ་"
+      },
+      {
+        "key": "pools",
+        "rank": 2521,
+        "score": 677.8361,
+        "count": 1,
+        "bo": "རྫིང་བུ་"
+      },
+      {
+        "key": "calls",
+        "rank": 3070,
+        "score": 415.6869,
+        "count": 1,
+        "bo": "སྐད་"
+      }
+    ]
+  },
+  "2-6": {
+    "text": "I imagine taking these and offer them well To the sages, greatest of beings, and their offspring, Sublime and greatly compassionate recipients. Think of me lovingly; accept these from me.",
+    "keywords": [
+      {
+        "key": "beings",
+        "rank": 4,
+        "score": 97141.6603,
+        "count": 1,
+        "bo": "སྐྱེས་"
+      },
+      {
+        "key": "think",
+        "rank": 96,
+        "score": 9010.8685,
+        "count": 1,
+        "bo": "དགོངས་"
+      },
+      {
+        "key": "sublime",
+        "rank": 100,
+        "score": 8764.6611,
+        "count": 1,
+        "bo": "དམ་པ་"
+      },
+      {
+        "key": "offspring",
+        "rank": 132,
+        "score": 7303.8842,
+        "count": 1,
+        "bo": "སྲས་"
+      },
+      {
+        "key": "sages",
+        "rank": 136,
+        "score": 7303.8842,
+        "count": 1,
+        "bo": "ཐུབ་པ"
+      },
+      {
+        "key": "compassionate",
+        "rank": 156,
+        "score": 6573.4958,
+        "count": 1,
+        "bo": "ཐུགས་རྗེ་ཆེ་"
+      },
+      {
+        "key": "accept",
+        "rank": 229,
+        "score": 5105.0742,
+        "count": 1,
+        "bo": "བཞེས"
+      },
+      {
+        "key": "offer",
+        "rank": 403,
+        "score": 3120.927,
+        "count": 1,
+        "bo": "འབུལ་"
+      },
+      {
+        "key": "greatest",
+        "rank": 784,
+        "score": 1654.6291,
+        "count": 1,
+        "bo": "མཆོག"
+      },
+      {
+        "key": "lovingly",
+        "rank": 1044,
+        "score": 1460.7768,
+        "count": 1,
+        "bo": "བརྩེར་"
+      },
+      {
+        "key": "imagine",
+        "rank": 1133,
+        "score": 1355.6722,
+        "count": 1,
+        "bo": "བློ་ཡིས་"
+      },
+      {
+        "key": "taking",
+        "rank": 1387,
+        "score": 780.9942,
+        "count": 1,
+        "bo": "བླངས་"
+      },
+      {
+        "key": "recipients",
+        "rank": 2598,
+        "score": 660.8411,
+        "count": 1,
+        "bo": "ཡོན་གནས་"
+      },
+      {
+        "key": "greatly",
+        "rank": 2815,
+        "score": 563.2834,
+        "count": 1,
+        "bo": "ཆེ་"
+      }
+    ]
+  },
+  "2-7": {
+    "text": "I am bereft of merit, destitute, And have no other wealth that I could offer. May the protectors, who think of others’ weal, Accept these through their power for my sake.",
+    "keywords": [
+      {
+        "key": "others",
+        "rank": 10,
+        "score": 36156.1654,
+        "count": 1,
+        "bo": "གཞན་"
+      },
+      {
+        "key": "sake",
+        "rank": 17,
+        "score": 25772.804,
+        "count": 1,
+        "bo": "དོན་སླད་"
+      },
+      {
+        "key": "merit",
+        "rank": 28,
+        "score": 18421.2329,
+        "count": 1,
+        "bo": "བསོད་ནམས་"
+      },
+      {
+        "key": "think",
+        "rank": 96,
+        "score": 9010.8685,
+        "count": 1,
+        "bo": "དགོངས་པའི་"
+      },
+      {
+        "key": "protectors",
+        "rank": 131,
+        "score": 7303.8842,
+        "count": 1,
+        "bo": "མགོན་"
+      },
+      {
+        "key": "wealth",
+        "rank": 139,
+        "score": 7269.2524,
+        "count": 1,
+        "bo": "ནོར་"
+      },
+      {
+        "key": "power",
+        "rank": 163,
+        "score": 6428.8158,
+        "count": 1,
+        "bo": "མཐུས་"
+      },
+      {
+        "key": "accept",
+        "rank": 229,
+        "score": 5105.0742,
+        "count": 1,
+        "bo": "བཞེས་ཤིག"
+      },
+      {
+        "key": "offer",
+        "rank": 403,
+        "score": 3120.927,
+        "count": 1,
+        "bo": "མཆོད་པའི་"
+      },
+      {
+        "key": "weal",
+        "rank": 469,
+        "score": 2921.5537,
+        "count": 1,
+        "bo": "དོན་"
+      },
+      {
+        "key": "bereft",
+        "rank": 1658,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "མི་ལྡན་"
+      },
+      {
+        "key": "destitute",
+        "rank": 1897,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "བཀྲེན་ཆེན་"
+      }
+    ]
+  },
+  "2-8": {
+    "text": "Forevermore I offer all my bodies To the victorious ones and to their offspring. O sublime beings, accept me entirely, And I will be your dedicated servant.",
+    "keywords": [
+      {
+        "key": "beings",
+        "rank": 4,
+        "score": 97141.6603,
+        "count": 1,
+        "bo": "སེམས་དཔའ་"
+      },
+      {
+        "key": "bodies",
+        "rank": 73,
+        "score": 10389.0462,
+        "count": 1,
+        "bo": "ལུས་"
+      },
+      {
+        "key": "sublime",
+        "rank": 100,
+        "score": 8764.6611,
+        "count": 1,
+        "bo": "མཆོག་"
+      },
+      {
+        "key": "offspring",
+        "rank": 132,
+        "score": 7303.8842,
+        "count": 1,
+        "bo": "སྲས་"
+      },
+      {
+        "key": "accept",
+        "rank": 229,
+        "score": 5105.0742,
+        "count": 1,
+        "bo": "བཞེས་ཤིག"
+      },
+      {
+        "key": "ones",
+        "rank": 372,
+        "score": 3463.0154,
+        "count": 1,
+        "bo": "རྒྱལ་"
+      },
+      {
+        "key": "offer",
+        "rank": 403,
+        "score": 3120.927,
+        "count": 1,
+        "bo": "དབུལ་བར་བགྱི"
+      },
+      {
+        "key": "victorious",
+        "rank": 458,
+        "score": 2921.5537,
+        "count": 1,
+        "bo": "རྒྱལ་"
+      },
+      {
+        "key": "servant",
+        "rank": 569,
+        "score": 2191.8816,
+        "count": 1,
+        "bo": "འབངས་"
+      },
+      {
+        "key": "entirely",
+        "rank": 658,
+        "score": 2118.531,
+        "count": 1,
+        "bo": "ཡོངས་"
+      },
+      {
+        "key": "dedicated",
+        "rank": 724,
+        "score": 1905.6448,
+        "count": 1,
+        "bo": "གུས་པས་"
+      },
+      {
+        "key": "forevermore",
+        "rank": 2361,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "གཏན་དུ་"
+      }
+    ]
+  },
+  "2-9": {
+    "text": "Because you have accepted me completely, Not fearing existence, I will benefit beings. I will transcend my previous misdeeds And never do another wrong again.",
+    "keywords": [
+      {
+        "key": "beings",
+        "rank": 4,
+        "score": 97141.6603,
+        "count": 1,
+        "bo": "སེམས་ཅན་"
+      },
+      {
+        "key": "misdeeds",
+        "rank": 16,
+        "score": 26293.9832,
+        "count": 1,
+        "bo": "སྡིག་ལས"
+      },
+      {
+        "key": "never",
+        "rank": 50,
+        "score": 13468.981,
+        "count": 1,
+        "bo": "ནམ་ཡང་"
+      },
+      {
+        "key": "benefit",
+        "rank": 59,
+        "score": 11817.0449,
+        "count": 1,
+        "bo": "ཕན་ཐོགས།"
+      },
+      {
+        "key": "because",
+        "rank": 70,
+        "score": 10694.3198,
+        "count": 1,
+        "bo": "བས་ན"
+      },
+      {
+        "key": "wrong",
+        "rank": 106,
+        "score": 8657.5385,
+        "count": 1,
+        "bo": "སྡིག་པ"
+      },
+      {
+        "key": "again",
+        "rank": 125,
+        "score": 7716.5682,
+        "count": 1,
+        "bo": "སླན་ཆད་"
+      },
+      {
+        "key": "another",
+        "rank": 140,
+        "score": 7146.664,
+        "count": 1,
+        "bo": "གཞན་"
+      },
+      {
+        "key": "existence",
+        "rank": 195,
+        "score": 5824.2384,
+        "count": 1,
+        "bo": "སྲིད་"
+      },
+      {
+        "key": "fearing",
+        "rank": 428,
+        "score": 2922.5088,
+        "count": 1,
+        "bo": "འཇིགས་"
+      },
+      {
+        "key": "completely",
+        "rank": 663,
+        "score": 2107.8407,
+        "count": 1,
+        "bo": "ཡོངས་སུ་"
+      },
+      {
+        "key": "accepted",
+        "rank": 1184,
+        "score": 1270.1207,
+        "count": 1,
+        "bo": "བཟུང་"
+      },
+      {
+        "key": "transcend",
+        "rank": 2217,
+        "score": 730.3884,
+        "count": 1,
+        "bo": ""
+      },
+      {
+        "key": "previous",
+        "rank": 2634,
+        "score": 644.6067,
+        "count": 1,
+        "bo": "སྔོན་གྱི་"
+      }
+    ]
+  },
+  "2-10": {
+    "text": "Within this sweetly fragrant house for bathing, Where the bright and lustrous floors are paved with crystal, Alluring pillars are aglow with jewels, And glistening pearls are draped in canopies,",
+    "keywords": [
+      {
+        "key": "jewels",
+        "rank": 192,
+        "score": 5843.1074,
+        "count": 1,
+        "bo": "རིན་ཆེན་"
+      },
+      {
+        "key": "fragrant",
+        "rank": 442,
+        "score": 2921.5537,
+        "count": 1,
+        "bo": "དྲི་ཞིམ་པ"
+      },
+      {
+        "key": "within",
+        "rank": 486,
+        "score": 2786.0168,
+        "count": 1,
+        "bo": "དེར"
+      },
+      {
+        "key": "crystal",
+        "rank": 730,
+        "score": 1875.135,
+        "count": 1,
+        "bo": "ཤེལ་"
+      },
+      {
+        "key": "paved",
+        "rank": 863,
+        "score": 1461.2544,
+        "count": 1,
+        "bo": "བསྟར"
+      },
+      {
+        "key": "pearls",
+        "rank": 1068,
+        "score": 1460.7768,
+        "count": 1,
+        "bo": "མུ་ཏིག་"
+      },
+      {
+        "key": "house",
+        "rank": 1293,
+        "score": 1044.0034,
+        "count": 1,
+        "bo": "ཁང་པ་"
+      },
+      {
+        "key": "floors",
+        "rank": 1408,
+        "score": 730.6272,
+        "count": 1,
+        "bo": "ས་གཞི"
+      },
+      {
+        "key": "bathing",
+        "rank": 1456,
+        "score": 730.6272,
+        "count": 1,
+        "bo": "ཁྲུས"
+      },
+      {
+        "key": "pillars",
+        "rank": 1577,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "ཀ་བ་"
+      },
+      {
+        "key": "sweetly",
+        "rank": 1635,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "མངར་མོར།"
+      },
+      {
+        "key": "draped",
+        "rank": 1668,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "བྲེས་པ"
+      },
+      {
+        "key": "glistening",
+        "rank": 1744,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "འོད་ཆགས"
+      },
+      {
+        "key": "alluring",
+        "rank": 1761,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "ཡིད་འོང་"
+      },
+      {
+        "key": "canopies",
+        "rank": 1811,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "བླ་རེ་"
+      },
+      {
+        "key": "lustrous",
+        "rank": 1922,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "འཚེར་བ"
+      },
+      {
+        "key": "aglow",
+        "rank": 2252,
+        "score": 730.3884,
+        "count": 1,
+        "bo": "འབར་བའི་"
+      },
+      {
+        "key": "bright",
+        "rank": 2713,
+        "score": 608.05,
+        "count": 1,
+        "bo": "གསལ་"
+      }
+    ]
+  }
+}

@@ -595,6 +595,17 @@ def _parse_args() -> argparse.Namespace:
             f"(default: {_DEFAULT_OUTDIR})"
         ),
     )
+    p.add_argument(
+        "--bottom", "-b",
+        metavar="N",
+        type=int,
+        default=None,
+        help=(
+            "Also write a '<stem>_bottom_N.json' report of the N most frequent "
+            "keywords sorted by TF-IDF ascending (lowest distinctiveness first). "
+            "Useful for identifying stopword candidates."
+        ),
+    )
     return p.parse_args()
 
 
@@ -623,6 +634,308 @@ def main() -> None:
 
     # ── Combined JSON (all sources, English words only) ──────────────────────
     write_combined_json(comp, sources, outdir / (stems_slug + "_termbase.json"))
+
+    # ── Keyword → verses JSON ─────────────────────────────────────────────────
+    kw_data = write_keyword_verses_json(comp, sources, outdir / (stems_slug + "_keyword_verses.json"))
+
+    # ── Bottom-N report (optional) ────────────────────────────────────────────
+    if args.bottom:
+        write_bottom_json(kw_data, args.bottom, outdir / (stems_slug + f"_bottom_{args.bottom}.json"))
+
+    write_verse_keywords_json(kw_data, outdir / (stems_slug + "_verse_keywords.json"))
+
+# ---------------------------------------------------------------------------
+# Verse extraction
+# ---------------------------------------------------------------------------
+
+# Matches verse markers like ^1-1, ^2-34, ^I-0, ^0
+_VERSE_MARKER = re.compile(r"\^([\w][\w\-]*\d+)\s*$")
+
+
+def extract_verses(path: pathlib.Path) -> list[dict]:
+    """
+    Parse a translation markdown file into a list of verse dicts::
+
+        [{"verse_id": "1-1", "text": "Reverently bowing..."}, ...]
+
+    Lines starting with `![[...]]` (transclusion links) are skipped.
+    Frontmatter is stripped. Heading lines (^N-0) are included but
+    can be filtered downstream.
+    """
+    text  = strip_frontmatter(path.read_text(encoding="utf-8"))
+    verses: list[dict] = []
+    pending_lines: list[str] = []
+    for line in text.splitlines():
+        line = line.strip()
+        if not line or line.startswith("![["):
+            continue
+        m = _VERSE_MARKER.search(line)
+        if m:
+            verse_id = m.group(1)
+            # last line of verse (may have text before the marker)
+            last_line = line[: m.start()].strip()
+            last_line = re.sub(r"^#+\s*", "", last_line).strip()
+            if last_line:
+                pending_lines.append(last_line)
+            # join all accumulated lines as the full verse text
+            verse_text = " ".join(pending_lines).strip()
+            if verse_text:
+                verses.append({"verse_id": verse_id, "text": verse_text})
+            pending_lines = []
+        else:
+            # accumulate lines belonging to the current verse
+            clean = re.sub(r"^#+\s*", "", line).strip()
+            if clean:
+                pending_lines.append(clean)
+    return verses
+
+
+def build_inverted_index(
+    sources: list[pathlib.Path],
+) -> dict[str, dict[str, list[dict]]]:
+    """
+    Pre-tokenize all verses once and return an inverted index::
+
+        { stem: { word: [{"verse_id": ..., "text": ...}, ...] } }
+
+    This lets write_keyword_verses_json do O(1) lookups per keyword
+    instead of re-tokenizing every verse for every keyword.
+    """
+    index: dict[str, dict[str, list[dict]]] = {}
+    for src in sources:
+        stem   = src.stem
+        inv: dict[str, list[dict]] = {}
+        for verse in extract_verses(src):
+            tokens = [w for w in tokenize(verse["text"]) if w not in STOPWORDS and len(w) > 2]
+            word_counts: dict[str, int] = {}
+            for word in tokens:
+                word_counts[word] = word_counts.get(word, 0) + 1
+            for word, cnt in word_counts.items():
+                inv.setdefault(word, []).append(
+                    {"verse_id": verse["verse_id"], "text": verse["text"], "count": cnt}
+                )
+        index[stem] = inv
+    return index
+
+
+def write_keyword_verses_json(
+    comp: dict,
+    sources: list[pathlib.Path],
+    dest: pathlib.Path,
+) -> None:
+    """
+    Write a JSON file mapping each English keyword to the verses where it appears.
+
+    Output shape::
+
+        {
+          "word": {
+            "score": <avg_tfidf>,
+            "occurrences": [
+              {"source": "en-Wallace", "verse_id": "1-3", "text": "..."},
+              ...
+            ]
+          },
+          ...
+        }
+
+    Words are sorted by average TF-IDF descending (same order as termbase).
+    """
+    stems = [src.stem for src in sources]
+
+    # Build inverted index once: tokenize each verse a single time
+    inv_index = build_inverted_index(sources)
+
+    # Collect all English words sorted by avg TF-IDF
+    all_words: set[str] = set()
+    for d in comp.values():
+        all_words.update(d["row_map"].keys())
+    english_words = [w for w in all_words if is_english(w)]
+    english_words.sort(
+        key=lambda w: sum(comp[s]["row_map"].get(w, {}).get("score", 0.0) for s in stems) / len(stems),
+        reverse=True,
+    )
+
+    result: dict = {}
+    for rank, word in enumerate(english_words, 1):
+        avg_score   = sum(comp[s]["row_map"].get(word, {}).get("score", 0.0) for s in stems) / len(stems)
+        occurrences = [
+            {"source": stem, "verse_id": v["verse_id"], "text": v["text"], "count": v.get("count", 1)}
+            for stem in stems
+            for v in inv_index[stem].get(word, [])
+        ]
+        if occurrences:
+            total_count = sum(o.get("count", 1) for o in occurrences)
+            result[word] = {
+                "rank":        rank,
+                "score":       round(avg_score, 4),
+                "total_count": total_count,
+                "occurrences": occurrences,
+            }
+
+    dest.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
+    total_occs = sum(len(v["occurrences"]) for v in result.values())
+    print(f"Written  -> {dest}  ({len(result):,} keywords, {total_occs:,} verse occurrences)")
+    return result
+
+
+# ---------------------------------------------------------------------------
+# Bottom-N report: most frequent keywords sorted by TF-IDF ascending
+# ---------------------------------------------------------------------------
+
+def write_bottom_json(
+    keyword_data: dict,
+    n: int,
+    dest: pathlib.Path,
+) -> None:
+    """
+    Write a JSON report of the N most frequent keywords sorted by TF-IDF ascending.
+
+    Output shape::
+
+        [
+          {
+            "bottom_rank": 1,
+            "word": "said",
+            "tfidf_rank": 2891,
+            "score": 1337.83,
+            "total_count": 12,
+            "verses": 12
+          },
+          ...
+        ]
+
+    bottom_rank = position in this list (1 = most frequent among bottom scorers).
+    tfidf_rank  = position in the full TF-IDF-descending list (1 = most distinctive).
+    """
+    pool = sorted(keyword_data.items(), key=lambda kv: -kv[1]["total_count"])[:n]
+    pool.sort(key=lambda kv: kv[1]["score"])
+
+    rows = []
+    for bottom_rank, (word, d) in enumerate(pool, 1):
+        rows.append({
+            "bottom_rank": bottom_rank,
+            "word":        word,
+            "tfidf_rank":  d["rank"],
+            "score":       d["score"],
+            "total_count": d["total_count"],
+            "verses":      len(d["occurrences"]),
+        })
+
+    dest.write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"Written  -> {dest}  ({len(rows):,} bottom keywords)")
+
+
+# ---------------------------------------------------------------------------
+# CLI
+# ---------------------------------------------------------------------------
+
+def _parse_args() -> argparse.Namespace:
+    p = argparse.ArgumentParser(
+        description=(
+            "Compute TF-IDF vocabulary analysis for one or more markdown "
+            "translation files."
+        ),
+    )
+    p.add_argument("--input", "-i", metavar="PATH", nargs="+", default=None,
+                   help=f"Source markdown files. (default: {_DEFAULT_INPUT})")
+    p.add_argument("--outdir", "-o", metavar="DIR", default=None,
+                   help=f"Output directory. (default: {_DEFAULT_OUTDIR})")
+    p.add_argument("--bottom", "-b", metavar="N", type=int, default=None,
+                   help="Write bottom-N report: N most frequent keywords sorted by TF-IDF ascending.")
+    return p.parse_args()
+
+
+# ---------------------------------------------------------------------------
+# Main
+# ---------------------------------------------------------------------------
+
+def main() -> None:
+    args   = _parse_args()
+    outdir = pathlib.Path(args.outdir).resolve() if args.outdir else _DEFAULT_OUTDIR
+    outdir.mkdir(parents=True, exist_ok=True)
+
+    sources = (
+        [pathlib.Path(p).resolve() for p in args.input]
+        if args.input
+        else [_DEFAULT_INPUT]
+    )
+
+    for src in sources:
+        if not src.exists():
+            raise FileNotFoundError(f"Translation not found:\n  {src}")
+
+    comp       = build_comparison(sources)
+    stems_slug = "_vs_".join(src.stem for src in sources) if len(sources) > 1 else sources[0].stem
+
+    write_combined_json(comp, sources, outdir / (stems_slug + "_termbase.json"))
+
+    kw_data = write_keyword_verses_json(comp, sources, outdir / (stems_slug + "_keyword_verses.json"))
+
+    if args.bottom:
+        write_bottom_json(kw_data, args.bottom, outdir / (stems_slug + f"_bottom_{args.bottom}.json"))
+
+    write_verse_keywords_json(kw_data, outdir / (stems_slug + "_verse_keywords.json"))
+
+
+# ---------------------------------------------------------------------------
+# Verse-centric JSON: verse_id → {text, keywords}
+# ---------------------------------------------------------------------------
+
+def write_verse_keywords_json(
+    keyword_data: dict,
+    dest: pathlib.Path,
+) -> None:
+    """
+    Invert keyword_data into a verse-centric structure.
+
+    Output shape::
+
+        {
+          "6-22": {
+            "text": "...",
+            "keywords": [
+              {"key": "beings", "rank": 3, "score": 97141.66, "count": 1},
+              ...
+            ]
+          },
+          ...
+        }
+
+    Keywords within each verse are sorted by TF-IDF rank ascending (most
+    distinctive first).
+    """
+    verses: dict = {}
+
+    for word, d in keyword_data.items():
+        for occ in d["occurrences"]:
+            vid = occ["verse_id"]
+            if vid not in verses:
+                verses[vid] = {"text": occ["text"], "keywords": []}
+            verses[vid]["keywords"].append({
+                "key":         word,
+                "rank":        d["rank"],
+                "score":       d["score"],
+                "count":       occ.get("count", 1),
+            })
+
+    # sort keywords within each verse by rank ascending (most distinctive first)
+    for v in verses.values():
+        v["keywords"].sort(key=lambda k: k["rank"])
+
+    # sort verses by verse_id (natural sort on chapter-verse)
+    def verse_sort_key(vid: str):
+        parts = re.split(r"[-]", vid)
+        try:
+            return [int(p) for p in parts]
+        except ValueError:
+            return [0]
+
+    ordered = dict(sorted(verses.items(), key=lambda kv: verse_sort_key(kv[0])))
+
+    dest.write_text(json.dumps(ordered, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"Written  -> {dest}  ({len(ordered):,} verses)")
+
 
 if __name__ == "__main__":
     main()

@@ -12,6 +12,10 @@ lang_tag: sa
 bdrc_work_id: WA19740
 source: https://webuddhist.com/
 license: public
+text_id: sADPH5uSrp0XOntZmPvSJ
+edition_id: oPhp5eN2PkvMoiq9pReuu
+toc_id: MDCN2wWeS7OBS9s3b0q4r
+
 ---
 
 # बोधिचर्यावतारः। ^0

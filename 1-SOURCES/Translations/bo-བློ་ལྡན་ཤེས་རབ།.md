@@ -11,6 +11,11 @@ covers_verses: 1-1–10-61
 source_description: Canonical Tibetan translation (Kangyur, Derge edition). Translated from Sanskrit by Sarvajñādeva and Bande Paltsek from Kashmir manuscripts; revised by Dharmaśrībhadra, Rinchen Zangpo, and Śākya-blo-gros against Central Indian manuscripts and commentaries; finalised by Sumatikīrti and Blo ldan shes rab.
 source: https://webuddhist.com/
 license: public
+bdrc_work_id: WA00KG0545
+text_id: 0lvicjSqSLdtXCZQjSYvj
+edition_id: 3rCvwAoWrzKGlIQdtLjCu
+toc_id: TihAXeCXX5XQzQGwL2M0C
+
 ---
 # ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་བཞུགས་སོ། ། ^0
 

@@ -4,21 +4,19 @@ description: >
   Translates Buddhist source text (English verse translation or Tibetan) into Hindi at a
   specified audience grade level — beginner, general, intermediate, or advanced — while
   enforcing term consistency across the entire translation by drawing on a pre-built
-  keyword termbase. Stores results back into the grade-specific keyword JSON file in the
-  same structure as the existing bo_hi_keyword_*.json files. Use this skill whenever the
-  user asks to "translate to Hindi", "render in Hindi", "produce a Hindi version",
-  "write Hindi translation", "store Hindi translation", or "update keyword JSON with Hindi"
+  keyword termbase. Outputs a clean Hindi markdown file with one line per verse followed
+  by its block ID. Use this skill whenever the user asks to "translate to Hindi", "render
+  in Hindi", "produce a Hindi version", "write Hindi translation", or "generate Hindi md"
   for any passage from the Bodhisattvacharyavatara (BCA). Also triggers for: "make this
   beginner Hindi", "academic Hindi translation", "general audience Hindi", "use keyword
-  termbase for translation", "term-consistent Hindi", "save to keyword JSON".
+  termbase for translation", "term-consistent Hindi".
 ---
 
 # bo-hi-translate
 
 Produces a Hindi translation of BCA verses that reads naturally **and** uses Buddhist
-terms consistently. The result is written back into the grade-specific keyword JSON file
-(`bo_hi_keyword_<grade>.json`), updating `hi_text` per verse and `hi` per keyword, so
-the entire corpus stays in sync at that audience level.
+terms consistently. The result is saved as a clean markdown file — one verse per line
+followed by its block ID — mirroring the structure of the source translation files.
 
 ---
 
@@ -176,61 +174,55 @@ After drafting all translations:
    termbase value.
 3. For beginner: confirm no unglossed Sanskrit term survived.
 
-### Step 6 — Write back to the keyword JSON
+### Step 6 — Write markdown output
 
-For each translated verse, update the entry in `kw_data` in memory:
+Write a clean markdown file that mirrors the structure of source translation files in
+`1-SOURCES/Translations/`. Each verse is one block: the Hindi translation followed
+immediately by its Obsidian block ID on the same line.
 
-```python
-for vid, translation in translated_verses.items():
-    if vid not in kw_data:
-        continue  # verse not in base JSON; skip write-back
-
-    entry = kw_data[vid]
-
-    # Update hi_text
-    entry["hi_text"] = translation
-
-    # Update hi field on each keyword using the termbase
-    for kw in entry.get("keywords", []):
-        key_lower = kw["key"].lower()
-        if key_lower in termbase:
-            kw["hi"] = termbase[key_lower]
-        # grade field stays as set in the original file
-
-# Save updated JSON (write to /tmp first, then copy to avoid filesystem issues)
-import shutil, tempfile
-
-tmp = f"/tmp/{GRADE_FILE[grade]}"
-with open(tmp, "w", encoding="utf-8") as f:
-    json.dump(kw_data, f, ensure_ascii=False, indent=2)
-shutil.copy2(tmp, f"{OUT}/{GRADE_FILE[grade]}")
-
-# Verify
-with open(f"{OUT}/{GRADE_FILE[grade]}", encoding="utf-8") as f:
-    check = json.load(f)
-print(f"Saved {len(check)} verses. Updated hi_text for {len(translated_verses)} verses.")
-```
-
-**Important:** Only update `hi_text` and keyword `hi` fields. Never modify `text`,
-`bo_text`, `key`, `rank`, `score`, `count`, `bo`, or `grade` fields — those are managed
-by other skills.
-
-### Step 7 — Markdown output
-
-Also write a clean markdown file for human reading:
+**Output format — one line per verse:**
 
 ```markdown
-# Hindi Translation — <grade> grade
-## Verse <id>
-
-**Tibetan:** <bo_text>
-**English:** <text>
-**Hindi (<grade>):** <translation>
-
----
+{hi_text} ^{verse_id}
 ```
 
-Save to the user-specified path or `3-TRANSFORMATIONS/Translations/hi-<grade>/`.
+Example:
+
+```markdown
+सुगत, उनके पुत्रों (बोधिसत्त्वों) और धर्मकाय को मेरा प्रणाम। आगमों (शास्त्रों) के अनुसार, मैं संक्षेप में बोधिसत्त्व के आचरण का वर्णन करूँगा॥ ^1-1
+```
+
+Rules:
+- Multi-line verse translations use `\n` within the block; the block ID `^{verse_id}`
+  always appears at the end of the last line.
+- Heading verses (`^N-0`, `^N-N-0`) are rendered as markdown headings followed by
+  the block ID: `## {hi_text} ^{verse_id}`.
+- Blank line between each verse block.
+- No English, no Tibetan, no metadata — Hindi only.
+
+**Python snippet to generate the file:**
+
+```python
+out_lines = []
+for vid, verse in sorted_verses:
+    hi = verse.get("hi_text", "").strip()
+    if not hi:
+        continue
+    parts = vid.split("-")
+    is_heading = len(parts) >= 2 and parts[-1] == "0"
+    if is_heading:
+        out_lines.append(f"## {hi} ^{vid}")
+    else:
+        out_lines.append(f"{hi} ^{vid}")
+    out_lines.append("")
+
+md_path = user_path or f"3-TRANSFORMATIONS/Translations/hi-{grade}/bca-hi-{grade}.md"
+with open(md_path, "w", encoding="utf-8") as f:
+    f.write("\n".join(out_lines))
+print(f"Saved {len(out_lines)//2} verses to {md_path}")
+```
+
+Save to the user-specified path or `3-TRANSFORMATIONS/Translations/hi-<grade>/bca-hi-<grade>.md`.
 
 ---
 
@@ -266,8 +258,6 @@ When the user wants a grade that has no existing `hi_text`:
 - [ ] Locked terms identified per verse before translation.
 - [ ] Translation produced at correct grade register.
 - [ ] Consistency check passed: same Hindi form for same term across all verses.
-- [ ] `hi_text` updated in `kw_data` for each translated verse.
-- [ ] `hi` field updated on every keyword entry using the termbase.
-- [ ] JSON file saved (via /tmp to avoid filesystem issues); verified with `json.load`.
-- [ ] Markdown file written if output path provided.
-- [ ] No `text`, `bo_text`, `key`, `rank`, `score`, `count`, `bo`, or `grade` fields modified.
+- [ ] Markdown file written: one verse per block, Hindi text followed by `^{verse_id}`.
+- [ ] Heading verses rendered as `## {hi_text} ^{verse_id}`.
+- [ ] No JSON files modified.

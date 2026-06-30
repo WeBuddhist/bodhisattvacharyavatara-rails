@@ -322,3 +322,9 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 **Inputs:** `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md`, `4-SYSTEM/scripts/english_keyword/output/en-David_Karma_Choephel_en_bo_keyword_meaning_enriched.json`, user-supplied annotated Hindi file.
 **Outputs:** `4-SYSTEM/scripts/english_keyword/output/bo_hi_keyword_beginner.json`, `…intermediate.json`, `…advanced.json`.
 → [`bo-hi-keyword-grade/SKILL.md`](bo-hi-keyword-grade/SKILL.md)
+
+### `bo-hi-translate` **[exists]**
+**Purpose:** Translates a BCA passage (English verse translation or Tibetan) into Hindi at a specified audience grade (beginner / general / intermediate / advanced), enforcing term consistency throughout by loading the grade-appropriate keyword termbase (`bo_hi_keyword_*.json`). Scans source for recognised terms, locks their Hindi equivalents, translates at the correct register, runs a consistency check, and outputs a term table alongside the translation.
+**Inputs:** Source text (English or Tibetan), target audience grade, optional verse IDs, optional output path.
+**Outputs:** Hindi translation at the target grade with a locked-term table; optionally saved to `3-TRANSFORMATIONS/Translations/hi-<grade>/`.
+→ [`bo-hi-translate/SKILL.md`](bo-hi-translate/SKILL.md)

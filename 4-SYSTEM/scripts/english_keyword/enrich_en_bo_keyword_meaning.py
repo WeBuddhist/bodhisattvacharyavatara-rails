@@ -10,9 +10,11 @@ Usage:
     python 4-SYSTEM/scripts/english_keyword/enrich_en_bo_keyword_meaning.py
     python 4-SYSTEM/scripts/english_keyword/enrich_en_bo_keyword_meaning.py --limit 20
     python 4-SYSTEM/scripts/english_keyword/enrich_en_bo_keyword_meaning.py --resume
+    python 4-SYSTEM/scripts/english_keyword/enrich_en_bo_keyword_meaning.py --workers 10
 """
 
-import os, sys, json, re, time, argparse, pathlib, warnings
+import os, sys, json, re, time, argparse, pathlib, warnings, threading
+from concurrent.futures import ThreadPoolExecutor, as_completed
 warnings.filterwarnings("ignore", category=FutureWarning, module="google")
 
 
@@ -74,6 +76,11 @@ SYSTEM_PROMPT = (
 
 _VERSE_MARKER = re.compile(r"\^([\w][\w\-]*\d+)\s*$")
 
+# Thread-local Gemini client (one client per thread)
+_thread_local = threading.local()
+_api_key_global = ""
+_model_global = _DEFAULT_MODEL
+
 
 # ---------------------------------------------------------------------------
 # Loaders
@@ -117,6 +124,13 @@ def load_tibetan_verses(path):
 # Gemini helpers
 # ---------------------------------------------------------------------------
 
+def get_client():
+    """Return a thread-local Gemini client."""
+    if not hasattr(_thread_local, "client"):
+        _thread_local.client = genai.Client(api_key=_api_key_global)
+    return _thread_local.client
+
+
 def parse_json_response(text):
     text = re.sub(r"^```[a-z]*\n?", "", text.strip()).rstrip("`").strip()
     try:
@@ -128,11 +142,12 @@ def parse_json_response(text):
     return {}
 
 
-def call_gemini(client, model, prompt, system, retries=3):
+def call_gemini(prompt, system, retries=3):
+    client = get_client()
     for attempt in range(1, retries + 1):
         try:
             resp = client.models.generate_content(
-                model=model,
+                model=_model_global,
                 contents=prompt,
                 config=types.GenerateContentConfig(
                     system_instruction=system,
@@ -142,17 +157,22 @@ def call_gemini(client, model, prompt, system, retries=3):
             )
             return (resp.text or "").strip()
         except Exception as e:
-            print("      attempt " + str(attempt) + " error: " + str(e))
-            time.sleep(2 * attempt)
+            msg = str(e)
+            wait = 2 * attempt
+            # Back off longer on rate limit errors
+            if "429" in msg or "quota" in msg.lower() or "rate" in msg.lower():
+                wait = 10 * attempt
+            print("  [retry " + str(attempt) + "] " + msg[:80])
+            time.sleep(wait)
     return ""
 
 
-def get_tibetan_meanings(client, model, en_verse, bo_verse, keywords):
+def get_tibetan_meanings(en_verse, bo_verse, keywords):
     """
-    Step 1: ask for all keywords in one call.
+    Step 1: batch call all keywords.
     Step 2: retry missing ones individually.
-    Step 3: fallback plain translation for still-missing ones.
-    Returns {keyword: tibetan_text} for every keyword.
+    Step 3: fallback plain translation.
+    Returns {keyword: tibetan_text}.
     """
     kw_list = "\n".join("- " + kw for kw in keywords)
     prompt = (
@@ -162,7 +182,7 @@ def get_tibetan_meanings(client, model, en_verse, bo_verse, keywords):
         "Keywords:\n" + kw_list + "\n\n"
         "Return JSON only: {\"keyword\": \"Tibetan meaning\", ...}"
     )
-    result = parse_json_response(call_gemini(client, model, prompt, SYSTEM_PROMPT))
+    result = parse_json_response(call_gemini(prompt, SYSTEM_PROMPT))
 
     missing = [kw for kw in keywords if not result.get(kw, "").strip()]
     for kw in missing:
@@ -173,7 +193,7 @@ def get_tibetan_meanings(client, model, en_verse, bo_verse, keywords):
             "What is the Tibetan word or phrase for \"" + kw + "\" in this verse?\n"
             "Return JSON only: " + hint
         )
-        parsed = parse_json_response(call_gemini(client, model, single, SYSTEM_PROMPT))
+        parsed = parse_json_response(call_gemini(single, SYSTEM_PROMPT))
         if parsed.get(kw, "").strip():
             result[kw] = parsed[kw]
         else:
@@ -182,11 +202,51 @@ def get_tibetan_meanings(client, model, en_verse, bo_verse, keywords):
                 "Translate the English word \"" + kw + "\" into Tibetan script. "
                 "Return JSON only: " + fb_hint
             )
-            parsed2 = parse_json_response(call_gemini(client, model, fb, "Reply in Tibetan script only."))
+            parsed2 = parse_json_response(call_gemini(fb, "Reply in Tibetan script only."))
             result[kw] = parsed2.get(kw, "").strip()
-        time.sleep(0.3)
 
     return result
+
+
+# ---------------------------------------------------------------------------
+# Verse worker
+# ---------------------------------------------------------------------------
+
+def process_verse(args_tuple):
+    """Process a single verse. Runs in a thread pool worker."""
+    vid, v, bo_text, idx, total = args_tuple
+    en_text = v["text"]
+    kws     = v.get("keywords", [])
+    if not kws:
+        return vid, None
+
+    kw_keys = [kw["key"] for kw in kws]
+
+    if bo_text:
+        bo_meanings = get_tibetan_meanings(en_text, bo_text, kw_keys)
+    else:
+        bo_meanings = {}
+
+    kw_entries = []
+    for kw in kws:
+        kw_entries.append({
+            "key":   kw["key"],
+            "rank":  kw.get("rank",  0),
+            "score": kw.get("score", 0),
+            "count": kw.get("count", 1),
+            "bo":    bo_meanings.get(kw["key"], ""),
+        })
+
+    filled  = sum(1 for kw in kw_entries if kw["bo"])
+    missing = len(kw_entries) - filled
+    status  = str(filled) + "/" + str(len(kw_entries)) + " filled"
+    if missing:
+        status += "  !" + str(missing) + " empty"
+    if not bo_text:
+        status = "(no Tibetan verse)"
+
+    print("[" + str(idx) + "/" + str(total) + "] " + vid + "  " + status)
+    return vid, {"text": en_text, "keywords": kw_entries}
 
 
 # ---------------------------------------------------------------------------
@@ -213,17 +273,21 @@ def parse_args():
     p.add_argument("--model",   default=_DEFAULT_MODEL)
     p.add_argument("--limit",   default=None, type=int)
     p.add_argument("--resume",  action="store_true")
-    p.add_argument("--delay",   default=0.5, type=float)
+    p.add_argument("--workers", default=5, type=int, help="Parallel Gemini workers (default 5)")
+    p.add_argument("--save-every", default=20, type=int, help="Save after every N completed verses")
     return p.parse_args()
 
 
 def main():
+    global _api_key_global, _model_global
+
     args = parse_args()
 
-    api_key = os.environ.get("GEMINI_API_KEY", "")
-    if not api_key:
+    _api_key_global = os.environ.get("GEMINI_API_KEY", "")
+    if not _api_key_global:
         print("Error: GEMINI_API_KEY not set.")
         sys.exit(1)
+    _model_global = args.model
 
     tfidf_path   = pathlib.Path(args.tfidf).resolve()   if args.tfidf   else _DEFAULT_TFIDF
     tibetan_path = pathlib.Path(args.tibetan).resolve() if args.tibetan else _DEFAULT_TIBETAN
@@ -232,8 +296,6 @@ def main():
 
     stem     = tfidf_path.stem.replace("_verse_keywords", "")
     out_path = outdir / (stem + "_en_bo_keyword_meaning_enriched.json")
-
-    client = genai.Client(api_key=api_key)
 
     print("Loading verse keywords -> " + tfidf_path.name)
     tfidf_data = load_json(tfidf_path)
@@ -252,45 +314,13 @@ def main():
         verse_ids = verse_ids[: args.limit]
 
     todo = [vid for vid in verse_ids if vid not in result] if args.resume else verse_ids
-    print("Verses to process: " + str(len(todo)) + "  (total: " + str(len(verse_ids)) + ")\n")
+    total = len(todo)
+    print("Verses to process: " + str(total) + "  workers=" + str(args.workers) + "\n")
 
-    for i, vid in enumerate(todo, 1):
-        v       = tfidf_data[vid]
-        en_text = v["text"]
-        bo_text = tibetan.get(vid, "")
-        kws     = v.get("keywords", [])
+    save_lock = threading.Lock()
+    completed = [0]
 
-        if not kws:
-            continue
-
-        kw_keys = [kw["key"] for kw in kws]
-        print("[" + str(i) + "/" + str(len(todo)) + "] " + vid + "  (" + str(len(kw_keys)) + " keywords)", end=" ... ", flush=True)
-
-        if bo_text:
-            bo_meanings = get_tibetan_meanings(client, args.model, en_text, bo_text, kw_keys)
-        else:
-            bo_meanings = {}
-            print("(no Tibetan verse)", end=" ")
-
-        kw_entries = []
-        for kw in kws:
-            kw_entries.append({
-                "key":   kw["key"],
-                "rank":  kw.get("rank",  0),
-                "score": kw.get("score", 0),
-                "count": kw.get("count", 1),
-                "bo":    bo_meanings.get(kw["key"], ""),
-            })
-
-        result[vid] = {"text": en_text, "keywords": kw_entries}
-
-        filled  = sum(1 for kw in kw_entries if kw["bo"])
-        missing = len(kw_entries) - filled
-        status  = str(filled) + "/" + str(len(kw_entries)) + " filled"
-        if missing:
-            status += "  ! " + str(missing) + " empty"
-        print(status)
-
+    def save_result():
         out_path.write_text(
             json.dumps(
                 dict(sorted(result.items(), key=lambda kv: verse_key(kv[0]))),
@@ -300,9 +330,24 @@ def main():
             encoding="utf-8",
         )
 
-        if args.delay:
-            time.sleep(args.delay)
+    tasks = [
+        (vid, tfidf_data[vid], tibetan.get(vid, ""), idx, total)
+        for idx, vid in enumerate(todo, 1)
+    ]
 
+    with ThreadPoolExecutor(max_workers=args.workers) as pool:
+        futures = {pool.submit(process_verse, t): t[0] for t in tasks}
+        for future in as_completed(futures):
+            vid, entry = future.result()
+            if entry is None:
+                continue
+            with save_lock:
+                result[vid] = entry
+                completed[0] += 1
+                if completed[0] % args.save_every == 0:
+                    save_result()
+
+    save_result()
     print("\nDone. Written -> " + str(out_path) + "  (" + str(len(result)) + " verses)")
 
 

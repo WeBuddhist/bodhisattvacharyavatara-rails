@@ -316,3 +316,15 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 **Inputs:** `3-TRANSFORMATIONS/Plans/DKR-Fellow/schedule.md` (verse assignment), `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` (root text verses ^10-45–^10-58), `3-TRANSFORMATIONS/Plans/DKR-Fellow/DKR-Teaching-Assignment-to-Days.md` (DKR teaching, Day-63 section ^9-39–^9-43).
 **Outputs:** `3-TRANSFORMATIONS/Plans/DKR-Fellow/Day-63-Ch10-V45-58.md` filled with the complete 5-section practice plan.
 → [`DKR Fellow Plan/SKILL.md`](4-SYSTEM/Skills/DKR-Fellow-Plan-Generator/SKILL.md)
+
+### `bo-hi-keyword-grade` **[exists]**
+**Purpose:** Enrich the existing English-Tibetan verse keyword JSON with Hindi translations and audience-grade classifications. Reads Tibetan verse text from the canonical source and Hindi translations from a user-supplied annotated Hindi file (with `[grade:beginner/intermediate/advanced]` markers). Produces three separate output JSON files — one per audience grade — each with `bo_text`, `hi_text` per verse and `hi`, `grade` per keyword. Keywords are filtered by rank cutoff per grade (≤200 beginner, ≤500 intermediate, all for advanced).
+**Inputs:** `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md`, `4-SYSTEM/scripts/english_keyword/output/en-David_Karma_Choephel_en_bo_keyword_meaning_enriched.json`, user-supplied annotated Hindi file.
+**Outputs:** `4-SYSTEM/scripts/english_keyword/output/bo_hi_keyword_beginner.json`, `…intermediate.json`, `…advanced.json`.
+→ [`bo-hi-keyword-grade/SKILL.md`](bo-hi-keyword-grade/SKILL.md)
+
+### `bo-hi-translate` **[exists]**
+**Purpose:** Translates a BCA passage (English verse translation or Tibetan) into Hindi at a specified audience grade (beginner / general / intermediate / advanced), enforcing term consistency throughout by loading the grade-appropriate keyword termbase (`bo_hi_keyword_*.json`). Scans source for recognised terms, locks their Hindi equivalents, translates at the correct register, runs a consistency check, and outputs a term table alongside the translation.
+**Inputs:** Source text (English or Tibetan), target audience grade, optional verse IDs, optional output path.
+**Outputs:** Hindi translation at the target grade with a locked-term table; optionally saved to `3-TRANSFORMATIONS/Translations/hi-<grade>/`.
+→ [`bo-hi-translate/SKILL.md`](bo-hi-translate/SKILL.md)

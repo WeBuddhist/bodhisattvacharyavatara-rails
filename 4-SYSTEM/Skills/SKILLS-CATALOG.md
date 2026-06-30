@@ -96,6 +96,12 @@ These skills populate `2-RAILS/` with the structured context that translation an
 **Outputs:** One file at `2-RAILS/Verses/<verse-id>.md` with: Sanskrit + Tibetan source transclusions; per-commentary English paraphrase (Traditional Interpretation) + Divergences; and the Tibetan descriptive layers — an AI-Overview synthesis (generation prompt lives in the skill), a chendrel (ཚིག་འགྲེལ) word-commentary replacing the old UCCA layer, word-by-word disambiguation, key concepts (in-verse / from-commentary), attached stories, metaphors, scriptural quotations, and a disambiguated restatement. Format is authoritative in `2-RAILS/About Rails.md` §5.
 → [`verse-context/SKILL.md`](verse-context/SKILL.md)
 
+### `Verse-package-file-creator` **[exists]**
+**Purpose:** Extract four targeted commentary elements — story (གཏམ་རྒྱུད/སྒྲུང), extended information (ཞར་བྱུང), keyword explanation (ཚིག་འགྲེལ), and key-concept explanation (གནད་དོན) — for one verse, by tracing the verse through its block-transclusion into one or more commentaries. A lighter, focused relative of `verse-context` that produces only those four Tibetan layers rather than the full rail.
+**Inputs:** A verse (text or verse ID), the `1-SOURCES/` root file carrying its block ID, one or more commentary files that transclude the verse, and an output filename.
+**Outputs:** One extraction file at `2-RAILS/Verses/<output-filename>.md` — the four elements in Tibetan, each cited to its commentary block (falling back to the verse-transclusion anchor when commentary prose is un-stamped), with ⚑ divergences when multiple commentaries disagree. `status: draft`.
+→ [`Verse-package-file-creator/SKILL.md`](Verse-package-file-creator/SKILL.md)
+
 ### `local-wiki-article` **[exists]**
 **Purpose:** Create or update a Local-Wiki article for one key term.
 **Inputs:** Commentary passages that explain or define the term (via block citations from `1-SOURCES/`).
@@ -204,6 +210,12 @@ Audits the vault for consistency: checks that all linked files exist, frontmatte
 **Inputs:** (Type 1) Two root-text/translation file paths and an optional verse range; (Type 2) verse ID(s), root-text file path, and one or more commentary file paths with commentary type.
 **Outputs:** Target file(s) modified in place with `![[file#^block-id]]` transclusion links inserted; no new files created.
 → [`transclusion/SKILL.md`](transclusion/SKILL.md)
+
+### `Transclusion-rootext-into-commentaries` **[exists]**
+**Purpose:** Transclude root-text verses into a Tibetan commentary and format the blank-line spacing around each transclusion, via a three-stage scripted pipeline: (1) insert `![[root#^N-V]]` before each verse's first full inline quotation in the commentary (variant-tolerant; full stanza preferred over passing citations), (2) remove the blank line between the preceding commentary line and the transclusion, (3) add a blank line before the sa-bcad (ས་བཅད) block that introduces the verse — before the first line of a preceding enumeration when one exists, and nothing when the line above is prose/connector/conclusion.
+**Inputs:** `root` (root/translation path with `^N-V` block IDs), `commentary` (Tibetan commentary path), `link-base` (transclusion link base, e.g. `bo-བློ་ལྡན་ཤེས་རབ།`), optional `chapter`.
+**Outputs:** The commentary file modified in place — only inserted `![[…]]` lines and the blank lines immediately around them; no commentary text changed. Bundles three dry-runnable Python scripts under `scripts/`.
+→ [`Transclusion-rootext-into-commentaries/SKILL.md`](Transclusion-rootext-into-commentaries/SKILL.md)
 
 ### `tibetan-ocr-quality` **[exists]**
 **Purpose:** Calculate perplexity of a Tibetan OCR output file using KenLM and Botok normalization to assess OCR quality.

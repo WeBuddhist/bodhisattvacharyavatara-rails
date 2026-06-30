@@ -120,16 +120,59 @@ If verse IDs are provided, look them up in `kw_data` to get:
 - existing `hi_text` — use as reference draft if present
 
 If no verse IDs are given, treat the supplied source text as a free passage and skip
-the JSON write-back (translate only, no update).
+the JSON write-back (translate only, no output).
 
-### Step 3 — Scan source for locked terms
+### Step 3 — Split into chunks with overlap
 
-Before translating each verse, scan its English text for keywords that appear in the
-termbase. These become **locked terms** — their Hindi equivalent is fixed for this
-translation:
+Divide the full verse list into chunks of **20 verses** with a **5-verse overlap**
+so that narrative and doctrinal context is never lost at a chunk boundary.
+
+```python
+CHUNK_SIZE = 20
+OVERLAP    = 5
+STEP       = CHUNK_SIZE - OVERLAP   # = 15 new verses per chunk
+
+verse_list = list(sorted_verses)    # ordered list of (vid, entry) tuples
+chunks = []
+i = 0
+while i < len(verse_list):
+    chunk = verse_list[i : i + CHUNK_SIZE]
+    chunks.append(chunk)
+    if i + CHUNK_SIZE >= len(verse_list):
+        break
+    i += STEP
+
+print(f"{len(verse_list)} verses → {len(chunks)} chunks "
+      f"(size={CHUNK_SIZE}, overlap={OVERLAP}, step={STEP})")
+```
+
+For each chunk:
+- The **first 5 verses** (overlap zone from the previous chunk) are shown as
+  **context only** — already translated, not re-translated.
+- The **remaining up to 15 verses** are the **new work** for this chunk.
+- On the very first chunk all 20 verses are new work (no prior overlap).
+
+Mark the boundary clearly when prompting the model:
 
 ```
-Locked terms for verse 1-1:
+=== CONTEXT (already translated — do not re-translate) ===
+[verses i to i+4]
+
+=== TRANSLATE THESE ===
+[verses i+5 to i+19]
+```
+
+This ensures the model sees the vocabulary, tone, and doctrinal flow established
+in the preceding verses before producing new translations.
+
+### Step 4 — Scan source for locked terms (per chunk)
+
+Before translating each chunk, scan the English text of all **new-work verses**
+for keywords that appear in the termbase. These become **locked terms** — their
+Hindi equivalent is fixed:
+
+```
+Locked terms for this chunk:
   bodhisattva → बोधिसत्त्व
   suffering   → दुःख
   merit       → पुण्य
@@ -138,7 +181,9 @@ Locked terms for verse 1-1:
 Do not substitute synonyms for locked terms. Consistency across the corpus outweighs
 per-verse elegance.
 
-### Step 4 — Translate
+### Step 5 — Translate (chunk by chunk)
+
+Process one chunk at a time. For each new-work verse in the chunk:
 
 **If `hi_text` already exists in the JSON:** use it as a base draft, then adapt the
 register to the target grade (up or down). This is faster and preserves any
@@ -165,16 +210,16 @@ applying locked terms and the grade register below.
 4. **Grammatical inflection is allowed.** `बोधिसत्त्व` may become `बोधिसत्त्व को`
    etc. — inflection is not a consistency violation.
 
-### Step 5 — Consistency check
+### Step 6 — Consistency check
 
-After drafting all translations:
+After all chunks are translated:
 
 1. Re-scan every output verse for locked terms. Verify each uses the correct Hindi form.
 2. If any term appears in two different Hindi forms across verses, fix both to the
    termbase value.
 3. For beginner: confirm no unglossed Sanskrit term survived.
 
-### Step 6 — Write markdown output
+### Step 7 — Write markdown output
 
 Write a clean markdown file that mirrors the structure of source translation files in
 `1-SOURCES/Translations/`. Each verse is one block: the Hindi translation followed
@@ -255,7 +300,9 @@ When the user wants a grade that has no existing `hi_text`:
 
 - [ ] Grade specified; correct termbase file loaded.
 - [ ] Global termbase built from all verses in the file.
-- [ ] Locked terms identified per verse before translation.
+- [ ] Verse list split into chunks of 20, overlap 5, step 15.
+- [ ] Each chunk: overlap zone shown as context only; new-work verses translated.
+- [ ] Locked terms identified per chunk before translating.
 - [ ] Translation produced at correct grade register.
 - [ ] Consistency check passed: same Hindi form for same term across all verses.
 - [ ] Markdown file written: one verse per block, Hindi text followed by `^{verse_id}`.

@@ -1,11 +1,13 @@
 ---
 name: verse-context-batch
-description: Build all verse-level context packages for one chapter in bulk — scans every commentary to produce a complete block-ID mapping, then generates one 2-RAILS/Verses/<verse-id>.md file per verse in that chapter.
+description: Build all verse-level context packages for one chapter in bulk — traces root-text verse transclusions already embedded in each commentary to locate the relevant passage, then generates one 2-RAILS/Verses/<verse-id>.md file per verse in that chapter.
 ---
 
 # verse-context-batch
 
 This skill produces a complete set of verse-level context packages for an entire chapter, using a Python script to generate all files in one pass after the source-scanning phase is complete. It exists because building 30+ verse packages one at a time with `verse-context` is slow and prone to mapping inconsistencies between files — this skill enforces a single mapping table that every package in the chapter is generated from.
+
+**How commentary passages are located:** The Transcluded commentary files already have the root-text verses embedded in them as Obsidian transclusions (e.g. `![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-2]]`). The text between one verse transclusion and the next is the commentary on that verse. To find the relevant passage for any verse, locate its transclusion in the commentary file and read the blocks that follow it up to (but not including) the next verse transclusion. There is no need to read the whole commentary text.
 
 The output of this skill is identical in format to what `verse-context` produces for individual verses: each file has a verse transclusion, commentary passage transclusions, Tibetan synthesis prose per commentary, a Consensus section, and a disambiguated verse with block citations. Status is always `draft` on generation; a domain specialist marks files `complete` after review.
 
@@ -107,15 +109,13 @@ status: draft
 
 ## Rules
 
-1. **Read before mapping.** Never guess block ranges. Read each commentary section in full before assigning block IDs to verses. Commentary structure frequently does not align one-to-one with root-text verses.
-2. **Ngülchu's section numbers are his own, not root-text verse numbers.** `### 1.7` in Ngülchu means his structural section 7 of Chapter 1 — it covers multiple root-text verses. Map his sections to root-text verses by reading the content.
-3. **Sabzang's Chapter 1 body has two large prose sections.** Section 1.1 (blocks `^1-1-1` to `^1-1-46`) covers root-text verses 1-4 through 1-17; Section 1.2 (blocks `^1-2-1` to `^1-2-38`) covers verses 1-18 through 1-36. Blocks may straddle verse boundaries — include the block in both verse packages where this occurs.
-4. **Kunpal's blocks are sequential.** His Chapter 1 body runs from approximately `^0-127` onward. Map ranges by scanning for verse-heading markers. File: `1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md`.
-5. **Do not overwrite existing files.** If `2-RAILS/Verses/<verse-id>.md` already exists, skip it silently.
-6. **Status is always `draft` on generation.** Never set `status: complete` — that is a human domain-specialist decision.
-7. **Synthesis prose must be in Tibetan only.** No English in any synthesis subsection.
-8. **Every synthesis claim must cite a source block.** Format: `(1-SOURCES/Commentaries/Transcluded/<file>.md#^<block-id>)` inline at the end of the claim.
-9. **Save the generation script to `0-INBOX/`.** This preserves the mapping table for audit and re-runs.
+1. **Trace transclusions, do not read whole files.** Each commentary in `Transcluded/` has root-text verses embedded as transclusion lines. Grep for the target verse transclusion (e.g. `![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-2]]`) to find its location in the file, then read only the blocks from that line until the next verse transclusion. Those blocks are the commentary on that verse. Never read the whole commentary to build a mapping.
+2. **A block that straddles two verse transclusions belongs to both.** If a block begins before verse N's transclusion and ends after it, include it in verse N's package and in verse N−1's package.
+3. **Do not overwrite existing files.** If `2-RAILS/Verses/<verse-id>.md` already exists, skip it silently.
+4. **Status is always `draft` on generation.** Never set `status: complete` — that is a human domain-specialist decision.
+5. **Synthesis prose must be in Tibetan only.** No English in any synthesis subsection.
+6. **Every synthesis claim must cite a source block.** Format: `(1-SOURCES/Commentaries/Transcluded/<file>.md#^<block-id>)` inline at the end of the claim.
+7. **Save the generation script to `0-INBOX/`.** This preserves the mapping table for audit and re-runs.
 
 ---
 
@@ -123,24 +123,28 @@ status: draft
 
 ### Phase 1 — Verify prerequisites
 
-1. Confirm all three primary commentary files in `1-SOURCES/Commentaries/Transcluded/` have block IDs throughout. If any lacks block IDs, run `format-commentary` on it first and do not proceed until that is complete.
+1. Confirm all three primary commentary files in `1-SOURCES/Commentaries/Transcluded/` contain verse transclusion lines for the target chapter. If a file lacks transclusions, it cannot be traced — flag and skip it.
 2. Confirm `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` has block IDs for every verse in the target chapter (format `^<chapter>-<verse>`).
 3. Note which verse files in `2-RAILS/Verses/` already exist and will be skipped.
 
-### Phase 2 — Build the block mapping table
+### Phase 2 — Build the block mapping table by tracing transclusions
 
-For each commentary, read the relevant chapter section(s) and record the block ID range that covers each root-text verse. Produce a mapping table of this shape:
+For each commentary file and each verse in the target range, locate the relevant passage by tracing the embedded transclusions:
+
+1. **Grep** the commentary file for the verse's transclusion line, e.g.:
+   `![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^<chapter>-<verse>]]`
+2. **Read forward** from that line until the next verse transclusion (the commentary on the following verse begins there).
+3. **Collect all block IDs** (`^<id>`) found in that span — these are the commentary blocks for this verse.
+4. **Record** the block ID list in the mapping table.
+
+Produce a mapping table of this shape:
 
 | Verse | Kunpal blocks | Ngülchu blocks | Sabzang blocks |
 |-------|--------------|----------------|----------------|
-| 1-4   | ^0-176 to ^0-187 | ^1-3-1 to ^1-3-16 | ^1-1-1 to ^1-1-3 |
+| 1-2   | ^… to ^… | ^… | ^… to ^… |
 | ...   | ...          | ...            | ...    |
 
-**Kunpal** (`BCAC19_KKP_bo_segmented.md`): Scan Chapter 1 body sequentially. Identify verse heading markers (e.g. `ཚིགས་སུ་བཅད་པ་བཞི་པ།`) to delimit block ranges per verse.
-
-**Ngülchu** (`BCAC14_NTS_bo_segmented.md`): Read each structural section heading (`### 1.X`). Read the section body to determine which root-text verses it covers. Note that multiple verses may fall within one section, and multiple sections may be needed for one verse.
-
-**Sabzang** (`BCAC14_SMPLG_bo_segmented.md`): Read Section 1.1 (blocks `^1-1-1` to `^1-1-46`) and Section 1.2 (blocks `^1-2-1` to `^1-2-38`) in full. Map each block to the root-text verse whose content it discusses. Where a block straddles two verses, include it in both.
+If a verse transclusion is absent from a commentary (the verse was skipped by that commentator), record the entry as empty and omit that commentary's subsection from the output file.
 
 ### Phase 3 — Draft synthesis descriptions
 
@@ -178,9 +182,9 @@ Confirm the generation script is saved to `0-INBOX/`. Report: total files genera
 
 ---
 
-## Commentary block-ID reference (Chapter 1, BCA vault)
+## Commentary block-ID reference (Chapter 1, BCA vault) — historical record
 
-This section records the mapping used for Chapter 1 of the Bodhisattvacaryāvatāra so subsequent runs can verify or extend it without re-reading all sources.
+This section records block mappings produced by an earlier run of this skill using the pre-transclusion method. It is kept for audit purposes only. **Do not use these tables as input for new runs** — always derive block ranges by tracing the verse transclusions in the commentary files as described in Phase 2.
 
 ### Kunpal (`BCAC19_KKP_bo_segmented.md`)
 
@@ -315,9 +319,8 @@ Chapter 1 body has two large prose sections. Introduction runs through `^0-2-11`
 
 ## Completion check
 
-- [ ] All three primary commentary files in `1-SOURCES/Commentaries/Transcluded/` confirmed to have block IDs before mapping begins
-- [ ] Block mapping table built by reading source files (not guessed)
-- [ ] Ngülchu section numbers confirmed not conflated with root-text verse numbers
+- [ ] All three primary commentary files confirmed to contain verse transclusion lines for the target chapter
+- [ ] Block mapping table built by tracing transclusions (not by reading whole files or guessing)
 - [ ] Generation script saved to `0-INBOX/verse-context-batch-ch<N>.py`
 - [ ] Script run successfully; printed summary matches expected file count
 - [ ] Three spot-checked files pass format verification

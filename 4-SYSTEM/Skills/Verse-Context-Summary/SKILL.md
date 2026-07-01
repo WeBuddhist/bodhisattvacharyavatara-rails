@@ -16,7 +16,7 @@ Authoritative vault conventions (commentary IDs, addressing, language rules): [`
 
 - **Verse ID** — block ID without caret, e.g. `1-1`, `6-33`. Chapter-verse format; numbers are not zero-padded.
 - **Commentary files** — all relevant files under `1-SOURCES/Commentaries/Transcluded/`. Use the `registered_id` from the vault annex to attribute every claim. Tier order (lead → follow): `prajnakaramati` → `kunpal` → `mipham` → `khenpo-zhengah` → `gyaltsab` → other Tibetan → Chinese.
-- **Zhenga mchan-'grel** — `1-SOURCES/Commentaries/bo-མཁན་པོ་གཞན་དགའ།.md` (registered_id: `khenpo-zhengah`). This file is the sole source for the མཆན་འགྲེལ། section.
+- **Zhenga mchan-'grel** — `1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md` (registered_id: `khenpo-zhengah`). This file is the sole source for the མཆན་འགྲེལ། section.
 
 ## Output
 
@@ -44,7 +44,7 @@ creator: Tigerboy
 sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
-  mchan_grel: "1-SOURCES/Commentaries/bo-མཁན་པོ་གཞན་དགའ།.md"
+  mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
   commentaries: [<id>, <id>, …]
 status: draft
 ---
@@ -71,7 +71,7 @@ status: draft
 
 <Verbatim annotation text from Khenpo Zhenga's mchan-'grel for this verse. If the commentary interleaves its annotation with the root words, reproduce the full annotated passage. Present as a single prose block or as the annotated pairs (root word → gloss) as the source gives them.>
 
-→ ([[1-SOURCES/Commentaries/bo-མཁན་པོ་གཞན་དགའ།.md#^<block-id>]])
+→ ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^<block-id>]])
 
 ---
 

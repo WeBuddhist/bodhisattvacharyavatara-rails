@@ -26,7 +26,7 @@ This follows the vault-annex convention: the primary analysis language for `2-RA
 - **Verse ID** — block ID of the verse, no caret (e.g. `1-1`, `6-33`). Per-chapter numbering.
 - **Sanskrit root** — `1-SOURCES/Text/BCAV08_SH_sk.md#^<verse-id>`.
 - **Tibetan root** — `1-SOURCES/Text/<bo-root-text>.md#^<verse-id>` (transclude; if the Tibetan root-text file does not yet carry this block, the Tibetan verse must be added to a root-text file under `1-SOURCES/Text/` first — do not paste the verse into the rail).
-- **Commentary files** — every relevant `1-SOURCES/Commentaries/*.md`. For this verse, prefer:
+- **Commentary files** — every relevant file under `1-SOURCES/Commentaries/Transcluded/`. For this verse, prefer:
   - a **word-commentary / annotation** (*mchan-'grel*) source for the Chendrel and disambiguation (e.g. `BCAC19_KS_bo`);
   - **story commentaries** (*gtam-rgyud* / *sgrung-'grel*) for the Stories (e.g. `BCACXX_WR_bo`, `BCAC13_KTB_bo`);
   - scholarly commentaries for the paraphrase and concepts.
@@ -150,7 +150,7 @@ resolved made explicit. Cite the blocks that authorise each choice.>
 ## Procedure
 
 1. Read the Sanskrit and Tibetan root blocks. Confirm both block IDs exist; if the Tibetan root file lacks the block, stop and fix the root text.
-2. For each commentary, locate every block discussing this verse (may be non-contiguous). Record block IDs and the `registered_id`.
+2. **Locate verse commentary in each Transcluded file** — do not read the whole file. Root text verses are transcluded into the commentary files with the Obsidian syntax `![[...#^<verse-id>]]`. Search each file in `1-SOURCES/Commentaries/Transcluded/` for the transclusion of the target verse's block ID. All text from that transclusion up to (but not including) the next transclusion is commentary on that verse. Read only that span and record the block IDs and `registered_id`.
 3. Write **Traditional Interpretation** — one English subsection per commentary, each claim cited. Add **Divergences** if any.
 4. Write the **AI Overview** in Tibetan from the paraphrases (see prompt below).
 5. Build the **Chendrel** from the annotation source; **Word-by-word Disambiguation** for non-obvious tokens.

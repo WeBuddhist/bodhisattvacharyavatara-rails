@@ -1,8 +1,24 @@
 ---
+book_id: BCAC14_SMPLG_bo
+title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་གཞུང་དོན་རབ་གསལ་སྣང་བ་བཞུགས་སོ།
+title_in_english: "Clear Illumination of the Text's Meaning: A Commentary on Entering the Way of the Bodhisattva"
+author: ས་བཟང་མ་ཏི་པཎ་ཆེན་བློ་གྲོས་རྒྱལ་མཚན།
+author_in_english: Sabzang Mati Paṇchen Blo gros rGyal mtshan
+date: 14th century CE (1294–1376)
+language: Tibetan
+script: Tibetan Unicode
+file_type: commentary
+lang_tag: bo
+verse_id_format: chapter-verse
+registered_id: sabzang
+root_text: 1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md
+covers_verses: 1-1–10-58
+source_description: "Source unknown — to be verified"
 status: 1-segmented
 ---
 # ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་རྣམ་པར་བཤད་པ་གཞུང་དོན་རབ་གསལ་སྣང་བ་བཞུགས་སོ། །
 
+ས་བཟང་མ་ཏི་པཎ་ཆེན་བློ་གྲོས་རྒྱལ་མཚན།
 
 ༄༅། །ༀ་ན་མོ་མཉྫུ་ནཱ་ཐཱ་ཡ།
 

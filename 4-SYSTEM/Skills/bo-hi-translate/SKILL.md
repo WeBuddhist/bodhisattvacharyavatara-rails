@@ -74,28 +74,20 @@ Each file uses this structure — which is also the write-back target:
 
 ## Procedure
 
-### Step 1 — Build the termbase
+### Step 1 — Load termbase
 
-Load the grade-appropriate keyword JSON. Extract every unique `key → hi` pair across
-**all verses** to form the global termbase for this grade:
+Open the grade's keyword JSON and build a flat `key → hi` dict (first occurrence wins). This is the single source of truth for term consistency.
 
 ```python
 import json
-
-GRADE_FILE = {
-    "beginner":     "bo_hi_keyword_beginner.json",
-    "general":      "bo_hi_keyword_general.json",
-    "intermediate": "bo_hi_keyword_intermediate.json",
-    "advanced":     "bo_hi_keyword_advanced.json",
-}
-
 OUT = "4-SYSTEM/scripts/english_keyword/output"
 grade = "<target grade>"
+GRADE_FILE = {"beginner": "bo_hi_keyword_beginner.json", "general": "bo_hi_keyword_general.json",
+               "intermediate": "bo_hi_keyword_intermediate.json", "advanced": "bo_hi_keyword_advanced.json"}
 
 with open(f"{OUT}/{GRADE_FILE[grade]}", encoding="utf-8") as f:
     kw_data = json.load(f)
 
-# Global termbase: first occurrence of each key wins
 termbase = {}
 for verse in kw_data.values():
     for kw in verse.get("keywords", []):
@@ -103,171 +95,66 @@ for verse in kw_data.values():
         hi  = kw.get("hi", "")
         if hi and hi != key and key not in termbase:
             termbase[key] = hi
-
-print(f"Termbase: {len(termbase)} terms for grade={grade}")
 ```
 
-This termbase is the single source of truth for Hindi term equivalents at this grade.
-It is consistent across the whole file, so every verse will use the same Hindi word
-for the same concept.
+### Step 2 — Fetch verses by chapter
 
-### Step 2 — Identify verses to translate
-
-If verse IDs are provided, look them up in `kw_data` to get:
-- `text` (English) — source for translation
-- `bo_text` (Tibetan) — include in output unchanged
-- `keywords` — list of keyword entries to update with `hi`
-- existing `hi_text` — use as reference draft if present
-
-If no verse IDs are given, treat the supplied source text as a free passage and skip
-the JSON write-back (translate only, no output).
-
-### Step 3 — Split into chunks with overlap
-
-Divide the full verse list into chunks of **20 verses** with a **5-verse overlap**
-so that narrative and doctrinal context is never lost at a chunk boundary.
+Group verses by chapter (first segment of verse ID). Process chapters in order: 0, I, 1–10, colophon.
 
 ```python
-CHUNK_SIZE = 20
-OVERLAP    = 5
-STEP       = CHUNK_SIZE - OVERLAP   # = 15 new verses per chunk
-
-verse_list = list(sorted_verses)    # ordered list of (vid, entry) tuples
-chunks = []
-i = 0
-while i < len(verse_list):
-    chunk = verse_list[i : i + CHUNK_SIZE]
-    chunks.append(chunk)
-    if i + CHUNK_SIZE >= len(verse_list):
-        break
-    i += STEP
-
-print(f"{len(verse_list)} verses → {len(chunks)} chunks "
-      f"(size={CHUNK_SIZE}, overlap={OVERLAP}, step={STEP})")
+from collections import defaultdict
+chapters = defaultdict(list)
+for vid, entry in kw_data.items():
+    ch = vid.split("-")[0]
+    chapters[ch].append((vid, entry))
 ```
 
-For each chunk:
-- The **first 5 verses** (overlap zone from the previous chunk) are shown as
-  **context only** — already translated, not re-translated.
-- The **remaining up to 15 verses** are the **new work** for this chunk.
-- On the very first chunk all 20 verses are new work (no prior overlap).
+### Step 3 — Translate chapter by chapter
 
-Mark the boundary clearly when prompting the model:
+For each chapter:
+1. **Identify locked terms** — scan the chapter's verses for termbase matches. These Hindi forms are fixed; do not substitute synonyms.
+2. **Translate each verse** — from the English `text` field, applying locked terms and the grade register:
 
-```
-=== CONTEXT (already translated — do not re-translate) ===
-[verses i to i+4]
+| Grade | Style |
+|---|---|
+| **beginner** | Plain Hindustani. Gloss Sanskrit on first use: बोधिचित्त (सबके भले की इच्छा). |
+| **general** | Modern standard Hindi. Sanskrit Buddhist terms used freely. Flowing prose. |
+| **intermediate** | Hindi + classical Sanskrit. Terms like क्लेश, प्रज्ञा used without glosses. |
+| **advanced** | Sanskrit-rich. Full Abhidharma/Madhyamaka vocabulary. Parenthetical expansions welcome. |
 
-=== TRANSLATE THESE ===
-[verses i+5 to i+19]
-```
+Rules: locked terms override register · translate line-by-line · never add content · inflection is allowed.
 
-This ensures the model sees the vocabulary, tone, and doctrinal flow established
-in the preceding verses before producing new translations.
+### Step 4 — Consistency check
 
-### Step 4 — Scan source for locked terms (per chunk)
+After all chapters, re-scan output for locked terms. Fix any verse using a non-termbase form.
 
-Before translating each chunk, scan the English text of all **new-work verses**
-for keywords that appear in the termbase. These become **locked terms** — their
-Hindi equivalent is fixed:
+### Step 5 — Write markdown output
+
+One block per verse: Hindi text followed by its block ID on the same line. Blank line between blocks.
 
 ```
-Locked terms for this chunk:
-  bodhisattva → बोधिसत्त्व
-  suffering   → दुःख
-  merit       → पुण्य
-```
-
-Do not substitute synonyms for locked terms. Consistency across the corpus outweighs
-per-verse elegance.
-
-### Step 5 — Translate (chunk by chunk)
-
-Process one chunk at a time. For each new-work verse in the chunk:
-
-**If `hi_text` already exists in the JSON:** use it as a base draft, then adapt the
-register to the target grade (up or down). This is faster and preserves any
-human-reviewed text.
-
-**If `hi_text` is empty or absent:** translate from the English `text` field directly,
-applying locked terms and the grade register below.
-
-#### Grade registers
-
-| Grade | Audience | Hindi style |
-|---|---|---|
-| **beginner** | New to Buddhism, general public | Plain everyday Hindustani. Short sentences. No unglossed Sanskrit. Buddhist terms get a brief plain gloss on first use: बोधिचित्त (सबके भले की इच्छा). |
-| **general** | Educated general reader | Modern standard Hindi. Common Sanskrit Buddhist terms (बोधिचित्त, करुणा, धर्म) used freely without glosses. Flowing prose. |
-| **intermediate** | Students with basic Buddhist study | Mix of Hindi and classical Sanskrit. Terms like क्लेश, प्रज्ञा, समाधि used without full glosses. Precise but readable. |
-| **advanced** | Scholars, monks, serious practitioners | Sanskrit-rich. Technical Abhidharma / Madhyamaka vocabulary: सम्यकसम्बुद्ध, कुशलकर्म, परिणामना, प्रतीत्यसमुत्पाद. Parenthetical Sanskrit expansions welcome. |
-
-#### Universal translation rules
-
-1. **Locked terms override register.** The termbase value IS the grade's preferred form.
-2. **Preserve verse structure.** Translate line-by-line; keep line breaks.
-3. **Never add content.** Translate what is there; do not expand or explain beyond
-   the one-word gloss allowed for beginner grade.
-4. **Grammatical inflection is allowed.** `बोधिसत्त्व` may become `बोधिसत्त्व को`
-   etc. — inflection is not a consistency violation.
-
-### Step 6 — Consistency check
-
-After all chunks are translated:
-
-1. Re-scan every output verse for locked terms. Verify each uses the correct Hindi form.
-2. If any term appears in two different Hindi forms across verses, fix both to the
-   termbase value.
-3. For beginner: confirm no unglossed Sanskrit term survived.
-
-### Step 7 — Write markdown output
-
-Write a clean markdown file that mirrors the structure of source translation files in
-`1-SOURCES/Translations/`. Each verse is one block: the Hindi translation followed
-immediately by its Obsidian block ID on the same line.
-
-**Output format — one line per verse:**
-
-```markdown
 {hi_text} ^{verse_id}
 ```
 
-Example:
-
-```markdown
-सुगत, उनके पुत्रों (बोधिसत्त्वों) और धर्मकाय को मेरा प्रणाम। आगमों (शास्त्रों) के अनुसार, मैं संक्षेप में बोधिसत्त्व के आचरण का वर्णन करूँगा॥ ^1-1
-```
-
-Rules:
-- Multi-line verse translations use `\n` within the block; the block ID `^{verse_id}`
-  always appears at the end of the last line.
-- Heading verses (`^N-0`, `^N-N-0`) are rendered as markdown headings followed by
-  the block ID: `## {hi_text} ^{verse_id}`.
-- Blank line between each verse block.
-- No English, no Tibetan, no metadata — Hindi only.
-
-**Python snippet to generate the file:**
+Headings (`verse_id` ends in `-0`): `## {hi_text} ^{verse_id}`
 
 ```python
 out_lines = []
-for vid, verse in sorted_verses:
+for vid, verse in sorted(kw_data.items()):
     hi = verse.get("hi_text", "").strip()
     if not hi:
         continue
-    parts = vid.split("-")
-    is_heading = len(parts) >= 2 and parts[-1] == "0"
-    if is_heading:
-        out_lines.append(f"## {hi} ^{vid}")
-    else:
-        out_lines.append(f"{hi} ^{vid}")
+    is_heading = vid.split("-")[-1] == "0"
+    prefix = "## " if is_heading else ""
+    out_lines.append(f"{prefix}{hi} ^{vid}")
     out_lines.append("")
 
-md_path = user_path or f"3-TRANSFORMATIONS/Translations/hi-{grade}/bca-hi-{grade}.md"
+md_path = f"3-TRANSFORMATIONS/Translations/hi-{grade}/bca-hi-{grade}.md"
 with open(md_path, "w", encoding="utf-8") as f:
     f.write("\n".join(out_lines))
-print(f"Saved {len(out_lines)//2} verses to {md_path}")
 ```
 
-Save to the user-specified path or `3-TRANSFORMATIONS/Translations/hi-<grade>/bca-hi-<grade>.md`.
+No English, no Tibetan, no metadata — Hindi only.
 
 ---
 
@@ -300,9 +187,9 @@ When the user wants a grade that has no existing `hi_text`:
 
 - [ ] Grade specified; correct termbase file loaded.
 - [ ] Global termbase built from all verses in the file.
-- [ ] Verse list split into chunks of 20, overlap 5, step 15.
-- [ ] Each chunk: overlap zone shown as context only; new-work verses translated.
-- [ ] Locked terms identified per chunk before translating.
+- [ ] Verses grouped by chapter; chapters processed in order.
+- [ ] All verses in each chapter translated together.
+- [ ] Locked terms identified per chapter before translating.
 - [ ] Translation produced at correct grade register.
 - [ ] Consistency check passed: same Hindi form for same term across all verses.
 - [ ] Markdown file written: one verse per block, Hindi text followed by `^{verse_id}`.

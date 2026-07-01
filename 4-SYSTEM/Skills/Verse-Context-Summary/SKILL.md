@@ -204,25 +204,40 @@ status: draft
 
 ## Procedure
 
-1. **Confirm the verse ID.** Verify block `^<verse-id>` exists in `1-SOURCES/Text/BCAV08_SH_sk.md` and in `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md`. If either is absent, stop and fix the source file first.
-2. **Write ལེགས་སྦྱར།** — insert the Sanskrit transclusion `![[1-SOURCES/Text/BCAV08_SH_sk.md#^<verse-id>]]` and its inline link.
-3. **Write བོད་ཡིག** — insert the Tibetan transclusion `![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^<verse-id>]]` and its inline link.
-4. **Locate and read each commentary's verse span.** For every file in `1-SOURCES/Commentaries/Transcluded/`:
-   - `grep -n "!\\[\\[.*#\\^<verse-id>\\]\\]"` to find the transclusion line.
+### Stage 1 — Find the root text verses
+
+1. Take the verse ID provided by the user (e.g. `1-1`).
+2. Open `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` and locate block `^<verse-id>`. This is the Tibetan verse.
+3. Open `1-SOURCES/Text/BCAV08_SH_sk.md` and locate block `^<verse-id>`. This is the Sanskrit verse.
+4. If either block is missing, stop and fix the source file before continuing.
+
+### Stage 2 — Find the commentaries through transclusions
+
+5. For every file in `1-SOURCES/Commentaries/Transcluded/` (including `BCAC19_KS_bo.md`):
+   - `grep -n "!\\[\\[.*#\\^<verse-id>\\]\\]"` to find the line where the verse is transcluded into that commentary.
    - Note that line number (`LINE_START`) and the line number of the next verse transclusion (`LINE_END`).
-   - Read only lines `LINE_START` to `LINE_END − 1`. This span is the complete commentary on the target verse. Do not read beyond it.
-   - Record the commentary's `registered_id` and the block IDs of any stamped blocks in the span.
-5. **Write མཆན་འགྲེལ།** — from the `BCAC19_KS_bo.md` span only: reproduce the annotation verbatim or as annotated pairs (root word → gloss); cite the block.
-6. **Write དོན་འགྲེལ།** — one subsection per commentary in tier order, drawn from each commentary's verse span; Tibetan prose; every sentence cited. Add Divergences ⚑ if any.
-7. **Write སྒྲུང་འགྲེལ།** — from the verse spans: identify narratives across all commentaries; précis each in Tibetan; note the illustrating phrase; cite. Omit section entirely if no narrative found.
-8. **Write དཔེ།** — from the verse spans: collect metaphors and examples; state image → tenor → how the commentary develops it; cite. Omit if absent.
-9. **Write ལུང།** — from the verse spans: extract verbatim quotations; attribute to the scripture the commentary names; cite the commentary block. Omit if absent.
-10. **Write གཙོ་གནད།** — synthesise the main teaching points across all verse spans; order by centrality; cite each.
-11. **Write གནད་ཚིག** — fill the table from the commentaries' own glosses found in the verse spans; ⚑ on diverging definitions.
-12. **Write བསྡུས་དོན།** — compose the AI-Overview-style synthesis strictly from the material already written above; lead with the settled reading; cite all key bullets.
-13. **Fill frontmatter**; set `status: draft`.
-14. **Write** to `2-RAILS/Verses/<verse-id>-summary.md`.
-15. **Verification pass** — re-read each section against the source verse spans and confirm every cited item is actually present in the cited block and correctly attributed.
+   - Read only lines `LINE_START` to `LINE_END − 1`. Everything in that span is the commentary on the target verse. Do not read beyond it.
+   - Record the file's `registered_id` and the block IDs of any stamped blocks in the span.
+6. Repeat step 5 for every commentary file. Collect all verse spans before moving to Stage 3.
+
+### Stage 3 — Generate the contents
+
+7. **ལེགས་སྦྱར།** — insert transclusion `![[1-SOURCES/Text/BCAV08_SH_sk.md#^<verse-id>]]` and its inline source link.
+8. **བོད་ཡིག** — insert transclusion `![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^<verse-id>]]` and its inline source link.
+9. **མཆན་འགྲེལ།** — from the `BCAC19_KS_bo.md` span only: reproduce the annotation verbatim or as annotated pairs (root word → gloss); cite the block.
+10. **དོན་འགྲེལ།** — one subsection per commentary in tier order, drawn from each commentary's verse span; Tibetan prose; every sentence cited. Add Divergences ⚑ if any.
+11. **སྒྲུང་འགྲེལ།** — from the verse spans: identify narratives across all commentaries; précis each in Tibetan; note the illustrating phrase; cite. Omit section entirely if no narrative found.
+12. **དཔེ།** — from the verse spans: collect metaphors and examples; state image → tenor → how the commentary develops it; cite. Omit if absent.
+13. **ལུང།** — from the verse spans: extract verbatim quotations; attribute to the scripture the commentary names; cite the commentary block. Omit if absent.
+14. **གཙོ་གནད།** — synthesise the main teaching points across all verse spans; order by centrality; cite each.
+15. **གནད་ཚིག** — fill the table from the commentaries' own glosses found in the verse spans; ⚑ on diverging definitions.
+16. **བསྡུས་དོན།** — compose the AI-Overview-style synthesis strictly from the material already written above; lead with the settled reading; cite all key bullets.
+17. Fill frontmatter; set `status: draft`.
+
+### Stage 4 — Save the file
+
+18. Write the completed file to `2-RAILS/Verses/<verse-id>-summary.md`.
+19. **Verification pass** — re-read each section against the source verse spans and confirm every cited item is actually present in the cited block and correctly attributed.
 
 ---
 

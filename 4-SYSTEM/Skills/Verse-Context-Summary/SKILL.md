@@ -73,15 +73,11 @@ status: draft
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^<verse-id>]]
 
-→ [[1-SOURCES/Text/BCAV08_SH_sk.md#^<verse-id>]]
-
 ---
 
 ## བོད་ཡིག (Tibetan — བློ་ལྡན་ཤེས་རབ།)
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^<verse-id>]]
-
-→ [[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^<verse-id>]]
 
 ---
 
@@ -222,8 +218,8 @@ status: draft
 
 ### Stage 3 — Generate the contents
 
-7. **ལེགས་སྦྱར།** — insert transclusion `![[1-SOURCES/Text/BCAV08_SH_sk.md#^<verse-id>]]` and its inline source link.
-8. **བོད་ཡིག** — insert transclusion `![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^<verse-id>]]` and its inline source link.
+7. **ལེགས་སྦྱར།** — insert transclusion `![[1-SOURCES/Text/BCAV08_SH_sk.md#^<verse-id>]]`. No source link needed.
+8. **བོད་ཡིག** — insert transclusion `![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^<verse-id>]]`. No source link needed.
 9. **མཆན་འགྲེལ།** — from the `BCAC19_KS_bo.md` span only: reproduce the annotation verbatim or as annotated pairs (root word → gloss); cite the block.
 10. **དོན་འགྲེལ།** — one subsection per commentary in tier order, drawn from each commentary's verse span; Tibetan prose; every sentence cited. Add Divergences ⚑ if any.
 11. **སྒྲུང་འགྲེལ།** — from the verse spans: identify narratives across all commentaries; précis each in Tibetan; note the illustrating phrase; cite. Omit section entirely if no narrative found.
@@ -244,8 +240,8 @@ status: draft
 ## Completion check
 
 - [ ] Frontmatter complete with `verse_id`, `skill: Verse-Context-Summary`, `creator: Tigerboy`, `sources`, `status: draft`.
-- [ ] **ལེགས་སྦྱར།**: Sanskrit transclusion present and block confirmed; inline source link.
-- [ ] **བོད་ཡིག**: Tibetan transclusion present and block confirmed; inline source link.
+- [ ] **ལེགས་སྦྱར།**: Sanskrit transclusion present and block confirmed. No source link.
+- [ ] **བོད་ཡིག**: Tibetan transclusion present and block confirmed. No source link.
 - [ ] **མཆན་འགྲེལ།**: drawn from `khenpo-zhengah` only; verbatim annotation; block cited.
 - [ ] **དོན་འགྲེལ།**: one subsection per commentary in tier order; every claim cited; Divergences ⚑ where present.
 - [ ] **སྒྲུང་འགྲེལ།**: attested narratives only, précised in Tibetan, cited; section omitted if no material.

@@ -16,15 +16,11 @@ status: draft
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^1-17]]
 
-→ [[1-SOURCES/Text/BCAV08_SH_sk.md#^1-17]]
-
 ---
 
 ## བོད་ཡིག (Tibetan — བློ་ལྡན་ཤེས་རབ།)
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-17]]
-
-→ [[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-17]]
 
 ---
 

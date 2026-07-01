@@ -15,8 +15,26 @@ Authoritative vault conventions (commentary IDs, addressing, language rules): [`
 ## Inputs
 
 - **Verse ID** — block ID without caret, e.g. `1-1`, `6-33`. Chapter-verse format; numbers are not zero-padded.
-- **Commentary files** — all relevant files under `1-SOURCES/Commentaries/Transcluded/`. Use the `registered_id` from the vault annex to attribute every claim. Tier order (lead → follow): `prajnakaramati` → `kunpal` → `mipham` → `khenpo-zhengah` → `gyaltsab` → other Tibetan → Chinese.
-- **Zhenga mchan-'grel** — `1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md` (registered_id: `khenpo-zhengah`). This file is the sole source for the མཆན་འགྲེལ། section.
+- **Sanskrit root text** — `1-SOURCES/Text/BCAV08_SH_sk.md`
+- **Tibetan root text** — `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md`
+- **Commentary files** — all files under `1-SOURCES/Commentaries/Transcluded/`. The root text verses are already transcluded into every commentary file in this folder. Use the `registered_id` from the vault annex to attribute every claim. Tier order (lead → follow): `prajnakaramati` → `kunpal` → `mipham` → `khenpo-zhengah` → `gyaltsab` → other Tibetan → Chinese.
+- **Zhenga mchan-'grel** — `1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md` (registered_id: `khenpo-zhengah`). Sole source for the མཆན་འགྲེལ། section.
+
+---
+
+## How to locate a verse's commentary passage
+
+Every commentary file in `1-SOURCES/Commentaries/Transcluded/` has the root text verses transcluded into it using Obsidian syntax. The commentary on a verse is always the text that sits between that verse's transclusion and the next verse's transclusion.
+
+**Step-by-step:**
+
+1. `grep -n "!\\[\\[.*#\\^<verse-id>\\]\\]"` in each commentary file to find the transclusion line, e.g. `![[bo-བློ་ལྡན་ཤེས་རབ།.md#^1-1]]`.
+2. Note the line number of that transclusion (`LINE_START`) and the line number of the next verse transclusion (`LINE_END`).
+3. Read only the span from `LINE_START` to `LINE_END − 1`. **Do not read the entire file.** Everything in that span is the commentary on the target verse.
+4. Extract all relevant material — explanations, stories, metaphors, quotations, term glosses — from that span alone.
+5. Repeat for every commentary file in `1-SOURCES/Commentaries/Transcluded/`.
+
+This targeted read replaces any need to scan full commentary files. Apply it identically to `BCAC19_KS_bo.md` for the མཆན་འགྲེལ། section.
 
 ## Output
 
@@ -172,33 +190,39 @@ status: draft
 1. **Transclusions, not copies.** ལེགས་སྦྱར། and བོད་ཡིག use `![[…#^<verse-id>]]` only. Never paste the verse text as if it were the authoritative source. A readable `>` quote-block may follow the transclusion for convenience, but the transclusion is the citation.
 2. **མཆན་འགྲེལ། from Zhenga only.** This section draws exclusively from `khenpo-zhengah`. Do not blend other commentaries into it.
 3. **དོན་འགྲེལ། is ordered by tier.** Lead with `prajnakaramati` (if it addresses the verse), then Tibetan scholarly commentaries in the tier order given above, then supplementary, then Chinese. One subsection per commentary per voice.
-4. **སྒྲུང་འགྲེལ།, དཔེ།, ལུང།** are populated from attested material only. If no commentary attaches a narrative / metaphor / quotation to this verse, **omit the section entirely** — do not write an empty heading or a placeholder.
-5. **གཙོ་གནད། is ordered by centrality**, not by commentary order. The most essential doctrinal claim of the verse comes first.
-6. **གནད་ཚིག uses the commentary's own gloss.** Never substitute a general dictionary definition. If two commentaries gloss the same term differently, add a second row with the second gloss and its source, and mark both ⚑.
-7. **བསྡུས་དོན། is strictly derived.** Every claim must be traceable to something already written in the sections above. This is a compression, not an expansion; no new interpretive material enters here.
-8. **Every claim cites a `1-SOURCES/` block.** No parametric knowledge. An uncitable claim is left blank; `status: draft` remains until a domain specialist clears it.
-9. **Divergences are never flattened.** When commentaries disagree, record both positions, cite each, and mark ⚑.
-10. **`status: draft` always.** The LLM never sets `complete`; a domain specialist does.
+4. **སྒྲུང་འགྲེལ། is a standalone section.** Populated from attested narratives only. If no commentary attaches a story or parable to this verse, omit the section entirely — do not write an empty heading or a placeholder.
+5. **དཔེ། is a standalone section.** Populated from attested metaphors and examples only. If no commentary supplies a metaphor for this verse, omit the section entirely.
+6. **ལུང། is a standalone section.** Populated from attested scriptural quotations only. If no commentary adduces a quotation for this verse, omit the section entirely.
+7. **གཙོ་གནད། is ordered by centrality**, not by commentary order. The most essential doctrinal claim of the verse comes first.
+8. **གནད་ཚིག uses the commentary's own gloss.** Never substitute a general dictionary definition. If two commentaries gloss the same term differently, add a second row with the second gloss and its source, and mark both ⚑.
+9. **བསྡུས་དོན། is strictly derived.** Every claim must be traceable to something already written in the sections above. This is a compression, not an expansion; no new interpretive material enters here.
+10. **Every claim cites a `1-SOURCES/` block.** No parametric knowledge. An uncitable claim is left blank; `status: draft` remains until a domain specialist clears it.
+11. **Divergences are never flattened.** When commentaries disagree, record both positions, cite each, and mark ⚑.
+12. **`status: draft` always.** The LLM never sets `complete`; a domain specialist does.
 
 ---
 
 ## Procedure
 
 1. **Confirm the verse ID.** Verify block `^<verse-id>` exists in `1-SOURCES/Text/BCAV08_SH_sk.md` and in `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md`. If either is absent, stop and fix the source file first.
-2. **Write ལེགས་སྦྱར།** — insert the Sanskrit transclusion and its inline link.
-3. **Write བོད་ཡིག** — insert the Tibetan transclusion and its inline link.
-4. **Locate commentary passages.** For each file in `1-SOURCES/Commentaries/Transcluded/`, `grep -n "#^<verse-id>"` to find the transclusion anchor. The commentary passage runs from just after that line to just before the next `![[…#^…]]` transclusion. Read only that span.
-5. **Write མཆན་འགྲེལ།** — locate `khenpo-zhengah`'s passage; reproduce the annotation verbatim or as an annotated pair list; cite the block.
-6. **Write དོན་འགྲེལ།** — one subsection per commentary in tier order; Tibetan prose; every sentence cited. Add Divergences ⚑ if any.
-7. **Write སྒྲུང་འགྲེལ།** — identify narratives across all commentaries; précis each in Tibetan; note the illustrating phrase; cite. Omit section if no narrative found.
-8. **Write དཔེ།** — collect metaphors and examples; for each state image → tenor → how the commentary develops it; cite. Omit if absent.
-9. **Write ལུང།** — extract verbatim quotations; attribute to the scripture the commentary names; cite the commentary block. Omit if absent.
-10. **Write གཙོ་གནད།** — synthesise the main teaching points across all commentaries; order by centrality; cite each.
-11. **Write གནད་ཚིག** — fill the table from the commentaries' own glosses; ⚑ on diverging definitions.
+2. **Write ལེགས་སྦྱར།** — insert the Sanskrit transclusion `![[1-SOURCES/Text/BCAV08_SH_sk.md#^<verse-id>]]` and its inline link.
+3. **Write བོད་ཡིག** — insert the Tibetan transclusion `![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^<verse-id>]]` and its inline link.
+4. **Locate and read each commentary's verse span.** For every file in `1-SOURCES/Commentaries/Transcluded/`:
+   - `grep -n "!\\[\\[.*#\\^<verse-id>\\]\\]"` to find the transclusion line.
+   - Note that line number (`LINE_START`) and the line number of the next verse transclusion (`LINE_END`).
+   - Read only lines `LINE_START` to `LINE_END − 1`. This span is the complete commentary on the target verse. Do not read beyond it.
+   - Record the commentary's `registered_id` and the block IDs of any stamped blocks in the span.
+5. **Write མཆན་འགྲེལ།** — from the `BCAC19_KS_bo.md` span only: reproduce the annotation verbatim or as annotated pairs (root word → gloss); cite the block.
+6. **Write དོན་འགྲེལ།** — one subsection per commentary in tier order, drawn from each commentary's verse span; Tibetan prose; every sentence cited. Add Divergences ⚑ if any.
+7. **Write སྒྲུང་འགྲེལ།** — from the verse spans: identify narratives across all commentaries; précis each in Tibetan; note the illustrating phrase; cite. Omit section entirely if no narrative found.
+8. **Write དཔེ།** — from the verse spans: collect metaphors and examples; state image → tenor → how the commentary develops it; cite. Omit if absent.
+9. **Write ལུང།** — from the verse spans: extract verbatim quotations; attribute to the scripture the commentary names; cite the commentary block. Omit if absent.
+10. **Write གཙོ་གནད།** — synthesise the main teaching points across all verse spans; order by centrality; cite each.
+11. **Write གནད་ཚིག** — fill the table from the commentaries' own glosses found in the verse spans; ⚑ on diverging definitions.
 12. **Write བསྡུས་དོན།** — compose the AI-Overview-style synthesis strictly from the material already written above; lead with the settled reading; cite all key bullets.
 13. **Fill frontmatter**; set `status: draft`.
 14. **Write** to `2-RAILS/Verses/<verse-id>-summary.md`.
-15. **Verification pass** — re-read each section against the source span and confirm every cited item is actually present in the cited block and correctly attributed.
+15. **Verification pass** — re-read each section against the source verse spans and confirm every cited item is actually present in the cited block and correctly attributed.
 
 ---
 

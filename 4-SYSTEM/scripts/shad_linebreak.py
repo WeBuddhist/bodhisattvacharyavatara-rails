@@ -12,7 +12,14 @@ Pipeline (applied to the body, never to a leading YAML frontmatter block):
   3. Botok Unicode normalization (vendored ``normalize_unicode`` from
      OpenPecha/Botok ``botok/utils``): canonical decomposition, syllable
      reordering, rago fixes, deprecated-codepoint replacement.
-  4. Collapse every existing line break and run of whitespace to a single space.
+  4. Collapse whitespace runs. A run containing a literal space/tab collapses
+     to a single space, same as a blank-line run (2+ line breaks, a paragraph
+     break) -- both are treated as an intentional separator. A run that is
+     just a single hard line break (mid-paragraph text wrapping) collapses to
+     *nothing*, since source files are often wrapped at a fixed width with no
+     space at the wrap point (e.g. ``...འགྲེལ\nལས...`` -> ``...འགྲེལལས...``,
+     ``...བྱ་\nབ...`` -> ``...བྱ་བ...``); treating it as a space would wrongly
+     inject a space into the middle of a word/phrase.
   5. Insert a line break after every shad group (one or more ``།`` optionally
      separated by spaces: ``། `` / ``།།`` / ``། །`` / ``།། །།`` ...).
      Multi-shad groups are normalized to space-separated shads (``། །``).
@@ -375,13 +382,26 @@ def insert_breaks(s):
     return "".join(res)
 
 
+def collapse_whitespace(match):
+    """Collapse one run of whitespace (see step 4 in the module docstring).
+
+    * Contains a literal space/tab, or is a blank-line run (2+ line breaks):
+      an intentional separator -> single space.
+    * A lone hard line break (mid-paragraph wrap): no separator -> nothing.
+    """
+    run = match.group(0)
+    if " " in run or "\t" in run or run.count("\n") >= 2:
+        return " "
+    return ""
+
+
 def reflow(body, form="nfd"):
     body = unwrap_wikilinks(body)                   # 1. unwrap [[...]]
     body = re.sub(r"[ \t]*>+[ \t]?", "", body)      # 2. remove > markers
     body = normalize_unicode(body, form=form)       # 3. Botok normalization
     for _orn, _plain in ORNAMENTAL_SHAD_MAP.items():  # 3b. flatten ༑ -> །
         body = body.replace(_orn, _plain)
-    body = re.sub(r"\s+", " ", body).strip()        # 4. collapse whitespace
+    body = re.sub(r"\s+", collapse_whitespace, body).strip()  # 4. collapse ws
     if not body:
         return ""
     out = insert_breaks(body)                       # 5. break after shad groups

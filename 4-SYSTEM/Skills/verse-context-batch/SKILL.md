@@ -15,11 +15,11 @@ The output of this skill is identical in format to what `verse-context` produces
 
 - **Chapter number** — e.g. `1` for Chapter 1.
 - **Verse range** — first and last verse number in the chapter (e.g. `1-4` through `1-36`; verses that already have manually authored files may be skipped).
-- **Commentary files** — all relevant `1-SOURCES/Commentaries/*.md` files for this vault:
-  - `bo-མཁན་པོ་ཀུན་དཔལ།.md` (Kunpal)
-  - `bo-དངུལ་ཆུ་ཐོགས་མེད།.md` (Ngülchu Thogmé)
-  - `bo-ས་བཟང་མ་ཏི་པཎ་ཆེན་བློ་གྲོས་རྒྱལ་མཚན།.md` (Sabzang Mati)
-  - `bo-ཤེས་རབ་འབྱུང་གནས་བློ་གྲོས། Prajñākaramati.md` (Prajñākaramati)
+- **Commentary files** — all relevant files from `1-SOURCES/Commentaries/Transcluded/` for this vault (use only this folder; do not read from `1-SOURCES/Commentaries/` directly):
+  - `BCAC19_KKP_bo_segmented.md` (Kunpal — Khenpo Kunzang Palden)
+  - `BCAC14_NTS_bo_segmented.md` (Ngülchu Thogmé)
+  - `BCAC14_SMPLG_bo_segmented.md` (Sabzang — Sa-bzang Ma-ti Paṇ-chen)
+  - Other files present in `Transcluded/` and available for use: `BCAC13_KTB_bo.md`, `BCAC14_GDR_bo_segmented.md`, `BCAC19_KS_bo.md`, `BCAC19_MKS_bo_segmented.md`, `BCAC20_NKW_bo_segmented.md`, `BCACXX_WR_bo.md`
 - **Translation file** — `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` (for verse transclusions).
 - **All commentary files must already have block IDs.** Run `format-commentary` on any commentary that lacks them before proceeding.
 
@@ -51,7 +51,7 @@ verse_id: <chapter>-<verse>
 root_text: 1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md
 root_block: ^<chapter>-<verse>
 language: bo
-commentaries: [kunpal, ngulchu-thogmed, sabzang, prajnakaramati]
+commentaries: [kunpal, ngulchu-thogmed, sabzang]
 status: draft
 ---
 
@@ -63,22 +63,18 @@ status: draft
 
 ### kunpal
 
-![[1-SOURCES/Commentaries/bo-མཁན་པོ་ཀུན་དཔལ།.md#^<block-id>]]
+![[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^<block-id>]]
 ...
 
 ### ngulchu-thogmed
 
-![[1-SOURCES/Commentaries/bo-དངུལ་ཆུ་ཐོགས་མེད།.md#^<block-id>]]
+![[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^<block-id>]]
 ...
 
 ### sabzang
 
-![[1-SOURCES/Commentaries/bo-ས་བཟང་མ་ཏི་པཎ་ཆེན་བློ་གྲོས་རྒྱལ་མཚན།.md#^<block-id>]]
+![[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^<block-id>]]
 ...
-
-### prajnakaramati
-
-![[1-SOURCES/Commentaries/bo-ཤེས་རབ་འབྱུང་གནས་བློ་གྲོས། Prajñākaramati.md#^<chapter>-<verse>-1]]
 
 ## Synthesis (original language)
 
@@ -94,10 +90,6 @@ status: draft
 
 <Tibetan prose summarising Sabzang's reading, with inline block citations>
 
-### prajnakaramati
-
-<Tibetan prose summarising Prajñākaramati's reading, with inline block citation>
-
 ### Consensus
 
 <Tibetan prose stating what all commentaries agree on>
@@ -106,10 +98,9 @@ status: draft
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^<chapter>-<verse>]]
 
-(1-SOURCES/Commentaries/bo-མཁན་པོ་ཀུན་དཔལ།.md#^<block-id>)
-(1-SOURCES/Commentaries/bo-དངུལ་ཆུ་ཐོགས་མེད།.md#^<block-id>)
-(1-SOURCES/Commentaries/bo-ས་བཟང་མ་ཏི་པཎ་ཆེན་བློ་གྲོས་རྒྱལ་མཚན།.md#^<block-id>)
-(1-SOURCES/Commentaries/bo-ཤེས་རབ་འབྱུང་གནས་བློ་གྲོས། Prajñākaramati.md#^<chapter>-<verse>-1)
+(1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^<block-id>)
+(1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^<block-id>)
+(1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^<block-id>)
 ```
 
 ---

@@ -42,7 +42,7 @@ One file at `2-RAILS/Verses/<verse-id>.md`. Update in place if it exists; never 
 
 ```markdown
 ---
-ref: <e.g. 1-1>
+ref: <e.g. 1-1-ref>
 unit_type: single | group | template | instance
 unit_verses: [<verse-id>]
 commentary_coverage: [<id>, <id>, …]

@@ -184,7 +184,7 @@ status: draft
 ## Rules
 
 1. **Transclusions, not copies.** ལེགས་སྦྱར། and བོད་ཡིག use `![[…#^<verse-id>]]` only. Never paste the verse text as if it were the authoritative source. A readable `>` quote-block may follow the transclusion for convenience, but the transclusion is the citation.
-2. **མཆན་འགྲེལ། from Zhenga only.** This section draws exclusively from `khenpo-zhengah`. Do not blend other commentaries into it.
+2. **མཆན་འགྲེལ། from Zhenga only.** This section draws exclusively from `khenpo-zhengah`. Do not blend other commentaries into it. Reproduce Zhenga's interlinear gloss prose only. If the mchan-'grel span contains scriptural quotations — text introduced by a phrase of the form "[scripture name] ལས།" followed by a quotation block — do **not** reproduce those here. Extract them to ལུང། (step 13) instead.
 3. **དོན་འགྲེལ། is ordered by tier.** Lead with `prajnakaramati` (if it addresses the verse), then Tibetan scholarly commentaries in the tier order given above, then supplementary, then Chinese. One subsection per commentary per voice.
 4. **སྒྲུང་འགྲེལ། is a standalone section.** Populated from attested narratives only. If no commentary attaches a story or parable to this verse, omit the section entirely — do not write an empty heading or a placeholder.
 5. **དཔེ། is a standalone section.** Populated from attested metaphors and examples only. If no commentary supplies a metaphor for this verse, omit the section entirely.
@@ -220,7 +220,7 @@ status: draft
 
 7. **ལེགས་སྦྱར།** — insert transclusion `![[1-SOURCES/Text/BCAV08_SH_sk.md#^<verse-id>]]`. No source link needed.
 8. **བོད་ཡིག** — insert transclusion `![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^<verse-id>]]`. No source link needed.
-9. **མཆན་འགྲེལ།** — from the `BCAC19_KS_bo.md` span only: reproduce the annotation verbatim or as annotated pairs (root word → gloss); cite the block.
+9. **མཆན་འགྲེལ།** — from the `BCAC19_KS_bo.md` span only: reproduce Zhenga's interlinear gloss prose (root word → gloss pairs or continuous annotation); cite the block. If the span contains scriptural quotations introduced by "[scripture name] ལས།", skip them here — they belong in ལུང། (step 13).
 10. **དོན་འགྲེལ།** — one subsection per commentary in tier order, drawn from each commentary's verse span; Tibetan prose; every sentence cited. Add Divergences ⚑ if any.
 11. **སྒྲུང་འགྲེལ།** — from the verse spans: identify narratives across all commentaries; précis each in Tibetan; note the illustrating phrase; cite. Omit section entirely if no narrative found.
 12. **དཔེ།** — from the verse spans: collect metaphors and examples; state image → tenor → how the commentary develops it; cite. Omit if absent.
@@ -242,7 +242,7 @@ status: draft
 - [ ] Frontmatter complete with `verse_id`, `skill: Verse-Context-Summary`, `creator: Tigerboy`, `sources`, `status: draft`.
 - [ ] **ལེགས་སྦྱར།**: Sanskrit transclusion present and block confirmed. No source link.
 - [ ] **བོད་ཡིག**: Tibetan transclusion present and block confirmed. No source link.
-- [ ] **མཆན་འགྲེལ།**: drawn from `khenpo-zhengah` only; verbatim annotation; block cited.
+- [ ] **མཆན་འགྲེལ།**: drawn from `khenpo-zhengah` only; Zhenga's gloss prose only (no embedded scripture quotations); block cited.
 - [ ] **དོན་འགྲེལ།**: one subsection per commentary in tier order; every claim cited; Divergences ⚑ where present.
 - [ ] **སྒྲུང་འགྲེལ།**: attested narratives only, précised in Tibetan, cited; section omitted if no material.
 - [ ] **དཔེ།**: attested metaphors only, image→tenor→development, cited; section omitted if no material.

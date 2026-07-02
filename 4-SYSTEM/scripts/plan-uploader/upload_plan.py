@@ -247,6 +247,10 @@ class CmsClient:
     def get_plan(self, plan_id: str) -> dict:
         return self._call("GET", f"/cms/plans/{plan_id}")
 
+    def list_series_plans(self, series_id: str, language: str) -> list:
+        data = self._call("GET", f"/cms/series/{series_id}?language={language}")
+        return data.get("plans") or []
+
     def set_status(self, plan_id: str, status: str):
         self._call("PATCH", f"/cms/plans/{plan_id}/status", json={"status": status})
         print(f"Plan status set to {status}")
@@ -395,11 +399,13 @@ def ensure_day(client, plan_id: str, day_number: int, actions: list, apply: bool
 
 
 def sync_day(client, plan_id: str, day_number: int, desired: list[dict],
-             apply: bool = True) -> list[str]:
+             apply: bool = True, update_only: bool = False) -> list[str]:
     """Converge the remote day to the desired tasks. Returns action log.
 
     desired: [{"title": str, "html": str}, ...] in file order.
     apply=False → read-only: report what would change, write nothing.
+    update_only=True → never delete or recreate tasks; only update
+    titles/content in place and create missing tasks.
     """
     actions: list[str] = []
     day = ensure_day(client, plan_id, day_number, actions, apply)
@@ -421,17 +427,27 @@ def sync_day(client, plan_id: str, day_number: int, desired: list[dict],
             # A task whose sub-task layout we can't converge in place
             # (no TEXT sub-task, or extra sub-tasks) is recreated.
             if sub is None or n_subs != 1:
-                actions.append(
-                    f"recreate task '{want['title']}' "
-                    f"(position {i + 1} has {n_subs} sub-task(s), no single TEXT)"
-                )
-                if apply:
-                    client.delete_task(task_id)
-                    task_id = client.create_task(plan_id, day_id, want["title"])
-                    client.create_text_subtask(task_id, want["html"])
-                order_dirty = True
-                final_ids.append(task_id)
-                continue
+                if update_only:
+                    if sub is None:
+                        actions.append(
+                            f"SKIP task {i + 1} '{want['title']}': no TEXT "
+                            "sub-task to update (--update-only, not recreating)"
+                        )
+                        final_ids.append(task_id)
+                        continue
+                    # extra sub-tasks: update the first TEXT one, leave the rest
+                else:
+                    actions.append(
+                        f"recreate task '{want['title']}' "
+                        f"(position {i + 1} has {n_subs} sub-task(s), no single TEXT)"
+                    )
+                    if apply:
+                        client.delete_task(task_id)
+                        task_id = client.create_task(plan_id, day_id, want["title"])
+                        client.create_text_subtask(task_id, want["html"])
+                    order_dirty = True
+                    final_ids.append(task_id)
+                    continue
             if (task.get("title") or "").strip() != want["title"]:
                 actions.append(
                     f"retitle task {i + 1}: '{task.get('title')}' -> '{want['title']}'"
@@ -452,6 +468,11 @@ def sync_day(client, plan_id: str, day_number: int, desired: list[dict],
             order_dirty = True
 
     for task in existing[len(desired):]:
+        if update_only:
+            actions.append(
+                f"KEEP extra task '{task.get('title')}' (--update-only)"
+            )
+            continue
         actions.append(f"delete extra task '{task.get('title')}'")
         if apply:
             client.delete_task(task["id"])
@@ -520,6 +541,10 @@ def main():
                          "'Day-N-...')")
     ap.add_argument("--check", action="store_true",
                     help="Read-only: diff against the server, write nothing")
+    ap.add_argument("--update-only", action="store_true",
+                    help="Never delete or recreate tasks — only update "
+                         "titles/sub-task content in place (and create "
+                         "missing tasks)")
     ap.add_argument("--publish", action="store_true",
                     help="Set plan status to PUBLISHED after sync")
     ap.add_argument("--dry-run", action="store_true",
@@ -570,11 +595,28 @@ def main():
         plan_id = args.plan_id
         print(f"Using existing plan PLAN_ID={plan_id}")
     else:
-        if args.check:
-            sys.exit("--check requires --plan-id (nothing to diff against).")
-        if not args.title:
-            sys.exit("--title is required when creating a new plan "
-                     "(or pass --plan-id to use an existing one).")
+        # No --plan-id: look for an existing plan in the series first.
+        found = client.list_series_plans(cfg["WEBUDDHIST_SERIES_ID"],
+                                         args.language)
+        if len(found) == 1:
+            plan_id = found[0]["id"]
+            print(f"Found existing plan in series: '{found[0].get('title')}' "
+                  f"(PLAN_ID={plan_id})")
+        elif len(found) > 1:
+            print(f"Series has {len(found)} {args.language} plans — "
+                  "pass --plan-id to pick one:")
+            for p in found:
+                print(f"  {p.get('id')}  '{p.get('title')}'  "
+                      f"status={p.get('status')}")
+            sys.exit(1)
+        elif args.check:
+            sys.exit("--check: no plan found in series and nothing to create.")
+        elif not args.title:
+            sys.exit("No plan found in series. --title is required to create "
+                     "a new one (or pass --plan-id).")
+        else:
+            plan_id = None
+    if not args.plan_id and plan_id is None:
         plan_id = client.create_plan(
             title=args.title,
             description=args.description or args.title,
@@ -590,7 +632,7 @@ def main():
         )
 
     actions = sync_day(client, plan_id, day_number, parsed["tasks"],
-                       apply=not args.check)
+                       apply=not args.check, update_only=args.update_only)
 
     label = "Would apply" if args.check else "Applied"
     if actions:

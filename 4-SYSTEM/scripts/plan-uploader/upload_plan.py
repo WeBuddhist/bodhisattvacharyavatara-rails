@@ -1,12 +1,19 @@
 #!/usr/bin/env python3
-"""Upload a Bodhisattva Challenge day file to the WeBuddhist Studio CMS.
+"""Idempotently sync a Bodhisattva Challenge day file to the WeBuddhist Studio CMS.
 
 Implements the workflow documented in
 `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/Plan Uploader.md`:
 
-    Login -> Create plan (series_id + language) -> Add day
-          -> Create tasks (one per ### section)
-          -> Create sub-tasks (TEXT content, HTML)
+    Login -> resolve plan (existing --plan-id or create new)
+          -> ensure day N exists -> diff desired vs remote tasks
+          -> create / update / delete tasks to converge -> reorder
+          -> verify remote state matches the file
+
+**Idempotent:** running the same command twice makes no changes the second
+time. Existing tasks are updated in place (title via PUT /cms/tasks/{id},
+content via PUT /cms/sub-tasks); tasks no longer in the file are deleted;
+missing tasks are created. Task order is enforced with
+PUT /cms/tasks/{day_id}/order.
 
 The plan is left in DRAFT status unless --publish is passed.
 
@@ -15,13 +22,16 @@ Usage
 # Dry run — parse only, no network calls:
 python upload_plan.py "path/to/Day-1-Ch1-V1-3.md" --dry-run
 
-# Create a new plan in the series and upload Day 1:
+# Read-only diff against the server (no writes):
+python upload_plan.py "path/to/Day-1-Ch1-V1-3.md" --plan-id <PLAN_ID> --check
+
+# Create a new plan in the series and sync Day 1:
 python upload_plan.py "path/to/Day-1-Ch1-V1-3.md" \
     --title "སྤྱོད་འཇུག་ཉིན་རེའི་ཉམས་ལེན། ལེའུ་དང་པོ།" \
     --description "ཉིན་ ༡ - ཉིན་ ༣༦༥ ཡི་སྤྱོད་འཇུག་སློབ་སྦྱོང་།" \
     --total-days 14
 
-# Add another day to an existing plan:
+# Sync a day into an existing plan (day number taken from the filename):
 python upload_plan.py "path/to/Day-2-Ch1-V4-5.md" --plan-id <PLAN_ID>
 
 Credentials & IDs
@@ -39,7 +49,6 @@ Requires: pip install requests
 """
 
 import argparse
-import json
 import os
 import re
 import sys
@@ -91,6 +100,7 @@ TIBETAN_NUMERAL_PREFIX = re.compile(r"^[༠-༩]+[།.]\s*")
 SECTION_RE = re.compile(r"^###\s+(?!#)(.+?)\s*$")
 SUBSECTION_RE = re.compile(r"^####\s+(.+?)\s*$")
 BOLD_RE = re.compile(r"\*\*(.+?)\*\*")
+DAY_NUMBER_RE = re.compile(r"day[-_ ]?(\d+)", re.IGNORECASE)
 
 
 def strip_md_inline(text: str) -> str:
@@ -181,7 +191,15 @@ def parse_day_file(path: Path) -> dict:
     tasks = [
         {"title": s["title"], "html": md_block_to_html(s["lines"])} for s in sections
     ]
-    return {"day_title": day_title or path.stem, "tasks": tasks}
+
+    m = DAY_NUMBER_RE.search(path.stem)
+    day_number = int(m.group(1)) if m else None
+
+    return {
+        "day_title": day_title or path.stem,
+        "day_number": day_number,
+        "tasks": tasks,
+    }
 
 
 # --------------------------------------------------------------------------
@@ -218,21 +236,32 @@ class CmsClient:
         self.session.headers["Authorization"] = f"Bearer {token}"
         print(f"Logged in as: {data['user']['name']}")
 
+    # -- plan ---------------------------------------------------------------
+
     def create_plan(self, **fields) -> str:
         data = self._call("POST", "/cms/plans", json=fields)
         plan_id = data["id"]
         print(f"Created plan: {fields['title']}  (PLAN_ID={plan_id})")
         return plan_id
 
-    def add_day(self, plan_id: str) -> dict:
+    def get_plan(self, plan_id: str) -> dict:
+        return self._call("GET", f"/cms/plans/{plan_id}")
+
+    def set_status(self, plan_id: str, status: str):
+        self._call("PATCH", f"/cms/plans/{plan_id}/status", json={"status": status})
+        print(f"Plan status set to {status}")
+
+    # -- days ---------------------------------------------------------------
+
+    def add_days(self, plan_id: str, number_of_days: int = 1) -> list:
         data = self._call(
             "POST",
             f"/cms/plans/{plan_id}/days",
-            json={"number_of_days": 1, "source_day_id": None},
+            json={"number_of_days": number_of_days, "source_day_id": None},
         )
-        day = data[0] if isinstance(data, list) else data
-        print(f"Added day {day.get('day_number')}  (DAY_ID={day['id']})")
-        return day
+        return data if isinstance(data, list) else [data]
+
+    # -- tasks --------------------------------------------------------------
 
     def create_task(self, plan_id: str, day_id: str, title: str) -> str:
         data = self._call(
@@ -247,6 +276,26 @@ class CmsClient:
             },
         )
         return data["id"]
+
+    def update_task_title(self, task_id: str, title: str):
+        self._call("PUT", f"/cms/tasks/{task_id}", json={"title": title})
+
+    def delete_task(self, task_id: str):
+        self._call("DELETE", f"/cms/tasks/{task_id}")
+
+    def reorder_tasks(self, day_id: str, task_ids: list[str]):
+        self._call(
+            "PUT",
+            f"/cms/tasks/{day_id}/order",
+            json={
+                "tasks": [
+                    {"id": tid, "display_order": i}
+                    for i, tid in enumerate(task_ids, 1)
+                ]
+            },
+        )
+
+    # -- sub-tasks ----------------------------------------------------------
 
     def create_text_subtask(self, task_id: str, html: str) -> str:
         data = self._call(
@@ -270,12 +319,182 @@ class CmsClient:
         )
         return data["sub_tasks"][0]["id"]
 
-    def set_status(self, plan_id: str, status: str):
-        self._call("PATCH", f"/cms/plans/{plan_id}/status", json={"status": status})
-        print(f"Plan status set to {status}")
+    def update_text_subtask(self, task_id: str, sub_task_id: str, html: str):
+        self._call(
+            "PUT",
+            "/cms/sub-tasks",
+            json={
+                "task_id": task_id,
+                "sub_tasks": [
+                    {
+                        "id": sub_task_id,
+                        "content_type": "TEXT",
+                        "content": html,
+                        "display_order": 1,
+                        "duration": None,
+                        "image_url": None,
+                        "audio_url": None,
+                        "source_text_id": None,
+                        "pecha_segment_id": None,
+                        "segment_ids": None,
+                        "start_ms": None,
+                        "end_ms": None,
+                    }
+                ],
+            },
+        )
 
-    def get_plan(self, plan_id: str) -> dict:
-        return self._call("GET", f"/cms/plans/{plan_id}")
+
+# --------------------------------------------------------------------------
+# Idempotent sync
+# --------------------------------------------------------------------------
+
+
+def _norm(text) -> str:
+    """Whitespace-insensitive comparison form for HTML content."""
+    return re.sub(r"\s+", " ", (text or "")).strip()
+
+
+def _sorted_tasks(day: dict) -> list:
+    return sorted(day.get("tasks") or [], key=lambda t: t.get("display_order") or 0)
+
+
+def _first_text_subtask(task: dict):
+    subs = sorted(
+        task.get("sub_tasks") or [], key=lambda s: s.get("display_order") or 0
+    )
+    for s in subs:
+        if (s.get("content_type") or "TEXT") == "TEXT":
+            return s, len(subs)
+    return None, len(subs)
+
+
+def ensure_day(client, plan_id: str, day_number: int, actions: list, apply: bool):
+    """Return the day dict for day_number, appending days if needed."""
+    plan = client.get_plan(plan_id)
+    days = plan.get("days") or []
+    by_number = {d.get("day_number"): d for d in days}
+    if day_number in by_number:
+        return by_number[day_number]
+    max_day = max((d.get("day_number") or 0 for d in days), default=0)
+    if day_number <= max_day:
+        sys.exit(
+            f"Day {day_number} not found in plan but higher-numbered days exist — "
+            "day numbering on the server is inconsistent; fix manually."
+        )
+    n_missing = day_number - max_day
+    actions.append(f"add {n_missing} day(s) (server has {max_day}, need {day_number})")
+    if not apply:
+        return None
+    client.add_days(plan_id, n_missing)
+    plan = client.get_plan(plan_id)
+    for d in plan.get("days") or []:
+        if d.get("day_number") == day_number:
+            return d
+    sys.exit(f"Added days but day {day_number} still not found in plan — aborting.")
+
+
+def sync_day(client, plan_id: str, day_number: int, desired: list[dict],
+             apply: bool = True) -> list[str]:
+    """Converge the remote day to the desired tasks. Returns action log.
+
+    desired: [{"title": str, "html": str}, ...] in file order.
+    apply=False → read-only: report what would change, write nothing.
+    """
+    actions: list[str] = []
+    day = ensure_day(client, plan_id, day_number, actions, apply)
+    if day is None:  # check mode and day missing: every task is a create
+        for t in desired:
+            actions.append(f"create task '{t['title']}' + TEXT sub-task")
+        return actions
+
+    day_id = day["id"]
+    existing = _sorted_tasks(day)
+    final_ids: list[str] = []
+    order_dirty = False
+
+    for i, want in enumerate(desired):
+        if i < len(existing):
+            task = existing[i]
+            task_id = task["id"]
+            sub, n_subs = _first_text_subtask(task)
+            # A task whose sub-task layout we can't converge in place
+            # (no TEXT sub-task, or extra sub-tasks) is recreated.
+            if sub is None or n_subs != 1:
+                actions.append(
+                    f"recreate task '{want['title']}' "
+                    f"(position {i + 1} has {n_subs} sub-task(s), no single TEXT)"
+                )
+                if apply:
+                    client.delete_task(task_id)
+                    task_id = client.create_task(plan_id, day_id, want["title"])
+                    client.create_text_subtask(task_id, want["html"])
+                order_dirty = True
+                final_ids.append(task_id)
+                continue
+            if (task.get("title") or "").strip() != want["title"]:
+                actions.append(
+                    f"retitle task {i + 1}: '{task.get('title')}' -> '{want['title']}'"
+                )
+                if apply:
+                    client.update_task_title(task_id, want["title"])
+            if _norm(sub.get("content")) != _norm(want["html"]):
+                actions.append(f"update content of task {i + 1} '{want['title']}'")
+                if apply:
+                    client.update_text_subtask(task_id, sub["id"], want["html"])
+            final_ids.append(task_id)
+        else:
+            actions.append(f"create task '{want['title']}' + TEXT sub-task")
+            if apply:
+                task_id = client.create_task(plan_id, day_id, want["title"])
+                client.create_text_subtask(task_id, want["html"])
+                final_ids.append(task_id)
+            order_dirty = True
+
+    for task in existing[len(desired):]:
+        actions.append(f"delete extra task '{task.get('title')}'")
+        if apply:
+            client.delete_task(task["id"])
+        order_dirty = True
+
+    if order_dirty and apply and len(final_ids) > 1:
+        actions.append("reorder tasks to file order")
+        client.reorder_tasks(day_id, final_ids)
+
+    return actions
+
+
+def verify_day(client, plan_id: str, day_number: int, desired: list[dict]) -> bool:
+    """Re-fetch the plan and confirm the day matches the file. Prints a report."""
+    plan = client.get_plan(plan_id)
+    day = next(
+        (d for d in plan.get("days") or [] if d.get("day_number") == day_number), None
+    )
+    print(f"\nVerification — plan '{plan.get('title')}', day {day_number}:")
+    if day is None:
+        print("  ✗ day not found on server")
+        return False
+    existing = _sorted_tasks(day)
+    ok = True
+    if len(existing) != len(desired):
+        print(f"  ✗ task count: server {len(existing)}, file {len(desired)}")
+        ok = False
+    for i, want in enumerate(desired):
+        if i >= len(existing):
+            print(f"  ✗ {i + 1}. '{want['title']}' missing on server")
+            ok = False
+            continue
+        task = existing[i]
+        sub, _ = _first_text_subtask(task)
+        t_ok = (task.get("title") or "").strip() == want["title"]
+        c_ok = sub is not None and _norm(sub.get("content")) == _norm(want["html"])
+        mark = "✓" if (t_ok and c_ok) else "✗"
+        detail = "" if (t_ok and c_ok) else (
+            " [title mismatch]" if not t_ok else " [content mismatch]"
+        )
+        print(f"  {mark} {i + 1}. {want['title']}{detail}")
+        ok = ok and t_ok and c_ok
+    return ok
 
 
 # --------------------------------------------------------------------------
@@ -285,7 +504,7 @@ class CmsClient:
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    ap.add_argument("day_file", type=Path, help="Markdown day file to upload")
+    ap.add_argument("day_file", type=Path, help="Markdown day file to sync")
     ap.add_argument("--title", help="Plan title (required when creating a new plan)")
     ap.add_argument("--description", help="Plan description")
     ap.add_argument("--difficulty", default="BEGINNER",
@@ -294,10 +513,15 @@ def main():
                     choices=["EN", "BO", "ZH", "HI", "NE", "MN"])
     ap.add_argument("--total-days", type=int, default=1)
     ap.add_argument("--display-order", type=int, default=None)
-    ap.add_argument("--plan-id", help="Add the day to this existing plan "
+    ap.add_argument("--plan-id", help="Sync into this existing plan "
                                       "instead of creating a new one")
+    ap.add_argument("--day-number", type=int, default=None,
+                    help="Day number to sync (default: parsed from filename "
+                         "'Day-N-...')")
+    ap.add_argument("--check", action="store_true",
+                    help="Read-only: diff against the server, write nothing")
     ap.add_argument("--publish", action="store_true",
-                    help="Set plan status to PUBLISHED after upload")
+                    help="Set plan status to PUBLISHED after sync")
     ap.add_argument("--dry-run", action="store_true",
                     help="Parse and print structure; no API calls")
     ap.add_argument("--base-url", default=None,
@@ -312,10 +536,12 @@ def main():
         sys.exit(f"File not found: {args.day_file}")
 
     parsed = parse_day_file(args.day_file)
+    day_number = args.day_number or parsed["day_number"]
 
-    print(f"\nDay file : {args.day_file.name}")
-    print(f"Day title: {parsed['day_title']}")
-    print(f"Tasks    : {len(parsed['tasks'])}")
+    print(f"\nDay file  : {args.day_file.name}")
+    print(f"Day title : {parsed['day_title']}")
+    print(f"Day number: {day_number if day_number else '?? (pass --day-number)'}")
+    print(f"Tasks     : {len(parsed['tasks'])}")
     for i, t in enumerate(parsed["tasks"], 1):
         print(f"  {i}. {t['title']}  ({len(t['html'])} chars HTML)")
 
@@ -327,9 +553,13 @@ def main():
         print("\nDry run complete. No API calls made.")
         return
 
+    if day_number is None:
+        sys.exit("Could not parse a day number from the filename — "
+                 "pass --day-number explicitly.")
+
     cfg = load_config(args.env)
     base_url = args.base_url or cfg.get("WEBUDDHIST_BASE_URL") or BASE_URL
-    print(f"API base : {base_url}")
+    print(f"API base  : {base_url}")
     client = CmsClient(base_url)
     if cfg.get("WEBUDDHIST_ACCESS_TOKEN"):
         client.use_token(cfg["WEBUDDHIST_ACCESS_TOKEN"])
@@ -340,6 +570,8 @@ def main():
         plan_id = args.plan_id
         print(f"Using existing plan PLAN_ID={plan_id}")
     else:
+        if args.check:
+            sys.exit("--check requires --plan-id (nothing to diff against).")
         if not args.title:
             sys.exit("--title is required when creating a new plan "
                      "(or pass --plan-id to use an existing one).")
@@ -357,27 +589,31 @@ def main():
             start_date=None,
         )
 
-    day = client.add_day(plan_id)
+    actions = sync_day(client, plan_id, day_number, parsed["tasks"],
+                       apply=not args.check)
 
-    for i, t in enumerate(parsed["tasks"], 1):
-        task_id = client.create_task(plan_id, day["id"], t["title"])
-        sub_id = client.create_text_subtask(task_id, t["html"])
-        print(f"  Task {i}/{len(parsed['tasks'])}: {t['title']}"
-              f"  (TASK_ID={task_id}, SUB_TASK_ID={sub_id})")
+    label = "Would apply" if args.check else "Applied"
+    if actions:
+        print(f"\n{label} {len(actions)} change(s):")
+        for a in actions:
+            print(f"  - {a}")
+    else:
+        print("\nNo changes — server already matches the file.")
+
+    if args.check:
+        print("\nCheck complete. Nothing written.")
+        return
 
     if args.publish:
         client.set_status(plan_id, "PUBLISHED")
     else:
         print("Plan left in DRAFT status (use --publish to go live).")
 
-    # Verify
-    plan = client.get_plan(plan_id)
-    days = plan.get("days", [])
-    print(f"\nVerification: plan '{plan.get('title')}' now has {len(days)} day(s).")
-    for d in days:
-        n_tasks = len(d.get("tasks", []))
-        print(f"  Day {d.get('day_number')}: {n_tasks} task(s)")
+    ok = verify_day(client, plan_id, day_number, parsed["tasks"])
     print(f"\nPLAN_ID={plan_id}")
+    if not ok:
+        sys.exit("Verification FAILED — server does not match the file.")
+    print("Verification passed — server matches the file.")
 
 
 if __name__ == "__main__":

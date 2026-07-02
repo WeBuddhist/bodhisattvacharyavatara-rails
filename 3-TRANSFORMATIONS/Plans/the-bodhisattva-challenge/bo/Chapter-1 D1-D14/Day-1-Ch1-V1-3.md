@@ -32,6 +32,7 @@
 > བྱང་ཆུབ་ཐུགས་ནི་བསྐྱེད་པ་དང་། །
 > བྱང་ཆུབ་སེམས་དཔའི་བསླབ་པ་ལ། །
 > དེ་དག་རིམ་བཞིན་གནས་པ་ལྟར། །
+
 > དེ་བཞིན་འགྲོ་ལ་ཕན་དོན་དུ། །
 > བྱང་ཆུབ་སེམས་ནི་བསྐྱེད་བགྱི་ཞིང་། །
 > དེ་བཞིན་དུ་ནི་བསླབ་པ་ལའང་། །
@@ -95,8 +96,6 @@
 
 ### ༦། བསྔོ་བ་དང་སྨོན་ལམ།
 
-### ༦། བསྔོ་བ་དང་སྨོན་ལམ།
-
 #### **༡. བསྔོ་བ།**
 
 > བདག་གིས་བྱང་ཆུབ་སྤྱོད་པ་ལ། །
@@ -110,9 +109,3 @@
 > མ་སྐྱེས་པ་རྣམས་སྐྱེ་གྱུར་ཅིག །
 > སྐྱེས་པ་ཉམས་པ་མེད་པ་དང་། །
 > གོང་ནས་གོང་དུ་འཕེལ་བར་ཤོག །
-
----
-
-### ༧། Image Generation Prompt
-
-A serene classical Indian manuscript painting in Pāla dynasty style, depicting a practitioner sitting in deep contemplation beneath a majestic bodhi tree with rich jewel-toned foliage in lapis lazuli blue and deep green. Soft golden sunlight filters through the branches, illuminating the figure who gazes ahead with calm determination, symbolizing the preciousness of human life. The background features a gentle, stylized landscape with distant mountains, while ornamental floral borders in gold leaf frame the top and bottom of the composition. The overall mood is luminous, devotional, and inspiring, conveying a sense of profound awakening and the urgency to utilize this rare opportunity for virtue. 4:5 portrait orientation.

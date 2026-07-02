@@ -101,7 +101,7 @@
 
 A humble scholar in simple monastic robes sits quietly in a dimly lit stone courtyard, writing thoughtfully on a palm-leaf manuscript. He is not lecturing to a grand audience, but focused inward, embodying the sincere intention to cultivate his own mind and faith without seeking praise. The scene is rendered in classical Indian Buddhist manuscript painting style of the Pāla dynasty, featuring rich jewel tones of deep lapis lazuli blue, vermillion, and forest green, highlighted with delicate gold leaf accents. The composition utilizes an elegant flat perspective and fine calligraphic linework, with ornate floral borders framing the top and bottom to leave natural space for text overlays. The mood is serene, intimate, and luminous, bathed in the warm, gentle light of a single butter lamp. 4:5 portrait orientation.
 
-
+# ཉིན་ ༡ - ཉིན་ ༣༦༥ ཡི་སྤྱོད་འཇུག་སློབ་སྦྱོང།
 ## ༡༽ དེ་རིང་གི་ཉམས་ལེན་ངོ་སྤྲོད།
 
 དེ་རིང་ང་ཚོས་སྤྱོད་འཇུག་གི་མཆོད་བརྗོད་དང་ཁེངས་སྐྱུང་ལ་བརྟེན་ནས་ང་རྒྱལ་སྤངས་ཏེ་རང་སེམས་འདུལ་བའི་ཉམས་ལེན་གསར་པ་ཞིག་ལ་འཇུག་པར་བྱའོ། །
@@ -217,6 +217,7 @@ Day-2-Ch1-V4-5.md
 A solitary traveler walks along a rugged mountain path under a sky heavy with dark storm clouds. Suddenly, a brilliant flash of lightning streaks across the sky, brightly illuminating the traveler as they bend down with compassion to help a fallen figure on the road. The scene is rendered in the classical Indian Buddhist manuscript painting style of the Pāla dynasty, featuring rich jewel tones of lapis lazuli blue, vermillion, and forest green, accented with delicate gold leaf. The composition utilizes an elegant flat perspective and fine calligraphic linework, framed by ornamental floral borders at the top and bottom to leave natural space for text overlays. The mood is striking yet serene—a fleeting moment of luminous clarity and sudden, compassionate action amidst the darkness. 4:5 portrait orientation.
 
 
+# ཉིན་ ༢ - ཉིན་ ༣༦༥ ཡི་སྤྱོད་འཇུག་སློབ་སྦྱོང།
 ## ༡༽ དེ་རིང་གི་ཉམས་ལེན་ངོ་སྤྲོད།
 
 དེ་རིང་རྙེད་དཀའ་བའི་མི་ལུས་དང་གློག་བཞིན་མྱུར་བའི་དགེ་སེམས་ལ་དྲན་ཤེས་བསྟེན་ནས་ཉམས་ལེན་ལ་འཇུག་པར་བྱའོ། །
@@ -234,3 +235,27 @@ A solitary traveler walks along a rugged mountain path under a sky heavy with da
 **ཉམས་ལེན་དངོས།:** དེ་རིང་དགེ་བ་བྱེད་འདོད་ཀྱི་བསམ་པ་བཟང་པོ་ཞིག་སྐྱེས་མ་ཐག་ཏུ། ཕྱིར་འགྱངས་མི་བྱེད་པར་མྱུར་དུ་ལག་ལེན་བསྟར་རྒྱུ་ཡིན།
 
 **འགྲེལ་བཤད།:** (དགེ་བ་བྱ་བ།) སྤྱོད་འཇུག་ལས་དགེ་བ་སྒྲུབ་འདོད་ཀྱི་བློ་ནི་མུན་ནག་ནང་གི་གློག་འགྱུ་བ་བཞིན་སྐད་ཅིག་ཙམ་ལས་མི་འབྱུང་བར་གསུངས་ཡོད། དེར་བརྟེན་ང་ཚོའི་རྒྱུད་ལ་སངས་རྒྱས་ཀྱི་བྱིན་རླབས་ལས་མི་གཞན་ལ་རོགས་རམ་བྱེད་འདོད་པའམ། སྦྱིན་པ་གཏོང་བ། ཡང་ན་མ་ཎི་ཚར་གཅིག་འདོན་འདོད་པ་སོགས་ཀྱི་དགེ་སེམས་ཤིག་གློ་བུར་དུ་སྐྱེས་པའི་སྐབས་དེར། "རྗེས་མ་བྱ་ཆོག" ཅེས་ལེ་ལོ་དང་རྣམ་གཡེང་གི་དབང་དུ་མ་སོང་བར་དེ་མ་ཐག་ཏུ་ལག་ལེན་དུ་བསྟར་བ་ནི། རྙེད་དཀའ་བའི་དལ་འབྱོར་དོན་ཡོད་པར་བྱེད་ཅིང་བརྒྱ་ལམ་ན་འབྱུང་བའི་དགེ་བའི་བློ་གྲོས་ཆུད་མི་ཟ་བར་བྱེད་པའི་མན་ངག་ཟབ་མོ་ཞིག་ཡིན།
+
+# ཉིན་ ༣ - ཉིན་ ༣༦༥ ཡི་སྤྱོད་འཇུག་སློབ་སྦྱོང།
+## ༡༽ དེ་རིང་གི་ཉམས་ལེན་ངོ་སྤྲོད།
+
+དེ་རིང་ང་ཚོས་སྡིག་པ་ཟིལ་གྱིས་གནོན་ཞིང་བདེ་བ་ཀུན་སྒྲུབ་པའི་བྱང་ཆུབ་ཀྱི་སེམས་ནམ་ཡང་མི་གཏང་བའི་ཉམས་ལེན་ལ་འཇུག་པར་བྱའོ། །
+
+## ༢༽ དོན་འགྲེལ།
+
+ཚིགས་བཅད་འདི་གསུམ་གྱིས་བྱང་ཆུབ་སེམས་ཀྱི་ཕན་ཡོན་རྨད་དུ་བྱུང་བ་གསུམ་སྟོན་གྱི་ཡོད།
+
+- **སྡིག་པ་ཟིལ་གྱིས་གནོན་པ།** རང་ཅག་གི་དགེ་བ་ནི་ཉམ་ཆུང་ལ་སྡིག་པ་ནི་སྟོབས་ཤིན་ཏུ་ཆེ་ནའང་། མདོ་ལས་ "བྱི་ལའི་མིག་གིས་བལྟས་པས་བྱི་བ་རྣམས་ཟིལ་གྱིས་གནོན་པ་དེ་བཞིན་དུ།" ཞེས་གསུངས་པ་ལྟར། རྫོགས་པའི་བྱང་ཆུབ་ཀྱི་སེམས་སྐྱེས་མ་ཐག་ཏུ་སྡིག་པ་སྟོབས་ཆེན་དེ་དག་ཐམས་ཅད་ཟིལ་གྱིས་གནོན་པར་བྱེད།
+    
+- **བདེ་བ་མྱུར་དུ་ཐོབ་པ།** སངས་རྒྱས་རྣམས་ཀྱིས་བསྐལ་བ་དུ་མར་བརྟག་དཔྱད་མཛད་མཐར། ཚད་མེད་པའི་སེམས་ཅན་རྣམས་ལ་ཕན་བདེ་སྒྲུབ་པའི་ཐབས་མཆོག་ཉག་གཅིག་ནི་བྱང་ཆུབ་ཀྱི་སེམས་འདི་ཁོ་ན་ཡིན་པར་གཟིགས།
+    
+- **འདོད་དོན་ཀུན་འགྲུབ་པ།** རང་ཉིད་འཁོར་བའི་སྡུག་བསྔལ་ལས་ཐར་འདོད་དམ། གཞན་གྱི་སྡུག་བསྔལ་སེལ་འདོད། ཡང་ན་བདེ་བ་བརྒྱ་ཕྲག་ལ་སྤྱོད་འདོད་ཀྱི་སྐྱེས་བུ་གང་ཡིན་རུང་། དེ་དག་འགྲུབ་པའི་ཐབས་ནི་བྱང་ཆུབ་ཀྱི་སེམས་ཡིན་པས། འདི་ནི་རྟག་ཏུ་མ་བཏང་བར་བཟུང་དགོས་སོ། །
+    
+
+## ༣༽ དེ་རིང་གི་ཉམས་ལེན།
+
+**ཉམས་ལེན་དངོས།:** དེ་རིང་བདག་གིས་བདེ་སྡུག་གང་བྱུང་ཡང་། སེམས་ཅན་ཀུན་དོན་དུ་སྙམ་པའི་བྱང་སེམས་སྐད་ཅིག་ཀྱང་མི་གཏང་བར་བསྒོམ་རྒྱུ་ཡིན།
+
+**འགྲེལ་བཤད།:** (རང་སེམས་འདུལ་བ།) རང་ཅག་གི་རྒྱུན་ལྡན་གྱི་དགེ་བ་ནི་ཉམ་ཆུང་ཞིང་རང་དོན་ཁོ་ན་ལས་མ་འདས་པས་སྡིག་པ་ཟིལ་གྱིས་གནོན་མི་ནུས། དེར་བརྟེན་དེ་རིང་ངས་བྱ་བ་གང་བྱས་ཀྱང་ "འདིས་སེམས་ཅན་ཐམས་ཅད་ཀྱི་སྡུག་བསྔལ་བསལ་ནས་བདེ་བ་ཐོབ་པར་ཤོག" ཅེས་པའི་ཀུན་སློང་བཅོས་མིན་ཞིག་བསྐྱེད་དེ། རང་འདོད་ཀྱི་སེམས་དོར་ནས་བྱང་ཆུབ་ཀྱི་སེམས་རྟག་ཏུ་རང་རྒྱུད་ལ་བཟུང་བ་ནི། སངས་རྒྱས་རྣམས་ཀྱིས་བསྐལ་བ་དུ་མར་གཟིགས་པའི་ཕན་བདེ་འགྲུབ་པའི་ལམ་མཆོག་དེ་ཉིད་ཉམས་སུ་བླངས་པ་ཡིན་ནོ། །
+
+# ཉིན་ ༡ - ཉིན་ ༣༦༥ ཡི་སྤྱོད་འཇུག་སློབ་སྦྱོང།

@@ -215,10 +215,13 @@ class CmsClient:
         self.base_url = base_url.rstrip("/")
         self.session = requests.Session()
 
-    def _call(self, method: str, path: str, **kwargs):
+    def _call(self, method: str, path: str, tolerate=(), **kwargs):
         url = f"{self.base_url}{path}"
         resp = self.session.request(method, url, timeout=60, **kwargs)
         if resp.status_code >= 400:
+            if resp.status_code in tolerate:
+                print(f"  (tolerated {resp.status_code} on {method} {path})")
+                return None
             sys.exit(
                 f"API error {resp.status_code} on {method} {path}:\n{resp.text[:2000]}"
             )
@@ -356,7 +359,19 @@ class CmsClient:
 
 def _norm(text) -> str:
     """Whitespace-insensitive comparison form for HTML content."""
-    return re.sub(r"\s+", " ", (text or "")).strip()
+    import unicodedata
+    return unicodedata.normalize(
+        "NFC", re.sub(r"\s+", " ", (text or ""))
+    ).strip()
+
+
+def _titles_equal(server_title: str, want_title: str) -> bool:
+    """Compare titles ignoring Unicode form, whitespace, and a leading
+    Tibetan-numeral prefix (e.g. '༡། ') that older uploads may carry."""
+    a, b = _norm(server_title), _norm(want_title)
+    if a == b:
+        return True
+    return TIBETAN_NUMERAL_PREFIX.sub("", a) == TIBETAN_NUMERAL_PREFIX.sub("", b)
 
 
 def _sorted_tasks(day: dict) -> list:
@@ -364,9 +379,10 @@ def _sorted_tasks(day: dict) -> list:
 
 
 def _first_text_subtask(task: dict):
-    subs = sorted(
-        task.get("sub_tasks") or [], key=lambda s: s.get("display_order") or 0
-    )
+    # The CMS uses both spellings across endpoints ("sub_tasks" in POST/PUT
+    # bodies, "subtasks" in GET /cms/plans responses) — accept either.
+    raw = task.get("sub_tasks") or task.get("subtasks") or []
+    subs = sorted(raw, key=lambda s: s.get("display_order") or 0)
     for s in subs:
         if (s.get("content_type") or "TEXT") == "TEXT":
             return s, len(subs)
@@ -448,7 +464,7 @@ def sync_day(client, plan_id: str, day_number: int, desired: list[dict],
                     order_dirty = True
                     final_ids.append(task_id)
                     continue
-            if (task.get("title") or "").strip() != want["title"]:
+            if not _titles_equal(task.get("title") or "", want["title"]):
                 actions.append(
                     f"retitle task {i + 1}: '{task.get('title')}' -> '{want['title']}'"
                 )
@@ -507,7 +523,7 @@ def verify_day(client, plan_id: str, day_number: int, desired: list[dict]) -> bo
             continue
         task = existing[i]
         sub, _ = _first_text_subtask(task)
-        t_ok = (task.get("title") or "").strip() == want["title"]
+        t_ok = _titles_equal(task.get("title") or "", want["title"])
         c_ok = sub is not None and _norm(sub.get("content")) == _norm(want["html"])
         mark = "✓" if (t_ok and c_ok) else "✗"
         detail = "" if (t_ok and c_ok) else (

@@ -27,7 +27,7 @@ The output is always saved as a Tibetan-language markdown file.
 | File                                                                                                                                     | Purpose                                                                                                                                                                                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\1-SOURCES\Translations\bo-བློ་ལྡན་ཤེས་རབ།.md` | **Root text** — canonical Tibetan translation by Blo ldan shes rab. **Always read this file and extract verses directly from it.** Never quote root-text verses from memory or training data. Verses are identified by block references in the format `^chapter-verse` (e.g. `^4-43` for Chapter 4, verse 43). |
-| `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\1-SOURCES\Commentaries\` (all `.md` files in this folder) | **Commentaries** — all available Tibetan and Chinese commentaries on the *Bodhisattvacharyavatara*. **Always read the relevant files and extract commentary from them.** Never invent or improvise commentary. Read as many commentaries as are relevant to the verse being covered. |
+| `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\1-SOURCES\Commentaries\Transcluded\` (all `.md` files in this folder) | **Commentaries** — all available Tibetan and Chinese commentaries on the *Bodhisattvacharyavatara*. **Always read the relevant files and extract commentary from them.** Never invent or improvise commentary. Read as many commentaries as are relevant to the verse being covered. |
 
 ---
 
@@ -41,7 +41,7 @@ Ask the user (or infer from context) for:
 
 If the user only gives a day number, read `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/bo/schedule-corrected.md` to find the chapter and verse(s) assigned for that day.
 
-Once you have the chapter and verse range, **read the root text and all relevant commentary files** before writing any content. Extract the exact verse text from `bo-བློ་ལྡན་ཤེས་རབ།.md` and the relevant commentary passages from all files in `1-SOURCES/Commentaries/` before composing the document.
+Once you have the chapter and verse range, **read the root text and all relevant commentary files** before writing any content. Extract the exact verse text from `bo-བློ་ལྡན་ཤེས་རབ།.md` and the relevant commentary passages from all files in `1-SOURCES/Commentaries/Transcluded/` before composing the document.
 
 ---
 
@@ -251,7 +251,7 @@ Open the section with the literal heading `### ༤། འགྲེལ་བཤ�
 
 #### How to find the commentary — the pipeline
 
-The commentary files in `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\1-SOURCES\Commentaries\` have root verses transcluded directly into them. To find what each commentary says about a verse:
+The commentary files in `C:\Users\tiger\Obsidian\bodhisattvacharyavatara-rails\1-SOURCES\Commentaries\Transcluded\` have root verses transcluded directly into them. To find what each commentary says about a verse:
 
 1. Open each commentary file.
 2. Locate the transclusion of the day's verse (e.g. `![[1-SOURCES/Text/...#^chapter-verse]]`).
@@ -272,7 +272,7 @@ Format:
 ```markdown
 [Combined explanation — 3–5 sentences in clear, warm Tibetan, synthesising the day's commentary material across all assigned verses.]
 
-**མཆན།**: [[1-SOURCES/Commentaries/filename#^blockid|Display name ^blockid]], [[1-SOURCES/Commentaries/filename#^blockid|Display name ^blockid]]
+**མཆན།**: [[1-SOURCES/Commentaries/Transcluded/filename#^blockid|Display name ^blockid]], [[1-SOURCES/Commentaries/Transcluded/filename#^blockid|Display name ^blockid]]
 ```
 
 The `**མཆན།**` line lists **all** block IDs drawn from, formatted as clickable Obsidian wikilinks. If material came from multiple commentary files, list all of them.
@@ -283,7 +283,7 @@ The `**མཆན།**` line lists **all** block IDs drawn from, formatted as cli
 - **One unified explanation, not per-verse sub-sections.** Do not add sub-headers or separate the content by verse number inside Section 4.
 - The explanation must end with a `**མཆན།**` line citing every block ID used.
 
-> ⚠️ **Critical rule for Section 4**: All content must be extracted from `1-SOURCES/Commentaries/` via the pipeline. If you cannot locate commentary for the day's verses in the files, state this explicitly — do not invent or improvise.
+> ⚠️ **Critical rule for Section 4**: All content must be extracted from `1-SOURCES/Commentaries/Transcluded/` via the pipeline. If you cannot locate commentary for the day's verses in the files, state this explicitly — do not invent or improvise.
 
 ---
 
@@ -484,7 +484,7 @@ If the user doesn't specify verses and asks only for a day number, read that fil
 - [ ] Section 3 — verses found in `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` and copied exactly — not quoted from memory or training data
 - [ ] Section 4 — one single combined explanation covering all of the day's verses; no per-verse sub-headers or sub-sections inside Section 4
 - [ ] Section 4 — explanation is 3–5 sentences; informative and inspiring, synthesising the most meaningful commentary material across all assigned verses
-- [ ] Section 4 — all content sourced from `1-SOURCES/Commentaries/` via the pipeline (commentary text between the verse transclusion and the next verse transclusion); ends with a **མཆན།** citation line listing all block IDs used
+- [ ] Section 4 — all content sourced from `1-SOURCES/Commentaries/Transcluded/` via the pipeline (commentary text between the verse transclusion and the next verse transclusion); ends with a **མཆན།** citation line listing all block IDs used
 - [ ] Exactly 1 today's challenge in Section 5 — short two-part format: bold Tibetan phrase headline + **འགྲེལ་བཤད།** with 2–3 sentences of practical instruction
 - [ ] Section 5 challenge is very simple and actionable for ordinary people in daily life — concrete, not generic
 - [ ] If the day has multiple verses, Section 5 is based on the single verse whose theme translates most naturally into everyday action

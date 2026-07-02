@@ -21,9 +21,14 @@ Pipeline
     read file
       -> detect or accept --source-lang / --target-lang
       -> split off YAML front matter (kept verbatim, optionally translated)
-      -> chunk the body into ~3000-4000 char pieces WITHOUT ever splitting a
-         verse block (only break on a blank line or immediately after a line
-         carrying a block identifier)
+      -> chunk the body BY CHAPTER (default): one chunk per `##` heading, so
+         each LLM call sees a whole chapter and keeps register/terminology
+         coherent within it. A chapter whose text exceeds --max-chapter-chars
+         falls back to the legacy ~3000-4000 char verse-safe window
+         (chunk_body) for that chapter only -- never crossing a chapter
+         boundary, and never splitting inside a verse block. Pass
+         --chunk-mode char to revert to fixed-size-window chunking for the
+         whole file (the old default).
       -> translate each chunk automatically via LLM API (gemini / claude / openai)
       -> checkpoint each chunk to work/<source>_<level>/ for --resume
       -> reassemble + write translated_<level>.md
@@ -180,6 +185,11 @@ RESOURCE_LINK_RE = re.compile(r"^!\[\[.*\]\]\s*$")
 
 # Markdown heading line (# .. ######)
 HEADING_RE = re.compile(r"^#{1,6}\s")
+
+# Chapter-level heading. Per the vault convention (CLAUDE.md Sec 5a), `##`
+# marks chapter level (`## N. Title ^N-0`); `###`/`####` are sub-sections that
+# stay inside their parent chapter's chunk.
+CHAPTER_HEADING_RE = re.compile(r"^##\s")
 
 FRONT_MATTER_DELIM = "---"
 
@@ -383,6 +393,68 @@ def chunk_body(body: str, min_chars: int = 3000, max_chars: int = 4000) -> list[
         chunks.append("\n".join(cur))
 
     return chunks
+
+
+def chunk_by_chapter(body: str, *, chapter_max_chars: int = 12000,
+                     fallback_min_chars: int = 3000,
+                     fallback_max_chars: int = 4000) -> list[str]:
+    """Slice the body into one chunk per chapter (level-2 ``##`` heading).
+
+    Chapter boundaries are the primary and only intentional cut points: per
+    the vault convention, ``##`` marks chapter level (``## N. Title ^N-0``),
+    while ``###``/``####`` sub-sections stay inside their parent chapter's
+    chunk. Any preamble before the first ``##`` heading (the document's ``#``
+    title line, an opening prostration, etc.) is folded into chapter 1's
+    chunk instead of being sent as its own tiny fragment.
+
+    Why per-chapter and not per-verse or fixed-size: sending a whole chapter
+    in one call lets the model keep register and terminology coherent across
+    the chapter's own arc, and it maps naturally onto how a human translator
+    (and every other skill in this vault, e.g. ``bo-hi-translate``) already
+    works "chapter by chapter, identify locked terms, then translate".
+
+    Chapters vary hugely in length -- Chapter 6 (Patience) alone runs to
+    roughly 130 verses -- so a chapter whose text exceeds ``chapter_max_chars``
+    is NOT sent as one unbounded chunk (risking silently truncated LLM
+    output); it falls back to the verse-safe boundary splitting in
+    ``chunk_body()`` for that chapter only. A sub-split from that fallback
+    never crosses into a neighboring chapter.
+
+    If the body has no ``##`` headings at all (e.g. a non-chaptered fragment),
+    this falls back to plain ``chunk_body()`` over the whole thing.
+    """
+    if not body.strip():
+        return []
+
+    lines = body.split("\n")
+    heading_idxs = [i for i, l in enumerate(lines) if CHAPTER_HEADING_RE.match(l)]
+
+    if not heading_idxs:
+        return chunk_body(body, fallback_min_chars, fallback_max_chars)
+
+    # Fold any preamble (everything before the first ## heading) into
+    # chapter 1's span rather than emitting it as a separate chunk.
+    starts = [0] + heading_idxs[1:]
+    ends = heading_idxs[1:] + [len(lines)]
+
+    chunks: list[str] = []
+    for start, end in zip(starts, ends):
+        text = "\n".join(lines[start:end]).strip("\n")
+        if not text.strip():
+            continue
+        if len(text) > chapter_max_chars:
+            chunks.extend(chunk_body(text, fallback_min_chars, fallback_max_chars))
+        else:
+            chunks.append(text)
+    return chunks
+
+
+def chunk_label(chunk: str) -> str:
+    """First heading line in a chunk, for human-readable dry-run reports."""
+    for line in chunk.split("\n"):
+        if HEADING_RE.match(line):
+            return line.strip()
+    return ""
 
 
 # ---------------------------------------------------------------------------
@@ -1155,6 +1227,7 @@ def init_automated_workdir(
     reference_path: str | None,
     backend_name: str,
     model: str,
+    chunk_mode: str = "chapter",
 ) -> None:
     """Write manifest and system instruction for an automated (checkpointed) run."""
     os.makedirs(os.path.join(work_dir, "chunks"), exist_ok=True)
@@ -1165,6 +1238,7 @@ def init_automated_workdir(
         "level": level,
         "output": output,
         "chunk_count": len(chunks),
+        "chunk_mode": chunk_mode,
         "front_matter": front_matter,
         "reference": os.path.abspath(reference_path) if reference_path else None,
         "source_chunk_ids": [chunk_block_ids(c) for c in chunks],
@@ -1193,6 +1267,7 @@ def export_manual_workdir(
     reference_path: str | None,
     reference_map: dict[str, str] | None,
     translate_frontmatter: list[str] | None,
+    chunk_mode: str = "chapter",
 ) -> None:
     """Write manifest, system prompt, per-chunk prompts, and response templates."""
     os.makedirs(os.path.join(work_dir, "chunks"), exist_ok=True)
@@ -1204,6 +1279,7 @@ def export_manual_workdir(
         "level": level,
         "output": output,
         "chunk_count": len(chunks),
+        "chunk_mode": chunk_mode,
         "front_matter": front_matter,
         "reference": os.path.abspath(reference_path) if reference_path else None,
         "translate_frontmatter": translate_frontmatter,
@@ -1333,7 +1409,15 @@ def run(args: argparse.Namespace) -> int:
         text = f.read()
 
     doc = split_front_matter(text)
-    chunks = chunk_body(doc.body, args.min_chars, args.max_chars)
+    if args.chunk_mode == "chapter":
+        chunks = chunk_by_chapter(
+            doc.body,
+            chapter_max_chars=args.max_chapter_chars,
+            fallback_min_chars=args.min_chars,
+            fallback_max_chars=args.max_chars,
+        )
+    else:
+        chunks = chunk_body(doc.body, args.min_chars, args.max_chars)
 
     # Optional parallel reference (e.g. the Sanskrit root text). It is parsed
     # into an id->verse map and surfaced to the model per chunk; it is never
@@ -1363,10 +1447,15 @@ def run(args: argparse.Namespace) -> int:
             print(f"  unmatched ids (no ref)  : {preview}")
     print(f"Output: {output}")
     print(f"Front matter: {'yes' if doc.front_matter else 'no'}")
+    print(f"Chunk mode: {args.chunk_mode}"
+          + (f"  (max {args.max_chapter_chars} chars/chapter before fallback split)"
+             if args.chunk_mode == "chapter" else ""))
     print(f"Body length: {len(doc.body)} chars -> {len(chunks)} chunk(s)")
     for i, c in enumerate(chunks, 1):
+        label = chunk_label(c)
+        label_part = f"  [{label}]" if label else ""
         print(f"  chunk {i:>3}: {len(c):>5} chars, "
-              f"{len(extract_anchors(c))} anchor(s)")
+              f"{len(extract_anchors(c))} anchor(s){label_part}")
 
     if args.dry_run:
         print("\n[dry-run] No API calls made.")
@@ -1393,6 +1482,7 @@ def run(args: argparse.Namespace) -> int:
             reference_path=args.reference,
             reference_map=reference_map,
             translate_frontmatter=args.translate_frontmatter,
+            chunk_mode=args.chunk_mode,
         )
         print(f"\nPaste responses into {work_dir}/chunks/")
         print("  (e.g. 001_response.md, 002_response.md, … — not a literal 'NNN' name)")
@@ -1411,6 +1501,14 @@ def run(args: argparse.Namespace) -> int:
                 f"Chunk count mismatch: manifest has {manifest['chunk_count']}, "
                 f"source produces {len(chunks)}. Delete {work_dir} or run "
                 "without --resume."
+            )
+        prior_mode = manifest.get("chunk_mode", "char")  # older manifests predate this field
+        if prior_mode != args.chunk_mode:
+            raise TranslationError(
+                f"Chunk mode mismatch: checkpoint was created with "
+                f"--chunk-mode {prior_mode}, but this run passed "
+                f"--chunk-mode {args.chunk_mode}. Match the original mode, "
+                f"or delete {work_dir} to start over."
             )
         saved = load_chunk_responses(work_dir, len(chunks))
         done = sum(1 for s in saved if s is not None)
@@ -1431,6 +1529,7 @@ def run(args: argparse.Namespace) -> int:
             reference_path=args.reference,
             backend_name=backend_name,
             model=model,
+            chunk_mode=args.chunk_mode,
         )
         print(f"Checkpoints: {work_dir}/chunks/001_response.md, 002_response.md, …")
 
@@ -1490,9 +1589,9 @@ def run(args: argparse.Namespace) -> int:
 def build_arg_parser() -> argparse.ArgumentParser:
     hi_levels = ", ".join(_AUDIENCE_TEMPLATES)
     p = argparse.ArgumentParser(
-        description="Zero-shot Buddhist Markdown translator with verse-safe "
-                    "chunking and structure preservation. Any source language "
-                    "to any target language."
+        description="Zero-shot Buddhist Markdown translator with chapter-wise, "
+                    "verse-safe chunking and structure preservation. Any "
+                    "source language to any target language."
     )
     p.add_argument("source", help="Path to the source Markdown file.")
     p.add_argument("--source-lang", "--from", dest="source_lang", default=None,
@@ -1539,10 +1638,33 @@ def build_arg_parser() -> argparse.ArgumentParser:
     p.add_argument("--assemble", action="store_true",
                    help="Assemble translated output from saved chunk responses "
                         "in --work-dir (no API calls).")
+    p.add_argument("--chunk-mode", choices=["chapter", "char"], default="chapter",
+                   dest="chunk_mode",
+                   help="Chunking strategy (default: chapter). 'chapter' sends "
+                        "one LLM call per ## chapter heading, so a whole "
+                        "chapter's register/terminology stays coherent in one "
+                        "call; a chapter bigger than --max-chapter-chars still "
+                        "falls back to verse-safe --min-chars/--max-chars "
+                        "splitting for that chapter only. 'char' uses the "
+                        "legacy fixed-size window over the whole file, "
+                        "ignoring chapter boundaries.")
+    p.add_argument("--max-chapter-chars", type=int, default=12000,
+                   dest="max_chapter_chars",
+                   help="In --chunk-mode chapter: a chapter larger than this "
+                        "many characters is sub-split via --min-chars/"
+                        "--max-chars instead of sent as one chunk, to avoid "
+                        "truncated LLM output on long chapters (default: "
+                        "12000).")
     p.add_argument("--min-chars", type=int, default=3000, dest="min_chars",
-                   help="Minimum chunk size in characters (default: 3000).")
+                   help="Minimum chunk size in characters (default: 3000). "
+                        "Used directly in --chunk-mode char, and as the "
+                        "fallback split size for oversized chapters in "
+                        "--chunk-mode chapter.")
     p.add_argument("--max-chars", type=int, default=4000, dest="max_chars",
-                   help="Maximum chunk size in characters (default: 4000).")
+                   help="Maximum chunk size in characters (default: 4000). "
+                        "Used directly in --chunk-mode char, and as the "
+                        "fallback split size for oversized chapters in "
+                        "--chunk-mode chapter.")
     p.add_argument("--delay", type=float, default=4.0,
                    help="Seconds to wait between chunk API calls (default: 4).")
     p.add_argument("--retries", type=int, default=3,

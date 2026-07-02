@@ -103,59 +103,29 @@ BOLD_RE = re.compile(r"\*\*(.+?)\*\*")
 DAY_NUMBER_RE = re.compile(r"day[-_ ]?(\d+)", re.IGNORECASE)
 
 
-def strip_md_inline(text: str) -> str:
-    """Convert inline markdown (bold) to HTML."""
-    return BOLD_RE.sub(r"<strong>\1</strong>", text)
+def md_block_to_markdown(lines: list[str]) -> str:
+    """Clean a section's lines into standalone, valid markdown.
 
-
-def md_block_to_html(lines: list[str]) -> str:
-    """Convert a section's markdown lines to simple HTML."""
-    html: list[str] = []
-    para: list[str] = []
-    quote: list[str] = []
-
-    def flush_para():
-        if para:
-            html.append("<p>" + "<br/>".join(strip_md_inline(l) for l in para) + "</p>")
-            para.clear()
-
-    def flush_quote():
-        if quote:
-            html.append(
-                "<blockquote>"
-                + "<br/>".join(strip_md_inline(l) for l in quote)
-                + "</blockquote>"
-            )
-            quote.clear()
-
+    Keeps headings, blockquotes, bold, etc. verbatim; drops '---'
+    separator lines and collapses runs of blank lines.
+    """
+    out: list[str] = []
     for raw in lines:
         line = raw.rstrip()
-        stripped = line.strip()
-        if not stripped:
-            flush_para()
-            flush_quote()
+        if line.strip() == "---":
             continue
-        if stripped == "---":
-            flush_para()
-            flush_quote()
+        if not line.strip():
+            if out and out[-1] == "":
+                continue  # collapse multiple blank lines
+            out.append("")
             continue
-        m = SUBSECTION_RE.match(stripped)
-        if m:
-            flush_para()
-            flush_quote()
-            title = BOLD_RE.sub(r"\1", m.group(1)).strip()
-            html.append(f"<h4>{title}</h4>")
-            continue
-        if stripped.startswith(">"):
-            flush_para()
-            quote.append(stripped.lstrip(">").strip())
-            continue
-        flush_quote()
-        para.append(stripped)
-
-    flush_para()
-    flush_quote()
-    return "\n".join(html)
+        out.append(line)
+    # strip leading/trailing blank lines
+    while out and out[0] == "":
+        out.pop(0)
+    while out and out[-1] == "":
+        out.pop()
+    return "\n".join(out)
 
 
 def parse_day_file(path: Path) -> dict:
@@ -189,7 +159,8 @@ def parse_day_file(path: Path) -> dict:
         sys.exit(f"No '### ' sections found in {path} — nothing to upload.")
 
     tasks = [
-        {"title": s["title"], "html": md_block_to_html(s["lines"])} for s in sections
+        {"title": s["title"], "content": md_block_to_markdown(s["lines"])}
+        for s in sections
     ]
 
     m = DAY_NUMBER_RE.search(path.stem)
@@ -305,7 +276,7 @@ class CmsClient:
 
     # -- sub-tasks ----------------------------------------------------------
 
-    def create_text_subtask(self, task_id: str, html: str) -> str:
+    def create_text_subtask(self, task_id: str, content: str) -> str:
         data = self._call(
             "POST",
             "/cms/sub-tasks",
@@ -314,7 +285,7 @@ class CmsClient:
                 "sub_tasks": [
                     {
                         "content_type": "TEXT",
-                        "content": html,
+                        "content": content,
                         "duration": None,
                         "source_text_id": None,
                         "pecha_segment_id": None,
@@ -327,7 +298,7 @@ class CmsClient:
         )
         return data["sub_tasks"][0]["id"]
 
-    def update_text_subtask(self, task_id: str, sub_task_id: str, html: str):
+    def update_text_subtask(self, task_id: str, sub_task_id: str, content: str):
         self._call(
             "PUT",
             "/cms/sub-tasks",
@@ -337,7 +308,7 @@ class CmsClient:
                     {
                         "id": sub_task_id,
                         "content_type": "TEXT",
-                        "content": html,
+                        "content": content,
                         "display_order": 1,
                         "duration": None,
                         "image_url": None,
@@ -419,7 +390,7 @@ def sync_day(client, plan_id: str, day_number: int, desired: list[dict],
              apply: bool = True, update_only: bool = False) -> list[str]:
     """Converge the remote day to the desired tasks. Returns action log.
 
-    desired: [{"title": str, "html": str}, ...] in file order.
+    desired: [{"title": str, "content": str (markdown)}, ...] in file order.
     apply=False → read-only: report what would change, write nothing.
     update_only=True → never delete or recreate tasks; only update
     titles/content in place and create missing tasks.
@@ -461,7 +432,7 @@ def sync_day(client, plan_id: str, day_number: int, desired: list[dict],
                     if apply:
                         client.delete_task(task_id)
                         task_id = client.create_task(plan_id, day_id, want["title"])
-                        client.create_text_subtask(task_id, want["html"])
+                        client.create_text_subtask(task_id, want["content"])
                     order_dirty = True
                     final_ids.append(task_id)
                     continue
@@ -471,16 +442,16 @@ def sync_day(client, plan_id: str, day_number: int, desired: list[dict],
                 )
                 if apply:
                     client.update_task_title(task_id, want["title"])
-            if _norm(sub.get("content")) != _norm(want["html"]):
+            if _norm(sub.get("content")) != _norm(want["content"]):
                 actions.append(f"update content of task {i + 1} '{want['title']}'")
                 if apply:
-                    client.update_text_subtask(task_id, sub["id"], want["html"])
+                    client.update_text_subtask(task_id, sub["id"], want["content"])
             final_ids.append(task_id)
         else:
             actions.append(f"create task '{want['title']}' + TEXT sub-task")
             if apply:
                 task_id = client.create_task(plan_id, day_id, want["title"])
-                client.create_text_subtask(task_id, want["html"])
+                client.create_text_subtask(task_id, want["content"])
                 final_ids.append(task_id)
             order_dirty = True
 
@@ -514,7 +485,7 @@ def replace_day(client, plan_id: str, day_number: int,
     for want in desired:
         actions.append(f"create task '{want['title']}' + TEXT sub-task")
         task_id = client.create_task(plan_id, day["id"], want["title"])
-        client.create_text_subtask(task_id, want["html"])
+        client.create_text_subtask(task_id, want["content"])
     return actions
 
 
@@ -541,7 +512,7 @@ def verify_day(client, plan_id: str, day_number: int, desired: list[dict]) -> bo
         task = existing[i]
         sub, _ = _first_text_subtask(task)
         t_ok = _titles_equal(task.get("title") or "", want["title"])
-        c_ok = sub is not None and _norm(sub.get("content")) == _norm(want["html"])
+        c_ok = sub is not None and _norm(sub.get("content")) == _norm(want["content"])
         mark = "✓" if (t_ok and c_ok) else "✗"
         detail = "" if (t_ok and c_ok) else (
             " [title mismatch]" if not t_ok else " [content mismatch]"
@@ -604,13 +575,13 @@ def main():
     print(f"Day number: {day_number if day_number else '?? (pass --day-number)'}")
     print(f"Tasks     : {len(parsed['tasks'])}")
     for i, t in enumerate(parsed["tasks"], 1):
-        print(f"  {i}. {t['title']}  ({len(t['html'])} chars HTML)")
+        print(f"  {i}. {t['title']}  ({len(t['content'])} chars markdown)")
 
     if args.dry_run:
-        print("\n--- HTML preview ---")
+        print("\n--- Markdown preview ---")
         for t in parsed["tasks"]:
             print(f"\n===== {t['title']} =====")
-            print(t["html"])
+            print(t["content"])
         print("\nDry run complete. No API calls made.")
         return
 

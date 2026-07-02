@@ -202,6 +202,7 @@ Convert all day, chapter, and verse numbers to Tibetan numerals (see reference t
 > བྱང་ཆུབ་ཐུགས་ནི་བསྐྱེད་པ་དང་། །
 > བྱང་ཆུབ་སེམས་དཔའི་བསླབ་པ་ལ། །
 > དེ་དག་རིམ་བཞིན་གནས་པ་ལྟར། །
+
 > དེ་བཞིན་འགྲོ་ལ་ཕན་དོན་དུ། །
 > བྱང་ཆུབ་སེམས་ནི་བསྐྱེད་བགྱི་ཞིང་། །
 > དེ་བཞིན་དུ་ནི་བསླབ་པ་ལའང་། །
@@ -264,7 +265,7 @@ Write **one single combined explanation** covering all of the day's verses toget
 
 The explanation should be **informative and inspiring**: it synthesises the most meaningful, illuminating, or moving content across the pipeline material for all of the day's verses into a unified whole. This may be a **thematic expansion of a key idea, a teaching story, a clarification of a difficult term, or any combination** — whatever the commentary material most richly supports. It should read as a warm, coherent teaching, not a mechanical list of per-verse notes.
 
-Length: **4–8 sentences**. Prefer depth over coverage — one idea rendered fully is better than three ideas sketched superficially.
+Length: **3–5 sentences**. Prefer depth over coverage — one idea rendered fully is better than three ideas sketched superficially.
 
 Format:
 
@@ -460,7 +461,7 @@ For chapter names in the header, use the traditional Tibetan word form for the o
 - [ ] Section 3 — verse numbers in all headers are the real chapter verse numbers and match the day's assigned range
 - [ ] Section 3 — verses found in the provided root text source (Knowledge or prompt) and copied exactly — not quoted from memory or training data
 - [ ] Section 4 — one single combined explanation covering all of the day's verses; no per-verse sub-headers or sub-sections inside Section 4
-- [ ] Section 4 — explanation is 4–8 sentences; informative and inspiring, synthesising the most meaningful commentary material across all assigned verses
+- [ ] Section 4 — explanation is 3–5 sentences; informative and inspiring, synthesising the most meaningful commentary material across all assigned verses
 - [ ] Section 4 — all content sourced from provided commentary sources (Knowledge or prompt); ends with a **མཆན།** citation line listing all sources used
 - [ ] Section 4 uses neutral tone — no first person (ངས་ / ང་རང་ / བདག་གིས་) in Section 4
 - [ ] Exactly 1 today's challenge in Section 5 — short two-part format: bold Tibetan phrase headline + **འགྲེལ་བཤད།** with 2–3 sentences of practical instruction

@@ -1,0 +1,164 @@
+---
+verse_id: "1-18"
+skill: Verse-Context-Summary
+creator: Tigerboy
+sources:
+  sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
+  tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
+  mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+status: draft
+notes: "gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, and khenpo-kunga each group verses 1-18 and 1-19 (and in the case of ngulchu-thogmed, also 1-17) under consecutive transclusions; their shared prose appears after the final transclusion in each run. Prose extracted per the updated Verse-Context-Summary skill rule. All citations are file-level; no block IDs are stamped in any commentary span."
+---
+
+# སྤྱོད་འཇུག ༡།༡༨པའི་ཤོག་ངོས།
+
+## ལེགས་སྦྱར། (Sanskrit)
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^1-18]]
+
+---
+
+## བོད་ཡིག (Tibetan — བློ་ལྡན་ཤེས་རབ།)
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-18]]
+
+---
+
+## མཆན་འགྲེལ། (གཞན་དགའི་མཆན་འགྲེལ)
+
+དུས་**གང་ནས་བཟུང་སྟེ་སེམས་ཅན་** གྱི་**ཁམས།** **མཐའ་ཡས་** པ་རྣམས་**རབ་ཏུ་དགྲོལ་** བར་བྱ་བའི་**ཕྱིར།** སྦྱིན་སོགས་ལ་འཇུག་པ་**མི་ལྡོག་པ་ཡི་སེམས་ཀྱིས་སུ།** འཇུག་པ་བྱང་ཆུབ་ཀྱི་**སེམས་དེ་ཡང་དག་** པར་**བླངས་** པར་**གྱུར་པ།**
+
+→ ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]])
+
+---
+
+## དོན་འགྲེལ། (Commentary explanations)
+
+### kunpal — མཁན་པོ་ཀུན་བཟང་དཔལ་ལྡན། (བདུད་རྩིའི་ཐིག་པ།)
+
+དུས་གང༷་ནས༷་བཟུང༷་སྟེ༷་ཆེད་དུ་བྱ་བ་སེ༷མས་ཅ༷ན་གྱི་ཁ༷མས་མཐ༷འ་ཡ༷ས་ཤིང་མུ་མེད་པ་སྲིད་ཞིའི་སྡུག་བསྔལ་ལས་རབ༷་ཏུ༷་དགྲོལ༷་བའམ་བསྒྲལ་ཏེ་སངས་རྒྱས་ཐོབ་པའི་ཕྱིར༷་དུ་ཕྱིན་དྲུག་ལ་སྤྱོད་པར་དམ་བཅའ་བའི་དམ་བཅའ་དེ་ལས་ཕྱིར་མི༷་ལྡོག༷་སྙམ་པ༷་ཡི༷་སེ༷མས་ཀྱིས༷་སུ༷་འཇུག་པའི་སེམ༷ས་དེ༷་ཡང༷་དག༷་པར་བླང༷ས་ཏེ་མ་ཉམས་པར་བསྲུང་བར་གྱུར༷་པ་སྟེ་བསྲུང་བར་བྱས་ན་
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]])
+
+### gyaltsab — རྒྱལ་ཚབ་དར་མ་རིན་ཆེན། (རྒྱལ་སྲས་འཇུག་ངོགས།)
+
+*Note: gyaltsab groups verses 1-18 and 1-19 under consecutive transclusions; the following prose covers both.*
+
+གང་ནས་བཟུང་སྟེ་སེམས་ཅན་གྱི་ཁམས་པས་མཐའ་ཡས་བས་པ་འཁོར་བ་ལས་རབ་ཏུ་སྒྲོལ་ཞིང་སངས་རྒྱས་ཀྱི་ས་ལ་དགོད་པའི་ཕྱིར་དུ་འཁོར་བ་ཇི་སྲིད་བར་གཞན་དོན་ལས་མི་ལྡོག་པའི་སེམས་ཀྱིས་སུ་འཇུག་སེམས་དེ་ཡང་དག་པར་བླངས་པར་གྱུར་པ་དུས་དེ་ནས་བཟུང་སྟེ་གཉིད་ལོག་གམ་ར་རོ་བ་སོགས་ཀྱིས་བག་མེད་པར་གྱུར་ཀྱང་བསོད་ནམས་ཀྱི་ཤུགས་དུས་རྒྱུན་མི་འཆད་པར་དུ་མ་ཞིག་ཚད་ནམ་མཁའ་དང་མཉམ་པར་རབ་ཏུ་འབྱུང་སྟེ། སྨོན་སེམས་ས་ནི་ནི་འབྲས་བུ་ལ་དོན་གཉེར་ཙམ་དུ་ཟད་ལ་འཇུག་སེམས་ནི་སངས་རྒྱས་ཀྱི་རྒྱུ་རྫོགས་པ་སྒྲུབ་པས་ཟིན་པའོ། །
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]])
+
+### ngulchu-thogmed — དངུལ་ཆུ་ཐོགས་མེད། (ལེགས་བཤད་རྒྱ་མཚོ།)
+
+*Note: ngulchu-thogmed groups verses 1-17, 1-18, and 1-19 under consecutive transclusions; the following prose covers all three. The passage begins with verse 1-17 and the Gaṇḍavyūha quotation (extracted to ལུང། below), then addresses 1-18 and 1-19 from "དུས་གང་ནས་བཟུང་སྟེ་" onward.*
+
+ཞེས་ཏེ། བྱང་ཆུབ་སྨོན་པའི་སེམས་ལས་ནི་འཁོར་བ་ན་གནས་པའི་ཚེ་འབྲས་བུ་ཆེན་པོ་འབྱུང་སྟེ། [སྡོང་པོ་བཀོད་པ་ལས། ལུང། section མཐོང་ཞིག] དེ་ལྟ་ན་ཡང་ཇི་ལྟར་འཇུག་པའི་སེམས་ལས་བསོད་ནམས་རྒྱུན་ཆགས་འབྱུང་བ་དེ་བཞིན་དུ་དེ་ལ་འབྱུང་བ་མིན་ནོ།། དུས་གང་ནས་བཟུང་སྟེ་སེམས་ཅན་གྱི་ཁམས་མཐའ་ཡས་པ་རྣམས་ལས་དང་ཉོན་མོངས་པའི་འཆིང་བ་དང་། འཁོར་བའི་བཙོན་ར་ལས་དགྲོལ་བར་བྱ་བའི་ཕྱིར་དུ་འཁོར་བ་ཇི་སྲིད་བར་གཞན་དོན་ལས་མི་ལྡོག་པའི་སེམས་ཀྱིས་འཇུག་པའི་སེམས་དེ་ཡང་དག་པར་བླངས་པར་གྱུར་པ་དེ་ནས་བཟུང་སྟེ་དེ་མ་ཉམས་ན་གཉིད་ལོག་གམ། ར་རོ་བ་ལ་སོགས་པས་བག་མེད་པར་གྱུར་ཀྱང་བསོད་ནམས་ཀྱི་ཤུགས་དུས་རྒྱུན་མི་འཆད་པར་རྣམ་པ་དུ་མ་ཞིག་ཚད་ནམ་མཁའ་དང་མཉམ་པར་རབ་ཏུ་འབྱུང་ངོ་།།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]])
+
+### sabzang — ས་བཟང་མ་ཏི་པཎ་ཆེན། (གཞུང་དོན་རབ་གསལ་སྣང་བ།)
+
+*Note: sabzang groups verses 1-18 and 1-19 under consecutive transclusions; the following prose covers both.*
+
+འཇུག་པ་སེམས་བསྐྱེད་སྐྱེས་པ་ལས་ནི་དུས་གང་ནས་བཟུང་སྟེ་ཆེད་དུ་བྱ་བ་སེམས་ཅན་གྱི་ཁ༵མས་མཐའ་ཡས་ཤིང་མུ་མེད་པ་རྣམས་ཀུན་ནས་ཉོན་མོངས་པ་གསུམ་གྱི་འཁོར་བ་ལས་རབ་ཏུ་བསྒྲལ་བའི་ཕྱིར༵། གཞན་དོན་ལས་མི་ལྡོག་པའི་སེམས་ཀྱིས་སུ༵་འཇུག་པ་སེམས་བསྐྱེད་དེ་ཆོ་གས་ཡང་དག་པར་བླངས་པར་གྱུར་པ༵་དེང་ནས་བཟུང་སྟེ་གཉིད་ལོག་ག༵མ་སེམས་གཡེངས་པས་བག་མེད་པར་གྱུར་ཏམ་བརྒྱལ་བའམ་ར་རོ་བའམ་འགྲོ་འམ་འགྲེང་ངམ་འདུག་ཀྱང་རུང༌། ཚུལ་ཁྲིམས་གསུམ་ལས་བྱུང་བའི་བསོད་ནམས་ཀྱི་ཤུག༵ས་རྒྱུན་བར་མི་ཆད་པར་རྒྱ་ཆེ་ཞིང་ཟད་མི་ཤེས་པ་དུ་མ་ཞིག༵་ནམ་མཁའ་དང་མཉམ་པར་རབ་ཏུ་འབྱུང༵་བའི་ཕྱིར་རོ། །
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]])
+
+### minyak-kunzang-sonam — མི་ཉག་ཀུན་བསོད། (རྒྱལ་སྲས་རྒྱ་མཚོའི་ཡོན་ཏན།)
+
+*Note: minyak-kunzang-sonam groups verses 1-18 and 1-19 under consecutive transclusions; the following prose covers both.*
+
+དུས་གང་ནས་བཟུང་སྟེ་སེམས་ཅན་གྱི་ཁམས་མཐའ་ཡས་པ་རྣམས་ལས་དང་ཉོན་མོངས་པའི་ཀུན་འབྱུང་གི་འཆིང་བ་དང་སྡུག་བསྔལ་གྱི་རང་བཞིན་ཅན་གྱི་འཁོར་བའི་བཙོན་ར་ལས་རབ་ཏུ་སྒྲོལ་ཞིང་རྫོགས་པའི་བྱང་ཆུབ་ལ་འགོད་པར་བྱ་བའི་ཕྱིར་དུ་སྲིད་པ་ཇི་སྲིད་བར་དུ་གཞན་དོན་ལས་ནམ་ཡང་ཕྱིར་མི་ལྡོག་པ་ཡི་སེམས་ཀྱིས་སུ་འཇུག་པ་སེམས་བསྐྱེད་དེ་ཡང་དག་པར་རང་རྒྱུད་ལ་བླངས་པར་གྱུར་པ་ན་དུས་དེ་ནས་བཟུང་སྟེ་སེམས་བསྐྱེད་དེ་མ་ཉམས་པར་ཡོད། ཕྱིན་ཆད་གཉིད་ལོག་གམ་སེམས་རྣམ་པར་གཡེངས་པས་བག་མེད་པར་གྱུར་ཏམ། ཀྱང་གི་སྒྲས་བསྡུས་པ་བརྒྱལ་བའམ་ར་རོ་བའམ་འགྲོའམ་འགྲེང་ངམ་འདུག་ཀྱང་རུང་ཚུལ་ཁྲིམས་རྣམ་པ་གསུམ་དུ་གཏོགས་པའི་བསོད་ནམས་དགེ་བའི་ཤུགས་རྒྱ་ཆེ་ལ་རྒྱུན་མི་འཆད་ཅིང་ཟད་མི་ཤེས་པ་རྣམ་པ་དུ་མ་ཞིག་སྐད་ཅིག་རེ་རེ་ལའང་བར་མ་ཆད་དུ་འབྱུང་ལ་དེ་ཡང་ཚད་གཟུང་དུ་མེད་པ་ནམ་མཁའ་དང་མཉམ་པར་རབ་ཏུ་འབྱུང་ངོ༌། །
+
+ཡང་སྲོག་ལ་བབས་ཀྱང་གཏང་བར་མི་བྱའོ་སྙམ་དུ་མི་ལྡོག་པ་ཡི་སེམས་ཀྱིས་སུ་ཞེས་བཤད་ཀྱང་ཆོག་ལ། འདིས་བསམ་པ་ཕུན་སུམ་ཚོགས་པ་བསྟན་པར་གསུངས་སོ། །དེ་ཡང་སྨོན་སེམས་ནི་འབྲས་བུ་ལ་དོན་གཉེར་ཙམ་དུ་ཟད་པས་འབྲས་བུ་ཡང་དེ་ལྟར་འབྱུང་ལ་འཇུག་སེམས་ནི་སངས་རྒྱས་འཐོབ་བྱེད་ཀྱི་རྒྱུ་དངོས་སྒྲུབ་པ་ལ་ཞུགས་པ་ཡིན་ཕྱིར་གཉིད་སོགས་ཀྱི་སྐབས་སུ་ཡོང་རྒྱུ་ཕྱིན་དྲུག་གིས་བསྡུས་པའི་དགེ་རྩ་རྣམས་གོང་འཕེལ་དུ་རྒྱུན་མི་འཆད་པར་འབྱུང་བའོ། །
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])
+
+### khenpo-kunga — ངག་དབང་ཀུན་དགའ་དབང་ཕྱུག (འགྲེལ་པ།)
+
+*Note: khenpo-kunga groups verses 1-18 and 1-19 under consecutive transclusions; the following prose covers both.*
+
+རྫོགས་པའི་བྱང་ཆུབ་ཀྱི་གོ་འཕང་ལ་དམིགས་ཏེ་དེའི་རྒྱུ་ལམ་ལ་ཚུལ་བཞིན་འཇུག་པ་སྟེ་ཁས་བླངས་ནས་དམ་བཅས་ཟིན་པའི་སེམས་བསྐྱེད་ཀྱི་སྡོམ་པ་རང་གི་སེམས་རྒྱུད་ལ་བླངས་ཏེ་བཟུང་ནས་སེམས་ཅན་གྱི་ཁམས་མཐའ་ཡས་པ་དེ་རྣམས་འཁོར་བ་སྤྱི་དང་བྱེ་བྲག་གི་སྡུག་བསྔལ་དེ་དག་ཐམས་ཅད་ལས་དགྲོལ་བར་བྱ་བའི་ཕྱིར་དུ་ཚུལ་བཞིན་དུ་འབད་པར་བྱ་བའི་ལམ་དེ་ལས་ཕྱིར་མི་ལྡོག་པ་ཡི་སེམས་ཏེ་ནན་ཏན་གྱི་སྒོ་ནས་བསྐྱེད་དེ་ཉམས་སུ་བླངས་པར་བྱས་པས་དེ་ལྟ་བུའི་སེམས་བསྐྱེད་དེ་ཉིད་རང་གི་རྒྱུད་ལ་ཡང་དག་པ་བླངས་པར་གྱུར་པ་ཞེས་པ་སྟེ། ཆོ་ག་སྦྱོར་དངོས་རྗེས་གསུམ་ཚང་བའི་སྒོ་ནས་རྟེན་གྱི་དྲུང་ནས་བླངས་ན་ཡང་རུང་། མཁན་སློབ་དགེ་བའི་བཤེས་གཉེན་གྱི་དྲུང་ནས་བླངས་ན་ཡང་རུང་སྟེ། བྱང་ཆུབ་མཆོག་ཏུ་སེམས་བསྐྱེད་ཟིན་པར་གྱུར་པའམ་སྡོམ་པ་ཐོབ་ཟིན་པར་གྱུར་པ་དུས་དེ་ནས་བཟུང་སྟེ་རྟེན་གྱི་གང་ཟག་བྱང་ཆུབ་སེམས་དཔའ་དེ་མཚན་མོར་གཉིད་ལོག་གམ། ཉིན་མོར་ཅུང་ཟད་བག་མེད་པའི་གནས་སུ་གྱུར་ཀྱང་བྱང་ཆུབ་མཆོག་ཏུ་སེམས་བསྐྱེད་པའི་བསོད་ནམས་དགེ་བའི་ཤུགས་དེ་ཉིད་ནི་རྒྱུན་མི་ཆད་པ་དུ་མ་ཞིག་སྟེ་གྲངས་མེད་པ་ཞིག །གཟུགས་ཅན་གྱི་དངོས་པོར་གྱུར་ན་ནམ་མཁའ་གང་བར་གྱུར་པ་ལྟ་བུའམ་ནམ་མཁའ་དང་མཉམ་པ་ཞིག་རབ་ཏུ་འབྱུང་བ་ཡིན་པར་གསུངས།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
+
+---
+
+## དཔེ། (Metaphors and examples)
+
+- **རྡོ་རྗེ་རིན་པོ་ཆེ་ཆག་ཀྱང་གསེར་གྱི་རྒྱན་ཐམས་ཅད་ཟིལ་གྱིས་གནོན་པ།** → བྱང་ཆུབ་ཀྱི་སེམས་ཡང་དག་བར་བླངས་ཚེ་ནན་ཏན་ཆུང་ཡང་ཉན་ཐོས་རང་རྒྱལ་གྱི་ཡོན་ཏན་ཐམས་ཅད་ཟིལ་གྱིས་གནོན་པ།
+  རྡོ་རྗེ་ཆག་ཀྱང་རྡོ་རྗེའི་མིང་མི་འདོར་ལ་གསེར་གྱི་རྒྱན་ཐམས་ཅད་ཟིལ་གྱིས་གནོན་བཞིན་དུ། བྱང་ཆུབ་སེམས་བསྐྱེད་ཟིན་ན་ནན་ཏན་དུམ་བུར་གྱུར་ཀྱང་བྱང་ཆུབ་སེམས་དཔའི་མིང་མི་འདོར་ལ་འཁོར་བའི་དབུལ་བ་ཐམས་ཅད་ཀྱང་བཟློག་པར་གསུངས།
+  ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]])
+
+---
+
+## ལུང་། (Scriptural quotations)
+
+> རིགས་ཀྱི་བུ་འདི་ལྟ་སྟེ། དཔེར་ན་རྡོ་རྗེ་རིན་པོ་ཆེ་ནི་ཆག་ཀྱང་གསེར་གྱི་རྒྱན་ཁྱད་པར་དུ་འཕགས་པ་ཐམས་ཅད་ཟིལ་གྱིས་གནོན་ཅིང་རྡོ་རྗེ་རིན་པོ་ཆེའི་མིང་ཡང་མི་འདོར་རོ།། རིགས་ཀྱི་བུ་དེ་བཞིན་དུ་ཐམས་ཅད་མཁྱེན་པར་སེམས་བསྐྱེད་པའི་རྡོ་རྗེ་རིན་པོ་ཆེ་ནི་ནན་ཏན་དང་བྲལ་ཡང་ཉན་ཐོས་དང་རང་སངས་རྒྱས་ཀྱི་ཡོན་ཏན་གྱི་གསེར་གྱི་རྒྱན་ཐམས་ཅད་ཟིལ་གྱིས་གནོན་ཅིང་བྱང་ཆུབ་སེམས་དཔའི་མིང་ཡང་མི་འདོར་ལ་འཁོར་བའི་དབུལ་བ་ཐམས་ཅད་ཀྱང་བཟློག་གོ། ཞེས་གསུངས་སོ།།
+> — སྡོང་པོ་བཀོད་པ། (adduced by ngulchu-thogmed in the grouped explanation of 1-17/1-18/1-19, to illustrate the surpassing merit of bodhicitta even when diligence lapses)
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]])
+
+> བྱང་ཆུབ་སེམས་ཀྱི་བསོད་ནམས་གང་། །
+> དེ་ལ་གལ་ཏེ་གཟུགས་མཆིས་ན། །
+> ནམ་མཁའི་ཁམས་ནི་ཀུན་གང་སྟེ། །
+> དེ་བས་ཀྱང་ནི་ལྷག་པར་འགྱུར། །
+> — མདོ། (adduced by khenpo-kunga in the grouped explanation of 1-18/1-19, to illustrate the boundless merit of bodhicitta)
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
+
+---
+
+## གཙོ་གནད། (Main teaching points)
+
+1. **གང་ནས་བཟུང་སྟེ་དུས་ཀྱི་མཚམས།** — གང་ནས་བཟུང་སྟེ་ཞེས་པས་དུས་ཀྱི་མཚམས་ཞིག་ངེས་པར་བཀོད་དེ། བྱང་ཆུབ་ཀྱི་སེམས་ཡང་དག་པར་བླང་བའི་སྐབས་དེ་ནས་བཟུང་བསྟན། ཆོ་གས་ཡང་དག་པར་བླངས་ཀྱང་རུང་། མཁན་སློབ་གེའི་བཤེས་གཉེན་གྱི་དྲུང་ནས་བླངས་ཀྱང་རུང་ཞེས་khenpo-kungaས་གསུངས།
+   ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
+
+2. **སེམས་ཅན་གྱི་ཁམས་མཐའ་ཡས་པ་རྣམས་རབ་ཏུ་དགྲོལ་བར་བྱ་བའི་དམ་བཅའ།** — སེམས་ཅན་གྱི་ཁམས་མཐའ་ཡས་ཤིང་མུ་མེད་པ་འཁོར་བའི་སྡུག་བསྔལ་ལས་རབ་ཏུ་དགྲོལ་ཞིང་སངས་རྒྱས་ཀྱི་ས་ལ་དགོད་པའི་ཕྱིར་དུ་ཕྱིན་དྲུག་ལ་སྤྱོད་པར་དམ་བཅའ་བ། མི་ཉགས་ཀྱིས་ལས་དང་ཉོན་མོངས་པའི་ཀུན་འབྱུང་གི་འཆིང་བ་དང་སྡུག་བསྔལ་གྱི་རང་བཞིན་ཅན་གྱི་འཁོར་བའི་བཙོན་ར་ལས་རབ་ཏུ་སྒྲོལ་ཞེས་མཚོན་ཆེར་གསུངས།
+   ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])
+
+3. **མི་ལྡོག་པ་ཡི་སེམས་ཀྱིས་སུ་འཇུག་པའི་ངང་ཚུལ།** — གཞན་དོན་ལས་མི་ལྡོག་པའི་སེམས་ཀྱིས་སུ་འཇུག་པ་ཞེས་པས་འཇུག་སེམས་ཀྱི་མི་ལྡོག་པའི་ཁྱད་ཆོས་བསྟན། གཞན་དགའི་མཆན་གྱིས་སྦྱིན་སོགས་ལ་འཇུག་པར་གསུངས། མི་ཉག་ཀུན་བསོད་ཀྱིས་སྲོག་ལ་བབས་ཀྱང་གཏང་བར་མི་བྱའོ་སྙམ་པའི་སེམས་ཞེས་འགྲེལ་ཆོག་ལ་འདིས་བསམ་པ་ཕུན་སུམ་ཚོགས་པ་བསྟན་པར་གསུངས།
+   ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]])
+
+4. **ཡང་དག་བླངས་ཏེ་མ་ཉམས་པར་བསྲུང་བར་གྱུར་པ།** — བྱང་ཆུབ་ཀྱི་སེམས་ཡང་དག་པར་བླང་བ་ཙམ་མ་ཟད། མ་ཉམས་པར་བསྲུང་བར་གྱུར་པའི་གནད་བསྟན། ས་བཟངས་ཀྱིས་ཆོ་གས་ཡང་དག་པར་བླངས་པར་གྱུར་པ་ཞེས་རིའུ་སྒྲིག་གི་གཅོ་བོ་ལུས་མདུག་སྣ་ཚོགས་མཐོང་ཆུང་མཐར་ཕྱིན་མཆོག་ལ་ཞུགས་ཀྱི་གནད་ཆེར་མཐོང་། རྒྱལ་ཚབ་ཀྱིས་སྨོན་སེམས་ལས་འཇུག་སེམས་ནི་སངས་རྒྱས་ཀྱི་རྒྱུ་རྫོགས་པ་སྒྲུབ་པས་ཟིན་པར་གསུངས།
+   ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]])
+
+5. **སྨོན་སེམས་དང་འཇུག་སེམས་ཀྱི་ཁྱད།** — རྒྱལ་ཚབ་དང་མི་ཉག་ཀུན་བསོད་གཉིས་ཀས་ཚིགས་འདིར་ཁྱད་དེ་གསལ་བར་བཀོད། སྨོན་སེམས་ནི་འབྲས་བུ་ལ་དོན་གཉེར་ཙམ་དུ་ཟད་ལ། འཇུག་སེམས་ནི་སངས་རྒྱས་འཐོབ་བྱེད་ཀྱི་རྒྱུ་དངོས་སྒྲུབ་པ་ལ་ཞུགས་པ་ཡིན་ཕྱིར་དགེ་རྩ་རྣམས་རྒྱུན་མི་འཆད་པར་གོང་འཕེལ་དུ་འབྱུང་།
+   ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])
+
+---
+
+## གནད་ཚིག (Key terms)
+
+| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
+|---|---|---|
+| **གང་ནས་བཟུང་སྟེ།** | དུས་གང་ནས་བཟུང་སྟེ། (from which time/moment onward) | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
+| **སེམས་ཅན་ཁམས།** | ཆེད་དུ་བྱ་བ་སེམས་ཅན་གྱི་ཁམས་མཐའ་ཡས་ཤིང་མུ་མེད་པ། (the limitless, endless realm of beings as the object of the aspiration) | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
+| **རབ་ཏུ་དགྲོལ།** | སྲིད་ཞིའི་སྡུག་བསྔལ་ལས་རབ་ཏུ་དགྲོལ་བའམ་བསྒྲལ་ཏེ་སངས་རྒྱས་ཐོབ་པ། (completely liberating from the suffering of saṃsāra, [until] attaining buddhahood) | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
+| **མི་ལྡོག་པ་ཡི་སེམས།** | དམ་བཅའ་དེ་ལས་ཕྱིར་མི་ལྡོག་སྙམ་པ་ཡི་སེམས། (the mind that does not turn back from that commitment [to the six perfections]) | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
+| **མི་ལྡོག་པ་ཡི་སེམས།** ⚑ | སྲོག་ལ་བབས་ཀྱང་གཏང་བར་མི་བྱའོ་སྙམ་དུ་མི་ལྡོག་པ་ཡི་སེམས། (the mind that will not give up even if one's life is at stake — alternative reading) ⚑ | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]) |
+| **མི་ལྡོག་པ་ཡི་སེམས་ཀྱིས་སུ།** | འཇུག་པ་བྱང་ཆུབ་ཀྱི་སེམས། (the engaging bodhicitta, [engaging] in giving etc.) | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
+| **ཡང་དག་བླངས།** | ཡང་དག་པར་བླངས་ཏེ་མ་ཉམས་པར་བསྲུང་བར་གྱུར་པ། (genuinely taken up and guarded without decline) | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
+| **ཡང་དག་བླངས།** | ཆོ་གས་ཡང་དག་པར་བླངས་པར་གྱུར་པ། (genuinely taken up by means of ritual ceremony) | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]) |
+| **ཡང་དག་པར་རང་རྒྱུད་ལ་བླངས་པར་གྱུར་པ།** | ཡང་དག་པར་རང་རྒྱུད་ལ་བླངས་པར་གྱུར་པ། (genuinely taken into one's own mental continuum) | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]) |
+| **ཆོ་ག་སྦྱོར་དངོས་རྗེས་གསུམ།** | ཆོ་ག་སྦྱོར་དངོས་རྗེས་གསུམ་ཚང་བའི་སྒོ་ནས། (through a ceremony complete with the three parts: preparation, main part, and conclusion) | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) |
+
+### ⚑ བར་འབྱོར་གྱི་མི་མཐུན་པ། (Divergences)
+
+- **kunpal:** མི་ལྡོག་པ་ཡི་སེམས། = དམ་བཅའ་དེ་ལས་ཕྱིར་མི་ལྡོག་སྙམ་པ་ཡི་སེམས། — the mind that does not turn back from the commitment to practice the six perfections until buddhahood. ⚑
+- **minyak-kunzang-sonam:** མི་ལྡོག་པ་ཡི་སེམས། may also be read as སྲོག་ལ་བབས་ཀྱང་གཏང་བར་མི་བྱའོ་སྙམ་དུ་མི་ལྡོག་པ་ཡི་སེམས། — the mind that will not give up [the path] even if one's life is at stake. minyak-kunzang-sonam presents this as an additional permissible reading (ཞེས་བཤད་ཀྱང་ཆོག), not a replacement. ⚑
+
+---
+
+## བསྡུས་དོན། (Verse synthesis — AI Overview style)
+
+**ངོ་སྤྲོད་མདོར་བསྡུས།** ཚིགས་སུ་བཅད་པ་འདིས་མི་ལྡོག་པའི་སེམས་ཀྱིས་བྱང་ཆུབ་ཀྱི་སེམས་ཡང་དག་པར་བླང་བའི་དུས་ཀྱི་མཚམས་བཀོད་ཀྱིན། གང་ནས་བཟུང་སྟེ་སེམས་ཅན་གྱི་ཁམས་མཐའ་ཡས་ལ་ཕྱིན་དྲུག་ལ་སྤྱོད་པར་དམ་བཅའ་བའི་སེམས་ཆོ་གས་ཡང་དག་པར་རང་རྒྱུད་ལ་བླངས་ཏེ་མ་ཉམས་པར་བསྲུང་བར་གྱུར་པ་དེ་ནས་བཟུང་བདེ་ལེགས་ཐམས་ཅད་ཀྱི་རྒྱུ་རྒྱུན་མི་འཆད་པར་འབྱུང་བར་གསུངས།
+([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])
+
+**གནད་དོན་གཙོ་བོ།**
+- གང་ནས་བཟུང་སྟེ་ཞེས་པས་བྱང་ཆུབ་ཀྱི་སེམས་བླང་བའི་དུས་ཀྱི་མཚམས་ངེས་པར་གསུངས། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]])
+- ཆེད་དུ་བྱ་བའི་གཞི་ནི་སེམས་ཅན་གྱི་ཁམས་མཐའ་ཡས་ཤིང་མུ་མེད་པ་སྲིད་ཞིའི་སྡུག་བསྔལ་ལས་རབ་ཏུ་དགྲོལ་བ་དང་སངས་རྒྱས་ཐོབ་པ། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])
+- མི་ལྡོག་པ་ཡི་སེམས་ནི་ཕྱིན་དྲུག་ལ་འཇུག་པའི་འཇུག་སེམས་ཡིན་ཞིང་། མི་ཉག་ཀུན་བསོད་ཀྱིས་སྲོག་ལ་བབས་ཀྱང་གཏང་བར་མི་བྱའོ་སྙམ་དུའང་བཤད་ཆོག་གསུངས། ⚑ ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])
+- ས་བཟང་གིས་ཆོ་གས་ཡང་དག་པར་བླངས་ཞེས་རིའུ་སྒྲིག་གི་ལམ་ལས་བླང་བའི་གནད་མཐོང་ལ། མི་ཉག་ཀུན་བསོད་ཀྱིས་རང་རྒྱུད་ལ་བླངས་ཞེས་རྒྱུད་ལ་ཞུགས་པའི་གནད་མཐོང་། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])
+- རྒྱལ་ཚབ་དང་མི་ཉག་ཀུན་བསོད་གཉིས་ཀས་གྲུབ་མཐའི་གནད་ཆེར་བཀོད། སྨོན་སེམས་ནི་འབྲས་བུ་ལ་དོན་གཉེར་ཙམ་ལ། འཇུག་སེམས་ནི་སངས་རྒྱས་འཐོབ་བྱེད་ཀྱི་རྒྱུ་དངོས་སྒྲུབ་པ་ལ་ཞུགས་པ། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])

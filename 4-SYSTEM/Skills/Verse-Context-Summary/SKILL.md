@@ -24,14 +24,14 @@ Authoritative vault conventions (commentary IDs, addressing, language rules): [`
 
 ## How to locate a verse's commentary passage
 
-Every commentary file in `1-SOURCES/Commentaries/Transcluded/` has the root text verses transcluded into it using Obsidian syntax. The commentary on a verse is always the text that sits between that verse's transclusion and the next verse's transclusion.
+Every commentary file in `1-SOURCES/Commentaries/Transcluded/` has the root text verses transcluded into it using Obsidian syntax. Normally the commentary on a verse sits between that verse's transclusion and the next verse's transclusion. However, some commentaries group several consecutive verse transclusions together and place their explanatory prose **after the final transclusion in the run** — covering all grouped verses at once.
 
 **Step-by-step:**
 
 1. `grep -n "!\\[\\[.*#\\^<verse-id>\\]\\]"` in each commentary file to find the transclusion line, e.g. `![[bo-བློ་ལྡན་ཤེས་རབ།.md#^1-1]]`.
 2. Note the line number of that transclusion (`LINE_START`) and the line number of the next verse transclusion (`LINE_END`).
-3. Read only the span from `LINE_START` to `LINE_END − 1`. **Do not read the entire file.** Everything in that span is the commentary on the target verse.
-4. Extract all relevant material — explanations, stories, metaphors, quotations, term glosses — from that span alone.
+3. Inspect the span `LINE_START` to `LINE_END − 1`. If it contains **only transclusion lines and blank lines** (no prose), the commentary is grouped: `LINE_END` is itself the start of the next consecutive transclusion. Continue scanning forward through all consecutive transclusion lines until you reach the first line of actual prose. That prose block — running from the first prose line to the line before the next non-consecutive verse transclusion — is the commentary covering the target verse (and all other verses in the consecutive run).
+4. Read that prose span. Extract all relevant material — explanations, stories, metaphors, quotations, term glosses — from it.
 5. Repeat for every commentary file in `1-SOURCES/Commentaries/Transcluded/`.
 
 This targeted read replaces any need to scan full commentary files. Apply it identically to `BCAC19_KS_bo.md` for the མཆན་འགྲེལ། section.
@@ -212,7 +212,8 @@ status: draft
 5. For every file in `1-SOURCES/Commentaries/Transcluded/` (including `BCAC19_KS_bo.md`):
    - `grep -n "!\\[\\[.*#\\^<verse-id>\\]\\]"` to find the line where the verse is transcluded into that commentary.
    - Note that line number (`LINE_START`) and the line number of the next verse transclusion (`LINE_END`).
-   - Read only lines `LINE_START` to `LINE_END − 1`. Everything in that span is the commentary on the target verse. Do not read beyond it.
+   - Inspect lines `LINE_START` to `LINE_END − 1`. If this span contains only transclusion lines and blank lines (no prose), check whether `LINE_END` is also a consecutive verse transclusion. If so, scan forward through all consecutive transclusion lines until reaching the first line of prose. Treat that prose block — up to the line before the next non-consecutive verse transclusion — as the commentary span for the target verse.
+   - Read the resolved span. Do not read beyond it.
    - Record the file's `registered_id` and the block IDs of any stamped blocks in the span.
 6. Repeat step 5 for every commentary file. Collect all verse spans before moving to Stage 3.
 

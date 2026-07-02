@@ -1,0 +1,124 @@
+---
+verse_id: "1-32"
+skill: Verse-Context-Summary
+creator: Tigerboy
+sources:
+  sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
+  tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
+  mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+status: draft
+notes: |
+  Grouping matrix:
+  - KKP (kunpal): unique prose for 1-32.
+  - KS (khenpo-zhengah): unique mchan for 1-32; interlinear annotation only.
+  - GDR (gyaltsab): 1-32 and 1-33 grouped; 1-32 IS the first verse → full grouped prose (covering both verses) appears here; 1-33-summary.md cross-references this file.
+  - NTS (ngulchu-thogmed): 1-32 and 1-33 grouped; 1-32 IS the first verse → full grouped prose appears here.
+  - SMPLG (sabzang): 1-32 and 1-33 grouped; 1-32 IS the first verse → full grouped prose appears here.
+  - MKS (minyak-kunzang-sonam): 1-32 and 1-33 grouped; 1-32 IS the first verse → full grouped prose appears here.
+  - NKW (khenpo-kunga): unique prose for 1-32.
+  All citations are file-level; no block IDs.
+---
+
+# སྤྱོད་འཇུག ༡།༣༢པའི་ཤོག་ངོས།
+
+## ལེགས་སྦྱར། (Sanskrit)
+
+![[1-SOURCES/Text/BCAV08_SH_sk.md#^1-32]]
+
+---
+
+## བོད་ཡིག (Tibetan — བློ་ལྡན་ཤེས་རབ།)
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-32]]
+
+---
+
+## མཆན་འགྲེལ། (གཞན་དགའི་མཆན་འགྲེལ)
+
+**འགྲོ་བ་ཉུང་ཟད་** དེ་ཚད་ཡོད་པ་དག་ལ་དུས་**ནར་མའི་ཟས་སྦྱོར་བ་** ན། **སྐད་ཅིག་** ཡུད་ཙམ་ལ་**ཟས་** ངན་ངོན་**ཙམ་སྦྱིན་པར་བྱེད་པ་དང་།** སྦྱིན་པའི་ཚུལ་**བརྙས་པ་དང་བཅས་པས་** ཕན་པའི་ཁྱད་པར་**ཉིན་ཕྱེད་** ཙམ་**འགྲངས་པར་བྱེད་པ་ཡང༌།** **དགེ་བ་བྱེད་པ་ཡིན་ཞེས་སྐྱེ་བོ་** ཕལ་གྱིས་**བཀུར་** བར་བྱེད་ན།
+
+→ ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]])
+
+---
+
+## དོན་འགྲེལ། (Commentary explanations)
+
+### kunpal — མཁན་པོ་ཀུན་བཟང་དཔལ་ལྡན། (བདུད་རྩིའི་ཐིག་པ།)
+
+དཔེ་ལ་བརྟེན་ནས་དོན་ངོ་ཤེས། ཞེས་པ་ལྟར། དཔེ་ལས་དོན་ལྷག་པར་ཤེས་པ། ཡུལ་དམན་པ་བརྒྱའམ་སྟོང་ལ་སོགས་པ་འགྲོ་བ་ཉུང་ཟད་ཙམ་ལ་ནར་མའི་ཞེས་ལོའམ་ཟླ་བར་ཉིན་བཞིན་ནར་མ་སྟེ་རྒྱུན་མ་བཅད་པའི་ཟས་སྦྱིན་པའམ་སྦྱོར་བ། དེ་ཡང། དུས་དམན་པ་བྱ་རྫོགས་ཀྱི་སྐད་ཅིག་མ་ལ། དངོས་པོ་དམན་པ་ཡོན་འབུལ་བ་མེད་པའི་ཟས་ཙམ་སྦྱིན་པར་བྱེད་པ་དང། སྦྱོར་བ་དམན་པ་བརྡུང་རྡེག་ལ་སོགས་པས་བརྙས་བཅོས་དང་བཅས་པའི་སྒོ་ནས། ཕན་འདོགས་དམན་པ་ཉིན་ཕྱེད་ཙམ་ལ་ལྟོ་འགྲངས་པར་བྱེད་པ་ཡི་སྦྱིན་བདག་ལ་ཡང་འཇིག་རྟེན་ན་སྦྱིན་གཏོང་རྒྱ་ཆེན་པོའི་དགེ་བ་བྱེད་པ་ཡིན་ནོ་ཞེས་སྐྱེ་བོ་མང་པོས་བསྟོད་ཅིང་བཀུར་བར་འོས་པ་ཡིན་ན།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]])
+
+### gyaltsab — རྒྱལ་ཚབ་དར་མ་རིན་ཆེན། (རྒྱལ་སྲས་འཇུག་ངོགས།)
+
+*Note: 1-32 and 1-33 are grouped in this commentary; 1-32 IS the first verse. Full grouped prose (covering both verses) appears here.*
+
+འཇིག་རྟེན་ན་འགྲོ་བ་ཉུང་ཟད་བརྒྱ་ལ་སོགས་པ་ལ་དངོས་པོ་དམན་པ་ནར་མའི་ཟས་སྦྱོར་བ་དང། སྐད་ཅིག་ཟས་ཙམ་བརྙས་བཅས་ཀྱིས་ཉིན་ཕྱེད་ཙམ་འགྲངས་པར་བྱེད་པའི་སྦྱིན་བདག་ལ་ཡང་འཇིག་རྟེན་པ་རྣམས་ཀྱིས་བཀུར་བར་འོས་པ་ཡིན་ན། ཞིང་རྒྱ་ཆེ་བ་སེམས་ཅན་གྲངས་མཐའ་ཡས་པ་ལ་འཁོར་བ་ཇི་སྲིད་ཀྱི་དུས་རིང་དུ་སྦྱིན་བྱའི་དངོས་པོ་ཁྱད་པར་འཕགས་པ་བདེ་བར་གཤེགས་ཀྱི་ཟག་པ་མེད་པའི་བདེ་བ་བླ་ན་མེད་པ་སྟེར་ཞིང། ཕན་འདོགས་ཀྱི་ཁྱད་པར་ཡིད་ལ་བསམ་པ་མཐའ་དག་རྫོགས་པར་བྱེད་པ་སྦྱོར་བ་གུས་པ་དང་བཅས་པས་དུས་རྟག་ཏུ་སྦྱིན་པར་བྱེད་པ་བཀུར་བར་འོས་པ་ལྟ་ཞིག་སྨོས་ཅི་དགོས་དེས་ན། སེམས་དང་ལྡན་པས་བྱང་ཆུབ་སེམས་དཔའ་ལ་རྩེ་གཅིག་ཏུ་གུས་པར་བྱའོ།།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]])
+
+### ngulchu-thogmed — དངུལ་ཆུ་ཐོགས་མེད། (ལེགས་བཤད་རྒྱ་མཚོ།)
+
+*Note: 1-32 and 1-33 are grouped in this commentary; 1-32 IS the first verse. Full grouped prose appears here.*
+
+ཡུལ་འགྲོ་བ་ཉུང་ཟད་ཙམ་ལ་དུས་ནར་མ་སྟེ་ལོ་དང་ཟླ་བ་རེ་ལ་སྐད་ཅིག་སྟེ་ལན་རེ་དངོས་པོ་ཟས་ཕལ་པ་ཙམ་སྦྱིན་པར་བྱེད་པ་དང། ཡུལ་སེམས་ཅན་གྲངས་མཐའ་ཡས་ལ་དུས་རིང་དུ་རྟག་ཏུ་རྒྱུན་མི་ཆད་པར་དངོས་པོ་བདེ་བར་གཤེགས་ཀྱི་བདེ་བ་བླ་ན་མེད་པ། ཕན་པའི་ཁྱད་པར་ཡིད་ལ་བསམ་པ་མཐའ་དག་རྫོགས་པར་བྱེད་པ། དེ་ལྟ་ཞིག་སྨྲོས་ཅི་དགོས།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]])
+
+### sabzang — ས་བཟང་མ་ཏི་པཎ་ཆེན། (གཞུང་དོན་རབ་གསལ་སྣང་བ།)
+
+*Note: 1-32 and 1-33 are grouped in this commentary; 1-32 IS the first verse. Full grouped prose appears here.*
+
+ཡུལ་དམན་པ་འགྲོ་བ་ཉུང་ཟད་ཙམ་ཕྱོགས་རེ་བགྲངས་སུ་བྱས་པ་འགའ་ཞིག་ལ་དམིགས་ནས་ལོ་དུས་སམ་ཟླ་དུས་ལ་སོགས་པར་ནར་མའི་ཟས་སྦྱོར་བས། དུས་ཐུང་ངུ་སྐད་ཅིག་ཙམ་ལ་སོགས་པར། དངོས་པོ་དམན་པ་ཡོན་འབུལ་བ་མེད་པའི་ཟས་ཙམ་སྦྱིན་པར་བྱེད་པ་དང། སྦྱོར་བ་དམན་པ་འཐབ་པ་དང་རྡེག་པ་ལ་སོགས་པས་བརྙས་ཤིང་ཐོ་འཚམ་པ་དང་བཅས་པས། ཕན་འདོགས་དམན་པ་ཉིན་ཕྱེད་ཙམ་འགྲངས་པར་བྱེད་པའི་སྦྱིན་བདག་ལ། འཇིག་རྟེན་ན་དགེ་བ་རྒྱ་ཆེན་པོ་བྱེད་པ་ཡིན་ནོ་ཞེས་སྐྱེ་བོ་མང་པོས་བསྟོད་ཅིང་བཀུར་བར་འོས་པ་ཡིན་ན། ཡུལ་རྒྱ་ཆེན་པོ་སེམས་ཅན་ཀྱི་ཁམས་གྲངས་ལས་འདས་ཤིང་མཐའ་ཡས་པ་རྣམས་ལ་དམིགས་ནས་དུས་ཡུན་རིང་པོ་ནམ་མཁའ་གནས་པ་དང་འཁོར་བ་མ་སྟོངས་ཀྱི་བར་དུ། དངོས་པོ་བཟང་བོ་བདེ་བར་གཤེགས་པ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཀྱི་བདེ་བ་བླ་ན་མེད་པ། སྦྱོར་བ་ཞི་ཞིང་དུལ་ལ་གུས་པ་དང་བཅས་པས། ཕན་འདོགས་ཁྱད་པར་ཅན་རང་རང་གི་ཡིད་ལ་གང་ཅི་བསམ་པ་མཐའ་དག་མ་ལུས་པ་རྫོགས་པར་བྱེད་པ་རྟག་ཏུ་རྒྱུན་མི་འཆད་པར་སྦྱིན་པའི་སྦྱིན་བདག་ཆེན་པོ་བྱང་ཆུབ་ཀྱི་སེམས་དང་ལྡན་པ་རྣམས་བསྟོད་ཅིང་བཀུར་བར་འོས་པ་ལྟ་ཞིག་སྨོས་ཀྱང་ཅི་དགོས།།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]])
+
+### minyak-kunzang-sonam — མི་ཉག་ཀུན་བསོད། (རྒྱལ་སྲས་རྒྱ་མཚོའི་ཡོན་ཏན།)
+
+*Note: 1-32 and 1-33 are grouped in this commentary; 1-32 IS the first verse. Full grouped prose appears here.*
+
+སེམས་ཅན་ཉུང་ཟད་ལ་དུས་ཐུང་ངུར་དངོས་པོ་དམན་ལ་བརྙས་བཅས་ཀྱིས་ཕན་འདོགས་ཉིན་ཕྱེད་ཙམ་བྱེད་པའི་སྦྱིན་བདག་ལ་ཡང་འཇིག་རྟེན་པས་རྒྱ་ཆེ་བའི་བཀུར་སྟི་བྱེད་པ་ཡིན་ན། སེམས་ཅན་གྲངས་མཐའ་ཡས་ལ་དུས་རིང་དུ་དངོས་པོ་བདེ་གཤེགས་ཀྱི་བདེ་བ་བླ་ན་མེད་ལ་བརྙས་མེད་གུས་བཅས་ཀྱིས་ཡིད་ལ་བསམ་པ་མཐའ་དག་རྫོགས་པར་བྱེད་ཅིང་རྟག་ཏུ་སྦྱིན་པར་བྱེད་པའི་བྱང་ཆུབ་སེམས་དཔའི་སྦྱིན་བདག་ཆེན་པོ་ལ་ཇི་ལྟར་བཀུར་བར་འོས་པ་ལྟ་ཞིག་སྨོས་ཅི་དགོས།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])
+
+### khenpo-kunga — ངག་དབང་ཀུན་དགའ་དབང་ཕྱུག (འགྲེལ་པ།)
+
+དམན་པའི་འགྲོ་བ་ཉུང་ཟད་ཅེས་བྱ་བ་སྟེ། འགྲོ་བ་སྟེ་སེམས་ཅན་ལྔ་དང་བཅུ་དང་བཅོ་ལྔ། ཉི་ཤུ། བརྒྱ། སྟོང་ལ་སོགས་པ་ཚད་དང་གྲངས་ཡོད་པ་ཉུང་ཟད་དེ་འདྲ་ཞིག་ལ། སྦྱིན་བདག་འགའ་རེས་དུས་ནར་མའི་ཟས་སྦྱོར་བ་སྟེ་ཉི་མ་རེ་རེ་བཞིན་དུའམ་ཟླ་བ་རེ་རེའམ་ལོ་རེ་རེའི་ལོ་གསར་གྱི་སྐབས་ལྟ་བུ་ལ་ཟས་སྦྱིན་ནས་སྦྱོར་བར་བྱེད་པ་དེ་ཡང། དུས་ཚོད་ཀྱང་ཐུང་ཐུང་སྐད་ཅིག་མ་ཙམ་ཞིག་ལ། དངོས་པོ་ཡང་དམན་པ་ཁ་ལ་བཟའ་རྒྱུའི་ཟས་ཙམ་སྦྱིན་པར་བྱེད་པ་དང། སྦྱིན་པའི་ཚུལ་ཡང་བརྙས་བཅོས་དང་བཅས་པའི་སྒོ་ནས། ཕན་འདོགས་ཀྱི་ཁྱད་པར་གྱི་དབང་དུ་བྱས་ན། སྔ་དྲོ་ཟ་མ་ཐེངས་རེ་ཙམ་བྱིན་ན་ཉིན་མ་ཕྱེད་ཀ་ལ་ལྟོ་འགྲངས་ནས་ཟས་གཞན་ཚོལ་མི་དགོས་པ་ལྟ་བུ། དེ་འདྲའི་སྦྱིན་བདག་བྱེད་མཁན་ཞིག་ཡོད་ན། སྦྱིན་བདག་དེ་ལ་འཇིག་རྟེན་པ་གཞན་རྣམས་ཀྱིས་མི་བསོད་ནམས་ཆེན་པོ། མི་བཟང་པོ། བསོད་ནམས་ཅན། འབྱོར་ལྡན་དགེ་བ་བྱས་པ་ཡིན་ནོ་ཞེས་སྐྱེ་བོ་རྣམས་ཀྱིས་བཀུར་སྟི་དང་རིམ་གྲོ་དང་བསྔགས་པ་བརྗོད་པ་དེ་འདྲ་གཅིག་ཡིན་ན།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
+
+---
+
+## གཙོ་གནད། (Main teaching points)
+
+1. **སྦྱིན་བདག་དམན་པའི་དཔེ་ཀྱི་གནད།** — Verse 1-32 functions as the "lesser case" (དཔེ་) in an *a fortiori* argument spanning 1-32 and 1-33. A donor who gives only to a few beings (ཉུང་ཟད་), only briefly (སྐད་ཅིག་), only ordinary food (ཟས་ཙམ་), with contempt (བརྙས་བཅས་), and thereby satisfies them for only half a day (ཉིན་ཕྱེད་འགྲངས་) — is nonetheless praised by the world as performing great virtue (དགེ་བ་རྒྱ་ཆེན་པོ་). KKP and NKW both spell out the contrasts in detail.
+   ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
+
+2. **དངོས་པོ་གསུམ་གྱི་བར་འགྱུར།** — All commentaries read the verse's three contrasts (ཡུལ་ / དུས་ / དངོས་པོ་) as pointing to three dimensions in which the small donor is inferior: the object-field is narrow (few beings), the time is short, and the gift is inferior. These three dimensions each have their counterpart in 1-33, which the grouped commentaries (GDR, NTS, SMPLG, MKS) present as the bodhisattva's response.
+   ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]])
+
+3. **གདམས་ངག་གི་མཇུག (GDR)** — GDR closes its grouped commentary with a direct instruction (བཀའ་བབ་): "Therefore, those with intelligence should devote themselves single-pointedly to the bodhisattva" (སེམས་དང་ལྡན་པས་བྱང་ཆུབ་སེམས་དཔའ་ལ་རྩེ་གཅིག་ཏུ་གུས་པར་བྱའོ།). This is the only practical instruction explicitly drawn from the comparison in any commentary, giving the paired verses a direct pedagogical function.
+   ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]])
+
+---
+
+## གནད་ཚིག (Key terms)
+
+| གནད་ཚིག | འགྲེལ་བཤད་ | ཁུངས། |
+|---|---|---|
+| **ནར་མའི་ཟས་སྦྱོར།** | daily or regular provision of food; the commentaries specify this as monthly or annual provision (KKP: ལོའམ་ཟླ་བར་ཉིན་བཞིན་ནར་མ་) — regular but infrequent | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
+| **བརྙས་བཅོས་དང་བཅས་པས།** | with contempt; the manner (སྦྱོར་བ་) of giving is inferior, involving disparagement and disdain — yet even this does not prevent the praise | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
+| **ཉིན་ཕྱེད་འགྲངས་པར་བྱེད།** | satisfying for half a day; the outcome of the small donation — partial satiety, not complete or lasting benefit | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) |
+
+---
+
+## བསྡུས་དོན། (Verse synthesis — AI Overview style)
+
+**ངོ་སྤྲོད་མདོར་བསྡུས།** ཚིགས་སུ་བཅད་པ་འདིས་ཚིགས་བཅད་ ༡།༣༢–༣༣ གྱི་སྨོས་ཅི་དགོས་ཀྱི་བྱེས་ཆུང་ངུར་གྲུབ། ཡུལ་དམན་པ་ལ་དུས་ཐུང་ངུར་དངོས་པོ་དམན་ལ་བརྙས་བཅས་ཀྱིས་ཕན་འདོགས་ཉིན་ཕྱེད་ཙམ་བྱེད་པའི་སྦྱིན་བདག་ལ་ཡང་འཇིག་རྟེན་པས་བཀུར་བར་འོས་ཏེ་འདི་སྒྲོ་བཏགས་མ་ཡིན་པར་བཤད།
+([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
+
+**གནད་དོན་གཙོ་བོ།**
+- ཡུལ་ཉུང་ / དུས་ཐུང་ / དངོས་པོ་དམན་ / བརྙས་བཅས་ / ཉིན་ཕྱེད་ཙམ་འགྲངས་ — ལྔའི་མི་ལྡན་གྱི་སྦྱིན་བདག་ལའང་འཇིག་རྟེན་གྱིས་བཀུར། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]])
+- GDR / NTS / SMPLG / MKS གཞི་བར་ཚིགས་བཅད་ ༡།༣༣ མཐུན་མཚམས་སུ་བདེ་གཤེགས་བདེ་བ་བླ་ན་མེད་སྦྱིན་བྱའི་བྱང་སེམས་སྦྱིན་བདག་ལ་ལྷག་བཀུར་ཡིན་པར་འདེབས། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]])
+- GDR གདམས་ངག་ཐེར་འབུབ་ཏུ། བྱང་ཆུབ་སེམས་དཔའ་ལ་རྩེ་གཅིག་ཏུ་གུས་པར་བྱའོ་ཞེས་གསུངས། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]])

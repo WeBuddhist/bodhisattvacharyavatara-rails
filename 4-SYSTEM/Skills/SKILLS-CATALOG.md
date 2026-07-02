@@ -181,6 +181,12 @@ These skills populate `2-RAILS/` with the structured context that translation an
 **Outputs:** A style-drift section appended to `qa-report.md`, with span references back to the offending passages.
 → `style-consistency-check/SKILL.md` *(to be written)*
 
+### `commentary-fact-check` **[exists]**
+**Purpose:** Fact-check the graded English BCA translation (`3-TRANSFORMATIONS/Translations/bo-en-translation/bca-en-<grade>.md`) verse by verse against Khenpo Zhenga's Tibetan interlinear annotation commentary (`1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md`), one grade and one chapter (or range) at a time. Unlike `translation-qa` (which scores against `2-RAILS/` rails), this checks directly against the commentary's own content — similes, named sutras/entities, enumerations — since it transcludes and explains the whole root text.
+**Inputs:** Grade (`beginner`/`general`/`advanced`); scope (chapter number or `colophon`, defaults to the next unchecked chapter per the report's progress table).
+**Outputs:** Appended verdict tables (✓/⚠ per verse) in `3-TRANSFORMATIONS/Translations/bo-en-translation/commentary-fact-check-report.md`, with a progress table tracking which chapters are checked per grade. Bundles `scripts/extract_commentary.py` (splits the commentary on its transclusion markers into per-verse passages) and `scripts/extract_translation.py` (parses a graded translation file into per-verse text).
+→ [`commentary-fact-check/SKILL.md`](commentary-fact-check/SKILL.md)
+
 ---
 
 ## Utility skills

@@ -58,7 +58,7 @@ REQUIRED_KEYS = [
     "WEBUDDHIST_GROUP_ID",
 ]
 
-OPTIONAL_KEYS = ["WEBUDDHIST_BASE_URL"]
+OPTIONAL_KEYS = ["WEBUDDHIST_BASE_URL", "WEBUDDHIST_ACCESS_TOKEN"]
 
 
 def load_config(env_path: Path) -> dict:
@@ -206,6 +206,10 @@ class CmsClient:
             )
         return resp.json() if resp.text else {}
 
+    def use_token(self, token: str):
+        self.session.headers["Authorization"] = f"Bearer {token}"
+        print("Using provided access token (login skipped).")
+
     def login(self, email: str, password: str):
         data = self._call(
             "POST", "/cms/auth/login", json={"email": email, "password": password}
@@ -327,7 +331,10 @@ def main():
     base_url = args.base_url or cfg.get("WEBUDDHIST_BASE_URL") or BASE_URL
     print(f"API base : {base_url}")
     client = CmsClient(base_url)
-    client.login(cfg["WEBUDDHIST_EMAIL"], cfg["WEBUDDHIST_PASSWORD"])
+    if cfg.get("WEBUDDHIST_ACCESS_TOKEN"):
+        client.use_token(cfg["WEBUDDHIST_ACCESS_TOKEN"])
+    else:
+        client.login(cfg["WEBUDDHIST_EMAIL"], cfg["WEBUDDHIST_PASSWORD"])
 
     if args.plan_id:
         plan_id = args.plan_id

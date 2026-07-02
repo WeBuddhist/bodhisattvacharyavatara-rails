@@ -288,7 +288,8 @@ class CmsClient:
         self._call("PUT", f"/cms/tasks/{task_id}", json={"title": title})
 
     def delete_task(self, task_id: str):
-        self._call("DELETE", f"/cms/tasks/{task_id}")
+        # 404 tolerated: the plan listing sometimes contains stale task ids.
+        self._call("DELETE", f"/cms/tasks/{task_id}", tolerate=(404,))
 
     def reorder_tasks(self, day_id: str, task_ids: list[str]):
         self._call(
@@ -501,6 +502,22 @@ def sync_day(client, plan_id: str, day_number: int, desired: list[dict],
     return actions
 
 
+def replace_day(client, plan_id: str, day_number: int,
+                desired: list[dict]) -> list[str]:
+    """Delete ALL existing tasks in the day, then recreate from the file."""
+    actions: list[str] = []
+    day = ensure_day(client, plan_id, day_number, actions, apply=True)
+    existing = _sorted_tasks(day)
+    for task in existing:
+        actions.append(f"delete task '{task.get('title')}'")
+        client.delete_task(task["id"])
+    for want in desired:
+        actions.append(f"create task '{want['title']}' + TEXT sub-task")
+        task_id = client.create_task(plan_id, day["id"], want["title"])
+        client.create_text_subtask(task_id, want["html"])
+    return actions
+
+
 def verify_day(client, plan_id: str, day_number: int, desired: list[dict]) -> bool:
     """Re-fetch the plan and confirm the day matches the file. Prints a report."""
     plan = client.get_plan(plan_id)
@@ -561,6 +578,9 @@ def main():
                     help="Never delete or recreate tasks — only update "
                          "titles/sub-task content in place (and create "
                          "missing tasks)")
+    ap.add_argument("--replace", action="store_true",
+                    help="Delete ALL existing tasks in the day and re-upload "
+                         "everything from the file")
     ap.add_argument("--publish", action="store_true",
                     help="Set plan status to PUBLISHED after sync")
     ap.add_argument("--dry-run", action="store_true",
@@ -647,8 +667,13 @@ def main():
             start_date=None,
         )
 
-    actions = sync_day(client, plan_id, day_number, parsed["tasks"],
-                       apply=not args.check, update_only=args.update_only)
+    if args.replace and args.check:
+        sys.exit("--replace and --check are mutually exclusive.")
+    if args.replace:
+        actions = replace_day(client, plan_id, day_number, parsed["tasks"])
+    else:
+        actions = sync_day(client, plan_id, day_number, parsed["tasks"],
+                           apply=not args.check, update_only=args.update_only)
 
     label = "Would apply" if args.check else "Applied"
     if actions:

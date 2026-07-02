@@ -33,6 +33,7 @@ Read from environment variables, or from a key=value file passed with
     WEBUDDHIST_PASSWORD=...
     WEBUDDHIST_SERIES_ID=<uuid>
     WEBUDDHIST_GROUP_ID=<uuid>
+    WEBUDDHIST_BASE_URL=https://api.webuddhist.com/api/v1   # optional
 
 Requires: pip install requests
 """
@@ -57,6 +58,8 @@ REQUIRED_KEYS = [
     "WEBUDDHIST_GROUP_ID",
 ]
 
+OPTIONAL_KEYS = ["WEBUDDHIST_BASE_URL"]
+
 
 def load_config(env_path: Path) -> dict:
     """Environment variables win; fall back to key=value lines in env_path."""
@@ -68,7 +71,7 @@ def load_config(env_path: Path) -> dict:
                 continue
             key, _, val = line.partition("=")
             cfg[key.strip()] = val.strip()
-    for key in REQUIRED_KEYS:
+    for key in REQUIRED_KEYS + OPTIONAL_KEYS:
         if os.environ.get(key):
             cfg[key] = os.environ[key]
     missing = [k for k in REQUIRED_KEYS if not cfg.get(k)]
@@ -293,6 +296,9 @@ def main():
                     help="Set plan status to PUBLISHED after upload")
     ap.add_argument("--dry-run", action="store_true",
                     help="Parse and print structure; no API calls")
+    ap.add_argument("--base-url", default=None,
+                    help="Override API base URL (or set WEBUDDHIST_BASE_URL "
+                         f"in the env file). Default: {BASE_URL}")
     ap.add_argument("--env", type=Path,
                     default=Path(__file__).with_name("plan_uploader.env"),
                     help="Path to key=value credentials file")
@@ -318,7 +324,9 @@ def main():
         return
 
     cfg = load_config(args.env)
-    client = CmsClient(BASE_URL)
+    base_url = args.base_url or cfg.get("WEBUDDHIST_BASE_URL") or BASE_URL
+    print(f"API base : {base_url}")
+    client = CmsClient(base_url)
     client.login(cfg["WEBUDDHIST_EMAIL"], cfg["WEBUDDHIST_PASSWORD"])
 
     if args.plan_id:

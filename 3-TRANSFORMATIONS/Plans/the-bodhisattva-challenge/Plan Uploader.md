@@ -2,7 +2,7 @@
 
 API reference for content authors to create plans inside an existing series and upload plan text, images, and audio.
 
-**Base URL:** `https://api.webuddhist.com/api/v1`
+**Base URL:** `[https://api.webuddhist.com/api/v1](https://studio.webuddhist.com/login)`
 
 ---
 

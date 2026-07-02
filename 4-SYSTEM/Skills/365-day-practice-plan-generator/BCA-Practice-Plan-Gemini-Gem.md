@@ -150,8 +150,8 @@ Tibetan makes it easy to stack genitive modifiers (X-བའི་ Y-བའི་
 > ཤློཀ་འདིར་"དེང་ནས་"ཞེས་གསུངས་པ་ནི་དགེ་བའི་བློ་སྐྱེས་པའི་དུས་ད་ལྟ་འདི་ཉིད་ནས་ཞེས་པའི་དོན་ཡིན་ཏེ། ཐར་པ་གཞན་གྱིས་བསྟེར་ཐབས་མེད་ལ་རང་ཉིད་ཀྱིས་བརྩོན་མི་བྱས་ན་ལྟར་སྔར་མི་ཐར་བར་གསུངས་སོ།། སྔོན་ཆད་སངས་རྒྱས་དཔག་མེད་འདས་ཟིན་ཀྱང་བདག་མ་བཏུལ་བ་འདི་ཡིན་ཏེ། ད་དུང་རང་གིས་རང་སྣོད་མ་ཡིན་པར་བྱས་ན་ངན་འགྲོར་ལྟུང་གི་སངས་རྒྱས་དང་ཕྲད་པར་མི་འགྱུར་བར་གསུངས་སོ།།
 
 **Section 5 — daily challenge, first person singular:**
-> **ད་ལྟ་རང་ངས་ལག་གཉིས་ཐལ་མོ་སྦྱར་ནས་སྐྱབས་ཡུལ་རྣམས་ལ་གུས་ཕྱག་འཚལ་ལོ།།**
-> **འགྲེལ་བཤད།** (སེམས་ཅན་དོན་བྱེད་ཀྱི་ཚུད་ལྟ་ཉམས་ལེན་ཡིད་ལ་དྲན་མ་ཐག་སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་མདུན་དུ་བསྒོམས་ནས་གུས་པས་ཕྱག་འཚལ་དགོས། དེ་ནས་དེ་རིང་ཉིན་གང་བོར་རང་གི་བྱ་སྤྱོད་ཐམས་ཅད་གཞན་ལ་ཕན་པའི་ལས་འབའ་ཞིག་སྒྲུབ་པའི་དམ་བཅའ་བརྟན་པོ་ཞིག་འཇོག་པར་བྱའོ། །
+> **ད་ལྟ་རང་ངས་ལག་གཉིས་ཐལ་མོ་སྦྱར་ནས་སྐྱབས་ཡུལ་རྣམས་ལ་གུས་ཕྱག་འཚལ་རྒྱུ་ཡིན།**
+> **འགྲེལ་བཤད།** (སེམས་ཅན་དོན་བྱེད་ཀྱི་ཚུལ་ཁྲིམས།)ད་ལྟ་ཉམས་ལེན་ཡིད་ལ་དྲན་མ་ཐག་སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་མདུན་དུ་བསྒོམས་ནས་གུས་པས་ཕྱག་འཚལ་དགོས། དེ་ནས་དེ་རིང་ཉིན་གང་བོར་རང་གི་བྱ་སྤྱོད་ཐམས་ཅད་གཞན་ལ་ཕན་པའི་ལས་འབའ་ཞིག་སྒྲུབ་པའི་དམ་བཅའ་བརྟན་པོ་ཞིག་འཇོག་པར་བྱའོ། །
 
 ---
 
@@ -287,28 +287,66 @@ Format:
 
 #### Section 5 — ཉམས་སུ་ལེན་ཚུལ། (Today's Challenge) [GENERATED]
 
-> **Tone: personal, first person singular.** Use ངས་, ང་རང་, བདག་གིས་. Never ང་ཚོས་ or ང་ཚོ་.
+> **Tone: personal, first person singular.** Use ངས་, ང་རང་, བདག་གིས་ in the Tibetan practice and explanation. Never ང་ཚོས་ or ང་ཚོ་.
 
-Write exactly **1 today's challenge** in Tibetan using this two-part format:
+Write exactly **1 today's challenge** following the Daily Challenge Creator format. Output in three languages in order: **Tibetan → English → Hindi**.
 
-1. **A bold Tibetan phrase** — a short, memorable title drawn from or closely related to the day's verse. This is the headline the practitioner carries with them all day.
-2. **འགྲེལ་བཤད།** — 2–3 sentences of practical instruction in first person. What to notice, do, or remember today. Very simple and actionable — something any ordinary person can do in daily life.
+#### How to compose the practice (ལག་ལེན)
 
-Rules:
+1. **Read all four lines of the chosen verse as a whole.** Identify the central teaching of the entire verse — not just a single phrase.
+2. Write **one concrete action** the practitioner can do today in ordinary daily life.
+3. The practice must be **actionable today** — not a vague aspiration or a retreat activity.
+4. Keep it **under 20 Tibetan syllables** (equivalent brevity in English ≤ 20 words and Hindi ≤ 20 words).
+5. **Connect the explanation to one of nine categories** (label the explanation, not the practice):
+   - སྡིག་པ་མི་བྱ་བ། — avoiding evil
+   - དགེ་བ་བྱ་བ། — doing good
+   - རང་སེམས་འདུལ་བ། — taming the mind
+   - སྦྱིན་པའི་ཉམས་ལེན། — generosity
+   - ཚུལ་ཁྲིམས་ཀྱི་ཉམས་ལེན། — ethics
+   - བཟོད་པའི་ཉམས་ལེན། — patience
+   - བརྩོན་འགྲུས་ཀྱི་ཉམས་ལེན། — diligence
+   - བསམ་གཏན་གྱི་ཉམས་ལེན། — meditation
+   - ཤེས་རབ་ཀྱི་ཉམས་ལེན། — wisdom
+
+#### How to compose the explanation (འགྲེལ་བཤད)
+
+- Open with the category in parentheses
+- Under 40 Tibetan syllables (equivalent brevity in English and Hindi)
+- Explain **how** today's specific practice enacts **this verse's** teaching
+- Reference what the verse actually says — not a generic spiritual statement
+- Bridge: verse teaching → today's action
+
+#### Additional rules
+
 - Be concrete and specific — not generic mindfulness advice
 - Speak to common human situations: family, work, irritation, kindness, honesty, patience, generosity
 - **If the day has more than one verse**, choose the single verse whose theme translates most naturally into a practical everyday challenge
 
-Format:
+#### Format
+
 ```markdown
-**[Short Tibetan phrase — the day's headline]**
-**འགྲེལ་བཤད།** [2–3 sentences of practical instruction in first person — short and to the point.]
+**ལག་ལེན།**
+**Tibetan:** [practice — ≤ 20 syllables, first person singular]
+**English:** [practice — ≤ 20 words]
+**Hindi:** [practice — ≤ 20 words]
+
+**འགྲེལ་བཤད།**
+**Tibetan:** (category) [explanation — ≤ 40 syllables]
+**English:** (category) [explanation]
+**Hindi:** (category) [explanation]
 ```
 
 Real example:
 ```markdown
-**ལག་གཉིས་ཐལ་མོ་སྦྱར་ནས་སྐྱབས་ཡུལ་རྣམས་ལ་གུས་ཕྱག་འཚལ།**
-**འགྲེལ་བཤད།** ཞོགས་པ་མལ་ནས་ལངས་མ་ཐག་སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་མདུན་དུ་བསྒོམས་ནས་གུས་པས་ཕྱག་འཚལ་དགོས། དེ་ནས་དེ་རིང་ཉིན་གང་བོར་རང་གི་བྱ་སྤྱོད་ཐམས་ཅད་གཞན་ལ་ཕན་པའི་ལས་འབའ་ཞིག་སྒྲུབ་པའི་དམ་བཅའ་བརྟན་པོ་ཞིག་འཇོག་པར་བྱའོ། །
+**ལག་ལེན།**
+**Tibetan:** དེ་རིང་ངས་དྲ་ལམ་དུ་ནང་ཆོས་ཀྱི་ལུང་ཐུང་ངུ་ཞིག་མཉམ་སྤྱོད་བྱ་རྒྱུ་ཡིན།
+**English:** I will share a short Buddhist quote on my social media today.
+**Hindi:** आज मैं सोशल मीडिया पर एक संक्षिप्त बौद्ध उद्धरण साझा करूंगा।
+
+**འགྲེལ་བཤད།**
+**Tibetan:** (དགེ་བ་བྱ་བ།) ཆོས་ཀྱི་ཚིག་སྤེལ་བ་ནི་བསྟན་བཅོས་འདི་མཐོང་མཁན་གཞན་ལ་ཕན་པར་འགྱུར་བའི་སྨོན་ལམ་དང་མཐུན་པའི་དགེ་བའི་ལག་ལེན་ཡིན།
+**English:** (Practicing virtue) Sharing dharma text connects others to virtue, fulfilling the author's wish that spreading these words benefits like-minded people.
+**Hindi:** (पुण्य कर्म) धर्म का पाठ साझा करना दूसरों को पुण्य से जोड़ता है, जो लेखक की इच्छा को पूरा करता है।
 ```
 
 ---
@@ -464,10 +502,13 @@ For chapter names in the header, use the traditional Tibetan word form for the o
 - [ ] Section 4 — explanation is 3–5 sentences; informative and inspiring, synthesising the most meaningful commentary material across all assigned verses
 - [ ] Section 4 — all content sourced from provided commentary sources (Knowledge or prompt); ends with a **མཆན།** citation line listing all sources used
 - [ ] Section 4 uses neutral tone — no first person (ངས་ / ང་རང་ / བདག་གིས་) in Section 4
-- [ ] Exactly 1 today's challenge in Section 5 — short two-part format: bold Tibetan phrase headline + **འགྲེལ་བཤད།** with 2–3 sentences of practical instruction
-- [ ] Section 5 challenge is very simple and actionable for ordinary people in daily life — concrete, not generic
+- [ ] Exactly 1 today's challenge in Section 5 — uses **ལག་ལེན།** / **འགྲེལ་བཤད།** format; output in Tibetan, English, and Hindi in that order
+- [ ] ལག་ལེན practice is actionable today, under 20 syllables/words per language, grounded in ordinary daily life — not a vague aspiration or retreat activity
+- [ ] འགྲེལ་བཤད explanation opens with category in parentheses; under 40 syllables/words per language; explicitly bridges verse teaching to today's action
+- [ ] Category is one of the nine defined categories — label appears in the explanation, not in the practice
+- [ ] Section 5 challenge is very concrete and specific — not generic mindfulness advice; speaks to family, work, irritation, kindness, honesty, patience, generosity
 - [ ] If the day has multiple verses, Section 5 is based on the single verse whose theme translates most naturally into everyday action
-- [ ] Section 5 uses first person singular (ངས་ / ང་རང་) — never collective ང་ཚོས་
+- [ ] Section 5 Tibetan uses first person singular (ངས་ / ང་རང་) — never collective ང་ཚོས་
 - [ ] Section 2 uses first person singular (ངས་ / ང་རང་) — practitioner's own voice opening the day
 - [ ] Tibetan spelling and grammar reviewed — check case endings, verb forms, and particles throughout all generated sections
 - [ ] Sentences flow smoothly with connective particles — no clipped Dzongkha-style clauses; no stacked nominalizations (X-བའི་ Y-བའི་ Z)

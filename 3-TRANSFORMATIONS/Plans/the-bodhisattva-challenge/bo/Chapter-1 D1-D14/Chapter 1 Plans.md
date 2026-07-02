@@ -86,23 +86,115 @@
 ####  **༡. བསྔོ་བ།**
 
 > བདག་གིས་བྱང་ཆུབ་སྤྱོད་པ་ལ། །
-> 
 > འཇུག་པ་རྣམ་པར་བརྩམས་པ་ཡི། །
-> 
 > དགེ་བ་གང་དེས་འགྲོ་བ་ཀུན། །
-> 
 > བྱང་ཆུབ་སྤྱོད་ལ་འཇུག་པར་ཤོག །
 
 ####  **༢. སྨོན་ལམ།**
 
 > བྱང་ཆུབ་སེམས་མཆོག་རིན་པོ་ཆེ། །
-> 
 > མ་སྐྱེས་པ་རྣམས་སྐྱེ་གྱུར་ཅིག །
-> 
 > སྐྱེས་པ་ཉམས་པ་མེད་པ་དང་། །
-> 
 > གོང་ནས་གོང་དུ་འཕེལ་བར་ཤོག །
 
 ### ༧། Image Generation Prompt
 
 A humble scholar in simple monastic robes sits quietly in a dimly lit stone courtyard, writing thoughtfully on a palm-leaf manuscript. He is not lecturing to a grand audience, but focused inward, embodying the sincere intention to cultivate his own mind and faith without seeking praise. The scene is rendered in classical Indian Buddhist manuscript painting style of the Pāla dynasty, featuring rich jewel tones of deep lapis lazuli blue, vermillion, and forest green, highlighted with delicate gold leaf accents. The composition utilizes an elegant flat perspective and fine calligraphic linework, with ornate floral borders framing the top and bottom to leave natural space for text overlays. The mood is serene, intimate, and luminous, bathed in the warm, gentle light of a single butter lamp. 4:5 portrait orientation.
+
+
+
+Day-2-Ch1-V4-5.md
+
+---
+
+# ཉིན་ ༢ - ཉིན་ ༣༦༥ ཡི་སྤྱོད་འཇུག་སློབ་སྦྱོང།
+
+## སྤྱོད་འཇུག་ལེའུ་དང་པོ། ཤློཀ་ ༤ - ༥
+
+---
+
+### ༡། སྐྱབས་འགྲོ་སེམས་བསྐྱེད།
+
+#### **༡. ཚད་མེད་བཞི།**
+
+> སེམས་ཅན་ཐམས་ཅད་བདེ་བ་དང་བདེ་བའི་རྒྱུ་དང་ལྡན་པར་གྱུར་ཅིག
+> སེམས་ཅན་ཐམས་ཅད་སྡུག་བསྔལ་དང་སྡུག་བསྔལ་གྱི་རྒྱུ་དང་བྲལ་བར་གྱུར་ཅིག
+> སེམས་ཅན་ཐམས་ཅད་སྡུག་བསྔལ་མེད་པའི་བདེ་བ་དང་མི་འབྲལ་བར་གྱུར་ཅིག
+> སེམས་ཅན་ཐམས་ཅད་ཉེ་རིང་ཆགས་སྡང་གཉིས་དང་བྲལ་བའི་བཏང་སྙོམ་ལ་གནས་པར་གྱུར་ཅིག
+
+#### **༢. སྐྱབས་འགྲོ།**
+
+> བྱང་ཆུབ་སྙིང་པོར་མཆིས་ཀྱི་བར། །
+> སངས་རྒྱས་རྣམས་ལ་སྐྱབས་སུ་མཆི། །
+> ཆོས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཡི། །
+> ཚོགས་ལའང་དེ་བཞིན་སྐྱབས་སུ་མཆི། །
+
+#### **༣. སེམས་བསྐྱེད།**
+
+> ཇི་ལྟར་སྔོན་གྱི་བདེ་གཤེགས་ཀྱིས། །
+> བྱང་ཆུབ་ཐུགས་ནི་བསྐྱེད་པ་དང་། །
+> བྱང་ཆུབ་སེམས་དཔའི་བསླབ་པ་ལ། །
+> དེ་དག་རིམ་བཞིན་གནས་པ་ལྟར། །
+
+> དེ་བཞིན་འགྲོ་ལ་ཕན་དོན་དུ། །
+> བྱང་ཆུབ་སེམས་ནི་བསྐྱེད་བགྱི་ཞིང་། །
+> དེ་བཞིན་དུ་ནི་བསླབ་པ་ལའང་། །
+> རིམ་པ་བཞིན་དུ་བསླབ་པར་བགྱི། །
+
+### ༢། ངོ་སྤྲོད།
+
+དེ་རིང་ངས་ལེའུ་དང་པོའི་ཤློཀ་བཞི་པ་དང་ལྔ་པ་ཉམས་སུ་ལེན་རྒྱུ་ཡིན། མི་ལུས་རིན་པོ་ཆེ་ཐོབ་པ་འདི་ཤིན་ཏུ་དཀའ་ཞིང་། དེ་བས་ཀྱང་དགེ་བ་བྱེད་འདོད་ཀྱི་བློ་སྐྱེ་བ་ནི་མུན་ནག་ཁྲོད་དུ་གློག་འགྱུ་བ་ལྟར་དཀོན་པར་འདུག དེས་ན་ངས་ལུས་སེམས་ཀྱི་མཐུན་རྐྱེན་འཛོམས་པའི་གོ་སྐབས་འདི་ཆུད་ཟོས་སུ་མི་གཏོང་བར་དམ་བཅའ་བརྟན་པོ་ཞིག་འཇོག་རྒྱུ་ཡིན།
+
+### ༣། དེ་རིང་གི་རྩ་ཚིག
+
+#### **༤. ཤློཀ་བཞི་པ།** (ལེའུ་ ༡ ཤློཀ་ ༤)
+
+> དལ་འབྱོར་འདི་ནི་རྙེད་པར་ཤིན་ཏུ་དཀའ། །
+> སྐྱེས་བུའི་དོན་སྒྲུབ་ཐོབ་པར་གྱུར་པ་ལ། །
+> གལ་ཏེ་འདི་ལ་ཕན་པ་མ་བསྒྲུབས་ན། །
+> ཕྱིས་འདི་ཡང་དག་འབྱོར་པར་ག་ལ་འགྱུར། །
+
+#### **༥. ཤློཀ་ལྔ་པ།** (ལེའུ་ ༡ ཤློཀ་ ༥)
+
+> ཇི་ལྟར་མཚན་མོ་མུན་ནག་སྤྲིན་རུམ་ན། །
+> གློག་འགྱུ་སྐད་ཅིག་རབ་སྣང་སྟོན་པ་ལྟར། །
+> དེ་བཞིན་སངས་རྒྱས་མཐུ་ཡིས་བརྒྱ་ལམ་ན། །
+> འཇིག་རྟེན་བསོད་ནམས་བློ་གྲོས་ཐང་འགའ་འབྱུང་། །
+
+### ༤། འགྲེལ་བཤད།
+
+ཤློཀ་འདི་གཉིས་ཀྱིས་མི་ལུས་རྙེད་དཀའ་བ་དང་དགེ་བའི་བློ་སྐྱེ་དཀའ་བ་གཉིས་བསྟན་ཡོད་དེ། དང་པོ་མི་ཁོམ་པ་བརྒྱད་ལས་གྲོལ་བའི་དལ་འབྱོར་གྱི་ལུས་འདི་ཐོབ་པ་ནི་རྒྱ་མཚོའི་ནང་གི་རུ་སྦལ་གྱི་མགྲིན་པ་གཉའ་ཤིང་ལ་ཚུད་པ་ལྟར་ཤིན་ཏུ་དཀོན་ནོ།། གཉིས་པ་སངས་རྒྱས་ཀྱི་བྱིན་རླབས་ལས་དགེ་བ་སྒྲུབ་འདོད་ཀྱི་བློ་སྐད་ཅིག་མ་སྐྱེས་པ་འདི་ནི། མཚན་མོ་སྤྲིན་ནག་འཐིབས་པའི་མུན་རུམ་དུ་གློག་འགྱུ་བའི་འོད་ཀྱིས་མཐའ་འཁོར་གསལ་བར་བྱེད་པ་དང་མཚུངས་སོ།། དེས་ན་ཁྱེད་ཀྱིས་ལུས་དང་སེམས་ཀྱི་མཐུན་རྐྱེན་འཛོམས་པའི་སྐབས་འདིར་ཕན་པའི་ལས་ཤིག་མ་བསྒྲུབས་ན། ཕྱིས་སུ་གོ་སྐབས་འདི་འདྲ་བ་ཞིག་ཡང་བསྐྱར་རྙེད་དཀའ་བས་ད་ལྟ་ནས་དགེ་བའི་ཕྱོགས་སུ་བརྩོན་འགྲུས་རྩོམ་པར་གདམས་པའོ།།
+
+**མཆན།**: མཁན་པོ་ཀུན་བཟང་དཔལ་ལྡན་གྱི་དོན་འགྲེལ།, རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་གྱི་དོན་འགྲེལ།, མི་ཉག་ཀུན་བསོད་ཀྱི་དོན་འགྲེལ།
+
+### ༥། ཉམས་སུ་ལེན་ཚུལ།
+
+**ལག་ལེན།**
+**Tibetan:** དེ་རིང་ང་རང་ལ་གཞན་ལ་ཕན་པའི་བློ་སྐྱེས་མ་ཐག ཕྱི་བཤོལ་མི་བྱེད་པར་དེ་མ་ཐག་ཏུ་ལག་ལེན་བསྟར་རྒྱུ་ཡིན།
+**English:** Today, as soon as a kind thought arises, I will act on it immediately without procrastinating.
+**Hindi:** आज जैसे ही दूसरों की भलाई का विचार आएगा, मैं बिना टाले तुरंत उस पर अमल करूंगा।
+
+**འགྲེལ་བཤད།**
+**Tibetan:** (བརྩོན་འགྲུས་ཀྱི་ཉམས་ལེན།) དགེ་བའི་བློ་ནི་མུན་ནག་ནང་གི་གློག་འོད་ལྟར་ཡུན་ཐུང་བས། བཟང་པོའི་བསམ་པ་སྐྱེས་དུས་འགོར་འགྱངས་མེད་པར་ལས་སུ་བསྒྱུར་བ་ནི་རྙེད་དཀའ་བའི་དལ་འབྱོར་ལ་སྙིང་པོ་ལེན་པའི་ཐབས་ཡིན།
+**English:** (Practicing diligence) A virtuous thought is as fleeting as lightning in the dark. Acting immediately on good intentions captures the essence of this rare human opportunity.
+**Hindi:** (परिश्रम का अभ्यास) एक अच्छा विचार अंधेरे में बिजली की तरह क्षणिक होता है। अच्छे इरादों पर तुरंत कार्य करना इस दुर्लभ अवसर का सार है।
+
+### ༦། བསྔོ་བ་དང་སྨོན་ལམ།
+
+#### **༡. བསྔོ་བ།**
+
+> བདག་གིས་བྱང་ཆུབ་སྤྱོད་པ་ལ། །
+> འཇུག་པ་རྣམ་པར་བརྩམས་པ་ཡི། །
+> དགེ་བ་གང་དེས་འགྲོ་བ་ཀུན། །
+> བྱང་ཆུབ་སྤྱོད་ལ་འཇུག་པར་ཤོག །
+
+#### **༢. སྨོན་ལམ།**
+
+> བྱང་ཆུབ་སེམས་མཆོག་རིན་པོ་ཆེ། །
+> མ་སྐྱེས་པ་རྣམས་སྐྱེ་གྱུར་ཅིག །
+> སྐྱེས་པ་ཉམས་པ་མེད་པ་དང་། །
+> གོང་ནས་གོང་དུ་འཕེལ་བར་ཤོག །
+
+### ༧། Image Generation Prompt
+
+A solitary traveler walks along a rugged mountain path under a sky heavy with dark storm clouds. Suddenly, a brilliant flash of lightning streaks across the sky, brightly illuminating the traveler as they bend down with compassion to help a fallen figure on the road. The scene is rendered in the classical Indian Buddhist manuscript painting style of the Pāla dynasty, featuring rich jewel tones of lapis lazuli blue, vermillion, and forest green, accented with delicate gold leaf. The composition utilizes an elegant flat perspective and fine calligraphic linework, framed by ornamental floral borders at the top and bottom to leave natural space for text overlays. The mood is striking yet serene—a fleeting moment of luminous clarity and sudden, compassionate action amidst the darkness. 4:5 portrait orientation.

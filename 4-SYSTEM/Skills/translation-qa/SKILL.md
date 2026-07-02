@@ -5,7 +5,7 @@ description: MQM-based quality check of a Hindi (or any-language) translation fi
 
 # translation-qa — MQM quality check for translation output
 
-This skill grades an already-written translation against its sources. It does **not** rewrite the translation; it reports what passes, what fails, exactly where, and how to fix it, so a reviewer can act and a domain specialist can sign off. It is the QA companion to `bo-to-hi-zero-shot-translation` (and any future `translate-section`).
+This skill grades an already-written translation against its sources. It does **not** rewrite the translation; it reports what passes, what fails, exactly where, and how to fix it, so a reviewer can act and a domain specialist can sign off. It is the QA companion to `translate-zero-shot` (and any future `translate-section`).
 
 The method is **MQM (Multidimensional Quality Metrics)**: instead of a holistic "rate it out of 5", every problem is located, classified by dimension, and assigned a severity. The score is the sum of weighted penalties — but the **error list is the real product**; the number is just its total.
 
@@ -149,4 +149,4 @@ Run Stages 0–2 on each file, then present the two scorecards side by side and 
 - **Report, don't rewrite.** Suggest fixes; do not edit the translation.
 - **Gate is hard.** Any Critical or Major ⇒ stays `draft`. Only a domain specialist sets `complete`.
 - **Append, dated.** Never overwrite earlier QA runs in `qa-report.md`.
-- When the generator skill (`bo-to-hi-zero-shot-translation`) changes its rules, update this skill's Style/Register and Terminology checks to match.
+- When the generator skill (`translate-zero-shot`) changes its rules, update this skill's Style/Register and Terminology checks to match.

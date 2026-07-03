@@ -92,6 +92,16 @@ status: draft
 
 ---
 
+## སྒྲུང་འགྲེལ། (Stories and narratives)
+
+### BCACXX_WR_bo — ཀླུ་སྒྲུབ་ཀྱི་སྒྲུང་། (Nāgārjuna's Story)
+
+ཤལ་ལོ་ཀ་འདིའི་**གསེར་འགྱུར་རྩི་ཡི་རྣམ་པ་མཆོག་ལྟ་བུ།** ཞེས་པའི་དཔེར་བཀོད་པའི་གཏམ་རྒྱུད། ཀླུ་སྒྲུབ་བྷེ་ཏའི་ཡུལ་དུ་བྲམ་ཟེ་ཞིག་གི་བུར་སྐྱེས་པར་མཚན་མཁན་གྱིས་ཚེ་ཞག་བདུན་ལས་མེད་པར་ལུང་བསྟན་ཡང་། ཀླུ་ལ་གསོལ་བ་བཏབ་པས་ལོ་བདུན་དང་། རྨ་བྱ་ཆེན་མོ་བསྒྲུབས་པས་ལོ་བཅོ་ལྔར་ཚེ་བསྲིངས། ཚེ་ཐུང་བའི་འཇིགས་པས་རབ་ཏུ་བྱུང་ནས་ནཱ་ལེནྡྲར་སློབ་གཉེར་མཛད། འཇམ་དཔལ་དང་འཆི་མེད་སྒྲོན་མར་གསོལ་བ་བཏབ་པས་ཚེའི་དངོས་གྲུབ་བརྙེས། མུ་གེའི་སྐབས་སུ་གསེར་འགྱུར་གྱི་རྩི་བསྒྲུབས་ཏེ་སྦྲུལ་དང་ཤིང་ལོ་མེ་ཏོག་གི་བརྟག་དཔྱད་ཀྱིས་རྩི་གྲུབ་པར་ཤེས་ནས་སེམས་ཅན་ལ་ཕན་བཏགས། ས་ར་ཧས་དངོས་གྲུབ་མཆོག་གི་རྫས་གཅིག་གིས་གང་ལ་རེག་ཀྱང་གསེར་དུ་འགྱུར་བ་ལྟར། བྱང་ཆུབ་ཀྱི་སེམས་གཅིག་གིས་ལུས་ཅན་ཐམས་ཅད་རྒྱལ་བའི་སྐུར་འགྱུར་བར་བསྟན།
+
+([[1-SOURCES/Commentaries/Transcluded/BCACXX_WR_bo.md#^1-2]])
+
+---
+
 ## དཔེ། (Metaphors)
 
 **གསེར་འགྱུར་གྱི་རྩིའི་དཔེ།** (Gold-making elixir) — The supreme gold-making elixir (*gser 'gyur gyi rtsi mchog*), a single unit of which can transform a thousand units of iron into pure gold. Bodhicitta is like this elixir: it takes this impure body (*mi gtsang ba'i lus*) and transforms it into the Victor's Body (*rgyal ba'i sku*) — precious beyond measure (*rin chen rin thang med par*). The gold-elixir metaphor operates at two levels:

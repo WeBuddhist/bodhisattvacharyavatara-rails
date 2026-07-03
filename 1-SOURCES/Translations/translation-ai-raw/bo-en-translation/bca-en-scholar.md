@@ -1,27 +1,27 @@
 ---
 file_type: translation
 root_text: 1-SOURCES\Translations\bo-བློ་ལྡན་ཤེས་རབ།.md
-title: The way of the bodhisattva - plain English version
+title: The way of the bodhisattva - scholar version
 lang_tag: en
 category_id: JD5ULLPAV1cxg7RSb7L3q
 license: public
 translator: Claude sonnet-5 
 source: webuddhist
-alt_titles:Nectar Drops — Spoken Teachings of Manjughosha, the Spiritual Teacher
+alt_titles: Oral Instructions of Manjughosha Guru
 ---
 # Entering the Way of the Bodhisattva ^0
 
-## 0. Introduction ^I-0
+# 0. Introduction ^I-0
 
 In Sanskrit: Bodhisatvacarya avatāra ^I-1
 
-In English: Entering the Way of the Bodhisattva ^I-2
+In Tibetan: Entering the Way of the Bodhisattva ^I-2
 
-I prostrate to all buddhas and bodhisattvas. ^I-3
+I prostrate to all buddhas and bodhisattvas [bodhisattvas (Skt. bodhisattva)]. ^I-3
 
-## 1. Explaining the Benefits of Bodhichitta ^1-0
+## 1. Explaining the Benefits of Bodhichitta [bodhichitta (bodhicitta, “the awakening mind”)] ^1-0
 
-I prostrate with respect to the buddhas, Who have the dharmakaya, and their offspring, And also to all worthy of veneration. I’ll teach in brief, according to the scriptures, The way to enter the bodhisattva’s vows. ^1-1
+I prostrate with respect to the sugatas [sugatas (buddhas, “those gone to bliss”)], Who have the dharmakaya [dharmakaya (dharmakāya, truth body)], and their offspring, And also to all worthy of veneration. I’ll teach in brief, according to the scriptures, The way to enter the bodhisattva [bodhisattva (Skt. bodhisattva)]’s vows. ^1-1
 
 I won’t say anything not said before, Nor have I any skill in poetry. Thus I have not intended this for others— I’ve written it to cultivate my mind. ^1-2
 
@@ -33,11 +33,11 @@ Just as between the clouds on pitch-black nights, Lightning reveals the heavens 
 
 Thus virtues are perpetually weak; The powers of misdeeds are terribly dreadful. Besides the wish for perfect enlightenment, What other virtue triumphs over them? ^1-6
 
-The lords of sages, who have contemplated For many aeons, see just this will help. Immeasurable multitudes of beings Through this will gain the sublime bliss with ease. ^1-7
+The lords of sages, who have contemplated For many aeons [aeons (kalpas)], see just this will help. Immeasurable multitudes of beings Through this will gain the sublime bliss with ease. ^1-7
 
 No one should ever forsake bodhichitta Who wants to dispel beings’ unhappiness, Vanquish the hundreds of miseries of existence, And partake in the many hundreds of joys. ^1-8
 
-If they rouse bodhichitta, in an instant The wretched, fettered in samsara’s prison, Are named the offspring of the buddhas And revered in the worlds of gods and humans. ^1-9
+If they rouse bodhichitta, in an instant The wretched, fettered in samsara [samsara (saṃsāra)]’s prison, Are named the offspring of the sugatas And revered in the worlds of gods and humans. ^1-9
 
 Just like the greatest kind of alchemy, It takes this unclean body and transforms it Into a priceless jewel, a buddha’s body, So firmly grasp ahold of bodhichitta. ^1-10
 
@@ -59,7 +59,7 @@ But from the moment, when for the sake Of freeing beings in infinite realms, You
 
 From that time on, the many powers Of merit flow forth unremitting In torrents equal to the sky Even when you’re asleep or careless. ^1-19
 
-The Buddha himself explained This and its reasons for the sake Of beings inclined to the Foundation In the Sutra Requested by Subahu. ^1-20
+The Tathagata [tathagata (buddha, “thus-gone one”)] himself explained This and its reasons for the sake Of beings inclined to the Foundation [Foundation (śrāvakayāna)] In the Sutra [sutra (sūtra)] Requested by Subahu. ^1-20
 
 If someone who benevolently Intends to merely eliminate Sharp pains in sentient beings’ heads Possesses immeasurable merit, ^1-21
 
@@ -81,21 +81,21 @@ For those deprived of happiness Who suffer many miseries, This satisfies with ev
 
 It also will dispel delusion. How could there be such good as this? How could there be a friend like this? How could there be such merit as this? ^1-30
 
-If to reciprocate a kind deed Is praiseworthy for a short while, What need to speak of bodhisattvas Who do good unsolicited? ^1-31
+If to reciprocate a kind deed Is praiseworthy for a short while, What need to speak of bodhisattvas [bodhisattvas (Skt. bodhisattva)] Who do good unsolicited? ^1-31
 
 People extol as doing something good Those who provide a few with regular meals, Donating scornfully for a short time Plain food that satisfies for half a day. ^1-32
 
-What need to speak of those who always give To beings of untold number for a long time The sublime happiness of the buddhas, Fulfilling every one of their desires? ^1-33
+What need to speak of those who always give To beings of untold number for a long time The sublime happiness of the sugatas, Fulfilling every one of their desires? ^1-33
 
-Someone who rouses a malicious thought Toward such a patron, offspring of the buddhas, Will dwell in hell as many aeons as The count of their bad thoughts, the Sage has said. ^1-34
+Someone who rouses a malicious thought Toward such a patron, offspring of the victors [victors (jinas, buddhas)], Will dwell in hell as many aeons as The count of their bad thoughts, the Sage has said. ^1-34
 
 But the results of someone feeling faith Proliferate in far greater abundance. With bodhisattvas, even grave events Don’t bring misdeeds; good naturally increases. ^1-35
 
 I prostrate to the bodies of those in whom This jewel, the sublime attitude, is born. Even harming them will lead to happiness. I go for refuge to the wellsprings of joy. ^1-36
 
-## The first chapter, “Explaining the Benefits of Bodhichitta,” from Entering the Way of the Bodhisattva. 2. Confessing Misdeeds ^2-0
+## The first chapter, “Explaining the Benefits of Bodhichitta [bodhichitta (bodhicitta, “the awakening mind”)],” from Entering the Way of the Bodhisattva [bodhisattva (Skt. bodhisattva)]. 2. Confessing Misdeeds ^2-0
 
-In order to grasp that precious attitude, I make fine offerings to the buddhas, To the true dharma, the immaculate jewel, And to the oceans of qualities, bodhisattvas. ^2-1
+In order to grasp that precious attitude, I make fine offerings to the tathagatas [tathagatas (buddhas, “thus-gone ones”)], To the true dharma, the immaculate jewel, And to the oceans of qualities, bodhisattvas [bodhisattvas (Skt. bodhisattva)]. ^2-1
 
 As many fruits and flowers as there are, Whatever kinds of medicine exist, However many jewels there are in the world, All clean and pleasant waters there may be, ^2-2
 
@@ -109,19 +109,19 @@ I imagine taking these and offer them well To the sages, greatest of beings, and
 
 I am bereft of merit, destitute, And have no other wealth that I could offer. May the protectors, who think of others’ weal, Accept these through their power for my sake. ^2-7
 
-Forevermore I offer all my bodies To the buddhas and to their offspring. O sublime beings, accept me entirely, And I will be your dedicated servant. ^2-8
+Forevermore I offer all my bodies To the victorious ones [victorious ones (jinas, buddhas)] and to their offspring. O sublime beings, accept me entirely, And I will be your dedicated servant. ^2-8
 
 Because you have accepted me completely, Not fearing existence, I will benefit beings. I will transcend my previous misdeeds And never do another wrong again. ^2-9
 
 Within this sweetly fragrant house for bathing, Where the bright and lustrous floors are paved with crystal, Alluring pillars are aglow with jewels, And glistening pearls are draped in canopies, ^2-10
 
-I bathe the buddhas and bodhisattvas From precious vases that have been filled full Of water imbued with many fragrances, Accompanied by song and harmonies. ^2-11
+I bathe the sugatas [sugatas (buddhas, “those gone to bliss”)] and bodhisattvas From precious vases that have been filled full Of water imbued with many fragrances, Accompanied by song and harmonies. ^2-11
 
 With cloths that are beyond compare and clean, Infused with a fine scent, I dry their bodies. And then I offer them the finest robes, Well dyed and most delightfully perfumed. ^2-12
 
 I drape Samantabhadra, Lokeshvara, Manjushri, and the other noble beings With fabrics that are delicate and soft And hundreds of the finest ornaments. ^2-13
 
-Like polishing the purest refined gold, I apply the finest scents, whose fragrances Waft everywhere throughout the billion worlds, To the radiant bodies of all buddhas. ^2-14
+Like polishing the purest refined gold, I apply the finest scents, whose fragrances Waft everywhere throughout the billion worlds, To the radiant bodies of all sugatas. ^2-14
 
 I offer the great beings I venerate, The lords of sages, every fragrant flower— Mandarava, lotus, jasmine, and so forth— And pleasing garlands strung attractively. ^2-15
 
@@ -137,11 +137,11 @@ And furthermore, may there extend Clouds of attractive offerings, With lovely tu
 
 May rains of gems and flowers and more Continuously shower down On all the jewels of the true dharma As well as on stupas and likenesses. ^2-21
 
-As Manjughosha and the rest Make offerings to the buddhas, I offer to the buddhas— The protectors—and their offspring. ^2-22
+As Manjughosha and the rest Make offerings to the victorious ones, I offer to the tathagatas— The protectors—and their offspring. ^2-22
 
 I extol the oceans of qualities With oceans of melodies of praise. May clouds of hymns in praise of them Arise just so continuously. ^2-23
 
-I prostrate, bowing as many bodies As there are atoms in all realms, To all the buddhas of the three times, The dharma, and the sublime sangha. ^2-24
+I prostrate, bowing as many bodies As there are atoms in all realms, To all the buddhas of the three times, The dharma, and the sublime sangha [sangha (saṅgha)]. ^2-24
 
 I prostrate to the sacred sites And stupas of the bodhisattva. I also prostrate to the abbots, The masters, and the supreme adepts. ^2-25
 
@@ -149,11 +149,11 @@ Until I reach enlightenment’s essence, I go for refuge to the buddhas. I go fo
 
 To the perfect buddhas and bodhisattvas Who dwell in every direction— To those endowed with great compassion— I join my palms and supplicate: ^2-27
 
-In this and in my other lives Throughout beginningless samsara, Deluded, I have done misdeeds. I’ve instigated them, and also— ^2-28
+In this and in my other lives Throughout beginningless samsara [samsara (saṃsāra)], Deluded, I have done misdeeds. I’ve instigated them, and also— ^2-28
 
 Compelled by ignorant confusion— I have rejoiced in them. I see They were mistakes, and I confess To the protectors from my depths. ^2-29
 
-I have, because of the afflictions, Caused harm with body, speech, and mind To the three jewels and to my parents And to the gurus, among others. ^2-30
+I have, because of the afflictions [afflictions (kleśas)], Caused harm with body, speech, and mind To the three jewels and to my parents And to the gurus, among others. ^2-30
 
 I, who am wicked and am stained By numerous failings, have committed Misdeeds that are most terrible. Before the guides, I confess them all. ^2-31
 
@@ -187,7 +187,7 @@ What need to say how wretched I’ll be When Yama’s henchmen have me seized, T
 
 But seeing no protection in The four directions, I’ll then despair. If there’s no refuge in that place, What will I do at such a time? ^2-46
 
-Thus from today, I’ll go for refuge To the buddhas, guardians of beings, Who strive to protect all wanderers, Those with great power who dispel all fear. ^2-47
+Thus from today, I’ll go for refuge To the victors [victors (jinas, buddhas)], guardians of beings, Who strive to protect all wanderers, Those with great power who dispel all fear. ^2-47
 
 Likewise I truly go for refuge To the dharma they have realized, which Dispels the terrors of samsara, And to the sangha of bodhisattvas. ^2-48
 
@@ -225,19 +225,19 @@ Within the presence of the protectors, From fear of suffering, I join My palms a
 
 I supplicate you, guides! Accept That my misdeeds have been mistaken. They were not good, and for that reason, I’ll never do such acts again. ^2-65
 
-## The second chapter, “Confessing Misdeeds,” from Entering the Way of the Bodhisattva. 3. Embracing Bodhichitta ^3-0
+## The second chapter, “Confessing Misdeeds,” from Entering the Way of the Bodhisattva [bodhisattva (Skt. bodhisattva)]. 3. Embracing Bodhichitta [bodhichitta (bodhicitta, “the awakening mind”)] ^3-0
 
 Delighted, I rejoice in virtue— Respite from the pains Of lower realms—and in those who suffer Dwelling in happiness. ^3-1
 
 I celebrate the virtues gathered That cause enlightenment. ^3-2
 
-I rejoice in beings’ emancipation From the suffering of samsara, In the protectors’ buddhahood, And the bodhisattvas’ levels. ^3-3
+I rejoice in beings’ emancipation From the suffering of samsara [samsara (saṃsāra)], In the protectors’ buddhahood, And the bodhisattvas [bodhisattvas (Skt. bodhisattva)]’ levels. ^3-3
 
 I rejoice gladly in the ocean Of bodhichitta that brings All sentient beings to happiness And gives them benefit. ^3-4
 
 With my palms joined, I implore the buddhas In all directions: Light The lamp of dharma in the gloom Of ignorant beings’ woes! ^3-5
 
-Joining my palms, I beseech the buddhas Who wish to pass to nirvana, Don’t leave these wanderers in blindness— Stay for countless aeons! ^3-6
+Joining my palms, I beseech the victors [victors (jinas, buddhas)] Who wish to pass to nirvana [nirvana (nirvāṇa)], Don’t leave these wanderers in blindness— Stay for countless aeons [aeons (kalpas)]! ^3-6
 
 May the virtue I have amassed By doing all of this Eliminate all the suffering Of every sentient being. ^3-7
 
@@ -271,7 +271,7 @@ Like earth and the other elements, Like space, may I always be The ground, suppo
 
 Likewise in all ways for all beings Out to the edges of space, May I be, till all pass to nirvana, What gives them sustenance. ^3-22
 
-Just as the buddhas of the past Aroused the mind of bodhichitta, Just as they followed step-by-step The training of the bodhisattvas, ^3-23
+Just as the sugatas [sugatas (buddhas, “those gone to bliss”)] of the past Aroused the mind of bodhichitta, Just as they followed step-by-step The training of the bodhisattvas, ^3-23
 
 So, too, shall I, to benefit wanderers, Arouse the mind of bodhichitta. So, too, shall I follow step-by-step The bodhisattvas’ training. ^3-24
 
@@ -287,19 +287,19 @@ This is the great elixir that Vanquishes the Lord of Death. It is the inexhausti
 
 This is the supreme medicine That cures the maladies of the world, A resting tree for beings exhausted From wandering the paths of existence. ^3-30
 
-This is the universal bridge That frees all beings from lower realms, The rising moon of mind that soothes The torments of sentient beings’ afflictions. ^3-31
+This is the universal bridge That frees all beings from lower realms, The rising moon of mind that soothes The torments of sentient beings’ afflictions [afflictions (kleśas)]. ^3-31
 
 It’s the great sun that brings an end To the darkness of beings’ ignorance. It is the butter that emerges From churning the milk of the true dharma. ^3-32
 
 For travelers roaming on the paths of existence, Desiring to partake of happiness, This sublime blissfulness is close at hand To satisfy the supreme guests, sentient beings. ^3-33
 
-## The third chapter, “Embracing Bodhichitta,” from Entering the Way of the Bodhisattva. 4. Teachings on Carefulness ^4-0
+## The third chapter, “Embracing Bodhichitta [bodhichitta (bodhicitta, “the awakening mind”)],” from Entering the Way of the Bodhisattva [bodhisattva (Skt. bodhisattva)]. 4. Teachings on Carefulness ^4-0
 
-The buddhas’ offspring who have thus Grasped bodhichitta steadfastly Must strive without any lassitude To never violate the precepts. ^4-1
+The victors [victors (jinas, buddhas)]’ offspring who have thus Grasped bodhichitta steadfastly Must strive without any lassitude To never violate the precepts. ^4-1
 
 When something has been started rashly Or is not properly thought out, Even if promised, it is best To examine whether to act or not. ^4-2
 
-But why should I put off that which The buddhas and their offspring have Investigated with great prajna And I myself have also examined? ^4-3
+But why should I put off that which The buddhas and their offspring have Investigated with great prajna [prajna (prajñā, wisdom)] And I myself have also examined? ^4-3
 
 If now that I have made a promise, I don’t fulfill it with my actions, I will have hoodwinked all those beings, And what will be my destiny? ^4-4
 
@@ -323,7 +323,7 @@ Though countless buddhas have appeared And benefited all sentient beings, Due to
 
 If I still act in such a way, Over and over again I will Experience in the lower realms Being sick, bound, hacked, and stabbed, and such. ^4-14
 
-It’s rare a buddha appears, Rare to gain faith, a human body, And the ability to cultivate virtue. When will I ever have these again? ^4-15
+It’s rare a tathagata [tathagata (buddha, “thus-gone one”)] appears, Rare to gain faith, a human body, And the ability to cultivate virtue. When will I ever have these again? ^4-15
 
 Although on days such as today, I may be healthy, fed, and safe, Life will deceive me in an instant— This body’s a momentary loan. ^4-16
 
@@ -331,11 +331,11 @@ Behaving like this, I will not get A human body ever again. If I don’t gain a 
 
 If I do not act virtuously Despite my fortune to do good, What will I do when stupefied By the suffering of the lower realms? ^4-18
 
-If I do not perform any virtues And accumulate misdeeds, I’ll never, for billions of aeons, Even hear the words “the higher realms.” ^4-19
+If I do not perform any virtues And accumulate misdeeds, I’ll never, for billions of aeons [aeons (kalpas)], Even hear the words “the higher realms.” ^4-19
 
 Therefore the Bhagavan taught gaining A human body is as hard As for a turtle to stick its neck Through a yoke tossed on the vast seas. ^4-20
 
-If due to a wrong done in an instant, One will stay aeons in the Incessant, What need to say that due to misdeeds I’ve done in beginningless samsara, I will not go to the higher realms? ^4-21
+If due to a wrong done in an instant, One will stay aeons in the Incessant, What need to say that due to misdeeds I’ve done in beginningless samsara [samsara (saṃsāra)], I will not go to the higher realms? ^4-21
 
 After I have experienced That much, I won’t be freed from there, For while I am experiencing it, I will produce still more misdeeds. ^4-22
 
@@ -355,7 +355,7 @@ As long as they dwell in my mind, They’ll cause me harm at their own pleasure.
 
 If all the gods and demigods Arose against me as my foes, They could not take or force me to The fires of the Incessant Hell. ^4-30
 
-This powerful enemy, afflictions, Will cast me in an instant there Where even Mount Meru would be turned To ash on contact, nothing left. ^4-31
+This powerful enemy, afflictions [afflictions (kleśas)], Will cast me in an instant there Where even Mount Meru would be turned To ash on contact, nothing left. ^4-31
 
 The adversaries, my afflictions, Last long, without beginning or end. No other enemy is able To endure so long a time as them. ^4-32
 
@@ -391,13 +391,13 @@ Afflictions do not dwell in objects, in the senses, or between. Nor are they som
 
 I’ve contemplated thus and now will strive To undertake the precepts as described. How can a patient who needs medicine Be cured if they ignore the doctor’s advice? ^4-48
 
-## The fourth chapter, “Teachings on Carefulness,” from Entering the Way of the Bodhisattva. 5. Guarding Awareness ^5-0
+## The fourth chapter, “Teachings on Carefulness,” from Entering the Way of the Bodhisattva [bodhisattva (Skt. bodhisattva)]. 5. Guarding Awareness ^5-0
 
 All those who wish to keep the precepts Should concentrate and guard their minds. If you do not protect your mind, You won’t be able to keep the precepts. ^5-1
 
 An untamed elephant amok Does not create as much harm here As letting the elephant of mind Run loose will cause in the Incessant. ^5-2
 
-The elephant of mind tied tight With ropes of mindfulness all round, All dangers will amount to naught; All virtues will come into your hands. ^5-3
+The elephant of mind tied tight With ropes of mindfulness [mindfulness (smṛti)] all round, All dangers will amount to naught; All virtues will come into your hands. ^5-3
 
 All tigers, lions, elephants, Bears, snakes, and enemies, The keepers of the beings in hell, The dakinis and rakshasas— ^5-4
 
@@ -423,7 +423,7 @@ Likewise, although I am unable To keep external things at bay, I’ll keep this 
 
 Even with body and speech, results Of feeble conduct are not like The fruit of rousing one clear thought— Rebirth in such as Brahma’s Realm. ^5-15
 
-No matter how long they are practiced, All liturgies and austerities Are futile, said the knower of suchness, If something else distracts the mind. ^5-16
+No matter how long they are practiced, All liturgies and austerities Are futile, said the knower of suchness [suchness (tathatā)], If something else distracts the mind. ^5-16
 
 Those who don’t know this secret of mind— The sublime, paramount of dharmas— Want to gain joy and end suffering But wander to no avail or end. ^5-17
 
@@ -447,13 +447,13 @@ Due to the fault of nonawareness, Many of those with learning, faith, And dedica
 
 The robbers that are a lack of awareness, Following weakened mindfulness, Will seize the merits you have gathered While you go to the lower realms. ^5-27
 
-This gang of bandits, the afflictions, Are seeking opportunities. Given a chance, they’ll plunder virtue And slaughter life in higher realms. ^5-28
+This gang of bandits, the afflictions [afflictions (kleśas)], Are seeking opportunities. Given a chance, they’ll plunder virtue And slaughter life in higher realms. ^5-28
 
 Thus never let your mindfulness Stray from the gateway to your mind, And if it goes, recall the pains Of the lower realms to bring it back. ^5-29
 
 From keeping company with a master, Instruction from the abbot, and fear, Those who have fortune and respect Develop mindfulness easily. ^5-30
 
-“The buddhas and the bodhisattvas See everywhere without obstruction. Therefore I always am indeed Within the presence of them all.” ^5-31
+“The buddhas and the bodhisattvas [bodhisattvas (Skt. bodhisattva)] See everywhere without obstruction. Therefore I always am indeed Within the presence of them all.” ^5-31
 
 Thinking thus conscientiously, Respectfully, and fearfully, The recollection of the buddha Will then arise repeatedly. ^5-32
 
@@ -473,7 +473,7 @@ Beginning endeavors with the thought “With body, I will stay like this,” I�
 
 With all my efforts, I must check That the crazed elephant of mind Has not slipped loose from being tied To the great post of thoughts of dharma. ^5-40
 
-Exerting myself in samadhi, I shall examine my own mind By thinking “What is my mind doing?” To not lose it for even a moment. ^5-41
+Exerting myself in samadhi [samadhi (samādhi, meditative absorption)], I shall examine my own mind By thinking “What is my mind doing?” To not lose it for even a moment. ^5-41
 
 If due to danger, feasts, and such, You cannot, do what’s easiest. It’s taught that in a time of giving, You may ignore some discipline. ^5-42
 
@@ -483,7 +483,7 @@ If you do this, all is done well. Otherwise neither will get done. In this way, 
 
 If you engage in idle chat Or in amazing spectacles Of various and different kinds, Give up your eagerness for them. ^5-45
 
-If you should dig the ground, cut plants, Or draw in dirt without a purpose, Recall the words of the Buddha And at that moment, stop from fear. ^5-46
+If you should dig the ground, cut plants, Or draw in dirt without a purpose, Recall the words of the Sugata [sugata (buddha, “one gone to bliss”)] And at that moment, stop from fear. ^5-46
 
 Whenever you have a wish to move Or else you feel a wish to speak, Examine your mind first, and then Be firm in acting properly. ^5-47
 
@@ -515,7 +515,7 @@ O mind, why is it that you grasp This body as yours and guard it so? If you and 
 
 Deluded mind, why don’t you cling To a clean wooden figurine? How is it sensible to protect This festering machine of filth? ^5-61
 
-First with your intellect, dissect And separate the layers of skin. Dissever with the blade of prajna The flesh apart from the cage of bones. ^5-62
+First with your intellect, dissect And separate the layers of skin. Dissever with the blade of prajna [prajna (prajñā, wisdom)] The flesh apart from the cage of bones. ^5-62
 
 Then chop apart the bones as well. Look in as far as to the marrow And analyze it for yourself. What essence does it have? ^5-63
 
@@ -571,7 +571,7 @@ Dharma should not be taught to those Who lack respect, who though not sick, Wear
 
 Don’t teach the lesser the vast and deep, Or women unless a man is present. Approach with equal reverence Foundational and higher dharmas. ^5-89
 
-Don’t introduce a lesser dharma To those who are vessels for the vast. Also, do not disregard conduct Or lead astray with sutras and mantras. ^5-90
+Don’t introduce a lesser dharma To those who are vessels for the vast. Also, do not disregard conduct Or lead astray with sutras [sutras (sūtra)] and mantras. ^5-90
 
 Cover it up when you discard A tooth stick or else when you spit. It is disgraceful to urinate And such on usable land and water. ^5-91
 
@@ -583,19 +583,19 @@ Don’t point at anything with one finger. Instead, use your entire right hand T
 
 To give a signal, do not wave Your entire arm; just move it slightly And make a noise such as by snapping. Otherwise it is unrestrained. ^5-95
 
-Like the Protector at nirvana, Lie down in your preferred direction, And from the outset, with awareness, Resolve that you will get up promptly. ^5-96
+Like the Protector at nirvana [nirvana (nirvāṇa)], Lie down in your preferred direction, And from the outset, with awareness, Resolve that you will get up promptly. ^5-96
 
 The bodhisattva’s practices Are taught to be innumerable. Among them, surely first embrace The ways of purifying the mind. ^5-97
 
-Three times each day, three times each night, Recite the Sutra in Three Sections. Because of the buddhas and bodhichitta, This pacifies remaining downfalls. ^5-98
+Three times each day, three times each night, Recite the Sutra [sutra (sūtra)] in Three Sections. Because of the buddhas and bodhichitta [bodhichitta (bodhicitta, “the awakening mind”)], This pacifies remaining downfalls. ^5-98
 
 Whatever you do at any time Whether for your or others’ sakes, Make efforts to train in the precepts That have been taught for that situation. ^5-99
 
-There is not anything at all The buddhas’ offspring should not learn, And for the wise who live like this, There’s nothing that will not be merit. ^5-100
+There is not anything at all The victors [victors (jinas, buddhas)]’ offspring should not learn, And for the wise who live like this, There’s nothing that will not be merit. ^5-100
 
 Do nothing but what benefits Beings directly or indirectly. Dedicate solely for beings’ sakes Everything to enlightenment. ^5-101
 
-Even at cost of your own life, Never forsake the spiritual friend Who’s learned in the Mahayana And great in the bodhisattva vow. ^5-102
+Even at cost of your own life, Never forsake the spiritual friend Who’s learned in the Mahayana [Mahayana (Mahāyāna, the Great Vehicle)] And great in the bodhisattva vow. ^5-102
 
 Train in the ways to serve the guru From the life story of Shri Sambhava. This and the Buddha’s other teachings Are to be learned by reading sutras. ^5-103
 
@@ -611,9 +611,9 @@ In brief, the characteristic of Maintaining awareness is just this: Examine over
 
 With body, I will practice these— What does just mouthing words achieve? Does merely reading medical books Bring benefit to patients? ^5-109
 
-## The fifth chapter, “Guarding Awareness,” from Entering the Way of the Bodhisattva. 6. Transcendent Patience ^6-0
+## The fifth chapter, “Guarding Awareness,” from Entering the Way of the Bodhisattva [bodhisattva (Skt. bodhisattva)]. 6. Transcendent Patience ^6-0
 
-One moment’s anger shatters all Good acts accumulated In a thousand aeons, such as giving Or offering to the buddhas. ^6-1
+One moment’s anger shatters all Good acts accumulated In a thousand aeons [aeons (kalpas)], such as giving Or offering to the buddhas. ^6-1
 
 There is no misdeed like hatred; No austerity like patience. So cultivate assiduously Patience in various ways. ^6-2
 
@@ -649,7 +649,7 @@ Some, seeing their own blood, become Exceptionally courageous, And some, on seei
 
 This is from steadfastness of mind Or else from cowardice. Thus disregard the injuries— Do not let pains affect you. ^6-18
 
-Though pain occurs, the wise do not Disturb their joy of mind. When waging war against afflictions, Harm’s plentiful in battle. ^6-19
+Though pain occurs, the wise do not Disturb their joy of mind. When waging war against afflictions [afflictions (kleśas)], Harm’s plentiful in battle. ^6-19
 
 Triumphant heroes are they who Ignore all pain and quash Hatred and such—the enemy. Everyone else kills corpses. ^6-20
 
@@ -771,7 +771,7 @@ Your pleasure from rejoicing is A blameless source of delight Allowed by those w
 
 When yours are the qualities described, You want that others be pleased. When others’ qualities are described, You don’t want to be pleased yourself. ^6-79
 
-If you roused bodhichitta because You want all beings to be happy, When beings find themselves happiness, Why does that make you angry? ^6-80
+If you roused bodhichitta [bodhichitta (bodhicitta, “the awakening mind”)] because You want all beings to be happy, When beings find themselves happiness, Why does that make you angry? ^6-80
 
 If you want for beings the buddhahood Adored in the three worlds, Why does it gall you so to see Them have some paltry honor? ^6-81
 
@@ -835,9 +835,9 @@ Though you won’t honor your enemies Because they want to harm you, If they, li
 
 Thus since malevolent intent Is what produces patience, Just they are the cause of patience and worthy Of veneration, like true dharma. ^6-111
 
-These are the fields of sentient beings And buddhas, said the Sage. Many who have respected them Have gone beyond to perfection. ^6-112
+These are the fields of sentient beings And victors [victors (jinas, buddhas)], said the Sage. Many who have respected them Have gone beyond to perfection. ^6-112
 
-A buddha’s qualities are gained From beings and buddhas alike. How is it right to have respect For buddhas but not beings? ^6-113
+A buddha’s qualities are gained From beings and buddhas alike. How is it right to have respect For victors but not beings? ^6-113
 
 It’s not from qualities of intention But due to the results That beings have qualities like theirs And therefore are their equals. ^6-114
 
@@ -861,11 +861,11 @@ Just as no object of desire will bring Happiness when your body is on fire, If y
 
 Therefore I now confess all my misdeeds, Which, as they have caused harm to sentient beings, Distress all those endowed with great compassion. May all those whom I have displeased forgive me. ^6-124
 
-To please the buddhas, from today onward I shall be the world’s slave. I won’t strike back, No matter how many people stomp my crown Or kill me. Guardians of the world, be happy! ^6-125
+To please the tathagatas [tathagatas (buddhas, “thus-gone ones”)], from today onward I shall be the world’s slave. I won’t strike back, No matter how many people stomp my crown Or kill me. Guardians of the world, be happy! ^6-125
 
 There’s no doubt they whose nature is compassion Regard all of these beings as themselves. Those who are seen as sentient beings in nature Are guardians in essence—why disrespect them? ^6-126
 
-Just this is what will please the buddhas. Just this is what fulfills my very own aims. Just this dispels the sufferings of the world, And therefore I will always do just this. ^6-127
+Just this is what will please the tathagatas. Just this is what fulfills my very own aims. Just this dispels the sufferings of the world, And therefore I will always do just this. ^6-127
 
 Just as, when one of the king’s men Wreaks havoc on many people, Even if able, the farsighted Do not retaliate ^6-128
 
@@ -879,9 +879,9 @@ Even if pleased, a king could not Provide what is achieved By making sentient be
 
 Leave future buddhahood aside, Do you not see in this life That pleasing sentient beings brings Much glory, fame, and joy? ^6-133
 
-While in samsara, patience brings Beauty and so forth, Good health, prestige, a very long life, And a chakravarti’s pleasures. ^6-134
+While in samsara [samsara (saṃsāra)], patience brings Beauty and so forth, Good health, prestige, a very long life, And a chakravarti’s pleasures. ^6-134
 
-## The sixth chapter, “Transcendent Patience,” from Entering the Way of the Bodhisattva. 7. Teachings on Diligence ^7-0
+## The sixth chapter, “Transcendent Patience,” from Entering the Way of the Bodhisattva [bodhisattva (Skt. bodhisattva)]. 7. Teachings on Diligence ^7-0
 
 Thus with patience, be diligent. Enlightenment dwells in striving so. There is no motion without wind; No merit without diligence. ^7-1
 
@@ -889,7 +889,7 @@ Diligence is a zest for virtue. What’s contrary to that? To explain, It’s la
 
 Laziness arises from Not wearying of samsaric pain, From craving sleep and savoring The pleasures of being indolent. ^7-3
 
-Stalked by the hunters, the afflictions, You’ve walked into the trap of birth. Yet do you still not understand You’ve entered the maw of the Lord of Death? ^7-4
+Stalked by the hunters, the afflictions [afflictions (kleśas)], You’ve walked into the trap of birth. Yet do you still not understand You’ve entered the maw of the Lord of Death? ^7-4
 
 Have you not seen that your compeers Are being killed, one after another? Still, even so you fall asleep, Just like a buffalo with a butcher. ^7-5
 
@@ -915,7 +915,7 @@ Forsaking the sublime joy of dharma, The cause of infinite delight, Why do you r
 
 Don’t be discouraged; practice with The forces, purpose, and self-control: The equality of self and others And exchanging yourself for others. ^7-16
 
-Don’t get demoralized and think, “How is it I could be awakened?” For the Buddha who speaks The truth has spoken truly thus: ^7-17
+Don’t get demoralized and think, “How is it I could be awakened?” For the Tathagata [tathagata (buddha, “thus-gone one”)] who speaks The truth has spoken truly thus: ^7-17
 
 If they should rouse the strength of effort, Even gnats, mosquitoes, bees, and worms Will gain what is so hard to achieve— Unexcelled enlightenment. ^7-18
 
@@ -923,7 +923,7 @@ If I, born in the human race, Can recognize what helps and harms And don’t giv
 
 “But I’m afraid of sacrificing My limbs and such,” I say, not thinking What is severe and what is light— Delusion has left me in fear. ^7-20
 
-For countless millions of aeons, I will be hacked and stabbed and burnt And rent asunder many times, But not achieve enlightenment. ^7-21
+For countless millions of aeons [aeons (kalpas)], I will be hacked and stabbed and burnt And rent asunder many times, But not achieve enlightenment. ^7-21
 
 The suffering for me to achieve Enlightenment, though, has a limit, Like pain from an incision made To excise a painful foreign object. ^7-22
 
@@ -937,9 +937,9 @@ For once you understand your body To be like vegetables and such, What difficult
 
 There is no pain from giving up wrong, No melancholy from being wise, For harm to the body is from misdeeds And harm to the mind from misconceptions. ^7-27
 
-If physical pleasure is from merit And mental pleasure from being wise, Would the compassionate despair To stay in samsara for others’ sake? ^7-28
+If physical pleasure is from merit And mental pleasure from being wise, Would the compassionate despair To stay in samsara [samsara (saṃsāra)] for others’ sake? ^7-28
 
-Because the power of bodhichitta Exhausts one’s misdeeds from the past And gathers oceans of merit, it’s taught That they surpass the shravakas. ^7-29
+Because the power of bodhichitta [bodhichitta (bodhicitta, “the awakening mind”)] Exhausts one’s misdeeds from the past And gathers oceans of merit, it’s taught That they surpass the shravakas [shravakas (śrāvakas, hearers)]. ^7-29
 
 So ride the horse of bodhichitta That banishes all weariness. Who in their senses would be lazy To go from one joy to the next? ^7-30
 
@@ -969,7 +969,7 @@ Wherever they go, those who perform The virtue that their heart desires Will be 
 
 Wherever they go, those who commit Misdeeds, though they want happiness, Will be destroyed because of their wrongs By the weapons of suffering. ^7-43
 
-From virtues, you will dwell within the heart Of a vast, cool, and fragrant lotus flower, Where nourished by the pleasing voices of The buddhas, you will grow in majesty. And when, because of light rays from the sages, The lotus blossoms, you will then emerge Before the buddhas with a supreme body— You will become a child of the buddhas. ^7-44
+From virtues, you will dwell within the heart Of a vast, cool, and fragrant lotus flower, Where nourished by the pleasing voices of The victors [victors (jinas, buddhas)], you will grow in majesty. And when, because of light rays from the sages, The lotus blossoms, you will then emerge Before the victors with a supreme body— You will become a child of the sugatas [sugatas (buddhas, “those gone to bliss”)]. ^7-44
 
 But from your many nonvirtues, the henchmen Of Yama will entirely flay your skin, And you will be most miserable and wretched. Then molten copper melted over the most Intense of fires will pour all over your body, And blows rained down by blazing swords and spears Will hack your flesh into a hundred pieces, And you will fall onto the burning iron ground. ^7-45
 
@@ -991,7 +991,7 @@ Can there be freedom from privation For the disheartened who have stopped trying
 
 Therefore with a steadfast mind, I’ll vanquish downfalls. If instead They conquer me, my wish to triumph Over the three realms is laughable. ^7-54
 
-I’ll be victorious over all. I will let nothing vanquish me. A child of the lion, the Buddha, I shall abide within such pride. ^7-55
+I’ll be victorious over all. I will let nothing vanquish me. A child of the lion, the Victor, I shall abide within such pride. ^7-55
 
 Those beings whom pride has subjugated Do not have pride; they are afflicted. They have succumbed to the foe pride— The proud are not controlled by foes. ^7-56
 
@@ -1021,7 +1021,7 @@ But when your strength diminishes, Put work aside to act again later. Once it’
 
 Like parrying the enemy’s blade When you are in the thick of battle, Evade the weapons of afflictions, And strike the foe afflictions hard. ^7-69
 
-If you should drop your sword in battle, You’d swiftly pick it up from fear. If you lose mindfulness—your weapon— Take it up quickly, fearing hell. ^7-70
+If you should drop your sword in battle, You’d swiftly pick it up from fear. If you lose mindfulness [mindfulness (smṛti)]—your weapon— Take it up quickly, fearing hell. ^7-70
 
 Just as a poison spreads throughout The body through the flow of blood, Likewise if they can get a chance, Your wrongs will spread throughout your mind. ^7-71
 
@@ -1033,9 +1033,9 @@ For every single wrong that occurs, Chastise yourself and ponder long, “Howeve
 
 “In circumstances such as this, How shall I practice mindfulness?” With that as cause, you should seek out A meeting and appropriate action. ^7-75
 
-## The seventh chapter, “Teachings on Diligence,” from Entering the Way of the Bodhisattva. 8. Teachings on Meditation ^8-0
+## The seventh chapter, “Teachings on Diligence,” from Entering the Way of the Bodhisattva [bodhisattva (Skt. bodhisattva)]. 8. Teachings on Meditation ^8-0
 
-After thus rousing diligence, Settle your mind into samadhi. A person whose mind wanders perches Between the fangs of the afflictions. ^8-1
+After thus rousing diligence, Settle your mind into samadhi [samadhi (samādhi, meditative absorption)]. A person whose mind wanders perches Between the fangs of the afflictions [afflictions (kleśas)]. ^8-1
 
 With solitude of body and mind, Distraction won’t occur. So you should thus forsake the world And also give up discursive thoughts. ^8-2
 
@@ -1059,7 +1059,7 @@ Angered by talk of what is helpful, They turn me away from my own welfare. If I 
 
 They’re jealous of superiors; Competitive with their own equals. They’re proud toward their inferiors And arrogant when they are praised. When you reproach them, they get angry. When is there benefit from the childish? ^8-12
 
-When you keep company with the childish, You praise yourself, belittle others, Talk of samsara and such with them— Nonvirtue inevitably occurs. ^8-13
+When you keep company with the childish, You praise yourself, belittle others, Talk of samsara [samsara (saṃsāra)] and such with them— Nonvirtue inevitably occurs. ^8-13
 
 In this way, my associating With them will only bring me ruin. They will not bring me benefit, And I won’t benefit them either. ^8-14
 
@@ -1081,7 +1081,7 @@ If even buddhas cannot please Beings with various inclinations, What need to spe
 
 They revile people who get nothing And speak ill of those who get much. What pleasure comes from those whose nature Is to be hard to get along with? ^8-23
 
-As the buddhas have said, No childish being is a friend Because unless it suits their purpose, The childish are not gratified. ^8-24
+As the tathagatas [tathagatas (buddhas, “thus-gone ones”)] have said, No childish being is a friend Because unless it suits their purpose, The childish are not gratified. ^8-24
 
 In forests, animals and birds And trees don’t speak disparagingly. When is it I will live together With them, whose company is pleasant? ^8-25
 
@@ -1117,7 +1117,7 @@ The one for whom you earlier Made many requests through go-betweens, For whose s
 
 For whom you put yourself in peril And also used up all your wealth, The one whose tight embrace would bring The highest pleasure is nothing but ^8-41
 
-A skeleton—not anything else. What you have lusted for and clung to Has no control, is not a self. Why don’t you go to nirvana instead? ^8-42
+A skeleton—not anything else. What you have lusted for and clung to Has no control, is not a self. Why don’t you go to nirvana [nirvana (nirvāṇa)] instead? ^8-42
 
 You first took pains to lift her face, But she then bashfully looked down. Whether you’d seen it before or not, It had been shrouded by a veil. ^8-43
 
@@ -1211,7 +1211,7 @@ In empty huts, by trees, or else in caves, You may remain as long as you desire.
 
 To freely act with no desires And without ties to anyone— Enjoyable comfort of contentment Is hard for even a prince to find. ^8-88
 
-Once you’ve reflected on these and other Advantages of solitude, Then fully pacify your thoughts And meditate on bodhichitta. ^8-89
+Once you’ve reflected on these and other Advantages of solitude, Then fully pacify your thoughts And meditate on bodhichitta [bodhichitta (bodhicitta, “the awakening mind”)]. ^8-89
 
 First meditate ardently upon The equality of self and other. They’re equal in both pain and pleasure, So protect everyone like yourself. ^8-90
 
@@ -1343,7 +1343,7 @@ When I see those who are my peers, “To make myself superior, I’ll get their 
 
 “We will deprive them of happiness And always yoke them to our torments. This one wrought miseries for us Hundreds of times in all samsara.” ^8-154
 
-O mind, you have spent countless aeons Wanting to benefit yourself, But even with such great ordeals, You’ve only created suffering. ^8-155
+O mind, you have spent countless aeons [aeons (kalpas)] Wanting to benefit yourself, But even with such great ordeals, You’ve only created suffering. ^8-155
 
 Therefore you must apply yourself Completely to benefiting others. Later you’ll see the merits in this— The Sage’s words are undeceiving. ^8-156
 
@@ -1405,7 +1405,7 @@ So I’ll give up, without attachment, This body for wanderers’ benefit. There
 
 I’ve had enough of childish conduct. I’ll follow the footsteps of the wise. Recalling the words on carefulness, I’ll ward off sleep and sluggishness. ^8-185
 
-## The eighth chapter, “Teachings on Meditation,” from Entering the Way of the Bodhisattva. 9. Transcendent Prajna ^9-0
+## The eighth chapter, “Teachings on Meditation,” from Entering the Way of the Bodhisattva [bodhisattva (Skt. bodhisattva)]. 9. Transcendent Prajna [prajna (prajñā, wisdom)] ^9-0
 
 The Sage taught all these preparations For the sake of prajna, So those who wish to pacify Suffering should develop prajna. ^9-1
 
@@ -1421,9 +1421,9 @@ It is consensus, not valid knowledge, That there’s perception of form and such
 
 In order to introduce the worldly, The Buddha taught that there are things. In fact, they are not momentary. “That contradicts the relative.” ^9-7
 
-The yogic relative has no fault. Compared to worldly, it’s seeing suchness, Or else the worldly could refute Their recognizing bodies as filth. ^9-8
+The yogic relative has no fault. Compared to worldly, it’s seeing suchness [suchness (tathatā)], Or else the worldly could refute Their recognizing bodies as filth. ^9-8
 
-The merit from illusory buddhas Is like that from existent ones. “If beings are illusory, After they die, how are they born?” ^9-9
+The merit from illusory victors [victors (jinas, buddhas)] Is like that from existent ones. “If beings are illusory, After they die, how are they born?” ^9-9
 
 Illusions will arise as long As the conditions are assembled. Does merely lasting a long time Mean sentient beings truly exist? ^9-10
 
@@ -1431,7 +1431,7 @@ Killing illusory beings and such Are not misdeeds—they have no mind. But merit
 
 Since spells and such don’t have that power, Illusory minds do not arise. Produced by various conditions, Illusions are various as well. ^9-12
 
-Nowhere is there a single condition That’s capable of everything. “If beings still cycle relatively, Though ultimately, they’re nirvana, ^9-13
+Nowhere is there a single condition That’s capable of everything. “If beings still cycle relatively, Though ultimately, they’re nirvana [nirvana (nirvāṇa)], ^9-13
 
 “Then even buddhas would transmigrate— Why bother with the way of bodhi?” Unless the continuum of conditions Is severed, illusions will not cease. ^9-14
 
@@ -1459,15 +1459,15 @@ How things are seen or heard or known Is not what is rebutted here. Here it’s 
 
 If you think that illusions are neither Other than mind nor the same as it, If real, then how are they not other? If they’re not other, it is not real. ^9-26
 
-What’s seen—illusion—is not true, And neither is the seer, mind. “Samsara must have a real basis, Otherwise it would be like space.” ^9-27
+What’s seen—illusion—is not true, And neither is the seer, mind. “Samsara [samsara (saṃsāra)] must have a real basis, Otherwise it would be like space.” ^9-27
 
 How does being based upon the real Mean the unreal performs an action? That mind of yours, with no companion, Would be entirely alone. ^9-28
 
-When mind is free of the apprehended, Then all become buddhas. In that case, what’s the benefit Of thinking there is only mind? ^9-29
+When mind is free of the apprehended, Then all become tathagatas [tathagatas (buddhas, “thus-gone ones”)]. In that case, what’s the benefit Of thinking there is only mind? ^9-29
 
-“But how does merely knowing that All is illusion stop afflictions? Illusionists may still feel lust For dreamlike lovers they create.” ^9-30
+“But how does merely knowing that All is illusion stop afflictions [afflictions (kleśas)]? Illusionists may still feel lust For dreamlike lovers they create.” ^9-30
 
-Their makers have not yet abandoned The imprints of afflictions toward Known objects, so when they see them, Their imprint of emptiness is weak. ^9-31
+Their makers have not yet abandoned The imprints of afflictions toward Known objects, so when they see them, Their imprint of emptiness [emptiness (śūnyatā)] is weak. ^9-31
 
 Ingraining the imprint of emptiness Eliminates the imprint of things. By meditating, “Nothing exists,” It also is abandoned later. ^9-32
 
@@ -1475,11 +1475,11 @@ When one says “Nothing exists,” the thing That’s being examined isn’t ob
 
 And then when neither thing nor nothing Remains before the mind, Because there is no other way, There is no focus—utter peace. ^9-34
 
-Just as a wish-fulfilling jewel And heaven tree fill every wish, The kayas of the buddhas appear Due to disciples and aspirations. ^9-35
+Just as a wish-fulfilling jewel And heaven tree fill every wish, The kayas of the victors appear Due to disciples and aspirations. ^9-35
 
 The builder of the garuda pillar Passed away after it was blessed, But it still neutralizes poisons And such long after he is gone. ^9-36
 
-A bodhisattva, following The way of awakening, will build A buddha’s pillar and pass to Nirvana, yet perform all deeds. ^9-37
+A bodhisattva, following The way of awakening, will build A victor’s pillar and pass to Nirvana, yet perform all deeds. ^9-37
 
 “How is it making offerings To one who has no mind bears fruit?” This has been taught to be the same, Whether they’re present or in nirvana. ^9-38
 
@@ -1487,7 +1487,7 @@ There are results, according to scripture, Whether they’re relative or suchnes
 
 “One can be freed by seeing the truths; Why bother seeing emptiness?” Because there’s no awakening Without this path, the scriptures teach. ^9-40
 
-If the Great Vehicle is not proven, How is it that your scriptures are? “Because they’re proven to us both.” At first, they were not proven to you. ^9-41
+If the Great Vehicle [Great Vehicle (Mahāyāna)] is not proven, How is it that your scriptures are? “Because they’re proven to us both.” At first, they were not proven to you. ^9-41
 
 The reasons for believing in them Are the same for the Great Vehicle too. If they’re true since two parties accept them, The Vedas and such would also be true. ^9-42
 
@@ -1503,9 +1503,9 @@ Craving is due to the condition Of feeling, and they do have feeling. A mind tha
 
 As with conception-free absorption, A mind that lacks in emptiness Might cease but will arise again, So meditate on emptiness. ^9-48
 
-If you accept as the Buddha’s teachings The words included in the sutras, Don’t you accept the Great Vehicle Is mostly the same as your sutras? ^9-49
+If you accept as the Buddha’s teachings The words included in the sutras [sutras (sūtra)], Don’t you accept the Great Vehicle Is mostly the same as your sutras? ^9-49
 
-If all of them are flawed because A single one is not included, Then since one sutra is the same, Why aren’t they all the Buddha’s words? ^9-50
+If all of them are flawed because A single one is not included, Then since one sutra [sutra (sūtra)] is the same, Why aren’t they all the Buddha’s words? ^9-50
 
 Just because you don’t understand The teachings Mahakashyapa And so forth did not truly fathom, Who says they’re not to be accepted? ^9-51
 
@@ -1625,7 +1625,7 @@ The analyzing mind and what is analyzed Are linked together, mutually dependent.
 
 “But when,” you say, “the process of analysis Is made, in turn, the object of our scrutiny, This investigation likewise may be analyzed, And thus we find an infinite regress.” ^9-109
 
-If phenomena are truly analyzed, No basis for analysis remains. And when the object is removed, the subject too subsides. That indeed is said to be nirvana. ^9-110
+If phenomena are truly analyzed, No basis for analysis remains. And when the object is removed, the subject too subsides. That indeed is said to be nirvāṇa. ^9-110
 
 Those who say that both are true, Are hard-pressed to maintain their case. If consciousness reveals the truth of things, On what grounds, in its turn, does consciousness exist? ^9-111
 
@@ -1641,27 +1641,27 @@ In everyday perception There’s a cause for everything. The different segments 
 
 “But what gives rise,” you ask, “to such variety of causes?” An even earlier variety of causes, we declare. “And how,” you ask, “do causes give their fruits?” Through power, we answer, of preceding causes. ^9-117
 
-If Ishvara is held to be the cause of beings, You must now define for us his nature. If, by this, you simply mean the elements, No need to tire ourselves disputing names! ^9-118
+If Īshvara is held to be the cause of beings, You must now define for us his nature. If, by this, you simply mean the elements, No need to tire ourselves disputing names! ^9-118
 
-Yet earth and other elements are many, Impermanent, inert, without divinity. Trampled underfoot, they are impure, And thus they cannot be a an omnipotent god. ^9-119
+Yet earth and other elements are many, Impermanent, inert, without divinity. Trampled underfoot, they are impure, And thus they cannot be a God Omnipotent. ^9-119
 
-The deity cannot be space—inert and unproductive. He cannot be the self, for this we have refuted. He’s inconceivable, they say—then likewise his creatorship. Is there any point, therefore, to such a claim? ^9-120
+The Deity cannot be space—inert and unproductive. He cannot be the self, for this we have refuted. He’s inconceivable, they say—then likewise his creatorship. Is there any point, therefore, to such a claim? ^9-120
 
 What is it that he wishes to create? Has he made the self and all the elements? But are not self and elements and he himself eternal? And consciousness, we know, arises from its object. ^9-121
 
-Pain and pleasure have, from all time, sprung from karma, So tell us, what has his divine power produced? And if there’s no beginning in the cause, How can there be beginnings in its fruits? ^9-122
+Pain and pleasure have, from all time, sprung from karma, So tell us, what has his Divinity produced? And if there’s no beginning in the cause, How can there be beginnings in its fruits? ^9-122
 
-Why are creatures not created constantly, For Ishvara relies on nothing but himself? And if there’s nothing that he has not made, What remains on which he might depend? ^9-123
+Why are creatures not created constantly, For Īshvara relies on nothing but himself? And if there’s nothing that he has not made, What remains on which he might depend? ^9-123
 
-If Ishvara depends, the cause of all Is but the meeting of conditions and not Ishvara. When these obtain, he cannot but create; When these are absent, he is powerless to make. ^9-124
+If Īshvara depends, the cause of all Is but the meeting of conditions and not Īshvara. When these obtain, he cannot but create; When these are absent, he is powerless to make. ^9-124
 
-If almighty god does not intend, But yet creates, another thing has forced him. If he wishes to create, he’s swayed by his desire. So even though creator, what of his omnipotence? ^9-125
+If Almighty God does not intend, But yet creates, another thing has forced him. If he wishes to create, he’s swayed by his desire. So even though Creator, what of his omnipotence? ^9-125
 
-Those who hold the permanence of particles Were indeed refuted earlier. The Samkhyas are the ones who hold That permanent prakriti is the cause of the evolving world. ^9-126
+Those who hold the permanence of particles Were indeed refuted earlier. The Sāṃkhyas are the ones who hold That permanent prakṛiti is the cause of the evolving world. ^9-126
 
-“Pleasure,” “pain,” “neutrality,” so-called, Are qualities which, when they rest In equilibrium are termed “prakriti.” The universe arises when this balance is disturbed. ^9-127
+“Pleasure,” “pain,” “neutrality,” so-called, Are qualities which, when they rest In equilibrium are termed “prakṛiti.” The universe arises when this balance is disturbed. ^9-127
 
-Three natures in a unity are disallowed, And thus prakriti is without existence. These qualities likewise do not exist, For each of them indeed is three. ^9-128
+Three natures in a unity are disallowed, And thus prakṛiti is without existence. These qualities likewise do not exist, For each of them indeed is three. ^9-128
 
 If these qualities have no existence, A thing like sound is very far from plausible! And cloth and other mindless objects Cannot be the seat of feelings such as pleasure. ^9-129
 
@@ -1743,39 +1743,39 @@ My wealth of merit gathered in, With reverence but without conceptual target, Wh
 
 ## Dedication ^10-0
 
-By all the virtue I have now amassed By composition of this book, which speaks Of entry to the bodhisattva way, May every being tread the path to Buddhahood. ^10-1
+By all the virtue I have now amassed By composition of this book, which speaks Of entry to the Bodhisattva [bodhisattva (Skt. bodhisattva)] way, May every being tread the path to Buddhahood. ^10-1
 
 May beings everywhere who suffer Torment in their minds and bodies Have, by virtue of my merit, Joy and happiness in boundless measure. ^10-2
 
-As long as they may linger in samsara, May their joy be undiminished; May they taste of unsurpassed beatitude In constant and unbroken continuity. ^10-3
+As long as they may linger in saṃsāra, May their joy be undiminished; May they taste of unsurpassed beatitude In constant and unbroken continuity. ^10-3
 
-Throughout the spheres and reaches of the world, In hellish states as many as there are, May beings who abide there taste The bliss and peace of Sukhavati. ^10-4
+Throughout the spheres and reaches of the world, In hellish states as many as there are, May beings who abide there taste The bliss and peace of Sukhāvatī. ^10-4
 
-May those caught in the freezing ice be warmed, And from great clouds of bodhisattvas Torrents rain in boundless streams To cool those burning in infernal fires. ^10-5
+May those caught in the freezing ice be warmed, And from great clouds of Bodhisattvas [bodhisattvas (Skt. bodhisattva)] Torrents rain in boundless streams To cool those burning in infernal fires. ^10-5
 
-May forests where the leaves are blades and swords Become sweet groves and pleasant woodland glades. And may the trees of miracles appear, Supplanting those upon the hill of Shalmali. ^10-6
+May forests where the leaves are blades and swords Become sweet groves and pleasant woodland glades. And may the trees of miracles appear, Supplanting those upon the hill of Shālmali. ^10-6
 
 And may the very pits of hell be sweet With fragrant pools all perfumed with the scent of lotuses, And lovely with the cries of swan and goose And waterfowl so pleasing to the ear. ^10-7
 
-May fiery coals turn into heaps of jewels, The burning ground become an even crystal floor, May crushing hills become sublime abodes: Offering temples, dwellings of the buddhas. ^10-8
+May fiery coals turn into heaps of jewels, The burning ground become an even crystal floor, May crushing hills become sublime abodes: Offering temples, dwellings of the Buddhas. ^10-8
 
 May the hail of weapons, lava, fiery stones Become henceforth a rain of flowers. And all the mutual woundings with sharp blades Be now a rain of flowers thrown in play. ^10-9
 
-And those engulfed in fiery Vaitarani, Their flesh destroyed, their bones bleached white as kunda flowers, May they, through all my merits’ strength, have godlike forms And sport with goddesses in Mandakini’s peaceful streams. ^10-10
+And those engulfed in fiery Vaitaraṇī, Their flesh destroyed, their bones bleached white as kunda flowers, May they, through all my merits’ strength, have godlike forms And sport with goddesses in Mandākinī’s peaceful streams. ^10-10
 
-“What fear is it,” they’ll ask, “that grips the henchmen of the Lord of Death, the frightful vultures, and the carrion crows? What noble strength is it that brings us joy and drives away our dreadful night?” And looking skyward they will see the shining form of Vajrapani. Then may their sins be quenched in joy and may they go to him. ^10-11
+“What fear is it,” they’ll ask, “that grips the henchmen of the Deadly Lord, the frightful vultures, and the carrion crows? What noble strength is it that brings us joy and drives away our dreadful night?” And looking skyward they will see the shining form of Vajrapāṇi. Then may their sins be quenched in joy and may they go to him. ^10-11
 
 And when they see the seething lava-flood of hell Extinguished in a rain of blossoms, drenched in fragrant streams, At once fulfilled in bliss, they’ll ask, “How can this be?” May then the denizens of hell behold the One Who Holds the Lotus. ^10-12
 
-“Friends, throw away your fears and quickly gather here. For who is it who comes to us to banish dread, this gleaming youth with bound-up hair, This loving bodhisattva saving and protecting every being, Whose power relieves all pain, bestowing joy? ^10-13
+“Friends, throw away your fears and quickly gather here. For who is it who comes to us to banish dread, this gleaming youth with bound-up hair, This loving Bodhisattva saving and protecting every being, Whose power relieves all pain, bestowing joy? ^10-13
 
-“Behold the hundred gods who lay their crowns before his lotus feet, The rain of flowers that falls upon his head, his eyes moist with compassion, The splendor of his house that echoes praises of a thousand goddesses!” May those in hell thus cry on seeing Manjughosha. ^10-14
+“Behold the hundred gods who lay their crowns before his lotus feet, The rain of flowers that falls upon his head, his eyes moist with compassion, The splendor of his house that echoes praises of a thousand goddesses!” May those in hell thus cry on seeing Mañjughoṣha. ^10-14
 
-And likewise, through my roots of virtue, Seeing bodhisattvas like Samantabhadra, free from stain, Those clouds of bliss all laden with a cooling scented rain, May all those languishing in hell come now to perfect joy. ^10-15
+And likewise, through my roots of virtue, Seeing Bodhisattvas like Samantabhadra, free from stain, Those clouds of bliss all laden with a cooling scented rain, May all those languishing in hell come now to perfect joy. ^10-15
 
 And may the stooping animals be freed From fear of being preyed upon, each other’s food. And may the famished spirits have such joy As those who dwell within the northern continent. ^10-16
 
-And may they be replete and satisfied By streams of milk that pour From noble Lord Avalokiteshvara’s hand, And bathing in it, may they be refreshed and cooled. ^10-17
+And may they be replete and satisfied By streams of milk that pour From noble Lord Avalokita’s hand, And bathing in it, may they be refreshed and cooled. ^10-17
 
 And may the blind receive their sight, And may the deaf begin to hear, And women near their time bring forth, Like Māyādevī, free from all travail. ^10-18
 
@@ -1805,27 +1805,27 @@ May all the women of the world Attain the strength of masculinity. And may the l
 
 And thus by all the merit I have gained, May every being, leaving none aside, Abandon all their evil ways Embracing goodness now and ever more. ^10-31
 
-From bodhichitta may they never separate, And constantly engage in bodhisattva actions. May they be accepted as disciples by the buddhas, Drawing back from what is demons’ work. ^10-32
+From bodhichitta [bodhichitta (bodhicitta, “the awakening mind”)] may they never separate, And constantly engage in Bodhisattva actions. May they be accepted as disciples by the Buddhas, Drawing back from what is demons’ work. ^10-32
 
 And may these beings, each and every one, Enjoy an unsurpassed longevity. Living always in contentment, May the very name of death be strange to them. ^10-33
 
-In all the ten directions and on every side May groves of wish-fulfilling trees abound, Resounding with the sweetness of the Teachings, Spoken by the buddhas and their bodhisattva heirs. ^10-34
+In all the ten directions and on every side May groves of wish-fulfilling trees abound, Resounding with the sweetness of the Teachings, Spoken by the Buddhas and their Bodhisattva heirs. ^10-34
 
 And may the earth be wholesome everywhere, Free from boulders, cliffs, and chasms, Flat and even like a level palm, And smooth like lapis lazuli. ^10-35
 
-For many circles of disciples, May multitudes of bodhisattvas Live in every land, Adorning them with every excellence. ^10-36
+For many circles of disciples, May multitudes of Bodhisattvas Live in every land, Adorning them with every excellence. ^10-36
 
-From birdsong and the sighing of the trees, From shafts of light and from the sky itself, May living beings, each and every one, Perceive the constant sound of dharma. ^10-37
+From birdsong and the sighing of the trees, From shafts of light and from the sky itself, May living beings, each and every one, Perceive the constant sound of Dharma. ^10-37
 
-And always may they come into the presence of the buddhas, And meet with bodhisattvas, offspring of the same. With clouds of offerings unbounded, May the teachers of the world be worshipped. ^10-38
+And always may they come into the presence of the Buddhas, And meet with Bodhisattvas, offspring of the same. With clouds of offerings unbounded, May the teachers of the world be worshipped. ^10-38
 
-May kindly spirits bring the rains on time, For harvests to be rich and plentiful. May princes rule according to the dharma; May the world be blessed with all prosperity. ^10-39
+May kindly spirits bring the rains on time, For harvests to be rich and plentiful. May princes rule according to the Dharma; May the world be blessed with all prosperity. ^10-39
 
 May medicines be full of strength; May secret words of power be chanted with success. May spirits of the air that feed on flesh Be kind, their minds imbued with pity. ^10-40
 
 May beings never suffer anguish. Let them not be sick nor evilly behave. May they have no fear, nor suffer insults. Always may their minds be free from sorrow. ^10-41
 
-In monasteries, temples, and the like, May reading and reciting widely flourish. May harmony prevail among the sangha; May its purposes be all fulfilled. ^10-42
+In monasteries, temples, and the like, May reading and reciting widely flourish. May harmony prevail among the Saṅgha; May its purposes be all fulfilled. ^10-42
 
 May ordained monks, intent upon the practice, Find perfect places for retreat in solitude, Abandon every vagrant thought, And meditate with trained and serviceable minds. ^10-43
 
@@ -1837,38 +1837,38 @@ May wise and learned beings be revered, And always be sustained by alms. May the
 
 May beings never languish in the lower realms, May pain and hardship be unknown to them. With bodies greater than the gods, May they attain enlightenment without delay. ^10-47
 
-May beings time and time again Make offerings to all the buddhas. And with the Buddha’s unimagined bliss May they enjoy undimmed and constant happiness. ^10-48
+May beings time and time again Make offerings to all the Buddhas. And with the Buddha’s unimagined bliss May they enjoy undimmed and constant happiness. ^10-48
 
-May all the bodhisattvas now fulfill Their high intention for the sake of wanderers. May sentient beings now obtain All that their Guardians wish for them. ^10-49
+May all the Bodhisattvas now fulfill Their high intention for the sake of wanderers. May sentient beings now obtain All that their Guardians wish for them. ^10-49
 
-And may the shravakas and pratyekabuddhas Gain their perfect happiness. ^10-50
+And may the Hearers and Pratyekabuddhas Gain their perfect happiness. ^10-50
 
-And till, through Manjughosha’s perfect kindness, I attain the ground of Perfect Joy, May I remember all my lives And enter into the monastic state. ^10-51
+And till, through Mañjughoṣha’s perfect kindness, I attain the ground of Perfect Joy, May I remember all my lives And enter into the monastic state. ^10-51
 
 Thus may I abide, sustained By simple, ordinary fare. And in every life obtain A dwelling place in perfect solitude. ^10-52
 
-Whenever I desire to gaze on him Or put to him the slightest question, May I behold with unobstructed sight My own protector Manjughosha. ^10-53
+Whenever I desire to gaze on him Or put to him the slightest question, May I behold with unobstructed sight My own protector Mañjughoṣha. ^10-53
 
-To satisfy the needs of beings Dwelling in the ten directions, to the margins of the sky, May I reflect in all my deeds The perfect exploits of Manjushri. ^10-54
+To satisfy the needs of beings Dwelling in the ten directions, to the margins of the sky, May I reflect in all my deeds The perfect exploits of Mañjushrī. ^10-54
 
 And now as long as space endures, As long as there are beings to be found, May I continue likewise to remain To drive away the sorrows of the world. ^10-55
 
-The pains and sorrows of all wandering beings— May they ripen wholly on myself. And may the virtuous company of bodhisattvas Always bring about the happiness of beings. ^10-56
+The pains and sorrows of all wandering beings— May they ripen wholly on myself. And may the virtuous company of Bodhisattvas Always bring about the happiness of beings. ^10-56
 
 May the Doctrine, only cure for sorrow, Source of every bliss and happiness, Be blessed with wealth, upheld with veneration, And throughout a vast continuance of time, endure! ^10-57
 
-And now to Manjughosha I prostrate, Whose kindness is the wellspring of my good intent. And to my virtuous friends I also bow Whose inspiration gave me strength to grow. ^10-58
+And now to Mañjughoṣha I prostrate, Whose kindness is the wellspring of my good intent. And to my virtuous friends I also bow Whose inspiration gave me strength to grow. ^10-58
 
-This concludes the tenth chapter, "Dedication," from Entering the Way of the Bodhisattva. ^10-a
+This concludes the tenth chapter, “Dedication” (pariṇāmanā), of the Bodhisattvacharyavatara (Byang chub sems dpa'i spyod pa la 'jug pa). ^10-a
 
-## Colophon of the Author ^a-0
+## Colophon of the Author (mdzad byang) ^a-0
 
-Entering the Way of the Bodhisattva, composed by the master Shantideva, is complete. ^a-1
+The Bodhisattvacharyavatara, composed by the ācārya Shantideva (Zhi ba lha), is complete. ^a-1
 
-## Colophon of the Translators ^b-0
+## Colophon of the Translators ('gyur byang) ^b-0
 
-This was first translated and established from a Kashmiri manuscript by the Indian preceptor Sarvajnadeva and the chief editor-translator Bandé Paltsek. ^b-1
+This was first translated and established from a Kashmiri (Kha che) manuscript by the Indian preceptor (paṇḍita) Sarvajñadeva and the chief editor-translator (zhu chen gyi lo tsā ba), the venerable (bande) Paltsek. ^b-1
 
-Later it was revised and re-translated to accord with a Central Indian manuscript and its commentary by the Indian preceptor Dharmashribhadra together with the chief editor-translators Bandé Rinchen Zangpo and Shakya Lodrö, and thus established. ^b-2
+Later it was revised and re-translated to accord with a Central Indian (dbus) manuscript and its commentary by the Indian preceptor Dharmashribhadra together with the chief editor-translators the venerable Rinchen Zangpo and Shakya Lodrö, and thus established. ^b-2
 
-And later still it was purified, revised, and re-translated, and thus given its finest, established form, by the Indian preceptor Sumatikirti and the chief editor-translator, the monk Loden Sherab. ^b-3
+And later still it was corrected, revised, and re-translated, and thus given its finest, established form, by the Indian preceptor Sumatikirti together with the chief editor-translator, the monk (dge slong) Loden Sherab. ^b-3

@@ -15,7 +15,7 @@ alt_titles: Oral Instructions of Manjughosha Guru
 
 In Sanskrit: Bodhisatvacarya avatara ^I-1
 
-In English: Entering the Way of the Bodhisattva ^I-2
+In Tibetan: Entering the Way of the Bodhisattva ^I-2
 
 I bow with respect to all enlightened beings and all those working toward enlightenment to help others. ^I-3
 

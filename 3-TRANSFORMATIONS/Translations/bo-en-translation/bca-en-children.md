@@ -1,13 +1,13 @@
 ---
 file_type: translation
 root_text: 1-SOURCES\Translations\bo-བློ་ལྡན་ཤེས་རབ།.md
-title: Entering the Way of the Bodhisattva
+title: The way of the bodhisattva - children version
 lang_tag: en
 category_id: JD5ULLPAV1cxg7RSb7L3q
 license: public
-translator: 
+translator: Claude sonnet-5 
 source: webuddhist
-alt_titles: 
+alt_titles: Oral Instructions of Manjughosha Guru
 ---
 # Entering the Way of the Bodhisattva (One Who Works to Free All Beings) ^0
 
@@ -1872,4 +1872,3 @@ This text was first translated and established in Tibetan, based on a manuscript
 Later, it was revised and re-translated to match a manuscript and commentary from central India by the Indian teacher Dharmashribhadra together with the chief editors and translators Bandé Rinchen Zangpo and Shakya Lodrö. ^b-2
 
 And later still, it was corrected, revised, and re-translated, and so given its finest, most polished form, by the Indian teacher Sumatikirti together with the chief editor and translator, the monk Loden Sherab. ^b-3
-     

@@ -1,15 +1,15 @@
 ---
 file_type: translation
 root_text: 1-SOURCES\Translations\bo-བློ་ལྡན་ཤེས་རབ།.md
-title: Entering the Way of the Bodhisattva
+title: The way of the bodhisattva - scholar version
 lang_tag: en
 category_id: JD5ULLPAV1cxg7RSb7L3q
 license: public
-translator:
+translator: Claude sonnet-5 
 source: webuddhist
-alt_titles:
+alt_titles: Oral Instructions of Manjughosha Guru
 ---
-# Entering the Way of the Bodhisattva [bodhisattva (Skt. bodhisattva)] ^0
+# Entering the Way of the Bodhisattva ^0
 
 # 0. Introduction ^I-0
 

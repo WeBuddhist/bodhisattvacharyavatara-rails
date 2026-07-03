@@ -1,13 +1,13 @@
 ---
 file_type: translation
 root_text: 1-SOURCES\Translations\bo-བློ་ལྡན་ཤེས་རབ།.md
-title: Entering the Way of the Bodhisattva
+title: The way of the bodhisattva - plain English version
 lang_tag: en
 category_id: JD5ULLPAV1cxg7RSb7L3q
 license: public
-translator:
+translator: Claude sonnet-5 
 source: webuddhist
-alt_titles:
+alt_titles:Nectar Drops — Spoken Teachings of Manjughosha, the Spiritual Teacher
 ---
 # Entering the Way of the Bodhisattva ^0
 

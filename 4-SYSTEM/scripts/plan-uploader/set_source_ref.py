@@ -48,11 +48,13 @@ def parse_segments(spec: str) -> list[str]:
 
 def make_subtask_fields(edition: str, segments: list[str], single: bool,
                         edition_as_source_text: bool) -> list[dict]:
+    # The edition rides in source_text_id on every sub-task; the preset
+    # link is attempted as well but tolerated if the endpoint fails.
     base = {
         "content_type": "SOURCE_REFERENCE",
         "content": "",
         "duration": None,
-        "source_text_id": edition if edition_as_source_text else None,
+        "source_text_id": edition,
         "pecha_segment_id": None,
         "segment_ids": None,
         "start_ms": None,
@@ -160,26 +162,30 @@ def main():
     sub_ids = [s.get("id") for s in subs]
     print(f"Created {len(sub_ids)} sub-task(s): {sub_ids}")
 
-    # 3. link the edition as a preset on each sub-task
+    # 3. link the edition as a preset on each sub-task (best-effort:
+    #    the endpoint 500s on some servers; source_text_id already
+    #    carries the edition, so failures here are not fatal)
     if not args.no_preset:
         for sid in sub_ids:
             r = client._call(
                 "POST", f"/cms/sub-tasks/{sid}/preset",
-                tolerate=(400, 404, 422),
+                tolerate=(400, 404, 422, 500),
                 json={"version_id": args.edition, "language": args.language},
             )
-            if r is not None:
-                print(f"  preset linked on {sid}")
+            print(f"  preset {'linked' if r is not None else 'FAILED (non-fatal)'}"
+                  f" on {sid}")
 
     # 4. restore task order (new/recreated task was appended to the end)
+    final_ids = [t["id"] for t in tasks]
     if old is not None:
-        final_ids = [new_task_id if t["id"] == old["id"] else t["id"]
-                     for t in tasks]
-    else:
-        final_ids = [t["id"] for t in tasks]
-        final_ids.insert(target_idx, new_task_id)
+        final_ids.remove(old["id"])
+    pos = (args.position - 1) if args.position else (
+        target_idx if old is not None else len(final_ids))
+    pos = max(0, min(pos, len(final_ids)))
+    final_ids.insert(pos, new_task_id)
+    target_idx = pos
     client.reorder_tasks(day["id"], final_ids)
-    print("Task order restored.")
+    print(f"Task order restored (task placed at position {pos + 1}).")
 
     # 5. verify
     plan = client.get_plan(args.plan_id)

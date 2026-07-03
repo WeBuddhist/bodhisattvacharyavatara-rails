@@ -7,7 +7,7 @@ category_id: JD5ULLPAV1cxg7RSb7L3q
 license: public
 translator: Rails[op:Xz6QQW6yYdR111UgnnxJk] 
 source: webuddhist
-alt_titles: Oral Instructions of Manjughosha Guru
+alt_titles: Drops of Nectar from the Oral Transmission of the Mañjughoṣa Guru.
 ---
 # Entering the Way of the Bodhisattva ^0
 

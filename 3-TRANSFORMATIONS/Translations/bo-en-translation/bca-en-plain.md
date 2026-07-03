@@ -7,7 +7,7 @@ category_id: JD5ULLPAV1cxg7RSb7L3q
 license: public
 translator: Rails[op:Xz6QQW6yYdR111UgnnxJk] 
 source: webuddhist
-alt_titles:Nectar Drops — Spoken Teachings of Manjughosha, the Spiritual Teacher
+alt_titles: Drops of Nectar from the Wisdom Teacher's Oral Instructions
 ---
 # Entering the Way of the Bodhisattva ^0
 

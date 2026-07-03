@@ -1,3 +1,14 @@
+---
+file_type: translation
+root_text: 1-SOURCES\Translations\bo-བློ་ལྡན་ཤེས་རབ།.md
+title: Entering the Way of the Bodhisattva
+lang_tag: en
+category_id: JD5ULLPAV1cxg7RSb7L3q
+license: public
+translator:
+source: webuddhist
+alt_titles:
+---
 ## Entering the Way of the Bodhisattva [bodhisattva (Skt. bodhisattva)] ^I-0
 
 In Sanskrit: Bodhisatvacarya avatāra ^I-1

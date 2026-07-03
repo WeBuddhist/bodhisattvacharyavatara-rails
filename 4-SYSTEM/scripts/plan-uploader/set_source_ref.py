@@ -76,6 +76,12 @@ def main():
     ap.add_argument("--day", type=int, required=True)
     ap.add_argument("--task", required=True,
                     help="1-based task position in the day, or exact title")
+    ap.add_argument("--create", action="store_true",
+                    help="If the task doesn't exist, create it (requires "
+                         "--task to be a title, not a position)")
+    ap.add_argument("--position", type=int, default=None,
+                    help="1-based position for a newly created task "
+                         "(default: append at the end)")
     ap.add_argument("--edition", required=True, help="WeBuddhist edition ID")
     ap.add_argument("--segments", required=True, help='e.g. "1-3" or "1,2,3"')
     ap.add_argument("--language", default="BO")
@@ -106,30 +112,44 @@ def main():
 
     # locate target task by index or title
     target_idx = None
+    old = None
     if args.task.isdigit():
         idx = int(args.task) - 1
         if not 0 <= idx < len(tasks):
-            sys.exit(f"Day has {len(tasks)} tasks; no position {args.task}.")
+            sys.exit(f"Day has {len(tasks)} tasks; no position {args.task}. "
+                     "(To create a new task, pass --create with a title.)")
         target_idx = idx
     else:
         for i, t in enumerate(tasks):
             if _titles_equal(t.get("title") or "", args.task):
                 target_idx = i
                 break
-        if target_idx is None:
-            sys.exit(f"No task titled '{args.task}' in day {args.day}.")
+        if target_idx is None and not args.create:
+            sys.exit(f"No task titled '{args.task}' in day {args.day} "
+                     "(pass --create to create it).")
 
-    old = tasks[target_idx]
-    title = old.get("title") or args.task
-    print(f"Target: day {args.day}, task {target_idx + 1} '{title}'")
-    print(f"Replacing with {'1 combined' if args.single else len(segments)} "
-          f"SOURCE_REFERENCE sub-task(s): edition={args.edition}, "
-          f"segments={','.join(segments)}")
-
-    # 1. delete old task, recreate with same title
-    client.delete_task(old["id"])
-    new_task_id = client.create_task(args.plan_id, day["id"], title)
-    print(f"Recreated task (TASK_ID={new_task_id})")
+    n_subs_desc = "1 combined" if args.single else str(len(segments))
+    if target_idx is not None:
+        old = tasks[target_idx]
+        title = old.get("title") or args.task
+        print(f"Target: day {args.day}, task {target_idx + 1} '{title}' "
+              f"(replace)")
+        print(f"Replacing with {n_subs_desc} SOURCE_REFERENCE sub-task(s): "
+              f"edition={args.edition}, segments={','.join(segments)}")
+        client.delete_task(old["id"])
+        new_task_id = client.create_task(args.plan_id, day["id"], title)
+        print(f"Recreated task (TASK_ID={new_task_id})")
+    else:
+        title = args.task
+        target_idx = (args.position - 1 if args.position
+                      else len(tasks))
+        target_idx = max(0, min(target_idx, len(tasks)))
+        print(f"Target: day {args.day}, NEW task '{title}' at position "
+              f"{target_idx + 1}")
+        print(f"Creating with {n_subs_desc} SOURCE_REFERENCE sub-task(s): "
+              f"edition={args.edition}, segments={','.join(segments)}")
+        new_task_id = client.create_task(args.plan_id, day["id"], title)
+        print(f"Created task (TASK_ID={new_task_id})")
 
     # 2. create SOURCE_REFERENCE sub-tasks
     fields = make_subtask_fields(args.edition, segments, args.single,
@@ -151,9 +171,13 @@ def main():
             if r is not None:
                 print(f"  preset linked on {sid}")
 
-    # 4. restore task order (recreated task appended to end)
-    final_ids = [new_task_id if t["id"] == old["id"] else t["id"]
-                 for t in tasks]
+    # 4. restore task order (new/recreated task was appended to the end)
+    if old is not None:
+        final_ids = [new_task_id if t["id"] == old["id"] else t["id"]
+                     for t in tasks]
+    else:
+        final_ids = [t["id"] for t in tasks]
+        final_ids.insert(target_idx, new_task_id)
     client.reorder_tasks(day["id"], final_ids)
     print("Task order restored.")
 

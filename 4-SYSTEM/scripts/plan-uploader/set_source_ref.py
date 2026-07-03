@@ -1,35 +1,29 @@
 #!/usr/bin/env python3
-"""Replace a task's sub-tasks with SOURCE_REFERENCE sub-tasks pointing at a
-WeBuddhist edition (Pecha text) by edition ID and segment numbers.
+"""Give a task SOURCE_REFERENCE sub-tasks pointing at a WeBuddhist edition
+(Pecha text) by edition ID and segment numbers.
 
-Recreates the task (the CMS has no delete-sub-task endpoint), adds one
-SOURCE_REFERENCE sub-task per segment, links the edition to each sub-task
-as a preset, and restores the task's position in the day.
+Resolves the edition's real segment IDs from the public WeBuddhist API
+(segment numbers -> segment IDs), then creates the sub-tasks, trying the
+known field mappings until the CMS accepts one.
 
 Usage
 -----
-python set_source_ref.py --plan-id <PLAN_ID> --day 1 --task 3 \
+python set_source_ref.py --plan-id <PLAN_ID> --day 1 \
+    --task "TITLE" --create --position 3 \
     --edition 3rCvwAoWrzKGlIQdtLjCu --segments 1-3
-
-Options:
-  --task         1-based task position in the day (or exact task title)
-  --segments     "1-3" or "1,2,3"
-  --language     preset language (default BO)
-  --single       one sub-task carrying all segments in segment_ids,
-                 instead of one sub-task per segment (default: per-segment)
-  --edition-as-source-text
-                 put the edition ID in source_text_id instead of the preset
-  --no-preset    skip the preset call
 
 Credentials: same plan_uploader.env as upload_plan.py.
 """
 
 import argparse
+import json
 import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 from upload_plan import BASE_URL, CmsClient, load_config, _sorted_tasks, _titles_equal
+
+PUBLIC_BASE = "https://api.webuddhist.com/api/v1"
 
 
 def parse_segments(spec: str) -> list[str]:
@@ -46,30 +40,134 @@ def parse_segments(spec: str) -> list[str]:
     return segs
 
 
-def make_subtask_fields(edition: str, segments: list[str], single: bool,
-                        edition_as_source_text: bool) -> list[dict]:
-    # The edition rides in source_text_id on every sub-task; the preset
-    # link is attempted as well but tolerated if the endpoint fails.
+# ---------------------------------------------------------------------------
+# Segment resolution against the public Pecha API
+# ---------------------------------------------------------------------------
+
+
+def _get_json(requests, url, params=None):
+    try:
+        r = requests.get(url, params=params or {}, timeout=30)
+        print(f"  GET {r.url} -> {r.status_code}")
+        if r.status_code == 200 and r.text:
+            return r.json()
+    except Exception as e:
+        print(f"  GET {url} failed: {e}")
+    return None
+
+
+def _walk(node, found: dict):
+    """Recursively collect {segment_number: segment_id} pairs."""
+    if isinstance(node, dict):
+        num = node.get("segment_number", node.get("number"))
+        sid = node.get("segment_id") or node.get("id")
+        if num is not None and sid and str(num).isdigit():
+            found.setdefault(str(num), str(sid))
+        for v in node.values():
+            _walk(v, found)
+    elif isinstance(node, list):
+        for v in node:
+            _walk(v, found)
+
+
+def resolve_segments(requests, edition: str, numbers: list[str]) -> dict:
+    """Return {number: segment_id}. Prints its trail for debugging."""
+    print(f"Resolving segments {numbers} of edition {edition} "
+          f"via {PUBLIC_BASE} ...")
+    found: dict = {}
+    candidates = [
+        (f"{PUBLIC_BASE}/texts/versions/{edition}/info", None),
+        (f"{PUBLIC_BASE}/texts/{edition}/contents", {"limit": 100}),
+    ]
+    text_id = None
+    for url, params in candidates:
+        data = _get_json(requests, url, params)
+        if data is None:
+            continue
+        _walk(data, found)
+        if isinstance(data, dict):
+            text_id = text_id or data.get("text_id") or (
+                (data.get("text") or {}).get("id")
+                if isinstance(data.get("text"), dict) else None)
+        if all(n in found for n in numbers):
+            break
+    if text_id and not all(n in found for n in numbers):
+        data = _get_json(requests,
+                         f"{PUBLIC_BASE}/texts/{text_id}/contents",
+                         {"version_id": edition, "limit": 100})
+        if data is not None:
+            _walk(data, found)
+
+    hits = {n: found[n] for n in numbers if n in found}
+    if hits:
+        print(f"  resolved: {hits}")
+    else:
+        print("  no segment IDs resolved (will fall back to raw numbers)")
+    return hits
+
+
+# ---------------------------------------------------------------------------
+# Sub-task creation variants
+# ---------------------------------------------------------------------------
+
+
+def _st(content_type="SOURCE_REFERENCE", **over):
     base = {
-        "content_type": "SOURCE_REFERENCE",
+        "content_type": content_type,
         "content": "",
         "duration": None,
-        "source_text_id": edition,
+        "source_text_id": None,
         "pecha_segment_id": None,
         "segment_ids": None,
         "start_ms": None,
         "end_ms": None,
     }
-    if single:
-        st = dict(base)
-        st["segment_ids"] = segments
-        return [st]
-    out = []
-    for seg in segments:
-        st = dict(base)
-        st["pecha_segment_id"] = seg
-        out.append(st)
-    return out
+    base.update(over)
+    return base
+
+
+def build_variants(edition: str, numbers: list[str], resolved: dict) -> list:
+    """Ordered list of (name, sub_tasks_payload) to try against the CMS."""
+    variants = []
+    if resolved and all(n in resolved for n in numbers):
+        ids = [resolved[n] for n in numbers]
+        variants += [
+            ("per-segment: pecha_segment_id=<uuid>, source_text_id=<edition>",
+             [_st(pecha_segment_id=i, source_text_id=edition) for i in ids]),
+            ("per-segment: pecha_segment_id=<uuid>",
+             [_st(pecha_segment_id=i) for i in ids]),
+            ("single: segment_ids=<uuids>, source_text_id=<edition>",
+             [_st(segment_ids=ids, source_text_id=edition)]),
+            ("single: segment_ids=<uuids>",
+             [_st(segment_ids=ids)]),
+        ]
+    variants += [
+        ("per-segment: pecha_segment_id=<number>, source_text_id=<edition>",
+         [_st(pecha_segment_id=n, source_text_id=edition) for n in numbers]),
+        ("per-segment: pecha_segment_id=<number>",
+         [_st(pecha_segment_id=n) for n in numbers]),
+    ]
+    return variants
+
+
+def create_subtasks(client, task_id: str, variants: list) -> list:
+    for name, fields in variants:
+        data = client._call("POST", "/cms/sub-tasks",
+                            tolerate=(400, 422, 500),
+                            json={"task_id": task_id, "sub_tasks": fields})
+        if data is not None:
+            subs = data.get("sub_tasks") or data.get("subtasks") or []
+            if subs:
+                print(f"Accepted variant: {name}")
+                return subs
+        print(f"Rejected variant: {name}")
+    sys.exit("The CMS rejected every sub-task variant — paste this output "
+             "back so the field mapping can be corrected.")
+
+
+# ---------------------------------------------------------------------------
+# Main
+# ---------------------------------------------------------------------------
 
 
 def main():
@@ -82,19 +180,17 @@ def main():
                     help="If the task doesn't exist, create it (requires "
                          "--task to be a title, not a position)")
     ap.add_argument("--position", type=int, default=None,
-                    help="1-based position for a newly created task "
-                         "(default: append at the end)")
+                    help="1-based position for the task (default: keep "
+                         "current position, or append when creating)")
     ap.add_argument("--edition", required=True, help="WeBuddhist edition ID")
     ap.add_argument("--segments", required=True, help='e.g. "1-3" or "1,2,3"')
     ap.add_argument("--language", default="BO")
-    ap.add_argument("--single", action="store_true")
-    ap.add_argument("--edition-as-source-text", action="store_true")
     ap.add_argument("--no-preset", action="store_true")
     ap.add_argument("--env", type=Path,
                     default=Path(__file__).with_name("plan_uploader.env"))
     args = ap.parse_args()
 
-    segments = parse_segments(args.segments)
+    numbers = parse_segments(args.segments)
 
     cfg = load_config(args.env)
     base_url = cfg.get("WEBUDDHIST_BASE_URL") or BASE_URL
@@ -104,6 +200,8 @@ def main():
         client.use_token(cfg["WEBUDDHIST_ACCESS_TOKEN"])
     else:
         client.login(cfg["WEBUDDHIST_EMAIL"], cfg["WEBUDDHIST_PASSWORD"])
+
+    resolved = resolve_segments(client.requests, args.edition, numbers)
 
     plan = client.get_plan(args.plan_id)
     day = next((d for d in plan.get("days") or []
@@ -130,41 +228,27 @@ def main():
             sys.exit(f"No task titled '{args.task}' in day {args.day} "
                      "(pass --create to create it).")
 
-    n_subs_desc = "1 combined" if args.single else str(len(segments))
     if target_idx is not None:
         old = tasks[target_idx]
         title = old.get("title") or args.task
         print(f"Target: day {args.day}, task {target_idx + 1} '{title}' "
               f"(replace)")
-        print(f"Replacing with {n_subs_desc} SOURCE_REFERENCE sub-task(s): "
-              f"edition={args.edition}, segments={','.join(segments)}")
         client.delete_task(old["id"])
         new_task_id = client.create_task(args.plan_id, day["id"], title)
         print(f"Recreated task (TASK_ID={new_task_id})")
     else:
         title = args.task
-        target_idx = (args.position - 1 if args.position
-                      else len(tasks))
-        target_idx = max(0, min(target_idx, len(tasks)))
-        print(f"Target: day {args.day}, NEW task '{title}' at position "
-              f"{target_idx + 1}")
-        print(f"Creating with {n_subs_desc} SOURCE_REFERENCE sub-task(s): "
-              f"edition={args.edition}, segments={','.join(segments)}")
+        print(f"Target: day {args.day}, NEW task '{title}'")
         new_task_id = client.create_task(args.plan_id, day["id"], title)
         print(f"Created task (TASK_ID={new_task_id})")
 
-    # 2. create SOURCE_REFERENCE sub-tasks
-    fields = make_subtask_fields(args.edition, segments, args.single,
-                                 args.edition_as_source_text)
-    data = client._call("POST", "/cms/sub-tasks",
-                        json={"task_id": new_task_id, "sub_tasks": fields})
-    subs = (data or {}).get("sub_tasks") or (data or {}).get("subtasks") or []
+    # create SOURCE_REFERENCE sub-tasks, trying field mappings in order
+    variants = build_variants(args.edition, numbers, resolved)
+    subs = create_subtasks(client, new_task_id, variants)
     sub_ids = [s.get("id") for s in subs]
     print(f"Created {len(sub_ids)} sub-task(s): {sub_ids}")
 
-    # 3. link the edition as a preset on each sub-task (best-effort:
-    #    the endpoint 500s on some servers; source_text_id already
-    #    carries the edition, so failures here are not fatal)
+    # best-effort preset link (endpoint 500s on some servers)
     if not args.no_preset:
         for sid in sub_ids:
             r = client._call(
@@ -175,7 +259,7 @@ def main():
             print(f"  preset {'linked' if r is not None else 'FAILED (non-fatal)'}"
                   f" on {sid}")
 
-    # 4. restore task order (new/recreated task was appended to the end)
+    # restore task order (new/recreated task was appended to the end)
     final_ids = [t["id"] for t in tasks]
     if old is not None:
         final_ids.remove(old["id"])
@@ -183,31 +267,28 @@ def main():
         target_idx if old is not None else len(final_ids))
     pos = max(0, min(pos, len(final_ids)))
     final_ids.insert(pos, new_task_id)
-    target_idx = pos
     client.reorder_tasks(day["id"], final_ids)
     print(f"Task order restored (task placed at position {pos + 1}).")
 
-    # 5. verify
+    # verify
     plan = client.get_plan(args.plan_id)
     day = next(d for d in plan.get("days") or []
                if d.get("day_number") == args.day)
     tasks = _sorted_tasks(day)
-    t = tasks[target_idx]
+    t = tasks[pos]
     subs = t.get("sub_tasks") or t.get("subtasks") or []
-    print(f"\nVerification: task {target_idx + 1} '{t.get('title')}' "
+    print(f"\nVerification: task {pos + 1} '{t.get('title')}' "
           f"now has {len(subs)} sub-task(s):")
-    ok = True
     for s in subs:
-        ct = s.get("content_type")
-        print(f"  [{ct}] source_text_id={s.get('source_text_id')} "
+        print(f"  [{s.get('content_type')}] "
+              f"source_text_id={s.get('source_text_id')} "
               f"pecha_segment_id={s.get('pecha_segment_id')} "
               f"segment_ids={s.get('segment_ids')}")
-        ok = ok and ct == "SOURCE_REFERENCE"
-    expected = 1 if args.single else len(segments)
-    if ok and len(subs) == expected:
+    if subs and all(s.get("content_type") == "SOURCE_REFERENCE" for s in subs):
         print("\nVerification passed.")
     else:
-        sys.exit("\nVerification FAILED — inspect output above.")
+        sys.exit("\nVerification FAILED — no SOURCE_REFERENCE sub-tasks "
+                 "visible. Paste this full output back.")
 
 
 if __name__ == "__main__":

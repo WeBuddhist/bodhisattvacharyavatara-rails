@@ -1,7 +1,7 @@
 ---
 file_type: translation
 root_text: 1-SOURCES\Translations\bo-བློ་ལྡན་ཤེས་རབ།.md
-title: बोधिसत्व के मार्ग में प्रवेश।
+title: बोधिचर्यावता - बाल संस्करण
 lang_tag: hi
 category_id: JD5ULLPAV1cxg7RSb7L3q
 license: public
@@ -15,7 +15,7 @@ alt_titles:
 
 संस्कृत में: बोधिसत्वचर्यावतार ^I-1
 
-तिब्बती में: Byang chub sems dpa'i spyod pa la 'jug pa ^I-2
+तिब्बती भाषा में: बोधिसत्त्वचर्यावतार" (बोधिसत्त्व के आचरण में प्रवेश) ^I-2
 
 मैं सभी बुद्धों और बोधिसत्वों को प्रणाम करता हूँ। ^I-3
 

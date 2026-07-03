@@ -1,14 +1,13 @@
 ---
-title: बोधिचर्यावतारः
-translator: Sarvajñādeva; Bande Paltsek; Dharmaśrībhadra; Rinchen Zangpo; Śākya-blo-gros; Sumatikīrti; Blo ldan shes rab
-language: Hindi
 file_type: translation
+root_text: 1-SOURCES\Translations\bo-བློ་ལྡན་ཤེས་རབ།.md
+title: बोधिचर्यावता
 lang_tag: hi
-audience: advanced
-verse_id_format: chapter-verse
-source: 1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md
-termbase: 4-SYSTEM/scripts/english_keyword/output/bo_hi_keyword_advanced.json
-status: draft
+category_id: JD5ULLPAV1cxg7RSb7L3q
+license: public
+translator:
+source: webuddhist
+alt_titles:
 ---
 
 # बोधिचर्यावतारः ^0

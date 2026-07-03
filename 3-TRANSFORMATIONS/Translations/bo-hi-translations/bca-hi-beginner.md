@@ -1,4 +1,17 @@
-## बोधिसत्व के मार्ग में प्रवेश। 0. भूमिका ^I-0
+---
+file_type: translation
+root_text: 1-SOURCES\Translations\bo-བློ་ལྡན་ཤེས་རབ།.md
+title: बोधिसत्व के मार्ग में प्रवेश।
+lang_tag: hi
+category_id: JD5ULLPAV1cxg7RSb7L3q
+license: public
+translator:
+source: webuddhist
+alt_titles:
+---
+# बोधिसत्व के मार्ग में प्रवेश। ^0
+
+## 0. भूमिका ^I-0
 
 संस्कृत में: बोधिसत्वचर्यावतार ^I-1
 

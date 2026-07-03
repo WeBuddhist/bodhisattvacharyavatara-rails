@@ -1,0 +1,23 @@
+{
+  "title": {
+    "sa-x-iast": "bodhisattvacaryāvatāra"
+  },
+  "alt_titles": [
+    {
+      "sa-x-iast": "Bodhi(sattva)caryāvatāra"
+    },
+    {
+      "sa-x-iast": "bodhicaryāvatāra"
+    }
+  ],
+  "language": "sa",
+  "category_id": "JD5ULLPAV1cxg7RSb7L3q",
+  "license": "public",
+  "contributions": [
+    {
+      "type": "person",
+      "role": "author",
+      "bdrc_id": "P6161"
+    }
+  ]
+}

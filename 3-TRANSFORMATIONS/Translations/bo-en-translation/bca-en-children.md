@@ -5,7 +5,7 @@ title: The way of the bodhisattva - children version
 lang_tag: en
 category_id: JD5ULLPAV1cxg7RSb7L3q
 license: public
-translator: Claude sonnet-5 
+translator: Rails[op:Xz6QQW6yYdR111UgnnxJk] 
 source: webuddhist
 alt_titles: Oral Instructions of Manjughosha Guru
 ---

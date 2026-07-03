@@ -5,7 +5,7 @@ title: The way of the bodhisattva - plain English version
 lang_tag: en
 category_id: JD5ULLPAV1cxg7RSb7L3q
 license: public
-translator: Claude sonnet-5 
+translator: Rails[op:Xz6QQW6yYdR111UgnnxJk] 
 source: webuddhist
 alt_titles:Nectar Drops — Spoken Teachings of Manjughosha, the Spiritual Teacher
 ---

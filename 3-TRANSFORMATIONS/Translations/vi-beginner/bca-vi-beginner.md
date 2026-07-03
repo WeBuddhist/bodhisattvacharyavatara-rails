@@ -1,22 +1,12 @@
----
-ref: full
-title: "Nhập Bồ Tát Hạnh — Toàn văn (Tiếng Việt — Trình độ mới bắt đầu)"
-transformation_type: translation
-track: vi-beginner-audience
-context_packages:
-  - 1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md (^1-0–^10-a)
-  - 1-SOURCES/Text/BCAV08_SH_sk.md (^1-0–^10-a)
-generation_date: 2026-07-02
-status: draft
----
+## Nhập Bồ Tát Hạnh — Phần Mở Đầu ^I-0
 
-# Nhập Bồ Tát Hạnh (A Guide to the Bodhisattva's Way of Life)
-### Bản dịch tiếng Việt — Trình độ phổ thông / mới bắt đầu (Beginner)
-*Bản dịch trực tiếp (zero-shot) từ nguyên bản Tạng ngữ của dịch giả Blo ldan shes rab, đối chiếu với nguyên bản Phạn ngữ của Tịch Thiên (Śāntideva)*
+Tên bằng tiếng Phạn: Bodhisattvacaryāvatāra (Nhập Bồ Tát Hạnh) ^I-1
 
----
+Tên bằng tiếng Tạng: Byang chub sems dpa'i spyod pa la 'jug pa (Nhập Bồ Tát Hạnh) ^I-2
 
-## Chương 1: Lợi Ích Của Tâm Bồ Đề
+Con xin đảnh lễ tất cả chư Phật và chư Bồ Tát. ^I-3
+
+## 1. Lợi Ích Của Tâm Bồ Đề ^1-0
 
 Con xin cúi đầu kính lễ Đức Phật — bậc đã hoàn toàn giác ngộ — và các vị Bồ Tát, là những người phát nguyện tu tập để cứu giúp mọi chúng sinh. Con cũng kính lễ tất cả những bậc đáng tôn kính khác. Sau đây, con sẽ kể lại ngắn gọn, theo đúng lời Phật dạy, về cách một người bắt đầu con đường trở thành Bồ Tát. ^1-1
 
@@ -90,9 +80,7 @@ Ngược lại, nếu ai đó có lòng tin yêu, quý mến các vị Bồ Tát
 
 Con xin cúi đầu trước những vị đã có được tâm Bồ đề quý giá trong lòng. Con xin nương tựa nơi các Ngài — là nguồn của mọi niềm an lạc — vì ngay cả khi ai đó làm hại các Ngài, điều tốt vẫn sẽ đến với người ấy. ^1-36
 
-*Thus ends Chapter 1: "Lợi Ích Của Tâm Bồ Đề" (bản dịch tiếng Việt trình độ phổ thông, dịch trực tiếp từ nguyên bản Tạng ngữ, đối chiếu Phạn ngữ; chưa qua các bước rà soát chất lượng — status: draft).*
-
-## Chương 2: Sám Hối Điều Xấu
+## Đây là hết chương thứ nhất, “Lợi Ích Của Tâm Bồ Đề”, trích từ Nhập Bồ Tát Hạnh. 2. Sám Hối Điều Xấu ^2-0
 
 Để giữ được tâm Bồ đề quý giá ấy trong lòng, con xin dâng lễ vật lên Đức Phật, lên lời Phật dạy trong sáng, và lên các vị Bồ Tát. ^2-1
 
@@ -224,9 +212,7 @@ trước Đức Phật, con xin chắp hai tay lại, với lòng sợ hãi vì 
 
 Con xin Đức Phật, với lòng từ bi, hãy chứng giám cho những lỗi lầm của con. Vì đây không phải là điều tốt, con hứa từ nay sẽ không làm như vậy nữa. ^2-65
 
-*Thus ends Chapter 2: "Sám Hối Điều Xấu" (bản dịch tiếng Việt trình độ phổ thông, dịch trực tiếp từ nguyên bản Tạng ngữ, đối chiếu Phạn ngữ; chưa qua các bước rà soát chất lượng — status: draft).*
-
-## Chương 3: Giữ Trọn Tâm Bồ Đề
+## Đây là hết chương thứ hai, “Sám Hối Điều Xấu”, trích từ Nhập Bồ Tát Hạnh. 3. Giữ Trọn Tâm Bồ Đề ^3-0
 
 Con vui mừng khi thấy có việc tốt giúp chúng sinh đang khổ được nghỉ ngơi, và khi thấy những người từng khổ đau nay được sống an vui. ^3-1
 
@@ -294,9 +280,9 @@ Với những ai đang trên hành trình dài của cuộc đời, mong muốn 
 
 Hôm nay, trước sự chứng kiến của tất cả chư Phật, con xin mời tất cả chúng sinh làm khách quý của mình, để họ được vui vẻ ngay bây giờ và cuối cùng đạt được giác ngộ hoàn toàn; con mong tất cả đều được hoan hỷ, vui vẻ. ^3-33
 
-*Thus ends Chapter 3: "Giữ Trọn Tâm Bồ Đề" (bản dịch tiếng Việt trình độ phổ thông, dịch trực tiếp từ nguyên bản Tạng ngữ, đối chiếu Phạn ngữ; chưa qua các bước rà soát chất lượng — status: draft).*
+Hôm nay, trước sự chứng kiến của tất cả các đấng bảo hộ, con mời tất cả chúng sinh làm khách quý của con, được hưởng an vui cho đến khi đạt được quả vị Phật. Chư thiên, A-tu-la, và tất cả mọi người, hãy cùng hoan hỷ! ^3-34
 
-## Chương 4: Sống Cẩn Trọng, Không Lơ Là
+## Đây là hết chương thứ ba, “Giữ Trọn Tâm Bồ Đề”, trích từ Nhập Bồ Tát Hạnh. 4. Sống Cẩn Trọng, Không Lơ Là ^4-0
 
 Sau khi đã có tâm Bồ đề vững vàng, một người con của Phật nên luôn cố gắng, không lơ là, không bao giờ làm trái với điều mình đã hứa. ^4-1
 
@@ -394,9 +380,7 @@ Những cảm xúc xấu này thật ra không tồn tại ở một nơi cụ t
 
 Sau khi đã suy nghĩ kỹ như vừa nói ở trên, con nguyện cố gắng thực hành trọn vẹn những điều mình đã học; nếu không nghe lời bác sĩ dặn, thì làm sao người bệnh có thể khỏi bệnh được? ^4-48
 
-*Thus ends Chapter 4: "Sống Cẩn Trọng, Không Lơ Là" (bản dịch tiếng Việt trình độ phổ thông, dịch trực tiếp từ nguyên bản Tạng ngữ, đối chiếu Phạn ngữ; chưa qua các bước rà soát chất lượng — status: draft).*
-
-## Chương 5: Luôn Tỉnh Táo Với Tâm Mình
+## Đây là hết chương thứ tư, “Sống Cẩn Trọng, Không Lơ Là”, trích từ Nhập Bồ Tát Hạnh. 5. Luôn Tỉnh Táo Với Tâm Mình ^5-0
 
 Ai muốn giữ được những điều tốt mình đã học, nên cố gắng hết sức để kiểm soát tâm mình; nếu không kiểm soát được tâm, thì không thể nào giữ được những điều tốt ấy. ^5-1
 
@@ -616,9 +600,7 @@ Việc xem xét đi xem xét lại nhiều lần trạng thái của thân và t
 
 Những điều này cần được thực hành bằng chính hành động của mình, không phải chỉ nói suông; giống như chỉ đọc sách thuốc thôi thì không thể chữa lành cho người bệnh được. ^5-109
 
-*Thus ends Chapter 5: "Luôn Tỉnh Táo Với Tâm Mình" (bản dịch tiếng Việt trình độ phổ thông, dịch trực tiếp từ nguyên bản Tạng ngữ, đối chiếu Phạn ngữ; chưa qua các bước rà soát chất lượng — status: draft).*
-
-## Chương 6: Nhẫn Nhục
+## Đây là hết chương thứ năm, “Luôn Tỉnh Táo Với Tâm Mình”, trích từ Nhập Bồ Tát Hạnh. 6. Nhẫn Nhục ^6-0
 
 Bao nhiêu điều tốt mình tích lũy được qua hàng ngàn kiếp sống — như cho tặng người khác, cúng dường chư Phật — chỉ cần một cơn giận thôi cũng đủ phá sạch hết. ^6-1
 
@@ -888,9 +870,7 @@ Ngay cả một vị vua hài lòng cũng không thể ban cho mình điều mà
 
 Nhờ tập nhẫn nhục, khi còn trong vòng luân hồi, mình sẽ có được vẻ đẹp và những điều tốt khác, không bệnh tật, có danh tiếng tốt, sống lâu, và đạt được hạnh phúc lớn lao. ^6-134
 
-*Thus ends Chapter 6: "Nhẫn Nhục" (bản dịch tiếng Việt trình độ phổ thông, dịch trực tiếp từ nguyên bản Tạng ngữ, đối chiếu Phạn ngữ; chưa qua các bước rà soát chất lượng — status: draft).*
-
-## Chương 7: Tinh Tấn
+## Đây là hết chương thứ sáu, “Nhẫn Nhục”, trích từ Nhập Bồ Tát Hạnh. 7. Tinh Tấn ^7-0
 
 Sau khi đã tập được hạnh nhẫn nhục, mình nên bắt đầu tập tinh tấn (nghĩa là sự siêng năng, cố gắng không ngừng); vì giác ngộ chỉ đến từ sự siêng năng, giống như không có gió thì chẳng có gì chuyển động, không siêng năng thì việc tốt cũng chẳng thể nào có được. ^7-1
 
@@ -1042,9 +1022,11 @@ Trước khi bắt tay vào bất cứ việc gì, hãy nhớ lại lời dạy 
 
 Giống như những sợi bông nhẹ được gió thổi đưa đi rồi lại đưa về, cũng vậy, hãy để bản thân được dẫn dắt bởi niềm vui và lòng nhiệt thành; chỉ có như vậy, mọi việc mới có thể thành công trọn vẹn được. ^7-75
 
-*Thus ends Chapter 7: "Tinh Tấn" (bản dịch tiếng Việt trình độ phổ thông, dịch trực tiếp từ nguyên bản Tạng ngữ, đối chiếu Phạn ngữ; chưa qua các bước rà soát chất lượng — status: draft).*
+Trước khi làm bất cứ việc gì, để có đủ sức mạnh làm mọi việc, hãy nhớ lại những lời dạy về sự cẩn trọng, để tâm con được nhẹ nhàng và nhanh nhẹn. ^7-76
 
-## Chương 8: Thiền Định
+Giống như những sợi bông nhẹ bay theo chiều gió thổi qua thổi lại, mọi việc cũng được hoàn thành nhờ sự dẫn dắt của lòng hăng hái, tinh tấn. ^7-77
+
+## Đây là hết chương thứ bảy, “Tinh Tấn”, trích từ Nhập Bồ Tát Hạnh. 8. Thiền Định ^8-0
 
 Sau khi đã có được sự siêng năng, mình nên tập cho tâm an định lại (gọi là thiền định — tức là giữ tâm yên tĩnh, tập trung); vì tâm còn xao động thì sẽ luôn bị những cảm xúc xấu (phiền não) làm hại. ^8-1
 
@@ -1416,9 +1398,11 @@ Vì vậy, đừng nên hành xử như kẻ phàm phu nữa; hãy noi theo gư�
 
 Vì vậy, để xóa bỏ mọi chướng ngại, hãy đưa tâm mình trở lại từ con đường sai lầm, và luôn luôn an trú tâm một cách vững chắc trong đối tượng quán chiếu chân chính. ^8-185
 
-*Thus ends Chapter 8: "Thiền Định" (bản dịch tiếng Việt trình độ phổ thông, dịch trực tiếp từ nguyên bản Tạng ngữ, đối chiếu Phạn ngữ; chưa qua các bước rà soát chất lượng — status: draft).*
+Giống như các vị Bồ Tát đầy lòng từ bi, con nguyện có đủ nghị lực kiên trì. Nếu con không cố gắng cả ngày lẫn đêm, thì đến bao giờ nỗi khổ của con mới chấm dứt? ^8-186
 
-## Chương 9: Trí Tuệ
+Vì vậy, để xua tan những che chướng trong tâm, con sẽ hướng tâm mình rời xa những con đường sai lầm, và con nguyện luôn an trú vững vàng trong sự tập trung đúng đắn. ^8-187
+
+## Đây là hết chương thứ tám, “Thiền Định”, trích từ Nhập Bồ Tát Hạnh. 9. Trí Tuệ ^9-0
 
 Tất cả những phần tu tập đã nói ở các chương trước — bố thí, giữ giới, nhẫn nhục, tinh tấn, thiền định — đều được Đức Phật dạy vì mục đích cuối cùng là đạt được trí tuệ (sự hiểu biết đúng đắn về bản chất thật của mọi sự vật); vậy nên ai muốn hết khổ thì nên phát triển trí tuệ này. ^9-1
 
@@ -1580,183 +1564,7 @@ Xương sườn và tay cũng không phải là thân thể; nách và vai cũng
 
 Nếu cho rằng thân thể này hiện diện một phần nơi tất cả những bộ phận ấy, thì thực ra các phần chỉ hiện diện nơi các phần mà thôi — vậy thì bản thân "thân thể" ấy hiện diện ở đâu? ^9-80
 
-Nếu cho rằng cái "tôi" của toàn bộ thân thể lại hiện diện nơi tay và những bộ phận khác, thì có bao nhiêu bộ phận như tay chân, sẽ có bấy nhiêu "thân thể" riêng biệt như vậy. ^9-81
-
-Nếu không có "thân thể" tồn tại cả bên ngoài lẫn bên trong các bộ phận, thì làm sao thân thể lại có thể tồn tại nơi tay và những bộ phận khác được? Còn nếu ngoài tay và những bộ phận khác ra không có gì khác cả, thì làm sao nó có thể tồn tại được? ^9-82
-
-Vì vậy, do sự mê lầm mà ý nghĩ về "thân thể" phát sinh nơi những bộ phận vốn dĩ không phải là thân thể, chẳng khác nào do hình dạng đặc biệt của một đống đá xếp lại mà người ta lầm tưởng đó là một con người vậy. ^9-83
-
-Chừng nào các nhân duyên còn hội tụ đầy đủ, chừng đó thân thể vẫn còn xuất hiện giống như một con người thật; cũng vậy, chừng nào tay và những bộ phận khác còn tồn tại, chừng đó "thân thể" vẫn còn xuất hiện nơi chúng. ^9-84
-
-Cũng tương tự như vậy, vì bàn tay là một tập hợp của các ngón tay, nên câu hỏi "cái gì mới thật sự là bàn tay" cũng được đặt ra; và vì ngón tay cũng là một tập hợp của các đốt xương, nên các đốt xương ấy cũng có thể được chia thành từng phần riêng của chính chúng. ^9-85
-
-Từng phần ấy cũng có thể được chia thành các hạt cực nhỏ hơn nữa, và mỗi hạt cực nhỏ ấy cũng có thể được chia theo các phương hướng khác nhau của nó; sự chia theo phương hướng ấy cũng không còn thành phần nào nữa để chia — vì vậy, giống như khoảng không, ngay cả hạt cực nhỏ ấy cũng không thật sự tồn tại. ^9-86
-
-Vậy thì, người có trí tuệ quán xét, ai lại còn tham luyến vào một hình sắc chẳng khác gì một giấc mộng như vậy? Vì khi đã phân tích như thế thì thân thể vốn không hề tồn tại một cách cố định, vậy thì lúc đó ai là nam, ai là nữ đây? ^9-87
-
-Nếu khổ đau thật sự tồn tại một cách cố định, khách quan, thì tại sao nó lại không làm mất đi niềm vui tột cùng của người khác? Nếu niềm vui là có thật một cách cố định, thì tại sao những món ăn ngon và những thứ tương tự lại không mang đến niềm vui cho những kẻ đang sầu khổ, đau đớn? ^9-88
-
-Nếu nói rằng: "Vì bị một cảm giác mạnh hơn lấn át nên không cảm nhận được niềm vui" — xin hỏi lại rằng, cái gì đã không cảm nhận được điều đó, nếu bản chất của cảm giác ấy vốn không phải là thứ có thể cảm nhận được một cách cố định? ^9-89
-
-Có người nói: "Khổ đau nhỏ vẫn còn tồn tại ngay cả khi có niềm vui lớn, chỉ là phần rõ rệt của nó bị che lấp đi mà thôi." Nếu vậy thì cái gọi là "niềm vui" ấy chẳng qua chỉ là một dạng khác của chính khổ đau nhỏ ấy mà thôi. ^9-90
-
-Nếu nói rằng: "Khổ đau rõ rệt không sinh ra vì có một điều kiện đối nghịch với nó xuất hiện" — vậy thì chẳng phải điều đó đã chứng minh rằng ý nghĩ cho là "có cảm giác thật sự, cố định" chỉ là một sự chấp trước sai lầm hay sao? ^9-91
-
-Chính vì lý do đó, hãy tu tập phương pháp đối trị này — đó là sự quán xét, phân tích, và cả thiền định — thứ được sinh ra từ sự quán xét ấy — như là "món ăn" nuôi dưỡng người đang tu thiền vậy. ^9-92
-
-Có người hỏi: "Nếu giữa giác quan, đối tượng và nhận thức có một khoảng cách, thì chúng làm sao có thể gặp gỡ nhau được? Còn nếu không có khoảng cách nào cả, thì chúng đã là một thể duy nhất rồi — vậy thì cái gì gặp gỡ với cái gì được nữa?" ^9-93
-
-Hạt cực nhỏ này không thể xâm nhập vào hạt cực nhỏ khác, vì chúng có cùng kích thước, không có khoảng trống cho nhau; nếu không xâm nhập được vào nhau thì cũng không thể hòa lẫn vào nhau, và nếu không hòa lẫn vào nhau thì cũng không thể gặp gỡ nhau được. ^9-94
-
-Đối với cái không có thành phần, làm sao khái niệm "gặp gỡ" lại có thể áp dụng được một cách hợp lý? Nếu thấy có sự gặp gỡ xảy ra đối với cái không có thành phần, xin hãy chỉ ra điều đó. ^9-95
-
-Đối với tâm thức — vốn không có hình dạng vật chất — thì việc nói nó "gặp gỡ" với đối tượng là điều hoàn toàn không hợp lý; ngay cả sự tập hợp cũng không có thật, vì như đã phân tích ở trên, các thành phần tạo nên sự vật cũng không thật sự tồn tại. ^9-96
-
-Vậy nếu không hề có sự chạm vào nhau như vậy, thì cảm giác sẽ phát sinh từ đâu được? Vậy thì sự mệt nhọc phân tích này rốt cuộc là vì mục đích gì? Ai gây tổn hại cho ai đây? ^9-97
-
-Khi không có ai là chủ thể cảm giác, và bản thân cảm giác cũng không thật sự tồn tại, thì khi đã thấy rõ tình trạng như vậy rồi, tại sao lòng tham vẫn không chịu dừng lại, chấm dứt đi? ^9-98
-
-Cái được thấy hay được chạm vào cũng đều mang bản chất như ảo ảnh, như trong giấc mộng; vì chúng luôn sinh ra cùng lúc với tâm thức, nên chúng không thể được "thấy" bởi chính cảm giác ấy được. ^9-99
-
-Dù tâm thức có sinh ra trước hay sau đối tượng, sự nhớ lại vẫn có thể xảy ra, nhưng đó không phải là sự trải nghiệm trực tiếp; tự nó không thể tự trải nghiệm chính nó, và cũng không được người khác trải nghiệm giúp được. ^9-100
-
-Vì không hề có một chủ thể cảm giác nào cả, nên bản thân "cảm giác" ấy cũng không thật sự tồn tại; vậy thì đối với một tập hợp vốn không có "cái tôi" như thế này, làm sao nó có thể gây hại được cho ta? ^9-101
-
-Tâm thức không nằm ở các giác quan, cũng không nằm ở hình sắc và những đối tượng tương tự, cũng không nằm ở khoảng giữa hai thứ ấy; bên trong nó cũng không phải là tâm thức, bên ngoài cũng không phải, và cũng không thể tìm thấy nó ở bất cứ nơi nào khác nữa. ^9-102
-
-Cái gì không phải là thân thể, không phải là cái gì khác, không hòa lẫn với thân thể, cũng không tách rời hoàn toàn, không tồn tại ở bất cứ đâu dù chỉ một chút — chính vì vậy mà bản chất của chúng sinh vốn đã là sự an lạc hoàn toàn (Niết Bàn) rồi. ^9-103
-
-Nếu nhận thức đã có từ trước đối tượng nhận thức, vậy thì nó dựa vào đâu mà sinh ra được? Còn nếu nhận thức và đối tượng nhận thức sinh ra cùng lúc, thì nó cũng dựa vào đâu mà sinh ra được? ^9-104
-
-Còn nếu nhận thức sinh ra sau đối tượng nhận thức, vậy thì lúc đó nhận thức ấy sinh ra từ đâu được? Như vậy, sự sinh ra của tất cả mọi thứ đều không thể được giải thích một cách hợp lý. ^9-105
-
-Có người hỏi: "Nếu như vậy thì ngay cả cách nhìn thông thường cũng không tồn tại — vậy thì làm sao có thể có hai loại sự thật được?" Cách nhìn thông thường ấy được dựa trên một cách nhìn khác — vậy thì làm sao chúng sinh có thể đạt được sự an lạc hoàn toàn được? ^9-106
-
-Đây chỉ là sự phân biệt trong tâm thức của người khác mà thôi, chứ đó không phải là cách nhìn của chính bản thân ta; sau này khi điều đó được xác định chắc chắn thì nó mới thật sự có, còn nếu không thì đối với ta, nó hoàn toàn không có. ^9-107
-
-Cái được phân tích và người phân tích, cả hai đều dựa vào nhau mà tồn tại; giống như mọi sự phân tích đều được nói ra dựa trên sự đồng thuận thông thường của người đời mà thôi. ^9-108
-
-Khi sự phân tích lại được phân tích tiếp bằng chính sự phân tích khác, thì sự phân tích ấy cũng lại cần được phân tích tiếp nữa — như vậy sẽ dẫn đến một chuỗi vô tận, không bao giờ chấm dứt được. ^9-109
-
-Khi điều cần được phân tích đã được phân tích triệt để rồi, thì sự phân tích ấy cũng không còn nền tảng nào để dựa vào nữa; vì không còn nền tảng để dựa vào, nên nó cũng không thể sinh ra được nữa — điều đó được gọi là sự an lạc hoàn toàn. ^9-110
-
-Việc xác định xem quan điểm nào trong hai quan điểm này là đúng thật sự rất khó khăn; nếu cho rằng sự vật được xác lập nhờ vào sức mạnh của tâm thức, thì bản thân sự tồn tại của tâm thức ấy lại dựa vào cái gì? ^9-111
-
-Còn nếu cho rằng tâm thức được xác lập nhờ vào đối tượng nhận thức, thì bản thân sự tồn tại của đối tượng nhận thức ấy lại dựa vào cái gì? Nếu nói rằng cả hai cùng dựa vào nhau mà tồn tại, thì cả hai đều sẽ trở nên không thật sự tồn tại. ^9-112
-
-Nếu không có con thì không thể có cha, vậy thì bản thân "người con" ấy lại được sinh ra từ đâu? Nhưng thực tế không có con thì cũng không có cha — cũng vậy, cả hai (tâm thức và đối tượng) đều không thật sự tồn tại theo cách tương tự như thế. ^9-113
-
-Có người hỏi: "Mầm cây sinh ra từ hạt giống, và nhờ đó mà người ta suy ra được là có hạt giống; vậy thì tại sao nhận thức sinh ra từ đối tượng nhận thức lại không thể chứng minh được rằng đối tượng ấy thật sự tồn tại?" ^9-114
-
-Nếu nhờ một loại nhận thức khác với mầm cây mà người ta suy ra được rằng hạt giống có tồn tại, thì đối với nhận thức về đối tượng vốn đang được dùng để chứng minh sự tồn tại của đối tượng ấy, thì bản thân sự tồn tại của nhận thức ấy lại được chứng minh dựa vào đâu? ^9-115
-
-Tạm thời, theo cách nhìn thông thường của người đời, người ta thấy rằng tất cả mọi nguyên nhân đều tạo ra kết quả; ví như các loại cây khác nhau như cây sen và những loại khác đều được sinh ra từ những nguyên nhân khác nhau tương ứng. ^9-116
-
-Có người hỏi: "Vậy ai là người tạo ra sự khác biệt giữa các nguyên nhân ấy?" Điều đó là do sự khác biệt của chính những nguyên nhân trước đó tạo thành. Có người hỏi tiếp: "Vậy tại sao nguyên nhân lại có khả năng tạo ra kết quả?" Đó là do chính sức mạnh của nguyên nhân trước đó mà thôi. ^9-117
-
-Có người cho rằng: "Có một vị thần toàn năng chính là nguyên nhân của chúng sinh." Vậy xin hãy nói rõ: vị thần ấy là gì? Nếu nói rằng đó là bốn nguyên tố cơ bản (đất, nước, gió, lửa), thì chúng ta cũng đồng ý như vậy — nhưng nếu chỉ là tranh cãi về mặt tên gọi, thì có gì đáng để nhọc công như vậy đâu? ^9-118
-
-Nhưng đất và các nguyên tố khác vốn có nhiều loại, không tồn tại mãi mãi, không có sự linh hoạt, không phải là thần linh, có thể bị giẫm đạp lên, và mang bản chất không sạch sẽ — vì vậy, chúng không thể là vị thần toàn năng được. ^9-119
-
-Vị thần ấy không thể là khoảng không, vì khoảng không không có sự linh hoạt; cũng không thể là "cái tôi", vì điều đó đã bị bác bỏ từ trước rồi; và nếu nói rằng đó là một tác nhân không thể nghĩ bàn, thì việc chỉ nói ra một điều không thể nghĩ bàn như vậy có ý nghĩa gì? ^9-120
-
-Vậy thì điều mà vị thần ấy mong muốn tạo ra là gì? Nếu nói đó là "cái tôi", thì cái tôi ấy và đất cùng các nguyên tố khác, hay chính bản thể của vị thần ấy, lẽ nào lại không phải là tồn tại mãi mãi hay sao? Còn nhận thức thì sinh ra từ đối tượng nhận thức, ^9-121
-
-và khổ vui vốn có từ những hành động trong quá khứ không có điểm bắt đầu — vậy xin hãy nói rõ vị thần ấy đã tạo ra điều gì trong số những thứ này? Nếu nguyên nhân vốn không có điểm bắt đầu, thì làm sao kết quả lại có thể có điểm bắt đầu được? ^9-122
-
-Có người hỏi: "Tại sao vị thần ấy lại không thường xuyên tạo ra mọi thứ?" Vì Ngài không phụ thuộc vào bất cứ điều gì khác cả. Nhưng nếu không có gì khác ngoài chính Ngài, và không có gì khác được Ngài tạo ra trước đó, thì Ngài lại phải phụ thuộc vào cái gì để tạo ra được? ^9-123
-
-Nếu nói rằng việc tạo ra của Ngài phụ thuộc vào sự hội tụ của các nhân duyên, thì chính sự hội tụ ấy mới là nguyên nhân thật sự, chứ không phải vị thần ấy; khi các nhân duyên hội tụ đầy đủ, Ngài không có quyền không tạo ra kết quả; còn khi các nhân duyên chưa hội tụ đầy đủ, Ngài cũng không có quyền tạo ra kết quả được. ^9-124
-
-Nếu vị thần ấy tạo ra trong khi bản thân Ngài không hề muốn, thì điều đó có nghĩa là Ngài đang bị chi phối bởi một quyền lực khác; còn nếu Ngài tạo ra vì mong muốn, thì điều đó có nghĩa là Ngài đang phụ thuộc vào chính ý muốn của mình — vậy thì Ngài còn có thể được gọi là "toàn năng, tự do" ở chỗ nào nữa? ^9-125
-
-Những người cho rằng các hạt cực nhỏ là tồn tại mãi mãi cũng đã bị bác bỏ từ trước rồi; còn một trường phái triết học khác thì cho rằng có một "Căn Bản" tồn tại mãi mãi chính là nguyên nhân của thế giới chúng sinh. ^9-126
-
-Cái được gọi là "Căn Bản" ấy được cho là trạng thái cân bằng của ba đặc tính: "nhẹ nhàng sáng suốt", "kích động" và "trì trệ tối tăm"; còn khi ba đặc tính ấy mất cân bằng thì gọi là thế giới chúng sinh đa dạng, khác biệt nhau. ^9-127
-
-Việc một thứ duy nhất lại có ba bản chất khác nhau là điều không hợp lý; vì vậy, thứ ấy không thể thật sự tồn tại theo cách đó được; tương tự như vậy, ba đặc tính ấy cũng không thể thật sự tồn tại, vì mỗi đặc tính trong chúng cũng lại có ba khía cạnh riêng của chính nó. ^9-128
-
-Nếu ba đặc tính ấy không tồn tại, thì âm thanh và những đối tượng khác cũng sẽ trở nên hoàn toàn không thể có được; và đối với những vật vô tri như quần áo và những thứ tương tự, việc chúng có cảm giác vui sướng và những cảm xúc khác cũng là điều không thể xảy ra. ^9-129
-
-Có người hỏi: "Chẳng phải các sự vật đã được phân tích và xác định là có bản chất chính là nguyên nhân của chúng hay sao? Vậy chẳng phải nguyên nhân của các ngươi cũng chính là niềm vui và những cảm xúc khác — và từ đó không thể sinh ra những vật như tấm vải và các thứ tương tự được sao?" ^9-130
-
-Tấm vải và những vật tương tự sinh ra từ niềm vui và các cảm xúc khác; nhưng vì niềm vui tồn tại mãi mãi ấy không có nơi tấm vải, nên niềm vui và các cảm xúc khác ấy cũng không thể thật sự tồn tại được; và niềm vui cùng những cảm xúc khác ấy, dù được xem là tồn tại mãi mãi, cũng chưa bao giờ được nhận thấy một cách rõ ràng cả. ^9-131
-
-Nếu niềm vui và những cảm xúc khác vốn tồn tại một cách rõ ràng, vậy tại sao trải nghiệm về nó lại không được nhận biết? Nếu nói rằng vì nó trở nên nhỏ nhặt hơn, vậy thì làm sao nó có thể vừa là rõ vừa là mờ nhạt được cùng một lúc? ^9-132
-
-Nếu bỏ đi trạng thái rõ để trở thành trạng thái mờ nhạt, thì cả hai trạng thái ấy đều là không tồn tại mãi mãi cả; vậy thì tại sao lại không thừa nhận rằng tất cả mọi thứ đều không tồn tại mãi mãi theo cách tương tự như vậy? ^9-133
-
-Nếu cho rằng trạng thái rõ không khác gì niềm vui, thì khi trạng thái rõ biến mất, niềm vui rõ ràng ấy cũng phải là không tồn tại mãi mãi; nếu cho rằng: "Cái không tồn tại thì sẽ không bao giờ sinh ra, vì nó không tồn tại từ trước," ^9-134
-
-thì dù các ngươi không muốn thừa nhận rằng một trạng thái rõ ràng có thể sinh ra từ trạng thái không rõ ràng, các ngươi vẫn buộc phải chấp nhận rằng trạng thái ấy đã tồn tại sẵn từ trước; còn nếu cho rằng kết quả đã có sẵn trong nguyên nhân của nó, thì khi ăn cơm, người ta sẽ phải ăn luôn cả những thứ dơ bẩn vì chúng cũng ẩn chứa sẵn trong đó. ^9-135
-
-Còn nữa, nếu vậy thì người ta nên dùng tiền mua vải để mua hạt bông gòn và mặc nó luôn mới đúng. Có người nói: "Vì thế gian bị mê lầm nên không nhận thấy được điều đó." Nhưng chính người có trí tuệ chân thật lại xác nhận điều ngược lại. ^9-136
-
-Nếu người có trí tuệ ấy cũng chỉ là một phần của thế gian, vậy tại sao thế gian lại không nhận thấy được điều đó như người trí thấy? Nếu nói rằng nhận thức của thế gian không phải là một nhận thức chính xác, vậy thì ngay cả những gì thế gian thấy được một cách rõ ràng cũng không thể là đúng được. ^9-137
-
-Nếu nhận thức không phải là chính xác, thì những gì được nhận thức bởi nó chẳng phải cũng trở thành sai lầm hay sao? Như vậy thì việc tu tập tánh Không theo cách đó cũng sẽ trở nên không hợp lý. ^9-138
-
-Nếu không chạm đến được sự vật được giả định là có thật, thì cũng không thể nắm bắt được sự không tồn tại của sự vật ấy; vì vậy, đối với bất cứ sự vật giả tạm nào không thật sự tồn tại, thì sự "không tồn tại" của sự vật ấy cũng chỉ là điều giả tạm mà thôi, không thật sự tồn tại. ^9-139
-
-Vì vậy, cũng giống như khi một đứa con chết đi trong giấc mộng, ý nghĩ cho rằng "nó không còn tồn tại nữa" khi tỉnh dậy chỉ là một sự phân biệt sai lầm, dùng để ngăn chặn ý nghĩ sai lầm khác cho rằng "nó vẫn còn tồn tại" — và bản thân ý nghĩ ấy cũng chỉ là giả tạm, không thật. ^9-140
-
-Vì vậy, khi đã phân tích triệt để theo cách như trên, không có bất cứ sự vật nào lại không có nguyên nhân cả, cũng không có sự vật nào trụ lại nơi các nhân duyên, dù riêng biệt hay tập hợp lại với nhau. ^9-141
-
-Cũng không có sự vật nào đến từ một nơi khác, cũng không trụ lại, và cũng không đi đến đâu cả; vậy thì cái mà kẻ mê lầm cho là "thật sự tồn tại" ấy có gì khác biệt so với ảo ảnh đâu? ^9-142
-
-Đối với những gì được tạo ra bởi ảo thuật, và những gì được tạo ra bởi các nhân duyên thông thường, hãy quán xét xem chúng đến từ đâu, và sẽ đi về đâu. ^9-143
-
-Cái gì chỉ xuất hiện khi có một điều kiện ở gần nó, và biến mất khi thiếu điều kiện ấy, thì nó chẳng khác gì một hình ảnh phản chiếu được tạo ra một cách nhân tạo — vậy thì làm sao nó có thể được xem là thật sự tồn tại được? ^9-144
-
-Đối với một sự vật đã thật sự tồn tại rồi, thì còn cần gì đến nguyên nhân nữa? Còn nếu sự vật ấy vốn không tồn tại, thì nguyên nhân cũng chẳng có tác dụng gì đối với nó cả. ^9-145
-
-Dù có hàng trăm triệu nguyên nhân đi nữa, cũng không thể biến đổi được một cái vốn không tồn tại thành ra có; vậy thì làm sao trạng thái ấy lại được xem là "sự vật" được? Và cũng chẳng có sự vật nào khác lại trở thành "có tồn tại" theo cách đó cả. ^9-146
-
-Nếu vào lúc chưa tồn tại thì không thể có sự vật, vậy thì đến khi nào sự vật mới thật sự "trở thành có" được? Vì nếu sự vật chưa từng sinh ra, thì trạng thái "không tồn tại" của nó cũng sẽ không bao giờ rời khỏi nó được. ^9-147
-
-Nếu trạng thái "không tồn tại" ấy không rời khỏi sự vật, thì cũng không thể có cơ hội nào để sự vật ấy "trở thành có tồn tại" được; và sự vật ấy cũng không thể trở thành "không tồn tại" được, vì như vậy sẽ dẫn đến việc nó có hai bản chất trái ngược nhau cùng một lúc — điều đó thật vô lý. ^9-148
-
-Vì vậy, sự mất đi không hề tồn tại, và sự vật cũng không hề tồn tại; do đó, tất cả các loài chúng sinh này, từ trước đến nay, chưa từng thật sự sinh ra, và cũng chưa từng thật sự mất đi. ^9-149
-
-Chúng sinh chẳng khác nào một giấc mộng; khi được phân tích kỹ lưỡng, chúng cũng giống như thân cây chuối không có lõi thật; xét về bản chất sâu xa nhất, không có sự khác biệt nào giữa trạng thái đã đạt được sự an lạc hoàn toàn và trạng thái chưa đạt được cả. ^9-150
-
-Vậy thì, đối với các sự vật vốn dĩ đã là tánh Không như thế, còn có gì để đạt được, có gì để mất đi được nữa? Còn ai là người được tôn kính phụng sự, và ai là người bị khinh miệt, chà đạp được nữa đây? ^9-151
-
-Hạnh phúc và khổ đau đều sinh ra từ đâu? Có gì đáng vui, có gì đáng buồn được nữa? Nếu truy tìm đến tận cùng bản chất sâu xa nhất của chúng, thì ai là người còn tham, và tham vào cái gì được nữa? ^9-152
-
-Nếu quán xét kỹ lưỡng thế gian của những người đang sống này, thì ai là người rồi sẽ chết đi ở đây? Ai là người sẽ được sinh ra, ai là người đã từng sinh ra? Và ai là bà con, ai là bạn bè của ai được nữa? ^9-153
-
-Nguyện tất cả những người như con đây đều hiểu rõ rằng tất cả mọi sự vật đều như bầu trời rỗng không vậy. Những chúng sinh mong cầu hạnh phúc cho riêng bản thân mình, vì những nguyên nhân nhỏ nhặt gây tranh chấp hay vui sướng, ^9-154
-
-mà rơi vào cảnh hỗn loạn cùng cực, hoặc trở nên vui mừng quá mức; họ phải chịu đựng biết bao phiền muộn, nhọc nhằn, tranh cãi, đánh giết lẫn nhau, làm hại nhau, và phải sống một cuộc đời đầy khó khăn vì chính những việc xấu họ đã gây ra. ^9-155
-
-Họ nhiều lần được sinh vào cõi lành, được hưởng thụ biết bao niềm vui sướng, nhưng rồi khi chết đi, họ lại rơi vào cõi khổ, chịu đựng những khổ đau lâu dài, không thể chịu đựng nổi. ^9-156
-
-Trong vòng luân hồi có rất nhiều nơi nguy hiểm; ở đó, sự thật về bản chất Không không hiện ra rõ ràng như thế này; và ở đó, mọi thứ lại mâu thuẫn lẫn nhau — trong vòng luân hồi không hề có được sự thật như thế này đâu. ^9-157
-
-Hơn nữa, trong luân hồi có một biển khổ đau không thể so sánh được, không có giới hạn; ở đó, sức mạnh của chúng sinh lại quá nhỏ bé, và tuổi thọ của họ cũng quá ngắn ngủi. ^9-158
-
-Ở đó, ngay cả vì mong muốn được sống lâu và không bệnh tật, họ cũng phải chịu đựng biết bao mệt nhọc vì đói khát, cùng với những nỗi khổ vì buồn ngủ, bị tổn hại, và phải kết bạn vô ích với những người chưa tu tập. ^9-159
-
-Cuộc đời cứ thế trôi qua nhanh chóng một cách vô nghĩa, còn sự hiểu biết đúng đắn thì vô cùng khó tìm được; ở đó, làm sao có được cách nào để ngăn chặn thói quen tâm trí bị xao lãng đã ăn sâu như vậy? ^9-160
-
-Hơn nữa, ở đó, những thế lực xấu luôn cố gắng để khiến chúng sinh rơi vào những cõi khổ lớn lao; ở đó, có quá nhiều con đường sai lạc, và sự nghi ngờ cũng rất khó vượt qua được. ^9-161
-
-Có được điều kiện thuận lợi để tu tập cũng rất khó, và việc gặp được một vị Phật xuất hiện trên đời lại càng khó hơn nữa; dòng chảy của những cảm xúc xấu cũng rất khó từ bỏ được — ôi, khổ đau này thật nối tiếp nhau không dứt. ^9-162
-
-Như vậy, dù đang phải chịu đựng khổ đau vô cùng lớn lao, những chúng sinh đang trôi lăn trong dòng nước khổ đau ấy vẫn không hề nhận ra được nỗi khổ của chính họ — ôi, thật đáng thương xót cho họ biết bao. ^9-163
-
-Ví như có kẻ liên tục tắm rửa để làm sạch mình, rồi lại liên tục nhảy vào lửa để tự thiêu; dù đang sống trong cảnh khổ đau cùng cực như vậy, họ vẫn tự cho rằng mình đang sống an vui, hạnh phúc. ^9-164
-
-Cứ như vậy, họ sống mà cứ ngỡ như mình sẽ không bao giờ già đi, không bao giờ chết đi; trước tiên họ sẽ bị chính những khổ đau ấy làm hại, rồi sau đó phải chịu đọa lạc vào cõi khổ không thể chịu đựng nổi. ^9-165
-
-Khi nào con mới có thể mang đến cơn mưa công đức dồi dào — sinh ra tốt đẹp từ đám mây phước báu của chính mình — để làm dịu đi ngọn lửa khổ đau đang thiêu đốt những chúng sinh như vậy đây? ^9-166
-
-Khi nào con mới có thể, với lòng tôn kính, tích lũy được công đức theo cách không còn chấp vào bất cứ điều gì, để rồi giảng dạy về tánh Không cho những ai đang bị hại bởi chính sự chấp thủ ấy? ^9-167
-
-*Thus ends Chapter 9: "Trí Tuệ" (bản dịch tiếng Việt trình độ phổ thông, dịch trực tiếp từ nguyên bản Tạng ngữ, đối chiếu Phạn ngữ; chưa qua các bước rà soát chất lượng — status: draft).*
-
-## Chương 10: Hồi Hướng
+## 10. Hồi Hướng ^10-0
 
 Nhờ những điều tốt đẹp mà mình đã tích lũy được từ việc viết ra tác phẩm "Nhập Bồ Tát Hạnh" này (nghĩa là "Bước Vào Con Đường Của Bồ Tát"), nguyện cho tất cả chúng sinh đều bước vào con đường tu tập giúp đỡ mọi người như một vị Bồ Tát. ^10-1
 
@@ -1874,8 +1682,16 @@ Nguyện cho lời Phật dạy — vị thuốc duy nhất chữa lành khổ �
 
 Con xin cúi đầu kính lễ Bồ Tát Văn Thù, nhờ ân đức của Ngài mà tâm tốt lành được sinh ra nơi con; con cũng xin cúi đầu kính lễ vị thầy tốt của mình, nhờ ân đức của thầy mà con được trưởng thành, tiến bộ trên con đường tu tập. ^10-58
 
-*Thus ends Chapter 10: "Hồi Hướng" (bản dịch tiếng Việt trình độ phổ thông, dịch trực tiếp từ nguyên bản Tạng ngữ, đối chiếu Phạn ngữ; chưa qua các bước rà soát chất lượng — status: draft). Đây cũng là chương cuối cùng của toàn bộ tác phẩm Nhập Bồ Tát Hạnh.*
+Đây là hết chương thứ mười, “Hồi Hướng,” trích từ Nhập Bồ Tát Hạnh. ^10-a
 
----
+## Lời Bạt Của Tác Giả ^a-0
 
-*Hoàn tất bản dịch toàn văn Nhập Bồ Tát Hạnh (Bodhisattvacaryāvatāra), ghép từ Chương 1–10. Bản dịch zero-shot từ nguyên bản Tạng ngữ, đối chiếu Phạn ngữ. Status: draft — chờ rà soát theo vi-beginner-audience/requirements.md, udience.md, và 	ermbase.md.*
+Nhập Bồ Tát Hạnh, do luận sư Tịch Thiên (Śāntideva) biên soạn, đến đây là hoàn tất. ^a-1
+
+## Lời Bạt Của Người Dịch ^b-0
+
+Bản dịch này đã được vị luận sư Ấn Độ Sarvajñadeva cùng vị đại dịch giả, tỳ-kheo Palgyi Tsek, hiệu đính và hoàn thiện dựa theo bản văn xứ Kashmir. ^b-1
+
+Sau đó, bản dịch được vị luận sư Ấn Độ Dharmashribhadra, vị đại dịch giả tỳ-kheo Rinchen Zangpo, và Shakya Lodro chỉnh sửa, dịch lại cho phù hợp với bản văn và luận giải vùng Trung Ấn, rồi hoàn thiện. ^b-2
+
+Về sau nữa, bản dịch được vị luận sư Ấn Độ Sumatikirti cùng vị đại dịch giả, tỳ-kheo Loden Sherab (Blo ldan shes rab), hiệu đính chính xác, dịch lại và hoàn thiện trọn vẹn. ^b-3

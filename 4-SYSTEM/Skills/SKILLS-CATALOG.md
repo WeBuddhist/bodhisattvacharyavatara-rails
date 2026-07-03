@@ -340,3 +340,15 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 **Inputs:** Source text (English or Tibetan), target audience grade, optional verse IDs, optional output path.
 **Outputs:** Hindi translation at the target grade with a locked-term table; optionally saved to `3-TRANSFORMATIONS/Translations/hi-<grade>/`.
 → [`bo-hi-translate/SKILL.md`](bo-hi-translate/SKILL.md)
+
+### `bo-vi-keyword-grade` **[exists]**
+**Purpose:** Enrich the existing English-Tibetan verse keyword JSON with Vietnamese translations and audience-grade classifications. Reads Tibetan verse text from the canonical source and Vietnamese translations from a user-supplied attested Vietnamese translation file. Produces four separate output JSON files — one per audience grade — each with `bo_text`, `vi_text` per verse and `vi`, `grade` per keyword. Keywords are filtered by rank cutoff per grade (≤200 beginner, ≤500 general/intermediate, all for advanced). Mirrors `bo-hi-keyword-grade` for the Vietnamese-Tibetan pair.
+**Inputs:** `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md`, `4-SYSTEM/scripts/english_keyword/output/en-David_Karma_Choephel_en_bo_keyword_meaning_enriched.json`, optional raw Vietnamese translation file (e.g. `3-TRANSFORMATIONS/Translations/vi-beginner-audience/BCA-Full-Beginner-Vietnamese.md`).
+**Outputs:** `4-SYSTEM/scripts/english_keyword/output/bo_vi_keyword_beginner.json`, `…general.json`, `…intermediate.json`, `…advanced.json`, plus the base `en-bo-vi-termbase-general.json`.
+→ [`vietnamese-translation/bo-vi-keyword-grade-skill.md`](vietnamese-translation/bo-vi-keyword-grade-skill.md)
+
+### `bo-vi-translate` **[exists]**
+**Purpose:** Translates a BCA passage (English verse translation or Tibetan) into Vietnamese at a specified audience grade (beginner / general / intermediate / advanced), enforcing term consistency throughout by loading the grade-appropriate keyword termbase (`bo_vi_keyword_*.json`). Scans source for recognised terms, locks their Vietnamese equivalents, translates at the correct register, runs a consistency check, and outputs a term table alongside the translation. Mirrors `bo-hi-translate` for the Vietnamese-Tibetan pair.
+**Inputs:** Source text (English or Tibetan), target audience grade, optional verse IDs, optional output path.
+**Outputs:** Vietnamese translation at the target grade with a locked-term table; optionally saved to `3-TRANSFORMATIONS/Translations/vi-<grade>/`.
+→ [`vietnamese-translation/bo-vi-translate-skill.md`](vietnamese-translation/bo-vi-translate-skill.md)

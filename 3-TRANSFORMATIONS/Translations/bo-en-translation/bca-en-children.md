@@ -1,13 +1,13 @@
 ---
 file_type: translation
 root_text: 1-SOURCES\Translations\bo-བློ་ལྡན་ཤེས་རབ།.md
-title: The way of the bodhisattva - children version
+title: The way of the bodhisattva - children's version
 lang_tag: en
 category_id: JD5ULLPAV1cxg7RSb7L3q
 license: public
 translator: Rails[op:Xz6QQW6yYdR111UgnnxJk] 
-source: webuddhist
-alt_titles: Drops of Sweet Nectar: A Wise Teacher's Advice on How to Be a Hero of Kindness.
+source: https://webuddhist.com/
+alt_titles: Drops of Nectar from the Oral Transmission of the Mañjughoṣa Guru - children's version
 ---
 # Entering the Way of the Bodhisattva (One Who Works to Free All Beings) ^0
 

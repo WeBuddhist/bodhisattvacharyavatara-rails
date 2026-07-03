@@ -9,7 +9,9 @@ translator:
 source: webuddhist
 alt_titles: 
 ---
-## Entering the Way of the Bodhisattva (One Who Works to Free All Beings) ^I-0
+# Entering the Way of the Bodhisattva (One Who Works to Free All Beings) ^0
+
+## 0. Introduction ^I-0
 
 In Sanskrit: Bodhisatvacarya avatara ^I-1
 

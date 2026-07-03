@@ -9,7 +9,9 @@ translator:
 source: webuddhist
 alt_titles:
 ---
-## Entering the Way of the Bodhisattva [bodhisattva (Skt. bodhisattva)] ^I-0
+# Entering the Way of the Bodhisattva [bodhisattva (Skt. bodhisattva)] ^0
+
+# 0. Introduction ^I-0
 
 In Sanskrit: Bodhisatvacarya avatāra ^I-1
 

@@ -1,3 +1,14 @@
+---
+file_type: translation
+root_text: 1-SOURCES\Translations\bo-བློ་ལྡན་ཤེས་རབ།.md
+title: Nhập Bồ Tát Hạnh — Phần Mở Đầu
+lang_tag: vi
+category_id: JD5ULLPAV1cxg7RSb7L3q
+license: public
+translator:
+source: webuddhist
+alt_titles:
+---
 ## Nhập Bồ Tát Hạnh — Phần Mở Đầu ^I-0
 
 Tên bằng tiếng Phạn: Bodhisattvacaryāvatāra (Nhập Bồ Tát Hạnh) ^I-1

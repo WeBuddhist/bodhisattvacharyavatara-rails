@@ -1,0 +1,72 @@
+{
+  "status": "ok",
+  "source": "D:\\Work\\OpenPecha\\bodhisattvacharyavatara-rails\\1-SOURCES\\Translations\\bo-བློ་ལྡན་ཤེས་རབ།.md",
+  "validated_at": "2026-06-30T10:47:50.959258+00:00",
+  "notes": [
+    "bdrc: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: '1-SOURCES/Text/BCAV08_SH_sk.md'",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "toc: 14 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ཀུན་དཔལ་སྤྱོད་འཇུག"
+    },
+    "alt_titles": [
+      {
+        "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཚིག་འགྲེལ་འཇམ་དབྱངས་བླ་མའི་ཞལ་ལུང་བདུད་རྩིའི་ཐིག་པ།"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": "sADPH5uSrp0XOntZmPvSJ",
+    "category_id": "JD5ULLPAV1cxg7RSb7L3q",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "translator",
+        "bdrc_id": "P00KG07267"
+      },
+      {
+        "type": "person",
+        "role": "translator",
+        "bdrc_id": "P8182"
+      },
+      {
+        "type": "person",
+        "role": "translator",
+        "bdrc_id": "P8171"
+      },
+      {
+        "type": "person",
+        "role": "translator",
+        "bdrc_id": "P753"
+      },
+      {
+        "type": "person",
+        "role": "translator",
+        "bdrc_id": "P8216"
+      },
+      {
+        "type": "person",
+        "role": "translator",
+        "bdrc_id": "P8893"
+      },
+      {
+        "type": "person",
+        "role": "translator",
+        "bdrc_id": "P2551"
+      }
+    ],
+    "tag_ids": null
+  }
+}

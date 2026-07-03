@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "source": "D:\\Work\\OpenPecha\\bodhisattvacharyavatara-rails\\1-SOURCES\\Text\\BCAV08_SH_sk.md",
+  "validated_at": "2026-06-30T07:45:18.711391+00:00",
+  "notes": [
+    "bdrc: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "toc: 12 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "sa-x-iast": "bodhisattvacaryāvatāra"
+    },
+    "alt_titles": [
+      {
+        "sa-x-iast": "Bodhi(sattva)caryāvatāra"
+      },
+      {
+        "sa-x-iast": "bodhicaryāvatāra"
+      }
+    ],
+    "language": "sa",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "JD5ULLPAV1cxg7RSb7L3q",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P6161"
+      }
+    ],
+    "tag_ids": null
+  }
+}

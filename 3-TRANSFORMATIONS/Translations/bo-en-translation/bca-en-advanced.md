@@ -2,7 +2,7 @@
 
 In Sanskrit: Bodhisatvacarya avatāra ^I-1
 
-In Tibetan: Byang chub sems dpa’i spyod pa la ’jug pa ^I-2
+In English: Entering the Way of the Bodhisattva ^I-2
 
 I prostrate to all buddhas and bodhisattvas [bodhisattvas (Skt. bodhisattva)]. ^I-3
 

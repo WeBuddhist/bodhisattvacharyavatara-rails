@@ -2,7 +2,7 @@
 
 In Sanskrit: Bodhisatvacarya avatara ^I-1
 
-In Tibetan: Byang chub sems dpa'i spyod pa la 'jug pa ^I-2
+In English: Entering the Way of the Bodhisattva ^I-2
 
 I bow with respect to all enlightened beings and all those working toward enlightenment to help others. ^I-3
 

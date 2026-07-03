@@ -91,7 +91,15 @@ notes: |
 
 ## སྒྲུང་འགྲེལ། (Stories and narratives)
 
-*Verse 1-23 contains no independent narrative. The merchant's daughter story that grounds the broader argument of verses 1-21 through 1-25 appears in 1-21-summary.md → སྒྲུང་འགྲེལ།.*
+*Verse 1-23 contains no independent narrative among the doctrinal commentaries. The merchant's daughter story that grounds the broader argument of verses 1-21 through 1-25 appears in 1-21-summary.md → སྒྲུང་འགྲེལ།.*
+
+### BCACXX_WR_bo — ཚངས་པའི་སྒྲུང་། (Brahmā's Story)
+
+ཤལ་ལོ་ཀ་འདིའི་**ཚངས་པ་ལ་ཡང་འདི་ཡོད་དམ།** ཞེས་པའི་དཔེར་བཀོད་པའི་གཏམ་རྒྱུད། ཚངས་པས་སེམས་ཅན་ཐམས་ཅད་ཀྱི་སྐྱེ་བ་རྒྱུན་མི་ཆད་པར་གྱུར་ཅིག་ཅེས་སྨོན་ལམ་བཏབ་པ་བཞིན་དུ་སྐྱེ་བ་རྒྱུན་མ་ཆད་པར་སྒོམ་ཞིང་། སེམས་ཅན་ཐམས་ཅད་རང་གི་བུ་ཡིན་པར་བསམས་ནས་ཚད་མེད་པའི་བྱམས་པ་སྒོམ་པར་བཤད།
+
+⚑ *Ed: the source block for this story is incomplete in the corpus — the passage breaks off mid-sentence ("...སེམས་ཅན་ཐམས་ཅད་ལ་ཚད་") immediately before the next heading; the précis above reflects only the attested portion.*
+
+([[1-SOURCES/Commentaries/Transcluded/BCACXX_WR_bo.md#^1-7]])
 
 ---
 

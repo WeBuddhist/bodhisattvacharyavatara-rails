@@ -82,6 +82,16 @@ notes: |
 
 ---
 
+## སྒྲུང་འགྲེལ། (Stories and narratives)
+
+### BCACXX_WR_bo — ལེགས་སྐྱེས་ཀྱི་སྒྲུང་། (Legs-skyes's Story)
+
+ཤལ་ལོ་ཀ་འདིའི་**ཕན་བཏགས་ལན་ལྡོན་གང་ཡིན་པ།** ཞེས་པའི་དཔེར་བཀོད་པའི་གཏམ་རྒྱུད། རྒྱལ་པོ་ལྷ་གནས་ཀྱི་བུ་ཆུང་བ་ལེགས་སྐྱེས་ལོ་བདུན་པ་དང་ཡབ་ཡུམ་གསུམ་བློན་པོའི་གནོད་སེམས་ལས་བྲོས་སྐབས་ལམ་ལ་ཟས་ཟད་ནས་ཡུམ་གྱིས་བུ་བསད་དེ་ཟ་བར་བསམས་པའི་ཚེ། ལེགས་སྐྱེས་རང་ཉིད་ཀྱིས་ཤ་ཁྲག་ཅུང་ཟད་ནས་ཟད་བར་དུ་ཕ་མར་ཕུལ་ཏེ་བསྐྱངས། སེམས་ཅན་ཐམས་ཅད་སྐྱོབ་བྱེད་སངས་རྒྱས་ཐོབ་པར་སྨོན་ལམ་བཏབ་པས་ས་དྲུག་ཏུ་གཡོས་ཏེ་ལྷ་རྣམས་ཀྱང་སྙིང་རྗེས་ངུ། བརྒྱ་བྱིན་གྱིས་བརྟག་དཔྱད་ཀྱི་ཕྱིར་སྤྲང་པོ་དང་གཅན་གཟན་དུ་སྤྲུལ་ནས་ཤ་བླངས་ཡང་། ལེགས་སྐྱེས་ལ་འགྱོད་པ་ཅུང་ཟད་ཀྱང་མེད་པར་བདེན་པའི་ཚིག་གིས་ལུས་སྔར་བཞིན་གྱུར། ཀུན་གྱིས་"རང་གི་ལུས་ལའང་མ་ཆགས་པར་ཕན་བཏགས་ལན་ལྡོག་གང་ཡིན་པ།" ཞེས་བསྔགས་ཏེ་རྒྱལ་པོའི་མཛད་པ་ཡང་གསོར་གྱུར།
+
+([[1-SOURCES/Commentaries/Transcluded/BCACXX_WR_bo.md#^1-8]])
+
+---
+
 ## གཙོ་གནད། (Main teaching points)
 
 1. **མ་བཅོལ་ལེགས་པར་བྱེད་པའི་གནད།** — The verse's core argument is a *fortiori* (སྨོས་ཅི་དགོས།): the person who repays kindness already receives praise in the world (རེ་ཞིག་བསྔགས་འོས་); how much more worthy of praise is the bodhisattva who, without having previously received kindness, and without being asked (མ་བཅོལ་), spontaneously works for all beings' benefit and happiness in this and future lives? All seven commentaries agree on this structure.

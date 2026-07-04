@@ -5,9 +5,9 @@ title: बोधिचर्यावता - बाल संस्करण
 lang_tag: hi
 category_id: JD5ULLPAV1cxg7RSb7L3q
 license: public
-translator:
-source: webuddhist
-alt_titles:
+translator: Rails[op:Xz6QQW6yYdR111UgnnxJk] 
+source: https://webuddhist.com/
+alt_titles: परमज्ञानी गुरु के वचनों रूपी अमृत की बूँदें - बाल संस्करण
 ---
 # बोधिसत्व के मार्ग में प्रवेश। ^0
 

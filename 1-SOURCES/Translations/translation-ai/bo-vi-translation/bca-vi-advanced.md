@@ -1,15 +1,17 @@
 ---
 file_type: translation
 root_text: 1-SOURCES\Translations\bo-བློ་ལྡན་ཤེས་རབ།.md
-title: Nhập Bồ Tát Hạnh — Phần Mở Đầu
+title: Nhập Bồ Tát Hạnh — Phiên bản dành cho học giả
 lang_tag: vi
 category_id: JD5ULLPAV1cxg7RSb7L3q
 license: public
-translator:
-source: webuddhist
-alt_titles:
+translator: Rails[op:Xz6QQW6yYdR111UgnnxJk] 
+source: https://webuddhist.com/
+alt_titles: Những giọt nước thiêng từ lời dạy trực tiếp của vị Thầy Trí Tuệ — Phiên bản dành cho học giả
 ---
-## Nhập Bồ Tát Hạnh — Phần Mở Đầu ^I-0
+# Nhập Bồ Tát Hạnh ^0
+
+## Phần Mở Đầu ^I-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^I-1]]
 

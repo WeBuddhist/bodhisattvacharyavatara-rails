@@ -14,87 +14,197 @@ edition_id: lM2FuBPUxj9z00aX3c5so
 toc_id: mYbeIgjLvVKUT8cyfH3o2
 ---
 
-# A Guide to the Bodhisattva's Way of Life
-### General English Translation
-Homage to the Buddha. ^I-1
+# A Guide to the Bodhisattva's Way of Life ^0
 
-*Zero-shot translation from the Tibetan of Blo ldan shes rab, cross-checked against the Sanskrit of Śāntideva*
+## 0. Introduction ^I-0
 
----
+In the language of India: Bodhisattva-caryā-avatāra. ^I-1
+
+In the Tibetan language: Jangchub Sempai Chöpa La Jukpa — "A Guide to the Bodhisattva's Way of Life." ^I-2
+
+Homage to all buddhas and bodhisattvas. ^I-3
 
 ## Chapter 1: The Benefits of Bodhichitta
 
-I bow with deep respect to the buddhas, to the dharma they embody, and to their bodhisattva heirs, and to all who deserve reverence. Following the scriptures, I will now explain briefly how to enter the bodhisattva's way of life. ^1-1
+I bow with deep respect to the buddhas, to the dharma they embody,
+and to their bodhisattva heirs, and to all who deserve reverence.
+Following the scriptures,
+I will now explain briefly how to enter the bodhisattva's way of life. ^1-1
 
-Nothing I say here is new, and I have no special gift for fine writing. So I have not written this with others in mind — I have written it simply to cultivate my own mind. ^1-2
+Nothing I say here is new,
+and I have no special gift for fine writing.
+So I have not written this with others in mind —
+I have written it simply to cultivate my own mind. ^1-2
 
-Still, writing this may strengthen my faith in virtue and help it grow. And if someone else whose fortune matches mine happens to read it, perhaps it will be worthwhile for them too. ^1-3
+Still, writing this may strengthen my faith in virtue
+and help it grow.
+And if someone else whose fortune matches mine
+happens to read it, perhaps it will be worthwhile for them too. ^1-3
 
-This precious life with its freedom and opportunity is extremely hard to find. If I fail to put it to good use now, when will a chance like this ever come again? ^1-4
+This precious life with its freedom and opportunity
+is extremely hard to find.
+If I fail to put it to good use now,
+when will a chance like this ever come again? ^1-4
 
-On a dark, cloudy night, a flash of lightning lights up the sky for a single instant. In the same way, through the power of the buddhas, good and beneficial thoughts arise in the world only rarely and fleetingly. ^1-5
+On a dark, cloudy night,
+a flash of lightning lights up the sky for a single instant.
+In the same way, through the power of the buddhas,
+good and beneficial thoughts arise in the world only rarely and fleetingly. ^1-5
 
-That is why our virtue is always so fragile, while the force of wrongdoing is immense and terrifying. Nothing can overpower it — except bodhichitta. ^1-6
+That is why our virtue is always so fragile,
+while the force of wrongdoing is immense and terrifying.
+Nothing can overpower it —
+except bodhichitta. ^1-6
 
-The great buddhas reflected deeply across countless ages and saw that this alone truly helps. Through it, boundless numbers of beings can easily reach the highest happiness. ^1-7
+The great buddhas reflected deeply across countless ages
+and saw that this alone truly helps.
+Through it, boundless numbers of beings
+can easily reach the highest happiness. ^1-7
 
-Anyone who wants to escape the countless sufferings of samsara, who wants to end the pain of others, and who wants to enjoy every kind of happiness should never let go of bodhichitta. ^1-8
+Anyone who wants to escape the countless sufferings of samsara,
+who wants to end the pain of others,
+and who wants to enjoy every kind of happiness
+should never let go of bodhichitta. ^1-8
 
-The moment bodhichitta is born in someone, even a miserable person trapped in the prison of samsara is called an heir of the buddhas. Gods and humans alike will bow to them. ^1-9
+The moment bodhichitta is born in someone,
+even a miserable person trapped in the prison of samsara
+is called an heir of the buddhas.
+Gods and humans alike will bow to them. ^1-9
 
-Like the finest alchemy that turns base metal to gold, bodhichitta takes this impure body of ours and transforms it into the priceless body of a buddha. So hold on firmly to bodhichitta. ^1-10
+Like the finest alchemy that turns base metal to gold,
+bodhichitta takes this impure body of ours
+and transforms it into the priceless body of a buddha.
+So hold on firmly to bodhichitta. ^1-10
 
-The sole guide of all beings examined it closely with his boundless wisdom and found it to be immensely valuable. So if you wish to leave behind the realms of suffering, hold firmly to this precious bodhichitta. ^1-11
+The sole guide of all beings examined it closely
+with his boundless wisdom and found it to be immensely valuable.
+So if you wish to leave behind the realms of suffering,
+hold firmly to this precious bodhichitta. ^1-11
 
-Every other kind of virtue is like a banana tree: once it bears its fruit, it withers away and is spent. But the tree of bodhichitta constantly bears fruit, growing and flourishing without ever being exhausted. ^1-12
+Every other kind of virtue is like a banana tree:
+once it bears its fruit, it withers away and is spent.
+But the tree of bodhichitta
+constantly bears fruit, growing and flourishing without ever being exhausted. ^1-12
 
-Even someone who has done truly terrible wrong can be freed in an instant by relying on bodhichitta — the same way a person facing great danger is saved by relying on a hero. So why wouldn't a careful person rely on it? ^1-13
+Even someone who has done truly terrible wrong
+can be freed in an instant by relying on bodhichitta —
+the same way a person facing great danger is saved by relying on a hero.
+So why wouldn't a careful person rely on it? ^1-13
 
-Like the fire that consumes everything at the end of an age, bodhichitta burns away great wrongdoing in a single instant. The wise and loving Maitreya taught its boundless benefits well to Sudhana. ^1-14
+Like the fire that consumes everything at the end of an age,
+bodhichitta burns away great wrongdoing in a single instant.
+The wise and loving Maitreya
+taught its boundless benefits well to Sudhana. ^1-14
 
-In brief, bodhichitta comes in two forms: the wish to reach enlightenment, and actually engaging in that wish. ^1-15
+In brief, bodhichitta
+comes in two forms:
+the wish to reach enlightenment,
+and actually engaging in that wish. ^1-15
 
-Think of the difference between wanting to go somewhere and actually going there. In the same way, the wise should understand the same kind of difference between these two forms of bodhichitta. ^1-16
+Think of the difference
+between wanting to go somewhere and actually going there.
+In the same way, the wise should understand
+the same kind of difference between these two forms of bodhichitta. ^1-16
 
-Even within samsara, the wishing kind of bodhichitta produces great results. But unlike the engaging kind, it does not generate a steady, unbroken stream of merit. ^1-17
+Even within samsara,
+the wishing kind of bodhichitta produces great results.
+But unlike the engaging kind,
+it does not generate a steady, unbroken stream of merit. ^1-17
 
-But from the moment someone takes up that engaging mind with real determination — determined never to turn back until every single being, without exception, is set free — ^1-18
+But from the moment someone takes up that engaging mind
+with real determination —
+determined never to turn back
+until every single being, without exception, is set free — ^1-18
 
-from that moment on, an unbroken stream of merit flows out, as vast as the sky itself. It keeps flowing even while that person sleeps or loses focus. ^1-19
+from that moment on,
+an unbroken stream of merit flows out, as vast as the sky itself.
+It keeps flowing
+even while that person sleeps or loses focus. ^1-19
 
-The buddha himself taught this, with clear reasons, when Subahu asked him about it — for the sake of beings who aim a little lower. ^1-20
+The buddha himself taught this,
+with clear reasons,
+when Subahu asked him about it —
+for the sake of beings who aim a little lower. ^1-20
 
-Even the simple thought, "I wish I could take away just one person's headache," is a kind thought. And a kind thought like that already carries immeasurable merit. ^1-21
+Even the simple thought,
+"I wish I could take away just one person's headache,"
+is a kind thought.
+And a kind thought like that already carries immeasurable merit. ^1-21
 
-So what need is there to mention someone who wishes to free every single being from boundless suffering and bring each one immeasurable good qualities? ^1-22
+So what need is there to mention someone
+who wishes to free every single being from boundless suffering
+and bring each one
+immeasurable good qualities? ^1-22
 
-Does any mother or father carry a wish like this? Do the gods carry it? Do the great sages? Does even Brahma carry it? ^1-23
+Does any mother or father
+carry a wish like this?
+Do the gods carry it? Do the great sages?
+Does even Brahma carry it? ^1-23
 
-Those very beings have never, even in their own private dreams, wished such a thing for themselves. So how could it ever arise in them for someone else's sake? ^1-24
+Those very beings have never,
+even in their own private dreams,
+wished such a thing for themselves.
+So how could it ever arise in them for someone else's sake? ^1-24
 
-Most beings do not even wish this kind of good for themselves. So this rare and precious jewel of a mind — the wish to help others — is something truly new and amazing when it appears. ^1-25
+Most beings do not even wish this kind of good for themselves.
+So this rare and precious jewel of a mind —
+the wish to help others —
+is something truly new and amazing when it appears. ^1-25
 
-This jewel of a mind is the seed of joy for every being and the medicine for the whole world's suffering. How could anyone ever measure how good it is? ^1-26
+This jewel of a mind
+is the seed of joy for every being
+and the medicine for the whole world's suffering.
+How could anyone ever measure how good it is? ^1-26
 
-If simply wishing to help others is worth more than honoring the buddhas, then what is actually working for the happiness of every single being worth? ^1-27
+If simply wishing to help others
+is worth more than honoring the buddhas,
+then what is actually working
+for the happiness of every single being worth? ^1-27
 
-People want to escape suffering, yet they run straight toward it. They want happiness, yet, confused, they destroy their own happiness as if it were their worst enemy. ^1-28
+People want to escape suffering,
+yet they run straight toward it.
+They want happiness, yet, confused,
+they destroy their own happiness as if it were their worst enemy. ^1-28
 
-Imagine someone who takes those who have no happiness and are full of suffering, and fills them with every joy, and cuts away every one of their pains — ^1-29
+Imagine someone who takes those
+who have no happiness and are full of suffering,
+and fills them with every joy,
+and cuts away every one of their pains — ^1-29
 
-and who also clears away their confusion. Where could you find a friend like that? Where could you find such kindness? Where could you find such merit? ^1-30
+and who also clears away their confusion.
+Where could you find a friend like that?
+Where could you find such kindness?
+Where could you find such merit? ^1-30
 
-Even someone who simply repays a favor is praised for it. So what more should we say about a bodhisattva who helps others without even being asked? ^1-31
+Even someone who simply repays a favor
+is praised for it.
+So what more should we say about a bodhisattva
+who helps others without even being asked? ^1-31
 
-If someone gives a few people a simple meal just once — even barely enough to last them half a day, and even if they do it grudgingly — people already call that a good deed and honor them for it. ^1-32
+If someone gives a few people a simple meal just once —
+even barely enough to last them half a day,
+and even if they do it grudgingly —
+people already call that a good deed and honor them for it. ^1-32
 
-So what should we say about someone who gives countless beings, forever, the highest happiness there is, fulfilling their every wish completely? ^1-33
+So what should we say about someone
+who gives countless beings, forever,
+the highest happiness there is,
+fulfilling their every wish completely? ^1-33
 
-The buddha said that anyone who feels ill will toward such a generous bodhisattva will stay in a hellish state for as many ages as the number of harmful thoughts they had. ^1-34
+The buddha said that anyone
+who feels ill will toward such a generous bodhisattva
+will stay in a hellish state
+for as many ages as the number of harmful thoughts they had. ^1-34
 
-But if someone's mind turns bright and glad toward a bodhisattva instead, the good result grows even greater than that. Even when terrible things happen to them, bodhisattvas do not fall into wrongdoing — their goodness only grows naturally. ^1-35
+But if someone's mind turns bright and glad toward a bodhisattva instead,
+the good result grows even greater than that.
+Even when terrible things happen to them, bodhisattvas do not fall into wrongdoing —
+their goodness only grows naturally. ^1-35
 
-I bow before the body of anyone in whom this precious, sacred mind has arisen. I go for refuge to this source of happiness — even someone who harms it ends up connected to joy. ^1-36
+I bow before the body of anyone
+in whom this precious, sacred mind has arisen.
+I go for refuge to this source of happiness —
+even someone who harms it ends up connected to joy. ^1-36
 
 *Thus ends Chapter One: "The Benefits of Bodhichitta."* ^1-a
 

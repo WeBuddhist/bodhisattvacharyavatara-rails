@@ -12,7 +12,7 @@ treated as final (an LLM never marks its own output complete).
 
 | Scope checked |
 |---|
-| Chapter 1, verses 1-1 to 1-5 |
+| Chapter 1 — complete (verses 1-1 to 1-36) |
 
 ### Chapter 1 — verses 1-1 to 1-5
 

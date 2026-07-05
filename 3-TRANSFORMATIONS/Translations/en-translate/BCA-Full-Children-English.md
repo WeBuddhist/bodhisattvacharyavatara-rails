@@ -1,24 +1,17 @@
 ---
-ref: 1-10
-title: "Entering the Bodhisattva's Way of Life — Full Text (Beginner English)"
-transformation_type: translation
-track: en-beginner-audience
-context_packages:
-  - 1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md (^1-0–^10-a)
-  - 1-SOURCES/Text/BCAV08_SH_sk.md (^1-0–^10-a)
-source_chapters:
-  - Chapter-01.md
-  - Chapter-02.md
-  - Chapter-03.md
-  - Chapter-04.md
-  - Chapter-05.md
-  - Chapter-06.md
-  - Chapter-07.md
-  - Chapter-08.md
-  - Chapter-09.md
-  - Chapter-10.md
-generation_date: 2026-07-02
-status: draft
+file_type: translation
+root_text: 1-SOURCES\Translations\bo-བློ་ལྡན་ཤེས་རབ།.md
+title: The way of the bodhisattva - children's version
+lang_tag: en
+category_id: JD5ULLPAV1cxg7RSb7L3q
+license: public
+translator: Rails[op:Xz6QQW6yYdR111UgnnxJk] 
+source: https://webuddhist.com/
+alt_titles: Drops of Nectar from the Oral Transmission of the Mañjughoṣa Guru - children's version
+language: english
+text_id: kRgZd2LzCl9R8EaGUlqzG
+edition_id: MK6Dc0SRN9pcuJTrW0A5f
+toc_id: xKAIRHyC7LDfITYVo0krh
 ---
 
 # A Guide to the Bodhisattva's Way of Life

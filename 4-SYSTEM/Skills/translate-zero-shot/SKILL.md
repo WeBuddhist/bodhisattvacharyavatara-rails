@@ -3,12 +3,12 @@ name: translate-zero-shot
 description: >
   Zero-shot translation of the Bodhisattvacaryāvatāra from the Tibetan source
   (bo-བློ་ལྡན་ཤེས་རབ།.md) cross-checked against the Sanskrit root text
-  (BCAV08_SH_sk.md) into a localized audience track (beginner, general, or
-  scholarly) when 2-RAILS/ verse packages are not yet complete. Sets up the
+  (BCAV08_SH_sk.md) into a localized audience track (children, plain, or
+  scholar) when 2-RAILS/ verse packages are not yet complete. Sets up the
   track folder, translates chapter by chapter, updates termbase.md, and merges
   into a full-text file. Use when the user asks for zero-shot translation,
-  translate from Tibetan/Sanskrit sources, localize beginner-audience (or
-  general/scholarly) for a target language, translate BCA by chapter, or merge
+  translate from Tibetan/Sanskrit sources, localize children-audience (or
+  plain/scholar) for a target language, translate BCA by chapter, or merge
   chapter translation chunks.
 ---
 
@@ -16,7 +16,7 @@ description: >
 
 Produces a full *Bodhisattvacaryāvatāra* translation track directly from `1-SOURCES/` when `2-RAILS/Verses/<verse-id>.md` packages are not yet `status: complete`. The Tibetan translation is the primary meaning source; the Sanskrit root text resolves ambiguity (homonyms, pāda breaks, philosophical terms). Output matches the vault's transformation conventions: localized `requirements.md` / `audience.md` / `termbase.md`, one `Chapter-NN.md` per chapter, then one merged full-text file.
 
-**Reference implementation:** `3-TRANSFORMATIONS/Translations/en-beginner-audience/` (Chapters 1–10 + `BCA-Full-Beginner-English.md`).
+**Reference implementation:** `3-TRANSFORMATIONS/Translations/en-children-audience/` (Chapters 1–10 + `BCA-Full-Children-English.md`).
 
 ---
 
@@ -25,7 +25,7 @@ Produces a full *Bodhisattvacaryāvatāra* translation track directly from `1-SO
 | Input | Required | Description |
 |---|---|---|
 | **Target language** | ✓ | ISO-style code or short name, e.g. `en`, `hi`. Determines track folder prefix. |
-| **Audience level** | ✓ | `beginner`, `general`, or `scholarly`. Maps to template folder and track suffix. |
+| **Audience level** | ✓ | `children`, `plain`, or `scholar`. Maps to template folder and track suffix. |
 | **Chapter scope** | optional | Single chapter (`3`), range (`1-3`), or `all` (default: `all` = chapters 1–10). |
 | **Merge** | optional | `yes` (default) or `no`. When `yes`, run merge after all requested chapters exist. |
 
@@ -42,9 +42,9 @@ If target language or audience level is missing, ask before proceeding.
 
 | Audience | Template folder |
 |---|---|
-| `beginner` | `3-TRANSFORMATIONS/Translations/beginner-audience/` |
-| `general` | `3-TRANSFORMATIONS/Translations/general-audience/` |
-| `scholarly` | `3-TRANSFORMATIONS/Translations/scholarly-audience/` |
+| `children` | `3-TRANSFORMATIONS/Translations/children-audience/` |
+| `plain` | `3-TRANSFORMATIONS/Translations/plain-audience/` |
+| `scholar` | `3-TRANSFORMATIONS/Translations/scholar-audience/` |
 
 ### Track folder (output root)
 
@@ -52,7 +52,7 @@ If target language or audience level is missing, ask before proceeding.
 3-TRANSFORMATIONS/Translations/<lang>-<audience>-audience/
 ```
 
-Examples: `en-beginner-audience`, `en-general-audience`, `hi-scholarly-audience`.
+Examples: `en-children-audience`, `en-plain-audience`, `hi-scholar-audience`.
 
 ---
 
@@ -131,7 +131,7 @@ status: draft
 5. **One chapter per save.** Translate and write one `Chapter-NN.md` at a time. Long chapters (5, 8, 9) may be read in sections but must be written as one complete chapter file.
 6. **Register fidelity.** Follow the localized `requirements.md` and `audience.md` strictly — sentence length, loanword policy, footnote ban, verse-as-prose rule.
 7. **Sanskrit is reference only.** When Tibetan and Sanskrit diverge, prefer the Tibetan line as the meaning base; use Sanskrit to disambiguate, not to override the Tibetan translation file without flagging the issue in a comment.
-8. **Sensitive verses.** Verses with outdated cultural assumptions (e.g. `^10-30`) get a brief bracketed editorial note in beginner/general tracks; scholarly track may use a footnote-style aside only if `requirements.md` allows it.
+8. **Sensitive verses.** Verses with outdated cultural assumptions (e.g. `^10-30`) get a brief bracketed editorial note in children/plain tracks; scholar track may use a footnote-style aside only if `requirements.md` allows it.
 9. **Do not hallucinate.** Translate only what is in the source. No invented explanations, no dropped pādas, no merged verses.
 10. **Merge is deterministic.** After all chapters exist, merge with the bundled script — do not hand-stitch the full text.
 
@@ -159,7 +159,7 @@ If `track_dir` does not exist:
      - Reference: `1-SOURCES/Text/BCAV08_SH_sk.md`
      - Fallback rule: use zero-shot when verse rails are not `status: complete`.
 3. Copy and localize `template_dir/audience.md` → `track_dir/audience.md`.
-4. Seed `track_dir/termbase.md` with core terms (bodhichitta, bodhisattva, Buddha epithets, dharma, samsara, kleśa, śūnyatā, karma, nirvana, Three Jewels). Use `en-beginner-audience/termbase.md` as a structural example.
+4. Seed `track_dir/termbase.md` with core terms (bodhichitta, bodhisattva, Buddha epithets, dharma, samsara, kleśa, śūnyatā, karma, nirvana, Three Jewels). Use `en-children-audience/termbase.md` as a structural example.
 
 If the track folder already exists, read its three governing files and continue — do not overwrite them.
 
@@ -207,14 +207,14 @@ python 4-SYSTEM/Skills/translate-zero-shot/scripts/merge_chapters.py \
   --output "BCA-Full-<Audience>-<Language>.md"
 ```
 
-Example (English beginner):
+Example (English children):
 
 ```bash
 python 4-SYSTEM/Skills/translate-zero-shot/scripts/merge_chapters.py \
-  "3-TRANSFORMATIONS/Translations/en-beginner-audience" \
-  --track "en-beginner-audience" \
-  --title "Entering the Bodhisattva's Way of Life — Full Text (Beginner English)" \
-  --output "BCA-Full-Beginner-English.md"
+  "3-TRANSFORMATIONS/Translations/en-children-audience" \
+  --track "en-children-audience" \
+  --title "Entering the Bodhisattva's Way of Life — Full Text (Children English)" \
+  --output "BCA-Full-Children-English.md"
 ```
 
 ### Step 5 — Self-check before handoff

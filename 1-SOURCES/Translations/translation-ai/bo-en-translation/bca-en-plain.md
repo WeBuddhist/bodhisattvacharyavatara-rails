@@ -35,9 +35,9 @@ Homage to all buddhas and bodhisattvas. ^I-3
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-1]]
 
 I bow with deep respect to the buddhas,  
-To the dharma they embody, to their bodhisattva heirs,  
+Who possess the truth body, to their bodhisattva heirs,  
 And to all who deserve reverence. Following the scriptures,  
-I will now explain briefly how to enter this way of life. ^1-1
+I will now explain briefly how to enter the bodhisattva's vows. ^1-1
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-2]]
 
@@ -48,8 +48,8 @@ I have written it simply to cultivate my own mind. ^1-2
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-3]]
 
-Still, writing this may strengthen my faith  
-In virtue and help it grow. And if someone else,  
+Still, as I cultivate virtue, the force of my faith  
+May for now grow stronger through these words. And if someone else,  
 Whose fortune matches mine, happens to read it,  
 Perhaps it will be worthwhile for them too. ^1-3
 
@@ -63,7 +63,7 @@ When will a chance like this ever come again? ^1-4
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-5]]
 
 On a dark, cloudy night, a flash of lightning  
-Lights up the sky for a single instant.  
+Reveals what lies around for a single instant.  
 In the same way, through the power of the buddhas,  
 Good and beneficial thoughts arise only rarely. ^1-5
 
@@ -72,14 +72,14 @@ Good and beneficial thoughts arise only rarely. ^1-5
 That is why our virtue is always so fragile,  
 While the force of wrongdoing is immense and terrifying.  
 Nothing at all can ever overpower it  
-Except the power of bodhichitta. ^1-6
+Except for perfect bodhichitta. ^1-6
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-7]]
 
 The great buddhas reflected across countless ages  
 And saw that this alone truly helps.  
 Through it, boundless numbers of beings  
-Can easily reach the highest happiness. ^1-7
+Can easily reach the supreme bliss of awakening. ^1-7
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-8]]
 
@@ -163,19 +163,19 @@ Without exception, is completely set free — ^1-18
 From that moment on, an unbroken stream of merit  
 Flows out, as vast as the sky itself.  
 It keeps on flowing even while that person  
-Lies asleep or loses their focus. ^1-19
+Lies asleep or grows heedless. ^1-19
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-20]]
 
 The buddha himself taught this,  
-With clear reasons, when Subahu asked him,  
+With clear reasons, in the sutra Subahu requested,  
 Explaining it for the sake of those  
-Who aim a little lower on the path. ^1-20
+Who are inclined toward the lesser vehicle. ^1-20
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-21]]
 
 Even the simple thought, “I wish that I  
-Could take away just one being's headache,”  
+Could take away a few beings' headaches,”  
 Is a caring and beneficial intention  
 That already carries immeasurable merit. ^1-21
 
@@ -209,10 +209,10 @@ Is something new and amazing when it appears. ^1-25
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-26]]
 
-This jewel of a mind is the very seed  
+This jewel of a mind is the very cause  
 Of joy and happiness for every being,  
 And the medicine for the whole world's suffering.  
-How could anyone measure how good it is? ^1-26
+How could anyone measure the merit it holds? ^1-26
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-27]]
 
@@ -230,16 +230,16 @@ They destroy it as though it were their enemy. ^1-28
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-29]]
 
-Imagine one who takes those beings  
-Who have no joy and are full of suffering,  
-And fills them with every kind of happiness,  
+To those beings who have no joy  
+And are full of suffering,  
+Bodhichitta brings every kind of happiness,  
 And cuts away every one of their pains — ^1-29
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-30]]
 
-And who also clears away their confusion.  
-Where could you ever find a friend like that?  
-Where could you find such boundless kindness?  
+And it also clears away their confusion.  
+Where could you find such goodness as this?  
+Where could you find such a friend?  
 And where could you find such merit? ^1-30
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-31]]
@@ -260,7 +260,7 @@ People still call it good and honor them. ^1-32
 
 So what then should we say about the one  
 Who gives to countless beings, forever,  
-The highest happiness that there is,  
+The unsurpassed bliss of a buddha,  
 Fulfilling their every wish completely? ^1-33
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-34]]

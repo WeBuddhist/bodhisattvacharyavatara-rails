@@ -2,8 +2,9 @@
 book_id: BCAC20_NKW_bo
 title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ཞེས་བྱ་བའི་འགྲེལ་པ།
 title_in_english: Commentary on Entering the Bodhisattva's Way of Life
-author: ངག་དབང་ཀུན་དགའ་དབང་ཕྱུག
-author_in_english: Ngakwang Kunga Wangchuk
+author:
+  - མཁན་པོ་ཀུན་དགའ་དབང་ཕྱུག
+author_in_english: Kunga Wangchuk
 file_type: commentary
 language: Tibetan
 lang_tag: bo

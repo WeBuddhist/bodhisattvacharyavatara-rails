@@ -8,6 +8,9 @@ Method: strict term-by-term alignment against the commentary's own glosses
 self-check, not a scholarly sign-off — a domain specialist reviews before this is
 treated as final (an LLM never marks its own output complete).
 
+> **Status (2026-07-06): all errors and softening notes below have been applied to
+> `bca-en-plain.md`.** Rows are retained as a record of what was changed.
+
 ## Progress
 
 | Scope checked |

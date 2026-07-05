@@ -35,8 +35,8 @@
 **འགྲེལ་བཤད།** དལ་འབྱོར་གྱི་མི་ལུས་རྙེད་དཀའ་ལ། ད་ལྟ་ཕན་པ་མ་བསྒྲུབས་ན་ཕྱིས་སུ་ཐོབ་མི་སྲིད་པར་གསུངས། དུས་ཚོད་ནི་ཤིན་ཏུ་གལ་ཆེ་བས་ཆུ་ཚོད་གཅིག་དགེ་བར་བཀོལ་བ་ནི་བརྩོན་འགྲུས་ཀྱི་ཉམས་ལེན་ཡིན།
 
 **English (A2 draft):**
-**Practice**: Today, I will spend one hour doing something good. I will not spend this hour on my phone or other distractions.
-**Explanation**: This verse says: a human life is very special and hard to get. If we do not do good things now, we may not get this chance again. Today, if you use one hour to do something good, you follow this teaching. You act now — you do not wait.
+**Practice**: Today, I will spend one hour doing something good instead of using my phone.
+**Explanation**: This verse says: a human life is very special and hard to get. If we do not do good things now, we may not get this chance again. Today, if you use one hour to do something good, you follow this teaching. You act now. You do not wait.
 
 **Hindi:**
 **अभ्यास**: आज मैं एक घंटा स्क्रीन या व्यर्थ कार्यों की बजाय किसी पुण्य कार्य में लगाऊँगा।
@@ -56,7 +56,7 @@
 **འགྲེལ་བཤད།** སངས་རྒྱས་རྣམས་ཀྱིས་བསྐལ་པ་དུ་མར་དགོངས་ཤིང་གཟིགས་པའི་མཐར་བདེ་མཆོག་ཐོབ་པའི་ཐབས་ལམ་ནི་བྱང་ཆུབ་ཀྱི་སེམས་ཡིན་པར་གསུངས། བྱ་བ་རེ་རེར་བྱང་ཆུབ་ཀྱི་སེམས་དམིགས་ནས་སྒྲུབ་པ་ནི་སངས་རྒྱས་ཀྱི་བཞེད་པ་དང་མཐུན་པའི་ཉམས་ལེན་ཡིན།
 
 **English (A2 draft):**
-**Practice**: Today, before I do anything, I will think of bodhicitta — the wish to help all beings.
+**Practice**: Today, before I do anything, I will think of bodhicitta, the wish to help all beings.
 **Explanation**: This verse says: the Buddhas thought about this for a very long time. They saw that bodhicitta helps beings the most. It brings the greatest happiness. When you start each activity with bodhicitta, you follow the same wisdom the Buddhas taught.
 
 **Hindi:**
@@ -77,7 +77,7 @@
 **འགྲེལ་བཤད།** བྱང་ཆུབ་ཀྱི་སེམས་སྐྱེས་པ་ཙམ་གྱིས་འཁོར་བར་འཆིང་བ་རྣམས་བདེ་གཤེགས་ཀྱི་སྲས་སུ་བརྗོད་ཅིང་། ལྷ་མིར་བཅས་པས་ཕྱག་བྱར་འགྱུར་བར་གསུངས། སེམས་ཤུགས་ཆེན་པོས་སྨོན་ལམ་ཀློག་པ་ནི་དེའི་འགྱུར་ལྡོག་ལ་ལག་ལེན་བསྟར་བ་ཡིན།
 
 **English (A2 draft):**
-**Practice**: Today, I will say the bodhicitta prayer one time. I will say it with a true and open heart.
+**Practice**: Today, I will say the bodhicitta prayer once with a true and open heart.
 **Explanation**: This verse says: when bodhicitta appears in someone's mind, that person is now called a child of the Buddhas. Even gods and humans respect this person. Today, when you say the prayer with a true heart, this same change can happen in you.
 
 **Hindi:**
@@ -98,7 +98,7 @@
 **འགྲེལ་བཤད།**: (རང་སེམས་འདུལ་བ་དང་དགེ་བ་བྱ་བ།) ཚིགས་བཅད་འདིའི་ནང་མི་དཔའ་བོ་ཞིག་ལ་བརྟེན་ན་འཇིགས་པ་ལས་ཐར་བ་བཞིན། བྱང་ཆུབ་ཀྱི་སེམས་ལ་བརྟེན་ན་སྡིག་པ་ཆེན་པོ་ལས་སྐད་ཅིག་གིས་ཐར་ཐུབ་པར་གསུངས་ཡོད། དེར་བརྟེན་རང་གི་ནོར་འཁྲུལ་ལ་འགྱོད་པ་བསྐྱེད་དེ་བྱང་ཆུབ་ཀྱི་སེམས་སྒོམ་པ་ནི་དེ་རིང་གི་སྤྱོད་འཇུག་ཚིགས་བཅད་འདིའི་དགོངས་དོན་དང་མཐུན་པའི་ཉམས་ལེན་རྣལ་མ་དེ་ཡིན།
 
 **English (A2 draft):**
-**Action**: Today, I will meditate on bodhicitta for ten minutes. This will help clean my past mistakes.
+**Action**: Today, I will meditate on bodhicitta for ten minutes to clean my past mistakes.
 **Explanation**: This verse gives an example. A brave hero can save you from danger. In the same way, bodhicitta can free you from heavy bad karma very fast. Today, feel sorry for your past mistakes. Then meditate on bodhicitta. This is what the verse teaches you to do.
 
 **Hindi**:
@@ -119,8 +119,8 @@
 **འགྲེལ་བཤད།** འགྲོ་བར་འདོད་པ་དང་དངོས་སུ་འགྲོ་བའི་ཁྱད་པར་ལྟར། སྨོན་སེམས་དང་འཇུག་སེམས་ཀྱི་ཁྱད་པར་མཁས་པས་ཤེས་དགོས་པར་གསུངས། དངོས་སུ་གྲོགས་རམ་བྱེད་པ་ནི་འཇུག་སེམས་ཀྱི་ཉམས་ལེན་ཡིན།
 
 **English (A2 draft):**
-**Practice**: Today, I will really help someone who needs help. I will not only wish them well — I will do something real.
-**Explanation**: This verse explains two kinds of bodhicitta. One is "wishing to go" — you want to help. The other is "actually going" — you help for real. Wise people know this difference. Today, when you move from wishing to acting, you practice the second kind: engaged bodhicitta.
+**Practice**: Today, I will really help someone who needs help, not just wish them well.
+**Explanation**: This verse explains two kinds of bodhicitta. One is "wishing to go": you want to help. The other is "actually going": you help for real. Wise people know this difference. Today, when you move from wishing to acting, you practice the second kind: engaged bodhicitta.
 
 **Hindi:**
 **अभ्यास**: आज मैं किसी जरूरतमंद की केवल शुभकामना करने से आगे बढ़कर एक ठोस सहायता करूँगा।
@@ -140,8 +140,8 @@
 **འགྲེལ་བཤད།** བྱང་ཆུབ་ཀྱི་སེམས་ལ་བརྟེན་ནས་གཉིད་ལོག་གམ་བག་མེད་དུ་གནས་ཀྱང་། བསོད་ནམས་ནམ་མཁའ་མཉམ་པར་རྒྱུན་མི་འཆད་པར་འབྱུང་བར་གསུངས། གཉིད་ལོག་སྔོན་བསྔོ་བ་བྱེད་པ་ནི། དེའི་རྒྱུན་མི་འཆད་པའི་བསོད་ནམས་སྒོ་འབྱེད་པའི་ལག་ལེན་ཡིན།
 
 **English (A2 draft):**
-**Practice**: Before I sleep tonight, I will dedicate all my good actions from today. I do this for the benefit of all beings.
-**Explanation**: This verse says: from now on, good merit can grow all the time — even when you sleep or are not paying attention. It grows like the sky: without end. When you dedicate your merit before sleep, you open this endless flow of goodness.
+**Practice**: Before I sleep tonight, I will dedicate all of today's good actions to all beings.
+**Explanation**: This verse says: from now on, good merit can grow all the time, even when you sleep or are not paying attention. It grows like the sky: without end. When you dedicate your merit before sleep, you open this endless flow of goodness.
 
 **Hindi:**
 **अभ्यास**: आज रात सोने से पहले मैं आज के सभी पुण्य कार्यों को सभी प्राणियों के हित में समर्पित करूँगा।
@@ -203,7 +203,7 @@
 **འགྲེལ་བཤད།** སྡུག་བསྔལ་འདོར་འདོད་ཀྱང་སྡུག་བསྔལ་ལ་རྒྱུགས་ཤིང་། བདེ་བ་འདོད་ཀྱང་གཏི་མུག་གིས་རང་གི་བདེ་བ་དགྲ་ལྟར་འཇོམས་པར་གསུངས། གོམས་གཤིས་ངན་པ་སྤང་བ་ནི་གཏི་མུག་ལས་ལྡོག་སྟེ་ཤེས་རབ་ལ་སྦྱར་བའི་ལག་ལེན་ཡིན།
 
 **English (A2 draft):**
-**Practice**: Today, I will stop doing one habit. I know this habit brings me more suffering.
+**Practice**: Today, I will stop doing one habit that brings me suffering.
 **Explanation**: This verse says: people want to escape suffering, but they run toward it instead. Confusion makes them destroy their own happiness, like an enemy would. Today, when you stop one bad habit, you fight this confusion. You use wisdom instead.
 
 **Hindi:**
@@ -224,7 +224,7 @@
 **འགྲེལ་བཤད།** གཏི་མུག་སེལ་བྱེད་བྱང་ཆུབ་ཀྱི་སེམས་དང་མཚུངས་པའི་བཤེས་གཉེན་དང་བསོད་ནམས་ཡོད་དམ་ཞེས་གསུངས། གཏི་མུག་སྐྱེས་ཚེ་བྱང་ཆུབ་ཀྱི་སེམས་རྗེས་སུ་དྲན་པ་ནི། སེམས་ལ་ཞི་བ་སྟེར་བའི་ཤེས་རབ་ཀྱི་ལག་ལེན་ཡིན།
 
 **English (A2 draft):**
-**Practice**: Today, when I feel angry or confused, I will remember bodhicitta right away. This will calm my mind.
+**Practice**: Today, the moment I feel angry or confused, I will remember bodhicitta to calm my mind.
 **Explanation**: This verse asks: is there any friend or any merit as good as bodhicitta for removing confusion? No, there is not. Today, the moment anger or confusion appears, remember bodhicitta. This is the strongest way to calm and train your mind.
 
 **Hindi:**
@@ -245,8 +245,8 @@
 **འགྲེལ་བཤད།** ཕན་བཏགས་པའི་ལན་ལྡོན་ཙམ་བསྔགས་འོས་ན་མ་བཅོལ་བར་ལེགས་པ་མཛད་པའི་བྱང་ཆུབ་སེམས་དཔའི་སྐོར་སྨོས་ཅི་དགོས་ཞེས་གསུངས། མ་བཅོལ་བར་གྲོགས་རམ་བྱེད་པ་ནི་གཡོ་མེད་ཀྱི་སྦྱིན་པའི་ཉམས་ལེན་ཡིན།
 
 **English (A2 draft):**
-**Practice**: Today, I will help someone with something they need — before they ask me.
-**Explanation**: This verse says: even a person who repays a favor deserves praise. So think about a bodhisattva, who helps without being asked — this is even better! Today, when you help before anyone asks, you show this same pure generosity.
+**Practice**: Today, I will help someone with something they need, before they ask me.
+**Explanation**: This verse says: even a person who repays a favor deserves praise. So think about a bodhisattva, who helps without being asked. This is even better! Today, when you help before anyone asks, you show this same pure generosity.
 
 **Hindi:**
 **अभ्यास**: आज मैं किसी व्यक्ति की जरूरत में माँगे बिना ही सहायता करूँगा।
@@ -266,7 +266,7 @@
 **འགྲེལ་བཤད།** རྒྱལ་སྲས་སྦྱིན་བདག་ལ་ངན་སེམས་བསྐྱེད་ན་གྲངས་བཞིན་བསྐལ་པར་དམྱལ་བར་གནས་པར་གསུངས། ཕན་འདོགས་མཁན་ལ་དྲིན་དྲན་ཞིང་སྨད་སེམས་སྤང་བ་ནི་བཟོད་པའི་ཉམས་ལེན་དང་། ལས་འབྲས་ལ་བག་ཡོད་པའི་ལམ་ཡིན།
 
 **English (A2 draft):**
-**Practice**: Today, I will feel real thankfulness for people who helped me. I will not criticize them.
+**Practice**: Today, I will feel real thankfulness for people who helped me, and I will not criticize them.
 **Explanation**: This verse gives a warning: if you think badly about a bodhisattva, you will suffer for a very long time. Today, feel deep thankfulness for people who help you. Do not think critical thoughts about them. This trains patience and protects you from bad karma.
 
 **Hindi:**
@@ -287,9 +287,10 @@
 **འགྲེལ་བཤད།** རྒྱལ་སྲས་ལ་ཡིད་རབ་དང་བྱེད་ན་འབྲས་བུ་ལྷག་པར་འཕེལ་ལ་དཀའ་ངལ་གྱི་སྐབས་སུ་ཡང་དགེ་བ་ངང་གིས་འཕེལ་བར་གསུངས། ལམ་སྟོན་པའི་དྲིན་དྲན་ནས་མོས་གུས་བསྐྱེད་པ་ཙམ་གྱིས་ཀྱང་དགེ་བ་ལྷུར་ལེན་མེད་པར་འཕེལ་བར་འགྱུར།
 
 **English (A2 draft):**
-**Practice**: Today, I will remember my teacher's kindness. I will feel true faith and respect for them.
-**Explanation**: This verse says: if you have faith in a bodhisattva, this brings even bigger results. Even in hard times, good qualities grow by themselves. Today, when you remember your teacher's kindness with true respect, goodness grows in you naturally — without effort.
+**Practice**: Today, I will remember my teacher's kindness and feel true faith and respect for them.
+**Explanation**: This verse says: if you have faith in a bodhisattva, this brings even bigger results. Even in hard times, good qualities grow by themselves. Today, when you remember your teacher's kindness with true respect, goodness grows in you naturally, without effort.
 
 **Hindi:**
 **अभ्यास**: आज मैं अपने आध्यात्मिक गुरु की कृपा का स्मरण करके उनके प्रति सच्ची श्रद्धा और सम्मान की भावना जगाऊँगा।
 **व्याख्या**: यह श्लोक कहता है कि बोधिसत्त्व के प्रति श्रद्धा जगाने से फल और भी बढ़ता है और कठिनाइयों में भी पुण्य स्वाभाविक रूप से फलता है। गुरु की कृपा का सच्चे भाव से स्मरण करने पर बिना प्रयास के ही पुण्य वृद्धि होती है।
+                                                                                                                                                                                              

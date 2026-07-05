@@ -212,135 +212,330 @@ even someone who harms it ends up connected to joy. ^1-36
 
 ## Chapter 2: Confessing Wrongdoing
 
-To truly hold on to that precious bodhichitta, I now make offerings — to the buddhas, to the pure dharma, that flawless jewel, and to the bodhisattvas, who are like oceans of good qualities. ^2-1
-
-I offer every flower and fruit that exists, every kind of medicine, every jewel in the world, and every clear, lovely stretch of water. ^2-2
-
-I offer mountains made of jewels, the quiet, beautiful forests, the trees covered in blossoms, and the branches bending under ripe fruit. ^2-3
-
-I offer the sweet scents of heaven, incense, wish-fulfilling trees, and trees made of jewels. I offer crops that grow without anyone planting them, and every other beautiful thing worth giving. ^2-4
-
-I offer lakes covered in lotus flowers, where swans sing beautifully. I offer everything, all the way out to the edges of endless space — everything that belongs to no one at all. ^2-5
-
-I hold all of this in my mind and offer it to the buddhas and to their heirs, the bodhisattvas. Great, compassionate ones, please think of me kindly and accept these gifts. ^2-6
-
-I have so little merit of my own, and I am truly poor — I have nothing else worth giving. So please, you who care about helping others, accept this offering anyway, for my sake, through your own great power. ^2-7
-
-I give my whole self, forever, to the buddhas and their heirs. Please, greatest of beings, take me as your own. With deep respect, I will serve you. ^2-8
-
-Now that you have taken me in, I will have no fear, even in this hard life, and I can truly help others. I will leave my past wrongdoing behind me, and from now on, I will not do such things again. ^2-9
-
-Picture a bathing hall that smells wonderful, with a floor of clear, shining crystal. Its pillars glow with jewels, and pearls hang shimmering from a canopy above. ^2-10
-
-There, with jeweled vases full of sweet-smelling water, and with music and singing all around, I offer a bath to the buddhas and to their heirs. ^2-11
-
-I dry their bodies with the finest cloths, clean and beautifully scented. Then I offer them lovely robes in beautiful colors, filled with sweet fragrance. ^2-12
-
-With soft, fine clothes of every kind, and with hundreds of beautiful ornaments, I also dress the great bodhisattvas — Samantabhadra, Manjushri, Avalokiteshvara, and all the rest. ^2-13
-
-With the finest perfumes, whose scent spreads through the whole universe, I anoint the bodies of every buddha — bodies that shine like polished gold. ^2-14
-
-I offer the buddhas, who deserve the highest respect, beautiful flowers of every kind — soft blossoms, lotuses, and sweet-smelling garlands woven with care. ^2-15
-
-I offer clouds of the finest incense, its beautiful scent drifting through the air. And I offer heavenly food and drink of every kind. ^2-16
-
-I offer rows of jeweled lamps set upon golden lotus flowers. And on ground perfumed with incense, I scatter petals of beautiful flowers. ^2-17
-
-I offer great palaces filled with beautiful songs of praise, hung with strings of pearls and jewels that fill the whole sky — I offer all of this to those whose very nature is compassion. ^2-18
-
-I offer beautiful jeweled umbrellas with golden handles, decorated all around, raised high and graceful — I offer these always to the buddhas. ^2-19
-
-And beyond all these, may there always be — everywhere — great clouds of offerings, filled with beautiful music, that soothe every being's suffering and bring them peace. ^2-20
-
-May flowers and jewels rain down endlessly on the true dharma, on the Three Jewels — the buddha, the teaching, and the sangha — and on every sacred shrine and image. ^2-21
-
-Just as Manjushri and the other great bodhisattvas once made offerings to the buddhas, I now make the very same offerings to the buddhas and their heirs. ^2-22
-
-With endless songs of praise, I praise these beings whose good qualities run as deep as the ocean. May clouds of beautiful praise rise up before them, again and again, forever. ^2-23
-
-I bow down before every buddha of the past, present, and future, and before the dharma and the whole sangha. I bow with as many bodies as there are specks of dust in the universe. ^2-24
-
-I bow to the places where bodhichitta first arose, and to every sacred shrine. I bow to the teachers, the masters, and to those who live by the highest discipline. ^2-25
-
-Until I reach full enlightenment myself, I take refuge in the buddhas. In the same way, I take refuge in the dharma, and in the whole sangha of bodhisattvas. ^2-26
-
-To the perfect buddhas everywhere, and to their compassion and their students' rising bodhichitta, I join my palms together and make this request. ^2-27
-
-Throughout this endless samsara, in this life and in every life before it, whatever wrong I have done myself, or caused someone else to do, ^2-28
-
-or whatever wrong I felt glad about — overpowered as I was by confusion — now that I see these mistakes clearly, I confess every one of them, from the bottom of my heart, before the buddhas. ^2-29
-
-Whatever harm I have caused — through my body, my speech, or my mind, driven by destructive emotions — to the Three Jewels, to my parents, or to any other teacher, ^2-30
-
-whatever terrible wrong I, someone marked by so many faults, have done — I confess all of it now, before every buddha who has ever guided beings. ^2-31
-
-Maybe death will come for me before I have cleared away this wrongdoing. Please protect me quickly, so I can truly be freed from it in time. ^2-32
-
-Death is not something we can trust or predict. It does not wait until our work is finished. Whether we are healthy or sick, we can never be sure of tomorrow. ^2-33
-
-I never truly understood that I would have to leave everything behind one day. Because of that, I have done all kinds of wrong — for people I love, and against people I dislike. ^2-34
-
-The people I dislike will be gone one day. The people I love will be gone too. I myself will be gone. Everything, in the end, disappears. ^2-35
-
-Everything I have ever enjoyed becomes just a memory, like something from a dream. Once it is gone, it is gone — we can never see it again. ^2-36
-
-Even in this one lifetime, many people I loved, and many I disliked, have already died and gone. But the wrong I did because of them is still right here, waiting for me. ^2-37
-
-I never really understood that I too am only passing through this life. Because of that, driven by confusion, attachment, and anger, I have done wrong again and again. ^2-38
-
-Day and night, without ever stopping, my life is running out. No extra time is ever added back in. So how could I possibly avoid dying one day? ^2-39
-
-When I lie there dying, even if everyone I love is gathered around me, I will be completely alone in feeling that pain — no one else can feel it for me. ^2-40
-
-When Yama's messengers finally come for me, what good will family do? What good will friends do? Only merit can protect me then — and I have built so little of it. ^2-41
-
-I have been so careless, buddhas. I never really understood a danger this serious. And because of that, I have piled up so much wrongdoing, just for the sake of this short life. ^2-42
-
-Think of someone being led away to lose an arm or a leg. Even before it happens, they are already terrified — mouth dry, eyes wide with fear, completely changed from how they looked before. ^2-43
-
-So imagine, then, how much worse it is to be seized by the terrifying messengers of Yama, and struck by fear and sickness beyond anything we know. ^2-44
-
-"Who can truly save me from this terrible fear?" — with eyes wide open in panic, that person searches every direction, looking for anyone who can help. ^2-45
-
-Seeing no help anywhere, in any direction, that person falls into complete despair. And if there really is no refuge anywhere — what will I do, when my own time comes? ^2-46
-
-That is why, starting today, I take refuge in the buddhas — the protectors of the world, who work so hard to keep every being safe, and whose great power can dispel any fear. ^2-47
-
-In the same way, I take refuge in their dharma too — the teaching that clears away all the fears of samsara — and in the whole sangha of bodhisattvas. ^2-48
-
-Trembling with fear, I offer myself to the bodhisattva Samantabhadra. I offer my whole self to the bodhisattva Manjushri. ^2-49
-
-And to the compassionate Avalokiteshvara, whose kindness never fails, I cry out in desperation: "Please, protect me, even though I have done wrong." ^2-50
-
-I cry out from the depths of my heart, seeking refuge in Akashagarbha, Kshitigarbha, and every great and compassionate protector there is. ^2-51
-
-I take refuge in Vajrapani, the bodhisattva so powerful that even the terrifying messengers of Yama flee in fear at the mere sight of him. ^2-52
-
-In the past, I ignored what you taught. But now that I truly see this danger, I take refuge in you. Please, clear away this fear quickly. ^2-53
-
-If we are afraid of an ordinary illness, we still listen to the doctor's advice. So how much more should I listen to good advice, when I am sick again and again with faults like craving and anger? ^2-54
-
-Just one of these harmful states of mind is enough to destroy every person on earth. And no other medicine for it can be found anywhere in the world. ^2-55
-
-So refusing to follow the advice of the one doctor who knows everything, and who can heal every kind of pain — that would be the height of foolishness. ^2-56
-
-If we are careful even standing near a small, everyday cliff, how much more careful should we be about a fall that could last for ages, into the deepest suffering there is? ^2-57
-
-It is not okay to relax and think, "I definitely will not die today." The time when I will cease to exist is absolutely certain to come. ^2-58
-
-Who can promise me safety from death? How can I be sure I will escape it? Since it is certain that I will not be here forever, how can my mind possibly feel at ease? ^2-59
-
-What is actually left of all the things I once enjoyed, now that they are gone? And yet, clinging to them so tightly, I even went against the good advice of my teachers. ^2-60
-
-Since I must one day leave this life behind — leaving every friend and relative — and travel on completely alone, what does it really matter, in the end, who I loved and who I disliked? ^2-61
-
-"How can I be free from the suffering that wrongdoing brings?" This is the one thought that deserves my attention, day and night, all the time. ^2-62
-
-Whatever wrong I have done, out of not knowing any better — whether it was wrong by its very nature, or wrong because it broke a commitment I made — ^2-63
-
-standing right there before the buddhas, palms joined together, afraid of the suffering it will bring, I bow again and again, and I confess every bit of it. ^2-64
-
-Buddhas, please accept that I have truly done wrong. None of it was good — so from now on, I will never do it again. ^2-65
+To truly hold on to that precious bodhichitta,
+I now make offerings — to the buddhas,
+to the pure dharma, that flawless jewel,
+and to the bodhisattvas, who are like oceans of good qualities. ^2-1
+
+I offer every flower and fruit that exists,
+every kind of medicine,
+every jewel in the world,
+and every clear, lovely stretch of water. ^2-2
+
+I offer mountains made of jewels,
+the quiet, beautiful forests,
+the trees covered in blossoms,
+and the branches bending under ripe fruit. ^2-3
+
+I offer the sweet scents of heaven, incense,
+wish-fulfilling trees, and trees made of jewels.
+I offer crops that grow without anyone planting them,
+and every other beautiful thing worth giving. ^2-4
+
+I offer lakes covered in lotus flowers,
+where swans sing beautifully.
+I offer everything, all the way out to the edges of endless space —
+everything that belongs to no one at all. ^2-5
+
+I hold all of this in my mind
+and offer it to the buddhas and to their heirs, the bodhisattvas.
+Great, compassionate ones,
+please think of me kindly and accept these gifts. ^2-6
+
+I have so little merit of my own,
+and I am truly poor — I have nothing else worth giving.
+So please, you who care about helping others,
+accept this offering anyway, for my sake, through your own great power. ^2-7
+
+I give my whole self, forever,
+to the buddhas and their heirs.
+Please, greatest of beings, take me as your own.
+With deep respect, I will serve you. ^2-8
+
+Now that you have taken me in,
+I will have no fear, even in this hard life, and I can truly help others.
+I will leave my past wrongdoing behind me,
+and from now on, I will not do such things again. ^2-9
+
+Picture a bathing hall that smells wonderful,
+with a floor of clear, shining crystal.
+Its pillars glow with jewels,
+and pearls hang shimmering from a canopy above. ^2-10
+
+There, with jeweled vases
+full of sweet-smelling water,
+and with music and singing all around,
+I offer a bath to the buddhas and to their heirs. ^2-11
+
+I dry their bodies with the finest cloths,
+clean and beautifully scented.
+Then I offer them lovely robes in beautiful colors,
+filled with sweet fragrance. ^2-12
+
+With soft, fine clothes of every kind,
+and with hundreds of beautiful ornaments,
+I also dress the great bodhisattvas —
+Samantabhadra, Manjushri, Avalokiteshvara, and all the rest. ^2-13
+
+With the finest perfumes,
+whose scent spreads through the whole universe,
+I anoint the bodies of every buddha —
+bodies that shine like polished gold. ^2-14
+
+I offer the buddhas,
+who deserve the highest respect,
+beautiful flowers of every kind —
+soft blossoms, lotuses, and sweet-smelling garlands woven with care. ^2-15
+
+I offer clouds of the finest incense,
+its beautiful scent drifting through the air.
+And I offer heavenly food
+and drink of every kind. ^2-16
+
+I offer rows of jeweled lamps
+set upon golden lotus flowers.
+And on ground perfumed with incense,
+I scatter petals of beautiful flowers. ^2-17
+
+I offer great palaces filled with beautiful songs of praise,
+hung with strings of pearls and jewels
+that fill the whole sky —
+I offer all of this to those whose very nature is compassion. ^2-18
+
+I offer beautiful jeweled umbrellas with golden handles,
+decorated all around,
+raised high and graceful —
+I offer these always to the buddhas. ^2-19
+
+And beyond all these,
+may there always be — everywhere —
+great clouds of offerings, filled with beautiful music,
+that soothe every being's suffering and bring them peace. ^2-20
+
+May flowers and jewels rain down endlessly
+on the true dharma,
+on the Three Jewels — the buddha, the teaching, and the sangha —
+and on every sacred shrine and image. ^2-21
+
+Just as Manjushri
+and the other great bodhisattvas once made offerings to the buddhas,
+I now make the very same offerings
+to the buddhas and their heirs. ^2-22
+
+With endless songs of praise,
+I praise these beings whose good qualities run as deep as the ocean.
+May clouds of beautiful praise
+rise up before them, again and again, forever. ^2-23
+
+I bow down before every buddha
+of the past, present, and future,
+and before the dharma and the whole sangha.
+I bow with as many bodies as there are specks of dust in the universe. ^2-24
+
+I bow to the places
+where bodhichitta first arose, and to every sacred shrine.
+I bow to the teachers, the masters,
+and to those who live by the highest discipline. ^2-25
+
+Until I reach full enlightenment myself,
+I take refuge in the buddhas.
+In the same way, I take refuge in the dharma,
+and in the whole sangha of bodhisattvas. ^2-26
+
+To the perfect buddhas everywhere,
+and to their compassion
+and their students' rising bodhichitta,
+I join my palms together and make this request. ^2-27
+
+Throughout this endless samsara,
+in this life and in every life before it,
+whatever wrong I have done myself,
+or caused someone else to do, ^2-28
+
+or whatever wrong I felt glad about —
+overpowered as I was by confusion —
+now that I see these mistakes clearly,
+I confess every one of them, from the bottom of my heart, before the buddhas. ^2-29
+
+Whatever harm I have caused —
+through my body, my speech, or my mind,
+driven by destructive emotions —
+to the Three Jewels, to my parents, or to any other teacher, ^2-30
+
+whatever terrible wrong I,
+someone marked by so many faults, have done —
+I confess all of it now,
+before every buddha who has ever guided beings. ^2-31
+
+Maybe death will come for me
+before I have cleared away this wrongdoing.
+Please protect me quickly,
+so I can truly be freed from it in time. ^2-32
+
+Death is not something we can trust or predict.
+It does not wait until our work is finished.
+Whether we are healthy or sick,
+we can never be sure of tomorrow. ^2-33
+
+I never truly understood
+that I would have to leave everything behind one day.
+Because of that, I have done all kinds of wrong —
+for people I love, and against people I dislike. ^2-34
+
+The people I dislike will be gone one day.
+The people I love will be gone too.
+I myself will be gone.
+Everything, in the end, disappears. ^2-35
+
+Everything I have ever enjoyed
+becomes just a memory, like something from a dream.
+Once it is gone, it is gone —
+we can never see it again. ^2-36
+
+Even in this one lifetime,
+many people I loved, and many I disliked, have already died and gone.
+But the wrong I did because of them
+is still right here, waiting for me. ^2-37
+
+I never really understood
+that I too am only passing through this life.
+Because of that, driven by confusion, attachment, and anger,
+I have done wrong again and again. ^2-38
+
+Day and night, without ever stopping,
+my life is running out.
+No extra time is ever added back in.
+So how could I possibly avoid dying one day? ^2-39
+
+When I lie there dying,
+even if everyone I love is gathered around me,
+I will be completely alone in feeling that pain —
+no one else can feel it for me. ^2-40
+
+When Yama's messengers finally come for me,
+what good will family do? What good will friends do?
+Only merit can protect me then —
+and I have built so little of it. ^2-41
+
+I have been so careless, buddhas.
+I never really understood a danger this serious.
+And because of that, I have piled up so much wrongdoing,
+just for the sake of this short life. ^2-42
+
+Think of someone being led away
+to lose an arm or a leg.
+Even before it happens, they are already terrified —
+mouth dry, eyes wide with fear, completely changed from how they looked before. ^2-43
+
+So imagine, then,
+how much worse it is
+to be seized by the terrifying messengers of Yama,
+and struck by fear and sickness beyond anything we know. ^2-44
+
+"Who can truly save me
+from this terrible fear?" —
+with eyes wide open in panic, that person searches every direction,
+looking for anyone who can help. ^2-45
+
+Seeing no help anywhere, in any direction,
+that person falls into complete despair.
+And if there really is no refuge anywhere —
+what will I do, when my own time comes? ^2-46
+
+That is why, starting today,
+I take refuge in the buddhas —
+the protectors of the world, who work so hard to keep every being safe,
+and whose great power can dispel any fear. ^2-47
+
+In the same way,
+I take refuge in their dharma too —
+the teaching that clears away all the fears of samsara —
+and in the whole sangha of bodhisattvas. ^2-48
+
+Trembling with fear,
+I offer myself to the bodhisattva Samantabhadra.
+I offer my whole self
+to the bodhisattva Manjushri. ^2-49
+
+And to the compassionate Avalokiteshvara,
+whose kindness never fails,
+I cry out in desperation:
+"Please, protect me, even though I have done wrong." ^2-50
+
+I cry out from the depths of my heart,
+seeking refuge in Akashagarbha,
+Kshitigarbha,
+and every great and compassionate protector there is. ^2-51
+
+I take refuge in Vajrapani,
+the bodhisattva so powerful
+that even the terrifying messengers of Yama
+flee in fear at the mere sight of him. ^2-52
+
+In the past, I ignored what you taught.
+But now that I truly see this danger,
+I take refuge in you.
+Please, clear away this fear quickly. ^2-53
+
+If we are afraid of an ordinary illness,
+we still listen to the doctor's advice.
+So how much more should I listen to good advice,
+when I am sick again and again with faults like craving and anger? ^2-54
+
+Just one of these harmful states of mind
+is enough to destroy every person on earth.
+And no other medicine for it
+can be found anywhere in the world. ^2-55
+
+So refusing to follow the advice
+of the one doctor who knows everything,
+and who can heal every kind of pain —
+that would be the height of foolishness. ^2-56
+
+If we are careful
+even standing near a small, everyday cliff,
+how much more careful should we be about a fall that could last for ages,
+into the deepest suffering there is? ^2-57
+
+It is not okay to relax
+and think, "I definitely will not die today."
+The time when I will cease to exist
+is absolutely certain to come. ^2-58
+
+Who can promise me safety from death?
+How can I be sure I will escape it?
+Since it is certain that I will not be here forever,
+how can my mind possibly feel at ease? ^2-59
+
+What is actually left
+of all the things I once enjoyed, now that they are gone?
+And yet, clinging to them so tightly,
+I even went against the good advice of my teachers. ^2-60
+
+Since I must one day leave this life behind —
+leaving every friend and relative —
+and travel on completely alone,
+what does it really matter, in the end, who I loved and who I disliked? ^2-61
+
+"How can I be free
+from the suffering that wrongdoing brings?"
+This is the one thought that deserves my attention,
+day and night, all the time. ^2-62
+
+Whatever wrong I have done,
+out of not knowing any better —
+whether it was wrong by its very nature,
+or wrong because it broke a commitment I made — ^2-63
+
+standing right there before the buddhas,
+palms joined together,
+afraid of the suffering it will bring,
+I bow again and again, and I confess every bit of it. ^2-64
+
+Buddhas, please accept
+that I have truly done wrong.
+None of it was good —
+so from now on, I will never do it again. ^2-65
 
 *Thus ends Chapter Two: "Confessing Wrongdoing."* ^2-a
 

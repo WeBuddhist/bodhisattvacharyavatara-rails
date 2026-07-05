@@ -1,33 +1,39 @@
 ---
 name: commentary-fact-check
 description: >
-  Fact-checks the English BCA translation (3-TRANSFORMATIONS/Translations/bo-en-translation/bca-en-<grade>.md)
-  verse by verse against Khenpo Zhenga's Tibetan interlinear annotation commentary
-  (1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md), one grade and one chapter (or
-  range) at a time, and appends a verdict table to that grade's own running report
-  file (one report per translation text — beginner, general, and advanced each get
-  their own file, never mixed together). Use whenever the user asks to "fact-check
-  the translation", "verify the translation against commentary", "check the English
-  translation against BCAC19_KS_bo", "continue the commentary fact-check", or wants
-  to confirm a translated verse says what the commentary actually explains. Also
-  triggers for "does chapter N's translation match the commentary", "resume the
-  fact-check", or "QA the translation with Khenpo Zhenga's commentary".
+  Audits an English BCA translation verse by verse against a Tibetan commentary
+  that transcludes the root text, using a strict term-by-term alignment method
+  (not a gist/comprehension check). For every content word the commentary
+  explicitly glosses, it maps Tibetan lemma → commentary gloss → English word and
+  flags any case where the English names the wrong thing — kaya/dharma/mind swaps,
+  a precise term softened to a vague synonym, wrong named entity, wrong number or
+  scope, wrong simile tenor, wrong agent, or wrong enumeration order — even when
+  the English reads fluently. Use whenever the user asks to "fact-check the
+  translation", "check the English against the commentary", "find mistranslations
+  against BCAC14_NTS / BCAC19_KS / <any commentary>", "QA a verse against the
+  commentary", or "run the commentary fact-check". Reports; does not edit the
+  translation file.
 ---
 
 # commentary-fact-check
 
-Confirms that an already-written English translation says what Khenpo Zhenga's
-commentary says the verse means — not a retranslation, and not a rewrite. This
-skill reports; it does not edit `bca-en-<grade>.md`. If a real discrepancy turns
-up, flag it in the report and let the user or a follow-up editing pass fix the
-translation file itself.
+Confirms that an already-written English translation says what the Tibetan
+**commentary** says each verse means, checked **at the word level, not the gist
+level**. This is the key design decision: a comprehension check ("does the English
+convey roughly what the verse means?") silently passes errors like *chos kyi sku*
+(dharmakāya, a buddha-**body**) rendered as "the dharma", because the three-jewels
+gist survives even though the referent is wrong. To catch that class of error the
+audit forces a term-by-term alignment against the commentary's own glosses and
+withholds any verdict until every anchored term has been checked.
 
-This is a companion to `translation-qa` (which scores against `2-RAILS/` rails and
-`termbase.md`) but uses a different accuracy source: Khenpo Zhenga's word-level
-annotation commentary is the ground truth here, because it exists, transcludes the
-whole root text already, and settles doctrinal/factual content questions — sutra
-citations, similes, named entities, classification schemes — that a bare verse line
-often can't answer on its own.
+This skill **reports**; it never edits the translation file. Real discrepancies go
+in the report (and to the user) for a separate editing pass to fix.
+
+Companion to `translation-qa` (which scores wording/register against `2-RAILS/`
+rails and `termbase.md`). This skill's ground truth is the **commentary**, because
+it transcludes the whole root text and settles content questions — sutra
+citations, similes, named entities, classification schemes, kāya distinctions —
+that a bare verse line can't.
 
 ---
 
@@ -35,20 +41,13 @@ often can't answer on its own.
 
 | Input | Required | Description |
 |---|---|---|
-| **Grade** | ✓ | `beginner`, `general`, or `advanced` — which translation file to check. One grade per run; the three grades are checked separately because their wording differs even when the underlying content doesn't. |
-| **Scope** | recommended | A chapter number (`1`, `2`, ... `10`), `colophon`, or an explicit verse range within a chapter (e.g. `2-1 to 2-10`). If omitted, read the report's progress table and continue from the next unchecked verse/chapter for that grade. A verse-range request always wins over the progress table — check exactly the verses named, even if some or all of that chapter was already checked (the user may be re-verifying, or the earlier run may not have persisted — see Step 5a). |
+| **Commentary** | ✓ | Path to a Tibetan commentary in `1-SOURCES/Commentaries/Transcluded/` that transcludes the root via `![[…#^verse-id]]` markers (e.g. `BCAC14_NTS_bo_segmented.md` = Ngulchu Thokme; `BCAC19_KS_bo.md` = Khenpo Zhenga). One commentary per run — do not silently mix commentaries; if a verse is unclear from this one, say so rather than reaching for another. |
+| **Translation** | ✓ | Path to the English translation file to audit (e.g. `1-SOURCES/Translations/translation-ai/bo-en-translation/bca-en-plain.md`, or a graded `3-TRANSFORMATIONS/.../bca-en-<grade>.md`). |
+| **Scope** | ✓ | A chapter number, `colophon`, or an explicit verse range (e.g. `1-1 to 1-5`). Never default to "the whole text" — pick a bounded scope so each verse gets a full term-alignment pass. |
 
-Fixed (not user-supplied):
-- **Commentary source:** `1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md` — Khenpo Zhenga's (གཞན་ཕན་བྱམས་པའི་གོ་ཆ།) mchan-'grel, drawing on Patrul Rinpoche's oral tradition. It transcludes the entire root text (910/910 verses, ch.1–10, via `![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^verse-id]]` markers) and is already used elsewhere in this vault (`Verse-Context-Summary`) as the primary annotation layer.
-- **Report file — one per grade, never shared:** `3-TRANSFORMATIONS/Translations/bo-en-translation/commentary-fact-check-report-<grade>.md`, i.e. `…-beginner.md`, `…-general.md`, `…-advanced.md`. Each file is self-contained and only ever documents its own translation text. Create a grade's file the first time that grade is actually checked — never create the other two grades' files as a side effect, and never merge two grades' results into one file.
-
-**This skill uses `BCAC19_KS_bo.md` only.** Do not read, cite, cross-check against,
-or mention any other commentary file in this workflow or in the report — not
-`BCAC19_KKP_bo_segmented.md` (Khenpo Kunpal), not any other file under
-`1-SOURCES/Commentaries/`. If a verse's meaning seems unclear or contested from
-`BCAC19_KS_bo.md` alone, say so in the report as a note on that verse rather than
-reaching for a second commentary — a multi-commentary check is a different,
-separate skill, not this one.
+Report file: `<translation-dir>/commentary-fact-check-report-<commentary-id>-<translation-name>.md`
+(one file per commentary×translation pair, so audits of the same text against
+different commentaries never overwrite each other). Create on first use.
 
 ---
 
@@ -56,178 +55,131 @@ separate skill, not this one.
 
 ### Step 1 — Extract the commentary passages
 
-Run the bundled script once per session (cache the JSON; the commentary file doesn't change between runs):
-
 ```bash
 python3 4-SYSTEM/Skills/commentary-fact-check/scripts/extract_commentary.py \
-    1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md \
-    --json /tmp/ks_commentary.json
+    <commentary-path> --json /tmp/commentary.json
 ```
 
-This splits the file on its transclusion markers and attributes the Tibetan prose
-between one marker and the next to that marker's verse ID — including any
-block-quoted sutra citations, which are part of the commentary's own support for
-its reading and worth checking against. Read the coverage summary it prints. If any
-verse comes up with an empty passage, its content was absorbed into the *next*
-verse's bucket (a splitting artifact when a heading or citation sits flush against
-the marker) — read the following verse's passage to recover it; do not report this
-as a translation defect.
-
-**Watch for a cascading shift, not just an isolated empty bucket.** Chapter 3
-turned up a bigger version of the same artifact: the commentary's prose for two
-consecutive verses (3-2 and 3-3) was merged under a single marker, and because
-nothing was left empty to flag it, every following bucket in the chapter quietly
-explained the *next* verse instead of its own — bucket `^N` held the commentary
-for root verse `N+1`, all the way to the chapter's last bucket. Nothing in the
-coverage summary catches this (every bucket had content, so no empty-passage
-warning fires); it only surfaces by actually reading the content and noticing it
-describes a different verse than the one named. So when a bucket's content
-doesn't obviously match its own verse, check the neighboring bucket before
-concluding the translation is wrong — a real translation discrepancy and a
-one-off commentary bucket shift look similar at first glance, but only one of
-them means the English needs fixing. If a shift is confirmed, say so plainly in
-the report (which buckets are affected, and that verdicts below have already
-been corrected for it) rather than silently working around it — a future run
-picking up the rest of the same chapter needs to know the correction still
-applies.
+Splits the file on its transclusion markers, attributing the Tibetan prose (and
+block-quoted sutra citations — they are the commentary's own support and are worth
+checking) between one marker and the next to that marker's verse. Read the coverage
+summary. An empty bucket means its content was absorbed into the **next** verse's
+bucket (a heading or citation sat flush against the marker) — recover it from the
+following verse; do not report it as a translation defect. Watch for a **cascading
+shift** where every bucket quietly holds the *next* verse's prose: if a bucket's
+content plainly describes a different verse than its label, check the neighbor
+before concluding the English is wrong, and note any confirmed shift in the report.
 
 ### Step 2 — Extract the target translation
 
 ```bash
 python3 4-SYSTEM/Skills/commentary-fact-check/scripts/extract_translation.py \
-    3-TRANSFORMATIONS/Translations/bo-en-translation/bca-en-<grade>.md \
-    --chapter <N> --json /tmp/<grade>_ch<N>.json
+    <translation-path> --chapter <N> --json /tmp/translation.json
 ```
 
-### Step 3 — Determine scope
+### Step 3 — Term-by-term audit (the core method)
 
-Open that grade's own report file,
-`3-TRANSFORMATIONS/Translations/bo-en-translation/commentary-fact-check-report-<grade>.md`
-(create it from the template in Step 5 if it doesn't exist yet) and check its
-progress table. If the user didn't name a chapter, pick the next one marked
-pending. Tell the user which chapter you're about to check before starting, in
-case they wanted a different one.
+**Stance: assume the translation CONTAINS errors; your job is to find them, not to
+confirm it reads well. A verse is not cleared until every anchored term is checked.**
 
-### Step 4 — Verse-by-verse comparison
+For **each** verse in scope, build an alignment table before assigning any verdict:
 
-For each verse in scope, read the Tibetan commentary passage and the English
-line side by side and ask: **does the commentary's content — its similes, named
-entities (sutras, teachers, doctrinal terms), enumerations, and logic — show up
-accurately in the English, with nothing contradicted?**
+1. **List the anchors.** From the commentary's prose for that verse, list every
+   content word/phrase the commentary explicitly glosses, defines, etymologizes,
+   names, counts, or illustrates (e.g. it spells out *chos kyi sku*, *sdom*,
+   *bodhi = byang chub*; names a sutra/person; gives a number; states a simile).
+   These glossed terms — not your own sense of what matters — are the mandatory
+   checklist.
+2. **One row per anchor:** `Tibetan (+Wylie) | commentary's gloss | English word used | MATCH / MISMATCH | one-line reason`.
+3. **Verdict only after the table.** No verdict without the table.
 
-This is a comprehension check, not a line-by-line retranslation. The commentary
-routinely supplies more than the verse needs (etymologies, sub-classifications,
-sutra citations, narrative illustrations) — none of that has to appear in the
-translation. Only flag a verse when the translation says something the commentary
-doesn't support, drops content the commentary marks as essential to the verse's
-own sense (not just supplementary elaboration), or gets a named quantity, entity,
-or sequence wrong.
+**Flag as an ERROR (not a style note) any row where the English NAMES THE WRONG
+THING, even if it reads fluently.** Scan specifically for:
 
-Assign one of:
-- **✓** — commentary confirms the translation; no discrepancy.
-- **⚠** — discrepancy. State concisely what the translation says, what the
-  commentary actually supports, and where (quote or closely paraphrase the
-  relevant Tibetan clause).
-- Group runs of adjacent verses that share one commentary passage (the source
-  sometimes explains several verses — e.g. a shared list of similes — under one
-  transclusion anchor) into a single row, as long as each verse's own content is
-  separately confirmed.
+- **kāya vs dharma vs mind:** *sku / chos sku / longs sku / sprul sku* must stay a
+  "body/kāya" — never collapse to "dharma" (the teaching) or "mind".
+- **precise term → vague near-synonym:** *dge ba* = virtue/goodness, not "kindness";
+  *sdom* = vow/discipline, not "way of life"; *theg dman* = lesser vehicle, not
+  merely "lower".
+- **named entities:** sutras, teachers, bodhisattvas (Subāhu, Sudhana, Maitreya,
+  Maitrībala…) — right name, right person.
+- **number & scope:** singular/plural, one vs a few vs countless; *only / all /
+  each / even / alone*.
+- **simile tenor:** what illustrates what (lightning reveals **forms**, not "the
+  sky"; *chu shing* = plantain).
+- **grammatical role / agent:** who acts on whom; subject, object, case relations.
+- **enumerations and their ORDER** (e.g. the three: virtue / friend / merit).
 
-Locked termbase epithets (e.g. `sugatas`/`victors`/`tathagatas` all rendered as
-required by that grade's termbase) are worth a specific check, since these are
-exactly the kind of thing that silently drifts across a long translation — but
-this skill checks *content against commentary*, not term-consistency; leave
-termbase consistency sweeps to a separate pass or to `translation-qa`.
+**Do NOT flag** elaboration the commentary adds that the verse needn't carry
+(etymologies, sutra citations, sub-classifications, narrative illustrations).
+Dropping supplementary detail is fine; renaming the referent is not. Keep a "style
+/ softening" note separate from a hard ERROR so the editor can triage.
 
-### Step 5 — Append to the report
+### Step 3a — Second pass on the highest-miss classes
 
-Each grade has its own file — `commentary-fact-check-report-<grade>.md` — and
-that file only ever exists if that grade has actually been checked. Before
-touching anything, make sure you're writing to the file for the grade you were
-actually asked to check; never create or touch the other two grades' files in
-the same run.
+After the first pass over the whole scope, do a **dedicated second sweep looking
+ONLY for doctrinal-category swaps** — kāya↔dharma↔mind, wrong named entity, wrong
+number/scope. A general pass averages over exactly these; a scoped pass catches
+them. Report anything the second pass adds.
 
-If that grade's report file doesn't exist yet, create it with just the header
-and an empty progress table:
+### Step 4 — Write the report
+
+Create the report file if absent with a header and an empty progress table:
 
 ```markdown
-# BCA English Translation — Commentary Fact-Check (BCAC19_KS_bo) — <grade>
+# BCA Translation — Commentary Fact-Check
 
-Method: each verse's English rendering in `bca-en-<grade>.md` is checked
-against Khenpo Zhenga's Tibetan interlinear commentary. This is a preliminary
-self-check, not a scholarly sign-off — a domain specialist should review
-before treating this grade as final, per this vault's standing rule that an
-LLM never marks its own translation output complete.
+- **Commentary (ground truth):** `<commentary-path>`
+- **Translation audited:** `<translation-path>`
+
+Method: strict term-by-term alignment against the commentary's own glosses
+(kāya/entity/number/simile/agent/order sensitive), not a gist check. Preliminary
+self-check, not a scholarly sign-off — a domain specialist reviews before this is
+treated as final (an LLM never marks its own output complete).
 
 ## Progress
 
-| Chapters checked |
+| Scope checked |
 |---|
 ```
 
-Then append a new `### Chapter <N>` (or `### Colophon`) subsection with the verdict table:
+Append a `### Chapter <N>` (or range) subsection. Include, per verse, the ERROR and
+MISMATCH rows (not the full alignment table — keep the report readable), then:
 
 ```markdown
-### Chapter <N> — <chapter title>
+### Chapter <N> — verses <a>–<b>
 
-| Verse | Verdict | Note |
-|---|---|---|
-| <N>-1 | ✓ | ... |
-| <N>-2 | ⚠ | translation says X; commentary supports Y ("..." — quote) |
+| Verse | Verdict | Tibetan (Wylie) | Commentary gloss | English | Fix |
+|---|---|---|---|---|---|
+| 1-1 | ⚠ ERROR | ཆོས་ཀྱི་སྐུ (chos kyi sku) | dharmakāya, a buddha-body | "the dharma they embody" | dharmakāya / truth-body, not "dharma" |
 
-**Result: <k>/<total> confirmed, <m> discrepancies.**
+**Result: <k>/<total> clean, <e> errors, <m> softening notes.**
 ```
 
-Update the Progress table (append the chapter number to the list, or replace
-`—` with the range so far, e.g. `1–3`). Never overwrite an earlier chapter's
-section — only append new sections and extend the progress row.
+Never overwrite an earlier subsection; append and extend the progress row.
 
-If the requested scope is a sub-range of a chapter (e.g. `2-1 to 2-10` out of
-chapter 2's 65 verses), title the subsection `### Chapter <N> (verses <a>–<b> of
-<total>)` so a later run covering the rest of the chapter appends its own
-subsection rather than needing to rewrite this one. If a later request re-checks
-a range that already has a section, treat it as a fresh check (re-derive the
-verdicts, don't just copy the old table) and replace only that specific
-subsection in place — do not leave two competing sections for the same range.
+### Step 4a — Verify the write landed
 
-### Step 5a — Verify the write actually landed
+Re-read the report back (a fresh read) and confirm the new subsection is present as
+written. This project's file mount has shown intermittent write/sync glitches; if
+the re-read is missing or stale, redo the write once, then tell the user plainly if
+it still doesn't stick (suggest the file may be open in Obsidian or under a sync
+conflict).
 
-Immediately after writing, re-read that grade's report file back (a fresh
-read, not the in-memory version of the edit) and confirm the section you just
-added is actually present with the content you expect. This vault's file mount
-has shown intermittent write/sync glitches in this project before (edits that
-succeeded in-tool but didn't appear when the file was reopened, or a file that
-reverted to an earlier state between turns) — catch that here rather than
-letting the user discover it later.
+### Step 5 — Report back
 
-- If the re-read confirms the new section: proceed to Step 6.
-- If the re-read shows the section missing, truncated, or an older version of the
-  file (e.g. a KKP mention that was supposed to be removed, or a progress row
-  that doesn't match): redo the write once. If it still doesn't stick, tell the
-  user directly and plainly — "the report on disk doesn't match what I just
-  wrote, this looks like a sync issue rather than a skill logic problem" — rather
-  than silently reporting success. Suggest they check whether the file is open
-  elsewhere (Obsidian, another editor) or has a sync conflict (OneDrive, git)
-  that could be overwriting or reverting it.
-
-### Step 6 — Report back
-
-Tell the user, briefly: which chapter/grade was just checked, the pass count, and
-the full text of any ⚠ rows (not just "see report") so they can act on real
-discrepancies immediately without opening the file.
+Tell the user: which commentary/translation/scope was checked, the clean/error
+counts, and the full text of every ERROR row (with its Tibetan + commentary gloss)
+so they can act without opening the file. Offer to apply the fixes.
 
 ---
 
 ## Completion check
 
-- [ ] Grade and scope (chapter or explicit range) established before starting.
-- [ ] Commentary extracted via the bundled script; empty-passage artifacts (if any)
-      resolved by reading the next verse's bucket, not reported as errors.
-- [ ] Every verse in scope compared against its commentary passage individually.
-- [ ] Verdicts assigned on content-accuracy grounds, not on translation style/wording.
-- [ ] Report appended (never overwritten), in that grade's own file — `commentary-fact-check-report-<grade>.md`.
-- [ ] No other grade's report file was created or touched in this run — not even an empty placeholder.
-- [ ] Sub-range checks titled with their verse range so future runs can extend the chapter cleanly.
-- [ ] The write was re-read and confirmed to actually be present on disk (Step 5a) before telling the user it's done.
-- [ ] Any ⚠ surfaced directly to the user in chat, with the commentary citation.
-- [ ] No file other than that grade's `commentary-fact-check-report-<grade>.md` was modified.
+- [ ] Commentary, translation file, and bounded scope all established before starting.
+- [ ] Commentary extracted; empty-bucket / cascading-shift artifacts resolved, not mis-reported.
+- [ ] Every verse got a term-alignment table anchored on the commentary's own glosses, before any verdict.
+- [ ] Second pass on kāya/entity/number swaps completed.
+- [ ] ERRORs (wrong referent) kept distinct from softening/style notes.
+- [ ] Report appended (never overwritten) to the commentary×translation report file; write re-read and confirmed.
+- [ ] Every ERROR surfaced to the user in chat with its Tibetan + commentary citation.

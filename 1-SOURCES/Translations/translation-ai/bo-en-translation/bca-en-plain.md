@@ -35,7 +35,7 @@ Homage to all buddhas and bodhisattvas. ^I-3
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-1]]
 
 I bow with deep respect to the buddhas,  
-Who possess the truth body, and to their bodhisattva heirs,  
+Who possess the dharmakaya, and to their bodhisattva heirs,  
 And to all who are worthy of respect.  
 Following the scriptures, I will explain in brief how to enter the bodhisattva's vows. ^1-1
 

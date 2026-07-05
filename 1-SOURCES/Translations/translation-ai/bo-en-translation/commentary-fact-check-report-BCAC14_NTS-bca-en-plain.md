@@ -9,7 +9,9 @@ self-check, not a scholarly sign-off — a domain specialist reviews before this
 treated as final (an LLM never marks its own output complete).
 
 > **Status (2026-07-06): all errors and softening notes below have been applied to
-> `bca-en-plain.md`.** Rows are retained as a record of what was changed.
+> `bca-en-plain.md`.** Rows are retained as a record of what was changed. Chapter 1
+> was subsequently reworded for non-native-reader readability (meaning unchanged),
+> so the "English" quotes below reflect the pre-readability wording.
 
 ## Progress
 

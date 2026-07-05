@@ -16,8 +16,8 @@ LICENSE_VALUES = frozenset({
 })
 ROLE_VALUES = frozenset({"translator", "reviser", "author", "scholar"})
 
-# Runtime copies — updated by load_languages()
-LANGUAGE_VALUES: frozenset = _LV
+# Runtime copies — updated by load_languages() (all mutable so imports stay live)
+LANGUAGE_VALUES: set = set(_LV)
 LANGUAGE_NAME_MAP: dict = dict(_LNM)
 LANGUAGE_CODE_TO_NAME: dict = dict(_LC2N)
 LANG_TAG_MAP: dict = {c: c for c in _LV}
@@ -112,7 +112,6 @@ def _write_languages_file(name_map: dict, code_map: dict):
 
 def load_languages():
     """Fetch language list from API, update runtime globals, persist to languages.py."""
-    global LANGUAGE_VALUES, LANGUAGE_NAME_MAP, LANGUAGE_CODE_TO_NAME, LANG_TAG_MAP
     try:
         data = _call_api(LANGUAGES_API)
         if not isinstance(data, list) or not data:
@@ -124,11 +123,15 @@ def load_languages():
             if code and name:
                 name_map[name.lower()] = code
                 code_map[code] = name
+        if not code_map:
+            raise ValueError("no valid entries in response")
+        # Mutate in place so all importers see the update
+        LANGUAGE_VALUES.clear()
+        LANGUAGE_VALUES.update(code_map)
         LANGUAGE_NAME_MAP.clear()
         LANGUAGE_NAME_MAP.update(name_map)
         LANGUAGE_CODE_TO_NAME.clear()
         LANGUAGE_CODE_TO_NAME.update(code_map)
-        LANGUAGE_VALUES = frozenset(code_map)
         LANG_TAG_MAP.clear()
         LANG_TAG_MAP.update({c: c for c in code_map})
         _write_languages_file(name_map, code_map)

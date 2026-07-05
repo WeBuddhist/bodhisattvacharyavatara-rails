@@ -64,5 +64,7 @@ See `4-SYSTEM/Templates/FILE_YAML_PROPERTIES.md` for the required YAML propertie
 ## Notes
 
 - Tibetan titles in Wylie romanization (e.g. `kun dpal spyod 'jug`) are auto-converted to Unicode in the output
-- BDRC titles returned from lookup go into `text_input.title` and `alt_titles`; the source file title is never overwritten
+- For **root texts**, BDRC is searched by title if `bdrc_work_id` is not set; matched titles go into `alt_titles`
+- For **translations**, BDRC is only consulted if `bdrc_work_id` is explicitly set in the YAML. AI translations won't have a BDRC record — set `title` and `alt_titles` directly in the YAML and the linter will use them as-is
+- The source file title is never overwritten by the linter
 - After the text, edition, and TOC are created in the API, save the returned IDs back to the source file as `text_id`, `edition_id`, and `toc_id`

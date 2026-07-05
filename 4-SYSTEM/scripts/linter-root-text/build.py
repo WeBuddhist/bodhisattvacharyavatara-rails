@@ -49,10 +49,13 @@ def build_text_input(data):
     person_warnings = []
 
     # Pre-fetch BDRC work title info
+    # For translations, only use BDRC if bdrc_work_id is explicitly set —
+    # AI translations won't have a BDRC record; title/alt_titles come from the YAML.
     bdrc_work_info = None
     bdrc_work_id = data.get("bdrc_work_id") or data.get("bdrc")
+    file_type = data.get("file_type", "")
     raw_title = data.get("title")
-    if not bdrc_work_id and raw_title and isinstance(raw_title, str) and raw_title.strip():
+    if not bdrc_work_id and file_type != "translation" and raw_title and isinstance(raw_title, str) and raw_title.strip():
         bdrc_work_id, work_warn = search_bdrc_work(raw_title.strip())
         if work_warn:
             person_warnings.append(work_warn)
@@ -137,6 +140,20 @@ def build_text_input(data):
 
                 id_match = _ID_TAG_RE.search(name)
                 clean_name = _ID_TAG_RE.sub("", name).strip()
+
+                # Detect AI translator:
+                # - name is "rails" (system translator)
+                # - name is just [op:ID] with no human name before it
+                is_ai = (
+                    clean_name.lower() == "rails" or
+                    (not clean_name and id_match and id_match.group("source") == "op")
+                )
+
+                if is_ai:
+                    ai_id = id_match.group("id").strip() if id_match else clean_name
+                    entry = {"type": "ai", "role": role, "id": ai_id}
+                    contribs.append(entry)
+                    continue
 
                 entry = {"type": "person", "role": role}
 

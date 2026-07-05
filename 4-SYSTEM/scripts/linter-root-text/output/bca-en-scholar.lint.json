@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "source": "D:\\Work\\OpenPecha\\bodhisattvacharyavatara-rails\\1-SOURCES\\Translations\\translation-ai\\bo-en-translation\\bca-en-scholar.md",
+  "validated_at": "2026-07-05T12:54:24.100409+00:00",
+  "notes": [
+    "bdrc: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: '1-SOURCES\\\\Translations\\\\bo-བློ་ལྡན་ཤེས་རབ།.md'",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "toc: 14 headers found"
+  ],
+  "warnings": [],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "en": "The way of the bodhisattva - scholar version"
+    },
+    "alt_titles": [
+      {
+        "en": "Drops of Nectar from the Oral Transmission of the Mañjughoṣa Guru - scholar version"
+      }
+    ],
+    "language": "en",
+    "commentary_of": null,
+    "translation_of": "0lvicjSqSLdtXCZQjSYvj",
+    "category_id": "JD5ULLPAV1cxg7RSb7L3q",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "ai",
+        "role": "translator",
+        "id": "Xz6QQW6yYdR111UgnnxJk"
+      }
+    ],
+    "tag_ids": null
+  }
+}

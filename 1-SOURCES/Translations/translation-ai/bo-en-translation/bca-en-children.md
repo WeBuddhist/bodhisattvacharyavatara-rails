@@ -8,6 +8,10 @@ license: public
 translator: Rails[op:Xz6QQW6yYdR111UgnnxJk] 
 source: https://webuddhist.com/
 alt_titles: Drops of Nectar from the Oral Transmission of the Mañjughoṣa Guru - children's version
+language: english
+text_id: kRgZd2LzCl9R8EaGUlqzG
+edition_id: MK6Dc0SRN9pcuJTrW0A5f
+toc_id: xKAIRHyC7LDfITYVo0krh
 ---
 # Entering the Way of the Bodhisattva (One Who Works to Free All Beings) ^0
 
@@ -171,7 +175,11 @@ But the good results that come from feeling faith toward them grow far more abun
 
 I bow to the very bodies of those in whom this precious attitude has been born. Even harming them somehow leads toward happiness. I go for protection and guidance to these wellsprings of joy. ^1-36
 
-## The first chapter, "The Benefits of the Wish to Help All Beings," from Entering the Way of the Bodhisattva. 2. Admitting My Wrongdoings ^2-0
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-a]]
+
+This brings the first chapter of Entering the Way of the Bodhisattva, "The Benefits of the Wish to Help All Beings," to an end. ^1-a
+
+## 2. Admitting My Wrongdoings ^2-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-1]]
 
@@ -433,7 +441,11 @@ in the presence of the guardians, out of fear of the suffering that follows, I j
 
 I ask you, guides, to accept that my wrongdoings were mistakes. They were not good, and for that reason, I will never do such things again. ^2-65
 
-## The second chapter, "Admitting My Wrongdoings," from Entering the Way of the Bodhisattva. 3. Taking Up the Wish to Help All Beings ^3-0
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-a]]
+
+This brings the second chapter of Entering the Way of the Bodhisattva, "Admitting My Wrongdoings," to an end. ^2-a
+
+## 3. Taking Up the Wish to Help All Beings ^3-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-1]]
 
@@ -567,7 +579,11 @@ It is the great sun that dispels the darkness of beings' confusion. It is the pu
 
 For all travelers wandering the paths of existence, longing to taste happiness, this sublime joy stands close at hand, ready to satisfy every one of these honored guests - all sentient beings. ^3-33
 
-## The third chapter, "Taking Up the Wish to Help All Beings," from Entering the Way of the Bodhisattva. 4. Teachings on Carefulness ^4-0
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-a]]
+
+This brings the third chapter of Entering the Way of the Bodhisattva, "Taking Up the Wish to Help All Beings," to an end. ^3-a
+
+## 4. Teachings on Carefulness ^4-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^4-1]]
 
@@ -761,7 +777,11 @@ These negative emotions don't live in outer objects, in the senses, or anywhere 
 
 Having thought this through, I will now strive to take up these practices as described. After all, how can a sick person be cured if they ignore what the doctor tells them? ^4-48
 
-## The fourth chapter, "Teachings on Carefulness," from Entering the Way of the Bodhisattva. 5. Guarding Awareness ^5-0
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^4-a]]
+
+This brings the fourth chapter of Entering the Way of the Bodhisattva, "Teachings on Carefulness," to an end. ^4-a
+
+## 5. Guarding Awareness ^5-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^5-1]]
 
@@ -1199,7 +1219,11 @@ In short, the essence of maintaining awareness is simply this: check again and a
 
 I will put all of this into practice with my very body - what good is merely reciting the words? Does simply reading a medical textbook actually help a sick patient get well? ^5-109
 
-## The fifth chapter, "Guarding Awareness," from Entering the Way of the Bodhisattva. 6. The Perfection of Patience ^6-0
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^5-a]]
+
+This brings the fifth chapter of Entering the Way of the Bodhisattva, "Guarding Awareness," to an end. ^5-a
+
+## 6. The Perfection of Patience ^6-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^6-1]]
 
@@ -1737,7 +1761,11 @@ Setting aside future enlightenment altogether, don't you already see in this ver
 
 While still within this cycle of rebirth, patience brings beauty, good health, a respected standing, a very long life, and even the greatest pleasures a ruler of the world could know. ^6-134
 
-## The sixth chapter, "The Perfection of Patience," from Entering the Way of the Bodhisattva. 7. Teachings on Diligence ^7-0
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^6-a]]
+
+This brings the sixth chapter of Entering the Way of the Bodhisattva, "The Perfection of Patience," to an end. ^6-a
+
+## 7. Teachings on Diligence ^7-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-1]]
 
@@ -2039,7 +2067,11 @@ Whenever any wrongdoing occurs, take yourself to task over it and reflect carefu
 
 "In situations like this one, how should I actually practice mindfulness?" With that question in mind, you should seek out the guidance of others and figure out the right course of action. ^7-75
 
-## The seventh chapter, "Teachings on Diligence," from Entering the Way of the Bodhisattva. 8. Teachings on Meditation ^8-0
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-a]]
+
+This brings the seventh chapter of Entering the Way of the Bodhisattva, "Teachings on Diligence," to an end. ^7-a
+
+## 8. Teachings on Meditation ^8-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-1]]
 
@@ -2781,7 +2813,11 @@ So I will give up my attachment to this body and instead use it entirely for the
 
 I have had enough of untrained, ordinary behavior. I will now follow in the footsteps of the wise. Recalling these teachings on carefulness, I will guard myself against sleepiness and sluggishness. ^8-185
 
-## The eighth chapter, "Teachings on Meditation," from Entering the Way of the Bodhisattva. 9. The Perfection of Wisdom ^9-0
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-a]]
+
+This brings the eighth chapter of Entering the Way of the Bodhisattva, "Teachings on Meditation," to an end. ^8-a
+
+## 9. The Perfection of Wisdom ^9-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^9-1]]
 
@@ -3450,6 +3486,10 @@ When will I finally be able to calm and quench this terrible, blazing fire of su
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^9-167]]
 
 And having gathered this wealth of genuine goodness, offered respectfully and without clinging to any fixed idea of it, when will I finally be able to reveal this truth of emptiness to those who are bringing about their own ruin through their belief in the fixed, independent reality of things? ^9-167
+
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^9-a]]
+
+This brings the ninth chapter of Entering the Way of the Bodhisattva, "The Perfection of Wisdom," to an end. ^9-a
 
 ## 10. Dedication ^10-0
 

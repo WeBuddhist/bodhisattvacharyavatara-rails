@@ -8,10 +8,14 @@ license: public
 translator: Rails[op:Xz6QQW6yYdR111UgnnxJk] 
 source: https://webuddhist.com/
 alt_titles: Drops of Nectar from the Oral Transmission of the Mañjughoṣa Guru - scholar version
+language: english
+text_id: zpBNEqdv0B0jJ4j68oxME
+edition_id: Ete0ufuWvEZR6utXvw9ep
+toc_id: oKvTislyawSYgDd2HqNpp
 ---
 # Entering the Way of the Bodhisattva ^0
 
-# 0. Introduction ^I-0
+## 0. Introduction ^I-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^I-1]]
 
@@ -171,7 +175,11 @@ But the results of someone feeling faith Proliferate in far greater abundance. W
 
 I prostrate to the bodies of those in whom This jewel, the sublime attitude, is born. Even harming them will lead to happiness. I go for refuge to the wellsprings of joy. ^1-36
 
-## The first chapter, “Explaining the Benefits of Bodhichitta [bodhichitta (bodhicitta, “the awakening mind”)],” from Entering the Way of the Bodhisattva [bodhisattva (Skt. bodhisattva)]. 2. Confessing Misdeeds ^2-0
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-a]]
+
+This concludes the first chapter, “Explaining the Benefits of Bodhichitta [bodhichitta (bodhicitta, “the awakening mind”)],” from Entering the Way of the Bodhisattva. ^1-a
+
+## 2. Confessing Misdeeds ^2-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-1]]
 
@@ -433,7 +441,11 @@ Within the presence of the protectors, From fear of suffering, I join My palms a
 
 I supplicate you, guides! Accept That my misdeeds have been mistaken. They were not good, and for that reason, I’ll never do such acts again. ^2-65
 
-## The second chapter, “Confessing Misdeeds,” from Entering the Way of the Bodhisattva [bodhisattva (Skt. bodhisattva)]. 3. Embracing Bodhichitta [bodhichitta (bodhicitta, “the awakening mind”)] ^3-0
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-a]]
+
+This concludes the second chapter, “Confessing Misdeeds,” from Entering the Way of the Bodhisattva. ^2-a
+
+## 3. Embracing Bodhichitta [bodhichitta (bodhicitta, “the awakening mind”)] ^3-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-1]]
 
@@ -567,7 +579,11 @@ It’s the great sun that brings an end To the darkness of beings’ ignorance. 
 
 For travelers roaming on the paths of existence, Desiring to partake of happiness, This sublime blissfulness is close at hand To satisfy the supreme guests, sentient beings. ^3-33
 
-## The third chapter, “Embracing Bodhichitta [bodhichitta (bodhicitta, “the awakening mind”)],” from Entering the Way of the Bodhisattva [bodhisattva (Skt. bodhisattva)]. 4. Teachings on Carefulness ^4-0
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-a]]
+
+This concludes the third chapter, “Embracing Bodhichitta [bodhichitta (bodhicitta, “the awakening mind”)],” from Entering the Way of the Bodhisattva. ^3-a
+
+## 4. Teachings on Carefulness ^4-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^4-1]]
 
@@ -761,7 +777,11 @@ Afflictions do not dwell in objects, in the senses, or between. Nor are they som
 
 I’ve contemplated thus and now will strive To undertake the precepts as described. How can a patient who needs medicine Be cured if they ignore the doctor’s advice? ^4-48
 
-## The fourth chapter, “Teachings on Carefulness,” from Entering the Way of the Bodhisattva [bodhisattva (Skt. bodhisattva)]. 5. Guarding Awareness ^5-0
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^4-a]]
+
+This concludes the fourth chapter, “Teachings on Carefulness,” from Entering the Way of the Bodhisattva. ^4-a
+
+## 5. Guarding Awareness ^5-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^5-1]]
 
@@ -1199,7 +1219,11 @@ In brief, the characteristic of Maintaining awareness is just this: Examine over
 
 With body, I will practice these— What does just mouthing words achieve? Does merely reading medical books Bring benefit to patients? ^5-109
 
-## The fifth chapter, “Guarding Awareness,” from Entering the Way of the Bodhisattva [bodhisattva (Skt. bodhisattva)]. 6. Transcendent Patience ^6-0
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^5-a]]
+
+This concludes the fifth chapter, “Guarding Awareness,” from Entering the Way of the Bodhisattva. ^5-a
+
+## 6. Transcendent Patience ^6-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^6-1]]
 
@@ -1737,7 +1761,11 @@ Leave future buddhahood aside, Do you not see in this life That pleasing sentien
 
 While in samsara [samsara (saṃsāra)], patience brings Beauty and so forth, Good health, prestige, a very long life, And a chakravarti’s pleasures. ^6-134
 
-## The sixth chapter, “Transcendent Patience,” from Entering the Way of the Bodhisattva [bodhisattva (Skt. bodhisattva)]. 7. Teachings on Diligence ^7-0
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^6-a]]
+
+This concludes the sixth chapter, “Transcendent Patience,” from Entering the Way of the Bodhisattva. ^6-a
+
+## 7. Teachings on Diligence ^7-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-1]]
 
@@ -2039,7 +2067,11 @@ For every single wrong that occurs, Chastise yourself and ponder long, “Howeve
 
 “In circumstances such as this, How shall I practice mindfulness?” With that as cause, you should seek out A meeting and appropriate action. ^7-75
 
-## The seventh chapter, “Teachings on Diligence,” from Entering the Way of the Bodhisattva [bodhisattva (Skt. bodhisattva)]. 8. Teachings on Meditation ^8-0
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-a]]
+
+This concludes the seventh chapter, “Teachings on Diligence,” from Entering the Way of the Bodhisattva. ^7-a
+
+## 8. Teachings on Meditation ^8-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-1]]
 
@@ -2781,7 +2813,11 @@ So I’ll give up, without attachment, This body for wanderers’ benefit. There
 
 I’ve had enough of childish conduct. I’ll follow the footsteps of the wise. Recalling the words on carefulness, I’ll ward off sleep and sluggishness. ^8-185
 
-## The eighth chapter, “Teachings on Meditation,” from Entering the Way of the Bodhisattva [bodhisattva (Skt. bodhisattva)]. 9. Transcendent Prajna [prajna (prajñā, wisdom)] ^9-0
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-a]]
+
+This concludes the eighth chapter, “Teachings on Meditation,” from Entering the Way of the Bodhisattva. ^8-a
+
+## 9. Transcendent Prajna [prajna (prajñā, wisdom)] ^9-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^9-1]]
 
@@ -3451,6 +3487,10 @@ When shall I be able to allay and quench The dreadful heat of suffering’s blaz
 
 My wealth of merit gathered in, With reverence but without conceptual target, When shall I reveal this truth of emptiness To those who go to ruin through belief in real existence? ^9-167
 
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^9-a]]
+
+This concludes the ninth chapter, “Transcendent Prajna [prajna (prajñā, wisdom)],” from Entering the Way of the Bodhisattva. ^9-a
+
 ## Dedication ^10-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^10-1]]
@@ -3687,7 +3727,7 @@ And now to Mañjughoṣha I prostrate, Whose kindness is the wellspring of my go
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^10-a]]
 
-This concludes the tenth chapter, “Dedication” (pariṇāmanā), of the Bodhisattvacharyavatara (Byang chub sems dpa'i spyod pa la 'jug pa). ^10-a
+This concludes the tenth chapter, “Dedication,” from Entering the Way of the Bodhisattva. ^10-a
 
 ## Colophon of the Author (mdzad byang) ^a-0
 

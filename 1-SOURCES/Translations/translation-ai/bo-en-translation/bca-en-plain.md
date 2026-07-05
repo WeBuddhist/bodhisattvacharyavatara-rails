@@ -33,7 +33,8 @@ I prostrate to all buddhas and bodhisattvas. ^I-3
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-1]]
 
-I prostrate with respect to the buddhas, Who have the dharmakaya, and their offspring, And also to all worthy of veneration. I’ll teach in brief, according to the scriptures, The way to enter the bodhisattva’s vows. ^1-1
+I prostrate with respect to the buddhas, Who have the dharmakaya, and their offspring, And also to all worthy of veneration. I’ll teach in brief, according to the scriptures, The way to enter the bodhisattva
+’s vows. ^1-1
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-2]]
 

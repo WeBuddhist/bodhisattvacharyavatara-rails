@@ -13,172 +13,280 @@ text_id: QObgb1iVA3vUBt500GIQh
 edition_id: lM2FuBPUxj9z00aX3c5so
 toc_id: mYbeIgjLvVKUT8cyfH3o2
 ---
-# Entering the Way of the Bodhisattva ^0
+
+# A Guide to the Bodhisattva's Way of Life ^0
 
 ## 0. Introduction ^I-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^I-1]]
 
-In Sanskrit: Bodhisatvacarya avatāra ^I-1
+In the language of India: Bodhisattva-caryā-avatāra. ^I-1
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^I-2]]
 
-In Tibetan: Entering the Way of the Bodhisattva ^I-2
+In the Tibetan language: Jangchub Sempai Chöpa La Jukpa — “A Guide to the Bodhisattva's Way of Life.” ^I-2
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^I-3]]
 
-I prostrate to all buddhas and bodhisattvas. ^I-3
+Homage to all buddhas and bodhisattvas. ^I-3
 
 ## 1. Explaining the Benefits of Bodhichitta ^1-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-1]]
 
-I prostrate with respect to the buddhas, Who have the dharmakaya, and their offspring, And also to all worthy of veneration. I’ll teach in brief, according to the scriptures, The way to enter the bodhisattva
-’s vows. ^1-1
+I bow with deep respect to the buddhas,  
+To the dharma they embody, to their bodhisattva heirs,  
+And to all who deserve reverence. Following the scriptures,  
+I will now explain briefly how to enter this way of life. ^1-1
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-2]]
 
-I won’t say anything not said before, Nor have I any skill in poetry. Thus I have not intended this for others— I’ve written it to cultivate my mind. ^1-2
+Nothing I say here is new,  
+And I have no special gift for fine writing.  
+So I have not written this with others in mind —  
+I have written it simply to cultivate my own mind. ^1-2
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-3]]
 
-Meanwhile, this will increase the power of My faith so that I cultivate the virtues. If someone else whose fortune equals mine Should see it, then it may be meaningful. ^1-3
+Still, writing this may strengthen my faith  
+In virtue and help it grow. And if someone else,  
+Whose fortune matches mine, happens to read it,  
+Perhaps it will be worthwhile for them too. ^1-3
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-4]]
 
-I’ve gained what is most difficult to get— The leisures and resources to benefit beings. If I do not accomplish good while here, How will I ever come to them again? ^1-4
+This precious life with its freedom and opportunity  
+Is extremely hard to find. If I fail  
+To put it to good use here and now,  
+When will a chance like this ever come again? ^1-4
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-5]]
 
-Just as between the clouds on pitch-black nights, Lightning reveals the heavens for an instant, Thoughts of the merits of the world arise For a rare moment through the buddhas’ power. ^1-5
+On a dark, cloudy night, a flash of lightning  
+Lights up the sky for a single instant.  
+In the same way, through the power of the buddhas,  
+Good and beneficial thoughts arise only rarely. ^1-5
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-6]]
 
-Thus virtues are perpetually weak; The powers of misdeeds are terribly dreadful. Besides the wish for perfect enlightenment, What other virtue triumphs over them? ^1-6
+That is why our virtue is always so fragile,  
+While the force of wrongdoing is immense and terrifying.  
+Nothing at all can ever overpower it  
+Except the power of bodhichitta. ^1-6
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-7]]
 
-The lords of sages, who have contemplated For many aeons, see just this will help. Immeasurable multitudes of beings Through this will gain the sublime bliss with ease. ^1-7
+The great buddhas reflected across countless ages  
+And saw that this alone truly helps.  
+Through it, boundless numbers of beings  
+Can easily reach the highest happiness. ^1-7
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-8]]
 
-No one should ever forsake bodhichitta Who wants to dispel beings’ unhappiness, Vanquish the hundreds of miseries of existence, And partake in the many hundreds of joys. ^1-8
+Anyone who wants to escape the sufferings of samsara,  
+Who wants to end the pain of others,  
+And who wants to enjoy every kind of happiness  
+Should never let go of bodhichitta. ^1-8
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-9]]
 
-If they rouse bodhichitta, in an instant The wretched, fettered in samsara’s prison, Are named the offspring of the buddhas And revered in the worlds of gods and humans. ^1-9
+The moment bodhichitta is born in someone,  
+Even a miserable person trapped in samsara's prison  
+Is called an heir of the buddhas.  
+Gods and humans alike will bow to them. ^1-9
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-10]]
 
-Just like the greatest kind of alchemy, It takes this unclean body and transforms it Into a priceless jewel, a buddha’s body, So firmly grasp ahold of bodhichitta. ^1-10
+Like the finest alchemy that turns base metal to gold,  
+Bodhichitta takes this impure body of ours  
+And transforms it into the priceless body of a buddha.  
+So hold on firmly to bodhichitta. ^1-10
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-11]]
 
-Examined well by the sole leader of beings With his immeasurable mind, it has great value. So you who wish to leave the places of beings, Firmly grasp hold of precious bodhichitta. ^1-11
+The sole guide of all beings examined it closely  
+With his boundless wisdom, and found it immensely valuable.  
+So if you wish to leave behind the realms of suffering,  
+Hold firmly to this precious bodhichitta. ^1-11
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-12]]
 
-All other virtues, like banana trees, Are spent once they have produced a result. The tree of bodhichitta constantly Bears fruit, thus thriving inexhaustibly. ^1-12
+Every other kind of virtue is like a banana tree:  
+Once it bears its fruit, it withers away and is spent.  
+But the tree of bodhichitta constantly bears fruit,  
+Growing and flourishing without ever being exhausted. ^1-12
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-13]]
 
-Like those who in great danger, rely on heroes, Why would the careful not rely on that Which liberates them in a single instant, Even if they have done horrendous wrongs? ^1-13
+Even someone who has done truly terrible wrong  
+Can be freed in an instant by relying on bodhichitta,  
+Just as a person facing great danger is saved by a hero.  
+So why wouldn't a careful person rely on it? ^1-13
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-14]]
 
-Like the inferno at an age’s end, It burns up great misdeeds in a single instant. The wise protector Maitreya explained Its countless benefits to Sudhana. ^1-14
+Like the fire that consumes all at the end of an age,  
+Bodhichitta burns away great wrongdoing in a single instant.  
+The wise and loving Maitreya taught  
+Its boundless benefits well to Sudhana. ^1-14
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-15]]
 
-To summarize, it’s understood There are two types of bodhichitta: The mind aspiring for awakening And engagement in awakening. ^1-15
+In brief, it should be understood  
+That bodhichitta comes in two forms:  
+The wish to reach enlightenment,  
+And actually engaging in that wish. ^1-15
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-16]]
 
-Just as they know the difference Between the wish to go and going, The wise should understand the contrast Between these two, respectively. ^1-16
+Think of the difference that exists  
+Between wanting to go and actually going.  
+In the same way, the wise should understand  
+The difference between these two forms of bodhichitta. ^1-16
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-17]]
 
-Even in samsara, great results Come from aspiring bodhichitta, Though unlike engaged bodhichitta, The merit is not continuous. ^1-17
+Even within samsara, the wishing bodhichitta  
+Produces great and abundant results.  
+But unlike the engaging kind, it does not yield  
+A steady, unbroken stream of merit. ^1-17
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-18]]
 
-But from the moment, when for the sake Of freeing beings in infinite realms, You truly take up this intent With irreversible resolve, ^1-18
+But from the moment someone takes up  
+That engaging mind with real determination,  
+Determined never to turn back until every being,  
+Without exception, is completely set free — ^1-18
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-19]]
 
-From that time on, the many powers Of merit flow forth unremitting In torrents equal to the sky Even when you’re asleep or careless. ^1-19
+From that moment on, an unbroken stream of merit  
+Flows out, as vast as the sky itself.  
+It keeps on flowing even while that person  
+Lies asleep or loses their focus. ^1-19
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-20]]
 
-The Buddha himself explained This and its reasons for the sake Of beings inclined to the Foundation In the Sutra Requested by Subahu. ^1-20
+The buddha himself taught this,  
+With clear reasons, when Subahu asked him,  
+Explaining it for the sake of those  
+Who aim a little lower on the path. ^1-20
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-21]]
 
-If someone who benevolently Intends to merely eliminate Sharp pains in sentient beings’ heads Possesses immeasurable merit, ^1-21
+Even the simple thought, “I wish that I  
+Could take away just one being's headache,”  
+Is a caring and beneficial intention  
+That already carries immeasurable merit. ^1-21
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-22]]
 
-What need to speak of those who wish To rid all sentient beings of Untold distresses and endow Each one with boundless qualities? ^1-22
+So what need is there even to mention  
+The one who wishes to free every being  
+From boundless and immeasurable suffering,  
+And bring each one every good quality? ^1-22
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-23]]
 
-Who has such altruism as this? Does even a father or a mother? Or do the gods or else the rishis? Do even Brahmas harbor this? ^1-23
+Does any mother or father anywhere  
+Carry a wish as noble as this?  
+Do the gods, or do the great sages,  
+Or even Brahma himself carry it? ^1-23
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-24]]
 
-If sentient beings themselves have never Had such a wish as this before Even for their own sake in dreams, How could they have it for another? ^1-24
+Those very beings have never before,  
+Even within their own private dreams,  
+Wished such a thing for their own sake.  
+So how could they wish it for others? ^1-24
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-25]]
 
-The wish to benefit beings that others Have never had for their own sake— This special jewel of mind—is born, A wonder without precedent. ^1-25
+Most beings do not wish this kind of good  
+Even for their own private sake.  
+So this rare and precious jewel of a mind  
+Is something new and amazing when it appears. ^1-25
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-26]]
 
-The cause of every wanderer’s joy, The cure for beings’ suffering; How could one take the measure of The merit of this precious mind? ^1-26
+This jewel of a mind is the very seed  
+Of joy and happiness for every being,  
+And the medicine for the whole world's suffering.  
+How could anyone measure how good it is? ^1-26
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-27]]
 
-If merely intending to benefit Is greater than revering the Buddha, What need to speak of striving for The sake of all beings’ happiness? ^1-27
+If simply wishing to help others  
+Is worth far more than honoring the buddhas,  
+Then what of actually striving and working  
+For the happiness of every single being? ^1-27
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-28]]
 
-They wish to cast off suffering But rush toward suffering itself. They wish for happiness, but deluded, Crush their own pleasure like a foe. ^1-28
+People long to escape from suffering,  
+Yet they run straight toward it instead.  
+They want happiness, yet in confusion  
+They destroy it as though it were their enemy. ^1-28
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-29]]
 
-For those deprived of happiness Who suffer many miseries, This satisfies with every pleasure And severs every suffering. ^1-29
+Imagine one who takes those beings  
+Who have no joy and are full of suffering,  
+And fills them with every kind of happiness,  
+And cuts away every one of their pains — ^1-29
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-30]]
 
-It also will dispel delusion. How could there be such good as this? How could there be a friend like this? How could there be such merit as this? ^1-30
+And who also clears away their confusion.  
+Where could you ever find a friend like that?  
+Where could you find such boundless kindness?  
+And where could you find such merit? ^1-30
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-31]]
 
-If to reciprocate a kind deed Is praiseworthy for a short while, What need to speak of bodhisattvas Who do good unsolicited? ^1-31
+Even someone who merely repays a favor  
+Is worthy of praise for what they do.  
+So what should we say of the bodhisattva  
+Who helps others without even being asked? ^1-31
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-32]]
 
-People extol as doing something good Those who provide a few with regular meals, Donating scornfully for a short time Plain food that satisfies for half a day. ^1-32
+If someone gives a few people a meal just once,  
+Barely enough to last them half a day,  
+And even gives it grudgingly, with scorn,  
+People still call it good and honor them. ^1-32
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-33]]
 
-What need to speak of those who always give To beings of untold number for a long time The sublime happiness of the buddhas, Fulfilling every one of their desires? ^1-33
+So what then should we say about the one  
+Who gives to countless beings, forever,  
+The highest happiness that there is,  
+Fulfilling their every wish completely? ^1-33
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-34]]
 
-Someone who rouses a malicious thought Toward such a patron, offspring of the buddhas, Will dwell in hell as many aeons as The count of their bad thoughts, the Sage has said. ^1-34
+The buddha said that whoever feels ill will  
+Toward such a generous bodhisattva  
+Will remain in hell for as many ages  
+As the harmful thoughts that arose in them. ^1-34
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-35]]
 
-But the results of someone feeling faith Proliferate in far greater abundance. With bodhisattvas, even grave events Don’t bring misdeeds; good naturally increases. ^1-35
+But if instead one's mind turns bright and glad  
+Toward them, the fruit that ripens is greater still.  
+Even when terrible things befall the bodhisattvas,  
+They do no wrong — their goodness only grows. ^1-35
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-36]]
 
-I prostrate to the bodies of those in whom This jewel, the sublime attitude, is born. Even harming them will lead to happiness. I go for refuge to the wellsprings of joy. ^1-36
+I bow down before the body of anyone  
+In whom this precious, sacred mind has arisen.  
+I go for refuge to this source of happiness,  
+In whom even those who harm it find their joy. ^1-36
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-a]]
 
-This concludes the first chapter, "Explaining the Benefits of Bodhichitta," from Entering the Way of the Bodhisattva. ^1-a
+Thus ends Chapter One: “The Benefits of Bodhichitta.” ^1-a
 
 ## 2. Confessing Misdeeds ^2-0
 

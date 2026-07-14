@@ -1,0 +1,16 @@
+---
+title: बोधिसत्त्वों के मार्ग में प्रवेश (Bodhisattvacaryāvatāra)
+author: शांतिदेव (Śāntideva)
+language: Hindi
+file_type: translation
+lang_tag: hi
+translation_type: zero-shot (no rails/termbase pipeline)
+source: 1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md
+audience: General readers with little or no Buddhist background
+translation_goal: Understandable without prior knowledge of Buddhist terminology; clear, modern, natural Hindi
+priority_order: Understanding > Accuracy > Readability > Consistency
+verse_id_format: chapter-verse
+covers_verses: 1-1–10-58
+note: "This is a direct, zero-shot LLM translation from the canonical Tibetan (Blo ldan shes rab et al.) translation of the root text into Hindi, produced without the vault's normal 2-RAILS context-package pipeline. It has not been checked against commentaries or existing Hindi translations and should be treated as a first-pass draft."
+status: draft
+---

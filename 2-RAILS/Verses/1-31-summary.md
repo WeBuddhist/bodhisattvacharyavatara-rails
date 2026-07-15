@@ -6,7 +6,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 notes: |
   Grouping matrix:

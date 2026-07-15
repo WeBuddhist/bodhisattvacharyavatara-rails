@@ -6,7 +6,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 notes: |
   Grouping matrix:
@@ -80,6 +80,14 @@ notes: |
 བྱང་ཆུབ་སེམས་དཔས་བྱང་ཆུབ་སེམས་བསྐྱེད་ཀྱི་བསམ་པ་བཟང་པོས་ཀུན་ནས་བསླངས་ཏེ་མཁའ་ཁྱབ་ཀྱི་སེམས་ཅན་རེ་རེའི་རྒྱུད་ཀྱི་ལུས་དང་སེམས་ལ་ཡོད་པའི་མི་བདེ་བའམ་སྡུག་བསྔལ་དཔག་ཏུ་མེད་པ་སྟེ་གྲངས་མེད་པ་དེ་དག་ཐམས་ཅད་བསལ་བ་སྟེ་ཕན་སེམས་ཀྱིས་མེད་པར་བྱེད་པ་འདོད་ཅིང་། སེམས་ཅན་དེ་དག་རེ་རེ་བཞིན་དུ་ཡོན་ཏན་དཔག་ཏུ་མེད་པ་སྟེ་དེ་དག་རྣམས་ཀྱི་རྒྱུད་ན་གནས་སྐབས་དང་མཐར་ཐུག མངོན་མཐོ་དང་ངེས་ལེགས་དེ་ལྟའི་འབྲས་བུ་བདེ་བ་དེ་ཉིད་སྒྲུབ་པར་འདོད་པ་བྱང་ཆུབ་སེམས་དཔའ་དེ་རྣམས་ཀྱི་རྒྱུད་ན་སེམས་བསྐྱེད་ཀྱི་བསོད་ནམས་ལ་ཚད་མེད་པ་གྲངས་བཟུང་དུ་མེད་པ་ཞིག་འཐོབ་པར་འགྱུར་བ་ནི་ལྟ་སྨོས་ཀྱང་ཅི་ཞིག་དགོས་ཞེས་གསུངས།
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
+
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+ཞེས་མཛའ་བོའི་བུ་མོའི་གཏམ་རྒྱུད་དུ་གསུངས་པ་བཞིན། སེམས་ཅན་རྣམས་ཀྱི་སྡུག་བསྔལ་གྱི་བྱེ་བྲག་ཀླད་ནད་དམ་མགོ་ན་བ་ལྟ་བུ་ཞིག་བསལ་ལོ་སྙམ་པའི་སེམས་བཟང་པོ་སྐྱེ་བ་དེ་ལ་ཡང་ཕན་ཡོན་ཆེན་པོ་ཞིག་བྱུང་བའི་ལོ་རྒྱུས་ཡོད་པ་བཞིན། འདིར་ནམ་མཁའ་དང་མཉམ་པའི་སེམས་ཅན་ཐམས་ཅད་ཀྱི་སྡུག་བསྔལ་བྱེ་བྲག་པ་ཞིག་ངོས་བཟུང་བ་ལྟ་བུ་མིན་པར་སྡུག་བསྔལ་མཐའ་དག་བསལ་བར་འདོད་ཅིང་། སངས་རྒྱས་ཀྱི་སའི་ཡོན་ཏན་དཔག་ཏུ་མེད་པ་དེ་དག་དང་ལྡན་པ་ཞིག་སྒྲུབ་པར་འདོད་པའི་སེམས་དེ་སྐྱེས་ན་བསོད་ནམས་དཔག་ཏུ་མེད་པ་འབྱུང་བ་ལྟ་སྨོས་ཀྱང་ཅི་དགོས་ཞེས་གསུངས།
+
+*Note: this passage re-invokes the merchant-chief's daughter story (already fully narrated in [[2-RAILS/Verses/1-21-summary.md]] → སྒྲུང་འགྲེལ།) as an analogy for the present verse's point; no new narrative content beyond what is already recorded there.*
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-22]])
 
 ---
 

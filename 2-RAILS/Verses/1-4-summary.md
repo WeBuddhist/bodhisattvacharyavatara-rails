@@ -6,7 +6,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 ---
 
@@ -98,6 +98,12 @@ status: draft
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-4]])
 
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+དལ་འབྱོར་གྱི་ལུས་རྟེན་འདི་སེམས་བསྐྱེད་བསྒོམ་པའི་རྟེན་བླ་ན་མེད་པ་ཡིན་ལ། རྙེད་པར་ཤིན་ཏུ་དཀའ་ཞིང་རྙེད་ན་གནས་སྐབས་དང་མཐར་ཐུག་གི་དོན་ཆེན་པོ་བདེ་བླག་ཏུ་སྒྲུབ་ཏུ་ཡོད་པའི་རྟེན་བཟང་ཡིན་པས། ད་རེས་རྟེན་བཟང་ཐོབ་པའི་དུས་འདིར་ཕྱི་བཤོལ་གྱི་ལེ་ལོ་དང་མི་ཤེས་པའི་གཏི་མུག་གིས་ཆུད་ཟོས་སུ་མི་གཏོང་བར་སྙིང་པོ་ལོན་ཐུབ་པ་ཞིག་བྱེད་དགོས། དེང་སང་འཛམ་བུའི་གླིང་ལ་མི་གྲངས་མང་པོའི་ནང་ནས་སངས་རྒྱས་ཀྱི་ཆོས་ལ་དད་པའི་ཐོག་ནས་གཞན་ལ་བརྩེ་སེམས་ལྡན་པ་ཧ་ཅང་ཉུང་ཉུང་ཡིན་པས། ད་རེས་མི་ལུས་ཐོབ་ཅིང་དབང་པོ་ཡན་ལག་ལ་སྐྱོན་མེད་པར་ཆོས་དང་མཇལ་བ་དེ་ཧ་ཅང་རྙེད་དཀའ་བར་ངོས་འཛིན་དགོས་ཤིང་། མི་ལུས་ངོ་ཤེས་ནས་གང་ཡང་མི་ཐུབ་སྙམ་པའི་ཞུམ་པ་སྤངས་ཏེ་ཅི་ཐུབ་ཀྱིས་ཆོས་སྒྲུབ་པར་འབད་བརྩོན་བྱེད་དགོས།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-4]])
+
 ---
 
 ## དཔེ། (Metaphors)
@@ -124,6 +130,16 @@ status: draft
 > འཇིག་རྟེན་ན་ནི་མི་རྙེད་དཀའ། །སངས་རྒྱས་འབྱུང་བའང་ཤིན་ཏུ་དཀའ། །དེ་བས་དད་དང་རབ་བྱུང་དང་། །སྒྲུབ་པའང་ཤིན་ཏུ་རྙེད་པར་དཀའ། །
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-4]])
+
+**རྙེད་དཀའ་བའི་ལུང་ — སློབ་སྤྲིངས་ལས།** (Suhṛllekha):
+> བདེ་གཤེགས་ལམ་རྟེན་འགྲོ་བ་འདྲེན་པར་ཆས་གྱུར་ཅིང་། །སེམས་ཀྱི་སྟོབས་ཆེན་མི་ཡིས་རྙེད་པ་གང་ཡིན་པ། །ལམ་དེ་ལྷ་དང་ཀླུ་ཡིས་རྙེད་མིན་ལྷ་མིན་དང་། །མཁའ་ལྡིང་རིག་འཛིན་མི་འམ་ཅི་དང་ལྟོ་འཕྱེས་མིན། །
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-4]])
+
+**རྙེད་དཀའ་བའི་ལུང་ — ཕ་བོང་ཁ་པའི་གསུང་།**
+> ད་ཚོད་ངན་སོང་དུ་ཡོད་ན། །དམ་ཆོས་སྒྲ་ཙམ་ཡང་མི་ཐོས། །ལྷ་དང་ལྷ་མིན་དུ་སྐྱེས་ཀྱང་། །རྒྱལ་བསྟན་འདི་འདྲ་དང་མཇལ་དཀའ། །
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-4]])
 
 ---
 

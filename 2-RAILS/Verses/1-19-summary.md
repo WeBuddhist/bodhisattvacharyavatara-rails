@@ -6,7 +6,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 notes: "gyaltsab, sabzang, minyak-kunzang-sonam, and khenpo-kunga each group verses 1-18 and 1-19; ngulchu-thogmed groups 1-17, 1-18, and 1-19. Their shared prose is fully reproduced in 1-18-summary.md. In this file, their grouped commentary is noted with a cross-reference; only the kunpal and khenpo-zhengah commentaries have unique prose for 1-19 specifically. The khenpo-zhengah span contains a scriptural quotation from འཕགས་པ་ཏིང་ངེ་འཛིན་རྒྱལ་པོ extracted to ལུང། per skill rule 2. All citations are file-level; no block IDs are stamped in any commentary span."
 ---
@@ -70,6 +70,12 @@ notes: "gyaltsab, sabzang, minyak-kunzang-sonam, and khenpo-kunga each group ver
 *Note: khenpo-kunga groups verses 1-18 and 1-19 under consecutive transclusions; the shared prose is fully reproduced in [[2-RAILS/Verses/1-18-summary.md]]. The portion of that prose specifically addressing 1-19 reads: "བྱང་ཆུབ་མཆོག་ཏུ་སེམས་བསྐྱེད་ཟིན་པར་གྱུར་པའམ་སྡོམ་པ་ཐོབ་ཟིན་པར་གྱུར་པ་དུས་དེ་ནས་བཟུང་སྟེ་རྟེན་གྱི་གང་ཟག་བྱང་ཆུབ་སེམས་དཔའ་དེ་མཚན་མོར་གཉིད་ལོག་གམ། ཉིན་མོར་ཅུང་ཟད་བག་མེད་པའི་གནས་སུ་གྱུར་ཀྱང་བྱང་ཆུབ་མཆོག་ཏུ་སེམས་བསྐྱེད་པའི་བསོད་ནམས་དགེ་བའི་ཤུགས་དེ་ཉིད་ནི་རྒྱུན་མི་ཆད་པ་དུ་མ་ཞིག་སྟེ་གྲངས་མེད་པ་ཞིག ། གཟུགས་ཅན་གྱི་དངོས་པོར་གྱུར་ན་ནམ་མཁའ་གང་བར་གྱུར་པ་ལྟ་བུའམ་ནམ་མཁའ་དང་མཉམ་པ་ཞིག་རབ་ཏུ་འབྱུང་བ་ཡིན་པར་གསུངས།"*
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
+
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+ཞེས་དུས་གང་གི་ཚེ་བྱང་ཆུབ་ཏུ་སྨོན་པའི་སེམས་དེས་རྐྱེན་བྱས་ཏེ། བྱང་ཆུབ་ཐོབ་པ་ལ་སྤྱོད་པ་ལ་སློབ་དགོས་པར་མཐོང་སྟེ་སྤྱོད་པ་ལ་མ་བསླབ་ན་བྱང་ཆུབ་ཐོབ་མི་ནུས་པའི་ངེས་པ་རྙེད་ནས་སྤྱོད་པ་ལ་སློབ་པར་ཁས་བླངས་དམ་བཅས་ཏེ། དུས་ད་ནས་བཟུང་བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་མཐའ་དག་ལ་ཚུལ་བཞིན་སློབ་བོ་ཞེས་ཡིད་དོགས་མེད་པའི་ཚུལ་གྱིས་ཐག་བཅད། སེམས་ཅན་གྱི་ཁམས་ཚད་དང་མཐའ་མེད་པ་མཐའ་དག་རབ་ཏུ་དགྲོལ་བར་བྱ་བའི་ཆེད་དུ་མི་ལྡོག་པའི་སེམས་ཏེ་དམ་བཅའ་བརྟན་པོས་སྤྱོད་པ་ལ་སློབ་པར་ཞེ་ཐག་པ་ནས་ཐག་བཅད། ཁས་བླངས་དམ་བཅས་པའི་འཇུག་པའི་སེམས་དེ་ཉིད་ཡང་དག་པར་བླངས་པ་ནས་བཟུང་སྟེ་དེའི་ཤུགས་ཀྱིས་རང་རྒྱུད་ལྡན་གྱི་གང་ཟག་གཉིད་ལོག་པའམ་ར་རོ་བ་ལྟ་བུའི་བག་མེད་པར་གྱུར་པའི་སྐབས་ཡིན་ནའང་བསོད་ནམས་ཀྱི་ཤུགས་རྒྱུན་མི་ཆད་པར་ཚད་མེད་པ་ནམ་མཁའ་དང་མཉམ་པ་རབ་ཏུ་འབྱུང་ངོ་ཞེས་གསུངས།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-19]])
 
 ---
 

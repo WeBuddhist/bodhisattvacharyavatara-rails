@@ -6,7 +6,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 notes: |
   Grouping matrix:
@@ -80,6 +80,12 @@ notes: |
 གོང་དུ་བཤད་པའི་རང་གི་ཕ་མ་དང་ལྷ་དང་དྲང་སྲོང་དང་ཚངས་པ་ལ་སོགས་པའི་སེམས་ཅན་དེ་དག་ཉིད་ལ་དེ་སྔ་ཕན་ཆད་རང་རང་སོ་སོའི་རང་དོན་དུ་ཡང་བླ་མེད་རྫོགས་བྱང་གི་གོ་འཕང་ཐོབ་པར་འདོད་པ་འདི་འདྲ་བའི་སེམས་བཟང་པོ་འདི་ནི་ཉིན་མོར་དྲན་མ་མྱོང་བ་མ་ཟད་མཚན་མོར་རྨི་ལམ་དུ་ཡང་རྨིས་མ་མྱོང་བ་ལྟ་བུ་ཞིག་ཡིན་ན། སེམས་ཅན་གཞན་རྣམས་ཀྱི་དོན་དུ་དེ་འདྲའི་བསམ་པ་བཟང་པོ་དེ་ག་ལ་སྐྱེ་སྟེ་སྐྱེ་བར་མ་ནུས་པ།
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
+
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+ཞེས་འཇིག་རྟེན་ན་ཆེ་བར་གྲགས་པའི་ཚངས་པ་དང་བརྒྱ་བྱིན་སོགས་ལ་ཡང་དེ་ལྟ་བུའི་སེམས་ཤིག་སྐྱེ་ཐབས་མེད། གང་ཡིན་ཞེ་ན། རང་ཉིད་ཀྱི་དོན་དུ་ཡང་ཞུམ་པ་སོགས་ཀྱི་དབང་གིས་སྐྱོན་ཀུན་ཟད་དང་ཡོན་ཏན་ཀུན་རྫོགས་པའི་སངས་རྒྱས་ཀྱི་གོ་འཕང་དོན་དུ་གཉེར་བ་སྐྱེ་མི་ཐུབ་པ་ཞིག་ཡིན་ན། ནམ་མཁའ་དང་མཉམ་པའི་སེམས་ཅན་ཐམས་ཅད་དེ་ལྟ་བུ་ལ་འགོད་འདོད་ཀྱི་བློ་སྐྱེ་རྒྱུ་ལྟ་ཅི་སྨོས་ཞེས་པའོ།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-24]])
 
 ---
 

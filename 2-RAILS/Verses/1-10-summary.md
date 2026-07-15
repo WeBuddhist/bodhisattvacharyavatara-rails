@@ -6,7 +6,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 ---
 
@@ -90,6 +90,12 @@ status: draft
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-10]])
 
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+ད་ལྟའི་ལུས་རྟེན་ཤ་རུས་གདོས་བཅས་ཀྱི་ཕུང་པོ་མི་གཙང་བའི་རྟེན་འདི་འདྲ་བ་ལ་གནས་མཁན་ཞིག་སྐྱོན་ཀུན་ཟད་ཡོན་ཏན་ཀུན་ལྡན་མཚན་དང་དཔེ་བྱད་ཀྱིས་བརྒྱན་པའི་སངས་རྒྱས་ཀྱི་སྐུར་འགྱུར་རྒྱུ་ཞེས་པ་བློ་ལ་མི་ཆུད་པའི་བཟོ་ལྟ་བུ་ཡིན་མོད། དེ་རྐྱེན་གང་དང་ཐབས་གང་གིས་འགྲུབ་ཅེ་ན། བདག་པས་གཞན་གཅེས་པའི་བྱང་ཆུབ་ཀྱི་སེམས་དེས་སྒྲུབ་པ་རེད། མི་གཙང་བའི་ལུས་འདི་འདྲ་བ་ཞིག་བླངས་པའི་སྟེང་ནས་རྒྱལ་བའི་སྐུ་རིན་པོ་ཆེ་རིན་ཐང་དང་བྲལ་བ་མཚན་དཔེས་བརྒྱན་པའི་སྐུར་འགྲུབ་པ་དེ་བྱང་ཆུབ་ཀྱི་སེམས་འདི་ལ་བརྟེན་ནས་ཡོང་བས་བྱང་ཆུབ་ཀྱི་སེམས་དེ་ཉིད་རབ་ཏུ་བརྟན་པར་ཟུངས་ཤིག་ཅེས་པའོ།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-10]])
+
 ---
 
 ## སྒྲུང་འགྲེལ། (Stories and narratives)
@@ -146,7 +152,9 @@ Minyak elaborates three grades of elixir: lesser (1:1 ratio), middling (1:100), 
 
 5. **གསེར་འགྱུར་རྩི་གསུམ་གྱི་ཁྱད་པར།** — Minyak's three-tier elaboration of the gold-elixir: lesser elixir transforms 1:1; middling transforms 1:100; the supreme (*mchog*) transforms 1:1000. Bodhicitta is the supreme elixir that transforms this body into the most priceless result imaginable — the Buddha's Form Body — not in a small proportion but in the maximum possible ratio. ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-10]])
 
-6. **ཀུན་བཟང་གྱི་ལུང་ (Kunpal grouped commentary note)** — Kunpal's prose for verse 1-10 is part of a single commentary block covering verses 1-10, 1-11, and 1-12 together (three consecutive transclusions followed by unified prose). The gold-elixir section of that prose pertains to verse 1-10; the precious jewel simile pertains to 1-11; the fruit-bearing tree simile pertains to 1-12. ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-10]])
+6. **རྐྱེན་གང་དང་ཐབས་གང་གིས་འགྲུབ་ཅེ་ན།** — Tenzin Gyatso poses the practical question directly: by what condition and method does this transformation come about? His answer: *bdag pas gzhan gces pa'i byang chub kyi sems* — the bodhicitta that cherishes others more than oneself — is itself the cause. It is this specific mind, taken up on top of this impure body, that produces the priceless, mark-adorned Victor's Body. ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-10]])
+
+7. **ཀུན་བཟང་གྱི་ལུང་ (Kunpal grouped commentary note)** — Kunpal's prose for verse 1-10 is part of a single commentary block covering verses 1-10, 1-11, and 1-12 together (three consecutive transclusions followed by unified prose). The gold-elixir section of that prose pertains to verse 1-10; the precious jewel simile pertains to 1-11; the fruit-bearing tree simile pertains to 1-12. ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-10]])
 
 ---
 
@@ -176,3 +184,5 @@ The Āryamaitreyavimokṣa (cited at length in Zhenga's mchan-grel) provides the
 Gyaltsab, Ngulchu-thogmed, Sabzang, and Khenpo Kunga all cite the Gaṇḍavyūha in parallel to confirm the alchemical metaphor. Minyak additionally cites the Dpas byin gyis zhus pa: "Those who delight in bodhicitta — their bodies become like gold, adorned with signs, illuminating the world." ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-10]])
 
 *Structural note*: Verse 1-10 begins a sub-section of three simile-verses (1-10: gold elixir; 1-11: precious jewel; 1-12: fruit-bearing tree). Kunpal treats verses 1-10, 1-11, and 1-12 together in a single continuous prose block, with the three similes distributed across consecutive transclusions and then explained jointly.
+
+- Tenzin Gyatso frames the transformation as answering a practical "how": the impure body becomes the priceless Buddha-body specifically through *bdag pas gzhan gces pa'i sems* — bodhicitta as the mind that cherishes others more than oneself. ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-10]])

@@ -8,7 +8,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 ---
 
@@ -71,6 +71,12 @@ status: draft
 **ས་བཅད། གསུམ་པ་དཔའ་བོར་དཔེར་བྱས་ཐར་བྱེད་བྱང་སེམས་བསྟན།** མཚམས་མེད་ལྔ་ལྟར་ཤིན་ཏུ་མི་བཟད་ (pha srog gcod pa / ma srog gcod pa / dge slong srog gcod pa / sangs rgyas kyi lus la ngan sems kyis khrag 'don pa / dge 'dun la dbyen byas pa) བྱས་ཀྱང་། སྐྱེས་བུ་དཔའ་བོ་ (འཐབ་གྲྭ་བར་གནས་ལ་གཡུལ་གྲ་སྦྱང་བ་དང་ཤུགས་ལྡན་) ལ་བསྟེན་ནས་འཇིགས་པ་ཆེན་པོ་ (ད་གཟོད་བར་གནས་) ལས་ཐར་བ་ལྟར། བྱང་ཆུབ་ཀྱི་སེམས་ལ་བསྟེན་ནས་སྐད་ཅིག་གཅིག་གིས་ (མྱུར་དུ་) ཐར་བར་འགྱུར། **འདིར་ 1-13 = zil gyis gnon pa** ཞེས་གསལ་བར་མཛད་ (གྲུབ་མཐའི་མིང་ཚིག།)
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-13]])
+
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+འཇིག་རྟེན་ན་ཉེས་པ་ཆེན་པོ་བྱས་པའི་མི་ཞིག་གིས་དཔའ་བོ་སྟོབས་དང་མངའ་ཐང་ཡོད་པ་ཞིག་ལ་མགོན་སྐྱབས་བཅོལ་ན་འཇིགས་པ་དེ་ལས་གྲོལ་བ་ཞིག་ཡོང་བ་བཞིན། ཐོག་མ་མེད་པ་ནས་གོམས་པའི་དབང་གིས་སེམས་རྒྱུད་ཉོན་མོངས་པའི་གཞན་དབང་དུ་སོང་། དེའི་དབང་གིས་ལུས་ངག་གི་ཉེས་སྤྱོད་གྲངས་དང་མུ་མེད་པ་ཞིག་བསགས་པའི་སྡིག་ཅན་སྐྱབས་མེད་མགོན་མེད་ཉམ་ཐག་པ་ང་ཚོ་བྱང་ཆུབ་སེམས་ཀྱི་དཔུང་སྟོབས་དང་མགོན་སྐྱབས་ལ་བརྟེན་ན་ཡུད་ཀྱིས་ཏེ་བདེ་བླག་ཏུ་སྒྲོལ་བ་ཞིག་བྱེད་ཐུབ་པས། བློ་དང་ལྡན་པ་རྣམས་ཀྱིས་བྱང་ཆུབ་ཀྱི་སེམས་དེ་ལྟ་བུ་ཅིས་མི་བསྟེན་ཏེ་ཤིན་ཏུ་ནས་བསྟེན་འོས་པ་ཡིན་ཅེས་གསུངས།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-13]])
 
 ---
 

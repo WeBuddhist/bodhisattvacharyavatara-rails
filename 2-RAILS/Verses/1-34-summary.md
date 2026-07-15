@@ -6,7 +6,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 notes: |
   Grouping matrix:
@@ -84,6 +84,12 @@ notes: |
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+དེ་འདྲ་བའི་སེམས་བཟང་པོ་བསྐྱེད་དེ་འགྲོ་བ་སེམས་ཅན་རྣམས་ཕན་པ་དང་བདེ་བ་ལ་སྦྱོར་བར་མཛད་པའི་བྱང་ཆུབ་སེམས་དཔའ་དེ་ལྟ་བུ་ཞིག་ལ། གལ་ཏེ་སུ་ཞིག་གིས་བླང་དོར་གྱི་གནས་ལ་རྨོངས་ཏེ་ཆགས་སྡང་གི་དབང་ལས་ལུས་དང་ངག་གིས་མཐོ་འཚམ་པ་བྱེད་ན་ལྟ་ཅི་སྨོས། ངན་སེམས་སྐྱེ་ནའང་སྐད་ཅིག་ཇི་ཙམ་སྐྱེས་པའི་གྲངས་དེ་སྙེད་དུ་བསྐལ་པར་ངན་སོང་མུ་མཐའ་མེད་པའི་གནས་སུ་གནས་པར་འགྱུར་ཞེས་རབ་ཏུ་ཞི་བ་རྣམ་པར་ངེས་པའི་ཆོ་འཕྲུལ་གྱི་མདོ་ལས་གསུངས་ཡོད་པར་བརྟེན་ཉེན་ཁ་ལྗིད་པོ་རེད། འོན་ཀྱང་ང་འམ་ང་དང་འདྲ་བའི་གང་ཟག་གིས་གང་ཟག་གི་ཚོད་མི་གཟུང་བར། བྱང་ཆུབ་སེམས་དཔའ་གང་ན་ཡོད་མི་ཤེས་པས་ཀུན་ལ་དག་སྣང་སྦྱོང་དགོས། བློ་སྦྱོང་གླང་ཐང་ཚིག་བརྒྱད་ཀྱི་སྐབས་སུ། "གང་དུ་སུ་དང་འགྲོགས་པའི་ཚེ། བདག་ཉིད་ཀུན་ལས་དམན་བལྟ་ཞིང་།" ཞེས་དང་། འབྲོམ་ཆོས་ཀྱི་རྒྱལ་པོས། "རང་ཉིད་ཀུན་གྱིས་ཚད་མར་བཀུར་ན་ཡང་། ངའོ་སྙམ་པའི་ང་རྒྱལ་ཆུང་བར་མཛོད།" ཅེས་གསུངས་པ་ལྟར་རང་ཉིད་ཀྱིས་དམན་ས་གཟུང་དགོས། རང་གིས་གཞན་ཐམས་ཅད་སྤྱི་བོས་བཀུར་ཏེ་དམན་ས་བཟུང་ནས་བསྡད་ན་ཉེས་པ་མང་པོ་ཁེགས་པས། དེ་ལྟ་བུའི་ཚུལ་གྱིས་གནས་དགོས་པ་མ་གཏོགས། གལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་ཞིག་ལ་དམིགས་ཏེ་ངན་སེམས་སྐྱེས་པ་ཡིན་ན་ཉེས་པ་ཆེན་པོ་རེད།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-34]])
+
 ---
 
 ## སྒྲུང་འགྲེལ། (Stories and narratives)
@@ -106,6 +112,16 @@ notes: |
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]])
 
+> གང་དུ་སུ་དང་འགྲོགས་པའི་ཚེ། །བདག་ཉིད་ཀུན་ལས་དམན་བལྟ་ཞིང་། །
+> — བློ་སྦྱོང་གླང་ཐང་ཚིགས་བརྒྱད་མ། (whenever and with whomever one associates, view oneself as lower than all — tenzin-gyatso's rationale for guarding against contempt toward a possibly-hidden bodhisattva)
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-34]])
+
+> རང་ཉིད་ཀུན་གྱིས་ཚད་མར་བཀུར་ན་ཡང་། །ངའོ་སྙམ་པའི་ང་རྒྱལ་ཆུང་བར་མཛོད། །
+> — འབྲོམ་སྟོན་ཆོས་ཀྱི་རྒྱལ་པོ། (even when honored by all as an authority, diminish the pride of thinking "I am [someone]" — cited by tenzin-gyatso alongside the Lojong quotation as a safeguard practice)
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-34]])
+
 ---
 
 ## གཙོ་གནད། (Main teaching points)
@@ -119,12 +135,16 @@ notes: |
 3. **NTS གི་གཤིབ་ཟླ་ཡིན་གྱི་གནད།** — NTS (and KS) pair verse 1-34 immediately with the positive case of the first hemistich of 1-35 (ཡིད་རབ་དང་བར་བྱེད་ན་) as a negative/positive contrast under the heading "ཞིང་ཁྱད་པར་ཅན་ཡིན་པ་" (the field is special): the same outstanding field that makes anger catastrophic makes reverence extraordinarily meritorious.
    ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]])
 
+4. **དག་སྣང་སྦྱོང་དགོས་པའི་གནད། (tenzin-gyatso)** — Since one cannot know in which being bodhicitta may already be present (བྱང་ཆུབ་སེམས་དཔའ་གང་ན་ཡོད་མི་ཤེས་), TG draws the practical conclusion that one must train in pure perception toward everyone, citing the Lojong Glang thang tshigs brgyad and Dromtönpa on taking the lowest place among others as a safeguard against ever directing contempt at a hidden bodhisattva.
+   ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-34]])
+
 ---
 
 ## གནད་ཚིག (Key terms)
 
 | གནད་ཚིག | འགྲེལ་བཤད་ | ཁུངས། |
 |---|---|---|
+| **བྱང་ཆུབ་སེམས་དཔའ་གང་ན་ཡོད་མི་ཤེས།** | one cannot know where a bodhisattva may be found; tenzin-gyatso's rationale for universal humility and pure perception, since contempt could inadvertently target a hidden bodhisattva | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-34]]) |
 | **ངན་སེམས་བསྐྱེད་པའི་གྲངས་བཞིན་བསྐལ་པར།** | "in accord with the count of moments of ill-will generated" — one eon of hell for each moment of anger; the exactness of the ratio is the verse's most alarming claim | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
 | **རབ་ཏུ་ཞི་བ་རྣམ་པར་ངེས་པ་ཆོ་འཕྲུལ་གྱི་མདོ།** | Praśāntaviniscayaprātihārya-sūtra (Sūtra of the Miracle of Definite Pacification); the scriptural source Śāntideva himself cites ("ཐུབ་པས་གསུངས"), quoted verbatim by all seven commentaries | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]) |
 | **གོ་ཆ་བགོ་བར་བྱའོ།** | "one should put on (this) armor" / "be prepared to accept this"; standard Tibetan rendering of the Praśāntaviniscaya's imperative — be forewarned and guard accordingly | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
@@ -140,3 +160,4 @@ notes: |
 - སྐད་ཅིག་རེ་ལ་བསྐལ་པ་རེའི་འབྲས་བུ་ — ངན་སེམས་ཀྱི་གྲངས་དང་འབྲས་བུའི་གྲངས་མཚུངས་མིང་གི་གནད། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]])
 - གཞི་རྒྱལ་སྲས་སྦྱིན་བདག་ཁམས་གསུམ་གྱི་སེམས་ཅན་ཀུན་གྱི་སྦྱིན་བདག་ཡིན་པས་གཞི་ཆེ་བར་ཁ་གཏད། ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 - GDR གིས་གངྒཱའི་བྱེ་མ་ལྟ་བུའི་མཆོད་རྟེན་བཤིག་པ་ལས་བྱང་སེམས་ལ་ངན་སེམས་བསྐྱེད་ན་ཆེས་སྡིག་ཆེ་ཞེས་དད་བསྐྱེད་མདོ་ལས་བཀོལ། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]])
+- tenzin-gyatso ནི་བྱང་ཆུབ་སེམས་དཔའ་གང་ན་ཡོད་མི་ཤེས་པས་ཀུན་ལ་དག་སྣང་སྦྱོང་དགོས་པར་བློ་སྦྱོང་གླང་ཐང་ཚིགས་བརྒྱད་དང་འབྲོམ་སྟོན་གྱི་གདམས་ངག་དྲངས་ཏེ་བཤད། ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-34]])

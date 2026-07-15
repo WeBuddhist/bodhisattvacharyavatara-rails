@@ -6,7 +6,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 notes: |
   Grouping matrix:
@@ -80,6 +80,12 @@ notes: |
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+ནམ་མཁའ་དང་མཉམ་པའི་སེམས་ཅན་གང་ཞིག་འདོད་པའི་བདེ་བས་ཕོངས་ཤིང་མི་འདོད་པའི་སྡུག་བསྔལ་དུ་མས་མནར་ནས་ཡོད་པ་དེ་རྣམས་ལ་དམིགས་ཏེ། བདེ་བ་ཐོབ་པ་དང་སྡུག་བསྔལ་འབྲལ་བར་བྱེད་པ་དེ་ཡང་རང་རང་གི་སོ་སོའི་རྒྱུད་ཀྱི་སྡུག་བསྔལ་འགྲུབ་བྱེད་ཀྱི་རྒྱུ་དེ་རྣམས་སེལ་བར་བྱེད་པའི་སྒོ་ནས་ཡོང་དགོས་པས། སེམས་ཅན་ཐམས་ཅད་ཀྱི་རྒྱུད་ཀྱི་བླང་དོར་གྱི་གནས་ལ་རྨོངས་པའི་གཏི་མུག་གི་མུན་པ་སེལ་བར་བྱེད་པའི་ལས་ལ་བརྩོན་པའི་སེམས་བཟང་པོ་གང་དང་ལྡན་པ་དེ་ལ་བསོད་ནམས་དཔག་ཏུ་མེད་པ་འཐོབ་ཅིང་། སེམས་དེ་དང་མཚུངས་པའི་དགེ་བ་གཞན་ཞིག་ག་ལ་ཡོད་དེ་འདི་ལས་ལྷག་པ་མེད། གཅིག་ཏུ་གཞན་ལ་ཕན་པ་སྒྲུབ་པའི་སེམས་བཟང་པོ་དེ་ནི་སེམས་ཅན་ཀུན་གྱི་གཉེན་བཤེས་དང་མགོན་སྐྱབས་མཛའ་བཤེས་སུ་ཡོད་པས། དེ་ལྟ་བུའི་གཏན་གྱི་མཛའ་བཤེས་འགྱུར་བ་མེད་པ་ཞིག་བྱང་ཆུབ་ཀྱི་སེམས་འདི་ལས་གཞན་ག་ལ་ཡོད། ཐ་མལ་པའི་མཛའ་བཤེས་ལ་གཅིག་ཏུ་ཕན་བདེ་སྒྲུབ་པ་འདྲ་ཡོད་ན་ཡང་མི་བརྟན་པ་རེད། བྱང་ཆུབ་ཀྱི་སེམས་དེས་ཐམས་ཅད་ལ་སེམས་སྙོམས་པར་བསྐྱེད་ཅིང་ཕན་སེམས་བྱེད། ཇི་སྲིད་ནམ་མཁའ་མ་ཟད་ཀྱི་བར་ཕན་འདོད་ཀྱི་བློ་དེ་ལ་འགྱུར་བ་མེད་པས་དེ་ལས་ལྷག་པའི་མཛའ་བཤེས་མེད་ཅིང་། དེ་ལས་ལྷག་པའི་བསོད་ནམས་གསོག་པའི་ནུས་པ་ཅན་ཞིག་ག་ལ་ཡོད།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-30]])
+
 ---
 
 ## གཙོ་གནད། (Main teaching points)
@@ -93,6 +99,9 @@ notes: |
 3. **བྱམས་བརྩེ་ཤེས་རབ་གསུམ་གྱི་མཐུད་མཚམས། (GDR / NTS / MKS)** — All three commentaries that group 1-28/29/30 together read 1-30 as the terminus of the triad: love (1-29a), compassion (1-29b), wisdom (1-30a) — each directly addressing one of the three predicaments of sentient beings described in 1-28: being deprived of happiness, having many sufferings, being deluded about their causes.
    ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])
 
+4. **གཏན་གྱི་མཛའ་བཤེས་ཀྱི་གནད། (tenzin-gyatso)** — TG expands on the verse's "བཤེས་" (friend) by contrasting bodhicitta's changeless friendship — sustained as long as space endures — with ordinary worldly friendship, which even when genuinely helpful is unstable (མི་བརྟན་པ་). This sharpens the rhetorical question "དེ་འདྲའི་བཤེས་ཀྱང་ག་ལ་ཡོད།" into a substantive claim about impermanence.
+   ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-30]])
+
 ---
 
 ## གནད་ཚིག (Key terms)
@@ -100,6 +109,7 @@ notes: |
 | གནད་ཚིག | འགྲེལ་བཤད་ | ཁུངས། |
 |---|---|---|
 | **གཏི་མུག་ཀྱང་ནི་སེལ།** | dispels delusion too; the "ཀྱང་" (also, even) marks wisdom's dispelling of ignorance as the third and deepest layer of help — addressing the root cause, not just the symptoms | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
+| **གཏན་གྱི་མཛའ་བཤེས་འགྱུར་བ་མེད་པ།** | eternal unchanging friend; tenzin-gyatso's gloss on "བཤེས་" — distinguishes bodhicitta's friendship, unwavering as long as space endures, from ordinary worldly friendship (ཐ་མལ་པའི་མཛའ་བཤེས་), which despite occasional benefit is unreliable | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-30]]) |
 | **རྒྱུ་འབྲས་བླང་དོར།** | adoption and rejection of causes and results; KKP's gloss on "བླང་དོར་གྱི་གནས་" — the specific knowledge that wisdom provides: what causes to cultivate and what to abandon for happiness and suffering respectively | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
 | **དགེ་ལེགས་ཀྱི་རང་བཞིན་མཚུངས་པ།** | equal in virtuous excellence; KS's gloss on "དང་དགེ་མཚུངས་" — no other dharma object has virtue equal to bodhicitta, which encompasses love, compassion, and wisdom together | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
 
@@ -114,3 +124,4 @@ notes: |
 - ཤེས་རབ་ཆེན་པོས་བླང་དོར་གྱི་གནས་བསྟན་ནས་རྒྱུ་འབྲས་ལ་རྨོངས་པའི་གཏི་མུག་རྩ་བ་ནས་སེལ་བར་གསུངས། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]])
 - དགེ་མཚུངས། བཤེས་མཚུངས། བསོད་ནམས་མཚུངས་ཞེས་དྲི་བ་རྣམ་གསུམ་གྱིས་བྱང་སེམས་མཆོག་ཉིད་གྲུབ་པར་མཐར་འཁྲིད། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]])
 - GDR / NTS / MKS གསུམ་གྱིས་ ༡།༢༨–༣༠ གྱི་གྲུབ་ཚེན་ལ་བྱམས་བརྩེ་ཤེས་རབ་གསུམ་གྱིས་སེམས་ཅན་གྱི་རྒུད་ཐམས་ཅད་མཐར་འཇོམས་པར་བཤད། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]])
+- tenzin-gyatso ནི་བཤེས་ཞེས་པའི་ཐད་ནས་བྱང་ཆུབ་ཀྱི་སེམས་ཐ་མལ་པའི་མཛའ་བཤེས་མི་བརྟན་པ་ལས་ཁྱད་པར་དུ་འགྱུར་བ་མེད་པའི་གཏན་གྱི་མཛའ་བཤེས་སུ་བཤད། ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-30]])

@@ -8,7 +8,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 ---
 
@@ -94,6 +94,12 @@ status: draft
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-14]])
 
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+ཞེས་བྱང་ཆུབ་ཀྱི་སེམས་རིན་པོ་ཆེ་ལ་བློ་སྦྱངས་ཏེ་རྒྱུད་ལ་སྐྱེས་པ་ཞིག་བྱུང་ན། དེ་ནི་དུས་མཐའི་མེ་བཞིན་ཏེ་བསྐལ་པ་མེས་འཇིག་པའི་སྐབས་མེས་འཇིག་རྟེན་གྱི་ཁམས་རློག་པར་བྱེད་པ་བཞིན། སྡིག་པ་ཆེན་པོ་ཅི་ཙམ་པ་ཞིག་ཡིན་ནའང་སེམས་དེས་སྐད་ཅིག་གཅིག་ལ་རློག་པར་བྱེད་ཐུབ་པ་ཡིན་ཞེས་པའོ། དེ་ཡི་ཕན་ཡོན་དཔག་ཏུ་མེད་པ་དག་ཅེས་པའི་ཡོན་ཏན་བཤད་པ་ནི་ཕལ་ཆེན་གྱི་ནང་དུ་སྡོང་པོ་བཀོད་པའི་མདོར་གཞོན་ནུ་ནོར་བཟང་ལ་བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་བྱམས་པ་མགོན་པོས་ཕན་ཡོན་དེ་རྣམས་བསྟན་ཏོ། བསླབ་བཏུས་ལས་ཕན་ཡོན་ཅན་གྱི་སེམས་དེ་སོ་སོ་སྐྱེ་བོས་ཀྱང་བསྐྱེད་ཐུབ་པ་དང་། སེམས་དེ་སྐྱེ་བ་ལ་བདེན་པ་མངོན་སུམ་དུ་མཐོང་དགོས་པ་དང་སྟོང་ཉིད་མངོན་སུམ་དུ་མཐོང་དགོས་པ་དེ་འདྲའང་མ་རེད་ཅེས་དང་། དེ་བཞིན་ཕོ་མོའི་རིགས་རུས་དབྱེ་བ་མེད་པར་སེམས་ཅན་སུ་ཡིན་ནའང་སོ་སོས་བསྒོམ་ནས་འབད་རྩོལ་བྱས་ན་སྐྱེ་ཐུབ་ཅེས་གསུངས། དེས་སྨོན་འཇུག་གཉིས་ཀའི་ཡོན་ཏན་ཆ་མ་ཕྱེ་བར་བསྟན་པ་རེད།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-14]])
+
 ---
 
 ## སྒྲུང་འགྲེལ། (Stories and narratives)
@@ -137,6 +143,8 @@ status: draft
 4. **དུས་མཐའི་མེ་ = ཉི་མ་བདུན་གྱི་མེ།** (**NTS / NKW**) — ས་བསམ་གཏན་དང་པོ་མན་ཆད་ (བར་ཁམས་) ཐམས་ཅད་སྲེག་བྱེད་ཀྱི་གྲུབ་མཐའི་མིང་ཚིག་གསལ།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-14]])
 
+5. **སོ་སོ་སྐྱེ་བོས་ཀྱང་བྱང་ཆུབ་ཀྱི་སེམས་བསྐྱེད་ཐུབ།** — Tenzin Gyatso adds a point from the Śikṣāsamuccaya (བསླབ་བཏུས): generating this beneficial mind does not require an ordinary being to have directly seen truth or emptiness first, nor is it restricted by sex or caste (ཕོ་མོའི་རིགས་རུས) — any sentient being who meditates and makes effort can generate it. He notes this shows that the qualities of aspiration and engagement bodhicitta are being taught here without yet distinguishing between them. ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-14]])
+
 ---
 
 ## གནད་ཚིག (Key terms)
@@ -162,3 +170,4 @@ status: draft
 - **1-13 vs. 1-14 ཁྱད་ཤོར་** — 1-13 = **zil gyis gnon pa** (མྱོང་ངེས་ལས་གནོན།); 1-14 = **rtsa ba nas 'joms pa** (མ་ངེས་ལས་འཇོམས།) — **GDR** དང་ **MKS** གཉིས་ཀར་གསལ། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-14]])
 - **SMPLG གི་ཐིག་མགྲིང་:** མ་ངེས་ལས་སྲེག་པ་ = **bzod chen thob pa'i skad cig** ལ་ཡིན་ཞེས་གྲུབ་མཐའི་ཐིག་མགྲིང་གཙོ་བར་མཛད། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-14]])
 - **ཡོན་ཏན་དཔག་མེད།** — **Gaṇḍavyūha** ལས་ "ས་བོན / ཞིང་ས / ས / ཕ / རྣམ་ཐོས་ཀྱི་བུ / ཡིད་བཞིན་ནོར་བུ / བུམ་བཟང་/ མདུང་ཐུང་" ལ་སོགས་པ་དཔེ་བརྒྱད་མར་འབྲི་ཞིང་རྒྱ་ཆེར་བཤད། འགྲེལ་བ་ཀུན་ལས་གྲུབ་མཐའ་མཐུན། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-14]])
+- **tenzin-gyatso** — Śikṣāsamuccaya (བསླབ་བཏུས) ལས་དྲངས་ཏེ། སོ་སོ་སྐྱེ་བོས་ཀྱང་བྱང་ཆུབ་ཀྱི་སེམས་བསྐྱེད་ཐུབ་པར་བཤད་ཅིང་། བདེན་པ་མངོན་སུམ་མཐོང་བའམ་ཕོ་མོའི་རིགས་རུས་ཀྱི་ཁྱད་པར་མི་དགོས་པར་འབད་རྩོལ་གྱིས་སྐྱེ་ཐུབ་ཅེས་གསུངས། ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-14]])

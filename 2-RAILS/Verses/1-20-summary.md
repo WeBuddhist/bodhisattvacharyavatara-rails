@@ -6,7 +6,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 notes: "All commentaries have unique prose for this verse. The Bhadrapāla-sūtra (ལག་བཟངས་ཀྱིས་ཞུས་པ།) quotation embedded in KKP, NTS, SMPLG, MKS, and NKW prose is extracted to ལུང། per skill rule 2. All citations are file-level; no block IDs are stamped in any commentary span."
 ---
@@ -70,6 +70,12 @@ notes: "All commentaries have unique prose for this verse. The Bhadrapāla-sūtr
 འདི་ནི་བྱང་ཆུབ་མཆོག་ཏུ་སེམས་བསྐྱེད་པ་ལ་བསོད་ནམས་ཚད་མེད་ཞིག་ཡོད་པ་འདི་ནི་འཐད་པ་སྟེ་རྒྱུ་མཚན་དང་བཅས་པར་བྱང་ཆུབ་སེམས་དཔའ་གཞོན་ནུ་ལག་བཟངས་ཀྱིས་ནི་ཞུས་པའི་མདོ་སྡེ་དེ་ཉིད་ལས། ཐེག་པ་དམན་པ་ལ་མོས་པའི་སེམས་ཅན་མ་ངེས་པའི་རིགས་ཅན་དེ་རྣམས་ཐེག་པ་ཆེན་པོའི་ལམ་ལ་ཡར་ཁ་དྲང་བའི་དོན་གྱི་ཕྱིར་དུ། དེ་བཞིན་གཤེགས་པ་རྫོགས་པའི་སངས་རྒྱས་ཉིད་ཀྱི་ཞལ་སྔ་ནས་དངོས་སུ་གསུངས་སོ་ཞེས། གཙོ་བོར་ལུང་གི་སྒོ་ནས་སྒྲུབ།
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
+
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+ཞེས་འདི་འདྲ་བའི་ཕན་ཡོན་འབྱུང་བའི་རྒྱུ་མཚན་ལག་བཟངས་ཀྱིས་ཞུས་པའི་མདོ་ལས། ཉན་རང་གི་རིགས་མ་ངེས་པ་ཁ་ཅིག་དམན་ལམ་ལ་མོས་པ་བཟློག་པའི་ཕྱིར་བྱང་ཆུབ་མཆོག་ཏུ་སེམས་བསྐྱེད་ན་ཕན་ཡོན་འདི་ལྟ་བུ་ཡོད་ཅེས་གསུངས་ཤིང་། དེ་ཙམ་དུ་མ་ཟད་རིགས་པས་དཔྱད་ན་རྒྱུ་མཚན་གཞན་ཡང་ཡོད་པར་གསུངས།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-20]])
 
 ---
 

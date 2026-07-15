@@ -6,7 +6,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [khenpo-zhengah, kunpal, gyaltsab, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [khenpo-zhengah, kunpal, gyaltsab, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 ---
 
@@ -96,6 +96,12 @@ status: draft
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-17]])
 
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+བཤད་མ་ཐག་པའི་བྱང་ཆུབ་ཏུ་སྨོན་པའི་སེམས་དང་བྱང་ཆུབ་ཏུ་འཇུག་པའི་སེམས་གཉིས་ལས། བྱང་ཆུབ་ཏུ་སྨོན་པའི་སེམས་དེ་སྒོམ་པའི་ཕན་ཡོན་གང་འདྲ་ཡོད་དམ་ཟེར་ན། སྲིད་པ་འཁོར་བར་གནས་པའི་ཚེ་འབྲས་བུ་མངོན་མཐོའི་ཕུན་ཚོགས་ཀྱིས་མཚོན་བདེ་ནས་བདེ་བར་འགྲོ་བའི་ནུས་པ་དང་ཕན་ཡོན་ཆེན་པོ་བསམ་གྱིས་མི་ཁྱབ་པ་ཡོད། ཡིན་ནའང་དགེ་བློ་མངོན་དུ་མ་གྱུར་པ་བག་མེད་པ་ལྟ་བུའམ་གཉིད་ལོག་པ་ལྟ་བུའི་ལུང་མ་བསྟན་གྱི་སེམས་ཀྱི་སྐབས་སུ་ཡིན་ནའང་དགེ་བ་རྒྱུན་མི་ཆད་པ་ངང་གིས་འཕེལ་བའི་བསོད་ནམས་དེ་འདྲ་སྨོན་སེམས་ལ་ཡོད་པ་མ་རེད་ཅེས་གསུངས།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-17]])
+
 ### ⚑ བར་འབྱོར་གྱི་མི་མཐུན་པ། (Divergences)
 
 - **gyaltsab ⚑:** རྡོ་རྗེའི་དཔེ་འཕགས་པ་བྱམས་པའི་རྣམ་པར་ཐར་བ་ལས་ཞེས་འདོན། minyak-kunzang-sonam དང་ khenpo-kunga གཉིས་ཀ་ཡིས་སྡོང་པོ་བཀོད་པའི་མདོ་ལས་ཞེས་འདོན། གཞུང་འདི་གཉིས་མིང་གི་ཁྱད་པར་ཡོད་ཀྱང་ལུང་འབྱུང་ས་གཅིག་ཡིན་སྲིད། ⚑
@@ -126,6 +132,8 @@ status: draft
 
 4. **སྨོན་སེམས་བརྙས་མི་བྱ་བའི་བཀའ།** — ཕར་ཕྱིན་དྲུག་ལ་སློབ་མི་ནུས་ཀྱང་བྱང་ཆུབ་ཀྱི་སེམས་སྨིན་པར་བྱེད་པ་དེ་ལ་ཅི་ནས་ཀྱང་བསླབ་པར་བྱའོ་ཞེས་གསུངས། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-17]])
 
+5. **ལུང་མ་བསྟན་གྱི་སྐབས་སུ་སྨོན་སེམས་ལ་བསོད་ནམས་རྒྱུན་མི་འཕེལ།** — Tenzin Gyatso specifies the technical reason for verse 17's claim: during ethically neutral (*lung ma bstan*) mental states such as heedlessness or sleep, when virtuous intention is not manifest, aspiration bodhicitta (*smon sems*) does not produce the kind of naturally continuous, ever-increasing merit that engagement bodhicitta (*'jug sems*) does. This sets up the contrast developed in the next verse. ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-17]])
+
 ---
 
 ## གནད་ཚིག (Key terms)
@@ -136,6 +144,7 @@ status: draft
 | **འབྲས་བུ་ཆེ་** | ལྷའི་རྒྱལ་པོ་ཚངས་དབང་སོགས་དང་མིའི་འཁོར་ལོས་བསྒྱུར་བའི་རྒྱལ་པོ་སོགས་ཀྱི་དབང་ཕྱུག་ཕུན་སུམ་ཚོགས་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-17]]) |
 | **བསོད་ནམས་རྒྱུན་ཆགས་** | བར་མ་ཆད་པར་རྒྱུན་ཆགས་སུ་འབྱུང་བའི་བསོད་ནམས་ཀྱི་འབབ་རྒྱུན། འཇུག་སེམས་ཀྱིས་སྦྱིན་སོགས་ལ་འཇུག་བཞིན་པའི་དུས་སར་བར་མ་ཆད་དུ་མི་བརྗེད་བར་སྦྱིན་སོགས་རྒྱུན་ཆགས་སུ་འབྱུང་བ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-17]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-17]]) |
 | **ནན་ཏན་** | སྒྲུབ་པ་དང་བཅས་པའི་ཉམས་ལེན་གྱི་ཤུགས། འཇུག་སེམས་ལ་ཡོད་ཀྱི་སྨོན་སེམས་ལ་མེད། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-17]]) |
+| **ལུང་མ་བསྟན་** | Ethically neutral mental states (e.g. heedlessness, sleep) in which virtuous intention is not manifest; during such states aspiration bodhicitta does not generate the continuous, ever-increasing merit that engagement bodhicitta does. | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-17]]) |
 
 ---
 
@@ -150,3 +159,4 @@ status: draft
 - རྡོ་རྗེ་ཆག་ཀྱང་གསེར་གྱི་རྒྱན་ཟིལ་གྱིས་གནོན་བཞིན། སྨོན་སེམས་ལམ་མ་ཞུགས་ཀྱང་ཉན་རང་གི་ཡོན་ཏན་ཟིལ་གྱིས་གནོན། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-17]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-17]])
 - ཕར་ཕྱིན་མི་ནུས་ཀྱང་སྨོན་སེམས་བཟུང་ཞིང་རྟག་བརྟན་བཟུང་བས་བཀའ་གནངས་ཤིང་། བྱང་ཆུབ་ཀྱི་སེམས་སྨིན་པའི་རྒྱུར་ངེས། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-17]])
 - ⚑ རྡོ་རྗེའི་དཔེའི་ལུང་ཁུངས་ལ་གཞུང་འདོན་ཚུལ་མི་འདྲ་བ་ཡོད། gyaltsab ལ་བྱམས་པའི་རྣམ་ཐར་དང་། minyak-kunzang-sonam / khenpo-kunga གཉིས་ལ་སྡོང་བཀོད་ཀྱི་མདོ་ཞེས་གྲགས། ⚑ ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-17]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-17]])
+- **tenzin-gyatso** — བསོད་ནམས་རྒྱུན་མི་འཕེལ་བའི་རྒྱུ་མཚན་གནད་ལྷག་བསྟན། ལུང་མ་བསྟན་གྱི་སེམས་ (བག་མེད་པའམ་གཉིད་ལོག་པའི་སྐབས་) སུ་སྨོན་སེམས་ལ་འཕེལ་རྒྱུན་མེད། ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-17]])

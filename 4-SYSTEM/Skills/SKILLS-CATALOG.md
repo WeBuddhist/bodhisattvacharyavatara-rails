@@ -159,6 +159,13 @@ These skills populate `2-RAILS/` with the structured context that translation an
 **Rules:** Translate small batches only — one or a few TOC nodes at a time. Every keyword rendering must match the per-track termbase. Introduce no new rendering without first adding it to the termbase and feeding it back into the consolidated bilingual glossary.
 → `translate-section/SKILL.md` *(to be written)*
 
+### `translate-zero-shot` **[exists]**
+**Purpose:** Produce a full BCA translation track directly from `1-SOURCES/` when verse rails are not yet `status: complete`. Tibetan (`bo-བློ་ལྡན་ཤེས་རབ།.md`) is the meaning base, Sanskrit (`BCAV08_SH_sk.md`) the disambiguation reference, and three block-aligned human translations (Padmakara, Wallace, Choephel) the per-verse triangulation witnesses: consensus confirms a reading, splits are resolved from the Sanskrit and flagged.
+**Inputs:** Target language, audience level (`children` / `plain` / `scholar`), optional chapter scope.
+**Outputs:** Track folder `3-TRANSFORMATIONS/Translations/<lang>-<audience>-audience/` with `requirements.md`, `audience.md`, an evidence-built `termbase.md` (each rendering cites attested witness renderings at a block ID), one `Chapter-NN.md` per chapter, and a merged full-text file built by `scripts/merge_chapters.py`.
+**Rules:** Rails-complete verses use the rails; existing track contracts are read, never overwritten or re-seeded; all output stays `status: draft`; termbase renderings are locked, append-only; `translation-qa` is required before handoff.
+→ [`translate-zero-shot/SKILL.md`](translate-zero-shot/SKILL.md)
+
 ### `verse-commentary-summarizer` **[exists]**
 **Purpose:** Generate a verse-specific summary file by extracting explanations from provided commentaries, summarizing each commentary, and creating a combined synthesis.
 **Inputs:** Verse ID, list of commentary files, output path/track.
@@ -169,11 +176,11 @@ These skills populate `2-RAILS/` with the structured context that translation an
 
 ## Translation QA skills
 
-### `translation-qa` **[planned]**
+### `translation-qa` **[exists]**
 **Purpose:** Review a translated section against the MQM translation error taxonomy, the track requirements, and the source rails.
 **Inputs:** Translated section(s); `requirements.md`; `termbase.md`; relevant `2-RAILS/` files.
 **Outputs:** Appended entries in `3-TRANSFORMATIONS/Translations/<track-name>/qa-report.md`. Each entry records: the segment, MQM error category, severity (critical / major / minor), and a suggested correction.
-→ `translation-qa/SKILL.md` *(to be written)*
+→ [`translation-qa/SKILL.md`](translation-qa/SKILL.md)
 
 ### `style-consistency-check` **[planned]**
 **Purpose:** Catch style drift over long texts — creeping changes in register, sentence length, verse formatting, list handling, term gloss style.

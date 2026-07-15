@@ -8,7 +8,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 ---
 
@@ -74,6 +74,12 @@ status: draft
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-12]])
 
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+ཐར་པ་ཆ་མཐུན་གྱི་དགེ་རྩ་དང་བསོད་ནམས་ཆ་མཐུན་གྱི་དགེ་རྩ་སོགས་འབྲས་བུ་དེ་དང་དེ་མངོན་དུ་བྱས་པའི་རྗེས་ལ་དེའི་ནུས་པ་རྫོགས་པ་དང་། བྱང་ཆུབ་ཀྱི་སེམས་ཀྱིས་ཟིན་པ་ཞིག་བྱུང་ན་དེས་ཆེད་དུ་བྱ་བ་སེམས་ཅན་གྱི་དོན་དུ་རྫོགས་བྱང་དོན་དུ་གཉེར་བ་དང་། ཇི་སྲིད་ནམ་མཁའ་མ་ཟད་ཀྱི་བར་ལ་གཞན་དོན་སྒྲུབ་པའི་དགེ་བའི་བློ་ཞིག་གིས་ཟིན་པས། རྫོགས་པའི་བྱང་ཆུབ་ཀྱི་གོ་འཕང་མངོན་དུ་བྱས་ནའང་དེའི་བསྒྲུབ་བྱ་ད་དུང་འགྲུབ་མེད་པ་མ་ཟད་འདོད་དོན་མཐར་ཐུག་ཡོངས་སུ་རྫོགས་མེད། དེར་བརྟེན་སེམས་དེས་ཟིན་པའི་དགེ་བ་རྣམས་རྫོགས་པའི་བྱང་ཆུབ་ཀྱི་གོ་འཕང་མངོན་དུ་བྱས་པའི་རྗེས་སུ་ཡང་ཟད་པ་མེད་པར་ཡོང་བ་དང་། ཆུ་ཤིང་གི་སྡོང་པོ་ལྟ་བུ་ཞིག་ལ་འབྲས་བུ་སྨིན་རྗེས་སྐམ་འགྲོ་བ་ཡིན་ཡང་། བྱང་ཆུབ་ཀྱིས་སེམས་ཀྱིས་ཟིན་པའི་དགེ་བ་ནི་འབྲས་བུ་བཟང་པོ་ཡོད་པའི་ལྗོན་ཤིང་ལྟར་ལོ་ལྟར་འབྲས་བུ་བཟང་པོ་སྨིན་ནའང་ཤིང་དེ་མི་རྒུད་པར་མུ་མཐུད་ནས་གནས་པ་བཞིན། བྱང་ཆུབ་སེམས་ཀྱིས་ཟིན་པའི་དགེ་བ་ནི་འབྲས་བུ་འབྱིན་ནས་ཟད་མི་འགྲོ་བར་ད་དུང་གོང་ནས་གོང་དུ་འཕེལ་བར་གསུངས།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-12]])
+
 ---
 
 ## དཔེ། (Metaphors)
@@ -113,6 +119,8 @@ status: draft
 4. **ཤོ་ལོ་ཀ 1-10/1-11/1-12 མཉམ་དུ་སྔར་ཐིག་མགྲིང་གཅིག** (**KKP**) — མཁན་པོ་ཀུན་བཟང་གིས་གློ་བུར་གྱི་ཐིག་མགྲིང་མ་ཕྱེ་བར་གསུམ་དུ་མཉམ་དུ་བཀལ། ཐིག་མགྲིང་ 1-10 ནས་འགྲེལ་བཤད་མཛད་ཅིང་། 1-11 དང་ 1-12 ར་ཐིག་མགྲིང་གཅིག་གི་ཆ་ཤས་ལ་གཏོགས།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-12]])
 
+5. **སངས་རྒྱས་ཐོབ་པའི་རྗེས་སུའང་མི་ཟད།** — Tenzin Gyatso adds a distinct point: bodhicitta-bound virtue does not merely continue growing on the path toward buddhahood — even once full enlightenment is actualized, the mind that is imbued with bodhicitta continues to accomplish others' welfare without limit (space itself is not exhausted), so the good qualities born from it do not become exhausted even after buddhahood is attained. ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-12]])
+
 ---
 
 ## གནད་ཚིག (Key terms)
@@ -138,3 +146,4 @@ status: draft
 - **གཞན་གྱི་དགེ་བ་** (ཉན་རང་ལྟ་བུའི་འདིར་བཀལ་ — **MKS**) **ཆུ་ཤིང་** ལྟར་ལན་གཅིག་འབྲས་བུ་བྱིན་ནས་ཟད། བྱང་སེམས་ཀྱི་དགེ་རྩ་ **ལྗོན་ཤིང་** ལྟར་རྟག་ཏུ་འབྱིན་ཞིང་མི་ཟད། འགྲེལ་བ་ཀུན་གྱིས་གྲུབ་མཐའ་མཐུན། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-12]])
 - **ལྗོན་ཤིང་གི་མིང་ (NKW)** — dpag bsam gyi shing / lha'i yul gyi sa brtol / 'dzam bu pakṣa གསུམ། ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-12]])
 - **བློ་གྲོས་མི་ཟད་** (**Ākṣayamatiparipṛcchā**) ལས་ **KS** དང་ **GDR** གཉིས་ཀས་ — རྒྱ་མཚོར་ཆུ་ཐིག་བསྐལ་མཐར་མི་ཟད་དང་མཚུངས་ལུང་གཏད། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-12]])
+- **tenzin-gyatso** — རྫོགས་པའི་བྱང་ཆུབ་ཀྱི་གོ་འཕང་མངོན་དུ་བྱས་པའི་རྗེས་སུའང་བྱང་ཆུབ་སེམས་ཀྱིས་ཟིན་པའི་དགེ་བ་ཟད་པ་མེད་པར་ཡོང་ཞེས་གནད་ལྷག་བསྟན། ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-12]])

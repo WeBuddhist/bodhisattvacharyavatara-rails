@@ -6,7 +6,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 notes: |
   Grouping matrix:
@@ -90,6 +90,12 @@ notes: |
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+བྱང་ཆུབ་སེམས་དཔའ་ལ་དམིགས་ཏེ་ཡིད་རབ་ཏུ་དྭངས་བའི་སྒོ་ནས་དེ་ལ་མོས་པའི་སེམས་སྐྱེས་ན་ནི། དད་མོས་སྐད་ཅིག་ཇི་ཙམ་སྐྱེས་པའི་ཚོད་ཀྱིས་གྲངས་ལས་བརྒལ་བ་སྟེ་དེ་ཡི་འབྲས་བུ་དེ་བས་ལྷག་པར་འཕེལ་ཞེས་གསུངས་ཏེ། སྐད་ཅིག་དེ་བས་མང་བའི་བསྐལ་པར་ལོངས་སྤྱོད་ཕུན་སུམ་ཚོགས་པ་ལ་ལོངས་སྤྱོད་པའི་བསོད་ནམས་འཐོབ་པར་འགྱུར། རྒྱལ་སྲས་རྣམས་ལ་དོ་གལ་ཆེན་པོས་ཀྱང་སྡིག་པ་མི་འབྱུང་ཞིང་དགེ་བ་ངང་གིས་འཕེལ་ཞེས་དེ་ལྟར་བདག་པས་གཞན་གཅེས་པའི་བྱང་ཆུབ་ཀྱི་སེམས་ལ་བློ་སྦྱངས་པའི་རྒྱལ་སྲས་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་སྙིང་སྟོབས་ཆེན་པོ་ཞིག་རྟག་ཏུ་སྒོམ་བཞིན་ཡོད་པས། རྐྱེན་ཆེན་པོ་ཞིག་དང་འཕྲད་པ་ཡིན་ནའང་ལམ་སེང་སེམས་ལ་བློ་མི་དགེ་བ་སྐྱེ་མི་ཐུབ་ཅིང་། དོ་གལ་ཆེན་པོ་སྟེ་རྐྱེན་ཛ་དྲག་ཅིག་དང་འཕྲད་ནའང་། བློའི་སྐྱོན་ཆགས་སྡང་སོགས་སྐྱེ་རྒྱུའི་ཚབ་ཏུ་ཛ་དྲག་གི་གནས་ཚུལ་བྱུང་བ་དེས་རྐྱེན་བྱས་ཏེ་བཟོད་པ་འཕེལ་བ་དང་། གཞན་ལ་ལྷག་པར་བརྩེ་བའི་བློ་འཕེལ་བ་སོགས་དགེ་བ་ངང་གིས་འཕེལ་བར་འགྱུར། བྱང་ཆུབ་ཀྱི་སེམས་མཚན་ཉིད་ཚང་བ་རྒྱུད་ལ་མེད་ནའང་། དེའི་ཕྱོགས་དང་མཐུན་པའི་སེམས་བཟང་པོ་ཞིག་བྱུང་ན། རྐྱེན་གང་བྱུང་གིས་འགུལ་བསྐྱོད་རྒྱག་མི་ཐུབ་ཅིང་། དེད་དཔོན་སྙིང་རྗེ་ཆེན་པོས་མི་ནག་དུང་ཐུང་བསད་ནས་མི་བཞི་བརྒྱ་གོ་དགུའི་སྲོག་བསྐྱབས་པ་དེ་ཡང་བྱང་སེམས་ཀྱི་ཕན་ཡོན་ཡིན་ལ། དེས་ན་དགེ་བ་མཐའ་འཁྱོངས་པ་ཞིག་ཡོང་བ་ལ་བྱང་ཆུབ་སེམས་ཀྱིས་གྲོགས་ཆེན་པོ་བྱེད་ངེས་པ་ཡིན་ནོ།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-35]])
+
 ---
 
 ## སྒྲུང་འགྲེལ། (Narrative illustration)
@@ -109,6 +115,12 @@ MKS cites the jātaka of the patient sage Dharmasiddha (དྲང་སྲོང
 ཤོ་ལོ་ཀ་འདིའི་**རྒྱལ་སྲས་རྣམས་ལ་དོ་གལ་ཆེན་པོས་ཀྱང་། སྡིག་པ་མི་འབྱུང་དགེ་བ་ངང་གིས་འཕེལ།** ཞེས་པའི་དཔེར་བཀོད་པའི་སྐྱེས་རབས། སྟོན་པ་སྔོན་སྤྲེའུ་ཞིག་ཏུ་གྱུར་པའི་ཚེ། མི་ཞིག་གཡང་ཁའི་གཏིང་དུ་ལྷུང་ནས་ཐར་ཐབས་མེད་པར་སྨྲེ་སྔགས་འདོན་པས་སྤྲེའུས་གསན་ཏེ་སྙིང་རྗེས་རྡོ་ལྗིད་ལ་སྦྱངས་ནས་མི་དེ་རྒྱབ་ཏུ་བཀལ་ཏེ་ཐོན། མི་དེས་དྲིན་ལན་བསམས་ནས་ཀྱང་སྤྲེའུ་ཉལ་བའི་ཚེ་ཟས་ཀྱི་ཕྱིར་མགོ་ལ་རྡོ་འཕངས་ཏེ་གསོད་པར་བརྩམས། སྤྲེའུ་སད་ནས་མི་དེ་ལ་སྙིང་རྗེས་བལྟས་ཏེ་གྲོང་འདབས་སུ་ལེགས་པར་བསྐྱལ། མི་དེ་ཕྱིས་ལུས་ཀུན་ནས་ཤུར་ཏེ་སྤངས་པར་གྱུར་པས་རྒྱལ་པོས་རྒྱུ་དྲིས་པར། "བྱམས་པ་སྙིང་རིངས་བྱས་པའི་མེ་ཏོག་ཙམ་གཅིག་གིས་འཇིག་རྟེན་གཞན་དུ་དམྱལ་བའི་སྡུག་བསྔལ་མྱོང་" ཞེས་སྨྲས། སྤྲེའུ་ཆེན་པོ་དེ་ཡང་མིས་དྲིན་ལན་ངན་པར་བསྐུར་ཡང་སྙིང་རྗེ་ཆེན་པོས་སླར་ཡང་དགེ་བ་ལ་བརྩོན།
 
 ([[1-SOURCES/Commentaries/Transcluded/BCACXX_WR_bo.md#^1-12]])
+
+### tenzin-gyatso — དེད་དཔོན་སྙིང་རྗེ་ཆེན་པོའི་སྐྱེས་རབས། (The Compassionate Ship Captain)
+
+དེད་དཔོན་སྙིང་རྗེ་ཆེན་པོ་ཞིག་གིས་གྲུ་སྟེང་གི་མི་བཞི་བརྒྱ་གོ་དགུ་གསོད་པར་འཆར་གཞི་བཟོས་པའི་མི་ནག་དུང་ཐུང་ཞིག་མཐོང་ནས། དེའི་སྡིག་པ་ཆེན་པོ་ལས་བསྐྱབ་ཅིང་མི་བཞི་བརྒྱ་གོ་དགུའི་སྲོག་བསྐྱབ་པའི་ཆེད་དུ་རང་ཉིད་ཀྱིས་མི་ནག་དུང་ཐུང་དེ་བསད་པ། དེ་ནི་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་ཕན་ཡོན་གྱི་དཔེར་བརྗོད་ཡིན་ཞིང་། བྱང་ཆུབ་ཀྱི་སེམས་མཚན་ཉིད་ཚང་བར་མེད་ནའང་དེའི་ཕྱོགས་དང་མཐུན་པའི་སེམས་བཟང་པོ་ཞིག་གིས་རྐྱེན་གང་བྱུང་གིས་འགུལ་བསྐྱོད་མི་ཐུབ་པའི་བརྟན་པ་སྟོན་པར་བཤད།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-35]])
 
 ---
 
@@ -145,6 +157,9 @@ MKS cites the jātaka of the patient sage Dharmasiddha (དྲང་སྲོང
 3. **སྟོབས་ཆེ་ཆུང་གི་གནད། (KKP)** — KKP's sun/moon vs. candle distinction offers an internal qualification: strong bodhisattvas (ཉི་མ་ཟླ་བ་ལྟ་བུ་) turn all adversity directly into benefit; weaker bodhisattvas (མར་མེ་ལྟ་བུ་) may be temporarily impeded. But even the weaker case still results in no sin being generated — only merit growing at a slower pace. KKP then cites Thogmed's verse as the practical instruction: "when the world is filled with vice, convert adverse conditions into the path of awakening."
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]])
 
+4. **བརྟན་པའི་སྙིང་སྟོབས་ཀྱི་གནད། (tenzin-gyatso)** — TG explains the mechanism behind "དགེ་བ་ངང་གིས་འཕེལ": bodhisattvas continually cultivate the great fortitude of bodhicitta, so that under severe conditions the very intensity of the crisis becomes a condition (རྐྱེན་) for increased patience and love rather than affliction. Even one who has only an aligned aspiration, not full bodhicitta, gains a stability that cannot be shaken by circumstance — illustrated by the story of the compassionate ship captain.
+   ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-35]])
+
 ---
 
 ## གནད་ཚིག (Key terms)
@@ -167,3 +182,4 @@ MKS cites the jātaka of the patient sage Dharmasiddha (དྲང་སྲོང
 - དོ་གལ་ཆེན་པོས་ཀྱང་སྡིག་པ་མི་འབྱུང་ — རྐྱེན་ངན་མེ་ལ་རླུང་ལྟར་བྱང་ཆུབ་ལམ་ལ་ཤུགས་སྦྱར་རོ། ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 - KS གིས་བསྡུ་དངོས་བཞི་ལ་བརྟེན་ནས་རྐྱེན་ངན་དགེ་བར་འགྱུར་བར་གསུངས། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]])
 - KKP གིས་སྟོབས་ཆེ་ཆུང་གི་ཁྱད་པར་བྱས་ཏེ་ཐོགས་མེད་ཀྱི་ཚིགས་བཅད་ "རྐྱེན་ངན་བྱང་ཆུབ་ལམ་དུ་བསྒྱུར།" གནད་ཀྱི་མཐར་སྦྱར། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]])
+- tenzin-gyatso ནི་དེད་དཔོན་སྙིང་རྗེ་ཆེན་པོའི་སྐྱེས་རབས་དྲངས་ཏེ་བྱང་ཆུབ་ཀྱི་སེམས་ཕྱོགས་མཐུན་གྱི་སེམས་བཟང་པོས་ཀྱང་རྐྱེན་གང་བྱུང་གིས་མི་གཡོ་བའི་བརྟན་པ་སྟེར་བར་བཤད། ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-35]])

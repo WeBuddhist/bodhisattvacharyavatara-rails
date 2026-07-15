@@ -6,7 +6,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 notes: |
   Grouping matrix:
@@ -90,6 +90,12 @@ notes: |
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+སེམས་ཅན་ཀུན་ལ་རང་བདེ་བ་ཞིག་བྱུང་ན་སྡུག་བསྔལ་དང་བྲལ་ན་བསམ་པ་ཞིག་ཡོད་ཀྱང་། སྡུག་བསྔལ་མི་འདོད་ནའང་སྡུག་བསྔལ་གྱི་རྒྱུ་ངོ་མི་ཤེས། ཤེས་ཀྱང་དེ་ལ་གོམས་པའི་དབང་གིས་འཇུག། བདེ་བ་འདོད་ནའང་བདེ་བའི་རྒྱུ་ངོ་མི་ཤེས། ངོ་ཤེས་ནའང་དེ་ལ་སྙིང་སྟོབས་བསྐྱེད་ནས་བརྩོན་འགྲུས་རྩོམ་པའི་ནུས་པས་མ་ལྡང་བའི་གནས་ཚུལ་ཡོད། དེར་བརྟེན་བདེ་བ་འདོད་ཀྱང་གཏི་མུག་པའི་གཞན་དབང་དུ་སོང་བའི་དབང་གིས་རང་གི་བདེ་བ་དགྲ་ལྟར་འཇོམས་པར་བྱེད་པའི་ངང་ཚུལ་དེ་ལས་མ་འདས། དེར་བརྟེན་གཞན་དོན་འཁུར་དུ་བླངས་ཏེ་གཞན་དོན་དུ་བརྩོན་པ་ངེས་པར་དུ་བྱེད་དགོས་སོ།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-28]])
+
 ---
 
 ## སྒྲུང་འགྲེལ། (Stories and narratives)
@@ -138,6 +144,9 @@ notes: |
 4. **བྱམས་བརྩེ་ཤེས་རབ་གསུམ་གྱི་གནད།** — GDR, NTS, and MKS all conclude the 1-28/29/30 block by naming the three qualities of bodhicitta that directly address beings' triple predicament: great love (བྱམས་པ་ཆེན་པོ་) satisfies those lacking happiness; great compassion (སྙིང་རྗེ་ཆེན་པོ་) severs all suffering; great wisdom (ཤེས་རབ་ཆེན་པོ་) dispels the ignorance that runs toward suffering's causes. The three are not random — they answer the exact structure of verse 1-28.
    ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])
 
+5. **སྙིང་སྟོབས་མ་ལྡང་བའི་གནད། (tenzin-gyatso)** — TG adds a further diagnostic layer beyond simple ignorance: even when beings recognize the cause of suffering, habituation (གོམས་པ་) still drags them into it; and even when they recognize the cause of happiness, they lack the courage and diligence (སྙིང་སྟོབས་དང་བརྩོན་འགྲུས་) to establish it. He concludes that this is precisely why one must take up others' welfare as one's own burden (གཞན་དོན་འཁུར་དུ་བླངས་) and strive for others.
+   ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-28]])
+
 ---
 
 ## གནད་ཚིག (Key terms)
@@ -145,6 +154,7 @@ notes: |
 | གནད་ཚིག | འགྲེལ་བཤད་ | ཁུངས། |
 |---|---|---|
 | **སྡུག་བསྔལ་འདོར་འདོད་སེམས་ཡོད་ཀྱང།** | having a mind that wishes to abandon suffering — the key paradox: beings have the correct aspiration but the totally wrong method | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
+| **སྙིང་སྟོབས་བསྐྱེད་ནས་བརྩོན་འགྲུས་རྩོམ་པའི་ནུས་པ།** | courage-and-diligence to undertake happiness's causes; tenzin-gyatso's added layer — beings may recognize the cause of happiness yet still lack the fortitude to act on it, distinct from simple ignorance | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-28]]) |
 | **སྡུག་བསྔལ་ཉིད་ལ་མངོན་པར་རྒྱུག** | running straight toward suffering itself — the precise formulation of beings' inverted action; they pursue suffering's causes while trying to escape suffering | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
 | **གཏི་མུག་པས།** | through delusion / through ignorance — the root cause that makes beings' aspiration for happiness self-defeating; not moral weakness but cognitive blindness to the relationship between cause and effect | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]) |
 | **རང་གི་བདེ་བ་དགྲ་ལྟར་འཇོམས།** | destroying one's own happiness like an enemy — beings actively eliminate the causes of happiness (virtue, the ten wholesome actions) as if those causes were opponents to be defeated | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) |
@@ -162,3 +172,4 @@ notes: |
 - ལག་ལེན་ལ་གཏི་མུག་གི་དབང་གིས་རང་གི་བདེ་བའི་རྒྱུ་དགྲ་ལྟར་འཇོམས་པའི་ཚུལ་ཕྱེ་མ་ལེབ་མར་དཔེར་བྱས་ཏེ་གསལ་བར་མཛད། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]])
 - སྡུག་བསྔལ་གྱི་རྒྱུ་བཅུ་ལ་དངོས་སུ་བཀྲམ་ནས་རྨོངས་པའི་གནས་ལུགས་ཕྲ་རགས་མཚོན། ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 - GDR/NTS/MKS གསུམ་གྱིས་ཚིགས་བཅད་༡།༢༨ ནས་ ༡།༣༠ བར་གྱི་བྱམས་བརྩེ་ཤེས་རབ་གསུམ་གྱིས་སེམས་ཅན་ལ་ཕན་སྒྲུབ་གནོད་སེལ་བྱས་ཏེ་ཆོས་མཇུག་བསྡོམས། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]])
+- tenzin-gyatso ནི་གཏི་མུག་གི་ཐབས་ཤེས་ལ་སྙིང་སྟོབས་དང་བརྩོན་འགྲུས་མ་ལྡང་བའི་ཆ་ཡང་སྣོན་ཏེ། དེར་བརྟེན་གཞན་དོན་འཁུར་དུ་བླངས་པ་ངེས་པར་དུ་དགོས་པར་བཤད། ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-28]])

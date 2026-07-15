@@ -6,7 +6,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 ---
 
@@ -90,6 +90,12 @@ status: draft
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-8]])
 
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+བྱང་ཆུབ་ཀྱི་སེམས་བཟང་པོ་ཞིག་སྐྱེས་ན་མཐར་ཐུག་བླ་ན་མེད་པའི་རྫོགས་པའི་སངས་རྒྱས་ཀྱི་གོ་འཕང་འཐོབ་པ་དང་། འཕྲལ་དུའང་བདེ་ནས་བདེ་བར་འགྲོ་ཞིང་། དེས་སངས་རྒྱས་ཀྱི་གོ་འཕང་ལྟ་ཅི་སྨོས་འཕྲལ་དུ་སྲིད་པ་འཁོར་བར་འཁྱམས་པའི་རིང་ལའང་སྡུག་བསྔལ་གྱིས་མི་ཚུགས་པ་དང་། གཏན་དུ་སྲིད་པའི་ཕུན་ཚོགས་རྒྱུན་མ་ཆད་པ་ཐོབ་པ་དང་། དེ་ལ་བརྟེན་ནས་བདེ་ནས་བདེ་བའི་ལམ་བགྲོད་དེ་འབྲས་བུ་སྤངས་རྟོགས་མཐར་ཕྱིན་པའང་བྱང་ཆུབ་ཀྱི་སེམས་ལ་བརྟེན། ཕན་པའི་བསམ་པ་ཞེས་པ་དེ་ལེགས་ཚོགས་ཐམས་ཅད་ཀྱི་རྩ་བ་ཡིན་པར་བསྟན་ཅིང་། དེས་སེམས་བཟང་པོ་ཡོད་ས་ཁོ་རང་ལ་ཕན་པ་མ་ཟད། རོགས་པ་ཚོ་དང་དེའི་འཁོར་ཡུག་ཐམས་ཅད་ལ་ཡང་ཕན་པ་ཡིན་པས་བདེ་མཆོག་བདེ་བླག་ཉིད་དུ་འཐོབ་པར་བྱེད་ཅེས་གསུངས།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-8]])
+
 ---
 
 ## དཔེ། (Metaphors)
@@ -150,3 +156,5 @@ The Vinaya's formulation cited by Minyak sharpens the import: "Monks should not 
 Khenpo Kunga notes that the positive counterpart to the injunction is *rang rgyud la bzung* — not merely refraining from abandonment but actively holding bodhicitta within one's continuum as a living presence, permanently. ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-8]])
 
 Together, verses 1-6, 1-7, and 1-8 form a triptych of reasons to generate and never abandon bodhicitta: it overcomes what cannot be overcome by other means (1-6); it is what the Buddhas themselves verified as the sole cause of benefit and happiness (1-7); and it accomplishes without exception every aspiration every kind of being could have (1-8).
+
+Tenzin Gyatso adds that this benefit is not confined to the individual holder of bodhicitta: because the altruistic intention (*phan pa'i bsam pa*) is the root of every collection of virtue, a person in whom it has arisen benefits not only themselves but also their companions and their entire surrounding environment — reinforcing why bodhicitta should never, even momentarily, be relinquished. ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-8]])

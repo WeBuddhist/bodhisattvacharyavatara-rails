@@ -6,7 +6,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 notes: |
   Grouping matrix:
@@ -98,6 +98,12 @@ notes: |
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+སེམས་ཅན་གང་དང་གང་ལ་བདག་པས་གཞན་གཅེས་པའི་བྱང་ཆུབ་ཀྱི་སེམས་རྒྱུད་ལ་ཡོད་པ་དེ་རྣམས་ཀྱི་སྐུ་ལ། བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་ཕན་ཡོན་དེ་ལྟ་བུ་དྲན་པའི་སྒོ་ནས་སྐུ་ཡི་ཆ་དམའ་ཤོས་ཞབས་ལ་གུས་པས་བཏུད་དེ་ཕྱག་འཚལ་རྒྱུ་ཡིན། སྔོན་སྟོན་པའི་སྐྱེས་རབས་ཀྱི་ནང་དུ་ཡོད་པ་བཞིན། བྱང་ཆུབ་ཀྱི་སེམས་རྒྱུད་ལ་ཡོད་མཁན་དེ་ལ་ཕན་པར་བྱས་པ་ཙམ་དུ་མ་ཟད། དེ་ལ་གལ་ཏེ་བཟང་འབྲེལ་མིན་པར་ངན་འབྲེལ་ཞིག་ཐོགས་པ་ཡིན་ནའང་། བྱང་ཆུབ་ཀྱི་སེམས་དེའི་སྟོབས་ཀྱིས་སླར་རང་ལ་ཐུན་མོང་མིན་པའི་འབྲེལ་ཐོགས་པར་འགྱུར་ཏེ། དཔེར་ན་སྔོན་རྒྱལ་པོ་བྱམས་པའི་སྟོབས་ཀྱིས་སྲིན་པོ་ལ་ཤ་ཁྲག་སྦྱིན་པ་དེས་མ་འོངས་པར་འཁོར་གྱི་ཐོག་མར་སྐྱེ་བའི་ལས་འབྲེལ་བཞག་པར་གསུངས་པ་ཡང་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་དབང་གིས་བྱུང་བ་ཡིན་པས། དེ་ལ་ཕན་བཏགས་ན་བདེ་སྐྱིད་འབྱུང་བ་ལྟ་ཅི་སྨོས་ཏེ། དེ་ལ་གནོད་པ་བསྐྱལ་བ་ཡིན་ནའང་བརྒྱུད་ནས་རང་ལ་ཕན་ཐོགས་ཞིག་ཡོང་ཐུབ་ན། བདེ་བའི་འབྱུང་གནས་མཐར་ཐུག་པ། འགྲོ་བ་རྣམས་ཀྱི་བདེ་སྐྱིད་འབྱུང་བའི་གནས་དེ་ལྟ་བུ་ཡིན་པས། ཡོན་ཏན་དྲན་པའི་སྒོ་ནས་དེ་ལ་སྐྱབས་སུ་མཆིའོ་ཞེས་གསུངས།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-36]])
+
 ---
 
 ## སྒྲུང་འགྲེལ། (Narrative illustrations)
@@ -113,6 +119,12 @@ notes: |
 དཔེར་ན་རྒྱལ་པོ་བྱམས་པའི་སྟོབས་ཀྱིས་གནོད་སྦྱིན་ལྔ་འཕྲལ་དང་ཡུན་དུ་བདེ་བར་མཛད་པ་བཞིན་ནོ།། (NTS) — དཔེར་ན་དྲང་སྲོང་བཟོད་པར་སྨྲ་བ་དང། རྒྱལ་པོ་བྱམས་པའི་སྟོབས་བཞིན་ནོ།། (KKP) — King of Loving Power (རྒྱལ་པོ་བྱམས་པའི་སྟོབས་ / Maitrīsthāmaka) connected five yakṣas (གནོད་སྦྱིན་ལྔ་) who had harmed him with happiness both immediately and ultimately. Cited by KKP and NTS as the paired example for bodhisattvas who transform harm into connection with liberation.
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]])
+
+### tenzin-gyatso — རྒྱལ་པོ་བྱམས་པའི་སྟོབས་ཀྱིས་སྲིན་པོ་ལ་ཤ་ཁྲག་སྦྱིན་པའི་སྐྱེས་རབས།
+
+སྔོན་རྒྱལ་པོ་བྱམས་པའི་སྟོབས་ཀྱིས་སྲིན་པོ་ཞིག་ལ་རང་གི་ཤ་ཁྲག་སྦྱིན་པར་མཛད་པ་དེས། མ་འོངས་པར་སྲིན་པོ་དེའི་འཁོར་གྱི་ཐོག་མར་སྐྱེ་བའི་ལས་འབྲེལ་བཞག་པར་གསུངས། དེ་ནི་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་དབང་གིས་གནོད་པའི་འབྲེལ་ཡང་མཐར་ཕན་ཐོགས་སུ་འགྱུར་བའི་དཔེར་བཀོད་ཡིན། (Note: this is TG's own telling of the "King Loving Power" narrative also cited by KKP and NTS above — TG's version specifies the offering of flesh and blood as the karmic act that establishes the connection.)
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-36]])
 
 ---
 
@@ -171,3 +183,4 @@ notes: |
 - གནོད་བྱེད་བདེ་བར་གྲོལ་བ་ — སྙིང་རྗེ་ཐབས་མཁས་སྨོན་ལམ་གྱི་སྟོབས་ལས་བདེ་བའི་འབྱུང་གནས་ཀྱི་མཐུ་མངོན་། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]])
 - བཟང་འབྲེལ་ཚེ་གཅིག་སངས་རྒྱས། ངན་འབྲེལ་འཁོར་བ་མཐའ་ཅན། — གནོད་འཚེ་དང་གུས་བཀུར་གཉིས་ཀ་མཐར་བདེ་བར་མཇུག་འགྲིབ། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]])
 - KKP གིས་དག་སྣང་སྦྱང་བའི་གནད་ཀྱིས་མཐར་བཀའ་སློབ། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]])
+- tenzin-gyatso ནི་རྒྱལ་པོ་བྱམས་པའི་སྟོབས་ཀྱིས་སྲིན་པོ་ལ་ཤ་ཁྲག་སྦྱིན་པའི་སྐྱེས་རབས་དྲངས་ཏེ་གནོད་པའི་འབྲེལ་ཡང་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་སྟོབས་ཀྱིས་མཐར་ཕན་ཐོགས་སུ་འགྱུར་བར་བཤད། ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-36]])

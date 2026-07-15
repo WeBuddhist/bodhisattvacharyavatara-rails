@@ -94,9 +94,17 @@ status: draft
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-6]])
 
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+ང་ཚོར་ཐོག་མ་མེད་པ་ནས་གོམས་པའི་དབང་གིས་སྐྱོན་གྱི་ཕྱོགས་ཤུགས་ཆེན་པོ་སྔར་ཕན་ཆད་བསགས་པའི་སྡིག་ལྟུང་དང་ད་ལྟ་ཡང་བསགས་བཞིན་པའི་སྡིག་པ་མི་མཐུན་པའི་ཕྱོགས་ནུས་པ་ཆེན་པོ་ཡོད་པ་དེ་སེལ་བའི་ཐབས་བླ་ན་མེད་པ་གཅིག་ཆོག་ཀུན་འདུས་ལྟ་བུ་བདག་པས་གཞན་གཅེས་པར་བྱེད་པའི་བྱང་ཆུབ་ཀྱི་སེམས་ལས་རྩ་བ་ནས་མེད། བྱང་ཆུབ་ཞེས་པའི་བྱང་ཞེས་པ་ནི་སྤྱིར་བཏང་གོ་བདེ་པོ་བྱས་ན་ཤེས་བྱ་ཤེས་པ་ལ་བར་དུ་གཅོད་པའི་ཤེས་བྱའི་སྒྲིབ་པ་དང་དེའི་བག་ཆགས་འཇོག་བྱེད་ཀྱི་ཉོན་མོངས་པའི་སྒྲིབ་པ་དང་། དེ་གཉིས་ཀྱི་དབང་གིས་བྱུང་བའི་ལུས་ངག་གི་གནས་ངན་ལེན་ཁ་ན་མ་ཐོ་བའི་སྐྱོན་གྱི་རིགས་མཐའ་དག་གཏན་དུ་ཟད་དེ་ལྷག་མ་མེད་པར་བྱང་བའི་དོན་ཡིན་ལ། ཆུབ་ཅེས་པ་ནི་ཤེས་བྱ་ཤེས་པ་ལ་བར་དུ་གཅོད་པའི་སྒྲིབ་པ་མཐའ་དག་ཟད་པའི་མཐུས་བདེན་གཉིས་ཅིག་ཅར་དུ་གཟིགས་པའི་མཁྱེན་པ་བླ་ན་མེད་པ་མཐར་ཐུག་པ་ཐོབ་པའི་དོན་ཡིན། སེམས་ཅན་ཐམས་ཅད་ལ་དམིགས་ནས་སྙིང་རྗེ་ཆེན་པོའི་སྟོབས་ཀྱིས་བྱང་ཆུབ་ཀྱི་སེམས་སྐྱེས་ན་སྐད་ཅིག་ཙམ་ཞིག་ལ་མི་མཐུན་པའི་ཕྱོགས་མཐའ་དག་འཇོམས་ཐུབ།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-6]])
+
 ---
 
 ## དཔེ། (Metaphors)
+
+**གོ་མཚོན་འཇོམས་པའི་དཔེ།** (Weapon of great potency) — An enemy army armed with countless small weapons (*rdul phran mtshon cha*), however great its numbers and strength, can be destroyed in an instant by a single substance of great potency (*nus shugs chen po'i rdzas gcig*). Likewise, however powerful the negative forces accumulated since beginningless time, bodhicitta arising even for a single instant has the power to overwhelm all of them at once — there is no other antidote of equal force. ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-6]])
 
 **གློག་འགྱུ་བའི་དཔེ།** (Lightning flash) — Ordinary virtue is compared to a flash of lightning in dark storm-clouds: intermittent, fleeting, powerless. Non-virtue is compared to the mass of dark cloud itself: pervasive, persistent, powerful enough to propel beings to lower realms. This paired simile (from Kunpal and Sabzang, building on the imagery of verse 1-5) frames the central argument of verse 1-6. ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-6]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-6]])
 
@@ -130,6 +138,18 @@ status: draft
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-6]])
 
+### tenzin-gyatso ཀྱིས་གསུངས་པའི་སྨོན་ཚིག
+
+> སེམས་ཅན་རེ་རེའི་ཕྱིར་ཡང་མནར་མེད་པའི། །མེ་ནང་བསྐལ་པ་རྒྱ་མཚོར་གནས་དགོས་ཀྱང་། །སྙིང་རྗེས་མི་སྐྱོ་བྱང་ཆུབ་མཆོག་བརྩོན་པའི། །བརྩོན་འགྲུས་ཕར་ཕྱིར་རྫོགས་པར་བྱིན་གྱིས་རློབས། །
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-6]])
+
+### བཀའ་གདམས་པའི་དགེ་བཤེས་གོང་མའི་གསུང་
+
+> བྱང་ཆུབ་ཀྱི་སེམས་རྒྱུད་ལ་སྐྱེས་པ་ཞིག་བྱུང་ན་ཚོགས་ཀྱང་དེས་རྫོགས། སྡིག་སྒྲིབ་ཀྱང་དེས་སྦྱོང་བ་ཡིན། །
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-6]])
+
 ---
 
 ## གཙོ་གནད། (Main teaching points)
@@ -144,6 +164,8 @@ status: draft
 
 5. **རྟག་གི་གྲུབ་དོན་གཉིས།** — Minyak identifies two valid readings of the word *rtag* in the verse: (1) *rtag* modifies "virtue" — virtue is always (*rtag*) weak; (2) *rtag* modifies "sin" — sin is always (*rtag*) powerful and unendurable. Both readings cohere with the verse's meaning and are accepted. ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-6]])
 
+6. **མི་མཐུན་ཕྱོགས་སྐད་ཅིག་ཙམ་གྱིས་འཇོམས་པའི་ནུས་པ།** — Tenzin Gyatso adds a vivid contemporary framing of the same asymmetry: bodhicitta's power is compared to a single substance of great potency that can destroy an enemy army in an instant, however great that army's own strength. He also glosses the etymology of *byang chub* itself directly against this verse's logic — *byang* (all faults abandoned without remainder) and *chub* (the ultimate wisdom realizing both truths simultaneously) — as the very reason nothing less than bodhicitta can overwhelm great sin. ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-6]])
+
 ---
 
 ## གནད་ཚིག (Key terms)
@@ -156,6 +178,7 @@ status: draft
 | **རྫོགས་པའི་བྱང་ཆུབ་ཀྱི་སེམས།** | Bodhicitta of complete awakening — both aspiration and application bodhicitta; the sun-like jewel-mind that alone can overwhelm great sin | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-6]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-6]]) |
 | **ཟིལ་གྱིས་གནོན།** | To overwhelm/suppress — the technical term for bodhicitta's power to overcome sin, analogous to a cat's gaze overwhelming mice | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-6]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-6]]) |
 | **ཀུན་རྫོབ་སེམས་བསྐྱེད།** | Conventional bodhicitta — primarily what is taught in this verse; it purifies past sin and cuts future non-virtue at their karmic root | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-6]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-6]]) |
+| **བྱང་ཆུབ་ (etymology)** | བྱང་ = ཤེས་སྒྲིབ་དང་ཉོན་སྒྲིབ་གཉིས་ཀྱི་དབང་གིས་བྱུང་བའི་ཁ་ན་མ་ཐོ་བའི་སྐྱོན་གྱི་རིགས་མཐའ་དག་ལྷག་མེད་དུ་བྱང་བ། ཆུབ་ = ཤེས་སྒྲིབ་ཟད་པའི་མཐུས་བདེན་གཉིས་ཅིག་ཅར་གཟིགས་པའི་མཁྱེན་པ་མཐར་ཐུག་པ་ཐོབ་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-6]]) |
 
 ---
 

@@ -94,6 +94,7 @@ Every commentary file in `1-SOURCES/Commentaries/` declares a `registered_id` in
 | `druk-kunkhyen` | འབྲུག་ཀུན་མཁྱེན་པདྨ་དཀར་པོ། / Druk Kunkhyen Pema Karpo | commentary | Tibetan | `bo-འབྲུག་ཀུན་མཁྱེན་པདྨ་དཀར་པོ།.md` |
 | `wuzheng` | 无著菩萨 (Wúzhuó Púsà) | commentary | Chinese | `zh-无著菩萨 造索达吉堪布译.md` |
 | `dalai-lama-14` | 第十四世達賴喇嘛 | commentary | Chinese | `zh-第十四世達賴喇嘛.md` |
+| `tenzin-gyatso` | རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། / H.H. the 14th Dalai Lama, Tenzin Gyatso | commentary | Tibetan | `BCAC20_TG_bo.toc.md` |
 
 **Tier ordering** within a verse package's Traditional Interpretation section: lead with the primary Indian/Sanskrit source (`prajnakaramati`) if it addresses the verse, then Tibetan scholarly commentaries ordered by tradition (`kunpal`, `mipham`, `khenpo-zhengah`, `gyaltsab`), then supplementary Tibetan sources, then Chinese sources.
 

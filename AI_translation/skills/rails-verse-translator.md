@@ -15,6 +15,10 @@ A locked termbase only pays off if the translation actually uses it consistently
 
 This also matters for token consumption: a long source text translated in full within a single turn (or fanned out across many parallel subagent turns at once) burns through a large amount of context/tokens in one shot, with no natural checkpoint to stop at if something needs correcting. Pacing it one chapter per turn keeps each turn's token cost bounded and avoids paying for rework across material that hasn't been reviewed yet.
 
+## Translate fresh — never reuse a prior translation as a shortcut
+
+Every segment in this step must be translated from the source text itself, actively consulting the locked termbase term by term as you go. This holds even when a `zeroshot-translator` output (or any other prior translation) already exists for the same text/audience/language combination, and even when that prior output happens to share vocabulary with the termbase — which it often will, since the termbase is frequently built *from* that same prior translation's word choices. Shared vocabulary is not the same thing as having gone through the rails process: copying or lightly adapting a prior translation and then verifying only structural properties (segment IDs, line counts) checks that the shape is right without checking that the translation was actually produced by applying the termbase. If a rails translation ends up closely resembling a prior zeroshot pass, that's a fine and expected outcome of both being good translations of the same source — but it must be arrived at by translating, not by starting from the prior file and validating it after the fact.
+
 ## Inputs needed before starting
 
 - The source text, split into chapters (or whatever natural unit makes sense) with segment IDs intact — see `split-file-by-markers` if it still needs splitting.

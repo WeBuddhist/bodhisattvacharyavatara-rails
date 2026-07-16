@@ -21,6 +21,7 @@ translated_from: "3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packa
 sources:
   plan_day_file: "3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/Chapter-1 D1-D14/1.md"
   schedule_file: "3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/assets/schedule-hhdl-birthday.md"
+  verse_source: "3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md"
   rail_files:
     - "2-RAILS/Verses/1-1-summary.md"
     - "2-RAILS/Verses/1-2-summary.md"
@@ -41,7 +42,7 @@ sources:
 <!-- challenge:notification -->
 ### Notification
 
-**Title:** Catch yourself before your next sharp word
+**Title:** Catch yourself before your next sharp word  
 **Detail:** Shantideva wrote this to train his own mind. Today, pause before a sharp word or a small lie.
 
 <!-- challenge:opening -->

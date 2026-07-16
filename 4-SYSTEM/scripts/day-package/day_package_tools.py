@@ -236,6 +236,9 @@ def conform(path):
         if not has_table:
             rebuilt = []
             for l in content:
+                if not CITATION.search(l):
+                    rebuilt.append(l)             # no citation -> leave verbatim (keeps hard breaks)
+                    continue
                 for t in CITATION.findall(l):
                     if t not in toks:
                         toks.append(t)

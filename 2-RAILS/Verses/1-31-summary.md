@@ -100,13 +100,13 @@ notes: |
 
 ## གཙོ་གནད། (Main teaching points)
 
-1. **མ་བཅོལ་ལེགས་པར་བྱེད་པའི་གནད།** — The verse's core argument is a *fortiori* (སྨོས་ཅི་དགོས།): the person who repays kindness already receives praise in the world (རེ་ཞིག་བསྔགས་འོས་); how much more worthy of praise is the bodhisattva who, without having previously received kindness, and without being asked (མ་བཅོལ་), spontaneously works for all beings' benefit and happiness in this and future lives? All seven commentaries agree on this structure.
+1. **མ་བཅོལ་ལེགས་པར་བྱེད་པའི་གནད།** — ཚིགས་སུ་བཅད་པ་འདིའི་གཏན་ཚིགས་གཙོ་བོ་ནི་སྨོས་ཅི་དགོས་ཀྱི་རིགས་པ་ཞིག་སྟེ། སྔར་ཕན་བཏགས་པའི་དྲིན་ལ་ལན་ལྡོན་པ་ཙམ་གྱིས་ཀྱང་འཇིག་རྟེན་ན་རེ་ཞིག་བསྔགས་འོས་ན། སྔར་ཕན་བཏགས་པ་གང་ཡང་མེད་ཅིང་སུས་ཀྱང་མ་བཅོལ་བཞིན་དུ་རང་བཞིན་གྱིས་འདི་ཕྱིའི་ཕན་བདེ་སེམས་ཅན་ཐམས་ཅད་ལ་སྒྲུབ་པར་བྱེད་པའི་བྱང་ཆུབ་སེམས་དཔའ་ཆེས་ཆེར་བསྔགས་འོས་པར་གྲུབ། འགྲེལ་པ་བདུན་ཀ་ཡིས་གཏན་ཚིགས་འདིར་མཐུན་པར་གསུངས།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]])
 
-2. **སྙིང་རྗེ་ཆེན་པོས་དྲངས་པའི་གནད།** — GDR and MKS both specify that the bodhisattva's spontaneous help is not mere coincidence but arises because great compassion (སྙིང་རྗེ་ཆེན་པོ་) naturally drives the bodhisattva toward beings' welfare without any deliberate effort (ཡིད་དབང་མེད་དུ་དྲངས་). MKS calls it "རང་བཞིན་གྱི་སྙིང་རྗེ་ཆེན་པོ་" — innate great compassion.
+2. **སྙིང་རྗེ་ཆེན་པོས་དྲངས་པའི་གནད།** — རྒྱལ་ཚབ་དང་མི་ཉག་ཀུན་བཟང་གཉིས་ཀས་གསལ་བར་བཤད་པ་ལྟར། བྱང་ཆུབ་སེམས་དཔའི་ལེགས་པར་བྱེད་པ་འདི་གློ་བུར་བ་ཙམ་མིན་པར་སྙིང་རྗེ་ཆེན་པོས་ཡིད་དབང་མེད་དུ་དྲངས་ནས་རང་བཞིན་གྱིས་སེམས་ཅན་གྱི་དོན་ལ་འབད་རྩོལ་མེད་པར་འབྱུང་བ་ཡིན། མི་ཉག་ཀུན་བཟང་གིས་"རང་བཞིན་གྱི་སྙིང་རྗེ་ཆེན་པོ་" ཞེས་གསུངས།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])
 
-3. **ལན་དང་རྣམ་སྨིན་ལ་མི་རེ་བར་ཕན་འདོགས་པའི་གནད།** — SMPLG and MKS emphasize that the bodhisattva helps without expecting any return or ripening of merit (ལན་དང་རྣམ་པར་སྨིན་པ་ལ་མི་རེ་བར་). This distinguishes bodhisattva action from ordinary virtue done for personal benefit. MKS further specifies that the bodhisattva regards all beings equally without near and far (སེམས་ཅན་ཐམས་ཅད་ལ་ཉེ་རིང་མཉམ་པ་ཉིད་དུ་བལྟས་ནས་).
+3. **ལན་དང་རྣམ་སྨིན་ལ་མི་རེ་བར་ཕན་འདོགས་པའི་གནད།** — ས་བཟང་དང་མི་ཉག་ཀུན་བཟང་གཉིས་ཀས་གསལ་བཤད་མཛད་པ་ལྟར། བྱང་ཆུབ་སེམས་དཔས་ལན་དང་རྣམ་པར་སྨིན་པའི་འབྲས་བུ་ལ་མི་རེ་བར་སེམས་ཅན་ལ་ཕན་འདོགས་པས། འདིས་རང་དོན་གྱི་ཆེད་དུ་བྱས་པའི་དགེ་བ་ཐུན་མོང་བ་ལས་ཁྱད་པར་དུ་འཕགས་པར་གྲུབ། མི་ཉག་ཀུན་བཟང་གིས་སེམས་ཅན་ཐམས་ཅད་ལ་ཉེ་རིང་མཉམ་པ་ཉིད་དུ་བལྟས་པར་ཡང་གསལ་བཤད་མཛད།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])
 
 ---
@@ -115,10 +115,10 @@ notes: |
 
 | གནད་ཚིག | འགྲེལ་བཤད་ | ཁུངས། |
 |---|---|---|
-| **མ་བཅོལ།** | without being asked / spontaneously; the bodhisattva is not commissioned or requested — greatness arises from the inner quality of compassion rather than external prompting | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
-| **ལན་ལྡོན་པ།** | repaying kindness; the worldly baseline for praiseworthy behavior — used here as the lesser case in the verse's a-fortiori argument | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
-| **རང་བཞིན་གྱི་སྙིང་རྗེ་ཆེན་པོ།** | innate great compassion; MKS's qualifier for the force that drives the bodhisattva to help spontaneously — not an imposed duty but a natural quality of the bodhisattva's being | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]) |
-| **རེ་ཞིག་བསྔགས་འོས།** | worthy of praise for the moment / even for now; KS's gloss marking the lesser case — even the mere return of past kindness is praised — before the greater case (the bodhisattva) is introduced | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
+| **མ་བཅོལ།** | སུས་ཀྱང་མ་བཅོལ་ཞིང་མ་བསྐུལ་བར་རང་བཞིན་གྱིས་འབྱུང་བ་སྟེ། བྱང་ཆུབ་སེམས་དཔའི་ཆེ་བ་ནི་ཕྱིའི་བཀོད་འདོན་ལས་མིན་པར་རང་རྒྱུད་ཀྱི་སྙིང་རྗེའི་ཡོན་ཏན་ལས་བྱུང་བ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
+| **ལན་ལྡོན་པ།** | སྔར་ཕན་བཏགས་པའི་དྲིན་ལ་ལན་གཞིར་བསྒྲུབ་པ་སྟེ། འཇིག་རྟེན་གྱི་ལུགས་ལྟར་བསྔགས་འོས་སུ་བརྩིས་པའི་གཞི་མ་ — ཚིགས་བཅད་འདིའི་སྨོས་ཅི་དགོས་ཀྱི་རིགས་པར་དམའ་རིམ་གྱི་དཔེར་བཀོད་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
+| **རང་བཞིན་གྱི་སྙིང་རྗེ་ཆེན་པོ།** | མི་ཉག་ཀུན་བཟང་གིས་བྱང་ཆུབ་སེམས་དཔའ་རང་བཞིན་གྱིས་ལེགས་པར་བྱེད་པའི་ནུས་པ་ལ་བཏགས་པའི་མིང་སྟེ། ཕྱིའི་བཀོད་འདོན་མིན་པར་རང་རྒྱུད་ཀྱི་ངོ་བོའི་ཡོན་ཏན་ལས་ལྷུན་གྱིས་གྲུབ་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]) |
+| **རེ་ཞིག་བསྔགས་འོས།** | ཁ་ཞིག་ཙམ་དུའང་བསྔགས་འོས་ཞེས་པའི་དོན་སྟེ། སྔར་ཕན་བཏགས་པའི་ལན་ལྡོན་པ་ཙམ་ལའང་བསྔགས་འོས་སུ་བརྗོད་ནས་ཕྱིས་བྱང་ཆུབ་སེམས་དཔའི་ཆེ་བ་བསྟན་པའི་སྔོན་འགྲོ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
 
 ---
 

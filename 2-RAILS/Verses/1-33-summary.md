@@ -90,13 +90,13 @@ notes: |
 
 ## གཙོ་གནད། (Main teaching points)
 
-1. **སྦྱིན་བདག་ཆེན་པོའི་ལྔ་ལྡན་གྱི་གནད།** — Verse 1-33 presents the bodhisattva as the greater case completing the *a fortiori* argument begun in 1-32. Where the small donor is narrow in five dimensions, the bodhisattva excels in all five: field (ཡུལ་ — countless beings equal to space), time (དུས་ — until the heart of awakening), gift (དངོས་པོ་ — unsurpassable happiness of the Sugatas), manner (སྦྱོར་བ་ — peaceful and respectful), and benefit (ཕན་འདོགས་ — fulfilling every wish in mind). KKP's commentary presents these five contrasts explicitly.
+1. **སྦྱིན་བདག་ཆེན་པོའི་ལྔ་ལྡན་གྱི་གནད།** — ཚིགས་བཅད་༡།༣༣ པས་ ༡།༣༢ ནས་བརྩམས་པའི་"ལྟ་ཞིག་སྨོས་ཅི་དགོས"ཀྱི་སྐད་ཆ་མཇུག་སྒྲིལ་ཏེ་བྱང་ཆུབ་སེམས་དཔའ་ཆེ་བའི་སྦྱིན་བདག་ཡིན་པར་སྟོན། སྦྱིན་བདག་ཆུང་ངུ་ནི་ལྔ་ཆ་ཐམས་ཅད་ལ་དམན་པ་ཡིན་པའི་ཐད་དུ། བྱང་ཆུབ་སེམས་དཔས་ལྔ་ཆ་ཐམས་ཅད་ལ་ཁྱད་པར་དུ་འཕགས་ཏེ། ཡུལ་ (སེམས་ཅན་གྲངས་མཐའ་ཡས་ནམ་མཁའ་དང་མཉམ་པ), དུས་ (བྱང་ཆུབ་སྙིང་པོའི་བར་དུ), དངོས་པོ་ (བདེ་བར་གཤེགས་པའི་བདེ་བ་བླ་ན་མེད་པ), སྦྱོར་བ་ (ཞི་ཞིང་གུས་པ་དང་བཅས་པ), ཕན་འདོགས་ (ཡིད་ལ་བསམ་པ་མཐའ་དག་རྫོགས་པར་བྱེད་པ) བཅས་ལྔའོ། KKP འི་འགྲེལ་བཤད་ལས་ལྔ་ཆའི་ཁྱད་པར་འདི་དངོས་སུ་བཤད་ཡོད།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]])
 
-2. **སྦྱིན་པ་རྣམ་པ་བཞིའི་གནད། (NKW)** — NKW specifies that the bodhisattva gives all four types of generosity (སྦྱིན་པ་རྣམ་པ་བཞི་) without interruption: dharma generosity (ཆོས་), material generosity (ཟང་ཟིང་), protection from fear (མི་འཇིགས་པའི་སྐྱབས་), and love (བྱམས་པ་). The four-fold generosity encompasses every possible form of benefit.
+2. **སྦྱིན་པ་རྣམ་པ་བཞིའི་གནད། (NKW)** — NKW གིས་བྱང་ཆུབ་སེམས་དཔས་སྦྱིན་པ་རྣམ་པ་བཞི་ (སྦྱིན་པ་རྣམ་པ་བཞི་) ཐམས་ཅད་རྒྱུན་མི་ཆད་པར་སྦྱིན་པར་གསལ་བཤད་མཛད་དེ། ཆོས་ཀྱི་སྦྱིན་པ་ (ཆོས་), ཟང་ཟིང་གི་སྦྱིན་པ་ (ཟང་ཟིང་), མི་འཇིགས་པའི་སྐྱབས་ (མི་འཇིགས་པའི་སྐྱབས་), བྱམས་པའི་སྦྱིན་པ་ (བྱམས་པ་) བཅས་བཞིའོ། སྦྱིན་པ་རྣམ་པ་བཞི་འདིས་ཕན་འདོགས་ཀྱི་རྣམ་པ་ཐམས་ཅད་ཡོངས་སུ་ཁྱབ་པར་བྱེད།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
-3. **བདེ་བར་གཤེགས་ཀྱི་བདེ་བ་བླ་ན་མེད་པའི་གནད།** — The gift the bodhisattva provides is qualitatively incomparable: not ordinary food or material goods but the "unsurpassable happiness of the Sugatas" (བདེ་གཤེགས་ཀྱི་བདེ་བ་བླ་ན་མེད་). KS, KKP, SMPLG, and NKW all emphasize this qualitative superiority as the central contrast with 1-32's ordinary food gift.
+3. **བདེ་བར་གཤེགས་ཀྱི་བདེ་བ་བླ་ན་མེད་པའི་གནད།** — བྱང་ཆུབ་སེམས་དཔས་སྦྱིན་པའི་དངོས་པོ་ནི་རང་བཞིན་གྱིས་མཚུངས་མེད་དེ། ཟས་ལྟོ་སོགས་ཟང་ཟིང་ཐུན་མོང་བ་མིན་པར་"བདེ་བར་གཤེགས་པའི་བདེ་བ་བླ་ན་མེད་པ" (བདེ་གཤེགས་ཀྱི་བདེ་བ་བླ་ན་མེད་) ཉིད་ཡིན། KS, KKP, SMPLG, NKW བཞི་ཀས་དངོས་པོའི་ཁྱད་པར་འདི་ ༡།༣༢ པའི་ཟས་ཀྱི་སྦྱིན་པ་ཐུན་མོང་བ་དང་འགལ་བའི་གཙོ་བོའི་ཁྱད་པར་དུ་བཤད།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]])
 
 ---
@@ -105,9 +105,9 @@ notes: |
 
 | གནད་ཚིག | འགྲེལ་བཤད་ | ཁུངས། |
 |---|---|---|
-| **བདེ་བར་གཤེགས་ཀྱི་བདེ་བ་བླ་ན་མེད།** | unsurpassable happiness of the Sugatas / Buddhas; the supreme gift the bodhisattva gives — not material goods but the happiness of complete awakening | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
-| **ཡིད་ལ་བསམ་པ་མཐའ་དག་རྫོགས་བྱེད།** | fulfills all that is wished in mind; SMPLG glosses this as fulfilling each being's individual wishes completely (རང་རང་གི་ཡིད་ལ་གང་ཅི་བསམ་པ་མཐའ་དག་མ་ལུས་པ་རྫོགས་པར་བྱེད་) | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]) |
-| **སྦྱིན་པ་རྣམ་པ་བཞི།** | four types of generosity: NKW: ཆོས། ཟང་ཟིང། མི་འཇིགས་པའི་སྐྱབས། བྱམས་པ་ — dharma, material, fearlessness, love | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) |
+| **བདེ་བར་གཤེགས་ཀྱི་བདེ་བ་བླ་ན་མེད།** | བདེ་བར་གཤེགས་པ་རྣམས་ཀྱི་བླ་ན་མེད་པའི་བདེ་བ་སྟེ། བྱང་ཆུབ་སེམས་དཔས་སྦྱིན་པའི་མཆོག་གི་དངོས་པོ། ཟང་ཟིང་ཐུན་མོང་བ་མིན་པར་རྫོགས་པའི་བྱང་ཆུབ་ཀྱི་བདེ་བ་ཉིད། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
+| **ཡིད་ལ་བསམ་པ་མཐའ་དག་རྫོགས་བྱེད།** | ཡིད་ལ་གང་བསམ་པ་མཐའ་དག་མ་ལུས་པར་རྫོགས་པར་བྱེད་པ། SMPLG གིས་སེམས་ཅན་སོ་སོའི་རང་རང་གི་ཡིད་ལ་གང་ཅི་བསམ་པའི་འདོད་པ་མཐའ་དག་མ་ལུས་པར་རྫོགས་པར་བྱེད་པར་འགྲེལ་ (རང་རང་གི་ཡིད་ལ་གང་ཅི་བསམ་པ་མཐའ་དག་མ་ལུས་པ་རྫོགས་པར་བྱེད་) | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]) |
+| **སྦྱིན་པ་རྣམ་པ་བཞི།** | སྦྱིན་པའི་རིགས་བཞི་སྟེ། NKW: ཆོས། ཟང་ཟིང། མི་འཇིགས་པའི་སྐྱབས། བྱམས་པ་ — ཆོས་ཀྱི་སྦྱིན་པ། ཟང་ཟིང་གི་སྦྱིན་པ། མི་འཇིགས་པ་སྦྱིན་པ། བྱམས་པ་སྦྱིན་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) |
 
 ---
 

@@ -57,7 +57,7 @@ notes: |
 
 ### gyaltsab — རྒྱལ་ཚབ་དར་མ་རིན་ཆེན། (རྒྱལ་སྲས་འཇུག་ངོགས།)
 
-*Note: 1-21 and 1-22 grouped in this commentary. The following prose covers both verses; the a fortiori argument is completed with verse 1-22. See also 1-22-summary for cross-reference.*
+*ཟུར་བཀོད། ཤོ་ལོ་ཀ 1-21 དང་1-22 གཉིས་འགྲེལ་པ་འདིར་ཕྲད་ནས་བཤད། གཤམ་གྱི་ཚིག་གནས་ཤོ་ལོ་ཀ་གཉིས་ཀ་ལ་ཁྱབ་ཞིང༌། རིགས་པའི་སྒྲུབ་ཚུལ་དེ་ཤོ་ལོ་ཀ 1-22 པས་མཐར་ཕྱིན་པར་བྱེད། 1-22-summary ལའང་གཟིགས།*
 
 དེད་དཔོན་མཛའ་བོའི་བུ་མོ་ལྟར་དམིགས་རྣམ་རྒྱ་ཆུང་བ་སེམས་ཅན་རྣམས་ཀྱི་ཀླད་ནད་ཙམ་བསལ་ལོ་སྙམ་དུ་བསམས་ན་ཡང་གཞན་ལ་ཕན་འདོགས་པའི་བསམ་པ་དང་ལྡན་ཏེ། བསོད་ནམས་དཔག་མེད་དང་ལྡན་པར་འགྱུར་ན་སེམས་ཅན་རེ་རེའི་མི་བདེ་བ་དཔག་ཏུ་མེད་པ་བསལ་བར་འདོད་ཅིང་སེམས་ཅན་རེ་རེའང་སངས་རྒྱས་ཀྱི་ཡོན་ཏན་དཔག་མེད་ཅན་དུ་བསྒྲུབ་པར་འདོད་པ་ལ་བསོད་ནམས་མཐའ་ཡས་པ་ཡོད་པ་སྨོས་ཅི་དགོས་སོ། །
 
@@ -65,7 +65,7 @@ notes: |
 
 ### ngulchu-thogmed — དངུལ་ཆུ་ཐོགས་མེད། (ལེགས་བཤད་རྒྱ་མཚོ།)
 
-*Note: 1-21 and 1-22 grouped in this commentary. Prose covers both verses.*
+*ཟུར་བཀོད། ཤོ་ལོ་ཀ 1-21 དང་1-22 གཉིས་འགྲེལ་པ་འདིར་ཕྲད་ནས་བཤད། ཚིག་གནས་ཤོ་ལོ་ཀ་གཉིས་ཀ་ལ་ཁྱབ།*
 
 སྙིང་རྗེའི་སེམས་ཀྱིས་སེམས་ཅན་ཉུང་ཟད་རྣམས་ཀྱི་ཀླད་ནད་ཙམ་སྨན་ལ་སོགས་པས་བསལ་ལོ་སྙམ་དུ་བསམ་ན་ཡང་ཕན་འདོགས་བསམ་པ་དང་ལྡན་ཏེ། བསོད་ནམས་དཔག་ཏུ་མེད་པ་དང་ལྡན་པར་འགྱུར་ན་ཞེས་པ་འདིར་འགའ་ཞིག་མཛའ་བོའི་བུ་མོའི་གཏམ་རྒྱུད་སྦྱར་ནས་འཆད་དོ། །དམིགས་པ་སེམས་ཅན་ཐམས་ཅད་ལ་དམིགས་ནས་རྣམ་པ་དེ་དག་རེ་རེའི་ཡང་མི་བདེ་བ་དཔག་ཏུ་མེད་པ་བསལ་འདོད་ཅིང་རེ་རེའང་ཡོན་ཏན་དཔག་མེད་དང་ལྡན་པ་ཉིད་སྒྲུབ་པར་འདོད་པ་ལ་བསོད་ནམས་དཔག་མེད་འབྱུང་བ་སྨྲོས་ཅི་དགོས།
 
@@ -73,7 +73,7 @@ notes: |
 
 ### sabzang — ས་བཟང་མ་ཏི་པཎ་ཆེན། (གཞུང་དོན་རབ་གསལ་སྣང་བ།)
 
-*Note: 1-21 and 1-22 grouped in this commentary. Prose covers both verses; includes the merchant's daughter story narrative.*
+*ཟུར་བཀོད། ཤོ་ལོ་ཀ 1-21 དང་1-22 གཉིས་འགྲེལ་པ་འདིར་ཕྲད་ནས་བཤད། ཚིག་གནས་ཤོ་ལོ་ཀ་གཉིས་ཀ་ལ་ཁྱབ་ཞིང་། དེད་དཔོན་མཛའ་བོའི་བུ་མོའི་གཏམ་རྒྱུད་ཀྱང་འདུས།*
 
 སྔོན་དེད་དཔོན་མཛའ་བོའི་བུ་མོ་ཞེས་བྱ་བས་མའི་མགོ་ལ་རྐང་བས་བསྣུན་ཏེ་རིན་པོ་ཆེ་ལྡེན་དུ་ཕྱིན་པའི་ཚེ་ལས་དེ་མཐོང་བའི་ཆོས་ལ་སྨིན་ནས་ཉི་ཚེ་བའི་སེམས་ཅན་དམྱལ་བའི་ཁང་བར་མགོ་ལ་ལྕགས་ཀྱི་འཁོར་ལོ་མེ་འབར་བ་འཁོར་བའི་སྡུག་བསྔལ་དྲག་པོ་མྱོང་བ་ན། འདི་ལྟ་བུ་མྱོང་བར་འགྱུར་པའི་སེམས་ཅན་རྣམས་ཀྱི་སྡུག་བསྔལ་བདག་ལ་སྨིན་པར་གྱུར་ཅིག་སྙམ་དུ་བསམས་པ་དང་ཤི་འཕོས་ནས་ལྷར་སྐྱེས་པ་ལྟར། དམིགས་ཡུལ་སེམས་ཅན་མའི་མགོ་ལ་གནོད་པར་བྱེད་པ་རྣམས་ཀྱི་ཀླད་པའི་ནད་ཙམ་བསལ་ལོ་སྙམ་དུ་བསམས་ན་ཡང་གཞན་ལ་ཕན་འདོགས་པར་འདོད་པའི་བསམ་པ་དང་ལྡན་པ་དེ་དགའ་ལྡན་དུ་སྐྱེ་བ་ལ་སོགས་པའི་བསོད་ནམས་དཔག་ཏུ་མེད་ཅིང་མཐའ་ཡས་པ་དང་ལྡན་པར་འགྱུར་ན། ནམ་མཁའ་དང་མཉམ་པའི་སེམས་ཅན་ཚད་མེད་པ་རེ་རེའི་མི་བདེ་བ་སྡུག་བསྔལ་དཔག་ཏུ་མེད་པ་རྣམས་མ་ལུས་པར་བསལ་བར་འདོད་ཅིང། དེ་དག་རེ་རེ་འང་གནས་སྐབས་དང་མཐར་ཐུག་གི་ཡོན་ཏན་དཔག་ཏུ་མེད་པ་དང་ལྡན་པ་ཉིད་དུ་སྒྲུབ་པར་འདོད་པའི་བྱང་ཆུབ་ཀྱི་སེམས་ལས་བསོད་ནམས་མཐའ་ཡས་པ་ལྟ་སྨོས་ཀྱང་ཅི་དགོས་ཞེས་པའོ། །
 
@@ -81,7 +81,7 @@ notes: |
 
 ### minyak-kunzang-sonam — མི་ཉག་ཀུན་བསོད། (རྒྱལ་སྲས་རྒྱ་མཚོའི་ཡོན་ཏན།)
 
-*Note: 1-21 and 1-22 grouped in this commentary. Prose covers both verses; the merchant's daughter story is referenced rather than narrated in full here.*
+*ཟུར་བཀོད། ཤོ་ལོ་ཀ 1-21 དང་1-22 གཉིས་འགྲེལ་པ་འདིར་ཕྲད་ནས་བཤད། ཚིག་གནས་ཤོ་ལོ་ཀ་གཉིས་ཀ་ལ་ཁྱབ་ཞིང་། དེད་དཔོན་མཛའ་བོའི་བུ་མོའི་གཏམ་རྒྱུད་ནི་ཞིབ་པར་མ་བཤད་པར་གོང་དུ་ཙམ་བརྗོད་ཡོད།*
 
 སྙིང་རྗེའི་སེམས་ཀྱིས་སེམས་ཅན་རྣམས་ཀྱི་ཀླད་ནད་དེ་མགོ་བོ་གཟིར་བའི་ནད་ཙམ་ཞིག་སྔགས་སམ་སྨན་ལ་སོགས་པས་བསལ་ལོ་སྙམ་དུ་བསམ་པ་རང་འདོད་དང་མ་འདྲེས་པ་བྱུང་ན་ཡང་དེ་གཞན་ལ་ཕན་འདོགས་པར་འདོད་པའི་བསམ་པ་དང་ལྡན་ཏེ། དེ་ཕྱིར་དེ་ཙམ་ལ་ཡང་བསོད་ནམས་དཔག་ཏུ་མེད་པ་དང་ལྡན་པར་འགྱུར་ན་དམིགས་པའི་ཡུལ་ནམ་མཁའ་དང་མཉམ་པའི་སེམས་ཅན་ཚད་མེད་པ་ལ་དམིགས་ནས་བློའི་རྣམ་པ་སེམས་ཅན་དེ་རྣམས་རེ་རེའི་ལུས་སེམས་ཀྱི་མི་བདེ་བའམ་སྡུག་བསྔལ་དཔག་ཏུ་མེད་པ་དེ་ཐམས་ཅད་བསལ་བར་འདོད་ཅིང། དེར་མ་ཟད་སེམས་ཅན་དེ་རྣམས་རེ་རེའང་སངས་རྒྱས་ཀྱི་ཡོན་ཏན་དཔག་ཏུ་མེད་པ་དང་ལྡན་པ་ཉིད་དུ་སྒྲུབ་པར་འདོད་པའི་སྨོན་པ་བྱང་ཆུབ་ཀྱི་སེམས་ལ་བསོད་ནམས་ཀྱི་རྒྱུན་དཔག་ཏུ་མེད་པ་ནམ་མཁའ་དང་མཉམ་པ་འབྱུང་བ་སྨོས་ཀྱང་ཅི་དགོས་ཞེས་པའོ། །འདིའི་སྐབས་འགྲེལ་པ་རྣམས་སུ་དེད་དཔོན་མཛའ་བོའི་བུ་མོ་ཞེས་བྱ་བ་དེས་ཉི་ཚེ་བའི་སེམས་ཅན་ཞིག་གི་མགོ་ལ་ལྕགས་ཀྱི་འཁོར་ལོ་མེ་འབར་བ་འཁོར་བའི་སྡུག་བསྔལ་མྱོང་བ་གཟིགས་ནས་འདིའི་སྡུག་བསྔལ་བདག་ལ་སྨིན་པར་གྱུར་ཅིག་སྙམ་པ་དང་ཤི་ནས་ལྷར་སྐྱེས་པར་གསུངས་པ་ལྟ་བུའི་དམིགས་རྣམ་རྒྱ་ཆུང་བ་ལའང་བསོད་ནམས་དཔག་མེད་འབྱུང་ན་གོང་ལྟར་སེམས་ཅན་དཔག་མེད་སྡུག་བསྔལ་ཐམས་ཅད་དང་བྲལ་ནས་སངས་རྒྱས་ཀྱི་བདེ་བ་དང་ལྡན་པར་འདོད་པ་ལྟ་བུའི་དམིགས་རྣམ་ཆེས་རྒྱ་ཆེ་བ་ལ་བསོད་ནམས་དཔག་མེད་འབྱུང་བ་སྨོས་ཅི་དགོས་ཞེས་དེ་གཉིས་དཔེ་དོན་སྦྱར་ནས་འཆད་དོ། །
 
@@ -97,19 +97,19 @@ notes: |
 
 ## སྒྲུང་འགྲེལ། (Stories and narratives)
 
-**དེད་དཔོན་མཛའ་བོའི་བུ་མོའི་གཏམ་རྒྱུད།** (The story of the merchant-chief's beloved daughter)
+**དེད་དཔོན་མཛའ་བོའི་བུ་མོའི་གཏམ་རྒྱུད།**
 
-This narrative is invoked by all commentaries as the central example for verse 1-21. The most complete renditions appear in KKP and NKW; the story is referenced in GDR, NTS, MKS (cited as "[found] in commentaries"), and is narrated in SMPLG and NKW. The narrative is also sourced as a jātaka of the Teacher (མདོ་ལས་བྱུང་བའི་སྟོན་པའི་སྐྱེས་རབས་) per NKW.
+འགྲེལ་པ་ཐམས་ཅད་ཀྱིས་ཤོ་ལོ་ཀ 1-21 པའི་གཙོ་བོའི་དཔེར་བརྗོད་སུ་གཏམ་རྒྱུད་འདི་ལ་བརྟེན། ཁ་ཚང་ཤོས་ནི་ཀུན་བཟང་དཔལ་ལྡན(KKP)དང་མཁན་པོ་ཀུན་དགའ(NKW)གཉིས་ལས་བྱུང་ཞིང༌། རྒྱལ་ཚབ(GDR)དང་དངུལ་ཆུ་ཐོགས་མེད(NTS)མི་ཉག་ཀུན་བསོད(MKS)གསུམ་གྱིས་མདོར་བསྡུས་ཙམ་དུ་དྲངས། ས་བཟང(SMPLG)དང་མཁན་པོ་ཀུན་དགའ(NKW)གཉིས་ཀྱིས་ཞིབ་པར་བརྗོད་ཡོད། གཏམ་རྒྱུད་འདི་ནི་མཁན་པོ་ཀུན་དགའི་ལྟར་ན་མདོ་ལས་བྱུང་བའི་སྟོན་པའི་སྐྱེས་རབས་ (མདོ་ལས་བྱུང་བའི་སྟོན་པའི་སྐྱེས་རབས་) ཤིག་ཏུའང་གྲགས།
 
-**Story beats:**
-1. The merchant-chief's beloved daughter strikes her mother on the head with her foot when the mother tries to prevent her from going to sea
-2. She goes to sea, her ship is wrecked; she survives on a plank and reaches an island shore
-3. She progresses through a succession of realms — from cities of joy and pleasure (with divine maidens, kārṣāpaṇa gold, progressively increasing) — eventually reaching the realm of the pretas (ཉི་ཚེ་བའི་དམྱལ་བ།)
-4. In this realm she sees beings with burning iron wheels rotating on their heads; she recognizes this as the fruit of striking her own mother
-5. She generates compassion: "May the suffering of all these beings who struck their mothers ripen on me alone — may they be freed"
-6. As soon as this aspiration arose (even without being enacted), she died and was reborn as a god in Trāyastriṃśa (སུམ་ཅུ་རྩ་གསུམ་གྱི་ལྷ།)
+**གཏམ་རྒྱུད་ཀྱི་རིམ་པ།**
+1. དེད་དཔོན་མཛའ་བོའི་བུ་མོས་རྒྱ་མཚོར་འགྲོ་བར་མ་ཡིས་བཀག་པའི་ཚེ་མའི་མགོ་ལ་རྐང་པས་བརྡུངས།
+2. མོ་རྒྱ་མཚོར་སོང་ནས་གྲུ་ཆག་སྟེ། ཤིང་ལེབ་ཅིག་ལ་བརྟེན་ནས་མཚོ་གླིང་ཞིག་ཏུ་ཐོན་པར་གྱུར།
+3. ལྷའི་བུ་མོས་བསུས་པའི་དགའ་བའི་གྲོང་ཁྱེར་སོགས་རིམ་པར་བགྲོད་དེ (ལྷའི་བུ་མོ་དང་ཀཪྵ་པ་ནའི་གསེར་གྱི་གྲངས་རིམ་བཞིན་འཕེལ་བ) མཐར་ཉི་ཚེ་བའི་དམྱལ་བར་སླེབས།
+4. དེར་སེམས་ཅན་ཞིག་གི་མགོ་ལ་ལྕགས་ཀྱི་འཁོར་ལོ་མེ་འབར་བ་འཁོར་བ་མཐོང་སྟེ། རང་ཉིད་ཀྱིས་མའི་མགོར་རྡོག་པ་བརྡུངས་པའི་ལས་འབྲས་ཡིན་པར་ཤེས།
+5. སྙིང་རྗེ་སྐྱེས་ཏེ། "མའི་མགོར་རྡོག་པས་བརྡུངས་པའི་སེམས་ཅན་འདི་དག་གི་སྡུག་བསྔལ་བདག་གཅིག་པུས་མྱོང་ནས་དེ་དག་གྲོལ་བར་ཤོག" ཅེས་སྨོན་ལམ་བཏབ།
+6. སྨོན་པ་སྐྱེས་མ་ཐག་ (ལས་ཀྱི་འབྲས་བུ་དངོས་སུ་མི་མྱོང་བར) སྡུག་བསྔལ་ལས་གྲོལ་ཏེ་ཚེ་འཕོས་ནས་སུམ་ཅུ་རྩ་གསུམ་གྱི་ལྷར་སྐྱེས།
 
-**Commentary use:** The story illustrates that even a small altruistic aspiration — "may just this headache be removed" (ཀླད་ནད་ཙམ་བསལ་) — immediately generates boundless merit (བསོད་ནམས་དཔག་མེད་) when accompanied by a genuine wish to benefit others (ཕན་འདོགས་བསམ་པ་). The a fortiori argument then follows in verse 1-22.
+**འགྲེལ་པའི་དགོས་དོན།** གཏམ་རྒྱུད་འདིས་བསྟན་པར། དམིགས་རྒྱ་ཆུང་བའི་སྨོན་སེམས་ཙམ ("ཀླད་ནད་ཙམ་བསལ་ལོ་སྙམ་" ཞེས་པ) ཡང་ཕན་འདོགས་བསམ་པ་མངོན་གྱུར་ན་བསོད་ནམས་དཔག་མེད་སྐྱེ་བར་སྟོན། ལྷག་ཆེའི་རིགས་པའི་སྒྲུབ་ཚུལ་དེ་ཤོ་ལོ་ཀ 1-22 པར་མཐུད་དོ།
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])
 
@@ -123,26 +123,26 @@ This narrative is invoked by all commentaries as the central example for verse 1
 
 ## དཔེ། (Metaphors and examples)
 
-**སྨན་དང་སྔགས་ཀྱི་དཔེ།** (Medicine and mantra metaphor) — KS annotation uses the image of treating a headache (ཀླད་ནད་ཙམ་) with medicine and mantras (སྔགས་དང་སྨན་གྱིས་) as the "small object" example. The a minori: even the aspiration to cure this tiny suffering carries boundless merit. This medical metaphor anchors the entire logical proof structure of verses 1-21 through 1-22.
+**སྨན་དང་སྔགས་ཀྱི་དཔེ།** — KS མཆན་འགྲེལ་གྱིས་ཀླད་ནད་ཙམ་ (ཀླད་ནད་ཙམ་) ཞིག་སྔགས་དང་སྨན་གྱིས་གསོ་བའི་དཔེ་བཀོད་དེ་དམིགས་ཡུལ་ཆུང་ངུའི་མཚོན་བྱར་བཀོད། དམིགས་ཡུལ་ཆུང་ངུ་འདི་ལྟ་བུ་ཞིག་སེལ་བར་སྨོན་པ་ཙམ་ཡང་བསོད་ནམས་དཔག་མེད་འཁྱེར་བར་སྟོན་པས་རིགས་པའི་སྒྲུབ་བྱེད་ཀྱི་གཞི་མར་གནས། ཤོ་ལོ་ཀ 1-21 ནས 1-22 པའི་བར་གྱི་རིགས་པའི་སྒྲུབ་ཚུལ་ཐམས་ཅད་དཔེ་འདིའི་ཐོག་ནས་བརྟེན།
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]])
 
 ---
 
-## ལུང་། (Scriptural quotations)
+## ལུང། (Scriptural quotations)
 
-*ཚིགས་སུ་བཅད་པ་འདིར་མདོ་ལུང་དམིགས་བསལ་མི་འདུག — No scripture quotation appears in the KS annotation for verse 1-21. The merchant's daughter story is sourced as jātaka narrative (see སྒྲུང་འགྲེལ།).*
+*ཚིགས་སུ་བཅད་པ་འདིར་མདོ་ལུང་དམིགས་བསལ་མི་འདུག — KS མཆན་འགྲེལ་གྱི་སྐབས་སུ་ཤོ་ལོ་ཀ 1-21 པར་ལུང་གི་དཔེར་བརྗོད་མེད། དེད་དཔོན་མཛའ་བོའི་བུ་མོའི་གཏམ་རྒྱུད་ནི་སྐྱེས་རབས་ཀྱི་ཁུངས་ཙམ་དུ་དྲངས་ཡོད། (སྒྲུང་འགྲེལ་སྐབས་སུ་གཟིགས)*
 
 ---
 
 ## གཙོ་གནད། (Main teaching points)
 
-1. **རིགས་པའི་སྒྲུབ་བྱེད་ཀྱི་གནད།** — After the scriptural proof (verse 1-20), verse 1-21 opens the logical proof section (རིགས་པའི་སྒོ་ནས་སྒྲུབ་པ།). KKP explains that while karma is extremely subtle (ལྐོག་གྱུར་) and only within the purview of omniscient Buddha, logical reasoning can still corroborate the Buddha's teaching on the boundless merit of bodhicitta.
+1. **རིགས་པའི་སྒྲུབ་བྱེད་ཀྱི་གནད།** — ལུང་གི་སྒྲུབ་བྱེད་ (ཤོ་ལོ་ཀ 1-20 པ) ཀྱི་རྗེས་སུ་ཤོ་ལོ་ཀ 1-21 པས་རིགས་པའི་སྒོ་ནས་སྒྲུབ་པའི་སྐབས་འགོ་འཛུགས། ཀུན་བཟང་དཔལ་ལྡན་གྱིས་བཤད་པར། ལས་ཀྱི་རྣམ་བཞག་ནི་ཤིན་ཏུ་ལྐོག་གྱུར་ཡིན་པས་ཐམས་ཅད་མཁྱེན་པ་སངས་རྒྱས་ཁོ་ནའི་སྤྱོད་ཡུལ་ཡིན་ནའང་། བྱང་ཆུབ་སེམས་ཀྱི་ཕན་ཡོན་དཔག་མེད་ཡིན་པའི་གནས་ལུགས་དེ་རིགས་པས་ཀྱང་བསྒྲུབ་ཐུབ་པར་གསུངས།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]])
 
-2. **གནང་རྒྱབ་དམིགས་རྒྱ་ཆུང་ཡང་བསོད་ནམས་དཔག་མེད་འབྱུང་བའི་གནད།** — Even with a narrow object and small aspiration (merely wishing to remove a headache of a few beings, without even enacting it), the presence of genuine altruistic intent (ཕན་འདོགས་བསམ་པ་) suffices to generate boundless merit. This sets up the a fortiori logic for verse 1-22.
+2. **དམིགས་རྒྱ་ཆུང་ཡང་བསོད་ནམས་དཔག་མེད་འབྱུང་བའི་གནད།** — དམིགས་ཡུལ་ཆུང་ཞིང་སྨོན་པ་ཙམ་ལས་མེད་ཀྱང་ (སེམས་ཅན་ཉུང་ཟད་ཀྱི་ཀླད་ནད་ཙམ་བསལ་བར་སྨོན་པ)ཕན་འདོགས་བསམ་པ་མངོན་གྱུར་ཙམ་གྱིས་བསོད་ནམས་དཔག་མེད་སྐྱེད་ནུས་པར་སྟོན། འདིས་ཤོ་ལོ་ཀ 1-22 པའི་ལྷག་ཆེའི་རིགས་པའི་སྒྲུབ་ཚུལ་གྱི་གཞི་བཙུགས།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]])
 
-3. **གལ་ཆེར་བཤད་ཚུལ་གྱི་གནད།** — NTS notes that some commentators (འགའ་ཞིག་) illustrate this verse with the merchant's daughter story; MKS clarifies that the a fortiori argument is the core structure: small aspiration → immeasurable merit [1-21], therefore the vast aspiration of bodhicitta → all the more immeasurable [1-22].
+3. **གལ་ཆེར་བཤད་ཚུལ་གྱི་གནད།** — དངུལ་ཆུ་ཐོགས་མེད་ཀྱིས་གསུངས་པར། འགྲེལ་པ་འགའ་ཞིག་གིས་ཤོ་ལོ་ཀ་འདི་དེད་དཔོན་མཛའ་བོའི་བུ་མོའི་གཏམ་རྒྱུད་ལ་སྦྱར་ནས་བཤད། མི་ཉག་ཀུན་བསོད་ཀྱིས་གསལ་བར་བཤད་པར། ལྷག་ཆེའི་རིགས་པའི་སྒྲུབ་ཚུལ་གྱི་གནད་གཙོ་བོ་ནི། དམིགས་རྒྱ་ཆུང་བས་བསོད་ནམས་དཔག་མེད་ [1-21]། དེའི་ཕྱིར་བྱང་ཆུབ་སེམས་ཀྱི་དམིགས་རྒྱ་ཆེ་བས་བསོད་ནམས་ལྷག་ཆེར་དཔག་མེད་ [1-22] ཞེས་པའོ།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])
 
 ---
@@ -151,11 +151,11 @@ This narrative is invoked by all commentaries as the central example for verse 1
 
 | གནད་ཚིག | འགྲེལ་བཤད་ | ཁུངས། |
 |---|---|---|
-| **ཀླད་ནད་ཙམ།** | ཀླད་པའི་ནད་ཙམ་ = merely a headache; the minimal object of the altruistic aspiration | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
-| **བསལ་ལོ་སྙམ་དུ་བསམས་ན་ཡང་།** | even merely thinking "I shall remove this" — aspiration without action is sufficient | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
-| **ཕན་འདོགས་བསམ་པ་དང་ལྡན་ཏེ།** | possessed of the thought of benefiting others; the key condition for the merit arising | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
-| **བསོད་ནམས་དཔག་མེད་དང་ལྡན་གྱུར་ན།** | if one who has that thought already has boundless merit — the conditional framing that leads into verse 1-22's a fortiori conclusion | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]) |
-| **དེད་དཔོན་མཛའ་བོའི་བུ་མོ།** | the merchant-chief's beloved daughter — narrative exemplar of how a single moment of compassionate aspiration generates immense merit | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) |
+| **ཀླད་ནད་ཙམ།** | ཀླད་པའི་ནད་ཙམ་ སྟེ་སྨོན་སེམས་ཀྱི་དམིགས་ཡུལ་ཆུང་ཤོས། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
+| **བསལ་ལོ་སྙམ་དུ་བསམས་ན་ཡང་།** | "འདི་བསལ་ལོ" ཞེས་བསམ་པ་ཙམ་སྟེ་སྤྱོད་པ་དངོས་སུ་བྱས་མེད་ཀྱང་ཆོག་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
+| **ཕན་འདོགས་བསམ་པ་དང་ལྡན་ཏེ།** | གཞན་ལ་ཕན་གདགས་པའི་བསམ་པ་དང་ལྡན་པ་སྟེ་བསོད་ནམས་སྐྱེ་བའི་རྐྱེན་གཙོ་བོ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
+| **བསོད་ནམས་དཔག་མེད་དང་ལྡན་གྱུར་ན།** | བསམ་པ་དེ་དང་ལྡན་པས་ཉིད་ཀྱང་བསོད་ནམས་དཔག་མེད་དང་ལྡན་པར་འགྱུར་བ་སྟེ་ཤོ་ལོ་ཀ 1-22 པའི་ལྷག་ཆེའི་གྲུབ་དོན་གྱི་རྟེན་འབྲེལ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]) |
+| **དེད་དཔོན་མཛའ་བོའི་བུ་མོ།** | དེད་དཔོན་མཛའ་བོའི་བུ་མོ་སྟེ་སྐད་ཅིག་གཅིག་གི་སྙིང་རྗེའི་སྨོན་པས་བསོད་ནམས་ཆེན་པོ་ཇི་ལྟར་སྐྱེ་བའི་དཔེར་བརྗོད། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) |
 
 ---
 

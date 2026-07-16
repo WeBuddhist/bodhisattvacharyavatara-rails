@@ -90,26 +90,26 @@ notes: |
 
 ## སྒྲུང་འགྲེལ། (Stories and narratives)
 
-*Verse 1-25 contains no independent narrative. The illustrative backdrop — merchant's daughter story and its a fortiori conclusions — appears in 1-21-summary.md → སྒྲུང་འགྲེལ།.*
+*ཚིགས་བཅད་1-25 པ་ལ་སྒྲུང་འགྲེལ་སྒེར་པ་མེད། གནད་བཤིག་གི་ལྷག་བཤད་སྟེ་ཚོང་དཔོན་གྱི་བུ་མོའི་སྒྲུང་དང་དེའི་ལྷག་བསམ་གྱི་མཐར་ཐུག་གི་གཏན་ཚིགས་ནི་ 1-21-summary.md → སྒྲུང་འགྲེལ། ནང་བཀོད་ཡོད།*
 
 ---
 
 ## དཔེ། (Metaphors and examples)
 
-**ཡིད་བཞིན་གྱི་ནོར་བུ།** (Wish-fulfilling gem) — KKP, SMPLG, MKS, and NKW all use the wish-fulfilling gem (ཡིད་བཞིན་གྱི་ནོར་བུ་) as the primary metaphor for bodhicitta: just as a cintāmaṇi gem is the most precious of all gems and fulfills every wish, so bodhicitta is the most precious of all mental events (སེམས་ཀྱི་རིན་ཆེན་), surpassing all others (ཁྱད་པར་དུ་འཕགས་པ་).
+**ཡིད་བཞིན་གྱི་ནོར་བུ།** — KKP, SMPLG, MKS, NKW བཞི་ཀས་ཡིད་བཞིན་གྱི་ནོར་བུའི་དཔེ་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་གཙོ་བོའི་དཔེར་བཀོལ་ཏེ། ཡིད་བཞིན་ནོར་བུ་རིན་པོ་ཆེ་ཐམས་ཅད་ཀྱི་ནང་ནས་ཁྱད་པར་དུ་འཕགས་ཤིང་དགོས་འདོད་ཐམས་ཅད་སྒྲུབ་པ་ལྟར། བྱང་ཆུབ་ཀྱི་སེམས་ཀྱང་སེམས་ཀྱི་རིན་ཆེན་ཐམས་ཅད་ལས་ཁྱད་པར་དུ་འཕགས་པ་ཡིན་པར་བསྟན།
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])
 
-**དཔག་བསམ་གྱི་ལྗོན་པ།** (Pārijāta / wish-granting tree) — KKP and NKW use the pārijāta tree metaphor: a divine tree from the god realms spontaneously appearing in a human city would cause universal amazement. So too, bodhicitta spontaneously arising in one's stream — through the compassion of the Three Jewels and one's teacher (NKW: "ལྷ་དཀོན་མཆོག་གསུམ་དང་བླ་མའི་ཐུགས་རྗེའི་བྱིན་རླབས་ཀྱི་སྟོབས་") — is uniquely unprecedented.
+**དཔག་བསམ་གྱི་ལྗོན་པ།** — KKP དང་ NKW གཉིས་ཀས་ལྷ་ཡུལ་དཔག་བསམ་གྱི་ལྗོན་པའི་དཔེ་བཀོལ་ཏེ། ལྷ་ཡུལ་གྱི་ལྗོན་ཤིང་ཞིག་གློ་བུར་དུ་མི་ཡུལ་གྱི་གྲོང་ཁྱེར་ན་སྐྱེས་པ་ཡིན་ན་ཀུན་གྱིས་ངོ་མཚར་དུ་བརྩི་བ་ལྟར། བྱང་ཆུབ་ཀྱི་སེམས་རང་རྒྱུད་ལ་གློ་བུར་དུ་འཁྲུངས་པ་ཡང་ — NKW ལྟར་ན་ "ལྷ་དཀོན་མཆོག་གསུམ་དང་བླ་མའི་ཐུགས་རྗེའི་བྱིན་རླབས་ཀྱི་སྟོབས་" ཀྱིས་ — སྔ་ན་མེད་པའི་རྨད་བྱུང་ཞིག་ཡིན་པར་བསྟན།
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
-**མི་གཙང་བའི་གཟེབ་ཏུ།** (In the refuse pit of defilements) — NKW uniquely develops the contrast: our stream has been the dwelling of beginningless desire, aversion, jealousy, pride, and all defilements (ལྗན་ལྗིན་མི་གཙང་བའི་ཕུང་པོ་) — and within that, the jewel of bodhicitta has arisen like a wish-granting tree in a garbage heap. The response: cultivate joy.
+**མི་གཙང་བའི་གཟེབ་ཏུ།** — NKW ཁྱད་པར་དུ་འགྲེལ་བཤད་ཟབ་མོ་མཛད་དེ། རང་ཅག་ཐམས་ཅད་ཀྱི་སེམས་རྒྱུད་ཚེ་རབས་ཐོག་མ་མེད་པ་ནས་འདོད་ཆགས་དང་ཞེ་སྡང་ཕྲག་དོག་ང་རྒྱལ་ལ་སོགས་པའི་ལྗན་ལྗིན་མི་གཙང་བའི་ཕུང་པོ་ལྟ་བུའི་གཟེབ་ཏུ་གྱུར་ཡོད་ལ། དེའི་ནང་དུ་བྱང་ཆུབ་ཀྱི་སེམས་རིན་པོ་ཆེ་དཔག་བསམ་གྱི་ཤིང་ལྗོན་པ་ལྟ་བུ་ཞིག་འཁྲུངས་པ་འདིར་བསམས་ནས་དགའ་བ་སྒོམ་པར་གདམས།
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
 ---
 
 ## ལུང་། (Scriptural quotations)
 
-**དཔས་བྱིན་གྱིས་ཞུས་པ།** (Bhadrapāla-sūtra / Ghanavyūha; quoted in MKS unique 1-25 prose):
+**དཔས་བྱིན་གྱིས་ཞུས་པའི་མདོ་ལས།** (Bhadrapāla-sūtra / Ghanavyūha; MKS ཀྱི་ཤོ་ལོ་ཀ 1-25 པའི་སྒེར་བཤད་ནང་དྲངས་པའི་ལུང་ཡིན།)
 
 > བྱང་ཆུབ་སེམས་ནི་སེམས་ཆེ་སྟེ། ། སེམས་ཀུན་ནང་ན་དགེ་བ་མཆོག ། ཡོན་ཏན་ཐམས་ཅད་ཕུན་སུམ་ཚོགས། །
 
@@ -119,13 +119,13 @@ notes: |
 
 ## གཙོ་གནད། (Main teaching points)
 
-1. **རྨད་བྱུང་ངོ་མཚར་གྱི་གནད།** — Verse 1-25 delivers the climax of the entire proof sequence (1-21 through 1-25): having established that ordinary beings — even gods, ṛṣis, and Brahma — have never once aspired to buddhahood even for themselves, the arising of bodhicitta (aspiring to buddhahood for ALL beings) in one's stream is declared utterly unprecedented (སྔ་ན་མེད་པའི་) and marvelous (རྨད་དུ་བྱུང་བ་). GDR adds a practical instruction: "others too should take it as something marvelous and strive."
+1. **རྨད་བྱུང་ངོ་མཚར་གྱི་གནད།** — ཚིགས་བཅད་1-25 པས་ 1-21 ནས་ 1-25 བར་གྱི་བསྒྲུབ་རིམ་མཐའ་མའི་མཇུག་བསྡུས་ཏེ། སྐྱེ་བོ་ཐ་མལ་པ་— ལྷ་དང་དྲང་སྲོང་ཚངས་པ་ཡང་མ་གཏོགས་— རང་གི་དོན་དུའང་སངས་རྒྱས་ཐོབ་པར་སྐད་ཅིག་ཙམ་ཡང་སྨོན་པ་ནམ་ཡང་མ་བྱུང་བ་ལ་གཞིགས་ནས། སེམས་ཅན་ཐམས་ཅད་ཀྱི་དོན་དུ་སངས་རྒྱས་ཐོབ་པར་སྨོན་པའི་བྱང་ཆུབ་ཀྱི་སེམས་རང་རྒྱུད་ལ་སྐྱེས་པ་འདི་ནི་སྔ་ན་མེད་པའི་རྨད་དུ་བྱུང་བ་ཞིག་ཡིན་པར་བསྟན། གྱལ་ཚབ་ (GDR) ཀྱིས་གདམས་ངག་ཏུ་ཡང་བཀོད་དེ་གཞན་གྱིས་ཀྱང་ངོ་མཚར་བར་བཟུང་ནས་འབད་པར་བྱ་བར་གསུངས།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]])
 
-2. **ཐུགས་རྗེ་དང་བྱིན་རླབས་ལས་འཁྲུངས་པའི་གནད།** — NKW uniquely emphasizes that bodhicitta arises in one's stream not by self-effort alone, but "through the blessings of the Three Jewels and one's teacher" (ལྷ་དཀོན་མཆོག་གསུམ་དང་བླ་མའི་ཐུགས་རྗེའི་བྱིན་རླབས་). This adds a devotional/relational dimension: the unprecedented arising is a gift of grace, not merely a logical consequence of practice.
+2. **ཐུགས་རྗེ་དང་བྱིན་རླབས་ལས་འཁྲུངས་པའི་གནད།** — NKW ཁྱད་པར་དུ་བཏོན་ཏེ་བྱང་ཆུབ་ཀྱི་སེམས་རང་རྒྱུད་ལ་སྐྱེ་བ་ནི་རང་གི་འབད་རྩོལ་གཅིག་པུས་མིན་པར་"ལྷ་དཀོན་མཆོག་གསུམ་དང་བླ་མའི་ཐུགས་རྗེའི་བྱིན་རླབས་ཀྱི་སྟོབས་" ལས་བྱུང་བར་གསུངས། འདིས་སྔ་ན་མེད་པའི་འཁྲུངས་པ་འདི་ཉམས་ལེན་གྱི་རང་བྱུང་གྲུབ་འབྲས་ཙམ་མིན་པར་བླ་མ་དང་དཀོན་མཆོག་གི་ཐུགས་རྗེའི་བྱིན་རླབས་ལས་བྱུང་བའི་གནས་ལུགས་སྟོན།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
-3. **གདམས་ངག་གི་གནད།** — MKS moves beyond description to instruction: when bodhicitta arises in one's own stream, cultivate joy (དགའ་བ་སྒོམ་); when it arises in another's, take it as something marvelous (ངོ་མཚར་བའི་གནས་སུ་བཟུང་); and strive to develop it further in both one's own and others' streams (རང་གཞན་གྱི་རྒྱུད་ལ་དེ་ཉིད་གོང་འཕེལ་དུ་སྐྱེད་པ་ལ་འབད་པར་བྱ།). MKS also notes that lacking bodhicitta, even direct knowledge and realization of emptiness do not make one a Mahāyāna practitioner.
+3. **གདམས་ངག་གི་གནད།** — MKS ཀྱིས་འགྲེལ་བཤད་ལས་བརྒལ་ཏེ་གདམས་ངག་ཏུ་བཀོད་དེ། རང་རྒྱུད་ལ་བྱང་ཆུབ་ཀྱི་སེམས་སྐྱེས་ན་དགའ་བ་སྒོམ་ཞིང་ (དགའ་བ་སྒོམ་); གཞན་གྱི་རྒྱུད་ལ་སྐྱེས་པ་ལའང་ངོ་མཚར་བའི་གནས་སུ་བཟུང་སྟེ (ངོ་མཚར་བའི་གནས་སུ་བཟུང་); རང་གཞན་གྱི་རྒྱུད་ལ་དེ་ཉིད་གོང་འཕེལ་དུ་སྐྱེད་པར་འབད་པར་གསུངས། MKS ཀྱིས་བྱང་ཆུབ་ཀྱི་སེམས་མེད་ན་སྟོང་ཉིད་མངོན་སུམ་དུ་རྟོགས་པའང་ཐེག་པ་ཆེན་པོའི་ལམ་སྤྱོད་པར་མི་འགྱུར་བར་ཡང་གསུངས།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])
 
 ---
@@ -134,12 +134,12 @@ notes: |
 
 | གནད་ཚིག | འགྲེལ་བཤད་ | ཁུངས། |
 |---|---|---|
-| **སེམས་ཅན་དོན་སེམས་གང་།** | the thought oriented toward the welfare of beings — the defining characteristic of bodhicitta; what makes it uniquely "precious among thoughts" | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
-| **སེམས་ཀྱི་རིན་ཆེན་ཁྱད་པར།** | the extraordinary precious jewel among minds — the gem metaphor; bodhicitta surpasses all other mental events as a jewel surpasses ordinary stones | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
-| **སྔ་ན་མེད་པའི་རྨད་ཅིག་འཁྲུངས།** | an unprecedented marvel has arisen — the climactic declaration of bodhicitta's unique and astonishing nature in one's stream | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]) |
-| **ཡིད་བཞིན་གྱི་ནོར་བུ།** | wish-fulfilling gem — primary metaphor: fulfills all wishes; arises rarely; once present, transforms everything | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]) |
-| **དཔག་བསམ་གྱི་ལྗོན་པ།** | pārijāta / wish-granting tree — secondary metaphor in KKP and NKW: a divine tree appearing in a human garbage heap; astonishment and joy at its presence | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) |
-| **དགའ་བ་སྒོམ་།** | cultivate joy — the practical instruction when bodhicitta arises; response of wonder and delight as the appropriate attitude toward this unprecedented jewel | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]) |
+| **སེམས་ཅན་དོན་སེམས་གང་།** | སེམས་ཅན་གྱི་དོན་ལ་དམིགས་པའི་བསམ་པ་སྟེ་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་མཚན་ཉིད་ངོ་བོ། སེམས་ཀུན་གྱི་ནང་ནས་"རིན་ཆེན་ཁྱད་པར་ཅན་"དུ་གྲུབ་པའི་རྒྱུ་མཚན། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
+| **སེམས་ཀྱི་རིན་ཆེན་ཁྱད་པར།** | སེམས་ཀྱི་ནང་ནས་ཁྱད་པར་དུ་འཕགས་པའི་རིན་པོ་ཆེ་— ནོར་བུའི་དཔེར་བཀོད་དེ་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱིས་སེམས་ཀྱི་རྣམ་རྟོག་གཞན་ཐམས་ཅད་ཟིལ་གྱིས་གནོན་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
+| **སྔ་ན་མེད་པའི་རྨད་ཅིག་འཁྲུངས།** | སྔར་ནམ་ཡང་མ་བྱུང་བའི་ངོ་མཚར་རྨད་བྱུང་ཞིག་རང་རྒྱུད་ལ་སྐྱེས་པར་བསྟན་པའི་མཐའ་མའི་གཏམ་བཤད། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]) |
+| **ཡིད་བཞིན་གྱི་ནོར་བུ།** | དགོས་འདོད་ཐམས་ཅད་སྒྲུབ་པའི་ནོར་བུ་རིན་པོ་ཆེ་— གཙོ་བོའི་དཔེ། དཀོན་ཞིང་སྐྱེས་མ་ཐག་ཐམས་ཅད་སྒྱུར་བར་ནུས་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]) |
+| **དཔག་བསམ་གྱི་ལྗོན་པ།** | ལྷ་ཡུལ་གྱི་ལྗོན་ཤིང་ཞིག་མི་ཡུལ་གྱི་མི་གཙང་བའི་གནས་སུ་སྐྱེས་པའི་དཔེ་— KKP དང་ NKW ཀྱི་གཞན་དོན་གྱི་དཔེ། སྣང་ཚུལ་གྱིས་ངོ་མཚར་དང་དགའ་སྤྲོ་སྐྱེད། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) |
+| **དགའ་བ་སྒོམ་།** | བྱང་ཆུབ་ཀྱི་སེམས་སྐྱེས་པའི་སྐབས་སུ་བྱ་བའི་གདམས་ངག་— ངོ་མཚར་དང་དགའ་སྤྲོའི་ལྟ་སྤྱོད་འདི་ཉིད་སྔ་ན་མེད་པའི་རིན་ཆེན་ལ་ཇི་ལྟར་སྤྱད་དགོས་པའི་ཐབས། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]) |
 
 ---
 

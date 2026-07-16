@@ -46,7 +46,7 @@ status: draft
 
 ### khenpo-zhengah — མཁན་པོ་གཞན་དགའ། (Interlinear Commentary)
 
-*[Content supplied in མཆན་འགྲེལ། section above. Scripture quotation from Āryamaitreyavimokṣa that follows in the source goes to ལུང།.]*
+*[མཆན་འགྲེལ། སྐབས་སུ་གོང་དུ་བཀོད་ཟིན། འཕགས་པ་བྱམས་པའི་རྣམ་པར་ཐར་པ་ལས་གསུངས་པའི་ལུང་དེ་ནི་ཐད་ཀར་ལུང་། སྐབས་སུ་བཀོད།]*
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]])
 
@@ -86,7 +86,7 @@ status: draft
 
 **ས་བཅད།** གསུམ་པ་ **(དང་པོ་) གསེར་འགྱུར་གྱི་དཔེས་བསྔགས་པ་ནི།**
 
-**གསེར་འགྱུར་གྱི་རྩི་མཆོག་ལྟ་བུ།** གཅིག་གིས་སྟོང་བསྒྱུར་ནུས་པའི་གསེར་འགྱུར་རྩི་ཡི་རྣམ་པ་མཆོག་ལྟར་། **བྱང་ཆུབ་ཀྱི་སེམས་ཀྱིས་ཀྱང་མི་གཙང་བའི་ལུས་འདི་བླངས་ནས་རྒྱལ་བའི་གཟུགས་སྐུར་རིན་ཐང་མེད་པར་བསྒྱུར་** བར་བྱེད་པ་ཡིན་ཏེ། དེས་ན་**གཡོ་མེད་རབ་བརྟན་ཟུངས་** ཤིག། *[three tiers of gold-elixir + citation →  ལུང།]*
+**གསེར་འགྱུར་གྱི་རྩི་མཆོག་ལྟ་བུ།** གཅིག་གིས་སྟོང་བསྒྱུར་ནུས་པའི་གསེར་འགྱུར་རྩི་ཡི་རྣམ་པ་མཆོག་ལྟར་། **བྱང་ཆུབ་ཀྱི་སེམས་ཀྱིས་ཀྱང་མི་གཙང་བའི་ལུས་འདི་བླངས་ནས་རྒྱལ་བའི་གཟུགས་སྐུར་རིན་ཐང་མེད་པར་བསྒྱུར་** བར་བྱེད་པ་ཡིན་ཏེ། དེས་ན་**གཡོ་མེད་རབ་བརྟན་ཟུངས་** ཤིག། *[གསེར་འགྱུར་རྩི་རིགས་གསུམ་གྱི་དབྱེ་བ་དང་ལུང་གི་གནད་→ ལུང།]*
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-10]])
 
@@ -108,33 +108,38 @@ status: draft
 
 ---
 
-## དཔེ། (Metaphors)
+## དཔེ། (Metaphors and examples)
 
-**གསེར་འགྱུར་གྱི་རྩིའི་དཔེ།** (Gold-making elixir) — The supreme gold-making elixir (*gser 'gyur gyi rtsi mchog*), a single unit of which can transform a thousand units of iron into pure gold. Bodhicitta is like this elixir: it takes this impure body (*mi gtsang ba'i lus*) and transforms it into the Victor's Body (*rgyal ba'i sku*) — precious beyond measure (*rin chen rin thang med par*). The gold-elixir metaphor operates at two levels:
-- **Qualitative** — iron (impurity) → gold (purity); afflicted body → Buddha's body
-- **Proportional** — a vast asymmetry: a small amount of bodhicitta transforms the impure into the supremely precious
+- **གསེར་འགྱུར་གྱི་རྩི་མཆོག** → བྱང་ཆུབ་ཀྱི་སེམས། — སྲང་གཅིག་གིས་ལྕགས་སྲང་སྟོང་གསེར་བཟང་པོར་བསྒྱུར་ནུས་པའི་གསེར་འགྱུར་གྱི་རྩི་མཆོག་ལྟར། བྱང་ཆུབ་ཀྱི་སེམས་ཀྱིས་མི་གཙང་བའི་རང་བཞིན་གྱི་ལུས་འདི་བླངས་ནས་རྒྱལ་བའི་སྐུར་རིན་ཆེན་རིན་ཐང་མེད་པར་བསྒྱུར་ནུས་པར་བསྟན། དཔེ་འདི་ལ་ཆ་གཉིས་ཡོད་དེ:
+  - ངོ་བོའི་ཆ་ནས — ལྕགས་ (མི་གཙང་བ) ལས་གསེར་ (གཙང་མ) སུ; མི་གཙང་བའི་ལུས་ལས་རྒྱལ་བའི་སྐུར།
+  - ཚད་ཀྱི་ཆ་ནས — རྩི་ཉུང་ཤས་ཀྱིས་ལྕགས་མང་པོ་གསེར་དུ་བསྒྱུར་བ་ལྟར། བྱང་ཆུབ་ཀྱི་སེམས་ཀྱིས་ཀྱང་མི་གཙང་བའི་ལུས་ལས་རིན་ཐང་མཆོག་ཏུ་བསྒྱུར་བའི་ཁྱད་པར་ཤིན་ཏུ་ཆེན་པོ།
+  ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]])
 
-Minyak elaborates three grades of elixir: lesser (1:1 ratio), middling (1:100), and supreme (1:1000). Bodhicitta is the supreme grade. ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-10]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-10]])
+- **གསེར་འགྱུར་རྩི་གསུམ་གྱི་ཁྱད་པར།** → མི་ཉག་ཀུན་བཟང་བསོད་ནམས་ཀྱིས་གསེར་འགྱུར་གྱི་རྩི་རིགས་གསུམ་དུ་ཕྱེ་སྟེ། ཐ་མ་ (སྲང་གཅིག་གིས་ལྕགས་སྲང་གཅིག་བསྒྱུར), འབྲིང་ (སྲང་གཅིག་གིས་ལྕགས་སྲང་བརྒྱ་བསྒྱུར), མཆོག་ (སྲང་གཅིག་གིས་ལྕགས་སྲང་སྟོང་བསྒྱུར) གསུམ་བཤད་དེ། བྱང་ཆུབ་ཀྱི་སེམས་ནི་རིགས་མཆོག་དེ་ཉིད་ཡིན་པར་བསྟན།
+  ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-10]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-10]])
 
 ---
 
 ## ལུང། (Scriptural quotations)
 
-### འཕགས་པ་བྱམས་པའི་རྣམ་པར་ཐར་པ་ལས། (Āryamaitreyavimokṣa — from Zhenga's mchan-grel)
+### འཕགས་པ་བྱམས་པའི་རྣམ་པར་ཐར་པ་ལས། (གཞན་དགའི་མཆན་འགྲེལ་ནང་གསེས་ཀྱི་ལུང་།)
 
 > རིགས་ཀྱི་བུ་འདི་ལྟ་སྟེ། དཔེར་ན་དངུལ་ཆུའི་རིགས་གསེར་དུ་སྣང་བ་ཞེས་བྱ་བ་ཡོད་དེ། དེ་སྲང་གཅིག་གིས་ཀྱང་ལྕགས་སྲང་སྟོང་གསེར་དུ་བསྒྱུར་རོ། །དངུལ་ཆུ་སྲང་གཅིག་པོ་ནི་ལྕགས་སྲང་སྟོང་པོ་དེས་ཟད་པར་བྱ་བའམ་ལྕགས་སུ་བསྒྱུར་བར་མི་ནུས་སོ། །དེ་བཞིན་དུ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་དུ་སེམས་བསྐྱེད་པའི་བཅུད་ཀྱིས་ལེན་དགེ་བའི་རྩ་བ་ཡོངས་སུ་བསྔོས་པའི་ཡེ་ཤེས་ཀྱིས་ཡོངས་སུ་བཟུང་བ་ནི་ལས་དང་ཉོན་མོངས་པའི་སྒྲིབ་པའི་ལྕགས་ཐམས་ཅད་ཟད་པར་བྱས་ཏེ། ཆོས་ཐམས་ཅད་མཁྱེན་པའི་གསེར་གྱི་ཁ་དོག་ཏུ་བྱེད་ཀྱང་ཐམས་ཅད་མཁྱེན་པ་ཉིད་དུ་སེམས་བསྐྱེད་པའི་བཅུད་ཀྱིས་ལེན་གཅིག་པོ་དེ་ནི་ལས་དང་ཉོན་མོངས་པའི་ལྕགས་ཐམས་ཅད་ཀྱིས་ཀྱང་ཉོན་མོངས་པའམ་ཟད་པར་བྱ་བར་མི་ནུས་སོ།
+> — འཕགས་པ་བྱམས་པའི་རྣམ་པར་ཐར་པ་ (བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་བཅུད་ཀྱིས་ལས་ཉོན་གྱི་ལྕགས་ཐམས་ཅད་ཐམས་ཅད་མཁྱེན་པའི་གསེར་དུ་བསྒྱུར་ཡང་རང་ཉིད་མི་ཟད་པའི་ཚུལ་བསྟན་པ།)
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]])
 
-### སྡོམ་བོས་བཀོད་པ་ལས། (Gaṇḍavyūha Sūtra — cited by multiple commentaries)
+### སྡོང་བོས་བཀོད་པ་ལས། (འགྲེལ་བ་མང་པོས་མཚུངས་པར་དྲངས་པའི་ལུང་།)
 
 > དངུལ་ཆུའི་རིགས་གསེར་དུ་སྣང་བ་ཞེས་བྱ་བ་སྲང་གཅིག་གིས་ལྕགས་སྲང་སྟོང་གསེར་དུ་བསྒྱུར་ནུས་པ་དང་། དེ་བཞིན་དུ་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱིས་མི་གཙང་བའི་ལུས་འདི་རྒྱལ་བའི་གཟུགས་སྐུར་བསྒྱུར་ནུས།
+> — སྡོང་པོ་བཀོད་པའི་མདོ་ (གསེར་འགྱུར་གྱི་དཔེ་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་མཐུ་བསྟན་པར་མཚུངས་པར་དྲངས་པ།)
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-10]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-10]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-10]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-10]])
 
-### དཔས་བྱིན་གྱིས་ཞུས་པ་ལས། (cited by Minyak)
+### དཔས་བྱིན་གྱིས་ཞུས་པ་ལས། (མི་ཉག་ཀུན་བཟང་བསོད་ནམས་ཀྱིས་དྲངས་པ།)
 
 > བྱང་ཆུབ་སེམས་ལ་སུ་དགའ་བ། །དེ་དག་ལུས་ནི་གསེར་འདྲ་ཞིང་། །མཚན་གྱིས་ཤིན་ཏུ་སྨྲས་པ་དང་། །འཇིག་རྟེན་སྣང་བར་བྱེད་པར་འགྱུར།།
+> — དཔས་བྱིན་གྱིས་ཞུས་པ་ (བྱང་ཆུབ་ཀྱི་སེམས་དང་ལྡན་པའི་ལུས་གསེར་འདྲར་བསྒྱུར་བའི་ཕན་ཡོན་བསྟན་པ།)
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-10]])
 
@@ -142,47 +147,47 @@ Minyak elaborates three grades of elixir: lesser (1:1 ratio), middling (1:100), 
 
 ## གཙོ་གནད། (Main teaching points)
 
-1. **གསེར་འགྱུར་རྩི་ལྟ་བུའི་བྱང་ཆུབ་ཀྱི་སེམས།** — Bodhicitta is like the supreme gold-making elixir (*gser 'gyur gyi rtsi mchog*). Just as a single unit of the supreme elixir can transform a thousand units of iron into gold, bodhicitta can take this impure, afflicted body and transform it into the Victor's Form Body (*rgyal ba'i gzugs sku*). The transformation is qualitative (iron → gold; impurity → purity) and vastly asymmetric in proportion. ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]])
+1. **གསེར་འགྱུར་རྩི་ལྟ་བུའི་བྱང་ཆུབ་ཀྱི་སེམས།** — བྱང་ཆུབ་ཀྱི་སེམས་ནི་གསེར་འགྱུར་གྱི་རྩི་མཆོག་དང་འདྲ་སྟེ། རྩི་མཆོག་སྲང་གཅིག་གིས་ལྕགས་སྲང་སྟོང་གསེར་དུ་བསྒྱུར་ནུས་པ་ལྟར། བྱང་ཆུབ་ཀྱི་སེམས་ཀྱིས་མི་གཙང་ཞིང་ཉོན་མོངས་ཅན་གྱི་ལུས་འདི་བླངས་ནས་རྒྱལ་བའི་གཟུགས་སྐུར་བསྒྱུར་ནུས། འགྱུར་ཚུལ་འདི་ངོ་བོའི་ཆ་ནས་ (མི་གཙང་བ་ལས་གཙང་མར) དང་ཚད་ཀྱི་ཆ་ནས་ (ཆུང་ངུ་ལས་ཆེན་པོར) གཉིས་ཀར་མཚོན། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]])
 
-2. **མི་གཙང་བའི་ལུས་ལས་རྒྱལ་བའི་སྐུར་བསྒྱུར།** — From an impure body to the Victor's Body. All commentators identify the two poles of the transformation: *mi gtsang ba'i lus* (this body, impure by nature, afflicted by karma and defilement) is transformed into *rgyal ba'i sku* (the Victor's Body — the Form Body of a Buddha, *gzugs sku*). The metaphor from the Āryamaitreyavimokṣa makes this precise: bodhicitta-essence (*byang chub kyi sems kyi bcud*) transforms the iron of karma and affliction into the gold of omniscience. ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]])
+2. **མི་གཙང་བའི་ལུས་ལས་རྒྱལ་བའི་སྐུར་བསྒྱུར།** — འགྲེལ་བ་ཐམས་ཅད་ཀྱིས་བསྒྱུར་ཚུལ་གྱི་ཟུར་གཉིས་མཚུངས་པར་བཤད་དེ། མི་གཙང་བའི་ལུས་ (རང་བཞིན་གྱིས་མི་གཙང་ཞིང་ལས་དང་ཉོན་མོངས་ཀྱིས་བསྒྲིབས་པ) ནི་རྒྱལ་བའི་སྐུ་ (སངས་རྒྱས་ཀྱི་གཟུགས་སྐུ) རུ་བསྒྱུར་བར་བཤད། འཕགས་པ་བྱམས་པའི་རྣམ་པར་ཐར་པའི་དཔེས་འདི་ཞིབ་པར་བསྟན་ཏེ། བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་བཅུད་ཀྱིས་ལས་དང་ཉོན་མོངས་པའི་ལྕགས་ཐམས་ཅད་ཐམས་ཅད་མཁྱེན་པའི་གསེར་དུ་བསྒྱུར་བར་བཤད། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]])
 
-3. **རིན་ཐང་མེད་པར་བསྒྱུར།** — "Transformed into that which is priceless" — the Victor's Body cannot be assigned a price; it is beyond valuation. Zhenga's annotation emphasizes this with *rin chen rin thang med par* (precious and beyond price). ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]])
+3. **རིན་ཐང་མེད་པར་བསྒྱུར།** — རྒྱལ་བའི་སྐུ་ལ་ཐ་སྙད་ཀྱི་རིན་ཐང་གང་ཡང་བཞག་མི་ནུས་ཏེ་གཞལ་དུ་མེད་པའི་རིན་ཆེན་ཡིན་པར་བཤད། གཞན་དགའི་མཆན་འགྲེལ་གྱིས་"རིན་ཆེན་རིན་ཐང་མེད་པར་" ཞེས་གསལ་བར་བཀོད། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]])
 
-4. **གཡོ་མེད་རབ་བརྟན་ཟུང་།** — Hold it unwavering and supremely stable. The verse's imperative (*zungs shig*) is to grasp bodhicitta with unswerving (*g.yo ba med par*) stability (*rab tu brtan par*). All commentators echo this formulation: having seen these extraordinary benefits, one must hold bodhicitta with the same firmness with which one would guard an irreplaceable alchemical treasure. ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-10]])
+4. **གཡོ་བ་མེད་པར་རབ་ཏུ་བརྟན་པར་ཟུངས།** — ཤོ་ལོ་ཀའི་བསྐུལ་ཚིག་ (ཟུངས་ཤིག) གིས་བྱང་ཆུབ་ཀྱི་སེམས་གཡོ་བ་མེད་པར་རབ་ཏུ་བརྟན་པར་འཛིན་དགོས་པར་བསྟན། ཕན་ཡོན་འདི་འདྲ་མཐོང་ནས་གསེར་འགྱུར་གྱི་རིན་ཐང་ཅན་གྱི་རྫས་སྲུང་སྐྱོབ་བྱེད་པ་བཞིན། བྱང་ཆུབ་ཀྱི་སེམས་ཉིད་ཀྱང་བརྟན་པོར་གཟུང་དགོས་པར་འགྲེལ་བ་ཐམས་ཅད་ཀྱིས་མཚུངས་པར་བཤད། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-10]])
 
-5. **གསེར་འགྱུར་རྩི་གསུམ་གྱི་ཁྱད་པར།** — Minyak's three-tier elaboration of the gold-elixir: lesser elixir transforms 1:1; middling transforms 1:100; the supreme (*mchog*) transforms 1:1000. Bodhicitta is the supreme elixir that transforms this body into the most priceless result imaginable — the Buddha's Form Body — not in a small proportion but in the maximum possible ratio. ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-10]])
+5. **གསེར་འགྱུར་རྩི་གསུམ་གྱི་ཁྱད་པར།** — མི་ཉག་ཀུན་བཟང་བསོད་ནམས་ཀྱིས་གསེར་འགྱུར་གྱི་རྩི་ཐ་མ་ (1:1), འབྲིང་ (1:100), མཆོག་ (1:1000) གསུམ་དུ་ཕྱེ་ནས་བཤད་དེ། བྱང་ཆུབ་ཀྱི་སེམས་ནི་རྩི་མཆོག་དེ་ཉིད་ཡིན་པར་བསྟན། མི་གཙང་བའི་ལུས་འདི་རིན་ཐང་མཆོག་ཏུ་གྱུར་པའི་འབྲས་བུར་བསྒྱུར་བ་ཆུང་ཙམ་མིན་པར་ཚད་མཐོན་པོ་ཤོས་སུ་བསྟན། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-10]])
 
-6. **རྐྱེན་གང་དང་ཐབས་གང་གིས་འགྲུབ་ཅེ་ན།** — Tenzin Gyatso poses the practical question directly: by what condition and method does this transformation come about? His answer: *bdag pas gzhan gces pa'i byang chub kyi sems* — the bodhicitta that cherishes others more than oneself — is itself the cause. It is this specific mind, taken up on top of this impure body, that produces the priceless, mark-adorned Victor's Body. ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-10]])
+6. **རྐྱེན་གང་དང་ཐབས་གང་གིས་འགྲུབ།** — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོས་འགྱུར་ཚུལ་འདིའི་རྒྱུ་མཚན་དངོས་སུ་དྲིས་ཏེ། ལན་དུ་བདག་པས་གཞན་གཅེས་པའི་བྱང་ཆུབ་ཀྱི་སེམས་ཉིད་རྒྱུ་ཡིན་པར་གསུངས། སེམས་འདི་མི་གཙང་བའི་ལུས་འདིའི་སྟེང་ནས་བླངས་པས་རིན་ཐང་མེད་པའི་རྒྱལ་བའི་སྐུ་མཚན་དཔེས་བརྒྱན་པར་འགྲུབ་པར་བཤད། ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-10]])
 
-7. **ཀུན་བཟང་གྱི་ལུང་ (Kunpal grouped commentary note)** — Kunpal's prose for verse 1-10 is part of a single commentary block covering verses 1-10, 1-11, and 1-12 together (three consecutive transclusions followed by unified prose). The gold-elixir section of that prose pertains to verse 1-10; the precious jewel simile pertains to 1-11; the fruit-bearing tree simile pertains to 1-12. ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-10]])
+7. **ཀུན་བཟང་གྱིས་ཤོ་ལོ་ཀ་གསུམ་མཉམ་དུ་བཤད་པ།** — མཁན་པོ་ཀུན་བཟང་དཔལ་ལྡན་གྱིས་ཤོ་ལོ་ཀ 1-10, 1-11, 1-12 གསུམ་ལ་གཞུང་འགྲེལ་གཅིག་ཏུ་བཤད་དེ། གསེར་འགྱུར་གྱི་དཔེ་ (1-10), རིན་པོ་ཆེའི་དཔེ་ (1-11), འབྲས་བུ་ཅན་གྱི་ལྗོན་ཤིང་གི་དཔེ་ (1-12) གསུམ་གྱིས་རིམ་བཞིན་བཤད་པར་གྲུབ། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-10]])
 
 ---
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད། (Commentary definition) | ཁུངས། (Source) |
+| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
 |---|---|---|
-| **གསེར་འགྱུར་གྱི་རྩི་མཆོག།** | Supreme gold-making elixir — the highest grade, transforming 1 unit into 1000 units; analogized to bodhicitta's transformative power | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-10]]) |
-| **མི་གཙང་བའི་ལུས།** | The impure body — this present physical body, characterized as impure by nature (*rang bzhin*), afflicted by karma and defilement | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]]) |
-| **རྒྱལ་བའི་སྐུ།** | The Victor's Body — the Form Body (*gzugs sku*) of a Buddha; the transformed result when bodhicitta operates on the impure body | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]]) |
-| **རིན་ཐང་མེད་པར་བསྒྱུར།** | Transformed to be priceless — beyond valuation; the Buddha's Body cannot be measured by conventional worth | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]]) |
-| **གཡོ་བ་མེད་པར་རབ་བརྟན།** | Unwavering and supremely stable — the manner in which bodhicitta must be held in the continuum; not fluctuating, firm as gold itself | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-10]]) |
-| **བྱང་ཆུབ་སེམས་ཀྱི་བཅུད།** | The essence/potency of bodhicitta — from the Āryamaitreyavimokṣa: specifically the bodhicitta-essence (*byang chub kyi sems kyi bcud*) that transforms iron-like karma and affliction into the gold of omniscience | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]]) |
+| **གསེར་འགྱུར་གྱི་རྩི་མཆོག།** | གསེར་འགྱུར་གྱི་རྩི་ཡི་རིགས་མཆོག་ — སྲང་གཅིག་གིས་ལྕགས་སྲང་སྟོང་གསེར་དུ་བསྒྱུར་ནུས་པའི་རིགས་མཐོན་པོ་ཤོས། བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་བསྒྱུར་ནུས་པར་དཔེར་བཀོད། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-10]]) |
+| **མི་གཙང་བའི་ལུས།** | ད་ལྟའི་ལུས་འདི་ — རང་བཞིན་གྱིས་མི་གཙང་ཞིང་ལས་དང་ཉོན་མོངས་ཀྱིས་བསྒྲིབས་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]]) |
+| **རྒྱལ་བའི་སྐུ།** | སངས་རྒྱས་ཀྱི་གཟུགས་སྐུ་ — བྱང་ཆུབ་ཀྱི་སེམས་ཀྱིས་མི་གཙང་བའི་ལུས་ལ་བརྟེན་ནས་བསྒྱུར་བའི་འབྲས་བུ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]]) |
+| **རིན་ཐང་མེད་པར་བསྒྱུར།** | གཞལ་དུ་མེད་པར་བསྒྱུར་བ་ — རྒྱལ་བའི་སྐུ་ལ་ཐ་སྙད་ཀྱི་རིན་ཐང་གང་ཡང་འཇོག་མི་ནུས་པའི་དོན། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]]) |
+| **གཡོ་བ་མེད་པར་རབ་བརྟན།** | བྱང་ཆུབ་ཀྱི་སེམས་རྒྱུད་ལ་འཛིན་ཚུལ་ — མི་གཡོ་ཞིང་གོང་ནས་གོང་དུ་རབ་ཏུ་བརྟན་པར་ཟུང་དགོས་པའི་ཚུལ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-10]]) |
+| **བྱང་ཆུབ་སེམས་ཀྱི་བཅུད།** | བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་ནུས་པ་ — འཕགས་པ་བྱམས་པའི་རྣམ་པར་ཐར་པ་ལས་བཤད་པའི་ལས་ཉོན་གྱི་ལྕགས་ཐམས་ཅད་ཐམས་ཅད་མཁྱེན་པའི་གསེར་དུ་བསྒྱུར་བའི་བཅུད། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]]) |
 
 ---
 
 ## བསྡུས་དོན། (Verse synthesis — AI Overview style)
 
-Verse 1-10 opens the third cluster of benefits: the praise of bodhicitta's power through analogy. The first of three similes is the gold-making elixir (*gser 'gyur gyi rtsi*): just as the supreme grade of alchemical elixir transforms a thousand units of iron into pure gold with a single unit, bodhicitta takes this impure body (*mi gtsang ba'i lus*) and transforms it into the Victor's Body (*rgyal ba'i sku*) — priceless beyond measure.
+**ངོ་སྤྲོད་མདོར་བསྡུས།** ཤོ་ལོ་ཀ 1-10 པ་ནི་ཕན་ཡོན་གྱི་སྐབས་གསུམ་པ་ — དཔེའི་སྒོ་ནས་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་མཐུ་བསྔགས་པ་ — འགོ་འཛུགས་ཏེ། དཔེ་གསུམ་ལས་དང་པོ་གསེར་འགྱུར་གྱི་རྩི་ཡིན། གསེར་འགྱུར་གྱི་རྩི་མཆོག་སྲང་གཅིག་གིས་ལྕགས་སྲང་སྟོང་གསེར་དུ་བསྒྱུར་ནུས་པ་ལྟར། བྱང་ཆུབ་ཀྱི་སེམས་ཀྱིས་མི་གཙང་བའི་ལུས་འདི་བླངས་ནས་རྒྱལ་བའི་སྐུར་ — རིན་ཐང་མེད་པའི་འབྲས་བུར — བསྒྱུར་བར་བསྟན།
 
-The commentary consensus is unanimous on the metaphor's structure: the impure body is iron; bodhicitta is the elixir; the Victor's Form Body (*rgyal ba'i gzugs sku*) is the gold. Zhenga's annotation frames the conclusion pointedly: having seen this transformative power, one must grasp bodhicitta with unswerving (*g.yo ba med par*) and supreme stability (*rab tu brtan par*) — the imperative *zungs shig* that closes the verse. ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]])
+འགྲེལ་བ་ཐམས་ཅད་ཀྱིས་དཔེའི་སྒྲུབ་ཚུལ་མཚུངས་པར་ཤེས་ཏེ། མི་གཙང་བའི་ལུས་ནི་ལྕགས་དང་འདྲ། བྱང་ཆུབ་ཀྱི་སེམས་ནི་རྩི་དང་འདྲ། རྒྱལ་བའི་གཟུགས་སྐུ་ནི་གསེར་དང་འདྲ། གཞན་དགའི་མཆན་འགྲེལ་གྱིས་མཐའ་མར་གསལ་བར་བཀོད་དེ། ཕན་ཡོན་འདི་འདྲ་མཐོང་ནས་བྱང་ཆུབ་ཀྱི་སེམས་ལ་གཡོ་བ་མེད་པར་རབ་ཏུ་བརྟན་པར་ (ཟུངས་ཤིག) ཟུང་དགོས་པར་བཤད། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]])
 
-Minyak-Kunzang-Sonam elaborates the three grades of elixir (lesser: 1:1; middling: 1:100; supreme: 1:1000) to show that bodhicitta is specifically the supreme grade — not a proportional improvement but a maximum-order transformation of the least into the most precious. ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-10]])
+མི་ཉག་ཀུན་བཟང་བསོད་ནམས་ཀྱིས་གསེར་འགྱུར་གྱི་རྩི་རིགས་གསུམ་ (ཐ་མ 1:1, འབྲིང 1:100, མཆོག 1:1000) ཕྱེ་ནས་བྱང་ཆུབ་ཀྱི་སེམས་ནི་རིགས་མཆོག་དེ་ཉིད་ཡིན་པར་བཤད་དེ། ཚད་ཀྱི་ཆ་ནས་མཐོན་པོ་ཤོས་ཀྱི་འགྱུར་བར་བསྟན། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-10]])
 
-The Āryamaitreyavimokṣa (cited at length in Zhenga's mchan-grel) provides the extended analogy: the "mercury-that-appears-as-gold" (*dngul chu'i rigs gser du snang ba*) transforms a thousand units of iron into gold, and it is not itself exhausted or converted to iron — and just so, the bodhicitta-essence (*byang chub kyi sems kyi bcud*) that pervades virtue dedicated to omniscience transforms the iron of all karma and affliction into the gold of omniscience, without being diminished itself. ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]])
+འཕགས་པ་བྱམས་པའི་རྣམ་པར་ཐར་པ་ (གཞན་དགའི་མཆན་འགྲེལ་ལས་རྒྱས་པར་དྲངས་པ) ལས་དཔེ་ཞིབ་ཏུ་བཤད་དེ། "དངུལ་ཆུའི་རིགས་གསེར་དུ་སྣང་བ" ཞེས་བྱ་བས་ལྕགས་སྲང་སྟོང་གསེར་དུ་བསྒྱུར་ཡང་རང་ཉིད་མི་ཟད་པ་བཞིན། ཐམས་ཅད་མཁྱེན་པར་སེམས་བསྐྱེད་པའི་བཅུད་ཀྱིས་ལས་དང་ཉོན་མོངས་པའི་ལྕགས་ཐམས་ཅད་ཐམས་ཅད་མཁྱེན་པའི་གསེར་དུ་བསྒྱུར་ཡང་རང་ཉིད་མི་ཉམས་པར་བཤད། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]])
 
-Gyaltsab, Ngulchu-thogmed, Sabzang, and Khenpo Kunga all cite the Gaṇḍavyūha in parallel to confirm the alchemical metaphor. Minyak additionally cites the Dpas byin gyis zhus pa: "Those who delight in bodhicitta — their bodies become like gold, adorned with signs, illuminating the world." ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-10]])
+རྒྱལ་ཚབ་དང་ངུལ་ཆུ་ཐོགས་མེད་དང་ས་བཟང་དང་མཁན་པོ་ཀུན་དགའ་བཞི་ཀ་ཡིས་སྡོང་པོ་བཀོད་པའི་ལུང་མཚུངས་པར་དྲངས་ཏེ་གསེར་འགྱུར་གྱི་དཔེ་གཏན་ལ་ཕབ། མི་ཉག་ཀུན་བཟང་བསོད་ནམས་ཀྱིས་གཞན་ཡང་དཔས་བྱིན་གྱིས་ཞུས་པ་དྲངས་ཏེ། "བྱང་ཆུབ་སེམས་ལ་སུ་དགའ་བ། དེ་དག་ལུས་ནི་གསེར་འདྲ་ཞིང་། མཚན་གྱིས་ཤིན་ཏུ་སྨྲས་པ་དང་། འཇིག་རྟེན་སྣང་བར་བྱེད་པར་འགྱུར།" ཞེས་བཤད། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-10]])
 
-*Structural note*: Verse 1-10 begins a sub-section of three simile-verses (1-10: gold elixir; 1-11: precious jewel; 1-12: fruit-bearing tree). Kunpal treats verses 1-10, 1-11, and 1-12 together in a single continuous prose block, with the three similes distributed across consecutive transclusions and then explained jointly.
+*རྣམ་གཞག་གནད།* ཤོ་ལོ་ཀ 1-10 པ་ནི་དཔེ་གསུམ་གྱི་ཡན་ལག་ཏུ་གྱུར་པའི་སྐབས་འགོའི་ཐོག་མ་ཡིན་ (1-10 གསེར་འགྱུར་གྱི་རྩི། 1-11 རིན་པོ་ཆེ། 1-12 འབྲས་བུ་ཅན་གྱི་ལྗོན་ཤིང)། མཁན་པོ་ཀུན་བཟང་དཔལ་ལྡན་གྱིས་ཤོ་ལོ་ཀ 1-10, 1-11, 1-12 གསུམ་ཀ་ལ་གཞུང་འགྲེལ་གཅིག་ཏུ་བཤད་དེ། དཔེ་གསུམ་པོ་བརྒྱུད་མར་བཀོད་ནས་མཇུག་ཏུ་མཉམ་དུ་བཤད་པར་གྲུབ།
 
-- Tenzin Gyatso frames the transformation as answering a practical "how": the impure body becomes the priceless Buddha-body specifically through *bdag pas gzhan gces pa'i sems* — bodhicitta as the mind that cherishes others more than oneself. ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-10]])
+- རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོས་འགྱུར་ཚུལ་འདིའི་རྒྱུ་མཚན་ "རྐྱེན་གང་དང་ཐབས་གང་གིས་འགྲུབ་" ཅེས་དངོས་སུ་བཀོད་ནས། ལན་དུ་བདག་པས་གཞན་གཅེས་པའི་བྱང་ཆུབ་ཀྱི་སེམས་ཉིད་རྒྱུ་ཡིན་པར་གསུངས། ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-10]])

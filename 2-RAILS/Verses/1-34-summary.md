@@ -105,20 +105,22 @@ notes: |
 ## ལུང། (Scripture citations)
 
 > རབ་ཏུ་ཞི་བ་རྣམ་པར་ངེས་པ་ཆོ་འཕྲུལ་གྱི་མདོ་ལས། འཇམ་དཔལ་བྱང་ཆུབ་སེམས་དཔས་བྱང་ཆུབ་སེམས་དཔའ་ལ་ཁོང་ཁྲོ་བའི་སེམས་བསྐྱེད་ཅིང་བརྙས་པའི་སེམས་བསྐྱེད་པ་དེ་སྲིད་དུ་དེས་བདག་བསྐལ་པར་དམྱལ་བར་གནས་པར་བྱའོ་ཞེས་གོ་ཆ་བགོ་བར་བྱའོ་ཞེས་གསུངས་སོ། །
+> — ཐུབ་པས་དངོས་སུ་ལུང་དྲངས་པའི་མདོ་ཁུངས་ཏེ་ཚིགས་བཅད་འདིའི་གཞི་རྩའི་ལུང།
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]])
 
 > དད་པའི་སྟོབས་བསྐྱེད་པ་ལ་འཇུག་པའི་ཕྱག་རྒྱའི་མདོ་ལས། གངྒཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་ཀྱི་མཆོད་རྟེན་བཤིག་པའམ་བསྲེགས་པ་ལས་ཐེག་པ་ཆེན་པོ་ལ་མོས་པའི་བྱང་ཆུབ་སེམས་དཔའ་ལ་གནོད་སེམས་སོགས་བསྐྱེད་ན་སྡིག་པ་ཆེས་གྲངས་མེད་པ་སྐྱེ་བར་གསུངས་ཤིང་།
+> — གྱལ་ཚབ་ (GDR) ཀྱིས་དྲངས་པའི་ལུང་ཞིག་སྟེ། མཆོད་རྟེན་གངྒཱའི་བྱེ་མ་སྙེད་བཤིག་པ་ལས་ཀྱང་བྱང་སེམས་ལ་གནོད་པ་བྱེད་པ་ཆེས་སྡིག་ཆེ་བར་སྟོན།
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]])
 
 > གང་དུ་སུ་དང་འགྲོགས་པའི་ཚེ། །བདག་ཉིད་ཀུན་ལས་དམན་བལྟ་ཞིང་། །
-> — བློ་སྦྱོང་གླང་ཐང་ཚིགས་བརྒྱད་མ། (whenever and with whomever one associates, view oneself as lower than all — tenzin-gyatso's rationale for guarding against contempt toward a possibly-hidden bodhisattva)
+> — བློ་སྦྱོང་གླང་ཐང་ཚིགས་བརྒྱད་མ། གང་དུ་སུ་དང་འགྲོགས་ཀྱང་བདག་ཉིད་ཐམས་ཅད་ལས་དམའ་བར་བལྟ་དགོས་པའི་གདམས་ངག་སྟེ། རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོས་སྦས་པའི་བྱང་ཆུབ་སེམས་དཔའ་ལ་བརྙས་སེམས་སྔོན་འགོག་གི་སྲུང་ཐབས་སུ་དྲངས།
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-34]])
 
 > རང་ཉིད་ཀུན་གྱིས་ཚད་མར་བཀུར་ན་ཡང་། །ངའོ་སྙམ་པའི་ང་རྒྱལ་ཆུང་བར་མཛོད། །
-> — འབྲོམ་སྟོན་ཆོས་ཀྱི་རྒྱལ་པོ། (even when honored by all as an authority, diminish the pride of thinking "I am [someone]" — cited by tenzin-gyatso alongside the Lojong quotation as a safeguard practice)
+> — འབྲོམ་སྟོན་ཆོས་ཀྱི་རྒྱལ་པོ། རང་ཉིད་ཀུན་གྱིས་ཚད་མར་བཀུར་ན་ཡང་ང་རྒྱལ་ཆུང་དུ་གཟུང་དགོས་པའི་གདམས་ངག་སྟེ། རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོས་བློ་སྦྱོང་གི་ཚིགས་བཅད་དང་མཉམ་དུ་སྲུང་ཐབས་སུ་དྲངས།
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-34]])
 
@@ -126,16 +128,16 @@ notes: |
 
 ## གཙོ་གནད། (Main teaching points)
 
-1. **སྐད་ཅིག་བསྐལ་བར་འཇལ་བའི་གནད།** — The verse states a precisely proportional consequence: each moment (སྐད་ཅིག་) of anger or contempt toward a bodhisattva generates a corresponding eon (བསྐལ་པ་) of hell-birth. This is not an approximate or rhetorical punishment but an exact moment-for-eon ratio, substantiated by Praśāntaviniscaya directly quoted in every commentary (KS, KKP, GDR, NTS, SMPLG, MKS, NKW).
+1. **སྐད་ཅིག་བསྐལ་བར་འཇལ་བའི་གནད།** — ཚིགས་སུ་བཅད་པ་འདིས་བྱང་ཆུབ་སེམས་དཔའ་ལ་ངན་སེམས་བསྐྱེད་པའི་སྐད་ཅིག་རེ་རེ་ལ་དམྱལ་བའི་བསྐལ་པ་རེ་རེའི་གྲངས་མཉམ་པའི་འབྲས་བུ་ངེས་པར་སྟོན་ཏེ། འདི་ནི་ཚོད་དཔག་ཙམ་མམ་ཚིག་རྒྱན་གྱི་ཉེས་དམིགས་མིན་པར་སྐད་ཅིག་དང་བསྐལ་པའི་གྲངས་མཉམ་པའི་གནད་ཟབ་མོ་ཞིག་ཡིན་པ་རབ་ཏུ་ཞི་བ་རྣམ་པར་ངེས་པ་ཆོ་འཕྲུལ་གྱི་མདོ་ལས་འགྲེལ་བ་ཐམས་ཅད་ (KS, KKP, GDR, NTS, SMPLG, MKS, NKW) ཀྱིས་ལུང་དངོས་སུ་དྲངས་ཏེ་གཞི་གྲུབ།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]])
 
-2. **གཞི་རྒྱལ་སྲས་སྦྱིན་བདག་གི་གནད།** — All commentaries emphasize that the extreme gravity of anger here is due to who the object is: a bodhisattva who is the great donor of all beings in the three realms (ཁམས་གསུམ་གྱི་སེམས་ཅན་ཐམས་ཅད་ཀྱི་སྦྱིན་བདག་ཆེན་པོ་). NKW specifies three types of wrong attitude: anger (ཁོང་ཁྲོ་), contempt (བརྙས་བཅོས་), and wrong faith (དད་པ་ལོག་པ་). GDR also cites the Daddhi-sūtra on the extreme gravity of harming a bodhisattva compared to destroying as many stūpas as Ganges sand.
+2. **གཞི་རྒྱལ་སྲས་སྦྱིན་བདག་གི་གནད།** — འགྲེལ་བ་ཐམས་ཅད་ཀྱིས་གནད་གཙོ་བོར་བསྟན་པ་ནི། འདིར་ཁོང་ཁྲོའི་ཉེས་དམིགས་ཤིན་ཏུ་ཆེ་བའི་རྒྱུ་མཚན་གཞི་ལ་རག་ལས་ཏེ། ཁམས་གསུམ་གྱི་སེམས་ཅན་ཐམས་ཅད་ཀྱི་སྦྱིན་བདག་ཆེན་པོར་གྱུར་པའི་བྱང་ཆུབ་སེམས་དཔའ་ཞིག་ཡིན་པའི་ཕྱིར་རོ། NKW ཡིས་ལོག་སེམས་རིགས་གསུམ་— ཁོང་ཁྲོ་, བརྙས་བཅོས་, དད་པ་ལོག་པ་— བྱེ་བྲག་ཏུ་ཕྱེ། GDR ཡིས་ཀྱང་དད་བསྐྱེད་མདོ་ལས་གངྒཱའི་བྱེ་མ་སྙེད་ཀྱི་མཆོད་རྟེན་བཤིག་པ་ལས་བྱང་སེམས་ལ་གནོད་པ་བྱེད་པ་ཆེས་སྡིག་ཆེ་བར་དྲངས།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]])
 
-3. **NTS གི་གཤིབ་ཟླ་ཡིན་གྱི་གནད།** — NTS (and KS) pair verse 1-34 immediately with the positive case of the first hemistich of 1-35 (ཡིད་རབ་དང་བར་བྱེད་ན་) as a negative/positive contrast under the heading "ཞིང་ཁྱད་པར་ཅན་ཡིན་པ་" (the field is special): the same outstanding field that makes anger catastrophic makes reverence extraordinarily meritorious.
+3. **NTS གི་གཤིབ་ཟླ་ཡིན་པའི་གནད།** — NTS (KS ཀྱང་མཚུངས་) ཀྱིས་ཚིགས་བཅད་1-34 པ་འདི་1-35 པའི་སྐབས་དང་པོའི་ལེགས་ཆ་ ("ཡིད་རབ་དང་བར་བྱེད་ན་") དང་མཉམ་དུ་"ཞིང་ཁྱད་པར་ཅན་ཡིན་པ་" ཞེས་པའི་ས་བཅད་གཅིག་གི་འོག་ཏུ་ལེགས་ཉེས་ཟུང་འབྲེལ་གྱིས་བཤད་དེ། གཞི་ཁྱད་པར་ཅན་དེ་ཉིད་ཀྱིས་ངན་སེམས་བསྐྱེད་ན་ཉེས་དམིགས་ཤིན་ཏུ་ཆེ་ཞིང་དད་གུས་བསྐྱེད་ན་བསོད་ནམས་ཤིན་ཏུ་ཆེ་བར་སྟོན།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]])
 
-4. **དག་སྣང་སྦྱོང་དགོས་པའི་གནད། (tenzin-gyatso)** — Since one cannot know in which being bodhicitta may already be present (བྱང་ཆུབ་སེམས་དཔའ་གང་ན་ཡོད་མི་ཤེས་), TG draws the practical conclusion that one must train in pure perception toward everyone, citing the Lojong Glang thang tshigs brgyad and Dromtönpa on taking the lowest place among others as a safeguard against ever directing contempt at a hidden bodhisattva.
+4. **དག་སྣང་སྦྱོང་དགོས་པའི་གནད། (tenzin-gyatso)** — སེམས་ཅན་སུའི་རྒྱུད་ལ་བྱང་ཆུབ་སེམས་ཡོད་མེད་ངེས་པར་མི་ཤེས་པའི་ཕྱིར་ (བྱང་ཆུབ་སེམས་དཔའ་གང་ན་ཡོད་མི་ཤེས་)། TG ཡིས་ཀུན་ལ་དག་སྣང་སྦྱོང་དགོས་པའི་ལག་ལེན་གྱི་མཐའ་དོན་བཏོན་ཏེ། བློ་སྦྱོང་གླང་ཐང་ཚིགས་བརྒྱད་མ་དང་འབྲོམ་སྟོན་གྱི་གསུང་དྲངས་ནས་རང་ཉིད་ཀུན་ལས་དམའ་བའི་ས་འཛིན་པ་ནི་སྦས་པའི་བྱང་ཆུབ་སེམས་དཔའ་ལ་བརྙས་སེམས་སྐྱེ་བ་སྔོན་འགོག་གི་སྲུང་ཐབས་ཡིན་པར་བཤད།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-34]])
 
 ---
@@ -144,10 +146,10 @@ notes: |
 
 | གནད་ཚིག | འགྲེལ་བཤད་ | ཁུངས། |
 |---|---|---|
-| **བྱང་ཆུབ་སེམས་དཔའ་གང་ན་ཡོད་མི་ཤེས།** | one cannot know where a bodhisattva may be found; tenzin-gyatso's rationale for universal humility and pure perception, since contempt could inadvertently target a hidden bodhisattva | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-34]]) |
-| **ངན་སེམས་བསྐྱེད་པའི་གྲངས་བཞིན་བསྐལ་པར།** | "in accord with the count of moments of ill-will generated" — one eon of hell for each moment of anger; the exactness of the ratio is the verse's most alarming claim | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
-| **རབ་ཏུ་ཞི་བ་རྣམ་པར་ངེས་པ་ཆོ་འཕྲུལ་གྱི་མདོ།** | Praśāntaviniscayaprātihārya-sūtra (Sūtra of the Miracle of Definite Pacification); the scriptural source Śāntideva himself cites ("ཐུབ་པས་གསུངས"), quoted verbatim by all seven commentaries | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]) |
-| **གོ་ཆ་བགོ་བར་བྱའོ།** | "one should put on (this) armor" / "be prepared to accept this"; standard Tibetan rendering of the Praśāntaviniscaya's imperative — be forewarned and guard accordingly | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
+| **བྱང་ཆུབ་སེམས་དཔའ་གང་ན་ཡོད་མི་ཤེས།** | སེམས་ཅན་སུ་ཞིག་བྱང་ཆུབ་སེམས་དཔའ་ཡིན་མིན་ངེས་པར་མི་ཤེས་པའི་དོན་— TG ཡིས་ཀུན་ལ་སྤྱི་བཏང་གུས་བཀུར་དང་དག་སྣང་སྦྱོང་དགོས་པའི་རྒྱུ་མཚན་དུ་བཀོད་དེ། སྦས་པའི་བྱང་ཆུབ་སེམས་དཔའ་ལ་མ་ཤེས་པར་བརྙས་སེམས་སྐྱེ་བའི་ཉེན་ཁ་སྔོན་འགོག། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-34]]) |
+| **ངན་སེམས་བསྐྱེད་པའི་གྲངས་བཞིན་བསྐལ་པར།** | ངན་སེམས་སྐད་ཅིག་རེ་ལ་དམྱལ་བའི་བསྐལ་པ་རེ་ལྟར་གྲངས་མཉམ་པའི་སྡིག་འབྲས་— ཚིགས་བཅད་འདིའི་འཇིགས་སྣང་ཆེ་ཤོས་ཀྱི་གནད། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
+| **རབ་ཏུ་ཞི་བ་རྣམ་པར་ངེས་པ་ཆོ་འཕྲུལ་གྱི་མདོ།** | ཐུབ་པས་དངོས་སུ་ལུང་དྲངས་པའི་མདོ་ཁུངས་ ("ཐུབ་པས་གསུངས") — འགྲེལ་བ་བདུན་ཆ་ཚང་གིས་ཚིག་གཅིག་མཚུངས་སུ་དྲངས་པའི་ལུང་། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]) |
+| **གོ་ཆ་བགོ་བར་བྱའོ།** | "གོ་ཆ་གྱོན་པར་བྱའོ" ཞེས་པའི་དོན་— རབ་ཏུ་ཞི་བའི་མདོའི་བཀའ་གདམས་ལྟར་སྔོན་ནས་བརྟགས་ཏེ་སྲུང་སྐྱོབ་བྱེད་དགོས་པའི་གདམས་ངག། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
 
 ---
 

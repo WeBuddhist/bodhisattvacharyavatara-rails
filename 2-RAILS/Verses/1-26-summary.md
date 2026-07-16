@@ -58,7 +58,7 @@ notes: |
 
 ### ngulchu-thogmed — དངུལ་ཆུ་ཐོགས་མེད། (ལེགས་བཤད་རྒྱ་མཚོ།)
 
-*Note: 1-26 and 1-27 are grouped in this commentary; 1-26 IS the first verse. Full grouped prose (covering both verses) appears here.*
+*ས་བཅད། ཚིགས་བཅད་ ༡-༢༦ དང་ ༡-༢༧ གཉིས་འདི་འགྲེལ་པ་འདིར་ཆིག་སྒྲིལ་དུ་བཤད་ཅིང་། ༡-༢༦ ནི་ཚིག་ཚང་བའི་གཞུང་ཐོག་མ་ཡིན་པས་གྲངས་བཤད་ཆ་ཚང་འདིར་བཀོད། ༡-༢༧-summary.md ནང་ནས་ཡིག་ཆ་འདིར་མཚན་བརྗོད་ཀྱིས་གོ་སྐབས་སྦྱར།*
 
 འགྲོ་བ་ཀུན་གྱི་དགའ་བའི་རྒྱུ་སེམས་ཅན་ཀྱི་སྡུག་བསྔལ་གྱི་ནད་སེལ་བའི་རྩི་སྨན་དུ་གྱུར་པའི་རིན་ཆེན་སེམས་ཀྱི་བསོད་ནམས་གང་ཡིན་པ་དེ་ལ་ཇི་ལྟར་གཞལ་གྱིས་ལང་སྟེ། དཔལ་བྱིན་གྱིས་ཞུས་པ་ལས། བྱང་ཆུབ་སེམས་ཀྱི་བསོད་ནམས་གང་། །གལ་ཏེ་དེ་ལ་གཟུགས་མཆིས་ན། །ནམ་མཁའི་ཁམས་ནི་ཀུན་གང་སྟེ། །དེ་བས་ཀྱང་ནི་ལྷག་པར་འགྱུར། །ཞེས་གསུངས་སོ། །སེམས་ཅན་ལ་ཕན་པར་བསམ་པ་ཙམ་གྱིས་ཀྱང་སངས་རྒྱས་མཆོད་པ་ལས་ཁྱད་པར་དུ་འཕགས་པར་ཏིང་ངེ་འཛིན་གྱི་རྒྱལ་པོ་ལས། བྱེ་བ་ཁྲག་ཁྲིག་གཏམས་པའི་ཞིང་དག་ན། །མཆོད་པ་རྣམ་མང་དཔག་མེད་ཅི་ཡོད་པ། །སྐྱེས་མཆོག་རྣམས་ལ་ཉིན་རེར་རྟག་མཆོད་པས། །བྱམས་པའི་སེམས་ལ་གྲངས་དང་ཆར་མི་ཕོད། །ཅེས་གསུངས་ན། སེམས་ཅན་མ་ལུས་ཐམས་ཅད་ཀྱི་བདེ་བ་བསྒྲུབ་པའི་དོན་ལ་བརྩོན་པ་དེ་བས་ཁྱད་པར་དུ་འཕགས་པ་སྨྲོས་ཅི་དགོས།
 
@@ -92,26 +92,26 @@ notes: |
 
 ## སྒྲུང་འགྲེལ། (Stories and narratives)
 
-*Verse 1-26 contains no independent narrative. The proof of bodhicitta's incomparable merit flows directly from the a fortiori arguments established in 1-21 through 1-25.*
+*ཚིགས་བཅད་ ༡-༢༦ པར་ཁྱད་པར་གྱི་སྒྲུང་འགྲེལ་མེད། བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་མཚུངས་མེད་པའི་བསོད་ནམས་ཀྱི་སྒྲུབ་བྱེད་ནི་ ༡-༢༡ ནས་ ༡-༢༥ བར་གྱིས་གཞི་བཙུགས་པའི་ཆེས་ལྷག་པའི་གཏན་ཚིགས་ (a fortiori) ལས་མངོན་སུམ་དུ་འབྱུང་བ་ཡིན།*
 
 ---
 
 ## དཔེ། (Metaphors and examples)
 
-**ཡིད་བཞིན་གྱི་ནོར་བུ།** (Wish-fulfilling gem) — All commentaries (KKP, KS, GDR, SMPLG, MKS, NKW) employ this metaphor: as a cintāmaṇi gem is the most precious of all gems — fulfilling every wish and dispelling all need — so bodhicitta is the most precious of all minds, cause of all joy and cure for all suffering.
+**ཡིད་བཞིན་གྱི་ནོར་བུ།** — འགྲེལ་བ་ཐམས་ཅད་ (KKP, KS, GDR, SMPLG, MKS, NKW) ཀྱིས་དཔེ་འདི་སྦྱར་ཏེ། ཡིད་བཞིན་གྱི་ནོར་བུ་རིན་པོ་ཆེ་ཐམས་ཅད་ཀྱི་མཆོག་ཏུ་གྱུར་ནས་འདོད་པ་ཐམས་ཅད་འགྲུབ་ཅིང་དགོས་པ་ཐམས་ཅད་སེལ་བ་ལྟར། བྱང་ཆུབ་ཀྱི་སེམས་ཀྱང་སེམས་ཐམས་ཅད་ཀྱི་ནང་ནས་རིན་ཐང་ཆེ་ཤོས་སུ་གྱུར་ཏེ་འགྲོ་བ་ཀུན་གྱི་དགའ་བའི་རྒྱུ་དང་སྡུག་བསྔལ་ཐམས་ཅད་ཀྱི་སྨན་རྩིར་གྱུར་པའོ།
 ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])
 
-**སྨན་གྱི་རྩི། / བདུད་རྩི་འཆི་གསོས།** (Nectar medicine / amṛta) — NKW uniquely specifies that bodhicitta is not merely a medicine but "the nectar that heals death" (བདུད་རྩི་འཆི་གསོས་ལྟ་བུ་), the supreme among all medicines — since it removes suffering caused by birth, aging, sickness, and death, as well as the four humors, heat, cold, hunger, thirst, stupidity, servitude, and all hardships.
+**སྨན་གྱི་རྩི། / བདུད་རྩི་འཆི་གསོས།** — ངག་དབང་ཀུན་དགའ་དབང་ཕྱུག་གིས་ཁྱད་པར་དུ་བཤད་པ་ལྟར། བྱང་ཆུབ་ཀྱི་སེམས་ནི་སྨན་ཙམ་མིན་པར་"བདུད་རྩི་འཆི་གསོས་"ལྟ་བུ་སྟེ་སྨན་ཐམས་ཅད་ཀྱི་ནང་ནས་རང་བཞིན་གྱི་རྩིར་གྱུར་པ་ཡིན། སྐྱེ་བ་རྒ་བ་ན་བ་འཆི་བ་དང༌། རླུང་མཁྲིས་བད་ཀན་ལ་སོགས་ནད་ཀྱིས་མནར་བ། ཚ་གྲང་བཀྲེས་སྐོམ་བླུན་རྨོངས་བཀོལ་སྤྱོད་ལ་སོགས་པའི་ལུས་སེམས་ཀྱི་སྡུག་བསྔལ་ཐམས་ཅད་ཞི་བར་བྱེད་པའི་ཕྱིར་རོ།
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
-**ནམ་མཁའི་མཐའ།** (The limits of space) — The scriptural proof uses space as the measure of immeasurability: if bodhicitta's merit had form, it would overfill the entirety of space. This image of space as the measure of the immeasurable runs across KKP, KS, GDR, NTS, and MKS.
+**ནམ་མཁའི་མཐའ།** — ལུང་གི་སྒྲུབ་བྱེད་དུ་ནམ་མཁའི་མཐའ་མཐའ་ཡས་པ་དེ་ཉིད་ཚད་ཟད་མེད་པའི་དཔེར་བཀོད་དེ། བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་བསོད་ནམས་གལ་ཏེ་གཟུགས་མཆིས་ན་ནམ་མཁའི་ཁམས་ཀུན་གང་ཞིང་དེ་བས་ཀྱང་ལྷག་པར་འགྱུར་བར་བསྟན། མཐའ་ཡས་པའི་ཚད་ལ་ནམ་མཁའ་དཔེར་བཀོད་པའི་འདྲ་བ་འདི་ KKP, KS, GDR, NTS, MKS ལྔ་ཀ་ལ་མཐུན་པར་འབྱུང་།
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]])
 
 ---
 
 ## ལུང། (Scriptural quotations)
 
-**འཕགས་པ་དཔལ་བྱིན་གྱིས་ཞུས་པ།** (Śrīmatī-paripṛcchā / Bhadrapāla-sūtra; quoted in KKP, KS, GDR, NTS, MKS):
+**འཕགས་པ་དཔལ་བྱིན་གྱིས་ཞུས་པ།** (*Śrīmatī-paripṛcchā* / *Bhadrapāla-sūtra*; KKP, KS, GDR, NTS, MKS ལྔ་ཀར་དྲངས།):
 
 > བྱང་ཆུབ་སེམས་ཀྱི་བསོད་ནམས་གང་། །
 > གལ་ཏེ་དེ་ལ་གཟུགས་མཆིས་ན། །
@@ -120,7 +120,7 @@ notes: |
 
 → ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])
 
-**བྱང་ཆུབ་སེམས་འགྲེལ།** (Bodhicittavivaraṇa; two verses, quoted in MKS only):
+**བྱང་ཆུབ་སེམས་འགྲེལ།** (*Bodhicittavivaraṇa*; ཚིགས་བཅད་གཉིས་སོ། MKS ཁོ་ནར་དྲངས།):
 
 > བྱང་ཆུབ་སེམས་ནི་བསྐྱེད་ཙམ་གྱིས། །
 > བསོད་ནམས་ཕུང་པོ་ཉེར་བསགས་པ། །
@@ -138,16 +138,16 @@ notes: |
 
 ## གཙོ་གནད། (Main teaching points)
 
-1. **བསོད་ནམས་མཐའ་མེད་པའི་གནད།** — Verse 1-26 is the first explicit proof of bodhicitta's immeasurable merit: as the cause of all joy (དགའ་བའི་རྒྱུ་) for all beings and the medicine (སྨན་རྩི་) for all suffering, it is a precious gem (ནོར་བུ་རིན་ཆེན་) whose merit cannot be measured by any standard. The Bhadrapāla-sūtra provides scriptural corroboration: if that merit had form, it would exceed all of space.
+1. **བསོད་ནམས་མཐའ་མེད་པའི་གནད།** — ཚིགས་བཅད་ ༡-༢༦ ནི་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་བསོད་ནམས་མཐའ་ཡས་པར་སྒྲུབ་པའི་ལུང་གཏན་ཚིགས་དང་པོ་ཡིན་ཏེ། སེམས་ཅན་ཐམས་ཅད་ཀྱི་དགའ་བའི་རྒྱུ་དང་སྡུག་བསྔལ་ཐམས་ཅད་ཀྱི་སྨན་ (སྨན་རྩི་) ཡིན་པའི་ཕྱིར། རིན་ཆེན་ (ནོར་བུ་རིན་ཆེན་) ལྟ་བུའི་སེམས་དེའི་བསོད་ནམས་ཚད་གང་གིས་ཀྱང་གཞལ་མི་ནུས་པར་བཤད། འཕགས་པ་དཔལ་བྱིན་གྱིས་ཞུས་པའི་མདོས་ཀྱང་བསོད་ནམས་དེ་གཟུགས་ཡོད་ན་ནམ་མཁའི་ཁམས་ཀུན་ལས་ཀྱང་ལྷག་པར་འགྱུར་བར་ལུང་གིས་གྲུབ་པར་བསྟན།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]])
 
-2. **སྨོན་པ་ལས་སྤྱོད་པའི་ཁྱད་པར་གྱི་གནད།** — GDR opens by noting: if the merit of aspiring bodhicitta (སྨོན་པ་) is already immeasurable, engaging bodhicitta (སྤྱོད་པ་) — which adds the six perfections in action — exceeds it further. This establishes the ascending argument that continues into verse 1-27.
+2. **སྨོན་པ་ལས་སྤྱོད་པའི་ཁྱད་པར་གྱི་གནད།** — རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་གྱིས་གསལ་བར་བཤད་པ་ལྟར། སྨོན་པའི་སེམས་བསྐྱེད་ (སྨོན་པ་) ཀྱི་ཕན་ཡོན་ཤིན་ཏུ་ཆེ་ན་ཡང་། ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་ཉམས་སུ་ལེན་པའི་བྱ་བས་ཟིན་པའི་སྤྱོད་པའི་སེམས་བསྐྱེད་ (སྤྱོད་པ་) ནི་དེ་བས་ཀྱང་ཁྱད་པར་དུ་འཕགས་སོ། གོང་འཕེལ་གྱི་གཏན་ཚིགས་འདིས་ཚིགས་བཅད་ ༡-༢༧ བར་གྱི་བརྗོད་པར་མཐུད་པའི་གཞི་བཙུགས།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]])
 
-3. **རྩི་སྨན་ཆེན་པོའི་གནད།** — NKW is the most detailed in enumerating the specific sufferings that bodhicitta cures: birth, aging, sickness, and death; the four humors (wind, bile, phlegm); heat, cold, hunger, thirst, stupidity, servitude, and all bodily and mental distresses. This comprehensive enumeration demonstrates the verse's claim that bodhicitta is the remedy (རྩི་སྨན་) for all suffering without exception.
+3. **རྩི་སྨན་ཆེན་པོའི་གནད།** — ངག་དབང་ཀུན་དགའ་དབང་ཕྱུག་གིས་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱིས་ཞི་བར་བྱེད་པའི་སྡུག་བསྔལ་གྱི་རྣམ་གྲངས་ཐམས་ཅད་ལས་ཟབ་ཞིང་རྒྱས་པར་བཤད་དེ། སྐྱེ་རྒ་ན་འཆི་དང༌། རླུང་མཁྲིས་བད་ཀན་གསུམ། ཚ་གྲང་བཀྲེས་སྐོམ་བླུན་རྨོངས་བཀོལ་སྤྱོད་ལ་སོགས་པའི་ལུས་སེམས་ཀྱི་སྡུག་བསྔལ་མཐའ་དག་བཤད། རྣམ་གྲངས་འདིས་བྱང་ཆུབ་ཀྱི་སེམས་ནི་སྡུག་བསྔལ་ཐམས་ཅད་ལ་ལྷག་མེད་དུ་ཕན་པའི་རྩི་སྨན་ཡིན་པའི་ཚིགས་བཅད་ཀྱི་དོན་མངོན་སུམ་དུ་སྟོན།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
-4. **ལུང་འདྲེན་གྱི་གནད།** — MKS notes that some commentators interpret the Bhadrapāla quotation as a proof for engaging bodhicitta (འཇུག་སེམས་) rather than aspiring bodhicitta — and that the Great Commentary (འགྲེལ་ཆེན་) supports this reading. This shows how the same scripture can serve different positions in the interpretive tradition.
+4. **ལུང་འདྲེན་གྱི་གནད།** — མི་ཉག་ཀུན་བསོད་ཀྱིས་གསུངས་པར། འགྲེལ་པ་ཁ་ཅིག་གིས་འཕགས་པ་དཔལ་བྱིན་གྱིས་ཞུས་པའི་ལུང་འདི་སྨོན་པའི་སེམས་བསྐྱེད་ལས་འཇུག་སེམས་ཀྱི་ཕན་ཡོན་སྒྲུབ་བྱེད་དུ་སྦྱར་དགོས་པར་འདོད་ཅིང༌། འགྲེལ་ཆེན་དུའང་དེ་ལྟར་སྦྱར་བར་གསུངས་འདུག་སྟེ། འདིས་ལུང་གཅིག་གིས་གྲུབ་མཐའ་མི་འདྲ་བའི་བཤད་སྲོལ་མང་པོར་ཞུགས་ཐུབ་པའི་ཚུལ་མཚོན།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])
 
 ---
@@ -156,11 +156,11 @@ notes: |
 
 | གནད་ཚིག | འགྲེལ་བཤད་ | ཁུངས། |
 |---|---|---|
-| **འགྲོ་བ་ཀུན་གྱི་དགའ་བའི་རྒྱུ།** | cause of joy for all beings — bodhicitta as the source of both temporary happiness (མངོན་མཐོ་) and ultimate liberation (ཐར་བ་) for every being without exception | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]) |
-| **སེམས་ཅན་སྡུག་བསྔལ་རྩིར་གྱུར་པ།** | become the essence-medicine of beings' suffering — bodhicitta as the nectar-medicine (སྨན་རྩི་) that eliminates all suffering of saṃsāra and the lower realms | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) |
-| **རིན་ཆེན་སེམས།** | precious mind / mind-jewel — bodhicitta framed as the most precious among all mental events, comparable to the cintāmaṇi gem | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]) |
-| **ཇི་ལྟར་གཞལ་གྱིས་ལང།** | how could it be measured? — rhetorical question pointing to immeasurability; cannot be gauged by number, example, or limit | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]) |
-| **ནམ་མཁའི་མཐའ།** | limit of space — standard scriptural metaphor for immeasurability; bodhicitta's merit would overfill even boundless space | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
+| **འགྲོ་བ་ཀུན་གྱི་དགའ་བའི་རྒྱུ།** | བྱང་ཆུབ་ཀྱི་སེམས་ནི་སེམས་ཅན་ཐམས་ཅད་ཀྱི་གནས་སྐབས་མངོན་མཐོའི་བདེ་བ་དང་མཐར་ཐུག་ཐར་པའི་བདེ་བ་གཉིས་ཀའི་འབྱུང་ཁུངས་སུ་གྱུར་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]) |
+| **སེམས་ཅན་སྡུག་བསྔལ་རྩིར་གྱུར་པ།** | བྱང་ཆུབ་ཀྱི་སེམས་ནི་འཁོར་བ་དང་ངན་སོང་གི་སྡུག་བསྔལ་ཐམས་ཅད་སེལ་བའི་སྨན་རྩིར་གྱུར་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) |
+| **རིན་ཆེན་སེམས།** | སེམས་ཐམས་ཅད་ཀྱི་ནང་ནས་རིན་ཐང་ཆེ་ཤོས་སུ་གྱུར་པ་སྟེ་ཡིད་བཞིན་གྱི་ནོར་བུ་དང་མཚུངས་པའི་བྱང་ཆུབ་ཀྱི་སེམས། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]) |
+| **ཇི་ལྟར་གཞལ་གྱིས་ལང།** | ཇི་ལྟར་ཚད་ཀྱིས་གཞལ་ནུས་ཞེས་པའི་དྲི་བ་བརྗོད་དོན་ཅན་སྟེ། གྲངས་དང་དཔེ་དང་ཚད་གང་གིས་ཀྱང་གཞལ་མི་ནུས་པར་མཚོན་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]) |
+| **ནམ་མཁའི་མཐའ།** | ལུང་གི་སྒྲུབ་བྱེད་སྟེ་མཐའ་ཡས་པའི་ཚད་ཀྱི་དཔེ་རྒྱུན་ལྡན་ཡིན་ཞིང་། བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་བསོད་ནམས་ནི་ནམ་མཁའི་ཁམས་མཐའ་ཡས་པ་ལས་ཀྱང་ལྷག་པར་འགྱུར་བར་མཚོན་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
 
 ---
 

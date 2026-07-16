@@ -45,7 +45,7 @@ status: draft
 
 ### khenpo-zhengah — མཁན་པོ་གཞན་དགའ། (Interlinear Commentary)
 
-*[Content supplied in མཆན་འགྲེལ། section above.]*
+*[མཆན་འགྲེལ། སྐབས་སུ་གོང་དུ་བཀོད་ཟིན།]*
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-9]])
 
@@ -81,7 +81,7 @@ status: draft
 
 **མིང་འཕོ་བ།** བྱང་ཆུབ་ཀྱི་སེམས་**རང་རྒྱུད་ལ་སྐྱེས་མ་ཐག་ཏུ་སྐད་ཅིག་གིས།** འཁོར་བའི་**བཙོན་རར་** འདོད་ཆགས་སོགས་ཀྱིས་**བསྡམས་པའི་ཉམ་ཐག་པ་** ལུས་ལ་ཕོ་མོ་སོགས་ལ་མི་བལྟས་པར་**བདེ་བར་གཤེགས་པ་རྣམས་ཀྱི་སྲས་ཞེས་བྱ་བར་བརྗོད་པར་བྱའི།**
 
-**དོན་འཕོ་བ།** ས་ཐམས་ཅད་ཀྱི་**འཇིག་རྟེན་གྱི་ལྷ་དང་ལྷ་མིན་དང་མིར་བཅས་པས་ཕྱག་བྱ་བར་འགྱུར་** རོ། *[འོད་སྲུང་གིས་ཞུས་པ་དང་ཤར་རིའི་སྡེ་བའི་ལུང་→ ལུང།]*
+**དོན་འཕོ་བ།** ས་ཐམས་ཅད་ཀྱི་**འཇིག་རྟེན་གྱི་ལྷ་དང་ལྷ་མིན་དང་མིར་བཅས་པས་ཕྱག་བྱ་བར་འགྱུར་** རོ། *[འོད་སྲུང་གིས་ཞུས་པ་དང་ཤར་གྱི་རིའི་སྡེ་པའི་ལུང་→ ལུང་སྐབས་སུ་གཟིགས།]*
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-9]])
 
@@ -89,7 +89,7 @@ status: draft
 
 **ས་བཅད།** གཉིས་པ་ (མིང་དོན་གཉིས་ཀྱིས་ཁྱད་པར་གྱི་ཕན་ཡོན་) **ནི།**
 
-**མིང་གི་ཁྱད་པར།** བྱང་ཆུབ་ཀྱི་སེམས་**རང་རྒྱུད་ལ་སྐྱེས་པར་གྱུར་ན་** ལུས་ལ་ཕོ་མོ་ན་ཚོད་ལ་རྒན་གཞོན་རིགས་ལ་མཐོ་དམའ་**ལ་མི་བལྟས་སྐད་ཅིག་གིས།** **འཁོར་བའི་བཙོན་རར་** སྡུག་བསྔལ་གྱི་རྐྱེན་ཐམས་ཅད་ལ་**བསྡམས་པའི་ཉམ་ཐག་** ཏུ་གྱུར་པ་ **མིང་གནས་འགྱུར་ཞིང་བདེ་གཤེགས་ཀྱི་སྲས་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་བརྗོད་པར་བྱ་བར་འགྱུར་ཞིང།** **དོན་གནས་འགྱུར་ཞིང་འཇིག་རྟེན་གྱི་ལྷ་དང་མིར་བཅས་པས་ཕྱག་བྱར་འགྱུར་རོ།** *[verse → ལུང།]*
+**མིང་གི་ཁྱད་པར།** བྱང་ཆུབ་ཀྱི་སེམས་**རང་རྒྱུད་ལ་སྐྱེས་པར་གྱུར་ན་** ལུས་ལ་ཕོ་མོ་ན་ཚོད་ལ་རྒན་གཞོན་རིགས་ལ་མཐོ་དམའ་**ལ་མི་བལྟས་སྐད་ཅིག་གིས།** **འཁོར་བའི་བཙོན་རར་** སྡུག་བསྔལ་གྱི་རྐྱེན་ཐམས་ཅད་ལ་**བསྡམས་པའི་ཉམ་ཐག་** ཏུ་གྱུར་པ་ **མིང་གནས་འགྱུར་ཞིང་བདེ་གཤེགས་ཀྱི་སྲས་བྱང་ཆུབ་སེམས་དཔའ་ཞེས་བརྗོད་པར་བྱ་བར་འགྱུར་ཞིང།** **དོན་གནས་འགྱུར་ཞིང་འཇིག་རྟེན་གྱི་ལྷ་དང་མིར་བཅས་པས་ཕྱག་བྱར་འགྱུར་རོ།** *[ཚིགས་བཅད་→ ལུང་སྐབས་སུ་གཟིགས།]*
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-9]])
 
@@ -103,13 +103,11 @@ status: draft
 
 ## སྒྲུང་འགྲེལ། (Narrative illustration)
 
-**དཔལ་འབར་གྱི་ཚོང་པའི་གཏམ།** (The Merchant and the Bodhicitta Vow — from Kunkhyen Tsona)
+### BCAC13_KTB — སེམས་བསྐྱེད་ཅན་གྱི་ཚོང་པའི་གཏམ་རྒྱུད།
 
-A merchant who had taken the bodhicitta vow survived a shipwreck at sea; his fellow merchants perished. When he reached shore with only three gold coins, a thief confronted him. The merchant gave all three coins freely. The thief demanded more. The merchant said: "I have nothing more — but whatever you want to do with me, I am content." The thief pressed a stone on his heart, then used a blade to extract the merchant's eye. Through it all the merchant remained calm, without the slightest anger.
+སྔོན་གྱི་དུས་ན་རྒྱ་མཚོ་ལ་རིན་པོ་ཆེ་ལེན་དུ་སོང་བའི་ཚོང་པ་མང་པོའི་ནང་ནས་ཚོང་པ་གཞན་ཐམས་ཅད་ཤི་ནའང་སེམས་བསྐྱེད་ཅན་གཅིག་ཤིང་ལེབ་ལ་བརྟེན་ནས་མ་ཤི་བར་རྒྱ་མཚོའི་འགྲམ་དུ་ཐོན། ཁོ་ལ་གསེར་སྲང་གསུམ་ཡོད་པ་དང་མཚན་མོ་མགྲོན་ཁང་སྟོང་པ་ཞིག་ཏུ་ཉལ་བའི་སྐབས་རྐུན་པོ་ཞིག་གིས་ནོར་བླངས་པས། སེམས་བསྐྱེད་པའི་ཚུལ་གྱིས་གསེར་གསུམ་ཆ་ཚང་བྱིན། རྐུན་པོས་མི་ཚིམ་པར་སྟེར་ཚོད་མཐོང་ནས་ཡང་བསླངས་པས། ཚོང་པས་"ང་ལ་ཅི་ཡང་མེད་"ཅེས་ལན་བཏབ། རྐུན་པོས་"འོ་ན་ཁྱེད་གསོད་"ཟེར་བར་ཡང་"བསད་ཀྱང་ང་ལ་ནོར་མེད་"ཅེས་ཞུས། སྙིང་ཁར་ཕ་བོང་གིས་མནན་ཏེ་མིག་བཏོན་ཡང་ཁོང་ཁྲོ་ཅུང་ཟད་ཀྱང་མ་སྐྱེས་པར་"ནོར་མེད་ཀྱང་མིག་འདོན་ན་མི་དགའ་བ་མེད་"ཅེས་གསུངས་པས་རྐུན་པོ་ངོ་མཚར་སྐྱེས་ཏེ་"ཁྱོད་ལ་ཡོན་ཏན་ཅི་ཡོད་"ཅེས་དྲིས་པར། "ང་ལ་ཡོན་ཏན་གཞན་མེད་ཀྱི་བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད་པ་ཙམ་ཡིན་"ཞེས་ལན་བཏབ་པས་རྐུན་པོ་ཤིན་ཏུ་དད་པ་སྐྱེས་ནས་གསེར་སླར་བྱིན་ཞིང་སློབ་མར་གྱུར་ཏེ་སེམས་བསྐྱེད་ཞུས་ནས་ལུས་ངག་ཡིད་གསུམ་གྱིས་བསྙེན་བཀུར་བྱས་སོ། །
 
-Astonished, the thief asked: "You have such virtue — what is it?" The merchant answered: "I have no other virtue. I have generated bodhicitta." The thief was moved to his core. He returned the gold, prostrated, became the merchant's disciple, and requested to receive the bodhicitta vow himself.
-
-This story illustrates verse 1-9 directly: the moment bodhicitta arose in the merchant's continuum (*rang rgyud la skyes pa*), it transformed a bound and wretched prisoner of saṃsāra into a being worthy of veneration by gods and humans — demonstrated in the thief's spontaneous prostration.
+འདིས་བྱང་ཆུབ་ཀྱི་སེམས་རང་རྒྱུད་ལ་སྐྱེས་མ་ཐག་ཏུ་འཁོར་བའི་བཙོན་རར་བསྡམས་པའི་ཉམ་ཐག་པ་ཞིག་ཀྱང་སྐད་ཅིག་གིས་ཕྱག་བྱ་བའི་གནས་སུ་འགྱུར་བ་མངོན་སུམ་དུ་སྟོན།
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC13_KTB_bo.md#^1-9]])
 
@@ -117,31 +115,28 @@ This story illustrates verse 1-9 directly: the moment bodhicitta arose in the me
 
 ## དཔེ། (Metaphors)
 
-**བཙོན་པའི་དཔེ།** (Prison simile) — Saṃsāra is compared to a prison (*btsong ra*) in which beings are bound by desire, hatred, and ignorance, wretched and powerless (*nyam thag pa*). The moment bodhicitta arises, the name and status of the prisoner transforms instantly: the bound convict becomes a child of the Sugatas, a bodhisattva. ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-9]])
+- **འཁོར་བའི་བཙོན་ར།** → སྔར་འདོད་ཆགས་སོགས་ཀྱིས་བསྡམས་པའི་ཉམ་ཐག་པའི་གནས་ལ་དཔེར་བཀོད་དེ། བྱང་ཆུབ་ཀྱི་སེམས་སྐྱེས་མ་ཐག་ཏུ་བཙོན་པ་དེ་ཉིད་སྐད་ཅིག་གིས་མིང་གནས་འགྱུར་ཏེ་བདེ་གཤེགས་སྲས་སུ་གྱུར་པ་མཚོན།
+  ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-9]])
 
-**གོས་གཟུགས་འཕོ་བའི་དཔེ།** (Robe of transformation) — Kunpal uses the image of a crown (*cod pan*) being placed on the head: upon the arising of bodhicitta, the name-crown of Bodhisattva — "Son of the Sugatas" — is placed on the being's head regardless of gender, age, or birth-status, instantly. ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-9]])
+- **མིང་གི་ཅོད་པཎ་དཔྱང་བ།** → ཀུན་བཟང་དཔལ་ལྡན་གྱིས་བྱང་ཆུབ་ཀྱི་སེམས་སྐྱེས་མ་ཐག་ཏུ་ལུས་ལ་ཕོ་མོ། ན་ཚོད་ལ་རྒན་གཞོན། རིགས་ལ་བཟང་ངན་ལ་མ་ལྟོས་པར་"བདེ་བར་གཤེགས་པའི་སྲས་" ཞེས་མིང་གི་ཅོད་པཎ་དཔྱང་བ་ལྟར་བཀོད་དེ་མིང་གནས་འགྱུར་བའི་ཚུལ་མཚོན།
+  ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-9]])
 
 ---
 
 ## ལུང། (Scriptural quotations)
 
-### འོད་སྲུང་གིས་ཞུས་པ་ལས། (Kāśyapaparivarta — two similes cited by Minyak)
-
-> གལ་ཏེ་ཕྲུ་གུ་བུ་མོ་ཞིག་གི་སྲིང་མོ་གང་ཞིག་བུ་མོ་ཡིན་ཞིང་ལྗིད་ཆེ་བ་ཞིག་འདོད་ཆགས་ཀྱི་དབང་གིས་ལས་ཀྱི་རྐྱེན་གྱིས་བྲན་མོར་གྱུར་ཡང་། དེ་ལ་རྒྱལ་ཆེན་ཞིག་གིས་ཕྱག་འཚལ་བར་འགྱུར་རོ།།
-
-> གལ་ཏེ་ཁྱིམ་བདག་གི་བུ་ཞིག་བུ་མ་ཡིན་ཞིང་རིགས་ཀྱི་བུར་གྱུར་ཏེ་བདག་གི་ཡིན་ཞིང་ལྗིད་ཆེ་བར་གྱུར་ཡང་། དེར་གྲོང་ཁྱེར་དང་རྒྱལ་ཁམས་ཀྱི་མི་ཐམས་ཅད་ཀྱིས་ཕྱག་བྱ་བར་འགྱུར།།
+> གལ་ཏེ་ཕྲུ་གུ་བུ་མོ་ཞིག་གི་སྲིང་མོ་གང་ཞིག་བུ་མོ་ཡིན་ཞིང་ལྗིད་ཆེ་བ་ཞིག་འདོད་ཆགས་ཀྱི་དབང་གིས་ལས་ཀྱི་རྐྱེན་གྱིས་བྲན་མོར་གྱུར་ཡང་། དེ་ལ་རྒྱལ་ཆེན་ཞིག་གིས་ཕྱག་འཚལ་བར་འགྱུར་རོ།། གལ་ཏེ་ཁྱིམ་བདག་གི་བུ་ཞིག་བུ་མ་ཡིན་ཞིང་རིགས་ཀྱི་བུར་གྱུར་ཏེ་བདག་གི་ཡིན་ཞིང་ལྗིད་ཆེ་བར་གྱུར་ཡང་། དེར་གྲོང་ཁྱེར་དང་རྒྱལ་ཁམས་ཀྱི་མི་ཐམས་ཅད་ཀྱིས་ཕྱག་བྱ་བར་འགྱུར།།
+> — འོད་སྲུང་གིས་ཞུས་པ་ལས། (མི་ཉག་ཀུན་བསོད་ཀྱིས་དྲངས་པའི་དཔེ་གཉིས་ — མིང་དོན་གནས་འགྱུར་བའི་དཔེར་བཀོད་པ།)
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-9]])
-
-### ཤར་རིའི་སྡེ་བའི་ལུང་ (Pūrvaśaila citation — cited by Minyak)
 
 > བྱང་ཆུབ་སེམས་དང་པོ་སྐྱེད་པ་ལའང་ཕྱག་འཚལ་ལོ། །བྱང་ཆུབ་སེམས་དཔའ་ཐ་ན་དུད་འགྲོར་གྱུར་པ་ལ་ཡང་ཕྱག་འཚལ་ལོ།
+> — ཤར་གྱི་རིའི་སྡེ་པའི་ལུང་། (མི་ཉག་ཀུན་བསོད་ཀྱིས་དྲངས་པ།)
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-9]])
 
-### གང་ལ་སེམས་ཀྱི་དམ་པ་རིན་ཆེན་དེ། (verse cited by Khenpo Kunga)
-
 > གང་ལ་སེམས་ཀྱི་དམ་པ་རིན་ཆེན་དེ། །སྐྱེས་པ་དེ་ཡི་སྐུ་ལ་ཕྱག་འཚལ་ལོ།།
+> — མཁན་པོ་ཀུན་དགའ་དབང་ཕྱུག་གིས་དྲངས་པའི་ཚིགས་བཅད།
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-9]])
 
@@ -149,15 +144,20 @@ This story illustrates verse 1-9 directly: the moment bodhicitta arose in the me
 
 ## གཙོ་གནད། (Main teaching points)
 
-1. **སྐད་ཅིག་གིས་མིང་གནས་འགྱུར།** — The transformation is instantaneous (*skad cig gis*). The moment (*skad cig*) bodhicitta arises in one's continuum, the name-status of the being changes immediately to "Son of the Sugatas" (Bodhisattva), regardless of gender, age, birth-lineage, or caste. No preparatory period is needed; the name-transformation is simultaneous with the arising. ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-9]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-9]])
+1. **སྐད་ཅིག་གིས་མིང་གནས་འགྱུར།** — རང་རྒྱུད་ལ་བྱང་ཆུབ་ཀྱི་སེམས་སྐྱེས་མ་ཐག་ཏུ་སྐད་ཅིག་གཅིག་གིས་མིང་གནས་འགྱུར་ཏེ་"བདེ་བར་གཤེགས་པའི་སྲས་" ཞེས་བརྗོད་པར་འགྱུར་ཞིང་། ལུས་ལ་ཕོ་མོ། ན་ཚོད་ལ་རྒན་གཞོན། རིགས་ལ་བཟང་ངན་སོགས་གང་ལའང་མི་ལྟོས་པར་སྔོན་འགྲོའི་དུས་ཡུན་ཅི་ཡང་མི་དགོས།
+   ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-9]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-9]])
 
-2. **མིང་ཁྱད་པར།** — Name-distinction: the new title "Bodhisattva, Son of the Sugatas" (*bde gshegs rnams kyi sras*) is not merely nominal but signals a fundamental ontological shift in the being's relational standing within the Buddha's lineage. ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-9]])
+2. **མིང་གནས་འགྱུར་དང་དོན་གནས་འགྱུར་གཉིས།** — རྒྱལ་ཚབ་དར་མ་རིན་ཆེན་གྱིས་མིང་ཁྱད་པར་ཅན་"བདེ་གཤེགས་སྲས་" ཞེས་བརྗོད་པ་དང་། དོན་ཁྱད་པར་ཅན་འཇིག་རྟེན་གྱི་ལྷ་དང་མིར་བཅས་པས་ཕྱག་བྱ་བར་འགྱུར་བ་གཉིས་སུ་ཕྱེ་སྟེ་བཤད། བྱང་ཆུབ་སེམས་དཔའི་ས་ཐོབ་མ་ཐོབ་ལ་མི་ལྟོས་པར་སེམས་བསྐྱེད་མ་ཐག་ཏུ་འགྲུབ་པར་གསུངས།
+   ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-9]])
 
-3. **དོན་ཁྱད་པར།** — Reality-distinction: simultaneously with the name-change, the being's actual status changes such that gods, demi-gods, and humans (*'jig rten gyi lha dang lha min dang mi*) all become worthy to prostrate before that being. Gyaltsab clarifies this applies even before attaining any bodhisattva level (*sa*) — the arising of bodhicitta itself is sufficient. ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-9]])
+3. **འཁོར་བའི་བཙོན་རར་བསྡམས་པའི་ཉམ་ཐག་པ།** — སྔོན་བྱང་ཆུབ་ཀྱི་སེམས་མ་སྐྱེས་གོང་དུ་ལས་དང་ཉོན་མོངས་པས་བཙོན་རར་བཅིངས་པ་ལྟར་བསྡམས་པའི་ཉམ་ཐག་པ་ཡིན་པ་ལས། སེམས་བསྐྱེད་མ་ཐག་ཏུ་ཕྱག་བྱ་བའི་གནས་སུ་འགྱུར་བའི་འགྱུར་ལྡོག་ཆེན་པོ་མཚོན།
+   ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-9]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-9]])
 
-4. **འཁོར་བའི་བཙོན་རར་བསྡམས།** — The contrast of the prison simile: prior to bodhicitta's arising the being was a wretched prisoner (*nyam thag pa*), bound by desire and afflictions in the prison of saṃsāra. The transformation from this lowly state to veneration-worthy is what makes the arising of bodhicitta so striking. ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-9]])
+4. **འཇིག་རྟེན་གྱི་ལྷ་དང་མིར་བཅས་པས་ཕྱག་བྱ་བ།** — མིང་གནས་འགྱུར་བ་དང་དུས་མཚུངས་སུ་དོན་གྱི་ཆ་ནས་ཀྱང་འཇིག་རྟེན་གྱི་ལྷ་དང་ལྷ་མིན་དང་མི་ཐམས་ཅད་ཀྱིས་ཕྱག་བྱ་བའི་གནས་སུ་འགྱུར་བར་འགྲེལ་བ་མཐའ་དག་གིས་གྲུབ།
+   ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-9]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-9]])
 
-5. **བྱང་ཆུབ་ཀྱི་སེམས་སངས་རྒྱས་རྣམས་ཀྱི་བླ་མ།** — Bodhicitta is the teacher of all Buddhas. Kunpal cites Śāntideva's own statement: "because bodhicitta is the teacher (*bla ma*) of all the Buddhas." This radical claim underlies why even gods prostrate to a being with bodhicitta — they are prostrating to what produced Buddhahood itself. ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-9]])
+5. **བྱང་ཆུབ་ཀྱི་སེམས་སངས་རྒྱས་རྣམས་ཀྱི་བླ་མ།** — ཀུན་བཟང་དཔལ་ལྡན་གྱིས་བྱང་ཆུབ་ཀྱི་སེམས་ནི་སངས་རྒྱས་རྣམས་ཀྱི་བླ་མ་ཡིན་པའི་ཕྱིར་ལྷ་རྣམས་ཀྱིས་ཀྱང་ཕྱག་བྱ་བར་འོས་པར་བཤད། མཁན་པོ་ཀུན་དགའ་དབང་ཕྱུག་གིས་"གང་ལ་སེམས་ཀྱི་དམ་པ་རིན་ཆེན་དེ། སྐྱེས་པ་དེ་ཡི་སྐུ་ལ་ཕྱག་འཚལ་ལོ།" ཞེས་པའི་ཚིགས་བཅད་དྲངས།
+   ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-9]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-9]])
 
 ---
 
@@ -165,24 +165,24 @@ This story illustrates verse 1-9 directly: the moment bodhicitta arose in the me
 
 | གནད་ཚིག | འགྲེལ་བཤད། (Commentary definition) | ཁུངས། (Source) |
 |---|---|---|
-| **སྐད་ཅིག་གིས།** | Instantaneously — in a single moment; the name- and reality-transformation happens the instant bodhicitta arises, not gradually | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-9]]) |
-| **མིང་གནས་འགྱུར།** | Name-transformation (*ming gnas 'gyur*) — the formal title "Son of the Sugatas / Bodhisattva" is conferred upon the being as a new identity | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-9]]) |
-| **དོན་གནས་འགྱུར།** | Reality-transformation (*don gnas 'gyur*) — an actual change in ontological status such that gods and humans are appropriate in prostrating | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-9]]) |
-| **བདེ་བར་གཤེགས་པའི་སྲས།** | Son of the Sugatas — the new title of a being who has generated bodhicitta; marks entry into the Buddha's lineage | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-9]]) |
-| **འཁོར་བའི་བཙོན་ར།** | Prison of saṃsāra — the condition from which bodhicitta instantly releases: bound by afflictions, wretched, and powerless | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-9]]) |
-| **ཉམ་ཐག་པ།** | Wretched / miserable — the prior condition of the being in saṃsāra before bodhicitta arises; the contrast makes the transformation vivid | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-9]]) |
-| **སངས་རྒྱས་རྣམས་ཀྱི་བླ་མ།** | Teacher of all Buddhas — bodhicitta's ultimate status; what makes it the ground for universal veneration | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-9]]) |
+| **སྐད་ཅིག་གིས།** | སྐད་ཅིག་གཅིག་གིས་ཏེ་བྱང་ཆུབ་ཀྱི་སེམས་སྐྱེས་མ་ཐག་ཏུ་མིང་དང་དོན་གནས་འགྱུར་བ་དུས་མཉམ་དུ་འབྱུང་བར་མཚོན། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-9]]) |
+| **མིང་གནས་འགྱུར།** | བདེ་བར་གཤེགས་པའི་སྲས་ཞེས་མིང་གི་ཁྱད་པར་ཐོབ་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-9]]) |
+| **དོན་གནས་འགྱུར།** | འཇིག་རྟེན་གྱི་ལྷ་དང་མིར་བཅས་པས་ཕྱག་བྱ་བའི་གནས་སུ་འགྱུར་བའི་དངོས་གནས་ཀྱི་འགྱུར་བ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-9]]) |
+| **བདེ་བར་གཤེགས་པའི་སྲས།** | སེམས་བསྐྱེད་མ་ཐག་ཐོབ་པའི་མིང་གསར་པ་སྟེ་སངས་རྒྱས་ཀྱི་རིགས་སུ་འཛུལ་བའི་རྟགས། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-9]]) |
+| **འཁོར་བའི་བཙོན་ར།** | ལས་དང་ཉོན་མོངས་པས་བཅིངས་པའི་ཉམ་ཐག་པའི་གནས་སྟེ་སེམས་བསྐྱེད་མ་ཐག་ཏུ་སྐད་ཅིག་གིས་གྲོལ་བ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-9]]) |
+| **ཉམ་ཐག་པ།** | སེམས་བསྐྱེད་མ་ཐོབ་གོང་གི་གནས་སྐབས་སྡུག་བསྔལ་གྱིས་ཉེན་པའི་ངང་ཚུལ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-9]]) |
+| **སངས་རྒྱས་རྣམས་ཀྱི་བླ་མ།** | བྱང་ཆུབ་ཀྱི་སེམས་ཉིད་སངས་རྒྱས་ཐམས་ཅད་སྐྱེད་བྱེད་ཡིན་པས་ཕྱག་བྱ་བའི་གཞི་མཐར་ཐུག་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-9]]) |
 
 ---
 
 ## བསྡུས་དོན། (Verse synthesis — AI Overview style)
 
-Verse 1-9 announces the second major benefit of bodhicitta: an instantaneous transformation of the being's name and reality-status. The moment (*skad cig*) this precious bodhicitta arises in one's continuum — regardless of gender, age, or birth — two simultaneous changes occur: (1) a name-transformation (*ming gnas 'gyur*) in which the being is called "Son of the Sugatas, Bodhisattva"; and (2) a reality-transformation (*don gnas 'gyur*) in which gods, demi-gods, and humans become appropriate in prostrating before that being.
+**ངོ་སྤྲོད་མདོར་བསྡུས།** ཤོ་ལོ་ཀ་འདིས་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་ཕན་ཡོན་གཉིས་པ་སྟེ་མིང་དོན་གནས་འགྱུར་བའི་ཕན་ཡོན་བསྟན། རང་རྒྱུད་ལ་རིན་ཆེན་བྱང་ཆུབ་ཀྱི་སེམས་སྐྱེས་མ་ཐག་ཏུ་སྐད་ཅིག་གཅིག་གིས་ལུས་ལ་ཕོ་མོ། ན་ཚོད་ལ་རྒན་གཞོན། རིགས་ལ་བཟང་ངན་གང་ལའང་མི་ལྟོས་པར་མིང་གནས་འགྱུར་ཏེ་"བདེ་བར་གཤེགས་པའི་སྲས་" ཞེས་བརྗོད་པར་འགྱུར་ཞིང་། དོན་གནས་འགྱུར་ཏེ་འཇིག་རྟེན་གྱི་ལྷ་དང་ལྷ་མིན་དང་མིར་བཅས་པས་ཕྱག་བྱ་བའི་གནས་སུ་འགྱུར་བར་འགྲེལ་བ་མཐའ་དག་གིས་གཞི་མཐུན་དུ་བཤད།
+([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-9]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-9]])
 
-All commentators emphasize the instantaneous nature (*skad cig gis*) and the unconditional scope: Kunpal specifies "regardless of gender, age, or lineage." Gyaltsab adds: "regardless of having attained any bodhisattva level" — even before the first *bhūmi*, the arising of bodhicitta is sufficient. Ngulchu-thogmed likewise notes the transformation is independent of whether or not any beings actually know to venerate that person (*gdal bya dang 'brel pa'am dgu'i bal la mi bltas*). ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-9]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-9]])
+**གནད་དོན་གཙོ་བོ།**
 
-The prison simile (*btsong ra*) grounds the contrast: previously the being was a wretched prisoner (*nyam thag pa*) bound by afflictions in saṃsāra — the lowest possible state. The transformation from prisoner to object-of-veneration-by-gods is total, and it happens in a moment. ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-9]])
-
-Kunpal supplies the underlying rationale: "bodhicitta is the teacher (*bla ma*) of all the Buddhas." This is why even gods and demi-gods prostrate to a being with bodhicitta — they are prostrating to what itself produced every Buddha. Khenpo Kunga cites the verse: "I prostrate to the body of that one in whom the precious jewel-mind has arisen." ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-9]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-9]])
-
-The Kāśyapaparivarta's similes (cited by Minyak) illustrate the same principle: a slave-girl who becomes queen by royal decree, or a merchant's son who inherits a kingdom, is venerated by all regardless of prior status — so too with the bodhisattva whose identity shifts the moment bodhicitta arises. The Pūrvaśaila school's statement confirms: "I prostrate even to a bodhisattva who has taken birth as an animal." ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-9]])
+- སྐད་ཅིག་གིས་མིང་གནས་འགྱུར་བའི་ཚུལ་ལ་འགྲེལ་བ་ཀུན་མཐུན་ཞིང་། རྒྱལ་ཚབ་ཀྱིས་བྱང་ཆུབ་སེམས་དཔའི་ས་ཐོབ་མ་ཐོབ་ལ་མི་ལྟོས་པར་འགྲུབ་པར་གསལ་བཤད་མཛད། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-9]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-9]])
+- འཁོར་བའི་བཙོན་རར་བསྡམས་པའི་ཉམ་ཐག་པ་ཞིག་ཀྱང་སེམས་བསྐྱེད་མ་ཐག་ཏུ་ཕྱག་བྱ་བའི་གནས་སུ་འགྱུར་བའི་འགྱུར་ལྡོག་ཆེན་པོ་སེམས་བསྐྱེད་ཅན་གྱི་ཚོང་པའི་གཏམ་རྒྱུད་ཀྱིས་མངོན་སུམ་དུ་མཚོན། ([[1-SOURCES/Commentaries/Transcluded/BCAC13_KTB_bo.md#^1-9]])
+- བྱང་ཆུབ་ཀྱི་སེམས་ནི་སངས་རྒྱས་རྣམས་ཀྱི་བླ་མ་ཡིན་པའི་ཕྱིར་ལྷ་རྣམས་ཀྱིས་ཀྱང་ཕྱག་བྱ་བར་འོས་པར་ཀུན་བཟང་དཔལ་ལྡན་གྱིས་གསུངས། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-9]])
+- འོད་སྲུང་གིས་ཞུས་པའི་མདོ་དང་ཤར་གྱི་རིའི་སྡེ་པའི་ལུང་གིས་ཀྱང་མིང་དོན་གནས་འགྱུར་བའི་དཔེ་མཚུངས་པ་སྟོན་ཏེ། བྲན་མོའི་བུ་རྒྱལ་སྲས་སུ་གྱུར་བ་དང་། བྱང་ཆུབ་སེམས་དཔའ་དུད་འགྲོར་གྱུར་ཀྱང་ཕྱག་འོས་སུ་གྱུར་བ་བཞིན་ནོ། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-9]])

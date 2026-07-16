@@ -62,7 +62,34 @@ In the first three verses, Śāntideva bows with respect to the Buddhas, the bod
 
 ---
 
-## 2. Verse Rails (from 2-RAILS/Verses — English translation)
+## 2. Today's Verses
+
+The verses for today, in the Plain English translation. Source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md` (blocks `^1-1`–`^1-3`).
+
+**Verse 1-1**
+
+> I bow with deep respect to the buddhas, to the dharma they embody,
+> and to their bodhisattva heirs, and to all who deserve reverence.
+> Following the scriptures,
+> I will now explain briefly how to enter the bodhisattva's way of life.
+
+**Verse 1-2**
+
+> Nothing I say here is new,
+> and I have no special gift for fine writing.
+> So I have not written this with others in mind —
+> I have written it simply to cultivate my own mind.
+
+**Verse 1-3**
+
+> Still, writing this may strengthen my faith in virtue
+> and help it grow.
+> And if someone else whose fortune matches mine
+> happens to read it, perhaps it will be worthwhile for them too.
+
+---
+
+## 3. Verse Rails (from 2-RAILS/Verses — English translation)
 
 Each verse below gives the full rail package from `2-RAILS/Verses/<verse-id>-summary.md`, rendered into natural English: root verse, interlinear gloss, each commentator's explanation, stories, metaphors, scriptural quotations, main teaching points, key terms, and the verse synthesis. The Tibetan/Sanskrit original remains the source of record in the companion file `1.md`; here the material is translated for readers, with structure, citation links, and source references preserved. Where a term-to-term mapping matters (Key Terms and metaphor labels), the original Tibetan is kept in parentheses.
 
@@ -72,13 +99,12 @@ Each verse below gives the full rail package from `2-RAILS/Verses/<verse-id>-sum
 
 #### Root Verse
 
-*English (working translation, from the plan track):*
+*Plain English translation (source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md#^1-1`):*
 
-> I pay respectful homage to the Blissful Ones who possess the Truth Body, and to their heirs. I also bow to everyone who is worthy of honor. I shall now briefly describe how to enter the commitments of the Buddha's heirs, in accordance with the scriptures.
-
-*Sanskrit source:* ![[1-SOURCES/Text/BCAV08_SH_sk.md#^1-1]]
-
-*Tibetan source (Loden Sherab):* ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-1]]
+> I bow with deep respect to the buddhas, to the dharma they embody,
+> and to their bodhisattva heirs, and to all who deserve reverence.
+> Following the scriptures,
+> I will now explain briefly how to enter the bodhisattva's way of life.
 
 ---
 
@@ -281,13 +307,12 @@ Then the daughter said: "Just as a lion gives birth to a lion cub, but no jackal
 
 #### Root Verse
 
-*English (working translation, from the plan track):*
+*Plain English translation (source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md#^1-2`):*
 
-> I have nothing new to say here, and I do not possess any skill in writing poetry. Therefore, I have no expectation of benefiting others. I wrote this solely to train and cultivate my own mind.
-
-*Sanskrit source:* ![[1-SOURCES/Text/BCAV08_SH_sk.md#^1-2]]
-
-*Tibetan source (Loden Sherab):* ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-2]]
+> Nothing I say here is new,
+> and I have no special gift for fine writing.
+> So I have not written this with others in mind —
+> I have written it simply to cultivate my own mind.
 
 ---
 
@@ -440,13 +465,12 @@ This stanza is speech that humbles pride. Although the master shows the manner o
 
 #### Root Verse
 
-*English (working translation, from the plan track):*
+*Plain English translation (source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md#^1-3`):*
 
-> By writing this, the strength of my faith to cultivate virtue will temporarily increase. If anyone of equal fortune should see these words, perhaps they will also find them useful.
-
-*Sanskrit source:* ![[1-SOURCES/Text/BCAV08_SH_sk.md#^1-3]]
-
-*Tibetan source (Loden Sherab):* ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-3]]
+> Still, writing this may strengthen my faith in virtue
+> and help it grow.
+> And if someone else whose fortune matches mine
+> happens to read it, perhaps it will be worthwhile for them too.
 
 ---
 

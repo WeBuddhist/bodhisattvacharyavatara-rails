@@ -108,6 +108,6 @@ Master Shantideva humbles himself by saying: "I am extremely poor and lack previ
 
 ## 3) Today's Practice
 
-**Actual Practice:** Today, even if I lack material wealth, I will mentally offer all beautiful things to the Three Jewels with pure devotion to gather merit.
+**Challenge:** Today, even if I lack material wealth, I will mentally offer all beautiful things to the Three Jewels with pure devotion to gather merit.
 
 **Explanation:** _(Generosity Practice)_ Many people feel helpless or discouraged, thinking they cannot practice generosity or make offerings because they do not have money or expensive goods. But today, following the wisdom of the _Bodhicaryāvatāra_, I will not let a lack of material wealth stop me. Just like the little boy who offered a handful of sand with a pure heart, whenever I see something beautiful—a lovely view, pleasant nature, or wonderful objects—I will mentally present them to the Buddhas and Bodhisattvas with sincere devotion. This simple practice shows that we don't need money to build a rich spiritual life; a pure, generous mind is enough to gather immense positive energy.

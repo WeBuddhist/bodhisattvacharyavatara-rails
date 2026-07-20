@@ -115,6 +115,6 @@ Similarly, we can mentally gather all the lakes and ponds adorned with beautiful
 
 ## 3) Today's Practice
 
-**Actual Practice:** Today, whenever I see beautiful forests, lakes, or hear sweet birdsong, I will mentally offer them to the Three Jewels without any stinginess.
+**Challenge:** Today, whenever I see beautiful forests, lakes, or hear sweet birdsong, I will mentally offer them to the Three Jewels without any stinginess.
 
 **Explanation:** _(Generosity Practice)_ Usually, when we experience natural beauty—like a scenic forest, a peaceful lake, or the sweet singing of birds—we naturally feel attached to it and want to enjoy the pleasure all by ourselves. But today, following the teachings of the _Bodhicaryāvatāra_, I will let go of my attachment and selfishness toward the unowned beauty of the world. Instead, I will use my imagination to joyfully offer all these beautiful sights and sounds to the Three Jewels. This simple practice cleanses the mind of selfishness and stinginess, building the vast positive energy needed to awaken a truly compassionate heart (Bodhicitta).

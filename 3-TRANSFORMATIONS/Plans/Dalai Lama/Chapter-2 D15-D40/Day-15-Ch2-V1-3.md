@@ -125,6 +125,6 @@ Ordinary people like us might not have rich material gifts to give either. Howev
 
 ## 3) Today's Practice
 
-**Actual Practice:** Today, whenever I see beautiful flowers, clean water, or lovely nature, I will mentally offer them to the Three Jewels without any stinginess or attachment.
+**Challenge:** Today, whenever I see beautiful flowers, clean water, or lovely nature, I will mentally offer them to the Three Jewels without any stinginess or attachment.
 
 **Explanation:**_(Generosity Practice)_ Usually, when we see a beautiful flower, a lovely landscape, or something nice, we naturally want to own it or keep it for ourselves. But today, just like the young man who offered the lotus flower, I will let go of my greed and attachment when I see beautiful things in nature. Instead, I will use my imagination to offer them joyfully to the Three Jewels. Through this simple practice of mental generosity, I will clear away selfishness and build the positive merit needed to grow a truly compassionate heart.

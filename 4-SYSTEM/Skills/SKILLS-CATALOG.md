@@ -236,6 +236,12 @@ These skills populate `2-RAILS/` with the structured context that translation an
 **Outputs:** Appended per-verse tables (ERROR / MISMATCH / softening rows with Tibetan + gloss + fix) in `<translation-dir>/commentary-fact-check-report-<commentary-id>-<translation-name>.md`, one report per commentary×translation pair. Bundles `scripts/extract_commentary.py` (splits the commentary on its transclusion markers into per-verse passages) and `scripts/extract_translation.py` (parses a translation file into per-verse text).
 → [`commentary-fact-check/SKILL.md`](commentary-fact-check/SKILL.md)
 
+### `commentary-fact-check-apply-fixes` **[exists]**
+**Purpose:** Apply the ⚠ discrepancies already logged in a grade's `commentary-fact-check-report-<grade>.md` to the graded English translation (`bca-en-<grade>.md`), one grade and one chapter/range at a time, then re-run `commentary-fact-check` on that range to confirm the fix landed. Companion editing pass to `commentary-fact-check` (which only reports, never edits). Applies **only mechanical corrections** with an unambiguous replacement (wrong named entity, wrong number, dropped content, inconsistent locked rendering); any row requiring interpretive judgment is left untouched and surfaced to the human.
+**Inputs:** A `commentary-fact-check-report-<grade>.md`; the translation file `bca-en-<grade>.md`; a bounded scope (chapter or range).
+**Outputs:** Edits applied in place to `bca-en-<grade>.md`; a re-verification run over the same range; a list of judgment-call rows deferred to the human.
+→ [`commentary-fact-check-apply-fixes/SKILL.md`](commentary-fact-check-apply-fixes/SKILL.md)
+
 ---
 
 ## Utility skills
@@ -401,3 +407,45 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 **Inputs:** Source text (English or Tibetan), target audience grade, optional verse IDs, optional output path.
 **Outputs:** Vietnamese translation at the target grade with a locked-term table; optionally saved to `3-TRANSFORMATIONS/Translations/vi-<grade>/`.
 → [`vietnamese-translation/bo-vi-translate-skill.md`](vietnamese-translation/bo-vi-translate-skill.md)
+
+### `365-day-practice-plan-generator` (`bca-practice-plan`) **[exists]**
+**Purpose:** Generate a complete single-day BCA (སྤྱོད་འཇུག) practice-plan session document in the traditional **6-section** format, in **Tibetan**. The Tibetan-stream counterpart of `en-365-day-practice-plan-generator`: fixed refuge/bodhicitta opening, day-specific motivation, the assigned verses, commentary and application, fixed dedication/aspiration closing.
+**Inputs:** Day number (1–365); chapter + verse range (or looked up from the `bo` schedule); commentary language (default Tibetan).
+**Outputs:** A Tibetan-language day file for the Bodhisattva Challenge `bo` stream, built from the root text and matching `2-RAILS/Verses/<verse-id>-summary.md` files.
+→ [`365-day-practice-plan-generator/SKILL.md`](365-day-practice-plan-generator/SKILL.md)
+
+### `Daily-Challenge-Creator` (`daily-challenge-creator`) **[exists]**
+**Purpose:** Generate one concrete trilingual daily practice (ལག་ལེན) and explanation (འགྲེལ་བཤད) per BCA verse, reading all four lines as a whole to identify the central teaching, in Tibetan → English → Hindi.
+**Inputs:** One or more སྤྱོད་འཇུག verses.
+**Outputs:** For each verse, a ལག་ལེན practice and an འགྲེལ་བཤད explanation in all three languages, grouped beneath the verse.
+→ [`Daily-Challenge-Creator/SKILL.md`](Daily-Challenge-Creator/SKILL.md)
+
+### `dharma-verse-practice` **[exists]** (packaged `.skill`)
+**Purpose:** Turn Bodhicaryāvatāra verses into concrete, actionable trilingual daily practices (ལག་ལེན) and explanations (འགྲེལ་བཤད) in Tibetan, English, and Hindi. Packaged, distributable variant of `Daily-Challenge-Creator`, shipped as a zipped `.skill` archive.
+**Inputs:** One or more BCA verses (Tibetan or otherwise).
+**Outputs:** Per-verse practice + explanation in three languages.
+→ `dharma-verse-practice.skill` (zip archive containing `dharma-verse-practice/SKILL.md`)
+
+### `english-plan-evaluator` **[exists]**
+**Purpose:** QA companion to `english-plan-generator` — grade one already-written English Bodhisattva Challenge day file against every generator rule (grounding/fidelity, structure, voice, notification format). Reports pass/fail per criterion with the offending text quoted and a suggested fix; does not rewrite the day.
+**Inputs:** A day file under `…/en/Days/`; the source rails it was built from (verse rails, liturgy asset, verse text, schedule).
+**Outputs:** A scorecard with PASS/FAIL/N-A and severity per criterion; a day with any critical issue cannot be marked complete.
+→ [`english-plan-evaluator/SKILL.md`](english-plan-evaluator/SKILL.md)
+
+### `english-plan-from-tibetan` **[exists]**
+**Purpose:** Generate a single-day English Bodhisattva Challenge session for verses that have **no** English source commentary (Chapter 2 onward), working from a user-provided English translation of the Tibetan day plan plus vault sources that do exist. Same six-section output and voice rules as `english-plan-generator`; produces options (a/b/c).
+**Inputs:** The English translation of the bo day plan (pasted/attached); day number, chapter, verse range; the published Choephel English translation; the Tibetan root; the three chapter-covering Tibetan commentaries; the bo plan file; nearby day files.
+**Outputs:** An English day file (options) under the `en` stream, grounded traceably in the supplied translation and Tibetan commentaries; `generation_note` flags that it was built without English rails and needs specialist review.
+→ [`english-plan-from-tibetan/SKILL.md`](english-plan-from-tibetan/SKILL.md)
+
+### `spyodjug-zh-summary` **[exists]** (packaged `.skill`)
+**Purpose:** For each day of the BCA 365-day recitation plan, generate a plain-Chinese (白話) verse summary based on Ven. Longlian's (隆蓮法師) translation, and save it to the Obsidian `zh-daily-summary` folder. Packaged as a zipped `.skill` archive.
+**Inputs:** The day's Tibetan verses (from the spyod-jug-365 plan); Longlian's Chinese translation; day number.
+**Outputs:** A concise plain-Chinese summary markdown file in the `zh-daily-summary` folder.
+→ `spyodjug-zh-summary.skill` (zip archive containing `spyodjug-zh-summary/SKILL.md`)
+
+---
+
+## Catalog maintenance note
+
+`plan-day-feedback-revision` **[listed above but no directory on disk]** — the entry under "Vault-specific skills" links to `plan-day-feedback-revision/SKILL.md`, but no such folder currently exists under `4-SYSTEM/Skills/`. Either the skill was removed/renamed or never committed. A human contributor should restore the skill or remove its catalog entry.

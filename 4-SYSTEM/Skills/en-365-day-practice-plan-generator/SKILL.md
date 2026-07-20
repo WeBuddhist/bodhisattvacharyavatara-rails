@@ -2,7 +2,7 @@
 name: en-365-day-practice-plan-generator
 description: Generate a complete single-day Bodhisattvacharyavatara (སྤྱོད་འཇུག) practice plan session document in the traditional 7-section format, in English, with combined commentary summaries. Saves to 3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/.
 ---
-
+3
 
 # 365-Day Bodhisattvacharyavatara English Practice Plan Generator
 

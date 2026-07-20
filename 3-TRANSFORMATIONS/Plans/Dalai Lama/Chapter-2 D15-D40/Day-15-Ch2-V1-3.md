@@ -97,7 +97,7 @@
 
 ## १) आज के अभ्यास का परिचय
 
-आज का अभ्यास _बोधिचर्यावतार_ के दूसरे अध्याय के श्लोक 2-1 से 2-3 पर आधारित है। यह सिखाता है कि अपने मन में परोपकार और ज्ञान की भावना (बोधिचित्त) को जगाने और मजबूत करने के लिए हमें पुण्य (अच्छे कर्मों का फल) कमाना बहुत ज़रूरी है। भले ही हमारे पास चढ़ावा चढ़ाने के लिए महंगी चीज़ें न हों, हम दुनिया की उन सभी सुंदर चीज़ों को—जैसे सुंदर फूल, साफ पानी, शांत जंगल और कीमती पत्थर, जिन पर किसी का निजी अधिकार नहीं है—बिना किसी कंजूसी के अपने मन ही मन त्रिरत्न (बुद्ध, धर्म और संघ) को अर्पित कर सकते हैं। यह अभ्यास हमें मानसिक रूप से उदार बनना सिखाता है।
+आज का अभ्यास _बोधिचर्यावतार_ के दूसरे अध्याय के श्लोक १ से ३ पर आधारित है। यह सिखाता है कि अपने मन में परोपकार और ज्ञान की भावना (बोधिचित्त) को जगाने और मजबूत करने के लिए हमें पुण्य (अच्छे कर्मों का फल) कमाना बहुत ज़रूरी है। भले ही हमारे पास चढ़ावा चढ़ाने के लिए महंगी चीज़ें न हों, हम दुनिया की उन सभी सुंदर चीज़ों को—जैसे सुंदर फूल, साफ पानी, शांत जंगल और कीमती पत्थर, जिन पर किसी का निजी अधिकार नहीं है—बिना किसी कंजूसी के अपने मन ही मन त्रिरत्न (बुद्ध, धर्म और संघ) को अर्पित कर सकते हैं। यह अभ्यास हमें मानसिक रूप से उदार बनना सिखाता है।
 
 ## २) अर्थ और कहानी से व्याख्या
 
@@ -115,7 +115,7 @@
 
 ## 1) Introduction to Today's Practice
 
-Today's practice comes from verses 2-1 to 2-3 of the second chapter of the _Bodhicaryāvatāra_. It teaches us that to grow and keep the precious awakening mind (Bodhicitta) in our hearts, we need to gather a vast amount of positive energy, or merit. Even if we do not have money or expensive goods to offer, we can mentally present all the natural, unowned beauty of the world—like lovely flowers, clear clean water, quiet forests, and gems—to the Three Jewels (Buddha, Dharma, and Sangha) without any stinginess. This practice invites us to cultivate a generous heart through the power of our mind.
+Today's practice comes from verses 1 to 3 of the second chapter of the _Bodhicaryāvatāra_. It teaches us that to grow and keep the precious awakening mind (Bodhicitta) in our hearts, we need to gather a vast amount of positive energy, or merit. Even if we do not have money or expensive goods to offer, we can mentally present all the natural, unowned beauty of the world—like lovely flowers, clear clean water, quiet forests, and gems—to the Three Jewels (Buddha, Dharma, and Sangha) without any stinginess. This practice invites us to cultivate a generous heart through the power of our mind.
 
 ## 2) Commentary & Story Explanation
 
@@ -127,4 +127,4 @@ Ordinary people like us might not have rich material gifts to give either. Howev
 
 **Actual Practice:** Today, whenever I see beautiful flowers, clean water, or lovely nature, I will mentally offer them to the Three Jewels without any stinginess or attachment.
 
-**Explanation:**_(Generosity Practice — generosity)_ Usually, when we see a beautiful flower, a lovely landscape, or something nice, we naturally want to own it or keep it for ourselves. But today, just like the young man who offered the lotus flower, I will let go of my greed and attachment when I see beautiful things in nature. Instead, I will use my imagination to offer them joyfully to the Three Jewels. Through this simple practice of mental generosity, I will clear away selfishness and build the positive merit needed to grow a truly compassionate heart.
+**Explanation:**_(Generosity Practice)_ Usually, when we see a beautiful flower, a lovely landscape, or something nice, we naturally want to own it or keep it for ourselves. But today, just like the young man who offered the lotus flower, I will let go of my greed and attachment when I see beautiful things in nature. Instead, I will use my imagination to offer them joyfully to the Three Jewels. Through this simple practice of mental generosity, I will clear away selfishness and build the positive merit needed to grow a truly compassionate heart.

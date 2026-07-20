@@ -92,3 +92,39 @@
 **ཉམས་ལེན་དངོས།** ངས་དེ་རིང་མཛེས་པའི་མེ་ཏོག་དང་ཆུ་གཙང་སོགས་མཐོང་སྐབས། སེར་སྣ་མེད་པར་དཀོན་མཆོག་ལ་ཡིད་ཀྱིས་མཆོད་རྒྱུ་ཡིན།
 
 **འགྲེལ་བཤད།** (སྦྱིན་པའི་ཉམས་ལེན།) དུས་རྒྱུན་ང་ཚོས་ཡིད་དུ་འོང་བའི་མེ་ཏོག་གམ་མཛེས་ལྗོངས། དངོས་པོ་བཟང་པོ་མཐོང་སྐབས་རང་གིས་འཛིན་འདོད་པའམ་བདག་གིར་བྱ་འདོད་ཀྱི་ཆགས་པ་སྐྱེ་བར་བྱེད། འོན་ཀྱང་དེ་རིང་ངས་ཁྱེའུ་ལེགས་འོངས་ཀྱིས་མེ་ཏོག་ཕུལ་བ་ལྟར། རང་གིས་མཐོང་བའི་བདག་པོས་མ་བཟུང་བའི་མཛེས་པ་མཐའ་དག་འཛིན་ཆགས་དང་སེར་སྣ་སྤངས་ཏེ། ཡིད་ཀྱིས་སྤྲུལ་ནས་དཀོན་མཆོག་གསུམ་ལ་མཆོད་པ་འབུལ་བའི་སྒོ་ནས། རིན་ཆེན་བྱང་ཆུབ་ཀྱི་སེམས་བསྐྱེད་པའི་བསོད་ནམས་ཀྱི་ཚོགས་རླབས་པོ་ཆེ་གསོག་པར་བྱ་རྒྱུ་ཡིན།
+
+
+
+## १) आज के अभ्यास का परिचय
+
+आज का अभ्यास _बोधिचर्यावतार_ के दूसरे अध्याय के श्लोक 2-1 से 2-3 पर आधारित है। यह सिखाता है कि अपने मन में परोपकार और ज्ञान की भावना (बोधिचित्त) को जगाने और मजबूत करने के लिए हमें पुण्य (अच्छे कर्मों का फल) कमाना बहुत ज़रूरी है। भले ही हमारे पास चढ़ावा चढ़ाने के लिए महंगी चीज़ें न हों, हम दुनिया की उन सभी सुंदर चीज़ों को—जैसे सुंदर फूल, साफ पानी, शांत जंगल और कीमती पत्थर, जिन पर किसी का निजी अधिकार नहीं है—बिना किसी कंजूसी के अपने मन ही मन त्रिरत्न (बुद्ध, धर्म और संघ) को अर्पित कर सकते हैं। यह अभ्यास हमें मानसिक रूप से उदार बनना सिखाता है।
+
+## २) अर्थ और कहानी से व्याख्या
+
+ये श्लोक बताते हैं कि बोधिचित्त को पाने के लिए दान और अर्पण के माध्यम से पुण्य कमाना आध्यात्मिक रास्ते की जड़ है। एक पुरानी कहानी है कि श्रावस्ती में एक युवक था जिसने अपना सारा धन उड़ा दिया और बहुत गरीब हो गया। जब वह बुद्ध के पास भिक्षु बनने गया, तो बुद्ध ने देखा कि उसके पास पर्याप्त पुण्य नहीं है, इसलिए उन्होंने उसे पहले कुछ अर्पित करने को कहा। उस युवक को कहीं से एक नीला कमल (उत्पल फूल) मिला और उसने पूरे मन से उसे भिक्षु संघ को चढ़ा दिया। इस छोटे से, पर सच्चे अर्पण से उसका पुण्य पूरा हुआ और उसने अंततः मोक्ष प्राप्त किया।
+
+हम साधारण लोगों के पास भी शायद देने के लिए बहुत सारा धन या महंगी चीज़ें न हों। लेकिन आचार्य शांतिदेव कहते हैं कि इस दुनिया में बहुत सी ऐसी सुंदर चीज़ें हैं जो किसी एक इंसान की नहीं हैं—जैसे जंगली फूल और फल, जड़ी-बूटियाँ, कीमती रत्न, नदियाँ और झीलों का साफ-सुथरा पानी, और शांत वन। जब हम इन सुंदर चीज़ों को देखकर उन्हें अपने मन ही मन बिना किसी लालच या कंजूसी के बुद्ध, धर्म और बोधिसत्वों को चढ़ाते हैं, तो हमारे मन का लालच धुल जाता है। इससे हमारा मन उस अनमोल बोधिचित्त (जागृति के मन) को धारण करने के योग्य बन जाता है।
+
+## ३) आज का अभ्यास
+
+**मुख्य अभ्यास:** आज मैं जब भी कोई सुंदर फूल, साफ पानी या प्राकृतिक सौंदर्य देखूंगा, तो बिना किसी कंजूसी के मन ही मन उसे त्रिरत्न को अर्पित कर दूंगा।
+
+**व्याख्या:**_(उदारता का अभ्यास — generosity)_ आमतौर पर जब हम कोई सुंदर फूल, प्राकृतिक नज़ारा या अच्छी चीज़ देखते हैं, तो हमारे मन में उसे पाने या अपने पास रखने का लालच जाग जाता है। लेकिन आज, उस युवक की तरह जिसने कमल का फूल चढ़ाया था, मैं बिना किसी मालिक वाली सुंदर चीज़ों को देखकर लालच और मोह छोड़ दूंगा। इसके बजाय, मैं उन्हें मन ही मन त्रिरत्न को प्रेमपूर्वक अर्पित करूंगा। मानसिक दान के इस सरल अभ्यास से, मैं अपने अंदर उस अनमोल बोधिचित्त को जगाने के लिए ज़रूरी विशाल पुण्य इकट्ठा करूंगा।
+
+# English (Easy Plain English)
+
+## 1) Introduction to Today's Practice
+
+Today's practice comes from verses 2-1 to 2-3 of the second chapter of the _Bodhicaryāvatāra_. It teaches us that to grow and keep the precious awakening mind (Bodhicitta) in our hearts, we need to gather a vast amount of positive energy, or merit. Even if we do not have money or expensive goods to offer, we can mentally present all the natural, unowned beauty of the world—like lovely flowers, clear clean water, quiet forests, and gems—to the Three Jewels (Buddha, Dharma, and Sangha) without any stinginess. This practice invites us to cultivate a generous heart through the power of our mind.
+
+## 2) Commentary & Story Explanation
+
+These verses show that making offerings to build positive merit is the very foundation of the spiritual path. There is an ancient story about a young man in Shravasti who wasted all his money and became extremely poor. When he asked to become a monk, the Buddha saw that he needed more merit first and asked him to make an offering. The young man found a single blue lotus flower and offered it to the spiritual community with a pure heart. Because of this simple, sincere offering, he gathered enough merit to eventually reach complete spiritual freedom.
+
+Ordinary people like us might not have rich material gifts to give either. However, master Shantideva explains that the universe is full of treasures that belong to no one—such as wild flowers and fruits, healing plants, sparkling jewels, pure drinking water, and peaceful forests. By imagining these beautiful things and mentally offering them to the Buddhas and Bodhisattvas without any greed or attachment, we wash away the stain of selfishness from our minds. This mental generosity transforms our heart into a clean vessel, ready to hold the precious awakening mind.
+
+## 3) Today's Practice
+
+**Actual Practice:** Today, whenever I see beautiful flowers, clean water, or lovely nature, I will mentally offer them to the Three Jewels without any stinginess or attachment.
+
+**Explanation:**_(Generosity Practice — generosity)_ Usually, when we see a beautiful flower, a lovely landscape, or something nice, we naturally want to own it or keep it for ourselves. But today, just like the young man who offered the lotus flower, I will let go of my greed and attachment when I see beautiful things in nature. Instead, I will use my imagination to offer them joyfully to the Three Jewels. Through this simple practice of mental generosity, I will clear away selfishness and build the positive merit needed to grow a truly compassionate heart.

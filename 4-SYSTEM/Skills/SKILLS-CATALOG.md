@@ -71,6 +71,18 @@ Inserts or regenerates a table of contents in a source or rails file.
 **Outputs:** File at `0-INBOX/temp/tagged-<original-filename>` with headings, heading block IDs, and `[[#^N-N-0|term]]` wikilinks applied to all announcement and restatement phrases.
 → [`tag-inline-toc/SKILL.md`](tag-inline-toc/SKILL.md)
 
+### `add-block-id-root-text` (`format-sk-root-text`) **[exists]**
+**Purpose:** Format and re-index a **Sanskrit** root-text file in `1-SOURCES/Text/` using the vault's block-ID convention — front matter (Roman), chapter verses (Arabic), colophons (lowercase letters), and book back matter. Specific to Sanskrit root texts, not commentaries or translations. Uses a bundled `apply.py` helper (audit → LLM zone identification → mechanical apply).
+**Inputs:** A Sanskrit root-text `.md` file in `1-SOURCES/Text/`.
+**Outputs:** The file re-indexed in place with block IDs; audit report from `apply.py`.
+→ [`add-block-id-root-text/SKILL.md`](add-block-id-root-text/SKILL.md)
+
+### `commentary-resegment` **[exists]**
+**Purpose:** Re-paragraph a Tibetan commentary that has ONE CLAUSE PER LINE into readable sense-unit paragraphs (~2–4 lines each), grouped **by meaning** (LLM judgment on content/context, not grammar rules). A Python script joins each group onto one line, separates paragraphs with a blank line, and verifies the source text is byte-identical. Replaces the older rule-based `block-resegmentation-linewise`.
+**Inputs:** A one-clause-per-line commentary (e.g. `*_segmented.md`, `*.toc.md`).
+**Outputs:** A re-paragraphed commentary draft; source text changed only in newlines/spaces, never in words or characters (integrity-gated).
+→ [`commentary-resegment/SKILL.md`](commentary-resegment/SKILL.md)
+
 ---
 
 ## Rails-building skills (context preparation for translation)
@@ -138,6 +150,18 @@ These skills populate `2-RAILS/` with the structured context that translation an
 **Outputs:** The AI Overview (བསྡུས་དོན།) section of `2-RAILS/Verses/<verse-id>.md`, written or replaced in place; no other layer touched.
 → [`AI-summary-generator/SKILL.md`](AI-summary-generator/SKILL.md)
 
+### `verse-context-batch` **[exists]**
+**Purpose:** Build all verse-level context packages for one chapter in bulk. Scans every commentary to produce a single block-ID mapping table, then generates one `2-RAILS/Verses/<verse-id>.md` file per verse in the chapter via a Python script — enforcing one consistent mapping across the whole chapter. Output format is identical to `verse-context`; `status: draft` on generation.
+**Inputs:** Chapter number, verse range, all relevant `1-SOURCES/Commentaries/*.md` (must already have block IDs), and the translation file `bo-བློ་ལྡན་ཤེས་རབ།.md`.
+**Outputs:** One file per verse at `2-RAILS/Verses/<chapter>-<verse>.md` (existing files skipped); generation script saved to `0-INBOX/verse-context-batch-ch<N>.py`.
+→ [`verse-context-batch/SKILL.md`](verse-context-batch/SKILL.md)
+
+### `root-verse-context-creator` **[exists]**
+**Purpose:** For a Tibetan root text interleaved with a nested sa-bcad (ས་བཅད།) outline, generate a Tibetan contextual summary paragraph for each group of root verses by tracing the full nested outline path — outermost container down to the leaf section — closing with `གཞུང་ཚིག་ཡིན་ནོ།།` in the style of Khenpo Kunpal's sa-bcad commentary.
+**Inputs:** A sa-bcad + root-text (ས་བཅད་རྩ་སྦྱར།) file that interleaves outline headings (`^TOC-…` anchors) with verse blocks; optional single-chapter scope.
+**Outputs:** `2-RAILS/Verses/bo-[chapter]-ས་བཅད་གཞིར་བཟུང་རྩ་ཚིག་ངོས་འཛིན།.md` with each verse group quoted verbatim followed by its outline-path summary paragraph.
+→ [`root-verse-context-creator/SKILL.md`](root-verse-context-creator/SKILL.md)
+
 ---
 
 ## Translation requirements skills
@@ -171,6 +195,24 @@ These skills populate `2-RAILS/` with the structured context that translation an
 **Inputs:** Verse ID, list of commentary files, output path/track.
 **Outputs:** A summary file under `3-TRANSFORMATIONS/Translations/<track>/Verses/<verse-id>.md`.
 → [`verse-commentary-summarizer/SKILL.md`](4-SYSTEM/Skills/verse-commentary-summarizer/SKILL.md)
+
+### `translate-commentary-ai` **[exists]**
+**Purpose:** Translate a source commentary (Tibetan or other) into the target language using the track's AI-translation `requirements.md`, `termbase.md`, and the relevant `2-RAILS/Sections/` synthesis for terminological consistency and philosophical fidelity. Every termbase-locked lemma is rendered exactly as specified; no unauthorized synonyms.
+**Inputs:** The source commentary; `3-TRANSFORMATIONS/Translations/en-ai/requirements.md` + `termbase.md`; section summaries under `2-RAILS/Sections/`.
+**Outputs:** A new AI-generated translation file in `3-TRANSFORMATIONS/Translations/` with `AI-generated` in the filename and complete YAML frontmatter.
+→ [`translate-commentary-ai/SKILL.md`](translate-commentary-ai/SKILL.md)
+
+### `bo-en-translate` **[exists]**
+**Purpose:** Translate BCA source text (Tibetan, or the base English verse translation) into **graded English** at a specified audience level (beginner / general / intermediate / advanced), enforcing term consistency via a pre-built keyword termbase. Scans the source for recognised terms, locks their English equivalents at the target register, and outputs one line per verse followed by its block ID.
+**Inputs:** Source text (Tibetan or base English), target audience grade, optional verse IDs, optional output path.
+**Outputs:** A clean graded-English markdown file (one line per verse + block ID); optionally saved to `3-TRANSFORMATIONS/Translations/`.
+→ [`english-translation/bo-en-translate-skill.md`](english-translation/bo-en-translate-skill.md)
+
+### `generate-modern-chinese` (`spyodjug-zh-plain-chinese`) **[exists]**
+**Purpose:** Generate plain written-Chinese (白話) translations for the `zh-plain-chinese` track, triangulating the Tibetan root against the Padmakara English translation and following all rules in the track's `requirements.md`, `audience profile.md`, and `termbase.md`.
+**Inputs:** Day number or verse range; `3-TRANSFORMATIONS/Translations/zh-plain-chinese/` contracts; Tibetan root `bo-བློ་ལྡན་ཤེས་རབ།.md`; Padmakara English; Gyaltsab and Dalai Lama Chinese commentaries.
+**Outputs:** Day files under `3-TRANSFORMATIONS/Translations/zh-plain-chinese/days/`; termbase updates as needed.
+→ [`generate-modern-chinese/SKILL.md`](generate-modern-chinese/SKILL.md)
 
 ---
 

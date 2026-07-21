@@ -1,12 +1,17 @@
 # guard.lock — sha256 baseline of protected source-of-truth files.
 # Regenerate ONLY after an approved change: `guard record`.
 0b35893a477eca6af3d250c220a67ca5ab774f55c957bebfd9d93ca0e29e506f  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/1-en.md
+b385e21b7491376705e0d31bbcf8bda84b4643a95f263d79398a9a3a743fd0f2  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/11-en.md
+88e28e0ad6116d32d5c50caef8c1593396d11654de1f4d43e99cf5f6fcdcf24d  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/12-en.md
+16d73edf346b0ab512414f3a0a20e5c9ba789849d5f07a6f283add6b7d5611e0  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/13-en.md
 9fe3f4ebe479dfa320d77c52dded10d9bd7a99ee353950b6d92a42866270e71a  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/2-en.md
 19cee9a95941aa4348e5c8d0c7dfa18d48b38603fa18426209235d4a724432b4  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/3-en.md
 dd143d2fa00f62062311b77e112115346e606eb065def48060c7d46b90eedb0e  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/4-en.md
 b5445fb709a6b9e1d2629cee74a98f2910390ee8152113e1eb3e1eecdf0b68ab  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/5-en.md
 11b3c48c5dec8e917477d93101db84934126562cc6faa42c9c4199363579e199  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/6-en.md
 d0691f3849867be7b354d65208daaeec61105709f89c34be05d1829769699c54  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/7-en.md
+94718438a01d7a9428619d52f6d4da65934080eb80df78d483d45d0e6b918a4b  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/8-en.md
+306e3929315c49db793d328f21f35f9b0998339790890c010a9334d46da8bb48  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/9-en.md
 a80bb6d3381c2178edc67d7050b52128e05b00c9cc22cce37c91fa5d6e0829db  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/1.md
 3fbeb55e22e9897ed9a23b81f8d52a528fb4f80f42c263f12fa677be8205a433  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/10.md
 9ec8285fab2321e768b9f8acab201af9ba4fbcc179aba5fa6da7dedb803534a5  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/11.md

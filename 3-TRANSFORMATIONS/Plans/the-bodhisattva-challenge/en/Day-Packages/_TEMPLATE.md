@@ -48,10 +48,16 @@ files, that is a one-line change to the tool.
 
 ---
 
-## File naming
+## File naming & location
 
-`Chapter-<N> D<first>-D<last>/<day>-en.md` — e.g. `Chapter-1 D1-D14/1-en.md`.
-(The `.md` without `-en` is the Tibetan/Sanskrit source-of-record; `-en` is the English package.)
+Two parallel folders:
+
+- **Tibetan source packages** (source-of-record): `Day-Packages/Chapter-<N> D<first>-D<last>/<day>.md`
+- **English translations**: `Day-Packages-EN/Chapter-<N> D<first>-D<last>/<day>-en.md`
+
+e.g. `Day-Packages/Chapter-1 D1-D14/1.md` (Tibetan) → `Day-Packages-EN/Chapter-1 D1-D14/1-en.md` (English).
+
+Shared docs (`_TEMPLATE.md`, `_TERMBASE.md`) live in `Day-Packages/`.
 
 ---
 

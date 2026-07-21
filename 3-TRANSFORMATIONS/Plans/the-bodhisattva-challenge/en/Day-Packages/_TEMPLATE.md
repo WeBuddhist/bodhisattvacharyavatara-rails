@@ -180,9 +180,12 @@ Each anchor sits on the line **immediately before** its heading (no blank betwee
 | `sub:teaching-points` | `Main Teaching Points` | yes |
 | `sub:key-terms` | `Key Terms` | yes |
 | `sub:synthesis` | `Verse Synthesis (overview)` | yes |
+| `sub:divergences` / `div:divergences` | `Divergences` (may be prefixed `⚑`) | only if present |
 
 Commentator H5 anchors are `cm:<shortid>` (e.g. `cm:kunpal`); story H5 anchors are
 `story:<ID>` (e.g. `story:BCAC13_KTB`). The shortid is the token before the em dash.
+A `Divergences` block (where the commentaries disagree, per the vault's non-flattening
+rule) may appear as an H4 (`sub:divergences`) or nested H5 (`div:divergences`).
 
 ---
 

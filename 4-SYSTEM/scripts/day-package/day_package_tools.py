@@ -86,11 +86,18 @@ def heading_anchor(level, text):
                 return slug
         return None
     if level == 4:
+        core4 = text.lstrip("⚑ ").strip()
+        if core4.startswith("Divergences"):
+            return "sub:divergences"
         for htext, slug, _req in VERSE_SUBS:
             if text.startswith(htext):
                 return slug
         return None
     if level == 5:
+        # a "Divergences" block (records where commentators disagree)
+        core5 = text.lstrip("⚑ ").strip()
+        if core5.startswith("Divergences"):
+            return "div:divergences"
         # commentator "shortid — Name (Work)" or story "BCAC..._ID — Title"
         sid = re.split(r"\s+[—-]\s+", text, maxsplit=1)[0].strip()
         sid = sid.replace(" ", "-")

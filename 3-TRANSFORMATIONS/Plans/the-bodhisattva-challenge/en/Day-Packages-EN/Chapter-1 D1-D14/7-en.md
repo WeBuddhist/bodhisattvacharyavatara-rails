@@ -205,9 +205,11 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-17]]
 
 Of the two just explained — the mind that aspires to awakening and the mind that engages in awakening — if one asks what benefit there is in cultivating the mind that aspires to awakening: while one abides in samsaric existence, there is inconceivably great benefit and power, illustrated by the excellent results of high status, that carry one from happiness to happiness. Even so, aspiration bodhicitta does not possess the kind of merit that increases of itself, uninterruptedly, even during ethically neutral (*lung ma bstan*) states of mind — such as heedlessness or being asleep — when a virtuous attitude is not manifest. So he says.
 
+<!-- cm:⚑-Divergences -->
+
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-17]]
 
-<!-- cm:⚑-Divergences -->
+<!-- div:divergences -->
 ##### ⚑ Divergences
 
 - **gyaltsab ⚑:** cites the vajra example as coming "from the *Liberation of Ārya Maitreya*." Both minyak-kunzang-sonam and khenpo-kunga cite it as "from the *Gaṇḍavyūha sutra*." Though these two differ in name, they may be one and the same source passage. ⚑
@@ -415,6 +417,8 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]] [[1-S
 | **The ritual's three parts — preparation, main practice, conclusion** (ཆོ་ག་སྦྱོར་དངོས་རྗེས་གསུམ།) | The manner of taking up the mind-generation by way of the ritual complete in its three parts: preparation, main practice, and conclusion. | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) |
 
 <!-- cm:⚑-Divergences -->
+
+<!-- div:divergences -->
 ##### ⚑ Divergences
 
 - **kunpal ⚑:** glosses "a mind that does not turn back" as the mind that thinks it will not turn from that pledge — the mind that, from the pledge to practise the six perfections until the attainment of buddhahood, does not lapse. ⚑
@@ -477,35 +481,35 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]
 <!-- cm:gyaltsab -->
 ##### gyaltsab — Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
 
-*Note: gyaltsab groups verses 1-18 and 1-19 under consecutive transclusions; the shared prose is fully reproduced under Verse 1-18 (see [[2-RAILS/Verses/1-18-summary.md]]). The prose covering 1-19's content reads in part:* "From that moment on, even if one becomes heedless through sleep or intoxication and the like, the momentum of merit arises, uninterrupted through time, in many [streams], to a measure equal to space. The aspiring mind amounts only to yearning for the result; the engaging mind is seized by accomplishing the complete cause of buddhahood."
+*Note: gyaltsab groups verses 1-18 and 1-19 under consecutive transclusions; the shared prose is fully reproduced under Verse 1-18 (see Verse 1-18). The prose covering 1-19's content reads in part:* "From that moment on, even if one becomes heedless through sleep or intoxication and the like, the momentum of merit arises, uninterrupted through time, in many [streams], to a measure equal to space. The aspiring mind amounts only to yearning for the result; the engaging mind is seized by accomplishing the complete cause of buddhahood."
 
 Sources: [[2-RAILS/Verses/1-18-summary.md]] [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]
 
 <!-- cm:ngulchu-thogmed -->
 ##### ngulchu-thogmed — Ngulchu Thogme (Ocean of Good Explanations)
 
-*Note: ngulchu-thogmed groups verses 1-17, 1-18, and 1-19 under consecutive transclusions; the shared prose is fully reproduced under Verse 1-18 (see [[2-RAILS/Verses/1-18-summary.md]]). Verse 1-19's content is covered by:* "If it is not impaired, then even if one becomes heedless through sleep or intoxication and the like, the momentum of merit arises uninterruptedly through time, in many forms, to a measure equal to space."
+*Note: ngulchu-thogmed groups verses 1-17, 1-18, and 1-19 under consecutive transclusions; the shared prose is fully reproduced under Verse 1-18 (see Verse 1-18). Verse 1-19's content is covered by:* "If it is not impaired, then even if one becomes heedless through sleep or intoxication and the like, the momentum of merit arises uninterruptedly through time, in many forms, to a measure equal to space."
 
 Sources: [[2-RAILS/Verses/1-18-summary.md]] [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]
 
 <!-- cm:sabzang -->
 ##### sabzang — Sabzang Mati Panchen (Clear Illumination)
 
-*Note: sabzang groups verses 1-18 and 1-19 under consecutive transclusions; the shared prose is fully reproduced under Verse 1-18 (see [[2-RAILS/Verses/1-18-summary.md]]).*
+*Note: sabzang groups verses 1-18 and 1-19 under consecutive transclusions; the shared prose is fully reproduced under Verse 1-18 (see Verse 1-18).*
 
 Sources: [[2-RAILS/Verses/1-18-summary.md]] [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]
 
 <!-- cm:minyak-kunzang-sonam -->
 ##### minyak-kunzang-sonam — Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
 
-*Note: minyak-kunzang-sonam groups verses 1-18 and 1-19 under consecutive transclusions; the shared prose is fully reproduced under Verse 1-18 (see [[2-RAILS/Verses/1-18-summary.md]]).*
+*Note: minyak-kunzang-sonam groups verses 1-18 and 1-19 under consecutive transclusions; the shared prose is fully reproduced under Verse 1-18 (see Verse 1-18).*
 
 Sources: [[2-RAILS/Verses/1-18-summary.md]] [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]
 
 <!-- cm:khenpo-kunga -->
 ##### khenpo-kunga — Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
 
-*Note: khenpo-kunga groups verses 1-18 and 1-19 under consecutive transclusions; the shared prose is fully reproduced under Verse 1-18 (see [[2-RAILS/Verses/1-18-summary.md]]). The portion of that prose specifically addressing 1-19 reads:* "From the moment one has generated the supreme mind of awakening, or received the vow, onward: even if the person who is the support — that bodhisattva — sleeps at night or becomes slightly heedless during the day, the very momentum of the meritorious virtue of having generated the supreme mind of awakening is uninterrupted and manifold — indeed countless; were it to take material form, it would be like something filling all of space, or equal to space — so it arises. So he says."
+*Note: khenpo-kunga groups verses 1-18 and 1-19 under consecutive transclusions; the shared prose is fully reproduced under Verse 1-18 (see Verse 1-18). The portion of that prose specifically addressing 1-19 reads:* "From the moment one has generated the supreme mind of awakening, or received the vow, onward: even if the person who is the support — that bodhisattva — sleeps at night or becomes slightly heedless during the day, the very momentum of the meritorious virtue of having generated the supreme mind of awakening is uninterrupted and manifold — indeed countless; were it to take material form, it would be like something filling all of space, or equal to space — so it arises. So he says."
 
 Sources: [[2-RAILS/Verses/1-18-summary.md]] [[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]
 

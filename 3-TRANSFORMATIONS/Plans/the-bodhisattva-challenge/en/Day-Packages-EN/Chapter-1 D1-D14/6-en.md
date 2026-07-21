@@ -338,9 +338,11 @@ Nowhere from the beginning to the end of the Bodhicaryāvatāra is a method of c
 
 (For example:) recognizing beings as one's mother is taught so that, remembering their kindness and feeling a strong wish to repay it, a fierce mind of cherishing and holding dear those beings tormented by suffering may arise. In the exchange of self and other, one proceeds on the basis that oneself and others are alike in wishing for happiness and not wishing for suffering — so even if one does not absolutely see [all beings] as one's mother, if, from the chapter on patience, one finds firm conviction in the teaching that one's own enemy is of very great kindness to oneself, then a mind that firmly cherishes even one's enemy arises, and by its force a powerful wish arises, focused on the enemy: "If only they could be free of all suffering." Since the great scholars have differing ways of explaining the pith instructions, it is excellent even to blend these methods and meditate on them together.
 
+<!-- cm:⚑-Divergences-(differing-positions-among-the-commentators) -->
+
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-16]]
 
-<!-- cm:⚑-Divergences-(differing-positions-among-the-commentators) -->
+<!-- div:divergences -->
 ##### ⚑ Divergences (differing positions among the commentators)
 
 - **kunpal** ⚑: [Kunpal] says there are seven differing textual traditions on how to demarcate the aspiring and engaging minds, and he cites them extensively, from the tradition of Master Jñānapāda through to that of the Great Omniscient One, Tsongkhapa. The other commentators mention only one or two traditions.

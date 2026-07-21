@@ -82,7 +82,7 @@ status: draft
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^2-39]])
 
-### ⚑ བར་འབྱོར་གྱི་མི་མཐུན་པ། (Divergences)
+### ⚑ འགྲེལ་ཚུལ་མི་མཐུན་པ། (Divergences)
 
 - **kunpal:** "འགོད" ཞེས་པའི་སྒྲ་དོན་ཉིན་མཚན་གྱིས་ཚེ་སོ་སོར་འགོད་པའི་དོན་དུ་འགྲེལ། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-39]]) ⚑
 - **minyak-kunzang-sonam:** "གོད" ཞེས་པ་འབྲི་ཤིང་འཛད་པའི་དོན་དང་། "འགོད" ཞེས་པ་ཉིན་མཚན་གྱིས་ཚེ་སོ་སོར་འགོད་པའི་དོན་གཉིས་ཀ་འཆད་སྲོལ་ཡོད་པར་ངོས་འཛིན། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^2-39]]) ⚑

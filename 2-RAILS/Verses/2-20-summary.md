@@ -82,7 +82,7 @@ status: draft
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^2-20]])
 
-### ⚑ བར་འབྱོར་གྱི་མི་མཐུན་པ། (Divergences)
+### ⚑ འགྲེལ་ཚུལ་མི་མཐུན་པ། (Divergences)
 
 - **kunpal / khenpo-kunga:** ཤོ་ལོ་ཀ་འདི་ལ་"གསུམ་པ་སྨོན་ལམ་སྟོབས་ཀྱི་མཆོད་པ་ནི།" ཞེས་མིང་བཏགས་ཏེ་ཡིད་ཀྱིས་སྤྲུལ་པའི་མཆོད་པའི་ནང་ཚན་སྨོན་ལམ་སྟོབས་ཀྱི་མཆོད་པའི་སྐབས་སུ་བཞག ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-20]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-20]]) ⚑
 - **sabzang:** ཤོ་ལོ་ཀ་འདི་ལ་"(བཅུ་གཉིས་པ་) རོལ་མོ་དབུལ་བ་ནི།" ཞེས་མིང་བཏགས་ཏེ་རོལ་མོ་འབུལ་བའི་མཆོད་པའི་སྐབས་ཐད་ཀར་ངོས་འཛིན་བྱས། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^2-20]]) ⚑

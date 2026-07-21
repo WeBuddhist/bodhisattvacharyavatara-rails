@@ -85,7 +85,7 @@ status: draft
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^2-14]])
 
-### ⚑ བར་འབྱོར་གྱི་མི་མཐུན་པ། (Divergences)
+### ⚑ འགྲེལ་ཚུལ་མི་མཐུན་པ། (Divergences)
 
 - **gyaltsab / sabzang:** ཤོ་ལོ་ཀ་འདིའི་མཆོད་པ་ནི་ཡིད་ཀྱི་སྤྲུལ་པའི་མཆོད་པའི་རིམ་པའི་ནང་གི་བཞི་པ་ཞེས་གྲངས་བཞིན་གནས་སུ་བགྲོད། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^2-14]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^2-14]]) ⚑
 - **ngulchu-thogmed:** གྲངས་ལྔ་བར་བགྲོད་དེ་འགྲེལ། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^2-14]]) ⚑

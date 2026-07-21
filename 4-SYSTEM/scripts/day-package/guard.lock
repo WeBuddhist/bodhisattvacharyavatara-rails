@@ -1,9 +1,11 @@
 # guard.lock — sha256 baseline of protected source-of-truth files.
 # Regenerate ONLY after an approved change: `guard record`.
 0b35893a477eca6af3d250c220a67ca5ab774f55c957bebfd9d93ca0e29e506f  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/1-en.md
+14abe702d7cfd79a5862c72f00bc147c305d47f85f14201f5129b125ad8358f4  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/10-en.md
 b385e21b7491376705e0d31bbcf8bda84b4643a95f263d79398a9a3a743fd0f2  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/11-en.md
 88e28e0ad6116d32d5c50caef8c1593396d11654de1f4d43e99cf5f6fcdcf24d  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/12-en.md
 16d73edf346b0ab512414f3a0a20e5c9ba789849d5f07a6f283add6b7d5611e0  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/13-en.md
+54da0e294e5596c6fd299b9032549b27a4dd389b83ff94f601e57423b6d61760  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/14-en.md
 9fe3f4ebe479dfa320d77c52dded10d9bd7a99ee353950b6d92a42866270e71a  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/2-en.md
 19cee9a95941aa4348e5c8d0c7dfa18d48b38603fa18426209235d4a724432b4  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/3-en.md
 dd143d2fa00f62062311b77e112115346e606eb065def48060c7d46b90eedb0e  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/4-en.md

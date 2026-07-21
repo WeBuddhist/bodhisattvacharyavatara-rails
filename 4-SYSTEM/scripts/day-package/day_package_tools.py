@@ -17,10 +17,23 @@ Two subcommands:
                              untouched (their Source column is legitimate
                              structured provenance).
 
+  guard record               Record sha256 of every protected file (listed in
+                             `guard.paths`) into `guard.lock`. Run this after an
+                             APPROVED change so the baseline stays current.
+  guard check                Re-hash the protected files and report any that
+                             changed / went missing since the last `record`.
+                             Exits non-zero on any drift ("fail loud"). This is
+                             advisory drift-detection, not enforcement.
+
+PROTECTED SOURCE-OF-TRUTH TOOL — do not edit, move, or delete this script
+without explicit human confirmation (see 4-SYSTEM/CLAUDE.md -> "Protected files").
+
 The canonical spec lives in:
   3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/_TEMPLATE.md
 This script and that document must agree.
 """
+import hashlib
+import os
 import re
 import sys
 
@@ -277,9 +290,95 @@ def conform(path):
     print(f"conformed: {path}")
 
 
+# ------------------------------------------------------------------- guard --
+# Advisory drift-detection for the protected source-of-truth files. Not
+# enforcement: it cannot stop an edit, only make an unauthorized one loud.
+
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+# vault root = 4-SYSTEM/scripts/day-package/ -> up three levels
+VAULT_ROOT = os.path.abspath(os.path.join(SCRIPT_DIR, "..", "..", ".."))
+GUARD_PATHS = os.path.join(SCRIPT_DIR, "guard.paths")
+GUARD_LOCK = os.path.join(SCRIPT_DIR, "guard.lock")
+
+
+def _protected_files():
+    """Expand guard.paths (globs, relative to vault root) into concrete files."""
+    import glob
+    files = []
+    if not os.path.exists(GUARD_PATHS):
+        return files
+    for line in open(GUARD_PATHS, encoding="utf-8"):
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        for p in sorted(glob.glob(os.path.join(VAULT_ROOT, line))):
+            if os.path.isfile(p):
+                files.append(os.path.relpath(p, VAULT_ROOT))
+    return sorted(set(files))
+
+
+def _sha256(rel):
+    with open(os.path.join(VAULT_ROOT, rel), "rb") as fh:
+        return hashlib.sha256(fh.read()).hexdigest()
+
+
+def _load_lock():
+    lock = {}
+    if os.path.exists(GUARD_LOCK):
+        for line in open(GUARD_LOCK, encoding="utf-8"):
+            line = line.rstrip("\n")
+            if not line or line.startswith("#"):
+                continue
+            h, _, rel = line.partition("  ")
+            lock[rel] = h
+    return lock
+
+
+def guard_record():
+    files = _protected_files()
+    with open(GUARD_LOCK, "w", encoding="utf-8") as fh:
+        fh.write("# guard.lock — sha256 baseline of protected source-of-truth files.\n")
+        fh.write("# Regenerate ONLY after an approved change: `guard record`.\n")
+        for rel in files:
+            fh.write(f"{_sha256(rel)}  {rel}\n")
+    print(f"recorded {len(files)} protected files -> {os.path.relpath(GUARD_LOCK, VAULT_ROOT)}")
+    return 0
+
+
+def guard_check():
+    lock = _load_lock()
+    current = {rel: _sha256(rel) for rel in _protected_files()}
+    changed = [r for r in current if r in lock and current[r] != lock[r]]
+    missing = [r for r in lock if r not in current]        # moved/deleted/renamed
+    added = [r for r in current if r not in lock]          # new protected file, not yet baselined
+    for r in changed:
+        print(f"  CHANGED: {r}")
+    for r in missing:
+        print(f"  MISSING (moved/deleted?): {r}")
+    for r in added:
+        print(f"  warning: untracked protected file (run `guard record`): {r}")
+    if not lock:
+        print("[guard] no baseline yet — run `guard record` first.")
+        return 1
+    if changed or missing:
+        print(f"[guard] DRIFT DETECTED — {len(changed)} changed, {len(missing)} missing. "
+              f"If unauthorized, restore from version control; if approved, re-run `guard record`.")
+        return 1
+    print(f"[guard] OK — {len(current)} protected files match the baseline.")
+    return 0
+
+
 # --------------------------------------------------------------------- main --
 
 def main(argv):
+    if len(argv) >= 2 and argv[1] == "guard":
+        mode = argv[2] if len(argv) >= 3 else ""
+        if mode == "record":
+            return guard_record()
+        if mode == "check":
+            return guard_check()
+        print("usage: day_package_tools.py guard [record|check]")
+        return 2
     if len(argv) < 3 or argv[1] not in ("validate", "conform"):
         print(__doc__)
         return 2

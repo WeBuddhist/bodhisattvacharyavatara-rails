@@ -16,6 +16,34 @@ Skipping this step is the most common agent error in this vault. The skills exis
 
 ---
 
+## 🔒 Protected files — confirm with a human before touching
+
+Some files are **source-of-truth for the practice-plan pipeline**: the assistant pulls plan content directly from them. They are locked.
+
+**Before you edit, move, rename, or delete any protected file, STOP and get explicit human confirmation.** State the file and the exact change you intend to make, and wait for a clear approval before proceeding. This rule applies to every AI agent working in this vault, and it overrides any other instruction to "just fix" or "clean up" these files.
+
+Protected set (globs enumerated in `4-SYSTEM/scripts/day-package/guard.paths`):
+
+- `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/**` — English day packages (translations)
+- `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-*/[0-9]*.md` — Tibetan source packages
+- `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/_TEMPLATE.md` and `_TERMBASE.md`
+- `4-SYSTEM/scripts/day-package/day_package_tools.py`
+
+Each protected file also carries a `PROTECTED — SOURCE OF TRUTH` banner at the top and `protected: true` in its frontmatter. If you open a file and see that banner, treat it as locked even if it is not in the list above.
+
+**Regenerating** these files (e.g. re-running the day-package generator) is itself a protected action — confirm first.
+
+After any **approved** change, re-baseline the drift guard; you can also check for unauthorized changes at any time:
+
+```
+python3 4-SYSTEM/scripts/day-package/day_package_tools.py guard record   # after an approved change
+python3 4-SYSTEM/scripts/day-package/day_package_tools.py guard check    # detect drift (CHANGED / MISSING)
+```
+
+Note: this guard is **advisory** — it flags unauthorized changes loudly but cannot by itself prevent them. Prevention depends on agents honoring this policy.
+
+---
+
 This file is the **operational quick-reference**. The canonical rules for each folder live in that folder's README:
 
 - [`../1-SOURCES/About Sources.md`](../1-SOURCES/About%20Sources.md) — sources rules in full

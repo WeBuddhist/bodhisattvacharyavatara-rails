@@ -26,7 +26,11 @@ sources:
     - "2-RAILS/Verses/1-1-summary.md"
     - "2-RAILS/Verses/1-2-summary.md"
     - "2-RAILS/Verses/1-3-summary.md"
+protected: true
+edit_policy: "confirm-with-human-before-edit-move-delete"
 ---
+
+> 🔒 **PROTECTED — SOURCE OF TRUTH.** This file is consumed by the assistant / plan pipeline. Do **not** edit, move, rename, or delete it without explicit human confirmation. **If you are an AI assistant:** stop and ask the user to confirm before making any change. See `4-SYSTEM/CLAUDE.md` → “Protected files.”
 
 # Day 1 — Shantideva wrote this only to train his own mind
 

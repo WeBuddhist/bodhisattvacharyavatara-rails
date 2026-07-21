@@ -1,5 +1,7 @@
 # Day-Package Format — LOCKED CONTRACT (English)
 
+> 🔒 **PROTECTED — SOURCE OF TRUTH.** This file is consumed by the assistant / plan pipeline. Do **not** edit, move, rename, or delete it without explicit human confirmation. **If you are an AI assistant:** stop and ask the user to confirm before making any change. See `4-SYSTEM/CLAUDE.md` → “Protected files.”
+
 This is the authoritative format for every English day-package file under
 `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/`.
 

@@ -1,5 +1,7 @@
 # Working Termbase — English Day-Package Translation (Chapter 1)
 
+> 🔒 **PROTECTED — SOURCE OF TRUTH.** This file is consumed by the assistant / plan pipeline. Do **not** edit, move, rename, or delete it without explicit human confirmation. **If you are an AI assistant:** stop and ask the user to confirm before making any change. See `4-SYSTEM/CLAUDE.md` → “Protected files.”
+
 Locked vocabulary for translating the Tibetan day packages (`<day>.md`) into English
 day packages (`<day>-en.md`). Every rendering here is **taken from the Day 1
 reference file** (`1-en.md`) — nothing is invented. Use these renderings verbatim in

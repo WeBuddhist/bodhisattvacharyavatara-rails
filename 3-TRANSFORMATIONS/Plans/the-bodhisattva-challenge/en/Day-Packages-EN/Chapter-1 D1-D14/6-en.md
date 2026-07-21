@@ -28,7 +28,11 @@ sources:
   rail_files:
     - "2-RAILS/Verses/1-15-summary.md"
     - "2-RAILS/Verses/1-16-summary.md"
+protected: true
+edit_policy: "confirm-with-human-before-edit-move-delete"
 ---
+
+> 🔒 **PROTECTED — SOURCE OF TRUTH.** This file is consumed by the assistant / plan pipeline. Do **not** edit, move, rename, or delete it without explicit human confirmation. **If you are an AI assistant:** stop and ask the user to confirm before making any change. See `4-SYSTEM/CLAUDE.md` → “Protected files.”
 
 # Day 6 — Wanting to go is not the same as going
 

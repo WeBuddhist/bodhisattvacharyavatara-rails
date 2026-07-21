@@ -101,7 +101,7 @@ status: draft
 
 …
 
-### ⚑ བར་འབྱོར་གྱི་མི་མཐུན་པ། (Divergences)
+### ⚑ འགྲེལ་ཚུལ་མི་མཐུན་པ། (Divergences)
 <Only present when commentaries genuinely disagree. Attribute each position to its registered_id; mark each with ⚑.>
 - **<id>:** <position> ⚑
 - **<id>:** <position> ⚑

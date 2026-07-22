@@ -126,14 +126,14 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-4]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 This support of leisure and opportunity is the unsurpassed basis for meditating on bodhicitta; it is extremely hard to find, and when found it is an excellent basis on which one can easily accomplish great aims, both temporary and ultimate. So now, while we have obtained this good support, we must make it meaningful — not squandering it through the laziness of procrastination or the ignorance of not knowing better. These days, among the many people in the world, very few have both faith in the Buddha's teaching and loving concern for others; so we should recognize how rare it is to have gained a human body with sound faculties and to have met the Dharma, and, casting off the discouragement of thinking "I can't do anything," strive to practice the Dharma as much as we can.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-4]]
 
 <!-- cm:kunpal -->
-##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
+##### Khenpo Kunzang Pelden (Nectar Drops)
 
 **Explaining the eight freedoms and ten riches.** Seeing that this excellent support — the perfect leisure that is freedom from the **eight unfree states**, and the **ten riches** (the five of oneself and the five from others) — is extremely **hard to find**; and that even when this body is found, it is supremely suited **to accomplish a person's aims,** higher rebirth and liberation. **If you do not accomplish something beneficial with it,** how **could you come by such a perfect endowment again?** So, having obtained it, one must not let the time slip idly away and waste it.
 
@@ -144,21 +144,21 @@ Dīpaṃkara [Atiśa] also said: "Life's span is short, and the things to be kno
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-4]]
 
 <!-- cm:gyaltsab -->
-##### gyaltsab — Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
+##### Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
 
 **Locating the passage within the text's outline.** From the standpoint of the structure, this shows how the meaning of the text's ten chapters accomplishes the generating, guarding, and increasing of bodhicitta, and its fruit. Both **leisure and opportunity** are explained. Leisure is freedom from the eight unfree states — [birth in] the hells, as a hungry ghost, as an animal, as a long-life god, as a barbarian, with wrong views, in a time empty of a buddha, and as one who is mute — the **eight freedoms**; and the **ten riches**, the five of oneself and the five from others, are explained at length. Because such a basis is **hard to find,** and even when found, if one does not accomplish something beneficial toward a person's aims, how could one come by it again? — thus he counsels us to generate bodhicitta, the valid measure of entering the path.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-4]]
 
 <!-- cm:ngulchu-thogmed -->
-##### ngulchu-thogmed — Ngulchu Thogme (Ocean of Good Explanations)
+##### Ngulchu Thogme (Ocean of Good Explanations)
 
 **Leisure and opportunity in brief.** In verse 4, for the **eight freedoms** he settles the wording by collating the scriptural lists of the learned and accomplished, and explains the **ten riches** as the five of oneself and the five from others. This is extremely hard to find; and if one does not accomplish something beneficial with it — as a sutra says, **"Make [this body] a vessel for virtue"** — one should, without wasting the opportunity of this life, strive to generate bodhicitta, the valid measure of entering the path.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-4]]
 
 <!-- cm:sabzang -->
-##### sabzang — Sabzang Mati Panchen (Clear Illumination)
+##### Sabzang Mati Panchen (Clear Illumination)
 
 **Prajñākaramati ⚑ cites at length in the great commentary** (⚑ ཤེས་རབ་འབྱུང་གནས་; identification of the commentator provisional):
 
@@ -193,7 +193,7 @@ A sutra says: "In the world it is hard to find; / a buddha's arising, too, is ve
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-4]]
 
 <!-- cm:minyak-kunzang-sonam -->
-##### minyak-kunzang-sonam — Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
+##### Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
 
 **How the human body is hard to find, at length.** He explains the **eight freedoms** — freedom from the eight unfree states — and the **ten riches** (five of oneself, five from others) at length. He shows the difficulty under four headings: its **cause** (⚑ the discipline of a pure [mental] continuum), its **scope** (a body superior to those of other realms), its **example** (the simile of the turtle's neck and the floating yoke), and its **number** (like the little that fits on a fingertip against the dust of the whole earth). ⚑ (The parenthetical glosses are terse in the source.)
 
@@ -204,7 +204,7 @@ Having thus shown how **the bodily support** is hard to find, the fifth verse th
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-4]]
 
 <!-- cm:khenpo-kunga -->
-##### khenpo-kunga — Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
+##### Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
 
 **The eighteen [factors of] leisure and opportunity, explained at length.** "**Leisure**" means having the occasion — being free from the eight unfree states. The **eight unfree states** are: the hells, hungry ghosts, animals, non-Buddhists, barbarians, the mute [or dull], [a time when] no buddha has come, and birth in the realm of the long-life gods. The **five riches of oneself**: born human, in a central land, with faculties complete, not reversed into wrong livelihood, and with faith in the [proper] ground. The **five riches from others**: a buddha has come, has taught the Dharma, the teaching remains, there are followers, and others benefit one out of loving concern — each explained in detail.
 
@@ -318,14 +318,14 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-5]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 From beginningless time, through the force of habituation to the afflictions, we spend most of the twenty-four hours of the day gripped by attachment, aversion, and confusion, carried along amid all sorts of wrongdoing and stray thoughts. In their midst, through outer and inner conditions, a mind of faith or a Dharma thought arises only now and then, for a moment — and even that is mostly difficult. Many people outwardly wear Dharma robes and call themselves practitioners, or sit fingering prayer beads reciting mani, but real virtue has to be accomplished within the mind; merely holding beads will not produce it. As Je Rinpoche said in the Great Treatise on the Stages of the Path, "there is no way to tame others while oneself is untamed" — taming oneself is extremely hard; and in the mind of someone who has neither known nor heard how things really are, all sorts of bad thoughts are bound to arise, so one must be watchful then.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-5]]
 
 <!-- cm:kunpal -->
-##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
+##### Khenpo Kunzang Pelden (Nectar Drops)
 
 **The example.** Just as, on a sunless night, in the moonless pitch dark, amid starless cloud-banks, a flash of lightning for a single instant reveals forms — **the meaning:** likewise, in this world that is like a night where the sun of omniscient wisdom has not risen, a darkness that does not know what to adopt and what to reject, a cloud-bank overcast by the three or five mental poisons, through the combined power of two forces — the light-rays of the buddhas' aspirations and one's own previously gathered merit — once in a great while, in the minds of ordinary worldly beings shrouded in the darkness of confusion, there arises a glimmer of the mind inclined to accomplish merit, a wish to strive for virtue. And since it comes only about once in a hundred or twice in a thousand times, not often and not for long, it is extremely rare.
 
@@ -334,14 +334,14 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-5]]
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-5]]
 
 <!-- cm:gyaltsab -->
-##### gyaltsab — Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
+##### Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
 
 *(Explained together with the sixth verse.)* Just as, on the pitch-dark night amid cloud-banks, a flash of lightning for a single instant reveals forms, so too, through the power of the buddhas, once in a great while a brief glimmer of the mind that wishes to accomplish merit for worldly beings arises, and does not arise continuously. For this very reason — recognizing that virtue is feeble and lasts only a moment, while wrongdoing is powerful and constant — one should strive to accomplish virtue and to abandon wrongdoing.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-5]]
 
 <!-- cm:ngulchu-thogmed -->
-##### ngulchu-thogmed — Ngulchu Thogme (Ocean of Good Explanations)
+##### Ngulchu Thogme (Ocean of Good Explanations)
 
 Explained under the heading **"the mental support, the mind of merit, is rare."** Just as, on a pitch-dark night amid cloud-banks, a flash of lightning for a single instant reveals forms, so too, through the power of the buddhas, once in a great while a brief glimmer of the mind that wishes to accomplish merit — virtue — arises in worldly beings dwelling in the darkness of the suffering caused by wrongdoing; and since it does not arise often or for long, one should strive to generate and increase the wish to accomplish virtue.
 
@@ -350,7 +350,7 @@ He also gives supplementary lines of his own intent: "Though endowed with the tw
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-5]]
 
 <!-- cm:sabzang -->
-##### sabzang — Sabzang Mati Panchen (Clear Illumination)
+##### Sabzang Mati Panchen (Clear Illumination)
 
 Under the heading **"reflecting that even a Dharma-inclined mind is rare":** just as, on a night after sunset with not even moonlight, in the deep gloom overcast by dense summer rain-clouds without even starlight, a flash of lightning for a brief instant clearly reveals some form — **the meaning:** through the power of the light-rays of the buddhas' compassion, once in a great while a glimmer of the mind of merit — the thought "I will enter the sublime Dharma for my own and others' sake" — may arise in worldly beings dwelling in samsara's darkness; but mostly it does not arise, and even when it does it does not last long, so it is extremely rare.
 
@@ -359,7 +359,7 @@ The *Heart of the Middle Way* (Madhyamaka-hṛdaya) says "...together with the l
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-5]]
 
 <!-- cm:minyak-kunzang-sonam -->
-##### minyak-kunzang-sonam — Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
+##### Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
 
 **Outline: second, the mental support.** After the bodily support, he shows how the mental support is rare.
 
@@ -377,7 +377,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-5]
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-5]]
 
 <!-- cm:khenpo-kunga -->
-##### khenpo-kunga — Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
+##### Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
 
 **Outline: second, showing how the mental support is hard to arise.**
 

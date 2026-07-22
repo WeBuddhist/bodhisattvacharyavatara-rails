@@ -140,28 +140,28 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-9]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 If the precious bodhicitta that cherishes others more than oneself should arise, then from the very first instant of its arising — even if, up to now, one had fallen under the power of karma and the afflictions, a wretched being confined in the prison of samsara, of lowly support, like an animal even — once the precious bodhicitta is born in one's mindstream, then although one may lack any [special] quality such as the view that realizes emptiness, and although in terms of one's support one may be a pitiable being like a destitute pauper, in that very instant of bodhicitta's birth one takes on the name "heir of the Blissful Ones," and in terms of one's standing, too, one becomes worthy to receive the homage of the world together with its gods. So he says.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-9]]
 
 <!-- cm:kunpal -->
-##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
+##### Khenpo Kunzang Pelden (Nectar Drops)
 
 This is the second [benefit]: the benefit whereby one's name and standing change. Whatever the body — male or female — whatever the age — old or young — and whatever the family — high or low — the very moment this precious bodhicitta is born in one's own mindstream, in that single instant this person, who was but a body [confined] in the prison of samsara, at one stroke undergoes a change of name: the crown-ornament of a name is conferred, and they come to be spoken of as "an heir of the Blissful Ones, a bodhisattva." And they undergo a change of standing: no longer merely a god, demigod, or human, they become one to whom the world with its gods and humans pays homage — for bodhicitta is the very teacher (source) of all the buddhas. So it says.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-9]]
 
 <!-- cm:khenpo-zhengah -->
-##### khenpo-zhengah — Zhenphen Jampé Gocha (annotation commentary)
+##### Zhenphen Jampé Gocha (annotation commentary)
 
 *[The annotation commentary for this verse was already given above, under the Interlinear Gloss.]*
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-9]]
 
 <!-- cm:gyaltsab -->
-##### gyaltsab — Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
+##### Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
 
 Here again the second benefit — the change of name and standing — is set out in two parts.
 
@@ -172,21 +172,21 @@ Here again the second benefit — the change of name and standing — is set out
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-9]]
 
 <!-- cm:ngulchu-thogmed -->
-##### ngulchu-thogmed — Ngulchu Thogme (Ocean of Good Explanations)
+##### Ngulchu Thogme (Ocean of Good Explanations)
 
 This is the fourth point: the transference of name and standing. The very moment bodhicitta is born in one's own mindstream, in a single instant — without regard to the body being male or female, age old or young, or family good or bad — one's name changes; and without regard to one's connection with disciples and so forth,⚑ one comes to be spoken of as "an heir of the Blissful Ones." One's standing changes as well: one becomes worthy to receive the homage of the world with its gods and humans.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-9]]
 
 <!-- cm:sabzang -->
-##### sabzang — Sabzang Mati Panchen (Clear Illumination)
+##### Sabzang Mati Panchen (Clear Illumination)
 
 This is the second point: how one becomes an heir of the victors. The very moment bodhicitta is born in one's own mindstream — without regard to the body being male or female, age old or young, or family good or bad — in a single instant one's name changes; and without regard to one's connection with disciples and so forth,⚑ one attains the name "heir of the Blissful Ones." One's standing changes as well: on every ground one becomes worthy to receive the homage of the world with its gods and humans.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-9]]
 
 <!-- cm:minyak-kunzang-sonam -->
-##### minyak-kunzang-sonam — Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
+##### Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
 
 **The change of name:** the very moment bodhicitta is born in one's own mindstream, in a single instant, the wretched being who was bound in the prison of samsara by desire and the rest — without regard to the body being male or female and so on — comes to be spoken of as "an heir of the Blissful Ones."
 
@@ -195,7 +195,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-9]
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-9]]
 
 <!-- cm:khenpo-kunga -->
-##### khenpo-kunga — Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
+##### Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
 
 This is the second point: the benefit distinguished by both name and standing.
 
@@ -324,14 +324,14 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 That a being dwelling in a support such as this — the present body, a gross aggregate of flesh and bone, an impure support — could become the body of a buddha, endowed with every quality, its every fault exhausted, adorned with the major and minor marks: this seems almost beyond the mind's grasp. If one asks by what condition and by what means this is accomplished — it is accomplished by that bodhicitta which cherishes others more than oneself. Because it is in dependence on this bodhicitta that the precious body of a victor — beyond all price, adorned with the marks and signs — is attained upon the basis of an impure body such as this, hold this very bodhicitta utterly firm. So he says.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-10]]
 
 <!-- cm:kunpal -->
-##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
+##### Khenpo Kunzang Pelden (Nectar Drops)
 
 The third point has three parts: showing, by the simile of the gold-making elixir, that buddhahood is attained; showing, by the simile of the precious jewel, that its purpose is great; and showing, by the simile of the fruit-bearing tree, that it benefits other beings. Here is the first — showing, by the simile of the gold-making elixir, that buddhahood is attained.
 
@@ -342,42 +342,42 @@ The simile is the gold-making elixir; what it illustrates is bodhicitta; and the
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-10]]
 
 <!-- cm:khenpo-zhengah -->
-##### khenpo-zhengah — Zhenphen Jampé Gocha (annotation commentary)
+##### Zhenphen Jampé Gocha (annotation commentary)
 
 *[The annotation commentary for this verse was already given above, under the Interlinear Gloss. The citation from the Noble Maitreya's Liberation (Āryamaitreyavimokṣa) is a direct scriptural citation, given under Scriptural Quotations.]*
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]]
 
 <!-- cm:gyaltsab -->
-##### gyaltsab — Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
+##### Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
 
 This is the third point — showing the benefit by similes; and the first of these, the turning of the inferior into the supreme by the simile of the gold-making elixir. The simile is the gold-making elixir. Taking as an example what is told in the *Gaṇḍavyūha* — that the elixir called "mercury that appears as gold," with a single measure, can transform a thousand measures of iron into gold — [he shows that] bodhicitta, the thing illustrated, can transform this impure body into the body of a victor, making it priceless. Therefore hold it utterly firm and unwavering.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-10]]
 
 <!-- cm:ngulchu-thogmed -->
-##### ngulchu-thogmed — Ngulchu Thogme (Ocean of Good Explanations)
+##### Ngulchu Thogme (Ocean of Good Explanations)
 
 This is the fifth point — praising the benefit by similes, in six parts; and the first, showing, by the simile of the gold-making elixir, the turning of the inferior into the supreme. Just as the supreme gold-making elixir can, with a single measure, transform a thousand measures of iron into gold, so bodhicitta takes up this impure body and can transform it into the body of a victor, beyond all price. Therefore one should hold it utterly firm and unwavering. *[The citation from the Gaṇḍavyūha → see under Scriptural Quotations.]*
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-10]]
 
 <!-- cm:sabzang -->
-##### sabzang — Sabzang Mati Panchen (Clear Illumination)
+##### Sabzang Mati Panchen (Clear Illumination)
 
 This is the third point — the first, praising by the simile of the gold-making elixir. Like the supreme kind of gold-making elixir, bodhicitta — which takes up this body, impure by nature, and transforms it into the Form Body of a victor, precious and beyond all price — should be held utterly firm and unwavering, just as it was first taken up. *[The citation from the Gaṇḍavyūha → see under Scriptural Quotations.]*
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-10]]
 
 <!-- cm:minyak-kunzang-sonam -->
-##### minyak-kunzang-sonam — Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
+##### Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
 
 This is the third point — praising the benefit by similes, in three parts; and the first, the simile of the gold-making elixir. As to the distinctions among the three grades of gold-making elixir: with the lowest grade, one measure transforms one measure of iron into gold; with the middling grade, one measure transforms a hundred measures of iron into gold; and with the supreme gold-making elixir, one measure can transform a thousand measures of iron into gold. In just this way, bodhicitta — like the supreme kind of gold-making elixir — takes up this impure body and can transform it into the body of a victor, beyond all price. Therefore hold it utterly firm and unwavering. *[The citation from the Gaṇḍavyūha and the Questions of Vīradatta⚑ → see under Scriptural Quotations.]*
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-10]]
 
 <!-- cm:khenpo-kunga -->
-##### khenpo-kunga — Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
+##### Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
 
 This is the third point — the first, praising by the simile of the gold-making elixir. Like the supreme kind of gold-making elixir, which with a single measure can transform a thousand, bodhicitta too takes up this impure body and transforms it into the Form Body of a victor, beyond all price. Therefore hold it firm and unwavering. *[The classification of the three kinds of gold-making elixir and the key points of the citations → see under Scriptural Quotations.]*
 
@@ -511,14 +511,14 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-11]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 The sole guide of beings — the one and only guide who shows wandering beings the excellent path to temporary and ultimate benefit and happiness — is the Buddha, the Blessed One; and "with measureless intelligence" means that with his ultimate wisdom, to which nothing is an obstacle, he saw and examined thoroughly. When he did so, he found that there is nothing higher than the precious bodhicitta — the unsurpassed means, beyond all price, which single-pointedly gives beings happiness for the present and accomplishes the state of unsurpassed perfect awakening in the end. Therefore those who wish to be free from the state of wandering beings — the abodes of the six classes — must hold well and firm this precious bodhicitta, beyond all price. So he says.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-11]]
 
 <!-- cm:kunpal -->
-##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
+##### Khenpo Kunzang Pelden (Nectar Drops)
 
 This is the second point — showing, by the simile of the precious jewel, that its purpose is great. *(Stanzas 1-10, 1-11, and 1-12 are strung together as one; here is the opening explanation of the precious-jewel simile.)*
 
@@ -527,28 +527,28 @@ As to the meaning of this second point: just as a supremely skilled caravan-lead
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-11]]
 
 <!-- cm:gyaltsab -->
-##### gyaltsab — Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
+##### Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
 
 This is the second point. Those who wish to be free from every ruin of samsara — the state of wandering beings — should give rise well to the precious bodhicitta, like the king of wish-granting jewels, and hold it firm, never letting it decline. Just as a skilled caravan-leader guides merchants to the isle of jewels, so the sole, matchless guide of beings — the Buddha, endowed with measureless intelligence — when he examined thoroughly and well what is the supreme means to dispel the poverty of beings, saw that this very bodhicitta is precious, because it is rare and of great benefit.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-11]]
 
 <!-- cm:ngulchu-thogmed -->
-##### ngulchu-thogmed — Ngulchu Thogme (Ocean of Good Explanations)
+##### Ngulchu Thogme (Ocean of Good Explanations)
 
 This is the second point — showing, by the simile of the precious jewel, that bodhicitta is hard to find and of great value. The sole guide who leads all beings to the city of liberation and joins them to the wealth of [spiritual] qualities — the matchless one — is the Buddha, whose knowledge pervades the whole of the knowable and cannot be measured by any other. With his measureless intelligence, when he examined phenomena thoroughly, he saw that this bodhicitta is rare and of great benefit, and therefore precious. As the *Gaṇḍavyūha* says: "Just as, among all riches, the king of jewels is the most precious, so, for as long as the wisdom of the omniscient ones illumines the sphere of reality, the roots of virtue — contaminated and uncontaminated — of all gods and humans and of all the shravakas and pratyekabuddhas, however many there be, cannot match the price of the jewel that is the generation of bodhicitta." (→ see under Scriptural Quotations.) Therefore those who wish to be free from the state of suffering, wandering beings, should hold well and firm the precious bodhicitta.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-11]]
 
 <!-- cm:sabzang -->
-##### sabzang — Sabzang Mati Panchen (Clear Illumination)
+##### Sabzang Mati Panchen (Clear Illumination)
 
 This is the second point — praising by the simile of the precious jewel. Just as merchants treasure a jewel that a skilled caravan-leader has examined well, so — regarding the matchless, sole caravan-leader who ferries the boundless host of beings across the ocean of samsara, the perfect Buddha, who examines thoroughly with the measureless intelligence of his wisdom — beings who wish to be free from the ocean of samsara, the state in which the six classes of wandering beings undergo their manifold sufferings, should, with great reverence, hold well and firm — unwavering — this bodhicitta, which is like a precious wish-fulfilling jewel, hard to find and endowed with perfect qualities; for the Buddha knows it to be of great value, and there is no error in what the Buddha discerns. As the sutra says: "Whatever roots of virtue, contaminated or uncontaminated, all beings and the shravakas and pratyekabuddhas possess, however many there be — all of them together cannot match the price of the great precious jewel, the king of wish-granting jewels, that is the generation of the mind set on awakening." (→ see under Scriptural Quotations.)
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-11]]
 
 <!-- cm:minyak-kunzang-sonam -->
-##### minyak-kunzang-sonam — Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
+##### Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
 
 This is the second point — showing, by the simile of the precious jewel, that its purpose is great. Just as a caravan-leader skilled in means and endowed with intelligence, having no wish to deceive others and full of the intention to help, leads merchants to the isle of jewels and, having examined the heaps of jewels well, takes them up — whereupon the merchants treasure those jewels — so the matchless, sole caravan-leader who ferries the boundless host of beings across the ocean of existence by his many skillful deeds, leading them each according to their fortune to the city of liberation and joining them to the precious wealth of [spiritual] qualities — namely the perfect Buddha, who possesses the intelligence that directly and measurelessly knows every aspect of the knowable, is free of all not-knowing, and unwaveringly accomplishes nothing but benefit and happiness — when with diligence he examined phenomena thoroughly and well, saw that this bodhicitta alone is, from the side of its qualities, rare and of great value and of very great benefit. And since there is no error in what the Buddha discerns, those who wish to be free from every ruin of the six classes of wandering beings' manifold sufferings, and who wish to enjoy the vast happiness of higher states and definite goodness, should first give rise well to this precious bodhicitta — like the king of wish-granting jewels, hard to find and, once found, of great purpose — and then, with a caring and cherishing attitude, hold it firm and undeclining.
 
@@ -557,7 +557,7 @@ As the sutra says (from the *Gaṇḍavyūha*): "Son of good family, it is like 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-11]]
 
 <!-- cm:khenpo-kunga -->
-##### khenpo-kunga — Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
+##### Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
 
 This is the second point — showing, by the simile of the precious jewel, that its purpose is great. "Guide of beings" is generally a name given to a caravan-leader who, having lashed together a boat, crosses to the far shore of the ocean to fetch precious jewels. Here it is applied to the Buddha: the guide who leads wandering beings across the great ocean of samsara — the three realms — to the far shore of liberation and the state of omniscience is the perfect Buddha. He alone, with his measureless and profound wisdom, when he examined and analyzed thoroughly and well, saw that this generation of bodhicitta is like the precious wish-fulfilling jewel — the source of all that is needed and desired — of very great value. Therefore those persons who wish to be free from the state of wandering beings, the great ocean of samsara that is the three realms, should give rise to this bodhicitta, like the wish-fulfilling jewel that grants all needs and wishes, and hold it well — utterly firm, tightly, never letting it slip — just as they first promised and vowed. So he counsels.
 

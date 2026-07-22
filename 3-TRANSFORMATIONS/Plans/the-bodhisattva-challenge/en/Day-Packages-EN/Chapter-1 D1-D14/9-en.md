@@ -131,28 +131,28 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 Thus, holding others dearer than oneself from the depths of the heart, one gives rise to the intention that wishes to set all beings equal to endless space in lasting happiness, free from all suffering — to set others in the ultimate, unsurpassed happiness, complete awakening. As for the means of accomplishing this, however much hardship it takes, and however long it may require, if such a good-hearted courage arises that does not have even a hair's tip of discouragement, benefits like these come about — but such a good mind is exceedingly rare to arise, he says. In the world, though a parent's love for their own child is among the greatest kinds of love, even such a good mind is hard to give rise to; and in the gods, sages, Brahmā, and the rest who are renowned as great in the world, there is no way for such a mind to arise at all. This is why the words "does even Brahmā have this?" are framed as a rhetorical question that negates [it].
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-23]]
 
 <!-- cm:kunpal -->
-##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
+##### Khenpo Kunzang Pelden (Nectar Drops)
 
 Even the intention held to be good in the world — that of a **father or mother** — extends only to wishing that their own child be long-lived, free of illness, wealthy, powerful, and so on. But apart from a bodhisattva, in **whom** is there a bodhicitta, **a kind wish like this** — thinking, "How good it would be if this being attained the state of buddhahood"? There is none. If one thinks, "They lack it only because they do not know," then even the **gods** endowed with the five higher perceptions, and the **sages** who know the eighteen great fields of knowledge, lack such an intention. And if one thinks, "They lack it because they have no wish to benefit others," then even **Brahmā** — who abides in the four Brahmā-abodes, wishing his subjects to have happiness and be free of suffering — does he have this bodhicitta that wishes [beings] to attain buddhahood? He does not.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]
 
 <!-- cm:gyaltsab -->
-##### gyaltsab — Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
+##### Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
 
 Where is there a kind wish like this in the world? In a father or a mother who wishes to benefit their child, or in any other person, where is there such a kind wish — one that accomplishes the supreme happiness [of buddhahood] for them? Even in the gods, and in the sages who speak the truth, and even in Brahmā who abides in the four boundless states, there is no kind wish like this.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]
 
 <!-- cm:ngulchu-thogmed -->
-##### ngulchu-thogmed — Ngulchu Thogme (Ocean of Good Explanations)
+##### Ngulchu Thogme (Ocean of Good Explanations)
 
 *[Grouping note: in this commentary verses 1-23, 1-24, and 1-25 are explained together; the prose follows all three verse transclusions. As 1-23 is the first verse in the group, the full grouped prose is given here. See Verse 1-24 and Verse 1-25 for cross-references.]*
 
@@ -161,14 +161,14 @@ Whether father or mother, or [any] kinsman and friend — in whom is there a kin
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]
 
 <!-- cm:sabzang -->
-##### sabzang — Sabzang Mati Panchen (Clear Illumination)
+##### Sabzang Mati Panchen (Clear Illumination)
 
 Whether the father, mother, sibling, or friend who wishes to benefit each worldly [relation] — in what person is there a kind wish like this, one that wishes to set all beings in the great awakening? There is none. And in those who wish benefit in a general way — the world-guardian gods, and the sages who speak the truth, and even Brahmā, who has trained in the four boundless states and is held to be the forefather of all — is there a kind wish like this, or not? There is not.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]
 
 <!-- cm:minyak-kunzang-sonam -->
-##### minyak-kunzang-sonam — Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
+##### Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
 
 *[Grouping note: in this commentary verses 1-23 and 1-24 are explained together; 1-23 is the first verse, so the full grouped prose is given here (and includes the *Mahāyānasūtrālaṃkāra* quotation, which covers both verses). See Verse 1-24 for cross-reference.]*
 
@@ -179,7 +179,7 @@ Why does such a kind wish not arise in them? Because — never mind [wishing it]
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]
 
 <!-- cm:khenpo-kunga -->
-##### khenpo-kunga — Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
+##### Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
 
 Whether it be a father who loves one dearly and holds one close, or a mother — that is, parents and siblings, endowed with a good heart that holds one dear — in whom is there a beneficial intention, a mind like this generation of bodhicitta, that wishes to set [beings] in, or attain, such a state of unsurpassed, perfect awakening? There is none. In one's innate or accompanying gods, and in the truth-speaking sages, and likewise in a great Brahmā who has trained his mind in the boundless states — even in them, is there such a good intention, wishing to set [beings] in the state of perfect awakening, the fruit? [No] — such a thing they cannot so much as call to mind.
 
@@ -295,28 +295,28 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 Thus, even in Brahmā and Indra and the rest, renowned as great in the world, such a mind cannot arise. Why? Because if, even for their own sake, they cannot give rise to the pursuit of the state of buddhahood — in which every fault is exhausted and every quality complete — being held back by discouragement and the like, then what need is there to speak of a mind wishing to set all beings equal to space in such a state?
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-24]]
 
 <!-- cm:kunpal -->
-##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
+##### Khenpo Kunzang Pelden (Nectar Drops)
 
 In **those very beings** — father and mother, gods, sages, Brahmā, and the rest — such a special mind, wishing even **for their own sake** to attain buddhahood, has never even been dreamed, let alone arisen; and if it has never occurred even in **a dream,** then **how could** such a mind **arise for the sake of others?** It could not; its arising would be unreasonable.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]
 
 <!-- cm:gyaltsab -->
-##### gyaltsab — Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
+##### Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
 
 If, in those very beings, such a kind wish has never even been dreamed for their own sake, how could it directly arise for the sake of others? It never has.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]
 
 <!-- cm:ngulchu-thogmed -->
-##### ngulchu-thogmed — Ngulchu Thogme (Ocean of Good Explanations)
+##### Ngulchu Thogme (Ocean of Good Explanations)
 
 *[Grouping note: verses 1-23, 1-24, and 1-25 are explained together here; 1-24 is not the first verse. The full grouped prose, which covers this verse's content, is in Verse 1-23 above.]*
 
@@ -325,14 +325,14 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]
 
 <!-- cm:sabzang -->
-##### sabzang — Sabzang Mati Panchen (Clear Illumination)
+##### Sabzang Mati Panchen (Clear Illumination)
 
 The reason [for this] is that if, in those ordinary beings, such a special mind has never even been dreamed for their own sake, let alone arisen, then how — in the wakeful state, for the sake of all other beings — could it arise? Because it is extremely hard to arise.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]
 
 <!-- cm:minyak-kunzang-sonam -->
-##### minyak-kunzang-sonam — Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
+##### Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
 
 *[Grouping note: verses 1-23 and 1-24 are explained together here; 1-24 is not the first verse. The full grouped prose, which covers this verse's content and includes the *Mahāyānasūtrālaṃkāra* quotation, is in Verse 1-23 above.]*
 
@@ -341,7 +341,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]
 
 <!-- cm:khenpo-kunga -->
-##### khenpo-kunga — Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
+##### Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
 
 In those very beings mentioned above — one's own parents, gods, sages, Brahmā, and the rest — this good mind, wishing even for their own individual sake to attain the state of unsurpassed, perfect awakening, is something that has not been recalled by day, nor even dreamed of by night; and if it is like that, how could such a good intention arise for the sake of other beings? It could not.
 
@@ -445,28 +445,28 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 Thus, [as for] others such as Brahmā and Indra — a mind that wishes to remove immeasurable faults and accomplish immeasurable qualities cannot arise even when aimed at their own sake — that this unsurpassed, special, precious mind should be born in one's own continuum is [what he means by] "born as an unprecedented marvel": it is a way of being amazed at oneself, he says.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-25]]
 
 <!-- cm:kunpal -->
-##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
+##### Khenpo Kunzang Pelden (Nectar Drops)
 
 In **others,** such as the gods — never mind [wishing it] for others' sake, since it does **not arise even for their own sake** — this bodhicitta, whatever mind **thinks of the aim** of all **beings, is** a **jewel of a mind:** among [all] thoughts, this **special,** exalted thought, like a jewel — that it **is born** in one's own continuum as **an unprecedented marvel,** something never before arisen — comes about now through hearing the Dharma of the Great Vehicle and through the power of a spiritual friend, and its arising in one's own continuum is like a heavenly wish-granting tree springing up in the human world.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]
 
 <!-- cm:gyaltsab -->
-##### gyaltsab — Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
+##### Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
 
 In bodhisattvas — in whom, [a mind that] does not arise for even an instant in others even for their own sake [now arises] — whatever mind wishes to attain buddhahood for the sake of accomplishing the happiness and removing the suffering of absolutely all beings, this special, exalted jewel of a mind, is born as an unprecedented, wondrous marvel; and others too should hold it as a wonder and strive [for it].
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]
 
 <!-- cm:ngulchu-thogmed -->
-##### ngulchu-thogmed — Ngulchu Thogme (Ocean of Good Explanations)
+##### Ngulchu Thogme (Ocean of Good Explanations)
 
 *[Grouping note: verses 1-23, 1-24, and 1-25 are explained together here; 1-25 is not the first verse. The full grouped prose, which covers this verse's content, is in Verse 1-23 above.]*
 
@@ -475,21 +475,21 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]
 
 <!-- cm:sabzang -->
-##### sabzang — Sabzang Mati Panchen (Clear Illumination)
+##### Sabzang Mati Panchen (Clear Illumination)
 
 Whatever mind wishes to attain buddhahood for the sake of all beings — a mind that, in any other person, does not arise even for their own sake, let alone for the sake of others — whoever's continuum it is born in, that [mind] becomes like a special, exalted wish-fulfilling jewel from which all one's needs and wishes arise. This is a wondrous distinction never before present in other beings, born in a bodhisattva; so [such a one] will certainly attain great benefit.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]
 
 <!-- cm:minyak-kunzang-sonam -->
-##### minyak-kunzang-sonam — Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
+##### Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
 
 Thus, if in other ordinary beings it does not arise even for a moment — never mind for the sake of others, even for the sake of oneself and one's own kin and friends — then whatever mind thinks solely of the aim of beings, wishing, "May I attain buddhahood in order to remove the suffering of all beings and accomplish their happiness," this special, exalted jewel of a mind, like a wish-fulfilling gem that is the source of all one's needs and wishes, is an unprecedented marvel: since it has never before arisen, it is a wondrous thing. Thinking, "Why has such a special mind been born [in me]?", one should, if it has arisen in one's own continuum, meditate on joy; and, holding its arising in others as a wonder, one should strive to increase that very [mind] in one's own and others' continuums. [Minyak also says that] without bodhicitta, even the direct realization of emptiness does not become the practice of the path of the Great Vehicle.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]
 
 <!-- cm:khenpo-kunga -->
-##### khenpo-kunga — Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
+##### Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
 
 As explained above, in others — one's own parents, or gods, sages, Brahmā, and the rest — such an intention, [wishing] to attain the state of perfect awakening even for their own sake, does not arise. Yet in one's own continuum, now, through the power of dependent conditions, this mind — this good intention wishing to attain the state of a perfect buddha for the sake of other beings, called "generating bodhicitta" — arises as, among [all] minds, a mind like a wish-fulfilling jewel, the source of all one's needs and wishes, a special and exalted one. Its arising now, when such a good intention never before arose in my continuum, suddenly, through the power of the compassionate blessing of the divine Three Jewels and the guru — this is the birth of an unprecedented, wondrous thing. For example, if a heavenly wish-granting tree, which grows in the realm of the gods, were suddenly to spring up in a filthy heap of refuse in our own town, everyone would treat it as a marvel; likewise, in the continua of all of us, which since beginningless lifetimes have become like a filthy heap — a tangle of the afflictions: desire, hatred, jealousy, rivalry, pride, and the rest — that the precious jewel of generating bodhicitta, like a wish-fulfilling gem or a wish-granting tree, is born: reflecting on this, one meditates on joy.
 

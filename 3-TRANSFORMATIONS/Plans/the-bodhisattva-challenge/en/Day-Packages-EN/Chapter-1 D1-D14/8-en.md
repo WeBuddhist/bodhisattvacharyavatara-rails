@@ -131,49 +131,49 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 Thus, the reason such benefits arise is taught in the Sūtra Requested by Subāhu: that if some beings of indefinite shravaka and pratyekabuddha family, in order to turn back their devotion to the lesser path, generate the mind toward supreme awakening, benefits like these follow. And not only that — if one examines with reasoning, there are further reasons too, he says.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-20]]
 
 <!-- cm:kunpal -->
-##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
+##### Khenpo Kunzang Pelden (Nectar Drops)
 
 That the engaging vow, once obtained and unimpaired, carries such benefit — this is taught with four reasonings, because whether one considers the number of beings it is aimed at, the varieties of suffering to be removed, the qualities of buddhahood to be attained, or the length of time in eons, [the merit] is immeasurable. So, in the Sūtra Requested by the Bodhisattva Subāhu, the Tathāgata himself taught it — not merely as a turn of phrase, but so that beings devoted to the lesser path of the shravakas and pratyekabuddhas would truly see and know the certain qualities and benefits of bodhicitta.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]
 
 <!-- cm:gyaltsab -->
-##### gyaltsab — Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
+##### Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
 
 This engaging mind is endowed with those benefits — [a point] established with reasoning; and the Tathāgata himself taught it in the Sūtra Requested by the Bodhisattva Subāhu. For whose sake? For the sake of beings of indefinite shravaka family who, frightened at amassing the vast accumulations, turn their minds away from the Great Vehicle and pursue only the awakening of the shravakas, devoted to the lesser — that is, in order to turn back their devotion to the lesser and set them in the Great Vehicle, he taught it.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]
 
 <!-- cm:ngulchu-thogmed -->
-##### ngulchu-thogmed — Ngulchu Thogme (Ocean of Good Explanations)
+##### Ngulchu Thogme (Ocean of Good Explanations)
 
 That much merit arises from engaging [bodhicitta] — this, with reasoning, the Tathāgata himself taught in the Sūtra Requested by Subāhu, for the sake of leading beings devoted to the lesser vehicle into the Great Vehicle.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]
 
 <!-- cm:sabzang -->
-##### sabzang — Sabzang Mati Panchen (Clear Illumination)
+##### Sabzang Mati Panchen (Clear Illumination)
 
 That merit flows continuously from the engaging mind-generation — this, with its reasons, the noble *Sūtra Requested by Subāhu* [sets out]: for whose sake? — for the sake of arousing enthusiasm for the Great Vehicle in beings devoted to the lesser vehicle; and by whom? — it was taught by the Buddha himself, who has "gone" [into awakening] endowed with the twice-pure suchness.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]
 
 <!-- cm:minyak-kunzang-sonam -->
-##### minyak-kunzang-sonam — Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
+##### Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
 
 That merit arises continuously from the engaging mind-generation, which makes practice its essence — this, as an establishing reasoning, is taught in the sūtra called *Requested by the Bodhisattva Subāhu.* For whose sake was it taught? Some shravaka-family beings of indefinite type, frightened and terrified at having to amass the vast accumulations, turn their devotion away from the Great Vehicle and wish to generate the mind on the lesser path of the shravakas; to turn back their devotion to the lesser and set them on the path of the Great Vehicle, the Tathāgata himself taught it.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]
 
 <!-- cm:khenpo-kunga -->
-##### khenpo-kunga — Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
+##### Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
 
 That there is immeasurable merit in generating the mind toward supreme awakening — this, with reasons, [is shown thus]: in that very sūtra, the *Sūtra Requested by the youthful Bodhisattva Subāhu,* those beings of indefinite family devoted to the lesser vehicle are addressed for the sake of being drawn upward onto the path of the Great Vehicle; and the Tathāgata, the perfect Buddha, spoke it directly from his own mouth. He establishes this chiefly by way of scripture.
 
@@ -281,7 +281,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]
 #### Commentary Explanations
 
 <!-- cm:kunpal -->
-##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
+##### Khenpo Kunzang Pelden (Nectar Drops)
 
 Second, establishing it by reasoning has two parts: establishing the benefits of the aspiring mind by reasoning, and establishing the benefits of the engaging mind by reasoning. First: although the presentation of its cause and effect is an extremely hidden matter — the sphere of an omniscient buddha alone and not of others, so that, strictly, it should be adopted with confidence in the pure word of the Victor rather than established by reasoning — nevertheless, since the benefits of bodhicitta are exceedingly vast and are praised again and again by the Victor, they can also be established by reasoning if one sets out to do so; and so he establishes them by reasoning.
 
@@ -292,7 +292,7 @@ Thus, with a mind of compassion, even if one merely thinks, "I will cure by medi
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]
 
 <!-- cm:gyaltsab -->
-##### gyaltsab — Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
+##### Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
 
 *[Grouping note: here verses 1-21 and 1-22 are explained together. The wording below covers both, and this way of establishing by reasoning is completed in verse 1-22; see also Verse 1-22.]*
 
@@ -301,7 +301,7 @@ Like the merchant-chief's friend's daughter, even if one thinks, "I will cure th
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]
 
 <!-- cm:ngulchu-thogmed -->
-##### ngulchu-thogmed — Ngulchu Thogme (Ocean of Good Explanations)
+##### Ngulchu Thogme (Ocean of Good Explanations)
 
 *[Grouping note: verses 1-21 and 1-22 are explained together here; the wording covers both.]*
 
@@ -310,7 +310,7 @@ Even if, with a mind of compassion, one merely thinks, "I will cure by medicine 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]
 
 <!-- cm:sabzang -->
-##### sabzang — Sabzang Mati Panchen (Clear Illumination)
+##### Sabzang Mati Panchen (Clear Illumination)
 
 *[Grouping note: verses 1-21 and 1-22 are explained together here; the wording covers both, and the story of the merchant-chief's friend's daughter is included.]*
 
@@ -319,7 +319,7 @@ Long ago, one called the merchant-chief's friend's daughter, having struck her m
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]
 
 <!-- cm:minyak-kunzang-sonam -->
-##### minyak-kunzang-sonam — Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
+##### Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
 
 *[Grouping note: verses 1-21 and 1-22 are explained together here; the wording covers both. The merchant-chief's friend's daughter's story is not told in full here, only mentioned above.]*
 
@@ -328,7 +328,7 @@ If, with a mind of compassion, an unselfish thought arises — "I will cure by m
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]
 
 <!-- cm:khenpo-kunga -->
-##### khenpo-kunga — Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
+##### Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
 
 Joining it with the story of the merchant-chief's friend's daughter: long ago there was one called the merchant-chief's friend's daughter … In the end, when she saw an iron burning wheel spinning on the heads of some limited hell-beings, [she understood] that this was the ripening of her own former deed of disrespectfully striking [her mother's] head with her foot; and she gave rise to a good thought: "Even if it ripens upon me, may all the suffering of these other hell-beings — whose heads ache from the spinning iron wheel — be stilled, and may I alone bear it in their stead." The moment she generated that good thought, the iron wheel descended onto her own head; and merely by its spinning, she died and was immediately reborn in the realm of the Thirty-Three gods. This is the Teacher's birth-story that comes from a sūtra. When the merchant-chief's daughter gave rise to that good thought — "may the mere headache of other beings be cured, may it be gone" — even that was endowed with a very beneficial good intention; and immediately the obscuration of the ripening of her bad deed of striking her mother's head was purified, and through a boundless heap of merit she died and was reborn among the Thirty-Three — such was the immeasurable merit she came to possess.
 
@@ -451,7 +451,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 As told in the story of the merchant-chief's friend's daughter, even giving rise to the good thought of wishing to relieve a particular kind of a being's suffering — a headache or a sore head — brought great benefit, as the account shows. Here, [the point] is not the identifying of some particular suffering of all beings equal to space, but wishing to remove suffering in its entirety, and wishing to accomplish [for beings] the immeasurable qualities of the buddha-grounds: if such a mind arises, that immeasurable merit arises — what need is there even to speak of it?
 
@@ -460,42 +460,42 @@ As told in the story of the merchant-chief's friend's daughter, even giving rise
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-22]]
 
 <!-- cm:kunpal -->
-##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
+##### Khenpo Kunzang Pelden (Nectar Drops)
 
 Bodhisattvas wish to remove, without exception, all the discomfort — the suffering of this life and the next — of each and every being equal to space, individually; and they wish to establish each of them in the immeasurable temporary and ultimate qualities. Of the immeasurable merit that comes to those [bodhisattvas], what need is there even to speak?
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]
 
 <!-- cm:gyaltsab -->
-##### gyaltsab — Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
+##### Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
 
 *[Grouping note: this commentary explains verses 1-21 and 1-22 together; the full word-commentary is placed under gyaltsab in Verse 1-21. This verse completes the emphatic-manner conclusion that compares the prayer focused on a few beings with the prayer focused on measureless beings.]*
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]
 
 <!-- cm:ngulchu-thogmed -->
-##### ngulchu-thogmed — Ngulchu Thogme (Ocean of Good Explanations)
+##### Ngulchu Thogme (Ocean of Good Explanations)
 
 *[Grouping note: this commentary explains verses 1-21 and 1-22 together; the full word-commentary is placed under ngulchu-thogmed in Verse 1-21.]*
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]
 
 <!-- cm:sabzang -->
-##### sabzang — Sabzang Mati Panchen (Clear Illumination)
+##### Sabzang Mati Panchen (Clear Illumination)
 
 *[Grouping note: this commentary explains verses 1-21 and 1-22 together; the full word-commentary, including the whole merchant-chief's friend's daughter's story, is placed under sabzang in Verse 1-21.]*
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]
 
 <!-- cm:minyak-kunzang-sonam -->
-##### minyak-kunzang-sonam — Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
+##### Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
 
 *[Grouping note: this commentary explains verses 1-21 and 1-22 together; the full word-commentary is placed under minyak-kunzang-sonam in Verse 1-21.]*
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]
 
 <!-- cm:khenpo-kunga -->
-##### khenpo-kunga — Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
+##### Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
 
 Aroused by the good intention of generating bodhicitta, the bodhisattva wishes to remove all the immeasurable — indeed countless — discomfort or suffering present in the body and mind of each and every being throughout space; and he wishes to accomplish, in the continuum of each of those beings, the immeasurable qualities — the temporary and ultimate fruit, the happiness of higher states and definite goodness. That such bodhisattvas come to attain, in their continuum, an immeasurable and uncountable merit of mind-generation — what need is there even to speak of it?
 

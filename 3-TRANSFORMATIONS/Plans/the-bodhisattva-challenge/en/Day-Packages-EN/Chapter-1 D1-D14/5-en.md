@@ -137,14 +137,14 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-12]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 With roots of virtue such as those concordant with liberation and those concordant with merit, once their respective fruit has been actualized, their power is used up. But if a root of virtue is embraced by bodhicitta — the mind that, for the very sake of its purpose, the welfare of beings, seeks complete awakening, and that is a virtuous resolve to accomplish others' welfare for as long as space endures — then even after the state of complete awakening has been actualized, its task is still not finished, nor is the ultimate goal completely fulfilled. Therefore the virtues embraced by that mind come to be inexhaustible even after the state of complete awakening is actualized. Just as a banana-tree trunk dries up once its fruit has ripened, whereas a fruit-bearing tree yields fine fruit year after year without the tree itself withering, but continuing on — so, it is said, virtue embraced by bodhicitta does not run dry after yielding its fruit, but goes on increasing more and more.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-12]]
 
 <!-- cm:kunpal -->
-##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
+##### Khenpo Kunzang Pelden (Nectar Drops)
 
 This falls under the second outline: showing the great import through the precious example. *(Khenpo Kunzang takes shlokas 1-10, 1-11, and 1-12 together within a single annotation-node, as before; here he explains the remaining part of the wish-granting-tree example.)*
 
@@ -153,35 +153,35 @@ All other virtue is like a banana tree: it gives its fruit once and is then spen
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-12]]
 
 <!-- cm:gyaltsab -->
-##### gyaltsab — Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
+##### Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
 
 This falls under the third outline: showing, through the example of the [wish-granting] tree, that bodhicitta is inexhaustible. Like a wish-fulfilling tree (*dpag bsam gyi shing*, *kalpataru*): once bodhicitta has been generated, it nurtures one on from its first green sprout right up until it culminates in the very essence of awakening — throughout, one is born among gods and humans, and it yields perfect happiness, increasing inexhaustibly more and more. This is unlike all other virtue, which, like a banana tree (*chu shing*), gives fruit once and is then spent. (*myong nges kyi 'bras bu* — other virtue is like a fruit that must certainly be experienced by the mindstream of beings [and, once experienced, is gone]; but the virtue of bodhicitta knows no exhaustion and only increases.) As taught by the noble Akṣayamati: just as a drop of water fallen into the great ocean is not exhausted until the end of the age, so the root of virtue dedicated to awakening is not exhausted until it reaches the essence of awakening. (→ scriptural quotation.)
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-12]]
 
 <!-- cm:ngulchu-thogmed -->
-##### ngulchu-thogmed — Ngulchu Thogme (Ocean of Good Explanations)
+##### Ngulchu Thogme (Ocean of Good Explanations)
 
 This falls under the second outline: showing inexhaustibility through the example of the tree. Just as wish-fulfilling trees endowed with the four sizes (*dpag bsam gyi shing* / *lha'i yul gyi sa brtol* / *'dzam bu paksha*) yield fruit inexhaustibly, so the root of virtue that is bodhicitta yields, to those born as gods and humans, happiness right up to the ultimate, and is never exhausted. From the *Jewel Casket Sutra* (*Ratnapāṇi-paripṛcchā*) ⚑ [sutra title provisional]: "Śāriputra, it is like this: although ordinary beings neither know nor see that even a tiny drop added to a little water is workable, in time all the gathered waters come to be sustained and are held to be inexhaustible and unending. In the same way, the root of virtue of awakening increases inexhaustibly until it reaches the true limit of awakening." (→ scriptural quotation.)
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-12]]
 
 <!-- cm:sabzang -->
-##### sabzang — Sabzang Mati Panchen (Clear Illumination)
+##### Sabzang Mati Panchen (Clear Illumination)
 
 This falls under the second outline: showing, through the example of the tree, that [bodhicitta] is inexhaustible and increases. All other virtue is like a banana tree (*chu shing*): it gives the fruit of the happiness of gods and humans once and is then spent. But the virtue of bodhicitta, like a fine tree (the wish-granting tree, *dpag bsam gyi ljon shing*), constantly yields the fruit of perfect happiness and increases inexhaustibly. From a sutra: "Mañjuśrī, the fragrant tree of the auspicious chariot comes to be held together as one by earth, water, fire, and wind. In the same way, the root of virtue fully dedicated to awakening is inexhaustible and does not run out until it reaches [awakening's] heart." (→ scriptural quotation.)
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-12]]
 
 <!-- cm:minyak-kunzang-sonam -->
-##### minyak-kunzang-sonam — Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
+##### Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
 
 This falls under the second outline: the example of the tree. Unlike other virtue, which yields the fruit of the happiness of gods and humans (*'jig rten pa'i bde ba*, worldly happiness) and is then spent (like a banana tree, *chu shing*), the virtue that comes from generating bodhicitta and applying it on the path yields the fruits of the god and human realms inexhaustibly, and also yields the state of awakening (endowed with the three kāyas), increasing inexhaustibly like a [wish-granting] tree (*ljon shing*). The virtue dedicated by bodhicitta is not exhausted even by karma that must certainly be experienced (*myong nges kyi las*). In short — from the *Śīlasaṃyukta* (?) ⚑ [sutra title uncertain in the source]: bodhicitta "is the cause of the increase of merit" (*bsod nams 'phel ba'i rgyu yin no*) (→ quotation); from the *Jewel Casket Sutra* (*Ratnapāṇi-paripṛcchā*): "Son of noble family, the fragrant tree comes to be held together as one by earth, water, fire, and wind; in the same way, the root of virtue dedicated to awakening is inexhaustible." (→ quotation); from the *Akṣayamati-paripṛcchā*: "A drop of water in the ocean is not exhausted until the end of the age; in the same way, the root of virtue dedicated to awakening is not exhausted until it reaches the essence of awakening." (→ quotation).
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-12]]
 
 <!-- cm:khenpo-kunga -->
-##### khenpo-kunga — Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
+##### Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
 
 This falls under the second outline: showing inexhaustibility through the example of the tree. Once bodhicitta has been generated, then, by relying on entering the accumulations of the path and so forth, like a wish-granting tree (*dpag bsam gyi ljon shing*) one is born among gods and humans, and perfect happiness is yielded constantly, increasing inexhaustibly more and more. The [wish-granting] tree is explained here as three: (*dpag bsam gyi shing*, the wish-fulfilling tree; *lha'i yul yon du sa brtol*, the tree of the realm of the gods; *'dzam bu pakṣa*, the Jambu tree) — all three yield fruit constantly and are inexhaustible, in contrast to the banana tree (*chu shing*), which gives fruit once and is then spent.
 
@@ -254,7 +254,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-12]] [[1-SOURCE
 - **Other virtue** (placed here as that of shravakas and the like — **MKS**), like a **banana tree**, gives fruit once and is then spent; the root of virtue of bodhicitta, like the **[wish-granting] tree**, yields it constantly and is inexhaustible. All commentaries agree on this position.
 - **The names of the [wish-granting] tree (NKW)** — the three: *dpag bsam gyi shing* / *lha'i yul gyi sa brtol* / *'dzam bu pakṣa*.
 - **From the *Akṣayamati-paripṛcchā***, both **KS** and **GDR** cite the same passage — the drop of water in the ocean that is not exhausted until the end of the age.
-- **tenzin-gyatso** adds a further point: even after the state of complete awakening is actualized, virtue embraced by bodhicitta comes to be inexhaustible.
+- **His Holiness the Dalai Lama** adds a further point: even after the state of complete awakening is actualized, virtue embraced by bodhicitta comes to be inexhaustible.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-12]] [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-12]] [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-12]] [[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-12]] [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-12]]
 
@@ -290,49 +290,49 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-13]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 Just as, in the world, a person who has committed a great crime, if he entrusts himself for protection to a brave man of power and authority, comes to be freed from that danger, so we — wretched evildoers without refuge or protector, who through the force of beginningless habituation have fallen under the sway of the afflictions in our mindstreams, and who through that have amassed countless misdeeds of body and speech — can, if we rely on the strength and protection of bodhicitta, be freed in an instant, easily. Therefore, it is said, those endowed with intelligence should indeed rely on such a bodhicitta — nay, they should rely on it wholeheartedly.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-13]]
 
 <!-- cm:kunpal -->
-##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
+##### Khenpo Kunzang Pelden (Nectar Drops)
 
 This falls under the third outline: showing that the ascending [virtue] of bodhicitta exhausts the side of non-virtue. Even if one has committed [deeds] like the five of immediate retribution, by relying on bodhicitta one comes to be freed in a single instant. The example of a powerful hero is set out, and, pressing the point ("why would the careful not rely on it?"), he investigates: [it would be foolish] not to rely on it. Furthermore, **GDR** and **MKS** make the distinction clear: 1-13 concerns *suppressing* wrongdoing (*zil gyis gnon pa*), not uprooting it, whereas 1-14 concerns *uprooting* it from the root (*rtsa ba nas 'joms pa*); and **KKP** places this within a single annotation-node.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-13]]
 
 <!-- cm:gyaltsab -->
-##### gyaltsab — Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
+##### Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
 
 This falls under the fourth outline: showing, through the example of a hero, that [bodhicitta] exhausts the side of non-virtue. Even if one has committed wrongdoing as utterly unbearable as the deeds of immediate retribution, just as by relying on a brave, powerful man one is freed from great danger, so by relying on bodhicitta one is freed in a single instant. **Here 1-13 = suppression (*zil gyis gnon pa*):** although the fruit must, by the way of cause and effect, be experienced, [bodhicitta] suddenly *suppresses* it by way of the path; and it is by the path that it is suddenly cast away — so 1-14 is explained as *uprooting from the root* (*rtsa ba nas 'joms*). This distinction between the two nodes [verses] is important.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-13]]
 
 <!-- cm:ngulchu-thogmed -->
-##### ngulchu-thogmed — Ngulchu Thogme (Ocean of Good Explanations)
+##### Ngulchu Thogme (Ocean of Good Explanations)
 
 This falls under the third outline: showing, through the example of a bodhisattva hero, that [bodhicitta] exhausts the side of non-virtue. Even if one has committed the five deeds of immediate retribution (unbearable, utterly unbearable wrongdoing), just as by relying on a powerful hero one becomes unafraid of great danger, so by relying on bodhicitta one is freed in a single instant. (From the noble *Akṣayamati*:) "Son of noble family, one who properly relies on a brave man fears no enemy at all; in the same way, one who relies on the generation of bodhicitta fears no misdeed at all." (→ scriptural quotation.) Therefore, why would the careful not rely on it?
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-13]]
 
 <!-- cm:sabzang -->
-##### sabzang — Sabzang Mati Panchen (Clear Illumination)
+##### Sabzang Mati Panchen (Clear Illumination)
 
 This falls under the third outline: an instruction to [rely on] bodhicitta, which frees one from the side of non-virtue. Even if one has committed wrongdoing as utterly unbearable as the five of immediate retribution (like *tīvra-karma*), just as by relying on a brave, powerful man one is unafraid, so by relying on bodhicitta one is freed in a single instant. *(SMPLG notes a distinctive feature of the root-text explanation: it is shown by way of the remainder — an a fortiori argument — "why would even ignorant people [*mi shes kye bo*] not rely on it?")* From the *Akṣayamati*, it cites the line that one "fears no misdeed at all." (→ scriptural quotation.)
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-13]]
 
 <!-- cm:minyak-kunzang-sonam -->
-##### minyak-kunzang-sonam — Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
+##### Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
 
 This falls under the third outline: showing, through two examples, that [bodhicitta] exhausts the side of non-virtue. Even if one has committed utterly unbearable wrongdoing, such as the five deeds of immediate retribution: (1) **the example of a powerful hero** — just as, by joining [an army] that repels harm to the kingdom, one is unafraid on the battlefield; (2) **a citation from the noble *Akṣayamati*** — "Son of noble family, just as by relying on a brave man one fears no enemy, so by relying on the generation of bodhicitta one fears no misdeed." (→ scriptural quotation.) — **MKS further:** a scriptural passage on the hero example appears from the *Gaṇḍavyūha* (→ quotation); **and again from MKS:** in agreement with Gyaltsab — 1-13 = suppression (*zil gyis gnon pa*); 1-14 = uprooting from the root (*rtsa ba nas 'joms pa*); **this distinction between the two is important.**
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-13]]
 
 <!-- cm:khenpo-kunga -->
-##### khenpo-kunga — Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
+##### Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
 
 This falls under the third outline: showing bodhicitta as the liberator, by the example of a hero. Even if one has committed [deeds] as utterly unbearable as the five of immediate retribution (killing one's father / killing one's mother / killing a monk / drawing blood from the body of a buddha with malicious intent / creating a schism in the sangha), just as by relying on a brave man (one who is stationed at the front line, trained for battle and mighty) one is freed from great danger (that one has only just come to face), so by relying on bodhicitta one is freed (swiftly) in a single instant. **Here 1-13 = suppression (*zil gyis gnon pa*)** is made clear (a technical term of the tenets).
 
@@ -446,21 +446,21 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-14]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 When one has trained the mind in the precious bodhicitta so that it is born in one's mindstream, it is like the fire at the end of an age: just as, when an age is destroyed by fire, the fire lays waste to the world-realms, so that mind can, in a single instant, lay waste to however great a wrongdoing there may be. As for the phrase "its boundless benefits" — those qualities were taught within the *Avataṃsaka*, in the *Gaṇḍavyūha Sūtra*, where the great bodhisattva, the protector Maitreya, taught those benefits to the youth Sudhana. And from the *Śikṣāsamuccaya*: this mind endowed with [such] benefits can be generated even by an ordinary person; generating this mind does not require directly seeing the truth or directly seeing emptiness; and, without distinction of male or female, family or lineage, whoever the being may be, if they meditate and make effort, they can generate it. By this, [Śāntideva] teaches the qualities of both aspiration and engagement [bodhicitta] without separating them.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-14]]
 
 <!-- cm:kunpal -->
-##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
+##### Khenpo Kunzang Pelden (Nectar Drops)
 
 This falls under the fifth outline: showing, through the fire example, that [bodhicitta] exhausts the side of non-virtue. Just as the fire at the end of an age (*kalpāntānala* / *saṃvartanānala* — the fire that burns during the age of destruction) burns up everything through the first meditative-absorption realm (all the world-realms), so, in a mere instant (*kṣaṇam*), bodhicitta burns up all the great wrongdoing that has become a cause of the lower realms. *(Important: 1-13 = suppression, *zil gyis gnon pa*; 1-14 = uprooting from the root, *rtsa ba nas 'joms pa* — **KKP** agrees with **GDR** / **MKS**.)* In the last two lines: the loving protector (Maitreya) explained to the youth (*Sudhana* = *nor bzang*) the boundless qualities of bodhicitta (*anantaguṇa*), and, grounding this in the *Gaṇḍavyūha*, [showed] that it is endowed with qualities that abide as its very nature (*svarūpa*).
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-14]]
 
 <!-- cm:gyaltsab -->
-##### gyaltsab — Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
+##### Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
 
 This falls under the fifth outline: explaining the fire example — that [bodhicitta] exhausts, burning all misconduct from the root as fire does; and the sixth: the loving protector's teaching on the qualities of bodhicitta.
 
@@ -471,7 +471,7 @@ This falls under the fifth outline: explaining the fire example — that [bodhic
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-14]]
 
 <!-- cm:ngulchu-thogmed -->
-##### ngulchu-thogmed — Ngulchu Thogme (Ocean of Good Explanations)
+##### Ngulchu Thogme (Ocean of Good Explanations)
 
 This falls under the fourth outline: showing that bodhicitta exhausts non-virtue as the age-ending fire burns; and the fifth: the loving protector's explanation.
 
@@ -482,7 +482,7 @@ This falls under the fourth outline: showing that bodhicitta exhausts non-virtue
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-14]]
 
 <!-- cm:sabzang -->
-##### sabzang — Sabzang Mati Panchen (Clear Illumination)
+##### Sabzang Mati Panchen (Clear Illumination)
 
 This falls under the fourth outline (the fire example) and the fifth (the boundless qualities).
 
@@ -493,7 +493,7 @@ This falls under the fourth outline (the fire example) and the fifth (the boundl
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-14]]
 
 <!-- cm:minyak-kunzang-sonam -->
-##### minyak-kunzang-sonam — Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
+##### Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
 
 This falls under the fifth outline (two fire examples) and the sixth (the loving protector's teaching).
 
@@ -504,7 +504,7 @@ This falls under the fifth outline (two fire examples) and the sixth (the loving
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-14]]
 
 <!-- cm:khenpo-kunga -->
-##### khenpo-kunga — Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
+##### Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
 
 This falls under the fourth outline (the fire example) and the fifth (the loving protector's teaching).
 
@@ -587,7 +587,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-14]] [[1-SOURCE
 - **The 1-13 vs. 1-14 distinction** — 1-13 = *zil gyis gnon pa* (suppressing certain karma); 1-14 = *rtsa ba nas 'joms pa* (uprooting uncertain karma) — clear in both GDR and MKS.
 - **SMPLG's annotation:** SMPLG makes central the tenet-annotation that the burning of uncertain karma occurs in "the instant of attaining great forbearance" (*bzod chen thob pa'i skad cig*).
 - **The boundless qualities** — from the *Gaṇḍavyūha*, they are written out as eight examples ("seed / field-ground / ground / father / Vaiśravaṇa / wish-fulfilling jewel / excellent vase / short spear") and taught at length. All commentaries agree on this position.
-- **tenzin-gyatso** — citing the *Śikṣāsamuccaya*, explains that even an ordinary person can generate bodhicitta, and that it can be generated through effort, without needing to directly see the truth and without distinction of male or female, family or lineage.
+- **His Holiness the Dalai Lama** — citing the *Śikṣāsamuccaya*, explains that even an ordinary person can generate bodhicitta, and that it can be generated through effort, without needing to directly see the truth and without distinction of male or female, family or lineage.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-14]] [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-14]] [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-14]] [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-14]] [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-14]]
 

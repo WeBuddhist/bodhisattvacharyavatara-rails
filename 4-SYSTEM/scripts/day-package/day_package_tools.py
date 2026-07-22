@@ -67,6 +67,10 @@ VERSE_SUBS = [
     ("Verse Synthesis (overview)",                              "sub:synthesis",       True),
 ]
 
+# sentinel: this heading's machine id lives in its <!-- cm:/story: --> anchor,
+# not in the visible heading text (which is display-only: name + work).
+PRESERVE = "\x00PRESERVE"
+
 CITATION = re.compile(r"\[\[[^\]]*\]\]")
 # an inline citation "wrapper": optional arrow, then (link link ...) containing only links
 CIT_WRAPPER = re.compile(r"\s*(?:→\s*)?\(\s*(?:\[\[[^\]]*\]\]\s*)+\)")
@@ -111,11 +115,10 @@ def heading_anchor(level, text):
         core5 = text.lstrip("⚑ ").strip()
         if core5.startswith("Divergences"):
             return "div:divergences"
-        # commentator "shortid — Name (Work)" or story "BCAC..._ID — Title"
-        sid = re.split(r"\s+[—-]\s+", text, maxsplit=1)[0].strip()
-        sid = sid.replace(" ", "-")
-        prefix = "story" if sid.startswith("BCAC") else "cm"
-        return f"{prefix}:{sid}"
+        # commentator / story block. The visible heading is display-only
+        # (Name + Work, or story Title); the machine id lives in the
+        # `<!-- cm:.. -->` / `<!-- story:.. -->` anchor above. Preserve it.
+        return PRESERVE
     return None
 
 
@@ -157,6 +160,13 @@ def validate(path):
             continue
         prev = lines[i - 1].strip() if i > 0 else ""
         am = ANCHOR.match(prev)
+        if want is PRESERVE:
+            # commentator/story H5: id lives in the anchor, heading is display-only.
+            if not am:
+                errors.append(f'line {i+1}: H5 heading "{text}" missing its `<!-- cm:… -->` / `<!-- story:… -->` anchor on preceding line')
+            elif not re.match(r"^(cm|story):[A-Za-z0-9._:-]+$", am.group(1)):
+                errors.append(f'line {i+1}: H5 heading "{text}" has anchor `{am.group(1)}`, expected a `cm:…` / `story:…` id')
+            continue
         if not am:
             errors.append(f'line {i+1}: heading "{text}" missing anchor `<!-- {want} -->` on preceding line')
         elif am.group(1) != want:
@@ -215,8 +225,19 @@ def conform(path):
     raw = open(path, encoding="utf-8").read()
     fm, body = split_frontmatter(raw)
 
+    orig_lines = body.split("\n")
+    # capture, in document order, the anchor immediately preceding each heading.
+    # Commentator/story H5 ids are not derivable from the (display-only) heading,
+    # so their anchor must be preserved rather than regenerated.
+    orig_anchor_by_heading = []
+    for i, ln in enumerate(orig_lines):
+        if HEADING.match(ln):
+            prev = orig_lines[i - 1].strip() if i > 0 else ""
+            am = ANCHOR.match(prev)
+            orig_anchor_by_heading.append(am.group(1) if am else None)
+
     # strip ALL existing anchors first; they are regenerated deterministically
-    lines = [ln for ln in body.split("\n") if not ANCHOR.match(ln.strip())]
+    lines = [ln for ln in orig_lines if not ANCHOR.match(ln.strip())]
 
     # segment the body by headings; segment 0 is the preamble (before 1st heading)
     head_idxs = [i for i, ln in enumerate(lines) if HEADING.match(ln)]
@@ -231,14 +252,19 @@ def conform(path):
             segments.append((hi, lines[hi:end]))
 
     out = []
+    heading_i = -1
     for head_pos, seg in segments:
         if head_pos is None:
             out.extend(seg)                       # preamble, verbatim
             continue
 
+        heading_i += 1
         head_line = seg[0]
         m = HEADING.match(head_line)
         want = heading_anchor(len(m.group(1)), m.group(2))
+        if want is PRESERVE:
+            # reuse the id from the anchor that was already there (display-only heading)
+            want = orig_anchor_by_heading[heading_i]
         content = list(seg[1:])
 
         # peel trailing blanks and a trailing "---" rule (remembered, re-added last)

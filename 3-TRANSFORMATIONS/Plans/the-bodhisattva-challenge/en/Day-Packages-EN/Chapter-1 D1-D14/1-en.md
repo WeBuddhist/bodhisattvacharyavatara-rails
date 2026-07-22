@@ -139,14 +139,14 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-1]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 In the word *sugata*, "su" means bliss and "gata" means "gone" or "departed." Here "gone" is one in meaning with "realized," so it can be applied both to the Sugata of abandonment and to the Sugata of realization. In abandonment too there are three distinctions: through unmistaken realization, having well abandoned self-grasping by the power of its antidote — "gone beautifully"; such that even on meeting the conditions it cannot arise again — "gone without return"; and through non-conceptual wisdom endowed with every form of skillful means, acting as the antidote to all that is to be abandoned, having abandoned it without remainder. These three mark the special qualities of a Sugata. After the afflictive obscurations are exhausted, gradually abandoning the cognitive obscurations that obstruct the knowing of all knowable things, the one who possesses the ultimate knowledge that knows the two truths simultaneously is the Buddha alone. As for "heirs," this can apply both to heirs born from the speech of the Sugata and to heirs of the heart. "Entering the commitments" means entering the three ethical trainings — the ethics of restraint from misconduct, the ethics of gathering virtue, and the ethics of acting for beings' welfare — which are included within the generation of bodhicitta and the conduct of the six perfections. "Expressed in brief in accordance with the scriptures" shows that this text is not the author's own invention, but is taught in harmony with the intent of the Great Vehicle scriptures, such as the Avataṃsaka sutras.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-1]]
 
 <!-- cm:kunpal -->
-##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
+##### Khenpo Kunzang Pelden (Nectar Drops)
 
 In the first chapter of this text, four things are shown across three verses: the homage of paying respect to the Sugatas; the pledge to undertake entering the commitments of the buddhas' heirs; the humbling of pride; and the arousing of enthusiasm. This very first stanza is both the homage and the pledge.
 
@@ -161,14 +161,14 @@ The homage serves two purposes: so that the composition may be completed without
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-1]]
 
 <!-- cm:khenpo-zhengah -->
-##### khenpo-zhengah — Zhenphen Jampé Gocha (annotation commentary)
+##### Zhenphen Jampé Gocha (annotation commentary)
 
 In Khenpo Zhenga's annotation commentary, since it makes no difference whether a detailed exposition is added, the base explanation is given from within the annotations themselves. It chiefly lays out the three meanings of the word *bde* (Sugata) — gone beautifully / gone without return / gone completely — and shows that the Blissful Ones possess the Truth Body of both what is realized and what is taught; the assembly of heirs, the bodhisattvas endowed with the three causes; all who are worthy of homage, such as abbots and masters; and that one enters the commitments of the buddhas' heirs, set out in brief and expressed in accordance with the scriptures. In this way the annotation fills out and completes every part of the verse.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-1]]
 
 <!-- cm:gyaltsab -->
-##### gyaltsab — Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
+##### Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
 
 The homage serves three purposes: so that the composition is completed without obstacle; so that later followers, recognizing the author as sublime rather than lowly, generate faith and aspiration toward the text; and so that it benefits those to be trained.
 
@@ -179,14 +179,14 @@ The Truth Body is the sphere of reality unstained by adventitious defilements; t
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-1]]
 
 <!-- cm:ngulchu-thogmed -->
-##### ngulchu-thogmed — Ngulchu Thogme (Ocean of Good Explanations)
+##### Ngulchu Thogme (Ocean of Good Explanations)
 
 "Sugata" has three meanings — gone beautifully / gone without return / gone completely — in agreement with the other commentaries. For the Truth Body, the *Uttaratantra* is cited and explained. Homage is paid to the Three Jewels: the buddhas together with their heirs, the bodhisattvas. The homage serves two purposes: so that the composition proceeds without obstacle and the text is completed, and so that later followers too gain confidence in the text and find joy in putting it into practice.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-1]]
 
 <!-- cm:sabzang -->
-##### sabzang — Sabzang Mati Panchen (Clear Illumination)
+##### Sabzang Mati Panchen (Clear Illumination)
 
 **Homage (first two lines):** The homage serves two purposes: relying on the clear faith that arises from hearing the qualities of the buddhas, one enters the path and the text; and merely by paying homage to a sublime object, one attains higher rebirth and lasting goodness. As for the objects of homage: the one who has abandoned all the suffering of samsara without remainder and realized the great uncontaminated bliss is the Buddha, the Jewel. That sphere of reality — unconditioned, spontaneously present, directly realized by individually self-aware wisdom, and perfect in one's own and others' aims (as taught in the *Uttaratantra*) — the Truth Body, the direct realization of the emptiness endowed with all supreme aspects, is the Dharma, the Jewel. The great bodhisattvas born from the heart of the buddhas — the noble ones of the Great Vehicle, endowed with the two wisdoms of knowing the nature and the extent, and irreversible — are the Sangha, the Jewel. Not only to these, but to all worthy of homage — shravakas and pratyekabuddhas, abbots and masters, statues and stupas, and so on — I pay homage respectfully with body, speech, and mind.
 
@@ -195,7 +195,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-1]]
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-1]]
 
 <!-- cm:minyak-kunzang-sonam -->
-##### minyak-kunzang-sonam — Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
+##### Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
 
 Taking "entering the commitments of the buddhas' heirs" as the subject matter, this commentary explains the text's purpose (its summarized meaning) and the three meanings of the word. Because being well known in one's own day and familiar with the tradition gives rise to wonder at the composition and generates self-confidence, the homage is made; and through the homage, the composition is completed without obstacle.
 
@@ -204,7 +204,7 @@ Taking "entering the commitments of the buddhas' heirs" as the subject matter, t
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-1]]
 
 <!-- cm:khenpo-kunga -->
-##### khenpo-kunga — Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
+##### Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
 
 "Sugata" is explained in its three meanings from the side of both what is abandoned and what is realized, distinguishing the buddha from non-Buddhists and from the noble shravakas and pratyekabuddhas. Under "Truth Body," two are set out: the Truth Body of realization — the sphere of reality unstained by adventitious defilements — and the Truth Body of teaching — the profound and vast sutras. "Heirs" chiefly means the bodhisattvas dwelling on the ten grounds, endowed with the three qualities. The Three Jewels are the ultimate refuge. The homage serves four purposes: completing the composition without obstacle; giving confidence to later followers; averting mistaken views about the text; and making the text beautiful. Within the three verses of the first chapter, the author sets out in sequence the four topics: subject matter, purpose, essential purpose, and connection.
 
@@ -347,14 +347,14 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-2]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 This stanza is speech that humbles pride. Although the master shows the manner of one who holds himself very low, since the text later says "join your palms to everyone," by implication the purpose of depending on others is also included. Even if there is nothing to hear that was never heard before, there is still meaning in hearing again what one has already understood: someone seeking the Dharma must, until buddhahood, hear it again and again and meditate on it again and again. As Je Rinpoche said in the Great Treatise on the Stages of the Path, "one should reflect on it just as one has looked at what needs to be looked at" — whether or not a fresh understanding arises, the main thing is to meditate again and again. There is likewise no difference between good and poor verse-craft: as it is said, "Rely not on the words but on the meaning; rely not on the person but on the Dharma" — for a Dharma practitioner, whether or not the wording is elegant, one must reflect on the meaning.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-2]]
 
 <!-- cm:kunpal -->
-##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
+##### Khenpo Kunzang Pelden (Nectar Drops)
 
 This second stanza is explained under "humbling pride." It is a reply that cuts off any doubt as to whether there is pride in composing this text.
 
@@ -371,28 +371,28 @@ This second stanza is explained under "humbling pride." It is a reply that cuts 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-2]]
 
 <!-- cm:khenpo-zhengah -->
-##### khenpo-zhengah — Zhenphen Jampé Gocha (annotation commentary)
+##### Zhenphen Jampé Gocha (annotation commentary)
 
 The annotation commentary sets out the base one phrase at a time. "Nothing new" — explained as nothing profound arising beyond the earlier scriptural texts. "Skill in composition" — mastery of composition superior to others. "Thought of benefiting others" — the intention that benefit for others, greater than the earlier scriptures and treatises, will come. "In order to meditate on and grow familiar with bodhicitta in my own mind, I composed this treatise." In this way the annotation fills out and completes the entire verse.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-2]]
 
 <!-- cm:gyaltsab -->
-##### gyaltsab — Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
+##### Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
 
 "Nothing new" — there is no new content to be written in this text. "Nor do I possess skill in composition," he says; "and therefore I have no thought of benefiting others — no thought that great benefit for many will come." The purpose of composing this text is to practice bodhicitta and the perfections in one's own mind. It shows the author as tamed, not puffing up the pride of expertise in word and meaning. This stanza sets out the two grounds for composing the text: not being proud in words, and not being proud in meaning.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-2]]
 
 <!-- cm:ngulchu-thogmed -->
-##### ngulchu-thogmed — Ngulchu Thogme (Ocean of Good Explanations)
+##### Ngulchu Thogme (Ocean of Good Explanations)
 
 This second stanza and the third are explained together: since there is nothing new here and no skilled composition, it is not spoken out of the pride of drawing in many others, but composed in order to take bodhicitta to heart in one's own mind. "By these too, the strength of my faith will for now increase; and if others of equal fortune see them, it will be meaningful" — so, together with the third stanza, the lasting fruit of increase is also taught.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-2]]
 
 <!-- cm:sabzang -->
-##### sabzang — Sabzang Mati Panchen (Clear Illumination)
+##### Sabzang Mati Panchen (Clear Illumination)
 
 **How benefiting others is hard to accomplish.** There is no superior content, not previously arisen from the pure scriptures, to be set forth in this text; nor do I possess skill in composition superior to others — ornate poetry adorned with various figures of speech, or elegant prose, and the like. For these reasons I have no thought that many others will gladly take it up — thus, casting off the pride of expertise in word and meaning, he shows himself tamed.
 
@@ -401,14 +401,14 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-2]]
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-2]]
 
 <!-- cm:minyak-kunzang-sonam -->
-##### minyak-kunzang-sonam — Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
+##### Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
 
 There is no new subject matter superior to the tenets that have come before; and (though Vibhūticandra praised Shantideva as peerless) he has no thought that great benefit for others, superior to the earlier scriptures and treatises, will directly arise. He composed it in order to grow familiar with bodhicitta in his own mind. "The water of good qualities does not settle on the ball of pride" — this shows the importance of humbling one's pride.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-2]]
 
 <!-- cm:khenpo-kunga -->
-##### khenpo-kunga — Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
+##### Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
 
 The subject matter of the Bodhicaryāvatāra has already been taught by the earlier great masters — the Buddha, Nāgārjuna, Asaṅga, and others — so it is not new. Nor is [Shantideva's] skill in composition like the poetic craft that delights the learned, such as the birth-story sutras of Kalyāṇagarbha or Āryaśūra's Thirty-Four Jātakas. Therefore he has no thought that great benefit for others will come from this text; its purpose is to grow familiar with bodhicitta in his own mind. By humbling pride, he removes the fault of conceit and lays the root by which this text may also come to benefit others.
 
@@ -517,35 +517,35 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-3]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 The point where the word "these" applies: although the master is about to compose the treatise directly, this refers, in brief, to the complete plan of the ten-chapter treatise already laid out in the master's mind. When composing this text — examining it while contemplating again and again — on the basis of familiarity, the strength of faith in the mind-stream of the bodhisattva master would increase more and more; he says this comes about through the very act of composing the treatise, so that it benefits the author himself. As for the force of the word "for now": if a suitable vessel should appear, complete with the right characteristics, benefit for others too is possible — he says that "for now," first depending on oneself, there is the purpose that the strength of faith increase more and more. And if others to be trained, of equal fortune to himself — of equal disposition, or sharing a similar outlook — should see this text, it can become meaningful for them; thus he shows the opportunity to benefit others as well.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-3]]
 
 <!-- cm:kunpal -->
-##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
+##### Khenpo Kunzang Pelden (Nectar Drops)
 
 This third stanza shows the fourth purpose of composing the text: arousing enthusiasm. If one asks, "Your own understanding is enough — what need is there to compose this?", [the reply is:] in order to meditate on and grow familiar with **virtue** — namely bodhicitta and the conduct of the six perfections — **by** composing this text, the **stream of my faith**, my longing and confidence toward a bodhisattva's conduct, **by these too, for a while**, at first, will **increase**; and if one grows familiar with it and meditates again and again, it will become far greater forever. Thus he arouses his own enthusiasm. And if **others of equal fortune to me** — who strive for a bodhisattva's conduct and remain impartial — **should see** this Bodhicaryāvatāra, **it may become meaningful** for entering bodhicitta and so on. The text's four-part relevance (subject matter, purpose, essential purpose, and connection) is also shown here in passing.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-3]]
 
 <!-- cm:gyaltsab -->
-##### gyaltsab — Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
+##### Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
 
 The second occasion for composing the text: Shantideva has a purpose in composing it — for the sake of not letting what he has already understood decline, and of increasing it, by growing familiar with it in his own mind. Because he meditates continuously on the vast virtue he entered before, setting it down in his mind as a treatise causes his mind to increase more and more. The word "for now" shows that there is a dependence on benefiting others: since others of the Great Vehicle, of equal fortune to himself, will also find it meaningful — just as he does — when they see this text.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-3]]
 
 <!-- cm:ngulchu-thogmed -->
-##### ngulchu-thogmed — Ngulchu Thogme (Ocean of Good Explanations)
+##### Ngulchu Thogme (Ocean of Good Explanations)
 
 The second and third stanzas are explained together: since there is nothing new here and no skilled composition, it is not spoken out of the pride of drawing in many others, but composed in order to take bodhicitta to heart in one's own mind. "By these too, the strength of my faith, wisdom, compassion, and so on, set down in writing, will for now first increase in my own being; and if others of equal fortune see them, there will be benefit — bodhicitta will increase, and so on" — thus, together with the third stanza, the lasting fruit of increase is taught.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-3]]
 
 <!-- cm:sabzang -->
-##### sabzang — Sabzang Mati Panchen (Clear Illumination)
+##### Sabzang Mati Panchen (Clear Illumination)
 
 **How the strength of faith increases by composing the text.** Even while delighting to please many others, he composed this text in order to meditate on and put into practice bodhicitta and its application, the six perfections, in his own mind. Meant to help one meditate on and grow familiar with the virtue of the two accumulations, by setting them down in writing, the strength of my faith — confidence in cause and effect, clear faith in those endowed with good qualities, and yearning faith toward [their] capacity — will increase more and more.
 
@@ -554,14 +554,14 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-3]]
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-3]]
 
 <!-- cm:minyak-kunzang-sonam -->
-##### minyak-kunzang-sonam — Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
+##### Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
 
 The outline is called **arousing enthusiasm.** He composes the text in order to meditate on and grow familiar with the vast **virtue** of the union of method and wisdom — the path of the Great Vehicle, bodhicitta and so on. **"To meditate"** means to sustain the continuity of a virtuous focus, directing the mind to it again and again, growing familiar and accustomed. **"Faith"** is mentioned because it precedes all wholesome qualities and is like their root. **"For now"** is a word showing sequence: first faith and so on increase in one's own being, and later they benefit **others of equal fortune** as well.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-3]]
 
 <!-- cm:khenpo-kunga -->
-##### khenpo-kunga — Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
+##### Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
 
 If one composes this in order to meditate on such wondrous **virtue** — bodhicitta — and to increase it more and more, then Shantideva's own **strength of faith** — clear faith in the Three Jewels, confidence in karma and its results, and yearning faith toward liberation and omniscience — **by these** [words], **for now**, will increase more and more as is fitting. Nor is benefit for others entirely absent: if other followers to be trained, **of realization equal** to Shantideva's, **should somehow see** and understand with their minds the subject matter of this text, the Bodhicaryāvatāra, **there will be benefit**, both temporary and ultimate.
 

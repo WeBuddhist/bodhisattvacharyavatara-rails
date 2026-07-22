@@ -140,14 +140,14 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-6]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 For us, through the force of habituation since beginningless time, the side of faults is very strong — the misdeeds and downfalls accumulated in the past and the wrongdoing still being accumulated now form a powerful, discordant force. The single unsurpassed method for clearing all of that away — a method that is like one thing that suffices for everything, a gathering of all in one — is nothing other than bodhicitta, the mind that cherishes others more than oneself. As for the word "enlightenment" (byang chub): put simply, byang ("purified") means that the cognitive obscurations that obstruct the knowing of all knowable things, the afflictive obscurations that establish their habitual imprints, and all the classes of faults of body and speech — the corrupt states and misdeeds that arise from those two — are exhausted forever and purified without remainder; and chub ("perfected") means the attainment of the ultimate, unsurpassed knowledge that, by the power of having exhausted all the obscurations to knowing, sees the two truths simultaneously. If bodhicitta arises by the power of great compassion, focused on all sentient beings, then in a single instant it can overcome the entire discordant side.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-6]]
 
 <!-- cm:kunpal -->
-##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
+##### Khenpo Kunzang Pelden (Nectar Drops)
 
 Second, the benefits of bodhicitta — the [awakening mind that is the] support. This has three: the benefit that is superior to other virtues; the benefit that transforms one's very name and status; and the benefit shown by way of an example. This is the first.
 
@@ -156,14 +156,14 @@ For the reasons explained above, therefore: the mind that wishes to accomplish v
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-6]]
 
 <!-- cm:khenpo-zhengah -->
-##### khenpo-zhengah — Zhenphen Jampé Gocha (annotation commentary)
+##### Zhenphen Jampé Gocha (annotation commentary)
 
 *[The content is given in the Interlinear Gloss section above.]*
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-6]]
 
 <!-- cm:gyaltsab -->
-##### gyaltsab — Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
+##### Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
 
 The second [main section] has four parts: explaining the benefits of bodhicitta; explaining the essential nature of bodhicitta; explaining the reason for those benefits; and praising the one who undertakes the training. The first of these has three: overcoming great wrongdoing; attaining supreme happiness; and accomplishing all wished-for aims. The first of these has three again: the benefit of relative bodhicitta; the benefit of ultimate bodhicitta; and the benefit of both. This is the first (how relative bodhicitta purifies wrongdoing):
 
@@ -174,7 +174,7 @@ That ultimate bodhicitta also has the power to eliminate the seed of the obscura
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-6]]
 
 <!-- cm:ngulchu-thogmed -->
-##### ngulchu-thogmed — Ngulchu Thogme (Ocean of Good Explanations)
+##### Ngulchu Thogme (Ocean of Good Explanations)
 
 Second, the reason for giving rise to bodhicitta. The first [point] is abandoning wrongdoing:
 
@@ -183,7 +183,7 @@ Because the [precious human] support and the [right] intention are hard to find 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-6]]
 
 <!-- cm:sabzang -->
-##### sabzang — Sabzang Mati Panchen (Clear Illumination)
+##### Sabzang Mati Panchen (Clear Illumination)
 
 Second, the benefits of bodhicitta — the [awakening mind that is the] support. (First) taking it up firmly because it clears away great wrongdoing:
 
@@ -192,7 +192,7 @@ Since the freedoms and advantages are hard to find, a Dharma-minded attitude is 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-6]]
 
 <!-- cm:minyak-kunzang-sonam -->
-##### minyak-kunzang-sonam — Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
+##### Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
 
 Second, explaining the benefits, in three parts. This is the first (overpowering the great wrongdoing that is to be abandoned):
 
@@ -205,7 +205,7 @@ The main point taught here: what is chiefly taught here is precisely that Mahaya
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-6]]
 
 <!-- cm:khenpo-kunga -->
-##### khenpo-kunga — Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
+##### Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
 
 The second [main section] has four parts. This is the first, the benefit that is superior to other virtues:
 
@@ -334,14 +334,14 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-7]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 The mighty sages, who in the past during the time on the path of training strove for many eons and reflected deeply — asking what kind of benefit there might be for beings — those who so contemplated saw that this bodhicitta alone, this very thing alone, is of the greatest benefit. Through this bodhicitta of cherishing others more than oneself, the boundless and endless multitudes of beings, by an easy path, come to attain the resultant state of happiness; this too, he teaches, comes about in dependence on this bodhicitta.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-7]]
 
 <!-- cm:kunpal -->
-##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
+##### Khenpo Kunzang Pelden (Nectar Drops)
 
 Second (attaining supreme happiness):
 
@@ -350,14 +350,14 @@ The reason: over an exceedingly great span — three countless eons, and then ag
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-7]]
 
 <!-- cm:khenpo-zhengah -->
-##### khenpo-zhengah — Zhenphen Jampé Gocha (annotation commentary)
+##### Zhenphen Jampé Gocha (annotation commentary)
 
 *[The content is given in the Interlinear Gloss section above.]*
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-7]]
 
 <!-- cm:gyaltsab -->
-##### gyaltsab — Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
+##### Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
 
 Second (attaining supreme happiness):
 
@@ -366,7 +366,7 @@ As it is said, "Whose mind, [set] on going from bliss to bliss, would ever grow 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-7]]
 
 <!-- cm:ngulchu-thogmed -->
-##### ngulchu-thogmed — Ngulchu Thogme (Ocean of Good Explanations)
+##### Ngulchu Thogme (Ocean of Good Explanations)
 
 Second, accomplishing benefit and happiness:
 
@@ -375,7 +375,7 @@ The reason, to be stated first: although the mighty sages, the Bhagavāns, refle
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-7]]
 
 <!-- cm:sabzang -->
-##### sabzang — Sabzang Mati Panchen (Clear Illumination)
+##### Sabzang Mati Panchen (Clear Illumination)
 
 (Second) holding it firm because it brings the attainment of benefit and happiness:
 
@@ -384,7 +384,7 @@ For many countless eons the mighty sages reflected deeply on the sole means of a
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-7]]
 
 <!-- cm:minyak-kunzang-sonam -->
-##### minyak-kunzang-sonam — Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
+##### Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
 
 Second (bringing about the attainment of all supreme happiness):
 
@@ -393,7 +393,7 @@ Regarding the phrase "for many eons" there are two occasions [for reading it]: t
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-7]]
 
 <!-- cm:khenpo-kunga -->
-##### khenpo-kunga — Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
+##### Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
 
 Second (bringing about the attainment of all supreme happiness):
 
@@ -500,14 +500,14 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-8]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 If a good bodhicitta arises, one attains the ultimate, unsurpassed state of a perfectly awakened buddha; and even in the immediate term one goes from bliss to bliss. Not to mention the state of buddhahood — even in the immediate term, while still wandering in samsaric existence, one is untouched by suffering and attains an unbroken stream of the excellences of existence; and in dependence on that, traveling the path from bliss to bliss, the ultimate result — the perfection of abandonment and realization — also depends on bodhicitta. The "thought of benefiting [others]" is taught to be the root of all that is good; and since one in whom such a good heart is present benefits not only oneself but also one's companions and one's whole environment, he teaches that it brings about the supreme bliss with ease.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-8]]
 
 <!-- cm:kunpal -->
-##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
+##### Khenpo Kunzang Pelden (Nectar Drops)
 
 Third (accomplishing all wished-for aims):
 
@@ -516,14 +516,14 @@ Therefore, whoever wishes to overcome one's own sufferings of existence, which h
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-8]]
 
 <!-- cm:khenpo-zhengah -->
-##### khenpo-zhengah — Zhenphen Jampé Gocha (annotation commentary)
+##### Zhenphen Jampé Gocha (annotation commentary)
 
 *[The content is given in the Interlinear Gloss section above.]*
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-8]]
 
 <!-- cm:gyaltsab -->
-##### gyaltsab — Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
+##### Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
 
 Third (accomplishing all wished-for aims):
 
@@ -532,7 +532,7 @@ Explaining the three: here — the lesser person, who wishes to be freed from on
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-8]]
 
 <!-- cm:ngulchu-thogmed -->
-##### ngulchu-thogmed — Ngulchu Thogme (Ocean of Good Explanations)
+##### Ngulchu Thogme (Ocean of Good Explanations)
 
 Third, fulfilling one's hopes and wishes:
 
@@ -541,7 +541,7 @@ Therefore, whoever wishes to overcome the hundreds of one's own sufferings of ex
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-8]]
 
 <!-- cm:sabzang -->
-##### sabzang — Sabzang Mati Panchen (Clear Illumination)
+##### Sabzang Mati Panchen (Clear Illumination)
 
 (Third) holding it firm through the fulfillment of one's wishes:
 
@@ -550,7 +550,7 @@ Therefore, whoever wishes to overcome the hundreds of one's own sufferings of ex
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-8]]
 
 <!-- cm:minyak-kunzang-sonam -->
-##### minyak-kunzang-sonam — Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
+##### Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
 
 Third (bringing about the accomplishment of all wished-for aims):
 
@@ -559,7 +559,7 @@ The wished-for aims of the three types of person: whether the lesser person, who
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-8]]
 
 <!-- cm:khenpo-kunga -->
-##### khenpo-kunga — Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
+##### Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
 
 Third (accomplishing all one's hopes and wishes):
 

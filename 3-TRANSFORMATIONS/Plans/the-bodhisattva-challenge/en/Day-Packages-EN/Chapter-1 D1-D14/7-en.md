@@ -137,7 +137,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-17]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 Of the two just explained — the mind that aspires to awakening and the mind that engages in awakening — if one asks what benefit there is in cultivating the mind that aspires to awakening: while one abides in samsaric existence, there is inconceivably great benefit and power, illustrated by the excellent results of high status, that carry one from happiness to happiness. Even so, aspiration bodhicitta does not possess the kind of merit that increases of itself, uninterruptedly, even during ethically neutral (*lung ma bstan*) states of mind — such as heedlessness or being asleep — when a virtuous attitude is not manifest. So he says.
 
@@ -146,21 +146,21 @@ Of the two just explained — the mind that aspires to awakening and the mind th
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-17]]
 
 <!-- cm:khenpo-zhengah -->
-##### khenpo-zhengah — Zhenphen Jampé Gocha (annotation commentary)
+##### Zhenphen Jampé Gocha (annotation commentary)
 
 Merely by giving rise to the aspiring mind, great results arise while one circles in samsara; but merit does not arise continuously and unbroken as it does from the engaging mind. In saying this, the verse chiefly sets out the difference — between the aspiring and the engaging minds — in their results and in their merit.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-17]]
 
 <!-- cm:kunpal -->
-##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
+##### Khenpo Kunzang Pelden (Nectar Drops)
 
 Second: merely giving rise to the mind that aspires to awakening, while circling here in samsara, brings the vast and excellent result of the sovereignty of a king of gods such as Brahmā or Indra, or of a human wheel-turning monarch and the like; yet it does not — as the engaging mind does — bring merit, or virtue such as generosity and ethical discipline, in a continuous, unbroken stream.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-17]]
 
 <!-- cm:gyaltsab -->
-##### gyaltsab — Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
+##### Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
 
 From the *Liberation of Ārya Maitreya*:
 
@@ -171,14 +171,14 @@ As this says: from the mind aspiring to awakening, great results arise while one
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-17]]
 
 <!-- cm:sabzang -->
-##### sabzang — Sabzang Mati Panchen (Clear Illumination)
+##### Sabzang Mati Panchen (Clear Illumination)
 
 Even bereft of practice, merely from giving rise to the mind that aspires to awakening, at the temporary stage while one wanders in samsara one gains great results — such as attaining the excellent sovereignty of gods and humans, and so forth; yet merit, or virtue, does not arise continuously and unbroken as it does from the mind that engages in generosity and the rest, carried out with diligent effort.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-17]]
 
 <!-- cm:minyak-kunzang-sonam -->
-##### minyak-kunzang-sonam — Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
+##### Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
 
 One might object: does the benefit [of the aspiring mind] surpass even that of the engaging mind? If the aspiring mind is not seized by the activity of practising a bodhisattva's conduct, then it amounts only to a claim about the result, so the benefits described earlier could not arise; but if it is seized by practice, it would be no different from the engaging mind.
 
@@ -201,7 +201,7 @@ Having [taught] this directly, it is said: even bereft of practice, this generat
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-17]]
 
 <!-- cm:khenpo-kunga -->
-##### khenpo-kunga — Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
+##### Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
 
 Again, with respect to that very aspiring mind alone — the mere aspiration, such as "may I attain the state of perfect awakening, the result," or "how good it would be if I attained it" — while one circles through the three realms of samsara, virtuous and meritorious results arise, vast and in great number.
 
@@ -274,7 +274,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-17]]
 - Just as a cracked vajra still outshines golden ornaments, so the aspiring mind, though it has not entered the path, outshines the qualities of the shravakas and pratyekabuddhas.
 - Even one unable [to train] in the perfections is counselled to hold the aspiring mind and keep it firm and constant; it is certain to be a cause that ripens the mind of awakening.
 - ⚑ There is a divergence in how the source of the vajra example is cited: for gyaltsab it is known as the Liberation of Maitreya, while for minyak-kunzang-sonam and khenpo-kunga it is known as the Gaṇḍavyūha sutra. ⚑
-- **tenzin-gyatso** — sets out the further key reason why the [aspiring mind's] merit does not increase: during ethically neutral states of mind (times of heedlessness or sleep), the aspiring mind has no continuous increase.
+- **His Holiness the Dalai Lama** — sets out the further key reason why the [aspiring mind's] merit does not increase: during ethically neutral states of mind (times of heedlessness or sleep), the aspiring mind has no continuous increase.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-17]] [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-17]] [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-17]] [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-17]] [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-17]]
 
@@ -310,14 +310,14 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]
 #### Commentary Explanations
 
 <!-- cm:kunpal -->
-##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
+##### Khenpo Kunzang Pelden (Nectar Drops)
 
 **From whatever moment** one takes up — for the purpose (the beings to be freed being **the boundless, limitless realms of sentient beings**) of **completely freeing** or delivering them from the suffering of samsara and quiescent peace and [leading them] to attain buddhahood — a pledge to practise the six perfections, **with a mind that** thinks it **will not turn back** from that pledge, **genuinely takes up** the engaging **mind** and guards it unimpaired: if one guards it thus—
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]
 
 <!-- cm:gyaltsab -->
-##### gyaltsab — Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
+##### Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
 
 *Note: gyaltsab groups verses 1-18 and 1-19 under consecutive transclusions; the following prose covers both.*
 
@@ -326,7 +326,7 @@ From whatever moment, in order to completely free the boundless realms of sentie
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]
 
 <!-- cm:ngulchu-thogmed -->
-##### ngulchu-thogmed — Ngulchu Thogme (Ocean of Good Explanations)
+##### Ngulchu Thogme (Ocean of Good Explanations)
 
 *Note: ngulchu-thogmed groups verses 1-17, 1-18, and 1-19 under consecutive transclusions; the following prose covers all three. The passage begins with verse 1-17 and the Gaṇḍavyūha quotation (extracted to Scriptural Quotations below), then addresses 1-18 and 1-19 from "From whatever moment…" onward.*
 
@@ -335,7 +335,7 @@ Thus: from the mind aspiring to awakening, great results arise while one abides 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]
 
 <!-- cm:sabzang -->
-##### sabzang — Sabzang Mati Panchen (Clear Illumination)
+##### Sabzang Mati Panchen (Clear Illumination)
 
 *Note: sabzang groups verses 1-18 and 1-19 under consecutive transclusions; the following prose covers both.*
 
@@ -344,7 +344,7 @@ From giving rise to the engaging mind: from whatever moment, in order to complet
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]
 
 <!-- cm:minyak-kunzang-sonam -->
-##### minyak-kunzang-sonam — Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
+##### Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
 
 *Note: minyak-kunzang-sonam groups verses 1-18 and 1-19 under consecutive transclusions; the following prose covers both.*
 
@@ -355,7 +355,7 @@ One may also explain "with a mind that does not turn back" as the thought "even 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]
 
 <!-- cm:khenpo-kunga -->
-##### khenpo-kunga — Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
+##### Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
 
 *Note: khenpo-kunga groups verses 1-18 and 1-19 under consecutive transclusions; the following prose covers both.*
 
@@ -476,49 +476,49 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 Thus, at whatever time, having taken the mind that aspires to awakening as the condition, one sees that in order to attain awakening one must train in the conduct; and, gaining the certainty that without training in the conduct one cannot attain awakening, one pledges and commits to training in the conduct — "from this time on, I will properly train in the entire conduct of a bodhisattva." Thus one resolves, in a manner free of doubt. In order to completely free all the measureless and boundless realms of sentient beings, with an irreversible mind — that is, having resolved from the depths of the heart, with a firm pledge, to train in the conduct — from the moment one genuinely takes up that very engaging mind, once pledged and committed, then by its momentum, even during states of heedlessness (such as when the person endowed with [that mind-stream] is asleep or intoxicated), the momentum of merit arises uninterruptedly, measureless, equal to space. So he says.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-19]]
 
 <!-- cm:kunpal -->
-##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
+##### Khenpo Kunzang Pelden (Nectar Drops)
 
 **From that moment on,** even if that person **becomes** asleep or **heedless** through play and the like, **the momentum of merit** from generosity and the rest arises higher and higher, **uninterrupted,** vast and inexhaustible — **many** [streams of it] — **to a measure equal to space,** immeasurable. Even so, if, having taken up the engaging vow, one does not apply oneself even a little, from time to time, to generosity and the rest, then not only does virtue fail to increase; a great fault — the root downfall of not applying oneself to virtue — arises. So he says.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]
 
 <!-- cm:gyaltsab -->
-##### gyaltsab — Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
+##### Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
 
 *Note: gyaltsab groups verses 1-18 and 1-19 under consecutive transclusions; the shared prose is fully reproduced under Verse 1-18 (see Verse 1-18). The prose covering 1-19's content reads in part:* "From that moment on, even if one becomes heedless through sleep or intoxication and the like, the momentum of merit arises, uninterrupted through time, in many [streams], to a measure equal to space. The aspiring mind amounts only to yearning for the result; the engaging mind is seized by accomplishing the complete cause of buddhahood."
 
 Sources: [[2-RAILS/Verses/1-18-summary.md]] [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]
 
 <!-- cm:ngulchu-thogmed -->
-##### ngulchu-thogmed — Ngulchu Thogme (Ocean of Good Explanations)
+##### Ngulchu Thogme (Ocean of Good Explanations)
 
 *Note: ngulchu-thogmed groups verses 1-17, 1-18, and 1-19 under consecutive transclusions; the shared prose is fully reproduced under Verse 1-18 (see Verse 1-18). Verse 1-19's content is covered by:* "If it is not impaired, then even if one becomes heedless through sleep or intoxication and the like, the momentum of merit arises uninterruptedly through time, in many forms, to a measure equal to space."
 
 Sources: [[2-RAILS/Verses/1-18-summary.md]] [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]
 
 <!-- cm:sabzang -->
-##### sabzang — Sabzang Mati Panchen (Clear Illumination)
+##### Sabzang Mati Panchen (Clear Illumination)
 
 *Note: sabzang groups verses 1-18 and 1-19 under consecutive transclusions; the shared prose is fully reproduced under Verse 1-18 (see Verse 1-18).*
 
 Sources: [[2-RAILS/Verses/1-18-summary.md]] [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]
 
 <!-- cm:minyak-kunzang-sonam -->
-##### minyak-kunzang-sonam — Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
+##### Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
 
 *Note: minyak-kunzang-sonam groups verses 1-18 and 1-19 under consecutive transclusions; the shared prose is fully reproduced under Verse 1-18 (see Verse 1-18).*
 
 Sources: [[2-RAILS/Verses/1-18-summary.md]] [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]
 
 <!-- cm:khenpo-kunga -->
-##### khenpo-kunga — Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
+##### Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
 
 *Note: khenpo-kunga groups verses 1-18 and 1-19 under consecutive transclusions; the shared prose is fully reproduced under Verse 1-18 (see Verse 1-18). The portion of that prose specifically addressing 1-19 reads:* "From the moment one has generated the supreme mind of awakening, or received the vow, onward: even if the person who is the support — that bodhisattva — sleeps at night or becomes slightly heedless during the day, the very momentum of the meritorious virtue of having generated the supreme mind of awakening is uninterrupted and manifold — indeed countless; were it to take material form, it would be like something filling all of space, or equal to space — so it arises. So he says."
 

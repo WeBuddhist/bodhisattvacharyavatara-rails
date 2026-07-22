@@ -12,6 +12,7 @@ import sys
 
 H5 = re.compile(r'^#####\s+(\S+)')
 ANCHOR_BLOCK = re.compile(r'^<!--\s*(?:cm|story|div):')       # travels WITH its block
+ANCHOR_ID = re.compile(r'^<!--\s*(?:cm|story|div):([A-Za-z0-9._:-]+)\s*-->')
 ANCHOR_SECT = re.compile(r'^<!--\s*(?:sub|verse|sec):')       # marks the NEXT section
 HEAD_LE4 = re.compile(r'^#{2,4}\s')
 HHDL = "tenzin-gyatso"
@@ -44,7 +45,10 @@ def reorder_content(content):
     blocks = []
     for bi, (start, h5) in enumerate(starts):
         end = starts[bi + 1][0] if bi + 1 < len(starts) else len(c)
-        bid = H5.match(c[h5]).group(1)
+        # the machine id lives in the cm/story/div anchor (headings are display-only);
+        # fall back to the heading's first token for un-anchored legacy blocks.
+        am = ANCHOR_ID.match(c[start].strip())
+        bid = am.group(1) if am else H5.match(c[h5]).group(1)
         blocks.append((bid, c[start:end]))
     if blocks[0][0] == HHDL:
         return content                       # already first

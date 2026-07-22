@@ -130,42 +130,42 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-15]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 Dividing bodhicitta by way of its essential nature, in brief it is just this: the mind that aspires toward awakening, and the mind that engages in awakening.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-15]]
 
 <!-- cm:kunpal -->
-##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
+##### Khenpo Kunzang Pelden (Nectar Drops)
 
 The outline heading is "Second: showing the two divisions of the awakening mind." Immediately after the benefits have been taught: in brief, bodhicitta has two kinds. (a) The **aspiring mind** (smon pa; praṇidhicitta) — making the aspiration-prayer to reach the great, perfect awakening, the wish that all beings may reach the culmination of awakening. (b) The **engaging mind** ('jug pa; bodhiprasthānacitta) — once the aspiring mind has gone before it, taking up the vow and entering into the two accumulations (the perfections). Both alike are, in common, bodhicitta.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-15]]
 
 <!-- cm:gyaltsab -->
-##### gyaltsab — Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
+##### Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
 
 The outline heading is "Second: distinguishing the two kinds of the awakening mind." Immediately after all the benefits have been taught, the two kinds of the awakening mind are explained. The **aspiring mind**: the wish has arisen to establish all beings in the great, perfect awakening, but one has not yet undertaken the practice of the path. The **engaging mind**: once the aspiring mind has arisen before it, one takes up the vow — Atiśa advises that it is received through the ritual method — and enters into the two accumulations. (Gyaltsab notes that although there are twenty-two divisions of the awakening mind, here it is said that "in brief, there are two.")
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-15]]
 
 <!-- cm:ngulchu-thogmed -->
-##### ngulchu-thogmed — Ngulchu Thogme (Ocean of Good Explanations)
+##### Ngulchu Thogme (Ocean of Good Explanations)
 
 The outline: "(Second:) explaining the two kinds of the awakening mind." The **aspiring mind**: aspiring toward the great, perfect awakening (for the sake of all — not just a single Blissful One). The **engaging mind**: once the aspiring mind has gone before it, taking up the vow (the discipline of ethics) and entering into the accumulations. The Gaṇḍavyūha is cited as scriptural authority.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-15]]
 
 <!-- cm:sabzang -->
-##### sabzang — Sabzang Mati Panchen (Clear Illumination)
+##### Sabzang Mati Panchen (Clear Illumination)
 
 The outline: "Second: explaining the two kinds of the awakening mind." The **aspiring mind**: merely wishing to establish all beings in the great, perfect awakening. The **engaging mind**: once the aspiring mind has arisen before it, taking up the vow (Atiśa's ritual, through the ritual method and so on) and entering into the accumulations. (Sabzang gives an important gloss of "engaging mind": bodhiprasthānacitta is the awakening mind that enters into the path, the means of accomplishment — that is, "the awakening mind that enters into the accumulations of the path.") The Gaṇḍavyūha is cited as scriptural authority.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-15]]
 
 <!-- cm:minyak-kunzang-sonam -->
-##### minyak-kunzang-sonam — Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
+##### Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
 
 The outline heading concerns the two kinds of the awakening mind. Although the awakening mind can be divided by way of twenty-two [images, corresponding to the grounds], "in brief, there are two kinds" (Minyak Kunzang Sonam stresses this):
 
@@ -178,7 +178,7 @@ As scriptural authority, the Śikṣāsamuccaya is cited: "To aspire to unsurpas
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]] [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-15]]
 
 <!-- cm:khenpo-kunga -->
-##### khenpo-kunga — Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
+##### Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
 
 The outline: "Second: explaining the division into the two kinds of the awakening mind." Two kinds (per Khenpo Kunga Wangchuk):
 
@@ -281,7 +281,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-16]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 How do the two differ? Just as one knows the difference or distinction between a person who wishes and strives to travel to a desired place, and one who has actually set out on the road and is traveling — so too the wise bodhisattvas should know, exactly in its proper sequence, the difference between these two minds, the aspiring and the engaging.
 
@@ -296,7 +296,7 @@ Nowhere from the beginning to the end of the Bodhicaryāvatāra is a method of c
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-16]]
 
 <!-- cm:kunpal -->
-##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
+##### Khenpo Kunzang Pelden (Nectar Drops)
 
 How do the two differ? Just as, for example, one person wishes to travel to a desired place and strives toward it, while another, having actually set out on the road, is traveling — and one knows the difference or distinction between them — so too the wise, that is, the wise bodhisattvas, should know, exactly in its proper sequence, the difference between these two minds, the aspiring and the engaging. He teaches this by means of an example. On the difference between aspiring and engaging, many differing positions appear.
 
@@ -305,42 +305,42 @@ Master Jñānapāda ⚑ and others hold the mind-generation of an ordinary being
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-16]]
 
 <!-- cm:khenpo-zhengah -->
-##### khenpo-zhengah — Zhenphen Jampé Gocha (annotation commentary)
+##### Zhenphen Jampé Gocha (annotation commentary)
 
 [The verse] clarifies the division between the two by means of an example; and it also states the benefit of the aspiring mind — that it can outshine the qualities of others. This is explained through the account of Maitreya's liberation and the [sutra of] advice given to a king, drawn from the *Gaṇḍavyūha* Sūtra and other sources.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-16]]
 
 <!-- cm:gyaltsab -->
-##### gyaltsab — Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
+##### Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
 
 There is a difference between the thought "I shall go to that place" while still sitting at home, not yet engaged in the act of traveling, and the thought "I am going to that place" at the time when one is engaged in the act of traveling — lifting and setting down one's feet and so on. Although in both cases the thought "I am going there" is the same, one knows that there is a difference between being engaged in the act of going and not being engaged in it. Just as in this example, the wise should know, step by step, the difference between these two mind-generations, the aspiring and the engaging. Though the thought "I shall attain buddhahood for the sake of others" is the same, one type does not depend on being engaged in the practice of the perfections — generosity and the rest — while the other type does. Masters such as Kamalaśīla appear to hold this view; it is not elaborated further here.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-16]]
 
 <!-- cm:sabzang -->
-##### sabzang — Sabzang Mati Panchen (Clear Illumination)
+##### Sabzang Mati Panchen (Clear Illumination)
 
 Just as, for example, one knows the difference between the intention and the accomplishment when a person wishes and strives to go to a place he longs for, and when, having set out on the road, he is actually traveling — so too the wise, who realize the true nature of what is knowable without error, should know the difference between these two, aspiration and engagement, in their proper sequence: wishing to go to the great awakening is the aspiring mind-generation, and, having entered upon the path of the six perfections, actually traveling is the engaging mind-generation.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-16]]
 
 <!-- cm:ngulchu-thogmed -->
-##### ngulchu-thogmed — Ngulchu Thogme (Ocean of Good Explanations)
+##### Ngulchu Thogme (Ocean of Good Explanations)
 
 Just as one wishes to go to some place, the intention of wishing to attain buddhahood for the sake of others is aspiration; and just as one actually travels there, entering the path that brings about buddhahood and wishing to accomplish that path is engagement. Thus the wise, who wish to accomplish their own and others' aims, should know the difference between these two aims step by step, just as one knows the difference between the two [terms of the] example.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-16]]
 
 <!-- cm:minyak-kunzang-sonam -->
-##### minyak-kunzang-sonam — Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
+##### Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
 
 Some person, through the thought "I shall go to a certain place," has the mind wishing to go there; and at the time when he sets out on the road — lifting and setting down his feet and so on — engaged in the act of traveling, he also has the thought "I am going to that place." In both, the thought "I am going there" is alike, yet one knows the difference or distinction between not being engaged and being engaged in the actual act of traveling. Just as in this example, the wise, who know the means of accomplishing the welfare of self and others, having understood the presentation of bodhicitta as it is, should know, step by step, the difference between the aspiring mind — the mere intention "I shall attain buddhahood for the sake of others," not yet engaged in practicing the conduct of the buddhas' heirs, generosity and the rest — and the engaging mind, which is engaged in the act of that practice.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-16]]
 
 <!-- cm:khenpo-kunga -->
-##### khenpo-kunga — Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
+##### Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
 
 Just as one knows how the difference stands between the mere intention of a person who, focusing on a place he himself longs to reach, wishes to go, and the intention of one who has properly set out on the road and is traveling — so too, in the same way, wise persons should know the difference between these two mind-generations, the aspiring and the engaging: the mind wishing to attain the result, perfect awakening, is chiefly called the aspiring mind-generation; and the mind that, in order to attain that result of perfect awakening, enters into its causal path is chiefly the engaging mind-generation. He teaches that the sequence of the difference between the two is to be known in this way.
 
@@ -407,7 +407,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-16]]
 - The word "the wise" is to be understood as a person who knows the presentation of bodhicitta according to the supreme tradition; it need not be taken in the ordinary, well-known sense of "a learned person."
 - Merely generating the aspiring mind outshines the qualities of the shravakas and pratyekabuddhas and can dispel the poverty of samsara.
 - ⚑ There are seven textual traditions with differing views on how to demarcate the aspiring and engaging minds; in the tradition of the Omniscient Tsongkhapa, the demarcation is that focusing on the result is aspiration and focusing on the cause is engagement. ⚑
-- **tenzin-gyatso** — The Bodhicaryāvatāra chiefly teaches the cultivation of bodhicitta through the exchange of self and other; the sevenfold cause-and-effect instruction is explained as an alternative method, and one is advised to meditate in accordance with one's own character.
+- **His Holiness the Dalai Lama** — The Bodhicaryāvatāra chiefly teaches the cultivation of bodhicitta through the exchange of self and other; the sevenfold cause-and-effect instruction is explained as an alternative method, and one is advised to meditate in accordance with one's own character.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-16]] [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-16]] [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-16]] [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-16]] [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-16]] [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-16]]
 

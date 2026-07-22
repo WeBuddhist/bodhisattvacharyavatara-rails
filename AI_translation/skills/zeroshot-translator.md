@@ -15,7 +15,7 @@ Reach for this when the user wants a translation now and hasn't asked for (or do
 
 1. **Source text** (or its split chapters — see `split-file-by-markers` if splitting first is useful for a long text).
 2. **Target language** — stated by the user in their prompt. This skill doesn't assume or default to any particular language; confirm it if the prompt is ambiguous.
-3. **Audience profile** — an existing profile describing the intended readership, register, and translation goals (e.g. `audience_profile/general_readers.md`). If none exists yet, that needs to be created first rather than guessed at.
+3. **Audience profile** — an existing profile describing the intended readership, register, and translation goals (e.g. `audience_profile/plain.md`). If none exists yet, that needs to be created first rather than guessed at.
 
 ## Workflow
 
@@ -32,11 +32,11 @@ Reach for this when the user wants a translation now and hasn't asked for (or do
    ```
    <text-slug>-<target-language>-<audience-profile-slug>-zeroshot_split_chapters/
    ```
-   Example: `AI_translation/hindi/bca-hindi-general-readers-zeroshot_split_chapters/`
+   Example: `AI_translation/hindi/bca-hindi-plain-zeroshot_split_chapters/`
 
    - `<text-slug>` is a short identifier for the source text (e.g. `bca` for Bodhicaryāvatāra in this project) — infer it from existing filenames/conventions in the project if there is one, or ask if it's genuinely unclear.
    - `<target-language>` is the full language name (e.g. `hindi`, `english`, `chinese`), not a short tag — matching the language subfolder's own name.
-   - `<audience-profile-slug>` matches the audience profile's own name (e.g. `general-readers`).
+   - `<audience-profile-slug>` matches the audience profile's own name (e.g. `plain`).
    - The `-zeroshot` marker distinguishes it from a termbase-guided (rails) translation of the same text/audience/language combination.
 
    This is the natural output shape since the translation happens chapter by chapter to begin with — no separate merge step is needed to produce it.

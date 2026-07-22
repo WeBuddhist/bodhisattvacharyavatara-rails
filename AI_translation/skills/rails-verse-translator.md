@@ -34,13 +34,13 @@ Each segment in the source has a specific internal line count (e.g. a four-line 
 
 1. **Read the full source unit first**, noting every segment ID and its exact line count, and flagging any segment whose line count differs from the majority — these need deliberate attention rather than getting mishandled on autopilot.
 
-2. **Translate segment by segment**, using the locked termbase for terminology. Don't introduce new sub-headers, blank structural lines, or reordering — preserve the source's structure exactly aside from the language itself.
+2. **Translate segment by segment**, using the locked termbase for terminology. Don't introduce new sub-headers, blank structural lines, or reordering — preserve the source's structure exactly aside from the language itself. **Separate consecutive segments with a single blank line (one line-break gap), even if the source uses two or more.** The source's segment IDs and per-segment line counts are what must be preserved exactly; the number of blank lines between blocks is a formatting choice, not part of the segment structure, and should be normalized to one throughout the translation output.
 
 3. **Preserve each segment ID exactly**, attached in the same position as in the source (typically the end of the last line of its segment).
 
 4. **Apply the audience profile's register and any stated style constraints** consistently across the whole unit, not just the first few segments.
 
-5. **Verify before presenting.** Check the translated unit's segment IDs and per-segment line counts against the source unit — same IDs present, same line count per ID, no drift. Fix any mismatch before showing it to the user rather than after.
+5. **Verify before presenting.** Check the translated unit's segment IDs and per-segment line counts against the source unit — same IDs present, same line count per ID, no drift. Also check that segments are separated by exactly one blank line throughout, not the source's spacing. Fix any mismatch before showing it to the user rather than after.
 
 6. **Present the finished, verified unit and stop.** A few sample segments plus confirmation it passed verification is usually enough. Don't start the next unit until the user explicitly approves — even if the pattern seems obvious, a systemic problem is far cheaper to catch after one unit than after several.
 
@@ -59,7 +59,7 @@ Save the merged file in a subfolder for the target language, named using the ful
 ```
 <text-slug>-<target-language>-<audience-profile-slug>.md
 ```
-Example: `AI_translation/hindi/bca-hindi-general-readers.md`
+Example: `AI_translation/hindi/bca-hindi-plain.md`
 
 No `-zeroshot` marker here — its absence is what distinguishes a rails (termbase-guided) translation from a `zeroshot-translator` output of the same text/audience/language combination.
 

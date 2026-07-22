@@ -17,7 +17,7 @@ The same sense can have multiple valid target-language terms that differ in regi
    ```
    word: {sense_tag: term_a / term_b; sense_tag2: term_c}
    ```
-2. **Audience/style profile** — a description of who the translation is for and what register/tone/goals it should hit (e.g. general readers with no background in the subject vs. specialists, formal vs. natural language, how much explanatory latitude is allowed). If this doesn't exist yet, it needs to before this step can proceed with any confidence — ask for one rather than guessing at the audience.
+2. **Audience/style profile** — a description of who the translation is for and what register/tone/goals it should hit (e.g. a Plain English Version with no background in the subject vs. specialists, formal vs. natural language, how much explanatory latitude is allowed). If this doesn't exist yet, it needs to before this step can proceed with any confidence — ask for one rather than guessing at the audience.
 
 ## Workflow
 
@@ -34,7 +34,7 @@ The same sense can have multiple valid target-language terms that differ in regi
 
 5. **Verify.** The set of words and the set of senses per word should be unchanged from the input — this step narrows candidates down to one, it doesn't add or remove words or senses. A mismatch means something got dropped or merged incorrectly, not an intentional simplification.
 
-6. **Save the result with the audience profile in the filename** (e.g. `<source-language>-<target-language>-termbase-<audience-profile-slug>.md`, using full language names rather than short tags), not just the language pair. This is the step where audience actually drives the output content, so it matters most here: running this again with a different audience profile against the same sense-tagged input produces a legitimately different termbase, and the filename needs to make that difference visible rather than risk one silently overwriting the other.
+6. **Save the result with the audience profile in the filename** (e.g. `<source-language>-<target-language>-termbase-<audience-profile-slug>.md`, using full language names rather than short tags, and using the audience profile's slug as-is rather than padding it with extra words like "-english-version"), not just the language pair. This is the step where audience actually drives the output content, so it matters most here: running this again with a different audience profile against the same sense-tagged input produces a legitimately different termbase, and the filename needs to make that difference visible rather than risk one silently overwriting the other.
 
 7. **Treat the result as locked once approved.** The entire point of a termbase is to stop re-litigating word choice during translation — once the user signs off on it, it should be used as a fixed reference downstream (e.g. by a rails-style verse translation pass), not revised casually mid-translation. If a term genuinely turns out to be wrong for some later context, that's worth surfacing to the user explicitly rather than quietly editing the termbase file.
 

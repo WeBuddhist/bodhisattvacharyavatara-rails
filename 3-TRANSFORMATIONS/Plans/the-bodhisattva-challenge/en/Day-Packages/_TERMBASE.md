@@ -120,7 +120,7 @@ Use exactly these strings for the `##### <id> — <Name> (<Work>)` headings, so 
 | sabzang | `sabzang — Sabzang Mati Panchen (Clear Illumination)` |
 | minyak-kunzang-sonam | `minyak-kunzang-sonam — Minyak Kunzang Sonam (Inexhaustible Treasury Vase)` |
 | khenpo-kunga | `khenpo-kunga — Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)` |
-| tenzin-gyatso | `tenzin-gyatso — Gyalwa Tenzin Gyatso, His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)` |
+| tenzin-gyatso | `tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)` |
 
 Story blocks keep their source ID + English title, e.g.
 `BCAC13_KTB — The Arrogance of the Bodhisattva Daughter`.

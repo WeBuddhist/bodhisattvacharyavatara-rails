@@ -140,7 +140,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-9]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso, His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 If the precious bodhicitta that cherishes others more than oneself should arise, then from the very first instant of its arising — even if, up to now, one had fallen under the power of karma and the afflictions, a wretched being confined in the prison of samsara, of lowly support, like an animal even — once the precious bodhicitta is born in one's mindstream, then although one may lack any [special] quality such as the view that realizes emptiness, and although in terms of one's support one may be a pitiable being like a destitute pauper, in that very instant of bodhicitta's birth one takes on the name "heir of the Blissful Ones," and in terms of one's standing, too, one becomes worthy to receive the homage of the world together with its gods. So he says.
 
@@ -324,7 +324,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso, His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 That a being dwelling in a support such as this — the present body, a gross aggregate of flesh and bone, an impure support — could become the body of a buddha, endowed with every quality, its every fault exhausted, adorned with the major and minor marks: this seems almost beyond the mind's grasp. If one asks by what condition and by what means this is accomplished — it is accomplished by that bodhicitta which cherishes others more than oneself. Because it is in dependence on this bodhicitta that the precious body of a victor — beyond all price, adorned with the marks and signs — is attained upon the basis of an impure body such as this, hold this very bodhicitta utterly firm. So he says.
 
@@ -439,7 +439,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]] [[1-SOURCE
 
 5. **The three grades of gold-making elixir.** Minyak Kunzang Sonam explains three grades — the lowest (1:1), the middling (1:100), and the supreme (1:1000) — and shows that bodhicitta is that very supreme grade. The transformation of this impure body into a fruit of supreme value is no small thing, but of the very highest degree.
 
-6. **By what condition and means is it accomplished?** Gyalwa Tenzin Gyatso poses directly the reason for this transformation, and answers that the cause is bodhicitta itself, which cherishes others more than oneself. Taken up upon this impure body, it accomplishes the priceless body of a victor adorned with the major and minor marks.
+6. **By what condition and means is it accomplished?** His Holiness the Dalai Lama poses directly the reason for this transformation, and answers that the cause is bodhicitta itself, which cherishes others more than oneself. Taken up upon this impure body, it accomplishes the priceless body of a victor adorned with the major and minor marks.
 
 7. **Kunzang Pelden explains the three stanzas together.** Khenpo Kunzang Pelden comments on stanzas 1-10, 1-11, and 1-12 as a single unit: the gold-making simile (1-10), the precious-jewel simile (1-11), and the fruit-bearing-tree simile (1-12) are set out in sequence.
 
@@ -473,7 +473,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]] [[1-SOURCE
 - The *Noble Maitreya's Liberation*, cited at length in Khenpo Zhenga's annotation, explains the simile in detail: just as "mercury appearing as gold" turns a thousand measures of iron into gold without itself being used up, so the essence of the mind set on omniscience turns all the iron of karma and affliction into the gold of omniscience without itself being diminished.
 - Gyaltsab, Ngulchu Thogme, Sabzang, and Khenpo Kunga all cite the *Gaṇḍavyūha* alike to settle the gold-making simile; Minyak Kunzang Sonam further cites the *Questions of Vīradatta*: "Whoever delights in bodhicitta — their body becomes like gold."
 - Stanza 1-10 is the first of the three-simile phase (1-10 gold-elixir, 1-11 precious jewel, 1-12 fruit-bearing tree); Khenpo Kunzang Pelden comments on all three together as one unit.
-- Gyalwa Tenzin Gyatso poses the reason for the transformation directly ("by what condition and by what means?") and answers that bodhicitta — cherishing others more than oneself — is itself the cause.
+- His Holiness the Dalai Lama poses the reason for the transformation directly ("by what condition and by what means?") and answers that bodhicitta — cherishing others more than oneself — is itself the cause.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]] [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-10]] [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-10]]
 
@@ -511,7 +511,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-11]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso, His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 The sole guide of beings — the one and only guide who shows wandering beings the excellent path to temporary and ultimate benefit and happiness — is the Buddha, the Blessed One; and "with measureless intelligence" means that with his ultimate wisdom, to which nothing is an obstacle, he saw and examined thoroughly. When he did so, he found that there is nothing higher than the precious bodhicitta — the unsurpassed means, beyond all price, which single-pointedly gives beings happiness for the present and accomplishes the state of unsurpassed perfect awakening in the end. Therefore those who wish to be free from the state of wandering beings — the abodes of the six classes — must hold well and firm this precious bodhicitta, beyond all price. So he says.
 

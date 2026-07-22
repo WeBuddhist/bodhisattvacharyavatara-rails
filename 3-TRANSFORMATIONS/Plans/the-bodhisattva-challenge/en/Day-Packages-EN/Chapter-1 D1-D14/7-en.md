@@ -137,7 +137,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-17]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso, His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 Of the two just explained — the mind that aspires to awakening and the mind that engages in awakening — if one asks what benefit there is in cultivating the mind that aspires to awakening: while one abides in samsaric existence, there is inconceivably great benefit and power, illustrated by the excellent results of high status, that carry one from happiness to happiness. Even so, aspiration bodhicitta does not possess the kind of merit that increases of itself, uninterruptedly, even during ethically neutral (*lung ma bstan*) states of mind — such as heedlessness or being asleep — when a virtuous attitude is not manifest. So he says.
 
@@ -476,7 +476,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso, His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 Thus, at whatever time, having taken the mind that aspires to awakening as the condition, one sees that in order to attain awakening one must train in the conduct; and, gaining the certainty that without training in the conduct one cannot attain awakening, one pledges and commits to training in the conduct — "from this time on, I will properly train in the entire conduct of a bodhisattva." Thus one resolves, in a manner free of doubt. In order to completely free all the measureless and boundless realms of sentient beings, with an irreversible mind — that is, having resolved from the depths of the heart, with a firm pledge, to train in the conduct — from the moment one genuinely takes up that very engaging mind, once pledged and committed, then by its momentum, even during states of heedlessness (such as when the person endowed with [that mind-stream] is asleep or intoxicated), the momentum of merit arises uninterruptedly, measureless, equal to space. So he says.
 

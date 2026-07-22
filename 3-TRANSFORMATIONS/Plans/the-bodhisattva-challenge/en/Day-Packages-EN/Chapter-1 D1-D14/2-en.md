@@ -126,7 +126,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-4]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso, His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 This support of leisure and opportunity is the unsurpassed basis for meditating on bodhicitta; it is extremely hard to find, and when found it is an excellent basis on which one can easily accomplish great aims, both temporary and ultimate. So now, while we have obtained this good support, we must make it meaningful — not squandering it through the laziness of procrastination or the ignorance of not knowing better. These days, among the many people in the world, very few have both faith in the Buddha's teaching and loving concern for others; so we should recognize how rare it is to have gained a human body with sound faculties and to have met the Dharma, and, casting off the discouragement of thinking "I can't do anything," strive to practice the Dharma as much as we can.
 
@@ -318,7 +318,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-5]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso, His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 From beginningless time, through the force of habituation to the afflictions, we spend most of the twenty-four hours of the day gripped by attachment, aversion, and confusion, carried along amid all sorts of wrongdoing and stray thoughts. In their midst, through outer and inner conditions, a mind of faith or a Dharma thought arises only now and then, for a moment — and even that is mostly difficult. Many people outwardly wear Dharma robes and call themselves practitioners, or sit fingering prayer beads reciting mani, but real virtue has to be accomplished within the mind; merely holding beads will not produce it. As Je Rinpoche said in the Great Treatise on the Stages of the Path, "there is no way to tame others while oneself is untamed" — taming oneself is extremely hard; and in the mind of someone who has neither known nor heard how things really are, all sorts of bad thoughts are bound to arise, so one must be watchful then.
 

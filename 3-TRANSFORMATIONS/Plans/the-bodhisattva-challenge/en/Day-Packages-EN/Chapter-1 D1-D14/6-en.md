@@ -130,7 +130,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-15]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso, His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 Dividing bodhicitta by way of its essential nature, in brief it is just this: the mind that aspires toward awakening, and the mind that engages in awakening.
 
@@ -281,7 +281,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-16]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso, His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 How do the two differ? Just as one knows the difference or distinction between a person who wishes and strives to travel to a desired place, and one who has actually set out on the road and is traveling — so too the wise bodhisattvas should know, exactly in its proper sequence, the difference between these two minds, the aspiring and the engaging.
 
@@ -374,7 +374,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-16]]
 
 2. **The difference between focusing on the result and focusing on the causal path.** Although many scholars are said to hold differing views on how to demarcate these two, most traditions agree that not being engaged in the act [of practice] is the aspiring mind and being engaged in it is the engaging mind.
 
-3. **Two methods of meditation: the exchange of self and other, and the sevenfold cause-and-effect instruction.** Gyalwa Tenzin Gyatso teaches that, although there are two methods of cultivating bodhicitta — the pith instruction of exchanging self and other, and the sevenfold cause-and-effect instruction — here in the Bodhicaryāvatāra the method of exchanging self and other is taken as the main one. He advises that it is right to use whichever means suits the individual meditator's mental disposition; and he notes that scholars disagree on whether recognizing all beings as one's mother must be set as a preliminary to exchanging self and other, without giving a definite conclusion.
+3. **Two methods of meditation: the exchange of self and other, and the sevenfold cause-and-effect instruction.** His Holiness the Dalai Lama teaches that, although there are two methods of cultivating bodhicitta — the pith instruction of exchanging self and other, and the sevenfold cause-and-effect instruction — here in the Bodhicaryāvatāra the method of exchanging self and other is taken as the main one. He advises that it is right to use whichever means suits the individual meditator's mental disposition; and he notes that scholars disagree on whether recognizing all beings as one's mother must be set as a preliminary to exchanging self and other, without giving a definite conclusion.
 
 4. **The aspiring mind outshines the qualities of the shravakas.** Even without having entered the path, and even when unable [to practice] the perfections, merely generating the aspiring mind means one does not lose the name "bodhisattva" and outshines the qualities of the shravakas and pratyekabuddhas — as taught in the *Account of Maitreya's Liberation*.
 

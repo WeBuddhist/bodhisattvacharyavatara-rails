@@ -131,7 +131,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso, His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 Thus, the reason such benefits arise is taught in the Sūtra Requested by Subāhu: that if some beings of indefinite shravaka and pratyekabuddha family, in order to turn back their devotion to the lesser path, generate the mind toward supreme awakening, benefits like these follow. And not only that — if one examines with reasoning, there are further reasons too, he says.
 
@@ -451,7 +451,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso, His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 As told in the story of the merchant-chief's friend's daughter, even giving rise to the good thought of wishing to relieve a particular kind of a being's suffering — a headache or a sore head — brought great benefit, as the account shows. Here, [the point] is not the identifying of some particular suffering of all beings equal to space, but wishing to remove suffering in its entirety, and wishing to accomplish [for beings] the immeasurable qualities of the buddha-grounds: if such a mind arises, that immeasurable merit arises — what need is there even to speak of it?
 

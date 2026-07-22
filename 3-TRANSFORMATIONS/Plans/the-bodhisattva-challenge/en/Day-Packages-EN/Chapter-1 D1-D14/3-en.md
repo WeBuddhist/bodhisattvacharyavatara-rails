@@ -140,7 +140,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-6]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso, His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 For us, through the force of habituation since beginningless time, the side of faults is very strong — the misdeeds and downfalls accumulated in the past and the wrongdoing still being accumulated now form a powerful, discordant force. The single unsurpassed method for clearing all of that away — a method that is like one thing that suffices for everything, a gathering of all in one — is nothing other than bodhicitta, the mind that cherishes others more than oneself. As for the word "enlightenment" (byang chub): put simply, byang ("purified") means that the cognitive obscurations that obstruct the knowing of all knowable things, the afflictive obscurations that establish their habitual imprints, and all the classes of faults of body and speech — the corrupt states and misdeeds that arise from those two — are exhausted forever and purified without remainder; and chub ("perfected") means the attainment of the ultimate, unsurpassed knowledge that, by the power of having exhausted all the obscurations to knowing, sees the two truths simultaneously. If bodhicitta arises by the power of great compassion, focused on all sentient beings, then in a single instant it can overcome the entire discordant side.
 
@@ -244,7 +244,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-6]] [[1-SOU
 > — *Jātakamālā* (showing that through the power of great compassion, a non-virtuous mind does not arise.)
 
 > Even if, for the sake of a single being, I must dwell for an ocean of eons in the fire of the Avīci hell, may I be blessed to perfect the perfection of diligence — striving with compassion, undaunted, for supreme enlightenment.
-> — an aspiration prayer spoken by Gyalwa Tenzin Gyatso (making the aspiration to bring bodhicitta to completion through the power of compassion.)
+> — an aspiration prayer spoken by His Holiness the Dalai Lama (making the aspiration to bring bodhicitta to completion through the power of compassion.)
 
 > If bodhicitta is born in the mindstream, the accumulations too are completed by it, and wrongdoing and obscurations too are purified by it.
 > — a saying of the early Kadampa geshes (showing the power of bodhicitta alone to complete the two accumulations and to purify wrongdoing and obscurations.)
@@ -266,7 +266,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-6]] 
 
 5. **The two readings of "always."** Minyak Kunzang Sonam gives two ways of explaining the word "always" in the verse: (1) applied to virtue, so that "virtue is always feeble"; and (2) applied to wrongdoing, so that "wrongdoing is always powerful and unbearable." Both accord with the meaning of the verse and may be taken up.
 
-6. **The power to overcome the discordant side in a single instant.** Gyalwa Tenzin Gyatso teaches this with the example of a great weapon: just as, however powerful an enemy army decked out with countless weapons may be, a single substance of great force can destroy it in an instant, so bodhicitta too can overcome, in a single instant, the entire discordant side accumulated since beginningless time. He likewise explains the very meaning of the word "enlightenment" (byang chub) — byang = the purifying, without remainder, of the whole class of faults and misdeeds; chub = the attaining of the knowledge that sees the two truths simultaneously — in accord with the key point of this verse.
+6. **The power to overcome the discordant side in a single instant.** His Holiness the Dalai Lama teaches this with the example of a great weapon: just as, however powerful an enemy army decked out with countless weapons may be, a single substance of great force can destroy it in an instant, so bodhicitta too can overcome, in a single instant, the entire discordant side accumulated since beginningless time. He likewise explains the very meaning of the word "enlightenment" (byang chub) — byang = the purifying, without remainder, of the whole class of faults and misdeeds; chub = the attaining of the knowledge that sees the two truths simultaneously — in accord with the key point of this verse.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-6]] [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-6]] [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-6]] [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-6]] [[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-6]] [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-6]] [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-6]]
 
@@ -334,7 +334,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-7]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso, His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 The mighty sages, who in the past during the time on the path of training strove for many eons and reflected deeply — asking what kind of benefit there might be for beings — those who so contemplated saw that this bodhicitta alone, this very thing alone, is of the greatest benefit. Through this bodhicitta of cherishing others more than oneself, the boundless and endless multitudes of beings, by an easy path, come to attain the resultant state of happiness; this too, he teaches, comes about in dependence on this bodhicitta.
 
@@ -500,7 +500,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-8]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso, His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+##### tenzin-gyatso — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 If a good bodhicitta arises, one attains the ultimate, unsurpassed state of a perfectly awakened buddha; and even in the immediate term one goes from bliss to bliss. Not to mention the state of buddhahood — even in the immediate term, while still wandering in samsaric existence, one is untouched by suffering and attains an unbroken stream of the excellences of existence; and in dependence on that, traveling the path from bliss to bliss, the ultimate result — the perfection of abandonment and realization — also depends on bodhicitta. The "thought of benefiting [others]" is taught to be the root of all that is good; and since one in whom such a good heart is present benefits not only oneself but also one's companions and one's whole environment, he teaches that it brings about the supreme bliss with ease.
 
@@ -638,7 +638,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-8]] 
 
 - Verses 1-6, 1-7, and 1-8 together mark the three reasons for giving rise to bodhicitta and never forsaking it: the clearing away of suffering that no other method can overpower (1-6); the buddhas' own analysis establishing it as the single cause of benefit and happiness (1-7); and the accomplishment, without remainder, of every aim any type of person could wish for (1-8).
 
-- Gyalwa Tenzin Gyatso teaches that this benefit is not confined to the single person who holds bodhicitta: since the "thought of benefiting others" (phan pa'i bsam pa) is the root of all that is good, the person in whom it arises brings benefit not only to oneself but to one's companions and one's whole environment. In this he shows the ultimate reason for never forsaking bodhicitta even for an instant.
+- His Holiness the Dalai Lama teaches that this benefit is not confined to the single person who holds bodhicitta: since the "thought of benefiting others" (phan pa'i bsam pa) is the root of all that is good, the person in whom it arises brings benefit not only to oneself but to one's companions and one's whole environment. In this he shows the ultimate reason for never forsaking bodhicitta even for an instant.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-8]] [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-8]] [[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-8]] [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-8]]
 

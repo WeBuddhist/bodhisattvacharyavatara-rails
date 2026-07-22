@@ -140,7 +140,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-9]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso, His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 If the precious bodhicitta that cherishes others more than oneself should arise, then from the very first instant of its arising — even if, up to now, one had fallen under the power of karma and the afflictions, a wretched being confined in the prison of samsara, of lowly support, like an animal even — once the precious bodhicitta is born in one's mindstream, then although one may lack any [special] quality such as the view that realizes emptiness, and although in terms of one's support one may be a pitiable being like a destitute pauper, in that very instant of bodhicitta's birth one takes on the name "heir of the Blissful Ones," and in terms of one's standing, too, one becomes worthy to receive the homage of the world together with its gods. So he says.
 
@@ -324,7 +324,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso, His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 That a being dwelling in a support such as this — the present body, a gross aggregate of flesh and bone, an impure support — could become the body of a buddha, endowed with every quality, its every fault exhausted, adorned with the major and minor marks: this seems almost beyond the mind's grasp. If one asks by what condition and by what means this is accomplished — it is accomplished by that bodhicitta which cherishes others more than oneself. Because it is in dependence on this bodhicitta that the precious body of a victor — beyond all price, adorned with the marks and signs — is attained upon the basis of an impure body such as this, hold this very bodhicitta utterly firm. So he says.
 
@@ -511,7 +511,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-11]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso, His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 The sole guide of beings — the one and only guide who shows wandering beings the excellent path to temporary and ultimate benefit and happiness — is the Buddha, the Blessed One; and "with measureless intelligence" means that with his ultimate wisdom, to which nothing is an obstacle, he saw and examined thoroughly. When he did so, he found that there is nothing higher than the precious bodhicitta — the unsurpassed means, beyond all price, which single-pointedly gives beings happiness for the present and accomplishes the state of unsurpassed perfect awakening in the end. Therefore those who wish to be free from the state of wandering beings — the abodes of the six classes — must hold well and firm this precious bodhicitta, beyond all price. So he says.
 

@@ -130,7 +130,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-15]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso, His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 Dividing bodhicitta by way of its essential nature, in brief it is just this: the mind that aspires toward awakening, and the mind that engages in awakening.
 
@@ -281,7 +281,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-16]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso, His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 How do the two differ? Just as one knows the difference or distinction between a person who wishes and strives to travel to a desired place, and one who has actually set out on the road and is traveling — so too the wise bodhisattvas should know, exactly in its proper sequence, the difference between these two minds, the aspiring and the engaging.
 

@@ -131,7 +131,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso, His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 Thus, holding others dearer than oneself from the depths of the heart, one gives rise to the intention that wishes to set all beings equal to endless space in lasting happiness, free from all suffering — to set others in the ultimate, unsurpassed happiness, complete awakening. As for the means of accomplishing this, however much hardship it takes, and however long it may require, if such a good-hearted courage arises that does not have even a hair's tip of discouragement, benefits like these come about — but such a good mind is exceedingly rare to arise, he says. In the world, though a parent's love for their own child is among the greatest kinds of love, even such a good mind is hard to give rise to; and in the gods, sages, Brahmā, and the rest who are renowned as great in the world, there is no way for such a mind to arise at all. This is why the words "does even Brahmā have this?" are framed as a rhetorical question that negates [it].
 
@@ -295,7 +295,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso, His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 Thus, even in Brahmā and Indra and the rest, renowned as great in the world, such a mind cannot arise. Why? Because if, even for their own sake, they cannot give rise to the pursuit of the state of buddhahood — in which every fault is exhausted and every quality complete — being held back by discouragement and the like, then what need is there to speak of a mind wishing to set all beings equal to space in such a state?
 
@@ -445,7 +445,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso, His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 Thus, [as for] others such as Brahmā and Indra — a mind that wishes to remove immeasurable faults and accomplish immeasurable qualities cannot arise even when aimed at their own sake — that this unsurpassed, special, precious mind should be born in one's own continuum is [what he means by] "born as an unprecedented marvel": it is a way of being amazed at oneself, he says.
 

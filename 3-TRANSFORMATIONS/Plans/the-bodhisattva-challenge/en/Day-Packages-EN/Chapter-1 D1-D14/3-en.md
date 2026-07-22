@@ -140,7 +140,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-6]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso, His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 For us, through the force of habituation since beginningless time, the side of faults is very strong — the misdeeds and downfalls accumulated in the past and the wrongdoing still being accumulated now form a powerful, discordant force. The single unsurpassed method for clearing all of that away — a method that is like one thing that suffices for everything, a gathering of all in one — is nothing other than bodhicitta, the mind that cherishes others more than oneself. As for the word "enlightenment" (byang chub): put simply, byang ("purified") means that the cognitive obscurations that obstruct the knowing of all knowable things, the afflictive obscurations that establish their habitual imprints, and all the classes of faults of body and speech — the corrupt states and misdeeds that arise from those two — are exhausted forever and purified without remainder; and chub ("perfected") means the attainment of the ultimate, unsurpassed knowledge that, by the power of having exhausted all the obscurations to knowing, sees the two truths simultaneously. If bodhicitta arises by the power of great compassion, focused on all sentient beings, then in a single instant it can overcome the entire discordant side.
 
@@ -334,7 +334,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-7]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso, His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 The mighty sages, who in the past during the time on the path of training strove for many eons and reflected deeply — asking what kind of benefit there might be for beings — those who so contemplated saw that this bodhicitta alone, this very thing alone, is of the greatest benefit. Through this bodhicitta of cherishing others more than oneself, the boundless and endless multitudes of beings, by an easy path, come to attain the resultant state of happiness; this too, he teaches, comes about in dependence on this bodhicitta.
 
@@ -500,7 +500,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-8]]
 #### Commentary Explanations
 
 <!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso, His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
 If a good bodhicitta arises, one attains the ultimate, unsurpassed state of a perfectly awakened buddha; and even in the immediate term one goes from bliss to bliss. Not to mention the state of buddhahood — even in the immediate term, while still wandering in samsaric existence, one is untouched by suffering and attains an unbroken stream of the excellences of existence; and in dependence on that, traveling the path from bliss to bliss, the ultimate result — the perfection of abandonment and realization — also depends on bodhicitta. The "thought of benefiting [others]" is taught to be the root of all that is good; and since one in whom such a good heart is present benefits not only oneself but also one's companions and one's whole environment, he teaches that it brings about the supreme bliss with ease.
 

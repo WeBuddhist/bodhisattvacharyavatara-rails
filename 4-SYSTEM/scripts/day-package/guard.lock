@@ -1,34 +1,34 @@
 # guard.lock — sha256 baseline of protected source-of-truth files.
 # Regenerate ONLY after an approved change: `guard record`.
-035d7f1accb2fa33854e83562ec5810cc8ffe36a7d1a6febafca2bdce678fe60  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/1-en.md
-840c77958a33cbab6164a99ce18074c927bb34382b2220606446bded1c91641d  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/10-en.md
-179b9369dba46cd8310dd822107a174c7748446b042b64a1211c1ddec5b458d4  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/11-en.md
-5e7ebba09a11a798edc219210590ca376a433966dda8bd372731d09063e3ada6  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/12-en.md
-254a1a89981fee54908ee23f3651d3a0d63a759249c00a435912377423847f32  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/13-en.md
-8f7e3bb98f7b5b6ad366c53821815814045cc2ee7a41221fdac5872f9889fc40  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/14-en.md
-36ef0b8abe4c375803a7a6345f35258b514b14db665c2d78e1453e6a0745050a  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/2-en.md
-79b2842829d9a1b4ecbe8eae6308294304fd62f48104710f1eeec6b63f259b81  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/3-en.md
-9ce963a6e65ce3a0fd73f030ba9aa9d4dee51eb88478b27a338e3f8a27d51e0c  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/4-en.md
-b634013decede0e2e248325d942328e45d7c1d563e101b2a6c33debed41a119d  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/5-en.md
-222e9a3b7f2d31e540641a4ab97349595333e1b87215ce1f64512941a3a90cd6  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/6-en.md
-781fe1af9380cf1f02974b749575a2803558a43472d1bbce84dec0f3cf2668c7  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/7-en.md
-49954653c7fad004d3726578f67aaff72395766849b470c8e22371b5632d1352  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/8-en.md
-0de879306ad2a62e0393645685918146ffe99619c6649d6c8920a210428a04dd  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/9-en.md
-328ca8437d00a6ea58a619563f7d2ec5cbbfbbd775bd312d23ae3a1b98a17da3  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/1.md
-2583e207bd28aec3daad053ee763b9bda82f2783327e1f3d74074bae2142965c  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/10.md
-bfc49a3f8eea99b6b7ed4055bebb443641e6db177a76e29df796e5c87e9de2e0  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/11.md
-cd602c396939fbe623e89a3b0548d49d35f20c3239e4dd28e93626b385adcd7f  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/12.md
-f4b56a19b08d1eb0cccceeccca894a9760f8726d3050b3b0b5795cc46f6562ed  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/13.md
-47ac0164f77ec3ff880f9242b60f783286d9b50cf4aa36bad66d4cae9806f44d  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/14.md
-a12002622756461a50c7601c92c556a018d75937da4fffcd3dc8f22eb7f1c308  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/2.md
-a02f35a462cb77f4ffee77a4446d3964eddfdc25d81c06c936ccadea3792c761  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/3.md
-3363e20daa80ef2da10c00dde0dfaac738f5b1508eaccdb0c30f08c378ba4e69  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/4.md
-6ae027da817b7f3bdd461f85739ad2763001ec2a6366b894d1b5cecf805b3d87  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/5.md
-061ee98fdbae34a0de627305f697c8a919a6f1dbe16f2c60de24348a3fa51570  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/6.md
-b17c9201a5e814bfe74b9c8c428e25d8c5fedabb3a7b55f2253248fe6889044a  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/7.md
-59e3ba2298be59a324a23a1a941f7d2086b1c26d96c63c6453118bddcd331cd2  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/8.md
-f126d46db31c12b9944994a50e1fb706314e4ee45246a583a30b0bcafee91ac9  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/9.md
+c720a664e4a99bca5fa75933eace0f085537338858847c6d4639ceb6bc6f89d7  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/1-en.md
+35e82fd8a3ab318cb9247cab33bdb55c98a7167ed4077103c843dc1ec092b8a5  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/10-en.md
+38a964a22f1cf02208a8eb38759c840d5e7d01f9e6e2b65a01b35c257717e48d  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/11-en.md
+b9f867c378290af1bc027e804c51990f7344a1622a6f4fc45a485fb2d6f489a5  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/12-en.md
+e100e75ca81513d3bd1dc3b278b6ee41a458c5ad7556d543f03331b0951898ed  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/13-en.md
+dae52fb0d43e9d42bb64f13f80326cdcba9d2a3ac04fccd413b4126d16dd3632  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/14-en.md
+13f29d1d7704fc699b1e640c653dbaefe0117b76140d82c0ecc249ad5ac79bb7  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/2-en.md
+75a6694d6bc951f7aab20ad3034a6b3d3bdc918542a07bfde26f108a5c894021  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/3-en.md
+bcac9f4f5aa42f4259ee7d57eb5cc01fa84dd1c45fc1cf1a934b0d29df2c3aef  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/4-en.md
+7ba76b7ccd15edebae598084d219653c579133e1b9cb97636d88c2a9e55e128f  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/5-en.md
+d14b55be99f39b1ad7fdb333ae6989722452f7bccf155c831d0e206eeb06d8f5  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/6-en.md
+a434104968a4a8f44b0327dfc2489a1ccc133c010a245d5a15ac188b6d8aca81  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/7-en.md
+6874f0b77f1b58a3919f8c58419ca1793ab8f3451c0f8bb49cc37ab76538ddd0  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/8-en.md
+c4463ff054f01f89a342a740439e2fb85f4665083181b4080800e3e434b29d6d  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-1 D1-D14/9-en.md
+5e6d6227a835f3098c1f5c4f506333fbe9c710e25ccf89f120ac62b3eed872da  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/1.md
+86a934c7e26496d1633613cfeb7edbb8230c9dc652a90a8d11147f830995ac78  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/10.md
+e50faa5d57fff8933b1fee81882a37e1a94550bf45d3c9a47ddc0307269c03c8  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/11.md
+70ee2fd20f649054ba9a62a36ca915fc13b7c323d2eed3598d035330ec4f06e1  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/12.md
+2843ee193ec262650ceb0a922cbcebe69728330615ca7b6c9fd5e9094209e88e  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/13.md
+a5fd62bea288b2fef7ef17e8be9fbbb5772e17eb0c5387c32ff8bfabc1f0741a  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/14.md
+7b6414f2db3f63d05d92c399165a032dada7f4d6b742df9d7a73f17d63e73e0a  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/2.md
+1925f0e8acc47a3adc3a56865140209eb7133439b569c65ccc6550404d70722b  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/3.md
+6bf2bf154cdc095b22a08567220cafab130c38e69d42f460537ef294befa2a38  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/4.md
+712806b50082683d5ab3bc348ecc82b47aad425af8b4f306b4e2472e69768f84  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/5.md
+88636231070fd97a44eb3c4f57fb3af23352fce15cf0a0aa387a2ca0da915fdf  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/6.md
+1dd4e23fca683b2cae0763c59428489a4c435b510a048ff561c06dadcd7266e8  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/7.md
+611003e4d99ce44083ccba5b1c7ddad6081bafa091e6ff4c003b1ebc2c24189f  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/8.md
+f383538145f7531bc60d4c0104856e43e574c7aad821212aac1259c869d88076  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-1 D1-D14/9.md
 d457e62d102f7081354c36e2b2f1f20f5048b2c136f25b95642d239ca56c6be8  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/_TEMPLATE.md
-e78d3392488bdd6933353794490f5324ca3138f16ea3bfb3d03dc546eb3b1756  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/_TERMBASE.md
+2de9fc3e3ac4bc5d053b36c229c8de727882b9c808f9a53ecbe9b4bd89e7f518  3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/_TERMBASE.md
 4e56a248cfc767c3a3e3f9864e6fd9b14c95b9406be1082f1b94bc90ca7a1bcb  4-SYSTEM/scripts/day-package/day_package_tools.py
 ee8767f31836d5094a210e7cf530d5f9cbd44fa50dd8a5090a3a9384f88891aa  4-SYSTEM/scripts/day-package/reorder_commentators.py

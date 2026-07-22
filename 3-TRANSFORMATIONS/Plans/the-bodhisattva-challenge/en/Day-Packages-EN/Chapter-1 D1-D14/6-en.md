@@ -129,6 +129,13 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-15]]
 <!-- sub:commentary -->
 #### Commentary Explanations
 
+<!-- cm:tenzin-gyatso -->
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+
+Dividing bodhicitta by way of its essential nature, in brief it is just this: the mind that aspires toward awakening, and the mind that engages in awakening.
+
+Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-15]]
+
 <!-- cm:kunpal -->
 ##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
 
@@ -182,13 +189,6 @@ The **engaging mind** — oriented toward the cause: once the aspiring mind has 
 (Khenpo Kunga stresses that, in agreement with the twenty-two-fold division [of the tenet system], in brief there are two kinds, with six sub-types; and he cites the Gaṇḍavyūha.)
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-15]]
-
-<!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
-
-Dividing bodhicitta by way of its essential nature, in brief it is just this: the mind that aspires toward awakening, and the mind that engages in awakening.
-
-Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-15]]
 
 ---
 
@@ -280,6 +280,21 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-16]]
 <!-- sub:commentary -->
 #### Commentary Explanations
 
+<!-- cm:tenzin-gyatso -->
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+
+How do the two differ? Just as one knows the difference or distinction between a person who wishes and strives to travel to a desired place, and one who has actually set out on the road and is traveling — so too the wise bodhisattvas should know, exactly in its proper sequence, the difference between these two minds, the aspiring and the engaging.
+
+As for how these two minds are to be cultivated: in general there are two different methods of cultivating bodhicitta by way of pith instructions — cultivating bodhicitta through the exchange of self and other, and cultivating it through the sevenfold cause-and-effect instruction. Here [Shantideva] teaches with the mind-training method of exchanging self and other as the main one. Because meditators differ in how their minds work and in their mental dispositions, for some this mind-training through exchanging self and other carries a greater risk of confusion, while for others training through the sevenfold cause-and-effect instruction is more likely to give rise to confusion. So it is right to meditate in accordance with one's own character and way of thinking. Even so, the mind-training that exchanges self and other is not only profound but also of great power.
+
+Nowhere from the beginning to the end of the Bodhicaryāvatāra is a method of cultivating "recognizing beings as one's mother" taught. For this reason some scholars say that this text sets out the practices undertaken, once bodhicitta has already been generated, by someone who is training in the bodhisattva conduct; and so, [they say,] recognizing beings as one's mother and the rest is taken as having already come before, and is therefore not taught here — there is a remark to this effect said by Serjé Tsangpa Trizur Rinpoche ⚑. Whether or not this is so, I cannot say for certain. Yet the mind that sees all sentient beings as one's mother is an essential preliminary, without which the bodhicitta that cherishes others more than oneself cannot arise, and so it seems fitting to speak of it here.
+
+(For example:) recognizing beings as one's mother is taught so that, remembering their kindness and feeling a strong wish to repay it, a fierce mind of cherishing and holding dear those beings tormented by suffering may arise. In the exchange of self and other, one proceeds on the basis that oneself and others are alike in wishing for happiness and not wishing for suffering — so even if one does not absolutely see [all beings] as one's mother, if, from the chapter on patience, one finds firm conviction in the teaching that one's own enemy is of very great kindness to oneself, then a mind that firmly cherishes even one's enemy arises, and by its force a powerful wish arises, focused on the enemy: "If only they could be free of all suffering." Since the great scholars have differing ways of explaining the pith instructions, it is excellent even to blend these methods and meditate on them together.
+
+<!-- cm:⚑-Divergences-(differing-positions-among-the-commentators) -->
+
+Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-16]]
+
 <!-- cm:kunpal -->
 ##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
 
@@ -330,21 +345,6 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-16]]
 Just as one knows how the difference stands between the mere intention of a person who, focusing on a place he himself longs to reach, wishes to go, and the intention of one who has properly set out on the road and is traveling — so too, in the same way, wise persons should know the difference between these two mind-generations, the aspiring and the engaging: the mind wishing to attain the result, perfect awakening, is chiefly called the aspiring mind-generation; and the mind that, in order to attain that result of perfect awakening, enters into its causal path is chiefly the engaging mind-generation. He teaches that the sequence of the difference between the two is to be known in this way.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-16]]
-
-<!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
-
-How do the two differ? Just as one knows the difference or distinction between a person who wishes and strives to travel to a desired place, and one who has actually set out on the road and is traveling — so too the wise bodhisattvas should know, exactly in its proper sequence, the difference between these two minds, the aspiring and the engaging.
-
-As for how these two minds are to be cultivated: in general there are two different methods of cultivating bodhicitta by way of pith instructions — cultivating bodhicitta through the exchange of self and other, and cultivating it through the sevenfold cause-and-effect instruction. Here [Shantideva] teaches with the mind-training method of exchanging self and other as the main one. Because meditators differ in how their minds work and in their mental dispositions, for some this mind-training through exchanging self and other carries a greater risk of confusion, while for others training through the sevenfold cause-and-effect instruction is more likely to give rise to confusion. So it is right to meditate in accordance with one's own character and way of thinking. Even so, the mind-training that exchanges self and other is not only profound but also of great power.
-
-Nowhere from the beginning to the end of the Bodhicaryāvatāra is a method of cultivating "recognizing beings as one's mother" taught. For this reason some scholars say that this text sets out the practices undertaken, once bodhicitta has already been generated, by someone who is training in the bodhisattva conduct; and so, [they say,] recognizing beings as one's mother and the rest is taken as having already come before, and is therefore not taught here — there is a remark to this effect said by Serjé Tsangpa Trizur Rinpoche ⚑. Whether or not this is so, I cannot say for certain. Yet the mind that sees all sentient beings as one's mother is an essential preliminary, without which the bodhicitta that cherishes others more than oneself cannot arise, and so it seems fitting to speak of it here.
-
-(For example:) recognizing beings as one's mother is taught so that, remembering their kindness and feeling a strong wish to repay it, a fierce mind of cherishing and holding dear those beings tormented by suffering may arise. In the exchange of self and other, one proceeds on the basis that oneself and others are alike in wishing for happiness and not wishing for suffering — so even if one does not absolutely see [all beings] as one's mother, if, from the chapter on patience, one finds firm conviction in the teaching that one's own enemy is of very great kindness to oneself, then a mind that firmly cherishes even one's enemy arises, and by its force a powerful wish arises, focused on the enemy: "If only they could be free of all suffering." Since the great scholars have differing ways of explaining the pith instructions, it is excellent even to blend these methods and meditate on them together.
-
-<!-- cm:⚑-Divergences-(differing-positions-among-the-commentators) -->
-
-Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-16]]
 
 <!-- div:divergences -->
 ##### ⚑ Divergences (differing positions among the commentators)

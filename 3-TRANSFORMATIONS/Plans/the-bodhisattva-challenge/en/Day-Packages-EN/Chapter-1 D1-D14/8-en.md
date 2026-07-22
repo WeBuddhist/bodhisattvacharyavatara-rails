@@ -130,6 +130,13 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]
 <!-- sub:commentary -->
 #### Commentary Explanations
 
+<!-- cm:tenzin-gyatso -->
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+
+Thus, the reason such benefits arise is taught in the Sūtra Requested by Subāhu: that if some beings of indefinite shravaka and pratyekabuddha family, in order to turn back their devotion to the lesser path, generate the mind toward supreme awakening, benefits like these follow. And not only that — if one examines with reasoning, there are further reasons too, he says.
+
+Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-20]]
+
 <!-- cm:kunpal -->
 ##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
 
@@ -171,13 +178,6 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]
 That there is immeasurable merit in generating the mind toward supreme awakening — this, with reasons, [is shown thus]: in that very sūtra, the *Sūtra Requested by the youthful Bodhisattva Subāhu,* those beings of indefinite family devoted to the lesser vehicle are addressed for the sake of being drawn upward onto the path of the Great Vehicle; and the Tathāgata, the perfect Buddha, spoke it directly from his own mouth. He establishes this chiefly by way of scripture.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]
-
-<!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
-
-Thus, the reason such benefits arise is taught in the Sūtra Requested by Subāhu: that if some beings of indefinite shravaka and pratyekabuddha family, in order to turn back their devotion to the lesser path, generate the mind toward supreme awakening, benefits like these follow. And not only that — if one examines with reasoning, there are further reasons too, he says.
-
-Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-20]]
 
 ---
 
@@ -450,6 +450,15 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]
 <!-- sub:commentary -->
 #### Commentary Explanations
 
+<!-- cm:tenzin-gyatso -->
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+
+As told in the story of the merchant-chief's friend's daughter, even giving rise to the good thought of wishing to relieve a particular kind of a being's suffering — a headache or a sore head — brought great benefit, as the account shows. Here, [the point] is not the identifying of some particular suffering of all beings equal to space, but wishing to remove suffering in its entirety, and wishing to accomplish [for beings] the immeasurable qualities of the buddha-grounds: if such a mind arises, that immeasurable merit arises — what need is there even to speak of it?
+
+*[Grouping note: this commentary brings the merchant-chief's friend's daughter's story (full version in Verse 1-21 → Stories) back here only as an illustration of this verse's meaning; it is not a new story.]*
+
+Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-22]]
+
 <!-- cm:kunpal -->
 ##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
 
@@ -491,15 +500,6 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]
 Aroused by the good intention of generating bodhicitta, the bodhisattva wishes to remove all the immeasurable — indeed countless — discomfort or suffering present in the body and mind of each and every being throughout space; and he wishes to accomplish, in the continuum of each of those beings, the immeasurable qualities — the temporary and ultimate fruit, the happiness of higher states and definite goodness. That such bodhisattvas come to attain, in their continuum, an immeasurable and uncountable merit of mind-generation — what need is there even to speak of it?
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]
-
-<!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
-
-As told in the story of the merchant-chief's friend's daughter, even giving rise to the good thought of wishing to relieve a particular kind of a being's suffering — a headache or a sore head — brought great benefit, as the account shows. Here, [the point] is not the identifying of some particular suffering of all beings equal to space, but wishing to remove suffering in its entirety, and wishing to accomplish [for beings] the immeasurable qualities of the buddha-grounds: if such a mind arises, that immeasurable merit arises — what need is there even to speak of it?
-
-*[Grouping note: this commentary brings the merchant-chief's friend's daughter's story (full version in Verse 1-21 → Stories) back here only as an illustration of this verse's meaning; it is not a new story.]*
-
-Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-22]]
 
 ---
 

@@ -138,6 +138,13 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-1]]
 <!-- sub:commentary -->
 #### Commentary Explanations
 
+<!-- cm:tenzin-gyatso -->
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+
+In the word *sugata*, "su" means bliss and "gata" means "gone" or "departed." Here "gone" is one in meaning with "realized," so it can be applied both to the Sugata of abandonment and to the Sugata of realization. In abandonment too there are three distinctions: through unmistaken realization, having well abandoned self-grasping by the power of its antidote — "gone beautifully"; such that even on meeting the conditions it cannot arise again — "gone without return"; and through non-conceptual wisdom endowed with every form of skillful means, acting as the antidote to all that is to be abandoned, having abandoned it without remainder. These three mark the special qualities of a Sugata. After the afflictive obscurations are exhausted, gradually abandoning the cognitive obscurations that obstruct the knowing of all knowable things, the one who possesses the ultimate knowledge that knows the two truths simultaneously is the Buddha alone. As for "heirs," this can apply both to heirs born from the speech of the Sugata and to heirs of the heart. "Entering the commitments" means entering the three ethical trainings — the ethics of restraint from misconduct, the ethics of gathering virtue, and the ethics of acting for beings' welfare — which are included within the generation of bodhicitta and the conduct of the six perfections. "Expressed in brief in accordance with the scriptures" shows that this text is not the author's own invention, but is taught in harmony with the intent of the Great Vehicle scriptures, such as the Avataṃsaka sutras.
+
+Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-1]]
+
 <!-- cm:kunpal -->
 ##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
 
@@ -202,13 +209,6 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-1]]
 "Sugata" is explained in its three meanings from the side of both what is abandoned and what is realized, distinguishing the buddha from non-Buddhists and from the noble shravakas and pratyekabuddhas. Under "Truth Body," two are set out: the Truth Body of realization — the sphere of reality unstained by adventitious defilements — and the Truth Body of teaching — the profound and vast sutras. "Heirs" chiefly means the bodhisattvas dwelling on the ten grounds, endowed with the three qualities. The Three Jewels are the ultimate refuge. The homage serves four purposes: completing the composition without obstacle; giving confidence to later followers; averting mistaken views about the text; and making the text beautiful. Within the three verses of the first chapter, the author sets out in sequence the four topics: subject matter, purpose, essential purpose, and connection.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-1]]
-
-<!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
-
-In the word *sugata*, "su" means bliss and "gata" means "gone" or "departed." Here "gone" is one in meaning with "realized," so it can be applied both to the Sugata of abandonment and to the Sugata of realization. In abandonment too there are three distinctions: through unmistaken realization, having well abandoned self-grasping by the power of its antidote — "gone beautifully"; such that even on meeting the conditions it cannot arise again — "gone without return"; and through non-conceptual wisdom endowed with every form of skillful means, acting as the antidote to all that is to be abandoned, having abandoned it without remainder. These three mark the special qualities of a Sugata. After the afflictive obscurations are exhausted, gradually abandoning the cognitive obscurations that obstruct the knowing of all knowable things, the one who possesses the ultimate knowledge that knows the two truths simultaneously is the Buddha alone. As for "heirs," this can apply both to heirs born from the speech of the Sugata and to heirs of the heart. "Entering the commitments" means entering the three ethical trainings — the ethics of restraint from misconduct, the ethics of gathering virtue, and the ethics of acting for beings' welfare — which are included within the generation of bodhicitta and the conduct of the six perfections. "Expressed in brief in accordance with the scriptures" shows that this text is not the author's own invention, but is taught in harmony with the intent of the Great Vehicle scriptures, such as the Avataṃsaka sutras.
-
-Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-1]]
 
 ---
 
@@ -346,6 +346,13 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-2]]
 <!-- sub:commentary -->
 #### Commentary Explanations
 
+<!-- cm:tenzin-gyatso -->
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+
+This stanza is speech that humbles pride. Although the master shows the manner of one who holds himself very low, since the text later says "join your palms to everyone," by implication the purpose of depending on others is also included. Even if there is nothing to hear that was never heard before, there is still meaning in hearing again what one has already understood: someone seeking the Dharma must, until buddhahood, hear it again and again and meditate on it again and again. As Je Rinpoche said in the Great Treatise on the Stages of the Path, "one should reflect on it just as one has looked at what needs to be looked at" — whether or not a fresh understanding arises, the main thing is to meditate again and again. There is likewise no difference between good and poor verse-craft: as it is said, "Rely not on the words but on the meaning; rely not on the person but on the Dharma" — for a Dharma practitioner, whether or not the wording is elegant, one must reflect on the meaning.
+
+Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-2]]
+
 <!-- cm:kunpal -->
 ##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
 
@@ -406,13 +413,6 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-2]]
 The subject matter of the Bodhicaryāvatāra has already been taught by the earlier great masters — the Buddha, Nāgārjuna, Asaṅga, and others — so it is not new. Nor is [Shantideva's] skill in composition like the poetic craft that delights the learned, such as the birth-story sutras of Kalyāṇagarbha or Āryaśūra's Thirty-Four Jātakas. Therefore he has no thought that great benefit for others will come from this text; its purpose is to grow familiar with bodhicitta in his own mind. By humbling pride, he removes the fault of conceit and lays the root by which this text may also come to benefit others.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-2]]
-
-<!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
-
-This stanza is speech that humbles pride. Although the master shows the manner of one who holds himself very low, since the text later says "join your palms to everyone," by implication the purpose of depending on others is also included. Even if there is nothing to hear that was never heard before, there is still meaning in hearing again what one has already understood: someone seeking the Dharma must, until buddhahood, hear it again and again and meditate on it again and again. As Je Rinpoche said in the Great Treatise on the Stages of the Path, "one should reflect on it just as one has looked at what needs to be looked at" — whether or not a fresh understanding arises, the main thing is to meditate again and again. There is likewise no difference between good and poor verse-craft: as it is said, "Rely not on the words but on the meaning; rely not on the person but on the Dharma" — for a Dharma practitioner, whether or not the wording is elegant, one must reflect on the meaning.
-
-Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-2]]
 
 ---
 
@@ -516,6 +516,13 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-3]]
 <!-- sub:commentary -->
 #### Commentary Explanations
 
+<!-- cm:tenzin-gyatso -->
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+
+The point where the word "these" applies: although the master is about to compose the treatise directly, this refers, in brief, to the complete plan of the ten-chapter treatise already laid out in the master's mind. When composing this text — examining it while contemplating again and again — on the basis of familiarity, the strength of faith in the mind-stream of the bodhisattva master would increase more and more; he says this comes about through the very act of composing the treatise, so that it benefits the author himself. As for the force of the word "for now": if a suitable vessel should appear, complete with the right characteristics, benefit for others too is possible — he says that "for now," first depending on oneself, there is the purpose that the strength of faith increase more and more. And if others to be trained, of equal fortune to himself — of equal disposition, or sharing a similar outlook — should see this text, it can become meaningful for them; thus he shows the opportunity to benefit others as well.
+
+Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-3]]
+
 <!-- cm:kunpal -->
 ##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
 
@@ -559,13 +566,6 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-3]]
 If one composes this in order to meditate on such wondrous **virtue** — bodhicitta — and to increase it more and more, then Shantideva's own **strength of faith** — clear faith in the Three Jewels, confidence in karma and its results, and yearning faith toward liberation and omniscience — **by these** [words], **for now**, will increase more and more as is fitting. Nor is benefit for others entirely absent: if other followers to be trained, **of realization equal** to Shantideva's, **should somehow see** and understand with their minds the subject matter of this text, the Bodhicaryāvatāra, **there will be benefit**, both temporary and ultimate.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-3]]
-
-<!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
-
-The point where the word "these" applies: although the master is about to compose the treatise directly, this refers, in brief, to the complete plan of the ten-chapter treatise already laid out in the master's mind. When composing this text — examining it while contemplating again and again — on the basis of familiarity, the strength of faith in the mind-stream of the bodhisattva master would increase more and more; he says this comes about through the very act of composing the treatise, so that it benefits the author himself. As for the force of the word "for now": if a suitable vessel should appear, complete with the right characteristics, benefit for others too is possible — he says that "for now," first depending on oneself, there is the purpose that the strength of faith increase more and more. And if others to be trained, of equal fortune to himself — of equal disposition, or sharing a similar outlook — should see this text, it can become meaningful for them; thus he shows the opportunity to benefit others as well.
-
-Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-3]]
 
 ---
 

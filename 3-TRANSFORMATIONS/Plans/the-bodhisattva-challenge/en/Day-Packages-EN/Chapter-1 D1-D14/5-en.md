@@ -136,6 +136,13 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-12]]
 <!-- sub:commentary -->
 #### Commentary Explanations
 
+<!-- cm:tenzin-gyatso -->
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+
+With roots of virtue such as those concordant with liberation and those concordant with merit, once their respective fruit has been actualized, their power is used up. But if a root of virtue is embraced by bodhicitta — the mind that, for the very sake of its purpose, the welfare of beings, seeks complete awakening, and that is a virtuous resolve to accomplish others' welfare for as long as space endures — then even after the state of complete awakening has been actualized, its task is still not finished, nor is the ultimate goal completely fulfilled. Therefore the virtues embraced by that mind come to be inexhaustible even after the state of complete awakening is actualized. Just as a banana-tree trunk dries up once its fruit has ripened, whereas a fruit-bearing tree yields fine fruit year after year without the tree itself withering, but continuing on — so, it is said, virtue embraced by bodhicitta does not run dry after yielding its fruit, but goes on increasing more and more.
+
+Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-12]]
+
 <!-- cm:kunpal -->
 ##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
 
@@ -179,13 +186,6 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-12]]
 This falls under the second outline: showing inexhaustibility through the example of the tree. Once bodhicitta has been generated, then, by relying on entering the accumulations of the path and so forth, like a wish-granting tree (*dpag bsam gyi ljon shing*) one is born among gods and humans, and perfect happiness is yielded constantly, increasing inexhaustibly more and more. The [wish-granting] tree is explained here as three: (*dpag bsam gyi shing*, the wish-fulfilling tree; *lha'i yul yon du sa brtol*, the tree of the realm of the gods; *'dzam bu pakṣa*, the Jambu tree) — all three yield fruit constantly and are inexhaustible, in contrast to the banana tree (*chu shing*), which gives fruit once and is then spent.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-12]]
-
-<!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
-
-With roots of virtue such as those concordant with liberation and those concordant with merit, once their respective fruit has been actualized, their power is used up. But if a root of virtue is embraced by bodhicitta — the mind that, for the very sake of its purpose, the welfare of beings, seeks complete awakening, and that is a virtuous resolve to accomplish others' welfare for as long as space endures — then even after the state of complete awakening has been actualized, its task is still not finished, nor is the ultimate goal completely fulfilled. Therefore the virtues embraced by that mind come to be inexhaustible even after the state of complete awakening is actualized. Just as a banana-tree trunk dries up once its fruit has ripened, whereas a fruit-bearing tree yields fine fruit year after year without the tree itself withering, but continuing on — so, it is said, virtue embraced by bodhicitta does not run dry after yielding its fruit, but goes on increasing more and more.
-
-Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-12]]
 
 ---
 
@@ -289,6 +289,13 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-13]]
 <!-- sub:commentary -->
 #### Commentary Explanations
 
+<!-- cm:tenzin-gyatso -->
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+
+Just as, in the world, a person who has committed a great crime, if he entrusts himself for protection to a brave man of power and authority, comes to be freed from that danger, so we — wretched evildoers without refuge or protector, who through the force of beginningless habituation have fallen under the sway of the afflictions in our mindstreams, and who through that have amassed countless misdeeds of body and speech — can, if we rely on the strength and protection of bodhicitta, be freed in an instant, easily. Therefore, it is said, those endowed with intelligence should indeed rely on such a bodhicitta — nay, they should rely on it wholeheartedly.
+
+Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-13]]
+
 <!-- cm:kunpal -->
 ##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
 
@@ -330,13 +337,6 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-13]]
 This falls under the third outline: showing bodhicitta as the liberator, by the example of a hero. Even if one has committed [deeds] as utterly unbearable as the five of immediate retribution (killing one's father / killing one's mother / killing a monk / drawing blood from the body of a buddha with malicious intent / creating a schism in the sangha), just as by relying on a brave man (one who is stationed at the front line, trained for battle and mighty) one is freed from great danger (that one has only just come to face), so by relying on bodhicitta one is freed (swiftly) in a single instant. **Here 1-13 = suppression (*zil gyis gnon pa*)** is made clear (a technical term of the tenets).
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-13]]
-
-<!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
-
-Just as, in the world, a person who has committed a great crime, if he entrusts himself for protection to a brave man of power and authority, comes to be freed from that danger, so we — wretched evildoers without refuge or protector, who through the force of beginningless habituation have fallen under the sway of the afflictions in our mindstreams, and who through that have amassed countless misdeeds of body and speech — can, if we rely on the strength and protection of bodhicitta, be freed in an instant, easily. Therefore, it is said, those endowed with intelligence should indeed rely on such a bodhicitta — nay, they should rely on it wholeheartedly.
-
-Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-13]]
 
 ---
 
@@ -445,6 +445,13 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-14]]
 <!-- sub:commentary -->
 #### Commentary Explanations
 
+<!-- cm:tenzin-gyatso -->
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+
+When one has trained the mind in the precious bodhicitta so that it is born in one's mindstream, it is like the fire at the end of an age: just as, when an age is destroyed by fire, the fire lays waste to the world-realms, so that mind can, in a single instant, lay waste to however great a wrongdoing there may be. As for the phrase "its boundless benefits" — those qualities were taught within the *Avataṃsaka*, in the *Gaṇḍavyūha Sūtra*, where the great bodhisattva, the protector Maitreya, taught those benefits to the youth Sudhana. And from the *Śikṣāsamuccaya*: this mind endowed with [such] benefits can be generated even by an ordinary person; generating this mind does not require directly seeing the truth or directly seeing emptiness; and, without distinction of male or female, family or lineage, whoever the being may be, if they meditate and make effort, they can generate it. By this, [Śāntideva] teaches the qualities of both aspiration and engagement [bodhicitta] without separating them.
+
+Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-14]]
+
 <!-- cm:kunpal -->
 ##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
 
@@ -506,13 +513,6 @@ This falls under the fourth outline (the fire example) and the fifth (the loving
 **(Last two lines) The boundless qualities** — (citing the *Gaṇḍavyūha*): "Son of noble family, bodhicitta is like the seed of all the qualities of a buddha; it is like the field-ground that makes the virtuous qualities of all beings increase..." — thus it is taught at length. (→ scriptural quotation.)
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-14]]
-
-<!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
-
-When one has trained the mind in the precious bodhicitta so that it is born in one's mindstream, it is like the fire at the end of an age: just as, when an age is destroyed by fire, the fire lays waste to the world-realms, so that mind can, in a single instant, lay waste to however great a wrongdoing there may be. As for the phrase "its boundless benefits" — those qualities were taught within the *Avataṃsaka*, in the *Gaṇḍavyūha Sūtra*, where the great bodhisattva, the protector Maitreya, taught those benefits to the youth Sudhana. And from the *Śikṣāsamuccaya*: this mind endowed with [such] benefits can be generated even by an ordinary person; generating this mind does not require directly seeing the truth or directly seeing emptiness; and, without distinction of male or female, family or lineage, whoever the being may be, if they meditate and make effort, they can generate it. By this, [Śāntideva] teaches the qualities of both aspiration and engagement [bodhicitta] without separating them.
-
-Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-14]]
 
 ---
 

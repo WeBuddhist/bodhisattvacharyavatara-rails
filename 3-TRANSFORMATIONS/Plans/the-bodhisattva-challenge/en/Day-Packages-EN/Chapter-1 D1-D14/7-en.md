@@ -136,6 +136,15 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-17]]
 <!-- sub:commentary -->
 #### Commentary Explanations
 
+<!-- cm:tenzin-gyatso -->
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+
+Of the two just explained — the mind that aspires to awakening and the mind that engages in awakening — if one asks what benefit there is in cultivating the mind that aspires to awakening: while one abides in samsaric existence, there is inconceivably great benefit and power, illustrated by the excellent results of high status, that carry one from happiness to happiness. Even so, aspiration bodhicitta does not possess the kind of merit that increases of itself, uninterruptedly, even during ethically neutral (*lung ma bstan*) states of mind — such as heedlessness or being asleep — when a virtuous attitude is not manifest. So he says.
+
+<!-- cm:⚑-Divergences -->
+
+Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-17]]
+
 <!-- cm:khenpo-zhengah -->
 ##### khenpo-zhengah — Zhenphen Jampé Gocha (annotation commentary)
 
@@ -203,15 +212,6 @@ From the *Gaṇḍavyūha sutra*:
 As it says thus, although such vast results arise, [merit] does not arise continuously — with the very nature of being unbroken — as it does from the root of virtue of the engaging mind, which actually engages in the practice of the six perfections, the path that brings one to attain the state of perfect awakening.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-17]]
-
-<!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
-
-Of the two just explained — the mind that aspires to awakening and the mind that engages in awakening — if one asks what benefit there is in cultivating the mind that aspires to awakening: while one abides in samsaric existence, there is inconceivably great benefit and power, illustrated by the excellent results of high status, that carry one from happiness to happiness. Even so, aspiration bodhicitta does not possess the kind of merit that increases of itself, uninterruptedly, even during ethically neutral (*lung ma bstan*) states of mind — such as heedlessness or being asleep — when a virtuous attitude is not manifest. So he says.
-
-<!-- cm:⚑-Divergences -->
-
-Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-17]]
 
 <!-- div:divergences -->
 ##### ⚑ Divergences
@@ -475,6 +475,13 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]
 <!-- sub:commentary -->
 #### Commentary Explanations
 
+<!-- cm:tenzin-gyatso -->
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+
+Thus, at whatever time, having taken the mind that aspires to awakening as the condition, one sees that in order to attain awakening one must train in the conduct; and, gaining the certainty that without training in the conduct one cannot attain awakening, one pledges and commits to training in the conduct — "from this time on, I will properly train in the entire conduct of a bodhisattva." Thus one resolves, in a manner free of doubt. In order to completely free all the measureless and boundless realms of sentient beings, with an irreversible mind — that is, having resolved from the depths of the heart, with a firm pledge, to train in the conduct — from the moment one genuinely takes up that very engaging mind, once pledged and committed, then by its momentum, even during states of heedlessness (such as when the person endowed with [that mind-stream] is asleep or intoxicated), the momentum of merit arises uninterruptedly, measureless, equal to space. So he says.
+
+Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-19]]
+
 <!-- cm:kunpal -->
 ##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
 
@@ -516,13 +523,6 @@ Sources: [[2-RAILS/Verses/1-18-summary.md]] [[1-SOURCES/Commentaries/Transcluded
 *Note: khenpo-kunga groups verses 1-18 and 1-19 under consecutive transclusions; the shared prose is fully reproduced under Verse 1-18 (see Verse 1-18). The portion of that prose specifically addressing 1-19 reads:* "From the moment one has generated the supreme mind of awakening, or received the vow, onward: even if the person who is the support — that bodhisattva — sleeps at night or becomes slightly heedless during the day, the very momentum of the meritorious virtue of having generated the supreme mind of awakening is uninterrupted and manifold — indeed countless; were it to take material form, it would be like something filling all of space, or equal to space — so it arises. So he says."
 
 Sources: [[2-RAILS/Verses/1-18-summary.md]] [[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]
-
-<!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
-
-Thus, at whatever time, having taken the mind that aspires to awakening as the condition, one sees that in order to attain awakening one must train in the conduct; and, gaining the certainty that without training in the conduct one cannot attain awakening, one pledges and commits to training in the conduct — "from this time on, I will properly train in the entire conduct of a bodhisattva." Thus one resolves, in a manner free of doubt. In order to completely free all the measureless and boundless realms of sentient beings, with an irreversible mind — that is, having resolved from the depths of the heart, with a firm pledge, to train in the conduct — from the moment one genuinely takes up that very engaging mind, once pledged and committed, then by its momentum, even during states of heedlessness (such as when the person endowed with [that mind-stream] is asleep or intoxicated), the momentum of merit arises uninterruptedly, measureless, equal to space. So he says.
-
-Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-19]]
 
 ---
 

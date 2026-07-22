@@ -6,3 +6,4 @@
 3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/_TEMPLATE.md
 3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/_TERMBASE.md
 4-SYSTEM/scripts/day-package/day_package_tools.py
+4-SYSTEM/scripts/day-package/reorder_commentators.py

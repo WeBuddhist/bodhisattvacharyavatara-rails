@@ -189,6 +189,19 @@ Commentator H5 anchors are `cm:<shortid>` (e.g. `cm:kunpal`); story H5 anchors a
 A `Divergences` block (where the commentaries disagree, per the vault's non-flattening
 rule) may appear as an H4 (`sub:divergences`) or nested H5 (`div:divergences`).
 
+**Commentator order (locked).** Within `Commentary Explanations`, His Holiness the Dalai
+Lama's commentary — `tenzin-gyatso` — comes **first**; the remaining commentators follow
+in their source order. The generator must place `tenzin-gyatso` first; to enforce or
+re-apply this after any regeneration, run:
+
+```
+python3 4-SYSTEM/scripts/day-package/reorder_commentators.py <file.md>
+```
+
+(`reorder_commentators.py` moves the `tenzin-gyatso` block to the top of every
+Commentary Explanations section; it is idempotent and works on both the English and
+Tibetan packages. Story/Divergences H5 blocks and other sections are untouched.)
+
 ---
 
 ## Provenance rule

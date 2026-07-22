@@ -130,6 +130,13 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]
 <!-- sub:commentary -->
 #### Commentary Explanations
 
+<!-- cm:tenzin-gyatso -->
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+
+Thus, holding others dearer than oneself from the depths of the heart, one gives rise to the intention that wishes to set all beings equal to endless space in lasting happiness, free from all suffering — to set others in the ultimate, unsurpassed happiness, complete awakening. As for the means of accomplishing this, however much hardship it takes, and however long it may require, if such a good-hearted courage arises that does not have even a hair's tip of discouragement, benefits like these come about — but such a good mind is exceedingly rare to arise, he says. In the world, though a parent's love for their own child is among the greatest kinds of love, even such a good mind is hard to give rise to; and in the gods, sages, Brahmā, and the rest who are renowned as great in the world, there is no way for such a mind to arise at all. This is why the words "does even Brahmā have this?" are framed as a rhetorical question that negates [it].
+
+Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-23]]
+
 <!-- cm:kunpal -->
 ##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
 
@@ -177,13 +184,6 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]
 Whether it be a father who loves one dearly and holds one close, or a mother — that is, parents and siblings, endowed with a good heart that holds one dear — in whom is there a beneficial intention, a mind like this generation of bodhicitta, that wishes to set [beings] in, or attain, such a state of unsurpassed, perfect awakening? There is none. In one's innate or accompanying gods, and in the truth-speaking sages, and likewise in a great Brahmā who has trained his mind in the boundless states — even in them, is there such a good intention, wishing to set [beings] in the state of perfect awakening, the fruit? [No] — such a thing they cannot so much as call to mind.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]
-
-<!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
-
-Thus, holding others dearer than oneself from the depths of the heart, one gives rise to the intention that wishes to set all beings equal to endless space in lasting happiness, free from all suffering — to set others in the ultimate, unsurpassed happiness, complete awakening. As for the means of accomplishing this, however much hardship it takes, and however long it may require, if such a good-hearted courage arises that does not have even a hair's tip of discouragement, benefits like these come about — but such a good mind is exceedingly rare to arise, he says. In the world, though a parent's love for their own child is among the greatest kinds of love, even such a good mind is hard to give rise to; and in the gods, sages, Brahmā, and the rest who are renowned as great in the world, there is no way for such a mind to arise at all. This is why the words "does even Brahmā have this?" are framed as a rhetorical question that negates [it].
-
-Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-23]]
 
 ---
 
@@ -294,6 +294,13 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]
 <!-- sub:commentary -->
 #### Commentary Explanations
 
+<!-- cm:tenzin-gyatso -->
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+
+Thus, even in Brahmā and Indra and the rest, renowned as great in the world, such a mind cannot arise. Why? Because if, even for their own sake, they cannot give rise to the pursuit of the state of buddhahood — in which every fault is exhausted and every quality complete — being held back by discouragement and the like, then what need is there to speak of a mind wishing to set all beings equal to space in such a state?
+
+Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-24]]
+
 <!-- cm:kunpal -->
 ##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
 
@@ -339,13 +346,6 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]
 In those very beings mentioned above — one's own parents, gods, sages, Brahmā, and the rest — this good mind, wishing even for their own individual sake to attain the state of unsurpassed, perfect awakening, is something that has not been recalled by day, nor even dreamed of by night; and if it is like that, how could such a good intention arise for the sake of other beings? It could not.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]
-
-<!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
-
-Thus, even in Brahmā and Indra and the rest, renowned as great in the world, such a mind cannot arise. Why? Because if, even for their own sake, they cannot give rise to the pursuit of the state of buddhahood — in which every fault is exhausted and every quality complete — being held back by discouragement and the like, then what need is there to speak of a mind wishing to set all beings equal to space in such a state?
-
-Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-24]]
 
 ---
 
@@ -444,6 +444,13 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]
 <!-- sub:commentary -->
 #### Commentary Explanations
 
+<!-- cm:tenzin-gyatso -->
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+
+Thus, [as for] others such as Brahmā and Indra — a mind that wishes to remove immeasurable faults and accomplish immeasurable qualities cannot arise even when aimed at their own sake — that this unsurpassed, special, precious mind should be born in one's own continuum is [what he means by] "born as an unprecedented marvel": it is a way of being amazed at oneself, he says.
+
+Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-25]]
+
 <!-- cm:kunpal -->
 ##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
 
@@ -487,13 +494,6 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]
 As explained above, in others — one's own parents, or gods, sages, Brahmā, and the rest — such an intention, [wishing] to attain the state of perfect awakening even for their own sake, does not arise. Yet in one's own continuum, now, through the power of dependent conditions, this mind — this good intention wishing to attain the state of a perfect buddha for the sake of other beings, called "generating bodhicitta" — arises as, among [all] minds, a mind like a wish-fulfilling jewel, the source of all one's needs and wishes, a special and exalted one. Its arising now, when such a good intention never before arose in my continuum, suddenly, through the power of the compassionate blessing of the divine Three Jewels and the guru — this is the birth of an unprecedented, wondrous thing. For example, if a heavenly wish-granting tree, which grows in the realm of the gods, were suddenly to spring up in a filthy heap of refuse in our own town, everyone would treat it as a marvel; likewise, in the continua of all of us, which since beginningless lifetimes have become like a filthy heap — a tangle of the afflictions: desire, hatred, jealousy, rivalry, pride, and the rest — that the precious jewel of generating bodhicitta, like a wish-fulfilling gem or a wish-granting tree, is born: reflecting on this, one meditates on joy.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]
-
-<!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
-
-Thus, [as for] others such as Brahmā and Indra — a mind that wishes to remove immeasurable faults and accomplish immeasurable qualities cannot arise even when aimed at their own sake — that this unsurpassed, special, precious mind should be born in one's own continuum is [what he means by] "born as an unprecedented marvel": it is a way of being amazed at oneself, he says.
-
-Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-25]]
 
 ---
 

@@ -104,6 +104,9 @@ Rules:
 
 ## 3. Commentator IDs → H5 heading rendering
 
+**Order:** within Commentary Explanations, `tenzin-gyatso` (His Holiness the Dalai Lama)
+is placed **first**; the others follow in the order listed below.
+
 Use exactly these strings for the `##### <id> — <Name> (<Work>)` headings, so the
 `cm:<id>` anchors and names stay identical across all days. (IDs match the
 `commentaries:` list in each rail file and the vault annex.)

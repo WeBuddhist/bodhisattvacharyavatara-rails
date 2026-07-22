@@ -139,6 +139,13 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-6]]
 <!-- sub:commentary -->
 #### Commentary Explanations
 
+<!-- cm:tenzin-gyatso -->
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+
+For us, through the force of habituation since beginningless time, the side of faults is very strong — the misdeeds and downfalls accumulated in the past and the wrongdoing still being accumulated now form a powerful, discordant force. The single unsurpassed method for clearing all of that away — a method that is like one thing that suffices for everything, a gathering of all in one — is nothing other than bodhicitta, the mind that cherishes others more than oneself. As for the word "enlightenment" (byang chub): put simply, byang ("purified") means that the cognitive obscurations that obstruct the knowing of all knowable things, the afflictive obscurations that establish their habitual imprints, and all the classes of faults of body and speech — the corrupt states and misdeeds that arise from those two — are exhausted forever and purified without remainder; and chub ("perfected") means the attainment of the ultimate, unsurpassed knowledge that, by the power of having exhausted all the obscurations to knowing, sees the two truths simultaneously. If bodhicitta arises by the power of great compassion, focused on all sentient beings, then in a single instant it can overcome the entire discordant side.
+
+Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-6]]
+
 <!-- cm:kunpal -->
 ##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
 
@@ -205,13 +212,6 @@ The second [main section] has four parts. This is the first, the benefit that is
 For the reasons explained above, therefore: the direct cause of virtue — that which brings about the temporary [attainment of] higher rebirth and the ultimate [attainment of] liberation and the state of omniscience — is extremely feeble and weak in power; whereas the non-virtuous wrongdoing that always casts one into the lower realms — killing, taking what is not given, sexual misconduct, and the rest — is possessed of tremendous power and force, utterly unbearable. So what virtue other than that generation of bodhicitta — the sublime state of perfect enlightenment, the aspiring and engaging mind whose nature is the thought "By all means, for the sake of other beings, I myself shall attain it" — what other virtue could overpower it? It could never fully overpower it.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-6]]
-
-<!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
-
-For us, through the force of habituation since beginningless time, the side of faults is very strong — the misdeeds and downfalls accumulated in the past and the wrongdoing still being accumulated now form a powerful, discordant force. The single unsurpassed method for clearing all of that away — a method that is like one thing that suffices for everything, a gathering of all in one — is nothing other than bodhicitta, the mind that cherishes others more than oneself. As for the word "enlightenment" (byang chub): put simply, byang ("purified") means that the cognitive obscurations that obstruct the knowing of all knowable things, the afflictive obscurations that establish their habitual imprints, and all the classes of faults of body and speech — the corrupt states and misdeeds that arise from those two — are exhausted forever and purified without remainder; and chub ("perfected") means the attainment of the ultimate, unsurpassed knowledge that, by the power of having exhausted all the obscurations to knowing, sees the two truths simultaneously. If bodhicitta arises by the power of great compassion, focused on all sentient beings, then in a single instant it can overcome the entire discordant side.
-
-Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-6]]
 
 ---
 
@@ -333,6 +333,13 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-7]]
 <!-- sub:commentary -->
 #### Commentary Explanations
 
+<!-- cm:tenzin-gyatso -->
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+
+The mighty sages, who in the past during the time on the path of training strove for many eons and reflected deeply — asking what kind of benefit there might be for beings — those who so contemplated saw that this bodhicitta alone, this very thing alone, is of the greatest benefit. Through this bodhicitta of cherishing others more than oneself, the boundless and endless multitudes of beings, by an easy path, come to attain the resultant state of happiness; this too, he teaches, comes about in dependence on this bodhicitta.
+
+Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-7]]
+
 <!-- cm:kunpal -->
 ##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
 
@@ -393,13 +400,6 @@ Second (bringing about the attainment of all supreme happiness):
 The mighty sages, the Bhagavāns, who for many eons examined well and reflected deeply upon nothing other than the means of benefit and happiness for boundless beings, saw — finding nothing else that turns [beings] away from [suffering] — that this very bodhicitta is the cause of all benefit and happiness. Through it, the boundless and immeasurable multitudes of beings attain the supreme happiness, perfect enlightenment, easily and quickly. By "the mighty sages" [in the plural]: this is not scriptural authority dependent on fabrication, nor merely something explained in all the sutras of the mighty sages, but indicates the enlightened intention beheld by the wisdom that sees all.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-7]]
-
-<!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
-
-The mighty sages, who in the past during the time on the path of training strove for many eons and reflected deeply — asking what kind of benefit there might be for beings — those who so contemplated saw that this bodhicitta alone, this very thing alone, is of the greatest benefit. Through this bodhicitta of cherishing others more than oneself, the boundless and endless multitudes of beings, by an easy path, come to attain the resultant state of happiness; this too, he teaches, comes about in dependence on this bodhicitta.
-
-Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-7]]
 
 ---
 
@@ -499,6 +499,13 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-8]]
 <!-- sub:commentary -->
 #### Commentary Explanations
 
+<!-- cm:tenzin-gyatso -->
+##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
+
+If a good bodhicitta arises, one attains the ultimate, unsurpassed state of a perfectly awakened buddha; and even in the immediate term one goes from bliss to bliss. Not to mention the state of buddhahood — even in the immediate term, while still wandering in samsaric existence, one is untouched by suffering and attains an unbroken stream of the excellences of existence; and in dependence on that, traveling the path from bliss to bliss, the ultimate result — the perfection of abandonment and realization — also depends on bodhicitta. The "thought of benefiting [others]" is taught to be the root of all that is good; and since one in whom such a good heart is present benefits not only oneself but also one's companions and one's whole environment, he teaches that it brings about the supreme bliss with ease.
+
+Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-8]]
+
 <!-- cm:kunpal -->
 ##### kunpal — Khenpo Kunzang Pelden (Nectar Drops)
 
@@ -561,13 +568,6 @@ Therefore, [whoever] wishes to overcome the hundreds of sufferings of existence 
 (ultimately, one should hold it without ever forsaking it).
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-8]]
-
-<!-- cm:tenzin-gyatso -->
-##### tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)
-
-If a good bodhicitta arises, one attains the ultimate, unsurpassed state of a perfectly awakened buddha; and even in the immediate term one goes from bliss to bliss. Not to mention the state of buddhahood — even in the immediate term, while still wandering in samsaric existence, one is untouched by suffering and attains an unbroken stream of the excellences of existence; and in dependence on that, traveling the path from bliss to bliss, the ultimate result — the perfection of abandonment and realization — also depends on bodhicitta. The "thought of benefiting [others]" is taught to be the root of all that is good; and since one in whom such a good heart is present benefits not only oneself but also one's companions and one's whole environment, he teaches that it brings about the supreme bliss with ease.
-
-Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-8]]
 
 ---
 

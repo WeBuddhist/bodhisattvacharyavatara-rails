@@ -1,0 +1,5 @@
+[a-0] author, colophon
+[a-1] bodhisattva, complete, composed, entering, master, master Śāntideva
+[b-0] colophon, translators, Translators' Colophon
+[b-1] band, Bandé Paltsek, chief translator-editor, chief translator-editor Bandé, finalized, indian, Indian scholar, Indian scholar Sarvajñādeva, kashmiri, Kashmiri manuscript, manuscript, paltsek, scholar, scholar Sarvajñādeva, together, translated, Translated and finalized, translator-editor, translator-editor Bandé, translator-editor Bandé Paltsek
+[b-2] band, Bandé Rinchen, Bandé Rinchen Zangpo, Central Indian, Central Indian manuscripts, chief translator-editors, chief translator-editors Bandé, commentaries, dharma, finalized, indian, Indian manuscripts, Indian scholar, Indian scholar Dharmaśrībhadra, lodr, manuscripts, match, match Central, match Central Indian, retranslated, rinchen, Rinchen Zangpo, scholar, scholar Dharmaśrībhadra, together, translator-editors, translator-editors Bandé, translator-editors Bandé Rinchen, zangpo, Zangpo and Śākya, Śākya Lodrö

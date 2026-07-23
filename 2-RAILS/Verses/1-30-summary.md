@@ -6,7 +6,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 notes: |
   Grouping matrix:
@@ -80,18 +80,27 @@ notes: |
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+ནམ་མཁའ་དང་མཉམ་པའི་སེམས་ཅན་གང་ཞིག་འདོད་པའི་བདེ་བས་ཕོངས་ཤིང་མི་འདོད་པའི་སྡུག་བསྔལ་དུ་མས་མནར་ནས་ཡོད་པ་དེ་རྣམས་ལ་དམིགས་ཏེ། བདེ་བ་ཐོབ་པ་དང་སྡུག་བསྔལ་འབྲལ་བར་བྱེད་པ་དེ་ཡང་རང་རང་གི་སོ་སོའི་རྒྱུད་ཀྱི་སྡུག་བསྔལ་འགྲུབ་བྱེད་ཀྱི་རྒྱུ་དེ་རྣམས་སེལ་བར་བྱེད་པའི་སྒོ་ནས་ཡོང་དགོས་པས། སེམས་ཅན་ཐམས་ཅད་ཀྱི་རྒྱུད་ཀྱི་བླང་དོར་གྱི་གནས་ལ་རྨོངས་པའི་གཏི་མུག་གི་མུན་པ་སེལ་བར་བྱེད་པའི་ལས་ལ་བརྩོན་པའི་སེམས་བཟང་པོ་གང་དང་ལྡན་པ་དེ་ལ་བསོད་ནམས་དཔག་ཏུ་མེད་པ་འཐོབ་ཅིང་། སེམས་དེ་དང་མཚུངས་པའི་དགེ་བ་གཞན་ཞིག་ག་ལ་ཡོད་དེ་འདི་ལས་ལྷག་པ་མེད། གཅིག་ཏུ་གཞན་ལ་ཕན་པ་སྒྲུབ་པའི་སེམས་བཟང་པོ་དེ་ནི་སེམས་ཅན་ཀུན་གྱི་གཉེན་བཤེས་དང་མགོན་སྐྱབས་མཛའ་བཤེས་སུ་ཡོད་པས། དེ་ལྟ་བུའི་གཏན་གྱི་མཛའ་བཤེས་འགྱུར་བ་མེད་པ་ཞིག་བྱང་ཆུབ་ཀྱི་སེམས་འདི་ལས་གཞན་ག་ལ་ཡོད། ཐ་མལ་པའི་མཛའ་བཤེས་ལ་གཅིག་ཏུ་ཕན་བདེ་སྒྲུབ་པ་འདྲ་ཡོད་ན་ཡང་མི་བརྟན་པ་རེད། བྱང་ཆུབ་ཀྱི་སེམས་དེས་ཐམས་ཅད་ལ་སེམས་སྙོམས་པར་བསྐྱེད་ཅིང་ཕན་སེམས་བྱེད། ཇི་སྲིད་ནམ་མཁའ་མ་ཟད་ཀྱི་བར་ཕན་འདོད་ཀྱི་བློ་དེ་ལ་འགྱུར་བ་མེད་པས་དེ་ལས་ལྷག་པའི་མཛའ་བཤེས་མེད་ཅིང་། དེ་ལས་ལྷག་པའི་བསོད་ནམས་གསོག་པའི་ནུས་པ་ཅན་ཞིག་ག་ལ་ཡོད།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-30]])
+
 ---
 
 ## གཙོ་གནད། (Main teaching points)
 
-1. **ཤེས་རབ་ཆེན་པོས་གཏི་མུག་སེལ་བའི་གནད།** — Verse 1-30 completes the triad begun in 1-29 by naming the bodhisattva's third quality: great wisdom (ཤེས་རབ་ཆེན་པོ་). Whereas love and compassion address happiness and suffering, wisdom addresses the root: beings' ignorance (གཏི་མུག་) about what to adopt and abandon (བླང་དོར་). KKP specifies this as ignorance of cause and result (རྒྱུ་འབྲས་བླང་དོར་).
+1. **ཤེས་རབ་ཆེན་པོས་གཏི་མུག་སེལ་བའི་གནད།** — ཚིགས་བཅད་ ༡།༣༠ པས་ ༡།༢༩ ནས་བརྩམས་པའི་གསུམ་ཚན་མཇུག་སྐྱོང་སྟེ་བྱང་ཆུབ་སེམས་དཔའི་ཡོན་ཏན་གསུམ་པ་ཞེས་ཤེས་རབ་ཆེན་པོ་ (ཤེས་རབ་ཆེན་པོ་) མིང་གིས་བཏགས། བྱམས་པ་དང་སྙིང་རྗེ་གཉིས་ཀྱིས་བདེ་བ་དང་སྡུག་བསྔལ་ལ་ཞུགས་ཡོད་ན། ཤེས་རབ་ཀྱིས་ནི་རྩ་བ་ཉིད་ལ་འཇུག་སྟེ་སེམས་ཅན་རྣམས་ཀྱི་བླང་དོར་ (བླང་དོར་) གྱི་གནས་ལ་རྨོངས་པའི་གཏི་མུག་ (གཏི་མུག་) སེལ་བར་བྱེད། KKP ཡིས་འདི་ཉིད་རྒྱུ་འབྲས་ལ་རྨོངས་པའི་གཏི་མུག་ (རྒྱུ་འབྲས་བླང་དོར་) ཡིན་པར་ངེས་པར་བཤད།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]])
 
-2. **གྲོགས་མཆོག་གི་གནད། (བཤེས་ཀྱང་ག་ལ་ཡོད།)** — The verse's second hemistich asks three rhetorical questions: where is anyone equal in virtue? where is a friend who brings such benefit? where is such merit? KS and KKP make clear these questions function as proof of bodhicitta's incomparability — no other virtue, friend, or source of merit can parallel what bodhicitta provides.
+2. **གྲོགས་མཆོག་གི་གནད། (བཤེས་ཀྱང་ག་ལ་ཡོད།)** — ཚིགས་བཅད་ཀྱི་ཚིག་རྐང་གཉིས་པས་དྲི་བ་རྣམ་གསུམ་བཀོད་དེ། དགེ་ལེགས་ཀྱི་རང་བཞིན་མཚུངས་པ་གང་ན་ཡོད། ཕན་བདེ་སྒྲུབ་པའི་བཤེས་གཉེན་དེ་འདྲ་གང་ན་ཡོད། བྱང་ཆུབ་སེམས་དཔའི་བསོད་ནམས་དེ་འདྲ་གང་ན་ཡོད་ཅེས་སོ། KS དང་ KKP གཉིས་ཀས་གསལ་བར་བཤད་པ་ལྟར་དྲི་བ་འདི་གསུམ་ནི་བྱང་ཆུབ་ཀྱི་སེམས་མཚུངས་མེད་ཡིན་པའི་གཏན་ཚིགས་སུ་བཀོད་པ་ཡིན་ཏེ། དགེ་བ་གང་དང་། བཤེས་གང་དང་། བསོད་ནམས་གང་ཡང་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱིས་སྤྲོད་པ་དང་མཚུངས་པར་གྲུབ་མི་ནུས།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]])
 
-3. **བྱམས་བརྩེ་ཤེས་རབ་གསུམ་གྱི་མཐུད་མཚམས། (GDR / NTS / MKS)** — All three commentaries that group 1-28/29/30 together read 1-30 as the terminus of the triad: love (1-29a), compassion (1-29b), wisdom (1-30a) — each directly addressing one of the three predicaments of sentient beings described in 1-28: being deprived of happiness, having many sufferings, being deluded about their causes.
+3. **བྱམས་བརྩེ་ཤེས་རབ་གསུམ་གྱི་མཐུད་མཚམས། (GDR / NTS / MKS)** — ཚིགས་བཅད་ ༡།༢༨/༢༩/༣༠ གསུམ་ཆར་གྲུབ་ཚན་གཅིག་ཏུ་བགྲོས་པའི་འགྲེལ་བ་གསུམ་ཀ་ཡིས་ ༡།༣༠ ནི་གསུམ་ཚན་གྱི་མཐའ་མའི་ས་བཅད་དུ་བཞག་སྟེ། བྱམས་པ་ (༡།༢༩ ཀྱི་ཚིག་རྐང་དང་པོ), སྙིང་རྗེ་ (༡།༢༩ ཀྱི་ཚིག་རྐང་གཉིས་པ), ཤེས་རབ་ (༡།༣༠ ཀྱི་ཚིག་རྐང་དང་པོ) གསུམ་གྱིས་ ༡།༢༨ ནང་བཤད་པའི་སེམས་ཅན་གྱི་ཉམ་ཐག་གནས་སྐབས་གསུམ་— བདེ་བས་ཕོངས་པ། སྡུག་བསྔལ་མང་བ། རྒྱུ་ལ་རྨོངས་པ་— རེ་རེ་བཞིན་དུ་སེལ་བར་བཤད།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])
+
+4. **གཏན་གྱི་མཛའ་བཤེས་ཀྱི་གནད། (tenzin-gyatso)** — TG ཡིས་ཚིགས་བཅད་ཀྱི་"བཤེས་" ཞེས་པའི་ཚིག་ལ་རྒྱས་བཤད་མཛད་དེ། བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་མཛའ་བཤེས་འགྱུར་བ་མེད་པ་— ནམ་མཁའ་ཇི་སྲིད་གནས་ཀྱི་བར་དུ་མི་འགྱུར་བ་— དེ་ཉིད་འཇིག་རྟེན་པའི་མཛའ་བཤེས་ཐ་མལ་པ་དང་ཁྱད་པར་དུ་བཀོད། འཇིག་རྟེན་པའི་མཛའ་བཤེས་ནི་འགའ་ཞིག་ཕན་འདོགས་ཀྱང་མི་བརྟན་པ་ (མི་བརྟན་པ་) ཡིན་པར་བཤད། འདིས་དྲི་བ་"དེ་འདྲའི་བཤེས་ཀྱང་ག་ལ་ཡོད།" ཞེས་པ་མི་རྟག་པའི་གནད་ཤུགས་ཅན་གྱི་གཏན་ཚིགས་ཤིག་ཏུ་བཟུང་།
+   ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-30]])
 
 ---
 
@@ -99,9 +108,10 @@ notes: |
 
 | གནད་ཚིག | འགྲེལ་བཤད་ | ཁུངས། |
 |---|---|---|
-| **གཏི་མུག་ཀྱང་ནི་སེལ།** | dispels delusion too; the "ཀྱང་" (also, even) marks wisdom's dispelling of ignorance as the third and deepest layer of help — addressing the root cause, not just the symptoms | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
-| **རྒྱུ་འབྲས་བླང་དོར།** | adoption and rejection of causes and results; KKP's gloss on "བླང་དོར་གྱི་གནས་" — the specific knowledge that wisdom provides: what causes to cultivate and what to abandon for happiness and suffering respectively | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
-| **དགེ་ལེགས་ཀྱི་རང་བཞིན་མཚུངས་པ།** | equal in virtuous excellence; KS's gloss on "དང་དགེ་མཚུངས་" — no other dharma object has virtue equal to bodhicitta, which encompasses love, compassion, and wisdom together | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
+| **གཏི་མུག་ཀྱང་ནི་སེལ།** | གཏི་མུག་ཡང་སེལ་བར་བྱེད་པ་སྟེ། "ཀྱང་" ཞེས་པའི་ཚིག་གིས་ཤེས་རབ་ཀྱིས་གཏི་མུག་སེལ་བ་ནི་ཕན་འདོགས་ཀྱི་རིམ་པ་གསུམ་པ་དང་ཟབ་ཤོས་སུ་མཚོན་ཏེ། སྣང་ཚུལ་གྱི་སྡུག་བསྔལ་ཙམ་མིན་པར་རྩ་བའི་རྒྱུ་ཉིད་ལ་ཞུགས་པར་བསྟན། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
+| **གཏན་གྱི་མཛའ་བཤེས་འགྱུར་བ་མེད་པ།** | མཛའ་བཤེས་རྟག་ཏུ་འགྱུར་བ་མེད་པ་སྟེ། tenzin-gyatso ཡིས་"བཤེས་"ཞེས་པའི་ཚིག་ལ་འགྲེལ་བཤད་མཛད་དེ། བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་མཛའ་བཤེས་ནམ་མཁའ་ཇི་སྲིད་གནས་ཀྱི་བར་དུ་མི་འགྱུར་བ་དེ་ཉིད་འཇིག་རྟེན་པའི་མཛའ་བཤེས་ཐ་མལ་པ་— ཕན་འདོགས་མྱོང་ཡང་མི་བརྟན་པ་— དང་ཁྱད་པར་དུ་ཕྱེ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-30]]) |
+| **རྒྱུ་འབྲས་བླང་དོར།** | རྒྱུ་དང་འབྲས་བུའི་བླང་དོར་སྟེ། KKP ཡིས་"བླང་དོར་གྱི་གནས་"ཞེས་པའི་འགྲེལ་བཤད་— ཤེས་རབ་ཀྱིས་སྤྲོད་པའི་ཤེས་བྱ་དམིགས་བསལ་དེ་ཉིད་སྟེ་བདེ་སྡུག་སོ་སོའི་རྒྱུར་གང་བསྟེན་དང་གང་སྤང་དགོས་པའི་ཤེས་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
+| **དགེ་ལེགས་ཀྱི་རང་བཞིན་མཚུངས་པ།** | དགེ་ལེགས་ཀྱི་རང་བཞིན་མཚུངས་པ་སྟེ། KS ཡིས་"དང་དགེ་མཚུངས་"ཞེས་པའི་འགྲེལ་བཤད་— ཆོས་གཞན་གང་ཡང་བྱང་ཆུབ་ཀྱི་སེམས་དང་དགེ་བའི་ཆ་ནས་མཚུངས་པ་མེད་དེ། འདིས་བྱམས་བརྩེ་ཤེས་རབ་གསུམ་ཀ་བསྡུས་པའི་ཕྱིར། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
 
 ---
 
@@ -114,3 +124,4 @@ notes: |
 - ཤེས་རབ་ཆེན་པོས་བླང་དོར་གྱི་གནས་བསྟན་ནས་རྒྱུ་འབྲས་ལ་རྨོངས་པའི་གཏི་མུག་རྩ་བ་ནས་སེལ་བར་གསུངས། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]])
 - དགེ་མཚུངས། བཤེས་མཚུངས། བསོད་ནམས་མཚུངས་ཞེས་དྲི་བ་རྣམ་གསུམ་གྱིས་བྱང་སེམས་མཆོག་ཉིད་གྲུབ་པར་མཐར་འཁྲིད། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]])
 - GDR / NTS / MKS གསུམ་གྱིས་ ༡།༢༨–༣༠ གྱི་གྲུབ་ཚེན་ལ་བྱམས་བརྩེ་ཤེས་རབ་གསུམ་གྱིས་སེམས་ཅན་གྱི་རྒུད་ཐམས་ཅད་མཐར་འཇོམས་པར་བཤད། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]])
+- tenzin-gyatso ནི་བཤེས་ཞེས་པའི་ཐད་ནས་བྱང་ཆུབ་ཀྱི་སེམས་ཐ་མལ་པའི་མཛའ་བཤེས་མི་བརྟན་པ་ལས་ཁྱད་པར་དུ་འགྱུར་བ་མེད་པའི་གཏན་གྱི་མཛའ་བཤེས་སུ་བཤད། ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-30]])

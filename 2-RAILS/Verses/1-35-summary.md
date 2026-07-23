@@ -6,7 +6,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 notes: |
   Grouping matrix:
@@ -64,7 +64,7 @@ notes: |
 
 ### ngulchu-thogmed — དངུལ་ཆུ་ཐོགས་མེད། (ལེགས་བཤད་རྒྱ་མཚོ།)
 
-*Note: NTS covers 1-35 first hemistich ("ཡིད་རབ་དང་བྱེད་ན་") in the "གསུམ་པ་(ཞིང་ཁྱད་པར་ཅན་ཡིན་པ་)ནི།" section that also covers verse 1-34. See [[2-RAILS/Verses/1-34-summary.md]] for that content.*
+*ཟུར་བརྗོད། NTS ཀྱིས་ཚིགས་བཅད་1-35 པའི་ཚིགས་རྐང་དང་པོ ("ཡིད་རབ་དང་བྱེད་ན་") ཚིགས་བཅད་1-34 པའང་ཁྱབ་པའི་"གསུམ་པ་(ཞིང་ཁྱད་པར་ཅན་ཡིན་པ་)ནི།" ཞེས་པའི་སྐབས་སུ་བཤད་ཡོད། གནས་ཚུལ་དེར་[[2-RAILS/Verses/1-34-summary.md]] ལ་གཟིགས།*
 
 **བཞི་བ་ (second hemistich — སྡུག་བསྔལ་གྱིས་མི་བརྫི་བ་):** རྒྱལ་སྲས་རྣམས་ལ་དོ་གལ་ཏེ་གནོད་པ་དང་སྡུག་བསྔལ་ཆེན་པོས་ཀྱང་ཁྲོ་བ་ལ་སོགས་པ་སྡིག་པའི་སེམས་མི་འབྱུང་ཞིང། རྐྱེན་དེའི་སྟོབས་ཀྱིས་སླར་ཡང་དགེ་བ་ངང་གི་འཕེལ་བར་འགྱུར་ཏེ། ཕར་ཕྱིན་བསྡུས་པ་ལས། གནོད་པའི་རྣམ་པ་མི་བཟད་མང་པོས་ཀྱང།། སྐྱེས་མཆོག་དེ་དག་ཡིད་ནི་འགྱུར་བ་མེད།། བཟོད་པའི་སྟོབས་ཀྱིས་ཤིན་ཏུ་བརྟན་པས་ན།། བྱང་ཆུབ་མཆོག་སྒྲུབ་མོས་པ་མང་བར་འགྱུར།། ཞེས་གསུངས་པ་ལྟར་རོ།།
 
@@ -84,17 +84,25 @@ notes: |
 
 ### khenpo-kunga — ངག་དབང་ཀུན་དགའ་དབང་ཕྱུག (འགྲེལ་པ།)
 
-**First hemistich:** འོན་ཏེ་ཡང་གང་ཟག་ཡ་རབས་ཀྱི་སྤྱོད་པ་དང་ལྡན་པ། བསམ་པ་བཟང་པོ་དད་པ་ཅན་གང་ཞིག་གིས་རང་གི་ཡིད་དམ་སེམས་རབ་ཏུ་དང་བའི་སྒོ་ནས་བྱང་ཆུབ་སེམས་དཔའི་སྐུ་དང་ཞལ་རས་ལ་མིག་གིས་ཡག་པོ་མཇལ་བ་ཙམ་མམ་བལྟ་བ་ཙམ་བྱེད་པ་ཡིན་ན་ཡང། དེའི་བསོད་ནམས་དགེ་བའི་འབྲས་བུ་ནི། སྔོན་མ་ངན་སེམས་བསྐྱེད་པའི་འབྲས་བུ་དེ་བས་ཀྱང་ལྷག་པར་གོང་ནས་གོང་དུ་འཕེལ་བ་སྟེ་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཚད་མེད་པ་དང་ལྡན་པར་འགྱུར་བ་ཡིན།
+**ཚིགས་རྐང་དང་པོ།** འོན་ཏེ་ཡང་གང་ཟག་ཡ་རབས་ཀྱི་སྤྱོད་པ་དང་ལྡན་པ། བསམ་པ་བཟང་པོ་དད་པ་ཅན་གང་ཞིག་གིས་རང་གི་ཡིད་དམ་སེམས་རབ་ཏུ་དང་བའི་སྒོ་ནས་བྱང་ཆུབ་སེམས་དཔའི་སྐུ་དང་ཞལ་རས་ལ་མིག་གིས་ཡག་པོ་མཇལ་བ་ཙམ་མམ་བལྟ་བ་ཙམ་བྱེད་པ་ཡིན་ན་ཡང། དེའི་བསོད་ནམས་དགེ་བའི་འབྲས་བུ་ནི། སྔོན་མ་ངན་སེམས་བསྐྱེད་པའི་འབྲས་བུ་དེ་བས་ཀྱང་ལྷག་པར་གོང་ནས་གོང་དུ་འཕེལ་བ་སྟེ་བསོད་ནམས་ཀྱི་ཕུང་པོ་ཚད་མེད་པ་དང་ལྡན་པར་འགྱུར་བ་ཡིན།
 
-**Second hemistich:** དེ་ལྟ་བུའི་ཁམས་གསུམ་གྱི་སེམས་ཅན་ཐམས་ཅད་ཀྱི་སྦྱིན་པའི་བདག་པོར་གྱུར་པའི་རྒྱལ་བ་སངས་རྒྱས་ཀྱི་ཐུགས་ཀྱི་སྲས་བྱང་ཆུབ་སེམས་དཔའ་དེ་རྣམས་ལ་འགྲོ་བ་མང་པོའི་མཐའ་འམ། བསྐལ་པ་མང་པོའི་ཡུན་ཚད་ལ་བྱ་དཀའ་བའི་སྤྱོད་པ། དབུ་དང་ཡན་ལག། བུ་དང་ཆུང་མ། འཁོར་དང་རྒྱལ་སྲིད་ལ་སོགས་པ་སྦྱིན་པ་བཏང་བའི་སྒོ་ནས་དོ་གལ་ཆེན་པོ་སྟེ་དཀའ་ངལ་ཆེན་པོ་གང་འདྲ་ཞིག་བྱུང་ན་ཡང། བྱང་ཆུབ་ཀྱི་ལམ་ལས་ཕྱིར་ལྡོག་པར་འགྱུར་བ་དང་། དེ་ལ་དཔའ་ཞུམ་པ་དང་སྒྱིད་ལུག་པ་སོགས་སྡིག་པའི་བསམ་པ་རྣམ་པ་ཀུན་ཏུ་མི་འབྱུང་ཞིང། སེམས་གཞན་དོན་ལ་འཇུག་པ་དང་བླ་མེད་རྫོགས་བྱང་མྱུར་དུ་ཐོབ་པར་འདོད་པའི་བརྩོན་འགྲུས་ཀྱི་དགེ་བའི་རྩ་བ་ཡང་ངང་གི་སྒོ་ནས་གོང་ནས་གོང་དུ་ལྷག་པར་འཕེལ་བར་འགྱུར་བ་སྟེ། དཔེར་ན། ནགས་ཚལ་ཆེན་པོ་ལ་མེ་ཞུགས་པའི་གནས་སྐབས་ན་རླུང་གང་འདྲ་ཞིག་བྱུང་ན་ཡང་མེ་འབར་བའི་གྲོགས་ཉིད་དུ་འགྱུར་བ་ཡིན་པ་དཔེ་དེ་དང་ཆོས་མཚུངས་ཞེས་གསུངས།
+**ཚིགས་རྐང་གཉིས་པ།** དེ་ལྟ་བུའི་ཁམས་གསུམ་གྱི་སེམས་ཅན་ཐམས་ཅད་ཀྱི་སྦྱིན་པའི་བདག་པོར་གྱུར་པའི་རྒྱལ་བ་སངས་རྒྱས་ཀྱི་ཐུགས་ཀྱི་སྲས་བྱང་ཆུབ་སེམས་དཔའ་དེ་རྣམས་ལ་འགྲོ་བ་མང་པོའི་མཐའ་འམ། བསྐལ་པ་མང་པོའི་ཡུན་ཚད་ལ་བྱ་དཀའ་བའི་སྤྱོད་པ། དབུ་དང་ཡན་ལག། བུ་དང་ཆུང་མ། འཁོར་དང་རྒྱལ་སྲིད་ལ་སོགས་པ་སྦྱིན་པ་བཏང་བའི་སྒོ་ནས་དོ་གལ་ཆེན་པོ་སྟེ་དཀའ་ངལ་ཆེན་པོ་གང་འདྲ་ཞིག་བྱུང་ན་ཡང། བྱང་ཆུབ་ཀྱི་ལམ་ལས་ཕྱིར་ལྡོག་པར་འགྱུར་བ་དང་། དེ་ལ་དཔའ་ཞུམ་པ་དང་སྒྱིད་ལུག་པ་སོགས་སྡིག་པའི་བསམ་པ་རྣམ་པ་ཀུན་ཏུ་མི་འབྱུང་ཞིང། སེམས་གཞན་དོན་ལ་འཇུག་པ་དང་བླ་མེད་རྫོགས་བྱང་མྱུར་དུ་ཐོབ་པར་འདོད་པའི་བརྩོན་འགྲུས་ཀྱི་དགེ་བའི་རྩ་བ་ཡང་ངང་གི་སྒོ་ནས་གོང་ནས་གོང་དུ་ལྷག་པར་འཕེལ་བར་འགྱུར་བ་སྟེ། དཔེར་ན། ནགས་ཚལ་ཆེན་པོ་ལ་མེ་ཞུགས་པའི་གནས་སྐབས་ན་རླུང་གང་འདྲ་ཞིག་བྱུང་ན་ཡང་མེ་འབར་བའི་གྲོགས་ཉིད་དུ་འགྱུར་བ་ཡིན་པ་དཔེ་དེ་དང་ཆོས་མཚུངས་ཞེས་གསུངས།
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
+
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+བྱང་ཆུབ་སེམས་དཔའ་ལ་དམིགས་ཏེ་ཡིད་རབ་ཏུ་དྭངས་བའི་སྒོ་ནས་དེ་ལ་མོས་པའི་སེམས་སྐྱེས་ན་ནི། དད་མོས་སྐད་ཅིག་ཇི་ཙམ་སྐྱེས་པའི་ཚོད་ཀྱིས་གྲངས་ལས་བརྒལ་བ་སྟེ་དེ་ཡི་འབྲས་བུ་དེ་བས་ལྷག་པར་འཕེལ་ཞེས་གསུངས་ཏེ། སྐད་ཅིག་དེ་བས་མང་བའི་བསྐལ་པར་ལོངས་སྤྱོད་ཕུན་སུམ་ཚོགས་པ་ལ་ལོངས་སྤྱོད་པའི་བསོད་ནམས་འཐོབ་པར་འགྱུར། རྒྱལ་སྲས་རྣམས་ལ་དོ་གལ་ཆེན་པོས་ཀྱང་སྡིག་པ་མི་འབྱུང་ཞིང་དགེ་བ་ངང་གིས་འཕེལ་ཞེས་དེ་ལྟར་བདག་པས་གཞན་གཅེས་པའི་བྱང་ཆུབ་ཀྱི་སེམས་ལ་བློ་སྦྱངས་པའི་རྒྱལ་སྲས་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་སྙིང་སྟོབས་ཆེན་པོ་ཞིག་རྟག་ཏུ་སྒོམ་བཞིན་ཡོད་པས། རྐྱེན་ཆེན་པོ་ཞིག་དང་འཕྲད་པ་ཡིན་ནའང་ལམ་སེང་སེམས་ལ་བློ་མི་དགེ་བ་སྐྱེ་མི་ཐུབ་ཅིང་། དོ་གལ་ཆེན་པོ་སྟེ་རྐྱེན་ཛ་དྲག་ཅིག་དང་འཕྲད་ནའང་། བློའི་སྐྱོན་ཆགས་སྡང་སོགས་སྐྱེ་རྒྱུའི་ཚབ་ཏུ་ཛ་དྲག་གི་གནས་ཚུལ་བྱུང་བ་དེས་རྐྱེན་བྱས་ཏེ་བཟོད་པ་འཕེལ་བ་དང་། གཞན་ལ་ལྷག་པར་བརྩེ་བའི་བློ་འཕེལ་བ་སོགས་དགེ་བ་ངང་གིས་འཕེལ་བར་འགྱུར། བྱང་ཆུབ་ཀྱི་སེམས་མཚན་ཉིད་ཚང་བ་རྒྱུད་ལ་མེད་ནའང་། དེའི་ཕྱོགས་དང་མཐུན་པའི་སེམས་བཟང་པོ་ཞིག་བྱུང་ན། རྐྱེན་གང་བྱུང་གིས་འགུལ་བསྐྱོད་རྒྱག་མི་ཐུབ་ཅིང་། དེད་དཔོན་སྙིང་རྗེ་ཆེན་པོས་མི་ནག་དུང་ཐུང་བསད་ནས་མི་བཞི་བརྒྱ་གོ་དགུའི་སྲོག་བསྐྱབས་པ་དེ་ཡང་བྱང་སེམས་ཀྱི་ཕན་ཡོན་ཡིན་ལ། དེས་ན་དགེ་བ་མཐའ་འཁྱོངས་པ་ཞིག་ཡོང་བ་ལ་བྱང་ཆུབ་སེམས་ཀྱིས་གྲོགས་ཆེན་པོ་བྱེད་ངེས་པ་ཡིན་ནོ།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-35]])
 
 ---
 
 ## སྒྲུང་འགྲེལ། (Narrative illustration)
 
-MKS cites the jātaka of the patient sage Dharmasiddha (དྲང་སྲོང་བཟོད་པར་སྨྲ་བ་ / Kṣāntivādin): even as a king severed his head and limbs, the sage remained in great compassion without generating a harmful thought. MKS also cites the analogy of a merchant departing for the city in extreme cold and wind: instead of retreating to shelter, he continues in all directions benefiting others. Both examples illustrate that the adversity faced by bodhisattvas transforms naturally into the cause of awakening.
+### minyak-kunzang-sonam — དྲང་སྲོང་བཟོད་པར་སྨྲ་བའི་སྐྱེས་རབས་དང་ཚོང་དཔོན་གྱི་དཔེ།
+
+MKS ཀྱིས་དྲང་སྲོང་བཟོད་པར་སྨྲ་བ (Kṣāntivādin) ཞེས་པའི་སྐྱེས་རབས་དྲངས་ཏེ། རྒྱལ་པོས་དེའི་དབུ་དང་ཡན་ལག་བཅད་དུས་ཀྱང་ཐུགས་རྗེ་ཆེན་པོས་སེམས་ཅན་གྱི་དོན་ལ་བཞུགས་པ་བསྟན། གཞན་ཡང་འཇིག་རྟེན་གྱི་ཕྱུག་པའི་ཚོང་པ་ཞིག་གྲོང་ཁྱེར་དུ་ཐོན་ཁ་བྱེད་སྐབས་གྲང་བ་དང་རླུང་མང་གིས་གཟིར་ཡང་འཚོང་ཁང་དུ་ལོག་མི་བཞིན་ཕྱོགས་ཐམས་ཅད་ནས་ཀུན་ལ་ཕན་འདོགས་པའི་དཔེ་ཡང་དྲངས། དཔེ་གཉིས་ཀས་རྒྱལ་སྲས་རྣམས་ལ་བྱུང་བའི་དོ་གལ་ཆེན་པོ་ཐམས་ཅད་ངང་གིས་བྱང་ཆུབ་ཀྱི་རྒྱུར་འགྱུར་བའི་དོན་མཚོན།
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])
 
@@ -110,13 +118,19 @@ MKS cites the jātaka of the patient sage Dharmasiddha (དྲང་སྲོང
 
 ([[1-SOURCES/Commentaries/Transcluded/BCACXX_WR_bo.md#^1-12]])
 
+### tenzin-gyatso — དེད་དཔོན་སྙིང་རྗེ་ཆེན་པོའི་སྐྱེས་རབས། (The Compassionate Ship Captain)
+
+དེད་དཔོན་སྙིང་རྗེ་ཆེན་པོ་ཞིག་གིས་གྲུ་སྟེང་གི་མི་བཞི་བརྒྱ་གོ་དགུ་གསོད་པར་འཆར་གཞི་བཟོས་པའི་མི་ནག་དུང་ཐུང་ཞིག་མཐོང་ནས། དེའི་སྡིག་པ་ཆེན་པོ་ལས་བསྐྱབ་ཅིང་མི་བཞི་བརྒྱ་གོ་དགུའི་སྲོག་བསྐྱབ་པའི་ཆེད་དུ་རང་ཉིད་ཀྱིས་མི་ནག་དུང་ཐུང་དེ་བསད་པ། དེ་ནི་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་ཕན་ཡོན་གྱི་དཔེར་བརྗོད་ཡིན་ཞིང་། བྱང་ཆུབ་ཀྱི་སེམས་མཚན་ཉིད་ཚང་བར་མེད་ནའང་དེའི་ཕྱོགས་དང་མཐུན་པའི་སེམས་བཟང་པོ་ཞིག་གིས་རྐྱེན་གང་བྱུང་གིས་འགུལ་བསྐྱོད་མི་ཐུབ་པའི་བརྟན་པ་སྟོན་པར་བཤད།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-35]])
+
 ---
 
 ## དཔེ། (Metaphors)
 
-**མེ་དང་རླུང་གི་དཔེ།** (Fire and wind; NKW and KKP): Just as any wind that blows when fire is already raging in a great forest only helps the fire burn more intensely, so too with a bodhisattva: any adversity or difficult circumstance that arises only increases their virtue and strengthens their awakening practice.
+**མེ་དང་རླུང་གི་དཔེ།** (NKW, KKP) — ནགས་ཚལ་ཆེན་པོ་ལ་མེ་ཞུགས་པའི་གནས་སྐབས་ན་རླུང་གང་འདྲ་ཞིག་བྱུང་ན་ཡང་མེ་འབར་བའི་གྲོགས་ཉིད་དུ་འགྱུར་བ་ལྟར། བྱང་ཆུབ་སེམས་དཔའ་ལ་རྐྱེན་ངན་གང་བྱུང་ཡང་དེས་དགེ་བའི་ལམ་ལ་ཤུགས་སྦྱར་ཞིང་དགེ་བ་འཕེལ་བར་བྱེད་དོ།
 
-**ཉི་མ་ཟླ་བ་དང་མར་མེའི་དཔེ།** (Sun-moon vs. candle; KKP): A bodhisattva with great power is like the sun and moon — adversity cannot extinguish them; whereas a bodhisattva with weaker power is like a candle — wind blocks the light. This is KKP's internal distinction between strong and weak bodhisattvas, both of whom still tend toward virtue.
+**ཉི་མ་ཟླ་བ་དང་མར་མེའི་དཔེ།** (KKP) — བྱང་ཆུབ་སེམས་དཔའ་སྟོབས་ཤུགས་ཆེ་བ་ནི་ཉི་མ་དང་ཟླ་བ་ལྟ་བུ་ཡིན་ཏེ་གྲིབ་མ་ལྟར་(རྐྱེན་ངན་གྱིས་གནོད་མི་ཐུབ་པར)འབྱུང་ཞིང་། སྟོབས་མི་ལྡན་པའི་བྱང་ཆུབ་སེམས་དཔའ་ཆུང་ངུ་ནི་མར་མེ་ལྟར་རླུང་གིས་བཀག་སྟེ་མི་འབར་བར་འགྱུར་སྲིད་ཀྱང་། གཉིས་ཀ་དགེ་བའི་ཕྱོགས་སུ་འགྲོ་བའི་རང་བཞིན་ལས་མི་འདའ་བར་KKPས་ཁྱད་པར་ཕྱེ་སྟེ་བཤད།
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
@@ -126,24 +140,27 @@ MKS cites the jātaka of the patient sage Dharmasiddha (དྲང་སྲོང
 
 > ངེས་པ་དང་མ་ངེས་པ་ལ་འཇུག་པ་ཕྱག་རྒྱའི་མདོ་ལས། འཇམ་དཔལ་ཡོངས་སུ་བརྟག་པ་ཉེ་བར་བཟུང་སྟེ། ཕྱོགས་བཅུའི་འཇིག་རྟེན་གྱི་ཁམས་ཀྱི་སེམས་ཅན་ཐམས་ཅད་ཀྱི་མིག་བཏོན་པར་གྱུར་ལ། ཡང་ཡོངས་སུ་བརྟག་པ་ཉེ་བར་བཟུང་སྟེ། གལ་ཏེ་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་བྱམས་པའི་སེམས་ལ་གནས་པ་འགའ་ཞིག་གིས་དེ་དག་ཐམས་ཅད་ཀྱི་མིག་སྐྱེད་པར་བྱེད་པས། འཇམ་དཔལ་རིགས་ཀྱི་བུའམ་རིགས་ཀྱི་བུ་མོ་གང་གཞན་ཞིག་གིས་ཐེག་པ་ཆེན་པོ་ལ་མོས་པའི་བྱང་ཆུབ་སེམས་དཔའ་ལ་སེམས་དྭང་བས་ལྟ་ན། འདི་ནི་དེ་བས་བསོད་ནམས་ཆེས་ལྷག་པར་སྐྱེའོ་ཞེས་གསུངས་སོ། །
 
-(KS, first hemistich — → ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]))
+(KS, ཚིགས་རྐང་དང་པོ་ → ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]))
 
 > གནོད་པའི་རྣམ་པ་མི་བཟད་མང་པོས་ཀྱང།། སྐྱེས་མཆོག་དེ་དག་ཡིད་ནི་འགྱུར་བ་མེད།། བཟོད་པའི་སྟོབས་ཀྱིས་ཤིན་ཏུ་བརྟན་པས་ན།། བྱང་ཆུབ་མཆོག་སྒྲུབ་མོས་པ་མང་བར་འགྱུར།།
 
-(ཕར་ཕྱིན་བསྡུས་པ།, second hemistich — NTS, MKS → ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]))
+(ཕར་ཕྱིན་བསྡུས་པ།, ཚིགས་རྐང་གཉིས་པ་ — NTS, MKS → ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]))
 
 ---
 
 ## གཙོ་གནད། (Main teaching points)
 
-1. **རྐྱེན་ངན་དགེ་བར་འགྱུར་བའི་གནད།** — Verse 1-35 presents the positive counterpoint to 1-34: just as anger at a bodhisattva multiplies demerit proportionally, faith generates proportionally greater merit (first hemistich); and adversity (དོ་གལ་) directed at a bodhisattva doesn't produce sin — instead it causes virtue to grow naturally (ངང་གིས་འཕེལ་), second hemistich. NKW's fire-in-the-forest metaphor is the sharpest expression: any wind only feeds the fire.
+1. **རྐྱེན་ངན་དགེ་བར་འགྱུར་བའི་གནད།** — ཚིགས་བཅད་འདིས་༡།༣༤ལས་ལོག་ཕྱོགས་ཀྱི་གནད་མཚོན་ཏེ། སྔོན་མར་བྱང་སེམས་ལ་ཁྲོས་པས་སྡིག་པ་གྲངས་མང་བའི་བསྐལ་པར་འཕེལ་བ་བཞིན། འདིར་ཡིད་རབ་ཏུ་དང་བས་(ཚིགས་རྐང་དང་པོ)བསོད་ནམས་ཀྱང་དེ་བཞིན་གྲངས་མང་བའི་བསྐལ་པར་འཕེལ་ཞིང་། རྒྱལ་སྲས་རྣམས་ལ་དོ་གལ་ཆེན་པོ་བྱུང་ཡང་(ཚིགས་རྐང་གཉིས་པ)སྡིག་པ་མི་འབྱུང་བར་མ་ཟད་དགེ་བ་ངང་གིས་འཕེལ་བར་གསུངས། NKW ཀྱི་མེ་དང་རླུང་གི་དཔེས་གནད་འདི་ཤིན་ཏུ་གསལ་བར་མཚོན་ཏེ་རླུང་གང་བྱུང་ཡང་མེ་འབར་བའི་གྲོགས་སུ་འགྱུར་བ་ལྟར་རོ།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]])
 
-2. **བསྡུ་དངོས་བཞིའི་གནད། (KS)** — KS uniquely specifies why adversity produces virtue in bodhisattvas: it is through the "four ways of gathering disciples" (བསྡུ་བའི་དངོས་པོ་བཞི་ / catuḥsaṃgraha): giving, kind words, helpful actions, and practicing what is taught. Even under adversity, the bodhisattva continues to gather beings through these four, and virtue grows as a result.
+2. **བསྡུ་དངོས་བཞིའི་གནད། (KS)** — KS ཀྱིས་རྐྱེན་ངན་གྱིས་བྱང་ཆུབ་སེམས་དཔའི་རྒྱུད་ལ་ཅིའི་ཕྱིར་སྡིག་པ་མི་སྐྱེད་པར་དགེ་བ་སྐྱེད་པའི་རྒྱུ་མཚན་སྒོས་བཤད་དེ། བསྡུ་བའི་དངོས་པོ་བཞི (སྦྱིན་པ། སྙན་ཚིག སྐྱེར་སྒྲུབ དོན་སྤྱོད) ལ་བརྟེན་ནས་སེམས་ཅན་ལ་ཕན་འདོགས་པའི་སྒོ་ནས། དོ་གལ་ཆེན་པོའི་སྐབས་སུའང་དེ་དག་ལས་མི་ལྡོག་པར་དགེ་བ་ངང་གིས་འཕེལ་བར་བཤད།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]])
 
-3. **སྟོབས་ཆེ་ཆུང་གི་གནད། (KKP)** — KKP's sun/moon vs. candle distinction offers an internal qualification: strong bodhisattvas (ཉི་མ་ཟླ་བ་ལྟ་བུ་) turn all adversity directly into benefit; weaker bodhisattvas (མར་མེ་ལྟ་བུ་) may be temporarily impeded. But even the weaker case still results in no sin being generated — only merit growing at a slower pace. KKP then cites Thogmed's verse as the practical instruction: "when the world is filled with vice, convert adverse conditions into the path of awakening."
+3. **སྟོབས་ཆེ་ཆུང་གི་གནད། (KKP)** — KKP ཡིས་ཉི་མ་ཟླ་བ་དང་མར་མེའི་དཔེས་བྱང་ཆུབ་སེམས་དཔའ་སྟོབས་ཆེ་ཆུང་གི་ཁྱད་པར་བསྟན་ཏེ། སྟོབས་ལྡན་པ་ནི་རྐྱེན་ངན་གྱིས་གནོད་མི་ཐུབ་ཅིང་། སྟོབས་ཆུང་བ་ལ་གནོད་པ་འགའ་ཤས་བྱུང་ཡང་སྡིག་པ་གཏན་ནས་མི་སྐྱེ་ཞིང་དགེ་བ་དལ་བའི་ཚུལ་དུ་འཕེལ་བར་མཚུངས། ཐོགས་མེད་ཀྱི་ཚིགས་བཅད། “སྣོད་བཅུད་སྡིག་པས་གང་བའི་ཚེ། །རྐྱེན་ངན་བྱང་ཆུབ་ལམ་དུ་བསྒྱུར།།” ཞེས་གསུངས་པ་འདི་ཉིད་ཉམས་ལེན་གྱི་གདམས་ངག་ཏུ་KKPས་དྲངས།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]])
+
+4. **བརྟན་པའི་སྙིང་སྟོབས་ཀྱི་གནད། (tenzin-gyatso)** — TG ཡིས་“དགེ་བ་ངང་གིས་འཕེལ”ཞེས་པའི་གནད་ཀྱི་རྒྱུ་མཚན་བཤད་དེ། བྱང་ཆུབ་སེམས་དཔའ་རྣམས་རྟག་ཏུ་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་སྙིང་སྟོབས་ཆེན་པོ་སྒོམ་བཞིན་ཡོད་པས། རྐྱེན་ཛ་དྲག་ཆེན་པོ་དང་འཕྲད་ནའང་བློའི་སྐྱོན་མི་སྐྱེ་བར་མ་ཟད། ཛ་དྲག་གི་གནས་ཚུལ་དེ་ཉིད་རྐྱེན་བྱས་ནས་བཟོད་པ་དང་གཞན་ལ་བརྩེ་བའི་བློ་འཕེལ་བར་འགྱུར། བྱང་ཆུབ་སེམས་མཚན་ཉིད་ཚང་བར་མེད་ཀྱང་དེའི་ཕྱོགས་མཐུན་གྱི་སེམས་བཟང་པོས་ཀྱང་རྐྱེན་གང་བྱུང་གིས་མི་གཡོ་བའི་བརྟན་པ་སྟེར་ཞིང་། དེད་དཔོན་སྙིང་རྗེ་ཆེན་པོའི་སྐྱེས་རབས་ཀྱིས་དེ་མཚོན།
+   ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-35]])
 
 ---
 
@@ -151,9 +168,9 @@ MKS cites the jātaka of the patient sage Dharmasiddha (དྲང་སྲོང
 
 | གནད་ཚིག | འགྲེལ་བཤད་ | ཁུངས། |
 |---|---|---|
-| **དོ་གལ་ཆེན་པོ་** | great danger / extreme hardship; the term implies existential threat (སྲོག་ལ་བབ་, NKW) — KKP specifies head, limbs, spouse, kingdom given away; GDR specifies "extensive adversity, for many beings, over many eons" | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) |
-| **དགེ་བ་ངང་གིས་འཕེལ།** | virtue grows spontaneously / naturally; "ངང་གིས་" (naturally, of itself) is the key qualifier — it is not that the bodhisattva effortfully generates virtue despite adversity, but that adversity itself becomes the condition for natural virtuous increase | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
-| **རྐྱེན་ངན་བྱང་ཆུབ་ལམ་དུ་བསྒྱུར།** | convert adverse conditions into the path of awakening; Thogmed-zangpo's verse (cited by KKP) — the practical instruction that operationalizes the verse's claim about bodhisattvas not generating sin | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
+| **དོ་གལ་ཆེན་པོ་** | སྲོག་ལ་བབ་པའི་ཉེན་ཁ་ཆེན་པོ་སྟེ། KKP ཡིས་དབུ་དང་ཡན་ལག་བུ་ཆུང་མ་འཁོར་རྒྱལ་སྲིད་སྦྱིན་པར་གཏོང་བའི་དཀའ་ངལ་ཆེན་པོར་བཤད་ཅིང་། GDR ཡིས་འགྲོ་མང་གི་མཐའ་དང་བསྐལ་པ་མང་པོའི་ཡུན་ཚད་ཀྱི་དཀའ་སྤྱད་ཀྱི་ཚུལ་དུ་བཤད། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) |
+| **དགེ་བ་ངང་གིས་འཕེལ།** | དགེ་བ་རང་བཞིན་གྱིས་གོང་ནས་གོང་དུ་འཕེལ་བ་སྟེ། “ངང་གིས་”ཞེས་པའི་ཚིག་གིས་བྱང་ཆུབ་སེམས་དཔས་འབད་རྩོལ་གྱིས་དགེ་བ་བསྐྱེད་པ་མིན་པར། རྐྱེན་ངན་ཉིད་དགེ་བ་འཕེལ་བའི་རྐྱེན་དུ་འགྱུར་བའི་དོན་མཚོན། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
+| **རྐྱེན་ངན་བྱང་ཆུབ་ལམ་དུ་བསྒྱུར།** | རྐྱེན་ངན་ཐམས་ཅད་བྱང་ཆུབ་ཀྱི་ལམ་དུ་བསྒྱུར་བའི་ཉམས་ལེན་གྱི་གདམས་ངག་སྟེ། ཐོགས་མེད་ཀྱི་ཚིགས་བཅད (KKP ཡིས་དྲངས) ཤོ་ལོ་ཀ་འདིའི་སྡིག་པ་མི་འབྱུང་བའི་གནད་དོན་ལག་ལེན་དུ་འདེབས་པའི་ཚུལ་མཚོན། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
 
 ---
 
@@ -167,3 +184,4 @@ MKS cites the jātaka of the patient sage Dharmasiddha (དྲང་སྲོང
 - དོ་གལ་ཆེན་པོས་ཀྱང་སྡིག་པ་མི་འབྱུང་ — རྐྱེན་ངན་མེ་ལ་རླུང་ལྟར་བྱང་ཆུབ་ལམ་ལ་ཤུགས་སྦྱར་རོ། ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 - KS གིས་བསྡུ་དངོས་བཞི་ལ་བརྟེན་ནས་རྐྱེན་ངན་དགེ་བར་འགྱུར་བར་གསུངས། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]])
 - KKP གིས་སྟོབས་ཆེ་ཆུང་གི་ཁྱད་པར་བྱས་ཏེ་ཐོགས་མེད་ཀྱི་ཚིགས་བཅད་ "རྐྱེན་ངན་བྱང་ཆུབ་ལམ་དུ་བསྒྱུར།" གནད་ཀྱི་མཐར་སྦྱར། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]])
+- tenzin-gyatso ནི་དེད་དཔོན་སྙིང་རྗེ་ཆེན་པོའི་སྐྱེས་རབས་དྲངས་ཏེ་བྱང་ཆུབ་ཀྱི་སེམས་ཕྱོགས་མཐུན་གྱི་སེམས་བཟང་པོས་ཀྱང་རྐྱེན་གང་བྱུང་གིས་མི་གཡོ་བའི་བརྟན་པ་སྟེར་བར་བཤད། ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-35]])

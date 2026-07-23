@@ -6,7 +6,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 ---
 
@@ -80,6 +80,12 @@ status: draft
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-7]])
 
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+བདག་ནི་སྔོན་བསོད་ནམས་མ་བསགས་པའི་དབང་གིས་བཀྲེན་པ་སྟེ་མཆོད་པའི་ནོར་གཞན་བདག་ལ་བཟང་པོ་དང་རྒྱ་ཆེ་བ་ཅང་མ་མཆིས་པས། དེས་ན་ཐོག་མར་ཐུགས་བསྐྱེད་པ་ནས་བཟུང་སྟེ་གཞན་དོན་འབའ་ཞིག་དགོངས་པའི་མགོན་པོ་སྲས་དང་བཅས་པ་རྣམས་ཀྱིས་བདག་གིས་མཆོད་རྫས་བློ་ཡིས་བླངས་ཏེ་ཕུལ་བ་འདི་རྣམས་བཞེས་ཤིག་ཅེས་པ་དང་། ཡང་ན་རང་ལ་དབང་བའི་མཆོད་རྫས་ཧ་ཅང་གི་རྫས་དམན་པ་དང་ཉུང་བ་དེ་རྣམས་ཀྱང་རང་གིས་དགའ་བཞིན་སྤྲོ་བཞིན་དུ་ཡོན་གནས་དམ་པ་རྣམས་ལ་འབུལ་རྒྱུ་ཡིན། འབུལ་རྒྱུའི་རྫས་དམན་པ་དང་གྲངས་ཉུང་བ་མ་གཏོགས་མེད་ནའང་ཁྱེད་ཉིད་ཀྱི་ཐུགས་རྗེའི་སྒོ་ནས་འདི་དག་མཆོད་པ་བཟང་པོ་ཞིག་ཏུ་བདག་གིར་བཞེས་ཤིག་ཅེས་པ་སྟེ།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^2-7]])
+
 ---
 
 ## དཔེ། (Metaphors and examples)
@@ -101,6 +107,11 @@ status: draft
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^2-7]])
 
+> འདི་ལ་རཱུ་མི་ཞིམ་པའང་རོ་མཆོག་སྣང་། །
+> — མངོན་རྟོགས་རྒྱན་ལས། (མཆོད་རྫས་དམན་པ་དང་ཉུང་བ་ཡིན་ཡང་ཡོན་གནས་ཀྱི་ཐུགས་རྗེའི་སྒོ་ནས་བཞེས་ན་མཆོད་པ་བཟང་པོར་འགྱུར་བའི་དཔེར་བཀོད་པའི་ལུང་།)
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^2-7]])
+
 ---
 
 ## གཙོ་གནད། (Main teaching points)
@@ -116,6 +127,9 @@ status: draft
 
 4. **མགོན་གྱིས་ཐུགས་རྗེའི་མཐུ་དང་རྫུ་འཕྲུལ་གྱིས་ཞིང་ཁམས་སོ་སོར་ཡོད་པའི་མཆོད་རྫས་བཞེས་པའི་ཚུལ།** — རྒྱལ་བ་སྲས་བཅས་རྣམས་ལ་མཁྱེན་པ་དང་བརྩེ་བའི་ཐབས་མཁས་དང་རྫུ་འཕྲུལ་བསམ་གྱིས་མི་ཁྱབ་པ་མངའ་བས་ཞིང་ཁམས་སོ་སོ་ན་ཡིད་ཀྱིས་བཏང་བའི་མཆོད་རྫས་རྣམས་ལེགས་པར་བཞེས་ནུས་པར་བཤད།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-7]])
+
+5. **མཆོད་རྫས་དམན་པའང་ཡོན་གནས་ཀྱི་ཐུགས་རྗེས་བཟང་པོར་འགྱུར་བའི་ལུང་ཁུངས།** — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོས་མངོན་རྟོགས་རྒྱན་གྱི་ལུང་"འདི་ལ་རཱུ་མི་ཞིམ་པའང་རོ་མཆོག་སྣང་།"ཞེས་པས་མཚོན་ཏེ། རང་ལ་འབུལ་རྒྱུའི་རྫས་དམན་ཞིང་ཉུང་ཡང་ཡོན་གནས་དམ་པའི་ཐུགས་རྗེའི་སྒོ་ནས་བཞེས་ན་མཆོད་པ་བཟང་པོར་འགྱུར་བར་གསལ།
+   ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^2-7]])
 
 ---
 

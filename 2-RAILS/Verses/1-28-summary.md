@@ -6,7 +6,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 notes: |
   Grouping matrix:
@@ -90,30 +90,36 @@ notes: |
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+སེམས་ཅན་ཀུན་ལ་རང་བདེ་བ་ཞིག་བྱུང་ན་སྡུག་བསྔལ་དང་བྲལ་ན་བསམ་པ་ཞིག་ཡོད་ཀྱང་། སྡུག་བསྔལ་མི་འདོད་ནའང་སྡུག་བསྔལ་གྱི་རྒྱུ་ངོ་མི་ཤེས། ཤེས་ཀྱང་དེ་ལ་གོམས་པའི་དབང་གིས་འཇུག། བདེ་བ་འདོད་ནའང་བདེ་བའི་རྒྱུ་ངོ་མི་ཤེས། ངོ་ཤེས་ནའང་དེ་ལ་སྙིང་སྟོབས་བསྐྱེད་ནས་བརྩོན་འགྲུས་རྩོམ་པའི་ནུས་པས་མ་ལྡང་བའི་གནས་ཚུལ་ཡོད། དེར་བརྟེན་བདེ་བ་འདོད་ཀྱང་གཏི་མུག་པའི་གཞན་དབང་དུ་སོང་བའི་དབང་གིས་རང་གི་བདེ་བ་དགྲ་ལྟར་འཇོམས་པར་བྱེད་པའི་ངང་ཚུལ་དེ་ལས་མ་འདས། དེར་བརྟེན་གཞན་དོན་འཁུར་དུ་བླངས་ཏེ་གཞན་དོན་དུ་བརྩོན་པ་ངེས་པར་དུ་བྱེད་དགོས་སོ།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-28]])
+
 ---
 
 ## སྒྲུང་འགྲེལ། (Stories and narratives)
 
-*Verse 1-28 contains no independent narrative. KKP uses the implicit image of a moth flying into fire (ཕྱེ་མ་སླེབ་མར་མེ་ལ་མཆོངས་པ་བཞིན་) to characterize beings' self-destructive behavior, which functions as an illustrative analogy rather than a story.*
+*ཚིགས་བཅད་༡།༢༨ པར་རང་གནས་ཀྱི་སྒྲུང་མེད་ཀྱང་། KKP ཡིས་སེམས་ཅན་གྱི་རང་འཇོམས་ཀྱི་སྤྱོད་ཚུལ་མཚོན་པར་ཕྱེ་མ་སླེབ་མར་མེ་ལ་མཆོངས་པ་བཞིན་ཞེས་པའི་དཔེའི་གཟུགས་བརྙན་བེད་སྤྱོད་མཛད་དེ། འདི་ནི་གཏམ་རྒྱུད་ངོ་མ་ལས་ཆེར་དཔེར་བཀོད་པའི་མཚོན་བྱེད་རྣམ་པ་ཞིག་ཡིན།*
 
 ---
 
 ## དཔེ། (Metaphors and examples)
 
-**ཕྱེ་མ་ལེབ་མར་མེ་ལ་མཆོངས་པ།** (Moth flying into fire) — KKP and SMPLG use this image for beings who, wishing to escape suffering, rush headlong into its causes: just as a moth flies straight into a flame, beings enact the ten non-virtues in the very attempt to find relief — plunging into the suffering of the hell and hungry ghost realms.
+**ཕྱེ་མ་ལེབ་མར་མེ་ལ་མཆོངས་པ།** — KKP དང་SMPLG གཉིས་ཀས་སེམས་ཅན་གྱི་སྤྱོད་ཚུལ་མཚོན་པར་དཔེ་འདི་བེད་སྤྱོད་མཛད་དེ། སྡུག་བསྔལ་ཞི་བར་འདོད་བཞིན་དུ་དེའི་རྒྱུར་མངོན་པར་རྒྱུག་པའི་ཚུལ་སྟོན། ཇི་ལྟར་ཕྱེ་མ་ལེབ་མར་མེ་ལ་མཆོངས་པ་ལྟར། སེམས་ཅན་རྣམས་ཀྱང་སྡུག་བསྔལ་ཞི་བའི་དོན་དུ་སྲོག་གཅོད་ལ་སོགས་པའི་མི་དགེ་བ་བཅུ་ཉམས་སུ་ལེན་ཞིང་། དེས་ན་དམྱལ་བ་དང་ཡི་དྭགས་ཀྱི་སྡུག་བསྔལ་ཉིད་ལ་མངོན་པར་རྒྱུག་གོ།
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]])
 
-**དགྲ་ལྟར་འཇོམས།** (Destroying like an enemy) — All commentaries (KKP, KS, GDR, NTS, SMPLG, MKS, NKW) use this image: beings treat the very causes of their own happiness — virtue, the ten wholesome actions — as enemies to be conquered and destroyed. The symmetry with the parallel claim about suffering (running toward it) is exact: both aspiration and action are inverted.
+**དགྲ་ལྟར་འཇོམས།** — འགྲེལ་བ་མཐའ་དག་ (KKP, KS, GDR, NTS, SMPLG, MKS, NKW) གིས་དཔེ་འདི་བེད་སྤྱོད་མཛད་དེ། སེམས་ཅན་རྣམས་རང་གི་བདེ་བའི་རྒྱུ་དངོས་ཡིན་པའི་དགེ་བ་དང་དགེ་བཅུའི་ལས་ཀྱི་ལམ་དེ་དག་ཉིད་དགྲ་བོ་བཞིན་དུ་བཅོམ་ཞིང་སྤང་བར་བྱེད་པར་མཚོན། སྡུག་བསྔལ་ཉིད་ལ་མངོན་པར་རྒྱུག་པའི་དཔེ་དང་ཟུང་མཐུན་དུ་བཀོད་དེ། ཞེ་འདོད་དང་ལག་ལེན་གཉིས་ཀ་ཕྱིན་ཅི་ལོག་ཏུ་གྱུར་བའི་ཚུལ་མཚུངས་པར་སྟོན།
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]])
 
-**ཞེ་འདོད་དང་ལག་ལེན་ཕྱིན་ཅི་ལོག།** (Both wish and action are inverted) — MKS and NKW formalize the verse's structure as a double inversion: beings' aspirations (ཞེ་འདོད་) are inverted (they want happiness but their wishes lead to suffering), and their actions (ལག་ལེན་) are inverted (they pursue the wrong causes). It is not a matter of one but both.
+**ཞེ་འདོད་དང་ལག་ལེན་ཕྱིན་ཅི་ལོག།** — MKS དང་NKW གཉིས་ཀས་ཚིགས་བཅད་ཀྱི་བཀོད་པ་ཕྱིན་ཅི་ལོག་གཉིས་ལྡན་དུ་གཏན་ལ་འབེབས་ཏེ། སེམས་ཅན་གྱི་ཞེ་འདོད་ (བདེ་བ་འདོད་ཀྱང་སྡུག་བསྔལ་འབྱུང་བའི་ལམ་དུ་སོང་བ) དང་ལག་ལེན་ (རྒྱུ་ནོར་ནས་མི་དགེ་བའི་ཐབས་ལ་ཞུགས་པ) གཉིས་ཀ་ཕྱིན་ཅི་ལོག་ཏུ་གྱུར་བར་བཤད། གནད་གཙོ་བོ་ནི་གཅིག་པུ་མིན་པར་གཉིས་ཀ་ནོར་བར་གྱུར་པ་ཡིན།
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
 ---
 
 ## ལུང། (Scriptural quotations)
 
-**མདོ་སྡེའི་རྒྱན།** (Mahāyānasūtrālaṃkāra; quoted in MKS within the 1-28/29/30 grouped prose):
+**མདོ་སྡེའི་རྒྱན།** (མདོ་སྡེའི་རྒྱན་ལས་བྱུང་བའི་ཚིགས་བཅད་སྟེ། MKS ཀྱིས་ཚིགས་བཅད་༡།༢༨/༢༩/༣༠ སྤེལ་བའི་འགྲེལ་བཤད་ནང་དུ་དྲངས་པ།):
 
 > ཇི་ལྟར་བརྩེ་བདག་བདེ་དང་ཕན་ཕྱིར་སྦྱོར། །
 > སེམས་ཅན་གཞན་ལ་བྱམས་འདོད་དེ་ལྟར་ནི། །
@@ -126,17 +132,20 @@ notes: |
 
 ## གཙོ་གནད། (Main teaching points)
 
-1. **བདེ་སྡུག་གི་ཐབས་ལ་རྨོངས་པའི་གནད།** — Verse 1-28 introduces a new stage in the proof: having established that bodhicitta surpasses all other merit (1-26/27), this verse proves WHY beings need the bodhisattva's help. Beings are not merely unfortunate — they are structurally incapable of helping themselves because both their aspiration (ཞེ་འདོད་) and their action (ལག་ལེན་) are inverted. This is not moral failure in isolation; it is the condition of ignorance (གཏི་མུག་) operating at the root.
+1. **བདེ་སྡུག་གི་ཐབས་ལ་རྨོངས་པའི་གནད།** — ཚིགས་བཅད་༡།༢༨ པས་སྔོན་གྱི་རིམ་པ་ (བྱང་ཆུབ་ཀྱི་སེམས་དགེ་བ་ཐམས་ཅད་ལས་མཆོག་ཏུ་གྱུར་པ་༡།༢༦/༢༧) གཞིར་བཟུང་ནས་ཅིའི་ཕྱིར་སེམས་ཅན་ལ་བྱང་སེམས་དཔའི་རོགས་དགོས་པའི་རྒྱུ་མཚན་གཏན་ལ་ཕེབས། སེམས་ཅན་རྣམས་སྐལ་བ་ངན་པ་ཙམ་མིན་པར། ཞེ་འདོད་ (ཞེ་འདོད་) དང་ལག་ལེན་ (ལག་ལེན་) གཉིས་ཀ་ཕྱིན་ཅི་ལོག་ཏུ་གྱུར་བའི་ཕྱིར་རང་ཉིད་ཀྱིས་རང་ལ་ཕན་པ་སྒྲུབ་མི་ནུས་པའི་གནས་ལུགས་ཡིན་པར་བསྟན། འདི་ནི་ལས་ཉེས་རྐྱང་པ་མིན་པར་གཏི་མུག་ (གཏི་མུག་) རྩ་བར་བྱས་པའི་གནས་ཚུལ་ཡིན།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]])
 
-2. **སྡིག་པའི་རྒྱུ་བཅུའི་གནད།** — NKW provides the most detailed account, listing all ten non-virtuous actions (killing, stealing, sexual misconduct, lying, divisive speech, harsh words, idle talk, covetousness, malice, wrong views) as exactly the acts that beings enact when trying to escape suffering. NKW specifies: to attain happiness, one must practice the ten virtuous actions — but beings, not knowing this, treat those causes as enemies.
+2. **སྡིག་པའི་རྒྱུ་བཅུའི་གནད།** — NKW ཡིས་ཞིབ་ཤོས་སུ་མི་དགེ་བ་བཅུ་ཆ་ཚང་ (སྲོག་གཅོད་པ། མ་བྱིན་པར་ལེན་པ། འདོད་པས་ལོག་པར་གཡེམ་པ། རྫུན། ཕྲ་མ། ཚིག་རྩུབ། ངག་འཁྱལ། བརྣབ་སེམས། གནོད་སེམས། ལོག་པར་ལྟ་བ) སེམས་ཅན་རྣམས་ཀྱིས་སྡུག་བསྔལ་སྤོང་བར་འདོད་པའི་སྐབས་སུ་ཉིད་ཀྱིས་ལག་ལེན་བསྟར་བའི་མི་དགེ་བའི་ལས་ཡིན་པར་བཀོད། NKW གྱིས་གསལ་བར་བཤད་པར། བདེ་བ་ཐོབ་པར་འདོད་ན་དགེ་བ་བཅུ་ཉམས་སུ་ལེན་དགོས་པ་ལས། སེམས་ཅན་རྣམས་དེ་མ་ཤེས་པའི་ཕྱིར་རྒྱུ་དེ་དག་ཉིད་དགྲ་བོ་ལྟར་སྤང་བར་བྱེད་དོ།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
-3. **གདམས་ངག་གི་གནད། (GDR)** — GDR's grouped prose (1-28/29/30) opens with a sharp rhetorical question: "Are beings not themselves skilled in abandoning suffering and achieving happiness? Why should another strive?" The answer arrives immediately: they are not skilled, and the proof is that they run toward suffering's causes while destroying happiness's causes. GDR then pivots to the necessity (ངེས་པར་བརྩོན་པར་བྱ་དགོས་) of the bodhisattva's intervention.
+3. **གདམས་ངག་གི་གནད། (GDR)** — GDR ཡིས་ཚིགས་བཅད་༡།༢༨/༢༩/༣༠ སྤེལ་བའི་འགྲེལ་བཤད་ཐོག་མར་དྲི་བ་རྣོན་པོ་བཀོད་དེ། "སེམས་ཅན་རང་ཉིད་སྡུག་བསྔལ་སྤོང་ཞིང་བདེ་བ་སྒྲུབ་པར་མཁས་པ་མིན་ནམ། གཞན་གྱིས་ཅིའི་ཕྱིར་བརྩོན་དགོས" ཞེས་དྲིས། ལན་ནི་འདི་ལྟར་བསྟན་ཏེ། སེམས་ཅན་མཁས་པ་མིན་པའི་རྟགས་ནི་སྡུག་བསྔལ་གྱི་རྒྱུར་མངོན་པར་རྒྱུག་ཅིང་བདེ་བའི་རྒྱུ་འཇོམས་པ་ཉིད་ཡིན་པར་གྲུབ། དེ་ནས་GDR ཡིས་བྱང་སེམས་དཔའི་བརྩོན་འགྲུས་ (ངེས་པར་བརྩོན་པར་བྱ་དགོས་) ངེས་པར་དགོས་པའི་གནད་དུ་འཕོ།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]])
 
-4. **བྱམས་བརྩེ་ཤེས་རབ་གསུམ་གྱི་གནད།** — GDR, NTS, and MKS all conclude the 1-28/29/30 block by naming the three qualities of bodhicitta that directly address beings' triple predicament: great love (བྱམས་པ་ཆེན་པོ་) satisfies those lacking happiness; great compassion (སྙིང་རྗེ་ཆེན་པོ་) severs all suffering; great wisdom (ཤེས་རབ་ཆེན་པོ་) dispels the ignorance that runs toward suffering's causes. The three are not random — they answer the exact structure of verse 1-28.
+4. **བྱམས་བརྩེ་ཤེས་རབ་གསུམ་གྱི་གནད།** — GDR, NTS, MKS གསུམ་ཀས་ཚིགས་བཅད་༡།༢༨/༢༩/༣༠ སྤེལ་བའི་མཇུག་ཏུ་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་ཡོན་ཏན་གསུམ་ནས་སེམས་ཅན་གྱི་དཀའ་ངལ་གསུམ་ཇི་ལྟར་སེལ་བར་བཤད། བྱམས་པ་ཆེན་པོ་ (བྱམས་པ་ཆེན་པོ་) ཡིས་བདེ་བས་ཕོངས་པ་རྣམས་ཚིམ་པར་བྱེད། སྙིང་རྗེ་ཆེན་པོ་ (སྙིང་རྗེ་ཆེན་པོ་) ཡིས་སྡུག་བསྔལ་ཐམས་ཅད་གཅོད་པར་བྱེད། ཤེས་རབ་ཆེན་པོ་ (ཤེས་རབ་ཆེན་པོ་) ཡིས་སྡུག་བསྔལ་གྱི་རྒྱུར་མངོན་རྒྱུག་བྱེད་པའི་གཏི་མུག་སེལ་བར་བྱེད་དོ། ཡོན་ཏན་གསུམ་པོ་འདི་དག་གནད་མེད་པར་བཀོད་པ་མིན་པར། ཚིགས་བཅད་༡།༢༨ གྱི་བཀོད་པའི་གནས་ལུགས་དངོས་དང་མཐུན་པར་ལན་འདེབས་པ་ཡིན།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])
+
+5. **སྙིང་སྟོབས་མ་ལྡང་བའི་གནད། (tenzin-gyatso)** — TG ཡིས་གཏི་མུག་ཙམ་ལས་ལྷག་པའི་བརྟག་དཔྱད་གཞན་ཞིག་སྣོན་ཏེ། སེམས་ཅན་རྣམས་སྡུག་བསྔལ་གྱི་རྒྱུ་ངོས་ཟིན་ནའང་གོམས་པ་ (གོམས་པ་) ཡིས་དེར་འཇུག་ཅིང་། བདེ་བའི་རྒྱུ་ངོས་ཟིན་ནའང་དེ་སྒྲུབ་པའི་སྙིང་སྟོབས་དང་བརྩོན་འགྲུས་ (སྙིང་སྟོབས་དང་བརྩོན་འགྲུས་) མི་ལྡང་བ་ཡོད་པར་བཤད། དེའི་ཕྱིར་གཞན་དོན་འཁུར་དུ་བླངས་ (གཞན་དོན་འཁུར་དུ་བླངས་) ནས་གཞན་དོན་དུ་བརྩོན་པ་ངེས་པར་དུ་དགོས་པར་མཐར་ཐུག་གསུངས།
+   ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-28]])
 
 ---
 
@@ -144,11 +153,12 @@ notes: |
 
 | གནད་ཚིག | འགྲེལ་བཤད་ | ཁུངས། |
 |---|---|---|
-| **སྡུག་བསྔལ་འདོར་འདོད་སེམས་ཡོད་ཀྱང།** | having a mind that wishes to abandon suffering — the key paradox: beings have the correct aspiration but the totally wrong method | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
-| **སྡུག་བསྔལ་ཉིད་ལ་མངོན་པར་རྒྱུག** | running straight toward suffering itself — the precise formulation of beings' inverted action; they pursue suffering's causes while trying to escape suffering | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
-| **གཏི་མུག་པས།** | through delusion / through ignorance — the root cause that makes beings' aspiration for happiness self-defeating; not moral weakness but cognitive blindness to the relationship between cause and effect | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]) |
-| **རང་གི་བདེ་བ་དགྲ་ལྟར་འཇོམས།** | destroying one's own happiness like an enemy — beings actively eliminate the causes of happiness (virtue, the ten wholesome actions) as if those causes were opponents to be defeated | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) |
-| **ཞེ་འདོད་དང་ལག་ལེན་ཕྱིན་ཅི་ལོག།** | aspiration and action both inverted — MKS and NKW's formal diagnosis: the dysfunction is complete; both the wish and the deed are wrong | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]) |
+| **སྡུག་བསྔལ་འདོར་འདོད་སེམས་ཡོད་ཀྱང།** | སྡུག་བསྔལ་སྤང་བར་འདོད་པའི་སེམས་ཡོད་ཅེས་པ་སྟེ། གནད་འགག་ནི་སེམས་ཅན་ལ་བསམ་པ་ཡང་དག་ཡོད་ཀྱང་ཐབས་ཤིན་ཏུ་ནོར་བར་གྱུར་བའི་འགལ་བ་གཙོ་བོར་སྟོན་པ་ཡིན། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
+| **སྙིང་སྟོབས་བསྐྱེད་ནས་བརྩོན་འགྲུས་རྩོམ་པའི་ནུས་པ།** | བདེ་བའི་རྒྱུ་སྒྲུབ་པའི་སྙིང་སྟོབས་དང་བརྩོན་འགྲུས་ཏེ་tenzin-gyatso ཡིས་སྣོན་པའི་ཆ་ཤས་ཡིན། སེམས་ཅན་རྣམས་བདེ་བའི་རྒྱུ་ངོས་ཟིན་ནའང་དེ་ལག་ལེན་དུ་བསྟར་བའི་སྙིང་སྟོབས་མི་ལྡང་བར་བཤད་དེ། གཏི་མུག་རྐྱང་པ་ལས་ཁྱད་པར་གྱི་གནད་གསར་པ་ཡིན། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-28]]) |
+| **སྡུག་བསྔལ་ཉིད་ལ་མངོན་པར་རྒྱུག** | སྡུག་བསྔལ་ཉིད་ལ་མངོན་པར་རྒྱུག་པ་སྟེ། སེམས་ཅན་གྱི་ལག་ལེན་ཕྱིན་ཅི་ལོག་གི་ཚིག་གི་བཀོད་པ་གནད་དུ་སྨིན། སྡུག་བསྔལ་སྤང་བར་འདོད་བཞིན་དུ་སྡུག་བསྔལ་གྱི་རྒྱུར་མངོན་པར་རྒྱུག་པའི་ཚུལ་གསལ་བར་བཀོད། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
+| **གཏི་མུག་པས།** | གཏི་མུག་གམ་རྨོངས་པའི་དབང་གིས་ཞེས་པའི་དོན་ཏེ། སེམས་ཅན་གྱི་བདེ་བའི་འདོད་པ་རང་འཇོམས་སུ་གྱུར་བའི་རྩ་བའི་རྒྱུ་མཚན་ཡིན། འདི་ནི་ཚུལ་ཁྲིམས་ཉམས་པའི་ཉེས་སྐྱོན་མིན་པར་རྒྱུ་འབྲས་ཀྱི་འབྲེལ་བ་ལ་རྨོངས་པའི་ཤེས་བྱའི་སྒྲིབ་པ་ཞིག་ཡིན་པར་མཚོན། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]) |
+| **རང་གི་བདེ་བ་དགྲ་ལྟར་འཇོམས།** | རང་ཉིད་ཀྱི་བདེ་བ་དགྲ་བོ་བཞིན་དུ་འཇོམས་པ་སྟེ། སེམས་ཅན་རྣམས་བདེ་བའི་རྒྱུ་ (དགེ་བ་དང་དགེ་བཅུའི་ལས་ཀྱི་ལམ) དེ་དག་ཉིད་དགྲ་བོ་ལྟར་སྤང་ཞིང་འཇོམས་པར་བྱེད་པའི་ཚུལ་མཚོན། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) |
+| **ཞེ་འདོད་དང་ལག་ལེན་ཕྱིན་ཅི་ལོག།** | ཞེ་འདོད་དང་ལག་ལེན་གཉིས་ཀ་ཕྱིན་ཅི་ལོག་ཏུ་གྱུར་བ་སྟེ། MKS དང་NKW གྱི་གཏན་ཚིགས་ལྟར་ན་ཉམས་ཆག་ཚང་བར་གྲུབ་ཅིང་། ཞེ་འདོད་དང་ལག་ལེན་གཉིས་ཀ་ནོར་བའི་གནད་མཚོན། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]) |
 
 ---
 
@@ -162,3 +172,4 @@ notes: |
 - ལག་ལེན་ལ་གཏི་མུག་གི་དབང་གིས་རང་གི་བདེ་བའི་རྒྱུ་དགྲ་ལྟར་འཇོམས་པའི་ཚུལ་ཕྱེ་མ་ལེབ་མར་དཔེར་བྱས་ཏེ་གསལ་བར་མཛད། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]])
 - སྡུག་བསྔལ་གྱི་རྒྱུ་བཅུ་ལ་དངོས་སུ་བཀྲམ་ནས་རྨོངས་པའི་གནས་ལུགས་ཕྲ་རགས་མཚོན། ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 - GDR/NTS/MKS གསུམ་གྱིས་ཚིགས་བཅད་༡།༢༨ ནས་ ༡།༣༠ བར་གྱི་བྱམས་བརྩེ་ཤེས་རབ་གསུམ་གྱིས་སེམས་ཅན་ལ་ཕན་སྒྲུབ་གནོད་སེལ་བྱས་ཏེ་ཆོས་མཇུག་བསྡོམས། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]])
+- tenzin-gyatso ནི་གཏི་མུག་གི་ཐབས་ཤེས་ལ་སྙིང་སྟོབས་དང་བརྩོན་འགྲུས་མ་ལྡང་བའི་ཆ་ཡང་སྣོན་ཏེ། དེར་བརྟེན་གཞན་དོན་འཁུར་དུ་བླངས་པ་ངེས་པར་དུ་དགོས་པར་བཤད། ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-28]])

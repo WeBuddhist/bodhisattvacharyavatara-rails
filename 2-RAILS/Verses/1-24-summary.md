@@ -6,7 +6,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 notes: |
   Grouping matrix:
@@ -81,17 +81,23 @@ notes: |
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+ཞེས་འཇིག་རྟེན་ན་ཆེ་བར་གྲགས་པའི་ཚངས་པ་དང་བརྒྱ་བྱིན་སོགས་ལ་ཡང་དེ་ལྟ་བུའི་སེམས་ཤིག་སྐྱེ་ཐབས་མེད། གང་ཡིན་ཞེ་ན། རང་ཉིད་ཀྱི་དོན་དུ་ཡང་ཞུམ་པ་སོགས་ཀྱི་དབང་གིས་སྐྱོན་ཀུན་ཟད་དང་ཡོན་ཏན་ཀུན་རྫོགས་པའི་སངས་རྒྱས་ཀྱི་གོ་འཕང་དོན་དུ་གཉེར་བ་སྐྱེ་མི་ཐུབ་པ་ཞིག་ཡིན་ན། ནམ་མཁའ་དང་མཉམ་པའི་སེམས་ཅན་ཐམས་ཅད་དེ་ལྟ་བུ་ལ་འགོད་འདོད་ཀྱི་བློ་སྐྱེ་རྒྱུ་ལྟ་ཅི་སྨོས་ཞེས་པའོ།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-24]])
+
 ---
 
 ## སྒྲུང་འགྲེལ། (Stories and narratives)
 
-*Verse 1-24 contains no independent narrative. The broader illustrative structure grounding verses 1-21 through 1-25 appears in 1-21-summary.md → སྒྲུང་འགྲེལ།.*
+*ཚིགས་བཅད་༡།༢༤ པར་རང་གི་སྒོས་ཀྱི་སྒྲུང་འགྲེལ་མེད། ཚིགས་བཅད་༡།༢༡ ནས་༡།༢༥ བར་མཚོན་པའི་སྤྱིའི་དཔེ་སྟོན་གྱི་སྒྲུང་འགྲེལ་ནི་ 1-21-summary.md → སྒྲུང་འགྲེལ། དེར་གཟིགས།*
 
 ---
 
 ## དཔེ། (Metaphors and examples)
 
-**རྨི་ལམ་དུའང་མ་རྨིས་ཤིང་།** — All commentaries emphasize the "not even in a dream" motif (མཚན་མོ་རྨི་ལམ་དུ་ཡང་མ་རྨིས་) as the measure of how inaccessible this aspiration is to ordinary beings, even in their most unguarded moments. NKW extends this: "not only not thought of consciously (ཉིན་མོར་) but not even dreamt of (རྨི་ལམ་དུ་ཡང་)." The implication: if even the aspiration for buddhahood for oneself is utterly absent in such minds, the aspiration for buddhahood for all beings is infinitely further beyond reach.
+**རྨི་ལམ་དུའང་མ་རྨིས་པའི་དཔེ།** — འགྲེལ་བ་ཐམས་ཅད་ཀྱིས་"མཚན་མོ་རྨི་ལམ་དུ་ཡང་མ་རྨིས་" ཞེས་པའི་ཚིག་གིས་སེམས་ཅན་ཕལ་པའི་བློར་བྱང་ཆུབ་ཀྱི་སྨོན་པ་འདི་ལྟ་བུ་ག་ཙམ་ཡང་མི་ཐུབ་པའི་ཚད་མཚོན་ཏེ། སེམས་རང་བབས་སུ་གནས་པའི་གནས་སྐབས་ཤིན་ཏུ་ཟུར་ཞིག་ཏུའང་མི་འབྱུང་བར་བསྟན། མཁན་པོ་ཀུན་དགས་"ཉིན་མོར་དྲན་མ་མྱོང་བ་མ་ཟད་མཚན་མོར་རྨི་ལམ་དུ་ཡང་རྨིས་མ་མྱོང་" ཞེས་རྒྱས་པར་བཤད་དེ། རང་གི་དོན་དུའང་སངས་རྒྱས་འདོད་པའི་སེམས་གཏན་ནས་མེད་ན། གཞན་གྱི་དོན་དུ་སངས་རྒྱས་འདོད་པའི་སེམས་ནི་ཐག་རིང་དུ་ལུས་པར་མཚོན་ནོ།
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
@@ -99,11 +105,11 @@ notes: |
 
 ## ལུང་། (Scriptural quotations)
 
-**མདོ་སྡེར་གྱང་རབ།** (Mahāyānasūtrālaṃkāra, quoted in SMPLG's unique 1-24 prose; attributed as "རྒྱན་ལས།"):
+**མདོ་སྡེར་གྱང་རབ།** (མདོ་སྡེའི་རྒྱན་ལས། ས་བཟང་མ་ཏི་པཎ་ཆེན་གྱིས་ཚིགས་བཅད་༡།༢༤ འི་སྒོས་བཤད་ཀྱི་ནང་དུ་དྲངས་ཤིང་། "རྒྱན་ལས།" ཞེས་འབོད):
 
 > ཇི་ལྟར་རྒྱལ་སྲས་ཕན་པའི་བསམ་པས་འདིར། ། འགྲོ་ཀུན་རྣམ་པར་སྨིན་བྱེད་གནས་པ་ལྟར། ། དེ་བཞིན་ཕ་དང་མ་དང་གཉེན་བཤེས་རྣམས། ། བུ་དང་གཉེན་པ་རྣམས་ལ་ལེགས་མི་གནས། །
 
-*Note: SMPLG places this in 1-24 prose. NTS and MKS cite the same verse in their 1-23-anchored grouped prose (see 1-23-summary.md → ལུང།).*
+*ས་བཟང་མ་ཏི་པཎ་ཆེན་གྱིས་ཚིགས་བཅད་འདིར་བཀོད་ལ། དངུལ་ཆུ་ཐོགས་མེད་དང་མི་ཉག་ཀུན་བཟང་གཉིས་ཀས་ཚིགས་བཅད་༡།༢༣ ལ་བརྟེན་པའི་སྤྱིའི་བཤད་པའི་ནང་དུ་ཚིགས་བཅད་གཅིག་གཏུགས་ཏེ་དྲངས་སོ། (1-23-summary.md → ལུང། དེར་གཟིགས།)*
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]])
 
@@ -111,13 +117,13 @@ notes: |
 
 ## གཙོ་གནད། (Main teaching points)
 
-1. **རྒྱུ་མཚན་ཤིན་ཏུ་གཙང་མ།** — Verse 1-24 supplies the logical reason (རྒྱུ་མཚན་) for the incomparability stated in verse 1-23: those beings (fathers, mothers, gods, ṛṣis, Brahma) have never even dreamt of buddhahood for themselves. Given this, the bodhisattva's aspiration for buddhahood on behalf of all others is doubly unprecedented — neither the subject (buddhahood) nor the scope (for others) has ever arisen in their minds.
+1. **རྒྱུ་མཚན་གསལ་བར་བཀོད་པ།** — ཚིགས་བཅད་༡།༢༤ པས་ཚིགས་བཅད་སྔ་མ་༡།༢༣ ནང་གི་མཚུངས་མེད་ཀྱི་གཏན་ཐོབ་ལ་རྒྱུ་མཚན་བཀོད་དེ། ཕ་མ་དང་ལྷ་དང་དྲང་སྲོང་ཚངས་པ་ལ་སོགས་པའི་སེམས་ཅན་དེ་དག་ཉིད་ལ་སྔོན་ཆད་རང་གི་དོན་དུའང་སངས་རྒྱས་ཐོབ་འདོད་ཀྱི་སེམས་རྨི་ལམ་དུ་ཡང་མ་རྨིས་པར་བསྟན། དེ་ལྟར་ན་བྱང་ཆུབ་སེམས་དཔའི་གཞན་གྱི་དོན་དུ་སངས་རྒྱས་འདོད་པའི་སྨོན་པ་ནི་རྣམ་པ་གཉིས་ཀྱིས་སྔར་མེད་པ་ཞིག་ཏུ་འགྱུར་ཏེ། དམིགས་ཡུལ་(སངས་རྒྱས་ཀྱི་གོ་འཕང་) དང་ཡུལ་ཁྱབ་(གཞན་གྱི་དོན་དུ་) གཉིས་ཀ་སྔར་སེམས་ལ་འཆར་མ་མྱོང་བའི་ཕྱིར་རོ།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]])
 
-2. **རྨི་ལམ་གྱི་དཔྱད་པའི་གནད།** — The "not even in a dream" standard (NKW: "not during the day, not even at night in a dream") sets the epistemological bar: even in the most spontaneous, unfiltered, uncontrolled mental activity — the dream state — no such thought arises. Therefore, NKW concludes, "impossible that it arise for others" (སེམས་ཅན་གཞན་རྣམས་ཀྱི་དོན་དུ་དེ་འདྲའི་བསམ་པ་ག་ལ་སྐྱེ།).
+2. **རྨི་ལམ་གྱི་ཚད་གཞིའི་གནད།** — "རྨི་ལམ་དུ་ཡང་མ་རྨིས་" ཞེས་པའི་ཚད་གཞིས་ཚད་མའི་ཚད་བཟུང་སྟེ། མཁན་པོ་ཀུན་དགས་"ཉིན་མོར་དྲན་མ་མྱོང་བ་མ་ཟད་མཚན་མོར་རྨི་ལམ་དུ་ཡང་རྨིས་མ་མྱོང" ཞེས་གསལ་བཤད་མཛད་དེ། སེམས་ཀྱི་འགྱུ་བ་ཤིན་ཏུ་རང་བབས་ཅིང་མ་བསྒྱུར་བའི་གནས་སྐབས་ཉིད་ — རྨི་ལམ་གྱི་དུས་ — སུའང་དེ་འདྲའི་བསམ་པ་མི་སྐྱེ་བར་བསྟན་པས། མཁན་པོ་ཀུན་དགས་"སེམས་ཅན་གཞན་རྣམས་ཀྱི་དོན་དུ་དེ་འདྲའི་བསམ་པ་བཟང་པོ་དེ་ག་ལ་སྐྱེ་" ཞེས་མཐར་ཐུག་གིས་གཏན་ལ་ཕབ་བོ།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
-3. **མདོ་སྡེའི་རྒྱན་གྱི་དོན་གཉིས་ཤིང་།** — SMPLG anchors the MSA quotation in this verse (1-24), showing that the bodhisattva's aspiration maturely ripens all beings (འགྲོ་ཀུན་རྣམ་པར་སྨིན་བྱེད་གནས་པ་ལྟར།), while parents and relatives do not truly serve children and kin in this deep sense. This confirms that the reason (ordinary beings never even dreamt of it) explains why the bodhisattva's altruism is entirely incomparable.
+3. **མདོ་སྡེའི་རྒྱན་གྱི་ལུང་གིས་མཚོན་པ།** — ས་བཟང་མ་ཏི་པཎ་ཆེན་གྱིས་མདོ་སྡེའི་རྒྱན་གྱི་ལུང་འདི་ཚིགས་བཅད་༡།༢༤ འདིར་བཀོད་དེ། རྒྱལ་སྲས་ཀྱི་ཕན་སེམས་ཀྱིས་འགྲོ་ཀུན་རྣམ་པར་སྨིན་པར་བྱེད་པ་ལྟར་ཡིན་ཡང་ཕ་མ་དང་གཉེན་བཤེས་རྣམས་ཀྱིས་ནི་བུ་དང་གཉེན་པ་རྣམས་ལ་དེ་འདྲའི་ཕན་སེམས་ཀྱིས་མི་གནས་པར་མཚོན། འདིས་སེམས་ཅན་ཕལ་བས་སྔོན་ཆད་རྨི་ལམ་དུའང་མ་རྨིས་པའི་རྒྱུ་མཚན་གྱིས་བྱང་ཆུབ་སེམས་དཔའི་གཞན་ཕན་གྱི་སེམས་མཚུངས་མེད་ཡིན་པའི་གཏན་ཚིགས་མཐར་ཕྱིན་པར་གྲུབ་བོ།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]])
 
 ---
@@ -126,10 +132,10 @@ notes: |
 
 | གནད་ཚིག | འགྲེལ་བཤད་ | ཁུངས། |
 |---|---|---|
-| **རང་གི་དོན་དུ་འདི་འདྲའི་སེམས།** | this kind of thought even for oneself — the minimal threshold that ordinary beings fail to meet | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
-| **རྨི་ལམ་དུ་ཡང་མ་རྨིས་ན།** | not even dreamed of — the strongest form of the "never occurred" argument | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) |
-| **གཞན་གྱི་དོན་དུ་ག་ལ་སྐྱེ།** | how could it arise for others? — rhetorical conclusion of the impossibility argument | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
-| **འགྲོ་ཀུན་རྣམ་པར་སྨིན་བྱེད།** | maturing all beings — the distinctive function of bodhicitta that no worldly aspiration replicates | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]) |
+| **རང་གི་དོན་དུ་འདི་འདྲའི་སེམས།** | རང་ཉིད་ཀྱི་ཆེད་དུའང་འདི་འདྲའི་བསམ་པ་ — སེམས་ཅན་ཕལ་པས་མ་ཐུབ་པའི་དམའ་ཤོས་ཀྱི་ཚད། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
+| **རྨི་ལམ་དུ་ཡང་མ་རྨིས་ན།** | རྨི་ལམ་དུའང་མ་རྨིས་པ་ — "སྔོན་ཆད་ཉམས་མྱོང་མ་མྱོང" ཞེས་པའི་གཏན་ཚིགས་ཀྱི་ཚད་མཐོ་ཤོས། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) |
+| **གཞན་གྱི་དོན་དུ་ག་ལ་སྐྱེ།** | གཞན་གྱི་དོན་དུ་ག་ལ་སྐྱེ་ཞེས་པ་ — མི་སྲིད་པའི་གཏན་ཚིགས་ཀྱི་མཐར་ཐུག་གི་གྲུབ་མཐའ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
+| **འགྲོ་ཀུན་རྣམ་པར་སྨིན་བྱེད།** | འགྲོ་བ་ཀུན་རྣམ་པར་སྨིན་པར་བྱེད་པ་ — འཇིག་རྟེན་གྱི་སྨོན་པ་གང་གིས་ཀྱང་མི་མཚུངས་པའི་བྱང་ཆུབ་སེམས་ཀྱི་ཁྱད་ཆོས། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]) |
 
 ---
 

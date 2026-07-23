@@ -6,7 +6,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 notes: |
   Grouping matrix:
@@ -98,6 +98,12 @@ notes: |
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+སེམས་ཅན་གང་དང་གང་ལ་བདག་པས་གཞན་གཅེས་པའི་བྱང་ཆུབ་ཀྱི་སེམས་རྒྱུད་ལ་ཡོད་པ་དེ་རྣམས་ཀྱི་སྐུ་ལ། བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་ཕན་ཡོན་དེ་ལྟ་བུ་དྲན་པའི་སྒོ་ནས་སྐུ་ཡི་ཆ་དམའ་ཤོས་ཞབས་ལ་གུས་པས་བཏུད་དེ་ཕྱག་འཚལ་རྒྱུ་ཡིན། སྔོན་སྟོན་པའི་སྐྱེས་རབས་ཀྱི་ནང་དུ་ཡོད་པ་བཞིན། བྱང་ཆུབ་ཀྱི་སེམས་རྒྱུད་ལ་ཡོད་མཁན་དེ་ལ་ཕན་པར་བྱས་པ་ཙམ་དུ་མ་ཟད། དེ་ལ་གལ་ཏེ་བཟང་འབྲེལ་མིན་པར་ངན་འབྲེལ་ཞིག་ཐོགས་པ་ཡིན་ནའང་། བྱང་ཆུབ་ཀྱི་སེམས་དེའི་སྟོབས་ཀྱིས་སླར་རང་ལ་ཐུན་མོང་མིན་པའི་འབྲེལ་ཐོགས་པར་འགྱུར་ཏེ། དཔེར་ན་སྔོན་རྒྱལ་པོ་བྱམས་པའི་སྟོབས་ཀྱིས་སྲིན་པོ་ལ་ཤ་ཁྲག་སྦྱིན་པ་དེས་མ་འོངས་པར་འཁོར་གྱི་ཐོག་མར་སྐྱེ་བའི་ལས་འབྲེལ་བཞག་པར་གསུངས་པ་ཡང་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་དབང་གིས་བྱུང་བ་ཡིན་པས། དེ་ལ་ཕན་བཏགས་ན་བདེ་སྐྱིད་འབྱུང་བ་ལྟ་ཅི་སྨོས་ཏེ། དེ་ལ་གནོད་པ་བསྐྱལ་བ་ཡིན་ནའང་བརྒྱུད་ནས་རང་ལ་ཕན་ཐོགས་ཞིག་ཡོང་ཐུབ་ན། བདེ་བའི་འབྱུང་གནས་མཐར་ཐུག་པ། འགྲོ་བ་རྣམས་ཀྱི་བདེ་སྐྱིད་འབྱུང་བའི་གནས་དེ་ལྟ་བུ་ཡིན་པས། ཡོན་ཏན་དྲན་པའི་སྒོ་ནས་དེ་ལ་སྐྱབས་སུ་མཆིའོ་ཞེས་གསུངས།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-36]])
+
 ---
 
 ## སྒྲུང་འགྲེལ། (Narrative illustrations)
@@ -110,17 +116,23 @@ notes: |
 
 ### རྒྱལ་པོ་བྱམས་པའི་སྟོབས་དང་གནོད་སྦྱིན་ལྔའི་སྐྱེས་རབས། (King Loving Power — KKP, NTS)
 
-དཔེར་ན་རྒྱལ་པོ་བྱམས་པའི་སྟོབས་ཀྱིས་གནོད་སྦྱིན་ལྔ་འཕྲལ་དང་ཡུན་དུ་བདེ་བར་མཛད་པ་བཞིན་ནོ།། (NTS) — དཔེར་ན་དྲང་སྲོང་བཟོད་པར་སྨྲ་བ་དང། རྒྱལ་པོ་བྱམས་པའི་སྟོབས་བཞིན་ནོ།། (KKP) — King of Loving Power (རྒྱལ་པོ་བྱམས་པའི་སྟོབས་ / Maitrīsthāmaka) connected five yakṣas (གནོད་སྦྱིན་ལྔ་) who had harmed him with happiness both immediately and ultimately. Cited by KKP and NTS as the paired example for bodhisattvas who transform harm into connection with liberation.
+དཔེར་ན་རྒྱལ་པོ་བྱམས་པའི་སྟོབས་ཀྱིས་གནོད་སྦྱིན་ལྔ་འཕྲལ་དང་ཡུན་དུ་བདེ་བར་མཛད་པ་བཞིན་ནོ།། (NTS) — དཔེར་ན་དྲང་སྲོང་བཟོད་པར་སྨྲ་བ་དང། རྒྱལ་པོ་བྱམས་པའི་སྟོབས་བཞིན་ནོ།། (KKP) — རྒྱལ་པོ་བྱམས་པའི་སྟོབས་ (Maitrīsthāmaka) ཀྱིས་སྔོན་གནོད་སྦྱིན་ལྔ་པོས་གནོད་པ་བྱས་པ་ན་ཡང་། དེ་དག་ལ་འཕྲལ་དང་ཡུན་གྱི་བདེ་བ་དང་འབྲེལ་བར་མཛད་པའི་སྐྱེས་རབས་ཡིན་ཏེ། KKP དང་NTS གཉིས་ཀས་བྱང་ཆུབ་སེམས་དཔས་གནོད་པ་ཐམས་ཅད་བདེ་བའི་འབྲེལ་བར་བསྒྱུར་བའི་དཔེར་བཀོད་པའོ།
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]])
+
+### tenzin-gyatso — རྒྱལ་པོ་བྱམས་པའི་སྟོབས་ཀྱིས་སྲིན་པོ་ལ་ཤ་ཁྲག་སྦྱིན་པའི་སྐྱེས་རབས།
+
+སྔོན་རྒྱལ་པོ་བྱམས་པའི་སྟོབས་ཀྱིས་སྲིན་པོ་ཞིག་ལ་རང་གི་ཤ་ཁྲག་སྦྱིན་པར་མཛད་པ་དེས། མ་འོངས་པར་སྲིན་པོ་དེའི་འཁོར་གྱི་ཐོག་མར་སྐྱེ་བའི་ལས་འབྲེལ་བཞག་པར་གསུངས། དེ་ནི་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་དབང་གིས་གནོད་པའི་འབྲེལ་ཡང་མཐར་ཕན་ཐོགས་སུ་འགྱུར་བའི་དཔེར་བཀོད་ཡིན། (ཟུར་བཀོད། འདི་ནི་གོང་གི་KKP་དང་NTS་གཉིས་ཀས་ཀྱང་དྲངས་པའི་རྒྱལ་པོ་བྱམས་པའི་སྟོབས་ཀྱི་སྐྱེས་རབས་དེ་ཉིད་རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོའི་ལུགས་ཀྱིས་བཤད་པ་ཡིན་ལ། འདིར་ཤ་ཁྲག་སྦྱིན་པ་དེ་ཉིད་ལས་འབྲེལ་གྲུབ་པའི་ལས་ཀྱི་བྱ་བར་ངེས་པར་བཀོད་འདུག)
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-36]])
 
 ---
 
 ## དཔེ། (Metaphors)
 
-**ཟླ་བ་ཉ་བ་ དང་ ཚེས་ཀྱི་ཟླ་བའི་དཔེ།** (Fish-moon vs. day-moon; KKP): Indian Brahmins who worship the moon-deity do not prostrate to the fish-symbol (ཟླ་བ་ཉ་བ་ / the fish that bears the lunar mark) but to the moon of each day in the sky (ཚེས་ཀྱི་ཟླ་བ་). Likewise, even if a bodhisattva displays apparent faults (which are conditioned and will be exhausted on the path), one should still prostrate and take refuge — worshipping the real bodhicitta within, not fixating on surface appearances.
+**ཟླ་བ་ཉ་བའི་དཔེ།** (KKP): རྒྱ་གར་གྱི་བྲམ་ཟེ་ཟླ་བ་ལྷར་འཛིན་པ་རྣམས་ཀྱིས་ཟླ་བ་ཉ་བ་ལ་ཕྱག་མི་བྱ་བར་ཚེས་ཀྱི་ཟླ་བ་ལ་ཕྱག་བྱ་བ་ལྟར། བྱང་ཆུབ་སེམས་དཔའ་ལ་ཡང་དེ་བཞིན་དུ་ཕྱག་བྱ། གལ་ཏེ་ཉེས་པའི་སྐྱོན་ཞིག་སྣང་དུ་ཟིན་ཀྱང་། དེ་ནི་འདུས་བྱས་ཡིན་པའི་ཕྱིར་ལམ་བསྒོམ་པའི་སྟོབས་ཀྱིས་ཟད་ནས་སངས་རྒྱས་པར་འགྱུར་བས། ཕྱིའི་སྣང་ཚུལ་ལ་མི་ཞེན་པར་ནང་གི་བྱང་ཆུབ་ཀྱི་སེམས་དངོས་ལ་ཕྱག་འཚལ་ཞིང་སྐྱབས་སུ་འགྲོ་དགོས།
 
-**ལྷ་བུའི་དཔེ།** (Newborn prince; NTS from Ratnakūṭa): As when a king's son bearing auspicious marks is born and the entire city plus all surrounding kingdoms immediately gather to pay respects and cherish him — similarly, the moment bodhicitta arises in a being, gods and the world with them prostrate to and cherish that bearer of the Victor's auspicious marks.
+**ལྷ་སྲས་སྐྱེས་མ་ཐག་གི་དཔེ།** (དཀོན་མཆོག་བརྩེགས་པ་ལས། NTS): ས་བདག་རྒྱལ་པོ་ཆེན་པོ་ལ་མཚན་གྱིས་ལུས་བརྒྱན་པའི་སྲས་ཤིག་བཙས་པ་མཐོང་མ་ཐག་ཏུ་གྲོང་ཁྱེར་མི་དང་རྒྱལ་ཕྲན་ཐམས་ཅད་འདུས་ནས་ཕྱག་མཆོད་བྱེད་པ་ལྟར། སེམས་ཅན་ཞིག་ལ་བྱང་ཆུབ་ཀྱི་སེམས་བསྐྱེད་མ་ཐག་ཏུ་ལྷ་དང་བཅས་པའི་འཇིག་རྟེན་གྱིས་མཚན་ལྡན་རྒྱལ་བའི་སྲས་པོ་དེ་ལ་ཕྱག་འཚལ་ཞིང་དྭངས་པའི་སེམས་ཀྱིས་གཅེས་པར་འཛིན་པར་གསུངས།
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]])
 
@@ -129,23 +141,24 @@ notes: |
 ## ལུང། (Scripture citations)
 
 > དཔེར་ན་ས་བདག་རྒྱལ་པོ་ཆེན་པོ་ལ།།མཚན་གྱིས་ལུས་སྤྲས་བུ་ཞིག་ཡོད་གྱུར་པ།།གཞོན་ནུ་དེ་ནི་བཙས་པ་མཐོང་མ་ཐག།གྲོང་ཁྱེར་མི་དང་རྒྱལ་ཕྲན་ཐམས་ཅད་འདུ།།དེ་བཞིན་བྱང་ཆུབ་སེམས་ནི་བསྐྱེད་མ་ཐག།མཚན་ལྡན་རྒྱལ་བའི་སྲས་པོ་དེ་ལ་ནི།།ལྷ་དང་བཅས་པའི་འཇིག་རྟེན་ཕྱག་འཚལ་ཞིང་།།དྭངས་པའི་སེམས་ཀྱིས་ཤིན་ཡུ་གཅེས་པར་འཛིན།།
+> — དཀོན་མཆོག་བརྩེགས་པ་ལས། རྒྱལ་པོའི་སྲས་སྐྱེས་མ་ཐག་ཏུ་ཡོངས་ཀྱིས་ཕྱག་མཆོད་བྱེད་པ་ལྟར། བྱང་ཆུབ་ཀྱི་སེམས་བསྐྱེད་མ་ཐག་ཏུའང་ལྷ་མིའི་འཇིག་རྟེན་གྱིས་ཕྱག་འཚལ་ཞིང་གཅེས་པར་འཛིན་པར་བསྟན།
 
-(དཀོན་མཆོག་བརྩེགས་པ་ / Ratnakūṭa — NTS → ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]))
+([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]])
 
 ---
 
 ## གཙོ་གནད། (Main teaching points)
 
-1. **ཕྱག་འཚལ་བའི་ཡུལ་གྱི་གནད།** — The object of prostration in verse 1-36 is the precious bodhicitta itself — wherever it has arisen, regardless of the outer status of the bearer (མཆོག་དམན་གང་ལ་, KKP; མཆོག་དམན་བར་མ་ཕོ་མོ་རྒན་གཞོན་གང་དང་གང་ལ་ཡང་ཁྱད་པར་མེད་, NKW). The verse closes Chapter 1 — བྱང་ཆུབ་སེམས་ཀྱི་ཕན་ཡོན་བཤད་པ། — with Śāntideva's own act of prostration and refuge toward all who bear bodhicitta.
+1. **ཕྱག་འཚལ་བའི་ཡུལ་གྱི་གནད།** — ཚིགས་བཅད་འདིའི་ཕྱག་འཚལ་བའི་ཡུལ་ནི་རིན་ཆེན་བྱང་ཆུབ་ཀྱི་སེམས་ཉིད་ཡིན་ཏེ། གང་ཟག་མཆོག་དམན་བར་མ་ཕོ་མོ་རྒན་གཞོན་སུ་ལ་སྐྱེས་ཀྱང་ཁྱད་པར་མེད (མཆོག་དམན་གང་ལ་, KKP; མཆོག་དམན་བར་མ་ཕོ་མོ་རྒན་གཞོན་གང་དང་གང་ལ་ཡང་ཁྱད་པར་མེད་, NKW)། ཚིགས་བཅད་འདིས་ལེའུ་དང་པོ་ — བྱང་ཆུབ་སེམས་ཀྱི་ཕན་ཡོན་བཤད་པ་ — ཞི་བ་ལྷ་རང་ཉིད་ཀྱིས་བྱང་ཆུབ་སེམས་ཀྱི་སྐྱེས་བུ་རྣམས་ལ་ཕྱག་འཚལ་ཞིང་སྐྱབས་སུ་འགྲོ་བའི་ཚུལ་གྱིས་མཇུག་བསྡུའོ།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
-2. **གནོད་བྱེད་བདེ་བར་མཛད་པའི་གནད།** — Even those who harm a bodhisattva are connected with happiness, both immediately and ultimately (གནས་སྐབས་དང་མཐར་ཐུག་གི་བདེ་བ་). This is effected through the bodhisattva's four powers: compassion (སྙིང་རྗེ་), bodhicitta (བྱང་ཆུབ་ཀྱི་སེམས་), skillful means (ཐབས་མཁས་), and aspiration power (སྨོན་ལམ་གྱི་སྟོབས་). NKW's Kṣāntivādin jātaka makes this historically concrete: the five ministers who cut Dharmasiddha's limbs became the pañcavaggīya — recipients of the first dharma teaching at Varanasi.
+2. **གནོད་བྱེད་བདེ་བར་མཛད་པའི་གནད།** — བྱང་ཆུབ་སེམས་དཔའ་ལ་གནོད་པ་བྱེད་མཁན་ཡང་གནས་སྐབས་དང་མཐར་ཐུག་གི་བདེ་བ་དང་འབྲེལ་བར་འགྱུར་ཏེ། འདི་ནི་བྱང་ཆུབ་སེམས་དཔའི་སྙིང་རྗེ་དང་། བྱང་ཆུབ་ཀྱི་སེམས། ཐབས་ལ་མཁས་པ། སྨོན་ལམ་གྱི་སྟོབས་བཞིའི་མཐུས་གྲུབ་པའོ། NKW ཡིས་དྲང་སྲོང་བཟོད་པར་སྨྲ་བའི་སྐྱེས་རབས་ཀྱིས་གནད་འདི་དངོས་སུ་བཀོད་དེ། དབུ་དང་ཡན་ལག་བཅད་པའི་དཔོན་གཡོག་ལྔ་པོ་ཕྱིས་ཝཱ་རཱ་ཎ་སཱིར་ཆོས་འཁོར་ཐོག་མར་བསྐོར་བའི་གདུལ་ཞིང་ཀུན་ཤེས་ཀཽཎྜི་ན་ཡ་ལ་སོགས་འཁོར་ལྔར་སྐྱེས་པར་གསུངས།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]])
 
-3. **༡།༣༤ དང་༡།༣༦ མི་འགལ་བའི་གནད།** — The apparent contradiction between verse 1-34 (anger at a bodhisattva → hell for as many kalpas as moments of ill will) and verse 1-36 (harm → connection with happiness) is resolved identically by KKP, SMPLG, and NTS: the former addresses karmic infallibility from the harmer's own side (ལས་འབྲས་བསླུ་མེད་ // ངན་སེམས་ཀྱི་འཕྲལ་དུ་དམྱལ་བར་སྐྱེ་བ་); the latter addresses the bodhisattva's compassion and aspiration taking care of (རྗེས་སུ་འཛིན་པ་) that same being in the long run, so that saṃsāra ultimately has an end (འཁོར་བ་མཐའ་ཅན་). Both are simultaneously true.
+3. **༡།༣༤ དང་༡།༣༦ མི་འགལ་བའི་གནད།** — ཚིགས་བཅད་༡།༣༤ (བྱང་ཆུབ་སེམས་དཔར་ཁོང་ཁྲོ་བའི་སྐད་ཅིག་རེ་རེའི་གྲངས་ཀྱིས་བསྐལ་པར་དམྱལ་བར་སྐྱེ་བ) དང་། ༡།༣༦ (གནོད་པ་བྱས་ཀྱང་བདེ་བ་དང་འབྲེལ་བ) འགལ་བར་སྣང་ཡང་། KKP SMPLG NTS གསུམ་ཀས་འགལ་མེད་དུ་བཤད་དེ། སྔ་མ་ནི་ལས་འབྲས་བསླུ་མེད་ཡིན་པའི་ངོས་ནས་ངན་སེམས་ཀྱི་འཕྲལ་དུ་དམྱལ་བར་སྐྱེ་བ་ལ་དགོངས་པ་ཡིན་ལ། འདིར་ནི་བྱང་ཆུབ་སེམས་དཔའི་སྙིང་རྗེ་དང་སྨོན་ལམ་གྱིས་གནོད་བྱེད་དེ་ཉིད་རྗེས་སུ་འཛིན་ཅིང་མཐར་འཁོར་བ་མཐའ་ཅན་དུ་འགྱུར་བ་ལ་དགོངས་པ་ཡིན་པས། གཉིས་ཀ་དུས་མཉམ་དུ་བདེན་པར་གྲུབ།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]])
 
-4. **དག་སྣང་སྦྱང་བའི་གནད། (KKP)** — KKP's extended conclusion is the chapter's practical instruction: knowing that beings with bodhicitta are extraordinary persons (ལྷར་བཅས་འགྲོ་བའི་ཕྱག་མཆོད་ཀྱི་གནས་ / objects of worship for gods and humans) and future buddhas, one should confess prior disrespect, train in pure perception (དག་སྣང་སྦྱང་བ་), and refrain from scanning beings' faults. The moon analogy applies: even if apparent faults exist, they are conditioned (འདུས་བྱས་) and exhausted by the power of the path — so the fault-perception itself is the problem, not the bodhisattva.
+4. **དག་སྣང་སྦྱང་བའི་གནད། (KKP)** — KKP ཡིས་ལེའུ་འདིའི་མཐར་བཀའ་སློབ་ངེས་པར་གནང་སྟེ། བྱང་ཆུབ་ཀྱི་སེམས་དང་ལྡན་པའི་སེམས་ཅན་རྣམས་ནི་ལྷར་བཅས་འགྲོ་བའི་ཕྱག་མཆོད་ཀྱི་གནས་དང་མ་འོངས་པའི་སངས་རྒྱས་ཡིན་པར་ཤེས་ནས། སྔོན་ཆད་བྱས་པའི་ལོག་ལྟ་སྒྲོ་སྐུར་སོགས་ལ་བཤགས་སྡོམ་བྱས་ཏེ་དག་སྣང་སྦྱང་ཞིང་སེམས་ཅན་གྱི་སྐྱོན་ལ་མི་ལྟ་བར་བྱ་དགོས། ཟླ་བའི་དཔེས་བསྟན་པ་ལྟར། བྱང་སེམས་ལ་ཉེས་སྐྱོན་སྣང་དུ་ཟིན་ཀྱང་དེ་དག་འདུས་བྱས་ཡིན་པས་ལམ་བསྒོམ་པའི་སྟོབས་ཀྱིས་ཟད་དེ་སངས་རྒྱས་པར་འགྱུར་བས། སྐྱོན་དུ་མཐོང་བ་ཉིད་ཉེས་པ་ཡིན་གྱི་བྱང་ཆུབ་སེམས་དཔའ་ལ་སྐྱོན་མེད།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]])
 
 ---
@@ -154,10 +167,10 @@ notes: |
 
 | གནད་ཚིག | འགྲེལ་བཤད་ | ཁུངས། |
 |---|---|---|
-| **བདེ་བའི་འབྱུང་གནས།** | source of happiness; the verse's final epithet for the bodhisattva — chosen because even harm-doers are eventually connected with happiness through the bodhisattva's compassion and aspiration. SMPLG: "བདེ་བ་ཐམས་ཅད་པའི་འབྱུང་བའི་གནས་" (the very source of all happiness); KS: "བདེ་བའི་འབྱུང་གནས་" as the ground of refuge. | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]) |
-| **བཟང་འབྲེལ་ཚེ་གཅིག་སངས་རྒྱས། ངན་འབྲེལ་འཁོར་བ་མཐའ་ཅན།** | "Good connection → buddhahood in one life; bad connection → saṃsāra with an end"; KKP's succinct formulation of the bodhisattva's all-encompassing power: every encounter with a bodhisattva, whether favorable or harmful, ultimately yields liberation — the only question is the duration. | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
-| **འཁོར་བ་མཐའ་ཅན།** | saṃsāra with an end; NKW: even the harm-doer, after experiencing karmic consequences over a long period, eventually reaches a saṃsāra that has an end (འཁོར་བ་མཐའ་ཅན་དུ་གྱུར་ནས་) and is liberated through the bodhisattva's compassion — contrasted with endless (མཐའ་མེད་) saṃsāra. | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) |
-| **དག་སྣང་།** | pure perception; KKP's key practical term for verse 1-36 — the instruction to see the bodhicitta in all beings rather than their outer faults. The moon analogy clarifies: worship the real moon (inner bodhicitta), not the fish-symbol (apparent flaws). | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
+| **བདེ་བའི་འབྱུང་གནས།** | ཚིགས་བཅད་ཀྱི་མཐའ་མའི་བྱང་ཆུབ་སེམས་དཔའི་མཚན་གདགས་ — གནོད་བྱེད་ཀྱང་མཐར་སྙིང་རྗེ་དང་སྨོན་ལམ་གྱི་སྟོབས་ཀྱིས་བདེ་བ་དང་འབྲེལ་བར་འགྱུར་བའི་ཕྱིར་བཏགས། SMPLG: “བདེ་བ་ཐམས་ཅད་པའི་འབྱུང་བའི་གནས་”; KS: “བདེ་བའི་འབྱུང་གནས་” སྐྱབས་ཀྱི་གཞི་རུ་བཀོད། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]) |
+| **བཟང་འབྲེལ་ཚེ་གཅིག་སངས་རྒྱས། ངན་འབྲེལ་འཁོར་བ་མཐའ་ཅན།** | KKP ཡིས་མདོར་བསྡུས་ཏེ་གསུངས་པའི་ཚིག — བྱང་ཆུབ་སེམས་དཔའ་དང་འབྲེལ་བ་ཐམས་ཅད་མཐར་ཐར་པར་འགྲོ་བ་སྟེ། བཟང་འབྲེལ་ན་ཚེ་གཅིག་ལ་སངས་རྒྱས། ངན་འབྲེལ་ནའང་འཁོར་བ་མཐའ་ཅན་དུ་གྱུར་ནས་གྲོལ་བར་འགྱུར་བ་ལས། ཁྱད་པར་དུས་ཡུན་ཙམ་ལས་མེད། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
+| **འཁོར་བ་མཐའ་ཅན།** | NKW: གནོད་བྱེད་ཀྱང་ཡུན་རིང་པོར་ལས་ཀྱི་འབྲས་བུ་མྱོང་རྗེས་མཐར་འཁོར་བ་མཐའ་ཅན་དུ་གྱུར་ནས་བྱང་ཆུབ་སེམས་དཔའི་ཐུགས་རྗེས་གྲོལ་བར་འགྱུར་ཞིང་། མཐའ་མེད་པའི་འཁོར་བ་དང་འགལ་བར་བཀོད། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) |
+| **དག་སྣང་།** | KKP ཡིས་ཚིགས་བཅད་འདིར་གཙོ་བོར་སྟོན་པའི་ཉམས་ལེན་གྱི་གནད་ — སེམས་ཅན་ཐམས་ཅད་ལ་ཡོད་པའི་བྱང་ཆུབ་ཀྱི་སེམས་ལ་བལྟ་བ་ཡིན་གྱི་ཕྱིའི་སྐྱོན་ལ་མི་ལྟ་བའི་བཀའ་སློབ། ཟླ་བའི་དཔེས་གསལ་བར་མཚོན་ཏེ། ཕྱིའི་སྣང་ཚུལ་ལ་མི་ཞེན་པར་ནང་གི་ཟླ་བ་དངོས་ (བྱང་ཆུབ་ཀྱི་སེམས་) ལ་ཕྱག་འཚལ་དགོས། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
 
 ---
 
@@ -171,3 +184,4 @@ notes: |
 - གནོད་བྱེད་བདེ་བར་གྲོལ་བ་ — སྙིང་རྗེ་ཐབས་མཁས་སྨོན་ལམ་གྱི་སྟོབས་ལས་བདེ་བའི་འབྱུང་གནས་ཀྱི་མཐུ་མངོན་། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]])
 - བཟང་འབྲེལ་ཚེ་གཅིག་སངས་རྒྱས། ངན་འབྲེལ་འཁོར་བ་མཐའ་ཅན། — གནོད་འཚེ་དང་གུས་བཀུར་གཉིས་ཀ་མཐར་བདེ་བར་མཇུག་འགྲིབ། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]])
 - KKP གིས་དག་སྣང་སྦྱང་བའི་གནད་ཀྱིས་མཐར་བཀའ་སློབ། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]])
+- tenzin-gyatso ནི་རྒྱལ་པོ་བྱམས་པའི་སྟོབས་ཀྱིས་སྲིན་པོ་ལ་ཤ་ཁྲག་སྦྱིན་པའི་སྐྱེས་རབས་དྲངས་ཏེ་གནོད་པའི་འབྲེལ་ཡང་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་སྟོབས་ཀྱིས་མཐར་ཕན་ཐོགས་སུ་འགྱུར་བར་བཤད། ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-36]])

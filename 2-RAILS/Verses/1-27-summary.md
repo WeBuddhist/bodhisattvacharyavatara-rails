@@ -6,7 +6,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 notes: |
   Grouping matrix:
@@ -59,9 +59,9 @@ notes: |
 
 ### ngulchu-thogmed — དངུལ་ཆུ་ཐོགས་མེད། (ལེགས་བཤད་རྒྱ་མཚོ།)
 
-*Note: 1-26 and 1-27 are grouped in this commentary; 1-27 is NOT the first verse. Full grouped prose — which covers this verse's content — appears in 1-26-summary.md.*
+*ས་བཅད། ཤོ་ལོ་ཀ་1-26 དང་1-27 འདི་འགྲེལ་པ་འདིར་ཚིགས་བཅད་གཅིག་ཏུ་བསྡོམས་ཏེ་བཤད་ལ། 1-27 ནི་ཚིགས་བཅད་སྐབས་ཀྱི་དང་པོ་མིན། ཚིགས་བཅད་གཉིས་ཀ་ཁེབས་པའི་བཤད་པ་སྤྱི་ནི་1-26-summary.md ལ་གཟིགས།*
 
-→ ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]) — see 1-26-summary.md
+→ ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]) — 1-26-summary.md ལ་གཟིགས།
 
 ### sabzang — ས་བཟང་མ་ཏི་པཎ་ཆེན། (གཞུང་དོན་རབ་གསལ་སྣང་བ།)
 
@@ -81,30 +81,36 @@ notes: |
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+ཞེས་ཆེད་དུ་བྱ་བ་སེམས་ཅན་ཐམས་ཅད་ལ་ཕན་པའི་སེམས་བསྐྱེད་པ་ཙམ་ལའང་སྨོན་སེམས་ཀྱི་ཕན་ཡོན་བཞིན་ཕན་ཡོན་ཆེན་པོ་ཡོད་ན། དངོས་སུ་ནམ་མཁའ་དང་མཉམ་པའི་སེམས་ཅན་ཐམས་ཅད་སྡུག་བསྔལ་མཐའ་དག་ལས་བྲལ་བ་དང་། བདེ་བ་མཐའ་དག་དང་ལྡན་པའི་ཆེད་དུ་སྤྱོད་པ་ལ་དངོས་སུ་སློབ་མཁན་དེ་ལ་ཕན་ཡོན་བསམ་གྱིས་མི་ཁྱབ་པ་འབྱུང་བ་ལྟ་ཅི་སྨོས། འོ་ན། སེམས་ཅན་མཐའ་དག་སྡུག་བསྔལ་རྒྱུ་དང་བཅས་པ་ལས་བྲལ་བ་དང་། བདེ་བ་མཐའ་དག་དང་ལྡན་པའི་བློ་བཟང་པོ་བསྐྱེད་དགོས་པའི་རྒྱུ་མཚན་གང་ཡོད་དམ། སེམས་ཅན་སོ་སོ་ཡིན་ནའང་རང་དོན་རང་གཅེས་མི་བྱེད་མཁན་སུ་ཞིག་མེད། དེས་ན་སེམས་ཅན་ཐམས་ཅད་ཀྱིས་རང་དོན་རང་གཅེས་བྱེད་བཞིན་དུ་རང་གིས་དོན་མེད་སེམས་ཁུར་ལྟ་བུས་སེམས་དེ་འདྲ་བསྐྱེད་དགོས་པའི་རྒྱུ་མཚན་གང་ཡོད་དམ་སྙམ་ན།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-27]])
+
 ---
 
 ## སྒྲུང་འགྲེལ། (Stories and narratives)
 
-*Verse 1-27 contains no independent narrative. The argument proceeds as a direct a fortiori inference from the established merit of bodhicitta (verse 1-26).*
+*ཚིགས་བཅད་1-27 པར་རང་སོའི་སྒྲུང་གཏམ་མེད་དེ། གོང་གི་ཚིགས་བཅད (1-26) ནས་གྲུབ་པའི་བྱང་ཆུབ་སེམས་ཀྱི་བསོད་ནམས་ལ་བརྟེན་ནས་ "ལྟ་སྨོས་ཀྱང་ཅི་དགོས" ཞེས་པའི་རིགས་པ་དངོས་སུ་འཕར་བའི་སྒྲུབ་ཚུལ་ཞིག་ཡིན།*
 
 ---
 
 ## དཔེ། (Metaphors and examples)
 
-**ཕན་པར་བསམ་པ་ལས་མཆོད་པ་ཁྱད་འཕགས།** (Mere wish for benefit exceeds massive offerings) — The central logical move of the verse is a comparative argument: if merely wishing beings well already exceeds offerings to innumerable Buddhas, then actually striving for all beings' buddhahood is immeasurably greater still. This "how much more" structure (སྨོས་ཅི་དགོས།) carries across all seven commentaries.
+**ཕན་པར་བསམ་པ་ལས་མཆོད་པ་ཁྱད་འཕགས།** — ཚིགས་བཅད་འདིའི་གཙོ་བོའི་རིགས་པའི་འགྲོས་ནི་བསྡུར་བའི་རྣམ་པ་ཞིག་ཡིན་ཏེ། སེམས་ཅན་ལ་ཕན་པར་བསམ་པ་ཙམ་གྱིས་ཀྱང་སངས་རྒྱས་གྲངས་མེད་པ་ལ་མཆོད་པ་བྱས་པ་ལས་ཁྱད་པར་དུ་འཕགས་ན། སེམས་ཅན་ཐམས་ཅད་སངས་རྒྱས་སུ་བསྒྲུབ་པའི་ཕྱིར་དངོས་སུ་བརྩོན་པ་ནི་ཚད་མེད་པར་ལྷག་པར་འཕགས་པར་ངེས་སོ། "སྨོས་ཅི་དགོས།" ཞེས་པའི་རིགས་པའི་འགྲོས་འདི་འགྲེལ་པ་བདུན་ཆར་ལ་མཐུན་པར་ཤར།
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]])
 
-**བྱེ་བ་ཁྲག་ཁྲིག་གི་ཞིང་།** (Countless buddha-fields) — The scale of offering invoked in the Samādhirāja verse is not merely "many offerings" but offerings of every kind in buddha-fields as numerous as the sands of the Ganges River, made daily without ceasing. Even this immeasurable accumulation is surpassed by a single moment of loving intention.
+**བྱེ་བ་ཁྲག་ཁྲིག་གི་ཞིང་།** — ཏིང་འཛིན་རྒྱལ་པོའི་ཚིགས་བཅད་ལས་དྲངས་པའི་མཆོད་པའི་ཚད་ནི་"མཆོད་པ་མང་པོ" ཙམ་མིན་པར། གངྒཱའི་ཀླུང་གི་བྱེ་མ་སྙེད་ཀྱི་སངས་རྒྱས་ཀྱི་ཞིང་ཐམས་ཅད་ན་རྣམ་པ་སྣ་ཚོགས་ཀྱི་མཆོད་པ་ཉིན་རེ་བཞིན་རྒྱུན་མི་ཆད་པར་འབུལ་བའོ། ཚོགས་པ་ཚད་མེད་པ་འདི་ལྟ་བུ་ཡང་བྱམས་པའི་སེམས་སྐད་ཅིག་གཅིག་གིས་ཟིལ་གྱིས་གནོན།
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])
 
-**སྨོན་པ་ལས་སྦྱོར་བའི་ཁྱད་པར།** (Aspiration vs. engagement) — MKS draws an ascending distinction: the prior verse established the merit of aspiring bodhicitta (སྨོན་པ་); this verse escalates to engaging bodhicitta (སྦྱོར་བ་) — directly striving through the six perfections for all beings' liberation. The bodhisattva of this verse is not merely wishing but actively engaged.
+**སྨོན་པ་ལས་སྦྱོར་བའི་ཁྱད་པར།** — མི་ཉག་ཀུན་བསོད་ཀྱིས་འཕར་མའི་ཁྱད་པར་ཞིག་གསལ་བར་མཛད་དེ། ཚིགས་བཅད་སྔ་མས་སྨོན་པའི་བྱང་ཆུབ་སེམས་ (སྨོན་པ་) ཀྱི་བསོད་ནམས་བསྟན་ཟིན་ལ། ཚིགས་བཅད་འདིས་སྦྱོར་བའི་བྱང་ཆུབ་སེམས་ (སྦྱོར་བ་) སུ་གོང་དུ་འཕར་ཏེ— ཕྱིན་དྲུག་གི་སྒོ་ནས་སེམས་ཅན་ཐམས་ཅད་གྲོལ་བར་བྱ་བའི་ཕྱིར་དངོས་སུ་བརྩོན་པའོ། ཚིགས་བཅད་འདིའི་བྱང་ཆུབ་སེམས་དཔའ་ནི་སྨོན་པ་ཙམ་མིན་པར་དངོས་སུ་སྦྱོར་བ་ལ་ཞུགས་པ་ཡིན།
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])
 
 ---
 
 ## ལུང། (Scriptural quotations)
 
-**ཏིང་འཛིན་རྒྱལ་པོ། / ཟླ་བ་སྒྲོན་མ།** (Samādhirāja-sūtra / Candradīpa-sūtra — same text; quoted in KKP, NTS, MKS, SMPLG, NKW):
+**ཏིང་འཛིན་རྒྱལ་པོ། / ཟླ་བ་སྒྲོན་མ།** (མཛོད་གཅིག་གི་མིང་གཉིས་ཡིན་ལ། ཀུན་བཟང་དཔལ་ལྡན། དངུལ་ཆུ་ཐོགས་མེད། མི་ཉག་ཀུན་བསོད། ས་བཟང་མ་ཏི་པཎ་ཆེན། མཁན་པོ་ཀུན་དགའ་དབང་ཕྱུག་བཅས་ལྔས་དྲངས།):
 
 > བྱེ་བ་ཁྲག་ཁྲིག་གཏམས་པའི་ཞིང་དག་ན། །
 > མཆོད་པ་རྣམ་མང་དཔག་མེད་ཅི་ཡོད་པ། །
@@ -113,7 +119,7 @@ notes: |
 
 → ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
-**དཔས་བྱིན་གྱིས་ཞུས་པ།** (Bhadrapāla-sūtra; quoted in KS, MKS, SMPLG):
+**དཔས་བྱིན་གྱིས་ཞུས་པ།** (མཁན་པོ་གཞན་དགའ། མི་ཉག་ཀུན་བསོད། ས་བཟང་མ་ཏི་པཎ་ཆེན་གསུམ་གྱིས་དྲངས།):
 
 > གང་གཱའི་བྱེ་མའི་གྲངས་སྙེད་ཀྱི། །
 > སངས་རྒྱས་ཞིང་ཀུན་མི་གང་གིས། །
@@ -130,16 +136,16 @@ notes: |
 
 ## གཙོ་གནད། (Main teaching points)
 
-1. **ཀ་ལ་འགྲེལ་བའི་གནད།** — Verse 1-27 provides the logical ground (འཐད་པ་) for why the merit claimed in 1-26 is beyond measure. KS frames it explicitly as a response to the doubt "how could this be reasonable?" (ཅི་ལྟར་རིགས་པ་ཡིན་སྙམ་དུ་དོགས་པ་): the proof is that even the mere wish to benefit beings exceeds immeasurable offerings. The verse is therefore not praise but proof.
+1. **ཀ་ལ་འགྲེལ་བའི་གནད།** — ཚིགས་བཅད་1-27 པས་ཚིགས་བཅད་1-26 པར་བཤད་པའི་བསོད་ནམས་ཚད་མེད་པའི་རྒྱུ་མཚན་གྱི་འཐད་པ་སྟོན། མཁན་པོ་གཞན་དགའ་ (KS) ཡིས་འདི་ཉིད་ "ཅི་ལྟར་རིགས་པ་ཡིན་སྙམ་དུ་དོགས་པ་" ལ་ལན་འདེབས་པའི་ཚུལ་དུ་གསལ་བར་བཀོད་དེ། སེམས་ཅན་ལ་ཕན་པར་བསམ་པ་ཙམ་གྱིས་ཀྱང་མཆོད་པ་ཚད་མེད་པ་ལས་ལྷག་པར་འཕགས་པ་དེ་ཉིད་སྒྲུབ་བྱེད་ཡིན། དེའི་ཕྱིར་ཚིགས་བཅད་འདི་བསྔགས་བརྗོད་ཙམ་མིན་པར་སྒྲུབ་བྱེད་ཞིག་ཡིན།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]])
 
-2. **བྱམས་པར་བསམ་པ་ལས་འཇུག་པའི་ཁྱད་པར།** — KKP and MKS highlight the ascending structure: verse 1-27 first establishes that a mere loving wish (ཕན་པར་བསམ་པ་ཙམ་) exceeds offerings; it then escalates (སྨོས་ཅི་དགོས།) to actual striving (བདེ་དོན་བརྩོན་པ་) for all beings' liberation through the six perfections. The a fortiori move within the verse itself makes it more than a single claim.
+2. **བྱམས་པར་བསམ་པ་ལས་འཇུག་པའི་ཁྱད་པར།** — ཀུན་བཟང་དཔལ་ལྡན་དང་མི་ཉག་ཀུན་བསོད་གཉིས་ཀས་འཕར་མའི་སྒྲུབ་ཚུལ་གསལ་བར་མཛད་དེ། ཚིགས་བཅད་1-27 པས་དང་པོར་བྱམས་པའི་སེམས་ཙམ་ (ཕན་པར་བསམ་པ་ཙམ་) གྱིས་མཆོད་པ་ལས་ལྷག་པར་འཕགས་པར་བསྟན་ནས། དེ་ནས་ (སྨོས་ཅི་དགོས།) ཕྱིན་དྲུག་གི་སྒོ་ནས་སེམས་ཅན་ཐམས་ཅད་གྲོལ་བར་བྱ་བའི་ཕྱིར་དངོས་སུ་བརྩོན་པ (བདེ་དོན་བརྩོན་པ་) ལ་འཕར། ཚིགས་བཅད་རང་ཉིད་ཀྱི་ནང་གི་ལྟ་སྨོས་ཀྱི་འགྲོས་འདིས་གྲུབ་དོན་གཅིག་པུ་ལས་ལྷག་པར་གྲུབ་པར་བྱེད།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])
 
-3. **གཉིས་ཀ་རིག་བྱེད་གཉིས་ལས་གྲུབ་པའི་གནད།** — MKS cites two separate scriptures for two separate claims: Samādhirāja for the first (mere loving intention exceeds offerings) and Bhadrapāla for the second (generating bodhicitta exceeds filling Ganges-sand-count buddha-fields with gems). The double-scripture proof leaves no gap in the argument.
+3. **གཉིས་ཀ་ལུང་གཉིས་ལས་གྲུབ་པའི་གནད།** — མི་ཉག་ཀུན་བསོད་ཀྱིས་གྲུབ་དོན་སོ་སོའི་ཆེད་དུ་ལུང་གཉིས་སོ་སོར་དྲངས་ཏེ། དང་པོའི་ཆེད་དུ (བྱམས་པའི་སེམས་ཙམ་གྱིས་མཆོད་པ་ལས་འཕགས་པ) ཏིང་འཛིན་རྒྱལ་པོ་དང་། གཉིས་པའི་ཆེད་དུ (བྱང་ཆུབ་སེམས་བསྐྱེད་པས་གངྒཱའི་བྱེ་མ་སྙེད་ཀྱི་ཞིང་རིན་ཆེན་གྱིས་བཀང་བ་ལས་འཕགས་པ) དཔས་བྱིན་གྱིས་ཞུས་པ་གཉིས་དྲངས། ལུང་གཉིས་ཀྱི་སྒྲུབ་བྱེད་འདིས་རིགས་པའི་འགྲོས་ལ་སྐབས་མི་སྟོང་བར་བྱེད།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])
 
-4. **བསམ་པ་དང་སྦྱོར་བའི་འཚམས་པར་གདམས་པའི་གནད།** — SMPLG adds that the merit here pertains to bodhicitta informed by the aspiration to rescue all sky-like beings (ནམ་མཁའ་དང་མཉམ་པའི་སེམས་ཅན་) — both in the short term (གནས་སྐབས་) and ultimately (མཐར་ཐུག་). The commentary distinguishes between the aspiration stage and the active engagement stage, making clear that the ultimate object of the verse's a fortiori conclusion is the bodhisattva in full practice.
+4. **བསམ་པ་དང་སྦྱོར་བའི་འཚམས་པར་གདམས་པའི་གནད།** — ས་བཟང་མ་ཏི་པཎ་ཆེན་གྱིས་གསལ་བར་མཛད་དེ། འདིར་བཤད་པའི་བསོད་ནམས་ནི་ནམ་མཁའ་དང་མཉམ་པའི་སེམས་ཅན་ཐམས་ཅད་སྐྱོབ་པའི་བསམ་པས་ཟིན་པའི་བྱང་ཆུབ་སེམས་ལ་འབྲེལ་ཏེ། གནས་སྐབས་དང་མཐར་ཐུག་གཉིས་ཀའི་བདེ་བ་སྒྲུབ་པའི་དོན་ཡིན། འགྲེལ་པ་འདིས་སྨོན་པའི་གནས་སྐབས་དང་སྦྱོར་བའི་དངོས་སུ་ཞུགས་པའི་གནས་སྐབས་གཉིས་ཕྱེ་ནས། ཚིགས་བཅད་ཀྱི་ལྟ་སྨོས་ཀྱི་གྲུབ་དོན་མཐར་ཐུག་གི་ཡུལ་ནི་ཉམས་ལེན་ཡོངས་སུ་རྫོགས་པའི་བྱང་ཆུབ་སེམས་དཔའ་ཡིན་པར་གསལ་བོར་མཛད།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]])
 
 ---
@@ -148,11 +154,11 @@ notes: |
 
 | གནད་ཚིག | འགྲེལ་བཤད་ | ཁུངས། |
 |---|---|---|
-| **ཕན་པར་བསམས་པ་ཙམ།** | merely having thought to benefit — even without action, the bare aspiration of bodhicitta (the loving intention) already surpasses immeasurable offerings | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
-| **སངས་རྒྱས་མཆོད་ལས་ཁྱད་འཕགས།** | surpasses Buddha-offerings — the core comparative claim; offerings to all Buddhas in countless fields are the benchmark, and bodhicitta exceeds them | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
-| **བདེ་དོན་བརྩོན་པ།** | striving for beings' welfare — the bodhisattva in active practice through the six perfections; the "how much more" endpoint of the verse's a fortiori argument | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]) |
-| **གྲངས་དང་ཆར་མི་ཕོད།** | cannot be matched in number or measure — the Samādhirāja verse's conclusion; love for beings exceeds all quantifiable offering | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
-| **མཐའ་མ་མཆིས་པའི་མཆོད་པ།** | offering without limit — the Bhadrapāla verse's conclusion; bodhicitta-generation surpasses even Ganges-sand-count fields filled with the seven gems | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
+| **ཕན་པར་བསམས་པ་ཙམ།** | ཕན་པར་བསམ་པ་ཙམ་ཞིག་ཡང་སྟེ་ལས་སུ་མ་ཞུགས་ཀྱང་བྱང་ཆུབ་སེམས་ཀྱི་སྨོན་པ་རྐང་གཅིག་པུས་ཀྱང་མཆོད་པ་ཚད་མེད་པ་ལས་ལྷག་པར་འཕགས་པའི་དོན། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
+| **སངས་རྒྱས་མཆོད་ལས་ཁྱད་འཕགས།** | སངས་རྒྱས་མཆོད་ལས་ལྷག་པར་འཕགས་པའི་བསྡུར་བའི་གྲུབ་དོན་གཙོ་བོ། ཞིང་གྲངས་མེད་པའི་སངས་རྒྱས་ཐམས་ཅད་ལ་མཆོད་པའི་ཚད་བརྟགས་ཏེ་བྱང་ཆུབ་སེམས་ཀྱིས་དེ་ལས་ལྷག་པར་འཕགས་པར་བསྟན། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
+| **བདེ་དོན་བརྩོན་པ།** | སེམས་ཅན་ཐམས་ཅད་ཀྱི་བདེ་དོན་དུ་ཕྱིན་དྲུག་གི་སྒོ་ནས་དངོས་སུ་བརྩོན་པའི་བྱང་ཆུབ་སེམས་དཔའ་ — ཚིགས་བཅད་ཀྱི་ལྟ་སྨོས་ཀྱི་གྲུབ་མཐའི་མཐར་ཐུག་གནས་ཚུལ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]) |
+| **གྲངས་དང་ཆར་མི་ཕོད།** | གྲངས་དང་ཚད་གང་གིས་ཀྱང་མི་ལྡང་བའི་དོན་ — ཏིང་འཛིན་རྒྱལ་པོའི་ཚིགས་བཅད་ཀྱི་མཇུག་གྲུབ་སྟེ། སེམས་ཅན་ལ་བྱམས་པའི་སེམས་ནི་གྲངས་སུ་བགྲང་བའི་མཆོད་པ་ཐམས་ཅད་ལས་ལྷག་པར་འཕགས་པའི་དོན། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
+| **མཐའ་མ་མཆིས་པའི་མཆོད་པ།** | མཐའ་མེད་པའི་མཆོད་པའི་དོན་ — དཔས་བྱིན་གྱིས་ཞུས་པའི་ཚིགས་བཅད་ཀྱི་མཇུག་གྲུབ་སྟེ། བྱང་ཆུབ་སེམས་བསྐྱེད་པ་ནི་གངྒཱའི་བྱེ་མ་སྙེད་ཀྱི་ཞིང་རིན་ཆེན་སྣ་བདུན་གྱིས་བཀང་བའི་མཆོད་པ་ལས་ཀྱང་ལྷག་པར་འཕགས་པའི་དོན། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
 
 ---
 

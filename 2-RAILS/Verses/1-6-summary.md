@@ -6,7 +6,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 ---
 
@@ -94,55 +94,83 @@ status: draft
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-6]])
 
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+ང་ཚོར་ཐོག་མ་མེད་པ་ནས་གོམས་པའི་དབང་གིས་སྐྱོན་གྱི་ཕྱོགས་ཤུགས་ཆེན་པོ་སྔར་ཕན་ཆད་བསགས་པའི་སྡིག་ལྟུང་དང་ད་ལྟ་ཡང་བསགས་བཞིན་པའི་སྡིག་པ་མི་མཐུན་པའི་ཕྱོགས་ནུས་པ་ཆེན་པོ་ཡོད་པ་དེ་སེལ་བའི་ཐབས་བླ་ན་མེད་པ་གཅིག་ཆོག་ཀུན་འདུས་ལྟ་བུ་བདག་པས་གཞན་གཅེས་པར་བྱེད་པའི་བྱང་ཆུབ་ཀྱི་སེམས་ལས་རྩ་བ་ནས་མེད། བྱང་ཆུབ་ཞེས་པའི་བྱང་ཞེས་པ་ནི་སྤྱིར་བཏང་གོ་བདེ་པོ་བྱས་ན་ཤེས་བྱ་ཤེས་པ་ལ་བར་དུ་གཅོད་པའི་ཤེས་བྱའི་སྒྲིབ་པ་དང་དེའི་བག་ཆགས་འཇོག་བྱེད་ཀྱི་ཉོན་མོངས་པའི་སྒྲིབ་པ་དང་། དེ་གཉིས་ཀྱི་དབང་གིས་བྱུང་བའི་ལུས་ངག་གི་གནས་ངན་ལེན་ཁ་ན་མ་ཐོ་བའི་སྐྱོན་གྱི་རིགས་མཐའ་དག་གཏན་དུ་ཟད་དེ་ལྷག་མ་མེད་པར་བྱང་བའི་དོན་ཡིན་ལ། ཆུབ་ཅེས་པ་ནི་ཤེས་བྱ་ཤེས་པ་ལ་བར་དུ་གཅོད་པའི་སྒྲིབ་པ་མཐའ་དག་ཟད་པའི་མཐུས་བདེན་གཉིས་ཅིག་ཅར་དུ་གཟིགས་པའི་མཁྱེན་པ་བླ་ན་མེད་པ་མཐར་ཐུག་པ་ཐོབ་པའི་དོན་ཡིན། སེམས་ཅན་ཐམས་ཅད་ལ་དམིགས་ནས་སྙིང་རྗེ་ཆེན་པོའི་སྟོབས་ཀྱིས་བྱང་ཆུབ་ཀྱི་སེམས་སྐྱེས་ན་སྐད་ཅིག་ཙམ་ཞིག་ལ་མི་མཐུན་པའི་ཕྱོགས་མཐའ་དག་འཇོམས་ཐུབ།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-6]])
+
 ---
 
 ## དཔེ། (Metaphors)
 
-**གློག་འགྱུ་བའི་དཔེ།** (Lightning flash) — Ordinary virtue is compared to a flash of lightning in dark storm-clouds: intermittent, fleeting, powerless. Non-virtue is compared to the mass of dark cloud itself: pervasive, persistent, powerful enough to propel beings to lower realms. This paired simile (from Kunpal and Sabzang, building on the imagery of verse 1-5) frames the central argument of verse 1-6. ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-6]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-6]])
+**གོ་མཚོན་འཇོམས་པའི་དཔེ།** — རྡུལ་ཕྲན་མཚོན་ཆ་མང་པོས་བརྒྱན་པའི་དགྲ་བོའི་དམག་དཔུང་ཇི་ཙམ་སྟོབས་ཤུགས་ཆེན་པོ་ཡོད་ཀྱང་། ནུས་ཤུགས་ཆེན་པོའི་རྫས་གཅིག་གིས་སྐད་ཅིག་ཉིད་ལ་འཇོམས་ཐུབ་པ་ལྟར། ང་ཚོས་ཐོག་མ་མེད་པ་ནས་བསགས་པའི་མི་མཐུན་ཕྱོགས་ཇི་ཙམ་སྟོབས་ཆེ་ཡང་། སྐད་ཅིག་ཙམ་སྐྱེས་པའི་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱིས་དེ་ཐམས་ཅད་ཟིལ་གྱིས་གནོན་ནུས་ཤིང་། དེ་དང་མཉམ་པའི་གཉེན་པོ་གཞན་གང་ཡང་མེད། ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-6]])
 
-**བྱི་ལའི་མིག་གི་དཔེ།** (Cat's gaze) — From the Gaṇḍavyūha Sūtra (cited by Ngulchu-thogmed and Minyak): just as the gaze of a cat naturally overwhelms and immobilizes mice, the eye of omniscient mind-bodhicitta (*thams cad mkhyen pa'i sems rin po che'i mig*) naturally overwhelms and eliminates karma and afflictions. This simile underscores why bodhicitta — and not ordinary virtue — is the uniquely effective antidote. ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-6]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-6]])
+**གློག་འགྱུ་བའི་དཔེ།** — དགེ་བ་ཐུན་མོང་བ་ནི་སྤྲིན་རུམ་གྱི་མུན་ནག་ནང་གི་གློག་འགྱུ་བ་ལྟ་བུར་རེས་འགའ་ཙམ་དང་མི་རྟག་ཅིང་སྟོབས་ཆུང་བ་ཡིན་ལ། མི་དགེ་བ་ནི་སྤྲིན་རུམ་གྱི་མུན་ནག་ཉིད་དང་འདྲ་བར་ཁྱབ་ཅིང་རྒྱུན་ཆགས་སུ་གནས་པའི་སྟོབས་ཆེན་པོ་དང་ལྡན་པས་སེམས་ཅན་ངན་སོང་དུ་འདྲེན་ནུས། དཔེ་ཆ་གཉིས་འདི་(ཀུན་བཟང་དཔལ་ལྡན་དང་ས་བཟང་གཉིས་ཀས་ཚིགས་བཅད 1-5 པའི་བརྗོད་གཞིར་བརྟེན་ནས་གསལ་བཤད་མཛད་པ)ཤོ་ལོ་ཀ་འདིའི་གཙོ་བའི་གཏམ་གྱི་གནད་མཚོན། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-6]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-6]])
+
+**བྱི་ལའི་མིག་གི་དཔེ།** — སྡོང་པོ་བཀོད་པའི་མདོ་ལས་(དངུལ་ཆུ་ཐོགས་མེད་དང་མི་ཉག་ཀུན་བཟང་གཉིས་ཀས་དྲངས་པ)བྱི་ལའི་མིག་གིས་བལྟས་པས་བྱི་བ་རྣམས་རང་བཞིན་གྱིས་ཟིལ་གྱིས་གནོན་ཅིང་མི་བཟོད་པར་བྱེད་པ་ལྟར། ཐམས་ཅད་མཁྱེན་པའི་སེམས་རིན་པོ་ཆེའི་མིག་གིས་ཀྱང་ལས་དང་ཉོན་མོངས་རང་བཞིན་གྱིས་ཟིལ་གྱིས་གནོན་པར་བྱེད་དོ། དཔེ་འདིས་ཅིའི་ཕྱིར་བྱང་ཆུབ་ཀྱི་སེམས་ཁོ་ན་(དགེ་བ་ཐུན་མོང་བ་མིན་པ)གཉེན་པོ་མཚུངས་མེད་ཡིན་པའི་རྒྱུ་མཚན་མཚོན། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-6]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-6]])
 
 ---
 
 ## ལུང། (Scriptural quotations)
 
-### སྡོང་བོ་བཀོད་པ་ལས། (Gaṇḍavyūha Sūtra)
+### སྡོང་པོ་བཀོད་པའི་མདོ་ལས། (Gaṇḍavyūha Sūtra)
 
 > བྱི་ལའི་མིག་གིས་བལྟས་པས་བྱི་བ་རྣམས་ཟིལ་གྱིས་གནོན་ཅིང་མི་བཟོད་པ་དེ་བཞིན་དུ། ཐམས་ཅད་མཁྱེན་པའི་སེམས་རིན་པོ་ཆེའི་མིག་གིས་ཀྱང་ལས་དང་ཉོན་མོངས་པའི་བྱི་བ་རྣམས་ཟིལ་གྱིས་གནོན་ཅིང་མི་བཟོད་པར་བྱེད་དོ།།
+> — བྱི་ལའི་མིག་གིས་བྱི་བ་རང་བཞིན་གྱིས་ཟིལ་གྱིས་གནོན་པ་ལྟར། བྱང་ཆུབ་ཀྱི་སེམས་ཀྱིས་ལས་ཉོན་རང་བཞིན་གྱིས་ཟིལ་གྱིས་གནོན་པའི་དཔེར་དངུལ་ཆུ་ཐོགས་མེད་དང་མི་ཉག་ཀུན་བཟང་གཉིས་ཀས་དྲངས།
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-6]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-6]])
 
 ### ཆོས་བཞི་བསྟན་པ་ལས། (Catuḥdharmanirdeśa)
 
 > རྟེན་གྱི་སྟོབས་ནི་སངས་རྒྱས་དང་ཆོས་དང་དགེ་འདུན་ལ་སྐྱབས་སུ་འགྲོ་བ་དང་བྱང་ཆུབ་ཀྱི་སེམས་མི་གཏོང་བ་སྟེ། དེ་དག་སྟོབས་དང་ལྡན་པ་ལ་བརྟེན་པས་སྡིག་པ་རྣམས་ཟིལ་གྱིས་གནོན་པར་འགྱུར་རོ།
+> — རྟེན་གྱི་སྟོབས་ཞེས་སྐྱབས་འགྲོ་དང་བྱང་སེམས་མི་གཏོང་བར་བཤད་ཅིང་། དེ་ལ་བརྟེན་ནས་སྡིག་པ་ཟིལ་གྱིས་གནོན་པར་བསྟན།
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-6]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-6]])
 
-### མདོ་རྒྱན་ལས། (Mahāyānasūtrālaṃkāra)
+### མདོ་སྡེ་རྒྱན་ལས། (Mahāyānasūtrālaṃkāra)
 
 > བློ་ལྡན་སེམས་མཆོག་བསྐྱེད་མ་ཐག་ཏུ་ཡང་། །མཐའ་ཡས་ཉེས་པ་བྱེད་ལས་སེམས་རབ་བསྡམས།།
+> — བྱང་ཆུབ་ཀྱི་སེམས་མཆོག་བསྐྱེད་མ་ཐག་ཏུ་ཕྱིས་འབྱུང་གི་སྡིག་ལྟུང་གི་རྒྱུན་འགོག་པར་བསྟན།
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-6]])
 
 ### སྐྱེས་རབས་ལས། (Jātakamālā)
 
 > བདག་རང་ཉིད་དམ་ནང་མི་ལ། །བརྩེ་བས་བ་བཞིན་དུ་གཞན་ལ་བརྩེ། །དེ་ཡི་སེམས་ནི་ཆོས་མིན་ལ། །འཇུག་པ་མི་དགེ་ག་ལ་འབྱུང་།།
+> — སྙིང་རྗེ་ཆེན་པོའི་སྟོབས་ཀྱིས་མི་དགེ་བའི་སེམས་མི་སྐྱེ་བར་བསྟན།
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-6]])
+
+### tenzin-gyatso ཀྱིས་གསུངས་པའི་སྨོན་ཚིག
+
+> སེམས་ཅན་རེ་རེའི་ཕྱིར་ཡང་མནར་མེད་པའི། །མེ་ནང་བསྐལ་པ་རྒྱ་མཚོར་གནས་དགོས་ཀྱང་། །སྙིང་རྗེས་མི་སྐྱོ་བྱང་ཆུབ་མཆོག་བརྩོན་པའི། །བརྩོན་འགྲུས་ཕར་ཕྱིར་རྫོགས་པར་བྱིན་གྱིས་རློབས། །
+> — སྙིང་རྗེའི་སྟོབས་ཀྱིས་བྱང་ཆུབ་ཀྱི་སེམས་མཐར་ཕྱིན་པར་སྨོན་ལམ་གདབ་པ།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-6]])
+
+### བཀའ་གདམས་པའི་དགེ་བཤེས་གོང་མའི་གསུང
+
+> བྱང་ཆུབ་ཀྱི་སེམས་རྒྱུད་ལ་སྐྱེས་པ་ཞིག་བྱུང་ན་ཚོགས་ཀྱང་དེས་རྫོགས། སྡིག་སྒྲིབ་ཀྱང་དེས་སྦྱོང་བ་ཡིན། །
+> — བྱང་ཆུབ་ཀྱི་སེམས་གཅིག་པུས་ཚོགས་གཉིས་རྫོགས་ཤིང་སྡིག་སྒྲིབ་སྦྱོང་ནུས་པའི་ནུས་པ་མཚོན།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-6]])
 
 ---
 
 ## གཙོ་གནད། (Main teaching points)
 
-1. **དགེ་བ་ཉམ་ཆུང་ཉིད་ལ་རྟག** — Virtue is chronically weak. Because the basis (leisure and endowment) is rare, because the mind-set for Dharma arises seldom and briefly, and because causes of virtue are difficult to accumulate, meritorious virtue is always (*rtag*) in a state of weakness — fleeting like a lightning flash. ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-6]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-6]])
+1. **དགེ་བ་ཉམ་ཆུང་ཉིད་ལ་རྟག** — རྟེན་དལ་འབྱོར་རྙེད་དཀའ་ཞིང་ཆོས་ཀྱི་བློ་སྐྱེ་བ་ཡང་དཀོན་ལ་སྐྱེས་ཀྱང་ཡུན་རིང་དུ་མི་གནས་པས། བསོད་ནམས་ཆ་མཐུན་གྱི་དགེ་བ་ནི་གློག་འགྱུ་བ་དང་འདྲ་བར་རེས་འགའ་ཙམ་ཞིག་ཡིན་པས་དུས་རྟག་ཏུ་སྟོབས་ཉམ་ཆུང་བའི་ངང་ལ་གནས། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-6]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-6]])
 
-2. **སྡིག་པ་སྟོབས་ཆེན་ཤིན་ཏུ་མི་བཟད་པ།** — Sin has great power and is most unbearable. Non-virtuous causes are easy to accumulate; they perpetually arise in force, driving beings to lower realms with suffering that is extreme and unrelenting. ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-6]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-6]])
+2. **སྡིག་པ་སྟོབས་ཆེན་ཤིན་ཏུ་མི་བཟད་པ།** — མི་དགེ་བའི་རྒྱུ་རྣམས་ཚོགས་སླ་བས་སྡིག་པ་ནི་སྤྲིན་རུམ་གྱི་མུན་ནག་ལྟར་སྟོབས་ནུས་ཆེན་པོས་རྒྱུན་ཆགས་སུ་འབྱུང་ཞིང་། དམྱལ་བ་ལ་སོགས་པའི་ངན་སོང་གི་སྡུག་བསྔལ་ཤིན་ཏུ་མི་བཟད་པ་སྐྱེད་པར་བྱེད། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-6]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-6]])
 
-3. **རྫོགས་བྱང་སེམས་ཀྱིས་ཁོ་ན་ཟིལ་གྱིས་གནོན།** — Only perfect bodhicitta can overwhelm great sin. No ordinary virtue has the power to suppress the great sin that causes unbearable suffering; only bodhicitta of complete awakening — encompassing both aspiration and application, aimed at liberating all beings — possesses that unique capacity. Khenpo Kunga specifies this includes both *smon pa* (aspiration) and *'jug pa* (application) bodhicitta. ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-6]])
+3. **རྫོགས་བྱང་སེམས་ཀྱིས་ཁོ་ན་ཟིལ་གྱིས་གནོན།** — དགེ་བ་ཕལ་པ་གང་གིས་ཀྱང་སྡིག་ཆེན་དེ་ཟིལ་གྱིས་མི་ནུས་ཀྱི། སེམས་ཅན་ཐམས་ཅད་ངན་སོང་ལས་གདོན་པའི་སྨོན་འཇུག་གཉིས་ཀའི་རང་བཞིན་ཅན་གྱི་རྫོགས་པའི་བྱང་ཆུབ་ཀྱི་སེམས་ཁོ་ནས་ཟིལ་གྱིས་གནོན་ནུས། མཁན་པོ་ཀུན་དགས་སྨོན་འཇུག་གཉིས་ཀ་འདུས་པར་གསལ་བཤད་མཛད། ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-6]])
 
-4. **ཀུན་རྫོབ་སེམས་བསྐྱེད་གྱི་ཕན་ཡོན།** — What is primarily taught here is the benefit of *conventional* bodhicitta (Gyaltsab and Minyak agree): its ability to purify previously accumulated karma destined for lower realms (*sngon byas bdag*) and to cut the stream of future non-virtue (*phyi ma rgyun gcod*). The benefit of ultimate bodhicitta (eliminating the seeds of obscuration) is real but is not the primary topic of this verse. ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-6]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-6]])
+4. **ཀུན་རྫོབ་སེམས་བསྐྱེད་ཀྱི་ཕན་ཡོན།** — རྒྱལ་ཚབ་དང་མི་ཉག་ཀུན་བཟང་གཉིས་ཀས་གསལ་བར་བཤད་པ་ལྟར་འདིར་གཙོ་བོར་བསྟན་པ་ནི་ཀུན་རྫོབ་སེམས་བསྐྱེད་ཀྱི་ཕན་ཡོན་ཡིན་ཏེ། སྔར་བསགས་པའི་ངན་སོང་གི་རྒྱུའི་སྡིག་པ་འདག་ཅིང་ཕྱི་མའི་མི་དགེ་བའི་རྒྱུན་གཅོད་པའི་ནུས་པ་གཉིས་ལྡན། དོན་དམ་སེམས་བསྐྱེད་ཀྱིས་སྒྲིབ་པའི་ས་བོན་སྤོང་བའི་ནུས་པ་ཡང་ཡོད་ཀྱང་འདིར་བཤད་བྱའི་གཙོ་བོ་མིན། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-6]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-6]])
 
-5. **རྟག་གི་གྲུབ་དོན་གཉིས།** — Minyak identifies two valid readings of the word *rtag* in the verse: (1) *rtag* modifies "virtue" — virtue is always (*rtag*) weak; (2) *rtag* modifies "sin" — sin is always (*rtag*) powerful and unendurable. Both readings cohere with the verse's meaning and are accepted. ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-6]])
+5. **རྟག་གི་གྲུབ་དོན་གཉིས།** — མི་ཉག་ཀུན་བཟང་གིས་ཤོ་ལོ་ཀའི་“རྟག”ཅེས་པའི་ཚིག་ལ་འགྲེལ་ཚུལ་གཉིས་བཞག་སྟེ། (༡) དགེ་བ་ལ་སྦྱར་ནས་དགེ་བ་རྟག་ཏུ་ཉམ་ཆུང་བར་འགྲེལ་བ་དང་། (༢) སྡིག་པ་ལ་སྦྱར་ནས་སྡིག་པ་རྟག་ཏུ་སྟོབས་ཆེན་ཞིང་མི་བཟད་པར་འགྲེལ་བ་གཉིས་ཡོད་ལ། གཉིས་ཀ་ཤོ་ལོ་ཀའི་དོན་དང་མཐུན་པས་བཟུང་བར་བཤད། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-6]])
+
+6. **མི་མཐུན་ཕྱོགས་སྐད་ཅིག་ཙམ་གྱིས་འཇོམས་པའི་ནུས་པ།** — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོས་གོ་མཚོན་ཆེན་པོའི་དཔེར་བཤད་དེ། རྡུལ་ཕྲན་མཚོན་ཆས་བརྒྱན་པའི་དགྲ་དཔུང་ཇི་ཙམ་སྟོབས་ཆེ་ཡང་ནུས་ཤུགས་ཆེན་པོའི་རྫས་གཅིག་གིས་སྐད་ཅིག་གིས་འཇོམས་ཐུབ་པ་ལྟར། བྱང་ཆུབ་ཀྱི་སེམས་ཀྱིས་ཀྱང་ཐོག་མེད་ནས་བསགས་པའི་མི་མཐུན་ཕྱོགས་མཐའ་དག་སྐད་ཅིག་གིས་འཇོམས་ནུས་པར་གསུངས། དེ་བཞིན་“བྱང་ཆུབ”ཞེས་པའི་སྒྲ་དོན་ཉིད་ཀྱང་ (བྱང་ = ཁ་ན་མ་ཐོ་བའི་སྐྱོན་རིགས་ལྷག་མེད་དུ་བྱང་བ། ཆུབ་ = བདེན་གཉིས་ཅིག་ཅར་གཟིགས་པའི་མཁྱེན་པ་ཐོབ་པ) ཤོ་ལོ་ཀ་འདིའི་གནད་དོན་དང་མཐུན་པར་བཤད། ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-6]])
 
 ---
 
@@ -150,25 +178,25 @@ status: draft
 
 | གནད་ཚིག | འགྲེལ་བཤད། (Commentary definition) | ཁུངས། (Source) |
 |---|---|---|
-| **དགེ་བ་ཉམ་ཆུང་ཉིད་ལ་རྟག** | Virtue is always (rtag) in a weak state — chronically lacking strength due to the rarity of suitable basis and Dharma-mind | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-6]]) |
-| **སྡིག་པ་སྟོབས་ཆེན།** | Sin of great power — non-virtue easily accumulated, driving beings to lower realms like dark storm-clouds | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-6]]) |
-| **ཤིན་ཏུ་མི་བཟད།** | Most unbearable — the quality of the suffering produced by great sin in the lower realms (hells etc.) | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-6]]) |
-| **རྫོགས་པའི་བྱང་ཆུབ་ཀྱི་སེམས།** | Bodhicitta of complete awakening — both aspiration and application bodhicitta; the sun-like jewel-mind that alone can overwhelm great sin | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-6]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-6]]) |
-| **ཟིལ་གྱིས་གནོན།** | To overwhelm/suppress — the technical term for bodhicitta's power to overcome sin, analogous to a cat's gaze overwhelming mice | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-6]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-6]]) |
-| **ཀུན་རྫོབ་སེམས་བསྐྱེད།** | Conventional bodhicitta — primarily what is taught in this verse; it purifies past sin and cuts future non-virtue at their karmic root | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-6]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-6]]) |
+| **དགེ་བ་ཉམ་ཆུང་ཉིད་ལ་རྟག** | དགེ་བ་ནི་རྟེན་དལ་འབྱོར་རྙེད་དཀའ་ཞིང་ཆོས་ཀྱི་བློ་སྐྱེ་བ་དཀོན་པས་དུས་རྟག་ཏུ་སྟོབས་ཉམ་ཆུང་བའི་ངང་ལ་གནས་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-6]]) |
+| **སྡིག་པ་སྟོབས་ཆེན།** | མི་དགེ་བའི་སྡིག་པ་ཚོགས་སླ་ཞིང་སྤྲིན་རུམ་གྱི་མུན་ནག་ལྟར་སྟོབས་ཆེན་པོས་སེམས་ཅན་ངན་སོང་དུ་འདྲེན་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-6]]) |
+| **ཤིན་ཏུ་མི་བཟད།** | ངན་སོང་ (དམྱལ་བ་སོགས) སུ་སྡིག་ཆེན་གྱིས་བསྐྱེད་པའི་སྡུག་བསྔལ་གྱི་རང་བཞིན། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-6]]) |
+| **རྫོགས་པའི་བྱང་ཆུབ་ཀྱི་སེམས།** | སྨོན་འཇུག་གཉིས་ཀའི་རང་བཞིན་ཅན་གྱི་བྱང་ཆུབ་སེམས་ — སྡིག་ཆེན་ཟིལ་གྱིས་གནོན་ནུས་པའི་ཉི་མ་ལྟར་གསལ་བའི་རིན་པོ་ཆེའི་སེམས། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-6]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-6]]) |
+| **ཟིལ་གྱིས་གནོན།** | སྡིག་པ་ཟིལ་གྱིས་མནན་ནས་འཇོམས་པའི་ནུས་པ་ — བྱི་ལའི་མིག་གིས་བྱི་བ་ཟིལ་གྱིས་གནོན་པའི་དཔེ་དང་མཚུངས། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-6]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-6]]) |
+| **ཀུན་རྫོབ་སེམས་བསྐྱེད།** | ཤོ་ལོ་ཀ་འདིར་གཙོ་བོར་བསྟན་པའི་སེམས་བསྐྱེད་ — སྔར་བསགས་སྡིག་པ་སྦྱོང་ཞིང་ཕྱི་མའི་མི་དགེ་བའི་རྒྱུན་གཅོད་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-6]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-6]]) |
+| **བྱང་ཆུབ་ (སྒྲ་དོན)** | བྱང་ = ཁ་ན་མ་ཐོ་བའི་སྐྱོན་རིགས་མཐའ་དག་ལྷག་མེད་དུ་བྱང་བ། ཆུབ་ = བདེན་གཉིས་ཅིག་ཅར་གཟིགས་པའི་མཁྱེན་པ་མཐར་ཐུག་པ་ཐོབ་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-6]]) |
 
 ---
 
 ## བསྡུས་དོན། (Verse synthesis — AI Overview style)
 
-Verse 1-6 opens the second major section of Chapter One: the benefits of bodhicitta. The verse states the first of three benefits: bodhicitta alone can overwhelm (*zil gyis gnon*) great sin.
+**ངོ་སྤྲོད་མདོར་བསྡུས།** ཤོ་ལོ་ཀ 1-6 པ་ནི་ལེའུ་དང་པོའི་ཆ་གཉིས་པ་ — བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་ཕན་ཡོན་བཤད་པ་ — འི་ཐོག་མ་སྟེ། དགེ་བ་གཞན་ལས་ཁྱད་པར་དུ་འཕགས་པའི་ཕན་ཡོན་དང་པོ་ — སྡིག་ཆེན་ཟིལ་གྱིས་གནོན་པ་ — འདི་ཉིད་བཤད་པ་ཡིན། འགྲེལ་བ་ཐམས་ཅད་ཀྱིས་གྲུབ་པའི་གནད་ནི་དགེ་བ་དང་སྡིག་པའི་བར་གྱི་མི་མཉམ་པ་ཞིག་སྟེ། དགེ་བ་ནི་གློག་འགྱུ་བ་ལྟར་རྟག་ཏུ་ཉམ་ཆུང་ཞིང་སྐྱེ་དཀའ་ལ། སྡིག་པ་ནི་སྤྲིན་རུམ་གྱི་མུན་ནག་ལྟར་ཚོགས་སླ་ཞིང་སྟོབས་ཆེན་པོས་སེམས་ཅན་ངན་སོང་གི་སྡུག་བསྔལ་མི་བཟད་པར་འདྲེན།
+([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-6]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-6]])
 
-The argument rests on an asymmetry all commentators confirm: virtue is chronically weak — as fleeting as a lightning flash, difficult to gather, easily lost — while non-virtue is persistently powerful, effortlessly accumulating and driving beings to the unbearable suffering of lower realms. ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-6]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-6]])
+དགེ་བ་ཕལ་པ་ཇི་ཙམ་ཆེ་ཡང་སྡིག་ཆེན་དེ་ཟིལ་གྱིས་མི་ནུས་ཀྱི། རྫོགས་པའི་བྱང་ཆུབ་ཀྱི་སེམས་ — ཉི་མ་ལྟར་གསལ་བའི་རིན་པོ་ཆེའི་སེམས་ — ཁོ་ན་ཞིག་གིས་གཉེན་པོ་མཚུངས་མེད་ཀྱི་ནུས་པ་མངའ། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-6]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-6]])
 
-No ordinary virtue — however vast by conventional measure — has the power to suppress such great sin. Only the bodhicitta of complete awakening (*rdzogs pa'i byang chub kyi sems*), the jewel-mind like the sun, possesses this uniquely efficacious antidote capacity. ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-6]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-6]])
+རྒྱལ་ཚབ་དང་མི་ཉག་ཀུན་བཟང་གཉིས་ཀས་ཆོས་ཀྱི་གནད་གལ་ཆེ་བ་ཞིག་གསལ་བཤད་མཛད་དེ། འདིར་གཙོ་བོར་བསྟན་པ་ནི་ཀུན་རྫོབ་སེམས་བསྐྱེད་ཀྱི་ཕན་ཡོན་ཡིན་པར་བཤད། དེའི་ནུས་པ་གཉིས་སུ་ཡོད་དེ། སྔར་བསགས་ངན་སོང་གི་རྒྱུའི་སྡིག་པ་སྦྱོང་བ་དང་། ཕྱི་མའི་མི་དགེ་བའི་རྒྱུན་མ་སྐྱེས་པར་གཅོད་པའོ། དོན་དམ་སེམས་བསྐྱེད་ཀྱིས་སྒྲིབ་པའི་ས་བོན་འཇོམས་པའི་ནུས་པ་ཡང་ཡོད་ཀྱང་འདིར་བཤད་བྱའི་གཙོ་བོ་མིན། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-6]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-6]])
 
-Gyaltsab and Minyak-Kunzang-Sonam both clarify a crucial doctrinal point: what is primarily demonstrated in this verse is the benefit of *conventional* bodhicitta (*kun rdzob sems bskyed*). Its power is twofold — it purifies previously accumulated sin destined for lower realms, and it cuts the stream of future non-virtue before it arises. The power of ultimate bodhicitta to eliminate obscuration-seeds is real but is not the primary thesis here. ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-6]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-6]])
+སྡོང་པོ་བཀོད་པའི་མདོའི་བྱི་ལའི་མིག་གི་དཔེས་ཉམས་མྱོང་གི་སྒོ་ནས་གནད་དོན་མཚོན་ཏེ། བྱི་ལའི་མིག་གིས་བྱི་བ་རང་བཞིན་གྱིས་ཟིལ་གྱིས་གནོན་པ་ལྟར། ཐམས་ཅད་མཁྱེན་པའི་སེམས་རིན་པོ་ཆེའི་མིག་གིས་ཀྱང་ལས་དང་ཉོན་མོངས་ཐམས་ཅད་ལྷག་མེད་དུ་ཟིལ་གྱིས་གནོན་པར་བྱེད། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-6]])
 
-The Gaṇḍavyūha Sūtra's cat-gaze simile provides the experiential illustration: just as a cat's gaze naturally and effortlessly overwhelms mice, the eye of omniscient mind-bodhicitta naturally overwhelms all karma and affliction, leaving nothing untouched. ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-6]])
-
-Minyak notes that the word *rtag* (always/constant) in the verse admits two valid readings: either virtue is always in a weak state, or great sin is always unendurably powerful. Both complement rather than exclude each other. ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-6]])
+མི་ཉག་ཀུན་བཟང་གིས་ཤོ་ལོ་ཀའི་“རྟག”ཅེས་པའི་ཚིག་ལ་འགྲེལ་ཚུལ་གཉིས་ཀ་ — དགེ་བ་རྟག་ཏུ་ཉམ་ཆུང་བ་དང་། སྡིག་པ་རྟག་ཏུ་སྟོབས་ཆེན་ཞིང་མི་བཟད་པ་ — གང་ཡང་རུང་ཤོ་ལོ་ཀའི་དོན་དང་མཐུན་པར་བཞག གཉིས་ཀ་ཕན་ཚུན་མི་འགལ་བར་མཐུན་པར་གྲུབ། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-6]])

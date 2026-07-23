@@ -6,7 +6,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 ---
 
@@ -90,13 +90,19 @@ status: draft
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-8]])
 
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+བྱང་ཆུབ་ཀྱི་སེམས་བཟང་པོ་ཞིག་སྐྱེས་ན་མཐར་ཐུག་བླ་ན་མེད་པའི་རྫོགས་པའི་སངས་རྒྱས་ཀྱི་གོ་འཕང་འཐོབ་པ་དང་། འཕྲལ་དུའང་བདེ་ནས་བདེ་བར་འགྲོ་ཞིང་། དེས་སངས་རྒྱས་ཀྱི་གོ་འཕང་ལྟ་ཅི་སྨོས་འཕྲལ་དུ་སྲིད་པ་འཁོར་བར་འཁྱམས་པའི་རིང་ལའང་སྡུག་བསྔལ་གྱིས་མི་ཚུགས་པ་དང་། གཏན་དུ་སྲིད་པའི་ཕུན་ཚོགས་རྒྱུན་མ་ཆད་པ་ཐོབ་པ་དང་། དེ་ལ་བརྟེན་ནས་བདེ་ནས་བདེ་བའི་ལམ་བགྲོད་དེ་འབྲས་བུ་སྤངས་རྟོགས་མཐར་ཕྱིན་པའང་བྱང་ཆུབ་ཀྱི་སེམས་ལ་བརྟེན། ཕན་པའི་བསམ་པ་ཞེས་པ་དེ་ལེགས་ཚོགས་ཐམས་ཅད་ཀྱི་རྩ་བ་ཡིན་པར་བསྟན་ཅིང་། དེས་སེམས་བཟང་པོ་ཡོད་ས་ཁོ་རང་ལ་ཕན་པ་མ་ཟད། རོགས་པ་ཚོ་དང་དེའི་འཁོར་ཡུག་ཐམས་ཅད་ལ་ཡང་ཕན་པ་ཡིན་པས་བདེ་མཆོག་བདེ་བླག་ཉིད་དུ་འཐོབ་པར་བྱེད་ཅེས་གསུངས།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-8]])
+
 ---
 
 ## དཔེ། (Metaphors)
 
-*No explicit simile is employed in verse 1-8. The verse makes a direct logical argument: because bodhicitta is the cause of all that any person could want (removal of suffering, attainment of happiness), it should never be abandoned.*
+*ཚིག་རྐང་འདིར་དཔེ་དངོས་སུ་མ་བཀོད། རིགས་པའི་གོ་རིམ་ཐད་ཀར་སྟོན་ཏེ། བྱང་ཆུབ་ཀྱི་སེམས་ནི་སྐྱེས་བུ་གང་ཞིག་གིས་འདོད་པའི་དོན་ཐམས་ཅད་ (སྡུག་བསྔལ་སེལ་བ་དང་བདེ་བ་ཐོབ་པ་) འགྲུབ་པའི་རྒྱུ་ཡིན་པའི་ཕྱིར། དེ་ནམ་ཡང་གཏང་བར་མི་བྱ་ཞེས་པའི་རིགས་པའི་གྲུབ་མཐའ་ཡིན།*
 
-*The implicit logical structure is a three-type typology (skyes bu gsum) identified by Gyaltsab and Minyak: lesser person (own liberation), middling person (own and others' liberation), great person (all beings' liberation) — and the verse demonstrates that bodhicitta serves all three without exception.*
+*རྒྱལ་ཚབ་དང་མི་ཉག་གཉིས་ཀས་ངེས་པར་བཀོད་པའི་སྐྱེས་བུ་གསུམ་ (skyes bu gsum) གྱི་རྣམ་གཞག་ནི་ཚིག་རྐང་འདིའི་ནང་ལོགས་སུ་ལྐོག་ཏུ་གནས་པའི་དཔེའི་རིགས་ཤིག་ཡིན་ཏེ། སྐྱེས་བུ་ཆུང་ངུ་ (རང་ཉིད་ཐར་བར་འདོད་པ) དང་། སྐྱེས་བུ་འབྲིང་ (རང་གཞན་གཉིས་ཀ་ཐར་བར་འདོད་པ) དང་། སྐྱེས་བུ་ཆེན་པོ་ (སེམས་ཅན་ཐམས་ཅད་ཐར་བར་འདོད་པ) གསུམ་སྟེ། ཚིག་རྐང་འདིས་བྱང་ཆུབ་ཀྱི་སེམས་ནི་སྐྱེས་བུ་གསུམ་ཆར་ལ་མ་ལུས་པར་ཕན་པའི་ཐབས་སུ་གྲུབ་པར་བསྟན་ཡོད།*
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-8]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-8]])
 
@@ -104,7 +110,7 @@ status: draft
 
 ## ལུང། (Scriptural quotations)
 
-### འདུལ་བ་ལས། (Vinaya — cited by Minyak)
+### འདུལ་བ་ལས། (མི་ཉག་གིས་དྲངས་པ)
 
 > དགེ་སློང་རྣམས་སྲོག་གི་ཕྱིར་ཡང་བྱང་ཆུབ་ཀྱི་སེམས་གཏང་བར་མི་བྱའོ།།
 
@@ -114,15 +120,15 @@ status: draft
 
 ## གཙོ་གནད། (Main teaching points)
 
-1. **བྱང་ཆུབ་ཀྱི་སེམས་རྟག་ཏུ་མི་གཏང་།** — The central injunction: do not ever (*rtag tu*) abandon or release bodhicitta from one's continuum. All six commentators converge on this formulation. Khenpo Kunga's phrasing is most explicit: not merely "don't abandon for a moment" but "don't release it from the continuum, even permanently." ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-8]])
+1. **བྱང་ཆུབ་ཀྱི་སེམས་རྟག་ཏུ་མི་གཏང་།** — གནད་དོན་གཙོ་བོ་ནི། བྱང་ཆུབ་ཀྱི་སེམས་འདི་ཉིད་དུས་རྟག་ཏུ (*rtag tu*) རང་རྒྱུད་ནས་གཏང་བར་མི་བྱ་ཞེས་པ་སྟེ། མཁས་པ་དྲུག་ཆར་ཡང་འདིར་མཐུན་པར་གསུངས། མཁན་པོ་ཀུན་དགའི་བཤད་པ་ཧ་ཅང་གསལ་ཏེ། སྐད་ཅིག་ཙམ་མི་གཏང་བ་ཙམ་མིན་པར། རྟག་ཏུའང་རང་རྒྱུད་ནས་ཕར་མི་གཏོང་བར་གསུངས། ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-8]])
 
-2. **སྡུག་བསྔལ་བརྒྱ་ཕྲག་གཞོམ།** — Overcoming hundreds of sufferings of existence. The verse addresses the aspiration to overcome one's own sufferings in saṃsāra — applicable even to beings of small aspiration (Hīnayāna inclination). For such a person, bodhicitta is still the supreme method. ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-8]])
+2. **སྡུག་བསྔལ་བརྒྱ་ཕྲག་གཞོམ།** — ཚིག་རྐང་འདིས་སྲིད་པའི་སྡུག་བསྔལ་བརྒྱ་ཕྲག་གཞོམ་འདོད་པའི་དོན་ལ་དགོངས་ཏེ། རང་ཉིད་འཁོར་བའི་སྡུག་བསྔལ་ལས་གྲོལ་བར་འདོད་པའི་སྐྱེས་བུ་ཆུང་ངུའི་བསམ་པའང་ཁྱབ། དེ་ལྟ་བུའི་གང་ཟག་ལའང་བྱང་ཆུབ་ཀྱི་སེམས་ཐབས་མཆོག་ཏུ་གྱུར་ཞིང་གཞན་ཐབས་མེད་པར་གསུངས། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-8]])
 
-3. **སེམས་ཅན་ཐམས་ཅད་ཀྱི་མི་བདེ་བ་མ་མཐའ་དག་བསལ།** — Removing without remainder all suffering of all beings. This is the aspiration of the great person (*skyes bu chen po*): not merely one's own suffering but the entirety of every being's unhappiness. Bodhicitta is the means for this too. ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-8]])
+3. **སེམས་ཅན་ཐམས་ཅད་ཀྱི་མི་བདེ་བ་མ་མཐའ་དག་བསལ།** — འདི་ནི་སྐྱེས་བུ་ཆེན་པོའི་ (*skyes bu chen po*) བསམ་པ་སྟེ། རང་ཉིད་ཀྱི་སྡུག་བསྔལ་འབའ་ཞིག་མིན་པར་སེམས་ཅན་ཐམས་ཅད་ཀྱི་མི་བདེ་བ་མ་ལུས་པ་སེལ་བར་འདོད་པའོ། །འདི་ཡང་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱིས་འགྲུབ་པའི་ཐབས་ཡིན། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-8]])
 
-4. **བདེ་བ་མང་པོར་སྤྱོད།** — Experiencing many happinesses. Sabzang and Kunpal read this as encompassing both ordinary mundane happiness (*mngon mtho*) and the definitive good (*nges par legs pa*), i.e., liberation and awakening. Bodhicitta is the means for both. ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-8]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-8]])
+4. **བདེ་བ་མང་པོར་སྤྱོད།** — ས་བཟང་དང་ཀུན་བཟང་གཉིས་ཀས་འདི་ནི་མངོན་མཐོ་ (*mngon mtho*) དང་ངེས་པར་ལེགས་པ་ (*nges par legs pa*) གཉིས་ཀ་ལ་ཁྱབ་པར་འཆད་དེ། འཇིག་རྟེན་པའི་བདེ་སྐྱིད་དང་ཐར་པ་བྱང་ཆུབ་གཉིས་ཀའང་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱིས་འགྲུབ་པའི་ཐབས་ཡིན། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-8]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-8]])
 
-5. **གསུམ་གྱི་རྗེས་འཇུག།** — Application to all three types. Gyaltsab and Minyak both identify that the three grammatical constructions of the verse (*gzhom 'dod*, *bsal 'dod*, *spyod 'dod*) correspond to the aspirations of lesser, middling, and great persons respectively. Bodhicitta is affirmed as the sole effective means for all three without distinction. ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-8]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-8]])
+5. **སྐྱེས་བུ་གསུམ་ཀ་ལ་ཕན་པ།** — རྒྱལ་ཚབ་དང་མི་ཉག་གཉིས་ཀས་ཚིག་རྐང་འདིའི་ནང་གི་སྒྲ་གསུམ་ (*gzhom 'dod* / *bsal 'dod* / *spyod 'dod*) ནི་སྐྱེས་བུ་ཆུང་འབྲིང་ཆེན་གསུམ་གྱི་འདོད་དོན་སོ་སོར་མཚོན་པར་ངེས་ཏེ། བྱང་ཆུབ་ཀྱི་སེམས་ནི་སྐྱེས་བུ་གསུམ་ཆར་གྱི་འདོད་དོན་ཐམས་ཅད་འགྲུབ་པའི་ཐབས་གཅིག་པུར་གྲུབ་པར་བསྟན། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-8]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-8]])
 
 ---
 
@@ -130,23 +136,27 @@ status: draft
 
 | གནད་ཚིག | འགྲེལ་བཤད། (Commentary definition) | ཁུངས། (Source) |
 |---|---|---|
-| **སྲིད་པའི་སྡུག་བསྔལ་བརྒྱ་ཕྲག།** | Hundreds of sufferings of existence — the manifold, limitless sufferings of saṃsāra that even those of modest aspiration wish to overcome | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-8]]) |
-| **མི་བདེ་བ་མ་མཐའ་དག་བསལ།** | Removing without remainder all suffering — the all-inclusive aspiration of the great person, extending to every being's unhappiness | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-8]]) |
-| **བདེ་བ་མང་པོ་བརྒྱ་ཕྲག།** | Many hundreds of happinesses — encompasses both higher-realm happiness and the definitive good (liberation / omniscience) | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-8]]) |
-| **རྟག་ཏུ་གཏང་བར་མི་བྱ།** | Never ever to be abandoned — the absolute formulation; Vinaya confirms this applies even at the cost of life | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-8]]) |
-| **རང་རྒྱུད་ལ་བཟུང་།** | To hold in one's continuum — the counterpart injunction to not abandoning; bodhicitta is to be grasped and held in the mind-stream at all times | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-8]]) |
-| **སྐྱེས་བུ་གསུམ།** | Three types of persons — lesser (own liberation), middling (own and others'), great (all beings') — all three are served by bodhicitta | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-8]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-8]]) |
+| **སྲིད་པའི་སྡུག་བསྔལ་བརྒྱ་ཕྲག།** | སྲིད་པའི་སྡུག་བསྔལ་སྣ་ཚོགས་མཐའ་ཡས་པ་སྟེ་སྐྱེས་བུ་དམའ་བའི་བསམ་པ་ཅན་གྱིས་ཀྱང་གཞོམ་འདོད་པའི་སྡུག་བསྔལ་མང་པོ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-8]]) |
+| **མི་བདེ་བ་མ་མཐའ་དག་བསལ།** | སེམས་ཅན་ཐམས་ཅད་ཀྱི་མི་བདེ་བ་ལྷག་མེད་དུ་སེལ་བར་འདོད་པའི་སྐྱེས་བུ་ཆེན་པོའི་བསམ་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-8]]) |
+| **བདེ་བ་མང་པོ་བརྒྱ་ཕྲག།** | མངོན་མཐོ་དང་ངེས་པར་ལེགས་པའི་བདེ་བ་མང་པོ་གཉིས་ཀ་ལ་ཁྱབ་པའི་བདེ་བ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-8]]) |
+| **རྟག་ཏུ་གཏང་བར་མི་བྱ།** | ནམ་ཡང་མི་གཏོང་བའི་ངེས་ཚིག་མཐའ་གཏུགས་པ་སྟེ། འདུལ་བའི་ལུང་ལས་སྲོག་གི་ཕྱིར་ཡང་མི་གཏང་བར་གསུངས། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-8]]) |
+| **རང་རྒྱུད་ལ་བཟུང་།** | མི་གཏོང་བའི་ལྡོག་ཕྱོགས་སུ་བྱང་ཆུབ་ཀྱི་སེམས་དུས་རྟག་ཏུ་རང་རྒྱུད་ལ་འཛིན་ཅིང་བསྲུང་བའོ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-8]]) |
+| **སྐྱེས་བུ་གསུམ།** | སྐྱེས་བུ་ཆུང་ངུ་ (རང་ཐར) འབྲིང་ (རང་གཞན) ཆེན་པོ་ (སེམས་ཅན་ཐམས་ཅད) གསུམ་སྟེ། གསུམ་ཆར་ལ་བྱང་ཆུབ་ཀྱི་སེམས་ཕན་ཐོགས་སོ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-8]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-8]]) |
 
 ---
 
 ## བསྡུས་དོན། (Verse synthesis — AI Overview style)
 
-Verse 1-8 concludes the three-benefit sequence with the third benefit: bodhicitta fulfills the wishes of all three types of beings — those who wish to overcome their own saṃsāric sufferings, those who wish to remove all beings' unhappiness, and those who wish to enjoy the vast happinesses of higher realms and liberation alike. Because bodhicitta alone accomplishes all of these, it should never (*rtag tu*) be abandoned from one's continuum.
+**ངོ་སྤྲོད་མདོར་བསྡུས།** ཚིག་རྐང་1-8 པས་ཕན་ཡོན་གསུམ་པའི་རིམ་པ་མཇུག་བསྡུས་ཏེ། བྱང་ཆུབ་ཀྱི་སེམས་ཀྱིས་སྐྱེས་བུ་གསུམ་ག་ཡི་འདོད་དོན་ཐམས་ཅད་འགྲུབ་པར་སྟོན་ཏེ། རང་ཉིད་འཁོར་བའི་སྡུག་བསྔལ་ལས་གྲོལ་བར་འདོད་པ་དང་། སེམས་ཅན་ཐམས་ཅད་ཀྱི་མི་བདེ་བ་སེལ་བར་འདོད་པ། མངོན་མཐོ་དང་ངེས་པར་ལེགས་པའི་བདེ་བ་ཆེན་པོ་ལ་སྤྱོད་པར་འདོད་པ་གསུམ་ཆར་ཡིན། བྱང་ཆུབ་ཀྱི་སེམས་གཅིག་པུས་འདི་དག་ཐམས་ཅད་འགྲུབ་པའི་ཕྱིར་དུས་རྟག་ཏུ་རང་རྒྱུད་ནས་གཏང་བར་མི་བྱའོ།
 
-All six commentators read the three grammatical formulations of the verse (*gzhom 'dod* / *bsal 'dod* / *spyod 'dod*) as corresponding to the three-type (*skyes bu gsum*) typology: lesser person (concerned primarily with one's own suffering in existence), middling person (motivated by the full liberation of self and others), and great person (whose aspiration encompasses without remainder the happiness and unhappiness of all beings everywhere). Gyaltsab and Minyak make this schema most explicit. ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-8]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-8]])
+**གནད་དོན་གཙོ་བོ།**
 
-The Vinaya's formulation cited by Minyak sharpens the import: "Monks should not abandon bodhicitta even for the sake of their lives." This is the most extreme case imaginable — the final boundary. If bodhicitta must not be abandoned even when life is at stake, it certainly must not be abandoned for lesser reasons. ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-8]])
+- མཁས་པ་དྲུག་ཆར་གྱིས་ཚིག་རྐང་འདིའི་སྒྲ་གསུམ་ (*gzhom 'dod* / *bsal 'dod* / *spyod 'dod*) ནི་སྐྱེས་བུ་གསུམ་ (*skyes bu gsum*) གྱི་རྣམ་གཞག་ལ་མཐུན་པར་འགྲེལ་ཏེ། སྐྱེས་བུ་ཆུང་ངུ་ (རང་ཉིད་སྲིད་པའི་སྡུག་བསྔལ་ལས་གྲོལ་བར་འདོད་པ) དང་། སྐྱེས་བུ་འབྲིང་ (རང་གཞན་གཉིས་ཀའི་གྲོལ་བར་འདོད་པ) དང་། སྐྱེས་བུ་ཆེན་པོ་ (སེམས་ཅན་ཐམས་ཅད་ཀྱི་མི་བདེ་བ་དང་བདེ་བ་ལྷག་མེད་དུ་ཁྱབ་པའི་བསམ་པ) གསུམ་སྟེ། རྒྱལ་ཚབ་དང་མི་ཉག་གཉིས་ཀས་འདི་ལྟར་ཧ་ཅང་གསལ་བར་བཀོད། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-8]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-8]])
 
-Khenpo Kunga notes that the positive counterpart to the injunction is *rang rgyud la bzung* — not merely refraining from abandonment but actively holding bodhicitta within one's continuum as a living presence, permanently. ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-8]])
+- མི་ཉག་གིས་དྲངས་པའི་འདུལ་བའི་ལུང་གིས་དོན་དེ་ཧ་ཅང་ཟབ་མོར་བསྟན་ཏེ། "དགེ་སློང་རྣམས་སྲོག་གི་ཕྱིར་ཡང་བྱང་ཆུབ་ཀྱི་སེམས་གཏང་བར་མི་བྱའོ།" ཞེས་གསུངས། འདི་ནི་མཐའ་གཏུགས་པའི་དཔེ་ཡིན་ཏེ། སྲོག་ཉེན་ཁའི་སྐབས་སུའང་བྱང་ཆུབ་ཀྱི་སེམས་གཏང་བར་མི་བྱ་ན། དེ་ལས་ལྕི་བའི་རྐྱེན་གང་ཡང་མེད་པར་ཤེས་དགོས། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-8]])
 
-Together, verses 1-6, 1-7, and 1-8 form a triptych of reasons to generate and never abandon bodhicitta: it overcomes what cannot be overcome by other means (1-6); it is what the Buddhas themselves verified as the sole cause of benefit and happiness (1-7); and it accomplishes without exception every aspiration every kind of being could have (1-8).
+- མཁན་པོ་ཀུན་དགའ་དབང་ཕྱུག་གིས་མི་གཏོང་བའི་ལྡོག་ཕྱོགས་ནི་*རང་རྒྱུད་ལ་བཟུང་* ཞེས་པ་ཡིན་པར་བཤད་དེ། གཏང་བར་མི་བྱ་བ་ཙམ་མིན་པར། བྱང་ཆུབ་ཀྱི་སེམས་དངོས་སུ་རང་རྒྱུད་ནང་དུས་རྟག་ཏུ་འཛིན་ཅིང་བསྲུང་དགོས་པར་གསུངས། ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-8]])
+
+- ཚིག་རྐང་1-6, 1-7, 1-8 གསུམ་གྱིས་བྱང་ཆུབ་ཀྱི་སེམས་བསྐྱེད་ཅིང་ནམ་ཡང་མི་གཏང་བའི་རྒྱུ་མཚན་གསུམ་མཚོན་ཏེ། གཞན་ཐབས་ཀྱིས་མི་ཟིལ་བའི་སྡུག་བསྔལ་སེལ་བ་ (1-6) དང་། སངས་རྒྱས་ཉིད་ཀྱིས་ཕན་བདེའི་རྒྱུ་གཅིག་པུར་བརྟག་དཔྱད་བྱས་པ་ (1-7) དང་། སྐྱེས་བུ་གང་འདོད་ཀྱི་དོན་ཐམས་ཅད་ལྷག་མེད་དུ་འགྲུབ་པ་ (1-8) དང་གསུམ་མོ།
+
+- རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོས་གསུངས་པར། ཕན་ཐོགས་འདི་བྱང་ཆུབ་ཀྱི་སེམས་འཛིན་མཁན་གང་ཟག་གཅིག་པུར་མ་ངེས་པར། ཕན་པའི་བསམ་པ་ (*phan pa'i bsam pa*) ནི་ལེགས་ཚོགས་ཐམས་ཅད་ཀྱི་རྩ་བ་ཡིན་པས། དེ་སྐྱེས་པའི་གང་ཟག་གིས་རང་ཉིད་མ་ཟད་རོགས་པ་ཚོ་དང་འཁོར་ཡུག་ཐམས་ཅད་ལའང་ཕན་པ་སྒྲུབ་ཅིང་། འདིས་བྱང་ཆུབ་ཀྱི་སེམས་སྐད་ཅིག་ཙམ་ཡང་མི་གཏང་བའི་རྒྱུ་མཚན་མཐར་ཐུག་བསྟན། ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-8]])

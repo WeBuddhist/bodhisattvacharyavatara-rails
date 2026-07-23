@@ -6,7 +6,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 notes: |
   Grouping matrix:
@@ -53,25 +53,25 @@ notes: |
 
 ### gyaltsab — རྒྱལ་ཚབ་དར་མ་རིན་ཆེན། (རྒྱལ་སྲས་འཇུག་ངོགས།)
 
-*Note: 1-21 and 1-22 are grouped in this commentary. The full grouped prose — covering both verses — appears in 1-21-summary.md under the gyaltsab entry. The a fortiori conclusion (comparing the aspirations for a few beings vs. all infinite beings) is completed through this verse.*
+*ཟུར་བཀོད། འགྲེལ་པ་འདིར་ཚིགས་བཅད་༡།༢༡ དང་༡།༢༢ གཉིས་བསྡོམས་ནས་བཤད་ཡོད་པས། ཚིག་འགྲེལ་ཡོངས་རྫོགས་ 1-21-summary.md ནང་གི་ gyaltsab སྐབས་སུ་བཀོད་ཡོད། སེམས་ཅན་ཉུང་ངུར་དམིགས་པའི་སྨོན་ལམ་དང་སེམས་ཅན་མཐའ་ཡས་པར་དམིགས་པའི་སྨོན་ལམ་གཉིས་བསྡུར་བའི་གལ་ཆེར་བཤད་ཚུལ་གྱི་མཇུག་བསྡུ་བ་ནི་ཚིགས་བཅད་འདིས་མཐར་ཕྱིན་པར་བྱེད།*
 
 → ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]) — see 1-21-summary.md
 
 ### ngulchu-thogmed — དངུལ་ཆུ་ཐོགས་མེད། (ལེགས་བཤད་རྒྱ་མཚོ།)
 
-*Note: 1-21 and 1-22 are grouped in this commentary. Full grouped prose in 1-21-summary.md.*
+*ཟུར་བཀོད། འགྲེལ་པ་འདིར་ཚིགས་བཅད་༡།༢༡ དང་༡།༢༢ གཉིས་བསྡོམས་ནས་བཤད་ཡོད། ཚིག་འགྲེལ་ཡོངས་རྫོགས་ 1-21-summary.md ནང་བཀོད་ཡོད།*
 
 → ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]) — see 1-21-summary.md
 
 ### sabzang — ས་བཟང་མ་ཏི་པཎ་ཆེན། (གཞུང་དོན་རབ་གསལ་སྣང་བ།)
 
-*Note: 1-21 and 1-22 are grouped in this commentary. Full grouped prose (including merchant's daughter story) in 1-21-summary.md.*
+*ཟུར་བཀོད། འགྲེལ་པ་འདིར་ཚིགས་བཅད་༡།༢༡ དང་༡།༢༢ གཉིས་བསྡོམས་ནས་བཤད་ཡོད། ཚིག་འགྲེལ་ཡོངས་རྫོགས་ (དེད་དཔོན་མཛའ་བོའི་བུ་མོའི་གཏམ་རྒྱུད་ཚང་མ་བཅས་) 1-21-summary.md ནང་བཀོད་ཡོད།*
 
 → ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]) — see 1-21-summary.md
 
 ### minyak-kunzang-sonam — མི་ཉག་ཀུན་བསོད། (རྒྱལ་སྲས་རྒྱ་མཚོའི་ཡོན་ཏན།)
 
-*Note: 1-21 and 1-22 are grouped in this commentary. Full grouped prose in 1-21-summary.md.*
+*ཟུར་བཀོད། འགྲེལ་པ་འདིར་ཚིགས་བཅད་༡།༢༡ དང་༡།༢༢ གཉིས་བསྡོམས་ནས་བཤད་ཡོད། ཚིག་འགྲེལ་ཡོངས་རྫོགས་ 1-21-summary.md ནང་བཀོད་ཡོད།*
 
 → ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]) — see 1-21-summary.md
 
@@ -81,21 +81,29 @@ notes: |
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+ཞེས་མཛའ་བོའི་བུ་མོའི་གཏམ་རྒྱུད་དུ་གསུངས་པ་བཞིན། སེམས་ཅན་རྣམས་ཀྱི་སྡུག་བསྔལ་གྱི་བྱེ་བྲག་ཀླད་ནད་དམ་མགོ་ན་བ་ལྟ་བུ་ཞིག་བསལ་ལོ་སྙམ་པའི་སེམས་བཟང་པོ་སྐྱེ་བ་དེ་ལ་ཡང་ཕན་ཡོན་ཆེན་པོ་ཞིག་བྱུང་བའི་ལོ་རྒྱུས་ཡོད་པ་བཞིན། འདིར་ནམ་མཁའ་དང་མཉམ་པའི་སེམས་ཅན་ཐམས་ཅད་ཀྱི་སྡུག་བསྔལ་བྱེ་བྲག་པ་ཞིག་ངོས་བཟུང་བ་ལྟ་བུ་མིན་པར་སྡུག་བསྔལ་མཐའ་དག་བསལ་བར་འདོད་ཅིང་། སངས་རྒྱས་ཀྱི་སའི་ཡོན་ཏན་དཔག་ཏུ་མེད་པ་དེ་དག་དང་ལྡན་པ་ཞིག་སྒྲུབ་པར་འདོད་པའི་སེམས་དེ་སྐྱེས་ན་བསོད་ནམས་དཔག་ཏུ་མེད་པ་འབྱུང་བ་ལྟ་སྨོས་ཀྱང་ཅི་དགོས་ཞེས་གསུངས།
+
+*ཟུར་བཀོད། འགྲེལ་པ་འདིས་དེད་དཔོན་མཛའ་བོའི་བུ་མོའི་གཏམ་རྒྱུད་ (ཟུར་བཀོད་ཡོངས་རྫོགས་ [[2-RAILS/Verses/1-21-summary.md]] → སྒྲུང་འགྲེལ། ནང་ཡོད་) དེ་ཚིགས་བཅད་འདིའི་དོན་ལ་དཔེར་བཀོད་ཙམ་དུ་སླར་དྲངས་པ་ཡིན་གྱི། གཏམ་རྒྱུད་གསར་པ་ཞིག་མ་ཡིན།*
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-22]])
+
 ---
 
 ## སྒྲུང་འགྲེལ། (Stories and narratives)
 
-*Verse 1-22 contains no independent narrative. The merchant's daughter story (དེད་དཔོན་མཛའ་བོའི་བུ་མོ།) that grounds the a fortiori argument across 1-21 and 1-22 appears in full in 1-21-summary.md → སྒྲུང་འགྲེལ།.*
+*ཚིགས་བཅད་༡།༢༢ པར་རང་སྒོས་ཀྱི་གཏམ་རྒྱུད་མེད། ཚིགས་བཅད་༡།༢༡ དང་༡།༢༢ གཉིས་ཀའི་གལ་ཆེར་བཤད་ཚུལ་གྱི་རྒྱབ་རྟེན་བྱེད་པའི་དེད་དཔོན་མཛའ་བོའི་བུ་མོའི་གཏམ་རྒྱུད་ (དེད་དཔོན་མཛའ་བོའི་བུ་མོ།) ཡོངས་རྫོགས་ 1-21-summary.md → སྒྲུང་འགྲེལ། ནང་བཀོད་ཡོད།*
 
 ---
 
 ## དཔེ། (Metaphors and examples)
 
-**གལ་ཆེར་བཤད་ཚུལ།** (A fortiori / minor-to-major argument)
+**གལ་ཆེར་བཤད་ཚུལ།** (ཆུང་ངུ་ནས་ཆེ་བར་སྤྲོད་པའི་རིགས་པ།)
 
-Verse 1-21 establishes the minor premise (དམིགས་རྣམ་རྒྱ་ཆུང་ = narrow object, few beings, small aspiration → boundless merit). Verse 1-22 delivers the conclusion: the bodhisattva aspires to remove each of unlimited beings' limitless sufferings and establish each in limitless qualities — a scope infinitely greater. Therefore (ལྟ་སྨོས་ཀྱང་ཅི་དགོས།) "it goes without saying" that the merit from bodhicitta is boundless beyond measure.
+ཚིགས་བཅད་༡།༢༡ གྱིས་གཏན་ཚིགས་ཆུང་ངུ་ (དམིགས་རྣམ་རྒྱ་ཆུང་སྟེ་སེམས་ཅན་ཉུང་ངུ་ལ་སྨོན་ལམ་ཆུང་ངུ་ཞིག་ཀྱང་བསོད་ནམས་མཐའ་ཡས་སུ་འགྱུར་བ་) བཙུགས། ཚིགས་བཅད་༡།༢༢ ཡིས་མཐའ་འབྱུང་སྟེ་བྱང་ཆུབ་སེམས་དཔས་སེམས་ཅན་མཐའ་ཡས་པའི་རེ་རེའི་སྡུག་བསྔལ་དཔག་མེད་བསལ་ཞིང་རེ་རེར་ཡོན་ཏན་དཔག་མེད་སྒྲུབ་པར་འདོད་པའི་སྨོན་ལམ་གྱི་ཚད་ཧ་ཅང་ཆེ་བ་མཚོན། དེའི་ཕྱིར་ (ལྟ་སྨོས་ཀྱང་ཅི་དགོས།) བྱང་ཆུབ་སེམས་ལས་བྱུང་བའི་བསོད་ནམས་ཚད་མེད་པ་ནི་སྨོས་ཅི་དགོས་ཞེས་གྲུབ།
 
-All commentaries use this "how much more so" (ལྟ་སྨོས་ཀྱང་ཅི་དགོས།) conclusion formula.
+འགྲེལ་བ་ཐམས་ཅད་ཀྱིས་ "ལྟ་སྨོས་ཀྱང་ཅི་དགོས།" ཞེས་པའི་མཇུག་བསྡུའི་ཚིག་གཅིག་མཚུངས་སུ་སྦྱར།
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
@@ -103,7 +111,7 @@ All commentaries use this "how much more so" (ལྟ་སྨོས་ཀྱང�
 
 ## ལུང་། (Scriptural quotations)
 
-*Blockquote scripture from KS annotation (source text unnamed in annotation; preserved in blockquote format):*
+*KS ཡིས་མཆན་འགྲེལ་ནང་ནས་དྲངས་པའི་ལུང་ཡིག (མཆན་འགྲེལ་ནང་ཁུངས་མིང་མ་བཀོད་ཀྱང་ལུང་ཡིག་ངོ་བོ་བཞིན་བཀོད་):*
 
 > འདི་ནི་བྱང་ཆུབ་སེམས་སྟོབས་ཀྱིས། །སྔོན་གྱི་སྡིག་པ་ཟད་བྱེད་ཅིང་། །བསོད་ནམས་རྒྱ་མཚོ་སྡུད་བྱེད་པས། །ཉན་ཐོས་རྣམས་པས་མཆོག་ཏུ་བཤད། །ཅེས་ཀྱང་འཆད་པར་འགྱུར་རོ། །
 
@@ -113,13 +121,13 @@ All commentaries use this "how much more so" (ལྟ་སྨོས་ཀྱང�
 
 ## གཙོ་གནད། (Main teaching points)
 
-1. **གལ་ཆེར་བཤད་ཚུལ་གྱི་མཐར་ཐུག** — Verse 1-22 completes the a fortiori argument opened in 1-21. The minor premise (small object → boundless merit) yields the conclusion: the vast aspiration of bodhicitta — targeting each of infinite beings, removing each one's immeasurable suffering, and establishing each in infinite qualities — has merit that exceeds measure entirely (བསོད་ནམས་མཐའ་ཡས་པ་; ལྟ་སྨོས་ཀྱང་ཅི་དགོས།).
+1. **གལ་ཆེར་བཤད་ཚུལ་གྱི་མཐར་ཐུག** — ཚིགས་བཅད་༡།༢༢ གྱིས་ཚིགས་བཅད་༡།༢༡ ནས་བཙུགས་པའི་གལ་ཆེར་བཤད་ཚུལ་མཐར་ཕྱིན་པར་བྱེད། གཏན་ཚིགས་ཆུང་ངུ་ (དམིགས་རྣམ་ཆུང་ངུ་ལས་བསོད་ནམས་མཐའ་ཡས་འབྱུང་བ་) ལས་མཐའ་འབྱུང་སྟེ། བྱང་ཆུབ་སེམས་ཀྱི་སྨོན་ལམ་རྒྱ་ཆེན་པོ་ — སེམས་ཅན་མཐའ་ཡས་པའི་རེ་རེར་དམིགས་ནས་རེ་རེའི་སྡུག་བསྔལ་དཔག་མེད་བསལ་ཞིང་རེ་རེར་ཡོན་ཏན་དཔག་མེད་སྒྲུབ་པར་བྱེད་པ་ — དེའི་བསོད་ནམས་ནི་ཚད་ལས་འདས་པར་གྱུར་ཅིང་ (བསོད་ནམས་མཐའ་ཡས་པ་; ལྟ་སྨོས་ཀྱང་ཅི་དགོས།) ཞེས་གྲུབ།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]])
 
-2. **རེ་རེ་ལ་དམིགས་པའི་གནད།** — All commentaries emphasize the distributive scope: the bodhisattva aspires for each individual being (སེམས་ཅན་རེ་རེ་) individually — not collectively or in aggregated terms. Both the removal of each being's suffering (རེ་རེའི་མི་བདེ་བ་དཔག་མེད་) and establishment of each in limitless qualities (རེ་རེའང་ཡོན་ཏན་དཔག་མེད་) are individually held in mind. This individual scope is what makes the merit truly boundless.
+2. **རེ་རེ་ལ་དམིགས་པའི་གནད།** — འགྲེལ་བ་ཐམས་ཅད་ཀྱིས་སེམས་ཅན་རེ་རེར་སོ་སོར་དམིགས་པའི་ཚུལ་ལ་གལ་ཆེན་དུ་བཞེད་དེ། བྱང་ཆུབ་སེམས་དཔས་སེམས་ཅན་ཐམས་ཅད་སྤྱིར་བཏང་དུ་མིན་པར་རེ་རེ (སེམས་ཅན་རེ་རེ) སོ་སོ་བཞིན་དུ་དམིགས་ནས་བསམ་པ་བཞེས་པ་ཡིན། རེ་རེའི་མི་བདེ་བ་དཔག་མེད་ (རེ་རེའི་མི་བདེ་བ་དཔག་མེད་) བསལ་བའང་དང་། རེ་རེར་ཡོན་ཏན་དཔག་མེད་ (རེ་རེའང་ཡོན་ཏན་དཔག་མེད་) སྒྲུབ་པར་འདོད་པའང་གཉིས་ཀ་སོ་སོར་བསམས་པ་ཡིན་ལ། དམིགས་པའི་ཚུལ་སོ་སོར་གྲངས་བཟུང་བ་འདི་ཉིད་ཀྱིས་བསོད་ནམས་ཡང་དག་པར་མཐའ་ཡས་སུ་བྱེད།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
-3. **ལུང་གི་གནད།** — KS adds a scriptural citation: bodhicitta purifies prior negativity (སྔོན་གྱི་སྡིག་པ་ཟད་བྱེད་), gathers an ocean of merit (བསོད་ནམས་རྒྱ་མཚོ་སྡུད་བྱེད་), and is proclaimed supreme even over śrāvaka attainments (ཉན་ཐོས་རྣམས་པས་མཆོག་ཏུ་བཤད།). This doctrinal confirmation links the logical proof of 1-21/22 to textual authority.
+3. **ལུང་གི་གནད།** — KS ཡིས་ལུང་གཞན་ཞིག་ཀྱང་སྦྱར་ཏེ། བྱང་ཆུབ་སེམས་ཀྱིས་སྔོན་གྱི་སྡིག་པ་ཟད་བྱེད་ (སྔོན་གྱི་སྡིག་པ་ཟད་བྱེད་) ཅིང་བསོད་ནམས་རྒྱ་མཚོ་སྡུད་བྱེད་ (བསོད་ནམས་རྒྱ་མཚོ་སྡུད་བྱེད་) ལ། ཉན་ཐོས་ཀྱི་ཡོན་ཏན་ལས་ཀྱང་མཆོག་ཏུ་བཤད་པར་གསུངས་ (ཉན་ཐོས་རྣམས་པས་མཆོག་ཏུ་བཤད།)། ལུང་གིས་ཐུབ་པའི་གནས་ལུགས་འདིས་ཚིགས་བཅད་༡།༢༡ དང་༡།༢༢ གྱི་རིགས་པའི་གྲུབ་དོན་ལ་ལུང་གི་ཁུངས་ཀྱང་སྦྱར་བར་བྱེད།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]])
 
 ---
@@ -128,11 +136,11 @@ All commentaries use this "how much more so" (ལྟ་སྨོས་ཀྱང�
 
 | གནད་ཚིག | འགྲེལ་བཤད་ | ཁུངས། |
 |---|---|---|
-| **སེམས་ཅན་རེ་རེའི་མི་བདེ་བ།** | each individual being's suffering — the distributive scope of bodhisattva aspiration | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
-| **དཔག་ཏུ་མེད་པ་བསལ་འདོད་ཅིང་།** | aspiring to remove immeasurable [suffering] — the compassionate aspect | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
-| **རེ་རེའང་ཡོན་ཏན་དཔག་མེད་དུ་བསྒྲུབ་འདོད་།** | aspiring to establish each in limitless qualities — the loving-kindness and wisdom aspect | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) |
-| **སྨོས་ཅི་དགོས།** / **ལྟ་སྨོས་ཀྱང་ཅི་དགོས།** | "what need to say / it goes without saying" — formal a fortiori conclusion marker used by all commentaries | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]) |
-| **བསོད་ནམས་རྒྱ་མཚོ་སྡུད་བྱེད་པས།** | gathers an ocean of merit — scriptural characterization of bodhicitta's merit-accumulating power | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
+| **སེམས་ཅན་རེ་རེའི་མི་བདེ་བ།** | སེམས་ཅན་རེ་རེའི་སྡུག་བསྔལ་སྟེ་བྱང་ཆུབ་སེམས་དཔའི་སྨོན་ལམ་གྱི་དམིགས་ཡུལ་སོ་སོར་གྲངས་བཟུང་བའི་ཚུལ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
+| **དཔག་ཏུ་མེད་པ་བསལ་འདོད་ཅིང་།** | སྡུག་བསྔལ་དཔག་ཏུ་མེད་པ་བསལ་བར་འདོད་པ་སྟེ་སྙིང་རྗེའི་ཆ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
+| **རེ་རེའང་ཡོན་ཏན་དཔག་མེད་དུ་བསྒྲུབ་འདོད་།** | རེ་རེར་ཡོན་ཏན་དཔག་མེད་སྒྲུབ་པར་འདོད་པ་སྟེ་བྱམས་པ་དང་ཤེས་རབ་ཀྱི་ཆ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) |
+| **སྨོས་ཅི་དགོས།** / **ལྟ་སྨོས་ཀྱང་ཅི་དགོས།** | སྨོས་ཅི་དགོས་ཞེས་པའི་མཇུག་བསྡུའི་ཚིག་སྟེ་འགྲེལ་བ་ཐམས་ཅད་ཀྱིས་སྤྱོད་པའི་གལ་ཆེར་བཤད་ཚུལ་གྱི་མཚན་ཉིད། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]) |
+| **བསོད་ནམས་རྒྱ་མཚོ་སྡུད་བྱེད་པས།** | བསོད་ནམས་རྒྱ་མཚོ་སྡུད་པར་བྱེད་པ་སྟེ་བྱང་ཆུབ་སེམས་ཀྱི་བསོད་ནམས་བསྒྲུབ་ནུས་པའི་ལུང་གི་ངོས་འཛིན། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
 
 ---
 

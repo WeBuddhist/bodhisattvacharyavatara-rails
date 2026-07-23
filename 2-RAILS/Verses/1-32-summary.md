@@ -6,7 +6,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 notes: |
   Grouping matrix:
@@ -88,17 +88,23 @@ notes: |
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+འཇིག་རྟེན་ན་སྦྱིན་པ་གཏོང་ཡུལ་དམན་པ་གྲངས་ཚད་ངེས་ཅན་ཉུང་ཟད་ཅིག་ལ། དངོས་པོ་དམན་པ་ནར་མའི་ཟས་ཏེ་རྒྱུན་དུ་བེད་སྤྱོད་བྱེད་པའི་ཟས། དུས་དམན་པ་བཟའ་བཏུང་ཐེངས་གཅིག སྦྱོར་བ་དམན་པ་བརྙས་པ་དང་བཅས་པའི་སྒོ་ནས་སྦྱིན་པར་བྱེད་མཁན་དེ་ལ་ཡང་མི་དེས་"དེ་རིང་དབུལ་ཕོངས་ལ་གཏོང་ཕོད་ཆེན་པོ་བྱས་ཏེ་ཟས་ཀྱི་སྦྱིན་པ་བྱས་སོ" ཞེས་དགེ་བ་བྱེད་པ་ཡིན་ཞེས་སྐྱེ་བོས་བསྔགས་བཞིན་ཡོད་ན།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-32]])
+
 ---
 
 ## གཙོ་གནད། (Main teaching points)
 
-1. **སྦྱིན་བདག་དམན་པའི་དཔེ་ཀྱི་གནད།** — Verse 1-32 functions as the "lesser case" (དཔེ་) in an *a fortiori* argument spanning 1-32 and 1-33. A donor who gives only to a few beings (ཉུང་ཟད་), only briefly (སྐད་ཅིག་), only ordinary food (ཟས་ཙམ་), with contempt (བརྙས་བཅས་), and thereby satisfies them for only half a day (ཉིན་ཕྱེད་འགྲངས་) — is nonetheless praised by the world as performing great virtue (དགེ་བ་རྒྱ་ཆེན་པོ་). KKP and NKW both spell out the contrasts in detail.
+1. **སྦྱིན་བདག་དམན་པའི་དཔེ་ཀྱི་གནད།** — ཚིགས་བཅད་ ༡།༣༢ པས་ཚིགས་བཅད་ ༡།༣༢ དང་ ༡།༣༣ གཉིས་ཀྱི་བར་དུ་གྲུབ་པའི་དམན་ནས་མཐོར་སྒྲུབ་པའི་གཏན་ཚིགས་ཤིག་གི་དཔེ་ཆུང་ངུའི་ཆ་སྒྲུབ་བྱེད། སྦྱིན་བདག་སུ་ཞིག་འགྲོ་བ་ཉུང་ཟད་ཙམ་ལ (ཡུལ་ཉུང་)སྐད་ཅིག་ཙམ་ལ (དུས་ཐུང་)ཟས་ངན་ངོན་ཙམ་ (དངོས་པོ་དམན་)བརྙས་བཅས་ཀྱིས་སྦྱིན་ཏེ་ཉིན་ཕྱེད་ཙམ་འགྲངས་པར་བྱེད་པ་ཙམ་ཡིན་ནའང་། འཇིག་རྟེན་གྱིས་དགེ་བ་རྒྱ་ཆེན་པོ་བྱེད་པ་ཡིན་ཞེས་བསྟོད་ཅིང་བཀུར་བར་བྱེད་དོ་ཞེས་ KKP དང་ NKW གཉིས་ཀས་ཁྱད་པར་ཞིབ་ཏུ་བཤད།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
-2. **དངོས་པོ་གསུམ་གྱི་བར་འགྱུར།** — All commentaries read the verse's three contrasts (ཡུལ་ / དུས་ / དངོས་པོ་) as pointing to three dimensions in which the small donor is inferior: the object-field is narrow (few beings), the time is short, and the gift is inferior. These three dimensions each have their counterpart in 1-33, which the grouped commentaries (GDR, NTS, SMPLG, MKS) present as the bodhisattva's response.
+2. **དངོས་པོ་གསུམ་གྱི་བར་འགྱུར།** — འགྲེལ་བ་མཐའ་དག་གིས་ཚིགས་བཅད་འདིའི་ཡུལ་/དུས་/དངོས་པོ་གསུམ་གྱི་བར་འགྱུར་ལ་སྦྱིན་བདག་དམན་པའི་ཁྱད་ཆོས་གསུམ་མཚོན་པར་བཤད་དེ། ཡུལ་གྱི་ཆ་ནས་སེམས་ཅན་ཉུང་ཟད་ཙམ་ལ་དམིགས་པ་དང་། དུས་ཀྱི་ཆ་ནས་དུས་ཡུན་ཐུང་ངུ་བ་དང་། དངོས་པོའི་ཆ་ནས་སྦྱིན་རྫས་དམན་པ་ཙམ་ཡིན་པའོ། ཁྱད་ཆོས་གསུམ་པོ་འདི་རེ་རེ་ནང་ཚིགས་བཅད་ ༡།༣༣ པའི་བྱང་ཆུབ་སེམས་དཔའི་སྦྱིན་པའི་མཐུན་འགལ་གྱི་ཟླ་བར་ཡོང་བར་གྲུབ་ཚུལ་ GDR/NTS/SMPLG/MKS བཞིའི་སྤེལ་བཤད་ནང་བཀོད།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]])
 
-3. **གདམས་ངག་གི་མཇུག (GDR)** — GDR closes its grouped commentary with a direct instruction (བཀའ་བབ་): "Therefore, those with intelligence should devote themselves single-pointedly to the bodhisattva" (སེམས་དང་ལྡན་པས་བྱང་ཆུབ་སེམས་དཔའ་ལ་རྩེ་གཅིག་ཏུ་གུས་པར་བྱའོ།). This is the only practical instruction explicitly drawn from the comparison in any commentary, giving the paired verses a direct pedagogical function.
+3. **གདམས་ངག་གི་མཇུག (GDR)** — GDR ཀྱིས་སྤེལ་བཤད་ཀྱི་མཇུག་ཏུ་"སེམས་དང་ལྡན་པས་བྱང་ཆུབ་སེམས་དཔའ་ལ་རྩེ་གཅིག་ཏུ་གུས་པར་བྱའོ།" ཞེས་བཀའ་བབ་ཐད་ཀར་གནང་། འདི་ནི་འགྲེལ་བ་གང་ཡང་རུང་བའི་ནང་གསེས་བསྡུར་བ་འདི་ལས་མངོན་པར་བྱུང་བའི་ལག་ལེན་གྱི་གདམས་ངག་ཐད་ཀར་ཡིན་པ་གཅིག་པུ་སྟེ། ཚིགས་བཅད་གཉིས་ཟུང་འདིར་སློབ་གསོའི་ནུས་པ་ཐད་ཀར་སྟེར་བར་བྱེད།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]])
 
 ---
@@ -107,9 +113,9 @@ notes: |
 
 | གནད་ཚིག | འགྲེལ་བཤད་ | ཁུངས། |
 |---|---|---|
-| **ནར་མའི་ཟས་སྦྱོར།** | daily or regular provision of food; the commentaries specify this as monthly or annual provision (KKP: ལོའམ་ཟླ་བར་ཉིན་བཞིན་ནར་མ་) — regular but infrequent | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
-| **བརྙས་བཅོས་དང་བཅས་པས།** | with contempt; the manner (སྦྱོར་བ་) of giving is inferior, involving disparagement and disdain — yet even this does not prevent the praise | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
-| **ཉིན་ཕྱེད་འགྲངས་པར་བྱེད།** | satisfying for half a day; the outcome of the small donation — partial satiety, not complete or lasting benefit | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) |
+| **ནར་མའི་ཟས་སྦྱོར།** | ཟས་རྒྱུན་མ་ཆད་པའི་སྦྱོར་བ་སྟེ། འགྲེལ་བ་རྣམས་ཀྱིས་ལོ་རེ་ཟླ་རེའི་སྦྱོར་བར་ཞིབ་བཤད (KKP: ལོའམ་ཟླ་བར་ཉིན་བཞིན་ནར་མ་) — རྒྱུན་མི་འཆད་ཀྱང་ཐུང་ཐུང་ཞིག | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
+| **བརྙས་བཅོས་དང་བཅས་པས།** | བརྙས་བཅོས་ཀྱི་སྒོ་ནས་སྦྱིན་པ་སྟེ། སྦྱོར་བའི་ཚུལ་ (སྦྱོར་བ་) དམན་ཞིང་སྙིགས་བཅོས་ཀྱིས་ཟིན་ཡང་། དེས་འཇིག་རྟེན་གྱི་བསྟོད་བཀུར་ལ་གེགས་མི་བྱེད་པར་སྟོན | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
+| **ཉིན་ཕྱེད་འགྲངས་པར་བྱེད།** | ཉིན་ཕྱེད་ཙམ་ལྟོ་འགྲངས་པར་བྱེད་པ་སྟེ། སྦྱིན་པ་དམན་པའི་འབྲས་བུ་ཡིན་ལ་ཕན་ཐོགས་ཆུང་ངུ་ཙམ་ལས་མེད་པར་མཚོན | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) |
 
 ---
 

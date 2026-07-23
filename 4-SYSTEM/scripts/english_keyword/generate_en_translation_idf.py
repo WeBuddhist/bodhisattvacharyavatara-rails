@@ -100,6 +100,9 @@ def strip_frontmatter(text: str) -> str:
 
 def tokenize(text: str) -> list[str]:
     text = strip_frontmatter(text)
+    # drop Obsidian transclusion lines (e.g. "![[1-SOURCES/Translations/bo-...]]")
+    # — their file-path fragments would otherwise pollute the word counts.
+    text = re.sub(r"^!\[\[.*$", " ", text, flags=re.MULTILINE)
     text = re.sub(r"\^[\w\-]+", " ", text)           # verse markers
     text = re.sub(r"[#\[\]`*_>|§]", " ", text)       # markdown syntax
     text = re.sub(r"\d+", " ", text)                  # numbers
@@ -876,6 +879,18 @@ def main() -> None:
         write_bottom_json(kw_data, args.bottom, outdir / (stems_slug + f"_bottom_{args.bottom}.json"))
 
     write_verse_keywords_json(kw_data, outdir / (stems_slug + "_verse_keywords.json"))
+
+    # ── Per-translation Markdown report ──────────────────────────────────────
+    for src in sources:
+        md_path = outdir / f"{src.stem}-tfidf.md"
+        md_path.write_text(render_md(comp[src.stem]["rows"], src), encoding="utf-8")
+        print(f"Written  -> {md_path}")
+
+    # ── Cross-translation comparison Markdown report ─────────────────────────
+    if len(sources) > 1:
+        comparison_path = outdir / f"{stems_slug}-comparison.md"
+        comparison_path.write_text(render_comparison_md(comp, sources), encoding="utf-8")
+        print(f"Written  -> {comparison_path}")
 
 
 # ---------------------------------------------------------------------------

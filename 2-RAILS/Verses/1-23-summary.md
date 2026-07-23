@@ -6,7 +6,7 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
+  commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
 status: draft
 notes: |
   Grouping matrix:
@@ -87,17 +87,23 @@ notes: |
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
+### tenzin-gyatso — རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ། (Teaching on Entering the Bodhisattva's Way of Life)
+
+ཞེས་ཞེ་ཐག་པ་ནས་རང་ལས་གཞན་གཅེས་པར་བཟུང་། མཐའ་མེད་པའི་ནམ་མཁའ་དང་མཉམ་པའི་སེམས་ཅན་རྣམས་གཏན་དུ་བདེ་བ་དང་སྡུག་བསྔལ་མཐའ་དག་ལས་བྲལ་བ། གཞན་བདེ་བ་མཐར་ཐུག་བླ་ན་མེད་པ་རྫོགས་བྱང་ལ་འགོད་འདོད་ཀྱི་བསམ་པ་བསྐྱེད། དེ་སྒྲུབ་པའི་ཐབས་ཀྱང་ཇི་ཙམ་གྱིས་དཀའ་བ་སྤྱོད་དགོས་པ་དང་། དུས་ཡུན་ཐོགས་ནའང་སེམས་ལ་ཞུམ་པ་སྤུ་རྩེ་ཙམ་ཡང་མེད་པའི་སྙིང་སྟོབས་བཟང་པོ་སྐྱེས་པ་ཞིག་བྱུང་ན་ཕན་ཡོན་དེ་ལྟ་བུ་ཡོང་གི་ཡོད་ཀྱང་། དེ་ལྟ་བུའི་སེམས་བཟང་པོ་སྐྱེ་བ་ཧ་ཅང་དཀོན་པོ་རེད་ཅེས་གསུངས། འཇིག་རྟེན་ན་ཕ་མས་རང་གི་ཕྲུ་གུར་བརྩེ་བ་དེ་བརྩེ་བ་ཆེན་པོའི་གྲས་ཡིན་ནའང་། དེ་ལྟ་བུའི་སེམས་བཟང་པོ་ཞིག་སྐྱེས་པ་དཀའ་བ་དང་། འཇིག་རྟེན་ན་ཆེ་བར་གྲགས་པའི་ལྷ་དང་དྲང་སྲོང་དང་ཚངས་པ་ལ་སོགས་པ་དེ་དག་ལ་ཡང་དེ་ལྟ་བུའི་སེམས་ཤིག་རྩ་བ་ནས་ཡོང་ཐབས་མེད་པ་ནི། ཚངས་པ་ལ་ཡང་འདི་ཡོད་དམ། ཞེས་དྲི་བའི་ཚིག་གིས་དགག་ཚིག་སྦྱར་བ་རེད།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-23]])
+
 ---
 
 ## སྒྲུང་འགྲེལ། (Stories and narratives)
 
-*Verse 1-23 contains no independent narrative among the doctrinal commentaries. The merchant's daughter story that grounds the broader argument of verses 1-21 through 1-25 appears in 1-21-summary.md → སྒྲུང་འགྲེལ།.*
+*ཚིགས་བཅད་༡།༢༣ པར་ཆོས་ཀྱི་འགྲེལ་བ་རྣམས་ནང་རང་སོའི་སྒྲུང་འགྲེལ་མེད། ཚོང་དཔོན་གྱི་བུ་མོའི་སྒྲུང་གཏམ་གང་ཞིག་ཚིགས་བཅད་༡།༢༡ ནས་༡།༢༥ བར་གྱི་གཞུང་དོན་སྤྱིའི་རྒྱབ་ལྗོངས་སུ་གྱུར་པ་དེ་ 1-21-summary.md → སྒྲུང་འགྲེལ། ནང་མཆིས།*
 
 ### BCACXX_WR_bo — ཚངས་པའི་སྒྲུང་། (Brahmā's Story)
 
 ཤོ་ལོ་ཀ་འདིའི་**ཚངས་པ་ལ་ཡང་འདི་ཡོད་དམ།** ཞེས་པའི་དཔེར་བཀོད་པའི་གཏམ་རྒྱུད། ཚངས་པས་སེམས་ཅན་ཐམས་ཅད་ཀྱི་སྐྱེ་བ་རྒྱུན་མི་ཆད་པར་གྱུར་ཅིག་ཅེས་སྨོན་ལམ་བཏབ་པ་བཞིན་དུ་སྐྱེ་བ་རྒྱུན་མ་ཆད་པར་སྒོམ་ཞིང་། སེམས་ཅན་ཐམས་ཅད་རང་གི་བུ་ཡིན་པར་བསམས་ནས་ཚད་མེད་པའི་བྱམས་པ་སྒོམ་པར་བཤད།
 
-⚑ *Ed: the source block for this story is incomplete in the corpus — the passage breaks off mid-sentence ("...སེམས་ཅན་ཐམས་ཅད་ལ་ཚད་") immediately before the next heading; the précis above reflects only the attested portion.*
+⚑ *ཞུ་དག། སྒྲུང་འདིའི་ཁུངས་ཡིག་ཆ་མཛོད་ནང་ཚང་བར་མ་གནས་ཏེ། ཚིག་ཕྲེང་"...སེམས་ཅན་ཐམས་ཅད་ལ་ཚད་" ཞེས་པར་ཐད་ཀར་བར་ཆད་ནས་མགོ་བརྗོད་རྗེས་མའི་གོང་དུ་ཆད་པས། གོང་གི་མདོར་བསྡུས་འདི་ཡིག་ཆའི་ནང་ཐོན་ཡོད་པའི་ཆ་ཤས་ཙམ་ལས་མི་མཚོན།*
 
 ([[1-SOURCES/Commentaries/Transcluded/BCACXX_WR_bo.md#^1-7]])
 
@@ -105,7 +111,7 @@ notes: |
 
 ## དཔེ། (Metaphors and examples)
 
-**ཕ་མ་དང་ལྷ་དང་ཚངས་པ་ལ་དཔྱད་པ།** — All commentaries use a graduated comparison: (1) loving father or mother aspiring their child's long life and prosperity; (2) gods with five kinds of direct knowledge; (3) truth-speaking ṛṣis; (4) Brahma abiding in the four immeasurables. Bodhicitta surpasses all of these. The verse thus places bodhicitta beyond the highest ideals of ordinary altruistic aspiration, showing its radical incomparability.
+**ཕ་མ་དང་ལྷ་དང་ཚངས་པ་ལ་དཔྱད་པའི་དཔེ།** — འགྲེལ་བ་ཐམས་ཅད་ཀྱིས་རིམ་གྱིས་མཐོན་པར་འཕར་བའི་དཔྱད་གཞི་བཞི་སྦྱར་ཏེ། (༡) བུ་ཚེ་རིང་ཞིང་ནད་མེད་དང་མངའ་ཐང་ཆེ་བར་འདོད་པའི་ཕ་འམ་མ་ཡིན་ནའང་རུང། (༢) མངོན་ཤེས་ལྔ་དང་ལྡན་པའི་ལྷ། (༣) རིག་པའི་གནས་ཤེས་ཤིང་བདེན་པར་སྨྲ་བའི་དྲང་སྲོང་། (༤) ཚད་མེད་པ་བཞི་ (བྱམས་སྙིང་རྗེ་དགའ་བ་བཏང་སྙོམས་) ལ་གནས་པའི་ཚངས་པ། ཞེས་རིམ་པར་བརྗོད་དེ། བྱང་ཆུབ་ཀྱི་སེམས་ཀྱིས་དེ་ཐམས་ཅད་ལས་ཁྱད་དུ་འཕགས་པར་བསྟན། ཤོ་ལོ་ཀ་འདིས་བྱང་ཆུབ་ཀྱི་སེམས་འཇིག་རྟེན་གྱི་ཕན་སེམས་མཐོ་ཤོས་ཀྱང་ལས་ཡང་ལྷག་པར་བཞག་སྟེ་དེའི་མཚུངས་མེད་ཀྱི་ཁྱད་པར་ཧ་ཅང་གསལ་བར་མངོན་དུ་བསྟན་པ་ཡིན།
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]])
 
@@ -113,11 +119,11 @@ notes: |
 
 ## ལུང་། (Scriptural quotations)
 
-**མདོ་སྡེར་གྱང་རབ།** (Mahāyānasūtrālaṃkāra, quoted in NTS grouped prose and MKS grouped prose as first verse of their respective groups):
+**མདོ་སྡེའི་རྒྱན།** (མདོ་སྡེའི་རྒྱན་གྱི་ཚིགས་བཅད་འདི་ NTS དང་MKS གཉིས་ཀའི་སྤྱི་བསྡོམས་འགྲེལ་བའི་ཚིགས་བཅད་དང་པོའི་ཐད་དུ་དྲངས་པ།):
 
 > ཇི་ལྟར་རྒྱལ་སྲས་ཕན་པའི་བསམ་པས་འདིར། ། འགྲོ་ཀུན་རྣམ་པར་སྨིན་བྱེད་གནས་པ་ལྟར། ། དེ་བཞིན་ཕ་དང་མ་དང་གཉེན་བཤེས་རྣམས། ། བུ་དང་གཉེན་པ་རྣམས་ལ་ལེགས་མི་གནས། །
 
-*Note: NTS (line 154) attributes this as "མདོ་སྡེའི་རྒྱན་ལས།" with reading "རྒྱས་སྲས་"; MKS (line 1000) attributes it as "རྒྱན་ལས།" with reading "རྒྱལ་སྲས་". SMPLG places this quotation in its 1-24 prose (see 1-24-summary.md).*
+*ཟུར་བརྗོད། དངུལ་ཆུ་ཐོགས་མེད་ (མཐའ་མཚམས་154) ཀྱིས་"མདོ་སྡེའི་རྒྱན་ལས།" ཞེས་འདོན་ཞིང་"རྒྱས་སྲས་"ཞེས་ཀློགས་ལ། མི་ཉག་ཀུན་བསོད་ (མཐའ་མཚམས་1000) ཀྱིས་"རྒྱན་ལས།" ཞེས་འདོན་ཞིང་"རྒྱལ་སྲས་"ཞེས་ཀློགས། ས་བཟང་གིས་ཚིགས་བཅད་འདི་རང་གི་ཚིགས་བཅད་༡།༢༤ པའི་འགྲེལ་བཤད་ནང་བཀོད་ (1-24-summary.md ལ་གཟིགས)།*
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])
 
@@ -125,13 +131,13 @@ notes: |
 
 ## གཙོ་གནད། (Main teaching points)
 
-1. **བྱང་སེམས་ཀྱི་ཕན་སེམས་འཇིག་རྟེན་ལས་ཁྱད་དུ་འཕགས་པ།** — The verse demonstrates that the bodhisattva's altruistic intention surpasses anything found in worldly relationships or in gods, ṛṣis, or even Brahma practicing the four immeasurables. The specific comparison is the aspiration to establish each and every being in perfect buddhahood — a scope and depth that is entirely absent from any non-bodhisattva aspirant.
+1. **བྱང་སེམས་ཀྱི་ཕན་སེམས་འཇིག་རྟེན་ལས་ཁྱད་དུ་འཕགས་པ།** — ཤོ་ལོ་ཀ་འདིས་བྱང་ཆུབ་སེམས་དཔའི་ཕན་སེམས་ནི་འཇིག་རྟེན་གྱི་འབྲེལ་བའི་ནང་ན་ཡང་ན་ལྷ་དང་དྲང་སྲོང་། ཚད་མེད་བཞི་ལ་གནས་པའི་ཚངས་པ་ལ་ཡང་ག་ལར་མི་མཆིས་པར་ཁྱད་དུ་འཕགས་པར་བསྟན། དཔྱད་གཞི་གནད་འགག་ནི་སེམས་ཅན་རེ་རེ་བཞིན་ཐམས་ཅད་རྫོགས་པའི་བྱང་ཆུབ་ལ་འགོད་པར་འདོད་པའི་སྨོན་པ་སྟེ། དེའི་ཚད་དང་ཟབ་ཆ་འདི་བྱང་སེམས་མིན་པའི་སྨོན་པ་པོ་གང་ལའང་ཡོངས་སུ་མེད་པའོ།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]])
 
-2. **མདོ་སྡེའི་རྒྱན་གྱི་དོན།** — The MSA quotation (in NTS and MKS) makes the point concrete: just as a bodhisattva residing here with an altruistic intention matures all beings, so parents and relatives do not abide well for children and kinsmen (in comparison). The bodhisattva's aspiration uniquely maturing all beings stands in contrast to ordinary altruistic wishes that are partial, personal, and directed toward finite worldly benefit.
+2. **མདོ་སྡེའི་རྒྱན་གྱི་དོན།** — NTS དང་MKS ནང་གི་མདོ་སྡེའི་རྒྱན་གྱི་ཚིགས་བཅད་ཀྱིས་དོན་མངོན་དུ་བསྟན་ཏེ། ཇི་ལྟར་བྱང་ཆུབ་སེམས་དཔའ་ཕན་པའི་བསམ་པས་འདིར་གནས་པས་འགྲོ་བ་ཀུན་རྣམ་པར་སྨིན་པར་བྱེད་པ་ལྟར། ཕ་མ་དང་གཉེན་བཤེས་རྣམས་ནི་བུ་དང་གཉེན་པ་ལ་ལེགས་པར་མི་གནས་སོ། བྱང་ཆུབ་སེམས་དཔའི་སྨོན་པས་སེམས་ཅན་ཐམས་ཅད་མཐའ་དག་མཐར་ཐུག་ཏུ་སྨིན་པར་བྱེད་པ་དེ་ཉིད་ཕྱོགས་རིས་ཅན་དང་རང་གཅེས་འཛིན་ཅན་གྱི་འཇིག་རྟེན་གྱི་ཕན་བསམ་ཚད་ཡོད་པ་དང་ཁྱད་པར་ཧ་ཅང་ཆེའོ།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]])
 
-3. **གནས་སྐབས་བསྟན་ཚུལ།** — KKP addresses potential objections: (a) perhaps gods and ṛṣis don't have this aspiration because they lack knowledge — countered by noting they do have the five direct knowledges; (b) perhaps Brahma doesn't because he lacks altruistic concern — countered by noting Brahma practices the four immeasurables (བྱམས་སྙིང་རྗེ་དགའ་བཏང་སྙོམས་). Despite all this, none attain to the bodhicitta aspiration oriented toward buddhahood for all beings.
+3. **གནས་སྐབས་བསྟན་ཚུལ།** — མཁན་པོ་ཀུན་བཟང་དཔལ་ལྡན་གྱིས་རྩོད་པ་གཉིས་བཀོད་ནས་སེལ་བར་མཛད། (ཀ) ལྷ་དང་དྲང་སྲོང་རྣམས་ཤེས་རབ་མི་ལྡན་པས་ཕན་སེམས་མེད་དོ་སྙམ་ན། དེ་དག་མངོན་ཤེས་ལྔ་ལྡན་པས་ལན་གདབ། (ཁ) ཚངས་པ་ཕན་སེམས་མེད་དོ་སྙམ་ན། ཚངས་པ་ཚད་མེད་བཞི་ (བྱམས་སྙིང་རྗེ་དགའ་བ་བཏང་སྙོམས་) ལ་གནས་པས་ལན་གདབ། འོན་ཀྱང་དེ་དག་གང་ཡང་སེམས་ཅན་ཐམས་ཅད་སངས་རྒྱས་ཀྱི་གོ་འཕང་ཐོབ་པར་བྱ་བའི་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་སྨོན་པ་དང་མི་ལྡན་པར་བཤད།
    ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]])
 
 ---
@@ -140,11 +146,11 @@ notes: |
 
 | གནད་ཚིག | འགྲེལ་བཤད་ | ཁུངས། |
 |---|---|---|
-| **ཕའམ་ཡང་ན་མ་ཡང་རུང་།** | loving father or loving mother — baseline of human altruistic aspiration | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
-| **སུ་ལ་འདི་འདྲའི་ཕན་སེམས་ཡོད།** | who has this kind of altruistic intention? — rhetorical question establishing the incomparability of bodhicitta | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]) |
-| **ལྷ་དང་དྲང་སྲོང་རྣམས་ཀྱང་རུང་།** | even gods and ṛṣis — extension of the comparison to divine and sage beings with various supramundane capacities | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
-| **ཚངས་པ་ལ་ཡང་འདི་ཡོད་དམ།** | does even Brahma have this? — KKP: Brahma practices four immeasurables yet still lacks bodhicitta aspiration for buddhahood | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
-| **ཚད་མེད་པ་བཞི་** | the four immeasurables (བྱམས་སྙིང་རྗེ་དགའ་བཏང་སྙོམས་) — Brahma's characteristic meditative practice, which is surpassed by bodhicitta | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]) |
+| **ཕའམ་ཡང་ན་མ་ཡང་རུང་།** | ཕ་འམ་མ་སྟེ་བུ་ལ་བྱམས་པའི་ཕན་སེམས་ — མིའི་འཇིག་རྟེན་གྱི་ཕན་སེམས་ཀྱི་གཞི་རྩའི་དཔེར་བཀོད། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
+| **སུ་ལ་འདི་འདྲའི་ཕན་སེམས་ཡོད།** | སུ་ལ་འདི་འདྲའི་ཕན་སེམས་ཡོད་ཅེས་པའི་དྲི་བ་ — བྱང་ཆུབ་ཀྱི་སེམས་མཚུངས་མེད་ཡིན་པར་སྒྲུབ་པའི་འདྲི་བརྗོད་ཀྱི་ཚིག། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]) |
+| **ལྷ་དང་དྲང་སྲོང་རྣམས་ཀྱང་རུང་།** | ལྷ་དང་དྲང་སྲོང་ཡང་ཟེར་བ་ — དཔྱད་གཞི་མངོན་ཤེས་དང་འཇིག་རྟེན་ལས་འདས་པའི་ནུས་པ་ཅན་གྱི་སྐྱེས་བུར་སྤེལ་བ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
+| **ཚངས་པ་ལ་ཡང་འདི་ཡོད་དམ།** | ཚངས་པ་ལ་ཡང་འདི་ཡོད་དམ་ཞེས་པའི་དྲི་བ་ — ཀུན་བཟང་དཔལ་ལྡན་གྱིས་ཚངས་པ་ཚད་མེད་བཞི་ལ་གནས་ཀྱང་སངས་རྒྱས་ཐོབ་འདོད་ཀྱི་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་སྨོན་པ་མེད་པར་བཤད། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
+| **ཚད་མེད་པ་བཞི་** | ཚད་མེད་བཞི་ (བྱམས་སྙིང་རྗེ་དགའ་བ་བཏང་སྙོམས་) — ཚངས་པའི་ཐུན་མོང་གི་སྒོམ་ཐབས་ཡིན་ཡང་བྱང་ཆུབ་ཀྱི་སེམས་ཀྱིས་ཟིལ་གྱིས་གནོན་པའོ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]) |
 
 ---
 

@@ -71,6 +71,18 @@ Inserts or regenerates a table of contents in a source or rails file.
 **Outputs:** File at `0-INBOX/temp/tagged-<original-filename>` with headings, heading block IDs, and `[[#^N-N-0|term]]` wikilinks applied to all announcement and restatement phrases.
 → [`tag-inline-toc/SKILL.md`](tag-inline-toc/SKILL.md)
 
+### `add-block-id-root-text` (`format-sk-root-text`) **[exists]**
+**Purpose:** Format and re-index a **Sanskrit** root-text file in `1-SOURCES/Text/` using the vault's block-ID convention — front matter (Roman), chapter verses (Arabic), colophons (lowercase letters), and book back matter. Specific to Sanskrit root texts, not commentaries or translations. Uses a bundled `apply.py` helper (audit → LLM zone identification → mechanical apply).
+**Inputs:** A Sanskrit root-text `.md` file in `1-SOURCES/Text/`.
+**Outputs:** The file re-indexed in place with block IDs; audit report from `apply.py`.
+→ [`add-block-id-root-text/SKILL.md`](add-block-id-root-text/SKILL.md)
+
+### `commentary-resegment` **[exists]**
+**Purpose:** Re-paragraph a Tibetan commentary that has ONE CLAUSE PER LINE into readable sense-unit paragraphs (~2–4 lines each), grouped **by meaning** (LLM judgment on content/context, not grammar rules). A Python script joins each group onto one line, separates paragraphs with a blank line, and verifies the source text is byte-identical. Replaces the older rule-based `block-resegmentation-linewise`.
+**Inputs:** A one-clause-per-line commentary (e.g. `*_segmented.md`, `*.toc.md`).
+**Outputs:** A re-paragraphed commentary draft; source text changed only in newlines/spaces, never in words or characters (integrity-gated).
+→ [`commentary-resegment/SKILL.md`](commentary-resegment/SKILL.md)
+
 ---
 
 ## Rails-building skills (context preparation for translation)
@@ -138,6 +150,18 @@ These skills populate `2-RAILS/` with the structured context that translation an
 **Outputs:** The AI Overview (བསྡུས་དོན།) section of `2-RAILS/Verses/<verse-id>.md`, written or replaced in place; no other layer touched.
 → [`AI-summary-generator/SKILL.md`](AI-summary-generator/SKILL.md)
 
+### `verse-context-batch` **[exists]**
+**Purpose:** Build all verse-level context packages for one chapter in bulk. Scans every commentary to produce a single block-ID mapping table, then generates one `2-RAILS/Verses/<verse-id>.md` file per verse in the chapter via a Python script — enforcing one consistent mapping across the whole chapter. Output format is identical to `verse-context`; `status: draft` on generation.
+**Inputs:** Chapter number, verse range, all relevant `1-SOURCES/Commentaries/*.md` (must already have block IDs), and the translation file `bo-བློ་ལྡན་ཤེས་རབ།.md`.
+**Outputs:** One file per verse at `2-RAILS/Verses/<chapter>-<verse>.md` (existing files skipped); generation script saved to `0-INBOX/verse-context-batch-ch<N>.py`.
+→ [`verse-context-batch/SKILL.md`](verse-context-batch/SKILL.md)
+
+### `root-verse-context-creator` **[exists]**
+**Purpose:** For a Tibetan root text interleaved with a nested sa-bcad (ས་བཅད།) outline, generate a Tibetan contextual summary paragraph for each group of root verses by tracing the full nested outline path — outermost container down to the leaf section — closing with `གཞུང་ཚིག་ཡིན་ནོ།།` in the style of Khenpo Kunpal's sa-bcad commentary.
+**Inputs:** A sa-bcad + root-text (ས་བཅད་རྩ་སྦྱར།) file that interleaves outline headings (`^TOC-…` anchors) with verse blocks; optional single-chapter scope.
+**Outputs:** `2-RAILS/Verses/bo-[chapter]-ས་བཅད་གཞིར་བཟུང་རྩ་ཚིག་ངོས་འཛིན།.md` with each verse group quoted verbatim followed by its outline-path summary paragraph.
+→ [`root-verse-context-creator/SKILL.md`](root-verse-context-creator/SKILL.md)
+
 ---
 
 ## Translation requirements skills
@@ -159,21 +183,46 @@ These skills populate `2-RAILS/` with the structured context that translation an
 **Rules:** Translate small batches only — one or a few TOC nodes at a time. Every keyword rendering must match the per-track termbase. Introduce no new rendering without first adding it to the termbase and feeding it back into the consolidated bilingual glossary.
 → `translate-section/SKILL.md` *(to be written)*
 
+### `translate-zero-shot` **[exists]**
+**Purpose:** Produce a full BCA translation track directly from `1-SOURCES/` when verse rails are not yet `status: complete`. Tibetan (`bo-བློ་ལྡན་ཤེས་རབ།.md`) is the meaning base, Sanskrit (`BCAV08_SH_sk.md`) the disambiguation reference, and three block-aligned human translations (Padmakara, Wallace, Choephel) the per-verse triangulation witnesses: consensus confirms a reading, splits are resolved from the Sanskrit and flagged.
+**Inputs:** Target language, audience level (`children` / `plain` / `scholar`), optional chapter scope.
+**Outputs:** Track folder `3-TRANSFORMATIONS/Translations/<lang>-<audience>-audience/` with `requirements.md`, `audience.md`, an evidence-built `termbase.md` (each rendering cites attested witness renderings at a block ID), one `Chapter-NN.md` per chapter, and a merged full-text file built by `scripts/merge_chapters.py`.
+**Rules:** Rails-complete verses use the rails; existing track contracts are read, never overwritten or re-seeded; all output stays `status: draft`; termbase renderings are locked, append-only; `translation-qa` is required before handoff.
+→ [`translate-zero-shot/SKILL.md`](translate-zero-shot/SKILL.md)
+
 ### `verse-commentary-summarizer` **[exists]**
 **Purpose:** Generate a verse-specific summary file by extracting explanations from provided commentaries, summarizing each commentary, and creating a combined synthesis.
 **Inputs:** Verse ID, list of commentary files, output path/track.
 **Outputs:** A summary file under `3-TRANSFORMATIONS/Translations/<track>/Verses/<verse-id>.md`.
 → [`verse-commentary-summarizer/SKILL.md`](4-SYSTEM/Skills/verse-commentary-summarizer/SKILL.md)
 
+### `translate-commentary-ai` **[exists]**
+**Purpose:** Translate a source commentary (Tibetan or other) into the target language using the track's AI-translation `requirements.md`, `termbase.md`, and the relevant `2-RAILS/Sections/` synthesis for terminological consistency and philosophical fidelity. Every termbase-locked lemma is rendered exactly as specified; no unauthorized synonyms.
+**Inputs:** The source commentary; `3-TRANSFORMATIONS/Translations/en-ai/requirements.md` + `termbase.md`; section summaries under `2-RAILS/Sections/`.
+**Outputs:** A new AI-generated translation file in `3-TRANSFORMATIONS/Translations/` with `AI-generated` in the filename and complete YAML frontmatter.
+→ [`translate-commentary-ai/SKILL.md`](translate-commentary-ai/SKILL.md)
+
+### `bo-en-translate` **[exists]**
+**Purpose:** Translate BCA source text (Tibetan, or the base English verse translation) into **graded English** at a specified audience level (beginner / general / intermediate / advanced), enforcing term consistency via a pre-built keyword termbase. Scans the source for recognised terms, locks their English equivalents at the target register, and outputs one line per verse followed by its block ID.
+**Inputs:** Source text (Tibetan or base English), target audience grade, optional verse IDs, optional output path.
+**Outputs:** A clean graded-English markdown file (one line per verse + block ID); optionally saved to `3-TRANSFORMATIONS/Translations/`.
+→ [`english-translation/bo-en-translate-skill.md`](english-translation/bo-en-translate-skill.md)
+
+### `generate-modern-chinese` (`spyodjug-zh-plain-chinese`) **[exists]**
+**Purpose:** Generate plain written-Chinese (白話) translations for the `zh-plain-chinese` track, triangulating the Tibetan root against the Padmakara English translation and following all rules in the track's `requirements.md`, `audience profile.md`, and `termbase.md`.
+**Inputs:** Day number or verse range; `3-TRANSFORMATIONS/Translations/zh-plain-chinese/` contracts; Tibetan root `bo-བློ་ལྡན་ཤེས་རབ།.md`; Padmakara English; Gyaltsab and Dalai Lama Chinese commentaries.
+**Outputs:** Day files under `3-TRANSFORMATIONS/Translations/zh-plain-chinese/days/`; termbase updates as needed.
+→ [`generate-modern-chinese/SKILL.md`](generate-modern-chinese/SKILL.md)
+
 ---
 
 ## Translation QA skills
 
-### `translation-qa` **[planned]**
+### `translation-qa` **[exists]**
 **Purpose:** Review a translated section against the MQM translation error taxonomy, the track requirements, and the source rails.
 **Inputs:** Translated section(s); `requirements.md`; `termbase.md`; relevant `2-RAILS/` files.
 **Outputs:** Appended entries in `3-TRANSFORMATIONS/Translations/<track-name>/qa-report.md`. Each entry records: the segment, MQM error category, severity (critical / major / minor), and a suggested correction.
-→ `translation-qa/SKILL.md` *(to be written)*
+→ [`translation-qa/SKILL.md`](translation-qa/SKILL.md)
 
 ### `style-consistency-check` **[planned]**
 **Purpose:** Catch style drift over long texts — creeping changes in register, sentence length, verse formatting, list handling, term gloss style.
@@ -182,10 +231,16 @@ These skills populate `2-RAILS/` with the structured context that translation an
 → `style-consistency-check/SKILL.md` *(to be written)*
 
 ### `commentary-fact-check` **[exists]**
-**Purpose:** Fact-check the graded English BCA translation (`3-TRANSFORMATIONS/Translations/bo-en-translation/bca-en-<grade>.md`) verse by verse against Khenpo Zhenga's Tibetan interlinear annotation commentary (`1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md`), one grade and one chapter (or range) at a time. Unlike `translation-qa` (which scores against `2-RAILS/` rails), this checks directly against the commentary's own content — similes, named sutras/entities, enumerations — since it transcludes and explains the whole root text.
-**Inputs:** Grade (`beginner`/`general`/`advanced`); scope (chapter number or `colophon`, defaults to the next unchecked chapter per the report's progress table).
-**Outputs:** Appended verdict tables (✓/⚠ per verse) in `3-TRANSFORMATIONS/Translations/bo-en-translation/commentary-fact-check-report.md`, with a progress table tracking which chapters are checked per grade. Bundles `scripts/extract_commentary.py` (splits the commentary on its transclusion markers into per-verse passages) and `scripts/extract_translation.py` (parses a graded translation file into per-verse text).
+**Purpose:** Audit an English BCA translation verse by verse against any Tibetan commentary that transcludes the root text, using strict **term-by-term alignment** (not a gist check): for each content word the commentary explicitly glosses, map Tibetan lemma → commentary gloss → English word and flag where the English names the wrong thing — kāya/dharma/mind swaps, precise terms softened to vague synonyms, wrong named entities, wrong number/scope, wrong simile tenor, wrong agent, wrong enumeration order — even when it reads fluently. Includes a second sweep scoped to the highest-miss classes (doctrinal-category swaps, named entities, numbers).
+**Inputs:** Commentary path (e.g. `BCAC14_NTS_bo_segmented.md`, `BCAC19_KS_bo.md`); translation-file path (e.g. `bca-en-plain.md` or a graded `bca-en-<grade>.md`); a bounded scope (chapter, `colophon`, or explicit verse range — never the whole text).
+**Outputs:** Appended per-verse tables (ERROR / MISMATCH / softening rows with Tibetan + gloss + fix) in `<translation-dir>/commentary-fact-check-report-<commentary-id>-<translation-name>.md`, one report per commentary×translation pair. Bundles `scripts/extract_commentary.py` (splits the commentary on its transclusion markers into per-verse passages) and `scripts/extract_translation.py` (parses a translation file into per-verse text).
 → [`commentary-fact-check/SKILL.md`](commentary-fact-check/SKILL.md)
+
+### `commentary-fact-check-apply-fixes` **[exists]**
+**Purpose:** Apply the ⚠ discrepancies already logged in a grade's `commentary-fact-check-report-<grade>.md` to the graded English translation (`bca-en-<grade>.md`), one grade and one chapter/range at a time, then re-run `commentary-fact-check` on that range to confirm the fix landed. Companion editing pass to `commentary-fact-check` (which only reports, never edits). Applies **only mechanical corrections** with an unambiguous replacement (wrong named entity, wrong number, dropped content, inconsistent locked rendering); any row requiring interpretive judgment is left untouched and surfaced to the human.
+**Inputs:** A `commentary-fact-check-report-<grade>.md`; the translation file `bca-en-<grade>.md`; a bounded scope (chapter or range).
+**Outputs:** Edits applied in place to `bca-en-<grade>.md`; a re-verification run over the same range; a list of judgment-call rows deferred to the human.
+→ [`commentary-fact-check-apply-fixes/SKILL.md`](commentary-fact-check-apply-fixes/SKILL.md)
 
 ---
 
@@ -352,3 +407,45 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 **Inputs:** Source text (English or Tibetan), target audience grade, optional verse IDs, optional output path.
 **Outputs:** Vietnamese translation at the target grade with a locked-term table; optionally saved to `3-TRANSFORMATIONS/Translations/vi-<grade>/`.
 → [`vietnamese-translation/bo-vi-translate-skill.md`](vietnamese-translation/bo-vi-translate-skill.md)
+
+### `365-day-practice-plan-generator` (`bca-practice-plan`) **[exists]**
+**Purpose:** Generate a complete single-day BCA (སྤྱོད་འཇུག) practice-plan session document in the traditional **6-section** format, in **Tibetan**. The Tibetan-stream counterpart of `en-365-day-practice-plan-generator`: fixed refuge/bodhicitta opening, day-specific motivation, the assigned verses, commentary and application, fixed dedication/aspiration closing.
+**Inputs:** Day number (1–365); chapter + verse range (or looked up from the `bo` schedule); commentary language (default Tibetan).
+**Outputs:** A Tibetan-language day file for the Bodhisattva Challenge `bo` stream, built from the root text and matching `2-RAILS/Verses/<verse-id>-summary.md` files.
+→ [`365-day-practice-plan-generator/SKILL.md`](365-day-practice-plan-generator/SKILL.md)
+
+### `Daily-Challenge-Creator` (`daily-challenge-creator`) **[exists]**
+**Purpose:** Generate one concrete trilingual daily practice (ལག་ལེན) and explanation (འགྲེལ་བཤད) per BCA verse, reading all four lines as a whole to identify the central teaching, in Tibetan → English → Hindi.
+**Inputs:** One or more སྤྱོད་འཇུག verses.
+**Outputs:** For each verse, a ལག་ལེན practice and an འགྲེལ་བཤད explanation in all three languages, grouped beneath the verse.
+→ [`Daily-Challenge-Creator/SKILL.md`](Daily-Challenge-Creator/SKILL.md)
+
+### `dharma-verse-practice` **[exists]** (packaged `.skill`)
+**Purpose:** Turn Bodhicaryāvatāra verses into concrete, actionable trilingual daily practices (ལག་ལེན) and explanations (འགྲེལ་བཤད) in Tibetan, English, and Hindi. Packaged, distributable variant of `Daily-Challenge-Creator`, shipped as a zipped `.skill` archive.
+**Inputs:** One or more BCA verses (Tibetan or otherwise).
+**Outputs:** Per-verse practice + explanation in three languages.
+→ `dharma-verse-practice.skill` (zip archive containing `dharma-verse-practice/SKILL.md`)
+
+### `english-plan-evaluator` **[exists]**
+**Purpose:** QA companion to `english-plan-generator` — grade one already-written English Bodhisattva Challenge day file against every generator rule (grounding/fidelity, structure, voice, notification format). Reports pass/fail per criterion with the offending text quoted and a suggested fix; does not rewrite the day.
+**Inputs:** A day file under `…/en/Days/`; the source rails it was built from (verse rails, liturgy asset, verse text, schedule).
+**Outputs:** A scorecard with PASS/FAIL/N-A and severity per criterion; a day with any critical issue cannot be marked complete.
+→ [`english-plan-evaluator/SKILL.md`](english-plan-evaluator/SKILL.md)
+
+### `english-plan-from-tibetan` **[exists]**
+**Purpose:** Generate a single-day English Bodhisattva Challenge session for verses that have **no** English source commentary (Chapter 2 onward), working from a user-provided English translation of the Tibetan day plan plus vault sources that do exist. Same six-section output and voice rules as `english-plan-generator`; produces options (a/b/c).
+**Inputs:** The English translation of the bo day plan (pasted/attached); day number, chapter, verse range; the published Choephel English translation; the Tibetan root; the three chapter-covering Tibetan commentaries; the bo plan file; nearby day files.
+**Outputs:** An English day file (options) under the `en` stream, grounded traceably in the supplied translation and Tibetan commentaries; `generation_note` flags that it was built without English rails and needs specialist review.
+→ [`english-plan-from-tibetan/SKILL.md`](english-plan-from-tibetan/SKILL.md)
+
+### `spyodjug-zh-summary` **[exists]** (packaged `.skill`)
+**Purpose:** For each day of the BCA 365-day recitation plan, generate a plain-Chinese (白話) verse summary based on Ven. Longlian's (隆蓮法師) translation, and save it to the Obsidian `zh-daily-summary` folder. Packaged as a zipped `.skill` archive.
+**Inputs:** The day's Tibetan verses (from the spyod-jug-365 plan); Longlian's Chinese translation; day number.
+**Outputs:** A concise plain-Chinese summary markdown file in the `zh-daily-summary` folder.
+→ `spyodjug-zh-summary.skill` (zip archive containing `spyodjug-zh-summary/SKILL.md`)
+
+---
+
+## Catalog maintenance note
+
+`plan-day-feedback-revision` **[listed above but no directory on disk]** — the entry under "Vault-specific skills" links to `plan-day-feedback-revision/SKILL.md`, but no such folder currently exists under `4-SYSTEM/Skills/`. Either the skill was removed/renamed or never committed. A human contributor should restore the skill or remove its catalog entry.

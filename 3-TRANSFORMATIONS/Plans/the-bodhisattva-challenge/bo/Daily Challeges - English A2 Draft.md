@@ -14,8 +14,9 @@
 **འགྲེལ་བཤད།** ཚིགས་བཅད་འདིར། དད་པའི་ཤུགས་ཀྱིས་གདམས་ངག་གཞན་ལ་སྤེལ་བ་ནི། སྐལ་བ་མཉམ་པའི་མི་རྣམས་ལ་ཕན་ཐོགས་པའི་ཐབས་ཚུལ་ཡིན་པར་གསུངས། དེ་ལྟ་བུའི་ཕན་སེམས་ཀྱིས་གདམས་ངག་སྤེལ་བ་ནི། དེ་རིང་གི་དགེ་སྒྲུབ་ཀྱི་ལག་ལེན་དངོས་ཡིན།
 
 **English (A2 draft):**
-**Practice**: Today I will share a Dharma teaching or a good quote with one person.
-**Explanation**: This verse talks about sharing good teachings. We do this because we have faith. It helps other people like us. Today, when you share something good, you do exactly what this verse says.
+Practice: Today, I will share a Dharma teaching or an inspiring thought with at least one person.
+
+Explanation: This verse is about the power of sharing wisdom. It explains that sharing good teachings with a kind heart not only strengthens our own faith, but also helps others who are on a similar path in life. By sharing a meaningful thought with someone today, you are putting this positive idea into action.
 
 **Hindi:**
 **अभ्यास**: आज मैं कम से कम एक व्यक्ति के साथ एक धर्म-शिक्षा या प्रेरक विचार साझा करूँगा।

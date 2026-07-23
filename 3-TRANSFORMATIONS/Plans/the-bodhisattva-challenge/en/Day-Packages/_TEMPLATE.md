@@ -1,5 +1,7 @@
 # Day-Package Format — LOCKED CONTRACT (English)
 
+> 🔒 **PROTECTED — SOURCE OF TRUTH.** This file is consumed by the assistant / plan pipeline. Do **not** edit, move, rename, or delete it without explicit human confirmation. **If you are an AI assistant:** stop and ask the user to confirm before making any change. See `4-SYSTEM/CLAUDE.md` → “Protected files.”
+
 This is the authoritative format for every English day-package file under
 `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/`.
 
@@ -48,10 +50,16 @@ files, that is a one-line change to the tool.
 
 ---
 
-## File naming
+## File naming & location
 
-`Chapter-<N> D<first>-D<last>/<day>-en.md` — e.g. `Chapter-1 D1-D14/1-en.md`.
-(The `.md` without `-en` is the Tibetan/Sanskrit source-of-record; `-en` is the English package.)
+Two parallel folders:
+
+- **Tibetan source packages** (source-of-record): `Day-Packages/Chapter-<N> D<first>-D<last>/<day>.md`
+- **English translations**: `Day-Packages-EN/Chapter-<N> D<first>-D<last>/<day>-en.md`
+
+e.g. `Day-Packages/Chapter-1 D1-D14/1.md` (Tibetan) → `Day-Packages-EN/Chapter-1 D1-D14/1-en.md` (English).
+
+Shared docs (`_TEMPLATE.md`, `_TERMBASE.md`) live in `Day-Packages/`.
 
 ---
 
@@ -136,11 +144,11 @@ Each anchor sits on the line **immediately before** its heading (no blank betwee
 <!-- sub:commentary -->
 #### Commentary Explanations
 <!-- cm:<shortid> -->
-##### <shortid> — <Name> (<Work>)
+##### <Name> (<Work>)
 <!-- sub:stories -->
 #### Stories and Illustrations              (optional)
 <!-- story:<ID> -->
-##### <ID> — <Title>
+##### <Title>
 <!-- sub:metaphors -->
 #### Metaphors and Examples                 (optional)
 <!-- sub:quotations -->
@@ -174,9 +182,31 @@ Each anchor sits on the line **immediately before** its heading (no blank betwee
 | `sub:teaching-points` | `Main Teaching Points` | yes |
 | `sub:key-terms` | `Key Terms` | yes |
 | `sub:synthesis` | `Verse Synthesis (overview)` | yes |
+| `sub:divergences` / `div:divergences` | `Divergences` (may be prefixed `⚑`) | only if present |
 
 Commentator H5 anchors are `cm:<shortid>` (e.g. `cm:kunpal`); story H5 anchors are
-`story:<ID>` (e.g. `story:BCAC13_KTB`). The shortid is the token before the em dash.
+`story:<ID>` (e.g. `story:BCAC13_KTB`). **The machine id lives in the anchor, not in
+the visible heading.** The H5 heading itself is display-only — just the reader-facing
+name and work, e.g. `##### His Holiness the Dalai Lama (Teaching on Entering the
+Bodhisattva's Way of Life)`. The parser reads the id from the `cm:`/`story:` anchor on
+the preceding line; the validator errors if that anchor is missing. (Story H5s may still
+carry their `<ID> — ` prefix in the heading; that is tolerated but the id is still taken
+from the anchor.)
+A `Divergences` block (where the commentaries disagree, per the vault's non-flattening
+rule) may appear as an H4 (`sub:divergences`) or nested H5 (`div:divergences`).
+
+**Commentator order (locked).** Within `Commentary Explanations`, His Holiness the Dalai
+Lama's commentary — `tenzin-gyatso` — comes **first**; the remaining commentators follow
+in their source order. The generator must place `tenzin-gyatso` first; to enforce or
+re-apply this after any regeneration, run:
+
+```
+python3 4-SYSTEM/scripts/day-package/reorder_commentators.py <file.md>
+```
+
+(`reorder_commentators.py` moves the `tenzin-gyatso` block to the top of every
+Commentary Explanations section; it is idempotent and works on both the English and
+Tibetan packages. Story/Divergences H5 blocks and other sections are untouched.)
 
 ---
 

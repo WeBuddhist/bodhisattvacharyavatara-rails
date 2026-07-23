@@ -82,7 +82,7 @@ status: draft
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^2-22]])
 
-### ⚑ བར་འབྱོར་གྱི་མི་མཐུན་པ། (Divergences)
+### ⚑ འགྲེལ་ཚུལ་མི་མཐུན་པ། (Divergences)
 
 - **gyaltsab / tenzin-gyatso:** ཤོ་ལོ་ཀ་འདི་ཡན་ཆད་ཀྱིས་མཆོད་པའི་ཡན་ལག་མཇུག་བསྡུས་ཏེ་དེའི་རྗེས་སུ་"གཉིས་པ་ཕྱག་འཚལ་བ" དངོས་སུ་བརྩམས་པར་བཤད། རྒྱལ་ཚབ་ཀྱིས་ཤོ་ལོ་ཀ་འདིའི་རྗེས་སུ་མངོན་སུམ་དུ་"གཉིས་པ་ཕྱག་འཚལ་བ་ལ་གཉིས།" ཞེས་མཚན་བྱང་བཀོད་ལ། རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོས་"འདི་ཡན་ཆད་མཆོད་པའི་ཡན་ལག་གོ" ཞེས་མངོན་སུམ་དུ་གསུངས། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^2-22]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^2-22]]) ⚑
 - **minyak-kunzang-sonam / khenpo-kunga:** ཤོ་ལོ་ཀ་འདིའི་རྗེས་སུ་"ལྔ་པ་བསྟོད་པ་དབྱངས་ཀྱི་མཆོད་པ་ནི།" ཞེས་མཚན་བྱང་བཀོད་དེ། མཆོད་པའི་ཡན་ལག་གི་ནང་ཚན་ལྔ་པ་(བསྟོད་པ་དབྱངས་ཀྱི་མཆོད་པ) སླེབས་མེད་པར་མཆོད་པའི་ཡན་ལག་ད་དུང་མཇུག་མ་བསྡུས་པར་སྣང་། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^2-22]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-22]]) ⚑

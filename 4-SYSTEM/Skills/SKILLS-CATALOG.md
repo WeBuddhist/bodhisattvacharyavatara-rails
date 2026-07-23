@@ -444,6 +444,18 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 **Outputs:** A concise plain-Chinese summary markdown file in the `zh-daily-summary` folder.
 → `spyodjug-zh-summary.skill` (zip archive containing `spyodjug-zh-summary/SKILL.md`)
 
+### `day-package-pipeline` **[exists]**
+**Purpose:** Build one Bodhisattva-Challenge day-package end to end — assemble the Tibetan source-of-record file from the verse rails, plan day file, and schedule; translate it into the English package; then enforce the locked format (display-only commentator headings, His-Holiness-first order, per-section provenance) with the validator, conform, reorder, and drift-guard tools.
+**Inputs:** Day number + chapter; `schedule-hhdl-birthday.md`; the per-verse rails (`2-RAILS/Verses/*-summary.md`); the plan day file under `en/Days/`; the Plain-English verse text; `_TEMPLATE.md`; `_TERMBASE.md`; the `4-SYSTEM/scripts/day-package/` tooling.
+**Outputs:** A matched pair of protected files — `Day-Packages/…/<day>.md` (Tibetan source-of-record) and `Day-Packages-EN/…/<day>-en.md` (English translation) — that pass `day_package_tools.py validate`, with the guard re-baselined.
+→ [`day-package-pipeline/SKILL.md`](day-package-pipeline/SKILL.md)
+
+### `Himalayan-Plan-Transformer` **[exists]**
+**Purpose:** Restructure a Himalayan-track day-plan file from the legacy 6-section Tibetan layout into the standardized 4-section layout — root verses and commentary moved to the top, refuge/bodhicitta/dedication merged into one combined section (with ཚད་མེད་བཞི dropped and a plain-verse རྩ་ཚིག subsection added), ངོ་སྤྲོད retired, the closing practice section renamed ལག་ལེན and reordered, and the རྩ་ཚིག་ངོས་འཛིན sub-heading populated by tracing each root verse to its matching-chapter ས་བཅད outline source under `bo-ཀུན་དཔལ།_རྩ་བའི་ས་བཅད་ངོས་འཛིན།/`.
+**Inputs:** One target file under `3-TRANSFORMATIONS/Plans/Himalayan/<chapter-folder>/`; human confirmation on what to do with any non-empty ངོ་སྤྲོད paragraph. (No separate input needed for verse identification — the matching chapter file is selected automatically from the target's own `Ch<C>` filename segment.)
+**Outputs:** The same file, overwritten in place with the four-section structure; trailing Hindi/English content preserved byte-for-byte.
+→ [`Himalayan-Plan-Transformer/SKILL.md`](Himalayan-Plan-Transformer/SKILL.md)
+
 ---
 
 ## Catalog maintenance note

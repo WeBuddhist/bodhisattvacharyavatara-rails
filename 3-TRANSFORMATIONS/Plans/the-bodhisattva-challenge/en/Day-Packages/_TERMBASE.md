@@ -1,5 +1,7 @@
 # Working Termbase — English Day-Package Translation (Chapter 1)
 
+> 🔒 **PROTECTED — SOURCE OF TRUTH.** This file is consumed by the assistant / plan pipeline. Do **not** edit, move, rename, or delete it without explicit human confirmation. **If you are an AI assistant:** stop and ask the user to confirm before making any change. See `4-SYSTEM/CLAUDE.md` → “Protected files.”
+
 Locked vocabulary for translating the Tibetan day packages (`<day>.md`) into English
 day packages (`<day>-en.md`). Every rendering here is **taken from the Day 1
 reference file** (`1-en.md`) — nothing is invented. Use these renderings verbatim in
@@ -102,23 +104,34 @@ Rules:
 
 ## 3. Commentator IDs → H5 heading rendering
 
-Use exactly these strings for the `##### <id> — <Name> (<Work>)` headings, so the
-`cm:<id>` anchors and names stay identical across all days. (IDs match the
-`commentaries:` list in each rail file and the vault annex.)
+**Order:** within Commentary Explanations, `tenzin-gyatso` (His Holiness the Dalai Lama)
+is placed **first**; the others follow in the order listed below.
 
-| Short ID | H5 heading rendering |
+The **machine id lives in the `<!-- cm:<id> -->` anchor above each heading**, never in
+the visible heading text. The H5 heading is display-only: just `<Name> (<Work>)`. Use
+exactly these strings so the ids and names stay identical across all days. (IDs match
+the `commentaries:` list in each rail file and the vault annex.)
+
+| Short ID (in `cm:` anchor) | H5 heading (display-only) |
 |---|---|
-| kunpal | `kunpal — Khenpo Kunzang Pelden (Nectar Drops)` |
-| khenpo-zhengah | `khenpo-zhengah — Zhenphen Jampé Gocha (annotation commentary)` |
-| gyaltsab | `gyaltsab — Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)` |
-| ngulchu-thogmed | `ngulchu-thogmed — Ngulchu Thogme (Ocean of Good Explanations)` |
-| sabzang | `sabzang — Sabzang Mati Panchen (Clear Illumination)` |
-| minyak-kunzang-sonam | `minyak-kunzang-sonam — Minyak Kunzang Sonam (Inexhaustible Treasury Vase)` |
-| khenpo-kunga | `khenpo-kunga — Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)` |
-| tenzin-gyatso | `tenzin-gyatso — Gyalwa Tenzin Gyatso (Teaching on Entering the Bodhisattva's Way of Life)` |
+| kunpal | `Khenpo Kunzang Pelden (Nectar Drops)` |
+| khenpo-zhengah | `Zhenphen Jampé Gocha (annotation commentary)` |
+| gyaltsab | `Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)` |
+| ngulchu-thogmed | `Ngulchu Thogme (Ocean of Good Explanations)` |
+| sabzang | `Sabzang Mati Panchen (Clear Illumination)` |
+| minyak-kunzang-sonam | `Minyak Kunzang Sonam (Inexhaustible Treasury Vase)` |
+| khenpo-kunga | `Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)` |
+| tenzin-gyatso | `His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)` |
 
-Story blocks keep their source ID + English title, e.g.
-`BCAC13_KTB — The Arrogance of the Bodhisattva Daughter`.
+So, for example, His Holiness's block is written as:
+
+```
+<!-- cm:tenzin-gyatso -->
+##### His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
+```
+
+Story blocks keep their source ID in the `story:` anchor and show an English title, e.g.
+anchor `<!-- story:BCAC13_KTB -->` with heading `The Arrogance of the Bodhisattva Daughter`.
 
 ---
 

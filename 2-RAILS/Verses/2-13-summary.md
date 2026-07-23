@@ -86,7 +86,7 @@ status: draft
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^2-13]])
 
-### ⚑ བར་འབྱོར་གྱི་མི་མཐུན་པ། (Divergences)
+### ⚑ འགྲེལ་ཚུལ་མི་མཐུན་པ། (Divergences)
 
 - **minyak-kunzang-sonam:** ཚིག་འདིའི་གཞུང་ལ་"མ་ཕམ་ཀུན་ཏུ་བཟང་དང་འཇམ་དབྱངས་དང་" ཞེས་པའི་ཡིག་ཆ་གཞན་ཡང་ཡོད་པར་གསལ་བཀོད། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^2-13]]) ⚑
 - **gyaltsab / sabzang:** "སོགས" ཞེས་པའི་ནང་ཚན་དུ་"མི་ཕམ་པ" ཡང་ན་"མི་ཕམ་མགོན་པོ" ཞེས་པ་ཐད་ཀར་བཀོད་དེ་བརྒྱན་ཡུལ་གྱི་གྲངས་སུ་བསྣན། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^2-13]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^2-13]]) ⚑

@@ -132,6 +132,9 @@ edit_policy: "confirm-with-human-before-edit-move-delete"
 #### Key Terms
 <!-- sub:synthesis -->
 #### Verse Synthesis (overview)
+**Brief introduction.** <one-paragraph overview>
+**Key points.**
+- <condensed recap bullets — mirror the Main Teaching Points>
 
 Sources: [[1-SOURCES/…]]      # one consolidated line per leaf section that has sources
 ```
@@ -145,6 +148,7 @@ Key format invariants (full list in `_TEMPLATE.md`):
 - A **Divergences** H5, if present, must have a heading that **starts with the word "Divergences"** (a leading `⚑` is allowed, e.g. `##### ⚑ Divergences (where the commentaries differ)`) and the anchor `<!-- div:divergences -->`. If the heading does not start with "Divergences", the validator treats it as a commentator block and errors. Two Divergences blocks in one file (one per verse) is fine.
 - **Story ids may be placeholders** (e.g. `BCACXX_WR`) and may repeat across two stories in the same verse; keep them as the rail has them — duplicate `story:` anchors pass validation.
 - Provenance is one `Sources: [[…]] [[…]]` line per leaf section; **no** inline `([[…]])` in prose, **no** `![[…]]` transclusions. The Key Terms table keeps its own `Source` column.
+- **Verse Synthesis has two labelled parts, worded exactly** `**Brief introduction.**` (a one-paragraph overview) then `**Key points.**` (a bulleted recap that mirrors the Main Teaching Points). Use these exact labels — do **not** write "Overview" or "Main points", which collide with the separate Main Teaching Points section and can throw off the reader/AI-overview view. This bulleted recap belongs to the synthesis by design; it is not a duplication error.
 - The `### Verse <id>` blocks must exactly cover the `verses:` range in the frontmatter.
 
 ---

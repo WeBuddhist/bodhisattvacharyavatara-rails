@@ -1,6 +1,6 @@
 # ཉིན་ ༡༨ - ཉིན་ ༣༦༥ ཡི་སྤྱོད་འཇུག་སློབ་སྦྱོང།
 
-## སྤྱོད་འཇུག་ལེའུ་གཉིས་པ། ཤློཀ་ ༨ - ༡༠
+## སྤྱོད་འཇུག་ལེའུ་གཉིས་པ། ཤློཀ་ ༨ - ༩
 
 ---
 
@@ -34,7 +34,7 @@
 
 ### ༢། ངོ་སྤྲོད།
 
-དེ་རིང་གི་ཉམས་ལེན་ནི་སྤྱོད་འཇུག་ལེའུ་གཉིས་པའི་ཚིགས་བཅད་བརྒྱད་པ་ནས་བཅུ་པ་བར་གྱི་དགོངས་དོན་ཐོག་ལ་ཡིན། འདིས་རང་གི་ལུས་འདི་སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ལ་ཕུལ་ཏེ་ཁོང་ཚོའི་འབངས་སམ་བྲན་གཡོག་ཏུ་ཁས་ལེན་པ་དང་། སྐྱབས་ཀྱི་མཐུས་འཇིགས་མེད་དུ་གྱུར་ནས་སེམས་ཅན་ལ་ཕན་འདོགས་པ། སྔོན་གྱི་སྡིག་པ་བཤགས་ཤིང་སླད་མར་མི་བྱེད་པའི་དམ་བཅའ། དེ་བཞིན་ཡིད་ཀྱིས་སྤྲུལ་པའི་ཁྲུས་ཁང་གི་མཆོད་པ་བཅས་བསྟན་ཡོད། འདི་ནི་རང་གཅེས་འཛིན་གྱི་ཞེན་པ་བཤིག་ནས་གཞན་དོན་ལ་སྙིང་སྟོབས་ཆེན་པོས་འཇུག་པའི་ཉམས་ལེན་ཞིག་གོ །
+དེ་རིང་གི་ཉམས་ལེན་ནི་སྤྱོད་འཇུག་ལེའུ་གཉིས་པའི་ཚིགས་བཅད་བརྒྱད་པ་དང་དགུ་པའི་དགོངས་དོན་ཐོག་ལ་ཡིན། འདིས་རང་གི་ལུས་འདི་སངས་རྒྱས་དང་བྱང་སེམས་ལ་ཕུལ་ཏེ་ཁོང་ཚོའི་འབངས་སུ་ཁས་ལེན་པ་དང་། སྐྱབས་ཀྱི་མཐུས་འཇིགས་མེད་དུ་གྱུར་ནས་སེམས་ཅན་ལ་ཕན་འདོགས་པ། སྔོན་གྱི་སྡིག་པ་བཤགས་ཤིང་སླད་མར་མི་བྱེད་པའི་དམ་བཅའ་བཅས་བསྟན་ཡོད། འདི་ནི་རང་གཅེས་འཛིན་གྱི་ཞེན་པ་བཤིག་ནས་གཞན་དོན་ལ་སྙིང་སྟོབས་ཆེན་པོས་འཇུག་པའི་ཉམས་ལེན་ཞིག་གོ །
 
 ### ༣། དེ་རིང་གི་རྩ་ཚིག
 
@@ -51,13 +51,6 @@
 > སྲིད་ན་མི་འཇིགས་སེམས་ཅན་ཕན་པ་བགྱིད། །
 > སྔོན་གྱི་སྡིག་ལས་ཡང་དག་འདའ་བགྱིད་ཅིང་། །
 > སྡིག་པ་གཞན་ཡང་སླན་ཆད་མི་བགྱིད་དོ། །[cite: 2]
-
-#### **༡༠. ཤློཀ་བཅུ་པ།** (ལེའུ་ ༢ ཤློཀ་ ༡༠)
-
-> ཁྲུས་ཀྱི་ཁང་པ་ཤིན་ཏུ་དྲི་ཞིམ་པ། །
-> ཤེལ་གྱི་ས་གཞི་གསལ་ཞིང་འཚེར་བ་བསྟར། །
-> རིན་ཆེན་འབར་བའི་ཀ་བ་ཡིད་འོང་ལྡན། །
-> མུ་ཏིག་འོད་ཆགས་བླ་རེ་བྲེས་པ་དེར། །[cite: 2]
 
 ### ༤། འགྲེལ་བཤད།
 
@@ -89,33 +82,34 @@
 
 ## १) आज के अभ्यास का परिचय
 
-आज का अभ्यास _बोधिचर्यावतार_ के दूसरे अध्याय के श्लोक ८ से १० पर आधारित है। यह हमें सिखाता है कि कैसे हम अपने शरीर और जीवन को बुद्ध और बोधिसत्वों की सेवा में समर्पित कर सकते हैं। इसके साथ ही, यह हमें अपने पुराने बुरे कर्मों को छोड़ने, निडर होकर दूसरों की मदद करने, और मानसिक रूप से एक सुंदर, खुशबूदार स्नानघर बनाकर पवित्र शक्तियों की पूजा करने की प्रेरणा देता है। यह स्वार्थ को छोड़कर निडरता से दूसरों की भलाई करने का अभ्यास है।
+आज का अभ्यास _बोधिचर्यावतार_ के दूसरे अध्याय के श्लोक 2-8 और 2-9 पर आधारित है। यह हमें सिखाता है कि कैसे हम अपने शरीर और जीवन को बुद्ध और बोधिसत्वों की सेवा में समर्पित कर सकते हैं। इसके साथ ही, यह हमें अपने पुराने बुरे कर्मों को छोड़ने और निडर होकर दूसरों की मदद करने की प्रेरणा देता है। यह स्वार्थ को छोड़कर निडरता से दूसरों की भलाई करने का अभ्यास है।
 
 ## २) अर्थ और व्याख्या
 
 ये श्लोक हमें अपने शरीर के प्रति मोह और स्वार्थ को छोड़ने का तरीका बताते हैं। आचार्य शांतिदेव कहते हैं कि अगर मेरे पास भेंट करने के लिए कोई संपत्ति नहीं है, तो मैं अपना यह शरीर ही बुद्ध और बोधिसत्वों को हमेशा के लिए अर्पित करता हूँ। मैं अपनी मर्जी से उनका सेवक बनना स्वीकार करता हूँ।
 
-जैसे किसी महान और शक्तिशाली राजा की शरण में जाने पर इंसान को किसी का डर नहीं रहता, वैसे ही पवित्र शक्तियों (बुद्ध और बोधिसत्वों) की शरण में जाने से हम दुनिया के दुखों से निडर हो जाते हैं। फिर हम बिना डरे दूसरों की भलाई कर सकते हैं। इसके बाद हम यह पक्का इरादा करते हैं कि हम अपनी पुरानी गलतियों की माफ़ी मांगेंगे और भविष्य में कभी बुरा काम नहीं करेंगे। अंत में, अपने मन और शरीर की बुराइयों को धोने के लिए, हम कल्पना करते हैं कि क्रिस्टल (स्फटिक) के फर्श, रत्नों के खंभों और मोतियों से सजे एक खुशबूदार स्नानघर में हम पवित्र शक्तियों को स्नान करा रहे हैं।
+जैसे किसी महान और शक्तिशाली राजा की शरण में जाने पर इंसान को किसी का डर नहीं रहता, वैसे ही पवित्र शक्तियों (बुद्ध और बोधिसत्वों) की शरण में जाने से हम दुनिया के दुखों से निडर हो जाते हैं। फिर हम बिना डरे दूसरों की भलाई कर सकते हैं। इसके बाद हम यह पक्का इरादा करते हैं कि हम अपनी पुरानी गलतियों की माफ़ी मांगेंगे और भविष्य में कभी बुरा काम नहीं करेंगे।
 
 ## ३) आज का अभ्यास
 
 **मुख्य अभ्यास:** आज मैं अपने स्वार्थ को छोड़कर, खुद को करुणा का सेवक मानूंगा और बिना किसी परेशानी से डरे किसी की मदद करूंगा।
 
-**व्याख्या:** _(अच्छे कर्म करना)_ आमतौर पर हम अपने शरीर और अपने सुख की इतनी परवाह करते हैं कि थोड़ी सी परेशानी देखकर दूसरों की मदद करने से पीछे हट जाते हैं। लेकिन आज, _बोधिचर्यावतार_ की शिक्षा के अनुसार, मैं अपने शरीर को बुद्ध और बोधिसत्वों की सेवा में सौंपने की भावना रखूंगा। यह सोचकर कि "मैं उनकी शरण में हूँ और मुझे कोई डर नहीं", मैं बहादुरी से दूसरों की मदद करूंगा। इस अभ्यास से मेरा स्वार्थ कम होगा और मेरे अंदर साहस और दयालुता का विकास होगा।
+**व्याख्या:** _(अच्छे कर्म करना — doing good)_ आमतौर पर हम अपने शरीर और अपने सुख की इतनी परवाह करते हैं कि थोड़ी सी परेशानी देखकर दूसरों की मदद करने से पीछे हट जाते हैं। लेकिन आज, _बोधिचर्यावतार_ की शिक्षा के अनुसार, मैं अपने शरीर को बुद्ध और बोधिसत्वों की सेवा में सौंपने की भावना रखूंगा। यह सोचकर कि "मैं उनकी शरण में हूँ और मुझे कोई डर नहीं", मैं बहादुरी से दूसरों की मदद करूंगा। इस अभ्यास से मेरा स्वार्थ कम होगा और मेरे अंदर साहस और दयालुता का विकास होगा।
 
+# English (Easy Plain English)
 
 ## 1) Introduction to Today's Practice
 
-Today's practice is based on verses 8 through 10 from the second chapter of the _Bodhicaryāvatāra_. It teaches us how to offer our bodies and lives to the Buddhas and Bodhisattvas, becoming their willing servants. It also guides us to let go of past mistakes, help others fearlessly, and visualize a beautiful, fragrant bathhouse to make mental offerings. This is a practice of breaking down our selfishness to serve others with courage.
+Today's practice is based on verses 2-8 and 2-9 from the second chapter of the _Bodhicaryāvatāra_. It teaches us how to offer our bodies and lives to the Buddhas and Bodhisattvas, becoming their willing servants. It also guides us to let go of past mistakes and help others fearlessly. This is a practice of breaking down our selfishness to serve others with courage.
 
 ## 2) Commentary Explanation
 
 These verses show us how to overcome our selfish attachment to our own bodies and comfort. Master Shantideva says that even if we have no material wealth, we can offer our entire body to the Buddhas and Bodhisattvas forever. By doing this, we choose to become their subjects or servants—servants of compassion.
 
-Just as someone protected by a powerful king feels no fear of enemies, being protected by these holy beings makes us fearless in the face of life's sufferings. This fearlessness allows us to boldly help others. We also make a strong promise to purify our past mistakes and vow never to repeat them, even at the cost of our lives. Finally, to wash away our own mental and physical impurities, we use our imagination to bathe the Buddhas in a magnificent, sweet-smelling bathhouse decorated with shining crystal floors, jeweled pillars, and a glowing pearl canopy.
+Just as someone protected by a powerful king feels no fear of enemies, being protected by these holy beings makes us fearless in the face of life's sufferings. This fearlessness allows us to boldly help others. We also make a strong promise to purify our past mistakes and vow never to repeat them, even at the cost of our lives.
 
 ## 3) Today's Practice
 
-**Challenge:** Today, letting go of selfishness, I will see myself as a servant of compassion and fearlessly do one good deed to help someone else.
+**Actual Practice:** Today, letting go of selfishness, I will see myself as a servant of compassion and fearlessly do one good deed to help someone else.
 
-**Explanation:** _(Doing good)_ Normally, we are so attached to our own comfort that we hesitate to help others if it requires effort or causes us slight trouble. Today, following the teachings of the _Bodhicaryāvatāra_, I will imagine that I have offered my body entirely to the service of love and compassion. Guided by the thought, "I am protected and have nothing to fear," I will not shrink away from small difficulties. Instead, I will boldly step up to help someone in need. This practice breaks down our selfish habits and builds deep courage and kindness.
+**Explanation:** _(Doing good — doing good)_ Normally, we are so attached to our own comfort that we hesitate to help others if it requires effort or causes us slight trouble. Today, following the teachings of the _Bodhicaryāvatāra_, I will imagine that I have offered my body entirely to the service of love and compassion. Guided by the thought, "I am protected and have nothing to fear," I will not shrink away from small difficulties. Instead, I will boldly step up to help someone in need. This practice breaks down our selfish habits and builds deep courage and kindness.

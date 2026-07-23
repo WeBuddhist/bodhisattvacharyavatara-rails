@@ -107,7 +107,7 @@ The same file, overwritten in place at its original path: `3-TRANSFORMATIONS/Pla
 
        - **Single verse:** `**[shloka label]་** ནི་སྤྱོད་འཇུག་ལེའུ་[ལེའུ་number spelled out]་པ་ལས་[ས་བཅད heading title, article/particle changes elided as needed]འི་ཚིགས་བཅད་[ordinal, if any]་ཡིན་ནོ།།` — exactly the same shape as a merged group: the label ends with a plain tsheg (`་`, never a shad) inside the bold; the bold then closes, then a space, then ནི་ continues the sentence directly. There is **no** `ཚིགས་བཅད་འདི་ནི` demonstrative clause. The ordinal is stated only if step (c) found more than one verse under the heading (this day-plan verse simply happens to stand alone, unmerged, even though its heading covers several verses); if the heading's block holds only this one verse, the ordinal is omitted entirely and the sentence ends `...ཚིགས་བཅད་ཡིན་ནོ།།`.
 
-       - **Merged group:** `**[joined shloka labels per (d), ending in a trailing ་]** ནི་སྤྱོད་འཇུག་ལེའུ་[ལེའུ་number spelled out]་པ་ལས་[ས་བཅད heading title]འི་ཚིགས་བཅད་[ordinals per (d)]་ཡིན་ནོ།།` — the joined labels end with a plain tsheg (`་`, never a shad) still inside the bold; the bold then closes, then a space, then ནི་ continues the sentence directly. There is **no** `ཚིགས་བཅད་འདི་[གཉིས་/གསུམ་/...]ནི` demonstrative clause in a merged group — the joined labels themselves are the sentence's subject, and ནི་ is the only thing that follows the closing bold. Ordinals are always stated for a merged group, never omitted.
+       - **Merged group:** `**[joined shloka labels per (d), ending in a trailing ་]** [ནི་ / གཉིས་ནི་ / རྣམས་ནི་]སྤྱོད་འཇུག་ལེའུ་[ལེའུ་number spelled out]་པ་ལས་[ས་བཅད heading title]འི་ཚིགས་བཅད་[ordinals per (d)]་ཡིན་ནོ།།` — the joined labels end with a plain tsheg (`་`, never a shad) still inside the bold; the bold then closes, then a space, then the count-particle continues the sentence directly. There is **no** `ཚིགས་བཅད་འདི་[གཉིས་/གསུམ་/...]ནི` demonstrative clause in a merged group — the joined labels themselves are the sentence's subject. **The particle depends on the group size, never a flat `ནི་`:** exactly two verses take `གཉིས་ནི་`; three or more verses (regardless of how many) take `རྣམས་ནི་`. (A lone, unmerged single verse — see the Single verse form above — is the only case that takes plain `ནི་`.) Ordinals are always stated for a merged group, never omitted.
 
        Chapter-number spelling (`[ལེའུ་number spelled out]`): དང་པོ (1), གཉིས་པ (2), གསུམ་པ (3), བཞི་པ (4), ལྔ་པ (5), དྲུག་པ (6), བདུན་པ (7), བརྒྱད་པ (8), དགུ་པ (9), བཅུ་པ (10). Ordinal spelling for a verse's position within the heading (`[ordinal]`) follows the same series: དང་པོ (1st), གཉིས་པ (2nd), གསུམ་པ (3rd), བཞི་པ (4th), ལྔ་པ (5th), and so on.
 
@@ -118,10 +118,10 @@ The same file, overwritten in place at its original path: `3-TRANSFORMATIONS/Pla
        `**ཤློཀ་གཉིས་པ་** ནི་སྤྱོད་འཇུག་ལེའུ་གཉིས་པ་ལས་བདག་པོས་ཡོངས་སུ་མ་བཟུང་བའི་མཆོད་པའི་ཚིགས་བཅད་དང་པོ་ཡིན་ནོ།།`
 
        Worked example, merged pair (from the same day-plan's third and fourth verses, shlokas 4 and 5, which are the 3rd and 4th verses under the same heading):
-       `**ཤློཀ་བཞི་པ་དང་ཤློཀ་ལྔ་པ་** ནི་སྤྱོད་འཇུག་ལེའུ་གཉིས་པ་ལས་བདག་པོས་ཡོངས་སུ་མ་བཟུང་བའི་མཆོད་པའི་ཚིགས་བཅད་གསུམ་པ་དང་བཞི་པ་ཡིན་ནོ།།`
+       `**ཤློཀ་བཞི་པ་དང་ཤློཀ་ལྔ་པ་** གཉིས་ནི་སྤྱོད་འཇུག་ལེའུ་གཉིས་པ་ལས་བདག་པོས་ཡོངས་སུ་མ་བཟུང་བའི་མཆོད་པའི་ཚིགས་བཅད་གསུམ་པ་དང་བཞི་པ་ཡིན་ནོ།།`
 
-       Worked example, merged group of four (all four verses tracing to the same heading):
-       `**ཤློཀ་བཅུ་གཅིག་པ་དང་ཤློཀ་བཅུ་གཉིས་པ་དང་ཤློཀ་བཅུ་གསུམ་པ་དང་ཤློཀ་བཅུ་བཞི་པ་** ནི་སྤྱོད་འཇུག་ལེའུ་གཉིས་པ་ལས་ཁྲུས་དང་སྐུ་ཕྱི་སོགས་འབུལ་བའི་ཚིགས་བཅད་དང་པོ་དང་གཉིས་པ་དང་གསུམ་པ་དང་བཞི་པ་ཡིན་ནོ།།`
+       Worked example, merged group of four (all four verses tracing to the same heading — three or more always takes རྣམས་ནི་, regardless of exactly how many):
+       `**ཤློཀ་བཅུ་གཅིག་པ་དང་ཤློཀ་བཅུ་གཉིས་པ་དང་ཤློཀ་བཅུ་གསུམ་པ་དང་ཤློཀ་བཅུ་བཞི་པ་** རྣམས་ནི་སྤྱོད་འཇུག་ལེའུ་གཉིས་པ་ལས་ཁྲུས་དང་སྐུ་ཕྱི་སོགས་འབུལ་བའི་ཚིགས་བཅད་དང་པོ་དང་གཉིས་པ་དང་གསུམ་པ་དང་བཞི་པ་ཡིན་ནོ།།`
 
     f. **If a verse's text cannot be located anywhere in the matching chapter file**, stop and report the discrepancy to the human contributor rather than guessing or leaving the line silently blank.
 

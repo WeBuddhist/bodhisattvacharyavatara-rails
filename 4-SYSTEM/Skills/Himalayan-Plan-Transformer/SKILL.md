@@ -1,5 +1,5 @@
 ---
-name: Himalayan-Plan-Transformer
+name: himalayan-plan-transformer
 description: Restructure a Himalayan-track day-plan file from the legacy 6-section Tibetan layout into the standardized 4-section layout — root verses and commentary moved to the top, refuge/bodhicitta/dedication merged into one combined section, ངོ་སྤྲོད retired, the closing practice section renamed and reordered, fixed sub-headings added under the commentary and practice sections, the root-verse identification sub-heading (རྩ་ཚིག་ངོས་འཛིན) populated by tracing each verse to its matching-chapter ས་བཅད outline source, and stray "(ལན་N)" repeat-count annotations stripped — while leaving all Hindi/English content untouched.
 ---
 
@@ -12,7 +12,7 @@ This skill rebuilds the Tibetan section structure of a single Himalayan-track da
 ## Inputs
 
 - **Target file path** — one day-plan file under `3-TRANSFORMATIONS/Plans/Himalayan/<chapter-folder>/Day-<N>-Ch<C>-V<range>.md`, currently in the legacy 6-section format (see Rule 11 for the expected shape).
-- **Disposition of ༢། ངོ་སྤྲོད། content** — if that section is non-empty in the source file, the human contributor must say whether to delete the paragraph outright or fold it into another section (e.g. འགྲེལ་བཤད or དེ་རིང་གི་ཉམས་ལེན/ལག་ལེན) before this skill proceeds. Never assume; ask every time the section is non-empty, since the answer may differ file to file.
+- **Disposition of ༢། ངོ་སྤྲོད། content** — if that section is non-empty in the source file, the human contributor must say whether to delete the paragraph outright or fold it into another section (e.g. ༢། བྱང་ཆུབ་སེམས་དཔའི་སློབ་སྦྱོང་ or ༤། བྱང་ཆུབ་སེམས་དཔའི་ལག་ལེན) before this skill proceeds. Never assume; ask every time the section is non-empty, since the answer may differ file to file.
 - **No separate input needed for root-verse identification** — the source-of-truth folder for this is fixed: `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/bo/bo-ཀུན་དཔལ།_རྩ་བའི་ས་བཅད་ངོས་འཛིན།/`. The specific chapter file inside it (`bo-Ch<N>-...ས་བཅད་གཞིར་བཟུང་རྩ་ཚིག་ངོས་འཛིན...md`) is selected automatically per Rule 14, matched to the target day-plan's own chapter number (from its `Ch<C>` filename segment). Do not default to the ལེའུ་གཉིས་པ (Ch2) file for a day-plan from a different chapter — always match `<N>` to the target file's chapter.
 
 ## Output
@@ -30,11 +30,11 @@ The same file, overwritten in place at its original path: `3-TRANSFORMATIONS/Pla
 
 ---
 
-### ༡། དེ་རིང་གི་རྩ་ཚིག
+### ༡། སྤྱོད་འཇུག <chapter short title, e.g. སྡིག་བཤགས་ལེའུ།> <chapter number>:<verse range, e.g. 1-3>
 
 <the day's root verses, verbatim from the source's root-verse section — shloka headers, chapter/verse annotations, and [cite: N] markers all preserved; any "(ལན་N)" repeat-count annotation stripped>
 
-### ༢། འགྲེལ་བཤད།
+### ༢། བྱང་ཆུབ་སེམས་དཔའི་སློབ་སྦྱོང་།
 
 #### **༡. རྩ་ཚིག་ངོས་འཛིན།**
 
@@ -48,7 +48,7 @@ The same file, overwritten in place at its original path: `3-TRANSFORMATIONS/Pla
 
 <the source's commentary prose (whatever was found directly under the legacy ༤། འགྲེལ་བཤད heading, not already split into the three sub-headings above), verbatim — empty if the source's commentary section was empty>
 
-### ༣། སྐྱབས་འགྲོ་སེམས་བསྐྱེད།
+### ༣། བྱང་ཆུབ་སེམས་དཔའི་སེམས་བསྐྱེད།
 
 #### **༡. སྐྱབས་འགྲོ་སེམས་བསྐྱེད།**
 
@@ -62,7 +62,7 @@ The same file, overwritten in place at its original path: `3-TRANSFORMATIONS/Pla
 
 <the source's བསྔོ་བ verse block, then the source's སྨོན་ལམ verse block, verbatim; any "(ལན་N)" repeat-count annotation stripped>
 
-### ༤། དེ་རིང་གི་ལག་ལེན།
+### ༤། བྱང་ཆུབ་སེམས་དཔའི་ལག་ལེན།
 
 #### **༡. ལམ་སྟོན།**
 
@@ -84,8 +84,8 @@ The same file, overwritten in place at its original path: `3-TRANSFORMATIONS/Pla
 3. **The ༢. རྩ་ཚིག subsection is plain-text only.** Reuse the same verses as the top-level root-verse section, in the same order, but strip shloka numbering headers (`#### **༡༡. ཤློཀ་...**`), the `(ལེའུ་ ... ཤློཀ་ ...)` annotation, and every `[cite: N]` marker.
 4. **སྐྱབས་འགྲོ and སེམས་བསྐྱེད verses are combined verbatim, word for word**, under one subsection titled identically to the parent section (སྐྱབས་འགྲོ་སེམས་བསྐྱེད) — except for `(ལན་N)` annotations, which are always stripped (Rule 13).
 5. **བསྔོ་བ and སྨོན་ལམ verses are combined verbatim** under one subsection titled བསྔོ་སྨོན། — except for `(ལན་N)` annotations, which are always stripped (Rule 13).
-6. **འགྲེལ་བཤད content moves as a unit, under a fixed three-subsection scaffold.** The new ༢། འགྲེལ་བཤད section always contains exactly three sub-headings, in this fixed order and exact wording: `#### **༡. རྩ་ཚིག་ངོས་འཛིན།**`, `#### **༢. རྩ་ཚིག་ངོ་སྤྲོད།**`, `#### **༣. རྩ་ཚིག་གནད་དོན།**`. The second and third stay empty when the source's commentary section was empty. If the source's commentary was a single undivided block of prose (not already split under these three labels), that prose goes entirely under the third sub-heading, རྩ་ཚིག་གནད་དོན, leaving the second empty. If the source already had content organized under matching sub-headings (e.g. a prior partial transform), preserve that mapping instead of collapsing everything into the third. **Exception:** the first sub-heading, རྩ་ཚིག་ངོས་འཛིན, is never left empty — it is always freshly populated per Rule 14 regardless of what (if anything) the source carried there.
-7. **Inside the final section, order is swapped, labels are renamed, and a fixed two-subsection scaffold is added.** The new ༤། དེ་རིང་གི་ལག་ལེན section always contains exactly two sub-headings, in this fixed order and exact wording: `#### **༡. ལམ་སྟོན།**`, `#### **༢. ལག་ལེན་དངོས།**` — present even when the source's ཉམས་ལེན section was empty (both then stay empty). The paragraph labeled འགྲེལ་བཤད becomes ལམ་སྟོན and is placed under the first sub-heading; the paragraph labeled ཉམས་ལེན་དངོས becomes ལག་ལེན་དངོས and is placed under the second. Only the bold inline label text at the top level changes — the paragraph body is untouched, and the paragraph's own inline bold label (e.g. "**ལམ་སྟོན།**") is left in place under the sub-heading even though it now repeats the sub-heading's wording; do not strip it.
+6. **འགྲེལ་བཤད content moves as a unit, under a fixed three-subsection scaffold.** The new ༢། བྱང་ཆུབ་སེམས་དཔའི་སློབ་སྦྱོང་ section always contains exactly three sub-headings, in this fixed order and exact wording: `#### **༡. རྩ་ཚིག་ངོས་འཛིན།**`, `#### **༢. རྩ་ཚིག་ངོ་སྤྲོད།**`, `#### **༣. རྩ་ཚིག་གནད་དོན།**`. The second and third stay empty when the source's commentary section was empty. If the source's commentary was a single undivided block of prose (not already split under these three labels), that prose goes entirely under the third sub-heading, རྩ་ཚིག་གནད་དོན, leaving the second empty. If the source already had content organized under matching sub-headings (e.g. a prior partial transform), preserve that mapping instead of collapsing everything into the third. **Exception:** the first sub-heading, རྩ་ཚིག་ངོས་འཛིན, is never left empty — it is always freshly populated per Rule 14 regardless of what (if anything) the source carried there.
+7. **Inside the final section, order is swapped, labels are renamed, and a fixed two-subsection scaffold is added.** The new ༤། བྱང་ཆུབ་སེམས་དཔའི་ལག་ལེན section always contains exactly two sub-headings, in this fixed order and exact wording: `#### **༡. ལམ་སྟོན།**`, `#### **༢. ལག་ལེན་དངོས།**` — present even when the source's ཉམས་ལེན section was empty (both then stay empty). The paragraph labeled འགྲེལ་བཤད becomes ལམ་སྟོན and is placed under the first sub-heading; the paragraph labeled ཉམས་ལེན་དངོས becomes ལག་ལེན་དངོས and is placed under the second. Only the bold inline label text at the top level changes — the paragraph body is untouched, and the paragraph's own inline bold label (e.g. "**ལམ་སྟོན།**") is left in place under the sub-heading even though it now repeats the sub-heading's wording; do not strip it.
 8. **Every occurrence of ཉམས་ལེན as a section or subsection title becomes ལག་ལེན** (e.g. `དེ་རིང་གི་ཉམས་ལེན།` → `དེ་རིང་གི་ལག་ལེན།`). This does not apply to occurrences of ཉམས་ལེན inside ordinary prose sentences (e.g. in Hindi/English commentary) — only structural titles are renamed.
 9. **Trailing Hindi/English sections are copied byte-for-byte.** Do not translate, reformat, reorder, or otherwise touch any content after the Tibetan sections.
 10. **Renumber sequentially.** Top-level sections are numbered ༡ through ༤ in the new order; the three merged subsections under section 3 are numbered ༡ through ༣; the sub-headings under sections 2 and 4 use their own fixed numbering as given in Rules 6 and 7.
@@ -101,18 +101,52 @@ The same file, overwritten in place at its original path: `3-TRANSFORMATIONS/Pla
 
     c. **Determine the verse's ordinal position within that heading's block** by counting the blank-line-separated verse groups from the top of the block, starting at 1. If the heading's block contains only one verse, there is no ordinal to state.
 
-    d. **Write one line per verse** under རྩ་ཚིག་ངོས་འཛིན, in the same order as ༡། དེ་རིང་གི་རྩ་ཚིག, each preceded by a bold label matching that verse's own shloka header (e.g. `**ཤློཀ་དང་པོ།**`), followed by a sentence of this exact form:
+    d. **Group consecutive day-plan verses that trace to the same heading into one paragraph — never one line per verse when they share a heading.** Walk the day-plan's verses in order; whenever two or more verses in a row (per step b) land under the same ས་བཅད heading, treat them as a single group and write one combined entry for the whole group instead of a separate line per verse. Verses that land under different headings still each start their own group/line. Join the group's shloka labels into a single unbroken phrase using དང་ as the only separator between them — **never insert a shad/danda (`།`) anywhere inside this join**, only the plain tsheg that is already part of དང་ (e.g. `ཤློཀ་བཞི་པ་དང་ཤློཀ་ལྔ་པ་` for two, `ཤློཀ་དང་པོ་དང་ཤློཀ་གཉིས་པ་དང་ཤློཀ་གསུམ་པ་` for three, extending the same pattern for more), and end the whole joined phrase with one trailing tsheg (་) — this trailing tsheg belongs inside the bold markers, per (e). List the ordinals at the end of the sentence the same way — joined left-to-right by དང་ alone, **never a shad between them** — e.g. `...ཚིགས་བཅད་གསུམ་པ་དང་བཞི་པ་ཡིན་ནོ།།` for ordinals 3 and 4, or `...ཚིགས་བཅད་དང་པོ་དང་གཉིས་པ་དང་གསུམ་པ་དང་བཞི་པ་ཡིན་ནོ།།` for ordinals 1–4. A stray shad anywhere in the joined labels or the ordinal list — most often appearing as `དང།` — is the single most common error in this rule; check for it before moving on. (General Tibetan orthography note, since this error recurs: a shad must always be preceded by a tsheg, so `དང་།` is correctly formed Tibetan while `དང།` is not — but neither belongs anywhere in this join. The correct join has no shad at all, only the plain tsheg that is already part of དང་.)
 
-       `ཚིགས་བཅད་འདི་ནི་སྤྱོད་འཇུག་ལེའུ་[ལེའུ་number spelled out]་པ་ལས་[ས་བཅད heading title, article/particle changes elided as needed]འི་ཚིགས་བཅད་[ordinal]་ཡིན་ནོ།།`
+    e. **Write one line/paragraph per heading-group** (single verse or merged group per (d)) under རྩ་ཚིག་ངོས་འཛིན, in the same order as ༡། དེ་རིང་གི་རྩ་ཚིག. A single verse and a merged group use two different exact forms — do not blend them:
 
-       — omitting `[ordinal]` (and the word "ཚིགས་བཅད་" simply ends the sentence: `...འི་ཚིགས་བཅད་ཡིན་ནོ།།`) when step (c) found only one verse under that heading.
+       - **Single verse:** `**[shloka label]་** ནི་སྤྱོད་འཇུག་ལེའུ་[ལེའུ་number spelled out]་པ་ལས་[ས་བཅད heading title, copied verbatim]སྟོན་པའི་ཚིགས་བཅད་[ordinal, if any]་ཡིན་ནོ།།` — exactly the same shape as a merged group: the label ends with a plain tsheg (`་`, never a shad) inside the bold; the bold then closes, then a space, then ནི་ continues the sentence directly. **The heading title itself is never modified** — copy it exactly as it appears in the source heading (any internal འི or other grammar it already carries is left untouched); `སྟོན་པའི་` is simply inserted immediately after the heading title and before ཚིགས་བཅད, never spliced into the middle of the heading title. There is **no** `ཚིགས་བཅད་འདི་ནི` demonstrative clause. The ordinal is stated only if step (c) found more than one verse under the heading (this day-plan verse simply happens to stand alone, unmerged, even though its heading covers several verses); if the heading's block holds only this one verse, the ordinal is omitted entirely and the sentence ends `...ཚིགས་བཅད་ཡིན་ནོ།།`.
 
-       Chapter-number spelling (`[ལེའུ་number spelled out]`): དང་པོ (1), གཉིས་པ (2), གསུམ་པ (3), བཞི་པ (4), ལྔ་པ (5), དྲུག་པ (6), བདུན་པ (7), བརྒྱད་པ (8), དགུ་པ (9), བཅུ་པ (10). Ordinal spelling for the verse's position within the heading (`[ordinal]`) follows the same series: དང་པོ (1st), གཉིས་པ (2nd), གསུམ་པ (3rd), བཞི་པ (4th), ལྔ་པ (5th), and so on.
+       - **Merged group:** `**[joined shloka labels per (d), ending in a trailing ་]** [ནི་ / གཉིས་ནི་ / རྣམས་ནི་]སྤྱོད་འཇུག་ལེའུ་[ལེའུ་number spelled out]་པ་ལས་[ས་བཅད heading title, copied verbatim]སྟོན་པའི་ཚིགས་བཅད་[ordinals per (d)]་ཡིན་ནོ།།` — the joined labels end with a plain tsheg (`་`, never a shad) still inside the bold; the bold then closes, then a space, then the count-particle continues the sentence directly. As with the single-verse form, **the heading title itself is never modified** — copy it exactly as it appears in the source heading, and insert `སྟོན་པའི་` immediately after it and before ཚིགས་བཅད, never inside the heading title. There is **no** `ཚིགས་བཅད་འདི་[གཉིས་/གསུམ་/...]ནི` demonstrative clause in a merged group — the joined labels themselves are the sentence's subject. **The particle depends on the group size, never a flat `ནི་`:** exactly two verses take `གཉིས་ནི་`; three or more verses (regardless of how many) take `རྣམས་ནི་`. (A lone, unmerged single verse — see the Single verse form above — is the only case that takes plain `ནི་`.) Ordinals are always stated for a merged group, never omitted.
 
-       Worked example (from a Chapter 2 day-plan, the plan's second verse, which is the first verse under the heading ༢། བདག་པོས་ཡོངས་སུ་མ་བཟུང་བའི་མཆོད་པ།):
-       `**ཤློཀ་གཉིས་པ།** ཚིགས་བཅད་འདི་ནི་སྤྱོད་འཇུག་ལེའུ་གཉིས་པ་ལས་བདག་པོས་ཡོངས་སུ་མ་བཟུང་བའི་མཆོད་པའི་ཚིགས་བཅད་དང་པོ་ཡིན་ནོ།།`
+       Chapter-number spelling (`[ལེའུ་number spelled out]`): དང་པོ (1), གཉིས་པ (2), གསུམ་པ (3), བཞི་པ (4), ལྔ་པ (5), དྲུག་པ (6), བདུན་པ (7), བརྒྱད་པ (8), དགུ་པ (9), བཅུ་པ (10). Ordinal spelling for a verse's position within the heading (`[ordinal]`) follows the same series: དང་པོ (1st), གཉིས་པ (2nd), གསུམ་པ (3rd), བཞི་པ (4th), ལྔ་པ (5th), and so on.
 
-    e. **If a verse's text cannot be located anywhere in the matching chapter file**, stop and report the discrepancy to the human contributor rather than guessing or leaving the line silently blank.
+       Worked example, single verse, ordinal omitted (from a Chapter 2 day-plan, the plan's first verse, whose heading ༡། བདག་པོས་ཡོངས་སུ་བཟུང་བའི་མཆོད་པ། holds only this one verse):
+       `**ཤློཀ་དང་པོ་** ནི་སྤྱོད་འཇུག་ལེའུ་གཉིས་པ་ལས་བདག་པོས་ཡོངས་སུ་བཟུང་བའི་མཆོད་པ་སྟོན་པའི་ཚིགས་བཅད་ཡིན་ནོ།།`
+
+       Worked example, single verse, ordinal stated (same day-plan's second verse, which stands alone — unmerged — but is the first verse under the heading ༢། བདག་པོས་ཡོངས་སུ་མ་བཟུང་བའི་མཆོད་པ།, whose block holds more than one verse per step (c)):
+       `**ཤློཀ་གཉིས་པ་** ནི་སྤྱོད་འཇུག་ལེའུ་གཉིས་པ་ལས་བདག་པོས་ཡོངས་སུ་མ་བཟུང་བའི་མཆོད་པ་སྟོན་པའི་ཚིགས་བཅད་དང་པོ་ཡིན་ནོ།།`
+
+       Worked example, merged pair (from the same day-plan's third and fourth verses, shlokas 4 and 5, which are the 3rd and 4th verses under the same heading):
+       `**ཤློཀ་བཞི་པ་དང་ཤློཀ་ལྔ་པ་** གཉིས་ནི་སྤྱོད་འཇུག་ལེའུ་གཉིས་པ་ལས་བདག་པོས་ཡོངས་སུ་མ་བཟུང་བའི་མཆོད་པ་སྟོན་པའི་ཚིགས་བཅད་གསུམ་པ་དང་བཞི་པ་ཡིན་ནོ།།`
+
+       Worked example, merged group of four (all four verses tracing to the same heading — three or more always takes རྣམས་ནི་, regardless of exactly how many):
+       `**ཤློཀ་བཅུ་གཅིག་པ་དང་ཤློཀ་བཅུ་གཉིས་པ་དང་ཤློཀ་བཅུ་གསུམ་པ་དང་ཤློཀ་བཅུ་བཞི་པ་** རྣམས་ནི་སྤྱོད་འཇུག་ལེའུ་གཉིས་པ་ལས་ཁྲུས་དང་སྐུ་ཕྱི་སོགས་འབུལ་བ་སྟོན་པའི་ཚིགས་བཅད་དང་པོ་དང་གཉིས་པ་དང་གསུམ་པ་དང་བཞི་པ་ཡིན་ནོ།།`
+
+    f. **If a verse's text cannot be located anywhere in the matching chapter file**, stop and report the discrepancy to the human contributor rather than guessing or leaving the line silently blank.
+
+15. **Build the ༡ section's title from a fixed chapter short-title table plus the day-plan's own chapter and verse numbers — never left as a static string.** The heading is: `### ༡། སྤྱོད་འཇུག <chapter short title> <chapter number>:<verse range>` (single space between each of the three parts; the short title already ends in ལེའུ།, so nothing further is appended to it).
+
+    a. **Chapter short-title table**, keyed by the day-plan's chapter number `<C>` (from its own `Ch<C>` filename segment, same value used in Rule 14a):
+
+       | Chapter | Short title |
+       | --- | --- |
+       | 1 | ཕན་ཡོན་ལེའུ། |
+       | 2 | སྡིག་བཤགས་ལེའུ། |
+       | 3 | སེམས་བསྐྱེད་ལེའུ། |
+       | 4 | བག་ཡོད་ལེའུ། |
+       | 5 | ཤེས་བཞིན་ལེའུ། |
+       | 6 | བཟོད་པའི་ལེའུ། |
+       | 7 | བརྩོན་འགྲུས་ལེའུ། |
+       | 8 | བསམ་གཏན་ལེའུ། |
+       | 9 | ཤེས་རབ་ལེའུ། |
+       | 10 | བསྔོ་བའི་ལེའུ། |
+
+       This table is fixed and exhaustive for the ten Bodhicaryāvatāra chapters this vault's Himalayan track covers. If a target file's chapter number falls outside 1–10, stop and ask the human contributor for the short title rather than guessing.
+
+    b. **Chapter:verse-range comes from the day-plan's own filename**, not from re-deriving it: `Day-<N>-Ch<C>-V<range>.md` gives `<C>:<range>` verbatim (e.g. `Ch2-V1-3` → `2:1-3`). If `<range>` is a single verse with no hyphen (e.g. `V5`), render it without a hyphen (`2:5`), never as `2:5-5`.
+
+       Worked example (Day-15, `Ch2-V1-3`, chapter 2 = སྡིག་བཤགས་ལེའུ།): `### ༡། སྤྱོད་འཇུག སྡིག་བཤགས་ལེའུ། 2:1-3`
 
 ---
 
@@ -122,14 +156,14 @@ The same file, overwritten in place at its original path: `3-TRANSFORMATIONS/Pla
 2. Check the file against the expected legacy shape (Rule 11). If it doesn't match, stop and report the discrepancy.
 3. If ༢། ངོ་སྤྲོད། contains any text beyond the bare heading, stop and ask the human contributor whether to delete it or fold it elsewhere (Rule 1). Wait for an answer before continuing.
 4. Extract the day's root verses verbatim from the source's ༣། དེ་རིང་གི་རྩ་ཚིག section (headers, annotations, citations included), then strip any `(ལན་N)` annotation (Rule 13).
-5. Write the new **༡། དེ་རིང་གི་རྩ་ཚིག** section using the verses extracted in step 4.
-6. Write the new **༢། འགྲེལ་བཤད** section: emit the three fixed sub-headings from Rule 6 in order, with one blank line between the section heading and the first sub-heading and between each sub-heading and the next. Place the source's commentary content under the second and third sub-headings per Rule 6 (defaulting to རྩ་ཚིག་གནད་དོན when the source had one undivided block, or empty when the source's commentary was empty). Leave the first sub-heading, རྩ་ཚིག་ངོས་འཛིན, for step 7.
-7. Populate **༡. རྩ་ཚིག་ངོས་འཛིན** per Rule 14: for each verse extracted in step 4, locate the matching-chapter ས་བཅད outline file, trace the verse to its heading and ordinal position, and write the identification line. Stop and report to the human contributor if any verse's text cannot be located (Rule 14e).
-8. Write the new **༣། སྐྱབས་འགྲོ་སེམས་བསྐྱེད** section with three subsections, in order:
+5. Determine the section-1 title per Rule 15 (chapter short title from the table, plus `<chapter>:<verse range>` from the filename), then write the new **༡། སྤྱོད་འཇུག <short title> <chapter>:<range>** section using the verses extracted in step 4.
+6. Write the new **༢། བྱང་ཆུབ་སེམས་དཔའི་སློབ་སྦྱོང་** section: emit the three fixed sub-headings from Rule 6 in order, with one blank line between the section heading and the first sub-heading and between each sub-heading and the next. Place the source's commentary content under the second and third sub-headings per Rule 6 (defaulting to རྩ་ཚིག་གནད་དོན when the source had one undivided block, or empty when the source's commentary was empty). Leave the first sub-heading, རྩ་ཚིག་ངོས་འཛིན, for step 7.
+7. Populate **༡. རྩ་ཚིག་ངོས་འཛིན** per Rule 14: for each verse extracted in step 4, locate the matching-chapter ས་བཅད outline file and trace the verse to its heading and ordinal position; group consecutive verses that share the same heading into one merged paragraph rather than one line each (Rule 14d), then write one identification line/paragraph per heading-group (Rule 14e). Stop and report to the human contributor if any verse's text cannot be located (Rule 14f).
+8. Write the new **༣། བྱང་ཆུབ་སེམས་དཔའི་སེམས་བསྐྱེད** section with three subsections, in order:
    a. **༡. སྐྱབས་འགྲོ་སེམས་བསྐྱེད** — source's སྐྱབས་འགྲོ verse block followed by both སེམས་བསྐྱེད verse blocks, verbatim; ཚད་མེད་བཞི omitted; any `(ལན་N)` annotation stripped (Rule 13).
    b. **༢. རྩ་ཚིག** — the same verses from step 4, re-rendered as plain blockquotes with headers/annotations/citations stripped (Rule 3).
    c. **༣. བསྔོ་སྨོན** — source's བསྔོ་བ verse block followed by the source's སྨོན་ལམ verse block, verbatim; any `(ལན་N)` annotation stripped (Rule 13).
-9. Write the new **༤། དེ་རིང་གི་ལག་ལེན** section: emit the two fixed sub-headings from Rule 7 in order, with one blank line between the section heading and the first sub-heading and between the two sub-headings. If the source's ཉམས་ལེན section was empty, both stay empty (only the headings appear). Otherwise, place the relabeled ལམ་སྟོན paragraph under the first sub-heading and the relabeled ལག་ལེན་དངོས paragraph under the second (Rule 7), leaving each paragraph's own inline bold label untouched.
+9. Write the new **༤། བྱང་ཆུབ་སེམས་དཔའི་ལག་ལེན** section: emit the two fixed sub-headings from Rule 7 in order, with one blank line between the section heading and the first sub-heading and between the two sub-headings. If the source's ཉམས་ལེན section was empty, both stay empty (only the headings appear). Otherwise, place the relabeled ལམ་སྟོན paragraph under the first sub-heading and the relabeled ལག་ལེན་དངོས paragraph under the second (Rule 7), leaving each paragraph's own inline bold label untouched.
 10. Reassemble the full file: H1 title line, H2 chapter/verse line, `---` divider, the four rebuilt sections in order, then any trailing Hindi/English sections copied verbatim from the source at the end.
 11. Overwrite the target file at its original path with the reassembled content.
 12. Work through the Completion check below before reporting the task done.
@@ -138,14 +172,15 @@ The same file, overwritten in place at its original path: `3-TRANSFORMATIONS/Pla
 
 ## Completion check
 
-- [ ] The four top-level sections appear in exactly this order: དེ་རིང་གི་རྩ་ཚིག, འགྲེལ་བཤད, སྐྱབས་འགྲོ་སེམས་བསྐྱེད, དེ་རིང་གི་ལག་ལེན
+- [ ] The four top-level sections appear in exactly this order and wording: ༡། སྤྱོད་འཇུག <chapter short title> <chapter>:<verse range>, ༢། བྱང་ཆུབ་སེམས་དཔའི་སློབ་སྦྱོང་, ༣། བྱང་ཆུབ་སེམས་དཔའི་སེམས་བསྐྱེད, ༤། བྱང་ཆུབ་སེམས་དཔའི་ལག་ལེན
+- [ ] The ༡ section's short title matches the day-plan's chapter number per the Rule 15 table (never a hardcoded or copy-pasted title from a different chapter), and the `<chapter>:<verse range>` matches the file's own `Ch<C>-V<range>` filename segment exactly
 - [ ] ངོ་སྤྲོད no longer appears anywhere, and if it had content, the human's confirmed disposition (delete vs. fold in) was followed
 - [ ] ཚད་མེད་བཞི does not appear anywhere in the output
-- [ ] སྐྱབས་འགྲོ་སེམས་བསྐྱེད contains exactly three subsections, in order: སྐྱབས་འགྲོ་སེམས་བསྐྱེད, རྩ་ཚིག, བསྔོ་སྨོན
+- [ ] བྱང་ཆུབ་སེམས་དཔའི་སེམས་བསྐྱེད (section 3) contains exactly three subsections, in order: སྐྱབས་འགྲོ་སེམས་བསྐྱེད, རྩ་ཚིག, བསྔོ་སྨོན
 - [ ] The ༢. རྩ་ཚིག subsection's verses carry no shloka header, no chapter/verse annotation, and no `[cite: N]` marker
-- [ ] འགྲེལ་བཤད contains exactly three sub-headings, in order: རྩ་ཚིག་ངོས་འཛིན, རྩ་ཚིག་ངོ་སྤྲོད, རྩ་ཚིག་གནད་དོན, each separated from the section heading and from each other by exactly one blank line
-- [ ] རྩ་ཚིག་ངོས་འཛིན contains one identification line per root verse, in the same order as ༡། དེ་རིང་གི་རྩ་ཚིག, each traced to the matching-chapter (never a hardcoded Ch2) ས་བཅད outline file per Rule 14, with correct heading title and ordinal (or no ordinal when the heading holds only one verse)
-- [ ] དེ་རིང་གི་ལག་ལེན contains exactly two sub-headings, in order: ལམ་སྟོན, ལག་ལེན་དངོས, each separated from the section heading and from each other by exactly one blank line
+- [ ] བྱང་ཆུབ་སེམས་དཔའི་སློབ་སྦྱོང་ (section 2) contains exactly three sub-headings, in order: རྩ་ཚིག་ངོས་འཛིན, རྩ་ཚིག་ངོ་སྤྲོད, རྩ་ཚིག་གནད་དོན, each separated from the section heading and from each other by exactly one blank line
+- [ ] རྩ་ཚིག་ངོས་འཛིན contains one identification line/paragraph per heading-group, in the same order as section 1's root verses — consecutive verses sharing a heading merged into a single paragraph (never split into separate lines), each traced to the matching-chapter (never a hardcoded Ch2) ས་བཅད outline file per Rule 14, with correct heading title and ordinal(s) (or no ordinal only for a single, unmerged verse whose heading holds just that one verse)
+- [ ] བྱང་ཆུབ་སེམས་དཔའི་ལག་ལེན (section 4) contains exactly two sub-headings, in order: ལམ་སྟོན, ལག་ལེན་དངོས, each separated from the section heading and from each other by exactly one blank line
 - [ ] Inside the final section, ལམ་སྟོན precedes ལག་ལེན་དངོས
 - [ ] No `(ལན་N)` repeat-count annotation (in any of its asterisk/italic forms) remains anywhere in the file
 - [ ] Every trailing Hindi/English section matches the source byte-for-byte, in its original position

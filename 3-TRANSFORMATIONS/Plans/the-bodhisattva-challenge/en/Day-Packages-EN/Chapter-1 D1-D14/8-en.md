@@ -570,4 +570,3 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]] [[1-S
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]] [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]] [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]
 
 ---
-![[Pasted image 20260724150659.png]]

@@ -8,7 +8,10 @@
 Today, when I see an umbrella or shade, I will offer it in my mind to the Three Jewels as a special umbrella protecting everyone from pain.
 
 **Verse of the day:**
-I always offer to the lords of sages Beauteous, jeweled parasols with golden staves, Fine shaped, upright, and pleasing to the eye, Their rims festooned with winsome ornaments.
+I always offer to the lords of sages
+Beauteous, jeweled parasols with golden staves,
+Fine shaped, upright, and pleasing to the eye,
+Their rims festooned with winsome ornaments.
 
 **Verse id:**
 Bodhicaryāvatāra, Chapter 2, Verse 19 (^2-19)
@@ -37,7 +40,10 @@ Bodhicaryāvatāra, Chapter 2, Verse 19 (^2-19)
 आज जब भी मैं कोई छाता या धूप से बचाने वाली चीज़ देखूँगा, तो उसे जीवों के दुख हरने वाला रत्नमयी छत्र मानकर त्रिरत्न को अर्पित कर दूँगा।
 
 **आज का श्लोक:**
-सोने की मूठ (डंडी) वाले, रत्नों के जो सुंदर छाते हैं, जिनके चारों ओर किनारे, सुंदर गहनों से सजे हुए हैं। आकार में सुंदर और देखने में, जो छाते बहुत मनमोहक हैं, बुद्धों को छाया देने के लिए, मैं हमेशा उन्हें लगाता हूँ॥
+सोने की मूठ (डंडी) वाले, रत्नों के जो सुंदर छाते हैं,
+जिनके चारों ओर किनारे, सुंदर गहनों से सजे हुए हैं।
+आकार में सुंदर और देखने में, जो छाते बहुत मनमोहक हैं,
+बुद्धों को छाया देने के लिए, मैं हमेशा उन्हें लगाता हूँ॥
 
 **श्लोक संख्या:**
 बोधिचर्यावतार, अध्याय २, श्लोक १९ (^2-19)

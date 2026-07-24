@@ -8,7 +8,10 @@
 Today, whenever I hear pleasant music or songs, I will mentally offer them to the Three Jewels as a blessing to relieve the suffering of all beings.
 
 **Verse of the day:**
-And furthermore, may there extend Clouds of attractive offerings, With lovely tunes and harmonies, That soothe all beings' sufferings.
+And furthermore, may there extend
+Clouds of attractive offerings,
+With lovely tunes and harmonies,
+That soothe all beings' sufferings.
 
 **Verse id:**
 Bodhicaryāvatāra, Chapter 2, Verse 20 (^2-20)
@@ -37,7 +40,10 @@ Bodhicaryāvatāra, Chapter 2, Verse 20 (^2-20)
 आज मैं जब भी कोई सुंदर संगीत या गीत सुनूँगा, तो प्रार्थना करूँगा कि यह संगीत सभी प्राणियों का दुख दूर करने वाली पूजा बन जाए।
 
 **आज का श्लोक:**
-इन सबके अलावा भी पूजा के, जितने भी अन्य सामान हैं, और मधुर संगीत बजाने वाले, जितने भी वाद्य-यंत्र महान हैं। जो सब जीवों के दुःखों को, मिटाकर उन्हें सुख देते हैं, वे सारे मीठे संगीत हमेशा, बुद्धों के चरणों में गूंजें॥
+इन सबके अलावा भी पूजा के, जितने भी अन्य सामान हैं,
+और मधुर संगीत बजाने वाले, जितने भी वाद्य-यंत्र महान हैं।
+जो सब जीवों के दुःखों को, मिटाकर उन्हें सुख देते हैं,
+वे सारे मीठे संगीत हमेशा, बुद्धों के चरणों में गूंजें॥
 
 **श्लोक संख्या:**
 बोधिचर्यावतार, अध्याय २, श्लोक २० (^2-20)

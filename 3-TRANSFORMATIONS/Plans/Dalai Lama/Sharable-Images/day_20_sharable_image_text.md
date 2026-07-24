@@ -1,5 +1,7 @@
 # Day 20 — Sharable Image Text
 
+**Release date:** July 25, 2026 (July)
+
 ## English
 
 **Practice of the day:**

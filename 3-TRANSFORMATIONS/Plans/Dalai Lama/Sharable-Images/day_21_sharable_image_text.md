@@ -1,5 +1,7 @@
 # Day 21 — Sharable Image Text
 
+**Release date:** July 26, 2026 (July)
+
 ## English
 
 **Practice of the day:**

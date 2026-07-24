@@ -1,5 +1,7 @@
 # Day 22 — Sharable Image Text
 
+**Release date:** July 27, 2026 (July)
+
 ## English
 
 **Practice of the day:**

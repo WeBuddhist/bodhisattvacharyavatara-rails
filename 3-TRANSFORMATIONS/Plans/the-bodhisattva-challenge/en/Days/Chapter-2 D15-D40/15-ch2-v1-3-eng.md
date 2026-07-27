@@ -1,3 +1,9 @@
+---
+day: 15
+chapter: 2
+verse: "1-3"
+---
+
 ## 1) Introduction to Today's Practice
 
 Today's practice comes from verses 1 to 3 of the second chapter of the _Bodhicaryāvatāra_. It teaches us that to grow and keep the precious awakening mind (Bodhicitta) in our hearts, we need to gather a vast amount of positive energy, or merit. Even if we do not have money or expensive goods to offer, we can mentally present all the natural, unowned beauty of the world—like lovely flowers, clear clean water, quiet forests, and gems—to the Three Jewels (Buddha, Dharma, and Sangha) without any stinginess. This practice invites us to cultivate a generous heart through the power of our mind.

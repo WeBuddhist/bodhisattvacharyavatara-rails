@@ -1,3 +1,9 @@
+---
+day: 17
+chapter: 2
+verse: "6-7"
+---
+
 ## 1) Introduction to Today's Practice
 
 Today's practice is based on verses 6 and 7 from the second chapter of the _Bodhicaryāvatāra_. It teaches us that even if we are materially poor and have no physical wealth to offer, we should never feel discouraged. With a pure and devoted heart, we can mentally offer all the beautiful things in the universe to the Buddhas and Bodhisattvas. Out of their great compassion, they accept our sincere mental offerings to help us complete our positive energy (merit).

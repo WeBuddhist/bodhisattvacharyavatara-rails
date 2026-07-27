@@ -1,3 +1,9 @@
+---
+day: 18
+chapter: 2
+verse: "8-9"
+---
+
 ## 1) Introduction to Today's Practice
 
 Today's practice is based on verses 8 and 9 from the second chapter of the _Bodhicaryāvatāra_. It teaches us how to offer our bodies and lives to the Buddhas and Bodhisattvas, becoming their willing servants. It also guides us to let go of past mistakes and help others fearlessly. This is a practice of breaking down our selfishness to serve others with courage.

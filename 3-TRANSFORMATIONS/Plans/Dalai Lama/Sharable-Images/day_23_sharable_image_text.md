@@ -8,10 +8,10 @@
 Today, whenever I hear pleasant music or songs, I will mentally offer them to the Three Jewels as a blessing to relieve the suffering of all beings.
 
 **Verse of the day:**
-And furthermore, may there extend
-Clouds of attractive offerings,
-With lovely tunes and harmonies,
-That soothe all beings' sufferings.
+May there also be clouds of offerings—
+Pleasant music, beautiful melodies,
+And delightful sounds remaining present everywhere
+To satisfy and relieve the suffering of all beings.
 
 **Verse id:**
 Bodhicaryāvatāra, Chapter 2, Verse 20 (^2-20)

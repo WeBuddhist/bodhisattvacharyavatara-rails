@@ -4,6 +4,12 @@ chapter: 2
 verse: "4-5"
 ---
 
+## Today's Verse
+
+> Incense and perfumes as from divine worlds And so forth, wish-fulfilling trees, jewel trees, And crops that grow without need to be plowed, All ornaments that are fit to be offered, ^2-4
+
+> And lakes and pools bedecked with lotuses, Where lovely swans have most delightful calls— Everything that’s unowned extending to The edges of the realms of infinite space— ^2-5
+
 ## 1) Introduction to Today's Practice
 
 Today's practice is based on verses 4 and 5 from the second chapter of the _Bodhicaryāvatāra_. It expands the practice of generosity by teaching us to mentally offer everything beautiful across the entire universe that no one owns—such as heavenly fragrances, wish-fulfilling trees, lotus-covered lakes, and the sweet songs of birds—to the Three Jewels (Buddha, Dharma, and Sangha). This practice inspires us to grow a generous heart and gather positive energy without spending any material wealth.

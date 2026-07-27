@@ -4,6 +4,14 @@ chapter: 2
 verse: "1-3"
 ---
 
+## Today's Verse
+
+> In order to grasp that precious attitude, I make fine offerings to the buddhas, To the true dharma, the immaculate jewel, And to the oceans of qualities, bodhisattvas. ^2-1
+
+> As many fruits and flowers as there are, Whatever kinds of medicine exist, However many jewels there are in the world, All clean and pleasant waters there may be, ^2-2
+
+> Mountains of jewels and likewise forest groves In solitary and delightful places, Bushes adorned with ornamental flowers, And trees whose branches bow with splendid fruit, ^2-3
+
 ## 1) Introduction to Today's Practice
 
 Today's practice comes from verses 1 to 3 of the second chapter of the _Bodhicaryāvatāra_. It teaches us that to grow and keep the precious awakening mind (Bodhicitta) in our hearts, we need to gather a vast amount of positive energy, or merit. Even if we do not have money or expensive goods to offer, we can mentally present all the natural, unowned beauty of the world—like lovely flowers, clear clean water, quiet forests, and gems—to the Three Jewels (Buddha, Dharma, and Sangha) without any stinginess. This practice invites us to cultivate a generous heart through the power of our mind.

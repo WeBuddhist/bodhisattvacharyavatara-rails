@@ -315,30 +315,12 @@ If, in those very beings, such a kind wish has never even been dreamed for their
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]
 
-<!-- cm:ngulchu-thogmed -->
-##### Ngulchu Thogme (Ocean of Good Explanations)
-
-*[Grouping note: verses 1-23, 1-24, and 1-25 are explained together here; 1-24 is not the first verse. The full grouped prose, which covers this verse's content, is in Verse 1-23 above.]*
-
-→ (see Verse 1-23)
-
-Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]
-
 <!-- cm:sabzang -->
 ##### Sabzang Mati Panchen (Clear Illumination)
 
 The reason [for this] is that if, in those ordinary beings, such a special mind has never even been dreamed for their own sake, let alone arisen, then how — in the wakeful state, for the sake of all other beings — could it arise? Because it is extremely hard to arise.
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]
-
-<!-- cm:minyak-kunzang-sonam -->
-##### Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
-
-*[Grouping note: verses 1-23 and 1-24 are explained together here; 1-24 is not the first verse. The full grouped prose, which covers this verse's content and includes the *Mahāyānasūtrālaṃkāra* quotation, is in Verse 1-23 above.]*
-
-→ (see Verse 1-23)
-
-Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]
 
 <!-- cm:khenpo-kunga -->
 ##### Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
@@ -464,15 +446,6 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]
 In bodhisattvas — in whom, [a mind that] does not arise for even an instant in others even for their own sake [now arises] — whatever mind wishes to attain buddhahood for the sake of accomplishing the happiness and removing the suffering of absolutely all beings, this special, exalted jewel of a mind, is born as an unprecedented, wondrous marvel; and others too should hold it as a wonder and strive [for it].
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]
-
-<!-- cm:ngulchu-thogmed -->
-##### Ngulchu Thogme (Ocean of Good Explanations)
-
-*[Grouping note: verses 1-23, 1-24, and 1-25 are explained together here; 1-25 is not the first verse. The full grouped prose, which covers this verse's content, is in Verse 1-23 above.]*
-
-→ (see Verse 1-23)
-
-Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]
 
 <!-- cm:sabzang -->
 ##### Sabzang Mati Panchen (Clear Illumination)

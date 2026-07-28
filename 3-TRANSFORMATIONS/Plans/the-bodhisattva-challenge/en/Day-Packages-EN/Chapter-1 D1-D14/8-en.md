@@ -466,34 +466,6 @@ Bodhisattvas wish to remove, without exception, all the discomfort — the suffe
 
 Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]
 
-<!-- cm:gyaltsab -->
-##### Gyaltsab Darma Rinchen (Gateway for Bodhisattvas)
-
-*[Grouping note: this commentary explains verses 1-21 and 1-22 together; the full word-commentary is placed under gyaltsab in Verse 1-21. This verse completes the emphatic-manner conclusion that compares the prayer focused on a few beings with the prayer focused on measureless beings.]*
-
-Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]]
-
-<!-- cm:ngulchu-thogmed -->
-##### Ngulchu Thogme (Ocean of Good Explanations)
-
-*[Grouping note: this commentary explains verses 1-21 and 1-22 together; the full word-commentary is placed under ngulchu-thogmed in Verse 1-21.]*
-
-Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md]]
-
-<!-- cm:sabzang -->
-##### Sabzang Mati Panchen (Clear Illumination)
-
-*[Grouping note: this commentary explains verses 1-21 and 1-22 together; the full word-commentary, including the whole merchant-chief's friend's daughter's story, is placed under sabzang in Verse 1-21.]*
-
-Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]
-
-<!-- cm:minyak-kunzang-sonam -->
-##### Minyak Kunzang Sonam (Inexhaustible Treasury Vase)
-
-*[Grouping note: this commentary explains verses 1-21 and 1-22 together; the full word-commentary is placed under minyak-kunzang-sonam in Verse 1-21.]*
-
-Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]
-
 <!-- cm:khenpo-kunga -->
 ##### Khenpo Kunga Wangchuk (Commentary on the Bodhicaryāvatāra)
 

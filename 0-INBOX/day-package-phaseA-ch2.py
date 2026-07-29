@@ -181,7 +181,25 @@ def build_verse(vid):
     return hdr + chunk
 
 
-def build_day(day, verses, date, title):
+CHALLENGE_NOTE = (
+    "*(The practice-plan challenge track is not yet written for this day, so this section is a "
+    "placeholder. To populate it, use the English plan day file "
+    "`3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/Chapter-2 D15-D40/{plan_en}` "
+    "— mapping \"Introduction to Today's Practice\" -> Opening, \"Commentary Explanation\" -> From "
+    "the Tradition, \"Today's Practice\" -> Today's Practice (its **Actual Practice** line becomes "
+    "**Practice:**), and adding a `plan_day_file:` entry to `sources:`. That file does not exist yet; "
+    "the Tibetan counterpart "
+    "`3-TRANSFORMATIONS/Plans/Dalai Lama/Chapter-2 D15-D40/{plan_bo}` exists but its "
+    "ngo-sprod / 'grel-bshad / nyams-len sections are still empty. Today's content begins with the "
+    "verses below.)*"
+)
+
+
+def build_day(day, verses, date, title, plan_en=None, plan_bo=None):
+    challenge_note = (
+        CHALLENGE_NOTE.format(plan_en=plan_en, plan_bo=plan_bo) if plan_en
+        else "*(The practice-plan challenge track is intentionally omitted from this package. This section is left as an empty placeholder; today's content begins with the verses below.)*"
+    )
     rail_list = "\n".join(f'    - "2-RAILS/Verses/{v}-summary.md"' for v in verses)
     rng = f"{verses[0]} to {verses[-1]}" if len(verses) > 1 else verses[0]
     fm = f"""---
@@ -220,7 +238,7 @@ edit_policy: "confirm-with-human-before-edit-move-delete"
 <!-- sec:challenge -->
 ## 1. Today's Challenge (from the practice-plan track)
 
-*(The practice-plan challenge track is intentionally omitted from this package. This section is left as an empty placeholder; today's content begins with the verses below.)*
+{challenge_note}
 
 ---
 
@@ -242,12 +260,18 @@ DAYS = {
     28: (["2-33", "2-34", "2-35"], "Aug 2",  "Death does not wait, and everything disappears"),
     29: (["2-36", "2-37", "2-38"], "Aug 3",  "Gone like a dream, but the wrongdoing stays"),
     30: (["2-39", "2-40", "2-41"], "Aug 4",  "Life running out, and only merit to protect me"),
+    31: (["2-42", "2-43"],         "Aug 5",  "Terror before the blow has even fallen",
+         "31-ch2-v42-43-eng.md", "Day-31-Ch2-V42-43.md"),
+    32: (["2-44", "2-45", "2-46"], "Aug 6",  "Searching every direction, and finding no refuge",
+         "32-ch2-v44-46-eng.md", "Day-32-Ch2-V44-46.md"),
+    33: (["2-47", "2-48"],         "Aug 7",  "So I go for refuge \u2014 buddha, dharma, sangha",
+         "33-ch2-v47-48-eng.md", "Day-33-Ch2-V47-48.md"),
 }
 
 if __name__ == "__main__":
     targets = [int(a) for a in sys.argv[1:]] or sorted(DAYS)
     OUT.mkdir(parents=True, exist_ok=True)
     for d in targets:
-        verses, date, title = DAYS[d]
-        (OUT / f"{d}.md").write_text(build_day(d, verses, date, title), encoding="utf-8")
+        verses, date, title, *plan = DAYS[d]
+        (OUT / f"{d}.md").write_text(build_day(d, verses, date, title, *plan), encoding="utf-8")
         print(f"wrote {d}.md  ({', '.join(verses)})")

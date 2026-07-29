@@ -452,3 +452,39 @@ The definition of Great Vehicle generation of the mind is: a mind conjoined with
 206. This is the summarizing verse. ^1-9-33
 
 207. Second, the title of the chapter: From the *Commentary on Entering the Way of the Heroes of Enlightenment, entitled 'The Gateway for the Heirs of the Victorious'*, this is the commentary on Chapter One, entitled "Explaining the Benefits of the Mind of Enlightenment." ^1-9-34
+
+---
+
+# Chapter Two: Confession of Negativity — excerpt, verses 2.51–2.65 (ལེའུ་གཉིས་པ། སྡིག་པ་བཤགས་པའི་ལེའུ།)
+
+*Note: this section translates only the closing portion of Chapter Two (verses 51–65), continuing the numbered commentary from the point corresponding to these verses.*
+
+Likewise, I seek refuge in the Bodhisattvas Ākāśagarbha and Kṣitigarbha, as well as Maitreya, Sarvanivaraṇaviṣkambhin, and all the other great compassionate protectors, and crying out in anguish from the depths of my heart, I say: "Protect me!" ^2-51-1
+
+I also go for refuge to Vajrapāṇi, the wielder of the vajra, the mere sight of whom causes the messengers of the Lord of Death, the guardians of hell, and other beings hostile to sentient beings, to be struck with terror and flee in all directions. ^2-52-1
+
+In the past I transgressed your command and committed wrongs while failing to practice virtue. But now, seeing the great terror of endless saṃsāra and the lower realms, I go for refuge to you. I will act, regarding what is to be adopted and abandoned, exactly according to your command; therefore please swiftly dispel this fear. ^2-53-1
+
+If, fearing an ordinary illness caused by the disturbance of wind, bile, and so forth, and worrying I might die, I must apply the remedy exactly as the physician instructs — then, since we are constantly afflicted by the great illness of the three poisons (desire and the others), which since beginningless time has been the source of hundreds and thousands of faults, what need is there even to mention that it is fitting to rely on the supreme physician's remedy, in accordance with the Victor's word? It is fitting to strive at the antidote to wrongdoing. ^2-54-1
+
+Something like anger toward a Bodhisattva is so harmful that even a single instance of it can drag all people dwelling in this world down into hell. If, apart from the Teacher's instruction on the antidote for these afflictions — the way of meditating on the path and so forth — no other remedy to cure these illnesses can be found anywhere else, even in Brahmā's world or any other realm, then it is exceedingly rare indeed. ^2-55-1
+
+For that afflictive illness, not to follow the instruction of the Omniscient Physician, who removes every pain of the afflictions, but instead to set one's mind on the causes of endless saṃsāra and the lower realms, is a state to be reproached as utter delusion. Therefore, one should go for refuge to the Teacher from the depths of one's heart, and put the Teacher's instruction into practice correctly. ^2-56-1
+
+If, at a mere ordinary cliff or mountainside where a fall would injure only a limb, I must be watchful and careful for fear of falling, then what need is there to mention being watchful about falling into an abyss of thousands of leagues — such as thirty-two thousand leagues — where, having fallen, one must remain for a very long time? Therefore, one should strive at relying on the antidote to the afflictions. ^2-57-1
+
+One might think, "Although I must strive at the antidote, I will strive next month or next year." But it is right to strive from this very day: it is not reasonable to remain in comfortable idleness, not striving at the antidote, thinking "I will surely not die today." Since there is no certainty that I will not die today, the time when I will cease to exist will most likely, without doubt, come tomorrow. Therefore, without laziness, I should strive from this very day onward — as it is said: "To say 'Today I shall do this and that' is not good conduct for a person; the day will surely come when you will cease to exist, and that tomorrow will inevitably arrive." ^2-58-1
+
+One might object: "Since being afraid of death does not help, there is no need to fear it." But even though we see and hear that everyone else dies and fear the possibility of falling into the lower realms after death, what noble being has granted me freedom from fear of death and wrongdoing? No one at all has granted this. So if I do not strive at the antidote, how can I possibly be certain of being freed from wrongdoing and death — I cannot be freed, and it is certain that I will die and cease to exist. Given this, it is unreasonable to remain complacent under the power of laziness instead of striving at the antidote to wrongdoing; I should strive at meditating on the path. ^2-59-1
+
+Of all the enjoyments I have already experienced in saṃsāra and which, being unreliable, have since perished, what excess still remains for me? Nothing at all remains. Yet I have fervently clung and become attached to that which has no essence, and thereby acted contrary to the guru's word and committed wrong — and for this I feel regret. ^2-60-1
+
+My essenceless body, in this very life and thereafter, must be left behind, along with my relatives and friends; I alone must go, without control, to some uncertain destination. Given this, what use is there in all my attachment and aversion toward the loved and unloved? There is not the slightest benefit in it, so it is unreasonable to remain attached to them. ^2-61-1
+
+Since suffering such as that of hell arises from non-virtue like killing, "How can I be certain of being freed from that suffering?" — I should reflect, day and night, continually, on this matter of the karmic law of cause and effect between virtue and non-virtue alone. If one has not gained deep, firm conviction in the workings of karma, one will not find certainty pleasing to the Victors in any teaching. Therefore all should strive at this. Some claim to have gained certainty in emptiness while disregarding the workings of karma — this clearly shows their understanding has gone astray, for they have failed to gain certainty that emptiness has the meaning of dependent origination. ^2-62-1
+
+Being deluded and ignorant regarding karma, whatever wrong I have committed — whether it belongs to the class of naturally unwholesome acts, which remain wrongs regardless of who commits them, or whether it belongs to the class of conventionally prohibited acts, which are wrong only for someone bound by a precept — whatever bad deed I have done, of either kind: ^2-63-1
+
+— all these I now confess, directly before the Protectors, the Buddhas together with their heirs, with my conduct of joining palms, and with a mind afraid of suffering, prostrating again and again. ^2-64-1
+
+For this reason, I ask the Guides to accept as faults the wrongs I have committed. Since committing wrong is not good conduct, from now on, even at the cost of my life, I shall never do it again. This means that from today onward I shall cut off wrongdoing continuously and maintain restraint. Although the scriptures together with their commentaries teach many methods for purifying wrongdoing, the complete antidote is this confession endowed with all four powers; through it, even wrongs certain to be experienced as karmic result can be purified, as is taught in the *Blaze of Reasoning* and the *Great Commentary on the Eight Thousand [Verse Perfection of Wisdom]*. Since we are unskilled in discerning the workings of karma, and even when we know a little we fail to properly adopt and abandon accordingly, many doors to wrongdoing open for us each and every day. Therefore we should continually engage in the path of confession endowed with the four powers, and in particular should strive with the specific aim of purifying the obstacles to the arising of the mind of enlightenment. ^2-65-1

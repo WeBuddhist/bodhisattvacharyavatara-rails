@@ -367,3 +367,39 @@ created_at: 2026-05-28
 175. and it is also not contradictory that they are eventually connected with great happiness through the skillful methods and the power of the aspirational prayers of those endowed with great compassion. Therefore, by recollecting the benefits of the mind of enlightenment, one should also have devotion toward those noble beings who possess it. ^1-2-37
 
 176. From the *Bodhisattvacaryāvatāra*, this is the first chapter, the explanation of the benefits of the mind of enlightenment, which is the aspiring mind. ^1-2-38
+
+---
+
+# Chapter Two: Confession of Negativity — excerpt, verses 2.51–2.65 (ལེའུ་གཉིས་པ། སྡིག་པ་བཤགས་པའི་ལེའུ།)
+
+*Note: this section translates only the closing portion of Chapter Two (verses 51–65), continuing the numbered commentary from the point corresponding to these verses.*
+
+177. Likewise, I seek refuge in the noble Ākāśagarbha and the Bodhisattva Kṣitigarbha, as well as Maitreya, Sarvanivaraṇaviṣkambhin (Remover of All Obstacles), and all the other great compassionate protectors — calling out each by name from the depths of my heart, crying out in anguish. ^2-51-1
+
+178. I go for refuge, with the utmost reverence, to the glorious Vajrapāṇi, whose very majestic power, the moment it is seen, causes the messengers of the Lord of Death, malevolent yakṣas, rākṣasas, and other hostile-minded beings to be struck with terror and flee in every direction. ^2-52-1
+
+179. Third, the manner of supplicating through regret: In the past I transgressed your command — the Victors together with their heirs — such as "Commit no wrong whatsoever; perfectly cultivate virtue." Regretting this, and now seeing and recognizing the great terrors of hell and the other lower realms, I go for refuge to you, compassionate Protectors, and beseech you: by whatever means, swiftly dispel this fear, the suffering that is the fruit of wrongdoing. ^2-53-1
+
+180. On striving at the antidote — first, by the analogy of illness: If I must rely on medicine according to the physician's advice even out of fear of an ordinary illness — such as the four hundred and four kinds of illness arising from the combination of the four elements, wind, bile, and phlegm — then how much more so must I rely, in accordance with the Buddha's word, on the remedy for the four hundred and four afflictions of desire, hatred, delusion, and pride that have constantly afflicted me since beginningless time, functioning like severe illnesses? As the Indian text and the great commentary say: "What need is there to mention being seized by the four hundred and four illnesses?" ^2-54-1
+
+181. If even a single one of these afflictions, once it takes hold, could destroy all the people dwelling in this world with suffering, ^2-55-1
+
+182. and if, searching in every direction, no one could find any other remedy to cure these afflictive illnesses except the antidote taught by the Buddha — then not to rely on that powerful antidote-medicine exactly as instructed in the words of the All-Knowing One, the supreme of all physicians, who removes every pain of suffering, but instead to think in a completely mistaken way, is a state of utter foolishness and delusion, one to be reproached by the noble ones. ^2-56-1
+
+183. Second, by the analogy of a precipice, it is fitting to strive: If I must be careful in my conduct — walking and moving about — even at an ordinary, minor precipice or gorge where a fall would injure only a limb, then what need is there to mention being careful, fearing a fall into the abyss that plunges down some twenty thousand leagues, into Avīci and the other hell realms, where for an intermediate eon or the like one experiences intense suffering for such a long duration? ^2-57-1
+
+184. Second, striving swiftly — first, on the certainty of death: It is not reasonable to relax, thinking with careless ease, "Surely I will not die just today," and to remain comfortable. The time when I will die and cease to exist will certainly, without doubt, arrive — and moreover there is no certainty as to when it will come. ^2-58-1
+
+185. Furthermore, what person has granted me freedom from the fear of death? No one at all has granted this. How could I possibly be certain of being freed from this fear of death — I cannot be. And since it is certain, beyond doubt, that I will die and cease to exist, why do I remain relaxed and complacent? It is not reasonable to remain so. ^2-59-1
+
+186. Second, on wealth being unreliable: Since beginningless time in saṃsāra, I have experienced this same kind of body and possessions again and again, only to have them perish — so what remains for me beyond that, left over? Nothing whatsoever remains. Yet clinging fervently to all this inferior, contaminated wealth, I have acted contrary to the instructions of my guru and of the Victors together with their heirs. This is unreasonable; from now on I must strive to accomplish their instructions. ^2-60-1
+
+187. Second, striving through abandoning everything: My own life-force in this life, like a bubble on water, and likewise my father, mother, siblings and other relatives and friends, and whatever wealth I possess — all these I must utterly abandon, and go alone, without companions, to some uncertain destination. Given this, what use is there in all the wrongdoing committed through attachment to loved ones and hostility toward the unloved? It is pointless. Now it is right to strive at virtue instead. ^2-61-1
+
+188. On how to strive — first, striving through reflection: Because committing the wrong of the ten non-virtuous actions and the like as their cause produces the intense suffering of hell and the other lower realms as their result, I should ask, "By what means can I be certain of being freed from this suffering together with its cause?" — and yet it is right to strive at virtue, the antidote to wrongdoing. Therefore, day and night, continually, this alone — firm conviction and faith in the workings of karmic cause and effect — is what I should first and foremost contemplate. As the sūtra says: "Whoever possesses this great right view held by ordinary worldly beings will not fall into the lower realms even for a thousand eons." ^2-62-1
+
+189. Second, striving through actual practice: Since I, an ordinary being, do not know what is to be adopted and what is to be abandoned, and am under the sway of the affliction of delusion, whatever wrongs I have committed — whether they are naturally unwholesome, such as the ten non-virtues which become wrong for anyone who commits them, or wrongs by convention, such as drinking alcohol, which conflicts with vows one has undertaken — ^2-63-1
+
+190. whichever of these I have committed — killing and the rest — I now confess and openly acknowledge each and every one of these faults and downfalls, directly before the compassionate Protectors, joining my palms, prostrating again and again with reverence, my mind afraid of the suffering that is the fruit of wrongdoing. ^2-64-1
+
+191. Fourth, the power of restraint: I beseech the Guides of the world — the Buddhas and Bodhisattvas — to recognize and be aware that the wrongs and blameworthy acts I have committed are indeed faults. Since this unwholesome conduct produces unbearable karmic ripening and is condemned by the noble ones, and is not good conduct, from this time onward, up until enlightenment, even if it costs me my life, I shall knowingly never again commit it — this is my vow of restraint. ^2-65-1

@@ -400,3 +400,39 @@ For example, just as King Maitrībala established the five yakṣas (spirits) in
 Those who cannot see this sun of the mind of awakening, which completely dispels the darkness of the two obscurations, but remain trapped in the darkness of ignorance and extreme views—how wondrous is the blind eye of their view! ^1-11-30
 
 This completes the explanation of Chapter One. ^1-11-31
+
+---
+
+# Chapter Two: Confession of Negativity — excerpt, verses 2.51–2.65 (ལེའུ་གཉིས་པ། སྡིག་པ་བཤགས་པའི་ལེའུ།)
+
+*Note: this section translates only the closing portion of Chapter Two (verses 51–65), continuing the commentary from the point corresponding to these verses. Thokme's commentary explains several of these verses together in a single combined passage rather than one at a time; where that occurs, the same passage is repeated under each verse's block ID below, since it explains all of them jointly.*
+
+Terrified by fear of the sufferings of hell and the other lower realms, I offer myself to the great bodhisattva Samantabhadra, and offer this body of mine to Mañjughoṣa. I also cry out in anguish, overwhelmed by suffering, to the Protector Avalokiteśvara, whose compassionate intention and conduct never falter. In what way? By saying, "Please protect me, who am full of wrongdoing." I seek refuge in and cry out from the heart to noble Ākāśagarbha, Kṣitigarbha, Maitreya, Sarvanivaraṇaviṣkambhin, and all the other great compassionate protectors, calling out for their protection. (This passage explains verses 2.50–2.52 together.) ^2-51-1
+
+I also go for refuge to Vajrapāṇi, the vajra-holder, at the mere sight of whom the messengers of the Lord of Death and other beings hostile to sentient beings are struck with terror and flee in every direction. (Continuing the same combined passage explaining verses 2.50–2.52.) ^2-52-1
+
+Having in the past transgressed your command and committed wrongs, now, seeing the great terror that is the fruit of that wrongdoing, I go to you for refuge. Please swiftly dispel this fear. ^2-53-1
+
+If, fearing even an ordinary illness such as a disturbance of wind or bile, I must follow the physician's advice and rely on its remedy, then what need is there even to mention that I must strive at the antidote in accordance with the Victor's word, given that I am constantly afflicted by the hundred illnesses of desire and the rest? For these illnesses are severe and their remedy is hard to find. (This passage explains verses 2.54–2.56 together.) ^2-54-1
+
+Why is this? Because even a single one of these afflictions such as attachment, taking the example of all the people dwelling in this world, could destroy every one of them; and apart from practicing the remedy taught in the Victor's word, no other cure can be found anywhere. (Continuing the same combined passage explaining verses 2.54–2.56.) ^2-55-1
+
+The physician for that afflictive illness — that is, the one who cures it — is the Omniscient One alone, because he removes every pain of that affliction. Therefore, to think of not following his instruction is a state of utter delusion, to be reproached. (Continuing the same combined passage explaining verses 2.54–2.56.) ^2-56-1
+
+If, for fear of falling, I must remain watchful even at an ordinary, minor cliff, then what need is there to mention having to be watchful at the abyss of "a thousand leagues" — meaning an especially great one — where one falls into intense suffering and cannot escape for a long time? ^2-57-1
+
+One might think, "Although that wrongdoing is a serious fault, it is enough to confess it at some later time." But to remain complacent, thinking "I surely will not die today," is not reasonable, since the time when I will cease to exist — the time of death — will certainly come without fail. (This passage explains verses 2.58–2.59 together.) ^2-58-1
+
+Who has granted me the assurance "you will not die"? No one has granted this, and there is no way I can be certain of being freed from this death — I cannot be freed. Therefore, since it is certain, without doubt, that I will cease to exist, it is unreasonable for me to remain complacent. (Continuing the same combined passage explaining verses 2.58–2.59.) ^2-59-1
+
+Since beginningless time in saṃsāra I have repeatedly experienced a body and possessions just like these, only to have them perish — so what excess remains for me? Nothing at all remains. Yet, fervently clinging to all such inferior, contaminated wealth, I have acted contrary to the word of my guru and of the Victors together with their heirs. This is unreasonable — do not act in this way. ^2-60-1
+
+Not only wealth, but this very life of mine, along with my relatives and friends, must be left behind, and I alone must go to some uncertain place. Given this, what use is there in all attachment to the loved and aversion to the unloved? Clinging to them is pointless. ^2-61-1
+
+Since suffering arises from non-virtue, "How can I be certain of being freed from that non-virtue?" — this alone is what I should reflect upon continually, day and night. ^2-62-1
+
+Being ignorant and deluded, whatever I have done — whether it is a naturally unwholesome act, such as killing, which is wrong for anyone who commits it, or a conventionally prohibited act, wrong only for one who has taken a vow, such as eating in the afternoon — whatever wrong of either kind I have committed, (This passage explains verses 2.63–2.64 together.) ^2-63-1
+
+I now confess all of it, prostrating again and again directly before the Protectors, palms joined, with a mind afraid of suffering. (Continuing the same combined passage explaining verses 2.63–2.64.) ^2-64-1
+
+I beseech the Guides to acknowledge my wrongdoing as a fault and to remove that fault. Since this wrongdoing is not good conduct, from today onward I shall never commit it again. ^2-65-1

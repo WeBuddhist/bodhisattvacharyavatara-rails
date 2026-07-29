@@ -84,3 +84,37 @@ If anyone harbors a negative mind toward such a child of the Buddha, they will d
 However, if one generates a faithful mind toward them, its fruit will increase even further. Even when great harm befalls these children of the Buddha, no negativity arises, and their virtue naturally increases. ^1-35
 
 I pay homage to the body of anyone in whom this precious jewel of the mind has arisen. I take refuge in those sources of happiness, who connect even their harmers with joy. ^1-36
+
+# Chapter Two: Confession of Negativity — excerpt, verses 2.51–2.65 (ལེའུ་གཉིས་པ། སྡིག་པ་བཤགས་པའི་ལེའུ།)
+
+*Note: this section translates only the closing portion of Chapter Two (verses 51–65).*
+
+I also cry out from my heart in search of refuge to the noble Ākāśagarbha and Kṣitigarbha, and to all the great compassionate protectors. ^2-51
+
+I go for refuge to Vajrapāṇi, at the mere sight of whom the messengers of the Lord of Death and other hostile spirits flee in terror in all directions. ^2-52
+
+In the past I transgressed your commands, but now, seeing this great danger, I go to you for refuge. Please swiftly dispel this fear. ^2-53
+
+If, fearing even an ordinary illness, I must follow the doctor's advice, how much more so when I am constantly afflicted by the hundreds of diseases of desire and the other faults! ^2-54
+
+If a single one of these afflictions could destroy every person living on this earth, and if no other medicine to cure them could be found anywhere, ^2-55
+
+then not to follow the instructions of the Omniscient Physician, who removes every such pain, is a source of utter foolishness deserving reproach. ^2-56
+
+If I must be careful even at the edge of an ordinary, minor cliff, how much more so at the edge of the abyss that plunges a thousand leagues down, where one falls for such a long time! ^2-57
+
+It is not right to relax comfortably, thinking, "I will surely not die today." The time when I will cease to exist will certainly come. ^2-58
+
+Who can grant me freedom from this fear? How can I be certain of being freed from it? Since I will certainly cease to exist, why do I remain so complacent? ^2-59
+
+Of all that I have already experienced and that has since vanished, what remains left over for me? Yet clinging fervently to it, I have acted against the guru's instructions. ^2-60
+
+Since I must leave behind this very life, along with all my relatives and friends, and go on alone to some unknown place, what use is there in all my attachments and aversions? ^2-61
+
+Suffering arises from non-virtue. "How can I be certain of escaping it?" — this alone is what I should constantly contemplate, day and night. ^2-62
+
+Whatever wrongs I have committed out of ignorance and delusion — whether they are naturally unwholesome or wrong by virtue of a precept — ^2-63
+
+all of these I now confess, directly in the presence of the Protectors, with my palms joined, prostrating again and again with a mind afraid of suffering. ^2-64
+
+I ask the Guides to accept my wrongs as faults. Since this is not good conduct, from now on I shall never do it again. ^2-65

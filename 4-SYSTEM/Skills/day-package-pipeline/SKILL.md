@@ -20,7 +20,7 @@ Gather all of the following before starting. If any is missing or ambiguous, sto
 | Day number + chapter | Which day to build (e.g. Day 15, Chapter 2) | — |
 | Schedule | Maps each day to its verse range and date | `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/assets/schedule-hhdl-birthday.md` |
 | Verse rails | Per-verse source content (root verse, interlinear gloss, per-commentator explanations, stories, metaphors, scriptural quotations, main teaching points, key terms, synthesis) | `2-RAILS/Verses/<verse-id>-summary.md` |
-| Plan day file (Section 1) | The Challenge track. **Source differs by chapter** — see the note below. | Ch 1: `…/en/Days/Chapter-1 D1-D14/<day>.md` · Ch 2+: `3-TRANSFORMATIONS/Plans/Dalai Lama/Chapter-<N> …/Day-<day>-Ch<c>-V<a>-<b>.md` |
+| Plan day file (Section 1) | The Challenge track. **Source differs by chapter, and by language for Ch 2+** — see the note below. | Ch 1: `…/en/Days/Chapter-1 D1-D14/<day>.md` · Ch 2+ Tibetan: `3-TRANSFORMATIONS/Plans/Dalai Lama/Chapter-<N> …/Day-<day>-Ch<c>-V<a>-<b>.md` · Ch 2+ English: `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/Chapter-<N> D<a>-D<b>/<day>-ch<c>-v<range>-eng.md` — a top-level file only; if absent, stop and ask (never substitute `Archive/`, `Drafts and Options/`, or the Dalai Lama file's English block) |
 | Plain-English verses | Reader-facing verse text, addressed by block id (`^1-1`, `^2-1` …) | `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md` |
 | Format contract | The locked template every output must match | `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/_TEMPLATE.md` |
 | Termbase | Fixed Buddhist-term renderings + the commentator id → display-name table | `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/_TERMBASE.md` |
@@ -29,11 +29,17 @@ Gather all of the following before starting. If any is missing or ambiguous, sto
 **Section 1 source, by chapter (this is the part that changes most between chapters):**
 
 - **Chapter 1** used `…/en/Days/Chapter-1 D1-D14/<day>.md` and had four sub-blocks: **Notification, Opening, From the Tradition, Today's Practice**.
-- **Chapter 2 onward** uses the **Dalai Lama** plan file `3-TRANSFORMATIONS/Plans/Dalai Lama/Chapter-<N> D<first>-D<last>/Day-<day>-Ch<c>-V<a>-<b>.md`. That file holds Tibetan, Hindi, and an `# English (Easy Plain English)` block. **There is no Notification.** Map its parts to the package's challenge sub-blocks:
+- **Chapter 2 onward, Tibetan package:** always sourced from the **Dalai Lama** plan file `3-TRANSFORMATIONS/Plans/Dalai Lama/Chapter-<N> D<first>-D<last>/Day-<day>-Ch<c>-V<a>-<b>.md`. That file holds Tibetan, Hindi, and an `# English (Easy Plain English)` block. **There is no Notification.** Map its Tibetan parts to the package's challenge sub-blocks:
   - **Opening** ← "Introduction to Today's Practice" (Tibetan `ངོ་སྤྲོད།`)
   - **From the Tradition** ← "Commentary & Story Explanation" (Tibetan `འགྲེལ་བཤད།`)
   - **Today's Practice** ← "Today's Practice" — its **Challenge** line becomes `**Practice:**`, its **Explanation** stays `**Explanation:**` (Tibetan `དེ་རིང་གི་ཉམས་ལེན།` → `ཉམས་ལེན་དངོས།` + `འགྲེལ་བཤད།`)
-  - The English package's Section 1 uses the **English block**; the Tibetan package's Section 1 uses the **Tibetan sections** of the same file. Ignore the `# ...སྐྱབས་འགྲོ་སེམས་བསྐྱེད།` (refuge/bodhicitta liturgy) and `བསྔོ་བ་དང་སྨོན་ལམ།` (dedication) sections — they are not part of the day-package.
+  - Ignore the `# ...སྐྱབས་འགྲོ་སེམས་བསྐྱེད།` (refuge/bodhicitta liturgy) and `བསྔོ་བ་དང་སྨོན་ལམ།` (dedication) sections — they are not part of the day-package.
+- **Chapter 2 onward, English package:** prefer the curated English day file at `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/Chapter-<N> D<first>-D<last>/<day>-ch<c>-v<range>-eng.md` — a top-level file in that folder (never a file under its `Archive/` or `Drafts and Options/` subfolders; those are not valid Section 1 sources). It uses its own numbered headings, mapped as:
+  - **Opening** ← `## 1) Introduction to Today's Practice`
+  - **From the Tradition** ← `## 2) Commentary Explanation`
+  - **Today's Practice** ← `## 3) Today's Practice` — its **Challenge**/**Actual Practice**/**The Practice** line becomes `**Practice:**`, its **Explanation** stays `**Explanation:**`
+  - If no top-level file exists for that day in the `Days/Chapter-<N> …` folder, **stop and ask the human contributor** whether to (a) leave Section 1 as the empty placeholder (`*(The practice-plan challenge track is intentionally omitted from this package...)*`) or (b) source it from somewhere else. **Never silently fall back to the `Dalai Lama` file's English block or to `Archive`/`Drafts and Options` — a prior attempt to do so was explicitly rejected by the human contributor.**
+  - The `*(Source: …)*` line at the end of Section 1 must point to the actual file used (the curated `Days/…/<day>-ch<c>-v<range>-eng.md` file when present).
 
 ## Output
 
@@ -63,7 +69,7 @@ language: en                      # "bo" is not used; Tibetan file omits documen
 document_type: english-translation
 translated_from: "…/Day-Packages/Chapter-<N> …/<day>.md"
 sources:
-  plan_day_file: "…/en/Days/Chapter-1 …/<day>.md"   # Ch 1; for Ch 2+ point to the Dalai Lama plan file
+  plan_day_file: "…/en/Days/Chapter-1 …/<day>.md"   # Ch 1; for Ch 2+ English package point to the curated Days/Chapter-<N> …/<day>-ch<c>-v<range>-eng.md file (Tibetan package still points to the Dalai Lama plan file)
   schedule_file: "…/assets/schedule-hhdl-birthday.md"
   verse_source: "3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md"
   rail_files:
@@ -182,7 +188,7 @@ Key format invariants (full list in `_TEMPLATE.md`):
 
 ### Phase B — Translate into the English package `<day>-en.md`
 
-8. Copy the Tibetan file's structure to the English path. Set `document_type: english-translation`, `translated_from:` and the `translation_note:` (see an existing `-en.md` for the exact note). For Section 1, use the plan file's **English** text (Chapter 2+: the `# English (Easy Plain English)` block).
+8. Copy the Tibetan file's structure to the English path. Set `document_type: english-translation`, `translated_from:` and the `translation_note:` (see an existing `-en.md` for the exact note). For Section 1: Chapter 1 uses the Chapter-1 plan file's English text as before. **Chapter 2+ uses the curated English day file** `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/Chapter-<N> D<a>-D<b>/<day>-ch<c>-v<range>-eng.md` (top-level only — never `Archive/` or `Drafts and Options/`), mapping `## 1) Introduction to Today's Practice` → Opening, `## 2) Commentary Explanation` → From the Tradition, and `## 3) Today's Practice` → Today's Practice (its Challenge/Actual-Practice line becomes `**Practice:**`). Set `sources.plan_day_file` to this file's path and cite it in the `*(Source: …)*` line. If no such file exists for the day, **stop and ask the human contributor** — do not fall back to the Dalai Lama file's English block or to `Archive`/`Drafts and Options`, and do not invent content.
 9. Render every rail block into English under Rule 2 and the termbase (Rule 3). Where a term-to-term mapping matters (Key Terms rows, metaphor labels), keep the original Tibetan in parentheses.
 10. Pull Section 2 and each Root Verse verbatim from `BCA-Full-Plain-English.md` (do not translate these — they are already English).
 11. Keep commentator/story headings display-only; keep the `cm:`/`story:` anchors from Phase A. Make any `Divergences` H5 heading start with the word "Divergences" (see the format invariants).

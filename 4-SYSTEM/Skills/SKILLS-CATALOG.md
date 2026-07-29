@@ -214,6 +214,12 @@ These skills populate `2-RAILS/` with the structured context that translation an
 **Outputs:** Day files under `3-TRANSFORMATIONS/Translations/zh-plain-chinese/days/`; termbase updates as needed.
 → [`generate-modern-chinese/SKILL.md`](generate-modern-chinese/SKILL.md)
 
+### `rails-to-verse-translation` **[exists]**
+**Purpose:** Translate a batch of verses into metrical or rhymed verse in any target language, working from `2-RAILS/Verses/` synthesis rather than the bare root line; derives the style contract from an existing partial translation, locks a termbase built from the rails' `གནད་ཚིག` tables, and logs every `⚑` divergence with the reading taken and the readings dropped.
+**Inputs:** Verse range; target language and `lang_tag`; track name; an existing partial translation to match on form (or a statement that none exists); optional append target; divergence policy; doc language.
+**Outputs:** Track folder `3-TRANSFORMATIONS/Translations/<track>/` with `requirements.md`, `audience.md`, `termbase.md`, `divergence-log.md`, and `Chapter-NN-verses-A-B.md`; optionally appended and block-ID-stamped into an existing translation file. Bundles three scripts: rails context extraction, verse linting, and block-ID stamping.
+→ [`rails-to-verse-translation/SKILL.md`](rails-to-verse-translation/SKILL.md)
+
 ---
 
 ## Translation QA skills

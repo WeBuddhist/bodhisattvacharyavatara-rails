@@ -1,80 +1,83 @@
 ---
-title: "हिंदी पद्यानुवाद — शैली-अनुबंध"
+title: "Hindi verse translation - style contract"
 track: hi-poetic
 transformation_type: translation
 lang_tag: hi
 language: hindi
 status: draft
-base_style_source: "1-SOURCES/Translations/translation-ai/hi-Chapter 1-2.md (श्लोक 1-1 से 2-24)"
+doc_language: en
+doc_language_note: "CLAUDE.md §9 asks that requirements.md be written in the target language. Written in English at the explicit request of the vault owner, who does not read Hindi and must be able to audit this contract. Locked renderings and quoted verse lines stay in Devanagari."
+base_style_source: "1-SOURCES/Translations/translation-ai/bca-hi-poetic.md (verses 1-1 to 2-24)"
 ---
 
-# शैली-अनुबंध (Style Contract)
+# Style contract
 
-यह अनुबंध विद्यमान हिंदी पद्यानुवाद (अध्याय १-१ से २-२४) से **व्युत्पन्न** है, नया आविष्कार नहीं। नए श्लोक पुराने से अविच्छिन्न पढ़े जाने चाहिए।
+This contract is **derived** from the pre-existing Hindi verse translation (1-1 through 2-24), not invented. New verses must read as continuous with the old ones.
 
 ---
 
-## १. पद्य की बनावट
+## 1. Verse shape
 
-- **चार पंक्तियाँ** प्रति श्लोक। न तीन, न पाँच।
-- प्रत्येक पंक्ति में **एक अल्पविराम-यति** लगभग मध्य में — पंक्ति दो अर्ध-भागों में बँटती है।
+- **Four lines** per verse. Never three, never five.
+- Each line carries **one comma caesura** near the middle, splitting it into two half-lines:
   > `जितने भी हैं लोकों में सारे, धूल के छोटे-छोटे कण,`
-- **तुक: AABB** — पंक्ति १-२ में तुक, पंक्ति ३-४ में तुक। तुक अंत्यानुप्रास है, कठोर छंद-गणना नहीं; स्वर-साम्य पर्याप्त है (`सागर हैं / सागर हैं`, `करूँ / धरूँ`, `कण / झुकता हूँ`)।
-- पंक्ति १, २, ३ के अंत में **एक रिक्त स्थान** (markdown पंक्ति-विच्छेद हेतु)। पंक्ति ४ के अंत में **`॥`**।
-- पंक्ति २ के अंत में सामान्यतः **`।`** — विद्यमान पाठ में यह असंगत है; अनुसरण करें जहाँ स्वाभाविक हो, बलपूर्वक न लगाएँ।
+- **Rhyme: AABB** — lines 1-2 rhyme, lines 3-4 rhyme. This is end-assonance, not strict metrical scansion; vowel agreement is enough (`सागर हैं / सागर हैं`, `करूँ / धरूँ`, `कण / झुकता हूँ`).
+- Lines 1, 2, 3 end with **a single trailing space** (markdown line break). Line 4 ends with **`॥`**.
+- Line 2 usually ends with **`।`** — the existing text is inconsistent about this. Follow it where natural; don't force it.
 
-## २. श्लोक-संख्या
+## 2. Verse numbering
 
-- शीर्ष पर **`**(देवनागरी अंक)**`** — जैसे `**(२५)**`।
-- संख्या **प्रति अध्याय** पुनः आरंभ होती है। अध्याय २ के श्लोक `(१)` से गिने जाते हैं।
-- श्लोक-संख्या और पहली पंक्ति के बीच कोई रिक्त पंक्ति नहीं; श्लोकों के बीच एक रिक्त पंक्ति।
-- **कोई block ID नहीं।** विद्यमान फ़ाइल में `^` चिह्न नहीं हैं; न जोड़ें।
+- Header is **`**(Devanagari numeral)**`** — e.g. `**(२५)**`, alone on its own line.
+- Numbering **restarts per chapter**. Chapter 2 counts from `(१)`.
+- No blank line between the number and line 1; one blank line between verses.
+- The block ID (`^2-25`) sits on its own line **after** line 4, separated by a blank line.
 
-## ३. भाषा-स्तर
+## 3. Register
 
-- **सरलतम हिंदी।** तत्सम शब्द केवल तब जब वह शब्द ही धार्मिक रूप से आवश्यक हो (बोधिचित्त, तथागत, स्तूप)। अन्यथा बोलचाल की हिंदी: `तकलीफ़`, `नासमझ`, `भयानक`, `फ़ायदा`, `ज़ोर`।
-- उर्दू/फ़ारसी मूल के प्रचलित शब्द स्वीकार्य हैं — विद्यमान पाठ में हैं (`ताकत`, `अंजाम`, `इंसान`, `खास`)।
-- **कोष्ठक-गloss संयम से** — केवल जहाँ शब्द के बिना अर्थ टूटे: `सोने की मूठ (डंडी) वाले`। प्रति श्लोक एक से अधिक नहीं।
-- **कोई पाद-टिप्पणी नहीं, कोई अंग्रेज़ी नहीं, कोई देवनागरी-इतर लिपि नहीं।**
+- **Simplest possible Hindi.** Use a Sanskritic (*tatsama*) word only when that word is itself religiously necessary — बोधिचित्त, तथागत, स्तूप. Otherwise everyday Hindi: `तकलीफ़`, `नासमझ`, `भयानक`, `फ़ायदा`, `ज़ोर`.
+- Common Urdu/Persian-origin words are fine and are already present in the base text: `ताकत`, `अंजाम`, `इंसान`, `खास`.
+- **Parenthetical glosses sparingly** — only where meaning breaks without one: `सोने की मूठ (डंडी) वाले`. Never more than one per verse.
+- **No footnotes, no English, no non-Devanagari script** in the verses themselves.
 
-## ४. वर्तनी-निर्णय (अध्याय २ हेतु बद्ध)
+## 4. Spelling decisions (locked for chapter 2)
 
-| निर्णय | कारण |
+| Decision | Reason |
 |---|---|
-| **बोधिसत्व** (एक `त`) | अध्याय २ की विद्यमान वर्तनी (श्लोक २-२१, २-२२)। अध्याय १ में `बोधिसत्त्व` है — वहाँ न बदलें, यहाँ न लाएँ। |
-| **बोधिचित्त** | सर्वत्र विद्यमान। |
-| नुक़्ता प्रयोग वैकल्पिक | विद्यमान पाठ असंगत है; पठनीयता को वरीयता। |
+| **बोधिसत्व** (single त) | The spelling already used in chapter 2 (verses 2-21, 2-22). Chapter 1 uses `बोधिसत्त्व` — don't change it there, don't carry it here. |
+| **बोधिचित्त** | Used throughout. |
+| Nuqta optional | The base text is inconsistent; readability wins. |
 
-## ५. रेल-आधारित अनुवाद-विधि (अनिवार्य)
+## 5. Rails-based method (mandatory)
 
-प्रत्येक श्लोक के लिए यही क्रम, यही सामग्री:
+Same order, same inputs, for every verse:
 
-1. **तिब्बती मूल** (`1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md`) — अर्थ का आधार।
-2. **संस्कृत** (`1-SOURCES/Text/BCAV08_SH_sk.md`) — संदिग्धता-निवारण।
-3. **रेल का `བསྡུས་དོན།` संश्लेषण** (`2-RAILS/Verses/<id>-summary.md`) — यही बताता है कि श्लोक *क्या कह रहा है*। मूल पंक्ति से नहीं, इससे अनुवाद करें।
-4. **रेल की `གནད་ཚིག` शब्द-सूची** → `termbase.md` से बद्ध हिंदी रूप।
-5. **रेल के `⚑ Divergences`** → §६ के नियम से हल करें।
-6. **पूर्ववर्ती ३ हिंदी श्लोक** — लय और स्वर की निरंतरता हेतु।
+1. **Tibetan root** (`1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md`) — the basis of meaning.
+2. **Sanskrit** (`1-SOURCES/Text/BCAV08_SH_sk.md`) — for disambiguation.
+3. **The rail's `བསྡུས་དོན།` synthesis** (`2-RAILS/Verses/<id>-summary.md`) — this is what tells you *what the verse is saying*. Translate from this, not from the bare root line.
+4. **The rail's `གནད་ཚིག` key-terms table** → resolved to a locked Hindi form via `termbase.md`.
+5. **The rail's `⚑ Divergences`** → resolved by the rule in §6.
+6. **The preceding 3 Hindi verses** — for continuity of metre and voice.
 
-तीन अंग्रेज़ी अनुवाद (Padmakara, Wallace, Choephel) केवल **साक्षी** हैं — जहाँ तीनों सहमत हों वहाँ पाठ पुष्ट; जहाँ बँटें वहाँ रेल का संश्लेषण निर्णायक है। अंग्रेज़ी से अनुवाद **न करें**।
+The three English translations (Padmakara, Wallace, Choephel) are **witnesses only**: where all three agree, a reading is confirmed; where they split, the rail's synthesis decides. **Never translate from the English.**
 
-## ६. मतभेद-नियम (Divergence Rule)
+## 6. Divergence rule
 
-टीकाकारों के भेद (`⚑`) पर पद्य **व्यापकतम प्रामाणिक अर्थ** ले:
+Where commentators disagree (`⚑`), the verse takes the **broadest attested reading**:
 
-- यदि एक टीका संकुचित वर्गीकरण देती है (जैसे `མཆོད་རྟེན` = आठ विशिष्ट स्तूप) और दूसरी व्यापक (= बुद्ध के काय-वाक्-चित्त का कोई भी आधार), तो **व्यापक** लें।
-- संकुचित पाठ पद्य में **न आए**, पर `divergence-log.md` में दर्ज हो — कौन-सा अर्थ लिया, कौन-से छोड़े, किस रेल-उद्धरण से।
-- कभी दो अर्थों को एक पंक्ति में ठूँसकर सामंजस्य **न बनाएँ**। एक चुनें, शेष लॉग करें।
+- If one commentary gives a narrow taxonomy (e.g. `མཆོད་རྟེན` = eight specific stūpas) and another gives a wide sense (= any support of the Buddha's body, speech, or mind), take the **wide** one.
+- The narrow reading must **not** appear in the verse, but must be recorded in `divergence-log.md` — which reading was taken, which were dropped, and the rail citation for each.
+- **Never reconcile two readings by cramming both into one line.** Pick one, log the rest.
+- Exception: if the rail itself states that two glosses are complementary rather than contradictory, both may be carried. Note it in the log.
 
-## ७. निषेध (Hard Prohibitions)
+## 7. Hard prohibitions
 
-- रेल के संश्लेषण में अनुपस्थित कोई भाव पद्य में **न जोड़ें** — तुक मिलाने के लिए भी नहीं। तुक भाव के अधीन है।
-- `termbase.md` में बद्ध किसी पद का पर्यायवाची **न लाएँ**।
-- श्लोक **न जोड़ें, न घटाएँ, न मिलाएँ** — तिब्बती मूल में जो एक श्लोक है, वह हिंदी में एक श्लोक है।
-- LLM के स्मृति-ज्ञान से कोई कथा, नाम, संख्या या वर्गीकरण **न डालें**।
+- **Add nothing** the rail's synthesis does not support — not even to complete a rhyme. Rhyme is subordinate to meaning.
+- **No synonyms** for any lemma locked in `termbase.md`.
+- **Never add, drop, merge, or split verses.** One verse in the Tibetan is one verse in Hindi.
+- **No parametric knowledge** — no story, name, number, or taxonomy from the model's own memory.
 
-## ८. उत्पादन-प्रक्रिया
+## 8. Production process
 
-- एक बार में **५-६ श्लोक**। अधिक लेने पर लय टूटती है।
-- प्रत्येक बैच के बाद QA: श्लोक-गणना, शब्द-कोश-पालन, पंक्ति-गणना, तुक, रेल-निष्ठा।
-- सभी उत्पादन `status: draft` रहता है। `complete` केवल मानव विषय-विशेषज्ञ लगाता है।
+- **5-6 verses per pass.** More than that and the metre degrades.
+- QA after each pass: verse count, line count, termbase compliance, rhyme, rail fidelity.
+- All output stays `status: draft`. Only a human subject-matter expert sets `complete`.

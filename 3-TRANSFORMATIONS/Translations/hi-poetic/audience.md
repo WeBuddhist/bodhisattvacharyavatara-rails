@@ -1,35 +1,36 @@
 ---
-title: "हिंदी पद्यानुवाद — पाठक-परिचय"
+title: "Hindi verse translation - audience profile"
 track: hi-poetic
 transformation_type: translation
 lang_tag: hi
 language: hindi
+doc_language: en
 status: draft
 ---
 
-# पाठक-परिचय (Audience Profile)
+# Audience profile
 
-## पाठक कौन है
+## Who the reader is
 
-हिंदी भाषी सामान्य पाठक — जो बौद्ध धर्म में रुचि रखता है, पर संस्कृत, तिब्बती या पालि नहीं जानता। न विद्वान, न भिक्षु; एक श्रद्धालु गृहस्थ पाठक।
+A general Hindi-speaking reader with an interest in Buddhism who knows no Sanskrit, Tibetan, or Pali. Not a scholar, not a monastic — a lay devotional reader.
 
-## पूर्व-ज्ञान
+## Prior knowledge
 
-- **है:** भारतीय धार्मिक शब्दावली की सामान्य समझ — बुद्ध, धर्म, संघ, पाप, पुण्य, कर्म, संसार, नरक, प्रणाम, शरण।
-- **नहीं है:** अभिधर्म की तकनीकी शब्दावली; विनय के पारिभाषिक भेद (जैसे उपाध्याय/आचार्य का पंचविध विभाजन); तिब्बती टीका-परंपरा के भीतर के मतभेद; स्तूप के आठ प्रकार जैसे विशिष्ट वर्गीकरण।
+- **Has:** general Indian religious vocabulary — बुद्ध, धर्म, संघ, पाप, पुण्य, कर्म, संसार, नरक, प्रणाम, शरण.
+- **Lacks:** technical Abhidharma vocabulary; Vinaya distinctions (e.g. the fivefold classification of *ācārya*); the internal disputes of the Tibetan commentarial tradition; specialised taxonomies like the eight types of stūpa.
 
-इसलिए जहाँ टीकाओं में सूक्ष्म भेद हैं, अनुवाद उनका **व्यापकतम अर्थ** लेता है और भेद को अलग `divergence-log.md` में दर्ज करता है — पद्य में टिप्पणी या कोष्ठक-भार नहीं डालता।
+So where the commentaries draw fine distinctions, the translation takes the **broadest sense** and records the distinction in `divergence-log.md` — it does not load the verse with glosses or parentheses.
 
-## उपयोग
+## Use cases
 
-1. **नित्य पाठ** — पाठक इसे ज़ोर से पढ़ता या गाता है। इसलिए लय और तुक अनिवार्य हैं, केवल सजावट नहीं।
-2. **मनन** — एक पद्य पढ़कर दिन भर उस पर विचार।
-3. **साझा करना** — व्हाट्सएप, सत्संग-मंडली में एक-एक पद्य भेजना। अतः प्रत्येक पद्य स्वतः-पूर्ण होना चाहिए।
+1. **Daily recitation** — the reader reads or chants aloud. Metre and rhyme are therefore functional, not decorative.
+2. **Contemplation** — one verse read, then held in mind through the day.
+3. **Sharing** — sent verse-by-verse over WhatsApp or in a study circle. Each verse must therefore stand alone.
 
-## प्रेरणा
+## Motivation
 
-पाठक शांतिदेव के ग्रंथ को *अनुभव* करना चाहता है, उसका *अध्ययन* नहीं। वह विद्वत्ता नहीं, हृदय-स्पर्श खोजता है। भाषा जितनी सरल, उतनी सफल — पर भाव की गहराई से समझौता नहीं।
+The reader wants to *experience* Śāntideva's text, not *study* it. They are after something that touches the heart, not erudition. The simpler the language the better — but not at the cost of depth of meaning.
 
-## स्वर (Tone)
+## Tone
 
-प्रथम पुरुष, विनम्र, भक्तिपूर्ण, आत्म-स्वीकृति से भरा। द्वितीय अध्याय पाप-देशना है — अतः स्वर में सच्चा पश्चाताप और भय है, पर निराशा नहीं; अंत में शरण का आश्वासन है।
+First person, humble, devotional, full of self-acknowledgement. Chapter 2 is the confession of misdeeds, so the voice carries genuine remorse and fear — but not despair; it resolves into the reassurance of refuge.

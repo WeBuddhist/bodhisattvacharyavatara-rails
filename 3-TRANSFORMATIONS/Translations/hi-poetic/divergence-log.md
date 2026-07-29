@@ -1,204 +1,213 @@
 ---
-title: "हिंदी पद्यानुवाद — मतभेद-लॉग (अध्याय २, श्लोक २५–५०)"
+title: "Hindi verse translation - divergence log (chapter 2, verses 25-50)"
 track: hi-poetic
 transformation_type: divergence-log
 lang_tag: hi
+doc_language: en
 status: draft
-rule: "requirements.md §६ — व्यापकतम प्रामाणिक अर्थ पद्य में; शेष यहाँ दर्ज।"
+rule: "requirements.md §6 - broadest attested reading goes into the verse; everything else is recorded here."
 ---
 
-# मतभेद-लॉग
+# Divergence log
 
-रेल-फ़ाइलों में `⚑` से चिह्नित प्रत्येक मतभेद यहाँ दर्ज है: पद्य ने कौन-सा अर्थ लिया, कौन-से छोड़े, और किस टीका का कौन-सा पाठ था।
+Every `⚑` flagged in the rails is recorded here: which reading the Hindi verse carries, which were dropped, and what each commentary actually said.
 
-**गणना:** २६ श्लोकों में से ९ पर रेल ने `⚑` लगाया — २-२५, २-२६, २-२९, २-३०, २-३१, २-३२, २-३७, २-३९, २-४४, २-४५, २-४७, २-५०।
+**Count:** 12 of the 26 verses carry a `⚑` — 2-25, 2-26, 2-29, 2-30, 2-31, 2-32, 2-37, 2-39, 2-44, 2-45, 2-47, 2-50.
+
+Of these, **5 changed what the Hindi says** (2-25 ×2, 2-37, 2-44, 2-45a, 2-47b). The remaining 7 are structural or lexical disputes with no effect on the verse.
 
 ---
 
-## २-२५ — दो मतभेद
+## 2-25 — two divergences
 
-### (क) `མཆོད་རྟེན` (स्तूप)
+### (a) `མཆོད་རྟེན` (stūpa)
 
-| टीका | पाठ | पद्य में? |
+| Commentary | Reading | In the verse? |
 |---|---|---|
-| khenpo-zhengah, kunpal | तथागत के काय-वाक्-चित्त का *कोई भी* आधार — व्यापक | **✓ लिया** |
-| minyak-kunzang-sonam, khenpo-kunga | आठ विशिष्ट स्तूप: पद्मपुंज, मारविजय, धर्मचक्र, देवावतरण, संघभेद-शमन, ऋद्धिप्रदर्शन, विजय, परिनिर्वाण | ✗ छोड़ा (संकुचित) |
-| tenzin-gyatso | शास्ता के पूर्वजन्मों के दुष्करचर्या-स्थल तथा शरीरधातु-युक्त स्तूप | ✗ छोड़ा (भिन्न परिधि) |
+| khenpo-zhengah, kunpal | *Any* support of the Tathāgata's body, speech, or mind — wide | **✓ taken** |
+| minyak-kunzang-sonam, khenpo-kunga | The eight specific stūpas: Heaped Lotuses, Subduing Māra, Turning the Dharma Wheel, Descent from Heaven, Reconciling the Saṅgha, Displaying Miracles, Victory, Parinirvāṇa | ✗ dropped (too narrow) |
+| tenzin-gyatso | Sites of the Teacher's austerities in previous lives, and stūpas containing bodily relics | ✗ dropped (different scope) |
 
-**हिंदी:** `पावन स्तूप` — गणना-रहित, व्यापक।
-स्रोत: `2-RAILS/Verses/2-25-summary.md`
+**Hindi:** `पावन स्तूप` — no enumeration, wide sense.
+Source: `2-RAILS/Verses/2-25-summary.md`
 
-### (ख) `བརྟུལ་ཞུགས་མཆོག` (श्रेष्ठ साधक)
+### (b) `བརྟུལ་ཞུགས་མཆོག` (supreme practitioner)
 
-| टीका | पाठ | पद्य में? |
+| Commentary | Reading | In the verse? |
 |---|---|---|
-| gyaltsab, ngulchu-thogmed | मुक्ति-मार्ग पर प्रयत्नशील *कोई भी* व्यक्ति — कोई वर्ग-निर्देश नहीं | **✓ लिया (व्यापकतम)** |
-| kunpal, khenpo-kunga | दो निश्चित वर्ग: श्वेतवस्त्र-जटाधारी मंत्री-वर्ग और काषायवस्त्र भिक्षु-संघ | ✗ छोड़ा |
-| minyak-kunzang-sonam, tenzin-gyatso | तीन यानों में भूमि-प्राप्त आर्यजन (श्रावक, प्रत्येकबुद्ध, बोधिसत्व) | ✗ छोड़ा |
+| gyaltsab, ngulchu-thogmed | *Anyone* who shoulders the effort of the path to liberation — no class specified | **✓ taken (broadest)** |
+| kunpal, khenpo-kunga | Two definite orders: the white-robed, dreadlocked mantrin class and the saffron-robed monastic saṅgha | ✗ dropped |
+| minyak-kunzang-sonam, tenzin-gyatso | Noble ones (śrāvaka, pratyekabuddha, bodhisattva) who have attained the grounds across the three vehicles | ✗ dropped |
 
-**हिंदी:** `मुक्ति-पथ पर चलते हुए श्रेष्ठ साधकों को` — किसी वर्ग का नाम नहीं।
-स्रोत: `2-RAILS/Verses/2-25-summary.md`
+**Hindi:** `मुक्ति-पथ पर चलते हुए श्रेष्ठ साधकों को` ("to the supreme practitioners walking the path of liberation") — no order is named.
+Source: `2-RAILS/Verses/2-25-summary.md`
 
 ---
 
-## २-२६ — `དམ་པའི་ཆོས` (सच्चा धर्म) का लक्षण
+## 2-26 — the definition of `དམ་པའི་ཆོས` (true Dharma)
 
-| टीका | पाठ |
+| Commentary | Reading |
 |---|---|
-| kunpal | आगम और अधिगम (`ལུང་དང་རྟོགས་པ`) स्वरूप |
-| khenpo-zhengah | द्विसत्य-स्वभाव (`བདེན་གཉིས`) |
+| kunpal | Of the nature of scripture and realisation (`ལུང་དང་རྟོགས་པ`) |
+| khenpo-zhengah | Of the nature of the two truths (`བདེན་གཉིས`) |
 
-**पद्य में:** कोई भी लक्षण नहीं — मूल श्लोक केवल `ཆོས` कहता है। `सच्चा धर्म` तटस्थ रहा; लक्षण-भेद पद्य में नहीं आया। यह मतभेद पाठक-स्तर (audience.md) के लिए तकनीकी है।
-स्रोत: `2-RAILS/Verses/2-26-summary.md`
+**In the verse:** neither definition. The root verse says only `ཆོས`, so Hindi `सच्चा धर्म` stays neutral. This dispute is technical for the reader described in `audience.md`.
+Source: `2-RAILS/Verses/2-26-summary.md`
 
 ---
 
-## २-२९ — `མཐོང` (देखना) का अर्थ
+## 2-29 — the sense of `མཐོང` (to see)
 
-| टीका | पाठ | पद्य में? |
+| Commentary | Reading | In the verse? |
 |---|---|---|
-| अधिकांश टीकाएँ | अपनी ओर से भूल को भूल के रूप में पहचानना | **✓ लिया (बहुमत)** |
-| minyak-kunzang-sonam (`འགྲེལ་ཆེན` पाठ) | पाठभेद `གཏི་མུག་འཁྲུལ་པས་བདག་གནོད་ཕྱིར`; अतः "देखना" = पाप-कर्म का फल पककर स्वयं पर आ पड़ने से भूल दिखना | ✗ छोड़ा |
+| Most commentaries | Recognising one's own fault *as* a fault | **✓ taken (majority)** |
+| minyak-kunzang-sonam (per the `འགྲེལ་ཆེན`) | Variant reading `གཏི་མུག་འཁྲུལ་པས་བདག་གནོད་ཕྱིར`; hence "seeing" = the fault becoming visible because the karmic fruit has ripened and is harming one | ✗ dropped |
 
-**हिंदी:** `अब उस भूल को भूल मानकर, उसे साफ़-साफ़ देखता हूँ` — स्वयं की पहचान, फल-भोग नहीं।
-स्रोत: `2-RAILS/Verses/2-29-summary.md`
+**Hindi:** `अब उस भूल को भूल मानकर, उसे साफ़-साफ़ देखता हूँ` — self-recognition, not the experience of consequences.
+Source: `2-RAILS/Verses/2-29-summary.md`
 
 ---
 
-## २-३० और २-३१ — `གཞན་དག` (दूसरे) की परिधि
+## 2-30 and 2-31 — the scope of `གཞན་དག` (others)
 
-यही मतभेद दोनों श्लोकों में दोहराया गया।
+The same divergence recurs in both verses.
 
-| टीका | पाठ |
+| Commentary | Reading |
 |---|---|
-| kunpal, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga (६) | उपाध्याय-आचार्य आदि *अन्य गुरुजन* |
-| khenpo-zhengah, tenzin-gyatso (२) | *सामान्य प्राणी* भी — विशेषतः रोगी, अनाथ, भूख-प्यास से पीड़ित करुणा-पात्र |
+| kunpal, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga (6) | *Other teachers* — abbots, masters, and the like |
+| khenpo-zhengah, tenzin-gyatso (2) | *Sentient beings generally* too, especially objects of compassion: the sick, the destitute, those tormented by hunger and thirst |
 
-**पद्य में — निर्णय:** मूल तिब्बती की ही अनिर्दिष्टता रखी गई। हिंदी `गुरुजनों और दूसरों को` (२-३०) दोनों पाठों को खुला छोड़ता है — न गुरु-वर्ग तक संकुचित, न प्राणी-मात्र तक विशेषित। §६ का "व्यापकतम" यहाँ *अनिर्णय* ही है, क्योंकि किसी एक को चुनना दूसरे को काटना होता।
-स्रोत: `2-RAILS/Verses/2-30-summary.md`, `2-RAILS/Verses/2-31-summary.md`
+**Decision:** the indeterminacy of the Tibetan was preserved. Hindi `गुरुजनों और दूसरों को` (2-30) leaves both readings open — neither narrowed to the teacher class nor specified to beings at large. Here §6's "broadest" is precisely *not deciding*, because choosing either reading would cut the other.
+Source: `2-RAILS/Verses/2-30-summary.md`, `2-RAILS/Verses/2-31-summary.md`
 
 ---
 
-## २-३२ — साबचद (संरचना) का स्थान
+## 2-32 — placement in the outline
 
-| टीका | पाठ |
+| Commentary | Reading |
 |---|---|
-| अधिकांश टीकाएँ | यह श्लोक `སུན་འབྱིན་པའི་སྟོབས` (पश्चाताप का बल) के अंतर्गत |
-| कुछ टीकाएँ | `རྟེན་གྱི་སྟོབས` (आश्रय का बल) के अंतर्गत |
-| minyak-kunzang-sonam | दोनों में विरोध नहीं — पश्चाताप के साथ ही शरण खोजी जाती है |
+| Most commentaries | This verse belongs under `སུན་འབྱིན་པའི་སྟོབས` (the power of regret) |
+| Some | Under `རྟེན་གྱི་སྟོབས` (the power of reliance) |
+| minyak-kunzang-sonam | No contradiction — one seeks refuge precisely while feeling regret |
 
-**पद्य पर प्रभाव:** शून्य। यह संरचना-वर्गीकरण का प्रश्न है, अर्थ का नहीं। पद्य दोनों को समेटता है — पश्चाताप (`पाप धुलें उससे पहले`) और शरण-याचना (`जल्दी मुझको बचाइए`) दोनों उपस्थित।
-स्रोत: `2-RAILS/Verses/2-32-summary.md`
+**Effect on the verse:** none. This is a question of structural classification, not meaning. The Hindi holds both: regret (`कहीं ऐसा न हो कि पाप धुलें, उससे पहले ही मर जाऊँ`) and the plea for refuge (`जल्दी बचा लीजिए`).
+Source: `2-RAILS/Verses/2-32-summary.md`
 
 ---
 
-## २-३७ — `མདུན་ན་གནས་པ` (सामने खड़ा रहना)
+## 2-37 — `མདུན་ན་གནས་པ` (standing before one)
 
-| टीका | पाठ | पद्य में? |
+| Commentary | Reading | In the verse? |
 |---|---|---|
-| kunpal | परछाई की तरह देह से अविच्छिन्न, प्रतीक्षा करता खड़ा — `ལས་ནི་གྲིབ་མ་བཞིན་དུ་རྗེས་སུ་འབྲང` उद्धरण से | **✓ लिया** |
-| khenpo-kunga, tenzin-gyatso | चित्त-धारा में `བག་ཆགས` (संस्कार/वासना) के रूप में विद्यमान | ✗ छोड़ा |
+| kunpal | Inseparable from the body like its shadow, waiting in front of one — citing `ལས་ནི་གྲིབ་མ་བཞིན་དུ་རྗེས་སུ་འབྲང` | **✓ taken** |
+| khenpo-kunga, tenzin-gyatso | Present in the mind-stream as `བག་ཆགས` (latent imprints / dispositions) | ✗ dropped |
 
-**कारण:** `बग-छगस` (latent imprint) अभिधर्म की तकनीकी संज्ञा है; `audience.md` के अनुसार पाठक के पास यह पूर्व-ज्ञान नहीं। परछाई का बिंब सुलभ है और दूसरे पाठ का खंडन नहीं करता।
-**हिंदी:** `जैसे परछाई देह को छोड़े नहीं, वैसे साथ मेरे अड़े हैं`
-स्रोत: `2-RAILS/Verses/2-37-summary.md`
+**Reason:** `བག་ཆགས` (latent imprint) is a technical Abhidharma term; per `audience.md` the reader does not have that background. The shadow image is accessible and does not contradict the other reading.
+**Hindi:** `जैसे परछाई देह को छोड़े नहीं, वैसे साथ मेरे अड़े हैं`
+Source: `2-RAILS/Verses/2-37-summary.md`
 
 ---
 
-## २-३९ — `གོད` / `འགོད` — शब्द-रूप का भेद
+## 2-39 — `གོད` vs `འགོད` — a difference of orthography
 
-| टीका | पाठ |
+| Commentary | Reading |
 |---|---|
-| kunpal | `འགོད` — दिन-रात मिलकर आयु को बाँट-बाँटकर रखते हैं |
-| minyak-kunzang-sonam | दोनों पाठ प्रचलित: `གོད` = क्षय होना; `འགོད` = बाँटकर रखना |
+| kunpal | `འགོད` — day and night together apportion one's lifespan |
+| minyak-kunzang-sonam | Both spellings are current: `གོད` = to be depleted; `འགོད` = to apportion |
 
-**पद्य पर प्रभाव:** नगण्य — दोनों का निष्कर्ष एक ही है (आयु घटती है)। हिंदी `लगातार घटता ही जाता है` क्षय-अर्थ लेता है, जो दोनों पाठों में निहित है।
-स्रोत: `2-RAILS/Verses/2-39-summary.md`
+**Effect on the verse:** negligible — both arrive at the same conclusion (the lifespan diminishes). Hindi `लगातार घटता ही जाता है` takes the depletion sense, which is implicit in both.
+Source: `2-RAILS/Verses/2-39-summary.md`
 
 ---
 
-## २-४४ — `འཇིགས་ཆེན་ནད་ཀྱིས་ཐེབས་པ` (महाभय-रोग से ग्रस्त)
+## 2-44 — `འཇིགས་ཆེན་ནད་ཀྱིས་ཐེབས་པ` (gripped by the sickness of great terror)
 
-| टीका | पाठ | पद्य में? |
+| Commentary | Reading | In the verse? |
 |---|---|---|
-| khenpo-zhengah, kunpal, khenpo-kunga | यम के दूतों के दर्शन से उत्पन्न महाभय की व्याधि | **✓ लिया (बहुमत)** |
-| minyak-kunzang-sonam (दूसरा विकल्प) | मृत्यु-काल की प्रचंड शारीरिक व्याधि ही | ✗ छोड़ा |
+| khenpo-zhengah, kunpal, khenpo-kunga | The affliction of great terror arising from the vision of Yama's messengers | **✓ taken (majority)** |
+| minyak-kunzang-sonam (second option) | The violent physical illness of dying itself | ✗ dropped |
 
-**हिंदी:** `भयानक डर की उस बीमारी ने, जब मुझको जकड़ लिया` — भय-जनित, शारीरिक रोग नहीं।
-**टिप्पणी:** §६ के अनुसार दोनों अर्थों को एक पंक्ति में मिलाया नहीं गया।
-स्रोत: `2-RAILS/Verses/2-44-summary.md`
+**Hindi:** `भयानक डर की उस बीमारी ने, जब मुझको जकड़ लिया` — fear-induced, not a bodily disease.
+**Note:** per §6 the two senses were not blended into one line.
+Source: `2-RAILS/Verses/2-44-summary.md`
 
 ---
 
-## २-४५ — दृश्य का काल-स्थान, और `བྲེད་ཤ་ཐོན་པ` की गहराई
+## 2-45 — two divergences
 
-### (क) दृश्य कब घटित होता है
+### (a) When and where the scene occurs
 
-| टीका | पाठ | पद्य में? |
+| Commentary | Reading | In the verse? |
 |---|---|---|
-| kunpal, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso (६) | मृत्यु-काल या यम-दूतों द्वारा पकड़े जाने का क्षण — नरक में वास्तविक जन्म नहीं | **✓ लिया (बहुमत + व्यापक)** |
-| gyaltsab | नरक में वास्तव में जन्म लेकर नरक-रक्षकों को देखने का क्षण | ✗ छोड़ा |
+| kunpal, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso (6) | At the time of death, or the moment of being seized by Yama's messengers — not actual rebirth in hell | **✓ taken (majority and wider)** |
+| gyaltsab | The moment of actually being reborn in hell and seeing the hell-guardians | ✗ dropped |
 
-**हिंदी:** पद्य कोई स्थान नहीं बताता (`इस भयानक डर से`) — मृत्यु-क्षण का पाठ निहित, नरक-जन्म का नहीं।
+**Hindi:** the verse names no location (`इस भयानक डर से`) — the death-moment reading is implied, rebirth in hell is not.
 
-### (ख) `བྲེད་ཤ་ཐོན་པ` का चित्रण
+### (b) The depiction of `བྲེད་ཤ་ཐོན་པ`
 
-| टीका | पाठ |
+| Commentary | Reading |
 |---|---|
-| khenpo-zhengah | अत्यंत भय से आँखें मस्तिष्क के मध्य तक फटी |
-| kunpal | `སྐྱི་བུང` — सिर की खाल सिकुड़ी, आँखें नीली-सी टँगी, पलक बंद न हो |
-| khenpo-kunga | वास्तविक मृत्यु-क्षण: इंद्रियाँ शिथिल, चित्त मूर्च्छित, श्वास टूटने को |
+| khenpo-zhengah | Eyes rolled back into the middle of the skull from extreme terror |
+| kunpal | `སྐྱི་བུང` — the scalp drawn tight, eyes bulging blue and unblinking |
+| khenpo-kunga | The literal moment of death: senses failing, mind swooning, breath about to stop |
 
-**हिंदी:** `घबराहट में आँखें फटी रह जाती हैं` — khenpo-zhengah का संक्षिप्त पाठ। विस्तृत चित्रण (सिर की खाल, पलक) `audience.md` के भाव-संतुलन के लिए छोड़ा।
-स्रोत: `2-RAILS/Verses/2-45-summary.md`
+**Hindi:** `घबराहट में आँखें फटी रह जाती हैं` — khenpo-zhengah's concise reading. The more graphic detail (scalp, unblinking eyes) was dropped for the tonal balance set in `audience.md`.
+Source: `2-RAILS/Verses/2-45-summary.md`
 
 ---
 
-## २-४७ — दो मतभेद
+## 2-47 — two divergences
 
-### (क) `རྟེན་གྱི་སྟོབས` (आश्रय का बल) का विभाजन
+### (a) Subdivision of `རྟེན་གྱི་སྟོབས` (the power of reliance)
 
-| टीका | पाठ |
+| Commentary | Reading |
 |---|---|
-| kunpal | दो भेद: (१) स्वीकारोक्ति का विषय बनाना, (२) शुद्धि का आश्रय बनाना — यहाँ दूसरा |
-| gyaltsab | तीन भेद: (१) त्रिरत्न पर आश्रय, (२) प्रार्थना-बलधारी जिनपुत्रों पर आश्रय, (३) शरण जाकर आज्ञा-पालन |
+| kunpal | Two aspects: (1) making them the object of confession, (2) making them the support of purification — here the second |
+| gyaltsab | Three aspects: (1) relying on the Three Jewels, (2) relying on the aspiration-empowered sons of the Victors, (3) going for refuge and then keeping the injunctions |
 
-**पद्य पर प्रभाव:** शून्य — यह संरचना-भेद है। पद्य `आज ही से मैं जाता हूँ` में शरण-गमन मात्र कहता है।
+**Effect on the verse:** none — a structural distinction. The Hindi says only `आज ही से मैं जाता हूँ` ("from this very day I go").
 
-### (ख) `སྟོབས་ཆེན་འཇིགས་པ་ཀུན་སེལ`
+### (b) `སྟོབས་ཆེན་འཇིགས་པ་ཀུན་སེལ`
 
-| टीका | पाठ | पद्य में? |
+| Commentary | Reading | In the verse? |
 |---|---|---|
-| khenpo-kunga आदि | एक ही गुण: दुःख से बचाने की महाशक्ति, जन्म-जरा-व्याधि-मृत्यु का समस्त भय हरने वाली | **✓ लिया** |
-| tenzin-gyatso | दो गुण: `स्तोब्स-छेन` = स्वार्थ-धर्मकाय पक्ष; `अजिग्स-पा-कुन-सेल` = परार्थ-रूपकाय पक्ष | ✗ छोड़ा (कायद्वय तकनीकी) |
+| khenpo-kunga and others | A single quality: the great power to protect from suffering, dispelling every fear of birth, ageing, sickness, and death | **✓ taken** |
+| tenzin-gyatso | Two qualities: `སྟོབས་ཆེན` = the dharmakāya aspect of self-benefit; `འཇིགས་པ་ཀུན་སེལ` = the rūpakāya aspect of benefiting others | ✗ dropped (the two-kāya frame is technical) |
 
-**हिंदी:** `जिनमें है महान शक्ति ऐसी, जो सारे डर को मिटा देते हैं` — एक अखंड गुण।
-स्रोत: `2-RAILS/Verses/2-47-summary.md`
+**Hindi:** `जिनमें है महान शक्ति ऐसी, जो सारे डर को मिटा देते हैं` — one undivided quality.
+Source: `2-RAILS/Verses/2-47-summary.md`
 
 ---
 
-## २-५० — `ཐུགས་རྗེའི་སྤྱོད་པ་མ་འཁྲུལ་བ`
+## 2-50 — `ཐུགས་རྗེའི་སྤྱོད་པ་མ་འཁྲུལ་བ`
 
-रेल स्वयं नोट करती है कि यह विरोध नहीं, बल-भेद है — दोनों एक ही विशेषण के दो पहलू।
+The rail itself notes this is a difference of emphasis, not a contradiction — two facets of one epithet.
 
-| टीका | पाठ |
+| Commentary | Reading |
 |---|---|
-| kunpal | भीतर की करुणा और बाहर का आचरण अविरोधी |
-| gyaltsab | स्वयंसिद्ध (`ལྷུན་གྱིས་གྲུབ་པ`) और अविच्छिन्न (`རྒྱུན་མི་འཆད་པ`) परार्थ-चर्या |
+| kunpal | Inner compassion and outer conduct are undivided |
+| gyaltsab | Altruistic activity that is spontaneous (`ལྷུན་གྱིས་གྲུབ་པ`) and uninterrupted (`རྒྱུན་མི་འཆད་པ`) |
 
-**पद्य में — दोनों:** चूँकि रेल ही इन्हें अविरोधी घोषित करती है, यह §६ का "दो अर्थ ठूँसना" नहीं। पंक्ति १ kunpal का पहलू, पंक्ति २ gyaltsab का:
+**In the verse — both.** Since the rail declares them complementary, this is not the "cramming" §6 forbids. Line 1 carries kunpal's facet, line 2 gyaltsab's:
 
 > जिनकी करुणा और बाहरी करनी, कभी अलग-अलग होते नहीं,
 > जो बिना रुके, बिना थके, जग का भला करते हैं सभी।
 
-स्रोत: `2-RAILS/Verses/2-50-summary.md`
+Source: `2-RAILS/Verses/2-50-summary.md`
 
 ---
 
-## अनुवादक-टिप्पणी: साक्षी-अनुवादों की सीमा
+# Translator's notes
 
-`1-SOURCES/Translations/en-Wallace.md` में श्लोक २-३२ अनुपलब्ध है, और २-३३ से आगे उसकी श्लोक-संख्या एक अंक खिसकी हुई है (उसका "२-३३" वस्तुतः २-३२ का अर्थ रखता है)। अतः २-३२ से ५० तक Wallace को साक्षी नहीं गिना गया; त्रिकोणन Padmakara + Choephel + रेल-संश्लेषण से किया गया।
+## Limits of the witness translations
 
-## अनुवादक-टिप्पणी: रेल की अपूर्णता
+`1-SOURCES/Translations/en-Wallace.md` is missing verse 2-32, and from 2-33 onward its verse numbering is shifted by one (its "2-33" in fact carries the meaning of 2-32). Wallace was therefore not counted as a witness for 2-32 through 2-50; triangulation used Padmakara + Choephel + the rail synthesis.
 
-`2-RAILS/Verses/2-35-summary.md` में `གནད་ཚིག` (मुख्य पद) तालिका अनुपस्थित है। उस श्लोक के लिए `གཙོ་གནད` (मुख्य शिक्षा-बिंदु) और `བསྡུས་དོན` (संश्लेषण) से काम लिया गया। रेल-रखवाले के लिए दर्ज।
+## Incompleteness in the rails
+
+`2-RAILS/Verses/2-35-summary.md` has no `གནད་ཚིག` (key terms) table. For that verse the `གཙོ་གནད` (main teaching points) and `བསྡུས་དོན` (synthesis) sections were used instead. Recorded for the attention of the rails maintainer.
+
+## Rails status
+
+All 26 rails are `status: draft`; none is `complete`. CLAUDE.md §9 forbids generating from non-complete rails, so this output was produced as a human-approved exception and remains `status: draft`.

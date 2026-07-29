@@ -135,5 +135,7 @@ These are figurative, not technical. Carry the sense of the rail's description; 
 | bodhisattva | **बोधिसत्व** (chapter 2) | बोधिसत्त्व, बोधीसत्व |
 | bodhicitta | **बोधिचित्त** | बोधिचित, बोधि-चित्त |
 | tathāgata | **तथागत** † | तथागतः |
-| saṃgha | **संघ** † | संग, सङ्घ |
+| saṃgha | **संघ** † | सङ्घ |
 | stūpa | **स्तूप** † | स्तुप |
+
+**Note:** `संग` was removed from the "never write" column. It is a legitimate Hindi word ("company, association") and is used that way in verse 2-31 (`बहुत पुराना है मेरा संग`). Listing it as a forbidden misspelling of `संघ` made the linter flag a correct line. Where a forbidden spelling is also a real homograph, the linter can only warn — a human must judge.

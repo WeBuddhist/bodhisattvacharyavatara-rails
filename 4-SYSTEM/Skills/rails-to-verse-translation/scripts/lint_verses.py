@@ -44,28 +44,43 @@ def parse_range(spec):
 
 
 def parse_termbase(path):
-    """Locked renderings from column 2, forbidden variants from a 'never write' table."""
+    """Locked renderings from column 2; forbidden variants from the spelling-lock table.
+
+    The spelling-lock table is identified by a header row containing "never write"
+    (or "न लिखें"); every data row after it contributes its last column as a
+    comma-separated list of forbidden variants. Header detection is required
+    because data rows never contain the word "never" themselves.
+    """
     locked, forbidden = [], []
     if not path:
         return locked, forbidden
+    in_lock_table = False
     for line in open(path, encoding="utf-8"):
-        cells = [c.strip() for c in line.strip().strip("|").split("|")] if "|" in line else []
-        if len(cells) < 2:
+        if "|" not in line:
+            if line.startswith("#"):
+                in_lock_table = False
             continue
-        m = re.search(r"\*\*(.+?)\*\*", cells[1])
-        if not m:
+        cells = [c.strip() for c in line.strip().strip("|").split("|")]
+        if re.search(r"never\s*write|न\s*लिखें", line, re.I):
+            in_lock_table = True
             continue
-        term = m.group(1).strip()
-        if term.lower() in {"locked hindi", "gloss"}:
+        if set("".join(cells)) <= set("-: "):   # separator row
             continue
-        # a "never write" column marks forbidden variants
-        if len(cells) >= 3 and re.search(r"never|न लिखें", line, re.I):
-            forbidden += [x.strip() for x in re.split(r"[,،]", cells[-1]) if x.strip()]
-        for alt in re.split(r"\s*/\s*", term):
-            alt = alt.strip()
-            if alt:
-                locked.append(alt)
-    return sorted(set(locked)), sorted(set(forbidden))
+        m = re.search(r"\*\*(.+?)\*\*", cells[1]) if len(cells) >= 2 else None
+        if m:
+            term = re.sub(r"\s*\([^)]*\)\s*", "", m.group(1)).strip()
+            for alt in re.split(r"\s*/\s*", term):
+                alt = alt.strip()
+                if alt and not re.fullmatch(r"(locked\s+\w+|gloss|term)", alt, re.I):
+                    locked.append(alt)
+        if in_lock_table and len(cells) >= 3:
+            forbidden += [
+                x.strip() for x in re.split(r"[,،;]", cells[-1])
+                if x.strip() and not re.fullmatch(r"[-: ]*", x.strip())
+            ]
+    # never forbid something that is itself a locked rendering
+    forbidden = [f for f in set(forbidden) if f not in set(locked)]
+    return sorted(set(locked)), sorted(forbidden)
 
 
 def main():
@@ -130,9 +145,24 @@ def main():
     if locked:
         absent = [t for t in locked if t not in body]
         print(f"termbase          : {len(locked)} locked renderings, {len(absent)} unused in range")
-        present_forbidden = [f for f in forbidden if f and f in body]
-        for f in present_forbidden:
-            errors.append(f"forbidden variant present: {f!r}")
+        # Mask every locked rendering before searching for forbidden ones.
+        # Plain substring search would fire बोधिचित inside the correct बोधिचित्त;
+        # script-boundary matching would instead miss the inflected बोधिसत्त्वों.
+        # Masking handles both: a hit inside a locked form disappears, while an
+        # inflected forbidden form still surfaces.
+        masked = body
+        for t in sorted(locked, key=len, reverse=True):
+            masked = masked.replace(t, "•")  # sentinel, not "" -- avoids
+            # gluing the neighbouring characters into a spurious match
+        for f in forbidden:
+            if f and f in masked:
+                # A forbidden spelling can also be a legitimate homograph
+                # (संग = "company" vs संग as a misspelling of संघ). The linter
+                # cannot judge intent, so this is a warning for human review.
+                warnings.append(
+                    f"possible forbidden variant {f!r} -- confirm it is not a "
+                    f"legitimate homograph before changing"
+                )
 
     latin = re.findall(r"[A-Za-z]{2,}", body)
     if latin:

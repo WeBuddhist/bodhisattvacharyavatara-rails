@@ -8,7 +8,7 @@ license: public
 translator: Rails[op:Xz6QQW6yYdR111UgnnxJk] 
 source: https://webuddhist.com/
 alt_titles: Những giọt nước thiêng từ lời dạy trực tiếp của vị Thầy Trí Tuệ — Phiên bản dành cho trẻ em
-
+language: vietnamese
 ---
 # Nhập Bồ Tát Hạnh ^0
 

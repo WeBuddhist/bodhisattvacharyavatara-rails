@@ -9,9 +9,6 @@ translator: Rails[op:Xz6QQW6yYdR111UgnnxJk]
 source: https://webuddhist.com/
 alt_titles: Drops of Nectar from the Oral Transmission of the Mañjughoṣa Guru - children's version
 language: english
-text_id: kRgZd2LzCl9R8EaGUlqzG
-edition_id: MK6Dc0SRN9pcuJTrW0A5f
-toc_id: xKAIRHyC7LDfITYVo0krh
 ---
 # Entering the Way of the Bodhisattva (One Who Works to Free All Beings) ^0
 

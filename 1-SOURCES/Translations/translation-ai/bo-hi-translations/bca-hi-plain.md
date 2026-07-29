@@ -8,6 +8,7 @@ license: public
 translator: Rails[op:Xz6QQW6yYdR111UgnnxJk] 
 source: https://webuddhist.com/
 alt_titles: परमज्ञानी गुरु के वचनों रूपी अमृत की बूँदें - सरल हिंदी संस्करण
+language: hindi
 ---
 
 # बोधिचर्यावतारः। ^0

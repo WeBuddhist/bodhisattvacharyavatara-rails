@@ -9,9 +9,6 @@ translator: Rails[op:Xz6QQW6yYdR111UgnnxJk]
 source: https://webuddhist.com/
 alt_titles: Drops of Nectar from the Oral Transmission of the Mañjughoṣa Guru - scholar version
 language: english
-text_id: zpBNEqdv0B0jJ4j68oxME
-edition_id: Ete0ufuWvEZR6utXvw9ep
-toc_id: oKvTislyawSYgDd2HqNpp
 ---
 # Entering the Way of the Bodhisattva ^0
 

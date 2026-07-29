@@ -373,16 +373,30 @@ def build_alignment(source_path):
 # CLI
 # ---------------------------------------------------------------------------
 
+DEFAULT_LINT_DIR = Path(__file__).parent.parent / "linter-root-text" / "output"
+
+
 def main(argv=None):
     args = (argv if argv is not None else sys.argv[1:])
 
     if not args:
         print("Usage:")
-        print("  parser.py <file.lint.json>               # extract text_input")
-        print("  parser.py <source.md> <file.lint.json>   # full parse")
+        print("  parser.py <source.md>                    # full parse (lint JSON auto-resolved)")
+        print("  parser.py <source.md> <file.lint.json>   # full parse with explicit lint path")
+        print("  parser.py <file.lint.json>               # extract text_input only")
         sys.exit(0)
 
     paths = [Path(a) for a in args]
+
+    # Auto-resolve lint path from source file name
+    if len(paths) == 1 and paths[0].suffix == ".md":
+        source_path = paths[0]
+        lint_path = DEFAULT_LINT_DIR / (source_path.stem + ".lint.json")
+        if not lint_path.exists():
+            print(f"ERROR lint file not found: {lint_path}", file=sys.stderr)
+            print(f"  Run the linter first, or pass the lint path explicitly.", file=sys.stderr)
+            sys.exit(1)
+        paths = [source_path, lint_path]
 
     if len(paths) == 2 and paths[0].suffix == ".md":
         source_path, lint_path = paths

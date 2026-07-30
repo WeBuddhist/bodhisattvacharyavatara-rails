@@ -76,12 +76,15 @@ One block-quote per verse, verbatim from `1-SOURCES/Translations/translation-ai/
 
 ### 2) Commentary Explanation
 
-The substance of the day. 200–400 words, prose paragraphs, no bullets. Length at the upper end is fine when the rails genuinely carry that much; it is not licence to pad.
+The substance of the day. **180–220 words**, prose paragraphs, no bullets. Days 15–25 average 195. This is a hard ceiling, not a target to grow into.
 
-Build it around **the one thing the commentary adds that a careful reader of the verses alone would not reach** — a distinction, a mechanism, a stage-analysis, a concrete example. Name the commentator who makes the point. Vary the commentator across days rather than leaning on one.
+Build it around **the one thing the commentary adds that a careful reader of the verses alone would not reach** — a distinction, a mechanism, a stage-analysis, a concrete example. **One idea, not three.** Follow whatever point the Tibetan day file's `༤། འགྲེལ་བཤད།` leads with, so the language streams stay aligned with the Tibetan one.
+
+> ⚠️ **Learned the hard way on days 26–31.** The first rails-based rebuild ran to 320–401 words and named up to **seven** Tibetan commentators in one section. It was accurate and nearly unreadable. Grounding a claim and putting it on the page are different decisions: the rails carry far more than a daily reader can absorb, and the surplus belongs in `generation_note` and in the rails, where a specialist can find it. Days 15–25 name **zero** Tibetan commentators and work fine.
 
 Rules:
 
+- **At most one named Tibetan commentator per section.** Two only when a ⚑ divergence genuinely needs both. Otherwise write "the commentaries". Days 15–25 use only "Master Shantideva" and "the commentaries" / "Spiritual teachers explain".
 - Name a commentator once, then "he".
 - Show the mechanism in steps. Do not assert importance with "great", "profound", "vast".
 - Say who a consequence falls on.

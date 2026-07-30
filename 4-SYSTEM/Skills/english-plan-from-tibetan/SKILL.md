@@ -1,13 +1,23 @@
 ---
 name: english-plan-from-tibetan
-description: Generate a single-day Bodhisattvacharyavatara English practice-plan session for verses that have NO English source commentary (e.g. Chapter 2 onward), working from a user-provided English translation of the Tibetan day plan. Use when the user pastes or attaches the English translation of a bo/ day plan and asks for an English day. Produces options (day_N_option_a/b/c). Companion to english-plan-generator (which is for verses that already have English commentary rails). Output is checked by english-plan-evaluator.
+description: Generate a single-day Bodhisattvacharyavatara English practice-plan session for Chapter 2 onward, grounded in the 2-RAILS/Verses/ verse summaries and cross-checked against the Tibetan day plan in Plans/Dalai Lama/. Use when the user asks for an English day for a chapter that has no en-ai/Verses/ summaries. Output is checked by english-plan-evaluator.
 ---
 
-# English Plan from a Translated Tibetan Plan
+# English Plan from the Rails and the Tibetan Plan
 
-This skill builds one day's English session for the Bodhisattva Challenge when the normal English rails do **not** exist for the verses (no `en-ai/Verses/` summaries, no `2-RAILS/Verses/` packages — the case for Chapter 2 and beyond). Instead of those, it works from material the user supplies and from sources that do exist in the vault.
+This skill builds one day's English session for the Bodhisattva Challenge for chapters that lack `en-ai/Verses/` summaries — Chapter 2 onward.
 
-It is the sibling of `english-plan-generator`. Same six-section output, same voice rules, same notification format. The only difference is where the content comes from. Keep all three skills in sync: this one, `english-plan-generator`, and the QA skill `english-plan-evaluator`.
+> ⚠️ **Corrected 2026-07-30.** This skill previously stated that no `2-RAILS/Verses/` packages exist for Chapter 2 and beyond. **That is false.** `2-RAILS/Verses/2-1-summary.md` through `2-65-summary.md` exist and cover the whole chapter, each carrying eight commentators with block-ID citations, a metaphors section, main teaching points, key terms, and a synthesis. The old instruction sent writers to the Tibetan day plan alone, which is itself a compressed digest of those same commentaries. Days 26–31 were first drafted that way and had to be rebuilt: gaps had been filled by the writer's own reasoning, and one simile was attributed to the Dalai Lama when it is scriptural, used by Minyak Kunsö and Kunzang Palden. **Always go to the rails first.**
+
+It is the sibling of `english-plan-generator`. Same voice rules. The differences are where the content comes from and which output format applies. Keep these in sync: this one, `english-plan-generator`, `hindi-plan-from-english`, and the QA skill `english-plan-evaluator`.
+
+## Output format — check which one before writing
+
+**Compact format (current, Chapter 2 onward).** Four sections, exact wording: `## Today's Verse`, `## 1) Introduction to Today's Practice`, `## 2) Commentary Explanation`, `## 3) Today's Practice`. No liturgy, no notification block, no day title. Filename `<N>-ch<C>-v<start>-<end>-eng.md`. This is what days 15–31 use, and it is the format the contract in `en/requirements.md` specifies.
+
+**Liturgy format (legacy, Chapter 1 only).** The six-section shape described in Step 2 below, with the `# Day N —` title and `> **Notification**` block. Do not extend it to new chapters without a human decision.
+
+The rest of this file describes the liturgy format because that is what it was written for. When producing the compact format, follow `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/requirements.md` for structure and this file for grounding and voice.
 
 ---
 

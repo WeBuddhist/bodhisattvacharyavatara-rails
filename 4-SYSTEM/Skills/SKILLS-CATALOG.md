@@ -439,9 +439,9 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 → [`english-plan-evaluator/SKILL.md`](english-plan-evaluator/SKILL.md)
 
 ### `english-plan-from-tibetan` **[exists]**
-**Purpose:** Generate a single-day English Bodhisattva Challenge session for verses that have **no** English source commentary (Chapter 2 onward), working from a user-provided English translation of the Tibetan day plan plus vault sources that do exist. Same six-section output and voice rules as `english-plan-generator`; produces options (a/b/c).
-**Inputs:** The English translation of the bo day plan (pasted/attached); day number, chapter, verse range; the published Choephel English translation; the Tibetan root; the three chapter-covering Tibetan commentaries; the bo plan file; nearby day files.
-**Outputs:** An English day file (options) under the `en` stream, grounded traceably in the supplied translation and Tibetan commentaries; `generation_note` flags that it was built without English rails and needs specialist review.
+**Purpose:** Generate a single-day English Bodhisattva Challenge session for chapters that lack `en-ai/Verses/` summaries (Chapter 2 onward), grounded in the `2-RAILS/Verses/<C>-<N>-summary.md` verse rails and cross-checked against the Tibetan day plan in `Plans/Dalai Lama/`. Same voice rules as `english-plan-generator`. **Corrected 2026-07-30:** the skill previously asserted that no `2-RAILS/Verses/` packages exist for Chapter 2 — they do, all 65, with eight commentators each; the old wording sent writers to the Tibetan digest alone and produced ungrounded expansion and mis-attribution.
+**Inputs:** The verse rails (primary); day number, chapter, verse range from `Tibetan-schedule-corrected.md`; English verse text from `bca-en-plain.md` (compact format) or Choephel (legacy); the Tibetan commentaries in `1-SOURCES/Commentaries/Transcluded/`; the Tibetan day plan for the angle and practice; `en/requirements.md` and `en/termbase.md`; the previous two day files.
+**Outputs:** An English day file under the `en` stream in the compact four-section format, with `context_packages:` listing the rails used and `generation_note` recording commentators, block IDs, corrections, and anything uncorroborated. Never `status: complete`.
 → [`english-plan-from-tibetan/SKILL.md`](english-plan-from-tibetan/SKILL.md)
 
 ### `spyodjug-zh-summary` **[exists]** (packaged `.skill`)

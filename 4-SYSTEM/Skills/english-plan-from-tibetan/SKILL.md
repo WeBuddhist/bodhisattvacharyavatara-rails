@@ -29,32 +29,44 @@ A lay Buddhist, new to the philosophy, time-poor, sceptical of formulaic spiritu
 
 ## Inputs
 
-1. **The English translation of the Tibetan day plan** — pasted or attached by the user. This is the primary content source. It contains the day's verses (in English), the "benefits", per-verse explanations, and a "how to practice" note, all translated from the bo plan, which itself draws on the Tibetan commentaries.
-2. **Day number, chapter, verse range** — from the user, or from `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/assets/schedule-corrected.md`.
-3. **Published English verse translation** — `1-SOURCES/Translations/en-David_Karma_Choephel.md`. Use this for the verse text (it is a recognised translation already in the vault). Locate verses by block ID, e.g. `^2-6`.
-4. **Canonical Tibetan root** — `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md`. Use for the Tibetan verse text.
-5. **The Tibetan commentaries** (for grounding and attribution) — `1-SOURCES/Commentaries/bo-རྒྱལ་ཚབ་དར་མ་རིན་ཆེན།.md` (Gyaltsab Darma Rinchen), `bo-ས་བཟང་མ་ཏི་པཎ་ཆེན་བློ་གྲོས་རྒྱལ་མཚན།.md` (Sazang Mati Panchen), `bo-དངུལ་ཆུ་ཐོགས་མེད།.md` (Ngulchu Thokme). These cover every chapter, so a specific commentator can usually be named.
-6. **The Tibetan plan file** — `bo/Chapter-N .../Day-N-...md` — useful to cross-check the verses, benefits, and practice.
-7. **Existing nearby day files** — read the previous one or two days so the opening can note continuation and the practice can be made different (see rules).
+1. **The verse rails — primary source, read these first.** `2-RAILS/Verses/<C>-<N>-summary.md`, one per verse in the day's range. Each carries: per-commentator passages (`kunpal`, `khenpo-zhengah`, `gyaltsab`, `ngulchu-thogmed`, `sabzang`, `minyak-kunzang-sonam`, `khenpo-kunga`, `tenzin-gyatso`), a `## དཔེ།` metaphors section, `## གཙོ་གནད།` main teaching points, `## གནད་ཚིག` key terms, and `## བསྡུས་དོན།` synthesis — every item with a block-ID citation into `1-SOURCES/Commentaries/Transcluded/`. The distilled sections (`དཔེ།`, `གཙོ་གནད།`) are the fastest route in.
+2. **Day number, chapter, verse range** — from the user, or from `3-TRANSFORMATIONS/Plans/Dalai Lama/Tibetan-schedule-corrected.md`. Filenames in `Plans/Dalai Lama/` encode the range and agree with that schedule for 362 of 365 days.
+3. **English verse text** — for the compact format use `1-SOURCES/Translations/translation-ai/bo-en-translation/bca-en-plain.md`, located by block ID, verbatim including its curly apostrophes. For the legacy liturgy format, `1-SOURCES/Translations/en-David_Karma_Choephel.md`.
+4. **Canonical Tibetan root** — `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md`. Needed for the Tibetan verse text in the liturgy format only.
+5. **The Tibetan commentaries** — `1-SOURCES/Commentaries/Transcluded/`: `BCAC19_KKP_bo_segmented.md` (Kunzang Palden), `BCAC19_KS_bo.md` (Khenpo Zhenga), `BCAC14_GDR_bo_segmented.md` (Gyaltsab), `BCAC14_NTS_bo_segmented.md` (Ngulchu Thokme), `BCAC14_SMPLG_bo_segmented.md` (Sazang), `BCAC19_MKS_bo_segmented.md` (Minyak Kunsö), `BCAC20_NKW_bo_segmented.md` (Khenpo Kunga Wangchuk), `BCAC20_TG_bo.toc.md` (the Dalai Lama), `BCAC13_KTB_bo.md` (Renunciation of the World — the source of several stories). Go here when a rail citation needs checking in context. Note: the paths this skill previously listed (`1-SOURCES/Commentaries/bo-*.md`) do not exist.
+6. **The Tibetan day plan** — `3-TRANSFORMATIONS/Plans/Dalai Lama/Chapter-N .../Day-N-...md`. This gives the day's chosen angle (`### ༢། ངོ་སྤྲོད།`), the digest commentary (`### ༤། འགྲེལ་བཤད།`), and the practice (`### ༦། དེ་རིང་གི་ཉམས་ལེན།`, with its `ཉམས་ལེན་དངོས།` / `འགྲེལ་བཤད།` / `པར་གྱི་ཚིགས་བཅད།` parts). **Use it for the angle and the practice, not as the grounding for the commentary section.** Only Chapters 1, 2, and four days of Chapter 3 are populated; the rest are 0-byte placeholders.
+7. **The contracts** — `en/requirements.md` and `en/termbase.md`.
+8. **Existing nearby day files** — read the previous two so the practice can be made different.
 
-> ⚠️ **Grounding integrity.** Everything in "From the Tradition" and "Today's Practice" must trace to the provided translation and/or the Tibetan commentaries. Do not invent a teaching. If a claim cannot be traced, leave it out. Record in `generation_note` that this day was built without English rails and needs domain-specialist review before `status: complete`.
+> ⚠️ **Grounding integrity.** Every claim in the commentary section must trace to a cited rail passage. Record the rails used in a `context_packages:` frontmatter list, and in `generation_note` name the commentators and block IDs, plus anything retained that only the Tibetan day plan supports. Do not invent a teaching, and do not smooth a gap with your own reasoning — go back to the rail. If the rails and the Tibetan day plan disagree on an attribution, the rails win and the correction goes in `generation_note`. Never set `status: complete`.
+
+> ⚠️ **Never carry a bare proper name.** If a source names a story without telling it, either find the content in `1-SOURCES/Commentaries/Transcluded/` and tell it, or drop the name. "The story of X" gives the reader nothing. Check transliterations against the rails rather than inventing them.
 
 ---
 
 ## Step 1 — Gather and read
 
-- Get the day number and verse range.
-- Read the user's English translation of the Tibetan plan in full.
-- Pull the verse text: Tibetan from the root, English from the Choephel translation (by block ID).
-- **Read all three Tibetan commentaries on these verses** before writing (see Step 1.5). Do not work from just one.
+- Get the day number and verse range; confirm it against `Tibetan-schedule-corrected.md`.
+- **Read `2-RAILS/Verses/<C>-<N>-summary.md` for every verse in the range, in full.** This is the step that was missing before.
+
+  > ⚠️ Do not stop at `## གཙོ་གནད།` and `## དཔེ།`. Reading only those two sections was the second failure on days 26–31: it produced four `generation_note` entries that wrongly declared rail material to be absent from the rails, and it caused a ⚑ divergence to be flattened into a settled answer. The sections that get skipped and should not be:
+  > - `## སྒྲུང་འགྲེལ།` — the stories, told in full. This is where the Netso beehive narrative and the two-mice story actually live.
+  > - `## ལུང་།` — scriptural quotations, including the ones a digest attributes to whoever quoted them.
+  > - `## གནད་ཚིག` — key terms. **The ⚑ divergences most often sit here**, as two rows with the same term and different glosses.
+  > - `## བསྡུས་དོན།` — the synthesis, which states explicitly when `འགྲེལ་ཚུལ་ལ་ཁྱད་པར་ཡོད` (the explanations differ).
+- Read the Tibetan day plan's `༢`, `༤`, and `༦` sections for the day's angle and its practice.
+- Pull the verse text by block ID, verbatim.
+- Read the previous two day files.
 
 ## Step 1.5 — Find the one added idea (and pick the commentator honestly)
 
-Find **the one thing the commentary adds that a careful reader of the verses alone would not reach** — a distinction, a reason, a consequence, a concrete example. Use the provided translation's "benefits"/explanations plus the Tibetan commentaries.
+Find **the one thing the commentary adds that a careful reader of the verses alone would not reach** — a distinction, a mechanism, a stage-analysis, a concrete example. The rails' `གཙོ་གནད།` points are ranked roughly by weight; the best added idea is usually one of the first three, and often it is a point the Tibetan day plan's digest dropped for space.
 
-**Read Gyaltsab, Sazang, and Ngulchu Thokme on the verse, and pick whichever makes the point most precisely.** Do not default to one teacher. (A known failure on this plan was leaning on Ngulchu Thokme repeatedly; across days, vary the commentator and choose by fit, not convenience.) Note the specific passage/block ID you are grounding on. Name that commentator with a one-clause identification on first use. If the point genuinely cannot be tied to one named commentator, attribute it to "the commentary" and say so in `generation_note`.
+Examples of what this looks like in practice, from the days already built: that verse 2-28 opens the first of the four opponent powers rather than being a general outpouring (Kunzang Palden, Minyak Kunsö); that from 2-30 the confession shifts from general to object-by-object (Gyaltsab, the Dalai Lama); that "remain before me" at 2-37 means a latent imprint on the consciousness rather than a debt lying in wait (Ngulchu Thokme, Khenpo Kunga Wangchuk, the Dalai Lama); that "such a danger" at 2-42 is three staged fears, not one (Kunzang Palden).
 
-Everything in 2.4 and 2.6 is built from this one idea.
+**Read all eight commentators on the verse in the rail and pick whichever makes the point most precisely.** Do not default to one teacher. (Two known failures on this plan: leaning on Ngulchu Thokme repeatedly in Chapter 1, and in the first draft of days 26–31 naming only whoever the Tibetan digest happened to name.) Record the block ID you are grounding on. Name the commentator with a one-clause identification on first use. If a point genuinely cannot be tied to one named commentator, the rails will say `འགྲེལ་བ་ཐམས་ཅད་མཐར་མཐུན` or similar — then write "the commentaries" and say so in `generation_note`.
+
+**Where the rails mark ⚑, carry both readings.** Do not pick one and drop the other; the divergence is often the most interesting thing on the page for a lay reader.
 
 ---
 

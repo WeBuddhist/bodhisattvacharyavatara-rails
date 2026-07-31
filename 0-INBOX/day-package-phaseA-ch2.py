@@ -266,6 +266,16 @@ DAYS = {
          "32-ch2-v44-46-eng.md", "Day-32-Ch2-V44-46.md"),
     33: (["2-47", "2-48"],         "Aug 7",  "So I go for refuge \u2014 buddha, dharma, sangha",
          "33-ch2-v47-48-eng.md", "Day-33-Ch2-V47-48.md"),
+    34: (["2-49", "2-50", "2-51"], "Aug 8",  "Calling out to Manjushri, Avalokiteshvara, and every protector",
+         "34-ch2-v49-51-eng.md", "Day-34-Ch2-V49-51.md"),
+    35: (["2-52", "2-53"],         "Aug 9",  "Vajrapani, and finally seeing the danger",
+         "35-ch2-v52-53-eng.md", "Day-35-Ch2-V52-53.md"),
+    36: (["2-54", "2-55", "2-56"], "Aug 10", "The one doctor who can heal every affliction",
+         "36-ch2-v54-56-eng.md", "Day-36-Ch2-V54-56.md"),
+    37: (["2-57", "2-58", "2-59"], "Aug 11", "Careful at a small cliff, careless about the long fall",
+         "37-ch2-v57-59-eng.md", "Day-37-Ch2-V57-59.md"),
+    38: (["2-60", "2-61"],         "Aug 12", "Nothing left but the clinging, and I go on alone",
+         "38-ch2-v60-61-eng.md", "Day-38-Ch2-V60-61.md"),
 }
 
 if __name__ == "__main__":

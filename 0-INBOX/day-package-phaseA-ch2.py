@@ -276,6 +276,10 @@ DAYS = {
          "37-ch2-v57-59-eng.md", "Day-37-Ch2-V57-59.md"),
     38: (["2-60", "2-61"],         "Aug 12", "Nothing left but the clinging, and I go on alone",
          "38-ch2-v60-61-eng.md", "Day-38-Ch2-V60-61.md"),
+    39: (["2-62", "2-63"],         "Aug 13", "The one thought worth my attention, day and night",
+         "39-ch2-v62-63-eng.md", "Day-39-Ch2-V62-63.md"),
+    40: (["2-64", "2-65"],         "Aug 14", "Confessing before the buddhas, and never again",
+         "40-ch2-v64-65-eng.md", "Day-40-Ch2-V64-65.md"),
 }
 
 if __name__ == "__main__":

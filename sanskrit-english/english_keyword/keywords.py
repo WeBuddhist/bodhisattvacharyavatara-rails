@@ -10,6 +10,18 @@ filtered to phrases of 2-3 words and a score cutoff.
 
 Install dependencies:
     pip install yake
+
+Usage
+-----
+    python keywords.py
+
+Default source (edit SOURCE_PATH to change):
+    sanskrit-english/pi-2-english-plain-zeroshot.md
+
+Output is written next to this script, e.g.:
+    output/pi-2-english-plain-zeroshot-raw.json
+    output/pi-2-english-plain-zeroshot-keywords.md
+    output/pi-2-english-plain-zeroshot-preview.md
 """
 
 import json
@@ -251,7 +263,12 @@ if __name__ == "__main__":
     OUTPUT_DIR = HERE / "output"
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    SOURCE_PATH = REPO_ROOT / "tibetan/bca-en-general-readers.md"
+    SOURCE_PATH = (
+        REPO_ROOT
+        / "1-SOURCES"
+        / "Translations"
+        / "en-David_Karma_Choephel.md"
+    )
 
     extractor = KeywordExtractor(score_threshold=0.2)
 

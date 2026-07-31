@@ -18,8 +18,12 @@ Usage
 -----
     python generate_en_translation_idf.py
 
-Edit SOURCE_PATHS below to change which translation files are analyzed.
-Output is written to the output/ folder next to this script.
+Default source (edit SOURCE_PATHS to change):
+    1-SOURCES/Translations/en-David_Karma_Choephel.md
+
+Output is written next to this script, e.g.:
+    output/en-David_Karma_Choephel_keyword.json   (word + reference ids)
+    output/en-David_Karma_Choephel_scores.md      (ranked | Score | Keyword | table)
 """
 
 import re
@@ -40,7 +44,10 @@ REPO_ROOT = HERE.parent.parent
 OUTPUT_DIR = HERE / "output"
 
 SOURCE_PATHS = [
-    REPO_ROOT / "tibetan/bca-en-general-readers.md"
+    REPO_ROOT
+    / "1-SOURCES"
+    / "Translations"
+    / "en-David_Karma_Choephel.md",
 ]
 
 # ---------------------------------------------------------------------------
@@ -234,19 +241,14 @@ def is_english(word: str) -> bool:
 # Combined JSON output
 # ---------------------------------------------------------------------------
 
-def write_combined_json(
-    comp: dict,          # stem → {"rows": [...], "row_map": {...}, "total": int}
-    sources: list[pathlib.Path],
-    dest: pathlib.Path,
-) -> None:
+def _ranked_english_words(
+    comp: dict,
+    stems: list[str],
+) -> tuple[list[str], int]:
     """
-    Write a single JSON file with all unique English words across all translations.
-    Each entry is {"ids": [...]} — the block IDs (deduped, document order per
-    source, sources concatenated in SOURCE_PATHS order) where the word occurs.
-    Pāli words (diacritical characters) are excluded, and any word whose IDF
-    is <= IDF_THRESHOLD (common in general English) is dropped.
+    English-only words with IDF > threshold, sorted by avg TF-IDF descending.
+    Returns (ordered_words, dropped_count).
     """
-    stems     = [src.stem for src in sources]
     all_words = set()
     for d in comp.values():
         all_words.update(d["row_map"].keys())
@@ -258,6 +260,35 @@ def write_combined_json(
                 return row["idf"]
         return IDF_UNKNOWN
 
+    def word_score(w: str) -> float:
+        return sum(
+            comp[s]["row_map"].get(w, {}).get("score", 0.0) for s in stems
+        ) / len(stems)
+
+    english_words = [
+        w for w in all_words
+        if is_english(w) and word_idf(w) > IDF_THRESHOLD
+    ]
+    english_words.sort(key=word_score, reverse=True)
+    ordered = list(dict.fromkeys(english_words))
+    return ordered, len(all_words) - len(ordered)
+
+
+def write_combined_json(
+    comp: dict,          # stem → {"rows": [...], "row_map": {...}, "total": int}
+    sources: list[pathlib.Path],
+    dest: pathlib.Path,
+) -> None:
+    """
+    Write a single JSON file with all unique English words across all translations.
+    Each entry is {"word", "ids"} — the block IDs (deduped, document order per
+    source, sources concatenated in SOURCE_PATHS order) where the word occurs.
+    Pāli words (diacritical characters) are excluded, and any word whose IDF
+    is <= IDF_THRESHOLD (common in general English) is dropped.
+    """
+    stems = [src.stem for src in sources]
+    ordered_words, dropped = _ranked_english_words(comp, stems)
+
     def word_ref_ids(w: str) -> list[str]:
         ids: list[str] = []
         seen: set[str] = set()
@@ -268,27 +299,46 @@ def write_combined_json(
                     ids.append(bid)
         return ids
 
-    # filter to English-only, drop common words (IDF <= threshold),
-    # sort by avg TF-IDF descending
-    english_words = [
-        w for w in all_words
-        if is_english(w) and word_idf(w) > IDF_THRESHOLD
-    ]
-    english_words.sort(
-        key=lambda w: sum(comp[s]["row_map"].get(w, {}).get("score", 0.0) for s in stems) / len(stems),
-        reverse=True,
-    )
-
-    dropped = len(all_words) - len(english_words)
-
-    # dict.fromkeys preserves order, drops dupes
-    ordered_words = list(dict.fromkeys(english_words))
     payload = {
         "word": [
             {"word": w, "ids": word_ref_ids(w)}
             for w in ordered_words
         ]
     }
+
+    dest.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"Written  → {dest}  ({len(ordered_words):,} English terms, "
+          f"{dropped:,} dropped as Pāli or IDF <= {IDF_THRESHOLD})")
+
+
+def write_scores_md(
+    comp: dict,
+    sources: list[pathlib.Path],
+    dest: pathlib.Path,
+) -> None:
+    """
+    Same filtered/ranked word list as write_combined_json, written as a
+    markdown table sorted by TF-IDF descending (highest score = rank 1):
+
+        | Score | Keyword |
+        |-------|---------|
+        | ...   | ...     |
+    """
+    stems = [src.stem for src in sources]
+    ordered_words, dropped = _ranked_english_words(comp, stems)
+
+    def word_score(w: str) -> float:
+        return sum(
+            comp[s]["row_map"].get(w, {}).get("score", 0.0) for s in stems
+        ) / len(stems)
+
+    lines = [
+        "# TF-IDF Scores\n",
+        "| Score | Keyword |",
+        "|-------|---------|",
+    ]
+    for w in ordered_words:
+        lines.append(f"| {word_score(w):.4f} | {w} |")
 
     dest.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Written  → {dest}  ({len(ordered_words):,} English terms, "
@@ -676,6 +726,7 @@ def main() -> None:
     stems_slug = "_vs_".join(src.stem for src in sources) if len(sources) > 1 else sources[0].stem
 
     write_combined_json(comp, sources, OUTPUT_DIR / (stems_slug + "_keyword.json"))
+    write_scores_md(comp, sources, OUTPUT_DIR / (stems_slug + "_scores.md"))
 
 if __name__ == "__main__":
     main()

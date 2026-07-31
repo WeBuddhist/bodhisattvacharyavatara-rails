@@ -86,35 +86,3 @@
 
 **འགྲེལ་བཤད།** _(སྦྱིན་པའི་ཉམས་ལེན།)_ དུས་རྒྱུན་ང་ཚོས་ཡིད་དུ་འོང་བའི་མེ་ཏོག་དང་ནགས་ཚལ། མཚོ་དང་རྫིང་བུ། བྱ་ཡི་སྐད་སྙན་སོགས་རང་བྱུང་གི་མཛེས་པ་མཐོང་ཐོས་བྱུང་སྐབས། ཚོར་བ་སྐྱིད་པོ་དེ་རང་གཅིག་པུས་མྱོང་འདོད་ཀྱི་འཛིན་ཆགས་སྐྱེ་བར་བྱེད། འོན་ཀྱང་དེ་རིང་ངས་སྤྱོད་འཇུག་ལས་གསུངས་པ་ལྟར། ནམ་མཁས་ཁྱབ་པའི་འཇིག་རྟེན་ན་ཡོད་པའི་བདག་པོས་མ་བཟུང་བའི་མཛེས་པ་དང་སྙན་པའི་སྒྲ་མཐའ་དག་འཛིན་ཆགས་དང་སེར་སྣ་སྤངས་ཏེ། བློས་སྤྲུལ་ནས་དཀོན་མཆོག་གསུམ་ལ་མཆོད་པ་འབུལ་རྒྱུ་ཡིན། འདིས་རང་སེམས་ཀྱི་འཛིན་པ་དང་སེར་སྣ་དག་སྟེ། རིན་ཆེན་བྱང་ཆུབ་ཀྱི་སེམས་བསྐྱེད་པའི་བསོད་ནམས་ཀྱི་ཚོགས་རླབས་པོ་ཆེ་གསོག་པར་བྱེད་དོ། །
 
-## १) आज के अभ्यास का परिचय
-
-आज का अभ्यास _बोधिचर्यावतार_ के दूसरे अध्याय के श्लोक ४ और ५ पर आधारित है। यह हमें सिखाता है कि पूरे ब्रह्मांड में फैली उन सभी सुंदर चीजों को—जैसे देवी-देवताओं के लोक की सुगंध, कल्पवृक्ष, कमलों से सजी झीलें और हंसों की मीठी आवाज़, जिन पर किसी का निजी अधिकार नहीं है—हम अपने मन में सोचकर त्रिरत्न (बुद्ध, धर्म और संघ) को अर्पित कर सकते हैं। यह अभ्यास हमें मानसिक उदारता (दान की भावना) को अपनाने और बिना किसी कंजूसी के विशाल पुण्य कमाने की प्रेरणा देता है।
-
-## २) अर्थ और व्याख्या
-
-ये श्लोक बताते हैं कि बिना किसी स्वामी वाली (जिनका कोई मालिक नहीं है) चीजों को अर्पित करने का क्षेत्र कितना विशाल है। हम सिर्फ इस धरती की ही नहीं, बल्कि देवी-देवताओं और नागों के लोकों की प्राकृतिक सुगंध और धूप, हमारी हर इच्छा पूरी करने वाले कल्पवृक्ष, सुखावती जैसे पवित्र लोकों के रत्नमयी पेड़, और बिना किसी मेहनत के अपने आप उगने वाली फसलों को भी अपने मन में सोचकर अर्पित कर सकते हैं।
-
-इसी तरह, कमलों से सजी झीलों और तालाबों में तैरते हुए सुंदर हंसों और पक्षियों की मनमोहक मीठी आवाज़ों से लेकर अनंत आकाश में फैले इस पूरे ब्रह्मांड की हर सुंदर चीज़, जो किसी की निजी संपत्ति नहीं है, उसे हम अपनी कल्पना की शक्ति से त्रिरत्न को भेंट कर सकते हैं। भले ही हमारे हाथों में कोई भौतिक वस्तु न हो, लेकिन एक विशाल और उदार मन से बिना किसी लालच या कंजूसी के किया गया यह मानसिक अर्पण हमें असीम पुण्य (अच्छे कर्मों का फल) देता है।
-
-## ३) आज का अभ्यास
-
-**मुख्य अभ्यास:** आज मैं जब भी सुंदर जंगल, झीलें देखूंगा या पक्षियों की मीठी आवाज़ सुनूंगा, तो बिना किसी कंजूसी के मन ही मन उन्हें त्रिरत्न को अर्पित कर दूंगा।
-
-**व्याख्या:** _(उदारता का अभ्यास)_ आमतौर पर जब हम प्राकृतिक सुंदरता जैसे—सुंदर फूल, जंगल, झीलें या पक्षियों की मीठी आवाज़ सुनते हैं, तो हमारे मन में लगाव पैदा होता है और हम अकेले ही उस सुख को भोगना चाहते हैं। लेकिन आज, जैसा कि _बोधिचर्यावतार_ में बताया गया है, मैं पूरे ब्रह्मांड की सभी प्राकृतिक सुंदरताओं से अपना मोह और कंजूसी छोड़कर, उन्हें अपने मन ही मन त्रिरत्न (बुद्ध, धर्म और संघ) को प्रेमपूर्वक अर्पित करूंगा। इस अभ्यास से मन का लालच और कंजूसी दूर होती है, और अनमोल बोधिचित्त (जागृति का मन) को जगाने के लिए महान पुण्य प्राप्त होता है।
-
-
-## 1) Introduction to Today's Practice
-
-Today's practice is based on verses 4 and 5 from the second chapter of the _Bodhicaryāvatāra_. It expands the practice of generosity by teaching us to mentally offer everything beautiful across the entire universe that no one owns—such as heavenly fragrances, wish-fulfilling trees, lotus-covered lakes, and the sweet songs of birds—to the Three Jewels (Buddha, Dharma, and Sangha). This practice inspires us to grow a generous heart and gather positive energy without spending any material wealth.
-
-## 2) Commentary Explanation
-
-These verses show just how vast our practice of mental offering can become. We are not limited to offering ordinary human treasures. We can use our imagination to offer the natural fragrances and incense of heavenly realms, mythical wish-fulfilling trees that grant any desire, trees made of precious jewels found in pure lands, and wild crops that grow naturally without any farming.
-
-Similarly, we can mentally gather all the lakes and ponds adorned with beautiful lotus flowers, the lovely melodic songs of swans and water birds, and every piece of natural beauty stretching across infinite space that belongs to no one. By visualizing all these treasures and offering them to the Three Jewels without any greed or attachment, we practice generosity on a cosmic scale. Even if we do not have physical wealth, a vast and open mind gathers boundless positive energy (merit) simply through this pure intention.
-
-## 3) Today's Practice
-
-**Challenge:** Today, whenever I see beautiful forests, lakes, or hear sweet birdsong, I will mentally offer them to the Three Jewels without any stinginess.
-
-**Explanation:** _(Generosity Practice)_ Usually, when we experience natural beauty—like a scenic forest, a peaceful lake, or the sweet singing of birds—we naturally feel attached to it and want to enjoy the pleasure all by ourselves. But today, following the teachings of the _Bodhicaryāvatāra_, I will let go of my attachment and selfishness toward the unowned beauty of the world. Instead, I will use my imagination to joyfully offer all these beautiful sights and sounds to the Three Jewels. This simple practice cleanses the mind of selfishness and stinginess, building the vast positive energy needed to awaken a truly compassionate heart (Bodhicitta).

@@ -3,8 +3,10 @@
 keywords_by_reference.py
 -------------------------
 Reads the two existing keyword outputs:
-    output/bca-en-general-readers_keyword.json   (TF-IDF single-word terms, with ids)
-    output/bca-en-general-readers-keywords.md    (YAKE bi/trigram phrases, with ids)
+    output/pi-2-english-plain-zeroshot_1-khandhavibhango_keyword.json
+        (TF-IDF single-word terms, with ids)
+    output/pi-2-english-plain-zeroshot_1-khandhavibhango-keywords.md
+        (YAKE bi/trigram phrases, with ids)
 
 and inverts them: instead of "keyword -> reference IDs", produces
 "reference ID -> every keyword that has it". Keywords with no reference ID
@@ -14,9 +16,11 @@ Usage
 -----
     python keywords_by_reference.py
 
+Edit JSON_PATH / MD_PATH below to change which keyword outputs are inverted.
+
 Output
 ------
-    output/keywords-by-reference.md
+    output/pi-2-english-plain-zeroshot-by-reference.md
 
 Format (one line per reference ID, sorted in document order):
     [1-1] keyword1, keyword2, keyword3
@@ -31,9 +35,10 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 OUTPUT_DIR = HERE / "output"
 
-JSON_PATH = OUTPUT_DIR / "bca-en-general-readers_keyword.json"
-MD_PATH   = OUTPUT_DIR / "bca-en-general-readers-keywords.md"
-DEST_PATH = OUTPUT_DIR / "keywords-by-reference.md"
+STEM = "bca-en-general-readers"
+JSON_PATH = OUTPUT_DIR / f"{STEM}_keyword.json"
+MD_PATH   = OUTPUT_DIR / f"{STEM}-keywords.md"
+DEST_PATH = OUTPUT_DIR / f"{STEM}-by-reference.md"
 
 
 # ---------------------------------------------------------------------------

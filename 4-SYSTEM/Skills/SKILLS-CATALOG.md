@@ -290,6 +290,12 @@ Audits the vault for consistency: checks that all linked files exist, frontmatte
 **Outputs:** Console report with sentence count, token count, log-probability, and perplexity score.
 → [`tibetan-ocr-quality/SKILL.md`](tibetan-ocr-quality/SKILL.md)
 
+### `commentary-verse-id` **[exists]**
+**Purpose:** Adds Obsidian-style block IDs (`^chapter-n`) to every segment of a segmented Tibetan commentary file, based on the chapter number in the nearest preceding root-text transclusion (`![[...#^chapter-verse]]`); the per-chapter counter runs continuously across segments and resets only when the transclusion's chapter number changes. Segments before the first transclusion (no root text transcluded yet) are tagged as chapter `0` (`^0-1`, `^0-2`, ...) instead of being left untagged.
+**Inputs:** A `*_segmented.md` commentary file; it does not need to already contain a transclusion.
+**Outputs:** The same file modified in place — a block id appended to the end of every qualifying line; no lines added, removed, or reordered. Bundles a dry-runnable Python script `apply.py` with an `audit` mode.
+→ [`commentary-verse-id/SKILL.md`](commentary-verse-id/SKILL.md)
+
 ---
 
 ## Vault-specific skills

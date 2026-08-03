@@ -8,10 +8,10 @@
 Today, remembering that my possessions and the people I like and dislike are as passing as a dream, I will let go of attachment or dislike the moment I notice it rising.
 
 **Verse of the day:**
-All of the things that I have used
-Will become objects of memory,
-As if experienced in a dream.
-I'll never see what's past again.
+Everything I have ever enjoyed
+becomes just a memory, like something from a dream.
+Once it is gone, it is gone —
+we can never see it again.
 
 **Verse id:**
 Bodhicaryāvatāra, Chapter 2, Verse 36 (^2-36)

@@ -8,10 +8,10 @@
 Today I will not speak a harsh word to my parents or my teachers. I will speak to them with respect and warmth.
 
 **Verse of the day:**
-I have, because of the afflictions,
-Caused harm with body, speech, and mind
-To the three jewels and to my parents
-And to the gurus, among others.
+Whatever harm I have caused —
+through my body, my speech, or my mind,
+driven by destructive emotions —
+to the Three Jewels, to my parents, or to any other teacher.
 
 **Verse id:**
 Bodhicaryāvatāra, Chapter 2, Verse 30 (^2-30)

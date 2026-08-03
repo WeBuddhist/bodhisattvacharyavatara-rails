@@ -8,10 +8,10 @@
 Today, relying on the Three Jewels to avoid wrongdoing, I will practice humble patience whenever someone makes me angry.
 
 **Verse of the day:**
-Until I reach enlightenment's essence,
-I go for refuge to the buddhas.
-I go for refuge to the dharma
-And sangha of bodhisattvas too.
+Until I reach full enlightenment myself,
+I take refuge in the buddhas.
+In the same way, I take refuge in the dharma,
+and in the whole sangha of bodhisattvas.
 
 **Verse id:**
 Bodhicaryāvatāra, Chapter 2, Verse 26 (^2-26)

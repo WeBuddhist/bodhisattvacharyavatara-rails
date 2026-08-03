@@ -8,10 +8,10 @@
 Today, when I see an umbrella or shade, I will offer it in my mind to the Three Jewels as a special umbrella protecting everyone from pain.
 
 **Verse of the day:**
-I always offer to the lords of sages
-Beauteous, jeweled parasols with golden staves,
-Fine shaped, upright, and pleasing to the eye,
-Their rims festooned with winsome ornaments.
+I offer beautiful jeweled umbrellas with golden handles,
+decorated all around,
+raised high and graceful —
+I offer these always to the buddhas.
 
 **Verse id:**
 Bodhicaryāvatāra, Chapter 2, Verse 19 (^2-19)

@@ -8,10 +8,10 @@
 Today, when I see someone being criticized or harmed, I will not let myself feel pleased. I will recognize what is happening as a mistake.
 
 **Verse of the day:**
-Compelled by ignorant confusion—
-I have rejoiced in them. I see
-They were mistakes, and I confess
-To the protectors from my depths.
+Or whatever wrong I felt glad about —
+overpowered as I was by confusion —
+now that I see these mistakes clearly,
+I confess every one of them, from the bottom of my heart, before the buddhas.
 
 **Verse id:**
 Bodhicaryāvatāra, Chapter 2, Verse 29 (^2-29)

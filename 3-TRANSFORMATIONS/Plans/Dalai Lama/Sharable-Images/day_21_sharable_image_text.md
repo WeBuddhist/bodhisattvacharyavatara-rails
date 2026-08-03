@@ -8,10 +8,10 @@
 Today, when I see electric lights or lamps at night, I will offer them in my mind to the Three Jewels as lamps of wisdom taking away confusion.
 
 **Verse of the day:**
-Further, I make an offering of jeweled lamps
-Arranged in rows on golden lotuses.
-I scatter the petals of attractive flowers
-On a paved floor anointed with perfume.
+I offer rows of jeweled lamps
+set upon golden lotus flowers.
+And on ground perfumed with incense,
+I scatter petals of beautiful flowers.
 
 **Verse id:**
 Bodhicaryāvatāra, Chapter 2, Verse 17 (^2-17)

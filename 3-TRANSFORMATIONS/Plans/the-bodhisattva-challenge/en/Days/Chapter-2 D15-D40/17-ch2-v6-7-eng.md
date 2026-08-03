@@ -6,9 +6,9 @@ verse: "6-7"
 
 ## Today's Verse
 
-> I imagine taking these and offer them well To the sages, greatest of beings, and their offspring, Sublime and greatly compassionate recipients. Think of me lovingly; accept these from me. ^2-6
+> I hold all of this in my mind and offer it to the buddhas and to their heirs, the bodhisattvas. Great, compassionate ones, please think of me kindly and accept these gifts. ^2-6
 
-> I am bereft of merit, destitute, And have no other wealth that I could offer. May the protectors, who think of others’ weal, Accept these through their power for my sake. ^2-7
+> I have so little merit of my own, and I am truly poor — I have nothing else worth giving. So please, you who care about helping others, accept this offering anyway, for my sake, through your own great power. ^2-7
 
 ## 1) Introduction to Today's Practice
 

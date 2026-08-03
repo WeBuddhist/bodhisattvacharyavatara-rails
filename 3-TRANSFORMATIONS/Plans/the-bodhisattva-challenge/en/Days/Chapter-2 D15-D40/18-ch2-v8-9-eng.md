@@ -6,9 +6,9 @@ verse: "8-9"
 
 ## Today's Verse
 
-> Forevermore I offer all my bodies To the buddhas and to their offspring. O sublime beings, accept me entirely, And I will be your dedicated servant. ^2-8
+> I give my whole self, forever, to the buddhas and their heirs. Please, greatest of beings, take me as your own. With deep respect, I will serve you. ^2-8
 
-> Because you have accepted me completely, Not fearing existence, I will benefit beings. I will transcend my previous misdeeds And never do another wrong again. ^2-9
+> Now that you have taken me in, I will have no fear, even in this hard life, and I can truly help others. I will leave my past wrongdoing behind me, and from now on, I will not do such things again. ^2-9
 
 ## 1) Introduction to Today's Practice
 

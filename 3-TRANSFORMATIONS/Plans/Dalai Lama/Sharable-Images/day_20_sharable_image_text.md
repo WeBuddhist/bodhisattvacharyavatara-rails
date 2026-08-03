@@ -8,10 +8,10 @@
 Today, whenever I see a beautiful flower or smell a sweet scent, I will mentally offer it to the Three Jewels to help clear away negative karma.
 
 **Verse of the day:**
-I offer the great beings I venerate,
-The lords of sages, every fragrant flower—
-Mandarava, lotus, jasmine, and so forth—
-And pleasing garlands strung attractively.
+I offer the buddhas,
+who deserve the highest respect,
+beautiful flowers of every kind —
+soft blossoms, lotuses, and sweet-smelling garlands woven with care.
 
 **Verse id:**
 Bodhicaryāvatāra, Chapter 2, Verse 15 (^2-15)

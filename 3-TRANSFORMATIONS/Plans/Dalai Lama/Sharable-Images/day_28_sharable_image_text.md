@@ -8,10 +8,10 @@
 Today, when anger rises toward someone, I will remember that both he and I will die, and let the hatred go.
 
 **Verse of the day:**
-I must leave all behind and go,
-But I have not yet recognized that.
-For the sake of those I like or dislike,
-I have done various misdeeds.
+I never truly understood
+that I would have to leave everything behind one day.
+Because of that, I have done all kinds of wrong —
+for people I love, and against people I dislike.
 
 **Verse id:**
 Bodhicaryāvatāra, Chapter 2, Verse 34 (^2-34)

@@ -8,10 +8,10 @@
 Today, recalling the qualities of the Three Jewels, I will bow with deep devotion and show genuine respect and politeness to everyone around me.
 
 **Verse of the day:**
-I prostrate, bowing as many bodies
-As there are atoms in all realms,
-To all the buddhas of the three times,
-The dharma, and the sublime sangha.
+I bow down before every buddha
+of the past, present, and future,
+and before the dharma and the whole sangha.
+I bow with as many bodies as there are specks of dust in the universe.
 
 **Verse id:**
 Bodhicaryāvatāra, Chapter 2, Verse 24 (^2-24)

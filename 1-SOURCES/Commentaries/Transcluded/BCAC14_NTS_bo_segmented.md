@@ -9,7 +9,29 @@ language: Tibetan
 lang_tag: bo
 source_description: Composed by Lungrik Mawa Thokme at the glorious E monastery (dpal e'i gtsug lag khang).
 status: 1-segmented
+
+
+title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་ལེགས་པར་བཤད་པའི་རྒྱ་མཚོ།
+translator: དངུལ་ཆུ་ཐོགས་མེད།[bdrc:P00KG07267]
+language: Tibetan
+file_type: commentary
+lang_tag: bo
+verse_id_format: chapter-verse
+root_text: 1-SOURCES/Text/BCAV08_SH_sk.md
+translation_basis:
+covers_verses: 1-1–10-61
+source_description: 
+source: https://webuddhist.com/
+license: public
+category_id: JD5ULLPAV1cxg7RSb7L3q
+bdrc_work_id: WA00KG0545
+text_id: 0lvicjSqSLdtXCZQjSYvj
+edition_id: 3rCvwAoWrzKGlIQdtLjCu
+toc_id: TihAXeCXX5XQzQGwL2M0C
 ---
+
+# བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་ལེགས་པར་བཤད་པའི་རྒྱ་མཚོ།
+
 ## མཆོད་པར་བརྗོད་པ།
 
 ༄༅།།བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་ལེགས་པར་བཤད་པའི་རྒྱ་མཚོ་ཞེས་བྱ་བ། ^0-1

@@ -6,9 +6,9 @@ verse: "4-5"
 
 ## Today's Verse
 
-> Incense and perfumes as from divine worlds And so forth, wish-fulfilling trees, jewel trees, And crops that grow without need to be plowed, All ornaments that are fit to be offered, ^2-4
+> I offer the sweet scents of heaven, incense, wish-fulfilling trees, and trees made of jewels. I offer crops that grow without anyone planting them, and every other beautiful thing worth giving. ^2-4
 
-> And lakes and pools bedecked with lotuses, Where lovely swans have most delightful calls— Everything that’s unowned extending to The edges of the realms of infinite space— ^2-5
+> I offer lakes covered in lotus flowers, where swans sing beautifully. I offer everything, all the way out to the edges of endless space — everything that belongs to no one at all. ^2-5
 
 ## 1) Introduction to Today's Practice
 

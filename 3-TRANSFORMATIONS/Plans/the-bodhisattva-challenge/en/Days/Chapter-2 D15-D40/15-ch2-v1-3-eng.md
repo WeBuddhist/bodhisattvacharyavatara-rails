@@ -6,11 +6,11 @@ verse: "1-3"
 
 ## Today's Verse
 
-> In order to grasp that precious attitude, I make fine offerings to the buddhas, To the true dharma, the immaculate jewel, And to the oceans of qualities, bodhisattvas. ^2-1
+> To truly hold on to that precious bodhichitta, I now make offerings — to the buddhas, to the pure dharma, that flawless jewel, and to the bodhisattvas, who are like oceans of good qualities. ^2-1
 
-> As many fruits and flowers as there are, Whatever kinds of medicine exist, However many jewels there are in the world, All clean and pleasant waters there may be, ^2-2
+> I offer every flower and fruit that exists, every kind of medicine, every jewel in the world, and every clear, lovely stretch of water. ^2-2
 
-> Mountains of jewels and likewise forest groves In solitary and delightful places, Bushes adorned with ornamental flowers, And trees whose branches bow with splendid fruit, ^2-3
+> I offer mountains made of jewels, the quiet, beautiful forests, the trees covered in blossoms, and the branches bending under ripe fruit. ^2-3
 
 ## 1) Introduction to Today's Practice
 

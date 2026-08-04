@@ -111,10 +111,4 @@ Shantideva, Manjushri, Shakyamuni, and Avalokiteshvara/Chenrezi are surprising m
 
 These are core doctrinal vocabulary a keyword system for this text should catch — their absence suggests either low frequency in this translation or an unhandled inflected/compound form.
 
-## Recommendations
 
-1. Run the verse-level keyword mapping — the empty `en_keyword_verses.json`/`en_verse_keywords.json` is the top-priority gap.
-2. Tighten stopword filtering in `en_termbase.json` and add an IDF-style penalty to `en-normalized.json` scoring so generic words (great, time, action, good, people) stop crowding the top ranks.
-3. Check why Shantideva, Manjushri, Shakyamuni, and Avalokiteshvara are missing — likely a spelling-variant issue.
-4. For Tibetan projection via line alignment, match all occurrences of a term (not just the first) and normalize Tibetan orthographic variants — current single-occurrence matching is only ~64% reliable.
-5. Add bound-phrase handling for numbered doctrinal sets (Four X, Five Y, Eight Z) to close most of the 152 partial-coverage entries.

@@ -253,6 +253,3 @@ Here is the complete, consolidated list of all the unique tags generated through
 - #དགེ་རྩ་བསྔོ་བ།
     
 - #མཐུན་འགྱུར་བྱེད་པ།
-    
-
-### 8. English Tags (From the initial response)

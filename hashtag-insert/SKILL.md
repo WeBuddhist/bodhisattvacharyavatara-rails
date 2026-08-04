@@ -63,11 +63,12 @@ python scripts/insert_tags.py "<root_file.md>" mapping.json -o "<root_file>-tagg
 This never edits the input file in place — it always writes a new file, so the original stays untouched and the user can diff before accepting. It re-locates each verse's block-reference line using the same parser as step 1, then inserts the tags as their own paragraph directly beneath it, e.g.:
 
 ```
-བྱང་ཆུབ་སེམས་ཞེས་བྱ་བ་རབ་བརྟན་ཟུང་། ། ^1-10
+དེང་ནས་བཟུང་སྟེ་གཉིད་ལོག་གམ། །
+བག་མེད་གྱུར་ཀྱང་བསོད་ནམས་ཤུགས། །
+རྒྱུན་མི་འཆད་པར་དུ་མ་ཞིག །
+ནམ་མཁའ་མཉམ་པར་རབ་ཏུ་འབྱུང་། ། #བྱང་ཆུབ་ཀྱི་སེམས། ^1-19
 
-#ཚིག་ངན་བཟོད་པ། #མི་ཁ་བཟོད་པ།
-
-![[1-SOURCES/Text/BCAV08_SH_sk.md#^1-11]]
+![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-19]]
 ```
 
 Everything else in the file — frontmatter, headings, transclusion embeds, verse text, spacing — is left byte-for-byte identical. If the user wants the original file edited in place rather than a new "-tagged" copy, do that as an explicit final step only after they've reviewed the output (e.g. by replacing the original once confirmed) — don't silently overwrite their source file.

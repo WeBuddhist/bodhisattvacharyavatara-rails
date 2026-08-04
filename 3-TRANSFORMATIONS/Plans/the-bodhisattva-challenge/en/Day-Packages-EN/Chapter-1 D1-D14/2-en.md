@@ -256,11 +256,11 @@ Having the occasion, being free from the eight unfree states. All commentaries e
 
 The five of oneself (born human, central land, faculties complete, not reversed into wrong livelihood, faith in the ground) and the five from others (a buddha has come, has taught the Dharma, the teaching remains, there are followers, benefit through loving concern) — all commentaries explain at length.
 
-###### 3. How Rare This Chance Really Is
+###### 3. The Cause, Scope, Example, and Number of Its Rarity
 
 Minyak Kunzang Sonam shows the rarity of leisure and opportunity under four headings (cause = pure discipline; scope = superior to bodies of other realms; example = the turtle and the yoke; number = like the little on a fingertip against the dust of the whole earth).
 
-###### 4. Don't Waste This Chance
+###### 4. One Must Engage Without Wasting It
 
 All commentaries agree: "if you do not accomplish something beneficial with it, how could you come by it again?" — urging effort in generating bodhicitta.
 
@@ -429,23 +429,23 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-5]] 
 <!-- sub:teaching-points -->
 #### Main Teaching Points
 
-###### 1. Both Body and Mind Are Hard to Come By
+###### 1. Both the Bodily and the Mental Supports Are Hard to Find
 
 Gyaltsab, and especially Minyak Kunzang Sonam and Khenpo Kunga, treat the placement in the text's structure: verse 4 shows the bodily support (leisure and opportunity) is hard to find, and verse 5 shows the mental support (the mind of merit) is hard to find.
 
-###### 2. Three Levels of a Good-Hearted Mind
+###### 2. The Framework of the "Mind of Merit"
 
 The chief commentary (Minyak Kunzang Sonam) divides it into three levels; every mind wishing to accomplish any wholesome quality is a "mind of merit," and the supreme is aspiring/engaging bodhicitta.
 
-###### 3. It Happens Only Once in a Great While
+###### 3. It Arises Only Once in a Great While
 
 All commentaries agree; the phrase "a brief flicker" marks that it comes only about once in a hundred or twice in a thousand times and does not last (Khenpo Kunzang Pelden: "once in a hundred, twice in a thousand").
 
-###### 4. The Buddhas' Blessing Makes It Happen
+###### 4. It Arises Through the Power of the Buddhas
 
 All commentaries agree; this mind of merit does not arise from one's own capacity alone but through the power of the buddhas' blessing; Minyak Kunzang Sonam glosses this clearly as "the light-rays of blessing."
 
-###### 5. Don't Let It Fade — Keep Building It
+###### 5. Once Arisen, It Must Not Fade but Be Increased
 
 All commentaries give the same exhortation; Khenpo Kunzang Pelden — with the phrase "like a sign made by a blind person's hand" ⚑ (idiom uncertain) — urges that it not fade but be increased, relying on the early Kadam masters' ten innermost jewels and three fierce mantras.
 

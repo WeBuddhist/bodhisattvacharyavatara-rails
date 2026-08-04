@@ -272,23 +272,23 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-1]] 
 <!-- sub:teaching-points -->
 #### Main Teaching Points
 
-###### 1. Three Meanings of "Blissful One"
+###### 1. Sugata Has Three Meanings
 
 The word *bde* (bliss): "gone beautifully" (free from the stains of the afflicted class through realizing that all phenomena lack inherent nature) / "gone without return" (having abandoned in every way the seed of self-grasping, not falling back even if reborn at the peak of existence) / "gone completely" (having abandoned without remainder the habitual tendencies of all faults, together with their character as the corrupt states of body, speech, and mind). All the commentaries agree.
 
-###### 2. What the Truth Body Is
+###### 2. The Truth Body Is the Sphere of Reality Unstained by Adventitious Defilements
 
 All commentaries cite the *Uttaratantra* and set out the two kinds of Truth Body as objects of knowledge: the Truth Body of realization (the utterly stainless sphere of reality) and the Truth Body of teaching (the profound-and-vast collection of Dharma).
 
-###### 3. Who Counts as a Buddha's Heir
+###### 3. Heirs Are Bodhisattvas Endowed With the Three Causes
 
 Chiefly the assembly of bodhisattvas, said to possess the three causes: upholding the lineage of the victorious ones, holding the treasury of the sublime Dharma, and caring for the remaining disciples to be trained. They are known to be counted from the attainment of the [first] ground.
 
-###### 4. Why He Pays Homage First
+###### 4. The Purpose of the Homage
 
 Chiefly — as all commentaries establish — so that the composition is completed without obstacle. Gyaltsab adds three: so that later followers, recognizing the author as sublime, generate faith and aspiration, and so that it benefits those to be trained. Minyak Kunzang Sonam notes that being familiar with the tradition and well known generates confidence.
 
-###### 5. Writing Briefly, Based on Scripture
+###### 5. The Method of Composing: "In Brief, in Accordance With the Scriptures"
 
 Just as it arises from the pure scriptures of the Great Vehicle, "in accordance with the scriptures"; and because the extensively taught sutras are hard to grasp, the text is a pith instruction that shows the path — condensing without error, complete in meaning, so as to be understood easily.
 
@@ -456,19 +456,19 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-2]] 
 <!-- sub:teaching-points -->
 #### Main Teaching Points
 
-###### 1. Saying "Nothing New" Out of Humility
+###### 1. "Nothing New Here": Humbling Pride, Yet Resting on Truth
 
 Although he says there is nothing new in this text, Vibhūticandra's words of praise establish Shantideva as peerless; all commentaries read this phrase as truth stated with humility — casting off all superficial pride.
 
-###### 2. Not Claiming to Help Others Isn't Pride, Either
+###### 2. "No Thought of Benefiting Others": Not an Instruction to Puff Up Pride
 
 Although he does not claim great benefit for many will come, in the end all commentaries establish that this text does become meaningful even for others of equal fortune. Humbling pride does not contradict the text's benefit.
 
-###### 3. Why He Wrote It: To Train His Own Mind
+###### 3. "In Order to Meditate in My Own Mind": The Chief Purpose of Composing
 
 All commentaries establish that the chief purpose of composing the text is to grow familiar with bodhicitta and the six perfections in one's own mind; and Candragomin's citation establishes that, among the three activities of the learned, composing becomes supreme because it takes hold through familiarity.
 
-###### 4. Why Humility Matters
+###### 4. The Benefit of Humbling Pride
 
 "The water of good qualities does not settle on the ball of pride": when swollen with pride, the qualities of scripture and realization do not arise; one enters Māra's path, and the text fails to benefit others. Therefore humbling pride removes the obstacle of pride to the four perfections.
 
@@ -590,7 +590,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-3]]
 <!-- sub:teaching-points -->
 #### Main Teaching Points
 
-###### 1. Writing This Is Itself a Practice
+###### 1. Composing the Text in Order to Meditate
 
 The very act of setting down this text is a practice of growing familiar with, and accustoming the mind to, the virtue of bodhicitta and the six perfections. All commentaries establish that "to meditate" means directing the mind again and again to a virtuous focus and sustaining its continuity.
 
@@ -598,11 +598,11 @@ The very act of setting down this text is a practice of growing familiar with, a
 
 By setting down this text, the stream of one's own faith first increases more and more. Faith is explained as combining three — confidence, clear faith, and yearning — all of which become like the underlying force of the virtue of the two accumulations.
 
-###### 3. Why He Says "For Now"
+###### 3. The Purpose of "For Now"
 
 The word "for now" shows the sequence of first benefiting oneself and later benefiting others. Some commentaries explain that it indicates a dependence on benefiting others; it is established that first faith and so on increase in one's own being, and then likewise benefit others of equal fortune.
 
-###### 4. It May Help Others, Too
+###### 4. How It Benefits Others of Equal Fortune
 
 It is established that the benefit of seeing this text arises for others too. "Of equal fortune" is taken by most commentaries to mean equal in family and qualities, and is also explained as "those striving for perfect enlightenment." This shows that the text's benefit to others too arises in a fitting way.
 

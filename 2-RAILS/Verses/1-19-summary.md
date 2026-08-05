@@ -119,15 +119,54 @@ notes: "gyaltsab, sabzang, minyak-kunzang-sonam, and khenpo-kunga each group ver
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **དེ་ནས་བཟུང་སྟེ།** | བྱང་ཆུབ་ཀྱི་སེམས་ཡང་དག་པར་བླངས་ཟིན་པའི་དུས་དེ་ནས་བཟུང་སྟེ། (from that moment of genuinely receiving [the vow] onward) | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
-| **གཉིད་ལོག་གམ།** | གཉིད་ལོག་གམ་རྩེད་མོ་སོགས། (even while asleep, playing, or otherwise heedless) | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
-| **བག་མེད་གྱུར་ཀྱང་།** | བག་མེད་གྱུར་ཀྱང་། ཀྱང་གི་སྒྲས་བརྒྱལ་བ་སོགས་བསྡུས། (even in heedlessness — "even" including fainting, etc.) | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]) |
-| **བསོད་ནམས་ཀྱི་ཤུགས།** | འཇུག་སྡོམ་བླངས་ཟིན་པ་ལས་བྱུང་བའི་བསོད་ནམས་ཀྱི་ཤུགས། (the momentum of merit arising from having received the engaging vow) | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
-| **རྒྱུན་མི་འཆད་པར་དུ་མ་ཞིག།** | གྲངས་མེད་པ་ཞིག །རྒྱ་ཆེ་ཞིང་ཟད་མི་ཤེས་པ་དུ་མ། (countless varieties; vast and inexhaustible) | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) |
-| **ནམ་མཁའ་མཉམ་པར་རབ་ཏུ་འབྱུང་།** | ཚད་གཟུང་དུ་མེད་པ་ནམ་མཁའ་དང་མཉམ་པར་རབ་ཏུ་འབྱུང་། (arising immeasurably, equal to space in extent) | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md]]) |
-| **རྩ་ལྟུང་།** | དགེ་བ་ལ་མི་སྦྱོར་བའི་རྩ་ལྟུང་གི་ཉེས་པ་ཆེན་པོ། (the great downfall at the root [of the vow], arising from non-practice) | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
+#### གནད་ཚིག 
+**དེ་ནས་བཟུང་སྟེ།**
+#### འགྲེལ་བཤད་ (Commentary definition)
+བྱང་ཆུབ་ཀྱི་སེམས་ཡང་དག་པར་བླངས་ཟིན་པའི་དུས་དེ་ནས་བཟུང་སྟེ། (from that moment of genuinely receiving [the vow] onward)
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md))
+
+#### གནད་ཚིག 
+**གཉིད་ལོག་གམ།**
+#### འགྲེལ་བཤད་ (Commentary definition)
+གཉིད་ལོག་གམ་རྩེད་མོ་སོགས། (even while asleep, playing, or otherwise heedless)
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md](1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md))
+
+#### གནད་ཚིག 
+**བག་མེད་གྱུར་ཀྱང་།**
+#### འགྲེལ་བཤད་ (Commentary definition)
+བག་མེད་གྱུར་ཀྱང་། ཀྱང་གི་སྒྲས་བརྒྱལ་བ་སོགས་བསྡུས། (even in heedlessness — "even" including fainting, etc.)
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md](1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md))
+
+#### གནད་ཚིག 
+**བསོད་ནམས་ཀྱི་ཤུགས།**
+#### འགྲེལ་བཤད་ (Commentary definition)
+འཇུག་སྡོམ་བླངས་ཟིན་པ་ལས་བྱུང་བའི་བསོད་ནམས་ཀྱི་ཤུགས། (the momentum of merit arising from having received the engaging vow)
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md))
+
+#### གནད་ཚིག 
+**རྒྱུན་མི་འཆད་པར་དུ་མ་ཞིག།**
+#### འགྲེལ་བཤད་ (Commentary definition)
+གྲངས་མེད་པ་ཞིག །རྒྱ་ཆེ་ཞིང་ཟད་མི་ཤེས་པ་དུ་མ། (countless varieties; vast and inexhaustible)
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md)) ([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md))
+
+#### གནད་ཚིག 
+**ནམ་མཁའ་མཉམ་པར་རབ་ཏུ་འབྱུང་།**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ཚད་གཟུང་དུ་མེད་པ་ནམ་མཁའ་དང་མཉམ་པར་རབ་ཏུ་འབྱུང་། (arising immeasurably, equal to space in extent)
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md](1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md))
+
+#### གནད་ཚིག 
+**རྩ་ལྟུང་།**
+#### འགྲེལ་བཤད་ (Commentary definition)
+དགེ་བ་ལ་མི་སྦྱོར་བའི་རྩ་ལྟུང་གི་ཉེས་པ་ཆེན་པོ། (the great downfall at the root [of the vow], arising from non-practice)
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md))
 
 ---
 

@@ -133,12 +133,33 @@ status: draft
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **སྨོན་སེམས།** (**smon sems** / ***praṇidhicitta***) | རྫོགས་བྱང་ཆེན་མོར་འགྲོ་བ་ཀུན་བཀོད་བར་སྨོན་ (འདོད་ / ***icchā***) ཤིང་། ལམ་གྱི་ཚོགས་ལ་མ་འཇུག་པའི་བྱང་ཆུབ་ཀྱི་སེམས། (**འབྲས་བུར་འདོད།**) | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-15]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-15]]) |
-| **འཇུག་སེམས།** (**'jug sems** / ***bodhiprasthānacitta***) | སྨོན་སེམས་སྔོན་དུ་འཆར་ (***pūrvam eti***) ནས་ སྡོམ་བླངས་ (***vrata***) ཏེ་ཚོགས་གཉིས་ (***pāramitā***) ལ་འཇུག་པའི་བྱང་ཆུབ་ཀྱི་སེམས། (**རྒྱུར་འཇུག།**) | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-15]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-15]]) |
-| **ཉིད་** (**nyid** / ***eva***) | "**འདི་གཉིས་ཁོ་ན།**" (***these two only***) ཞེས་ exclusion particle. གཞན་མི་འདུལ། (KS mchan-grel gsal.) | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-15]]) |
-| **སྡོམ་པ་བླང་བ།** (**sdom pa blang ba** / taking vows) | འཇུག་སེམས་བཞེས་ཚེ་སྡོམ་པ་བླང་དགོས། Atiśa's ritual. མི་བླངས་ཀྱིས་སྨོན་སེམས་ཙམ་ — སྡོམ་བླངས་ན་འཇུག་སེམས། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-15]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-15]]) |
+#### གནད་ཚིག 
+**སྨོན་སེམས།** (**smon sems** / ***praṇidhicitta***)
+#### འགྲེལ་བཤད་ (Commentary definition)
+རྫོགས་བྱང་ཆེན་མོར་འགྲོ་བ་ཀུན་བཀོད་བར་སྨོན་ (འདོད་ / ***icchā***) ཤིང་། ལམ་གྱི་ཚོགས་ལ་མ་འཇུག་པའི་བྱང་ཆུབ་ཀྱི་སེམས། (**འབྲས་བུར་འདོད།**)
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md > ^1-15](1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-15)) ([1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md > ^1-15](1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-15))
+
+#### གནད་ཚིག 
+**འཇུག་སེམས།** (**'jug sems** / ***bodhiprasthānacitta***)
+#### འགྲེལ་བཤད་ (Commentary definition)
+སྨོན་སེམས་སྔོན་དུ་འཆར་ (***pūrvam eti***) ནས་ སྡོམ་བླངས་ (***vrata***) ཏེ་ཚོགས་གཉིས་ (***pāramitā***) ལ་འཇུག་པའི་བྱང་ཆུབ་ཀྱི་སེམས། (**རྒྱུར་འཇུག།**)
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md > ^1-15](1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-15)) ([1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md > ^1-15](1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-15))
+
+#### གནད་ཚིག 
+**ཉིད་** (**nyid** / ***eva***)
+#### འགྲེལ་བཤད་ (Commentary definition)
+"**འདི་གཉིས་ཁོ་ན།**" (***these two only***) ཞེས་ exclusion particle. གཞན་མི་འདུལ། (KS mchan-grel gsal.)
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md > ^1-15](1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-15))
+
+#### གནད་ཚིག 
+**སྡོམ་པ་བླང་བ།** (**sdom pa blang ba** / taking vows)
+#### འགྲེལ་བཤད་ (Commentary definition)
+འཇུག་སེམས་བཞེས་ཚེ་སྡོམ་པ་བླང་དགོས། Atiśa's ritual. མི་བླངས་ཀྱིས་སྨོན་སེམས་ཙམ་ — སྡོམ་བླངས་ན་འཇུག་སེམས།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md > ^1-15](1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-15)) ([1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md > ^1-15](1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-15))
 
 ---
 

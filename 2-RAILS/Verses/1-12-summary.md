@@ -125,12 +125,33 @@ status: draft
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **ཆུ་ཤིང་** (**chu shing** / kadalī / banana tree) | ལན་གཅིག་འབྲས་བུ་བྱིན་ནས་ཟད་པར་འགྱུར། གཞན་གྱི་དགེ་བ་ཐམས་ཅད་འདིར་དཔེར་གཏད། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-12]]) |
-| **ལྗོན་ཤིང་** (**ljon shing** / **dpag bsam gyi shing** / kalpataru) | རྟག་ཏུ་འབྲས་བུ་འབྱིན་ཞིང་ཟད་མི་ཤེས། བྱང་ཆུབ་ཀྱི་སེམས་ཀྱིས་བསྔོས་པའི་དགེ་རྩ་བྱང་ཆུབ་སྙིང་པོ་ལ་ཐུག་གི་བར་མི་ཟད། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-12]]) |
-| **མི་ཟད་** (**mi zad** / inexhaustible) | བྱང་སེམས་ཀྱི་ཕན་ཡོན་ — མྱོང་བ་ངེས་པའི་འབྲས་བུ་བྱིན་ནས་ཟད་མི་ཤེས། གོང་ནས་གོང་དུ་འཕེལ་བར་འགྱུར། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-12]]) |
-| **བྱང་ཆུབ་སྙིང་པོ།** | བྱང་ཆུབ་ཀྱི་རྩ་བ་ — དགེ་རྩ་དེར་ཐུག་གི་བར་མི་ཟད་པར་འཕེལ། (བློ་གྲོས་མི་ཟད་ལས།) | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-12]]) |
+#### གནད་ཚིག 
+**ཆུ་ཤིང་** (**chu shing** / kadalī / banana tree)
+#### འགྲེལ་བཤད་ (Commentary definition)
+ལན་གཅིག་འབྲས་བུ་བྱིན་ནས་ཟད་པར་འགྱུར། གཞན་གྱི་དགེ་བ་ཐམས་ཅད་འདིར་དཔེར་གཏད།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md > ^1-12](1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-12))
+
+#### གནད་ཚིག 
+**ལྗོན་ཤིང་** (**ljon shing** / **dpag bsam gyi shing** / kalpataru)
+#### འགྲེལ་བཤད་ (Commentary definition)
+རྟག་ཏུ་འབྲས་བུ་འབྱིན་ཞིང་ཟད་མི་ཤེས། བྱང་ཆུབ་ཀྱི་སེམས་ཀྱིས་བསྔོས་པའི་དགེ་རྩ་བྱང་ཆུབ་སྙིང་པོ་ལ་ཐུག་གི་བར་མི་ཟད།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md > ^1-12](1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-12))
+
+#### གནད་ཚིག 
+**མི་ཟད་** (**mi zad** / inexhaustible)
+#### འགྲེལ་བཤད་ (Commentary definition)
+བྱང་སེམས་ཀྱི་ཕན་ཡོན་ — མྱོང་བ་ངེས་པའི་འབྲས་བུ་བྱིན་ནས་ཟད་མི་ཤེས། གོང་ནས་གོང་དུ་འཕེལ་བར་འགྱུར།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md > ^1-12](1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-12))
+
+#### གནད་ཚིག 
+**བྱང་ཆུབ་སྙིང་པོ།**
+#### འགྲེལ་བཤད་ (Commentary definition)
+བྱང་ཆུབ་ཀྱི་རྩ་བ་ — དགེ་རྩ་དེར་ཐུག་གི་བར་མི་ཟད་པར་འཕེལ། (བློ་གྲོས་མི་ཟད་ལས།)
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md > ^1-12](1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-12))
 
 ---
 

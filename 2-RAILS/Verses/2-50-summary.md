@@ -115,13 +115,40 @@ status: draft
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **སྤྱན་རས་གཟིགས་མགོན་** | སངས་རྒྱས་ཐམས་ཅད་ཀྱི་ཐུགས་རྗེའི་རང་གཟུགས་གཅིག་ཏུ་བསྡུས་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-50]]) |
-| **ཐུགས་རྗེའི་སྤྱོད་པ་མ་འཁྲུལ་བ་** | ནང་གི་ཡོན་ཏན་སྙིང་རྗེ་དང་ཕྱིའི་སྤྱོད་པ་མི་འགལ་བར་མཛད་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-50]]) |
-| **ཐུགས་རྗེའི་སྤྱོད་པ་མ་འཁྲུལ་བ་** | ལྷུན་གྱིས་གྲུབ་པ་དང་རྒྱུན་མི་འཆད་པ་གཉིས་ཀྱིས་གཞན་དོན་མཛད་པའི་སྤྱོད་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^2-50]]) ⚑ |
-| **ང་རོས་འོ་དོད་འབོད་** | སྐད་བྱུང་བའི་གདངས་མཐོན་པོའི་ང་རོས་འོ་དོད་དྲག་པོས་འབོད་པ་སྟེ་ཕོ་ཆེན་པོ་བཏབ་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-50]]) |
-| **སྡིག་ལྡན་བདག་** | བདག་འཛིན་མ་རིག་པའི་དབང་གིས་ལས་ངན་བསགས་ནས་འཁོར་བ་མཐའ་མེད་དུ་ངན་སོང་གསུམ་ལ་སོགས་པར་འགྲོ་བའི་གང་ཟག། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-50]]) |
+#### གནད་ཚིག 
+**སྤྱན་རས་གཟིགས་མགོན་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+སངས་རྒྱས་ཐམས་ཅད་ཀྱི་ཐུགས་རྗེའི་རང་གཟུགས་གཅིག་ཏུ་བསྡུས་པ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^2-50](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-50))
+
+#### གནད་ཚིག 
+**ཐུགས་རྗེའི་སྤྱོད་པ་མ་འཁྲུལ་བ་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ནང་གི་ཡོན་ཏན་སྙིང་རྗེ་དང་ཕྱིའི་སྤྱོད་པ་མི་འགལ་བར་མཛད་པ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^2-50](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-50))
+
+#### གནད་ཚིག 
+**ཐུགས་རྗེའི་སྤྱོད་པ་མ་འཁྲུལ་བ་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ལྷུན་གྱིས་གྲུབ་པ་དང་རྒྱུན་མི་འཆད་པ་གཉིས་ཀྱིས་གཞན་དོན་མཛད་པའི་སྤྱོད་པ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md > ^2-50](1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^2-50)) ⚑
+
+#### གནད་ཚིག 
+**ང་རོས་འོ་དོད་འབོད་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+སྐད་བྱུང་བའི་གདངས་མཐོན་པོའི་ང་རོས་འོ་དོད་དྲག་པོས་འབོད་པ་སྟེ་ཕོ་ཆེན་པོ་བཏབ་པ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^2-50](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-50))
+
+#### གནད་ཚིག 
+**སྡིག་ལྡན་བདག་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+བདག་འཛིན་མ་རིག་པའི་དབང་གིས་ལས་ངན་བསགས་ནས་འཁོར་བ་མཐའ་མེད་དུ་ངན་སོང་གསུམ་ལ་སོགས་པར་འགྲོ་བའི་གང་ཟག།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^2-50](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-50))
 
 <sup>⚑ note: gyaltsab's gloss of ཐུགས་རྗེའི་སྤྱོད་པ་མ་འཁྲུལ་བ་ (spontaneous, uninterrupted altruistic activity) supplements rather than contradicts kunpal's gloss (inner compassion undivided from outer conduct); both describe the same epithet from different angles, so the ⚑ marks a difference of emphasis, not doctrinal conflict.</sup>
 

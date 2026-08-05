@@ -149,13 +149,40 @@ status: draft
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **དུས་མཐའི་མེ།** (**dus mtha'i me** / ***kalpāntānala***) | བསྐལ་མཐའི་བར་ལ་ཉི་མ་བདུན་གྱི་མེས་ས་བསམ་གཏན་དང་པོ་མན་ཆད་ཐམས་ཅད་སྲེག། གྲུབ་མཐའི་ **cosmological fire.** | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-14]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-14]]) |
-| **མ་ངེས་ལས་** (**ma nges pa'i las** / ***aniyata-karma***) | 1-14 ལ་གཙོ་བོ། མྱོང་དགོས་པར་མ་ངེས་པའི་ལས། བྱང་སེམས་ཀྱིས་རྩ་བ་ནས་འཇོམས། (1-13 གི་ ***myong nges kyi las*** དང་ཁྱད་ཤོར།) | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-14]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-14]]) |
-| **བྱམས་མགོན།** (**byams mgon** / Maitreya) | བྱང་ཆུབ་སེམས་དཔའ་ (Maitreya Bodhisattva) གིས་ (ནོར་བཟང་) **Sudhana** ལ་ Gaṇḍavyūha ལས་བྱང་སེམས་ཀྱི་ཡོན་ཏན་དཔག་མེད་བཤད། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-14]]) |
-| **ནོར་བཟང།** (**nor bzang** / **Sudhana**) | གཞོན་ནུ་ **Sudhana** — **Gaṇḍavyūha Sūtra** ལ་གཙོ་བོ་གྲྭ་འཛིན་ (pilgrim/student)། **བྱམས་མགོན་** གྱིས་དེར་བྱང་སེམས་ཀྱི་ཡོན་ཏན་བཤད། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-14]]) |
-| **རྩ་བ་ནས་འཇོམས།** (**rtsa ba nas 'joms pa**) | 1-14 གི་བྱང་སེམས་ཀྱི་ཐབས། མ་ངེས་ལས་རྩ་བ་ནས་འཇོམས་ (uproot). 1-13 གི་ **zil gyis gnon** དང་ཁྱད་ཤོར། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-14]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-14]]) |
+#### གནད་ཚིག 
+**དུས་མཐའི་མེ།** (**dus mtha'i me** / ***kalpāntānala***)
+#### འགྲེལ་བཤད་ (Commentary definition)
+བསྐལ་མཐའི་བར་ལ་ཉི་མ་བདུན་གྱི་མེས་ས་བསམ་གཏན་དང་པོ་མན་ཆད་ཐམས་ཅད་སྲེག། གྲུབ་མཐའི་ **cosmological fire.**
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md > ^1-14](1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-14)) ([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^1-14](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-14))
+
+#### གནད་ཚིག 
+**མ་ངེས་ལས་** (**ma nges pa'i las** / ***aniyata-karma***)
+#### འགྲེལ་བཤད་ (Commentary definition)
+1-14 ལ་གཙོ་བོ། མྱོང་དགོས་པར་མ་ངེས་པའི་ལས། བྱང་སེམས་ཀྱིས་རྩ་བ་ནས་འཇོམས། (1-13 གི་ ***myong nges kyi las*** དང་ཁྱད་ཤོར།)
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md > ^1-14](1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-14)) ([1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md > ^1-14](1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-14))
+
+#### གནད་ཚིག 
+**བྱམས་མགོན།** (**byams mgon** / Maitreya)
+#### འགྲེལ་བཤད་ (Commentary definition)
+བྱང་ཆུབ་སེམས་དཔའ་ (Maitreya Bodhisattva) གིས་ (ནོར་བཟང་) **Sudhana** ལ་ Gaṇḍavyūha ལས་བྱང་སེམས་ཀྱི་ཡོན་ཏན་དཔག་མེད་བཤད།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md > ^1-14](1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-14))
+
+#### གནད་ཚིག 
+**ནོར་བཟང།** (**nor bzang** / **Sudhana**)
+#### འགྲེལ་བཤད་ (Commentary definition)
+གཞོན་ནུ་ **Sudhana** — **Gaṇḍavyūha Sūtra** ལ་གཙོ་བོ་གྲྭ་འཛིན་ (pilgrim/student)། **བྱམས་མགོན་** གྱིས་དེར་བྱང་སེམས་ཀྱི་ཡོན་ཏན་བཤད།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md > ^1-14](1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-14))
+
+#### གནད་ཚིག 
+**རྩ་བ་ནས་འཇོམས།** (**rtsa ba nas 'joms pa**)
+#### འགྲེལ་བཤད་ (Commentary definition)
+1-14 གི་བྱང་སེམས་ཀྱི་ཐབས། མ་ངེས་ལས་རྩ་བ་ནས་འཇོམས་ (uproot). 1-13 གི་ **zil gyis gnon** དང་ཁྱད་ཤོར།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md > ^1-14](1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-14)) ([1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md > ^1-14](1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-14))
 
 ---
 

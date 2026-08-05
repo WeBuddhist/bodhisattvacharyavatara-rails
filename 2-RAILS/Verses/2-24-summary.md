@@ -143,13 +143,40 @@ status: draft
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **དུས་གསུམ་གཤེགས་པའི་སངས་རྒྱས་** | འདས་པ་དང་མ་འོངས་པ་དང་ད་ལྟར་བྱུང་བའི་དུས་གསུམ་དུ་གཤེགས་པའི་སངས་རྒྱས་རྣམས། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^2-24]]) |
-| **ཆོས་དང་ཚོགས་ཀྱི་མཆོག་** | ལུང་དང་རྟོགས་པའི་ཆོས་དང་ཚོགས་ཀྱི་མཆོག་བྱང་སེམས་འཕགས་པའི་དགེ་འདུན། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^2-24]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^2-24]]) |
-| **ཞིང་རྡུལ་ཀུན་གྱི་གྲངས་སྙེད་** | ཞིང་ཁམས་རབ་འབྱམས་ཀྱི་རྡུལ་ཕྲ་རབ་ཀུན་གྱི་གྲངས་ཇི་སྙེད་ཡོད་པ་དེ་དག་གི་གྲངས། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-24]]) |
-| **ཡན་ལག་ལྔ་ལྡན་གྱི་ཕྱག་** | དཔྲལ་བ་དང་ལག་པའི་མཐིལ་གཉིས་དང་པུས་མོ་གཉིས་བཅས་ཡན་ལག་ལྔ་ས་ལ་ངེས་པར་རེག་པའི་ཕྱག་ཚུལ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^2-24]]) |
-| **བརྐྱང་ཕྱག་** | སྡོང་པོ་ལྟར་བསྒྱེལ་བའམ་ལུས་ཐམས་ཅད་ས་ལ་ཕབ་པའི་ཕྱག་ཚུལ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^2-24]]) |
+#### གནད་ཚིག 
+**དུས་གསུམ་གཤེགས་པའི་སངས་རྒྱས་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+འདས་པ་དང་མ་འོངས་པ་དང་ད་ལྟར་བྱུང་བའི་དུས་གསུམ་དུ་གཤེགས་པའི་སངས་རྒྱས་རྣམས།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md > ^2-24](1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^2-24))
+
+#### གནད་ཚིག 
+**ཆོས་དང་ཚོགས་ཀྱི་མཆོག་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ལུང་དང་རྟོགས་པའི་ཆོས་དང་ཚོགས་ཀྱི་མཆོག་བྱང་སེམས་འཕགས་པའི་དགེ་འདུན།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md > ^2-24](1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^2-24)) ([1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md > ^2-24](1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^2-24))
+
+#### གནད་ཚིག 
+**ཞིང་རྡུལ་ཀུན་གྱི་གྲངས་སྙེད་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ཞིང་ཁམས་རབ་འབྱམས་ཀྱི་རྡུལ་ཕྲ་རབ་ཀུན་གྱི་གྲངས་ཇི་སྙེད་ཡོད་པ་དེ་དག་གི་གྲངས།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^2-24](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-24))
+
+#### གནད་ཚིག 
+**ཡན་ལག་ལྔ་ལྡན་གྱི་ཕྱག་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+དཔྲལ་བ་དང་ལག་པའི་མཐིལ་གཉིས་དང་པུས་མོ་གཉིས་བཅས་ཡན་ལག་ལྔ་ས་ལ་ངེས་པར་རེག་པའི་ཕྱག་ཚུལ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md > ^2-24](1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^2-24))
+
+#### གནད་ཚིག 
+**བརྐྱང་ཕྱག་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+སྡོང་པོ་ལྟར་བསྒྱེལ་བའམ་ལུས་ཐམས་ཅད་ས་ལ་ཕབ་པའི་ཕྱག་ཚུལ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md > ^2-24](1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^2-24))
 
 ---
 

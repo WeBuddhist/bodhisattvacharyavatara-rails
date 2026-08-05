@@ -138,13 +138,40 @@ status: draft
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **འཁོར་ཚེ་** | འཁོར་བར་འཁོར་བའི་ཚེ། ཁམས་གསུམ་འཁོར་བ་ན་གནས་པའི་སྐབས། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-17]]) |
-| **འབྲས་བུ་ཆེ་** | ལྷའི་རྒྱལ་པོ་ཚངས་དབང་སོགས་དང་མིའི་འཁོར་ལོས་བསྒྱུར་བའི་རྒྱལ་པོ་སོགས་ཀྱི་དབང་ཕྱུག་ཕུན་སུམ་ཚོགས་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-17]]) |
-| **བསོད་ནམས་རྒྱུན་ཆགས་** | བར་མ་ཆད་པར་རྒྱུན་ཆགས་སུ་འབྱུང་བའི་བསོད་ནམས་ཀྱི་འབབ་རྒྱུན། འཇུག་སེམས་ཀྱིས་སྦྱིན་སོགས་ལ་འཇུག་བཞིན་པའི་དུས་སར་བར་མ་ཆད་དུ་མི་བརྗེད་བར་སྦྱིན་སོགས་རྒྱུན་ཆགས་སུ་འབྱུང་བ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-17]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-17]]) |
-| **ནན་ཏན་** | སྒྲུབ་པ་དང་བཅས་པའི་ཉམས་ལེན་གྱི་ཤུགས། འཇུག་སེམས་ལ་ཡོད་ཀྱི་སྨོན་སེམས་ལ་མེད། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-17]]) |
-| **ལུང་མ་བསྟན་** | Ethically neutral mental states (e.g. heedlessness, sleep) in which virtuous intention is not manifest; during such states aspiration bodhicitta does not generate the continuous, ever-increasing merit that engagement bodhicitta does. | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-17]]) |
+#### གནད་ཚིག 
+**འཁོར་ཚེ་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+འཁོར་བར་འཁོར་བའི་ཚེ། ཁམས་གསུམ་འཁོར་བ་ན་གནས་པའི་སྐབས།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md > ^1-17](1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-17))
+
+#### གནད་ཚིག 
+**འབྲས་བུ་ཆེ་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ལྷའི་རྒྱལ་པོ་ཚངས་དབང་སོགས་དང་མིའི་འཁོར་ལོས་བསྒྱུར་བའི་རྒྱལ་པོ་སོགས་ཀྱི་དབང་ཕྱུག་ཕུན་སུམ་ཚོགས་པ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^1-17](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-17))
+
+#### གནད་ཚིག 
+**བསོད་ནམས་རྒྱུན་ཆགས་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+བར་མ་ཆད་པར་རྒྱུན་ཆགས་སུ་འབྱུང་བའི་བསོད་ནམས་ཀྱི་འབབ་རྒྱུན། འཇུག་སེམས་ཀྱིས་སྦྱིན་སོགས་ལ་འཇུག་བཞིན་པའི་དུས་སར་བར་མ་ཆད་དུ་མི་བརྗེད་བར་སྦྱིན་སོགས་རྒྱུན་ཆགས་སུ་འབྱུང་བ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md > ^1-17](1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-17)) ([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^1-17](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-17))
+
+#### གནད་ཚིག 
+**ནན་ཏན་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+སྒྲུབ་པ་དང་བཅས་པའི་ཉམས་ལེན་གྱི་ཤུགས། འཇུག་སེམས་ལ་ཡོད་ཀྱི་སྨོན་སེམས་ལ་མེད།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md > ^1-17](1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^1-17))
+
+#### གནད་ཚིག 
+**ལུང་མ་བསྟན་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+Ethically neutral mental states (e.g. heedlessness, sleep) in which virtuous intention is not manifest; during such states aspiration bodhicitta does not generate the continuous, ever-increasing merit that engagement bodhicitta does.
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md > ^1-17](1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^1-17))
 
 ---
 

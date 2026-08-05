@@ -159,11 +159,26 @@ status: draft
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **ག་ཤེད་** | ངེས་པ་མེད་པའི་ཕྱོགས་སོ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^2-61]]) ⚑ |
-| **ག་ཤེད་** | རྒྱུས་མེད་པའི་རྒྱལ་ཁམས་སྟོང་པ་ལྟ་བུའི་གནས་སོ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-61]]) ⚑ |
-| **གསོན་ཚེ་/ཚེ་སྲོག་** | ཆུ་བུར་ལྟ་བུའོ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^2-61]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^2-61]]) |
+#### གནད་ཚིག 
+**ག་ཤེད་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ངེས་པ་མེད་པའི་ཕྱོགས་སོ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md > ^2-61](1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^2-61)) ⚑
+
+#### གནད་ཚིག 
+**ག་ཤེད་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+རྒྱུས་མེད་པའི་རྒྱལ་ཁམས་སྟོང་པ་ལྟ་བུའི་གནས་སོ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^2-61](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-61)) ⚑
+
+#### གནད་ཚིག 
+**གསོན་ཚེ་/ཚེ་སྲོག་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ཆུ་བུར་ལྟ་བུའོ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md > ^2-61](1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^2-61)) ([1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md > ^2-61](1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^2-61))
 
 <sup>⚑ note: this row is informational, not a doctrinal split — khenpo-kunga's vivid gloss of ག་ཤེད་ (an unfamiliar empty kingdom) elaborates rather than contradicts khenpo-zhengah's plain gloss (a place of no certainty); both point to the same referent.</sup>
 

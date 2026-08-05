@@ -169,16 +169,61 @@ status: draft
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **ལས་གང་ཡིན་པའང་** | ལས་བཟང་ངན་གང་ཡིན་པའང་། ⚑ | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^3-14]]) |
-| **ལས་གང་ཡིན་པའང་** (གཉིས་པ) | གནོད་པར་མི་འགྱུར་ཞིང་ཕན་པར་འགྱུར་བའི་དགེ་བའི་ལས། ⚑ | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^3-14]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^3-14]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^3-14]]) |
-| **དོན་མེད་** | མི་འདོད་པ་འབྱུང་བའི་རྒྱུར་མ་གྱུར་ཅིག། ⚑ | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^3-14]]) |
-| **དོན་མེད་** (གཉིས་པ) | ཕན་བདེའི་དོན་མེད་པར་མ་གྱུར་ཅིག། ⚑ | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^3-14]]) |
-| **དོན་མེད་** (གསུམ་པ) | དོན་མེད་པའམ་རེ་བ་མེད་པའི་རྣམ་པ་ཀུན་ཏུ་མ་གྱུར་ཅིག། ⚑ | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^3-14]]) |
-| **བདག་ལ་དམིགས་ནས་** | བདག་གི་ལུས་དང་སེམས་ལ་དམིགས་ནས། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^3-14]]) |
-| **རིགས་པའི་ལས་** | གནོད་པ་མེད་པའི་ལས་བཟང་ངན་གང་ཡིན་པའང་སྦྱར་བའི་ལས། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^3-14]]) |
-| **ཆུད་མི་ཟ་བའི་རྒྱུར་སྨོན་པ་** | ལས་བྱས་པ་ཆུད་མི་ཟ་བའི་རྒྱུར་བདག་ལ་དམིགས་ནས་སེམས་ཅན་དོན་མེད་མི་འགྱུར་ཞེས་སྨོན་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^3-14]]) |
+#### གནད་ཚིག 
+**ལས་གང་ཡིན་པའང་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ལས་བཟང་ངན་གང་ཡིན་པའང་། ⚑
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^3-14](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^3-14))
+
+#### གནད་ཚིག 
+**ལས་གང་ཡིན་པའང་ (གཉིས་པ)**
+#### འགྲེལ་བཤད་ (Commentary definition)
+གནོད་པར་མི་འགྱུར་ཞིང་ཕན་པར་འགྱུར་བའི་དགེ་བའི་ལས། ⚑
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md > ^3-14](1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^3-14)) ([1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md > ^3-14](1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^3-14)) ([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^3-14](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^3-14))
+
+#### གནད་ཚིག 
+**དོན་མེད་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+མི་འདོད་པ་འབྱུང་བའི་རྒྱུར་མ་གྱུར་ཅིག། ⚑
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md > ^3-14](1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^3-14))
+
+#### གནད་ཚིག 
+**དོན་མེད་ (གཉིས་པ)**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ཕན་བདེའི་དོན་མེད་པར་མ་གྱུར་ཅིག། ⚑
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md > ^3-14](1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^3-14))
+
+#### གནད་ཚིག 
+**དོན་མེད་ (གསུམ་པ)**
+#### འགྲེལ་བཤད་ (Commentary definition)
+དོན་མེད་པའམ་རེ་བ་མེད་པའི་རྣམ་པ་ཀུན་ཏུ་མ་གྱུར་ཅིག། ⚑
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^3-14](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^3-14))
+
+#### གནད་ཚིག 
+**བདག་ལ་དམིགས་ནས་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+བདག་གི་ལུས་དང་སེམས་ལ་དམིགས་ནས།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^3-14](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^3-14))
+
+#### གནད་ཚིག 
+**རིགས་པའི་ལས་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+གནོད་པ་མེད་པའི་ལས་བཟང་ངན་གང་ཡིན་པའང་སྦྱར་བའི་ལས།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^3-14](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^3-14))
+
+#### གནད་ཚིག 
+**ཆུད་མི་ཟ་བའི་རྒྱུར་སྨོན་པ་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ལས་བྱས་པ་ཆུད་མི་ཟ་བའི་རྒྱུར་བདག་ལ་དམིགས་ནས་སེམས་ཅན་དོན་མེད་མི་འགྱུར་ཞེས་སྨོན་པ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^3-14](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^3-14))
 
 ---
 

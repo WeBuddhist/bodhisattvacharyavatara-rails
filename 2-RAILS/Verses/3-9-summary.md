@@ -130,12 +130,33 @@ status: draft
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **ཕོངས་ཤིང་དབུལ་བ** ⚑ | སེམས་ཅན་ནོར་མེད་པས་ཕོངས་ཤིང་དབུལ་བ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^3-9]]) |
-| **ཕོངས་ཤིང་དབུལ་བ** ⚑ | ཕོངས་པ་ནི་ཆོག་མི་ཤེས་པའི་རྐྱེན་ལས། དབུལ་བ་ནི་ནོར་མེད་པའི་རྐྱེན་ལས་སྐྱེ་བར་ཕྱེ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^3-9]]) |
-| **མི་ཟད་གཏེར་/མི་ཟད་པའི་གཏེར** | ཟས་འདོད་པ་ལ་ཟས་དང་སྐོམ་འདོད་པ་ལ་སྐོམ་ལ་སོགས་པ་གང་འདོད་པ་མི་ཟད་པའི་གཏེར་ཆེན་པོར་གྱུར་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^3-9]]) |
-| **ཡོ་བྱད་མཁོ་དགུ་སྣ་ཚོགས་** | ཡོ་བྱད་མལ་ཆ་དང་སྟན་དང་གནས་དང་ན་བཟའ་དང་རྒྱན་དང་བྱུག་པ་ལ་སོགས་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^3-9]]) |
+#### གནད་ཚིག 
+**ཕོངས་ཤིང་དབུལ་བ** ⚑
+#### འགྲེལ་བཤད་ (Commentary definition)
+སེམས་ཅན་ནོར་མེད་པས་ཕོངས་ཤིང་དབུལ་བ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md > ^3-9](1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^3-9))
+
+#### གནད་ཚིག 
+**ཕོངས་ཤིང་དབུལ་བ** ⚑
+#### འགྲེལ་བཤད་ (Commentary definition)
+ཕོངས་པ་ནི་ཆོག་མི་ཤེས་པའི་རྐྱེན་ལས། དབུལ་བ་ནི་ནོར་མེད་པའི་རྐྱེན་ལས་སྐྱེ་བར་ཕྱེ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md > ^3-9](1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^3-9))
+
+#### གནད་ཚིག 
+**མི་ཟད་གཏེར་/མི་ཟད་པའི་གཏེར**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ཟས་འདོད་པ་ལ་ཟས་དང་སྐོམ་འདོད་པ་ལ་སྐོམ་ལ་སོགས་པ་གང་འདོད་པ་མི་ཟད་པའི་གཏེར་ཆེན་པོར་གྱུར་པ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^3-9](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^3-9))
+
+#### གནད་ཚིག 
+**ཡོ་བྱད་མཁོ་དགུ་སྣ་ཚོགས་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ཡོ་བྱད་མལ་ཆ་དང་སྟན་དང་གནས་དང་ན་བཟའ་དང་རྒྱན་དང་བྱུག་པ་ལ་སོགས་པ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md > ^3-9](1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^3-9))
 
 ---
 

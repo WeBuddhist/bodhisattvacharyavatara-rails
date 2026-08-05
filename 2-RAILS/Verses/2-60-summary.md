@@ -140,12 +140,33 @@ status: draft
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **བླ་མའི་བཀའ་** | བླ་མ་ནི་རང་གི་རྩ་བའི་བླ་མ་དང་འཇིག་རྟེན་གསུམ་གྱི་བླ་མ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་སྲས་དང་བཅས་པའོ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-60]]) |
-| **བླ་མའི་བཀའ་** | བླ་མའི་གནས་སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་དང་དགེ་བའི་བཤེས་གཉེན་རྣམས་ཀྱི་བཀའ་སྟེ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^2-60]]) |
-| **བླ་མའི་བཀའ་** | བླ་མ་རྫོགས་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དང་མཁན་པོ་དང་སློབ་དཔོན་དགེ་བའི་བཤེས་གཉེན་སོགས་དེ་དག་རྣམས་ཀྱི་བཀའོ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-60]]) ⚑ |
-| **ཡུལ་ལྔ་** | གཟུགས་མཛེས་པ། སྒྲ་སྙན་པ། དྲི་ཞིམ་པ། རོ་མངར་བ། རེག་བྱ་འཇམ་པ་ལྟ་བུའི་འདོད་ཡོན་གྱི་ཆོས་ལྔའོ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-60]]) |
+#### གནད་ཚིག 
+**བླ་མའི་བཀའ་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+བླ་མ་ནི་རང་གི་རྩ་བའི་བླ་མ་དང་འཇིག་རྟེན་གསུམ་གྱི་བླ་མ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་སྲས་དང་བཅས་པའོ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^2-60](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-60))
+
+#### གནད་ཚིག 
+**བླ་མའི་བཀའ་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+བླ་མའི་གནས་སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་དང་དགེ་བའི་བཤེས་གཉེན་རྣམས་ཀྱི་བཀའ་སྟེ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md > ^2-60](1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^2-60))
+
+#### གནད་ཚིག 
+**བླ་མའི་བཀའ་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+བླ་མ་རྫོགས་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དང་མཁན་པོ་དང་སློབ་དཔོན་དགེ་བའི་བཤེས་གཉེན་སོགས་དེ་དག་རྣམས་ཀྱི་བཀའོ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^2-60](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-60)) ⚑
+
+#### གནད་ཚིག 
+**ཡུལ་ལྔ་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+གཟུགས་མཛེས་པ། སྒྲ་སྙན་པ། དྲི་ཞིམ་པ། རོ་མངར་བ། རེག་བྱ་འཇམ་པ་ལྟ་བུའི་འདོད་ཡོན་གྱི་ཆོས་ལྔའོ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^2-60](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-60))
 
 <sup>⚑ note: khenpo-kunga's enumeration of "guru" (Buddha, abbot, acharya, spiritual friends) supplements rather than contradicts kunpal's and khenpo-zhengah's enumeration (root guru + universal guru: Buddha, bodhisattvas, spiritual friends); both describe the same referent with different degrees of enumeration, so the ⚑ marks a difference of emphasis, not doctrinal conflict.</sup>
 

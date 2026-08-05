@@ -193,13 +193,40 @@ status: draft
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **དཀོན་མཆོག་གསུམ** | སངས་རྒྱས་ཆོས་དགེ་འདུན་ཏེ་ཡོན་ཏན་བླ་ན་མེད་པའི་ཞིང༌། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-30]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^2-30]]) |
-| **ཕན་འདོགས་པའི་ཞིང (ཕ་མ)** | ཕན་འདོགས་པའི་ཞིང་ཕ་མའོ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^2-30]]) |
-| **ཡོན་ཏན་དང་ཕན་འདོགས་པ་གཉིས་ཀའི་ཞིང (བླ་མ)** | བླ་མ་ནི་ཡོན་ཏན་གྱི་ཞིང་དང་ཕན་འདོགས་པའི་ཞིང་གཉིས་ཀ་ཡིན་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^2-30]]) |
-| **དཀོར** | སངས་རྒྱས་དང་ཆོས་དང་ཆོས་འཆད་པ་པོའི་ཡོ་བྱད་ཐམས་ཅད་སངས་རྒྱས་དང་ཆོས་ཀྱི་དཀོར་ཡིན་ལ་དེ་དག་རྐུ་འཕྲོག་དང་གཡོ་སྒྱུས་མ་བྱིན་པར་བླང་བ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-30]]) |
-| **གཞན་དག** ⚑ | (1) མཁན་སློབ་སོགས་བླ་མ་གཞན་ཞིག (kunpal/gyaltsab/ngulchu-thogmed/sabzang/minyak-kunzang-sonam/khenpo-kunga); (2) སེམས་ཅན་གཞན་སྤྱི་སྟེ་ནད་པ་མགོན་མེད་བཀྲེས་སྐོམ་གྱིས་མནར་བའི་སྙིང་རྗེའི་ཡུལ (khenpo-zhengah/tenzin-gyatso)། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-30]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^2-30]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^2-30]]) |
+#### གནད་ཚིག 
+**དཀོན་མཆོག་གསུམ**
+#### འགྲེལ་བཤད་ (Commentary definition)
+སངས་རྒྱས་ཆོས་དགེ་འདུན་ཏེ་ཡོན་ཏན་བླ་ན་མེད་པའི་ཞིང༌།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^2-30](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-30)) ([1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md > ^2-30](1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^2-30))
+
+#### གནད་ཚིག 
+**ཕན་འདོགས་པའི་ཞིང (ཕ་མ)**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ཕན་འདོགས་པའི་ཞིང་ཕ་མའོ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md > ^2-30](1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^2-30))
+
+#### གནད་ཚིག 
+**ཡོན་ཏན་དང་ཕན་འདོགས་པ་གཉིས་ཀའི་ཞིང (བླ་མ)**
+#### འགྲེལ་བཤད་ (Commentary definition)
+བླ་མ་ནི་ཡོན་ཏན་གྱི་ཞིང་དང་ཕན་འདོགས་པའི་ཞིང་གཉིས་ཀ་ཡིན་པ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md > ^2-30](1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^2-30))
+
+#### གནད་ཚིག 
+**དཀོར**
+#### འགྲེལ་བཤད་ (Commentary definition)
+སངས་རྒྱས་དང་ཆོས་དང་ཆོས་འཆད་པ་པོའི་ཡོ་བྱད་ཐམས་ཅད་སངས་རྒྱས་དང་ཆོས་ཀྱི་དཀོར་ཡིན་ལ་དེ་དག་རྐུ་འཕྲོག་དང་གཡོ་སྒྱུས་མ་བྱིན་པར་བླང་བ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^2-30](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-30))
+
+#### གནད་ཚིག 
+**གཞན་དག** ⚑
+#### འགྲེལ་བཤད་ (Commentary definition)
+(1) མཁན་སློབ་སོགས་བླ་མ་གཞན་ཞིག (kunpal/gyaltsab/ngulchu-thogmed/sabzang/minyak-kunzang-sonam/khenpo-kunga); (2) སེམས་ཅན་གཞན་སྤྱི་སྟེ་ནད་པ་མགོན་མེད་བཀྲེས་སྐོམ་གྱིས་མནར་བའི་སྙིང་རྗེའི་ཡུལ (khenpo-zhengah/tenzin-gyatso)།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^2-30](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-30)) ([1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md > ^2-30](1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^2-30)) ([1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md > ^2-30](1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^2-30))
 
 ---
 

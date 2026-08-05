@@ -191,12 +191,33 @@ status: draft
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **སྨན་པ་ཐམས་ཅད་མཁྱེན་** | ཐམས་ཅད་མཁྱེན་པ་རྫོགས་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་ཉིད། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-56]]) |
-| **ཟུག་རྔུ་ཐམས་ཅད་འབྱིན་པ་** | ཉོན་མོངས་པ་འདོད་ཆགས་ལ་སོགས་པའི་ཟུག་རྔུའམ་སྡུག་བསྔལ་མ་ལུས་པ་ཐམས་ཅད་རྩ་བ་ནས་འབྱིན་པར་བྱེད་པ་ཡི་ཆོས་ཀྱི་ཕུང་པོ་བརྒྱད་ཁྲི་བཞི་སྟོང་ལྟ་བུའི་བཀའ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-56]]) |
-| **ཐབས་གཞན་ལ་སེམས་པ་** | སྨན་པ་མཆོག་གི་བཀའ་ལྟར་མི་བྱེད་པར་ཕྱིན་ཅི་ལོག་ཏུ་སེམས་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-56]]) |
-| **གཏི་མུག་སྨད་པའི་གནས་** | རྒྱལ་བ་སྲས་བཅས་ཀྱིས་སྨད་ཅིང་བསྲུང་སྐྱོབ་ཀྱི་ལྷས་ཀྱང་འདོར་ཞིང་སྨད་པར་བྱེད་པའི་གནས། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-56]]) |
+#### གནད་ཚིག 
+**སྨན་པ་ཐམས་ཅད་མཁྱེན་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ཐམས་ཅད་མཁྱེན་པ་རྫོགས་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་ཉིད།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^2-56](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-56))
+
+#### གནད་ཚིག 
+**ཟུག་རྔུ་ཐམས་ཅད་འབྱིན་པ་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ཉོན་མོངས་པ་འདོད་ཆགས་ལ་སོགས་པའི་ཟུག་རྔུའམ་སྡུག་བསྔལ་མ་ལུས་པ་ཐམས་ཅད་རྩ་བ་ནས་འབྱིན་པར་བྱེད་པ་ཡི་ཆོས་ཀྱི་ཕུང་པོ་བརྒྱད་ཁྲི་བཞི་སྟོང་ལྟ་བུའི་བཀའ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^2-56](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-56))
+
+#### གནད་ཚིག 
+**ཐབས་གཞན་ལ་སེམས་པ་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+སྨན་པ་མཆོག་གི་བཀའ་ལྟར་མི་བྱེད་པར་ཕྱིན་ཅི་ལོག་ཏུ་སེམས་པ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^2-56](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-56))
+
+#### གནད་ཚིག 
+**གཏི་མུག་སྨད་པའི་གནས་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+རྒྱལ་བ་སྲས་བཅས་ཀྱིས་སྨད་ཅིང་བསྲུང་སྐྱོབ་ཀྱི་ལྷས་ཀྱང་འདོར་ཞིང་སྨད་པར་བྱེད་པའི་གནས།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^2-56](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-56))
 
 ---
 

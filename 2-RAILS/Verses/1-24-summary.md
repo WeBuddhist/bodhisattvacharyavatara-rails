@@ -130,12 +130,33 @@ notes: |
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ | ཁུངས། |
-|---|---|---|
-| **རང་གི་དོན་དུ་འདི་འདྲའི་སེམས།** | རང་ཉིད་ཀྱི་ཆེད་དུའང་འདི་འདྲའི་བསམ་པ་ — སེམས་ཅན་ཕལ་པས་མ་ཐུབ་པའི་དམའ་ཤོས་ཀྱི་ཚད། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
-| **རྨི་ལམ་དུ་ཡང་མ་རྨིས་ན།** | རྨི་ལམ་དུའང་མ་རྨིས་པ་ — "སྔོན་ཆད་ཉམས་མྱོང་མ་མྱོང" ཞེས་པའི་གཏན་ཚིགས་ཀྱི་ཚད་མཐོ་ཤོས། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) |
-| **གཞན་གྱི་དོན་དུ་ག་ལ་སྐྱེ།** | གཞན་གྱི་དོན་དུ་ག་ལ་སྐྱེ་ཞེས་པ་ — མི་སྲིད་པའི་གཏན་ཚིགས་ཀྱི་མཐར་ཐུག་གི་གྲུབ་མཐའ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
-| **འགྲོ་ཀུན་རྣམ་པར་སྨིན་བྱེད།** | འགྲོ་བ་ཀུན་རྣམ་པར་སྨིན་པར་བྱེད་པ་ — འཇིག་རྟེན་གྱི་སྨོན་པ་གང་གིས་ཀྱང་མི་མཚུངས་པའི་བྱང་ཆུབ་སེམས་ཀྱི་ཁྱད་ཆོས། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]]) |
+#### གནད་ཚིག 
+**རང་གི་དོན་དུ་འདི་འདྲའི་སེམས།**
+#### འགྲེལ་བཤད་ (Commentary definition)
+རང་ཉིད་ཀྱི་ཆེད་དུའང་འདི་འདྲའི་བསམ་པ་ — སེམས་ཅན་ཕལ་པས་མ་ཐུབ་པའི་དམའ་ཤོས་ཀྱི་ཚད།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md](1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md))
+
+#### གནད་ཚིག 
+**རྨི་ལམ་དུ་ཡང་མ་རྨིས་ན།**
+#### འགྲེལ་བཤད་ (Commentary definition)
+རྨི་ལམ་དུའང་མ་རྨིས་པ་ — "སྔོན་ཆད་ཉམས་མྱོང་མ་མྱོང" ཞེས་པའི་གཏན་ཚིགས་ཀྱི་ཚད་མཐོ་ཤོས།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md))
+
+#### གནད་ཚིག 
+**གཞན་གྱི་དོན་དུ་ག་ལ་སྐྱེ།**
+#### འགྲེལ་བཤད་ (Commentary definition)
+གཞན་གྱི་དོན་དུ་ག་ལ་སྐྱེ་ཞེས་པ་ — མི་སྲིད་པའི་གཏན་ཚིགས་ཀྱི་མཐར་ཐུག་གི་གྲུབ་མཐའ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md))
+
+#### གནད་ཚིག 
+**འགྲོ་ཀུན་རྣམ་པར་སྨིན་བྱེད།**
+#### འགྲེལ་བཤད་ (Commentary definition)
+འགྲོ་བ་ཀུན་རྣམ་པར་སྨིན་པར་བྱེད་པ་ — འཇིག་རྟེན་གྱི་སྨོན་པ་གང་གིས་ཀྱང་མི་མཚུངས་པའི་བྱང་ཆུབ་སེམས་ཀྱི་ཁྱད་ཆོས།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md](1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md))
 
 ---
 

@@ -102,12 +102,33 @@ status: draft
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **ཅོ་འདྲི་** | ཐོ་འཚམ་པ། (haughty/impudent mockery) | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^3-13]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^3-13]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^3-13]]) |
-| **ག་ཞའི་རྒྱུ་** | གད་མོ་བགད་བྱའི་རྒྱུ་ལྟ་བུ། (khenpo-kunga); ངའི་ལུས་ལ་བལྟས་ཏེ་རྒོད་བག་ཡ་མཚན་བཞད་གད་ཀྱི་རྒྱུ། (tenzin-gyatso) | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^3-13]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^3-13]]) |
-| **ཁ་ཏ (ཁ་ཏས་ཅི་ཞིག་བྱ)** | ལུས་འདི་བསྲུང་བ། (khenpo-zhengah); རྒྱབ་རྩའམ་འདི་ལ་འཛིན་པ་དང་ཞེན་པ་བདག་ཏུ་འཛིན་པའི་བདག་གཉེར། (khenpo-kunga); འདི་ལ་གནོད་པ་དང་སྡུག་བསྔལ་སྲུང་བ་དང་ཕན་བདེ་སྒྲུབ་པའི་བདག་གཉེར། (tenzin-gyatso) | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^3-13]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^3-13]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^3-13]]) |
-| **རང་དབང་གི་འདུ་ཤེས་** | ལུས་ལ་བྱེད་སྤྱོད་རང་གིས་དབང་བའི་འདུ་ཤེས་ཏེ་ཚིག་འདིས་བཀག་པའི་འདུ་ཤེས། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^3-13]]) |
+#### གནད་ཚིག 
+**ཅོ་འདྲི་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ཐོ་འཚམ་པ། (haughty/impudent mockery)
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md > ^3-13](1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^3-13)) ([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^3-13](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^3-13)) ([1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md > ^3-13](1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^3-13))
+
+#### གནད་ཚིག 
+**ག་ཞའི་རྒྱུ་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+གད་མོ་བགད་བྱའི་རྒྱུ་ལྟ་བུ། (khenpo-kunga); ངའི་ལུས་ལ་བལྟས་ཏེ་རྒོད་བག་ཡ་མཚན་བཞད་གད་ཀྱི་རྒྱུ། (tenzin-gyatso)
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^3-13](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^3-13)) ([1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md > ^3-13](1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^3-13))
+
+#### གནད་ཚིག 
+**ཁ་ཏ (ཁ་ཏས་ཅི་ཞིག་བྱ)**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ལུས་འདི་བསྲུང་བ། (khenpo-zhengah); རྒྱབ་རྩའམ་འདི་ལ་འཛིན་པ་དང་ཞེན་པ་བདག་ཏུ་འཛིན་པའི་བདག་གཉེར། (khenpo-kunga); འདི་ལ་གནོད་པ་དང་སྡུག་བསྔལ་སྲུང་བ་དང་ཕན་བདེ་སྒྲུབ་པའི་བདག་གཉེར། (tenzin-gyatso)
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md > ^3-13](1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^3-13)) ([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^3-13](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^3-13)) ([1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md > ^3-13](1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^3-13))
+
+#### གནད་ཚིག 
+**རང་དབང་གི་འདུ་ཤེས་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ལུས་ལ་བྱེད་སྤྱོད་རང་གིས་དབང་བའི་འདུ་ཤེས་ཏེ་ཚིག་འདིས་བཀག་པའི་འདུ་ཤེས།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^3-13](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^3-13))
 
 ---
 

@@ -144,12 +144,33 @@ status: draft
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **ཕྱོགས་བཞིར་སྐྱབས་མེད་མཐོང་བ** | ཤར་ལ་སོགས་པའི་ཕྱོགས་བཞི་ལ་སྐྱབས་འཚོལ་ནའང་རང་ལ་སྐྱབས་བྱེད་མཁན་མགོན་བྱེད་མཁན་སུ་ཡང་མེད་པར་མཐོང་བ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-46]]) |
-| **ཀུན་ཏུ་ཡི་མུག་པ** | སྐྱབས་མ་རྙེད་པས་སེམས་ཡི་མུག་པའམ་རེ་ཐག་ཆོད་པར་གྱུར་པའི་གནས་སྐབས། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-46]]) |
-| **སྐྱབས་ (དཀོན་མཆོག་གསུམ)** | སྟོན་པ་སངས་རྒྱས་སྨན་པ་དང་འདྲ་བ། ཆོས་སྐྱབས་དངོས་སམ་སྨན་དང་འདྲ་བ། དགེ་འདུན་སྐྱབས་སྒྲུབ་པའི་ཟླ་གྲོགས་སམ་ནད་གཡོག་དང་འདྲ་བ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^2-46]]) |
-| **རྣམ་པ་སུན་འབྱིན་པའི་སྟོབས** | སྟོབས་བཞིའི་ནང་ནས་སྔོན་བྱས་པའི་སྡིག་པའི་ལས་ལ་གནོང་འགྱོད་དྲག་པོའི་སྒོ་ནས་ཚུལ་བཞིན་དུ་བཤགས་པའི་སྟོབས། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-46]]) |
+#### གནད་ཚིག 
+**ཕྱོགས་བཞིར་སྐྱབས་མེད་མཐོང་བ**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ཤར་ལ་སོགས་པའི་ཕྱོགས་བཞི་ལ་སྐྱབས་འཚོལ་ནའང་རང་ལ་སྐྱབས་བྱེད་མཁན་མགོན་བྱེད་མཁན་སུ་ཡང་མེད་པར་མཐོང་བ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^2-46](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-46))
+
+#### གནད་ཚིག 
+**ཀུན་ཏུ་ཡི་མུག་པ**
+#### འགྲེལ་བཤད་ (Commentary definition)
+སྐྱབས་མ་རྙེད་པས་སེམས་ཡི་མུག་པའམ་རེ་ཐག་ཆོད་པར་གྱུར་པའི་གནས་སྐབས།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^2-46](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-46))
+
+#### གནད་ཚིག 
+**སྐྱབས་ (དཀོན་མཆོག་གསུམ)**
+#### འགྲེལ་བཤད་ (Commentary definition)
+སྟོན་པ་སངས་རྒྱས་སྨན་པ་དང་འདྲ་བ། ཆོས་སྐྱབས་དངོས་སམ་སྨན་དང་འདྲ་བ། དགེ་འདུན་སྐྱབས་སྒྲུབ་པའི་ཟླ་གྲོགས་སམ་ནད་གཡོག་དང་འདྲ་བ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md > ^2-46](1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^2-46))
+
+#### གནད་ཚིག 
+**རྣམ་པ་སུན་འབྱིན་པའི་སྟོབས**
+#### འགྲེལ་བཤད་ (Commentary definition)
+སྟོབས་བཞིའི་ནང་ནས་སྔོན་བྱས་པའི་སྡིག་པའི་ལས་ལ་གནོང་འགྱོད་དྲག་པོའི་སྒོ་ནས་ཚུལ་བཞིན་དུ་བཤགས་པའི་སྟོབས།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^2-46](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-46))
 
 ---
 

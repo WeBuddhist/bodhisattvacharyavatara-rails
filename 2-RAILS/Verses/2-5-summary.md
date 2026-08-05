@@ -120,12 +120,33 @@ status: draft
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **ནམ་མཁའ་རབ་འབྱམས་ཁམས་ཀྱི་མཐས་གཏུགས་པ** | ཚད་མེད་པའི་ནམ་མཁའི་གར་ཁྱབ་ཏུ་ཁྱབ་ཅིང་ཡོད་པ་ཐམས་ཅད། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-5]]) |
-| **ཡོངས་སུ་བཟུང་བ་མེད་པ** | ཁ་ན་མ་ཐོ་བ་མེད་པའི་ཁྱད་པར་བདག་པོའི་ཡོངས་སུ་བཟུང་བ་མེད་པ་སྒྲ་མི་སྙན་པའི་ལོངས་སྤྱོད་ལྟ་བུ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-5]]) |
-| **ཡོངས་སུ་བཟུང་བ་མེད་པ** (parallel gloss) | དག་ཞིང་དང་སྒྲ་མི་སྙན་ན་ཡོད་པའི་ལོ་བྱད་ལྟ་བུ་བདག་པོ་སུས་ཀྱང་བདག་གིར་བྱས་ནས་ཡོངས་སུ་བཟུང་བ་མེད་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^2-5]]) |
-| **ཡན་ལག་བརྒྱད་ལྡན་གྱི་ཆུ** | བསིལ་དང་ཞིམ་དང་ཡང་དང་འཇམ། དྭངས་པ་དང་ནི་དྲི་མ་མེད། འཐུངས་ན་ལྟོ་ལ་མི་གནོད་དང་། མགྲིན་པ་ལ་ཡང་མི་གནོད་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^2-5]]) |
+#### གནད་ཚིག 
+**ནམ་མཁའ་རབ་འབྱམས་ཁམས་ཀྱི་མཐས་གཏུགས་པ**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ཚད་མེད་པའི་ནམ་མཁའི་གར་ཁྱབ་ཏུ་ཁྱབ་ཅིང་ཡོད་པ་ཐམས་ཅད།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^2-5](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-5))
+
+#### གནད་ཚིག 
+**ཡོངས་སུ་བཟུང་བ་མེད་པ**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ཁ་ན་མ་ཐོ་བ་མེད་པའི་ཁྱད་པར་བདག་པོའི་ཡོངས་སུ་བཟུང་བ་མེད་པ་སྒྲ་མི་སྙན་པའི་ལོངས་སྤྱོད་ལྟ་བུ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^2-5](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-5))
+
+#### གནད་ཚིག 
+**ཡོངས་སུ་བཟུང་བ་མེད་པ (parallel gloss)**
+#### འགྲེལ་བཤད་ (Commentary definition)
+དག་ཞིང་དང་སྒྲ་མི་སྙན་ན་ཡོད་པའི་ལོ་བྱད་ལྟ་བུ་བདག་པོ་སུས་ཀྱང་བདག་གིར་བྱས་ནས་ཡོངས་སུ་བཟུང་བ་མེད་པ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md > ^2-5](1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^2-5))
+
+#### གནད་ཚིག 
+**ཡན་ལག་བརྒྱད་ལྡན་གྱི་ཆུ**
+#### འགྲེལ་བཤད་ (Commentary definition)
+བསིལ་དང་ཞིམ་དང་ཡང་དང་འཇམ། དྭངས་པ་དང་ནི་དྲི་མ་མེད། འཐུངས་ན་ལྟོ་ལ་མི་གནོད་དང་། མགྲིན་པ་ལ་ཡང་མི་གནོད་པ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md > ^2-5](1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^2-5))
 
 ---
 

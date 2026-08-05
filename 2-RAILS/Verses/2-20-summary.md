@@ -123,10 +123,19 @@ status: draft
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **མཆོད་པའི་སྤྲིན** | ཐོས་པ་ཙམ་གྱིས་སེམས་ཅན་གྱི་སྡུག་བསྔལ་སེལ་ཞིང་སིམ་པའི་བདེ་བ་ཐོབ་པར་བྱེད་པའི་རོལ་མོའི་དབྱངས། "སྤྲིན" ཞེས་པ་ཁྱབ་ཆེ་བའི་དོན། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-20]]) |
-| **སེམས་ཅན་སྡུག་བསྔལ་ཅན** | ཕ་མ་འཆི་བ་དང་ཁང་ཁྱིམ་མེས་འཚིག་པ་ལ་སོགས་པའི་སྡུག་བསྔལ་དྲག་པོས་མནར་བ་ཅན། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-20]]) |
+#### གནད་ཚིག 
+**མཆོད་པའི་སྤྲིན**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ཐོས་པ་ཙམ་གྱིས་སེམས་ཅན་གྱི་སྡུག་བསྔལ་སེལ་ཞིང་སིམ་པའི་བདེ་བ་ཐོབ་པར་བྱེད་པའི་རོལ་མོའི་དབྱངས། "སྤྲིན" ཞེས་པ་ཁྱབ་ཆེ་བའི་དོན།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^2-20](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-20))
+
+#### གནད་ཚིག 
+**སེམས་ཅན་སྡུག་བསྔལ་ཅན**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ཕ་མ་འཆི་བ་དང་ཁང་ཁྱིམ་མེས་འཚིག་པ་ལ་སོགས་པའི་སྡུག་བསྔལ་དྲག་པོས་མནར་བ་ཅན།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^2-20](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-20))
 
 ---
 

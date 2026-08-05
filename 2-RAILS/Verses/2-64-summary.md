@@ -120,12 +120,33 @@ status: draft
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **མགོན་པོ་** | མགོན་པོ་རྒྱལ་བ་སྲས་བཅས་ཐུགས་རྗེ་ཆེན་པོ་དང་ལྡན་པ་རྣམས། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-64]]) |
-| **མངོན་སུམ་དུ་** | སངས་རྒྱས་རྣམས་ཀྱིས་ཡེ་ཤེས་ཀྱི་སྤྱན་གྱིས་གཟིགས། རྫུ་འཕྲུལ་གྱི་སྙན་གྱིས་གསན། མཁྱེན་པའི་ཐུགས་ཀྱིས་དགོངས་པར་འགྱུར་བས་ན་མངོན་སུམ་ཡིན་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-64]]) |
-| **ཡང་དང་ཡང་དུ་** | མཁས་པའི་ཉམས་ལྡན་གྱི་ཚིག་སྟེ་འགྱོད་པ་ཆེན་པོ་ལ་དགོས་པའི་དོན། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-64]]) |
-| **བཤགས་པ་** | ཉེས་པ་དང་ལྟུང་བ་དེ་དག་ཐམས་ཅད་སོ་སོར་མི་གསང་མི་སྦེད་པར་མཐོལ་ཞིང་བཤགས་པའོ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-64]]) |
+#### གནད་ཚིག 
+**མགོན་པོ་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+མགོན་པོ་རྒྱལ་བ་སྲས་བཅས་ཐུགས་རྗེ་ཆེན་པོ་དང་ལྡན་པ་རྣམས།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^2-64](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-64))
+
+#### གནད་ཚིག 
+**མངོན་སུམ་དུ་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+སངས་རྒྱས་རྣམས་ཀྱིས་ཡེ་ཤེས་ཀྱི་སྤྱན་གྱིས་གཟིགས། རྫུ་འཕྲུལ་གྱི་སྙན་གྱིས་གསན། མཁྱེན་པའི་ཐུགས་ཀྱིས་དགོངས་པར་འགྱུར་བས་ན་མངོན་སུམ་ཡིན་པ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^2-64](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-64))
+
+#### གནད་ཚིག 
+**ཡང་དང་ཡང་དུ་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+མཁས་པའི་ཉམས་ལྡན་གྱི་ཚིག་སྟེ་འགྱོད་པ་ཆེན་པོ་ལ་དགོས་པའི་དོན།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^2-64](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-64))
+
+#### གནད་ཚིག 
+**བཤགས་པ་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ཉེས་པ་དང་ལྟུང་བ་དེ་དག་ཐམས་ཅད་སོ་སོར་མི་གསང་མི་སྦེད་པར་མཐོལ་ཞིང་བཤགས་པའོ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^2-64](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-64))
 
 ---
 

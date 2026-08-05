@@ -136,15 +136,54 @@ status: draft
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **ཁྱེད** | མགོན་པོ་ཐུགས་རྗེ་ཆེན་པོ་དང་ལྡན་པ (སྤྱིར་སྐྱབས་ཡུལ་བཀོད་པའི་གོ་དོན); | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-53]]) |
-| **ཁྱེད** | རྒྱལ་བ་སྲས་དང་བཅས་པ (སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ) | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^2-53]]) ⚑ |
-| **ཁྱེད** | དཀོན་མཆོག་གསུམ་པོ་ཏེ་ཉེ་བའི་སྲས་བརྒྱད་དང་བཅས་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-53]]) ⚑ |
-| **སྔོན་ཆད་བཀའ་ལས་འདས་པ** | དགེ་སྡིག་བླང་དོར་ལས་འདས་པར་བྱས་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-53]]) |
-| **འཇིགས་པ་ཆེ་མཐོང་ནས** | འཆི་ཁ་དང་བར་དོ་ཕྱི་མ་ངན་སོང་གི་འཇིགས་པ་ཆེར་མཐོང་བ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-53]]) |
-| **འཇིགས་པ་ཆེ་མཐོང་ནས** | འཁོར་བ་སྤྱི་དང་བྱེ་བྲག་གི་སྡུག་བསྔལ་ཉམ་ང་བ་ཆེར་མཐོང་བ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-53]]) |
-| **འཇིགས་པ་མྱུར་དུ་བསལ་དུ་གསོལ** | སྤང་བླང་མ་འཆོལ་བར་སྡིག་པ་བཤགས་བསྡམས་དང་དགེ་བ་ལ་ཡི་རང་ཞིང་དགེ་བ་རླབས་ཆེན་པོ་སྒྲུབ་པའི་སྤང་བླང་བྱེད་པས་འགྲུབ་པའི་གོ་དོན། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^2-53]]) |
+#### གནད་ཚིག 
+**ཁྱེད**
+#### འགྲེལ་བཤད་ (Commentary definition)
+མགོན་པོ་ཐུགས་རྗེ་ཆེན་པོ་དང་ལྡན་པ (སྤྱིར་སྐྱབས་ཡུལ་བཀོད་པའི་གོ་དོན);
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^2-53](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-53))
+
+#### གནད་ཚིག 
+**ཁྱེད**
+#### འགྲེལ་བཤད་ (Commentary definition)
+རྒྱལ་བ་སྲས་དང་བཅས་པ (སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ)
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md > ^2-53](1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^2-53)) ⚑
+
+#### གནད་ཚིག 
+**ཁྱེད**
+#### འགྲེལ་བཤད་ (Commentary definition)
+དཀོན་མཆོག་གསུམ་པོ་ཏེ་ཉེ་བའི་སྲས་བརྒྱད་དང་བཅས་པ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^2-53](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-53)) ⚑
+
+#### གནད་ཚིག 
+**སྔོན་ཆད་བཀའ་ལས་འདས་པ**
+#### འགྲེལ་བཤད་ (Commentary definition)
+དགེ་སྡིག་བླང་དོར་ལས་འདས་པར་བྱས་པ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^2-53](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-53))
+
+#### གནད་ཚིག 
+**འཇིགས་པ་ཆེ་མཐོང་ནས**
+#### འགྲེལ་བཤད་ (Commentary definition)
+འཆི་ཁ་དང་བར་དོ་ཕྱི་མ་ངན་སོང་གི་འཇིགས་པ་ཆེར་མཐོང་བ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^2-53](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-53))
+
+#### གནད་ཚིག 
+**འཇིགས་པ་ཆེ་མཐོང་ནས**
+#### འགྲེལ་བཤད་ (Commentary definition)
+འཁོར་བ་སྤྱི་དང་བྱེ་བྲག་གི་སྡུག་བསྔལ་ཉམ་ང་བ་ཆེར་མཐོང་བ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^2-53](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-53))
+
+#### གནད་ཚིག 
+**འཇིགས་པ་མྱུར་དུ་བསལ་དུ་གསོལ**
+#### འགྲེལ་བཤད་ (Commentary definition)
+སྤང་བླང་མ་འཆོལ་བར་སྡིག་པ་བཤགས་བསྡམས་དང་དགེ་བ་ལ་ཡི་རང་ཞིང་དགེ་བ་རླབས་ཆེན་པོ་སྒྲུབ་པའི་སྤང་བླང་བྱེད་པས་འགྲུབ་པའི་གོ་དོན།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md > ^2-53](1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^2-53))
 
 <sup>⚑ note: sabzang and minyak-kunzang-sonam identify "ཁྱེད" (the addressee) as the Buddhas and bodhisattvas broadly, while khenpo-kunga specifies the Three Jewels together with the eight close bodhisattva-sons; kunpal, gyaltsab, ngulchu-thogmed and tenzin-gyatso leave the referent implicit, continuing the refuge-objects of the preceding verses (e.g. Avalokiteśvara, Vajrapāṇi). The ⚑ marks divergent specificity of identification, not doctrinal conflict.</sup>
 

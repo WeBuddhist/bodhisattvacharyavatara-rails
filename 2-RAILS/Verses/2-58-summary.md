@@ -141,11 +141,26 @@ status: draft
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **དེ་རིང་ཁོ་ན་མི་འཆི་** | སྡིག་པ་དག་པའི་ཐབས་ལ་མི་འབད་པར་ཡིད་བདེ་བར་གནས་པའི་རྒྱུ་མཚན་དུ་བྱེད་པའི་ལེ་ལོའི་བསམ་ཚུལ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-58]]) |
-| **གདོན་མི་ཟ་བར་འོང་བ་** | བདག་གི་ལུས་མེད་པར་འགྱུར་བའི་དུས་ནི་ངེས་པར་འབྱུང་བ་ལ་ཟེར། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^2-58]]) |
-| **ཆུ་ཡི་ཆུ་བུར་** | ཚེ་སྲོག་གི་མི་རྟག་པའི་དཔེར་བཤེས་སྤྲིང་ལས་དྲངས་པའི་གནོད་མང་ཀླུང་(རླུང་)གིས་བཏབ་པའི་ཆུ་བུར་སྟེ་སྐད་ཅིག་ལ་འཇིག་པའི་དངོས་པོ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-58]]) |
+#### གནད་ཚིག 
+**དེ་རིང་ཁོ་ན་མི་འཆི་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+སྡིག་པ་དག་པའི་ཐབས་ལ་མི་འབད་པར་ཡིད་བདེ་བར་གནས་པའི་རྒྱུ་མཚན་དུ་བྱེད་པའི་ལེ་ལོའི་བསམ་ཚུལ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^2-58](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-58))
+
+#### གནད་ཚིག 
+**གདོན་མི་ཟ་བར་འོང་བ་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+བདག་གི་ལུས་མེད་པར་འགྱུར་བའི་དུས་ནི་ངེས་པར་འབྱུང་བ་ལ་ཟེར།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md > ^2-58](1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^2-58))
+
+#### གནད་ཚིག 
+**ཆུ་ཡི་ཆུ་བུར་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ཚེ་སྲོག་གི་མི་རྟག་པའི་དཔེར་བཤེས་སྤྲིང་ལས་དྲངས་པའི་གནོད་མང་ཀླུང་(རླུང་)གིས་བཏབ་པའི་ཆུ་བུར་སྟེ་སྐད་ཅིག་ལ་འཇིག་པའི་དངོས་པོ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^2-58](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-58))
 
 ---
 

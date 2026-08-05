@@ -122,14 +122,47 @@ status: draft
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **ཕྱག་ན་རྡོ་རྗེ་/ རྡོ་རྗེ་ཅན་** | དུས་གསུམ་གྱི་སངས་རྒྱས་ཐམས་ཅད་ཀྱི་སྐུ་གསུང་ཐུགས་ལ་ཉེ་བར་འཚེ་བའི་མ་རུངས་པ་ཐམས་ཅད་ཀྱི་མགོ་འགེམ་པར་མཛད་ཅིང་མེལ་ཚེ་བྱེད་པའི་སྲུང་མ། (ཐུན་མོང་གི་བཤད་པ) | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-52]]) |
-| **ཕྱག་ན་རྡོ་རྗེ་/ རྡོ་རྗེ་ཅན་** | རྒྱལ་བ་ཐམས་ཅད་ཀྱི་ཐུགས་རྡོ་རྗེའི་རང་གཟུགས་སྐུ་གསུང་ཐུགས་ཀྱི་གསང་བ་བསམ་གྱིས་མི་ཁྱབ་པའི་བདག་པོར་དབང་བསྐུར་བ། (ཐུན་མིན་གསང་སྔགས་ཀྱི་བཤད་པ) | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-52]]) ⚑ |
-| **ཕྱག་ན་རྡོ་རྗེ་/ རྡོ་རྗེ་ཅན་** | དུས་གསུམ་སངས་རྒྱས་ཐམས་ཅད་ཀྱི་དབང་རྟགས་ཀྱི་རྡོ་རྗེ་ཕྱག་གཡས་པ་ན་བསྣམས་པ་ཅན་གྱི་བྱང་ཆུབ་སེམས་དཔའ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-52]]) ⚑ |
-| **གཤིན་རྗེའི་ཕོ་ཉ་** | ལས་མཁན་རྣམས་དང་བྱ་དང་ཁྱི་ལ་སོགས་པ་ཕ་བསད་ཀྱི་ལག་དམར་ལྟར་སྡང་བ་ཡི་སེམས་དང་ལྡན་ཞིང་གནོད་པར་བྱེད་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-52]]) |
-| **གཤིན་རྗེའི་ཕོ་ཉ་** | དམྱལ་བ་པའི་སེམས་ཅན་རྣམས་ལ་ཁྲིམས་གཅོད་པའི་གཤིན་རྗེ་ཡི་སྐྱེས་བུའམ་ཕོ་ཉ་ཤིན་ཏུ་འཇིགས་ཤིང་ཡ་ང་བ་སྲིན་པོའི་གཟུགས་ཅན། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-52]]) ⚑ |
-| **འདིའི་སྐྱབས་འགྲོ་** | སྡིག་བཤགས་ཀྱི་སྟོབས་ཀྱི་ནང་ཚན་གྱི་སྐྱབས་འགྲོ་སྟེ་སྔར་བསྟན་པའི་སྤྱིར་སྐྱབས་སུ་འགྲོ་བ་དང་མི་འདྲ་བ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^2-52]]) |
+#### གནད་ཚིག 
+**ཕྱག་ན་རྡོ་རྗེ་/ རྡོ་རྗེ་ཅན་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+དུས་གསུམ་གྱི་སངས་རྒྱས་ཐམས་ཅད་ཀྱི་སྐུ་གསུང་ཐུགས་ལ་ཉེ་བར་འཚེ་བའི་མ་རུངས་པ་ཐམས་ཅད་ཀྱི་མགོ་འགེམ་པར་མཛད་ཅིང་མེལ་ཚེ་བྱེད་པའི་སྲུང་མ། (ཐུན་མོང་གི་བཤད་པ)
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^2-52](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-52))
+
+#### གནད་ཚིག 
+**ཕྱག་ན་རྡོ་རྗེ་/ རྡོ་རྗེ་ཅན་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+རྒྱལ་བ་ཐམས་ཅད་ཀྱི་ཐུགས་རྡོ་རྗེའི་རང་གཟུགས་སྐུ་གསུང་ཐུགས་ཀྱི་གསང་བ་བསམ་གྱིས་མི་ཁྱབ་པའི་བདག་པོར་དབང་བསྐུར་བ། (ཐུན་མིན་གསང་སྔགས་ཀྱི་བཤད་པ)
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^2-52](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-52)) ⚑
+
+#### གནད་ཚིག 
+**ཕྱག་ན་རྡོ་རྗེ་/ རྡོ་རྗེ་ཅན་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+དུས་གསུམ་སངས་རྒྱས་ཐམས་ཅད་ཀྱི་དབང་རྟགས་ཀྱི་རྡོ་རྗེ་ཕྱག་གཡས་པ་ན་བསྣམས་པ་ཅན་གྱི་བྱང་ཆུབ་སེམས་དཔའ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^2-52](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-52)) ⚑
+
+#### གནད་ཚིག 
+**གཤིན་རྗེའི་ཕོ་ཉ་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ལས་མཁན་རྣམས་དང་བྱ་དང་ཁྱི་ལ་སོགས་པ་ཕ་བསད་ཀྱི་ལག་དམར་ལྟར་སྡང་བ་ཡི་སེམས་དང་ལྡན་ཞིང་གནོད་པར་བྱེད་པ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^2-52](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-52))
+
+#### གནད་ཚིག 
+**གཤིན་རྗེའི་ཕོ་ཉ་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+དམྱལ་བ་པའི་སེམས་ཅན་རྣམས་ལ་ཁྲིམས་གཅོད་པའི་གཤིན་རྗེ་ཡི་སྐྱེས་བུའམ་ཕོ་ཉ་ཤིན་ཏུ་འཇིགས་ཤིང་ཡ་ང་བ་སྲིན་པོའི་གཟུགས་ཅན།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^2-52](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-52)) ⚑
+
+#### གནད་ཚིག 
+**འདིའི་སྐྱབས་འགྲོ་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+སྡིག་བཤགས་ཀྱི་སྟོབས་ཀྱི་ནང་ཚན་གྱི་སྐྱབས་འགྲོ་སྟེ་སྔར་བསྟན་པའི་སྤྱིར་སྐྱབས་སུ་འགྲོ་བ་དང་མི་འདྲ་བ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md > ^2-52](1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^2-52))
 
 <sup>⚑ note: kunpal's two glosses of ཕྱག་ན་རྡོ་རྗེ (exoteric protector-of-the-three-secrets vs. esoteric vajra-nature-embodiment) and khenpo-kunga's gloss (bodhisattva bearing the empowerment-vajra of the three-times buddhas) describe the same figure from three complementary angles — common, uncommon-tantric, and bodhisattva-path — not a doctrinal conflict. Similarly kunpal's and khenpo-kunga's descriptions of the གཤིན་རྗེའི་ཕོ་ཉ (as malicious animal-and-worker attendants vs. terrifying rākṣasa-formed judges' men) both describe the same class of hostile hell-functionaries with differing emphasis, so the ⚑ marks a difference of descriptive detail, not contradiction.</sup>
 

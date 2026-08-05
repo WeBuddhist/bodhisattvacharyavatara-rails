@@ -110,12 +110,33 @@ status: draft
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **བློ་དང་ལྡན་པ** | བློ་ཤེས་རབ་དང་ལྡན་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^3-24]]) |
-| **བློ་དང་ལྡན་པ** (alt.) | རྒྱལ་བའི་སྲས་ཀྱི་མིང་འཛིན་པ་བདག་ཅག་ལྟ་བུ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^3-24]]) |
-| **སྨོན་འཇུག་གི་བྱང་ཆུབ་སེམས** | ཆོ་ག་ཡང་དག་པའི་སྒོ་ནས་རང་གི་སེམས་རྒྱུད་ལ་བཟུང་ནས་སྡོམ་པ་བླངས་པའི་སྨོན་པ་དང་འཇུག་པའི་བྱང་ཆུབ་སེམས་གཉིས། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^3-24]]) |
-| **མཇུག་གི་ཆོ་ག** | སྦྱོར་དངོས་གཉིས་ཀྱི་ཆོ་ག་རྒྱས་པར་བྱས་ཀྱང་མ་ཚང་ན་ཆོ་ག་མ་རྫོགས་པས་སེམས་བསྐྱེད་ཀྱི་འབྲས་བུ་མི་བརྟན་པར་འགྱུར་བའི་ཆོ་གའི་མཇུག་ཆ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^3-24]]) |
+#### གནད་ཚིག 
+**བློ་དང་ལྡན་པ**
+#### འགྲེལ་བཤད་ (Commentary definition)
+བློ་ཤེས་རབ་དང་ལྡན་པ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^3-24](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^3-24))
+
+#### གནད་ཚིག 
+**བློ་དང་ལྡན་པ (alt.)**
+#### འགྲེལ་བཤད་ (Commentary definition)
+རྒྱལ་བའི་སྲས་ཀྱི་མིང་འཛིན་པ་བདག་ཅག་ལྟ་བུ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md > ^3-24](1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^3-24))
+
+#### གནད་ཚིག 
+**སྨོན་འཇུག་གི་བྱང་ཆུབ་སེམས**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ཆོ་ག་ཡང་དག་པའི་སྒོ་ནས་རང་གི་སེམས་རྒྱུད་ལ་བཟུང་ནས་སྡོམ་པ་བླངས་པའི་སྨོན་པ་དང་འཇུག་པའི་བྱང་ཆུབ་སེམས་གཉིས།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^3-24](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^3-24))
+
+#### གནད་ཚིག 
+**མཇུག་གི་ཆོ་ག**
+#### འགྲེལ་བཤད་ (Commentary definition)
+སྦྱོར་དངོས་གཉིས་ཀྱི་ཆོ་ག་རྒྱས་པར་བྱས་ཀྱང་མ་ཚང་ན་ཆོ་ག་མ་རྫོགས་པས་སེམས་བསྐྱེད་ཀྱི་འབྲས་བུ་མི་བརྟན་པར་འགྱུར་བའི་ཆོ་གའི་མཇུག་ཆ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md > ^3-24](1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^3-24))
 
 ---
 

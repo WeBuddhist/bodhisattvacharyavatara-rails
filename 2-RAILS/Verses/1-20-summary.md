@@ -125,12 +125,33 @@ notes: "All commentaries have unique prose for this verse. The Bhadrapāla-sūtr
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **འདི་ནི་འཐད་པ་དང་བཅས་པར།** | འཇུག་སེམས་ལས་བསོད་ནམས་མང་པོ་འབྱུང་བ་འདི་ནི་འཐད་པ་སྟེ་རྒྱུ་མཚན་དང་བཅས་པར། (this [claim] is established with reasoning) | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md]]) |
-| **ལག་བཟངས་ཀྱིས་ཞུས་པ།** | བྱང་ཆུབ་སེམས་དཔའ་ལག་བཟངས་ཀྱིས་ཞུས་པའི་མདོ་སྡེ། (the sūtra requested by Bodhisattva Bhadrapāla) | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]]) |
-| **དམན་མོས་སེམས་ཅན།** | ཐེག་པ་དམན་པ་ལ་མོས་པའི་སེམས་ཅན་མ་ངེས་པའི་རིགས་ཅན། (beings of undetermined family who are devoted to the lesser vehicle) | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) |
-| **དེ་བཞིན་གཤེགས་པ་ཉིད་ཀྱིས་གསུངས།** | སངས་རྒྱས་ཉིད་ཀྱི་ཞལ་སྔ་ནས་དངོས་སུ་གསུངས་པ། (spoken directly from the very mouth of the Buddha himself) | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md]]) |
+#### གནད་ཚིག 
+**འདི་ནི་འཐད་པ་དང་བཅས་པར།**
+#### འགྲེལ་བཤད་ (Commentary definition)
+འཇུག་སེམས་ལས་བསོད་ནམས་མང་པོ་འབྱུང་བ་འདི་ནི་འཐད་པ་སྟེ་རྒྱུ་མཚན་དང་བཅས་པར། (this [claim] is established with reasoning)
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md](1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md))
+
+#### གནད་ཚིག 
+**ལག་བཟངས་ཀྱིས་ཞུས་པ།**
+#### འགྲེལ་བཤད་ (Commentary definition)
+བྱང་ཆུབ་སེམས་དཔའ་ལག་བཟངས་ཀྱིས་ཞུས་པའི་མདོ་སྡེ། (the sūtra requested by Bodhisattva Bhadrapāla)
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md))
+
+#### གནད་ཚིག 
+**དམན་མོས་སེམས་ཅན།**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ཐེག་པ་དམན་པ་ལ་མོས་པའི་སེམས་ཅན་མ་ངེས་པའི་རིགས་ཅན། (beings of undetermined family who are devoted to the lesser vehicle)
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md))
+
+#### གནད་ཚིག 
+**དེ་བཞིན་གཤེགས་པ་ཉིད་ཀྱིས་གསུངས།**
+#### འགྲེལ་བཤད་ (Commentary definition)
+སངས་རྒྱས་ཉིད་ཀྱི་ཞལ་སྔ་ནས་དངོས་སུ་གསུངས་པ། (spoken directly from the very mouth of the Buddha himself)
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md))
 
 ---
 

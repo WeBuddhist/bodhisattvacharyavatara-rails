@@ -162,11 +162,26 @@ status: draft
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **འདི་ཉིད་འབའ་ཞིག་** | གཞན་དགག་སྒྲ་སྟེ་འདི་གཅིག་པུ་ཁོ་ན་བསམ་ཤིང་སྡིག་བཤགས་ལ་འབད་པའི་བྱ་བ་བྱེད་པར་རིགས་པའོ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-62]]) ⚑ |
-| **འདི་ཉིད་འབའ་ཞིག་** | ལས་རྒྱུ་འབྲས་ལ་མངོན་པར་ཡིད་ཆེས་པའི་དད་པ་འདི་ཉིད་འབའ་ཞིག་ཐོག་མར་བསམ་པར་རིགས་པའོ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^2-62]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^2-62]]) ⚑ |
-| **མི་དགེ་བ་** | སྲོག་གཅོད་པ་དང་མ་བྱིན་པར་ལེན་པ་དང་འདོད་ལོག་སྤྱོད་པའི་ཆགས་སྡང་གིས་ཀུན་ནས་བསླངས་པའི་ལས་སོ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-62]]) |
+#### གནད་ཚིག 
+**འདི་ཉིད་འབའ་ཞིག་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+གཞན་དགག་སྒྲ་སྟེ་འདི་གཅིག་པུ་ཁོ་ན་བསམ་ཤིང་སྡིག་བཤགས་ལ་འབད་པའི་བྱ་བ་བྱེད་པར་རིགས་པའོ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^2-62](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-62)) ⚑
+
+#### གནད་ཚིག 
+**འདི་ཉིད་འབའ་ཞིག་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ལས་རྒྱུ་འབྲས་ལ་མངོན་པར་ཡིད་ཆེས་པའི་དད་པ་འདི་ཉིད་འབའ་ཞིག་ཐོག་མར་བསམ་པར་རིགས་པའོ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md > ^2-62](1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^2-62)) ([1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md > ^2-62](1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^2-62)) ⚑
+
+#### གནད་ཚིག 
+**མི་དགེ་བ་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+སྲོག་གཅོད་པ་དང་མ་བྱིན་པར་ལེན་པ་དང་འདོད་ལོག་སྤྱོད་པའི་ཆགས་སྡང་གིས་ཀུན་ནས་བསླངས་པའི་ལས་སོ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^2-62](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-62))
 
 <sup>⚑ note: kunpal reads "འདི་ཉིད་འབའ་ཞིག" (this alone) narrowly as pointing to the exertion of confessing sin (paralleled by his cloth-dyeing metaphor), while sabzang, minyak-kunzang-sonam, gyaltsab, and khenpo-kunga read it more broadly as cultivating firm conviction in the workings of karmic cause and effect as the root of both abandoning sin and pursuing virtue. The two readings are not contradictory — confession presupposes conviction in karma — but the difference of emphasis on what the exclusionary particle isolates is marked here.</sup>
 

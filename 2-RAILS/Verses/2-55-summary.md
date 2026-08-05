@@ -132,12 +132,33 @@ status: draft
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **དེ་གཅིག་** | འདོད་ཆགས་ལྟ་བུ་གཅིག་ (ཆགས་སོགས་ཉོན་མོངས་གང་རུང་གཅིག) | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-55]]) |
-| **དེ་གཅིག་** | བྱང་ཆུབ་སེམས་དཔའ་ལ་ཁོང་ཁྲོ་བ་ལྟ་བུ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^2-55]]) ⚑ |
-| **དེ་དག་གསོ་བའི་སྨན་** | དམ་པའི་ཆོས་ཚུལ་བཞིན་སྒྲུབ་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^2-55]]) |
-| **ཕྱོགས་རྣམས་ཀུན་ནས་མི་རྙེད་ན** | ཕྱོགས་བཅུའི་འཇིག་རྟེན་གྱི་ཁམས་རྣམས་ཀུན་ནས་བཙལ་ཡང་སུས་ཀྱང་ནམ་ཡང་མི་རྙེད་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^2-55]]) |
+#### གནད་ཚིག 
+**དེ་གཅིག་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+འདོད་ཆགས་ལྟ་བུ་གཅིག་ (ཆགས་སོགས་ཉོན་མོངས་གང་རུང་གཅིག)
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^2-55](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^2-55))
+
+#### གནད་ཚིག 
+**དེ་གཅིག་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+བྱང་ཆུབ་སེམས་དཔའ་ལ་ཁོང་ཁྲོ་བ་ལྟ་བུ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md > ^2-55](1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^2-55)) ⚑
+
+#### གནད་ཚིག 
+**དེ་དག་གསོ་བའི་སྨན་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+དམ་པའི་ཆོས་ཚུལ་བཞིན་སྒྲུབ་པ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md > ^2-55](1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^2-55))
+
+#### གནད་ཚིག 
+**ཕྱོགས་རྣམས་ཀུན་ནས་མི་རྙེད་ན**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ཕྱོགས་བཅུའི་འཇིག་རྟེན་གྱི་ཁམས་རྣམས་ཀུན་ནས་བཙལ་ཡང་སུས་ཀྱང་ནམ་ཡང་མི་རྙེད་པ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md > ^2-55](1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^2-55))
 
 <sup>⚑ note: gyaltsab and minyak-kunzang-sonam gloss "the one [affliction]" specifically as anger directed at a bodhisattva, while kunpal and khenpo-zhengah leave it general as "desire and the like." Both readings describe the same verse-word without doctrinal conflict; the ⚑ marks a difference of illustrative emphasis.</sup>
 

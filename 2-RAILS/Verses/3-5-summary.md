@@ -126,12 +126,33 @@ status: draft
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **ལྡོངས་པ** | མི་ཤེས་པ་དང་སེམས་པ་མེད་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^3-5]]) |
-| **ལྡོངས་པ** (ཟུར་བཤད) | མ་རིག་པས་བློ་གྲོས་ཀྱི་མིག་ལྡོངས་པར་འགྱུར་བ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^3-5]]) |
-| **གཏི་མུག་གི་ལིང་ཏོག** | ཤེས་རབ་ཀྱི་མིག་ལྡོངས་པར་བྱེད་པའི་རྒྱུ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^3-5]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^3-5]]) |
-| **ཆོས་སྐུ / གཟུགས་སྐུའི་མཛད་པ** | ཆོས་སྐུ་ནམ་ཡང་མྱ་ངན་ལས་མི་འདའ་ལ། གཟུགས་སྐུའི་མཛད་པ་གདུལ་བྱའི་དོན་མཐར་ཕྱིན་ནས་མྱ་ངན་ལས་འདའ་བའི་ཚུལ་སྟོན་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^3-5]]) |
+#### གནད་ཚིག 
+**ལྡོངས་པ**
+#### འགྲེལ་བཤད་ (Commentary definition)
+མི་ཤེས་པ་དང་སེམས་པ་མེད་པ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md > ^3-5](1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^3-5))
+
+#### གནད་ཚིག 
+**ལྡོངས་པ (ཟུར་བཤད)**
+#### འགྲེལ་བཤད་ (Commentary definition)
+མ་རིག་པས་བློ་གྲོས་ཀྱི་མིག་ལྡོངས་པར་འགྱུར་བ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md > ^3-5](1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^3-5))
+
+#### གནད་ཚིག 
+**གཏི་མུག་གི་ལིང་ཏོག**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ཤེས་རབ་ཀྱི་མིག་ལྡོངས་པར་བྱེད་པའི་རྒྱུ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md > ^3-5](1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^3-5)) ([1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md > ^3-5](1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^3-5))
+
+#### གནད་ཚིག 
+**ཆོས་སྐུ / གཟུགས་སྐུའི་མཛད་པ**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ཆོས་སྐུ་ནམ་ཡང་མྱ་ངན་ལས་མི་འདའ་ལ། གཟུགས་སྐུའི་མཛད་པ་གདུལ་བྱའི་དོན་མཐར་ཕྱིན་ནས་མྱ་ངན་ལས་འདའ་བའི་ཚུལ་སྟོན་པ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md > ^3-5](1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^3-5))
 
 ---
 

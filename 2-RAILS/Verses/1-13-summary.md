@@ -125,12 +125,33 @@ status: draft
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **མཚམས་མེད་** (**mtshams med** / ānantarya) | ལས་སྡིག་མི་བཟད་ལྔ། ཕ་མ་གསོད་པ། དགེ་སློང་གསོད་པ། སངས་རྒྱས་ཀྱི་ལུས་ལ་ཁྲག་འདོན་པ། དགེ་འདུན་ལ་དབྱེན་བྱས་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-13]]) |
-| **སྐྱེས་བུ་དཔའ་བོ།** (**skyes bu dpa' bo** / brave warrior) | སྐྱེས་བུ་སྟོབས་ལྡན་གཞན་དུ་ཡང་མི་འཇིགས་ལྟར། བྱང་སེམས་ལ་དཔེར་གཏད། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-13]]) |
-| **སྐད་ཅིག་གཅིག་གིས་སྒྲོལ།** (**skad cig gcig gis sgrol**) | བྱང་ཆུབ་ཀྱི་སེམས་ལ་བསྟེན་ནས་མྱུར་དུ་ / སྐད་ཅིག་གཅིག་གིས་ཐར་བར་འགྱུར། རྐྱལ་ཞབས་འབྱུང་གི་མིང་མ་ཡིན། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-13]]) |
-| **ཟིལ་གྱིས་གནོན་** (**zil gyis gnon pa**) | 1-13 གི་བྱང་སེམས་ཀྱི་ཐབས། མྱོང་ངེས་ཀྱི་ལས་ (certain karma) གློ་བུར་གནོན། རྩ་བ་ནས་མི་འཇོམས། (1-14 དང་ཁྱད་ཤོར།) | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-13]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-13]]) |
+#### གནད་ཚིག 
+**མཚམས་མེད་** (**mtshams med** / ānantarya)
+#### འགྲེལ་བཤད་ (Commentary definition)
+ལས་སྡིག་མི་བཟད་ལྔ། ཕ་མ་གསོད་པ། དགེ་སློང་གསོད་པ། སངས་རྒྱས་ཀྱི་ལུས་ལ་ཁྲག་འདོན་པ། དགེ་འདུན་ལ་དབྱེན་བྱས་པ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^1-13](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^1-13))
+
+#### གནད་ཚིག 
+**སྐྱེས་བུ་དཔའ་བོ།** (**skyes bu dpa' bo** / brave warrior)
+#### འགྲེལ་བཤད་ (Commentary definition)
+སྐྱེས་བུ་སྟོབས་ལྡན་གཞན་དུ་ཡང་མི་འཇིགས་ལྟར། བྱང་སེམས་ལ་དཔེར་གཏད།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md > ^1-13](1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-13))
+
+#### གནད་ཚིག 
+**སྐད་ཅིག་གཅིག་གིས་སྒྲོལ།** (**skad cig gcig gis sgrol**)
+#### འགྲེལ་བཤད་ (Commentary definition)
+བྱང་ཆུབ་ཀྱི་སེམས་ལ་བསྟེན་ནས་མྱུར་དུ་ / སྐད་ཅིག་གཅིག་གིས་ཐར་བར་འགྱུར། རྐྱལ་ཞབས་འབྱུང་གི་མིང་མ་ཡིན།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md > ^1-13](1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-13))
+
+#### གནད་ཚིག 
+**ཟིལ་གྱིས་གནོན་** (**zil gyis gnon pa**)
+#### འགྲེལ་བཤད་ (Commentary definition)
+1-13 གི་བྱང་སེམས་ཀྱི་ཐབས། མྱོང་ངེས་ཀྱི་ལས་ (certain karma) གློ་བུར་གནོན། རྩ་བ་ནས་མི་འཇོམས། (1-14 དང་ཁྱད་ཤོར།)
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md > ^1-13](1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-13)) ([1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md > ^1-13](1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-13))
 
 ---
 

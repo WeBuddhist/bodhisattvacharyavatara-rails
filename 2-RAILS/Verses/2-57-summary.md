@@ -127,12 +127,33 @@ status: draft
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **གཡང་ས་ཐ་མལ་ཆུང་ངུ་** | མེ་དང་ཆུ་རི་དང་བྲག་ལ་སོགས་པའི་གཡང་སའི་གནས་ཆུང་ངུ་ཅུང་ཟད་ཡིན་ཏེ་ལྷུང་ན་རྐང་ལག་ཆག་གྲུམ་ཙམ་ཞིག་གིས་མཚོན་པའི་གནོད་ཉེན། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-57]]) |
-| **དཔག་ཚད་སྟོང་དུ་ལྟུང་བ་ཡི་གཡང་ས་** | གཡང་ས་ཤིན་ཏུ་ཆེ་བར་མཚོན་པའི་བརྗོད་གཞིའི་ཚིག་གམ། ཡང་ན་དཔག་ཚད་སྟོང་ཕྲག་ཉི་ཤུའི་ཚད་ཙམ་དུ་ཡོད་པའི་མནར་མེད་ཀྱི་གནས་དངོས། | ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^2-57]]) ⚑ |
-| **བག་ཡོད་** | འགྲོ་འོང་ལ་སོགས་པའི་སྤྱོད་ལམ་ཐམས་ཅད་དུ་གཡང་སར་ལྷུང་བར་དོགས་ནས་ཡང་ནས་ཡང་དུ་གཟབ་གཟབ་བྱེད་པ། | ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-57]]) |
-| **ཉོན་མོངས་ཀྱི་གཉེན་པོ་** | ལས་རྒྱུ་འབྲས་དང་ཚེ་མི་རྟག་པ་ཡང་ཡང་བསྒོམ་སྟེ་རང་རྒྱུད་ལ་སྡིག་པ་འདགས་པའི་གཉེན་པོ་སྐྱེད་པར་བྱེད་པའི་ཐབས། | ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^2-57]]) |
+#### གནད་ཚིག 
+**གཡང་ས་ཐ་མལ་ཆུང་ངུ་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+མེ་དང་ཆུ་རི་དང་བྲག་ལ་སོགས་པའི་གཡང་སའི་གནས་ཆུང་ངུ་ཅུང་ཟད་ཡིན་ཏེ་ལྷུང་ན་རྐང་ལག་ཆག་གྲུམ་ཙམ་ཞིག་གིས་མཚོན་པའི་གནོད་ཉེན།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^2-57](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-57))
+
+#### གནད་ཚིག 
+**དཔག་ཚད་སྟོང་དུ་ལྟུང་བ་ཡི་གཡང་ས་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+གཡང་ས་ཤིན་ཏུ་ཆེ་བར་མཚོན་པའི་བརྗོད་གཞིའི་ཚིག་གམ། ཡང་ན་དཔག་ཚད་སྟོང་ཕྲག་ཉི་ཤུའི་ཚད་ཙམ་དུ་ཡོད་པའི་མནར་མེད་ཀྱི་གནས་དངོས།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md > ^2-57](1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^2-57)) ⚑
+
+#### གནད་ཚིག 
+**བག་ཡོད་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+འགྲོ་འོང་ལ་སོགས་པའི་སྤྱོད་ལམ་ཐམས་ཅད་དུ་གཡང་སར་ལྷུང་བར་དོགས་ནས་ཡང་ནས་ཡང་དུ་གཟབ་གཟབ་བྱེད་པ།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md > ^2-57](1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^2-57))
+
+#### གནད་ཚིག 
+**ཉོན་མོངས་ཀྱི་གཉེན་པོ་**
+#### འགྲེལ་བཤད་ (Commentary definition)
+ལས་རྒྱུ་འབྲས་དང་ཚེ་མི་རྟག་པ་ཡང་ཡང་བསྒོམ་སྟེ་རང་རྒྱུད་ལ་སྡིག་པ་འདགས་པའི་གཉེན་པོ་སྐྱེད་པར་བྱེད་པའི་ཐབས།
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md > ^2-57](1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^2-57))
 
 <sup>⚑ note: mi-nyag-kun-bsod (minyak-kunzang-sonam) himself offers "a thousand leagues" as either hyperbolic emphasis of an immense abyss, or as a literal reference to the specific twenty-thousand-league depth of Avīci per the Abhidharmakośa's cosmology — two readings from the same commentator, not a conflict between traditions, but flagged since both are attested glosses of the same phrase.</sup>
 

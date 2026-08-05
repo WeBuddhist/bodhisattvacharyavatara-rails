@@ -1,0 +1,25 @@
+{
+  "source_file": "example-commentary.md",
+  "sections": [
+    {
+      "depth": 1,
+      "heading_title": "བཤད་བྱའི་ཡན་ལག་བཤད་པ།",
+      "body_start_context": "དང་པོ་བཤད་བྱའི་ཡན་ལག་བཤད་པ་ནི།"
+    },
+    {
+      "depth": 2,
+      "heading_title": "སློབ་དཔོན་གྱིས་ཆོས་ཇི་ལྟར་འཆད་ཚུལ།",
+      "body_start_context": "དང་པོ་སློབ་དཔོན་གྱིས་ཆོས་ཇི་ལྟར་འཆད་ཚུལ་ནི།"
+    },
+    {
+      "depth": 2,
+      "heading_title": "སློབ་མས་ཇི་ལྟར་ཉན་པའི་ཚུལ།",
+      "body_start_context": "གཉིས་པ་སློབ་མས་ཇི་ལྟར་ཉན་པའི་ཚུལ་ནི།"
+    },
+    {
+      "depth": 1,
+      "heading_title": "བཤད་བྱ་དངོས་བཤད་པ།",
+      "body_start_context": "གཉིས་པ་བཤད་བྱ་དངོས་བཤད་པ་ནི།"
+    }
+  ]
+}

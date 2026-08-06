@@ -272,7 +272,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^1-1]] 
 <!-- sub:teaching-points -->
 #### Main Teaching Points
 
-###### 1. Three Meanings of "Blissful One"
+###### 1. Three Meanings of "Blissful One" (Sugata)
 
 The word *bde* (bliss): "gone beautifully" (free from the stains of the afflicted class through realizing that all phenomena lack inherent nature) / "gone without return" (having abandoned in every way the seed of self-grasping, not falling back even if reborn at the peak of existence) / "gone completely" (having abandoned without remainder the habitual tendencies of all faults, together with their character as the corrupt states of body, speech, and mind). All the commentaries agree.
 

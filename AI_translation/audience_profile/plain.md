@@ -1,4 +1,4 @@
-# Audience Profile: Plain English Version
+# Audience Profile: Plain Version
 
 ## Audience
 
@@ -17,6 +17,7 @@ Make the text understandable without prior knowledge of Buddhist terminology.
 * Clear
 * Modern
 * Natural language
+* smooth
 
 ---
 

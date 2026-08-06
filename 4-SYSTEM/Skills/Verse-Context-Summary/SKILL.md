@@ -163,7 +163,7 @@ status: draft
 #### ཁུངས། (Source)
 ([1-SOURCES/Commentaries/<...>/<id>.md > ^<block>](1-SOURCES/Commentaries/<...>/<id>.md#^<block>))
 
-<One such heading-block per term, separated by a blank line. Include every term the commentaries explicitly define or gloss for this verse. Use the commentary's own definition verbatim or near-verbatim — do not substitute a dictionary entry. Omit terms glossed only by obvious paraphrase that adds nothing. Source citations use markdown-link form `([path > ^block](path#^block))`, not raw `[[wikilinks]]`. If a term cell is simply a bolded term followed by a plain parenthetical gloss (e.g. a romanization), merge into a single bold span — `**term (gloss)**` — rather than partially bolding it; leave richer nested formatting (multiple bolded sub-terms, italics) untouched.>
+<One such heading-block per term, separated by a blank line. Include every term the commentaries explicitly define or gloss for this verse. Use the commentary's own definition verbatim or near-verbatim — do not substitute a dictionary entry. Omit terms glossed only by obvious paraphrase that adds nothing. **A term is a single word or short phrase taken from the verse itself — never a full sentence or an entire line of the verse.** If a candidate is a whole verse-line or sentence rather than an isolated word/short phrase, it is not a valid key term; discard it or narrow it to the actual term being glossed. Source citations use markdown-link form `([path > ^block](path#^block))`, not raw `[[wikilinks]]`. If a term cell is simply a bolded term followed by a plain parenthetical gloss (e.g. a romanization), merge into a single bold span — `**term (gloss)**` — rather than partially bolding it; leave richer nested formatting (multiple bolded sub-terms, italics) untouched.>
 
 ---
 
@@ -193,10 +193,11 @@ status: draft
 6. **ལུང། is a standalone section.** Populated from attested scriptural quotations only. If no commentary adduces a quotation for this verse, omit the section entirely.
 7. **གཙོ་གནད། is ordered by centrality**, not by commentary order. The most essential doctrinal claim of the verse comes first.
 8. **གནད་ཚིག uses the commentary's own gloss.** Never substitute a general dictionary definition. If two commentaries gloss the same term differently, add a second heading-block (གནད་ཚིག / འགྲེལ་བཤད་ / ཁུངས།) with the second gloss and its source, and mark both ⚑.
-9. **བསྡུས་དོན། is strictly derived.** Every claim must be traceable to something already written in the sections above. This is a compression, not an expansion; no new interpretive material enters here.
-10. **Every claim cites a `1-SOURCES/` block.** No parametric knowledge. An uncitable claim is left blank; `status: draft` remains until a domain specialist clears it.
-11. **Divergences are never flattened.** When commentaries disagree, record both positions, cite each, and mark ⚑.
-12. **`status: draft` always.** The LLM never sets `complete`; a domain specialist does.
+9. **གནད་ཚིག entries must be terms, never a sentence or a line of the verse.** A term is a single word or short phrase drawn from the verse's own wording — never a full clause, sentence, or verse-line copied wholesale. Before writing a `#### གནད་ཚིག` sub-heading, check the candidate: if it is a complete sentence or an entire line of the root verse rather than an isolated word or short phrase, it is not a valid key term — discard it or narrow it down to the actual term the commentary is glossing. Select only genuine terms occurring in the verse, and place each one under its own `#### གནད་ཚིག` sub-heading within the གནད་ཚིག (Key terms) section.
+10. **བསྡུས་དོན། is strictly derived.** Every claim must be traceable to something already written in the sections above. This is a compression, not an expansion; no new interpretive material enters here.
+11. **Every claim cites a `1-SOURCES/` block.** No parametric knowledge. An uncitable claim is left blank; `status: draft` remains until a domain specialist clears it.
+12. **Divergences are never flattened.** When commentaries disagree, record both positions, cite each, and mark ⚑.
+13. **`status: draft` always.** The LLM never sets `complete`; a domain specialist does.
 
 ---
 
@@ -251,7 +252,7 @@ status: draft
 - [ ] **དཔེ།**: attested metaphors only, image→tenor→development, cited; section omitted if no material.
 - [ ] **ལུང།**: verbatim Tibetan quotations, attributed to scripture named by commentary, commentary block cited; section omitted if no material.
 - [ ] **གཙོ་གནད།**: ordered by centrality, Tibetan, every point cited; minimum two, maximum eight.
-- [ ] **གནད་ཚིག**: one གནད་ཚིག / འགྲེལ་བཤད་ / ཁུངས། heading-block per term (not a table); commentary-own glosses; ⚑ on diverging definitions; no dictionary substitutions; source citations in markdown-link form, not raw wikilinks.
+- [ ] **གནད་ཚིག**: one གནད་ཚིག / འགྲེལ་བཤད་ / ཁུངས། heading-block per term (not a table); commentary-own glosses; ⚑ on diverging definitions; no dictionary substitutions; source citations in markdown-link form, not raw wikilinks; every `#### གནད་ཚིག` entry is an actual term (word/short phrase) from the verse — no full sentence or verse-line entered as a term.
 - [ ] **བསྡུས་དོན།**: AI-Overview style; lead claim first; bullets scannable; every claim traceable to sections above; ⚑ on splits cited both sides.
 - [ ] Source link (inline `([[…]])`) at the end of every section, except གནད་ཚིག which uses markdown-link form `([path > ^block](path#^block))`.
 - [ ] No section left as an empty heading — omit entirely if no material.

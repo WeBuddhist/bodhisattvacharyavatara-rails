@@ -156,12 +156,14 @@ status: draft
 
 ## གནད་ཚིག (Key terms)
 
-| གནད་ཚིག | འགྲེལ་བཤད་ (Commentary definition) | ཁུངས། (Source) |
-|---|---|---|
-| **<Tibetan term>** | <Commentary's own gloss in Tibetan> | ([[1-SOURCES/Commentaries/<...>/<id>.md#^<block>]]) |
-| … | … | … |
+#### གནད་ཚིག 
+**<Tibetan term>**
+#### འགྲེལ་བཤད་ (Commentary definition)
+<Commentary's own gloss in Tibetan>
+#### ཁུངས། (Source)
+([1-SOURCES/Commentaries/<...>/<id>.md > ^<block>](1-SOURCES/Commentaries/<...>/<id>.md#^<block>))
 
-<Include every term the commentaries explicitly define or gloss for this verse. Use the commentary's own definition verbatim or near-verbatim — do not substitute a dictionary entry. Omit terms glossed only by obvious paraphrase that adds nothing.>
+<One such heading-block per term, separated by a blank line. Include every term the commentaries explicitly define or gloss for this verse. Use the commentary's own definition verbatim or near-verbatim — do not substitute a dictionary entry. Omit terms glossed only by obvious paraphrase that adds nothing. Source citations use markdown-link form `([path > ^block](path#^block))`, not raw `[[wikilinks]]`. If a term cell is simply a bolded term followed by a plain parenthetical gloss (e.g. a romanization), merge into a single bold span — `**term (gloss)**` — rather than partially bolding it; leave richer nested formatting (multiple bolded sub-terms, italics) untouched.>
 
 ---
 
@@ -190,7 +192,7 @@ status: draft
 5. **དཔེ། is a standalone section.** Populated from attested metaphors and examples only. If no commentary supplies a metaphor for this verse, omit the section entirely.
 6. **ལུང། is a standalone section.** Populated from attested scriptural quotations only. If no commentary adduces a quotation for this verse, omit the section entirely.
 7. **གཙོ་གནད། is ordered by centrality**, not by commentary order. The most essential doctrinal claim of the verse comes first.
-8. **གནད་ཚིག uses the commentary's own gloss.** Never substitute a general dictionary definition. If two commentaries gloss the same term differently, add a second row with the second gloss and its source, and mark both ⚑.
+8. **གནད་ཚིག uses the commentary's own gloss.** Never substitute a general dictionary definition. If two commentaries gloss the same term differently, add a second heading-block (གནད་ཚིག / འགྲེལ་བཤད་ / ཁུངས།) with the second gloss and its source, and mark both ⚑.
 9. **བསྡུས་དོན། is strictly derived.** Every claim must be traceable to something already written in the sections above. This is a compression, not an expansion; no new interpretive material enters here.
 10. **Every claim cites a `1-SOURCES/` block.** No parametric knowledge. An uncitable claim is left blank; `status: draft` remains until a domain specialist clears it.
 11. **Divergences are never flattened.** When commentaries disagree, record both positions, cite each, and mark ⚑.
@@ -227,7 +229,7 @@ status: draft
 12. **དཔེ།** — from the verse spans: collect metaphors and examples; state image → tenor → how the commentary develops it; cite. Omit if absent.
 13. **ལུང།** — from the verse spans: extract verbatim quotations; attribute to the scripture the commentary names; cite the commentary block. Omit if absent.
 14. **གཙོ་གནད།** — synthesise the main teaching points across all verse spans; order by centrality; cite each.
-15. **གནད་ཚིག** — fill the table from the commentaries' own glosses found in the verse spans; ⚑ on diverging definitions.
+15. **གནད་ཚིག** — fill in one གནད་ཚིག / འགྲེལ་བཤད་ / ཁུངས། heading-block per term, from the commentaries' own glosses found in the verse spans; ⚑ on diverging definitions.
 16. **བསྡུས་དོན།** — compose the AI-Overview-style synthesis strictly from the material already written above; lead with the settled reading; cite all key bullets.
 17. Fill frontmatter; set `status: draft`.
 
@@ -249,8 +251,8 @@ status: draft
 - [ ] **དཔེ།**: attested metaphors only, image→tenor→development, cited; section omitted if no material.
 - [ ] **ལུང།**: verbatim Tibetan quotations, attributed to scripture named by commentary, commentary block cited; section omitted if no material.
 - [ ] **གཙོ་གནད།**: ordered by centrality, Tibetan, every point cited; minimum two, maximum eight.
-- [ ] **གནད་ཚིག**: commentary-own glosses; ⚑ on diverging definitions; no dictionary substitutions.
+- [ ] **གནད་ཚིག**: one གནད་ཚིག / འགྲེལ་བཤད་ / ཁུངས། heading-block per term (not a table); commentary-own glosses; ⚑ on diverging definitions; no dictionary substitutions; source citations in markdown-link form, not raw wikilinks.
 - [ ] **བསྡུས་དོན།**: AI-Overview style; lead claim first; bullets scannable; every claim traceable to sections above; ⚑ on splits cited both sides.
-- [ ] Source link (inline `([[…]])`) at the end of every section.
+- [ ] Source link (inline `([[…]])`) at the end of every section, except གནད་ཚིག which uses markdown-link form `([path > ^block](path#^block))`.
 - [ ] No section left as an empty heading — omit entirely if no material.
 - [ ] Verification pass completed: each item re-checked against its cited source span.

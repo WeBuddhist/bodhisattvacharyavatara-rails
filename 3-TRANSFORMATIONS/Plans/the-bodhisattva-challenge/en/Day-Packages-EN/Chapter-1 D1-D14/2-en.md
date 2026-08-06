@@ -433,7 +433,7 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^1-5]] 
 
 Gyaltsab, and especially Minyak Kunzang Sonam and Khenpo Kunga, treat the placement in the text's structure: verse 4 shows the bodily support (leisure and opportunity) is hard to find, and verse 5 shows the mental support (the mind of merit) is hard to find.
 
-###### 2. Three Levels of a Good-Hearted Mind
+###### 2. Three Levels of the "Mind of Merit"
 
 The chief commentary (Minyak Kunzang Sonam) divides it into three levels; every mind wishing to accomplish any wholesome quality is a "mind of merit," and the supreme is aspiring/engaging bodhicitta.
 

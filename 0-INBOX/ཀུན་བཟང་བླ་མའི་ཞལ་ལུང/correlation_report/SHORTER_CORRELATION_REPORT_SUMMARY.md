@@ -1,6 +1,16 @@
 # Glossary Coverage: YAKE vs TF-IDF vs Combined
 
-We took the **531 English terms** in `glossary.md` (229 single words, 302 phrases) and checked how many of them each keyword method actually found.
+## Why we are extracting keywords
+
+We use automatic keyword extraction on our English translations of Tibetan Buddhist texts for three main reasons:
+
+- **Terminology standardisation** &mdash; a source term should be rendered consistently across translations, not as several different English words.
+- **Wikipedia articles** &mdash; each significant term warrants its own article, which first requires knowing which terms are significant.
+- **E-learning courses** &mdash; course material is structured around key concepts, and the keyword list identifies them.
+
+The glossary serves as the benchmark. It is curated by hand, so the share of it each method recovers indicates how far that method can be trusted on terms the glossary does **not** yet cover.
+
+We took the **531 English terms** in `glossary.md` (229 single words, 302 phrases) and measured how many of them each method found.
 
 ---
 
@@ -86,4 +96,4 @@ All three are similar in the first 100. Deeper down, **Combined stays richest in
 
 *Note: `en-tfidf.md` contains 9,190 rows, but only the 7,632 with an actual TF-IDF score are used here as "TF-IDF" &mdash; the other 1,558 are YAKE phrases stored in the same table.*
 
-*Full detail: `CORRELATION_REPORT.md`. Every matched term, one per line: `correlation_analysis_results.txt`.*
+*Full detail: `DETAILED_CORRELATION_REPORT.md`. Every matched term, one per line: `correlation_analysis_results.txt`.*

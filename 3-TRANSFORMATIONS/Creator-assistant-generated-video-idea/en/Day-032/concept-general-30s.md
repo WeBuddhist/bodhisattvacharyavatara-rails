@@ -15,5 +15,3 @@ status: needs-review
 Ever notice how we spend our lives rushing to fix problems that haven't happened yet? We panic about some distant future, always searching for a savior or a way out. But Santideva, an eighth-century monk who lived to understand the mind, points out something brutal: at the end of the road, no one else can carry your weight. We search for a refuge, but the real shelter is simply the way we choose to act right now.
 
 ## Feedback
-
-- Tenzin: TEST FEEDBACK — please keep this line.

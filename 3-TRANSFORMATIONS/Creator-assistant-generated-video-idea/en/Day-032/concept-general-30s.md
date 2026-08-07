@@ -12,7 +12,8 @@ status: needs-review
 
 # Day 32 — Concept
 
-You ever notice how we live like we have forever? We push off the hard work of changing our habits, thinking we can fix things later. But Santideva, an eighth century Indian monk who wrote a guide for training the mind in compassion, points out something intense. If a person facing a minor punishment today is already terrified, how will you feel when you run out of time? Don't wait for a crisis to start living with intention.
+Ever notice how we spend our lives rushing to fix problems that haven't happened yet? We panic about some distant future, always searching for a savior or a way out. But Santideva, an eighth-century monk who lived to understand the mind, points out something brutal: at the end of the road, no one else can carry your weight. We search for a refuge, but the real shelter is simply the way we choose to act right now.
 
 ## Feedback
+
 - Tenzin: TEST FEEDBACK — please keep this line.

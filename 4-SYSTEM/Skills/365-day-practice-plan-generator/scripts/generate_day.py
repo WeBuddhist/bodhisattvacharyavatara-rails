@@ -59,8 +59,11 @@ def load_api_key(key_file: Path) -> str:
         return key.strip()
 
     if key_file.exists():
-        for line in key_file.read_text(encoding="utf-8").splitlines():
-            line = line.strip()
+        # utf-8-sig strips a leading BOM if present (Windows PowerShell's
+        # `Out-File -Encoding utf8` writes one) and behaves like plain utf-8
+        # otherwise, so this is safe either way.
+        for line in key_file.read_text(encoding="utf-8-sig").splitlines():
+            line = line.strip().lstrip("﻿")
             if not line or line.startswith("#"):
                 continue
             if "=" in line:
@@ -222,15 +225,37 @@ def call_gemini(system_instructions: str, user_prompt: str, api_key: str, model:
     from google.genai import types
 
     client = genai.Client(api_key=api_key)
-    response = client.models.generate_content(
-        model=model,
-        contents=user_prompt,
-        config=types.GenerateContentConfig(
-            system_instruction=system_instructions,
-            temperature=0.7,
-        ),
-    )
+    try:
+        response = client.models.generate_content(
+            model=model,
+            contents=user_prompt,
+            config=types.GenerateContentConfig(
+                system_instruction=system_instructions,
+                temperature=0.7,
+            ),
+        )
+    except Exception as e:
+        msg = str(e)
+        if "NOT_FOUND" in msg or "404" in msg or "no longer available" in msg:
+            raise SystemExit(
+                f"Gemini rejected model '{model}':\n{msg}\n\n"
+                f"Run `python generate_day.py --list-models` to see which models "
+                f"your key can actually use, then pass one with --model, e.g.:\n"
+                f"  python generate_day.py --day <N> --model gemini-3.5-flash"
+            )
+        raise
     return response.text
+
+
+def list_models(api_key: str):
+    from google import genai
+
+    client = genai.Client(api_key=api_key)
+    print("Models available to your key that support generateContent:\n")
+    for m in client.models.list():
+        actions = getattr(m, "supported_actions", None) or []
+        if not actions or "generateContent" in actions:
+            print(f"  {m.name}")
 
 
 # ---------------------------------------------------------------------------
@@ -280,6 +305,7 @@ def main():
     ap.add_argument("--day", type=int, help="Single day number to generate")
     ap.add_argument("--days", type=str, help="Day range/list, e.g. '45-50' or '45,46,47'")
     ap.add_argument("--status", action="store_true", help="List every day's file size and exit")
+    ap.add_argument("--list-models", action="store_true", help="List models your API key can use and exit")
     ap.add_argument("--dry-run", action="store_true", help="Build the prompt and print it, but do not call Gemini or write files")
     ap.add_argument("--no-backup", action="store_true", help="Skip writing a .bak copy of the existing file before overwriting")
     ap.add_argument("--model", default="gemini-2.5-pro", help="Gemini model name (default: gemini-2.5-pro)")
@@ -291,6 +317,10 @@ def main():
 
     if args.status:
         run_status(vault_root)
+        return
+
+    if args.list_models:
+        list_models(load_api_key(Path(args.key_file)))
         return
 
     if args.day:

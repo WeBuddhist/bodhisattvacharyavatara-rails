@@ -8,10 +8,10 @@
 Today I will not speak a harsh word to my parents or my teachers. I will speak to them with respect and warmth.
 
 **Verse of the day:**
-Whatever harm I have caused —
-through my body, my speech, or my mind,
-driven by destructive emotions —
-to the Three Jewels, to my parents, or to any other teacher.
+Whatever harm I committed with body, speech,
+and mind, driven by troubling emotions,
+towards the Three Jewels,
+my parents, or other suffering beings,
 
 **Verse id:**
 Bodhicaryāvatāra, Chapter 2, Verse 30 (^2-30)
@@ -40,10 +40,10 @@ Bodhicaryāvatāra, Chapter 2, Verse 30 (^2-30)
 आज मैं अपने माता-पिता और गुरुजनों से एक भी कड़वा शब्द नहीं कहूँगा — आदर और प्रेम के साथ बात करूँगा।
 
 **आज का श्लोक:**
-तीन रत्नों को, माता-पिता को, गुरुजनों और दूसरों को,
-मन के विकारों के वश में होकर, मैंने जो दुख दिए उनको।
-तन से, वचन से और मन से, जो भी चोट पहुँचाई है,
-वह सारी भूल कबूल करता हूँ, कोई बात न छिपाई है॥
+मैंने त्रिरत्न के प्रति,
+माता-पिता या अन्य गुरुओं के प्रति,
+क्लेशों के कारण शरीर, वाणी,
+और मन से जो हानि पहुंचाई है,
 
 **श्लोक संख्या:**
 बोधिचर्यावतार, अध्याय २, श्लोक ३० (^2-30)

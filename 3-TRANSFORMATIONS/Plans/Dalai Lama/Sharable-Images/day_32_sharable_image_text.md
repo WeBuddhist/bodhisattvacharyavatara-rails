@@ -8,10 +8,10 @@
 Today, at the first small discomfort that comes my way, I will stop for a moment and go for refuge to the Three Jewels, which are the Buddha, Dharma, and Sangha, instead of just pushing the discomfort aside.
 
 **Verse of the day:**
-Seeing no help anywhere, in any direction,
-that person falls into complete despair.
-And if there really is no refuge anywhere —
-what will I do, when my own time comes?
+Having seen that there is no refuge in any direction,
+they then become utterly despondent.
+If there is no refuge in that situation,
+what will I do then?
 
 **Verse id:**
 Bodhicaryāvatāra, Chapter 2, Verse 46 (^2-46)
@@ -40,10 +40,10 @@ Bodhicaryāvatāra, Chapter 2, Verse 46 (^2-46)
 आज जो पहली छोटी तकलीफ़ मेरे सामने आएगी, उसे झटककर आगे बढ़ जाने के बजाय मैं एक पल रुकूँगा और त्रिरत्न (बुद्ध, धर्म और संघ) की शरण में जाऊँगा।
 
 **आज का श्लोक:**
-चारों दिशाओं में ढूँढ़ने पर भी, कोई शरण नहीं मिलेगी,
-तब यह उम्मीद भी टूट जाएगी, सारी आस बुझ जाएगी।
-अगर उस जगह कोई शरण न हो, कोई सहारा न बचे,
-तो उस समय मैं क्या करूँगा, कौन-सा रास्ता तब बचे॥
+चारों दिशाओं में शरण न पाकर,
+फिर सर्वथा निराश हो जाता हूं,
+यदि वहां कोई शरण न हो,
+तो उस समय मैं क्या करूंगा?
 
 **श्लोक संख्या:**
 बोधिचर्यावतार, अध्याय २, श्लोक ४६ (^2-46)

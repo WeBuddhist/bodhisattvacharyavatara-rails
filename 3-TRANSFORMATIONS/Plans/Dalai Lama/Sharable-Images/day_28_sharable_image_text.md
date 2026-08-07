@@ -8,10 +8,10 @@
 Today, when anger rises toward someone, I will remember that both he and I will die, and let the hatred go.
 
 **Verse of the day:**
-I never truly understood
-that I would have to leave everything behind one day.
-Because of that, I have done all kinds of wrong —
-for people I love, and against people I dislike.
+I did not understand that I must
+abandon everything and depart.
+For the sake of friends and enemies,
+I committed various misdeeds.
 
 **Verse id:**
 Bodhicaryāvatāra, Chapter 2, Verse 34 (^2-34)
@@ -40,10 +40,10 @@ Bodhicaryāvatāra, Chapter 2, Verse 34 (^2-34)
 आज जब किसी पर गुस्सा उठेगा, तो मैं याद करूँगा कि वह भी और मैं भी एक दिन मरेंगे, और वह द्वेष छोड़ दूँगा।
 
 **आज का श्लोक:**
-सब कुछ छोड़कर अकेले ही, एक दिन मुझको जाना है,
-यह सच्चाई मैंने आज तक, ठीक से नहीं पहचाना है।
-अपनों का भला, परायों का बुरा, इन्हीं दो बातों के लिए,
-मैंने तरह-तरह के पाप किए, कितने ही पाप जुटा लिए॥
+सब कुछ छोड़कर जाना होगा,
+यह मैंने न जानते हुए,
+प्रिय और अप्रिय के लिए,
+विविध प्रकार के पाप किए।
 
 **श्लोक संख्या:**
 बोधिचर्यावतार, अध्याय २, श्लोक ३४ (^2-34)

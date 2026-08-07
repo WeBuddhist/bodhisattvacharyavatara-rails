@@ -8,10 +8,10 @@
 Today, when someone near me is frightened or in pain, I will not let my own heart shrink away from them. I will go for refuge on their behalf as well as mine, and stay with them from there.
 
 **Verse of the day:**
-That is why, starting today,
-I take refuge in the buddhas — the protectors of the world,
-who work so hard to keep every being safe,
-and whose great power can dispel any fear.
+Therefore, to the buddhas, the Protectors of beings,
+who strive for the sake of protecting beings,
+and who are powerful and dispel all fears,
+I go for refuge from this very day.
 
 **Verse id:**
 Bodhicaryāvatāra, Chapter 2, Verse 47 (^2-47)
@@ -40,10 +40,10 @@ Bodhicaryāvatāra, Chapter 2, Verse 47 (^2-47)
 आज जब मेरे पास का कोई इंसान डरा हुआ या दुख में होगा, मैं अपना दिल उससे नहीं समेटूँगा। उसके लिए भी शरण लूँगा, और वहीं से उसके साथ रहूँगा।
 
 **आज का श्लोक:**
-इसलिए जो जगत् के रक्षक हैं, जीवों को बचाने में लगे हैं,
-जिनमें है महान शक्ति ऐसी, जो सारे डर को मिटा देते हैं।
-उन विजयी बुद्धों की शरण में, आज ही से मैं जाता हूँ,
-कल पर अब टालूँगा नहीं, आज ही शीश झुकाता हूँ॥
+इसलिए जिन, प्राणियों के रक्षक,
+प्राणियों की रक्षा के लिए प्रयत्नशील,
+महाबलशाली, समस्त भय दूर करने वाले की,
+आज से ही मैं शरण लेता हूं।
 
 **श्लोक संख्या:**
 बोधिचर्यावतार, अध्याय २, श्लोक ४७ (^2-47)

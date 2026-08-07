@@ -1,204 +1,204 @@
-## 3. Chapter Three: Wholly Adopting the Mind of Awakening ^3-0
+## 3. Chapter Three: Taking Hold of the Mind of Awakening ^3-0
 
 
-I rejoice with delight in the virtue
-that brings rest from suffering to all beings in the lower realms,
-and in the placing of those who suffer
-into states of happiness. ^3-1
+I rejoice with joy
+in the good deeds that bring rest from the suffering
+of all beings in states of suffering,
+and in the happiness of those who suffer. ^3-1
 
 
-I rejoice in the virtue amassed
-that becomes the cause of awakening.
-I rejoice in the definite freedom
-of embodied beings from the suffering of saṃsāra.
-I rejoice also in the awakening of the Protectors,
-and in the grounds attained by the children of the Victors. ^3-2
+I rejoice in the good deeds accumulated
+that lead to awakening.
+I rejoice in the definite liberation
+of all beings from the suffering of the cycle of existence.
+I rejoice in the awakening of the Protectors,
+and in the spiritual paths of the Children of the Buddhas. ^3-2
 
 
-I rejoice with delight
-in the ocean of virtue that is the generation of the mind
-that brings happiness to all beings,
-and in the deeds that benefit beings. ^3-3
+I rejoice with joy
+in the ocean of virtuous aspirations
+that bring happiness to all beings,
+and in the actions that benefit beings. ^3-3
 
 
-To the Buddhas of all directions
-I join my palms and make this plea:
-please kindle the lamp of the Dharma
-for beings lost in the darkness of suffering. ^3-4
+I pray, with palms joined,
+to the Buddhas in all directions:
+Please light the lamp of the sacred teachings
+for beings bewildered by the darkness of suffering. ^3-4
 
 
-To the Victors wishing to pass into nirvāṇa
-I join my palms and make this plea:
-please remain for countless eons,
-and do not leave this world in blindness. ^3-5
+I pray, with palms joined,
+to the Buddhas who wish to pass beyond suffering:
+Please do not leave these beings blind,
+but remain for countless ages. ^3-5
 
 
-Thus, having done all these things,
-whatever virtue I have thereby amassed —
-by that, may all the suffering
-of every sentient being be dispelled. ^3-6
+Having done all these things,
+whatever good deeds I have accumulated,
+may they remove all the suffering
+of all beings. ^3-6
 
 
-For as long as beings remain ill,
-until their sickness is cured,
-may I become the medicine, the physician,
-and the one who nurses them. ^3-7
+As long as there are sick beings,
+until they are cured of their illness,
+may I become the medicine, the doctor,
+and their nurse. ^3-7
 
 
-May I rain down food and drink
-to dispel the suffering of hunger and thirst,
-and in the eon of famine
-may I myself become food and drink. ^3-8
+May I rain down food and drink,
+removing the suffering of hunger and thirst.
+During times of famine between ages,
+may I become food and drink. ^3-8
 
 
-For beings destitute and poor
+For beings who are destitute and poor,
 may I become an inexhaustible treasure,
-remaining before them
-in the form of every kind of thing they need. ^3-9
+and may all kinds of necessities
+appear before them. ^3-9
 
 
-My body, and likewise my possessions,
-and all my virtue of the three times —
-all these I give up without reserve
-for the sake of accomplishing the welfare of all beings. ^3-10
+My body, as well as my possessions,
+and all my good deeds of past, present, and future,
+I shall give away without reservation
+to accomplish the welfare of all beings. ^3-10
 
 
-Nirvāṇa is attained by giving up everything;
-my mind seeks nirvāṇa.
-If everything must be given up at once,
-it is best that it be given to beings. ^3-11
+By giving up everything, one passes beyond suffering.
+I will accomplish passing beyond suffering.
+Giving up everything is for the sake of all,
+and giving to beings is supreme. ^3-11
 
 
-I have already given this body
-to all embodied beings, to use as they please.
-Let them constantly kill it, revile it,
-or beat it, as they wish. ^3-12
+I have given this body
+to all beings to do with as they please.
+Therefore, they may always kill, insult,
+beat, or do whatever they wish. ^3-12
 
 
-Even if they play with my body,
-or make it an object of mockery and ridicule,
-since I have already given this body away,
-what point is there in cherishing it? ^3-13
+Whether they make my body a plaything,
+or a cause for mockery and jest,
+since I have given this body away,
+what use is it to argue about it? ^3-13
 
 
-Let them do to it whatever actions
-do not cause them any harm.
-When anyone thinks of me,
-may it never be pointless for them, ever. ^3-14
+Let them do whatever actions
+will not harm them.
+May no one ever be without benefit
+through me. ^3-14
 
 
-Whether those who think of me
-feel anger or feel faith,
-may that itself always become
-the cause that fulfills all their wishes. ^3-15
+If, with regard to me,
+anger or faith arises in anyone,
+may that always become the cause
+for all their aims to be accomplished. ^3-15
 
 
 Whoever speaks ill of me,
-or whoever else does me harm,
-or likewise mocks and insults me —
-may they all have the fortune to attain awakening. ^3-16
+or harms others,
+or likewise slanders me,
+may all of them be destined for awakening. ^3-16
 
 
-May I be a protector for those without protection,
-a guide for those who travel the path,
-and for those who wish to cross over,
-may I be a boat, a ship, and a bridge. ^3-17
+May I be a protector for the unprotected,
+a guide for those on the path,
+and for those who wish to cross,
+a boat, a raft, and a bridge. ^3-17
 
 
-May I be an island for those seeking an island,
-a lamp for those who desire a lamp,
-a bed for those who desire a bed,
-and may I become the servant of all beings who desire a servant. ^3-18
+For those seeking an island, may I be an island,
+for those desiring a resting place, a resting place.
+May I become a servant
+to all beings who wish for one. ^3-18
 
 
-May I become a wish-fulfilling jewel, a good vase,
-an accomplished mantra of knowledge, a great medicine,
-a wish-fulfilling tree,
-and a cow of abundance for embodied beings. ^3-19
+May I become a wish-fulfilling jewel, a good treasure vase,
+an effective spell, a great medicine,
+a wish-granting tree,
+and a cow of plenty for all beings. ^3-19
 
 
-Just as earth and the other great elements,
-and space itself, remain forever,
-may I too, in many different ways,
-remain as a basis of life for boundless beings. ^3-20
+Like the great elements,
+and like space, may I always
+become the basis for the diverse sustenance
+of countless beings. ^3-20
 
 
-Likewise, throughout the entire realm of beings
-that extends to the very limits of space,
-until all of them pass into nirvāṇa,
-may I remain as a cause of their sustenance. ^3-21
+Likewise, for the realm of beings
+that reaches to the ends of space,
+may I always be the cause of their sustenance
+until all have passed beyond suffering. ^3-21
 
 
-Just as the Sugatas of the past
+Just as the Buddhas of the past
 generated the mind of awakening,
-and just as they, in due order,
-abided by the trainings of bodhisattvas, ^3-22
+and likewise dwelt in the trainings
+of an awakening hero, ^3-22
 
 
-so too, for the benefit of beings,
-I will generate the mind of awakening,
-and likewise, in due order,
-I will train in those very trainings. ^3-23
+So too, for the benefit of beings,
+I shall generate the mind of awakening,
+and likewise, I shall train
+in those trainings in due order. ^3-23
 
 
-Thus, having intelligently
-taken up the mind of awakening with joy,
-in order to increase it further still,
-I praise it in this way: ^3-24
+Thus, having taken hold of
+the excellent mind of awakening with wisdom,
+and in order to make it flourish to the end,
+I shall strengthen my resolve in this way: ^3-24
 
 
 Today my life has borne fruit;
-having well obtained this human existence,
-today I am born into the family of the Buddhas,
-and have now become a child of the Buddha. ^3-25
+I have gained this excellent human life.
+Today I am born into the Buddha's spiritual family;
+today I have become a child of the Buddhas. ^3-25
 
 
-Now, whatever I do,
-I must act in accordance with this family;
-I must never bring stain
-upon this flawless, noble lineage. ^3-26
+Now, by all means, I shall undertake
+actions befitting this spiritual family,
+and I shall ensure that this pure and noble family
+is not defiled. ^3-26
 
 
-Just as a blind man finds a jewel
-in a heap of rubbish,
-so too, by some strange fortune,
+Just as a blind person might
+find a jewel in a pile of rubbish,
+so too, by some chance,
 this mind of awakening has arisen in me. ^3-27
 
 
-This is the supreme elixir
-that destroys the Lord of Death who slays beings;
-it is also the inexhaustible treasure
-that eliminates the poverty of beings. ^3-28
+This is the supreme nectar
+that conquers death itself for beings.
+This is also the inexhaustible treasure
+that removes the poverty of beings. ^3-28
 
 
-It is also the supreme medicine
-that thoroughly heals the sickness of beings;
-it is the tree of rest
-for beings exhausted from wandering the path of existence. ^3-29
+This is also the supreme medicine
+that completely cures the illnesses of beings.
+For beings who wander and grow weary on the path through existence,
+it is a resting tree. ^3-29
 
 
-It is the universal bridge
-that carries all beings across from the lower realms;
-it is the rising moon of the mind
-that soothes the torment of beings' afflictions. ^3-30
+It is a bridge that delivers
+all beings from states of suffering.
+It is the rising moon of the mind
+that dispels the torment of beings' troubles. ^3-30
 
 
-It is the great sun
-that dispels the cataracts of beings' ignorance;
-it is the pure essence of butter
-churned from the milk of the sacred Dharma. ^3-31
+It is the great sun that completely removes
+the ignorance and confusion of beings.
+It is the essence of butter that has emerged
+from churning the milk of the sacred teachings. ^3-31
 
 
-For travelers on the road of existence,
-guests wishing to partake of the joys of happiness,
-this remains close at hand as the supreme happiness,
-satisfying the great guests, all sentient beings. ^3-32
+For the travelers of existence who wish
+to enjoy the delights of happiness,
+this is the supreme source of happiness,
+that satisfies the great guests, all beings. ^3-32
 
 
-Today, before the eyes of all the Protectors,
-I have invited all beings to be guests of the Sugata's own happiness,
-and to the happiness in between —
-so let gods, asuras, and all the rest rejoice. ^3-33
+Today, before all the Protectors, I have invited
+all beings to become Buddhas,
+and to happiness in the interim.
+May the gods and other beings rejoice! ^3-33
 
 
-This concludes the third chapter, entitled "Wholly Adopting the Mind of Awakening," from the Way of the Bodhisattva. ^3-a
+From "Engaging in the Way of Life of an Awakening Hero," this is the third chapter, called "Taking Hold of the Mind of Awakening." ^3-a

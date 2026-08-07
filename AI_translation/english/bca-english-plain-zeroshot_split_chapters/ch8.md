@@ -1,1113 +1,921 @@
-## 8. Chapter Eight: Teaching Meditative Concentration ^8-0
-
-
-Having thus generated diligence,
-I should settle the mind in concentration;
-for a person whose mind is utterly distracted
-dwells between the fangs of the afflictions. ^8-1
-
-
-Through the seclusion of body and mind,
-distraction simply does not arise.
-Therefore I should give up worldly life,
-and cast aside discursive thought entirely. ^8-2
-
-
-Worldly life is not given up
-because of attachment and craving for gain and the like;
-therefore, in order to fully renounce these,
-the wise should reflect as follows. ^8-3
-
-
-Understanding that special insight, joined
-with calm abiding, thoroughly destroys the afflictions,
-I should first seek calm abiding;
-and that in turn is accomplished through joyful non-attachment to the world. ^8-4
-
-
-Who could rightly become attached
-to what is impermanent, given that they too are impermanent?
-Because of that, for a thousand lifetimes
-one will fail to see one's beloved again. ^8-5
-
-
-If one does not see them, one finds no joy,
-and the mind cannot settle in meditative absorption;
-and even when one does see them, one is never satisfied,
-so one continues to be tormented by craving, just as before. ^8-6
-
-
-By becoming attached to sentient beings,
-one is entirely obscured from seeing reality as it is;
-one's very sense of disillusionment with saṃsāra is destroyed,
-and in the end one is left tormented with grief. ^8-7
-
-
-By thinking only of that beloved,
-this life passes by pointlessly;
-and because of impermanent friends and companions,
-even the eternal Dharma comes to be destroyed. ^8-8
-
-
-By sharing the fortune of the childish,
-one is bound to go to the lower realms;
-for they lead one to states unequal to oneself —
-so what is the use of associating with the childish? ^8-9
-
-
-In a single instant they become friends,
-and in a moment they turn into enemies;
-they grow angry even at what should bring joy —
-ordinary people are difficult indeed to please. ^8-10
-
-
-If told something for their own good, they grow angry,
-and even turn me away from doing good;
-and if their own words are not heeded,
-then, angered, they go to the lower realms. ^8-11
-
-
-Toward superiors, they feel envy; toward equals, rivalry;
-toward inferiors, arrogance; when praised, conceit;
-when spoken ill of, anger arises —
-when could any benefit ever come from the childish? ^8-12
-
-
-In the company of the childish,
-self-praise, criticism of others,
-and talk of the pleasures of saṃsāra and the like
-inevitably lead to some kind of wrongdoing. ^8-13
-
-
-Thus, associating with others in this way
-only leads to ruin for both;
-they gain nothing of benefit from me,
-and I gain nothing of benefit from them. ^8-14
-
-
-I should therefore keep far away from the childish;
-but if we do meet, I should please them with a friendly manner,
-without forming any close attachment,
-and maintain only an ordinary, cordial connection. ^8-15
-
-
-Like a bee taking only the nectar of a flower,
-I should take only what serves the Dharma from others,
-and remain as if I had never known them before,
-without forming any close attachment. ^8-16
-
-
-"I have much wealth and honor,
-and many people love me" —
-if I hold on to such conceit,
-terror will arise after death. ^8-17
-
-
-Therefore, whatever this deluded mind
-becomes attached to,
-in that same measure a thousandfold suffering
-will arise and confront it. ^8-18
-
-
-Therefore the wise should not become attached;
-for from attachment fear is born.
-Since these things are, by their very nature, bound to be lost,
-I should be firm and understand this thoroughly. ^8-19
-
-
-Even if abundant gain has come to me,
-and fame and praise as well,
-none of that — gain, fame, and all the rest —
-will go with me to wherever I must go next. ^8-20
-
-
-If someone else disparages me,
-what joy is there for me in being praised?
-And if someone else praises me,
-what displeasure is there for me in being blamed? ^8-21
-
-
-Since sentient beings have such varied inclinations
-that even the Victors cannot please them all,
-what need is there to speak of someone as lowly as me?
-Therefore I should give up worrying about the opinions of the world. ^8-22
-
-
-People blame those without wealth,
-and speak ill even of those who have it;
-these people are by nature difficult to associate with —
-how could any joy ever arise from them? ^8-23
-
-
-Since the childish never find joy
-apart from their own self-interest,
-the Tathāgatas have said
-that no childish person is ever a true friend. ^8-24
-
-
-The deer, birds, and trees of the forest
-never speak unpleasant words;
-when will I come to dwell together
-with such pleasant companions as these? ^8-25
-
-
-Dwelling in a cave, an empty temple,
-or at the foot of a tree,
-when will I be free
-to never look back, without attachment? ^8-26
-
-
-When will I come to dwell,
-free and unattached,
-in vast places belonging to no one,
-by nature open and unclaimed? ^8-27
-
-
-When will I come to dwell without fear,
-carrying only a begging bowl and the like,
-wearing clothes no one else wants,
-without needing to hide this body at all? ^8-28
-
-
-When will I go to a charnel ground
-and, seeing the bones of others there
-alongside my own body — both subject to the same decay —
-come to regard them as equal, without distinction? ^8-29
-
-
-For even this body of mine
-will come to such a state
-that its very smell will drive away
-even the jackals that would otherwise approach it. ^8-30
-
-
-Even this single body, arisen together,
-made of flesh and bone born at the same time,
-will decay and fall apart, each part going its own way —
-what need is there then to speak of other, external companions? ^8-31
-
-
-At birth, one is born alone,
-and at death, that very same person dies alone;
-since no one else shares in that suffering,
-what use are companions who only obstruct one's practice? ^8-32
-
-
-Just as travelers on a road
-take up lodging along the way,
-so too do travelers on the road of existence
-take up dwelling places in the various states of birth. ^8-33
-
-
-Until such a person is carried off by four men,
-lamented by the whole world,
-one should go to the forest,
-before that time comes. ^8-34
-
-
-Without friend and without foe,
-dwelling alone in solitude,
-having already reckoned oneself as good as dead,
-one feels no grief even when death actually comes. ^8-35
-
-
-For no one nearby to grieve
-would cause any disturbance,
-and so nothing would distract
-from mindfulness of the Buddha and the like. ^8-36
-
-
-Therefore, in a forest grove,
-bright and joyful, requiring little effort, pleasant and comfortable,
-where all distraction is naturally stilled,
-I should dwell alone. ^8-37
-
-
-Having given up every other concern,
-and with a mind focused solely on myself,
-I should strive with effort
-to settle the mind in equipoise and tame it. ^8-38
-
-
-In both this world and the next,
-desires bring nothing but misfortune;
-here they lead to killing, binding, and cutting,
-and hereafter to the hells and the like. ^8-39
-
-
-For the sake of which so many pleas were once made
-through go-betweens, male and female,
-and for whose sake one did not shrink
-even from wrongdoing or disgrace — ^8-40
-
-
-for whose sake one even entered into danger,
-and exhausted all one's wealth,
-those very things one embraces so tightly
-become the source of the greatest joy — ^8-41
-
-
-yet in the end they are nothing but a skeleton,
-possessing no independence, no self of their own;
-so why, desiring and clinging to them so completely,
-does one not instead go toward nirvāṇa? ^8-42
-
-
-One who at first, with great effort, lifts up the veil,
-out of shyness looks downward;
-whether it has been seen before or not,
-one covers the face with a cloth. ^8-43
-
-
-That very face of yours, afflicted as it is,
-now uncovered as if for the first time,
-seen exposed by the vultures pulling it away —
-why then do you flee in such terror now? ^8-44
-
-
-If, when even the eyes of others merely look upon it,
-one guards it so jealously,
-while it is being devoured by that very thing all along —
-why, O miser, do you not guard it then? ^8-45
-
+## 8. Chapter Eight: The Practice of Meditation ^8-0
+
+Having developed such effort,
+Place your mind in meditation.
+A person whose mind is distracted
+Lives in the grip of disturbing emotions. ^8-1
+
+By being alone in body and mind,
+Distraction will not arise.
+Therefore, one should abandon worldly things
+And completely cast away all thoughts. ^8-2
+
+Due to attachment and craving
+For gain and so on, one does not abandon worldly things.
+Therefore, completely give up these things,
+And the wise should examine them in this way. ^8-3
+
+Knowing that disturbing emotions are completely overcome
+By insight accompanied by calm abiding,
+One should first seek calm abiding, and this
+Is achieved by being free from worldly attachments. ^8-4
+
+Who among the impermanent
+Would truly become attached to the impermanent?
+Such a person will not see what is pleasant
+For thousands of lifetimes. ^8-5
+
+If one does not see it, one will not be happy.
+The mind will not be settled.
+Even if one sees it, one will not be satisfied,
+And will be tormented by craving as before. ^8-6
+
+If one becomes attached to living beings,
+It completely obscures the truth.
+It also destroys the feeling of weariness (with cyclic existence),
+And ultimately leads to sorrow and torment. ^8-7
+
+By merely thinking of them,
+This life will pass meaninglessly.
+With impermanent friends,
+Even the eternal Dharma will be destroyed. ^8-8
+
+If one associates with foolish people,
+One will certainly go to lower realms.
+If they lead one to what is not equal (to one's own path),
+What is the point of relying on foolish people? ^8-9
+
+In one moment they become friends,
+And in an instant they become enemies.
+They get angry at things that bring joy,
+So it is difficult to please ordinary people. ^8-10
+
+If you speak helpfully, they get angry.
+They also turn away from what is beneficial to themselves.
+If you do not listen to their words,
+They will go to lower realms out of anger. ^8-11
+
+They envy the high, compete with equals,
+Are arrogant when praised by the low,
+And get angry when unpleasant things are said.
+When will one ever gain anything from foolish people? ^8-12
+
+If one associates with foolish people,
+Praising oneself, criticizing others,
+And talking about things that delight in cyclic existence,
+Unwholesome actions will certainly arise. ^8-13
+
+In this way, relying on oneself and others
+Only leads to ruin.
+One has not accomplished one's own purpose,
+And one will not accomplish their purpose either. ^8-14
+
+One should keep far away from foolish people.
+If you meet them, please them with joy,
+But do not become too intimate.
+It is best to remain like a stranger. ^8-15
+
+Like a bee taking nectar from a flower,
+Take only the essence of the Dharma.
+And like one who has never seen anyone before,
+Remain without intimacy with anyone. ^8-16
+
+"I have much gain and respect,
+Many people are fond of me."
+If one harbors such pride,
+Fear will arise after death. ^8-17
+
+Therefore, the deluded mind,
+Whatever it becomes attached to,
+That very attachment, multiplied a thousandfold,
+Will become suffering and arise. ^8-18
+
+Therefore, the wise should not become attached.
+Fear arises from attachment.
+These things are by nature impermanent,
+So be firm and understand them well. ^8-19
+
+Even if much gain arises,
+And fame and renown come,
+With all the gain and fame,
+There is no knowing where one will go. ^8-20
+
+If others criticize me,
+What joy is there for me in praise?
+If others praise me,
+What unhappiness is there for me in criticism? ^8-21
+
+Living beings have various inclinations;
+Even the Buddhas cannot please them all.
+What need is there to speak of a lowly person like me?
+Therefore, abandon worldly concerns. ^8-22
+
+Living beings criticize those without gain,
+And speak ill of those with gain.
+How can joy arise from such difficult-to-please people? ^8-23
+
+Because foolish people do not find joy
+Without their own benefit,
+The Buddhas have said that no foolish person
+Is a true friend. ^8-24
+
+In the forest, the deer, birds,
+And trees do not speak ill.
+When will I dwell together with them,
+Who bring happiness when associated with? ^8-25
+
+In a cave, a deserted temple,
+Or under a tree, having made my dwelling,
+When will I no longer look back,
+And become free from attachment? ^8-26
+
+When will I dwell freely and without attachment
+In vast, naturally open spaces,
+Where I have not claimed any land as my own? ^8-27
+
+When will I be fearless,
+Even without hiding this body,
+Possessing only a begging bowl and other necessities,
+And wearing clothes that are not needed by anyone else? ^8-28
+
+Having gone to a charnel ground,
+When will I equalize my own body
+With the bones of others,
+Recognizing them all as subject to decay? ^8-29
+
+This very body of mine,
+Whose stench even foxes
+Will not approach,
+Will become like that. ^8-30
+
+Even this body, which arose alone,
+Whose flesh and bones, born together,
+Will decay and separate,
+What need is there to speak of other friends? ^8-31
+
+One is born alone,
+And one dies alone.
+If one does not take on the suffering of others,
+What is the use of friends who cause obstacles? ^8-32
+
+Just as travelers on a path
+Take up lodging,
+So too, those on the path of existence
+Take up a place of birth. ^8-33
+
+While the world is tormented,
+Until four men
+Carry one away from it,
+Go to the forest. ^8-34
+
+Having no friends and no enemies,
+Dwell alone in solitude with this body.
+Consider yourself as already dead,
+So that when you die, there will be no mourning. ^8-35
+
+No one sitting nearby
+Will cause grief or harm,
+And no one will distract you
+From remembering the Buddha and so on. ^8-36
+
+Therefore, in a very delightful
+Forest grove, which is easy and pleasant,
+And where all distractions are calmed,
+I will dwell alone. ^8-37
+
+Abandoning all other thoughts,
+With only the thought of myself,
+I will strive to settle my mind
+And to tame it. ^8-38
+
+In this world and the next,
+Desires create trouble.
+Here, there is killing, binding, and cutting.
+In the next, there are hells and so on. ^8-39
+
+Because of the many times
+That messengers and women have previously pleaded,
+And for whose sake one did not hesitate
+To commit evil deeds or dishonorable acts, ^8-40
+
+And for whom I entered into danger,
+And exhausted my resources,
+Those very ones, when embraced,
+Bring supreme joy. ^8-41
+
+If it is nothing but a skeleton,
+Not independent and not oneself,
+Why do you crave it so much and cling to it,
+And not go to nirvana? ^8-42
+
+At first, one makes an effort to lift it,
+And even when pulled, one looks down in shame.
+Whether seen before or not,
+The face is covered with clothes. ^8-43
+
+That face of yours, full of disturbing emotions,
+Is now as if it were directly present.
+Seeing it uncovered by vultures,
+Why do you now flee? ^8-44
+
+Even when others look with their eyes,
+You protect it completely.
+As long as it is eaten by them,
+Why do you, miserly one, not protect it? ^8-45
 
 Seeing this heap of flesh,
-if vultures and others come to devour it,
-why then, when it is offered as food to others,
-does one adorn it with garlands of flowers and sandalwood? ^8-46
+Vultures and others eat it.
+Why do you adorn the food of others
+With garlands of flowers, sandalwood, and ornaments? ^8-46
 
+Seeing it as merely a bone,
+If you are afraid even when it does not move,
+Why would you not be terrified if someone
+Moved it like a zombie? ^8-47
 
-If you are frightened even seeing it
-as a mere motionless skeleton,
-why are you not equally afraid
-when it is animated and moved about like a zombie? ^8-47
+From the very same food,
+Feces and saliva arise.
+Why do you dislike feces,
+But like saliva? ^8-48
 
+Instead of delighting in a soft pillow
+Made of cotton,
+The lustful, deluded by impurity,
+Say, "It doesn't smell bad." ^8-49
 
-From food that is all of one single kind
-both excrement and saliva arise;
-so why is it that you feel no pleasure
-toward the excrement, yet delight in the saliva? ^8-48
+If one is attached to it even when covered,
+Why not desire it when uncovered?
+If there is no need for it,
+Why embrace what is covered? ^8-50
 
+If you are not attached to impurity,
+Why do you embrace another,
+A cage of bones bound by tendons,
+Plastered with a paste of flesh? ^8-51
 
-One who is attached, deluded about what is impure,
-takes no pleasure in a soft pillow
-of cotton, gentle to the touch,
-simply because it does not give off a foul smell. ^8-49
+You yourself have much impurity,
+And you constantly dwell in it.
+Yet you crave other bags of impurity,
+And desire impurity. ^8-52
 
+"I like this flesh," you say,
+And want to touch and see it.
+But how can you desire flesh
+Which is by nature without consciousness? ^8-53
 
-If you are so attached to this body when covered,
-why would you not want it uncovered as well?
-And if you have no need of it uncovered,
-why then do you embrace it when covered? ^8-50
+The mind that desires
+Cannot touch or see.
+That which can, is not conscious.
+What is the use of a meaningless embrace? ^8-54
 
+It is not surprising that one does not understand
+The impure nature of another's body.
+But it is truly amazing that one does not understand
+That one's own body is impure. ^8-55
 
-If you are not attached to what is impure,
-why then do you embrace in your arms
-another person — a mere cage of bones bound by sinews,
-plastered over with a mud of flesh? ^8-51
+Abandoning a young lotus,
+Opened by the sun's rays, free from clouds,
+Why does the mind, clinging to impurity,
+Delight in a cage of impurity? ^8-56
 
+If you do not want to touch
+A place soiled with impurity,
+How can you want to touch the body
+From which that impurity came? ^8-57
 
-You yourself are made of much that is impure;
-you constantly make use of that very impurity,
-and, craving still more impurity,
-you desire other bags of impurity as well. ^8-52
+If you are not attached to impurity,
+Why do you embrace another,
+Who came from an impure field,
+And whose seed was produced by it? ^8-58
 
+You do not desire even a tiny
+Impure worm that comes from impurity,
+Yet you desire a body that is by nature
+Full of much impurity, and a person born of impurity. ^8-59
 
-"I take pleasure in this flesh," you say,
-wanting to touch it and look at it —
-but tell me, how can you desire flesh
-that is, by nature, entirely without mind? ^8-53
+Not only do you not criticize
+Your own impurity,
+But you also crave other bags of impurity,
+And desire impurity. ^8-60
 
+Camphor and other pleasant things,
+Or even rice and vegetables,
+When put in the mouth and then spit out,
+Even the earth becomes soiled and impure. ^8-61
 
-The mind that you desire
-cannot itself be touched or seen;
-and what can be touched has no capacity for knowing —
-so what is the point of this pointless embrace? ^8-54
+If you still have doubts,
+Even when such impurity is evident,
+Then go to a charnel ground
+And look at other impure bodies. ^8-62
 
+Knowing that great fear arises
+When the skin is peeled back from the body,
+How can joy arise again
+For that very thing? ^8-63
 
-It is not so surprising that one fails to recognize
-the impure nature of another's body;
-what is truly astonishing
-is failing to recognize that very same impurity in oneself. ^8-55
+The fragrance applied to the body
+Is sandalwood and not anything else.
+Why do you become attached to others
+Because of the fragrance of others? ^8-64
 
+If you were not attached to it because of its natural bad smell,
+Wouldn't that be good?
+Why do those who needlessly burn the world
+Apply sweet fragrances to it? ^8-65
 
-Having abandoned the youthful lotus,
-opened by the sun's rays under a cloudless sky,
-why, with a mind attached to what is impure,
-does one instead delight in a cage of impurity? ^8-56
+What has sandalwood, a sweet fragrance,
+Done to this body here?
+Why do you become attached to others
+Because of the fragrance of others? ^8-66
 
+If the body's nature is terrifying when naked,
+With long hair and nails,
+Yellow teeth, and the smell of mud, ^8-67
 
-If you are unwilling to touch
-ground that is soiled with filth,
-how can you wish to touch a body
-from which that very filth originates? ^8-57
+Like a weapon that harms oneself,
+Why do you strive to clean it?
+By the deluded efforts of oneself,
+This earth is completely disturbed by madness. ^8-68
 
+If you are disgusted in a charnel ground
+Just by seeing bones,
+Are you happy in the charnel ground of a city,
+Which is filled with moving bones? ^8-69
 
-If you are not attached to what is impure,
-why then do you embrace in your arms
-another person, born from an impure field,
-and produced by that very impure seed? ^8-58
+Such an impure thing
+Is not obtained without cost.
+Striving for it brings the suffering of
+Being cut up, hell, and so on. ^8-70
 
+Foolish people cannot increase wealth,
+So what happiness is there in this when one is mature?
+If one's life is spent on wealth and so on,
+What is the use of desire when one is old? ^8-71
 
-You have no desire even for a small worm
-born from what is impure,
-yet you desire a body whose very nature is impure through and through,
-and which itself arose from an impure birth. ^8-59
+Some wretched people, driven by desire,
+Are completely exhausted by work all day long.
+They return home, their bodies worn out,
+And lie down like corpses. ^8-72
 
+Some suffer from the hardships of travel,
+And the pain of being far away.
+Though they desire children and spouses,
+They will not even see them in their dreams. ^8-73
 
-Not only do you not despise
-your own impurity,
-but, craving impurity,
-you desire other bags of impurity as well. ^8-60
-
-
-Even pleasant things like camphor,
-rice, or vegetables,
-once put in the mouth and then expelled,
-turn the very ground filthy and impure. ^8-61
-
-
-If such impurity as this,
-even when directly evident, still leaves you in doubt,
-then go and look at other bodies too,
-discarded, impure, in the charnel grounds. ^8-62
-
-
-Knowing that when the skin is peeled back
-great terror arises,
-how is it that, knowing this,
-one still comes to feel renewed delight in that very thing? ^8-63
-
-
-As for the fragrance applied to the body,
-that too comes from sandalwood and the like, not from the body itself;
-so why does one become attached to another
-because of a scent that actually belongs to something else? ^8-64
-
-
-If it is good not to be attached to this body
-precisely because of its natural foul smell,
-then why do those in the world, uselessly infatuated,
-smear it with sweet-smelling perfumes? ^8-65
-
-
-But if the sweet fragrance
-belongs to sandalwood, what does that have to do with the body?
-Why then does one become attached to another
-because of a fragrance that belongs to something else entirely? ^8-66
-
-
-If, with long hair and nails,
-yellowed, foul-smelling teeth,
-and stains of filth ingrained upon it,
-the body's true, naked nature is indeed something terrifying, ^8-67
-
-
-then why does one still labor so hard
-to groom it, as though tending a weapon meant to harm oneself?
-Through such deluded effort spent on this self,
-this whole world has become maddened and thrown into turmoil. ^8-68
-
-
-If seeing merely a heap of bones
-already produces disenchantment in the charnel ground,
-could one still delight in a city
-that is filled with moving skeletons? ^8-69
-
-
-Furthermore, such an impure thing as this
-is never obtained without a price;
-by striving to acquire it, one exhausts oneself,
-and suffers harm even in the hells and elsewhere. ^8-70
-
-
-A child cannot yet earn wealth,
-so how could there be any pleasure for him when he comes of age?
-And if one measures out one's life while gathering wealth,
-what use is desire once one has grown old? ^8-71
-
-
-Some, base in their desire,
-utterly exhausted from a day's labor,
-come home and lie down,
-their spent bodies like corpses. ^8-72
-
-
-Some, suffering the hardships of travel abroad,
-suffering from being far from home,
-though they long to see wife and children,
-do not see them even for years on end. ^8-73
-
-
-Utterly deluded, seeking their own benefit,
-some sell themselves for the very thing they desire,
-yet never attain it; and even while achieving nothing,
-they are driven along by the winds of others' demands. ^8-74
-
+Deluded by the desire for self-benefit,
+Even those for whom one sells oneself,
+Are driven by the wind of others' meaningless work,
+Without achieving their purpose. ^8-74
 
 Some sell their own bodies,
-becoming powerless, made to serve others;
-and their wives, even when giving birth,
-must do so beneath a tree or in the wilderness. ^8-75
-
-
-Fools, deceived by desire,
-thinking, "I must make a living to survive,"
-go into battle risking their very lives,
-and become slaves merely for the sake of profit. ^8-76
-
-
-Some, driven by desire, even have their bodies cut apart;
-some are impaled on stakes;
-some are pierced through with spears;
-and some can be seen being burned alive. ^8-77
-
-
-Know that wealth brings boundless misfortune —
-in accumulating it, in guarding it, and in losing it —
-those distracted by attachment to wealth
-have no opportunity to be freed from the suffering of existence. ^8-78
-
-
-For those attached to desire, such faults as these
-are many, and the reward is small —
-like a beast of burden pulling a cart,
-allowed to eat only a mouthful of grass along the way. ^8-79
-
-
-For the sake of that small reward,
-which even beasts can obtain without difficulty,
-this precious human birth, so hard to find,
-is destroyed by those tormented by their own actions. ^8-80
-
-
-Desire is bound to come to ruin,
-and leads one to fall into the hells and elsewhere;
-since it is not something truly great,
-the exhausting toil it demands at all times — ^8-81
-
-
-if even a fraction, a ten-millionth part,
-of that same toil accomplished buddhahood,
-then desire's practitioners suffer far more
-than bodhisattvas, yet attain no awakening at all. ^8-82
-
-
-Considering the sufferings of hell and the like,
-one sees that desires cannot even be compared
-to weapons, poison, fire, precipices,
-or enemies — they are far worse than any of these. ^8-83
-
-
-Thus, having become disenchanted with desire,
-I should cultivate delight in solitude,
-in tranquil forests
-free from conflict and affliction. ^8-84
-
-
-In the cool of a fortunate moon's light and sandalwood,
-in a broad, delightful mansion of flat stone,
-stirred by the silent, peaceful mountain breeze,
-one walks about, contemplating how to benefit others. ^8-85
-
-
-Dwelling as long as one wishes
-in an empty house, at the foot of a tree, or in a cave,
-having given up the suffering of guarding and clinging to possessions,
-one acts freely, without concern, without dependence. ^8-86
-
-
-To live freely, unattached,
-connected to nothing at all,
-content and at ease —
-even the gods find this hard to obtain. ^8-87
-
-
-Having reflected in this and other ways
-on the good qualities of solitude,
-I should thoroughly pacify discursive thought,
-and cultivate the mind of awakening. ^8-88
-
-
-First of all, I should diligently cultivate
-the equality of myself and others;
-since happiness and suffering are the same for all,
-I should protect all beings as I protect myself. ^8-89
-
-
-Just as the hand and other limbs,
-though many and various, are protected as one body,
-so too should all beings, differing as they are,
-in their wish for happiness and freedom from suffering, be regarded as one, just like myself. ^8-90
-
-
-Although my own suffering
-does not harm the body of anyone else,
-that suffering, still, is unbearable to me,
-simply because of my attachment to my own self. ^8-91
-
-
-Likewise, though the sufferings of others
-do not actually befall me,
-still, those sufferings of that other person
-are hard for me to accept, if I hold to a sense of self in relation to them too. ^8-92
-
-
-I should eliminate the suffering of others
-simply because it is suffering, just like my own suffering;
-and I should benefit others
-simply because they are sentient beings, just like my own body. ^8-93
-
-
-Since I and others alike
-equally wish for happiness,
-what makes me so special
-that I strive for my happiness alone? ^8-94
-
-
-Since I and others alike
-equally do not wish for suffering,
-what makes me so special
-that I protect myself but not others? ^8-95
-
-
-If I do not protect against another's suffering,
-on the grounds that it does not harm me,
-then why do I protect against my own future suffering,
-which likewise does not harm me now? ^8-96
-
-
-The notion that "I will experience it"
-is itself mistaken;
-for it is one person who dies,
-and an entirely different person who is born. ^8-97
-
-
-If it is held that whatever being experiences a suffering
-should be the one to guard against it,
-then the suffering of the foot is not the hand's concern —
-so why does the hand protect the foot? ^8-98
-
-
-"Though this may be unreasonable,
-it comes about through grasping at a self," one might object.
-But whatever is unreasonable, whether concerning self or other,
-should equally be abandoned, to the extent one is able. ^8-99
-
-
-What is called a "mental continuum" or an "aggregation"
-is false, like a rosary or an army;
-since there is no real owner of suffering,
-who is there to have power over it? ^8-100
-
-
-Since suffering has no owner,
-there is no distinction of any kind among instances of it;
-it should be dispelled simply because it is suffering —
-what use is there in insisting on boundaries here? ^8-101
-
-
-"Why should the suffering of all be prevented?" —
-this should not even be questioned;
-if it is to be prevented, then all of it should be prevented;
-if not, then this applies to myself as well, just as to any other being. ^8-102
-
-
-"Why generate compassion so intensely,
-when it brings so much suffering with it?" one might ask.
-But when one truly considers the suffering of all beings,
-how could the suffering involved in compassion be considered excessive? ^8-103
-
-
-If it were true that the suffering of others
-could be eliminated by taking on a single suffering oneself,
-then one endowed with loving compassion
-should indeed generate that suffering, for oneself and for others alike. ^8-104
-
-
-Thus Supuṣpacandra, though he knew
-the harm the king would inflict,
-did not avert his own suffering,
-so that the suffering of many might come to an end. ^8-105
-
-
-Thus, one whose mindstream has become habituated
-to delighting in pacifying the suffering of others,
-will enter even the hell of no respite,
-like a wild goose entering a lotus pool. ^8-106
-
-
-When sentient beings are liberated,
-what ocean of joy could compare to that?
-Is that alone not enough?
-What use is there in seeking liberation for oneself alone? ^8-107
-
-
-Therefore, even though I act for the benefit of others,
-I should feel no conceit or amazement about it;
-since I delight solely in benefiting others,
-I have no expectation of any resulting reward. ^8-108
-
-
-Therefore, just as I now guard myself
-even from the smallest unpleasant thing,
-so too should I cultivate a protective attitude toward others,
-and cultivate a mind of compassion in just the same way. ^8-109
-
-
-Through habituation, one comes to think of
-a mere drop of semen and blood belonging to others as "mine,"
-even though it has no real substance of its own. ^8-110
-
-
-In just the same way, why should I not
-regard the body of another as my own?
-That my own body should be
-placed in others is likewise not difficult. ^8-111
-
-
-Having understood myself as full of faults,
-and others as an ocean of good qualities,
-I should thoroughly cast off my self-grasping,
-and cultivate the practice of taking up others instead. ^8-112
-
-
-Just as the hand and other limbs
-are accepted as parts of the body,
-why should embodied beings, likewise,
-not be accepted as parts of the world? ^8-113
-
-
-Just as, through habituation,
-a sense of "I" arose regarding this body, which has no true self,
-so too, through habituation
-regarding other beings, why should a sense of "I" not similarly arise? ^8-114
-
-
-In this way, even while acting for the benefit of others,
-no conceit or astonishment arises;
-just as when I feed myself,
-I have no expectation of a reward in return. ^8-115
-
-
-Therefore, just as I now guard myself
-even from the smallest unpleasant thing,
-so too should I cultivate a protective attitude toward beings,
-and habituate myself to a mind of compassion. ^8-116
-
-
-For this reason, the Protector Avalokiteśvara,
-out of great compassion,
-in order to dispel the fears of the multitudes of beings,
-even blessed his own name with this very power. ^8-117
-
-
-One should not turn back from hardship;
-for through the power of such habituation,
-even something whose mere name once inspired fear
-will, without it, bring no joy at all. ^8-118
-
-
-Whoever wishes to swiftly protect
-both themselves and others
-should practice that most sacred secret:
-the exchanging of self and other. ^8-119
-
-
-Because of attachment to one's own body,
-even a small danger gives rise to great fear;
-who would not hate, as an enemy,
-this very body that gives rise to such fear? ^8-120
-
-
-Wishing to cure the illnesses of hunger, thirst,
-and the like afflicting the body,
-people kill birds, fish, and deer,
-and lie in wait for them along their paths. ^8-121
-
-
-For the sake of profit and status,
-some even kill their own father and mother,
-and steal the wealth of the Three Jewels;
-because of this they will be burned in the hell of no respite. ^8-122
-
-
-What wise person would desire
-this body, guard it, and honor it,
-rather than regard it
-as an enemy, and hold it in contempt? ^8-123
-
-
-"If I give this away, what will I have to use?" —
-such self-concerned thinking is the way of a hungry ghost.
-"If I use it, what will I have to give?" —
-such thinking for the sake of others is the way of the gods. ^8-124
-
-
-If I harm others for my own sake,
-I will be tormented in the hells and elsewhere;
-but if I harm myself for the sake of others,
-I will attain every kind of excellence. ^8-125
-
-
-Through wishing to elevate oneself,
-one falls into wretched, foolish lower realms;
-but by directing that very wish toward others,
-one attains a good rebirth and receives honor. ^8-126
-
-
-If I make use of others for my own sake,
-I will experience servitude and the like;
-but if I make use of myself for the sake of others,
-I will experience mastery and the like. ^8-127
-
-
-Whatever happiness there is in the world
-all comes from wishing for the happiness of others;
-whatever suffering there is in the world
-all comes from wishing for one's own happiness. ^8-128
-
-
-What need is there to say more?
-Just observe this distinction:
-the childish act for their own benefit,
-while the Sage acts for the benefit of others. ^8-129
-
-
-If I do not genuinely exchange
-my own happiness for the suffering of others,
-buddhahood will never be accomplished,
-and there will be no happiness even in saṃsāra. ^8-130
-
-
-Setting aside the concerns of future lives,
-even the purpose of this present life will not be accomplished
-if a servant does not do their work,
-and a master does not pay their wages. ^8-131
-
-
-Abandoning entirely the excellent happiness
-that would come from benefiting both seen and unseen,
-and, through causing suffering to others,
-the deluded reap unbearable suffering instead. ^8-132
-
-
-Whatever harm exists in this world,
-and whatever fear and suffering there is,
-all of it arises from grasping at a self —
-so what use is this great demon to me? ^8-133
-
-
-Unless I give up this self entirely,
-I will not be able to give up suffering,
-just as, unless one gives up fire,
-one cannot avoid being burned. ^8-134
-
-
-Therefore, in order to pacify my own harm,
-and to pacify the suffering of others,
-I should give myself over to others,
-and hold others as dear as myself. ^8-135
-
-
-O mind, you must know for certain
-that you now belong to others;
-from now on, you must think of nothing else
-but the welfare of all sentient beings. ^8-136
-
-
-It is not right to use what belongs to another —
-the eyes and so forth — for one's own purpose;
-nor is it right to turn the eyes and so forth,
-now devoted to that other purpose, wrongly toward oneself. ^8-137
-
-
-Therefore, holding sentient beings as foremost,
-whatever I see in this body of mine
-that could be of use,
-I should take it, whatever it may be, and use it to benefit others. ^8-138
-
-
-Having made those who are lesser than myself into "myself,"
-and having made myself into "another,"
-with a mind free of discursive thought,
-I should cultivate envy, rivalry, and pride. ^8-139
-
-
-"This one is honored, I am not;
-I have not received as much as this one;
-this one is praised, I am blamed;
-this one is happy, I am in suffering." ^8-140
-
-
-"I am the one who does all the work,
-while this one simply remains at ease;
-this one is regarded as great in the world,
-while I am said to be lowly, without any good qualities." ^8-141
-
-
-"What can be done, since I have no good qualities?
-I am actually endowed with every good quality —
-compared to some, this one is inferior;
-compared to others, I myself am superior." ^8-142
-
-
-"My discipline, my view, and the rest have declined
-not through my own power, but through the force of the afflictions;
-I must be helped in whatever way possible —
-even harm done to me, I should willingly accept." ^8-143
-
-
-"But if this one is not to be helped,
-why is he treating me with contempt?
-What use to me are his good qualities?
-He is the one with good qualities, not I." ^8-144
-
-
-"Standing at the very brink of the wretched, terrible lower realms,
-utterly without compassion for beings,
-this one, boasting outwardly of good qualities,
-wishes to rival even the wise." ^8-145
-
-
-"Regarding myself as equal to others,
-in order to raise myself above them,
-I will certainly secure my own gain and honor,
-even through contention and dispute if necessary." ^8-146
-
-
-"How can my own good qualities
-be made known to the whole world?
-And how can it be arranged that no one, ever,
-hears of this other one's good qualities at all?" ^8-147
-
-
-"My own faults should be concealed;
-I, not he, should be the one worshipped.
-I should obtain excellent gains,
-and I, not he, should be the one honored." ^8-148
-
-
-"I will take pleasure for a long time
-in watching this one meet with misfortune,
-becoming a laughingstock to the whole world,
-and an object of contempt from every side." ^8-149
-
-
-This self-cherishing mind even claims
-to rival me directly —
-does it possess learning and wisdom equal to mine?
-Does it equal me in beauty, family, or wealth? ^8-150
-
-
-Hearing my own good qualities
-proclaimed to everyone in this way,
-I will thrill with delight, hair standing on end,
-and fully enjoy such happiness. ^8-151
-
-
-Even if this one has some wealth,
-if he must work for me,
-I should give him just enough to live on,
-and take the rest by my own power. ^8-152
-
-
-I should strip this one of his happiness,
-and constantly inflict harm upon him;
-for it is he who, in a hundred ways,
-has done me harm throughout saṃsāra. ^8-153
-
-
-O mind, though you have spent countless eons
-wishing only to benefit yourself,
-all that great exertion of yours
-has brought about nothing but suffering. ^8-154
-
-
-Therefore, now resolve firmly
-to devote yourself entirely to the welfare of others;
-the words of the Sage are never false —
-you will come to see the benefit of this in time. ^8-155
-
-
-If you had undertaken this task
-at an earlier time,
-you would never have found yourself
-in a state lacking the perfect happiness of buddhahood. ^8-156
-
-
-Therefore, just as you have taken up
-a mere drop of another's semen and blood
-and grasped it as "I,"
-so too should you become habituated to doing the same for others. ^8-157
-
-
-Having become a close observer of others,
-whatever you find useful in your own body,
-take that very thing
-and use it to benefit others. ^8-158
-
-
-"I am happy, this other is unhappy;
-I am elevated, this other is lowly;
-I am the one who helps, this other does not" —
-why does this not provoke envy toward myself? ^8-159
-
-
-"I should give up my own happiness,
-and take on the suffering of others" —
-whenever this thought arises,
-I should examine it as if it were my own fault. ^8-160
-
-
-Even a wrong committed by someone else
-should be turned into a fault of my own;
-and even a small fault of my own
-should be openly confessed before many people. ^8-161
-
-
-I should overshadow my own reputation
-by proclaiming the reputation of others;
-I should treat myself as the lowest of servants,
-made to work for the benefit of all. ^8-162
-
-
-This self is by nature full of faults;
-I should not praise it for any incidental good quality;
-in every way possible,
-I should ensure that no one ever comes to know of its good qualities at all. ^8-163
-
-
-In short, whatever harm you, self-cherishing mind,
-have done to others for your own sake,
-let all of that harm instead
-fall upon myself, for the sake of all sentient beings. ^8-164
-
-
-This mind should not be roused
-into becoming harsh and unruly;
-rather, like a newly wedded bride,
-it should be held in check with modesty and caution. ^8-165
-
-
-"Act like this; remain like that;
-do not act like this" —
-in this way, this mind should be kept under control,
-and punished if it transgresses these bounds. ^8-166
-
-
-But if, even after being instructed in this way,
-you, O mind, still refuse to comply,
-then, since you are the source of every fault,
-it is you alone who must be punished. ^8-167
-
-
-"That earlier time when you destroyed me
-is now gone, a thing of the past;
-I see you now — where can you go?
-I will crush all your arrogance." ^8-168
-
-
-"Give up now, once and for all,
-the thought that I still have some purpose of my own;
-I have already sold you to others —
-do not grieve, but offer yourself in service without complaint." ^8-169
-
-
-"If, through carelessness,
-I do not hand you over to sentient beings,
-you will surely be handed over instead
-to the guardians of hell." ^8-170
-
-
-"For you have betrayed me like this before,
-and I have suffered long because of it;
-now, recalling all these old grievances,
-I will crush your self-serving intentions once and for all." ^8-171
-
-
-If, then, I wish for my own happiness,
-I should not seek happiness for myself;
-and if I wish to protect myself,
-I should constantly protect others instead. ^8-172
-
-
-The more and more
-this body is pampered and indulged,
-the more and more
-it falls into ever greater delicacy and fragility. ^8-173
-
-
-And when it has fallen into such a state,
-not even the whole of this earth
-has the power to satisfy its desires —
-so who could possibly satisfy them? ^8-174
-
-
-For one whose desires cannot be fulfilled,
-the afflictions and a degraded resolve will only increase;
-but one who has no expectations from anything
-will never run short of excellence. ^8-175
-
-
-Therefore, one should not indulge
-the body's desires by giving them free rein;
-whoever does not cling to what is pleasing
-possesses the finest of all things. ^8-176
-
-
-In the end reduced to nothing but ashes,
-inert, to be moved only by another —
-why should I hold to a sense of self
-in this unbearable, impure form? ^8-177
-
-
-Whether it is alive or already as good as dead,
-what use is this mechanical contraption to me?
-What difference is there between it and a clod of earth?
-Alas, why can I not dispel this pride? ^8-178
-
-
-Through such coddling of the body,
-I have needlessly accumulated great suffering;
-what use is there in attachment or anger
-toward something no different from a piece of wood? ^8-179
-
-
-Whether I nurture it in this way
-or it is instead devoured by vultures,
-it feels neither attachment nor aversion —
-so why then do I feel attachment toward it? ^8-180
-
-
-If it feels no anger when reviled,
-and no gratification when praised,
-then, since it has no such awareness at all,
-for whose sake have I exhausted myself in caring for it? ^8-181
-
-
-"Whoever desires this body
-is my friend," one might say.
-But since everyone desires their own body,
-why then should I not feel affection for all beings equally? ^8-182
-
-
-Therefore, without any attachment,
-I should give up this body for the benefit of beings;
-though it has many faults,
-I should keep it only as a tool for accomplishing this task. ^8-183
-
-
-Therefore, enough of childish conduct —
-I should follow in the footsteps of the wise;
-recalling the teaching on conscientiousness,
-I should drive away sleep and mental dullness. ^8-184
-
-
-Therefore, in order to remove obscurations,
-I should turn my mind back from wrong paths,
-and constantly settle it in meditative equipoise
-upon its proper object. ^8-185
-
-
-This concludes the eighth chapter, entitled "Teaching Meditative Concentration," from the Way of the Bodhisattva. ^8-a
+And are used by others against their will.
+Even their wives, when they have children,
+Give birth under trees in deserted places. ^8-75
+
+Foolish people, deceived by desire,
+Say, "We want to live, we will live!"
+They enter battle, fearing for their lives,
+And become servants for profit. ^8-76
+
+Some lustful people have their bodies cut,
+Some are impaled on stakes,
+Some are pierced with spears,
+And some are even burned. ^8-77
+
+Know that wealth brings endless trouble
+Through the suffering of accumulating, protecting, and losing it.
+Those who are distracted by attachment to wealth
+Have no opportunity to be freed from the suffering of cyclic existence. ^8-78
+
+For those with desires, there are many such
+Faults, and little benefit.
+It is like cattle pulling a cart,
+Eating a few mouthfuls of grass. ^8-79
+
+For the sake of that small benefit,
+Which is not difficult to obtain even by cattle,
+These precious human lives, so hard to find,
+Are destroyed by those tormented by karma. ^8-80
+
+Desires will certainly be destroyed,
+And lead to hell and other lower realms.
+Because they are not great, what is the use
+Of the constant toil and effort they bring? ^8-81
+
+If even a fraction of that effort
+Could achieve Buddhahood,
+Then those with desires suffer more than
+Bodhisattvas, and do not achieve enlightenment. ^8-82
+
+Considering the suffering of hell and so on,
+Desires cannot even be compared to
+Weapons, poison, fire, precipices,
+Or enemies. ^8-83
+
+Having thus become weary of desires,
+Develop joy in solitude.
+In peaceful forest groves,
+Free from quarrels and disturbing emotions, ^8-84
+
+In delightful, spacious stone mansions,
+Cooled by the auspicious moonlight and sandalwood,
+With the silent, peaceful forest breeze blowing,
+One should wander, thinking of the benefit of others. ^8-85
+
+In empty houses, under trees, or in caves,
+One dwells as long as one wishes,
+Free from the suffering of clinging and protecting,
+And acts freely without attachment. ^8-86
+
+To act freely and without attachment,
+Without being connected to anyone,
+The contentment and happiness that comes from this
+Is difficult for even the powerful to find. ^8-87
+
+In this way, having considered the qualities of solitude,
+One should meditate on the calming of thoughts
+And on the awakening mind. ^8-88
+
+First, one should strive to meditate
+On the equality of oneself and others.
+Since happiness and suffering are equal,
+All beings should be protected like oneself. ^8-89
+
+Just as the body, though having many parts
+Like hands and so on, is one in being protected,
+So too, the various happiness and suffering of beings
+Are all one in desiring happiness, like oneself. ^8-90
+
+If my suffering
+Does not harm another's body,
+Even so, that suffering of mine
+Is unbearable due to clinging to self. ^8-91
+
+Similarly, the suffering of others
+Will not fall upon me.
+Even so, that suffering of theirs
+Is difficult to bear due to clinging to self. ^8-92
+
+I should remove the suffering of others,
+Because it is suffering, like my own.
+I should benefit others,
+Because they are living beings, like my own body. ^8-93
+
+When both myself and others
+Are equal in desiring happiness,
+What difference is there between me and them,
+That I should strive only for my own happiness? ^8-94
+
+When both myself and others
+Are equal in not desiring suffering,
+What difference is there between me and them,
+That I should protect myself and not others? ^8-95
+
+If you say that because their suffering
+Does not harm me, I should not protect them,
+Then why should you protect future suffering,
+If it does not harm you now? ^8-96
+
+The thought, "I will experience that,"
+Is a mistaken notion.
+For when one dies, it is another,
+And when one is born, it is also another. ^8-97
+
+If the suffering of a particular person
+Is to be protected by that very person,
+Then why should one protect the suffering of the foot
+With the hand? ^8-98
+
+If you say that even if it is not logical,
+One acts here due to clinging to self,
+Then what is illogical about self and other?
+One should abandon it as much as possible. ^8-99
+
+The terms "continuum" and "collection"
+Are false, like a garland or an army.
+There is no one who suffers,
+So who will be empowered by this? ^8-100
+
+Without a self that suffers,
+All are without distinction.
+Since it is suffering, it should be removed.
+What is the use of certainty in that? ^8-101
+
+Why should there be a dispute
+About removing the suffering of all?
+If it is to be removed, then remove all of it.
+Otherwise, I am just like other beings. ^8-102
+
+If you ask why compassion, which brings much suffering,
+Should be diligently cultivated,
+Consider the suffering of beings,
+And how much suffering compassion brings. ^8-103
+
+If one suffering
+Can eliminate many sufferings,
+Then a compassionate person should generate
+That suffering for oneself and others. ^8-104
+
+Therefore, just as Moon-Beautiful,
+Even knowing the king's harm,
+Did not remove her own suffering,
+Because it would end the suffering of many. ^8-105
+
+In this way, when the mind is accustomed,
+Delighting in the calming of others' suffering,
+Like a swan in a lotus pond,
+One will enter even the lowest hell. ^8-106
+
+When living beings are liberated,
+Is the ocean of joy that arises
+Not enough?
+What is the use of desiring liberation for oneself? ^8-107
+
+Therefore, even when acting for the benefit of others,
+There is no pride or wonder.
+Delighting solely in the benefit of others,
+There is no hope for karmic results. ^8-108
+
+Therefore, just as one protects oneself
+From even the slightest unpleasantness,
+So too, one should develop the mind of protection
+And compassion for others. ^8-109
+
+Through habit, just as one perceives
+The semen and blood drops of others,
+Which are not real, as "mine," ^8-110
+
+So too, why not perceive
+Another's body as "mine"?
+It is not difficult to place
+One's own body in others. ^8-111
+
+Knowing oneself to be flawed, and others
+To be an ocean of good qualities,
+One should meditate on completely abandoning self-clinging
+And taking on others. ^8-112
+
+Just as one considers hands and so on
+To be limbs of the body,
+So too, why not consider living beings
+To be limbs of the world? ^8-113
+
+Just as the thought of "mine" arose
+For this body, which has no self, through habit,
+So too, why can't the thought of "mine" arise
+For other living beings through habit? ^8-114
+
+If that is the case, then even when acting for the benefit of others,
+No wonder or pride will arise.
+Just as one does not expect a reward
+After eating one's own food. ^8-115
+
+Therefore, just as one protects oneself
+From even the slightest unpleasantness,
+So too, one should cultivate the mind of protection
+And compassion for beings. ^8-116
+
+Therefore, the protector Avalokiteshvara,
+With great compassion, to remove the fear
+Of cyclic existence for beings,
+Even blessed his own name. ^8-117
+
+One should not turn back from hardship,
+For by the power of habit,
+Even the fear of hearing a name
+Will turn into joy if that person is not there. ^8-118
+
+Whoever wishes to quickly protect
+Themselves and others,
+Should practice the supreme secret
+Of exchanging oneself and others. ^8-119
+
+This body, to which I am attached,
+Causes fear in small dangers.
+Who would not hate this body,
+Which causes fear, like an enemy? ^8-120
+
+This body, which desires to perform rituals
+To cure hunger, thirst, and other illnesses,
+Causes the killing of birds, fish, and deer,
+And lies in wait on the path. ^8-121
+
+If, for the sake of profit and respect,
+One kills one's father and mother,
+And steals the property of the Three Jewels,
+And is then burned in the lowest hell, ^8-122
+
+What wise person would desire, protect,
+Or worship such a body?
+Who would not look at it like an enemy,
+And despise it? ^8-123
+
+"If I give, what will I use?"
+This thought of self-interest is demonic.
+"If I use, what will I give?"
+This thought of others' interest is divine. ^8-124
+
+If one harms others for one's own sake,
+One will be tormented in hell and so on.
+If one harms oneself for the sake of others,
+One will attain all excellent qualities. ^8-125
+
+Whoever desires to be high,
+Will go to lower realms, become wretched and foolish.
+If one transfers that desire to others,
+One will attain happy realms and respect. ^8-126
+
+If one uses others for one's own sake,
+One will experience being a servant and so on.
+If one uses oneself for the sake of others,
+One will experience being a lord and so on. ^8-127
+
+All the happiness in the world
+Comes from desiring the happiness of others.
+All the suffering in the world
+Comes from desiring one's own happiness. ^8-128
+
+What need is there for much explanation?
+Look at the difference between
+A foolish person acting for their own sake,
+And a Buddha acting for the sake of others. ^8-129
+
+If one does not truly exchange
+One's own happiness for the suffering of others,
+One will not attain Buddhahood,
+Nor will there be happiness in cyclic existence. ^8-130
+
+Let alone the next world,
+Even in this life, the purpose of
+A servant not working,
+And a lord not giving rewards, will not be achieved. ^8-131
+
+Abandoning all excellent happiness,
+Both seen and unseen,
+And through the cause of harming others,
+The deluded take on unbearable suffering. ^8-132
+
+All the harm in the world,
+And all the fear and suffering that exist,
+All arise from clinging to self.
+What will that great demon do to me? ^8-133
+
+If one does not completely abandon oneself,
+One cannot abandon suffering.
+Just as if one does not abandon fire,
+One cannot avoid being burned. ^8-134
+
+Therefore, to calm one's own harm,
+And to calm the suffering of others,
+One should give oneself to others,
+And take others as oneself. ^8-135
+
+"I am under the control of others,"
+Mind, you must truly know this.
+Now, except for the benefit of all beings,
+You should not think of anything else. ^8-136
+
+It is not appropriate for the eyes and so on,
+Which are under the control of others, to act for their own sake.
+It is not appropriate for the eyes and so on
+To act wrongly towards that person for their own sake. ^8-137
+
+Therefore, one should prioritize living beings.
+Whatever one sees in one's own body,
+One should take that and
+Use it to benefit others. ^8-138
+
+Having made oneself into the low and so on,
+And others into oneself,
+With a mind free from thoughts,
+One should meditate on envy, competition, and pride. ^8-139
+
+"This one is honored, I am not.
+I have not obtained what this one has.
+This one is praised, I am criticized.
+This one is happy, I am suffering." ^8-140
+
+"I am doing the work,
+And this one is dwelling in happiness.
+This one is great in the world,
+And I am known as lowly and without qualities." ^8-141
+
+"What is the use of being without qualities?
+I am full of all qualities.
+There are those who are lower than this one,
+And there are those who are higher than me." ^8-142
+
+Morality, views, and other things
+Are not under my control due to the power of disturbing emotions.
+I must heal myself as much as possible,
+And I must accept harm. ^8-143
+
+If I am not to be healed by this,
+Why do I despise myself?
+What good are this one's qualities to me?
+I am the one with qualities. ^8-144
+
+This one, dwelling in the mouth of lower realms,
+Without compassion for beings,
+Desires to overcome the wise
+By external pride in qualities. ^8-145
+
+Looking at those who are equal to oneself,
+To make oneself superior,
+One must certainly achieve one's own gain and respect
+Even through conflict. ^8-146
+
+"May my qualities
+Be clear to all the world,
+And may no one
+Hear of this one's qualities." ^8-147
+
+"My faults should be hidden,
+And I should be worshipped, not this one.
+I should obtain good gain now,
+And I should be respected, not this one." ^8-148
+
+"I will long delight in seeing
+This one do wrong.
+I will make all beings laugh at them,
+And criticize each other." ^8-149
+
+"This disturbing emotion also
+Is said to compete with me.
+Are these equal in hearing, wisdom,
+Form, lineage, or wealth?" ^8-150
+
+Having heard of my qualities,
+Proclaimed to all,
+One should fully enjoy the happiness
+Of having goosebumps and joy. ^8-151
+
+If this one has gain,
+But works for me,
+Give this one only enough to live,
+And take it by my own power. ^8-152
+
+"This one should be deprived of happiness,
+And constantly afflicted with my harm.
+This one has harmed me
+For hundreds of lifetimes in cyclic existence." ^8-153
+
+Mind, desiring your own benefit,
+Even though countless eons have passed,
+You have only created such great
+Suffering through your efforts. ^8-154
+
+Therefore, truly
+Engage in the benefit of others.
+The Buddha's words are unfailing,
+And you will see its qualities later. ^8-155
+
+If you had done this work
+In earlier times,
+You would not be in such a state
+Of not being perfectly happy as a Buddha. ^8-156
+
+Therefore, just as you have clung to "I"
+In the semen and blood drops of others,
+So too, habituate yourself to others. ^8-157
+
+Having greatly considered others,
+Whatever appears in your own body,
+Take that very thing
+And use it to benefit others. ^8-158
+
+"I am happy, others are not.
+I am high, others are low.
+I am beneficial, others are not."
+Why do you not envy yourself? ^8-159
+
+"May I be free from happiness,
+And may the suffering of others be joined to me."
+When this happens, examine your own faults,
+Saying, "What is this doing?" ^8-160
+
+Even the faults committed by others
+Should be transformed into your own faults.
+Even if you commit a small fault,
+Let it be known to many people. ^8-161
+
+By speaking highly of others' fame,
+Eclipse your own fame.
+Use yourself like the lowest servant
+For all purposes. ^8-162
+
+"This one is by nature flawed,
+And should not be praised for temporary qualities.
+Ensure that no one
+Ever knows of this one's qualities." ^8-163
+
+In short, for the sake of my own benefit,
+Whatever harm you have done to others,
+Let that harm fall upon yourself
+For the sake of living beings. ^8-164
+
+This one should not be made
+To become stubborn and strong.
+Like a new bride,
+Keep it restrained with shame and fear. ^8-165
+
+"Do this, dwell like that,
+And you should not do that.
+This one should be controlled like that,
+And if it transgresses, it should be punished." ^8-166
+
+However, even if advised in this way,
+If you, mind, do not do so,
+Then by relying on all your faults,
+You yourself must be punished. ^8-167
+
+"The former time when you destroyed me
+Was different.
+I see you now, where will you go?
+All your arrogance will be crushed." ^8-168
+
+"Now, abandon the thought
+That I still have my own purpose.
+I have sold you to others.
+Do not be sad, offer your milk and flesh." ^8-169
+
+If, being careless, you
+Do not give yourself to living beings,
+Then you will certainly give me
+To the guardians of hell. ^8-170
+
+In this way, you have given me away,
+And I have suffered for a long time.
+Remembering my grievances,
+I will crush your self-centered thoughts. ^8-171
+
+If I desire happiness,
+I should not make myself happy.
+If I desire to be protected,
+I should always protect others. ^8-172
+The more this body is
+Cared for and looked after,
+The more it becomes
+Demanding and difficult. ^8-173
+
+Even if all the desires
+Of such a demanding body
+Could not be fulfilled by this entire world,
+Who could possibly fulfill its desires? ^8-174
+
+Unfulfilled desires lead to suffering
+And disappointment.
+But for someone who is free from all attachments,
+Their happiness is endless. ^8-175
+
+Therefore, do not give in to the body's desires
+To let them grow.
+What is not held dear
+Is truly a good thing. ^8-176
+
+This body will eventually turn to ashes,
+It is still and moved by others,
+It is an unpleasant form of impurity—
+Why do I cling to it as "me"? ^8-177
+
+Whether it lives or dies,
+What good is this machine to me?
+What difference is there between it and a log?
+Alas, why does it not remove my pride? ^8-178
+
+By taking care of this body,
+I have accumulated pointless suffering.
+What good is this body, which is like a tree,
+To attachment and anger? ^8-179
+
+Whether I care for it
+Or vultures eat it,
+If there is no attachment or hatred,
+Why should I be attached to it? ^8-180
+
+If someone gets angry when insulted,
+And pleased when praised,
+If that person has no understanding,
+For whom have I made such an effort? ^8-181
+
+If someone says, "I am a friend
+To whoever desires this body,"
+Since everyone desires their own body,
+Why should I not be happy with that? ^8-182
+
+Therefore, I will give up this body without attachment
+To benefit all beings.
+Even though it has many faults,
+I will hold onto it as a tool for action. ^8-183
+
+Therefore, enough of childish behavior!
+I will follow the wise.
+Remembering the words of carefulness,
+I will overcome sleep and dullness. ^8-184
+
+Therefore, to remove hindrances,
+I will turn my mind away from wrong paths.
+And I will always
+Keep my mind steadily focused on the true object. ^8-185
+
+This concludes the eighth chapter, called "Showing Meditation," from *Engaging in the Deeds of a Bodhisattva*. ^8-a

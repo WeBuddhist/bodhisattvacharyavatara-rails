@@ -1,11 +1,11 @@
 ## Author's Colophon ^a-0
 
-The Way of the Bodhisattva, composed by the master Śāntideva, is complete. ^a-1
+Engaging in the Bodhisattva's Way of Life, composed by the master Shantideva, is now complete. ^a-1
 
-## Translators' Colophon ^b-0
+## Translator's Colophon ^b-0
 
-This was translated and finalized by the Indian preceptor Sarvajñādeva and the chief editor-translator Bande Paltsek, working from a Kashmiri manuscript. ^b-1
+The Indian master Sarvajñādeva and the chief revisor and translator, the monk Bande Peltsé, revised and established this translation from a Kashmiri manuscript. ^b-1
 
-Later it was revised and translated in accordance with a Central Indian manuscript and its commentary by the Indian preceptor Dharmaśrībhadra and the chief editor-translators Bande Rinchen Zangpo and Śākya-blo-gros, and thus finalized. ^b-2
+Later, the Indian master Dharmashrībhadra, and the chief revisor and translator, the monk Rinchen Zangpo, and Shakya Lodrö, corrected and revised it in accordance with manuscripts and commentaries from central India, and established it. ^b-2
 
-Still later it was corrected and translated anew, and properly finalized, by the Indian preceptor Sumatikīrti and the chief editor-translator, the monk Blo ldan shes rab. ^b-3
+Even later, the Indian master Sumatikīrti and the chief revisor and translator, the monk Lodën Sherab, thoroughly corrected and revised it, and perfectly established it. ^b-3

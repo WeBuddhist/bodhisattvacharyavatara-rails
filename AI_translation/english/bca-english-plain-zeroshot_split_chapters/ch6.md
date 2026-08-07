@@ -1,811 +1,803 @@
-## 6. Chapter Six: Teaching Patience ^6-0
+## 6. Chapter Six: The Teaching on Patience ^6-0
+
+Accumulated over a thousand eons,
+acts of generosity, offerings to enlightened ones, and so on—
+all such good deeds,
+are destroyed by a single moment of anger. ^6-1
 
 
-Whatever good deeds have been amassed over a thousand eons —
-generosity, offerings to the Sugatas, and the like —
-all of that is destroyed
-by a single flash of anger. ^6-1
+There is no wrongdoing like hatred,
+and no austerity like patience.
+Therefore, diligently
+cultivate patience in various ways. ^6-2
 
 
-There is no wrong equal to hatred,
-and no austerity equal to patience.
-Therefore I should diligently
-cultivate patience in every way. ^6-2
+If you hold a mind pierced by the dart of hatred,
+your mind will never experience peace.
+You will not find joy or happiness,
+you will not sleep, and you will become unstable. ^6-3
 
 
-If one holds in mind the painful sting of hatred,
-the mind will never experience peace;
-one will find no joy or happiness,
-sleep will not come, and one will remain unsettled. ^6-3
+Even those who have been helped
+with wealth and respect
+will turn against a master
+who is filled with hatred, even seeking to kill him. ^6-4
 
 
-Even those who depend on someone
-for wealth and honor, out of kindness received,
-will rise up to kill
-a lord who is filled with hatred. ^6-4
+Friends become disheartened by it;
+even if won over by generosity, they will not stay.
+In short, no one
+who is angry can live in peace. ^6-5
 
 
-Because of it, friends and kin grow weary of him;
-though he is generous, they will not stay close to him.
-In short, there is no one at all
-who dwells happily while angry. ^6-5
+The enemy, anger, causes
+such suffering.
+Whoever strives to conquer anger
+will be happy in this life and the next. ^6-6
 
 
-From the enemy that is anger
-come sufferings such as these;
-but whoever earnestly overcomes anger
-finds happiness both here and hereafter. ^6-6
+When something undesirable happens,
+or something desirable is hindered,
+the mind finds the food of unhappiness,
+and hatred grows, destroying oneself. ^6-7
 
 
-Having found, in what was done against my wishes,
-or in obstruction of what I desired,
-the fuel of mental unhappiness,
-anger grows strong and destroys me. ^6-7
+Therefore, I must destroy
+the food of that enemy (hatred).
+For this enemy has no other function
+than to harm me. ^6-8
 
 
-Therefore I must utterly destroy
-the fuel of this enemy;
-for this enemy has no other function
-than to do me harm. ^6-8
+Whatever happens, I must not
+disturb my joyful mind.
+Even if I become unhappy, my desires will not be fulfilled,
+and my good deeds will be ruined. ^6-9
 
 
-Whatever happens to me,
-I should not let it disturb my joyful mind;
-being unhappy does not bring about what I want,
-and it causes my virtues to decline. ^6-9
+If something can be remedied,
+what is the point of unhappiness?
+If it cannot be remedied,
+what good does unhappiness do? ^6-10
 
 
-If there is a solution, what use is there
-in being unhappy about it?
-And if there is no solution,
-what use is it to be unhappy about it either? ^6-10
+I do not wish for myself or my friends
+to experience suffering, contempt, harsh words,
+or unpleasant speech.
+Why then would I wish the opposite for my enemies? ^6-11
 
 
-For myself or for my friends,
-I do not want suffering, contempt, harsh words,
-or unpleasant speech —
-but I want the opposite for my enemies. ^6-11
+Causes of happiness arise only sometimes,
+but causes of suffering are very many.
+Without suffering, there is no liberation.
+Therefore, mind, be firm. ^6-12
 
 
-The causes of happiness sometimes arise,
-but the causes of suffering are extremely many.
-There is no true release from saṃsāra without suffering —
-so, O mind, be firm and steady. ^6-12
+Some endure the pain of hardship, faith,
+and ascetic practices, such as burning and cutting,
+for no purpose, or for the sake of liberation.
+Why should I not endure them for a greater purpose? ^6-13
 
 
-Fire-walkers and followers of Karṇapa endure
-burning, cutting, and the like, without any true purpose,
-merely for the sake of a supposed liberation —
-so why am I such a coward, when my purpose is true liberation? ^6-13
+There is nothing that cannot become easy
+through familiarity.
+Therefore, by becoming accustomed to minor harm,
+endure great harm. ^6-14
 
 
-There is nothing at all
-that does not become easier through habituation.
-So, by growing used to small harms,
-I should learn to bear even great harm. ^6-14
+Have you not seen the meaningless suffering
+of snakes, mosquitoes,
+hunger, thirst, and itching,
+and so on? ^6-15
 
 
-Have I not seen how the bites of snakes and flies,
-the pains of hunger and thirst,
-and afflictions such as rashes and the like,
-are borne, though they serve no purpose at all? ^6-15
+I must not be delicate about
+heat, cold, rain, wind,
+illness, bondage, or beatings, and so on.
+If I am, the harm will increase. ^6-16
 
 
-Heat, cold, rain, and wind,
-sickness, being bound, being beaten, and the like —
-I should not be too delicate about these;
-for acting so only increases the harm. ^6-16
+Some, seeing their own blood,
+become even more courageous.
+Others, seeing the blood of others,
+faint and collapse. ^6-17
 
 
-Some, upon seeing their own blood,
-become even more courageous and resolute;
-while others, upon seeing the blood of someone else,
-grow faint and lose consciousness. ^6-17
+This comes from the mind's steadfastness
+and previous habits.
+Therefore, disregard harm
+and be untouched by suffering. ^6-18
 
 
-This comes from firmness or weakness of mind,
-a difference in habituation from before.
-So I should disregard harm,
-and remain unshaken by suffering. ^6-18
+Even if suffering arises, the wise
+do not let their minds become agitated or disturbed.
+When fighting the troubling emotions,
+there is much harm during the battle. ^6-19
 
 
-Even when suffering arises, the wise
-do not let their clarity of mind become disturbed;
-for in the battle against the afflictions,
-there is naturally much harm in the fray. ^6-19
+Disregarding all suffering,
+those who conquer the enemy of hatred and so on
+are true heroes.
+The rest merely kill corpses. ^6-20
 
 
-Those who disregard all suffering
-and conquer enemies such as hatred —
-they are the true victors, the heroes;
-others merely slay corpses. ^6-20
+Furthermore, the benefits of suffering are:
+it removes arrogance through weariness,
+it generates compassion for those in the cycle of existence,
+it makes one avoid wrongdoing and delight in good deeds. ^6-21
 
 
-Furthermore, suffering has this virtue:
-through disillusionment, it dispels pride,
-it brings compassion for those in saṃsāra,
-caution regarding wrongdoing, and joy in virtue. ^6-21
-
-
-One does not get angry at the great source of suffering
-that is bile and the like;
-so why be angry at those who have minds,
-since they too are all impelled by conditions? ^6-22
+If you do not get angry at the great sources
+of suffering like bile and so on,
+why get angry at sentient beings?
+All of them are driven by conditions. ^6-22
 
 
 Just as illness arises
-even though it is unwanted,
-so too, even though unwanted,
-the afflictions forcefully arise. ^6-23
+even though one does not wish for it,
+so too do troubling emotions arise
+even though one does not wish for them. ^6-23
 
 
-People become angry without ever thinking,
-"I shall now become angry";
-and anger arises in just the same way,
-without ever having thought, "I shall now produce it." ^6-24
+Even without intending to be angry,
+people become angry.
+Even without intending to generate it,
+anger arises in the same way. ^6-24
 
 
-All the many kinds of faults there are,
-and every variety of wrongdoing,
-arise through the force of conditions;
-there is no independence in any of it. ^6-25
+All faults and
+various wrongdoings
+arise from the power of conditions;
+they are not independent. ^6-25
 
 
-Nor do the gathered conditions themselves
-have any intention of producing it;
-nor does what is produced by them
-think, "I am the one produced." ^6-26
+Those assembled conditions also
+have no intention to produce anything.
+And what is produced by them
+has no intention, thinking, "I am produced." ^6-26
 
 
-Whatever is imagined to be a "primal substance,"
-and whatever is conceived of as a "self" —
-these do not arise
-through any deliberate intention that "I shall arise." ^6-27
+Whatever is desired as a primary cause,
+or whatever is conceived as a self,
+does not arise with the specific intention,
+"I myself will arise." ^6-27
 
 
-If it did not exist before it arose,
-then what is it that would wish to arise?
-And it could not be something that is always
-occupied with objects, then ceasing. ^6-28
+If it does not exist before it arises,
+what then is its desire to arise?
+And that which is constantly distracted by objects
+cannot cease. ^6-28
 
 
-If, on the other hand, that self were permanent,
-it would clearly be inactive, like space;
-and even when it meets with other conditions,
-being unchanging, what could it possibly do? ^6-29
+If that self were permanent,
+it would be seen as inactive, like space.
+Even if it met with other conditions,
+what could be done to that which does not change? ^6-29
 
 
-And if, even while acting, it remained as it was before,
-what did its "acting" actually accomplish?
-What connection could there be
-by which one could say, "This is its action"? ^6-30
+If, even when acting, it remains as before,
+what has the agent done to it?
+What connection could there be,
+saying, "This is its action"? ^6-30
 
 
-Thus everything is under the power of something else,
-and that in turn is under the power of yet another, with no independence anywhere.
-Understanding this, one will not become angry
-at things, which are like magical illusions. ^6-31
+Thus, everything is dependent on others.
+And because of that dependence, it is not independent.
+Knowing this, one will not get angry
+at any phenomenon, just as one would not at a snake. ^6-31
 
 
-"But if there is no one who does the preventing,
-and preventing itself makes no sense" — one might object —
-"then it would be unreasonable
-to wish for suffering to be brought to an end by relying on that." ^6-32
+If you say, "What should be stopped by what?
+And stopping is not logical,"
+then desiring the cessation of suffering
+by relying on that (understanding) is not illogical. ^6-32
 
 
-Therefore, when I see an enemy or a friend
-behaving improperly,
-I should reflect, "This has arisen from such conditions,"
-and remain at ease in that understanding. ^6-33
+Therefore, whether it is an enemy or a friend,
+if you see them acting improperly,
+think, "This arose from such conditions,"
+and thus maintain peace of mind. ^6-33
 
 
-If things happened simply according to one's own wishes,
-then, since no embodied being wishes for suffering,
-suffering would never arise
-for any being at all. ^6-34
+If things happened as one wished,
+since no one desires suffering,
+all living beings
+would never experience suffering. ^6-34
 
 
-Yet through carelessness, people harm even themselves
-with thorns and the like;
-and, driven to obtain a woman or the like,
-they become desperate and even refuse food. ^6-35
+Due to carelessness, I myself
+inflict harm upon myself, such as thorns.
+To obtain women and so on,
+I become greedy and fast, among other things. ^6-35
 
 
-Some hang themselves, or leap from precipices,
-eat poison or unwholesome food,
-and, through unmeritorious conduct,
-bring harm upon themselves. ^6-36
+Some hang themselves and jump into chasms,
+eat poison and incompatible foods,
+and through unwholesome actions,
+inflict harm upon themselves. ^6-36
 
 
-If, when under the power of the afflictions,
-people even kill themselves, whom they love most,
-how then could they possibly refrain
-from causing harm to the bodies of others? ^6-37
+When under the power of troubling emotions,
+one even kills oneself, who is dear.
+How then could they not harm the bodies of others? ^6-37
 
 
-Since the afflictions give rise to such behavior
-that leads people even to kill themselves,
-if I cannot generate compassion for them,
-what sense does it make to become angry instead? ^6-38
+If, when troubling emotions arise,
+one engages in self-harm and so on,
+and vast compassion does not arise,
+what is the point of getting angry? ^6-38
 
 
-If it is the very nature of childish beings
-to cause harm to others,
-then to be angry at them is as unreasonable
-as being angry at fire for its nature of burning. ^6-39
+If harming others
+is the nature of foolish people,
+it is not logical to be angry at them,
+just as it is not logical to blame fire for its nature to burn. ^6-39
 
 
-And if the fault is merely incidental,
-while the nature of beings is actually good,
-then anger is likewise unreasonable —
-like being angry at the sky for the smoke that occasionally fills it. ^6-40
+But if that fault is temporary,
+and the nature of sentient beings is pure,
+then it is still not logical to be angry,
+just as it is rare for smoke to obscure the sky. ^6-40
 
 
-If, when struck by a stick and the like,
-I become angry at the one who wields it,
-that person too is driven by hatred —
-so it makes more sense to be angry at the hatred itself. ^6-41
+If you get angry at the one who wields
+a stick or other object to strike,
+that person too is driven by hatred.
+So it is more logical to be angry at hatred itself. ^6-41
 
 
-I myself have, in the past, done
-this same kind of harm to other beings;
-so it is fitting that this harm
-now comes to me, who harms sentient beings. ^6-42
+In the past, I inflicted
+similar harm upon sentient beings.
+Therefore, it is fitting that this harm
+now comes to me from those who harm sentient beings. ^6-42
 
 
-Both his weapon and my body
-are causes of this suffering;
-he has produced the weapon, and I have produced this body —
-so at which of the two should I be angry? ^6-43
+His weapon and my body
+are both causes of suffering.
+If he wields the weapon and my body is exposed,
+at whom should I be angry? ^6-43
 
 
-This human form is like an open sore,
-unbearable to the touch, full of suffering;
-blinded by my own craving, I have taken hold of it —
-so when it is hurt, at whom should I be angry? ^6-44
+A boil, like a human form,
+unbearable to touch, full of suffering.
+If I, full of craving, grasp it,
+at whom should I be angry for the harm? ^6-44
 
 
-Childish beings do not want suffering,
-yet they crave its very causes;
-so, harmed by their own fault,
-why should they resent others? ^6-45
+Foolish people do not desire suffering,
+yet they crave the causes of suffering.
+If they are harmed by their own faults,
+what is there to blame others for? ^6-45
 
 
-It is like the guardians of hell,
-or a forest of leaf-bladed swords —
-this too was produced by my own actions,
-so at whom should I be angry? ^6-46
+Just as the guardians of hell
+and forests of sword-leaves,
+are created by one's own actions,
+at whom should one be angry? ^6-46
 
 
-Impelled by my own past actions,
-those who now harm me have appeared;
-and because of this, they will go to the hells —
-is it not I who have destroyed them? ^6-47
+Driven by my own actions,
+those who harm me arise.
+If these beings go to hell because of this,
+have I not ruined them? ^6-47
 
 
-By relying on these very enemies,
-and through my patience, much wrongdoing of mine is purified;
-but because of me, they instead
-go to hell and suffer there for a long time. ^6-48
+By relying on these (harms),
+I accumulate much wrongdoing, failing in patience.
+By relying on me, those (harms)
+will go to hell and suffer for a long time. ^6-48
 
 
-I am the one who harms them,
-while they in fact benefit me —
-so why, O perverse and unruly mind,
-do you become angry in such a backward way? ^6-49
+I harm them,
+but they benefit me.
+Why then, perversely,
+do you, unruly mind, get angry? ^6-49
 
 
-If I possessed the virtue of a good intention,
-I would not go to hell;
-but if I protect myself in this way,
-what happens then to them? ^6-50
+If I had good intentions,
+I would not go to hell.
+If I protected myself,
+what harm would come to them here? ^6-50
 
 
-And if I retaliate and harm them in return,
-they will not thereby be protected,
-and my own conduct will be spoiled as well,
-so that my ascetic discipline will be ruined. ^6-51
+But if I return harm for harm,
+they will not be protected,
+and my own conduct will be ruined.
+Thus, my austerity will be destroyed. ^6-51
 
 
-The mind has no physical form,
-and so cannot be destroyed by anyone in any way;
-but because of its intense attachment to the body,
+The mind is not physical,
+so no one can destroy it anywhere.
+Because of strong attachment to the body,
 the body is harmed by suffering. ^6-52
 
 
-Contempt, harsh speech,
-and unpleasant words
-do not actually harm the body —
-so why, O mind, do you become so furiously angry? ^6-53
+If contempt, harsh words,
+and unpleasant speech
+do not harm the body,
+why, mind, do you get so angry? ^6-53
 
 
-If others' displeasure with me
-does not, in this life or the next,
-consume me,
-why then do I not want it? ^6-54
+If others' dislike of me
+does not consume me in this life or the next,
+why should I not want it?
+Why should I not want it? ^6-54
 
 
-If I do not want it
-because it obstructs my gain,
-then my gain will be lost in this life anyway,
-while my wrongdoing will remain firmly fixed. ^6-55
+If I dislike this because it hinders gain,
+then I should abandon my gain here,
+but wrongdoing will remain firm.
+My gain here will be lost, but wrongdoing will remain firm. ^6-55
 
 
-Better that I should die today
-than live long in wrongful livelihood;
-for even if one like me lives long,
-the suffering of death is the same in the end. ^6-56
+It is better for me to die right now
+than to live long by wrong livelihood.
+Even if I were to live for a long time,
+the suffering of death would still be the same. ^6-56
 
 
-Suppose one man dreams of experiencing happiness
-for a hundred years, and then wakes;
-and another experiences happiness
-for only a moment, and then wakes — ^6-57
+One who experiences happiness for a hundred years in a dream
+and then awakens,
+and another who experiences happiness for a moment
+and then awakens— ^6-57
 
 
-for both of them, once awake,
-that happiness will never return again.
-Whether a life is long or short,
-at the moment of death, it comes to just the same end. ^6-58
+For both of them, once awakened,
+that happiness is gone.
+Both a long life and a short life
+are the same at the time of death. ^6-58
 
 
-Even if one gains great wealth
+Even if one obtains much gain
 and enjoys happiness for a long time,
-one departs empty-handed and destitute,
-as if robbed by a thief. ^6-59
+just like one stripped by robbers,
+one goes naked and empty-handed. ^6-59
 
 
-If one argues, "By gaining wealth I can live,
-exhaust my wrongdoing, and perform merit,"
-but then becomes angry for the sake of wealth,
-will one not exhaust one's merit and increase wrongdoing instead? ^6-60
+If you say, "I will live by gain,
+exhaust wrongdoing, and perform good deeds,"
+then if you become angry for the sake of gain,
+will your good deeds not be exhausted and wrongdoing not arise? ^6-60
 
 
 If the very purpose for which I live
-is itself thereby corrupted,
-what use is such a life at all,
-one spent doing nothing but wrong? ^6-61
+is ruined,
+what good is a life
+that only commits wrongdoing? ^6-61
 
 
-If I become angry at those who speak ill of me
-because it causes beings to lose faith,
-then why do I not become equally angry
-when unpleasant things are said of others? ^6-62
+If you get angry at unpleasant speech
+because it harms sentient beings,
+why do you not get angry in the same way
+at your own unpleasant speech towards others? ^6-62
 
 
-If I tolerate the lack of faith in others,
-since it depends on something else,
-why can I not tolerate unpleasant speech about myself,
-since it too depends on the arising of afflictions? ^6-63
+If you tolerate those who lack faith,
+because their lack of faith depends on others,
+why do you not tolerate unpleasant speech,
+since it depends on the arising of troubling emotions? ^6-63
 
 
-Even toward those who destroy and defile
-images, stūpas, and the sacred Dharma,
-it is not right for me to feel hatred,
-since the Buddhas and such are not actually harmed by this. ^6-64
+Even towards those who mock and destroy
+images, stupas, and the sacred teachings,
+I should not feel hatred,
+for the Buddhas and so on are not harmed. ^6-64
 
 
-And toward those who harm
-my teachers, relatives, and friends,
-I should, as before, see this as arising from conditions,
-and turn back my anger. ^6-65
+Even towards those who harm
+gurus, relatives, and friends,
+seeing that they act due to conditions,
+turn away from anger. ^6-65
 
 
-Since embodied beings are harmed
-both by things with minds and things without,
-why single out those with minds for resentment?
-Therefore I should bear such harm with patience. ^6-66
+If harm is caused by both
+sentient beings with minds and inanimate objects without minds,
+why single out those with minds for blame?
+Therefore, endure the harm. ^6-66
 
 
-Some do wrong out of delusion,
-and some, out of delusion, become angry;
-which of them is faultless?
-Who among them is without fault at all? ^6-67
+Some commit faults due to ignorance.
+Others, ignorant, become angry.
+Who among them is faultless?
+And who among them is truly at fault? ^6-67
 
 
-Why did that person, in the past,
-commit the act that now leads them to harm others?
-Since everything depends on past actions,
-why should I resent this at all? ^6-68
+Why did I previously perform the actions
+that cause others to harm me?
+If everything depends on actions,
+why should I blame this (person)? ^6-68
 
 
-Having seen things in this way,
-I should strive diligently
-to accomplish merit, so that
-all beings come to feel loving kindness toward one another. ^6-69
+Seeing this, I must strive
+to perform good deeds, so that all beings
+may become mutually loving.
+I must strive to perform good deeds. ^6-69
 
 
-For example, when a fire breaks out in a house
-and spreads to another house,
-whatever fuel — straw and the like — feeds it
-should be removed and thrown away. ^6-70
+Just as when a house catches fire,
+and the fire spreads to another house,
+whatever dry grass and so on it spreads to,
+that must be removed and discarded. ^6-70
 
 
-Likewise, whatever the mind clings to
-that causes the fire of hatred to spread,
-should, out of fear that one's merit will be burned,
-be discarded at that very instant. ^6-71
+Similarly, wherever the fire of hatred
+spreads due to attachment,
+fearing that good deeds will be burned,
+one must immediately abandon that (attachment). ^6-71
 
 
-If a man condemned to die
-is freed after only losing a hand, is that not fortunate?
-If, through the sufferings of human life,
-one is freed from the hells, is that not fortunate? ^6-72
+If a person condemned to death has a hand cut off
+and is thereby freed, how is that not good?
+If by human suffering
+one is freed from hell, how is that not good? ^6-72
 
 
-If I cannot even bear
-this small suffering of the present,
-then why do I not turn back the anger
-that is the cause of the suffering of hell? ^6-73
+If I cannot endure even this much present suffering,
+then why do I not turn away from anger,
+which is the cause of hellish suffering?
+Why do I not turn away from anger? ^6-73
 
 
-For the sake of desires, I have already endured
-thousands of burnings and the like in the hells,
-yet I have accomplished
-neither my own welfare nor that of others. ^6-74
+For the sake of desires, one experiences
+thousands of burnings and so on in hell,
+yet I have not accomplished my own purpose
+or the purpose of others. ^6-74
 
 
-This present suffering is not nearly so severe,
-and it brings about a great purpose besides;
-so I should feel nothing but joy
-at this suffering that removes the harm of all beings. ^6-75
+This (present suffering) is not so harmful,
+and great purposes can be accomplished by it.
+Therefore, it is fitting to rejoice
+in suffering that removes harm from beings. ^6-75
 
 
-If, when others are praised for their good qualities,
-I would feel joy and happiness at that,
-why then, O mind, do you not
-feel that same joy when you yourself are praised? ^6-76
+If, when others praise those with good qualities,
+you obtain the happiness of joy,
+why do you not also rejoice
+by praising them yourself, mind? ^6-76
 
 
-This happiness of joy that you feel
-is a source of happiness free of any fault;
-it is sanctioned by those who possess good qualities,
-and is also the supreme way to draw others to you. ^6-77
+This happiness of your joy
+is a blameless source of happiness.
+It is approved by those with good qualities,
+and it is also the supreme way to attract others. ^6-77
 
 
-If you say you do not want this happiness
-of thinking "may others too become happy in this way,"
-then you should also give up paying wages and the like,
-and you will lose out, both visibly and invisibly. ^6-78
+Furthermore, if you do not wish for this happiness (of your own joy),
+even when others become happy,
+then because you abandon giving rewards and so on,
+both visible and invisible benefits will be lost. ^6-78
 
 
-When my own good qualities are spoken of,
-I want others to feel happy too;
-so when the good qualities of others are spoken of,
-why do I not want to feel happy myself? ^6-79
+When your own good qualities are praised,
+you wish for others to be happy too.
+But when others' good qualities are praised,
+you do not wish for your own happiness. ^6-79
 
 
-Since I have generated the wish for awakening
-out of a desire for the happiness of all beings,
-why then, when beings find happiness on their own,
-should I become angry at that? ^6-80
+Having generated the thought of awakening,
+desiring all sentient beings to be happy,
+if sentient beings find happiness on their own,
+why then should you be angry? ^6-80
 
 
-If I claim to wish that beings become buddhas,
-worshiped by the three worlds,
-then why am I so tormented
-by seeing them receive some small mark of respect? ^6-81
+If you desire sentient beings to become Buddhas,
+who are worshipped by the three worlds,
+why do you grieve when you see them
+receiving even a little respect? ^6-81
 
 
-If a relative you support and care for
-finds a livelihood through some other relation,
-would you not be glad, but instead
-grow angry once again? ^6-82
+If someone you support
+receives support from a relative,
+would you not rejoice,
+or would you get angry instead? ^6-82
 
 
-If you would not even wish that for beings,
-then what kind of wish for their awakening do you have?
-How can there be any bodhicitta at all
-in one who becomes angry when another prospers? ^6-83
+If you do not wish for beings to prosper,
+what is your desire for their awakening?
+How can one who gets angry at others' prosperity
+have the thought of awakening? ^6-83
 
 
-Whether that gain comes from you
-or remains in the benefactor's own house,
-either way it was never yours to begin with —
-so what does it matter whether it is given to you or not? ^6-84
+If he obtains it from that (patron),
+or if it remains in the patron's house,
+and it is not yours in any case,
+what does it matter whether it is given or not? ^6-84
 
 
-Why would you cast aside your own merit, faith,
-and good qualities?
-Tell me, who does not get angry
-at their own lack of self-restraint? ^6-85
+Why do you abandon good deeds, faith,
+and your own good qualities?
+If one does not hold onto what is gained,
+tell me, who would not get angry? ^6-85
 
 
-Not only do you feel no remorse
-for the wrongs you yourself have committed,
-but you even wish to compete
-with others who have performed good deeds! ^6-86
+End of the Second Section. ^6-86
 
 
-*[End of the second section.]*
+Even if an enemy is unhappy,
+what joy is there for you in that?
+Your mere wish
+will not be a cause of harm to them. ^6-87
 
 
-Even if your enemy is unhappy,
-what is there for you to be glad about?
-Your mere wish for that
-will not become a cause of harm to him. ^6-87
-
-
-And even if, through your wish, his suffering
-did come about, what would you have to be glad about?
+Even if that suffering were to come about by your wish,
+what joy would there be for you?
 If you say, "I would be satisfied,"
-is there any greater ruin than that? ^6-88
+what greater ruin could there be than that? ^6-88
 
 
-That hook, cast by the fisherman of the afflictions,
-is truly unbearably sharp;
-once caught by it, I will be boiled
-by the guardians of hell in a cauldron of hell. ^6-89
+This unbearable hook of troubling emotions,
+cast by the fisherman of afflictions,
+once caught, my mind will be cooked
+by the guardians of hell in the pot of hell. ^6-89
 
 
-Being honored and praised and attended upon
-brings no increase in merit, no increase in lifespan,
-no increase in my strength, no freedom from illness,
-and no physical comfort either. ^6-90
+Praise and fame
+do not become good deeds, nor do they greatly increase them.
+They do not increase my strength, nor do they make me free from illness.
+Nor do they make my body happy. ^6-90
 
 
-If I truly understood my own real benefit,
-what benefit would there be in it for me?
-If all I want is a pleasant feeling of mind,
-I might as well take up gambling and drink. ^6-91
+If I know my own purpose,
+what self-interest is there in that (praise and fame)?
+If I only desire mental happiness,
+then I should rely on ornaments, alcohol, and so on. ^6-91
 
 
-For the sake of reputation, people squander their wealth,
-and even take their own lives;
-but what use are mere words?
-Who could possibly find comfort in them after death? ^6-92
+If for the sake of fame, wealth is lost,
+and I even kill myself,
+what good are mere words?
+Who would be happy with that flesh? ^6-92
 
 
 When a sandcastle collapses,
-children cry out in distress;
-in just the same way, when praise and fame decline,
-my own mind behaves just like a child's. ^6-93
+children cry out in distress.
+Similarly, when praise and fame are lost,
+my own mind is like a child's. ^6-93
 
 
-Since a mere sound has no mind of its own,
-it cannot possibly have any intention to praise me;
-one might say that what pleases me is the thought
-that others feel joy toward me — this is supposedly the cause of my joy. ^6-94
+Since sound has no mind,
+it cannot have the intention to praise me.
+Is it the fame that others are happy with me
+that is the cause of my joy? ^6-94
 
 
-But whether that joy belongs to someone else
-or even to myself, what benefit is it to me
-if another feels joy? That joy and pleasure
-belong entirely to that other person; I get no share of it. ^6-95
+Whether it is others or myself,
+what good does others' happiness do for me?
+That joy and happiness belong to them alone;
+I do not receive any share of it. ^6-95
 
 
-If I were happy because that other person is happy,
-then I should feel that way about everyone equally;
-so why, when others feel joy in someone else,
-do I myself not feel happy? ^6-96
+If I am happy because they are happy,
+then I should do the same for everyone.
+How can I rejoice in others' happiness,
+and yet not be happy myself? ^6-96
 
 
-Therefore, the joy I feel
-merely because someone says "I am praised" —
-this too, being unreasonable in just this way,
-is nothing more than childish behavior. ^6-97
+Therefore, the joy that arises in me
+when I think, "I am praised,"
+is also not logical in that way,
+and is merely childish behavior. ^6-97
 
 
-Praise and the like distract me,
-and they also destroy my sense of disillusionment with saṃsāra;
-they breed envy toward those with good qualities,
-and they destroy excellence as well. ^6-98
+Praise and so on distract me.
+They also destroy weariness (of samsara).
+They cause envy towards those with good qualities,
+and destroy prosperity. ^6-98
 
 
-Therefore, are not those who stand ready
-to destroy my praise and reputation
-in fact acting to protect me
-from falling into the lower realms? ^6-99
+Therefore, those who are present
+to destroy my praise and so on—
+have I not engaged with them
+to protect myself from falling into lower realms? ^6-99
 
 
-I, who seek liberation,
-have no need to be bound by gain and honor;
-so how could I possibly be angry
-at those who free me from such bonds? ^6-100
+I seek liberation,
+and do not need the bondage of gain and respect.
+How can I be angry at those
+who free me from bondage? ^6-100
 
 
-As if by the Buddha's own blessing,
-those who bar the door
-against my being led into ways of suffering —
-how could I possibly be angry at them? ^6-101
+I wish to enter suffering,
+just as Buddhas bless.
+How can I be angry at those
+who have become the very gateway to not abandoning (beings)? ^6-101
 
 
-"But this person is an obstacle to my merit" —
-even so, it is not right to be angry at them;
-for there is no austerity equal to patience,
-so should I not instead rely on them? ^6-102
+It is not logical to be angry at them,
+thinking, "This hinders my good deeds."
+If there is no austerity equal to patience,
+should I not rely on it (patience)? ^6-102
 
 
-And if it is through my own fault
-that I fail to be patient with this,
-then it is I myself, and not this person,
-who obstructs the very cause of merit here. ^6-103
+If, due to my own faults,
+I do not practice patience towards this (harm),
+then I am merely hindering
+the very cause of good deeds that is present here. ^6-103
 
 
-Whatever, in the absence of something, does not arise,
-but arises when that thing is present,
-is that thing's actual cause —
-so how could it be called an obstacle? ^6-104
+That without which something does not arise,
+and which, when present, causes it to arise,
+is indeed its cause.
+How can that be called a hindrance? ^6-104
 
 
 A beggar who arrives at the right time
-is no obstacle to generosity;
-and one who ordains a person
-cannot be called an obstacle to their ordination. ^6-105
+is not a hindrance to generosity.
+One who causes renunciation to arise
+should not be called a hindrance to renunciation. ^6-105
 
 
-Beggars in this world are common enough,
-but those who cause harm are rare;
-for if I have done no harm to others,
-no one, in turn, does harm to me. ^6-106
+In this world, there are many beggars,
+but those who cause harm are rare.
+For if one does not harm in return,
+no one will cause harm. ^6-106
 
 
-Therefore, just as an unearned treasure
-appearing in one's house is a joy without effort,
-so I should rejoice in my enemy,
-since he has become a helper in my practice of awakened conduct. ^6-107
+Therefore, just as a treasure appears
+in a house without effort,
+I should rejoice in my enemies,
+for they are companions on the path to awakening. ^6-107
 
 
-Since it is through this enemy and myself together
-that this is accomplished,
-the fruit of patience should rightly be offered first to him,
-since he is, in this way, the very cause of my patience. ^6-108
+Since this (enemy) and I have accomplished (patience),
+the fruit of patience
+should first be offered to this (enemy).
+For this (enemy) is the cause of patience. ^6-108
 
 
-"But since he had no intention of helping me develop patience,
-he does not deserve to be honored" — one might say.
-But then why do we honor the sacred Dharma,
-which is also merely a proper cause for accomplishment? ^6-109
+If you say, "This enemy should not be honored,
+because they have no intention to cultivate patience,"
+then why do you honor the sacred teachings,
+which are also a cause for accomplishment? ^6-109
 
 
-"If he had the intention to harm me,
-he would not deserve to be honored" — one might say.
-But if he instead strove to help me, like a doctor,
-how then could my patience ever be accomplished? ^6-110
+If you say, "This enemy should not be honored,
+because they intend to cause harm,"
+then if one strives to benefit like a doctor,
+how can my patience be accomplished? ^6-110
 
 
 Therefore, since patience arises
-in dependence on a mind that is intensely hostile,
-that hostile mind itself is the true cause of patience,
-and so deserves to be honored like the sacred Dharma. ^6-111
+by relying on a mind full of hatred,
+that (hatred) is indeed the cause of patience.
+Thus, it is fitting to honor it like the sacred teachings. ^6-111
 
 
-For this reason the Sage has said
-that sentient beings are a field, just as the Victors are a field;
-many have attained the perfection of excellence
-by pleasing these very beings. ^6-112
+Therefore, the Buddha taught that sentient beings
+are a field of merit, just like the field of the Victorious Ones.
+Many, by pleasing these (beings),
+have thus perfected the transcendent qualities. ^6-112
 
 
-Since the qualities of a buddha arise equally
-from sentient beings and from the Victors,
-what principle is there
-by which the Victors are shown respect but not sentient beings? ^6-113
+Since the Dharma of Buddhahood is accomplished
+through both sentient beings and the Buddhas,
+why should one not show respect to sentient beings
+in the same way one shows respect to the Buddhas? ^6-113
 
 
-The greatness of a good intention lies
-not in itself, but in its result;
-sentient beings too possess this same quality,
-and so, in that respect, the two are equal. ^6-114
+The good qualities of intention are not inherent;
+they come from the result. Similarly,
+sentient beings also have good qualities.
+Therefore, they are equal. ^6-114
 
 
-Whatever offering is made to those who possess loving-kindness
-is itself the greatness of sentient beings;
-and whatever merit comes from faith in the Buddha
-is likewise the greatness of the Buddha. ^6-115
+The offering made to those with loving-kindness
+is the greatness of sentient beings.
+The good deeds of faith in the Buddhas
+are also the greatness of the Buddhas. ^6-115
 
 
-Since sentient beings share in bringing about
-the qualities of a buddha, they are held to be equal in that respect;
-yet none are truly equal
-to the Buddhas, whose oceans of qualities are boundless. ^6-116
+Since there is a part (of the cause) for the accomplishment of Buddhahood,
+they are considered equal in that respect.
+But no one is equal to the Buddhas,
+whose ocean of good qualities is boundless. ^6-116
 
 
-Even if only a small portion
-of that single, supreme mass of qualities
-appears in something, an offering of the three worlds
-would still be too small to honor it properly. ^6-117
+Even if a mere fraction of the supreme collection
+of good qualities appears in someone,
+to make an offering to them,
+even offering the three realms would be too little. ^6-117
 
 
-Since sentient beings possess a portion
-of what gives rise to the Buddha's supreme qualities,
-it is fitting, in proportion to that portion alone,
-that they too be honored as worthy of offering. ^6-118
+Since sentient beings possess a fraction
+of the supreme Dharma that gives rise to Buddhahood,
+it is fitting to honor sentient beings,
+aligning with this much (quality). ^6-118
 
 
-Furthermore, to those who are true, guileless friends
-and who bring immeasurable benefit,
-what other way is there to repay them
-than by bringing joy to sentient beings? ^6-119
+Furthermore, to those who have become unwavering friends
+and performed immeasurable benefits,
+what else could repay their kindness
+apart from pleasing sentient beings? ^6-119
 
 
-Since they repay the kindness of those
-who even give up their bodies and enter the hell of no respite for their sake,
-therefore, even if these beings do great harm,
-I should treat all of it as something entirely good. ^6-120
+Since benefiting those who give up their bodies
+and enter the lowest hell repays their kindness,
+therefore, even if these (beings) cause great harm,
+one should treat them with all goodness. ^6-120
 
 
-Since even my own Lord
-does not spare even his own body for their sake,
-how could I, deluded as I am toward them,
-act with pride, and not instead act as their servant? ^6-121
+Since my own masters
+do not even care for their own bodies,
+how can I, a foolish person,
+be arrogant and not act as their servant? ^6-121
 
 
-Since the Sages rejoice when these beings are happy,
-and are displeased when they are harmed,
-pleasing these beings pleases all the Sages,
-and harming them harms the Sages as well. ^6-122
+Those whose happiness makes the Buddhas rejoice,
+and whose harm causes them displeasure—
+by their happiness, all Buddhas rejoice;
+by harming them, one harms the Buddhas. ^6-122
 
 
-Just as, when the whole body is ablaze with fire,
-no desired object could bring the mind pleasure,
-so too, when sentient beings are harmed,
-there is no way to please the greatly compassionate ones. ^6-123
+Just as one whose body is completely ablaze
+cannot find mental peace through any desire,
+similarly, if sentient beings are harmed,
+there is no way for the Great Compassionate Ones to rejoice. ^6-123
 
 
-Therefore, for whatever harm I have done to beings
-that has displeased all the greatly compassionate ones,
-today I individually confess each such wrong,
-and pray that the Sage forgive me for all I have done to displease him. ^6-124
+Therefore, whatever displeasure
+all the Great Compassionate Ones felt because I harmed beings,
+I confess that wrongdoing individually today.
+May the Buddhas forgive that displeasure. ^6-124
 
 
-From now on, in order to please the Tathāgatas,
-I will become the servant of the world;
-though the multitudes trample on my head
-or even kill me, I will not retaliate — may the Protector of the world be pleased. ^6-125
+To please the Buddhas,
+from today onwards, I go as a servant to the world.
+Let the multitude of beings step on my head,
+or kill me; I will not resist. May the Protectors of the world be pleased. ^6-125
 
 
-There is no doubt that the compassionate nature
-of these Protectors regards all these beings as their very self;
-so why would I not show respect
-to these beings, seen in the very form of the Protector himself? ^6-126
+There is no doubt that all these beings
+are considered as one's own by the Great Compassionate Ones.
+Why then should I not respect these very beings,
+whom the Protectors see as their own essence? ^6-126
 
 
-This alone is what pleases the Tathāgatas;
-this alone truly accomplishes my own welfare;
-this alone dispels the suffering of the world —
-therefore I should always do this. ^6-127
+This (pleasing beings) is what pleases the Buddhas.
+This is also the true accomplishment of one's own purpose.
+This also removes the suffering of the world.
+Therefore, I must always do this. ^6-127
 
 
-For example, though a single official of the king
-may cause harm to many people,
-far-sighted subjects,
-even if capable, do not retaliate against him, ^6-128
+For example, if a king's servant
+harms many people,
+those with foresight,
+even if capable, will not harm him in return. ^6-128
 
 
-for he is not acting alone —
-the king's own power stands behind him.
-Likewise, I should never look down on
-any weak being who causes me harm, ^6-129
+For he is not alone;
+the king's power is his power.
+Similarly, one should not despise and kill
+any seemingly weak person who causes harm. ^6-129
 
 
-for behind them stand
-the guardians of hell and the compassionate ones;
-so, as common people appease a fierce king,
-I should strive to please all sentient beings. ^6-130
+For the guardians of hell
+and the Great Compassionate Ones are their allies.
+Therefore, one should please sentient beings,
+just as common people please a cruel king. ^6-130
 
 
-Even if a king, when angered,
-were to inflict the sufferings of hell
-on those who have displeased him,
-could he really do that? ^6-131
+Even if a king gets angry,
+the suffering that one experiences
+by displeasing sentient beings—
+does that (suffering) cause the harm of hell? ^6-131
 
 
-But even if a king, when pleased,
-gave everything he could,
-could he ever grant what is attained
-by pleasing sentient beings — buddhahood itself? No, that is impossible. ^6-132
+Even if a king is pleased,
+what one obtains by pleasing sentient beings
+cannot be given even by Buddhahood.
+It is impossible for Buddhahood to bestow it. ^6-132
 
 
-Setting aside even the future attainment of buddhahood
-that comes from pleasing beings,
-have I not seen how, in this very life,
-it brings great glory, fame, and happiness? ^6-133
+Let alone the future accomplishment of Buddhahood
+that arises from pleasing sentient beings—
+have you not seen great glory,
+fame, and happiness in this very life? ^6-133
 
 
-Through patience, in future lives one gains beauty and the like,
-freedom from illness and good repute,
-an extremely long life,
-and the vast happiness of a universal monarch. ^6-134
+While in the cycle of existence, through patience, one obtains
+beauty and so on, freedom from illness, and fame,
+a very long life,
+and the great happiness of a universal monarch. ^6-134
 
 
-This concludes the sixth chapter, entitled "Teaching Patience," from the Way of the Bodhisattva. ^6-a
+From "Engaging in the Conduct of a Bodhisattva," this is the sixth chapter, called "The Teaching on Patience." ^6-a

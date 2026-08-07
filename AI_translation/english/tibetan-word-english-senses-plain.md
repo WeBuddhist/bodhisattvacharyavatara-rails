@@ -1,3517 +1,4257 @@
-ཀ: {a post: post}
-ཀ་ཆེན: {a great post: great post}
-ཀ་བ: {pillars (term): pillars}
-ཀརྞ་པ: {Karṇapa (proper name): Karṇapa}
-ཀུན: {all (term): all; every (term): every; everyone (term): everyone; entirely (manner/adverb): entirely; everything (term): everything; the whole: whole; each (term): each}
-ཀུན་: {utterly, all: utterly}
-ཀུན་ཅི་རུང: {what use (rhetorical): what use}
-ཀུན་ཏུ: {throughout, the whole world: whole world}
-ཀུན་ཏུ་བཟང་པོ: {Samantabhadra (proper name): Samantabhadra}
-ཀུན་དུ: {everywhere, always: anywhere / everything / in every life}
-ཀུན་དུ་བཟང: {Samantabhadra (proper name): Samantabhadra}
-ཀུན་ན: {every (term): every}
-ཀུན་ནས: {completely, entirely, throughout: completely / throughout / entirely; whole body / by the whole world (context-specific): whole body / by the whole world; every (term): every}
-ཀུན་ནས་མེ་འབར་བ: {ablaze with fire on every side: ablaze with fire}
-ཀུན་རྨོངས: {delusion in general (term): delusion in general}
-ཀུན་རྫོབ: {conventionally (adverb): conventionally; conventional, relative (adjective/noun): relative / conventional / conventional reality; another's convention (term): another's convention}
-ཀུན་རྫོབ་ཀྱི་བློ: {the relative (conventional) intellect: relative intellect}
-ཀུན་རྫོབ་ཀྱི་སྤྱོད་ཡུལ: {the object of the (ordinary) intellect: object of the intellect}
-ཀུན་རྫོབ་ཏུ: {relatively, conventionally: relative}
-ཀུན་ལ: {to all, to everyone: to them / to the whole world}
-ཀུནྡའི: {of the kunda flower: kunda flower}
-ཀུནྡའི་མདོག: {the color of the kunda flower: color of kunda flower}
-ཀེང་རུས: {a skeleton: skeleton}
-ཀོ་བ: {leather (term): leather}
-ཀྱི་ཧུད: {alas! (exclamation): alas}
-ཀླད་ཀྱི་དོན: {Prefatory Material (proper name/title): Prefatory Material}
-ཀླད་ནད: {headaches (term): headaches}
-ཀླུ་སྒྲུབ: {Nāgārjuna (proper name): Nāgārjuna}
-ཀློག་པ: {study (term): study}
-ཁ: {mouth (body part): mouth}
-ཁ་གདངས: {mouth wide open (term): mouth wide open}
-ཁ་ཆུ: {saliva (term): saliva}
-ཁ་ཆེ: {Kashmiri (proper name/title): Kashmiri}
-ཁ་ཆེའི་དཔེ: {a Kashmiri manuscript: Kashmiri manuscript}
-ཁ་ཏ: {cherishing (flattery): cherishing}
-ཁ་ཏ་བྱས་པ: {coddling (action/state): coddling}
-ཁ་ཏ་བྱེད: {drag about, flatter: drag about}
-ཁ་ཐོན: {recitation (term): recitation}
-ཁ་དོག: {colors (term): colors}
-ཁ་ན་མ་ཐོ: {blame (term): blame}
-ཁ་ན་མ་ཐོ་མེད: {free of any fault (term): free of any fault}
-ཁ་ན་མ་ཐོ་མེད་དངོས: {blameless (term): blameless}
-ཁ་ཕྱེ: {peeled back (term): peeled back}
-ཁ་ཟས: {food (term): food}
-ཁ་ཟེར: {speaks ill of: speaks ill}
-ཁང་པ: {a chamber: chamber}
-ཁང་བཟང: {a mansion: mansion}
-ཁང་བརྩེགས: {a many-storied palace: many-storied palace}
-ཁམ: {a mouthful: mouthful}
-ཁམས: {realms, worlds: realms / worlds}
-ཁམས་གསུམ: {the three worlds: three worlds}
-ཁར: {in the jaws (of): jaws}
-ཁར་གནས་པ: {standing at the brink (term): standing at the brink}
-ཁས་བླངས་པ: {accepted as a working premise (term): accepted as a working premise}
-ཁུ་བ: {semen (term): semen}
-ཁེངས: {puffed up (with pride): puffed up}
-ཁོ་ན: {solely, alone: solely / alone}
-ཁོ་ནར: {merely (manner/adverb): merely}
-ཁོ་ནས་: {only (manner/adverb): only}
-ཁོང: {internal, within: internal}
-ཁོང་ཁྲོ: {anger (mental state): anger}
-ཁོང་ཁྲོ་བ: {anger (mental state): anger}
-ཁོང་ཁྲོ་སྐྱེ: {anger arises (term): anger arises}
-ཁོན: {grievances (term): grievances}
-ཁོན་དུ་བཟུང་ནས་: {grasping (it) as a grudge: grasping as a grudge}
-ཁོར་ཡུག: {rims (term): rims}
-ཁྭ: {crow(s): crow / crows}
-ཁྱད: {difference (term): difference; importance (term): importance}
-ཁྱད་པར: {distinction, difference: distinction / difference; extraordinary, inherent: extraordinary / inherent}
-ཁྱད་བསད: {firmness or weakness of habituation, or to disregard: firmness or weakness / difference in habituation / disregard}
-ཁྱད་ཞུགས་སྤྱད: {practiced in ascending order (term): practiced in ascending order}
-ཁྱད་འཕགས: {surpasses, exceptional: surpasses}
-ཁྱབ: {spreads (term): spreads}
-ཁྱབ་པ: {pervading, spreading, filled: spreading everywhere / spreading / filled}
-ཁྱབ་པར་འགྱུར: {spreads (term): spreads}
-ཁྱབ་འགྱུར: {spreads (term): spreads}
-ཁྱི: {dogs (term): dogs}
-ཁྱིམ: {home (place): home}
-ཁྱིམ་གཞན: {another house (term): another house}
-ཁྱོད: {you (pronoun/address): you; O mind (self-address): O mind; I (pronoun/address): I}
-ཁྱོད་ཀྱི: {your (term): your}
-ཁྱོད་ཀྱིས: {by you (term): by you}
-ཁྲག: {blood (body part): blood}
-ཁྲི: {chairs (term): chairs}
-ཁྲིད: {tug, lead: tug}
-ཁྲིད་པ: {being led (action/state): being led}
-ཁྲིད་བྱེད: {to lead: lead}
-ཁྲུས: {to bathe, bathing: bathe / bathing}
-ཁྲུས་བྱས: {bathing (action/state): bathing}
-ཁྲོ: {angry, become angry: angry / become angry; anger (noun): anger}
-ཁྲོ་གཉེར: {scowling (action/state): scowling}
-ཁྲོ་བ: {angry (adjective/verb): angry; anger (noun): anger}
-ཁྲོ་བ་དེ་བཞིན་སྐྱེ་བར་འགྱུར: {anger arises in just the same way (term): anger arises in just the same way}
-ཁྲོ་བའི: {of anger (term): of anger}
-ཁྲོ་བའི་སེམས: {a mind of anger: mind of anger}
-ཁྲོ་བར: {angrily, anger: angry / anger}
-ཁྲོ་བར་བྱེད: {becomes angry: become angry}
-ཁྲོ་བས: {angered (action/state): angered}
-ཁྲོ་མི་འགྱུར: {will not become angry (term): will not become angry}
-ཁྲོ་འཇོམས་པ་དེ་ནི་བདེ: {whoever overcomes anger finds happiness (term): whoever overcomes anger finds happiness}
-ཁྲོད: {amid, among, in the midst of: amid / among / midst}
-ཁྲོས: {became angry: angered / becomes angry / become angry}
-ཁྲོས་: {enraged (action/state): enraged}
-ག་ཆད: {decline (term): decline}
-ག་པུར: {camphor (term): camphor}
-ག་ཞ: {mockery (term): mockery}
-ག་ཞར: {mockery, belittling: mockery / belittling}
-ག་ལ: {how could, what kind: what kind / how could}
-ག་ལ་ཡོད: {how can there be (rhetorical): how can there be}
-ག་ལ་ལང: {where could (this) be found: where could be found}
-ག་ཤེད: {who knows where (term): who knows where}
-གང: {whatever: whatever / these / all these; what (interrogative): what}
-གང་གཞན་: {whoever else: whoever}
-གང་གི: {whatever (term): whatever}
-གང་གིས: {by what, by which: by what / by which}
-གང་ཅིའང་རུང: {whatever (term): whatever}
-གང་དག: {whoever, those who: whoever / those who}
-གང་དང་གང: {whatever (term): whatever}
-གང་དང་གང་དུ: {wherever (term): wherever}
-གང་དུ་: {where (term): where}
-གང་ན་ཡང: {anywhere (term): anywhere}
-གང་བར: {filled (action/state): filled}
-གང་ཚེ: {whenever (term): whenever}
-གང་ཞིག: {whoever, one who: whoever / one who; whatever (term): whatever; how could (rhetorical): how could}
-གང་འདོད: {whatever is wished: whatever}
-གང་ཡིན: {whatever (term): whatever}
-གང་ཡིན་པའམ་: {whatever (term): whatever}
-གང་ལ: {in whom, whatever: in whom / whatever}
-གང་ལགས: {whatever (term): whatever}
-གང་ལས་གང་ནི: {whatever is not (prohibited here) but taught elsewhere: whatever is not... but taught in another}
-གཅིག: {single, one: single / one / one thing; alone (term): alone; alike, one and the same: alike / one and the same; one part (term): one part; continuum (term): continuum}
-གཅིག་: {single, one: single}
-གཅིག་གིས: {by a single (one): by a single}
-གཅིག་ཉིད: {oneness (term): oneness}
-གཅིག་ཏུ: {solely, as one and the same: solely / one and the same}
-གཅིག་པ: {one (quantity): one}
-གཅིག་པུ: {alone, sole: alone / one alone / sole; single (of one kind): single / one single kind; all on its own (term): all on its own}
-གཅིག་པུས: {by myself alone: I alone}
-གཅིན: {urine (term): urine}
-གཅེར་བུ: {naked (action/state): naked}
-གཅོད: {cutting, wounding: cutting / wounding}
-གཅོད་བྱེད: {cuts through (term): cuts through}
-གཅོམ་བསྐྱུངས: {gentle and restrained (action/state): gentle and restrained}
-གཉའ་ཤིང་: {a yoke: yoke}
-གཉི་ག: {both sides (term): both sides}
-གཉིད: {sleep, sleepiness: sleep / sleepiness}
-གཉིད་: {sleep (term): sleep}
-གཉིད་མ་ལོག: {do not sleep (term): do not sleep}
-གཉིད་ལོག: {asleep, sleeping: asleep / sleeping}
-གཉིས: {two parties (term): two parties}
-གཉིས་ཀ: {both traditions/parties: both traditions}
-གཉེན: {relative(s), friend: relatives / relative / friends}
-གཉེན་པོ: {remedy, antidote: remedy / antidote}
-གཉེན་བཤེས: {relatives and friends (term): relatives and friends}
-གཉེར་བར་འདོད་པ: {seeks only (manner/adverb): seeks only}
-གཏང: {give away (term): give away}
-གཏང་བར: {to give up: give up}
-གཏང་མི་བྱ: {should never abandon (term): should never abandon}
-གཏད་པ: {fixed (action/state): fixed}
-གཏན: {constantly (manner/adverb): constantly}
-གཏན་དུ: {forever (term): forever}
-གཏན་ལ་ཕབ་པ: {finalized (action/state): finalized}
-གཏམ: {talk, gossip, teaching: gossip / talk / teaching}
-གཏི་མུག: {delusion (mental state): delusion}
-གཏིང: {fathomed, depth: fathomed}
-གཏིང་དཔོགས: {fathomed (action/state): fathomed}
-གཏུམ: {fierce (term): fierce}
-གཏེར: {treasure (term): treasure}
-གཏོགས: {counts as (term): counts as}
-གཏོང: {to give: give}
-གཏོང་བ: {giving, giving away: given / giving away}
-གཏོལ་མེད: {uncertain (term): uncertain}
-གདམས: {instructed (action/state): instructed}
-གདུག་པ: {terrible (term): terrible}
-གདུགས: {parasols (term): parasols}
-གདུང: {harm, torment: harm}
-གདུང་: {torment (term): torment}
-གདུང་བ: {tormented, lamented: tormented / lamented}
-གདུང་བར: {tormented (action/state): tormented}
-གདུང་འགྱུར་བ་: {will torment (term): will torment}
-གདུངས: {scorched (action/state): scorched}
-གདུངས་པ: {scorched (action/state): scorched}
-གདུངས་པར: {tormented (action/state): tormented}
-གདོང: {face (term): face}
-གདོན་མི་ཟ་: {surely, certainly: surely}
-གདོན་མི་ཟ་བར: {certainly: certainly / certain}
-གདོལ་པ: {an outcaste butcher: outcaste butcher}
-གདོལ་པ་: {outcastes (term): outcastes}
-གནང: {permitted (action/state): permitted}
-གནས: {dwelling place, location: dwelling / place / dwelling place / private place / house; to remain: remains / remain; to reside, dwell: reside / dwell / dwells / resides; found, located: found; present, existing: present; basis, support (philosophical): support}
-གནས་: {to dwell, settle: settles / dwell}
-གནས་ཀྱང: {even while remaining: remaining}
-གནས་ན: {while living: living}
-གནས་པ: {to abide, remain, be positioned: positioned / abides / standing / remains}
-གནས་པའི: {who dwell (term): who dwell}
-གནས་པར: {to dwell: dwell}
-གནས་བཞིན་དུ་: {while dwelling (action/state): while dwelling}
-གནས་བྱ: {to remain: remain}
-གནས་མལ: {bed (term): bed}
-གནས་མིན་: {misplaced (wrongly directed): misplaced}
-གནས་འཆའ་ན་: {if it remains lodged: remains lodged}
-གནས་སྐབས: {situation, state: situation / situations / state}
-གནོད: {to harm: harm / harmed / harming / harms / inflict harm; refuted (philosophical): refuted / refute; suffering (action/state): suffering; ailment (term): ailment}
-གནོད་: {hardships, harm: hardships}
-གནོད་པ: {harm: harm / harms / harmed; sufferings (term): sufferings; adversity (term): adversity; hurt (term): hurt; disturbance (term): disturbance}
-གནོད་པ་: {harm (term): harm}
-གནོད་པ་བྱས: {harmed them: harm them}
-གནོད་པ་བྱེད་པ: {does harm: does me harm / causes harm}
-གནོད་པའི: {of harm: harm}
-གནོད་པའི་: {of harm (term): of harm}
-གནོད་པར: {harm, to be harmed: harm / harmed}
-གནོད་པར་བྱེད: {can do harm (term): can do harm}
-གནོད་བྱ་: {to be harmed: to harm}
-གནོད་བྱས: {harmed them: harm them}
-གནོད་བྱེད: {one who harms, that which causes harm: those who harm / one who harms / leads to harm / causes harm / causes me harm}
-གནོད་བྱེད་: {offense, harm: offense / harm}
-གནོད་བྱེད་པ་: {one who does harm: doing harm}
-གནོད་མེད: {without harm (term): without harm}
-གཙང: {clean, pure: clear / clean / pure}
-གཙང་མ: {clean (term): clean}
-གཙུག་ལག་ཁང: {monasteries (term): monasteries}
-གཙོ་བོ: {primal nature/substance (Sāṃkhya technical term): primal nature / primal substance}
-གཙོར: {foremost (term): foremost}
-གཞན: {other(s), other people: others / other / someone else / something else / anything else / else / nothing else / them / benefit of others / criticism of others; another (specific): another / another's / another person; elsewhere (term): elsewhere; separate, external, different: external / apart / different; unsolicited, unasked: unasked; philosophical 'other' (not identical): not-other; non-Buddhist opponents: non-Buddhists}
-གཞན་གྱི: {others' (term): others'}
-གཞན་གྱི་དོན: {the welfare of others: welfare of others / benefit of others}
-གཞན་གྱི་སྡུག་བསྔལ: {the suffering of others: suffering of others}
-གཞན་གྱི་སྡུག་བསྔལ་ཞི: {pacifying the suffering of others (term): pacifying the suffering of others}
-གཞན་ཉིད: {an entirely different person: entirely different person}
-གཞན་དག: {others: others / next}
-གཞན་དུ: {otherwise: otherwise / being other; anywhere else, other than it: anywhere else / other than it}
-གཞན་དོན: {the welfare of others: good of others / others' welfare / sake of others}
-གཞན་མི་སྤྱད: {nothing other should be practiced: nothing other}
-གཞན་འགའ་མེད: {there is no other source: no other source}
-གཞན་ཡང: {furthermore (term): furthermore}
-གཞལ: {to measure: measure}
-གཞལ་མེད: {immeasurable (term): immeasurable}
-གཞལ་མེད་ཁང: {mansions (term): mansions}
-གཞི: {foundation, basis: foundation / basis}
-གཞིག: {to destroy: destroy}
-གཞིབ: {to suck out: suck out}
-གཞོན: {young (term): young}
-གཞོན་ནུ: {youthful, youth: youthful / youth}
-གཞོན་ཤ་ཅན: {having tender young skin: tender young skin}
-གཞོམ: {destroyed, overcome: destroyed / overcome}
-གཞོམ་: {destroy (term): destroy}
-གཞོམ་པ་: {destroying (action/state): destroying}
-གཞོམ་པར་: {to destroy (term): to destroy}
-གཞོམ་པར་བྱ: {I must destroy (proper name/title): I must destroy}
-གཞོམ་ཕྱིར: {in order to destroy: to destroy}
-གཞོམ་བྱ: {to be overcome, destroyed: must destroy / I should overcome}
-གཞོལ་བ: {devoted (action/state): devoted}
-གཟི་བརྗིད: {splendor (term): splendor}
-གཟི་བརྗིད་ཆུང་ངུ: {little splendor (term): little splendor}
-གཟི་བརྗིད་ཆེན་པོར་ཤོག: {may come to possess great splendor: come to possess great splendor}
-གཟིངས: {a ship: ship}
-གཟིམས: {reclining posture (term): reclining posture}
-གཟུགས: {form (physical): form; body (body part): body}
-གཟུགས་བཟང: {a beautiful form: beautiful form}
-གཟུགས་བཟང་ཕུན་སུམ་ཚོགས་གྱུར་ཅིག: {may (they) become excellent and beautiful in form: become excellent and beautiful in form}
-གཟུགས་བརྙན: {a reflection: reflection}
-གཟུགས་སོགས: {form and the like (term): form and the like}
-གཟུང་དུ་གསོལ: {I pray you accept: I pray... accept}
-གཟུང་བར: {to keep, hold: keep}
-གཟུང་བྲལ་བ: {free of any object apprehended: free of any object apprehended / free of object}
-གཟུར་བྱ: {should be pressed to destroy: press to destroy}
-གཟེངས་བསྟོད: {I praise (proper name/title): I praise}
-གཟེབ: {a cage: cage}
-གཡང་ས: {precipice(s): precipices / precipice}
-གཡན་པ: {rashes (term): rashes}
-གཡས་པ: {the right (side): right}
-གཡུང་དྲུང: {eternal (term): eternal}
-གཡུལ: {battle (term): battle}
-གཡུལ་ངོར: {in battle (term): in battle}
-གཡུལ་ངོར་: {arrayed for battle (term): arrayed for battle}
-གཡུལ་འགྱེད: {battle, the fray: battle / fray}
-གཡུལ་སྤྲད་: {to do battle: do battle}
-གཡེང་བ: {distraction (term): distraction}
-གཡེང་བར: {to wander, be distracted: wander / distract}
-གཡེང་བར་ལྟ་བ: {to wander about (in view): wander about}
-གཡེངས་པ: {distracted (action/state): distracted}
-གཡེངས་པར: {to distract, distracted: distract / distracted}
-གཡེལ་བ་: {wavering (action/state): wavering}
-གཡོ་བ: {movement, stirred: movement / moving / stirred}
-གཡོ་མེད: {guileless (term): guileless}
-གཡོག: {a cover: cover}
-གཡོག་བྱེད་པར: {nurses, serves: nurses}
-གཡོག་འཁོར: {servants and retinue (term): servants and retinue}
-གཡོགས: {covered (action/state): covered}
-གཡོགས་པར: {covers (term): covers}
-གར་མཁན: {an actor: actor}
-གལ་ཏེ་བཟོད་བསྒྲུབ་བསམ་མེད་པས་དགྲ་འདི་མཆོད་བྱ་མིན་ཞེ་ན: {if this enemy has no intention of helping develop patience and so does not deserve honor: he does not deserve to be honored since he had no intention of helping develop patience}
-གཤིན་རྗེ: {the Lord of Death: Lord of Death}
-གཤིན་རྗེའི: {of the Lord of Death: Lord of Death's}
-གཤིན་རྗེའི་མི: {the men of the Lord of Death: men of the Lord of Death}
-གཤེད་མར་: {as executioners: executioners}
-གསང་བ: {a secret: secret}
-གསང་འདི: {this secret (term): this secret}
-གསང་སྔགས: {secret mantras (term): secret mantras}
-གསད་བྱའི: {condemned to die (term): condemned to die}
-གསལ: {clear (term): clear}
-གསལ་བ: {manifest, manifestly: manifest / manifestly; luminous, illuminates: luminous / illuminates}
-གསལ་བ་ཉིད: {itself is luminous (term): itself is luminous}
-གསལ་བ་མེད་པར: {without first being manifest (term): without first being manifest}
-གསལ་བར་བྱ: {to be illuminated: illuminate itself / illuminate}
-གསལ་བར་བྱེད: {illuminates (term): illuminates}
-གསལ་ཤིང: {stakes (term): stakes}
-གསུང: {speech (honorific): speech}
-གསུང་བས: {by the one who speaks (Buddha): who speaks}
-གསུངས: {taught, said (of the Buddha's speech): taught / given / is said / spoken / said / states / word}
-གསུངས་: {it is said (honorific): it is said}
-གསུངས་པ: {what is taught, applies: applies}
-གསེག་མ: {gravel (term): gravel}
-གསེར་གྱི: {golden (term): golden}
-གསེར་འགྱུར: {transmutes into gold (term): transmutes into gold}
-གསེར་སྦྱངས: {refined gold (term): refined gold}
-གསོ: {helped (action/state): helped}
-གསོ་དཔྱད: {medical treatment: medical treatment / method of treatment}
-གསོ་བ: {to cure, support and care for: cure / support and care for}
-གསོ་བའི་: {of healing, medical care: of healing care}
-གསོ་བར་མཛད: {cures (term): cures}
-གསོ་བྱ: {to be helped: helped}
-གསོང་པོ: {sincere (term): sincere}
-གསོད: {to kill: kill / killed / death; to take one's own life: take their own lives}
-གསོད་པ: {to slay, kill off: slay / killed off}
-གསོད་པར: {to kill, extinguish: to kill / extinguishing}
-གསོད་མི་འགྱུར་བར་བསྐྲད: {sent away so they would never be killed: sent so they would never be killed}
-གསོན: {to live, alive: live / alive}
-གསོན་པ: {life, alive: life}
-གསོན་པོ: {living (action/state): living}
-གསོན་ཚེ: {in this present life (term): in this present life}
-གསོལ: {to pray, plea: pray / plea}
-གསོལ་བ: {a plea: plea / make this plea}
-གསོལ་བཏབ: {pleas (term): pleas}
-གུད་དུ: {let go, set apart: let go}
-གུད་དུ་ཕྱེ: {separate away (term): separate away}
-གུས: {respect(fully): respect / respectfully}
-གུས་པ: {respect (term): respect}
-གུས་པར: {with reverence (term): with reverence}
-གུས་པར་: {with respect (term): with respect}
-གུས་པར་ཕྱག་འཚལ: {to bow down with reverence: bow down with reverence}
-གུས་པས: {with reverence (term): with reverence}
-གུས་བྱེད: {to act with respect: act with respect}
-གུས་མི་བྱེད: {does not show respect: not show respect}
-གེགས: {obstacle, obstruction: obstacle / obstruction}
-གེགས་བྱས་པ: {an obstruction: obstruction}
-གེགས་བྱེད: {an obstacle, obstructs: obstacle / obstructs}
-གོད་འགྱུར: {slipping away (term): slipping away}
-གོམས: {practice, habit, habituated: practice / habit / habituated}
-གོམས་གྱུར་པ: {habituated (action/state): habituated}
-གོམས་ན: {through habituation (term): through habituation}
-གོམས་ནས: {once accustomed (action/state): once accustomed}
-གོམས་པ: {habit, habituation: habit / habituation / habitual}
-གོམས་པའི་མཐུ: {the power of habituation: power of habituation}
-གོམས་པར: {to habituate, become habituated: habituate / become habituated}
-གོམས་པས: {by habituating, growing used to: by habituating / by growing used to}
-གོས: {cloth, clothing: cloth / clothing / cloths / clothes}
-གོས་པ: {soiled (action/state): soiled}
-གོས་བཟང: {fine garments (term): fine garments}
-གྱུར: {behaving, becoming: behaving}
-གྱུར་པ: {as if, having become: as if}
-གྲག: {heard (term): heard}
-གྲགས: {fame (term): fame}
-གྲགས་པ: {convention, common consensus: convention / common consensus; reputation, renown: reputation / good repute / renown}
-གྲགས་པར: {to spread: spread}
-གྲགས་པས: {by consensus, held (to be): by consensus / held}
-གྲགས་མིན: {disgrace (term): disgrace}
-གྲགས་འདོད་པ: {desiring fame: desire fame}
-གྲང: {cold (term): cold}
-གྲང་: {cold (term): cold}
-གྲང་བ: {cold (term): cold}
-གྲང་བས་ཉམ་ཐག: {tormented by cold (term): tormented by cold}
-གྲངས་ཅན: {Sāṃkhyas (proper name): Sāṃkhyas}
-གྲངས་མེད: {countless (quantity): countless}
-གྲངས་མེད་: {countless (quantity): countless}
-གྲུ: {boat(s): boat / boats}
-གྲུ་ཆེན: {great ships (term): great ships}
-གྲུབ: {established (philosophically): established; accomplished, come about: accomplished / come about}
-གྲུབ་གྱུར: {fulfilled (action/state): fulfilled}
-གྲུབ་གྱུར་ཅིག: {may (it) be accomplished: be accomplished}
-གྲུབ་པ: {accomplishment (term): accomplishment}
-གྲུབ་པར: {to be accomplished, effective: effective / accomplished}
-གྲུབ་བྱ: {to accomplish (term): to accomplish}
-གྲུབ་འགྱུར་བ: {accomplishment (term): accomplishment}
-གྲོགས: {support (term): support}
-གྲོགས་དག: {friends (term): friends}
-གྲོང: {a city: city}
-གྲོལ: {freed, liberation: freed / liberation}
-གྲོལ་བ: {freedom, to be freed: freedom / free / liberated}
-གྲོལ་བར: {to be set free: set free}
-གྲོལ་འགྱུར: {liberated (action/state): liberated}
-གླ་རྔན: {wages (term): wages}
-གླགས: {an opening (opportunity): opening}
-གླགས་སྐབས: {an opening: opening}
-གླང་ཆེན: {elephant(s): elephant / elephants}
-གླང་པོ: {elephant (term): elephant}
-གླིང: {island (term): island}
-གླུ: {songs (term): songs}
-གླེན་པ: {fools (term): fools}
-གླེན་པར: {foolishly: foolish}
-གློ་བུར: {incidental, sudden: incidental / fleeting / transient / suddenly / sudden}
-གློག: {lightning (action/state): lightning}
-ང: {self-importance, ego, or I (context-dependent): self-importance / I}
-ང་མེད་པར: {free of self-importance (term): free of self-importance}
-ང་རོས: {in a hoarse voice: in a voice}
-ང་རྒྱལ: {pride (mental state): pride; confidence (mental state): confidence; conceit (mental state): conceit; arrogance (mental state): arrogance}
-ང་རྒྱལ་གྱིས་ཁེངས: {puffed up with pride (term): puffed up with pride}
-ང་རྒྱལ་ཅན: {those with pride (term): those with pride}
-ང་རྒྱལ་མེད་པ: {freedom from pride (term): freedom from pride}
-ང་རྒྱལ་རྒྱགས་ལྡན་པ: {possessing pride and arrogance: pride and arrogance}
-ངག: {speech, word(s): speech / word / words; verbal (adjective): verbal}
-ངག་: {word, speech: word}
-ངང་གིས: {naturally (manner/adverb): naturally}
-ངང་པ: {wild goose/geese: wild goose / wild geese / geese}
-ངང་པ་ལྟར་འཇུག་པར: {entering like a wild goose: like a wild goose entering}
-ངན: {bad, wretched, lower: bad / wretched / lower}
-ངན་: {lower, base: lower}
-ངན་པ: {base, lowly, bad: bad / lowly / base; those without wealth (term): those without wealth}
-ངན་འགྲོ: {the lower realms: lower realms / bad rebirth}
-ངན་འགྲོ་: {lower realms (term): lower realms}
-ངན་འགྲོར: {to the lower realms: lower realms / to lower realms}
-ངན་འགྲོར་: {to the lower realms (term): to the lower realms}
-ངན་སེམས: {an evil thought: evil thought}
-ངན་སོང: {the lower realms: lower realms}
-ངན་སོང་: {the lower realms: lower realms}
-ངལ: {effort, to exhaust oneself: effort / exhaust yourself}
-ངལ་བ: {exhaustion, exertion: exhausted / exertion / exhaustion}
-ངལ་བས: {without effort (term): without effort}
-ངལ་བསོའི: {to rest (term): to rest}
-ངལ་བསོས: {resting (action/state): resting}
-ངལ་སོ: {rest (term): rest}
-ངལ་སོའི་དགེ་བ: {virtue that brings rest (term): virtue that brings rest}
-ངུར་པ: {swans (term): swans}
-ངེས: {certainly, firmly, confirmed: certainly / steadiness / firm / surely / confirmed}
-ངེས་: {determined, certain: determined}
-ངེས་ཐར: {certainly freed (liberated): certainly freed}
-ངེས་པ: {certain (term): certain}
-ངེས་པར: {firmly, definitely: firmly / definitely / definite / for certain; inevitably (manner/adverb): inevitably}
-ངེས་པར་: {firmly, truly: firmly / truly}
-ངེས་པར་བསྒྲུབ: {will certainly secure (term): will certainly secure}
-ངེས་པར་སེམས་པས: {with deliberate intention (term): with deliberate intention}
-ངེས་པར་སྦྱར: {resolve firmly (manner/adverb): resolve firmly}
-ངོ་བོ: {nature (term): nature}
-ངོ་བོར: {as their very self (term): as their very self}
-ངོ་མཚར: {marvelous, astonishing: marvelous / astonishing / amazement}
-ངོ་ཚ: {conscience, sense of modesty: sense of conscience / caution / modesty}
-ངོ་ཚ་ཤེས: {a sense of conscience: sense of conscience}
-ངོ་ཚས: {out of shyness (term): out of shyness}
-ངོ་ཟུམ: {frowning (action/state): frowning}
-ངོ་ཤེས་པས: {able to distinguish (term): able to distinguish}
-ངོགས: {shore (term): shore}
-ངོམས: {to satisfy: satisfy}
-ངོམས་པར: {satisfied (action/state): satisfied}
-ཅ་ཅོ་འདོན་པར: {to cry out in joy: cry out in joy}
-ཅང་མ་མཆིས: {have no wealth (term): have no wealth}
-ཅི: {whatever, why: whatever / why}
-ཅི་དགར་བྱེད: {does as they please: as they please}
-ཅི་ནས་ཀྱང: {never (emphatic): never}
-ཅི་ཕྱིར: {why (rhetorical): why}
-ཅི་ཕྱིར་: {why (rhetorical): why}
-ཅི་བདེར: {as they wish: as they wish / as circumstances allow}
-ཅི་མཐོང་བ: {whatever I see (term): whatever I see}
-ཅི་ཞིག: {what use (rhetorical): what use; why, what: why / what}
-ཅི་ཞིག་: {what (rhetorical): what}
-ཅི་ཞིག་བྱ: {what point is there (rhetorical): what point is there}
-ཅི་ཡང་མེད: {there is nothing at all (term): there is nothing at all}
-ཅི་ཡང་རུང: {anything at all (term): anything at all}
-ཅི་ཡི་ཕྱིར: {why (rhetorical): why}
-ཅི་ཡི་ཚུལ: {by what principle: what principle}
-ཅི་རུང: {whatever use (rhetorical): whatever}
-ཅི་ལ: {what use (rhetorical): what use}
-ཅི་སྟེ: {why (rhetorical): why; because (term): because}
-ཅི་སྟེ་: {why (rhetorical): why}
-ཅི་སྣང་བ: {whatever you find (term): whatever you find}
-ཅི་སྤྱོད་ཀྱང: {whatever one does (term): whatever one does}
-ཅིས: {why (rhetorical): why / why not}
-ཅིས་: {why (rhetorical): why}
-ཅིས་ཀྱང: {by some means: some kind of}
-ཅིས་མ་མཐོང: {have I not seen (rhetorical): have I not seen}
-ཅིས་མ་ཡིན: {why should (this) not be so: why should not}
-ཅིས་མི་འདོད: {why not accept (rhetorical): why not accept}
-ཅིས་མི་རྟོགས: {why is it not inferred (rhetorical): why not inferred}
-ཅུང་ཟད: {slight, a little: slight}
-ཅུང་ཟད་: {small, a little: small}
-ཅུང་ཟད་མིན: {nothing whatsoever (term): nothing whatsoever}
-ཅོ་འདྲི: {ridicule (term): ridicule}
-ཅོད་པན: {crowns (term): crowns}
-ཆ: {parts (term): parts; a fraction: fraction}
-ཆ་ཕྱེ: {divided into parts (term): divided into parts}
-ཆ་མེད་པ: {without parts: parts}
-ཆ་ཙམ: {a fraction: fraction}
-ཆ་རྣམས: {parts (term): parts}
-ཆ་ཤས: {part by part (term): part by part}
-ཆ་ཤས་དང་བྲལ: {lacking any parts (term): lacking any parts}
-ཆ་ཤས་ཕྱེ: {dissected part by part (term): dissected part by part}
-ཆགས: {attached (adjective): attached; attachment (noun): attachment; clings (verb): clings; affliction (term): affliction}
-ཆགས་པ: {attachment (noun): attachment; attached (adjective): attached}
-ཆགས་པ་མེད: {non-attachment (term): non-attachment}
-ཆགས་པ་མེད་པར: {without attachment (term): without attachment}
-ཆགས་པའི་: {of clinging, attachment: clinging}
-ཆགས་པར: {attached (action/state): attached}
-ཆགས་པར་བྱེད: {becomes attached (action/state): becomes attached}
-ཆགས་པར་བྱེད་པ: {to become attached: become attached}
-ཆགས་བྱས: {becoming attached (action/state): becoming attached}
-ཆགས་མི་བྱ: {should not become attached (action/state): should not become attached}
-ཆགས་མེད: {unattached, without attachment: unattached / not attached / neither attachment / without attachment}
-ཆགས་ཚུལ: {out of attachment (term): out of attachment}
-ཆགས་སྐྱེ: {to become attached: become attached}
-ཆང: {drink (alcohol): drink}
-ཆད་པ་མེད་པར: {without constraint (term): without constraint}
-ཆད་པའི: {spent, exhausted: spent}
-ཆར: {rain: rain / rain down}
-ཆར་པ: {rain (term): rain}
-ཆར་པར: {into rain: rain}
-ཆར་འབབ་པ: {rain falling (action/state): rain falling}
-ཆས: {to depart: depart}
-ཆིལ་ཆིལ: {with a hiss (term): with a hiss}
-ཆུ: {water: water / waters}
-ཆུ་ཐོབ: {obtain water (term): obtain water}
-ཆུ་བོ: {river(s): river / rivers; flood (term): flood}
-ཆུ་ཚན: {hot water (term): hot water}
-ཆུ་ཤིང: {banana/plantain tree: banana tree / plantain tree}
-ཆུ་ཤིང་སྡོང་པོ: {a banana tree: banana tree}
-ཆུ་སེར: {lymph (term): lymph}
-ཆུ་སྐྱར: {a heron: heron}
-ཆུག: {let (imperative particle): let them / let}
-ཆུང་ངུ: {lesser (term): lesser}
-ཆུང་ངུ་: {small (term): small}
-ཆུང་མ: {wives (term): wives}
-ཆུད་གྱུར: {having fallen (into ruin): having fallen}
-ཆེ: {great, greater, greatest: great / greater / greatest / far more}
-ཆེ་བ: {greatness (term): greatness}
-ཆེད་དག་ཏུ: {for the sake of (term): for the sake of}
-ཆེད་དུ: {for reasons, purposes: for reasons}
-ཆེད་དུ་བསམས: {deliberate intention (term): deliberate intention}
-ཆེན: {great (term): great}
-ཆེན་པོ: {great (term): great}
-ཆེན་པོ་: {great (term): great}
-ཆེན་པོས་: {with great wisdom (term): with great wisdom}
-ཆེར་གཡེངས་: {vast, greatly diffused: vast}
-ཆོ་ག: {method, rite: method / rite}
-ཆོག: {enough, sufficient: enough}
-ཆོག་ཤེས: {content (term): content}
-ཆོམ་པོ: {a thief: thief}
-ཆོམ་རྐུན: {thief, thieves, bandits: thief / thieves / bandits}
-ཆོས: {the Dharma: Dharma; teachings (term): teachings}
-ཆོས་ཀྱི་གཙོ་བོ་མཆོག: {the supreme essence of the Dharma: supreme essence of the Dharma}
-ཆོས་ཀྱི་སྐུ་མངའ: {endowed with the Dharma-body (term): endowed with the Dharma-body}
-ཆོས་གོས: {Dharma robes (proper name/title): Dharma robes}
-ཆོས་བཞིན: {in accordance with the Dharma (term): in accordance with the Dharma}
-ཆོས་རྣམས: {all phenomena (term): all phenomena}
-ཇི་ག་: {how (term): how}
-ཇི་བཞིན: {as if, just as: as if}
-ཇི་ཞིག་ལྟར: {how astonishing it is that: it is astonishing}
-ཇི་ལྟ་བུར: {how (term): how}
-ཇི་ལྟར: {how (rhetorical): how; just as (term): just as}
-ཇི་ལྟར་: {exactly what, how: exactly what}
-ཇི་ལྟར་ན: {how (rhetorical): how}
-ཇི་སྙེད: {whatever, as much as: whatever}
-ཇི་སྙེད་པ: {as many as (there are): as many as}
-ཇི་སྟེ: {why (rhetorical): why}
-ཉ: {fish (term): fish}
-ཉ་པ་: {fishermen (term): fishermen}
-ཉན་ཐོས: {śrāvakas (hearers): śrāvakas}
-ཉམ་ང: {danger (term): danger}
-ཉམ་ཆུང: {weak (term): weak}
-ཉམ་ཆུང་ཉིད: {weak (term): weak}
-ཉམ་ཆུང་བ: {a weak being: weak being}
-ཉམ་ཐག: {wretched (the wretched): wretched / the wretched; misery, tormented: misery / tormented}
-ཉམས: {declines, is corrupted: decline / corrupted / lose faith; strips (verb): strip}
-ཉམས་དགའ: {delightful (term): delightful}
-ཉམས་དགར་ཤོག: {may (it) become delightful: may become delightful}
-ཉམས་པ: {loss, degraded, distressed: loss / degraded / distressed}
-ཉམས་པར: {to give up, decline: give up}
-ཉམས་པར་འགྱུར: {declines: decline}
-ཉམས་བྱེད་པ: {causes to lose faith (term): causes to lose faith}
-ཉམས་མི་མྱོང: {will never experience (term): will never experience}
-ཉམས་མི་འགྱུར: {will not decline (term): will not decline}
-ཉམས་འགྱུར་: {brings about downfall (term): brings about downfall}
-ཉལ: {to lie down: lie down}
-ཉལ་བར: {to sleep, lie down: to sleep / lie down}
-ཉི་མ: {sun (term): sun}
-ཉི་མ་ཕྱེད་དུས: {midday (term): midday}
-ཉི་ཟེར: {the sun's rays: sun's rays}
-ཉིང་ཁུ: {pure essence (term): pure essence}
-ཉིད: {itself, very: itself / very; own (term): own; same (term): same; that (term): that; alone (term): alone}
-ཉིད་ཀྱིས: {by himself, itself: himself}
-ཉིན་མཚན: {day and night: day or night / day and night}
-ཉུང་ཟད: {a little (term): a little}
-ཉེ་ཉོན་མོངས: {secondary affliction (term): secondary affliction}
-ཉེ་དུ: {relatives (term): relatives}
-ཉེ་བ: {proximity (term): proximity; not otherwise (term): not otherwise}
-ཉེ་བར: {thoroughly, closely: thoroughly}
-ཉེ་བར་གནས: {remaining before them, close at hand: remaining before them}
-ཉེ་བར་བཞག: {reinstate (action/state): reinstate}
-ཉེ་བར་བསྒྲུབས: {brought about (term): brought about}
-ཉེར་གནས་ཏེ: {remains close at hand (term): remains close at hand}
-ཉེར་བསགས: {accumulated (action/state): accumulated}
-ཉེར་བསགས་: {to accumulate: accumulate}
-ཉེར་འགྲོ: {approach (term): approach}
-ཉེར་འཚོ: {sustenance, basis of life: basis of life / sustenance}
-ཉེར་འཚོའི: {of life, sustenance: of life}
-ཉེར་ལེན: {the grasping condition for rebirth: grasping condition for rebirth}
-ཉེས: {faults (term): faults}
-ཉེས་དམིགས: {faults, drawbacks: faults}
-ཉེས་པ: {fault, faults: fault / faults; wrong, wrongs: wrongs / wrong}
-ཉེས་པས: {through wrongdoing: wrongdoing}
-ཉེས་པས་: {through faults: faults}
-ཉེས་མེད: {no fault, faultless: no fault}
-ཉོན་མོངས: {mental afflictions (kleśas): afflictions / affliction; afflicted (state): afflicted; hardships, difficulties: hardships}
-ཉོན་མོངས་: {mental afflictions: afflictions / affliction}
-ཉོན་མོངས་ཅན: {afflicted (action/state): afflicted}
-ཉོན་མོངས་ཉ་པ: {the fisherman of the afflictions: fisherman of the afflictions}
-ཉོན་མོངས་པ་: {affliction (term): affliction}
-ཉོན་མོངས་པའི: {afflicted (action/state): afflicted}
-ཉོན་མོངས་པའི་: {of the afflictions (term): of the afflictions}
-ཏིང་ངེ་འཛིན: {meditative concentration: concentration}
-ཏིང་འཛིན: {meditative concentration: concentration / meditative concentration}
-ཐ་དད: {differing, various, different: differing / various / different}
-ཐ་དད་ཕྱེ: {separate (as different): separate}
-ཐ་མ: {the lowest: lowest}
-ཐ་མལ: {ordinary (term): ordinary}
-ཐ་མལ་པ: {ordinary (term): ordinary}
-ཐ་མལ་པ་ཙམ: {only an ordinary connection (term): only an ordinary connection}
-ཐག་ཆད་པ: {hopeless despair (term): hopeless despair}
-ཐག་པ: {a rope: rope}
-ཐག་པས: {from the depths (term): from the depths}
-ཐག་རིང: {to keep far away: keep far away}
-ཐང: {the ground: ground}
-ཐང་ཅིག་: {for a moment (term): for a moment}
-ཐབས: {means, method: means}
-ཐམས་ཅད: {all: all / all of them / all beings; everything (term): everything; the whole: whole; every kind: every kind / every; everyone (term): everyone; nothing other (than): nothing other}
-ཐམས་ཅད་: {all, everyone: all / all others}
-ཐམས་ཅད་དུ: {everywhere, constantly: everywhere / constantly}
-ཐམས་ཅད་མཁྱེན: {omniscience (term): omniscience}
-ཐམས་ཅད་མཁྱེན་པ་: {the Omniscient One: Omniscient One}
-ཐམས་ཅད་ཚེ: {at all times (term): at all times}
-ཐམས་ཅད་ཚེ་ན: {at all times (term): at all times}
-ཐམས་ཅད་ལ: {before any (task): before any task}
-ཐར་: {freedom (term): freedom}
-ཐར་གྱུར་ཅིག: {may (they) be freed: may be freed}
-ཐར་པ: {liberation (term): liberation}
-ཐར་བ: {escape, freed: escape / freed}
-ཐར་བར: {to be freed: freed}
-ཐར་བར་: {liberated (action/state): liberated}
-ཐལ: {absurdly (logical consequence): absurdly; palms (of hands): palms}
-ཐལ་བ: {ashes (term): ashes}
-ཐལ་བ་: {ash (term): ash}
-ཐལ་བར: {absurdly (manner/adverb): absurdly}
-ཐལ་མོ: {palms (of the hands): palms}
-ཐལ་མོ་སྦྱར་ཏེ: {joining my palms (term): joining my palms}
-ཐལ་མོ་སྦྱོར: {joined palms: joined palms / with joined palms}
-ཐལ་སྦྱར: {with palms joined: palms joined}
-ཐུག་པ་མེད: {no end, endless: no end}
-ཐུགས: {mind, intentions (honorific): mind / intentions}
-ཐུགས་བསྐྱེད: {generation of the (awakened) mind: generation of the mind}
-ཐུགས་རྗེ: {compassion (noun): compassion; compassionate (adjective): compassionate}
-ཐུགས་རྗེ་ཆེ: {the greatly compassionate ones: greatly compassionate ones / great compassion}
-ཐུགས་རྗེ་ཆེན་པོ: {great compassion (term): great compassion}
-ཐུགས་རྗེ་མངའ་བ: {compassionate ones (term): compassionate ones}
-ཐུགས་རྗེ་ལྡན: {compassionate ones (term): compassionate ones}
-ཐུགས་རྗེ་ལྡན་རྣམས: {the compassionate ones: compassionate ones}
-ཐུགས་རྗེའི: {of compassion: compassionate}
-ཐུགས་སུ་ཆུད་པ: {realized in their hearts (term): realized in their hearts}
-ཐུབ: {Sage (epithet of Buddha): Sage}
-ཐུབ་དབང: {Lord(s) of Sages (epithet of Buddha): Lords of Sages}
-ཐུབ་དབང་རྣམས: {the Lords of Sages: Lords of Sages}
-ཐུབ་པ: {the Sage (epithet of Buddha): Sage / the Sage / sage; Sages (plural): Sages}
-ཐུབ་པ་: {the Sage (epithet of the Buddha): last}
-ཐུབ་པར: {to overcome: overcome}
-ཐུབ་པས: {by the Sage: Sage}
-ཐུབ་པས་གསུངས: {taught by the Sage (term): taught by the Sage}
-ཐུལ་བར་འགྱུར: {are tamed (action/state): are tamed}
-ཐེ་ཚོམ: {doubt, hesitation: doubt / hesitation}
-ཐེ་ཚོམ་མེད: {there is no doubt (term): there is no doubt}
-ཐེག་ཆེན: {the Great Vehicle (Mahāyāna): Great Vehicle}
-ཐེབས: {struck (term): struck}
-ཐོ་ཡོར: {a pile of stones: pile of stones}
-ཐོག་: {beginning (action/state): beginning}
-ཐོག་མ་མེད: {beginningless (term): beginningless}
-ཐོག་མར: {first (term): first}
-ཐོག་མེད: {without beginning: without beginning / no beginning}
-ཐོག་མེད་: {beginningless (term): beginningless}
-ཐོགས་: {delayed (action/state): delayed}
-ཐོགས་མེད: {without obstruction (term): without obstruction}
-ཐོབ: {to attain, obtain: attain / obtained / attained; borne (endured): borne}
-ཐོབ་: {to obtain: obtain}
-ཐོབ་ཅིང: {attaining: attain}
-ཐོབ་དཀར་: {rare to obtain (term): rare to obtain}
-ཐོབ་པ: {attaining, obtaining: attaining / obtained}
-ཐོབ་པ་: {reaching, attaining: reaching / attainment}
-ཐོབ་པར་གྱུར་པ: {having gained it (term): having gained it}
-ཐོབ་པར་བྱེད: {to attain: attain}
-ཐོབ་པར་མི་འགྱུར: {will not have attained: have not attained}
-ཐོབ་པར་འགྱུར་: {comes again, comes to attain: come again}
-ཐོབ་པར་ཤོག: {may (one) obtain, may I find: may obtain / find / may I find}
-ཐོབ་བར་དུ: {until I attain (term): until I attain}
-ཐོབ་ཤོག: {may (one) obtain, may find: may obtain / may find}
-ཐོས: {learning, hearing: heard / learning / hearing}
-ཐོས་པ: {hearing (action/state): hearing}
-ཐོས་པར: {to hear of: hears of / hear}
-ཐོས་མི་འགྱུར་: {will not (even) hear: will not hear}
-ཐོས་ལྡན: {learned (possessing learning): learned}
-ད་དུང: {even now, still: even now}
-དཀའ: {hard, difficult: hard / difficult}
-དཀའ་ཐུབ: {austerity, ascetic discipline: austerity / ascetic discipline / austerities; ascetics (term): ascetics}
-དཀའ་ཐུབ་ཅན: {an ascetic: ascetic}
-དཀའ་བ: {hardship, difficulty: hardship / difficulty / difficult}
-དཀའ་བར: {with difficulty: difficult}
-དཀའ་བས: {hard to find, difficult: hard to find}
-དཀའ་ལས: {hardship (term): hardship}
-དཀོན: {rarely found (term): rarely found}
-དཀོན་ན་: {if rare: rare}
-དཀོན་པ: {rare (term): rare}
-དཀོན་མཆོག: {the Three Jewels: Three Jewels / Jewel}
-དཀྲུགས་པ: {disturbed (action/state): disturbed}
-དཀྲུགས་མི་བྱ: {should not disturb (term): should not disturb}
-དག་པ: {pure (term): pure}
-དགག་པར: {to be refuted: refuted}
-དགབ་པར་བྱ: {should be covered (action/state): should be covered}
-དགའ: {joy: joy / bring joy; delight (mental state): delight; pleasure (mental state): pleasure; happiness (mental state): happiness; glad, satisfied: glad / satisfied; happy (term): happy; love (mental state): love; affection (mental state): affection; overjoyed (action/state): overjoyed}
-དགའ་གྱུར་ཅིག: {may (they) rejoice: may rejoice}
-དགའ་ཐོབ་ཤོག: {may (they) obtain joy: may obtain joy}
-དགའ་བ: {joy (mental state): joy; delight: delight / take delight / delighting; to rejoice: rejoice / rejoicing; friendly (manner/adverb): friendly; pleasure (mental state): pleasure}
-དགའ་བདེ: {joy and pleasure (term): joy and pleasure}
-དགའ་བའི: {of joy, joyful: of joy / joyful}
-དགའ་བའི་གཏམ: {talk of pleasures (term): talk of pleasures}
-དགའ་བའི་བདེ་ཐོབ: {feel joy and happiness (term): feel joy and happiness}
-དགའ་བའི་བདེ་བ: {the happiness of rejoicing: happiness of rejoicing}
-དགའ་བའི་མཆོག: {supreme joy (term): supreme joy}
-དགའ་བའི་ཤུགས: {the force of joy: force of joy}
-དགའ་བར: {to rejoice, take joy: rejoice / joy / take joy / pleasure / overjoyed}
-དགའ་བར་: {to feel joy: feel joy}
-དགའ་བར་གྱིས: {let them rejoice (term): let them rejoice}
-དགའ་བར་ཤོག: {may (they) find joy: may find joy}
-དགའ་བས་མགུ་བྱས: {pleases with a friendly manner: please with a friendly manner}
-དགའ་བས་རྗེས་སུ་ཡི་རང་ངོ་: {I rejoice with delight (proper name/title): I rejoice with delight}
-དགའ་མགུར་: {gleefully (manner/adverb): gleefully}
-དགའ་སྟོན: {a celebration, feast: celebration / feast of celebration / joys}
-དགར: {glad, joy: glad / joy}
-དགར་མི་འགྱུར: {finds no joy (term): finds no joy}
-དགེ: {virtue, virtuous: virtue / virtuous action / virtuous}
-དགེ་: {virtue (term): virtue}
-དགེ་གོམས་: {training in virtue (term): training in virtue}
-དགེ་ཆེན་འགྱུར: {becomes especially great virtue: becomes especially great}
-དགེ་བ: {virtue, virtues: virtue / virtues; virtuous (adjective): virtuous}
-དགེ་བ་: {virtue, virtuous deeds: virtue / virtuous deeds}
-དགེ་བའི: {virtuous, supreme: supreme / virtuous}
-དགེ་བའི་བཤེས: {spiritual friend (term): spiritual friend}
-དགེ་བའི་བཤེས་གཉེན: {spiritual friend (term): spiritual friend}
-དགེ་བའི་སྟོབས: {the power of my virtue: power of my virtue}
-དགེ་བས: {through virtue (term): through virtue}
-དགེ་བསགས་པ: {virtue amassed (action/state): virtue amassed}
-དགེ་བློ: {virtuous thought (term): virtuous thought}
-དགེ་འདུན: {the saṅgha: saṅgha}
-དགེ་རྩ: {roots of virtue (term): roots of virtue}
-དགེ་སྤྱད་: {to practice virtue: practice virtue}
-དགེ་སློང: {monk(s): monk / monks}
-དགེ་སློང་མ: {nun(s): nuns}
-དགོངས: {to think, intentions: think / intentions}
-དགོངས་པ: {care, intention: care}
-དགོན: {wastelands (term): wastelands}
-དགོན་པ: {wilderness (term): wilderness}
-དགོས་པ: {what is needed (action/state): what is needed}
-དགྱེས: {to rejoice, be pleased: rejoice / pleases / pleased}
-དགྱེས་མཛོད: {may he be pleased (action/state): may he be pleased}
-དགྲ: {enemy, enemies: enemy / enemies}
-དགྲ་: {enemy (term): enemy}
-དགྲ་བོ: {an enemy: enemy}
-དགྲ་བོ་: {an enemy: enemy}
-དགྲ་རྣམས་: {enemies (term): enemies}
-དགྲམ་པར་བྱ: {I scatter (proper name/title): I scatter}
-དགྲར་: {as an enemy: as enemy / as enemies / enemy}
-དང་དུ་བླང་: {willingly accepted: willingly accept}
-དང་པོ་འདི་འདྲའི་སེམས: {a mind like this at first: a mind like this}
-དངར་ཚེ་: {when arrayed (for battle): when arrayed}
-དངོས: {entity, real: entity / real / real entity / truly existing entities / something real; directly (adverb): directly}
-དངོས་པོ: {entity, real entity: entity / real entity / real entities / inherently real; thing(s): things / thing; real substance (term): real substance}
-དངོས་པོ་ཐམས་ཅད: {all things (term): all things}
-དངོས་པོ་ཡོད་པ: {an entity to exist: entity to exist}
-དངོས་པོའི: {of real entities (term): of real entities}
-དངོས་མེད: {non-entity, non-existence: non-entity / non-existence / nonexistent / unreal}
-དངོས་འགྱུར: {transforms into an entity: transform into an entity}
-དངོས་རྟེན་ཅན: {having a real basis: real basis}
-དངོས་རྣམས: {things (term): things}
-དད: {faith (mental state): faith}
-དད་: {faith (mental state): faith}
-དད་པ: {faith, faithful: faith / faithful}
-དད་པའི: {of faith (term): of faith}
-དཔག: {to measure: measure}
-དཔག་ཏུ་མེད་པ: {immeasurable, boundless: immeasurable / boundless}
-དཔག་ཏུ་མེད་པའི: {immeasurable (term): immeasurable}
-དཔག་བསམ་ཤིང: {wish-fulfilling tree(s): wish-fulfilling trees / wish-fulfilling tree}
-དཔག་མེད: {immeasurable(ly): immeasurable / boundless / immeasurably}
-དཔག་ཚད: {leagues (term): leagues}
-དཔག་ཡས: {boundless (term): boundless}
-དཔའ: {a hero: hero}
-དཔའ་: {brave (term): brave}
-དཔའ་བརྟན་ལྷག་པར: {even more courageous and resolute (term): even more courageous and resolute}
-དཔའ་བོ: {hero(es): hero / heroes}
-དཔལ་ཆེན: {great glory (term): great glory}
-དཔལ་བརྩེགས: {Paltsek (proper name): Paltsek}
-དཔལ་འབྱུང་བ: {Śrī Sambhava (proper name): Śrī Sambhava}
-དཔུང: {power, army: power}
-དཔུང་ཚོགས: {strength, army: strength}
-དཔེ: {a manuscript: manuscript}
-དཔེ་མེད: {incomparable (term): incomparable}
-དཔེར་ན: {for example (term): for example}
-དཔེས: {by means of examples: by means of examples / examples}
-དཔྱད: {examined (action/state): examined}
-དཔྱད་པ: {analysis (term): analysis}
-དཔྱད་པར་བྱ: {should reflect (term): should reflect}
-དཔྱིས་འབྱིན: {dispels thoroughly: dispels}
-དཔྱོད: {to analyze: analyze}
-དཔྱོད་བྱེད: {an analyzing consciousness: analyzing consciousness}
-དཔྱོད་ལྡན: {discerning (action/state): discerning}
-དབང: {power (term): power; sense faculty/faculties: sense faculties / sense faculty; circumstance (term): circumstance}
-དབང་གིས: {through the power of: through the power of / by the power of}
-དབང་གྱུར་པས: {when under the power of (term): when under the power of}
-དབང་པོ: {the gods (Indra): gods}
-དབང་ཕྱུག: {Īśvara (the theistic creator-god of the opponent's view): Īśvara; Avalokiteśvara (the bodhisattva): Avalokiteśvara}
-དབང་བར: {power (term): power}
-དབང་བསྒྱུར: {self-mastery, to govern: self-mastery / governed}
-དབང་བསྒྱུར་ཏེ: {governed (action/state): governed}
-དབང་མེད: {powerless (term): powerless}
-དབང་ཚོགས་: {the collection of senses: senses}
-དབུ: {head (honorific): head}
-དབུལ་པོའི: {of the destitute (term): of the destitute}
-དབུལ་བ: {poor, poverty: poor / poverty}
-དབུལ་བོར: {poverty (term): poverty}
-དབེན: {solitude (term): solitude}
-དབེན་གནས: {a place of solitude: solitude}
-དབེན་གནས་པ: {a life of solitude: life of solitude}
-དབེན་པ: {solitude, seclusion: solitude / seclusion}
-དབྱངས་སྙན: {a sweet melody: sweet melody}
-དབྱིབས: {shape (term): shape}
-དབྱིབས་སུ་བཀོད་པ: {a particular shape given: particular shape given}
-དབྱུག་པ: {a stick: stick}
-དབྱེ: {variety, difference: variety}
-དབྱེ་བ: {distinctions (term): distinctions}
-དབྱེ་བྱས: {separated (action/state): separated}
-དམ: {sacred (action/state): sacred}
-དམ་ཆོས: {the sacred Dharma: sacred Dharma}
-དམ་པ: {sublime, sacred: sublime / sacred; finest (term): finest}
-དམ་པའི: {sacred (action/state): sacred}
-དམ་པའི་ཆོས: {the sacred Dharma: sacred Dharma}
-དམ་བཅས་: {vowed, committed: vowed / committed to as a vow / made such a vow}
-དམ་བཏགས: {bound tightly (manner/adverb): bound tightly}
-དམག: {an army: army}
-དམངས: {common people (term): common people}
-དམན: {lesser, inferior: lesser / inferior}
-དམན་པ: {lesser (term): lesser}
-དམན་པའི: {lowly (manner/adverb): lowly}
-དམན་མོས: {lesser inclination (term): lesser inclination}
-དམའ: {inferiors (term): inferiors}
-དམའ་བ: {lowly (manner/adverb): lowly}
-དམར: {streaked (red): streaked}
-དམིགས: {to apprehend (cognitively): apprehend / objects of apprehension / apprehension; object (of cognition): object / object of knowledge; conceptual reference point (term): conceptual reference point}
-དམིགས་པ: {an object of apprehension: object of apprehension}
-དམིགས་པར: {to apprehend: apprehend}
-དམྱལ: {hell(s): hells / hell}
-དམྱལ་བ: {hell(s): hell / hells}
-དམྱལ་བ་: {hell (place): hell}
-དམྱལ་བ་དག: {hells (term): hells}
-དམྱལ་བའི: {of hell (term): of hell}
-དམྱལ་བའི་སྲུང་མ: {the guardians of hell: guardians of hell}
-དམྱལ་བར: {to hell (term): to hell}
-དམྱལ་མེ་: {the fires of hell: fires of hell}
-དམྱལ་སོགས: {hell and the like: hell and the like / hells and elsewhere}
-དམྱལ་སོགས་: {hells and elsewhere (term): hells and elsewhere}
-དམྱལ་སོགས་སུ་: {in the hells and elsewhere (term): in the hells and elsewhere}
-དར་བ: {flourished (action/state): flourished}
-དར་བར: {to flourish: flourish}
-དལ་གྱིས: {at ease (term): at ease}
-དལ་བ: {freedom and fortune (term): freedom and fortune}
-དལ་བ་: {opportunity, leisure: opportunity}
-དལ་བའི: {of freedom and fortune (term): of freedom and fortune}
-དལ་བའི་མཆོག: {supreme freedom (and fortune): supreme freedom}
-དལ་འབྱོར: {freedom and fortune (favorable rebirth): freedom and fortune}
-དུ་མ: {multiple (term): multiple}
-དུ་མར: {in many ways: many}
-དུག: {poison (term): poison}
-དུད་པ: {to bend low: bend low}
-དུད་འགྲོ: {animals (term): animals}
-དུད་འཐུལ: {smoke (term): smoke}
-དུབ་པ: {exhausted (action/state): exhausted}
-དུབ་པའི: {exhausting (action/state): exhausting}
-དུམ་བུ: {fragments (term): fragments}
-དུར་ཁྲོད: {charnel ground(s): charnel ground / charnel grounds}
-དུལ་བར: {tame (term): tame}
-དུས: {time, moment: time / moment / earlier time}
-དུས་གསུམ: {the three times (past, present, future): three times}
-དུས་མཐའ: {the end of an age: end of an age}
-དུས་རིང་དུ: {for a long time (term): for a long time}
-དུས་རིང་དུ་: {for a long time (term): for a long time}
-དུས་སུ: {at the (right) time: at the right time}
-དེ: {it, that: it}
-དེ་ཉིད: {true nature, truth: real / true nature / truly so / truth / truly existing / truth of things}
-དེ་ཉིད་དུ: {as such (term): as such}
-དེ་དག: {those, all things: all things / things}
-དེ་ཕྱིར: {therefore, for this reason: therefore / for this reason}
-དེ་བཞིན: {likewise, in just the same way: likewise / in just the same way / so too / equally; Tathāgatas (proper name/title): Tathāgatas}
-དེ་བཞིན་གཤེགས: {Tathāgata(s) (epithet of Buddha): Tathāgatas}
-དེ་བཞིན་གཤེགས་པ: {Tathāgata(s): Tathāgatas / Tathāgata}
-དེ་བཞིན་གཤེགས་པ་: {Tathāgata (epithet of Buddha): Tathāgata}
-དེ་བཞིན་དུ: {likewise (term): likewise}
-དེ་བས: {therefore, so: therefore / so; in particular (term): in particular}
-དེ་བྱེད་པ: {the illusion-maker: illusion-maker}
-དེ་མ་ཐག་ཏུ: {immediately (manner/adverb): immediately}
-དེ་ཡང: {likewise, moreover: likewise}
-དེ་ཡི་ཕྱིར: {therefore (term): therefore}
-དེ་ལྟ་བུ་: {such things (term): such things}
-དེ་ལྟར: {in this way, therefore: therefore / in this way}
-དེ་ལྟར་: {therefore, thus: therefore}
-དེ་ལྟར་རྣམ་དཔྱད་པ: {through analysis in this way (term): through analysis in this way}
-དེ་ལྟས: {therefore, so: therefore / so}
-དེ་ལྟས་: {therefore (term): therefore}
-དེད་དཔོན: {a guide (caravan leader): guide}
-དེས: {really, by that: really}
-དེས་ན: {therefore (term): therefore}
-དོ་གལ་ཆེན་པོ: {great adversity (term): great adversity}
-དོགས་པ: {fear (mental state): fear}
-དོན: {purpose, aim: purpose / purposes; welfare (term): welfare; benefit (term): benefit; worthwhile (term): worthwhile; matters, is relevant: matters / have to do with; pointless (negated): pointless; use, utility: use; to the point, coherent (of speech): to the point; for the sake of: sake; meaning (action/state): meaning; object (philosophical referent): object}
-དོན་: {welfare, goal: welfare / goal}
-དོན་གསལ: {clearly (manner/adverb): clearly}
-དོན་གྱི་ཕྱིར: {for the sake of (term): for the sake of}
-དོན་གྲུབ: {established (action/state): established}
-དོན་ཆེན་: {a great purpose: great purpose}
-དོན་ཆེན་སྒྲུབ་ཕྱིར་: {to accomplish a great purpose (term): to accomplish a great purpose}
-དོན་དམ: {the ultimate (truth): ultimate / ultimately}
-དོན་དུ: {for the sake of: for the sake of / for their sake; in anticipation of (term): in anticipation of; toward (term): toward}
-དོན་མ་གྲུབ་པར་: {until their goal is achieved (action/state): until their goal is achieved}
-དོན་མེད: {pointless, pointlessly: pointless / pointlessly / pointlessness / to no purpose / without true purpose; for nothing (action/state): for nothing; needlessly (manner/adverb): needlessly}
-དོན་མེད་: {pointlessly (manner/adverb): pointlessly}
-དོན་མེད་གྱི་ནར: {achieving nothing (action/state): achieving nothing}
-དོན་མེད་ཉིད་དུ་: {pointlessly (manner/adverb): pointlessly}
-དོན་མེད་པ: {achieving nothing (action/state): achieving nothing}
-དོན་ཙམ: {only what serves the purpose: only what serves}
-དོན་ཡོད: {to prove worthwhile: prove worthwhile}
-དོན་སྒྲུབ་ཕྱིར: {for the sake of accomplishing the welfare (of others): for the sake of accomplishing the welfare}
-དོན་སླད: {for my sake (term): for my sake}
-དོར: {discarded, to stop: discarded / stop}
-དོར་བ: {discarded, thrown away: discarded / thrown away}
-དོར་བར: {to set aside: set aside}
-དོར་བྱར: {to be rejected: rejected}
-དོར་མི་བྱ: {should never abandon (term): should never abandon}
-དྲ་བ: {a network: network}
-དྲག་ཏུ: {forcefully (manner/adverb): forcefully}
-དྲང་སྲོང: {sages (term): sages}
-དྲན: {recalling, remembering: recalling / remembered / memory / remember}
-དྲན་པ: {mindfulness (mental state): mindfulness; memory, to remember: memory / remembered / remember}
-དྲན་པ་དང་ནི་ཤེས་བཞིན་སྲུངས: {guard mindfulness and introspection (term): guard mindfulness and introspection}
-དྲན་པའི: {of mindfulness (term): of mindfulness}
-དྲན་པའི་ཡུལ: {the object of memory: memory}
-དྲན་པར: {remembered (action/state): remembered}
-དྲན་པར་བྱས: {recalling (action/state): recalling}
-དྲན་པས: {through memory: memory}
-དྲན་བྱས: {recalling (action/state): recalling}
-དྲི: {fragrance, scent, smell: fragrance / fragrances / smell / scent; foul-smelling (action/state): foul-smelling}
-དྲི་ང: {a foul smell: foul smell}
-དྲི་ངད: {fragrance (term): fragrance}
-དྲི་བ: {a question: question}
-དྲི་བཟང: {fragrant (term): fragrant}
-དྲི་བར: {to ask (term): to ask}
-དྲི་མ་མེད: {stainless (term): stainless}
-དྲི་མཆོག: {finest perfumes (term): finest perfumes}
-དྲི་ཞིམ: {fragrant, sweet-smelling: fragrant / sweet-smelling / sweet fragrance; perfumes (term): perfumes}
-དྲི་ཞིམ་པ: {fragrant (term): fragrant}
-དྲི་རབ་བསྒོས་པ: {perfumed with the finest scent (term): perfumed with the finest scent}
-དྲིན: {kindness (term): kindness}
-དྲིན་བྱིན: {kindness received (action/state): kindness received}
-དྲིར་བཅས: {with the stains of filth: stains of filth}
-དྲིས: {to inquire: inquire}
-དྲུག་པ: {Sixth (chapter): Sixth}
-དྲུང་ན: {nearby (term): nearby}
-དྲེགས: {arrogance (mental state): arrogance}
-དྲེགས་པ: {pride, arrogance: pride / arrogance}
-དྲེད: {bears (term): bears}
-དྲོ: {warmth (term): warmth}
-དྲོ་ཐོབ་ཤོག: {may (they) find warmth: may find warmth}
-དྲོད: {warmth (term): warmth}
-ན: {sick (term): sick}
-ན་བཟའ: {garments (term): garments}
-ནགས: {forest(s): forest / forests}
-ནགས་ཚལ: {forest, forest grove: forest / forests / forest grove}
-ནགས་རླུང: {mountain breeze (term): mountain breeze}
-ནང: {within, inside: within / inside}
-ནང་ཁྲོལ: {internal organs (term): internal organs}
-ནད: {illness, sickness: illness / illnesses / sickness}
-ནད་: {sickness (term): sickness}
-ནད་གཡོག་བྱེད་པ: {the one who nurses (the sick): the one who nurses}
-ནད་ཆེན: {terrible ills (term): terrible ills}
-ནད་པ: {the sick, sick beings: sick / ill / sick beings}
-ནད་པ་: {a patient: patient}
-ནད་མེད: {freedom from illness, health: freedom from illness / health}
-ནད་མེད་: {free of illness (term): free of illness}
-ནན་གྱིས: {forcefully (manner/adverb): forcefully}
-ནན་གྱིས་: {by force, insistently: by force}
-ནན་ཏན: {diligently (manner/adverb): diligently}
-ནམ་དུ་ཡང: {ever (term): ever}
-ནམ་མཁའ: {space (term): space; sky (place): sky; Ākāśagarbha (proper name): Ākāśagarbha}
-ནམ་མཁའ་: {space (term): space}
-ནམ་མཁའ་ལྡིང: {garuḍa (term): garuḍa}
-ནམ་མཁའི: {of space (term): of space}
-ནམ་མཁའི་: {of space (term): of space}
-ནམ་མཁའི་དཀྱིལ: {in the midst of the sky: midst of the sky}
-ནམ་མཁའི་མཛོད: {a treasury as vast as the sky: treasury as vast as the sky}
-ནམ་མཁའི་སྙིང་པོ: {Ākāśagarbha (proper name): Ākāśagarbha}
-ནམ་ཞིག: {when will (rhetorical): when will / when could}
-ནམ་ཡང: {never (term): never}
-ནམ་ཡང་མི: {never (term): never}
-ནམ་ཡང་མི་བྱ: {never let (this happen): never let}
-ནམས: {lost, declined: lost}
-ནས: {throughout, from: throughout}
-ནུས: {capable, able: capable / able; cannot (negated): cannot}
-ནུས་པ: {power, capacity: power / capacity}
-ནུས་པ་བརྟས་: {gathers strength (term): gathers strength}
-ནུས་མེད: {lacking power: lack the power}
-ནོངས་པ: {faults (term): faults}
-ནོན: {overcome (term): overcome}
-ནོར: {wealth (term): wealth; jewel (as a symbol of wealth): jewel}
-ནོར་དང་བཀུར་སྟི: {wealth and honor (term): wealth and honor}
-ནོར་བུ: {a jewel: jewel}
-པགས་པ: {skin (body part): skin}
-པང: {a lap: lap}
-པདྨ: {lotus, lotuses: lotus / lotuses; Padmapāṇi (proper name): Padmapāṇi}
-པདྨའི་མཚོ: {a lotus pool: lotus pool}
-ཕ: {father (term): father}
-ཕ་མ: {parents (term): parents}
-ཕ་རོལ་ཏུ་ཕྱིན་པ: {perfection (pāramitā): Perfection}
-ཕ་རོལ་ཕྱིན: {perfection(s) (pāramitā): perfection / perfections}
-ཕ་རོལ་ཕྱིན་པ: {a perfection (pāramitā): perfection}
-ཕན: {benefit (term): benefit}
-ཕན་: {benefit (term): benefit}
-ཕན་དོན: {benefit (term): benefit}
-ཕན་དོན་དུ: {for the benefit of (term): for the benefit of}
-ཕན་དོན་སེམས: {contemplating how to benefit (others): contemplating how to benefit}
-ཕན་པ: {benefit, doing good: benefit / own good / doing good; useful (term): useful}
-ཕན་པ་བསྒྲུབས: {brought about its benefit: bring about its benefit}
-ཕན་པ་མེད་པར: {without benefit (term): without benefit}
-ཕན་པའི་: {beneficial (term): beneficial}
-ཕན་པར: {to benefit, be of use: benefit / be of use}
-ཕན་པར་གཟིགས: {saw that this is beneficial (term): saw that this is beneficial}
-ཕན་བཏགས: {kindness (bestowed): kindness}
-ཕན་བྱེད: {one who helps (term): one who helps}
-ཕན་མཛད་པའི་: {who benefit (others): who benefit}
-ཕན་ཚུན: {toward one another, mutually: toward one another / mutually / mutual}
-ཕན་ཚུན་མི་མཐུན: {conflicting (action/state): conflicting}
-ཕན་འདོགས: {beneficial, to benefit: beneficial / benefit}
-ཕན་ཡོན: {benefits: Benefits / benefits}
-ཕན་སེམས: {a benevolent wish: benevolent wish}
-ཕབ: {cast down (term): cast down}
-ཕམ་བྱས: {defeated (action/state): defeated}
-ཕལ་པ: {ordinary (term): ordinary}
-ཕལ་པ་: {ordinary (term): ordinary}
-ཕུག: {a cave: cave}
-ཕུང་ཁྲོལ: {misfortune (term): misfortune}
-ཕུང་པོ: {a heap: heap}
-ཕུང་པོ་གསུམ་པ: {the Threefold Sūtra (of Confession): Threefold Sūtra of Confession}
-ཕུང་པོར: {as heaps: heaps}
-ཕུང་བ: {ruin (term): ruin}
-ཕུང་བར: {leads to ruin (term): leads to ruin}
-ཕུན་ཚོགས: {excellence, excellent: excellence / excellent}
-ཕུན་སུམ: {perfect, precious, rare: perfect / so hard to find / precious}
-ཕུན་སུམ་ཚོགས: {excellent, to flourish/prosper: excellent / prosper}
-ཕུན་སུམ་ཚོགས་པ: {excellence, perfect success: excellence / perfect success}
-ཕུན་སུམ་ལྡན་པ་ཐོབ་པར་ཤོག: {may (I) find the perfect conditions: find the perfect conditions}
-ཕོ་ཉ: {messenger(s): messengers; go-between (term): go-between}
-ཕོ་ཉ་མོ: {a female go-between: female go-between}
-ཕོ་བྲང: {palaces (term): palaces}
-ཕོག་པའི་: {of being struck: being struck}
-ཕོངས: {destitution (term): destitution}
-ཕོངས་པ: {deprived, destitute: deprived / destitution}
-ཕོངས་ཤིང་དབུལ་བ: {destitute and poor (term): destitute and poor}
-ཕྱག: {hand (honorific): hand}
-ཕྱག་དར: {rubbish (term): rubbish}
-ཕྱག་ན་རྡོ་རྗེ: {Vajrapāṇi (proper name): Vajrapāṇi}
-ཕྱག་བྱར: {worthy of homage (term): worthy of homage}
-ཕྱག་འཚལ: {to bow, pay homage: I bow / bow down / pay homage / bowing}
-ཕྱག་འཚལ་ལོ: {homage, I bow (closing formula): Homage / I bow}
-ཕྱག་འོས: {worthy of homage (term): worthy of homage}
-ཕྱར་ཀ་གཏོང: {insults (term): insults}
-ཕྱི: {outside, without: outside / without}
-ཕྱི་ནས: {later on (term): later on}
-ཕྱི་མར: {afterward: after}
-ཕྱི་རོལ: {external things (term): external things}
-ཕྱིན: {to reach: reach}
-ཕྱིན་ཅི་ལོག: {backward, illusory (mistaken): backward / illusory}
-ཕྱིན་ཅི་ལོག་ཏུ: {in such a backward way (term): in such a backward way}
-ཕྱིན་པའི: {who arrives: arrives}
-ཕྱིན་ལ: {come (term): come}
-ཕྱིའོ: {I dry (proper name/title): I dry}
-ཕྱིར: {in order to: in order to / to; for the sake of: for the sake of / for their sake / for your own sake; this is why (concluding): this is why / because of this; for (term): for}
-ཕྱིར་: {so, therefore: so / for; why (rhetorical): why}
-ཕྱིར་གནོད: {retaliate, harm in return: retaliate}
-ཕྱིར་ཕྱུང་བོར་བ: {expelled (action/state): expelled}
-ཕྱིར་ཕྱོགས་: {to turn back: turn back}
-ཕྱིར་ཕྱོགས་འབྱེར་བར་: {to turn back and flee: turn back and flee}
-ཕྱིར་བཟློག: {turn back (term): turn back}
-ཕྱིར་མི་ལྡོག་པར་: {never to turn back: never turn back}
-ཕྱིར་ཞིང་: {further, moreover: further}
-ཕྱིར་ལ: {outwardly (manner/adverb): outwardly}
-ཕྱིར་ལྡོག: {to turn back: turn back}
-ཕྱིས: {later (term): later}
-ཕྱུགས: {beast(s) of burden: beast of burden / beasts}
-ཕྱུང་: {driven, cast out: driven}
-ཕྱུང་ན: {if produced: produced}
-ཕྱུང་ཡང་ནི་: {even if driven (out): even if driven}
-ཕྱུང་སྟེ: {having removed: removed}
-ཕྱེ: {divided (action/state): divided}
-ཕྱེ་བ: {opened (action/state): opened}
-ཕྱེད་བྱས་པར: {only half done (term): only half done}
-ཕྱོགས: {direction(s): direction / directions; position, side: position / side; parts (term): parts}
-ཕྱོགས་ཆ: {directional part(s): directional parts / directional part}
-ཕྱོགས་བཅུ: {the ten directions: ten directions}
-ཕྱོགས་བཅུ་: {the ten directions: ten directions}
-ཕྱོགས་བཞི: {the four directions: in every direction / every direction / four directions}
-ཕྱོགས་ཞེན: {partiality toward my own side (term): partiality toward my own side}
-ཕྱོགས་རེ: {partially (manner/adverb): partially}
-ཕྱོགས་རྣམས་ཀུན་ན: {in every direction (term): in every direction}
-ཕྱོགས་རྣམས་ཀུན་ནས: {from anywhere: anywhere}
-ཕྱོགས་སུ: {in position, direction: position}
-ཕྲ: {subtle (term): subtle}
-ཕྲ་གྱུར་པ: {having become subtle: become subtle}
-ཕྲ་མོ: {subtle (term): subtle}
-ཕྲག་དོག: {envy (mental state): envy}
-ཕྲག་ན་གནས: {dwells between the fangs (of): dwells between the fangs}
-ཕྲད: {encounters (term): encounters}
-ཕྲད་ན: {when it meets with: meets with}
-ཕྲད་པ: {meeting: meeting / meet}
-ཕྲན་ཚེགས: {trivial (reasons): trivial reasons / trivial}
-ཕྲེང་བ: {garland, rosary: garlands / rosary}
-ཕྲོགས: {stolen, seized: stolen away / seizes}
-ཕྲོགས་པ: {robbed (action/state): robbed}
-བཀག་ནས: {having blocked off: blocked off}
-བཀག་པ: {forbidden (term): forbidden}
-བཀག་ཟིན: {already refuted (action/state): already refuted}
-བཀང་བ: {filled (action/state): filled}
-བཀང་བའི: {filled (action/state): filled}
-བཀའ: {words, teaching (of the Buddha): words / command / instructions / taught}
-བཀའ་དྲིན: {kindness (term): kindness}
-བཀའ་ལས་འདས: {transgressed your command (term): transgressed your command}
-བཀའ་ལྟར་མི་བྱེད: {to fail to heed the instructions (term): to fail to heed the instructions}
-བཀུར: {honored, praised: honored / praise}
-བཀུར་བ: {honored (action/state): honored}
-བཀུར་སྟི: {honor (term): honor; reputation (term): reputation}
-བཀོད་པ: {a notion, arrangement: notion}
-བཀོན: {to resent: resent}
-བཀོལ: {made to serve (term): made to serve}
-བཀོལ་ཏེ: {wielding, employing: wields it}
-བཀོལ་བར་བྱ་བ: {to be put to use (term): to be put to use}
-བཀྲེན: {destitute (term): destitute}
-བཀྲེན་པ: {the destitute: destitute}
-བཀྲེས: {hunger (term): hunger}
-བཀྲེས་པ: {hungry (term): hungry}
-བཀྲེས་པ་རྣམས་ཀྱིས་ཟས: {may the hungry obtain food: hungry obtain food}
-བཀླག: {to read: read}
-བཀླགས: {learned by reading (action/state): learned by reading}
-བཀླགས་པ: {reading (action/state): reading}
-བག་ཅན: {the careful (conscientious): the careful}
-བག་ཆགས: {habitual imprint(s): habitual imprint / habitual imprints}
-བག་བྱེད: {to take care: take care}
-བག་མ: {a bride: bride}
-བག་མེད: {heedlessness, carelessness: heedless / carelessness}
-བག་མེད་པ: {carelessness (term): carelessness}
-བག་མེད་པས་ནི་བདག་ལའང་བདག་གནོད་པ་བྱེད: {through carelessness people harm even themselves (term): through carelessness people harm even themselves}
-བག་ཡངས: {without concern (term): without concern}
-བག་ཡོད: {conscientiousness: conscientiousness / careful}
-བག་ཡོད་: {Conscientiousness (proper name/title): Conscientiousness}
-བགོ: {to share: share}
-བགྱིད: {to commit, bring about: commit / bring / caused to do}
-བགྱིས: {done (honorific): done}
-བགྱིས་པ: {committed (action/state): committed}
-བགྲད: {bulging (eyes): bulging}
-བགྲོད: {to travel: travel}
-བཅད: {cutting (action/state): cutting}
-བཅས: {together with, possessing: together with / possessing}
-བཅས་པ: {accompanied by, filled with: accompanied by / filled with}
-བཅས་པའི: {by prohibition, decree: by prohibition}
-བཅིང: {binding (action/state): binding}
-བཅིངས: {bound (term): bound}
-བཅིངས་པ: {bound (term): bound}
-བཅུ: {ten (quantity): ten}
-བཅུ་: {ten (quantity): ten}
-བཅུ་པ: {Tenth (chapter): Tenth}
-བཅོན་ར་: {a prison: prison}
-བཅོམ: {destroyed, overcome, conquered: destroyed / overcome / overpower / conquer}
-བཅོམ་: {destroyed, defeated: destroyed}
-བཅོམ་ལྡན: {the Blessed One: Blessed One}
-བཅོམ་ལྡན་: {the Blessed One: Blessed One}
-བཅོས་དགོས་: {must be cured, remedied: must be cured}
-བཅོས་ཤིང་བསྒྱུར་ཏེ: {revised and translated (action/state): revised and translated}
-བཅོས་སུ: {as a solution/remedy: solution}
-བཅོས་སུ་ཡོད་ན: {if there is a solution (term): if there is a solution}
-བཏགས་པ: {bound (term): bound}
-བཏགས་པར་འགྱུར: {are bound (term): are bound}
-བཏང: {gave up, gave away: give up / give away}
-བཏང་: {abandon (term): abandon}
-བཏང་སེམས: {the intention to give: intention to give}
-བཏང་སྟེ: {given up (term): given up}
-བཏབ: {afflicted (action/state): afflicted}
-བཏབ་པ: {cast, sown: cast}
-བཏུང: {to drink: drink}
-བཏུང་བ: {drinks (term): drinks}
-བཏུད་པ: {to bow down: bow down}
-བཏུལ་བ: {taming (action/state): taming}
-བཏུས་པ: {Compendium (title): Compendium}
-བཏེག: {lifts up (term): lifts up}
-བཏེག་པ: {carried off (term): carried off}
-བཏོད་པ་: {inflicted (action/state): inflicted}
-བཏོད་པའི: {made, inflicted: made}
-བད་ཀན: {mucus (term): mucus}
-བདག: {self, one's own: self / own / my own / my own sake / my own self / self of their own; I, myself (1st person): myself / I / I myself; oneself (reflexive): oneself; mine, my possession: mine; you (self-address): you; themselves (term): themselves; self-praise, boasting: self-praise; me (object): me}
-བདག་: {I, my, self: my / me}
-བདག་གམ་བདག་གི་བཤེས: {myself or my friends (term): myself or my friends}
-བདག་གསོད: {to kill themselves: kill themselves}
-བདག་གི: {my, my own: my / my own / your own}
-བདག་གི་ལས: {my own past actions (term): my own past actions}
-བདག་གི་ལུས: {my own/this body of mine: my own body / this body of mine / your own body}
-བདག་གི་སེམས: {this mind of mine (term): this mind of mine}
-བདག་གིར་གཟུང: {to hold as your own: hold as your own}
-བདག་གིར་བཟུང་མེད: {belonging to no one (term): belonging to no one}
-བདག་གིར་བཟུང་མེད་པ: {unclaimed (action/state): unclaimed}
-བདག་གིས་: {by me, I: I}
-བདག་ཅན: {having the nature (of): nature}
-བདག་ཉིད: {myself, yourself, oneself: myself / yourself / own / self / themselves; self-contempt (term): self-contempt; self-mastery (term): self-mastery}
-བདག་ཉིད་: {myself, oneself: myself}
-བདག་ཏུ་འཛིན་པ: {grasping at a self (term): grasping at a self}
-བདག་དོན: {self-concerned (interest): self-concerned}
-བདག་པོ: {an owner: owner}
-བདག་བསྟོད: {self-praise (term): self-praise}
-བདག་མེད: {selflessness (term): selflessness}
-བདག་འཛིན: {self-grasping (action/state): self-grasping}
-བདག་ལའང་བདག: {harm even themselves (term): harm even themselves}
-བདག་སེམས: {my mind (term): my mind}
-བདག་སེམས་རིམ་གྲོ་འདོད: {my mind desires to be served (action/state): my mind desires to be served}
-བདར: {offered first (term): offered first}
-བདས: {driven along (term): driven along}
-བདུག་པ: {incense (term): incense}
-བདུད: {Māra (proper name/title): Māra}
-བདུད་ཀྱི: {of Māra (term): of Māra}
-བདུད་རྩི: {elixir (of immortality): elixir}
-བདུན་པའོ: {(end of) Seventh (chapter): Seventh}
-བདེ: {happiness (mental state): happiness; pleasure (sensory): pleasure; happy (adjective): happy; welfare, wellbeing: welfare; ease, at ease: ease / at ease; joy (mental state): joy; comfort (term): comfort}
-བདེ་: {happiness (mental state): happiness}
-བདེ་གཤེགས: {Sugata(s) (epithet of Buddha): Sugatas / Sugata}
-བདེ་གཤེགས་ཆོས་ཀྱི་སྐུ: {the Sugatas endowed with the Dharma-body: Sugatas endowed with the Dharma-body}
-བདེ་གྱུར་ཅིག: {may (they) attain happiness: attain happiness}
-བདེ་ཅན: {Sukhāvatī (proper name): Sukhāvatī}
-བདེ་ཅན་བདེ་བས: {with the happiness of Sukhāvatī: happiness of Sukhāvatī}
-བདེ་དགའ: {joy and happiness (term): joy and happiness}
-བདེ་དང་ལྡན: {to dwell in happiness: dwell in happiness}
-བདེ་དོན: {welfare and happiness: welfare}
-བདེ་བ: {happiness (mental state): happiness; pleasure (mental state): pleasure; pleasant (term): pleasant; ease (term): ease}
-བདེ་བ་: {happiness (mental state): happiness}
-བདེ་བའི: {of happiness, of comfort: of happiness / of comfort}
-བདེ་བའི་རོ་མྱང: {tasting the flavor of comfort: taste of the comfort}
-བདེ་བའི་རྒྱུ་ནི་རེས་འགའ་འབྱུང: {causes of happiness sometimes arise (term): causes of happiness sometimes arise}
-བདེ་བར: {happily, at ease: at ease / comfortably / happy / happiness / happily}
-བདེ་བར་གཤེགས: {the Sugatas (epithet of Buddha): Sugatas}
-བདེ་བར་གྱུར: {would become happy: would be happy / become happy}
-བདེ་བླག: {at ease (term): at ease}
-བདེ་བླག་ཉིད་དུ: {easily (manner/adverb): easily}
-བདེ་མཆོག: {the highest happiness: highest happiness}
-བདེ་འགྲོ: {a good/fortunate rebirth: good rebirth / fortunate rebirth / fortunate realms}
-བདེ་འགྲོའི་: {of a happy realm: of happy realm}
-བདེ་འགྲོར་: {to a happy realm (term): to a happy realm}
-བདེ་འདོད: {wishing for happiness (term): wishing for happiness}
-བདེ་འབྲས: {the pleasure that is its result: pleasure its result brings}
-བདེ་འབྲེལ་བ: {brings happiness (term): brings happiness}
-བདེ་ལ: {in happiness: happiness}
-བདེ་ལས: {from happiness: happiness}
-བདེ་སོགས: {pleasure and the rest (term): pleasure and the rest}
-བདེ་སོགས་གསལ་བ: {that experience of pleasure and the like being manifest: that experience of pleasure grasped}
-བདེ་སྐྱིད: {pleasant and comfortable, happiness: pleasant and comfortable / happiness}
-བདེ་སྤྱད: {enjoys happiness (term): enjoys happiness}
-བདེན: {real, true (philosophical): real / true / ultimately real; truths (plural): truths}
-བདེན་གཉིས: {the two truths: two truths}
-བདེན་ཉིད: {truly real (term): truly real}
-བདེན་པ: {truths (term): truths}
-བདེན་པ་གཉིས: {the two truths: two truths}
-བདེན་པར: {truly, as real: real / truly / truly existing}
-བདེན་པར་ཡོད་པ: {to truly exist: truly exist}
-བདེར: {into happiness: happy / into happiness}
-བདེར་གནས་པ: {dwells happily (manner/adverb): dwells happily}
-བདོ་བར: {wretchedly: wretched}
-བདོག་པ: {possessions (term): possessions}
-བནྡེ: {Bande (monastic title/name): Bande}
-བནྡེ་དཔལ་བརྩེགས: {Bande Paltsek (proper name): Bande Paltsek}
-བནྡེ་རིན་ཆེན: {Bande Rinchen (proper name): Bande Rinchen}
-བནྡེ་རིན་ཆེན་བཟང་པོ: {Bande Rinchen Zangpo (proper name): Bande Rinchen Zangpo}
-བབ་ཀྱང: {whatever happens (term): whatever happens}
-བབ་ཅོལ་: {rashly (manner/adverb): rashly}
-བབ་ཅོལ་དུ: {carelessly (manner/adverb): carelessly}
-བབས་པ: {falling (action/state): falling}
-བཙལ: {searched: searched / searches}
-བཙལ་བྱ: {should seek (term): should seek}
-བཙུགས: {impaled (action/state): impaled}
-བཙུན་པ: {noble (term): noble}
-བཙོ་མ: {polished (action/state): polished}
-བཙོང་བ: {to sell themselves: sell themselves}
-བཙོན་ར: {a prison: prison}
-བཞག: {to settle: settle}
-བཞག་པ: {placed (action/state): placed}
-བཞད་གད: {a laughingstock: laughingstock}
-བཞིན: {like, just as: like / just as / just like / as / just; countenance, face: countenance / face; manner, ways: ways; so too, likewise: so too / likewise}
-བཞིན་: {like, as: like}
-བཞིན་དུ: {like, just as: like / just as / as; as though (term): as though}
-བཞུགས: {to dwell (honorific): dwell}
-བཞུགས་པ: {dwelling, present: dwelling / present}
-བཞེད་པ: {wishing (action/state): wishing}
-བཞེས: {to accept: accept}
-བཞེས་ཤིག: {accept! (imperative): accept}
-བཞོན་བ: {a vehicle, mount: vehicle}
-བཟང: {Sudhana (proper name): Sudhana; fine (adjective): fine}
-བཟང་དགུ: {entirely good (term): entirely good}
-བཟང་པོ: {good, finest: good / finest; Zangpo (proper name): Zangpo}
-བཟང་པོ་དང་ཤཱཀྱ: {Zangpo and Śākya (proper name/title): Zangpo and Śākya}
-བཟའ: {to eat: eating / eat}
-བཟའ་བཏུང: {food and drink (term): food and drink}
-བཟར: {to eat: eat}
-བཟུང: {seized, gripped: seized / caught / gripped}
-བཟུང་ནས་: {having taken hold of: taken hold of}
-བཟུང་བཞིན: {while still gripped (action/state): while still gripped}
-བཟུང་སྟེ: {having taken up (term): having taken up}
-བཟེ་རེ: {delicate (action/state): delicate}
-བཟེ་རེ་ཅན: {overly delicate, fragility: overly delicate / fragility / delicacy}
-བཟེ་རེ་མི་བྱ: {should not be too delicate (action/state): should not be too delicate}
-བཟོད: {patience, to bear: patience / tolerate / hard to accept}
-བཟོད་: {to endure: endure}
-བཟོད་དཀས་: {unbearable (term): unbearable}
-བཟོད་པ: {patience: patience / Patience; patient (adjective): patient}
-བཟོད་པ་: {patience (term): patience}
-བཟོད་པ་བསྟན་པ: {teaching patience (title): Teaching Patience}
-བཟོད་པར: {with patience, to bear: with patience / bear}
-བཟོད་པར་གསོལ: {I pray that he forgive me: pray that he forgive me}
-བཟོད་པར་བྱོས: {I should learn to bear (proper name/title): I should learn to bear}
-བཟོད་པས: {through patience: through my patience / having patience}
-བཟོད་བསྒྲུབ: {to develop patience: develop patience}
-བཟོད་བྱ: {I should bear (proper name/title): I should bear}
-བཟོད་བྱེད: {endures: endure}
-བཟླས་བརྗོད: {recitation(s) (of mantra): recitations / recitation}
-བཟློག: {to turn back, reverse: turn back / reverse; eliminated (action/state): eliminated; refuted (action/state): refuted}
-བཟློག་པ: {preventing (action/state): preventing}
-བཟློག་པར: {to drive away, turn away: drive away / turn away}
-བཟློག་བྱ: {to be prevented, refuted: preventing / to be refuted}
-བཟློག་མེད: {no way to reverse (term): no way to reverse}
-བར: {interval (term): interval}
-བར་ཆད: {obstructs (term): obstructs}
-བར་ཆད་གེགས་བྱེད་པ་: {obstructs (term): obstructs}
-བར་དུ: {in between, until: in between}
-བརྐམ་པ: {craving (mental state): craving}
-བརྐམ་པས: {through craving: crave}
-བརྐུས: {to steal: steal}
-བརྐྱང: {stretched out (term): stretched out}
-བརྒལ: {to cross beyond: cross beyond}
-བརྒལ་འདོད: {wish to cross over (term): wish to cross over}
-བརྒྱ: {a hundred: a hundred / hundred years / hundred}
-བརྒྱ་ཕྲག: {hundreds: hundreds / hundred ways}
-བརྒྱ་ཕྲག་: {a hundred (multiples): a hundred}
-བརྒྱད་པ: {Eighth (chapter): Eighth}
-བརྒྱན: {adorned (action/state): adorned}
-བརྒྱན་པ: {adorned (action/state): adorned}
-བརྒྱན་པར: {to adorn: adorn}
-བརྒྱན་པར་བགྱི: {I adorn (proper name/title): I adorn}
-བརྒྱར: {a hundred times: hundred}
-བརྒྱར་: {a hundred times: hundred}
-བརྒྱལ་བར: {to grow faint, lose consciousness: grow faint / lose consciousness}
-བརྒྱུད: {indirectly, through transmission: indirectly}
-བརྗེ: {to exchange: exchanging}
-བརྗེ་བར: {exchanging (action/state): exchanging}
-བརྗོད: {to say, state: said / say / stated; spoken of, discussed: spoken of / speak of / discuss; called, designated: called / designated / expressed; held to be (term): held to be; blame (term): blame}
-བརྗོད་པར་བྱ: {I will explain (proper name/title): I will explain}
-བརྗོད་བྱ: {comes to be called: come to be called}
-བརྙན་པོ་བཞིན་: {like a thing borrowed (action/state): like a thing borrowed}
-བརྙས: {contempt: contempt / looking down}
-བརྙས་པ: {treating with contempt: treating with contempt / contempt}
-བརྙས་པར: {to be despised: despised / be despised}
-བརྟག: {to check, examine: check / examine / analyzed}
-བརྟག་པར: {to examine, analyze: examine / analyze}
-བརྟག་པར་གྱིས: {investigate!: investigate}
-བརྟག་བྱ: {to be analyzed (action/state): to be analyzed}
-བརྟག་བྱའི་དངོས་པོ: {the entity to be analyzed: entity to be analyzed}
-བརྟག་བྱས: {having checked (action/state): having checked}
-བརྟགས: {examined: examined / examine; imagined, understands: understands / imagined}
-བརྟགས་: {examined (action/state): examined}
-བརྟགས་ནས: {having examined (action/state): having examined}
-བརྟགས་པ: {posited, imagined, conceived of: posited / conceived of / imagined / imputed entity}
-བརྟགས་པའི་: {of examination: examination}
-བརྟགས་པའི་རིགས་: {it is right to consider (term): it is right to consider}
-བརྟན: {steadiness, steadfastness: steadiness / steadfastness}
-བརྟན་པ: {firm, steady (resolve): firm / steady / firm resolve}
-བརྟན་པར: {firmly, steadily: hold firmly / firm and steady / firmly fixed / firm}
-བརྟན་པོར: {firmly (manner/adverb): firmly}
-བརྟན་མེད་འགྱུར: {will remain unsettled (action/state): will remain unsettled}
-བརྟས་ཏེ: {grows strong (term): grows strong}
-བརྟུལ་ཞུགས: {discipline, ascetic vows: discipline / ascetic discipline / vows; disciplined conduct (term): disciplined conduct}
-བརྟུལ་ཞུགས་ཅན: {of disciplined conduct (term): of disciplined conduct}
-བརྟེན: {to rely on, depend on: rely / depend on / in dependence / dependent}
-བརྟེན་གྱུར་པ: {those who depend on: who depend}
-བརྟེན་ནས: {in dependence on, by relying on: in dependence on / by relying / by relying on / relying on}
-བརྟེན་པ: {dependent (term): dependent}
-བརྟེན་པས: {by relying on (term): by relying on}
-བརྡ: {gesture, signal: gesture / signal}
-བརྡེག: {to beat: beat}
-བརྩད: {questioned, disputed: questioned / dispute}
-བརྩམ: {to undertake, begin: undertake / begin}
-བརྩམས: {written, composed: written}
-བརྩམས་པ: {undertaken, begun: undertaken / begun}
-བརྩམས་པ་: {undertaken (term): undertaken}
-བརྩམས་པ་ཡི: {through composing (action/state): through composing}
-བརྩིས་ནས: {having reckoned (action/state): having reckoned}
-བརྩེ: {loving (action/state): loving}
-བརྩེ་དང་ལྡན་པ: {endowed with loving compassion (term): endowed with loving compassion}
-བརྩེ་བ: {loving-kindness (term): loving-kindness}
-བརྩེ་བ་མེད་པ: {merciless (term): merciless}
-བརྩེ་ལྡན: {loving-kindness (term): loving-kindness}
-བརྩེར་དགོངས: {think of me with love (term): think of me with love}
-བརྩེར་ལྡན: {feeling compassion: feel compassion}
-བརྩོན: {diligence, effort, to strive: diligence / strive / strove / effort}
-བརྩོན་: {effort, determination: effort / determined}
-བརྩོན་གྱུར་པ་: {striving (action/state): striving}
-བརྩོན་པ: {effort, striving: effort / strive / striving; diligent, diligently zealous: diligently zealous / diligent}
-བརྩོན་པ་: {fortitude, to strive: fortitude / strive}
-བརྩོན་པའི: {of diligence (term): of diligence}
-བརྩོན་པར: {strives diligently (manner/adverb): strives diligently}
-བརྩོན་པར་: {to strive: strive}
-བརྩོན་འགྲུས: {diligence: diligence / Diligence}
-བརྩོན་འགྲུས་བརྩམ: {to undertake diligence: undertake diligence}
-བརྩོན་འགྲུས་བསྐྱེད་ནས: {having generated diligence (term): having generated diligence}
-བརྩོན་འགྲུས་བསྟན་པ: {teaching diligence (title): Teaching Diligence}
-བརྫུན: {false (term): false}
-བརླ: {thigh (term): thigh}
-བརླག: {to crush: crush}
-བརླག་པ: {losing (action/state): losing}
-བརླག་བྱེད: {destroys (term): destroys}
-བརླན: {moistened (action/state): moistened}
-བལྟ: {to look, regard: look / beholding / regard; consulted, studied (of texts): consulted / studied}
-བལྟ་ན་སྡུག་པ: {lovely to behold (term): lovely to behold}
-བལྟ་བ: {to look: look}
-བལྟ་བར: {to look: look}
-བལྟ་བར་བྱ: {I should look (proper name/title): I should look}
-བལྟ་བྱ: {to be examined: examined}
-བལྟས: {regarding (action/state): regarding}
-བལྟས་བཞིན་དུ: {while watching you: watching you}
-བཤགས: {I confess (proper name/title): I confess}
-བཤགས་པ: {Confessing (proper name/title): Confessing}
-བཤགས་པར་བགྱི: {I confess (proper name/title): I confess}
-བཤགས་བགྱི: {I confess: confess}
-བཤང: {excrement (term): excrement}
-བཤད: {taught, explained: taught / explained / it is said}
-བཤད་པ་: {just described, explained: just described}
-བཤད་བྱ: {should be explained (action/state): should be explained}
-བཤིག་: {destroying (action/state): destroying}
-བཤུས་པས: {flayed (action/state): flayed}
-བཤེས: {friend(s): friend / friends}
-བཤེས་པ: {friends (term): friends}
-བཤོལ་: {to turn back, postpone: turn back}
-བསགས: {gathered, accumulated: gather / amassed / accumulating}
-བསགས་: {accumulated (action/state): accumulated}
-བསགས་པ: {amassed (action/state): amassed}
-བསད: {killing, condemned (to die): killing / condemned}
-བསད་: {killed (action/state): killed}
-བསམ: {intention, to consider, reflect: intention / consider / reflect / considering / reflected / considers}
-བསམ་གཏན: {meditative concentration: Meditative Concentration / concentration / meditative concentration}
-བསམ་གཏན་བསྟན་པ: {teaching meditative concentration (title): Teaching Meditative Concentration}
-བསམ་གྱིས་མི་ཁྱབ་: {inconceivable (term): inconceivable}
-བསམ་པ: {intention, thought: intention / thought / intent; wish: wish / heart's wishes; motivation (term): motivation; thinking, deliberating: thinking / think / deliberated; heart (body part): heart; focused (on): focused; resolve (term): resolve}
-བསམ་པ་ཐག་པས་: {earnestly, with firm intent: earnestly}
-བསམ་པའི: {of a good intention (term): of a good intention}
-བསམ་པས: {by contemplating: contemplating}
-བསམ་བྱས: {reflected (action/state): reflected}
-བསམ་བྱས་ནས་: {having intended in his mind: intends in his mind}
-བསམ་མིན: {inconceivable (term): inconceivable}
-བསམ་མིན་པ: {inconceivable (term): inconceivable}
-བསམ་ཡས: {inconceivable (term): inconceivable}
-བསམས: {thought, reflected upon: thinking / reflected upon / think / reflecting / intention}
-བསམས་པ: {intending (action/state): intending}
-བསམས་པའི: {genuine, well-intended: genuine}
-བསལ: {to dispel, remove: dispel / dispels / remove / removed / eliminate / relieve; uncovered, pulled away: uncovered / pulled away}
-བསལ་ཕྱིར: {in order to eliminate: to eliminate}
-བསལ་བར: {to be dispelled: be dispelled / to dispel}
-བསལ་བྱ: {to be dispelled: dispelled}
-བསལ་བྱས: {pulling away (term): pulling away}
-བསིལ་བ: {cool (term): cool}
-བསིལ་བར: {cooled, refreshed: cooled / refreshed}
-བསིལ་ཞིང: {cool (term): cool}
-བསེལ་བའི: {cooling (action/state): cooling}
-བསོད་ནམས: {merit (karmic): merit; good deeds (term): good deeds; virtuous (adjective): virtuous}
-བསོད་ནམས་: {merit (term): merit}
-བསོད་ནམས་མ་ཡིན: {unmeritorious (term): unmeritorious}
-བསོད་སྙོམས: {alms (term): alms}
-བསྐལ་པ: {eon(s): eons / eon}
-བསྐལ་པ་: {eons (term): eons}
-བསྐལ་པར་: {for an eon (term): for an eon}
-བསྐུལ་བྱས: {impelled (action/state): impelled}
-བསྐུལ་འདེབས: {advice, exhortation: advice}
-བསྐུས་པ: {applied (action/state): applied}
-བསྐྱངས་པ: {to nurture: nurture}
-བསྐྱབ: {to protect: protect}
-བསྐྱབ་པར: {to protect: protect}
-བསྐྱབས: {to protect: protect}
-བསྐྱེད: {to generate, produce: generated / generate / generating / producing / produced / created / bring / cultivate; grows (intransitive): grows; nourished (action/state): nourished}
-བསྐྱེད་ན: {if they generate (action/state): if they generate}
-བསྐྱེད་ནས: {having generated: generated}
-བསྐྱེད་པ: {produced, generated: produced / generated}
-བསྐྱེད་པའི: {that gives rise to: gives rise to}
-བསྐྱེད་པར: {to produce, bring about: produce it / brought about}
-བསྐྱེད་པས: {by generating: generates}
-བསྐྱེད་བགྱི: {I will generate (proper name/title): I will generate}
-བསྐྱེད་འདོད་པ: {said to have created (action/state): said to have created}
-བསྐྱོད: {waved about, moved about: wave about / moved about}
-བསྐྱོད་པར: {to move: move}
-བསྐྱོད་བྱ: {to be moved: moved}
-བསྒོམ: {to cultivate (in meditation): cultivate}
-བསྒོམ་པ: {meditation (term): meditation}
-བསྒོམ་པར་བྱ: {to be cultivated (in meditation): cultivate / must be cultivated / should meditate}
-བསྒོམས་པ: {meditated on (term): meditated on}
-བསྒོམས་པས: {by meditating: meditating}
-བསྒྱུར: {to transform: transform}
-བསྒྱུར་བ: {transformed (action/state): transformed}
-བསྒྲགས་པ: {proclaimed (action/state): proclaimed}
-བསྒྲལ་བར་: {to free (term): to free}
-བསྒྲིབས་པ: {obscured (action/state): obscured}
-བསྒྲིམས: {strive diligently: strive diligently / diligently / strive}
-བསྒྲིམས་ཏེ: {earnestly (manner/adverb): earnestly}
-བསྒྲུབ: {to help develop: help develop}
-བསྒྲུབ་པ་: {to carry out: carry out}
-བསྒྲུབ་པའི: {of accomplishing: accomplishing / to accomplish}
-བསྒྲུབ་པའི་: {to accomplish (term): to accomplish}
-བསྒྲུབ་པར: {to attain (term): to attain}
-བསྒྲུབ་པར་: {to carry out: carry out}
-བསྒྲུབ་པར་བྱ: {I should accomplish (proper name/title): I should accomplish}
-བསྒྲུབ་བྱ: {must accomplish (term): must accomplish}
-བསྒྲུབས: {obtained, undertaken, built: obtained / undertaken / built}
-བསྒྲུབས་པ: {striving to acquire, built: striving to acquire / built}
-བསྒྲུབས་པས: {accomplished (action/state): accomplished}
-བསྒྲེང་བ: {held aloft (term): held aloft}
-བསྔགས: {praise (term): praise}
-བསྔགས་འོས: {worthy of praise (term): worthy of praise}
-བསྔོ་བ: {dedication (of merit): Dedication}
-བསྔོའོ: {should dedicate (action/state): should dedicate}
-བསྙེན་བཀུར: {respect, service: respect}
-བསྟན: {taught (has taught): taught / has taught / teaching}
-བསྟན་པ: {the Teaching(s): Teaching / teachings}
-བསྟན་པ་: {the Teaching: Teaching}
-བསྟན་པར་གྱིས: {show it to me!: show it to me}
-བསྟན་པར་བྱ: {should indicate (action/state): should indicate}
-བསྟན་རྩ: {the root of the teaching: root of the teaching}
-བསྟེན: {relied upon, take up: relied upon / take up}
-བསྟེན་: {relied upon (term): relied upon}
-བསྟེན་པ: {associating with, a source: associating / source}
-བསྟེན་བྱས་ན་: {when served, relied upon: when served}
-བསྟོད: {praise (noun/verb): praise / Praise / praised; self-praise (term): self-praise}
-བསྟོད་དབྱངས: {songs of praise: songs of praise / sweet praise / songs}
-བསྟོད་པ: {praise, praised: praised / praise}
-བསྟོད་སོགས: {praise and reputation and the like: praise and reputation}
-བསྡམས: {held in check (term): held in check}
-བསྡམས་པ: {bound (term): bound}
-བསྡིགས: {threatened (action/state): threatened}
-བསྡུས་འཇོམས: {crushed, crushing: crushed / crushing}
-བསྡོགས: {resolved (action/state): resolved}
-བསྡོངས་སྟོང: {a thousandfold: thousandfold}
-བསྣུན: {pierced (action/state): pierced}
-བསྲུང: {to guard, protect: guard / guards / protect / guarding}
-བསྲུང་བ: {guarding, protecting: guarding / protects / protective attitude}
-བསྲུང་བའི་དོན: {for the purpose of guarding it (term): for the purpose of guarding it}
-བསྲུང་བར: {to guard, protect: to guard / guard it / protect}
-བསྲུང་བར་བྱ་བ: {guarding (title): Guarding}
-བསྲུང་བར་མ་བྱས: {is not guarded (action/state): is not guarded}
-བསྲུང་བར་འདོད་པ: {wish to guard (term): wish to guard}
-བསྲུང་བྱ: {to be protected: protected}
-བསྲུང་སེམས: {a protective attitude/mind: protective attitude}
-བསྲུངས: {guarded, protected: guard / protect}
-བསྲུངས་པར: {protected (action/state): protected}
-བསྲུབས་པ: {churned (action/state): churned}
-བསྲེག: {burned, burning: burned / burning}
-བསྲེགས་: {burned (action/state): burned}
-བསྲེགས་པ: {burned alive (term): burned alive}
-བསླང་བ: {deliberately applied: applied deliberately}
-བསླབ: {to train: train / I will train}
-བསླབ་: {trainings (term): trainings}
-བསླབ་པ: {trainings (the bodhisattva precepts): trainings; teachings (term): teachings}
-བསླབ་པ་: {trainings (term): trainings}
-བསླུ་: {to deceive: deceive}
-བསླུ་བ་: {deceptive (term): deceptive}
-བསླུས་པ: {deceived (action/state): deceived}
-བསླུས་པ་: {deception (term): deception}
-བསླུས་པས་: {having deceived (action/state): having deceived}
-བུ: {son (term): son}
-བུ་ག: {cavities (term): cavities}
-བུ་ག་: {a hole: hole}
-བུ་མོ: {daughter (term): daughter}
-བུ་སྨད: {wife and children (term): wife and children}
-བུང་བ: {bee(s): bees / bee}
-བུད་མེད: {women, woman: women / woman / female; another man's wife (term): another man's wife}
-བུམ: {a vase: vase}
-བུམ་པ: {vase, vessel, pot: vessels / vase / pot}
-བཻ་ཌཱུརྱ: {lapis lazuli (term): lapis lazuli}
-བོད: {Tibet (proper name/title): Tibet}
-བོད་སྐད: {the language of Tibet: language of Tibet}
-བོར: {abandoning, leaving behind: abandoning / leave behind}
-བོར་བ: {discarded (action/state): discarded}
-བོར་ལ: {cast aside (term): cast aside}
-བྱ: {birds (term): birds; to act, perform, carry out: act / carry out / perform / did}
-བྱ་དགོས: {must follow, do: must follow}
-བྱ་བ: {a task: task}
-བྱ་བ་མ་བྱས: {performed no service (term): performed no service}
-བྱ་བའི: {of the task (term): of the task}
-བྱ་བའི་ཡོན་ཏན: {qualities (guṇas) of action: qualities}
-བྱ་རྒོད: {vulture(s): vultures}
-བྱང་ཆུབ: {awakening, enlightenment: awakening / Awakening; (in compound) Bodhisattva: Bodhisattva}
-བྱང་ཆུབ་: {awakening (action/state): awakening}
-བྱང་ཆུབ་ཀྱི་སེམས: {the Mind of Awakening (action/state): the Mind of Awakening}
-བྱང་ཆུབ་ཀྱི་སེམས་ཡོངས་སུ་བཟུང་བ: {wholly adopting the Mind of Awakening (title): Wholly Adopting the Mind of Awakening}
-བྱང་ཆུབ་ཐུགས: {mind of awakening (action/state): mind of awakening}
-བྱང་ཆུབ་སེམས: {bodhicitta (technical term): bodhicitta / Bodhicitta; the mind of awakening (literal): mind of awakening}
-བྱང་ཆུབ་སེམས་: {the mind of awakening, bodhicitta: mind of awakening / bodhicitta}
-བྱང་ཆུབ་སེམས་ཀྱི་ལྗོན་ཤིང: {the tree of bodhicitta (term): the tree of bodhicitta}
-བྱང་ཆུབ་སེམས་ཀྱི་ལྗོན་ཤིང་འབྲས་བུ་འབྱིན་པ: {the tree of bodhicitta bears fruit (term): the tree of bodhicitta bears fruit}
-བྱང་ཆུབ་སེམས་དཔའ: {bodhisattva(s): bodhisattvas / bodhisattva / Bodhisattva / Bodhisattvas / bodhisattvas'}
-བྱང་ཆུབ་སེམས་དཔའ་: {bodhisattva (term): bodhisattva}
-བྱང་ཆུབ་སེམས་དཔའ་ཡི: {of bodhisattvas (term): of bodhisattvas}
-བྱང་ཆུབ་སེམས་དཔའི: {Bodhisattva's: Bodhisattva's / of the bodhisattvas}
-བྱང་ཆུབ་སེམས་དཔའི་: {the Bodhisattva's: Bodhisattva's}
-བྱང་ཆུབ་སེམས་དཔའི་དགེ་འདུན: {the community of bodhisattvas: community of bodhisattvas}
-བྱང་ཆུབ་སེམས་ཞེས་བྱ་བ: {this thing called bodhicitta (term): this thing called bodhicitta}
-བྱང་ཆུབ་སེམས་སྐྱེས་གྱུར་ན: {the moment bodhicitta arises (term): the moment bodhicitta arises}
-བྱང་ཆུབ་སྤྱོད་པ: {bodhisattva conduct: bodhisattvas}
-བྱང་ཆུབ་སྤྱོད་པའི: {of awakened conduct (term): of awakened conduct}
-བྱང་ཆུབ་སྨོན་པའི་སེམས་ལས་འབྲས་བུ་ཆེ་འབྱུང: {the aspiring mind of awakening brings great fruit (term): the aspiring mind of awakening brings great fruit}
-བྱད་མ: {witches (term): witches}
-བྱམས: {Maitreya (proper name): Maitreya}
-བྱམས་པ: {loving (action/state): loving}
-བྱམས་མགོན: {the protector Maitreya: protector Maitreya}
-བྱམས་སེམས: {a mind of loving-kindness: loving kindness / loving-kindness}
-བྱར: {for the time being (action/state): for the time being}
-བྱས: {committed, done: committed / done / acted / action / acting / undertaken; made (term): made; accomplished (action/state): accomplished; harmed (action/state): harmed}
-བྱས་: {performed, committed: perform / committed}
-བྱས་ཏེ: {having done (term): having done}
-བྱས་ན: {if (one) acts, does: acting so / if I have done}
-བྱས་ནས: {having committed (action/state): having committed}
-བྱས་པ: {practiced, performed: practiced / performed}
-བྱས་པའི: {of benefiting: benefiting}
-བྱས་པར: {undertaken (term): undertaken}
-བྱས་པས: {having performed, done: I have done / performed}
-བྱི་དོར: {to groom, tend to: groom / tending}
-བྱི་དོར་བྱས་པ: {well-refined (action/state): well-refined}
-བྱི་བ: {a rat: rat}
-བྱི་ལ: {a cat: cat}
-བྱིང་བ: {sunk (term): sunk}
-བྱིན: {granted, handed over: grant / handed over}
-བྱིན་གྱིས་བརླབས: {blessed (action/state): blessed}
-བྱིན་པ: {betrayed, shoulders (contextual): betrayed / shoulders}
-བྱིས: {childish (term): childish}
-བྱིས་དང་འགྲོགས་པ: {associating with the childish (term): associating with the childish}
-བྱིས་པ: {childish (adjective/beings): childish / childish beings / childish person; children, child: children / child / child's}
-བྱིས་པ་རྣམས: {childish beings (term): childish beings}
-བྱིས་པའི: {childish (term): childish}
-བྱིས་པའི་འདོད་པ: {the desires of childish beings: desires of childish beings}
-བྱུག་པར་བགྱི: {I anoint (proper name/title): I anoint}
-བྱུགས་པ: {anointed (action/state): anointed}
-བྱུང: {arise, comes about: arise / arises / comes; birth (term): birth}
-བྱུང་གྱུར: {arise, arisen: arise / arisen}
-བྱུང་གྱུར་ན་: {if it were to occur (term): if it were to occur}
-བྱུང་གྱུར་པ: {what was done, occurred: what was done}
-བྱུང་ན: {if it arises: arises}
-བྱུང་བ: {to arise, occur, appear: arise / occurs / appearing / arisen / originates / arose / born of / notion arise}
-བྱུང་བའི: {flowing forth (term): flowing forth}
-བྱུང་ཡང: {even when it arises: even when arises}
-བྱེ་བ: {millions, ten million: millions / million}
-བྱེ་བ་: {a million (ten million): million}
-བྱེ་བ་བརྒྱ་ཕྲག: {a hundred million: hundred million}
-བྱེ་བའི་ཆ་ཙམ: {a ten-millionth part: ten-millionth part}
-བྱེ་བྲག: {difference, distinction: difference / distinction / distinctions}
-བྱེ་མའི་ཁང་བུ: {a sandcastle: sandcastle}
-བྱེད: {to create, act: create / creates / act; to engage in: engage; to do that: do that; to lead: lead; to comply: comply; to govern: govern}
-བྱེད་ན་: {if I act (term): if I act}
-བྱེད་པ: {to do, act, cause: does / causes / performing / doing / performs the action; behaving improperly (idiom): behaving improperly}
-བྱེད་པ་མེད་པ: {inactive (term): inactive}
-བྱེད་པའི: {of acting (action/state): of acting}
-བྱེད་པར: {to perform: perform}
-བྱེད་པར་འགྱུར: {comes to be: come}
-བྱེད་པོ: {an agent (one who acts): agent}
-བྱེད་འདོད: {wishing to do: wishing}
-བྱེས: {abroad (term): abroad}
-བྲང: {chest (term): chest}
-བྲན: {servant(s), slave(s): servant / slave / slaves / servants; servitude (term): servitude}
-བྲན་གཡོག: {a servant: servant}
-བྲན་གྱི་དངོས: {to act as their servant: act as their servant}
-བྲན་བཞིན་བྱས་: {made their slave (term): made their slave}
-བྲལ: {freed, cast aside, or lacking: freed / cast aside / lacking}
-བྲལ་ནས: {freed from (term): freed from}
-བྲལ་བ: {devoid of, separated: devoid / lacked / separation}
-བྲལ་བར: {to leave behind (term): to leave behind}
-བྲལ་བར་ཤོག: {may (they) be freed: may be freed}
-བྲེད: {turns pale with fear (term): turns pale with fear}
-བླ་ན་མེད: {unsurpassed (action/state): unsurpassed}
-བླ་ན་མེད་པའི་: {highest, unsurpassed: highest}
-བླ་མ: {teacher(s): teacher / teachers; guides (term): guides}
-བླ་མེད: {unsurpassed (action/state): unsurpassed}
-བླ་རེ: {a canopy: canopy}
-བླང: {accepting (action/state): accepting}
-བླང་བ: {taking up (term): taking up}
-བླངས: {taken hold of (term): taken hold of}
-བླངས་གྱུར་པ: {takes up (term): takes up}
-བླངས་ནས: {taking (action/state): taking}
-བླན: {to turn back: turn back}
-བླུགས་གྱུར: {drenched (action/state): drenched}
-བློ: {mind, intellect: mind / intellect; wisdom (mental state): wisdom; understanding (mental state): understanding; sense of 'I': sense of I; consciousness (term): consciousness}
-བློ་: {mind, intellect: mind}
-བློ་ཁྱད: {differences of insight (term): differences of insight}
-བློ་ཁྱད་ཀྱིས: {through differences of insight (term): through differences of insight}
-བློ་གྲོས: {wise intentions (term): wise intentions; blo-gros (part of a proper name): blo-gros}
-བློ་དང་ལྡན་པ: {intelligent, wise: intelligently / wise}
-བློ་མྱ་ངན་འདས་པ་སྒྲུབ: {my mind seeks nirvāṇa (term): my mind seeks nirvāṇa}
-མ: {mother (term): mother}
-མ་གཏོགས་གཅིག: {one part not included (action/state): one part not included}
-མ་གཏོགས་པ: {except (term): except}
-མ་གཏོགས་པར: {except, other than: than / nothing else}
-མ་གྱུར: {never, may (one) not become: never}
-མ་གྱུར་ཏམ: {have you not seen/become: have you not seen}
-མ་གྱུར་པ: {not having become, realized: not having realized}
-མ་གྲུབ: {not established (action/state): not established}
-མ་ཐུལ: {untamed (action/state): untamed}
-མ་དག་པ: {impure (term): impure}
-མ་དད: {to lose faith: lose faith}
-མ་དཔྱད: {without analyzing (action/state): without analyzing}
-མ་དཔྱད་པར: {without distinguishing (action/state): without distinguishing}
-མ་བཀག་པ: {not prohibited (action/state): not prohibited}
-མ་བཅོལ: {unasked (action/state): unasked}
-མ་བཏང་ན: {unless one gives up: if I do not abandon / unless one gives up}
-མ་བསམས་ཀྱང: {without ever thinking (action/state): without ever thinking}
-མ་བསྒྲུབས་ན: {if one fails to bring it about: if one fails to bring about}
-མ་བསྡམས་པ: {undisciplined (action/state): undisciplined}
-མ་བྱང་བར: {before being purified: before purified}
-མ་བྱས: {undone, not done: undone}
-མ་བྱས་ན་: {if I fail to act: if I fail to / if I fail to act}
-མ་བྱིན: {not to hand over: not hand over}
-མ་མཆོད: {made no offerings (term): made no offerings}
-མ་མཐོང: {never known, fails to see: never known / fails to see}
-མ་འཁྲུལ་བ: {never falters (term): never falters}
-མ་འདས་པ: {have not passed (action/state): have not passed}
-མ་འཚལ: {unknowingly, not recognizing: unknowingly / not recognizing}
-མ་འཛེམས་པར: {did not shrink from: did not shrink}
-མ་ཡིན: {is not: is not / not from}
-མ་རབས: {lowly (manner/adverb): lowly}
-མ་རུངས: {perverse, unruly: perverse and unruly / misfortune}
-མ་རེག་པར: {without first coming into contact (term): without first coming into contact}
-མ་རྟོགས་པས: {not having understood: have not understood}
-མ་རྨིས་ན: {if never dreamed: never dreamed}
-མ་རྨོས་འཁྲུངས་པ: {grows without being sown: grow without being sown}
-མ་ལུས: {entirely, without exception: entirely}
-མ་ལུས་: {all, without exception: all}
-མ་ལུས་ཐམས་ཅད: {without exception, all: without exception}
-མ་ལུས་པ: {all, without exception: all / without exception}
-མ་ཤེས: {did not understand: did not understand / does not understand}
-མ་ཤེས་: {I do not know (proper name/title): I do not know}
-མ་སྐྱེས: {unborn (term): unborn}
-མ་སྐྱེས་ཏེ: {never even begun (term): never even begun}
-མ་སྐྱེས་པར: {before it arose (term): before it arose}
-མ་སྤངས་པ: {not abandoned (action/state): not abandoned}
-མ་ཧེ: {a water-buffalo: water-buffalo}
-མཁན་པོ: {preceptor(s): preceptor / preceptors}
-མཁན་པོ་དྷརྨ་ཤྲཱི་བྷ་དྲ: {the preceptor Dharmaśrībhadra: preceptor Dharmaśrībhadra}
-མཁན་པོ་སརྦ་ཛྙཱ་དེ་བ: {the preceptor Sarvajñādeva: preceptor Sarvajñādeva}
-མཁའ: {space, sky: space / sky}
-མཁའ་བཞིན: {like space (term): like space}
-མཁའ་འགྲོ: {ḍākinīs (term): ḍākinīs}
-མཁའ་འགྲོ་སྲིན་པོ: {ḍākinīs and rākṣasas: ḍākinīs rākṣasas}
-མཁའ་འདྲར: {like space (term): like space}
-མཁའ་ལྡིང: {eagle (term): eagle}
-མཁས: {skilled, skillfully: skilled / skillfully}
-མཁས་པ: {wise (person): wise / the wise / wise one / wise person / learned; skill, skilled: skill / skilled; wisdom (mental state): wisdom}
-མཁས་པའི: {through wisdom (term): through wisdom}
-མཁས་པས: {by the wise: the wise}
-མཁྱེན: {knows (term): knows}
-མཁྱེན་: {known (honorific): known}
-མཁྲིས་པ: {bile (term): bile}
-མགུ: {to please, pleasing: pleasing / please; gratification (term): gratification}
-མགུ་བར: {to please: please}
-མགུ་བར་བྱས་པ: {pleased (action/state): pleased}
-མགུ་བྱ: {to bring joy: bring joy}
-མགུ་བྱས: {pleasing (action/state): pleasing}
-མགོ: {head (body part): head}
-མགོ་དཀྲིས: {to wrap cloth around the head: wrap cloth around heads}
-མགོ་བོ་: {head (body part): head}
-མགོ་བོ་གཡོགས་པ: {covered heads (term): covered heads}
-མགོ་སྙོམས: {equal (leveled): equal}
-མགོན: {Protector(s): Protectors / Protector / protector; protection, to protect: protection / protect}
-མགོན་པོ: {Protector(s) (epithet): Protectors / Protector}
-མགོན་མེད: {without protection (term): without protection}
-མགོན་མེད་པ: {the unprotected: unprotected}
-མགྲིན་: {neck (body part): neck}
-མགྲིན་པ: {neck (body part): neck}
-མགྲོན: {guests (term): guests}
-མགྲོན་གཉེར་: {invited as guests (term): invited as guests}
-མགྲོན་ཆེན: {great guests (term): great guests}
-མགྲོན་དུ་བོས: {invited to be guests (term): invited to be guests}
-མགྲོན་པོ: {guests, fellow travelers: guests / fellow travelers}
-མང: {many, abundant: many / abound}
-མང་པོ: {many (quantity): many}
-མང་བྱུང: {abundant (term): abundant}
-མངའ: {possess (term): possess}
-མངལ: {a womb: womb}
-མངོན་པར: {openly, manifestly, intensely: openly / intense / manifest}
-མངོན་པར་རྒྱུག: {runs straight toward: run straight toward}
-མངོན་མཆོད: {honored directly: honored}
-མངོན་ཞེན: {strong attachment (term): strong attachment}
-མངོན་སུམ: {directly perceived, evident: directly evident / directly perceived / perceived / directly perceive}
-མངོན་སུམ་གྱུར་པ: {uncovered as if for the first time (term): uncovered as if for the first time}
-མངོན་སུམ་དུ་: {before my very eyes, directly: before my very eyes}
-མཆན་ཁུང: {armpits (term): armpits}
-མཆི་མ: {tears (term): tears}
-མཆིན: {liver (body part): liver}
-མཆིལ་མ: {spit (term): spit}
-མཆིས་ཀྱི་བར: {until I reach (term): until I reach}
-མཆེད: {spreads, spread: spreads / spread}
-མཆོག: {supreme: supreme / Supreme / single supreme; finest, best: finest / best; highest (term): highest; sublime (term): sublime; superior (term): superior}
-མཆོག་ཅན: {most excellent (term): most excellent}
-མཆོག་ཏུ: {supremely, greatest: superior / greatest}
-མཆོང: {to leap: leap}
-མཆོད: {to honor: honored / honor; offerings: offerings / offering / made offerings / make offerings; worship: worship / worshipped; I offer: I offer / offer}
-མཆོད་པ: {an offering: offering}
-མཆོད་པའི་ཚོགས: {a mass of offerings: mass of offerings}
-མཆོད་པའི་སྤྲིན: {clouds of offering (action/state): clouds of offering}
-མཆོད་པར: {to honor: honor}
-མཆོད་པར་འོས: {deserves to be honored (action/state): deserves to be honored}
-མཆོད་པར་འོས་པ: {worthy of offering (action/state): worthy of offering}
-མཆོད་བྱེད: {make offerings (term): make offerings}
-མཆོད་རྟེན: {stūpa(s): stūpas / stūpa}
-མཆོད་སྡོང: {a shrine: shrine}
-མཉན: {heeded (action/state): heeded}
-མཉན་: {to heed: heed}
-མཉམ: {equal: equal / equals / one; unequal (negated): unequal}
-མཉམ་གནས: {equilibrium (term): equilibrium}
-མཉམ་པ: {equal, equality: equal to / equal / equality / equal size; equalizing (action/state): equalizing; smooth (term): smooth}
-མཉམ་པར: {together, equally: together / equal}
-མཉམ་པར་གཞག: {meditative equipoise: equipoise / settle / meditative equipoise}
-མཉམ་འཇོག: {meditative absorption, settling: meditative absorption / settle}
-མཉེ: {to rub: rub}
-མཉེན: {kindly (manner/adverb): kindly}
-མཉེས་བྱེད: {pleases (term): pleases}
-མཐའ: {extremes, limit: extremes / limit}
-མཐའ་ཀླས་པའི་: {boundless (term): boundless}
-མཐའ་དག: {every, entirely: every}
-མཐའ་བསྐོར: {surrounded on all sides (term): surrounded on all sides}
-མཐའ་ཡས: {boundless, countless: boundless / countless}
-མཐའ་ཡས་པའི: {boundless (term): boundless}
-མཐའ་ལས་འདས: {beyond all limit (term): beyond all limit}
-མཐས: {to the limits: limits}
-མཐས་: {limits (term): limits}
-མཐས་གཏུགས་པ: {extending to the limits: extends to the very limits / extending to the limits}
-མཐས་གཏུགས་པའི: {to the limits (term): to the limits}
-མཐས་གཏུགས་པའི་: {extending to the very limits: to the very limits}
-མཐིལ: {soles (term): soles}
-མཐུ: {power, strength: power / strength}
-མཐུ་མེད: {powerless (term): powerless}
-མཐུ་ཡོད་པ: {having strength/power: strength}
-མཐུན་པ: {in accordance with, harmony: in accordance with / harmony}
-མཐུན་པར: {in accordance with (term): in accordance with}
-མཐུན་པར་: {if treated well, in harmony: if treated well}
-མཐུན་པར་ཡུལ་དབུས: {in accordance with the Central Indian (manuscript): in accordance with the Central Indian}
-མཐུན་པར་ཡུལ་དབུས་ཀྱི: {in accordance with the Central Indian (term): in accordance with the Central Indian}
-མཐུས: {by power (term): by power}
-མཐོ: {to raise, elevated: raise / elevated}
-མཐོང: {to see, perceive: seen / see / seeing / sees / perceive; observed: observed / observe; perception (noun): perception; becomes visible (term): becomes visible}
-མཐོང་ཐོས་ཤེས་པ: {seen, heard, or known: seen heard or known / seen heard known}
-མཐོང་ཐོས་ཤེས་པ་དག་འདིར་ནི་དགག་པར་བྱ་མིན: {whatever is seen, heard, or known is not what is to be refuted here: whatever is seen heard or known is not what is to be refuted here}
-མཐོང་ན: {upon seeing (action/state): upon seeing}
-མཐོང་ནས: {seeing, having seen: seeing / having seen / seen; at the sight of (term): at the sight of; having studied (action/state): having studied}
-མཐོང་བ: {to see, perceive: seen / sees / seeing / observed / observe / perceive / perceives}
-མཐོང་བཞིན: {as if I had known (term): as if I had known}
-མཐོང་བས: {by seeing (the truths): by seeing the truths}
-མདངས་དགའ་བ: {bright and joyful (term): bright and joyful}
-མདའ་: {arrows (term): arrows}
-མདུང་: {spears (term): spears}
-མདུང་ཐུང: {spears (term): spears}
-མདུན: {ahead, in the presence of: ahead / presence}
-མདུན་ན་གནས: {standing before me (term): standing before me}
-མདོ: {sūtra(s): sūtras / Sūtras}
-མདོ་སྡེ: {sūtra(s): sūtras / Sūtra}
-མདོག: {color (term): color}
-མདོངས: {blinded (action/state): blinded}
-མདོར་ན: {in brief (term): in brief}
-མདོར་བསྡུས: {brief, briefly: briefer / briefly}
-མདོར་བསྡུས་ན: {in brief (term): in brief}
-མནར་བ: {tormented (action/state): tormented}
-མནར་མེད: {the hell of no respite (Avīci): hell of no respite}
-མནར་མེད་: {the hell of no respite (Avīci): hell of no respite}
-མནར་མེད་གནོད་པ: {harm as great as the hell of no respite (term): harm as great as the hell of no respite}
-མནར་མེད་པའི་: {of the hell of no respite (term): of the hell of no respite}
-མནོག: {reward (term): reward}
-མཚང: {faults (term): faults}
-མཚང་འབྲུ་བ: {exposing faults (term): exposing faults}
-མཚན་ཉིད: {a definition: definition}
-མཚན་མོ: {night (term): night}
-མཚར: {astonishing (action/state): astonishing}
-མཚུངས: {equal, common: equal / common; resembles, resembling: resembles / resembling; equally, equally applies: equally / equally apply; agree (term): agree}
-མཚུངས་པ: {equally, like: equally / like}
-མཚུངས་པ་མེད་པ: {unequaled (action/state): unequaled}
-མཚུངས་པར: {equally: equal}
-མཚོ: {lake(s), pool: lakes / lake / pool}
-མཚོན: {weapon(s): weapon / weapons; sword (term): sword}
-མཚོན་: {weapons (term): weapons}
-མཚོན་ཆ: {weapons (term): weapons}
-མཛངས་: {clever (term): clever}
-མཛད་པ: {composed, deeds: composed / deeds}
-མཛད་བྱང: {Author's Colophon (title): Author's Colophon}
-མཛའ: {friend(s): friend / friends}
-མཛའ་བ: {companions, friends: companions / friends}
-མཛའ་བཤེས: {friends and kin/companions: friends and kin / friends and companions / friends}
-མཛའ་མི་མཛའ: {friend and foe (term): friend and foe}
-མཛེས: {beautiful, delightful: delight / beautiful / beauty}
-མཛེས་གྱུར་ཅིག: {may (it) become delightful: may become delightful}
-མཛེས་འབར་བ: {beautiful and radiant (term): beautiful and radiant}
-མར: {butter (term): butter}
-མར་མེ: {a lamp: lamp}
-མལ: {a bed: bed}
-མལ་སྟན: {a bed: bed}
-མི: {human, person, people: human / person / people / men; all (in idiom 'everyone'): all}
-མི་: {human, person: human; never, not (negation): never / abandon}
-མི་ཁྲོ་: {without anger (term): without anger}
-མི་ཁྲོ་བར: {without becoming angry: one does not get angry}
-མི་གང་: {whoever, one who: one who}
-མི་གཅོད: {cannot cut (term): cannot cut}
-མི་གཏོང: {to bar, not permit: bar}
-མི་གནས: {not right, does not dwell: not right}
-མི་གནས་: {dwells in neither: dwell neither}
-མི་གནས་པ: {having no object (term): having no object}
-མི་གནོད: {does not harm (term): does not harm}
-མི་གནོད་པ: {does not harm (term): does not harm}
-མི་གཙང: {impure (adjective): impure / impure thing; impurity (noun): impurity / impurities; filth (term): filth}
-མི་གཙང་བ: {impure (term): impure}
-མི་གཙང་བ་ལ་རྨོངས: {deluded about what is impure (term): deluded about what is impure}
-མི་གཙང་བཙོག་པ: {filthy and impure (term): filthy and impure}
-མི་གཙང་བར: {as impure (term): as impure}
-མི་གཙང་ཞེན་པའི་སེམས: {a mind attached to what is impure: mind attached to what is impure}
-མི་གཙང་ལུས: {impure bodies, impurity: impurity / impure bodies}
-མི་གཟིགས་པ: {does not spare (term): does not spare}
-མི་གཡོ: {unshakable, inert: inert / unshakable}
-མི་གསལ་བ: {not luminous (term): not luminous}
-མི་ངལ: {without fatigue, hardship: without fatigue / hardship}
-མི་ངོམས: {never satisfied, tiring: never tiring / never satisfy}
-མི་ཉམས: {never declining (action/state): never declining}
-མི་ཉིད་: {a human birth: human birth}
-མི་དགའ: {unhappy, displeased: unhappy / displeasure / unhappiness / displeased}
-མི་དགའ་བ: {displeasure (term): displeasure}
-མི་དགར: {displeasure, would not be pleased: would not be displeased / displeasure / no joy}
-མི་དགེ: {unvirtuous, wrongdoing: unvirtuous / wrongdoing}
-མི་དགོད་ཅིང་: {do not leave (term): do not leave}
-མི་དགྱེས: {displeased: displeased / displease him}
-མི་དམིགས་པ: {not found (term): not found}
-མི་དོར: {do not set down (term): do not set down}
-མི་ན: {well, not ill: well / not ill}
-མི་ནུས: {cannot, unable: cannot / will be impossible / not able}
-མི་ནུས་: {unable (term): unable}
-མི་ནུས་པ: {cannot yet (term): cannot yet}
-མི་ནུས་པས: {since unable: unable}
-མི་བདེ: {unhappiness, discomfort: unhappiness / not happy / discomfort}
-མི་བདེ་བ: {suffering, discomfort: suffering / discomfort / unhappiness}
-མི་བཟད: {unbearable (term): unbearable; terrible (term): terrible}
-མི་བཟད་གཟེ: {unbearably sharp (term): unbearably sharp}
-མི་བཟད་པ: {terrible, unbearable: terrible / unbearable}
-མི་བཟད་པའི: {unbearable (term): unbearable}
-མི་བཟད་སྡིག: {unbearable wrongs (term): unbearable wrongs}
-མི་བཟོད: {unbearable, intolerance: unbearable / intolerance}
-མི་བརྟེན: {not to rely on: not rely}
-མི་བསླབ་པ: {need not train in (term): need not train in}
-མི་བྱ: {never let, should not: never let}
-མི་བྱེད: {to fail, refuse, never do: fail / never speak / refuse}
-མི་བྱེད་པ་: {fails to give, do: fails to give}
-མི་མགུ: {displeased, cannot please: displeased him / cannot please}
-མི་མངའ: {not actually harmed, not possessed: not actually harmed}
-མི་མཉམ: {unequal, disturbed: none are truly equal / disturbed}
-མི་མཉམ་པ: {unequal (term): unequal}
-མི་མཐུན་ཕྱོགས: {opposing factors, opposites: opposites / opposing factors}
-མི་མཐོང: {cannot see (term): cannot see}
-མི་མཛའ: {foe(s): foe / foes}
-མི་ཚུགས: {unshaken, unassailable: remain unshaken / unassailable}
-མི་ཞིག: {a human life: human life}
-མི་ཟད: {inexhaustible (term): inexhaustible}
-མི་འགུལ: {motionless (term): motionless}
-མི་འགྱུར: {will not, unchanging: will not / never}
-མི་འགྱུར་བར: {never (becoming): never}
-མི་འཆད: {never declining, ceaselessly: never decline / ceaselessly}
-མི་འཆད་པ: {unbroken, without ceasing: unbroken / without ceasing}
-མི་འཆི: {not to die: not die}
-མི་འཆོར: {does not slip away: without slipping loose / does not slip away}
-མི་འཇིགས: {fearlessness, freedom from fear: freedom from fear / unafraid / fearlessness}
-མི་འཐད: {unreasonable to reject (term): unreasonable to reject}
-མི་འཐད་པ: {unreasonable (term): unreasonable}
-མི་འཐོབ: {will find none: will find no}
-མི་འདའ་: {never to transgress (term): never to transgress}
-མི་འདོད: {do not want, unwilling: do not want / not want / unwanted / unwilling / why should not; against my wishes: against my wishes / do not wish / not wish; wishes for suffering (action/state): wishes for suffering}
-མི་འདོད་པས: {since no one wishes it: since no one wishes}
-མི་འདོད་བཞིན: {while not wishing to: not wishing}
-མི་འབྱུང: {does not arise, never occurs: there is no / does not arise / never find}
-མི་འབྲལ: {never separated (action/state): never separated}
-མི་འཛིན་པ: {lack of self-restraint (term): lack of self-restraint}
-མི་འོ་ཅོག་གི་ལུས: {this human body (term): this human body}
-མི་ཡི: {of a human, human: of a human / human}
-མི་ཡི་ལུས་: {a human body: human body}
-མི་ཡིས: {by a person: person}
-མི་རིགས: {unreasonable (term): unreasonable}
-མི་རུང: {not to be trusted, cannot: not to be trusted / cannot}
-མི་རྟག: {impermanent, not permanent: impermanent / not permanent}
-མི་རྟག་པ: {impermanent (term): impermanent}
-མི་ལང: {cannot (be found): cannot}
-མི་ལུས་པ་: {without a trace (term): without a trace}
-མི་ལྟ: {never look back (term): never look back}
-མི་ལྡོག་པ: {irreversible (term): irreversible}
-མི་ལྡོག་པའི་སེམས: {the mind with irreversible resolve: mind with irreversible resolve}
-མི་ཤེས་གཏི་མུག: {not knowing, ignorant: not knowing}
-མི་ཤེས་རབ་རིབ: {cataracts of ignorance (term): cataracts of ignorance}
-མི་ཤེས་སམ: {do you still not understand? (rhetorical): do you still not understand}
-མི་སྐྱིད: {unhappy (term): unhappy}
-མི་སྐྱེ: {does not arise (term): does not arise}
-མི་སྐྱོ: {not to be discouraged: not become discouraged / having no disillusionment}
-མི་སྙན: {unpleasant (term): unpleasant}
-མི་སྡུག: {unattractive (term): unattractive}
-མི་སྦྱར: {not to direct: not direct}
-མི་སྲིད: {impossible (term): impossible}
-མི་སྲུན: {unruly (manner/adverb): unruly}
-མི་སླུ་བ: {never false (term): never false}
-མིག: {eye(s): eyes; gaze (term): gaze}
-མིག་རྒྱང་རིང་པོ: {far-sighted: far-sighted / far-sighted subjects}
-མིག་རྩ: {eyes (body part): eyes}
-མིག་ལ་སོགས་པ: {eyes and so forth (term): eyes and so forth}
-མིག་ལམ: {in view (line of sight): in view}
-མིག་སྨན: {eye-salve (term): eye-salve}
-མིང་ཙམ: {a mere name: mere name}
-མིན: {not (negation): not; not luminous (term): not luminous}
-མིའི: {of humans, human: human}
-མིར: {as a human: human}
-མུ་གེ: {famine (term): famine}
-མུ་ཅོར: {reckless talk (term): reckless talk}
-མུ་ཏིག: {pearls (term): pearls}
-མུ་སྟེགས་པ: {non-Buddhists (tīrthikas): non-Buddhists}
-མུན: {darkness (term): darkness}
-མུན་ནག: {black night (term): black night}
-མུན་པ: {darkness, tamas: darkness / tamas}
-མེ: {fire (term): fire}
-མེ་: {fire (term): fire}
-མེ་ཏོག: {flowers: flowers / flower; blossoms (term): blossoms}
-མེ་ཏོག་ཟླ་མཛེས: {Supuṣpacandra (proper name): Supuṣpacandra}
-མེ་ཏོག་ཡིད་འོང: {pleasing flowers: pleasing flowers / pleasing petals of flowers}
-མེ་དོང: {a pit of embers: pit of embers}
-མེ་མདག: {burning coals (term): burning coals}
-མེ་ཚོགས: {masses of fire (term): masses of fire}
-མེ་འབར་བས་: {a blazing fire: blazing fire}
-མེད: {does not exist, absent: not exist / does not exist / absent / no / nothing; without, lacking: without / without existence / lack of / free from; in the absence of: in the absence; no inherently existing (action/state): no inherently existing; no room (term): no room}
-མེད་ཀྱང: {even without (term): even without}
-མེད་ཀྱང་ནི་: {even without: without}
-མེད་པ: {lacking, absent: lacks / lacking / lack / free of / non-existent; no father (specific case): no father}
-མེད་པའི: {does not exist (term): does not exist}
-མེད་པར: {without, cease to exist: cease to exist / apart from / without}
-མེད་བླ: {let (it) be lost: let be lost}
-མེད་འགྱུར: {will cease to be, vanish: will cease to be / will vanish}
-མེར་འཇུག་པ: {throw themselves into fire (term): throw themselves into fire}
-མོ་གཤམ: {a barren woman: barren woman}
-མོས: {aspiration (term): aspiration; pride (mental state): pride}
-མོས་པ: {aspiration (term): aspiration; inclinations (term): inclinations}
-མོས་པར: {with aspiration: aspiration}
-མོས་བྱ: {should have aspiration: have aspiration}
-མྱ་ངན: {grief: grief / grieve; remorse (mental state): remorse; anguish (term): anguish}
-མྱ་ངན་ག་ལ་འདའ: {how could (one) pass into nirvāṇa (rhetorical): how could pass into nirvāṇa}
-མྱ་ངན་ཆེན་པོ་: {great anguish (term): great anguish}
-མྱ་ངན་ཉམ་ཐག: {grief-stricken (term): grief-stricken}
-མྱ་ངན་ཉམ་ཐག་དགའ་ཐོབ་ཤོག: {may the grief-stricken obtain joy (term): may the grief-stricken obtain joy}
-མྱ་ངན་བྱ་བར་འོས: {worthy of grief (term): worthy of grief}
-མྱ་ངན་འདའ: {nirvāṇa, passing into nirvāṇa: nirvāṇa / pass into nirvāṇa}
-མྱ་ངན་འདའ་བ: {to pass into nirvāṇa: pass into nirvāṇa}
-མྱ་ངན་འདས: {nirvāṇa: nirvāṇa / pass into nirvāṇa / passed into nirvāṇa; parinirvāṇa (term): parinirvāṇa}
-མྱ་ངན་འདས་པ: {nirvāṇa (term): nirvāṇa}
-མྱ་ངན་ལས་འདས: {passed into nirvāṇa: passed into nirvāṇa / nirvāṇa}
-མྱུ་གུ: {a sprout: sprout}
-མྱུ་གུ་སྐྱེ: {a sprout arises: sprout arises}
-མྱུར: {swiftly (manner/adverb): swiftly}
-མྱུར་དུ: {swiftly, quickly: swiftly / quickly}
-མྱུར་བ་ཉིད་དུ: {swiftly (manner/adverb): swiftly}
-མྱུར་བའི་ཚུལ: {swiftly, in a swift manner: swiftly}
-མྱོང: {to experience: experienced / experience / experiencing; enjoyed (action/state): enjoyed; endured (action/state): endured}
-མྱོང་གྱུར་ནས་: {having experienced (action/state): having experienced}
-མྱོང་བ: {to experience: experience / experienced; grasped (action/state): grasped}
-མྱོང་བཞིན་དུ་: {while experiencing (action/state): while experiencing}
-མྱོང་བར: {to inflict, experience: inflict / experience}
-མྱོང་བར་འགྱུར་: {I will experience (proper name/title): I will experience}
-མྱོས་པ: {mad, intoxicated: mad}
-མྱོས་པར: {madly: mad}
-ཙནྡན: {sandalwood (term): sandalwood}
-ཙམ: {merely, mere, only: merely / mere / only; just the size of (term): just the size of; some small (term): some small; just enough (term): just enough}
-ཙམ་: {merely, even: merely / even}
-ཚ: {heat (term): heat}
-ཚ་: {heat (term): heat}
-ཚ་བ: {heat (term): heat}
-ཚ་བའི: {hot, burning: hot / burning}
-ཚ་བའི་མེ: {blazing fire (term): blazing fire}
-ཚངས: {Brahmā (proper name/title): Brahmā}
-ཚངས་པ: {Brahmā (proper name/title): Brahmā}
-ཚད་མ: {valid cognition, valid means of knowledge: valid cognition / valid / valid means of knowledge}
-ཚད་མིན: {not valid (term): not valid}
-ཚད་མེད: {boundless, immeasurable: boundless / immeasurable}
-ཚད་མེད་པ: {boundless (term): boundless}
-ཚད་མེད་བློ: {immeasurable wisdom (term): immeasurable wisdom}
-ཚར: {rows (term): rows}
-ཚར་གཅད: {punished (action/state): punished}
-ཚར་ཕྱིན: {completion (term): completion}
-ཚིག: {words, speech: words / speech}
-ཚིག་པར: {burned (action/state): burned}
-ཚིག་འབྲུ: {mere words (term): mere words}
-ཚིག་རྩུབ: {harsh words, speech: harsh words / harsh speech}
-ཚིགས: {joints (term): joints}
-ཚིམ: {satisfied (action/state): satisfied}
-ཚིམ་པ: {to fill, satisfaction: fills / satisfaction}
-ཚིམ་པར་བྱེད་པ: {satisfying (action/state): satisfying}
-ཚིམ་བྱེད་པ: {to soothe, satisfy: soothe}
-ཚུལ: {way, manner: way}
-ཚུལ་ཁྲིམས: {discipline (moral): discipline}
-ཚུལ་ཁྲིམས་འཆལ་བ: {broken discipline (term): broken discipline}
-ཚུལ་གཞན: {different modes, guises: different modes / modes / different guises}
-ཚུལ་བཞིན་དུ: {with modesty, properly: with modesty}
-ཚེ: {life, lifespan: life / lives / lifespan; at such times (term): at such times; while (term): while; to live: live}
-ཚེ་: {life (term): life}
-ཚེ་ཐུང་བ: {a short life: short life}
-ཚེ་རབས: {past lives, lifetimes: past lives / lifetimes; life (term): life}
-ཚེགས: {toil (term): toil}
-ཚེགས་ཆུང: {requiring little effort (term): requiring little effort}
-ཚེགས་ཆེན: {great hardship (term): great hardship}
-ཚེར་མ: {thorns (term): thorns}
-ཚོགས: {collection, mass, aggregation: collection / aggregation / mass; assembly, host, band: assembly / band / host; all (term): all; conditions come together (term): conditions come together; accumulation (term): accumulation}
-ཚོགས་པ: {aggregate, coming-together: aggregate / gathered conditions / coming-together}
-ཚོགས་བསག་བྱ: {to gather the accumulations: gather the accumulations}
-ཚོགས་འདི: {this aggregation (term): this aggregation}
-ཚོགས་རྣམས: {multitudes (term): multitudes}
-ཚོད: {limit, vegetable: limit / vegetable}
-ཚོད་: {capacity, measure: capacity}
-ཚོད་མ: {vegetables (term): vegetables}
-ཚོད་ཡོད: {has a definite limit (term): has a definite limit}
-ཚོར་པོ: {an experiencer: experiencer}
-ཚོར་བ: {feeling (action/state): feeling; pains (term): pains}
-ཚོར་བ་གང་ལས་འབྱུང་བར་འགྱུར: {from what could feeling arise (rhetorical): from what could feeling arise}
-ཚོར་བའང་ཡོད་པ: {an inherently existing feeling: inherently existing feeling}
-ཚོལ: {to search: search}
-ཚོལ་བར: {searching (action/state): searching}
-ཝ: {jackal(s): jackals}
-ཞག: {fat (term): fat}
-ཞན་པ: {weak (term): weak}
-ཞབས: {feet (honorific): feet}
-ཞལ་ཞལ་བྱས: {plastered over (term): plastered over}
-ཞལ་ཟས: {feasts (term): feasts}
-ཞི: {pacifying, at peace: pacifying / calm / at peace / relief}
-ཞི་གནས: {calm abiding (śamatha): calm abiding}
-ཞི་བ: {to pacify, peace: pacify / soothes / peace / peaceful}
-ཞི་བའི: {tranquil (term): tranquil}
-ཞི་བར: {to pacify (action/state): to pacify}
-ཞི་བྱ: {to pacify: pacify}
-ཞི་བྱེད: {to pacify: pacify}
-ཞི་བྱེད་པ: {pacifies, heals: pacifies / heals / relief}
-ཞི་བྱེད་པར: {stilled (action/state): stilled}
-ཞི་བྱེད་བཞིན: {continues to pacify (action/state): continues to pacify}
-ཞིག་པ: {perished, ceased: perished / has ceased}
-ཞིག་པར: {ruined, spoiled: ruined / spoiled}
-ཞིག་སྟེ: {decaying and falling apart: decay and fall apart}
-ཞིང: {a field: field}
-ཞིང་པ་: {farmers (term): farmers}
-ཞིམ: {delicious (term): delicious}
-ཞིམ་པོ: {delicious (term): delicious}
-ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ: {chief editor-translator (term): chief editor-translator}
-ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ་བནྡེ: {chief editor-translator Bande (term): chief editor-translator Bande}
-ཞུགས: {falling into, entering: falling into / entered}
-ཞུགས་པ: {leads (into), travelers who take up: leads / take up / travelers}
-ཞུན: {molten (term): molten}
-ཞུམ་བཅས: {discouraged (action/state): discouraged}
-ཞུས་ཏེ་གཏན་ལ་ཕབ་པ: {translated and finalized (action/state): translated and finalized}
-ཞུས་པ: {a request: request}
-ཞུས་པའི: {of the messenger: messenger}
-ཞེ་ན: {(introduces an objection) 'one might say/object': one might say / if one argues / if / if one objects / what produced}
-ཞེ་ས: {courtesy (term): courtesy}
-ཞེ་སྡང: {hatred (mental state): hatred; aversion (mental state): aversion; anger (mental state): anger}
-ཞེ་སྡང་: {hatred (mental state): hatred}
-ཞེན་པ: {attachment (mental state): attachment; sense of self (term): sense of self}
-ཞེན་པའི: {attached (action/state): attached}
-ཞེན་པས: {out of attachment: attachment}
-ཞེན་བྱ: {to become attached: become attached}
-ཞེན་བྱ་: {to hold fast to: hold fast}
-ཞེས: {thinking, saying (quotative): thinking / that}
-ཞེས་བྱ་བ: {what is called (action/state): what is called}
-ཞོ་ཤ་ཕུལ: {sold (term): sold}
-ཞོག: {setting aside (imperative): setting aside}
-ཞོན་ནས: {having mounted: mounted}
-ཟ: {to eat, devour: eating / devoured / devour}
-ཟ་དགའ: {pleasure in eating (action/state): pleasure in eating}
-ཟ་བ: {to eat: eat}
-ཟ་བའི: {of devouring: devouring}
-ཟ་བར: {to consume: consume}
-ཟངས: {copper (term): copper}
-ཟད: {to exhaust: exhaust; ruin (term): ruin}
-ཟད་པར: {exhausted (action/state): exhausted}
-ཟད་པར་བྱས: {exhausted (action/state): exhausted}
-ཟད་པར་འགྱུར: {becomes exhausted (action/state): becomes exhausted}
-ཟད་བྱེད: {exhausted (action/state): exhausted}
-ཟད་འགྱུར་བ: {what needs to be exhausted: needed to exhaust}
-ཟན: {food, scraps: food / scraps}
-ཟན་ཟ: {eating food (term): eating food}
-ཟན་ཟའི: {of eating scraps: eating scraps}
-ཟབ: {profound (term): profound}
-ཟམ་པ: {a bridge: bridge}
-ཟས: {food (term): food; fuel (term): fuel}
-ཟས་: {food (term): food}
-ཟས་གཅོད: {to refuse food: refuse food}
-ཟས་ཐོབ: {obtain food (term): obtain food}
-ཟས་ཟོས་ནས: {when I feed myself (term): when I feed myself}
-ཟས་སྦྱོར་བ: {providing food (term): providing food}
-ཟིན་པ: {seized (action/state): seized}
-ཟིལ་གྱིས་གནོན་པར་འགྱུར: {could overpower (term): could overpower}
-ཟིལ་གྱིས་ནོན: {to overshadow: overshadow}
-ཟིལ་མནན: {overpowered (action/state): overpowered}
-ཟུག་རྔུ: {pain, sting: pain / affliction / sting}
-ཟུག་རྔུ་འབྱིན་པ: {removes affliction (term): removes affliction}
-ཟུག་རྔུའི: {of a painful sting: painful sting}
-ཟུར་ཕུད: {a topknot: topknot}
-ཟོས: {devoured (action/state): devoured}
-ཟོས་པ: {to eat: eat}
-ཟླ་བ: {moon (term): moon}
-ཟླ་འོད: {the moon's light: moon's light}
-འཁར་བ: {staffs (term): staffs}
-འཁོན་པ: {a foe: foe}
-འཁོར: {saṃsāra (term): saṃsāra; multitudes (of beings): multitudes}
-འཁོར་གྱི་དཀྱིལ་འཁོར: {nine-fold maṇḍalas (term): nine-fold maṇḍalas}
-འཁོར་བ: {saṃsāra (cyclic existence): saṃsāra}
-འཁོར་བ་: {saṃsāra (term): saṃsāra}
-འཁོར་བ་པ: {those in saṃsāra (term): those in saṃsāra}
-འཁོར་བའི: {of saṃsāra (term): of saṃsāra}
-འཁོར་བའི་: {of saṃsāra (term): of saṃsāra}
-འཁོར་བའི་བཙོན་ར: {the prison of saṃsāra: prison of saṃsāra}
-འཁོར་བར: {throughout saṃsāra (term): throughout saṃsāra}
-འཁོར་བར་: {in saṃsāra: in saṃsāra / within saṃsāra}
-འཁོར་ཚེ: {while in saṃsāra (term): while in saṃsāra}
-འཁོར་ལོས་སྒྱུར་བ: {a universal monarch: universal monarch}
-འཁྱམ: {to wander: wander}
-འཁྱམ་ཞིང: {wandering (action/state): wandering}
-འཁྱམས་པ: {lost (term): lost}
-འཁྱུད: {to embrace: embrace}
-འཁྱུད་པ: {embraces (term): embraces}
-འཁྲུག: {agitated (action/state): agitated}
-འཁྲུངས: {born (term): born}
-འཁྲུངས་པ: {born well (term): born well}
-འཁྲུལ་པ: {confusion (mental state): confusion}
-འཁྲུལ་འཁོར: {machine, mechanical contraption: machine / mechanical contraption / contraption}
-འགག: {cessation (term): cessation}
-འགག་པར: {ceasing (action/state): ceasing}
-འགགས་པ: {ceased (action/state): ceased}
-འགའ: {anyone, no one: no one}
-འགའ་མེད་པ: {nothing essential found (term): nothing essential found}
-འགའ་ཞིག: {some, occasionally: occasionally / some things / in some form / someone}
-འགའ་ཡང: {anyone, nothing whatsoever: anyone / nothing whatsoever}
-འགལ: {a contradiction: contradiction}
-འགལ་བ: {to contradict: contradict}
-འགལ་རྐྱེན: {an opposite condition: opposite condition}
-འགུམ་པར་འགྱུར: {may die (term): may die}
-འགུམས: {to kill: kill}
-འགོམ་བྱ: {trodden underfoot (term): trodden underfoot}
-འགྱིང་བག: {charms, allure: charms}
-འགྱུ: {to flash: flash}
-འགྱུར: {becomes, become: becomes / become / turn into; may (auxiliary): may; shall attain (term): shall attain}
-འགྱུར་: {becomes (term): becomes}
-འགྱུར་བ་མེད: {unchanging (action/state): unchanging}
-འགྱུར་བྱང: {Translators' Colophon (title): Translators' Colophon}
-འགྱེས་འགྱུར: {going its own way (scattering): going its own way}
-འགྱོད་པ་: {regret (term): regret}
-འགྲངས་པར་བྱེད་པ: {satisfying (with food): satisfying}
-འགྲན: {rivalry, to rival: rivalry / rival}
-འགྲན་པར: {to compete: compete}
-འགྲུབ: {accomplished, brought about: accomplished / brings about / attainment; to arise: arise}
-འགྲུབ་པ: {fulfills (term): fulfills}
-འགྲུབ་པར་འགྱུར: {will be accomplished (action/state): will be accomplished}
-འགྲུབ་མི་འགྱུར: {will not be accomplished (action/state): will not be accomplished}
-འགྲུབ་འགྱུར: {happens, comes to pass: happened}
-འགྲུབ་ཤོག: {may it come to pass, be attained: may attain / come to pass}
-འགྲེ་བ: {being gutted (action/state): being gutted}
-འགྲེལ་པ: {a commentary: commentary}
-འགྲོ: {beings (term): beings; to go, going: goes / going / travel; world (term): world}
-འགྲོ་: {to go: go}
-འགྲོ་དོན: {the welfare of beings: welfare of beings}
-འགྲོ་བ: {sentient beings, wanderers: beings / all who wander / who wander / those; going, motion: going / go; the world: world; wandering existence (saṃsāra): wandering existence; traveling (action/state): traveling; coming (action/state): coming}
-འགྲོ་བ་: {beings (term): beings}
-འགྲོ་བ་ཀུན: {all beings, the whole world: all beings / whole world}
-འགྲོ་བ་བདེ་ལ་སྤྱོད་པར་ཤོག: {may the world enjoy happiness (term): may the world enjoy happiness}
-འགྲོ་བས: {by beings: beings}
-འགྲོ་བྱེད་པ: {travelers (term): travelers}
-འགྲོགས་ན: {in the company of (term): in the company of}
-འགྲོགས་པ: {associating with, keeping company: being in the company of / associating}
-འགྲོགས་པར་ཤོག: {may (they) come to join: may come to join}
-འགྲོའམ་ཡང་ན་འོང་བྱ: {to go forward or turn back: go forward or turn back}
-འཆག་པར: {walks about (term): walks about}
-འཆང: {holds, carries: holds / carrying}
-འཆང་ན: {if one holds (term): if one holds}
-འཆི: {death, to die: death / dies}
-འཆི་བ: {death (term): death}
-འཆི་བདག: {Lord of Death (proper name/title): Lord of Death}
-འཆི་བའི་སྒྲ: {the word 'death': word "death"}
-འཆི་བར: {to die (term): to die}
-འཆི་བར་: {death, to die: death}
-འཆི་བས: {death's approach (term): death's approach}
-འཆི་བས་: {through death: death}
-འཆི་འགྱུར: {death will come, will die: death will come / will die}
-འཆིང: {being bound (term): being bound}
-འཆིང་བ་: {being bound (term): being bound}
-འཇབ་ཅིང: {stealthily (manner/adverb): stealthily}
-འཇམ: {gently (manner/adverb): gently}
-འཇམ་དབྱངས: {Mañjughoṣa (proper name): Mañjughoṣa}
-འཇམ་པ: {soft (term): soft}
-འཇམ་པའི་དབྱངས: {Mañjughoṣa (proper name): Mañjughoṣa}
-འཇམ་པོ: {gentle, smooth: gentlest / smooth}
-འཇིག: {ruin (term): ruin}
-འཇིག་པའི་ཆོས་ཅན: {subject to the same decay: same decay}
-འཇིག་པར: {to destroy, cease: destroy / destroyed / cease}
-འཇིག་པར་བྱེད: {is destroyed (action/state): is destroyed}
-འཇིག་རྟེན: {the world: world / worlds; ordinary people: ordinary people / ordinary; worldly life: worldly life / worldly}
-འཇིག་རྟེན་ཁམས: {realms of the world (term): realms of the world}
-འཇིག་རྟེན་གཞུག་པའི་དོན་དུ: {in order to lead the world (term): in order to lead the world}
-འཇིག་རྟེན་གསུམ: {the three worlds: three worlds}
-འཇིག་རྟེན་གསུམ་པོ: {all three worlds (term): all three worlds}
-འཇིག་རྟེན་གྱི་མགོན་པོ: {the Protector of the World: Protector of the World}
-འཇིག་རྟེན་གྱིས: {the world would refute: world would refute}
-འཇིག་རྟེན་དབང་ཕྱུག: {Avalokiteśvara (proper name): Avalokiteśvara}
-འཇིག་རྟེན་པ: {an ordinary/worldly person: ordinary person}
-འཇིག་རྟེན་ཕལ་པ: {the ordinary world: ordinary world}
-འཇིག་རྟེན་ཚད་མ: {ordinary valid cognition (term): ordinary valid cognition}
-འཇིག་རྟེན་རྨོངས་པ: {the deluded world: deluded world}
-འཇིགས: {fear: fear / fearful / reverent fear; terror, terrors: terror / terrors; danger (term): danger}
-འཇིགས་: {fear (mental state): fear}
-འཇིགས་ཆེན: {great terror (term): great terror}
-འཇིགས་དང་ལྡན: {terrified (action/state): terrified}
-འཇིགས་པ: {fear: fear / fears / fearfulness; terror: terror / terrifying; danger: danger / dangers}
-འཇིགས་པ་ཆེ: {great terror (term): great terror}
-འཇིགས་པ་ཆེན་པོ: {great danger (term): great danger}
-འཇིགས་པས: {out of fear (term): out of fear}
-འཇིགས་མེད: {fearless, without fear: without fear / fearless}
-འཇིགས་མེད་: {unafraid (term): unafraid}
-འཇིགས་འཇིགས: {terrifying, dreadful: terrifying / dreadful aspect}
-འཇིགས་ལྡན: {reverent fear (term): reverent fear}
-འཇིགས་སེམས: {a mind of fear: in fear}
-འཇུག: {to enter, engage: enter / entering / plunging; to devote (oneself): devote}
-འཇུག་པ: {the Way (title, 'entering the conduct'): Way / Way of Life; to enter, engage: enter / ventures toward / engagement; dwelling (action/state): dwelling; conduct (term): conduct}
-འཇུག་པའི: {of engagement (term): of engagement}
-འཇུག་པའི་སེམས: {the mind of engagement: mind of engagement}
-འཇུག་པར: {to enter: enter}
-འཇུག་པར་ཤོག: {may (one) enter: may enter}
-འཇོམས: {destroys: destroys / destroy}
-འཇོམས་པ: {overcomes (term): overcomes}
-འཇོམས་པར: {destroys (term): destroys}
-འཇོམས་པར་བྱེད: {destroys: destroys / destroyed}
-འཇོམས་བྱེད་: {only destroys (term): only destroys}
-འཇོམས་བྱེད་པ: {destroys (term): destroys}
-འཐད་པ: {reasoning, reasonable: reasoning / reasonable}
-འཐད་མ་ཡིན: {is no valid objection: no valid objection}
-འཐབ: {conflict, fighting: conflict}
-འཐིང་རིལ: {wild ducks (term): wild ducks}
-འཐོབ: {to attain: attain}
-འཐོབ་པ: {attained (action/state): attained}
-འཐོབ་མི་འགྱུར་: {will not obtain (term): will not obtain}
-འཐོམས་པ: {lost, confused: lost}
-འདམ: {mud (term): mud}
-འདའ: {passes (away): passes}
-འདའ་བགྱིད: {to pass beyond: pass beyond}
-འདའ་བར: {passes by (term): passes by}
-འདས: {passed away, past: passed away; transgresses (term): transgresses}
-འདས་གྱུར་: {have already passed (action/state): have already passed}
-འདས་གྱུར་པ: {passed away (term): passed away}
-འདས་པ: {has passed (action/state): has passed}
-འདས་ཡུན་རིང་ལོན: {long since passed away (term): long since passed away}
-འདི: {this (term): this}
-འདི་ཉིད: {this alone (term): this alone}
-འདི་དག: {these things (term): these things}
-འདི་དང་གཞན་དུ: {here and hereafter (term): here and hereafter}
-འདི་ནི་ཉེར་གནས་ཏེ: {this remains close at hand (term): this remains close at hand}
-འདུ་ཤེས: {perception (term): perception}
-འདུག: {to sit, lie, stand by: lie / sit / stand by}
-འདུས་པ: {a combination: combination}
-འདེབས་པ: {striking (action/state): striking}
-འདོང་བར: {to travel: travel}
-འདོད: {to wish, wish for: wish / wishes / claim to wish; desire (noun): desire / desires; wishing (participle): wishing; to accept, hold as true: accept / held to be; to want: want; desired (past participle): desired; free of desire, disenchanted: disenchanted; freedom (from desire): freedom; seeking, pursuing: seeking}
-འདོད་ཆགས: {desire (mental state): desire}
-འདོད་པ: {desires (noun): desires / what one desires / desire / desiring; to wish: wish / wishing / wishes; inclined (toward): inclined; eager (term): eager; desired (past participle): desired}
-འདོད་པ་: {determined, wishing: determined}
-འདོད་པ་རྣམས་ནི་ཕུང་ཁྲོལ་བསྐྱེད: {desires bring nothing but misfortune (term): desires bring nothing but misfortune}
-འདོད་པའི: {of desire, desired: for the sake of desires / accepted}
-འདོད་པའི་དོན: {what they desire (term): what they desire}
-འདོད་པའི་སེམས: {the mind you desire: mind that you desire}
-འདོད་པར་བྱ: {should seek out: seek out}
-འདོད་པར་བྱེད: {to desire: desire}
-འདོད་པས: {by desire, wishing: let it go / by desire / wishing / those who wish / trusting}
-འདོད་བཞིན: {as desired (action/state): as desired}
-འདོད་མི་འགྲུབ: {does not bring about what I want (term): does not bring about what I want}
-འདོད་འཇོར: {wish-granting cow of abundance: cow of abundance}
-འདོད་ལྡན: {desire's practitioners, those attached to desire: desire's practitioners / attached / base in desire / in desire / driven by desire / attached to desire / for those attached}
-འདོར: {cast aside (term): cast aside}
-འདོར་: {casts (away): casts}
-འདོར་འགྱུར: {bound to be lost (term): bound to be lost}
-འདོར་འདོད: {wish to be free of: wish to be free}
-འདྲ: {like, no difference: no difference / like}
-འདྲ་བ: {like, similarity: like / similarity}
-འདྲ་བར: {similarly, like: like}
-འདྲར: {just the same (term): just the same}
-འདྲིད་མི་བྱ: {should not mislead: not mislead}
-འདྲིས་ཆེན: {close attachment (term): close attachment}
-འདྲེ: {hungry ghost, demon: hungry ghost / demon}
-འདྲེན་པ: {the Guide(s) (epithet of the Buddha): Guides / Guide; pulling (action/state): pulling}
-འདྲེས: {mixed, mixing: mixing / mixed}
-འཕགས་པ: {noble (epithet): noble}
-འཕགས་པ་སྤྱན་རས་གཟིགས་དབང: {the noble Avalokiteśvara: noble Avalokiteśvara}
-འཕེན་པ: {driven by, propelled: driven by}
-འཕེལ: {increases (term): increases}
-འཕེལ་བར: {grows (term): grows}
-འཕེལ་བར་འགྱུར: {will increase (term): will increase}
-འཕེལ་འགྱུར: {to grow stronger: grow stronger}
-འཕྱང: {hanging (action/state): hanging}
-འཕྲོག: {steals away (term): steals away}
-འབངས: {a servant: servant}
-འབད: {effort, diligently: diligently / effort}
-འབད་པ: {effort, diligently: effort / every effort / diligently}
-འབད་པར: {to strive: strive}
-འབད་པར་: {to strive: strive}
-འབད་པར་བྱ་: {should strive diligently: strive diligently}
-འབད་རྩོལ: {striving (action/state): striving}
-འབབ་པའི: {flowing (action/state): flowing}
-འབའ་ཞིག: {only, merely: only / merely}
-འབར: {blazing (action/state): blazing}
-འབར་བ: {ablaze, blazing: ablaze / blazing}
-འབར་བའི: {blazing (action/state): blazing}
-འབིགས་པ: {cutting (action/state): cutting}
-འབེབས: {raining down (term): raining down}
-འབྱིན: {dispels (term): dispels}
-འབྱིན་པ: {removes (term): removes}
-འབྱུང: {to arise, come about: arise / arises / will arise / comes / lead to; elements (term): elements}
-འབྱུང་གནས: {a source: source}
-འབྱུང་བ: {to arise: arise; afflicts (contextual): afflicts}
-འབྱུང་བ་: {arising (action/state): arising}
-འབྱུང་བ་ཆེན་པོ: {the great elements: great elements}
-འབྱུང་བའང: {also arises: arise}
-འབྱུང་བའི: {from which arises: arises}
-འབྱུང་བར: {to occur: occur}
-འབྱུང་བར་འགྱུར: {will arise: arise / arises}
-འབྱུང་འགྱུར: {yet to come (term): yet to come}
-འབྱུང་རྣམས: {the elements: elements}
-འབྱེར: {to flee: flee}
-འབྱེར་བྱེད: {to flee: flee}
-འབྱོར: {prospers (term): prospers}
-འབྱོར་པ: {capacity, ability: capacity}
-འབྲལ: {departed (action/state): departed}
-འབྲས: {fruit, result: fruit / result}
-འབྲས་ཆན: {rice (term): rice}
-འབྲས་བཅས: {together with their fruits (term): together with their fruits}
-འབྲས་བཟང: {fine fruit (term): fine fruit}
-འབྲས་བུ: {fruit(s) (literal and result): fruit / fruits}
-འབྲས་བུ་འབྱིན་པ: {bears fruit (term): bears fruit}
-འབྲས་བུའི: {of the fruits (term): of the fruits}
-འབྲས་བུའི་དོན: {for the sake of the result (term): for the sake of the result}
-འབྲས་བུའི་དོན་དུ: {for the sake of the result (term): for the sake of the result}
-འབྲེལ་པ: {connection, coherently: coherently / connection / connected}
-འབྲེལ་པར: {in connection: connection}
-འབྲེལ་མེད: {connected to nothing (action/state): connected to nothing}
-འཚང་རྒྱ: {to become buddhas: become buddhas}
-འཚེ: {injury (term): injury}
-འཚེ་བ: {harm (term): harm}
-འཚེ་བ་: {harm (term): harm}
-འཚེ་བྱེད་པ: {one who causes harm: cause harm / harms}
-འཚེ་མེད: {without harm: harm}
-འཚེར་བ: {shimmering (action/state): shimmering}
-འཚོ: {to live, livelihood: live / livelihood / make a living / survive}
-འཚོ་བ: {livelihood, to live on: livelihood / live on}
-འཚོ་བ་: {livelihood (term): livelihood}
-འཚོ་བར: {sustained (action/state): sustained}
-འཚོགས: {to gather: gather}
-འཛག: {streaked, dripping: streaked}
-འཛིན: {to apprehend, grasp: apprehend / grasped / apprehended; to take up, hold: take up / hold}
-འཛིན་པ: {grasping, holding, restraint: grasping / self-restraint / cling}
-འཛུམ་པ: {smiling (action/state): smiling}
-འཛེམ: {caution (term): caution}
-འཛེམས་པར: {to shrink from: shrink}
-འོ: {milk (term): milk}
-འོ་དོད་འབོད: {I cry out (proper name/title): I cry out}
-འོ་མ: {milk (term): milk}
-འོང: {comes (term): comes}
-འོང་བ: {coming (action/state): coming}
-འོང་བར་འགྱུར: {will come (term): will come}
-འོང་མེད: {will never return (term): will never return}
-འོངས: {coming (action/state): coming}
-འོངས་ནས: {having arrived: arrives}
-འོངས་པ: {appears (term): appears}
-འོད་ཆགས: {radiant (term): radiant}
-འོད་ཟེར: {a ray of light: ray of light}
-འོད་སྲུངས་ཆེན་པོ: {Mahākāśyapa (proper name): Mahākāśyapa}
-འོན་ཀྱང: {even so (term): even so}
-འོན་ཏེ: {in this way, however: in this way}
-འོན་པ: {deaf (term): deaf}
-ཡང: {again, too: again / too}
-ཡང་: {even, again: even / again}
-ཡང་དག: {truly, genuinely: truly / genuinely / indeed / rightly; ultimately real: ultimately real / ultimately; fully, completely: fully / completely; genuine, proper: genuine / proper}
-ཡང་དག་: {genuinely, truly: genuinely}
-ཡང་དག་གསུང་བ: {the Truthful One (Buddha) has taught: the Truthful One himself has taught}
-ཡང་དག་ཉིད: {ultimate reality, truly as it is: ultimately true / reality as it is}
-ཡང་དག་ཉིད་དུ: {as ultimately real (term): as ultimately real}
-ཡང་དང་ཡང: {again and again (term): again and again}
-ཡང་དང་ཡང་དུ: {again and again, repeatedly: again and again / repeatedly}
-ཡང་དང་ཡང་དུའང་: {again and again (term): again and again}
-ཡང་བ: {trivial, light: trivial}
-ཡང་ཡང: {repeatedly (manner/adverb): repeatedly}
-ཡངས: {vast (term): vast}
-ཡངས་པ: {broad (term): broad}
-ཡན་བཏང་བ: {let loose (term): let loose}
-ཡན་ལག: {limbs, parts: verses / limbs / parts}
-ཡན་ལག་བཅད་པ: {limbs are cut off (term): limbs are cut off}
-ཡན་ལག་འདི་དག: {these branches (limbs): these branches}
-ཡལ་ག: {branches (term): branches}
-ཡལ་བར་འདོར་བ: {neglects (term): neglects}
-ཡི་ཆད་: {to lose heart: lose heart}
-ཡི་དྭགས: {hungry ghosts (term): hungry ghosts}
-ཡི་དྭགས་: {hungry ghost(s): hungry ghost}
-ཡི་དྭགས་རྣམས་ནི: {the hungry ghosts (term): the hungry ghosts}
-ཡི་དྭགས་རྣམས་ནི་བདེ་བར་གྱུར: {may the hungry ghosts be happy (term): may the hungry ghosts be happy}
-ཡི་མུག: {despair (term): despair}
-ཡི་མུག་འགྱུར: {falls into despair: fall into despair}
-ཡི་རང: {rejoiced in (term): rejoiced in}
-ཡི་རང་ངོ་: {I rejoice (proper name/title): I rejoice}
-ཡིད: {mind (term): mind; mental (adjective): mental; intention (term): intention; to think: think; heart (body part): heart}
-ཡིད་དུ་འོང་བ: {pleasing (action/state): pleasing}
-ཡིད་ཕེབས: {pleasing (action/state): pleasing}
-ཡིད་བདེ: {a pleasant feeling of mind: pleasant feeling of mind / pleasant feeling}
-ཡིད་བདེར: {with pleasure: pleasure}
-ཡིད་བཞིན: {wish-fulfilling (action/state): wish-fulfilling}
-ཡིད་བཞིན་ནོར: {a wish-fulfilling jewel: wish-fulfilling jewel}
-ཡིད་བཞིན་ནོར་བུ: {a wish-fulfilling jewel: wish-fulfilling jewel}
-ཡིད་བརྟན: {to rely on: rely}
-ཡིད་བྱུང: {distressed (action/state): distressed}
-ཡིད་མི་བདེ་བའི: {of mental unhappiness (term): of mental unhappiness}
-ཡིད་འདི་གཟུང་བར་བྱ: {I should hold this mind (proper name/title): I should hold this mind}
-ཡིད་འཕྲོག: {captivating (action/state): captivating}
-ཡིད་འབྱུང: {disenchantment (term): disenchantment}
-ཡིད་འོང: {pleasing, delightful: pleasing / pleasingly / pleasant / delightful}
-ཡིད་འོང་བ: {pleasing (action/state): pleasing}
-ཡིད་འོང་ལྡན: {pleasing, pleasant: pleasing / pleasant}
-ཡིད་རབ་དང་བྱེད: {generates a mind of faith (term): generates a mind of faith}
-ཡིན: {is (term): is}
-ཡུ་བ: {handles (term): handles}
-ཡུད་ཀྱིས: {instantly (manner/adverb): instantly}
-ཡུད་ཙམ: {just a moment: only a moment / moment}
-ཡུན་རིང: {for a long time, long-lasting: for a long time / lasting a very long time / long / long-lasting; at length (term): at length}
-ཡུན་རིང་: {lasting, persisting long: persisting through / lasting}
-ཡུན་རིང་གནས: {long endure (term): long endure}
-ཡུན་རིང་དུས: {for a long time (term): for a long time}
-ཡུལ: {objects (term): objects}
-ཡུལ་: {objects (of the senses): objects}
-ཡུལ་དབུས: {Central India: Central Indian}
-ཡུལ་དབུས་ཀྱི་དཔེ: {the Central Indian manuscript: Central Indian manuscript}
-ཡོ་བྱད: {things they need: thing they need}
-ཡོང་མི་བགྱིད: {I will never do it again (proper name/title): I will never do it again}
-ཡོང་མེད་པར: {never coming (action/state): never coming}
-ཡོངས: {utterly, entirely, fully: utterly / entirely / fully}
-ཡོངས་གཟུང: {fully embraced (action/state): fully embraced}
-ཡོངས་དུབ: {utterly exhausted (action/state): utterly exhausted}
-ཡོངས་བཞེས་ཤིག: {accept me fully!: accept me fully}
-ཡོངས་ཞེན: {desiring and clinging: desiring and clinging / clinging}
-ཡོངས་འཛིན: {clinging (action/state): clinging}
-ཡོངས་སུ: {fully, wholly, entirely: fully / thoroughly / Wholly / entirely; all (term): all}
-ཡོངས་སུ་གཟུང་བ: {to grasp: grasp}
-ཡོངས་སུ་གཟུང་བ་མེད་པ: {unclaimed by anyone (term): unclaimed by anyone}
-ཡོངས་སུ་བཟུང་བ: {Wholly Adopting (proper name/title): Wholly Adopting}
-ཡོངས་སུ་སྐྱོང་བ: {pampered (action/state): pampered}
-ཡོངས་སུ་སྤྱོད: {proclaimed, widely practiced: proclaimed}
-ཡོངས་སྐོང་བ: {fulfills every wish (term): fulfills every wish}
-ཡོངས་སྐྱོབ: {protects (term): protects}
-ཡོད: {to exist: exist / exists / existence; present (term): present; to possess: possess}
-ཡོད་ཉིད: {existence, actual existence: existence / existence itself / actually exists}
-ཡོད་ན: {if it truly existed: truly existed}
-ཡོད་པ: {to exist, there is/are: there are / exist / there is / existed / existence}
-ཡོད་པར: {to exist: exists}
-ཡོད་པས: {since (they) possess: possess}
-ཡོད་མིན: {does not exist (term): does not exist; no real entity (term): no real entity}
-ཡོན: {rewards (term): rewards}
-ཡོན་གནས: {fields of merit (term): fields of merit}
-ཡོན་ཏན: {good qualities, virtues: good qualities / qualities / quality / good quality / mass of qualities; virtue (moral quality): virtue; guṇas (Sāṃkhya technical term): guṇas}
-ཡོན་ཏན་ཅི་ཞིག་ཡོད: {what merit is there (rhetorical): what merit is there}
-ཡོན་ཏན་ལྡན་པ: {those who possess good qualities (term): those who possess good qualities}
-རག་ལས: {depends on: depends on / depends}
-རག་ལས་པས: {depends on (term): depends on}
-རགས་པ: {coarse (form): coarse / coarse form}
-རང: {oneself, one's own: oneself / my own / one's own / own}
-རང་གི: {own (term): own}
-རང་གི་དངོས: {its own actual nature: its own nature}
-རང་གི་ཕྱོགས་ཞེན: {partiality toward my own side (term): partiality toward my own side}
-རང་གི་རང་བཞིན: {its own actual nature: own actual nature}
-རང་གི་ལས: {my own actions (term): my own actions}
-རང་གིས: {by itself: itself}
-རང་ཉིད: {itself, oneself: itself}
-རང་དགས: {according to one's own wishes (term): according to one's own wishes}
-རང་དབང: {self-mastery, independence: self-mastery / free / independence / freely}
-རང་དབང་དུ: {freely (manner/adverb): freely}
-རང་དབང་ཡོད་པ་མ་ཡིན: {has no independence: no independence}
-རང་དོན: {one's own purpose, self-interest: own purpose / my own welfare / own real benefit / own self-interest / benefit yourself / self-serving}
-རང་བཞིན: {nature, by nature: nature / by nature / true nature; natural (adjective): natural; natures (plural): natures}
-རང་བཞིན་: {by nature (term): by nature}
-རང་བཞིན་ཅན: {whose nature is (term): whose nature is}
-རང་རིག: {self-awareness (term): self-awareness}
-རང་ལ: {upon themselves (term): upon themselves}
-རང་ལ་རང: {itself (term): itself}
-རང་སངས་རྒྱས: {pratyekabuddhas (term): pratyekabuddhas}
-རན་པ: {fitting (action/state): fitting}
-རན་པ་ཙམ: {sufficient, just enough: sufficient}
-རབ: {highest, supreme: highest}
-རབ་གསལ: {self-evidently luminous (term): self-evidently luminous}
-རབ་ཏུ: {utterly, firmly: utter / firm / utterly / firmly; furiously (manner/adverb): furiously; born (intensifying prefix): born}
-རབ་ཏུ་དགྲོལ་བ: {liberating (action/state): liberating}
-རབ་ཏུ་བསྒྲིམས: {thoroughly focus (term): thoroughly focus}
-རབ་ཏུ་བྱུང་བ: {gone forth, renunciant: gone forth / renunciant}
-རབ་ཏུ་འཁྲུག: {thoroughly agitated (action/state): thoroughly agitated}
-རབ་ཏུ་འདོད: {desiring (action/state): desiring}
-རབ་ཏུ་འབྱིན་པར: {ordains (term): ordains}
-རབ་ཏུ་འབྱུང: {will arise (term): will arise}
-རབ་ཏུ་སྐྱེ་: {to continue to arise: continue to arise}
-རབ་ཏུ་སྡང: {intensely hostile (term): intensely hostile}
-རབ་དགའ: {the ground of Great Joy, utmost joy: utmost joy / Great Joy}
-རབ་དགོངས་མཛད་པ: {saw (honorific): saw}
-རབ་དད: {deep faith (term): deep faith}
-རབ་བརྟན: {to hold firmly: hold firmly}
-རབ་བརྟན་: {firmly (manner/adverb): firmly}
-རབ་བྱུང: {ordination, going forth: ordination}
-རབ་མྱོས: {overcome by intoxication (term): overcome by intoxication}
-རབ་འབྱམས: {boundless (term): boundless}
-རབ་སྣང: {lights up (term): lights up}
-རབ་སྣང་སྟོན་པ: {lights everything up (term): lights everything up}
-རལ་ཁ: {a blade: blade}
-རལ་གྲི: {sword(s): sword / swords}
-རལ་གྲི་ལོ་མའི: {of leaf-bladed swords: leaf-bladed swords}
-རས: {cloth (term): cloth}
-རས་བལ: {cotton (term): cotton}
-རི་དྭགས: {deer (term): deer}
-རི་བོ: {mountain(s): mountains}
-རི་རབ: {Mount Meru (proper name/title): Mount Meru}
-རི་རབ་: {Mount Meru (proper name/title): Mount Meru}
-རིག: {awareness (mental state): awareness}
-རིག་བྱས: {understanding (mental state): understanding}
-རིག་བྱེད: {the Vedas: Vedas}
-རིག་སྔགས: {mantra of knowledge (term): mantra of knowledge}
-རིགས: {family, lineage: family / lineage; right, fitting: right / fit for; kind, type: kind}
-རིགས་པ: {reasonable (term): reasonable}
-རིགས་པའི: {appropriate, reasonable: appropriate}
-རིགས་པར: {fittingly: fitting}
-རིགས་པར་འགྱུར: {it is fitting (action/state): it is fitting}
-རིགས་མིན: {unreasonable: unreasonable / not reasonable}
-རིང་གཟིགས་པས: {by the far-seeing: far-seeing}
-རིང་དུ: {far from: far from home}
-རིང་ཞིག: {after a long time (term): after a long time}
-རིངས་པར: {quickly (manner/adverb): quickly}
-རིན་ཆེ: {precious (term): precious}
-རིན་ཆེན: {precious, jewels: precious / jewels / jewel / jeweled / precious substances; Rinchen (proper name): Rinchen}
-རིན་ཆེན་བཟང་པོ: {Rinchen Zangpo (proper name): Rinchen Zangpo}
-རིན་ཆེན་བྱང་ཆུབ: {precious bodhicitta (awakening): precious bodhicitta}
-རིན་ཆེན་བྱང་ཆུབ་སེམས: {precious bodhicitta (mind): precious bodhicitta}
-རིན་ཆེན་རིང་ཐང་མེད་པ: {a priceless jewel: priceless jewel}
-རིན་ཆེན་ཤིང: {jeweled trees (term): jeweled trees}
-རིན་ཆེན་སེམས: {precious mind (of awakening): precious mind}
-རིམ་གྱིས: {gradually (manner/adverb): gradually}
-རིམ་གྲོ: {honored, served: honored / served / honor}
-རིམ་གྲོ་: {treated well, honored: treated well}
-རིམ་གྲོ་བསྟེན་བྱས་ན་: {if treated well and served: treated well and served}
-རིམ་པ: {in due order, layer by layer: in due order / layer by layer}
-རིམ་བཞིན: {in due order (term): in due order}
-རིམ་བཞིན་གནས་པ: {abided in due order (term): abided in due order}
-རུང་བ: {to deserve: deserve}
-རུང་བ་: {fit, suitable: fit}
-རུལ་བ: {decaying (action/state): decaying}
-རུས: {bone (body part): bone}
-རུས་གཟེབ: {a cage of bones: cage of bones}
-རུས་གོང: {bones, skeleton: bones / skeleton / skeletons}
-རུས་པ: {bone(s): bones / bone}
-རུས་སྦལ་: {a sea turtle: sea turtle}
-རེ: {relatives, each: relatives}
-རེ་བ: {expectation, wish: expectation / wish}
-རེ་ཞིག: {for the present, a while: present}
-རེ་རེ: {each and every one, each single: each and every one / each single}
-རེ་རེ་ཞིང: {whenever, each time: whenever}
-རེག: {to touch: touch / touched}
-རེག་དང་བལྟ་བར་འདོད: {wanting to touch and look (term): wanting to touch and look}
-རེག་པ: {contact, touch: contact / touch / touched}
-རེག་པ་ཡོད་མིན: {there is no such thing as contact: no such thing as contact}
-རེས་ཀྱིས་: {back and forth, in turn: back and forth}
-རེས་འགའ: {sometimes (term): sometimes}
-རོ: {corpses (term): corpses}
-རོ་མྱང: {to taste: taste}
-རོལ་མོ: {music, instruments: instruments / music}
-རོལ་མོར: {with instruments (term): with instruments}
-རྐང: {marrow, feet: marrow / feet}
-རྐང་: {feet (body part): feet}
-རྐང་པ: {legs, foot: legs / foot}
-རྐང་ལག་: {hands and feet (term): hands and feet}
-རྐེད་པ: {hips (term): hips}
-རྐོ: {digging (action/state): digging}
-རྐྱལ་པ: {bags (term): bags}
-རྐྱེན: {condition(s) (causal): conditions / condition}
-རྐྱེན་གཅིག: {a single condition: single condition}
-རྐྱེན་གཞན་དག: {other conditions (term): other conditions}
-རྐྱེན་གྱིས་བསྐུལ: {impelled by conditions (term): impelled by conditions}
-རྒ: {old age (term): old age}
-རྒན་པོ: {the elderly: elderly}
-རྒས: {grown old (term): grown old}
-རྒོད: {excitement, restlessness: excitement / restlessness}
-རྒོད་སོགས: {restlessness and the like (term): restlessness and the like}
-རྒོལ: {to rise up (against): rise up}
-རྒྱ་གར: {India, Indian: Indian / India}
-རྒྱ་གར་གྱི་མཁན་པོ: {Indian preceptor (proper name/title): Indian preceptor}
-རྒྱ་གར་གྱི་མཁན་པོ་དྷརྨ་ཤྲཱི་བྷ་དྲ: {the Indian preceptor Dharmaśrībhadra: Indian preceptor Dharmaśrībhadra}
-རྒྱ་གར་གྱི་མཁན་པོ་སརྦ་ཛྙཱ་དེ་བ: {the Indian preceptor Sarvajñādeva: Indian preceptor Sarvajñādeva}
-རྒྱ་གར་སྐད: {the language of India: language of India}
-རྒྱ་ཆེ: {vast (term): vast}
-རྒྱ་ཆེན: {vast (term): vast}
-རྒྱ་ཆེར: {at length, extensively: at length}
-རྒྱ་མཚོ: {ocean(s): ocean / oceans}
-རྒྱ་མཚོ་: {an ocean: ocean}
-རྒྱ་མཚོས: {by an ocean (of): ocean}
-རྒྱང་རིང: {implausible, far-fetched: implausible}
-རྒྱན: {ornament(s): ornaments / ornament / garlands; to adorn: adorned / adorn}
-རྒྱན་: {ornaments (term): ornaments}
-རྒྱན་སྤྲས: {adorned (with ornaments): adorned}
-རྒྱབ: {behind (term): behind}
-རྒྱར: {in a snare: snare}
-རྒྱལ: {the Victor(s), king, victorious: Victors / victors / king / victorious / victory}
-རྒྱལ་པོ: {king, rulers: king / rulers}
-རྒྱལ་པོའི: {of the king: king's}
-རྒྱལ་བ: {the Victor(s) (epithet of Buddha): Victors / Victor}
-རྒྱལ་བའི: {of the Victor (Buddha): Victor's / of victory}
-རྒྱལ་བའི་: {of the Victor (Buddha): of the Victor}
-རྒྱལ་བའི་སྐུ: {a Buddha's form (term): a Buddha's form}
-རྒྱལ་བའི་སྲས་: {child of the Victor (bodhisattva): child of the Victor}
-རྒྱལ་བྱ: {must be victorious (term): must be victorious}
-རྒྱལ་བྱེད: {victors (term): victors}
-རྒྱལ་མཚན: {the Vajra Banner (proper name): Vajra Banner}
-རྒྱལ་འདོད: {wish to conquer (term): wish to conquer}
-རྒྱལ་སྲས: {children/child of the Victors (epithet of bodhisattvas): children of the Victors / child of the Victors}
-རྒྱས: {vast, extensive: vast}
-རྒྱས་པར་བྱ་བ: {to increase it further: increase it further}
-རྒྱུ: {cause: cause / causes; purpose (term): purpose}
-རྒྱུ་གཅིག་པུ་: {the sole cause: sole cause}
-རྒྱུ་བྱེད: {makes it an object (of): make it an object}
-རྒྱུ་ལྟོ: {intestines (term): intestines}
-རྒྱུད: {mindstream, mental continuum: mental continuum / mindstream / continuum / minds}
-རྒྱུད་གཅིག: {a single continuum: single continuum}
-རྒྱུན: {continuum, stream: continuum / stream; without ceasing (action/state): without ceasing}
-རྒྱུན་ཆགས: {an uninterrupted stream: uninterrupted stream}
-རྒྱུན་ཆགས་: {constant, uninterrupted: constant}
-རྒྱུན་མི་འཆད: {ceaselessly (manner/adverb): ceaselessly}
-རྒྱུན་མི་འཆད་པར: {unbroken, ceaselessly: unbroken / ceaselessly}
-རྒྱུན་རིང: {a continuum lasting longer: continuum lasts longer}
-རྒྱུན་རིང་ཙམ: {simply because it lasts longer (term): simply because it lasts longer}
-རྒྱུའི: {of the cause (term): of the cause}
-རྒྱུར: {as a cause: cause}
-རྒྱུར་: {as a cause: cause}
-རྒྱུར་གྱུར་པ: {that which becomes a cause: cause}
-རྔན་པ: {wages (term): wages}
-རྔམ་ཞིང: {desperate (action/state): desperate}
-རྔུལ: {sweat (term): sweat}
-རྗེ: {Lord (proper name/title): Lord}
-རྗེ་དཔོན: {lord, master: lord / master; mastery (term): mastery}
-རྗེར: {as Lord: Lord}
-རྗེས: {footsteps (term): footsteps}
-རྗེས་དྲན: {mindfulness (recollection): mindfulness}
-རྗེས་དྲན་པ: {mindfulness of (term): mindfulness of}
-རྗེས་བསྙགས: {to follow in the footsteps: follow in the footsteps}
-རྗེས་མཐུན་པར: {in accordance with (term): in accordance with}
-རྗེས་འབྲང: {follows behind (term): follows behind}
-རྗེས་འབྲེལ: {connection (term): connection}
-རྗེས་སུ་ཆགས: {attachment (mental state): attachment}
-རྗེས་སུ་བསྟན་པ: {guidance (term): guidance}
-རྗོད: {to speak: speak}
-རྙིང: {seasoned, old: seasoned}
-རྙེད: {found, obtained: found / find / finding / finds / obtain / obtained / received / provided; gain, gains (noun): gain / gains; wealth (term): wealth}
-རྙེད་: {found (term): found}
-རྙེད་གྱུར་ནས་: {having found (term): having found}
-རྙེད་དཀའ: {hard to find (term): hard to find}
-རྙེད་དཀའ་: {hard to attain (term): hard to attain}
-རྙེད་ནས: {having found (term): having found}
-རྙེད་པ: {wealth, gain: wealth / gain / finds / gains}
-རྙེད་པ་མང་པོ: {great wealth (term): great wealth}
-རྙེད་པའི: {of gain (term): of gain}
-རྙེད་པར: {to find, receive: to find / receive}
-རྙེད་པར་དཀའ: {hard to attain (term): hard to attain}
-རྙོག་དང་བཅས་པར་འགྱུར: {falls into impurity: fall into impurity}
-རྙོག་པ: {to bring stain: bring stain}
-རྙོག་མི་བྱ: {do not let become disturbed (action/state): do not let become disturbed}
-རྟ: {a horse: horse}
-རྟག: {permanent (philosophical): permanent; constantly, always: constantly / always}
-རྟག་ཏུ: {always, constantly, at all times: always / constantly / at all times}
-རྟག་ཏུ་: {always, never (with negation): always / never}
-རྟག་ཏུ་གཏང་མི་བྱ: {should never abandon (term): should never abandon}
-རྟག་ཏུ་གཟུང་བར་བྱ: {should always hold: always hold}
-རྟག་ཏུ་དབུལ་བར་བགྱི: {I constantly offer (proper name/title): I constantly offer}
-རྟག་ཏུ་མེད་པར: {never to arise again: never arise again}
-རྟག་པ: {permanent (term): permanent}
-རྟག་པ་མེད་པ: {impermanent (term): impermanent}
-རྟག་པར: {constantly, always, forever: constantly / always / forever}
-རྟེན: {basis (term): basis; dependence (term): dependence}
-རྟེན་བཅས: {by relying on (term): by relying on}
-རྟོག: {a view: view}
-རྟོག་ཆེན: {a close observer: close observer}
-རྟོག་ཆེན་བྱས: {having become a close observer (term): having become a close observer}
-རྟོག་པ: {conceptual thought, conception: wisdom / conception / conceptual imputation / conceptual}
-རྟོགས: {to understand, realize: inferred / understand / recognize}
-རྟོགས་ནས་: {having understood (term): having understood}
-རྟོགས་པ: {realized (action/state): realized}
-རྟོགས་པར: {established (action/state): established}
-རྡིབ: {collapses (term): collapses}
-རྡུལ: {dust, particle(s): atoms / dust / particle / particles; rajas (Sāṃkhya quality): rajas}
-རྡུལ་ཕྲན: {particle(s): particle / particles}
-རྡེག: {being beaten (term): being beaten}
-རྡོ: {stone(s): stone / stones}
-རྡོ་རྗེ: {Vajra (proper name): Vajra}
-རྡོ་ལེབ: {a flat stone: flat stone}
-རྡོག་པས: {to trample: trample}
-རྣག: {pus (term): pus}
-རྣམ་ཀུན: {in every respect: every respect}
-རྣམ་ཀུན་ཏུ: {throughout, in every way: throughout the entire}
-རྣམ་གཉིས: {twofold (term): twofold}
-རྣམ་གཡེང: {distraction (term): distraction}
-རྣམ་གསུམ: {the three natures/qualities: three natures}
-རྣམ་ཐར: {a life account (hagiography): account}
-རྣམ་ཐར་: {freed, liberation: freed}
-རྣམ་དཔྱད: {analyzed (action/state): analyzed}
-རྣམ་དཔྱད་པ: {analysis (term): analysis}
-རྣམ་དཔྱོད: {analytical insight: analytical understanding / analysis / insight / genuine insight}
-རྣམ་པ: {kind(s), of every kind: kinds / of every kind; form (term): form; patterns, ways: patterns / ways}
-རྣམ་པ་: {kind, aspect: kind}
-རྣམ་པ་ཀུན་དུ་: {in every way: in any way}
-རྣམ་པ་གཉིས: {two kinds (term): two kinds}
-རྣམ་པ་གཞན: {another form, alternative: other form / other alternative}
-རྣམ་པ་སྣ་ཚོགས: {every variety (term): every variety}
-རྣམ་པར: {through (instrumental): through}
-རྣམ་པར་གཡེང་བ: {distraction (term): distraction}
-རྣམ་པར་གཡེངས་པ: {distracted (action/state): distracted}
-རྣམ་པར་གཡེངས་པའི: {utterly distracted (action/state): utterly distracted}
-རྣམ་པར་དཔྱད: {analyzed: analyzed / analyzing mind / when analyzed}
-རྣམ་པར་དཔྱད་པ: {analysis, philosophical analysis: analysis / searched for through analysis / conceptual thought / philosophical analysis}
-རྣམ་པར་འཇོམས: {to strike down: strike down}
-རྣམ་པར་རྟོག: {a (mistaken) notion: notion / mistaken}
-རྣམ་པར་རྟོག་པ: {discursive thought (term): discursive thought}
-རྣམ་པར་རྨོངས་པ: {deluded (action/state): deluded}
-རྣམ་བརྟགས: {analysis (term): analysis}
-རྣམ་བསམས་: {reflected upon: reflected}
-རྣམ་མང་པོ: {many kinds: many}
-རྣམ་རྒྱལ: {complete victory (term): complete victory}
-རྣམ་རྟོག: {discursive thought: discursive thought / thought / conceptual construction}
-རྣམ་རྟོག་མེད་པ: {free of discursive thought (term): free of discursive thought}
-རྣམ་རྨོངས་པ: {utterly deluded (action/state): utterly deluded}
-རྣམ་ཤེས: {consciousness: consciousness / consciousnesses}
-རྣམ་ཤེས་དྲུག: {the six consciousnesses: six consciousnesses}
-རྣམ་སྐྲག་པ: {trembling (action/state): trembling}
-རྣམ་སྨིན: {karmic ripening, results: ripening / karmic results}
-རྣམ་སྨིན་འབྲས་བུ: {the resulting reward (karmic ripening): resulting reward}
-རྣལ་འབྱོར: {of the yogin: yogin's}
-རྣལ་འབྱོར་པ: {yogin(s): yogin / yogins}
-རྣལ་འབྱོར་པ་དང་འཇིག་རྟེན་རྩོད: {this is where the yogin and ordinary person dispute (term): this is where the yogin and ordinary person dispute}
-རྦད་པས: {struck (term): struck}
-རྨ: {a wound: wound / incision}
-རྨ་སྲོལ་: {scars (term): scars}
-རྨད: {wonder (term): wonder}
-རྨི་ལམ: {dream(s): dream / dreams}
-རྨི་ལམ་སྒྱུ་འདྲའི: {like a dream or an illusion (term): like a dream or an illusion}
-རྨུགས་པ: {mental dullness (term): mental dullness}
-རྨོངས: {deluded, delusion: deluded / delusion}
-རྨོངས་པ: {deluded (adjective): deluded; delusion (noun): delusion; fool (term): fool}
-རྨོངས་པ་: {bewildered, deluded: bewildered}
-རྨོངས་པའང་: {even folly, delusion: folly}
-རྨོངས་པའི: {deluded (action/state): deluded}
-རྨོངས་པའི་ཡིད: {a deluded mind: deluded mind}
-རྨོངས་པར་: {bewildered, deluded: bewildered / deluded}
-རྨོངས་པས: {of the deluded (action/state): of the deluded}
-རྨོངས་པས་: {out of delusion (term): out of delusion}
-རྨོངས་ལས: {from delusion (term): from delusion}
-རྩ་བ: {root (term): root}
-རྩི: {elixir, measure: elixir / measure}
-རྩིབ་ལོགས: {ribs (term): ribs}
-རྩེ་ཕྱིར: {for playful tossing: playful tossing}
-རྩེ་བྱེད: {to play with: play with}
-རྩེད་མོའི: {of a game (term): of a game}
-རྩོད: {to dispute: dispute}
-རྩོད་པ: {conflict, dispute: conflict / dispute}
-རྩོད་བཅས: {disputed (action/state): disputed}
-རྩོམ་པ: {undertaking, begun: undertakings / begun}
-རྩོལ་བ: {effort (term): effort}
-རྩྭ: {grass, straw: grass / straw}
-རྫས: {wealth, substance: wealth}
-རྫིང་བུ: {pools (term): pools}
-རྫུན: {false (term): false}
-རྫུན་པ: {false (term): false}
-རྫོགས: {completely, perfectly: completely / perfectly}
-རྫོགས་པ: {perfect, complete: perfect}
-རྫོགས་པའི་བྱང་ཆུབ: {perfect awakening (action/state): perfect awakening}
-རྫོགས་པར: {to fulfill, satisfy: fulfills / satisfy / fulfilled}
-རྫོགས་བྱེད་པ: {fulfilling completely (manner/adverb): fulfilling completely}
-རྫོགས་མ་བྱས: {fulfilled none: fulfilled no}
-རྫོགས་སངས་རྒྱས: {perfectly awakened Buddhas (term): perfectly awakened Buddhas}
-རྫོགས་སོ: {is complete (term): is complete}
-རླུང: {wind, breath: wind / winds / breath}
-རླུང་མེད: {without wind (term): without wind}
-རློམ: {to imagine, conceit: imagine / conceit}
-རློམ་པ: {boasting (action/state): boasting}
-རློམ་སེམས: {conceit (mental state): conceit}
-ལ: {to, toward: to / toward; against (term): against}
-ལ་ལ: {some (term): some}
-ལ་སོགས: {and the like: and the like / and all the rest}
-ལ་སོགས་པ: {and others, and the rest: and others / and the rest}
-ལ་སོགས་པ་: {and the like (term): and the like}
-ལག: {hand(s): hands / hand}
-ལག་: {hands (body part): hands}
-ལག་ཏུ: {into (one's) hand: into one's hand}
-ལག་པ: {hand(s): hand / hands; arms (body part): arms}
-ལག་པ་སྟོང་པ: {empty-handed (action/state): empty-handed}
-ལག་མཐིལ: {the palm of a hand: palm of a hand}
-ལག་སོགས: {hands and other parts/limbs: hands and other parts / hands and the rest}
-ལན: {a reward: reward}
-ལན་གསུམ: {three times (term): three times}
-ལན་དུ: {in return (term): in return}
-ལན་དུ་གནོད་བྱས: {retaliate and harm in return (term): retaliate and harm in return}
-ལན་མང་དུ: {again and again (term): again and again}
-ལན་ལོན: {to repay: repay}
-ལན་ལྡོན: {repays (term): repays}
-ལམ: {path(s): paths / path; road(s): road / roads}
-ལམ་གོལ: {desolate roads (term): desolate roads}
-ལམ་མེད: {pathless (term): pathless}
-ལམ་ཞུགས་རྣམས: {those who travel the path (term): those who travel the path}
-ལམ་འདི: {this path (term): this path}
-ལམ་རྒྱུ་ཞིང: {travelers on the road (term): travelers on the road}
-ལམ་སྒུགས: {to lie in wait: lie in wait}
-ལའང: {even at, even toward: even at / even toward}
-ལས: {action, deed, past karma: action / actions / past actions / act / acts; task: task / tasks; function, role: function; labor, work: labor / work; faults (term): faults; through, by means of: through}
-ལས་ཀྱི་ནུས་པ: {the power of past actions: power of past actions}
-ལས་གང་ཡིན་པ: {whatever actions (term): whatever actions}
-ལས་གཞན: {another function: other function}
-ལས་བརྩམས་ཏེ: {whatever I undertake (do): whatever I do}
-ལས་བྱས: {an action has been done: action has been done}
-ལས་བྱེད: {undertaking, work: undertaking / work}
-ལས་ཚུལ་: {the manner, way (of action): the way}
-ལས་རུང: {workable (term): workable}
-ལས་རྣམས: {deeds (term): deeds}
-ལས་སུ་མི་བྱ: {should not act (term): should not act}
-ལུང: {scripture(s): scripture / scriptures}
-ལུང་བཞིན: {in keeping with the scriptures (term): in keeping with the scriptures}
-ལུས: {the body: body / bodies / form; physical (adjective): physical; bodily strength: strength; flesh (body part): flesh; one's own impurity (bodily): own impurity}
-ལུས་: {body (body part): body}
-ལུས་ཅན: {embodied being(s): embodied beings / beings / embodied being}
-ལུས་ཅན་: {embodied beings (term): embodied beings}
-ལུས་ཅན་ཀུན: {all embodied beings (term): all embodied beings}
-ལུས་ཅན་རྣམས: {beings (term): beings}
-ལུས་བདེ་བ: {physical comfort (term): physical comfort}
-ལུས་མེད་པ: {no ultimately real body (term): no ultimately real body}
-ལུས་འདི་ཐམས་ཅད: {all these (parts of this body): all these}
-ལུས་ཡོད: {a body to exist: body exist}
-ལེ་ལོ: {laziness (term): laziness}
-ལེ་ལོ་ཉེ་བར་སྐྱེ་བར་འགྱུར: {laziness comes to arise (term): laziness comes to arise}
-ལེགས: {well, kindly, excellent: kindly / well / excellent / fortunate; loveliest (term): loveliest; good deeds (term): good deeds}
-ལེགས་པ: {excellence, goodness: excellence}
-ལེགས་པར: {well, excellently: closely / excellent / well / truly; in a friendly manner: friendly manner}
-ལེགས་པར་: {properly, well: proper}
-ལེགས་པར་མཆོད: {an excellent offering: excellent offering}
-ལེགས་བྱས: {done well (term): done well}
-ལེན་པ: {picks up, retrieves: picks up / retrieve}
-ལེབ: {a flat stone: flat stone}
-ལེའུ: {Chapter: Chapter / chapter}
-ལེའུ་དགུ་པ: {Chapter Nine (title): Chapter Nine}
-ལེའུ་དྲུག་པ: {Chapter Six (title): Chapter Six}
-ལེའུ་བཅུ་པ: {Chapter Ten (title): Chapter Ten}
-ལེའུ་བདུན་པ: {Chapter Seven (title): Chapter Seven}
-ལེའུ་བཞི་པ: {Chapter Four (title): Chapter Four}
-ལེའུ་བཞི་པ།: {Chapter Four (title): Chapter Four}
-ལེའུ་བཞི་པའོ: {(end of) Chapter Four: Chapter Four}
-ལེའུ་བརྒྱད་པ: {Chapter Eight (title): Chapter Eight}
-ལེའུ་ལྔ་པ: {Chapter Five (title): Chapter Five}
-ལེའུ་ལྔ་པའོ: {(end of) Chapter Five: Chapter Five}
-ལེའུ་སྟེ་དགུ་པའོ: {(end of) Chapter Nine: Chapter Nine}
-ལོ་ཏོག: {harvests (term): harvests}
-ལོ་མའི: {leaf-bladed (action/state): leaf-bladed}
-ལོ་ཙཱ་བ: {editor-translator: editor-translator / translator}
-ལོ་ཙཱ་བ་བནྡེ: {editor-translator Bande (term): editor-translator Bande}
-ལོ་ཙཱ་བ་བནྡེ་དཔལ་བརྩེགས: {the editor-translator Bande Paltsek: editor-translator Bande Paltsek}
-ལོ་ཙཱ་བ་བནྡེ་རིན་ཆེན: {the editor-translator Bande Rinchen: editor-translator Bande Rinchen}
-ལོག: {wrongful (term): wrongful}
-ལོག་པ: {mistaken (term): mistaken}
-ལོག་པའི: {wrong, false: wrong}
-ལོག་པའི་ལམ: {wrong paths (term): wrong paths}
-ལོག་པར: {wrong views (term): wrong views}
-ལོག་པར་ལྟུང: {fallen into wrongdoing (action/state): fallen into wrongdoing}
-ལོག་འཚོ: {wrongful livelihood (term): wrongful livelihood}
-ལོགས་སུ: {separately (manner/adverb): separately}
-ལོང་བ: {a blind man, blind: blind man / blind}
-ལོངས་སྤྱོད: {possessions, to partake: possessions / partake}
-ལོངས་སྤྱོད་པ: {used by others (term): used by others}
-ལྐོག་ན: {behind their backs (term): behind their backs}
-ལྕགས: {iron (term): iron}
-ལྕགས་ཀྱི: {of iron: iron}
-ལྕི: {weighty (term): weighty}
-ལྕི་བ་: {heaviest, weightiest: heaviest}
-ལྗོན་ཤིང: {tree (term): tree}
-ལྟ: {gaze, to look, watch: gaze / looks / watching}
-ལྟ་བ: {a view, to look: look / view}
-ལྟ་བུ: {like, such as: like / such as}
-ལྟ་བུའི: {like, equal to: like / equal to}
-ལྟ་བུར: {like, as though (comparative): such behavior / as boldly as / illusion-like / like an illusion / like}
-ལྟ་བྱེད: {perceiving (action/state): perceiving}
-ལྟ་བྱེད་ཡིད: {the perceiving mind: perceiving mind}
-ལྟ་ཞོག: {setting aside (the question): setting aside}
-ལྟད་མོ: {spectacles (term): spectacles}
-ལྟའི: {like, resembling: like}
-ལྟར: {like, just as: like / just as; in this way (term): in this way}
-ལྟར་: {like, as: like}
-ལྟུང: {falls (into wrongdoing): falls}
-ལྟུང་བ: {downfall(s), transgression: downfalls / transgression / falling}
-ལྟུང་བའི་: {of downfalls (term): of downfalls}
-ལྟུང་བའི་རྙོག: {the impurity of transgression: impurity of transgression}
-ལྟུང་བྱེད་པ: {to fall into (wrongdoing): fall into}
-ལྟོ: {belly (manner/adverb): belly}
-ལྟོས: {to depend on: depend; to observe, look, compare: observe / compared / look}
-ལྟོས་པ: {to depend on: depend}
-ལྟོས་པ་མེད་པ: {without dependence (term): without dependence}
-ལྟོས་པར: {to depend: depend}
-ལྡང: {to arise, thrill: arise / thrill}
-ལྡང་དང་ལྡན: {enthusiasm (term): enthusiasm}
-ལྡང་བ: {rising up, ready: glowing / leaps up / ready for action}
-ལྡང་བར་འགྱུར་: {will arise (term): will arise}
-ལྡན: {possessing, endowed with: possesses / possessing / endowed / those with; that same (term): that same}
-ལྡན་པ: {possessing, joined with: possesses / joined with / endowed / in conjunction}
-ལྡན་བཞིན་དུ་: {while possessing (action/state): while possessing}
-ལྡོག: {to turn back, reverse: turn back / reverse}
-ལྡོག་པར: {to turn back: turn back}
-ལྡོག་པར་མི་བྱའོ: {better not to begin than to turn back (term): better not to begin than to turn back}
-ལྡོངས་པ: {blindness (term): blindness}
-ལྷ: {gods, god: gods / god; divine (adjective): divine}
-ལྷ་: {gods (term): gods}
-ལྷ་ཁང: {a temple: temple}
-ལྷ་བརྒྱ: {a hundred gods: hundred gods}
-ལྷ་བཤོས: {divine nourishment (term): divine nourishment}
-ལྷ་མིན: {asuras (demigods): asuras}
-ལྷ་མིན་: {demigods (asuras): demigods}
-ལྷ་མོ: {goddess(es): goddesses / goddess}
-ལྷ་ཡི: {divine (term): divine}
-ལྷག: {above them, surpassing: above them}
-ལྷག་པ: {surpassing, left over: left / surpassing}
-ལྷག་པར: {even greater, especially: even greater}
-ལྷག་བརྗོད: {proclaiming (action/state): proclaiming}
-ལྷག་མ: {what remains: remain}
-ལྷག་མཐོང: {special insight (vipaśyanā): special insight}
-ལྷན་ཅིག: {together, simultaneously: together / simultaneously}
-ལྷམ: {shoes (term): shoes}
-ལྷུང་གྱུར: {falls, dropped: falls / dropped}
-ལྷུང་བ: {to fall: fall / falls / fallen}
-ལྷུང་བཟེད: {a begging bowl: begging bowl}
-ལྷུར་བླང: {what is needed, taken to heart: needs}
-ལྷུར་ལེན་པ: {intent on, devoted to: intent on}
-ཤ: {flesh (body part): flesh}
-ཤ་ཐང: {exhausts (term): exhausts}
-ཤ་ཐང་གསོ: {nourished (from exhaustion): nourished}
-ཤ་ཡི: {of flesh (term): of flesh}
-ཤ་སྦྲང: {flies (term): flies}
-ཤ་སྦྲང་བུ: {flies (term): flies}
-ཤས་ཆེར: {excessively (manner/adverb): excessively}
-ཤས་ཙམ: {a small portion: small portion}
-ཤཱཀྱ་བློ་གྲོས: {Śākya-blo-gros (proper name): Śākya-blo-gros}
-ཤི: {death, to die: death / dead / die / died}
-ཤི་ནས: {after death (term): after death}
-ཤི་བ: {dies (term): dies}
-ཤི་བའི: {dead, after death: dead / after death}
-ཤིང: {wood (material): wood; trees: trees / tree}
-ཤིང་དྲུང: {at the foot of a tree: beneath a tree / foot of a tree}
-ཤིང་དྲུང་དགོན་པ: {beneath a tree or in the wilderness (term): beneath a tree or in the wilderness}
-ཤིང་བལ: {cotton, cotton wool: cotton wool / cotton}
-ཤིང་རྟ: {a cart: cart}
-ཤིན་ཏུ: {extremely, exceedingly: extremely / exceedingly / intensely / intense; utterly, completely: utterly / supremely; truly (manner/adverb): truly; at all (term): at all; grave (severity): grave; hard (term): hard}
-ཤིན་ཏུ་: {extremely (manner/adverb): extremely}
-ཤིན་ཏུ་དཀའ: {hard (to abandon): hard to abandon}
-ཤིན་ཏུ་དཀའ་བར: {extremely difficult (term): extremely difficult}
-ཤིན་ཏུ་དྲི་ཞིམ་པ: {fragrant and pleasant (term): fragrant and pleasant}
-ཤིན་ཏུ་མི་བཟད་སྡིག་པ: {grave and unbearable wrongs (term): grave and unbearable wrongs}
-ཤིན་ཏུ་རྙེད་དཀའ་: {so hard to attain (term): so hard to attain}
-ཤིན་ཏུ་རྙེད་པར་དཀའ: {extremely hard to attain (term): extremely hard to attain}
-ཤིན་ཏུ་སྡུག་བསྔལ: {intense suffering (action/state): intense suffering}
-ཤུ་བ: {an open sore: open sore}
-ཤུ་བ་མི་ཡི་གཟུགས: {a human form like an open sore: human form like an open sore}
-ཤུགས: {force (term): force}
-ཤེད: {harsh (term): harsh}
-ཤེད་བསྐྱེད: {becoming unruly (manner/adverb): becoming unruly}
-ཤེལ: {crystal (term): crystal}
-ཤེས: {knowing, consciousness: knowing / consciousness / knowing consciousness / know / knows; understanding (noun): understanding / understands; known (epistemic): known / knew; aware, awareness: aware / awareness; a wise person: wise person; inferred (epistemic): inferred; wisdom (mental state): wisdom; to see, perceive: see}
-ཤེས་: {understanding, knowledge: understanding}
-ཤེས་གྱིས: {must know (term): must know}
-ཤེས་གྱུར་ན: {if I understood (term): if I understood}
-ཤེས་ཉིད: {knowing itself (term): knowing itself}
-ཤེས་དབང: {the power of a knowing consciousness: power of a knowing consciousness}
-ཤེས་ན: {understanding this (term): understanding this}
-ཤེས་པ: {consciousness, cognition: consciousness / cognition / knowing / knowing consciousness / known; to understand: understands / understand}
-ཤེས་པར་: {knowing (action/state): knowing}
-ཤེས་པར་བྱ: {should be known, learned: should be learned / know}
-ཤེས་པར་རིག་པར་བྱ: {I should recognize (proper name/title): I should recognize}
-ཤེས་ཕྱིར་: {in order to understand: to understand}
-ཤེས་བཞིན: {introspection (technical term): introspection / Introspection; mindfully (adverb): mindfully}
-ཤེས་བཞིན་བསྲུང་བའི་མཚན་ཉིད: {the very definition of guarding introspection: very definition of guarding introspection}
-ཤེས་བཞིན་བསྲུང་བར་བྱ་བ: {guarding introspection (title): Guarding Introspection}
-ཤེས་བཞིན་མ་ཡིན: {lacking introspection (term): lacking introspection}
-ཤེས་བཞིན་མེད་པ: {lacking introspection: lacks introspection / lacking introspection}
-ཤེས་བྱ: {object of knowledge: object of knowledge / object / object to be known; should be understood (term): should be understood}
-ཤེས་བྱ་ཡོད: {the existence of the object (known): existence of the object}
-ཤེས་བྱའི: {of knowable objects (term): of knowable objects}
-ཤེས་བྱས: {having recognized, understood: having recognized / understood}
-ཤེས་མེད: {lacks knowing (action/state): lacks knowing}
-ཤེས་རབ: {wisdom: wisdom / Wisdom}
-ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ: {Perfection of Wisdom (proper name/title): Perfection of Wisdom}
-ཤེས་རབ་མིག་: {the eye of wisdom: eye of wisdom}
-ཤོར: {squandered, lost: squander / lose}
-ཤྲཱི: {Śrī (honorific title): Śrī}
-ས: {earth, ground: earth / ground / place / grounds; elements (term): elements}
-ས་: {grounds (bodhisattva levels): grounds}
-ས་གཞི: {ground, floor: ground / floor}
-ས་གཞིར: {as ground: ground}
-ས་ཕྱོགས: {places, regions: places / ground / regions}
-ས་བསྲེགས: {the burning ground: burning ground}
-ས་བོན: {seed (term): seed}
-ས་ཡི་སྙིང་པོ: {Kṣitigarbha (proper name): Kṣitigarbha}
-ས་རབ་དགའ: {the ground of Great Joy: ground of Great Joy}
-ས་རིས: {drawing lines (in the earth): drawing lines}
-ས་སོགས: {elements and so on (term): elements and so on}
-ས་སྟེང: {the surface of the earth: surface of the earth / earth}
-སངས་རྒྱས: {the Buddha(s): Buddhas / Buddha / Buddha's; buddhahood (term): buddhahood}
-སངས་རྒྱས་: {Buddha(s): Buddhas}
-སངས་རྒྱས་ཆོས: {the qualities of a buddha: qualities of a buddha / Buddha's supreme qualities}
-སངས་རྒྱས་ཉིད: {buddhahood (term): buddhahood}
-སངས་རྒྱས་རྣམས་: {Buddhas (proper name/title): Buddhas}
-སངས་རྒྱས་སྲས: {Buddhas and their bodhisattva heirs: Buddhas and bodhisattva heirs / children of the Buddha / Buddhas and their bodhisattva heirs}
-སད་པ: {awake (term): awake}
-སད་པར: {wakes up: wakes}
-སིལ་མ: {petals (term): petals}
-སུ: {any, whose: any / whose}
-སུ་ལ་ཡང: {on anyone (term): on anyone}
-སུན་འབྱིན་པ: {an objection: objection}
-སེ་གོལ: {a snap of the fingers: snap of the fingers}
-སེང་གེ: {lion(s): lions / lion}
-སེང་གེའི: {the Lion's: Lion's}
-སེན: {nails (body part): nails}
-སེམས: {mind (mental faculty): mind / minds / Mind / clarity of mind; a thought: thought / thinking; a wish, intention: wish; to possess, have: possess; contemplating, reflecting: contemplating; heart (seat of feeling): hearts}
-སེམས་: {mind (term): mind}
-སེམས་ཀྱི་གླང་ཆེན་མྱོས་པ: {the mad elephant of the mind: mad elephant of the mind}
-སེམས་ཀྱི་གླང་པོ་ཡན་བཏང་བ: {the mad elephant of the mind let loose: the mad elephant of the mind if let loose}
-སེམས་ཀྱི་ངང་བརྟན: {firmness of mind (term): firmness of mind}
-སེམས་ཀྱི་དམ་པ་རིན་ཆེན: {that precious and sublime mind (term): that precious and sublime mind}
-སེམས་ཅན: {sentient beings: beings / sentient beings / being / sentient being}
-སེམས་ཅན་: {sentient beings: beings}
-སེམས་ཅན་ཀུན: {all sentient beings: all sentient beings / all beings}
-སེམས་ཅན་ངོ་བོར་མཐོང་བ: {regards these beings as their very self (term): regards these beings as their very self}
-སེམས་ཅན་ཉམས་བྱེད་པ: {causes beings to lose faith (term): causes beings to lose faith}
-སེམས་ཅན་ཐམས་ཅད: {all sentient beings (term): all sentient beings}
-སེམས་ཅན་དམྱལ་བ: {the hells of sentient beings: hells of sentient beings / hells of beings}
-སེམས་ཅན་དམྱལ་བའི: {of the hells of beings (term): of the hells of beings}
-སེམས་ཅན་དམྱལ་བའི་སྲུང་མ: {guardians of the hells of sentient beings (term): guardians of the hells of sentient beings}
-སེམས་ཅན་མགུ: {pleasing beings (term): pleasing beings}
-སེམས་ཅན་མགུ་བྱ: {to bring joy to sentient beings: bring joy to sentient beings}
-སེམས་ཅན་འཚེ་བྱེད་པ: {one who harms sentient beings: who harms sentient beings}
-སེམས་ཅན་རང་གིས་བདེ་རྙེད: {beings find happiness on their own (term): beings find happiness on their own}
-སེམས་ཅན་རྣམས: {beings (term): beings}
-སེམས་ཉིད: {the mind itself: mind itself / matter of the mind}
-སེམས་དཔའ་མཆོག: {supreme beings (bodhisattvas): supreme beings}
-སེམས་དཔའི: {the Bodhisattva's: Bodhisattva's}
-སེམས་དམྱལ: {hell(s) of the mind: hell / hells of the mind / mental hells}
-སེམས་ནི་ནམས་ཀྱང་ཉམས: {but never let this mind decline (term): but never let this mind decline}
-སེམས་པ: {mind, thinking: mind / thinking; reflection (term): reflection; intention(s): intention / intentions; focused (on): focused}
-སེམས་པ་: {thinking (action/state): thinking}
-སེམས་པར་འགྱུར: {will think (term): will think}
-སེམས་བསྲུང: {to guard the mind: guard the mind}
-སེམས་བྱུང་ན: {whether that thought arises (term): whether that thought arises}
-སེམས་མེད: {without mind, mindless: without mind}
-སེམས་མེད་: {having no mind: no mind}
-སེམས་མེད་པ: {without mind (term): without mind}
-སེམས་ཡོད་རྣམས: {those who have minds (term): those who have minds}
-སེམས་སྐྱེས་གྱུར་ན: {the moment it (bodhicitta) arises: the moment it arises}
-སེར་སྣ: {jealous stinginess: jealously}
-སེར་སྣ་ཅན: {a miser: miser}
-སེལ: {to dispel, remove: dispelling / removes / dispel}
-སེལ་བ: {dispelling, eliminating: dispels / eliminates}
-སེལ་བའི: {that dispel: dispels}
-སེལ་བར: {dispelling (action/state): dispelling}
-སེལ་བར་བྱེད: {dispels (term): dispels}
-སེལ་བྱེད་པ: {dispels (term): dispels}
-སོ: {teeth (body part): teeth; edge (of a blade): edge}
-སོ་ཤིང: {tooth-cleaning sticks (term): tooth-cleaning sticks}
-སོ་སོ: {separate, individual: separate}
-སོ་སོ་བ: {individually (manner/adverb): individually}
-སོ་སོའི་སྐྱེ་བོ: {ordinary people (term): ordinary people}
-སོ་སོར: {each in its own place: each in its own place / each part}
-སོགས: {and all the rest (term): and all the rest}
-སོང་ནས: {having gone: go}
-སོང་བ: {lapsed, gone: lapsed}
-སོམས་ཏེ: {remain (as is): remain}
-སོར་མོ: {finger(s): fingers / finger}
-སོལ་ཕུང: {heaps of coals (term): heaps of coals}
-སོས་གྱུར: {cured (action/state): cured}
-སྐད: {language (term): language; to cry out, cries: cry out / cries}
-སྐད་ཅིག: {an instant, a moment: for a moment / instant / for an instant / the moment}
-སྐད་ཅིག་: {an instant: instant / an instant / a single instant}
-སྐད་ཅིག་གཅིག: {a single instant (term): a single instant}
-སྐད་ཅིག་གཅིག་: {a single instant (term): a single instant}
-སྐད་ཅིག་མ: {momentary (term): momentary}
-སྐད་ཅིག་ཙམ་: {for a single instant (term): for a single instant}
-སྐབས: {opportunity, occasion: opportunity / free rein / room}
-སྐམས: {goes dry (term): goes dry}
-སྐལ་བ: {fortune (term): fortune}
-སྐལ་བ་མཉམ་པ: {fortune equal to mine (term): fortune equal to mine}
-སྐལ་ལྡན: {fortunate: have the fortune / fortunate}
-སྐལ་ལྡན་: {fortunate: fortune}
-སྐུ: {body, form (honorific): body / bodies / form}
-སྐུ་ཁྲུས་གསོལ: {I offer a bath (proper name/title): I offer a bath}
-སྐུ་གཟུགས: {images (of deities): images}
-སྐོམ: {thirst (term): thirst}
-སྐོམ་པ: {thirst, thirsty: thirst / thirsty}
-སྐོམ་པ་རྣམས་ཀྱིས་ཆུ: {may the thirsty obtain water: thirsty obtain water}
-སྐྱ: {yellowed (action/state): yellowed}
-སྐྱབས: {refuge (term): refuge}
-སྐྱབས་སུ་མཆི: {I go for refuge (proper name/title): I go for refuge}
-སྐྱིད: {happiness, happy: happiness / happy}
-སྐྱེ: {to arise, be born: arise / arises / arising / born; to give rise to: gives rise; to increase: increase}
-སྐྱེ་བ: {arising, being born: arising / born}
-སྐྱེ་བ་གཞན: {another life (term): another life}
-སྐྱེ་བའི་གནས: {states of birth (term): states of birth}
-སྐྱེ་བའི་རྒྱར: {in the snare of birth: snare of birth}
-སྐྱེ་བར: {to arise: arise}
-སྐྱེ་བར་འགྱུར: {comes to arise: arises / comes to arise}
-སྐྱེ་བོ: {people: people / one; crowd, company: crowd / company}
-སྐྱེ་བོའི་ཚོགས: {multitudes of beings (term): multitudes of beings}
-སྐྱེ་འགྱུར: {arises (term): arises}
-སྐྱེད: {to produce: produce}
-སྐྱེད་པར་བྱེད: {generates (term): generates}
-སྐྱེད་མོས་ཚལ: {groves (term): groves}
-སྐྱེས: {born, arisen: born / has arisen / arisen; beings (term): beings; male (term): male}
-སྐྱེས་ཀུན: {all beings (term): all beings}
-སྐྱེས་གྱུར་ན: {if it arises: arises}
-སྐྱེས་པ: {arisen (has arisen): arisen / has arisen / arises; male (term): male; men (term): men}
-སྐྱེས་པར: {to come into existence, arisen: come to exist / arisen}
-སྐྱེས་པས: {arises, gives rise: arises / gives rise}
-སྐྱེས་བུ: {a person: person}
-སྐྱོ: {weary, disenchanted, to grieve: weary / disenchanted / grieve}
-སྐྱོ་ངལ: {weariness and fatigue: weariness and fatigue / weariness}
-སྐྱོ་བ: {disillusionment (mental state): disillusionment}
-སྐྱོ་བའི་སེམས: {a sense of disillusionment: sense of disillusionment}
-སྐྱོ་བར: {wearily: weary}
-སྐྱོ་བར་འགྱུར: {grows weary: grow weary}
-སྐྱོན: {fault, faults: fault / faults / faulty; faulted (verb): faulted; stain (term): stain}
-སྐྱོན་དང་བཅས་འགྱུར: {becomes faulted: faulted}
-སྐྱོན་མེད: {flawless, faultless: flawless / faultless}
-སྐྱོབ་པ: {Protectors, guarding: Protectors / guarding}
-སྐྱོབ་པར: {to protect: protect}
-སྐྲ: {hair (body part): hair}
-སྐྲག: {terror, frightened: terror / frightened}
-སྐྲག་པ: {fear, frightened: fearing / fear / frightened}
-སྐྲག་པས: {out of terror, fear: terrified / out of fear}
-སྐྲག་བྱེད: {inspires fear: inspire fear}
-སྐྲངས་པ: {swollen (term): swollen}
-སྒུགས: {to wait: wait}
-སྒོ: {gate, door(s): gate / doors / door}
-སྒོམ: {to cultivate, settle in meditation: cultivate / settle in meditation}
-སྒོམ་པ: {meditation (term): meditation}
-སྒྱིད་ལུག: {discouragement, discouraged: discouragement / discouraged}
-སྒྱིད་ལུག་: {to grow lax, discouraged: grow lax / grow discouraged}
-སྒྱིད་ལུག་པར: {discouraged (action/state): discouraged}
-སྒྱིད་ལུག་མེད: {freedom from discouragement (term): freedom from discouragement}
-སྒྱུ་མ: {illusion (noun): illusion; illusory, illusion-like (adjective): illusory / illusion-like}
-སྒྱུ་མ་ཉིད: {that very illusion: that illusion}
-སྒྱུ་མའི: {illusory, illusion-like: illusory / illusion-like / illusion; illusion-maker's (term): illusion-maker's}
-སྒྱུ་མའི་བུད་མེད: {an illusory woman: illusory woman}
-སྒྱུ་མའི་སེམས: {an illusory mind: illusory mind}
-སྒྱུ་འདྲ: {illusion-like: illusion-like / like an illusion / illusion / illusions}
-སྒྱུ་འདྲ་: {like an illusion (term): like an illusion}
-སྒྱུ་འདྲའི: {illusion-like (term): illusion-like}
-སྒྱུ་འཕྲུལ: {Māyā (proper name): Māyā}
-སྒྲ: {sound(s): sound / sounds; word (term): word}
-སྒྲ་: {the word, sound: the word}
-སྒྲ་ཐོས: {hear sounds (term): hear sounds}
-སྒྲ་དང་བཅས་པར: {with a loud noise (term): with a loud noise}
-སྒྲ་བཅས: {noisily (manner/adverb): noisily}
-སྒྲ་མེད: {silent, silently: silently / silent}
-སྒྲིབ: {obscured (action/state): obscured}
-སྒྲིབ་པ: {obscurations (term): obscurations}
-སྒྲིབ་པ་མེད: {unobstructed (action/state): unobstructed}
-སྒྲིམ: {to hold in check, carefully: hold in check / carefully}
-སྒྲུབ: {seeks, accomplishes: seeks}
-སྒྲུབ་པ: {to accomplish: accomplish / accomplishes / accomplishing}
-སྒྲུབ་པའི: {of accomplishing: accomplishing}
-སྒྲུབ་པར: {to accomplish: accomplish}
-སྒྲེན་མོ: {empty-handed (action/state): empty-handed}
-སྒྲོགས་པ: {proclaimed (action/state): proclaimed}
-སྒྲོན་མ: {lamp(s): lamps / lamp}
-སྒྲོལ: {to cross (beyond): cross}
-སྒྲོལ་བར: {carries across (term): carries across}
-སྒྲོལ་བར་བྱེད་པ: {carries across (term): carries across}
-སྒྲོལ་འགྱུར: {crosses beyond: cross beyond}
-སྔ་ན་མེད་པ: {unprecedented (action/state): unprecedented}
-སྔགས: {mantras (term): mantras}
-སྔགས་: {a spell, mantra: spell}
-སྔས: {a pillow: pillow}
-སྔོ་ཉིད: {blueness itself: blue / itself blue}
-སྔོན་གྱི་སྡིག་པ: {past wrongs (term): past wrongs}
-སྔོན་ཆད: {once, formerly: once}
-སྔོན་པོ: {blue (term): blue}
-སྔོན་བཞིན: {as before: as it was before}
-སྙན: {sweet, pleasing (to the ear): sweet / sweetly / pleasing}
-སྙན་པ: {praise (term): praise}
-སྙམ་སྟེ: {thinking (to oneself): thinking}
-སྙིང: {heart (body part): heart}
-སྙིང་: {heart (body part): heart}
-སྙིང་ནས: {from my heart (term): from my heart}
-སྙིང་པོ: {essence (term): essence; trainings (contextual): trainings}
-སྙིང་པོར: {as the heart/essence: heart}
-སྙིང་རྗེ: {compassion (mental state): compassion}
-སྙིང་རྗེ་ཅན: {the compassionate (action/state): the compassionate}
-སྙིང་རྗེའི་སེམས: {a mind/heart of compassion: mind of compassion / hearts of compassion}
-སྙིང་སྟོབས: {rajas (Sāṃkhya quality): rajas; courage (term): courage}
-སྙེམས་པ: {conceit (mental state): conceit}
-སྙོམ: {laziness (term): laziness}
-སྙོམ་འོངས་ན: {when laziness arises (term): when laziness arises}
-སྙོམ་ལས: {idleness (term): idleness}
-སྙོམས་འཇུག: {meditative absorption: meditative absorption / absorption}
-སྟག: {tigers (term): tigers}
-སྟུག: {dense (term): dense}
-སྟེས: {fortune (term): fortune}
-སྟོང: {thousand (quantity): thousand; empty (term): empty}
-སྟོང་གསུམ: {the trichiliocosm: trichiliocosm}
-སྟོང་ཉིད: {emptiness (term): emptiness}
-སྟོང་ཉིད་བག་ཆགས: {the habitual imprint of emptiness: habitual imprint of emptiness}
-སྟོང་ཉིད་མཐོང་བ: {seeing emptiness (term): seeing emptiness}
-སྟོང་པ: {empty (term): empty}
-སྟོང་པ་ཉིད: {emptiness (term): emptiness}
-སྟོང་ཕྲག: {a thousand, thousands: thousand / thousands}
-སྟོན: {explains (term): explains}
-སྟོན་པར: {to teach, reveal: teach}
-སྟོབས: {power, strength, force: power / strength / force}
-སྟོབས་ཅན་: {powerful (term): powerful}
-སྟོབས་ཆུང: {strength so slight (term): strength so slight}
-སྟོབས་ཆེན: {great power: great / great power}
-སྟོབས་དང་ལྡན་པ: {more powerful (term): more powerful}
-སྟོབས་ལྡན་: {having power: power}
-སྟོར་དོགས: {risking loss: risking}
-སྡང: {hate (term): hate}
-སྡང་བ: {hostile (term): hostile}
-སྡང་ལྡན་པའི: {filled with hatred (action/state): filled with hatred}
-སྡང་སེམས: {a hostile mind: hostile mind}
-སྡིག: {wrongdoing, wrongs: wrongdoing / wrongs}
-སྡིག་ཆེན: {great evils (term): great evils}
-སྡིག་པ: {wrongdoing: wrongdoing / Wrongdoing; wrongs: wrongs / wrong}
-སྡིག་པ་: {wrongdoing: wrongdoing / wrong / wrongs}
-སྡིག་བྱས: {wrongdoing (action/state): wrongdoing}
-སྡིག་ལྡན: {a sinner (term): a sinner}
-སྡིག་སེམས: {a mind of wrongdoing: mind of wrongdoing}
-སྡུག: {suffering, to suffer: suffering / suffered / suffer; to love most: love most}
-སྡུག་པ: {a beloved (person): beloved}
-སྡུག་བསྔལ: {suffering / pain (noun): suffering / sufferings / pain; to suffer / one who suffers: suffer / those who suffer; pointless, futile: serve no purpose}
-སྡུག་བསྔལ་: {suffering(s): suffering / sufferings}
-སྡུག་བསྔལ་ཅན: {suffering, tormented: suffering / those who suffer / tormented by suffering}
-སྡུག་བསྔལ་ནད་པ: {those who suffer, the sick: suffering}
-སྡུག་བསྔལ་བྱུང་ཡང་ནི: {even when suffering arises (term): even when suffering arises}
-སྡུག་བསྔལ་མེད: {free of unhappiness (term): free of unhappiness}
-སྡུག་བསྔལ་འབྱུང: {suffering that arises: suffering that comes / suffering would arise}
-སྡུག་མ་གྱུར: {may never suffer: never suffer}
-སྡུད་པ: {to draw others (in): draw others}
-སྡུད་བྱེད: {gathered (action/state): gathered}
-སྡོང་པོ: {a tree: tree}
-སྡོང་བུ: {a stalk: stalk}
-སྡོད་པ: {to wait, rest: wait / resting}
-སྡོམ་བརྩོན: {firm discipline (term): firm discipline}
-སྡོམ་ལ་འཇུག་པ: {to enter the vows: enter the vows}
-སྣ་ཚོགས: {every kind, various: every kind / many kinds / various / different; in every way (term): in every way; correspondingly varied (action/state): correspondingly varied}
-སྣ་ཚོགས་པ: {varied, many kinds: varied / many kinds}
-སྣང: {appears (term): appears}
-སྣང་ངོ: {appears (term): appears}
-སྣབས: {phlegm (term): phlegm}
-སྣམ: {wool (term): wool}
-སྣམ་སོགས: {wool and cloth and the like: wool and cloth}
-སྣོད: {a vessel: vessel}
-སྣོན་པ: {an addition: addition}
-སྤང: {to abandon: abandon}
-སྤང་བར: {to avoid, abandon: avoid / abandon}
-སྤང་བྱ: {to be given up, abandoned: I should give up / abandoned}
-སྤངས: {abandoned, left behind: leave behind / abandoned}
-སྤངས་ཏེ: {having abandoned (action/state): having abandoned}
-སྤངས་ནས: {having abandoned (action/state): having abandoned}
-སྤངས་པ: {free from, abandoning: free from / abandoning}
-སྤུ: {hair standing on end (term): hair standing on end}
-སྤུ་གྲིའི: {of a razor's edge: razor's edge}
-སྤུད་པ: {adorned, arranged: adorned}
-སྤེལ་ཕྱིར: {in order to increase: to increase}
-སྤེལ་ལེགས: {well-strung, beautiful: well-strung / beautiful}
-སྤོ: {to elevate: elevate}
-སྤོང་བའི་སེམས: {the intention to refrain from harming: intention to refrain from harming}
-སྤོངས་: {set aside, abandon: set aside}
-སྤོས: {perfume, incense: perfume / incense / fragrant}
-སྤོས་ཀྱི་ཆུ: {fragrant water (term): fragrant water}
-སྤོས་ཆུ: {scented water (term): scented water}
-སྤྱད: {to practice, act, enjoy: enjoying / practiced / act / treated / practice}
-སྤྱད་པ: {enjoyed, practiced: enjoyed / practiced}
-སྤྱད་པར: {to treat, practice: treat / practice}
-སྤྱད་པར་བྱ: {should be practiced, enjoyed: I should act / I should enjoy / should indeed be practiced / put into practice}
+བྱང་ཆུབ་སེམས་དཔའི: {bodhisattva (genitive/possessive): bodhisattva / bodhisattvas; epithet rendering: awakening hero}
+འཇུག་པ: {undertaking a practice, entering into: engaging / enter}
+བྱང་ཆུབ: {awakening as goal or state: awakening / awaken / enlightenment; elliptical for bodhisattva: bodhisattva}
+ཕན་ཡོན: {advantages accruing from something: benefits}
+ལེའུ: {division of a text: chapter}
+བཤད་པ: {expounding, setting forth: explaining}
+ཕན་ཡོན་བཤད་པ: {chapter title: Explaining the Benefits}
+སེམས: {mind as cognitive faculty: mind / minds / consciousness; a particular thought or intention: thought / thoughts / feeling; determination, commitment: resolve / spirit}
+བྱང་ཆུབ་སེམས: {bodhicitta, the aspiration to awaken: Mind of Awakening / awakening mind / Bodhisattva mind / awakening; the resolve itself as act: resolve to awaken; elliptical for its holder: bodhisattva}
+ཕྱག་འཚལ་ཏེ: {make prostration, pay homage: bow}
+མདོར་བསྡུས: {in condensed form: briefly}
+སྲས: {offspring, spiritual heir: children / child}
+མངའ: {possess, be endowed with (honorific): embody}
+བདེ་གཤེགས: {epithet of a buddha, sugata: sugatas / buddhas / enlightened}
+བརྗོད་པར་བྱ: {will state or set forth: explain}
+གུས་པར: {with reverence (manner): respectfully}
+ལུང་བཞིན: {in accordance with authoritative texts: scriptures}
+བདེ་གཤེགས་སྲས: {heirs of the sugatas: spiritual children}
+ཆོས་ཀྱི་སྐུ: {dharmakāya, the body of reality: truth}
+ཕྱག་འོས་ཀུན: {all who merit homage: veneration / worthy}
+སྡོམ: {binding discipline undertaken: vows}
+དོན: {aim or objective: purpose / aim / aims / sake; another's good, welfare: welfare / benefit / benefiting / interests; semantic content: meaning / essence; referent thing or object: objects / things}
+བརྩམས: {undertook composing a work: composed}
+སྡེབ་སྦྱོར: {metrical arrangement of verse: composition}
+བསྒོམ: {develop through repeated practice: cultivating / cultivate / cultivated / meditate}
+བསམ་པ: {inner motivation: intention / thoughts / thought / thinking; what one hopes for: aspirations / hopes; what one worries over: concerns}
+ཡིད: {mental faculty: mind / mental}
+གཞན: {other persons: others; something distinct from the present one: else / different / anything / elsewhere; comparatively more: greater}
+ཡོད: {be, exist: exist / exists / existent / existence; have, be possessed of: possess}
+ཕྱིར: {for the sake of, in order to: sake / purpose / order / purposeful / towards; consequential connective: therefore; outer as opposed to inner: external}
+མཁས་པའང: {expertise, competence: skill}
+དེ་ཕྱིར: {consequential connective: therefore}
+དད་པའི: {trusting confidence: faith}
+སྐལ་བ: {good lot, share: fortune}
+དོན་ཡོད: {having purpose, worthwhile: meaningful}
+ཤུགས: {force, momentum: strength / power}
+རེ་ཞིག: {for the time being: temporarily}
+དགེ་བ: {wholesome quality or action: virtue / virtues / virtuous / deeds / good deeds}
+སྒྲུབ: {bring to completion: accomplish}
+ཐོབ་པར: {come to have, reach: achieve / achieving / attain / attained / obtain}
+ཕྱིས: {a second time, later: again}
+འབྱོར་པར: {come to be had: arise}
+ཕན་པ: {being of help: beneficial / benefit}
+རྙེད་པར: {come by, acquire: find / obtain}
+དཀའ: {not easy: hard / difficult}
+སྐྱེས་བུའི: {of a person: human}
+འདི: {this present existence: life}
+དལ་འབྱོར: {leisure and endowment of human birth: opportunity}
+འབྱུང: {come into being: arise / arises / born; the primary elements: elements}
+སྐད་ཅིག: {the shortest unit of time: instant / moment / momentary; for only an instant: briefly}
+སངས་རྒྱས: {an awakened one: buddhas / buddha; the state of being awakened: buddhahood}
+སྤྲིན་རུམ: {overcast with clouds: cloudy}
+མུན་ནག: {absence of light: darkness}
+གློག་འགྱུ: {a lightning stroke: flash}
+རབ་སྣང་སྟོན་པ: {casts light on: illuminates}
+གློག: {electrical discharge in the sky: lightning}
+བསོད་ནམས: {store of positive karma: merit / good deeds}
+མཚན་མོ: {hours of darkness: night}
+མཐུ: {capacity, might: power}
+བརྒྱ་ལམ་ན: {only once in a long while: rarely}
+དེ་བཞིན: {in the same way: similarly / likewise}
+བློ་གྲོས: {discerning intelligence: wisdom; element of a proper name: lodr}
+འཇིག་རྟེན: {ordinary unawakened people: people / beings / ordinary / ordinary people; the mundane sphere: worldly / worldly things}
+བརྟག: {subject to examination: consider / examine / examined}
+སྡིག་པ: {harmful, karmically negative act: negative / negative actions / evil / evil deeds / misdeeds}
+ཟིལ་གྱིས་གནོན་པར: {prevail over, outshine: overcome}
+རྫོགས་པའི: {complete, fully developed: perfect}
+རྫོགས་པའི་བྱང་ཆུབ་སེམས: {fully developed bodhicitta: perfect mind}
+སྟོབས་ཆེན: {having great force: powerful}
+དེ་ལྟས: {consequential connective: therefore}
+མི་བཟད་པ: {too severe to endure: unbearable / unpleasant}
+དགེ་གཞན: {other wholesome acts: virtues}
+ཉམ་ཆུང: {lacking strength: weak}
+སྐྱེ་བོའི་ཚོགས: {the mass of living creatures: beings}
+ཕན་པར: {being of help: beneficial / benefit / benefiting / helpfully}
+ཚད་མེད: {beyond measure: countless / immeasurable}
+བདེ་བླག: {without difficulty: easily}
+བསྐལ་པ་དུ་མར: {vast cosmic ages: eons}
+བདེ: {well-being, contentment: happiness / happy / joy / pleasure; physical ease: ease / comfort}
+གཟིགས: {perceive, see (honorific): reflected}
+ཐུབ་དབང: {epithet of the Buddha, lord of sages: sages}
+མཆོག: {highest of its kind: supreme}
+བདེ་མཆོག: {the highest happiness: supreme happiness}
+འདི་ཉིད: {this very item: thing}
+གཏང་མི་བྱ: {should not be given up: abandon}
+སེམས་ཅན: {a being possessed of mind: beings / sentient / living / people}
+སྲིད་པའི: {conditioned worldly existence: existence / cyclic / cyclic existence}
+སྤྱོད་པར: {undergo or partake of: experience / enjoy / live}
+བརྒྱ་ཕྲག: {counted in hundreds: hundreds}
+བདེ་མང: {many pleasures: joys}
+རྟག་ཏུ: {at all times: always / constantly / eternally; at no time (with negation): never}
+གཞོམ: {defeat, destroy: overcome / crush / crushed}
+བསལ་བར: {clear away: remove}
+སྡུག་བསྔལ: {duḥkha, unsatisfactoriness: suffering / sufferings / suffer / suffers; bodily hurt: pain}
+མི་བདེ: {absence of well-being: unhappiness}
+འདོད་ཅིང: {want, desire: wishes}
+འདོད་པ་དང: {want, desire: wishes}
+འདོད་པས་ཀྱང: {want, desire: wishes}
+སྐྱེས་གྱུར་ན: {come to be born: arises}
+བྱང་ཆུབ་སེམས་སྐྱེས་གྱུར་ན: {bodhicitta comes to birth: awakening arises}
+བསྡམས་པའི: {held under restraint: bound}
+འཁོར་བའི: {saṃsāra, the round of rebirth: cyclic / cyclic existence / cycle / existence}
+འཁོར་བའི་བཙོན་རར: {the prison of saṃsāra: cyclic existence}
+ལྷ: {celestial beings: gods / divine}
+མིར: {member of the human realm: humans / human}
+བཙོན་རར: {place of confinement: prison}
+ཕྱག་བྱར: {meriting homage: veneration / worthy}
+ཉམ་ཐག: {in a pitiable state: wretched / wretchedness / distressed / tormented}
+ལུས: {physical form: body / bodies}
+སྐུ: {physical form (honorific): body}
+རྒྱལ་བའི: {epithet of a buddha, victor: buddha}
+རྩི་ཡི: {potent transmuting substance: elixir}
+རབ་བརྟན་ཟུང: {hold fast: firmly}
+རིང་ཐང་མེད་པར: {beyond valuation: immeasurable}
+མི་གཙང: {unclean, foul: impure / impurity / impurities}
+ལྟ་བུ: {comparison marker: like}
+གསེར་འགྱུར: {base metal transmuted to gold: metals}
+རིན་ཆེན: {of great value: precious; a gem: jewel / jewels; element of a proper name: rinchen}
+བས་ན: {consequential connective: therefore}
+བསྒྱུར་བས: {converts into something else: transforms}
+འགྲོ་བའི: {wandering beings: beings}
+བརྟགས་ན: {upon investigation: examined}
+ལེགས་བརྟན་པར: {steadfastly: firmly}
+བྲལ་བར: {separated from, rid of: free / freed}
+དེད་དཔོན: {caravan leader, one who leads others: guide}
+རིན་ཆེན་བྱང་ཆུབ་སེམས: {precious bodhicitta: precious mind}
+གཅིག་པུ: {one and only: sole / solitary; unaccompanied: alone}
+གནས: {remain, abide: dwell / dwells / dwelling / abiding / reside / resides / residing / rests / stay / maintain / exists; a location: place / places / lodging / things; a realm of rebirth: states of suffering}
+ལེགས་པར: {done well, properly: thoroughly / proper / perfectly; of high quality: excellent / best}
+བློས: {discerning intelligence: wisdom}
+འདོད་པ་རྣམས: {objects of wanting: wish / desires}
+རྟག་པར་ཡང: {at all times: always}
+འབྱིན་པས: {bring forth, produce: bear / bears}
+ཟད་པར: {come to an end: diminishes / perish / exhausted}
+འབྲས་བུ: {result of an action: fruit / yield}
+འཕེལ་བར: {increase: grows}
+བཞིན་དུ: {comparison marker: like}
+བྱང་ཆུབ་སེམས་ཀྱི་ལྗོན་ཤིང: {the tree of bodhicitta: Mind of Awakening}
+མི་ཟད: {not running out: inexhaustible / never}
+ཆུ་ཤིང: {banana palm, image of pithlessness: plantain}
+ལྗོན་ཤིང: {a tree: tree}
+བྱས་ན: {having done a deed: committed}
+ཤིན་ཏུ: {intensifier: extremely / intensely / greatly}
+འཇིགས་པ: {being afraid: fear / fears / fearing; a threat: danger / dangers / terrifying}
+འཇིགས་པ་ཆེན་པོ: {a great terror: great fear}
+དཔའ: {courageous one: hero}
+སྒྲོལ་འགྱུར་བ: {sets free: liberates}
+ལྟར: {comparison marker: like}
+ཡུད་ཀྱིས: {in a moment: quickly}
+བརྟེན་ནས: {depending on: relied / relying}
+བརྟེན: {depend on: rely}
+མི་བཟད: {too severe to endure: terrible / unbearable / dreadful}
+ཅིས: {interrogative of reason: why}
+བག་ཅན་རྣམས: {the conscientious: wise}
+སྡིག་ཆེན: {a grave misdeed: negative / negative actions / actions}
+སྲེག་པར་བྱེད: {reduce to ashes: burns / consuming}
+དུས་མཐའི: {of the age's end: eon}
+བཤད: {set forth verbally: explained / explanation / taught; commend: praised}
+མེ: {flame: fire}
+དཔག་ཏུ་མེད་པ: {beyond measure: immeasurable}
+ཕན་ཡོན་དཔག་ཏུ་མེད་པ: {benefits beyond measure: immeasurable benefits}
+བཞིན: {comparison marker: like / similarly; the front of the head: face / faces; sort, manner: kind}
+བྱམས་མགོན: {epithet of Maitreya: maitreya}
+སྐད་ཅིག་གཅིག: {a single instant: moment}
+གཅིག: {one in number: single; unaccompanied: alone; a discrete entity: entity; one instant: moment}
+ངེས་པར: {without fail: surely / certainly / definite / firmly; in accordance with fact: truly}
+བློ་དང་ལྡན་པས: {one possessed of intelligence: wise}
+རྣམ་པ་གཉིས: {two modes: aspects}
+སྨོན་པའི: {aspirational, wishing: aspiring}
+སྨོན་པའི་སེམས: {bodhicitta of aspiration: aspiring mind}
+འཇུག་པའི་སེམས་བཞིན་དུ: {bodhicitta of application: engaging mind}
+ཤེས་བྱ: {what is to be known: object of knowledge / objects of knowledge / knowledge / known / object / objects}
+མདོར་བསྡུས་ན: {state in brief: summarize}
+བྱེ་བྲག: {a differentiating feature: difference / distinction / distinctions}
+འགྲོ་བར: {moving toward: going}
+འགྲོ་བ: {wandering beings: beings; move, travel: going / goes / proceeding; things that arise: phenomena}
+ཤེས་པ: {cognizing awareness: knowledge / knowing / conscious; come to know: knows / perceives}
+རིམ་བཞིན: {in sequence: order}
+ཤེས་པར་བྱ: {should be comprehended: understand}
+མཁས་པས: {one who is learned: wise}
+འདོད: {want, desire: desire / desires / desired / desiring / wish / wishes / wishing / want / crave; hold a position, maintain: assert / accept / consider / considers / considered}
+རྒྱུན་ཆགས: {unbroken succession: continuously / continuous / flow}
+འཁོར་ཚེ: {saṃsāra, the round of rebirth: cyclic / cyclic existence / existence}
+འཇུག་པའི: {undertaking, applying: engaging}
+འཇུག་པའི་སེམས: {bodhicitta of application: engaging mind}
+མིན: {negation, not the case: unlike}
+བླངས་གྱུར་པ: {take up, assume: adopted / takes}
+སེམས་ཅན་ཁམས: {the realm of living beings: beings}
+མཐའ་ཡས: {without limit: countless / endless}
+མི་ལྡོག་པ་ཡི: {not turning back: irreversible}
+དགྲོལ་བའི: {set free: liberate}
+གང་ནས་བཟུང་སྟེ: {from the point at which: moment}
+སེམས་ཀྱིས་སུ: {mental commitment undertaken: resolve / vow}
+ཡང་དག: {in accordance with fact: truly / true; without error: correctly / perfectly}
+དུ་མ་ཞིག: {in great quantity: abundantly}
+བག་མེད: {lacking vigilance: careless}
+རྒྱུན་མི་འཆད་པར: {without break: continuously / uninterrupted}
+མཉམ་པར: {on a par with: equal; in unison: together / steadily}
+དེང་ནས་བཟུང་སྟེ: {from this point on: moment / henceforth}
+གཉིད་ལོག: {in sleep: sleeping / asleep}
+ནམ་མཁའ: {open expanse: space / sky}
+དོན་གྱི: {another's good: benefit}
+དེ་བཞིན་གཤེགས་པ་ཉིད: {tathāgata, epithet of a buddha: enlightened}
+གསུངས: {declare, teach (honorific): taught / explained / spoken / speaks}
+ལག: {the hand: hand}
+ཉིད་ཀྱིས: {reflexive emphatic: himself}
+དམན་མོས: {of modest disposition: humble}
+འཐད་པ་དང་བཅས་པར: {with sound reasoning: reasonably}
+ཞུས་པ་ལས: {put a question to (honorific): requested}
+ལྡན་གྱུར་ན: {possessed of: endowed / filled}
+ཀླད་ནད: {pain in the head: headache}
+དཔག་མེད: {beyond measure: immeasurable / immeasurably}
+ཙམ: {no more than: merely / enough; a small portion: piece}
+བསལ་ལོ: {clear away: relieve}
+བསམས་ན: {entertain a thought: thinks}
+ཕན་འདོགས་བསམ་པ: {intent on helping: wishing}
+བསྒྲུབ་པར: {bring about: bring / accomplish}
+རེ་རེའི: {taken one by one: every}
+རེ་རེའང: {taken one by one: every}
+ཡོན་ཏན: {excellent attribute: qualities / quality / good qualities / virtues / virtue / goodness}
+བསལ་འདོད་ཅིང: {wish to clear away: remove}
+སྨོས་ཅི་དགོས: {rhetorical "needless to say": speak}
+མི་བདེ་བ: {absence of well-being: unhappiness; physical unease: discomfort}
+འདོད་པ: {object of craving: desires / desire / desired; want, wish for: wish / wishes / desiring}
+ཕན་སེམས: {intent on others' good: benevolent}
+ཚངས་པ: {the god Brahmā: brahma}
+ཕ: {male parent: father}
+མ: {female parent: mother}
+དྲང་སྲོང: {ṛṣi, ascetic seer: sages}
+སྐྱེ: {come into being: arise / arises / born / develop; take birth again: reborn; bring into being: create}
+དོན་དུ: {for the sake of: sake / purpose / purposes; another's good: benefit}
+རྨི་ལམ: {what is seen in sleep: dream}
+རང་གི: {reflexive possessive: themselves / itself}
+འཁྲུངས: {come to birth (honorific): arises}
+དོན་སེམས: {intent on another's good: benefit}
+མི་འབྱུང: {fail to come about: never / arise}
+གཞན་དག: {other persons: others}
+རྨད་ཅིག: {something marvellous: wonder}
+འགྲོ་བ་ཀུན: {all wandering beings: beings}
+རྒྱུ: {productive condition: cause / causes}
+རྩིར: {potent healing substance: elixir / cures}
+དགའ་བ: {gladness: joy / delight}
+གཞལ་གྱིས་ལང: {beyond calculation: measure}
+རིན་ཆེན་སེམས: {precious bodhicitta: precious mind}
+མ་ལུས: {without remainder: exception / utterly}
+བདེ་དོན: {the aim of happiness: happiness}
+མཆོད: {make offering, venerate: offerings / worship / worshipped}
+བརྩོན་པ: {sustained exertion: striving / strive / effort}
+ཁྱད་འཕགས: {surpassing others: superior}
+བསམས་པ: {entertaining a thought: thinking}
+འདོར་འདོད: {wish to be rid of: abandon}
+སེམས་ཡོད: {those possessed of mind: beings}
+འདོད་ཀྱང: {although wanting: desire / wishes}
+འཇོམས: {overpower, wipe out: destroy / destroyed}
+མངོན་པར: {manifestly: directly}
+དགྲ་ལྟར: {as if an adversary: enemy}
+བདེ་བ: {well-being, contentment: happiness; physical ease: comfort}
+གཏི་མུག་པས: {mental dullness, moha: ignorance}
+ཉིད: {reflexive emphatic: itself; nothing more than: mere / merely; by its own nature: inherently / truly}
+རྒྱུག: {run headlong: rush}
+ལ: {directional particle: towards / onto}
+ཕོངས་པ: {lacking necessities: deprived / destitution}
+ཚིམ་པ: {bring to satiety: satisfies; more than fills: overwhelming}
+མཚུངས: {be alike: similar / like / equal / compare; holding good of: applicable}
+བཤེས: {companion, well-wisher: friend / friends}
+གཏི་མུག: {mental dullness, moha: ignorance / delusion}
+སེལ་བྱེད་པ: {clears away: removes}
+དགེ: {wholesome quality or action: virtue / virtues / virtuous}
+བྱང་ཆུབ་སེམས་དཔའ: {one bent on awakening: bodhisattva / bodhisattvas}
+ཕན་བཏགས: {act of benefiting: kindness}
+བསྔགས་འོས: {deserving commendation: praise}
+ལན་ལྡོན: {return a favour: repays}
+མ་བཅོལ: {without being asked: spontaneously / unsolicited}
+འོས: {fitting, deserving: worthy}
+བརྙས་བཅས: {with contempt: disdain}
+ཉུང་ཟད: {a small number: few}
+ཟས: {what is eaten: food / meal}
+སྦྱོར་བ: {bestow, hand over: giving / offers; put into practice: applying}
+སྦྱིན་པར: {bestow, hand over: giving / offers}
+བཀུར: {show respect to: honor / respected}
+སྐྱེ་བོས: {ordinary worldly person: people / ordinary}
+འགྲངས་པར: {bring to satiety: satisfies}
+གྲངས་མཐའ་ཡས: {beyond counting: countless}
+བདེ་བར་གཤེགས: {epithet of a buddha, sugata: enlightened}
+རྫོགས་བྱེད་པ: {bring to completion: fulfilling}
+སྦྱིན་པ: {dāna, the perfection of giving: generosity; bestow: gives / giving}
+དུས་རིང་དུ: {over an extended period: long time}
+བླ་ན་མེད: {unsurpassed: supreme}
+བདེ་བ་བླ་ན་མེད: {unsurpassed happiness: supreme happiness}
+བསམ་པ་མཐའ་དག: {every intention held: wishes}
+ཐུབ་པས: {muni, epithet of the Buddha: sage / buddha / buddhas}
+གནས་པར: {remain, abide: dwell}
+བསྐལ་པར: {vast cosmic age: eons / eon}
+བསྐྱེད་པའི: {bring into being: generated / bringing}
+སྐྱེད་པར: {bring into being: generates}
+དམྱལ་བར: {the hell realms: hell}
+ངན: {bad in quality: ill / bad / wretched; karmically harmful: unwholesome; disparaged items: things}
+གང་ཞིག: {indefinite person: someone / whoever / person; indefinite thing: something / anything / thing / whatever}
+རྒྱལ་སྲས: {heir of the victors, bodhisattva: spiritual children / spiritual; the awakened ones: buddhas}
+དོ་གལ་ཆེན་པོས: {with great exertion: effort}
+འཕེལ: {increase: grow / generates}
+ངང་གིས: {of its own accord: naturally}
+རབ་དང་བྱེད: {make clear and confident: pure}
+སྐྱེས་པ: {having come into being: arisen / develops; a male person: man}
+ཕྱག་འཚལ: {make prostration, pay homage: bow}
+འབྲེལ་བ: {standing in relation: connected}
+བྱས་ཀྱང: {although having acted: done / performs}
+གནོད་པ: {injury, damage: harm / harms}
+སྐྱབས་སུ་མཆི: {go for protection: refuge}
+འབྱུང་གནས: {that from which things arise: source}
+དམ་པ: {of the highest sort: supreme}
+སྤྱོད་པ: {caryā, way of acting: conduct / practice / practices / life; a particular act: actions / acts / deeds}
+ལེའུ།: {division of a text: chapter}
+བཤགས་པ།: {disclosure of wrongdoing: confession}
+སྡིག་པ།: {harmful, karmically negative act: wrongdoings / wrongdoing}
+སངས་རྒྱས།: {an awakened one: buddhas / buddha / enlightened Buddhas; the state of being awakened: buddhahood}
+སྲས།: {offspring, spiritual heir: children}
+ལེགས་པར།: {of high quality: excellent; without error: perfectly}
+ཡོན་ཏན།: {excellent attribute: good qualities / qualities; advantages accruing: benefits}
+མཆོད།: {act of offering: offering / offerings; reverence shown: homage / honor / worshipped}
+རིན་ཆེན།: {a gem: jewel / jewels; of great value: precious}
+སེམས།: {mind as cognitive faculty: mind / minds; a particular thought: thought / intention}
+རྒྱ་མཚོ།: {the sea: ocean / oceans}
+ལེགས་པར་མཆོད།: {present fine offering: offer excellent / offer excellent homage}
+རྣམས།: {plural marker used substantivally: ones}
+རིན་ཆེན་སེམས།: {precious bodhicitta: precious mind}
+དྲི་མ་མེད།: {free of stain: pure}
+དམ་པའི།: {holy, of the highest sort: sacred}
+ཆོས།: {the Buddha's teaching: dharma / teachings; an attribute: quality}
+ཡིད་དུ་འོང་བ།: {pleasing to the mind: delightful}
+ཡོད་པ།: {be, exist: exist}
+མེ་ཏོག: {blossoms: flowers / flower / blossoms}
+འབྲས་བུ།: {result of an action: fruit / fruits}
+རྣམ་པ།: {sort, type: kinds / various}
+སྨན།: {curative substance: medicine / medicines}
+གཙང་།: {clean, unpolluted: pure}
+ཆུ།: {water: water / waters}
+རྒྱན་སྤྲས།: {decked out: adorned}
+དུད་པ།: {bowing under weight: bend}
+ཡལ་ག: {limbs of a tree: branches}
+རྒྱན།: {decorative embellishment: ornaments / decorations}
+བཟང་།: {of good quality: excellent / fine}
+ནགས་ཚལ།: {wooded groves: forests}
+འབྲས་བཟང་།: {fine produce: fruits}
+དེ་བཞིན་དུ།: {in the same way: likewise}
+རི་བོ།: {elevated land: mountains}
+ས་ཕྱོགས།: {tracts of land: places}
+ཉམས་དགའ།: {agreeable to be in: pleasant}
+དབེན།: {removed from disturbance: secluded}
+ལྗོན་ཤིང་།: {woody plants: trees}
+ཤིང་།: {woody plants: trees}
+ལྗོན་ཤིང་མེ་ཏོག་རྒྱན་སྤྲས་སྤུད་པ།: {trees decked with blossoms: Trees adorned}
+ལོ་ཏོག: {agricultural yield: crops / harvests}
+དྲི།: {pleasant smell: fragrance / fragrances}
+ལྷ།: {celestial beings: gods}
+སྤོས།: {aromatic substance burnt in offering: incense}
+རིན་ཆེན་ཤིང་།: {trees made of gems: jewel trees}
+མཆོད་པར།: {act of offering: offering; reverence shown: honor}
+སོགས།: {and the rest: others}
+གཞན་ཡང་།: {additionally: furthermore; other items: others}
+མ་རྨོས།: {not tilled: uncultivated}
+དཔག་བསམ།: {granting whatever is wished: wish-granting}
+དཔག་བསམ་ཤིང་།: {wish-fulfilling trees: wish-granting trees}
+འོས་པའི།: {fitting, deserving: worthy}
+བརྒྱན་པ།: {decked out: adorned}
+སྐད་སྙན།: {pleasing cries: calls}
+ཡིད་འོང་།: {pleasing to the mind: delightful / delightfully / beautiful}
+མཐས།: {limits: ends}
+རབ་འབྱམས།: {boundless extent: expanse / vast}
+མཚོ།: {inland bodies of water: lakes}
+པདྨས།: {lotus blossoms: lotuses}
+རྫིང་བུ།: {small artificial pools: ponds}
+གཏུགས་པ།: {extending as far as: reaching}
+ནམ་མཁའ།: {open expanse: space}
+ངང་པ།: {waterfowl: swans}
+སྙན།: {pleasing to hear: sweet}
+དེ་དག་ཀུན།: {all those items: things}
+བཞེས།: {receive (honorific): accept}
+ཐུགས་རྗེ་ཆེ།: {of great compassion: compassionate / Great Compassionate}
+དམ་པ།: {of the highest sort: holy / exquisite}
+བརྩེར།: {loving concern: kindness}
+བློ་ཡིས།: {in the mind: mentally}
+བདག་གི: {belonging to me: mine}
+འབུལ།: {things presented: offerings}
+ཡོན་གནས།: {fit recipients of offering: recipients}
+ཐུབ་པ།: {muni, epithet of the Buddha: sage}
+ཐུབ་པ་སྐྱེས་ཀྱི་མཆོག: {highest of sages: Supreme Sage}
+བཞེས་ཤིག: {please receive (imperative honorific): accept}
+བསོད་ནམས།: {store of positive karma: good deeds / deeds}
+མི་ལྡན།: {not possessed of: lack}
+མཆོད་པའི།: {things presented: offerings}
+གཞན།: {other persons: others; something distinct: else}
+བཀྲེན་ཆེན།: {greatly impoverished: poor}
+མཐུས།: {capacity, might: power}
+མགོན།: {one who shelters others: protectors / protector}
+དོན་སླད།: {for the sake of: sake}
+དེས་ན།: {consequential connective: therefore}
+ནོར།: {material riches: wealth}
+དོན།: {aim or objective: purpose / purposes; another's good: welfare}
+སེམས་དཔའ།: {one bent on awakening: bodhisattvas}
+ལུས།: {physical form: body / bodies}
+ཀུན།: {the whole of: entire / completely; all persons: everyone / ones}
+ཡོངས་།: {in full: completely}
+གཏན་དུ།: {for good, without end: permanently}
+གཏན་དུ་དབུལ་བར་བགྱི།: {give over for good: Permanently offer}
+གུས་པས།: {with reverence: reverence}
+འབངས།: {one in service: servant}
+སེམས་དཔའ་མཆོག: {highest of bodhisattvas: Supreme Bodhisattvas}
+རྒྱལ།: {triumphant: victorious; a ruler: king}
+བཟུང་བས།: {taken up, received: accepted}
+སེམས་ཅན།: {a being possessed of mind: beings / sentient}
+ཕན་པ།: {being of help: benefit / benefits}
+བགྱིད།: {do, perform (humilific): bring / commit}
+བགྱིད་དོ།: {do, perform (humilific): commit}
+ཡོངས་སུ།: {in full: completely}
+སྲིད།: {conditioned worldly existence: existence}
+མི་འཇིགས།: {free of fear: fearless / fearlessness}
+འདའ་བགྱིད།: {pass beyond, transgress: turn}
+སྡིག: {harmful, karmically negative act: wrongdoings / wrongdoing / misdeeds / negative / evil / sin}
+ཁྲུས་ཀྱི།: {ritual washing: bathing}
+འབར་བ།: {burning brightly: blazing / blaze; give off light: shine}
+བླ་རེ།: {overhead cloth hangings: canopies}
+ཁང་པ།: {an enclosed room: chamber}
+གསལ།: {unclouded: clear}
+ཤེལ།: {rock crystal: crystal}
+ས་གཞི།: {the surface underfoot: floor / ground}
+དྲི་ཞིམ་པ།: {sweet-smelling: fragrant}
+འཚེར་བ།: {catching the light: gleaming}
+མུ་ཏིག: {pearls: pearls / pearl}
+ཀ་བ།: {upright supports: pillars}
+འོད་ཆགས།: {giving off light: shimmering / radiant / brilliant}
+སྐུ་ཁྲུས་གསོལ།: {offer ritual washing (honorific): bathing}
+བཀང་བ།: {full to capacity: filled}
+སྤོས་ཀྱི།: {of aromatic substance: incense / fragrant}
+རོལ་མོ།: {music: musical / instruments}
+གླུ།: {sung pieces: songs}
+དུ་མས།: {of many kinds: various}
+བུམ་པ།: {ritual water vessels: vases}
+སྐུ།: {physical form (honorific): bodies}
+ཕྱིའོ།: {wipe dry: dry}
+བསྒྱུར་བའི།: {coloured: dyed}
+ལེགས།: {of high quality: excellent}
+དྲི་ཞིམ།: {sweet-smelling: fragrant}
+གོས།: {clothing: garments}
+ན་བཟའ།: {clothing (honorific): garments / robes}
+བསྒོས་པས།: {infused with scent: imbued}
+མཚུངས་པ་མེད་པའི།: {having no equal: unparalleled}
+བརྒྱན་པར་བགྱི།: {deck out: adorn}
+འཇིག་རྟེན་དབང་ཕྱུག: {proper name, Avalokiteśvara: avalokiteshvara}
+སྲབ།: {fine, thin in texture: delicate}
+འཇམ་དབྱངས།: {proper name, Mañjuśrī: manjushri}
+འཕགས་པ།: {ārya, spiritually exalted: noble}
+ཀུན་ཏུ་བཟང་།: {proper name, Samantabhadra: samantabhadra}
+འཇམ་པ།: {smooth to the touch: soft}
+རྒྱན་མཆོག: {finest ornaments: supreme ornaments}
+སྣ་ཚོགས།: {of many kinds: various}
+བྱུག་པར་བགྱི།: {apply as unguent: anoint}
+ལྡང་བ།: {rise and pervade: fill}
+ལྟར།: {comparison marker: like; act in accordance with: follow}
+དབང་།: {having mastery: mighty / power; being subject to another: dependence}
+ཐུབ་དབང་ཀུན།: {all the lords of sages: mighty Sages}
+བྱི་དོར་བྱས་པ།: {rubbed to a shine: polished}
+བཙོ་མ།: {purified by smelting: refined}
+ཐུབ་དབང་།: {lord of sages, epithet of a buddha: sages / mighty Sages}
+དྲི་མཆོག: {finest fragrances: supreme fragrances}
+སྟོང་གསུམ།: {the trichiliocosm: triple}
+ཡིད་འོང་བའི།: {pleasing to the mind: delightful}
+མེ་ཏོག་མནྡ་ར་དང་།: {mandārava blossoms: delightful Mandarava flowers}
+ཕྲེང་བ།: {strung wreaths: garlands}
+པདྨ།: {lotus blossoms: lotuses}
+མནྡ་ར།: {mandārava blossom: mandarava}
+ཡིད་འོང་རྣམས་ཀྱིས་མཆོད།: {present pleasing offerings: offer delightful}
+མེ་ཏོག་མནྡ་ར་དང་པདྨ་དང་། ཨུཏྤལ་ལ་སོགས་དྲི་ཞིམ་ཐམས་ཅད་དང་། ཕྲེང་བ་སྤེལ་ལེགས་ཡིད་འོང་རྣམས་ཀྱིས་མཆོད།: {full verse as offering formula: offer delightful Mandarava}
+ཨུཏྤལ།: {blue lotus, utpala: utpala}
+སྤེལ་ལེགས།: {skilfully set out: well-arranged}
+ཡིད་འཕྲོག: {seizing the mind: captivating}
+སྤྲིན་ཚོགས།: {banked masses: clouds}
+བཅས་པ།: {made up of: consisting}
+བཟའ་བཏུང་།: {pleasing to taste: delicious}
+ལྷ་བཤོས།: {food of the gods: divine}
+བཏུང་།: {what is drunk: drinks}
+བཟའ།: {what is eaten: edibles}
+ཁྱབ་པ།: {extend over all: everywhere / spreads}
+ཞལ་ཟས།: {food (honorific): food}
+དྲི་ངད།: {diffused smell: fragrance}
+བདུག་པ།: {aromatic substance burnt in offering: incense}
+བྱུགས་པ།: {smeared on: anointed}
+ཚར་དུ་དངར་བ།: {set out in order: arranged}
+གསེར་གྱི།: {made of gold: golden}
+སྒྲོན་མ།: {butter-lamps: lamps}
+སིལ་མ།: {not bound together: loose}
+རིན་ཆེན་སྒྲོན་མ་རྣམས་ཀྱང་དབུལ་བར་བགྱི།: {present jewelled lamps: offer jewel / offer jewel lamps}
+ཚར་དུ།: {lines, ranks: rows}
+དགྲམ་པར་བྱ།: {strew about: scatter}
+བསྟར་བ།: {laid out flat: spread}
+རྒྱན་འཕྱང་མཛེས།: {decked with hangings: adorned}
+མཛེས།: {pleasing to look at: beautiful / beauty}
+ཐུགས་རྗེ།: {compassion (honorific): compassion}
+ལྡན།: {possessed of, full of: filled}
+འཕྱང་།: {suspended drapery: hangings}
+གཞལ་མེད།: {beyond measure: immeasurable}
+དཔག་ཡས།: {beyond measure: immeasurable}
+རང་བཞིན།: {intrinsic character: nature; by its own character: naturally}
+ཕོ་བྲང་།: {celestial mansions: palaces}
+བསྟོད་དབྱངས།: {eulogy in song: praise / songs}
+ནམ་མཁའི།: {open expanse: space}
+རྒྱན་གྱི།: {decked out: adorned}
+རྒྱན་གྱི་རྣམ་པ་ཡིད་འོང་ལྡན།: {fitted with pleasing ornament: Adorned with delightful}
+རྟག་ཏུ།: {at all times: always / constantly}
+སྡུག་པ།: {pleasing to look at: beautiful / lovely}
+རིན་ཆེན་གདུགས་མཛེས།: {fine jewelled parasols: Beautiful jewel}
+བལྟ་ན།: {look upon: behold}
+ཁོར་ཡུག: {outer edges: fringes}
+ཡུ་བ།: {shafts held by hand: handles}
+བསྒྲེང་བ།: {raised aloft: hoisted}
+གདུགས།: {ceremonial sunshades: parasols}
+དབྱིབས།: {outward form: shape}
+གནས་གྱུར་ཅིག: {come to be present: appear}
+སྤྲིན།: {banked masses: clouds}
+སོ་སོར།: {in every place: everywhere; one by one: individually}
+ཚིམ་བྱེད་པའི།: {bring to satiety: satisfy}
+དབྱངས།: {musical tones: sounds}
+སྔག་བསྔལ།: {duḥkha, unsatisfactoriness: suffering}
+རྒྱུན་མི་འཆད་པར།: {without break: continuously}
+མི་འཆད་པར།: {without break: interruption}
+དམ་ཆོས།: {the true teaching: sacred}
+ཆར།: {falling in abundance: showers / rain}
+སྐུ་གཟུགས།: {representations of the body: statues / images}
+མཆོད་རྟེན།: {reliquary monuments: stupas}
+ལ་སོགས་པས།: {and the rest: others}
+མགོན་པོ།: {one who shelters others: protectors}
+བཅས།: {along with: together}
+རྒྱལ་བ།: {epithet of a buddha, victor: victorious / buddhas}
+འབྱུང་གྱུར་ཅིག: {come into being: arise}
+ངེས་པར།: {without fail: definitely}
+ཀུན་དུ།: {in every place: everywhere; thoroughly: utterly}
+བསྟོད།: {eulogize: praise / praising}
+ཡན་ལག: {constituent parts of a practice: limbs; sections of verse: verses}
+རྡུལ།: {smallest particles: atoms}
+གྲངས་སྙེད་ཀྱི།: {as many as that number: numerous}
+ཕྱག་འཚལ།: {make full prostration: prostrate}
+ཆོས་དང་ཚོགས་ཀྱི་མཆོག: {the Dharma and the highest assembly: supreme Dharma}
+དུས་གསུམ།: {past, present and future: times}
+ཞིང་རྡུལ་ཀུན།: {all atoms of all buddha-fields: universe}
+མཁན་པོ།: {monastic preceptors: abbots}
+བྱང་ཆུབ།: {awakening as goal or state: enlightenment / awakening}
+གཞི།: {basis, support: foundations}
+དེ་བཞིན།: {in the same way: likewise / similarly}
+བརྟུལ་ཞུགས།: {those under ascetic discipline: practitioners}
+སློབ་དཔོན།: {instructors, ācāryas: teachers}
+བྱང་ཆུབ་སེམས་དཔའ།: {one bent on awakening: bodhisattvas}
+མཆིས་ཀྱི་བར།: {up until reaching: reach}
+སྐྱབས་སུ་མཆི།: {go for protection: refuge}
+བྱང་ཆུབ་སེམས།: {one bent on awakening: bodhisattvas}
+ཕྱོགས།: {quarters of space: directions / direction}
+མངའ།: {possessed of: endowed}
+རྫོགས།: {complete, fully accomplished: fully}
+རྫོགས་སངས་རྒྱས།: {fully awakened ones: fully enlightened Buddhas}
+སྦྱར་ཏེ།: {bring together: join}
+ཐལ་མོ།: {the palms of the hands: palms}
+གསོལ་བ།: {make petition (honorific): request}
+བཞུགས་པ།: {remaining present (honorific): residing}
+ཐོག་མ་མེད།: {having no start: beginningless}
+བགྱིད་དུ་སྩལ་བ།: {had others do: caused}
+བགྱིས་པ།: {do, perform (humilific): commit / committed / done; a deed done: actions}
+འཁོར་བ།: {saṃsāra, the round of rebirth: cyclic / cyclic existence / existence}
+ཚེ་རབས།: {successive births: life / lives}
+གཞན་དག་ཏུ།: {in other births: others}
+མ་འཚལ།: {without knowing: unknowingly}
+གང་།: {indefinite pronoun: whatever}
+བཤགས།: {disclose wrongdoing: confess}
+འཁྲུལ་པས།: {mistaken apprehension: confusion}
+ནོངས་པ།: {lapses, wrongs: faults}
+མཐོང་བགྱིས་ནས།: {having seen: having}
+བསམ་པ་ཐག་པས།: {from the depths of intention: heart}
+ནོན་ཏེ།: {borne down upon: overwhelmed}
+ཡི་རང་།: {take gladness in another's good: rejoiced}
+གནོད་བགྱིས།: {do injury: harm / caused}
+སྒོ་ནས།: {by way of, impelled by: driven}
+ཉོན་མོངས།: {kleśas, disturbing mental states: troubling emotions / troubling / emotions / afflictions}
+དཀོན་མཆོག: {the Three Jewels: jewels}
+ཡིད།: {mental faculty: mind / mental}
+གཞན་དག་ལ།: {other persons: others}
+ཕ་མ།: {one's mother and father: parents}
+ངག: {spoken utterance: speech / words}
+བླ་མ།: {spiritual instructors: teachers / gurus}
+ཉོན་མོངས་སྒོ་ནས།: {kleśas, disturbing mental states: troubling emotions}
+གང་ལགས་དང་།: {indefinite pronoun: whatever}
+ཤིན་ཏུ།: {intensifier: extremely / extreme}
+ཉེས་པ།: {lapse, wrong: faults / fault}
+འདྲེན་པ།: {those who lead others: guides}
+སྐྱོན་ཆགས་པའི།: {marred by defect: tainted}
+མི་བཟད།: {too severe to endure: unbearable}
+སྡིག་པ་གང་། ཤིན་ཏུ་མི་བཟད་བགྱིས་པ་དེ།: {full line, wrongdoing too grave to bear: unbearable wrongdoings}
+སྡིག་ཅན།: {one who does harmful deeds: wrongdoer}
+ངེས།: {without fail: certainly}
+འགུམ་པར།: {come to die: die}
+ཐར་བར།: {set loose: freed}
+ཚུལ་གྱིས།: {way, mode: manner}
+གསོལ།: {petitionary imperative (honorific): please}
+བསྐྱབ།: {give shelter to: protect}
+བྱང་བར།: {cleansed of wrongdoing: purified}
+མྱུར་བའི།: {happening soon: quickly / swift}
+འཆི་བདག: {Yama, ruler of the dead: Lord of Death / death / lord}
+བྱས།: {do, perform: done / committed / perform / makes; bring about: caused / inflicted}
+གློ་བུར།: {sudden and passing: fleeting / temporary}
+ཚེ།: {span of living: life}
+ན།: {afflicted by illness: sick}
+ཡིད་བརྟན་མི་རུང་།: {not to be counted on: unreliable}
+ཡིད་མི་བརྟན།: {not to be counted on: unreliable}
+མི་སྡོད་པས།: {does not stay for one: wait}
+མི་མཛའ།: {those wished ill: enemies}
+ཐམས་ཅད།: {the totality: everything}
+མཛའ།: {those held dear: friends / friend}
+ཤེས་ནས།: {having come to know: knowing}
+བོར་ཏེ།: {leave behind: leave}
+དོན་གྱི་ཕྱིར།: {for the sake of: sake}
+ཤེས།: {come to know: understand / know}
+སྡིག་པ་རྣམ་པ་སྣ་ཚོགས་བྱས།: {full line, misdeeds of every kind: wrongdoings}
+མེད་འགྱུར།: {come to be absent: cease / cease to exist}
+མེད་པར་འགྱུར།: {come to be absent: cease to exist}
+འགྱུར།: {be, obtain: exist; turn into: becomes}
+རྨི་ལམ།: {what is seen in sleep: dream}
+སྤྱད་པ།: {partake of, enjoy: enjoyed}
+ཉམས་སུ་མྱོང་བ།: {undergo, live through: experiences}
+བཞིན།: {comparison marker: like; act in accordance with: follow}
+དྲན་པའི།: {recollection: memory}
+མི་འགྱུར།: {does not turn out: never / nothing}
+ཡུལ།: {sense objects: objects}
+དངོས་པོ།: {a real entity: things / phenomenon}
+གང་དང་གང་།: {indefinite pronoun: whatever}
+འདས།: {go by, elapse: passed / away; overstep a rule: transgressed}
+བྱས་པའི།: {done, perpetrated: committed}
+གསོན་ཚེ།: {span of living: lifetime / life}
+དོན་དུ།: {for the sake of: sake / purpose}
+སྡིག་མི་བཟད།: {wrongdoing too grave to bear: unbearable wrongdoings}
+བྱས་པའི་སྡིག་མི་བཟད།: {wrongdoing too grave to bear, committed: unbearable wrongdoings committed}
+ཆགས།: {rāga, craving attraction: attachment}
+གིས།: {impelled by: driven}
+ཞེ་སྡང་།: {dveṣa, aversion: hatred}
+རྟོགས་པར།: {come to understand: realize}
+གོད་འགྱུར།: {wearing away: ceasing / diminishing}
+འཆི་བར།: {come to die: die}
+གུད་ནས།: {apart, in another place: elsewhere}
+མཚན།: {hours of darkness: night}
+གཅིག་པུས།: {unaccompanied: alone}
+མལ་ན།: {sleeping place: bed}
+འཆད་པ།: {leaving, breaking off: departing}
+མྱོང་བར།: {undergo, live through: experienced / experiences / gets}
+གཉེན་བཤེས།: {kin and companions: friends / relatives}
+འདུག: {remain, be there: lie / sit; to no purpose: idle}
+སྲོག: {the vital breath: life / lives}
+ཚོར་བ།: {felt sensation: sensations; painful feeling: pain}
+མཐའ་བསྐོར།: {ringed about: surrounded}
+གཤིན་རྗེ།: {Yama, ruler of the dead: Lord of Death / death / lord}
+བཤེས།: {those held dear: friends}
+ཕོ་ཉས།: {envoys sent: messengers}
+བསྐྱབས།: {give shelter to: protect}
+གཉེན།: {kin: relatives / relative / friends}
+བསྟེན་ཏོ།: {leaned on, resorted to: relied}
+ཟིན་པ།: {taken hold of: seized}
+བསྒྲུབས།: {done, perpetrated: committed}
+འཇིགས་པ།: {being afraid: fear / fears; a great terror: great fear}
+བག་མེད།: {lacking vigilance: heedless / carelessness}
+མི་རྟག: {not lasting: impermanent}
+འཚལ་ནས།: {come to know (honorific): realize}
+ཆེད་དག་ཏུ།: {for the sake of: sake}
+སྣང་ན།: {coming into view: appearing}
+གཞན་དུ།: {in another way: different}
+ངན།: {twisted, wrong: distorted}
+སྐམས།: {parched: dry}
+བཅད་པའི།: {putting to death: execution}
+མིག: {the eyes: eyes}
+ཁ།: {the mouth: mouth}
+སྐྱེ་བོ།: {a human individual: person / people}
+སར།: {a location: place}
+བྲེད་འགྱུར།: {struck with terror: terrified}
+ཐེབས་གྱུར་པ།: {stricken by: afflicted}
+ཤ་ཚུགས།: {outward look: appearance}
+འཇིགས་ཆེན།: {a great terror: fear / great fear}
+འཇིགས་འཇིགས།: {inspiring dread: fearsome / terrifying}
+ནད།: {bodily disease: illness}
+ཕོ་ཉ།: {envoys sent: messengers}
+བཟུང་གྱུར་ཅིང་།: {taken hold of: seized}
+སྨོས།: {say, utter: speak / utter}
+ཕྱོགས་བཞིར།: {the four quarters: directions}
+སྐྱོབ་པར།: {give shelter to: protect}
+སྐྱབས།: {place of protection: refuge}
+ཚོལ་བར་བྱེད།: {looks about for: searches}
+བྲེད་ཤ་ཐོན་པའི།: {gripping dread: terror}
+བགྲད་ནས།: {opened wide: wide}
+ཡི་མུག: {sunk in despair: despondent}
+མཐོང་ནས།: {having seen: seeing; having gained: receiving / having}
+གནས།: {state of affairs: situation; productive condition: cause}
+འགྲོ་བ།: {wandering beings: beings}
+སེལ།: {clear away: dispel / dispels / removes}
+སྟོབས་ཆེན།: {having great force: powerful}
+སྐྱོབ་པའི།: {rescue: save}
+བརྩོན་པ།: {sustained exertion: strive}
+དེ་བས།: {consequential connective: therefore}
+འཁོར་བའི།: {saṃsāra, the round of rebirth: cyclic / cyclic existence / existence}
+ཆུད་པའི།: {having grasped: realized}
+འཇིགས་པས།: {being afraid: fear}
+འཇམ་པའི་དབྱངས།: {proper name, Mañjuśrī: manjushri}
+བདག་ཉིད།: {oneself: myself}
+ཀུན་དུ་བཟང་།: {proper name, Samantabhadra: samantabhadra}
+རྣམ་སྐྲག་པས།: {struck with terror: terrified}
+སྤྱོད་པ།: {caryā, way of acting: conduct / life / behavior; a particular act: actions}
+སྤྱན་རས་གཟིགས།: {proper name, Avalokiteśvara: avalokiteshvara}
+ཐུགས་རྗེས།: {with compassion (honorific): compassionate}
+འོ་དོད་འབོད།: {cry out in distress: cry}
+སྤྱན་རས་གཟིགས་མགོན།: {Avalokiteśvara as refuge: Protector Avalokiteshvara}
+མ་འཁྲུལ་བ།: {that does not fail: unfailing}
+ང་རོས།: {the voice raised: voice}
+སྡིག་ལྡན།: {one who does harmful deeds: wrongdoer}
+ནམ་མཁའི་སྙིང་པོ།: {proper name, Ākāśagarbha: akashagarbha}
+ཐུགས་རྗེ་ཆེ་མགོན།: {the greatly compassionate ones: compassionate Protectors}
+ཆེ།: {to a great degree: greatly}
+སྙིང་ནས།: {from the depths: heart}
+ས་ཡི་སྙིང་པོ།: {proper name, Kṣitigarbha: kshitigarbha}
+སྐྱབས་ཚོལ།: {seek protection: refuge}
+སྡང་བ།: {those who bear ill will: enemies}
+སྐྲག: {be afraid: fear / afraid / terrified; gripping dread: terror}
+འབྱེར་བྱེད་པ།: {put to flight: flee / scattering}
+རྡོ་རྗེ་ཅན།: {proper name, Vajrapāṇi: vajrapani}
+བཀའ།: {authoritative pronouncement: commands / words}
+བསལ་དུ་གསོལ།: {request to clear away: dispel}
+འཇིགས་པ་ཆེ།: {a great terror: great fear}
+མྱུར་དུ།: {without delay: quickly}
+བཏབ།: {struck by: afflicted}
+འཇིགས་ན།: {be afraid: afraid}
+རྟག: {at all times: constantly; enduring unchanged: permanent}
+འདོད་ཆགས།: {rāga, craving attraction: desire}
+སྨན་པ།: {healer: doctor / physician}
+བརྒྱའི།: {counted in hundreds: hundreds}
+ཐ་མལ།: {commonplace, unexceptional: ordinary}
+ཕྱོགས་རྣམས་ཀུན་ནས།: {in any of the directions: anywhere}
+གསོ་བའི།: {restore to health: cure}
+བརླག་བྱེད།: {bring to ruin: destroy}
+གནས་པའི།: {remaining, residing: dwelling}
+རྙེད་ན།: {come upon: found}
+མི།: {a human being: human / person / people}
+ཐམས་ཅད་མཁྱེན།: {omniscient: all-knowing}
+སྨད་པའི།: {find fault with: blame}
+འབྱིན་པ།: {draw out: extracts}
+ཟུག་རྔུ།: {piercing pain: dart / suffering}
+བག་ཡོད།: {attentive, vigilant: careful}
+གཡང་ས།: {sheer drop: chasm / precipice}
+ཡུན་རིང་།: {extending far: deep; over an extended period: long time}
+དཔག་ཚད།: {league, unit of distance: miles}
+སྟོང་དུ།: {counted in thousands: thousand / thousands}
+མི་འཆི།: {does not come to an end: cease}
+གདོན་མི་ཟ་བར།: {without fail: certainly / inevitably}
+བདེ་བར།: {in well-being: happy / peace / comfortably / ease}
+འཆི།: {come to die: die}
+རིགས།: {as it should be: proper / fitting / right; in accord with reason: logical}
+འདུག་པ།: {remain seated: sit}
+ཐར་ཞེས།: {get free: escape}
+བྱིན།: {bestow: grant}
+མངོན་ཞེན།: {fixed on, unable to let go: attached / clinging}
+མྱོང་སྟེ།: {undergo, live through: experienced}
+བླ་མའི།: {spiritual instructor: guru}
+ཞིག་པ།: {gone to destruction: perished}
+ལྷག་པ།: {is left over: remains}
+འགལ་བར།: {go against a rule: transgressed}
+སྤངས་ནས།: {give up: abandon / leave}
+གཅིག་པུ།: {unaccompanied: alone; one and only: sole}
+བཤེས་པ།: {those held dear: friends}
+ག་ཤེད།: {some unspecified place: somewhere}
+མི་དགེ་བ།: {karmically harmful act: unwholesome / actions}
+འབྱུང་།: {come into being: arise / arises / comes / source; come to be undergone: experience; build up: accumulate}
+སྡུག་བསྔལ།: {duḥkha, unsatisfactoriness: suffering / present suffering; undergo pain: suffer / experience suffering}
+སྡུག་བསྔལ་འབྱུང་།: {suffering comes about: suffering arises / experience suffering}
+གཏི་མུག་པས།: {mental dullness, moha: delusion}
+ཁ་ན་མ་ཐོ།: {blameworthy, karmically injurious: harmful}
+མི་ཤེས།: {failure to know: ignorance}
+བཅས་པའི།: {laid down by rule: prohibited / vows}
+གང་ཡང་རུང་བ།: {indefinite pronoun: whatever}
+ཡང་དང་ཡང་དུ།: {repeatedly: again}
+བཤགས་པར་བགྱི།: {disclose wrongdoing: confess}
+མངོན་སུམ་དུ།: {plainly present: directly / clearly}
+འཇིགས་སེམས་ཀྱིས།: {in a state of fear: fearful}
+སྦྱར།: {brought together: joined}
+ཐལ་སྦྱར།: {palms pressed together: palms}
+ཕྱག་འཚལ་ཏེ།: {make full prostration: prostrate}
+མགོན་པོའི།: {those who shelter others: protectors}
+སླན་ཆད།: {from now on: again}
+གཟུང་དུ་གསོལ།: {request to be regarded: consider}
+ཡོང་མི་བགྱིད།: {will never do: never}
+བྱང་ཆུབ་སེམས་དཔའི།: {bodhisattva (genitive): bodhisattva}
+བཤགས་པའི།: {disclosure of wrongdoing: confession}
+འཇུག་པ།: {undertaking a practice: engaging}
+བྱང་ཆུབ་ཀྱི་སེམས: {bodhicitta, the aspiration to awaken: Mind of Awakening}
+བཟུང་བ: {taking hold of: taking}
+ཡོངས་སུ་བཟུང་བ: {chapter title: Taking Hold}
+བདེར: {in well-being: happiness / happy; out of danger: safely}
+དགའ་བས: {gladness: joy / delight / delighting}
+ཡི་རང་ངོ: {take gladness in another's good: rejoice}
+དགའ་བས་རྗེས་སུ་ཡི་རང་ངོ: {gladly rejoice: rejoice with joy}
+ངལ་སོའི: {respite: rest}
+ངན་སོང་གི: {lower realms of rebirth: states of suffering}
+སྡུག་བསྔལ་ཅན: {undergoing pain: suffer / suffers}
+བསགས་པ: {amassed: accumulated}
+ལུས་ཅན: {embodied creatures: beings / living}
+སྐྱོབ་པ་རྣམས: {those who give protection: protectors / buddhas}
+དགེ་བསགས་པ: {merit that has been amassed: good deeds accumulated}
+ཐར་ལ: {release from saṃsāra: liberation}
+ས་ལ: {bhūmis, stages of the path: paths}
+མཛད་པ: {do, perform (honorific): actions / composed}
+ཐུགས་བསྐྱེད: {resolve set in the mind (honorific): aspirations}
+མཛད་པའི: {do, perform (honorific): bring / composed}
+རྒྱ་མཚོ: {the sea: ocean}
+མུན་འཐོམས: {bewildered by darkness: bewildered}
+མུན: {absence of light: darkness}
+ཕྱོགས་རྣམས་ཀུན་གྱི: {quarters of space: directions}
+སྦྱར་ཏེ: {brought together: joined}
+སྒྲོན་མ: {butter-lamp: lamp}
+ཐལ་མོ: {palms pressed together: palms / hands}
+གསོལ: {petitionary imperative (honorific): please}
+གསོལ་བ་ནི: {make supplication: pray}
+ཆོས་ཀྱི: {the Buddha's teaching: dharma / teachings / sacred}
+བསྐལ་པ: {vast cosmic age: eons / ages}
+འགྲོ་འདི: {these wandering beings: beings}
+འདའ: {go past, pass away: pass / passes / beyond}
+ལྡོངས་པར: {unable to see: blind}
+རྒྱལ་བ: {epithet of a buddha, victor: buddhas / victorious}
+གྲངས་མེད: {beyond counting: countless}
+མྱ་ངན: {grief, mourning: sorrow / sorrowful / grief / grieving / mourning / lamentation; duḥkha broadly: suffering; in the compound "passing beyond sorrow": nirvana}
+བཞེད: {wish, intend (honorific): wish}
+བྱས་ཏེ: {having done: done / having}
+འདི་དག་ཀུན: {all these items: things}
+གང: {indefinite pronoun: whatever / something; indefinite person: person}
+སོས་གྱུར: {restored to health: cured}
+སྨན་པ: {healer: doctor / doctors / physician}
+ནད: {bodily disease: illness / illnesses / diseases}
+སྨན: {curative substance: medicine}
+ནད་གཡོག: {one who tends the sick: nurse}
+ནད་པ: {one who is ill: sick / patient}
+སྐོམ: {need for water: thirst; what is drunk: drink}
+མུ་གེའི: {scarcity of food: famine}
+བཀྲེས: {need for food: hunger}
+ཆར་ཕབ་སྟེ: {fall as rain: rain}
+བསལ: {clear away: remove / removed / removing / dispelling / away / uncovered}
+སྐོམ་པའི: {need for water: thirst}
+ཚེ: {span of living: life / lives; occasion, point in time: times / occasion}
+ཉེ་བར་གནས་གྱུར་ཅིག: {come to be present: appear}
+ཕོངས་ཤིང: {lacking necessities: destitute}
+སྣ་ཚོགས་སུ: {of many kinds: kinds}
+ཡོ་བྱད་མཁོ་དགུ: {requisites for living: necessities}
+དབུལ་བ: {lacking means: poor / poverty}
+གཏེར: {store of riches: treasure}
+སྒྲུབ་ཕྱིར: {bring about: accomplish}
+གཏང་བར་བྱ: {give away: away}
+ལོངས་སྤྱོད: {goods enjoyed: possessions}
+ཕོངས་པ་མེད་པར: {holding nothing back: reservation}
+སེམས་ཅན་རྣམས: {beings possessed of mind: beings}
+ཐམས་ཅད: {the totality: everything / entire / complete / everyone; all living creatures: beings}
+བཏང་བས: {having given away: giving / let}
+འདས་པ: {going past: passing}
+བརྡེག: {strike: beat}
+ལུས་ཅན་ཐམས་ཅད: {all embodied creatures: beings}
+སྨོད་པའམ: {speak abusively: insult}
+གསོད: {put to death: kill / kills / death}
+ཅི་བདེར: {as one pleases: please / convenient}
+ཅི་དགར: {as one wishes: whatever / wish}
+ཁ་ཏས་ཅི་ཞིག་བྱ: {dispute verbally: argue}
+བྱིན་ཟིན་གྱིས: {already given over: away}
+རྒྱུ་བྱེད་ཀྱང: {make use of, treat as: cause}
+རྩེ་བྱེད: {make sport of: jest / plaything}
+ཅོ་འདྲི་ག་ཞའི: {derision: mockery}
+ལས: {deed and its effect, karma: karma / actions; work to be done: task}
+ནམ་དུ་ཡང: {at any time: ever}
+གནོད་པར: {do injury: harm; the hurt undergone: suffering}
+བྱེད་དུ་ཆུག: {allow to be done: let}
+གང་ཡིན་པའང: {indefinite pronoun: whatever}
+འགྲུབ་པའི: {brought to completion: accomplished}
+དོན་ཀུན: {all aims: aims}
+ཁྲོ: {wrath: anger}
+གང་དག་གི: {indefinite person: anyone}
+བྱུང་ན: {come about: arises / arise}
+རྒྱུར: {productive condition: cause / causes}
+དམིགས་ནས: {take as object, focus on: regard}
+སྐལ་ལྡན: {having the requisite good fortune: fortunate / destined / auspicious / opportunity; capable: able}
+ཁ་ཟེར: {speak, especially disparagingly: speaks / ill}
+ཕྱར་ཀ་གཏོང: {spread defamation: slanders}
+གང་དག: {indefinite person: whoever}
+གྲུ: {vessel for crossing water: boat / boats}
+ཟམ་པ: {structure for crossing: bridge}
+བརྒལ་འདོད: {wish to cross over: cross}
+ལམ་ཞུགས: {having set out on the road: path}
+མགོན: {one who shelters others: protector}
+གཟིངས: {float, ferry: raft}
+མགོན་མེད: {without a protector: unprotected}
+གཉེར: {seeking, in need of: desiring}
+གླིང: {land amid water: island}
+གནས་མལ: {place to lie down: place / resting}
+བྲན: {one in service: servant / servants}
+ལུས་ཅན་རྣམས་ཀྱི: {of embodied creatures: beings}
+འདོད་འཇོར: {wish-granting cow: cow / wish-granting}
+ནོར: {material riches: wealth / treasure; a gem: jewel}
+སྨན་ཆེན: {potent curative substance: medicine}
+རིག་སྔགས་གྲུབ: {efficacious mantra: spell}
+ཤིང: {a tree: tree / trees; timber: wood / wooden}
+བུམ་པ་བཟང: {excellent vase, wish-yielding: vase}
+ཡིད་བཞིན: {granting whatever is wished: wish-fulfilling}
+རྟག་པར: {at all times: always}
+དཔག་ཏུ་མེད་པ་ཡི: {beyond measure: countless}
+རྣམ་མང: {of many kinds: various / diverse}
+འབྱུང་བ་ཆེན་པོ: {the great elements: elements}
+ཉེར་འཚོའི་གཞིར: {basis of subsistence: sustenance}
+རྣམ་ཀུན་ཏུ: {in every way: always}
+འདས་བར་དུ: {going past: beyond}
+མཐས་གཏུགས་པའི: {extending to the limit: ends / extent / reaches}
+འདས: {gone past: passed / passing}
+ཁམས: {constituent realm: realm / realms / places}
+ནམ་མཁའི: {open expanse: space / sky}
+ཉེར་འཚོའི: {basis of subsistence: sustenance}
+བདེ་གཤེགས་ཀྱིས: {epithet of buddhas, sugatas: buddhas}
+གནས་པ: {remain, abide: dwelt / dwelling / remaining}
+བསྐྱེད་པ: {bring into being: generated / produced}
+སེམས་དཔའི: {one bent on awakening (genitive): hero}
+ཇི་ལྟར: {comparison marker: like / likewise}
+ཐུགས: {mind (honorific): mind}
+བྱང་ཆུབ་ཐུགས: {bodhicitta (honorific): Mind of Awakening}
+བསླབ་པ: {the precepts to be trained in: training / trainings; put into practice: train / practice}
+འགྲོ་ལ: {toward wandering beings: beings}
+ཕན་དོན་དུ: {for others' good: benefit}
+བསྐྱེད་བགྱི་ཞིང: {bring into being: generate}
+རིམ་པ་བཞིན་དུ: {in sequence: order}
+བསླབ་པར་བགྱི: {put into practice: train}
+རབ་དང: {of high quality: excellent}
+རྒྱས་པར་བྱ་བའི་ཕྱིར: {cause to increase: flourish}
+ལྡན་པ་ཡིས: {possessed of: having}
+བཟུང་ནས: {take hold of, commit to: resolve}
+གཟེངས་བསྟོད་དོ: {raise up, encourage: strengthen}
+བློ: {cognizing intelligence: mind / intellect / wisdom / perception; a particular thought: thought / thoughts}
+སྐྱེས: {come into being: arise / arises / arisen / arising / born; a person born: beings / male}
+རིགས་སུ: {lineage, class: family}
+ཐོབ: {come to have: gained / attain / obtain}
+མི་ཡི: {of the human kind: human}
+སངས་རྒྱས་སྲས་སུ: {heir of the buddhas: spiritual}
+མཐུན་པའི: {in accord with: befitting}
+རྙོག་པར: {stained, muddied: defiled}
+དེ་ལྟར་བྱ: {act so as to secure: ensure}
+རིགས: {lineage, class: family / lineage / spiritual; as it should be: fitting / appropriate}
+ཅི་ནས་ཀྱང: {by whatever means: means; at any time: ever}
+བཙུན་པའི: {worthy of respect: noble}
+སྐྱོན་མེད: {free of defect: pure}
+བརྩམས་ཏེ: {set about: undertake}
+ལོང་བས: {unable to see: blind; a human individual: person}
+སྟེས་ནས: {by happenstance: chance}
+རྙེད་པ: {come upon: find}
+ཕུང་པོ: {aggregate, skandha: aggregates; an accumulated mass: heap / pile}
+ཕྱག་དར: {refuse swept up: rubbish}
+འཇོམས་བྱེད་པའི: {overpowers: conquers}
+འདི་ཡིན་ནོ: {this very thing: itself}
+བདུད་རྩི: {amṛta, deathless nectar: nectar}
+སེལ་བ་ཡི: {clears away: removes}
+རབ: {intensifier: completely / deeply; of high quality: excellent}
+ཞི་བྱེད་པའི: {brings to quiescence: cures}
+སྲིད་ལམ: {the road of conditioned existence: existence}
+སྨན་གྱི: {curative substance: medicine}
+ལམ: {the way to be travelled: path / paths}
+ངལ་སོ: {place of respite: resting}
+འཁྱམ་ཞིང: {roam without direction: wander}
+དུབ་པ་ཡི: {worn out: weary}
+འགྲོ་བ་ཐམས་ཅད: {all wandering beings: beings}
+སྤྱི་སྟེགས: {structure for crossing: bridge}
+སྒྲོལ་བར་བྱེད་པའི: {carries across: delivers}
+སེལ་བའི: {clears away: dispels}
+སེམས་ཀྱི: {of the mind: mind}
+ཟླ་བ: {the moon: moon}
+ངན་འགྲོ་ལས: {from the lower realms: states of suffering}
+ཉོན་མོངས་གདུང: {torment of the kleśas: suffering}
+གདུང: {be tormented: torment / distressed}
+ཉོན་མོངས: {kleśas, disturbing mental states: afflictions / affliction / defilements / disturbing emotions / emotions / emotion / disturbing / afflictive / attachments; the trouble they cause: troubles / hardships / suffering}
+མར་གྱི: {clarified butter: butter}
+བསྲུབས་པ་ལས: {agitating, stirring: churning}
+དཔྱིས་འབྱིན: {root out entirely: completely / removes}
+རབ་རིབ: {blurred vision: confusion}
+བྱུང་བ་ཡིན: {came forth: emerged}
+ཉིང་ཁུ: {extracted quintessence: essence}
+མི་ཤེས: {failure to know: ignorance / non-knowing}
+འོ་མ: {liquid from cows: milk}
+དམ་ཆོས: {the true teaching: dharma / sacred}
+ཉི་མ་ཆེན་པོ: {the great sun: sun}
+ཆོས: {the Buddha's teaching: dharma / teachings}
+བདེ་བའི་ལོངས་སྤྱོད: {things enjoyed as pleasure: delights}
+སྤྱད་པར་འདོད་པ: {wish to partake of: enjoy}
+མགྲོན་པོ: {visitor, wayfarer: guests / travelers}
+བདེ་བའི: {well-being, contentment: happiness}
+ཚིམ་པར་བྱེད་པ་ཡིན: {brings to satiety: satisfies}
+ཉེར་གནས་ཏེ: {stands close at hand: source}
+མཆོག་ཏུ: {to the highest degree: supreme}
+བདེ་གཤེགས་ཉིད: {buddhahood itself: buddhas}
+བདེ་ལ: {well-being, contentment: happiness}
+བར་དུ: {time in between: interim}
+མགྲོན་དུ་བོས་ཟིན་གྱིས: {summoned as a guest: invited}
+སྐྱོབ་པ་ཐམས་ཅད་ཀྱི: {of all who give protection: protectors}
+དགའ་བར་གྱིས: {be glad: rejoice}
+བག་ཡོད: {vigilant attentiveness: carefulness / caution}
+བསྟན་པ།: {doctrinal exposition: teaching}
+བག་ཡོད་བསྟན་པ།: {chapter title: Teaching on Carefulness}
+རྟག་ཏུ་ཡང་།: {at all times: always}
+འབད་པར་བྱ།: {apply effort: strive / diligently}
+བརྟན་བཟུང་ནས།: {hold fast: firmly}
+བཟུང་ནས།: {having taken up: having; from then on: onwards}
+མི་འདའ: {does not overstep: never}
+གཡེལ་བ་མེད་པར: {without wandering off: straying}
+བསླབ་ལས: {the precepts to be trained in: training}
+བཏང་ཞེས: {give up: abandon}
+བརྟགས་པའི་རིགས།: {it is right to examine: examine}
+བརྟགས་པ།: {subjected to scrutiny: examined; formed as a notion: conceived}
+བབ་ཅོལ: {without due thought: rashly}
+བརྩམས་པ: {set about: undertaken / undertaking / begun}
+དམ་བཅས་བྱས་གྱུར་ཀྱང་།: {having made a promise: vowed}
+གང་ཡིན་པའམ།: {indefinite pronoun: whatever}
+ཡང: {once more: again}
+སངས་རྒྱས་རྣམས: {the awakened ones: buddhas}
+བརྟགས་ཤིང་།: {subjected to scrutiny: examined}
+བདག་ཉིད་ཀྱིས: {reflexive pronoun: myself / yourself}
+ཅི་ཞིག་ཡོད།: {what ground is there: reason}
+དེ་ཡི་སྲས།: {heirs of the victors: spiritual children}
+བཤོལ་དུ: {put off, defer: turn}
+ཤེས་རབ: {prajñā, discriminating knowledge: wisdom; element of a proper name: sherab}
+བསྒྲུབ་པ: {bring about: accomplish}
+བསླུས་པས།: {having been misled: deceived}
+དམ་བཅས་ནས།: {having made a promise: having}
+དམ་བཅས: {binding promise: vow / vowed}
+ཡི་དྭགས: {preta, hungry ghost: ghost}
+ཡིད་ཀྱིས: {in the mind: mind}
+ཕལ་པ: {commonplace, unexceptional: ordinary}
+དངོས་པོ: {a real entity: thing / things / existent / phenomena; what is apprehended: object}
+བསམ་བྱས་ནས།: {having considered: thinks}
+བསླུ་བྱས་ན།: {go back on one's word: deceives}
+བདེ་འགྲོར: {higher realms of rebirth: happy realms / happy}
+མགྲོན་གཉེར་ནས།: {having invited: invited / having}
+བསམ་པ་ཐག་པས: {from the depths of intention: sincerely}
+བླ་ན་མེད་པའི: {than which none is higher: unsurpassed}
+བཏང་ཡང་།: {gives up: abandons}
+ཐར་བར་བྱེད་པ: {sets free: free}
+བསམ་གྱིས་མི་ཁྱབ: {beyond thought: inconceivable}
+ལས་ཚུལ: {the workings of karma: karma}
+མཁྱེན།: {know (honorific): knows}
+ཐམས་ཅད་མཁྱེན་པ: {knowing everything: omniscient}
+མི་གང: {a human individual: person}
+སེམས་ཅན་ཀུན་གྱི: {of all beings: beings}
+དམན།: {grows less: diminishes}
+ལྟུང་བའི: {transgression of vow: downfalls}
+ལྕི་བ: {of greatest weight: heaviest}
+བྱུང་གྱུར་ན།: {comes about: occurs}
+དོན་ལ: {another's good: welfare}
+དམན་གྱུར་པས།: {having grown less: diminishing}
+མུ་མཐའ་མེད།: {without limit: endless}
+སྐད་ཅིག་ཙམ: {a mere instant: moment}
+བར་ཆད་གེགས་བྱེད་པ།: {puts an obstacle in the way: obstructs}
+ངན་འགྲོ: {lower realms of rebirth: lower realms / unfortunate realms / unfortunate / realms}
+གང་གཞན: {indefinite person: whoever}
+བཤིག་ན: {brings to ruin: destroys}
+ཉམས་འགྱུར་ན།: {comes to be impaired: harmed}
+མཐའ་ཀླས་པའི།: {without bound: limitless}
+བདག་ཉིད: {oneself: oneself / yourself / itself / themselves / self; intrinsic character: nature}
+གཅིག་གི: {one in number: single}
+རེས་ཀྱིས: {by turns: alternate}
+ཐོབ་པ་ལ: {come to have: attain}
+འཁོར་བར: {saṃsāra, the round of rebirth: cyclic existence / cyclic / existence}
+ལྟུང་བ་སྟོབས་ལྡན: {transgressions of vow: downfalls}
+ཡུན་རིང: {over an extended period: long time}
+སྟོབས་ལྡན: {having great force: powerful}
+ས: {bhūmi, stage of the path: stages / stage; the earth: earth / ground}
+བསྒྲུབ་པར་བྱ།: {bring about: accomplish}
+བརྩོན་པར: {sustained exertion: diligence / strive}
+དམ་བཅས་བཞིན།: {as promised: vowed}
+འདས་གྱུར་ཀྱང: {come and gone: appeared}
+སེམས་ཅན་ཐམས་ཅད: {all beings possessed of mind: beings}
+ཕན་མཛད་པའི།: {act for another's good: benefit}
+སངས་རྒྱས་གྲངས་མེད: {buddhas beyond counting: Countless Buddhas}
+ཉེས་པས: {lapse, wrong: faults / wrongdoing}
+གསོ་བའི: {restore to health: healing / cure}
+འདས་གྱུར་ཀྱང་།: {gone by: passed}
+སྤྱོད་ཡུལ་མ་གྱུར་ཏོ།: {did not come within reach: reach}
+བྱེད་ན།: {do, perform: act / bring}
+ཡང་དང་ཡང་དུའང: {repeatedly: again}
+འཆིང་བ: {state of being bound: bondage}
+བཅད: {severing: cutting}
+མྱོང་བར་འགྱུར།: {come to undergo: experience}
+གཤེག: {running through: piercing}
+ངན་འགྲོར: {lower realms of rebirth: lower realms / unfortunate realms / unfortunate / realms}
+རུང་བ: {being fit or able: ability}
+འབྱུང་བ: {come into being: arise / arises; coming into view: appearance}
+དེ་བཞིན་གཤེགས་པ: {tathāgata, epithet of a buddha: tathagata / buddha}
+དད: {trusting confidence: faith}
+མི: {a human being: human / person / people; those in attendance: attendants}
+མི་ལུས: {birth in human form: human body}
+ཐོབ་པ: {come to have: obtain / obtaining / obtained}
+གོམས: {familiarize through repetition: practice}
+དགེ་གོམས: {familiarize oneself with virtue: practice virtue}
+དཀོན་ན: {hard to come by: rare}
+བསླུ་བ་སྟེ།: {apt to mislead: deceptive}
+ཐང་ཅིག: {lasting only a moment: fleeting / temporary}
+ཟས་བཅས: {having food: food}
+མེད: {not existing: nothing / non-existent / never; fail to be, cannot: exist / cannot; without, free of: free / having}
+འཚེ་བ་མེད: {absence of injury: harm}
+ནད་མེད: {absence of disease: illness}
+འདི་ལྟ་བུ།: {comparison marker: like}
+མི་ཡི་ལུས: {birth in human form: human body}
+འཐོབ: {come to have: obtain / attain}
+རྨོངས་པ།: {lacking understanding: bewildered / foolish}
+བྱས་ན།: {do, carry out: perform}
+སྤྱད: {put into practice: practice / practiced / engage / acts; make use of: uses / tool}
+དགེ་སྤྱད: {put virtue into practice: practice virtue}
+ངན་སོང: {lower realms of rebirth: lower realms / unfortunate realms / unfortunate / realms}
+ཉེར་བསགས་ན།: {build up: accumulate}
+བདེ་འགྲོའི: {higher realms of rebirth: happy realms / happy / fortunate / rebirths}
+ཐོས: {perceive by ear: hear / hearing / heard}
+བརྒྱར: {counted in hundreds: hundred / hundreds}
+བྱེ་བ: {ten million, a vast number: millions}
+བྱས་ལ།: {do, carry out: perform}
+སྒྲ: {what is heard: sound / sounds / noise}
+བཅོམ་ལྡན་གྱིས།: {bhagavān, epithet of the Buddha: blessed}
+གཡེངས: {drifting adrift: floating}
+མི་ཉིད: {human status itself: human}
+མགྲིན: {the neck: neck}
+ཆུད: {inserting into: putting}
+ཐོབ་དཀར: {hard to come by: rare}
+ཕྱིར་ན: {ground, reason: reason}
+རུས་སྦལ: {the tortoise of the simile: turtle}
+ཆེར: {of great extent: vast}
+གཉའ་ཤིང་གི །བུ་གར: {hole in the floating yoke: yoke}
+བསགས: {amassed: accumulated / accumulating}
+ཐོག་མེད: {having no start: beginningless}
+གནས་འགྱུར་ན།: {come to abide: dwelling}
+སྡིག་པས: {harmful, karmically negative act: evil}
+འགྲོ: {wandering beings: beings; realms of rebirth: realms; move, travel: going}
+མནར་མེད: {Avīci, the deepest hell: lowest hell / lowest / hell; unremitting: immeasurable}
+སྨོས་ཅི་དགོས།: {rhetorical "needless to say": speak}
+རབ་ཏུ་སྐྱེ།: {come strongly into being: arise}
+སྡིག་པ་གཞན་དག: {other harmful deeds: evil deeds}
+མྱོང་གྱུར་ནས།: {having undergone: experiencing}
+རྣམ་ཐར་མི་འགྱུར་ཏེ།: {does not get free: freed}
+བསླུས་པ: {being misled: deception}
+རྨོངས་པའང: {lack of understanding: foolishness}
+རྙེད་གྱུར་ནས།: {having come by: obtained / having}
+དལ་བ: {leisure for practice: leisure / precious}
+ལྡང་བར་འགྱུར།: {come to arise: arise}
+འཆི་བར་འགྱུར་བའི་དུས: {the time of dying: death}
+རྨོངས་པས: {lack of understanding, moha: delusion / deluded / foolishness / ignorance}
+རྟོགས་ནས།: {having understood: understood / having}
+སྒྱིད་ལུག་ན།: {grow slack: lazy}
+མྱ་ངན་ཆེན་པོ: {great grief: sorrow}
+ལུས་ལ: {on the body: body}
+བསྲེགས་གྱུར་ན།: {be burnt: burn}
+མེ་འབར་བས།: {blazing flames: fires}
+དམྱལ་མེ: {the fires of hell: hell}
+དུས་རིང་དུ།: {over an extended period: long time}
+འགྱོད་པ: {remorse: regret}
+གདོན་མི་ཟ།: {without fail: surely}
+གདུང་འགྱུར་བ: {be tormented: torment}
+བཟོད་དཀས: {hard to endure: unbearable}
+ཕྱིར་ཡང: {once more: again}
+ཕན་པའི: {being of help: beneficial}
+སྟེས: {by happenstance: chance}
+ལྡན་བཞིན་དུ།: {while possessed of: endowed}
+ས།: {the earth: ground}
+དམྱལ་བ་དེར: {the hell realms: hell}
+རྙེད་དཀའ: {hard to come by: rare}
+ཇི་ཞིག་ལྟར: {in some way or other: somehow}
+ཤེས: {cognizing awareness: knowledge / knowing / understanding / consciousness / cognition / sense; come to know: know / knows}
+མེད་དུ་ཟད།: {has ceased to be: absent}
+རྨོངས་པར་བྱས་པ: {made deluded: deluded}
+རྨོངས: {lack of understanding, moha: delusion / deluded; cause to be deluded: deludes}
+སྔགས་ཀྱིས: {efficacious mantra: spell}
+ཟད།: {come to an end: exhaust / exhausted; nothing more than: merely / utterly}
+དཔའ་མཛངས་མིན་ཡང: {courageous: brave; discerning: wise}
+སྲེད: {tṛṣṇā, craving: craving / craves}
+དགྲ་རྣམས: {adversaries: enemies}
+རྐང་ལག: {the limbs: limbs / hands / feet}
+ཞེ་སྡང: {dveṣa, aversion: hatred}
+བྲན་བཞིན: {one in bondage: slave}
+མི་ཁྲོ: {without anger: angry}
+དགའ་མགུར: {gladness: delight}
+གནས་བཞིན་དུ།: {while abiding: dwelling}
+གནོད་བྱེད་པ།: {do injury: harm}
+གནས་མིན: {not a fit occasion: inappropriate}
+སེམས་ལ: {in the mind: mind}
+བཟོད་པ: {kṣānti, forbearance: patience / patient}
+སྨད་པའི་གནས།: {object of contempt: scorn}
+ལྷ་མིན་རྣམས།: {asuras, jealous gods: demigods}
+དགྲར་ལངས་ཀྱང་།: {rise up as adversaries: enemies}
+མེ་ནང: {blazing flames: fires}
+མནར་མེད་པའི།: {Avīci, the deepest hell: lowest hell / lowest / hell}
+ཐལ་བ: {what remains after burning: ash}
+འདོར།: {throw off: cast / abandon}
+ཕྲད་ན: {come up against: encounters}
+དགྲ་འདིས: {adversaries: enemies}
+རི་རབ: {Mount Meru: meru / mount}
+སྟོབས་ཅན: {having great force: powerful}
+ཐོག་མཐའ་མེད་པ: {without start or end: beginning}
+དགྲ་བོ: {adversary: enemies / enemy}
+དུས་རིང: {over an extended period: long time}
+ཕྱིར་ཞིང: {once more: again}
+མཐུན་པར: {in accord with: accordance / appropriately}
+ཕན: {being of help: benefit / beneficial}
+ཉོན་མོངས་རྣམས: {kleśas, disturbing mental states: defilements}
+གནོད་པ་བྱེད།: {do injury: harm / inflict harm}
+བསྟེན་བྱས་ན།: {leans on, resorts to: relies}
+རིམ་གྲོ་བསྟེན་བྱས་ན།: {attends upon: serves}
+དགྲར་གྱུར་པ།: {those who have become adversaries: enemies}
+གནས་འཆའ་ན།: {take up residence: established}
+འཇིགས་མེད: {free of fear: fearless}
+དགའ་བར: {gladness: joyful / happy / happiness / delighting}
+གནོད་པའི: {doing injury: harm / harms / harmful}
+སྙིང་ལ: {in the heart: heart}
+ཆགས་པའི་དྲ་བ་ན།: {the net of craving attraction: attachment}
+གནས་ན: {remain, reside: dwells / dwelling / lives}
+གཤེད་མར: {those who put to death: executioners}
+སོགས་སུ།: {and the rest: forth}
+སྲུང་མས: {wardens: guardians}
+དམྱལ་སོགས་སུ།: {the hells and such: hell}
+བཅོན་རའི: {place of confinement: prison}
+མི་འདོར།: {does not give up: abandon}
+བརྩོན: {sustained exertion: strive / strives / striving / efforts / diligence}
+དགྲ་འདི: {these adversaries: enemies}
+ཁྲོས་གྱུར་པ།: {roused to anger: enraged}
+གནོད་བྱེད: {doing injury: harm; what stands in the way: hindrance}
+ང་རྒྱལ་བདོ་རྣམས: {swollen self-importance: pride}
+གཉིད་མི་འོང་།: {cannot sleep: sleep}
+མ་བཅོམ: {not defeated: vanquished}
+གྲུབ་པར: {brought to completion: achieved / fulfilled}
+མདའ: {missiles shot from a bow: arrows}
+གཡུལ་ངོར: {the front of battle: battle / face}
+གཞོམ་པར: {defeat, destroy: conquer}
+ཁྱད་བསད་ནས།: {treat as of no account: disregard}
+ནན་གྱིས: {with insistence: forcefully / diligently}
+འཆི་བས: {subject to death: mortal / death}
+རང་བཞིན: {intrinsic character: nature / natures; by its own character: natural}
+ཕྱིར་ཕྱོགས་འབྱེར་བར: {fall back: retreat}
+མདུང: {thrusting weapons: spears}
+ཕོག་པའི: {hit, wounded: struck}
+མཚོན་གྱིས: {bladed weapon: weapons / knife}
+འགྱུར: {turn into: becomes / becoming / brings; come about: arise / happens / occur}
+གཞོམ་བརྩོན: {exert oneself to defeat: conquer}
+ཡི་ཆད: {losing heart: disheartened}
+དགྲར: {adversaries: enemies}
+སྒྱིད་ལུག: {grow slack: lazy; slackness of spirit: despondency}
+ངེས: {without fail: surely / certainly; in accordance with fact: truly; determined by investigation: ascertained}
+སྲེལ་བྱེད་ན།: {hold dear: cherished}
+དགྲ་ཡིས: {adversaries: enemies}
+བཏོད་པ: {dealt out, imposed: inflicted}
+འདྲ་བར: {comparison marker: like}
+དོན་མེད: {serving no purpose: meaningless / meaninglessly / pointless / needlessly / fruitlessly / aimlessly}
+རྒྱན: {decorative embellishment: ornaments}
+དོན་ཆེན: {a great aim: purpose}
+བརྩོན་གྱུར་པ།: {exerts oneself: strives}
+ཅི་ཕྱིར: {interrogative of reason: why}
+རྨ་སྲོལ: {scars: wounds}
+གྲང: {low temperature: cold}
+བཟོད་ན།: {bear, put up with: endure}
+ཞིང་པ: {tillers of land: farmers}
+ཉ་པ: {those who catch fish: fishermen}
+སོགས་པ།: {and the rest: forth}
+བདེ་ཕྱིར: {for the sake of happiness: happiness}
+གནོད: {do injury: harm / harms; refute an assertion: refuted}
+ཚ: {high temperature: heat}
+གདོལ་པ: {outcaste butcher: hunters / beast}
+འཚོ་བ: {means of living: livelihood / live}
+སེམས་པ: {act of thinking: thinking / thought / thoughts; possessed of mind: sentient}
+ཕྱོགས་བཅུ: {the ten quarters: directions}
+བསྒྲལ་བར།: {bring to liberation: free}
+མ་གྲོལ་བ།: {not set free: freed}
+མཐས་གཏུགས་པའི།: {extending to the limit: limits}
+བདག་ཉིད་ཀྱང་།: {oneself: myself}
+བཅུ: {ten in number: ten}
+གཞོམ་པ་ལ།: {defeating: conquering}
+ཤེས་པར།: {come to know: knowing}
+སྨྱོན་པ: {derangement: madness}
+ཚོད: {extent, degree: measure}
+སྨྲ་བ: {say, utter: speaking; hold a position: assert}
+དེ་ལྟར: {consequential connective: therefore; in that way: manner / like}
+ལྡོག་པར: {turn back: turn / turning}
+ཞེན་བྱ་ཞིང་།: {fix onto, be attached: cling}
+ཉོན་མོངས་པ།: {kleśas, disturbing mental states: defilements}
+འཇོམས་བྱེད: {overpowered: destroyed}
+རྣམ་པ་དེ་འདྲའི: {of such sorts: kinds}
+ཁོན་དུ་བཟུང་ནས: {holding a grudge: resentment}
+གཡུལ་སྤྲད་དེ།: {give battle: wage}
+གཡུལ: {armed conflict: war / battle}
+བསྲེགས་ཏེ: {consumed by fire: burned}
+ཉོན་མོངས་པའི།: {kleśas, disturbing mental states: defilements}
+དགྲ་ལ: {adversary: enemy}
+མགོ་བོ: {the head: head / heads}
+བསད་གྱུར་ཏམ།: {put to death: killed}
+རྣམ་པ་ཀུན་དུ: {in no way whatsoever: never}
+མདུད་པར་མི་བྱའོ།: {will not bow down: surrender}
+ཕྱུང་ཡང་ནི།: {expelled: driven / abandoned}
+བརྟས་ནས: {grow strong: gather}
+ཡུལ: {a region: land / territory}
+འདྲ་མ་ཡིན།: {not alike: like}
+ཐ་མལ: {commonplace, unexceptional: ordinary}
+ཕྱིར་ལྡོག་གི: {come back: return}
+གནས་ཤིང: {take up abode: settle}
+ནུས་པ: {capability: strength / capacity / power; be able to: possibly / accomplish}
+སྤང་།: {given up: abandoned}
+བློ་ཞེན: {fixation of mind: attachment}
+གནས་ནས: {remain, abide: dwell}
+མིག་གིས: {the organ of sight: eye}
+གནོད་བྱ: {object of injury: harm}
+མེད་པར་ཟད།: {simply is not there: lack}
+སྤོངས: {give up: abandon}
+བརྩོན་པ་བསྟེན།: {apply exertion: effort}
+གཞན་ནའང: {in another place: elsewhere}
+དབང་ཚོགས་ལ: {the sense faculties: faculties / sense}
+འཇིགས: {be afraid: fear / afraid / terrified}
+གནོད་བྱེད།: {do injury: harm / harms}
+དམྱལ་སོགས་རྣམས་སུ: {in the hells and such: hell}
+སྒྱུ་འདྲ: {like a conjured appearance: illusion}
+ཤེས་ཕྱིར: {come to know: knowing}
+འདྲ: {comparison marker: like}
+དོན་མེད་ཉིད་དུ: {to no purpose: needlessly}
+ཡུལ་ན: {sense objects: objects}
+བསྟེན།: {depend on, resort to: rely}
+ཅི་སྟེ: {interrogative of reason: why}
+བསྒྲུབ་པའི་ཆེད་དུ: {for the sake of accomplishing: accomplish}
+སོས་པ: {restored to health: cured}
+སྨན་པའི: {healer: doctor}
+བསམས: {turn over in mind: contemplating / having}
+མ་མཉན་ན: {fail to heed: listen}
+སྨན་དག་གིས།: {curative substance: medicine}
+རྣམ་བསམས: {turned over in mind: reflected}
+བཤད་པ་ཡི།: {set forth verbally: taught}
+ལེའུ་བཞི་པའོ།: {the fourth chapter: chapter}
+འཇུག་པ་ལས།: {from the Bodhicaryāvatāra: engaging}
+བསྟན་པ: {doctrinal exposition: teaching / teachings / instructions; what is enjoined: practice}
+བག་ཡོད་བསྟན་པ: {chapter title: Teaching on Carefulness}
+ཤེས་བཞིན: {saṃprajanya, watchful clear knowing: awareness}
+བསྲུང་བར་བྱ་བ: {keeping watch over: guarding}
+ཤེས་བཞིན་བསྲུང་བར་བྱ་བ: {chapter title: Guarding Awareness}
+རབ་ཏུ་བསྒྲིམས་ནས: {applying oneself intently: effort}
+བསྲུང: {keep watch over: guard / protect / protects / protecting / protected / protection / keep}
+སེམས་བསྲུང: {keep watch over the mind: guard their minds}
+བསྲུང་བར་མ་བྱས་ན: {left unguarded: guarded}
+མི་ནུས: {not able: unable / cannot / impossible}
+བྱེད་པ་ལྟར: {as one that acts: cause}
+གླང་པོ: {an elephant: elephant}
+གླང་ཆེན: {a great elephant: elephant / elephants}
+ཡན: {running loose: loose}
+སེམས་ཀྱི་གླང་པོ: {the elephant of the mind: mind-elephant}
+མ་ཐུལ: {not brought under control: untamed}
+མྱོས་པ: {in rut, frenzied: wild}
+དམ་བཏགས་ན: {tied fast: bound}
+མེད་འགྱུར: {come to be absent: cease / eliminate}
+དམ: {fast, secure: firmly}
+ལག་ཏུ: {in the hand: hand}
+དྲན་པ: {smṛti, keeping in mind: mindfulness / remember / memory}
+ཐག་པ: {cord for tying: rope}
+དྲེད: {wild bears: bears}
+སྲིན་པོ་རྣམས: {rākṣasas, flesh-eating demons: demons}
+སྲུང་མ: {wardens: guardians}
+དམྱལ་བ: {the hell realms: hell}
+སེང་གེ: {lions: lion / lions}
+སྦྲུལ: {serpents: snake / snakes}
+བྱད་མ: {those who cast spells: sorcerers}
+སྟག: {great cats: tigers}
+བཏགས་པ་ཡིས: {by tying fast: binding}
+བཏགས་པར: {tied fast: bound}
+ཐུལ་བར: {brought under control: tamed}
+བཏུལ་བས་ན: {bringing under control: taming}
+བྱུང་བ་ཡིན་ནོ: {come into being: arise}
+སྡུག་བསྔལ་དཔག་ཏུ་མེད་པ: {pain beyond measure: immeasurable suffering}
+གསུང་བ: {uttered (honorific): spoken}
+བསྟན: {set forth as doctrine: taught / teaching / dharma}
+བྱུང: {come into being: arise / arises / comes / born / birth; done, occurred: done}
+སྲེག: {consuming by fire: burning / burnings}
+བྱས: {do, perform: done / acting / performed / commit / committed; bring about: created / accomplish / accomplished}
+ས་གཞི: {the surface underfoot: ground / earth}
+ཆེད་དུ: {for the sake of: purpose / reasons; with deliberate aim: intentionally}
+ལྕགས: {the metal iron: iron}
+ཚོགས: {a gathered mass: collection / collections / masses / host / gathering / gang; the accumulations of merit and wisdom: provisions; the skandhas: aggregates}
+མཚོན་ཆ: {bladed weapons: weapons}
+འཇིག་རྟེན་གསུམ་པོ་ན: {within the three worlds: existence}
+འཇིག་རྟེན་གསུམ་པོ: {the three worlds: realms}
+ཐུབ་པ: {muni, epithet of the Buddha: sage / buddha; a human individual: person}
+དེ་དག་ཐམས་ཅད: {all those items: things}
+སྡིག་སེམས: {harmful states of mind: thoughts}
+བོར་ནས: {having discarded: away}
+ཕ་རོལ་ཕྱིན: {pāramitā, perfection: perfection / perfected}
+སྦྱིན་པའི་ཕ་རོལ་ཕྱིན: {dāna-pāramitā: perfection of generosity}
+དབུལ་བོ: {lacking means: poor}
+བཀྲེན: {destitute: poor}
+སྐྱོབ་པ: {those who give protection: protectors}
+སྐྱེ་བོ་ཀུན་ལ: {toward all people: beings}
+འབྲས་བཅས: {bearing result: fruitful}
+ཉིད་དོ: {this very thing: itself}
+བཏང་སེམས: {mind of relinquishment: mind}
+བདོག་པ: {what one owns: possessions}
+བཏང་སེམས་ཀྱིས: {the act of letting go: relinquishment}
+གསུངས་ཏེ: {declared (honorific): taught}
+ཐོབ་པ་ལས: {come to have: achieved / gaining}
+བསྐྲད: {driven off: driven / away}
+ཉ་ལ་སོགས་པ: {fish and the like: creatures}
+ཚུལ་ཁྲིམས: {śīla, ethical discipline: discipline / ethical / morality / conduct}
+ཉ: {water creatures: fish}
+གསོད་མི་འགྱུར་བར: {not put to death: killed}
+སྤོང་བའི་སེམས: {intention to desist: renunciation}
+གང་ཞིག་ཏུ: {in whatever place: wherever}
+ཁྲོ་བའི་སེམས: {angry state of mind: anger}
+མི་ལང: {cannot be managed: cannot}
+གཞོམ་གྱིས: {overpowered: destroyed}
+ཆོམས: {overpowered: destroyed / overcome}
+དགྲ: {adversary: enemy / enemies}
+བཅོམ་ན: {having defeated: overcome / overcoming}
+ཡོང: {be at all possible: possibly}
+མི་སྲུན: {unruly: untamed}
+གཡོག་ཏུ: {spread over as covering: cover / covering}
+གཡོགས: {spread over as covering: cover / covered}
+ས་སྟེང: {the earth's surface: earth}
+ལང: {sufficient: enough}
+ཀོ: {hide: leather}
+ལྷམ: {footwear: shoe}
+མཐིལ: {the underside: sole}
+ཕྱིར་བཟློག: {ward off: away}
+ཕྱི་རོལ: {outside oneself: external}
+བདག་གི་སེམས: {this mind of mine: mind of mine}
+གཞན་རྣམས: {other persons: others}
+བཟློག: {turn back, avert: turn / turning / away / stopped / removed}
+བཟློག་བྱའི: {what is to be averted: turned}
+ཡིན་པ་ལྟར: {turning into: becoming}
+ཚངས: {the god Brahmā: brahma}
+གསལ: {unclouded: clear}
+བསྐྱེད: {bring into being: generate / generated / generating / create / created / develop / developed / cultivate}
+ཚངས་ལ་སོགས་པ: {Brahmā and other deities: god}
+དེ་ལྟ་མིན: {not on a par: matched}
+ཞན་པས: {lesser in strength: weaker}
+དཀའ་ཐུབ: {austerity: ascetic}
+གཡེངས་པས: {turned aside: distracted}
+སེམས་གཞན་གཡེངས་པས: {a mind turned aside: distracted mind}
+ཡུན་རིང་དུས་སུ: {over an extended period: long time}
+སྤྱད་བྱས: {carried out: performed}
+དཀའ་ཐུབ་ཀུན: {all austerities: practices}
+བཟླས་བརྗོད: {repeated verbal recitation: recitations}
+རིག་པས: {one who knows: wise}
+གྱི་ནར་འཁྱམ: {to no purpose: aimlessly}
+གཙོ་བོ: {prakṛti of the Sāṃkhyas: Primal Substance / primal; the principal part: essence}
+གསང: {hidden, esoteric: secret}
+འཁྱམ: {roam without direction: wander}
+མ་གཏོགས་པ: {leaving aside: except / apart}
+བརྟུལ་ཞུགས: {ascetic observance: discipline / conduct / vows}
+བརྟུལ་ཞུགས་མང་པོས: {many ascetic observances: disciplines}
+བསྲུང་བར: {keeping watch over: guarding / protected}
+ལེགས་པར་བསྲུང་བར: {well kept watch over: well-guarded}
+ལེགས་གཟུང: {firmly held: well-held}
+སྒྲིམས་ཏེ: {with concentrated attention: carefully}
+མ་གྲངས་དྲོལ་བའི: {unrestrained: fierce / wild}
+བག་བྱེད: {take care: guard}
+བག་བྱེད་བཞིན: {taking care: guards}
+གནས་པས: {dwelling: living}
+སྐྱེ་བོ: {a human individual: people}
+རྨ: {an open sore: wound}
+བསྡུས་འཇོམས: {being crushed: crushing}
+རིས་འཇོམས: {being torn apart: dismemberment}
+སྐྲག་པ: {being afraid: fear}
+སྐྲག་པ་དག: {things feared: fears}
+བག་བྱེད་ན: {take care: guard}
+སྲུང: {keep watch over: guard}
+སེམས་ཀྱི་རྨ་ལྟ་ཅིས་མི་སྲུང: {guarding the wound of the mind: guard the mind}
+ངན་པ: {bad in quality: bad / wretched / ugly}
+སྡོམ་བརྩོན: {exertion in restraint: discipline}
+ཉམས་མི་འགྱུར: {does not become impaired: harmed}
+གནས་བྱེད་ན: {dwells: lives}
+གནས་སམ: {dwells: lives}
+གནས་ཀྱང་རུང: {dwells: lives}
+བརྟན་པ: {firmness of resolve: steadfastness}
+བུད་མེད: {female persons: women / woman / female}
+མེད་བླ: {gone from one: lost}
+ཉམས་བླ: {gone to ruin: lost}
+ནམས་ཀྱང: {at no time: never}
+བཀུར་སྟི: {deference shown: respect / honor}
+འབད་པས: {applying effort: effort / diligently}
+སྦྱོར: {brought together: joined / folded}
+སྲུངས་ཤིག: {keep watch over (imperative): guard}
+དྲན་པ་དང་ནི་ཤེས་བཞིན་དག །ཐམས་ཅད་འབད་པས་སྲུངས་ཤིག: {full line, keep mindfulness and awareness: Guard mindfulness}
+ཐལ་མོ་སྦྱོར: {palms joined in entreaty: implore}
+དཀྲུགས་པ: {thrown into disorder: disturbed / afflicted}
+མཐུ་མེད་པ: {without capacity: powerless}
+ལས་རྣམས: {deeds, works: tasks / actions}
+མེད་པའི: {not possessing: lacks / lacking / mind lacks; devoid of: free}
+གློ་རྡོལ: {having a hole in it: leaky}
+བསྒོམས་པ: {cultivating in meditation: meditating}
+སེམས་ལྡན་པའི: {possessed of such a mind: mind lacks}
+ཤེས་བཞིན་མེད་པའི་སེམས་ལྡན་པའི: {a mind devoid of watchfulness: mind lacks awareness}
+བུམ་པ: {a vessel: pot}
+ཆུ: {the liquid: water}
+ཆགས་པས: {gripped by craving attraction: attachment / afflicted}
+ལྷུར་ལེན: {applying oneself earnestly: diligently}
+ལྟུང་བ: {transgression of vow: downfalls / falls / fault}
+དད་པ་ཅན: {possessed of trusting confidence: faithful}
+སྐྱོན: {defect, blemish: fault / faults}
+ཐོས་ལྡན: {well-versed through hearing: learned}
+རྙོག་དང་བཅས་པར: {marred, muddied: stained}
+ཉེར་བསགས: {built up: accumulated}
+ཕྲོགས: {carried off: stealing / away}
+འགྲོར: {realms of rebirth: realms}
+ཆོམ་རྐུན: {one who takes by force: robbers / thieves / thief}
+རྐུན་པོས: {one who takes stealthily: thieves}
+ཤེས་བཞིན་མེད་པའི: {lacking watchfulness: unawareness}
+འཇོམས་པར: {overpower, wipe out: destroy / overcome}
+རྙེད: {come upon, acquire: find / found / obtain / obtained}
+གླགས་སྐབས: {an unguarded moment: opening / opportunity}
+ཚོལ་བར: {looks about for: seeks}
+འཕྲོག་ཅིང: {take by stealth: steal}
+ཉེ་བར་བཞག: {place close by: bring}
+སོང་ནའང: {even if gone: depart}
+སྒོ: {opening of entry: gate / doors}
+མི་གཏོང་ངོ: {does not allow: let}
+ནམ་ཡང: {at no time: never}
+དྲན་པར་བྱས་ཏེ: {bring to mind: recall}
+དེ་བས: {consequential connective: therefore}
+འགྲོགས་པ་ལས: {keeping company with: associating}
+བདེ་བླག་ཉིད་དུ: {without difficulty: easily}
+འཇིགས་པས: {being afraid: fear}
+མཁན་པོས: {monastic preceptors: masters / teachers}
+གུས་བྱེད་ལ: {showing deference: respectful}
+བླ་མ: {spiritual instructor: teacher / teachers / spiritual}
+བྱང་ཆུབ་སེམས་དཔའ་དག: {those bent on awakening: bodhisattvas}
+སངས་རྒྱས་བྱང་ཆུབ་སེམས་དཔའ་དག: {the awakened ones and their heirs: Buddhas and Bodhisattvas}
+ཀུན་དུ: {in every place: everywhere}
 སྤྱན: {eyes (honorific): eyes}
-སྤྱན་རས་གཟིགས: {Avalokiteśvara (proper name): Avalokiteśvara}
-སྤྱན་རས་གཟིགས་མགོན: {Protector Avalokiteśvara (proper name/title): Protector Avalokiteśvara}
-སྤྱན་སྔ: {before (the eyes of): before}
-སྤྱན་སྔར: {before the eyes (term): before the eyes}
-སྤྱི: {universal, head/chief: universal / head}
-སྤྱི་བོ: {the crown of the head: head}
-སྤྱི་རྟོལ: {brazen (term): brazen}
-སྤྱི་སྟེགས: {a universal bridge: universal bridge}
-སྤྱོད: {to behave, use: behaves / use}
-སྤྱོད་པ: {conduct: conduct / Way; acting, behavior: acting / behavior; practice (term): practice; to dwell: dwell}
-སྤྱོད་པ་: {conduct (term): conduct}
-སྤྱོད་པ་ལ་འཇུག་པ: {entering the conduct (title): Way}
-སྤྱོད་པའི་ལུས: {the body which practices: body which practices}
-སྤྱོད་པར: {to enjoy: to enjoy / enjoy}
-སྤྱོད་པོ: {an experiencer: experiencer}
-སྤྱོད་མཛད་པ: {acts (honorific): acts}
-སྤྱོད་ཡུལ: {an object (domain): object}
-སྤྲིན: {cloud(s): clouds / cloud}
-སྤྲིན་ཆེན: {great clouds (term): great clouds}
-སྤྲིན་བྲལ: {cloudless (term): cloudless}
-སྤྲིན་རུམ: {a clouded sky: clouded sky}
-སྤྲུལ་པ: {a conjured illusion: conjured up / magical illusion}
-སྤྲོ་བ: {enthusiasm, revelry: enthusiasm / revelry}
-སྤྲོ་བའོ: {taking joy (in virtue): taking joy}
-སྤྲོ་བས: {by enthusiasm (term): by enthusiasm}
-སྦ: {concealed (action/state): concealed}
-སྦ་བ: {to hide: hide}
-སྦྱང་བ: {trains, purifies: trains}
-སྦྱར: {to join, joined: join / joined}
-སྦྱར་ཏེ: {joining (action/state): joining}
-སྦྱིན: {to give, generosity: generosity / paying wages / give / granted}
-སྦྱིན་པ: {generosity, giving: generosity / giving; bestows, generous: bestows / generous}
-སྦྱིན་པའི་ཕ་རོལ་ཕྱིན: {perfection of generosity (term): perfection of generosity}
-སྦྱིན་པར་: {to give (term): to give}
-སྦྱིན་པར་བྱེད་པ: {gives (term): gives}
-སྦྱིན་བདག: {lord of generosity, benefactor: lord of generosity / benefactor}
-སྦྱོར་བ: {applying (action/state): applying}
-སྦྱོར་བར: {begins, engages in: begins}
-སྦྲང་བུ: {mosquitoes (term): mosquitoes}
-སྦྲང་རྩི: {honey, nectar: honey / nectar}
-སྦྲུམ་མ: {pregnant women (term): pregnant women}
-སྦྲུལ: {snake(s): snake / serpents / snakes}
-སྦྲེལ་བ: {bound (term): bound}
-སྨད: {reprehensible, reproach: reprehensible / reproach}
-སྨད་པ: {reprehensible (term): reprehensible}
-སྨད་པའི་: {an object of reproach: object of reproach}
-སྨན: {medicine(s): medicine / medicinal plants / medicines}
-སྨན་ཆེན: {a great medicine: great medicine}
-སྨན་དག་: {medicines (term): medicines}
-སྨན་དཔྱད: {a medical text: medical text}
-སྨན་པ: {physician(s), doctor: physician / doctor / physicians}
-སྨན་པ་མཆོག: {the Supreme Physician: Supreme Physician}
-སྨན་པའི་: {the physician's: physician's}
-སྨིན་གྱུར་ཅིག: {may (it) ripen: may ripen}
-སྨོད: {to speak ill of, despise, blame: speak ill / despise / blamed}
-སྨོད་པ: {to revile, disparage: revile / abuse / disparages / reviled / contempt; quarrelsome speech (term): quarrelsome speech}
-སྨོན: {to wish: wish}
-སྨོན་པའི: {aspiring (action/state): aspiring}
-སྨོན་པའི་སེམས: {the aspiring mind (of bodhicitta): the mind that aspires}
-སྨོན་ལམ: {aspirations (term): aspirations}
-སྨོས་ཅི་དགོས: {what need is there to speak (rhetorical): what need is there to speak}
-སྨོས་ཅི་དགོས་: {how much more so (rhetorical): how much more so}
-སྨྱོན་པ་: {a madman: madman}
-སྨྱོས་པ: {maddened (action/state): maddened}
-སྨྲ: {to speak, speech: speak / speech}
-སྨྲ་བ: {to claim, hold (assert): claim / hold}
-སྨྲ་བ་: {speaking (action/state): speaking}
-སྨྲ་བར: {to speak: speak / speak up}
-སྨྲ་བར་བྱ: {I should speak (proper name/title): I should speak}
-སྨྲ་མི་བྱ: {should not speak (term): should not speak}
-སྨྲས་པ: {said (term): said}
-སྨྲོས: {tell me (imperative): tell me / state}
-སྲན་གཟུགས: {to stand firm: stand firm}
-སྲས: {heirs, children: heirs / children / child; child of the Victors (epithet): child of the Victors}
-སྲས་: {heirs (spiritual children): heirs}
-སྲིད: {to that same extent, as possible: to that same extent}
-སྲིད་ན: {in existence (term): in existence}
-སྲིད་པ: {existence (term): existence}
-སྲིད་པའང: {also possible: possible}
-སྲིད་པའི: {of (cyclic) existence: of existence}
-སྲིད་པའི་ལམ: {the road of (cyclic) existence: road of existence}
-སྲིད་མིན: {impossible (term): impossible}
-སྲིད་ལམ: {path of (cyclic) existence: path of existence}
+ལྡན: {be endowed with: possess / possesses / filled}
+ཐོགས་མེད: {meeting no impediment: unobstructed}
+གཟིགས་པར: {seeing (honorific): vision}
+ཡང་དང་ཡང་དུ: {repeatedly: again / repeatedly}
+གནོས: {wary: cautious}
+འཇིགས་ལྡན: {possessed of fear: fear}
+རྗེས་དྲན་པ: {calling to mind: recollection}
+གུས: {deference: respect}
+ངོ་ཚ: {sense of shame: shame}
+དེས་ན: {consequential connective: therefore}
+བསམས་ནས: {having considered: thinking / reflected}
+འོང་འགྱུར: {come about: arise}
+བསྲུང་བའི་དོན་དུ: {for the sake of keeping watch: guarding}
+སོང་བ: {gone from one: lost}
+གནས་གྱུར་པ: {stays in place: remains}
+འོང་བར་འགྱུར: {will come back: return}
+སྐྱོན་བཅས: {marred by defect: flawed}
+ཤེས་བྱས་ནས: {having come to know: knowing}
+ཤིང་བཞིན་དུ: {inert as a log: piece of wood}
+དོན་མེད་གཡེང་བར: {to no purpose: aimlessly}
+སེམས་པས: {directing the mind: attention / mind}
+གཡེང་བར: {with the mind wandering: distractedly}
+ངེས་པར་སེམས་པས: {with settled attention: focused}
+ལྟ་བ: {direction of the eyes: gaze; philosophical position: views}
+བྱ་སྟེ: {maintain: keep}
+བལྟ་བར: {direct the eyes at: look / observe / examined}
+ཕབ་སྟེ: {cast downward: lowered}
+སྣང་གྱུར་ན: {comes into view: appears}
+བལྟས་ནས: {having directed the eyes: look / looking}
+རེས་འགའ: {now and then: occasionally}
+ངལ་བསོ: {taking respite: resting}
+མིག་ལམ: {range of vision: sight}
+འགའ་ཞིག: {indefinite person: someone}
+ལེགས་ཞེས་བརྗོད: {utter a greeting: welcome}
+རྒྱབ་ཀྱི་ཕྱོགས་སུ: {to the rear: behind}
+བརྟག་པའི་ཕྱིར: {in order to check: check}
+ཕྱོགས་བཞིར: {the four quarters: directions}
+ཁ: {the head, the face: head / mouth}
+བལྟ: {direct the eyes at: look / gaze / examine / examined}
+ངལ་བསོས: {taking respite: resting}
+ཕྱིར་བལྟས་ནས: {having looked back: turn}
+སྤྱད་པར: {put into practice: practice / practiced; carry out: act; partake of: experience}
+མདུན: {to the front: ahead}
+དགོས་པ་ཤེས་ནས: {knowing what is needed: appropriate}
+རྒྱབ་ཏུ: {to the rear: behind}
+བརྟག་བྱས་ནས: {having checked: checking}
+ཤེས་ནས: {having come to know: knowledge}
+གནས་སྐབས་ཐམས་ཅད་དུ: {in all circumstances: situations}
+བསྡོགས་ནས: {having made ready: prepared / having}
+གནས་བྱ་ཞེས: {resolving to remain: keep}
+གནས་པ་ཡིན་ཞེས: {holding oneself in place: positioned}
+འབད་པ་ཀུན་གྱིས: {with every effort: effort}
+མི་འཆོར་བར: {without slipping away: escape / waver}
+སེམས་པའི: {directing the mind: focusing}
+ཀ་ཆེན: {a great post: pillar}
+བཏགས་པ: {tied fast: tied}
+ཏིང་འཛིན: {samādhi, meditative absorption: concentration / meditative}
+སྤྱོད: {act, behave: acts / act / conduct / engaged / dwell; keep company with: associates; partake of: enjoy}
+སོ་སོར: {one by one: individually}
+ཡིད་འདི་གར་སྤྱོད: {where this mind is engaged: mind engaged}
+ཡིད་ལ་སོ་སོར: {in the mind, one by one: mind individually}
+བྱ: {do, perform: act / perform; bring into being: cultivated / develop; undergo: feel; winged creatures: birds}
+བཏང་སྙོམས: {indifference, letting be: aside}
+དགའ་སྟོན: {festive occasion: celebration / festivals / joys}
+འབྲེལ་བར: {attendant conditions: circumstances}
+འདི་ལྟར: {introducing an instance: example}
+སོགས: {and the rest: similar}
+དུས་དག་ཏུ: {occasions: times}
+བསམས་ཏེ་བྱར་བརྩམས་པ: {having decided to act: decided}
+གཞན་དུ: {something distinct: else / elsewhere; if not so: otherwise}
+དེར་གཏད་པ་ཡི: {fixed on that: focused}
+བསམ་པ་ཡིས: {intention, mind-set: mind}
+དེར་གཏད་པ་ཡི་བསམ་པ་ཡིས: {intention fixed on that: mind focused}
+དེ་ཉིད: {that very thing: thing / task / particular / entity / himself; suchness, the real: truth / reality / truly}
+ལེགས་བྱས: {done well: accomplished}
+ཉེ་ཉོན་མོངས: {secondary kleśas: afflictions}
+ཉེ: {secondary, subsidiary: minor}
+སྤང་བར་བྱ: {give up: abandon / abandoned}
+ཆགས་པ: {rāga, craving attraction: attachment / attachments / attached}
+བྲེ་མོའི་གཏམ: {pointless talk: chatter}
+འཇུག་པར: {undertake, go into: engaging / enter}
+བྲེ་མོའི: {serving no purpose: idle}
+ལྟད་མོ: {shows, entertainments: spectacles}
+སྣ་ཚོགས: {of many kinds: various / kinds}
+རྣམ་མང་པོ: {of many kinds: various}
+ངོ་མཚར: {striking, out of the ordinary: wondrous / amazing / surprising / wonder}
+དོར: {give up: abandon / abandoning / cast / letting}
+གཅོད: {severing: cutting}
+རྐོ: {breaking ground: digging}
+འདྲི: {tracing marks: drawing}
+སྐྲག་པས: {being afraid: fear / terrified}
+རྩྭ: {low ground plants: grass}
+མོད་ལ: {at once: immediately}
+དྲན་བྱས་ནས: {bring to mind: recall / remembering}
+བསྐྱོད་པར: {set in motion: act}
+རིག་པ: {vidyā, clear knowing: awareness}
+བརྟགས་ནས: {subject to scrutiny: examine / examined / having}
+སྨྲ་བར: {say, utter: speak}
+བརྟན་པས: {firm, unwavering: steady}
+གང་ཚེ: {at whatever time: whenever}
+འདོད་གྱུར་ཏམ: {come to want: wishes}
+འདོད་པར: {want, desire: wishes / desire}
+ལས་སུ་མི་བྱ: {should not act: act}
+ཁྲོ་བར: {angry state: anger / angry}
+ཡིད་ཆགས་པ་དང་...འདོད་པ: {when the mind craves: mind desires}
+རང་ཡིད་ཆགས་པ་དང: {one's own mind gripped by craving: mind desires attachment}
+སྨྲ: {say, utter: speak}
+ང་རྒྱལ་རྒྱགས་ལྡན་པ: {puffed up with self-importance: arrogant / conceited}
+སླུ་སེམས: {intent on misleading: deceitful}
+འབྲུ་བ: {lay bare: expose}
+མཚང: {hidden defects: faults}
+སྐྱོར་འབྱིན: {ingratiating: flattering}
+སྐྱོར་འབྱིན་སླུ་སེམས: {an ingratiating, deceiving mind: flattering mind}
+རྒོད: {derisive laughter: laughter}
+ག་ཞར: {derision: mockery}
+ལྡན་པ: {possessed of, given to: endowed / prone}
+སྨོད་པ: {find fault with: criticize / criticizing / criticism}
+ལྷུར་ལེན་པ: {given over to: eager / prone}
+བདག: {oneself: oneself / myself / yourself / themselves; ātman, a substantial self: self; master, lord: lord}
+ཤིང་བཞིན: {inert as a log: piece of wood}
+བསྟོད: {commend: praise / praised / praising}
+འགྱོད: {remorse: regret}
+གཤེ་བཅས: {with rebuke: scolding}
+གཡོག་འཁོར: {those in one's service: attendants}
+གྲགས: {public reputation: fame / renown}
+སེམས་...འདོད་གྱུར་ན: {when the mind desires: mind desires}
+བདག་སེམས་རིམ་གྲོ་འདོད་གྱུར་ན: {when my mind wants to be waited on: mind desires service}
+རིམ་གྲོ: {being waited on: respect / honored}
+གཉེར་འདོད་པ: {wish to seek out: seek}
+སྨྲ་བར་འདོད་པའི་སེམས: {a mind wanting to speak: mind desiring}
+ཡལ་བར་འདོར་བ: {lets slide: neglects}
+གཉེར་བར: {go after: pursue}
+ཞེན: {fixation: clinging}
+མུ་ཅོར: {pointless talk: idle / talk}
+མི་བཟོད: {unwilling to bear: impatience; too severe to endure: unbearable}
+ལེ་ལོ: {unwillingness to exert: laziness}
+ཕྱོགས་ཞེན་སེམས: {a mind attached to a side: mind clinging}
+སྤྱི་རྟོལ: {acting without care: recklessness}
+ཕྱོགས: {a side taken, partisanship: side / view; classes of factors: factors / qualities / forces}
+གཉེན་པོ: {counteragent: antidote}
+བརྟན་པོར: {steadily: firmly}
+གཟུང་བར: {take hold of: grasp}
+དཔའ་བོས: {courageous one: hero}
+ཞི་ཞིང: {quiet, at peace: calm}
+ཤིན་ཏུ་ངེས: {full conviction: certainty}
+རབ་དད: {deep trusting confidence: faith}
+འཇིགས་བཅས: {possessed of fear: fear}
+ཞེ་སར: {deference, modesty: humility}
+དགའ་བྱེད: {give pleasure to: please}
+བརྟན: {firmness of resolve: steadfastness}
+བརྩེར: {loving concern: compassion}
+མི་མཐུན: {at odds with: conflicting / opposing}
+མི་སྐྱོ་ཞིང: {not losing heart: disheartened}
+བྱིས་པ་ཡི: {spiritually immature: foolish / foolish people / people}
+ཁ་ན་མ་ཐོ་མེད: {without fault: blameless}
+དབང་བྱས་ཤིང: {exercise mastery: exert}
+སྤྲུལ་པ: {a conjured emanation: illusion}
+དངོས་ལ: {actual things: matters}
+ང: {the "I": self; bad in quality: bad}
+རབ་ཏུ: {intensifier: completely / utterly}
+ལོན་ནས: {having got: having}
+རིང་ཞིག: {for a long while: long time}
+ཡང་དང་ཡང: {over and over: repeatedly}
+མི་གཡོ: {not stirring: unmoving}
+ཆགས་པ་ཡིས: {gripped by craving attraction: clinging / attached}
+མི་དགར: {displeasure: dislike / unhappiness}
+ཁྲིད: {pull along: drag}
+ཤ: {flesh of the body: flesh}
+ཕན་ཚུན: {one toward another: mutual / mutually / towards / forth}
+ཁ་ཏ་བྱེད: {make a fuss over: fuss}
+བྱ་རྒོད: {carrion birds: vultures}
+གཟུང་བྱས་ནས: {having taken hold: having}
+བདག་གིར: {as belonging to me: mine}
+སྲུང་བར: {keep safe: protect}
+སོ་སོ་ན: {apart from one another: separate}
+ཅི་ཞིག: {interrogative: why; indefinite thing: something}
+གཙང་མ: {free of filth: clean}
+རུལ་བ: {rotting: decaying}
+རྨོངས་པའི: {lacking understanding: foolish / deluded}
+རྨོངས་པའི་ཡིད: {a mind lacking understanding: Foolish mind}
+གཟུགས: {visible form, rūpa: form / forms; the body: body; a likeness: image}
+འཁྲུལ་འཁོར: {a contrivance, mechanism: machine}
+བསྲུངས་ཏེ: {keep safe: protect}
+ཅི་ཡི་ཕྱིར: {interrogative of reason: why}
+ཅི་ཞིག་རུང: {rhetorical, what is the point: why}
+རུས་པ: {the bones: bones}
+རིམ་པ: {a stratum: layer}
+དྲ་བ: {a mesh: network}
+ཐ་དད་ཕྱེ: {set apart: separate}
+གུད་དུ་ཕྱེ: {set apart: separate}
+པགས་པ: {the skin: skin}
+ཅི་ཡོད་ཅེས: {ask what there is: ask}
+སྙིང་པོ: {the core, essential part: essence}
+བརྟག་པར: {subject to scrutiny: examine / investigate}
+བལྟ་བྱ་ཞིང: {look into: investigate}
+རྐང: {marrow of the bones: marrow}
+དབྱེ་བྱས་ནས: {taking apart: separating}
+ཆགས་ཚུལ་གྱིས: {by way of craving attraction: attachment}
+མཐོང་ན: {come upon: find}
+བཙལ་ཀྱང: {even having searched: search}
+འབད་དེ: {apply effort: strive / striving / diligently / effort}
+ཁྲག: {fluid of the body: blood}
+མི་རུང: {is not fit: cannot}
+བཏུང་དུ: {take as drink: drink}
+བཟར: {take as food: eat}
+རྒྱུ་ལྟོ: {the entrails: intestines}
+གཞིབ་ཏུ: {lap up: lick}
+ཝ: {jackals: foxes}
+མི་འོ་ཅོག་གི་ལུས: {the bodies of all humans: human body}
+ཉིད་དུ་ཟད: {no more than: merely}
+ཉིས་ན: {consequential connective: therefore}
+འཆི: {cease to live: death / dies}
+ཁྱིར: {domestic canines: dogs}
+བྱིན་ན: {hands over: gives}
+བརྩེ་བ་མེད་པ་ཡིས: {without pity: merciless}
+བསྲུངས་ཀྱང: {even if kept safe: protect}
+ཕྲོགས་ཏེ: {takes away by force: seizes}
+མི་བཏུབ: {is not possible: cannot}
+གོས: {garments: clothes}
+བཀོལ་དུ: {put to work: employed}
+བསྙོད: {provide with food: feed}
+གསོ: {sustain, nourish: feed}
+འགྲོ་ན: {if it goes: goes}
+ཤ་ཐང: {to the point of exhaustion: lavishly}
+བྲན་གཡོག: {one in service: servant}
+བྱིན་ནས: {having given: having}
+ཆུག: {allow: let}
+གླ་རྔན: {payment for service: wages}
+བསྒྲུབ་པའི་ཕྱིར: {for the sake of accomplishing: accomplish}
+འོང་བ: {arriving: coming}
+ཙམ་དུ: {no more than: merely}
+བློ་བཞག་སྟེ: {having set the mind on: regard}
+བསྒྱུར: {turn into something else: transform}
+ཡིད་བཞིན་གྱི: {granting whatever is wished: wish-fulfilling}
+ཐོང་སྟེ: {let go of: abandon}
+ཡོངས: {in full: completely}
+ཡོངས་ཐོང་སྟེ: {let go of entirely: completely abandon}
+ངོ་ཟུམ: {sour expression: scowling / face}
+རང་དབང: {not under another's control: freedom / independent}
+ཁྲོ་གཉེར: {knitted brow: frowning}
+གསོང་པོར: {in a mild manner: gently / speaking}
+གྱིས: {maintain: keep}
+འཛུམ་པའི་བཞིན: {a smiling countenance: smiling}
+བབ་ཅོལ་དུ: {without due care: carelessly}
+ཁྲི: {seats: chairs}
+དྲག་ཏུ: {with violence: forcefully}
+སྒྲ་དང་བཅས་པར: {making noise: loud}
+གཅོམ་བསྐྱུངས: {subdued, restrained: quiet}
+མི་དོར་རོ: {does not fling down: throw}
+སྒྲུབ་པ: {bring about: accomplish}
+བྱི་ལ: {a cat: cat}
+འཇབ་ཅིང་འགྲོ་བ: {moves stealthily: creeps}
+འདོད་པའི: {wanted, sought: desired / desires / desire}
+ཆུ་སྐྱར: {a wading bird: heron}
+སྒྲ་མེད: {making no sound: silently / silent}
+བླང་གྱིས་ཏེ: {take up, accept: accept}
+སྤྱི་བོས: {the crown of the head: head / bowing}
+གཞེན་བསྐུལ: {urging on: encouraging}
+ཀུན་གྱི: {of all persons: everyone}
+གུས་པས: {with deference: respect}
+མཁས་ཤིང: {expert: skilled / wise}
+སློབ་མར: {one who trains under another: student}
+བྱེད་པ: {do, perform: doing / performing / commit / makes; a deed: deeds; the one who acts: agent}
+བསྟོད་པས: {commend: praise / praised / praising}
+བརྗོད་པར: {say, utter: speak}
+དགེ་བར: {wholesome: virtuous}
+རྗེས་སུ་བརྗོད: {voice agreement after another: echo}
+བརྗོད་བྱ་ཞིང: {commend: praise}
+བརྗོད་ན: {commended: praised}
+རིག་པར: {come to recognize: recognize}
+ལྐོག: {out of sight: secret}
+ཤེས་པར: {come to know: understanding / understood / know}
+རྩོམ་པ: {undertaking, endeavour: effort / efforts}
+དགའ: {gladness: joy / delight / happy}
+དཀོན: {hard to come by: rare}
+སྡུག་བསྔལ་ཞིང: {undergo pain: suffers}
+མི་དགའ: {displeasure: unhappy / unhappiness}
+སྤངས་པ: {given up: abandoned}
+རན་པར: {in fitting measure: appropriately}
+ཆགས: {rāga, craving attraction: attachment / attached}
+ཡིད་ཕེབས: {settled confidence: conviction}
+འཇམ་ཞིང: {in a mild manner: gently}
+སྤངས་པ་དང: {having given up: having}
+ཡིད་དུ་འོང་བ: {agreeableness: pleasantness}
+འབྲེལ་པ: {bearing on the matter: relevance / connection}
+སྨྲ་ན: {say, utter: speaking}
+ལྟ་ན: {direct the eyes at: look / looking}
+བྱམས་པའི་ཚུལ་གྱིས: {in a manner of loving-kindness: loving-kindness}
+དྲང་ཞིང: {straightforwardness: sincerity}
+མངོན་ཞེན: {fixation on: attachment; directed longing: aspiration}
+ཕན་འདོགས: {do a good turn: benefit}
+བསླང་བ: {roused, prompted: inspired}
+སྡུག་བསྔལ་བ: {undergo pain: suffer}
+དགེ་ཆེན: {great wholesome act: virtue}
+སུ་ལ་ཡང: {indefinite person: anyone}
+ལྡང་དང་ལྡན: {full of vigour: energetic}
+བདག་གིས: {oneself as agent: myself}
+ལྟོས་པར: {depend on: rely}
+མི་གཏང: {does not give up: abandon}
+གོང་ནས་གོང་དུ: {higher and higher: advancing}
+བསམ་མོ: {turn over in mind: consider}
+གཙོ་ཆེར: {chiefly: primarily}
+རྣམས་ཀྱང: {instances: cases}
+ཐུགས་རྗེ: {compassion (honorific): compassion}
+བཀག་པ: {proscribed: forbidden}
+རིག་བྱས: {having come to know: understood / having}
+གནང: {allow: permit}
+བགོ་བྱ་ཞིང: {share out: distribute}
+བཟའ་བྱ: {take as food: eat / food}
+ལོག་པར་ལྟུང: {go astray: error}
+ལྟུང: {incur a downfall: fallen / becomes}
+རན་པ་ཙམ་དུ: {in fitting measure: moderate}
+ཆོས་གོས: {monastic robes: robes}
+གནས་ལ: {keep to, maintain: uphold}
+རྫོགས་པར: {bring to completion: fulfilled / fulfill}
+གནོད་མི་བྱ: {should not do injury: harm}
+མྱུར་དུ: {without delay: quickly}
+དམ་པའི: {holy, of the highest sort: sacred}
+ཕྲན་ཚེགས: {of little importance: trivial}
+སྒྲུབ་པའི: {bringing about: accomplish}
+སྙིང་རྗེའི: {karuṇā, compassion: compassion / compassionate}
+དག་པར: {free of stain: pure; completely: thoroughly}
+ཐོགས: {bear, hold: carry}
+གཡོགས་པ: {having as covering: covered / wear}
+དཀྲིས: {wrapped covering: coverings / wear}
+མགོ: {the head: head}
+ན་བཞིན་དུ: {as if ill: ill}
+མ་གུས་པ་ལ: {those without deference: lack}
+གུས་པ: {deference: respect / reverence}
+འཁར་བ: {walking staffs: staffs}
+མི་བཤད: {does not expound: teach}
+གདུགས: {parasols: umbrellas}
+མཚོན: {bladed weapon: weapons / weapon}
+རྣམས་ལ: {modes, respects: aspects}
+མཚུངས་པར: {on a par: equal}
+དམན: {of lower rank: lesser / lowly}
+ཟབ: {deep, hard to fathom: profound}
+རྒྱ་ཆེ: {of great extent: vast}
+རྒྱ་ཆེ་...ཆོས: {the vast Dharma: vast Dharma}
+དོར་མི་བྱ: {should not discard: abandon}
+ཡོངས་སུ: {in full: completely / fully}
+ཡོངས་སུ་དོར་མི་བྱ: {should not discard entirely: completely abandon}
+སྦྱར་མི་བྱ: {should not engage in: engage}
+དམན་པའི: {of lower rank: lesser / inferior}
+འདྲིད་མི་བྱ: {should not lead astray: misled}
+མདོ: {discourses of the Buddha: sutras / sutra}
+སྔགས: {esoteric formulae: mantras / tantras}
+རྒྱ་ཆེན: {of great extent: vast}
+རྒྱ་ཆེན་ཆོས: {the vast Dharma: vast Dharma}
+སྣོད: {a container: vessel}
+དགབ་པར: {put a lid on: cover}
+དོར་བ: {throw away: discard / discarding / abandoning / letting}
+ཐང་ལ: {bare ground: ground}
+སྨད: {find fault with: criticize / criticism; not proper: improper; married partners: spouses}
+སོགས་པའང: {and the rest: others}
+མཆིལ་མ: {spittle: saliva}
+སོ་ཤིང: {sticks for cleaning teeth: tooth-sticks}
+གཅི: {bodily waste fluid: urine}
+བཟའ་མི་བྱ: {should not take as food: eat}
+ལག་པ: {the hands: hand / hands / arms}
+རྐང་པ: {the legs: legs / feet}
+བརྐྱང་སྟེ: {stretched out: outstretched}
+མཉེའོ: {rub with the hand: rub}
+གཅིག་མི་བྱ: {should not be done alone: alone}
+མལ་སྟན: {sleeping places: beds}
+མ་དད: {lack of confidence: disrespect}
+དྲིས་ཏེ: {putting a question: inquiring}
+མཐོང: {perceive with the eyes: seeing / observing}
+ཀུན: {the whole of: whole / everything / things; all persons: anyone}
+བཞོན་པ: {conveyances: vehicles}
+སོར་མོས: {with the finger: finger}
+བརྡ་ནི་མི་བྱ: {should not point out: indicate}
+གཡས་པ་ཡི: {the right side: right}
+ཤས་ཆེར: {to an excessive degree: excessively}
+ལ་སོགས: {and the like: like}
+བརྡ་བྱས་ཏེ: {make a sign: signal}
+ཅུང་ཟད: {a small amount: slightly / anything}
+སེ་གོལ: {snapping the fingers: snapping}
+མ་བསྡམས་པར: {without restraint: unrestrained}
+ཐོག་མ་ཉིད་དུ: {at the outset: beginning}
+སྦྱར: {set to, applied: entered}
+ཉལ་བར: {lie down to sleep: lie}
+མྱ་ངན་འདས: {nirvāṇa: nirvana}
+མགོན་པོ: {one who shelters others: protector / protectors}
+ལྡང་སེམས་ལ: {intention to rise: resolve}
+ཕྱོགས་སུ: {a side, direction: side}
+ཚད་མེད་པར: {beyond measure: immeasurable / extent}
+དེ་སྲིད: {for that long: extent}
+སྦྱང་བ: {cleansing: purifying}
+གསུངས་པ་ལས: {as taught (honorific): taught}
+རྒྱལ: {epithet of a buddha, victor: buddhas / buddha; prevail: conquer / victory}
+ཞི་བྱ: {bring to quiescence: pacify}
+གདོན་བྱ་ཞིང: {say aloud: recite}
+བརྟེན་པས: {depending on: relying}
+ལྷག་མ: {what is left: remaining}
+ལན་གསུམ་དུ: {three occasions: times}
+གནས་སྐབས: {state of affairs: situation / circumstances}
+གསུངས་པ: {as declared (honorific): taught / spoken}
+བསླབ: {put into practice: train}
+བསླབ་པར: {the precepts to be trained in: training}
+ཅི་སྤྱོད་ཀྱང: {whatever one does: whatever}
+མི་འགྱུར: {does not come about: arise / cannot}
+གནས་པའི: {dwells: lives}
+གང་ཡང་མེད: {there is none at all: nothing}
+མཁས་པ: {one who is learned: wise / skilled / person}
+ཁོ་ནའི: {that alone: alone}
+བསྔོའོ: {turn merit toward a goal: dedicate}
+དངོས་སམ: {immediately: directly}
+བརྒྱུད་ཀྱང: {by intermediate steps: indirectly}
+མི་བཏང་ངོ: {should not be given up: abandoned}
+བཤེས་གཉེན: {spiritual companion: friend}
+དགེ་བའི: {wholesome, virtuous: virtuous / spiritual / good deeds}
+ཐེག་ཆེན: {Mahāyāna: mahayana / vehicle}
+རྣམ་ཐར: {account of a life: biography}
+བཀའ་སྩལ: {pronouncement (honorific): teachings / spoken / described}
+དཔལ་འབྱུང་བ: {proper name, Śrīsaṃbhava: paljung}
+བཀླགས་ནས: {having read: reading}
+བསྟེན་པའི: {depending on: relying}
+མདོ་སྡེ: {discourses of the Buddha: sutras / sutra}
+ནམ་མཁའི་སྙིང་པོའི: {of the Ākāśagarbha sūtra: akasagarbha}
+སྙིང་པོའི: {the core, essential part: essence}
+སྣང: {comes into view: appears / evident}
+བཀླག་པར: {read aloud: read}
+མདོ་སྡེ་རྣམས: {discourses of the Buddha: sutras}
+བཏུས་པ: {a compiled anthology: compendium}
+རྒྱ་ཆེར: {at length: extensively}
+སྤྱད་པ: {put into practice: practiced}
+བསླབ་པ་ཀུན་ལས་བཏུས་པ: {title, Śikṣāsamuccaya: sik}
+སྟོན་པས: {sets forth: teaches}
+ཡང་ན: {as another option: alternatively}
+མདོར་བསྡུས་པའི: {in condensed form: concise}
+འཕགས་པ: {ārya, spiritually exalted: noble}
+གཉིས་པོའང: {the two texts: works}
+མ་བཀག་པ: {not proscribed: forbidden}
+བསྲུང་བའི་ཕྱིར: {for the sake of keeping watch: guard}
+སེམས་ནི་བསྲུང་བའི་ཕྱིར: {in order to guard the mind: guard the mind}
+མཐོང་ནས: {perceive with the eyes: seeing / looking / having}
+གང་ལས་གང་ནི: {indefinite pronoun: whatever}
+ཁོ་ན: {that alone: alone}
+མཚན་ཉིད: {defining characteristic: definition}
+བརྟག་བྱ་བ: {subjecting to scrutiny: examining}
+བསྲུང་བའི: {keeping watch over: guarding / protecting}
+ཤེས་བཞིན་བསྲུང་བའི: {chapter title: Guarding Awareness}
+འགྲུབ: {be brought about: accomplished / achieved / achieve / attain / realized}
+ཕན་འགྱུར: {come to benefit: benefit}
+སྨན་དཔྱད: {medical treatise: medical / texts}
+བཀླགས་པ: {having read: reading}
+བརྗོད་པས: {by saying: speaking}
+འདི་དག: {these items: things / ones; these creatures: beings}
+ཚིག: {spoken words: words / speech}
+བཟོད་པ།: {kṣānti, forbearance: patience}
+བསགས་པ།: {amassed: accumulated}
+ཁོང་ཁྲོ།: {wrath: anger}
+འཇོམས་པར་བྱེད།: {overpowered: destroyed}
+བདེ་གཤེགས།: {epithet of a buddha, sugata: enlightened}
+བསྐལ་པ།: {vast cosmic ages: eons}
+སྦྱིན།: {dāna, giving: generosity / giving / bestow}
+ལེགས་སྤྱང་།: {fine conduct: good deeds}
+དཀའ་ཐུབ།: {hard ascetic practice: austerity}
+བསྒོམ་པར་བྱ།: {develop through practice: cultivate}
+ནན་ཏན་དུ།: {with sustained application: diligently}
+ལྟ་བུའི།: {comparison marker: like}
+ཚུལ།: {manner of behaving: ways / habits}
+ཉམས་མི་མྱོང་།: {does not undergo: experience}
+འཐོབ།: {come to have: find / receive}
+བདེ་བ།: {well-being, contentment: happiness}
+དགའ།: {gladness: joy / delight / happy}
+མི་མྱོང་།: {does not undergo: never}
+ཞི་བ།: {quiescence: peace}
+ཟུག་རྔུའི: {as if by a piercing dart: pierced}
+གཉིད།: {state of being asleep: sleep}
+བརྟན་མེད།: {not steady: unstable}
+ལྡན་པའི།: {possessed of: filled}
+སྡང་།: {dveṣa, aversion: hatred}
+དྲིན་བྱིན།: {did a kindness: helped}
+གསོད་པར་རྒོལ།: {set upon to kill: kill}
+རྗེ་དཔོན།: {one in authority: master}
+བཀུར་སྟི།: {deference shown: respect}
+ཁྲོ་བ།: {wrath: anger / angry}
+སྐྱོ་བར་འགྱུར།: {loses heart: disheartened}
+མཛའ་བཤེས།: {those held dear: friends}
+སྦྱིན་པས།: {dāna, giving: generosity}
+གནས་པ།: {remain, abide: live / stay}
+བདེར།: {in well-being: peace}
+བསྡུས་ཀྱང་།: {even if won over: won}
+བྱེད་པར་འགྱུར།: {brings about: causes}
+འཇོམས་པ།: {overpower, defeat: conquer}
+དགྲ།: {adversary: enemy / enemies}
+བདེ།: {well-being, contentment: happiness / happy}
+བསྒྲིམས་ཏེ།: {apply oneself intently: strive / strives}
+འདོད་པ།: {want, desire: desire; worth wanting: desirable}
+འཇོམས་སོ།: {overpowering: destroying}
+རྙེད་ནས།: {comes upon: finds}
+ཟས།: {what is eaten: food}
+བརྟས་ཏེ།: {grows strong: grows}
+བྱུང་གྱུར་པ།: {comes about: happens}
+གེགས།: {what stands in the way: hindrance / hindered}
+མི་འདོད།: {not wanted: undesirable / dislike; not want: wish / desire}
+མི་བདེ་བ།: {absence of well-being: unhappiness}
+གཞོམ་པར་བྱ།: {overpower, wipe out: destroy}
+དགྲ་བོ།: {adversary: enemy}
+ལས།: {deed and its effect, karma: actions; what a thing does: function; productive condition: cause}
+གནོད་པ།: {do injury: harm; the hurt undergone: suffering}
+དེ་ལྟས།: {consequential connective: therefore}
+འདོད།: {want, desire: desire / desires / desired / desiring / wish / wished / want; hold a position: considered}
+དཀྲུགས་མི་བྱ།: {throw into disorder: disturb}
+འགྲུབ།: {be brought about: accomplished / accomplishment / fulfilled / happened}
+དགེ་བ།: {wholesome quality or action: good deeds}
+བབ་ཀྱང་།: {befalls: happens}
+དགའ་བ།: {gladness: joy / joyful; be glad: rejoice}
+ཉམས་པར་འགྱུར།: {comes to be impaired: ruined / lost}
+མི་དགའ།: {displeasure: unhappy / unhappiness}
+ཅི་ལ།: {interrogative: whatever}
+མེད་ན།: {not existing: cannot / exist}
+བཅོས་སུ།: {put right: remedied}
+བརྙས།: {disparagement: contempt}
+རྩུབ།: {rough in manner: harsh}
+བཟློག་པས།: {the reverse: opposite}
+མི་སྙན།: {disagreeable to hear: unpleasant}
+མི་སྙན་ཞེས་བྱ།: {words disagreeable to hear: unpleasant speech}
+རྒྱུ།: {productive condition: cause / causes}
+བདེ་བའི་རྒྱུ་ནི་རེས་འགའ་འབྱུང་།: {full line, causes of happiness sometimes arise: happiness arise}
+ངེས་འབྱུང་།: {definite emergence from saṃsāra: liberation}
+རེས་འགའ།: {now and then: sometimes}
+དཀའ་ཟློག: {hard austerity: ascetic}
+བསྲེག: {consuming by fire: burning / burned}
+བཅད།: {severing: cutting}
+བཟོད་བྱེད།: {bear, put up with: endure}
+དད།: {trusting confidence: faith}
+ཐར་པ་ཡི།: {release from saṃsāra: liberation}
+ཅི་ཕྱིར།: {interrogative of reason: why}
+གོམས།: {grown used to: accustomed}
+འགྱུར་བའི།: {turning into: becoming}
+མི་འགྱུར་བའི།: {does not turn into: cannot}
+སླ་བར།: {not difficult: easy}
+བཟོད་པར་བྱོས།: {bear, put up with: endure}
+གནོད་པ་ཆེན་པོ་བཟོད་པར་བྱོས།: {bear up under great injury: endure great harm}
+གོམས་པས།: {being grown used to: familiarity}
+གནོད་པ་ཆེན་པོ།: {great injury: great harm}
+ཆུང་།: {of little consequence: minor}
+གང་ཡང་ཡོད་མ་ཡིན།: {there is none at all: nothing}
+བཀྲེས།: {need for food: hunger}
+གཡན་པ།: {irritation of the skin: itching}
+དོན་མེད།: {serving no purpose: meaningless}
+ཤ་སྦྲང་།: {biting insects: mosquitoes}
+སྦྲུལ།: {serpents: snake / snakes}
+སྐོམ།: {need for water: thirst}
+རྡེག: {blows struck: beatings}
+འཆིང་།: {state of being bound: bondage}
+གྲང་།: {low temperature: cold}
+བཟེ་རེ།: {easily hurt: delicate}
+གནོད་པ་འཕེལ།: {injury grows: harm}
+ཚ།: {high temperature: heat}
+རླུང་།: {moving air: wind}
+བོག་ཅིང་།: {give way: collapse}
+དཔའ་བརྟན།: {steadfastly courageous: courageous}
+བརྒྱལ་བར།: {lose consciousness: faint}
+མཐོང་ན།: {perceiving with the eyes: seeing}
+གྱུར་པ་ཡིན།: {has turned out: comes}
+ཁྱད་བསད།: {treat as of no account: disregard / disregarding}
+ངང་བརྟན།: {steadiness of temperament: steadfastness}
+མི་ཚུགས།: {not affected: untouched}
+རབ་དང་རྙོག: {stirred up: agitated}
+བྱུང་།: {come about: arise / arises}
+གཡུལ་འགྱེད་ལ།: {joining battle: battle / fighting}
+རྙོག་མི་བྱ།: {should not be stirred up: disturbed}
+སྡུག་བསྔལ་བྱུང་།: {pain comes about: suffering arises}
+མཁས་པས།: {one who is learned: wise}
+རོ།: {dead bodies: corpses}
+དཔའ་བོ།: {courageous ones: heroes}
+གསོད་པའོ།: {put to death: kill}
+ལྷག་མ།: {what is left: rest}
+རྒྱལ་བྱེད།: {truly victorious: true}
+དྲེགས་པ།: {haughtiness: arrogance}
+འཛེམ།: {keep clear of: avoid}
+སྙིང་རྗེ།: {karuṇā, compassion: compassion}
+འཁོར་བ་པ།: {one caught in saṃsāra: cycle / existence}
+སྐྱེ།: {come into being: arising; bring into being: generates}
+དགེ།: {wholesome quality or action: good deeds}
+བྱེད།: {do, perform: makes / act / commit / practice; deal out: inflict}
+སེལ་བར་བྱེད།: {clears away: removes}
+སྐྱོ་བས།: {world-weariness: weariness}
+ཁྲོ།: {in a state of wrath: angry}
+སེམས་ཡོད།: {beings possessed of mind: beings / sentient / minds}
+མཁྲིས་པ།: {bile, a bodily humour: bile}
+བསྐུལ།: {urged on: driven}
+ཅི་སྟེ།: {interrogative of reason: why}
+འབྱུང་བར་འགྱུར།: {come into being: arise / arises}
+ཉོན་མོངས་འབྱུང་བར་འགྱུར།: {kleśas come into being: troubling emotions arise / emotions arise}
+སྐྱེ་བར་འགྱུར།: {comes into being: arises}
+བསྐྱེད་པར་བྱ།: {bring into being: generate / produce}
+མ་བསམས་ཀྱང་།: {without intending: intending}
+རང་དབང་།: {not under another's control: independent}
+སྟོབས།: {capacity, might: power / strength}
+སྣ་ཚོགས་པ།: {of many kinds: various}
+ཚོགས་པ།: {gathered together: assembled}
+སེམས་པ།: {act of thinking: thinking; intent: intention}
+བསྐྱེད།: {brought into being: produced}
+བསམས།: {intent: intention}
+གཙོ་བོ།: {principal: primary}
+ཆེད་དུ།: {with deliberate aim: specific}
+སྐྱེ་བར།: {come into being: arise}
+འགག་པར།: {come to a stop: cease}
+གཡེང་འགྱུར་བ།: {turned aside: distracted}
+བྱར་ཡོད།: {there is something to do: done}
+བྱེད་པ་མེད།: {not acting: inactive}
+ཕྲད།: {come together with: met}
+མཁའ།: {open expanse: space / sky}
+བྱེད་པ།: {doing, performing: acting}
+བྱེད་པས།: {the one who acts: agent}
+འབྲེལ་པར།: {standing in relation: connection}
+སྔོན་བཞིན་ན།: {as before: remains}
+ཁྲོ་མི་འགྱུར།: {does not become angry: angry}
+གཞན་གྱི་དབང་།: {under another's control: dependent}
+དབང་མེད།: {not under one's own control: independent}
+ཤེས་ན།: {having come to know: knowing}
+རྒྱུན་ཆད།: {break in continuity: cessation}
+མི་རིགས།: {not in accord with reason: illogical / improperly / logical}
+རིགས་པ།: {in accord with reason: logical}
+བརྟེན་ནས།: {depending on: relying}
+བཟློག་པའང་།: {turning back: stopping}
+གྱུར་ཏོ།: {came about: arose}
+མནོས།: {keep, hold to: maintain}
+སོམས།: {consider (imperative): mind}
+ལུས་ཅན།: {embodied creatures: beings / living; of the body: physical}
+རྔམ་ཞིང་།: {grasping, avid: greedy}
+ཐོབ་བྱའི།: {what is to be obtained: obtain}
+ཚེར་མ།: {sharp plant spines: thorns}
+བུད་མེད།: {female persons: women}
+སྤྱོད་པ་ཡིས།: {by one's actions: actions}
+གཡང་སར།: {sheer drops: chasms}
+ཟ་བ།: {take as food: eat / foods}
+འགག་ཅིང་།: {be caught, suspended: hang}
+མི་འཕྲོད།: {not agreeing with one: incompatible}
+བྱེད་པ་ཡོད།: {there is dealing out: inflict}
+གནོད་པ་བྱེད་པ་ཡོད།: {injury is dealt out: inflict harm}
+མཆོང་།: {leap: jump}
+དུག: {toxic substance: poison / poisons}
+རང་ལ།: {to oneself: themselves}
+བསོད་ནམས་མ་ཡིན།: {demerit, karmically harmful: unwholesome}
+སྡུག: {held dear: dear; undergo pain: suffered / suffering}
+གནོད་མི་བྱེད།: {does not do injury: harm}
+གསོད་བྱེད་པ།: {puts to death: kills}
+ཁྲོ་བར།: {in a state of wrath: angry}
+སྐྱེས།: {come into being: arise}
+ཉོན་མོངས་སྐྱེས།: {kleśas come into being: troubling emotions arise / emotions arise}
+ཞུགས་པ་ལ།: {enters into: engages}
+བདག་གསོད།: {doing harm to oneself: self-harm}
+རྒྱ་ལ།: {of great extent: vast}
+བཀོན་འདྲ།: {find fault with: blame}
+སྲེག་པ།: {consuming by fire: burn}
+མེ།: {flame: fire}
+བྱིས་པ།: {spiritually immature: foolish / foolish people / people; a young one: child}
+བྱིས་པ་རྣམས།: {spiritually immature persons: foolish people / people / children}
+འཚེ་བྱེད་པ།: {doing violence: harming}
+སྐྱོན།: {defect, blemish: fault / faults}
+དུད་འཐུལ།: {obscuring vapour: smoke / obscure}
+དེས་པ།: {upright, honest: pure}
+དཀོན་པ།: {hard to come by: rare}
+ཁྲོ་ན།: {becomes angry: angry}
+རྦད་པས།: {urged on: driven}
+ཉིས།: {reflexive emphatic: itself}
+དངོས།: {an actual thing: object}
+དབྱུག་པ།: {a staff: stick}
+འཕེན།: {deal a blow: strike}
+བཀོལ་ཏེ།: {puts to use: wields}
+སེམས་ཅན་འཚེ་བྱེད་པ།: {doing violence to beings: harm sentient}
+འདི་འདྲ་བ།: {of the same sort: similar}
+ཁྲོ་བར་བྱ།: {should be angry: angry}
+ཕྱུང་ན།: {brought out, laid bare: exposed}
+མཚོན།: {bladed weapon: weapon}
+ཤུ་བ།: {a swelling sore: boil}
+སྲེད་མདོངས།: {blinded by craving: craving}
+གཟུགས།: {visible form, rūpa: form}
+བཟུང་གྱུར་ན།: {take hold of: grasp}
+འདྲ་བ།: {comparison marker: like}
+རེག: {contact by touch: touch}
+མི་བཟོད།: {too severe to endure: unbearable}
+བཀོན།: {find fault with: blame}
+བརྐམ་པས།: {be avid for: crave}
+ཉེས་པས།: {lapse, wrong: faults}
+གནོད་གྱུར་པ།: {was injured: harmed}
+བསྐྱེད་པ།: {brought into being: created}
+སྲུང་མ།: {wardens: guardians}
+དམྱལ་བ།: {the hell realms: hell}
+རལ་གྲི་ལོ་མ།: {the sword-leaf forest of hell: sword-leaves}
+དམྱལ་འདོང་།: {going to hell: hell}
+མ་བརླག་གམ།: {brought to ruin: ruined}
+དམྱལ་བར།: {the hell realms: hell}
+བཟོད་པས།: {kṣānti, forbearance: patience}
+རྟེན་བཅས་ནས།: {depending on: relying}
+ཁྲོ་བར་བྱེད།: {becomes angry: angry}
+ཕན་འདོགས།: {do a good turn: benefit}
+ཕྱིན་ཅི་ལོག: {turned upside down: perversely / contradictory}
+མ་རུངས།: {unmanageable: unruly}
+ཅི་ཡི་ཕྱིར།: {interrogative of reason: why}
+བསམ་པ་ཡི། ཡོན་ཏན།: {quality of intention: good intentions}
+དམྱལ་མི་འགྲོ།: {does not go to hell: hell}
+བསམ་པ།: {inner motivation: intentions}
+བསྲུངས།: {kept safe: protected}
+ཞིག་པར་འགྱུར།: {comes to be destroyed: destroyed}
+གནོད་བྱས།: {do injury: harm / harming / harmed}
+བསྲུངས་པར།: {kept safe: protected}
+ལན་དུ།: {in requital: return}
+གང་དུའང་།: {in any place: anywhere}
+ཞེན་པས།: {fixation: attachment}
+གཞོམ་མི་ནུས།: {cannot overpower: destroy}
+གནོད།: {do injury: harm / harmed}
+རབ་ཏུ་ཁྲོ།: {intensely angry: angry}
+གནོད་པར།: {do injury: harm}
+མི་སྙན་པ་ཡི་ཚིག: {words disagreeable to hear: unpleasant speech}
+ཟ་བར།: {devour: consume}
+མི་དགའ་བ།: {displeasure: dislike}
+འདོར་གྱི།: {give up: abandon}
+བར་ཆད་བྱེད་པ།: {puts an obstacle in the way: hinders}
+འཆི་བ།: {cessation of life: death}
+ཤི།: {cease to live: die}
+གསོན།: {remain alive: live}
+འཚོས།: {sustain life: livelihood}
+བླའི།: {preferable: right}
+ལོག: {mistaken: wrong}
+སད་པར།: {wakes up: awakens}
+མྱོང་།: {undergo, live through: experiences}
+བདེ་མྱོང་།: {undergoes happiness: experiences happiness}
+བརྒྱར།: {counted in hundreds: hundred}
+ཡུད་ཙམ།: {a brief while: moment}
+སད་པ།: {roused from sleep: awakened}
+མེད།: {not existing: gone; without: free}
+ལག་པ་སྟོང་པར།: {with empty hands: empty-handed}
+སྤྱད།: {partake of: enjoys; deal with, handle: treat}
+འགྲོ།: {wandering beings: beings; move, travel: goes}
+ཇི་བཞིན་དུ།: {comparison marker: like}
+ཡུན་རིང་དུས་སུ།: {over an extended period: long time}
+སྒྲེན་མོ།: {unclothed: naked}
+ཐོབ་གྱུར་ཏེ།: {comes to have: obtains}
+ཆོམ་པོས།: {one who takes by force: robbers}
+ཕྲོགས།: {taken away: stripped}
+ཁྲོས་གྱུར་ན།: {becomes angry: angry}
+བྱ།: {do, perform: perform / act}
+བསོད་ནམས་བྱ།: {perform meritorious deeds: perform good deeds / perform good}
+བྱེད་པ་ཡི།: {one who does: commits}
+གསོན་པ།: {being alive: life / live}
+ཉམས་གྱུར་ན།: {comes to be impaired: ruined}
+ཉམས་བྱེད་པས།: {does injury: harms}
+སེམས་ཅན་ཉམས་བྱེད་པས།: {does injury to beings: harms sentient}
+སྨྲ།: {spoken words: speech}
+ལ།: {directional particle: towards}
+མི་སྙན་སྨྲ།: {speaking what is disagreeable: unpleasant speech}
+རག་ལས་པས།: {is contingent on: depends}
+དད་པ།: {trusting confidence: faith}
+མེད་ལ།: {not possessing: lack}
+བཟོད།: {bear, put up with: tolerate; kṣānti, forbearance: patience}
+ཅིས།: {interrogative of reason: why}
+འཇིག་པར་བྱེད།: {bring to ruin: destroy}
+གནོད་མི་མངའ།: {is not injured (honorific): harmed}
+འཁྱལ།: {deride: mock}
+བཀར་ཏེ་བཀོན།: {single out for blame: blame}
+བཟོད་པར་གྱིས།: {bear, put up with: endure}
+སེམས་མེད།: {without mind: inanimate}
+སྐྱོན་མེད།: {free of defect: faultless}
+རྨོངས་པས།: {lack of understanding, moha: ignorance}
+རྨོངས་ཏེ།: {lacking understanding: ignorant}
+རག་ལས།: {is contingent on: depends}
+གནོད་བྱེད་པའི།: {doing injury: harm}
+བྱམས་སེམས་སུ།: {into a loving state of mind: loving}
+ཕན་ཚུན།: {one toward another: mutually}
+བསོད་ནམས་དག་ལ་བསྒྲིམས་ཏེ་བྱ།: {full line, strive to perform merit: perform good deeds / perform good}
+མཆེད་བྱེད་པ།: {spread, catch alight: spreads / catches}
+དོར་བ་ཡིན།: {thrown away: discarded}
+རྩྭ།: {low ground plants: grass; dried out: dry}
+ཕྱུང་སྟེ།: {taken away: removed}
+གང་ལ།: {indefinite: whatever / wherever}
+དོར།: {give up: abandon}
+ཆགས་ནས།: {gripped by craving attraction: attachment}
+ཚིག་པར།: {consumed by fire: burned}
+དོགས་པ་ཡིས།: {out of apprehension: fearing}
+མོད་ལ།: {at once: immediately}
+མཆེད་གྱུར་པ།: {having spread: spreads}
+གསད་བྱའི།: {sentenced to death: condemned / death}
+ཐར་ན།: {if set free: freed}
+མི་ནུས་ན།: {if not able: cannot}
+བཟོད་པར།: {bear, put up with: endure}
+དམྱལ་བའི།: {of hell: hell / hellish}
+ད་ལྟའི་སྡུག་བསྔལ།: {suffering of the present: present suffering}
+མ་བྱས་སོ།: {was not carried out: accomplished}
+འདོད་པའི།: {what is wanted: desires}
+སྟོང་ཕྲག: {counted in thousands: thousands}
+འགྲུབ་འགྱུར་བས།: {is brought about: accomplished}
+འགྲོ་བའི།: {of wandering beings: beings}
+གནོད་མིན།: {not injurious: harm / harmful}
+དགའ་བའི།: {gladness: joy}
+ཐོབ།: {come to have: obtain / obtains}
+དགའ་མི་བྱེད།: {does not take gladness: rejoice}
+ཁྱོད།: {second person pronoun: yourself / yours}
+སྡུད།: {draw to oneself: attract}
+ཁ་ན་མ་ཐོ་མེད།: {without fault: blameless}
+སྤངས་པའི་ཕྱིར།: {because of giving up: abandon}
+གླ་རྔན།: {payment for service: rewards / benefits}
+བདེ་འགྱུར།: {becomes happy: happy}
+མ་མཐོང་།: {not seen: invisible}
+མཐོང་།: {seen: visible}
+བདེ་བའང་།: {in well-being: happy}
+གཞན་གྱི་ཡོན་ཏན།: {the good qualities of others: others' good qualities}
+བརྗོད་པའི།: {commended: praised}
+འདོད་པས།: {wanting: desiring / wish}
+རྙེད།: {come upon, acquire: find / obtains}
+བསྐྱེད་ནས།: {brought into being: generated}
+འཚང་རྒྱ་བར།: {attain buddhahood: buddhas}
+གདུང་བར་བྱེད།: {be pained: grieve}
+བསྙེན་བཀུར།: {being waited on: respect}
+འཇིག་རྟེན།: {the world, its inhabitants: worlds / beings}
+ཁྲོའམ།: {becomes angry: angry}
+སླར།: {on the contrary: instead}
+རྙེད་གྱུར་ན།: {comes to get: receives}
+དགར་མི་འགྱུར་བར།: {does not take gladness: rejoice}
+འབྱོར།: {come into wealth: prosper / prosperity / gets}
+གལ་ཏེ།: {supposing that: case}
+སྦྱིན་བདག: {one who gives support: patron}
+གནས་གྱུར་པ།: {stays in place: remains}
+བསོད་ནམས་...འདོར།: {gives up merit: abandon good deeds}
+གྱུར་པ།: {came to be: gained / felt}
+སྨྲོས།: {say (imperative): tell}
+བམ་པོ།: {a division of a text: section}
+གནོད་པའི།: {doing injury: harm}
+ཙམ།: {no more than: mere}
+ཡིད་སྨོན།: {mental longing: wish}
+འཚེངས་པར།: {be contented: satisfied; grow greater: greater}
+ཕུང་བའང་།: {coming to ruin: ruin}
+བཏབ་པ་ཡི།: {cast out: cast}
+བཟུང་།: {taken hold of: caught}
+འཚེད།: {prepared by cooking: cooked}
+ཉ་པས།: {one who catches fish: fisherman}
+སྲུང་མས།: {wardens: guardians}
+མཆིལ་པ།: {a fishing hook: hook}
+བུམ་པར།: {a vessel: pot}
+གྲགས་པ།: {public reputation: fame}
+ཆེར།: {to a great degree: greatly}
+ཆང་།: {intoxicating drink: alcohol}
+བདེ་འབའ་ཞིག: {happiness alone: happiness}
+བསྟེན་དགོས་སོ།: {must depend on: rely}
+རང་དོན།: {one's own advantage: self-interest}
+གྲགས་པའི།: {of public reputation: fame}
+ཤ།: {flesh of the body: flesh}
+གསོད་བྱེད།: {put to death: kill}
+ཤོར།: {gone from one: lost}
+འབྲུ།: {smallest particle: mere}
+ཚིག་འབྲུ།: {words as mere syllables: words}
+རྡིབ་གྱུར་ན།: {falls apart: collapses}
+ག་ཆད་དུ།: {grief, wailing: cry / distress}
+གྲགས་ཉམས།: {loss of reputation: fame}
+ཉམས།: {gone to ruin: lost}
+བྱེ་མའི་ཁང་བུ།: {a house of sand: sandcastle}
+མི་སྲིད།: {not possible: cannot / impossible}
+སྒྲ།: {what is heard: sound}
+དེ་ཉིད་ཀྱི།: {pertain to: belong}
+དགའ་བདེ།: {gladness and ease: joy}
+གཞན་དགའ།: {the happiness of others: others' happiness}
+བདེ་ན།: {in well-being: happy}
+གཞན་ལ་དགའ་བ།: {gladness at others: others' happiness}
+སྐྱེ་འགྱུར་བ།: {comes into being: arises}
+བྱིས་པའི།: {immature, childish: childish}
+མི་འཐད་པས།: {not tenable: logical}
+ཁོ་ནར།: {that alone: merely}
+བསྟོད་དོ།: {commended: praised}
+གཡེང་བར་བྱེད།: {turn the mind aside: distract}
+ཕྲག་དོག: {irsya, resentment at another's good: envy}
+ཕུན་སུམ་ཚོགས་པའང་།: {abundance, thriving: prosperity}
+སྐྱོ་བའང་།: {world-weariness: weariness}
+གཞིག་ཕྱིར།: {in order to destroy: destroy}
+ཞུགས་མིན་ནམ།: {is one not engaged: engaged}
+ལྟུང་བ།: {incurring a downfall: falling}
+ངན་སོང་དུ།: {lower realms of rebirth: lower realms / realms}
+བསྟོད་སོགས།: {praise and the like: praise}
+བསྲུང་ཕྱིར།: {in order to keep safe: protect}
+དེ་ཕྱིར།: {consequential connective: therefore}
+གྲོལ་བ།: {set free: free / liberation}
+དོན་གཉེར།: {go after a goal: seek}
+མི་གཏོང་།: {not giving up: abandoning}
+བྱིན་བརླབས།: {confer blessing: bless}
+འཇུག: {go into, undertake: enter / engage / acts; plunge in: plunges}
+སྒོ་འཕར།: {a doorway: gateway}
+མཚུངས།: {on a par: equal}
+གེགས་བྱེད།: {puts an obstacle in the way: hinders}
+རིགས་མིན་ཏེ།: {not in accord with reason: logical}
+གནས་སམ།: {depend on: rely}
+གེགས་བྱེད་པར།: {putting an obstacle in the way: hindering}
+ཉིད།: {emphatic particle: indeed}
+འབྱིན་པར།: {bring forth: arise}
+ཕྱིན་པའི།: {having come: arrives}
+སློང་མོ་བས།: {one who asks alms: beggar}
+སྦྱིན་པའི།: {dāna, giving: generosity}
+རབ་བྱུང་།: {going forth into homelessness: renunciation}
+རུང་།: {fitting: right}
+སློང་བ།: {those who ask alms: beggars}
+ཕར།: {in requital: return}
+བྱུང་བ་ལྟར།: {as it has come about: appears}
+གྲོགས།: {those who accompany: companions}
+ངལ་བས།: {toil: effort}
+སྤྱོད་པའི།: {caryā, way of acting: path}
+དགའ་བར་བྱ།: {take gladness: rejoice}
+གཏེར།: {store of riches: treasure}
+བསྒྲུབས་པས།: {brought about: accomplished}
+འདི།: {this one: enemy}
+བཟོད་པའི།: {kṣānti, forbearance: patience}
+གྲུབ་པ།: {bringing to completion: accomplishment}
+རྒྱུར།: {productive condition: cause}
+བསྒྲུབ།: {develop through practice: cultivate}
+མཆོད་བྱ།: {worthy of offering: honored}
+བསམ་མེད།: {without intent: intention}
+ཕན།: {being of help: benefit}
+གནོད་བྱ་བའི།: {intending injury: harm}
+བསམ་ཡོད།: {hold an intent: intend}
+བཞིན་དུ།: {comparison marker: like}
+བརྩོན།: {exerts oneself: strives}
+སྐྱེ་བས།: {comes into being: arises}
+འོས།: {as it should be: fitting}
+སྡང་སེམས།: {hostile state of mind: hatred}
+བཟོད་པ་སྐྱེ་བས།: {forbearance comes about: patience arises}
+ཐུབ་པས།: {muni, epithet of the Buddha: buddha}
+ཐུབ་པས་གསུངས།: {as the Sage declared: Buddha taught}
+ཞིང་།: {field of merit: field}
+ཕུན་ཚོགས།: {brought to fullness: perfected}
+མགུ་བྱས།: {giving satisfaction: pleasing}
+གསུངས།: {declared (honorific): taught}
+ཕ་རོལ་ཕྱིན།: {pāramitā, gone beyond: transcendent}
+རྒྱལ་བའི།: {epithet of a buddha, victor: victorious}
+གུས།: {deference: respect}
+ཅི་ཡི།: {interrogative of reason: why}
+མཉམ་པ་ཡིན།: {on a par: equal}
+རང་གིས།: {by its own being: inherent}
+བསམ་པའི།: {inner motivation: intention}
+མཚུངས་པར།: {in the same way: similarly}
+དེས།: {consequential connective: therefore}
+དད་པའི།: {trusting confidence: faith}
+ཆེ་བ།: {eminence: greatness}
+བྱམས་སེམས།: {maitrī, loving-kindness: loving-kindness}
+མཆོད་པ།: {act of offering: offering}
+མཐའ་ཡས་པའི།: {without limit: boundless}
+མཉམ་པར།: {on a par: equal}
+སྣང་ནའང་།: {even if it appears: appears}
+ཚོགས།: {a gathered mass: collection}
+ཤས་ཙམ།: {a small part: fraction}
+ཁམས།: {constituent realms: realms}
+བསྟུན།: {bringing into accord: aligning}
+རིགས་པར།: {in accord with reason: fitting}
+ཤས།: {a small part: fraction}
+མཆོད་བྱར།: {worthy of offering: honor}
+ཡོད་པས།: {be, exist: possess}
+ཆོས་མཆོག: {the highest Dharma: supreme Dharma}
+མ་གཏོགས་པར།: {leaving aside: apart}
+དཔག་མེད།: {beyond measure: immeasurable}
+ཕན་པ་དཔག་མེད།: {benefit beyond measure: immeasurable benefits}
+མཛད།: {do, perform (honorific): performed}
+མགུ་བྱ།: {giving satisfaction: pleasing}
+སེམས་ཅན་མགུ་བྱ།: {giving satisfaction to beings: pleasing sentient}
+ལན་ལོན།: {make requital: repay}
+གཡོ་མེད།: {not wavering: unwavering}
+ཕན་བཏགས།: {doing a good turn: benefiting}
+འཇུག་པ་ལ།: {go into: enter}
+བཟང་དགུ།: {every fine thing: goodness}
+གནོད་ཆེན།: {great injury: great harm / harm}
+མནར་མེད།: {Avīci, the deepest hell: lowest hell / lowest / hell}
+ལན་ལོན་འགྱུར།: {makes requital: repays}
+ང་རྒྱལ།: {swollen self-importance: arrogant}
+གཟིགས།: {look after (honorific): care}
+རྗེར།: {those in authority: masters}
+བྲན།: {one in service: servant}
+ཐུབ།: {muni, epithet of the Buddha: buddhas}
+ཐུབ་རྣམས་དགྱེས་འགྱུར།: {the Sages are gladdened: Buddhas rejoice}
+འབྱུང་འགྱུར་བ།: {brings about: causes}
+མི་དགྱེས།: {displeasure (honorific): displeasure}
+བདེ་བས།: {well-being, contentment: happiness}
+དགྱེས།: {be gladdened (honorific): rejoice}
+མེ་འབར་བ།: {burning with flame: ablaze}
+མེད་དོ།: {there is not: cannot}
+ཀུན་ནས།: {on every side: completely}
+གནོད་པ་བྱས་ན།: {having done injury: harmed}
+དགྱེས་པའི།: {be gladdened (honorific): rejoice}
+བཤགས་བགྱི་ཡིས།: {disclose wrongdoing: confess}
+བཟོད་པར་གསོལ།: {ask forbearance: forgive}
+འགྲོ་མང་།: {the many wandering beings: beings}
+དེ་བཞིན་གཤེགས།: {tathāgatas: buddhas}
+སྤྱིར།: {the crown of the head: head}
+འགུམས།: {put to death: kill}
+མང་།: {a great many: multitude}
+དགྱེས་མཛོད།: {be pleased (imperative honorific): please}
+དགྱེས་པར།: {gladdened (honorific): pleased}
+མི་བསྡོ།: {does not retaliate: resist}
+རྡོག་པས།: {with the foot: step}
+ཐུགས་རྗེའི།: {compassionate (honorific): compassionate}
+མཛད་པ།: {do, regard (honorific): considered}
+ཐེ་ཚོམ།: {uncertainty: doubt}
+བདག་ཅན།: {having as one's essential nature: essence}
+ཐུགས་རྗེའི་བདག་ཅན།: {one whose nature is compassion: Great Compassionate}
+སྒྲུབ་པའང་།: {bringing about: accomplishment}
+མཉེས་བྱེད་ཡིན།: {gives satisfaction: pleases / pleasing}
+སེལ་བའང་།: {clears away: removes}
+ནུས།: {having capacity: capable}
+དཔེར་ན།: {introducing an instance: example}
+མིག་རྒྱང་རིང་པོ།: {seeing far ahead: foresight}
+རྒྱལ་པོའི།: {a ruler: king}
+ཕྱིར།: {in requital: return}
+ཁྱད་དུ།: {treat with scorn: despise}
+གསད།: {put to death: kill}
+མཐུ་སྟོབས།: {capacity, might: power}
+ཉམ་ཆུང་བ།: {lacking strength: weak}
+དཔུང་།: {supporting forces: allies}
+ཐུགས་རྗེ་ལྡན།: {possessed of compassion: compassionate / Great Compassionate}
+གཏུམ།: {fierce, violent: cruel}
+དམངས།: {common folk: people}
+མགུ་བར་བྱ།: {give satisfaction to: please}
+དེ་ལྟར།: {in that way: therefore}
+ཁྲོས་ན།: {if angered: angry}
+བྱེད་དམ།: {brings about: cause}
+མི་མགུ་བྱས་པ་ཡིས།: {by causing displeasure: displeasing}
+རྒྱལ་པོ།: {a ruler: king}
+སངས་རྒྱས་ཉིད།: {buddhahood itself: buddhahood}
+འཐོབ་པར།: {comes to have: obtains}
+མགུ།: {gladdened: pleased / pleasing}
+མགུ་བར།: {giving satisfaction: pleasing}
+སེམས་ཅན་མགུ་བར་བྱས་པ་ཡིས།: {by giving satisfaction to beings: pleasing sentient}
+ལྟ་ཞོག: {set aside for now: let / alone}
+བྱུང་བ་ཡི།: {that which comes about: arises}
+གྲགས།: {public reputation: fame}
+དཔལ།: {splendour, prosperity: glory}
+སྐྱིད།: {ease, well-being: happiness}
+སེམས་ཅན་མགུ།: {giving satisfaction to beings: pleasing sentient}
+འཁོར་ཚེ།: {saṃsāra, the round of rebirth: cycle / existence}
+འཚོ་བ།: {sustaining life: life}
+འཁོར་ལོས་སྒྱུར་བའི།: {cakravartin ruler: monarch}
+འཁོར་ལོས།: {turning the wheel, universal: universal}
+དྲུག་པའོ།: {the sixth chapter: sixth}
+བརྩོན་འགྲུས: {vīrya, sustained energy: diligence / effort}
+བརྩོན་འགྲུས་བསྟན་པ: {chapter title: Practice of Diligence}
+བརྩམ: {set about: undertake / starting / cultivate}
+བརྩོན་འགྲུས་བརྩམ: {set about sustained energy: cultivate diligence}
+གཡོ་བ: {stirring, motion: movement / blowing}
+བཟོད་པས: {kṣānti, forbearance: patience}
+རླུང: {moving air: wind / breeze}
+ཞེན་པ: {fixation: attachment}
+སྤྲོ་བ: {eager gladness: enthusiasm / joy / delighted}
+བཤད་བྱ: {set forth: explained}
+བདག་ཉིད་བརྙས་པ: {contempt for oneself: self-contempt}
+སྲེད་པ: {tṛṣṇā, craving: craving}
+འཁོར་བ: {saṃsāra, the round of rebirth: cyclic existence / cyclic / existence}
+རོ: {taste: flavor; dead bodies: corpses}
+སྙོམ་ལས: {slackness: indolence}
+བརྟེན་པའི: {depends on: relies}
+གཉིད: {state of being asleep: sleep}
+མྱང: {savouring: tasting}
+མི་སྐྱོ: {not wearied: weary}
+ཆུད་གྱུར་ནས: {fallen into: caught}
+རྒྱ་པས: {caught in a net: entangled}
+སོང་གྱུར་པ: {having gone into: fallen}
+ནས: {having done: having; as soon as: once}
+ཤེས་སམ: {come to know: know}
+ཁར: {the mouth: mouth}
+སྐྱེ་བ: {taking birth: rebirth / born / arising / life / lives; what brings about: causes}
+མ་ཧེ: {water buffalo: buffalo}
+རིམ་གྱིས: {step by step: gradually}
+གསོད་པ: {put to death: killed}
+བརྟེན་པ: {depending on: relying / dependent}
+བཀག་ནས་སུ: {shut off: blocked}
+ཟ: {take as food: eat / eats / eating / eaten}
+བལྟས་བཞིན་དུ: {looking on: watching}
+སྤངས: {give up: abandon / abandoning}
+བསག་བྱ: {build up: accumulate}
+འཆི་འགྱུར་བས: {comes to die: die}
+མྱུར་བ་ཉིད་དུ: {before long: soon}
+ཀྱི་ཧུད: {exclamation of dismay: alas}
+འོངས་ནས་ནི: {having come: arrives}
+བྱས་པ: {carried out: done}
+ཕྱེད་བྱས་པ: {left half-done: half-finished}
+གློ་བུར: {sudden and passing: sudden / suddenly / temporary}
+མ་བྱས: {not done: undone}
+གདོང: {the face: face}
+ཡིས: {agentive particle: having}
+རེ་ཐག: {expectation: hope}
+ཤུགས་ཀྱིས: {with force: intense}
+ཆད་པ: {cut off: lost}
+ཕོ་ཉ: {envoys sent: messengers}
+དམར: {red in colour: red}
+ཉེ་དུ: {kin: relatives}
+འཛག: {flowing down: streaming}
+སྐྲངས་པ: {puffed up: swollen}
+མཆི་མ: {water from the eyes: tears}
+གཤིན་རྗེ: {Yama, lord of the dead: yama}
+ཐོས་པ་ཡིས: {by hearing: hearing}
+དྲན་པས: {recollection: memory}
+རང་སྡིག: {one's own misdeeds: misdeeds}
+གོས་ཤིང: {smeared, covered over: soiled / overwhelmed}
+གདུང་བ: {being tormented: tormented / suffering}
+སྡིག་བྱས: {commit harmful deeds: commit misdeeds}
+ལྟའི: {comparison marker: like}
+སྨོས: {say, utter: speak}
+མི་བཟད་པའི: {too severe to endure: unbearable}
+འགྲེ་བ: {thrashing about: writhing}
+ཚན: {at boiling heat: boiling}
+བདེ་བར: {in well-being: happiness / happy / happily / comfortably}
+བྱས་ནས: {having done: having / committed}
+རེག་པ་ན: {come into contact: touched / feels}
+ན: {conditional particle: having}
+ཚ་བའི: {high temperature: heat / hot}
+རབ་ཚ་བའི: {very hot: intense}
+ཅན: {one characterized by: person / prone}
+གཞོན་ཤ: {youthful: young}
+བརྩོན་མེད: {lacking sustained energy: diligence}
+ལྷ་འདྲ་བ: {like a god: god}
+གནོད་མང: {much injury: harm}
+འདྲ་བ: {comparison marker: like}
+བཅོམ: {overpower, defeat: overcome / overcomes / destroyed}
+བཟུང་བཞིན: {held in grip: seized}
+བཟེ་རེ: {being easily hurt: weakness}
+ཕྱི་ནས: {afterwards: again}
+སྒྲོལ: {carry across: cross}
+རྨོངས་པ: {one lacking understanding: fool}
+དཀའ་བས: {with difficulty: hard}
+བརྟེན་ནས་སུ: {depending on: relying}
+ཆུ་བོ: {a river: river / rivers / water}
+གཉིད་མ་ལོག: {not sleeping: sleep}
+སྤངས་ནས: {give up: abandon / abandoning}
+གཡེང་བ: {turned aside: distracted / distractions}
+མཐའ་ཡས་པའི: {without limit: endless}
+རྒོད་སོགས: {giddiness and the like: frivolity}
+མཉམ་པ: {on a par: equal / equating; even, level: smooth}
+བརྗེ་བར་གྱིས: {make an exchange: exchanging}
+སྒྱིད་ལུག་མེད: {absence of despondency: non-despondency}
+དབང་བྱ: {exercise mastery: self-mastery / controlled}
+དཔུང: {forces, might: strength / strengths}
+བླང: {take up: taking / regain}
+བྱང་ཆུབ་ག་ལ་ཞེས: {"how could awakening come": attain enlightenment}
+སྒྱིད་ལུག་པར: {sunk in despondency: despondent}
+ཞེས: {thinking thus: thinking}
+བདེན་པ: {satya, truth: truth / truths}
+བྱང་ཆུབ་ཐོབ་དཀའ་བླ་མེད་འཐོབ: {"awakening hard to reach will be reached": attain enlightenment}
+བུང་བ: {a bee: bee}
+བསྐྱེད་ན: {brings into being: cultivates}
+བརྩོན་པའི: {sustained exertion: diligence}
+ཤ་སྦྲང: {a flesh-fly: flesh-fly}
+སྦྲང་བུ: {a fly: fly}
+དཀའ་བླ་མེད: {difficult to attain: hard-to-reach}
+སྲིན་བུར: {a worm: insect}
+གང་གྱུར་པ: {whatever sort: kind}
+སྟོབས: {capacity, might: power / strength}
+བླ་མེད: {unsurpassed: supreme}
+མ་བཏང་ན: {if not given up: abandon}
+བྱང་ཆུབ་ཅིས་མི་འཐོབ: {"why would awakening not be attained": attain enlightenment}
+སྐྱེས་ལ: {having been born: born}
+ངོ་ཤེས་པས: {knowing what is what: knowing}
+ཅིས་མི: {interrogative of reason: why}
+འཇིགས་ཤེ་ན: {if one is afraid: fear}
+བཏང་དགོས: {must be given: forth}
+ལྕི: {weighty: heavy}
+ཡང་བ: {of little weight: light}
+ཟད: {no more than: merely; do away with: eliminate}
+དཔྱད་པར: {weighing up: weighing}
+གྲངས་མེད་དུ: {beyond counting: countless}
+བསྐལ་པ་བྱེ་བ: {ten million aeons: eons}
+དབུག: {run through: pierced}
+ལན་གྲངས་དུ་མར: {many occasions: times}
+བཅད་པ་དང: {cut apart: torn}
+སྒྲུབ་པ་ཡི: {bringing about: achieve}
+ཁོང་བརླག: {deep within: deeply / embedded}
+བཏོད་པའི: {by cutting open: lancing}
+ཚོད་ཡོད་དེ: {of measurable extent: limited}
+བསལ་ཕྱིར: {in order to clear away: remove}
+ཟུག་རྔུ: {piercing pain: thorn / pain}
+མེད་བྱེད: {do away with: eliminate}
+བཟོད་བྱ: {bear, put up with: endure}
+ཆུང: {of little consequence: minor}
+གཞོམ་ཕྱིར: {in order to defeat: overcome}
+སྡུག་བསྔལ་མང་པོ: {many pains: sufferings}
+གསོ་དཔྱད: {medical procedures: treatments}
+གསོ་བར: {restore to health: cures}
+འཇམ་པོ: {mild: gentle}
+ཆེན: {of great degree: grave / greatly}
+ཆོ་ག: {prescribed procedure: methods / rituals}
+མཛད: {do, perform (honorific): performed / acting / accomplishes}
+གོམས་ནས: {grown used to: accustomed}
+གཏོང: {give away: giving / abandon}
+འདྲེན་པས: {one who leads others: guide}
+ཚོད་མ: {greens as food: vegetables}
+དཀའ་བ: {not easy: difficult / difficulty}
+གཏོང་བ: {giving away: giving}
+ལྟ་བུའི: {no more than, of the sort: mere}
+ཚོད་སོགས: {greens and the like: vegetables}
+སྤང་ཕྱིར: {in order to give up: abandoning}
+རྟོག་པ: {conceptual construct: conception / thoughts}
+མཁས་པའི: {one who is learned: wise}
+ལོག་པར: {mistakenly: wrong / wrongly}
+སྙིང་རྗེ་ཅན: {possessed of compassion: compassion}
+གཞན་དོན: {the good of others: others}
+སྐྱོ: {be wearied: weary}
+མཁས་པ་ཡིས: {one who is learned: wisdom}
+ཟད་བྱེད་ཅིང: {brings to an end: exhausts}
+སྡུད་བྱེད་ཕྱིར: {gathers together: gathers}
+ཉན་ཐོས: {śrāvakas, disciples: hearers}
+འདི་ནི: {on this account: therefore}
+སྒྱིད་ལུག་འགྱུར: {sunk in despondency: despondent}
+རྟ: {a horse: horse}
+ཞོན་ནས: {having mounted: mounting}
+སྐྱོ་ངལ: {fatigue: weariness}
+གྲུབ: {firmly settled: established; bring about: accomplish}
+མོས་པ: {directed longing: aspiration; dispositions: inclinations}
+བསམ་པས: {turning over in mind: reflecting}
+སྤངས་ཏེ: {given up: abandoned}
+མོས: {directed longing: aspiration}
+ང་རྒྱལ: {well-founded self-assurance: confidence / confident; inflated self-regard: pride / arrogance / arrogant}
+དབང་བསྒྱུར: {exercise mastery: self-mastery}
+འབད་པར་བྱ: {apply effort: strive}
+ལེན: {taking up: taking}
+བསྐལ་པ་རྒྱ་མཚོ: {oceans of aeons: eons}
+ཟད་འགྱུར་བ: {come to an end: exhaust}
+ཉེས་པ: {lapse, wrong: fault / faults}
+གཞོམ་བྱ: {overpower, defeat: overcome / conquer}
+རེ་རེ: {one by one: single}
+མ་གས: {does not break apart: break}
+ཉེས: {lapses, wrongs: faults}
+ཆ: {a part: fraction / parts}
+སྙིང: {the heart: heart}
+དཔག་ཏུ་མེད་པའི: {beyond measure: immeasurable}
+སྡུག་བསྔལ་དཔག་ཏུ་མེད་པའི: {pain beyond measure: immeasurable suffering}
+བསྒྲུབ་བྱ: {bring about: accomplish}
+གོམས་འགྱུར་ན: {grow used to: cultivate}
+བསྐལ་པ་རྒྱ་མཚོས: {oceans of aeons: eons}
+རྒྱ་མཚོས: {the sea: ocean}
+མཚར: {striking, remarkable: astonishing}
+མ་སྐྱེས་ཏེ: {not yet begun: begun}
+གོམས་པ: {grown used to: cultivate / cultivated / habit / habitual}
+དོན་མེད་བྱས་པ: {spent to no purpose: wasted}
+བཅོམ་ལྡན: {bhagavān, epithet of the Buddha: buddhas}
+རྫོགས་མ་བྱས: {not brought to completion: fulfilled}
+མ་མཆོད་ཅིང: {not having made offering: honored}
+དབུལ་པོའི: {lacking means: poor}
+བྱ་བ་མ་བྱས: {work not done: worked}
+བསྐྱེད་པར་ཟད: {brings about only: brought / caused}
+འཇིགས་ལ: {those in fear: fearful}
+མི་འཇིགས: {freedom from fear: fearlessness}
+མ་ཡི: {female parent: mother}
+འབའ་ཞིག: {nothing but: nothing}
+མངལ་གྱི: {the womb: womb}
+བྱུང་བར་གྱུར: {came to be met with: encountered}
+བྲལ་བ་ཡིས: {being without: lacking}
+མོས་པར: {directed longing: aspiration}
+བསྒོམས་པས་སོ: {through cultivating: reflecting}
+རྩ་བ: {the root: root}
+འབྱུང་བར་འགྱུར: {come into being: arise / appear}
+སྤྱོད་ལས: {from conduct: engaging}
+རྣམ་པ་སྣ་ཚོགས: {of many kinds: kinds}
+བྲལ་བ: {being apart from: separation / free}
+རྣམས: {plural marker used substantivally: things / themselves / realms}
+བསམས་པའི: {formed as a notion: conceived}
+འགྲོ་འགྱུར་བ: {comes to go: goes}
+མངོན་མཆོད་འགྱུར: {comes to be venerated: honored}
+བྱས་པས: {by doing: performing}
+གང་དང་གང་དུ: {in whatever place: wherever}
+སྡིག་པ་བྱེད་པ: {commit harmful deeds: commit misdeeds}
+སྡིག་པ་བྱེད་པ་བདེ་འདོད་ཀྱང: {full line, misdeed-doers though wanting happiness: misdeeds desire happiness}
+རྣམ་པར: {thoroughly: utterly / completely / fully}
+ལས་བྱུང: {born from: born}
+བསེལ་བའི: {cooling: cool}
+རྒྱས: {opened out: expanded}
+དྲི་བཟང: {sweet-smelling: fragrant}
+སྙིང་པོར: {the core: heart}
+འོད: {radiance: light}
+པདྨ: {lotus: lotus / lotuses}
+བསྐྱེད་བྱས་པ: {brought to growth: nourished}
+ཐུབ: {muni, epithet of the Buddha: sage}
+གསུང: {speech (honorific): speech}
+སྙན: {pleasing to hear: sweet}
+དགེ་བས: {wholesome quality or action: virtue}
+འབར་བའི: {burning brightly: blazing}
+ཟངས: {the metal copper: copper}
+ལྷུང་བ: {dropping down: falling}
+བཤུས་པས: {stripped of skin: flayed}
+ས་གཞིར: {the surface underfoot: ground}
+སྐྱེས་བུས: {Yama's servants: henchmen}
+བཞུས་པའི: {liquefied by heat: melted}
+ཞུན: {liquefied: molten}
+མི་དགེ་མང་པོས: {many unwholesome deeds: non-virtues}
+དུམ་བུ: {fragments: pieces}
+བླུགས་གྱུར་ལ: {poured out: poured}
+མདུང་ཐུང: {short thrusting weapons: spears}
+བསྣུན: {run through: stabbed / pierced}
+རལ་གྲི: {bladed weapon: sword / swords}
+ཉམ་ཐག་ཅིང: {in a pitiable state: tormented}
+ལྷགས་ཤིང: {ripped apart: torn}
+མོས་བྱ་ཞིང: {direct longing toward: aspire}
+རྒྱལ་མཚན: {a victory banner: banner}
+བརྩམས་ནས: {set about: begin}
+བསྒོམ་པར་བྱ: {develop through practice: cultivate}
+ཆོ་ག་ཡིས: {prescribed procedure: ritual}
+རྡོ་རྗེ: {vajra, adamantine sceptre: vajra}
+དགེ་ལ: {wholesome quality or action: virtue}
+བརྟགས་ནས་ནི: {having weighed up: assessed}
+འབྱོར་པ: {means, resources: capacity}
+འགྲུབ་མི་འགྱུར: {will not be brought about: accomplished}
+གོམས་ཤིང: {grown used to: habit}
+དམན་འགྱུར: {becomes of lower rank: inferior}
+འཕེལ་བར་འགྱུར: {keeps increasing: persist}
+གཅིག་པུས: {unaccompanied: alone}
+གསུམ་པོ: {the three of them: kinds}
+སྒྲུབ་པར: {bring about: accomplish}
+འགྲོ་བས: {wandering beings: beings}
+མི་ནུས་པས: {not being able: cannot}
+དབང་མེད: {without control: powerless}
+མེད་པ: {not existing: absence / non-existent / non-existence; without: free / having}
+བྱེད: {do, perform: act / perform / doing / acting / activity; bring about: cause / create / creates}
+ཁྭ: {a crow: crow / crows}
+ཤི་བའི: {a dead thing: dead / death}
+ཕྲད་གྱུར་ན: {comes upon: encounters}
+མཁའ་ལྡིང: {garuḍa, mythical bird: garuda}
+ལྟ་བུར: {comparison marker: like}
+དོར་བ་ལ: {gives up: abandons}
+བསྐྱེད་པས: {bringing into being: cultivating}
+ཞུམ་བཅས: {loss of heart: despondency}
+ཕོངས་ལས: {lacking necessities: destitution}
+རྩོལ་བ: {exertion: effort}
+ཐར་བ: {get free: escape / freed}
+ཕམ་བྱས་ན: {if defeated: defeated}
+བཞད་གད་འགྱུར: {object of ridicule: laughingstock}
+ཁམས་གསུམ: {the three realms: realms}
+བརྟན་པ་ཡིས: {firm of resolve: steadfast}
+གནས་པར་བྱ: {remain, abide: abide}
+རྒྱལ་བྱ: {prevail over: conquer}
+ང་རྒྱལ་ཅན: {possessed of self-assurance: confident; puffed up: arrogant}
+དབང: {the sense faculties: faculties / sense; control, mastery: power / sway}
+ཁྲིད་ཅིང: {comes to be led: becomes}
+བཅོམ་པ: {stripped of: deprived}
+ཟན: {what is eaten: food / eating / scraps}
+ཁེངས: {full of: filled}
+དཀའ་ཐུབ་ཅན: {one given to austerity: ascetic / ascetics}
+གཏོགས་ན: {reckoned among: counted}
+བརྙས་པར: {treated with contempt: despised / scorned}
+གླེན་པ: {dull-witted: foolish / foolish people / people}
+དམན་པ: {of lower rank: inferior}
+མི་སྡུག: {unpleasant to look at: unattractive}
+འདོད་བཞིན: {as wanted: desired / desire}
+རྫོགས་པར་བྱེད: {brings to completion: fulfills}
+འཆང: {holds, bears: holds}
+རྣམ་རྒྱལ: {wholly victorious: victorious}
+ཁྲོད་གནས་ན: {dwelling amidst: amidst}
+མི་ཚུགས་བྱ: {not to be overcome: overcome}
+སྲན་གཟུགས་ཏེ: {hold firm: stand}
+སྟོང་དུ: {counted in thousands: thousand}
+རྣམ་པ: {sort, mode: ways / aspect; outward look: appearance}
+བྱུང་གྱུར་ཀྱང: {even if it comes about: arises}
+ཉམ་ང: {peril: danger}
+བསྲུང་བ་ལྟར: {as one guards: protects}
+དབང་དུ: {under the control of: sway}
+བདེ་འབྲས: {fruit of well-being: delight}
+ཞེན་བྱ་སྟེ: {be devoted to: devoted}
+དགའ་བར་བྱ: {be glad: joyful}
+མི་ངོམས: {not sated: never / weary}
+རྩེད་མོའི: {of play: play}
+བྱ་བའི: {sets about: undertakes}
+གང་ཡིན: {indefinite pronoun: whatever}
+གཏོལ་མེད་ཀྱི: {not to be counted on: uncertain}
+སོར: {the edge: edge}
+སྦྲང་རྩི: {honey: honey / nectar}
+རྣམ་སྨིན: {vipāka, karmic ripening: karmic}
+ཞི་བ་ཡི: {at peace: peaceful}
+སྤུ་གྲི: {a razor: razor}
+ངོམས: {sated: satisfied}
+ཚར་ཕྱིན་བྱའི: {bring to a finish: complete}
+འཇུག་པར་བྱ: {go into, undertake: engage}
+ཕྲད: {coming upon: finding}
+མཚོ: {inland body of water: lake / lakes / pond}
+ཉི་མ་ཕྱེད་དུས: {the middle of the day: midday}
+ཉི་མ: {the sun: sun}
+གདུངས་པ་ཡི: {racked with pain: tormented}
+དོར་བར་བྱ: {give up: abandon}
+འདོད་པས: {want, desire: desire / desires / desiring / wish}
+ཉམས་པ: {worn out: exhausted}
+སླར་བྱའི: {taking up again: resuming}
+ལེགས་པར་ཟིན་ན: {well brought to a finish: well-completed}
+གཟུར་བྱ་ཞིང: {keep clear of: avoid}
+གཞོམ་པར་བཏེག: {move to destroy: destroy}
+ལྷགས་པ: {come down on one: fallen}
+རྙིང: {of long standing: old}
+རལ་ཁ: {bladed weapon: sword}
+གཡུལ་དུ: {armed conflict: battle}
+ལྷུང་གྱུར་ན: {drops: falls}
+དམྱལ་བའི: {of hell: hell / hellish}
+ཤོར་ན: {gone from one: lost}
+དྲན་པའི: {smṛti, keeping in mind: mindfulness}
+ལེན་པ་ལྟར: {as one picks up: picks}
+དྲན: {keep in mind: remembering}
+ཁྲག་ལ: {into the blood: bloodstream}
+ཁྱབ་འགྱུར་བ: {pervade, spread through: spread / entered}
+རྙེད་གྱུར་ན: {come upon: found}
+བརྟེན་བཅས་ནས: {having relied on: having}
+གླགས: {an unguarded moment: opportunity}
+ཁྱབ་པར་འགྱུར: {spreads through: spreads}
+བཀུར་ལ: {bearing along: carrying}
+གསོད་བསྡིགས་འཇིགས་པ: {fear of being put to death: Fearing death}
+བཀང་བའི: {full to capacity: filled}
+དྲུང་བསྡད་དེ: {close by: nearby}
+བརྟུལ་ཞུགས་ཅན: {one under ascetic discipline: practitioner}
+བོ་ན: {spills over: spills}
+བསྡད་དེ: {standing by: standing}
+རལ་གྲི་ཐོགས་པས: {one bearing a sword: sword-wielder}
+སྒྲིམ: {alert, on guard: vigilant}
+འོངས་ན: {comes about: arise / comes}
+སྙོམ: {slackness: indolence}
+པང་དུ: {the lap: lap}
+རིངས་པར: {without delay: quickly}
+ལྡང་བ་ལྟར: {as one rises: stands}
+བཟློག་པར་བྱ: {ward off: ward}
+བྱུང་བ: {come about: arises / arose / arise / came}
+མི་འབྱུང་བ: {does not come about: happen / never}
+བདག་ལ: {to oneself: oneself}
+བསམ: {turn over in mind: reflect}
+སྨད་ནས: {speak against: reproach}
+བྱ་ཞེས: {resolve to act: resolve}
+རིགས་པའི: {in accord with reason: appropriate}
+འདོད་པར་བྱ: {want, desire: desire}
+ཕྲད་པའམ: {come upon: encounter}
+ཐམས་ཅད་ལ: {the totality: everything}
+ཡང་བར: {of little weight: light}
+ལྡང་བ: {set to rise: ready}
+དྲན་ཏེ: {keeping in mind: remembering}
+གཏམ: {spoken words: words / talking}
+ཤིང་བལ: {cotton: cotton / ball}
+འོང་བས: {arriving: coming}
+དབང་བསྒྱུར་བ: {brought under control: controlled}
+དབང་བསྒྱུར་ཏེ: {exercises control: controls}
+སྤྲོ་བས: {eager gladness: enthusiasm}
+འགྲུབ་པར་འགྱུར: {is brought about: succeed}
+འཇུག་པ་ལས: {from the Bodhicaryāvatāra: engaging}
+བདུན་པའོ: {the seventh chapter: seventh}
+བསམ་གཏན: {dhyāna, meditative absorption: meditation / absorption / meditative}
+གཡེངས་པ: {turned aside: distracted}
+ཕྲག་ན: {in the grasp of: grip}
+ཏིང་ངེ་འཛིན: {samādhi, meditative absorption: meditation}
+སྤང་བྱ་ཞིང: {give up: abandon}
+འཇིག་རྟེན་སྤང་བྱ་ཞིང: {give up worldly concerns: abandon worldly things / abandon worldly}
+དབེན་པ: {apart from others: solitude / alone}
+རྣམ་པར་གཡེང་བ: {being turned aside: distraction}
+སྤོང: {give up: abandon}
+སྤོངས་ལ: {give up: abandon}
+འཇིག་རྟེན་མི་སྤོང: {not giving up worldly concerns: abandon worldly things / abandon worldly}
+སྲེད་པས: {tṛṣṇā, craving: craving}
+དཔྱད་པར་བྱ: {subject to scrutiny: examine}
+ལྡན་པའི: {possessed of: endowed / accompanied}
+ཞི་གནས: {śamatha, calm abiding: calm}
+མེད་ལ: {devoid of: free}
+ལྷག་མཐོང: {vipaśyanā, insight: insight}
+ཤེས་བྱས: {having come to know: knowing}
+བཙལ་བྱ: {search out: seek}
+ཆགས་པར: {gripped by craving attraction: attached}
+ཚེ་རབས: {successive births: lifetimes / lives / past lives}
+སུ: {interrogative person: person}
+སྡུག་པ: {agreeable: pleasant}
+དགར: {gladness: joy / happy}
+ངོམས་པར: {sated: satisfied}
+མཉམ་འཇོག: {settled in equipoise: settled}
+གདུང་བར: {being tormented: tormented / torment}
+ཆགས་བྱས: {gripped by craving attraction: attached}
+ཀུན་ནས: {on every side: completely}
+འཇིག་པར་བྱེད: {brings to ruin: destroys}
+སྒྲིབ: {casts a veil over: obscures}
+ཡང་དག་ཉིད: {how things really are: truth}
+ཐ་མར: {in the end: ultimately / eventually}
+སྐྱོ་བའི: {world-weariness: weariness}
+འཇིག་པར: {brought to ruin: destroyed}
+གཡུང་དྲུང: {lasting forever: eternal}
+མཛའ་བཤེས: {those held dear: friends}
+རྟག་པ་མེད་པའི: {not enduring: impermanent}
+འབའ་ཞིག་གིས: {nothing but: merely}
+འདའ་བར: {go past: pass}
+མཉམ: {on a par: equal / equals}
+བྱིས: {spiritually immature: foolish / foolish people / fools}
+བྱིས་པ: {spiritually immature person: foolish / foolish people / foolish person / people / person; a young one: children}
+བསྟེན་པས: {depending on: relying}
+ཁྲོ་བྱེད་པས: {becomes angry: angry}
+མཛའ: {those held dear: friends}
+སྐད་ཅིག་གཅིག་གིས: {in a single instant: instant}
+དགའ་བའི: {gladness: joy / delight}
+ཡུད་ཙམ: {a brief while: moment}
+སོ་སོའི: {unexalted, common: ordinary}
+སོ་སོའི་སྐྱེ་བོ: {pṛthagjana, ordinary beings: ordinary people}
+མགུ་བར: {give satisfaction to: please}
+ཁྲོ་བས: {wrath: anger}
+བཟློག་པར: {turn back, avert: turn / away / remove / removing / overcome}
+མཉན་ན: {give ear: listen}
+སྨྲས: {say, utter: speak}
+ཁོང་ཁྲོ་སྐྱེ: {anger arises: angry}
+དྲེགས: {haughty: arrogant}
+འགྲན: {vie with: compete / competition}
+ནམ་ཞིག: {at some time: ever; any longer: longer}
+མི་སྙན: {disagreeable to hear: unpleasant / unpleasantness; disparaging talk: ill}
+འགྲོགས: {keep company with: associates / associated}
+མི་དགེ: {karmically harmful: unwholesome}
+བསྟེན་པ: {depending on: relying}
+ཕུང་བར: {come to ruin: ruin / ruined}
+ཐག་རིང: {far off: away}
+འདྲིས་ཆེན: {closely familiar: intimate}
+མགུ་བྱས: {give satisfaction to: please}
+ཐ་མལ་པ་ཙམ: {a mere commonplace person: stranger}
+བུང་བས: {a bee: bee}
+འདྲིས་པ: {familiarity: intimacy}
+མ་མཐོང་བཞིན: {as if never seen: never}
+བླངས་ནས: {taking up: taking}
+དགའ་འོ: {be fond of: fond}
+འཆང་གྱུར་ན: {holds onto: harbors}
+མང་པོ: {a great many: people}
+སྙེམས་པ: {self-satisfaction: pride}
+ལྡང: {come up: arise}
+ཆགས་གྱུར་པ: {gripped by craving attraction: attached / attachment}
+བསྡོངས: {multiplied together: multiplied}
+སྟོང་འགྱུར་དུ: {a thousand times over: thousandfold}
+གང་དང་གང་ལ: {indefinite pronoun: whatever}
+ཆགས་མི་བྱ: {should not be attached: attached}
+འཇིགས་པ་སྐྱེ: {fear comes about: Fear arises}
+འདོར་འགྱུར་བས: {bound to be given up: impermanent}
+རྟོགས: {come to understand: understand / knows / known}
+སྙན་པ: {public repute: fame / renown}
+བསྟོད་པ: {commendation: praise}
+བཏང: {give up: abandon}
+འཇིག་རྟེན་བསམ་པ་བཏང: {give up concern for the world: abandon worldly}
+རྒྱལ་བས: {epithet of a buddha, victor: buddha / buddhas}
+མི་མགུ་ན: {cannot be satisfied: cannot}
+ངན་པས: {of low character: lowly}
+མགུ: {give satisfaction to: please / pleased}
+སྣ་ཚོགས་པ: {of many kinds: various}
+སྐྱེ་བར: {come into being: arise}
+སྨོད: {find fault with: criticize / criticized}
+འགྲོགས་དཀའ: {hard to get on with: difficult-to-please}
+དགའ་བ་སྐྱེ་བར་འགྱུར: {gladness comes about: joy arise}
+བརྗོད: {say, utter: speak / spoken}
+དེ་བཞིན་གཤེགས་པ་རྣམས་ཀྱིས་གསུངས: {as the tathāgatas declared: buddhas}
+བྱ་རྣམས: {winged creatures: birds}
+རི་དྭགས: {wild deer: deer}
+ནགས: {woodland: forest / forests / groves}
+རྗོད: {say, utter: speak}
+ལྷན་ཅིག: {along with: together; at the same time: simultaneously / simultaneous}
+ཤིང་རྣམས: {woody plants: trees}
+ཕུག: {rock hollow: cave / caves}
+སྟེང་པའམ: {empty of people: deserted}
+གནས་བཅས་ཏེ: {taking up abode: dwelling}
+མེད་པར: {not existing: non-existent / never; devoid of: free}
+ལྟ: {direct the eyes at: look / looks / seeing}
+ལྷ་ཁང: {shrine building: temple}
+ཆགས་མེད་པར: {without craving attraction: attachment}
+བཟུང་མེད་པ: {not laid claim to: claimed}
+རང་དབང་སྤྱོད: {acting freely: freely}
+ས་ཕྱོགས: {tract of land: land / place / regions}
+རང་བཞིན་གྱིས: {by its own character: naturally}
+ཡངས་རྣམས་སུ: {broad expanses: spaces / vast}
+ལྷུང་བཟེད: {alms bowl: bowl / begging}
+སྦ་བ: {concealing: hiding}
+ཉི་ཚེ: {bare requisites: necessities}
+མཁོའི: {what is needed: needed}
+འཆང་ཞིང: {holding, bearing: possessing / wearing}
+རུས་གོང: {the bones: bones / bone}
+དུར་ཁྲོད: {cremation ground: charnel ground / charnel / ground}
+འཇིག་པའི: {falling apart: decay}
+མགོ་སྙོམས་བྱེད: {treat as the same: equalize}
+སོང: {gone off: gone / away}
+གཞན་དག་གི: {other persons: others}
+ཉེར་འགྲོ: {draw near: approach}
+ཝ་དག: {jackals: foxes}
+བུར: {comparison marker: like}
+དྲི: {smell: smell / fragrance; foul smell: stench}
+རུས་དག: {the bones: bones}
+སྐྱེས་པའི: {having been born: born}
+ཞིག: {falling apart: decay; come to an end: ceases}
+མཛའ་བ: {those held dear: friends}
+སོ་སོར་འགྱེས: {part from one another: separate}
+མཛའ་བས: {those held dear: friends}
+གེགས: {what stands in the way: obstacle / obstacles}
+སྐྱེ་བའི: {taking birth: birth}
+ཞུགས་པ་རྣམས: {those who have set out: travelers}
+བཏེག: {bear up: carry / lift}
+སྐྱེས་བུ་བཞི་ཡིས: {four pallbearers: men}
+གདུང་བཞིན་དུ: {being tormented: tormented}
+བརྩིས་ནས: {reckon as: consider / having}
+ཤི: {cease to live: dead / die / dies}
+གནས་ཏེ: {remain, abide: dwell}
+འཁོན་པ: {those bearing a grudge: enemies}
+དབེན: {apart from others: solitude}
+གཡེངས་པར: {turn the mind aside: distract / distracted}
+དྲུང་ན: {close by: nearby}
+རྗེས་དྲན: {keeping in mind: remembering}
+འཁོད་པ: {seated: sitting}
+ཞི་བྱེད་པར: {bring to quiescence: calmed / pacify}
+མདངས་དགའ་བའི: {pleasing in aspect: delightful}
+ཚེགས་ཆུང: {with little trouble: easy}
+ནགས་ཚལ: {woodland: forest / forests / grove}
+བདེ་སྐྱིད: {ease and well-being: happiness / pleasant}
+བཏང་སྟེ: {giving up: abandoning}
+གཞག: {set in place: settle}
+དུལ་བར: {bring under control: tame}
+བཅིང: {tying fast: binding}
+དམྱལ: {the hell realms: hell / hells / lower realms}
+བསད: {put to death: killing / kills / killed}
+ཕུང་ཁྲོལ: {vexation: trouble}
+གྲགས་མིན: {bringing no repute: dishonorable}
+འཛེམས་པར: {hold back: hesitate}
+ཕོ་ཉ་ཕོ་ཉ་མོ: {go-betweens of both sexes: messengers}
+གསོལ་བཏབ: {made entreaty: pleaded}
+དུ་མར: {many occasions: times}
+ཕོ་ཉ་མོ: {female go-betweens: women}
+འཁྱུད: {hold in the arms: embrace / embraced}
+ཞུགས: {entered into: entered}
+དེ་དག་ཉིད: {those very ones: ones}
+ཡོངས་ཞེན: {fix onto entirely: cling}
+མིན་ན: {is nothing but: nothing}
+ཀེང་རུས: {a skeleton: skeleton}
+གཡོགས་པར: {having as covering: covered}
+དྲངས: {drawn along: pulled}
+ངོ་ཚས: {sense of shame: shame}
+མངོན་སུམ: {present to the senses: directly / direct / evident; direct perception: perception}
+འབྱེར་བར: {take flight: flee}
+ཁྱོད: {second person pronoun: yourself / yours}
+སེར་སྣ་ཅན: {grudging, stingy: miserly}
+ཅིས་མི་བསྲུང: {why not guard: why}
+རྒྱན་གྱིས་མཆོད: {deck with ornament: adorn}
+ཕྲེང་བ: {strung wreath: garland / garlands}
+ཙནྡན: {fragrant wood used in offering: sandalwood}
+ཉིད་དུ: {no more than: merely}
+འགུལ: {stirred: moved}
+བསྐྱོད: {set in motion: moved}
+འགའ་ཡིས: {indefinite person: someone}
+ཅིས་མི་འཇིགས: {why not be afraid: why}
+རོ་ལངས: {reanimated corpse: zombie}
+བྱུང་གྱུར་ན: {comes about: arise}
+མི་དགའ་ཞིང: {feel displeasure: dislike}
+བཤང: {excrement: feces}
+ཁ་ཆུ: {spittle: saliva}
+མི་བྱེད་པར: {does not do: doesn}
+མི་གཙང་བ: {unclean matter: impurity}
+འདོད་ལྡན: {one full of craving: lustful / desires / desire / people}
+སྔས: {a pillow: pillow}
+འཇམ་པ: {smooth to the touch: soft}
+མ་གཡོགས: {not covered over: uncovered}
+ཅིས་མི་འདོད: {why not want: why}
+ཆགས་མེད་ན: {if not craving: attached}
+རུས: {the bones: bones}
+སྦྲེལ་བ: {strung together: bound}
+གཟེབ: {a cage: cage}
+འདམ: {mire: mud / paste}
+ཞལ་ཞལ་བྱས: {smeared over: plastered}
+རྒྱུས་པས: {sinews: tendons}
+རྐྱལ་པ: {sacks: bags}
+གཏན: {at all times: constantly}
+བརྐམ་པས: {be avid for: crave}
+མི་གཙང་བརྐམ་པས: {craving what is unclean: desire impurity}
+ཁྱོད་ཉིད: {second person emphatic: yourself}
+ཞེན་པའི: {fixation: clinging}
+སྤྲིན: {banked masses: clouds}
+བྲལ: {free of: free; come to an end: ceased}
+ཕྱེ་བའི: {opened out: opened}
+ཟེར: {beams of light: rays}
+ཉི: {the sun: sun}
+གཞོན་ནུ: {young in years: young / youthful}
+གོས་པ: {smeared, stained: soiled}
+བྱུང་གྱུར: {came about: came}
+ཞིང: {a buddha-field: realm; cultivated land: field}
+ས་བོན: {what a plant grows from: seed}
+སྐྱེས་པའང: {having been born: born; a person: person}
+ཆུང་ངུའང: {very small: tiny}
 སྲིན: {a worm: worm}
-སྲིན་པོ: {rākṣasa demon(s): rākṣasa demons / rākṣasas}
-སྲིན་བུ: {worms (term): worms}
-སྲུང་བར: {to guard, protect: guard / protect}
-སྲུང་བྱེད: {protects: protect}
-སྲུང་མ: {guardian deities: guardians}
-སྲུང་མས་: {by the guardians: guardians}
-སྲུངས: {guard! (imperative): guard}
-སྲེག: {burnings (term): burnings}
-སྲེག་པ: {burned (action/state): burned}
-སྲེག་པའི: {for burning (action/state): for burning}
-སྲེག་པར་བྱེད: {consumes (burns): consumes}
-སྲེད: {craving: craving / craves}
-སྲེད་: {craving (mental state): craving}
-སྲེད་པ: {craving (mental state): craving}
-སྲེལ་བྱེད་ན་: {when worn: worn}
-སྲོག: {life, life-force: life-force / life / lives}
-སླ་བར: {more easily: easier}
-སླན་ཆད: {from now on (term): from now on}
-སླར: {instead, again: instead}
-སླར་ཡང: {arises again: arise again}
-སླུ་སེམས: {a deceitful mind: deceitful mind}
-སློང་བ: {beggars (term): beggars}
-སློང་མོ་བ: {a beggar: beggar}
-སློབ་དཔོན: {master(s), teacher: masters / master}
-སློབ་དཔོན་ཤནྟ་དེ་བ: {the master Śāntideva: master Śāntideva}
-སློབ་མ: {a student: student}
-ཨུཏྤལ: {utpala (blue lotus): utpala}
+སྨོད་མི་བྱེད་པར: {without finding fault: criticize}
+ག་པུར: {aromatic white resin: camphor}
+ཡིད་འོང: {pleasing to the mind: pleasant / delightful / dear}
+འབྲས་ཆན: {cooked rice: rice}
+བཙོག་པར: {made filthy: soiled}
+ཕྱིར་ཕྱུང: {eject from the mouth: spit}
+ཐེ་ཚོམ: {uncertainty: doubt / doubts}
+སྐྱེ་འགྱུར་བར: {comes into being: arise / arises}
+འཇིགས་པ་ཆེན་པོ་སྐྱེ་འགྱུར་བར: {great fear comes about: Fear arises}
+ཁ་ཕྱེ་ན: {stripped off: peeled}
+པགས་པའི: {the skin: skin}
+བསྐུས་པའི: {smeared on: applied}
+གཞན་མ་ཡིན: {not something other: else}
+ཅི་ཡི་ཕྱིར་ན: {interrogative of reason: why}
+སྐུད: {smear on: apply}
+ང་བས: {bad in quality: bad}
+སྲེག་པ: {consuming by fire: burn / burned}
+དྲི་ཞིམ: {sweet-smelling: fragrant / fragrances}
+ཞིམ: {pleasing to taste: sweet / delicious / tastes}
+ཇི་སྟེ: {interrogative of reason: why}
+མ་ཆགས་ལེགས་མིན་ནམ: {would it not be better not to crave: wouldn}
+སྐྲ: {hair of the head: hair}
+སེན: {horn at the fingertips: nails}
+གཅེར་བུ: {unclothed: naked}
+དྲིར: {what the nose perceives: smell}
+དྲིས: {what the nose perceives: smell}
+སོ: {the teeth: teeth; cutting edge: blade}
+སྐྱ: {pale-coloured: yellow}
+བྱི་དོར: {make clean: clean}
+ཀུན་ཏུ: {thoroughly: completely}
+འཁྲུགས: {thrown into disorder: disturbed}
+འབད: {apply effort: strive / efforts}
+འབད་པ: {exertion: efforts}
+རང་ལ་གནོད་པའི: {doing injury to oneself: harms oneself}
+སྨྱོས་པས: {derangement: madness}
+རང: {oneself, reflexive: oneself; unaccompanied: solitary}
+གྲོང: {a town: city}
+ཡིད་འབྱུང: {turned away in revulsion: disgusted}
+ཁྱབ་པའི: {filled with: filled}
+གཡོ་བའི: {stirring: moving}
+བསྒྲུབས་པས: {exerting oneself: striving}
+དེ: {that item: thing}
+དར་ལ་བབ: {come to full growth: mature}
+རྒས་ནས: {grown old: old}
+གཏུགས: {used up: spent}
+དུབ: {worn out: exhausted}
+ཁྱིམ: {household: home}
+འདོད་ལྡན་ངན་པ: {base people full of craving: people}
+འོངས: {arriving: comes / return}
+ཆད་པའི: {worn through: worn}
+སོང་བའི: {gone off: away}
+བུ: {offspring: children / son}
+བྱེས་བགྲོད: {journey abroad: travel}
+རྣམ་རྨོངས་པས: {utterly deluded: deluded}
+བདས: {driven along: driven}
+དོན་མེད་པའི: {serving no purpose: meaningless}
+བདག་ལ་ཕན་འདོད: {wanting benefit for oneself: self-benefit}
+བཙོང་བ: {trades away for a price: sells}
+དགོན་པར: {uninhabited place: deserted / places}
+ཤིང་དྲུང: {foot of a tree: trees}
+ཆུང་མ: {spouses: wives}
+བསླུས་པའི: {having been misled: deceived}
+དོགས་བཞིན: {in apprehension: fearing}
+འཚོ་བར: {sustain life: live}
+བསྲེགས་པ: {consumed by fire: burned}
+བཙུགས: {fixed on a stake: impaled}
+གསལ་ཤིང: {sharpened stakes: stakes}
+གྲོལ: {set free: freed / liberated / liberation}
+བརླག་པའི: {coming to ruin: destroyed / losing}
+སྐབས: {an opening: opportunity / gaps}
+མནོག་ཆུང: {of little worth: benefit}
+ཤིང་རྟ: {a cart: cart}
+ཕྱུགས: {draught animals: cattle}
+ཟོས: {take as food: eat / eating}
+ཉེས་དམིགས: {drawbacks: faults}
+ཁམ་འགའ: {a few mouthfuls: few / mouthfuls}
+འདྲེན་པའི: {drawing along: pulling}
+དལ་འབྱོར་ཕུན་སུམ: {leisure and endowment complete: precious}
+མནར་བ: {racked with pain: tormented}
+ལྟུང་བྱེད་པ: {cause to fall: bring}
+དུས་ཀུན་དུ: {at all times: constant}
+འཇིག་འགྱུར: {comes to ruin: destroyed}
+ཚེགས: {trouble taken: effort}
+དུབ་པའི: {worn out: toil}
+བྱང་ཆུབ་སྤྱོད་པ་བས: {those in bodhisattva conduct: bodhisattvas}
+སངས་རྒྱས་ཉིད: {buddhahood itself: buddhahood}
+བྱེ་བའི་ཆ་ཙམ: {a ten-millionth part: fraction}
+མི་ཕོད: {cannot bear to: cannot}
+བསམ་བྱས་ན: {turning over in mind: considering / consider}
+གཡང་ས: {sheer drops: precipices}
+སྟོང་པ: {devoid of: free}
+ཞི་བའི: {at peace: peaceful}
+རྩོད: {contention: quarrels / dispute}
+སྐྱོ་བྱས་ཏེ: {grown weary: weary}
+ཕན་དོན: {another's good: benefit}
+བསིལ་བའི: {made cool: cooled}
+ཉམས་དགའ་བར: {agreeable to be in: delightful}
+ཁང་བཟང: {fine dwellings: mansions}
+ཟླ་འོད: {light of the moon: moonlight}
+ཡངས་པའི: {ample in extent: spacious}
+རྡོ་ལེབ: {flat rock: stone}
+སེམས་ཤིང: {turning over in mind: thinking}
+འཆག་པར: {walk about: wander}
+ཡོངས་འཛིན: {holding as one's own: attachment / clinging}
+སྟོང: {devoid of content: empty}
+བག་ཡངས: {at ease: freely}
+ཁང: {dwellings: houses}
+གང་དང་ཡང: {indefinite person: anyone}
+ཆགས་མེད་ལ: {without craving attraction: attachment}
+འབྲེལ་མེད་པ: {not tied to: connected}
+ཆོག་ཤེས: {knowing what suffices: contentment}
+བདེ་སྤྱོད: {live in ease: happiness}
+དབང་པོས: {having great force: powerful}
+ཞི་བ: {quiescence: calm / calming}
+བསམ་བྱས་ནས: {having turned over in mind: considered}
+བསྒོམ་པར: {cultivate in meditation: meditate}
+དབེན་པའི: {apart from others: solitude}
+རྣམ་རྟོག: {discursive thought: thoughts / conceptualization}
+མཉམ་པས: {being on a par: equality}
+བདེ་བ་འདོད: {wanting happiness: desiring happiness}
+དབྱེ་བ: {divisions: parts}
+བསྲུང་བྱའི: {to be kept safe: protected}
+ཞེན་པས: {fixation: clinging}
+བཟོད་པར: {bear, put up with: bear}
+གཞན་གྱི: {belonging to another: theirs}
+ཁྱད་པར: {a distinguishing feature: difference / different / particular}
+མཚུངས་པ: {on a par: equal / like}
+སྡུག་བསྔལ་མི་འདོད: {not wanting pain: desiring suffering}
+སྲུང་བྱེད: {keep safe: protect}
+ཅི་བསྲུང: {why guard: why}
+ཤི་བའང: {cease to live: dies}
+མྱོང: {undergo, live through: experience / experienced}
+ལོག་པ: {in error: mistaken}
+རྣམ་པར་རྟོག: {conceptual notion: notion}
+སྙམ་པའི: {the thought that: thought}
+རྐང་པའི: {of the foot: foot}
+ལག་པས: {with the hand: hand}
+སྤང་བྱ: {give up: abandon}
+འཛིན་པས: {fixation, grasping: clinging}
+མི་རིགས: {not in accord with reason: illogical}
+རིགས་པ: {in accord with reason: logical}
+དམག: {armed force: army}
+རྒྱུད: {mental continuum: continuum / mind / minds}
+དབང་བར: {given power over: empowered}
+བརྫུན: {not true: false}
+ངེས་པས: {full conviction: certainty}
+བསལ་བྱ: {cleared away: removed}
+བདག་པོ: {an owner, controller: self}
+བརྩད་དུ་མེད: {not open to dispute: dispute}
+དེ་མིན: {if not that: otherwise}
+ཅེ་ན: {if one asks: ask}
+སྐྱེད: {bring into being: brings / produce / cultivated}
+སྙིང་རྗེ: {karuṇā, compassion: compassion}
+སྙིང་རྗེ་སྡུག་བསྔལ: {compassion regarding suffering: suffering compassion}
+སྙིང་རྗེ་སྡུག་བསྔལ་མང་གྱུར་པ: {full line, compassion brings much suffering: suffering compassion brings}
+བརྩེ་དང་ལྡན་པས: {possessed of loving concern: compassionate}
+བསྐྱེད་བྱ: {bring into being: generate}
+རྒྱལ་པོའི: {a ruler: king}
+ཟླ་མཛེས: {proper name, Supuṣpacandra: moon-beautiful}
+གོམས་གྱུར་པ: {grown used to: accustomed}
+ཞི: {come to quiescence: calming / pacifying / ceases}
+མནར་མེད་པར: {Avīci, the deepest hell: lowest hell / hell}
+པདྨའི: {of the lotus flower: lotus}
+ངང་པ: {waterfowl: swan / swans}
+ཆོག: {sufficient: enough}
+གྲོལ་བ: {set free: liberated}
+ཐར་པ: {release from saṃsāra: liberation}
+རེ་བ: {expectation: hope / hopes}
+རློམ་སེམས: {self-satisfaction: pride}
+གཅིག་ཏུ: {exclusively: solely}
+བདག་བསྲུང་བ: {keeping oneself safe: protects oneself}
+ཆུང་ངུ་ན: {the least amount: slightest}
+ཐིགས་པ: {droplets: drops}
+བདག་གོ: {belonging to me: mine}
+ཁུ་བ: {generative fluid: semen}
+གཟུང: {take hold of: grasping / perceive}
+བཞག་པ: {set in place: place}
+བདག་ཉིད་སྐྱོན་བཅས་...ཤེས་བྱས་ནས: {knowing oneself to be flawed: Knowing oneself}
+རྒྱ་མཚོར: {the sea: ocean}
+བདག་འཛིན: {clinging to a self: self-clinging}
+བླང་བ: {taking up: taking}
+གོམས་པས: {grown used to: habit / habituating}
+ཅིས་མི་སྐྱེ: {why not arise: why}
+རློམ: {self-satisfaction: pride; suppose, fancy: imagine}
+ལན: {requital: reward}
+གོམས་པར: {grow used to: cultivate / habituate}
+སྤྱན་རས་གཟིགས: {proper name, Avalokiteśvara: avalokiteshvara}
+བྱིན་གྱིས་བརླབས: {consecrated: blessed}
+ཐུགས་རྗེ་ཆེན་པོས: {with great compassion: compassion}
+འཁོར: {saṃsāra, the round: cyclic}
+མགོན་པོ་སྤྱན་རས་གཟིགས: {Avalokiteśvara as refuge: Protector Avalokiteshvara}
+བསལ་བའི: {clear away: remove}
+གོམས་པའི: {grown used to: habit}
+དཀའ་ལས: {toil and difficulty: hardship}
+ཕྱིར་ལྡོག: {turn back: turn}
+བརྗེ་བྱ་བ: {make an exchange: exchanging}
+བསྐྱབ་པར: {give shelter to: protect}
+གསང་བའི: {esoteric: secret}
+འཇིགས་གནས: {sources of peril: dangers}
+སྡང: {bear ill will: hate}
+གསོད་པར: {put to death: killing; snuffing out: extinguishing}
+སྒུགས: {hold off, bide: wait}
+དཀོན་མཆོག་གསུམ: {the Three Jewels: jewels}
+དཀོར: {property of the Three Jewels: property}
+རིམ་གྲོའི: {being waited on: respect}
+བརྐུས: {takes by stealth: steals}
+བརྙས་མི་བྱེད: {does not treat with contempt: despise}
+འདྲེ་ཡི་ཚུལ: {of the nature of a demon: demonic}
+ལྷ་ཡི་ཆོས: {the way of the gods: divine}
+བདག་དོན: {one's own advantage: self-interest}
+ཕུན་སུམ་ཚོགས་པ: {abundance of good things: excellent / qualities}
+བདག་ལ་གནོད་བྱས: {doing injury to oneself: harms oneself}
+གདུངས་པར: {racked with pain: tormented}
+འཐོབ་པར: {come to have: attain}
+གླེན་པར: {dull-witted: foolish}
+བདེ་འགྲོ: {higher realms of rebirth: happy realms / happy / realms / fortunate / rebirths}
+སྤོ་བྱས: {shifts over: transfers}
+མྱོང་བར: {undergo, live through: experience}
+རྗེ་དཔོན: {one in authority: lord}
+བཀོལ: {puts to use: uses}
+བྱིས་པ་རང་གི་དོན་བྱེད: {a foolish person acting for self: foolish person acting}
+ལྟོས: {look at: look; contingent on: dependent / depends}
+སྟེར་བའི: {bestowing: giving}
+རྔན་པ་མི་སྟེར་བའི: {not giving wages: giving rewards}
+ཕར་ཞོག་གི: {set that aside: let}
+རྗེ་དཔོན་རྔན་པ་མི་སྟེར་བའི: {a master who gives no wages: lord not giving}
+རྔན་པ: {payment for service: rewards}
+ལས་མི་བྱེད་པ: {not doing the work: working}
+བོར་ཞིང: {casting aside: abandoning}
+ཕུན་སུམ་བདེ་སྐྱིད་ཡོངས་བོར་ཞིང: {casting aside all excellence: Abandoning all excellent}
+རྒྱུས: {productive condition: cause}
+ཕུན་སུམ: {abundant, complete: excellent / perfectly}
+སྡུག་བསྔལ་བྱས་པའི: {causing pain: harming}
+མ་མཐོང: {not seen: unseen}
+འཛིན་པ: {fixation, grasping: clinging}
+འདྲེ་ཆེན: {a great demon: demon}
+ཡོད་གྱུར་པ: {come to be present: exist}
+འཚེ་བ: {doing violence: harm}
+སྤང་བར: {give up: abandon; keep clear of: avoid}
+སྤོང་བར: {give up: abandon; keep clear of: avoid}
+བདག་ཉིད་ཡོངས་སུ་མ་བཏང་ན: {if one does not give oneself up: abandon oneself}
+སྡུག་བསྔལ་སྤང་བར: {give up suffering: abandon suffering}
+མ་གཏོགས་པར: {leaving aside: except}
+ཤེས་གྱིས་ལ: {come to know: know}
+ལ་སོགས་པ: {and the rest: towards}
+གཙོར་བྱ: {put first: prioritize}
+ཅི་མཐོང་བ: {whatever one sees: whatever}
+བཀུར་བྱས: {shown respect: honored}
+བསྟོད་བྱས: {commended: praised}
+གྲག: {spoken of: known}
+དང་དུ་བླང: {take up willingly: accept}
+གསོ་དགོས: {must be healed: heal}
+གུད: {other matters: things}
+བརྙས་པ་བྱེད: {treat with contempt: despise}
+གསོ་བྱ: {restored to health: healed}
+ཅི་བྱ: {rhetorical, what is the use: why}
+བདོ་བར: {rise up against: overcome}
+རློམ་པ: {self-satisfaction: pride}
+བསྒྲུབ: {bring about: achieve}
+རྩོད་པ: {contention: conflict}
+རང་ཉིད: {oneself: oneself / itself}
+ལྷག: {surpassing: superior / highly}
+གསལ་བ: {unclouded, evident: clear / clearly / manifest}
+ཐོས་པར: {perceive by ear: hear}
+སྦ་བྱ: {kept out of sight: hidden}
+བཞད་གད: {derisive laughter: laugh}
+མ་རུངས: {not proper: wrong}
+སྤུ་ལྡང: {hair standing on end: goosebumps}
+བསྒྲགས་པ: {made known publicly: proclaimed}
+ལས་བྱེད: {does the work: works}
+ཉམས: {impaired: afflicted / deprived; savour: taste}
+གནོད་པ་བྱས: {did injury: harmed}
+བརྒྱ་ཕྲག་ཐམས་ཅད་དུ: {through all hundreds of births: lifetimes}
+བསྒྲུབས: {brought about: created / built}
+ངལ་བ: {toil: effort / efforts}
+འདས་གྱུར: {gone by: passed}
+ཐུབ་པའི: {muni, epithet of the Buddha: buddha}
+མི་སླུ་བས: {that does not fail: unfailing}
+བཀའ: {authoritative pronouncement: words}
+བྱས་པར: {carried out: done}
+དུས་སུ: {occasion: times / season}
+ངར་འཛིན: {clinging to an "I": clung}
+སྣང་བ: {come into view: appears / appear}
+རྟོག་ཆེན་བྱས་ནས: {having deliberated much: considered}
+ཅི་སྣང་བ: {whatever appears: whatever}
+ཕན་བྱེད: {being of help: beneficial}
+སྐྱིད: {in ease: happy}
+ཅིས་མི་བྱེད: {why not do: why}
+ཤོགས: {may it be so: let / known}
+བསྒྱུར་བྱོས: {turn into something else: transformed}
+ཟིལ་གྱིས་ནོན: {outshine: eclipse}
+གྲགས་པ: {public reputation: fame}
+ཐ་མ: {lowest in rank: lowest}
+དོན་རྣམས: {aims, objectives: purposes}
+དེ་ལྟར་གྱིས: {act so that: ensure}
+སྐྱོན་ཅན: {marred by defect: flawed}
+འབབ་པར་གྱིས: {let it fall to: let}
+བག་མ: {a new bride: bride}
+བཞག: {set in place: keep / established}
+ཚུལ་དུ: {in the manner of: like}
+བསྡམས: {held in restraint: restrained}
+གཉའ་དྲག: {stiff-necked: stubborn}
+ཚར་གཅད་བྱ: {be dealt with punitively: punished}
+འདས་ན: {oversteps: transgresses}
+གདམས: {counselled: advised}
+དྲེགས་པ: {haughtiness: arrogance}
+སྔོན་གྱི: {of earlier time: former}
+དོར་ཅིག: {give up (imperative): abandon}
+ཞོ: {curds: milk}
+སྐྱོ་བར: {downcast: sad}
+ཁོན་རྣམས: {grudges: grievances}
+དྲན་བྱས་ཏེ: {bringing to mind: remembering}
+རང་དོན: {concerned with oneself: self-centered}
+སྐྱོང་བར: {look after: cared / protect / protected}
+བཟེ་རེ་ཅན: {hard to satisfy: demanding}
+ཉམས་པའང: {coming up short: disappointment / unfulfilled}
+ཟད་མི་ཤེས: {knowing no end: endless}
+ལྟོས་མེད་པ: {not dependent: free}
+ཕུན་ཚོགས: {abundant, complete: abundant; full well-being: happiness}
+སྐབས་དབྱེ་མི་བྱ་སྟེ: {do not give an opening: let}
+ཡིན: {be the case: exist / arises / truly}
+ཐལ་བའི: {what remains after burning: ashes}
+འཛིན: {take hold of, apprehend: cling / perceive / apprehended; the apprehending subject: perceiver}
+མཐར་གཏུགས: {taken to the end: turn}
+ཁྱད: {a distinguishing feature: difference / differences / different}
+གསོན: {remain alive: lives}
+བོང: {a log: log}
+སེལ: {clear away: remove}
+ཁོང་ཁྲོ་བ: {wrath: anger}
+ཁ་ཏ: {looking after: care}
+ཆགས་མེད: {without craving attraction: attachment}
+བསྐྱངས: {looked after: care}
+ཁྲོ་བ: {becomes angry: angry}
+འགྱུར་བ: {comes to be: gets}
+སྨོད་པས: {spoken against: insulted}
+འདོད་འགྱུར་བ: {comes to want: desires}
+ཅིས་མི་དགའ: {why not be glad: why}
+སྤྱོད་པས: {manner of acting: behavior / practices}
+བྱིས་པའི: {immature, childish: childish}
+རྨུགས་པ: {torpor: dullness}
+རྗེས་བསྙགས: {go after: follow}
+གཞག་པར: {set in place: focused / keep}
+སྒྲིབ་པ: {āvaraṇa, obscuration: hindrances / veils}
+དམིགས: {take as object: object / objects / grasping / perceived}
+བླན་ཏེ: {turn toward: turn}
+ལོག་པའི: {mistaken: wrong}
+ཕ་རོལ་ཏུ་ཕྱིན་པ: {pāramitā, perfection: perfection}
+ཐུབ་པས་...གསུངས: {as the Sage declared: Buddha taught}
+ཞི་བར: {come to quiescence: cease}
+དེ་ཡི་ཕྱིར་ན: {consequential connective: therefore}
+ཀུན་རྫོབ: {saṃvṛti, conventional truth: conventional / conventional reality / relative / conventionally / reality}
+སྤྱོད་ཡུལ: {sphere of engagement: object}
+དོན་དམ: {paramārtha, ultimate truth: ultimate / reality}
+རྣམ་གཉིས: {sorts: kinds}
+འཇིག་རྟེན་ཕལ་པ: {ordinary worldly people: ordinary people}
+རྣལ་འབྱོར་པ: {yogin, meditative practitioner: practitioners / Spiritual practitioners}
+རྣལ་འབྱོར: {yoga, meditative practice: spiritual / practitioner}
+མ་དཔྱད: {without analysing: analyze}
+རྟོག་བྱེད: {form a conception: conceive}
+དངོས: {an actual thing: things / existent / existence / existing / essence; in reality: truly}
+སྒྱུ་མ: {māyā, a conjured appearance: illusion / illusions}
+འཇིག་རྟེན་པ: {ordinary worldly people: ordinary / ordinary people}
+ཡང་དག་ཉིད་དུ: {in reality: truly}
+རྫུན: {not true: false}
+མི་གཙང་ལ: {unclean: impure}
+གཙང་སོགས: {purity and the like: purity}
+ཚད་མས: {pramāṇa, valid cognition: valid}
+མགོན་པོས: {one who shelters others, the Buddha: buddha / protector}
+མགོན་པོས་དངོས་བསྟན: {the Buddha taught that things exist: Buddha taught things / Buddha taught}
+འགལ: {stand in contradiction: contradiction / opposing}
+ཀུན་རྫོབ་ཏུ: {on the conventional level: conventionally}
+གཞུག་པའི: {leading them in: guiding}
+སྐད་ཅིག་མ: {lasting only an instant: momentary}
+དེ་ཉིད་དུ: {in ultimate reality: truly / ultimately / reality}
+རྟོག: {form a conception: conceives / conception}
+ཉེས་མེད: {free of fault: faultless}
+མི་གཙང་བར: {unclean: impure}
+ཤི་ནས: {after dying: death}
+དངོས་ཡོད: {really existing: existing / truly}
+སྒྱུ: {a conjured appearance: illusion / illusions}
+སྒྱུ་འདྲའི: {like an illusion: illusory}
+སྒྱུ་འདྲའི་རྒྱལ: {an illusion-like buddha: illusory Buddha}
+འདྲའི: {comparison marker: like}
+འཚོགས: {come together: assembled}
+ཡོད་པ: {be, exist: exist / existent}
+རྒྱུན་རིང་ཙམ: {over a fairly long span: long time}
+བདེན་པར: {as really so: truly / true}
+སྒྱུ་མའི: {like an illusion: illusory}
+སྐྱེས་བུ: {a person: person}
+སྒྱུ་མའི་སེམས: {an illusion-like mind: illusory mind}
+ནུས: {capacity: power}
+ཡོད་མ་ཡིན: {does not exist: cannot / found}
+རྐྱེན: {pratyaya, contributing condition: condition / reasons}
+གང་ན་ཡང་ནི: {in no place: nowhere}
+མ་ཆད: {not cut off: cease}
+རྒྱུན: {continuum, unbroken series: stream / streams}
+འཁྲུལ་པ: {mistaken apprehension: delusion}
+དམིགས་པར: {taken as object: perceived}
+མི་གཅོད: {does not sever: cannot}
+གསལ་བར་བྱེད: {makes visible: illuminates}
+མར་མེ: {butter-lamp: lamp}
+སྔོན་པོ: {blue in colour: blue}
+སྔོ་ཉིད: {the quality of being blue: blueness}
+ཤེལ: {rock crystal: crystal}
+ལྟོས་པ: {be contingent on: depend}
+གསལ་བར་བྱ: {make visible: illuminate}
+བསྒྲིབས་པ: {shrouded: obscured}
+ལྟོས་མེད: {not contingent: independent}
+གསལ་བར་བྱེད་དོ: {makes visible: illuminates}
+ཤེས་པས: {by knowing: knowing}
+འགས: {indefinite person: anyone}
+མོ་གཤམ: {infertile: barren}
+བུ་མོའི: {a daughter: daughter}
+འགྱིང་བག: {manner of moving: gait}
+མི་གསལ་བ: {not evident: unclear}
+མོ་གཤམ་བུ་མོ: {the barren woman of the example: woman}
+རྣམ་ཤེས: {vijñāna, consciousness: consciousness / consciousnesses}
+མྱོང་བ: {undergoing, living through: experience}
+བཞིན་ནོ: {comparison marker: like}
+དྲན་པར: {recollection: memory / remembered}
+བྱི་བའི: {a mouse: mouse}
+དྲན་འགྱུར: {called to mind: remembered}
+རང་རིག: {svasaṃvedana, reflexive awareness: self-awareness}
+མིག་སྨན: {ointment for the eyes: eye-salve}
+གྲུབ་པའི: {brought about by magic: magical}
+བུམ: {a vessel: pot / pots}
+རབ་གསལ: {lighting itself: self-illuminating}
+བཟློག་བྱ: {what is to be refuted: refuted}
+དངོས་རྟེན་ཅན: {having a real basis: existent}
+བལྟ་བྱ: {what is looked at: object}
+ལྟ་བྱེད: {that which perceives: perceiving}
+མཁའ: {open expanse: space}
+བདེན་མིན: {not really so: truly / true}
+གྲོགས: {one who accompanies: companion}
+དངོས་མེད: {absence of a real thing: non-existent / non-existence}
+དེ་བཞིན་གཤེགས: {tathāgatas: buddhas}
+བརྟགས: {form a conception: conceiving / conceived}
+ལྡོག: {come to a stop: cease}
+དེ་བྱེད: {that which produces it: creator}
+མ་སྤངས: {not given up: abandoned}
+དེ་བྱེད་པ: {that which produces it: creator}
+སྟོང་ཉིད: {śūnyatā, emptiness: emptiness}
+བག་ཆགས: {vāsanā, latent imprint: habitual / pattern / patterns}
+སྤོང་འགྱུར: {gives up: abandoned / abandons}
+དངོས་པོའི: {of a real thing: existing / things}
+ཅི་ཡང་མེད: {there is nothing at all: nothing}
+བརྟག་བྱའི: {what is to be investigated: investigated}
+མི་དམིགས་པ: {not taken as object: perceived}
+མི་གནས་པ: {not staying: remaining / longer}
+དམིགས་པ: {ālambana, object taken up: object / objects / perceived / perception / grasping / conceptualization}
+སྣང་ངོ: {comes into view: appears}
+སྨོན་ལམ: {praṇidhāna, vow of aspiration: aspirations}
+སྐུར: {bodies (honorific): forms}
+སྐོང་བ: {brings to fulfilment: fulfills}
+ནོར་བུ: {a wish-granting gem: jewel}
+གདུལ་བྱ: {those to be trained: tamed}
+དཔག་བསམ: {granting whatever is wished: wish-fulfilling / wish-granting}
+དཔེར་ན: {introducing an instance: example}
+ནམ་མཁའ་ལྡིང: {garuḍa, mythical bird: garuda}
+ཞི་བྱེད: {brings to quiescence: pacifies}
+མཆོད་སྡོང: {a consecrated pillar: shrine}
+རྗེས་མཐུན་པར: {in accord with: accordance}
+བསྒྲུབས་པ: {brought into being: built}
+མྱ་ངན་ལས: {nirvāṇa: nirvana}
+སྤྱོད་པའི: {caryā, way of acting: practices}
+མཚུངས་པ་ཉིད་དུ: {in equal measure: equally}
+རུང: {fitting: appropriate}
+བདེན་པའི: {really existing: existing / truly}
+བདེན་པའི་སངས་རྒྱས: {a truly existing buddha: existing Buddha}
+ལུང: {authoritative text: scripture / scriptures}
+གྲོལ་འགྱུར: {set free: liberated}
+མཐོང་བས: {by seeing: seeing}
+ཡིད་ཆེས: {hold as credible: believe}
+ཡང་མཚུངས: {in equal measure: equally}
+གང་གིས: {indefinite pronoun: whatever / something}
+རིག་བྱེད: {the Vedas: vedas}
+དོར་བྱར: {to be given up: abandoned}
+རྩོད་བཅས: {open to contention: disputed}
+མུ་སྟེགས་པ: {tīrthika, non-Buddhist: non-buddhists}
+དཀའ་བར: {not easy: difficult}
+དགེ་སློང: {bhikṣu, monk: monk}
+མྱ་ངན་འདས་པ: {nirvāṇa: nirvana}
+རྩ: {the root: root}
+སྤངས་པས: {by giving up: abandoning}
+དེ་མ་ཐག་ཏུ: {at once: immediately}
+ངེས་པ་ཉིད: {settled as certain: definitely / assert}
+ཀུན་རྨོངས: {general delusion: delusion}
+ཉེར་ལེན: {upādāna, appropriation: grasping}
+ཚོར་བ: {vedanā, feeling: feeling / feelings}
+ཚོར་བ་...ཡོད: {feelings are present: feelings exist}
+སྙོམས་འཇུག: {samāpatti, meditative attainment: absorption / meditative}
+སླར་ཡང: {once more: again}
+སྐྱེ་འགྱུར: {come into being: arise / arises}
+འགགས་པ: {having ceased: cessation}
+བྲལ་བའི: {devoid of: devoid}
+འདུ་ཤེས: {saṃjñā, discernment: perception}
+ཅི: {interrogative of reason: why}
+མ་གཏོགས: {leaving aside: exception}
+སྐྱོན་དང་བཅས: {marred by defect: flawed}
+གཏིང་དཔོགས: {sound the depths: fathom}
+འོད་སྲུངས: {proper name, Kāśyapa: kashyapa}
+སོགས་པས: {and the rest: others}
+གཟུང་བྱ་མིན་པར: {not to be accepted: unacceptable}
+མ་རྟོགས: {fail to understand: understand}
+མཐའ: {extreme position: extremes}
+འཐད་མ་ཡིན: {not tenable: appropriate}
+སྟོང་པ་ཉིད: {śūnyatā, emptiness: emptiness}
+སུན་འབྱིན་པ: {arguing against: refuting}
+མུན་པའི: {absence of light: darkness}
+མཁྱེན: {know (honorific): know}
+ཤེས་བྱའི: {what is to be known: object of knowledge / objects of knowledge / knowledge / object / objects}
+སྒོམ: {cultivated in meditation: meditated}
+སྐྱེད་བྱེད་པ: {brings into being: causes}
+ཞི་བྱེད་པ: {brings to quiescence: pacifies}
+ཅི་ཡང: {indefinite thing: anything}
+འཇིགས་འགྱུར: {be afraid: fear}
+ཆུ་སེར: {serous bodily fluid: lymph}
+སྣབས: {discharge from the nose: mucus}
+བད་ཀན: {phlegm, a bodily humour: phlegm}
+རྣག: {matter from a sore: pus}
+ཞག: {body fat: fat}
+ཕྱི་ས: {excrement: feces}
+ནང་ཁྲོལ: {inner parts of the body: internal}
+མཆིན: {the liver: liver}
+གློ: {the lungs: lungs}
+ཁྲོལ: {inner organs: organs}
+རྔུལ: {moisture from the skin: sweat}
+གཅིན: {bodily waste fluid: urine}
+རྣམ་ཀུན་དུ: {in every respect: aspects}
+དྲོད: {bodily warmth: heat}
+བུ་ག: {openings in the skin: pores}
+རིག: {come to know: knows}
+ཐོས་པ: {perceive by ear: hear}
+ཡང་དག་ཉིད་མིན: {not really so: truly}
+རྡུལ: {smallest particle: particle / particles; rajas, the active guṇa: rajas / activity}
+སྙིང་སྟོབས: {sattva, the lucid guṇa: sattva / clarity}
+མུན་པ: {tamas, the inert guṇa: tamas / inertia}
+སྒྲ་འཛིན: {that which apprehends sound: perceiver}
+གར་མཁན: {a dancer: actor}
+ཚུལ: {mode, manner: aspect}
+ཡོད་ཉིད: {being, existence: existence / existing / existent}
+སེམས་མེད: {without mind: insentient / insentient things}
+འདྲ་བའི: {likeness: similarity}
+དེ་དག: {those items: things}
+བུམ་སོགས: {pots and the like: things}
+བྱ་བྲལ་བ: {free of activity: actionless}
+ཤེས་མེད: {without cognition: non-knowing}
+འགྱུར་མེད: {not undergoing change: unchanging}
+རིགས་མིན: {not in accord with reason: illogical}
+བརྩད: {contend: dispute}
+ཐ་དད: {separate: distinct}
+གྲུབ་པས: {being established: established}
+གཉི་ག: {both parties: sides}
+བྱེད་པོ: {the one who acts: agent / creator}
+སྤྱོད་པོ: {the one who undergoes: experiencer}
+རྣམ་པར་དཔྱད་པ: {thorough analysis: analysis}
+བཙལ: {searched for: sought / found}
+འགའ་མེད་པ: {there is nothing: nothing}
+ཆ་ཤས: {constituent parts: parts}
+ཕྱེ: {taken apart: separated / divided}
+སྡོང་པོ: {a tree, its trunk: tree / trees / trunk}
+ཡང་དག་མིན: {not really so: truly}
+ཁས་བླངས་པའི: {granted for argument: accepted}
+བརྟགས་པ: {formed as a notion: conceived}
+བདེན: {true, real: true / truly / truths}
+བསྒོམ་པ: {cultivating in meditation: meditating}
+བདག་མེད: {anātman, absence of self: selflessness}
+ལྟོ: {the belly: belly}
+བྱིན་པ: {the calves: calves}
+བྲང: {the chest: chest}
+དཔུང་པ: {the shoulders: shoulders}
+བརླ: {the thighs: thighs}
+རྐེད་པ: {the waist: waist}
+མཆན་ཁུང: {the armpits: armpits}
+མགྲིན་པ: {the neck, throat: neck / throat}
+རྩིབ་ལོགས: {the ribs: ribs}
+ལུས་འདི་...གནས: {where this body exists: body exists}
+ཕྱོགས་རེ་ཡིས: {part by part: individually}
+ལག་སོགས: {hands and the rest: hands}
+ནང: {the inside: inside / internal}
+ཕྱི: {the outside: outside / external}
+བཀོད་པའི: {configuration: arrangement}
+ལུས་མེད: {without a body: bodyless / bodiless}
+བློར་འགྱུར: {the mind conceives: conceives}
+རྨོངས་པ་ཡིས: {through delusion: delusion}
+ཐོ་ཡོར: {a scarecrow post: post}
+དབྱིབས: {outward form: shape}
+རྐྱེན་ཚོགས: {as long as conditions gather: conditions exists}
+སོར་མོ: {the fingers: finger / fingers}
+ཚིགས: {where bones meet: joints}
+ཕྱོགས་ཆའི: {having spatial parts: directional}
+དཔྱོད་ལྡན: {possessed of discernment: discernment}
+ལྟ་བུ་ཡི: {comparison marker: like}
+རབ་དགའ: {full of gladness: joyful}
+ཟིལ་མནན: {overpowered: overwhelmed}
+སྟོབས་དང་ལྡན་པས: {being stronger: stronger}
+རགས་པ: {coarse: gross}
+ཕྲ་མོ: {fine, not coarse: subtle}
+སྡུག་བསྔལ་...ཡོད: {suffering is present: Suffering exists}
+ཚོར་བར: {vedanā, feeling: feeling}
+རྣམ་དཔྱོད: {discriminating analysis: analysis / analytical / analytical wisdom / wisdom}
+དེ་ཉིད་ཕྱིར་ན: {for that very reason: reason}
+བར: {intervening space: space}
+རྡུལ་ཕྲན: {paramāṇu, minute particle: particle / particles / minute}
+འདྲེས: {intermingle: mix / mixed}
+འཐད་པར: {tenable: appropriate}
+བསྟན་པར: {set forth: demonstrate}
+རྣམ་དཔྱད: {subjected to analysis: analyzed}
+འཐད་པ: {tenable: appropriate}
+ཚོགས་པ: {a gathering together: collection}
+འབྱུང་བར: {come into being: arise}
+རེག་པ: {sparśa, contact: contact / touching}
+ངལ: {trouble taken: effort / bother}
+ཚོར་པོ: {the one who feels: experiencer}
+མཐོང་བ: {perceiving with the eyes: seeing / perception}
+ལོགས་སུ: {apart: separate}
+དེའི་ཕྱིར: {consequential connective: therefore}
+ཤེས་ཡོད: {cognition is present: knowledge exists}
+འགྱུར་མ་ཡིན: {does not turn into: cannot}
+ཤེས་པ་...སྐྱེ: {cognition arises: knowledge arise}
+ཤེས་...ཡོད: {cognition is present: knowledge exists}
+ཆོས་རྣམས: {dharmas, phenomena: phenomena}
+རྟོགས་པར: {come to be understood: understood}
+བདེན་གཉིས: {the two truths: truths}
+བརྟག་པར་བྱ་བ: {what is to be examined: object}
+དཔྱོད་བྱེད: {subjected to analysis: analyzed}
+རྣམ་པར་དཔྱད: {thorough analysis: analysis}
+དཔྱད་བྱས: {subjected to analysis: analyzed}
+མི་སྐྱེ: {does not come into being: arise}
+མྱ་ངན་འདས་པར: {nirvāṇa: nirvana}
+དཔྱད་བྱ: {what is to be analysed: object}
+དོན་གྲུབ: {established as real: existent}
+དབང་གིས: {contingency: dependence}
+བུ་ཉིད: {being a son: sonship}
+མྱུ་གུ: {a shoot: sprout}
+དབྱེ: {differentiating features: distinctions}
+སྡོང་བུ: {stalks: stems}
+ཞེ་ན: {if one asks: ask}
+དབང་ཕྱུག: {Īśvara, the creator god: ishvara}
+སྨྲོས: {say (imperative): tell}
+མི་གཙང་བས: {unclean: impure}
+འགོམ་བྱ: {trodden on: trampled}
+གཡོ་མེད: {not stirring: unmoving}
+བསམ་མིན: {beyond thought: inconceivable}
+བཀག་ཟིན: {already refuted: refuted}
+ངོ་བོ: {intrinsic nature: essence}
+ཐོག་མ: {the start: beginning}
+ཐོག་མེད་བདེ་སྡུག: {beginningless pleasure and pain: Beginningless pleasure}
+རག་ལས: {be contingent on: depend}
+དབང་ཕྱུག་...བྱེད: {Īśvara produces them: Ishvara creates}
+གཙོ་བོ་རྟག་པ: {permanent prakṛti: permanent Primal Substance}
+བཟློག་ཟིན: {already refuted: refuted}
+གྲངས་ཅན: {the Sāṃkhyas: samkhyas}
+མི་མཉམ: {imbalance of the guṇas: disequilibrium}
+མཉམ་གནས: {balance of the guṇas: equilibrium}
+གསུམ: {three in number: threefold}
+སེམས་མེད་གོས་ལ་སོགས་པ: {insentient things such as cloth: insentient things}
+སྒྲ་སོགས: {sounds and the like: things}
+སྣམ: {woven cloth: cloth}
+དངོས་རྣམས: {real entities: phenomena}
+རྟག་པ: {enduring unchanged: permanent}
+གྱུར: {turn into: becomes / turn}
+རགས: {coarse: gross}
+གྱུར་པས: {turning into: becoming}
+མི་རྟག་ཉིད: {not enduring: impermanent}
+ཕྲ: {fine, not coarse: subtle}
+འགའ་ཡང: {not anything: nothing}
+བདེན་མ་ཡིན: {not true: false}
+ཚད་མ: {pramāṇa, valid cognition: valid; measured out: measured}
+གཞལ: {apprehended as object: apprehended}
+མི་འཐད: {not tenable: inappropriate}
+སྒོམ་པ: {cultivating in meditation: meditating}
+གསལ་བར: {evidently: clearly}
+རྫུན་པ: {not true: false}
+འདུས་པ: {gathered together: collected}
+སོ་སོ་བ: {taken singly: individual}
+བཅོས: {fabricated: created; set right: corrected}
+གཟུགས་བརྙན: {a reflected image: reflection}
+བདེན་ཉིད: {really so: true}
+འབྲལ: {come apart: cease}
+མི་སྲིད: {not possible: cannot}
+ཐལ་འགྱུར: {an unwanted consequence: entail}
+མ་སྐྱེས: {not arisen: unborn}
+མ་འགགས: {not ceased: unceasing}
+མ་འདས་པ: {not passed beyond: non-nirvana}
+བརྙས་པ: {treated with contempt: disdained}
+བཙལ་བྱས: {searched out: sought / analyzed}
+གཉེན: {kin: relatives}
+འཐབ: {contention: conflict / dispute / quarrels}
+ཚེགས་ཆེན: {great trouble: difficulty}
+འཚོ: {sustain life: live}
+འབིགས་པ: {run through: pierce}
+སྡིག་དག: {harmful deeds: sins}
+འགལ་བས: {standing in contradiction: contradictions}
+སྲིད་པ: {conditioned worldly existence: existence / cyclic / cyclic existence}
+འདི་འདྲ: {of this sort: like}
+སྟོབས་ཆུང: {of little force: weak}
+འཚེ: {do violence: harm}
+དེ་བཞིན་དུ: {in the same way: similarly}
+རྣམ་གཡེང: {being turned aside: distraction}
+ཐབས: {upāya, method: means}
+བཟློག་པའི: {turn back, avert: turn / prevent}
+བརྒལ: {cross over: overcome}
+སྤང: {give up: abandon}
+ཨེ་མ: {exclamation of dismay: alas}
+ཆུ་བོར: {a river: river}
+དང་པོ: {the start: beginning}
+གནས་རྣམས: {realms of rebirth: realms}
+ཆར: {falling water: rain}
+སྟོན་པར: {set forth: teach}
+དགུ་པའོ: {the ninth chapter: ninth}
+ཕ་རོལ་ཏུ་ཕྱིན་པའི: {pāramitā, perfection: perfection}
+བསྔོ་བ: {pariṇāmanā, dedication of merit: dedication}
+བཅུ་པ: {ten in number: ten}
+བྱང་ཆུབ་སྤྱོད: {bodhisattva conduct: bodhisattva}
+ཕྱོགས་རྣམས་ཀུན་ན: {in all the quarters: directions}
+ཐོབ་ཤོག: {may they come to have: attain / obtain / find}
+ཇི་སྲིད་དུ: {for as long as: endures}
+ཉམས་མ་གྱུར: {may it not be lost: lose}
+རྒྱུན་མི་འཆད: {without break: unbroken}
+ལུས་ཅན་རྣམས: {embodied creatures: beings}
+བདེ་ཅན: {full of bliss: blissful}
+བདེ་བས: {well-being, bliss: happiness / bliss}
+དགའ་བར་ཤོག: {may they be glad: rejoice}
+སྤྲིན་ཆེན: {great banked masses: clouds}
+གྲང་བས: {low temperature: cold}
+བསིལ་བར་ཤོག: {may they be cooled: cooled}
+བྱུང་བའི: {issuing forth: flow}
+ཚ་བས: {high temperature: heat}
+དྲོ: {gentle heat: warmth}
+སྟུག: {thick: dense}
+ཤལ་མ་རི་ཡི: {the śālmalī tree of hell: silk-cotton}
+རལ་གྲི་ལོ་མའི: {the sword-leaf forest of hell: sword-leaves}
+མཛེས་གྱུར་ཅིག: {may it be made lovely: adorned}
+འཐིང་རིལ: {water birds: coots}
+ངུར་པ: {water birds: cranes}
+ཉམས་དགར: {agreeable to be in: delightful}
+དྲི་བསུང་ཆེ: {of strong sweet scent: fragrant}
+སྐད་སྙན: {pleasing to hear: melodious}
+སྐད: {sounds uttered: sounds}
+སོལ་ཕུང: {burning coals: coals}
+བསྟར་བར: {spread over: covered}
+ཤེལ་གྱི: {rock crystal: crystal}
+གང་བར: {filled with: filled}
+བདེ་གཤེགས་གང་བར: {filled with sugatas: filled with Buddhas}
+ཕུང་པོར: {piles: heaps}
+གཞལ་མེད: {beyond measure: immeasurable}
+རི་བོ: {elevated land: mountains}
+གཞལ་མེད་ཁང: {immeasurable mansions: palaces}
+བསྲེགས: {consumed by fire: burning / scorched}
+གྱུར་ཅིག: {may it turn into: turn / attain}
+མདག་མ: {glowing embers: embers}
+དེང་ནས: {from now on: henceforth}
+རྩེ་ཕྱིར: {in play: playful}
+ཆར་པ: {falling in abundance: showers}
+མེ་ཏོག་ཆར་པར: {rains of blossoms: showers of flowers}
+རྡོ: {lumps of rock: stones}
+འདེབས་པ: {striking with: striking}
+འཕེན་པར: {hurling: throwing}
+མདོག: {colour: color}
+ཞིག་གྱུར: {come apart: dissolved}
+ལྷ་ཡི: {of the gods: divine}
+རབ་མེད: {fearful: dreadful}
+གནས་ཤོག: {may they abide: dwell}
+མེ་དོང་འདྲ: {like a fire-pit: fire-pit-like}
+འབབ: {running down: flowing}
+དལ་གྱིས: {unhurriedly: gently}
+ལྷ་མོ་རྣམས: {female deities: goddesses}
+ཀུན་དའི: {the kunda flower: jasmine}
+སྟོབས་ཀྱིས: {capacity, might: power}
+བྱིང་བ: {go under: sink}
+འགྲོགས་པར: {keep company with: accompany}
+འབར་བ: {burning brightly: blazing}
+སྐྲག་བྱེད: {striking with terror: terror / fleeing}
+བྲལ་ནས: {having been freed: freed}
+རབ་ཏུ་དགའ་བའི: {intense gladness: great joy}
+བལྟས་ན: {on looking: looking}
+བཟང: {fine, excellent: beautiful / mighty}
+ཕྱག་ན་རྡོ་རྗེ: {proper name, Vajrapāṇi: vajrapani}
+གཤིན་རྗེའི: {Yama, lord of the dead: yama}
+ཕྱག་ན་པདྨ: {Padmapāṇi, Avalokiteśvara: avalokiteshvara}
+སེམས་དམྱལ་རྣམས: {beings in hell: beings}
+བབས་པ: {coming down: falling}
+མེ་མདག: {glowing flames: flames}
+སྤོས་ཆུ: {scented water: fragrant}
+ཆིལ་ཆིལ: {sound of quenching: hiss}
+མེ་ཏོག་ཆར་པ: {rains of blossoms: showers of flowers}
+སྐྱེས་གྱུར་པ: {having come about: arisen}
+འགྲོ་བ་ཀུན་ནས: {all wandering beings: beings}
+བོར་ལ: {cast off: cast}
+བརྩེ་བ: {loving concern: compassion}
+འཇིགས་པ་མེད་པར: {without fear: fearless}
+གྲོགས་དག: {companions: friends}
+དགའ་བའི་ཤུགས: {force of gladness: joy}
+མཐུ་ཡིས: {capacity, might: power}
+འབར: {giving off light: radiant}
+ཡོངས་སྐྱོབ: {delivers entirely: saves}
+སྡུག་བསྔལ་ཀུན: {all pains: sufferings}
+ཟུར་ཕུད་ཅན: {wearing a topknot: topknot}
+སེམས་དམྱལ: {beings in hell: beings; the hell realms: hell}
+ཐུགས་རྗེས: {with compassion (honorific): compassionate}
+ཅོད་པན: {head ornaments: crowns}
+ཅ་ཅོ་འདོན་པར: {cry out: cry}
+ཞབས་ཀྱི: {feet (honorific): feet}
+ལྷ་མོ: {female deities: goddesses / goddess}
+དབུ: {head (honorific): head}
+མཆོད་ཅིང: {shown veneration: honored}
+བརྒྱའི: {counted in hundreds: hundred}
+འཇམ་དབྱངས: {proper name, Mañjuśrī: manjushri}
+བརླན: {made wet: moist}
+ཁང་བརྩེགས: {tiered mansions: palaces}
+བསྟོད་དབྱངས: {songs of eulogy: praises}
+ཆར་འབབ་པ: {falling in abundance: showers}
+སྒྲོགས: {sounding forth: singing}
+སེམས་ཅན་དམྱལ་བ: {beings in the hells: beings}
+བསིལ: {cooling: cool}
+མངོན་པར་དགའ: {filled with gladness: overjoyed}
+ཆར་པ་འབེབས: {falling as rain: raining}
+རྩས: {roots of merit: roots}
+ཀུན་དུ་བཟང: {proper name, Samantabhadra: samantabhadra}
+སྒྲིབ་པ་མེད: {meeting no impediment: unobstructed}
+དགེ་རྩས: {root of merit: virtue}
+དུད་འགྲོ་རྣམས: {animals as a class of rebirth: animals}
+ཟ་བའི: {eating up: devouring}
+ཡི་དྭགས་རྣམས: {pretas, hungry ghosts: ghosts}
+ཁྲུས་བྱས: {ritual washing: bathing}
+བསིལ་བར: {made cool: cooled}
+འབབ་པའི: {running down: flowing}
+ཕྱག་ནས: {from the hand (honorific): hand}
+དབང་གི: {the lord, Avalokiteśvara: lord}
+འོ: {liquid from cows: milk; comes to an end: ends}
+ཚིམ་བྱས: {brought to satiety: satisfied}
+བཙའ་བར: {giving birth: birth}
+ལོང་བ་རྣམས: {those unable to see: blind}
+འོན་པས: {those unable to hear: deaf}
+གནོད་མེད: {absence of injury: harm}
+ཇི་བཞིན་དུ: {comparison marker: like}
+སྒྱུ་འཕྲུལ: {proper name, Māyādevī: mayadevi}
+སྦྲུམ་མའང: {with child: pregnant}
+ཞིམ་པོ: {pleasing to taste: delicious}
+བཏུང་བ: {what is drunk: drinks}
+བཀྲེས་པ་རྣམས: {those in need of food: hungry}
+གཅེར་བུ་རྣམས: {those unclothed: naked}
+སྐོམ་པ་རྣམས: {those in need of water: thirsty}
+ཡིད་སོས་ཤིང: {lifted in spirit: cheered}
+ཡི་ཆད་རྣམས: {those who have lost heart: disheartened}
+མྱ་ངན་ཉམ་ཐག་དགའ་ཐོབ་ཤོག: {may the grief-stricken find gladness: distressed obtain joy}
+དགའ་ཐོབ་ཤོག: {may they find gladness: obtain joy}
+ཕུན་སུམ་ཚོགས་པར: {complete, abundant: perfect / abundant}
+བཀྲེན་པ་རྣམས: {those lacking means: poor}
+ཐར་གྱུར་ཅིག: {may they be set free: freed}
+བཅིངས་པ་རྣམས: {those in fetters: bound}
+གྲོལ་བར: {set free: freed}
+སྐྲག་པ་རྣམས: {those struck with fear: frightened}
+མཉེན: {mild: gentle}
+མཐུ་ལྡན: {having capacity: powerful}
+མཐུ་མེད་རྣམས: {those without capacity: powerless}
+གྲུབ་གྱུར་ཅིག: {brought about: accomplished}
+ཕྱོགས་རྣམས་ཐམས་ཅད: {all the quarters: directions}
+འབད་མི་དགོས: {no exertion needed: effort}
+འདྲོན་པ་དག: {wayfarers: travelers}
+འགྲོ་བྱེད་པ: {going along: traveling}
+གྲུབ་གྱུར་ཏེ: {brought to completion: fulfilled}
+ཕྱིན་ནས: {having arrived: reach}
+གྲུ་ཆེན: {great vessels: ships}
+ཆུ་ཡི་ངོགས་སུ: {the water's edge: shore}
+ཡིད་ལ་བསམ་པ: {what is held in mind: wishes}
+འཇིགས་མེད་པར: {without fear: fear}
+མགྲོན་པོ་དག: {wayfarers: travelers / fellow}
+གོལ་འཁྱམས་པ: {gone astray: strayed}
+འདོང་བར: {journey: travel}
+འཁྱམས་པ: {roam without direction: wander}
+མི་ངལ: {without fatigue: weariness}
+ཉམ་ང་བར: {full of peril: dangerous}
+མྱོས: {under the influence of drink: drunk}
+རྒན་པོ: {advanced in years: elderly}
+ལྷ་དག: {celestial beings: gods}
+མགོན་མེད་པ: {without anyone to shelter them: helpless}
+མྱོས་ཤིང་རབ་མྱོས: {deeply intoxicated: intoxicated}
+ལམ་མེད: {without a road: pathless / lost}
+སྲུང་བར་བྱེད་པར: {kept safe: protected}
+དགོན་སོགས: {wilderness and the like: wildernesses}
+བརྩེ: {loving concern: compassion}
+ལྡན་ཞིང: {possessed of: endowed / possess}
+དྲན་གྱུར་ཅིག: {may they be called to mind: remember}
+རང་དབང་དུ: {at one's own disposal: freely}
+ཆད་པ་མེད་པར: {never running out: inexhaustible}
+ཤོག: {may they come to have: attain}
+ཕུན་སུམ་ཚོགས་གྱུར་ཅིག: {may they come to have abundance: attain perfect}
+ཕུན་སུམ་ཚོགས: {complete, abundant: perfect}
+གཟི་བརྗིད: {majesty: splendor}
+ཐོབ་ཅིང: {come to have: attain}
+མ་རབས་རྣམས: {those of low station: lowly}
+སྐྱེས་པ་ཉིད: {male persons: men}
+བཅོམ་པར: {overpowered: overcome}
+མཐོ: {high station: status}
+སྡིག་པ་ཐམས་ཅད: {all harmful deeds: evil deeds}
+མ་ལུས་པ: {without remainder: exception}
+བྱེད་པར: {do, perform: perform}
+བདུད་ཀྱི: {of Māra: demonic}
+གཞོལ་བ: {inclined toward: devoted}
+ཡོངས་གཟུང་ཞིང: {taken fully under care: embraced}
+མི་འབྲལ: {not parted: never / separated}
+སེམས་ཅན་དེ་དག་ཐམས་ཅད: {all those beings: beings}
+འཆི་བའི: {cessation of life: death}
+གྲག་མ་གྱུར: {not so much as heard of: heard / never}
+འཚོ་འགྱུར་ཞིང: {sustain life: live}
+སངས་རྒྱས་སྲས: {heirs of the buddhas: bodhisattvas}
+སངས་རྒྱས་དང་ནི་སངས་རྒྱས་སྲས: {the awakened ones and their heirs: Buddhas and Bodhisattvas}
+གང་བ: {filled with: filled}
+སངས་རྒྱས་...གང་བ: {full of awakened ones: filled with Buddhas}
+སྐྱེད་མོས་ཚལ: {pleasure groves: groves}
+སྒྲོགས་པས: {sounding forth: proclaiming / sound}
+ཐམས་ཅད་དུ་ཡང: {in every place: everywhere}
+བཻ་ཌཱུརྱའི: {beryl, lapis: lapis}
+ལག་མཐིལ: {the palm of the hand: palm}
+གསེག་མ: {small stones: pebbles}
+འཇམ་པོར: {smooth to the touch: soft}
+བརྒྱན་པར་མཛད་པས: {deck with ornament: adorn}
+འཁོར་གྱི་དཀྱིལ་འཁོར: {circles of retinue: assemblies}
+བྱང་ཆུབ་སེམས་དཔའ་མང་པོ: {many bodhisattvas: bodhisattvas}
+བཞུགས་གྱུར་ཅིག: {may they remain (honorific): dwell}
+ས་སྟེངས: {the earth's surface: earth}
+ལེགས་པས: {being of high quality: excellence}
+ལུས་ཅན་ཀུན་གྱིས: {all embodied creatures: beings}
+འོད་ཟེར: {beams of light: light / rays}
+མཐའ་ཡས་པས: {without limit: endless}
+མཆོད་པའི: {things presented: offerings}
+མཆོད་པར: {make offering: worship}
+རྒྱལ་པོ: {rulers: kings}
+དར་བར: {come to thrive: prosper}
+ཆར་འབེབས: {fall as rain: rain}
+ཆོས་བཞིན: {in accord with Dharma: righteously}
+བྱེད་གྱུར་ཅིག: {may they govern: rule}
+འབེབས: {send down: send}
+མཁའ་འགྲོ: {ḍākinīs: dakinis}
+ལྡན་གྱུར་ཅིག: {may they be possessed of: endowed}
+གསང་སྔགས: {esoteric formulae: mantras}
+སྨན་རྣམས: {curative substances: medicines}
+མཐུ་དང་ལྡན་པ: {having potency: potent}
+སྲིན་པོ: {rākṣasas: rakshasas}
+སེམས་ཅན་འགའ་ཡང: {not a single being: beings}
+སྡུག་མ་གྱུར: {undergo pain: suffer}
+ཡིད་མི་བདེ: {ill at ease in mind: unhappy}
+བརྒྱན: {decked out: adorned}
+ལེགས་གནས་ཤོག: {may it be well established: flourish}
+མཐུན་པ: {concord: harmony}
+གཙུག་ལག་ཁང་རྣམས: {monastic institutions: monasteries}
+དགེ་འདུན: {the saṅgha: monastic / assembly}
+ཁ་ཐོན: {reciting aloud: recitation}
+ཀློག་པ: {reading, learning: study}
+གཡེང་བ་ཐམས་ཅད: {all that turns the mind aside: distractions}
+ལས་རུང: {workable, serviceable: fit}
+སྒོམ་གྱུར་ཅིག: {may they cultivate in meditation: meditate}
+དགེ་སློང་དག: {bhikṣus: monks}
+ཉམས་པ་མེད: {may it not be impaired: lose}
+དགེ་སློང་མ་རྣམས: {bhikṣuṇīs: nuns}
+རབ་ཏུ་བྱུང་བ་ཀུན: {all who have gone forth: renunciants}
+ཐོབ་གྱུར་ནས: {having come to have: attain}
+འཆལ་བས: {lapsed discipline: broken}
+ཟད་བྱེད་ཤོག: {may it be brought to an end: exhaust}
+ཡིད་བྱུང་ནས: {turning away in revulsion: remorse / feeling}
+མི་ཉམས་ཤོག: {may it not be impaired: lose}
+མི་ཉམས: {not impaired: never}
+བསོད་སྙོམས: {alms received: alms}
+ཕྱོགས་རྣམས་ཀུན་ཏུ: {in all the quarters: directions}
+བཀུར་བ: {shown respect: honored}
+དག་པ: {cleansed: purified}
+གྲགས་པར: {widely known: renowned}
+མཁས་པ་རྣམས: {those who are learned: wise}
+འགྲུབ་ཤོག: {may it be brought about: accomplish / attain}
+ལུས་ཀྱིས: {with the body: bodies}
+ལྷ་བས: {celestial beings: gods}
+དཀའ་བ་སྤྱད་པ: {undergoing hardship: hardship}
+མྱུར: {without delay: quickly}
+ལྷག་པའི: {surpassing: superior}
+སེམས་ཅན་ཀུན་གྱིས: {by all beings: beings}
+སངས་རྒྱས་ཐམས་ཅད: {all the awakened ones: buddhas}
+བསམ་ཡས་ཀྱིས: {beyond thought: immeasurable}
+ལན་མང་དུ: {many times over: repeatedly}
+མཆོད་བྱེད་ཅིང: {make offering: worship}
+བྱང་ཆུབ་སེམས་དཔའ་རྣམས: {those bent on awakening: bodhisattvas}
+དགོངས: {hold in mind (honorific): intend}
+ཉན་ཐོས་རྣམས: {śrāvakas: disciples}
+བདེ་གྱུར་ཅིག: {may they be at ease: happy}
+རང་སངས་རྒྱས་རྣམས: {pratyekabuddhas: Solitary Buddhas}
+ཐོབ་བར་དུ: {until reaching: attain / obtain}
+རབ་དགའ་བ: {intense gladness: great joy}
+བཀའ་དྲིན་གྱིས: {by the kindness of: kindness}
+རབ་ཏུ་བྱུང་བ: {going forth into homelessness: renunciation}
+ཕུན་སུམ་ལྡན་པ་ཐོབ་པར: {may I obtain full endowment: attain perfect}
+ཁ་ཟས: {what is eaten: food}
+ཚེ་རབས་ཀུན་དུ: {in all successive births: lives}
+ཕུན་སུམ་ལྡན་པ: {fully endowed: perfect}
+དབེན་གནས་པར: {dwelling apart: solitude}
+དྲི་བར་འདོད: {wish to put a question: ask}
+གེགས་མེད་པར: {without impediment: hindrance}
+མགོན་པོ་འཇམ་དབྱངས: {Mañjuśrī as protector: Protector Manjushri}
+འདོད་པའམ: {want, desire: wish}
+བསྒྲུབ་པའི: {bringing about: accomplishing}
+སེམས་ཅན་ཀུན: {all beings: beings}
+ཕྱོགས་བཅུའི: {the ten quarters: directions}
+དེ་འདྲར: {in that same way: like}
+བཅུའི: {ten in number: ten}
+སེལ་བར: {clear away: dispel}
+ཇི་སྲིད་གནས་པ: {for as long as it lasts: endures}
+ཇི་སྲིད་གནས་གྱུར་པ: {for as long as it lasts: endures}
+གནས་གྱུར་ནས: {having remained: living}
+སྨིན་གྱུར་ཅིག: {may it come to fruition: ripen}
+གང་ཅིའང་རུང: {whatever it may be: whatever}
+འབྱུང་བའི་གནས: {that from which things arise: source}
+ཕྱག་འཚལ་ལོ: {make prostration: bow}
+དར་བ: {came to thrive: flourished}
+དྲིན་གྱིས: {by the kindness of: kindness}
+འཇམ་པའི་དབྱངས: {proper name, Mañjughoṣa: manjushri}
+དགེ་བློ: {wholesome intelligence: virtuous}
+བཅུ་པའོ: {the tenth chapter: tenth}
+ཀླད་ཀྱི་དོན།: {prefatory matter: introduction}
+རྒྱ་གར་སྐད་དུ།: {in the language of India: sanskrit}
+བོད་སྐད་དུ།: {in the Tibetan language: tibetan}
+སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ: {the awakened ones and their heirs: Buddhas and Bodhisattvas}
+ཕྱག་འཚལ་ལོ།: {formula of homage: homage}
+མཛད་བྱང།: {note on authorship: colophon}
+རྫོགས་སོ།།: {brought to an end: complete}
+སློབ་དཔོན: {ācārya, teacher: master}
+སློབ་དཔོན་ཤནྟ་དེ་བས: {the master Śāntideva: master Shantideva}
+ཤནྟ་དེ་བས: {proper name, Śāntideva: shantideva}
+འགྱུར་བྱང།: {note on translation: colophon / translator}
+བནྡེ: {bande, monastic title: bande / monk / monk Bande}
+བནྡེ་དཔལ་བརྩེགས: {proper name, Bande Peltsek: Bande Peltsé / monk Bande Peltsé}
+ཞུ་ཆེན: {chief editor of translations: chief revisor / revisor}
+གཏན་ལ་ཕབ་པ: {finalized a translation: established / established this translation}
+རྒྱ་གར་གྱི: {of India: indian}
+རྒྱ་གར་གྱི་མཁན་པོ: {Indian preceptor: Indian master}
+རྒྱ་གར་གྱི་མཁན་པོ་སརྦ་ཛྙཱ་དེ་བ: {the Indian preceptor Sarvajñādeva: Indian master Sarvajñādeva}
+ཁ་ཆེའི: {of Kashmir: kashmiri}
+ཁ་ཆེའི་དཔེ: {a Kashmiri exemplar: Kashmiri manuscript}
+དཔེ: {textual exemplar: manuscript / manuscripts}
+མཁན་པོ: {upādhyāya, preceptor: master}
+མཁན་པོ་སརྦ་ཛྙཱ་དེ་བ: {the preceptor Sarvajñādeva: master Sarvajñādeva}
+དཔལ་བརྩེགས: {element of a proper name: pelts}
+ཞུས་ཏེ་གཏན་ལ་ཕབ་པ: {revised and finalized: revised and established}
+ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ: {chief editor-translator: revisor and translator}
+ལོ་ཙཱ་བ: {lotsāwa, translator: translator}
+ཡུལ་དབུས་ཀྱི: {of Madhyadeśa: central India}
+འགྲེལ་པ: {exegetical works: commentaries}
+ཡུལ་དབུས་ཀྱི་...འགྲེལ་པ: {commentaries of central India: commentaries from central}
+བཅོས་ཤིང་བསྒྱུར: {emended and retranslated: corrected and revised}
+རྒྱ་གར: {the country: india}
+རྒྱ་གར་གྱི་མཁན་པོ་དྷརྨ་ཤྲཱི་བྷ་དྲ: {the Indian preceptor Dharmaśrībhadra: Indian master Dharmashrībhadra}
+དཔེ་དང་འགྲེལ་པ: {exemplars and commentaries: manuscripts and commentaries}
+མཁན་པོ་དྷརྨ་ཤྲཱི་བྷ་དྲ: {the preceptor Dharmaśrībhadra: master Dharmashrībhadra}
+བནྡེ་རིན་ཆེན: {the monk Rinchen: monk Rinchen}
+བནྡེ་རིན་ཆེན་བཟང་པོ: {the monk Rinchen Zangpo: monk Rinchen Zangpo}
+རིན་ཆེན་བཟང་པོ: {proper name, Rinchen Zangpo: Rinchen Zangpo}
+ཤཱཀྱ: {element of a proper name: shakya}
+ཤཱཀྱ་བློ་གྲོས: {proper name, Shakya Lodrö: Shakya Lodrö}
+བཟང་པོ: {element of a proper name: zangpo}
+དག་པར་བཅོས་ཤིང་བསྒྱུར: {purified, emended and retranslated: corrected and revised}
+རྒྱ་གར་གྱི་མཁན་པོ་སུ་མ་ཏི་ཀཱིརྟི: {the Indian preceptor Sumatikīrti: Indian master Sumatikīrti}
+བློ་ལྡན: {element of a proper name: lod}
+བློ་ལྡན་ཤེས་རབ: {proper name, Loden Sherab: Lodën Sherab}
+མཁན་པོ་སུ་མ་ཏི་ཀཱིརྟི: {the preceptor Sumatikīrti: master Sumatikīrti}
+དགེ་སློང་བློ་ལྡན: {the monk Loden: monk Lodën}
+དགེ་སློང་བློ་ལྡན་ཤེས་རབ: {the monk Loden Sherab: monk Lodën Sherab}
+ལེགས་པར་གཏན་ལ་ཕབ་པ: {finalized to perfection: perfectly established}

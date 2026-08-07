@@ -17,7 +17,7 @@ Make the text understandable without prior knowledge of Buddhist terminology.
 * Clear
 * Modern
 * Natural language
-* smooth
+* Smooth
 
 ---
 

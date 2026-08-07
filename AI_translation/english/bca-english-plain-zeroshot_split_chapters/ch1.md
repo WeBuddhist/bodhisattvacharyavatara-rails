@@ -1,220 +1,213 @@
-## 1. Chapter One: Explaining the Benefits of Bodhicitta ^1-0
+## 1. Chapter One: Explaining the Benefits of the Mind of Awakening ^1-0
 
 
-To the Sugatas endowed with the Dharma-body, together with their heirs,
-and to all others worthy of homage, I bow down with reverence.
-I will now briefly explain, in keeping with the scriptures,
-how to enter the vows of the Sugatas' heirs. ^1-1
+I respectfully bow to the Enlightened Ones, who embody the ultimate truth, and their spiritual children,
+and to all who are worthy of veneration.
+I will briefly explain how to enter the vows of the spiritual children of the Enlightened Ones,
+according to the scriptures. ^1-1
 
 
-There is nothing here that has not been said before,
-nor do I have any real skill in composition.
-For this reason I have no thought of benefiting others;
-I have written this only to familiarize my own mind. ^1-2
+I do not present anything here that has not been said before,
+nor do I possess skill in composition.
+Therefore, I have no intention of benefiting others;
+I composed this for the purpose of cultivating it in my own mind. ^1-2
 
 
-By this, the strength of my faith in virtue
-may for a while grow stronger;
-and if others of fortune equal to mine
-should also see this, it may prove worthwhile for them too. ^1-3
+To cultivate virtue, the strength of my faith
+may temporarily increase through these words.
+And if others who share my fortune
+should see these words, may it be meaningful for them. ^1-3
 
 
-This state of freedom and fortune is extremely hard to find;
-having gained it, one has the chance to accomplish what truly matters.
-If one fails to bring about its benefit now,
-how could such a perfect opportunity ever come again? ^1-4
+This precious human life is very hard to find.
+Having attained it, which can accomplish great purpose,
+if one does not achieve what is beneficial with it,
+how will such an opportunity arise again? ^1-4
 
 
-Just as a flash of lightning in the black night of a clouded sky
-briefly lights everything up for an instant,
-so too, through the power of the Buddha,
-the world's virtuous, wise intentions arise only rarely, for a moment. ^1-5
+Just as in the darkness of a cloudy night,
+a flash of lightning briefly illuminates everything,
+similarly, by the power of the Buddhas, rarely
+do worldly merit and wisdom arise. ^1-5
 
 
-Thus virtue is always weak,
-while the power of wrongdoing is great and truly terrible.
-Except for the mind of perfect awakening,
-what other virtue could ever overpower it? ^1-6
+Therefore, consider how weak ordinary virtues are,
+and how powerful and unbearable negative actions are.
+Without the perfect mind of awakening,
+what other virtue can overcome them? ^1-6
 
 
-Having reflected for many eons,
-the Lords of Sages saw that this alone is beneficial,
-for by it the boundless multitudes of beings
-easily attain the highest happiness. ^1-7
+The great sages, who have reflected for many eons,
+have seen this very thing as beneficial.
+By this, countless beings
+can easily attain the supreme happiness. ^1-7
 
 
-Those who wish to overcome the hundreds of sufferings of existence,
-who wish to dispel the unhappiness of beings,
-and who wish to enjoy hundreds of kinds of happiness,
+Whoever wishes to overcome hundreds of sufferings of existence,
+and wishes to remove the unhappiness of beings,
+and wishes to experience hundreds of joys,
 should never abandon the mind of awakening. ^1-8
 
 
-The moment bodhicitta arises,
-the wretched, bound in the prison of saṃsāra,
-come to be called children of the Sugatas,
-and become worthy of homage from the worlds of gods and men. ^1-9
+If the mind of awakening arises, in an instant,
+those wretched ones bound in the prison of cyclic existence
+are called children of the Enlightened Ones,
+and become worthy of veneration by gods and humans. ^1-9
 
 
-Like the finest elixir that transmutes base metal into gold,
-this impure body, once taken hold of by it,
-is transformed into the priceless jewel of a Buddha's form.
-So hold firmly to this thing called bodhicitta. ^1-10
+Like the supreme elixir that transforms base metals into gold,
+it transforms this impure body into the precious body of a Buddha,
+a body of immeasurable value.
+Therefore, firmly hold onto this called the mind of awakening. ^1-10
 
 
-Since the sole guide of all beings, with his immeasurable wisdom,
-has examined it closely and found it precious,
-all who wish to leave behind the states of wandering existence
-should hold firmly to this precious bodhicitta. ^1-11
+The sole guide for beings, with immeasurable wisdom,
+having thoroughly examined it, found it to be precious.
+Therefore, those who wish to be free from the states of suffering,
+should firmly hold onto this precious mind of awakening. ^1-11
 
 
-All other virtues, like the plantain tree,
-wither away once they have borne their fruit.
-But the tree of bodhicitta bears fruit
-constantly, without ever being exhausted, and only grows. ^1-12
+All other virtues, like a plantain tree,
+bear fruit and then perish.
+But the wish-fulfilling tree of the mind of awakening, always
+bears fruit and never diminishes, but grows. ^1-12
 
 
-Even one who has committed the most terrible wrongs
-can, by relying on a hero, quickly cross beyond great danger;
-so why would the careful not rely
-on that by which one is instantly set free? ^1-13
+Even if one has committed extremely terrible negative actions,
+like relying on a hero in great fear,
+that which, when relied upon, quickly liberates,
+why would the wise not rely on it? ^1-13
 
 
-Like the fire at the end of an age,
-it consumes great evils in a single instant.
+It burns away great negative actions, like the fire at the end of an eon,
+surely consuming them in a single moment.
 Its immeasurable benefits
-were explained by the wise and loving protector Maitreya to Sudhana. ^1-14
+were explained by the wise Maitreya. ^1-14
 
 
-This bodhicitta, in brief,
-should be understood as two kinds:
-the mind that aspires to awakening,
-and the mind that ventures toward awakening. ^1-15
+To summarize, the mind of awakening
+should be known in two aspects:
+the aspiring mind of awakening,
+and the engaging mind of awakening. ^1-15
 
 
-Just as one understands the difference
+Just as one knows the difference
 between wishing to go and actually going,
-so the wise should understand, in due order,
-the difference between these two. ^1-16
+similarly, the wise should understand
+the distinction between these two, in order. ^1-16
 
 
-Although the aspiring mind of awakening
-brings great fruit even while one is still in saṃsāra,
-it does not, unlike the mind of engagement,
-give rise to an uninterrupted stream of merit. ^1-17
+From the aspiring mind of awakening,
+great results arise in cyclic existence,
+but unlike the engaging mind,
+merit does not continuously flow. ^1-17
 
 
-From the moment one takes up that mind
-with irreversible resolve,
-for the sake of fully liberating
-the boundless realms of sentient beings, ^1-18
+From the moment one takes the vow
+to liberate all countless beings,
+with an irreversible resolve,
+that mind is truly adopted. ^1-18
 
 
-from that time on, even while asleep
-or otherwise heedless,
-a force of merit, vast and unbroken,
-will arise continually, equal to the sky. ^1-19
+From that moment on, even while sleeping
+or being careless, the power of merit
+continuously and abundantly
+arises, equal to space. ^1-19
 
 
-This teaching, together with its reasoning,
-was given by the Tathāgata himself
-in response to the request of Subāhu,
-for the sake of beings of lesser inclination. ^1-20
+This was reasonably explained
+when requested by Good Hand,
+by the Enlightened One himself, for the benefit of humble beings. ^1-20
 
 
-If, merely by thinking "I shall relieve
-the headaches of sentient beings,"
-one having such a beneficial intention
-already possesses immeasurable merit, ^1-21
+If one merely thinks, "I will relieve
+the headache of a single being,"
+that thought of wishing to help
+is endowed with immeasurable merit. ^1-21
 
 
-then how much more so for one who wishes
-to dispel the immeasurable suffering of every single being,
-and who wishes each and every one of them
-to attain immeasurable good qualities? ^1-22
+What need is there to speak of one who wishes
+to remove the immeasurable unhappiness of each and every being,
+and to bring each one immeasurable qualities? ^1-22
 
 
-Does any father or mother
-possess such a benevolent wish?
-Do even the gods, the sages,
-or Brahmā himself possess it? ^1-23
+Whether it be a father or a mother,
+who has such a benevolent mind?
+Whether it be gods or sages,
+does even Brahma possess this? ^1-23
 
 
-If these very beings have never, even in a dream,
-had such a wish before, even for their own sake,
-how could it possibly arise
-for the sake of others? ^1-24
+Those beings themselves, previously,
+did not even dream of such a mind for their own benefit.
+How then could it arise for the benefit of others? ^1-24
 
 
-That precious and extraordinary mind,
-which does not arise in others even for their own sake,
-is a wonder unprecedented before,
-born now for the sake of every being. ^1-25
+That mind which arises for the benefit of beings,
+which others do not even possess for their own sake,
+this extraordinary jewel of the mind,
+is a wonder that has never been seen before. ^1-25
 
 
-How can one possibly measure
-the merit of this precious mind,
-the cause of joy for all who wander,
-the very remedy for beings' suffering? ^1-26
+The cause of joy for all beings,
+the elixir that cures the suffering of beings,
+how can one measure the merit
+of this precious mind? ^1-26
 
 
-If merely intending to benefit others
-surpasses even the worship of the Buddhas,
-how much more so the effort
-to bring about the welfare of every single being without exception? ^1-27
+If merely thinking of benefiting others
+is superior to making offerings to the Buddhas,
+what need is there to speak of striving
+for the happiness of all beings without exception? ^1-27
 
 
-Though beings wish to be free of suffering,
-they run straight toward suffering itself.
-Though they wish for happiness, out of delusion
+Though beings wish to abandon suffering,
+they rush directly towards suffering itself.
+Though they desire happiness, through ignorance,
 they destroy their own happiness as if it were an enemy. ^1-28
 
 
-But one who fills with every happiness
-those who are deprived of happiness
-and full of suffering,
-and who cuts through all their suffering, ^1-29
+That which satisfies with all happiness
+those who are deprived of happiness and full of suffering,
+and cuts off all suffering, ^1-29
 
 
-and who also dispels their delusion —
-where could there be virtue equal to that?
-Where could there be such a friend?
-Where could there be such merit? ^1-30
+and also removes ignorance —
+what virtue can compare to it?
+What friend can be like it?
+What merit can be like it? ^1-30
 
 
-If even one who repays a kindness received
-is worthy of some praise,
-what need is there to speak of the bodhisattva
-who does good unasked? ^1-31
+If one who repays a kindness
+is temporarily worthy of praise,
+what need is there to speak of a Bodhisattva
+who spontaneously does good? ^1-31
 
 
-People praise as virtuous
-one who gives a little plain food to a few beings,
-feeding them for only a moment, one meal,
-looking down on them as they do so, satisfying them for half a day. ^1-32
+People honor as virtuous one who offers a little ordinary food to a few beings,
+giving them a momentary meal,
+or who, with disdain, satisfies them for half a day. ^1-32
 
 
-So what need is there to mention
-one who constantly bestows, upon countless beings for a long time,
-the unsurpassed happiness of the Sugatas,
-fulfilling their every wish completely? ^1-33
+What need is there to speak of one who always gives
+the supreme happiness of the Enlightened Ones
+to countless beings for a long time, fulfilling all their wishes? ^1-33
 
 
-The Sage has said that whoever generates
-an evil thought against such a child of the Victors, a lord of generosity,
-will dwell in hell
-for as many eons as there were evil thoughts. ^1-34
+If someone generates ill will towards such a spiritual child of the Buddhas,
+that person, for as many eons as the number of ill thoughts generated,
+will dwell in hell, so the Sage taught. ^1-34
 
 
-But if one instead generates a mind of faith toward them,
-the fruit of that will grow even greater still.
-Even in the face of great adversity,
-wrongdoing does not arise in the children of the Victors, and virtue increases naturally. ^1-35
+However, if someone generates a pure mind,
+the result will increase even more.
+Even with great effort, no negative actions arise for the spiritual children of the Buddhas,
+and virtues naturally increase. ^1-35
 
 
-I bow to the body of anyone
-in whom that precious and sublime mind has arisen,
-and I go for refuge to that source of happiness
-who brings happiness even to those who harm them. ^1-36
+I bow to the body of one in whom
+that supreme jewel of the mind has arisen.
+Even if harm is done to them, happiness is connected to them.
+I take refuge in that source of happiness. ^1-36
 
 
-This concludes the first chapter, entitled "Explaining the Benefits of Bodhicitta," from the Way of the Bodhisattva. ^1-a
+From *Engaging in the Bodhisattva's Way of Life*, this is the first chapter, called "Explaining the Benefits of the Mind of Awakening." ^1-a

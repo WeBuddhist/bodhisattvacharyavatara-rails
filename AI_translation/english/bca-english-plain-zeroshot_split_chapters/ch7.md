@@ -1,455 +1,455 @@
-## 7. Chapter Seven: Teaching Diligence ^7-0
+## 7. The Practice of Diligence ^7-0
 
 
-Thus, having patience, I should undertake diligence;
-for it is in diligence that awakening resides.
+Thus, with patience, cultivate diligence.
+Enlightenment rests on such diligence.
 Just as there is no movement without wind,
-there is no merit without diligence. ^7-1
+Merit does not arise without diligence. ^7-1
 
 
-Diligence means taking joy in virtue.
-Its opposites should now be explained:
-laziness, attachment to what is bad,
-self-contempt, and discouragement. ^7-2
+Diligence is enthusiasm for what is good.
+Its opposing factors will now be explained:
+Laziness, attachment to unwholesome things,
+Despondency, and self-contempt. ^7-2
 
 
-From the taste of the comfort of idleness,
-and from craving attached to sleep,
-and from having no disillusionment with the suffering of saṃsāra,
-laziness comes to arise. ^7-3
+Indolence, tasting the flavor of comfort,
+And craving that relies on sleep,
+Not being weary of the suffering in cyclic existence—
+These give rise to laziness. ^7-3
 
 
-Caught in the net of the afflictions,
-having fallen into the snare of birth,
-and having entered the very jaws of the Lord of Death —
-do you still not understand, even now? ^7-4
+Entangled by the net of afflictions,
+Caught in the net of rebirth,
+Having fallen into the mouth of the Lord of Death—
+Why do you still not know this? ^7-4
 
 
-Have you not seen how your own kind
-are killed off one by one?
-And yet still you sleep on,
-like a water-buffalo lulled by an outcaste butcher. ^7-5
+Haven't you seen your own kind
+Being gradually killed?
+Yet, relying on sleep,
+You are like a wild beast or a buffalo. ^7-5
 
 
-With every path blocked off,
-and the Lord of Death watching you,
-how can you take pleasure in eating,
-and how can you take pleasure in sleep? ^7-6
+With all paths blocked,
+And the Lord of Death watching,
+How can you delight in eating,
+And how can you delight in sleeping like this? ^7-6
 
 
-Since death will come swiftly,
-I should gather the accumulations while I still can.
-Even if I abandoned laziness only at the moment of death,
-what use would that be — it would already be too late. ^7-7
+Since you will die very soon,
+Accumulate provisions while you can.
+Even if you abandon laziness then,
+What good will it do when it's too late? ^7-7
 
 
-Thinking, "This I have not yet begun,"
-or "This I have only half done" —
-when the Lord of Death suddenly arrives,
-one will think, "Alas, I am ruined." ^7-8
+"This was not done, this was begun,
+This was half-finished"—while you are in such a state,
+The Lord of Death suddenly arrives,
+And you will think, "Alas, I am undone!" ^7-8
 
 
-With eyes swollen from the force of grief,
-face streaked with tears,
-seeing the hopeless despair of one's relatives,
-and beholding the face of the messengers of the Lord of Death — ^7-9
+With eyes swollen red from intense grief,
+Tears streaming down your face,
+Your relatives having lost all hope,
+You will gaze upon the faces of Yama's messengers. ^7-9
 
 
-tormented by the memory of one's own wrongs,
-and hearing the sounds of hell,
-terrified, one's body soiled with filth,
-one goes mad — what then can be done? ^7-10
+Tormented by the memory of your own misdeeds,
+And hearing the sounds of hell,
+Terrified, your body soiled with impurities,
+What will you do when you are overwhelmed? ^7-10
 
 
-If you, like a live fish being gutted,
-are already terrified in this present life,
-what need is there to speak
-of the unbearable sufferings of the hells that result from wrongdoing? ^7-11
+If in this life you are filled with such fear,
+Like a live fish writhing,
+What need is there to speak of the unbearable
+Sufferings of hell for those who commit misdeeds? ^7-11
 
 
-Even the mere touch of hot water
-is unbearably painful to tender young skin —
-so, having committed acts that lead to hell,
-why do you remain at ease like this? ^7-12
+When touched by boiling water,
+Even a young person feels intense heat.
+Having committed actions that lead to hell,
+Why do you remain so comfortably? ^7-12
 
 
-Desiring results without effort,
-being overly delicate, suffering greatly,
-though like a god while still gripped by death's approach —
-alas, such a person is destroyed by suffering! ^7-13
+Desiring results without diligence,
+And prone to harm due to weakness,
+Though seized by death, you are like a god—
+Alas, you are overcome by suffering! ^7-13
 
 
-Relying on the boat of a human birth,
-one may cross the great river of suffering.
-Since such a boat is hard to find again later,
-fool, do not sleep now — this is not the time. ^7-14
+Relying on the boat of human existence,
+Cross the great river of suffering.
+Since this boat is hard to find again,
+Fool, do not sleep at this time! ^7-14
 
 
-Why do you take joy in distraction, in restlessness,
-and in things that are the very causes of suffering,
-having abandoned the supreme joy
-of the boundless, sacred Dharma? ^7-15
+Abandoning the supreme joy of the Dharma,
+Which is the cause of endless delight,
+And being distracted by causes of suffering,
+Why do you delight in frivolity and such? ^7-15
 
 
-To generate diligence, one needs freedom from discouragement,
-strength, enthusiasm, self-mastery,
-equalizing oneself with others,
-and exchanging oneself for others. ^7-16
+Non-despondency, gathering strength,
+Taking on the burden, self-mastery,
+Equating oneself with others,
+And exchanging oneself with others—cultivate these. ^7-16
 
 
-I should never grow discouraged, thinking,
-"How could someone like me ever attain awakening?"
-For the Tathāgata, who speaks only truth,
-has spoken this very truth: ^7-17
+Do not become despondent, thinking,
+"How can I attain enlightenment?"
+For the Tathagata, who speaks the truth,
+Has spoken this truth: ^7-17
 
 
-even creatures such as bees, flies,
-mosquitoes, and worms,
-if they generate the power of diligence,
-can attain the unsurpassed awakening so hard to achieve. ^7-18
+Even a fly, a flesh-fly, a bee,
+Or any kind of insect,
+If it cultivates the power of diligence,
+Can attain supreme, hard-to-reach enlightenment. ^7-18
 
 
-So, being born human, of a capable lineage,
-able to distinguish benefit from harm,
-if I do not abandon the conduct that leads to awakening,
-why should I not attain it myself? ^7-19
+I, born as a human of noble lineage,
+And knowing what is beneficial and what is harmful,
+If I do not abandon the conduct of a bodhisattva,
+Why should I not attain enlightenment? ^7-19
 
 
-"But I am afraid, for I would have to give up
-my hands, feet, and the like," one might say.
-Without distinguishing the weighty from the trivial,
-this is merely the fear of the deluded. ^7-20
+But if I fear that I must
+Give up my limbs and so forth,
+Without weighing the heavy and the light,
+My fear is merely due to ignorance. ^7-20
 
 
-For countless millions of eons,
-I have been cut, pierced,
-burned, and flayed innumerable times,
-yet have not thereby attained awakening. ^7-21
+For countless eons,
+My body has been cut many times,
+Pierced, burned, and torn apart,
+Yet I have not attained enlightenment. ^7-21
 
 
-But this suffering involved in accomplishing awakening
-has a definite limit;
-it is like the pain of a surgical incision made
-to remove an internal ailment and eliminate harm. ^7-22
+The suffering I endure to achieve enlightenment
+Is limited and purposeful,
+Like the pain of lancing a wound
+To remove a deeply embedded thorn. ^7-22
 
 
-All physicians cure
-the discomfort of illness through medical treatment;
-so, in order to destroy the many great sufferings,
-I should bear this small discomfort. ^7-23
+All doctors, through their treatments,
+Eliminate the discomfort of illness.
+Therefore, to overcome many sufferings,
+One should endure minor discomfort. ^7-23
 
 
-Yet the Supreme Physician does not use
-such an ordinary method of treatment at all —
-with the gentlest of methods,
-he cures immeasurable, terrible ills. ^7-24
+Such ordinary treatments
+Are not performed by the supreme physician.
+With extremely gentle methods,
+He cures immeasurable grave illnesses. ^7-24
 
 
-The Guide begins by having disciples give
-vegetables and the like in acts of generosity;
-and once accustomed to that, later on,
-they gradually come to give even their own flesh. ^7-25
+The Guide first teaches giving
+Of vegetables and such.
+Having become accustomed to that, later,
+One gradually gives even one's own flesh. ^7-25
 
 
-Once the understanding has arisen
-that one's own body is like a vegetable,
-what difficulty is there
-in giving away one's own flesh and the like? ^7-26
+When one develops the perception
+Of one's own body as mere vegetables and such,
+Then giving away one's flesh and so forth—
+What difficulty is there in that? ^7-26
 
 
-By giving up wrongdoing, one is free of suffering;
-through wisdom, one is free of unhappiness.
-It is wrong views and wrongdoing
-that harm the mind and the body. ^7-27
+By abandoning misdeeds, there is no suffering.
+By being wise, there is no unhappiness.
+For wrong thoughts
+And misdeeds harm the mind and body. ^7-27
 
 
-Through merit, the body is at ease;
-through wisdom, the mind is at ease —
-so why should the compassionate ever grow weary,
-even while remaining in saṃsāra for the sake of others? ^7-28
+With merit, the body is at ease;
+With wisdom, the mind is at ease.
+Even if they remain in cyclic existence for the sake of others,
+How can those with compassion be weary? ^7-28
 
 
-By the power of bodhicitta,
-past wrongs are exhausted,
-and oceans of merit are gathered;
-this is why it is taught to be superior to the path of the śrāvakas. ^7-29
+This power of the awakening mind
+Exhausts previous misdeeds,
+And gathers an ocean of merit.
+Therefore, it is praised as supreme by the Hearers. ^7-29
 
 
-Therefore, mounted on the horse of bodhicitta,
-which dispels all weariness and fatigue,
-and traveling from joy to joy —
-what wise person would ever grow discouraged? ^7-30
+Therefore, mounting the horse of the awakening mind,
+Which dispels all weariness,
+And proceeding from joy to joy,
+Who with understanding would become despondent? ^7-30
 
 
-The forces needed to accomplish the welfare of beings
-are aspiration, steadfastness, joy, and letting go;
-aspiration is generated through contemplating
-the sufferings and fears of saṃsāra, and the benefits of its remedy. ^7-31
+To accomplish the welfare of sentient beings, the strengths are:
+Aspiration, steadfastness, joy, and letting go.
+Aspiration is generated by reflecting on the fear of suffering
+And its benefits. ^7-31
 
 
-Thus, having abandoned the opposing factors,
-and cultivating aspiration, pride, joy, and letting go,
-I should strive to increase diligence
-through the power of enthusiasm and self-mastery. ^7-32
+Thus, having abandoned opposing factors,
+And with aspiration, pride, joy, and letting go,
+With the strength of taking on the burden and self-mastery,
+One should strive to increase diligence. ^7-32
 
 
-I must destroy the boundless faults
-of myself and of others;
-yet for each single fault,
-an ocean of eons would be needed to exhaust it. ^7-33
+I must overcome my own and others' faults,
+Which are immeasurable.
+For each single fault
+Can exhaust an ocean of eons. ^7-33
 
 
-If I have not even begun
-to exhaust a fraction of my own faults,
-why does my heart not break,
-facing this place of immeasurable suffering? ^7-34
+If I have not even seen a fraction
+Of the effort to eliminate faults,
+I am a vessel of immeasurable suffering—
+Why should my heart not break? ^7-34
 
 
-I must accomplish the many good qualities
-of myself and of others;
-yet for each single quality,
-an ocean of eons of practice would be needed. ^7-35
+I must accomplish many qualities
+For myself and others.
+If each single quality
+Requires an ocean of eons to cultivate, ^7-35
 
 
-Yet I have never even begun
-to cultivate a fraction of such good qualities;
-it is astonishing that I have wasted
-this precious opportunity, so rarely found, for nothing. ^7-36
+And I have never even begun to cultivate
+A fraction of these qualities,
+It is astonishing how I have wasted
+The precious life I have obtained. ^7-36
 
 
-I have made no offerings to the Blessed One,
-given no feast of celebration and joy,
-performed no service for the teaching,
-and fulfilled no wish of the destitute. ^7-37
+I have not honored the Buddhas,
+Nor offered great festivals of joy.
+I have not worked for the Dharma,
+Nor fulfilled the hopes of the poor. ^7-37
 
 
-I have given no fearlessness to the fearful,
-no comfort to the wretched;
-I have brought about nothing but the pain
-of my mother's womb, and suffering alone. ^7-38
+I have not given fearlessness to the fearful,
+Nor comfort to the distressed.
+I have only caused pain in my mother's womb,
+And brought forth nothing but suffering. ^7-38
 
 
-Because, both in the past and now,
-I have lacked aspiration for the Dharma,
-such destitution as this has come upon me —
-who then would ever abandon aspiration for the Dharma? ^7-39
+In the past and even now,
+Lacking aspiration for the Dharma,
+I have encountered such destitution.
+Who would abandon aspiration for the Dharma? ^7-39
 
 
-The Sage has taught that aspiration
-is the root of every virtuous path;
-and the root of that, in turn,
-is constantly meditating on the ripening of karmic results. ^7-40
+The Sage has said that aspiration
+Is the root of all virtuous qualities.
+Its root is always
+Reflecting on the results of actions. ^7-40
 
 
 Suffering, mental unhappiness,
-fears of every kind,
-and separation from what one desires —
-all arise from wrongful conduct. ^7-41
+Various kinds of fear,
+And separation from desired things—
+These arise from engaging in misdeeds. ^7-41
 
 
-Through the virtue one has performed with genuine intention,
-wherever one may go,
-in that very place, one will be honored
-with the fruits and rewards of that merit. ^7-42
+By performing virtues conceived in the mind,
+Wherever one goes,
+There, by that merit,
+One is honored with excellent results. ^7-42
 
 
-But one who does wrong, though wishing for happiness,
-wherever they may go,
-in that very place, that wrongdoing
-will strike them down with the weapon of suffering. ^7-43
+Though those who commit misdeeds desire happiness,
+Wherever they go,
+There, by those misdeeds,
+They are utterly destroyed by the weapons of suffering. ^7-43
 
 
-Dwelling in the heart of a vast, fragrant, cooling lotus,
-nourished and given splendor by the pleasing sound of the Victor's speech,
-one takes birth, most excellent in form, from a lotus opened by the light of the Sage,
-becoming, through virtue, a child of the Sugata in the very presence of the Victor. ^7-44
+Residing in the heart of a vast, fragrant, cool lotus,
+Nourished by the sweet speech of the Buddhas,
+With a supreme body born from a lotus expanded by the Sage's light,
+One will become a child of the Buddhas, dwelling before them, through virtue. ^7-44
 
 
-But one whose skin is entirely flayed by the messenger of the Lord of Death,
-utterly wretched, whose body is drenched in molten, blazing copper,
-pierced by blazing swords and spears into a hundred fragments of flesh,
-falls upon a ground of intensely burning iron — the fruit of much unvirtuous action. ^7-45
+By Yama's henchmen, utterly tormented, with all skin flayed,
+Molten copper, melted by intensely hot fire, poured onto the body,
+Stabbed by blazing swords and short spears, torn into a hundred pieces of flesh,
+Falling onto an intensely blazing iron ground—this happens due to many non-virtues. ^7-45
 
 
-Therefore I should have aspiration for virtue,
-and cultivate it with genuine reverence;
-and, in the manner of the Vajra Banner rite,
-I should cultivate confidence in my ability to accomplish it. ^7-46
+Therefore, aspire to virtue,
+And cultivate reverence.
+By the ritual of the Vajra Banner,
+Begin and cultivate confidence. ^7-46
 
 
-First one should examine one's own capacity,
-and either begin a task or not;
-it is better not to begin at all
-than to begin and then turn back. ^7-47
+First, having assessed your capacity,
+Decide whether to undertake a task or not.
+Not undertaking it is better
+Than starting and then turning back. ^7-47
 
 
-For that habit will carry over into future lives,
-and wrongdoing and suffering will increase;
-and in another life, the time for the result too
-will be diminished, and even that task will not be accomplished. ^7-48
+In other lives, this habit will persist,
+And misdeeds and suffering will increase.
+Even at the time of results for others,
+It will be inferior and will not be accomplished. ^7-48
 
 
-One should have confidence in three things:
-action, the afflictions, and one's own capacity —
-thinking, "I alone will accomplish this" —
-this is confidence regarding action. ^7-49
+Pride in action, pride in afflictions, and pride in capacity—
+These three kinds of confidence should be cultivated.
+"I alone will do this!"—
+This is the confidence in action. ^7-49
 
 
-This world, powerless under the afflictions,
-is unable to accomplish its own welfare;
-so beings are not capable as I am,
-and therefore I myself must accomplish this. ^7-50
+This world, powerless due to afflictions,
+Cannot accomplish its own welfare.
+Beings cannot do as I can,
+Therefore, I will do this! ^7-50
 
 
-When others engage in lowly tasks,
-how could I possibly just stand by?
-Let this not be done out of mere pride —
-rather, freedom from pride is itself supreme. ^7-51
+If others perform inferior actions,
+How can I remain idle?
+One should not act out of ordinary arrogance,
+For the absence of such arrogance is supreme. ^7-51
 
 
-When a crow encounters a dead snake,
-it behaves as boldly as an eagle;
-likewise, if I myself am weak,
-even a small fault can do me harm. ^7-52
+If it encounters a dead snake,
+Even a crow acts like a garuda.
+If one is weak,
+Even a small fault can cause harm. ^7-52
 
 
-For one who abandons effort, discouraged,
-is there any escape from destitution?
-But one who generates confidence and effort together
-is hard to overcome, even by the mighty. ^7-53
+If one abandons effort with despondency,
+How can one escape destitution?
+By cultivating confident effort,
+Even great ones are hard to defeat. ^7-53
 
 
-Therefore, with a firm mind,
-I should overcome my downfalls;
-for if I am defeated by mere downfalls,
-my wish to conquer the three worlds becomes a laughingstock. ^7-54
+Therefore, with a steadfast mind,
+One must overcome all downfalls.
+If I am defeated by downfalls,
+My desire to conquer the three realms will be a laughingstock. ^7-54
 
 
-I must be victorious over everything;
-I must never be defeated by anything.
-As a child of the Victors, the Lion,
-I should abide firmly in this very confidence. ^7-55
+I must conquer all,
+And let no one conquer me.
+I, a child of the Victorious Lion,
+Will abide in this confidence. ^7-55
 
 
-Beings overcome by pride
-are not the same as those with the confidence of the afflictions;
-those with pride fall under the power of the enemy;
-these instead overpower the enemy that is pride itself. ^7-56
+Those beings who are overcome by arrogance
+Are not truly confident in overcoming afflictions.
+The confident do not fall under the sway of enemies;
+Those others are overcome by the enemy of arrogance. ^7-56
 
 
-Puffed up by the pride of the afflictions,
-one is led by that pride into the lower realms,
-robbed of human joys,
-and reduced to eating the scraps of others as a slave — ^7-57
+Filled with the arrogance of afflictions,
+One is led by arrogance to lower realms,
+Deprived of human joys,
+And becomes a servant, eating others' scraps. ^7-57
 
 
-dull, unattractive, and weak,
-one becomes despised everywhere.
-Even the ascetic puffed up with pride —
-if that too counts as prideful —
-tell me, what could be more lowly than that? ^7-58
+Foolish, unattractive, weak,
+And despised by all.
+If even an ascetic filled with arrogance
+Is counted among the arrogant,
+What then to say of the inferior? ^7-58
 
 
-But whoever holds firm confidence
-in order to conquer the enemy that is pride —
-such a person truly possesses confidence, a hero of complete victory,
-who fulfills, as desired, the fruit of victory for all beings. ^7-59
+Whoever holds confidence to conquer the enemy of arrogance,
+That one is truly confident and a victorious hero.
+Whoever surely overcomes the rising enemy of arrogance,
+Fulfills the desired results of victory for beings. ^7-59
 
 
-Living in the very midst of the afflictions,
-I should stand firm against them in a thousand ways,
-like a lion among jackals,
-unassailable by the whole host of afflictions. ^7-60
+Dwelling amidst the forces of afflictions,
+One should stand firm in a thousand ways.
+Like a lion among foxes and such,
+One should not be overcome by the host of afflictions. ^7-60
 
 
-Just as a person, even in the greatest danger,
-protects their eyes above all,
-so too, even amid the greatest danger,
-I should never fall under the power of the afflictions. ^7-61
+Even if great danger arises,
+Just as one protects one's eyes,
+So too, even if danger arises,
+One must not fall under the sway of afflictions. ^7-61
 
 
-Just as one becomes attached to a game
-for the pleasure its result brings,
-so too should I become attached
-to whatever task is at hand, never tiring of it, taking joy in it. ^7-62
+Just as one desires the joyful results of play,
+Whatever task one undertakes,
+One should be devoted to that task,
+And delight in it, never growing weary. ^7-62
 
 
-Even when acting for the sake of happiness,
-it is uncertain whether happiness will result;
-but how could there be no happiness
-in the very action that itself brings happiness? ^7-63
+Even if one performs actions for the sake of happiness,
+It is uncertain whether happiness will arise or not.
+But if the action itself becomes happiness,
+How can one be happy by not doing that action? ^7-63
 
 
-If desires, like honey on a razor's edge,
-never satisfy,
-then how could the ripened happiness
-of peaceful merit ever fail to satisfy? ^7-64
+If one is not satisfied by desires
+That are like honey on a razor's edge,
+How can one be satisfied by the peaceful
+Happiness of karmic results and merit? ^7-64
 
 
-Therefore, to bring a task to completion,
-like an elephant scorched by the midday sun
-plunging into a lake it has found,
-I should throw myself fully into that task. ^7-65
+Therefore, to complete a task,
+Like an elephant tormented by the midday sun
+That, upon finding a lake, plunges into it,
+One should likewise engage in that task. ^7-65
 
 
-When strength fails and connection with the task is lost,
-I should set it aside for the moment, to resume it later;
-and once a task is properly finished,
-I should let it go, in anticipation of the next. ^7-66
+If one's strength is exhausted,
+One should abandon the task for the sake of resuming it later.
+If it is well-completed, then with a desire for
+Further and further tasks, one should abandon it. ^7-66
 
 
-As in battle against a seasoned enemy,
-one wards off the blade that comes at oneself,
-so I should evade the weapon of the afflictions,
-and press to destroy the enemy that is the afflictions. ^7-67
+Like a warrior whose sword has fallen
+In battle with an old enemy,
+One should avoid the weapons of afflictions,
+And rise up to destroy the enemies of afflictions. ^7-67
 
 
-If a sword falls to the ground in battle,
-one quickly picks it up again out of fear;
-likewise, if the weapon of mindfulness is dropped,
-I should quickly retrieve it, recalling the terrors of hell. ^7-68
+If one's sword falls in battle,
+One quickly picks it up out of fear.
+Likewise, if the weapon of mindfulness is lost,
+One should quickly regain it, remembering the fear of hell. ^7-68
 
 
-Just as poison, carried by the blood,
-spreads throughout the whole body,
-so too, when an opening is found,
-wrongdoing spreads throughout the mind. ^7-69
+Just as poison, having entered the bloodstream,
+Spreads throughout the body,
+Likewise, if an opportunity is found,
+Faults will spread throughout the mind. ^7-69
 
 
-Like one carrying a vessel filled with mustard oil to the brim,
-made to walk carefully, threatened with death
-by a man standing by with a sword should they spill even a drop —
-just so should one of disciplined conduct hold themselves in check. ^7-70
+Carrying a vessel filled with oil,
+With a sword-wielder standing nearby,
+Fearing death if one spills it,
+A practitioner should likewise be vigilant. ^7-70
 
 
-Therefore, just as one leaps up quickly
-if a snake comes into one's lap,
-so too, when sleepiness or laziness arises,
-I should swiftly drive it away. ^7-71
+Therefore, if a snake comes into one's lap,
+Just as one quickly stands up,
+Likewise, if sleep and indolence arise,
+One should quickly ward them off. ^7-71
 
 
-Whenever a fault occurs,
-I should reproach myself for it,
-and reflect at length on how
-to ensure it never happens again. ^7-72
+For each fault that arises,
+One should reproach oneself and resolve,
+"This will never happen to me again."
+And reflect on this for a long time. ^7-72
 
 
-Thinking, "How can mindfulness
-become habitual in situations like these?" —
-I should seek out the company that gives rise to this,
-or the kind of activity that is appropriate. ^7-73
+"How can mindfulness be cultivated
+In these circumstances?"—
+One should desire to encounter the cause for this,
+Or the appropriate action. ^7-73
 
 
-So that I have strength before undertaking any task,
-recalling the teaching on conscientiousness,
-I should make myself
-light and ready for action. ^7-74
+Before undertaking any task,
+One should consider that everything has power.
+Remembering such words of caution,
+One should make oneself light and ready to act. ^7-74
 
 
-Just as cotton wool is governed
-by the coming and going of the wind,
-so too should I be governed by enthusiasm;
-only in that way will things be accomplished. ^7-75
+Just as the wind, by coming and going,
+Controls a cotton ball,
+Likewise, one should be controlled by enthusiasm,
+And then one will succeed. ^7-75
 
 
-This concludes the seventh chapter, entitled "Teaching Diligence," from the Way of the Bodhisattva. ^7-a
+From Engaging in the Bodhisattva's Conduct, this is the seventh chapter, called "The Practice of Diligence." ^7-a

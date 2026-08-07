@@ -25,10 +25,35 @@ A root text is the primary source — the original Sanskrit, Tibetan, Pali, or o
 
 ### Recommended Properties
 
-| Property       | Description                                                                                            | Example                 |
-| -------------- | ------------------------------------------------------------------------------------------------------ | ----------------------- |
-| `bdrc_work_id` | BDRC work ID — used to auto-resolve `translation_of` and fetch `alt_titles` for translation files      | `bdrc_work_id: WA19740` |
-| `alt_titles`   | Alternative titles (other scripts, transliterations) — auto-fetched from BDRC if `bdrc_work_id` is set |                         |
+| Property       | Description                                                                                                                                                                                                                                                                                                           | Example                                  |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| `bdrc_work_id` | BDRC work ID for this text — passed through to the API as `bdrc`. Not used to look up titles.                                                                                                                                                                                                                       | `bdrc_work_id: WA19740`                  |
+| `alt_titles`   | Alternative titles in the **same language** as the file (unique variants only — do not repeat `title`). A single string, or a YAML list of strings. The linter wraps each with the title script tag (`sa` → `sa-x-iast`; otherwise `lang_tag`). | see format below                         |
+
+**`alt_titles` format**
+
+All variants must be in the file's language (e.g. Sanskrit file → Sanskrit/IAST alts; English translation → English alts). YAML stays plain strings; the linter adds the script key.
+
+```yaml
+# single
+alt_titles: bodhicaryāvatāra
+
+# multiple — each entry is a distinct variant
+alt_titles:
+  - Bodhi(sattva)caryāvatāra
+  - bodhicaryāvatāra
+```
+
+For Sanskrit (`lang_tag: sa`), payload keys are `sa-x-iast` while `language` remains `sa`. Titles must be written in Latin/IAST (not Devanagari) — the linter errors if Devanagari is found:
+
+```json
+"language": "sa",
+"title": { "sa-x-iast": "bodhisattvacaryāvatāra" },
+"alt_titles": [
+  { "sa-x-iast": "Bodhi(sattva)caryāvatāra" },
+  { "sa-x-iast": "bodhicaryāvatāra" }
+]
+```
 
 ### Optional Properties
 
@@ -49,6 +74,9 @@ lang_tag: sa
 file_type: root-text
 category_id: JD5ULLPAV1cxg7RSb7L3q
 bdrc_work_id: WA19740
+alt_titles:
+  - Bodhi(sattva)caryāvatāra
+  - bodhicaryāvatāra
 source: https://webuddhist.com/
 license: public
 edition_type: critical
@@ -74,7 +102,7 @@ A translation file renders the root text in another language. The root text file
 | `license` | Copyright status | `license: public` |
 | `translator` | Translator name(s), separated by semicolons. Attach a BDRC or OpenPecha ID using `[bdrc:ID]` or `[op:ID]`. Names in parentheses are treated as aliases. For AI translations, use the model name with an OpenPecha ID. | `translator: Blo ldan shes rab [bdrc:P5678]; David Karma (bhikshu Karma Lodrö Choephel) [bdrc:P1234]; Claude Opus 4 [op:OP_ABC123]` |
 | `source` | URL of the source translation used | `source: https://webuddhist.com/` |
-| `alt_titles` | Alternative titles, each in its respective language. If the translation was done by AI (no `bdrc_work_id`), either provide these manually or translate them from the root text's `alt_titles`. | |
+| `alt_titles` | Alternative titles in the **same language** as this translation (`lang_tag`). A single string, or a YAML list of unique variants (do not repeat `title`). | `alt_titles: སྤྱོད་འཇུག` |
 
 > **Note:** `translation_of` is auto-resolved by the linter. It follows the `root_text` path to the source file and reads its `text_id`.
 
@@ -82,7 +110,7 @@ A translation file renders the root text in another language. The root text file
 
 | Property | Description | Example |
 |----------|-------------|---------|
-| `bdrc_work_id` | BDRC work ID for this specific translation | `bdrc_work_id: WA00KG0545` |
+| `bdrc_work_id` | BDRC work ID for this specific translation — passed through as `bdrc`; not used to look up titles | `bdrc_work_id: WA00KG0545` |
 | `edition_type` | `critical`, `diplomatic`, or `collated` | `edition_type: critical` |
 
 ### Optional Properties
@@ -109,6 +137,7 @@ file_type: translation
 root_text: 1-SOURCES/Text/sk-dev.md
 category_id: JD5ULLPAV1cxg7RSb7L3q
 bdrc_work_id: WA00KG0545
+alt_titles: སྤྱོད་འཇུག
 source: https://webuddhist.com/
 license: public
 covers_verses: 1-1–10-61
@@ -142,8 +171,8 @@ A commentary is a separate authored work that explains or expands on a root text
 
 | Property | Description |
 |----------|-------------|
-| `bdrc_work_id` | BDRC work ID for this commentary |
-| `alt_titles` | Alternative titles |
+| `bdrc_work_id` | BDRC work ID for this commentary — passed through as `bdrc`; not used to look up titles |
+| `alt_titles` | Alternative titles in the **same language** as `lang_tag`. A single string, or a YAML list of unique variants (same format as root text). |
 
 ### Optional Properties
 
@@ -164,6 +193,7 @@ lang_tag: sa
 file_type: commentary
 root_text: 1-SOURCES/Text/sk-dev.md
 bdrc_work_id: WA...
+alt_titles: bodhicaryāvatāra-pañjikā
 source: https://...
 license: public
 edition_type: critical

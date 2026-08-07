@@ -12,6 +12,6 @@ status: draft
 
 # Day 999 — Concept
 
-CONTENT FROM CREATOR B
+CONTENT FROM CREATOR A
 
 ## Feedback

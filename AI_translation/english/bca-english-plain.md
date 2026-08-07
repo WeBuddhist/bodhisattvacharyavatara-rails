@@ -52,7 +52,7 @@ how will this opportunity arise again later? ^1-4
 Just as a flash of lightning briefly illuminates
 a dark, cloudy night,
 likewise, rarely, through the power of the buddhas,
-does worldly merit and wisdom arise. ^1-5
+does a virtuous state of mind arise. ^1-5
 
 Therefore, consider that good deeds are weak,
 while misdeeds are powerful and unbearable.
@@ -126,7 +126,7 @@ equal to space. ^1-19
 This was taught by the buddhas themselves
 for the benefit of humble beings,
 in response to a reasonable request
-from the bodhisattva Samantabhadra. ^1-20
+from the bodhisattva Bhadrapāla. ^1-20
 
 If one merely thinks,
 "May I relieve the headache of a single being,"
@@ -183,7 +183,7 @@ who acts kindly without being asked? ^1-31
 
 People honor as virtuous one who offers
 a small amount of ordinary food to beings,
-giving merely a moment's food,
+giving it only briefly each time, though regularly,
 or satisfying them for half a day with disdain. ^1-32
 
 What need is there to speak of the continuous generosity
@@ -247,7 +247,7 @@ accept these for my sake, by their own power. ^2-7
 
 To the buddhas and their spiritual children, I
 permanently offer my entire body.
-May the Supreme Bodhisattvas completely accept me.
+May the Supreme Beings completely accept me.
 With reverence, I will become your servant. ^2-8
 
 Since I am completely accepted by you,
@@ -357,7 +357,7 @@ I confess them to the Protectors from the heart. ^2-29
 Whatever harm I committed with body, speech,
 and mind, driven by troubling emotions,
 towards the Three Jewels,
-my parents, or other teachers, ^2-30
+my parents, or other suffering beings, ^2-30
 
 whatever extremely unbearable wrongdoings
 I, a wrongdoer tainted by many faults,

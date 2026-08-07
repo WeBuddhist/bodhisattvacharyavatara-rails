@@ -8,10 +8,10 @@
 Today, when I see someone being criticized or harmed, I will not let myself feel pleased. I will recognize what is happening as a mistake.
 
 **Verse of the day:**
-Or whatever wrong I felt glad about —
-overpowered as I was by confusion —
-now that I see these mistakes clearly,
-I confess every one of them, from the bottom of my heart, before the buddhas.
+Overwhelmed by delusion and confusion,
+and whatever I rejoiced in,
+having seen those faults,
+I confess them to the Protectors from the heart.
 
 **Verse id:**
 Bodhicaryāvatāra, Chapter 2, Verse 29 (^2-29)
@@ -40,10 +40,10 @@ Bodhicaryāvatāra, Chapter 2, Verse 29 (^2-29)
 आज जब मैं किसी की निंदा होते या किसी को नुकसान पहुँचते देखूँगा, तो मन में खुशी नहीं होने दूँगा — मैं उसे एक गलती के रूप में पहचानूँगा।
 
 **आज का श्लोक:**
-नासमझी के भ्रम ने मुझको, अपने वश में कर लिया था,
-दूसरों के पापों को देखकर, मन ही मन मैं खुश हुआ था।
-अब उस भूल को भूल मानकर, उसे साफ़-साफ़ देखता हूँ,
-हे जगत् के रक्षकों, दिल से, वह सब कुछ कबूल करता हूँ॥
+अज्ञान के भ्रम से दबकर,
+जिन पापों का अनुमोदन किया,
+उन दोषों को देखकर,
+हृदय की गहराई से रक्षकों के समक्ष स्वीकार करता हूं।
 
 **श्लोक संख्या:**
 बोधिचर्यावतार, अध्याय २, श्लोक २९ (^2-29)

@@ -8,10 +8,10 @@
 Today, remembering that my possessions and the people I like and dislike are as passing as a dream, I will let go of attachment or dislike the moment I notice it rising.
 
 **Verse of the day:**
-Everything I have ever enjoyed
-becomes just a memory, like something from a dream.
-Once it is gone, it is gone —
-we can never see it again.
+Just like experiences in a dream,
+whatever things were enjoyed,
+those will become objects of memory.
+All that has passed will not be seen.
 
 **Verse id:**
 Bodhicaryāvatāra, Chapter 2, Verse 36 (^2-36)
@@ -40,10 +40,10 @@ Bodhicaryāvatāra, Chapter 2, Verse 36 (^2-36)
 आज मैं अपनी संपत्ति और अपने-पराए लोगों को सपने की तरह क्षणिक याद रखूँगा, और जैसे ही लगाव या द्वेष उठता महसूस होगा, उसे उसी वक़्त छोड़ दूँगा।
 
 **आज का श्लोक:**
-जैसे सपने में भोगी हुई चीज़ें, जागने पर कहीं नहीं मिलतीं,
-वैसे ही जो-जो चीज़ें भोगीं, वे सब बस याद बन जातीं।
-जो कुछ भी बीत गया है अब, वह दोबारा दिखेगा नहीं,
-बस यादों में रह जाएगा, और कहीं भी मिलेगा नहीं॥
+स्वप्न में अनुभव की गई वस्तु के समान,
+जो-जो वस्तु भोगी जाती है,
+वह स्मृति का विषय बन जाती है,
+बीता हुआ सब फिर दिखाई नहीं देता।
 
 **श्लोक संख्या:**
 बोधिचर्यावतार, अध्याय २, श्लोक ३६ (^2-36)

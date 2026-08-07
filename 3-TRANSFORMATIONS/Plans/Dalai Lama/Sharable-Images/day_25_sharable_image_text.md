@@ -8,10 +8,10 @@
 Today, relying on the Three Jewels to avoid wrongdoing, I will practice humble patience whenever someone makes me angry.
 
 **Verse of the day:**
-Until I reach full enlightenment myself,
-I take refuge in the buddhas.
-In the same way, I take refuge in the dharma,
-and in the whole sangha of bodhisattvas.
+Until I attain awakening,
+I go for refuge to the buddhas.
+Likewise, I go for refuge to the Dharma
+and the assembly of bodhisattvas.
 
 **Verse id:**
 Bodhicaryāvatāra, Chapter 2, Verse 26 (^2-26)
@@ -40,10 +40,10 @@ Bodhicaryāvatāra, Chapter 2, Verse 26 (^2-26)
 आज मैं पापों से बचने के लिए त्रिरत्न पर भरोसा रखूँगा, और जब किसी पर गुस्सा आएगा तो विनम्रता से धैर्य रखूँगा।
 
 **आज का श्लोक:**
-जब तक बोधि का सार न पाऊँ, तब तक बुद्धों की शरण जाऊँ,
-मन से मानूँ, वचन से कहूँ, यही संकल्प सदा निभाऊँ।
-उसी तरह सच्चे धर्म की, शरण में भी मैं जाता हूँ,
-और बोधिसत्वों के संघ की, शरण में शीश झुकाता हूँ॥
+बोधि के सार तक,
+मैं बुद्धों की शरण लेता हूं,
+धर्म तथा बोधिसत्वों के,
+संघ की भी उसी प्रकार शरण लेता हूं।
 
 **श्लोक संख्या:**
 बोधिचर्यावतार, अध्याय २, श्लोक २६ (^2-26)

@@ -8,10 +8,10 @@
 Today, whenever I see a beautiful flower or smell a sweet scent, I will mentally offer it to the Three Jewels to help clear away negative karma.
 
 **Verse of the day:**
-I offer the buddhas,
-who deserve the highest respect,
-beautiful flowers of every kind —
-soft blossoms, lotuses, and sweet-smelling garlands woven with care.
+To the mighty Sages, the supreme recipients of offerings,
+I offer delightful Mandarava flowers, lotuses,
+utpalas, and all other fragrant flowers,
+and well-arranged, delightful garlands.
 
 **Verse id:**
 Bodhicaryāvatāra, Chapter 2, Verse 15 (^2-15)
@@ -40,10 +40,10 @@ Bodhicaryāvatāra, Chapter 2, Verse 15 (^2-15)
 आज मुझे जब भी कोई सुंदर फूल दिखेगा या अच्छी खुशबू आएगी, तो मैं उसे मन ही मन त्रिरत्न को अर्पित कर दूँगा।
 
 **आज का श्लोक:**
-पूजा के जो उत्तम पात्र हैं, उन मुनीन्द्र के चरणों में,
-मन्दार, कमल और उत्पल के, सुंदर सुगंधित फूलों से।
-और महकती हुई सभी, फूलों की सुंदर मालाओं से,
-मैं भगवान बुद्ध की पूजा, करता हूँ इन श्रद्धाओं से॥
+मुनीश्वरों, परम पूजनीय, सुंदर,
+मंदार तथा कमल के फूलों,
+नीलकमल आदि समस्त सुगंधित फूलों,
+तथा सुंदर ढंग से गूंथी मालाओं से पूजा करता हूं।
 
 **श्लोक संख्या:**
 बोधिचर्यावतार, अध्याय २, श्लोक १५ (^2-15)

@@ -8,10 +8,10 @@
 Today I will not lie or mislead anyone for my own small advantage. I will stay straight with people.
 
 **Verse of the day:**
-I have been so careless, buddhas —
-I never really understood a danger this serious.
-And because of that, I have piled up so much wrongdoing,
-just for the sake of this short life.
+Protectors, I, being careless,
+did not realize this great fear.
+For the sake of this impermanent life,
+I accumulated many misdeeds.
 
 **Verse id:**
 Bodhicaryāvatāra, Chapter 2, Verse 42 (^2-42)
@@ -40,10 +40,10 @@ Bodhicaryāvatāra, Chapter 2, Verse 42 (^2-42)
 आज मैं अपने छोटे-से फ़ायदे के लिए किसी से झूठ नहीं बोलूँगा और किसी को धोखा नहीं दूँगा — सीधा और सच्चा रहूँगा।
 
 **आज का श्लोक:**
-हे जगत् के रक्षकों, मैं तो, बेपरवाही में डूबा रहा,
-ऐसा भयानक डर सामने है, यह मुझको कभी न पता रहा।
-इस अनित्य, क्षणभंगुर जीवन के, थोड़े-से आराम के लिए,
-मैंने कितने ही पाप जोड़े, बस पेट भरने के लिए॥
+हे रक्षक, असावधान मैंने,
+ऐसे भय को न जानते हुए,
+इस नित्य न रहने वाले जीवन के लिए,
+अनेक पाप संचित किए।
 
 **श्लोक संख्या:**
 बोधिचर्यावतार, अध्याय २, श्लोक ४२ (^2-42)

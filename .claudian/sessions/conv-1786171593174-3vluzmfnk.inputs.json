@@ -27,6 +27,20 @@
       "images": [],
       "contentDigest": "79c3b3b23ea5ab1bcf305f7db8d7a2af798a0eae30ecff716ee3a8e09160569f",
       "providerUserMessageId": "2f6ac2cc-c7b7-4c42-b3a1-e120835dca2b"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786181163725-b8wnwbd",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786181163720-benexbs",
+      "timestamp": 1786181163720,
+      "rawDisplayText": "hello",
+      "canonicalText": "hello",
+      "images": [],
+      "contentDigest": "20ac08c292d63b2c7c5fd643cc588461ab80929dc11c1cbaa881ec6d9a981db9",
+      "providerUserMessageId": "39a0d307-21a7-46e4-a3a1-0c8e5fd4cfac",
+      "providerAssistantMessageId": "739e3dc6-f45b-4c7f-9868-32bf947d5afd"
     }
   ]
 }

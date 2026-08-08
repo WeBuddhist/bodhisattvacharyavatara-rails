@@ -4,7 +4,10 @@
   "title": "what's the meaning of the 1st verse of the text",
   "titleGenerationStatus": "failed",
   "createdAt": 1786171593180,
-  "lastActivityAt": 1786171593180,
-  "sessionId": null,
-  "selectedModel": "opus"
+  "lastActivityAt": 1786172049048,
+  "sessionId": "2728fef1-c277-4e60-afc1-a1f7e09d6d28",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "2728fef1-c277-4e60-afc1-a1f7e09d6d28"
+  }
 }

@@ -1,5 +1,32 @@
 {
   "schemaVersion": 1,
   "conversationId": "conv-1786171593174-3vluzmfnk",
-  "records": []
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786172036732-mk3p390",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786172036293-zenf2zh",
+      "timestamp": 1786172036293,
+      "rawDisplayText": "what's the meaning of the 1st verse of the text",
+      "canonicalText": "what's the meaning of the 1st verse of the text",
+      "images": [],
+      "contentDigest": "f277410a799e090efea4878096d40fc281f632d320dcbe4d583c87ce0cc82386",
+      "providerUserMessageId": "c7f6ba54-b27b-4441-bd75-27852f38779b"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786172049011-napy0oo",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786172049009-twm05sg",
+      "timestamp": 1786172049009,
+      "rawDisplayText": "what?",
+      "canonicalText": "what?",
+      "images": [],
+      "contentDigest": "79c3b3b23ea5ab1bcf305f7db8d7a2af798a0eae30ecff716ee3a8e09160569f",
+      "providerUserMessageId": "2f6ac2cc-c7b7-4c42-b3a1-e120835dca2b"
+    }
+  ]
 }

@@ -6,17 +6,18 @@
   "createdAt": 1786171593180,
   "lastActivityAt": 1786181197756,
   "sessionId": "2728fef1-c277-4e60-afc1-a1f7e09d6d28",
-  "selectedModel": "opus",
+  "selectedModel": "sonnet",
   "providerState": {
     "providerSessionId": "2728fef1-c277-4e60-afc1-a1f7e09d6d28"
   },
   "usage": {
-    "model": "opus",
+    "model": "sonnet",
     "inputTokens": 2,
     "cacheCreationInputTokens": 34147,
     "cacheReadInputTokens": 38085,
     "contextWindow": 1000000,
     "contextTokens": 72234,
-    "percentage": 7
+    "percentage": 7,
+    "contextWindowIsAuthoritative": false
   }
 }

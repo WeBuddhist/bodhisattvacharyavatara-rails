@@ -13,75 +13,75 @@ status: draft
 
 # Day 35 — Commentary — His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)
 
-**Core theme:** Moving from passive belief to active, embodied protection through Vajrapani
+**Core theme:** Moving from mindless patterns to conscious protection through the power of Vajrapani.
 
-**Concept:** "Take refuge in the protector whose very presence scatters your deepest fears."
+**Concept:** "You do not have to face your darkest internal fears alone because you can invite a powerful, protective energy to stand beside you."
 
 ## Version 1
-### Opening (0–10 sec)
+### Opening (0–12 sec)
 **On screen**
-- Close-up of the creator sitting in a quiet, dimly lit room, holding a small statue or image of Vajrapani, looking intensely into the lens.
+- A shot of someone sitting at a desk with a furrowed brow, looking overwhelmed by a pile of work or life stress.
 
 **Voiceover**
-We all have things that keep us up at night, those inner ghosts of regret. His Holiness the Dalai Lama teaches that true protection starts with knowing exactly who to turn to.
+We all carry hidden fears that haunt us, like shadows of our past mistakes. His Holiness the Dalai Lama teaches that you do not have to carry those weights alone.
 
-### Middle (10–45 sec)
+### Middle (12–50 sec)
 **On screen**
-- Creator gesturing with open hands, then sketching a small diagram or pointing to a text snippet about 'what to give up and what to take up'.
+- Montage of someone taking a deep breath, then writing a note in a journal, then placing a hand on their heart, cut with soft natural light.
 
 **Voiceover**
-It is not just about a mental wish for safety. When you take refuge in Vajrapani, you are aligning yourself with an energy that crushes the very roots of harm. But just saying the words is not enough. His teaching reminds us that we have to do the work ourselves. You must train your mind to stop confusing what damages your peace and what actually nurtures it. It means looking honestly at your past mistakes, deciding to stop planting those seeds, and choosing to act differently starting right now. This is how you take refuge in reality.
+He explains that in moments of deep anxiety, we can take refuge in Vajrapani. Think of him as the embodiment of an immovable, protective presence that makes your fears scatter like leaves in a storm. But simply asking for help is only the first step. You must also commit to changing your habits. It means actively watching what you let into your mind and what you choose to give up. When you align your daily actions with this new sense of protection, you stop just reacting to life. You begin to intentionally build a mind that is brave and steady, knowing you are backed by something much larger than your own doubt.
 
-### End (45–60 sec)
+### End (50–60 sec)
 **On screen**
-- Creator sitting back, the room seems brighter, hands resting calmly on their lap, looking at the viewer with a sense of peace.
+- The person from the opening sitting in the same spot, but now they are smiling softly and taking a calm sip of tea.
 
 **Voiceover**
-So keep that vision of strength in your mind. Whenever the fear returns, remember: you are not helpless. You have a support that can clear the path if you walk it.
+You are not the same person who started this day. With that protective energy at your back, choose one small habit to release today and breathe.
 
 ## Version 2
-### Opening (0–10 sec)
+### Opening (0–12 sec)
 **On screen**
-- Creator standing in front of a cluttered, chaotic desk, then suddenly taking a deep breath and looking directly at the camera with a calm, steady gaze.
+- Close-up of the creator looking directly at the camera, then gently closing their eyes to signify turning inward.
 
 **Voiceover**
-What if you had a protector so powerful that your biggest fears actually ran away the moment they saw him? This is the core of taking refuge in the Vajra-holder.
+Stop and consider the things that make you feel truly small or afraid. You are trying to handle these inner battles by yourself, but there is a better way.
 
-### Middle (10–45 sec)
+### Middle (12–50 sec)
 **On screen**
-- Montage: Creator walking briskly through a city street, then pausing to look at a calm garden, followed by a shot of them writing in a journal with intent.
+- Continuous shot of the creator walking slowly through a quiet park or garden, speaking directly to the camera with a warm, steady tone.
 
 **Voiceover**
-Think of Vajrapani as the ultimate guardian of your own potential. The texts describe him as being so potent that even the most terrifying forces scatter when he appears. This isn't a fairy tale; it is a call to become disciplined. Taking refuge means you finally stop ignoring your own patterns. You stop feeding the habits that make you feel small or afraid. You begin to clear away the inner debris by actively deciding what is worth holding onto and what needs to be released for your own long-term health and freedom.
+In his teaching, he notes that at the mere sight of this powerful protector, even our deepest fears lose their power and vanish. To truly tap into this, you have to do more than just wish for safety. You have to train. This means looking at your own life and deciding what needs to go—those habits of negativity that keep you stuck. It is like gathering yourself after a hard fall and choosing to lean on this support to stand back up. You stop confusing what hurts you with what helps you, and you start replacing old, fearful patterns with small, deliberate actions that serve your growth.
 
-### End (45–60 sec)
+### End (50–60 sec)
 **On screen**
-- Creator stands up, puts the small Vajrapani image on a shelf, and turns away to walk into the day, looking confident.
+- A slow zoom on the creator’s face as they look into the lens with a calm, reassuring expression, ending with a small, steady nod.
 
 **Voiceover**
-Today, look at one habit you know creates fear in your life and choose to stop it. That is how you turn a simple moment of refuge into a permanent change.
+Fear can only hold on as long as you let it. Keep that protective strength in your heart, and notice how quickly the path forward clears up.
 
 ## Version 3
-### Opening (0–10 sec)
+### Opening (0–12 sec)
 **On screen**
-- Montage of quick, blurry shots: a ticking clock, a shadow on a wall, a nervous hand gripping a coffee mug, then cutting to the creator’s face, still and focused.
+- A person standing in a doorway, hesitant to move forward into a bright, busy space.
 
 **Voiceover**
-When the messengers of fear arrive, where do you hide? The tradition shows us a different way: calling on a force so fierce that malice simply shatters at the sight of it.
+When the messengers of fear arrive, where do you turn? Many of us instinctively run, but we ignore the powerful support standing right beside us the entire time.
 
-### Middle (10–45 sec)
+### Middle (12–50 sec)
 **On screen**
-- Single shot of the creator speaking warmly, occasionally pausing to let the words sink in, then smiling slightly as they talk about the 'choice' involved.
+- A split screen showing a person looking anxious on one side, then performing a small act of kindness or mindfulness on the other side.
 
 **Voiceover**
-When you call out for protection, you are asking for the strength to stand up straight after a fall. Imagine that moment of stumbling. You do not stay down. You use the presence of this powerful figure as the support you lean on to rise again. But that support only helps if you take the step. It means you must be ruthless about clearing away the old habits that create fear. You are no longer drifting. You are taking responsibility for the direction of your life by choosing virtue over the chaos of your past mistakes.
+When you call out from the depths of your heart, you are acknowledging that you are ready for change. He reminds us that this isn't just a prayer; it is a shift in how you live. To really clear away the fear of your own past, you must start making different choices every single day. You stop the cycle of non-virtue by replacing it with intentional kindness and focus. You are not just protected from the outside, you are protected by your own commitment to walk a cleaner, clearer path. This is how you reclaim your power and quiet the noise of your inner critics.
 
-### End (45–60 sec)
+### End (50–60 sec)
 **On screen**
-- Creator looks into the lens, holding the initial pose from the opening, creating a perfect loop for the video to restart.
+- The creator walks out of the frame into bright light, leaving a peaceful, empty space where they just stood.
 
 **Voiceover**
-The ghosts of yesterday only stay because you invite them in. When you finally take refuge in your own power to choose, watch how quickly the fear fades away.
+The next time doubt creeps in, remember who is standing with you. Turn toward that strength, let the fear scatter, and simply take your next step.
 
 
 ## Feedback

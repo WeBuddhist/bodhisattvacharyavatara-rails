@@ -11,6 +11,8 @@ Generates complete daily practice-plan documents for the Bodhisattva Challenge's
 
 **Generated vs. fixed — the core discipline of this skill.** Sections 1 and 5 are reproduced character-for-character from this file, every time, for every day — never paraphrased, reordered, or "improved." Sections 2, 4, and 6 are composed by calling `mcp__gemini-mcp__gemini_generate`, not written directly by the agent — the agent's job is to assemble the grounding material and constraints into the prompt, call the tool, and then mechanically verify the result (syllable counts, required opening phrases, citation integrity), never to originate the Tibetan prose itself. Section 3 is mechanically extracted, not generated at all.
 
+**Reading level — plain, 8th-grade Tibetan, for every generated section.** Sections 2, 4, and 6 must read at an easy, 8th-grade Tibetan level that any ordinary person can follow on first reading — short clear sentences, everyday vocabulary, no archaic scholastic or classical-commentarial phrasing, no dense unglossed philosophical compounds. Bake this instruction explicitly into every `gemini_generate` prompt (see the per-section constraint lists below); do not rely on the model defaulting to it. This rule governs register only — it does not license paraphrasing, omitting, or softening the underlying content, and it never applies to Sections 1, 3, or 5, which are liturgy and root verses reproduced exactly as attested regardless of how classical their language is.
+
 ---
 
 ## Source files
@@ -137,6 +139,7 @@ Double-check this phrase by hand — ordinal formation is irregular and easy to 
 citation phrase; the exact verse text from Step 3; a one-line paraphrase-free summary of what the verse(s) are about drawn from the བསྡུས་དོན/གཙོ་གནད layers collected in Phase 1 (for the generator's own grounding, not for the reader); and these constraints, stated explicitly in the prompt:
 
 - Output must be Tibetan only — no English, no transliteration, no markdown formatting, no preamble or explanation of what was generated.
+- Plain, easy 8th-grade Tibetan — short sentences, everyday vocabulary, no archaic or scholastic phrasing. A common person should understand it on first reading.
 - 1–2 sentences, brief, warm, inviting — a doorway, not a synopsis.
 - Must state the citation phrase (verbatim or lightly integrated grammatically).
 - Must not explain or paraphrase the verse's meaning — that belongs to Section 4, not here.
@@ -167,28 +170,25 @@ No commentary, no headers per verse, no editorializing — verses only, exactly 
 
 **Goal:** surface the single best piece of extended material the commentary actually contains for these verses — a story (སྒྲུང), a simile (དཔེ), a citation (ལུང), a detailed breakdown, or a clarifying explanation — presented accessibly. This is not a verse-by-verse commentary walkthrough, and it is not always present.
 
-Before calling the generator, decide from the Phase 1 material collected
-(དོན་འགྲེལ, ལུང, གཙོ་གནད) whether there actually is a standout piece of extended
-material for this verse range. If the commentary offers nothing beyond
-ordinary verse explanation, **the section is correctly left empty** — do not
-manufacture something to fill it. If several good candidates exist, pick the
-one that will support Section 6's practice the best rather than combining
-all of them.
+Before calling the generator, decide from the Phase 1 material collected (དོན་འགྲེལ, ལུང, གཙོ་གནད) whether there actually is a standout piece of extended material for this verse range. If the commentary offers nothing beyond ordinary verse explanation, **the section is correctly left empty** — do not manufacture something to fill it. If several good candidates exist, pick the one that will support Section 6's practice the best rather than combining all of them.
 
-**Call `gemini_generate`** with a prompt that includes: the selected
-commentary excerpt(s) verbatim, cited passages only (never invent); and these
-constraints, stated explicitly:
+**Call `gemini_generate`** with a prompt that includes: the selected commentary excerpt(s) verbatim, cited passages only (never invent); and these constraints, stated explicitly:
 
 - Output must be Tibetan only, no markdown, no preamble.
+- Plain, easy 8th-grade Tibetan — short sentences, everyday vocabulary, no archaic or scholastic phrasing. Render the classical commentary's point in accessible modern Tibetan; do not carry over its dense technical register.
 - Must open with **exactly** this phrase, filling in whichever bracketed option genuinely fits (story/point/anecdote/simile/citation/valuable-teaching — do not default to the same one every time):
   `ཚིགས་བཅད་འདི་དག་དང་འབྲེལ་བའི་འགྲེལ་བཤད་ཁག་ལས་ང་ཚོར་གོ་བདེ་ཞིང་བློ་སྐྱེད་ལྡན་པའི་འགྲེལ་བཤད་/གནད་དོན་/གཏམ་རྒྱུད་/དཔེ་/ལུང་/རིན་ཐང་ཅན་འདི་འདྲ་ཞིག་གསུངས་ཡོད།`
 - Hard ceiling: **300 Tibetan syllables total.** This is a ceiling, not a target — instruct the generator not to pad toward it, and prefer a shorter, well-chosen answer.
 - Base only on the supplied commentary excerpts. No outside knowledge, however plausible.
 
 After generation, run `scripts/count_syllables.py` on the output. If it
-exceeds 300, either regenerate with a tighter instruction or trim — trimming
-must cut only redundant material, never information the source doesn't
-support keeping anyway.
+exceeds 300, either regenerate with a tighter instruction or trim — trimming must cut only redundant material, never information the source doesn't support keeping anyway.
+
+> Note: the plain-8th-grade-Tibetan rule governs the *surrounding gloss*, not
+> a verbatim scriptural quotation (ལུང) itself — if the chosen material is a
+> direct citation, quote it exactly as sourced even if its register is
+> classical, and put the plain-language rule to work in the sentence(s) that
+> introduce or explain it.
 
 ```markdown
 # 💡 གོ་རྟོགས།
@@ -219,28 +219,21 @@ Copy this block character-for-character, same as Section 1.
 ### Section 6 — 📿 དེ་རིང་གི་ཉམས་ལེན། (Today's Practice) — GENERATED
 
 **Goal:** pick the single most concretely actionable verse from today's
-range — the one an ordinary person with no special training could actually
-act on today — and build all three subsections around that one verse only.
-If the day has only one verse, that is automatically the chosen verse.
+range — the one an ordinary person with no special training could actually act on today — and build all three subsections around that one verse only. If the day has only one verse, that is automatically the chosen verse.
 
-**Call `gemini_generate`** with a prompt that includes: all of today's verses
-(so the generator can choose among them) and the collected commentary
-material for each (from Phase 1); the practice-category tag list; and these
-constraints, stated explicitly:
+**Call `gemini_generate`** with a prompt that includes: all of today's verses (so the generator can choose among them) and the collected commentary material for each (from Phase 1); the practice-category tag list; and these constraints, stated explicitly:
 
 - Output must be Tibetan only, no markdown beyond the three required `####` subheadings, no preamble.
+- Plain, easy 8th-grade Tibetan in subsections 1 and 2 — short sentences, everyday vocabulary, no archaic or scholastic phrasing. This is the most concrete, action-facing section, so plainness matters most here.
 - Choose exactly one verse from the day's range to build the practice around; name which one internally is fine, but the visible output is just the three subsections below.
 - **དང་པོ་ཉམས་ལེན་དངོས** — one concrete action that fits ordinary modern life *today* — not a retreat activity, not a vague aspiration ("contemplate compassion"), a specific doable thing ("when I feel afraid today, I will..."). **Absolute hard limit: 30 Tibetan syllables** — do not exceed this even slightly.
 - **གཉིས་པ་དེའི་འགྲེལ་བཤད** — explain the practice's benefit and how it connects to the chosen verse. Must open with exactly one bracketed category tag chosen from this list (pick whichever genuinely fits — do not default to the same one every time): `[སྡིག་པ་མི་བྱ་བ།, དགེ་བ་བྱ་བ།, རང་སེམས་འདུལ་བ།, སྦྱིན་པའི་ཉམས་ལེན།, ཚུལ་ཁྲིམས་ཀྱི་ཉམས་ལེན།, བཟོད་པའི་ཉམས་ལེན།, བརྩོན་འགྲུས་ཀྱི་ཉམས་ལེན།, བསམ་གཏན་གྱི་ཉམས་ལེན།, ཤེས་རབ་ཀྱི་ཉམས་ལེན།]`
 - **གསུམ་པ་ཚིགས་བཅད་དངོས** — is not generated prose at all; it is the exact root verse the practice is drawn from, unaltered, unparaphrased, no commentary added, with its `^chapter-verse` anchor intact. Insert this from Step 3's already-verified verse text — do not let the generator retype the verse (risk of drift from the source).
 
-> ⚠️ **Mechanical fix the generator reliably needs.** The category tag must be
-> wrapped exactly as `_(tag)_` — underscore-parenthesis, i.e. an italicized
-> parenthetical — matching the worked example below. Models frequently
-> substitute plain square brackets (`[དགེ་བ་བྱ་བ།]`) instead. Check the raw
-> tool output for this every time and correct it before inserting — this is
-> mechanical cleanup, not content authorship, so fixing it does not violate
-> the "don't hand-author" rule.
+> ⚠️ **Mechanical fix the generator reliably needs.** 
+> The category tag must be wrapped exactly as `_(tag)_` — underscore-parenthesis, i.e. an italicized parenthetical — matching the worked example below. 
+> Models frequently substitute plain square brackets (`[དགེ་བ་བྱ་བ།]`) instead. 
+> Check the raw tool output for this every time and correct it before inserting — this is mechanical cleanup, not content authorship, so fixing it does not violate the "don't hand-author" rule.
 
 Format:
 
@@ -281,16 +274,10 @@ syllables, since hand-trimming risks producing an incomplete instruction.
 
 ## Phase 3 — Assemble and save
 
-1. Concatenate the six sections in order (1 → 2 → 3 → 4 → 5 → 6), separated by
-   a blank line, each starting with its own `# [emoji] [name]` H1 heading
-   exactly as shown above. Section 4 may be entirely absent (heading and all)
-   only if genuinely no standout material was found — state this explicitly
-   when reporting back, don't silently drop it without noting why.
-2. Optionally prepend a document title line for navigation (not one of the six
-   required sections, so it does not need to follow their heading scheme):
+1. Concatenate the six sections in order (1 → 2 → 3 → 4 → 5 → 6), separated by a blank line, each starting with its own `# [emoji] [name]` H1 heading exactly as shown above. Section 4 may be entirely absent (heading and all) only if genuinely no standout material was found — state this explicitly when reporting back, don't silently drop it without noting why.
+2. Optionally prepend a document title line for navigation (not one of the six required sections, so it does not need to follow their heading scheme):
    `# ཉིན་ [day, Tibetan numeral] — སྤྱོད་འཇུག་ལེའུ་[chapter-ordinal]། ཚིགས་བཅད་[start]–[end]`
-3. Resolve the output path (see "Output location and filename" above) and
-   apply the overwrite guard.
+3. Resolve the output path (see "Output location and filename" above) and apply the overwrite guard.
 4. Write the file.
 5. Repeat for every day in the request.
 
@@ -314,6 +301,7 @@ Run this for every day produced, before considering it done:
 - [ ] Section 6 subsection 2 (གཉིས་པ་དེའི་འགྲེལ་བཤད) opens with exactly one category tag from the fixed list, wrapped as `_(tag)_` (not `[tag]` or bare) — the tag genuinely fits and was not defaulted.
 - [ ] Section 6 subsection 3 (གསུམ་པ་ཚིགས་བཅད་དངོས) is the exact verse text from Section 3/Step 3, not a re-typed or paraphrased version, with its anchor intact.
 - [ ] Every word of prose content is Tibetan — no English or other language anywhere except `^chapter-verse` anchors and filenames/paths, which are exempt.
+- [ ] Sections 2, 4, and 6 read at a plain, easy 8th-grade Tibetan level — short sentences, everyday vocabulary, no archaic/scholastic phrasing carried over from the classical commentary (verbatim scriptural quotations in Section 4 are exempt from simplification; their surrounding gloss is not).
 - [ ] No content in Sections 2, 4, or 6 was hand-authored by the agent bypassing `gemini_generate` — mechanical cleanup of the tool's output (stripping stray markdown/preamble) is fine; composing the prose is not.
 
 ---
@@ -328,3 +316,4 @@ Run this for every day produced, before considering it done:
 - Choosing the same practice-category tag or the same Section-4 opening variant every day — both lists exist precisely so the choice varies with what the commentary actually supports.
 - Silently overwriting an existing populated day file instead of applying the overwrite guard.
 - Mixing Arabic and Tibetan numerals inside plan prose (Arabic is fine only in anchors and file paths).
+- Letting generated prose drift into classical/scholastic register because the source commentary excerpts fed into the prompt were themselves dense and technical — the plain-8th-grade-Tibetan instruction must be stated explicitly in every generation prompt, not assumed.

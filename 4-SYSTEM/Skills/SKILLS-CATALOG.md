@@ -457,7 +457,7 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 ### `BCA-Daily-Practice-Plan-HHDL` **[exists]**
 **Purpose:** Generate one or more Dalai Lama–track daily practice plans in a new 6-section, emoji-headed, Tibetan-only format: 🪷 setting intention (fixed), ☕️ intro (generated), 📖 today's verses (extracted), 💡 extended info (generated, single best story/simile/citation, <=300 syllables), 💧 aspirations (fixed), 📿 today's practice (generated, 3 fixed subsections, action <=30 syllables). Generated sections (2, 4, 6) are produced by calling `mcp__gemini-mcp__gemini_generate`, not authored directly by the agent.
 **Inputs:** Day number(s) or ranges (e.g. "day-1", "day 20 to day 35"); `Tibetan-schedule-corrected.md` for verse lookup; `bo-བློ་ལྡན་ཤེས་རབ།.md` for verse text; `2-RAILS/Verses/<chapter>-<verse>-summary.md` for commentary grounding.
-**Outputs:** `Plans/Dalai Lama/Chapter-<C> D<s>-D<e>/Day-<N>-Ch<C>-V<start>-<end>.md`, one per requested day; overwrite guard archives any existing populated file before replacing it. Bundles `references/tibetan-numerals-and-ordinals.md` (ordinal/cardinal number formation, chapter→folder map) and `scripts/count_syllables.py` (syllable-ceiling verification).
+**Outputs:** Overwrites the existing day file at `Plans/Dalai Lama/Chapter-<C> D<s>-D<e>/Day-<N>-Ch<C>-V<start>-<end>.md` — all 365 files already exist as generation targets, so the skill locates and overwrites, never creates. Bundles `references/tibetan-numerals-and-ordinals.md` (ordinal/cardinal number formation, chapter→folder map) and `scripts/count_syllables.py` (syllable-ceiling verification).
 → [`BCA-Daily-Practice-Plan-HHDL/SKILL.md`](BCA-Daily-Practice-Plan-HHDL/SKILL.md)
 
 ### `dalai-lama-plan-translation` **[exists]**

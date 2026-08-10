@@ -28,23 +28,36 @@ Generates complete daily practice-plan documents for the Bodhisattva Challenge's
 
 ---
 
-## Output location and filename
+## Output location and filename — overwrite the existing file, never create a new one
+
+All 365 day files already exist on disk, one per day, under
+`3-TRANSFORMATIONS/Plans/Dalai Lama/Chapter-<C> D<s>-D<e>/`. This skill's job
+is to **locate the correct existing file for the requested day and overwrite
+it in place** — it never creates a new file and never needs to invent a
+filename.
 
 ```
 3-TRANSFORMATIONS/Plans/Dalai Lama/Chapter-<C> D<s>-D<e>/Day-<N>-Ch<C>-V<start>-<end>.md
 ```
 
-- Resolve the `Chapter-<C> D<s>-D<e>` folder from the chapter→folder map in `references/tibetan-numerals-and-ordinals.md` — do not guess it from the chapter number alone.
-- `<N>` is the plain day number, no zero-padding. `<start>`/`<end>` are the plain verse numbers within the chapter (not cumulative), matching the `Verses` column of the schedule. Example: Day 36 → `2.54-2.56` → `Chapter-2 D15-D40/Day-36-Ch2-V54-56.md`.
-- Filenames and the folder path use plain Arabic digits — this is a filesystem identifier, not plan content, so it is exempt from the Tibetan-only rule.
+Example: Day 41 → `Chapter-3 D41-D54/Day-41-Ch3-V1-2.md`.
 
-### ⚑ Overwrite guard
+### Locate the file (do this before generating anything)
 
-Files at this path may already exist (some days were produced by earlier
-generators or hand-authored). Before writing:
+1. Resolve the `Chapter-<C> D<s>-D<e>` folder from the chapter→folder map in `references/tibetan-numerals-and-ordinals.md`, using the chapter number found in Phase 1 Step 2 — do not guess it from the chapter number alone.
+2. Inside that folder, find the file matching `Day-<N>-Ch*-V*.md` (`<N>` = the requested day number, no zero-padding). There is exactly one such file per day across the whole plan.
+3. **Consistency check:** confirm the `Ch<C>-V<start>-<end>` portion of the filename you found matches the chapter and verse range you computed from `Tibetan-schedule-corrected.md` in Phase 1 Step 2. The filename encodes this redundantly, so a mismatch means either the schedule lookup or the file search went wrong — **stop and report it**, do not overwrite a file whose filename disagrees with the schedule.
+4. If no file matching `Day-<N>-*.md` exists in the resolved folder at all, that is an error state (every day 1–365 should already have one) — stop and report it rather than creating a new file.
 
-1. If the target file does not exist, or exists but is empty/only a stub, write freely.
-2. If it exists and already contains populated content in any of Sections 2/4/6 (i.e. more than the fixed skeleton), **stop and get explicit human confirmation** before overwriting. On approval, move the existing file to a sibling `Archive/` folder (e.g. `Chapter-2 D15-D40/Archive/Day-36-Ch2-V54-56.md`, adding a numeric suffix if that name is already taken) rather than deleting it.
+### Overwriting
+
+Once the file is located and the consistency check passes, **overwrite it
+directly** with the freshly assembled six-section plan (Phase 3) — no
+archiving step and no confirmation prompt. These files are the generation
+targets, not curated content to be preserved; that is precisely what this
+skill exists to fill in. Filenames and folder paths use plain Arabic
+digits — this is a filesystem identifier, not plan content, so it is exempt
+from the Tibetan-only rule.
 
 ---
 
@@ -277,8 +290,8 @@ syllables, since hand-trimming risks producing an incomplete instruction.
 1. Concatenate the six sections in order (1 → 2 → 3 → 4 → 5 → 6), separated by a blank line, each starting with its own `# [emoji] [name]` H1 heading exactly as shown above. Section 4 may be entirely absent (heading and all) only if genuinely no standout material was found — state this explicitly when reporting back, don't silently drop it without noting why.
 2. Optionally prepend a document title line for navigation (not one of the six required sections, so it does not need to follow their heading scheme):
    `# ཉིན་ [day, Tibetan numeral] — སྤྱོད་འཇུག་ལེའུ་[chapter-ordinal]། ཚིགས་བཅད་[start]–[end]`
-3. Resolve the output path (see "Output location and filename" above) and apply the overwrite guard.
-4. Write the file.
+3. Locate the existing day file and run the consistency check (see "Output location and filename" above).
+4. Overwrite that file with the assembled content.
 5. Repeat for every day in the request.
 
 ---
@@ -287,8 +300,8 @@ syllables, since hand-trimming risks producing an incomplete instruction.
 
 Run this for every day produced, before considering it done:
 
-- [ ] File saved at `Chapter-<C> D<s>-D<e>/Day-<N>-Ch<C>-V<start>-<end>.md`, folder resolved from the chapter→folder map, not guessed.
-- [ ] Overwrite guard honored — no populated existing file silently replaced.
+- [ ] The existing file at `Chapter-<C> D<s>-D<e>/Day-<N>-Ch<C>-V<start>-<end>.md` was located and overwritten — no new file created.
+- [ ] Consistency check passed: the `Ch<C>-V<start>-<end>` in the filename matches the chapter/verse range computed from `Tibetan-schedule-corrected.md`.
 - [ ] All six section headings present in order, each `# [emoji] [Tibetan name]` exactly as specified (🪷 ☕️ 📖 💡 💧 📿), except Section 4 may be legitimately absent.
 - [ ] Section 1 and Section 5 are byte-identical to the fixed blocks in this file — no paraphrase, no reordering, no punctuation drift.
 - [ ] Section 2 is 1–2 sentences, states the citation phrase, does not explain verse meaning, and was produced by `gemini_generate` (not authored directly).
@@ -314,6 +327,7 @@ Run this for every day produced, before considering it done:
 - Filling Section 4 with invented or general-knowledge material when the commentary summary is thin — leave it empty instead.
 - Letting the generator retype the root verse in Section 6's third subsection instead of pasting the already-verified text from Section 3 — introduces silent drift from the source.
 - Choosing the same practice-category tag or the same Section-4 opening variant every day — both lists exist precisely so the choice varies with what the commentary actually supports.
-- Silently overwriting an existing populated day file instead of applying the overwrite guard.
+- Creating a new file instead of finding and overwriting the day's existing file — all 365 already exist; this skill never invents a filename.
+- Overwriting a file without running the filename-vs-schedule consistency check first, risking a mismatch between the file's own `Ch<C>-V<start>-<end>` and the actual computed verse range.
 - Mixing Arabic and Tibetan numerals inside plan prose (Arabic is fine only in anchors and file paths).
 - Letting generated prose drift into classical/scholastic register because the source commentary excerpts fed into the prompt were themselves dense and technical — the plain-8th-grade-Tibetan instruction must be stated explicitly in every generation prompt, not assumed.

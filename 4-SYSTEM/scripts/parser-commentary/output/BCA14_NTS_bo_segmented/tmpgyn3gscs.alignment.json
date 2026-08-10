@@ -1,0 +1,32 @@
+{
+  "alignments": [
+    {
+      "source_segment_reference": "4-1",
+      "target_segment_reference": "4-1"
+    },
+    {
+      "source_segment_reference": "4-2",
+      "target_segment_reference": "4-1"
+    },
+    {
+      "source_segment_reference": "4-3",
+      "target_segment_reference": "4-1"
+    },
+    {
+      "source_segment_reference": "4-4",
+      "target_segment_reference": "4-2"
+    },
+    {
+      "source_segment_reference": "4-4",
+      "target_segment_reference": "4-3"
+    },
+    {
+      "source_segment_reference": "4-5",
+      "target_segment_reference": "4-2"
+    },
+    {
+      "source_segment_reference": "4-5",
+      "target_segment_reference": "4-3"
+    }
+  ]
+}

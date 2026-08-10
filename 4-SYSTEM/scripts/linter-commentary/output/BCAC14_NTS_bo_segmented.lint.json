@@ -1,0 +1,39 @@
+{
+  "status": "ok",
+  "source": "C:\\Users\\geshe lobzang tseten\\repos\\bodhisattvacharyavatara-rails\\1-SOURCES\\Commentaries\\Transcluded\\BCAC14_NTS_bo_segmented.md",
+  "validated_at": "2026-08-09T11:36:34.338131+00:00",
+  "notes": [
+    "bdrc: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "toc: 13 headers found"
+  ],
+  "warnings": [
+    "rdflib not installed -- run: pip install rdflib"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་པ་ལེགས་པར་བཤད་པའི་རྒྱ་མཚོ།"
+    },
+    "alt_titles": null,
+    "language": "bo",
+    "commentary_of": "0lvicjSqSLdtXCZQjSYvj",
+    "translation_of": null,
+    "category_id": "JD5ULLPAV1cxg7RSb7L3q",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "translator",
+        "bdrc_id": "P1830"
+      }
+    ],
+    "tag_ids": null
+  }
+}

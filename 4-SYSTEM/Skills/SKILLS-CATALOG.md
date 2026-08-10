@@ -322,14 +322,6 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 **Purpose:** Generate complete YAML frontmatter for a translation file in `1-SOURCES/Translations/` by extracting metadata from the file's title page, colophon, and opening content.
 → [`translation-frontmatter/SKILL.md`](translation-frontmatter/SKILL.md)
 
-### `en-365-day-practice-plan-generator` **[exists]**
-**Purpose:** Generate a complete single-day Bodhisattvacharyavatara (སྤྱོད་འཇུག) practice plan session document in the traditional 7-section format, in English. Saves to `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/`.
-→ [`en-365-day-practice-plan-generator/SKILL.md`](4-SYSTEM/Skills/en-365-day-practice-plan-generator(old)/SKILL.md)
-
-### `english-plan-generator` **[exists]**
-**Purpose:** Generate a complete single-day Bodhisattvacharyavatara practice plan session document in the 6-section format defined by `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/requirements.md`. Supersedes `en-365-day-practice-plan-generator` for the Bodhisattva Challenge English stream. Saves to `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/`.
-→ [`english-plan-generator/SKILL.md`](english-plan-generator/SKILL.md)
-
 ### `plan-day-feedback-revision` **[exists]**
 **Purpose:** Audit an existing Bodhisattva Challenge plan day file against the Day-1 tester feedback criteria and revise it in place to fix every content issue (AI-slop, Tier 3 accessibility, orientation, liturgy prominence, translation flags, credibility, reading load) without breaking the 6-section format or the citation chain.
 **Inputs:** A target day file under `…/en/Days/`, the `english-plan-generator` contract, the Day-1 feedback summary, the Tier 3 persona, the liturgy asset, and the verse's source rail (preferred) or interim commentary summary.
@@ -341,12 +333,6 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 **Inputs:** A finished English day file under `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/<Chapter-folder>/<DAY_NUMBER>.md`, plus the day number.
 **Outputs:** A structurally identical Hindi day file at `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/hi/Days/<Chapter-folder>/<DAY_NUMBER>.md` with only the three prose sections translated.
 → [`hindi-plan-from-english/SKILL.md`](hindi-plan-from-english/SKILL.md)
-
-### `bilingual-day-plan-from-rails` **[exists]**
-**Purpose:** Generate a matched pair of English + Hindi day-plan files in one pass for chapters with `2-RAILS/Verses/` coverage — grounded in the rails rather than the Tibetan day file, with an explicit one-idea/one-attribution discipline, a mandatory adversarial audit pass before delivery, and mechanical verification of word counts, block IDs, and headings. Overlaps in intent with `english-plan-from-tibetan` + `hindi-plan-from-english` run back-to-back; distinguishing choices are the built-in audit step and use of the current canonical verse sources below rather than each track's legacy source. Written from an actual generation run (days 32–33, Chapter 2) rather than from the requirements docs alone — see its own "Known failure modes" section for specific errors this caught.
-**Inputs:** The Tibetan day file for the day(s) in scope; `2-RAILS/Verses/<C>-<V>-summary.md` for every verse covered; `en/requirements.md` + `en/termbase.md`; `hi/requirements.md` + `hi/termbase.md`; `bo/schedule-corrected.md`; 2–3 recent approved day files per language as a practice baseline; verse text from `AI_translation/english/bca-english-plain.md` (English) and `AI_translation/hindi/bca-hindi-plain.md` (Hindi).
-**Outputs:** One day file per language at `…/en/Days/<Chapter-folder>/<N>-...-eng.md` and `…/hi/Days/<Chapter-folder>/<N>-...-hi.md`, each with a `generation_note` written as a full audit trail (attribution provenance, what was deliberately left out and why, every `⚑` divergence for the range, whether any practice-category label is inferred vs. sourced). Never `status: complete`.
-→ [`bilingual-day-plan-from-rails/SKILL.md`](bilingual-day-plan-from-rails/SKILL.md)
 
 ### `toc-candidate-extraction` **[exists]**
 **Purpose:** Scan a Tibetan commentary passage and extract every ས་བཅད candidate — Type A (topic announcements), Type B (node headers), and Type C (closing counts). Prioritises recall: extracts all possible candidates rather than filtering. Outputs a structured candidate list saved to `0-INBOX/toc-candidates-<commentary-id>.md` for review before downstream outline-building.
@@ -450,12 +436,6 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 **Outputs:** A scorecard with PASS/FAIL/N-A and severity per criterion; a day with any critical issue cannot be marked complete.
 → [`english-plan-evaluator/SKILL.md`](english-plan-evaluator/SKILL.md)
 
-### `english-plan-from-tibetan` **[exists]**
-**Purpose:** Generate a single-day English Bodhisattva Challenge session for chapters that lack `en-ai/Verses/` summaries (Chapter 2 onward), grounded in the `2-RAILS/Verses/<C>-<N>-summary.md` verse rails and cross-checked against the Tibetan day plan in `Plans/Dalai Lama/`. Same voice rules as `english-plan-generator`. **Corrected 2026-07-30:** the skill previously asserted that no `2-RAILS/Verses/` packages exist for Chapter 2 — they do, all 65, with eight commentators each; the old wording sent writers to the Tibetan digest alone and produced ungrounded expansion and mis-attribution.
-**Inputs:** The verse rails (primary); day number, chapter, verse range from `Tibetan-schedule-corrected.md`; English verse text from `bca-en-plain.md` (compact format) or Choephel (legacy); the Tibetan commentaries in `1-SOURCES/Commentaries/Transcluded/`; the Tibetan day plan for the angle and practice; `en/requirements.md` and `en/termbase.md`; the previous two day files.
-**Outputs:** An English day file under the `en` stream in the compact four-section format, with `context_packages:` listing the rails used and `generation_note` recording commentators, block IDs, corrections, and anything uncorroborated. Never `status: complete`.
-→ [`english-plan-from-tibetan/SKILL.md`](english-plan-from-tibetan/SKILL.md)
-
 ### `spyodjug-zh-summary` **[exists]** (packaged `.skill`)
 **Purpose:** For each day of the BCA 365-day recitation plan, generate a plain-Chinese (白話) verse summary based on Ven. Longlian's (隆蓮法師) translation, and save it to the Obsidian `zh-daily-summary` folder. Packaged as a zipped `.skill` archive.
 **Inputs:** The day's Tibetan verses (from the spyod-jug-365 plan); Longlian's Chinese translation; day number.
@@ -473,6 +453,43 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 **Inputs:** One target file under `3-TRANSFORMATIONS/Plans/Himalayan/<chapter-folder>/`; human confirmation on what to do with any non-empty ངོ་སྤྲོད paragraph. (No separate input needed for verse identification — the matching chapter file is selected automatically from the target's own `Ch<C>` filename segment.)
 **Outputs:** The same file, overwritten in place with the four-section structure; trailing Hindi/English content preserved byte-for-byte.
 → [`Himalayan-Plan-Transformer/SKILL.md`](Himalayan-Plan-Transformer/SKILL.md)
+
+### `dalai-lama-plan-translation` **[exists]**
+**Purpose:** **The** generator for Bodhisattva Challenge English and Hindi day files. Produces the complete day document by translating the Dalai Lama track Tibetan day plan — `༢། ངོ་སྤྲོད།` → Introduction, `༤། འགྲེལ་བཤད།` → Commentary Explanation, `༦། དེ་རིང་གི་ཉམས་ལེན།` → Today's Practice — with the Today's Verse block retrieved verbatim by block ID rather than translated. English and Hindi are each rendered directly from the Tibetan, never one from the other. No rails consultation, no added content, no omissions: the Tibetan day file is the source of truth, which is what keeps the three language streams aligned on the same day. Replaces the earlier rails-based English/Hindi plan generators.
+**Inputs:** One or more day files under `3-TRANSFORMATIONS/Plans/Dalai Lama/Chapter-*/`; `Tibetan-schedule-corrected.md`; `the-bodhisattva-challenge/en/termbase-translation.md` and `hi/termbase-translation.md`; the verse sources `AI_translation/english/bca-english-plain.md` and `AI_translation/hindi/bca-hindi-plain.md`.
+**Outputs:** `Plans/the-bodhisattva-challenge/en/Days/Chapter-*/<N>-ch<C>-v<s>-<e>-eng.md` and `hi/Days/Chapter-*/<N>-ch<C>-v<s>-<e>-hi.md`, in the plan's established four-block shape (Today's Verse + three numbered sections), with a translation note and `pending_terms:` for vocabulary awaiting approval. Always `status: draft`. Will not overwrite an existing day file without explicit human confirmation; archives rather than destroys.
+→ [`dalai-lama-plan-translation/SKILL.md`](dalai-lama-plan-translation/SKILL.md)
+
+---
+
+## Retired 2026-08-10 — English / Hindi day generation
+
+Four skills that generated Bodhisattva Challenge English or Hindi day files were
+retired and replaced by `dalai-lama-plan-translation`, which produces both
+languages by translating the Dalai Lama track Tibetan day plan.
+
+| Retired skill | Where it went |
+|---|---|
+| `en-365-day-practice-plan-generator` | `_to_delete/retired-skills-2026-08-10/` (recoverable; also in git history) |
+| `bilingual-day-plan-from-rails` | `_to_delete/retired-skills-2026-08-10/` (recoverable; also in git history) |
+| `english-plan-generator` | account-level skill, never had a folder here — removed outside the vault |
+| `english-plan-from-tibetan` | account-level skill, never had a folder here — removed outside the vault |
+
+**Dangling references a human should resolve:**
+
+- `4-SYSTEM/Skills/english-plan-evaluator/SKILL.md` grades against
+  "the english-plan-generator rules", which no longer exist. Either repoint it at
+  `dalai-lama-plan-translation` or retire it too.
+- `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/requirements.md` and
+  `hi/requirements.md` still describe the rails-based generation contract.
+- `4-SYSTEM/⚡ Pipelines/workflow-english-daily-plan.md` names
+  `english-plan-generator` as a pipeline step.
+- `0-INBOX/practice-verse-alignment/SKILL.md` and
+  `0-INBOX/english-plan-generator-SKILL-proposed-2026-06-10.md` reference the
+  retired skills. Inbox is scratch, so this may not matter.
+- About 45 existing day files under `en/Days/` and `hi/Days/` carry
+  `generated_by: english-plan-generator` in frontmatter. **Leave these alone** —
+  they are an accurate record of how those files were actually made.
 
 ---
 

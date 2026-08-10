@@ -90,18 +90,14 @@ image-verse block.
 
 ### Practice-category label
 
-The explanation opens with an italic parenthetical. Controlled vocabulary —
-render from this table, never freshly per file:
+The explanation opens with an italic parenthetical. This is controlled
+vocabulary, and **the termbase holds it, not this file** — see the
+"Practice-category labels" table in `en/termbase-translation.md` and
+`hi/termbase-translation.md`. Duplicating it here would create two places to
+edit and two places to drift.
 
-| Tibetan | English | Hindi |
-|---|---|---|
-| `དགེ་བ་བྱ་བ།` | _(Doing good)_ | _(अच्छे कर्म करना)_ |
-| `སྡིག་པ་མི་བྱ་བ།` | _(Avoiding wrongdoing)_ | _(बुरे कर्म न करना)_ |
-| `རང་སེམས་འདུལ་བ།` | _(Taming the mind)_ | _(अपने मन को साधना)_ |
-| `སྦྱིན་པའི་ཉམས་ལེན།` | _(Generosity Practice)_ | _(दान का अभ्यास)_ |
-| `བཟོད་པའི་ཉམས་ལེན།` | _(Patience Practice)_ | _(धैर्य का अभ्यास)_ |
-
-A category not in this table is a stop: propose a rendering, log it, and ask.
+A category not in the termbase table is a stop: propose a rendering, log it
+under the termbase's "Pending terms", and ask before writing the day.
 
 ## Step 3 — Today's Verse, and verse lines quoted inside ༦
 
@@ -126,8 +122,12 @@ that lineation and keep the trailing `^<C>-<N>`.
 quotes only the last two lines of 2-24). Take the matching span, strip the
 trailing `^<C>-<N>` marker, and do not re-lineate what you take.
 
-**Diacritics are exempt inside verse quotes.** `bca-english-plain.md` writes
-"Mañjuśrī"; leave it. The no-diacritics rule governs your own prose only.
+**Diacritics.** None in body prose (Shantideva, Manjushri, bodhicitta). Two
+exemptions only: verse quotations reproduced verbatim keep whatever the source
+has, including "Mañjuśrī"; and the italicised title of a cited work keeps its
+diacritics, so the introduction's opening formula reads _Bodhicaryāvatāra_. The
+distinction is between a term used in prose and a title being cited. Full rule in
+the termbase.
 
 > ⚑ **Register change from days 15–40.** Those days took the verse from a
 > prose-run rendering ("I bow down before every buddha of the past, present, and
@@ -185,6 +185,12 @@ rather than necessity:
 | `ཡོན་ཏན་རྒྱ་མཚོ་` | an ocean of good qualities | oceanic assembly of virtues |
 | `སྒོ་གསུམ་` | body, speech and mind | the three doors |
 
+The same principle governs ordinary high-frequency vocabulary. `སྡིག་པ་` is
+"wrongdoing", not "misdeeds"; `དགེ་བ་` is "doing good", not "virtue";
+`བག་མེད་` is "carelessness", not "heedlessness"; `ལེ་ལོ་` is "laziness", not
+"sloth". The scholarly alternative is never the right answer in this stream —
+the full tables are in the termbase.
+
 ### Per-section notes
 
 **1) Introduction.** Fixed three-move shape: locate the verses, preview the
@@ -220,8 +226,16 @@ reach a word count is exactly the addition this skill exists to prevent.
 
 For any Tibetan term not in the termbase fork: check the termbase, then check
 already-translated days for existing usage, then pick a rendering **and log it**
-under `pending_terms:` for human approval. This grows the termbase instead of
-accumulating silent drift.
+in two places — the day file's `pending_terms:` frontmatter, and the termbase's
+own "Pending terms" table with the day it first appeared in.
+
+**Closing the loop.** A pending term is not a permanent state. When a human
+approves one, it moves into the relevant termbase table, drops off the pending
+list, and is cleared from the `pending_terms:` of any day file that carries it,
+next time that file is touched. Before generating a new day, check whether any
+term it needs is already sitting pending from an earlier day — reuse the pending
+rendering rather than inventing a second one. An entry older than one chapter of
+generation means the review step is not happening; say so when reporting.
 
 ## Step 5 — Output files
 

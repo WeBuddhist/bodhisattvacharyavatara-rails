@@ -288,6 +288,14 @@ constraints, stated explicitly:
 - **གཉིས་པ་དེའི་འགྲེལ་བཤད** — explain the practice's benefit and how it connects to the chosen verse. Must open with exactly one bracketed category tag chosen from this list (pick whichever genuinely fits — do not default to the same one every time): `[སྡིག་པ་མི་བྱ་བ།, དགེ་བ་བྱ་བ།, རང་སེམས་འདུལ་བ།, སྦྱིན་པའི་ཉམས་ལེན།, ཚུལ་ཁྲིམས་ཀྱི་ཉམས་ལེན།, བཟོད་པའི་ཉམས་ལེན།, བརྩོན་འགྲུས་ཀྱི་ཉམས་ལེན།, བསམ་གཏན་གྱི་ཉམས་ལེན།, ཤེས་རབ་ཀྱི་ཉམས་ལེན།]`
 - **གསུམ་པ་ཚིགས་བཅད་དངོས** — is not generated prose at all; it is the exact root verse the practice is drawn from, unaltered, unparaphrased, no commentary added, with its `^chapter-verse` anchor intact. Insert this from Step 3's already-verified verse text — do not let the generator retype the verse (risk of drift from the source).
 
+> ⚠️ **Mechanical fix the generator reliably needs.** The category tag must be
+> wrapped exactly as `_(tag)_` — underscore-parenthesis, i.e. an italicized
+> parenthetical — matching the worked example below. Models frequently
+> substitute plain square brackets (`[དགེ་བ་བྱ་བ།]`) instead. Check the raw
+> tool output for this every time and correct it before inserting — this is
+> mechanical cleanup, not content authorship, so fixing it does not violate
+> the "don't hand-author" rule.
+
 Format:
 
 ```markdown
@@ -357,7 +365,7 @@ Run this for every day produced, before considering it done:
 - [ ] Section 4, if absent: the absence is because the commentary genuinely had nothing extra — noted in the report, not silently skipped.
 - [ ] Section 6 is built around exactly one verse from the day's range; if the day has multiple verses, confirm the most actionable one was chosen.
 - [ ] Section 6 subsection 1 (དང་པོ་ཉམས་ལེན་དངོས) measures <=30 syllables via the script — verified, not eyeballed.
-- [ ] Section 6 subsection 2 (གཉིས་པ་དེའི་འགྲེལ་བཤད) opens with exactly one bracketed category tag from the fixed list, and the tag genuinely fits (not defaulted).
+- [ ] Section 6 subsection 2 (གཉིས་པ་དེའི་འགྲེལ་བཤད) opens with exactly one category tag from the fixed list, wrapped as `_(tag)_` (not `[tag]` or bare) — the tag genuinely fits and was not defaulted.
 - [ ] Section 6 subsection 3 (གསུམ་པ་ཚིགས་བཅད་དངོས) is the exact verse text from Section 3/Step 3, not a re-typed or paraphrased version, with its anchor intact.
 - [ ] Every word of prose content is Tibetan — no English or other language anywhere except `^chapter-verse` anchors and filenames/paths, which are exempt.
 - [ ] No content in Sections 2, 4, or 6 was hand-authored by the agent bypassing `gemini_generate` — mechanical cleanup of the tool's output (stripping stray markdown/preamble) is fine; composing the prose is not.

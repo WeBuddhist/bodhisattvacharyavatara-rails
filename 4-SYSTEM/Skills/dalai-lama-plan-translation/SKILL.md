@@ -133,7 +133,7 @@ trailing `^<C>-<N>` marker, and do not re-lineate what you take.
 > prose-run rendering ("I bow down before every buddha of the past, present, and
 > future…"). `bca-english-plain.md` is lineated four-line verse, so new days will
 > look different from the existing ones. This is the instructed source — follow
-> it, and note the divergence in the translation note.
+> it, and mention the divergence when reporting at Step 8.
 >
 > ⚑ **Hindi gains a verse block.** Existing Hindi days have no `## आज का श्लोक`
 > section (days 24 and 25 were already flagged for this in `hi/requirements.md`).
@@ -213,7 +213,7 @@ practice explanation 120–160, actual practice one sentence.
 
 **Do not pad or trim to hit them.** Translation length is set by the source. If a
 section lands outside its band, that means the Tibetan section is unusually long
-or short — say so in the translation note and leave the text faithful. Padding to
+or short — say so when reporting at Step 8 and leave the text faithful. Padding to
 reach a word count is exactly the addition this skill exists to prevent.
 
 ### Unknown terms — never improvise silently
@@ -270,8 +270,6 @@ status: draft
 **Actual Practice:** …
 
 **Explanation:** _(Doing good)_ …
-
-## Translation note
 ```
 
 ### Hindi template
@@ -291,15 +289,14 @@ Headings use Devanagari numerals:
 **मुख्य अभ्यास:** …
 
 **व्याख्या:** _(अच्छे कर्म करना)_ …
-
-## अनुवाद टिप्पणी
 ```
 
-The translation note records, in the target language: any section that fell
-outside its word band and why, any term added to `pending_terms`, any place the
-Tibetan was ambiguous and a reading had to be chosen, and any structural
-irregularity in the source file. **Write the Hindi note in Hindi** — do not
-machine-translate the English one.
+**No translation note goes in the file.** The day file is a reader-facing
+document and ends after section 3. Everything a reviewer needs — sections that
+fell outside their word band and why, terms added to `pending_terms`, places the
+Tibetan was ambiguous and a reading had to be chosen, structural irregularities
+in the source, and anything the audit corrected — is reported in the reply at
+Step 8, not written into the day file.
 
 Never set `status: complete`. That is a domain specialist's call.
 
@@ -343,16 +340,25 @@ Script these; do not eyeball:
   `**मुख्य अभ्यास:**` / `**व्याख्या:**`.
 - Practice-category label matches the Step 2 table.
 - No em-dashes, diacritics or emojis in body prose.
-- Word counts reported per section, with any out-of-band section named in the
-  translation note.
+- Word counts measured per section (count them with a script, do not estimate)
+  and reported at Step 8, with any out-of-band section named.
 - Excluded blocks (`མཆན།`, `ཁ་སྐོང་།`, `གནད་ཚིག`, `གཏམ་རྒྱུད།`,
   `པར་གྱི་ཚིགས་བཅད།`) absent from the output.
 
 ## Step 8 — Deliver
 
-Write both files, honouring the overwrite guard. Report which day(s) were
-produced, whether any existing file was archived, any section outside its word
-band, and any `pending_terms` awaiting approval.
+Write both files, honouring the overwrite guard. The files themselves contain
+only the four content blocks — no note, no commentary on the translation.
+
+Report the following **in the reply, not in the file**:
+
+- Which day(s) were produced, and whether any existing file was archived.
+- Measured word counts per section, naming any that fell outside its band and
+  why the source made that unavoidable.
+- Any `pending_terms` awaiting approval.
+- Anything the Step 6 audit found and how it was resolved.
+- Any place the Tibetan was ambiguous and a reading had to be chosen, and any
+  structural irregularity in the source file.
 
 ---
 

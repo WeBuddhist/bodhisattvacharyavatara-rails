@@ -474,6 +474,12 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 **Outputs:** The same file, overwritten in place with the four-section structure; trailing Hindi/English content preserved byte-for-byte.
 → [`Himalayan-Plan-Transformer/SKILL.md`](Himalayan-Plan-Transformer/SKILL.md)
 
+### `dalai-lama-plan-translation` **[exists]**
+**Purpose:** Translate only the three prose sections of a Dalai Lama track Tibetan day plan — `༢། ངོ་སྤྲོད།` (introduction), `༤། འགྲེལ་བཤད།` (commentary), `༦། དེ་རིང་གི་ཉམས་ལེན།` (today's practice) — into simple English and simple Hindi, each rendered directly from the Tibetan. Translation only: no rails consultation, no added content, no omissions. Liturgy and root-verse sections are out of scope; verse lines quoted inside section ༦ are resolved by block-ID lookup against the existing verse translations rather than translated fresh.
+**Inputs:** One or more day files under `3-TRANSFORMATIONS/Plans/Dalai Lama/Chapter-*/`; `Tibetan-schedule-corrected.md`; `Plans/Dalai Lama/en/termbase.md` and `hi/termbase.md`; the en/hi verse translation sources for embedded quotes.
+**Outputs:** Parallel day files at `Plans/Dalai Lama/en/Chapter-*/Day-*-en.md` and `Plans/Dalai Lama/hi/Chapter-*/Day-*-hi.md`, each carrying the three translated sections, a translation note, and `pending_terms:` for any vocabulary awaiting human approval. Always `status: draft`.
+→ [`dalai-lama-plan-translation/SKILL.md`](dalai-lama-plan-translation/SKILL.md)
+
 ---
 
 ## Catalog maintenance note

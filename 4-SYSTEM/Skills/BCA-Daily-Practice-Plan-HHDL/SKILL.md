@@ -236,12 +236,12 @@ range — the one an ordinary person with no special training could actually act
 
 **Call `gemini_generate`** with a prompt that includes: all of today's verses (so the generator can choose among them) and the collected commentary material for each (from Phase 1); the practice-category tag list; and these constraints, stated explicitly:
 
-- Output must be Tibetan only, no markdown beyond the three required `####` subheadings, no preamble.
+- Output must be Tibetan only, no markdown beyond the three required `##` subheadings, no preamble.
 - Plain, easy 8th-grade Tibetan in subsections 1 and 2 — short sentences, everyday vocabulary, no archaic or scholastic phrasing. This is the most concrete, action-facing section, so plainness matters most here.
 - Choose exactly one verse from the day's range to build the practice around; name which one internally is fine, but the visible output is just the three subsections below.
-- **དང་པོ་ཉམས་ལེན་དངོས** — one concrete action that fits ordinary modern life *today* — not a retreat activity, not a vague aspiration ("contemplate compassion"), a specific doable thing ("when I feel afraid today, I will..."). **Absolute hard limit: 30 Tibetan syllables** — do not exceed this even slightly.
-- **གཉིས་པ་དེའི་འགྲེལ་བཤད** — explain the practice's benefit and how it connects to the chosen verse. Must open with exactly one bracketed category tag chosen from this list (pick whichever genuinely fits — do not default to the same one every time): `[སྡིག་པ་མི་བྱ་བ།, དགེ་བ་བྱ་བ།, རང་སེམས་འདུལ་བ།, སྦྱིན་པའི་ཉམས་ལེན།, ཚུལ་ཁྲིམས་ཀྱི་ཉམས་ལེན།, བཟོད་པའི་ཉམས་ལེན།, བརྩོན་འགྲུས་ཀྱི་ཉམས་ལེན།, བསམ་གཏན་གྱི་ཉམས་ལེན།, ཤེས་རབ་ཀྱི་ཉམས་ལེན།]`
-- **གསུམ་པ་ཚིགས་བཅད་དངོས** — is not generated prose at all; it is the exact root verse the practice is drawn from, unaltered, unparaphrased, no commentary added, with its `^chapter-verse` anchor intact. Insert this from Step 3's already-verified verse text — do not let the generator retype the verse (risk of drift from the source).
+- **ཉམས་ལེན་དངོས** — a first-person **commitment** to take one concrete action *today*, directly based on or related to the chosen verse — not a generic mindfulness statement that could apply to any day, and not a retreat activity or vague aspiration ("contemplate compassion"). Phrase it as a commitment (e.g. `ངས་དེ་རིང་... བྱ་རྒྱུ་ཡིན།` — "today I will..."), and the action itself must trace back to what the chosen verse actually says — if the connection to the verse isn't clear, the action is wrong, not just under-explained. **Absolute hard limit: 30 Tibetan syllables** — do not exceed this even slightly.
+- **དེའི་འགྲེལ་བཤད** — explain the practice's benefit and how it connects to the chosen verse. Must open with exactly one bracketed category tag chosen from this list (pick whichever genuinely fits — do not default to the same one every time): `[སྡིག་པ་མི་བྱ་བ།, དགེ་བ་བྱ་བ།, རང་སེམས་འདུལ་བ།, སྦྱིན་པའི་ཉམས་ལེན།, ཚུལ་ཁྲིམས་ཀྱི་ཉམས་ལེན།, བཟོད་པའི་ཉམས་ལེན།, བརྩོན་འགྲུས་ཀྱི་ཉམས་ལེན།, བསམ་གཏན་གྱི་ཉམས་ལེན།, ཤེས་རབ་ཀྱི་ཉམས་ལེན།]`
+- **ཚིགས་བཅད་དངོས** — is not generated prose at all; it is the exact root verse the practice is drawn from, unaltered, unparaphrased, no commentary added, with its `^chapter-verse` anchor intact. Insert this from Step 3's already-verified verse text — do not let the generator retype the verse (risk of drift from the source).
 
 > ⚠️ **Mechanical fix the generator reliably needs.** 
 > The category tag must be wrapped exactly as `_(tag)_` — underscore-parenthesis, i.e. an italicized parenthetical — matching the worked example below. 
@@ -253,33 +253,35 @@ Format:
 ```markdown
 # 📿 དེ་རིང་གི་ཉམས་ལེན།
 
-#### དང་པོ་ཉམས་ལེན་དངོས།:
-[<=30-syllable concrete action]
+## ཉམས་ལེན་དངོས།:
+[<=30-syllable first-person commitment, action drawn directly from the chosen verse]
 
-#### གཉིས་པ་དེའི་འགྲེལ་བཤད།:
+## དེའི་འགྲེལ་བཤད།:
 _([category tag])_ [explanation of benefit, tied to the chosen verse]
 
-#### གསུམ་པ་ཚིགས་བཅད་དངོས།:
+## ཚིགས་བཅད་དངོས།:
 [verse text, verbatim from Step 3] ^C-V
 ```
 
 Worked example (chapter 2, verse 50):
 
 ```markdown
-#### དང་པོ་ཉམས་ལེན་དངོས།:
+## ཉམས་ལེན་དངོས།:
 ངས་དེ་རིང་སྡུག་བསྔལ་དང་འཇིགས་སྣང་འབྱུང་སྐབས་འཕགས་པ་སྤྱན་རས་གཟིགས་ལ་སྙིང་ཐག་པ་ནས་གསོལ་བ་འདེབས་རྒྱུ་ཡིན།
 
-#### གཉིས་པ་དེའི་འགྲེལ་བཤད།:
+## དེའི་འགྲེལ་བཤད།:
 _(དགེ་བ་བྱ་བ།)_ འཁོར་བའི་སྡུག་བསྔལ་དང་འཇིགས་སྣང་སྣ་ཚོགས་ཀྱིས་མནར་བའི་སྐབས་སུ། རང་དོན་གྱི་འཁྲིས་མེད་པར་གཞན་དོན་ཁོ་ན་མཛད་པའི་སྤྱན་རས་གཟིགས་མགོན་ལ་སྙིང་ཁུང་རུས་པའི་གཏིང་ནས་སྐྱབས་སུ་བཙལ་ན་སེམས་ཀྱི་འཇིགས་པ་ཞི་ཞིང་སྡིག་པ་དག་པར་འགྱུར་བས་སོ། །
 
-#### གསུམ་པ་ཚིགས་བཅད་དངོས།:
+## ཚིགས་བཅད་དངོས།:
 ཐུགས་རྗེས་སྤྱོད་པ་མ་འཁྲུལ་བ། །
 སྤྱན་རས་གཟིགས་མགོན་དེ་ལ་ཡང་། །
 ཉམ་ཐག་ང་རོས་འོ་དོད་འབོད། །
 སྡིག་ལྡན་བདག་ལ་བསྐྱབ་ཏུ་གསོལ། ། ^2-50
 ```
 
-After generation, run `scripts/count_syllables.py` on just the first
+Note the example's action ("today I will pray sincerely to Avalokiteśvara when fear and suffering arise") is a direct enactment of the chosen verse's own content — the request "སྐྱབས་ཏུ་གསོལ" ("I pray you protect me") — not a loosely related generic practice. Every generated ཉམས་ལེན་དངོས must have this same tightness of fit.
+
+After generation, run `scripts/count_syllables.py` on just the ཉམས་ལེན་དངོས
 subsection's content — regenerate (not trim by hand) if it exceeds 30
 syllables, since hand-trimming risks producing an incomplete instruction.
 
@@ -310,9 +312,10 @@ Run this for every day produced, before considering it done:
 - [ ] Section 4, if present: opens with exactly the required fixed phrase (correct bracketed option chosen), is grounded only in this verse range's `2-RAILS/Verses/*-summary.md` content, is a single best point rather than several stitched together, and measures <=300 syllables via `scripts/count_syllables.py`.
 - [ ] Section 4, if absent: the absence is because the commentary genuinely had nothing extra — noted in the report, not silently skipped.
 - [ ] Section 6 is built around exactly one verse from the day's range; if the day has multiple verses, confirm the most actionable one was chosen.
-- [ ] Section 6 subsection 1 (དང་པོ་ཉམས་ལེན་དངོས) measures <=30 syllables via the script — verified, not eyeballed.
-- [ ] Section 6 subsection 2 (གཉིས་པ་དེའི་འགྲེལ་བཤད) opens with exactly one category tag from the fixed list, wrapped as `_(tag)_` (not `[tag]` or bare) — the tag genuinely fits and was not defaulted.
-- [ ] Section 6 subsection 3 (གསུམ་པ་ཚིགས་བཅད་དངོས) is the exact verse text from Section 3/Step 3, not a re-typed or paraphrased version, with its anchor intact.
+- [ ] Section 6's three subheadings are `## ཉམས་ལེན་དངོས།`, `## དེའི་འགྲེལ་བཤད།`, `## ཚིགས་བཅད་དངོས།` — two hashtags, exact wording, no ordinal prefixes (དང་པོ/གཉིས་པ/གསུམ་པ).
+- [ ] Section 6 subsection ཉམས་ལེན་དངོས is phrased as a first-person commitment ("today I will...") and the action traces directly back to the chosen verse's own content, not a generic practice loosely inspired by it; measures <=30 syllables via the script — verified, not eyeballed.
+- [ ] Section 6 subsection དེའི་འགྲེལ་བཤད opens with exactly one category tag from the fixed list, wrapped as `_(tag)_` (not `[tag]` or bare) — the tag genuinely fits and was not defaulted.
+- [ ] Section 6 subsection ཚིགས་བཅད་དངོས is the exact verse text from Section 3/Step 3, not a re-typed or paraphrased version, with its anchor intact.
 - [ ] Every word of prose content is Tibetan — no English or other language anywhere except `^chapter-verse` anchors and filenames/paths, which are exempt.
 - [ ] Sections 2, 4, and 6 read at a plain, easy 8th-grade Tibetan level — short sentences, everyday vocabulary, no archaic/scholastic phrasing carried over from the classical commentary (verbatim scriptural quotations in Section 4 are exempt from simplification; their surrounding gloss is not).
 - [ ] No content in Sections 2, 4, or 6 was hand-authored by the agent bypassing `gemini_generate` — mechanical cleanup of the tool's output (stripping stray markdown/preamble) is fine; composing the prose is not.
@@ -323,7 +326,8 @@ Run this for every day produced, before considering it done:
 
 - Writing Section 2/4/6 prose directly instead of calling `gemini_generate` — defeats the point of this skill's generation discipline.
 - Guessing an ordinal instead of composing it from the decade-prefix table — 35th and 45th look similar but use different prefixes (སོ་ vs ཞེ་).
-- Padding Section 4 to reach the 300-syllable ceiling, or padding Section 6's first subsection toward 30 — both ceilings are meant to force concision, not to be hit exactly.
+- Padding Section 4 to reach the 300-syllable ceiling, or padding Section 6's ཉམས་ལེན་དངོས subsection toward 30 — both ceilings are meant to force concision, not to be hit exactly.
+- Writing Section 6's ཉམས་ལེན་དངོས as a generic, verse-agnostic practice ("be kind today", "notice your breath") instead of a commitment that traces directly back to what the chosen verse itself says.
 - Filling Section 4 with invented or general-knowledge material when the commentary summary is thin — leave it empty instead.
 - Letting the generator retype the root verse in Section 6's third subsection instead of pasting the already-verified text from Section 3 — introduces silent drift from the source.
 - Choosing the same practice-category tag or the same Section-4 opening variant every day — both lists exist precisely so the choice varies with what the commentary actually supports.

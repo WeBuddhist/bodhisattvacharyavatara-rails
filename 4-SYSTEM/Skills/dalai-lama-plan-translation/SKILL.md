@@ -1,178 +1,178 @@
 ---
 name: dalai-lama-plan-translation
-description: Translate the three prose sections of a Dalai Lama track Tibetan day plan (༢། ངོ་སྤྲོད། introduction, ༤། འགྲེལ་བཤད། commentary, ༦། དེ་རིང་གི་ཉམས་ལེན། today's practice) into simple English and simple Hindi. Translation only — no added content, no rails synthesis. Use when asked to translate, render, or produce English/Hindi versions of a day file under 3-TRANSFORMATIONS/Plans/Dalai Lama/.
+description: Generate the English and Hindi day files for the Bodhisattva Challenge by translating the Tibetan day plan. Produces the complete day document — Today's Verse (retrieved by block ID), Introduction, Commentary Explanation, and Today's Practice — from the Dalai Lama track Tibetan file's ༢། ངོ་སྤྲོད།, ༤། འགྲེལ་བཤད། and ༦། དེ་རིང་གི་ཉམས་ལེན། sections. Use whenever asked to create, generate, write, fill in or translate an English or Hindi day plan for the Bodhisattva Challenge / Bodhicaryavatara / spyod 'jug 365-day course. This is the only skill for English and Hindi day generation.
 ---
 
-# Dalai Lama Plan — Prose Translation (en + hi)
+# Bodhisattva Challenge — English and Hindi day generator
 
-Translates **three sections and nothing else** from a Tibetan day file in
-`3-TRANSFORMATIONS/Plans/Dalai Lama/Chapter-<C> D<start>-D<end>/Day-<N>-Ch<C>-V<start>-<end>.md`:
+This is **the** generator for English and Hindi day files. It produces a complete
+day document by translating the Tibetan day plan, not by synthesising from
+commentary rails.
 
-| Section | Tibetan heading | What it is |
-|---|---|---|
-| ༢ | `ངོ་སྤྲོད།` | Introduction — locates the verses, previews the theme, invites the reader in |
-| ༤ | `འགྲེལ་བཤད།` | Commentary — expository explanation of what the verses teach |
-| ༦ | `དེ་རིང་གི་ཉམས་ལེན།` | Today's practice — first-person commitment plus its explanation |
+The editorial premise: the Tibetan day file is the source of truth, and the
+English and Hindi days are renderings of it. That is what keeps the three
+language streams saying the same thing on the same day.
 
-**Sections ༡, ༣, ༥ are out of scope.** They hold the four immeasurables, refuge,
-bodhicitta generation, the root verses, the dedication and the aspiration. Those
-are liturgy and canonical verse; they are retrieved from fixed sources elsewhere
-in the course, never re-translated per day. Do not translate them here, and do
-not carry them into the output file.
+## What the day file is made of
 
-## This is a translation skill, not an authoring skill
+| Output block | Where it comes from |
+|---|---|
+| Today's Verse | **Retrieved** verbatim by block ID from the verse translation (Step 3) |
+| 1) Introduction | **Translated** from `༢། ངོ་སྤྲོད།` |
+| 2) Commentary Explanation | **Translated** from `༤། འགྲེལ་བཤད།` |
+| 3) Today's Practice | **Translated** from `༦། དེ་རིང་གི་ཉམས་ལེན།` |
+
+Nothing else goes on the page. The Tibetan file's other sections — ༡ (four
+immeasurables, refuge, bodhicitta generation), ༣ (root verses in Tibetan) and ༥
+(dedication and aspiration) — are liturgy that the course carries elsewhere. Do
+not translate or carry them.
+
+## Translation discipline — the core rule
 
 Do not consult `2-RAILS/`. Do not add explanation, context, or a "point" the
-Tibetan does not make. Do not drop anything the Tibetan does make. The companion
-skills `bilingual-day-plan-from-rails` and `english-plan-generator` are for
-*authoring* grounded content; this one is not. If a sentence in your output has
-no parent clause in the Tibetan, delete it — even if it reads well, even if it
-is true, even if a reader would benefit.
+Tibetan does not make. Do not drop anything it does make.
+
+If a sentence in your output has no parent clause in the Tibetan, delete it —
+even if it reads well, even if it is true, even if a reader would benefit. This
+is the difference between this skill and the retired rails-based generators, and
+it is the whole reason the three language streams stay aligned.
 
 ---
 
 ## Step 0 — Scope and preconditions
 
-Confirm before reading anything:
-
-- Which day number(s). Verify the file exists and is populated — as of writing,
-  only Chapter 1 (all 14), Chapter 2 (26), Chapter 3 (4) and Chapter 4 (2) have
-  content. An empty or stub day file is a stop, not a guess.
-- Verify the verse range in the filename against
-  `3-TRANSFORMATIONS/Plans/Dalai Lama/Tibetan-schedule-corrected.md`.
-- Both languages by default. English and Hindi are each translated **directly
-  from the Tibetan**, not one from the other (§4).
+- Which day number(s). Verify the Tibetan file exists and is populated at
+  `3-TRANSFORMATIONS/Plans/Dalai Lama/Chapter-<C> D<s>-D<e>/Day-<N>-Ch<C>-V<vs>-<ve>.md`.
+  Coverage as of writing: Chapter 1 (all 14), Chapter 2 (26), Chapter 3 (4),
+  Chapter 4 (2). An empty or stub file is a stop, not a guess.
+- Verify the verse range against `Plans/Dalai Lama/Tibetan-schedule-corrected.md`.
+- Both languages by default, **each translated directly from the Tibetan** — not
+  Hindi from English. Hindi carries this material natively (धर्म, कर्म, पुण्य,
+  संसार, बोधिचित्त are living words); pivoting through English imports English's
+  compromises. Reconcile the two for parity at Step 6.
 
 ## Step 1 — Locate the sections by heading, never by number
 
-Section numbering is not stable across this corpus. In the Dalai Lama track,
-section ༦ is `དེ་རིང་གི་ཉམས་ལེན།` in 26 files but `ཉམས་སུ་ལེན་ཚུལ།` in 14. In the
-neighbouring `Plans/Himalayan/` track, section ༦ is the *dedication*. A skill
-that grabs "section six" will eventually translate a dedication verse as a
-practice instruction.
+Section numbering is not stable. In the Dalai Lama track, section ༦ is
+`དེ་རིང་གི་ཉམས་ལེན།` in 26 files but `ཉམས་སུ་ལེན་ཚུལ།` in 14. In the neighbouring
+`Plans/Himalayan/` track, section ༦ is the *dedication*. A skill that grabs
+"section six" will eventually render a dedication verse as a practice
+instruction.
 
-Match on this variant table, then confirm the content shape before translating:
+Match on this variant table, then confirm the content shape:
 
 | Slot | Accepted headings |
 |---|---|
 | Introduction | `ངོ་སྤྲོད།` |
-| Commentary | `འགྲེལ་བཤད།` (as a `###` section heading, **not** the `####` per-verse `འགྲེལ་བཤད།` sub-headings under ༣, and **not** the `**འགྲེལ་བཤད།**` bold sub-label inside ༦) |
+| Commentary | `འགྲེལ་བཤད།` as a `###` section heading — **not** the `####` per-verse `འགྲེལ་བཤད།` sub-headings under ༣, and **not** the `**འགྲེལ་བཤད།**` bold sub-label inside ༦ |
 | Practice | `དེ་རིང་གི་ཉམས་ལེན།`, `ཉམས་སུ་ལེན་ཚུལ།`, `ཉིན་རེའི་འཚོ་བའི་ནང་ཉམས་སུ་ལེན་ཚུལ།` |
 
 Shape checks: the introduction is a single paragraph; the commentary is one or
 two paragraphs of continuous prose with no block quotes; the practice section
-opens with a bold sub-label. If a slot is missing, empty, or fails its shape
-check, **stop and report it** — do not substitute a neighbouring section.
+opens with a bold sub-label. If a slot is missing, empty, or fails its check,
+**stop and report** — do not substitute a neighbouring section.
 
 ## Step 2 — Parse section ༦ as labelled sub-blocks
 
-Its internal shape varies. Sub-labels observed: `**ཉམས་ལེན་དངོས།**` (12 files),
-`**ལག་ལེན།**` (14), and the explanation label as both `**འགྲེལ་བཤད།**` and
-`**འགྲེལ་བཤད།:**`.
+Sub-labels vary: `**ཉམས་ལེན་དངོས།**` (12 files), `**ལག་ལེན།**` (14), and the
+explanation label appears both as `**འགྲེལ་བཤད།**` and `**འགྲེལ་བཤད།:**`.
 
-**Translate only these two sub-blocks:**
+**Translate only these two sub-blocks**, using the plan's established labels:
 
 | Tibetan label | English | Hindi |
 |---|---|---|
-| `ཉམས་ལེན་དངོས།` / `ལག་ལེན།` | **The practice** | **अभ्यास** |
-| `འགྲེལ་བཤད།` | **Why** | **क्यों** |
+| `ཉམས་ལེན་དངོས།` / `ལག་ལེན།` | `**Actual Practice:**` | `**मुख्य अभ्यास:**` |
+| `འགྲེལ་བཤད།` | `**Explanation:**` | `**व्याख्या:**` |
 
-**Do not translate, and do not carry into the output:** `མཆན།` (notes),
-`ཁ་སྐོང་།` (supplement), `གནད་ཚིག` (key terms), `གཏམ་རྒྱུད།` (story), and the
-`#### པར་གྱི་ཚིགས་བཅད།` image-verse block. These are production artifacts and
-supplementary material, excluded by decision.
+**Do not translate or carry:** `མཆན།` (notes), `ཁ་སྐོང་།` (supplement),
+`གནད་ཚིག` (key terms), `གཏམ་རྒྱུད།` (story), and the `#### པར་གྱི་ཚིགས་བཅད།`
+image-verse block.
 
-### The practice-category label
+### Practice-category label
 
-The explanation sub-block opens with a parenthetical category in italics. This
-is a small controlled vocabulary — render it from this table, never freshly per
-file:
+The explanation opens with an italic parenthetical. Controlled vocabulary —
+render from this table, never freshly per file:
 
 | Tibetan | English | Hindi |
 |---|---|---|
-| `དགེ་བ་བྱ་བ།` | _(Doing good)_ | _(अच्छा काम करना)_ |
-| `སྡིག་པ་མི་བྱ་བ།` | _(Avoiding wrongdoing)_ | _(बुरा काम न करना)_ |
+| `དགེ་བ་བྱ་བ།` | _(Doing good)_ | _(अच्छे कर्म करना)_ |
+| `སྡིག་པ་མི་བྱ་བ།` | _(Avoiding wrongdoing)_ | _(बुरे कर्म न करना)_ |
 | `རང་སེམས་འདུལ་བ།` | _(Taming the mind)_ | _(अपने मन को साधना)_ |
-| `སྦྱིན་པའི་ཉམས་ལེན།` | _(Generosity practice)_ | _(दान का अभ्यास)_ |
-| `བཟོད་པའི་ཉམས་ལེན།` | _(Patience practice)_ | _(धैर्य का अभ्यास)_ |
+| `སྦྱིན་པའི་ཉམས་ལེན།` | _(Generosity Practice)_ | _(दान का अभ्यास)_ |
+| `བཟོད་པའི་ཉམས་ལེན།` | _(Patience Practice)_ | _(धैर्य का अभ्यास)_ |
 
 A category not in this table is a stop: propose a rendering, log it, and ask.
 
-## Step 3 — Resolve embedded verse quotes by lookup, not translation
+## Step 3 — Today's Verse, and verse lines quoted inside ༦
 
-Section ༦'s explanation quotes a line or two of the day's root verse inline
-(Day-24 quotes `ཞིང་རྡུལ་ཀུན་གྱི་གྲངས་སྙེད་ཀྱི། ལུས་བཏུད་པ་ཡིས་བདག་ཕྱག་འཚལ།` from
-verse 2-24). **Never translate these fresh.** Look them up by block ID so the
-same verse reads identically everywhere in the course.
-
-**These are the only two verse sources. Do not substitute another.**
+Both come from the same place, by block-ID lookup. **Never translate a verse
+fresh.**
 
 | Language | Source |
 |---|---|
 | English | `AI_translation/english/bca-english-plain.md` |
 | Hindi | `AI_translation/hindi/bca-hindi-plain.md` |
 
-Both are full-text, block-ID addressed (`^<C>-<N>`), and in the plain register
-this skill targets. Both were produced by the rails translation track, so they
-are the course's own renderings — not a third-party translation.
+These are the only two verse sources; do not substitute another. Both are
+full-text, block-ID addressed (`^<C>-<N>`), and produced by the rails translation
+track, so they are the course's own renderings.
 
-### How to extract a block
+**The Today's Verse block:** one block-quote per verse in the day's range,
+verbatim, block IDs contiguous and matching the `verse:` frontmatter. Verses are
+lineated across four lines with the block ID on the last line only; reproduce
+that lineation and keep the trailing `^<C>-<N>`.
 
-Verses are lineated across four lines with the block ID on the **last** line
-only. The block for `^2-24` is every line from the blank line after the previous
-block ID down to and including the `^2-24` line:
+**Quotes inside section ༦:** the Tibetan usually quotes a *partial* verse (Day 24
+quotes only the last two lines of 2-24). Take the matching span, strip the
+trailing `^<C>-<N>` marker, and do not re-lineate what you take.
 
-```
-To all the buddhas who passed in the three times,
-together with the Dharma and the supreme assembly,
-I bow with bodies
-as numerous as all the atoms of the universe. ^2-24
-```
+**Diacritics are exempt inside verse quotes.** `bca-english-plain.md` writes
+"Mañjuśrī"; leave it. The no-diacritics rule governs your own prose only.
 
-Rules:
+> ⚑ **Register change from days 15–40.** Those days took the verse from a
+> prose-run rendering ("I bow down before every buddha of the past, present, and
+> future…"). `bca-english-plain.md` is lineated four-line verse, so new days will
+> look different from the existing ones. This is the instructed source — follow
+> it, and note the divergence in the translation note.
+>
+> ⚑ **Hindi gains a verse block.** Existing Hindi days have no `## आज का श्लोक`
+> section (days 24 and 25 were already flagged for this in `hi/requirements.md`).
+> New Hindi days include it.
 
-- Quote **verbatim** — punctuation, capitalisation and line breaks as they stand.
-- Strip the trailing ` ^<C>-<N>` marker from the quoted text.
-- The Tibetan usually quotes a *partial* verse (Day-24 quotes only the last two
-  lines of 2-24). Take the matching span, not the whole block, and do not
-  re-lineate what you take.
-- **Diacritics are exempt inside verse quotes.** `bca-english-plain.md` writes
-  "Mañjuśrī"; leave it. The no-diacritics rule governs your own prose only.
-- If a block ID is absent from the source, stop and ask — do not improvise a
-  rendering and do not fall back to another file.
-
-Record the source path and the block IDs quoted in the `translation note`.
+If a block ID is absent from the source, stop and ask — do not improvise and do
+not fall back to another file.
 
 ## Step 4 — Translate, one register per section
 
-Translate English and Hindi **each directly from the Tibetan**. Do not pivot
-Hindi through English: Hindi carries this material natively (धर्म, कर्म, पुण्य,
-संसार, बोधिचित्त are living words) and pivoting imports English's compromises.
-Reconcile the two for content parity at Step 6.
+Load the contracts first:
 
-Load the contracts first: `3-TRANSFORMATIONS/Plans/Dalai Lama/en/termbase.md`
-and `hi/termbase.md`.
+- `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/termbase-translation.md`
+- `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/hi/termbase-translation.md`
 
-### Register targets, all three sections
+These are **not** `termbase.md` in the same folders. Those govern authored day
+content and carry authoring-only rules; `termbase-translation.md` is the fork for
+translation and is the one this skill obeys.
 
-- **Simple.** CEFR A2–B1 for English; everyday spoken Hindi. One idea per
-  sentence. Active voice. Target under 20 words per sentence.
+### Register targets
+
+- **Simple.** CEFR A2–B1 English; everyday spoken Hindi. Many readers are not
+  native English speakers. One idea per sentence, active voice, under 20 words.
 - **Break the period.** Tibetan commentary runs long chained clauses landing on
-  `ཅེས་པའོ།` or `ཡོད་དོ།`. Day-24's second commentary paragraph is one sentence
+  `ཅེས་པའོ།` or `ཡོད་དོ།`. Day 24's second commentary paragraph is one sentence
   covering praise, prostration, multiplied bodies and four benefits — that
   becomes five or six short sentences. Most "awkward translation" is an English
   sentence still wearing Tibetan syntax, not a wrong word.
 - **No honorific archaism.** Tibetan marks respect grammatically (`བཞེས།`,
-  `གསོལ་བ་`, `ཐུགས་རྗེ།`). English has no honorific register, so do not reach for
-  "deign to accept" or "supplicate" — carry the respect through plain, warm
-  phrasing. Hindi *does* have a natural respectful register; use it (आप, ग्रहण
-  करें) rather than importing English's flatness.
+  `གསོལ་བ་`, `ཐུགས་རྗེ།`). English has no honorific register — do not reach for
+  "deign to accept" or "supplicate"; carry the respect through plain, warm
+  phrasing. Hindi *does* have one; use it (आप, ग्रहण करें).
+- **No em-dashes, no emojis, no diacritics in body prose.** Light bold only.
 
-### Names vs epithets — how "don't translate the lingo" actually applies
+### Names vs epithets
 
-Keep genuine terms of art and proper names untranslated: bodhicitta, karma,
-samsara, bardo, Dharma, Sangha, Manjushri, Samantabhadra. Give a one-clause
-gloss on first use per file where the termbase requires it.
+Keep genuine terms of art and proper names: bodhicitta, karma, samsara, bardo,
+Dharma, Sangha, Manjushri, Samantabhadra. Gloss once per file where the termbase
+requires it.
 
 Render **epithets and descriptive titles** plainly — translating these as jargon
 is what makes the text unreadable, and it is usually done out of reverence
@@ -180,86 +180,126 @@ rather than necessity:
 
 | Tibetan | Write | Not |
 |---|---|---|
-| `ས་བཅུའི་དབང་ཕྱུག་` / `ས་བཅུའི་བྱང་སེམས་ཆེན་པོ་` | great bodhisattvas who have reached the highest stages | lords of the tenth bhumi |
-| `ཐུགས་རྗེ་ཆེན་པོ་ཅན་` | full of compassion | possessed of great compassion / mahakaruna |
+| `ས་བཅུའི་དབང་ཕྱུག་` | great bodhisattvas who have reached the highest stages | lords of the tenth bhumi |
+| `ཐུགས་རྗེ་ཆེན་པོ་ཅན་` | full of compassion | possessed of great compassion |
 | `ཡོན་ཏན་རྒྱ་མཚོ་` | an ocean of good qualities | oceanic assembly of virtues |
 | `སྒོ་གསུམ་` | body, speech and mind | the three doors |
 
 ### Per-section notes
 
-**Introduction (༢).** Fixed three-move shape: locate the verses, preview the
+**1) Introduction.** Fixed three-move shape: locate the verses, preview the
 theme, invite. It ends on an exhortative `སྐུལ་ལོ།` — "one is exhorted to enter
-into the practice of…" is exactly the stiffness to avoid. Land it as direct,
-warm address. Keep the chapter and verse numbering consistent with the rest of
-the course (Arabic numerals in English; Devanagari in Hindi).
+into the practice of…" is exactly the stiffness to avoid. Open with the plan's
+established formula, "Today's practice is based on verse(s) … from the …
+chapter of the _Bodhicaryāvatāra_." / "आज का अभ्यास _बोधिचर्यावतार_ के …
+अध्याय के श्लोक … पर आधारित है।" Note a chapter change when there is one.
 
-**Commentary (༤).** Third person, expository. Preserve attributions exactly as
-the Tibetan states them: `སློབ་དཔོན་ཞི་བ་ལྷས།` → "Master Shantideva";
+**2) Commentary Explanation.** Third person, expository. Preserve attributions
+exactly as the Tibetan states them: `སློབ་དཔོན་ཞི་བ་ལྷས།` → "Master Shantideva";
 `འགྲེལ་བ་རྣམས་སུ་གསུངས་པ་ལྟར།` → "as the commentaries say". Never drop an
-attribution for smoothness and never upgrade a vague one ("the commentaries") to
-a specific named commentator.
+attribution for smoothness and never sharpen a vague one ("the commentaries")
+into a named commentator the Tibetan does not name.
 
-**Practice (༦).** Stays **first person and forward-looking** — `ངས་དེ་རིང་…
-བྱེད་རྒྱུ་ཡིན།` is *"Today I will…"*, not *"You should…"* and not *"The
-practitioner bows…"*. Converting this to instruction flips the section from
-commitment to command and is the most common failure here. Hindi: आज मैं … करूँगा।
+**3) Today's Practice.** Stays **first person and forward-looking** —
+`ངས་དེ་རིང་… བྱེད་རྒྱུ་ཡིན།` is *"Today I will…"*, not *"You should…"* and not
+*"The practitioner bows…"*. Converting this to instruction flips the section
+from commitment to command and is the most common failure here. Hindi: आज मैं …
+करूँगा।
+
+### Word counts are a diagnostic, not a target
+
+The plan's established bands are: introduction 80–115 words, commentary 180–220,
+practice explanation 120–160, actual practice one sentence.
+
+**Do not pad or trim to hit them.** Translation length is set by the source. If a
+section lands outside its band, that means the Tibetan section is unusually long
+or short — say so in the translation note and leave the text faithful. Padding to
+reach a word count is exactly the addition this skill exists to prevent.
 
 ### Unknown terms — never improvise silently
 
-For any Tibetan term not in the forked termbase: check the termbase, then check
+For any Tibetan term not in the termbase fork: check the termbase, then check
 already-translated days for existing usage, then pick a rendering **and log it**
-under `pending_terms:` in the output frontmatter for human approval. Over a few
-chapters this grows the termbase instead of accumulating silent drift.
+under `pending_terms:` for human approval. This grows the termbase instead of
+accumulating silent drift.
 
 ## Step 5 — Output files
 
-Parallel day files mirroring the Tibetan folder structure:
-
 ```
-3-TRANSFORMATIONS/Plans/Dalai Lama/en/Chapter-<C> D<s>-D<e>/Day-<N>-Ch<C>-V<s>-<e>-en.md
-3-TRANSFORMATIONS/Plans/Dalai Lama/hi/Chapter-<C> D<s>-D<e>/Day-<N>-Ch<C>-V<s>-<e>-hi.md
+3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/Chapter-<C> D<s>-D<e>/<N>-ch<C>-v<vs>-<ve>-eng.md
+3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/hi/Days/Chapter-<C> D<s>-D<e>/<N>-ch<C>-v<vs>-<ve>-hi.md
 ```
 
-Each contains the three translated sections only, renumbered 1/2/3 in the output
-(the source numbering 2/4/6 refers to sections this file does not carry), with
-the source's own section numbers recorded in frontmatter.
+Day 24 (Chapter 2, verses 22–24) → `en/Days/Chapter-2 D15-D40/24-ch2-v22-24-eng.md`
+and `hi/Days/Chapter-2 D15-D40/24-ch2-v22-24-hi.md`. Match an existing filename
+exactly where one is present — do not invent a variant spelling of the range.
+
+### ⚑ Overwrite guard
+
+Days 1–40+ already have files at these paths, produced by the retired rails-based
+generators. **Never overwrite one silently.** If the target exists: say so, get
+explicit human confirmation, and on approval move the existing file to the
+`Archive/` folder beside it rather than destroying it.
+
+### English template
 
 ```markdown
 ---
-title: "Day <N> — Chapter <C>, verses <s>–<e>"
-lang_tag: en
-plan: dalai-lama
 day: <N>
 chapter: <C>
-verse: "<s>-<e>"
-translated_from: "3-TRANSFORMATIONS/Plans/Dalai Lama/Chapter-<C> D<s>-D<e>/Day-<N>-Ch<C>-V<s>-<e>.md"
-source_sections: ["༢། ངོ་སྤྲོད།", "༤། འགྲེལ་བཤད།", "༦། དེ་རིང་གི་ཉམས་ལེན།"]
-verse_quote_source: "AI_translation/english/bca-english-plain.md"
-verse_quotes: ["<C>-<N>"]
+verse: "<vs>-<ve>"
+generated_by: dalai-lama-plan-translation
+translated_from: "3-TRANSFORMATIONS/Plans/Dalai Lama/Chapter-<C> D<s>-D<e>/Day-<N>-Ch<C>-V<vs>-<ve>.md"
+verse_source: "AI_translation/english/bca-english-plain.md"
 pending_terms: []
 status: draft
 ---
 
-## 1. Introduction
+## Today's Verse
 
-## 2. Commentary
+> [verse, lineated] ^<C>-<vs>
 
-## 3. Today's Practice
+> [verse, lineated] ^<C>-<ve>
 
-**The practice** …
+## 1) Introduction to Today's Practice
 
-**Why** _(Doing good)_ …
+## 2) Commentary Explanation
+
+## 3) Today's Practice
+
+**Actual Practice:** …
+
+**Explanation:** _(Doing good)_ …
 
 ## Translation note
 ```
 
-Hindi headings use Devanagari numerals: `## १. परिचय`, `## २. व्याख्या`,
-`## ३. आज का अभ्यास`.
+### Hindi template
 
-The `translation note` records, in the target language: which verse-quote source
-was used, any term added to `pending_terms`, any place the Tibetan was ambiguous
-and a reading had to be chosen, and any structural irregularity in the source
-file. Write the Hindi note in Hindi — do not machine-translate the English one.
+Same frontmatter with `verse_source: "AI_translation/hindi/bca-hindi-plain.md"`.
+Headings use Devanagari numerals:
+
+```markdown
+## आज का श्लोक
+
+## १) आज के अभ्यास का परिचय
+
+## २) अर्थ और व्याख्या
+
+## ३) आज का अभ्यास
+
+**मुख्य अभ्यास:** …
+
+**व्याख्या:** _(अच्छे कर्म करना)_ …
+
+## अनुवाद टिप्पणी
+```
+
+The translation note records, in the target language: any section that fell
+outside its word band and why, any term added to `pending_terms`, any place the
+Tibetan was ambiguous and a reading had to be chosen, and any structural
+irregularity in the source file. **Write the Hindi note in Hindi** — do not
+machine-translate the English one.
 
 Never set `status: complete`. That is a domain specialist's call.
 
@@ -271,20 +311,21 @@ drafter reliably cannot see their own additions. Give it the Tibetan source and
 the output, and instruct it to find violations, not to summarise or approve:
 
 1. **Additions.** For every output sentence, name the Tibetan clause it came
-   from. Any sentence with no parent is an addition — cut it.
-2. **Omissions.** For every Tibetan clause, name where it landed. Any clause
-   with no child is an omission — restore it. Closing and payoff sentences are
-   the easiest to lose.
-3. **Attribution drift.** Every name and every "as the commentaries say" present
-   in the Tibetan is present in the output, unchanged in specificity.
-4. **Person and tense.** Section ༦ is still first person and forward-looking in
+   from. No parent means it is an addition — cut it.
+2. **Omissions.** For every Tibetan clause, name where it landed. No child means
+   it was dropped — restore it. Closing and payoff sentences go missing most.
+3. **Attribution drift.** Every name and every "as the commentaries say" in the
+   Tibetan is present in the output, unchanged in specificity.
+4. **Person and tense.** Section 3 is still first person and forward-looking in
    both languages.
 5. **Parity.** English and Hindi carry the same content — same number of claims,
-   same closing. Divergence here means one of them drifted.
+   same closing.
 6. **Register.** No sentence over ~20 words. No calqued phrasing. No word
-   repeated more than twice in a section. Hindi pronouns resolve unambiguously
-   (Hindi drops antecedents more easily than English — if it is not obvious who
-   "वह" refers to, name the referent).
+   repeated more than twice in a section. Hindi pronouns resolve unambiguously —
+   if it is not obvious who "वह" refers to, name the referent.
+7. **Practice repetition.** Check the two previous days: the offering and
+   confession verses run in long stretches, and if a distinguishing half of the
+   Tibetan instruction gets dropped, two days end up with the same action.
 
 Verify each finding against the source yourself before acting on it. The auditor
 can also be wrong.
@@ -293,36 +334,43 @@ can also be wrong.
 
 Script these; do not eyeball:
 
-- Embedded verse quotes are byte-identical to the span in
-  `AI_translation/english/bca-english-plain.md` / `AI_translation/hindi/bca-hindi-plain.md`,
-  with only the trailing `^<C>-<N>` marker removed.
-- Heading text and order match the template exactly, including numeral style
-  (Devanagari in Hindi headings).
-- Practice-category label matches the Step 2 table exactly.
-- No em-dashes, no diacritics, no emojis in body prose.
-- Frontmatter complete; `status: draft`; `translated_from` path resolves.
+- Verse block-IDs contiguous and matching `verse:` frontmatter.
+- Verse text byte-identical to the source span (trailing `^<C>-<N>` retained in
+  the Today's Verse block, stripped in inline quotes inside section 3).
+- Heading text and order match the template exactly, including Devanagari
+  numerals in Hindi.
+- Sub-labels exactly `**Actual Practice:**` / `**Explanation:**` and
+  `**मुख्य अभ्यास:**` / `**व्याख्या:**`.
+- Practice-category label matches the Step 2 table.
+- No em-dashes, diacritics or emojis in body prose.
+- Word counts reported per section, with any out-of-band section named in the
+  translation note.
 - Excluded blocks (`མཆན།`, `ཁ་སྐོང་།`, `གནད་ཚིག`, `གཏམ་རྒྱུད།`,
-  `པར་གྱི་ཚིགས་བཅད།`) are absent from the output.
+  `པར་གྱི་ཚིགས་བཅད།`) absent from the output.
 
 ## Step 8 — Deliver
 
-Write both files to the paths in Step 5. Report which day(s) were produced,
-which verse-quote source was used, and any `pending_terms` awaiting approval.
+Write both files, honouring the overwrite guard. Report which day(s) were
+produced, whether any existing file was archived, any section outside its word
+band, and any `pending_terms` awaiting approval.
 
 ---
 
 ## Known failure modes
 
-- Locating a section by its number and translating the dedication as a practice.
-- Translating the root verse quote inside ༦ fresh, so the same verse appears in
-  two different English versions across the course.
-- Converting ༦ from first-person commitment to second-person instruction.
+- Locating a section by number and rendering the dedication as a practice.
+- Translating a verse fresh instead of retrieving it, so the same verse reads two
+  different ways across the course.
+- Converting section 3 from first-person commitment to second-person instruction.
+- Padding or trimming a section to hit a word count, which means adding or
+  cutting content the Tibetan does not have.
 - Preserving Tibetan sentence length, producing a grammatical but unreadable
   paragraph.
 - Rendering an epithet as transliterated jargon ("tenth bhumi") in a sentence
   otherwise aimed at an A2 reader.
-- Adding a clarifying clause that is true and helpful but absent from the
-  Tibetan — the characteristic failure of meaning-based translation.
+- Adding a clarifying clause that is true and helpful but absent from the Tibetan
+  — the characteristic failure of meaning-based translation.
 - Dropping `འགྲེལ་བ་རྣམས་སུ་གསུངས་པ་ལྟར།` as filler, or resolving it to a named
   commentator the Tibetan does not name.
-- Translating the `མཆན།` / `ཁ་སྐོང་།` blocks because they look like body prose.
+- Reaching into `2-RAILS/` because the Tibetan section feels thin. It is not this
+  skill's source.

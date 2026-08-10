@@ -1,15 +1,15 @@
 ---
-title: "Termbase — Dalai Lama plan, English translation stream"
+title: "Termbase — Bodhisattva Challenge, translation stream (English)"
 lang_tag: en
-plan: dalai-lama
+plan: the-bodhisattva-challenge
 purpose: translation
 forked_from: "3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/termbase.md"
 status: draft
 ---
 
-# Termbase — Dalai Lama plan, English
+# Termbase — Bodhisattva Challenge, English translation stream
 
-Vocabulary contract for `Plans/Dalai Lama/en/`. One rendering per term.
+Vocabulary contract for translation output in `Plans/the-bodhisattva-challenge/en/Days/`. One rendering per term.
 
 Forked from the-bodhisattva-challenge English termbase, which governs *authored*
 day content. This one governs *translation* of the Tibetan day file's three

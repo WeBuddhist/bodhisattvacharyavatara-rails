@@ -1,16 +1,16 @@
 ---
-title: "शब्दावली — दलाई लामा योजना, हिंदी अनुवाद धारा"
-title_en: "Termbase — Dalai Lama plan, Hindi translation stream"
+title: "शब्दावली — बोधिसत्व चैलेंज, हिंदी अनुवाद धारा"
+title_en: "Termbase — Bodhisattva Challenge, Hindi translation stream"
 lang_tag: hi
-plan: dalai-lama
+plan: the-bodhisattva-challenge
 purpose: translation
 forked_from: "3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/hi/termbase.md"
 status: draft
 ---
 
-# शब्दावली — दलाई लामा योजना, हिंदी
+# शब्दावली — बोधिसत्व चैलेंज, हिंदी अनुवाद धारा
 
-`Plans/Dalai Lama/hi/` के लिए शब्द-अनुबंध। एक शब्द का एक ही अनुवाद।
+`Plans/the-bodhisattva-challenge/hi/Days/` में जाने वाले अनुवाद के लिए शब्द-अनुबंध। एक शब्द का एक ही अनुवाद।
 
 यह the-bodhisattva-challenge की हिंदी शब्दावली से अलग की गई है। वह *लिखी हुई*
 सामग्री के लिए थी; यह तिब्बती दिन-फ़ाइल के तीन गद्य खंडों के *अनुवाद* के लिए है।

@@ -1,0 +1,47 @@
+# Line-ending policy
+# ------------------
+# Without this file, git had no declared policy: HEAD stored LF, a Windows tool
+# rewrote the working tree to CRLF, and 2,629 files showed as "modified" with
+# zero content changed. Declaring the policy once stops that recurring.
+#
+# `text=auto eol=lf` — git normalises to LF in the repository and checks out LF
+# in the working tree. LF is correct here because the vault's scripts run under
+# WSL/Linux as well as Windows, and Obsidian handles LF without issue.
+
+* text=auto eol=lf
+
+# Binary formats — never touch, never diff as text.
+*.docx binary
+*.doc   binary
+*.pptx binary
+*.xlsx binary
+*.pdf   binary
+*.epub binary
+*.png   binary
+*.jpg   binary
+*.jpeg binary
+*.gif   binary
+*.svg   binary
+*.mp3   binary
+*.mp4   binary
+*.wav   binary
+*.zip   binary
+*.ttf   binary
+*.otf   binary
+*.woff binary
+*.woff2 binary
+*.pyc   binary
+
+# Tibetan / Sanskrit source material is UTF-8 text. Declared explicitly so no
+# heuristic can mistake a large Unicode file for binary and stop diffing it.
+*.md   text eol=lf
+*.txt  text eol=lf
+*.json text eol=lf
+*.yaml text eol=lf
+*.yml  text eol=lf
+*.py   text eol=lf
+*.srt  text eol=lf
+
+# Windows-only launchers genuinely need CRLF.
+*.bat text eol=crlf
+*.cmd text eol=crlf

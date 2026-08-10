@@ -49,8 +49,8 @@ Having attained the ability to accomplish human purpose,
 if one does not accomplish what is beneficial in this life,
 how will this opportunity arise again later? ^1-4
 
-Just as a flash of lightning briefly illuminates
-a dark, cloudy night,
+Just as a flash of lightning briefly reveals
+objects in a dark, cloudy night,
 likewise, rarely, through the power of the buddhas,
 does a virtuous state of mind arise. ^1-5
 
@@ -97,7 +97,7 @@ which quickly liberates one? ^1-13
 Therefore, it certainly burns away great misdeeds
 in a single moment, like the fire at the end of an eon.
 Its immeasurable benefits
-were explained by Maitreya, the wise and excellent one. ^1-14
+were explained by Maitreya to Sudhana. ^1-14
 
 To summarize, the Mind of Awakening
 should be understood in two aspects:
@@ -123,8 +123,8 @@ or careless, the strength of merit
 continuously arises in abundance,
 equal to space. ^1-19
 
-This was taught by the buddhas themselves
-for the benefit of humble beings,
+This was taught by the Tathāgata himself
+for the benefit of beings inclined toward the Lesser Vehicle,
 in response to a reasonable request
 from the bodhisattva Bhadrapāla. ^1-20
 

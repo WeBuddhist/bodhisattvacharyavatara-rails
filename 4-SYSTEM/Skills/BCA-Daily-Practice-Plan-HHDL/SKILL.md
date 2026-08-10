@@ -5,28 +5,11 @@ description: Generate one or more Bodhisattvacharyavatara (སྤྱོད་འ
 
 # BCA Daily Practice Plan — HHDL (Dalai Lama track)
 
-Generates complete daily practice-plan documents for the Bodhisattva Challenge's
-Dalai Lama track. Each day is a single Tibetan-only `.md` file built from six
-sections — three fixed (copied verbatim), one mechanically extracted (root
-verses), and two generated (via the `gemini_generate` tool, grounded in the
-verse-context rails).
+Generates complete daily practice-plan documents for the Bodhisattva Challenge's Dalai Lama track. Each day is a single Tibetan-only `.md` file built from six sections — three fixed (copied verbatim), one mechanically extracted (root verses), and two generated (via the `gemini_generate` tool, grounded in the verse-context rails).
 
-**Language discipline — absolute.** Every word of prose content in the output
-must be Tibetan. No English, no other language, anywhere in the six sections —
-not in headings, not in generated prose, not in translations or glosses. The
-only non-Tibetan-script tokens permitted are `^chapter-verse` block-ID anchors
-(Arabic digits — required by the vault's citation convention) and the section
-emojis themselves.
+**Language discipline — absolute.** Every word of prose content in the output must be Tibetan. No English, no other language, anywhere in the six sections — not in headings, not in generated prose, not in translations or glosses. The only non-Tibetan-script tokens permitted are `^chapter-verse` block-ID anchors (Arabic digits — required by the vault's citation convention) and the section emojis themselves.
 
-**Generated vs. fixed — the core discipline of this skill.** Sections 1 and 5
-are reproduced character-for-character from this file, every time, for every
-day — never paraphrased, reordered, or "improved." Sections 2, 4, and 6 are
-composed by calling `mcp__gemini-mcp__gemini_generate`, not written directly
-by the agent — the agent's job is to assemble the grounding material and
-constraints into the prompt, call the tool, and then mechanically verify the
-result (syllable counts, required opening phrases, citation integrity), never
-to originate the Tibetan prose itself. Section 3 is mechanically extracted,
-not generated at all.
+**Generated vs. fixed — the core discipline of this skill.** Sections 1 and 5 are reproduced character-for-character from this file, every time, for every day — never paraphrased, reordered, or "improved." Sections 2, 4, and 6 are composed by calling `mcp__gemini-mcp__gemini_generate`, not written directly by the agent — the agent's job is to assemble the grounding material and constraints into the prompt, call the tool, and then mechanically verify the result (syllable counts, required opening phrases, citation integrity), never to originate the Tibetan prose itself. Section 3 is mechanically extracted, not generated at all.
 
 ---
 
@@ -49,15 +32,9 @@ not generated at all.
 3-TRANSFORMATIONS/Plans/Dalai Lama/Chapter-<C> D<s>-D<e>/Day-<N>-Ch<C>-V<start>-<end>.md
 ```
 
-- Resolve the `Chapter-<C> D<s>-D<e>` folder from the chapter→folder map in
-  `references/tibetan-numerals-and-ordinals.md` — do not guess it from the
-  chapter number alone.
-- `<N>` is the plain day number, no zero-padding. `<start>`/`<end>` are the
-  plain verse numbers within the chapter (not cumulative), matching the
-  `Verses` column of the schedule. Example: Day 36 → `2.54-2.56` →
-  `Chapter-2 D15-D40/Day-36-Ch2-V54-56.md`.
-- Filenames and the folder path use plain Arabic digits — this is a filesystem
-  identifier, not plan content, so it is exempt from the Tibetan-only rule.
+- Resolve the `Chapter-<C> D<s>-D<e>` folder from the chapter→folder map in `references/tibetan-numerals-and-ordinals.md` — do not guess it from the chapter number alone.
+- `<N>` is the plain day number, no zero-padding. `<start>`/`<end>` are the plain verse numbers within the chapter (not cumulative), matching the `Verses` column of the schedule. Example: Day 36 → `2.54-2.56` → `Chapter-2 D15-D40/Day-36-Ch2-V54-56.md`.
+- Filenames and the folder path use plain Arabic digits — this is a filesystem identifier, not plan content, so it is exempt from the Tibetan-only rule.
 
 ### ⚑ Overwrite guard
 
@@ -71,11 +48,7 @@ generators or hand-authored). Before writing:
 
 ## Phase 0 — Parse the day request
 
-The user will typically give day numbers tersely: `day-1`, `day 20 to day 35`,
-`days 45, 46, 50`. Expand whatever is given into an explicit list of day
-numbers before starting Phase 1. Run Phases 1–3 once per day in the list;
-batch the lookups (schedule, root text, summaries) where consecutive days
-share a chapter to avoid re-reading the same file repeatedly.
+The user will typically give day numbers tersely: `day-1`, `day 20 to day 35`, `days 45, 46, 50`. Expand whatever is given into an explicit list of day numbers before starting Phase 1. Run Phases 1–3 once per day in the list; batch the lookups (schedule, root text, summaries) where consecutive days share a chapter to avoid re-reading the same file repeatedly.
 
 ---
 
@@ -85,30 +58,20 @@ Do all four steps, and read every file involved, before writing anything.
 
 ### Step 1 — Decide the day(s)
 
-Already done in Phase 0. Confirm each requested day number actually has a row
-in `Tibetan-schedule-corrected.md` — if not, stop and report the gap rather
-than guessing a verse range.
+Already done in Phase 0. Confirm each requested day number actually has a row in `Tibetan-schedule-corrected.md` — if not, stop and report the gap rather than guessing a verse range.
 
 ### Step 2 — Identify the verse numbers for the day
 
-Look up the day's row in `Tibetan-schedule-corrected.md`; read the `Verses`
-column (third column). Format is `<chapter>.<start>-<chapter>.<end>` (e.g.
-`2.35-2.37`) or, for single-verse days, `<chapter>.<verse>`. Extract:
-chapter number, start verse, end verse (equal to start if a single verse).
+Look up the day's row in `Tibetan-schedule-corrected.md`; read the `Verses` column (third column). Format is `<chapter>.<start>-<chapter>.<end>` (e.g. `2.35-2.37`) or, for single-verse days, `<chapter>.<verse>`. Extract: chapter number, start verse, end verse (equal to start if a single verse).
 
 ### Step 3 — Find the exact verse(s) for the day
 
-Open `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` and locate each verse in
-the range by its `^chapter-verse` block ID (e.g. `^2-35`, `^2-36`, `^2-37`).
-Copy the verse text **exactly as written**, including the trailing `॥ ॥`-style
-line-final punctuation and the block ID. Never paraphrase, never quote from
-memory or training data. If a block ID is missing from the file, stop and
-report it — do not substitute or invent the verse.
+Open `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` and locate each verse in the range by its `^chapter-verse` block ID (e.g. `^2-35`, `^2-36`, `^2-37`).
+Copy the verse text **exactly as written**, including the trailing `॥ ॥`-style line-final punctuation and the block ID. Never paraphrase, never quote from memory or training data. If a block ID is missing from the file, stop and report it — do not substitute or invent the verse.
 
 ### Step 4 — Find information for the verse(s)
 
-For each verse in the range, open
-`2-RAILS/Verses/<chapter>-<verse>-summary.md` (e.g. `2-RAILS/Verses/2-35-summary.md`).
+For each verse in the range, open `2-RAILS/Verses/<chapter>-<verse>-summary.md` (e.g. `2-RAILS/Verses/2-35-summary.md`).
 Read the whole file. Collect, per verse:
 
 - **དོན་འགྲེལ།** (per-commentary explanations) — candidate stories/similes/detailed breakdowns for Section 4.
@@ -118,8 +81,7 @@ Read the whole file. Collect, per verse:
 - **བསྡུས་དོན།** (AI-overview synthesis) — a fallback overview if the other layers are thin.
 
 If a verse's summary file does not exist, note the gap explicitly (it limits
-what Section 4 can draw on for that verse) — do not invent material to fill
-it.
+what Section 4 can draw on for that verse) — do not invent material to fill it.
 
 ---
 
@@ -160,36 +122,26 @@ breaks, or wording.
 ### Section 2 — ☕️ ངོ་སྤྲོད། (Practice Intro) — GENERATED
 
 **Goal:** a short, warm, inviting line or two that (a) names exactly which
-verses today's practice covers, and (b) makes the reader want to engage with
-them. A doorway, not a summary.
+verses today's practice covers, and (b) makes the reader want to engage with them. A doorway, not a summary.
 
 **Build the citation phrase first**, before calling the generator. Using the
-ordinal tables in `references/tibetan-numerals-and-ordinals.md`, convert the
-chapter number and the start/end verse numbers to their Tibetan ordinal-word
-forms, then compose:
+ordinal tables in `references/tibetan-numerals-and-ordinals.md`, convert the chapter number and the start/end verse numbers to their Tibetan ordinal-word forms, then compose:
 
 - Multi-verse day: `ལེའུ་[chapter-ordinal]འི་ཚིགས་བཅད་[start-ordinal]་ནས་[end-ordinal]་བར་ཚིགས་བཅད་[count-cardinal]་གྱི་ཐོག་ལ་ཡིན།`
   — e.g. chapter 2, verses 35–37 → `ལེའུ་གཉིས་པའི་ཚིགས་བཅད་སོ་ལྔ་པ་ནས་སོ་བདུན་པ་བར་ཚིགས་བཅད་གསུམ་གྱི་ཐོག་ལ་ཡིན།`
 - Single-verse day: `ལེའུ་[chapter-ordinal]འི་ཚིགས་བཅད་[verse-ordinal]་གྱི་ཐོག་ལ་ཡིན།`
 
-Double-check this phrase by hand — ordinal formation is irregular and easy to
-get wrong by guessing (see the worked examples in the reference file).
+Double-check this phrase by hand — ordinal formation is irregular and easy to get wrong by guessing (see the worked examples in the reference file).
 
 **Call `gemini_generate`.** Assemble a prompt that includes: the confirmed
-citation phrase; the exact verse text from Step 3; a one-line paraphrase-free
-summary of what the verse(s) are about drawn from the བསྡུས་དོན/གཙོ་གནད layers
-collected in Phase 1 (for the generator's own grounding, not for the reader);
-and these constraints, stated explicitly in the prompt:
+citation phrase; the exact verse text from Step 3; a one-line paraphrase-free summary of what the verse(s) are about drawn from the བསྡུས་དོན/གཙོ་གནད layers collected in Phase 1 (for the generator's own grounding, not for the reader); and these constraints, stated explicitly in the prompt:
 
 - Output must be Tibetan only — no English, no transliteration, no markdown formatting, no preamble or explanation of what was generated.
 - 1–2 sentences, brief, warm, inviting — a doorway, not a synopsis.
 - Must state the citation phrase (verbatim or lightly integrated grammatically).
 - Must not explain or paraphrase the verse's meaning — that belongs to Section 4, not here.
 
-Take the tool's returned text as-is aside from mechanical cleanup (stripping
-any stray markdown fencing or preamble the model added). If it contains any
-non-Tibetan-script prose, regenerate with a stricter prompt rather than
-translating or hand-fixing it.
+Take the tool's returned text as-is aside from mechanical cleanup (stripping any stray markdown fencing or preamble the model added). If it contains any non-Tibetan-script prose, regenerate with a stricter prompt rather than translating or hand-fixing it.
 
 ```markdown
 # ☕️ ངོ་སྤྲོད།
@@ -199,8 +151,7 @@ translating or hand-fixing it.
 
 ### Section 3 — 📖 དེ་རིང་གི་རྩ་ཚིག (Today's verses) — EXTRACTED, not generated
 
-Paste the verse(s) retrieved in Step 3 verbatim, each verse block ending with
-its `^chapter-verse` anchor, in order:
+Paste the verse(s) retrieved in Step 3 verbatim, each verse block ending with its `^chapter-verse` anchor, in order:
 
 ```markdown
 # 📖 དེ་རིང་གི་རྩ་ཚིག
@@ -210,16 +161,11 @@ its `^chapter-verse` anchor, in order:
 [verse 2 text] ^C-V2
 ```
 
-No commentary, no headers per verse, no editorializing — verses only, exactly
-as they appear in the source file.
+No commentary, no headers per verse, no editorializing — verses only, exactly as they appear in the source file.
 
 ### Section 4 — 💡 གོ་རྟོགས། (Extended Info) — GENERATED
 
-**Goal:** surface the single best piece of extended material the commentary
-actually contains for these verses — a story (སྒྲུང), a simile (དཔེ), a
-citation (ལུང), a detailed breakdown, or a clarifying explanation — presented
-accessibly. This is not a verse-by-verse commentary walkthrough, and it is not
-always present.
+**Goal:** surface the single best piece of extended material the commentary actually contains for these verses — a story (སྒྲུང), a simile (དཔེ), a citation (ལུང), a detailed breakdown, or a clarifying explanation — presented accessibly. This is not a verse-by-verse commentary walkthrough, and it is not always present.
 
 Before calling the generator, decide from the Phase 1 material collected
 (དོན་འགྲེལ, ལུང, གཙོ་གནད) whether there actually is a standout piece of extended

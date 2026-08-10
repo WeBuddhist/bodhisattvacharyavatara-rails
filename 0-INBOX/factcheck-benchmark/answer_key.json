@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "commentary": "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md",
+    "commentary_name": "Khenpo Zhenga (mchan 'grel, via Gzhan phan Byams pa'i Go cha)",
+    "translation_baseline": "padmakara-ch1-baseline-lines.md (clean, reformatted from en-Padmakara_2006.md)",
+    "translation_under_test": "padmakara-ch1-test.md (mutated: 20 injected errors + 5 unmodified controls)",
+    "scope": "Chapter 1, verses I-1 and 1-1 through 1-36",
+    "note": "Source 1-SOURCES/Translations/en-Padmakara_2006.md was never edited. Both benchmark files live outside 1-SOURCES/."
+  },
+  "items": [
+    {"id": 1, "verse_id": "1-1", "type": "injected", "category": "kaya_dharma_mind", "anchor_bo": "ཆོས་ཀྱི་སྐུ (chos kyi sku)", "commentary_gloss": "dharmakāya, a buddha-body attained through realization", "original": "the dharmakāya they possess", "injected": "the dharma they embody", "expected_verdict": "ERROR"},
+    {"id": 2, "verse_id": "1-1", "type": "injected", "category": "precise_term_softened", "anchor_bo": "སྡོམ (sdom)", "commentary_gloss": "vow / discipline (bslab par bya ba, training to be undertaken)", "original": "the practice of the Bodhisattva discipline", "injected": "the practice of the Bodhisattva way of life", "expected_verdict": "ERROR"},
+    {"id": 3, "verse_id": "1-6", "type": "injected", "category": "precise_term_softened", "anchor_bo": "དགེ་བ (dge ba)", "commentary_gloss": "virtue / wholesome goodness (dge ba nyam chung, virtue is weak)", "original": "Virtue, thus, is weak", "injected": "Kindness, thus, is weak", "expected_verdict": "ERROR"},
+    {"id": 4, "verse_id": "1-20", "type": "injected", "category": "precise_term_softened", "anchor_bo": "ཐེག་པ་དམན་པ (theg pa dman pa)", "commentary_gloss": "lesser/inferior vehicle (Hinayana), beings inclined toward it", "original": "for those inclined to lesser paths", "injected": "for those inclined to simpler paths", "expected_verdict": "ERROR"},
+    {"id": 5, "verse_id": "1-20", "type": "injected", "category": "named_entity", "anchor_bo": "ལག་བཟངས (lag bzangs)", "commentary_gloss": "Subāhu, the interlocutor of the sūtra referenced", "original": "the sūtra Subāhu requested", "injected": "the sūtra Sāriputra requested", "expected_verdict": "ERROR"},
+    {"id": 6, "verse_id": "1-25", "type": "injected", "category": "kaya_dharma_mind", "anchor_bo": "སེམས་ཀྱི་རིན་ཆེན་ཁྱད་པར་ཅན (sems kyi rin chen khyad par can)", "commentary_gloss": "precious, extraordinary state of mind (sems = mind, not sku/body)", "original": "this noble, jewellike state of mind", "injected": "this noble, jewellike form of buddha-body", "expected_verdict": "ERROR"},
+    {"id": 7, "verse_id": "1-14", "type": "injected", "category": "named_entity", "anchor_bo": "ནོར་བཟང (nor bzang)", "commentary_gloss": "young bodhisattva Sudhana (byang chub sems dpa' gzhon nu nor bzang), addressee of the teaching", "original": "explained to Sudhana", "injected": "explained to Maitreya", "expected_verdict": "ERROR"},
+    {"id": 8, "verse_id": "1-23", "type": "injected", "category": "named_entity", "anchor_bo": "ཚངས་པ (tshangs pa)", "commentary_gloss": "Brahmā, Lord of the Sahā world, named distinctly from Indra (brgya byin)", "original": "even Brahmā", "injected": "even Indra", "expected_verdict": "ERROR"},
+    {"id": 9, "verse_id": "1-9", "type": "injected", "category": "number_scope", "anchor_bo": "སྐད་ཅིག་གཅིག (skad cig gcig)", "commentary_gloss": "a single instant (gcig = one)", "original": "in that instant", "injected": "within moments", "expected_verdict": "ERROR"},
+    {"id": 10, "verse_id": "1-22", "type": "injected", "category": "number_scope", "anchor_bo": "སེམས་ཅན་ ... ཐམས་ཅད (sems can ... thams cad)", "commentary_gloss": "every single living being, universal scope", "original": "each and every living being", "injected": "a few living beings", "expected_verdict": "ERROR"},
+    {"id": 11, "verse_id": "1-33", "type": "injected", "category": "number_scope", "anchor_bo": "སེམས་ཅན་གྲངས་མེད་པ་མཐའ་ཡས (sems can grangs med pa mtha' yas)", "commentary_gloss": "countless, boundless beings", "original": "countless multitudes", "injected": "a handful of followers", "expected_verdict": "ERROR"},
+    {"id": 12, "verse_id": "1-11", "type": "injected", "category": "number_scope", "anchor_bo": "འགྲོ་བའི་དེད་དཔོན་གཅིག་པུ (‘gro ba’i sde dpon gcig pu)", "commentary_gloss": "the sole/only guide of beings (gcig pu = only one)", "original": "the only guide of beings", "injected": "the many guides of beings", "expected_verdict": "ERROR"},
+    {"id": 13, "verse_id": "1-7", "type": "injected", "category": "number_scope", "anchor_bo": "ཐུབ་དབང་ ... བཅོམ་ལྡན་འདས་རྣམས (thub dbang ... bcom ldan 'das rnams)", "commentary_gloss": "the mighty Sage-Lords / Blessed Ones, plural", "original": "the mighty Sages saw its benefits", "injected": "the mighty King saw its benefits", "expected_verdict": "ERROR"},
+    {"id": 14, "verse_id": "1-5", "type": "injected", "category": "simile_tenor", "anchor_bo": "དངོས་པོར་གྱུར་པ་རྣམས་ ... སྣང་བར་སྟོན་པ (dngos por gyur pa rnams ... snang bar ston pa)", "commentary_gloss": "lightning reveals objects/forms, not the sky itself", "original": "all is clearly shown", "injected": "the whole sky is illuminated", "expected_verdict": "ERROR", "note": "mirrors the skill's own canonical example (lightning reveals forms, not the sky)"},
+    {"id": 15, "verse_id": "1-19", "type": "injected", "category": "simile_tenor", "anchor_bo": "ནམ་མཁའ (nam mkha')", "commentary_gloss": "equal to the sky/space, not the ocean", "original": "the vastness of the sky", "injected": "the depths of the ocean", "expected_verdict": "ERROR"},
+    {"id": 16, "verse_id": "1-10", "type": "injected", "category": "simile_tenor", "anchor_bo": "ལུས་འདི (lus 'di)", "commentary_gloss": "this (impure) body is what the elixir transforms, not a mental state", "original": "it takes our impure flesh", "injected": "it takes our confused perceptions", "expected_verdict": "ERROR"},
+    {"id": 17, "verse_id": "1-29", "type": "injected", "category": "agent_role", "anchor_bo": "བྱམས་པ་ཆེན་པོས་ ... བྱེད་པ (byams pa chen pos ... byed pa)", "commentary_gloss": "the bodhisattva (agent) fills beings (patient) with bliss", "original": "those who fill with bliss all beings destitute of joy", "injected": "those whom bliss fills, when destitute of joy", "expected_verdict": "ERROR"},
+    {"id": 18, "verse_id": "1-28", "type": "injected", "category": "agent_role", "anchor_bo": "སྡུག་བསྔལ་ ... ཉིད་ལ་མངོན་པར་རྒྱུག (sdug bsngal ... nyid la mngon par rgyug)", "commentary_gloss": "beings (agent) run toward/pursue the causes of suffering", "original": "misery itself they follow and pursue", "injected": "misery itself pursues them", "expected_verdict": "ERROR"},
+    {"id": 19, "verse_id": "1-30", "type": "injected", "category": "enumeration_order", "anchor_bo": "དགེ་ ... བཤེས་ ... བསོད་ནམས (dge / bshes / bsod nams)", "commentary_gloss": "virtue, then friend, then merit — fixed order", "original": "what virtue could be matched with theirs? What friend could be compared to them?", "injected": "what friend could be compared to them? What virtue could be matched with theirs?", "expected_verdict": "ERROR", "note": "mirrors the skill's own canonical example (the three: virtue / friend / merit)"},
+    {"id": 20, "verse_id": "1-21", "type": "injected", "category": "wrong_referent_other", "anchor_bo": "ཀླད་པའི་ནད (klad pa'i nad)", "commentary_gloss": "head-ailment / headache (klad pa = head), not heart", "original": "the aching heads of other beings", "injected": "the aching hearts of other beings", "expected_verdict": "ERROR"},
+    {"id": 21, "verse_id": "1-2", "type": "control", "category": "negative_control_unmodified", "original": "(unmodified)", "injected": null, "expected_verdict": "CLEAN"},
+    {"id": 22, "verse_id": "1-4", "type": "control", "category": "negative_control_unmodified", "original": "(unmodified)", "injected": null, "expected_verdict": "CLEAN"},
+    {"id": 23, "verse_id": "1-17", "type": "control", "category": "negative_control_unmodified", "original": "(unmodified)", "injected": null, "expected_verdict": "CLEAN"},
+    {"id": 24, "verse_id": "1-27", "type": "control", "category": "negative_control_unmodified", "original": "(unmodified)", "injected": null, "expected_verdict": "CLEAN"},
+    {"id": 25, "verse_id": "1-35", "type": "control", "category": "negative_control_unmodified", "original": "(unmodified)", "injected": null, "expected_verdict": "CLEAN"}
+  ],
+  "category_counts": {
+    "kaya_dharma_mind": 2,
+    "precise_term_softened": 3,
+    "named_entity": 3,
+    "number_scope": 5,
+    "simile_tenor": 3,
+    "agent_role": 2,
+    "enumeration_order": 1,
+    "wrong_referent_other": 1,
+    "negative_control_unmodified": 5
+  }
+}

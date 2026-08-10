@@ -1,0 +1,75 @@
+# BCA Translation — Commentary Fact-Check
+
+- **Commentary (ground truth):** `1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md` (Khenpo Zhenga, transcluding root text via `bo-བློ་ལྡན་ཤེས་རབ།.md`)
+- **Translation audited:** `factcheck-benchmark/padmakara-ch1-test.md` (Padmakara Translation Group, adapted — draft, single line per verse)
+
+Method: strict term-by-term alignment against the commentary's own glosses
+(kāya/entity/number/simile/agent/order sensitive), not a gist check. Preliminary
+self-check, not a scholarly sign-off — a domain specialist reviews before this is
+treated as final (an LLM never marks its own output complete).
+
+## Progress
+
+| Scope checked |
+|---|
+| Chapter 1, verses 1-1 to 1-36 (all 36 verses of chapter 1) |
+
+---
+
+### Chapter 1 — verses 1–36
+
+Extraction notes: `extract_commentary.py` found 910 transclusions across the whole
+commentary file with zero empty buckets; chapter 1 yielded exactly 36 passages
+(1-1…1-36), one-to-one with the 36 translation blocks extracted by
+`extract_translation.py`. No cascading-shift or empty-bucket artifacts to resolve
+for this chapter.
+
+| Verse | Verdict | Tibetan (Wylie) | Commentary gloss | English | Fix |
+|---|---|---|---|---|---|
+| 1-1 | ⚠ ERROR | ཆོས་ཀྱི་སྐུ་མངའ་ (chos kyi sku mnga') | "possessing the dharmakāya" — a buddha-body/attribute of the Sugata realized through prostrating; commentary explicitly unpacks *sku* here | "the dharma they embody" (listed as if a separate object of homage, alongside "those who go in bliss" and "their heirs") | Should stay "the dharma-body" / "endowed with the dharmakāya" as a description of the Sugatas — not "the dharma," and not a third separate object of prostration |
+| 1-1 | ⚠ ERROR | སྡོམ་ (sdom pa'am bslab par bya ba) | "the vows/precepts (or trainings)" of the Sugatas' heirs | "the practice of the Bodhisattva way of life" | *sdom* = vow/discipline, not "way of life" (this is the skill's own paradigm example of a precise-term-softened-to-vague-synonym error) |
+| 1-5 | ⚠ ERROR | གློག་འགྱུ་བ་ན་...དངོས་པོར་གྱུར་པ་རྣམས་རབ་ཏུ་སྣང་བར་སྟོན་པ་ལྟར (glog 'gyu ba na ... dngos por gyur pa rnams rab tu snang bar ston pa) | lightning "reveals things/objects that have come into being" (dngos po = objects/forms) | "the sudden lightning glares and the whole sky is illuminated" | Simile tenor swap: lightning reveals **objects/forms**, not "the sky" |
+| 1-6 | ⚠ ERROR | དགེ་བ་ཉམ་ཆུང་ངུ (dge ba nyam chung ngu) | "virtue/goodness is weak" | "Kindness, thus, is weak" | *dge ba* = virtue/goodness, not "kindness" (skill's own paradigm example) |
+| 1-7 | ⚠ ERROR | ཐུབ་དབང་བཅོམ་ལྡན་འདས་རྣམས (thub dbang bcom ldan 'das rnams) | "the Lord of Sages, the Bhagavats" — an epithet of the Buddhas (thub = sage/muni) | "the mighty King" | *thub dbang* = Lord of Sages / mighty Sage (a Buddha epithet), not "King" — a political-ruler substitution for a Buddha epithet. (Note: the same translation correctly renders the parallel epithet *thub pa* as "the mighty Sage" at 1-34, making this an inconsistent swap.) |
+| 1-10 | ⚠ ERROR | མི་གཙང་བའི་རང་བཞིན་གྱི་ལུས་འདི་བླངས་ (mi gtsang ba'i rang bzhin gyi lus 'di blangs) | "having taken this body of impure nature" — *lus* = the physical body | "it takes our confused perceptions" | Body→mind swap: *lus* = (impure) body, not "confused perceptions." (The commentary's own downstream reference, "the body of the Victor" / rgyal ba'i sku, is correctly kept as "the body of a Buddha" in the English — only the input term was swapped.) |
+| 1-14 | ⚠ ERROR | བྱམས་མགོན་བློ་དང་ལྡན་པས་...བྱང་ཆུབ་སེམས་དཔའ་གཞོན་ནུ་ནོར་བཟང་ལ་བཤད་དོ (byams mgon blo dang ldan pas ... byang chub sems dpa' gzhon nu nor bzang la bshad do) | "the Loving Protector endowed with wisdom [= Maitreya] explained [it] to the young bodhisattva Norzang [= Sudhana]" | "the Wise and Loving Lord explained to Maitreya" | Named-entity/agent-recipient swap: Maitreya is the **explainer** ("Wise and Loving Lord" is his own epithet), and the recipient is **Sudhana** (Nor bzang) — not Maitreya. Sudhana has been dropped and Maitreya wrongly repositioned as the recipient. |
+| 1-19 | ⚠ ERROR | ནམ་མཁའ་དང་མཉམ་པར་རབ་ཏུ་འབྱུང་ (nam mkha' dang mnyam par rab tu 'byung) | merit "arises equal to **space**" (nam mkha') | "rises equal to the depths of the ocean" | Wrong comparison/tenor: *nam mkha'* = space (the standard BCA image for boundless merit), not "the depths of the ocean" — also weakens "boundless" to "very large but finite" |
+| 1-20 | ⚠ ERROR | ལག་བཟངས་ཀྱིས་ནི་ཞུས་པ་ལས (lag bzangs kyis ni zhus pa las) | "from [the sūtra] requested by Lag-bzang(s)" = Subāhu (su-bāhu = "good hand/arm" = *lag bzang*) | "in the sūtra Sāriputra requested" | Wrong named entity: the sūtra cited is the one requested by **Subāhu**, not Śāriputra |
+| 1-20 | ⚠ ERROR | ཐེག་པ་དམན་པ་ལ་མོས་པའི་སེམས་ཅན་ (theg pa dman pa la mos pa'i sems can) | "beings inclined/devoted to the **lesser vehicle** (Hīnayāna)" | "those inclined to simpler paths" | *theg pa dman pa* = lesser vehicle/Hīnayāna specifically, not a vague "simpler paths" (skill's own paradigm example, near-verbatim) |
+| 1-21 | ⚠ ERROR | ཀླད་པའི་ནད་ཙམ་བསལ (klad pa'i nad tsam bsal) | "merely to relieve a **headache**" — the commentary's deliberately trivial example illustrating how even a tiny compassionate wish yields vast merit | "the wish to soothe the aching hearts of other beings" | *klad nad* = headache (a minor physical ailment), not "aching hearts" (an emotional-suffering referent) — this swap undercuts the verse's rhetorical point (a trivial wish → immeasurable merit) |
+| 1-22 | ⚠ ERROR | འགྲོ་བ་ཚད་མེད་པ་ལས་སེམས་ཅན་རེ་རེའི (‘gro ba tshad med pa las sems can re re'i) | wishing to remove the suffering of **each and every one of countless/immeasurable** beings | "the endless pain of a few living beings" | Number/scope reversal: *tshad med pa* / *re re* = countless beings, each one — not "a few" (opposite scope) |
+| 1-23 | ⚠ ERROR | མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པ (mi mjed kyi bdag po tshangs pa) | "Brahmā, lord of the Sahā world" — named as the third/climactic figure (after gods incl. Indra, and rishis) | "even Indra harbor such benevolence" (Brahmā entirely absent; Indra used as the climax instead) | Named-entity swap: the third figure is **Brahmā** (already glossed separately from Indra, who is grouped under "gods"), not a repeated/climactic "Indra" |
+| 1-25 | ⚠ ERROR | སེམས་ཀྱི་རིན་ཆེན་ཁྱད་པར་ཅན...ཆོས་རྨད་ཅིག་འཁྲུངས (sems kyi rin chen khyad par can ... chos rmad cig 'khrungs) | "this extraordinary jewel of **mind**" is born — bodhicitta itself | "this noble, jewellike form of **buddha-body** arises" | Mind→kāya swap: the referent is bodhicitta as a precious **mind**, not a "buddha-body" |
+| 1-29 | ⚠ ERROR | བྱམས་པ་ཆེན་པོས་...སྙིང་རྗེ་ཆེན་པོས (byams pa chen pos bde ba kun kyis tshim par byed pa dang / snying rje chen pos sdug bsngal thams cad rgyun gcod par byed) | bodhisattvas satisfy beings with happiness through **great love**, and cut off all suffering through **great compassion** — the two named instruments | "But those whom bliss fills, when destitute of joy, who cut all pain and suffering away from those weighed down with misery" | *byams pa chen po* (great love) and *snying rje chen po* (great compassion) — the verse's two named causal instruments — are absent from the English, which also garbles the subject/agent structure |
+| 1-33 | ⚠ ERROR | སེམས་ཅན་གྲངས་མེད་པ་མཐའ་ཡས་པ་རྣམས (sems can grangs med pa mtha' yas pa rnams) | bodhisattvas give to **countless, boundless** beings (explicit contrast with the "few beings" fed for half a day in 1-32) | "bestow on a handful of followers" | Number/scope reversal: *grangs med pa mtha' yas pa* = countless/boundless, not "a handful" — this collapses the verse's central few-vs-countless contrast with 1-32 |
+
+**Softening / style notes (not hard errors):**
+
+| Verse | Tibetan (Wylie) | Commentary gloss | English | Note |
+|---|---|---|---|---|
+| 1-9 | ལྷ་དང་ལྷ་མིན་དང་མིར་བཅས་པས (lha dang lha min dang mir bcas pas) | "by gods, **asuras**, and humans" (three groups) | "by gods and humankind" | Drops *lha min* (asuras/demigods) from the enumerated triad — an omission, not a mis-naming, so kept as a soft note rather than an ERROR |
+| 1-36 | སྐུ་ལ་ཕྱག་འཚལ་ (sku la phyag 'tshal) | "I bow to the **body** [of the one in whom bodhicitta arose]" — an explicit bodily/physical veneration, matching the root text's own "lus la'ang phyag 'tshal" | "to them I bow" | Drops the explicit "body" referent, generalizing to "them." Not a mis-naming (not renamed to "dharma" or "mind"), so kept as a soft note, but worth flagging since bodily veneration is the specific point of this famous line |
+
+**Result: 20/36 clean, 16 error rows across 14 verses, 2 softening notes.**
+
+---
+
+## Second pass — kāya/dharma/mind, named entities, number/scope
+
+Dedicated sweep confirms the following categories are fully accounted for above:
+
+- **kāya/dharma/mind swaps (4):** 1-1 (dharmakāya→"dharma," restructured into a separate object of homage), 1-10 (impure body→"confused perceptions"), 1-25 (mind→"buddha-body"), 1-36 (body dropped→generic "them," soft note).
+- **Named-entity errors (3):** 1-14 (Sudhana dropped, Maitreya wrongly made the recipient), 1-20 (Subāhu→"Sāriputra"), 1-23 (Brahmā→"Indra").
+- **Number/scope errors (2 hard + 1 soft):** 1-22 (countless beings→"a few"), 1-33 (countless beings→"a handful"), plus 1-9 (triad→duad, soft).
+- No additional swaps found beyond the first pass.
+
+---
+
+## Completion check
+
+- [x] Commentary, translation file, and bounded scope (Ch. 1, all 36 verses) established before starting.
+- [x] Commentary extracted via `extract_commentary.py`; 0 empty buckets, no cascading-shift artifacts for chapter 1.
+- [x] Every verse (1-1 through 1-36) got a term-alignment pass anchored on the commentary's own glosses before any verdict.
+- [x] Second pass on kāya/entity/number swaps completed (see above).
+- [x] ERRORs (wrong referent) kept distinct from softening/style notes (separate tables above).
+- [x] Report written to the commentary×translation report file.

@@ -156,8 +156,9 @@ citation phrase; the exact verse text from Step 3; a one-line paraphrase-free su
 - 1–2 sentences, brief, warm, inviting — a doorway, not a synopsis.
 - Must state the citation phrase (verbatim or lightly integrated grammatically).
 - Must not explain or paraphrase the verse's meaning — that belongs to Section 4, not here.
+- **No generic formulaic closing.** Do not end with a hollow devotional exhortation that could be pasted onto any day — e.g. "with a joyful mind and great faith, please engage in today's practice" (`སེམས་པ་སྤྲོ་པོ་དང་དད་པ་ཆེན་པོའི་ངང་ནས་... འཇུག་པར་ཞུ།`) names no reason, no image, nothing specific to today, and fails the actual goal of this section. The line beyond the citation phrase must contain something concrete and specific to *these* verses — a vivid image, a genuine question, a felt stake — so the reader senses in one line why today's particular verses are worth pausing for. Feed the prompt a one-line description of what's actually distinctive or evocative in today's verses (not just their topic) so the generator has something specific to work from.
 
-Take the tool's returned text as-is aside from mechanical cleanup (stripping any stray markdown fencing or preamble the model added). If it contains any non-Tibetan-script prose, regenerate with a stricter prompt rather than translating or hand-fixing it.
+Take the tool's returned text as-is aside from mechanical cleanup (stripping any stray markdown fencing or preamble the model added). If it contains any non-Tibetan-script prose, regenerate with a stricter prompt rather than translating or hand-fixing it. If it lapses into a generic closing formula despite the instruction, regenerate with the failing line quoted back to the model as an explicit example of what not to repeat.
 
 ```markdown
 # ☕️ ངོ་སྤྲོད།
@@ -307,6 +308,7 @@ Run this for every day produced, before considering it done:
 - [ ] All six section headings present in order, each `# [emoji] [Tibetan name]` exactly as specified (🪷 ☕️ 📖 💡 💧 📿), except Section 4 may be legitimately absent.
 - [ ] Section 1 and Section 5 are byte-identical to the fixed blocks in this file — no paraphrase, no reordering, no punctuation drift.
 - [ ] Section 2 is 1–2 sentences, states the citation phrase, does not explain verse meaning, and was produced by `gemini_generate` (not authored directly).
+- [ ] Section 2's non-citation sentence is specific to today's actual verses (a concrete image, question, or stake) — not a generic devotional closing that could be pasted onto any day.
 - [ ] Section 2's citation phrase double-checked by hand against the ordinal reference table — chapter and verse ordinals correct.
 - [ ] Section 3 contains only the day's verses, copied verbatim from `bo-བློ་ལྡན་ཤེས་རབ།.md` with intact `^chapter-verse` anchors, no commentary mixed in.
 - [ ] Section 4, if present: opens with exactly the required fixed phrase (correct bracketed option chosen), is grounded only in this verse range's `2-RAILS/Verses/*-summary.md` content, is a single best point rather than several stitched together, and measures <=300 syllables via `scripts/count_syllables.py`.
@@ -325,6 +327,7 @@ Run this for every day produced, before considering it done:
 ## Known failure modes
 
 - Writing Section 2/4/6 prose directly instead of calling `gemini_generate` — defeats the point of this skill's generation discipline.
+- Section 2 closing on a generic devotional formula ("with joyful mind and great faith, please practice") instead of something specific to that day's verses — reads as filler and defeats the "make the reader want to engage with these particular verses" goal.
 - Guessing an ordinal instead of composing it from the decade-prefix table — 35th and 45th look similar but use different prefixes (སོ་ vs ཞེ་).
 - Padding Section 4 to reach the 300-syllable ceiling, or padding Section 6's ཉམས་ལེན་དངོས subsection toward 30 — both ceilings are meant to force concision, not to be hit exactly.
 - Writing Section 6's ཉམས་ལེན་དངོས as a generic, verse-agnostic practice ("be kind today", "notice your breath") instead of a commitment that traces directly back to what the chosen verse itself says.

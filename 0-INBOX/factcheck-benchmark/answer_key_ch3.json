@@ -1,0 +1,287 @@
+{
+  "meta": {
+    "commentary": "1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md",
+    "commentary_name": "Khenpo Ngakwang Kunga Wangchuk (Dzongsar Shedra)",
+    "translation_baseline": "padmakara-ch3-baseline-lines.md (clean, reformatted from en-Padmakara_2006.md)",
+    "translation_under_test": "padmakara-ch3-test.md (mutated: 20 injected errors + 5 unmodified controls)",
+    "scope": "Chapter 3, verses 3-1 through 3-33",
+    "note": "Source 1-SOURCES/Translations/en-Padmakara_2006.md was never edited. Both benchmark files live outside 1-SOURCES/. Commentary used throughout: BCAC20_NKW only. IMPORTANT: the raw en-Padmakara_2006.md file labels one further quatrain '^3-34' (\"And so, today, within the sight of all protectors...\") before the Chapter 4 heading; per the task scope (chapter 3 = 33 verses) this benchmark excludes that block entirely — both baseline and test files stop at ^3-33. Also note: extract_commentary.py's transclusion-marker splitting exhibits a one-verse cascading shift in nkw_commentary.json starting partway through verse 3-2/3-3 (a root-verse couplet is quoted at the tail of one bucket while its own explanation appears at the head of the next-labeled bucket, and from there every JSON key 3-N (N>=4) actually holds the commentary for ENGLISH verse N+1). All anchors/glosses in this answer key were built from the semantically-correct verse content (cross-checked against the Tibetan root-verse quotations), not from naive JSON-key equality. The clean-audit report must document this shift explicitly, per the skill's own cascading-shift instruction."
+  },
+  "items": [
+    {
+      "id": 1,
+      "verse_id": "3-3",
+      "type": "injected",
+      "category": "kaya_dharma_mind",
+      "anchor_bo": "བྱང་ཆུབ་སྐུ་གསུམ་ཡེ་ཤེས་ཡོན་ཏན (byang chub sku gsum ye shes yon tan)",
+      "commentary_gloss": "the ultimate fruit of the completely perfect Buddhas: enlightenment endowed with the THREE KĀYAS (sku gsum) and wisdom-qualities — sku = body/kāya, not mind",
+      "original": "the Buddhahood of the protectors",
+      "injected": "the wisdom-mind of the protectors",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 2,
+      "verse_id": "3-13",
+      "type": "injected",
+      "category": "kaya_dharma_mind",
+      "anchor_bo": "ལུས་འདི་ཉིད (lus 'di nyid)",
+      "commentary_gloss": "THIS BODY (lus) is what has been given for beings to use as they please — repeated explicitly; lus = physical body, not mind",
+      "original": "This body I have now resigned",
+      "injected": "This mind I have now resigned",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 3,
+      "verse_id": "3-31",
+      "type": "injected",
+      "category": "kaya_dharma_mind",
+      "anchor_bo": "སེམས་ཀྱི་ཟླ་བ (sems kyi zla ba)",
+      "commentary_gloss": "the moon of MIND (sems) risen from within the mindstream, dispelling the heat of afflictions in the mind — sems = mind, not body",
+      "original": "the rising moon of the enlightened mind",
+      "injected": "the rising moon of the enlightened body",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 4,
+      "verse_id": "3-2",
+      "type": "injected",
+      "category": "precise_term_softened",
+      "anchor_bo": "བྱང་ཆུབ་ཐོབ་པའི་རྒྱུར་གྱུར་པའི་དགེ་བ (byang chub thob pa'i rgyur gyur pa'i dge ba)",
+      "commentary_gloss": "virtue that is the cause of attaining ENLIGHTENMENT/liberation (byang chub) — specifically the śrāvaka/pratyekabuddha fruit of arhatship — a technical liberation attainment, not a vague 'better rebirth' within saṃsāra",
+      "original": "cause of gaining the enlightened state",
+      "injected": "cause of gaining a better rebirth",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 5,
+      "verse_id": "3-24",
+      "type": "injected",
+      "category": "precise_term_softened",
+      "anchor_bo": "བསླབ་པ (bslab pa)",
+      "commentary_gloss": "the formal bodhisattva TRAININGS/precepts — explicitly the three-tiered vow-classes (restraint / virtue-gathering / benefiting-beings precepts) the commentary details at length here — a formal doctrinal category, not vague 'habits'",
+      "original": "and in those precepts, step-by-step, I will abide and train myself",
+      "injected": "and in those habits, step-by-step, I will abide and train myself",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 6,
+      "verse_id": "3-10",
+      "type": "injected",
+      "category": "precise_term_softened",
+      "anchor_bo": "མི་ཟད་པའི་གཏེར (mi zad pa'i gter)",
+      "commentary_gloss": "an INEXHAUSTIBLE/never-ending treasure of resources — mi zad pa = literally endless, not merely occasional",
+      "original": "may I become a treasure ever-plentiful",
+      "injected": "may I become a treasure sometimes plentiful",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 7,
+      "verse_id": "3-23",
+      "type": "injected",
+      "category": "named_entity",
+      "anchor_bo": "བྱང་ཆུབ་སེམས་དཔའི་བསླབ་པ (byang chub sems dpa'i bslab pa)",
+      "commentary_gloss": "the BODHISATTVA precepts specifically — the commentary explicitly contrasts this with the śrāvaka vow-taking system, which it says 'does not exist nowadays' (de'i lugs deng sang med)",
+      "original": "and in the precepts of the Bodhisattvas step-by-step abode and trained,",
+      "injected": "and in the precepts of the Śrāvakas step-by-step abode and trained,",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 8,
+      "verse_id": "3-4",
+      "type": "injected",
+      "category": "number_scope",
+      "anchor_bo": "སེམས་ཅན་ཐམས་ཅད (sems can thams cad)",
+      "commentary_gloss": "ALL beings (thams cad) — the mind that wishes to place ALL beings, without exception, in the state of happiness",
+      "original": "that seeks to place all beings in the state of bliss",
+      "injected": "that seeks to place some beings in the state of bliss",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 9,
+      "verse_id": "3-6",
+      "type": "injected",
+      "category": "number_scope",
+      "anchor_bo": "བསྐལ་པ་གྲངས་མེད (bskal pa grangs med)",
+      "commentary_gloss": "for many COUNTLESS great eons (bskal pa bskal chen grangs med pa du ma) — an explicitly innumerable span, not a finite hundred",
+      "original": "stay among us for unnumbered ages!",
+      "injected": "stay among us for a hundred ages!",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 10,
+      "verse_id": "3-7",
+      "type": "injected",
+      "category": "number_scope",
+      "anchor_bo": "མཁའ་ཁྱབ་ཀྱི་སེམས་ཅན་ཐམས་ཅད (mkha' khyab kyi sems can thams cad)",
+      "commentary_gloss": "ALL beings pervading the whole of space (mkha' khyab, thams cad) — a universal, boundless scope, not merely 'many'",
+      "original": "may all the pain of every living being be wholly scattered and destroyed!",
+      "injected": "may all the pain of many a living being be wholly scattered and destroyed!",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 11,
+      "verse_id": "3-21",
+      "type": "injected",
+      "category": "number_scope",
+      "anchor_bo": "སེམས་ཅན་གྲངས་མེད་པ་དཔག་ཏུ་མེད་པ (sems can grangs med pa dpag tu med pa)",
+      "commentary_gloss": "COUNTLESS, IMMEASURABLE beings — an explicitly infinite/unbounded scope, not merely 'many'",
+      "original": "for boundless multitudes of beings",
+      "injected": "for many multitudes of beings",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 12,
+      "verse_id": "3-22",
+      "type": "injected",
+      "category": "number_scope",
+      "anchor_bo": "ནམ་མཁའི་མཐས་གཏུགས་པ (nam mkha'i mthas gtugs pa)",
+      "commentary_gloss": "reaching to the very LIMITS OF SPACE — an explicitly boundless/infinite scope, not a bounded visual range",
+      "original": "as far as are the limits of the sky",
+      "injected": "as far as the eye can see",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 13,
+      "verse_id": "3-30",
+      "type": "injected",
+      "category": "number_scope",
+      "anchor_bo": "ཉོན་མོངས་པ་བརྒྱད་ཁྲི་བཞི་སྟོང་ཐམས་ཅད (nyon mongs pa brgyad khri bzhi stong thams cad)",
+      "commentary_gloss": "cures ALL 84,000 kinds of affliction — an explicit total count reinforcing thams cad ('all'), not merely 'most'",
+      "original": "It is the sovereign remedy that perfectly allays all maladies.",
+      "injected": "It is the sovereign remedy that perfectly allays most maladies.",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 14,
+      "verse_id": "3-16",
+      "type": "injected",
+      "category": "agent_role",
+      "anchor_bo": "དེ་དག་གི་ཡིད་ལ་བསམ་པའི་དོན (de dag gi yid la bsam pa'i don)",
+      "commentary_gloss": "THEIR OWN aims/wishes are what get fulfilled by this cause — the beneficiary is the other being (dgra gnyen/sems can), not the speaker",
+      "original": "may these states always be the cause whereby their good and wishes are fulfilled",
+      "injected": "may these states always be the cause whereby my good and wishes are fulfilled",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 15,
+      "verse_id": "3-17",
+      "type": "injected",
+      "category": "agent_role",
+      "anchor_bo": "དེ་ཐམས་ཅད་བླ་ན་མེད་པ་རྫོགས་པའི་བྱང་ཆུབ་ཀྱི་སྐལ་བ་དང་ལྡན་པར་གྱུར་ཅིག (de thams cad byang chub kyi skal ba dang ldan par gyur cig)",
+      "commentary_gloss": "may ALL THOSE [aggressors/harmers] become endowed with the fortune of enlightenment — the beneficiary is explicitly the offending others, not the speaker",
+      "original": "may they attain the fortune of enlightenment!",
+      "injected": "may I attain the fortune of enlightenment!",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 16,
+      "verse_id": "3-29",
+      "type": "injected",
+      "category": "agent_role",
+      "anchor_bo": "འཇོམས་བྱེད་པ ('joms byed pa)",
+      "commentary_gloss": "[bodhicitta] itself is what DESTROYS/slays the Lord of Death — bodhicitta is the agent of destruction, not its victim",
+      "original": "This is the supreme draft of immortality that slays the Lord of Death, the slaughterer of beings,",
+      "injected": "This is the supreme draft of immortality that is slain by the Lord of Death, the slaughterer of beings,",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 17,
+      "verse_id": "3-18",
+      "type": "injected",
+      "category": "enumeration_order",
+      "anchor_bo": "གྲུ་དང་གཟིངས་དང་ཟམ་པ (gru dang gzings dang zam pa)",
+      "commentary_gloss": "fixed order: boat (gru), then raft (gzings), then bridge (zam pa), for beings wishing to cross a great river or ocean",
+      "original": "may I be a boat, a raft, a bridge.",
+      "injected": "may I be a bridge, a raft, a boat.",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 18,
+      "verse_id": "3-19",
+      "type": "injected",
+      "category": "enumeration_order",
+      "anchor_bo": "གླིང་... མར་མེ (gling / mar me)",
+      "commentary_gloss": "fixed sequence in the commentary: island first (for those lost at sea craving land), THEN lamp (for those in darkness)",
+      "original": "May I be an isle for those who yearn for land, a lamp for those who long for light;",
+      "injected": "May I be a lamp for those who long for light, an isle for those who yearn for land;",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 19,
+      "verse_id": "3-28",
+      "type": "injected",
+      "category": "simile_tenor",
+      "anchor_bo": "ཕྱག་དར་ཕུང་པོ (phyag dar phung po)",
+      "commentary_gloss": "a heap of filthy roadside SWEEPINGS/RUBBISH — explicitly worthless refuse (symbolizing the practitioner's own afflictions); the simile depends on the contrast between worthless filth and a precious jewel, not a heap of already-valuable gold",
+      "original": "who has found a precious gem inside a heap of dust",
+      "injected": "who has found a precious gem inside a heap of gold",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 20,
+      "verse_id": "3-32",
+      "type": "injected",
+      "category": "simile_tenor",
+      "anchor_bo": "དམ་ཆོས་འོ་མ (dam chos 'o ma)",
+      "commentary_gloss": "the milk of the HOLY DHARMA/teaching (heard, contemplated, meditated upon) — explicitly what gets churned into the butter of realization, not literal milk from any wish-granting animal",
+      "original": "the creamy butter, rich and full, that’s churned from milk of holy teaching.",
+      "injected": "the creamy butter, rich and full, that’s churned from the milk of the wish-granting cow.",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 21,
+      "verse_id": "3-1",
+      "type": "control",
+      "category": "negative_control_unmodified",
+      "original": "(unmodified)",
+      "injected": null,
+      "expected_verdict": "CLEAN"
+    },
+    {
+      "id": 22,
+      "verse_id": "3-9",
+      "type": "control",
+      "category": "negative_control_unmodified",
+      "original": "(unmodified)",
+      "injected": null,
+      "expected_verdict": "CLEAN"
+    },
+    {
+      "id": 23,
+      "verse_id": "3-15",
+      "type": "control",
+      "category": "negative_control_unmodified",
+      "original": "(unmodified)",
+      "injected": null,
+      "expected_verdict": "CLEAN"
+    },
+    {
+      "id": 24,
+      "verse_id": "3-20",
+      "type": "control",
+      "category": "negative_control_unmodified",
+      "original": "(unmodified)",
+      "injected": null,
+      "expected_verdict": "CLEAN"
+    },
+    {
+      "id": 25,
+      "verse_id": "3-33",
+      "type": "control",
+      "category": "negative_control_unmodified",
+      "original": "(unmodified)",
+      "injected": null,
+      "expected_verdict": "CLEAN"
+    }
+  ],
+  "category_counts": {
+    "kaya_dharma_mind": 3,
+    "precise_term_softened": 3,
+    "named_entity": 1,
+    "number_scope": 6,
+    "agent_role": 3,
+    "enumeration_order": 2,
+    "simile_tenor": 2,
+    "negative_control_unmodified": 5
+  }
+}

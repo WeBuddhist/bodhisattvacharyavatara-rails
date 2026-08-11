@@ -1,0 +1,288 @@
+{
+  "meta": {
+    "commentary": "1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md",
+    "commentary_name": "Khenpo Ngakwang Kunga Wangchuk (Dzongsar Shedra)",
+    "translation_baseline": "padmakara-ch2-baseline-lines.md (clean, reformatted from en-Padmakara_2006.md)",
+    "translation_under_test": "padmakara-ch2-test.md (mutated: 20 injected errors + 5 unmodified controls)",
+    "scope": "Chapter 2, verses 2-1 through 2-65",
+    "note": "Source 1-SOURCES/Translations/en-Padmakara_2006.md was never edited. Both benchmark files live outside 1-SOURCES/. Commentary used throughout: BCAC20_NKW only."
+  },
+  "items": [
+    {
+      "id": 1,
+      "verse_id": "2-1",
+      "type": "injected",
+      "category": "kaya_dharma_mind",
+      "anchor_bo": "རིན་ཆེན་སེམས (rin chen sems)",
+      "commentary_gloss": "the precious mind [of awakening] — bodhicitta (byang chub kyi sems) to be grasped/generated in one's own and others' mindstreams; sems = mind, not a physical form/body",
+      "original": "this precious attitude",
+      "injected": "this precious form",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 2,
+      "verse_id": "2-14",
+      "type": "injected",
+      "category": "kaya_dharma_mind",
+      "anchor_bo": "ཐུབ་དབང་ཀུན་གྱི་སྐུ (thub dbang kun gyi sku)",
+      "commentary_gloss": "the bodies (sku lus) of all the completely perfect Buddhas, anointed with fragrant water like burnished gold",
+      "original": "the bodies of the mighty Sages",
+      "injected": "the minds of the mighty Sages",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 3,
+      "verse_id": "2-48",
+      "type": "injected",
+      "category": "kaya_dharma_mind",
+      "anchor_bo": "དེ་ཡི་ཐུགས་སུ་ཆུད་པའི་ཆོས (de yi thugs su chud pa'i chos)",
+      "commentary_gloss": "the Dharma-jewel (chos dkon mchog: cessation-truth and path-truth) realized in the Buddha's mind, which dispels the terrors of saṃsāra — chos = Dharma, not a generic 'wisdom'",
+      "original": "the Dharma they have realized in their hearts",
+      "injected": "the wisdom they hold in their hearts",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 4,
+      "verse_id": "2-9",
+      "type": "injected",
+      "category": "precise_term_softened",
+      "anchor_bo": "སྔོན་གྱི་སྡིག (sngon gyi sdig)",
+      "commentary_gloss": "former sin / nonvirtuous karma (sdig pa), purified through the four powers (gnyen po stobs bzhi) — a doctrinally precise term, not a generic 'mistake'",
+      "original": "the evils of my past",
+      "injected": "the mistakes of my past",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 5,
+      "verse_id": "2-30",
+      "type": "injected",
+      "category": "precise_term_softened",
+      "anchor_bo": "ཉོན་མོངས (nyon mongs)",
+      "commentary_gloss": "afflictive emotions/kleshas, glossed at 2-31 as 'dod chags dang khong khro/nga rgyal/phrag dog dang 'gran sems/gnod sems la sogs pa (desire, anger, pride, jealousy, malice, etc.) — a specific technical class, not vague 'weaknesses'",
+      "original": "my defilements",
+      "injected": "my weaknesses",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 6,
+      "verse_id": "2-63",
+      "type": "injected",
+      "category": "precise_term_softened",
+      "anchor_bo": "བཅས་པའི་སྡིག་པ (bcas pa'i sdig pa)",
+      "commentary_gloss": "prohibitively-wrong misdeeds / vow-transgressions, explicitly distinguished from rang bzhin gyi kha na ma tho ba (naturally-unwholesome acts) via the ordained-vow classes (dge bsnyen/dge tshul/dge slong/bsnyen gnas) — not vague 'carelessness'",
+      "original": "transgressions of the precepts",
+      "injected": "minor slips of conduct",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 7,
+      "verse_id": "2-13",
+      "type": "injected",
+      "category": "named_entity",
+      "anchor_bo": "འཇིག་རྟེན་དབང་ཕྱུག ('jig rten dbang phyug)",
+      "commentary_gloss": "Lokeśvara/Avalokiteśvara, named third alongside Kun tu bzang po (Samantabhadra) and 'Jam dpal dbyangs (Mañjughoṣa) as recipients of the adornment offering",
+      "original": "Lokeshvara",
+      "injected": "Maitreya",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 8,
+      "verse_id": "2-50",
+      "type": "injected",
+      "category": "named_entity",
+      "anchor_bo": "སྤྱན་རས་གཟིགས་མགོན (spyan ras gzigs mgon), ཕྱག་ན་པདྨོ ('phags mchog phyag na padmo)",
+      "commentary_gloss": "Avalokiteśvara, 'lord of unfailing compassionate deeds', addressed by name and epithet ('lotus in hand') as the object of this specific cry for refuge",
+      "original": "my lord Avalokita,",
+      "injected": "my lord Vajrapaṇi,",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 9,
+      "verse_id": "2-52",
+      "type": "injected",
+      "category": "named_entity",
+      "anchor_bo": "ཕྱག་ན་རྡོ་རྗེ་ཅན (phyag na rdo rje can)",
+      "commentary_gloss": "Vajrapāṇi, named explicitly as the bodhisattva at whose sight Yama's messengers and other hostile forces flee in terror to the four directions",
+      "original": "To Vajrapaṇi I shall fly,",
+      "injected": "To Samantabhadra I shall fly,",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 10,
+      "verse_id": "2-24",
+      "type": "injected",
+      "category": "number_scope",
+      "anchor_bo": "ཞིང་རྡུལ་ཀུན་གྱི་གྲངས་སྙེད (zhing rdul kun gyi grangs snyed)",
+      "commentary_gloss": "bodies equal in number to ALL the dust-motes of the boundlessly vast buddha-fields (zhing khams rab 'byams kyi rdul) — an explicitly countless/universal number, not a handful",
+      "original": "the grains of dust upon the earth",
+      "injected": "the grains of dust upon my palm",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 11,
+      "verse_id": "2-47",
+      "type": "injected",
+      "category": "number_scope",
+      "anchor_bo": "འཇིགས་པ་ཀུན་སེལ ('jigs pa kun sel)",
+      "commentary_gloss": "dispels ALL fears without exception (kun = all) — the fears of saṃsāra, birth, aging, sickness and death, universally, not merely certain/some fears",
+      "original": "every fear",
+      "injected": "certain fears",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 12,
+      "verse_id": "2-56",
+      "type": "injected",
+      "category": "number_scope",
+      "anchor_bo": "ཟུག་རྔུ་ཐམས་ཅད་འབྱིན་པ (zug rngu thams cad 'byin pa)",
+      "commentary_gloss": "extracts/uproots ALL pains without exception (thams cad), reinforced by the commentary's explicit count of the 84,000 kinds of affliction (nyon mongs pa'i nad brgyad khri bzhi stong) this Dharma-medicine cures",
+      "original": "our every ill",
+      "injected": "a few of our ills",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 13,
+      "verse_id": "2-8",
+      "type": "injected",
+      "category": "number_scope",
+      "anchor_bo": "ལུས་ཀུན་དུས་གཏན་དུ (lus kun dus gtan du)",
+      "commentary_gloss": "ALL bodies to be taken in future lives, offered PERMANENTLY/forever (kun ... dus gtan du) — not limited to the remainder of the present life",
+      "original": "throughout all my lives",
+      "injected": "for the rest of this life",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 14,
+      "verse_id": "2-6",
+      "type": "injected",
+      "category": "agent_role",
+      "anchor_bo": "བདག་གི་འདི་དག་བཞེས (bdag gi 'di dag bzhes)",
+      "commentary_gloss": "[you, the worthy recipients,] ACCEPT these of mine (bzhes = accept/receive) — the Buddhas/bodhisattvas are the recipients of the offering, the practitioner the giver; the verb's agent is reversed if they instead bestow gifts",
+      "original": "accept these gifts of mine!",
+      "injected": "bestow these gifts on me!",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 15,
+      "verse_id": "2-28",
+      "type": "injected",
+      "category": "agent_role",
+      "anchor_bo": "བགྱིད་དུ་སྩལ་བ (bgyid du stsal ba)",
+      "commentary_gloss": "[I] caused/incited [others] to do [evil] (bgyid du stsal ba = caused to be done) — the confessing practitioner is the instigator/agent acting on others, not the one instigated",
+      "original": "incited others to commit the same",
+      "injected": "was incited by others to commit the same",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 16,
+      "verse_id": "2-62",
+      "type": "injected",
+      "category": "agent_role",
+      "anchor_bo": "མི་དགེ་བ་ལས་སྡུག་བསྔལ་འབྱུང (mi dge ba las sdug bsngal 'byung)",
+      "commentary_gloss": "suffering ARISES FROM non-virtue (las...'byung = arises from) — non-virtuous action is explicitly the cause/agent and suffering the resulting effect, not the reverse",
+      "original": "evil, only cause of sorrow",
+      "injected": "sorrow, only cause of evil",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 17,
+      "verse_id": "2-25",
+      "type": "injected",
+      "category": "enumeration_order",
+      "anchor_bo": "མཁན་པོ་དེ་བཞིན་སློབ་དཔོན (mkhan po de bzhin slob dpon)",
+      "commentary_gloss": "preceptors (mkhan po, who confer the vows) named first, THEN LIKEWISE (de bzhin) teachers (slob dpon) — a fixed sequential order in the commentary's enumeration of objects of prostration",
+      "original": "to abbots who transmit the vows, to every learned master,",
+      "injected": "to every learned master, to abbots who transmit the vows,",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 18,
+      "verse_id": "2-26",
+      "type": "injected",
+      "category": "enumeration_order",
+      "anchor_bo": "སངས་རྒྱས་...ཆོས་དང་...དགེ་འདུན (sangs rgyas / chos / dge 'dun)",
+      "commentary_gloss": "refuge is taken in the fixed order Buddha, then Dharma, then Sangha (bodhisattva assembly) — the commentary devotes an extended seven-point doctrinal excursus at this verse to this exact sequence",
+      "original": "Also I take refuge in the Dharma and in all the host of Bodhisattvas.",
+      "injected": "Also I take refuge in the host of Bodhisattvas and in all the Dharma.",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 19,
+      "verse_id": "2-45",
+      "type": "injected",
+      "category": "wrong_referent_other",
+      "anchor_bo": "མིག་བགྲད (mig bgrad)",
+      "commentary_gloss": "eyes wide/bulging in terror (mig = eyes) — the commentary describes this death-panic scene in vivid physiological detail (eyes rolling upward, pupils retracting), not hands",
+      "original": "panic-stricken eyes",
+      "injected": "panic-stricken hands",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 20,
+      "verse_id": "2-36",
+      "type": "injected",
+      "category": "simile_tenor",
+      "anchor_bo": "རྨི་ལམ (rmi lam)",
+      "commentary_gloss": "a dream — the specific simile the commentary names ('dpe ji ltar na rmi lam nyams su myong ba bzhin') for how everything enjoyed becomes a mere object of memory; the vehicle is a dream, not any other image",
+      "original": "the fleeting vision of a dream",
+      "injected": "a candle guttering in the wind",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 21,
+      "verse_id": "2-3",
+      "type": "control",
+      "category": "negative_control_unmodified",
+      "original": "(unmodified)",
+      "injected": null,
+      "expected_verdict": "CLEAN"
+    },
+    {
+      "id": 22,
+      "verse_id": "2-17",
+      "type": "control",
+      "category": "negative_control_unmodified",
+      "original": "(unmodified)",
+      "injected": null,
+      "expected_verdict": "CLEAN"
+    },
+    {
+      "id": 23,
+      "verse_id": "2-33",
+      "type": "control",
+      "category": "negative_control_unmodified",
+      "original": "(unmodified)",
+      "injected": null,
+      "expected_verdict": "CLEAN"
+    },
+    {
+      "id": 24,
+      "verse_id": "2-43",
+      "type": "control",
+      "category": "negative_control_unmodified",
+      "original": "(unmodified)",
+      "injected": null,
+      "expected_verdict": "CLEAN"
+    },
+    {
+      "id": 25,
+      "verse_id": "2-60",
+      "type": "control",
+      "category": "negative_control_unmodified",
+      "original": "(unmodified)",
+      "injected": null,
+      "expected_verdict": "CLEAN"
+    }
+  ],
+  "category_counts": {
+    "kaya_dharma_mind": 3,
+    "precise_term_softened": 3,
+    "named_entity": 3,
+    "number_scope": 4,
+    "agent_role": 3,
+    "enumeration_order": 2,
+    "wrong_referent_other": 1,
+    "simile_tenor": 1,
+    "negative_control_unmodified": 5
+  }
+}

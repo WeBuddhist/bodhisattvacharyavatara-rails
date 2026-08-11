@@ -13,39 +13,55 @@ Both translation files are wording-identical to the real, published Padmakara (2
 
 ---
 
-## Clean audit — no error injection
+## Table 1 — Clean audit (no error injection)
 
 **File audited:** `padmakara-ch2-baseline-lines.md` (= real Padmakara wording, reformatted only)
 
 **Result: 63/65 verses clean, 1 hard ERROR, 1 softening note.**
 
-This surfaced a genuine finding in the real, published translation:
-
 | Verse | Verdict | Tibetan (Wylie) | Commentary gloss | English | Issue |
 |---|---|---|---|---|---|
-| 2-38 | ⚠ ERROR | gti mug / chags / zhe sdang | the three poisons in the fixed order **ignorance → attachment → aversion** | "through **hatred, lust, and ignorance**" | The English reverses the commentary's order — a real, pre-existing mistranslation, not an injected one |
+| 2-38 | ⚠ ERROR | gti mug / chags / zhe sdang | the three poisons in the fixed order **ignorance → attachment → aversion** | "through **hatred, lust, and ignorance**" | The English reverses the commentary's order — a real, pre-existing mistranslation, not injected |
 | 2-24 | softening | zhing rdul kun (dust of **all** buddha-fields) | cosmological, countless scope | "grains of dust upon **the earth**" | Narrows scope but doesn't rename the referent |
+
+This surfaced a genuine finding in the real, published translation (2-38) — independent of the benchmark.
 
 ---
 
-## Detection benchmark — 20 injected errors
+## Table 2 — Detection benchmark (20 injected errors)
 
 **File audited:** `padmakara-ch2-test.md` (answer key: `answer_key_ch2.json`)
 
-**Result: 10/20 injected errors caught as hard ERROR → Recall = 50.0%.** A further 4 were logged as softening notes only (flagged, but not at ERROR severity); 6 were missed with no flag at all.
+**Result: 10/20 injected errors caught as hard ERROR → Recall = 50.0%.**
 
-### Recall by category
+| Verse | Verdict | Tibetan (Wylie) | Commentary gloss | English | Fix |
+|---|---|---|---|---|---|
+| 2-1 | ⚠ ERROR | རིན་ཆེན་སེམས (rin chen sems) | precious **mind** (bodhicitta) | "that I might gain this precious form" | *sems* = mind/bodhicitta, not "form" |
+| 2-8 | ⚠ ERROR | ལུས་ཀུན་གཏན་དུ (lus kun gtan du) | offer the body **forever**, across all future lives | "I offer you my body for the rest of this life" | scope wrongly narrowed from "forever" to just this life |
+| 2-13 | ⚠ ERROR | འཇིག་རྟེན་དབང་ཕྱུག (Lokeshvara) | named as **Avalokiteśvara** | "...Mañjughoṣha, Maitreya, and their kin" | wrong named entity: should be Avalokiteśvara, not Maitreya |
+| 2-14 | ⚠ ERROR | ཐུབ་དབང་ཀུན་གྱི་སྐུ (sku = body) | anoint the **bodies** of the Buddhas | "I will anoint the minds of the mighty Sages" | *sku* = body, not mind |
+| 2-24 | ⚠ ERROR | ཞིང་རྡུལ་ཀུན་གྱི་གྲངས་སྙེད (dust of all buddha-fields) | dust-motes of **all countless buddha-realms** | "bodies many as the grains of dust upon my palm" | scope collapsed from cosmic/countless to a handful |
+| 2-28 | ⚠ ERROR | བགྱིད་དུ་སྩལ་བ (I caused another) | "**I** caused another to commit [sin]" | "was incited by others to commit the same" | agent reversed |
+| 2-45 | ⚠ ERROR | མིག་བགྲད་ནས (eyes wide) | eyes rolled up/staring in terror | "seeking help, with panic-stricken hands" | body part swapped: should be eyes, not hands |
+| 2-50 | ⚠ ERROR | སྤྱན་རས་གཟིགས་མགོན (Avalokiteśvara) | named explicitly as **Avalokiteśvara**, Lotus-in-Hand | "my lord Vajrapaṇi, I cry out..." | wrong named entity |
+| 2-52 | ⚠ ERROR | ཕྱག་ན་རྡོ་རྗེ་ཅན (Vajrapāṇi) | Bodhisattva **Vajrapāṇi** | "To Samantabhadra I shall fly..." | wrong named entity — 2-50/2-52 form a coherent one-step name shift |
+| 2-56 | ⚠ ERROR | ཟུག་རྔུ་ཐམས་ཅད་འབྱིན་པ (uproots all) | uproots **every single one, without exception** | "words...which uproot a few of our ills" | *thams cad* = all, not "a few" — meaning inverted |
 
-| Category | Caught (ERROR) / Total | Recall | Notes |
-|---|---|---|---|
-| kāya / dharma / mind swaps | 2 / 3 | 66.7% | 2-1, 2-14 caught; 2-48 downgraded to softening |
-| Precise term softened to vague synonym | 0 / 3 | 0% | 2-9 downgraded to softening; 2-30, 2-63 missed entirely |
-| Wrong named entity | 3 / 3 | 100% | 2-13, 2-50, 2-52 all caught — the skill also flagged the 2-50/2-52 pair as a coherent "one-step name shift" pattern |
-| Wrong number / scope | 3 / 4 | 75% | 2-8, 2-24, 2-56 caught; 2-47 missed entirely |
-| Wrong grammatical agent / role | 1 / 3 | 33.3% | 2-28 caught; 2-62 downgraded to softening; 2-6 missed entirely |
-| Wrong enumeration order | 0 / 2 | 0% | 2-25 downgraded to softening; 2-26 missed entirely |
-| Other wrong referent (body part) | 1 / 1 | 100% | 2-45 caught |
-| Wrong simile tenor | 0 / 1 | 0% | 2-36 missed entirely |
+### Softening / mismatch notes (not hard errors)
+
+| Verse | Note |
+|---|---|
+| 2-9 | "sin" (sdig pa) softened to "mistakes" |
+| 2-21 | "stupas" (mchod rten) collapsed into generic "all supports for offering" |
+| 2-25 | enumeration order: preceptor/teacher pair reversed |
+| 2-29 | ambiguous whose sin is being rejoiced in |
+| 2-38 | three-poisons reordering — same real issue as the clean run, but demoted to softening here |
+| 2-48 | "Dharma" (chos) paraphrased as generic "wisdom" |
+| 2-60 | "teacher's precepts" narrows a broader gloss — this is one of the 5 formal negative controls |
+| 2-62 | reads as reversing cause/effect on a literal parse |
+| 2-65 | object shifted from "sins" to "me" — minor personalization |
+
+**Result: 46/65 clean, 10 errors, 9 softening notes.**
 
 ### Cases missed entirely (no flag at all)
 
@@ -58,20 +74,31 @@ This surfaced a genuine finding in the real, published translation:
 
 ### Cases caught only as a softening note, not a hard ERROR
 
-- **2-48** — "the Dharma they realized" → "the wisdom they hold" (kāya/dharma-class swap, but logged as a defensible gloss)
-- **2-9** — "evils of my past" → "mistakes of my past"
-- **2-62** — agent/cause-effect reversal, noted as "reads as reversing cause/effect" but not escalated to ERROR
-- **2-25** — enumeration order swap, correctly identified as an order issue but kept at softening severity
+- **2-48** — kāya/dharma-class swap, logged as a defensible gloss rather than ERROR
+- **2-9** — "evils" → "mistakes"
+- **2-62** — agent/cause-effect reversal, not escalated to ERROR
+- **2-25** — enumeration order swap, correctly identified but kept at softening severity
+
+### Recall by category
+
+| Category | Caught (ERROR) / Total | Recall |
+|---|---|---|
+| kāya / dharma / mind swaps | 2 / 3 | 66.7% |
+| Precise term softened to vague synonym | 0 / 3 | 0% |
+| Wrong named entity | 3 / 3 | 100% |
+| Wrong number / scope | 3 / 4 | 75% |
+| Wrong grammatical agent / role | 1 / 3 | 33.3% |
+| Wrong enumeration order | 0 / 2 | 0% |
+| Other wrong referent (body part) | 1 / 1 | 100% |
+| Wrong simile tenor | 0 / 1 | 0% |
 
 ### False positives / soft flags on negative controls
 
-None of the 5 formal negative-control verses (2-3, 2-17, 2-33, 2-43, 2-60) received a hard ERROR verdict. One control (**2-60**) did receive a softening note ("teacher's precepts" narrowing a broader gloss) — a defensible style read on real, unmodified wording, not a confirmed defect.
+None of the 5 formal negative-control verses (2-3, 2-17, 2-33, 2-43, 2-60) received a hard ERROR verdict. One control (**2-60**) did receive a softening note, a defensible style read on real, unmodified wording.
 
 ---
 
 ## Comparison: before vs. after error injection
-
-Same translation, same commentary (BCAC20_NKW), same 65 verses — the only difference between the two runs is whether the 20 errors are present.
 
 | Metric | Before injection (clean) | After injection |
 |---|---|---|
@@ -81,7 +108,7 @@ Same translation, same commentary (BCAC20_NKW), same 65 verses — the only diff
 | Softening / style notes | 1 | 9 |
 | Verses fully clean (no ERROR, no note) | 63 | 46 |
 
-Notably, **verse 2-38's real error (three-poisons reordering) was demoted from a hard ERROR in the clean run to a softening note in the injected run**, even though the wording at that verse didn't change between the two files — a sign of some run-to-run inconsistency in severity judgment, not just a function of what's actually on the page. Every other hard ERROR in the "after" run does trace back to one of the 20 deliberately injected changes.
+Notably, **verse 2-38's real error (three-poisons reordering) was demoted from a hard ERROR in the clean run to a softening note in the injected run**, even though the wording at that verse didn't change between the two files — a sign of some run-to-run inconsistency in severity judgment, not just a function of what's actually on the page.
 
 ---
 
@@ -96,7 +123,7 @@ Notably, **verse 2-38's real error (three-poisons reordering) was demoted from a
 | Hard false positives on controls | 0/5 | 0/5 |
 | Soft flags on controls | 2/5 | 1/5 |
 
-Recall dropped sharply on Chapter 2 relative to Chapter 1 under the same commentary. The weakest categories this chapter — precise-term softening (0%), enumeration order (0%), and agent/role (33%) — are largely the same categories that were weak in Chapter 1, but this chapter also lost ground on cases that should have been straightforward (e.g. 2-47's clear "every"→"certain" scope change went unflagged, where equivalent cases in Chapter 1 were caught). This is consistent with the earlier finding that word-relationship and modifier-level errors are this skill's structural blind spot — and suggests that blind spot gets worse, not better, as chapters get longer and the commentary's own explicitness per verse thins out.
+Recall dropped sharply on Chapter 2 relative to Chapter 1 under the same commentary. The weakest categories this chapter — precise-term softening (0%), enumeration order (0%), and agent/role (33%) — are largely the same categories that were weak in Chapter 1, but this chapter also lost ground on cases that should have been straightforward.
 
 ---
 

@@ -13,15 +13,11 @@ Both translation files are wording-identical to the real, published Padmakara (2
 
 ---
 
-## Clean audit — no error injection
+## Table 1 — Clean audit (no error injection)
 
 **File audited:** `padmakara-ch1-baseline-lines.md` (= real Padmakara wording, reformatted only)
 
 **Result: 32/36 verses clean with no notes at all, 4/36 carrying a soft style note, 0 hard ERRORs.**
-
-Every kāya/body occurrence stayed "body" and was never collapsed into "dharma" or "mind"; the two named sūtra-recipients (Subāhu at 1-20, Sudhana at 1-14) were correctly kept distinct; the plantain-tree and alchemy similes were exact; and the vow/discipline gloss for *sdom pa* at 1-1 was exact. In other words: on this chapter, against this commentary, the real Padmakara translation has no referent-level errors of the kind this skill is built to catch.
-
-Four minor style notes were logged (none renames a referent, so none is a hard error):
 
 | Verse | Tibetan (Wylie) | Commentary gloss | English | Note |
 |---|---|---|---|---|
@@ -30,13 +26,41 @@ Four minor style notes were logged (none renames a referent, so none is a hard e
 | 1-21 | ཕན་འདོགས་བསམ་པ (phan 'dogs bsam pa) | a benevolent *intention* to help (not a giving/dāna term) | "with **kindly generosity**" | Imports a more specific "generosity" sense not present in the Tibetan |
 | 1-36 | སྐུ་ལ་ཕྱག་འཚལ (...sku la phyag 'tshal) | object of prostration is literally the **body** | "to **them** I bow" | *sku* generalized to "them" rather than named explicitly |
 
+Every kāya/body occurrence stayed "body" and was never collapsed into "dharma" or "mind"; the two named sūtra-recipients (Subāhu at 1-20, Sudhana at 1-14) were correctly kept distinct; the plantain-tree and alchemy similes were exact; and the vow/discipline gloss for *sdom pa* at 1-1 was exact. No hard referent errors found anywhere in the real, unmodified chapter.
+
 ---
 
-## Detection benchmark — 20 injected errors
+## Table 2 — Detection benchmark (20 injected errors)
 
-**File audited:** `padmakara-ch1-test.md` (same fault-injected file used throughout this benchmark; answer key: `answer_key.json`)
+**File audited:** `padmakara-ch1-test.md` (answer key: `answer_key.json`)
 
-**Result: 17/20 injected errors caught → Recall = 85.0%**
+**Result: 17/20 injected errors caught as hard ERROR → Recall = 85.0%.**
+
+| Verse | Verdict | Tibetan (Wylie) | Commentary gloss | English | Fix |
+|---|---|---|---|---|---|
+| 1-1 | ⚠ ERROR | ཆོས་ཀྱི་སྐུ (chos kyi sku) | dharmakāya, a buddha-body attribute of the Sugata | "the dharma they embody" | should be "the dharma-body," not "the dharma" as a separate object of homage |
+| 1-1 | ⚠ ERROR | སྡོམ (sdom) | vow/discipline of the Bodhisattva heirs | "the practice of the Bodhisattva way of life" | *sdom* = vow/discipline, not "way of life" |
+| 1-5 | ⚠ ERROR | དངོས་པོར་གྱུར་པ་རྣམས་སྣང་བར་སྟོན་པ (lightning reveals objects/forms) | lightning reveals **forms**, not the sky itself | "the whole sky is illuminated" | wrong simile tenor — lightning reveals forms, not the sky |
+| 1-6 | ⚠ ERROR | དགེ་བ་ཉམ་ཆུང (dge ba nyam chung) | virtue/goodness is weak | "Kindness, thus, is weak" | *dge ba* = virtue/goodness, not "kindness" |
+| 1-7 | ⚠ ERROR | ཐུབ་དབང་བཅོམ་ལྡན་འདས་རྣམས (thub dbang, plural) | the mighty Sages / Lords of Sages (plural Buddha epithet) | "the mighty King" | should be plural "Sages," not singular "King" |
+| 1-10 | ⚠ ERROR | མི་གཙང་བའི་ལུས (mi gtsang ba'i lus) | this impure physical **body** | "it takes our confused perceptions" | *lus* = body, not "perceptions" |
+| 1-11 | ⚠ ERROR | འགྲོ་བའི་དེད་དཔོན་གཅིག་པུ (gcig pu = sole/alone) | the **sole** guide of beings (the Buddha alone) | "the boundless wisdom of the many guides" | *gcig pu* = sole/alone, not "many guides" |
+| 1-14 | ⚠ ERROR | བྱམས་མགོན...ནོར་བཟང་ལ་བཤད (Maitreya explained to Sudhana) | Maitreya is the **explainer**, Sudhana (nor bzang) the **recipient** | "the Wise and Loving Lord explained to Maitreya" | Sudhana dropped; Maitreya wrongly made the recipient instead of the explainer |
+| 1-19 | ⚠ ERROR | ནམ་མཁའ་དང་མཉམ་པར (nam mkha') | equal to **space/sky** | "equal to the depths of the ocean" | *nam mkha'* = space, not "ocean" |
+| 1-20 | ⚠ ERROR | ལག་བཟངས་ཀྱིས་ཞུས་པ (lag bzangs = Subāhu) | sūtra requested by **Subāhu** | "the sūtra Sāriputra requested" | wrong named entity: Subāhu, not Śāriputra |
+| 1-20 | ⚠ ERROR | ཐེག་པ་དམན་པ (theg pa dman pa) | the **lesser vehicle** (Hīnayāna) | "those inclined to simpler paths" | should name "lesser vehicle," not vague "simpler paths" |
+| 1-21 | ⚠ ERROR | ཀླད་པའི་ནད (klad pa'i nad) | **headache** (deliberately trivial ailment) | "the aching hearts of other beings" | should be "headache," not an emotional-suffering referent |
+| 1-22 | ⚠ ERROR | སེམས་ཅན་རེ་རེ (re re = each and every) | suffering of **each of countless** beings | "the endless pain of a few living beings" | scope reversal: countless, not "a few" |
+| 1-23 | ⚠ ERROR | ཚངས་པ (tshangs pa) | **Brahmā**, lord of the Sahā world | "even Indra harbor such benevolence" | Brahmā dropped; Indra wrongly used as the climactic figure |
+| 1-25 | ⚠ ERROR | སེམས་ཀྱི་རིན་ཆེན་ཁྱད་པར་ཅན (precious jewel of mind) | precious jewel of **mind** (bodhicitta) | "this noble, jewellike form of buddha-body" | mind→kāya swap; should stay "mind" |
+| 1-28 | ⚠ ERROR | སྡུག་བསྔལ་ཉིད་ལ་མངོན་པར་རྒྱུག (beings run toward suffering) | beings are the **agent** running toward suffering | "misery itself pursues them" | agent reversed — beings run toward misery, not the other way |
+| 1-33 | ⚠ ERROR | སེམས་ཅན་གྲངས་མེད་པ་མཐའ་ཡས (countless, boundless beings) | bodhisattvas give to **countless, boundless** beings | "bestow on a handful of followers" | scope reversal: countless, not "a handful" |
+| 1-30 | ⚠ ERROR (order) | དགེ / བཤེས / བསོད་ནམས (virtue / friend / merit) | fixed enumeration order: virtue → friend → merit | "friend...virtue...merit" | enumeration order swapped |
+
+### Cases missed
+
+- **1-9** ("in that instant" → "within moments") — the verse got flagged, but for a different, real, pre-existing issue (Sugatas plural → "the Blissful One" singular), so the actual injected phrase was never addressed.
+- **1-29** (agent reversal, "those whom bliss fills") — not flagged at all.
 
 ### Recall by category
 
@@ -50,12 +74,6 @@ Four minor style notes were logged (none renames a referent, so none is a hard e
 | Wrong grammatical agent / role | 1 / 2 | 50% |
 | Wrong enumeration order | 1 / 1 | 100% |
 | Other wrong referent (body part) | 1 / 1 | 100% |
-
-### Cases missed
-
-- **1-9** ("in that instant" → "within moments") — the verse got flagged, but for a different, real, pre-existing issue (Sugatas plural → "the Blissful One" singular), so the actual injected phrase was never addressed.
-- **1-29** (agent reversal, "those whom bliss fills") — not flagged at all.
-- **1-20** ("lesser paths" for *theg pa dman pa*) — logged as a softening note, not a hard ERROR.
 
 ### False positives / soft flags on negative controls
 

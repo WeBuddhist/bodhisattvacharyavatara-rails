@@ -1,0 +1,287 @@
+{
+  "meta": {
+    "commentary": "1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md",
+    "commentary_name": "Khenpo Ngakwang Kunga Wangchuk (Dzongsar Shedra)",
+    "translation_baseline": "padmakara-ch4-baseline-lines.md (clean, reformatted from en-Padmakara_2006.md)",
+    "translation_under_test": "padmakara-ch4-test.md (mutated: 20 injected errors + 5 unmodified controls)",
+    "scope": "Chapter 4, verses 4-1 through 4-48",
+    "note": "Source 1-SOURCES/Translations/en-Padmakara_2006.md was never edited. Both benchmark files live outside 1-SOURCES/. Commentary used throughout: BCAC20_NKW only. Chapter 4 in the raw en-Padmakara_2006.md file runs from the '## 4. Carefulness ^4-0' heading (line 970) through verse ^4-48, immediately followed by the '## 5. Vigilant Introspection ^5-0' heading — 48 verses total, matching the 48 verse-buckets (4-1..4-48) found in nkw_commentary.json for this chapter. No chapter-length mismatch here (unlike chapter 3's extra ^3-34 quatrain). IMPORTANT ARTIFACT: extract_commentary.py's transclusion-marker splitting produces one EMPTY bucket at 4-26 (root-verse text only, no prose) whose explanation was absorbed into the next-labeled bucket, 4-27 — this is the single-verse 'empty bucket' case the skill's own Step 1 describes (not a multi-verse cascading shift like chapter 3's). Concretely: nkw_commentary.json's '4-27' bucket contains BOTH the commentary's explanation of verse 4-26 (the hard-to-find, precious human rebirth obtained by luck yet squandered back into hell) AND the commentary's own explanation of verse 4-27 (the 'benumbed by sorcery' simile plus the afflictions found within). Neither 4-26 nor 4-27 was used as an anchor verse for any injected error or control in this answer key, so this artifact does not affect scoring, but the clean-audit report must still document it explicitly per the skill's cascading/empty-bucket instructions, since a full-chapter audit will pass through it. All anchors/glosses below were built from the semantically-correct verse content (cross-checked against the Tibetan root-verse quotations at the head of each bucket), not from naive JSON-key equality. Named-entity anchors were thinner in this chapter than in chapter 2 (only 2 usable examples, 4-3 and 4-7) because chapter 4's content (carelessness, the preciousness of human birth, the afflictions as enemies) contains far fewer named sutras/teachers/bodhisattvas than the earlier chapters' confession/rejoicing material — reported honestly rather than padded with a forced third example."
+  },
+  "items": [
+    {
+      "id": 1,
+      "verse_id": "4-16",
+      "type": "injected",
+      "category": "kaya_dharma_mind",
+      "anchor_bo": "ལུས་འདི་ཉིད (lus 'di nyid)",
+      "commentary_gloss": "THIS VERY BODY (lus) is what is impermanent, like a one-time-borrowed thing ('thang gcig gi brnyan po', borrowed for a moment) that death will suddenly reclaim — lus = physical body, not mind",
+      "original": "My body is like something briefly lent.",
+      "injected": "My mind is like something briefly lent.",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 2,
+      "verse_id": "4-25",
+      "type": "injected",
+      "category": "kaya_dharma_mind",
+      "anchor_bo": "སེམས་གདུང་འགྱུར་བ (sems gdung 'gyur ba)",
+      "commentary_gloss": "commentary explicitly distinguishes: the body (lus) burns in hell-fire, while the MIND (sems) is separately tormented, again and again, by the fire of unbearable regret — sems = mind, not body (the verse's own point is that both are hurt, each in its own way)",
+      "original": "My mind, there is no doubt, will also be tormented,",
+      "injected": "My body, there is no doubt, will also be tormented,",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 3,
+      "verse_id": "4-46",
+      "type": "injected",
+      "category": "kaya_dharma_mind",
+      "anchor_bo": "བདག་གི་ཡིད་དམ་སེམས་འདི་ཉིད (bdag gi yid dam sems 'di nyid)",
+      "commentary_gloss": "the afflictions are cleared from THIS VERY MIND (yid/sems) of mine — commentary glosses 'driven out' as driven from the mind, not the body",
+      "original": "Where will you now run, when driven from my mind?",
+      "injected": "Where will you now run, when driven from my body?",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 4,
+      "verse_id": "4-6",
+      "type": "injected",
+      "category": "precise_term_softened",
+      "anchor_bo": "བླ་ན་མེད་པའི་བྱང་ཆུབ་ཀྱི་བདེ་བ (bla na med pa'i byang chub kyi bde ba)",
+      "commentary_gloss": "the bliss of UNSURPASSED ENLIGHTENMENT / buddhahood (bla na med pa'i byang chub / sangs rgyas kyi go 'phang gi bde ba) — a specific attainment, not vague worldly 'great happiness'",
+      "original": "Wandering beings to the highest bliss,",
+      "injected": "Wandering beings to great happiness,",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 5,
+      "verse_id": "4-9",
+      "type": "injected",
+      "category": "precise_term_softened",
+      "anchor_bo": "བསོད་ནམས (bsod nams)",
+      "commentary_gloss": "MERIT/puṇya specifically — the bodhisattva's accumulated merit that is obstructed; the whole point (reinforced by the sutra citation on interrupting even a scrap of food given to an animal) is about merit, not generic 'progress'",
+      "original": "Halts the merit of a Bodhisattva",
+      "injected": "Halts the progress of a Bodhisattva",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 6,
+      "verse_id": "4-18",
+      "type": "injected",
+      "category": "precise_term_softened",
+      "anchor_bo": "དགེ་བ (dge ba)",
+      "commentary_gloss": "VIRTUE/goodness (dge ba) specifically — practicing the wholesome dharma (thos bsam sgom gsum, the three bodhisattva trainings); dge ba = virtue, not the vaguer 'kindness'",
+      "original": "But if I fail to practice virtue,",
+      "injected": "But if I fail to practice kindness,",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 7,
+      "verse_id": "4-3",
+      "type": "injected",
+      "category": "named_entity",
+      "anchor_bo": "སྲས (sras) — རྗེ་བཙུན་འཇམ་དཔལ་དབྱངས, བྱམས་པ་མགོན་པོ, འཕགས་མཆོག་སྤྱན་རས་གཟིགས",
+      "commentary_gloss": "the commentary explicitly names the Buddhas' 'heirs' (sras) here as the great bodhisattvas Mañjuśrī, Maitreya, and Avalokiteśvara — not the śrāvakas (disciples), a different and lesser category",
+      "original": "Yet what the Buddhas and their heirs",
+      "injected": "Yet what the Buddhas and their śrāvakas",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 8,
+      "verse_id": "4-7",
+      "type": "injected",
+      "category": "named_entity",
+      "anchor_bo": "ཐམས་ཅད་མཁྱེན་པ་ཁོ་ནས་མཁྱེན (thams cad mkhyen pa kho nas mkhyen)",
+      "commentary_gloss": "understood ONLY by the Omniscient One (thams cad mkhyen pa = the Buddha) — commentary explicitly states this inconceivable karmic matter is 'not the domain of others' (gzhan gyi spyod yul du gyur pa ma yin), i.e. explicitly excludes Bodhisattvas",
+      "original": "And only understood by the Omniscient.",
+      "injected": "And only understood by the Bodhisattvas.",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 9,
+      "verse_id": "4-4",
+      "type": "injected",
+      "category": "number_scope",
+      "anchor_bo": "སེམས་ཅན་དེ་དག་ཀུན (sems can de dag kun)",
+      "commentary_gloss": "ALL (kun) of those beings — commentary reinforces 'kun te yongs su rdzogs pa' (all of them, completely) as deceived, not merely 'many'",
+      "original": "Then every being will have been betrayed.",
+      "injected": "Then many beings will have been betrayed.",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 10,
+      "verse_id": "4-13",
+      "type": "injected",
+      "category": "number_scope",
+      "anchor_bo": "སངས་རྒྱས་གྲངས་མེད (sangs rgyas grangs med)",
+      "commentary_gloss": "COUNTLESS/innumerable (grangs med) Buddhas — commentary reinforces 'tshad med pa grangs med pa' (immeasurable, countless), not a small finite number",
+      "original": "Unnumbered Buddhas have already lived and passed away.",
+      "injected": "A few Buddhas have already lived and passed away.",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 11,
+      "verse_id": "4-17",
+      "type": "injected",
+      "category": "number_scope",
+      "anchor_bo": "དགེ་བ་མེད (dge ba med)",
+      "commentary_gloss": "virtue is NONE/utterly absent (med) — commentary reinforces 'dge ba sgrub pa'i go skabs ni rnam pa kun tu med pa' (the opportunity for virtue is, in every way, completely nonexistent), not merely 'few'",
+      "original": "My evils will be many, virtues none.",
+      "injected": "My evils will be many, virtues few.",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 12,
+      "verse_id": "4-19",
+      "type": "injected",
+      "category": "number_scope",
+      "anchor_bo": "བསྐལ་པ་བྱེ་བ་བརྒྱར (bskal pa bye ba brgyar)",
+      "commentary_gloss": "for a hundred myriad (bye ba brgya, i.e. hundreds of millions) of eons — commentary reinforces 'brgya phrag dang stong phrag gi bar du' (for hundreds and thousands [of lifetimes]), an immense span, not merely 'a hundred'",
+      "original": "And for a hundred million ages,",
+      "injected": "And for a hundred ages,",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 13,
+      "verse_id": "4-30",
+      "type": "injected",
+      "category": "number_scope",
+      "anchor_bo": "ཐམས་ཅད (thams cad)",
+      "commentary_gloss": "ALL (thams cad) the gods and demigods together — commentary reinforces 'thams cad kyis mgo byed nas' (all of them banding together), not merely 'a few'",
+      "original": "If all the gods and demigods besides",
+      "injected": "If a few of the gods and demigods besides",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 14,
+      "verse_id": "4-29",
+      "type": "injected",
+      "category": "agent_role",
+      "anchor_bo": "དགའ་མགུར་བདག་ལ་གནོད་བྱེད་པ (dga' mgur bdag la gnod byed pa)",
+      "commentary_gloss": "the afflictions [subject] harm ME (bdag la gnod byed pa — 'me' is the object/patient) at their pleasure — the afflictions are the agent, 'I' am the one harmed, not the reverse",
+      "original": "And at their pleasure injure me.",
+      "injected": "And at their pleasure I injure them.",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 15,
+      "verse_id": "4-31",
+      "type": "injected",
+      "category": "agent_role",
+      "anchor_bo": "དེར་བདག་སྐད་ཅིག་གཅིག་ལ་འདོར (der bdag skad cig gcig la 'dor)",
+      "commentary_gloss": "THAT [affliction-enemy, subject] casts ME (bdag, object) into it in a single instant — the affliction is the agent that flings 'me' down, not the reverse",
+      "original": "Flings me in an instant headlong down",
+      "injected": "I fling it in an instant headlong down",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 16,
+      "verse_id": "4-33",
+      "type": "injected",
+      "category": "agent_role",
+      "anchor_bo": "རིམ་གྲོ་བསྟེན་བྱས་ན (rim gro bsten byas na)",
+      "commentary_gloss": "it is I [subject] who appease/serve/wait upon the afflictions (parallel to 'I appease and wait upon' ordinary foes in the first line) — I am the one doing the serving, not the defiled emotions serving me",
+      "original": "But should I serve my dark defiled emotions,",
+      "injected": "But should my dark defiled emotions serve me,",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 17,
+      "verse_id": "4-14",
+      "type": "injected",
+      "category": "enumeration_order",
+      "anchor_bo": "ནད་དང་འཆིང་བ་དང་། བཅད་དང་གཤག (nad dang 'ching ba dang / bcad dang gshag)",
+      "commentary_gloss": "fixed escalating order in the commentary: illness (nad) → bondage/imprisonment ('ching ba, btson) → cutting/dismemberment (bcad/gshag) — the verse and commentary both list pains/bondage before wounds/laceration",
+      "original": "And I will suffer pains and bondage, Wounds and laceration in the lower realms.",
+      "injected": "And I will suffer wounds and laceration, Pains and bondage in the lower realms.",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 18,
+      "verse_id": "4-40",
+      "type": "injected",
+      "category": "enumeration_order",
+      "anchor_bo": "ཉ་པ་གདོལ་པ་ཞིང་པ (nya pa, gdol pa, zhing pa)",
+      "commentary_gloss": "fixed order in both root verse and commentary: fisherman (nya pa) → butcher (gdol pa) → farmer (zhing pa)",
+      "original": "When fishers, butchers, farmers, and the like,",
+      "injected": "When farmers, butchers, fishers, and the like,",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 19,
+      "verse_id": "4-20",
+      "type": "injected",
+      "category": "simile_tenor",
+      "anchor_bo": "མི་ཉིད་ཤིན་ཏུ་ཐོབ་དཀར (mi nyid shin tu thob dka')",
+      "commentary_gloss": "the blind-turtle-and-yoke-hole simile (rgya mtsho / gnya' shing bu ga / rus sbal), cited from the Nandapravrajyā Sūtra, specifically illustrates the extreme rarity of obtaining a HUMAN REBIRTH (mi lus/mi nyid) — not a vague 'state of bliss'",
+      "original": "This human birth is difficult to find!",
+      "injected": "This state of bliss is difficult to find!",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 20,
+      "verse_id": "4-47",
+      "type": "injected",
+      "category": "simile_tenor",
+      "anchor_bo": "སྒྱུ་འདྲ (sgyu 'dra)",
+      "commentary_gloss": "the commentary's simile (a magician's mantra/potion conjuring illusory horses, elephants, armies, chariots) illustrates that the AFFLICTIONS (nyon mongs pa) are illusion-like/unreal — not the body",
+      "original": "They are simple mirages, and so take heart!",
+      "injected": "My body is a simple mirage, and so take heart!",
+      "expected_verdict": "ERROR"
+    },
+    {
+      "id": 21,
+      "verse_id": "4-2",
+      "type": "control",
+      "category": "negative_control_unmodified",
+      "original": "(unmodified)",
+      "injected": null,
+      "expected_verdict": "CLEAN"
+    },
+    {
+      "id": 22,
+      "verse_id": "4-11",
+      "type": "control",
+      "category": "negative_control_unmodified",
+      "original": "(unmodified)",
+      "injected": null,
+      "expected_verdict": "CLEAN"
+    },
+    {
+      "id": 23,
+      "verse_id": "4-24",
+      "type": "control",
+      "category": "negative_control_unmodified",
+      "original": "(unmodified)",
+      "injected": null,
+      "expected_verdict": "CLEAN"
+    },
+    {
+      "id": 24,
+      "verse_id": "4-36",
+      "type": "control",
+      "category": "negative_control_unmodified",
+      "original": "(unmodified)",
+      "injected": null,
+      "expected_verdict": "CLEAN"
+    },
+    {
+      "id": 25,
+      "verse_id": "4-45",
+      "type": "control",
+      "category": "negative_control_unmodified",
+      "original": "(unmodified)",
+      "injected": null,
+      "expected_verdict": "CLEAN"
+    }
+  ],
+  "category_counts": {
+    "kaya_dharma_mind": 3,
+    "precise_term_softened": 3,
+    "named_entity": 2,
+    "number_scope": 5,
+    "agent_role": 3,
+    "enumeration_order": 2,
+    "simile_tenor": 2,
+    "negative_control_unmodified": 5
+  }
+}

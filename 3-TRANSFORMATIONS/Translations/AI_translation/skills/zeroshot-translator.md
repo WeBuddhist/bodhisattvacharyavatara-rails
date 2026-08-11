@@ -5,7 +5,7 @@ description: Produce a direct, zero-shot translation of a source text into a tar
 
 # Zero-Shot Translator
 
-**Governed by [`requirements.md`](requirements.md).** Read it before starting. Pacing, structural invariants, naming, and done criteria live there — do not restate or diverge from them here.
+**Governed by [`requirements.md`](3-TRANSFORMATIONS/Translations/AI_translation/skills/requirements.md).** Read it before starting. Pacing, structural invariants, naming, and done criteria live there — do not restate or diverge from them here.
 
 Translates a source text directly into a target language named by the user, applying an existing audience profile for register and style. There is no termbase in this path — no keyword extraction, no sense-tagging, no locked terminology. This is the fast path for a first draft, a quick comparison, or when full terminology-locking isn't warranted.
 

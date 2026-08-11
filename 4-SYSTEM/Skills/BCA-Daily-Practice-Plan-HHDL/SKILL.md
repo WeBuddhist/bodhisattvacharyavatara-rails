@@ -1,6 +1,8 @@
 ---
 name: BCA-Daily-Practice-Plan-HHDL
 description: Generate one or more Bodhisattvacharyavatara (སྤྱོད་འཇུག) daily practice plans for the Dalai Lama track ("HHDL"), entirely in Tibetan, in the 6-section emoji-headed format (🪷 setting intention, ☕️ intro, 📖 today's verses, 💡 extended info, 💧 aspirations, 📿 today's practice). Use whenever the user asks for a practice plan by day number with little or no elaboration — "day-1", "day 20 to day 35", "generate day 45", "make the plan for days 100-105", "HHDL plan for day X" — for this vault's Bodhisattva Challenge / Dalai Lama track. Section content is split between fixed liturgy (copied verbatim) and generated content produced by calling the gemini_generate tool, grounded strictly in the schedule, root text, and 2-RAILS/Verses commentary summaries. Always use this skill for such requests — do not improvise the structure or write the generated sections directly without it.
+Author:
+  - Tigerboy
 ---
 
 # BCA Daily Practice Plan — HHDL (Dalai Lama track)
@@ -12,6 +14,22 @@ Generates complete daily practice-plan documents for the Bodhisattva Challenge's
 **Generated vs. fixed — the core discipline of this skill.** Sections 1 and 5 are reproduced character-for-character from this file, every time, for every day — never paraphrased, reordered, or "improved." Sections 2, 4, and 6 are composed by calling `mcp__gemini-mcp__gemini_generate`, not written directly by the agent — the agent's job is to assemble the grounding material and constraints into the prompt, call the tool, and then mechanically verify the result (syllable counts, required opening phrases, citation integrity), never to originate the Tibetan prose itself. Section 3 is mechanically extracted, not generated at all.
 
 **Reading level — plain, 8th-grade Tibetan, for every generated section.** Sections 2, 4, and 6 must read at an easy, 8th-grade Tibetan level that any ordinary person can follow on first reading — short clear sentences, everyday vocabulary, no archaic scholastic or classical-commentarial phrasing, no dense unglossed philosophical compounds. Bake this instruction explicitly into every `gemini_generate` prompt (see the per-section constraint lists below); do not rely on the model defaulting to it. This rule governs register only — it does not license paraphrasing, omitting, or softening the underlying content, and it never applies to Sections 1, 3, or 5, which are liturgy and root verses reproduced exactly as attested regardless of how classical their language is.
+
+**Grammar discipline — ending particles (རྫོགས་ཚིག/མཐའ་རྟགས), absolute, for every generated sentence.** When a sentence-final verb closes with one of the ten suffix letters ག ང ད ན བ མ ར ལ ས, the matching ending particle must be used — the initial consonant of the particle must equal the suffix letter:
+
+| Suffix | Particle | Example |
+|---|---|---|
+| ག | གོ | བྱེད་གོ། |
+| ང | ངོ | གཏོང་ངོ་། |
+| ད | དོ | བགྱིད་དོ། |
+| ན | ནོ | བྱིན་ནོ། |
+| བ | བོ | འགྲུབ་བོ། |
+| མ | མོ | བསམ་མོ། |
+| ར | རོ | བགྱིར་རོ། |
+| ལ | ལོ | བསྐྱལ་ལོ། |
+| ས | སོ | བགྱིས་སོ། |
+
+A stem ending in the vowel-suffix འ takes འོ་ with contraction (e.g. དཀའོ།, མངའོ།). A stem with no suffix consonant at all takes འོ་ appended directly (e.g. སྡེའོ།, པོའོ།, མའོ།). **Whenever a sentence closes with one of these ending particles, it must be followed by a double shad (།།), never a single shad (།)** — e.g. གཏོང་ངོ་།། not གཏོང་ངོ། and never a mismatched form like གཏོང་དོ། (ང suffix wrongly paired with the དོ particle, which belongs to a ད suffix). This rule applies to Sections 2, 4, and 6 — check every generated sentence that ends in a རྫོགས་ཚིག particle against the suffix-letter table above before accepting the output; a mismatched particle or a missing second shad is a mechanical error, not a content judgment call, so correct it directly (same category as the Section-6 category-tag bracket fix) rather than leaving it or regenerating from scratch. This rule does not apply to the auxiliary/copula verbs ཡིན་, མིན་, ཡོད་, མེད་, which conventionally close a sentence bare with a single shad and take no རྫོགས་ཚིག particle. It never applies to Sections 1, 3, or 5 (fixed liturgy and root verses), which are reproduced exactly as attested regardless of their own grammar.
 
 ---
 
@@ -156,6 +174,7 @@ citation phrase; the exact verse text from Step 3; a one-line paraphrase-free su
 - 1–2 sentences, brief, warm, inviting — a doorway, not a synopsis.
 - Must state the citation phrase (verbatim or lightly integrated grammatically).
 - Must not explain or paraphrase the verse's meaning — that belongs to Section 4, not here.
+- Every sentence-final verb closing with a རྫོགས་ཚིག ending particle must use the particle matching its suffix letter (see the Grammar discipline note above), closed with a double shad (།།) — not a single shad, and not a mismatched particle like གཏོང་དོ་ (should be གཏོང་ངོ་།།).
 - **No generic formulaic closing.** Do not end with a hollow devotional exhortation that could be pasted onto any day — e.g. "with a joyful mind and great faith, please engage in today's practice" (`སེམས་པ་སྤྲོ་པོ་དང་དད་པ་ཆེན་པོའི་ངང་ནས་... འཇུག་པར་ཞུ།`) names no reason, no image, nothing specific to today, and fails the actual goal of this section. The line beyond the citation phrase must contain something concrete and specific to *these* verses — a vivid image, a genuine question, a felt stake — so the reader senses in one line why today's particular verses are worth pausing for. Feed the prompt a one-line description of what's actually distinctive or evocative in today's verses (not just their topic) so the generator has something specific to work from.
 
 Take the tool's returned text as-is aside from mechanical cleanup (stripping any stray markdown fencing or preamble the model added). If it contains any non-Tibetan-script prose, regenerate with a stricter prompt rather than translating or hand-fixing it. If it lapses into a generic closing formula despite the instruction, regenerate with the failing line quoted back to the model as an explicit example of what not to repeat.
@@ -192,6 +211,7 @@ Before calling the generator, decide from the Phase 1 material collected (དོ
 - Plain, easy 8th-grade Tibetan — short sentences, everyday vocabulary, no archaic or scholastic phrasing. Render the classical commentary's point in accessible modern Tibetan; do not carry over its dense technical register.
 - Must open with **exactly** this phrase, filling in whichever bracketed option genuinely fits (story/point/anecdote/simile/citation/valuable-teaching — do not default to the same one every time):
   `ཚིགས་བཅད་འདི་དག་དང་འབྲེལ་བའི་འགྲེལ་བཤད་ཁག་ལས་ང་ཚོར་གོ་བདེ་ཞིང་བློ་སྐྱེད་ལྡན་པའི་འགྲེལ་བཤད་/གནད་དོན་/གཏམ་རྒྱུད་/དཔེ་/ལུང་/རིན་ཐང་ཅན་འདི་འདྲ་ཞིག་གསུངས་ཡོད།`
+- Every sentence-final verb in your own framing prose (not inside a verbatim quotation) closing with a རྫོགས་ཚིག ending particle must use the particle matching its suffix letter, closed with a double shad (།།) — see the Grammar discipline note above.
 - Hard ceiling: **300 Tibetan syllables total.** This is a ceiling, not a target — instruct the generator not to pad toward it, and prefer a shorter, well-chosen answer.
 - Base only on the supplied commentary excerpts. No outside knowledge, however plausible.
 
@@ -243,11 +263,16 @@ range — the one an ordinary person with no special training could actually act
 - **ཉམས་ལེན་དངོས** — a first-person **commitment** to take one concrete action *today*, directly based on or related to the chosen verse — not a generic mindfulness statement that could apply to any day, and not a retreat activity or vague aspiration ("contemplate compassion"). Phrase it as a commitment (e.g. `ངས་དེ་རིང་... བྱ་རྒྱུ་ཡིན།` — "today I will..."), and the action itself must trace back to what the chosen verse actually says — if the connection to the verse isn't clear, the action is wrong, not just under-explained. **Absolute hard limit: 30 Tibetan syllables** — do not exceed this even slightly.
 - **དེའི་འགྲེལ་བཤད** — explain the practice's benefit and how it connects to the chosen verse. Must open with exactly one bracketed category tag chosen from this list (pick whichever genuinely fits — do not default to the same one every time): `[སྡིག་པ་མི་བྱ་བ།, དགེ་བ་བྱ་བ།, རང་སེམས་འདུལ་བ།, སྦྱིན་པའི་ཉམས་ལེན།, ཚུལ་ཁྲིམས་ཀྱི་ཉམས་ལེན།, བཟོད་པའི་ཉམས་ལེན།, བརྩོན་འགྲུས་ཀྱི་ཉམས་ལེན།, བསམ་གཏན་གྱི་ཉམས་ལེན།, ཤེས་རབ་ཀྱི་ཉམས་ལེན།]`
 - **ཚིགས་བཅད་དངོས** — is not generated prose at all; it is the exact root verse the practice is drawn from, unaltered, unparaphrased, no commentary added, with its `^chapter-verse` anchor intact. Insert this from Step 3's already-verified verse text — do not let the generator retype the verse (risk of drift from the source).
+- Every sentence-final verb in ཉམས་ལེན་དངོས and དེའི་འགྲེལ་བཤད (never in ཚིགས་བཅད་དངོས, which is verbatim scripture) closing with a རྫོགས་ཚིག ending particle must use the particle matching its suffix letter, closed with a double shad (།།) — see the Grammar discipline note above.
 
 > ⚠️ **Mechanical fix the generator reliably needs.** 
 > The category tag must be wrapped exactly as `_(tag)_` — underscore-parenthesis, i.e. an italicized parenthetical — matching the worked example below. 
 > Models frequently substitute plain square brackets (`[དགེ་བ་བྱ་བ།]`) instead. 
 > Check the raw tool output for this every time and correct it before inserting — this is mechanical cleanup, not content authorship, so fixing it does not violate the "don't hand-author" rule.
+
+> ⚠️ **Another mechanical fix the generator reliably needs: ending-particle mismatches.** 
+> Models frequently attach the wrong རྫོགས་ཚིག particle to a verb — e.g. writing `གཏོང་དོ།` when the verb suffix ང requires `ངོ`, giving `གཏོང་ངོ་།།` — or forget the required double shad after the particle. 
+> Check every sentence-final verb in ཉམས་ལེན་དངོས and དེའི་འགྲེལ་བཤད against the suffix table in the Grammar discipline note and correct it before inserting; this is mechanical cleanup, not content authorship.
 
 Format:
 
@@ -321,6 +346,7 @@ Run this for every day produced, before considering it done:
 - [ ] Every word of prose content is Tibetan — no English or other language anywhere except `^chapter-verse` anchors and filenames/paths, which are exempt.
 - [ ] Sections 2, 4, and 6 read at a plain, easy 8th-grade Tibetan level — short sentences, everyday vocabulary, no archaic/scholastic phrasing carried over from the classical commentary (verbatim scriptural quotations in Section 4 are exempt from simplification; their surrounding gloss is not).
 - [ ] No content in Sections 2, 4, or 6 was hand-authored by the agent bypassing `gemini_generate` — mechanical cleanup of the tool's output (stripping stray markdown/preamble) is fine; composing the prose is not.
+- [ ] Every sentence-final verb in Sections 2, 4 (framing prose only, not quotations), and 6 (ཉམས་ལེན་དངོས/དེའི་འགྲེལ་བཤད only, not ཚིགས་བཅད་དངོས) that closes with a རྫོགས་ཚིག ending particle uses the particle matching its suffix letter — checked against the Grammar discipline table, not eyeballed — and is followed by a double shad (།།), never a single shad.
 
 ---
 
@@ -338,3 +364,4 @@ Run this for every day produced, before considering it done:
 - Overwriting a file without running the filename-vs-schedule consistency check first, risking a mismatch between the file's own `Ch<C>-V<start>-<end>` and the actual computed verse range.
 - Mixing Arabic and Tibetan numerals inside plan prose (Arabic is fine only in anchors and file paths).
 - Letting generated prose drift into classical/scholastic register because the source commentary excerpts fed into the prompt were themselves dense and technical — the plain-8th-grade-Tibetan instruction must be stated explicitly in every generation prompt, not assumed.
+- Attaching a mismatched ending particle (རྫོགས་ཚིག) to a sentence-final verb — e.g. `གཏོང་དོ།` for a verb ending in ང (should be `གཏོང་ངོ་།།`) — or dropping the required second shad after the particle. Check every generated sentence's ending against the suffix-letter table in the Grammar discipline note; this is a mechanical error the generator makes reliably and must be caught before saving.

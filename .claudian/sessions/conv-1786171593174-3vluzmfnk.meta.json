@@ -4,22 +4,22 @@
   "title": "what's the meaning of the 1st verse of the text",
   "titleGenerationStatus": "failed",
   "createdAt": 1786171593180,
-  "lastActivityAt": 1786181197756,
-  "sessionId": null,
+  "lastActivityAt": 1786410585391,
+  "sessionId": "a9c2371a-b7d2-4f6f-9a2b-99b7a7cadce4",
   "selectedModel": "sonnet",
   "providerState": {
     "previousProviderSessionIds": [
       "2728fef1-c277-4e60-afc1-a1f7e09d6d28"
-    ]
+    ],
+    "providerSessionId": "a9c2371a-b7d2-4f6f-9a2b-99b7a7cadce4"
   },
   "usage": {
     "model": "sonnet",
     "inputTokens": 2,
-    "cacheCreationInputTokens": 34147,
-    "cacheReadInputTokens": 38085,
+    "cacheCreationInputTokens": 45224,
+    "cacheReadInputTokens": 0,
     "contextWindow": 1000000,
-    "contextTokens": 72234,
-    "percentage": 7,
-    "contextWindowIsAuthoritative": false
+    "contextTokens": 45226,
+    "percentage": 5
   }
 }

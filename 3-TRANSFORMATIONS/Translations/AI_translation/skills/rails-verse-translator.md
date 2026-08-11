@@ -5,7 +5,7 @@ description: Translate a long, verse- or segment-structured source text chapter 
 
 # Rails Verse Translator
 
-**Governed by [`requirements.md`](requirements.md).** Read it before starting. Pacing, structural invariants, naming, file inventory, merge verification, and done criteria live there — do not restate or diverge from them here.
+**Governed by [`requirements.md`](3-TRANSFORMATIONS/Translations/AI_translation/skills/requirements.md).** Read it before starting. Pacing, structural invariants, naming, file inventory, merge verification, and done criteria live there — do not restate or diverge from them here.
 
 Produces a segment-aligned, termbase-consistent translation of a structured source text, one chapter at a time, with a review gate between units. This is the step that drives on the rails the termbase lays down.
 

@@ -83,8 +83,9 @@ Authority comes from the human commentary tradition, never from the LLM's parame
   Translations/ # language-by-language translation tracks
   Adaptations/  # audience-targeted retellings (children's, scholarly, …)
   Plans/        # calendar-driven study/practice arcs
-  Day-Packages/bo/    # Tibetan day packages (source-of-record, protected)
-  Day-Packages/en/ # English day packages (protected)
+  Day-Packages/    # day packages, protected source-of-record
+    bo/          #   Tibetan
+    en/          #   English translation
   Sharable-Images/ # per-day trilingual text for shareable images
 4-SYSTEM/       # guidelines, skills, templates — read-only
 ```

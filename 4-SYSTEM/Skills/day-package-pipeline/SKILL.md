@@ -166,7 +166,7 @@ Key format invariants (full list in `_TEMPLATE.md`):
 3. **Terminology comes from `_TERMBASE.md`.** Use the listed renderings verbatim (e.g. `tenzin-gyatso → His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)`). If a needed term is absent from the termbase, stop and ask; do not coin a new rendering silently.
 4. **The machine id never appears in a reader-facing heading or in prose.** Commentator ids (`tenzin-gyatso`, `kunpal`, …) live in anchors only. If the raw slug appears in a synthesis bullet, key-terms cell, or story label, replace it with the display name.
 5. **His Holiness first when present.** After writing, run `reorder_commentators.py` to guarantee the order even if the draft placed him elsewhere. Verses with no `tenzin-gyatso` block are left as they are.
-6. **Do not edit `1-SOURCES/`.** Rails and plan files are read-only inputs. This skill writes only to the two Day-Packages/bo folders (and re-baselines the guard).
+6. **Do not edit `1-SOURCES/`.** Rails and plan files are read-only inputs. This skill writes only to the two `Day-Packages/` language folders, `bo/` and `en/` (and re-baselines the guard).
 7. **A day is not done until `validate` passes with zero errors** and the drift-guard has been re-recorded.
 8. **Both files are protected.** Preserve the `🔒 PROTECTED` banner and `protected: true` / `edit_policy:` frontmatter on both.
 9. **Section 1 source and language.** Take Section 1 from the correct plan file for the chapter (see Inputs). **Omit Notification for Chapter 2+.** The English package's Section 1 uses the plan's English text; the Tibetan package's Section 1 uses the plan's Tibetan text. The `*(Source: …)*` line at the end of Section 1 points to the plan file actually used.

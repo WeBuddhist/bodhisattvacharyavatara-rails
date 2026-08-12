@@ -86,7 +86,7 @@ Authority comes from the human commentary tradition, never from the LLM's parame
   Day-Packages/    # day packages, protected source-of-record
     bo/          #   Tibetan
     en/          #   English translation
-  Sharable-Images/ # per-day trilingual text for shareable images
+  Shareable-Image-Text/ # per-day trilingual text for shareable images
 4-SYSTEM/       # guidelines, skills, templates — read-only
 ```
 

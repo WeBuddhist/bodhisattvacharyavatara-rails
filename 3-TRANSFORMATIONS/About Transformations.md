@@ -43,7 +43,7 @@ its English translation. Both are **protected** — see the protected-file rule 
 They sit at the top level rather than inside `Plans/` because they are consumed
 across plan tracks rather than belonging to one.
 
-### `Sharable-Images/` — per-day shareable text
+### `Shareable-Image-Text/` — per-day shareable text
 
 One file per day, carrying the day's practice line, verse and verse id in
 Tibetan, English and Hindi, plus a release date. Not images: the text that goes
@@ -90,7 +90,7 @@ See [`Plans/About Plans.md`](Plans/About Plans.md) for the full convention and p
 │ └── en/                #   English translation
 │   └── Chapter-<N> D<s>-D<e>/
 │     └── <day>-en.md
-├── Sharable-Images/    # per-day trilingual text for shareable images
+├── Shareable-Image-Text/    # per-day trilingual text for shareable images
 │ └── day_<N>_sharable_image_text.md
 └── Plans/
  └── <plan-name>/

@@ -1,4 +1,7 @@
 {
-  "textFontFamily": "Monlam Uni OuChan2",
-  "baseFontSize": 20
+  "textFontFamily": "",
+  "baseFontSize": 18,
+  "theme": "obsidian",
+  "accentColor": "#5cb2f5",
+  "cssTheme": ""
 }

@@ -24,9 +24,9 @@ Some files are **source-of-truth for the practice-plan pipeline**: the assistant
 
 Protected set (globs enumerated in `4-SYSTEM/scripts/day-package/guard.paths`):
 
-- `3-TRANSFORMATIONS/Day-Packages-EN/**` — English day packages (translations)
-- `3-TRANSFORMATIONS/Day-Packages/Chapter-*/[0-9]*.md` — Tibetan source packages
-- `3-TRANSFORMATIONS/Day-Packages/_TEMPLATE.md` and `_TERMBASE.md`
+- `3-TRANSFORMATIONS/Day-Packages/en/**` — English day packages (translations)
+- `3-TRANSFORMATIONS/Day-Packages/bo/Chapter-*/[0-9]*.md` — Tibetan source packages
+- `3-TRANSFORMATIONS/Day-Packages/bo/_TEMPLATE.md` and `_TERMBASE.md`
 - `4-SYSTEM/scripts/day-package/day_package_tools.py`
 
 Each protected file also carries a `PROTECTED — SOURCE OF TRUTH` banner at the top and `protected: true` in its frontmatter. If you open a file and see that banner, treat it as locked even if it is not in the list above.
@@ -83,8 +83,8 @@ Authority comes from the human commentary tradition, never from the LLM's parame
   Translations/ # language-by-language translation tracks
   Adaptations/  # audience-targeted retellings (children's, scholarly, …)
   Plans/        # calendar-driven study/practice arcs
-  Day-Packages/    # Tibetan day packages (source-of-record, protected)
-  Day-Packages-EN/ # English day packages (protected)
+  Day-Packages/bo/    # Tibetan day packages (source-of-record, protected)
+  Day-Packages/en/ # English day packages (protected)
   Sharable-Images/ # per-day trilingual text for shareable images
 4-SYSTEM/       # guidelines, skills, templates — read-only
 ```

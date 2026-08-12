@@ -32,10 +32,10 @@ The track's prescriptive rails are:
 
 See [`Adaptations/About Adaptations.md`](Adaptations/About Adaptations.md) for the convention.
 
-### `Day-Packages/` and `Day-Packages-EN/` — day packages
+### `Day-Packages/bo/` and `Day-Packages/en/` — day packages
 
-A matched pair of top-level folders, not a per-track category. `Day-Packages/`
-holds the Tibetan source-of-record file for each day; `Day-Packages-EN/` holds
+A matched pair of top-level folders, not a per-track category. `Day-Packages/bo/`
+holds the Tibetan source-of-record file for each day; `Day-Packages/en/` holds
 its English translation. Both are **protected** — see the protected-file rule in
 [`../4-SYSTEM/CLAUDE.md`](../4-SYSTEM/CLAUDE.md). Built and validated by the
 `day-package-pipeline` skill. Coverage: Chapters 1 and 2.
@@ -83,10 +83,10 @@ See [`Plans/About Plans.md`](Plans/About Plans.md) for the full convention and p
 │ ├── termbase.md # (optional) locked renderings
 │ ├── audience.md # audience profile
 │ └── <output>.md # the generated files
-├── Day-Packages/       # Tibetan day packages, source-of-record (PROTECTED)
+├── Day-Packages/bo/       # Tibetan day packages, source-of-record (PROTECTED)
 │ └── Chapter-<N> D<s>-D<e>/
 │   └── <day>.md
-├── Day-Packages-EN/    # English day packages (PROTECTED)
+├── Day-Packages/en/    # English day packages (PROTECTED)
 │ └── Chapter-<N> D<s>-D<e>/
 │   └── <day>-en.md
 ├── Sharable-Images/    # per-day trilingual text for shareable images

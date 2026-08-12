@@ -445,7 +445,7 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 ### `day-package-pipeline` **[exists]**
 **Purpose:** Build one Bodhisattva-Challenge day-package end to end — assemble the Tibetan source-of-record file from the verse rails, plan day file, and schedule; translate it into the English package; then enforce the locked format (display-only commentator headings, His-Holiness-first order, per-section provenance) with the validator, conform, reorder, and drift-guard tools.
 **Inputs:** Day number + chapter; `schedule-hhdl-birthday.md`; the per-verse rails (`2-RAILS/Verses/*-summary.md`); the plan day file under `en/Days/`; the Plain-English verse text; `_TEMPLATE.md`; `_TERMBASE.md`; the `4-SYSTEM/scripts/day-package/` tooling.
-**Outputs:** A matched pair of protected files — `Day-Packages/…/<day>.md` (Tibetan source-of-record) and `Day-Packages-EN/…/<day>-en.md` (English translation) — that pass `day_package_tools.py validate`, with the guard re-baselined.
+**Outputs:** A matched pair of protected files — `Day-Packages/bo/…/<day>.md` (Tibetan source-of-record) and `Day-Packages/en/…/<day>-en.md` (English translation) — that pass `day_package_tools.py validate`, with the guard re-baselined.
 → [`day-package-pipeline/SKILL.md`](day-package-pipeline/SKILL.md)
 
 ### `Himalayan-Plan-Transformer` **[exists]**

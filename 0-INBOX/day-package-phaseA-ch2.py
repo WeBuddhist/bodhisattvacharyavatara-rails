@@ -19,7 +19,7 @@ from pathlib import Path
 
 VAULT = Path(__file__).resolve().parents[1]
 RAILS = VAULT / "2-RAILS/Verses"
-OUT = VAULT / "3-TRANSFORMATIONS/Day-Packages/Chapter-2 D15-D40"
+OUT = VAULT / "3-TRANSFORMATIONS/Day-Packages/bo/Chapter-2 D15-D40"
 
 BANNER = (
     "> 🔒 **PROTECTED — SOURCE OF TRUTH.** This file is consumed by the assistant / "

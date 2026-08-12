@@ -29,7 +29,7 @@ PROTECTED SOURCE-OF-TRUTH TOOL — do not edit, move, or delete this script
 without explicit human confirmation (see 4-SYSTEM/CLAUDE.md -> "Protected files").
 
 The canonical spec lives in:
-  3-TRANSFORMATIONS/Day-Packages/_TEMPLATE.md
+  3-TRANSFORMATIONS/Day-Packages/bo/_TEMPLATE.md
 This script and that document must agree.
 """
 import hashlib

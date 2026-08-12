@@ -5,7 +5,7 @@ description: Build one Bodhisattva-Challenge day-package end to end — assemble
 
 # day-package-pipeline
 
-This skill produces a complete, format-locked **day-package** for a single day of the Bodhisattva Challenge, in one pass, across the two parallel deliverables the vault keeps: the **Tibetan source-of-record** file (`Day-Packages/…/<day>.md`) and its **English translation** (`Day-Packages-EN/…/<day>-en.md`). Correct output is a pair of files that (a) copy the verse-rail content verbatim (Tibetan) then render it into natural, termbase-consistent English, (b) carry the plan's Challenge sections and the day's verses, (c) place His Holiness the Dalai Lama's (`tenzin-gyatso`) commentary first, (d) use display-only commentator headings with the machine id in the anchor, and (e) pass `day_package_tools.py validate` with zero errors. The skill exists so that new days (and Chapter 2 onward) are built identically to Chapter 1 rather than drifting; it prevents the recurring failure of hand-built packages that reword rails, lose citations, mis-order commentators, or leak machine ids into reader-facing headings.
+This skill produces a complete, format-locked **day-package** for a single day of the Bodhisattva Challenge, in one pass, across the two parallel deliverables the vault keeps: the **Tibetan source-of-record** file (`Day-Packages/bo/…/<day>.md`) and its **English translation** (`Day-Packages/en/…/<day>-en.md`). Correct output is a pair of files that (a) copy the verse-rail content verbatim (Tibetan) then render it into natural, termbase-consistent English, (b) carry the plan's Challenge sections and the day's verses, (c) place His Holiness the Dalai Lama's (`tenzin-gyatso`) commentary first, (d) use display-only commentator headings with the machine id in the anchor, and (e) pass `day_package_tools.py validate` with zero errors. The skill exists so that new days (and Chapter 2 onward) are built identically to Chapter 1 rather than drifting; it prevents the recurring failure of hand-built packages that reword rails, lose citations, mis-order commentators, or leak machine ids into reader-facing headings.
 
 This is the end-to-end wrapper. The three phases can also be run alone; when only translating an already-built Tibetan file, start at Phase B.
 
@@ -22,8 +22,8 @@ Gather all of the following before starting. If any is missing or ambiguous, sto
 | Verse rails | Per-verse source content (root verse, interlinear gloss, per-commentator explanations, stories, metaphors, scriptural quotations, main teaching points, key terms, synthesis) | `2-RAILS/Verses/<verse-id>-summary.md` |
 | Plan day file (Section 1) | The Challenge track. **Source differs by chapter, and by language for Ch 2+** — see the note below. | Ch 1: `…/en/Days/Chapter-1 D1-D14/<day>.md` · Ch 2+ Tibetan: `3-TRANSFORMATIONS/Plans/Dalai Lama/Chapter-<N> …/Day-<day>-Ch<c>-V<a>-<b>.md` · Ch 2+ English: `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/Chapter-<N> D<a>-D<b>/<day>-ch<c>-v<range>-eng.md` — a top-level file only; if absent, stop and ask (never substitute `Archive/`, `Drafts and Options/`, or the Dalai Lama file's English block) |
 | Plain-English verses | Reader-facing verse text, addressed by block id (`^1-1`, `^2-1` …) | `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md` |
-| Format contract | The locked template every output must match | `3-TRANSFORMATIONS/Day-Packages/_TEMPLATE.md` |
-| Termbase | Fixed Buddhist-term renderings + the commentator id → display-name table | `3-TRANSFORMATIONS/Day-Packages/_TERMBASE.md` |
+| Format contract | The locked template every output must match | `3-TRANSFORMATIONS/Day-Packages/bo/_TEMPLATE.md` |
+| Termbase | Fixed Buddhist-term renderings + the commentator id → display-name table | `3-TRANSFORMATIONS/Day-Packages/bo/_TERMBASE.md` |
 | Tooling | Validator/conform/guard and the reorder script | `4-SYSTEM/scripts/day-package/day_package_tools.py`, `…/reorder_commentators.py` |
 
 **Section 1 source, by chapter (this is the part that changes most between chapters):**
@@ -45,8 +45,8 @@ Gather all of the following before starting. If any is missing or ambiguous, sto
 
 Two files, one per language, in the two parallel folders (create the `Chapter-<N> D<a>-D<b>` folder if it does not exist):
 
-- Tibetan source-of-record: `3-TRANSFORMATIONS/Day-Packages/Chapter-<N> D<a>-D<b>/<day>.md`
-- English translation: `3-TRANSFORMATIONS/Day-Packages-EN/Chapter-<N> D<a>-D<b>/<day>-en.md`
+- Tibetan source-of-record: `3-TRANSFORMATIONS/Day-Packages/bo/Chapter-<N> D<a>-D<b>/<day>.md`
+- English translation: `3-TRANSFORMATIONS/Day-Packages/en/Chapter-<N> D<a>-D<b>/<day>-en.md`
 
 Both are **protected source-of-truth files**: they carry the `protected: true` frontmatter, the `🔒 PROTECTED` banner, and are tracked by the drift-guard. After writing, re-baseline the guard (Phase C).
 
@@ -67,7 +67,7 @@ date: "<Mon D>"
 status: draft
 language: en                      # "bo" is not used; Tibetan file omits document_type/translated_from
 document_type: english-translation
-translated_from: "…/Day-Packages/Chapter-<N> …/<day>.md"
+translated_from: "…/Day-Packages/bo/Chapter-<N> …/<day>.md"
 sources:
   plan_day_file: "…/en/Days/Chapter-1 …/<day>.md"   # Ch 1; for Ch 2+ English package point to the curated Days/Chapter-<N> …/<day>-ch<c>-v<range>-eng.md file (Tibetan package still points to the Dalai Lama plan file)
   schedule_file: "…/assets/schedule-hhdl-birthday.md"
@@ -166,7 +166,7 @@ Key format invariants (full list in `_TEMPLATE.md`):
 3. **Terminology comes from `_TERMBASE.md`.** Use the listed renderings verbatim (e.g. `tenzin-gyatso → His Holiness the Dalai Lama (Teaching on Entering the Bodhisattva's Way of Life)`). If a needed term is absent from the termbase, stop and ask; do not coin a new rendering silently.
 4. **The machine id never appears in a reader-facing heading or in prose.** Commentator ids (`tenzin-gyatso`, `kunpal`, …) live in anchors only. If the raw slug appears in a synthesis bullet, key-terms cell, or story label, replace it with the display name.
 5. **His Holiness first when present.** After writing, run `reorder_commentators.py` to guarantee the order even if the draft placed him elsewhere. Verses with no `tenzin-gyatso` block are left as they are.
-6. **Do not edit `1-SOURCES/`.** Rails and plan files are read-only inputs. This skill writes only to the two Day-Packages folders (and re-baselines the guard).
+6. **Do not edit `1-SOURCES/`.** Rails and plan files are read-only inputs. This skill writes only to the two Day-Packages/bo folders (and re-baselines the guard).
 7. **A day is not done until `validate` passes with zero errors** and the drift-guard has been re-recorded.
 8. **Both files are protected.** Preserve the `🔒 PROTECTED` banner and `protected: true` / `edit_policy:` frontmatter on both.
 9. **Section 1 source and language.** Take Section 1 from the correct plan file for the chapter (see Inputs). **Omit Notification for Chapter 2+.** The English package's Section 1 uses the plan's English text; the Tibetan package's Section 1 uses the plan's Tibetan text. The `*(Source: …)*` line at the end of Section 1 points to the plan file actually used.
@@ -179,7 +179,7 @@ Key format invariants (full list in `_TEMPLATE.md`):
 ### Phase A — Build the Tibetan source-of-record `<day>.md`
 
 1. In `schedule-hhdl-birthday.md`, look up the day's **verse range** and **date**. Derive the chapter and the `Chapter-<N> D<a>-D<b>` folder name.
-2. Create the output folders if absent under both `Day-Packages/` and `Day-Packages-EN/`.
+2. Create the output folders if absent under both `Day-Packages/bo/` and `Day-Packages/en/`.
 3. Read each verse's rail at `2-RAILS/Verses/<verse-id>-summary.md`. For each verse, **copy verbatim** into the Verse Rails section: Root Verse, Interlinear Gloss, Commentary Explanations (one H5 per commentator), Stories, Metaphors, Scriptural Quotations, Main Teaching Points, Key Terms, Verse Synthesis. Keep the rails' Tibetan/Sanskrit prose and their citations.
 4. Build Section 1 (Today's Challenge) from the chapter's plan file (see Inputs → "Section 1 source, by chapter"). For **Chapter 1**, copy Notification, Opening, From the Tradition, Today's Practice. For **Chapter 2+**, take the Dalai Lama plan file's **Tibetan** sections into the Tibetan package — Opening ← `ངོ་སྤྲོད།`, From the Tradition ← `འགྲེལ་བཤད།`, Today's Practice ← `དེ་རིང་གི་ཉམས་ལེན།` — and **omit Notification**. End the section with a `*(Source: <plan file>)*` line pointing to the file used.
 5. Fill Section 2 (Today's Verses) and each verse's Root Verse from `BCA-Full-Plain-English.md` by block id.
@@ -204,7 +204,7 @@ Key format invariants (full list in `_TEMPLATE.md`):
     Fix every reported error and re-run until it passes.
 15. Re-baseline the drift-guard (the two new files are protected):
     `python3 4-SYSTEM/scripts/day-package/day_package_tools.py guard record`
-    then `guard check` to confirm `OK`. `guard.paths` uses chapter-agnostic globs (`Day-Packages-EN/*/*.md`, `Day-Packages/*/[0-9]*.md`), so a new chapter's files are picked up automatically — no need to edit it.
+    then `guard check` to confirm `OK`. `guard.paths` uses chapter-agnostic globs (`Day-Packages/en/*/*.md`, `Day-Packages/bo/*/[0-9]*.md`), so a new chapter's files are picked up automatically — no need to edit it.
 
 ---
 

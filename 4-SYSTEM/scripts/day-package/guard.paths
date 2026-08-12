@@ -1,9 +1,9 @@
 # Protected source-of-truth files (globs relative to vault root).
 # Consumed by the assistant / plan pipeline. Any change to these requires
 # explicit human confirmation (see 4-SYSTEM/CLAUDE.md -> "Protected files").
-3-TRANSFORMATIONS/Day-Packages-EN/*/*.md
-3-TRANSFORMATIONS/Day-Packages/*/[0-9]*.md
-3-TRANSFORMATIONS/Day-Packages/_TEMPLATE.md
-3-TRANSFORMATIONS/Day-Packages/_TERMBASE.md
+3-TRANSFORMATIONS/Day-Packages/en/*/*.md
+3-TRANSFORMATIONS/Day-Packages/bo/*/[0-9]*.md
+3-TRANSFORMATIONS/Day-Packages/bo/_TEMPLATE.md
+3-TRANSFORMATIONS/Day-Packages/bo/_TERMBASE.md
 4-SYSTEM/scripts/day-package/day_package_tools.py
 4-SYSTEM/scripts/day-package/reorder_commentators.py

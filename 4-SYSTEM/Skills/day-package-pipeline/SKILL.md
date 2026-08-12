@@ -22,8 +22,8 @@ Gather all of the following before starting. If any is missing or ambiguous, sto
 | Verse rails | Per-verse source content (root verse, interlinear gloss, per-commentator explanations, stories, metaphors, scriptural quotations, main teaching points, key terms, synthesis) | `2-RAILS/Verses/<verse-id>-summary.md` |
 | Plan day file (Section 1) | The Challenge track. **Source differs by chapter, and by language for Ch 2+** — see the note below. | Ch 1: `…/en/Days/Chapter-1 D1-D14/<day>.md` · Ch 2+ Tibetan: `3-TRANSFORMATIONS/Plans/Dalai Lama/Chapter-<N> …/Day-<day>-Ch<c>-V<a>-<b>.md` · Ch 2+ English: `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/Chapter-<N> D<a>-D<b>/<day>-ch<c>-v<range>-eng.md` — a top-level file only; if absent, stop and ask (never substitute `Archive/`, `Drafts and Options/`, or the Dalai Lama file's English block) |
 | Plain-English verses | Reader-facing verse text, addressed by block id (`^1-1`, `^2-1` …) | `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md` |
-| Format contract | The locked template every output must match | `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/_TEMPLATE.md` |
-| Termbase | Fixed Buddhist-term renderings + the commentator id → display-name table | `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/_TERMBASE.md` |
+| Format contract | The locked template every output must match | `3-TRANSFORMATIONS/Day-Packages/_TEMPLATE.md` |
+| Termbase | Fixed Buddhist-term renderings + the commentator id → display-name table | `3-TRANSFORMATIONS/Day-Packages/_TERMBASE.md` |
 | Tooling | Validator/conform/guard and the reorder script | `4-SYSTEM/scripts/day-package/day_package_tools.py`, `…/reorder_commentators.py` |
 
 **Section 1 source, by chapter (this is the part that changes most between chapters):**
@@ -45,8 +45,8 @@ Gather all of the following before starting. If any is missing or ambiguous, sto
 
 Two files, one per language, in the two parallel folders (create the `Chapter-<N> D<a>-D<b>` folder if it does not exist):
 
-- Tibetan source-of-record: `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages/Chapter-<N> D<a>-D<b>/<day>.md`
-- English translation: `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Day-Packages-EN/Chapter-<N> D<a>-D<b>/<day>-en.md`
+- Tibetan source-of-record: `3-TRANSFORMATIONS/Day-Packages/Chapter-<N> D<a>-D<b>/<day>.md`
+- English translation: `3-TRANSFORMATIONS/Day-Packages-EN/Chapter-<N> D<a>-D<b>/<day>-en.md`
 
 Both are **protected source-of-truth files**: they carry the `protected: true` frontmatter, the `🔒 PROTECTED` banner, and are tracked by the drift-guard. After writing, re-baseline the guard (Phase C).
 

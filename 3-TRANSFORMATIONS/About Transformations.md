@@ -8,7 +8,7 @@ The split between descriptive rails and prescriptive transformations is what mak
 
 ---
 
-## 1. The three categories
+## 1. The categories
 
 Every transformation falls into one of three categories. Each category is a top-level subfolder, and each transformation within a category is a **track** — one coherent output stream with one set of choices.
 
@@ -31,6 +31,23 @@ The track's prescriptive rails are:
 - **`termbase.md`** *(optional)* — only if the adaptation locks specific renderings; many adaptations work directly from the rails without a separate termbase.
 
 See [`Adaptations/About Adaptations.md`](Adaptations/About Adaptations.md) for the convention.
+
+### `Day-Packages/` and `Day-Packages-EN/` — day packages
+
+A matched pair of top-level folders, not a per-track category. `Day-Packages/`
+holds the Tibetan source-of-record file for each day; `Day-Packages-EN/` holds
+its English translation. Both are **protected** — see the protected-file rule in
+[`../4-SYSTEM/CLAUDE.md`](../4-SYSTEM/CLAUDE.md). Built and validated by the
+`day-package-pipeline` skill. Coverage: Chapters 1 and 2.
+
+They sit at the top level rather than inside `Plans/` because they are consumed
+across plan tracks rather than belonging to one.
+
+### `Sharable-Images/` — per-day shareable text
+
+One file per day, carrying the day's practice line, verse and verse id in
+Tibetan, English and Hindi, plus a release date. Not images: the text that goes
+into them. Coverage: days 20–40.
 
 ### `Plans/` — calendar-driven study/practice arcs
 
@@ -66,6 +83,14 @@ See [`Plans/About Plans.md`](Plans/About Plans.md) for the full convention and p
 │ ├── termbase.md # (optional) locked renderings
 │ ├── audience.md # audience profile
 │ └── <output>.md # the generated files
+├── Day-Packages/       # Tibetan day packages, source-of-record (PROTECTED)
+│ └── Chapter-<N> D<s>-D<e>/
+│   └── <day>.md
+├── Day-Packages-EN/    # English day packages (PROTECTED)
+│ └── Chapter-<N> D<s>-D<e>/
+│   └── <day>-en.md
+├── Sharable-Images/    # per-day trilingual text for shareable images
+│ └── day_<N>_sharable_image_text.md
 └── Plans/
  └── <plan-name>/
  ├── About <plan-name>.md # cross-language overview and session shape

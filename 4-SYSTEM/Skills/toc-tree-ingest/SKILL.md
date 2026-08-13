@@ -14,29 +14,18 @@ description: >
 
 # toc-tree-ingest
 
-Inserts section headings derived from a pre-extracted TOC tree into a Tibetan
-commentary file. All nodes across all depths are processed in a **single pass**,
-in strict document order (the order they appear in the toc-tree file).
+Inserts section headings derived from a pre-extracted TOC tree into a Tibetan commentary file. All nodes across all depths are processed in a **single pass**, in strict document order (the order they appear in the toc-tree file).
 
 ---
 
 ## Anchor strategy
 
-Each TOC node has a `[[...]]` context snippet — a verbatim quotation from the
-commentary that appears immediately after that section's opening. The first 60
-characters (trailing tshegs U+0F0B stripped) become the `context_anchor` used
-to locate the heading's insertion point.
+Each TOC node has a `[[...]]` context snippet — a verbatim quotation from the commentary that appears immediately after that section's opening. The first 60
+characters (trailing tshegs U+0F0B stripped) become the `context_anchor` used to locate the heading's insertion point.
 
-**Document-order cursor disambiguation:** nodes are processed in the same
-sequence they appear in the toc-tree file. A cursor tracks the line of the
-last successfully placed heading. When an anchor appears in multiple places
-in the commentary (e.g. the same structural phrase repeated in every chapter),
-the script picks the **first occurrence at or after the cursor**. This
-automatically selects the correct occurrence without any manual disambiguation,
-because the tree's document order mirrors the commentary's document order.
+**Document-order cursor disambiguation:** nodes are processed in the same sequence they appear in the toc-tree file. A cursor tracks the line of the last successfully placed heading. When an anchor appears in multiple places in the commentary (e.g. the same structural phrase repeated in every chapter), the script picks the **first occurrence at or after the cursor**. This automatically selects the correct occurrence without any manual disambiguation, because the tree's document order mirrors the commentary's document order.
 
-Nodes whose anchor appears zero times are flagged as **not-found** and must be
-inserted manually (see Step 3).
+Nodes whose anchor appears zero times are flagged as **not-found** and must be inserted manually (see Step 3).
 
 ---
 
@@ -179,8 +168,7 @@ for d in sorted(c): print(f'  depth {d:2d}: {c[d]}', flush=True)
 "
 ```
 
-Skip this step if `/tmp/toc-tree-BCAC14_GDR_bo.json` already exists and
-the toc-tree file has not changed.
+Skip this step if `/tmp/toc-tree-BCAC14_GDR_bo.json` already exists and the toc-tree file has not changed.
 
 ### Step 2 — Ingest all nodes in one pass
 
@@ -266,14 +254,10 @@ if not_found:
 
 Not-found nodes fall into two categories:
 
-**`[[?]]` entries** — the toc-tree has no context snippet for this node
-(the original OCR produced `[[?]]`). Locate the section in the commentary
-by reading the surrounding prose and understanding the structure, then insert
+**`[[?]]` entries** — the toc-tree has no context snippet for this node (the original OCR produced `[[?]]`). Locate the section in the commentary by reading the surrounding prose and understanding the structure, then insert
 the heading line manually at the correct position.
 
-**Anchor mismatch** — the context snippet exists but contains a character
-that differs from the commentary (OCR variant: e.g. `ས` vs `སྟ`, Thai
-character intrusion, etc.). Read the commentary around the expected location
+**Anchor mismatch** — the context snippet exists but contains a character that differs from the commentary (OCR variant: e.g. `ས` vs `སྟ`, Thai character intrusion, etc.). Read the commentary around the expected location
 and insert the heading manually.
 
 **Manual insertion format:**
@@ -283,22 +267,18 @@ and insert the heading manually.
 ```
 (blank line after; inserted immediately before the section's opening prose)
 
-After all manual insertions, re-run Step 2 — the already-present check will
-skip the manually inserted headings and confirm zero not-found.
+After all manual insertions, re-run Step 2 — the already-present check will skip the manually inserted headings and confirm zero not-found.
 
 ---
 
 ## Rules
 
-1. **No context content in the output.** Only the label and block ID are
-   written to the commentary file. The `[[...]]` text is never inserted.
-2. **No prose is altered.** Existing commentary lines are never deleted,
-   reordered, or retyped.
+1. **No context content in the output.** Only the label and block ID are written to the commentary file. The `[[...]]` text is never inserted.
+2. **No prose is altered.** Existing commentary lines are never deleted, reordered, or retyped.
 3. **Block IDs follow the tree.** No segment cap. Use the full decimal path.
 4. **Single pass, document order.** All depths are ingested in one run.
    The cursor ensures correct placement of repeated structural phrases.
-5. **Idempotent.** The already-present check (looks for block_id in 1–3
-   lines before the anchor) makes re-runs safe.
+5. **Idempotent.** The already-present check (looks for block_id in 1–3 lines before the anchor) makes re-runs safe.
 6. **Write to `/tmp/`** for JSON cache (avoids NTFS ghost-file issues).
 
 ---

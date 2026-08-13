@@ -1,9 +1,8 @@
 {
   "status": "ok",
   "source": "D:\\Work\\OpenPecha\\bodhisattvacharyavatara-rails\\1-SOURCES\\Text\\BCAV08_SH_sk.md",
-  "validated_at": "2026-06-30T07:45:18.711391+00:00",
+  "validated_at": "2026-08-13T05:01:00.685527+00:00",
   "notes": [
-    "bdrc: not set (optional)",
     "wiki: not set (optional)",
     "date: not set (optional)",
     "commentary_of: not set (optional)",
@@ -14,7 +13,7 @@
   ],
   "warnings": [],
   "text_input": {
-    "bdrc": null,
+    "bdrc": "WA19740",
     "wiki": null,
     "date": null,
     "title": {

@@ -1,9 +1,8 @@
 {
   "status": "ok",
   "source": "D:\\Work\\OpenPecha\\bodhisattvacharyavatara-rails\\1-SOURCES\\Translations\\bo-བློ་ལྡན་ཤེས་རབ།.md",
-  "validated_at": "2026-06-30T10:47:50.959258+00:00",
+  "validated_at": "2026-08-13T05:29:09.360450+00:00",
   "notes": [
-    "bdrc: not set (optional)",
     "wiki: not set (optional)",
     "date: not set (optional)",
     "commentary_of: not set (optional)",
@@ -14,15 +13,15 @@
   ],
   "warnings": [],
   "text_input": {
-    "bdrc": null,
+    "bdrc": "MW3KG198",
     "wiki": null,
     "date": null,
     "title": {
-      "bo": "ཀུན་དཔལ་སྤྱོད་འཇུག"
+      "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།"
     },
     "alt_titles": [
       {
-        "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཚིག་འགྲེལ་འཇམ་དབྱངས་བླ་མའི་ཞལ་ལུང་བདུད་རྩིའི་ཐིག་པ།"
+        "bo": "སྤྱོད་འཇུག།"
       }
     ],
     "language": "bo",

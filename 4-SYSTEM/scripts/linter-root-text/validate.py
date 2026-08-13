@@ -12,6 +12,7 @@ EDITION_TYPES = frozenset({"diplomatic", "critical", "collated"})
 
 REF_RE = re.compile(r'(\^[A-Za-z0-9]+(?:-[A-Za-z0-9]+)?)\s*$')
 TRANSCLUSION_RE = re.compile(r'^\s*!\[\[.*?#\^.*?\]\]\s*$')
+DEVANAGARI_RE = re.compile(r'[\u0900-\u097F]')
 
 
 def is_nonempty_string(value):
@@ -48,6 +49,54 @@ def validate_localized_object(value, field, items):
             items.append(("ERROR", f"{field}: property names must be non-empty strings"))
         if not is_nonempty_string(item):
             items.append(("ERROR", f"{field}.{key}: expected string with at least one character"))
+
+
+def _resolved_lang_code(data):
+    raw = data.get("language")
+    if is_nonempty_string(raw):
+        code, _ = resolve_language(raw)
+        if code:
+            return code
+    vault_tag = data.get("lang_tag")
+    if vault_tag and vault_tag in LANGUAGE_VALUES:
+        return vault_tag
+    return None
+
+
+def _assert_iast_not_devanagari(text, field, items):
+    if isinstance(text, str) and DEVANAGARI_RE.search(text):
+        items.append((
+            "ERROR",
+            f"{field}: Sanskrit titles must be IAST (sa-x-iast), not Devanagari",
+        ))
+
+
+def _validate_sanskrit_iast_titles(data, items):
+    """When language is sa, title/alt_titles must be Latin/IAST, not Devanagari."""
+    if _resolved_lang_code(data) != "sa":
+        return
+
+    title = data.get("title")
+    if isinstance(title, str):
+        _assert_iast_not_devanagari(title, "title", items)
+    elif isinstance(title, dict):
+        for key, val in title.items():
+            if key == "en":
+                continue
+            _assert_iast_not_devanagari(val, f"title.{key}", items)
+
+    alt = data.get("alt_titles")
+    if isinstance(alt, str):
+        _assert_iast_not_devanagari(alt, "alt_titles", items)
+    elif isinstance(alt, list):
+        for i, item in enumerate(alt):
+            if isinstance(item, str):
+                _assert_iast_not_devanagari(item, f"alt_titles[{i}]", items)
+            elif isinstance(item, dict):
+                for key, val in item.items():
+                    if key == "en":
+                        continue
+                    _assert_iast_not_devanagari(val, f"alt_titles[{i}].{key}", items)
 
 
 def validate_contribution(value, field, index, items):
@@ -315,7 +364,15 @@ def validate_toc(data, body):
 def validate_text_input(data):
     items = []
 
-    for field in ("bdrc", "wiki", "date", "commentary_of", "translation_of"):
+    # Vault YAML uses bdrc_work_id; build.py maps it to API field bdrc.
+    bdrc_val = data.get("bdrc") or data.get("bdrc_work_id")
+    if "bdrc" in data or "bdrc_work_id" in data:
+        source_key = "bdrc" if data.get("bdrc") else "bdrc_work_id"
+        validate_nullable_string(bdrc_val, source_key, items)
+    else:
+        items.append(("INFO", "bdrc_work_id: not set (optional)"))
+
+    for field in ("wiki", "date", "commentary_of", "translation_of"):
         if field in data:
             validate_nullable_string(data[field], field, items)
         else:
@@ -338,11 +395,25 @@ def validate_text_input(data):
 
     if "alt_titles" in data and data["alt_titles"] is not None:
         alt = data["alt_titles"]
-        if not isinstance(alt, (list, str)):
-            items.append(("ERROR", "alt_titles: expected array or string"))
+        if isinstance(alt, str):
+            if not alt.strip():
+                items.append(("ERROR", "alt_titles: value must be non-empty"))
         elif isinstance(alt, list):
+            if not alt:
+                items.append(("ERROR", "alt_titles: expected a non-empty list"))
             for i, item in enumerate(alt):
-                validate_localized_object(item, f"alt_titles[{i}]", items)
+                if isinstance(item, str):
+                    if not item.strip():
+                        items.append(("ERROR", f"alt_titles[{i}]: expected non-empty string"))
+                elif isinstance(item, dict):
+                    # legacy {lang: title} objects still accepted
+                    validate_localized_object(item, f"alt_titles[{i}]", items)
+                else:
+                    items.append(("ERROR", f"alt_titles[{i}]: expected string (or legacy localized object)"))
+        else:
+            items.append(("ERROR", "alt_titles: expected string or list of strings"))
+
+    _validate_sanskrit_iast_titles(data, items)
 
     vault_tag = data.get("lang_tag")
     if "language" not in data:

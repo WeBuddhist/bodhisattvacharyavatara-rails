@@ -373,103 +373,79 @@ def build_alignment(source_path):
 # CLI
 # ---------------------------------------------------------------------------
 
-DEFAULT_LINT_DIR = Path(__file__).parent.parent / "linter-root-text" / "output"
-
-
 def main(argv=None):
     args = (argv if argv is not None else sys.argv[1:])
+    usage = (
+        'Usage:\n'
+        '  python3 4-SYSTEM\\scripts\\parser-root-text\\parser.py '
+        '"<source.md>" "<file.lint.json>"'
+    )
 
-    if not args:
-        print("Usage:")
-        print("  parser.py <source.md>                    # full parse (lint JSON auto-resolved)")
-        print("  parser.py <source.md> <file.lint.json>   # full parse with explicit lint path")
-        print("  parser.py <file.lint.json>               # extract text_input only")
-        sys.exit(0)
+    if len(args) != 2:
+        print(usage)
+        sys.exit(0 if not args else 1)
 
-    paths = [Path(a) for a in args]
+    source_path, lint_path = Path(args[0]), Path(args[1])
+    if source_path.suffix != ".md" or ".lint" not in lint_path.name:
+        print(usage)
+        sys.exit(1)
 
-    # Auto-resolve lint path from source file name
-    if len(paths) == 1 and paths[0].suffix == ".md":
-        source_path = paths[0]
-        lint_path = DEFAULT_LINT_DIR / (source_path.stem + ".lint.json")
-        if not lint_path.exists():
-            print(f"ERROR lint file not found: {lint_path}", file=sys.stderr)
-            print(f"  Run the linter first, or pass the lint path explicitly.", file=sys.stderr)
-            sys.exit(1)
-        paths = [source_path, lint_path]
+    had_error = False
 
-    if len(paths) == 2 and paths[0].suffix == ".md":
-        source_path, lint_path = paths
-        had_error = False
+    try:
+        source_fm, _ = _read_source(source_path)
+        source_file_type = source_fm.get("file_type", "")
+    except Exception as exc:
+        print(f"ERROR reading source: {exc}", file=sys.stderr)
+        sys.exit(1)
 
+    try:
+        text_out = extract_text_input(lint_path)
+        print(f"OK    {lint_path}  ->  {text_out}")
+    except Exception as exc:
+        print(f"ERROR text_input: {exc}", file=sys.stderr)
+        had_error = True
+
+    edition_result = None
+    try:
+        edition_out, edition_result = build_edition(source_path, lint_path)
+        segs = edition_result["segmentation"]["segments"]
+        content_len = len(edition_result["content"])
+        by_type = {}
+        for s in segs:
+            by_type[s["type"]] = by_type.get(s["type"], 0) + 1
+        print(f"OK    {source_path}  ->  {edition_out}")
+        print(f"  content length   : {content_len} chars")
+        print(f"  segments         : {len(segs)}")
+        for t, n in sorted(by_type.items()):
+            print(f"    {t}: {n}")
+    except Exception as exc:
+        print(f"ERROR edition: {exc}", file=sys.stderr)
+        had_error = True
+
+    if edition_result is not None:
         try:
-            source_fm, _ = _read_source(source_path)
-            source_file_type = source_fm.get("file_type", "")
+            toc_out, toc_result = build_toc(source_path, edition_result)
+            sections = toc_result["sections"]
+            total_sub = sum(len(s.get("subsections", [])) for s in sections)
+            print(f"OK    {source_path}  ->  {toc_out}")
+            print(f"  sections         : {len(sections)}")
+            print(f"  subsections      : {total_sub}")
         except Exception as exc:
-            print(f"ERROR reading source: {exc}", file=sys.stderr)
-            sys.exit(1)
-
-        try:
-            text_out = extract_text_input(lint_path)
-            print(f"OK    {lint_path}  ->  {text_out}")
-        except Exception as exc:
-            print(f"ERROR text_input: {exc}", file=sys.stderr)
+            print(f"ERROR toc: {exc}", file=sys.stderr)
             had_error = True
 
-        edition_result = None
+    if source_file_type in ("translation", "commentary"):
         try:
-            edition_out, edition_result = build_edition(source_path, lint_path)
-            segs = edition_result["segmentation"]["segments"]
-            content_len = len(edition_result["content"])
-            by_type = {}
-            for s in segs:
-                by_type[s["type"]] = by_type.get(s["type"], 0) + 1
-            print(f"OK    {source_path}  ->  {edition_out}")
-            print(f"  content length   : {content_len} chars")
-            print(f"  segments         : {len(segs)}")
-            for t, n in sorted(by_type.items()):
-                print(f"    {t}: {n}")
+            align_out, align_result = build_alignment(source_path)
+            n = len(align_result["alignments"])
+            print(f"OK    {source_path}  ->  {align_out}")
+            print(f"  alignments       : {n}")
         except Exception as exc:
-            print(f"ERROR edition: {exc}", file=sys.stderr)
+            print(f"ERROR alignment: {exc}", file=sys.stderr)
             had_error = True
 
-        if edition_result is not None:
-            try:
-                toc_out, toc_result = build_toc(source_path, edition_result)
-                sections = toc_result["sections"]
-                total_sub = sum(len(s.get("subsections", [])) for s in sections)
-                print(f"OK    {source_path}  ->  {toc_out}")
-                print(f"  sections         : {len(sections)}")
-                print(f"  subsections      : {total_sub}")
-            except Exception as exc:
-                print(f"ERROR toc: {exc}", file=sys.stderr)
-                had_error = True
-
-        if source_file_type in ("translation", "commentary"):
-            try:
-                align_out, align_result = build_alignment(source_path)
-                n = len(align_result["alignments"])
-                print(f"OK    {source_path}  ->  {align_out}")
-                print(f"  alignments       : {n}")
-            except Exception as exc:
-                print(f"ERROR alignment: {exc}", file=sys.stderr)
-                had_error = True
-
-        if had_error:
-            sys.exit(1)
-
-    elif len(paths) == 1 and ".lint" in paths[0].name:
-        try:
-            text_out = extract_text_input(paths[0])
-            print(f"OK    {paths[0]}  ->  {text_out}")
-        except Exception as exc:
-            print(f"ERROR: {exc}", file=sys.stderr)
-            sys.exit(1)
-
-    else:
-        print("Usage:")
-        print("  parser.py <file.lint.json>               # extract text_input")
-        print("  parser.py <source.md> <file.lint.json>   # full parse")
+    if had_error:
         sys.exit(1)
 
 

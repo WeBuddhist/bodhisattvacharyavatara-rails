@@ -1,6 +1,9 @@
 ---
 book_id: BCAV08_SH_sk
 title: bodhisattvacaryāvatāra
+alt_titles:
+ - Bodhi(sattva)caryāvatāra
+ - bodhicaryāvatāra
 author: Śāntideva[bdrc:P6161]
 language: Sanskrit
 category_id: JD5ULLPAV1cxg7RSb7L3q

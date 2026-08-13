@@ -4,7 +4,7 @@ Takes a linted source file and produces API-ready JSON payloads for the edition,
 
 ## What it does
 
-Runs up to four functions depending on the inputs provided:
+Runs these functions from the source `.md` and its lint JSON:
 
 1. **extract_text_input** — strips null/empty fields from the lint JSON and writes a clean `text.json`
 2. **build_edition** — extracts content from the source `.md`, builds a segmented edition with character-level spans, writes `edition.json`
@@ -40,16 +40,10 @@ Requires Python 3.8+.
 
 ## How to run
 
-Run from the project root (`bodhisattvacharyavatara-rails/`).
+Run from the project root (`bodhisattvacharyavatara-rails/`):
 
-**Full parse (text + edition + TOC + alignment):**
 ```bash
 python3 4-SYSTEM\scripts\parser-root-text\parser.py "1-SOURCES\Text\BCAV08_SH_sk.md" "4-SYSTEM\scripts\linter-root-text\output\BCAV08_SH_sk.lint.json"
-```
-
-**Text only (from lint JSON):**
-```bash
-python3 4-SYSTEM\scripts\parser-root-text\parser.py "4-SYSTEM\scripts\linter-root-text\output\BCAV08_SH_sk.lint.json"
 ```
 
 ## Notes

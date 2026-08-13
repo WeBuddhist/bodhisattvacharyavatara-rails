@@ -1,5 +1,6 @@
 ---
 title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
+alt_titles: སྤྱོད་འཇུག།
 translator: Sarvajñādeva[bdrc:P00KG07267]; Bande Paltsek[bdrc:P8182]; Dharmaśrībhadra[bdrc:P8171]; Rinchen Zangpo[bdrc:P753]; Śākya-blo-gros[bdrc:P8216]; Sumatikīrti[bdrc:P8893]; Blo ldan shes rab[bdrc:P2551]
 language: Tibetan
 file_type: translation
@@ -12,7 +13,7 @@ source_description: Canonical Tibetan translation (Kangyur, Derge edition). Tran
 source: https://webuddhist.com/
 license: public
 category_id: JD5ULLPAV1cxg7RSb7L3q
-bdrc_work_id: WA00KG0545
+bdrc_work_id: MW3KG198
 text_id: 0lvicjSqSLdtXCZQjSYvj
 edition_id: 3rCvwAoWrzKGlIQdtLjCu
 toc_id: TihAXeCXX5XQzQGwL2M0C

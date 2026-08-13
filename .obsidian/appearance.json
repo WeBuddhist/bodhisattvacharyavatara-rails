@@ -1,7 +1,8 @@
 {
   "textFontFamily": "",
-  "baseFontSize": 18,
-  "theme": "obsidian",
-  "accentColor": "#5cb2f5",
-  "cssTheme": ""
+  "baseFontSize": 25,
+  "theme": "system",
+  "accentColor": "",
+  "cssTheme": "",
+  "baseFontSizeAction": true
 }

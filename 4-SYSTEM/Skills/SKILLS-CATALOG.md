@@ -412,12 +412,6 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 **Outputs:** Vietnamese translation at the target grade with a locked-term table; optionally saved to `3-TRANSFORMATIONS/Translations/vi-<grade>/`.
 → [`vietnamese-translation/bo-vi-translate-skill.md`](vietnamese-translation/bo-vi-translate-skill.md)
 
-### `365-day-practice-plan-generator` (`bca-practice-plan`) **[exists]**
-**Purpose:** Generate a complete single-day BCA (སྤྱོད་འཇུག) practice-plan session document in the traditional **6-section** format, in **Tibetan**. The Tibetan-stream counterpart of `en-365-day-practice-plan-generator`: fixed refuge/bodhicitta opening, day-specific motivation, the assigned verses, commentary and application, fixed dedication/aspiration closing.
-**Inputs:** Day number (1–365); chapter + verse range (or looked up from the `bo` schedule); commentary language (default Tibetan).
-**Outputs:** A Tibetan-language day file for the Bodhisattva Challenge `bo` stream, built from the root text and matching `2-RAILS/Verses/<verse-id>-summary.md` files.
-→ [`365-day-practice-plan-generator/SKILL.md`](365-day-practice-plan-generator/SKILL.md)
-
 ### `Daily-Challenge-Creator` (`daily-challenge-creator`) **[exists]**
 **Purpose:** Generate one concrete trilingual daily practice (ལག་ལེན) and explanation (འགྲེལ་བཤད) per BCA verse, reading all four lines as a whole to identify the central teaching, in Tibetan → English → Hindi.
 **Inputs:** One or more སྤྱོད་འཇུག verses.
@@ -502,6 +496,12 @@ languages by translating the Dalai Lama track Tibetan day plan.
 - About 45 existing day files under `en/Days/` and `hi/Days/` carry
   `generated_by: english-plan-generator` in frontmatter. **Leave these alone** —
   they are an accurate record of how those files were actually made.
+
+---
+
+## Deleted 2026-08-13
+
+`365-day-practice-plan-generator` (`bca-practice-plan`) — the Tibetan-stream 6-section day-plan generator was deleted outright at explicit user request (not archived to `_to_delete/`). It generated the traditional 6-section Tibetan practice-plan format; superseded in practice by the Dalai Lama–track / `day-package-pipeline` skills. No known active references depend on it; the only prior mentions were in `0-INBOX/vault-audit-2026-05-29.md` (noting it was missing from this catalog) and a docstring comment in `4-SYSTEM/scripts/365-Day-Plans/generate_practice_plan.py` pointing at its old SKILL.md — both informational, not functional dependencies.
 
 ---
 

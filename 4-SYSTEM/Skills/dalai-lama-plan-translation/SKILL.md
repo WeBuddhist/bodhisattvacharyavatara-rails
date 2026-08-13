@@ -43,8 +43,9 @@ it is the whole reason the three language streams stay aligned.
 
 - Which day number(s). Verify the Tibetan file exists and is populated at
   `3-TRANSFORMATIONS/Plans/Dalai Lama/Chapter-<C> D<s>-D<e>/Day-<N>-Ch<C>-V<vs>-<ve>.md`.
-  Coverage as of writing: Chapter 1 (all 14), Chapter 2 (26), Chapter 3 (4),
-  Chapter 4 (2). An empty or stub file is a stop, not a guess.
+  Coverage as of writing: Chapter 1 (14), Chapter 2 (26), Chapter 3 (10, days
+  41-50; 51-54 are empty stubs), Chapter 4 (2). An empty or stub file is a stop,
+  not a guess.
 - Verify the verse range against `Plans/Dalai Lama/Tibetan-schedule-corrected.md`.
 - Both languages by default, **each translated directly from the Tibetan** — not
   Hindi from English. Hindi carries this material natively (धर्म, कर्म, पुण्य,
@@ -53,40 +54,82 @@ it is the whole reason the three language streams stay aligned.
 
 ## Step 1 — Locate the sections by heading, never by number
 
-Section numbering is not stable. In the Dalai Lama track, section ༦ is
-`དེ་རིང་གི་ཉམས་ལེན།` in 26 files but `ཉམས་སུ་ལེན་ཚུལ།` in 14. In the neighbouring
-`Plans/Himalayan/` track, section ༦ is the *dedication*. A skill that grabs
-"section six" will eventually render a dedication verse as a practice
+Neither the numbering, the heading level, nor the section order is stable across
+chapters. Section ༦ is `དེ་རིང་གི་ཉམས་ལེན།` in 26 Chapter-2 files but
+`ཉམས་སུ་ལེན་ཚུལ།` in 14; in the neighbouring `Plans/Himalayan/` track, section ༦
+is the *dedication*. And Chapter 3 drops the numerals entirely, moves the
+dedication ahead of the practice, and renames the commentary section. A skill
+that grabs "section six" will eventually render a dedication verse as a practice
 instruction.
 
-Match on this variant table, then confirm the content shape:
+### Two templates in use
+
+**Chapter 1-2 template** — `###` headings, Tibetan numerals, no emoji:
+
+```
+### ༡། སྐྱབས་འགྲོ་སེམས་བསྐྱེད།   ### ༤། འགྲེལ་བཤད།
+### ༢། ངོ་སྤྲོད།                ### ༥། བསྔོ་བ་དང་སྨོན་ལམ།
+### ༣། དེ་རིང་གི་རྩ་ཚིག          ### ༦། དེ་རིང་གི་ཉམས་ལེན།
+```
+
+**Chapter 3 template** — `#` headings, emoji prefix, no numerals, dedication
+before practice:
+
+```
+# 🪷 སྐྱབས་འགྲོ་སེམས་བསྐྱེད།    # 💡 གོ་རྟོགས།
+# ☕️ ངོ་སྤྲོད།                # 💧 བསྔོ་བ་དང་སྨོན་ལམ།
+# 📖 དེ་རིང་གི་རྩ་ཚིག           # 📿 དེ་རིང་གི་ཉམས་ལེན།
+```
+
+**Normalise before matching.** Strip the leading `#` marks, any emoji, any
+Tibetan numeral and its `།`, and trailing whitespace or `:` — then compare the
+bare Tibetan phrase against the table below.
 
 | Slot | Accepted headings |
 |---|---|
 | Introduction | `ངོ་སྤྲོད།` |
-| Commentary | `འགྲེལ་བཤད།` as a `###` section heading — **not** the `####` per-verse `འགྲེལ་བཤད།` sub-headings under ༣, and **not** the `**འགྲེལ་བཤད།**` bold sub-label inside ༦ |
+| Commentary | `འགྲེལ་བཤད།` **or** `གོ་རྟོགས།` — see the note below |
 | Practice | `དེ་རིང་གི་ཉམས་ལེན།`, `ཉམས་སུ་ལེན་ཚུལ།`, `ཉིན་རེའི་འཚོ་བའི་ནང་ཉམས་སུ་ལེན་ཚུལ།` |
 
+**`གོ་རྟོགས།` is the commentary slot.** Chapter 3 uses it where Chapters 1-2 use
+`འགྲེལ་བཤད།`; they are the same section under two names. Take it as such.
+
+**`འགྲེལ་བཤད།` is ambiguous — match it only as a top-level section heading.** The
+same word appears three other ways in these files, and none of them is this slot:
+the `####` per-verse sub-headings under the root-verse section, the
+`**འགྲེལ་བཤད།**` bold sub-label inside the practice section, and Chapter 3's
+`## དེའི་འགྲེལ་བཤད།:` sub-label (Step 2).
+
 Shape checks: the introduction is a single paragraph; the commentary is one or
-two paragraphs of continuous prose with no block quotes; the practice section
-opens with a bold sub-label. If a slot is missing, empty, or fails its check,
+more paragraphs of continuous prose with no block quotes; the practice section
+opens with a labelled sub-block. If a slot is missing, empty, or fails its check,
 **stop and report** — do not substitute a neighbouring section.
 
-## Step 2 — Parse section ༦ as labelled sub-blocks
+## Step 2 — Parse the practice section as labelled sub-blocks
 
-Sub-labels vary: `**ཉམས་ལེན་དངོས།**` (12 files), `**ལག་ལེན།**` (14), and the
-explanation label appears both as `**འགྲེལ་བཤད།**` and `**འགྲེལ་བཤད།:**`.
+Sub-labels vary by chapter and by file. They appear as bold text
+(`**ཉམས་ལེན་དངོས།**`), as `####` headings, or as `##` headings with a trailing
+colon (`## ཉམས་ལེན་དངོས།:`). Normalise the same way as Step 1 — strip heading
+marks, bold markers and any trailing `:` — then match the bare phrase.
 
 **Translate only these two sub-blocks**, using the plan's established labels:
 
 | Tibetan label | English | Hindi |
 |---|---|---|
 | `ཉམས་ལེན་དངོས།` / `ལག་ལེན།` | `**Actual Practice:**` | `**मुख्य अभ्यास:**` |
-| `འགྲེལ་བཤད།` | `**Explanation:**` | `**व्याख्या:**` |
+| `འགྲེལ་བཤད།` / `དེའི་འགྲེལ་བཤད།` | `**Explanation:**` | `**व्याख्या:**` |
+
+`དེའི་འགྲེལ་བཤད།` ("the explanation of it") is Chapter 3's form of the same
+label. Do not confuse it with the top-level commentary section — inside the
+practice block it is always the explanation sub-label.
 
 **Do not translate or carry:** `མཆན།` (notes), `ཁ་སྐོང་།` (supplement),
-`གནད་ཚིག` (key terms), `གཏམ་རྒྱུད།` (story), and the `#### པར་གྱི་ཚིགས་བཅད།`
-image-verse block.
+`གནད་ཚིག` (key terms), `གཏམ་རྒྱུད།` (story) **when it appears as a labelled
+sub-block here** — this is not the same as narrative inside the commentary
+section, which is translated (Step 4) — and the repeated-verse block that
+closes the practice section — `པར་གྱི་ཚིགས་བཅད།` in Chapters 1-2,
+`ཚིགས་བཅད་དངོས།` in Chapter 3. Both are production artifacts that restate a root
+verse already carried in Today's Verse.
 
 ### Practice-category label
 
@@ -99,22 +142,25 @@ edit and two places to drift.
 A category not in the termbase table is a stop: propose a rendering, log it
 under the termbase's "Pending terms", and ask before writing the day.
 
-## Step 3 — Today's Verse, and verse lines quoted inside ༦
+## Step 3 — Today's Verse, and verse lines quoted inside the practice section
 
 Both come from the same place, by block-ID lookup. **Never translate a verse
 fresh.**
 
 | Language | Source |
 |---|---|
-| English | `AI_translation/english/bca-english-plain.md` |
-| Hindi | `AI_translation/hindi/bca-hindi-plain.md` |
+| English | `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md` |
+| Hindi | `3-TRANSFORMATIONS/Translations/AI_translation/hindi/bca-hindi-plain.md` |
 
 These are the only two verse sources; do not substitute another. Both are
 full-text, block-ID addressed (`^<C>-<N>`), and produced by the rails translation
 track, so they are the course's own renderings.
 
 **The Today's Verse block:** one block-quote per verse in the day's range,
-verbatim, block IDs contiguous and matching the `verse:` frontmatter. Verses are
+verbatim, block IDs contiguous and matching the `verse:` frontmatter. Note that
+Chapter 3's Tibetan files present their root verses as plain lines rather than
+block quotes — that is the *source's* formatting and does not change the output,
+which always block-quotes. Verses are
 lineated across four lines with the block ID on the last line only; reproduce
 that lineation and keep the trailing `^<C>-<N>`.
 
@@ -200,11 +246,21 @@ established formula, "Today's practice is based on verse(s) … from the …
 chapter of the _Bodhicaryāvatāra_." / "आज का अभ्यास _बोधिचर्यावतार_ के …
 अध्याय के श्लोक … पर आधारित है।" Note a chapter change when there is one.
 
-**2) Commentary Explanation.** Third person, expository. Preserve attributions
+**2) Commentary Explanation.** Third person. Preserve attributions
 exactly as the Tibetan states them: `སློབ་དཔོན་ཞི་བ་ལྷས།` → "Master Shantideva";
 `འགྲེལ་བ་རྣམས་སུ་གསུངས་པ་ལྟར།` → "as the commentaries say". Never drop an
 attribution for smoothness and never sharpen a vague one ("the commentaries")
 into a named commentator the Tibetan does not name.
+
+Chapter 3's `གོ་རྟོགས།` is frequently **narrative** rather than expository — the
+Tibetan itself calls it `གཏམ་རྒྱུད།`, and the sections tell stories (King
+Prasenajit and the beggar Sada rejoicing; Shakyamuni as the potter's son
+generating bodhicitta). Translate the story as a story: keep the sequence of
+events in order, keep the names, and let it run as narrative rather than
+flattening it into a summary of its moral. The no-additions rule is unchanged —
+do not supply motivation, scene-setting or a closing lesson the Tibetan does not
+state. A story's ending is usually its point, and the Tibetan states it; do not
+restate it a second time in your own words.
 
 **3) Today's Practice.** Stays **first person and forward-looking** —
 `ངས་དེ་རིང་… བྱེད་རྒྱུ་ཡིན།` is *"Today I will…"*, not *"You should…"* and not
@@ -264,7 +320,7 @@ chapter: <C>
 verse: "<vs>-<ve>"
 generated_by: dalai-lama-plan-translation
 translated_from: "3-TRANSFORMATIONS/Plans/Dalai Lama/Chapter-<C> D<s>-D<e>/Day-<N>-Ch<C>-V<vs>-<ve>.md"
-verse_source: "AI_translation/english/bca-english-plain.md"
+verse_source: "3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md"
 pending_terms: []
 status: draft
 ---
@@ -288,7 +344,7 @@ status: draft
 
 ### Hindi template
 
-Same frontmatter with `verse_source: "AI_translation/hindi/bca-hindi-plain.md"`.
+Same frontmatter with `verse_source: "3-TRANSFORMATIONS/Translations/AI_translation/hindi/bca-hindi-plain.md"`.
 Headings use Devanagari numerals:
 
 ```markdown
@@ -394,3 +450,9 @@ Report the following **in the reply, not in the file**:
   commentator the Tibetan does not name.
 - Reaching into `2-RAILS/` because the Tibetan section feels thin. It is not this
   skill's source.
+- Failing to recognise `གོ་རྟོགས།` as the commentary slot and stopping on a
+  Chapter 3 day that is perfectly translatable.
+- Matching `འགྲེལ་བཤད།` against Chapter 3's `## དེའི་འགྲེལ་བཤད།:` sub-label and
+  translating the practice explanation as though it were the commentary section.
+- Assuming the dedication still sits between the commentary and the practice. In
+  Chapter 3 it sits before the practice, so position tells you nothing.

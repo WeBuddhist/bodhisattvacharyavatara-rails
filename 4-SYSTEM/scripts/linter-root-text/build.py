@@ -4,13 +4,24 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
-from constants import SCHEMA_FIELDS, LANG_TAG_MAP, LANG_TO_BCP47, LANGUAGE_VALUES
-from lookup import lookup_person, search_bdrc_work, fetch_bdrc_work_titles
+from constants import SCHEMA_FIELDS, LANG_TAG_MAP, LANGUAGE_VALUES
+from lookup import lookup_person
 from validate import validate_text_input, resolve_language
 
 OUTPUT_DIR = Path(__file__).parent / "output"
 
 _WYLIE_RE = __import__('re').compile(r"'[a-zA-Z]")
+
+# Title/alt_titles script tags (may differ from language code).
+# Sanskrit content is IAST; language field stays "sa".
+_TITLE_LANG_KEYS = {
+    "sa": "sa-x-iast",
+}
+
+
+def _title_lang_key(vault_tag):
+    base = LANG_TAG_MAP.get(vault_tag, vault_tag) or "default"
+    return _TITLE_LANG_KEYS.get(base, base)
 
 def _wylie_to_unicode(text, lang_tag):
     if lang_tag != "bo":
@@ -48,64 +59,49 @@ def build_text_input(data):
     vault_tag = data.get("lang_tag") or ""
     person_warnings = []
 
-    # Pre-fetch BDRC work title info
-    # For translations, only use BDRC if bdrc_work_id is explicitly set —
-    # AI translations won't have a BDRC record; title/alt_titles come from the YAML.
-    bdrc_work_info = None
-    bdrc_work_id = data.get("bdrc_work_id") or data.get("bdrc")
-    file_type = data.get("file_type", "")
-    raw_title = data.get("title")
-    if not bdrc_work_id and file_type != "translation" and raw_title and isinstance(raw_title, str) and raw_title.strip():
-        bdrc_work_id, work_warn = search_bdrc_work(raw_title.strip())
-        if work_warn:
-            person_warnings.append(work_warn)
-    if bdrc_work_id:
-        bdrc_work_info, ttl_warn = fetch_bdrc_work_titles(bdrc_work_id)
-        if ttl_warn:
-            person_warnings.append(ttl_warn)
-        if bdrc_work_info:
-            payload["_resolved_bdrc_work_id"] = bdrc_work_id
-            doc_lang = LANG_TAG_MAP.get(vault_tag, vault_tag)
-            for bcp47 in LANG_TO_BCP47.get(doc_lang, [doc_lang]):
-                if bcp47 in bdrc_work_info["pref"]:
-                    payload["_resolved_title"] = bdrc_work_info["pref"][bcp47]
-                    break
-
     for field in SCHEMA_FIELDS:
-        if field == "title":
-            if bdrc_work_info and bdrc_work_info.get("pref"):
-                title_obj = dict(bdrc_work_info["pref"])
-            else:
-                title_obj = {}
-                raw = data.get("title")
-                if isinstance(raw, str) and raw.strip():
-                    lang_key = LANG_TAG_MAP.get(vault_tag, vault_tag) or "default"
-                    title_obj[lang_key] = raw
-                elif isinstance(raw, dict):
-                    title_obj = dict(raw)
-                en_title = data.get("title in English") or data.get("title_in_english")
-                if en_title and isinstance(en_title, str) and en_title.strip():
-                    title_obj["en"] = en_title
+        if field == "bdrc":
+            # Prefer explicit schema key; fall back to vault-only bdrc_work_id.
+            payload["bdrc"] = data.get("bdrc") or data.get("bdrc_work_id") or None
+
+        elif field == "title":
+            title_obj = {}
+            raw = data.get("title")
+            if isinstance(raw, str) and raw.strip():
+                lang_key = _title_lang_key(vault_tag)
+                title_obj[lang_key] = raw
+            elif isinstance(raw, dict):
+                title_obj = dict(raw)
+            en_title = data.get("title in English") or data.get("title_in_english")
+            if en_title and isinstance(en_title, str) and en_title.strip():
+                title_obj["en"] = en_title
             # Convert bo-x-ewts or bo Wylie values to Unicode
             payload["title"] = _convert_bo_entry(title_obj) if title_obj else None
 
-
         elif field == "alt_titles":
-            if bdrc_work_info and bdrc_work_info.get("alt"):
-                raw_alts = bdrc_work_info["alt"]
+            # Accepted YAML forms:
+            #   alt_titles: "one title"
+            #   alt_titles: ["variant a", "variant b"]
+            # Both are wrapped with the title script tag (sa → sa-x-iast).
+            alt = data.get("alt_titles")
+            lang_key = _title_lang_key(vault_tag)
+            if isinstance(alt, str) and alt.strip():
+                raw_alts = [{lang_key: alt.strip()}]
+            elif isinstance(alt, list):
+                raw_alts = []
+                for item in alt:
+                    if isinstance(item, str) and item.strip():
+                        raw_alts.append({lang_key: item.strip()})
+                    elif isinstance(item, dict):
+                        # legacy {lang: title} objects still accepted
+                        raw_alts.append(item)
             else:
-                alt = data.get("alt_titles")
-                if isinstance(alt, str) and alt.strip():
-                    lang_key = LANG_TAG_MAP.get(vault_tag, vault_tag) or "default"
-                    raw_alts = [{lang_key: alt}]
-                else:
-                    raw_alts = alt
+                raw_alts = alt
             # Convert bo-x-ewts Wylie entries to Unicode and normalize key to "bo"
             if isinstance(raw_alts, list):
                 payload["alt_titles"] = [_convert_bo_entry(e) for e in raw_alts]
             else:
                 payload["alt_titles"] = raw_alts
-
 
         elif field == "language":
             raw_lang = data.get("language", "")
@@ -204,11 +200,9 @@ def write_output(path, doc_info, items):
     built = build_text_input(doc_info)
     person_warnings = built.pop("_person_warnings", [])
     resolved_author = built.pop("_resolved_author", None)
-    resolved_title = built.pop("_resolved_title", None)
-    resolved_bdrc_work_id = built.pop("_resolved_bdrc_work_id", None)
 
     if not built.get("alt_titles"):
-        items.append(("ERROR", "alt_titles: required (not found in source or BDRC)"))
+        items.append(("ERROR", "alt_titles: required (set in YAML frontmatter)"))
 
     errors = [m for l, m in items if l == "ERROR"]
     infos = [m for l, m in items if l == "INFO"]
@@ -237,7 +231,7 @@ def write_output(path, doc_info, items):
         }
 
     out_path.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
-    return out_path, person_warnings, resolved_author, resolved_title, resolved_bdrc_work_id
+    return out_path, person_warnings, resolved_author
 
 
 def write_edition_output(path, doc_info, items):
@@ -248,8 +242,9 @@ def write_edition_output(path, doc_info, items):
     built = build_text_input(doc_info)
     person_warnings = built.pop("_person_warnings", [])
     resolved_author = built.pop("_resolved_author", None)
-    resolved_title = built.pop("_resolved_title", None)
-    resolved_bdrc_work_id = built.pop("_resolved_bdrc_work_id", None)
+
+    if not built.get("alt_titles"):
+        items.append(("ERROR", "alt_titles: required (set in YAML frontmatter)"))
 
     errors = [m for l, m in items if l == "ERROR"]
     infos  = [m for l, m in items if l == "INFO"]
@@ -278,4 +273,4 @@ def write_edition_output(path, doc_info, items):
             "resolved": built,
         }
     out_path.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
-    return out_path, person_warnings, resolved_author, resolved_title, resolved_bdrc_work_id
+    return out_path, person_warnings, resolved_author

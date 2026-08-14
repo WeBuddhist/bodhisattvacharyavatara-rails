@@ -150,7 +150,7 @@ def main(argv=None):
             items = validate_text_input(doc_info)
             items += validate_edition(doc_info, body)
             items += validate_toc(doc_info, body)
-            out_path, person_warnings, resolved_author, resolved_title, resolved_bdrc_work_id = \
+            out_path, person_warnings, resolved_author = \
                 write_edition_output(path, doc_info, items)
             errors = [(l, m) for l, m in items if l == "ERROR"]
             infos  = [(l, m) for l, m in items if l == "INFO"]
@@ -174,8 +174,6 @@ def main(argv=None):
             )
             if resolved_author and raw_author and resolved_author.strip() != str(raw_author).strip():
                 patches["author"] = resolved_author
-            if resolved_bdrc_work_id and not doc_info.get("bdrc_work_id") and not doc_info.get("bdrc"):
-                patches["bdrc_work_id"] = resolved_bdrc_work_id
             source_changes = patch_source_file(path, patches)
 
             if errors:
@@ -196,7 +194,7 @@ def main(argv=None):
                     print(f"  WARN {w}")
         else:
             items = validate_text_input(doc_info)
-            out_path, person_warnings, resolved_author, resolved_title, resolved_bdrc_work_id = \
+            out_path, person_warnings, resolved_author = \
                 write_output(path, doc_info, items)
 
             errors = [(l, m) for l, m in items if l == "ERROR"]
@@ -220,8 +218,6 @@ def main(argv=None):
             )
             if resolved_author and raw_author and resolved_author.strip() != str(raw_author).strip():
                 patches["author"] = resolved_author
-            if resolved_bdrc_work_id and not doc_info.get("bdrc_work_id") and not doc_info.get("bdrc"):
-                patches["bdrc_work_id"] = resolved_bdrc_work_id
             source_changes = patch_source_file(path, patches)
 
             if errors:

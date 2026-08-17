@@ -1,10 +1,10 @@
 ---
-name: Verse-Context-Summary
+name: BCA-Verse-Context-Summary
 description: Create a comprehensive verse-context-summary page for one verse of the Bodhisattvacaryāvatāra, assembling Sanskrit and Tibetan text transclusions, Zhenga's annotations, per-commentary explanations, stories, metaphors, scriptural quotations, main points, key terms, and a Google-AI-Overview-style synthesis. Output goes to 2-RAILS/Verses/<verse-id>-summary.md.
 creator: Tigerboy
 ---
 
-# Verse-Context-Summary
+# BCA-Verse-Context-Summary
 
 Assembles a **complete single-verse summary page** by pulling every layer of commentary material — text, annotation, explanation, story, metaphor, quotation, theme, term, and synthesis — into one cited document. The page is designed to be the canonical Obsidian reference for a verse: open it, and every relevant source-material layer is in front of you, cited and linked.
 
@@ -57,7 +57,7 @@ One file at `2-RAILS/Verses/<verse-id>-summary.md`. Update in place if it exists
 ```markdown
 ---
 verse_id: "<verse-id>"
-skill: Verse-Context-Summary
+skill: BCA-Verse-Context-Summary
 creator: Tigerboy
 sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
@@ -243,7 +243,7 @@ status: draft
 
 ## Completion check
 
-- [ ] Frontmatter complete with `verse_id`, `skill: Verse-Context-Summary`, `creator: Tigerboy`, `sources`, `status: draft`.
+- [ ] Frontmatter complete with `verse_id`, `skill: BCA-Verse-Context-Summary`, `creator: Tigerboy`, `sources`, `status: draft`.
 - [ ] **ལེགས་སྦྱར།**: Sanskrit transclusion present and block confirmed. No source link.
 - [ ] **བོད་ཡིག**: Tibetan transclusion present and block confirmed. No source link.
 - [ ] **མཆན་འགྲེལ།**: drawn from `khenpo-zhengah` only; Zhenga's gloss prose only (no embedded scripture quotations); block cited.

@@ -1,6 +1,6 @@
 ---
 verse_id: "1-26"
-skill: Verse-Context-Summary
+skill: BCA-Verse-Context-Summary
 creator: Tigerboy
 sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"

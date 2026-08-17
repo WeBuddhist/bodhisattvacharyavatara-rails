@@ -1,6 +1,6 @@
 ---
 verse_id: "1-18"
-skill: Verse-Context-Summary
+skill: BCA-Verse-Context-Summary
 creator: Tigerboy
 sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
@@ -8,7 +8,7 @@ sources:
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
   commentaries: [kunpal, khenpo-zhengah, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
 status: draft
-notes: "gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, and khenpo-kunga each group verses 1-18 and 1-19 (and in the case of ngulchu-thogmed, also 1-17) under consecutive transclusions; their shared prose appears after the final transclusion in each run. Prose extracted per the updated Verse-Context-Summary skill rule. All citations are file-level; no block IDs are stamped in any commentary span."
+notes: "gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, and khenpo-kunga each group verses 1-18 and 1-19 (and in the case of ngulchu-thogmed, also 1-17) under consecutive transclusions; their shared prose appears after the final transclusion in each run. Prose extracted per the updated BCA-Verse-Context-Summary skill rule. All citations are file-level; no block IDs are stamped in any commentary span."
 ---
 
 # སྤྱོད་འཇུག ༡།༡༨པའི་ཤོག་ངོས།

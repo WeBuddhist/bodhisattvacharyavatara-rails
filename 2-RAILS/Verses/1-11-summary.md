@@ -2,7 +2,7 @@
 verse_id: "1-11"
 chapter: 1
 verse: 11
-skill: Verse-Context-Summary
+skill: BCA-Verse-Context-Summary
 creator: Tigerboy
 sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"

@@ -1,3 +1,4 @@
+AVC (Authoritive Verse Commentary )
 # སྤྱོད་འཇུག 1-1པའི་ཤོག་ངོས།
 
 ## ལེགས་སྦྱར། (Sanskrit)

@@ -14,10 +14,16 @@ levels and bullet indentation already carry the same structure, foldably.
 What gets stripped
 -------------------
 Only sub-heading levels below the chapter: `###` through `######`, and the
-depth-6+ outline bullets tag_headings.py produces (`* 1.2.2.1.1.1 ...`,
+depth-6+ outline bullets tag_headings.py produces (`* **1.2.2.1.1.1 ...**`,
 optionally indented, optionally hand-tagged with `-` instead of `*`). For
 each of these, the leading number token (and the single space after it)
-is removed, leaving the heading marker and the Tibetan heading text.
+is removed, leaving the heading marker (and, for bullets, the surrounding
+`**...**` bold) and the Tibetan heading text -- e.g.
+`* **1.2.2.1.1.1 དང་པོ...** ` becomes `* **དང་པོ...**`. Older bullets that
+were hand-tagged without bold (`* 1.2.2.1.1.1 ...`, no `**`) are still
+recognized and have their number stripped the same way, just without adding
+bold -- this script only ever removes the number, it doesn't add or remove
+bold formatting itself.
 
 What is deliberately left alone
 --------------------------------
@@ -53,8 +59,18 @@ from pathlib import Path
 SUBHEADING_RE = re.compile(r'^(#{3,6}\s+)\d+(?:\.\d+)*\.?\s+(.+)$')
 
 # Depth-6+ outline bullets tag_headings.py produces, optionally indented,
-# with either bullet character (hand-tagged leftovers sometimes use '-').
-BULLET_RE = re.compile(r'^(\s*[-*]\s+)\d+(?:\.\d+)*\.?\s+(.+)$')
+# with either bullet character (hand-tagged leftovers sometimes use '-'),
+# bolded (the current format: `* **1.2.2.1.1.1 text**`). Group 2 already
+# ends in the closing `**` since it's captured as part of the rest of the
+# line -- the opening `**` is consumed (not captured) right before the
+# number so it can be re-added ahead of the surviving text.
+BULLET_BOLD_RE = re.compile(r'^(\s*[-*]\s+)\*\*\d+(?:\.\d+)*\.?\s+(.+)$')
+
+# Legacy un-bolded bullets, from files tagged before bolding was added, or
+# hand-tagged leftovers (`* 1.2.2.1.1.1 text`, no `**`). Still recognized so
+# older files strip cleanly too -- just without adding bold, since that's
+# step 1's job, not this script's.
+BULLET_PLAIN_RE = re.compile(r'^(\s*[-*]\s+)\d+(?:\.\d+)*\.?\s+(.+)$')
 
 
 def strip_line(line):
@@ -67,7 +83,12 @@ def strip_line(line):
         new = f"{m.group(1)}{m.group(2)}"
         return (new + '\n' if had_nl else new), True
 
-    m = BULLET_RE.match(stripped_line)
+    m = BULLET_BOLD_RE.match(stripped_line)
+    if m:
+        new = f"{m.group(1)}**{m.group(2)}"
+        return (new + '\n' if had_nl else new), True
+
+    m = BULLET_PLAIN_RE.match(stripped_line)
     if m:
         new = f"{m.group(1)}{m.group(2)}"
         return (new + '\n' if had_nl else new), True

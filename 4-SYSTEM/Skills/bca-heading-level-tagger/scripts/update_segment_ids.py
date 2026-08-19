@@ -26,7 +26,10 @@ A "segment" is a maximal run of non-blank lines that are NOT heading-like
 Headings never get numbered or counted as segments:
   - markdown headings `#` through `######`
   - the outline-bullet pseudo-headings tag_headings.py produces for depth
-    6+ (`* 1.2.2.1.1.1 ...`, possibly indented with 4 spaces per level)
+    6+ (`* **1.2.2.1.1.1 ...**`, possibly indented with 4 spaces per level,
+    bolded -- recognized whether the number is still there or has already
+    been stripped by strip_heading_numbers.py, so this script's chapter
+    detection keeps working even after step 3 has run)
 
 A block can legitimately mix a content run and a heading run with NO blank
 line between them (a known quirk in this vault: an outline heading
@@ -65,13 +68,20 @@ from datetime import datetime
 from pathlib import Path
 
 HEADING_RE = re.compile(r'^#{1,6}\s')
-BULLET_RE = re.compile(r'^\s*[-*]\s+\d+(\.\d+)*\.?\s')
+# Depth-6+ outline bullets, either as tag_headings.py currently produces them
+# (bolded, e.g. "* **1.2.2.1.1.1 text**") or already stripped of their number
+# by strip_heading_numbers.py while keeping the bold (e.g. "* **text**") --
+# matched by requiring the whole rest of the line to be a **...** span.
+BULLET_BOLD_RE = re.compile(r'^\s*[-*]\s+\*\*.*\*\*\s*$')
+# Legacy un-bolded numbered bullets, from files tagged before bolding was
+# added, or hand-tagged leftovers ("* 1.2.2.1.1.1 text", no "**").
+BULLET_PLAIN_RE = re.compile(r'^\s*[-*]\s+\d+(\.\d+)*\.?\s')
 CHAPTER_RE = re.compile(r'^##\s+(\d+)\.')
 TRAILING_ID_RE = re.compile(r'\s*\^[\w-]+\s*$')
 
 
 def is_headingish(line):
-    return bool(HEADING_RE.match(line)) or bool(BULLET_RE.match(line))
+    return bool(HEADING_RE.match(line)) or bool(BULLET_BOLD_RE.match(line)) or bool(BULLET_PLAIN_RE.match(line))
 
 
 def find_frontmatter_end(lines):

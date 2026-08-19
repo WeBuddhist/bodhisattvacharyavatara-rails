@@ -12,7 +12,12 @@ Numbering depth -> heading level:
     5 digits  (1.1.1.1.1)             -> ######
     6+ digits (1.1.1.1.1.1, ...)      -> bullet list, indented 4 spaces per
                                           level beyond 6 digits (Obsidian
-                                          folds bullet lists at any depth)
+                                          folds bullet lists at any depth),
+                                          with the heading text **bolded**
+                                          (`* **1.1.1.1.1.1 text**`) since a
+                                          plain bullet carries no visual
+                                          weight of its own the way a real
+                                          markdown heading does
 
 A line only counts as a heading to tag if it is a BARE numbered line: it
 starts (after optional leading whitespace) with digits separated by dots,
@@ -137,7 +142,7 @@ def tag_line(line):
 
     indent_level = depth - 6  # 6 digits -> no indent, 7 -> one level, etc.
     indent = '    ' * indent_level
-    return f"{indent}* {numbering} {content}\n"
+    return f"{indent}* **{numbering} {content}**\n"
 
 
 def process_file(path):

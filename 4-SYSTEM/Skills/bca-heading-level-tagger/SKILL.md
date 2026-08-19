@@ -1,18 +1,23 @@
 ---
 name: bca-heading-level-tagger
-description: Two-step pipeline for Bodhicaryavatara/BCA commentary and root-text files in this Obsidian vault. Step 1 converts bare numbered outline headings (ས་བཅད-style numbering like 1, 1.1, 1.1.1.2.2.4) into proper Obsidian markdown heading levels and nested bullet lists, so the outline becomes foldable. Step 2 (re)numbers every content segment's Obsidian block-reference id (^0-1, ^1-1, ...), restarting the count at ^N-1 for each chapter, so every paragraph and verse stanza is individually linkable/transcludable. Use this whenever the user asks to "tag headings," "apply heading levels," "convert the numbering to headings," "make the outline foldable," "update block ids," "renumber block references," or points to a segmented commentary file (e.g. anything under 0-INBOX matching *_bo_segmented*, *_segmented*, or similar ས་བཅད outline files) and wants it prepared for use in the vault. Also trigger if the user mentions Obsidian fold/unfold arrows, or ^chapter-N block references, in connection with one of these Tibetan commentary files.
+description: Three-step pipeline for Bodhicaryavatara/BCA commentary and root-text files in this Obsidian vault. Step 1 converts bare numbered outline headings (ས་བཅད-style numbering like 1, 1.1, 1.1.1.2.2.4) into proper Obsidian markdown heading levels and nested bullet lists, so the outline becomes foldable. Step 2 (re)numbers every content segment's Obsidian block-reference id (^0-1, ^1-1, ...), restarting the count at ^N-1 for each chapter, so every paragraph and verse stanza is individually linkable/transcludable. Step 3 strips the now-redundant ས་བཅད numbers back off the sub-headings (### and deeper, and the outline bullets), leaving the chapter-level ## numbers in place, since heading depth and bullet indentation already carry that structure foldably. Use this whenever the user asks to "tag headings," "apply heading levels," "convert the numbering to headings," "make the outline foldable," "update block ids," "renumber block references," "remove/strip the numbers from headings," or points to a segmented commentary file (e.g. anything under 0-INBOX matching *_bo_segmented*, *_segmented*, or similar ས་བཅད outline files) and wants it prepared for use in the vault. Also trigger if the user mentions Obsidian fold/unfold arrows, or ^chapter-N block references, in connection with one of these Tibetan commentary files.
 ---
 
 # BCA Heading-Level Tagger
 
 ## What this does
 
-Files in this vault's Bodhicaryavatara (སྤྱོད་འཇུག) commentary set go through two passes, always in this order:
+Files in this vault's Bodhicaryavatara (སྤྱོད་འཇུག) commentary set go through three passes, always in this order:
 
 1. **Tag headings** (`scripts/tag_headings.py`) -- rewrites the bare ས་བཅད outline numbering (`1.1`, `1.1.1.2.2.4`, ...) into real markdown headings and nested bullet lists, so the outline folds/unfolds natively in Obsidian.
 2. **Update block IDs** (`scripts/update_block_ids.py`) -- walks the now-tagged file and stamps every content segment (paragraph or verse stanza) with an Obsidian block reference `^N-M`, where `N` is the chapter number and `M` restarts at 1 for each chapter. This makes every segment individually linkable and transcludable.
+3. **Strip heading numbers** (`scripts/strip_heading_numbers.py`) -- once folding (step 1) and block ids (step 2) no longer need the visible outline numbers, this strips the leading number off every sub-heading (`###` through `######`, and the outline bullets), leaving just the heading marker and the Tibetan text. Top-level `## N. ...` chapter headings keep their number (see step 3's own section below for why).
 
-Step 2 depends on step 1's output -- it finds chapter boundaries and skips non-content lines by looking for markdown headings (`##`...`######`) and the depth-6+ bullet lists step 1 produces. Never run step 2 on a file that hasn't been through step 1 first, and never run step 1 after step 2 (it would leave the block ids in place but has no reason to touch them, so this isn't harmful, just pointless to do out of order -- keep it heading-tag-then-block-id).
+The order is load-bearing, not just a convention:
+
+- Step 2 depends on step 1's output -- it finds chapter boundaries and skips non-content lines by looking for markdown headings (`##`...`######`) and the depth-6+ bullet lists step 1 produces. Running it on an untagged file would wrongly number bare outline lines as content segments.
+- Step 3 depends on step 2 having already finished -- once it strips the numbers off sub-headings, that information is gone from the file (the block ids elsewhere already captured what mattered). Running step 3 before step 2 wouldn't corrupt anything, but it would just be wasted work since step 2 doesn't need sub-heading numbers anyway; running step 3 before step 1 would do nothing (the lines aren't heading-shaped yet).
+- Running step 1 again after step 3 is harmless but pointless (nothing left to tag). Keep the order strict: tag headings -> update block IDs -> strip heading numbers.
 
 ### Step 1 details: heading tagging
 
@@ -82,9 +87,24 @@ A top-level chapter heading looks like `## 0. ...`, `## 1. ...`, ... (exactly wh
 
 Pre-existing ids already sitting on chapter/sub-heading lines (like `^I-0`, `^1-0`) are left completely untouched — step 2 only ever touches content-run segments. If a segment's last line already carries some block id (stale, partial, or from a previous run), the script strips it and writes the freshly computed one in its place, so **this script is safe and idempotent to re-run** on a file that's already been numbered — re-running it on an already-correct file produces a byte-identical result.
 
+## Step 3: What gets stripped, and why chapter numbers stay
+
+`scripts/strip_heading_numbers.py` removes the leading ས་བཅད number (and the single space after it) from every sub-heading: markdown headings `###` through `######`, and the depth-6+ outline bullets (`* 1.2.2.1.1.1 ...` / `- 1.2.2.1.1.1 ...`, at any indent level, either bullet character). For example:
+
+```
+### 1.1 སྒྱུར་བྱེད་དམ་པའི་ཀླད་ཀྱི་དོན།        ->  ### སྒྱུར་བྱེད་དམ་པའི་ཀླད་ཀྱི་དོན།
+* 1.2.2.1.1.1 དང་པོ་ལེའུའི་གཞུང་།            ->  * དང་པོ་ལེའུའི་གཞུང་།
+```
+
+Top-level `## N. ...` chapter headings are **left alone on purpose** -- their number is the only thing step 2 uses to auto-detect chapter boundaries. If this script also stripped it, the file would lose the anchor a future re-run of `update_block_ids.py` needs to know which chapter it's in, and there'd be no way to recover that short of restoring from a backup. Chapter numbers also double as a human-readable label ("Chapter 6") that's worth keeping regardless. If a user specifically asks to remove chapter numbers too, treat that as a one-off manual edit outside this skill's normal pipeline, and warn them that step 2 won't be auto-re-runnable on that file afterward.
+
+Also left untouched: any block reference (`^1-0`, `^I-0`, `^6-42`, ...) sitting on a heading line, and all ordinary content -- this script only ever matches lines that are already heading-shaped, so it never touches prose.
+
+Like step 2, this script is idempotent: running it again on a file it's already processed finds nothing left to strip and reports zero changes.
+
 ## How to run it
 
-Run both scripts in order — heading tagging first, block-ID numbering second — against the same staged file:
+Run all three scripts in order — heading tagging, then block-ID numbering, then heading-number stripping — against the same staged file:
 
 1. If the target file lives on the user's Obsidian vault (reached via the device bridge / `mcp__remote-devices__*` tools), stage it first with `device_stage_files` so it's readable in this session.
 2. **Step 1 — tag headings:**
@@ -97,10 +117,15 @@ Run both scripts in order — heading tagging first, block-ID numbering second �
    python3 scripts/update_block_ids.py "<path-to-staged-file>"
    ```
    Check the stdout's per-chapter summary (`chapter N: M segments (^N-1 .. ^N-M)`) — the counts should look plausible for the chapter's length, and there should be no "content segment before any chapter heading" warnings. Spot-check a chapter boundary in the output to confirm the counter actually restarted at `^N-1`.
-4. Both scripts write a backup next to the file before overwriting it in place, using this vault's existing naming convention: `<filename>.BACKUP-YYYYMMDD-HHMMSS.md` (matching files already present in this vault, e.g. `BCAC19_KKP_bo_segmented.BACKUP-20260630-053157.md`). Running both scripts back to back leaves two backups (pre-step-1 and pre-step-2) — that's expected, not a bug.
-5. If the file came from the device bridge, commit the final file back to its **original path** with `device_commit_files` (overwrite in place — don't create a `_tagged` or `_numbered` sibling file). The backups from steps 2-3 are the safety net, so overwriting the original is expected and fine.
-6. Tell the user which chapters were processed and the final segment counts per chapter, and flag anything the scripts warned about.
+4. **Step 3 — strip heading numbers**, run last on the same file:
+   ```bash
+   python3 scripts/strip_heading_numbers.py "<path-to-staged-file>"
+   ```
+   Check the stdout's per-level breakdown (`###: N`, `bullet: N`, ...) against what step 1 reported tagging, and confirm the `##` chapter heading lines still show their number (`Read` a few) — if a chapter heading's number went missing, something's wrong and shouldn't be committed.
+5. All three scripts write a backup next to the file before overwriting it in place, using this vault's existing naming convention: `<filename>.BACKUP-YYYYMMDD-HHMMSS.md` (matching files already present in this vault, e.g. `BCAC19_KKP_bo_segmented.BACKUP-20260630-053157.md`). Running all three back to back leaves three backups (pre-step-1, pre-step-2, pre-step-3) — that's expected, not a bug.
+6. If the file came from the device bridge, commit the final file back to its **original path** with `device_commit_files` (overwrite in place — don't create a `_tagged`, `_numbered`, or `_stripped` sibling file). The backups from steps 2-4 are the safety net, so overwriting the original is expected and fine.
+7. Tell the user which chapters were processed, the final segment counts per chapter, and how many heading numbers were stripped, and flag anything any of the scripts warned about.
 
 ## Notes on this file family
 
-These commentary files are large (multi-thousand-line) Tibetan text with embedded verse quotes (`>` blockquote lines) and Obsidian block references (`^1-0`, `^I-0`, etc.) mixed in with the outline numbering — those are never mistaken for headings since they don't start a line with digits followed by whitespace, and (once step 1 has run) never mistaken for content segments either, since they sit on heading lines. If a future file in this set uses a different numbering convention (e.g. letters, roman numerals, or a different delimiter than `.`), or a different chapter-heading format than `## N. ...`, ask the user how they'd like those handled rather than guessing — both scripts are intentionally narrow to the conventions used throughout this vault's BCA commentary segmentation.
+These commentary files are large (multi-thousand-line) Tibetan text with embedded verse quotes (`>` blockquote lines) and Obsidian block references (`^1-0`, `^I-0`, etc.) mixed in with the outline numbering — those are never mistaken for headings since they don't start a line with digits followed by whitespace, and (once step 1 has run) never mistaken for content segments either, since they sit on heading lines. If a future file in this set uses a different numbering convention (e.g. letters, roman numerals, or a different delimiter than `.`), or a different chapter-heading format than `## N. ...`, ask the user how they'd like those handled rather than guessing — all three scripts are intentionally narrow to the conventions used throughout this vault's BCA commentary segmentation.

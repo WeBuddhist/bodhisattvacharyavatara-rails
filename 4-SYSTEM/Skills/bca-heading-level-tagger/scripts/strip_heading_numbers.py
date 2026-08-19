@@ -4,10 +4,10 @@ Strip the ས་བཅད outline numbering (`1.1`, `1.1.1.2.2.4`, ...) back off
 sub-headings, once it's no longer needed as a machine-readable anchor.
 
 Run this LAST, after both scripts/tag_headings.py (step 1) and
-scripts/update_block_ids.py (step 2) have already run on the file. By the
+scripts/update_segment_ids.py (step 2) have already run on the file. By the
 time this runs, the outline numbering has already done its job -- step 1
 used it to pick heading depth, step 2 used the *chapter*-level number
-(`## N. ...`) to know which chapter each block id belongs to -- so the
+(`## N. ...`) to know which chapter each Segment ID belongs to -- so the
 numbers on sub-headings are now redundant clutter: Obsidian's heading
 levels and bullet indentation already carry the same structure, foldably.
 
@@ -22,15 +22,14 @@ is removed, leaving the heading marker and the Tibetan heading text.
 What is deliberately left alone
 --------------------------------
 - Top-level `## N. ...` chapter headings keep their number. It reads as a
-  human chapter label ("Chapter 1"), and scripts/update_block_ids.py
+  human chapter label ("Chapter 1"), and scripts/update_segment_ids.py
   needs it to auto-detect chapter boundaries -- if this script also
-  stripped it, a future re-run of the block-id step on this file would no
+  stripped it, a future re-run of the Segment-ID step on this file would no
   longer be able to find chapter starts. If you ever DO need to strip
   chapter numbers too, do it by hand and expect step 2 to no longer be
   re-runnable without restoring from a backup first.
-- Any Obsidian block reference (`^1-0`, `^I-0`, `^6-42`, ...) on a heading
-  line -- these aren't touched by this script, only the leading outline
-  number is.
+- Any Segment ID (`^1-0`, `^I-0`, `^6-42`, ...) on a heading line -- these
+  aren't touched by this script, only the leading outline number is.
 - Ordinary content lines. This script only ever touches lines that are
   already heading-shaped (### through ######, or a numbered outline
   bullet) -- it does not scan prose for numbers.

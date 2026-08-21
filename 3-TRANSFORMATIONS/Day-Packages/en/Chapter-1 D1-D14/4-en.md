@@ -84,15 +84,24 @@ The verses for today, in the Plain English translation. Source: `3-TRANSFORMATIO
 
 **Verse 1-9**
 
-> When the Mind of Awakening arises, in a single moment, those wretched ones bound in the prison of cyclic existence are called spiritual children of the buddhas, and become worthy of homage by gods and humans alike.
+> When the Mind of Awakening arises, in a single moment,
+> those wretched ones bound in the prison of cyclic existence
+> are called spiritual children of the buddhas,
+> and become worthy of homage by gods and humans alike.
 
 **Verse 1-10**
 
-> Like the supreme elixir that transforms base metals into gold, having taken this impure body, it transforms it into the immeasurable, precious body of a buddha. Therefore, hold fast to what is called the Mind of Awakening.
+> Like the supreme elixir that transforms base metals into gold,
+> having taken this impure body, it transforms it into the immeasurable,
+> precious body of a buddha.
+> Therefore, hold fast to what is called the Mind of Awakening.
 
 **Verse 1-11**
 
-> The sole guide of beings, with immeasurable wisdom, upon proper examination, finds it precious. Therefore, those who wish to be free from the states of suffering should firmly hold fast to the precious Mind of Awakening.
+> The sole guide of beings, with immeasurable wisdom,
+> upon proper examination, finds it precious.
+> Therefore, those who wish to be free from the states of suffering
+> should firmly hold fast to the precious Mind of Awakening.
 
 ---
 
@@ -111,7 +120,10 @@ Each verse below gives the full rail package from `2-RAILS/Verses/<verse-id>-sum
 
 *Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-9`):*
 
-> When the Mind of Awakening arises, in a single moment, those wretched ones bound in the prison of cyclic existence are called spiritual children of the buddhas, and become worthy of homage by gods and humans alike.
+> When the Mind of Awakening arises, in a single moment,
+> those wretched ones bound in the prison of cyclic existence
+> are called spiritual children of the buddhas,
+> and become worthy of homage by gods and humans alike.
 
 ---
 
@@ -302,7 +314,10 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-9]] [[1-SOURCES
 
 *Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-10`):*
 
-> Like the supreme elixir that transforms base metals into gold, having taken this impure body, it transforms it into the immeasurable, precious body of a buddha. Therefore, hold fast to what is called the Mind of Awakening.
+> Like the supreme elixir that transforms base metals into gold,
+> having taken this impure body, it transforms it into the immeasurable,
+> precious body of a buddha.
+> Therefore, hold fast to what is called the Mind of Awakening.
 
 ---
 
@@ -498,7 +513,10 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]] [[1-SOURCE
 
 *Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-11`):*
 
-> The sole guide of beings, with immeasurable wisdom, upon proper examination, finds it precious. Therefore, those who wish to be free from the states of suffering should firmly hold fast to the precious Mind of Awakening.
+> The sole guide of beings, with immeasurable wisdom,
+> upon proper examination, finds it precious.
+> Therefore, those who wish to be free from the states of suffering
+> should firmly hold fast to the precious Mind of Awakening.
 
 ---
 

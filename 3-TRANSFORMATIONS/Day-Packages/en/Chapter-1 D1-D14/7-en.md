@@ -81,15 +81,23 @@ The verses for today, in the Plain English translation. Source: `3-TRANSFORMATIO
 
 **Verse 1-17**
 
-> From the aspiring mind of awakening, great fruit arises in cyclic existence, but it does not continuously produce merit in the same way as the engaging mind.
+> From the aspiring mind of awakening,
+> great fruit arises in cyclic existence,
+> but it does not continuously produce merit
+> in the same way as the engaging mind.
 
 **Verse 1-18**
 
-> From the moment one correctly takes that resolve, the irreversible resolve, to liberate all countless beings,
+> From the moment one correctly takes
+> that resolve, the irreversible resolve,
+> to liberate all countless beings,
 
 **Verse 1-19**
 
-> from that moment on, even when asleep or careless, the strength of merit continuously arises in abundance, equal to space.
+> from that moment on, even when asleep
+> or careless, the strength of merit
+> continuously arises in abundance,
+> equal to space.
 
 ---
 
@@ -108,7 +116,10 @@ Each verse below gives the full rail package from `2-RAILS/Verses/<verse-id>-sum
 
 *Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-17`):*
 
-> From the aspiring mind of awakening, great fruit arises in cyclic existence, but it does not continuously produce merit in the same way as the engaging mind.
+> From the aspiring mind of awakening,
+> great fruit arises in cyclic existence,
+> but it does not continuously produce merit
+> in the same way as the engaging mind.
 
 ---
 
@@ -288,7 +299,9 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-17]] [[1-SOURCE
 
 *Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-18`):*
 
-> From the moment one correctly takes that resolve, the irreversible resolve, to liberate all countless beings,
+> From the moment one correctly takes
+> that resolve, the irreversible resolve,
+> to liberate all countless beings,
 
 ---
 
@@ -461,7 +474,10 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]] [[1-S
 
 *Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-19`):*
 
-> from that moment on, even when asleep or careless, the strength of merit continuously arises in abundance, equal to space.
+> from that moment on, even when asleep
+> or careless, the strength of merit
+> continuously arises in abundance,
+> equal to space.
 
 ---
 

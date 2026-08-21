@@ -75,15 +75,24 @@ The verses for today, in the Plain English translation. Source: `3-TRANSFORMATIO
 
 **Verse 1-20**
 
-> This was taught by the buddhas themselves for the benefit of humble beings, in response to a reasonable request from the bodhisattva Bhadrapāla.
+> This was taught by the buddhas themselves
+> for the benefit of humble beings,
+> in response to a reasonable request
+> from the bodhisattva Bhadrapāla.
 
 **Verse 1-21**
 
-> If one merely thinks, "May I relieve the headache of a single being," that person, endowed with the intention to help, possesses immeasurable merit.
+> If one merely thinks,
+> "May I relieve the headache of a single being,"
+> that person, endowed with the intention to help,
+> possesses immeasurable merit.
 
 **Verse 1-22**
 
-> So what need is there to speak of one who wishes to remove the immeasurable unhappiness of every single being, and to accomplish immeasurable good qualities for each?
+> So what need is there to speak
+> of one who wishes to remove the immeasurable unhappiness
+> of every single being,
+> and to accomplish immeasurable good qualities for each?
 
 ---
 
@@ -102,7 +111,10 @@ Each verse below gives the full rail package from `2-RAILS/Verses/<verse-id>-sum
 
 *Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-20`):*
 
-> This was taught by the buddhas themselves for the benefit of humble beings, in response to a reasonable request from the bodhisattva Bhadrapāla.
+> This was taught by the buddhas themselves
+> for the benefit of humble beings,
+> in response to a reasonable request
+> from the bodhisattva Bhadrapāla.
 
 ---
 
@@ -255,7 +267,10 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]] [[1-S
 
 *Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-21`):*
 
-> If one merely thinks, "May I relieve the headache of a single being," that person, endowed with the intention to help, possesses immeasurable merit.
+> If one merely thinks,
+> "May I relieve the headache of a single being,"
+> that person, endowed with the intention to help,
+> possesses immeasurable merit.
 
 ---
 
@@ -428,7 +443,10 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]] [[1
 
 *Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-22`):*
 
-> So what need is there to speak of one who wishes to remove the immeasurable unhappiness of every single being, and to accomplish immeasurable good qualities for each?
+> So what need is there to speak
+> of one who wishes to remove the immeasurable unhappiness
+> of every single being,
+> and to accomplish immeasurable good qualities for each?
 
 ---
 

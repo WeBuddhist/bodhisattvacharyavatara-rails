@@ -77,11 +77,17 @@ The verses for today, in the Plain English translation. Source: `3-TRANSFORMATIO
 
 **Verse 1-4**
 
-> This opportunity is very hard to find. Having attained the ability to accomplish human purpose, if one does not accomplish what is beneficial in this life, how will this opportunity arise again later?
+> This opportunity is very hard to find.
+> Having attained the ability to accomplish human purpose,
+> if one does not accomplish what is beneficial in this life,
+> how will this opportunity arise again later?
 
 **Verse 1-5**
 
-> Just as a flash of lightning briefly illuminates a dark, cloudy night, likewise, rarely, through the power of the buddhas, does a virtuous state of mind arise.
+> Just as a flash of lightning briefly illuminates
+> a dark, cloudy night,
+> likewise, rarely, through the power of the buddhas,
+> does a virtuous state of mind arise.
 
 ---
 
@@ -100,7 +106,10 @@ Each verse below gives the full rail package from `2-RAILS/Verses/<verse-id>-sum
 
 *Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-4`):*
 
-> This opportunity is very hard to find. Having attained the ability to accomplish human purpose, if one does not accomplish what is beneficial in this life, how will this opportunity arise again later?
+> This opportunity is very hard to find.
+> Having attained the ability to accomplish human purpose,
+> if one does not accomplish what is beneficial in this life,
+> how will this opportunity arise again later?
 
 ---
 
@@ -297,7 +306,10 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-4]] [[1-SOURCES
 
 *Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-5`):*
 
-> Just as a flash of lightning briefly illuminates a dark, cloudy night, likewise, rarely, through the power of the buddhas, does a virtuous state of mind arise.
+> Just as a flash of lightning briefly illuminates
+> a dark, cloudy night,
+> likewise, rarely, through the power of the buddhas,
+> does a virtuous state of mind arise.
 
 ---
 

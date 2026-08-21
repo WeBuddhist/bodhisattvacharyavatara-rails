@@ -81,15 +81,24 @@ The verses for today, in the Plain English translation. Source: `3-TRANSFORMATIO
 
 **Verse 1-12**
 
-> All other good deeds, like a plantain plant, produce fruit and then perish. But the tree of the Mind of Awakening always produces fruit and grows inexhaustibly.
+> All other good deeds, like a plantain plant,
+> produce fruit and then perish.
+> But the tree of the Mind of Awakening always
+> produces fruit and grows inexhaustibly.
 
 **Verse 1-13**
 
-> Even if one has committed extremely unbearable misdeeds, relying on a hero, like relying on one who dispels great fear, why would the wise not rely on that which quickly liberates one?
+> Even if one has committed extremely unbearable misdeeds,
+> relying on a hero, like relying on one who dispels great fear,
+> why would the wise not rely on that
+> which quickly liberates one?
 
 **Verse 1-14**
 
-> Therefore, it certainly burns away great misdeeds in a single moment, like the fire at the end of an eon. Its immeasurable benefits were explained by Maitreya, the wise and excellent one.
+> Therefore, it certainly burns away great misdeeds
+> in a single moment, like the fire at the end of an eon.
+> Its immeasurable benefits
+> were explained by Maitreya, the wise and excellent one.
 
 ---
 
@@ -108,7 +117,10 @@ Each verse below gives the full rail package from `2-RAILS/Verses/<verse-id>-sum
 
 *Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-12`):*
 
-> All other good deeds, like a plantain plant, produce fruit and then perish. But the tree of the Mind of Awakening always produces fruit and grows inexhaustibly.
+> All other good deeds, like a plantain plant,
+> produce fruit and then perish.
+> But the tree of the Mind of Awakening always
+> produces fruit and grows inexhaustibly.
 
 ---
 
@@ -268,7 +280,10 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-12]] [[1-SOURCE
 
 *Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-13`):*
 
-> Even if one has committed extremely unbearable misdeeds, relying on a hero, like relying on one who dispels great fear, why would the wise not rely on that which quickly liberates one?
+> Even if one has committed extremely unbearable misdeeds,
+> relying on a hero, like relying on one who dispels great fear,
+> why would the wise not rely on that
+> which quickly liberates one?
 
 ---
 
@@ -427,7 +442,10 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-13]] [[1-SOURCE
 
 *Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-14`):*
 
-> Therefore, it certainly burns away great misdeeds in a single moment, like the fire at the end of an eon. Its immeasurable benefits were explained by Maitreya, the wise and excellent one.
+> Therefore, it certainly burns away great misdeeds
+> in a single moment, like the fire at the end of an eon.
+> Its immeasurable benefits
+> were explained by Maitreya, the wise and excellent one.
 
 ---
 

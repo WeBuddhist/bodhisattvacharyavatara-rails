@@ -84,15 +84,24 @@ The verses for today, in the Plain English translation. Source: `3-TRANSFORMATIO
 
 **Verse 1-6**
 
-> Therefore, consider that good deeds are weak, while misdeeds are powerful and unbearable. What other virtue, besides the perfect Mind of Awakening, could overcome them?
+> Therefore, consider that good deeds are weak,
+> while misdeeds are powerful and unbearable.
+> What other virtue, besides the perfect Mind of Awakening,
+> could overcome them?
 
 **Verse 1-7**
 
-> The mighty Sages, who reflected deeply for many eons, reflected that this alone is beneficial. By this, countless beings easily attain supreme happiness.
+> The mighty Sages, who reflected deeply for many eons,
+> reflected that this alone is beneficial.
+> By this, countless beings
+> easily attain supreme happiness.
 
 **Verse 1-8**
 
-> Wishing to overcome hundreds of cyclic existence’s sufferings, wishing to remove beings’ unhappiness, and wishing to experience hundreds of joys, one should always hold fast to the Mind of Awakening.
+> Wishing to overcome hundreds of cyclic existence’s sufferings,
+> wishing to remove beings’ unhappiness,
+> and wishing to experience hundreds of joys,
+> one should always hold fast to the Mind of Awakening.
 
 ---
 
@@ -111,7 +120,10 @@ Each verse below gives the full rail package from `2-RAILS/Verses/<verse-id>-sum
 
 *Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-6`):*
 
-> Therefore, consider that good deeds are weak, while misdeeds are powerful and unbearable. What other virtue, besides the perfect Mind of Awakening, could overcome them?
+> Therefore, consider that good deeds are weak,
+> while misdeeds are powerful and unbearable.
+> What other virtue, besides the perfect Mind of Awakening,
+> could overcome them?
 
 ---
 
@@ -314,7 +326,10 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-6]] 
 
 *Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-7`):*
 
-> The mighty Sages, who reflected deeply for many eons, reflected that this alone is beneficial. By this, countless beings easily attain supreme happiness.
+> The mighty Sages, who reflected deeply for many eons,
+> reflected that this alone is beneficial.
+> By this, countless beings
+> easily attain supreme happiness.
 
 ---
 
@@ -485,7 +500,10 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-7]] 
 
 *Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-8`):*
 
-> Wishing to overcome hundreds of cyclic existence’s sufferings, wishing to remove beings’ unhappiness, and wishing to experience hundreds of joys, one should always hold fast to the Mind of Awakening.
+> Wishing to overcome hundreds of cyclic existence’s sufferings,
+> wishing to remove beings’ unhappiness,
+> and wishing to experience hundreds of joys,
+> one should always hold fast to the Mind of Awakening.
 
 ---
 

@@ -75,15 +75,23 @@ The verses for today, in the Plain English translation. Source: `3-TRANSFORMATIO
 
 **Verse 1-23**
 
-> Whether it be a father or a mother, who possesses such a benevolent mind? Whether it be gods or sages, does even Brahma possess this?
+> Whether it be a father or a mother,
+> who possesses such a benevolent mind?
+> Whether it be gods or sages,
+> does even Brahma possess this?
 
 **Verse 1-24**
 
-> If, in the past, for one's own sake, one has not even dreamed of such a thought, how could it arise for the sake of others?
+> If, in the past, for one's own sake,
+> one has not even dreamed of such a thought,
+> how could it arise for the sake of others?
 
 **Verse 1-25**
 
-> That intention for the benefit of beings, which does not arise even for one's own sake in others, this precious and exceptional mind, is an unprecedented wonder that has arisen.
+> That intention for the benefit of beings,
+> which does not arise even for one's own sake in others,
+> this precious and exceptional mind,
+> is an unprecedented wonder that has arisen.
 
 ---
 
@@ -102,7 +110,10 @@ Each verse below gives the full rail package from `2-RAILS/Verses/<verse-id>-sum
 
 *Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-23`):*
 
-> Whether it be a father or a mother, who possesses such a benevolent mind? Whether it be gods or sages, does even Brahma possess this?
+> Whether it be a father or a mother,
+> who possesses such a benevolent mind?
+> Whether it be gods or sages,
+> does even Brahma possess this?
 
 ---
 
@@ -269,7 +280,9 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]] [[1-S
 
 *Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-24`):*
 
-> If, in the past, for one's own sake, one has not even dreamed of such a thought, how could it arise for the sake of others?
+> If, in the past, for one's own sake,
+> one has not even dreamed of such a thought,
+> how could it arise for the sake of others?
 
 ---
 
@@ -404,7 +417,10 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]] [[1-S
 
 *Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-25`):*
 
-> That intention for the benefit of beings, which does not arise even for one's own sake in others, this precious and exceptional mind, is an unprecedented wonder that has arisen.
+> That intention for the benefit of beings,
+> which does not arise even for one's own sake in others,
+> this precious and exceptional mind,
+> is an unprecedented wonder that has arisen.
 
 ---
 

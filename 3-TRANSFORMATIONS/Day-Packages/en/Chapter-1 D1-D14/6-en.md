@@ -81,11 +81,17 @@ The verses for today, in the Plain English translation. Source: `3-TRANSFORMATIO
 
 **Verse 1-15**
 
-> To summarize, the Mind of Awakening should be understood in two aspects: the aspiring mind of awakening and the engaging mind of awakening.
+> To summarize, the Mind of Awakening
+> should be understood in two aspects:
+> the aspiring mind of awakening
+> and the engaging mind of awakening.
 
 **Verse 1-16**
 
-> Just as one knows the difference between wishing to go and actually going, likewise, the wise should understand the difference between these two in order.
+> Just as one knows the difference
+> between wishing to go and actually going,
+> likewise, the wise should understand
+> the difference between these two in order.
 
 ---
 
@@ -104,7 +110,10 @@ Each verse below gives the full rail package from `2-RAILS/Verses/<verse-id>-sum
 
 *Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-15`):*
 
-> To summarize, the Mind of Awakening should be understood in two aspects: the aspiring mind of awakening and the engaging mind of awakening.
+> To summarize, the Mind of Awakening
+> should be understood in two aspects:
+> the aspiring mind of awakening
+> and the engaging mind of awakening.
 
 ---
 
@@ -262,7 +271,10 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-15]] [[1-SOURCE
 
 *Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-16`):*
 
-> Just as one knows the difference between wishing to go and actually going, likewise, the wise should understand the difference between these two in order.
+> Just as one knows the difference
+> between wishing to go and actually going,
+> likewise, the wise should understand
+> the difference between these two in order.
 
 ---
 

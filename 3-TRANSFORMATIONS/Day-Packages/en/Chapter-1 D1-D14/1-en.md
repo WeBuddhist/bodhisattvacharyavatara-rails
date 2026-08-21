@@ -79,15 +79,24 @@ The verses for today, in the Plain English translation. Source: `3-TRANSFORMATIO
 
 **Verse 1-1**
 
-> I bow respectfully to the buddhas, their spiritual children, who embody the truth, and all worthy ones. I will briefly explain, in accordance with the scriptures, how to engage in the vows of the spiritual children of the buddhas.
+> I bow respectfully to the buddhas, their spiritual children,
+> who embody the truth, and all worthy ones.
+> I will briefly explain, in accordance with the scriptures,
+> how to engage in the vows of the spiritual children of the buddhas.
 
 **Verse 1-2**
 
-> I will not state anything here that has not been said before. Nor do I possess skill in composition. Therefore, I have no intention of benefiting others. I composed this for the sake of cultivating my own mind.
+> I will not state anything here that has not been said before.
+> Nor do I possess skill in composition.
+> Therefore, I have no intention of benefiting others.
+> I composed this for the sake of cultivating my own mind.
 
 **Verse 1-3**
 
-> Through these words, the strength of my faith will temporarily increase for the sake of cultivating good deeds. And if others, who share my fortune, see these words, may they be meaningful.
+> Through these words, the strength of my faith
+> will temporarily increase for the sake of cultivating good deeds.
+> And if others, who share my fortune,
+> see these words, may they be meaningful.
 
 ---
 
@@ -106,7 +115,10 @@ Each verse below gives the full rail package from `2-RAILS/Verses/<verse-id>-sum
 
 *Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-1`):*
 
-> I bow respectfully to the buddhas, their spiritual children, who embody the truth, and all worthy ones. I will briefly explain, in accordance with the scriptures, how to engage in the vows of the spiritual children of the buddhas.
+> I bow respectfully to the buddhas, their spiritual children,
+> who embody the truth, and all worthy ones.
+> I will briefly explain, in accordance with the scriptures,
+> how to engage in the vows of the spiritual children of the buddhas.
 
 ---
 
@@ -325,7 +337,10 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-1]] [[1-SOURCES
 
 *Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-2`):*
 
-> I will not state anything here that has not been said before. Nor do I possess skill in composition. Therefore, I have no intention of benefiting others. I composed this for the sake of cultivating my own mind.
+> I will not state anything here that has not been said before.
+> Nor do I possess skill in composition.
+> Therefore, I have no intention of benefiting others.
+> I composed this for the sake of cultivating my own mind.
 
 ---
 
@@ -500,7 +515,10 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-2]] [[1-SOURCES
 
 *Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-3`):*
 
-> Through these words, the strength of my faith will temporarily increase for the sake of cultivating good deeds. And if others, who share my fortune, see these words, may they be meaningful.
+> Through these words, the strength of my faith
+> will temporarily increase for the sake of cultivating good deeds.
+> And if others, who share my fortune,
+> see these words, may they be meaningful.
 
 ---
 

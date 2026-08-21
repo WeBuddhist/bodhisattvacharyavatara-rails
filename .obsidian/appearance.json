@@ -1,9 +1,9 @@
 {
   "textFontFamily": "",
-  "baseFontSize": 24,
+  "baseFontSize": 19,
   "theme": "system",
   "accentColor": "",
   "cssTheme": "",
-  "baseFontSizeAction": true,
+  "baseFontSizeAction": false,
   "translucency": false
 }

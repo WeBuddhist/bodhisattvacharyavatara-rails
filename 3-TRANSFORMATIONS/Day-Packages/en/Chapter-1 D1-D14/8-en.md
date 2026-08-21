@@ -17,7 +17,7 @@ translated_from: "3-TRANSFORMATIONS/Day-Packages/bo/Chapter-1 D1-D14/8.md"
 sources:
   plan_day_file: "3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/Chapter-1 D1-D14/8.md"
   schedule_file: "3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/assets/schedule-hhdl-birthday.md"
-  verse_source: "3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md"
+  verse_source: "3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md"
   rail_files:
     - "2-RAILS/Verses/1-20-summary.md"
     - "2-RAILS/Verses/1-21-summary.md"
@@ -71,28 +71,19 @@ If there is boundless merit even in wishing to remove the mere headache of a few
 <!-- sec:verses -->
 ## 2. Today's Verses
 
-The verses for today, in the Plain English translation. Source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md` (blocks `^1-20`–`^1-22`).
+The verses for today, in the Plain English translation. Source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md` (blocks `^1-20`–`^1-22`).
 
 **Verse 1-20**
 
-> The buddha himself taught this,
-> with clear reasons,
-> when Subahu asked him about it —
-> for the sake of beings who aim a little lower.
+> This was taught by the buddhas themselves for the benefit of humble beings, in response to a reasonable request from the bodhisattva Bhadrapāla.
 
 **Verse 1-21**
 
-> Even the simple thought,
-> "I wish I could take away just one person's headache,"
-> is a kind thought.
-> And a kind thought like that already carries immeasurable merit.
+> If one merely thinks, "May I relieve the headache of a single being," that person, endowed with the intention to help, possesses immeasurable merit.
 
 **Verse 1-22**
 
-> So what need is there to mention someone
-> who wishes to free every single being from boundless suffering
-> and bring each one
-> immeasurable good qualities?
+> So what need is there to speak of one who wishes to remove the immeasurable unhappiness of every single being, and to accomplish immeasurable good qualities for each?
 
 ---
 
@@ -109,12 +100,9 @@ Each verse below gives the full rail package from `2-RAILS/Verses/<verse-id>-sum
 <!-- sub:root-verse -->
 #### Root Verse
 
-*Plain English translation (source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md#^1-20`):*
+*Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-20`):*
 
-> The buddha himself taught this,
-> with clear reasons,
-> when Subahu asked him about it —
-> for the sake of beings who aim a little lower.
+> This was taught by the buddhas themselves for the benefit of humble beings, in response to a reasonable request from the bodhisattva Bhadrapāla.
 
 ---
 
@@ -265,12 +253,9 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md]] [[1-S
 <!-- sub:root-verse -->
 #### Root Verse
 
-*Plain English translation (source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md#^1-21`):*
+*Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-21`):*
 
-> Even the simple thought,
-> "I wish I could take away just one person's headache,"
-> is a kind thought.
-> And a kind thought like that already carries immeasurable merit.
+> If one merely thinks, "May I relieve the headache of a single being," that person, endowed with the intention to help, possesses immeasurable merit.
 
 ---
 
@@ -441,12 +426,9 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md]] [[1
 <!-- sub:root-verse -->
 #### Root Verse
 
-*Plain English translation (source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md#^1-22`):*
+*Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-22`):*
 
-> So what need is there to mention someone
-> who wishes to free every single being from boundless suffering
-> and bring each one
-> immeasurable good qualities?
+> So what need is there to speak of one who wishes to remove the immeasurable unhappiness of every single being, and to accomplish immeasurable good qualities for each?
 
 ---
 

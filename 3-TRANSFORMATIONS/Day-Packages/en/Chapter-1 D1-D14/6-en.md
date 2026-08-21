@@ -24,7 +24,7 @@ translated_from: "3-TRANSFORMATIONS/Day-Packages/bo/Chapter-1 D1-D14/6.md"
 sources:
   plan_day_file: "3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/Chapter-1 D1-D14/6.md"
   schedule_file: "3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/assets/schedule-hhdl-birthday.md"
-  verse_source: "3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md"
+  verse_source: "3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md"
   rail_files:
     - "2-RAILS/Verses/1-15-summary.md"
     - "2-RAILS/Verses/1-16-summary.md"
@@ -77,21 +77,15 @@ Today's two verses describe two kinds of this mind. The first is wishing to awak
 <!-- sec:verses -->
 ## 2. Today's Verses
 
-The verses for today, in the Plain English translation. Source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md` (blocks `^1-15`–`^1-16`).
+The verses for today, in the Plain English translation. Source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md` (blocks `^1-15`–`^1-16`).
 
 **Verse 1-15**
 
-> In brief, bodhichitta
-> comes in two forms:
-> the wish to reach enlightenment,
-> and actually engaging in that wish.
+> To summarize, the Mind of Awakening should be understood in two aspects: the aspiring mind of awakening and the engaging mind of awakening.
 
 **Verse 1-16**
 
-> Think of the difference
-> between wanting to go somewhere and actually going there.
-> In the same way, the wise should understand
-> the same kind of difference between these two forms of bodhichitta.
+> Just as one knows the difference between wishing to go and actually going, likewise, the wise should understand the difference between these two in order.
 
 ---
 
@@ -108,12 +102,9 @@ Each verse below gives the full rail package from `2-RAILS/Verses/<verse-id>-sum
 <!-- sub:root-verse -->
 #### Root Verse
 
-*Plain English translation (source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md#^1-15`):*
+*Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-15`):*
 
-> In brief, bodhichitta
-> comes in two forms:
-> the wish to reach enlightenment,
-> and actually engaging in that wish.
+> To summarize, the Mind of Awakening should be understood in two aspects: the aspiring mind of awakening and the engaging mind of awakening.
 
 ---
 
@@ -269,12 +260,9 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-15]] [[1-SOURCE
 <!-- sub:root-verse -->
 #### Root Verse
 
-*Plain English translation (source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md#^1-16`):*
+*Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-16`):*
 
-> Think of the difference
-> between wanting to go somewhere and actually going there.
-> In the same way, the wise should understand
-> the same kind of difference between these two forms of bodhichitta.
+> Just as one knows the difference between wishing to go and actually going, likewise, the wise should understand the difference between these two in order.
 
 ---
 

@@ -21,7 +21,7 @@ translated_from: "3-TRANSFORMATIONS/Day-Packages/bo/Chapter-1 D1-D14/7.md"
 sources:
   plan_day_file: "3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/Chapter-1 D1-D14/7.md"
   schedule_file: "3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/assets/schedule-hhdl-birthday.md"
-  verse_source: "3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md"
+  verse_source: "3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md"
   rail_files:
     - "2-RAILS/Verses/1-17-summary.md"
     - "2-RAILS/Verses/1-18-summary.md"
@@ -77,28 +77,19 @@ Today's three verses show very clearly the difference in benefit between "aspiri
 <!-- sec:verses -->
 ## 2. Today's Verses
 
-The verses for today, in the Plain English translation. Source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md` (blocks `^1-17`–`^1-19`).
+The verses for today, in the Plain English translation. Source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md` (blocks `^1-17`–`^1-19`).
 
 **Verse 1-17**
 
-> Even within samsara,
-> the wishing kind of bodhichitta produces great results.
-> But unlike the engaging kind,
-> it does not generate a steady, unbroken stream of merit.
+> From the aspiring mind of awakening, great fruit arises in cyclic existence, but it does not continuously produce merit in the same way as the engaging mind.
 
 **Verse 1-18**
 
-> But from the moment someone takes up that engaging mind
-> with real determination —
-> determined never to turn back
-> until every single being, without exception, is set free —
+> From the moment one correctly takes that resolve, the irreversible resolve, to liberate all countless beings,
 
 **Verse 1-19**
 
-> from that moment on,
-> an unbroken stream of merit flows out, as vast as the sky itself.
-> It keeps flowing
-> even while that person sleeps or loses focus.
+> from that moment on, even when asleep or careless, the strength of merit continuously arises in abundance, equal to space.
 
 ---
 
@@ -115,12 +106,9 @@ Each verse below gives the full rail package from `2-RAILS/Verses/<verse-id>-sum
 <!-- sub:root-verse -->
 #### Root Verse
 
-*Plain English translation (source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md#^1-17`):*
+*Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-17`):*
 
-> Even within samsara,
-> the wishing kind of bodhichitta produces great results.
-> But unlike the engaging kind,
-> it does not generate a steady, unbroken stream of merit.
+> From the aspiring mind of awakening, great fruit arises in cyclic existence, but it does not continuously produce merit in the same way as the engaging mind.
 
 ---
 
@@ -298,12 +286,9 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-17]] [[1-SOURCE
 <!-- sub:root-verse -->
 #### Root Verse
 
-*Plain English translation (source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md#^1-18`):*
+*Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-18`):*
 
-> But from the moment someone takes up that engaging mind
-> with real determination —
-> determined never to turn back
-> until every single being, without exception, is set free —
+> From the moment one correctly takes that resolve, the irreversible resolve, to liberate all countless beings,
 
 ---
 
@@ -474,12 +459,9 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]] [[1-S
 <!-- sub:root-verse -->
 #### Root Verse
 
-*Plain English translation (source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md#^1-19`):*
+*Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-19`):*
 
-> from that moment on,
-> an unbroken stream of merit flows out, as vast as the sky itself.
-> It keeps flowing
-> even while that person sleeps or loses focus.
+> from that moment on, even when asleep or careless, the strength of merit continuously arises in abundance, equal to space.
 
 ---
 

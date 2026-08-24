@@ -192,4 +192,30 @@ a signal that the review step is not happening.
 
 | Tibetan | Proposed | First seen | Status |
 |---|---|---|---|
-| | | | |
+| མཁན་པོ་ཀུན་བཟང་དཔལ་ལྡན་ | Khenpo Kunzang Palden | Day 38 | pending |
+| སློབ་དཔོན་ཀླུ་སྒྲུབ་ | Master Nagarjuna | Day 40 | pending |
+| རྒྱལ་པོ་གསལ་རྒྱལ་ | King Prasenajit | Day 41 | pending |
+| སྤྲང་པོ་ས་ད་ | the beggar Sada | Day 41 | pending |
+| ཡི་རང་ | rejoice | Day 41 | pending |
+| བཙུན་ཏ་ | Chunda, the blacksmith's son (Hindi चुंदा) | Day 43 | pending |
+| བདུད་བཞི་ | the four maras | Day 43 | pending |
+| མྱ་ངན་ལས་འདའ་བ་ | pass into nirvana | Day 43 | pending |
+| དྲི་མ་མེད་པར་གྲགས་པ་ | Vimalakirti | Day 44 | pending |
+| རྒྱལ་པོ་ཟླ་འོད་ | King Candraprabha | Day 45 | pending |
+| རྒྱལ་པོ་བི་མ་སེན་ | King Bhimasena | Day 45 | pending |
+| བྲམ་ཟེ་ལེའུ་དེ་བ་ | the brahmin Ledeva | Day 45 | pending |
+| དྲག་ཤུལ་ཅན་གྱིས་ཞུས་པའི་མདོ་ | the Sutra Requested by Ugra | Day 46 | pending |
+| ༸རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ་ | His Holiness the Dalai Lama (project convention) | Day 48 | pending |
+| མགོན་པོ་ཀླུ་སྒྲུབ་ | the Protector Nagarjuna | Day 48 | pending |
+| རིན་ཆེན་ཕྲེང་བ་ | the Ratnavali (Hindi रत्नावली) | Day 48 | pending |
+| མཁན་པོ་མི་ཉག་ཀུན་བཟང་བསོད་ནམས་ | Khenpo Minyak Kunzang Sonam | Day 49 | pending |
+| བསླབ་བཏུས་ | the Shikshasamuchaya (Hindi शिक्षासमुच्चय) | Day 49 | pending |
+| བློ་གྲོས་མི་ཟད་པའི་མདོ་ | the Akshayamati Sutra (Hindi अक्षयमति सूत्र) | Day 49 | pending |
+| རྫ་མཁན་གྱི་ཁྱེའུ་སྣང་བྱེད་ | the potter's son Nangje | Day 50 | pending |
+| དགེ་སློང་མི་འཁྲུགས་པ་ | the monk Akshobhya | Day 50 | pending |
+| སངས་རྒྱས་སྤྱན་ཆེན་པོ་ | Buddha Great Eye | Day 50 | pending |
+| སྨན་གྱི་བླ་མ་ | the Medicine Buddha (Hindi भैषज्यगुरु) | Day 50 | pending |
+| ཚུལ་ཁྲིམས་ཀྱི་ཉམས་ལེན། | _(Ethics Practice)_ — NEW CATEGORY, needs approval | Day 51 | pending |
+| སྲིད་ཞི་ | samsara and nirvana | Day 51 | pending |
+| རྒྱལ་པོ་དབང་ཆེན་སྡེ་ | King Wangchen De | Day 52 | pending |
+| ཉི་འོག་གི་རྒྱལ་པོ་ | the king of the southern land | Day 52 | pending |

@@ -20,7 +20,7 @@ translation_note: >-
 translated_from: "3-TRANSFORMATIONS/Day-Packages/bo/Chapter-1 D1-D14/1.md"
 sources:
   plan_day_file: "3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/Chapter-1 D1-D14/1.md"
-  schedule_file: "3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/assets/schedule-hhdl-birthday.md"
+  schedule_file: "3-TRANSFORMATIONS/Plans/Dalai Lama/Tibetan-schedule-corrected.md"
   verse_source: "3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md"
   rail_files:
     - "2-RAILS/Verses/1-1-summary.md"

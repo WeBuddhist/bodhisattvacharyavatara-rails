@@ -1,9 +1,9 @@
 {
   "textFontFamily": "Monlam Uni OuChan2",
-  "baseFontSize": 26,
+  "baseFontSize": 19,
   "theme": "system",
   "accentColor": "",
   "cssTheme": "",
-  "baseFontSizeAction": true,
+  "baseFontSizeAction": false,
   "translucency": false
 }

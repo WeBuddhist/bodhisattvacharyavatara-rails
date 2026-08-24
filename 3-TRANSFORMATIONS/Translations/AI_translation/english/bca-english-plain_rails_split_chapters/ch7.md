@@ -21,7 +21,8 @@ Having gone into the mouth of the Lord of Death,
 Why do you still not know? ^7-4
 
 Did you not see your own kind being gradually killed?
-Yet, what is this dependence on sleep,
+Yet, what is this dependence
+on sleep,
 Like an outcaste and a buffalo? ^7-5
 
 With all paths blocked,
@@ -79,7 +80,8 @@ Taking up, self-mastery,
 Equality of self and others,
 And exchanging self and others. ^7-16
 
-Do not be despondent, thinking, "How could I attain awakening?"
+Do not be despondent,
+thinking, "How could I attain awakening?"
 For the buddhas, who speak the truth,
 Declared this truth: ^7-17
 
@@ -158,7 +160,8 @@ One should strive to increase diligence
 Through aspiration, confidence, joy, relinquishment,
 Taking up, self-mastery, and strength. ^7-32
 
-I must destroy my own and others' faults,
+I must destroy
+my own and others' faults,
 And for each fault,
 An ocean of eons will be exhausted. ^7-33
 
@@ -167,7 +170,8 @@ Of the effort to exhaust faults,
 Then I am the source of immeasurable suffering.
 Why does my heart not break? ^7-34
 
-I must accomplish my own and others' many good qualities.
+I must accomplish
+my own and others' many good qualities.
 If each good quality
 Is cultivated for an ocean of eons, ^7-35
 
@@ -329,7 +333,8 @@ Desiring further and further. ^7-66
 
 Like an old enemy encountered in battle,
 One should avoid the weapon of troubling emotions,
-And move to destroy the enemies of troubling emotions. ^7-67
+And move to destroy
+the enemies of troubling emotions. ^7-67
 
 If one's sword falls in battle,
 One quickly picks it up out of fear.
@@ -371,4 +376,4 @@ Making it go and come,
 Likewise, controlling oneself with enthusiasm,
 One will succeed in that way. ^7-75
 
-This concludes the seventh chapter, "Practice of Diligence," from Engaging in Bodhisattva Conduct. ^7-a
+This concludes the seventh chapter of Engaging in Bodhisattva Conduct, "Practice of Diligence." ^7-a

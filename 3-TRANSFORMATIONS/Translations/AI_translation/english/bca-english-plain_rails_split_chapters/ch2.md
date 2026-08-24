@@ -1,4 +1,4 @@
-## 2. Chapter Two: Explaining the Benefits ^2-0
+## 2. Chapter Two: Confession of Misdeeds ^2-0
 
 To take hold of the precious Mind of Awakening,
 I offer excellent homage to the buddhas, the sacred Dharma,
@@ -37,7 +37,7 @@ accept these for my sake, by their own power. ^2-7
 
 To the buddhas and their spiritual children, I
 permanently offer my entire body.
-May the Supreme Bodhisattvas completely accept me.
+May the Supreme Beings completely accept me.
 With reverence, I will become your servant. ^2-8
 
 Since I am completely accepted by you,
@@ -101,7 +101,8 @@ arise everywhere, individually,
 satisfying the sufferings of beings. ^2-20
 
 May showers of jewels, flowers, and so forth,
-continuously fall upon all the sacred Dharma jewels,
+continuously fall
+upon all the sacred Dharma jewels,
 stupas, and statues. ^2-21
 
 Just as Mañjuśrī and others
@@ -147,7 +148,7 @@ I confess them to the Protectors from the heart. ^2-29
 Whatever harm I committed with body, speech,
 and mind, driven by troubling emotions,
 towards the Three Jewels,
-my parents, or other teachers, ^2-30
+my parents, or other suffering beings, ^2-30
 
 whatever extremely unbearable wrongdoings
 I, a wrongdoer tainted by many faults,
@@ -184,7 +185,8 @@ many friends and enemies have passed away.
 The unbearable misdeeds committed for their sake
 remain before me. ^2-37
 
-I did not realize that I am fleeting.
+I did not realize
+that I am fleeting.
 Therefore, through delusion, attachment, and hatred,
 I committed many kinds of misdeeds. ^2-38
 
@@ -220,7 +222,8 @@ and utterly wretched? ^2-44
 
 "Who will protect me well from this great fear?"
 With wide, terrified eyes,
-they search for refuge in all four directions. ^2-45
+they search for refuge
+in all four directions. ^2-45
 
 Having seen that there is no refuge in any direction,
 they then become utterly despondent.
@@ -233,7 +236,8 @@ and who are powerful and dispel all fears,
 I go for refuge from this very day. ^2-47
 
 Likewise, I truly go for refuge to the Dharma,
-which is realized by them and dispels the fears of cyclic existence,
+which is realized by them
+and dispels the fears of cyclic existence,
 and to the assembly of bodhisattvas. ^2-48
 
 I, terrified by fear,
@@ -253,7 +257,8 @@ I cry out from my heart, seeking refuge. ^2-51
 
 I go for refuge to Vajrapāṇi,
 who, upon seeing them, causes the messengers of the Lord of Death
-and other enemies to flee in terror in all four directions. ^2-52
+and other enemies to flee in terror
+in all four directions. ^2-52
 
 In the past, I transgressed your words.
 Now, having seen great fear,
@@ -272,7 +277,8 @@ can be found anywhere, ^2-55
 
 then to disregard the words of the all-knowing doctor,
 who extracts all piercing pains,
-is an act of extreme delusion and a cause for scorn. ^2-56
+is an act of extreme delusion
+and a cause for scorn. ^2-56
 
 If one must be careful
 even on a small, ordinary precipice,
@@ -319,5 +325,4 @@ as faults.
 Since this is not good,
 I will never commit them again. ^2-65
 
-From "Engaging in Bodhisattva Conduct,"
-Chapter Two: Confession of Misdeeds. ^2-a
+This concludes the second chapter of Engaging in Bodhisattva Conduct, "Confession of Misdeeds." ^2-a

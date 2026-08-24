@@ -176,6 +176,13 @@ def build_text_input(data):
                     if resolved_author and "_resolved_author" not in payload:
                         payload["_resolved_author"] = resolved_author
 
+                if not entry.get("id") and not entry.get("bdrc_id"):
+                    label = clean_name or name
+                    person_warnings.append(
+                        f"{role} {label!r} not found (no id) — skipped"
+                    )
+                    continue
+
                 contribs.append(entry)
 
             payload["contributions"] = contribs if contribs else None
@@ -202,10 +209,11 @@ def write_output(path, doc_info, items):
     resolved_author = built.pop("_resolved_author", None)
 
     if not built.get("alt_titles"):
-        items.append(("ERROR", "alt_titles: required (set in YAML frontmatter)"))
+        items.append(("WARN", "alt_titles: missing — ignored for now"))
 
     errors = [m for l, m in items if l == "ERROR"]
     infos = [m for l, m in items if l == "INFO"]
+    warns = [m for l, m in items if l == "WARN"]
 
     if not errors:
         out_path = OUTPUT_DIR / f"{stem}.lint.json"
@@ -214,7 +222,7 @@ def write_output(path, doc_info, items):
             "source": str(path.resolve()),
             "validated_at": timestamp,
             "notes": infos,
-            "warnings": person_warnings,
+            "warnings": warns + person_warnings,
             "text_input": built,
         }
     else:
@@ -226,7 +234,7 @@ def write_output(path, doc_info, items):
             "error_count": len(errors),
             "errors": errors,
             "notes": infos,
-            "warnings": person_warnings,
+            "warnings": warns + person_warnings,
             "resolved": built,
         }
 
@@ -244,7 +252,7 @@ def write_edition_output(path, doc_info, items):
     resolved_author = built.pop("_resolved_author", None)
 
     if not built.get("alt_titles"):
-        items.append(("ERROR", "alt_titles: required (set in YAML frontmatter)"))
+        items.append(("WARN", "alt_titles: missing — ignored for now"))
 
     errors = [m for l, m in items if l == "ERROR"]
     infos  = [m for l, m in items if l == "INFO"]

@@ -49,6 +49,8 @@ python3 4-SYSTEM\scripts\parser-root-text\parser.py "1-SOURCES\Text\BCAV08_SH_sk
 ## Notes
 
 - Run the linter first — the parser reads `translation_of` and other resolved fields from the lint JSON
+- Author/translator contributions without a resolvable id are dropped with a warning; missing contributions are allowed
+- Missing `alt_titles` is allowed (warning only)
 - Blocks without a reference marker (`^ref`) are skipped with a warning
 - Pure transclusion blocks (`![[...]]` only) are silently skipped — they are used for alignment, not content
 - Tibetan TOC titles in Wylie are auto-converted to Unicode

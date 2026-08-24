@@ -1,6 +1,18 @@
 {
   "alignments": [
     {
+      "source_segment_reference": "I-1",
+      "target_segment_reference": "I-1"
+    },
+    {
+      "source_segment_reference": "I-2",
+      "target_segment_reference": "I-2"
+    },
+    {
+      "source_segment_reference": "I-3",
+      "target_segment_reference": "I-3"
+    },
+    {
       "source_segment_reference": "1-1",
       "target_segment_reference": "1-1"
     },
@@ -3329,6 +3341,10 @@
       "target_segment_reference": "9-139"
     },
     {
+      "source_segment_reference": "9-140",
+      "target_segment_reference": "9-140"
+    },
+    {
       "source_segment_reference": "9-141",
       "target_segment_reference": "9-141"
     },
@@ -3678,7 +3694,19 @@
     },
     {
       "source_segment_reference": "a-1",
-      "target_segment_reference": "a"
+      "target_segment_reference": "a-1"
+    },
+    {
+      "source_segment_reference": "b-1",
+      "target_segment_reference": "b-1"
+    },
+    {
+      "source_segment_reference": "b-2",
+      "target_segment_reference": "b-2"
+    },
+    {
+      "source_segment_reference": "b-3",
+      "target_segment_reference": "b-3"
     }
   ]
 }

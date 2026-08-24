@@ -1,7 +1,8 @@
 ## 3. Chapter Three: Taking Hold of the Mind of Awakening ^3-0
 
 I rejoice in the good deeds
-that bring rest from the suffering of all beings in the lower realms,
+that bring rest from the suffering of all beings
+in the lower realms,
 and in the happiness of those who suffer. ^3-1
 
 I rejoice in the good deeds accumulated
@@ -166,4 +167,4 @@ invited all beings to buddhahood
 and to happiness in the interim.
 Therefore, gods, demigods, and others, rejoice! ^3-33
 
-From Engaging in Bodhisattva Conduct, the third chapter, called Taking Hold of the Mind of Awakening. ^3-a
+This concludes the third chapter of Engaging in Bodhisattva Conduct, "Taking Hold of the Mind of Awakening." ^3-a

@@ -139,6 +139,46 @@ def extract_text_input(lint_path):
     if text_input is None:
         raise ValueError(f"no text_input found in {lint_path.name}")
     clean = {k: v for k, v in text_input.items() if not _is_empty(v)}
+
+    if "alt_titles" not in clean:
+        print("  WARN alt_titles: missing — ignored", file=sys.stderr)
+
+    contribs = clean.get("contributions")
+    if contribs is None:
+        print("  WARN contributions: author/translator missing — ignored", file=sys.stderr)
+    elif isinstance(contribs, list):
+        kept = []
+        for i, entry in enumerate(contribs):
+            if not isinstance(entry, dict):
+                print(f"  WARN contributions[{i}]: invalid entry — skipped", file=sys.stderr)
+                continue
+            role = entry.get("role", "contributor")
+            if entry.get("type") == "ai":
+                if entry.get("id") or entry.get("ai_id"):
+                    kept.append(entry)
+                else:
+                    print(
+                        f"  WARN {role}: AI contributor missing id — skipped",
+                        file=sys.stderr,
+                    )
+                continue
+            if entry.get("id") or entry.get("bdrc_id"):
+                kept.append(entry)
+            else:
+                print(
+                    f"  WARN {role}: not found (no id) — skipped",
+                    file=sys.stderr,
+                )
+        if kept:
+            clean["contributions"] = kept
+        else:
+            clean.pop("contributions", None)
+            if contribs:
+                print(
+                    "  WARN contributions: none had resolvable ids — omitted",
+                    file=sys.stderr,
+                )
+
     stem = lint_path.stem
     if stem.endswith(".lint"):
         stem = stem[:-len(".lint")]

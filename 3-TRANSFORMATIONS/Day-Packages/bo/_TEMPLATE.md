@@ -77,7 +77,7 @@ document_type: english-translation
 translated_from: "…/1.md"
 sources:
   plan_day_file: "…/Days/Chapter-1 D1-D14/1.md"
-  schedule_file: "…/assets/schedule-hhdl-birthday.md"
+  schedule_file: "3-TRANSFORMATIONS/Plans/Dalai Lama/Tibetan-schedule-corrected.md"
   verse_source: "3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md"
   rail_files:
     - "2-RAILS/Verses/1-1-summary.md"

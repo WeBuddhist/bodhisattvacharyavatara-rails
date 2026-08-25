@@ -219,3 +219,8 @@ a signal that the review step is not happening.
 | སྲིད་ཞི་ | samsara and nirvana | Day 51 | pending |
 | རྒྱལ་པོ་དབང་ཆེན་སྡེ་ | King Wangchen De | Day 52 | pending |
 | ཉི་འོག་གི་རྒྱལ་པོ་ | the king of the southern land | Day 52 | pending |
+| བྱམས་སེམས་ | loving-kindness | Day 53 | pending |
+| ཐོས་བསམ་ | hearing and reflecting | Day 53 | pending |
+| བརྩོན་འགྲུས་ཀྱི་ཉམས་ལེན། | _(Diligence Practice)_ — NEW CATEGORY, needs approval | Day 54 | pending |
+| ཚོགས་སྦྱོར་གྱི་ལམ་ | the first stages of the path (the paths of accumulation and joining) | Day 54 | pending |
+| ཁམས་གསུམ་ | the three worlds | Day 54 | pending |

@@ -21,8 +21,8 @@ translation_note: >-
 translated_from: "3-TRANSFORMATIONS/Day-Packages/bo/Chapter-1 D1-D14/3.md"
 sources:
   plan_day_file: "3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/Chapter-1 D1-D14/3.md"
-  schedule_file: "3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/assets/schedule-hhdl-birthday.md"
-  verse_source: "3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md"
+  schedule_file: "3-TRANSFORMATIONS/Plans/Dalai Lama/Tibetan-schedule-corrected.md"
+  verse_source: "3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md"
   rail_files:
     - "2-RAILS/Verses/1-6-summary.md"
     - "2-RAILS/Verses/1-7-summary.md"
@@ -80,28 +80,28 @@ These three verses show three wonderful benefits of the awakening mind.
 <!-- sec:verses -->
 ## 2. Today's Verses
 
-The verses for today, in the Plain English translation. Source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md` (blocks `^1-6`–`^1-8`).
+The verses for today, in the Plain English translation. Source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md` (blocks `^1-6`–`^1-8`).
 
 **Verse 1-6**
 
-> That is why our virtue is always so fragile,
-> while the force of wrongdoing is immense and terrifying.
-> Nothing can overpower it —
-> except bodhichitta.
+> Therefore, consider that good deeds are weak,
+> while misdeeds are powerful and unbearable.
+> What other virtue, besides the perfect Mind of Awakening,
+> could overcome them?
 
 **Verse 1-7**
 
-> The great buddhas reflected deeply across countless ages
-> and saw that this alone truly helps.
-> Through it, boundless numbers of beings
-> can easily reach the highest happiness.
+> The mighty Sages, who reflected deeply for many eons,
+> reflected that this alone is beneficial.
+> By this, countless beings
+> easily attain supreme happiness.
 
 **Verse 1-8**
 
-> Anyone who wants to escape the countless sufferings of samsara,
-> who wants to end the pain of others,
-> and who wants to enjoy every kind of happiness
-> should never let go of bodhichitta.
+> Wishing to overcome hundreds of cyclic existence’s sufferings,
+> wishing to remove beings’ unhappiness,
+> and wishing to experience hundreds of joys,
+> one should always hold fast to the Mind of Awakening.
 
 ---
 
@@ -118,12 +118,12 @@ Each verse below gives the full rail package from `2-RAILS/Verses/<verse-id>-sum
 <!-- sub:root-verse -->
 #### Root Verse
 
-*Plain English translation (source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md#^1-6`):*
+*Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-6`):*
 
-> That is why our virtue is always so fragile,
-> while the force of wrongdoing is immense and terrifying.
-> Nothing can overpower it —
-> except bodhichitta.
+> Therefore, consider that good deeds are weak,
+> while misdeeds are powerful and unbearable.
+> What other virtue, besides the perfect Mind of Awakening,
+> could overcome them?
 
 ---
 
@@ -324,12 +324,12 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^1-6]] 
 <!-- sub:root-verse -->
 #### Root Verse
 
-*Plain English translation (source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md#^1-7`):*
+*Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-7`):*
 
-> The great buddhas reflected deeply across countless ages
-> and saw that this alone truly helps.
-> Through it, boundless numbers of beings
-> can easily reach the highest happiness.
+> The mighty Sages, who reflected deeply for many eons,
+> reflected that this alone is beneficial.
+> By this, countless beings
+> easily attain supreme happiness.
 
 ---
 
@@ -498,12 +498,12 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^1-7]] 
 <!-- sub:root-verse -->
 #### Root Verse
 
-*Plain English translation (source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md#^1-8`):*
+*Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-8`):*
 
-> Anyone who wants to escape the countless sufferings of samsara,
-> who wants to end the pain of others,
-> and who wants to enjoy every kind of happiness
-> should never let go of bodhichitta.
+> Wishing to overcome hundreds of cyclic existence’s sufferings,
+> wishing to remove beings’ unhappiness,
+> and wishing to experience hundreds of joys,
+> one should always hold fast to the Mind of Awakening.
 
 ---
 

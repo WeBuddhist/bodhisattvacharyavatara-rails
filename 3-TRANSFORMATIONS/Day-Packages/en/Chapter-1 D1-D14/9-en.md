@@ -16,8 +16,8 @@ translation_note: >-
 translated_from: "3-TRANSFORMATIONS/Day-Packages/bo/Chapter-1 D1-D14/9.md"
 sources:
   plan_day_file: "3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/Chapter-1 D1-D14/9.md"
-  schedule_file: "3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/assets/schedule-hhdl-birthday.md"
-  verse_source: "3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md"
+  schedule_file: "3-TRANSFORMATIONS/Plans/Dalai Lama/Tibetan-schedule-corrected.md"
+  verse_source: "3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md"
   rail_files:
     - "2-RAILS/Verses/1-23-summary.md"
     - "2-RAILS/Verses/1-24-summary.md"
@@ -71,28 +71,27 @@ This mind, which thinks only of the good of others — a mind that has never eve
 <!-- sec:verses -->
 ## 2. Today's Verses
 
-The verses for today, in the Plain English translation. Source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md` (blocks `^1-23`–`^1-25`).
+The verses for today, in the Plain English translation. Source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md` (blocks `^1-23`–`^1-25`).
 
 **Verse 1-23**
 
-> Does any mother or father
-> carry a wish like this?
-> Do the gods carry it? Do the great sages?
-> Does even Brahma carry it?
+> Whether it be a father or a mother,
+> who possesses such a benevolent mind?
+> Whether it be gods or sages,
+> does even Brahma possess this?
 
 **Verse 1-24**
 
-> Those very beings have never,
-> even in their own private dreams,
-> wished such a thing for themselves.
-> So how could it ever arise in them for someone else's sake?
+> If, in the past, for one's own sake,
+> one has not even dreamed of such a thought,
+> how could it arise for the sake of others?
 
 **Verse 1-25**
 
-> Most beings do not even wish this kind of good for themselves.
-> So this rare and precious jewel of a mind —
-> the wish to help others —
-> is something truly new and amazing when it appears.
+> That intention for the benefit of beings,
+> which does not arise even for one's own sake in others,
+> this precious and exceptional mind,
+> is an unprecedented wonder that has arisen.
 
 ---
 
@@ -109,12 +108,12 @@ Each verse below gives the full rail package from `2-RAILS/Verses/<verse-id>-sum
 <!-- sub:root-verse -->
 #### Root Verse
 
-*Plain English translation (source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md#^1-23`):*
+*Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-23`):*
 
-> Does any mother or father
-> carry a wish like this?
-> Do the gods carry it? Do the great sages?
-> Does even Brahma carry it?
+> Whether it be a father or a mother,
+> who possesses such a benevolent mind?
+> Whether it be gods or sages,
+> does even Brahma possess this?
 
 ---
 
@@ -279,12 +278,11 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]] [[1-S
 <!-- sub:root-verse -->
 #### Root Verse
 
-*Plain English translation (source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md#^1-24`):*
+*Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-24`):*
 
-> Those very beings have never,
-> even in their own private dreams,
-> wished such a thing for themselves.
-> So how could it ever arise in them for someone else's sake?
+> If, in the past, for one's own sake,
+> one has not even dreamed of such a thought,
+> how could it arise for the sake of others?
 
 ---
 
@@ -417,12 +415,12 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md]] [[1-S
 <!-- sub:root-verse -->
 #### Root Verse
 
-*Plain English translation (source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md#^1-25`):*
+*Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-25`):*
 
-> Most beings do not even wish this kind of good for themselves.
-> So this rare and precious jewel of a mind —
-> the wish to help others —
-> is something truly new and amazing when it appears.
+> That intention for the benefit of beings,
+> which does not arise even for one's own sake in others,
+> this precious and exceptional mind,
+> is an unprecedented wonder that has arisen.
 
 ---
 

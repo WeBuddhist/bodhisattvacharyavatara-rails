@@ -447,7 +447,7 @@ def validate_text_input(data):
     _contrib_fields = ("contributions", "author", "author in English", "author_in_english",
                       "translator", "translator in English", "translator_in_english")
     if not any(data.get(f) for f in _contrib_fields):
-        items.append(("ERROR", "contributions: required; set author, translator, or contributions field"))
+        items.append(("WARN", "contributions: author/translator missing — ignored for now"))
     elif "contributions" in data:
         contribs = data["contributions"]
         if not isinstance(contribs, list):

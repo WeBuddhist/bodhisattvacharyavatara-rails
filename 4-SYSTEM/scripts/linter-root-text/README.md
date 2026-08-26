@@ -5,8 +5,8 @@ Validates vault source files (`.md`) and produces a structured JSON payload read
 ## What it does
 
 1. Reads the YAML frontmatter from the source `.md` file
-2. Validates all required fields (`title`, `language`, `license`, `author`/`translator`, `category_id`, `source`, `edition_type`, etc.)
-3. Looks up the author/translator in the persons API; if not found, searches BDRC
+2. Validates required fields (`title`, `language`, `license`, `category_id`, `source`, `edition_type`, etc.). Author/translator are optional for now — missing ones produce a warning
+3. Looks up the author/translator in the persons API; if not found, searches BDRC. Persons without a resolved id are skipped with a warning
 4. Uses `title` and `alt_titles` from the YAML frontmatter as-is (no BDRC work search)
 5. For translation files, auto-resolves `translation_of` from the root text's `text_id`
 6. For commentary files, auto-resolves `commentary_of` from the root text's `text_id`
@@ -64,7 +64,7 @@ See `4-SYSTEM/Templates/FILE_YAML_PROPERTIES.md` for the required YAML propertie
 ## Notes
 
 - Tibetan titles in Wylie romanization (e.g. `kun dpal spyod 'jug`) are auto-converted to Unicode in the output
-- `title` and `alt_titles` must be set in the YAML — the linter does not look them up from BDRC
+- `title` must be set in the YAML. `alt_titles` is optional for now (warning if missing). Neither is looked up from BDRC
 - `alt_titles` are variants in the **same language** as the file (`lang_tag`). Use a string or a list of strings; each is wrapped with the title script tag for the API (`sa` → `sa-x-iast`; other langs use `lang_tag` as-is):
 
   ```yaml

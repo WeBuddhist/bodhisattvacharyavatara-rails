@@ -296,6 +296,12 @@ Audits the vault for consistency: checks that all linked files exist, frontmatte
 **Outputs:** The same file modified in place — a block id appended to the end of every qualifying line; no lines added, removed, or reordered. Bundles a dry-runnable Python script `apply.py` with an `audit` mode.
 → [`commentary-verse-id/SKILL.md`](commentary-verse-id/SKILL.md)
 
+### `BCA-Heading-Level-Tagger` **[exists]**
+**Purpose:** Converts bare numbered outline headings (ས་བཅད-style numbering like `1`, `1.1`, `1.1.1.2.2.4`) in a segmented Bodhicaryavatara commentary file into Obsidian-native markdown heading levels (`##` for 1 digit group up to `######` for 5) and nested bullet lists (indented one level per digit group beyond 6), so the outline becomes foldable with Obsidian's native fold arrows. Leaves already-tagged headings and any pre-existing bullet lines untouched, so it's safe to re-run on a partially-tagged file. Also detects and repairs a data quirk seen in this vault's files — a heading number glued directly onto the end of the prior heading's prose with no line break — by splitting it onto its own line before tagging.
+**Inputs:** A segmented Tibetan commentary `.md` file with bare numbered outline lines (e.g. `0-INBOX/*_bo_segmented*.md`).
+**Outputs:** The same file overwritten in place with headings/bullets tagged, and a timestamped backup (`<filename>.BACKUP-YYYYMMDD-HHMMSS.md`) written alongside it before the overwrite. Bundles a Python script `scripts/tag_headings.py`.
+→ [`BCA-Heading-Level-Tagger/SKILL.md`](BCA-Heading-Level-Tagger/SKILL.md)
+
 ---
 
 ## Vault-specific skills
@@ -438,7 +444,7 @@ These skills are specific to the Bodhisattvacaryāvatāra vault and are not part
 
 ### `day-package-pipeline` **[exists]**
 **Purpose:** Build one Bodhisattva-Challenge day-package end to end — assemble the Tibetan source-of-record file from the verse rails, plan day file, and schedule; translate it into the English package; then enforce the locked format (display-only commentator headings, His-Holiness-first order, per-section provenance) with the validator, conform, reorder, and drift-guard tools.
-**Inputs:** Day number + chapter; `schedule-hhdl-birthday.md`; the per-verse rails (`2-RAILS/Verses/*-summary.md`); the plan day file under `en/Days/`; the Plain-English verse text; `_TEMPLATE.md`; `_TERMBASE.md`; the `4-SYSTEM/scripts/day-package/` tooling.
+**Inputs:** Day number + chapter; `Tibetan-schedule-corrected.md`; the per-verse rails (`2-RAILS/Verses/*-summary.md`); the plan day file under `en/Days/`; the Plain-English verse text; `_TEMPLATE.md`; `_TERMBASE.md`; the `4-SYSTEM/scripts/day-package/` tooling.
 **Outputs:** A matched pair of protected files — `Day-Packages/bo/…/<day>.md` (Tibetan source-of-record) and `Day-Packages/en/…/<day>-en.md` (English translation) — that pass `day_package_tools.py validate`, with the guard re-baselined.
 → [`day-package-pipeline/SKILL.md`](day-package-pipeline/SKILL.md)
 

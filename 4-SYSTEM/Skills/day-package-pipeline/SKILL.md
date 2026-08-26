@@ -18,10 +18,10 @@ Gather all of the following before starting. If any is missing or ambiguous, sto
 | Input | What it is | Path |
 |---|---|---|
 | Day number + chapter | Which day to build (e.g. Day 15, Chapter 2) | — |
-| Schedule | Maps each day to its verse range and date | `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/assets/schedule-hhdl-birthday.md` |
+| Schedule | Maps each day to its verse range and date | `3-TRANSFORMATIONS/Plans/Dalai Lama/Tibetan-schedule-corrected.md` — the corrected schedule, source of record. (`…/en/assets/schedule-hhdl-birthday.md` mirrors it; if the two ever disagree, the corrected schedule governs.) |
 | Verse rails | Per-verse source content (root verse, interlinear gloss, per-commentator explanations, stories, metaphors, scriptural quotations, main teaching points, key terms, synthesis) | `2-RAILS/Verses/<verse-id>-summary.md` |
 | Plan day file (Section 1) | The Challenge track. **Source differs by chapter, and by language for Ch 2+** — see the note below. | Ch 1: `…/en/Days/Chapter-1 D1-D14/<day>.md` · Ch 2+ Tibetan: `3-TRANSFORMATIONS/Plans/Dalai Lama/Chapter-<N> …/Day-<day>-Ch<c>-V<a>-<b>.md` · Ch 2+ English: `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/Chapter-<N> D<a>-D<b>/<day>-ch<c>-v<range>-eng.md` — a top-level file only; if absent, stop and ask (never substitute `Archive/`, `Drafts and Options/`, or the Dalai Lama file's English block) |
-| Plain-English verses | Reader-facing verse text, addressed by block id (`^1-1`, `^2-1` …) | `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md` |
+| Plain-English verses | Reader-facing verse text, addressed by block id (`^1-1`, `^2-1` …) | `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md` — **the only authorized English verse source; do not use `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md`, a separate, unrelated AI translation of the same verses that must never be cited or quoted in a day-package** |
 | Format contract | The locked template every output must match | `3-TRANSFORMATIONS/Day-Packages/bo/_TEMPLATE.md` |
 | Termbase | Fixed Buddhist-term renderings + the commentator id → display-name table | `3-TRANSFORMATIONS/Day-Packages/bo/_TERMBASE.md` |
 | Tooling | Validator/conform/guard and the reorder script | `4-SYSTEM/scripts/day-package/day_package_tools.py`, `…/reorder_commentators.py` |
@@ -70,8 +70,8 @@ document_type: english-translation
 translated_from: "…/Day-Packages/bo/Chapter-<N> …/<day>.md"
 sources:
   plan_day_file: "…/en/Days/Chapter-1 …/<day>.md"   # Ch 1; for Ch 2+ English package point to the curated Days/Chapter-<N> …/<day>-ch<c>-v<range>-eng.md file (Tibetan package still points to the Dalai Lama plan file)
-  schedule_file: "…/assets/schedule-hhdl-birthday.md"
-  verse_source: "3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md"
+  schedule_file: "3-TRANSFORMATIONS/Plans/Dalai Lama/Tibetan-schedule-corrected.md"
+  verse_source: "3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md"
   rail_files:
     - "2-RAILS/Verses/<c>-<a>-summary.md"
 protected: true
@@ -104,7 +104,7 @@ edit_policy: "confirm-with-human-before-edit-move-delete"
 
 <!-- sec:verses -->
 ## 2. Today's Verses
-<one blockquote per verse; text from BCA-Full-Plain-English by block id>
+<one blockquote per verse; text from bca-english-plain.md by block id, line breaks preserved exactly as in the source (each source line gets its own "> " line — do not collapse a multi-line verse into one paragraph)>
 
 ---
 
@@ -156,6 +156,8 @@ Key format invariants (full list in `_TEMPLATE.md`):
 - Provenance is one `Sources: [[…]] [[…]]` line per leaf section; **no** inline `([[…]])` in prose, **no** `![[…]]` transclusions. The Key Terms table keeps its own `Source` column.
 - **Verse Synthesis has two labelled parts, worded exactly** `**Brief introduction.**` (a one-paragraph overview) then `**Key points.**` (a bulleted recap that mirrors the Main Teaching Points). Use these exact labels — do **not** write "Overview" or "Main points", which collide with the separate Main Teaching Points section and can throw off the reader/AI-overview view. This bulleted recap belongs to the synthesis by design; it is not a duplication error.
 - The `### Verse <id>` blocks must exactly cover the `verses:` range in the frontmatter.
+- **English verse text always comes from `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md`**, both in the frontmatter `verse_source:` field and everywhere the verse is quoted (Section 2, and each verse's Root Verse under Verse Rails). `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md` is a different, unrelated AI translation of the same verses and must never be cited or quoted — a past run of this pipeline used it by mistake across all of Chapter 1–3's day packages and every occurrence had to be corrected by hand.
+- **Verse quotes preserve the source's line breaks.** `bca-english-plain.md` renders each verse across several short lines (mirroring the root text's poetic structure); when quoting a verse into Section 2 or a Root Verse block, keep each source line as its own `> ` line in the blockquote. Do not join a multi-line verse into a single flowing sentence/paragraph.
 
 ---
 
@@ -178,11 +180,11 @@ Key format invariants (full list in `_TEMPLATE.md`):
 
 ### Phase A — Build the Tibetan source-of-record `<day>.md`
 
-1. In `schedule-hhdl-birthday.md`, look up the day's **verse range** and **date**. Derive the chapter and the `Chapter-<N> D<a>-D<b>` folder name.
+1. In `Tibetan-schedule-corrected.md`, look up the day's **verse range** and **date**. Derive the chapter and the `Chapter-<N> D<a>-D<b>` folder name.
 2. Create the output folders if absent under both `Day-Packages/bo/` and `Day-Packages/en/`.
 3. Read each verse's rail at `2-RAILS/Verses/<verse-id>-summary.md`. For each verse, **copy verbatim** into the Verse Rails section: Root Verse, Interlinear Gloss, Commentary Explanations (one H5 per commentator), Stories, Metaphors, Scriptural Quotations, Main Teaching Points, Key Terms, Verse Synthesis. Keep the rails' Tibetan/Sanskrit prose and their citations.
 4. Build Section 1 (Today's Challenge) from the chapter's plan file (see Inputs → "Section 1 source, by chapter"). For **Chapter 1**, copy Notification, Opening, From the Tradition, Today's Practice. For **Chapter 2+**, take the Dalai Lama plan file's **Tibetan** sections into the Tibetan package — Opening ← `ངོ་སྤྲོད།`, From the Tradition ← `འགྲེལ་བཤད།`, Today's Practice ← `དེ་རིང་གི་ཉམས་ལེན།` — and **omit Notification**. End the section with a `*(Source: <plan file>)*` line pointing to the file used.
-5. Fill Section 2 (Today's Verses) and each verse's Root Verse from `BCA-Full-Plain-English.md` by block id.
+5. Fill Section 2 (Today's Verses) and each verse's Root Verse from `bca-english-plain.md` (never `BCA-Full-Plain-English.md` — see Inputs) by block id, preserving that file's line breaks within each verse.
 6. Add the frontmatter, the `🔒 PROTECTED` banner, and the `# Day <N> — <title>` header (copy the banner text verbatim from an existing package).
 7. Insert `<!-- cm:<id> -->` anchors above each commentator H5, and rewrite each commentator H5 to display-only (`##### <Name> (<Work>)`); do the same for story H5s (`<!-- story:<id> -->` + title).
 
@@ -190,7 +192,7 @@ Key format invariants (full list in `_TEMPLATE.md`):
 
 8. Copy the Tibetan file's structure to the English path. Set `document_type: english-translation`, `translated_from:` and the `translation_note:` (see an existing `-en.md` for the exact note). For Section 1: Chapter 1 uses the Chapter-1 plan file's English text as before. **Chapter 2+ uses the curated English day file** `3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/Chapter-<N> D<a>-D<b>/<day>-ch<c>-v<range>-eng.md` (top-level only — never `Archive/` or `Drafts and Options/`), mapping `## 1) Introduction to Today's Practice` → Opening, `## 2) Commentary Explanation` → From the Tradition, and `## 3) Today's Practice` → Today's Practice (its Challenge/Actual-Practice line becomes `**Practice:**`). Set `sources.plan_day_file` to this file's path and cite it in the `*(Source: …)*` line. If no such file exists for the day, **stop and ask the human contributor** — do not fall back to the Dalai Lama file's English block or to `Archive`/`Drafts and Options`, and do not invent content.
 9. Render every rail block into English under Rule 2 and the termbase (Rule 3). Where a term-to-term mapping matters (Key Terms rows, metaphor labels), keep the original Tibetan in parentheses.
-10. Pull Section 2 and each Root Verse verbatim from `BCA-Full-Plain-English.md` (do not translate these — they are already English).
+10. Pull Section 2 and each Root Verse verbatim from `bca-english-plain.md` (never `BCA-Full-Plain-English.md` — see Inputs) by block id; do not translate these — they are already English. **Preserve the source's line breaks inside each verse**: render each of the source's lines as its own `> ` line in the blockquote rather than joining the verse into a single flowing paragraph. This applies to both the Section 2 quote and the matching Root Verse quote under Verse Rails.
 11. Keep commentator/story headings display-only; keep the `cm:`/`story:` anchors from Phase A. Make any `Divergences` H5 heading start with the word "Divergences" (see the format invariants).
 
 ### Phase C — Enforce the format
@@ -217,6 +219,8 @@ Key format invariants (full list in `_TEMPLATE.md`):
 - [ ] Every Commentary Explanations section lists His Holiness the Dalai Lama (`tenzin-gyatso`) first.
 - [ ] All commentator/story H5 headings are display-only; no machine id (`tenzin-gyatso`, `kunpal`, …) appears in any heading or in prose.
 - [ ] Provenance is one `Sources:` line per leaf section; no inline `([[…]])`, no `![[…]]`.
+- [ ] Every English verse quote (Section 2 and each Root Verse) is sourced from `bca-english-plain.md` — **not** `BCA-Full-Plain-English.md` — in both the `verse_source:` frontmatter field and the actual quoted text; the two files' wording differs and mixing them produces an inconsistent package.
+- [ ] Every English verse quote preserves the source's internal line breaks (one `> ` line per source line), rather than being collapsed into a single paragraph.
 - [ ] Both files carry the `🔒 PROTECTED` banner and `protected: true` / `edit_policy:` frontmatter.
 - [ ] `day_package_tools.py validate` prints `[PASS]` with zero errors for the English file.
 - [ ] `guard record` then `guard check` reports OK with the two new files included.

@@ -23,7 +23,7 @@ how will this opportunity arise again later? ^1-4
 Just as a flash of lightning briefly illuminates
 a dark, cloudy night,
 likewise, rarely, through the power of the buddhas,
-does worldly merit and wisdom arise. ^1-5
+does a virtuous state of mind arise. ^1-5
 
 Therefore, consider that good deeds are weak,
 while misdeeds are powerful and unbearable.
@@ -86,7 +86,8 @@ but it does not continuously produce merit
 in the same way as the engaging mind. ^1-17
 
 From the moment one correctly takes
-that resolve, the irreversible resolve,
+that resolve,
+the irreversible resolve,
 to liberate all countless beings, ^1-18
 
 from that moment on, even when asleep
@@ -97,7 +98,7 @@ equal to space. ^1-19
 This was taught by the buddhas themselves
 for the benefit of humble beings,
 in response to a reasonable request
-from the bodhisattva Samantabhadra. ^1-20
+from the bodhisattva Bhadrapāla. ^1-20
 
 If one merely thinks,
 "May I relieve the headache of a single being,"
@@ -114,7 +115,8 @@ who possesses such a benevolent mind?
 Whether it be gods or sages,
 does even Brahma possess this? ^1-23
 
-If, in the past, for one's own sake,
+If, in the past,
+for one's own sake,
 one has not even dreamed of such a thought,
 how could it arise for the sake of others? ^1-24
 
@@ -123,7 +125,8 @@ which does not arise even for one's own sake in others,
 this precious and exceptional mind,
 is an unprecedented wonder that has arisen. ^1-25
 
-What measure can there be for the merit of this precious mind,
+What measure can there be
+for the merit of this precious mind,
 which is the cause of joy for all beings,
 and the elixir for the suffering of beings? ^1-26
 
@@ -154,7 +157,7 @@ who acts kindly without being asked? ^1-31
 
 People honor as virtuous one who offers
 a small amount of ordinary food to beings,
-giving merely a moment's food,
+giving it only briefly each time, though regularly,
 or satisfying them for half a day with disdain. ^1-32
 
 What need is there to speak of the continuous generosity
@@ -177,4 +180,4 @@ that precious and supreme mind has arisen.
 I take refuge in that source of happiness,
 who, even when harmed, brings about happiness. ^1-36
 
-This is the first chapter, "Explaining the Benefits of the Mind of Awakening," from Engaging in Bodhisattva Conduct. ^1-a
+This concludes the first chapter of Engaging in Bodhisattva Conduct, "Explaining the Benefits of the Mind of Awakening." ^1-a

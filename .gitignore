@@ -1,6 +1,7 @@
 # Obsidian workspace state (per-machine, not shared)
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+.obsidian/appearance.json
 .obsidian/cache
 
 # Plugin data files (per-machine credentials / state)

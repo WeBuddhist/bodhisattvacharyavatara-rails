@@ -20,8 +20,8 @@ translation_note: >-
 translated_from: "3-TRANSFORMATIONS/Day-Packages/bo/Chapter-1 D1-D14/1.md"
 sources:
   plan_day_file: "3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/Chapter-1 D1-D14/1.md"
-  schedule_file: "3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/assets/schedule-hhdl-birthday.md"
-  verse_source: "3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md"
+  schedule_file: "3-TRANSFORMATIONS/Plans/Dalai Lama/Tibetan-schedule-corrected.md"
+  verse_source: "3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md"
   rail_files:
     - "2-RAILS/Verses/1-1-summary.md"
     - "2-RAILS/Verses/1-2-summary.md"
@@ -75,28 +75,28 @@ In the first three verses, Śāntideva bows with respect to the Buddhas, the bod
 <!-- sec:verses -->
 ## 2. Today's Verses
 
-The verses for today, in the Plain English translation. Source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md` (blocks `^1-1`–`^1-3`).
+The verses for today, in the Plain English translation. Source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md` (blocks `^1-1`–`^1-3`).
 
 **Verse 1-1**
 
-> I bow with deep respect to the buddhas, to the dharma they embody,
-> and to their bodhisattva heirs, and to all who deserve reverence.
-> Following the scriptures,
-> I will now explain briefly how to enter the bodhisattva's way of life.
+> I bow respectfully to the buddhas, their spiritual children,
+> who embody the truth, and all worthy ones.
+> I will briefly explain, in accordance with the scriptures,
+> how to engage in the vows of the spiritual children of the buddhas.
 
 **Verse 1-2**
 
-> Nothing I say here is new,
-> and I have no special gift for fine writing.
-> So I have not written this with others in mind —
-> I have written it simply to cultivate my own mind.
+> I will not state anything here that has not been said before.
+> Nor do I possess skill in composition.
+> Therefore, I have no intention of benefiting others.
+> I composed this for the sake of cultivating my own mind.
 
 **Verse 1-3**
 
-> Still, writing this may strengthen my faith in virtue
-> and help it grow.
-> And if someone else whose fortune matches mine
-> happens to read it, perhaps it will be worthwhile for them too.
+> Through these words, the strength of my faith
+> will temporarily increase for the sake of cultivating good deeds.
+> And if others, who share my fortune,
+> see these words, may they be meaningful.
 
 ---
 
@@ -113,12 +113,12 @@ Each verse below gives the full rail package from `2-RAILS/Verses/<verse-id>-sum
 <!-- sub:root-verse -->
 #### Root Verse
 
-*Plain English translation (source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md#^1-1`):*
+*Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-1`):*
 
-> I bow with deep respect to the buddhas, to the dharma they embody,
-> and to their bodhisattva heirs, and to all who deserve reverence.
-> Following the scriptures,
-> I will now explain briefly how to enter the bodhisattva's way of life.
+> I bow respectfully to the buddhas, their spiritual children,
+> who embody the truth, and all worthy ones.
+> I will briefly explain, in accordance with the scriptures,
+> how to engage in the vows of the spiritual children of the buddhas.
 
 ---
 
@@ -335,12 +335,12 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-1]] [[1-SOURCES
 <!-- sub:root-verse -->
 #### Root Verse
 
-*Plain English translation (source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md#^1-2`):*
+*Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-2`):*
 
-> Nothing I say here is new,
-> and I have no special gift for fine writing.
-> So I have not written this with others in mind —
-> I have written it simply to cultivate my own mind.
+> I will not state anything here that has not been said before.
+> Nor do I possess skill in composition.
+> Therefore, I have no intention of benefiting others.
+> I composed this for the sake of cultivating my own mind.
 
 ---
 
@@ -513,12 +513,12 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-2]] [[1-SOURCES
 <!-- sub:root-verse -->
 #### Root Verse
 
-*Plain English translation (source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md#^1-3`):*
+*Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-3`):*
 
-> Still, writing this may strengthen my faith in virtue
-> and help it grow.
-> And if someone else whose fortune matches mine
-> happens to read it, perhaps it will be worthwhile for them too.
+> Through these words, the strength of my faith
+> will temporarily increase for the sake of cultivating good deeds.
+> And if others, who share my fortune,
+> see these words, may they be meaningful.
 
 ---
 

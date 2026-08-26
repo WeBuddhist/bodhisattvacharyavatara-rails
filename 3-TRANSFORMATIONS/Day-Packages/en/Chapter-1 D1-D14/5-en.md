@@ -20,8 +20,8 @@ translation_note: >-
 translated_from: "3-TRANSFORMATIONS/Day-Packages/bo/Chapter-1 D1-D14/5.md"
 sources:
   plan_day_file: "3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/Chapter-1 D1-D14/5.md"
-  schedule_file: "3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/assets/schedule-hhdl-birthday.md"
-  verse_source: "3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md"
+  schedule_file: "3-TRANSFORMATIONS/Plans/Dalai Lama/Tibetan-schedule-corrected.md"
+  verse_source: "3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md"
   rail_files:
     - "2-RAILS/Verses/1-12-summary.md"
     - "2-RAILS/Verses/1-13-summary.md"
@@ -77,28 +77,28 @@ Today's three verses show what this wish can do. Most kind acts pay off once and
 <!-- sec:verses -->
 ## 2. Today's Verses
 
-The verses for today, in the Plain English translation. Source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md` (blocks `^1-12`–`^1-14`).
+The verses for today, in the Plain English translation. Source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md` (blocks `^1-12`–`^1-14`).
 
 **Verse 1-12**
 
-> Every other kind of virtue is like a banana tree:
-> once it bears its fruit, it withers away and is spent.
-> But the tree of bodhichitta
-> constantly bears fruit, growing and flourishing without ever being exhausted.
+> All other good deeds, like a plantain plant,
+> produce fruit and then perish.
+> But the tree of the Mind of Awakening always
+> produces fruit and grows inexhaustibly.
 
 **Verse 1-13**
 
-> Even someone who has done truly terrible wrong
-> can be freed in an instant by relying on bodhichitta —
-> the same way a person facing great danger is saved by relying on a hero.
-> So why wouldn't a careful person rely on it?
+> Even if one has committed extremely unbearable misdeeds,
+> relying on a hero, like relying on one who dispels great fear,
+> why would the wise not rely on that
+> which quickly liberates one?
 
 **Verse 1-14**
 
-> Like the fire that consumes everything at the end of an age,
-> bodhichitta burns away great wrongdoing in a single instant.
-> The wise and loving Maitreya
-> taught its boundless benefits well to Sudhana.
+> Therefore, it certainly burns away great misdeeds
+> in a single moment, like the fire at the end of an eon.
+> Its immeasurable benefits
+> were explained by Maitreya, the wise and excellent one.
 
 ---
 
@@ -115,12 +115,12 @@ Each verse below gives the full rail package from `2-RAILS/Verses/<verse-id>-sum
 <!-- sub:root-verse -->
 #### Root Verse
 
-*Plain English translation (source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md#^1-12`):*
+*Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-12`):*
 
-> Every other kind of virtue is like a banana tree:
-> once it bears its fruit, it withers away and is spent.
-> But the tree of bodhichitta
-> constantly bears fruit, growing and flourishing without ever being exhausted.
+> All other good deeds, like a plantain plant,
+> produce fruit and then perish.
+> But the tree of the Mind of Awakening always
+> produces fruit and grows inexhaustibly.
 
 ---
 
@@ -278,12 +278,12 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-12]] [[1-SOURCE
 <!-- sub:root-verse -->
 #### Root Verse
 
-*Plain English translation (source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md#^1-13`):*
+*Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-13`):*
 
-> Even someone who has done truly terrible wrong
-> can be freed in an instant by relying on bodhichitta —
-> the same way a person facing great danger is saved by relying on a hero.
-> So why wouldn't a careful person rely on it?
+> Even if one has committed extremely unbearable misdeeds,
+> relying on a hero, like relying on one who dispels great fear,
+> why would the wise not rely on that
+> which quickly liberates one?
 
 ---
 
@@ -440,12 +440,12 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-13]] [[1-SOURCE
 <!-- sub:root-verse -->
 #### Root Verse
 
-*Plain English translation (source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md#^1-14`):*
+*Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-14`):*
 
-> Like the fire that consumes everything at the end of an age,
-> bodhichitta burns away great wrongdoing in a single instant.
-> The wise and loving Maitreya
-> taught its boundless benefits well to Sudhana.
+> Therefore, it certainly burns away great misdeeds
+> in a single moment, like the fire at the end of an eon.
+> Its immeasurable benefits
+> were explained by Maitreya, the wise and excellent one.
 
 ---
 

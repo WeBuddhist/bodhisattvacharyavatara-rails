@@ -3675,6 +3675,10 @@
     {
       "source_segment_reference": "10-a",
       "target_segment_reference": "10-a"
+    },
+    {
+      "source_segment_reference": "a-1",
+      "target_segment_reference": "a"
     }
   ]
 }

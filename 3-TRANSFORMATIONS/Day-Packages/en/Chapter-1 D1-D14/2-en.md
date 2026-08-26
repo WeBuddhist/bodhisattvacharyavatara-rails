@@ -17,8 +17,8 @@ translation_note: >-
 translated_from: "3-TRANSFORMATIONS/Day-Packages/bo/Chapter-1 D1-D14/2.md"
 sources:
   plan_day_file: "3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/Chapter-1 D1-D14/2.md"
-  schedule_file: "3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/assets/schedule-hhdl-birthday.md"
-  verse_source: "3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md"
+  schedule_file: "3-TRANSFORMATIONS/Plans/Dalai Lama/Tibetan-schedule-corrected.md"
+  verse_source: "3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md"
   rail_files:
     - "2-RAILS/Verses/1-4-summary.md"
     - "2-RAILS/Verses/1-5-summary.md"
@@ -73,21 +73,21 @@ These two verses use a beautiful example to show how hard it is to find both sup
 <!-- sec:verses -->
 ## 2. Today's Verses
 
-The verses for today, in the Plain English translation. Source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md` (blocks `^1-4`–`^1-5`).
+The verses for today, in the Plain English translation. Source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md` (blocks `^1-4`–`^1-5`).
 
 **Verse 1-4**
 
-> This precious life with its freedom and opportunity
-> is extremely hard to find.
-> If I fail to put it to good use now,
-> when will a chance like this ever come again?
+> This opportunity is very hard to find.
+> Having attained the ability to accomplish human purpose,
+> if one does not accomplish what is beneficial in this life,
+> how will this opportunity arise again later?
 
 **Verse 1-5**
 
-> On a dark, cloudy night,
-> a flash of lightning lights up the sky for a single instant.
-> In the same way, through the power of the buddhas,
-> good and beneficial thoughts arise in the world only rarely and fleetingly.
+> Just as a flash of lightning briefly illuminates
+> a dark, cloudy night,
+> likewise, rarely, through the power of the buddhas,
+> does a virtuous state of mind arise.
 
 ---
 
@@ -104,12 +104,12 @@ Each verse below gives the full rail package from `2-RAILS/Verses/<verse-id>-sum
 <!-- sub:root-verse -->
 #### Root Verse
 
-*Plain English translation (source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md#^1-4`):*
+*Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-4`):*
 
-> This precious life with its freedom and opportunity
-> is extremely hard to find.
-> If I fail to put it to good use now,
-> when will a chance like this ever come again?
+> This opportunity is very hard to find.
+> Having attained the ability to accomplish human purpose,
+> if one does not accomplish what is beneficial in this life,
+> how will this opportunity arise again later?
 
 ---
 
@@ -304,12 +304,12 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-4]] [[1-SOURCES
 <!-- sub:root-verse -->
 #### Root Verse
 
-*Plain English translation (source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md#^1-5`):*
+*Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-5`):*
 
-> On a dark, cloudy night,
-> a flash of lightning lights up the sky for a single instant.
-> In the same way, through the power of the buddhas,
-> good and beneficial thoughts arise in the world only rarely and fleetingly.
+> Just as a flash of lightning briefly illuminates
+> a dark, cloudy night,
+> likewise, rarely, through the power of the buddhas,
+> does a virtuous state of mind arise.
 
 ---
 

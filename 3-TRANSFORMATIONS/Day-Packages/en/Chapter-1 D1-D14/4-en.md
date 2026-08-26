@@ -21,8 +21,8 @@ translation_note: >-
 translated_from: "3-TRANSFORMATIONS/Day-Packages/bo/Chapter-1 D1-D14/4.md"
 sources:
   plan_day_file: "3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/Days/Chapter-1 D1-D14/4.md"
-  schedule_file: "3-TRANSFORMATIONS/Plans/the-bodhisattva-challenge/en/assets/schedule-hhdl-birthday.md"
-  verse_source: "3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md"
+  schedule_file: "3-TRANSFORMATIONS/Plans/Dalai Lama/Tibetan-schedule-corrected.md"
+  verse_source: "3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md"
   rail_files:
     - "2-RAILS/Verses/1-9-summary.md"
     - "2-RAILS/Verses/1-10-summary.md"
@@ -80,28 +80,28 @@ Today's three verses show a wonderful thing: the very moment the awakening mind 
 <!-- sec:verses -->
 ## 2. Today's Verses
 
-The verses for today, in the Plain English translation. Source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md` (blocks `^1-9`–`^1-11`).
+The verses for today, in the Plain English translation. Source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md` (blocks `^1-9`–`^1-11`).
 
 **Verse 1-9**
 
-> The moment bodhichitta is born in someone,
-> even a miserable person trapped in the prison of samsara
-> is called an heir of the buddhas.
-> Gods and humans alike will bow to them.
+> When the Mind of Awakening arises, in a single moment,
+> those wretched ones bound in the prison of cyclic existence
+> are called spiritual children of the buddhas,
+> and become worthy of homage by gods and humans alike.
 
 **Verse 1-10**
 
-> Like the finest alchemy that turns base metal to gold,
-> bodhichitta takes this impure body of ours
-> and transforms it into the priceless body of a buddha.
-> So hold on firmly to bodhichitta.
+> Like the supreme elixir that transforms base metals into gold,
+> having taken this impure body, it transforms it into the immeasurable,
+> precious body of a buddha.
+> Therefore, hold fast to what is called the Mind of Awakening.
 
 **Verse 1-11**
 
-> The sole guide of all beings examined it closely
-> with his boundless wisdom and found it to be immensely valuable.
-> So if you wish to leave behind the realms of suffering,
-> hold firmly to this precious bodhichitta.
+> The sole guide of beings, with immeasurable wisdom,
+> upon proper examination, finds it precious.
+> Therefore, those who wish to be free from the states of suffering
+> should firmly hold fast to the precious Mind of Awakening.
 
 ---
 
@@ -118,12 +118,12 @@ Each verse below gives the full rail package from `2-RAILS/Verses/<verse-id>-sum
 <!-- sub:root-verse -->
 #### Root Verse
 
-*Plain English translation (source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md#^1-9`):*
+*Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-9`):*
 
-> The moment bodhichitta is born in someone,
-> even a miserable person trapped in the prison of samsara
-> is called an heir of the buddhas.
-> Gods and humans alike will bow to them.
+> When the Mind of Awakening arises, in a single moment,
+> those wretched ones bound in the prison of cyclic existence
+> are called spiritual children of the buddhas,
+> and become worthy of homage by gods and humans alike.
 
 ---
 
@@ -312,12 +312,12 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-9]] [[1-SOURCES
 <!-- sub:root-verse -->
 #### Root Verse
 
-*Plain English translation (source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md#^1-10`):*
+*Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-10`):*
 
-> Like the finest alchemy that turns base metal to gold,
-> bodhichitta takes this impure body of ours
-> and transforms it into the priceless body of a buddha.
-> So hold on firmly to bodhichitta.
+> Like the supreme elixir that transforms base metals into gold,
+> having taken this impure body, it transforms it into the immeasurable,
+> precious body of a buddha.
+> Therefore, hold fast to what is called the Mind of Awakening.
 
 ---
 
@@ -511,12 +511,12 @@ Sources: [[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^1-10]] [[1-SOURCE
 <!-- sub:root-verse -->
 #### Root Verse
 
-*Plain English translation (source: `3-TRANSFORMATIONS/Translations/en-translate/BCA-Full-Plain-English.md#^1-11`):*
+*Plain English translation (source: `3-TRANSFORMATIONS/Translations/AI_translation/english/bca-english-plain.md#^1-11`):*
 
-> The sole guide of all beings examined it closely
-> with his boundless wisdom and found it to be immensely valuable.
-> So if you wish to leave behind the realms of suffering,
-> hold firmly to this precious bodhichitta.
+> The sole guide of beings, with immeasurable wisdom,
+> upon proper examination, finds it precious.
+> Therefore, those who wish to be free from the states of suffering
+> should firmly hold fast to the precious Mind of Awakening.
 
 ---
 

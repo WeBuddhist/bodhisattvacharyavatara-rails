@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "source": "D:\\Work\\OpenPecha\\bodhisattvacharyavatara-rails\\1-SOURCES\\Translations\\zh-蔣揚仁欽譯師.md",
+  "validated_at": "2026-08-24T12:49:35.712279+00:00",
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: '1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md'",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "toc: 11 headers found"
+  ],
+  "warnings": [
+    "alt_titles: missing — ignored for now",
+    "no Person found in BDRC for '蔣揚仁欽譯師'",
+    "translator '蔣揚仁欽譯師' not found (no id) — skipped"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "zh": "入菩薩行論 - 蔣揚仁欽譯師"
+    },
+    "alt_titles": null,
+    "language": "zh",
+    "commentary_of": null,
+    "translation_of": "0lvicjSqSLdtXCZQjSYvj",
+    "category_id": "JD5ULLPAV1cxg7RSb7L3q",
+    "license": "cc0",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

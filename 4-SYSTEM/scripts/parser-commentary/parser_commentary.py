@@ -24,6 +24,15 @@ TRANSCLUSION_RE = re.compile(r'^\s*!\[\[.*?#\^.*?\]\]\s*$')
 _TRANS_REF_RE = re.compile(r'!\[\[.*?#\^([A-Za-z0-9]+(?:-[A-Za-z0-9]+)?)\]\]')
 _WYLIE_RE = re.compile(r"'[a-zA-Z]")
 
+# Inline verse/block-id markers such as `^I-13>` or `^1-3>` that sometimes
+# leak into edition content. These are Obsidian block IDs that either land
+# mid-block (only the *last* line of a block has its trailing ref stripped
+# by _build_content_and_segmentation) or get split across two raw source
+# lines — e.g. a block ID `^I-13` ending one line and a `>` blockquote
+# marker starting the next — so the line boundary itself can fall inside
+# the marker.
+VERSE_ID_RE = re.compile(r'\^[A-Za-z0-9]+-[A-Za-z0-9]+>')
+
 
 def _wylie_to_unicode(text, lang_tag):
     if lang_tag != "bo":
@@ -210,6 +219,62 @@ def _build_content_and_segmentation(blocks, doc_default):
     return "".join(parts), seg_list
 
 
+def _strip_verse_ids(content, seg_list):
+    """Remove inline verse/block-id markers (e.g. `^I-13>`, `^1-3>`) from
+    edition content and remap every segment's line spans to match.
+
+    Matches are found once over the full concatenated content (not per
+    line), because a marker can straddle what were originally two separate
+    raw source lines. Any existing line boundary that lands strictly inside
+    a match is collapsed to the start of that match, so the two adjacent
+    (now-empty) fragments merge away cleanly instead of leaving a dangling
+    partial marker in the output.
+    """
+    matches = [m.span() for m in VERSE_ID_RE.finditer(content)]
+    if not matches:
+        return content, seg_list
+
+    all_points = sorted(
+        {p for seg in seg_list for line in seg["lines"] for p in (line["start"], line["end"])}
+        | {0, len(content)}
+    )
+
+    mapping = {}
+    removed = 0
+    mi = 0
+    n_matches = len(matches)
+    for p in all_points:
+        while mi < n_matches and matches[mi][1] <= p:
+            s, e = matches[mi]
+            removed += (e - s)
+            mi += 1
+        if mi < n_matches:
+            s, e = matches[mi]
+            if s < p < e:
+                mapping[p] = s - removed
+                continue
+        mapping[p] = p - removed
+
+    new_content = VERSE_ID_RE.sub('', content)
+
+    new_seg_list = []
+    for seg in seg_list:
+        new_lines = []
+        for line in seg["lines"]:
+            ns, ne = mapping[line["start"]], mapping[line["end"]]
+            if ne <= ns:
+                continue
+            new_lines.append({"start": ns, "end": ne})
+        if not new_lines:
+            # A segment whose only content was a verse-id marker (rare,
+            # e.g. a transclusion-adjacent stub) is dropped entirely.
+            continue
+        seg["lines"] = new_lines
+        new_seg_list.append(seg)
+
+    return new_content, new_seg_list
+
+
 def build_edition(source_path, lint_path):
     fm, body = _read_source(source_path)
     _check_commentary(fm, source_path)
@@ -220,6 +285,7 @@ def build_edition(source_path, lint_path):
     doc_default = "paragraph"
 
     content_str, seg_list = _build_content_and_segmentation(blocks, doc_default)
+    content_str, seg_list = _strip_verse_ids(content_str, seg_list)
 
     edition_type = fm.get("edition_type", "critical")
     source_url = (

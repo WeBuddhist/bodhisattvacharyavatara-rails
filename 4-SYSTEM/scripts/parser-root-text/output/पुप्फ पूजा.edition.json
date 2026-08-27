@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://docs.google.com/document/d/1SLlrL28jErUZT-iMbMAFGue2GhNHUePZ/edit"
+  },
+  "content": "पुप्फ पूजा1. पूजा वचनवण्ण गन्ध गुणोपेतं, एतं कुसुमसन्तति।पूजयामि मुनिन्दस्स, सिरीपाद सरोरुहे।2. अनित्यता भावनापूजेमि बुद्धं कुसुमेन नेन,पुज्जेन मेतेन लभामि मोक्खं।पुप्फं मिलायाति यथा इदं मे,कायो तथा याति विनासभावं।",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 10
+          }
+        ],
+        "type": "title",
+        "reference": "0"
+      },
+      {
+        "lines": [
+          {
+            "start": 10,
+            "end": 21
+          }
+        ],
+        "type": "title",
+        "reference": "1-0"
+      },
+      {
+        "lines": [
+          {
+            "start": 21,
+            "end": 57
+          },
+          {
+            "start": 57,
+            "end": 93
+          }
+        ],
+        "type": "verse",
+        "reference": "1-2"
+      },
+      {
+        "lines": [
+          {
+            "start": 93,
+            "end": 110
+          }
+        ],
+        "type": "title",
+        "reference": "2-0"
+      },
+      {
+        "lines": [
+          {
+            "start": 110,
+            "end": 136
+          },
+          {
+            "start": 136,
+            "end": 163
+          },
+          {
+            "start": 163,
+            "end": 190
+          },
+          {
+            "start": 190,
+            "end": 214
+          }
+        ],
+        "type": "verse",
+        "reference": "2-4"
+      }
+    ]
+  }
+}

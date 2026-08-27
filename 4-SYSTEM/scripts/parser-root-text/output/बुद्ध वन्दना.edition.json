@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://docs.google.com/document/d/1SLlrL28jErUZT-iMbMAFGue2GhNHUePZ/edit"
+  },
+  "content": "बुद्ध वन्दनाइतिपि सो भगवा अरहं सम्मासम्बुद्धो,विज्जाचरणसम्पन्नो सुगतो लोकविदू।अनुत्तरो पुरिसदम्मसारथि,सत्था देवमनुस्सानं बुद्धो भगवाति।",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 12
+          }
+        ],
+        "type": "title",
+        "reference": "0"
+      },
+      {
+        "lines": [
+          {
+            "start": 12,
+            "end": 46
+          },
+          {
+            "start": 46,
+            "end": 78
+          },
+          {
+            "start": 78,
+            "end": 102
+          },
+          {
+            "start": 102,
+            "end": 135
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      }
+    ]
+  }
+}

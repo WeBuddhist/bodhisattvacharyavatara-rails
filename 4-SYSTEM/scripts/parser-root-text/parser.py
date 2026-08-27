@@ -226,18 +226,16 @@ def _build_content_and_segmentation(blocks, doc_default):
             line_spans = [{"start": start, "end": start + len(text)}]
             seg_list.append({"lines": line_spans, "type": "title", "reference": ref_no_caret})
         else:
-            last_nonempty_idx = -1
-            for i in range(len(content_lines) - 1, -1, -1):
-                if content_lines[i].rstrip():
-                    last_nonempty_idx = i
-                    break
             line_spans = []
-            for i, raw_line in enumerate(content_lines):
+            for raw_line in content_lines:
                 text = raw_line.rstrip()
-                if i == last_nonempty_idx:
-                    ref_idx = text.rfind(ref)
-                    if ref_idx != -1:
-                        text = text[:ref_idx].rstrip()
+                # Strip a trailing block-id marker (e.g. "^1-2") from every
+                # line, not just the segment's own closing reference line —
+                # per-line anchors used for finer-grained IDs must not leak
+                # into the joined edition content.
+                m = REF_RE.search(text)
+                if m:
+                    text = text[:m.start()].rstrip()
                 if not text:
                     continue
                 start = pos

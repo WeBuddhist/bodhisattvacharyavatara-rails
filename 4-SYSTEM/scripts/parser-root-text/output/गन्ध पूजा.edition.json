@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://docs.google.com/document/d/1SLlrL28jErUZT-iMbMAFGue2GhNHUePZ/edit"
+  },
+  "content": "गन्ध पूजासुगन्धिकाय वदनं,अनन्त गुणगन्धिना।सुगन्धिनाहं गन्धेन,पूजयामि तथागतं।",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 9
+          }
+        ],
+        "type": "title",
+        "reference": "0"
+      },
+      {
+        "lines": [
+          {
+            "start": 9,
+            "end": 25
+          },
+          {
+            "start": 25,
+            "end": 42
+          },
+          {
+            "start": 42,
+            "end": 61
+          },
+          {
+            "start": 61,
+            "end": 76
+          }
+        ],
+        "type": "verse",
+        "reference": "4"
+      }
+    ]
+  }
+}

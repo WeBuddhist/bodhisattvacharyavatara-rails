@@ -9,9 +9,9 @@ source: https://docs.google.com/document/d/1SLlrL28jErUZT-iMbMAFGue2GhNHUePZ/edi
 license: public
 category_id: LCorCb2K98p3TICt3UCDm
 bdrc_work_id: 
-text_id: 
-edition_id: 
-toc_id: 
+text_id: GgVf6n4NwPYcaG7X30b3T
+edition_id: VQ7w09tCN5pDLV6M0fYwN
+toc_id: ZeRTgluznF3HjS9oqRJOF
 ---
 
 # मेत्ता भावना ^0

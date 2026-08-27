@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://docs.google.com/document/d/1SLlrL28jErUZT-iMbMAFGue2GhNHUePZ/edit"
+  },
+  "content": "पुब्बभाग नमोक्कार1. साधुकारसाधु - साधु - साधु!!!2. रत्नत्रय वंदनाअरहं सम्मासम्बुद्धो भगवा बुद्धं भगवन्तं अभिवादेमि।स्वाखातो भगवता धम्मो धम्मं नमस्सामि।सुपटिपन्नो भगवतो सावकसङ्घो सङ्घं नमामि।3. नमो तस्सनमो तस्स भगवतो अरहतो सम्मासम्बुद्धस्स।नमो तस्स भगवतो अरहतो सम्मासम्बुद्धस्स।नमो तस्स भगवतो अरहतो सम्मासम्बुद्धस्स।",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 17
+          }
+        ],
+        "type": "title",
+        "reference": "0"
+      },
+      {
+        "lines": [
+          {
+            "start": 17,
+            "end": 27
+          }
+        ],
+        "type": "title",
+        "reference": "1-0"
+      },
+      {
+        "lines": [
+          {
+            "start": 27,
+            "end": 48
+          }
+        ],
+        "type": "verse",
+        "reference": "1-1"
+      },
+      {
+        "lines": [
+          {
+            "start": 48,
+            "end": 65
+          }
+        ],
+        "type": "title",
+        "reference": "2-0"
+      },
+      {
+        "lines": [
+          {
+            "start": 65,
+            "end": 115
+          },
+          {
+            "start": 115,
+            "end": 151
+          },
+          {
+            "start": 151,
+            "end": 190
+          }
+        ],
+        "type": "verse",
+        "reference": "2-3"
+      },
+      {
+        "lines": [
+          {
+            "start": 190,
+            "end": 201
+          }
+        ],
+        "type": "title",
+        "reference": "3-0"
+      },
+      {
+        "lines": [
+          {
+            "start": 201,
+            "end": 239
+          },
+          {
+            "start": 239,
+            "end": 277
+          },
+          {
+            "start": 277,
+            "end": 315
+          }
+        ],
+        "type": "verse",
+        "reference": "3-3"
+      }
+    ]
+  }
+}

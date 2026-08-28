@@ -370,3 +370,4 @@ Full rules in [`../3-TRANSFORMATIONS/About Transformations.md`](../3-TRANSFORMAT
 | Summarise a verse or chapter for a specific audience | `multilevel-summary` |
 | Translate verses into verse form for a language track | `rails-to-verse-translation` |
 ary` |
+| Insert root-verse transclusions into a commentary per §9's placement rules | `root-verse-transclusion` |

@@ -284,6 +284,12 @@ Audits the vault for consistency: checks that all linked files exist, frontmatte
 **Outputs:** The commentary file modified in place — only inserted `![[…]]` lines and the blank lines immediately around them; no commentary text changed. Bundles three dry-runnable Python scripts under `scripts/`.
 → [`Transclusion-rootext-into-commentaries/SKILL.md`](Transclusion-rootext-into-commentaries/SKILL.md)
 
+### `root-verse-transclusion` **[exists]**
+**Purpose:** Canonical, language-agnostic implementation of `1-SOURCES/About Sources.md` §9 — classifies every commentary section as a verse-group overview, a verse-by-verse exposition, or an introductory section with no verse reference, then inserts root-verse transclusions per the matching rule (all-at-once at the opening / one-per-verse before its own commentary / none). Complements `transclusion` and `Transclusion-rootext-into-commentaries`, which give finer sa-bcad-level placement for Tibetan master's commentaries specifically.
+**Inputs:** `root-text-file` (root/translation path, `verse_id_format: chapter-verse`), `commentary-file` (`1-SOURCES/Commentaries/` path, `file_type: commentary`), optional `section-scope`.
+**Outputs:** The commentary file modified in place — only inserted `![[...]]` transclusion lines; no other text changed. Ambiguous sections are reported to the human rather than guessed.
+→ [`root-verse-transclusion/SKILL.md`](root-verse-transclusion/SKILL.md)
+
 ### `tibetan-ocr-quality` **[exists]**
 **Purpose:** Calculate perplexity of a Tibetan OCR output file using KenLM and Botok normalization to assess OCR quality.
 **Inputs:** A `.txt` file containing raw Tibetan OCR output; the `BoKenlm-syl-v0.4.arpa` model file.

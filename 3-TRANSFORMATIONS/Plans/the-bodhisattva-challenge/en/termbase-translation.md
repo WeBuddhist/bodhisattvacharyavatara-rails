@@ -224,3 +224,12 @@ a signal that the review step is not happening.
 | བརྩོན་འགྲུས་ཀྱི་ཉམས་ལེན། | _(Diligence Practice)_ — NEW CATEGORY, needs approval | Day 54 | pending |
 | ཚོགས་སྦྱོར་གྱི་ལམ་ | the first stages of the path (the paths of accumulation and joining) | Day 54 | pending |
 | ཁམས་གསུམ་ | the three worlds | Day 54 | pending |
+| ཤེས་རབ་ཀྱི་ཉམས་ལེན། | _(Wisdom Practice)_ — NEW CATEGORY, needs approval | Day 55 | pending |
+| ཐུབ་པ་ | the Sage | Day 55 | pending |
+| བདུད་རྩི་ | nectar | Day 55 | pending |
+| བློ་གྲོས་རྒྱ་མཚོ་ | Sagaramati (the sutra's addressee) | Day 56 | pending |
+| ཡི་དྭགས་ | hungry ghost | Day 56 | pending |
+| ཤཱ་རིའི་བུ་ | Shariputra | Day 57 | pending |
+| བདུད་ | Mara | Day 57 | pending |
+| ཉན་ཐོས་ཀྱི་ལམ་ | the path of the hearers | Day 57 | pending |
+| དགྲ་བཅོམ་པ་ | arhat | Day 57 | pending |

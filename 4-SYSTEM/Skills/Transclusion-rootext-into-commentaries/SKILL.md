@@ -1,24 +1,26 @@
 ---
 name: Transclusion-rootext-into-commentaries
-description: Transclude root-text verses into a Tibetan commentary and format the spacing around each transclusion. Runs a three-stage pipeline — (1) insert `![[root#^N-V]]` before each verse's first full inline quotation in the commentary, (2) remove the blank line between the preceding commentary line and the transclusion, (3) add a blank line before the sa-bcad (ས་བཅད) block that introduces the verse. TRIGGER whenever a user asks to transclude root verses into a commentary and/or to fix the blank-line spacing around verse transclusions (sa-bcad spacing), in any phrasing or language.
+description: Transclude root-text verses into a Tibetan commentary and format the placement/spacing around each transclusion. Runs a three-stage pipeline — (1) insert `![[root#^N-V]]` right before each verse's first full inline quotation in the commentary, (2) reposition that transclusion to sit right before the verse's own sa-bcad (ས་བཅད) block when the verse has one, otherwise leave it right before the verse, (3) normalize spacing to exactly one blank line before and after every transclusion. TRIGGER whenever a user asks to transclude root verses into a commentary and/or to fix the placement or blank-line spacing of verse transclusions relative to sa-bcad structure, in any phrasing or language.
 ---
 
 # Transclusion-rootext-into-commentaries
 
-This skill places root-text verse transclusions inside a Tibetan master's commentary and then formats the blank-line spacing around each transclusion so that the structural outline (ས་བཅད, *sa-bcad*) reads correctly in Obsidian.
+This skill places root-text verse transclusions inside a Tibetan master's commentary, positions each transclusion correctly relative to the sa-bcad (ས་བཅད) structure that introduces its verse, and normalizes the blank-line spacing around it so the outline reads correctly in Obsidian.
 
 It bundles three deterministic Python scripts that run as an ordered pipeline. Each stage has a dry-run mode (default) and an `--apply` mode. Always dry-run, review the report, then apply.
 
-Transclusions are navigation aids added to `1-SOURCES/` files — never interpretive content. Beyond inserting `![[...]]` lines and the blank lines around them, **no commentary text is ever added, removed, reordered, or rephrased.**
+Transclusions are navigation aids added to `1-SOURCES/` files — never interpretive content. Beyond inserting `![[...]]` lines, moving them, and managing the blank lines immediately around them, **no commentary text is ever added, removed, reordered, or rephrased.**
+
+> **Filename note.** Stage 2's script is still called `02_remove_blank_before_transclusions.py` and Stage 3's is still called `03_blank_before_sachad.py`, but their behavior has changed (see below) — the names are legacy and kept only so existing notes/commands referencing them still work. Rename them (`02_reposition_before_sachad.py`, `03_blank_around_transclusions.py`) next time you have shell access to the vault, if you want the filenames to match what they do now.
 
 ---
 
 ## When to use
 
 - "Transclude the root verses into commentary X" → run Stage 1.
-- "Remove the blank lines between the commentary and the verse transclusions" → run Stage 2.
-- "Add a blank line before the sa-bcad of each verse transclusion" → run Stage 3.
-- "Do the whole transclusion-and-spacing pass on commentary X" → run Stages 1 → 2 → 3 in order.
+- "Put the transclusion before the verse's sa-bcad, not after it" / "reposition the transclusions relative to sa-bcad" → run Stage 2.
+- "Add blank lines around the transclusions" / "space out the transclusions" → run Stage 3.
+- "Do the whole transclusion pass on commentary X" → run Stages 1 → 2 → 3 in order.
 
 Stages 2 and 3 assume the transclusions already exist (Stage 1 has run, or they were added previously).
 
@@ -40,7 +42,8 @@ Stages 2 and 3 assume the transclusions already exist (Stage 1 has run, or they 
 The commentary file is modified in place. The only changes are:
 
 1. inserted `![[link-base#^N-V]]` transclusion lines (Stage 1),
-2. removal / insertion of blank lines immediately around those transclusion lines (Stages 2–3).
+2. the transclusion line moved up to sit right before the verse's own sa-bcad block, when it has one (Stage 2),
+3. exactly one blank line inserted/normalized immediately before and immediately after each transclusion, wherever it now sits (Stage 3).
 
 No new files are created. No existing commentary text is changed.
 
@@ -50,12 +53,13 @@ No new files are created. No existing commentary text is changed.
 
 ### Stage 1 — Transclude verses (`scripts/01_transclude_verses.py`)
 
-For each root verse stanza, the script finds the **first full inline quotation** of that stanza in the commentary and inserts `![[link-base#^N-V]]` on the line immediately before the stanza's first line.
+For each root verse stanza, the script finds the **first full inline quotation** of that stanza in the commentary and inserts `![[link-base#^N-V]]` on the line immediately before the stanza's first line. This stage always places the transclusion right before the verse text itself — Stage 2 decides whether it should move.
 
 - **Full quotation preferred.** When a verse is quoted in more than one place, the occurrence where the most stanza lines match wins (ties → earliest). A 2-line illustrative citation inside an earlier verse's commentary loses to the full 4-line stanza in the verse's own section.
 - **Variant-tolerant.** Lines are matched with a character-overlap ratio (≥ 0.80) plus containment, so minor orthographic variants are absorbed (e.g. `བསྒོམ`/`སྒོམ`, `དེང`/`དེ`, `ཟློག`/`བཟློག`). Matching anchors on *any* stanza line, so a variant first line does not block the match.
 - **Passing single lines are not enough.** A one-line match is accepted only when followed by a citation closer (`ཞེས་པ་ནི།`, `ཅེས་པ་ནི།`, …) — i.e. a genuine short citation, never a line echoed mid-prose.
 - **Idempotent.** Verses already transcluded are skipped.
+- **No blank-line management.** Stage 1 no longer touches blank lines at all — that is entirely Stage 3's job now.
 
 Verses the script cannot place are listed under `UNPLACED`. These are usually **split quotations** (the commentator breaks the stanza across prose explanation) or large variants. Resolve each by hand: locate the first line of the verse's quotation and insert `![[link-base#^N-V]]` on the line immediately before it.
 
@@ -69,39 +73,42 @@ python3 scripts/01_transclude_verses.py \
 python3 scripts/01_transclude_verses.py ... --chapter 1 --apply
 ```
 
-### Stage 2 — Remove blank line before transclusions (`scripts/02_remove_blank_before_transclusions.py`)
+### Stage 2 — Reposition before the verse's own sa-bcad (`scripts/02_remove_blank_before_transclusions.py`)
 
-Removes the single blank line directly above each `![[...]]` line, so the layout becomes:
+Decides, per verse, whether the transclusion belongs right before that verse's own **sa-bcad (ས་བཅད) block** or right before the **verse** itself, and moves it there:
 
-```
-<commentary line / sa-bcad>
-![[link-base#^N-V]]
-<verse text>
-```
+- **If the verse has its own sa-bcad** — the line immediately above the transclusion is structural (an ordinal, a heading, an enumeration opener/member — see classification below) — the transclusion is moved up to sit immediately before the **first line of that sa-bcad block** (walking up through any enumeration so the block starts at a genuine opener/heading/ordinal, exactly as it used to only for blank-line placement).
+- **If the verse has no sa-bcad** — the line above is ordinary prose, a connector, a commentary conclusion, or a root-verse fragment — the transclusion is **left exactly where Stage 1 put it**, right before the verse.
 
-Only the one blank line immediately preceding a transclusion is removed; nothing else is touched.
+Only the `![[...]]` line itself moves. No blank lines are touched here (that's Stage 3), and no commentary text is added, removed, reordered, or rephrased.
 
 ```
-python3 scripts/02_remove_blank_before_transclusions.py --commentary "<comm>.md"          # dry run
+python3 scripts/02_remove_blank_before_transclusions.py --commentary "<comm>.md" --report   # dry run, shows every decision
 python3 scripts/02_remove_blank_before_transclusions.py --commentary "<comm>.md" --apply
 ```
 
-### Stage 3 — Blank line before the sa-bcad block (`scripts/03_blank_before_sachad.py`)
+### Stage 3 — Blank line before and after every transclusion (`scripts/03_blank_before_sachad.py`)
 
-Inserts one blank line before the **sa-bcad (ས་བཅད) block** that introduces each verse, per these rules:
-
-1. If the line immediately above the transclusion is a sa-bcad, add a blank line **before that sa-bcad**.
-2. If a sa-bcad **enumeration** (a contiguous run of openers + member lines) sits right before the immediate sa-bcad, add the blank before the **first line of that whole enumeration**, not before the immediate sa-bcad.
-3. If there is **no immediate sa-bcad** above the transclusion (the line above is ordinary commentary prose, a connector, a commentary conclusion, or a root-verse fragment), add **nothing**.
+Normalizes spacing so exactly **one blank line** sits immediately before and immediately after every transclusion, wherever Stage 2 left it:
 
 ```
-python3 scripts/03_blank_before_sachad.py --commentary "<comm>.md" --report   # show every decision
+<preceding line>
+
+![[link-base#^N-V]]
+
+<following line>
+```
+
+Multiple existing blank lines touching a transclusion are collapsed to one; a missing blank is inserted. A transclusion at the very start or end of the file gets no leading/trailing blank (nothing to separate it from). Nothing else in the file is touched.
+
+```
+python3 scripts/03_blank_before_sachad.py --commentary "<comm>.md"          # dry run
 python3 scripts/03_blank_before_sachad.py --commentary "<comm>.md" --apply
 ```
 
 ---
 
-## Sa-bcad classification (Stage 3 rules)
+## Sa-bcad classification (used by Stage 2 to decide placement)
 
 A line counts as **structural** (part of a sa-bcad block) when it is one of:
 
@@ -117,13 +124,13 @@ A line is **not** structural (and stops the upward walk) when it is:
 - a quotation or commentary conclusion (contains `ཞེས` / `ཅེས`, e.g. `…ཞེས་པའོ། །`, `…ཞེས་གསུངས།`);
 - a **root-verse fragment** (ends in `དང་། །` / `དང་ནི། །`) — these are verse lines, not sa-bcad.
 
-**Block start.** Walk up the contiguous run of structural lines above the transclusion; trim any leading member-only lines so the block begins at a genuine opener/heading/ordinal. The blank goes before that first line. If the run contains no opener/heading/ordinal (e.g. a lone `…པའོ། །` prose conclusion), it is not a real sa-bcad block → no blank.
+**Block start.** Walk up the contiguous run of structural lines above the transclusion; trim any leading member-only lines so the block begins at a genuine opener/heading/ordinal. The transclusion moves to right before that first line. If the run contains no opener/heading/ordinal (e.g. a lone `…པའོ། །` prose conclusion), it is not a real sa-bcad block → the transclusion is not moved.
 
 ---
 
 ## Worked example (verse ^1-4)
 
-Before Stage 3 (the block reads bottom-up to the transclusion):
+After Stage 1 (transclusion right before the verse, blank lines not yet normalized):
 
 ```
 … ཡོད་པར་འགྱུར་རོ་ཞེས་པའོ། །              ← prose conclusion (stops the walk)
@@ -136,30 +143,44 @@ Before Stage 3 (the block reads bottom-up to the transclusion):
 ![[bo-བློ་ལྡན་ཤེས་རབ།#^1-4]]
 ```
 
-After Stage 3 — the blank goes before the **first line of the enumeration**, not before `དང་པོ་ནི།`:
+After Stage 2 — the transclusion **moves up** to right before the **first line of the sa-bcad block** (not just before the immediate `དང་པོ་ནི།`):
+
+```
+… ཡོད་པར་འགྱུར་རོ་ཞེས་པའོ། །
+![[bo-བློ་ལྡན་ཤེས་རབ།#^1-4]]
+གཉིས་པ་བརྩམ་བྱ་…དངོས་བཤད་པ་ལ།
+… (enumeration unchanged) …
+དང་པོ་ནི།
+<verse text follows>
+```
+
+After Stage 3 — one blank line is added on each side of the transclusion:
 
 ```
 … ཡོད་པར་འགྱུར་རོ་ཞེས་པའོ། །
 
+![[bo-བློ་ལྡན་ཤེས་རབ།#^1-4]]
+
 གཉིས་པ་བརྩམ་བྱ་…དངོས་བཤད་པ་ལ།
 … (enumeration unchanged) …
 དང་པོ་ནི།
-![[bo-བློ་ལྡན་ཤེས་རབ།#^1-4]]
+<verse text follows>
 ```
 
-Contrast: where the line above the transclusion is a connector (`དེའི་འཐད་པར།`) or commentary prose (`…ཞེས་གསུངས།`), **no** blank is added.
+Contrast: where the line above the transclusion is a connector (`དེའི་འཐད་པར།`) or commentary prose (`…ཞེས་གསུངས།`), Stage 2 leaves the transclusion right before the verse, and Stage 3 still wraps it with one blank line on each side.
 
 ---
 
 ## Rules
 
-1. **Read-only except for navigation links and their spacing.** `1-SOURCES/` files may receive block IDs, frontmatter, internal navigation links (transclusions qualify), and `[Ed:…]` notes only. This skill inserts/removes `![[…]]` lines and the blank lines immediately around them — nothing else.
+1. **Read-only except for navigation links, their position, and their spacing.** `1-SOURCES/` files may receive block IDs, frontmatter, internal navigation links (transclusions qualify), and `[Ed:…]` notes only. This skill inserts `![[…]]` lines, moves them relative to sa-bcad structure, and manages the blank lines immediately around them — nothing else.
 2. **Short link form.** Transclusions use the short Obsidian form `![[link-base#^N-V]]` (matching the precedent in the target commentary). If a vault requires full vault-relative paths, pass that full path as `--link-base`.
 3. **Never duplicate a transclusion.** Stage 1 skips any verse whose `^N-V` is already transcluded.
-4. **Never modify existing text.** Every stage is insertion/removal of `![[…]]` lines and surrounding blank lines only.
-5. **Always dry-run first.** Run each stage without `--apply`, read the report, then apply. For Stage 1, hand-resolve every `UNPLACED` verse before moving on.
+4. **Never modify existing commentary text.** Every stage only inserts, moves, or removes `![[…]]` lines and the blank lines immediately around them.
+5. **Always dry-run first.** Run each stage without `--apply` (`--report` for Stage 2, plain dry-run for Stages 1 and 3), read the report, then apply. For Stage 1, hand-resolve every `UNPLACED` verse before moving on.
 6. **Run the stages in order** (1 → 2 → 3) for a fresh commentary. Stages 2 and 3 may be run independently on a commentary that already has transclusions.
 7. **Lenient read, clean write.** The scripts read the commentary leniently (so a stray truncated final byte does not abort a run) and re-validate the UTF-8 decode after writing. If a prior tool clipped the final colophon byte, repair the last line from a known-good backup before applying.
+8. **Idempotent end-to-end.** Running Stages 2 and 3 again on an already-processed commentary makes no further changes.
 
 ---
 
@@ -167,9 +188,9 @@ Contrast: where the line above the transclusion is a connector (`དེའི་
 
 1. Confirm `root` is a `1-SOURCES/` root/translation file with `^chapter-verse` block IDs, and `commentary` is a `1-SOURCES/` Tibetan commentary.
 2. **Stage 1** — dry-run per chapter; review placements and `UNPLACED`; apply; hand-place any split/variant verses. After all chapters, confirm: transclusion count = unique verse-id count = root verse count.
-3. **Stage 2** — dry-run; apply. Confirm no transclusion is preceded by a blank line.
-4. **Stage 3** — `--report`; spot-check the sa-bcad decisions (especially multi-line enumeration blocks); apply.
-5. **Verify integrity** — compare non-blank lines before/after each apply; they must be byte-identical except for the inserted `![[…]]` lines. Confirm the file still decodes as UTF-8 and ends correctly.
+3. **Stage 2** — `--report`; spot-check the sa-bcad decisions (especially multi-line enumeration blocks) — confirm each "moves before sa-bcad" verse genuinely has its own sa-bcad, and each "stays before verse" verse genuinely doesn't; apply.
+4. **Stage 3** — dry-run; apply. Confirm every transclusion now has exactly one blank line immediately before and after it, and nothing else changed.
+5. **Verify integrity** — compare non-blank lines before/after each apply; they must be byte-identical except for the transclusion lines themselves (present, possibly moved) and the blank lines directly touching them. Confirm the file still decodes as UTF-8 and ends correctly.
 
 ---
 
@@ -177,8 +198,8 @@ Contrast: where the line above the transclusion is a connector (`དེའི་
 
 - [ ] Root confirmed to have `^N-V` block IDs; commentary confirmed in `1-SOURCES/`
 - [ ] Stage 1: every verse placed or hand-resolved; transclusions = unique ids = root verse count; no duplicates
-- [ ] Stage 2: no transclusion preceded by a blank line
-- [ ] Stage 3: blank precedes the first line of each sa-bcad block; no blank where the line above is prose/connector/conclusion; no prose swept into a block
+- [ ] Stage 2: every transclusion sits right before its verse's own sa-bcad block when one exists, and right before the verse otherwise; no sa-bcad block wrongly identified or missed
+- [ ] Stage 3: exactly one blank line immediately before and after every transclusion; no blank lines added or removed anywhere else
 - [ ] Every inserted transclusion uses the agreed link form
-- [ ] No commentary text deleted, reordered, or rephrased (non-blank lines byte-identical)
+- [ ] No commentary text deleted, reordered, or rephrased (non-blank, non-transclusion lines byte-identical)
 - [ ] File decodes as UTF-8 and ends with the intact colophon

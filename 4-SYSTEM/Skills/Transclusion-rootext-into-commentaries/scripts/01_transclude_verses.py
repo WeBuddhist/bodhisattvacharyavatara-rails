@@ -11,6 +11,15 @@ Matching tolerates minor orthographic variants via a character-overlap ratio.
 Also handles commentaries that quote the full stanza on a single bold line
 (**line1 line2 line3 line4**).
 
+This stage always places the transclusion right before the verse's own quoted
+text. Whether it then stays there or gets moved up to sit before the verse's
+own sa-bcad (ས་བཅད) heading is decided by Stage 2
+(02_remove_blank_before_transclusions.py, which now repositions rather than
+just trimming blanks - see its docstring). Blank-line spacing around the
+transclusion, wherever it ends up, is handled entirely by Stage 3
+(03_blank_before_sachad.py, which now normalizes spacing on both sides). This
+stage itself does not add or remove any blank lines.
+
 Usage:
   python3 01_transclude_verses.py \\
       --root  1-SOURCES/Translations/<root>.md \\
@@ -191,12 +200,7 @@ def main():
     if a.apply and insertions:
         out = comm_raw[:]
         for li, vid in sorted(insertions, reverse=True):
-            ins = []
-            prev = out[li-1] if li > 0 else ''
-            if prev.strip() != '':
-                ins.append('')
-            ins.append("![[%s#^%s]]" % (a.link_base, vid))
-            out[li:li] = ins
+            out[li:li] = ["![[%s#^%s]]" % (a.link_base, vid)]
         open(a.commentary, 'w', encoding='utf-8').write('\n'.join(out))
         open(a.commentary, encoding='utf-8').read()  # validate decode
         print("APPLIED %d insertions" % len(insertions))

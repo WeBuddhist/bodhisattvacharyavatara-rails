@@ -1,6 +1,6 @@
 ---
 name: bca-heading-level-tagger
-description: Three-step pipeline for Bodhicaryavatara/BCA commentary and root-text files in this Obsidian vault. Step 1 converts bare numbered outline headings (ས་བཅད-style numbering like 1, 1.1, 1.1.1.2.2.4) into proper Obsidian markdown heading levels and nested bullet lists (with the nested-bullet-list headings, depth 6+, rendered bold), so the outline becomes foldable. Step 2 (re)numbers every content segment's Segment ID (^0-1, ^1-1, ...) -- this skill's term for the Obsidian block reference stamped on each segment -- restarting the count at ^N-1 for each chapter, so every paragraph and verse stanza is individually linkable/transcludable. Step 3 strips the now-redundant ས་བཅད numbers back off the sub-headings (### and deeper, and the outline bullets), leaving the chapter-level ## numbers in place, since heading depth and bullet indentation already carry that structure foldably. Use this whenever the user asks to "tag headings," "apply heading levels," "convert the numbering to headings," "make the outline foldable," "update segment ids," "renumber segment ids," "renumber block references," "remove/strip the numbers from headings," or points to a segmented commentary file (e.g. anything under 0-INBOX matching *_bo_segmented*, *_segmented*, or similar ས་བཅད outline files) and wants it prepared for use in the vault. Also trigger if the user mentions Obsidian fold/unfold arrows, or ^chapter-N segment ids / block references, in connection with one of these Tibetan commentary files.
+description: Three-step pipeline for Bodhicaryavatara/BCA commentary and root-text files in this Obsidian vault. Step 1 converts bare numbered outline headings (ས་བཅད-style numbering like 1, 1.1, 1.1.1.2.2.4) into proper Obsidian markdown heading levels and nested bullet lists (with the nested-bullet-list headings, depth 6+, rendered bold), so the outline becomes foldable. Step 2 (re)numbers every content segment's Obsidian Block ID (^0-1, ^1-1, ...) -- the vault-wide term for the Obsidian block reference stamped on each segment -- restarting the count at ^N-1 for each chapter, so every paragraph and verse stanza is individually linkable/transcludable. Step 3 strips the now-redundant ས་བཅད numbers back off the sub-headings (### and deeper, and the outline bullets), leaving the chapter-level ## numbers in place, since heading depth and bullet indentation already carry that structure foldably. Use this whenever the user asks to "tag headings," "apply heading levels," "convert the numbering to headings," "make the outline foldable," "update obsidian block ids," "renumber obsidian block ids," "renumber block references," "remove/strip the numbers from headings," or points to a segmented commentary file (e.g. anything under 0-INBOX matching *_bo_segmented*, *_segmented*, or similar ས་བཅད outline files) and wants it prepared for use in the vault. Also trigger if the user mentions Obsidian fold/unfold arrows, or ^chapter-N obsidian block ids / block references, in connection with one of these Tibetan commentary files.
 ---
 
 # BCA Heading-Level Tagger
@@ -10,14 +10,14 @@ description: Three-step pipeline for Bodhicaryavatara/BCA commentary and root-te
 Files in this vault's Bodhicaryavatara (སྤྱོད་འཇུག) commentary set go through three passes, always in this order:
 
 1. **Tag headings** (`scripts/tag_headings.py`) -- rewrites the bare ས་བཅད outline numbering (`1.1`, `1.1.1.2.2.4`, ...) into real markdown headings and nested bullet lists, so the outline folds/unfolds natively in Obsidian. The nested-bullet-list headings (depth 6+, where markdown runs out of heading levels) are also rendered **bold**, since a plain bullet has no visual weight of its own the way a real heading does.
-2. **Update Segment IDs** (`scripts/update_segment_ids.py`) -- walks the now-tagged file and stamps every content segment (paragraph or verse stanza) with a Segment ID `^N-M` (an Obsidian block reference, in this skill's terminology), where `N` is the chapter number and `M` restarts at 1 for each chapter. This makes every segment individually linkable and transcludable.
-3. **Strip heading numbers** (`scripts/strip_heading_numbers.py`) -- once folding (step 1) and Segment IDs (step 2) no longer need the visible outline numbers, this strips the leading number off every sub-heading (`###` through `######`, and the outline bullets), leaving just the heading marker and the Tibetan text. Top-level `## N. ...` chapter headings keep their number (see step 3's own section below for why).
+2. **Update Obsidian Block IDs** (`scripts/update_segment_ids.py`) -- walks the now-tagged file and stamps every content segment (paragraph or verse stanza) with an Obsidian Block ID `^N-M`, where `N` is the chapter number and `M` restarts at 1 for each chapter. This makes every segment individually linkable and transcludable.
+3. **Strip heading numbers** (`scripts/strip_heading_numbers.py`) -- once folding (step 1) and Obsidian Block IDs (step 2) no longer need the visible outline numbers, this strips the leading number off every sub-heading (`###` through `######`, and the outline bullets), leaving just the heading marker and the Tibetan text. Top-level `## N. ...` chapter headings keep their number (see step 3's own section below for why).
 
 The order is load-bearing, not just a convention:
 
 - Step 2 depends on step 1's output -- it finds chapter boundaries and skips non-content lines by looking for markdown headings (`##`...`######`) and the depth-6+ bullet lists step 1 produces. Running it on an untagged file would wrongly number bare outline lines as content segments.
-- Step 3 depends on step 2 having already finished -- once it strips the numbers off sub-headings, that information is gone from the file (the Segment IDs elsewhere already captured what mattered). Running step 3 before step 2 wouldn't corrupt anything, but it would just be wasted work since step 2 doesn't need sub-heading numbers anyway; running step 3 before step 1 would do nothing (the lines aren't heading-shaped yet).
-- Running step 1 again after step 3 is harmless but pointless (nothing left to tag). Keep the order strict: tag headings -> update Segment IDs -> strip heading numbers.
+- Step 3 depends on step 2 having already finished -- once it strips the numbers off sub-headings, that information is gone from the file (the Obsidian Block IDs elsewhere already captured what mattered). Running step 3 before step 2 wouldn't corrupt anything, but it would just be wasted work since step 2 doesn't need sub-heading numbers anyway; running step 3 before step 1 would do nothing (the lines aren't heading-shaped yet).
+- Running step 1 again after step 3 is harmless but pointless (nothing left to tag). Keep the order strict: tag headings -> update Obsidian Block IDs -> strip heading numbers.
 
 ### Step 1 details: heading tagging
 
@@ -69,13 +69,13 @@ This is intentionally conservative — requiring no space before, and 3+digit gr
 
 `scripts/tag_headings.py` extracts number tokens with a *maximal-match* regex (`\d+(?:\.\d+)*`) rather than searching for the glued-on suffix directly. That matters: naively searching for "3+ digit groups preceded by non-whitespace" would also match inside a line's own legitimate leading number — e.g. it could mistake `2.1.4` inside `1.2.1.4 ...` at the very start of a line for a glued-on heading, since `.` right before `2.1.4` is non-whitespace. Matching the full token first and then checking whether *that whole token* starts at position 0 avoids this trap. Keep this in mind if you ever touch the script's detection logic — it's the kind of regex bug that passes on simple examples and then corrupts real files.
 
-## Step 2: What "segment" means for Segment-ID numbering
+## Step 2: What "segment" means for Obsidian Block ID numbering
 
-`scripts/update_segment_ids.py` stamps a Segment ID (an Obsidian block reference) on every **content segment** in the file, where a segment is a maximal run of non-blank lines that is not heading-like, bounded by blank lines (per this vault's segmentation convention: paragraphs and stanzas are separated by blank lines, and the Segment ID goes on the last line of the segment):
+`scripts/update_segment_ids.py` stamps an Obsidian Block ID on every **content segment** in the file, where a segment is a maximal run of non-blank lines that is not heading-like, bounded by blank lines (per this vault's segmentation convention: paragraphs and stanzas are separated by blank lines, and the Obsidian Block ID goes on the last line of the segment):
 
-- An ordinary prose paragraph -> one Segment ID.
-- A multi-line verse/stanza block (consecutive `>` blockquote lines) -> one Segment ID for the whole stanza, on its last line.
-- A short lead-in line glued directly onto a following stanza with **no** blank line between them (e.g. `དང་པོ་ནི།` immediately followed by a `>` quote) -> still one segment, one Segment ID together, because nothing blank separates them — don't split these apart by hand.
+- An ordinary prose paragraph -> one Obsidian Block ID.
+- A multi-line verse/stanza block (consecutive `>` blockquote lines) -> one Obsidian Block ID for the whole stanza, on its last line.
+- A short lead-in line glued directly onto a following stanza with **no** blank line between them (e.g. `དང་པོ་ནི།` immediately followed by a `>` quote) -> still one segment, one Obsidian Block ID together, because nothing blank separates them — don't split these apart by hand.
 
 Headings are never numbered and never counted as segments: markdown headings (`#` through `######`) and the depth-6+ bullet pseudo-headings step 1 produces (`* **1.2.2.1.1.1 ...**`, bolded, indented 4 spaces per level beyond depth 6). This is also why step 2 must run after step 1 — before tagging, those sub-points are bare numbered lines indistinguishable from ordinary content, so step 2 would wrongly number them as segments.
 
@@ -87,7 +87,7 @@ One more quirk this script handles: sometimes a content line runs directly into 
 
 A top-level chapter heading looks like `## 0. ...`, `## 1. ...`, ... (exactly what step 1 produces for 1-digit-group numbering). The captured number becomes the chapter label verbatim, so chapter 0's segments are `^0-1, ^0-2, ...`, chapter 1's are `^1-1, ^1-2, ...`, and so on — the counter restarts at every `## N.` heading. Sub-headings (`###` and deeper, and the outline bullets) never reset the counter, only a top-level chapter heading does.
 
-Pre-existing Segment IDs already sitting on chapter/sub-heading lines (like `^I-0`, `^1-0`) are left completely untouched — step 2 only ever touches content-run segments. If a segment's last line already carries some Segment ID (stale, partial, or from a previous run), the script strips it and writes the freshly computed one in its place, so **this script is safe and idempotent to re-run** on a file that's already been numbered — re-running it on an already-correct file produces a byte-identical result.
+Pre-existing Obsidian Block IDs already sitting on chapter/sub-heading lines (like `^I-0`, `^1-0`) are left completely untouched — step 2 only ever touches content-run segments. If a segment's last line already carries some Obsidian Block ID (stale, partial, or from a previous run), the script strips it and writes the freshly computed one in its place, so **this script is safe and idempotent to re-run** on a file that's already been numbered — re-running it on an already-correct file produces a byte-identical result.
 
 ## Step 3: What gets stripped, and why chapter numbers stay
 
@@ -102,13 +102,13 @@ Older files whose bullets were hand-tagged (or tagged before bolding was added) 
 
 Top-level `## N. ...` chapter headings are **left alone on purpose** -- their number is the only thing step 2 uses to auto-detect chapter boundaries. If this script also stripped it, the file would lose the anchor a future re-run of `update_segment_ids.py` needs to know which chapter it's in, and there'd be no way to recover that short of restoring from a backup. Chapter numbers also double as a human-readable label ("Chapter 6") that's worth keeping regardless. If a user specifically asks to remove chapter numbers too, treat that as a one-off manual edit outside this skill's normal pipeline, and warn them that step 2 won't be auto-re-runnable on that file afterward.
 
-Also left untouched: any Segment ID (`^1-0`, `^I-0`, `^6-42`, ...) sitting on a heading line, and all ordinary content -- this script only ever matches lines that are already heading-shaped, so it never touches prose.
+Also left untouched: any Obsidian Block ID (`^1-0`, `^I-0`, `^6-42`, ...) sitting on a heading line, and all ordinary content -- this script only ever matches lines that are already heading-shaped, so it never touches prose.
 
 Like step 2, this script is idempotent: running it again on a file it's already processed finds nothing left to strip and reports zero changes.
 
 ## How to run it
 
-Run all three scripts in order — heading tagging, then Segment-ID numbering, then heading-number stripping — against the same staged file:
+Run all three scripts in order — heading tagging, then Obsidian Block ID numbering, then heading-number stripping — against the same staged file:
 
 1. If the target file lives on the user's Obsidian vault (reached via the device bridge / `mcp__remote-devices__*` tools), stage it first with `device_stage_files` so it's readable in this session.
 2. **Step 1 — tag headings:**
@@ -116,7 +116,7 @@ Run all three scripts in order — heading tagging, then Segment-ID numbering, t
    python3 scripts/tag_headings.py "<path-to-staged-file>"
    ```
    Check the stdout for any "Repaired N concatenated-heading line(s)" report and glance at those specific lines — they involved splitting text, so they're worth a quick look even though the detection is conservative. Spot-check a stretch of the output (`Read` a slice of it) to confirm headings landed at the depth you'd expect, especially around any 6+ digit sections, and confirm the depth-6+ bullet lines came out **bolded** (`* **1.2.2.1.1.1 ...**`).
-3. **Step 2 — update Segment IDs**, run on the same file (now heading-tagged) right after:
+3. **Step 2 — update Obsidian Block IDs**, run on the same file (now heading-tagged) right after:
    ```bash
    python3 scripts/update_segment_ids.py "<path-to-staged-file>"
    ```
@@ -132,8 +132,8 @@ Run all three scripts in order — heading tagging, then Segment-ID numbering, t
 
 ## Notes on this file family
 
-These commentary files are large (multi-thousand-line) Tibetan text with embedded verse quotes (`>` blockquote lines) and Segment IDs (`^1-0`, `^I-0`, etc. — Obsidian block references, in this skill's terminology) mixed in with the outline numbering — those are never mistaken for headings since they don't start a line with digits followed by whitespace, and (once step 1 has run) never mistaken for content segments either, since they sit on heading lines. If a future file in this set uses a different numbering convention (e.g. letters, roman numerals, or a different delimiter than `.`), or a different chapter-heading format than `## N. ...`, ask the user how they'd like those handled rather than guessing — all three scripts are intentionally narrow to the conventions used throughout this vault's BCA commentary segmentation.
+These commentary files are large (multi-thousand-line) Tibetan text with embedded verse quotes (`>` blockquote lines) and Obsidian Block IDs (`^1-0`, `^I-0`, etc.) mixed in with the outline numbering — those are never mistaken for headings since they don't start a line with digits followed by whitespace, and (once step 1 has run) never mistaken for content segments either, since they sit on heading lines. If a future file in this set uses a different numbering convention (e.g. letters, roman numerals, or a different delimiter than `.`), or a different chapter-heading format than `## N. ...`, ask the user how they'd like those handled rather than guessing — all three scripts are intentionally narrow to the conventions used throughout this vault's BCA commentary segmentation.
 
 ## Terminology note
 
-This skill calls the `^N-M` anchors **Segment IDs** rather than "block IDs" or "block references" — Obsidian's own name for the underlying feature (the `^id` syntax) is "block reference," and that's still what's happening under the hood, but this skill's own vocabulary for it is Segment ID. If updating this skill or its scripts, keep using "Segment ID" in new prose and messages rather than reverting to "block ID."
+This skill calls the `^N-M` anchors **Obsidian Block IDs**, matching the vault-wide standard set in `1-SOURCES/About Sources.md` §5. Earlier versions of this skill called them "Segment IDs" as skill-local vocabulary; that usage has been standardized away in favor of the vault-wide term. The script file `scripts/update_segment_ids.py` keeps its original name for now (renaming it would require updating every reference to it), but its docstrings, comments, and messages have been updated to say "Obsidian Block ID."

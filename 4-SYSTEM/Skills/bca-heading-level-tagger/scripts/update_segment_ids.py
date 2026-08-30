@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Renumber Segment IDs (^N-M) -- this skill's term for the Obsidian block
-references stamped on every content segment of a Bodhicaryavatara-style
-commentary file -- restarting the counter at ^N-1 for each chapter.
+Renumber Obsidian Block IDs (^N-M) -- the block references stamped on every
+content segment of a Bodhicaryavatara-style commentary file -- restarting
+the counter at ^N-1 for each chapter.
 
 Run this AFTER scripts/tag_headings.py has converted the file's bare
 ས་བཅད outline numbering into real markdown headings (##...######) and
@@ -15,12 +15,12 @@ A "segment" is a maximal run of non-blank lines that are NOT heading-like
 (see below), bounded by blank lines. This includes:
   - ordinary prose paragraphs
   - multi-line verse/stanza blocks (`>` blockquote lines) -- a whole stanza
-    gets exactly ONE Segment ID, appended to its last line, same as any
+    gets exactly ONE Obsidian Block ID, appended to its last line, same as any
     paragraph
   - a short lead-in line glued directly to a following stanza with no
     blank line between them (e.g. "དང་པོ་ནི།" immediately followed by a
     `>` quote) -- since nothing blank separates them, they are one segment
-    and get one Segment ID together, per this vault's segmentation
+    and get one Obsidian Block ID together, per this vault's segmentation
     convention
 
 Headings never get numbered or counted as segments:
@@ -45,13 +45,13 @@ A top-level chapter heading looks like `## 0. ...`, `## 1. ...`, ...
 (exactly what tag_headings.py produces for 1-digit-group numbering). The
 captured number is used verbatim as the chapter label, so chapter 0 gets
 `^0-1, ^0-2, ...`, chapter 1 gets `^1-1, ^1-2, ...`, and so on. Existing
-Segment IDs already sitting on chapter/sub-heading lines (like `^I-0`,
+Obsidian Block IDs already sitting on chapter/sub-heading lines (like `^I-0`,
 `^1-0`) are never touched -- only content-run segments are numbered.
 
-Any pre-existing Segment ID at the end of a segment's last line is
+Any pre-existing Obsidian Block ID at the end of a segment's last line is
 stripped and replaced with the freshly computed one, so this script is
 safe to re-run on a file that already has (possibly stale or partial)
-Segment IDs.
+Obsidian Block IDs.
 
 Usage:
     python3 update_segment_ids.py <path-to-tagged-markdown-file>

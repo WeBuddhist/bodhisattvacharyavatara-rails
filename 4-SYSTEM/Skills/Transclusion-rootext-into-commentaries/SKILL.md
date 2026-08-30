@@ -33,7 +33,9 @@ Stages 2 and 3 assume the transclusions already exist (Stage 1 has run, or they 
 | `root` | Full vault-relative path to the root text / translation to transclude from. Must use `verse_id_format: chapter-verse` block IDs (`^N-V`). | `1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md` |
 | `commentary` | Full vault-relative path to the Tibetan commentary to modify in place. | `1-SOURCES/Commentaries/Raw/BCAC20_NKW_bo_segmented.md` |
 | `link-base` | The base of the transclusion link, exactly as it should appear inside `![[ … #^N-V]]`. The skill uses the short Obsidian link form. | `bo-བློ་ལྡན་ཤེས་རབ།` |
-| `chapter` | Optional. A single chapter number to scope the run, or `all` (default). | `1`, `all` |
+| `chapter` | Optional. A single chapter label to scope the run, or `all` (default). Accepts a plain chapter number or a Roman-numeral front-matter label (see below). | `1`, `I`, `all` |
+
+**Chapter labels aren't always numeric.** Some root files in this vault give the pre-chapter-1 front matter (Sanskrit title line, Tibetan title line, opening homage) Roman-numeral block IDs — `^I-1`, `^I-2`, `^I-3` — instead of the generic `^0-N` convention. All three scripts recognize `^[IVXLCDM]+-N` alongside `^N-V`, and `--chapter` accepts either form (`--chapter I` scopes to the Roman-numeral front matter). Roman-numeral chapters sort before chapter 1 in reports.
 
 ---
 
@@ -58,6 +60,7 @@ For each root verse stanza, the script finds the **first full inline quotation**
 - **Full quotation preferred.** When a verse is quoted in more than one place, the occurrence where the most stanza lines match wins (ties → earliest). A 2-line illustrative citation inside an earlier verse's commentary loses to the full 4-line stanza in the verse's own section.
 - **Variant-tolerant.** Lines are matched with a character-overlap ratio (≥ 0.80) plus containment, so minor orthographic variants are absorbed (e.g. `བསྒོམ`/`སྒོམ`, `དེང`/`དེ`, `ཟློག`/`བཟློག`). Matching anchors on *any* stanza line, so a variant first line does not block the match.
 - **Passing single lines are not enough.** A one-line match is accepted only when followed by a citation closer (`ཞེས་པ་ནི།`, `ཅེས་པ་ནི།`, …) — i.e. a genuine short citation, never a line echoed mid-prose.
+- **Single-line root segments (titles, the opening homage, colophon lines) get a second look.** The main matcher only searches for a match starting at the beginning of a commentary line, which is right for a block-quoted verse stanza but misses a short root line that a commentary paraphrases mid-sentence. For any root segment that is only one line long, a fallback pass additionally scans every commentary line for that text appearing *anywhere* inside it (exact equality or full containment). This is what lets a segment like the Sanskrit/Tibetan title lines or the opening homage (`^I-1`–`^I-3` in this vault's numbering) get placed even though no commentary quotes them on their own dedicated line. It still won't force a match where the commentary only paraphrases the idea without the actual words — that stays `UNPLACED` for a human to place, same as always.
 - **Idempotent.** Verses already transcluded are skipped.
 - **No blank-line management.** Stage 1 no longer touches blank lines at all — that is entirely Stage 3's job now.
 
@@ -112,7 +115,7 @@ python3 scripts/03_blank_before_sachad.py --commentary "<comm>.md" --apply
 
 A line counts as **structural** (part of a sa-bcad block) when it is one of:
 
-- an **ordinal-led** line: starts with `དང་པོ`, `གཉིས་པ`, `གསུམ་པ`, … `བཅུ་པ`;
+- an **ordinal-led** line: starts with `དང་པོ`, `གཉིས་པ`, `གསུམ་པ`, … `བཅུ་པ` — **checked first, and this alone is enough regardless of what else the same block contains** (see note below);
 - a **heading**: ends in `ནི།` / `ནི། །` (a "this is X" announcement), short (≤ 60 collapsed syllables);
 - an **enumeration opener**: ends in `ལ།`, `ལ་ཡང་།`, `ལས།`, `ཏེ།`, `སྟེ།`, short;
 - an **enumeration member / closer**: ends in `དང་།` / `དང༌།`, or a closing member `…པའོ། །` / `…བའོ། །` / `…ནོ། །` / `…ལོ། །`, or a count word (`…གསུམ།`, `…གཉིས།`, …), short.
@@ -121,10 +124,14 @@ A line is **not** structural (and stops the upward walk) when it is:
 
 - ordinary commentary prose (long sentences);
 - a connector: `དེའི་རྗེས་སུ།`, `དེའི་འཐད་པར།`, `དེའི་འཐད་པ་ནི།`;
-- a quotation or commentary conclusion (contains `ཞེས` / `ཅེས`, e.g. `…ཞེས་པའོ། །`, `…ཞེས་གསུངས།`);
+- a quotation or commentary conclusion (contains `ཞེས` / `ཅེས`, e.g. `…ཞེས་པའོ། །`, `…ཞེས་གསུངས།`) — **unless the line is ordinal-led (see above)**;
 - a **root-verse fragment** (ends in `དང་། །` / `དང་ནི། །`) — these are verse lines, not sa-bcad.
 
+**Why the ordinal check runs first.** Some commentaries fold a sa-bcad announcement and its own extended explanation into a single block instead of keeping them as separate lines — e.g. `བཞི་པ་སྤྲོ་བ་བསྐྱེད་པ་ནི། <several sentences unpacking the point> ཞེས་པའི་དོན་ནོ། །` all as one paragraph. Classifying by the line's *ending* alone would see the trailing `ཞེས་པའི་དོན་ནོ` and call the whole block a prose conclusion, missing the `བཞི་པ་...ནི།` sa-bcad announcement sitting at its front. Checking `starts_ord` before the quotation/conclusion test means an ordinal-led block is always recognized as its verse's own sa-bcad, no matter how much explanation follows in the same paragraph.
+
 **Block start.** Walk up the contiguous run of structural lines above the transclusion; trim any leading member-only lines so the block begins at a genuine opener/heading/ordinal. The transclusion moves to right before that first line. If the run contains no opener/heading/ordinal (e.g. a lone `…པའོ། །` prose conclusion), it is not a real sa-bcad block → the transclusion is not moved.
+
+**"Immediately above" skips blank lines, not just literal adjacency.** This vault's segmented commentaries put every clause on its own paragraph, separated by a blank line - so the walk looks at the nearest *non-blank* line above the transclusion (and the nearest non-blank line above that, and so on), not literally `line[i-1]`. Reading it as strict line-adjacency would see a blank line everywhere and never find a sa-bcad at all. A markdown heading line (`##`–`########`, ending in its own block ID like `^1-2-1-0`) is never itself treated as structural — it always reads as `none` and stops the walk - only a plain-prose sa-bcad *announcement* sentence counts, even when it sits right below a heading that restates the same point.
 
 ---
 
@@ -177,7 +184,7 @@ Contrast: where the line above the transclusion is a connector (`དེའི་
 2. **Short link form.** Transclusions use the short Obsidian form `![[link-base#^N-V]]` (matching the precedent in the target commentary). If a vault requires full vault-relative paths, pass that full path as `--link-base`.
 3. **Never duplicate a transclusion.** Stage 1 skips any verse whose `^N-V` is already transcluded.
 4. **Never modify existing commentary text.** Every stage only inserts, moves, or removes `![[…]]` lines and the blank lines immediately around them.
-5. **Always dry-run first.** Run each stage without `--apply` (`--report` for Stage 2, plain dry-run for Stages 1 and 3), read the report, then apply. For Stage 1, hand-resolve every `UNPLACED` verse before moving on.
+5. **Always dry-run first.** Run each stage without `--apply` (`--report` for Stage 2, plain dry-run for Stages 1 and 3), read the report, then apply. For Stage 1, hand-resolve every `UNPLACED` verse before moving on. A single-line root segment (title lines, the opening homage, a colophon line) that stays `UNPLACED` after the fallback pass usually means the commentary only paraphrases it rather than using its actual wording - place it by hand right before the passage that discusses it (prefer the line that most directly restates or quotes it; if that passage opens with its own heading, placing the transclusion right before the heading is also reasonable for a front-matter segment with no verse-style prose exposition of its own).
 6. **Run the stages in order** (1 → 2 → 3) for a fresh commentary. Stages 2 and 3 may be run independently on a commentary that already has transclusions.
 7. **Lenient read, clean write.** The scripts read the commentary leniently (so a stray truncated final byte does not abort a run) and re-validate the UTF-8 decode after writing. If a prior tool clipped the final colophon byte, repair the last line from a known-good backup before applying.
 8. **Idempotent end-to-end.** Running Stages 2 and 3 again on an already-processed commentary makes no further changes.
@@ -196,8 +203,8 @@ Contrast: where the line above the transclusion is a connector (`དེའི་
 
 ## Completion check
 
-- [ ] Root confirmed to have `^N-V` block IDs; commentary confirmed in `1-SOURCES/`
-- [ ] Stage 1: every verse placed or hand-resolved; transclusions = unique ids = root verse count; no duplicates
+- [ ] Root confirmed to have `^N-V` (or `^[Roman numeral]-V` front-matter) block IDs; commentary confirmed in `1-SOURCES/`
+- [ ] Stage 1: every verse placed (by the matcher or, for a single-line title/homage/colophon segment, by hand) or explicitly left `UNPLACED` with a reason; transclusions = unique ids = root verse count; no duplicates
 - [ ] Stage 2: every transclusion sits right before its verse's own sa-bcad block when one exists, and right before the verse otherwise; no sa-bcad block wrongly identified or missed
 - [ ] Stage 3: exactly one blank line immediately before and after every transclusion; no blank lines added or removed anywhere else
 - [ ] Every inserted transclusion uses the agreed link form

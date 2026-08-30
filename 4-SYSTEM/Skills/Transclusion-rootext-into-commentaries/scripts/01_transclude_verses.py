@@ -136,23 +136,68 @@ def find_best(stanza, comm_norm, taken, cand_idx):
     if best is None: return None, 0
     return best[1], best[2]
 
+BLOCK_ID_RE = re.compile(r'\^([IVXLCDM]+|\d+)-(\d+)\s*$')
+BLOCK_ID_STRIP_RE = re.compile(r'\^(?:[IVXLCDM]+|\d+)-\d+\s*$')
+
+def roman_to_int(r):
+    vals = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
+    total = 0; prev = 0
+    for ch in reversed(r):
+        v = vals.get(ch, 0)
+        total += -v if v < prev else v
+        prev = max(prev, v)
+    return total
+
+def chapter_sort_key(ch):
+    """Front-matter chapters use a Roman-numeral label (^I-1, ^I-2, ...) in
+    this vault instead of the generic '^0-N' convention - sort them before
+    the numbered chapters, in their own Roman-numeral order."""
+    if ch.isdigit():
+        return (1, int(ch))
+    return (0, roman_to_int(ch))
+
+def find_embedded_single_line(line, comm_norm, taken):
+    """Fallback for a single-line root stanza (title lines, the opening
+    homage, colophon lines, ...) that a commentary paraphrases mid-sentence
+    rather than quoting on its own line. find_best only looks for a match
+    starting at the beginning of a commentary line, which is right for
+    block-quoted verse stanzas but misses a short line embedded inside a
+    longer sentence. This scans every untaken commentary line for the
+    stanza text appearing anywhere inside it (exact equality or
+    containment) and returns the best (topmost, on ties) match."""
+    if not line or len(line) < 8:
+        return None
+    best = None
+    for i, cn in enumerate(comm_norm):
+        if i in taken or not cn:
+            continue
+        if line == cn:
+            score = 2.0
+        elif line in cn:
+            score = 1.0 + 1.0 / len(cn)  # prefer the tightest-fitting containing line
+        else:
+            continue
+        if best is None or score > best[0]:
+            best = (score, i)
+    return best[1] if best else None
+
 def parse_root_verses(path, chapter):
     lines = open(path, encoding='utf-8').read().split('\n')
     verses = {}; cur = []
     for ln in lines:
-        m = re.search(r'\^(\d+)-(\d+)\s*$', ln)
-        tp = re.sub(r'\^[\d-]+\s*$', '', ln).strip()
+        m = BLOCK_ID_RE.search(ln)
+        tp = BLOCK_ID_STRIP_RE.sub('', ln).strip()
         if tp and not tp.startswith('#') and not tp.startswith('!['):
             cur.append(tp)
         if m:
-            ch, v = int(m.group(1)), int(m.group(2))
+            ch, v = m.group(1), int(m.group(2))
             stanza = [norm(x) for x in cur if norm(x)]
-            if (chapter == 'all' or ch == int(chapter)) and stanza:
-                verses["%d-%d" % (ch, v)] = (ch, v, stanza)
+            if (chapter == 'all' or ch == chapter) and stanza:
+                verses["%s-%d" % (ch, v)] = (ch, v, stanza)
             cur = []
         if ln.strip() == '' and not m:
             cur = []
-    return dict(sorted(verses.items(), key=lambda kv: (kv[1][0], kv[1][1])))
+    return dict(sorted(verses.items(), key=lambda kv: (chapter_sort_key(kv[1][0]), kv[1][1])))
 
 def main():
     ap = argparse.ArgumentParser()
@@ -172,7 +217,7 @@ def main():
     existing = set()
     for ln in comm_raw:
         if '![[' in ln:
-            for mm in re.finditer(r'\^(\d+-\d+)', ln):
+            for mm in re.finditer(r'#\^([IVXLCDM]+-\d+|\d+-\d+)\]\]', ln):
                 existing.add(mm.group(1))
 
     insertions = []; unplaced = []; taken = set()
@@ -181,6 +226,10 @@ def main():
             unplaced.append((vid, 'already-transcluded'))
             continue
         idx, span = find_best(stanza, comm_norm, taken, cand_idx)
+        if idx is None and len(stanza) == 1:
+            embedded = find_embedded_single_line(stanza[0], comm_norm, taken)
+            if embedded is not None:
+                idx, span = embedded, 1
         if idx is None:
             unplaced.append((vid, 'NO-MATCH (quoted with large variant / split / absent)'))
         else:

@@ -32,7 +32,7 @@ Usage:
 import re, argparse
 
 def is_trans(line):
-    return bool(line.strip().startswith('![[') and re.search(r'#\^(\d+)-(\d+)\]\]', line))
+    return bool(line.strip().startswith('![[') and re.search(r'#\^([IVXLCDM]+|\d+)-(\d+)\]\]', line))
 
 def main():
     ap = argparse.ArgumentParser()

@@ -73,26 +73,47 @@ def kind(line):
     s = line.strip()
     if not s or s.startswith('![['): return 'none'
     if s in CONNECTORS: return 'none'
+    # An ordinal-led block is a sa-bcad announcement no matter what follows in
+    # the same paragraph - some commentaries fold the announcement and its own
+    # extended explanation into a single block (e.g. "བཞི་པ་...ནི། <several
+    # sentences of explanation> ཞེས་པའི་དོན་ནོ།"). Checking this before the
+    # quotation/conclusion test below means that trailing ཞེས/ཅེས text doesn't
+    # mask the ordinal opener at the front of the block.
+    if starts_ord(s): return 'open'
     if 'ཞེས' in s or 'ཅེས' in s: return 'none'        # quotation / conclusion
     if s.endswith('དང་། །') or s.endswith('དང་ནི། །'): return 'none'  # verse fragment
     L = clen(s)
-    if starts_ord(s): return 'open'
     if ends_any(s, HEAD_END) and L <= 60: return 'open'
     if ends_any(s, OPEN_END) and L <= 60: return 'open'
     if ends_any(s, MEM_END)  and L <= 60: return 'mem'
     return 'none'
 
+def prev_nonblank(ls, idx):
+    """Index of the nearest non-blank line before idx, skipping blank lines
+    (every block in this vault's segmented commentaries sits on its own
+    paragraph, separated by a blank line, so 'immediately above' has to be
+    read at the block level, not the raw-line level). Returns -1 if none."""
+    p = idx - 1
+    while p >= 0 and ls[p].strip() == '':
+        p -= 1
+    return p
+
 def find_block_start(ls, i):
     """Index of the first line of the sa-bcad block directly above the
-    transclusion at i, or None if there is no immediate sa-bcad."""
-    if i == 0: return None
-    if kind(ls[i-1]) == 'none':
+    transclusion at i (skipping intervening blank lines), or None if there
+    is no immediate sa-bcad."""
+    j = prev_nonblank(ls, i)
+    if j < 0 or kind(ls[j]) == 'none':
         return None
-    j = i - 1
-    while j-1 >= 0 and kind(ls[j-1]) != 'none':
-        j -= 1
-    # trim leading member-only lines: the block must START at an opener/heading
-    for k in range(j, i):
+    # walk up the contiguous (blank-agnostic) run of structural blocks
+    run = [j]
+    p = prev_nonblank(ls, j)
+    while p >= 0 and kind(ls[p]) != 'none':
+        run.append(p)
+        p = prev_nonblank(ls, p)
+    run.reverse()  # topmost structural block first, closest-to-transclusion last
+    # trim leading member-only blocks: the block must START at an opener/heading
+    for k in run:
         if kind(ls[k]) == 'open':
             return k
     return None
@@ -109,7 +130,7 @@ def main():
 
     trans = []  # (original index, vid)
     for i, l in enumerate(ls):
-        m = re.search(r'#\^(\d+)-(\d+)\]\]', l)
+        m = re.search(r'#\^([IVXLCDM]+|\d+)-(\d+)\]\]', l)
         if l.strip().startswith('![[') and m:
             if a.chapter != 'all' and m.group(1) != str(a.chapter): continue
             trans.append((i, "%s-%s" % (m.group(1), m.group(2))))

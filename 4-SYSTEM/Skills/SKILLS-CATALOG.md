@@ -302,11 +302,9 @@ Audits the vault for consistency: checks that all linked files exist, frontmatte
 **Outputs:** The same file modified in place — a block id appended to the end of every qualifying line; no lines added, removed, or reordered. Bundles a dry-runnable Python script `apply.py` with an `audit` mode.
 → [`commentary-verse-id/SKILL.md`](commentary-verse-id/SKILL.md)
 
-### `BCA-Heading-Level-Tagger` **[exists]**
-**Purpose:** Converts bare numbered outline headings (ས་བཅད-style numbering like `1`, `1.1`, `1.1.1.2.2.4`) in a segmented Bodhicaryavatara commentary file into Obsidian-native markdown heading levels (`##` for 1 digit group up to `######` for 5) and nested bullet lists (indented one level per digit group beyond 6), so the outline becomes foldable with Obsidian's native fold arrows. Leaves already-tagged headings and any pre-existing bullet lines untouched, so it's safe to re-run on a partially-tagged file. Also detects and repairs a data quirk seen in this vault's files — a heading number glued directly onto the end of the prior heading's prose with no line break — by splitting it onto its own line before tagging.
-**Inputs:** A segmented Tibetan commentary `.md` file with bare numbered outline lines (e.g. `0-INBOX/*_bo_segmented*.md`).
-**Outputs:** The same file overwritten in place with headings/bullets tagged, and a timestamped backup (`<filename>.BACKUP-YYYYMMDD-HHMMSS.md`) written alongside it before the overwrite. Bundles a Python script `scripts/tag_headings.py`.
-→ [`BCA-Heading-Level-Tagger/SKILL.md`](BCA-Heading-Level-Tagger/SKILL.md)
+### `BCA-Heading-Level-Tagger` **[removed]**
+**Purpose (was):** Converted bare numbered outline headings (ས་བཅད-style numbering like `1`, `1.1`, `1.1.1.2.2.4`) in a segmented Bodhicaryavatara commentary file into Obsidian-native markdown heading levels and nested bullet lists.
+**Removed:** 2026-08-30 — superseded by `ABC-Commentary-Formator`, which handles the newer file convention (separate outline file, restart-per-level-2-heading body IDs). Skill folder deleted from the vault.
 
 ---
 

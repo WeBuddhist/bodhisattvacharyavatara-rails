@@ -1,7 +1,8 @@
----
 name: abc-commentary-formator
 description: Three-task formatting pipeline for this vault's segmented Bodhicaryavatara/BCA commentary files that come with a companion bare ས་བཅད outline file (a bullet-list TOC whose entries carry ^TOC-N-N-N... anchors, one number segment per nesting depth, e.g. bo-NKW སྤྱོད་འཇུག་ས་བཅད། ས་བཅད་རྐྱང་པ།.md). Task 1 (heading tagging) aligns every heading-shaped line in the commentary against the outline's titles and rewrites it with the correct number of "#" for its true nesting depth, fixing bare/wrong/missing heading levels including bullet-styled "* **text**" pseudo-headings. Task 2 (segmentation check) scans the whole body for prose segments that read as two merged thoughts and reports candidates for splitting -- report-only, never edits. Task 3 (Obsidian Block IDs) stamps two SEPARATE numbering sequences: one tree-shaped id per heading (e.g. ^I-1-1-2-0) reflecting its position in the outline, and one flat restart-per-level-2-heading id per body paragraph/verse-stanza (e.g. ^I-5, ^1-834, ^2-3) -- headings and body text are never numbered with the same sequence. Use this whenever the user asks to "tag headings" against an outline/ས་བཅད file, "fix heading levels," "add/update Obsidian Block IDs" or "segment IDs" for a commentary file (heading or body, or both), "check for long segments that could be split," or generally wants a segmented commentary file under 0-INBOX (matching *_bo_segmented*, *_segmented_tagged*, or similar) brought in line with this vault's heading/Block-ID conventions. Distinct from BCA-Heading-Level-Tagger, which handles a different, older file convention (bare dot-numbered outline lines like "1.1.1.2" embedded directly in the commentary text, with body Block IDs restarting at every chapter) -- ask the user which convention their file uses if it's ambiguous; this skill is for files that carry their outline structure in a SEPARATE ས་བཅད file and want body Block IDs restarting only at level-2 headings.
----
+Creator: Tigerboy
+created: 2026-08-30
+version: "1.0"
 
 # ABC Commentary Formator
 

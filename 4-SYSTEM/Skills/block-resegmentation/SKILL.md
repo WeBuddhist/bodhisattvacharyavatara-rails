@@ -148,12 +148,12 @@ python3 4-SYSTEM/Skills/block-resegmentation/scripts/qc_check.py \
 
 **What the deterministic checker flags:**
 
-| Flag | Condition |
-|---|---|
-| `CONNECTOR_ENDING` | Block ends with `དང་།` / `ཞིང་།` / `ཅིང་།` / `ནས།` / `ལས།` / `སྟེ།` / `ཏེ།` — sentence incomplete |
-| `OBJECTION_REPLY_FUSED` | Block contains both `ཅེ་ན།`/`ཞེ་ན།` and `འོ་ན།` — should be two blocks |
-| `OVER_LENGTH` | Block exceeds 60 syllables — may contain a buried topic boundary |
-| `SHORT_FRAGMENT` | Block is under 4 syllables — may be a split artifact |
+| Flag                    | Condition                                                                                         |
+| ----------------------- | ------------------------------------------------------------------------------------------------- |
+| `CONNECTOR_ENDING`      | Block ends with `དང་།` / `ཞིང་།` / `ཅིང་།` / `ནས།` / `ལས།` / `སྟེ།` / `ཏེ།` — sentence incomplete |
+| `OBJECTION_REPLY_FUSED` | Block contains both `ཅེ་ན།`/`ཞེ་ན།` and `འོ་ན།` — should be two blocks                            |
+| `OVER_LENGTH`           | Block exceeds 60 syllables — may contain a buried topic boundary                                  |
+| `SHORT_FRAGMENT`        | Block is under 4 syllables — may be a split artifact                                              |
 
 **Outputs:**
 

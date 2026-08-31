@@ -233,3 +233,14 @@ a signal that the review step is not happening.
 | བདུད་ | Mara | Day 57 | pending |
 | ཉན་ཐོས་ཀྱི་ལམ་ | the path of the hearers | Day 57 | pending |
 | དགྲ་བཅོམ་པ་ | arhat | Day 57 | pending |
+| གྲུབ་ཐོབ་ཆེན་པོ་ཏེ་ལོ་པ་ | the great adept Tilopa | Day 58 | pending |
+| མཆོག་གི་དངོས་གྲུབ་ | the supreme attainment | Day 58 | pending |
+| ལྟུང་བ་ | downfall | Day 58 | pending |
+| རྗེ་བཙུན་མི་ལ་རས་པ་ | Jetsun Milarepa | Day 59 | pending |
+| མཁས་གྲུབ་ནོར་བཟང་རྒྱ་མཚོ་ | Khedrub Norzang Gyatso | Day 59 | pending |
+| སྐུ་གསུང་ཐུགས་ཀྱི་རྟེན་ | images, texts and stupas | Day 59 | pending |
+| མི་རྟག་པ་དྲན་པའི་ཉམས་ལེན། | _(Practice of remembering that nothing lasts)_ — NEW CATEGORY, needs approval | Day 60 | pending |
+| སློབ་དཔོན་འཕགས་པ་ལྷ་ | Master Aryadeva | Day 60 | pending |
+| བཞི་བརྒྱ་པ་ | the Chatuhshataka (Hindi चतुःशतक) | Day 60 | pending |
+| འབྱུང་བ་བཞི་ | the four elements | Day 60 | pending |
+| དལ་འབྱོར་ | this rare human life | Day 60 | pending |

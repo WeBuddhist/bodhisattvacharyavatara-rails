@@ -18,13 +18,18 @@ grammar-book notion of "a paragraph is one sentence" -- do not lower
 convention and over-split perfectly normal blocks.
 
 The split point itself uses the same signal this vault's own text does at
-every genuine paragraph break: a "| |" (double shad, the normal Tibetan
-full stop) with more text after it before the segment's end. Splitting at
-the "| |" nearest the exact midpoint (among those falling within the
-middle 65% of the segment -- between 20% and 85% of its length, so a split
-is never forced right at either edge) reproduces a plausible two-thought
-division without ever inventing a break where the text itself doesn't mark
-one.
+every genuine paragraph break: a double shad (the normal Tibetan full
+stop) with more text after it before the segment's end. Different
+digitized editions in this vault write the double shad differently --
+BCAC20_NKW spaces the two "།" apart ("། །"), while BCAC16_PK glues them
+with no space ("།།") -- so the break pattern matches either spacing
+("།\s*།") rather than assuming one convention vault-wide; a lone "།" is
+only a clause-internal pause and is deliberately NOT treated as a break
+point, or every clause would get split. Splitting at the break nearest the
+exact midpoint (among those falling within the middle 65% of the segment
+-- between 20% and 85% of its length, so a split is never forced right at
+either edge) reproduces a plausible two-thought division without ever
+inventing a break where the text itself doesn't mark one.
 
 Two modes:
 
@@ -79,7 +84,12 @@ from datetime import datetime
 HEADING_RE = re.compile(r'^(#+)\s*(.*)$')
 ANCHOR_TAIL_RE = re.compile(r'^(.*?)(\s\^[\w-]+)\s*$')
 EMBED_RE = re.compile(r'^!\[\[')
-BREAK_RE = re.compile(r'། །')
+# Double shad (Tibetan full stop): different digitized editions space the two
+# "།" characters apart ("། །", this vault's BCAC20_NKW reference file) or glue
+# them with no space ("།།", e.g. BCAC16_PK) -- \s* covers both without also
+# matching a single lone "།" (which is only a clause-internal pause, not a
+# sentence boundary, and would over-split if used here).
+BREAK_RE = re.compile(r'།\s*།')
 
 
 def frontmatter_end_index(lines):

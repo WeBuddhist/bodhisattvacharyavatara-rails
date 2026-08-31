@@ -6,24 +6,29 @@ description: >-
   anchors, one number segment per nesting depth, e.g. bo-NKW སྤྱོད་འཇུག་ས་བཅད། ས་བཅད་རྐྱང་པ།.md). Task
   1 (heading tagging) aligns every heading-shaped line in the commentary against the outline's titles
   and rewrites it with the correct number of "#" for its true nesting depth, fixing bare/wrong/missing
-  heading levels including bullet-styled "* **text**" pseudo-headings. Task 2 (segmentation check)
-  scans the whole body for prose segments that read as two merged thoughts and reports candidates for
-  splitting -- report-only, never edits. Task 3 (Obsidian Block IDs) stamps two SEPARATE numbering
-  sequences: one tree-shaped id per heading (e.g. ^I-1-1-2-0) reflecting its position in the outline,
-  and one flat restart-per-level-2-heading id per body paragraph/verse-stanza (e.g. ^I-5, ^1-834,
-  ^2-3) -- headings and body text are never numbered with the same sequence. Use this whenever the
-  user asks to "tag headings" against an outline/ས་བཅད file, "fix heading levels," "add/update
-  Obsidian Block IDs" or "segment IDs" for a commentary file (heading or body, or both), "check for
-  long segments that could be split," or generally wants a segmented commentary file under 0-INBOX
-  (matching *_bo_segmented*, *_segmented_tagged*, or similar) brought in line with this vault's
-  heading/Block-ID conventions. Distinct from BCA-Heading-Level-Tagger, which handles a different,
-  older file convention (bare dot-numbered outline lines like "1.1.1.2" embedded directly in the
-  commentary text, with body Block IDs restarting at every chapter) -- ask the user which convention
-  their file uses if it's ambiguous; this skill is for files that carry their outline structure in a
-  SEPARATE ས་བཅད file and want body Block IDs restarting only at level-2 headings.
+  heading levels including bullet-styled "* **text**" pseudo-headings. Task 2 (segmentation) scans
+  the whole body for prose segments that read as two-or-more merged thoughts and, in report mode
+  (default), lists them as candidates; with --apply it actually re-segments them by recursively
+  splitting at the best interior sentence break, the same convention this vault's own segmented
+  commentaries use -- this also makes Task 2 usable to segment a RAW or barely-segmented commentary
+  from scratch, not just QC-check an already-segmented one. Task 3 (Obsidian Block IDs) stamps two
+  SEPARATE numbering sequences: one tree-shaped id per heading (e.g. ^I-1-1-2-0) reflecting its
+  position in the outline, and one flat restart-per-level-2-heading id per body paragraph/verse-stanza
+  (e.g. ^I-5, ^1-834, ^2-3) -- headings and body text are never numbered with the same sequence. Use
+  this whenever the user asks to "tag headings" against an outline/ས་བཅད file, "fix heading levels,"
+  "add/update Obsidian Block IDs" or "segment IDs" for a commentary file (heading or body, or both),
+  "check for long segments that could be split," "segment this raw/unsegmented commentary the same
+  way as <an example file>," or generally wants a commentary file under 0-INBOX (matching
+  *_bo_segmented*, *_segmented_tagged*, or similar, or a fresh/raw file to be brought into that same
+  shape) brought in line with this vault's heading/segmentation/Block-ID conventions. Distinct from
+  BCA-Heading-Level-Tagger, which handles a different, older file convention (bare dot-numbered
+  outline lines like "1.1.1.2" embedded directly in the commentary text, with body Block IDs
+  restarting at every chapter) -- ask the user which convention their file uses if it's ambiguous;
+  this skill is for files that carry their outline structure in a SEPARATE ས་བཅད file and want body
+  Block IDs restarting only at level-2 headings.
 Creator: Tigerboy
 created: 2026-08-30
-version: "1.0"
+version: "2.0"
 ---
 
 # ABC Commentary Formator
@@ -35,10 +40,10 @@ This skill formats a segmented Tibetan commentary file (in `0-INBOX/`) that has 
 Three tasks, each independently useful, normally run in this order:
 
 1. **Heading tagging** (`scripts/align_headings.py`) -- aligns the commentary's heading-shaped lines against the outline and rewrites each with the correct `#` depth.
-2. **Segmentation check** (`scripts/find_long_segments.py`) -- reports (does not edit) long body segments that look like two merged thoughts.
+2. **Segmentation** (`scripts/find_long_segments.py`) -- in report mode (default), lists long body segments that look like two-or-more merged thoughts; with `--apply`, actually splits them at the vault's own sentence-break convention.
 3. **Obsidian Block IDs** (`scripts/tag_heading_block_ids.py` then `scripts/tag_body_block_ids.py`) -- stamps two independent id sequences, one for headings and one for body text.
 
-Run 1 before 3 (Block IDs are computed from heading depth/position, so headings must already be correctly leveled). Task 2 can run any time after 1, independently of 3 -- it only reads, never writes.
+Run 1 before 3 (Block IDs are computed from heading depth/position, so headings must already be correctly leveled). Task 2 in **report mode** can run any time after 1, independently of 3 -- it only reads. Task 2 in **`--apply` mode** changes block boundaries, so it must run BEFORE Task 3b (body Block IDs) -- any split segment loses its old id (a single id can't identify two new pieces), and 3b is what assigns fresh ids to the pieces. If you run `--apply` on a file that's already been through Task 3, re-run 3b afterward before delivering.
 
 ## Task 1: Heading tagging (`align_headings.py`)
 
@@ -97,15 +102,36 @@ These aren't part of `align_headings.py` but come up on the same file family and
 - **Removing hand-added numbered chapter-title lines** (e.g. `### 2. ལེའུ་གཉིས་པ། སྡིག་པ་བཤགས་པ། ^2-0`) if the user no longer wants them, once the outline-based headings already carry that structure. Do this as a simple line-removal pass (also delete one of the two blank lines left dangling around each removed line, to avoid a double blank), keyed on a regex like `^#+\s*\d+\.\s*ལེའུ`.
 - **Inserting a blank line between two headings that are directly adjacent** (no blank line between them) -- this vault's convention wants one blank line between every pair of heading lines, matching example: `####### **...**` immediately followed by `######## **...**` should get a blank line inserted between them. Simple line-scan: after any heading line, if the very next line is also a heading line, insert a blank line.
 
-## Task 2: Segmentation check (`find_long_segments.py`)
+## Task 2: Segmentation (`find_long_segments.py`)
 
-Report-only -- **never edit the file** for this task unless the user explicitly asks you to apply a specific split. A "long segment" is a prose body block that reads as two independent thoughts merged together; the signal used is a `། །` (double shad, the normal Tibetan full-stop) sitting well before the very end of the segment (between 20% and 85% of its length) rather than only at the end.
+### What "this vault's segmentation convention" actually is
+
+Reverse-engineered empirically from `0-INBOX/BCAC20_NKW_bo_segmented_tagged.md` (the reference example for this convention): body segments in this file family are **not** "one sentence per block." In a sample of 1402 prose blocks in that file, ~84% legitimately contain more than one `། །`-terminated sentence merged into one coherent explanatory unit, with a median length around 420 characters. The file's own practical ceiling sits around 800 characters -- blocks at or above that are rare (~10% of prose blocks) and are exactly the ones worth a second look or a split. Two hypotheses were tested and rejected before landing on this: "split at every ordinal word (དང་པོ་/གཉིས་པ་/...)" only matched 57% of real block starts (43% of ordinals appear mid-block, continuing a thought rather than opening a new one), and "one sentence per block" is flatly contradicted by the 84% figure above. So: **don't lower `--min-length` "to be thorough"** -- that fights the vault's actual convention and over-splits perfectly normal blocks. The split point itself, when a block genuinely is too long, is the same signal the vault's own text uses at every real paragraph break: a `། །` (double shad, the normal Tibetan full stop) with more text after it before the segment's end, chosen as the one nearest the exact midpoint among those falling within the middle 65% of the segment (between 20% and 85% of its length, so a split is never forced right at an edge).
+
+### Two modes
+
+**Report mode (default, no `--apply`)** -- never edits the file. Lists candidates for a human, or for a follow-up `--apply` run, to review.
 
 ```bash
 python3 scripts/find_long_segments.py "<path-to-staged-file>" --min-length 800 --out report.md
 ```
 
 Deliver `report.md` to the user (it's a markdown table -- send it as a file, don't try to paste an 800+-row table into chat). Segments with a clean break are strong candidates; segments without one still get listed (long but no obvious midpoint) since they're worth a human look even though the split point isn't mechanically obvious -- never invent a split point for these without a clear sentence boundary to point to.
+
+**Apply mode (`--apply`)** -- actually re-segments the file. For every prose body segment at or above `--min-length`, recursively finds the best interior `། །` break, splits there, and repeats on each resulting half -- so a block over-merged from three sentences becomes three blocks in one pass, not just two. A half that's still too long but has no further interior `། །` to split at is left as one piece (the same "long segment without an obvious break point" case report mode surfaces) -- this never invents a split point without a genuine sentence-boundary anchor.
+
+```bash
+python3 scripts/find_long_segments.py "<path-to-staged-file>" --min-length 800 --apply
+```
+
+`--apply` is meant for two situations:
+
+- **Cleaning up a handful of over-long segments** in an already-segmented file (the original use case) -- most calls will change very few blocks.
+- **Segmenting a RAW or barely-segmented commentary from scratch** -- point it at a file where whole chapters sit in one giant paragraph, and it recursively cuts every such blob down to this vault's normal block granularity using the exact same break rule throughout. This is what makes Task 2 usable on **other commentary texts**, not just as a QC pass on the one it was reverse-engineered from. When asked to segment a new/raw commentary "the same way as `BCAC20_NKW_bo_segmented_tagged`," this is the tool -- there is no separate script for that request.
+
+A segment's existing Obsidian Block ID (if any) is **dropped** when that segment is split -- one id can't identify two new pieces, and every piece needs its own fresh id. **Run Task 3b (`tag_body_block_ids.py`) again after any `--apply` run that reports changes**, to (re)stamp ids on the new block boundaries; it's explicitly designed to assign fresh ids to anchor-less segments, whatever caused them to lack one. A segment that was NOT split keeps its existing id untouched. Headings, frontmatter, lone image-embed lines, and verse/stanza quote blocks (consecutive `>` lines) are never touched or counted in either mode -- splitting a quoted verse doesn't make sense, and this task is scoped to prose only.
+
+Writes a `.BACKUP-YYYYMMDD-HHMMSS.md` before overwriting, matching the other scripts' convention. Report-mode output is unaffected by the `--apply` code path -- running without `--apply` behaves exactly as before this capability was added.
 
 ## Task 3: Obsidian Block IDs -- two separate sequences
 
@@ -147,13 +173,14 @@ Check the printed per-label range (`label X: 1..N`) -- ranges should be gap-free
 
 1. Stage the target file (and its outline file, for Task 1) via `device_stage_files` if it lives on the user's Obsidian vault.
 2. **Re-stage right before each task**, not just once at the start of the conversation -- this file family is often edited live by the user in Obsidian while you're working on it in the same session. Diff the freshly staged copy against what you last worked from before assuming nothing changed; if it has, redo your analysis on the current content rather than risk clobbering the user's edits with stale output.
-3. Run Task 1 (`align_headings.py`), review its summary, and only then run Task 3a (`tag_heading_block_ids.py`) followed by 3b (`tag_body_block_ids.py`) -- in that order, since 3a/3b depend on headings already being correctly leveled. Task 2 (`find_long_segments.py`) can run independently at any point after Task 1, and never needs to run before delivering a file (it's report-only).
+3. Run Task 1 (`align_headings.py`), review its summary. If Task 2 is being run in `--apply` mode (actually segmenting, not just checking), run it **next**, before Task 3 -- it changes block boundaries, so headings must already be correct (from Task 1) but body Block IDs must not be stamped yet (Task 3b runs after, to tag the new pieces). Then run Task 3a (`tag_heading_block_ids.py`) followed by 3b (`tag_body_block_ids.py`), in that order. Task 2 in **report mode** is the exception -- it can run independently at any point after Task 1 and never needs to run before delivering a file, since it only reads.
 4. Each script writes its own timestamped backup next to the target before overwriting in place -- running the full pipeline leaves multiple backups, which is expected, not a bug.
-5. Commit the final file back to its **original path** with `device_commit_files` (don't create a `_tagged`/`_numbered` sibling file), using the `expectedMtimeMs` from your most recent stage of that exact file so a newer edit from the user is never silently overwritten.
-6. Tell the user: how many headings were retagged (and flag any low-confidence matches you didn't already resolve), the final Block ID ranges for both headings and body text, and, if Task 2 was run, how many long-segment candidates were found and where the report was sent.
+5. Commit the final file back to its **original path** with `device_commit_files` (don't create a `_tagged`/`_numbered`/`_segmented` sibling file), using the `expectedMtimeMs` from your most recent stage of that exact file so a newer edit from the user is never silently overwritten.
+6. Tell the user: how many headings were retagged (and flag any low-confidence matches you didn't already resolve); if Task 2 ran in `--apply` mode, how many segments were split and into how many pieces, and confirm Task 3b was re-run afterward; if Task 2 ran in report mode, how many long-segment candidates were found and where the report was sent; and the final Block ID ranges for both headings and body text.
 
 ## Notes on this file family
 
 - These files are large (multi-thousand-line) Tibetan commentary text with embedded verse quotes (`>` blockquote lines), transclusion embeds (`![[other-file#^id]]`), and pre-existing partial Obsidian Block IDs mixed in with the heading structure. None of the scripts here ever touch verse-quote content or cross-file embeds beyond deciding whether to skip them.
 - If a file in this set doesn't come with a companion ས་བཅད outline file, or uses a different chapter-heading convention than this skill assumes, ask the user rather than guessing -- these scripts are intentionally narrow to the conventions validated on this vault's files.
+- **Segmenting a raw or freshly-received commentary from scratch** (no existing block structure at all, e.g. one giant paragraph per chapter): Task 2 `--apply` is the tool for this -- see "Apply mode" above. It only needs paragraph-level text to work on; it does not require Task 1/3 to have already run, though Task 1 should still run first if the file also needs heading alignment, since Task 2 skips heading lines when deciding what counts as a prose block. Always run Task 2 `--apply` before Task 3b so the newly-created pieces get proper Block IDs rather than being left anchor-less.
 - This skill is distinct from **BCA-Heading-Level-Tagger** (also in this Skills folder), which targets an older convention where the ss-bcad numbering is typed bare directly into the commentary text (no separate outline file) and body Block IDs restart at every chapter rather than every level-2 heading. If it's unclear which convention a given file uses, ask the user before picking one.

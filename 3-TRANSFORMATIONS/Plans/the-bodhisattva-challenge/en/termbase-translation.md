@@ -244,3 +244,5 @@ a signal that the review step is not happening.
 | བཞི་བརྒྱ་པ་ | the Chatuhshataka (Hindi चतुःशतक) | Day 60 | pending |
 | འབྱུང་བ་བཞི་ | the four elements | Day 60 | pending |
 | དལ་འབྱོར་ | this rare human life | Day 60 | pending |
+| ཀླུའི་རྒྱལ་པོ་རྒྱ་མཚོ་ | the naga king Sagara | Day 61 | pending |
+| འཕགས་པ་སྤྱན་རས་གཟིགས་ | the noble Avalokiteshvara | Day 64 | pending |

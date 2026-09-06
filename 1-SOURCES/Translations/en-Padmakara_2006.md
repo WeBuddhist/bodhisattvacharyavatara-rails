@@ -11,6 +11,23 @@ verse_id_format: chapter-verse
 root_text: 1-SOURCES/Text/BCAV08_SH_sk.md
 covers_verses: 0-1–10-58
 source_description: "Padmakara Translation Group (2006). The Way of the Bodhisattva. Revised edition. Boston: Shambhala Publications."
+
+title: Entering the Way of the Bodhisattva
+translator: Karma Lodrö Choephel
+language: English
+file_type: translation
+lang_tag: bo
+verse_id_format: chapter-verse
+root_text: 1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md
+translation_basis: 
+source_description: Translated into English from the canonical Tibetan text in comparison with the extant Sanskrit by the bhikshu Karma Lodrö Choephel
+source: https://webuddhist.com/
+license: public
+category_id: JD5ULLPAV1cxg7RSb7L3q
+bdrc_work_id: 
+text_id: 
+edition_id: 
+toc_id: 
 ---
 # The Way of the Bodhisattva ^T-1
 

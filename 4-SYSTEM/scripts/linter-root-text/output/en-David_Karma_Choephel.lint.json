@@ -1,0 +1,35 @@
+{
+  "status": "ok",
+  "source": "/mnt/c/Users/geshe lobzang tseten/repos/bodhisattvacharyavatara-rails/1-SOURCES/Translations/en-David_Karma_Choephel.md",
+  "validated_at": "2026-09-06T15:01:11.789601+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: '1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md'",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "toc: 12 headers found"
+  ],
+  "warnings": [
+    "alt_titles: missing — ignored for now",
+    "no Person found in BDRC for 'Karma Lodrö Choephel[bdr:P6324]'",
+    "author 'Karma Lodrö Choephel[bdr:P6324]' not found (no id) — skipped"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "en": "Entering the Way of the Bodhisattva"
+    },
+    "alt_titles": null,
+    "language": "en",
+    "commentary_of": null,
+    "translation_of": "0lvicjSqSLdtXCZQjSYvj",
+    "category_id": "JD5ULLPAV1cxg7RSb7L3q",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

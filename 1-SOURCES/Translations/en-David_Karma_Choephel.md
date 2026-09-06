@@ -1,15 +1,20 @@
 ---
-title:
-  - Entering the Way of the Bodhisattva
-author: Śāntideva
-translator: Choephel, David Karma (bhikshu Karma Lodrö Choephel)
+title: Entering the Way of the Bodhisattva
+author: Karma Lodrö Choephel[bdr:P6324]
 language: English
 file_type: translation
 lang_tag: en
 verse_id_format: chapter-verse
-root_text: 1-SOURCES/Text/BCAV08_SH_sk.md
-covers_verses: 0-1–10-58
-source_description: Translated into English from the canonical Tibetan text in comparison with the extant Sanskrit by the bhikshu Karma Lodrö Choephel.
+root_text: 1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md
+translation_basis: 
+source_description: Translated into English from the canonical Tibetan text in comparison with the extant Sanskrit by the bhikshu Karma Lodrö Choephel
+source: https://webuddhist.com/
+license: public
+category_id: JD5ULLPAV1cxg7RSb7L3q
+bdrc_work_id: 
+text_id: V7KKgjHcxq3m2hxTx6k1o
+edition_id: KR8O5cLLsJ6pJ7w63PDvG
+toc_id: DcxVX8SompHPXCXVpTNF4
 ---
 # Entering the Way of the Bodhisattva ^0
 
@@ -6493,5 +6498,3 @@ Whose kindness made me thrive. ^10-58
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^10-a]]
 
 The tenth chapter, “Dedication,” from Entering the Way of the Bodhisattva. This completes Entering the Way of the Bodhisattva by Master Shantideva. ^10-a
-
-The Tibetan translation was revi

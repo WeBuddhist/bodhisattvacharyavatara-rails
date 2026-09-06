@@ -1,15 +1,22 @@
 ---
+
 title: A Guide to the Bodhisattva Way of Life
-author: Śāntideva
-translator: Wallace, Vesna A.; Wallace, B. Alan
+author: wallace, b. alan[bdr:P9927]
 date: 2009
 language: English
 file_type: translation
-lang_tag: en
+lang_tag: bo
 verse_id_format: chapter-verse
 root_text: 1-SOURCES/Text/BCAV08_SH_sk.md
-covers_verses: 1-1–10-58
-source_description: "Wallace, Vesna A. and B. Alan Wallace (2009). A Guide to the Bodhisattva Way of Life. Ithaca: Snow Lion Publications."
+translation_basis: 
+source_description:"Wallace, Vesna A. and B. Alan Wallace (2009). A Guide to the Bodhisattva Way of Life. Ithaca: Snow Lion Publications."
+source: https://webuddhist.com/
+license: public
+category_id: JD5ULLPAV1cxg7RSb7L3q
+bdrc_work_id: 
+text_id: 
+edition_id: 
+toc_id: 
 ---
 
 # A Guide to the Bodhisattva Way of Life ^0

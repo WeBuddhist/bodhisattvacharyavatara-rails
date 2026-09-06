@@ -244,3 +244,12 @@ a signal that the review step is not happening.
 | བཞི་བརྒྱ་པ་ | the Chatuhshataka (Hindi चतुःशतक) | Day 60 | pending |
 | འབྱུང་བ་བཞི་ | the four elements | Day 60 | pending |
 | དལ་འབྱོར་ | this rare human life | Day 60 | pending |
+| ཀླུའི་རྒྱལ་པོ་རྒྱ་མཚོ་ | the naga king Sagara | Day 61 | pending |
+| འཕགས་པ་སྤྱན་རས་གཟིགས་ | the noble Avalokiteshvara | Day 64 | pending |
+| ཉོན་མོངས་ངོས་འཛིན་པ། | _(Recognizing the afflictions)_ — NEW CATEGORY, needs approval | Day 65 | pending |
+| སྐྱབས་རྗེ་གླིང་རིན་པོ་ཆེ་ | Kyabje Ling Rinpoche | Day 65 | pending |
+| ཞེ་སྡང་སྤོང་བ། | _(Giving up anger)_ — NEW CATEGORY, needs approval | Day 66 | pending |
+| ཉོན་མོངས་མི་གསོ་བ། | _(Not feeding the afflictions)_ — NEW CATEGORY, needs approval | Day 67 | pending |
+| བརྩོན་འགྲུས་མི་གཏོང་བ། | _(Not giving up the effort)_ — NEW CATEGORY, needs approval | Day 68 | pending |
+| དཀའ་སྤྱད་དང་དུ་ལེན་པ། | _(Welcoming hardship)_ — NEW CATEGORY, needs approval | Day 69 | pending |
+| གཞན་དོན་དུ་བཟོད་པ། | _(Patience for the sake of others)_ — NEW CATEGORY, needs approval | Day 70 | pending |

@@ -1,26 +1,13 @@
 ---
-title:
-  - The Way of the Bodhisattva
-author: Śāntideva
-translator: Padmakara Translation Group
-date: 2006
+title: The Way of the Bodhisattva
+author: zhi ba lha/
 language: English
 file_type: translation
 lang_tag: en
 verse_id_format: chapter-verse
-root_text: 1-SOURCES/Text/BCAV08_SH_sk.md
-covers_verses: 0-1–10-58
-source_description: "Padmakara Translation Group (2006). The Way of the Bodhisattva. Revised edition. Boston: Shambhala Publications."
-
-title: Entering the Way of the Bodhisattva
-translator: Karma Lodrö Choephel
-language: English
-file_type: translation
-lang_tag: bo
-verse_id_format: chapter-verse
 root_text: 1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md
 translation_basis: 
-source_description: Translated into English from the canonical Tibetan text in comparison with the extant Sanskrit by the bhikshu Karma Lodrö Choephel
+source_description: "Padmakara Translation Group (2006). The Way of the Bodhisattva. Revised edition. Boston: Shambhala Publications."
 source: https://webuddhist.com/
 license: public
 category_id: JD5ULLPAV1cxg7RSb7L3q
@@ -29,7 +16,7 @@ text_id:
 edition_id: 
 toc_id: 
 ---
-# The Way of the Bodhisattva ^T-1
+# The Way of the Bodhisattva ^0
 
 ## 0. Introduction ^I-0
 
@@ -6451,4 +6438,4 @@ Whose inspiration gave me strength to grow. ^10-58
 
 This completes the Bodhisattvacharyavatara, The Way of the Bodhisattva, which was composed by the master Shāntideva. ^10-a
 
-The text was translated, edited, and finalized in Tibetan on the basis of a manuscript from Kashmir by the Indian scholar Sarvajñādeva and the monk, translator, and editor Kawa Peltsek. At a later time, this version was revised and finalized in accordance with the version from Magadha, together with its commentary, by the Indian scholar Dharmashrībhadra and the Tibetan monks, translators and edit
+The text was translated, edited, and finalized in Tibetan on the basis of a manuscript from Kashmir by the Indian scholar Sarvajñādeva and the monk, translator, and editor Kawa Peltsek. At a later time, this version was revised and finalized in accordance with the version from Magadha, together with its commentary, by the Indian scholar Dharmashrībhadra and the Tibetan monks, translators and editors. [Ed: colophon truncated in source file] ^a

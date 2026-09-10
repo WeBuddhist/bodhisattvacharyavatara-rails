@@ -1,14 +1,18 @@
 ---
-title: इथून सुरू होतो बोधिसत्त्वाचा मार्ग (Bodhicaryāvatāra)
-source_text: AI_translation/bo-བློ་ལྡན་ཤེས་རབ།_split_chapters (Tibetan, Derge Kangyur edition; translators Sarvajñādeva, Bande Paltsek, Dharmaśrībhadra, Rinchen Zangpo, Śākya-blo-gros, Sumatikīrti, Blo ldan shes rab)
-target_language: Marathi
-translation_approach: rails (termbase-guided), produced with the rails-verse-translator skill, based on the bca-marathi-children-zeroshot draft
-termbase: AI_translation/marathi/tibetan-marathi-termbase-children.md (locked; built via keyword-equivalence-mapper -> word-sense-grouper -> termbase-builder)
-audience_profile: AI_translation/audience_profile/children.md (children's version; simple, warm, concrete language)
-verse_id_format: chapter-verse (segment IDs preserved exactly from source, e.g. ^1-1, ^I-0, ^a-1, ^b-3)
-segment_id_coverage: intro (^0, ^I-0..^I-3), chapters 1-10 (^N-0 header through ^N-a colophon line, per chapter), author's colophon (^a-0..^a-1), translators' colophon (^b-0..^b-3) - verified against source, no additions or omissions
-notes: "For chapter 6 (patience/kṣānti-pāramitā), the term बज़ोद्प is rendered सहनशीलता throughout (rather than the termbase's locked संयम), per explicit user direction, as more natural and accessible for the target children's audience while remaining faithful to the paramita sense."
+title: इथून सुरू होतो बोधिसत्त्वाचा मार्ग - children version
+language: Marathi
+file_type: translation
+root_text: 1-SOURCES\Translations\bo-བློ་ལྡན་ཤེས་རབ།.md
+translator: Rails[op:Xz6QQW6yYdR111UgnnxJk]
+lang_tag: mr
+audience:  AI_translation/audience_profile/children.md (children's version; simple, warm, concrete language)
+verse_id_format: chapter-verse
+source: https://webuddhist.com/
 license: public
+category_id: JD5ULLPAV1cxg7RSb7L3q
+text_id: 
+edition_id: 
+toc_id: 
 ---
 
 # इथून सुरू होतो बोधिसत्त्वाचा मार्ग ^0

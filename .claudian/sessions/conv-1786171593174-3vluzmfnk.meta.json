@@ -5,13 +5,13 @@
   "titleGenerationStatus": "failed",
   "createdAt": 1786171593180,
   "lastActivityAt": 1786410585391,
-  "sessionId": "a9c2371a-b7d2-4f6f-9a2b-99b7a7cadce4",
+  "sessionId": null,
   "selectedModel": "sonnet",
   "providerState": {
     "previousProviderSessionIds": [
-      "2728fef1-c277-4e60-afc1-a1f7e09d6d28"
-    ],
-    "providerSessionId": "a9c2371a-b7d2-4f6f-9a2b-99b7a7cadce4"
+      "2728fef1-c277-4e60-afc1-a1f7e09d6d28",
+      "a9c2371a-b7d2-4f6f-9a2b-99b7a7cadce4"
+    ]
   },
   "usage": {
     "model": "sonnet",

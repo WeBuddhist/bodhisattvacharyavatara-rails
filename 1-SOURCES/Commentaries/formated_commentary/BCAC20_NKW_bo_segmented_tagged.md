@@ -8,16 +8,16 @@ file_type: commentary
 language: Tibetan
 lang_tag: bo
 source_description: Commentary to facilitate easy entry for beginners into the Bodhicaryāvatāra, composed by Khenpo Ngakwang Kunga Wangchuk of Dzongsar Shedra, India.
-category_id: 
+category_id:
 license: public
-source: https://webuddhist.com/
-root-text: 1-SOURCES\Translations\bo-བློ་ལྡན་ཤེས་རབ།.md
-bdrc_work_id: 
-source: https://webuddhist.com/
-text_id: 
-edition_id: 
-toc_id: 
+source: "https://webuddhist.com/"
+root-text: "1-SOURCES\\Translations\\bo-བློ་ལྡན་ཤེས་རབ།.md"
+bdrc_work_id:
+text_id:
+edition_id:
+toc_id:
 ---
+
 # ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ཞེས་བྱ་བའི་འགྲེལ་པ་བཞུགས་སོ། ། ^0
 
 ༄༅། །ཐེག་པ་ཆེན་པོའི་མདོའི་དགོངས་འགྲེལ་གྱི་བསྟན་བཅོས་བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ཞེས་བྱ་བའི་བསྟན་བཅོས་འདི་རྩོམ་པ་པོ་སློབ་དཔོན་ཞི་བ་ལྷ་ཁོང་ནི། ཐོག་མར་རྒྱ་གར་གྱི་ཡུལ་ལྷོ་ཕྱོགས་ཀྱི་བརྒྱུད་དུ་ཡབ་རྒྱལ་པོ་ལེགས་པའི་གོ་ཆ་ཞེས་བྱ་བའི་སྲས་སུ་སྐུ་འཁྲུངས། རྒྱལ་སྲས་ཞི་བའི་གོ་ཆ་ཞེས་མཚན་བཏགས། རིམ་གྱིས་སྐུ་སྐྱེད་བསྲིངས་ནས་གསང་སྔགས་ཀྱི་རྣལ་འབྱོར་པ་ཞིག་ལས་རྗེ་བཙུན་འཇམ་དཔལ་གྱིས་སྒྲུབ་ཐབས་ཞུས་ཏེ་སྦས་པའི་ཚུལ་དུ་སྒྲུབ་པ་མཛད་པས་འཇམ་དཔལ་གྱི་ཞལ་གཟིགས་ཏེ་གྲུབ་པ་ཐོབ། ^0-1

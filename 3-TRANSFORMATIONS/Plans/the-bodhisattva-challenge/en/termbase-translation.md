@@ -252,4 +252,4 @@ a signal that the review step is not happening.
 | ཉོན་མོངས་མི་གསོ་བ། | _(Not feeding the afflictions)_ — NEW CATEGORY, needs approval | Day 67 | pending |
 | བརྩོན་འགྲུས་མི་གཏོང་བ། | _(Not giving up the effort)_ — NEW CATEGORY, needs approval | Day 68 | pending |
 | དཀའ་སྤྱད་དང་དུ་ལེན་པ། | _(Welcoming hardship)_ — NEW CATEGORY, needs approval | Day 69 | pending |
-| གཞན་དོན་དུ་བཟོད་པ། | _(Patience for the sake of others)_ — NEW CATEGORY, needs approval | Day 70 | pending |
+| ཟླ་བ་སྒྲོན་མེའི་མདོ་ | the Chandrapradipa Sutra | Day 73 | pending |

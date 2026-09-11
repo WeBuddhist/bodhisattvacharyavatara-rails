@@ -1,3 +1,12 @@
 {
-  "obsidian-excalidraw-plugin:save": []
+  "obsidian-excalidraw-plugin:save": [],
+  "quickadd:choice:b06bdedf-f1c0-4dce-89c8-ff275d75dac8": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ]
 }

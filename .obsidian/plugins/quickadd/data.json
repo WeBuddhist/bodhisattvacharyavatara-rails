@@ -4,11 +4,11 @@
       "id": "b06bdedf-f1c0-4dce-89c8-ff275d75dac8",
       "name": "Make Small",
       "type": "Capture",
-      "command": false,
+      "command": true,
       "appendLink": false,
       "copyLinkToClipboard": false,
       "captureTo": "",
-      "captureToActiveFile": false,
+      "captureToActiveFile": true,
       "captureToCanvasNodeId": "",
       "activeFileWritePosition": "cursor",
       "createFileIfItDoesntExist": {
@@ -17,8 +17,8 @@
         "template": ""
       },
       "format": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "<small>{{selected}}</small>"
       },
       "insertAfter": {
         "enabled": false,

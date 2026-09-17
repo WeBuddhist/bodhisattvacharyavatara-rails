@@ -195,8 +195,8 @@ a signal that the review step is not happening.
 | མཁན་པོ་ཀུན་བཟང་དཔལ་ལྡན་ | Khenpo Kunzang Palden | Day 38 | pending |
 | སློབ་དཔོན་ཀླུ་སྒྲུབ་ | Master Nagarjuna | Day 40 | pending |
 | རྒྱལ་པོ་གསལ་རྒྱལ་ | King Prasenajit | Day 41 | pending |
-| སྤྲང་པོ་ས་ད་ | the beggar Sada | Day 41 | pending |
 | ཡི་རང་ | rejoice | Day 41 | pending |
+| སྤྲང་པོ་ས་ད་ | the beggar Sada | Day 41 | pending |
 | བཙུན་ཏ་ | Chunda, the blacksmith's son (Hindi चुंदा) | Day 43 | pending |
 | བདུད་བཞི་ | the four maras | Day 43 | pending |
 | མྱ་ངན་ལས་འདའ་བ་ | pass into nirvana | Day 43 | pending |
@@ -253,3 +253,6 @@ a signal that the review step is not happening.
 | བརྩོན་འགྲུས་མི་གཏོང་བ། | _(Not giving up the effort)_ — NEW CATEGORY, needs approval | Day 68 | pending |
 | དཀའ་སྤྱད་དང་དུ་ལེན་པ། | _(Welcoming hardship)_ — NEW CATEGORY, needs approval | Day 69 | pending |
 | ཟླ་བ་སྒྲོན་མེའི་མདོ་ | the Chandrapradipa Sutra | Day 73 | pending |
+| སེང་གྷ་ལའི་གླིང་ | Simhala Island | Day 75 | pending |
+| འགྲོ་བ་རྣམ་འབྱེད་ཀྱི་མདོ | the Sutra Distinguishing Rebirths (tentative rendering; traditional Sanskrit title not yet confirmed) | Day 76 | pending |
+| རྒྱལ་པོ་གཙུག་ན་རིན་པོ་ཆེ | King Manicuda (tentative identification with the Jataka figure Maṇicūḍa; not yet confirmed) | Day 78 | pending |

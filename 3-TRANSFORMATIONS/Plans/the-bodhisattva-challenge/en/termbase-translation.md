@@ -256,3 +256,5 @@ a signal that the review step is not happening.
 | སེང་གྷ་ལའི་གླིང་ | Simhala Island | Day 75 | pending |
 | འགྲོ་བ་རྣམ་འབྱེད་ཀྱི་མདོ | the Sutra Distinguishing Rebirths (tentative rendering; traditional Sanskrit title not yet confirmed) | Day 76 | pending |
 | རྒྱལ་པོ་གཙུག་ན་རིན་པོ་ཆེ | King Manicuda (tentative identification with the Jataka figure Maṇicūḍa; not yet confirmed) | Day 78 | pending |
+| རང་སངས་རྒྱས | solitary realizer | Day 80 | pending |
+| སེམས་ཀྱི་གསང་བ | the secret of the mind | Day 80 | pending |

@@ -1,6 +1,6 @@
 ---
 book_id: BCAC19_KKP_bo
-title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཚིག་འགྲེལ་འཇམ་དབྱངས་བླ་མའི་ཞལ་ལུང་བདུད་རྩིའི་ཐིག་པ། 
+title_in_the_text: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཚིག་འགྲེལ་འཇམ་དབྱངས་བླ་མའི་ཞལ་ལུང་བདུད་རྩིའི་ཐིག་པ།
 title_in_english: "Notes and Word-Commentary on the Bodhicaryāvatāra: Nectar Drops — Oral Teachings of the Mañjuśrī Lama"
 author: མཁན་པོ་ཀུན་བཟང་དཔལ་ལྡན། 
 author_in_english: Khenpo Kunzang Palden (Khenpo Kunpal)
@@ -9,6 +9,7 @@ language: Tibetan
 lang_tag: bo
 source_description: ""
 status: 1-segmented
+title:
 ---
 ༄༅། །བོདྷིསཏྭསྱསམརྠནམིཔྲཔྲྀཏྟེཿབིབྲྀཏྟིམཉྫགུརོསུབདེཤཱམྲྀཏསྱཱཡཤིནྟུབིརཧཏིསྨྲ། །
 ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་ཚིག་འགྲེལ་འཇམ་དབྱངས་བླ་མའི་ཞལ་ལུང་བདུད་རྩིའི་ཐིག་པ་བཞུགས་སོ། །

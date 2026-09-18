@@ -1343,9 +1343,9 @@ the training cannot be upheld. ^5-1
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^5-2]]
 
-Just as an untamed, wild elephant
-inflicts immeasurable harm,
-a wild, untamed mind-elephant
+Just as an unteamed mind-elephant 
+inflicts immeasurable harm, 
+an untamed wild elephant 
 does not inflict such harm in this world. ^5-2
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^5-3]]

@@ -14,9 +14,9 @@ source_description: "Wallace, Vesna A. and B. Alan Wallace (2009). A Guide to th
 
 # A Guide to the Bodhisattva Way of Life ^0
 
-## 0. Introduction ^I-0
+## Introduction ^I-0
 
-## 1. The Benefit of the Spirit of Awakening ^1-0
+## The Benefit of the Spirit of Awakening ^1-0
 
 Reverently bowing to the Sugatas, 
 who are endowed with the Dharmakāya, 
@@ -170,7 +170,7 @@ I pay homage to the bodies of those in whom this precious jewel of the mind has 
 I go for refuge to those who are mines of joy, 
 toward whom even an offense results in happiness. ^1-36
 
-## 2. The Confession of Sin ^2-0
+## The Confession of Sin ^2-0
 
 In order to adopt that jewel of the mind, 
 I make offerings to the Tathāgatas, 
@@ -476,7 +476,7 @@ May the Guides be aware of my transgressions together with my iniquity.
 O Protectors, 
 may I not commit this evil again! ^2-66
 
-## 3. Adopting the Spirit of Awakening ^3-0
+## Adopting the Spirit of Awakening ^3-0
 
 I happily rejoice in the virtue of all sentient beings, 
 which relieves the suffering of the miserable states of existence. 
@@ -597,7 +597,7 @@ May the gods,
 asuras, 
 and others rejoice in the presence of all the Protectors! ^3-33
 
-## 4. Attending to the Spirit of Awakening ^4-0
+## Attending to the Spirit of Awakening ^4-0
 
 Thus, 
 upon firmly adopting the Spirit of Awakening, 
@@ -825,7 +825,7 @@ After pondering in this way,
 I shall make an effort to apply the teachings as they have been explained. 
 How can someone who could be cured by medicine be restored to health if he strays from the physician's advice? ^4-48
 
-## 5. Guarding Introspection ^5-0
+## Guarding Introspection ^5-0
 
 Those who wish to protect their practice should zealously guard the mind. 
 The practice cannot be protected without guarding the unsteady mind. ^5-1
@@ -1304,7 +1304,7 @@ I shall practice it with my body.
 What is the use of merely reading the words? 
 Will a sick person have any benefit merely by reading about medical treatments? ^5-109
 
-## 6. The Perfection of Patience ^6-0
+## The Perfection of Patience ^6-0
 
 Anger destroys all the good conduct, 
 such as generosity and worshiping the Sugatas, 
@@ -1914,7 +1914,7 @@ charisma,
 long life, 
 and the abundant joy of a Cakravarti. ^6-134
 
-## 7. The Perfection of Zeal ^7-0
+## The Perfection of Zeal ^7-0
 
 Thus, 
 one who has patience should cultivate zeal, 
@@ -2284,7 +2284,7 @@ Just as cotton is swayed in the direction of the wind's coming and going,
 so should one surrender oneself to one's enthusiasm, 
 and in this way one's supernormal powers will thrive. ^7-75
 
-## 8. The Perfection of Meditation ^8-0
+## The Perfection of Meditation ^8-0
 
 Upon developing zeal in that way, 
 one should stabilize the mind in meditative concentration, 
@@ -3105,7 +3105,7 @@ Therefore,
 withdrawing the mind from evil ways, 
 I shall always concentrate it on its own meditative object to eliminate obscurations. ^8-186
 
-## 9. The Perfection of Wisdom ^9-0
+## The Perfection of Wisdom ^9-0
 
 The Sage taught this entire system for the sake of wisdom. 
 Therefore, 
@@ -3942,7 +3942,7 @@ with the requisites of happiness springing forth from the clouds of my merit? ^9
 
 When shall I respectfully teach emptiness and the accumulation of merit—in terms of conventional truth and without reification—to those whose views are reified? ^9-167
 
-## 10. Dedication ^10-0
+## Dedication ^10-0
 
 May all sentient beings be graced with the Bodhisattva way of life by the virtue I have obtained while reflecting on A Guide to the Bodhisattva Way of Life. ^10-1
 

@@ -1,4 +1,4 @@
-## 1. Chapter One: Explaining the Benefits of the Mind of Awakening ^1-0
+## Chapter One: Explaining the Benefits of the Mind of Awakening ^1-0
 
 I bow respectfully to the buddhas, their spiritual children,
 who embody the truth, and all worthy ones.

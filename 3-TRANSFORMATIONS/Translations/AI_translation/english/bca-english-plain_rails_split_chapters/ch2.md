@@ -1,4 +1,4 @@
-## 2. Chapter Two: Confession of Misdeeds ^2-0
+## Chapter Two: Confession of Misdeeds ^2-0
 
 To take hold of the precious Mind of Awakening,
 I offer excellent homage to the buddhas, the sacred Dharma,

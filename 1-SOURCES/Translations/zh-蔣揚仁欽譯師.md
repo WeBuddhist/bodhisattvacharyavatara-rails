@@ -21,7 +21,7 @@ toc_id: a8YYKeutqcyzLZQ7j3LID
 
 # 入菩薩行論 ^0
 
-## 1. 第一品 菩提心利益 ^1-0
+## 第一品 菩提心利益 ^1-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-1]]
 
@@ -275,7 +275,7 @@ toc_id: a8YYKeutqcyzLZQ7j3LID
 誰令怨敵樂，
 歸敬彼樂源。 ^1-36
 
-## 2. 第二品 懺悔罪業 ^2-0
+## 第二品 懺悔罪業 ^2-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-1]]
 
@@ -732,7 +732,7 @@ toc_id: a8YYKeutqcyzLZQ7j3LID
 此既非善行，
 爾後誓不為！ ^2-65
 
-## 3. 第三品 受持菩提心 ^3-0
+## 第三品 受持菩提心 ^3-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-1]]
 
@@ -969,7 +969,7 @@ toc_id: a8YYKeutqcyzLZQ7j3LID
 宴饗成佛樂，
 普願皆歡喜。 ^3-34
 
-## 4. 第四品 不放逸 ^4-0
+## 第四品 不放逸 ^4-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^4-1]]
 
@@ -1330,7 +1330,7 @@ toc_id: a8YYKeutqcyzLZQ7j3LID
 若不遵醫囑，
 病患何能癒？ ^4-48
 
-## 5. 第五品 護正知 ^5-0
+## 第五品 護正知 ^5-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^5-1]]
 
@@ -2094,7 +2094,7 @@ toc_id: a8YYKeutqcyzLZQ7j3LID
 唯閱療病方，
 疾患云何癒？ ^5-109
 
-## 6. 第六品 安忍 ^6-0
+## 第六品 安忍 ^6-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^6-1]]
 
@@ -3030,7 +3030,7 @@ toc_id: a8YYKeutqcyzLZQ7j3LID
 譽雅命久長、
 樂等轉輪王。 ^6-134
 
-## 7. 第七品 精進 ^7-0
+## 第七品 精進 ^7-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-1]]
 
@@ -3577,7 +3577,7 @@ toc_id: a8YYKeutqcyzLZQ7j3LID
 身心若振奮，
 眾善皆易成。 ^7-76
 
-## 8. 第八品 靜慮 ^8-0
+## 第八品 靜慮 ^8-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-1]]
 
@@ -4883,7 +4883,7 @@ toc_id: a8YYKeutqcyzLZQ7j3LID
 並於正所緣，
 恆常修三眛。 ^8-187
 
-## 9. 第九品 智慧 ^9-0
+## 第九品 智慧 ^9-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^9-1]]
 
@@ -6053,7 +6053,7 @@ toc_id: a8YYKeutqcyzLZQ7j3LID
 於執有眾生，
 開示空性理？ ^9-167
 
-## 10. 第十品 迴向 ^10-0
+## 第十品 迴向 ^10-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^10-1]]
 

@@ -1,4 +1,4 @@
-## 8. Chapter Eight: Teaching on Meditation ^8-0
+## Chapter Eight: Teaching on Meditation ^8-0
 
 When diligence has thus been generated,
 the mind should be settled in meditation.

@@ -1,4 +1,4 @@
-## 8. Chapter Eight: The Practice of Meditation ^8-0
+## Chapter Eight: The Practice of Meditation ^8-0
 
 Having developed such effort,
 Place your mind in meditation.

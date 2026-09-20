@@ -1,4 +1,4 @@
-## 2. Chapter Two: Confession of Wrongdoings ^2-0
+## Chapter Two: Confession of Wrongdoings ^2-0
 
 
 To take hold of that precious mind,

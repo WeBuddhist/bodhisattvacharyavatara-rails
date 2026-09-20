@@ -1,5 +1,23 @@
 #!/usr/bin/env python3
-"""Parse linter output files and produce clean API-ready payloads."""
+"""Parse linter output files and produce clean API-ready payloads.
+
+HEADINGS ARE NOT CONTENT (policy, 2026-09-20).
+
+Markdown headings (`#`, `##`, ...) are editorial structure added to the text,
+not part of the text. They belong to the table of contents and nowhere else.
+So `build_edition` keeps every heading line OUT of both the `content` string
+and the `segmentation` — no `type: "title"` segment is ever emitted — while
+`build_toc` builds the TOC from the headings it recorded on the way past.
+
+The headings stay in the source markdown: they are what `build_toc` reads, and
+what a human navigates by. Only the uploaded payload is heading-free.
+
+A TOC section's span is therefore [where the heading's body begins, where the
+next heading of the same or higher level begins) — measured in the
+heading-free content. This is exactly the shape the backend holds after the
+2026-09-20 title-segment sweep, so a regenerated TOC lines up with editions
+that were cleaned in place rather than re-uploaded.
+"""
 
 from __future__ import annotations
 
@@ -193,8 +211,15 @@ def extract_text_input(lint_path):
 # ---------------------------------------------------------------------------
 
 def _build_content_and_segmentation(blocks, doc_default):
+    """Returns (content, segments, headings).
+
+    `headings` is the TOC's raw material — one entry per heading block, each
+    carrying the offset in the heading-free content at which that heading's
+    body starts. Headings contribute nothing to `content` or `segments`.
+    """
     parts = []
     seg_list = []
+    headings = []
     pos = 0
 
     for block_num, block in enumerate(blocks, start=1):
@@ -214,17 +239,17 @@ def _build_content_and_segmentation(blocks, doc_default):
         ref_no_caret = ref[1:] if ref.startswith("^") else ref
 
         if is_header:
+            # Recorded for the TOC, then dropped: `pos` is not advanced and no
+            # segment is appended, so the heading leaves no trace in the
+            # uploaded content or segmentation. `pos` is where this heading's
+            # body begins, which becomes the TOC section's span start.
             text = raw_lines[0].lstrip('#').strip()
             ref_idx = text.rfind(ref)
             if ref_idx != -1:
                 text = text[:ref_idx].rstrip()
             if not text:
                 continue
-            start = pos
-            parts.append(text)
-            pos += len(text)
-            line_spans = [{"start": start, "end": start + len(text)}]
-            seg_list.append({"lines": line_spans, "type": "title", "reference": ref_no_caret})
+            headings.append({"reference": ref_no_caret, "title": text, "pos": pos})
         else:
             line_spans = []
             for raw_line in content_lines:
@@ -245,7 +270,7 @@ def _build_content_and_segmentation(blocks, doc_default):
             seg_type = _infer_segment_type(ref_no_caret, doc_default)
             seg_list.append({"lines": line_spans, "type": seg_type, "reference": ref_no_caret})
 
-    return "".join(parts), seg_list
+    return "".join(parts), seg_list, headings
 
 
 def build_edition(source_path, lint_path):
@@ -268,7 +293,7 @@ def build_edition(source_path, lint_path):
     else:
         doc_default = "paragraph" if fm.get("commentary_of") else "verse"
 
-    content_str, seg_list = _build_content_and_segmentation(blocks, doc_default)
+    content_str, seg_list, headings = _build_content_and_segmentation(blocks, doc_default)
 
     edition_type = fm.get("edition_type", "critical")
     source_url = (
@@ -287,7 +312,9 @@ def build_edition(source_path, lint_path):
     out_path = OUTPUT_DIR / f"{stem}.edition.json"
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
-    return out_path, out
+    # `_headings` is handed to build_toc in memory and is deliberately absent
+    # from the written payload — it is TOC input, not edition data.
+    return out_path, {**out, "_headings": headings}
 
 
 # ---------------------------------------------------------------------------
@@ -303,28 +330,36 @@ def build_toc(source_path, edition_result):
     content_len = len(content)
     header_levels = _extract_header_levels(body)
 
+    # Headings are no longer in the content or the segmentation, so the TOC is
+    # built from what build_edition recorded on the way past. Each heading's
+    # `pos` is where its body starts in the heading-free content, which serves
+    # as both this section's span start and the previous section's span end —
+    # there is no longer a heading occupying characters in between.
+    headings = edition_result.get("_headings")
+    if headings is None:
+        # An edition.json read back from disk has no headings recorded; fall
+        # back to the pre-2026-09-20 layout where they were title segments.
+        headings = [
+            {"reference": seg.get("reference", ""),
+             "title": content[seg["lines"][0]["start"]:seg["lines"][0]["end"]],
+             "pos": seg["lines"][0]["end"]}
+            for seg in segments if seg.get("type") == "title"
+        ]
+
     title_nodes = []
-    for seg in segments:
-        if seg.get("type") != "title":
-            continue
-        ref = seg.get("reference", "")
-        level = header_levels.get(ref, 1)
-        char_start = seg["lines"][0]["start"]
-        char_end = seg["lines"][0]["end"]
-        title_text = _wylie_to_unicode(content[char_start:char_end], lang_tag)
+    for h in headings:
         title_nodes.append({
-            "level": level,
-            "title_char_start": char_start,
-            "span_start": char_end,
-            "title": title_text,
-            "ref": ref,
+            "level": header_levels.get(h["reference"], 1),
+            "span_start": h["pos"],
+            "title": _wylie_to_unicode(h["title"], lang_tag),
+            "ref": h["reference"],
         })
 
     for i, node in enumerate(title_nodes):
         span_end = content_len
         for j in range(i + 1, len(title_nodes)):
             if title_nodes[j]["level"] <= node["level"]:
-                span_end = title_nodes[j]["title_char_start"]
+                span_end = title_nodes[j]["span_start"]
                 break
         node["span_end"] = span_end
 

@@ -20,9 +20,9 @@ toc_id: k3573OsFt9xKk1919Fd2r
 
 # A Guide to the Bodhisattva Way of Life ^0
 
-## 0. Introduction ^I-0
+## Introduction ^I-0
 
-## 1. The Benefit of the Spirit of Awakening ^1-0
+## The Benefit of the Spirit of Awakening ^1-0
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^1-1]]
 
@@ -168,7 +168,7 @@ But if one's mind is kindly inclined, one will bring forth an even greater fruit
 
 I pay homage to the bodies of those in whom this precious jewel of the mind has arisen. I go for refuge to those who are mines of joy, toward whom even an offense results in happiness. ^1-36
 
-## 2. The Confession of Sin ^2-0
+## The Confession of Sin ^2-0
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^2-1]]
 
@@ -430,7 +430,7 @@ Terrified of suffering, all this I confess, standing with folded hands in the pr
 
 May the Guides be aware of my transgressions together with my iniquity. O Protectors, may I not commit this evil again! ^2-66
 
-## 3. Adopting the Spirit of Awakening ^3-0
+## Adopting the Spirit of Awakening ^3-0
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^3-1]]
 
@@ -564,7 +564,7 @@ For the caravan of beings traveling on the path of mundane existence and starvin
 
 Today I invite the world to Sugatahood and temporal happiness. May the gods, asuras, and others rejoice in the presence of all the Protectors! ^3-33
 
-## 4. Attending to the Spirit of Awakening ^4-0
+## Attending to the Spirit of Awakening ^4-0
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^4-1]]
 
@@ -758,7 +758,7 @@ Mental afflictions do not exist in sense objects, nor in the sense faculties, no
 
 After pondering in this way, I shall make an effort to apply the teachings as they have been explained. How can someone who could be cured by medicine be restored to health if he strays from the physician's advice? ^4-48
 
-## 5. Guarding Introspection ^5-0
+## Guarding Introspection ^5-0
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^5-1]]
 
@@ -1192,7 +1192,7 @@ In brief, this alone is the definition of introspection: the repeated examinatio
 
 I shall practice it with my body. What is the use of merely reading the words? Will a sick person have any benefit merely by reading about medical treatments? ^5-109
 
-## 6. The Perfection of Patience ^6-0
+## The Perfection of Patience ^6-0
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^6-1]]
 
@@ -1730,7 +1730,7 @@ Let alone future Buddhahood, do you not see that in this life, fortune, fame, an
 
 While transmigrating, a patient person attains beauty, health, charisma, long life, and the abundant joy of a Cakravarti. ^6-134
 
-## 7. The Perfection of Zeal ^7-0
+## The Perfection of Zeal ^7-0
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^7-1]]
 
@@ -2032,7 +2032,7 @@ Bringing to mind the teaching on conscientiousness, one should arouse oneself so
 
 Just as cotton is swayed in the direction of the wind's coming and going, so should one surrender oneself to one's enthusiasm, and in this way one's supernormal powers will thrive. ^7-75
 
-## 8. The Perfection of Meditation ^8-0
+## The Perfection of Meditation ^8-0
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^8-1]]
 
@@ -2778,7 +2778,7 @@ So enough of worldly conduct! Recalling the teaching on conscientiousness and wa
 
 Therefore, withdrawing the mind from evil ways, I shall always concentrate it on its own meditative object to eliminate obscurations. ^8-186
 
-## 9. The Perfection of Wisdom ^9-0
+## The Perfection of Wisdom ^9-0
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^9-1]]
 
@@ -3488,7 +3488,7 @@ Thus, when might I bring relief to those tormented by the fire of suffering, wit
 
 When shall I respectfully teach emptiness and the accumulation of merit—in terms of conventional truth and without reification—to those whose views are reified? ^9-167
 
-## 10. Dedication ^10-0
+## Dedication ^10-0
 
 ![[1-SOURCES/Text/BCAV08_SH_sk.md#^10-1]]
 

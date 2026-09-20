@@ -20,7 +20,7 @@ toc_id: TihAXeCXX5XQzQGwL2M0C
 ---
 # Engaging in the Bodhisattva's Way of Life ^0
 
-## 0. Introduction ^I-0
+## Introduction ^I-0
 
 In Sanskrit: Bodhisattvacaryāvatāra ^I-1
 
@@ -28,7 +28,7 @@ In Tibetan: Engaging in the Bodhisattva's Way of Life ^I-2
 
 Homage to all Buddhas and Bodhisattvas! ^I-3
 
-## 1. Chapter One: Explaining the Benefits of the Mind of Awakening ^1-0
+## Chapter One: Explaining the Benefits of the Mind of Awakening ^1-0
 
 
 I respectfully bow to the Enlightened Ones, who embody the ultimate truth, and their spiritual children,
@@ -242,7 +242,7 @@ I take refuge in that source of happiness. ^1-36
 
 From *Engaging in the Bodhisattva's Way of Life*, this is the first chapter, called "Explaining the Benefits of the Mind of Awakening." ^1-a
 
-## 2. Chapter Two: Confession of Wrongdoings ^2-0
+## Chapter Two: Confession of Wrongdoings ^2-0
 
 
 To take hold of that precious mind,
@@ -637,7 +637,7 @@ I will never commit them again in the future. ^2-65
 
 From "Engaging in the Bodhisattva's Way of Life," this is the second chapter, "Confession of Wrongdoings." ^2-a
 
-## 3. Chapter Three: Taking Hold of the Mind of Awakening ^3-0
+## Chapter Three: Taking Hold of the Mind of Awakening ^3-0
 
 
 I rejoice with joy
@@ -842,7 +842,7 @@ May the gods and other beings rejoice! ^3-33
 
 From "Engaging in the Way of Life of an Awakening Hero," this is the third chapter, called "Taking Hold of the Mind of Awakening." ^3-a
 
-## 4. Chapter Four: The Teaching on Carefulness ^4-0
+## Chapter Four: The Teaching on Carefulness ^4-0
 
 
 Thus, having firmly taken hold
@@ -1136,7 +1136,7 @@ How can they be cured by medicine? ^4-48
 From "Engaging in the Conduct of a Bodhisattva,"
 This is the fourth chapter, called "The Teaching on Carefulness." ^4-a
 
-## 5. Chapter Five: Guarding Awareness ^5-0
+## Chapter Five: Guarding Awareness ^5-0
 
 
 Those who wish to keep their training
@@ -1792,7 +1792,7 @@ Benefit the sick? ^5-109
 
 From *Engaging in the Bodhisattva Deeds*, Chapter Five: Guarding Awareness. ^5-a
 
-## 6. Chapter Six: The Teaching on Patience ^6-0
+## Chapter Six: The Teaching on Patience ^6-0
 
 Accumulated over a thousand eons,
 acts of generosity, offerings to enlightened ones, and so on—
@@ -2596,7 +2596,7 @@ and the great happiness of a universal monarch. ^6-134
 
 From "Engaging in the Conduct of a Bodhisattva," this is the sixth chapter, called "The Teaching on Patience." ^6-a
 
-## 7. The Practice of Diligence ^7-0
+## The Practice of Diligence ^7-0
 
 
 Thus, with patience, cultivate diligence.
@@ -3052,7 +3052,7 @@ And then one will succeed. ^7-75
 
 From Engaging in the Bodhisattva's Conduct, this is the seventh chapter, called "The Practice of Diligence." ^7-a
 
-## 8. Chapter Eight: The Practice of Meditation ^8-0
+## Chapter Eight: The Practice of Meditation ^8-0
 
 Having developed such effort,
 Place your mind in meditation.
@@ -3974,7 +3974,7 @@ Keep my mind steadily focused on the true object. ^8-185
 
 This concludes the eighth chapter, called "Showing Meditation," from *Engaging in the Deeds of a Bodhisattva*. ^8-a
 
-## 9. Chapter Nine: The Perfection of Wisdom ^9-0
+## Chapter Nine: The Perfection of Wisdom ^9-0
 
 
 All these practices,
@@ -4979,7 +4979,7 @@ Who are ruined by conceptualization? ^9-167
 
 From "Engaging in the Bodhisattva's Conduct," this is the ninth chapter, "The Perfection of Wisdom." ^9-a
 
-## 10. Chapter Ten: Dedication ^10-0
+## Chapter Ten: Dedication ^10-0
 
 
 May all beings,

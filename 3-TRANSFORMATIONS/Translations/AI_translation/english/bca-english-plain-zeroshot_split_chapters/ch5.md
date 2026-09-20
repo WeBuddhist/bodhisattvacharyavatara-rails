@@ -1,4 +1,4 @@
-## 5. Chapter Five: Guarding Awareness ^5-0
+## Chapter Five: Guarding Awareness ^5-0
 
 
 Those who wish to keep their training

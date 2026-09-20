@@ -1,6 +1,6 @@
 # Engaging in the Bodhisattva's Way of Life ^0
 
-## 0. Introduction ^I-0
+## Introduction ^I-0
 
 In Sanskrit: Bodhisattvacaryāvatāra ^I-1
 

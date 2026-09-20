@@ -1,4 +1,4 @@
-## 9. Chapter Nine: The Perfection of Wisdom ^9-0
+## Chapter Nine: The Perfection of Wisdom ^9-0
 
 
 All these practices,

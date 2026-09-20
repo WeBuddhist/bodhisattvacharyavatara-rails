@@ -1,4 +1,4 @@
-## 7. Chapter Seven: Practice of Diligence ^7-0
+## Chapter Seven: Practice of Diligence ^7-0
 
 Having cultivated patience in that way, cultivate diligence.
 Awakening dwells in diligence like this:

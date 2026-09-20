@@ -1,4 +1,4 @@
-## 6. Chapter Six: Teaching on Patience ^6-0
+## Chapter Six: Teaching on Patience ^6-0
 
 Good deeds accumulated over a thousand eons,
 such as generosity and offerings to buddhas—

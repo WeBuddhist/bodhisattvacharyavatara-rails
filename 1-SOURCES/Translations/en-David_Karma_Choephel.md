@@ -18,7 +18,7 @@ toc_id: DcxVX8SompHPXCXVpTNF4
 ---
 # Entering the Way of the Bodhisattva ^0
 
-## 0. Introduction ^I-0
+## Introduction ^I-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^I-1]]
 
@@ -32,7 +32,7 @@ In Tibetan: Byang chub sems dpa’i spyod pa la ’jug pa ^I-2
 
 I prostrate to all buddhas and bodhisattvas. ^I-3
 
-## 1. Explaining the Benefits of Bodhichitta ^1-0
+## Explaining the Benefits of Bodhichitta ^1-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-1]]
 
@@ -291,7 +291,7 @@ I go for refuge to the wellsprings of joy. ^1-36
 
 The first chapter, “Explaining the Benefits of Bodhichitta,” from Entering the Way of the Bodhisattva. ^1-a
 
-## 2. Confessing Misdeeds ^2-0
+## Confessing Misdeeds ^2-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-1]]
 
@@ -753,7 +753,7 @@ I’ll never do such acts again. ^2-65
 
 The second chapter, “Confessing Misdeeds,” from Entering the Way of the Bodhisattva. ^2-a
 
-## 3. Embracing Bodhichitta ^3-0
+## Embracing Bodhichitta ^3-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-1]]
 
@@ -993,7 +993,7 @@ Gods, demigods, and everyone rejoice! ^3-34
 
 The third chapter, “Embracing Bodhichitta,” from Entering the Way of the Bodhisattva. ^3-a
 
-## 4. Teachings on Carefulness ^4-0
+## Teachings on Carefulness ^4-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^4-1]]
 
@@ -1336,7 +1336,7 @@ Be cured if they ignore the doctor’s advice? ^4-48
 
 The fourth chapter, “Teachings on Carefulness,” from Entering the Way of the Bodhisattva. ^4-a
 
-## 5. Guarding Awareness ^5-0
+## Guarding Awareness ^5-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^5-1]]
 
@@ -2105,7 +2105,7 @@ Bring benefit to patients? ^5-109
 
 The fifth chapter, “Guarding Awareness,” from Entering the Way of the Bodhisattva. ^5-a
 
-## 6. Transcendent Patience ^6-0
+## Transcendent Patience ^6-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^6-1]]
 
@@ -3051,7 +3051,7 @@ And a chakravarti’s pleasures. ^6-134
 
 The sixth chapter, “Transcendent Patience,” from Entering the Way of the Bodhisattva. ^6-a
 
-## 7. Teachings on Diligence ^7-0
+## Teachings on Diligence ^7-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-1]]
 
@@ -3599,7 +3599,7 @@ Direction of enthusiasm. ^7-77
 
 The seventh chapter, “Teachings on Diligence,” from Entering the Way of the Bodhisattva. ^7-a
 
-## 8. Teachings on Meditation ^8-0
+## Teachings on Meditation ^8-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-1]]
 
@@ -4911,7 +4911,7 @@ In equipoise with the right focus. ^8-187
 
 The eighth chapter, “Teachings on Meditation,” from Entering the Way of the Bodhisattva. ^8-a
 
-## 9. Transcendent Prajna ^9-0
+## Transcendent Prajna ^9-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^9-1]]
 
@@ -6089,7 +6089,7 @@ Whose focus brings them ruin? ^9-167
 
 The ninth chapter, “Transcendent Prajna,” from Entering the Way of the Bodhisattva. ^9-a
 
-## 10. Dedication ^10-0
+## Dedication ^10-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^10-1]]
 

@@ -18,7 +18,7 @@ toc_id: FAVKVvd9OVfrkmq2YMEVG
 
 # Engaging in Bodhisattva Conduct ^0
 
-## 0. Introduction ^I-0
+## Introduction ^I-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^I-1]]
 
@@ -32,7 +32,7 @@ In the Tibetan language: Engaging in Bodhisattva Conduct ^I-2
 
 Homage to all Buddhas and Bodhisattvas! ^I-3
 
-## 1. Chapter One: Explaining the Benefits of the Mind of Awakening ^1-0
+## Chapter One: Explaining the Benefits of the Mind of Awakening ^1-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^1-1]]
 
@@ -290,7 +290,7 @@ who, even when harmed, brings about happiness. ^1-36
 
 This concludes the first chapter of Engaging in Bodhisattva Conduct, "Explaining the Benefits of the Mind of Awakening." ^1-a
 
-## 2. Chapter Two: Confession of Misdeeds ^2-0
+## Chapter Two: Confession of Misdeeds ^2-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-1]]
 
@@ -751,7 +751,7 @@ I will never commit them again. ^2-65
 
 This concludes the second chapter of Engaging in Bodhisattva Conduct, "Confession of Misdeeds." ^2-a
 
-## 3. Chapter Three: Taking Hold of the Mind of Awakening ^3-0
+## Chapter Three: Taking Hold of the Mind of Awakening ^3-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-1]]
 
@@ -990,7 +990,7 @@ Therefore, gods, demigods, and others, rejoice! ^3-33
 
 This concludes the third chapter of Engaging in Bodhisattva Conduct, "Taking Hold of the Mind of Awakening." ^3-a
 
-## 4. Chapter Four: Teaching on Carefulness ^4-0
+## Chapter Four: Teaching on Carefulness ^4-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^4-1]]
 
@@ -1332,7 +1332,7 @@ how can that patient, needing treatment, be cured by medicines? ^4-48
 
 This concludes the fourth chapter of Engaging in Bodhisattva Conduct, "Teaching on Carefulness." ^4-a
 
-## 5. Chapter Five: Guarding Awareness ^5-0
+## Chapter Five: Guarding Awareness ^5-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^5-1]]
 
@@ -2101,7 +2101,7 @@ benefit sick people? ^5-109
 
 This concludes the fifth chapter of Engaging in Bodhisattva Conduct, "Guarding Awareness." ^5-a
 
-## 6. Chapter Six: Teaching on Patience ^6-0
+## Chapter Six: Teaching on Patience ^6-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^6-1]]
 
@@ -3046,7 +3046,7 @@ and attains the great happiness of a universal monarch. ^6-134
 
 This concludes the sixth chapter of Engaging in Bodhisattva Conduct, "Teaching on Patience." ^6-a
 
-## 7. Chapter Seven: Practice of Diligence ^7-0
+## Chapter Seven: Practice of Diligence ^7-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-1]]
 
@@ -3578,7 +3578,7 @@ One will succeed in that way. ^7-75
 
 This concludes the seventh chapter of Engaging in Bodhisattva Conduct, "Practice of Diligence." ^7-a
 
-## 8. Chapter Eight: Teaching on Meditation ^8-0
+## Chapter Eight: Teaching on Meditation ^8-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-1]]
 
@@ -4879,7 +4879,7 @@ I will settle myself in meditation. ^8-185
 
 This concludes the eighth chapter of Engaging in Bodhisattva Conduct, "Teaching on Meditation." ^8-a
 
-## 9. Chapter Nine: The Perfection of Wisdom ^9-0
+## Chapter Nine: The Perfection of Wisdom ^9-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^9-1]]
 
@@ -6055,7 +6055,7 @@ To those who are ruined by objects? ^9-167
 
 This concludes the ninth chapter of Engaging in Bodhisattva Conduct, "The Perfection of Wisdom." ^9-a
 
-## 10. Chapter Ten: Dedication ^10-0
+## Chapter Ten: Dedication ^10-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^10-1]]
 

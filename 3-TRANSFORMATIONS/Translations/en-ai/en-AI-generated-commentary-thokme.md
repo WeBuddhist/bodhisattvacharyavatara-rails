@@ -155,7 +155,7 @@ And if, by some chance, others of equal fortune who seek the conduct of the Hero
 
 Expressing humility in this way shows that the author is free from pride, and if any faults arise, they will be forgiven. ^0-3-39
 
-## 1. Chapter One: Explaining the Benefits of the Mind of Enlightenment (བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་ཕན་ཡོན་བཤད་པ།) ^1-0
+## Chapter One: Explaining the Benefits of the Mind of Enlightenment (བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་ཕན་ཡོན་བཤད་པ།) ^1-0
 
 ### 1.1 First, the explanation of the chapter has two parts: the text of the chapter, and the title of the chapter. ^1-1-0
 

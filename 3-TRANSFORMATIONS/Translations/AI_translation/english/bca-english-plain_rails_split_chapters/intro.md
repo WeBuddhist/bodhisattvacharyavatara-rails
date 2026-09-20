@@ -1,6 +1,6 @@
 # Engaging in Bodhisattva Conduct ^0
 
-## 0. Introduction ^I-0
+## Introduction ^I-0
 
 In the language of India: Bodhicaryāvatāra ^I-1
 

@@ -1,4 +1,4 @@
-## 4. Chapter Four: Teaching on Carefulness ^4-0
+## Chapter Four: Teaching on Carefulness ^4-0
 
 Having firmly taken hold of the Mind of Awakening,
 the spiritual children of the buddhas

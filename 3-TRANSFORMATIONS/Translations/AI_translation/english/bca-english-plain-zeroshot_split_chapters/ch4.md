@@ -1,4 +1,4 @@
-## 4. Chapter Four: The Teaching on Carefulness ^4-0
+## Chapter Four: The Teaching on Carefulness ^4-0
 
 
 Thus, having firmly taken hold

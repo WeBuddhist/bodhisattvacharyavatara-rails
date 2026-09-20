@@ -1,4 +1,4 @@
-## 6. Chapter Six: The Teaching on Patience ^6-0
+## Chapter Six: The Teaching on Patience ^6-0
 
 Accumulated over a thousand eons,
 acts of generosity, offerings to enlightened ones, and so on—

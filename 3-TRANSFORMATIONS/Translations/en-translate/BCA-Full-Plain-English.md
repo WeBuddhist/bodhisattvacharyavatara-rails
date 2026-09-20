@@ -16,7 +16,7 @@ toc_id:
 
 # A Guide to the Bodhisattva's Way of Life ^0
 
-## 0. Introduction ^I-0
+## Introduction ^I-0
 
 In the language of India: Bodhisattva-caryā-avatāra. ^I-1
 

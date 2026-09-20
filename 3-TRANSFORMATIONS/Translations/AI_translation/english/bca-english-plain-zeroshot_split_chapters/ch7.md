@@ -1,4 +1,4 @@
-## 7. The Practice of Diligence ^7-0
+## The Practice of Diligence ^7-0
 
 
 Thus, with patience, cultivate diligence.

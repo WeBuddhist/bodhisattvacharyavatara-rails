@@ -18,9 +18,9 @@ toc_id:
 ---
 # The Way of the Bodhisattva ^0
 
-## 0. Introduction ^I-0
+## Introduction ^I-0
 
-## 1. The Excellence of Bodhichitta ^1-0
+## The Excellence of Bodhichitta ^1-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^I-3]]
 
@@ -278,7 +278,7 @@ Is born—to them I bow!
 I go for refuge to those springs of happiness
 Who bring their very enemies to perfect bliss. ^1-36
 
-## 2. Confession ^2-0
+## Confession ^2-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^2-1]]
 
@@ -735,7 +735,7 @@ To take me as I am, a sinful man.
 And all these actions, evil as they are,
 I promise I will never do again. ^2-65
 
-## 3. Taking Hold of Bodhichitta ^3-0
+## Taking Hold of Bodhichitta ^3-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^3-1]]
 
@@ -971,7 +971,7 @@ I summon beings, calling them to Buddhahood.
 And, till that state is reached, to every earthly joy!
 May gods and demigods and all the rest rejoice!” ^3-34
 
-## 4. Carefulness ^4-0
+## Carefulness ^4-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^4-1]]
 
@@ -1312,7 +1312,7 @@ That I might apply the precepts thus set forth.
 What invalids in need of medicine
 Ignored their doctor’s words and gained their health? ^4-48
 
-## 5. Vigilant Introspection ^5-0
+## Vigilant Introspection ^5-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^5-1]]
 
@@ -2077,7 +2077,7 @@ For what is to be gained by mouthing syllables?
 What invalid was ever helped
 By merely reading in the doctor’s treatises? ^5-109
 
-## 6. Patience ^6-0
+## Patience ^6-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^6-1]]
 
@@ -3017,7 +3017,7 @@ As beauty, health, and good renown.
 Its fruit is great longevity,
 The vast contentment of a universal king. ^6-134
 
-## 7. Diligence ^7-0
+## Diligence ^7-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^7-1]]
 
@@ -3552,7 +3552,7 @@ Impelled by every breath of wind,
 So all I do will be achieved,
 Controlled by movements of a joyful heart. ^7-76
 
-## 8. Meditative Concentration ^8-0
+## Meditative Concentration ^8-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^8-1]]
 
@@ -4859,7 +4859,7 @@ I’ll bend my mind from the mistaken path;
 And constantly upon the perfect object
 I shall rest my mind in even meditation. ^8-187
 
-## 9. Wisdom ^9-0
+## Wisdom ^9-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^9-1]]
 
@@ -6030,7 +6030,7 @@ With reverence but without conceptual target,
 When shall I reveal this truth of emptiness
 To those who go to ruin through belief in real existence? ^9-167
 
-## 10. Dedication ^10-0
+## Dedication ^10-0
 
 ![[1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md#^10-1]]
 

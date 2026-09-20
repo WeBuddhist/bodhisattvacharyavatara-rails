@@ -1,4 +1,4 @@
-## 3. Chapter Three: Taking Hold of the Mind of Awakening ^3-0
+## Chapter Three: Taking Hold of the Mind of Awakening ^3-0
 
 I rejoice in the good deeds
 that bring rest from the suffering of all beings

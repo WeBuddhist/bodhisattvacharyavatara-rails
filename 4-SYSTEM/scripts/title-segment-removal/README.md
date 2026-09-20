@@ -9,9 +9,11 @@ This toolchain removes them with `PATCH /v2/editions/{id}/content`
 `{"type": "delete", "start": S, "end": E}` — one call per title segment — and
 proves, before and after, that nothing else moved.
 
-**Status: staged test executed and verified 2026-09-20 — see
-[`test-run-2026-09-20.md`](test-run-2026-09-20.md). Three titles removed from the
-Tibetan root; 126 ops across 10 editions remain.**
+**Status: COMPLETE 2026-09-20. All 129 title segments removed across all 10
+editions; every edition verified against the simulation. Reports:
+[`test-run-2026-09-20.md`](test-run-2026-09-20.md) (staged test, 3 ops) and
+[`sweep-2026-09-20.md`](sweep-2026-09-20.md) (full sweep, 126 ops). The table of
+contents still needs regenerating.**
 
 ---
 
@@ -205,3 +207,56 @@ editions.
 The table of contents must be regenerated afterwards regardless — the TOC
 sections survived correctly, but their titles are now the only place the heading
 text lives.
+
+---
+
+## Full sweep, 2026-09-20 — result
+
+126 PATCHes across all ten editions, 126 × HTTP 204, no failures and no
+precheck skips. Run bottom-up from a single snapshot; nothing recomputed.
+
+**All ten editions match the simulation byte for byte** — every edition's live
+`content` sha256 equals the sha256 the simulation predicted for it, which means
+the live content is exactly the before-content minus the planned spans and
+nothing else moved.
+
+| | before | after |
+|---|---|---|
+| `type: title` segments, corpus-wide | 129 | **0** |
+| TOC sections | 127 | 127 (all intact, titles preserved) |
+| alignment links | 17 | 17 |
+| alignment pairs | 8,686 | **8,686, entry-by-entry identical** |
+
+End-to-end across both runs (original state → final state): no title segments
+anywhere, no TOC section lost, every pair list byte-identical, and every
+edition's segmentation still tiles its content with no gaps.
+
+In the Tibetan root the TOC now reads as a clean contiguous cover of the whole
+text — `[0,143)` `0. ཀླད་ཀྱི་དོན།`, `[143,5024)` chapter 1, … `[108101,108544)`
+`འགྱུར་བྱང།` — with the heading wording surviving only as TOC section titles,
+which is the end state the policy asks for.
+
+### A false alarm worth recording
+
+The first comparison flagged four editions for "removed title text still present
+in content". All four were the *checker's* fault, not the data's: it tested
+substring membership, and a heading's wording legitimately recurs in the body —
+chapter colophons name the work ("This concludes the sixth chapter of *Engaging
+in Bodhisattva Conduct*…"), and Wallace's closing verse names the text. Each
+string had lost exactly one occurrence, the heading. `compare.py` now counts
+occurrences and requires the count to drop by exactly the number deleted, which
+also catches the opposite error — a delete joining two fragments into a new
+occurrence.
+
+### Still outstanding
+
+1. **Regenerate the table of contents.** The TOC survived correctly, but it is
+   now the only place the heading text lives.
+2. **The headings are still in `1-SOURCES/` markdown** and in any payloads built
+   from it. Re-uploading any edition from those sources would put the titles
+   back. Either the source markdown changes too, or the parser stops emitting
+   `type: title` segments, before anything is re-uploaded. The liturgy run was
+   bitten by the payload-rebuild version of this.
+3. **`ru8JW2ztLc2dNEEibTXra` (Wallace)** still has its pre-existing degenerate
+   TOC section with a zero-length span `[38,38)` — 12 TOC sections against 11
+   headings. Untouched by this work; worth a separate look.

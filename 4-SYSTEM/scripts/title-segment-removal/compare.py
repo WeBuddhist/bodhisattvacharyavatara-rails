@@ -78,9 +78,18 @@ def compare_edition(eid, before, after, pred, ops):
                      f"got {after['content_sha256'][:16]}")
         if after["content_len"] != pred["content_len"]:
             f.append(f"content length: predicted {pred['content_len']}, got {after['content_len']}")
-    for o in ops:
-        if o["text"] and o["text"] in after["content"]:
-            f.append(f"removed title text still present in content: {o['text']!r}")
+    # A heading's wording legitimately recurs in the body — chapter colophons
+    # name the work ("This concludes the sixth chapter of <title>..."), and a
+    # closing verse may too. So count occurrences rather than test membership:
+    # each edition must lose exactly as many as were deleted, no more, no less.
+    # Fewer would mean something extra was eaten; more would mean a delete
+    # joined two fragments into a new occurrence.
+    from collections import Counter
+    for text, n in Counter(o["text"] for o in ops if o["text"]).items():
+        was, now = before["content"].count(text), after["content"].count(text)
+        if now != was - n:
+            f.append(f"occurrences of {text!r}: {was} -> {now}, expected {was - n} "
+                     f"({n} deleted)")
 
     # --- segments ---
     b = {x["id"]: x for x in before["segments"]}

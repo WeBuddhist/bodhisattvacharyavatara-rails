@@ -36,7 +36,30 @@
    "at": "2026-09-20T19:55:58",
    "status": "deleted",
    "http": 204
+  },
+  {
+   "edition_id": "2AWdQyWXlLjIqMqLosTXV",
+   "reference": "b-0",
+   "segment_id": "0kS1GyavroklIwhdL2gzH",
+   "start": 132359,
+   "end": 132367,
+   "text": "Colophon",
+   "at": "2026-09-20T20:13:55",
+   "status": "deleted",
+   "http": 204
+  },
+  {
+   "edition_id": "2AWdQyWXlLjIqMqLosTXV",
+   "reference": "a-0",
+   "segment_id": "jyIbrXjFOgHn1RdJyp2o4",
+   "start": 132267,
+   "end": 132275,
+   "text": "Colophon",
+   "at": "2026-09-20T20:13:57",
+   "status": "deleted",
+   "http": 204
   }
  ],
- "finished": "2026-09-20T19:55:59"
+ "finished": "2026-09-20T19:55:59",
+ "resumed": "2026-09-20T20:13:54"
 }

@@ -9,7 +9,9 @@ This toolchain removes them with `PATCH /v2/editions/{id}/content`
 `{"type": "delete", "start": S, "end": E}` — one call per title segment — and
 proves, before and after, that nothing else moved.
 
-**Status: analysed and simulated, NOT yet executed. No write has been made.**
+**Status: staged test executed and verified 2026-09-20 — see
+[`test-run-2026-09-20.md`](test-run-2026-09-20.md). Three titles removed from the
+Tibetan root; 126 ops across 10 editions remain.**
 
 ---
 
@@ -160,3 +162,46 @@ a failed S3 write would leave the content still holding its title with no
 segment covering it: an unsegmented gap, recoverable but needing manual repair.
 Unlikely, and it is a gap rather than corruption, but it is the reason step 1
 above exists.
+
+---
+
+## Staged test, 2026-09-20 — result
+
+Three titles deleted from the Tibetan root `3rCvwAoWrzKGlIQdtLjCu`, bottom-up:
+`འགྱུར་བྱང།` [108526,108536), `མཛད་བྱང།` [108444,108452), and the chapter-10
+heading `10. ལེའུ་བཅུ་པ། བསྔོ་བ།` [101082,101105). Three PATCHes, three 204s.
+The other nine editions were deliberately left alone as controls.
+
+**Every prediction held, to the byte.**
+
+- **Content** — 108979 → 108938, exactly the predicted −41. The live after-content
+  reconstructs as `before[:101082] + before[101105:108444] + before[108452:108526]
+  + before[108536:]` — byte-identical, so nothing outside the three spans moved.
+  None of the three deleted strings occurs anywhere in the new content.
+- **Segments** — 941 → 938. Exactly the three targeted ids vanished; **no new
+  segment id appeared**, so the segmentation was edited in place rather than
+  rebuilt. Every survivor kept its node id, reference and type, and landed on its
+  predicted span. The segmentation still tiles the content with no gaps.
+- **Table of contents** — all 14 sections survive. Chapter 10's section moved
+  [101105,108444) → [101082,108421) and keeps its title string; it now opens on
+  chapter 10's first verse and closes on its colophon, which is correct. Nothing
+  was DETACH DELETEd.
+- **Alignments** — all 7 links intact, and all 8 pair lists (8,686 pairs) compared
+  entry by entry: **byte-identical**. As predicted, since no title is aligned.
+- **Controls** — all nine untouched editions byte-identical on content, segments,
+  TOC and pairs.
+
+The chapter-9 colophon now joins directly to chapter 10's opening verse, with no
+separator artifact — the content has no newlines, so the join is clean.
+
+### What this licenses
+
+The remaining 126 ops are the same operation in the same conditions. The staged
+run confirmed the mechanism (in-place segmentation edit, correct TOC shifting,
+no alignment collateral) rather than anything specific to those three headings.
+Remaining work: 11 titles on the Tibetan root, and all titles on the other nine
+editions.
+
+The table of contents must be regenerated afterwards regardless — the TOC
+sections survived correctly, but their titles are now the only place the heading
+text lives.

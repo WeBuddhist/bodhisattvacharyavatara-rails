@@ -1,0 +1,42 @@
+{
+ "plan": "/private/tmp/claude-501/-Users-tashitsering-Desktop-work-Obsidian-bodhisattvacharyavatara-rails/78bfd440-0cec-4c7d-9d1b-f728972db060/scratchpad/snapshots/plan-before-first3.json",
+ "base": "https://library.webuddhist.com",
+ "started": "2026-09-20T19:55:53",
+ "mode": "EXECUTE",
+ "ops": [
+  {
+   "edition_id": "3rCvwAoWrzKGlIQdtLjCu",
+   "reference": "b-0",
+   "segment_id": "HyCEKRQtlylKgDACgMyB4",
+   "start": 108526,
+   "end": 108536,
+   "text": "འགྱུར་བྱང།",
+   "at": "2026-09-20T19:55:55",
+   "status": "deleted",
+   "http": 204
+  },
+  {
+   "edition_id": "3rCvwAoWrzKGlIQdtLjCu",
+   "reference": "a-0",
+   "segment_id": "22NhnCf3fw2FMNwyHTEhW",
+   "start": 108444,
+   "end": 108452,
+   "text": "མཛད་བྱང།",
+   "at": "2026-09-20T19:55:57",
+   "status": "deleted",
+   "http": 204
+  },
+  {
+   "edition_id": "3rCvwAoWrzKGlIQdtLjCu",
+   "reference": "10-0",
+   "segment_id": "jz421pNVIEtnAyfI5ytjj",
+   "start": 101082,
+   "end": 101105,
+   "text": "10. ལེའུ་བཅུ་པ། བསྔོ་བ།",
+   "at": "2026-09-20T19:55:58",
+   "status": "deleted",
+   "http": 204
+  }
+ ],
+ "finished": "2026-09-20T19:55:59"
+}

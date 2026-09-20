@@ -167,7 +167,19 @@ def main(argv=None):
     args = ap.parse_args(argv)
 
     plan = json.load(open(args.plan))
-    editions = [e for e in plan["editions"] if not args.only or e in args.only]
+    editions = list(plan["editions"])
+    # Every edition in the before-snapshot that the plan does NOT touch is a
+    # control: it must come back byte-identical. Checking them is the only way
+    # to show a patch on one edition did not reach across into its neighbours.
+    controls = set()
+    bidx = os.path.join(SNAPDIR, args.before, "_index.json")
+    if os.path.exists(bidx):
+        for e in json.load(open(bidx))["editions"]:
+            if e not in plan["editions"]:
+                editions.append(e)
+                controls.add(e)
+                plan["editions"][e] = {"language": None, "ops": [], "predicted": None}
+    editions = [e for e in editions if not args.only or e in args.only]
 
     lines, bad = [], 0
     for eid in editions:
@@ -176,9 +188,12 @@ def main(argv=None):
         if not before or not after:
             print(f"!! {eid}: missing snapshot"); bad += 1; continue
         findings, summary = compare_edition(eid, before, after, entry.get("predicted"), entry["ops"])
+        if eid in controls and before["content_sha256"] != after["content_sha256"]:
+            findings.append("CONTROL edition changed — it was not patched and must be byte-identical")
         ok = not findings
         bad += 0 if ok else 1
-        head = f"{'OK ' if ok else '!! '}{eid}  [{entry.get('language')}]  {len(entry['ops'])} ops"
+        kind = "CONTROL" if eid in controls else f"{len(entry['ops'])} ops"
+        head = f"{'OK ' if ok else '!! '}{eid}  [{entry.get('language') or '-'}]  {kind}"
         print(head)
         print(f"     content {summary['content']} ({summary['content_delta']:+d})  "
               f"segments {summary['segments']} (-{summary['vanished']})  "

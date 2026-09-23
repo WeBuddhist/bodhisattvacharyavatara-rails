@@ -258,3 +258,6 @@ a signal that the review step is not happening.
 | རྒྱལ་པོ་གཙུག་ན་རིན་པོ་ཆེ       | King Manicuda (tentative identification with the Jataka figure Maṇicūḍa; not yet confirmed)           | Day 78     | pending |
 | རང་སངས་རྒྱས                    | solitary realizer                                                                                     | Day 80     | pending |
 | སེམས་ཀྱི་གསང་བ                 | the secret of the mind                                                                                | Day 80     | pending |
+| བསྡུས་འཇོམས་         | the Crushing Hell                                      | Day 81     | pending |
+| བསམ་གཏན་གྱི་ཉམས་ལེན། | _(Meditation Practice)_ — NEW CATEGORY, needs approval | Day 82     | pending |
+| ཇོ་བོ་ཨ་ཏི་ཤ         | Jowo Atisha                                            | Day 82     | pending |

@@ -261,3 +261,4 @@ a signal that the review step is not happening.
 | བསྡུས་འཇོམས་         | the Crushing Hell                                      | Day 81     | pending |
 | བསམ་གཏན་གྱི་ཉམས་ལེན། | _(Meditation Practice)_ — NEW CATEGORY, needs approval | Day 82     | pending |
 | ཇོ་བོ་ཨ་ཏི་ཤ         | Jowo Atisha                                            | Day 82     | pending |
+| བཤེས་ལེགས་ལས། | the _Letter to a Friend_ says (tentative — this day's Tibetan spells the citation differently from the established བཤེས་སྤྲིང་ term; not fully confirmed as the same text) | Day 85     | pending |

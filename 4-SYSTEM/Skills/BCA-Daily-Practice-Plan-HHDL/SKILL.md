@@ -4,7 +4,6 @@ description: Generate one or more Bodhisattvacharyavatara (སྤྱོད་འ
 Author:
   - Tigerboy
 ---
-
 # BCA Daily Practice Plan — HHDL (Dalai Lama track)
 
 Generates complete daily practice-plan documents for the Bodhisattva Challenge's Dalai Lama track. Each day is a single Tibetan-only `.md` file built from six sections — three fixed (copied verbatim), one mechanically extracted (root verses), and two generated (via the `gemini_generate` tool, grounded in the verse-context rails).

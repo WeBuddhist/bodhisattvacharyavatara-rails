@@ -262,3 +262,17 @@ a signal that the review step is not happening.
 | བསམ་གཏན་གྱི་ཉམས་ལེན། | _(Meditation Practice)_ — NEW CATEGORY, needs approval | Day 82     | pending |
 | ཇོ་བོ་ཨ་ཏི་ཤ         | Jowo Atisha                                            | Day 82     | pending |
 | བཤེས་ལེགས་ལས། | the _Letter to a Friend_ says (tentative — this day's Tibetan spells the citation differently from the established བཤེས་སྤྲིང་ term; not fully confirmed as the same text) | Day 85     | pending |
+| སྐྱོར་འབྱིན       | going back on our word (tentative; the verse source has flattering) | Day 92     | pending |
+| རེ་དོགས་          | hopes and fears (tentative)                                         | Day 92     | pending |
+| ང་རྒྱལ་རྣམ་པ་བདུན | the seven kinds of pride                                            | Day 92     | pending |
+| རྒོད་པ            | restlessness                                                        | Day 92     | pending |
+| ག་ཞར              | mockery                                                             | Day 92     | pending |
+| རྒྱགས་པ           | arrogance                                                           | Day 92     | pending |
+| མཚང་འབྲུ་བ        | exposing faults                                                     | Day 92     | pending |
+| ཀུན་སློང་         | intention                                                           | Day 92     | pending |
+| རང་གཅེས་འཛིན་     | cherishing ourselves                                                | Day 94     | pending |
+| ལེགས་པའི་སྐར་མ    | Sunakshatra                                                         | Day 95     | pending |
+| ལྷས་བྱིན          | Devadatta                                                           | Day 95     | pending |
+| སོ་སོ་སྐྱེ་བོ     | ordinary people                                                     | Day 95     | pending |
+| ཤིང་དུམ | a piece of wood                               | Day 93     | pending |
+| ཁ་རོག་  | silently (tentative; rendered as say nothing) | Day 93     | pending |

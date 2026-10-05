@@ -24,7 +24,7 @@ from pathlib import Path
 OUTPUT_DIR = Path(__file__).parent / "output"
 
 YAML_PROPS_RE = re.compile(r"\A---\r?\n(.*?)\r?\n---\r?\n?", re.DOTALL)
-REF_RE = re.compile(r'(\^[A-Za-z0-9]+(?:-[A-Za-z0-9]+)?)\s*$')
+REF_RE = re.compile(r'(\^[A-Za-z0-9]+(?:-[A-Za-z0-9]+)*)\s*$')  # allows multi-level header IDs (^2-1-0), same as linter
 ROMAN_RE = re.compile(r'^[IVXLCDM]+$')
 VERSE_X_RE = re.compile(r'\d+[xX]\d+')
 TRANSCLUSION_RE = re.compile(r'^\s*!\[\[.*?#\^.*?\]\]\s*$')

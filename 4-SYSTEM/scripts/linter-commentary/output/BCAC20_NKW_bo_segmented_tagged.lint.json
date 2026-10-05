@@ -1,0 +1,44 @@
+{
+  "status": "ok",
+  "source": "C:\\Users\\geshe lobzang tseten\\repos\\bodhisattvacharyavatara-rails\\1-SOURCES\\Commentaries\\formated_commentary\\BCAC20_NKW_bo_segmented_tagged.md",
+  "validated_at": "2026-10-05T02:34:39.026926+00:00",
+  "notes": [
+    "bdrc: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "toc: 338 headers found"
+  ],
+  "warnings": [
+    "rdflib not installed -- run: pip install rdflib",
+    "multiple BDRC persons matched 'Kunga Wangchuk' -- using first (P1040)",
+    "rdflib not installed -- run: pip install rdflib",
+    "person not in persons API -- found via BDRC (P1040)"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ཞེས་བྱ་བའི་འགྲེལ་པ།",
+      "en": "Commentary on Entering the Bodhisattva's Way of Life"
+    },
+    "alt_titles": null,
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "JD5ULLPAV1cxg7RSb7L3q",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P1040"
+      }
+    ],
+    "tag_ids": null
+  }
+}

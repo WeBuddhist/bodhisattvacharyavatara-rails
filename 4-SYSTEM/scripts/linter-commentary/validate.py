@@ -10,7 +10,8 @@ from constants import (
 SEGMENT_TYPES = frozenset({"paragraph", "verse", "title", "back_matter", "front_matter", "top_segment"})
 EDITION_TYPES = frozenset({"diplomatic", "critical", "collated"})
 
-REF_RE = re.compile(r'(\^[A-Za-z0-9]+(?:-[A-Za-z0-9]+)?)\s*$')
+# ^chapter-index, plus multi-level outline IDs for headers (e.g. ^2-1-0, ^2-2-1-1-0)
+REF_RE = re.compile(r'(\^[A-Za-z0-9]+(?:-[A-Za-z0-9]+)*)\s*$')
 TRANSCLUSION_RE = re.compile(r'^\s*!\[\[.*?#\^.*?\]\]\s*$')
 
 

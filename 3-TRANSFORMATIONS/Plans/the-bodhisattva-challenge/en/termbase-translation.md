@@ -276,3 +276,9 @@ a signal that the review step is not happening.
 | སོ་སོ་སྐྱེ་བོ     | ordinary people                                                     | Day 95     | pending |
 | ཤིང་དུམ | a piece of wood                               | Day 93     | pending |
 | ཁ་རོག་  | silently (tentative; rendered as say nothing) | Day 93     | pending |
+| ཕྱེ་མ་ལེབ              | dust (tentative; the meaning of ལེབ is unclear)                                          | Day 96     | pending |
+| མི་ཁོམ་པ་བརྒྱད         | the eight states without freedom                                                         | Day 96     | pending |
+| དགའ་བོ་མངལ་འཇུག་གི་མདོ | the _Sutra of Nanda's Entering the Womb_ (tentative; Nanda identification not confirmed) | Day 97     | pending |
+| འབུ་ཕྲན                | tiny worms                                                                               | Day 97     | pending |
+| རྒྱུ་ལོང་              | intestines (tentative)                                                                   | Day 97     | pending |
+| རྒྱུས་པ                | sinews                                                                                   | Day 98     | pending |

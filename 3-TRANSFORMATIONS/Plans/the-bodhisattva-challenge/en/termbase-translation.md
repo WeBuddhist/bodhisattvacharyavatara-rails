@@ -282,3 +282,4 @@ a signal that the review step is not happening.
 | འབུ་ཕྲན                | tiny worms                                                                               | Day 97     | pending |
 | རྒྱུ་ལོང་              | intestines (tentative)                                                                   | Day 97     | pending |
 | རྒྱུས་པ                | sinews                                                                                   | Day 98     | pending |
+| མདོ་སྡེའི་རྒྱན་ | the _Ornament of the Sutras_ | Day 100    | pending |

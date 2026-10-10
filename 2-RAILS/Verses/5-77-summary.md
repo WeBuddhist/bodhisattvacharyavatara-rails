@@ -6,8 +6,8 @@ sources:
   sanskrit: "1-SOURCES/Text/BCAV08_SH_sk.md"
   tibetan: "1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md"
   mchan_grel: "1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md"
-  commentaries: [kunpal, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga]
-note: "gyaltsab's second sentence-line also runs on into the first couplet of 5-78, and the khenpo-kunga lines 6–8 are the whole gloss given for this verse; tenzin-gyatso's span after the 5-77 transclusion contains only the verse lines and no gloss."
+  commentaries: [kunpal, gyaltsab, ngulchu-thogmed, sabzang, minyak-kunzang-sonam, khenpo-kunga, tenzin-gyatso]
+note: "gyaltsab's second sentence-line also runs on into the first couplet of 5-78, and the khenpo-kunga lines 6–8 are the whole gloss given for this verse; tenzin-gyatso's gloss on this verse is stamped after the 5-78 transclusion and is taken from there (lines beginning མདོར་ན།)."
 status: draft
 ---
 
@@ -77,6 +77,32 @@ status: draft
 
 ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^5-77]])
 
+### tenzin-gyatso — ཏཱ་ལའི་བླ་མ་བཅུ་བཞི་པ
+
+མདོར་ན།
+སྒོ་གསུམ་གྱི་རྩོམ་པ་ཅི་བྱས་པ་ཐམས་ཅད་གཞན་དགའ་བ་སྐྱེ་ཐུབ་པ་ཞིག་བྱས་ན།
+རང་གི་ཡིད་ཚིམས་པ་དང་།
+ཞེ་བློ་བདེ་བ་ཡོང་གི་རེད།
+དེ་ལྟ་བུའི་རང་གཞན་གཉིས་ཀྱི་སེམས་ཞི་བདེའིེ་དགའ་སྐྱིད་དེ་ཚོང་ཁང་གང་དུ་ཕྱིན་ནའང་།
+རིན་གྱིས་ཉོ་རྒྱུ་མེད།
+འདིར་ཁུ་ནུ་བླ་མ་རིན་པོ་ཆེས་འདི་འདྲ་གསུང་གིན་ཡོད།
+ང་རང་ཚོ་ཅ་དངོས་ཉོ་བར་དངུལ་འཁྱེར་ནས་རྒྱ་གར་གྲོང་ཁྱེར་ཆེ་ཁག་ཚོར་ཕྱིན་ན་གང་དགོས་ཉོ་རྒྱུ་ཡོད་ཀྱང་།
+དགའ་བ་ཉོ་བར་ཕྱིན་ན་ཚོང་རྒྱུ་མེད།
+དེ་སོ་སོས་བསམ་བློ་གཏོང་ཕྱོགས་ནས་སྒྲུབ་དགོས་གསུངས།
+
+([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^5-77]])
+
+---
+
+## དཔེ། (Metaphors and examples)
+
+- **ཅ་དངོས་ཉོ་བར་དངུལ་འཁྱེར་ནས་གྲོང་ཁྱེར་ཆེན་པོར་ཕྱིན་ན་གང་དགོས་ཉོ་རྒྱུ་ཡོད་པ་** → དགའ་བ་ཉོ་བར་ཕྱིན་ན་ཚོང་རྒྱུ་མེད་པ།
+  འདིར་ཁུ་ནུ་བླ་མ་རིན་པོ་ཆེས་འདི་འདྲ་གསུང་གིན་ཡོད།
+ང་རང་ཚོ་ཅ་དངོས་ཉོ་བར་དངུལ་འཁྱེར་ནས་རྒྱ་གར་གྲོང་ཁྱེར་ཆེ་ཁག་ཚོར་ཕྱིན་ན་གང་དགོས་ཉོ་རྒྱུ་ཡོད་ཀྱང་།
+དགའ་བ་ཉོ་བར་ཕྱིན་ན་ཚོང་རྒྱུ་མེད།
+དེ་སོ་སོས་བསམ་བློ་གཏོང་ཕྱོགས་ནས་སྒྲུབ་དགོས་གསུངས།
+  ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^5-77]])
+
 ---
 
 ## གཙོ་གནད། (Main teaching points)
@@ -107,11 +133,12 @@ status: draft
 
 ### ངོ་སྤྲོད་མདོར་བསྡུས།
 
-བྱ་བ་འབད་པས་རྩོམ་པ་ཐམས་ཅད་ནི་དགའ་བ་འཐོབ་པའི་ཕྱིར་ཡིན་ཞིང་། དེ་ལྟ་བུའི་དགའ་བ་ནི་རིན་ཆེན་པོས་ཉོ་ནའང་ཤིན་ཏུ་དཀོན་པས་ན། གཞན་གྱིས་བྱས་པའི་ཡོན་ཏན་ལ་ཕྲག་དོག་མེད་པར་རྗེས་སུ་ཡི་རང་བའི་སྒོ་ནས་འབད་མེད་དུ་རྙེད་པའི་དགའ་བའི་བདེ་བ་ལ་ལོངས་སྤྱད་པར་བྱའོ། ། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^5-77]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^5-77]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^5-77]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^5-77]])
+རང་གཞན་གྱིས་བྱ་བ་ཅི་རྩོམ་ཐམས་ཅད་སེམས་དགའ་བ་འཐོབ་པའི་ཕྱིར་ཡིན་ཞིང་། དེ་ལྟ་བུའི་དགའ་བ་ནི་ནོར་རྫས་ཆེན་པོའི་རིན་གྱིས་ཉོ་ནའང་རྙེད་པར་ཤིན་ཏུ་དཀོན་པས། གཞན་གྱིས་འབད་པས་བསྒྲུབས་པའི་ཡོན་ཏན་ལ་ཕྲག་དོག་མེད་པར་རྗེས་སུ་ཡི་རང་བའི་སྒོ་ནས། འབད་རྩོལ་མེད་པར་རྙེད་པའི་དགའ་བའི་བདེ་བ་དེ་ཉིད་ལ་ལོངས་སྤྱད་པར་བྱའོ། ། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^5-77]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^5-77]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^5-120]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^5-77]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^5-77]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^5-77]])
 
 ### གནད་དོན་གཙོ་བོ།
 
-- སེམས་དགའ་བ་དེ་ལྟ་བུ་ནི་ནོར་རྫས་ཆེན་པོའི་རིན་གྱིས་ཉོ་ནའང་མི་རྙེད་ཅིང་ཤིན་ཏུ་དཀོན་པ་ཡིན། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^5-77]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^5-77]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^5-77]])
-- གཞན་གྱིས་འབད་པས་བསྒྲུབས་པའི་ཐོས་བསམ་སྒོམ་གསུམ་དང་ཆོས་འཆད་ཉན་ལ་སོགས་པའི་ཡོན་ཏན་ལ་ཕྲག་དོག་མི་བྱེད་པར་རྗེས་སུ་ཡི་རང་ཞིང་བསྔགས་པ་བརྗོད་དགོས། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^5-77]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^5-77]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^5-77]])
-- གཞན་གྱིས་བྱས་པའི་ཡོན་ཏན་ལ་ཡི་རང་བས་ནི་རིན་གྱིས་ཉོ་མི་དགོས་པར་འབད་མེད་དུ་རྙེད་པའི་དགའ་བའི་བདེ་བ་ལ་རང་ཉིད་ཀྱིས་ལོངས་སྤྱོད་ཐུབ། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^5-77]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^5-77]])
-- དེ་ལྟར་གཞན་གྱི་ཡོན་ཏན་ལ་དགའ་བར་བྱས་པས་ཕ་རོལ་པོ་དག་གི་སེམས་ལའང་དགའ་བ་དང་མགུ་བ་ཐོབ་ཅིང་ཚིམ་པར་འགྱུར། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^5-77]])
+- **བྱ་བ་རྩོམ་པའི་དམིགས་ཡུལ།** རང་གཞན་གྱིས་སྒོ་གསུམ་གྱི་བྱ་བ་ཅི་དང་ཅི་རྩོམ་པ་ཐམས་ཅད་རང་རང་གི་སེམས་དགའ་བ་འཐོབ་པའི་ཕྱིར་ཡིན། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^5-77]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^5-77]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^5-77]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^5-77]])
+- **དགའ་བ་ནི་རིན་གྱིས་ཉོ་མི་ཐུབ་པ།** དགའ་བ་དེ་ནི་རིན་གྱིས་ཉོ་ནའང་དཀོན་ཏེ། དཔེར་ན་དངུལ་འཁྱེར་ནས་གྲོང་ཁྱེར་ཆེན་པོར་ཕྱིན་ན་ཅ་དངོས་ཉོ་རྒྱུ་ཡོད་ཀྱང་དགའ་བ་ཉོ་རྒྱུ་མེད། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^5-77]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^5-77]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^5-120]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^5-77]])
+- **གཞན་གྱི་ཡོན་ཏན་ལ་ཕྲག་དོག་མེད་པར་རྗེས་སུ་ཡི་རང་བ།** གཞན་གྱིས་བྱས་པའི་ཐོས་བསམ་སྒོམ་པ་དང་ཆོས་འཆད་ཉན་སོགས་ཀྱི་ཡོན་ཏན་ལ་ཕྲག་དོག་མི་བྱ་བར་ཡི་རང་བས་རང་ཉིད་དགའ་བའི་བདེ་བ་ལ་ལོངས་སྤྱད་པར་བྱ། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^5-77]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^5-77]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^5-77]])
+- **འབད་མེད་ཀྱི་དགའ་བའི་བདེ་བ་ལ་སྤྱོད་པ།** གཞན་གྱིས་བྱས་པའི་ཡོན་ཏན་ལ་ཡི་རང་བ་དེ་ནི། རིན་གྱིས་ཉོ་མི་དགོས་པར་འབད་རྩོལ་མེད་པར་རྙེད་པའི་དགའ་བའི་བདེ་བ་ཡིན། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^5-77]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^5-77]])
+- **ཕན་ཡོན།** དེ་ལྟར་གཞན་དགའ་བར་བྱས་པས་ཚེ་འདིར་ལོངས་སྤྱོད་སོགས་གོད་པ་གཏན་མེད་ཅིང་ཚེ་ཕ་རོལ་ཏུ་བདེ་བ་ཆེན་པོ་འཐོབ་ལ། ཕ་རོལ་པོ་དག་གི་སེམས་ལའང་དགའ་བ་དང་མགུ་བ་ཐོབ་ནས་ཚིམ་པར་འགྱུར། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_GDR_bo_segmented.md#^5-77]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^5-77]])

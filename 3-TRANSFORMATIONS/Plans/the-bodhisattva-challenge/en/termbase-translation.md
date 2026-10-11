@@ -283,3 +283,14 @@ a signal that the review step is not happening.
 | རྒྱུ་ལོང་              | intestines (tentative)                                                                   | Day 97     | pending |
 | རྒྱུས་པ                | sinews                                                                                   | Day 98     | pending |
 | མདོ་སྡེའི་རྒྱན་ | the _Ornament of the Sutras_ | Day 100    | pending |
+| སྲིད་པའི་མཚོ་          | the ocean of samsara (སྲིད་པ་ rendered as samsara)          | Day 101    | pending |
+| གཟུགས་སྐུ་             | the form body of a buddha                                   | Day 101    | pending |
+| ཕྱིན་དྲུག་             | the six perfections                                         | Day 101    | pending |
+| ཁྲོ་གཉེར་              | frowning                                                    | Day 101    | pending |
+| སྒོ་མོ་དལ་གྱིས་རྒྱག་པ  | closing doors gently (tentative; could also mean knocking)  | Day 101    | pending |
+| ཏཱ་ལའི་བླ་མ་           | His Holiness the Dalai Lama (project convention)            | Day 102    | pending |
+| ཏིང་ངེ་འཛིན་གྱི་ཚེར་མ་ | the thorns of deep meditative concentration (literal)       | Day 102    | pending |
+| སྟོན་པ་                | the Buddha (the Teacher, identified as the Buddha)          | Day 102    | pending |
+| གྭ་རྒྱ་ལྦ་             | gwa, gya and lba (left untranslated; meaning not confirmed) | Day 103    | pending |
+| གྲྭ་རྒན་               | old monk                                                    | Day 103    | pending |
+| ལྟས་ངན་                | bad omen                                                    | Day 103    | pending |

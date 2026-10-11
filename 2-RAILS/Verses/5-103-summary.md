@@ -121,4 +121,11 @@ status: draft
 
 ## བསྡུས་དོན། (Verse synthesis — AI Overview style)
 
-@@SYNTH@@
+**ངོ་སྤྲོད་མདོར་བསྡུས།**
+དཔལ་འབྱུང་བའི་རྣམ་ཐར་ལྟར་བླ་མ་འམ་དགེ་བའི་བཤེས་གཉེན་བསྟེན་པའི་ཚུལ་ལ་བསླབ་པར་གསུངས་སོ། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^5-103]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^5-103]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^5-103]])
+བསླབ་པར་བྱ་བ་མང་པོ་ནི་མདོ་སྡེ་དེ་རྣམས་བཀླགས་ནས་ཤེས་པར་བྱེད་དགོས། ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^5-103]])
+
+**གནད་དོན་གཙོ་བོ།**
+- ཁྱེའུ་དཔལ་གྱི་འབྱུང་གནས་དང་བུ་མོ་དཔལ་གྱི་བློ་གྲོས་ཀྱི་རྣམ་ཐར་སོགས་དང་། ཕལ་པོ་ཆེའི་མདོ་དང་བསླབ་བཏུས་ལས་བཤེས་གཉེན་བསྟེན་ཚུལ་རྒྱས་པར་གསུངས། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^5-103]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^5-103]])
+- སྡོང་པོ་བཀོད་པར་ཁྱིའུ་དཔལ་འབྱུང་བའི་རྣམ་ཐར་ལས་ས་ལྟ་བུ་དང་། རྡོ་རྗེ། ཕྱག་དར། ཐེག་པ། ཁྱི། གྲུ། བུ་མཛངས་པ། སྨན་པའི་འདུ་ཤེས་སོགས་ཀྱིས་བཤེས་གཉེན་བསྟེན་ཚུལ་གསུངས། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^5-174]])
+- ཁྱེའུ་དཔལ་འབྱུང་བ་ལ་བུ་མོ་དཔལ་གྱི་བློ་གྲོས་ཀྱིས་རང་ལ་ནད་པའི་འདུ་ཤེས་དང་། བཤེས་གཉེན་ལ་སྨན་པ། ཆོས་ལ་སྨན། ནན་ཏན་ཉམས་སུ་བླང་བ་ལ་ནད་ཉེ་བར་འཚོ་བའི་འདུ་ཤེས་བསྐྱེད་དགོས་པར་གསུངས། ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^5-103]])

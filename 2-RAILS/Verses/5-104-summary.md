@@ -122,4 +122,11 @@ status: draft
 
 ## བསྡུས་དོན། (Verse synthesis — AI Overview style)
 
-@@SYNTH@@
+**ངོ་སྤྲོད་མདོར་བསྡུས།**
+མདོ་སྡེ་རྣམས་ལས་བྱང་སེམས་ཀྱི་བསླབ་པ་གསལ་བར་འབྱུང་བས་མདོ་སྡེ་རྣམས་ལ་མཇལ་ཞིང་བཀླག་པར་བྱའོ། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^5-104]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^5-104]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^5-178]])
+ཁྱད་པར་དུ་འཇུག་སྡོམ་བླངས་པའི་བྱང་སེམས་ཀྱིས་ནམ་མཁའི་སྙིང་པོའི་མདོ་སྡེ་ཐོག་མ་ཉིད་དུ་བལྟ་བར་བྱའོ། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^5-104]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^5-178]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^5-104]])
+
+**གནད་དོན་གཙོ་བོ།**
+- ཕལ་པོ་ཆེ་དང་དཀོན་མཆོག་སྤྲིན་ལྟ་བུའི་མདོ་སྡེ་རྣམས་ལས་བྱང་སེམས་ཀྱི་བསླབ་པ་གསུངས་ཡོད། ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^5-104]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^5-104]])
+- མདོ་སྡེ་རྣམས་ལས་བྱང་སེམས་ཀྱི་སྡོམ་པ་ཐོབ་པ་མི་ཉམས་པར་སྲུང་བ་དང་ཉམས་ན་ཕྱིར་བཅོས་ཐབས་གསུངས་པས། མདོ་སྡེ་མ་བལྟས་ན་ལྟུང་བ་དང་ཕྱིར་བཅོས་མི་ཤེས། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^5-104]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^5-104]])
+- ནམ་མཁའི་སྙིང་པོའི་མདོ་ལས་རྩ་ལྟུང་དང་དེའི་ཕྱིར་བཅོས་ཐབས་བསྟན་པས་ཐོག་མར་བལྟ་དགོས། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^5-104]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^5-178]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^5-104]])

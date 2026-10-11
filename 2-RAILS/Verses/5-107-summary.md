@@ -136,4 +136,11 @@ status: draft
 
 ## བསྡུས་དོན། (Verse synthesis — AI Overview style)
 
-@@SYNTH@@
+**ངོ་སྤྲོད་མདོར་བསྡུས།**
+རྒྱལ་བའི་བཀའ་མདོ་སྡེ་དང་བསྟན་བཅོས་གང་དང་གང་ལས་བྱ་བ་གང་ཞིག་མ་བཀག་པ་དེ་ཉིད་བྱང་ཆུབ་སེམས་དཔས་སྤྱད་པར་བྱའོ། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^5-107]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^5-107]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^5-178]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^5-107]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^5-107]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^5-107]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^5-107]])
+འཇིག་རྟེན་པའི་སེམས་དང་མ་དད་པ་བསྲུང་བའི་ཕྱིར་བསླབ་པ་མཐོང་ནས་ཡང་དག་པར་སྤྱད་པར་བྱའོ། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^5-107]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^5-178]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^5-107]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^5-107]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^5-107]])
+
+**གནད་དོན་གཙོ་བོ།**
+- མདོ་དང་བསྟན་བཅོས་གང་ལས་བྱང་ཆུབ་སེམས་དཔའི་བྱ་བ་མ་བཀག་ཅིང་འཐད་པ་དེ་ཉིད་སྤྱད་པར་བྱའོ། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^5-107]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KKP_bo_segmented.md#^5-107]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^5-178]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^5-107]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^5-107]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^5-107]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^5-107]])
+- འཇིག་རྟེན་གྱི་མ་དད་པའི་སེམས་བསྲུང་བའི་ཕྱིར་བསླབ་བཏུས་སོགས་ལས་བྱུང་བའི་བསླབ་པ་མཐོང་ནས་ཡང་དག་པར་ཉམས་སུ་བླངས་ཏེ་སྤྱད་དགོས། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_KS_bo.md#^5-107]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_NTS_bo_segmented.md#^5-178]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC14_SMPLG_bo_segmented.md#^5-107]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_NKW_bo_segmented.md#^5-107]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^5-107]])
+- རིན་ཕྲེང་ལ་སོགས་པ་ནས་གསུང་རབ་ལས་མ་བཀག་པ་སྤྱད་པ་དང་ཐོས་བསམ་སློབ་གཉེར་ལེགས་པར་བྱེད་དགོས། ([[1-SOURCES/Commentaries/Transcluded/BCAC19_MKS_bo_segmented.md#^5-107]]) ([[1-SOURCES/Commentaries/Transcluded/BCAC20_TG_bo.toc.md#^5-107]])

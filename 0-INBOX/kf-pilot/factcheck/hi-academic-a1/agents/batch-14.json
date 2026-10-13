@@ -1,0 +1,129 @@
+{
+ "batch": "batch-14",
+ "segments": [
+  {
+   "id": "5-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-79",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "सुखद",
+     "evidence": "Tibetan 'ཡིད་ཕེབས' (Sanskrit viśvasta) is glossed by bo-gyaltsab 5-79 as 'སྙིང་ཐག་པ་ནས་ཡིད་ཕེབས་པ' (heartfelt, winning trust) and by bo-kunpal as speech that accords with the listener's inclination; 'pleasant' is the separate item 'ཡིད་དུ་འོང་བ' already rendered 'मनोहारी', so 'सुखद' duplicates it and loses the sense of sincerity/trust.",
+     "fix": "हार्दिक और विश्वास जगाने वाला"
+    }
+   ]
+  },
+  {
+   "id": "5-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-81",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-84",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "चाहिए。",
+     "evidence": "Line 2 of the Hindi ends with an ideographic full stop (U+3002) instead of a danda or Latin full stop; a typographic error, meaning unaffected.",
+     "fix": "चाहिए,"
+    }
+   ]
+  },
+  {
+   "id": "5-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-87",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "इस और अन्य में भी",
+     "evidence": "Tibetan 'འདི་དང་གཞན་དུ་ཡང་' means 'in this and other (worlds/lives)'; bo-gyaltsab 5-87 explains 'ཚེ་རབས་འདི་དང་གཞན་དུ་ཡང་' and bo-kunpal 'འཇིག་རྟེན་འདི་དང་འཇིག་རྟེན་གཞན་དུ་ཡང་'. The Hindi leaves 'अन्य' without its noun, so it reads as an unspecified 'other'.",
+     "fix": "इस लोक और अन्य लोकों में भी"
+    }
+   ]
+  },
+  {
+   "id": "5-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-90",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-91",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

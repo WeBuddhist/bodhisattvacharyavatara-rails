@@ -1,0 +1,129 @@
+{
+ "batch": "batch-05",
+ "segments": [
+  {
+   "id": "2-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-43",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "They appear transformed from how they were before.",
+     "evidence": "The Tibetan ends སྔ་ལས་གཞན་དུ་འགྱུར་སྣང་ན། with the conditional ན, confirmed by bo-kunpal 2-43 (…གཞན་དུ་འགྱུར་ཏེ་ཤིན་ཏུ་ཉམས་ཐག་པར་སྣང༷་ན༷།) and bo-shenga 2-43 (…འགྱུར་བར་སྣང་ན།). The verse is the protasis to 2-44 (…སྨོས་ཅི་དགོས), so the English makes it a standalone assertion and leaves 2-44's 'what need to mention' without its antecedent.",
+     "fix": "If they appear transformed from how they were before, (what need to mention ... [2-44])"
+    }
+   ]
+  },
+  {
+   "id": "2-44",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "the great disease of terror",
+     "evidence": "འཇིགས་ཆེན་ནད་ = 'disease of great terror'; bo-shenga 2-44 glosses འཇིགས་པ་ཆེན་པོའི་ནད་ཀྱིས། and Sanskrit mahātrāsajvara. The English attaches 'great' to the disease rather than to the terror.",
+     "fix": "the disease of great terror"
+    }
+   ]
+  },
+  {
+   "id": "2-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-54",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "Of a hundred faults, such as desire,\nWhen constantly stricken by their disease, what need to mention?",
+     "evidence": "Tibetan འདོད་ཆགས་ལ་སོགས་ཉེས་པ་བརྒྱའི། ནད་ཀྱིས་རྟག་བཏབ་ = 'constantly afflicted by the disease of a hundred faults such as desire' (bo-shenga 2-54: ཉེས་པ་བརྒྱ་ཕྲག་དུ་མ་ཡི། ནད་ཀྱིས་དུས་རྟག་ཏུ་བཏབ་པ). The English fronts 'Of a hundred faults' so that it reads as the thing 'to mention', obscuring that the faults are the disease.",
+     "fix": "When one is constantly stricken by the disease of a hundred faults such as desire, what need to mention?"
+    }
+   ]
+  },
+  {
+   "id": "2-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-60",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

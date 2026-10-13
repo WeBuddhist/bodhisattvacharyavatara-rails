@@ -1,0 +1,757 @@
+{
+ "batch": "batch-14",
+ "segments": [
+  {
+   "id": "7-0",
+   "terms": [
+    {
+     "bo": "བརྩོན་འགྲུས",
+     "dm": "Diligence",
+     "gm": null
+    }
+   ]
+  },
+  {
+   "id": "7-1",
+   "terms": [
+    {
+     "bo": "བཟོད་པ",
+     "dm": "patience",
+     "gm": "patience"
+    },
+    {
+     "bo": "བརྩོན་འགྲུས",
+     "dm": "diligence",
+     "gm": "diligence"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "enlightenment",
+     "gm": "enlightenment"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "Merit",
+     "gm": "Merit"
+    }
+   ]
+  },
+  {
+   "id": "7-2",
+   "terms": [
+    {
+     "bo": "བརྩོན",
+     "dm": "diligence",
+     "gm": "diligence"
+    },
+    {
+     "bo": "དགེ",
+     "dm": "virtuous",
+     "gm": "virtue"
+    },
+    {
+     "bo": "མི་མཐུན་ཕྱོགས",
+     "dm": "opposing factors",
+     "gm": "opposing factors"
+    },
+    {
+     "bo": "ལེ་ལོ",
+     "dm": "Laziness",
+     "gm": "Laziness"
+    },
+    {
+     "bo": "སྒྱིད་ལུག",
+     "dm": "despondency",
+     "gm": "Despondency"
+    },
+    {
+     "bo": "བདག་ཉིད་བརྙས་པ",
+     "dm": "self-contempt",
+     "gm": "self-contempt"
+    }
+   ]
+  },
+  {
+   "id": "7-3",
+   "terms": [
+    {
+     "bo": "ལེ་ལོ",
+     "dm": "laziness",
+     "gm": "Laziness"
+    },
+    {
+     "bo": "འཁོར་བ",
+     "dm": "cyclic existence",
+     "gm": "saṃsāra"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "sufferings"
+    },
+    {
+     "bo": "སྲེད་པ",
+     "dm": "craving",
+     "gm": "Craving"
+    },
+    {
+     "bo": "སྙོམ་ལས",
+     "dm": "idle",
+     "gm": "idleness"
+    }
+   ]
+  },
+  {
+   "id": "7-4",
+   "terms": [
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "afflictions"
+    },
+    {
+     "bo": "སྐྱེ་བ",
+     "dm": "rebirth",
+     "gm": "birth"
+    },
+    {
+     "bo": "འཆི་བདག",
+     "dm": "Lord of Death",
+     "gm": "Lord of Death"
+    }
+   ]
+  },
+  {
+   "id": "7-5",
+   "terms": []
+  },
+  {
+   "id": "7-6",
+   "terms": [
+    {
+     "bo": "འཆི་བདག",
+     "dm": "Lord of Death",
+     "gm": "Lord of Death"
+    }
+   ]
+  },
+  {
+   "id": "7-7",
+   "terms": [
+    {
+     "bo": "འཆི",
+     "dm": "death",
+     "gm": "death"
+    },
+    {
+     "bo": "ཚོགས་བསག",
+     "dm": "accumulations",
+     "gm": "accumulations"
+    },
+    {
+     "bo": "ལེ་ལོ",
+     "dm": "laziness",
+     "gm": "laziness"
+    }
+   ]
+  },
+  {
+   "id": "7-8",
+   "terms": [
+    {
+     "bo": "འཆི་བདག",
+     "dm": "Lord of Death",
+     "gm": "Lord of Death"
+    }
+   ]
+  },
+  {
+   "id": "7-9",
+   "terms": [
+    {
+     "bo": "གཤིན་རྗེ",
+     "dm": "Lord of Death",
+     "gm": "Yama"
+    },
+    {
+     "bo": "གཤིན་རྗེའི་ཕོ་ཉ",
+     "dm": "messengers of the Lord of Death",
+     "gm": "Yama's messengers"
+    }
+   ]
+  },
+  {
+   "id": "7-10",
+   "terms": [
+    {
+     "bo": "སྡིག",
+     "dm": "sins",
+     "gm": "evils"
+    },
+    {
+     "bo": "དམྱལ་བ",
+     "dm": "hells",
+     "gm": "hell"
+    }
+   ]
+  },
+  {
+   "id": "7-11",
+   "terms": [
+    {
+     "bo": "དམྱལ་བ",
+     "dm": "hell",
+     "gm": "hell"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "Sufferings",
+     "gm": "sufferings"
+    }
+   ]
+  },
+  {
+   "id": "7-12",
+   "terms": [
+    {
+     "bo": "དམྱལ་བ",
+     "dm": "hell",
+     "gm": "hell"
+    }
+   ]
+  },
+  {
+   "id": "7-13",
+   "terms": [
+    {
+     "bo": "འབྲས་བུ",
+     "dm": "results",
+     "gm": "result"
+    },
+    {
+     "bo": "འཆི་བ",
+     "dm": "death",
+     "gm": "death"
+    },
+    {
+     "bo": "ལྷ",
+     "dm": "immortal",
+     "gm": "god"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "sufferings",
+     "gm": "sufferings"
+    }
+   ]
+  },
+  {
+   "id": "7-14",
+   "terms": [
+    {
+     "bo": "མི་ཡི་གྲུ",
+     "dm": "boat of a human form",
+     "gm": "boat of a human body"
+    },
+    {
+     "bo": "སྡུག་བསྔལ་ཆུ་བོ་ཆེ",
+     "dm": "great river of suffering",
+     "gm": "great river of suffering"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "7-15",
+   "terms": [
+    {
+     "bo": "དམ་ཆོས",
+     "dm": "sublime Dharma",
+     "gm": "holy Dharma"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "གཡེང་བ",
+     "dm": "distractions",
+     "gm": "distraction"
+    },
+    {
+     "bo": "རྒོད",
+     "dm": "Frivolity",
+     "gm": "frivolity"
+    }
+   ]
+  },
+  {
+   "id": "7-16",
+   "terms": [
+    {
+     "bo": "སྒྱིད་ལུག",
+     "dm": "despondency",
+     "gm": "despondency"
+    },
+    {
+     "bo": "དཔུང་ཚོགས",
+     "dm": "army of forces",
+     "gm": "forces"
+    },
+    {
+     "bo": "ལྷུར་བླང་",
+     "dm": "earnest application",
+     "gm": "Applying oneself earnestly"
+    },
+    {
+     "bo": "བདག་ཉིད་དབང་བྱ",
+     "dm": "self-mastery",
+     "gm": "mastering oneself"
+    },
+    {
+     "bo": "བདག་དང་གཞན་དུ་མཉམ་པ",
+     "dm": "equality of self and others",
+     "gm": "Equalizing self and other"
+    },
+    {
+     "bo": "བདག་དང་གཞན་དུ་བརྗེ་བ",
+     "dm": "exchange of self and others",
+     "gm": "exchanging self and other"
+    }
+   ]
+  },
+  {
+   "id": "7-17",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "enlightenment",
+     "gm": "enlightenment"
+    },
+    {
+     "bo": "སྒྱིད་ལུག",
+     "dm": "discouraged",
+     "gm": "despondent"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "བདེན་པ་གསུང་བ",
+     "dm": "Speaker of Truth",
+     "gm": "Who speaks the truth"
+    }
+   ]
+  },
+  {
+   "id": "7-18",
+   "terms": [
+    {
+     "bo": "བརྩོན་པའི་སྟོབས",
+     "dm": "power of diligence",
+     "gm": "power of effort"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "enlightenment",
+     "gm": "enlightenment"
+    }
+   ]
+  },
+  {
+   "id": "7-19",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སྤྱོད་པ",
+     "dm": "conduct of a Bodhisattva",
+     "gm": "enlightenment conduct"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "enlightenment",
+     "gm": "enlightenment"
+    }
+   ]
+  },
+  {
+   "id": "7-20",
+   "terms": []
+  },
+  {
+   "id": "7-21",
+   "terms": [
+    {
+     "bo": "བསྐལ་པ",
+     "dm": "eons",
+     "gm": "eons"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "enlightenment",
+     "gm": "enlightenment"
+    }
+   ]
+  },
+  {
+   "id": "7-22",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "enlightenment",
+     "gm": "enlightenment"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "7-23",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "sufferings",
+     "gm": "sufferings"
+    }
+   ]
+  },
+  {
+   "id": "7-24",
+   "terms": [
+    {
+     "bo": "སྨན་པ་མཆོག",
+     "dm": "Supreme Physician",
+     "gm": "supreme physician"
+    }
+   ]
+  },
+  {
+   "id": "7-25",
+   "terms": [
+    {
+     "bo": "སྦྱིན་པ",
+     "dm": "giving",
+     "gm": "giving"
+    },
+    {
+     "bo": "འདྲེན་པ",
+     "dm": "Guide",
+     "gm": "Guide"
+    }
+   ]
+  },
+  {
+   "id": "7-26",
+   "terms": []
+  },
+  {
+   "id": "7-27",
+   "terms": [
+    {
+     "bo": "སྡིག་པ",
+     "dm": "non-virtue",
+     "gm": "misdeeds"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "ལོག་པར་རྟོག་པ",
+     "dm": "distorted conceptions",
+     "gm": "wrong conceptualizations"
+    },
+    {
+     "bo": "མཁས་པ",
+     "dm": "wisdom",
+     "gm": "wise"
+    }
+   ]
+  },
+  {
+   "id": "7-28",
+   "terms": [
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "Merit"
+    },
+    {
+     "bo": "མཁས་པ",
+     "dm": "wisdom",
+     "gm": "wisdom"
+    },
+    {
+     "bo": "གཞན་དོན",
+     "dm": "for the sake of others",
+     "gm": "for the sake of others"
+    },
+    {
+     "bo": "འཁོར་བ",
+     "dm": "samsara",
+     "gm": "cyclic existence"
+    },
+    {
+     "bo": "སྙིང་རྗེ་ཅན",
+     "dm": "those with compassion",
+     "gm": "compassionate ones"
+    }
+   ]
+  },
+  {
+   "id": "7-29",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས",
+     "dm": "awakening mind",
+     "gm": "awakening mind"
+    },
+    {
+     "bo": "སྡིག་པ",
+     "dm": "misdeeds",
+     "gm": "misdeeds"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    },
+    {
+     "bo": "བསོད་ནམས་རྒྱ་མཚོ",
+     "dm": "ocean of merit",
+     "gm": "ocean of merit"
+    },
+    {
+     "bo": "ཉན་ཐོས",
+     "dm": "Hearers",
+     "gm": "Hearers"
+    }
+   ]
+  },
+  {
+   "id": "7-30",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས",
+     "dm": "awakening mind",
+     "gm": "awakening mind"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་ཀྱི་རྟ",
+     "dm": "horse of the awakening mind",
+     "gm": "horse of the awakening mind"
+    },
+    {
+     "bo": "སྒྱིད་ལུག",
+     "dm": "despondency",
+     "gm": "despair"
+    }
+   ]
+  },
+  {
+   "id": "7-31",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "དཔུང་",
+     "dm": "forces",
+     "gm": "forces"
+    },
+    {
+     "bo": "མོས",
+     "dm": "aspiration",
+     "gm": "aspiration"
+    },
+    {
+     "bo": "བརྟན",
+     "dm": "steadfastness",
+     "gm": "firmness"
+    },
+    {
+     "bo": "དགའ",
+     "dm": "joy",
+     "gm": "joy"
+    },
+    {
+     "bo": "དོར་བ",
+     "dm": "relinquishment",
+     "gm": "relinquishment"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "ཕན་ཡོན",
+     "dm": "benefits",
+     "gm": "benefits"
+    }
+   ]
+  },
+  {
+   "id": "7-32",
+   "terms": [
+    {
+     "bo": "མི་མཐུན་ཕྱོགས",
+     "dm": "opposing factors",
+     "gm": "discordant factors"
+    },
+    {
+     "bo": "མོས",
+     "dm": "aspiration",
+     "gm": "aspiration"
+    },
+    {
+     "bo": "ང་རྒྱལ",
+     "dm": "pride",
+     "gm": "pride"
+    },
+    {
+     "bo": "དགའ",
+     "dm": "joy",
+     "gm": "joy"
+    },
+    {
+     "bo": "དོར",
+     "dm": "relinquishment",
+     "gm": "relinquishment"
+    },
+    {
+     "bo": "ལྷུར་ལེན",
+     "dm": "Earnest application",
+     "gm": "earnest application"
+    },
+    {
+     "bo": "དབང་བསྒྱུར",
+     "dm": "mastery",
+     "gm": "mastery"
+    },
+    {
+     "bo": "སྟོབས",
+     "dm": "powers",
+     "gm": "powers"
+    },
+    {
+     "bo": "བརྩོན་འགྲུས",
+     "dm": "diligence",
+     "gm": "joyful endeavor"
+    }
+   ]
+  },
+  {
+   "id": "7-33",
+   "terms": [
+    {
+     "bo": "ཉེས་པ",
+     "dm": "faults",
+     "gm": "faults"
+    },
+    {
+     "bo": "བསྐལ་པ་རྒྱ་མཚོ",
+     "dm": "ocean of eons",
+     "gm": "ocean of eons"
+    },
+    {
+     "bo": "བསྐལ་པ",
+     "dm": "eons",
+     "gm": "eons"
+    }
+   ]
+  },
+  {
+   "id": "7-34",
+   "terms": [
+    {
+     "bo": "ཉེས",
+     "dm": "faults",
+     "gm": "faults"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "7-35",
+   "terms": [
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "virtues",
+     "gm": "good qualities"
+    },
+    {
+     "bo": "བསྐལ་པ་རྒྱ་མཚོ",
+     "dm": "ocean of eons",
+     "gm": "ocean of eons"
+    },
+    {
+     "bo": "བསྐལ་པ",
+     "dm": "eons",
+     "gm": "eons"
+    }
+   ]
+  },
+  {
+   "id": "7-36",
+   "terms": [
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "virtues",
+     "gm": "good quality"
+    },
+    {
+     "bo": "སྐྱེ་བ",
+     "dm": "birth",
+     "gm": "birth"
+    }
+   ]
+  },
+  {
+   "id": "7-37",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན",
+     "dm": "Blessed One",
+     "gm": "Blessed Ones"
+    },
+    {
+     "bo": "བསྟན",
+     "dm": "Teachings",
+     "gm": "teaching"
+    }
+   ]
+  },
+  {
+   "id": "7-38",
+   "terms": [
+    {
+     "bo": "མི་འཇིགས",
+     "dm": "fearlessness",
+     "gm": "fearlessness"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  }
+ ]
+}

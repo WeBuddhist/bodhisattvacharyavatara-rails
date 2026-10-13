@@ -1,0 +1,129 @@
+{
+ "batch": "batch-23",
+ "segments": [
+  {
+   "id": "7-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-9",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "因悲傷之力而紅腫，\n雙眼發紅",
+     "evidence": "Tibetan 'mya ngan shugs kyis skrangs pa yi / mig dmar gdong la mtshi ma 'dzag' (Skt sāśru-raktekṣaṇānanān): the relatives' eyes are swollen by the force of grief, red, with tears on their faces (bo-shenga 7-9 gives the subject as the bereaved relatives). The translation leaves line 1 without a subject, merges 'swollen' and 'red' into 紅腫 and then repeats 發紅, and only introduces 親人們 in line 3, so the eyes could be taken as the speaker's own.",
+     "fix": "因悲傷之力而腫脹、雙眼發紅，\n臉龐流下淚水的親人們已陷入絕望，"
+    }
+   ]
+  },
+  {
+   "id": "7-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-13",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "如同天",
+     "evidence": "Tibetan 'lha 'dra ba' (Skt amarākāra): 'like a god'; bo-shenga 7-13 glosses it as 'like the gods of the desire realm' ('dod pa'i lha rnams dang 'dra ba). Bare 如同天 can be read as 'like heaven/sky' and is hard to parse; the locked rendering 天 is better kept inside a person-denoting phrase.",
+     "fix": "如同天人"
+    }
+   ]
+  },
+  {
+   "id": "7-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-15",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "無邊喜悅之因的\n最勝喜悅的正法",
+     "evidence": "Tibetan 'dga' ba'i rgyu ni mtha' yas pa'i / dam chos dga' ba'i mchog': the sublime Dharma is a boundless cause of joy and the supreme joy (bo-gyaltsab 7-15: 'dga' ba'i rgyu ni mtha' yas pa'i thabs dam pa'i chos ... dga' ba'i mchog'). The stacked 的 chain 'cause-of-boundless-joy 的 supreme-joy 的 正法' is hard to parse, and 苦因所致的散亂 reads 'distraction resulting from causes of suffering', whereas bo-shenga 7-15 reads 'distraction by the five sense pleasures, the cause of all suffering', and bo-gyaltsab 7-15 makes distraction and agitation themselves causes of suffering.",
+     "fix": "捨棄了作為無邊喜悅之因、最勝喜悅的正法之後，你為何喜愛那些作為苦因的散亂與掉舉等？"
+    }
+   ]
+  },
+  {
+   "id": "7-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-26",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

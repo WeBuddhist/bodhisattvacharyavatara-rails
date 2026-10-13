@@ -1,0 +1,129 @@
+{
+ "batch": "batch-20",
+ "segments": [
+  {
+   "id": "6-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-84",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-87",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "केवल तुम्हारी इच्छा मात्र से, उसे हानि पहुँचाने का कारण नहीं बनेगा।",
+     "evidence": "Tibetan 'ཁྱོད་ཀྱི་ཡིད་སྨོན་ཙམ་གྱིས་ནི། དེ་ལ་གནོད་པའི་རྒྱུར་མི་འགྱུར།': the subject (the wish) becomes the cause of harm; Gyaltsab 6-87: 'ཡིད་སྨོན་ཙམ་གྱིས་ནི་དགྲ་དེ་ལ་གནོད་པའི་རྒྱུར་མི་འགྱུར'. In the Hindi the instrumental 'इच्छा मात्र से' leaves the clause without a clear subject (reads as if the enemy will not become a cause), and 'केवल ... मात्र' is redundant.",
+     "fix": "तुम्हारी मात्र इच्छा उसे हानि पहुँचाने का कारण नहीं बनेगी।"
+    }
+   ]
+  },
+  {
+   "id": "6-88",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "उसमें तुम्हारे प्रसन्न होने को क्या है?",
+     "evidence": "Tibetan 'ཁྱོད་དགར་ཅི་ཞིག་ཡོད' (Shenga: 'དེ་ལ་ཁྱོད་དགའ་བ་ཅི་ཞིག་ཡོད') means 'what is there for you to rejoice in'; the Hindi 'प्रसन्न होने को क्या है' is a calque and is not idiomatic/grammatical Hindi.",
+     "fix": "उसमें तुम्हारे प्रसन्न होने की क्या बात है?"
+    }
+   ]
+  },
+  {
+   "id": "6-89",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "अत्यंत भयानक",
+     "evidence": "Tibetan 'མི་བཟད་གཟེ' has two qualities, unbearable (མི་བཟད) and fierce/terrible (གཟེ); Shenga 6-89 glosses 'མི་བཟད་པར་གཟེ་བ' and Kunpal 'མི་བཟད་པ་གཟེ་བའམ་རྣོ་བ'. The Hindi renders only one quality ('भयानक') with an intensifier.",
+     "fix": "असह्य और भयंकर"
+    }
+   ]
+  },
+  {
+   "id": "6-90",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-91",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-101",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

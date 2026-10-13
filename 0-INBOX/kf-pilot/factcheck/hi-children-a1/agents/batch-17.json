@@ -1,0 +1,245 @@
+{
+ "batch": "batch-17",
+ "segments": [
+  {
+   "id": "8-131",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-132",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "Source says the happiness given up is the happiness of both this visible life and the unseen (later) life ('seen and unseen happiness'); children's text only says 'big happiness and joy'.",
+     "fix": "लोग अपनी उलझन के कारण इस जीवन और अगले जन्म के बड़े सुख और आनंद को छोड़ देते हैं।"
+    }
+   ]
+  },
+  {
+   "id": "8-133",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-134",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-135",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-136",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-137",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-138",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-139",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "major",
+     "span": "ख़ुद को दूसरों से छोटा मानो",
+     "evidence": "Source: make the inferior, etc. (inferior, equal, superior) into oneself and oneself into the other, then feel jealousy, rivalry and pride. The children's text names only 'smaller', dropping 'etc.' (equal/superior), and turns 'take the inferior one as yourself' into 'think yourself smaller', changing the exercise.",
+     "fix": "किसी छोटे, बराबर या बड़े व्यक्ति को अपनी जगह रखो और खुद को उसकी जगह। फिर सोच में उलझे रहने के बिना, जलन, होड़ और घमंड की भावना करो।"
+    }
+   ]
+  },
+  {
+   "id": "8-140",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-141",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-142",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-143",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-144",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-145",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-146",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-147",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-148",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-149",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-150",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "Source says 'even this one, who is overcome by afflictions, competes with me'; the clause about being afflicted is dropped.",
+     "fix": "सुना है कि परेशान करने वाली भावनाओं से घिरा यह भी मेरे साथ मुकाबला कर रहा है!"
+    }
+   ]
+  },
+  {
+   "id": "8-151",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-152",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-153",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-154",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-155",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-156",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-157",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "रस और खून की बूँदों",
+     "evidence": "Source says drops of semen and blood (the parents' substances from which the body arises); 'रस' (juice) is not an equivalent.",
+     "fix": "दूसरों की (माता-पिता की) जीवन-बूँदों और खून की बूँदों में"
+    }
+   ]
+  },
+  {
+   "id": "8-158",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-159",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-160",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-161",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-162",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-163",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-164",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "छोटे में कहें तो, अपने फायदे के लिए तुमने दूसरों का जो भी बुरा किया है।",
+     "evidence": "The first sentence is an incomplete fragment; the source is one sentence saying whatever harm you did others for your own benefit should now fall on yourself for beings' sake.",
+     "fix": "थोड़े में कहें तो, अपने फायदे के लिए तुमने दूसरों का जो भी बुरा किया है, अब जीवों के भले के लिए वह सब अपने ऊपर ही आने दो।"
+    }
+   ]
+  },
+  {
+   "id": "8-165",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-166",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-167",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-168",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-169",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-170",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,626 @@
+[
+ {
+  "id": "8-11",
+  "tibetan": "ཕན་པར་སྨྲས་ན་ཁྲོ་བར་བྱེད། ། བདག་ཀྱང་ཕན་ལས་བཟློག་པར་བྱེད། ། དེ་དག་ངག་ནི་མ་མཉན་ན། ། ཁྲོ་བས་ངན་འགྲོར་འགྲོ་བར་འགྱུར། །",
+  "academic_translation": "If I speak beneficially, they become angry,\nAnd they also turn me away from what is beneficial;\nIf I do not listen to their words,\nOut of anger they will go to the lower realm.",
+  "locked_terms": [
+   {
+    "tibetan": "ངན་འགྲོ",
+    "use": "unhappy realm"
+   },
+   {
+    "tibetan": "ཁྲོ་བ",
+    "use": "anger"
+   }
+  ],
+  "translation": "If I say helpful things, they become angry. They also stop me from doing helpful things. If I do not listen to them, their anger will make them fall into an unhappy realm."
+ },
+ {
+  "id": "8-12",
+  "tibetan": "མཐོ་ལ་ཕྲག་དོག་མཉམ་དང་འགྲན། ། དམའ་ལ་ང་རྒྱལ་བསྟོད་ན་དྲེགས། ། མི་སྙན་བརྗོད་ན་ཁོང་ཁྲོ་སྐྱེ། ། ནམ་ཞིག་བྱིས་ལས་ཕན་པ་ཐོབ། །",
+  "academic_translation": "They have envy for superiors and compete with equals,\nThey have pride toward inferiors and are conceited when praised;\nIf spoken to unpleasantly, anger arises;\nWhen is benefit ever obtained from a childish person?",
+  "locked_terms": [
+   {
+    "tibetan": "ཕྲག་དོག",
+    "use": "jealousy"
+   },
+   {
+    "tibetan": "ང་རྒྱལ",
+    "use": "pride"
+   },
+   {
+    "tibetan": "བྱིས",
+    "use": "foolish person"
+   },
+   {
+    "tibetan": "ཁོང་ཁྲོ",
+    "use": "anger"
+   }
+  ],
+  "translation": "They feel jealousy toward those above them. They compete with their equals. They show pride toward those below them, and act stuck-up when praised. If someone speaks to them unkindly, they feel anger. When will I ever get any benefit from a foolish person?"
+ },
+ {
+  "id": "8-13",
+  "tibetan": "བྱིས་དང་འགྲོགས་ན་བྱིས་པ་ལ། ། བདག་བསྟོད་གཞན་ལ་སྨོད་པ་དང་། ། འཁོར་བར་དགའ་བའི་གཏམ་ལ་སོགས། ། མི་དགེ་ཅིས་ཀྱང་ངེས་པར་འབྱུང་། །",
+  "academic_translation": "If one associates with a childish one, from that childish one,\nSelf-praise, the disparagement of others,\nAnd talk that delights in saṃsāra and so forth—\nNon-virtue will certainly arise in every way.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱིས་པ",
+    "use": "childish person"
+   },
+   {
+    "tibetan": "བདག་བསྟོད",
+    "use": "praising oneself"
+   },
+   {
+    "tibetan": "འཁོར་བ",
+    "use": "cycle of rebirth"
+   },
+   {
+    "tibetan": "མི་དགེ",
+    "use": "bad deed"
+   },
+   {
+    "tibetan": "གཞན་ལ་སྨོད་པ",
+    "use": "putting others down"
+   }
+  ],
+  "translation": "If I spend time with a childish person, I will hear them praising oneself and putting others down. They will talk happily about the cycle of rebirth. Every kind of bad deed will surely come from this."
+ },
+ {
+  "id": "8-14",
+  "tibetan": "དེ་ལྟར་བདག་དང་གཞན་བསྟེན་པ། ། དེས་ནི་ཕུང་བར་འགྱུར་བར་ཟད། ། དེས་ཀྱང་བདག་དོན་མ་བྱས་ལ། ། བདག་ཀྱང་དེ་དོན་མི་འགྱུར་བས། །",
+  "academic_translation": "Thus, when oneself and another rely on each other,\nBy that, one will merely come to ruin;\nSince they do not accomplish my welfare,\nAnd I too will not accomplish their welfare,",
+  "locked_terms": [
+   {
+    "tibetan": "དོན",
+    "use": "good"
+   }
+  ],
+  "translation": "If we rely on each other like this, we will only ruin ourselves. They will not do me any good. And I will not do them any good either."
+ },
+ {
+  "id": "8-15",
+  "tibetan": "བྱིས་ལས་ཐག་རིང་བྱོལ་བར་བྱ། ། ཕྲད་ན་དགའ་བས་མགུ་བྱས་ཏེ། ། འདྲིས་ཆེན་ཉིད་དུ་མི་འགྱུར་བར། ། ཐ་མལ་པ་ཙམ་ལེགས་པར་བྱ། །",
+  "academic_translation": "I shall flee far away from a childish person.\nIf encountered, I shall please them with joy;\nWithout becoming highly intimate,\nI shall behave well as a mere ordinary person.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱིས",
+    "use": "foolish person"
+   }
+  ],
+  "translation": "I will stay far away from a foolish person. If we meet, I will be friendly and make them happy. But I will not get too close. I will just act like an ordinary person."
+ },
+ {
+  "id": "8-16",
+  "tibetan": "བུང་བས་མེ་ཏོག་སྦྲང་རྩི་བཞིན། ། ཆོས་ཀྱི་དོན་ཙམ་བླངས་ནས་ནི། ། ཀུན་ལ་སྔོན་ཆད་མ་མཐོང་བཞིན། ། འདྲིས་པ་མེད་པར་གནས་པར་བྱ། །",
+  "academic_translation": "Just as a bee takes nectar from a flower,\nHaving taken only what serves the purpose of the Dharma,\nAs if I had never seen them before,\nI shall remain without familiarity toward everyone.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོས",
+    "use": "teachings"
+   }
+  ],
+  "translation": "A bee just takes nectar from a flower and flies away. In the same way, I will only take what helps me practice the teachings. I will stay slightly apart from everyone, as if I had never met them before."
+ },
+ {
+  "id": "8-17",
+  "tibetan": "བདག་ནི་རྙེད་མང་བཀུར་སྟི་བཅས། ། བདག་ལ་མང་པོ་དགའ་འོ་ཞེས། ། དེ་འདྲའི་སྙེམས་པ་འཆང་གྱུར་ན། ། ཤི་བའི་འོག་ཏུ་འཇིགས་པ་སྐྱེ། །",
+  "academic_translation": "\"I have much gain and honor,\nAnd many are fond of me\"—\nIf I harbor such conceit,\nFear will arise after death.",
+  "locked_terms": [
+   {
+    "tibetan": "རྙེད",
+    "use": "gain"
+   },
+   {
+    "tibetan": "བཀུར་སྟི",
+    "use": "honor"
+   },
+   {
+    "tibetan": "སྙེམས་པ",
+    "use": "puffed-up feeling"
+   }
+  ],
+  "translation": "I might think that I have much gain and honor, and that many people like me. If I hold onto that puffed-up feeling, fear will come to me after I die."
+ },
+ {
+  "id": "8-18",
+  "tibetan": "དེ་བས་རྣམ་པར་རྨོངས་པའི་ཡིད། ། གང་དང་གང་ལ་ཆགས་གྱུར་པ། ། དེ་དང་དེ་བསྡོངས་སྟོང་འགྱུར་དུ། ། སྡུག་བསྔལ་ཉིད་དུ་འགྱུར་ཞིང་ལྡང་། །",
+  "academic_translation": "Therefore, whatever the thoroughly deluded mind\nBecomes attached to,\nWill all combine and, multiplied a thousandfold,\nBecome and arise as suffering.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "ཡིད",
+    "use": "mind"
+   }
+  ],
+  "translation": "Therefore, my confused mind might hold tightly to many things. But all those things will add up together. They will grow a thousand times bigger and turn into suffering."
+ },
+ {
+  "id": "8-19",
+  "tibetan": "དེ་བས་མཁས་པས་ཆགས་མི་བྱ། ། ཆགས་པ་ལས་ནི་འཇིགས་པ་སྐྱེ། ། འདི་དག་རང་བཞིན་འདོར་འགྱུར་བས། ། བརྟན་པར་གྱིས་ཏེ་རབ་ཏུ་རྟོགས། །",
+  "academic_translation": "Therefore, a wise person should not form attachment,\nFor fear arises from attachment.\nSince these things will naturally be left behind,\nRemain steadfast and thoroughly understand this.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆགས་པ",
+    "use": "clinging"
+   },
+   {
+    "tibetan": "མཁས་པ",
+    "use": "wise person"
+   },
+   {
+    "tibetan": "འཇིགས་པ",
+    "use": "fear"
+   }
+  ],
+  "translation": "Therefore, a wise person should avoid clinging, because fear comes from clinging. All these things will naturally be left behind anyway. I must stay strong and understand this completely."
+ },
+ {
+  "id": "8-20",
+  "tibetan": "རྙེད་པ་དག་ནི་མང་བྱུང་ཞིང་། ། གྲགས་དང་སྙན་པ་བྱུང་གྱུར་ཀྱང་། ། རྙེད་དང་གྲགས་པའི་ཚོགས་བཅས་ཏེ། ། གང་དུ་འདོང་བའི་གཏོལ་མེད་དོ། །",
+  "academic_translation": "Even if much gain has been acquired,\nAnd fame and a good reputation have arisen,\nAlong with the collection of gain and fame,\nThere is no knowing where one will go.",
+  "locked_terms": [
+   {
+    "tibetan": "རྙེད་པ",
+    "use": "gain"
+   },
+   {
+    "tibetan": "གྲགས་པ",
+    "use": "fame"
+   },
+   {
+    "tibetan": "སྙན་པ",
+    "use": "good name"
+   }
+  ],
+  "translation": "I might gather a lot of gain, fame, and a good name. But even with all that gain and fame, I have no idea where I will go after I die."
+ },
+ {
+  "id": "8-21",
+  "tibetan": "བདག་ལ་སྨོད་པ་གཞན་ཡོད་ན། ། བསྟོད་པས་བདག་དགར་ཅི་ཞིག་ཡོད། ། བདག་ལ་བསྟོད་པ་གཞན་ཡོད་ན། ། སྨད་པས་མི་དགར་ཅི་ཞིག་ཡོད། །",
+  "academic_translation": "If there are others who disparage me,\nwhat reason is there for me to be pleased by praise?\nIf there are others who praise me,\nwhat reason is there for me to be displeased by disparagement?",
+  "locked_terms": [
+   {
+    "tibetan": "བསྟོད་པ",
+    "use": "praise"
+   },
+   {
+    "tibetan": "སྨོད་པ",
+    "use": "speak badly of"
+   }
+  ],
+  "translation": "If there are others who speak badly of me, why should praise make me glad? If there are others who praise me, why should I be sad when people speak badly of me?"
+ },
+ {
+  "id": "8-22",
+  "tibetan": "སེམས་ཅན་མོས་པ་སྣ་ཚོགས་པ། ། རྒྱལ་བས་ཀྱང་ནི་མི་མགུ་ན། ། བདག་འདྲ་ངན་པས་སྨོས་ཅི་དགོས། ། དེ་བས་འཇིག་རྟེན་བསམ་པ་བཏང་། །",
+  "academic_translation": "Since sentient beings have diverse aspirations,\nif even the Victors cannot please them,\nwhat need is there to mention an inferior one like me?\nTherefore, I shall abandon thoughts of the world.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "མོས་པ",
+    "use": "strong wish"
+   },
+   {
+    "tibetan": "རྒྱལ་བ",
+    "use": "Victorious One"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན",
+    "use": "world"
+   }
+  ],
+  "translation": "Living beings have many different strong wishes. If even the Victorious Ones cannot please them all, how could an ordinary person like me do it? Therefore, I will let go of my thoughts about the world."
+ },
+ {
+  "id": "8-23",
+  "tibetan": "སེམས་ཅན་རྙེད་པ་མེད་ལ་སྨོད། ། རྙེད་པ་ཅན་ལ་མི་སྙན་བརྗོད། ། རང་བཞིན་འགྲོགས་དཀའ་དེ་དག་གིས། ། དགའ་བ་ཇི་ལྟར་སྐྱེ་བར་འགྱུར། །",
+  "academic_translation": "Sentient beings disparage those without gains,\nand speak unpleasantly of those with gains.\nHow will joy arise from those\nwho are naturally difficult to associate with?",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "རྙེད་པ",
+    "use": "gain"
+   }
+  ],
+  "translation": "Living beings say bad things about people without gains. They also say mean things about people with gains. They are naturally hard to be around. How could they ever bring me joy?"
+ },
+ {
+  "id": "8-24",
+  "tibetan": "གང་ཕྱིར་བྱིས་པ་རང་དོན་ནི། ། མེད་པར་དགའ་བ་མི་འབྱུང་བས། ། བྱིས་པ་འགའ་ཡང་བཤེས་མིན་ཞེས། ། དེ་བཞིན་གཤེགས་པ་རྣམས་ཀྱིས་གསུངས། །",
+  "academic_translation": "Because joy does not arise for childish ones\nwithout their own benefit,\nthe Tathāgatas have said\nthat no childish one is a friend.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱིས་པ",
+    "use": "childish person"
+   },
+   {
+    "tibetan": "བཤེས",
+    "use": "friend"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   }
+  ],
+  "translation": "A childish person is never happy unless they get something for themselves. Because of this, the Thus-Gone Ones have said that no childish person is a friend."
+ },
+ {
+  "id": "8-25",
+  "tibetan": "ནགས་ན་རི་དྭགས་བྱ་རྣམས་དང་། ། ཤིང་རྣམས་མི་སྙན་རྗོད་མི་བྱེད། ། འགྲོགས་ན་བདེ་བ་དེ་དག་དང་། ། ནམ་ཞིག་ལྷན་ཅིག་བདག་གནས་འགྱུར། །",
+  "academic_translation": "In the forest, deer, birds,\nand trees do not speak unpleasantly.\nWhen will I dwell together\nwith those whose company is pleasant?",
+  "locked_terms": [],
+  "translation": "In the forest, deer, birds, and trees do not say mean things. When will I live with them? Their company is so pleasant."
+ },
+ {
+  "id": "8-26",
+  "tibetan": "ཕུག་གམ་ལྷ་ཁང་སྟེང་པའམ། ། ལྗོན་ཤིང་དྲུང་དུ་གནས་བཅས་ཏེ། ། ནམ་ཞིག་རྒྱབ་ཏུ་མི་ལྟ་ཞིང་། ། ཆགས་པ་མེད་པར་འགྱུར་ཞིག་གུ། །",
+  "academic_translation": "Making my dwelling in a cave, an empty temple,\nor at the foot of a tree,\nwhen will I never look back\nand become free from attachment?",
+  "locked_terms": [
+   {
+    "tibetan": "ཆགས་པ",
+    "use": "clinging"
+   }
+  ],
+  "translation": "I will make my home in a cave, an empty temple, or at the foot of a tree. When will I stop looking back and become entirely free from clinging?"
+ },
+ {
+  "id": "8-27",
+  "tibetan": "ས་ཕྱོགས་བདག་གིར་བཟུང་མེད་པ། ། རང་བཞིན་གྱིས་ནི་ཡངས་རྣམས་སུ། ། རང་དབང་སྤྱོད་ཅིང་ཆགས་མེད་པར། ། ནམ་ཞིག་བདག་ནི་གནས་པར་འགྱུར། །",
+  "academic_translation": "In places not held as \"mine,\"\nWhich are naturally vast,\nActing freely and without attachment,\nWhen will I come to dwell?",
+  "locked_terms": [],
+  "translation": "When will I live in wide, open places that no one calls \"mine\"? When will I live there freely, without holding on to anything?"
+ },
+ {
+  "id": "8-28",
+  "tibetan": "ལྷུང་བཟེད་ལ་སོགས་ཉི་ཚེ་དང་། ། ཀུན་ལ་མི་མཁོའི་གོས་འཆང་ཞིང་། ། ལུས་འདི་སྦ་བ་མ་བྱས་ཀྱང་། ། འཇིགས་མེད་གནས་པར་ནམ་ཞིག་འགྱུར། །",
+  "academic_translation": "Possessing merely an alms bowl and the like,\nWearing garments wanted by no one,\nAnd not even concealing this body,\nWhen will I dwell without fear?",
+  "locked_terms": [
+   {
+    "tibetan": "ལྷུང་བཟེད",
+    "use": "alms bowl"
+   },
+   {
+    "tibetan": "ལུས",
+    "use": "body"
+   }
+  ],
+  "translation": "When will I live without fear? I will own just an alms bowl and a few small things. I will wear clothes that no one wants, and I will not even hide this body."
+ },
+ {
+  "id": "8-29",
+  "tibetan": "དུར་ཁྲོད་སོང་ནས་གཞན་དག་གི། ། རུས་གོང་དག་དང་བདག་གི་ལུས། ། འཇིག་པའི་ཆོས་ཅན་དག་ཏུ་ནི། ། ནམ་ཞིག་མགོ་སྙོམས་བྱེད་པར་འགྱུར། །",
+  "academic_translation": "Having gone to a charnel ground,\nThe skeletons of others and my body,\nAs having the nature of perishing,\nWhen will I treat them as equal?",
+  "locked_terms": [
+   {
+    "tibetan": "དུར་ཁྲོད",
+    "use": "place of the dead"
+   },
+   {
+    "tibetan": "རུས་གོང",
+    "use": "skeleton"
+   },
+   {
+    "tibetan": "ལུས",
+    "use": "body"
+   }
+  ],
+  "translation": "When will I go to a place of the dead? When will I treat my own body and the skeletons of others as exactly the same? Both are meant to pass away."
+ },
+ {
+  "id": "8-30",
+  "tibetan": "བདག་གི་ལུས་ནི་འདི་ཉིད་ཀྱང་། ། གང་གི་དྲི་ཡིས་ཝ་དག་ཀྱང་། ། དྲུང་དུ་ཉེར་འགྲོ་མི་འགྱུར་བ། ། དེ་ལྟ་བུར་ནི་འགྱུར་བར་འོང་། །",
+  "academic_translation": "Even this very body of mine\nWill come to be such that,\nBy its stench, even foxes\nWill not come near.",
+  "locked_terms": [
+   {
+    "tibetan": "ལུས",
+    "use": "body"
+   }
+  ],
+  "translation": "One day, even this very body of mine will change. It will smell so bad that not even foxes will come near it."
+ },
+ {
+  "id": "8-31",
+  "tibetan": "ལུས་འདི་གཅིག་པུ་བྱུང་བ་ཡང་། ། ལྷན་ཅིག་སྐྱེས་པའི་ཤ་རུས་དག ། ཞིག་སྟེ་སོ་སོར་འགྱེས་འགྱུར་ན། ། མཛའ་བ་གཞན་དག་ཅི་ཞིག་སྨོས། །",
+  "academic_translation": "Although this body arose as one,\nThe flesh and bones that were born together\nWill disintegrate and separate;\nWhat need to mention other loved ones?",
+  "locked_terms": [
+   {
+    "tibetan": "མཛའ་བ",
+    "use": "friend"
+   },
+   {
+    "tibetan": "ལུས",
+    "use": "body"
+   }
+  ],
+  "translation": "This body came to be as one whole thing. But the flesh and bones that were born together will break down and separate. If my own body falls apart, why even mention other friends?"
+ },
+ {
+  "id": "8-32",
+  "tibetan": "སྐྱེ་ན་གཅིག་པུ་སྐྱེ་འགྱུར་ཞིང་། ། འཆི་ནའང་དེ་ཉིད་གཅིག་འཆི་སྟེ། ། སྡུག་བསྔལ་སྐལ་གཞན་མི་ལེན་ན། ། གེགས་བྱེད་མཛའ་བས་ཅི་ཞིག་བྱ། །",
+  "academic_translation": "When born, one is born alone,\nAnd when dying, one dies alone;\nSince others do not take a share of the suffering,\nWhat is the use of loved ones who create obstacles?",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "མཛའ་བ",
+    "use": "friend"
+   }
+  ],
+  "translation": "I was born alone, and I will die alone. No one else can take a share of my suffering. So what is the use of friends who only get in the way?"
+ },
+ {
+  "id": "8-33",
+  "tibetan": "ལམ་དག་ཏུ་ནི་ཞུགས་པ་རྣམས། ། ཇི་ལྟར་གནས་ནི་འཛིན་བྱེད་ལྟར། ། དེ་བཞིན་སྲིད་པའི་ལམ་ཞུགས་པའང་། ། སྐྱེ་བའི་གནས་ནི་ཡོངས་སུ་འཛིན། །",
+  "academic_translation": "Just as those entered upon a road\nTake up a place to stay,\nSo too do those entered on the path of existence\nFully take up a place of birth.",
+  "locked_terms": [
+   {
+    "tibetan": "སྲིད་པའི་ལམ",
+    "use": "path of life"
+   }
+  ],
+  "translation": "People traveling on a road find a place to stay. In the same way, those on the path of life find a place to be born."
+ },
+ {
+  "id": "8-34",
+  "tibetan": "འཇིག་རྟེན་ཀུན་ནས་གདུང་བཞིན་དུ། ། ཇི་སྲིད་སྐྱེས་བུ་བཞི་ཡིས་ནི། ། དེ་ལས་དེ་ནི་མ་བཏེག་པ། ། དེ་སྲིད་དུ་ནི་ནགས་སུ་སོང་། །",
+  "academic_translation": "While the world grieves all around,\nAs long as four men\nHave not yet carried that body away from there,\nUntil then, go to the forest!",
+  "locked_terms": [
+   {
+    "tibetan": "འཇིག་རྟེན",
+    "use": "world"
+   }
+  ],
+  "translation": "While the world grieves all around, go to the forest! Do this before four men carry your body away."
+ },
+ {
+  "id": "8-35",
+  "tibetan": "བཤེས་མེད་འཁོན་པའང་མེད་བྱས་ནས། ། ལུས་འདི་གཅིག་པུ་དབེན་གནས་ཏེ། ། སྔ་ནས་ཤི་དང་འདྲར་བརྩིས་ནས། ། ཤི་ནའང་མྱ་ངན་བྱེད་པ་མེད། །",
+  "academic_translation": "Having made no friends and no enemies,\nThis body dwells alone in solitude;\nBeing reckoned as already dead,\nEven when dying, no one feels grief.",
+  "locked_terms": [
+   {
+    "tibetan": "བཤེས",
+    "use": "friend"
+   },
+   {
+    "tibetan": "མྱ་ངན",
+    "use": "sorrow"
+   },
+   {
+    "tibetan": "ལུས",
+    "use": "body"
+   }
+  ],
+  "translation": "This body lives all alone, making no friends and no enemies. Since I act like I am already dead, no one will feel sorrow when I die."
+ },
+ {
+  "id": "8-36",
+  "tibetan": "དྲུང་ན་འཁོད་པ་སུ་དག་ཀྱང་། ། མྱ་ངན་གནོད་པ་བྱེད་མེད་པས། ། འདི་ཡིས་སངས་རྒྱས་རྗེས་དྲན་སོགས། ། སུས་ཀྱང་གཡེངས་པར་འགྱུར་བ་མེད། །",
+  "academic_translation": "Since there is no one staying nearby\nTo cause the harm of grief,\nNo one at all will distract me from\nThe recollection of the Buddha and so forth.",
+  "locked_terms": [
+   {
+    "tibetan": "སངས་རྒྱས་རྗེས་དྲན",
+    "use": "remembering the Buddha"
+   },
+   {
+    "tibetan": "མྱ་ངན",
+    "use": "sorrow"
+   }
+  ],
+  "translation": "No one stays nearby to cause the harm of sorrow. Because of this, no one will distract me from remembering the Buddha and other things."
+ },
+ {
+  "id": "8-37",
+  "tibetan": "དེ་བས་ཤིན་ཏུ་མདངས་དགའ་བའི། ། ནགས་ཚལ་ཚེགས་ཆུང་བདེ་སྐྱིད་ཅིང་། ། གཡེང་བ་ཐམས་ཅད་ཞི་བྱེད་པར། ། བདག་ཉིད་གཅིག་པུ་གནས་པར་བྱ། །",
+  "academic_translation": "Therefore, in exceptionally delightful\nForests, free of hardship and blissful,\nWhich pacify all distractions,\nI myself shall dwell alone.",
+  "locked_terms": [
+   {
+    "tibetan": "གཡེང་བ",
+    "use": "distraction"
+   }
+  ],
+  "translation": "Therefore, I will live all alone in beautiful, joyful forests that are free from hardship. These forests calm all distractions."
+ },
+ {
+  "id": "8-38",
+  "tibetan": "བསམ་པ་གཞན་ནི་ཀུན་བཏང་སྟེ། ། བདག་ལ་སེམས་པ་གཅིག་པུ་ཡིས། ། སེམས་ནི་མཉམ་པར་གཞག་ཕྱིར་དང་། ། དུལ་བར་བྱ་ཕྱིར་བརྩོན་ཏེ་བྱ། །",
+  "academic_translation": "Having let go of all other thoughts,\nWith a mind intent solely on my own mind,\nIn order to settle the mind in meditative equipoise\nAnd to subdue it, I shall strive.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   },
+   {
+    "tibetan": "མཉམ་པར་གཞག",
+    "use": "settling the mind"
+   }
+  ],
+  "translation": "I will let go of all other thoughts. I will focus only on my own mind. I will work hard at settling the mind and taming it."
+ },
+ {
+  "id": "8-39",
+  "tibetan": "འཇིག་རྟེན་འདི་དང་ཕ་རོལ་དུའང་། ། འདོད་པ་རྣམས་ནི་ཕུང་ཁྲོལ་བསྐྱེད། ། འདིར་ནི་བསད་དང་བཅིང་དང་གཅོད། ། ཕ་རོལ་དུ་ནི་དམྱལ་སོགས་སྒྲུབ། །",
+  "academic_translation": "In this world and in the next,\nsensual desires produce ruin;\nhere, they lead to being killed, bound, and mutilated,\nand in the next, they bring about the hells and so forth.",
+  "locked_terms": [
+   {
+    "tibetan": "འདོད་པ",
+    "use": "desire for pleasure"
+   },
+   {
+    "tibetan": "དམྱལ",
+    "use": "hell"
+   }
+  ],
+  "translation": "In this world and the next, desire for pleasure brings ruin. Here, it leads to being killed, tied up, and hurt. In the next life, it brings about the hells."
+ },
+ {
+  "id": "8-40",
+  "tibetan": "ཕོ་ཉ་ཕོ་ཉ་མོ་ཡིས་སྔོན། ། གང་ཕྱིར་དུ་མར་གསོལ་བཏབ་ཅིང་། ། སྡིག་པ་རྣམས་སམ་གྲགས་མིན་ལའང་། ། གང་གི་དོན་དུ་མ་འཛེམས་པར། །",
+  "academic_translation": "Previously, through male and female messengers,\nfor whose sake you made many requests,\nand regarding even misdeeds or infamy,\nfor whose sake you did not hesitate;",
+  "locked_terms": [
+   {
+    "tibetan": "སྡིག་པ",
+    "use": "harmful deed"
+   }
+  ],
+  "translation": "In the past, you sent many messengers to win their love. You did not hesitate to do harmful deeds or ruin your good name for them."
+ },
+ {
+  "id": "8-41",
+  "tibetan": "འཇིགས་པ་ལ་ཡང་བདག་ཞུགས་ཤིང་། ། རྫས་ཀྱང་ཟད་པར་བྱས་གྱུར་ཏེ། ། གང་ལ་ཡོངས་སུ་འཁྱུད་པས་ན། ། མཆོག་ཏུ་དགའ་འགྱུར་དེ་དག་ཉིད། །",
+  "academic_translation": "casting yourself even into danger\nand exhausting your wealth,\nby fully embracing whom\nyou would be supremely delighted—those very ones",
+  "locked_terms": [],
+  "translation": "You even put yourself in danger and spent all your wealth for them. You thought that hugging them would make you perfectly happy."
+ },
+ {
+  "id": "8-42",
+  "tibetan": "ཀེང་རུས་ཉིད་ཡིན་གཞན་མིན་ན། ། རང་དབང་དང་ནི་བདག་མིན་ལ། ། རབ་ཏུ་འདོད་ཅིང་ཡོངས་ཞེན་ནས། ། ཅི་ཕྱིར་མྱ་ངན་འདས་མི་འགྲོ། །",
+  "academic_translation": "are nothing but skeletons, nothing else.\nSince they have neither independence nor a self,\ndesiring and clinging to them intensely,\nwhy do you not go to nirvāṇa?",
+  "locked_terms": [
+   {
+    "tibetan": "ཀེང་རུས",
+    "use": "skeleton"
+   },
+   {
+    "tibetan": "རང་དབང",
+    "use": "independence"
+   },
+   {
+    "tibetan": "བདག",
+    "use": "self"
+   },
+   {
+    "tibetan": "མྱ་ངན་འདས",
+    "use": "freedom from sorrow"
+   }
+  ],
+  "translation": "But those very people are nothing but skeletons! They have no independence and no self. Why do you desire them and hold on so tightly? Why do you not go to freedom from sorrow?"
+ },
+ {
+  "id": "8-43",
+  "tibetan": "གང་ཞིག་དང་པོ་འབད་དེ་བཏེག ། དྲངས་ཀྱང་ངོ་ཚས་འོག་ཏུ་ལྟ། ། སྔོན་ནི་མཐོང་ངམ་མ་མཐོང་ཡང་། ། གོས་ཀྱིས་གདོང་ནི་གཡོགས་པར་གྱུར། །",
+  "academic_translation": "That which you first lifted with effort,\nand though drawn up, looked down out of modesty;\nwhether seen before or unseen,\nthat face was covered by a cloth.",
+  "locked_terms": [],
+  "translation": "When you first lifted the cloth with effort, that face looked down shyly. Whether you had seen it before or not, that face was covered."
+ },
+ {
+  "id": "8-44",
+  "tibetan": "ཁྱོད་ཉོན་མོངས་པའི་གདོང་དེ་ནི། ། ད་ལྟ་མངོན་སུམ་གྱུར་པ་བཞིན། ། བྱ་རྒོད་ཀྱིས་བསལ་བྱས་མཐོང་ནས། ། ད་ལྟ་ཅི་ཕྱིར་འབྱེར་བར་བྱེད། །",
+  "academic_translation": "That face which became your affliction,\nJust as it has now become manifest,\nSeeing it unveiled by vultures,\nWhy do you flee from it now?",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས་པ",
+    "use": "troubling emotion"
+   },
+   {
+    "tibetan": "བྱ་རྒོད",
+    "use": "vulture"
+   }
+  ],
+  "translation": "That face became a troubling emotion for you. Now it is right out in the open. Seeing it uncovered by vultures, why do you run away from it now?"
+ },
+ {
+  "id": "8-45",
+  "tibetan": "གཞན་རྣམས་མིག་གིས་བལྟ་ན་ཡང་། ། གང་ཞིག་ཡོངས་སུ་བསྲུང་གྱུར་པ། ། ཇི་སྲིད་དེ་ནི་དེས་ཟ་ན། ། སེར་སྣ་ཅན་ཁྱོད་ཅིས་མི་བསྲུང་། །",
+  "academic_translation": "Even when others merely looked with their eyes,\nYou kept it completely guarded;\nWhile it is being eaten by them,\nWhy, O miser, do you not guard it?",
+  "locked_terms": [
+   {
+    "tibetan": "སེར་སྣ་ཅན",
+    "use": "stingy person"
+   }
+  ],
+  "translation": "Even when others just looked at it with their eyes, you guarded it completely. While it is being eaten by them, why do you not guard it, you stingy person?"
+ },
+ {
+  "id": "8-46",
+  "tibetan": "ཤ་ཡི་ཕུང་པོ་འདི་མཐོང་ནས། ། བྱ་རྒོད་དང་གཞན་ཟ་བྱེད་ན། ། གཞན་གྱི་ཟས་ལ་མེ་ཏོག་གི ། ཕྲེང་བ་ཙནྡན་རྒྱན་གྱིས་མཆོད། །",
+  "academic_translation": "Seeing this heap of flesh,\nWhen vultures and others eat it,\nWhy do you honor the food of others\nWith flower garlands, sandalwood, and ornaments?",
+  "locked_terms": [
+   {
+    "tibetan": "ཤ་ཡི་ཕུང་པོ",
+    "use": "heap of flesh"
+   },
+   {
+    "tibetan": "བྱ་རྒོད",
+    "use": "vulture"
+   },
+   {
+    "tibetan": "ཙནྡན",
+    "use": "sandalwood"
+   }
+  ],
+  "translation": "When you see this heap of flesh, vultures and others will eat it. Why do you honor the food of others with flower garlands, sandalwood, and ornaments?"
+ },
+ {
+  "id": "8-47",
+  "tibetan": "རུས་གོང་ཉིད་དུ་མཐོང་ནས་ནི། ། མི་འགུལ་ཡང་ནི་ཁྱོད་སྐྲག་ན། ། རོ་ལངས་བཞིན་དུ་འགའ་ཡིས་ཀྱང་། ། བསྐྱོད་པར་གྱུར་ན་ཅིས་མི་འཇིགས། །",
+  "academic_translation": "Seeing it as a mere skeleton,\nIf you are terrified even when it is motionless,\nWhy are you not afraid when it is moved\nBy something, like a reanimated corpse?",
+  "locked_terms": [
+   {
+    "tibetan": "རུས་གོང",
+    "use": "skeleton"
+   },
+   {
+    "tibetan": "རོ་ལངས",
+    "use": "corpse that walks"
+   }
+  ],
+  "translation": "When you see a simple skeleton, you are terrified even if it does not move. Why are you not afraid when something moves it, like a corpse that walks?"
+ },
+ {
+  "id": "8-48",
+  "tibetan": "ཟས་ནི་གཅིག་པུ་ཉིད་ལས་ནི། ། བཤང་དང་ཁ་ཆུ་བྱུང་གྱུར་ན། ། དེ་ལས་བཤང་ལ་མི་དགའ་ཞིང་། ། ཁ་ཆུ་ལ་ཁྱོད་ཅི་ཕྱིར་དགའ། །",
+  "academic_translation": "Since from a single food alone\nExcrement and saliva are produced,\nOut of these you dislike the excrement,\nSo why do you delight in the saliva?",
+  "locked_terms": [
+   {
+    "tibetan": "བཤང",
+    "use": "body waste"
+   },
+   {
+    "tibetan": "ཁ་ཆུ",
+    "use": "spit"
+   }
+  ],
+  "translation": "Body waste and spit are both made from the exact same food. Out of these two, you dislike the body waste. So why do you like the spit?"
+ },
+ {
+  "id": "8-49",
+  "tibetan": "ཤིང་བལ་རེག་ན་འཇམ་པ་ཡི། ། སྔས་ལ་དགའ་བར་མི་བྱེད་པར། ། དྲི་ང་འཛག་པ་མ་ཡིན་ཞེས། ། འདོད་ལྡན་མི་གཙང་བ་ལ་རྨོངས། །",
+  "academic_translation": "Not taking delight in a pillow\nOf cotton that is soft to the touch,\nSaying, \"It does not leak a foul odor,\"\nLustful persons are deluded about the impure.",
+  "locked_terms": [
+   {
+    "tibetan": "འདོད་ལྡན",
+    "use": "person full of desire"
+   },
+   {
+    "tibetan": "མི་གཙང་བ",
+    "use": "unclean"
+   }
+  ],
+  "translation": "A person full of desire does not enjoy a soft cotton pillow. They say, \"It does not leak a bad smell.\" They are confused about what is unclean."
+ },
+ {
+  "id": "8-50",
+  "tibetan": "གང་ལ་གཡོགས་ཀྱང་འདི་ཆགས་པ། ། དེ་མ་གཡོགས་ན་ཅིས་མི་འདོད། ། དེ་ལ་དགོས་པ་མེད་ན་ནི། ། གཡོགས་པ་ལ་ནི་ཅི་ཕྱིར་འཁྱུད། །",
+  "academic_translation": "If you have attachment to this even when covered,\nWhy do you not desire it when uncovered?\nIf you have no need for that,\nWhy do you embrace it when covered?",
+  "locked_terms": [
+   {
+    "tibetan": "ཆགས་པ",
+    "use": "clinging"
+   }
+  ],
+  "translation": "If you feel clinging to this even when it is covered, why do you not want it when it is uncovered? If you have no need for that, why do you hug it when it is covered?"
+ }
+]

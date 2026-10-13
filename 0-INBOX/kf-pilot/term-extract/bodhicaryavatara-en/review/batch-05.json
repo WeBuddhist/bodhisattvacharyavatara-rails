@@ -1,0 +1,238 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "4-0",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-1",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-2",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-3",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "Pronoun phrase 'their sons/heirs', not a fixed technical title."
+     }
+    ],
+    "fix_span": [
+     {
+      "n": 3,
+      "bo_fixed": "ཤེས་རབ"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "4-4",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-5",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-6",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 2,
+      "bo_fixed": "འགྲོ་བ"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "4-7",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 3,
+      "bo_fixed": "ལས"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "4-8",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-9",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-10",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-11",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 4,
+      "bo_fixed": "ས"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "4-12",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བརྩོན་པ",
+      "reason": "Technical term naming one of the six perfections (vīrya).",
+      "dm": "effort",
+      "gm": "effort"
+     }
+    ]
+   },
+   {
+    "id": "4-13",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-14",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-15",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-16",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-17",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-18",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-19",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-20",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-21",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 4,
+      "bo_fixed": "འཁོར་བ"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "4-22",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-23",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-24",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "4-3",
+    "bo": "དེ་ཡི་སྲས",
+    "reason": "Pronoun phrase 'their sons/heirs', not a fixed technical title."
+   }
+  ],
+  "fix_span": [
+   {
+    "id": "4-3",
+    "bo": "ཤེས་རབ་ཆེན་པོ",
+    "bo_fixed": "ཤེས་རབ"
+   },
+   {
+    "id": "4-6",
+    "bo": "འགྲོ་བ་ཐམས་ཅད",
+    "bo_fixed": "འགྲོ་བ"
+   },
+   {
+    "id": "4-7",
+    "bo": "ལས་ཚུལ",
+    "bo_fixed": "ལས"
+   },
+   {
+    "id": "4-11",
+    "bo": "ས་ཐོབ་པ",
+    "bo_fixed": "ས"
+   },
+   {
+    "id": "4-21",
+    "bo": "ཐོག་མེད་འཁོར་བ",
+    "bo_fixed": "འཁོར་བ"
+   }
+  ],
+  "add": [
+   {
+    "id": "4-12",
+    "bo": "བརྩོན་པ",
+    "dm": "effort",
+    "gm": "effort",
+    "reason": "Technical term naming one of the six perfections (vīrya)."
+   }
+  ]
+ }
+}

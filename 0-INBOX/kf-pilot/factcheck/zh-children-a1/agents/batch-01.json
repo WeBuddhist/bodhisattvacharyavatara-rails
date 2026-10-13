@@ -1,0 +1,291 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "I-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "I-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "I-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-5",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "世界上想要得到累積的福氣的智慧",
+     "evidence": "Academic: the wisdom of cultivating merit (修福德之慧) arises only occasionally, once in a hundred times; the children's text turns it into wisdom that \"wants to obtain\" merit and loses \"among a hundred (moments)\".",
+     "fix": "靠著佛陀的力量，世界上想要累積福氣的好念頭，在一百次裡偶爾才會出現一次。"
+    }
+   ]
+  },
+  {
+   "id": "1-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-10",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "變成得勝者那樣無價的寶石，也就是得勝者的身體",
+     "evidence": "Academic: the impure body is transformed into a priceless jewel, namely the body of the Victor; the children's text makes it sound like a jewel \"like the Victor\".",
+     "fix": "它能把我們不乾淨的身體，變成無價的寶石，也就是得勝者的身體。"
+    }
+   ]
+  },
+  {
+   "id": "1-11",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "佛陀就像眾生唯一的商隊的領隊",
+     "evidence": "Academic: \"the sole caravan-leader of beings\" with immeasurable wisdom; the Buddha is not named and no simile is stated.",
+     "fix": "眾生唯一的商隊的領隊，用無比的智慧仔細觀察，發現這顆心極為珍貴。"
+    }
+   ]
+  },
+  {
+   "id": "1-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-13",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "就算做了非常可怕的有害的行為。只要依靠它就能立刻得救。",
+     "evidence": "Fragmented sentence; \"它\" (bodhicitta) is not named in this segment, so a child cannot tell what to rely on. Academic: even one who has done unbearable wrongdoing is freed in an instant by relying on that (bodhicitta).",
+     "fix": "就算做了非常可怕的有害的行為，只要依靠覺悟之心，也能立刻得救，就像依靠勇士逃離巨大的危險。"
+    }
+   ]
+  },
+  {
+   "id": "1-14",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "它就像世界末日的大火。",
+     "evidence": "Referent \"它\" (bodhicitta) is unnamed in this segment; academic also says the great wrongdoings are \"certainly\" burned in an instant, which is not stated.",
+     "fix": "覺悟之心就像世界末日的大火，一瞬間就一定能燒毀巨大的過錯。"
+    }
+   ]
+  },
+  {
+   "id": "1-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-17",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "有了想要覺悟的心願。雖然在輪迴時能產生巨大的結果。",
+     "evidence": "Broken sentences; the concessive \"although...but not like\" structure is split into fragments. Academic is one connected comparison.",
+     "fix": "想要覺悟的心願，雖然在輪迴時也能帶來巨大的結果，但不像動身去覺悟的心那樣，能讓累積的福氣不斷地產生。"
+    }
+   ]
+  },
+  {
+   "id": "1-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "為了拯救無邊無際的眾生領域。我們用不再回頭的心。真正去接受這種心。從那一刻開始。",
+     "evidence": "Fragmented across four sentences, with \"眾生領域\" a hard phrase; academic is one clause: from the time one truly takes up that mind with an irreversible resolve to liberate the boundless realm of beings.",
+     "fix": "從我們為了解脫無邊無際的眾生，用不再回頭的心，真正接受這顆覺悟之心的那一刻開始，"
+    }
+   ]
+  },
+  {
+   "id": "1-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-20",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "信心不足的眾生",
+     "evidence": "Academic: beings of inferior inclination/aspiration (下劣信解); this is about their limited aspiration, not lack of faith.",
+     "fix": "心願還不夠寬廣的眾生"
+    },
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "Academic: \"此者連同其正理\" - the teaching was given together with its reasoning; the reasoning is not mentioned.",
+     "fix": "如來為了幫助心願還不夠寬廣的眾生，親自把這個道理和理由一起講了出來。"
+    }
+   ]
+  },
+  {
+   "id": "1-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-32",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "只讓人吃半飽",
+     "evidence": "Academic: the giver satisfies (them) for only half a day (令飽半日), a limited duration; \"half full\" changes a time span into an amount.",
+     "fix": "就算他帶著輕視，只讓人飽上半天。"
+    },
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "只給少數眾生一點食物",
+     "evidence": "Academic: he supplies food to a few beings continuously (持續供應飲食); the continuity is lost.",
+     "fix": "如果有人持續給少數眾生食物。"
+    }
+   ]
+  },
+  {
+   "id": "1-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-a",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

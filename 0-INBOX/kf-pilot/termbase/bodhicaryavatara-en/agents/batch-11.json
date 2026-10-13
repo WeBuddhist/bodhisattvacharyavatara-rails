@@ -1,0 +1,708 @@
+{
+ "batch": "batch-11",
+ "terms": [
+  {
+   "term_id": "T011",
+   "bo": "སྡིག་པ",
+   "sanskrit": "pāpa",
+   "senses": [
+    {
+     "sense": "misdeed",
+     "occurrences": "all",
+     "academic": "misdeed",
+     "children": "harmful deed",
+     "basis": "style-sheet",
+     "reason": "Policy 14: misdeed, not sin; both translations attest misdeed."
+    }
+   ]
+  },
+  {
+   "term_id": "T027",
+   "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ",
+   "sanskrit": "bodhisattvacaryāvatāra",
+   "senses": [
+    {
+     "sense": "title of the work",
+     "occurrences": "all",
+     "academic": "Entering the Way of the Bodhisattva",
+     "children": "Entering the Way of the Awakening Hero",
+     "basis": "style-sheet",
+     "reason": "Policy 25 and core term; the modal title in both."
+    }
+   ]
+  },
+  {
+   "term_id": "T043",
+   "bo": "རང་བཞིན",
+   "sanskrit": "svabhāva",
+   "senses": [
+    {
+     "sense": "nature",
+     "occurrences": "all",
+     "academic": "nature",
+     "children": "nature",
+     "basis": "both",
+     "reason": "Both translations agree; plain English."
+    }
+   ]
+  },
+  {
+   "term_id": "T059",
+   "bo": "ཀུན་རྫོབ",
+   "sanskrit": "saṃvṛti",
+   "senses": [
+    {
+     "sense": "conventional (truth)",
+     "occurrences": "all",
+     "academic": "conventional truth",
+     "children": "everyday truth",
+     "basis": "style-sheet",
+     "reason": "Policy 8: conventional, never relative; DM and G conventional reality."
+    }
+   ]
+  },
+  {
+   "term_id": "T075",
+   "bo": "གཤིན་རྗེ",
+   "sanskrit": "yama",
+   "senses": [
+    {
+     "sense": "Yama",
+     "occurrences": "all",
+     "academic": "Yama",
+     "children": "Yama",
+     "basis": "style-sheet",
+     "reason": "Policy 12: always Yama, distinct from Lord of Death."
+    }
+   ]
+  },
+  {
+   "term_id": "T091",
+   "bo": "བླ་མ",
+   "sanskrit": "guru",
+   "senses": [
+    {
+     "sense": "spiritual teacher",
+     "occurrences": "all",
+     "academic": "teacher",
+     "children": "teacher",
+     "basis": "dm",
+     "reason": "Policy 15 leaves guru untranslated only if listed; it is not, so translate."
+    }
+   ]
+  },
+  {
+   "term_id": "T107",
+   "bo": "སྒྲ",
+   "sanskrit": "śabda",
+   "senses": [
+    {
+     "sense": "sound",
+     "occurrences": "all",
+     "academic": "sound",
+     "children": "sound",
+     "basis": "both",
+     "reason": "Both agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T123",
+   "bo": "ལེ་ལོ",
+   "sanskrit": "ālasya",
+   "senses": [
+    {
+     "sense": "laziness",
+     "occurrences": "all",
+     "academic": "laziness",
+     "children": "laziness",
+     "basis": "both",
+     "reason": "Both agree; policy 28 fixes laziness."
+    }
+   ]
+  },
+  {
+   "term_id": "T139",
+   "bo": "རྣམ་དཔྱོད",
+   "sanskrit": "vicāra",
+   "senses": [
+    {
+     "sense": "analysis",
+     "occurrences": "all",
+     "academic": "analysis",
+     "children": "careful thinking",
+     "basis": "dm",
+     "reason": "Both attest analysis; children plainer."
+    }
+   ]
+  },
+  {
+   "term_id": "T155",
+   "bo": "ས",
+   "sanskrit": "bhūmi",
+   "senses": [
+    {
+     "sense": "bodhisattva ground",
+     "occurrences": [
+      "4-11"
+     ],
+     "academic": "ground",
+     "children": "stage",
+     "basis": "gm",
+     "reason": "Stage of the path; G attests grounds."
+    },
+    {
+     "sense": "earth (element)",
+     "occurrences": [
+      "9-119",
+      "9-121"
+     ],
+     "academic": "earth",
+     "children": "earth",
+     "basis": "both",
+     "reason": "Both attest earth in the Īśvara argument."
+    }
+   ]
+  },
+  {
+   "term_id": "T171",
+   "bo": "གཡེང་བ",
+   "sanskrit": "vikṣepa",
+   "senses": [
+    {
+     "sense": "distraction",
+     "occurrences": "all",
+     "academic": "distraction",
+     "children": "distraction",
+     "basis": "both",
+     "reason": "Both attest distraction."
+    }
+   ]
+  },
+  {
+   "term_id": "T187",
+   "bo": "རྣམ་ཤེས",
+   "sanskrit": "vijñāna",
+   "senses": [
+    {
+     "sense": "consciousness",
+     "occurrences": "all",
+     "academic": "consciousness",
+     "children": "awareness",
+     "basis": "style-sheet",
+     "reason": "Policy 24: རྣམ་ཤེས consciousness; children awareness."
+    }
+   ]
+  },
+  {
+   "term_id": "T203",
+   "bo": "ཐུགས་རྗེ་ཆེན་པོ",
+   "sanskrit": "mahākaruṇā",
+   "senses": [
+    {
+     "sense": "great compassion",
+     "occurrences": "all",
+     "academic": "great compassion",
+     "children": "great compassion",
+     "basis": "both",
+     "reason": "Both agree; builds on compassion."
+    }
+   ]
+  },
+  {
+   "term_id": "T219",
+   "bo": "བཅོམ་ལྡན",
+   "sanskrit": "bhagavat",
+   "senses": [
+    {
+     "sense": "epithet of the Buddha",
+     "occurrences": "all",
+     "academic": "Blessed One",
+     "children": "Blessed One",
+     "basis": "dm",
+     "reason": "DM attests Blessed One; G keeps Bhagavan, untranslated in this register."
+    }
+   ]
+  },
+  {
+   "term_id": "T235",
+   "bo": "བདག་བསྟོད",
+   "sanskrit": "ātmotkarṣa",
+   "senses": [
+    {
+     "sense": "self-praise",
+     "occurrences": "all",
+     "academic": "self-praise",
+     "children": "praising oneself",
+     "basis": "gm",
+     "reason": "Both attest self-praise; children plainer."
+    }
+   ]
+  },
+  {
+   "term_id": "T251",
+   "bo": "ཕུན་སུམ་ཚོགས་པ",
+   "sanskrit": "sampad",
+   "senses": [
+    {
+     "sense": "excellence",
+     "occurrences": "all",
+     "academic": "excellence",
+     "children": "excellence",
+     "basis": "style-sheet",
+     "reason": "Policy 21: ཕུན་སུམ་ཚོགས་པ is excellence."
+    }
+   ]
+  },
+  {
+   "term_id": "T267",
+   "bo": "གཉིད",
+   "sanskrit": "nidrā",
+   "senses": [
+    {
+     "sense": "sleep",
+     "occurrences": "all",
+     "academic": "sleep",
+     "children": "sleep",
+     "basis": "both",
+     "reason": "Both agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T283",
+   "bo": "སེམས་ཉིད",
+   "sanskrit": "citta",
+   "senses": [
+    {
+     "sense": "mind itself",
+     "occurrences": "all",
+     "academic": "mind itself",
+     "children": "mind itself",
+     "basis": "both",
+     "reason": "Both agree; builds on mind."
+    }
+   ]
+  },
+  {
+   "term_id": "T299",
+   "bo": "བདུད",
+   "sanskrit": "māra",
+   "senses": [
+    {
+     "sense": "Māra",
+     "occurrences": "all",
+     "academic": "Māra",
+     "children": "Mara",
+     "basis": "style-sheet",
+     "reason": "Policies 15 and 16: Māra; children without diacritics."
+    }
+   ]
+  },
+  {
+   "term_id": "T315",
+   "bo": "བྱང་ཆུབ་འཇུག་པ",
+   "sanskrit": "bodhiprasthāna",
+   "senses": [
+    {
+     "sense": "engaging bodhicitta",
+     "occurrences": "all",
+     "academic": "engaging bodhicitta",
+     "children": "mind that sets out to awaken",
+     "basis": "style-sheet",
+     "reason": "Policy 3: fixed form for engaging bodhicitta."
+    }
+   ]
+  },
+  {
+   "term_id": "T331",
+   "bo": "སྐུ་ཁྲུས",
+   "sanskrit": "snāna",
+   "senses": [
+    {
+     "sense": "bath",
+     "occurrences": "all",
+     "academic": "bath",
+     "children": "bath",
+     "basis": "both",
+     "reason": "Both agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T347",
+   "bo": "རྫོགས་སངས་རྒྱས",
+   "sanskrit": "saṃbuddha",
+   "senses": [
+    {
+     "sense": "fully awakened Buddha",
+     "occurrences": "all",
+     "academic": "fully awakened Buddha",
+     "children": "fully awakened Buddha",
+     "basis": "new",
+     "reason": "Awakening per Policy 1; DM enlightened, G perfect."
+    }
+   ]
+  },
+  {
+   "term_id": "T363",
+   "bo": "བཅས་པའི་སྡིག་པ",
+   "sanskrit": "prajñaptyāvadya",
+   "senses": [
+    {
+     "sense": "proscribed misdeed",
+     "occurrences": "all",
+     "academic": "proscribed misdeed",
+     "children": "forbidden harmful deed",
+     "basis": "style-sheet",
+     "reason": "Builds on misdeed (Policy 14); proscribed from both."
+    }
+   ]
+  },
+  {
+   "term_id": "T379",
+   "bo": "མི་ཡི་སྲིད་པ",
+   "sanskrit": "mānuṣa bhava",
+   "senses": [
+    {
+     "sense": "human existence",
+     "occurrences": "all",
+     "academic": "human existence",
+     "children": "human life",
+     "basis": "style-sheet",
+     "reason": "Both attest human existence; existence/life per core term."
+    }
+   ]
+  },
+  {
+   "term_id": "T395",
+   "bo": "སེམས་ཅན་དམྱལ་བའི་སྲུང་མ",
+   "sanskrit": "narakapāla",
+   "senses": [
+    {
+     "sense": "hell guardian",
+     "occurrences": "all",
+     "academic": "hell guardian",
+     "children": "hell guardian",
+     "basis": "style-sheet",
+     "reason": "Policy 11: hell guardian; sentient-being modifier is redundant."
+    }
+   ]
+  },
+  {
+   "term_id": "T411",
+   "bo": "སངས་རྒྱས་རྗེས་དྲན་པ",
+   "sanskrit": "buddhānusmṛti",
+   "senses": [
+    {
+     "sense": "recollection of the Buddha",
+     "occurrences": "all",
+     "academic": "recollection of the Buddha",
+     "children": "keeping the Buddha in mind",
+     "basis": "both",
+     "reason": "Both attest recollection; children builds on keeping in mind."
+    }
+   ]
+  },
+  {
+   "term_id": "T427",
+   "bo": "སྤྱི་རྟོལ",
+   "sanskrit": "pragalbha",
+   "senses": [
+    {
+     "sense": "impudence",
+     "occurrences": "all",
+     "academic": "impudence",
+     "children": "rudeness",
+     "basis": "dm",
+     "reason": "DM impudence; G shamelessness distorts the sense."
+    }
+   ]
+  },
+  {
+   "term_id": "T443",
+   "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ",
+   "sanskrit": "ācāra",
+   "senses": [
+    {
+     "sense": "conduct of the bodhisattva",
+     "occurrences": "all",
+     "academic": "conduct of the bodhisattva",
+     "children": "way of acting of the awakening hero",
+     "basis": "style-sheet",
+     "reason": "Compound of conduct and bodhisattva core terms."
+    }
+   ]
+  },
+  {
+   "term_id": "T459",
+   "bo": "མཁྲིས་པ",
+   "sanskrit": "pitta",
+   "senses": [
+    {
+     "sense": "bile",
+     "occurrences": "all",
+     "academic": "bile",
+     "children": "bile",
+     "basis": "both",
+     "reason": "Both agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T475",
+   "bo": "འཚང་རྒྱ་བ",
+   "sanskrit": "buddhatva",
+   "senses": [
+    {
+     "sense": "Buddhahood",
+     "occurrences": "all",
+     "academic": "Buddhahood",
+     "children": "becoming a Buddha",
+     "basis": "both",
+     "reason": "Both attest Buddhahood; children plainer."
+    }
+   ]
+  },
+  {
+   "term_id": "T491",
+   "bo": "རྒྱལ་བའི་ཞིང",
+   "sanskrit": "jinakṣetra",
+   "senses": [
+    {
+     "sense": "field of the Victors",
+     "occurrences": "all",
+     "academic": "field of the Victors",
+     "children": "field of the Victorious Ones",
+     "basis": "style-sheet",
+     "reason": "Policy 19 gives this exact compound."
+    }
+   ]
+  },
+  {
+   "term_id": "T507",
+   "bo": "བདག་ཉིད་དབང་བྱ",
+   "sanskrit": "ātmavidheyatā",
+   "senses": [
+    {
+     "sense": "self-mastery",
+     "occurrences": "all",
+     "academic": "self-mastery",
+     "children": "mastery of oneself",
+     "basis": "dm",
+     "reason": "DM self-mastery; builds on self."
+    }
+   ]
+  },
+  {
+   "term_id": "T523",
+   "bo": "བསྟན",
+   "sanskrit": "śāsana",
+   "senses": [
+    {
+     "sense": "the Buddha's teaching",
+     "occurrences": "all",
+     "academic": "teaching",
+     "children": "teachings",
+     "basis": "gm",
+     "reason": "Teaching, as Dharma refers to doctrine; G attests teaching."
+    }
+   ]
+  },
+  {
+   "term_id": "T539",
+   "bo": "ཏིང་ངེ་འཛིན",
+   "sanskrit": "samādhi",
+   "senses": [
+    {
+     "sense": "concentration",
+     "occurrences": "all",
+     "academic": "concentration",
+     "children": "deep focus",
+     "basis": "style-sheet",
+     "reason": "Core term: concentration, to avoid clash with meditative concentration."
+    }
+   ]
+  },
+  {
+   "term_id": "T555",
+   "bo": "སྲིད་པའི་ལམ",
+   "sanskrit": "bhavādhvan",
+   "senses": [
+    {
+     "sense": "path of existence",
+     "occurrences": "all",
+     "academic": "path of existence",
+     "children": "path of life",
+     "basis": "both",
+     "reason": "Both attest; existence per core term."
+    }
+   ]
+  },
+  {
+   "term_id": "T571",
+   "bo": "སྲིད་པའི་སྡུག་བསྔལ",
+   "sanskrit": "bhavaduḥkha",
+   "senses": [
+    {
+     "sense": "suffering of existence",
+     "occurrences": "all",
+     "academic": "suffering of existence",
+     "children": "suffering of life",
+     "basis": "style-sheet",
+     "reason": "Policy 29: existence, never cyclic existence; suffering per core term."
+    }
+   ]
+  },
+  {
+   "term_id": "T587",
+   "bo": "བརྗེ་བ",
+   "sanskrit": "parivartana",
+   "senses": [
+    {
+     "sense": "exchange",
+     "occurrences": "all",
+     "academic": "exchange",
+     "children": "exchange",
+     "basis": "both",
+     "reason": "Both agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T603",
+   "bo": "འཇིག་རྟེན་པ",
+   "sanskrit": "loka",
+   "senses": [
+    {
+     "sense": "worldly person",
+     "occurrences": "all",
+     "academic": "worldly person",
+     "children": "person of the world",
+     "basis": "new",
+     "reason": "World per core term; DM worldly, G people of the world."
+    }
+   ]
+  },
+  {
+   "term_id": "T619",
+   "bo": "སེམས་ཙམ",
+   "sanskrit": "cittamātra",
+   "senses": [
+    {
+     "sense": "Cittamātra",
+     "occurrences": "all",
+     "academic": "Cittamātra",
+     "children": "Mind Only",
+     "basis": "style-sheet",
+     "reason": "Policy 9: Cittamātra / Mind Only."
+    }
+   ]
+  },
+  {
+   "term_id": "T635",
+   "bo": "ཉོན་མོངས་ཅན",
+   "sanskrit": "kliṣṭa",
+   "senses": [
+    {
+     "sense": "afflicted",
+     "occurrences": "all",
+     "academic": "afflicted",
+     "children": "troubled by troubling emotion",
+     "basis": "style-sheet",
+     "reason": "Policy 4: afflicted adjective; children builds on troubling emotion."
+    }
+   ]
+  },
+  {
+   "term_id": "T651",
+   "bo": "ཉམས་མྱོང",
+   "sanskrit": "anubhava",
+   "senses": [
+    {
+     "sense": "experience",
+     "occurrences": "all",
+     "academic": "experience",
+     "children": "experience",
+     "basis": "both",
+     "reason": "Both agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T667",
+   "bo": "མཉམ་གནས",
+   "sanskrit": "aviṣamasthita",
+   "senses": [
+    {
+     "sense": "equilibrium",
+     "occurrences": "all",
+     "academic": "equilibrium",
+     "children": "perfect balance",
+     "basis": "dm",
+     "reason": "Both attest equilibrium; children plainer."
+    }
+   ]
+  },
+  {
+   "term_id": "T683",
+   "bo": "རྣམ་གཡེང",
+   "sanskrit": "vikṣepa",
+   "senses": [
+    {
+     "sense": "distraction",
+     "occurrences": "all",
+     "academic": "distraction",
+     "children": "distraction",
+     "basis": "both",
+     "reason": "Shares rendering with གཡེང་བ."
+    }
+   ]
+  },
+  {
+   "term_id": "T699",
+   "bo": "གཞོན་ནུ་ཟུར་ཕུད་ཅན",
+   "sanskrit": "cīrīkumāra",
+   "senses": [
+    {
+     "sense": "youth with a topknot",
+     "occurrences": "all",
+     "academic": "youth with a topknot",
+     "children": "boy with a topknot",
+     "basis": "gm",
+     "reason": "Zur phud is topknot; G follows it."
+    }
+   ]
+  },
+  {
+   "term_id": "T715",
+   "bo": "འགྲོ་བའི་བླ་མ",
+   "sanskrit": "jagadguru",
+   "senses": [
+    {
+     "sense": "teacher of wandering beings",
+     "occurrences": "all",
+     "academic": "teacher of wandering beings",
+     "children": "teacher of beings",
+     "basis": "style-sheet",
+     "reason": "Builds on teacher and Policy 13 wandering being."
+    }
+   ]
+  },
+  {
+   "term_id": "T731",
+   "bo": "དགེ་བློ",
+   "sanskrit": "mati",
+   "senses": [
+    {
+     "sense": "virtuous intellect",
+     "occurrences": "all",
+     "academic": "virtuous intellect",
+     "children": "good thinking mind",
+     "basis": "style-sheet",
+     "reason": "Builds on virtue and intellect (Policy 24); both translations say mind."
+    }
+   ]
+  }
+ ]
+}

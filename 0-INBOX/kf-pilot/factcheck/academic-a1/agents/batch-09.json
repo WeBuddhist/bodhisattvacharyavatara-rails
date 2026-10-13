@@ -1,0 +1,153 @@
+{
+ "batch": "batch-09",
+ "segments": [
+  {
+   "id": "4-21",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "that I will not go",
+     "evidence": "The Tibetan བདག་གི་/subject is absent: \"བདེ་འགྲོར་མི་འགྲོ་སྨོས་ཅི་དགོས\" has no first-person subject (Shenga 4-21: \"བདེ་འགྲོར་མི་འགྲོ་བ་ནི་སྨོས་ཅི་དགོས\"), and the Sanskrit \"kā sugatau kathā\" is likewise impersonal. The English adds \"I\".",
+     "fix": "that one will not go to a happy realm"
+    }
+   ]
+  },
+  {
+   "id": "4-22",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "One will not attain liberation",
+     "evidence": "Commentaries gloss རྣམ་ཐར་མི་འགྱུར as not being freed from that suffering / the lower realms: bo-shenga 4-22 \"སྡུག་བསྔལ་ལས་རྣམ་པར་ཐར་བར་མི་འགྱུར\", bo-kunpal 4-22 \"ངན་སོང་གི་གནས་དེ་ལས་རྣམ་པར་ཐར་པ་མི་འགྱུར\". \"Attain liberation\" suggests final liberation.",
+     "fix": "One will not be liberated from it"
+    }
+   ]
+  },
+  {
+   "id": "4-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-28",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "The enemies of hatred, craving, and so forth",
+     "evidence": "Tibetan \"ཞེ་སྡང་སྲེད་སོགས་དགྲ་རྣམས\" means the enemies that are hatred, craving, etc. (Shenga 4-28 \"ཞེ་སྡང་དང་སྲེད་པ་ལ་སོགས་པའི་དགྲ་བོ་རྣམས\"; Sanskrit tṛṣṇādveṣādiśatravaḥ). \"Enemies of hatred\" reads as a genitive of opposition.",
+     "fix": "The enemies, hatred, craving, and so forth,"
+    }
+   ]
+  },
+  {
+   "id": "4-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-36",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "a slight, temporary harm ... until they have destroyed it",
+     "evidence": "\"གནོད་བྱེད་ཆུང་ངུ\" is a slight harm-doer (an enemy), not \"harm\"; \"རེ་ཞིག\" means \"to begin with / for instance\", not \"temporary\". Gyaltsab 4-36: \"གནོད་བྱེད་ཆུང་དུ་ཚིག་རྩུབ་ཙམ་སྨྲ་བ་ལ་ཡང་ཁྲོས་པར་གྱུར་པ ... དགྲ་དེ་མ་བཅོམ་པར\" and Kunpal 4-36 \"ཐ་མལ་པའི་དགྲ་བོ ... གནོད་བྱེད་ཆུང་ངུ་ཙམ་ལ་ཡང་\". What is destroyed is the enemy, not the harm.",
+     "fix": "For instance, those swollen with pride, angered even by a slight wrongdoer, do not sleep until they have destroyed that enemy."
+    }
+   ]
+  },
+  {
+   "id": "4-37",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "doctrinal",
+     "severity": "major",
+     "span": "These afflictions, who suffer through natural death",
+     "evidence": "Here ཉོན་མོངས is not the mental afflictions but a disparaging word for ordinary, pitiable enemies who die naturally anyway: bo-kunpal 4-37 \"དགྲ་བོ་ཐ་མལ་པ་ཉོན་མོངས་པ་ཞེས་སྨད་པའི་ཚིག་སྟེ་ཉམས་ཐག་ཅིང་སྙིང་རྗེ་བའི་གནས་སུ་གྱུར་པའི་དགྲ་བོ་འདི་དག\"; bo-shenga 4-37 \"ཉོན་མོངས་ཏེ་སྙིང་རྗེའི་གནས་སུ་གྱུར་པ་དག\"; Gyaltsab 4-38 glosses them as the foe in battle (ཕ་རོལ). The warriors in the simile fight such foes, then 4-38 draws the contrast with the real enemy. Rendering them \"afflictions\" collapses simile and application.",
+     "fix": "These wretched foes (called kleśa, \"afflicted ones\", here as a term of pity), who suffer through natural death"
+    }
+   ]
+  },
+  {
+   "id": "4-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-39",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "the scars inflicted by meaningless enemies",
+     "evidence": "\"དོན་མེད་\" qualifies the purposeless infliction of wounds, not the enemies: Gyaltsab 4-39 \"དོན་མེད་པ་དགོས་པ་ཆུང་ངུའི་ཆེད་དུ་ལུས་ལ་དགྲ་ཡིས་རྨ་སྲོལ་བཏོད་པ\"; Sanskrit akāraṇena riputkṣatāni.",
+     "fix": "the scars that enemies inflict for no meaningful purpose"
+    }
+   ]
+  },
+  {
+   "id": "4-40",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

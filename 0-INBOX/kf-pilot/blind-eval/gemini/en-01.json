@@ -1,0 +1,401 @@
+{
+ "segments": [
+  {
+   "id": "1-11",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "firmly hold",
+      "explanation": "Omits 'well' (ལེགས་), which modifies the holding."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "firmly grasp",
+      "explanation": "Omits 'well' (ལེགས་), which modifies the grasping."
+     }
+    ],
+    "C": [],
+    "D": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "hold well to",
+      "explanation": "Omits 'firmly' (བརྟན་པར་)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "1-27",
+   "candidates": {
+    "A": [
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "Of all sentient beings without exception,\nWhat need is there to mention striving for their happiness and welfare?",
+      "explanation": "The syntax is awkward, with the prepositional phrase dangling at the start of the line."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "beings",
+      "explanation": "Omits 'all... without exception' (མ་ལུས་ཐམས་ཅད་)."
+     }
+    ],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "2-22",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "our",
+      "explanation": "Adds 'our' to 'protectors' (མགོན་པོ་)."
+     }
+    ],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "2-53",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "I take refuge in you.\nPlease swiftly dispel my fears!",
+      "explanation": "Omits the causal connective 'so/therefore' (ལགས་ཀྱིས)."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "I come to you for refuge;\nPlease, swiftly dispel my fears!",
+      "explanation": "Omits the causal connective 'so/therefore' (ལགས་ཀྱིས)."
+     }
+    ],
+    "C": [],
+    "D": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "these terrors all around",
+      "explanation": "Mistranslates 'great fear' (འཇིགས་པ་ཆེ་), missing 'great' and adding 'these... all around'."
+     }
+    ]
+   }
+  },
+  {
+   "id": "2-57",
+   "candidates": {
+    "A": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "Of falling a thousand yojanas\nInto a long-lasting precipice, what need to mention?",
+      "explanation": "The syntax 'what need to mention of falling' is ungrammatical and awkward."
+     }
+    ],
+    "B": [],
+    "C": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "falling a thousand yojanas\nOn a long-lasting precipice",
+      "explanation": "The preposition 'on' is unnatural here; 'into' or 'down' would be correct."
+     }
+    ],
+    "D": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "abyss\nThat falls",
+      "explanation": "The abyss does not fall; the person falls into the abyss (ལྷུང་བ་)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "3-15",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "their good and wishes",
+      "explanation": "Omits 'all' (ཀུན་) from 'all goals/purposes' (དོན་ཀུན་)."
+     }
+    ],
+    "B": [
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "for those whose\nMinds of anger or faith arise",
+      "explanation": "The phrasing is slightly awkward; 'in whom' would be more natural than 'whose'."
+     }
+    ],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "4-20",
+   "candidates": {
+    "A": [
+     {
+      "category": "fluency",
+      "severity": "major",
+      "span": "the Bhagavan\nOf a yoke drifting on the great ocean",
+      "explanation": "The strict line-by-line rendering breaks English syntax, falsely linking 'Bhagavan' to 'Of a yoke'."
+     }
+    ],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "4-29",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "5-12",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "5-41",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "striving in concentration\nIs not lost",
+      "explanation": "It is the mind/concentration that should not be lost, not the striving itself."
+     }
+    ],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "master",
+      "explanation": "Adds 'master', which is not in the source text (བརྩོན་པ་ means to strive)."
+     }
+    ],
+    "D": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "In such a way",
+      "explanation": "Mistranslates 'ཅི་ནས་' (by all means / at any cost) as 'In such a way'."
+     }
+    ]
+   }
+  },
+  {
+   "id": "5-47",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "For",
+      "explanation": "The word \"For\" is added without basis in the Tibetan text."
+     }
+    ],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "5-85",
+   "candidates": {
+    "A": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "To those fallen into ruin, the unprotected, \nAnd those abiding in ascetic practice, one should share;",
+      "explanation": "In English, one does not \"share to\" someone; one shares \"with\" them."
+     }
+    ],
+    "B": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "wrong paths",
+      "explanation": "Translates \"log par ltung ba\" (lower realms / bad rebirths) as \"wrong paths\", which usually implies incorrect views."
+     }
+    ],
+    "C": [],
+    "D": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "what is needful",
+      "explanation": "Translates \"ran pa tsam\" (a moderate amount) as \"what is needful\", shifting the meaning from quantity to necessity."
+     }
+    ]
+   }
+  },
+  {
+   "id": "5-98",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "the Bodhisattvas",
+      "explanation": "Mistranslates \"byang chub sems\" (bodhicitta / the awakening mind) as \"the Bodhisattvas\"."
+     }
+    ],
+    "D": []
+   }
+  },
+  {
+   "id": "6-6",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "All these ills",
+      "explanation": "Omits the meaning of \"de la sogs\" (and other [sufferings])."
+     }
+    ],
+    "C": [],
+    "D": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "many",
+      "explanation": "Adds \"many\", which is not present in the Tibetan text."
+     }
+    ]
+   }
+  },
+  {
+   "id": "6-30",
+   "candidates": {
+    "A": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "By saying, \"This is its action,\"\nWhat connection could there be?",
+      "explanation": "The grammatical structure is awkward; it should be phrased as \"What connection is there such that one says...\"."
+     }
+    ],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "6-64",
+   "candidates": {
+    "A": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "Towards images, stupas, and the sublime Dharma,\nEven if someone disparages or destroys them,",
+      "explanation": "The preposition \"Towards\" is grammatically disconnected from the rest of the sentence, creating a dangling modifier."
+     }
+    ],
+    "B": [],
+    "C": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "Toward images, stūpas, and the sublime Dharma,\nEven for those who disparage and destroy them,",
+      "explanation": "The sentence structure is disjointed; the prepositional phrase beginning with \"Toward\" does not connect logically to the main clause."
+     }
+    ],
+    "D": []
+   }
+  },
+  {
+   "id": "6-87",
+   "candidates": {
+    "A": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "Merely by your wishing,\nIt does not become a cause of harm to them.",
+      "explanation": "The pronoun \"It\" lacks a clear referent; the sentence would be clearer if \"wishing\" were the subject."
+     }
+    ],
+    "B": [],
+    "C": [],
+    "D": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "wishful thinking",
+      "explanation": "\"Wishful thinking\" means believing something is true because one wants it to be, rather than the act of wishing harm."
+     }
+    ]
+   }
+  },
+  {
+   "id": "6-98",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "6-126",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "seen in the nature of the Protectors",
+      "explanation": "Reverses the meaning of \"sems can ngo bor mthong ba\"; they are seen in the form of sentient beings, not the Protectors."
+     }
+    ]
+   }
+  },
+  {
+   "id": "7-10",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  }
+ ]
+}

@@ -1,0 +1,325 @@
+{
+ "batch": "batch-19",
+ "segments": [
+  {
+   "id": "9-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-26",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "अगर जादुई छलावा मन से अलग नहीं है, और उसे मन के समान भी नहीं माना जाता।",
+     "evidence": "The first sentence is an unfinished \"if ... and ...\" clause with no conclusion; hard for children to follow.",
+     "fix": "अगर जादुई छलावा मन से अलग नहीं है, और मन के समान भी नहीं माना जाता, तो भी एक सवाल उठता है। अगर वह कोई वस्तु है, तो वह अलग कैसे नहीं है?"
+    }
+   ]
+  },
+  {
+   "id": "9-27",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "देखने वाला सोचने वाला मन है",
+     "evidence": "Tibetan/academic: as the illusion is what is seen, so the seer is the mind. Two adjacent \"वाला\" phrases make the sentence tangled.",
+     "fix": "वैसे ही जो देखता है, वह सोचने वाला मन है।"
+    }
+   ]
+  },
+  {
+   "id": "9-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-32",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "खालीपन की गहरी आदत की आदत डालते हैं",
+     "evidence": "Academic: by cultivating the habit of emptiness. \"आदत की आदत\" is clumsy repetition; \"यह भी\" is also unclear.",
+     "fix": "जब हम बार-बार खालीपन की गहरी आदत डालते हैं, तो वस्तुओं से मन में बनी आदत दूर हो जाती है। फिर जब \"कुछ भी नहीं है\" की आदत पड़ जाती है, तो बाद में वह आदत भी छूट जाती है।"
+    }
+   ]
+  },
+  {
+   "id": "9-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-37",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "इस दुनिया से चले जाने के बाद भी",
+     "evidence": "Academic: the Bodhisattva attains nirvana (mya ngan las 'das = शोक से मुक्ति elsewhere in this chapter). \"Passing from the world\" blurs nirvana into death.",
+     "fix": "जागृति-वीर को शोक से मुक्ति मिल जाने के बाद भी, वह सबके भले के सारे काम करता रहता है।"
+    }
+   ]
+  },
+  {
+   "id": "9-38",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "दोनों को एक समान बताया गया है",
+     "evidence": "Academic: the fruit of the offering is the same whether the Buddha is present or has attained nirvana (that is the reason the offering bears fruit); the children's text only says the two states are \"equal\" and never ties this to the offering's fruit.",
+     "fix": "पर कहा गया है कि बुद्ध चाहे हमारे बीच हों या उन्हें शोक से मुक्ति मिल गई हो, उनकी पूजा का फल एक समान ही मिलता है।"
+    }
+   ]
+  },
+  {
+   "id": "9-39",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "पूजा का फल ज़रूर मिलता है",
+     "evidence": "Academic: it is reasonable/fitting (युक्त) that the fruit exists, with the basis being scripture; \"ज़रूर\" overstates a certainty.",
+     "fix": "चाहे यह रोज़ का सच हो या चीज़ों का असली रूप, पूजा का फल मिलना ठीक बैठता है, क्योंकि पवित्र ग्रन्थ में ऐसा लिखा है।"
+    }
+   ]
+  },
+  {
+   "id": "9-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-41",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "वह तुम्हारे लिए भी तो सच नहीं था",
+     "evidence": "Academic: it was not \"established\" (सिद्ध) for you at the start, i.e. not proven, not \"not true\".",
+     "fix": "शुरू में तुम्हारे लिए भी तो यह पक्का साबित नहीं हुआ था।"
+    }
+   ]
+  },
+  {
+   "id": "9-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-44",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "जो लोग चीज़ों को पकड़े रहना चाहते हैं",
+     "evidence": "Academic: for those whose minds are सालम्बन (have an object they hold on to), nirvana is hard; the text turns holding on into \"wanting to hold on\".",
+     "fix": "जिनका मन चीज़ों को पकड़े रहता है, उनके लिए शोक से मुक्ति पाना भी बहुत मुश्किल है।"
+    }
+   ]
+  },
+  {
+   "id": "9-45",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "उन पर पिछले किए हुए काम का असर",
+     "evidence": "Academic: \"उनमें\" (in those who have no afflictions) the power of karma is seen. \"उन पर\" has no clear referent in the children's sentence; \"पिछले\" is also added.",
+     "fix": "लेकिन जिनमें परेशान करने वाली भावना नहीं बची, उनमें भी किए हुए काम का असर देखा जाता है।"
+    }
+   ]
+  },
+  {
+   "id": "9-46",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "तुम पक्के तौर पर कह सकते हो",
+     "evidence": "Academic: \"यदि ऐसा निश्चित मानते हो\" - the opponent holds as certain that clinging-craving is absent; \"कह सकते हो\" reads as a concession. Also upādāna-tṛṣṇā (one thing, clinging-craving) is split into \"पकड़े रखना या कोई चाहत\".",
+     "fix": "अगर तुम पक्का मानते हो कि कुछ समय के लिए चीज़ों को कसकर पकड़े रखने वाली चाहत नहीं होती, तो भी सवाल है कि वह चाहत, भले परेशान करने वाली भावना से घिरी न हो, भ्रम के समान क्यों नहीं होगी?"
+    }
+   ]
+  },
+  {
+   "id": "9-47",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "विचारों से भरे मन को किसी न किसी चीज़ पर मन टिकाना ही पड़ता है",
+     "evidence": "Academic: आलम्बन-सहित चित्त (a mind that has an object) will abide on something; \"mind full of thoughts\" and the compulsion \"must\" are not in the source.",
+     "fix": "जिस मन के पास टिकने की कोई चीज़ है, वह किसी न किसी चीज़ पर टिका रहेगा।"
+    }
+   ]
+  },
+  {
+   "id": "9-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-50",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "एक बात न होने से सब में दोष आ जाता है। तो फिर एक उपदेश-ग्रन्थ के सही होने से",
+     "evidence": "Academic: if one (teaching) not being included (अप्रविष्ट) in the sutras makes all faulty, then why is not all the word of the Victor because of one that is sutra-like? The children's text changes \"one excluded from the sutra\" to \"one point missing\", and \"one that accords with the sutra\" to \"one sutra being correct\"; the first sentence is also left unfinished.",
+     "fix": "अगर एक उपदेश के उपदेश-ग्रन्थ में न होने से सारे उपदेश दोषी हो जाते हैं, तो उपदेश-ग्रन्थ जैसे एक उपदेश के कारण सारे उपदेश विजेता के कहे हुए क्यों नहीं हैं?"
+    }
+   ]
+  },
+  {
+   "id": "9-51",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "महाकाश्यप जैसे महान लोग भी जिन बातों की गहराई नहीं जान पाए।",
+     "evidence": "The first sentence is a dangling relative clause with no main verb, and the \"because you did not understand\" reason is turned into a plain \"if\".",
+     "fix": "जिन बातों की गहराई महाकाश्यप जैसे महान लोग भी नहीं जान पाए, उन्हें सिर्फ़ इसलिए कि तुम नहीं समझ पाए, मानने से कौन मना करेगा?"
+    }
+   ]
+  },
+  {
+   "id": "9-52",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "बार-बार जन्म का चक्र में रहना",
+     "evidence": "Ungrammatical case ending (should be \"के चक्र में\"); the source also mentions the \"extremes\" (अन्त) of attachment and fear.",
+     "fix": "बार-बार जन्म के चक्र में रहना संभव होता है।"
+    }
+   ]
+  },
+  {
+   "id": "9-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-57",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "शरीर की लार, बलगम और पीप",
+     "evidence": "Academic lists nasal mucus (सिंघाण), phlegm, lymph (लसिका) and pus; the children's text adds \"लार\" (saliva), which is not in the source, and drops nasal mucus and lymph.",
+     "fix": "नाक का मैल, बलगम, शरीर का पानी जैसा तरल और पीप भी \"अपना आप\" नहीं हैं।"
+    }
+   ]
+  },
+  {
+   "id": "9-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-64",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

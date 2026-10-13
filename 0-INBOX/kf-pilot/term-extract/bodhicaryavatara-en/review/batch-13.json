@@ -1,0 +1,257 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "6-102",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-103",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-104",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-105",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Beggar is an ordinary noun, not a technical term."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-106",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-107",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "Enemy is an ordinary noun, not a technical term."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-108",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-109",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-110",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "Enemy is an ordinary noun, not a technical term."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-111",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-112",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-113",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-114",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-115",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-116",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-117",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-118",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-119",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-120",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-121",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-122",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-123",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-124",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-125",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-126",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-127",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-128",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-129",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-130",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-131",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-132",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-133",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-134",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 1,
+      "bo_fixed": "འཁོར"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "6-a",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "6-105",
+    "bo": "སློང་མོ",
+    "reason": "Beggar is an ordinary noun, not a technical term."
+   },
+   {
+    "id": "6-107",
+    "bo": "དགྲ",
+    "reason": "Enemy is an ordinary noun, not a technical term."
+   },
+   {
+    "id": "6-110",
+    "bo": "དགྲ",
+    "reason": "Enemy is an ordinary noun, not a technical term."
+   }
+  ],
+  "fix_span": [
+   {
+    "id": "6-134",
+    "bo": "འཁོར་ཚེ",
+    "bo_fixed": "འཁོར"
+   }
+  ],
+  "add": []
+ }
+}

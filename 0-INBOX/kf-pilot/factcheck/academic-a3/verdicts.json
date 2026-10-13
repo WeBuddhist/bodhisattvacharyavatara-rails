@@ -1,0 +1,1013 @@
+[
+ {
+  "id": "1-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-29",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "That which satisfies them with all happiness",
+    "evidence": "གང་ཞིག is the agent; bo-shenga 1-29 glosses it \"རྒྱལ་སྲས་གང་ཞིག\" (the Victor's child, the bodhisattva) who \"བདེ་བ་ཀུན་ཀྱིས་ཚིམ་པར་བྱེད་པ\" and \"སྡུག་བསྔལ་ཐམས་ཅད་རྒྱུན་གཅོད་པར་བྱེད་ཅིང་\"; Sanskrit yaḥ is masculine/personal. \"That which\" leaves the subject impersonal.",
+    "fix": "One who satisfies them with all happiness"
+   }
+  ]
+ },
+ {
+  "id": "1-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-27",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "the fully awakened Buddhas and bodhicitta",
+    "evidence": "བྱང་ཆུབ་སེམས་ here abbreviates བྱང་ཆུབ་སེམས་དཔའ་ (bodhisattva): Sanskrit has संबुद्धान् ... बोधिसत्त्वान्; bo-shenga 2-27 reads \"ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐུགས་རྗེ་ཆེན་པོ་མངའ་བ\"; bo-gyaltsab 2-27 likewise. Those \"who possess great compassion\" are persons, not the mind of awakening, so the locked \"bodhicitta\" does not fit here.",
+    "fix": "the fully awakened Buddhas and bodhisattvas"
+   }
+  ]
+ },
+ {
+  "id": "2-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-44",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "their utter misery",
+    "evidence": "The helpless one is the person seized and stricken (bo-shenga 2-44 \"བཟུང་བར་གྱུར་ཅིང་... ཐེབས་པར་གྱུར་པ་ན། རབ་ཏུ་ཉམ་ཐག་པར་འགྱུར་བ\"; bo-gyaltsab 2-44 \"བཟུང་བར་གྱུར་ཅིང་... རབ་ཏུ་ཉམ་ཐག་པ\"), not the messengers of Yama. In the English, \"their\" has no antecedent but the messengers, so it can be read as their misery.",
+    "fix": "the utter helplessness of one so seized and stricken"
+   }
+  ]
+ },
+ {
+  "id": "2-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-1",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "without lapse",
+    "evidence": "གཡེལ་བ་མེད་པར is \"without distraction/slackness\": bo-shenga 4-1 \"ལེ་ལོའི་གཡེལ་བ་མེད་པར\"; bo-gyaltsab 4-1 \"སེམས་སྐད་ཅིག་ཀྱང་གཡེལ་བ་མེད་པར\". \"Lapse\" is vague and could be read as lapsing in the trainings, which blurs it with \"not transgress\".",
+    "fix": "without distraction (or laxity)"
+   }
+  ]
+ },
+ {
+  "id": "4-4",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "what kind of wandering being will I become?",
+    "evidence": "བདག་གི་འགྲོ་བ here is \"my destiny / where I go\" (Sanskrit का गतिर्मे, \"what destination for me\"), not a type of being. bo-shenga 4-4 \"སེམས་ཅན་དམྱལ་བ་ལ་སོགས་པའི་འགྲོ་བ་ལས་གཞན་གྱི་འགྲོ་བ་མེད་དོ\"; bo-gyaltsab 4-4 \"བདག་གི་འགྲོ་བ་ཇི་འདྲར་འགྱུར་ཏེ། ངན་འགྲོར་འགྲོ་བ་ལས་མ་འདས་པ\"; bo-kunpal 4-4 \"དམྱལ་བ་ལ་སོགས་པའི་ངན་འགྲོར་འགྲོ་བར་འགྱུར\". The locked \"wandering being\" (beings) is misapplied to the rebirth-destiny sense.",
+    "fix": "what will my destiny be? (what rebirth state will be mine?)"
+   }
+  ]
+ },
+ {
+  "id": "4-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-9",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "Since he is left falling short in the welfare of sentient beings, / Their lower realms will be endless.",
+    "evidence": "The Tibetan subject of དམན་གྱུར་པས is the bodhisattva (བྱང་ཆུབ་སེམས་དཔའ་ in line 2), whose capacity is diminished; bo-shenga 4-9: \"རྒྱལ་བའི་སྲས་དེ་སེམས་ཅན་གྱི་དོན་བྱེད་པ་ལ་དམན་པར་གྱུར་པས། གེགས་བྱེད་པ་པོ་དེ་ཡི་ངན་འགྲོ་ལ་མུ་དང་མཐའ་མེད\". English \"he\" is followed by \"Their\" and so can be read as the obstructor. Also ངན་འགྲོ is a single rebirth-state (Skt durgatiparyanto), the obstructor's, not plural realms.",
+    "fix": "Since that bodhisattva is left falling short in the welfare of sentient beings, / The obstructer's lower realm has no end."
+   }
+  ]
+ },
+ {
+  "id": "4-10",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "For those who pervade all of space to its limits, / What need to speak of destroying the happiness of embodied beings?",
+    "evidence": "Tibetan \"ནམ་མཁའ་མ་ལུས་མཐའ་ཀླས་པའི། ལུས་ཅན\" is an attributive on ལུས་ཅན: embodied beings who extend to (dwell to) the limits of all space (Skt aśeṣākāśaparyanta-vāsinām; bo-gyaltsab 4-10: \"ནམ་མཁའ་མ་ལུས་པའི་མཐའ་ཀླས་པའི་ལུས་ཅན\"). The English makes line 3 a dangling \"For those who...\" that detaches from \"embodied beings\" and uses \"pervade\", which the Tibetan/Sanskrit do not say.",
+    "fix": "Of embodied beings dwelling to the limits of all space, / What need to speak of destroying their happiness?"
+   }
+  ]
+ },
+ {
+  "id": "4-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-22",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "One will not attain liberation,",
+    "evidence": "རྣམ་ཐར་མི་འགྱུར་ is \"will not be released/freed\" from the suffering of the lower realm (Skt na vimucyate). bo-gyaltsab 4-22: \"ངན་འགྲོ་ལས་རྣམ་པར་ཐར་བར་མི་འགྱུར་ཏེ\"; bo-kunpal 4-22: \"ངན་སོང་གི་གནས་དེ་ལས་རྣམ་པར་ཐར་པ་མི་འགྱུར\"; bo-shenga: \"སྡུག་བསྔལ་ལས་རྣམ་པར་ཐར་བར་མི་འགྱུར\". \"Attain liberation\" turns release from that state into attaining the goal of liberation.",
+    "fix": "One will not be liberated [from it],"
+   }
+  ]
+ },
+ {
+  "id": "4-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-41",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "When I promised this, I myself / Was not freed from afflictions.",
+    "evidence": "མ་གྲོལ་བ is a state continuing at the time of the vow and now, not a completed past event: bo-shenga 4-41 \"གང་ཚེ་བདག་ཉིད་ཀྱང་...ཉོན་མོངས་རྣམས་ལས་མ་གྲོལ་ན\"; bo-kunpal \"ཉོན་མོངས་པ་རྣམས་ལས་ཅུང་ཟད་ཙམ་ཡང་མ་གྲོལ་བར་གནས་ན\". The verse is a clause continuing into the next verse. The English past finite \"Was not freed\" closes it as a past statement.",
+    "fix": "When I promised this, I myself / Was still not free from afflictions,"
+   }
+  ]
+ },
+ {
+  "id": "4-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-4",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "Witches",
+    "evidence": "བྱད་མ is glossed by bo-kunpal 5-4 as \"ཕ་རོལ་པོའི་མཐུས་རྦད་པའི་བྱད་མ་གདོན་རྦད་འདྲེ་རྦོད་གཏོང\": harmful spirits/hexes sent by another's power, not human witches. \"Witches\" (Skt ḍākinyaḥ) suggests human sorceresses.",
+    "fix": "Hex-sent spirits (byad ma)"
+   }
+  ]
+ },
+ {
+  "id": "5-6",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "Thus, all fears and",
+    "evidence": "འདི་ལྟར here introduces the reason for the preceding claim (Skt yasmāt \"since\"); bo-gyaltsab 5-6: \"རྒྱུ་མཚན་འདི་ལྟར། ཚེ་འདི་དང་ཕྱི་མའི་འཇིགས་པ་ཐམས་ཅད་དང་...སེམས་ཉིད་ལས་བྱུང་བ་ཡིན\". English \"Thus\" reads as a conclusion drawn from what precedes, reversing the direction of the argument.",
+    "fix": "For all fears and"
+   }
+  ]
+ },
+ {
+  "id": "5-7",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "From what did those groups of women arise?",
+    "evidence": "The Tibetan as given reads \"མེ་ཚོགས\" (masses of fire), which bo-shenga 5-7 follows (\"མེ་ཚོགས་དེ་དག་རྒྱུ་ཅི་ལས་བྱུང་\"). The English follows the variant \"མོ་ཚོགས\" (bo-kunpal \"མོ་ཡི་ཚོགས\"; bo-gyaltsab 5-8 calls མེ་ཚོགས a corrupt reading; Skt striyaḥ). English does not render the Tibetan as given, so the textual choice should be marked.",
+    "fix": "From what did those groups of women (var. masses of fire) arise?"
+   }
+  ]
+ },
+ {
+  "id": "5-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-15",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "Whatever the result of generating a single clear mind, / Such as Brahmā and so forth,",
+    "evidence": "Tibetan \"འབྲས་བུ་གང་། ཚངས་ལ་སོགས་པ་ཡིན་པ་ལྟར\" means: just as the result of generating a single clear mind is (rebirth as) Brahmā etc. Brahmā is the result, not an example of a mind, and the comparison marker ལྟར is lost; bo-shenga 5-15: \"འབྲས་བུ་གང་། ཚངས་པ་ལ་སོགས་པའི་གནས་སུ་སྐྱེ་བ་ཡིན་པ་ལྟར\". \"Such as\" makes the lines read as a list of examples of results/minds.",
+    "fix": "Just as the result of generating a single clear mind / Is [rebirth as] Brahmā and so forth,"
+   }
+  ]
+ },
+ {
+  "id": "5-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-59",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-78",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-81",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "constant, intense, fixed aspiration",
+    "evidence": "The Tibetan has only རྟག་པར་མངོན་ཞེན་གྱིས་བསླང་བ (motivated constantly / by strong inclination, mngon zhen; Skt sātatyābhiniveśa). bo-kunpal 5-81 glosses མངོན་ཞེན as འདུན་པ་ཤུགས་དྲག་པོ (strong aspiration); nothing corresponds to 'fixed'.",
+    "fix": "motivated by constant, intense aspiration"
+   }
+  ]
+ },
+ {
+  "id": "5-85",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-89",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "always",
+    "evidence": "མཚུངས་པར་གུས་པས་ཀུན་དུ་སྤྱད has ཀུན་དུ་སྤྱད 'engage in / treat fully' (Skt samaṃ gauravam ācaret); there is no word for 'always' (རྟག་ཏུ). bo-gyaltsab 5-89 glosses it ཀུན་ལ་མཚུངས་པར་གུས་པས་ཀུན་ཏུ་སྤྱད་ཅིང་ཉམས་སུ་བླང་བར་བྱའོ, with no temporal 'always'.",
+    "fix": "One should treat with equal respect"
+   }
+  ]
+ },
+ {
+  "id": "5-90",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-95",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-97",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "until one is able to practice it all",
+    "evidence": "The Tibetan says only དེ་སྲིད་ 'for that long / so long' with no stated end-point. The commentaries differ: bo-gyaltsab 5-97 reads ངེས་པར་སྤྱོད་པ་མཐའ་དག་ཉམས་སུ་ལེན་ནུས་པ་དེ་སྲིད་ (until able to practise all), while bo-kunpal 5-97 reads སེམས་སྦྱོང་མ་ཐུབ་པར་དེ་སྲིད་དུ (so long as the mind has not been trained). The English commits to one commentary's reading.",
+    "fix": "One should certainly practice the conduct of purifying the mind for that long."
+   }
+  ]
+ },
+ {
+  "id": "5-98",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-100",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-2",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "earnestly regarding patience, One should practice meditation in various ways",
+    "evidence": "བཟོད་ལ་ནན་ཏན་དུ། སྣ་ཚོགས་ཚུལ་དུ་བསྒོམ་པར་བྱ: བཟོད་ལ་ is the object of བསྒོམ ('meditate on / cultivate patience', Skt kṣāntiṃ bhāvayet; bo-gyaltsab 6-2 བཟོད་པ་བསྒོམ་པ་ལ་ནན་ཏན་དུ). 'Regarding patience, practice meditation' loosens the object relation and is awkward.",
+    "fix": "Therefore one should earnestly cultivate meditation on patience in various ways."
+   }
+  ]
+ },
+ {
+  "id": "6-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-41",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "Having employed sticks and the like as the actual instruments, if one feels anger at the one who throws them",
+    "evidence": "དབྱུག་པ་ལ་སོགས་དངོས་བཀོལ་ཏེ། གལ་ཏེ་འཕེན་པ་ལ་ཁྲོ་ན། The one who employs (བཀོལ) the sticks is the thrower (bo-shenga 6-41: 'དབྱུག་པ་ལ་སོགས་པའི་དངོས་པོ་རྣམས་བཀོལ་ཏེ་ལུས་ལ་བརྡེག་པ་ན། གལ་ཏེ་འཕེན་པ་པོ་ཉིད་ལ་ཁྲོ་ན'; bo-kunpal 6-41). In the English the participle 'Having employed' has the grammatical subject 'one' (the angry victim), so it reads as if the victim employed the sticks.",
+    "fix": "Since he employs sticks and the like as the actual instruments, if one feels anger at the one who throws them,"
+   }
+  ]
+ },
+ {
+  "id": "6-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-66",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-71",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-78",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-82",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-85",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-89",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-94",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-114",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-116",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "Yet to those with an infinite ocean of good qualities,\nTo the Buddhas, no one is equal.",
+    "evidence": "Lines 3-4 are one clause: ཡོན་ཏན་རྒྱ་མཚོ་མཐའ་ཡས་པའི། སངས་རྒྱས་རྣམས་དང་འགའ་མི་མཉམ། \"none is equal to the Buddhas, who have an infinite ocean of qualities\" (bo-shenga 6-116: ...རྫོགས་པའི་སངས་རྒྱས་རྣམས་དང་འགའ་ཡང་ཡོན་ཏན་མི་མཉམ་མོ). The English splits it into a dangling \"to those ... / To the Buddhas\" with \"to\" for དང་, which is garbled.",
+    "fix": "Yet none are equal to the Buddhas,\nwho have an infinite ocean of good qualities."
+   }
+  ]
+ },
+ {
+  "id": "7-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-62",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-64",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-73",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "one should seek out association",
+    "evidence": "ཕྲད་པ is \"to meet/encounter\": bo-kunpal 7-73 བླ་མ་དགེ་བའི་བཤེས་གཉེན་དང་ཕྲད་པ, bo-shenga 7-73 མཁན་པོ་དང་སློབ་དཔོན་...རྣམས་དང་ཕྲད་པ, bo-gyaltsab 7-73 དགེ་བའི་བཤེས་གཉེན་དང་འཕྲད་པ. \"Association\" loses the single act of meeting a teacher/spiritual friend.",
+    "fix": "one should wish to meet [a teacher or spiritual friend]"
+   }
+  ]
+ },
+ {
+  "id": "8-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-35",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "no friends and no enemies",
+    "evidence": "འཁོན་པ is enmity/grudge, not \"enemy\"; bo-gyaltsab 8-35 བཤེས་མེད་ཅིང་གནོད་པ་བྱས་དོགས་པའི་ཁོན་པའང་མེད་པ (no friends and no grudge from suspected harm); Sanskrit avirodha \"absence of hostility\".",
+    "fix": "Having no friends and no enmity,"
+   },
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "Being reckoned as already dead,",
+    "evidence": "Agentless participle dangles in English (reads as if \"no one\" is reckoned dead). bo-kunpal 8-35 ཉེ་དུ་སོགས་ཀྱིས་སྔ་ནས་ཤི་བ་དང་འདྲར་བརྩིས་ and bo-shenga 8-35 ཉེ་དུ་སོགས་ཀྱིས་སྔ་ནས་ཤི་བ་དང་འདྲ་བར་བརྩིས་ show the body is regarded as already dead by relatives and others.",
+    "fix": "Since (I) am reckoned as already dead [by relatives and others],"
+   }
+  ]
+ },
+ {
+  "id": "8-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-44",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "Just as it has now become manifest,",
+    "evidence": "ད་ལྟ་མངོན་སུམ་གྱུར་པ་བཞིན་ is \"as if directly present now\", a comparison (bo-shenga 8-44 ད་ལྟ་མངོན་སུམ་དུ་གྱུར་པ་བཞིན་གྱི་རས་; bo-kunpal 8-44 མངོན་སུམ་དུ་གྱུར་པ་བཞིན་དུ). The English states it as an accomplished fact, and \"became your affliction\" for ཉོན་མོངས་པའི་གདོང་ (bo-shenga: ཁྱོད་ཉོན་མོངས་པར་གྱུར་པའི་གདོང་, the face you are afflicted by desire for) is loose.",
+    "fix": "As if it were now directly before you,"
+   }
+  ]
+ },
+ {
+  "id": "8-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-67",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-68",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "completely agitated",
+    "evidence": "ས་འདི་ཀུན་ཏུ་འཁྲུགས: ཀུན་ཏུ is \"everywhere/throughout\" (Kunpal 8-68: ཀུན་ཏུ་ཁྱབ་ཅིང་འཁྲུགས་པ, \"pervading and agitating\"), not an intensifier of the degree of agitation.",
+    "fix": "agitated everywhere by madmen"
+   }
+  ]
+ },
+ {
+  "id": "8-79",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-80",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-84",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-87",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-102",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "major",
+    "span": "If not, my suffering too is like that of sentient beings.",
+    "evidence": "དེ་མིན་བདག་ཀྱང་སེམས་ཅན་བཞིན: the elided verb is བཟློག \"averted\": if it is not to be averted, then I too, like (other) sentient beings, am not to be averted/protected. Sanskrit na ced ātmāpi sattvavat; bo-kunpal 8-102: བདག་གི་སྡུག་བསྔལ་ཀྱང་སེམས་ཅན་གཞན་གྱི་བཞིན་དུ་བཟློག་བྱ་མིན་པར་མཚུངས; bo-shenga 8-102: བཟློག་པར་མི་བྱའོ. The English \"is like that of sentient beings\" omits the conclusion that my own suffering would then also not be averted.",
+    "fix": "If it is not (to be averted), then my own suffering too, like that of other sentient beings, is not to be averted."
+   }
+  ]
+ },
+ {
+  "id": "8-109",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-112",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-114",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "form",
+    "severity": "minor",
+    "span": "whole segment (single run-on line)",
+    "evidence": "The Tibetan is a four-line verse (བདག་མེད་ལུས་འདི་ལ། / གོམས་པས་བདག་གི་བློ་བྱུང་བ། / དེ་བཞིན་སེམས་ཅན་གཞན་ལ་ཡང་། / གོམས་པས་བདག་བློ་ཅིས་མི་སྐྱེ།), but the English is one line with capitals after commas, so the line breaks are lost.",
+    "fix": "Just as towards this selfless body,\nThe intellect of self has arisen through habituation,\nLikewise towards other sentient beings as well,\nWhy should the intellect of self not arise through habituation?"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "this body of selflessness",
+    "evidence": "བདག་མེད་ལུས་འདི་ལ: བདག་མེད་ here qualifies the body (Sanskrit nirātmake; bo-kunpal 8-114: བདག་མེད་པའི་ཕ་མའི་ཁུ་ཁྲག་ཡོངས་སུ་སྨིན་པའི་ལུས་འདི, a body without a self), so \"body of selflessness\" misleadingly makes selflessness a property or substance of the body.",
+    "fix": "this selfless body"
+   }
+  ]
+ },
+ {
+  "id": "8-117",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "even wandering beings' fear in assemblies",
+    "evidence": "འཁོར་གྱི་འཇིགས་པའང་བསལ་བའི་ཕྱིར: the emphasis (ཡང/ང) falls on the fear, even the slight timidity in assemblies (Sanskrit pariṣaccharadyabhayam api; bo-shenga/bo-gyaltsab 8-117: འཁོར་གྱི་ནང་དུ་བག་ཚ་བའི་འཇིགས་པའང་). The English placement of 'even' before 'wandering beings' suggests the beings are what is emphasised.",
+    "fix": "to dispel even the fear (timidity) of wandering beings in assemblies"
+   }
+  ]
+ },
+ {
+  "id": "8-120",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-122",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-124",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-141",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "This one is great in the world, and\nI am known as inferior",
+    "evidence": "གྲག/གྲགས \"is known/reputed\" governs both clauses (Sanskrit kila after both mahān and nīcaḥ; bo-shenga 8-141: འཇིག་རྟེན་ལ་ཆེ་བར་གྲགས་པ; bo-kunpal: ཆེ་བའི་ཡོན་ཏན་དང་ལྡན་པར་གྲགས་པ). The English asserts \"great\" outright and puts \"known\" only on the speaker.",
+    "fix": "This one is renowned as great in the world, and\nI am known as inferior and without good qualities."
+   }
+  ]
+ },
+ {
+  "id": "8-146",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-156",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "what is not the perfect happiness of a Buddha—\nsuch a situation as this could not possibly occur",
+    "evidence": "སངས་རྒྱས་ཕུན་སུམ་བདེ་མིན་པ། གནས་སྐབས་འདི་འདྲར་འགྱུར་མི་སྲིད: the situation (གནས་སྐབས) is one that is NOT the perfect happiness of a Buddha, i.e. suffering (bo-gyaltsab 8-156: སངས་རྒྱས་ཀྱི་དོན་གཉིས་ཕུན་སུམ་ཚོགས་པའི་བདེ་བ་མིན་པ་སྡུག་བསྔལ་མྱོང་བའི་གནས་སྐབས་འདི་འདྲར་འགྱུར་མི་སྲིད; bo-shenga 8-156). The English fragment \"what is not...\" followed by a dash does not make clear that it qualifies \"such a situation\".",
+    "fix": "a situation such as this, which is not the perfect happiness of a Buddha, could not possibly occur."
+   }
+  ]
+ },
+ {
+  "id": "8-167",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-4",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "are invalidated by those successively higher",
+    "evidence": "Shenga 9-4 glosses the verb directly: \"གནོད་ཅེས་པ་ནི་ཟིལ་གྱིས་གནོན་ཞེས་པའི་ཐ་ཚིག\" ('harm' means 'overpower'); Kunpal 9-4 likewise \"གནོད་ཅིང་ཟིལ་གྱིས་གནོན\". \"Invalidated\" narrows གནོད to an epistemic sense and loses the 'overpowering' sense given by the commentaries.",
+    "fix": "are undermined (overpowered) by those successively higher"
+   },
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "because, for the sake of the result, they are not analyzed",
+    "evidence": "The Tibetan \"འབྲས་བུའི་དོན་དུ་མ་དཔྱད་ཕྱིར\" has no expressed subject; Shenga 9-4 reads \"འབྲས་བུའི་དོན་དུ་མ་དཔྱད་པར་དེའི་རྒྱུ་ལ་འཇུག་པའི་ཕྱིར\" (one engages the cause without analyzing, for the sake of the result), and Kunpal 9-4 \"འབྲས་བུའམ་དགོས་པའི་དོན་དུ་མ་བརྟགས་མ་དཔྱད\". The English passive \"they are not analyzed\" makes the examples/yogis the unanalyzed items.",
+    "fix": "because, for the sake of the result, [people] do not analyze [them]"
+   }
+  ]
+ },
+ {
+  "id": "9-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-26",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "form",
+    "severity": "minor",
+    "span": "If an illusion is not other than the mind, / And it is not conceived as non-other either,",
+    "evidence": "The first couplet is the Cittamātrin objection (Kunpal 9-26 \"སེམས་ཙམ་རྣམ་རྫུན་པ་ན་རེ\"; Shenga 9-26 \"ཅེ་ན། དེ་ཡང་རིགས་པ་མ་ཡིན་ཏེ\"), and the Madhyamaka reply begins at \"དངོས་ན་ཇི་ལྟར\". The English runs objection and reply together without marking who speaks, unlike 9-27/9-30 where objections are quoted.",
+    "fix": "\"If an illusion is not other than the mind, / And it is not conceived as non-other either\"— / If it is an entity, how is it not other? / If it is not other, it does not exist as an entity."
+   }
+  ]
+ },
+ {
+  "id": "9-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-49",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "is equal to your sūtras",
+    "evidence": "\"མཚུངས\" (Skt tulya) means similar/comparable; Gyaltsab 9-49 says \"རྣམ་པ་ཐམས་ཅད་དུ་མི་མཉམ་ཡང་ ... མཚུངས་པར\" (though not equal in every respect, it is similar). \"Equal\" overstates the claim.",
+    "fix": "is similar to your sūtras"
+   }
+  ]
+ },
+ {
+  "id": "9-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-64",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "that apprehender of form",
+    "evidence": "The verse line \"དེ་ནི་སྒྲ་འཛིན་དང་ལྡན་པའི། རང་བཞིན་དུ་ནི་མཐོང་མ་ཡིན\" has only \"དེ\" (that); \"གཟུགས་འཛིན\" appears only in Kunpal/Shenga/Gyaltsab 9-64 as a gloss on the referent (Sanskrit \"tasya\"). It is inserted into the verse text without brackets.",
+    "fix": "and that [apprehender of form] is not seen to have a nature that possesses the apprehension of sound"
+   }
+  ]
+ },
+ {
+  "id": "9-91",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-99",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-101",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "this collection of selflessness",
+    "evidence": "bdag med tshogs 'di la: 'bdag med' modifies 'tshogs' (Skt nirātmake kalāpe, 'in this self-less collection'); bo-kunpal 9-101 glosses it as the aggregate-collection lacking a self (bdag med par ... ཕུང་པོའི་ཚོགས་པ). The English makes selflessness the content of the collection.",
+    "fix": "this collection that is without self"
+   }
+  ]
+ },
+ {
+  "id": "9-114",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-151",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-158",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-160",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-166",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "Thus, for those tormented by the fire of suffering,\nWell-arisen from the clouds of merit—\nWith a rain of my own accumulation of happiness—",
+    "evidence": "In the Tibetan 'bsod nams sprin las legs 'khrungs pa'i' modifies 'rang gi bde ba'i tshogs char' (the rain), per bo-kunpal 9-166 and bo-shenga 9-166; in the English the participial phrase sits directly after 'those tormented...' and can be read as describing the beings.",
+    "fix": "With a rain of my own stores of happiness, well arisen from the clouds of merit"
+   }
+  ]
+ },
+ {
+  "id": "10-1",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "In my having composed\nEngaging in the Conduct of Awakening,\nThrough whatever virtue there is",
+    "evidence": "The Tibetan 'bdag gis ... 'jug pa rnam par brtsams pa yi / dge ba gang des' = by whatever virtue [arises from] my having composed the Engaging; bo-gyaltsab 10-1 states the virtue is that obtained from composing the treatise. The English 'In my having composed ... through whatever virtue there is' does not make composition the source of the virtue.",
+    "fix": "Through whatever virtue there is in my having composed\nEngaging in the Conduct of Awakening,"
+   }
+  ]
+ },
+ {
+  "id": "10-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-54",
+  "verdict": "pass",
+  "issues": []
+ }
+]

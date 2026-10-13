@@ -1,0 +1,26 @@
+{
+ "session_dir": "/Users/tashitsering/.claude/projects/-Users-tashitsering-Desktop-work-Obsidian-KF-project/9c21a05b-5fa1-4975-8bee-f6f235fc6f76",
+ "step": "termbase",
+ "text": "bodhicaryavatara",
+ "lang": "hi",
+ "model": "sonnet",
+ "agents": {
+  "style-sheet": "ae6986a5d4f87f4db",
+  "batch-01": "a2f76d2f0b518a853",
+  "batch-02": "ac65ef9852bbef6b7",
+  "batch-03": "a1781e7dd231cb551",
+  "batch-04": "ae897f4fb807807e0",
+  "batch-05": "a14e93da248705466",
+  "batch-06": "a7fa209b76474fe6d",
+  "batch-07": "a6d6fff0c350a5939",
+  "batch-08": "ad2a38f434c66ff4d",
+  "batch-09": "a09e9939148a13959",
+  "batch-10": "a84662d1fb9c2f2a9",
+  "batch-11": "a478d473053afd5ff",
+  "batch-12": "ac1fd610aad9e75ab",
+  "batch-13": "acad6d0d8a014616c",
+  "batch-14": "acb5891b7f86e807d",
+  "batch-15": "a906e652c3e4f29d3",
+  "batch-16": "aa1e3a667e6784808"
+ }
+}

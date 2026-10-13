@@ -1,0 +1,260 @@
+{
+ "batch": "batch-14",
+ "segments": [
+  {
+   "id": "8-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-13",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "I will hear them praising oneself",
+     "evidence": "Self-praise, the disparagement of others (locked: praising oneself)",
+     "fix": "I will hear them praising themselves and putting others down."
+    }
+   ]
+  },
+  {
+   "id": "8-14",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "we will only ruin ourselves. They will not do me any good. And I will not do them any good either.",
+     "evidence": "The ruin follows from the reason: since they do not accomplish my welfare and I will not accomplish theirs.",
+     "fix": "Because they will not do me any good, and I will not do them any good either, we will only ruin ourselves."
+    }
+   ]
+  },
+  {
+   "id": "8-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-16",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "I will stay slightly apart from everyone",
+     "evidence": "\"I shall remain without familiarity toward everyone\" (not becoming close or familiar).",
+     "fix": "I will not become close to anyone, as if I had never met them before."
+    },
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "and flies away",
+     "evidence": "Bee simply takes nectar from the flower; flying away is not stated.",
+     "fix": "A bee just takes nectar from a flower."
+    }
+   ]
+  },
+  {
+   "id": "8-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-22",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "an ordinary person like me",
+     "evidence": "\"an inferior one like me\" (self-deprecating, lowly), not merely ordinary.",
+     "fix": "someone as lowly as me"
+    }
+   ]
+  },
+  {
+   "id": "8-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-40",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "to win their love",
+     "evidence": "Messengers were sent and many requests made for the sake of those people; \"winning their love\" is not stated.",
+     "fix": "In the past, you sent many messengers and made many requests for their sake."
+    }
+   ]
+  },
+  {
+   "id": "8-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-43",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "When you first lifted the cloth with effort, that face looked down shyly.",
+     "evidence": "What you first lifted with effort was the face (it looked down out of modesty even when drawn up); the cloth covered it afterward (\"that face was covered by a cloth\").",
+     "fix": "At first you worked hard to lift that face. Even when you drew it up, it looked down shyly. Whether you had seen it before or not, it was covered by a cloth."
+    }
+   ]
+  },
+  {
+   "id": "8-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-50",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

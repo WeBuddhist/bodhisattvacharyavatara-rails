@@ -1,0 +1,113 @@
+{
+ "batch": "batch-23",
+ "segments": [
+  {
+   "id": "7-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "मक्खियाँ, मच्छर और भँवरे",
+     "evidence": "Tibetan lists three insects: སྦྲང་བུ (fly), ཤ་སྦྲང་ (flesh-fly / gadfly) and བུང་བ (bee). bo-kunpal 7-18 glosses them as སྦྲང་བུ 'flying in the sky', ཤ་ཡི་སྦྲང་བུ 'flesh-fly' and བུང་བ 'that drinks flower nectar'. 'मच्छर' (mosquito) is not in the Tibetan (it comes from Sanskrit maśaka, which the Tibetan does not render), and བུང་བ is a bee rather than a bumblebee/भँवरा; english_academic has 'flies, gadflies, and bees'.",
+     "fix": "मक्खियाँ, डाँस (मांस-मक्खियाँ) और मधुमक्खियाँ"
+    }
+   ]
+  },
+  {
+   "id": "7-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-26",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

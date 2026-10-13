@@ -1,0 +1,129 @@
+{
+ "batch": "batch-38",
+ "segments": [
+  {
+   "id": "9-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-50",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "若因一部未包含",
+     "evidence": "Tibetan 'མ་གཏོགས་གཅིག' (Sanskrit 'ekena agamyamānena'): a single sutra not included in/accepted by the lower-vehicle canon; bo-kunpal 9-50 'དམན་པའི་སྡེ་སྣོད་དུ་མ་གཏོགས་པའི་...མདོ་གཅིག'. The Chinese leaves unstated what it is not included in.",
+     "fix": "若因有一部未被納入（小乘藏）"
+    }
+   ]
+  },
+  {
+   "id": "9-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-62",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "那麼對它的覺知亦不存在",
+     "evidence": "Tibetan 'དེ་ཡི་ཤེས་པའང་མེད' = the cognition of that (sound); bo-shenga 9-62 'སྒྲ་དེ་ཡི་ཤེས་པའང་མེད'. In the Chinese, 它 just before denotes the cognition, so the referent shifts unclearly.",
+     "fix": "那麼對聲的覺知亦不存在"
+    }
+   ]
+  },
+  {
+   "id": "9-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-64",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "彼亦未被見為",
+     "evidence": "Tibetan 'དེ་ནི...མཐོང་མ་ཡིན' has no 'also'; 'དེ' is the apprehender of form (bo-shenga 9-64 'གཟུགས་འཛིན་པ་པོ་དེ་ནི...མཐོང་བ་མ་ཡིན'; bo-kunpal 9-64 'གཟུགས་འཛིན་དེ'). 彼 is vague and 亦 is added.",
+     "fix": "彼取色者未被見具有"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,620 @@
+{
+ "batch": "batch-07",
+ "segments": [
+  {
+   "id": "5-0",
+   "terms": [
+    {
+     "bo": "ཤེས་བཞིན",
+     "dm": "Introspection",
+     "gm": null
+    }
+   ]
+  },
+  {
+   "id": "5-1",
+   "terms": [
+    {
+     "bo": "བསླབ་པ",
+     "dm": "training",
+     "gm": "training"
+    },
+    {
+     "bo": "སེམས",
+     "dm": "mind",
+     "gm": "mind"
+    }
+   ]
+  },
+  {
+   "id": "5-2",
+   "terms": [
+    {
+     "bo": "སེམས་ཀྱི་གླང་པོ",
+     "dm": "elephant of the mind",
+     "gm": "elephant of the mind"
+    },
+    {
+     "bo": "མནར་མེད",
+     "dm": "Incessant Hell",
+     "gm": "Avīci hell"
+    }
+   ]
+  },
+  {
+   "id": "5-3",
+   "terms": [
+    {
+     "bo": "དྲན་པ",
+     "dm": "mindfulness",
+     "gm": "mindfulness"
+    },
+    {
+     "bo": "སེམས་ཀྱི་གླང་པོ",
+     "dm": "elephant of the mind",
+     "gm": "elephant of the mind"
+    },
+    {
+     "bo": "དགེ་བ",
+     "dm": "virtue",
+     "gm": "virtues"
+    }
+   ]
+  },
+  {
+   "id": "5-4",
+   "terms": [
+    {
+     "bo": "དམྱལ་བའི་སྲུང་མ",
+     "dm": "guardians of the hell realms",
+     "gm": "guardians of the hells"
+    },
+    {
+     "bo": "སྲིན་པོ",
+     "dm": "demons",
+     "gm": "rākṣasas"
+    }
+   ]
+  },
+  {
+   "id": "5-5",
+   "terms": [
+    {
+     "bo": "སེམས",
+     "dm": "mind",
+     "gm": "mind"
+    }
+   ]
+  },
+  {
+   "id": "5-6",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "sufferings",
+     "gm": "sufferings"
+    },
+    {
+     "bo": "སེམས",
+     "dm": "mind",
+     "gm": "mind"
+    },
+    {
+     "bo": "ཡང་དག་གསུང་བ",
+     "dm": "Speaker of Truth",
+     "gm": "Speaker of Truth"
+    }
+   ]
+  },
+  {
+   "id": "5-7",
+   "terms": [
+    {
+     "bo": "དམྱལ་བ",
+     "dm": "hell",
+     "gm": "hells"
+    }
+   ]
+  },
+  {
+   "id": "5-8",
+   "terms": [
+    {
+     "bo": "སྡིག་སེམས",
+     "dm": "sinful mind",
+     "gm": "sinful mind"
+    },
+    {
+     "bo": "ཐུབ་པ",
+     "dm": "Sage",
+     "gm": "Sage"
+    },
+    {
+     "bo": "འཇིག་རྟེན་གསུམ",
+     "dm": "three worlds",
+     "gm": "three worlds"
+    },
+    {
+     "bo": "སེམས",
+     "dm": "mind",
+     "gm": "mind"
+    }
+   ]
+  },
+  {
+   "id": "5-9",
+   "terms": [
+    {
+     "bo": "སྦྱིན་པའི་ཕ་རོལ་ཕྱིན",
+     "dm": "perfection of generosity",
+     "gm": "perfection of generosity"
+    },
+    {
+     "bo": "ཕ་རོལ་ཕྱིན",
+     "dm": "perfection",
+     "gm": "perfection"
+    },
+    {
+     "bo": "སྐྱོབ་པ",
+     "dm": "Protectors",
+     "gm": "Saviors"
+    }
+   ]
+  },
+  {
+   "id": "5-10",
+   "terms": [
+    {
+     "bo": "སྦྱིན་པའི་ཕ་རོལ་ཕྱིན",
+     "dm": "perfection of generosity",
+     "gm": "perfection of generosity"
+    },
+    {
+     "bo": "ཕ་རོལ་ཕྱིན",
+     "dm": "perfection",
+     "gm": "perfection"
+    },
+    {
+     "bo": "སེམས",
+     "dm": "mind",
+     "gm": "mind"
+    }
+   ]
+  },
+  {
+   "id": "5-11",
+   "terms": [
+    {
+     "bo": "ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན་པ",
+     "dm": "perfection of ethical discipline",
+     "gm": "perfection of moral discipline"
+    },
+    {
+     "bo": "ཚུལ་ཁྲིམས",
+     "dm": "ethical discipline",
+     "gm": "moral discipline"
+    },
+    {
+     "bo": "ཕ་རོལ་ཕྱིན",
+     "dm": "perfection",
+     "gm": "perfection"
+    },
+    {
+     "bo": "སྤོང་བའི་སེམས",
+     "dm": "mind of renunciation",
+     "gm": "mind of renunciation"
+    }
+   ]
+  },
+  {
+   "id": "5-12",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "ཁྲོ་བའི་སེམས",
+     "dm": "mind of anger",
+     "gm": "mind of anger"
+    }
+   ]
+  },
+  {
+   "id": "5-13",
+   "terms": []
+  },
+  {
+   "id": "5-14",
+   "terms": [
+    {
+     "bo": "ཕྱི་རོལ་དངོས་པོ",
+     "dm": "external phenomena",
+     "gm": "external phenomena"
+    },
+    {
+     "bo": "སེམས",
+     "dm": "mind",
+     "gm": "mind"
+    }
+   ]
+  },
+  {
+   "id": "5-15",
+   "terms": [
+    {
+     "bo": "ཚངས",
+     "dm": "Brahmā",
+     "gm": "Brahmā"
+    },
+    {
+     "bo": "སེམས་གསལ",
+     "dm": "clear mind",
+     "gm": "clear mind"
+    },
+    {
+     "bo": "ལུས་ངག",
+     "dm": "body and speech",
+     "gm": "body and speech"
+    }
+   ]
+  },
+  {
+   "id": "5-16",
+   "terms": [
+    {
+     "bo": "བཟླས་བརྗོད",
+     "dm": "recitations",
+     "gm": "recitations"
+    },
+    {
+     "bo": "དཀའ་ཐུབ",
+     "dm": "austerities",
+     "gm": "ascetic practices"
+    },
+    {
+     "bo": "དེ་ཉིད་རིག་པ",
+     "dm": "Knower of Reality",
+     "gm": "Knower of Reality"
+    }
+   ]
+  },
+  {
+   "id": "5-17",
+   "terms": [
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    },
+    {
+     "bo": "སེམས་ཀྱི་གསང་",
+     "dm": "secret of the mind",
+     "gm": "secret of the mind"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "5-18",
+   "terms": [
+    {
+     "bo": "སེམས",
+     "dm": "mind",
+     "gm": "mind"
+    },
+    {
+     "bo": "སེམས་བསྲུང",
+     "dm": "guarding the mind",
+     "gm": "guarding the mind"
+    },
+    {
+     "bo": "བརྟུལ་ཞུགས",
+     "dm": "ascetic discipline",
+     "gm": "discipline"
+    }
+   ]
+  },
+  {
+   "id": "5-19",
+   "terms": [
+    {
+     "bo": "སེམས་ཀྱི་རྨ",
+     "dm": "wound of the mind",
+     "gm": "wound of the mind"
+    }
+   ]
+  },
+  {
+   "id": "5-20",
+   "terms": [
+    {
+     "bo": "བསྡུས་འཇོམས",
+     "dm": "Samghāta",
+     "gm": "Crushing"
+    },
+    {
+     "bo": "རིས་འཇོམས",
+     "dm": "Raurava",
+     "gm": "Destroying"
+    },
+    {
+     "bo": "སེམས་ཀྱི་རྨ",
+     "dm": "wound of the mind",
+     "gm": "wound of the mind"
+    }
+   ]
+  },
+  {
+   "id": "5-21",
+   "terms": []
+  },
+  {
+   "id": "5-22",
+   "terms": [
+    {
+     "bo": "རྙེད",
+     "dm": "gains",
+     "gm": "gain"
+    },
+    {
+     "bo": "བཀུར་སྟི",
+     "dm": "honor",
+     "gm": "honor"
+    },
+    {
+     "bo": "དགེ་བ",
+     "dm": "virtues",
+     "gm": "virtues"
+    },
+    {
+     "bo": "སེམས",
+     "dm": "mind",
+     "gm": "mind"
+    }
+   ]
+  },
+  {
+   "id": "5-23",
+   "terms": [
+    {
+     "bo": "དྲན་པ",
+     "dm": "mindfulness",
+     "gm": "Mindfulness"
+    },
+    {
+     "bo": "ཤེས་བཞིན",
+     "dm": "introspective awareness",
+     "gm": "introspection"
+    },
+    {
+     "bo": "སེམས",
+     "dm": "minds",
+     "gm": "minds"
+    }
+   ]
+  },
+  {
+   "id": "5-24",
+   "terms": [
+    {
+     "bo": "རྨོངས་པ",
+     "dm": "confusion",
+     "gm": "ignorance"
+    },
+    {
+     "bo": "སེམས",
+     "dm": "mind",
+     "gm": "mind"
+    }
+   ]
+  },
+  {
+   "id": "5-25",
+   "terms": [
+    {
+     "bo": "ཤེས་བཞིན",
+     "dm": "introspective awareness",
+     "gm": "introspection"
+    },
+    {
+     "bo": "ཐོས་དང་བསམས་དང་བསྒོམས",
+     "dm": "heard, reflected upon, and meditated on",
+     "gm": "hearing, thinking, and meditating"
+    },
+    {
+     "bo": "དྲན་པ",
+     "dm": "memory",
+     "gm": "memory"
+    },
+    {
+     "bo": "སེམས",
+     "dm": "minds",
+     "gm": "mind"
+    }
+   ]
+  },
+  {
+   "id": "5-26",
+   "terms": [
+    {
+     "bo": "དད་པ",
+     "dm": "faith",
+     "gm": "faith"
+    },
+    {
+     "bo": "བརྩོན་པ",
+     "dm": "diligence",
+     "gm": "effort"
+    },
+    {
+     "bo": "ཤེས་བཞིན",
+     "dm": "introspective awareness",
+     "gm": "introspection"
+    },
+    {
+     "bo": "ལྟུང་བ",
+     "dm": "downfalls",
+     "gm": "downfalls"
+    }
+   ]
+  },
+  {
+   "id": "5-27",
+   "terms": [
+    {
+     "bo": "ཤེས་བཞིན",
+     "dm": "introspective awareness",
+     "gm": "introspection"
+    },
+    {
+     "bo": "དྲན་པ",
+     "dm": "mindfulness",
+     "gm": "mindfulness"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merits",
+     "gm": "merits"
+    },
+    {
+     "bo": "ངན་འགྲོ",
+     "dm": "lower realms",
+     "gm": "lower realms"
+    }
+   ]
+  },
+  {
+   "id": "5-28",
+   "terms": [
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "mental afflictions",
+     "gm": "affliction"
+    },
+    {
+     "bo": "དགེ",
+     "dm": "virtue",
+     "gm": "virtue"
+    },
+    {
+     "bo": "བདེ་འགྲོ",
+     "dm": "happy rebirth",
+     "gm": "happy realms"
+    }
+   ]
+  },
+  {
+   "id": "5-29",
+   "terms": [
+    {
+     "bo": "དྲན་པ",
+     "dm": "mindfulness",
+     "gm": "mindfulness"
+    },
+    {
+     "bo": "ཡིད་སྒོ",
+     "dm": "gateway of the mind",
+     "gm": "door of the mind"
+    },
+    {
+     "bo": "ངན་འགྲོ",
+     "dm": "lower realms",
+     "gm": "lower realms"
+    }
+   ]
+  },
+  {
+   "id": "5-30",
+   "terms": [
+    {
+     "bo": "བླ་མ",
+     "dm": "spiritual master",
+     "gm": "gurus"
+    },
+    {
+     "bo": "མཁན་པོ",
+     "dm": "preceptor",
+     "gm": "preceptors"
+    },
+    {
+     "bo": "དྲན་པ",
+     "dm": "mindfulness",
+     "gm": "Mindfulness"
+    }
+   ]
+  },
+  {
+   "id": "5-31",
+   "terms": [
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "Buddhas"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattvas",
+     "gm": "Bodhisattvas"
+    }
+   ]
+  },
+  {
+   "id": "5-32",
+   "terms": [
+    {
+     "bo": "སངས་རྒྱས་རྗེས་དྲན་པ",
+     "dm": "recollection of the Buddha",
+     "gm": "recollection of the Buddhas"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddhas"
+    },
+    {
+     "bo": "ངོ་ཚ",
+     "dm": "shame",
+     "gm": "shame"
+    }
+   ]
+  },
+  {
+   "id": "5-33",
+   "terms": [
+    {
+     "bo": "དྲན་པ",
+     "dm": "mindfulness",
+     "gm": "mindfulness"
+    },
+    {
+     "bo": "ཡིད་སྒོ",
+     "dm": "gateway of the mind",
+     "gm": "door of the mind"
+    },
+    {
+     "bo": "ཤེས་བཞིན",
+     "dm": "alertness",
+     "gm": "introspection"
+    }
+   ]
+  },
+  {
+   "id": "5-34",
+   "terms": []
+  },
+  {
+   "id": "5-35",
+   "terms": []
+  },
+  {
+   "id": "5-36",
+   "terms": []
+  }
+ ]
+}

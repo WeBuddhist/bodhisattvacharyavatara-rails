@@ -1,0 +1,145 @@
+{
+ "batch": "batch-16",
+ "segments": [
+  {
+   "id": "6-2",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "Therefore, earnestly upon patience,\nOne should practice meditation in various ways.",
+     "evidence": "བཟོད་ལ་ནན་ཏན་དུ། སྣ་ཚོགས་ཚུལ་དུ་བསྒོམ་པར་བྱ། (\"meditate on patience earnestly in various ways\"; bo-kunpal 6-2: བཟོད་པ་བསྒོམ་པ་ལ་ནན་ཏན་དུ་བྱས་ཏེ). The English splits \"patience\" from the verb \"practice meditation\", leaving \"earnestly upon patience\" a dangling phrase that is hard to parse.",
+     "fix": "Therefore, one should earnestly meditate on patience in various ways."
+    }
+   ]
+  },
+  {
+   "id": "6-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-6",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "The enemy of anger produces",
+     "evidence": "ཁྲོ་བའི་དགྲ་ཡིས་ is appositional: anger is itself the enemy that produces these sufferings (Sanskrit: karoti ity arisaṃjñayā; bo-kunpal 6-6: ཁྲོ་བའི་དགྲ་ཡིས་དགེ་རྩ་འཇོམས་ཤིང་དམྱལ་བར་སྐྱེ་བ་སོགས་...སྡུག་བསྔལ་མང་པོ་དག་ནི་ཕྱེད་པར་འགྱུར; bo-shenga 6-6: ཁྲོ་བའི་དགྲ་ཡིས་དེ་དག་ལ་སོགས་པའི་...སྡུག་བསྔལ་དག་ནི་བྱེད་པར་འགྱུར). \"Enemy of anger\" would mean someone opposed to anger, reversing the agent.",
+     "fix": "The enemy, anger, produces"
+    }
+   ]
+  },
+  {
+   "id": "6-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-11",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "For an enemy, it is the opposite.",
+     "evidence": "དགྲ་ལ་དེ་ལས་བཟློག་པས་སོ། ends with the reason particle པས་སོ (\"because for an enemy it is the reverse of that\"); bo-gyaltsab 6-11 ties the reversal of wanting/not-wanting to the enemy as the reason. The English drops the causal link and leaves \"it\" vague.",
+     "fix": "because, for an enemy, these are the reverse (what is wanted rather than unwanted)."
+    }
+   ]
+  },
+  {
+   "id": "6-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-13",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "Why then am I cowardly?",
+     "evidence": "བདག་གོ་ཅི་ཕྱིར་སྔར། has no word for \"coward\" (the Sanskrit kātaraḥ does). bo-kunpal 6-13 glosses it as \"why is it not fitting for me to endure\" (ཅི་ཡིས་ཕྱིར་སྔར་ཏེ་སྔར་མི་རིགས་སོ), and bo-gyaltsab 6-13 as \"why should I not endure it\" (བདག་ཀོ་ཅི་ཞིག་བསྟར་ཏེ་བཟོད་པར་རིགས་སོ).",
+     "fix": "why should I not endure it?"
+    }
+   ]
+  },
+  {
+   "id": "6-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-21",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "Through sorrow",
+     "evidence": "སྐྱོ་བས is weariness or disenchantment with saṃsāra (Sanskrit saṃvega), not grief: bo-shenga 6-21 སེམས་སྐྱོ་བར་གྱུར་པས; bo-kunpal 6-21 ཡིད་འབྱུང་ཞིང་སྐྱོ་བར་གྱུར་པས (\"becoming weary, disenchanted\"). \"Sorrow\" suggests grief.",
+     "fix": "Through disillusionment (weariness with saṃsāra)"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "batch": "batch-34",
+ "segments": [
+  {
+   "id": "8-151",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-152",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-153",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-154",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-155",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-156",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-157",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-158",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-159",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-160",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-161",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-162",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-163",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-164",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-165",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-166",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-167",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "तुम्हें ही दमन किया जाएगा",
+     "evidence": "Tibetan ཚར་གཅད་བྱ་བར་ཟད (bo-kunpal 8-167: ཚར་བཅད་པར་བྱ་བར་ཟད་དོ; bo-shenga: ཚར་བཅད་པར་བྱ་བ་ཁོ་ནར་ཟད་དོ) means 'nothing remains but to subdue you'; the Hindi passive future drops the 'only/nothing else' force (ཟད) and the speaker's own resolve.",
+     "fix": "तब तुम्हें ही दमन करना शेष रह जाता है।"
+    }
+   ]
+  },
+  {
+   "id": "8-168",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-169",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-170",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "मैंने तुम्हें सत्त्वों को नहीं दिया",
+     "evidence": "The Tibetan གལ་ཏེ་བག་མེད་གྱུར་ནས་ཁྱོད། སེམས་ཅན་རྣམས་ལ་མ་བྱིན་ན has no ངས and places ཁྱོད in the clause; bo-kunpal 8-170 and bo-gyaltsab 8-170 (second gloss) read ཁྱོད (the mind) as the one who becomes heedless and does not give. The Sanskrit and bo-shenga read 'I do not give you'. The Hindi fixes one reading; a neutral rendering would keep the Tibetan's open agent.",
+     "fix": "यदि प्रमाद में पड़कर तुम (मुझे) सत्त्वों को न दोगे,"
+    }
+   ]
+  }
+ ]
+}

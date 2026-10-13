@@ -1,0 +1,710 @@
+{
+ "batch": "batch-06",
+ "terms": [
+  {
+   "term_id": "T006",
+   "bo": "ལུས",
+   "sanskrit": "kāya",
+   "senses": [
+    {
+     "sense": "body",
+     "occurrences": "all",
+     "academic": "body",
+     "children": "body",
+     "basis": "both",
+     "reason": "Both translations agree; plain English for both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T022",
+   "bo": "བདག",
+   "sanskrit": "ātman",
+   "senses": [
+    {
+     "sense": "self",
+     "occurrences": "all",
+     "academic": "self",
+     "children": "self",
+     "basis": "style-sheet",
+     "reason": "Style sheet core term བདག; both translations agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T038",
+   "bo": "རྨོངས་པ",
+   "sanskrit": "moha",
+   "senses": [
+    {
+     "sense": "delusion",
+     "occurrences": "all",
+     "academic": "delusion",
+     "children": "confusion",
+     "basis": "style-sheet",
+     "reason": "Style sheet core term རྨོངས་པ; kept apart from ignorance."
+    }
+   ]
+  },
+  {
+   "term_id": "T054",
+   "bo": "དགེ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "virtue",
+     "occurrences": "all",
+     "academic": "virtue",
+     "children": "good deed",
+     "basis": "style-sheet",
+     "reason": "Style sheet core term དགེ་བ; never wholesome."
+    }
+   ]
+  },
+  {
+   "term_id": "T070",
+   "bo": "དེ་བཞིན་གཤེགས་པ",
+   "sanskrit": "tathāgata",
+   "senses": [
+    {
+     "sense": "epithet of the Buddha",
+     "occurrences": "all",
+     "academic": "Tathāgata",
+     "children": "Thus-Gone One",
+     "basis": "style-sheet",
+     "reason": "Style sheet core term དེ་བཞིན་གཤེགས་པ; both attest Tathāgata."
+    }
+   ]
+  },
+  {
+   "term_id": "T086",
+   "bo": "སྲིད་པ",
+   "sanskrit": "bhava",
+   "senses": [
+    {
+     "sense": "existence",
+     "occurrences": "all",
+     "academic": "existence",
+     "children": "life",
+     "basis": "style-sheet",
+     "reason": "Style sheet core term སྲིད་པ; never cyclic existence."
+    }
+   ]
+  },
+  {
+   "term_id": "T102",
+   "bo": "བརྩོན་འགྲུས",
+   "sanskrit": "vīrya",
+   "senses": [
+    {
+     "sense": "perfection of diligence",
+     "occurrences": "all",
+     "academic": "diligence",
+     "children": "joyful effort",
+     "basis": "style-sheet",
+     "reason": "Style sheet core term བརྩོན་འགྲུས; sixth-perfection name."
+    }
+   ]
+  },
+  {
+   "term_id": "T118",
+   "bo": "དམ་ཆོས",
+   "sanskrit": "saddharma",
+   "senses": [
+    {
+     "sense": "the Buddha's teaching, sublime",
+     "occurrences": "all",
+     "academic": "sublime Dharma",
+     "children": "true teachings",
+     "basis": "dm",
+     "reason": "Sense (a) of ཆོས; དམ་པ sublime plus Dharma; DM's majority form."
+    }
+   ]
+  },
+  {
+   "term_id": "T134",
+   "bo": "རྒྱུད",
+   "sanskrit": "saṃtāna",
+   "senses": [
+    {
+     "sense": "continuous stream of mind or person",
+     "occurrences": "all",
+     "academic": "continuum",
+     "children": "continuing stream",
+     "basis": "both",
+     "reason": "Both attest continuum; mind-stream variants folded into one rendering."
+    }
+   ]
+  },
+  {
+   "term_id": "T150",
+   "bo": "རྗེས་སུ་ཡི་རང",
+   "sanskrit": "anumodana",
+   "senses": [
+    {
+     "sense": "rejoicing in virtue",
+     "occurrences": "all",
+     "academic": "rejoice",
+     "children": "rejoice",
+     "basis": "both",
+     "reason": "Style sheet key verb རྗེས་སུ་ཡི་རང; both translations agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T166",
+   "bo": "ཚེ་འདི",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "this life",
+     "occurrences": "all",
+     "academic": "this life",
+     "children": "this life",
+     "basis": "both",
+     "reason": "Both translations agree; plain English."
+    }
+   ]
+  },
+  {
+   "term_id": "T182",
+   "bo": "བདག་མེད",
+   "sanskrit": "nirātmaka",
+   "senses": [
+    {
+     "sense": "selflessness",
+     "occurrences": "all",
+     "academic": "selflessness",
+     "children": "no separate self",
+     "basis": "style-sheet",
+     "reason": "Style sheet core term བདག་མེད; adjective forms follow in context."
+    }
+   ]
+  },
+  {
+   "term_id": "T198",
+   "bo": "མཆོད",
+   "sanskrit": "pūjā",
+   "senses": [
+    {
+     "sense": "offering",
+     "occurrences": "all",
+     "academic": "offering",
+     "children": "offering",
+     "basis": "gm",
+     "reason": "GM's rendering and DM's majority; DM's worship once is dropped."
+    }
+   ]
+  },
+  {
+   "term_id": "T214",
+   "bo": "ལམ",
+   "sanskrit": "mārga",
+   "senses": [
+    {
+     "sense": "path",
+     "occurrences": "all",
+     "academic": "path",
+     "children": "path",
+     "basis": "both",
+     "reason": "Both translations agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T230",
+   "bo": "བཟླས་བརྗོད",
+   "sanskrit": "japa",
+   "senses": [
+    {
+     "sense": "recitation",
+     "occurrences": "all",
+     "academic": "recitation",
+     "children": "recitation",
+     "basis": "both",
+     "reason": "Both translations agree; plain English."
+    }
+   ]
+  },
+  {
+   "term_id": "T246",
+   "bo": "སྤྱོད་པ",
+   "sanskrit": "caryā",
+   "senses": [
+    {
+     "sense": "conduct",
+     "occurrences": "all",
+     "academic": "conduct",
+     "children": "way of acting",
+     "basis": "style-sheet",
+     "reason": "Style sheet core term སྤྱོད་པ; both attest conduct."
+    }
+   ]
+  },
+  {
+   "term_id": "T262",
+   "bo": "བསྐལ་པ་རྒྱ་མཚོ",
+   "sanskrit": "kalpārṇava",
+   "senses": [
+    {
+     "sense": "ocean of eons",
+     "occurrences": "all",
+     "academic": "ocean of eons",
+     "children": "ocean of great ages",
+     "basis": "style-sheet",
+     "reason": "Compound of ocean plus eon (བསྐལ་པ); children's builds on great age."
+    }
+   ]
+  },
+  {
+   "term_id": "T278",
+   "bo": "རྙེད་དང་བཀུར་སྟི",
+   "sanskrit": "lābhasatkāra",
+   "senses": [
+    {
+     "sense": "gain and honor",
+     "occurrences": "all",
+     "academic": "gain and honor",
+     "children": "gain and respect",
+     "basis": "both",
+     "reason": "Both attest gain and honor; children's respect from GM's wording."
+    }
+   ]
+  },
+  {
+   "term_id": "T294",
+   "bo": "ཚོར་པོ",
+   "sanskrit": "vedaka",
+   "senses": [
+    {
+     "sense": "one who feels",
+     "occurrences": "all",
+     "academic": "feeler",
+     "children": "one who feels",
+     "basis": "gm",
+     "reason": "GM's feeler follows ཚོར་བ feeling; experiencer is kept for སྤྱོད་པོ."
+    }
+   ]
+  },
+  {
+   "term_id": "T310",
+   "bo": "རིན་ཆེན",
+   "sanskrit": "ratna",
+   "senses": [
+    {
+     "sense": "jewel",
+     "occurrences": "all",
+     "academic": "jewel",
+     "children": "jewel",
+     "basis": "both",
+     "reason": "Both translations agree; lower case since not the Three Jewels."
+    }
+   ]
+  },
+  {
+   "term_id": "T326",
+   "bo": "རིན་ཆེན་ཤིང",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "jewel tree",
+     "occurrences": "all",
+     "academic": "jewel tree",
+     "children": "jewel tree",
+     "basis": "both",
+     "reason": "Both translations agree; jewel plus tree."
+    }
+   ]
+  },
+  {
+   "term_id": "T342",
+   "bo": "སྔག་བསྔལ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "suffering (variant spelling)",
+     "occurrences": "all",
+     "academic": "suffering",
+     "children": "suffering",
+     "basis": "style-sheet",
+     "reason": "Variant spelling of སྡུག་བསྔལ; policy 20 gives it suffering."
+    }
+   ]
+  },
+  {
+   "term_id": "T358",
+   "bo": "འཛམ་གླིང",
+   "sanskrit": "jambudvīpa",
+   "senses": [
+    {
+     "sense": "name of the human continent",
+     "occurrences": "all",
+     "academic": "Jambudvīpa",
+     "children": "Jambudvipa",
+     "basis": "both",
+     "reason": "Both translations give Jambudvīpa; children's drops diacritics."
+    }
+   ]
+  },
+  {
+   "term_id": "T374",
+   "bo": "སྨན་ཆེན",
+   "sanskrit": "mahauṣadhi",
+   "senses": [
+    {
+     "sense": "great medicine",
+     "occurrences": "all",
+     "academic": "great medicine",
+     "children": "great medicine",
+     "basis": "both",
+     "reason": "Both translations agree; plain English."
+    }
+   ]
+  },
+  {
+   "term_id": "T390",
+   "bo": "དམྱལ་མེ",
+   "sanskrit": "nārakāgni",
+   "senses": [
+    {
+     "sense": "fire of hell",
+     "occurrences": "all",
+     "academic": "fire of hell",
+     "children": "fire of hell",
+     "basis": "style-sheet",
+     "reason": "Compound of hell (དམྱལ་བ) plus fire; singular head."
+    }
+   ]
+  },
+  {
+   "term_id": "T406",
+   "bo": "དེ་ཉིད་རིག་པ",
+   "sanskrit": "sarvavid",
+   "senses": [
+    {
+     "sense": "epithet of the Buddha",
+     "occurrences": "all",
+     "academic": "Knower of Reality",
+     "children": "Knower of the way things really are",
+     "basis": "both",
+     "reason": "Both attest Knower of Reality; དེ་ཉིད reality; children builds on core term."
+    }
+   ]
+  },
+  {
+   "term_id": "T422",
+   "bo": "སླུ་སེམས",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "deceptive mind",
+     "occurrences": "all",
+     "academic": "deceptive mind",
+     "children": "deceiving mind",
+     "basis": "gm",
+     "reason": "GM's deceptive mind keeps སེམས mind in the compound."
+    }
+   ]
+  },
+  {
+   "term_id": "T438",
+   "bo": "ཤེས་རབ་མཚོན",
+   "sanskrit": "prajñāśastra",
+   "senses": [
+    {
+     "sense": "weapon of wisdom",
+     "occurrences": "all",
+     "academic": "weapon of wisdom",
+     "children": "blade of wisdom",
+     "basis": "gm",
+     "reason": "Academic follows GM; wisdom per core term; children's blade from DM."
+    }
+   ]
+  },
+  {
+   "term_id": "T454",
+   "bo": "སྦྱིན",
+   "sanskrit": "dāna",
+   "senses": [
+    {
+     "sense": "generosity",
+     "occurrences": "all",
+     "academic": "generosity",
+     "children": "giving",
+     "basis": "style-sheet",
+     "reason": "Style sheet core term སྦྱིན་པ; first perfection."
+    }
+   ]
+  },
+  {
+   "term_id": "T470",
+   "bo": "ལོག་འཚོ",
+   "sanskrit": "mithyājīvita",
+   "senses": [
+    {
+     "sense": "wrong livelihood",
+     "occurrences": "all",
+     "academic": "wrong livelihood",
+     "children": "wrong way to earn a living",
+     "basis": "both",
+     "reason": "Both attest wrong livelihood; children's is new plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T486",
+   "bo": "བསོད་ནམས་རྒྱུ",
+   "sanskrit": "puṇyahetu",
+   "senses": [
+    {
+     "sense": "cause of merit",
+     "occurrences": "all",
+     "academic": "cause of merit",
+     "children": "cause of a store of goodness",
+     "basis": "style-sheet",
+     "reason": "Compound of merit (བསོད་ནམས) plus cause; children builds on store of goodness."
+    }
+   ]
+  },
+  {
+   "term_id": "T502",
+   "bo": "བདག་ཉིད་བརྙས་པ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "self-contempt",
+     "occurrences": "all",
+     "academic": "self-contempt",
+     "children": "looking down on oneself",
+     "basis": "both",
+     "reason": "Both attest self-contempt; children's is new plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T518",
+   "bo": "དོར",
+   "sanskrit": "tyāga",
+   "senses": [
+    {
+     "sense": "relinquishment",
+     "occurrences": "all",
+     "academic": "relinquishment",
+     "children": "letting go",
+     "basis": "both",
+     "reason": "Both attest relinquishment; children's is new plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T534",
+   "bo": "རྒྱལ་བའི་འབྲས་བུ",
+   "sanskrit": "jayaphala",
+   "senses": [
+    {
+     "sense": "result of victory",
+     "occurrences": "all",
+     "academic": "result of victory",
+     "children": "result of winning",
+     "basis": "style-sheet",
+     "reason": "Here རྒྱལ་བ is victory, not Victor; འབྲས་བུ takes core term result."
+    }
+   ]
+  },
+  {
+   "term_id": "T550",
+   "bo": "འཇིགས་པ",
+   "sanskrit": "bhaya",
+   "senses": [
+    {
+     "sense": "fear",
+     "occurrences": "all",
+     "academic": "fear",
+     "children": "fear",
+     "basis": "both",
+     "reason": "Both translations agree; plain English."
+    }
+   ]
+  },
+  {
+   "term_id": "T566",
+   "bo": "མི་གཙང་གཟེབ",
+   "sanskrit": "gūthapañjara",
+   "senses": [
+    {
+     "sense": "cage of filth",
+     "occurrences": "all",
+     "academic": "cage of filth",
+     "children": "cage of filth",
+     "basis": "both",
+     "reason": "Both translations agree; plain English."
+    }
+   ]
+  },
+  {
+   "term_id": "T582",
+   "bo": "བདག་དང་གཞན་དུ་བརྗེ",
+   "sanskrit": "parātmaparivartana",
+   "senses": [
+    {
+     "sense": "exchange of self and others",
+     "occurrences": "all",
+     "academic": "exchange of self and others",
+     "children": "exchange of self and others",
+     "basis": "gm",
+     "reason": "GM's form; self per core term བདག; plain for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T598",
+   "bo": "སྒྲིབ་པ",
+   "sanskrit": "āvaraṇa",
+   "senses": [
+    {
+     "sense": "obscuration",
+     "occurrences": "all",
+     "academic": "obscuration",
+     "children": "veil",
+     "basis": "style-sheet",
+     "reason": "Both attest obscuration; fits style sheet's obscuration phrase; children's is new."
+    }
+   ]
+  },
+  {
+   "term_id": "T614",
+   "bo": "རང་རིག",
+   "sanskrit": "svasaṃvitti",
+   "senses": [
+    {
+     "sense": "self-awareness",
+     "occurrences": "all",
+     "academic": "self-awareness",
+     "children": "awareness of itself",
+     "basis": "both",
+     "reason": "Both attest self-awareness; children's spells out the idea."
+    }
+   ]
+  },
+  {
+   "term_id": "T630",
+   "bo": "གྲོལ",
+   "sanskrit": "mukti",
+   "senses": [
+    {
+     "sense": "liberation",
+     "occurrences": "all",
+     "academic": "liberation",
+     "children": "freedom",
+     "basis": "dm",
+     "reason": "DM's noun form fits head form; GM's liberated is the adjective."
+    }
+   ]
+  },
+  {
+   "term_id": "T646",
+   "bo": "སྤྱོད་པོ",
+   "sanskrit": "bhoktṛ",
+   "senses": [
+    {
+     "sense": "one who experiences",
+     "occurrences": "all",
+     "academic": "experiencer",
+     "children": "one who experiences",
+     "basis": "both",
+     "reason": "Both attest experiencer; kept apart from ཚོར་པོ feeler."
+    }
+   ]
+  },
+  {
+   "term_id": "T662",
+   "bo": "འཇིག་རྟེན་མངོན་སུམ",
+   "sanskrit": "lokapratyakṣa",
+   "senses": [
+    {
+     "sense": "worldly direct perception",
+     "occurrences": "all",
+     "academic": "worldly direct perception",
+     "children": "everyday direct seeing",
+     "basis": "both",
+     "reason": "Both agree; འཇིག་རྟེན་ world; children builds on everyday."
+    }
+   ]
+  },
+  {
+   "term_id": "T678",
+   "bo": "དངོས་པོ་མེད་པ",
+   "sanskrit": "abhāva",
+   "senses": [
+    {
+     "sense": "non-entity",
+     "occurrences": "all",
+     "academic": "non-entity",
+     "children": "non-existent thing",
+     "basis": "style-sheet",
+     "reason": "Variant of དངོས་མེད; style sheet gives non-entity, and children's non-existent thing."
+    }
+   ]
+  },
+  {
+   "term_id": "T694",
+   "bo": "ཤལ་མ་རི",
+   "sanskrit": "śālmali",
+   "senses": [
+    {
+     "sense": "name of a thorny tree in hell",
+     "occurrences": "all",
+     "academic": "śālmali",
+     "children": "Shalmali",
+     "basis": "gm",
+     "reason": "GM's form with IAST; children's drops diacritics."
+    }
+   ]
+  },
+  {
+   "term_id": "T710",
+   "bo": "བདུད་ཀྱི་ལས",
+   "sanskrit": "mārakarma",
+   "senses": [
+    {
+     "sense": "action of Māra",
+     "occurrences": "all",
+     "academic": "action of Māra",
+     "children": "action of Mara",
+     "basis": "gm",
+     "reason": "GM's action; ལས here is ordinary action, not karma doctrine; Māra per policy."
+    }
+   ]
+  },
+  {
+   "term_id": "T726",
+   "bo": "རང་སངས་རྒྱས",
+   "sanskrit": "pratyekabuddha",
+   "senses": [
+    {
+     "sense": "solitary buddha",
+     "occurrences": "all",
+     "academic": "Pratyekabuddha",
+     "children": "self-awakened one",
+     "basis": "style-sheet",
+     "reason": "Policy 15 keeps Pratyekabuddha; children translated by meaning (self plus awakened)."
+    }
+   ]
+  },
+  {
+   "term_id": "T742",
+   "bo": "བློ་ལྡན་ཤེས་རབ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "name of a Tibetan translator",
+     "occurrences": "all",
+     "academic": "Loden Sherab",
+     "children": "Loden Sherab",
+     "basis": "both",
+     "reason": "Policy 26 simple phonetic form; colophon is academic-only, retelling omits it."
+    }
+   ]
+  }
+ ]
+}

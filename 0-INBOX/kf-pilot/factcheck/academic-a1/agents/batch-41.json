@@ -1,0 +1,113 @@
+{
+ "batch": "batch-41",
+ "segments": [
+  {
+   "id": "9-105",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-107",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-109",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-110",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-111",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-112",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-113",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-114",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "form",
+     "severity": "minor",
+     "span": "A sprout arises from a seed, and / Just as the seed is known by that very sprout, / By the consciousness arisen from the object of knowledge, / Why is its existence not known?",
+     "evidence": "The verse is the opponent's objection: bo-kunpal 9-114 opens \"ཡང་དེ་དག་འདི་སྙམ་དུ...\" and ends \"...ཅིས་མི་རྟོགས་ཏེ་རྟོགས་སོ་ཞེ་ན\"; bo-shenga 9-114 ends \"...ཅིས་མི་རྟོགས་ཞེ་ན། འདི་ནི་དཔེ་དང་འདྲ་བ་མ་ཡིན་ནོ\" (the reply comes in 9-115). The translation leaves it unmarked, whereas the parallel objections 9-106 and 9-109 are set in quotation marks, so the reader cannot tell who speaks.",
+     "fix": "\"A sprout arises from a seed, and / Just as the seed is known by that very sprout, / By the consciousness arisen from the object of knowledge, / Why is its existence not known?\" (set in quotation marks as the opponent's objection)"
+    }
+   ]
+  },
+  {
+   "id": "9-115",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-116",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-117",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-118",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-119",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-120",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-121",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-122",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-123",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-124",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

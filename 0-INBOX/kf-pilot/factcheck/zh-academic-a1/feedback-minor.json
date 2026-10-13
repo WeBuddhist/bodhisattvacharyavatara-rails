@@ -1,0 +1,1266 @@
+{
+ "1-5": {
+  "translation": "猶如漆黑夜晚密雲中，\n剎那閃電展現極大光明；\n同樣仰仗佛之威德力，\n世間修福德之慧偶爾生起。",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Tibetan \"བརྒྱ་ལམ་ན\" means \"among a hundred (occasions)\"; bo-kunpal 1-5 glosses it as \"བརྒྱ་ལམ་རེ་འགའ་ཞིག་ན ... བརྒྱ་ལན་རེ་སྟོང་ལན་གཉིས་ཙམ་འབྱུང་\", i.e. once in a hundred times. The translation gives only \"偶爾\" (occasionally) for \"ཐང་འགའ\" and drops \"hundred\".",
+    "fix": "於百次之中偶爾生起"
+   }
+  ]
+ },
+ "1-8": {
+  "translation": "欲摧毀百種有之苦，\n欲遣除有情之不悅，\n且欲享受百種眾多安樂者，\n恆時皆不應捨棄菩提心。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "不悅",
+    "evidence": "\"མི་བདེ་བ\" (bo-shenga 1-8: \"སེམས་ཅན་ཐམས་ཅད་ཀྱི་མི་བདེ་བ་མ་མཐའ་དག\") is the opposite of \"བདེ་བ\", unhappiness/suffering, not \"displeasure\"; 不悅 reads as annoyance and does not contrast with 安樂 in line 3.",
+    "fix": "遣除有情之不樂"
+   }
+  ]
+ },
+ "1-10": {
+  "translation": "猶如殊勝形態之點金藥，\n獲取此不淨之身，因其轉化為勝者之身\n此一無價之寶，\n故應極堅固地受持名為菩提心者。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "獲取此不淨之身，因其轉化為勝者之身\n此一無價之寶",
+    "evidence": "Tibetan: \"མི་གཙང་ལུས་འདི་བླངས་ནས་རྒྱལ་བའི་སྐུ། རིན་ཆེན་རིང་ཐང་མེད་པར་བསྒྱུར་བས་ན\" - taking this impure body, (bodhicitta) transforms it into the Victor's body, a priceless jewel (bo-gyaltsab 1-10: \"རྒྱལ་བའི་སྐུ་རིན་ཆེན་རིན་ཐང་མེད་པར་སེམས་དེ་ཉིད་ཀྱིས་བསྒྱུར་བས་ན\"). The Chinese leaves the subject of 轉化 unstated and juxtaposes 勝者之身 and 此一無價之寶 without a link, with an unwarranted demonstrative 此一; hard to parse.",
+    "fix": "取此不淨之身，轉化為無價之寶——勝者之身，"
+   }
+  ]
+ },
+ "1-11": {
+  "translation": "眾生唯一商主以無量慧，\n善加全面觀察見其極珍貴，\n欲遠離眾生之處者，\n應善加堅固受持珍貴之菩提心。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "欲遠離眾生之處者",
+    "evidence": "\"འགྲོ་བའི་གནས\" here is the realm/state of migration: bo-shenga 1-11 \"འགྲོ་བ་ལྔའི་གནས\" (the five realms) and bo-gyaltsab 1-11 \"འགྲོ་བའི་གནས་འཁོར་བའི་རྒུད་པ་མཐའ་དག\" (all the miseries of saṃsāra). Sanskrit gatipattana. \"眾生之處\" can be read as \"place of beings\".",
+    "fix": "欲脫離諸趣之處者"
+   }
+  ]
+ },
+ "1-16": {
+  "translation": "猶如欲前往與正前往，\n能知兩者之間有差別，\n如是智者對於此二者，\n亦應次第了知其差別。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "次第了知",
+    "evidence": "\"རིམ་བཞིན\" means \"respectively, in due order of correspondence\" (Skt. yathāsaṃkhyena; bo-kunpal 1-16 \"གོ་རིམ་ཇི་ལྟ་བ་བཞིན\"; bo-shenga 1-16 \"རིམ་པ་བཞིན\"): each difference is understood for the corresponding member. 次第 suggests gradual/sequential learning.",
+    "fix": "依其各自對應而了知"
+   }
+  ]
+ },
+ "1-17": {
+  "translation": "由願菩提心，\n輪迴之時雖生大果，\n然不如行菩提心，\n福德並不會相續生起。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "然不如行菩提心，福德並不會相續生起",
+    "evidence": "Tibetan \"ཇི་ལྟར་འཇུག་པའི་སེམས་བཞིན་དུ། བསོད་ནམས་རྒྱུན་ཆགས་འབྱུང་བ་མིན\" = merit does not arise continuously as it does from engaging bodhicitta (bo-gyaltsab 1-17 \"འཇུག་པའི་སེམས་ལས་བསོད་ནམས་བར་མ་ཆད་དུ་འབྱུང་བ་བཞིན་དུ ... མིན\"). The Chinese 不如 reads as a comparison of quality and the clause is clumsy.",
+    "fix": "然福德並不像由行菩提心那樣相續不斷地生起"
+   }
+  ]
+ },
+ "1-19": {
+  "translation": "從今而後縱睡眠，\n抑或處於放逸中，\n諸多福德之勢力，\n無間等空廣生起。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "無間等空廣生起",
+    "evidence": "Tibetan \"རྒྱུན་མི་འཆད་པར་དུ་མ་ཞིག ། ནམ་མཁའ་མཉམ་པར་རབ་ཏུ་འབྱུང་\" = uninterrupted, manifold, arises equal to space. The Chinese string packs 無間 / 等空 / 廣 / 生起 together so that 等空 and 廣 are hard to attach (to 福德之勢力 or to the verb); 廣 has no Tibetan counterpart in the verse itself (only bo-kunpal 1-19 glosses རྒྱ་ཆེ་).",
+    "fix": "無間斷地、多重地生起，等同虛空"
+   }
+  ]
+ },
+ "1-26": {
+  "translation": "作為一切眾生喜樂之因，\n化為治癒有情眾苦的良藥，\n此種珍寶心的福德，\n要如何能夠衡量？",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "喜樂",
+    "evidence": "Tibetan \"དགའ་བའི་རྒྱུ\" = cause of joy (དགའ་བ). 喜樂 contains 樂, the locked rendering of བདེ་བ, so it blurs དགའ་བ with བདེ་བ (bo-kunpal 1-26 and bo-shenga 1-26 list དགའ་བ and བདེ་བ as separate items).",
+    "fix": "歡喜"
+   }
+  ]
+ },
+ "1-32": {
+  "translation": "向少數眾生施予尋常食，\n僅於須臾間施予一餐食，\n縱帶輕蔑且僅令飽半日，\n世人亦敬奉其為行善者。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "尋常食",
+    "evidence": "Tibetan \"ནར་མའི་ཟས་སྦྱོར་བ\" = providing food continuously/regularly. bo-kunpal 1-32: \"ནར་མའི་ཞེས་ལོའམ་ཟླ་བར་ཉིན་བཞིན་ནར་མ་སྟེ་རྒྱུན་མ་བཅད་པའི་ཟས་སྦྱིན་པ\" (nar ma = uninterrupted daily provision); bo-shenga 1-32 \"དུས་ནར་མའི་ཟས\". 尋常 means \"ordinary\", which is a different sense.",
+    "fix": "持續供應的飲食"
+   },
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "縱帶輕蔑且僅令飽半日",
+    "evidence": "Tibetan \"བརྙས་བཅས་ཉིན་ཕྱེད་འགྲངས་པར་བྱེད་པ\" states as fact that the giving is with contempt (བརྙས་བཅས). 縱 turns it into a concession (\"even if\"), which the Tibetan does not have; bo-kunpal 1-32 \"བརྙས་བཅོས་དང་བཅས་པའི་སྒོ་ནས\" and bo-shenga 1-32 \"སྦྱིན་པའི་ཚུལ་བརྙས་པ་དང་བཅས་པས\".",
+    "fix": "帶著輕蔑而僅令飽半日"
+   }
+  ]
+ },
+ "1-34": {
+  "translation": "若對如是勝者之子大施主，\n有人生起惡心，則彼人\n將依生起惡心之數量而於相應之劫，\n住於地獄，牟尼如是宣說。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "依生起惡心之數量而於相應之劫",
+    "evidence": "Tibetan \"ངན་སེམས་བསྐྱེད་པའི་གྲངས་བཞིན་བསྐལ་པར་ནི། དམྱལ་བར་གནས་པར་འགྱུར\" = for as many eons as the number of malicious thoughts generated. 相應之劫 is vague and does not state that the number of eons equals the number of thoughts (bo-kunpal 1-34: \"དེའི་གྲངས་ཇི་སྙེད་ཡོད་པ་དེ་སྙེད་ཀྱི་བསྐལ་པར་ནི་དམྱལ་བར་... གནས་པར་འགྱུར\").",
+    "fix": "生起惡心有多少次，便於地獄住多少劫"
+   }
+  ]
+ },
+ "2-4": {
+  "translation": "天等世間中的香氣，\n薰香、如意樹與寶樹，\n未經耕作而生長的各類莊稼，\n以及其他宜作供養的莊嚴物，",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "天等世間中的香氣",
+    "evidence": "Tibetan 'ལྷ་སོགས་འཇིག་རྟེན་ན་ཡང་དྲི་དང་ནི' contains the emphatic particle ཡང་ ('even in the worlds of gods etc.'); the Chinese gives a plain locative with no 'even/also'. Bo-shenga 2-4 likewise glosses 'ལྷ་དང་ཀླུ་ལ་སོགས་འཇིག་རྟེན་ན་ཡང་'. The meaning is intact, but the nuance is lost.",
+    "fix": "連天等世間中也有的香氣"
+   }
+  ]
+ },
+ "2-22": {
+  "translation": "猶如文殊師利等，\n供養諸位勝者般，\n我亦如是供養諸如來、\n諸位怙主以及諸佛子。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "供養諸位勝者般",
+    "evidence": "Tibetan 'ཇི་ལྟར་འཇམ་དབྱངས་ལ་སོགས་པས། རྒྱལ་བ་རྣམས་ལ་མཆོད་མཛད་པ། དེ་བཞིན་' is a simple 'just as ... make offerings to the Victors, so (I)'. The Chinese doubles the comparison marker (猶如 ... 般) and leaves the clause dangling before 我亦如是.",
+    "fix": "猶如文殊師利等供養諸勝者，"
+   }
+  ]
+ },
+ "2-24": {
+  "translation": "行於三世之諸佛，\n偕同佛法與勝僧眾，\n等同一切剎土微塵數，\n我以俯首之身頂禮。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "等同一切剎土微塵數，我以俯首之身頂禮",
+    "evidence": "Tibetan 'ཞིང་རྡུལ་ཀུན་གྱི་གྲངས་སྙེད་ཀྱི། ལུས་བཏུད་པ་ཡིས' = by bodies (plural) as numerous as all the atoms of the fields; bo-shenga 2-24 'ཞིང་ཁམས་རབ་འབྱམས་ཀྱི་རྡུལ་ཀུན་ཀྱི་གྲངས་སྙེད་ཀྱི། ལུས་རང་གི་བློ་ཡིས་སྤྲུལ་ནས' (emanated bodies equal in number to the atoms). The Chinese separates the number phrase from 身 and gives a single 'bowed body', so the quantity no longer clearly qualifies the bodies.",
+    "fix": "以等同一切剎土微塵數之諸身，俯首而頂禮"
+   }
+  ]
+ },
+ "2-32": {
+  "translation": "我在罪業尚未淨除之時，\n將在此之前死去；\n如何能從此中獲得決定解脫，\n祈請迅速救護我。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "我在罪業尚未淨除之時，將在此之前死去",
+    "evidence": "Tibetan 'བདག་ནི་སྡིག་པ་མ་བྱང་བར། སྔོན་དུ་འགུམ་པར་འགྱུར་དུ་མཆི' = I will die before my misdeeds are purified (bo-gyaltsab 2-32: 'སྡིག་པ་མ་བྱང་བར་སྡིག་པ་དང་བཅས་ཏེ་འཆི་བདག་གིས་སྔོན་དུ་འགུམ་པར་འགྱུར'). The Chinese says 'at the time when misdeeds are not yet purified, I will die before this', which is circular/confusing about what 此 refers to.",
+    "fix": "我於罪業尚未淨除之前，便將先行死去"
+   },
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "如何能從此中獲得決定解脫，祈請迅速救護我",
+    "evidence": "Tibetan 'ཇི་ལྟར་འདི་ལས་ངེས་ཐར་བར། མྱུར་བའི་ཚུལ་གྱིས་བསྐྱབ་ཏུ་གསོལ' is a purposive petition: protect me quickly in whatever way I may be definitely freed from these (misdeeds). bo-kunpal 2-32 'ཐབས་ཇི་ལྟར་... ངེས་པར་ཐར་པར་འགྱུར་བ་ཞིག་མྱུར་ཞིང་རིངས་བའི་ཚུལ་གྱིས་བསྐྱབ་པར་མཛད་དུ་གསོལ'. The Chinese 如何能... reads as a bare rhetorical question 'how can I be freed', detached from the request.",
+    "fix": "為使我能從此罪業中決定解脫，祈請以迅速之方式救護我"
+   }
+  ]
+ },
+ "2-34": {
+  "translation": "必須捨棄一切而離去，\n我由於未能如此了知，\n為了親友與非親友之故，\n造作了種種的罪業。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "親友與非親友",
+    "evidence": "Tibetan 'མཛའ་དང་མི་མཛའི་དོན་གྱི་ཕྱིར' = for the sake of those dear and those not dear (enemies); bo-shenga 2-34 'མཛའ་བ་ལ་ཕན་འདོགས་པ་དང་མི་མཛའ་བ་ལ་གནོད་པར་བྱ་བ'; bo-kunpal 2-34 'མི་མཛའ་བ་དགྲ'. 非親友 would include neutral people, whereas the text means adversaries; the same pair is rendered 親友與怨敵 in 2-35 and 2-37.",
+    "fix": "為了親友與怨敵之故"
+   }
+  ]
+ },
+ "2-57": {
+  "translation": "面對尋常微小的懸崖，\n尚且必須保持謹慎，\n對於跌落一千由旬、\n需長久停留的懸崖更何須多言！",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "需長久停留的懸崖",
+    "evidence": "The root has only ཡུན་རིང་གཡང་ས ('a long-lasting / long precipice'; Skt dīrghakālike prapāte, 'a precipice of long duration'). It has no modal 需 ('must') and no verb 'stay'. Shenga 2-57 glosses ཡུན་རིང་པོར་སྡུག་བསྔལ་མྱོང་བ ('experiencing suffering for a long time'); only Gyaltsab 2-57 spells out ཡུན་རིང་པོར་གནས་དགོས་པ ('must remain for a long time'). The Chinese puts one commentator's gloss into the root and reads as if one must linger on the cliff.",
+    "fix": "長久之懸崖"
+   }
+  ]
+ },
+ "3-9": {
+  "translation": "對於貧困匱乏的有情，\n願我化為無盡藏，\n成為種種所需資具，\n安住於他們面前。",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "安住於他們面前",
+    "evidence": "Tibetan མདུན་དུ་ཉེ་བར་གནས་གྱུར་ཅིག: ཉེ་བར་གནས་ is 'remain close by / attend' (Sanskrit upatiṣṭheyam); bo-kunpal 3-9 and bo-shenga 3-9 gloss མདུན་ན་ཉེ་བར་གནས་པར་གྱུར་ཅིག as being near before them. The Chinese drops the nuance of nearness/attendance (the approved English has 'closely present').",
+    "fix": "親近安住於他們面前"
+   }
+  ]
+ },
+ "3-14": {
+  "translation": "不致損害彼等之行為，\n無論什麼皆任其去做；\n緣於我，無論何時，\n願任何人都絕不致毫無意義。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "願任何人都絕不致毫無意義",
+    "evidence": "Tibetan བདག་ལ་དམིགས་ནས་ནམ་དུ་ཡང་། འགའ་ཡང་དོན་མེད་མ་གྱུར་ཅིག: the point (bo-gyaltsab 3-14, bo-shenga 3-14 'རེ་བ་དོན་མེད་པར་མ་གྱུར') is that no one's connection with / reliance on me should be in vain. The Chinese makes 'anyone' the subject that becomes 'meaningless', which is hard to parse and does not show that it is the connection with me that must not be futile.",
+    "fix": "願無一人因緣於我而落得徒勞無益"
+   }
+  ]
+ },
+ "3-17": {
+  "translation": "願我成為無怙主者之怙主，\n步入道者之嚮導，\n欲渡水者之小舟、\n船艦與橋樑。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "小舟",
+    "evidence": "Tibetan has only \"གྲུ\" (boat) with no size marker. Both bo-kunpal 3-17 (\"ཆུ་འབྲིང་པོ་ལ་གྲུ་བཟང་པོ\", a good boat for medium water) and bo-shenga 3-17 (\"ཆུ་ཆེན་པོ་ལ་གྲུ་བ\", a boat for great water) treat it as a sizeable vessel, so \"小舟\" (small boat) adds a size the Tibetan and commentaries do not support.",
+    "fix": "舟"
+   }
+  ]
+ },
+ "3-18": {
+  "translation": "尋求洲島者，願我作洲島，\n欲求床榻者，願我作床榻，\n對於欲求奴僕之具身者，\n願我成為彼等一切之奴僕。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "床榻",
+    "evidence": "Tibetan \"གནས་མལ\" is a compound of dwelling + bed; bo-kunpal 3-18 glosses it \"འདུག་པའི་གནས་དང་ཉལ་བའི་མལ\" (a place to stay and a bed). \"床榻\" (bed/couch) covers only the \"mal\" half and follows the Sanskrit śayyā; English academic has the broader \"resting place\".",
+    "fix": "臥處"
+   }
+  ]
+ },
+ "3-33": {
+  "translation": "我今日在一切救護者之\n面前，已將眾生迎請為善逝果位\n以及中途安樂之賓客，\n願天與阿修羅等皆大歡喜！",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "迎請為善逝果位以及中途安樂之賓客",
+    "evidence": "Tibetan \"བདེ་གཤེགས་ཉིད་དང་ནི། བར་དུ་བདེ་ལ་མགྲོན་དུ་བོས་ཟིན\" means beings are invited as guests to (receive/enjoy) Sugatahood and interim happiness; bo-gyaltsab 3-33 glosses \"ཚིམ་པར་ལོངས་སྤྱད་པས་ཆོག་པའི་འགྲོན་དུ་བོས\" (invited as guests to be satisfied). The Chinese \"為...之賓客\" can be read as guests belonging to Sugatahood rather than guests invited to it.",
+    "fix": "已將眾生迎請為賓客，赴善逝果位以及中途安樂之筵"
+   }
+  ]
+ },
+ "4-9": {
+  "translation": "任何他人哪怕只於一剎那，\n對其福德製造障礙，\n由於虧損有情之利，\n其惡趣將無有邊際。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "對其福德製造障礙",
+    "evidence": "Tibetan འདིའི བསོད་ནམས་ ('this one's merit') refers to the bodhisattva; bo-kunpal 4-9 and bo-gyaltsab 4-9 gloss it as བྱང་ཆུབ་སེམས་དཔ་འདིའི་བསོད་ནམས་. In the Chinese the preceding subject is 任何他人, so 其 can be read as that other person's own merit, and the later 其惡趣 then refers to a different person.",
+    "fix": "對此菩薩之福德製造障礙"
+   }
+  ]
+ },
+ "4-10": {
+  "translation": "即使單一有情之安樂，\n若予毀壞亦將致己毀滅，\n遍及無餘虛空無邊際，\n毀壞具身者安樂何須多言？",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "遍及無餘虛空無邊際",
+    "evidence": "ནམ་མཁའ་མ་ལུས་མཐའ་ཀླས་པའི་ ལུས་ཅན་: མཐའ་ཀླས་པ་ means reaching/pervading to the limit (Skt. -paryanta-vāsin), and the whole phrase modifies ལུས་ཅན་ (bo-gyaltsab 4-10: ནམ་མཁའ་མ་ལུས་པའི་མཐའ་ཀླས་པའི་ལུས་ཅན་). The Chinese turns it into 'boundless', is cut off from 具身者 syntactically, and reverses the sense of 'to its limits'.",
+    "fix": "遍滿無餘虛空邊際之具身者"
+   }
+  ]
+ },
+ "4-19": {
+  "translation": "既未造作諸善，\n又積聚諸罪業，\n縱然歷經百億劫，\n連善趣之聲亦無法聽聞。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "百億劫",
+    "evidence": "བསྐལ་པ་བྱེ་བ་བརྒྱ is a hundred bye ba (ten million, koṭi; Skt. kalpakoṭiśata) = 10^9, i.e. 十億; 百億 in modern Chinese is 10^10, a tenfold overstatement (bo-kunpal 4-19: བསྐལ་པ་བྱེ་བ་ཕྲག་བརྒྱ).",
+    "fix": "百俱胝劫"
+   }
+  ]
+ },
+ "4-24": {
+  "translation": "我若了知此理後，\n日後仍因愚昧而退屈，\n當於命終之時，\n將生起大悲憂。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "大悲憂",
+    "evidence": "Tibetan \"མྱ་ངན་ཆེན་པོ\" means great sorrow/grief (Shenga 4-24: \"འགྱོད་ཅིང་མྱ་ངན་ཆེན་པོ་ལྡང་བར་འགྱུར\" = regret and great sorrow arise). \"大悲\" in Chinese Buddhist usage is mahākaruṇā (great compassion), so \"大悲憂\" invites a misreading.",
+    "fix": "極大憂傷"
+   }
+  ]
+ },
+ "4-36": {
+  "translation": "如是乃至我未將此怨敵現前、\n確實摧毀，其間我於此不捨勤。\n暫遇微小加害亦生嗔者，\n慢盛之眾未摧彼前不成眠。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "暫遇微小加害亦生嗔者",
+    "evidence": "Tibetan \"རེ་ཞིག་གནོད་བྱེད་ཆུང་ངུ་ལ་ཡང་ཁྲོས་གྱུར་པ\" means \"for instance, (those) angered even at a slight harm-doer\" (agent: gnod byed; Kunpal 4-36 \"རེ་ཞིག་... གནོད་བྱེད་ཆུང་ངུ་ཙམ་ལ་ཡང་ཁྲོས་པ\", Shenga 4-36 \"གནོད་བྱེད་དེ་མ་བཅོམ་པར\"; Sanskrit \"svalpe 'pi apakāriṇi\"). \"暫遇...加害\" turns the harm-doer into an incident of harm and renders \"རེ་ཞིག\" as \"briefly encountering\", leaving \"彼\" in the next line without a referent.",
+    "fix": "例如，對微小之加害者亦生嗔"
+   }
+  ]
+ },
+ "4-38": {
+  "translation": "恆作一切苦之因，\n我今奮力摧此決定之自性敵，\n無論何事成百苦之因，\n不致絕望退怯何須言。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "摧此決定之自性敵",
+    "evidence": "\"ངེས\" belongs to the verb (\"རང་བཞིན་དགྲར་ངེས་གཞོམ་བརྩོན\" = strive to destroy the natural enemy for certain); Sanskrit \"prakṛtiripūn upahantum udyatasya\" has no \"definite\" qualifying the enemy. The translation attaches 決定 to the enemy.",
+    "fix": "我今奮力必摧此天生之敵"
+   }
+  ]
+ },
+ "4-39": {
+  "translation": "無義怨敵所致之創傷，\n尚且於身猶如莊嚴般佩戴，\n為成大義真誠精進之我，\n苦於何故成為加害？",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "苦於何故成為加害",
+    "evidence": "Tibetan \"སྡུག་བསྔལ་ཅི་ཕྱིར་གནོད་བྱེད་ཡིན\" = \"why should suffering be a harm (to me)\". \"苦於\" is a common collocation meaning \"be troubled by\", so the sentence is liable to be misparsed, and the object \"བདག་ལ\" (to me) is not expressed.",
+    "fix": "苦又何以對我為害"
+   }
+  ]
+ },
+ "5-2": {
+  "translation": "放任心之象，\n將造成無間獄之傷害；\n未經馴服之發狂大象，\n在此亦無法造成如是傷害。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "在此亦無法造成如是傷害",
+    "evidence": "Tibetan 'འདི་ན་དེ་འདྲའི་གནོད་མི་བྱེད' states that an untamed, maddened elephant 'does not inflict' such harm here (bo-kunpal 5-2: 'མི༷་བྱེད༷'); it is a plain negative statement, not an inability ('無法'), and nothing in the Tibetan corresponds to 'also' (亦).",
+    "fix": "在此世間不會造成如是傷害"
+   }
+  ]
+ },
+ "5-4": {
+  "translation": "猛虎、獅子、大象、熊，\n毒蛇以及一切怨敵，\n地獄獄卒與\n惡咒師及諸羅剎，",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "惡咒師",
+    "evidence": "Tibetan 'བྱད་མ' (Skt. ḍākinyaḥ, feminine plural) is a harmful female being sent by spell or possession: bo-kunpal 5-4 glosses 'བྱད་མ་གདོན་རྦད་འདྲེ་རྦོད་གཏོང', and bo-gyaltsab 5-5 'རིག་སྔགས་ཀྱིས་གནོད་པ་བྱེད་པའི་བྱད་མ་མཁའ་འགྲོ་མ'. '惡咒師' reads as a human sorcerer and loses the female/ḍākinī sense (english_academic: 'Witches').",
+    "fix": "女巫（荼吉尼）"
+   }
+  ]
+ },
+ "5-32": {
+  "translation": "如此思惟後，帶著慚愧、\n恭敬與畏懼，應如是將其銘記在心。\n因此，隨念佛\n也會在其心中一再地生起。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "應如是將其銘記在心",
+    "evidence": "Tibetan 'de bzhin gnos' (gnos = mnos, 'take up/adopt') means to take on this attitude thus; Sanskrit 'tathā tiṣṭhet' and bo-kunpal 5-32 'de bzhin mnos te gnas par gyis shig' say 'take it on thus and remain'. '銘記在心' means to commit to memory, shifts the sense to remembering and drops 'remain/abide'; '其' has no referent in the Tibetan.",
+    "fix": "應如是受持而安住"
+   }
+  ]
+ },
+ "5-40": {
+  "translation": "心之醉象\n繫於思維佛法之大柱，\n如何令所繫之彼不逃脫，\n應如是盡一切努力而觀察。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "如何令所繫之彼不逃脫",
+    "evidence": "Tibetan 'ji ltar btags pa mi 'chor bar / de ltar 'bad pa kun gyis brtag' is a relative-correlative purpose clause ('so that, once tied, it does not escape; thus examine with all effort'; bo-gyaltsab 5-40 'ji ltar btags pa mi 'chor bar de ltar 'bad pa kun gyis brtag par bya'o'). '如何' reads as the interrogative 'how', making the clause a question, and the sentence then lacks a main verb for the elephant.",
+    "fix": "使其一經繫縛便不逃脫"
+   }
+  ]
+ },
+ "5-42": {
+  "translation": "當與怖畏、慶典等相關時，\n若不能行，應隨宜而行；\n如是在布施之時，\n佛說對持戒應行捨。",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "如是在布施之時，佛說對持戒應行捨",
+    "evidence": "Tibetan 'adi ltar sbyin pa'i dus dag tu / tshul khrims btang snyoms bya bar gsungs' (Skt 'yasmād uktam') gives an impersonal reason ('since it is taught'); the speaker is not named in the verse (bo-kunpal 5-42 attributes it to the Akṣayamati sutra). '佛說' adds an agent, and '如是' ('thus/likewise') obscures the explanatory 'for' sense of 'di ltar.",
+    "fix": "因為已說，在布施之時，對持戒應行捨"
+   }
+  ]
+ },
+ "5-47": {
+  "translation": "任何時候若想走動，\n或者想要說話，\n首先觀察自己的心後，\n應穩重而合宜地行事。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "想走動",
+    "evidence": "Tibetan 'bskyod par 'dod' means wanting to move (the body); bo-shenga 5-47 'lus bskyod par 'dod' and bo-kunpal 5-47 include even moving a hand or limb, not only walking. '走動' narrows it to walking about.",
+    "fix": "想要移動身體"
+   }
+  ]
+ },
+ "5-69": {
+  "translation": "給予此身酬勞後，\n現在讓它成辦己利。\n若無利益，對此身\n就不應給予一切。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "現在讓它成辦己利",
+    "evidence": "Tibetan ད་ནི་རང་གི་དོན་བྱེད་ཆུག addresses the mind: let (the body) accomplish YOUR (the mind's) own purpose; bo-shenga 5-69 says ད་ནི་སེམས་རང་གི་དོན་ཆོས་སྒྲུབ་པར་བྱེད་དུ་ཆུག and bo-gyaltsab 5-69 says རང་གི་དོན་དགེ་བའི་ལས་བྱེད་དུ་ཆུག (the purpose is Dharma practice). In the Chinese, 「它」 (the body) is the only stated agent, so 「己利」 can be read as the body's own benefit, and 「己利」 also evokes the technical 自利.",
+    "fix": "現在讓它成辦你自己的目的"
+   }
+  ]
+ },
+ "5-71": {
+  "translation": "如是既然擁有自主，\n應當恆常保持笑容。\n徹底捨棄皺眉與怒容，\n成為眾生之友並真誠發言。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "如是既然擁有自主",
+    "evidence": "Tibetan རང་དབང་ཡོད་ཀྱིས་ཏེ is an instruction to bring about self-mastery (bo-shenga 5-71: ལུས་དང་སེམས་ལ་རང་དབང་ཡོད་པར་གྱིས་ཏེ; bo-kunpal 5-71: རང་དབང་ཡོད་པར་གྱིས་ཏེ), not a presupposed state. 「既然擁有」 turns the imperative into a given premise.",
+    "fix": "如是令自己得自主"
+   }
+  ]
+ },
+ "5-73": {
+  "translation": "水鳥、貓與盜賊，\n藉由無聲潛伏而行，\n成辦他們所欲的目的；\n牟尼應當恆常如是行事。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "水鳥",
+    "evidence": "Tibetan ཆུ་སྐྱར (Skt. baka) is a specific bird, the heron/crane (english_academic 'Herons'); the rendering 水鳥 'water bird' is a generic hypernym and loses the stalking-heron image behind the simile (bo-gyaltsab 5-73 ཆུ་སྐྱུར).",
+    "fix": "鷺"
+   }
+  ]
+ },
+ "5-89": {
+  "translation": "不為下劣者說甚深與廣大之法，\n無男子在場亦不為女人說；\n對於低劣與殊勝之佛法，\n皆應以同等敬意恆常修持。",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "恆常",
+    "evidence": "Tibetan མཚུངས་པར་གུས་པས་ཀུན་དུ་སྤྱད has ཀུན་དུ 'in all cases / toward all', not 'always'; bo-gyaltsab 5-89 explains it as respectfully practising toward all (lesser and supreme) Dharmas alike, with no temporal 'always'.",
+    "fix": "皆應以同等敬意普遍奉行"
+   }
+  ]
+ },
+ "5-93": {
+  "translation": "於乘車、床榻與住處中，\n不應與他婦獨處；\n一切致令世間不信之事，\n觀察並詢問後當斷除。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "不應與他婦獨處",
+    "evidence": "Tibetan བུད་མེད་གཞན་ ('another woman'); bo-kunpal 5-93 glosses it as a woman who is not a close relative (ཉེ་དུ་མ་ཡིན་པའི་བུད་མེད་གཞན), bo-shenga as women other than mother/sister. 他婦 in Chinese normally means 'another man's wife', which narrows the referent.",
+    "fix": "不應與其他女子獨處"
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "觀察並詢問後",
+    "evidence": "Tibetan མཐོང་དང་དྲིས་ཏེ ('having seen and asked'); bo-shenga 5-93 'རང་གིས་མཐོང་བ་དང་གཞན་ལ་དྲིས་ཏེ' and bo-gyaltsab 'མངོན་སུམ་གྱིས་མཐོང་བ' mean seeing directly (what one sees oneself), not examining/investigating; 觀察 suggests deliberate inspection.",
+    "fix": "見到或詢問後"
+   }
+  ]
+ },
+ "5-97": {
+  "translation": "諸菩薩行\n雖被宣說為無量，\n然淨化自心之行，\n必定於此期間當修持。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "必定於此期間當修持",
+    "evidence": "Tibetan ངེས་པར་དེ་སྲིད་སྤྱད་པར་བྱ ('certainly practise for as long as...'); bo-gyaltsab 5-97 'ངེས་པར་སྤྱོད་པ་མཐའ་དག་ཉམས་སུ་ལེན་ནུས་པ་དེ་སྲིད་' and bo-kunpal 'མ་ཐུབ་པར་དེ་སྲིད་དུ' show it means as long as one cannot yet practise all the bodhisattva conduct. 此期間 has no antecedent, so the temporal limit is lost.",
+    "fix": "必定應修持，直至能行持一切菩薩行為止"
+   }
+  ]
+ },
+ "6-40": {
+  "translation": "若謂此過是偶發，\n縱然有情自性柔和，\n爾時忿怒亦非理，\n如怨虛空起煙霧。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "爾時忿怒亦非理",
+    "evidence": "Tibetan 'འོ་ནའང་ཁྲོ་བར་མི་རིགས་ཏེ' ('even so / even then it is not right to be angry'; Kunpal 6-40 'འོ་ན་དེ་ལའང་ཁྲོ་བར་འགྱུར་བ་འདི་མི་རིགས'; Gyaltsab 6-40 'འོ་ནའང་གནོད་བྱེད་ལ་ཁྲོ་བར་མི་རིགས') is a concessive 'even so', not a temporal 'at that time'. 爾時 reads as 'at that time' in Chinese and suggests a temporal clause that the Tibetan lacks.",
+    "fix": "縱然如此，忿怒亦非應理"
+   }
+  ]
+ },
+ "6-65": {
+  "translation": "對於傷害上師、親屬等，\n以及傷害親友者，\n見此皆如前述從緣\n生起，故應遮退忿怒。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "以及傷害親友者",
+    "evidence": "Tibetan 'བཤེས་ལ་གནོད་པ་བྱེད་རྣམས་ལའང་' refers to friends (བཤེས, 'མཛའ་བཤེས' in bo-shenga 6-65); relatives are already covered by 'གཉེན་ལ་སོགས་པ' (親屬等). '親友' blends relatives and friends and duplicates 親屬.",
+    "fix": "以及傷害朋友者"
+   }
+  ]
+ },
+ "6-74": {
+  "translation": "為了欲，焚燒等\n我在地獄中雖已歷經千次，\n然而我卻未成辦自利，\n亦未成辦他人之利。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "雖已歷經千次",
+    "evidence": "'དམྱལ་བར་སྟོང་ཕྲག་མྱོང་གྱུར་ཡང་' - 'སྟོང་ཕྲག' means many thousands (bo-shenga 6-74: 'ལན་གྲངས་སྟོང་ཕྲག་དུ་མར'; bo-kunpal: 'ལན་སྟོང་ཕྲག་མང་པོར'), Sanskrit 'sahasraśaḥ' = by thousands; '千次' reduces it to one thousand.",
+    "fix": "雖已歷經數千次"
+   }
+  ]
+ },
+ "6-78": {
+  "translation": "此外，若想「那樣他會快樂」，\n倘若你不期望這種快樂，\n由於會放棄給付薪資等，\n現見與不現見皆將毀壞。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "此外，若想「那樣他會快樂」，倘若你不期望這種快樂",
+    "evidence": "Tibetan 'དེ་ལྟར་བདེ་འགྱུར་ཞེས། གལ་ཏེ་ཁྱོད་བདེ་འདི་མི་འདོད' has a single condition: the thought 'he will be happy thus' is the reason for not wanting that happiness (bo-shenga 6-78 'གཞན་...བདེ་བར་འགྱུར་ཞེས། གལ་ཏེ་ཁྱོད་ཀྱིས...མི་འདོད་ན'). The double '若...倘若' makes two conditions and obscures the logic.",
+    "fix": "此外，若你因想著「那樣他會快樂」而不期望這種快樂"
+   }
+  ]
+ },
+ "6-109": {
+  "translation": "若謂因無助成安忍之意圖，\n此怨敵便不應受供養，\n那麼堪為成就之因，\n何以亦供養正法？",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "那麼堪為成就之因，何以亦供養正法？",
+    "evidence": "Tibetan 'grub pa yi ni rgyur rung ba / dam pa\\'i chos kyang ci ste mchod' : 'rgyur rung ba' (fit to be a cause) modifies dam pa\\'i chos (the sublime Dharma); bo-shenga 6-109 glosses it as the Dharma/scriptures that are the cause of all qualities. In the Chinese the modifier is detached from 正法 by the comma and reads as a dangling phrase, obscuring that it describes the Dharma.",
+    "fix": "那麼堪為成就之因的正法，為何亦受供養？"
+   }
+  ]
+ },
+ "6-111": {
+  "translation": "因此，既然依賴極度之瞋心，\n方能生起安忍，\n彼即是安忍之因，\n理應如正法般受供養。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "彼即是安忍之因",
+    "evidence": "Tibetan 'de nyid bzod pa\\'i rgyu yin pas / dam pa\\'i chos bzhin mchod par os' : the referent of 'de nyid' is the enemy/harm-doer (Skt 'sa eva'; bo-shenga 6-111 'dgra bo de nyid'; bo-gyaltsab 6-111 'gnod byed de nyid'). In the Chinese the only preceding noun is 瞋心, so 彼 can be read as the hateful mind rather than the enemy, which would make the hateful mind the object of veneration.",
+    "fix": "彼怨敵即是安忍之因"
+   }
+  ]
+ },
+ "6-114": {
+  "translation": "並非意樂功德本身，\n而是由果而相同；\n與之相同有情亦具功德，\n是故彼等皆平等。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "與之相同有情亦具功德",
+    "evidence": "Tibetan 'des mtshungs par / sems can rnams la\\'ang yon tan yod' : 'des mtshungs par' = 'like them, i.e. the Buddhas' (bo-kunpal 6-114 'sangs rgyas rnams dang mtshungs par sems can rnams la\\'ang ... yon tan yod'). In the Chinese 與之相同 has no clear antecedent (nearest noun is 果), so the comparison with the Buddhas is lost.",
+    "fix": "如同諸佛，有情亦具功德"
+   }
+  ]
+ },
+ "6-120": {
+  "translation": "諸佛為彼捨身入無間獄，\n利益彼等即成報答舉；\n是故縱然彼等作大害，\n皆應對其行持一切善。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "利益彼等即成報答舉",
+    "evidence": "Tibetan 'de la phan btags lan lon \\'gyur bas na' : benefiting them becomes a repayment (bo-shenga 6-120 'de\\'i drin lan lon par \\'gyur bas na'). 報答舉 is ungrammatical/unidiomatic; the intended 報答之舉 or simply 報答 is needed.",
+    "fix": "利益彼等即成報答"
+   }
+  ]
+ },
+ "6-123": {
+  "translation": "猶如周身燃起熊熊火，\n一切妙欲不能令意樂；\n如是若對有情作損害，\n諸大悲者無法生歡喜。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "意樂",
+    "evidence": "Tibetan ཡིད་བདེར་མི་འགྱུར་བ (bo-shenga 6-123: ཡིད་བདེ་བར་མི་འགྱུར) means the mind is not made comfortable/happy (Skt na saumanasyam). 意樂 is the established Chinese technical term for āśaya (intention, disposition), so it risks being read as 'intention' rather than 'mental happiness'.",
+    "fix": "不能令心安樂"
+   }
+  ]
+ },
+ "7-5": {
+  "translation": "自己的同伴依次被殺，\n難道你沒有看見嗎？\n然而依然貪戀睡眠，\n猶如屠夫與水牛一般。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "猶如屠夫與水牛一般",
+    "evidence": "Tibetan གདོལ་པ་དང་ནི་མ་ཧེ་བཞིན is elliptical; bo-gyaltsab 7-5 and bo-shenga 7-5 make clear that the sleeper is compared to the buffalo that stays calm and asleep while others of its kind are slaughtered one by one by the butcher/outcaste (Skt caṇḍālamahiṣo). 'like a butcher and a buffalo' leaves the comparison unclear, as if the addressee were both.",
+    "fix": "猶如在屠夫身旁（同類被宰殺卻）安睡不覺的水牛"
+   }
+  ]
+ },
+ "7-9": {
+  "translation": "因悲傷之力而紅腫，\n雙眼發紅，臉龐流下淚水，\n親人們陷入了絕望，\n我將注視閻羅使者的面孔。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "因悲傷之力而紅腫，\n雙眼發紅",
+    "evidence": "Tibetan 'mya ngan shugs kyis skrangs pa yi / mig dmar gdong la mtshi ma 'dzag' (Skt sāśru-raktekṣaṇānanān): the relatives' eyes are swollen by the force of grief, red, with tears on their faces (bo-shenga 7-9 gives the subject as the bereaved relatives). The translation leaves line 1 without a subject, merges 'swollen' and 'red' into 紅腫 and then repeats 發紅, and only introduces 親人們 in line 3, so the eyes could be taken as the speaker's own.",
+    "fix": "因悲傷之力而腫脹、雙眼發紅，\n臉龐流下淚水的親人們已陷入絕望，"
+   }
+  ]
+ },
+ "7-13": {
+  "translation": "不精進卻渴望得到果，\n嬌弱卻遭受眾多傷害，\n已被死亡抓住卻如同天，\n嗚呼！必將被諸苦摧毀。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "如同天",
+    "evidence": "Tibetan 'lha 'dra ba' (Skt amarākāra): 'like a god'; bo-shenga 7-13 glosses it as 'like the gods of the desire realm' ('dod pa'i lha rnams dang 'dra ba). Bare 如同天 can be read as 'like heaven/sky' and is hard to parse; the locked rendering 天 is better kept inside a person-denoting phrase.",
+    "fix": "如同天人"
+   }
+  ]
+ },
+ "7-15": {
+  "translation": "無邊喜悅之因的\n最勝喜悅的正法，你在捨棄之後，\n對於苦因所致的散亂，\n以及掉舉等，你為何感到喜悅？",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "無邊喜悅之因的\n最勝喜悅的正法",
+    "evidence": "Tibetan 'dga' ba'i rgyu ni mtha' yas pa'i / dam chos dga' ba'i mchog': the sublime Dharma is a boundless cause of joy and the supreme joy (bo-gyaltsab 7-15: 'dga' ba'i rgyu ni mtha' yas pa'i thabs dam pa'i chos ... dga' ba'i mchog'). The stacked 的 chain 'cause-of-boundless-joy 的 supreme-joy 的 正法' is hard to parse, and 苦因所致的散亂 reads 'distraction resulting from causes of suffering', whereas bo-shenga 7-15 reads 'distraction by the five sense pleasures, the cause of all suffering', and bo-gyaltsab 7-15 makes distraction and agitation themselves causes of suffering.",
+    "fix": "捨棄了作為無邊喜悅之因、最勝喜悅的正法之後，你為何喜愛那些作為苦因的散亂與掉舉等？"
+   }
+  ]
+ },
+ "7-38": {
+  "translation": "若未施無畏於恐懼者，\n未施安樂於苦惱者，\n我只不過是徒然製造了\n母胎的陣痛與苦罷了。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "陣痛",
+    "evidence": "Tibetan མ་ཡི་མངལ་གྱི་ཟུག་རྔུ་ means 'the pang/thorn (ཟུག་རྔུ) of the mother's womb' (Skt garbhaśalyatā); bo-kunpal 7-38 glosses it as the great piercing pain (ཟུག་རྔུ་ཆེན་པོ) of the womb and bo-shenga as the womb's 'pang of suffering', not specifically labour contractions (陣痛). Also 徒然 adds an 'in vain' nuance beyond ཟད ('merely').",
+    "fix": "母胎的刺痛與苦而已"
+   }
+  ]
+ },
+ "7-62": {
+  "translation": "猶如渴求遊戲之樂果，\n凡是此人應當作之業，\n對該事業應當生貪著，\n且無饜足於此生歡喜。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "對該事業應當生貪著",
+    "evidence": "Tibetan ལས་དེ་ལ་ནི་ཞེན་བྱ་སྟེ is a positive injunction: Gyaltsab 7-62 glosses ཞེན་པ་སྟེ་སྤྲོ་བཞིན་དུ་བྱ ('be devoted, doing it joyfully'); Shenga 7-62 has དགའ་བའི་ཡིད་ཀྱིས་ཞེན་པར་བྱ. 貪著 carries the negative sense of greedy clinging, which the context contradicts.",
+    "fix": "對該事業應當深切喜愛、專注投入"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "且無饜足於此生歡喜",
+    "evidence": "Tibetan ལས་དེས་མི་ངོམས་དགའ་བར་བྱ means 'being unsated by that work, take delight'. The Chinese 於此生 can be misparsed as 'in this life', and 此 is vague about the referent (the work).",
+    "fix": "不因該事業而饜足，並生歡喜"
+   }
+  ]
+ },
+ "7-64": {
+  "translation": "猶如刀鋒所塗之蜂蜜，\n若對諸欲尚且不饜足；\n異熟為樂且寂靜，\n對於福德何以生饜足？",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "猶如刀鋒所塗之蜂蜜，若對諸欲尚且不饜足",
+    "evidence": "Tibetan སྤུ་གྲིའི་སོར་ཆགས་སྦྲང་རྩི་ལྟའི། འདོད་པ་རྣམས་ཀྱིས་མི་ངོམས་ན: the simile qualifies the desires (འདོད་པ). Shenga 7-64 reads the whole as 'desires, which are like honey smeared on a razor's edge'. The Chinese leaves the simile as a dangling clause detached from 諸欲.",
+    "fix": "若對於猶如塗在刀鋒上的蜂蜜般的諸欲尚且不饜足"
+   }
+  ]
+ },
+ "7-66": {
+  "translation": "若與體力衰退相伴隨，\n為求復作應將其暫捨；\n若已善成，因欲求其後\n與更後之事業而捨前。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "體力",
+    "evidence": "Tibetan སྟོབས་ཉམས་པ: Shenga 7-66 has ནུས་པའི་སྟོབས་ཉམས་པ ('decline of capacity/strength'); Gyaltsab 7-66 says ལུས་སེམས་དུབ་ནས་སྟོབས་ཉམས་པ (body and mind exhausted, strength declined). 體力 restricts it to physical strength.",
+    "fix": "力量"
+   }
+  ]
+ },
+ "8-5": {
+  "translation": "哪有無常者會對無常事物，\n生起真正的貪著？\n由此在千百生世中，\n將無法見到所愛之人。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "千百生世",
+    "evidence": "Tibetan ཚེ་རབས་སྟོང་ཕྲག་ཏུ (Skt janmasahasrāṇi) means 'for thousands of lifetimes'; bo-kunpal 8-5 also has ཚེ་རབས་སྟོང་ཕྲག་དག་ཏུ. 千百 ('hundreds and thousands') is looser and shifts the number.",
+    "fix": "數千生世"
+   }
+  ]
+ },
+ "8-9": {
+  "translation": "若與愚夫同分而行，\n必定將會趨入惡趣；\n若將人引向不同分，\n依止愚夫有何作用？",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "若將人引向不同分",
+    "evidence": "Tibetan སྐལ་མི་མཉམ་པར་ཁྲིད་བྱེད་ན: bo-shenga 8-9 and bo-gyaltsab 8-9 gloss it as leading one to a lot unlike that of the noble ones (འཕགས་པ་རྣམས་དང་སྐལ་བ་མི་མཉམ་པར་ཁྲིད་པར་བྱེད་ན). The Chinese leaves the point of comparison unstated and could be read as 'a lot different from the fools'.",
+    "fix": "若將人引向與聖者不同分"
+   }
+  ]
+ },
+ "8-49": {
+  "translation": "觸感柔軟的木棉枕，\n你不對之生起喜愛，\n聲稱「不會滲漏惡臭」，\n貪欲者對不淨痴迷。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "你不對之生起喜愛",
+    "evidence": "The Tibetan 'སྔས་ལ་དགའ་བར་མི་བྱེད་པར། ... འདོད་ལྡན་མི་གཙང་བ་ལ་རྨོངས' has no second person; the subject of not delighting in the soft cotton pillow is the lustful ones (འདོད་ལྡན), as bo-gyaltsab 8-49 and bo-shenga 8-49 read it ('འདོད་ལྡན་རྣམས་... ཤིང་བལ་... ལ་ཁྲོ་བ་དག་ཏུ་བྱེད'). The translation inserts 你 and then switches to 貪欲者 in the last line, so the subject shifts mid-verse.",
+    "fix": "貪欲者不對之生起喜愛（末句改為「卻對不淨痴迷」）"
+   }
+  ]
+ },
+ "8-73": {
+  "translation": "有些人受遠行之煩惱，\n具有前往遠方之苦，\n雖渴望妻兒，\n經年累月亦不見妻兒。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "受遠行之煩惱",
+    "evidence": "ཉོན་མོངས here (བྱེས་བགྲོད་ཉོན་མོངས) means the hardship/trouble of travelling abroad, not the mental affliction (kleśa): Sanskrit has pravāsakleśa and bo-kunpal 8-73 glosses it with \"དཀའ་ཚེགས་ཀྱིས་ངལ་ཞིང་ཉོན་མོངས་པ\" (wearied by hardship). 煩惱 reads as the doctrinal term for the mental afflictions.",
+    "fix": "受遠行旅途之勞頓"
+   }
+  ]
+ },
+ "8-79": {
+  "translation": "貪欲者有這般等等\n眾多的過患，且獲益微小，\n猶如牽拉車乘的牲畜，\n僅能吃得幾口草。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "獲益微小",
+    "evidence": "མནོག་ཆུང་ means little gratification/enjoyment (Sanskrit alpāsvāda, \"slight taste\"); bo-gyaltsab 8-80 glosses it \"བདེ་བའི་མནོག་ཆུང\" (slight happiness), not slight profit or gain. 獲益 suggests benefit/profit.",
+    "fix": "所得的樂味微薄"
+   }
+  ]
+ },
+ "8-80": {
+  "translation": "即使由牲畜成辦也不罕見，\n為了那微小的獲益，\n這極難得的圓滿暇滿，\n竟被受業折磨的人們所毀壞。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "那微小的獲益",
+    "evidence": "མནོག་ཆུང་ is the slight enjoyment/gratification (Sanskrit āsvādalava), glossed in bo-gyaltsab 8-80 as \"ཚེ་འདིའི་བདེ་བ་ཤིན་ཏུ་མནོག་ཆུང\" (the very slight happiness of this life); 獲益 means gain/profit.",
+    "fix": "那微小的受用之樂"
+   }
+  ]
+ },
+ "8-82": {
+  "translation": "若僅憑彼千萬分之一\n辛勞，即能成就佛果，\n貪欲者較之菩提行，\n苦難更大且無菩提。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "苦難更大",
+    "evidence": "Locked rendering of སྡུག་བསྔལ is 苦; the segment has \"སྡུག་བསྔལ་ཆེ་ལ\" but the translation uses 苦難 instead.",
+    "fix": "苦更大"
+   }
+  ]
+ },
+ "8-102": {
+  "translation": "「為何一切之苦\n應予以遣除？」此無須諍辯；\n若要遣除則一切皆應遣除，\n否則我也猶如有情。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "否則我也猶如有情",
+    "evidence": "Tibetan 'དེ་མིན་བདག་ཀྱང་སེམས་ཅན་བཞིན།' = if others' suffering is not to be averted, then my own suffering too, like that of other sentient beings, is not to be averted (bo-shenga 8-102: 'བདག་གི་སྡུག་བསྔལ་ཉིད་ཀྱང་སེམས་ཅན་གཞན་གྱི་སྡུག་བསྔལ་བཞིན་བཟློག་པར་མི་བྱའོ'). The Chinese 'I too am like sentient beings' does not state what is parallel.",
+    "fix": "否則，我之苦亦如其他有情之苦，不應遣除"
+   }
+  ]
+ },
+ "8-104": {
+  "translation": "若以一苦\n能消除諸多之苦，\n具悲者理應將此苦，\n為自他而生起。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "為自他而生起",
+    "evidence": "Tibetan 'རང་དང་གཞན་ལ་བསྐྱེད་བྱ་ཉིད' with locative ལ: bo-kunpal 8-104 says compassion's suffering is to be generated 'རང་དང་གཞན་སེམས་ཅན་མང་པོའི་རྒྱུད་ལ་བསྐྱེད' (in the continua of oneself and others), not generated 'for the sake of' them.",
+    "fix": "於自他之上生起"
+   }
+  ]
+ },
+ "8-132": {
+  "translation": "全然捨棄能成辦\n可見與不可見之樂的圓滿安樂，\n因對他人造作苦之業因，\n出於愚昧而承受難忍之苦。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "因對他人造作苦之業因",
+    "evidence": "Tibetan 'གཞན་ལ་སྡུག་བསྔལ་བྱས་པའི་རྒྱུས' = 'through (the cause of) having inflicted suffering on others'; bo-kunpal 8-132 'གཞན་སེམས་ཅན་ལ༷་གནོད་པ་སྣ་ཚོགས་པའི་སྡུག་བསྔལ་བྱས་པའི་རྒྱུས'. The Chinese 'creating the karmic cause of suffering' with a redundant 因...因 shifts the object from inflicting suffering to producing its cause.",
+    "fix": "因對他人施加苦"
+   }
+  ]
+ },
+ "8-145": {
+  "translation": "安住惡趣險惡口，\n此人對眾生無悲心，\n反而由於自矜功德，\n欲向諸智者挑戰。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "安住惡趣險惡口，此人對眾生無悲心",
+    "evidence": "'ངན་འགྲོ་གདུག་པའི་ཁར་གནས་པ། འགྲོ་ལ་སྙིང་རྗེ་མེད་པར' - 'གནས་པ' qualifies 'འགྲོ་' (the beings); bo-shenga 8-145 'ངན་འགྲོ་གདུག་པའི་ཁར་གནས་པ། དེ་ལྟ་བུའི་འགྲོ་བ་རྣམས་ལ་སྙིང་རྗེ་མེད་པས'. The Chinese lets 'dwelling in the jaws' read as describing 此人, and 安住 adds a connotation of settled comfort.",
+    "fix": "對安處於惡趣兇獸之口中的眾生無悲心"
+   }
+  ]
+ },
+ "8-147": {
+  "translation": "務使我之諸功德，\n顯明於全世間中，\n此外彼有何功德，\n當令無人能聽聞。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "此外彼有何功德",
+    "evidence": "'གཞན་ཡང་འདི་ཡི་ཡོན་ཏན་གང་། སུས་ཀྱང་ཐོས་པར་མི་འགྱུར་བྱ' - 'གང' is a relative ('whatever qualities this one has', bo-shenga 8-147 'འགྲན་ཟླ་འདི་ཡི་ཡོན་ཏན་གང་དག་'), but '有何功德' reads as an interrogative; འདི 'this one' is rendered 彼.",
+    "fix": "此外，凡此人所有之功德"
+   }
+  ]
+ },
+ "8-149": {
+  "translation": "當彼遭受衰敗時，\n我當長久歡喜觀，\n令成一切眾生笑，\n以及交相毀謗處。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "令成一切眾生笑，以及交相毀謗處",
+    "evidence": "'འགྲོ་བ་ཀུན་གྱི་བཞད་གད་དང་། ཕན་ཚུན་སྨོད་པ་དག་ཏུ་བྱ' - 'བཞད་གད' is an object of laughter (bo-gyaltsab 8-149 'བཞད་གད་ཀྱི་གནས'); '眾生笑' with bare 笑 is hard to parse as 'laughingstock'.",
+    "fix": "使其成為一切眾生嘲笑的對象，以及彼此譏毀之處"
+   }
+  ]
+ },
+ "8-163": {
+  "translation": "此人本性具過失，\n勿讚偶發少分功德，\n務必使此之功德，\n任何一人皆不知。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "勿讚偶發少分功德",
+    "evidence": "Tibetan 'འདི་ནི་སྐྱོན་ཅན་རང་བཞིན་ཏེ། གློ་བུར་ཡོན་ཏན་ཆས་མི་བསྟོད' says this one (the self, bdag 'di) is not to be praised on account of a fraction of adventitious qualities; the object of praise is the self, the qualities are the ground. The Chinese reads as 'do not praise the adventitious qualities', dropping the object 'this one' and shifting what is forbidden (bo-kunpal 8-163: 'གློ་བུར་གྱི་ཡོན་ཏན་ཅུང་ཟད་... དེའི་སྒོ་ནས་ནམ་ཡང་མགོ་འཕང་མི་བསྟོད'; bo-gyaltsab 8-163). Also '此人' for 'འདི' (the self) could be read as another person.",
+    "fix": "勿以偶發少分功德而讚此者"
+   }
+  ]
+ },
+ "8-177": {
+  "translation": "究竟終將歸於灰燼，\n無有動搖而由他牽引，\n此不淨可畏之色身，\n為何對其生起我執？",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "無有動搖而由他牽引",
+    "evidence": "Tibetan མི་གཡོ་གཞན་གྱིས་བསྐྱོད་བྱ་བ means the body is immobile (it cannot move itself) and is moved by others (Skt niśceṣṭa). 無有動搖 in Chinese normally reads as 'unshakeable/steadfast', not 'motionless'.",
+    "fix": "不能自動而由他者推動"
+   }
+  ]
+ },
+ "8-179": {
+  "translation": "藉由殷勤侍奉此身，\n徒然集聚無義之苦，\n隨後生起貪著與瞋恚，\n對此如枯木者有何用？",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "隨後生起貪著與瞋恚",
+    "evidence": "Tibetan རྗེས་སུ་ཆགས་དང་ཁོང་ཁྲོ་བ: རྗེས་སུ་ཆགས་པ is the compound 'attachment/affection' (Skt anunaya), not a temporal 'afterwards'; bo-kunpal 8-179 glosses it as རང་ཕྱོགས་ལ་རྗེས་སུ་ཆགས་པ་དང་གཞན་ཕྱོགས་ལ་ཁོང་ཁྲོ་བ (attachment to one's own side, anger toward the other side). 隨後 adds a sequence not in the source.",
+    "fix": "貪著與瞋恚"
+   }
+  ]
+ },
+ "8-181": {
+  "translation": "因受毀謗而生憤怒，\n或因受讚揚而生歡喜，\n倘若其本身毫無所知，\n我究竟是為誰而受勞苦？",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "因受毀謗而生憤怒，或因受讚揚而生歡喜，倘若其本身毫無所知",
+    "evidence": "Tibetan གང་ཞིག་སྨོད་པས་ཁྲོ་བ་དང་། གང་ཞིག་བསྟོད་པས་མགུ་འགྱུར་བ། has a relative subject gang zhig (that which/one who), which bo-gyaltsab 8-181 and bo-kunpal 8-181 identify as the body. The Chinese drops the subject so 其本身 has no clear referent.",
+    "fix": "凡是因受毀謗而憤怒、因受讚揚而歡喜者，倘若其本身毫無所知"
+   }
+  ]
+ },
+ "9-11": {
+  "translation": "殺害幻士等，\n因為是幻化而沒有心，所以沒有罪業；\n但對於具有如幻心者，\n則會產生福德與罪業。",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "因為是幻化而沒有心",
+    "evidence": "Tibetan 'སེམས་མེད་ཕྱིར་ན་སྡིག་མེད' gives only 'because there is no mind, there is no misdeed'; the Chinese adds 'because it is an illusion' (是幻化) as a reason, which the verse does not state (Gyaltsab 9-11 repeats the verse unchanged; Kunpal 9-11 says 'སེམས་མེད་པའི་ཕྱིར').",
+    "fix": "因為沒有心，所以沒有罪業"
+   }
+  ]
+ },
+ "9-14": {
+  "translation": "佛亦將墮輪迴故，\n修菩提行有何益？\n眾緣相續若未斷，\n幻化亦是不退滅；",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "幻化亦是不退滅",
+    "evidence": "Tibetan 'སྒྱུ་མའང་ལྡོག་པར་མི་འགྱུར་གྱི' means even the illusion (saṃsāra's appearance) does not cease/reverse (Kunpal 9-14: 'སྒྱུ་མའི་སྣང་བ་འང་ལྡོག་པར་མི་འགྱུར'). '不退滅' is not an idiomatic rendering and can be misread as 'does not decline'.",
+    "fix": "幻化亦不會止息"
+   }
+  ]
+ },
+ "9-18": {
+  "translation": "猶如劍刃不割截\n其自身，意亦如是。\n若謂猶如燈\n真實照明其自體，",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "真實照明",
+    "evidence": "Tibetan 'ཡང་དག་གསལ་བར་བྱེད་བཞིན' uses ཡང་དག་ adverbially ('perfectly/fully'; Sanskrit saṃprakāśayati; Gyaltsab 9-20 'ཡང་དག་པར་གསལ་བར་བྱེད་པ'). '真實' is the locked rendering of ཡང་དག་ཉིད/དེ་ཉིད and suggests 'in reality', which is not meant here.",
+    "fix": "完全照明"
+   }
+  ]
+ },
+ "9-20": {
+  "translation": "如是有法觀待他,\n亦見有法不觀待。\n非青之法成青色,\n並非自己作自己。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "非青之法成青色，並非自己作自己",
+    "evidence": "Tibetan 'སྔོ་ཉིད་མིན་ལ་སྔོན་པོར་དེ། བདག་གིས་བདག་ཉིད་བྱས་པ་མེད' says that what is not (originally) blue has not been made blue by itself (Kunpal 9-20: 'བདག་གིས་བདག་ཉིད་སྔར་སྔོན་པོ་མིན་པ་ལ་ཕྱིས་སྔོན་པོར་བྱས་པ་ནི་མེད'). The Chinese splits it into an affirmative-looking 'a non-blue thing becomes blue' plus a separate negation.",
+    "fix": "非青之物，並無由自己使自己成為青色者"
+   }
+  ]
+ },
+ "9-42": {
+  "translation": "憑藉何緣而對其生信，\n那對大乘而言亦相同。\n若因其他二者承許即為真實，\n吠陀等亦將成為真實。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "其他二者承許",
+    "evidence": "Tibetan གཞན་གཉིས་འདོད་པས། Shenga (bo-shenga 9-42) glosses གཞན་གང་ཡང་རུང་བ་གཉིས་ཀྱིས་འདོད་པས (accepted by any two parties) and Gyaltsab (bo-gyaltsab 9-43) says གང་ཟག་གཞན་གང་ཡང་རུང་བ་གཉིས། 'any two other persons'. '其他二者' can be read as a specific pair of 'the other two'.",
+    "fix": "任何其他二方承許"
+   }
+  ]
+ },
+ "9-50": {
+  "translation": "若因一部未包含，\n一切皆成具過患，\n則因一部相似經，\n一切何非勝者說？",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "若因一部未包含",
+    "evidence": "Tibetan 'མ་གཏོགས་གཅིག' (Sanskrit 'ekena agamyamānena'): a single sutra not included in/accepted by the lower-vehicle canon; bo-kunpal 9-50 'དམན་པའི་སྡེ་སྣོད་དུ་མ་གཏོགས་པའི་...མདོ་གཅིག'. The Chinese leaves unstated what it is not included in.",
+    "fix": "若因有一部未被納入（小乘藏）"
+   }
+  ]
+ },
+ "9-62": {
+  "translation": "如果正是它覺知色，\n那時為何不也聽聞？\n若謂是因為聲不鄰近，\n那麼對它的覺知亦不存在。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "那麼對它的覺知亦不存在",
+    "evidence": "Tibetan 'དེ་ཡི་ཤེས་པའང་མེད' = the cognition of that (sound); bo-shenga 9-62 'སྒྲ་དེ་ཡི་ཤེས་པའང་མེད'. In the Chinese, 它 just before denotes the cognition, so the referent shifts unclearly.",
+    "fix": "那麼對聲的覺知亦不存在"
+   }
+  ]
+ },
+ "9-64": {
+  "translation": "如是，薩埵、塵與\n闇，既非子亦非父；\n彼亦未被見為\n具有取聲之自性。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "彼亦未被見為",
+    "evidence": "Tibetan 'དེ་ནི...མཐོང་མ་ཡིན' has no 'also'; 'དེ' is the apprehender of form (bo-shenga 9-64 'གཟུགས་འཛིན་པ་པོ་དེ་ནི...མཐོང་བ་མ་ཡིན'; bo-kunpal 9-64 'གཟུགས་འཛིན་དེ'). 彼 is vague and 亦 is added.",
+    "fix": "彼取色者未被見具有"
+   }
+  ]
+ },
+ "9-82": {
+  "translation": "若於內外皆無身，\n手等之中怎有身？\n除手等外若無他，\n彼身如何能存在？",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "除手等外若無他",
+    "evidence": "Tibetan ལག་སོགས་རྣམས་ལས་གཞན་མེད་ན། means 'if (the body) does not exist as other than the hands etc.'; the Chinese '無他' leaves the subject (the body) unstated and is hard to parse.",
+    "fix": "若離手等之外別無身"
+   }
+  ]
+ },
+ "9-87": {
+  "translation": "如是猶如夢一般，\n對於色具慧者誰會貪著？\n何時如是身無有，\n爾時誰為男、誰為女？",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "具慧者",
+    "evidence": "Tibetan 'དཔྱོད་ལྡན' = one endowed with investigation/analysis (Sanskrit विचारकः); bo-kunpal 9-87: 'དེ་ཁོ་ན་ཉིད་ཀྱི་དཔྱོད་པ་དང་ལྡན་པའི་གང་ཟག' (a person endowed with investigation of reality). '慧' reads as prajñā (ཤེས་རབ), not dpyod pa; elsewhere in the batch དཔྱོད/དཔྱད is rendered 分析.",
+    "fix": "對於色具分析者誰會貪著？"
+   }
+  ]
+ },
+ "9-89": {
+  "translation": "若謂因被具力者壓制，\n故而未經驗於彼，\n不具體驗體性者，\n彼者如何能是受？",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "未經驗於彼",
+    "evidence": "The same verb མྱོང་ in line 2 ('གལ་ཏེ་དེ་མྱོང་མ་ཡིན་ན') and ཉམས་མྱོང་ in line 3 are used interchangeably (bo-gyaltsab 9-89, bo-shenga 9-89: 'མྱོང་བ་ཉིད་ནི་ཚོར་བའི་རང་བཞིན་'); the locked term ཉམས་མྱོང་ is 體驗, but line 2 uses 經驗, breaking the identity on which the argument (not experienced -> not feeling) depends.",
+    "fix": "故而未體驗彼"
+   }
+  ]
+ },
+ "9-90": {
+  "translation": "若謂苦以微細狀態存在，\n此之粗大豈非已被遣除？\n若謂彼僅是異於彼之喜，\n則彼微細亦屬於彼。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "若謂彼僅是異於彼之喜，則彼微細亦屬於彼。",
+    "evidence": "Two different referents are both rendered 彼. bo-gyaltsab 9-91 and bo-shenga 9-90 ('ཕུལ་དུ་བྱུང་བའི་བདེ་བ་དེ་ལས་གཞན་དགའ་བའི་ཆ་ཙམ') show 'དེ་ལས་' = other than that strong happiness; bo-kunpal 9-90: 'ཕྲ་མོ་ཉིད་དེ་ཡང་དགའ་བ་དེའི་རིགས་ཡིན་' (the subtle thing itself belongs to the class of that joy/happiness). The Chinese leaves the referents unresolved.",
+    "fix": "若謂彼僅是異於該強盛之樂的微喜，則該微細亦屬於該樂之類。"
+   }
+  ]
+ },
+ "9-92": {
+  "translation": "正因如此，\n應當修習此分析作為對治；\n由觀察田所生起之\n靜慮乃是瑜伽士之食。",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "應當修習此分析作為對治",
+    "evidence": "Tibetan 'འདི་ཡི་ནི། གཉེན་པོ་རྣམ་དཔྱོད་འདི་བསྒོམ་སྟེ' = meditate on this analysis as the antidote of this (the clinging to feeling); bo-kunpal 9-92: 'ཚོར་བ་བདེ་སོགས་ལ་…མངོན་པར་ཞེན་…འདི་ཡི་ནི་གཉེན་པོ'. 'Of this' (འདི་ཡི) is not rendered.",
+    "fix": "應當修習此分析作為此（執著）之對治"
+   }
+  ]
+ },
+ "9-108": {
+  "translation": "分別與所分別之事，\n這兩者是相互依賴的。\n依賴於共稱之事，\n而宣說了一切觀察。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "依賴於共稱之事",
+    "evidence": "Tibetan ཇི་ལྟར་གྲགས་པ་ལ་བརྟེན་ནས ('relying on what is renowned/accepted'); bo-shenga 9-108 glosses it as འཇིག་རྟེན་གྲགས་པའི་ཐ་སྙད་ལ་བརྟེན་ནས (relying on the worldly renowned convention); bo-kunpal likewise 'ཐ་སྙད'. '共稱之事' ('a thing jointly called') does not convey 'as is commonly known/accepted in the world' and adds '事'.",
+    "fix": "依賴於世間所共知的名言"
+   }
+  ]
+ },
+ "9-115": {
+  "translation": "若由異於芽之覺知，\n了知種子之存在，\n則能了知彼所知者，\n覺知存在從何了知？",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "則能了知彼所知者，覺知存在從何了知",
+    "evidence": "Tibetan གང་ཕྱིར་ཤེས་བྱ་དེ་རྟོགས་པ། ཤེས་པ་ཡོད་ཉིད་གང་ལས་རྟོགས: the relative clause 'that by which the knowable is known' qualifies the consciousness whose existence is then questioned (bo-shenga 9-115: ཤེས་བྱ་དེ་རྟོགས་པར་བྱེད་པའི་ཤེས་པ་ཡོད་པ་ཉིད་གང་ལས་རྟོགས). The Chinese line 3 has no subject and reads as a further consequence ('then one can know that knowable'), obscuring that it is the knowing consciousness itself that is at issue.",
+    "fix": "則藉以了知該所知的那個覺知，其存在又從何了知？"
+   }
+  ]
+ },
+ "9-125": {
+  "translation": "若自在天不隨己欲\n而造作，將受制於他者。\n即使隨欲，亦依賴於欲。\n若去造作，又豈是自在天？",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "若去造作",
+    "evidence": "Tibetan 'བྱེད་ན' (and 'བྱེད་ནའང་') means 'if (he) acts / creates' (Skt kurvataḥ). The character 去 ('go') is a slip and makes the clause hard to parse.",
+    "fix": "若造作"
+   }
+  ]
+ },
+ "9-132": {
+  "translation": "若樂等之顯現存在，\n為何未被體驗所取？\n若彼轉變為細，\n彼又如何是粗與細？",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "為何未被體驗所取",
+    "evidence": "Tibetan 'མྱོང་བ་ཅི་ཕྱིར་འཛིན་མ་ཡིན' (Skt saṃvittiḥ kiṃ na gṛhyate): 'experience' is the thing not apprehended. bo-kunpal 9-132 glosses: 'དུས་རྟག་ཏུའང་མྱོང་བ་ཅི་ཡི་ཕྱིར་འཛིན་པ་མ་ཡིན' (why is it not always experienced). The Chinese turns 體驗 into an agent that 'takes' something unspecified, so the object of non-apprehension is unclear.",
+    "fix": "為何不被領受為體驗"
+   }
+  ]
+ },
+ "9-147": {
+  "translation": "若於無時不可能有事物存在，\n何時方能成存在的事物？\n若事物尚未產生，\n其將不會脫離彼無事物。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "若於無時不可能有事物存在",
+    "evidence": "Tibetan 'med tshe dngos yod srid min na' = 'if, at the time of non-existence (while the non-entity is there), an entity cannot exist'; Sanskrit 'nābhāvakāle bhāvaś cet'. 'at the time of non-entity'. The Chinese '於無時' can be read as 'at no time / never', which is not what the Tibetan says.",
+    "fix": "若於無事物之時，事物不可能存在"
+   }
+  ]
+ },
+ "9-148": {
+  "translation": "若未脫離無事物，\n則無事物存在之機。\n事物亦不會成為無，\n因將導致兩種自性。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "則無事物存在之機",
+    "evidence": "Tibetan 'dngos po yod pa'i skabs mi srid' = 'the occasion for an entity to exist is impossible'. The Chinese string '無事物存在之機' places the locked term 無事物 (dngos med) adjacent to 無, so it can be parsed as 'the occasion for a non-entity to exist' or as a negated '事物存在之機'; the negation of the possibility (mi srid) is not clearly expressed.",
+    "fix": "則事物存在之機不可能有"
+   }
+  ]
+ },
+ "9-156": {
+  "translation": "數數來到善趣中，\n享盡眾多安樂後，\n死後墮入惡道之\n長久難忍諸苦中。",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "享盡眾多安樂後",
+    "evidence": "Tibetan 'bde ba mang po spyod spyod nas' = 'having repeatedly enjoyed much happiness' (Sanskrit 'bhūtvā bhūtvā sukhocitāḥ'); nothing in the text says the happiness is exhausted. '享盡' adds the sense of using it all up.",
+    "fix": "受用眾多安樂後"
+   }
+  ]
+ },
+ "9-163": {
+  "translation": "儘管如是極度痛苦，\n卻不見自己的痛苦——\n這些安住於苦河中的眾生，\n哀哉，實堪悲歎！",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "安住於苦河中",
+    "evidence": "Tibetan 'sdug bsngal chu bor gnas' = 'dwelling/being situated in the river of suffering' (Sanskrit 'duḥkhaugha-vartinām'). '安住' carries the positive Buddhist sense of abiding at ease, which clashes with the verse's irony and the plain sense of 'gnas'.",
+    "fix": "處於苦河中"
+   }
+  ]
+ },
+ "10-1": {
+  "translation": "以我撰造《入\n菩提行》之\n所有善，願一切眾生\n皆趣入菩提行。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "《入\n菩提行》",
+    "evidence": "The Tibetan བྱང་ཆུབ་སྤྱོད་པ་ལ་འཇུག་པ is the work's title, a single unit; the Chinese breaks the title across two lines (《入 / 菩提行》), making the title hard to read as one name. Content is otherwise faithful (བདག་གིས ... རྣམ་པར་བརྩམས་པ་ཡི་དགེ་བ་གང་དེས་).",
+    "fix": "《入菩提行》"
+   }
+  ]
+ },
+ "10-18": {
+  "translation": "願盲者雙眼能看見，\n願聾者恆常聽聞聲音，\n猶如摩耶夫人般，\n願孕婦皆無害生產。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "願孕婦皆無害生產",
+    "evidence": "Tibetan སྦྲུམ་མའང་གནོད་མེད་བཙའ་བར་ཤོག has the additive particle -འང ('pregnant women too', Sanskrit गर्भिण्यश्च; bo-shenga 10-18 'སྦྲུམ་མ་ཇི་སྙེད་པའང་'), comparing them with Māyādevī. The Chinese drops 'also' and turns it into 'all', and 無害生產 is awkward (reads as 'harmless birth-giving').",
+    "fix": "願孕婦亦能平安無損地分娩"
+   }
+  ]
+ },
+ "10-26": {
+  "translation": "於荒野等無路可怖之處，\n孩童、老人與無依者，\n睡眠、迷醉與狂亂者，\n願諸天皆來守護。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "狂亂",
+    "evidence": "Tibetan རབ་མྱོས ('utterly intoxicated'; Sanskrit pramatta/matta; bo-kunpal 10-26 'རབ་ཏུ་མྱོས་པས་བག་མེད་པར་གྱུར་ཏེ', bo-shenga 'མྱོས་ཤིང་རབ་ཏུ་མྱོས་པ'). 狂亂 means frenzied/deranged, not deeply intoxicated, and loses the intensifier relation to མྱོས.",
+    "fix": "酩酊"
+   }
+  ]
+ },
+ "10-31": {
+  "translation": "願藉由我此福德，\n一切有情無遺漏，\n捨棄一切諸罪業，\n恆常行持一切善。",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "恆常行持一切善",
+    "evidence": "Tibetan རྟག་ཏུ་དགེ་བ་བྱེད་པར་ཤོག has no 'all' on དགེ་བ ('always perform virtue'; Sanskrit कुशलं; bo-kunpal 10-31 'དགེ་བ་ཕུན་སུམ་ཚོགས་པ་བྱེད'). 'ཐམས་ཅད' qualifies the misdeeds (སྡིག་པ་ཐམས་ཅད), not virtue.",
+    "fix": "恆常行善"
+   }
+  ]
+ },
+ "10-41": {
+  "translation": "願無任何有情受苦，\n無有恐懼亦不受欺凌，\n無任何人心中不悅。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "無任何人心中不悅",
+    "evidence": "Tibetan \"འགའ་ཡང་ཡིད་མི་བདེ་མ་གྱུར\" with elided subject \"སེམས་ཅན\" carried over from line 1 (bo-kunpal 10-41: \"སེམས་ཅན་འགའ་ཡང་ཡིད་མི་བདེ་བར་ཡང་མ་གྱུར\"); \"人\" narrows the referent to humans, while the subject is sentient beings.",
+    "fix": "無任何有情心中不悅"
+   }
+  ]
+ },
+ "10-42": {
+  "translation": "願諸寺院以研讀、\n與誦習莊嚴而善安住，\n願僧伽恆常和合，\n僧伽之目標亦皆成就。",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "僧伽之目標亦皆成就",
+    "evidence": "\"དགེ་འདུན་དོན\" means the affairs/tasks of the Sangha (Skt saṅghakārya); bo-shenga 10-42 glosses it as the Sangha's activities of reading and meditation (\"དགེ་འདུན་གྱི་དོན་ཀློག་སྤོང་གི་བྱ་བ\"), not abstract \"goals\".",
+    "fix": "僧伽之事務亦皆成就"
+   }
+  ]
+ },
+ "10-54": {
+  "translation": "盡十方虛空的邊際，\n為了成辦一切有情的利益，\n正如文殊師利所作的行，\n願我的行也能如此。",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "盡十方虛空的邊際，為了成辦一切有情的利益",
+    "evidence": "\"ཕྱོགས་བཅུའི་ནམ་མཁའི་མཐས་གཏུགས་པའི\" modifies \"སེམས་ཅན\" (beings extending to the limit of space; bo-kunpal 10-54, bo-shenga 10-54 \"ནམ་མཁའི་མཐས་གཏུགས་པར…སེམས་ཅན\"); the Chinese leaves the phrase as a free-standing line that can be read adverbially.",
+    "fix": "為了成辦盡十方虛空邊際一切有情的利益"
+   }
+  ]
+ },
+ "10-55": {
+  "translation": "乃至虛空安住，\n乃至眾生安住，\n願我亦安住爾時，\n以消除眾生之苦。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "願我亦安住爾時",
+    "evidence": "\"དེ་སྲིད\" (correlative of \"ཇི་སྲིད\") means \"for that long / as long as that\", a duration (Skt tāvat); \"爾時\" means \"at that time\", turning duration into a point in time.",
+    "fix": "願我亦安住如是之久"
+   }
+  ]
+ }
+}

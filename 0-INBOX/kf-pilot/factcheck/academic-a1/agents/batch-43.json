@@ -1,0 +1,129 @@
+{
+ "batch": "batch-43",
+ "segments": [
+  {
+   "id": "9-145",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-146",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-147",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-148",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-149",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-150",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-151",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "By whom is respect shown,\nOr what is there to be completely despised?",
+     "evidence": "Tibetan གང་གིས་རིམ་གྲོ་བྱས་པའམ། ཡོངས་སུ་བརྙས་པའང་ཅི་ཞིག་ཡོད། has a single question 'what is there' governing both being honored by anyone and being despised (bo-shenga 9-151: སེམས་ཅན་གང་གིས་བསྟོད་ཅིང་རིམ་གྲོ་བྱས་པའམ། སྨད་དེ་ཡོངས་སུ་བརྙས་པར་བྱས་པའང་ཅི་ཞིག་ཡོད). The English splits it into 'by whom is respect shown' and 'what is there to be despised', so the two parallel members no longer match and the agent 'by whom' attaches only to respect.",
+     "fix": "What is there in being honored or utterly despised by anyone?"
+    }
+   ]
+  },
+  {
+   "id": "9-152",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-153",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-154",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-155",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-156",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-157",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-158",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "Furthermore,",
+     "evidence": "Tibetan དེ་ཡང་ (Sanskrit tatra ca; bo-kunpal 9-158 and bo-shenga 9-158 read དེར་ཡང་ 'even there') refers back to existence (srid pa) of the previous verse; 'Furthermore' drops the locative 'there'.",
+     "fix": "There too,"
+    }
+   ]
+  },
+  {
+   "id": "9-159",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-160",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "Furthermore,",
+     "evidence": "Tibetan དེར་ཡང་ (Sanskrit tatrāpi; bo-kunpal 9-160 འཁོར་བའི་གནས་དེར་ཡང་) means 'even there, in that place'; the same words are rendered 'Even there' in 9-159 and 9-161, but here 'Furthermore' drops the locative and breaks the anaphora.",
+     "fix": "Even there, as for habituation to distraction,"
+    }
+   ]
+  },
+  {
+   "id": "9-161",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-162",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-163",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-164",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

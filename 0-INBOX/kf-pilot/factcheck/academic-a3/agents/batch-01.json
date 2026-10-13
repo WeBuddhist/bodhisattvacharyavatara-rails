@@ -1,0 +1,135 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "1-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-29",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "That which satisfies them with all happiness",
+     "evidence": "གང་ཞིག is the agent; bo-shenga 1-29 glosses it \"རྒྱལ་སྲས་གང་ཞིག\" (the Victor's child, the bodhisattva) who \"བདེ་བ་ཀུན་ཀྱིས་ཚིམ་པར་བྱེད་པ\" and \"སྡུག་བསྔལ་ཐམས་ཅད་རྒྱུན་གཅོད་པར་བྱེད་ཅིང་\"; Sanskrit yaḥ is masculine/personal. \"That which\" leaves the subject impersonal.",
+     "fix": "One who satisfies them with all happiness"
+    }
+   ]
+  },
+  {
+   "id": "1-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-27",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "the fully awakened Buddhas and bodhicitta",
+     "evidence": "བྱང་ཆུབ་སེམས་ here abbreviates བྱང་ཆུབ་སེམས་དཔའ་ (bodhisattva): Sanskrit has संबुद्धान् ... बोधिसत्त्वान्; bo-shenga 2-27 reads \"ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐུགས་རྗེ་ཆེན་པོ་མངའ་བ\"; bo-gyaltsab 2-27 likewise. Those \"who possess great compassion\" are persons, not the mind of awakening, so the locked \"bodhicitta\" does not fit here.",
+     "fix": "the fully awakened Buddhas and bodhisattvas"
+    }
+   ]
+  },
+  {
+   "id": "2-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-44",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "their utter misery",
+     "evidence": "The helpless one is the person seized and stricken (bo-shenga 2-44 \"བཟུང་བར་གྱུར་ཅིང་... ཐེབས་པར་གྱུར་པ་ན། རབ་ཏུ་ཉམ་ཐག་པར་འགྱུར་བ\"; bo-gyaltsab 2-44 \"བཟུང་བར་གྱུར་ཅིང་... རབ་ཏུ་ཉམ་ཐག་པ\"), not the messengers of Yama. In the English, \"their\" has no antecedent but the messengers, so it can be read as their misery.",
+     "fix": "the utter helplessness of one so seized and stricken"
+    }
+   ]
+  },
+  {
+   "id": "2-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "without lapse",
+     "evidence": "གཡེལ་བ་མེད་པར is \"without distraction/slackness\": bo-shenga 4-1 \"ལེ་ལོའི་གཡེལ་བ་མེད་པར\"; bo-gyaltsab 4-1 \"སེམས་སྐད་ཅིག་ཀྱང་གཡེལ་བ་མེད་པར\". \"Lapse\" is vague and could be read as lapsing in the trainings, which blurs it with \"not transgress\".",
+     "fix": "without distraction (or laxity)"
+    }
+   ]
+  },
+  {
+   "id": "4-4",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "what kind of wandering being will I become?",
+     "evidence": "བདག་གི་འགྲོ་བ here is \"my destiny / where I go\" (Sanskrit का गतिर्मे, \"what destination for me\"), not a type of being. bo-shenga 4-4 \"སེམས་ཅན་དམྱལ་བ་ལ་སོགས་པའི་འགྲོ་བ་ལས་གཞན་གྱི་འགྲོ་བ་མེད་དོ\"; bo-gyaltsab 4-4 \"བདག་གི་འགྲོ་བ་ཇི་འདྲར་འགྱུར་ཏེ། ངན་འགྲོར་འགྲོ་བ་ལས་མ་འདས་པ\"; bo-kunpal 4-4 \"དམྱལ་བ་ལ་སོགས་པའི་ངན་འགྲོར་འགྲོ་བར་འགྱུར\". The locked \"wandering being\" (beings) is misapplied to the rebirth-destiny sense.",
+     "fix": "what will my destiny be? (what rebirth state will be mine?)"
+    }
+   ]
+  }
+ ]
+}

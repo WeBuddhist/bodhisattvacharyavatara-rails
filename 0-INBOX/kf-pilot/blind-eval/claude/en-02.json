@@ -1,0 +1,362 @@
+{
+ "segments": [
+  {
+   "id": "7-48",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "the pattern will return",
+      "explanation": "Tibetan says the habit grows stronger (gom), not that a pattern returns."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "other actions will be left undone Or else will bear a meager fruit",
+      "explanation": "Time of result becomes inferior and that other deed also fails; \"or else\" splits it."
+     }
+    ],
+    "B": [],
+    "C": [],
+    "D": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "\"Other deed\" (gzhan) is missing; only the time of result is mentioned."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "even that goal",
+      "explanation": "The unaccomplished item is the other deed, not \"that goal\"."
+     }
+    ]
+   }
+  },
+  {
+   "id": "7-66",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "8-2",
+   "candidates": {
+    "A": [
+     {
+      "category": "terminology",
+      "severity": "major",
+      "span": "mental wandering",
+      "explanation": "rnam rtog (discursive thought) rendered as \"wandering\", conflating it with distraction."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "Complete distraction",
+      "explanation": "\"Complete\" wrongly renders rnam par in rnam par g.yeng ba (distraction)."
+     }
+    ],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "8-42",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "Is this the only object of desire and lust?",
+      "explanation": "Turns the \"if skeletons, why not go to nirvana\" argument into a different question and imperative."
+     }
+    ],
+    "D": []
+   }
+  },
+  {
+   "id": "8-50",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "You loved it once",
+      "explanation": "Tibetan is present-tense, not a past attachment."
+     },
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "Ah, you say",
+      "explanation": "Invents an interlocutor speech; the Tibetan is a conditional."
+     }
+    ],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "Since you are attached to this when it is covered",
+      "explanation": "Makes it causal and loses \"even when covered\"."
+     }
+    ],
+    "D": []
+   }
+  },
+  {
+   "id": "8-76",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "craving for a livelihood",
+      "explanation": "\"Desire\" (sensual) is rendered as craving for livelihood."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "make their fortune",
+      "explanation": "Wish is merely to survive/make a living, not make a fortune."
+     }
+    ],
+    "B": [],
+    "C": [],
+    "D": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "\"Wishing to live\" is missing."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-112",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "now",
+      "explanation": "\"Now\" and \"perceiving now\" are not in the Tibetan."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-135",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "\"Therefore\" (de ltas) is missing."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-156",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "8-161",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "all my sins",
+      "explanation": "\"Sins\" is stronger than nyes pa, and \"all\" generalises \"even if small\"."
+     }
+    ]
+   }
+  },
+  {
+   "id": "9-16",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "If it were something else in reality",
+      "explanation": "Opponent's assertion \"if another exists\" is made counterfactual and unattributed."
+     }
+    ],
+    "D": []
+   }
+  },
+  {
+   "id": "9-39",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "\"It is acceptable\" (rung ste) is missing."
+     }
+    ],
+    "C": [],
+    "D": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "\"It is acceptable\" (rung ste) is missing."
+     }
+    ]
+   }
+  },
+  {
+   "id": "9-56",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "terrors, granted, will torment it",
+      "explanation": "\"Fear from anything whatever\" is reduced to terrors tormenting it."
+     }
+    ],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "9-67",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "are thus identical",
+      "explanation": "Tibetan states a consequence (\"would become one\"), not an assertion of identity."
+     }
+    ],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "9-96",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "9-113",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "the mind and object have no true existence",
+      "explanation": "Replaces \"those two\" with explicit referents and adds \"true\"."
+     }
+    ],
+    "D": []
+   }
+  },
+  {
+   "id": "9-152",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "What is there to give me joy and pain?",
+      "explanation": "Unpleasant/pleasant becomes what gives joy and pain; \"me\" is added."
+     }
+    ],
+    "D": []
+   }
+  },
+  {
+   "id": "9-161",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "evil forces",
+      "explanation": "Māra (bdud) is generalised to unnamed \"evil forces\"."
+     }
+    ]
+   }
+  },
+  {
+   "id": "10-22",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "May living beings help each other in kindness.",
+      "explanation": "Minds being tender becomes mutual help; \"living beings\" replaces \"their minds\"."
+     }
+    ],
+    "D": []
+   }
+  },
+  {
+   "id": "10-49",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "now",
+      "explanation": "\"Now\", \"high\" and \"all\" are added to the wishes."
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "batch": "batch-05",
+ "segments": [
+  {
+   "id": "8-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-115",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-125",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-132",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "為何不被領受為體驗？",
+     "evidence": "Tibetan 'myong ba ci phyir 'dzin ma yin' = why is the experience (of happiness etc.) not apprehended/grasped; Sanskrit 'saṃvittiḥ kiṃ na gṛhyate'. The Chinese '領受為體驗' introduces an unmotivated 'as' construction and a non-locked verb 領受, obscuring that 'dzin (grasp/apprehend) takes myong ba (體驗, locked) as its object (bo-kunpal 9-132: 'myong ba ci yi phyir 'dzin pa ma yin').",
+     "fix": "為何不把握到體驗？"
+    }
+   ]
+  },
+  {
+   "id": "9-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-147",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-148",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-156",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-163",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-20",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "如是有法觀待他，\n亦見有法不觀待",
+     "evidence": "Tibetan 'de bzhin 'ga zhig gzhan la ni / ltos dang ltos med pa yang mthong' = 'likewise some (thing) is seen to depend on another and also not to depend'; 'ga zhig' is indefinite 'something'. 有法 is the technical rendering of chos can (dharmin, property-bearer), which the Tibetan does not use here (cf. bo-kunpal 9-20 'gsal bya gsal byed', bo-shenga 9-20 'bum pa la sogs pa'i dngos po 'ga zhig').",
+     "fix": "如是亦見某些事物觀待他者，\n亦有不觀待者"
+    }
+   ]
+  },
+  {
+   "id": "9-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-50",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

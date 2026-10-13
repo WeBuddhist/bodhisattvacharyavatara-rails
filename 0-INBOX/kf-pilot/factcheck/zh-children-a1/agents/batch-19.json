@@ -1,0 +1,269 @@
+{
+ "batch": "batch-19",
+ "segments": [
+  {
+   "id": "9-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-26",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "如果幻象和心沒有不同，又不能說它們完全一樣",
+     "evidence": "Tibetan: illusion is not other than mind, and also is not (to be taken as) non-other; the children's phrasing sounds self-contradictory.",
+     "fix": "如果幻象和心不是兩個不同的東西，可是也不能說它們就是同一個。"
+    }
+   ]
+  },
+  {
+   "id": "9-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-31",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "他對空性的根深的習慣還非常微弱",
+     "evidence": "Academic: his emptiness habit is very weak; the repeated 的 phrase is clumsy.",
+     "fix": "他心裡空性的根深習慣還非常微弱。"
+    }
+   ]
+  },
+  {
+   "id": "9-32",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "我們去習慣空性的根深習慣",
+     "evidence": "Academic: by familiarizing with the habit of emptiness, the habit of things is abandoned; the doubled 習慣 is confusing.",
+     "fix": "只要我們一再練習空性的根深習慣，就能消除事物留在心裡的習慣。"
+    }
+   ]
+  },
+  {
+   "id": "9-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-44",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "要成為真正的僧人也很難",
+     "evidence": "Academic: 'the monk is also difficult to establish' and 'their nirvana is also difficult to establish' - the point is that these are hard to establish or justify (the opponent's own claim is shaky), not that they are hard to achieve.",
+     "fix": "如果說僧人是佛法的根本，那麼連「誰是真正的僧人」都很難說得清楚。那些心裡抓著東西不放的人，說他們脫離憂苦，也很難說得通。"
+    }
+   ]
+  },
+  {
+   "id": "9-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-48",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "我們應該學習空性",
+     "evidence": "Academic: therefore one should meditate on/cultivate (修習) emptiness; 'learn' loses the meditation sense and is inconsistent with 9-53/9-54.",
+     "fix": "因此，我們應該好好修習空性。"
+    }
+   ]
+  },
+  {
+   "id": "9-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-57",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "不是口水",
+     "evidence": "Tibetan bad kan / Academic 痰涎: phlegm, not saliva.",
+     "fix": "也不是痰。"
+    }
+   ]
+  },
+  {
+   "id": "9-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-61",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "那木頭應該也變成覺知了",
+     "evidence": "Academic: then wood too would be consciousness (would have awareness); 'wood becomes awareness' is odd.",
+     "fix": "那木頭也應該有覺知了。"
+    }
+   ]
+  },
+  {
+   "id": "9-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-63",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "doctrinal",
+     "severity": "minor",
+     "span": "就像同一個人，雖然可以被貼上名稱說是父親，也可以說是兒子，但這並不是他真實的樣子",
+     "evidence": "The father-and-son example is the opponent's analogy (one thing can have two roles), which Santideva rejects as mere imputation; the children's text presents it as his own supporting analogy without marking the opponent.",
+     "fix": "有人可能會說：同一個人可以是父親，也可以是兒子。可是這只是被貼上的名稱，並不是真實的樣子。"
+    }
+   ]
+  },
+  {
+   "id": "9-64",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,253 @@
+{
+ "batch": "batch-07",
+ "segments": [
+  {
+   "id": "5-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-56",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "अलग-अलग इच्छाओं",
+     "evidence": "Tibetan/academic: the desires of childish people that are mutually conflicting (phan tshun mi mthun); \"अलग-अलग\" loses the sense of conflict, and \"किसी ... इंसान\" makes it singular though the source speaks of many people.",
+     "fix": "मुझे नासमझ लोगों की आपस में टकराने वाली इच्छाओं से दुखी नहीं होना चाहिए।"
+    }
+   ]
+  },
+  {
+   "id": "5-57",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "इस सोचने वाले मन को एक जादू से बनी रचना की तरह हमेशा काबू में रखना चाहिए",
+     "evidence": "Academic: \"like a created/emanated form, without I\" - the simile describes being without a self-centred I; the children text instead makes the mind itself like a magical creation.",
+     "fix": "जादू से बनी रचना की तरह बिना किसी \"मैं\" के रहकर, इस सोचने वाले मन को हमेशा काबू में रखना चाहिए।"
+    }
+   ]
+  },
+  {
+   "id": "5-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-74",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "जो दूसरों को अच्छी सीख देते हैं",
+     "evidence": "Academic: (be) skilled in advising/instructing others, and receive respectfully the unasked beneficial words; the skill in advising is the practitioner's own quality. The children text turns it into a description of the people whose words are to be followed, dropping that instruction. \"मानो\" (obey) also stronger than \"ग्रहण करना\" (receive).",
+     "fix": "दूसरों को सीख देने में कुशल बनो, और जो बिना माँगे भलाई की बात बताए, उसकी बात आदर से सुनकर अपनाओ। हमेशा सबके विद्यार्थी बने रहो।"
+    }
+   ]
+  },
+  {
+   "id": "5-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-76",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "हाँ में हाँ मिलानी चाहिए",
+     "evidence": "Academic: when others' good qualities are described, one should rejoice/approve (anumodana, rjes su brjod). The idiom \"हाँ में हाँ मिलाना\" suggests flattering or going along, not sincerely rejoicing.",
+     "fix": "अगर कोई किसी की अच्छी खूबी बताए, तो उसकी बात से सहमत होकर ख़ुशी से वही बात दोहरानी चाहिए।"
+    }
+   ]
+  },
+  {
+   "id": "5-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-79",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "Academic lists the speech as heartfelt, trust-inspiring and well-connected (सुसंबद्ध, 'brel pa); the children text drops the \"well-connected / coherent\" quality.",
+     "fix": "बोलते समय दिल से, भरोसे के साथ, बात को जोड़कर और साफ़ कहनी चाहिए जो मन को अच्छी लगे।"
+    }
+   ]
+  },
+  {
+   "id": "5-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-81",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-84",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "दूर की सोचने वाले, करुणा से भरे हुए ने",
+     "evidence": "Source names no explicit agent (the far-seeing, compassionate one, i.e. the Buddha); for a child the sentence has no clear subject.",
+     "fix": "दूर की सोचने वाले, करुणा से भरे हुए बुद्ध ने इसके लिए मना किए गए काम करने की भी छूट दी है।"
+    }
+   ]
+  },
+  {
+   "id": "5-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-90",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-91",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,740 @@
+[
+ {
+  "id": "9-145",
+  "tibetan": "དངོས་པོ་ཡོད་པར་གྱུར་པ་ལ། ། རྒྱུ་ཡིས་དགོས་པ་ཅི་ཞིག་ཡོད། ། འོན་ཏེ་དེ་ནི་མེད་ན་ཡང་། ། རྒྱུ་ཡིས་དགོས་པ་ཅི་ཞིག་ཡོད། །",
+  "academic_translation": "For an entity that exists,\nWhat need is there for a cause?\nYet even if it does not exist,\nWhat need is there for a cause?",
+  "locked_terms": [
+   {
+    "tibetan": "དངོས་པོ",
+    "use": "thing"
+   },
+   {
+    "tibetan": "རྒྱུ",
+    "use": "cause"
+   }
+  ],
+  "translation": "If a thing already exists, why does it need a cause? But even if it does not exist, why does it need a cause?"
+ },
+ {
+  "id": "9-146",
+  "tibetan": "བྱེ་བ་བརྒྱ་ཕྲག་རྒྱུ་ཡིས་ཀྱང་། ། དངོས་པོ་མེད་པ་བསྒྱུར་དུ་མེད། ། གནས་སྐབས་དེ་དངོས་ཇི་ལྟར་ཡིན། ། དངོས་འགྱུར་གཞན་ཡང་གང་ཞིག་ཡིན། །",
+  "academic_translation": "Even by hundreds of millions of causes,\nA non-entity cannot be transformed.\nHow could that state be an entity?\nAnd what else could become an entity?",
+  "locked_terms": [
+   {
+    "tibetan": "རྒྱུ",
+    "use": "cause"
+   },
+   {
+    "tibetan": "དངོས་པོ་མེད་པ",
+    "use": "non-existent thing"
+   }
+  ],
+  "translation": "Even millions of causes cannot change a non-existent thing. How could a non-existent thing ever become real? And what else could become a thing?"
+ },
+ {
+  "id": "9-147",
+  "tibetan": "མེད་ཚེ་དངོས་ཡོད་སྲིད་མིན་ན། ། དངོས་པོ་ཡོད་པར་ནམ་ཞིག་འགྱུར། ། དངོས་པོ་སྐྱེས་པར་མ་གྱུར་པར། ། དངོས་མེད་དེ་ནི་འབྲལ་མི་འགྱུར། །",
+  "academic_translation": "If an entity cannot exist at the time of non-existence,\nWhen will it become an existent entity?\nWithout an entity having been produced,\nIt will not separate from that non-entity.",
+  "locked_terms": [
+   {
+    "tibetan": "དངོས་པོ",
+    "use": "thing"
+   },
+   {
+    "tibetan": "དངོས་མེད",
+    "use": "non-existent thing"
+   }
+  ],
+  "translation": "If a thing cannot exist when it does not exist, when will it ever become a thing? Until a thing is made, it cannot separate from being a non-existent thing."
+ },
+ {
+  "id": "9-148",
+  "tibetan": "དངོས་མེད་དང་ནི་མ་བྲལ་ན། ། དངོས་པོ་ཡོད་པའི་སྐབས་མི་སྲིད། ། དངོས་པོའང་མེད་པར་འགྱུར་མིན་ཏེ། ། རང་བཞིན་གཉིས་སུ་ཐལ་འགྱུར་ཕྱིར། །",
+  "academic_translation": "If it does not separate from non-entity,\nThere is no opportunity for an entity to exist.\nAn entity also does not become non-existent,\nBecause it would follow that it has two natures.",
+  "locked_terms": [
+   {
+    "tibetan": "དངོས་མེད",
+    "use": "non-existent thing"
+   },
+   {
+    "tibetan": "དངོས་པོ",
+    "use": "thing"
+   },
+   {
+    "tibetan": "རང་བཞིན",
+    "use": "nature"
+   }
+  ],
+  "translation": "If it does not separate from being a non-existent thing, there is no chance for a thing to exist. A thing also cannot become non-existent. If it did, it would have two natures."
+ },
+ {
+  "id": "9-149",
+  "tibetan": "དེ་ལྟར་འགག་པ་ཡོད་མིན་ཞིང་། ། དངོས་པོའང་ཡོད་མིན་དེ་ཡི་ཕྱིར། ། འགྲོ་བ་འདི་དག་ཐམས་ཅད་ནི། ། རྟག་ཏུ་མ་སྐྱེས་མ་འགགས་ཉིད། །",
+  "academic_translation": "Thus, there is no cessation,\nAnd there is also no entity; therefore,\nAll these wandering beings\nAre always unborn and unceasing.",
+  "locked_terms": [
+   {
+    "tibetan": "འགག་པ",
+    "use": "stopping"
+   },
+   {
+    "tibetan": "དངོས་པོ",
+    "use": "thing"
+   },
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   },
+   {
+    "tibetan": "མ་སྐྱེས་མ་འགགས",
+    "use": "never born and never ending"
+   }
+  ],
+  "translation": "So, there is no stopping, and there is no thing. Therefore, all these beings are always never born and never ending."
+ },
+ {
+  "id": "9-150",
+  "tibetan": "འགྲོ་བ་རྨི་ལམ་ལྟ་བུ་སྟེ། ། རྣམ་པར་དཔྱད་ན་ཆུ་ཤིང་འདྲ། ། མྱ་ངན་འདས་དང་མ་འདས་པའང་། ། དེ་ཉིད་དུ་ན་ཁྱད་པར་མེད། །",
+  "academic_translation": "Wandering beings are like a dream;\nWhen analyzed, they are like a plantain tree.\nEven between nirvāṇa and not passing into nirvāṇa,\nIn reality, there is no distinction.",
+  "locked_terms": [
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   },
+   {
+    "tibetan": "རྨི་ལམ",
+    "use": "dream"
+   },
+   {
+    "tibetan": "ཆུ་ཤིང",
+    "use": "banana tree"
+   },
+   {
+    "tibetan": "མྱ་ངན་འདས",
+    "use": "freedom from sorrow"
+   },
+   {
+    "tibetan": "དེ་ཉིད",
+    "use": "the way things really are"
+   }
+  ],
+  "translation": "Beings are like a dream. When we look closely, they are like a banana tree. In the way things really are, there is no difference between finding freedom from sorrow and not finding it."
+ },
+ {
+  "id": "9-151",
+  "tibetan": "དེ་ལྟར་སྟོང་པའི་དངོས་རྣམས་ལ། ། ཐོབ་པ་ཅི་ཡོད་ཤོར་ཅི་ཡོད། ། གང་གིས་རིམ་གྲོ་བྱས་པའམ། ། ཡོངས་སུ་བརྙས་པའང་ཅི་ཞིག་ཡོད། །",
+  "academic_translation": "Thus, regarding entities that are empty,\nWhat is there to gain and what is there to lose?\nIn being honored by anyone,\nOr being utterly despised, what is there?",
+  "locked_terms": [
+   {
+    "tibetan": "སྟོང་པ",
+    "use": "empty"
+   },
+   {
+    "tibetan": "དངོས",
+    "use": "thing"
+   }
+  ],
+  "translation": "Since things are empty, what is there to gain and what is there to lose? What does it matter if someone honors you or treats you badly?"
+ },
+ {
+  "id": "9-152",
+  "tibetan": "བདེ་བའང་སྡུག་བསྔལ་གང་ལས་ཡིན། ། མི་དགར་ཅི་ཡོད་དགར་ཅི་ཡོད། ། དེ་ཉིད་དུ་ནི་བཙལ་བྱས་ན། ། གང་ཞིག་སྲེད་ཅིང་གང་ལ་སྲེད། །",
+  "academic_translation": "From what do happiness and suffering arise?\nWhat is there to be displeased about, what is there to be pleased about?\nWhen searched for in reality,\nWho is craving, and for what are they craving?",
+  "locked_terms": [
+   {
+    "tibetan": "བདེ་བ",
+    "use": "happiness"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "དེ་ཉིད",
+    "use": "the way things really are"
+   },
+   {
+    "tibetan": "སྲེད",
+    "use": "wanting"
+   }
+  ],
+  "translation": "Where do happiness and suffering come from? What is there to be upset or happy about? If I look for the way things really are, who is wanting? And what are they wanting?"
+ },
+ {
+  "id": "9-153",
+  "tibetan": "དཔྱད་ན་གསོན་པོའི་འཇིག་རྟེན་འདི། ། གང་ཞིག་འདིར་ནི་འཆི་འགྱུར་ཏེ། ། འབྱུང་འགྱུར་གང་ཡིན་བྱུང་གྱུར་གང་། ། གཉེན་དང་བཤེས་ཀྱང་གང་ཞིག་ཡིན། །",
+  "academic_translation": "When analyzed, in this world of the living,\nWho is it that will die here?\nWhat will come to be, and what has been?\nAnd who is a relative, and who is a friend?",
+  "locked_terms": [
+   {
+    "tibetan": "འཇིག་རྟེན",
+    "use": "world"
+   }
+  ],
+  "translation": "If I look closely at this world of living beings, who will die here? What will happen, and what has happened? Who is a relative, and who is a friend?"
+ },
+ {
+  "id": "9-154",
+  "tibetan": "ཐམས་ཅད་ནམ་མཁའ་འདྲ་བར་ནི། ། བདག་འདྲས་ཡོངས་སུ་གཟུང་བར་གྱིས། ། བདག་ཉིད་བདེ་བར་འདོད་རྣམས་ནི། ། འཐབ་དང་སྤྲོ་བའི་རྒྱུ་དག་གིས། །",
+  "academic_translation": "May those like me completely grasp\nThat everything is like space.\nThose who desire happiness for themselves,\nThrough causes of conflict and excitement,",
+  "locked_terms": [
+   {
+    "tibetan": "ནམ་མཁའ",
+    "use": "space"
+   }
+  ],
+  "translation": "I hope people like me completely understand that everything is like space. People who want happiness for themselves find causes for fighting and excitement."
+ },
+ {
+  "id": "9-155",
+  "tibetan": "རབ་ཏུ་འཁྲུག་དང་དགའ་བར་བྱེད། ། མྱ་ངན་འབད་རྩོལ་རྩོད་པ་དང་། ། ཕན་ཚུན་གཅོད་དང་འབིགས་པ་དང་། ། སྡིག་དག་གིས་ནི་ཚེགས་ཆེན་འཚོ། །",
+  "academic_translation": "Become greatly agitated and delighted.\nWith grief, exertion, and dispute,\nMutually cutting and piercing one another,\nAnd through misdeeds, they live in great hardship.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡིག",
+    "use": "harmful deed"
+   }
+  ],
+  "translation": "They get very upset and very happy. With sadness, hard work, and arguing, they cut and pierce each other. Through harmful deeds, they live a very hard life."
+ },
+ {
+  "id": "9-156",
+  "tibetan": "བདེ་འགྲོར་ཡང་དང་ཡང་འོངས་ཏེ། ། བདེ་བ་མང་པོ་སྤྱད་སྤྱད་ནས། ། ཤི་ནས་ངན་སོང་སྡུག་བསྔལ་ནི། ། ཡུན་རིང་མི་བཟད་རྣམས་སུ་ལྟུང་། །",
+  "academic_translation": "Having come again and again to happy realms,\nAnd having enjoyed much happiness,\nAfter dying, they fall into the sufferings\nOf the lower realms, which are long-lasting and unbearable.",
+  "locked_terms": [
+   {
+    "tibetan": "བདེ་འགྲོ",
+    "use": "happy realm"
+   },
+   {
+    "tibetan": "ངན་སོང",
+    "use": "unhappy realm"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "They come to happy realms again and again, enjoying a lot of happiness. But after they die, they fall into the sufferings of the unhappy realms. These sufferings are terrible and last a very long time."
+ },
+ {
+  "id": "9-157",
+  "tibetan": "སྲིད་པ་ན་ནི་གཡང་ས་མང་། ། དེར་ནི་དེ་ཉིད་མིན་འདི་འདྲ། ། དེར་ཡང་ཕན་ཚུན་འགལ་བས་ན། ། སྲིད་ན་དེ་ཉིད་འདི་འདྲ་མེད། །",
+  "academic_translation": "In existence, there are many precipices,\nAnd there, what is not reality is like this.\nBecause there is also mutual contradiction there,\nIn existence, there is no such reality.",
+  "locked_terms": [
+   {
+    "tibetan": "སྲིད་པ",
+    "use": "life"
+   },
+   {
+    "tibetan": "དེ་ཉིད",
+    "use": "the way things really are"
+   }
+  ],
+  "translation": "In life, there are many steep cliffs. There, what is not the way things really are is like this. Because things clash with each other there, in life there is no such thing as the way things really are."
+ },
+ {
+  "id": "9-158",
+  "tibetan": "དེ་ཡང་དཔེ་མེད་མི་བཟད་པའི། ། སྡུག་བསྔལ་རྒྱ་མཚོ་མཐའ་ལས་འདས། ། དེར་ནི་དེ་ལྟར་སྟོབས་ཆུང་ཞིང་། ། དེར་ནི་ཚེ་ཡང་ཐུང་བ་ཉིད། །",
+  "academic_translation": "There too, the incomparable, unbearable\nOcean of suffering is boundless.\nThere, one thus has little strength,\nAnd there, the lifespan is also short.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ་རྒྱ་མཚོ",
+    "use": "ocean of suffering"
+   }
+  ],
+  "translation": "In that place, the ocean of suffering is huge and too hard to bear. It has no edge. There, people have very little strength, and their lives are short."
+ },
+ {
+  "id": "9-159",
+  "tibetan": "དེར་ཡང་གསོན་དང་ནད་མེད་ཀྱི། ། བྱེད་དང་བཀྲེས་ནའི་ངལ་བ་དང་། ། གཉིད་དང་འཚེ་དང་དེ་བཞིན་དུ། ། བྱིས་དང་འགྲོགས་པ་དོན་མེད་ཀྱིས། །",
+  "academic_translation": "Even there, through activities for survival\nAnd health, the weariness of hunger,\nSleep, harm, and likewise\nMeaningless association with childish persons,",
+  "locked_terms": [
+   {
+    "tibetan": "བྱིས",
+    "use": "foolish person"
+   }
+  ],
+  "translation": "Even there, we spend our time just trying to stay alive and healthy. We get tired from hunger, sleep, and being hurt. We also waste time with foolish persons."
+ },
+ {
+  "id": "9-160",
+  "tibetan": "ཚེ་ནི་དོན་མེད་མྱུར་འདའ་ཡི། ། རྣམ་དཔྱོད་ཤིན་ཏུ་རྙེད་པར་དཀའ། ། དེར་ཡང་རྣམ་གཡེང་གོམས་པ་ནི། ། བཟློག་པའི་ཐབས་ནི་ག་ལ་ཡོད། །",
+  "academic_translation": "Life passes quickly and meaninglessly,\nAnd analysis is extremely hard to find.\nEven there, as for habituation to distraction,\nWhere is the means to reverse it?",
+  "locked_terms": [
+   {
+    "tibetan": "རྣམ་དཔྱོད",
+    "use": "careful thinking"
+   },
+   {
+    "tibetan": "རྣམ་གཡེང",
+    "use": "distraction"
+   }
+  ],
+  "translation": "Life passes by fast and has no meaning. Careful thinking is very hard to find. Since we are so used to distraction there, how can we ever stop it?"
+ },
+ {
+  "id": "9-161",
+  "tibetan": "དེར་ཡང་ངན་སོང་ཆེན་པོར་ནི། ། ལྟུང་ཕྱིར་བདུད་ནི་བརྩོན་པར་བྱེད། ། དེར་ནི་ལོག་པའི་ལམ་མང་ཞིང་། ། ཐེ་ཚོམ་ལས་ཀྱང་བརྒལ་དཀའ་སྟེ། །",
+  "academic_translation": "Even there, into the great lower realm,\nMāra exerts himself to make one fall.\nThere, wrong paths are many,\nAnd it is hard to overcome even doubt.",
+  "locked_terms": [
+   {
+    "tibetan": "ངན་སོང་ཆེན་པོ",
+    "use": "great unhappy realm"
+   },
+   {
+    "tibetan": "བདུད",
+    "use": "Mara"
+   },
+   {
+    "tibetan": "ལོག་པའི་ལམ",
+    "use": "wrong path"
+   },
+   {
+    "tibetan": "ཐེ་ཚོམ",
+    "use": "doubt"
+   }
+  ],
+  "translation": "Even there, Mara works hard to make us fall into the great unhappy realm. There are many wrong paths, and it is hard to overcome even doubt."
+ },
+ {
+  "id": "9-162",
+  "tibetan": "སླར་ཡང་དལ་བ་རྙེད་དཀའ་ཞིང་། ། སངས་རྒྱས་འབྱུང་རྙེད་ཤིན་ཏུ་དཀའ། ། ཉོན་མོངས་ཆུ་བོ་སྤང་དཀའ་སྟེ། ། ཨེ་མ་སྡུག་བསྔལ་བརྒྱུད་པར་འགྱུར། །",
+  "academic_translation": "Once again, leisure is hard to find,\nAnd a Buddha's appearance is extremely hard to find.\nThe river of afflictions is hard to abandon;\nAlas, suffering will continue in succession!",
+  "locked_terms": [
+   {
+    "tibetan": "དལ་བ",
+    "use": "freedom to practice"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "ཉོན་མོངས་ཆུ་བོ",
+    "use": "river of troubling emotions"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "Once again, the freedom to practice is hard to find. It is very hard to find a time when a Buddha appears. The river of troubling emotions is hard to leave behind. Sadly, suffering will just keep going on and on!"
+ },
+ {
+  "id": "9-163",
+  "tibetan": "དེ་ལྟར་ཤིན་ཏུ་སྡུག་བསྔལ་ཡང་། ། རང་སྡུག་མི་མཐོང་གང་ཡིན་པ། ། སྡུག་བསྔལ་ཆུ་བོར་གནས་འདི་དག ། ཀྱི་ཧུད་མྱ་ངན་བྱ་བར་འོས། །",
+  "academic_translation": "Even though they are thus in extreme suffering,\nThose who do not see their own suffering—\nThese beings dwelling in the river of suffering,\nAlas, are worthy of lamentation!",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ་ཆུ་བོ",
+    "use": "river of suffering"
+   }
+  ],
+  "translation": "Even though they suffer so much, some beings do not see their own pain. We should feel very sad for those who live in the river of suffering!"
+ },
+ {
+  "id": "9-164",
+  "tibetan": "དཔེར་ན་འགའ་ཞིག་ཡང་ཡང་ཁྲུས། ། བྱས་ཏེ་ཡང་ཡང་མེར་འཇུག་པ། ། དེ་ལྟར་ཤིན་ཏུ་སྡུག་བསྔལ་བར། ། གནས་ཀྱང་བདག་ཉིད་བདེར་རློམ་བཞིན། །",
+  "academic_translation": "For example, just as some bathe again and again\nAnd then repeatedly enter a fire,\nLikewise, although dwelling in extreme suffering,\nThey pride themselves on being happy.",
+  "locked_terms": [],
+  "translation": "For example, some people wash themselves again and again, but then walk right back into a fire. In the same way, some people live in terrible pain but still think they are happy."
+ },
+ {
+  "id": "9-165",
+  "tibetan": "དེ་ལྟར་རྒ་དང་འཆི་མེད་པ། ། བཞིན་དུ་སྤྱོད་པས་གནས་རྣམས་ལ། ། དང་པོ་ཉིད་དུ་བསད་བྱས་ནས། ། ངན་སོང་ལྟུང་བ་མི་བཟད་འོང་། །",
+  "academic_translation": "Thus, for those who abide acting\nAs if there were no aging and death,\nFirst of all, they will be killed,\nAnd then the unbearable fall into the lower realms will come.",
+  "locked_terms": [
+   {
+    "tibetan": "རྒ་དང་འཆི",
+    "use": "growing old and dying"
+   },
+   {
+    "tibetan": "ངན་སོང",
+    "use": "unhappy realm"
+   }
+  ],
+  "translation": "Some people act as if there is no growing old and dying. First they will be killed. Then they will take a terrible fall into an unhappy realm."
+ },
+ {
+  "id": "9-166",
+  "tibetan": "དེ་ལྟར་སྡུག་བསྔལ་མེས་གདུངས་ལ། ། བསོད་ནམས་སྤྲིན་ལས་ལེགས་འཁྲུངས་པའི། ། རང་གི་བདེ་བའི་ཚོགས་ཆར་གྱིས། ། ཞི་བྱེད་པར་བདག་ནམ་ཞིག་འགྱུར། །",
+  "academic_translation": "Thus, for those tormented by the fire of suffering,\nWell-arisen from the clouds of merit—\nWith a rain of my own accumulation of happiness—\nWhen will I pacify them?",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ་མེ",
+    "use": "fire of suffering"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "store of goodness"
+   },
+   {
+    "tibetan": "བདེ་བ",
+    "use": "happiness"
+   }
+  ],
+  "translation": "When will I use a rain of my own happiness to bring peace to those burning in the fire of suffering? This rain will fall from clouds made of my store of goodness."
+ },
+ {
+  "id": "9-167",
+  "tibetan": "ནམ་ཞིག་དམིགས་པ་མེད་ཚུལ་དུ། ། གུས་པས་བསོད་ནམས་ཚོགས་བསགས་ཏེ། ། དམིགས་པས་ཕུང་བར་འགྱུར་རྣམས་ལ། ། སྟོང་པ་ཉིད་ནི་སྟོན་པར་འགྱུར། །",
+  "academic_translation": "When, in the manner of non-apprehension,\nHaving respectfully gathered the accumulation of merit,\nTo those who are ruined by apprehension,\nWill I teach emptiness?",
+  "locked_terms": [
+   {
+    "tibetan": "བསོད་ནམས་ཚོགས",
+    "use": "gathered store of goodness"
+   },
+   {
+    "tibetan": "དམིགས་པ་མེད",
+    "use": "not fixing on anything"
+   },
+   {
+    "tibetan": "དམིགས་པ",
+    "use": "fixing on something"
+   },
+   {
+    "tibetan": "སྟོང་པ་ཉིད",
+    "use": "emptiness"
+   }
+  ],
+  "translation": "When will I respectfully build up my gathered store of goodness while not fixing on anything? And when will I teach emptiness to those who are ruined by fixing on something?"
+ },
+ {
+  "id": "9-a",
+  "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ལས། ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་ལེའུ་སྟེ་དགུ་པའོ།། །།",
+  "academic_translation": "From Entering the Way of the Bodhisattva, the ninth chapter, the Perfection of Wisdom.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ",
+    "use": "Entering the Way of the Awakening Hero"
+   },
+   {
+    "tibetan": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+    "use": "Perfection of Wisdom"
+   }
+  ],
+  "translation": "From Entering the Way of the Awakening Hero, this is the ninth chapter, called the Perfection of Wisdom."
+ },
+ {
+  "id": "10-1",
+  "tibetan": "བདག་གིས་བྱང་ཆུབ་སྤྱོད་པ་ལ། ། འཇུག་པ་རྣམ་པར་བརྩམས་པ་ཡི། ། དགེ་བ་གང་དེས་འགྲོ་བ་ཀུན། ། བྱང་ཆུབ་སྤྱོད་ལ་འཇུག་པར་ཤོག །",
+  "academic_translation": "In my having composed\nEngaging in the Conduct of Awakening,\nThrough whatever virtue there is, may all wandering beings\nEngage in the conduct of awakening.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སྤྱོད་པ",
+    "use": "way of acting for awakening"
+   },
+   {
+    "tibetan": "དགེ་བ",
+    "use": "good deed"
+   },
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   }
+  ],
+  "translation": "I have written this book about the way of acting for awakening. By this good deed, may every being begin the way of acting for awakening."
+ },
+ {
+  "id": "10-2",
+  "tibetan": "ཕྱོགས་རྣམས་ཀུན་ན་ལུས་དང་སེམས། ། སྡུག་བསྔལ་ནད་པ་ཇི་སྙེད་པ། ། དེ་དག་བདག་གི་བསོད་ནམས་ཀྱིས། ། བདེ་དགའ་རྒྱ་མཚོ་ཐོབ་པར་ཤོག །",
+  "academic_translation": "In all directions, however many there are\nSick with the suffering of body and mind,\nMay they, through my merit,\nAttain an ocean of happiness and joy.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "store of goodness"
+   }
+  ],
+  "translation": "There are beings everywhere sick with suffering in their bodies and minds. By my store of goodness, may they find an ocean of happiness and joy."
+ },
+ {
+  "id": "10-3",
+  "tibetan": "དེ་དག་འཁོར་བ་ཇི་སྲིད་དུ། ། ནམ་ཡང་བདེ་ལས་ཉམས་མ་གྱུར། ། འགྲོ་བས་བྱང་ཆུབ་སེམས་དཔའ་ཡི། ། བདེ་བ་རྒྱུན་མི་འཆད་ཐོབ་ཤོག །",
+  "academic_translation": "For as long as they remain in saṃsāra,\nMay they never decline from happiness.\nMay wandering beings attain a bodhisattva's\nUninterrupted happiness.",
+  "locked_terms": [
+   {
+    "tibetan": "འཁོར་བ",
+    "use": "cycle of rebirth"
+   },
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   }
+  ],
+  "translation": "As long as they remain in the cycle of rebirth, may they never lose their happiness. May every being reach the unbroken happiness of an awakening hero."
+ },
+ {
+  "id": "10-4",
+  "tibetan": "འཇིག་རྟེན་ཁམས་ན་དམྱལ་བ་དག ། གང་དག་ཇི་སྙེད་ཡོད་པ་རྣམས། ། དེ་དག་ཏུ་ནི་ལུས་ཅན་རྣམས། ། བདེ་ཅན་བདེ་བས་དགའ་བར་ཤོག །",
+  "academic_translation": "In the world systems, the hells,\nHowever many there are,\nIn them, may embodied beings\nRejoice with the happiness of Sukhavati.",
+  "locked_terms": [
+   {
+    "tibetan": "འཇིག་རྟེན་ཁམས",
+    "use": "world realm"
+   },
+   {
+    "tibetan": "དམྱལ་བ",
+    "use": "hell"
+   },
+   {
+    "tibetan": "ལུས་ཅན",
+    "use": "being with a body"
+   },
+   {
+    "tibetan": "བདེ་ཅན",
+    "use": "Sukhavati"
+   }
+  ],
+  "translation": "There are many hells in the world realms. May every being with a body there rejoice with the happiness of Sukhavati."
+ },
+ {
+  "id": "10-5",
+  "tibetan": "གྲང་བས་ཉམ་ཐག་དྲོ་ཐོབ་ཤོག ། བྱང་ཆུབ་སེམས་དཔའི་སྤྲིན་ཆེན་ལས། ། བྱུང་བའི་ཆུ་བོ་མཐའ་ཡས་ཀྱིས། ། ཚ་བས་ཉམ་ཐག་བསིལ་བར་ཤོག །",
+  "academic_translation": "May those tormented by cold attain warmth.\nFrom the great clouds of the bodhisattvas,\nThrough the boundless rivers that have arisen,\nMay those tormented by heat be cooled.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   }
+  ],
+  "translation": "May those hurt by cold find warmth. Endless rivers flow from the great clouds of the awakening heroes. May those rivers cool everyone hurt by heat."
+ },
+ {
+  "id": "10-6",
+  "tibetan": "རལ་གྲི་ལོ་མའི་ནགས་ཚལ་ཡང་། ། དེ་ལ་ཙནྡན་ནགས་སྟུག་ཤོག ། ཤལ་མ་རི་ཡི་སྡོང་པོ་ཡང་། ། དཔག་བསམ་ཤིང་དུ་འཁྲུངས་པར་ཤོག །",
+  "academic_translation": "May the forest of sword-leaves also\nBecome a dense sandalwood forest for them.\nMay the trunks of the śālmali trees also\nGrow into wish-fulfilling trees.",
+  "locked_terms": [
+   {
+    "tibetan": "རལ་གྲི་ལོ་མའི་ནགས་ཚལ",
+    "use": "forest of sword leaves"
+   },
+   {
+    "tibetan": "ཤལ་མ་རི",
+    "use": "Shalmali"
+   },
+   {
+    "tibetan": "དཔག་བསམ་ཤིང",
+    "use": "wish-granting tree"
+   }
+  ],
+  "translation": "May the forest of sword leaves become a thick sandalwood forest for them. May the trunks of the Shalmali trees also grow into wish-granting trees."
+ },
+ {
+  "id": "10-7",
+  "tibetan": "འཐིང་རིལ་ངུར་པ་དག་དང་ངང་པ་དང་། ། བཞད་སོགས་སྐད་སྙན་འབྱིན་པས་མཛེས་གྱུར་ཅིག ། པདྨ་དྲི་བསུང་ཆེ་ལྡན་མཚོ་དག་གིས། ། དམྱལ་བའི་ས་ཕྱོགས་དག་ནི་ཉམས་དགར་ཤོག །",
+  "academic_translation": "May they be beautified by the sweet calls\nOf waterfowl, ruddy geese, swans, cranes, and so forth,\nAnd may the regions of hell become delightful\nWith lakes possessing greatly fragrant lotuses.",
+  "locked_terms": [
+   {
+    "tibetan": "དམྱལ་བ",
+    "use": "hell"
+   }
+  ],
+  "translation": "May sweet songs of water birds like swans and geese make these places beautiful. May the regions of hell become wonderful. May they have lakes filled with sweet-smelling lotus flowers."
+ },
+ {
+  "id": "10-8",
+  "tibetan": "སོལ་ཕུང་དེ་དག་རིན་ཆེན་ཕུང་པོར་གྱུར། ། ས་བསྲེགས་ཤེལ་གྱི་ས་གཞི་བསྟར་བར་ཤོག ། བསྡུས་འཇོམས་རི་བོ་རྣམས་ཀྱང་མཆོད་པ་ཡི། ། གཞལ་མེད་ཁང་གྱུར་བདེ་གཤེགས་གང་བར་ཤོག །",
+  "academic_translation": "May those heaps of coals become heaps of jewels,\nMay the scorched earth become a leveled crystal floor,\nAnd may the mountains of the Crushing Hell also become\nCelestial palaces of offerings, filled with Sugatas.",
+  "locked_terms": [
+   {
+    "tibetan": "བསྡུས་འཇོམས",
+    "use": "Crushing Hell"
+   },
+   {
+    "tibetan": "བདེ་གཤེགས",
+    "use": "Well-Gone One"
+   },
+   {
+    "tibetan": "མཆོད་པ",
+    "use": "offering"
+   },
+   {
+    "tibetan": "གཞལ་མེད་ཁང",
+    "use": "heavenly palace"
+   }
+  ],
+  "translation": "May the heaps of hot coals become heaps of jewels. May the burned ground become a smooth floor of crystal. May the mountains of the Crushing Hell become heavenly palaces of offerings. May they be filled with Well-Gone Ones."
+ },
+ {
+  "id": "10-9",
+  "tibetan": "མདག་མ་རྡོ་བསྲེགས་མཚོན་གྱི་ཆར་པ་དག ། དེང་ནས་བཟུང་སྟེ་མེ་ཏོག་ཆར་པར་གྱུར། ། ཕན་ཚུན་མཚོན་གྱིས་འདེབས་པ་དེ་ཡང་ནི། ། དེང་ནས་རྩེ་ཕྱིར་མེ་ཏོག་འཕེན་པར་ཤོག །",
+  "academic_translation": "May the rain of embers, burning stones, and weapons\nFrom now on become a rain of flowers,\nAnd may that striking of one another with weapons\nFrom now on become a tossing of flowers in play.",
+  "locked_terms": [],
+  "translation": "May the rain of hot coals, burning stones, and weapons become a rain of flowers. Instead of striking each other with weapons, may they now toss flowers at each other in play."
+ },
+ {
+  "id": "10-10",
+  "tibetan": "ཆུ་བོ་རབ་མེད་མེ་དོང་འདྲ་ནང་བྱིང་བ་དག ། ཤ་ཀུན་ཞིག་གྱུར་རུས་གོང་མེ་ཏོག་ཀུནྡའི་མདོག ། བདག་གི་དགེ་བའི་སྟོབས་ཀྱིས་ལྷ་ཡི་ལུས་ཐོབ་ནས། ། ལྷ་མོ་རྣམས་དང་ལྷན་ཅིག་དལ་གྱིས་འབབ་གནས་ཤོག །",
+  "academic_translation": "May those submerged in the unfordable river that is like a fire pit,\nTheir flesh all destroyed and their bones the color of kunda flowers,\nBy the power of my virtue attain the bodies of gods,\nAnd abide together with goddesses in the gently flowing river.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆུ་བོ་རབ་མེད",
+    "use": "river that cannot be crossed"
+   },
+   {
+    "tibetan": "དགེ་བ",
+    "use": "good deed"
+   },
+   {
+    "tibetan": "ལྷ་མོ",
+    "use": "goddess"
+   },
+   {
+    "tibetan": "ལྷ",
+    "use": "god"
+   }
+  ],
+  "translation": "Some beings are trapped in a fiery river that cannot be crossed. Their flesh is gone and their bones are the color of kunda flowers. By the power of my good deeds, may they get the bodies of gods. May they live with goddesses in a gently flowing river."
+ },
+ {
+  "id": "10-11",
+  "tibetan": "ཅི་ཕྱིར་འདིར་ནི་གཤིན་རྗེའི་མི་དང་ཁྭ་དང་བྱ་རྒོད་མི་བཟད་རྣམས་སྐྲག་བྱེད། ། ཀུན་ནས་མུན་བསལ་བདེ་དགའ་བསྐྱེད་པའི་མཐུ་བཟང་འདི་ཀོ་སུ་ཡི་མཐུ་སྙམ་སྟེ། ། གྱེན་དུ་བལྟས་ན་ནམ་མཁའི་དཀྱིལ་ན་ཕྱག་ན་རྡོ་རྗེ་འབར་བ་བཞུགས་མཐོང་ནས། ། རབ་ཏུ་དགའ་བའི་ཤུགས་ཀྱིས་སྡིག་དང་བྲལ་ནས་དེ་དང་ལྷན་ཅིག་འགྲོགས་པར་ཤོག །",
+  "academic_translation": "\"Why are the men of Yama, and the unbearable crows and vultures terrified here?\nWhose noble power is this that dispels darkness everywhere and generates bliss and joy?\"\nThinking thus, looking upward, and seeing the blazing Vajrapāṇi residing in the midst of the sky,\nFreed from misdeeds by the force of intense joy, may they accompany him.",
+  "locked_terms": [
+   {
+    "tibetan": "གཤིན་རྗེ",
+    "use": "Yama"
+   },
+   {
+    "tibetan": "ཕྱག་ན་རྡོ་རྗེ",
+    "use": "Vajrapani"
+   },
+   {
+    "tibetan": "སྡིག",
+    "use": "harmful deed"
+   }
+  ],
+  "translation": "\"Why are the men of Yama and the terrible crows and vultures so afraid? Whose great power chases away the dark and brings joy?\" Thinking this, they look up and see blazing Vajrapani in the sky. May great joy free them from their harmful deeds. May they go with him."
+ },
+ {
+  "id": "10-12",
+  "tibetan": "མེ་ཏོག་ཆར་པ་སྤོས་ཆུ་དང་འདྲེས་བབས་པ་ཡིས། ། དམྱལ་བའི་མེ་མདག་ཆིལ་ཆིལ་གསོད་པར་མཐོང་གྱུར་ནས། ། གློ་བུར་བདེ་བས་ཚིམ་པ་འདི་ཅི་བསམ་པ་དང་། ། སེམས་དམྱལ་རྣམས་ཀྱིས་ཕྱག་ན་པདྨ་མཐོང་བར་ཤོག །",
+  "academic_translation": "By the falling of a rain of flowers mixed with scented water,\nSeeing the fires and embers of hell extinguished with a hiss,\nAnd thinking, \"What is this sudden satisfaction with bliss?\"\nMay the hell beings behold Padmapāṇi.",
+  "locked_terms": [
+   {
+    "tibetan": "དམྱལ་བ",
+    "use": "hell"
+   },
+   {
+    "tibetan": "སེམས་དམྱལ",
+    "use": "hell being"
+   },
+   {
+    "tibetan": "ཕྱག་ན་པདྨ",
+    "use": "Padmapani"
+   }
+  ],
+  "translation": "A rain of flowers and sweet-smelling water falls. The fires and hot coals of hell go out with a hiss. Wondering, \"Where does this sudden happiness come from?\" may the hell beings look up and see Padmapani."
+ },
+ {
+  "id": "10-13",
+  "tibetan": "གྲོགས་དག་འཇིགས་པ་བོར་ལ་རིངས་པར་ཚུར་ཤོག་འུ་བུའི་ཐད་དུ་ནི། ། གང་གི་མཐུ་ཡིས་སྡུག་བསྔལ་ཀུན་བྲལ་དགའ་བའི་ཤུགས་ཕྱིན་ལ། ། འགྲོ་བ་ཀུན་ནས་ཡོངས་སྐྱོབ་བྱང་ཆུབ་སེམས་དང་བརྩེ་བ་སྐྱེས་གྱུར་པ། ། གཞོན་ནུ་ཟུར་ཕུད་ཅན་འབར་འཇིགས་པ་མེད་པར་བྱེད་པ་ཅི་ཞིག་ཕྱིན། །",
+  "academic_translation": "\"Friends, cast away fear and come quickly here to us!\nBy whose power we are freed from all suffering and the force of joy arrives,\nHe who thoroughly protects all wandering beings, who has given rise to bodhicitta and affection—\nWho is this blazing youth with a topknot who arrives to make us fearless?\"",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས",
+    "use": "awakening mind"
+   },
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   },
+   {
+    "tibetan": "གཞོན་ནུ་ཟུར་ཕུད་ཅན",
+    "use": "boy with a topknot"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "བརྩེ་བ",
+    "use": "compassion"
+   }
+  ],
+  "translation": "\"Friends, throw away your fear and come quickly to us! His power frees us from all suffering and brings us joy. He protects all beings. He has the awakening mind and compassion. Who is this glowing boy with a topknot coming to make us fearless?\""
+ },
+ {
+  "id": "10-14",
+  "tibetan": "ཁྱོད་ཀྱི་ལྷ་བརྒྱའི་ཅོད་པན་དག་གིས་ཞབས་ཀྱི་པདྨ་ལ་མཆོད་ཅིང་། ། ཐུགས་རྗེས་བརླན་སྤྱན་དབུ་ལ་མེ་ཏོག་དུ་མའི་ཚོགས་ཀྱིས་ཆར་འབབ་པ། ། ཁང་བརྩེགས་ཡིད་འོང་ལྷ་མོ་སྟོང་ཕྲག་བསྟོད་དབྱངས་སྒྲོགས་ལྡན་འདི་ལྟོས་ཞེས། ། འཇམ་དབྱངས་དེ་འདྲ་མཐོང་ནས་ད་ནི་སེམས་དམྱལ་ཅ་ཅོ་འདོན་པར་ཤོག །",
+  "academic_translation": "\"You, look at this one whose lotus feet the crowns of a hundred gods worship,\nWhose eyes are moistened with compassion, and upon whose head a rain of multitudes of flowers falls,\nEndowed with delightful tiered palaces and thousands of goddesses proclaiming songs of praise!\"\nUpon seeing Mañjuśrī like this, may the hell beings now cry out in joy.",
+  "locked_terms": [
+   {
+    "tibetan": "ལྷ་མོ",
+    "use": "goddess"
+   },
+   {
+    "tibetan": "འཇམ་དབྱངས",
+    "use": "Manjushri"
+   },
+   {
+    "tibetan": "སེམས་དམྱལ",
+    "use": "hell being"
+   },
+   {
+    "tibetan": "ཐུགས་རྗེ",
+    "use": "compassion"
+   },
+   {
+    "tibetan": "ལྷ",
+    "use": "god"
+   }
+  ],
+  "translation": "\"Look at him! The crowns of a hundred gods bow to his feet. His eyes are wet with compassion, and a rain of flowers falls on his head. He has beautiful palaces and thousands of goddesses singing his praise!\" When they see Manjushri like this, may the hell beings shout with joy."
+ },
+ {
+  "id": "10-15",
+  "tibetan": "དེ་ལྟར་བདག་གི་དགེ་རྩས་ཀུན་དུ་བཟང་ལ་སོགས། ། བྱང་ཆུབ་སེམས་དཔའ་སྒྲིབ་པ་མེད་སྤྲིན་བདེ་བ་དང་། ། བསིལ་ཞིང་དྲི་ཞིམ་དང་ལྡན་ཆར་པ་འབེབས་མཐོང་ནས། ། སེམས་ཅན་དམྱལ་བ་དེ་དག་མངོན་པར་དགའ་གྱུར་ཅིག །",
+  "academic_translation": "Likewise, by my roots of virtue, upon seeing Samantabhadra and other\nBodhisattvas' unobstructed clouds, and the blissful,\nCool, fragrant rain they let fall,\nMay those sentient beings of hell become manifestly joyful.",
+  "locked_terms": [
+   {
+    "tibetan": "དགེ་རྩ",
+    "use": "root of good deeds"
+   },
+   {
+    "tibetan": "ཀུན་དུ་བཟང",
+    "use": "Samantabhadra"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "དམྱལ་བ",
+    "use": "hell"
+   }
+  ],
+  "translation": "Through my roots of good deeds, may the living beings of hell see Samantabhadra and other awakening heroes. These heroes bring happy clouds and let a cool, sweet-smelling rain fall. When the living beings see this, may they be filled with joy."
+ },
+ {
+  "id": "10-16",
+  "tibetan": "དུད་འགྲོ་རྣམས་ནི་གཅིག་ལ་གཅིག ། ཟ་བའི་འཇིགས་དང་བྲལ་བར་ཤོག ། སྒྲ་མི་སྙན་པའི་མི་བཞིན་དུ། ། ཡི་དྭགས་རྣམས་ནི་བདེ་བར་གྱུར། །",
+  "academic_translation": "May animals be freed\nFrom the fear of eating one another,\nAnd just like the humans of Uttarakuru,\nMay the hungry ghosts become happy.",
+  "locked_terms": [
+   {
+    "tibetan": "དུད་འགྲོ",
+    "use": "animal"
+   },
+   {
+    "tibetan": "སྒྲ་མི་སྙན་པ",
+    "use": "Uttarakuru"
+   },
+   {
+    "tibetan": "ཡི་དྭགས",
+    "use": "hungry ghost"
+   }
+  ],
+  "translation": "May animals be free from the fear of eating each other. Just like the people of Uttarakuru, may the hungry ghosts be happy."
+ }
+]

@@ -1,0 +1,218 @@
+{
+ "1-20": {
+  "translation": "The Thus-Gone One himself explained this. He gave the reasons for it in the teaching called the Question of Subahu. He said this to help living beings who are just starting out.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "living beings who are just starting out",
+    "evidence": "Academic: \"for sentient beings with lesser inclinations\" (less capacity or aspiration), not beginners.",
+    "fix": "He said this to help living beings whose wishes are still small."
+   }
+  ]
+ },
+ "2-55": {
+  "translation": "Just one of these faults can destroy all the people living in Jambudvipa. No other medicine can cure them. We cannot find a cure anywhere at all.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "Just one of these faults can destroy all the people living in Jambudvipa. No other medicine can cure them. We cannot find a cure anywhere at all.",
+    "evidence": "The verse is a hypothetical ('If even just one of them... destroys all the people... and no other medicine can be found'), leading into the next verse. The children's text states it as fact, so it claims there is no cure anywhere.",
+    "fix": "Imagine that just one of these illnesses could destroy all the people living in Jambudvipa, and no medicine to cure them could be found anywhere."
+   }
+  ]
+ },
+ "4-37": {
+  "translation": "In battle, soldiers fight enemies who will die a natural death anyway. These soldiers ignore the suffering of being struck by arrows, spears, and weapons. They do not turn back and run away without reaching their goal.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "In battle, soldiers fight enemies who will die a natural death anyway. These soldiers ignore the suffering",
+    "evidence": "Academic: \"If even those who desire to forcefully destroy [enemies made to suffer by natural death]... disregard the suffering... and do not turn back\" - an if-even argument that 4-38 completes. The children's text states it as bare fact, losing the \"if even\" comparison.",
+    "fix": "If even soldiers fight enemies who will die anyway, and ignore the pain of arrows and spears, and do not run away before they reach their goal,"
+   }
+  ]
+ },
+ "5-57": {
+  "translation": "When I do things that are free of blame with myself and any living being, I must always hold my mind like a magical creation. It must not have any 'I' in it.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "When I do things that are free of blame with myself and any living being",
+    "evidence": "Academic: blameless things are 'governed by myself and sentient beings' (they are under my and others' control). The children's text turns this into doing things together with living beings.",
+    "fix": "In things that are free of blame, which are in my hands and in the hands of living beings, I must always hold my mind like a magical creation, with no 'I' in it."
+   }
+  ]
+ },
+ "5-60": {
+  "translation": "My mind, you hold onto this body and call it 'mine'. But why do you guard it so closely? You and the body are completely separate. What can it really do for you?",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "You and the body are completely separate.",
+    "evidence": "Academic: 'If you and this are separate' - a conditional that sets up the question. The children's text states it as a flat fact.",
+    "fix": "If you and the body are separate, what can it really do for you?"
+   }
+  ]
+ },
+ "6-6": {
+  "translation": "The enemy of anger produces these and other kinds of suffering. Whoever tries hard to destroy anger will be happy in this life and the next.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "The enemy of anger produces these and other kinds of suffering.",
+    "evidence": "\"The enemy, anger, produces these and other such sufferings\": anger itself is the enemy that causes suffering, not an enemy of anger.",
+    "fix": "Anger is an enemy, and it brings these and other kinds of suffering."
+   }
+  ]
+ },
+ "6-71": {
+  "translation": "In the same way, the fire of hatred spreads to whatever the mind has clinging to. To stop my store of goodness from burning, I must throw that clinging away right now.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "I must throw that clinging away right now",
+    "evidence": "The thing to be discarded is whatever the mind clings to (the object, like the straw the fire has caught on), not the clinging itself.",
+    "fix": "To stop my store of goodness from burning, I must throw away right now whatever my mind is clinging to."
+   }
+  ]
+ },
+ "7-20": {
+  "translation": "I might think, \"I am afraid to give away my arms and legs.\" But this fear is just confusion. I am not thinking about what is truly hard and what is easy.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "what is truly hard and what is easy",
+    "evidence": "The text says \"what is heavy and what is light\", i.e. weighing the greater against the lesser matter, not what is hard versus easy.",
+    "fix": "I am not weighing what matters more and what matters less."
+   }
+  ]
+ },
+ "8-43": {
+  "translation": "When you first lifted the cloth with effort, that face looked down shyly. Whether you had seen it before or not, that face was covered.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "When you first lifted the cloth with effort, that face looked down shyly.",
+    "evidence": "What you first lifted with effort was the face (it looked down out of modesty even when drawn up); the cloth covered it afterward (\"that face was covered by a cloth\").",
+    "fix": "At first you worked hard to lift that face. Even when you drew it up, it looked down shyly. Whether you had seen it before or not, it was covered by a cloth."
+   }
+  ]
+ },
+ "8-93": {
+  "translation": "I should take away the suffering of others. It is suffering, just like my own suffering. I should help other living beings. They are like my very own body.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "They are like my very own body.",
+    "evidence": "The reason is lost: others are to be helped because they are sentient beings, just as my body is (a being I naturally help). The children's text just asserts others are like my body, and drops the 'because'.",
+    "fix": "I should help other living beings, because they are living beings, just like my own body."
+   }
+  ]
+ },
+ "8-102": {
+  "translation": "Someone might ask, \"Why should we stop the suffering of everyone?\" There is no room to argue. If we stop it, we must stop all of it. If not, then I must suffer just like any other living being.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "If not, then I must suffer just like any other living being.",
+    "evidence": "'If not, I too am like sentient beings': if suffering need not be averted for all, then mine need not be averted either, since I am one of them. The children's text turns it into an obligation to suffer.",
+    "fix": "If we stop it for anyone, we must stop it for all. If not, then my own suffering should not be stopped either, since I am a living being like them."
+   }
+  ]
+ },
+ "8-110": {
+  "translation": "I grew used to thinking of drops from others as my own body. Even though they are without a thing that is really me, I call them 'I'.",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "major",
+    "span": "drops from others",
+    "evidence": "Source specifies others' drops of semen and blood (the substance of the body) which one habitually takes as 'I'; 'drops from others' loses what the drops are, and 'my own body' / 'really me' are added.",
+    "fix": "By getting used to it, I take the drops of blood and seed that came from others as 'I'. Even though there is no real thing there, I call them 'I'."
+   }
+  ]
+ },
+ "8-139": {
+  "translation": "Pretend that you are someone lower. Pretend that others are you. Clear your mind of busy thinking. Then practice feeling jealousy, rivalry, and pride.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "Pretend that you are someone lower. Pretend that others are you.",
+    "evidence": "Academic: 'Having made the inferior and so forth into oneself, and having made oneself into others'. The inferior (and equal, etc.) are made into oneself, and oneself into the others; the children's text reverses the direction of both exchanges and drops 'and so forth'.",
+    "fix": "See the lower person as yourself, and see yourself as the other person. Clear your mind of busy thinking. Then practice feeling jealousy, rivalry, and pride."
+   }
+  ]
+ },
+ "9-24": {
+  "translation": "Someone might say, \"Because of a special circumstance, a person can see that the mind shines to itself.\" But using magic eye ointment lets you see a hidden vase. It does not let you see the eye ointment itself.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "Because of a special circumstance, a person can see that the mind shines to itself.",
+    "evidence": "Academic: the opponent argues that because the mind, endowed with other conditions, sees (objects), it is luminous to itself. The children's text says a person sees the mind shining, and turns \"other conditions\" into a \"special circumstance\".",
+    "fix": "Someone might say, \"The mind has other circumstances to help it see, so it shines to itself.\""
+   }
+  ]
+ },
+ "9-41": {
+  "translation": "Someone might ask, \"If the Great Vehicle is not proven, how is your sacred text proven?\" You might answer, \"Because we both agree on it.\" But at first, it was not proven for you either.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "You might answer, \"Because we both agree on it.\" But at first, it was not proven for you either.",
+    "evidence": "Academic puts 'Because this is established for both of us' in a separate quotation from the opponent's question (a different speaker), then 'Initially this was not established for you'; children's text has the opponent answer and adds 'either'.",
+    "fix": "Someone might ask, \"If the Great Vehicle is not proven, how is your sacred text proven?\" The answer is, \"Because it is proven for both of us.\" But at first, it was not proven for you."
+   }
+  ]
+ },
+ "9-52": {
+  "translation": "We want to help those who have suffering from confusion. So, we are freed from extreme clinging and fear. We can now stay in the cycle of rebirth. This is the result of emptiness.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "We want to help those who have suffering from confusion. So, we are freed from extreme clinging and fear.",
+    "evidence": "Academic: for the sake of those suffering through delusion, one freed from the extremes of attachment and fear remains in saṃsāra. No 'we want', and being freed is not caused by wanting to help ('So' invents the logic); 'extreme clinging' misses 'the extremes of attachment and fear'.",
+    "fix": "For the sake of those who suffer from confusion, a person who is free from the extremes of clinging and fear can stay in the cycle of rebirth. This is the result of emptiness."
+   }
+  ]
+ },
+ "9-63": {
+  "translation": "If something is made to notice a sound, how could it become the thing that notices a shape? One person can be labelled as both a father and a son. But that is not what is truly real.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "If something is made to notice a sound",
+    "evidence": "Academic: 'Whatever has the nature of apprehending sound' - a nature, not something 'made to' do it.",
+    "fix": "If something has the nature of noticing a sound, how could it also be the thing that notices a shape?"
+   }
+  ]
+ },
+ "9-75": {
+  "translation": "Someone might ask, \"If there are no living beings, who should we show compassion to?\" We show compassion to those imagined by our confusion. We accept this confusion for the sake of the result.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "We accept this confusion for the sake of the result.",
+    "evidence": "What is accepted for the sake of the result is the thing imputed by delusion (the imagined beings), not the delusion itself.",
+    "fix": "We show compassion to beings imagined by our confusion. We accept them like this for the sake of the result."
+   }
+  ]
+ }
+}

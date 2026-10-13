@@ -1,0 +1,1059 @@
+{
+ "batch": "batch-21",
+ "segments": [
+  {
+   "id": "9-0",
+   "terms": [
+    {
+     "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+     "dm": "Perfection of Wisdom",
+     "gm": "Perfection of Wisdom"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "Wisdom",
+     "gm": "Wisdom"
+    }
+   ]
+  },
+  {
+   "id": "9-1",
+   "terms": [
+    {
+     "bo": "ཐུབ་པ",
+     "dm": "Sage",
+     "gm": "Sage"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "wisdom",
+     "gm": "wisdom"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "Suffering"
+    },
+    {
+     "bo": "ཞི་བ",
+     "dm": "pacify",
+     "gm": "pacify"
+    },
+    {
+     "bo": "ཡན་ལག",
+     "dm": "branches",
+     "gm": "branches"
+    }
+   ]
+  },
+  {
+   "id": "9-2",
+   "terms": [
+    {
+     "bo": "ཀུན་རྫོབ",
+     "dm": "conventional",
+     "gm": "relative"
+    },
+    {
+     "bo": "དོན་དམ",
+     "dm": "ultimate",
+     "gm": "ultimate"
+    },
+    {
+     "bo": "བདེན་པ་གཉིས",
+     "dm": "two truths",
+     "gm": "two truths"
+    },
+    {
+     "bo": "བློ",
+     "dm": "intellect",
+     "gm": "intellect"
+    }
+   ]
+  },
+  {
+   "id": "9-3",
+   "terms": [
+    {
+     "bo": "འཇིག་རྟེན",
+     "dm": "world",
+     "gm": "world"
+    },
+    {
+     "bo": "རྣལ་འབྱོར་པ",
+     "dm": "yogic",
+     "gm": "Yogis"
+    },
+    {
+     "bo": "ཕལ་པ",
+     "dm": "ordinary",
+     "gm": "ordinary people"
+    },
+    {
+     "bo": "འཇིག་རྟེན་ཕལ་པ",
+     "dm": "ordinary world",
+     "gm": "ordinary world"
+    }
+   ]
+  },
+  {
+   "id": "9-4",
+   "terms": [
+    {
+     "bo": "རྣལ་འབྱོར་པ",
+     "dm": "yogis",
+     "gm": "yogis"
+    },
+    {
+     "bo": "འབྲས་བུ",
+     "dm": "result",
+     "gm": "result"
+    }
+   ]
+  },
+  {
+   "id": "9-5",
+   "terms": [
+    {
+     "bo": "འཇིག་རྟེན་པ",
+     "dm": "worldly",
+     "gm": "People of the world"
+    },
+    {
+     "bo": "དངོས",
+     "dm": "things",
+     "gm": "entities"
+    },
+    {
+     "bo": "ཡང་དག་ཉིད",
+     "dm": "truly real",
+     "gm": "truly real"
+    },
+    {
+     "bo": "སྒྱུ་མ",
+     "dm": "illusion",
+     "gm": "illusions"
+    },
+    {
+     "bo": "རྣལ་འབྱོར་པ",
+     "dm": "yogis",
+     "gm": "Yogis"
+    }
+   ]
+  },
+  {
+   "id": "9-6",
+   "terms": [
+    {
+     "bo": "གཟུགས",
+     "dm": "forms",
+     "gm": "forms"
+    },
+    {
+     "bo": "མངོན་སུམ",
+     "dm": "direct perception",
+     "gm": "direct perception"
+    },
+    {
+     "bo": "གྲགས་པ",
+     "dm": "renown",
+     "gm": "convention"
+    },
+    {
+     "bo": "ཚད་མ",
+     "dm": "valid cognition",
+     "gm": "valid cognition"
+    },
+    {
+     "bo": "མི་གཙང་",
+     "dm": "impure",
+     "gm": "unclean"
+    },
+    {
+     "bo": "གཙང་",
+     "dm": "purity",
+     "gm": "clean"
+    }
+   ]
+  },
+  {
+   "id": "9-7",
+   "terms": [
+    {
+     "bo": "མགོན་པོ",
+     "dm": "Protector",
+     "gm": "Protector"
+    },
+    {
+     "bo": "སྐད་ཅིག་མ",
+     "dm": "momentary",
+     "gm": "momentary"
+    },
+    {
+     "bo": "ཀུན་རྫོབ",
+     "dm": "conventional truth",
+     "gm": "relative"
+    },
+    {
+     "bo": "འཇིག་རྟེན",
+     "dm": "world",
+     "gm": "world"
+    },
+    {
+     "bo": "དངོས",
+     "dm": "things",
+     "gm": "entities"
+    }
+   ]
+  },
+  {
+   "id": "9-8",
+   "terms": [
+    {
+     "bo": "རྣལ་འབྱོར",
+     "dm": "yogis",
+     "gm": "yogi's"
+    },
+    {
+     "bo": "ཀུན་རྫོབ",
+     "dm": "conventional truth",
+     "gm": "relative"
+    },
+    {
+     "bo": "འཇིག་རྟེན",
+     "dm": "world",
+     "gm": "world"
+    },
+    {
+     "bo": "དེ་ཉིད",
+     "dm": "reality",
+     "gm": "reality"
+    },
+    {
+     "bo": "མི་གཙང་བ",
+     "dm": "impure",
+     "gm": "unclean"
+    }
+   ]
+  },
+  {
+   "id": "9-9",
+   "terms": [
+    {
+     "bo": "སྒྱུ་འདྲ",
+     "dm": "illusory",
+     "gm": "like an illusion"
+    },
+    {
+     "bo": "རྒྱལ",
+     "dm": "Conqueror",
+     "gm": "Victorious One"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "Merit"
+    },
+    {
+     "bo": "དངོས་ཡོད",
+     "dm": "truly existent",
+     "gm": "truly exists"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "9-10",
+   "terms": [
+    {
+     "bo": "རྐྱེན",
+     "dm": "conditions",
+     "gm": "conditions"
+    },
+    {
+     "bo": "སྒྱུ་མ",
+     "dm": "illusion",
+     "gm": "illusions"
+    },
+    {
+     "bo": "རྒྱུན",
+     "dm": "continuity",
+     "gm": "continuum"
+    },
+    {
+     "bo": "བདེན་པར་ཡོད་པ",
+     "dm": "truly existent",
+     "gm": "truly exist"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient being",
+     "gm": "sentient being"
+    }
+   ]
+  },
+  {
+   "id": "9-11",
+   "terms": [
+    {
+     "bo": "སྒྱུ་མའི་སྐྱེས་བུ",
+     "dm": "illusory person",
+     "gm": "illusory person"
+    },
+    {
+     "bo": "སེམས",
+     "dm": "mind",
+     "gm": "mind"
+    },
+    {
+     "bo": "སྡིག",
+     "dm": "sin",
+     "gm": "sin"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    },
+    {
+     "bo": "སྒྱུ་མའི་སེམས",
+     "dm": "illusory mind",
+     "gm": "illusory mind"
+    }
+   ]
+  },
+  {
+   "id": "9-12",
+   "terms": [
+    {
+     "bo": "སྔགས",
+     "dm": "mantras",
+     "gm": "mantras"
+    },
+    {
+     "bo": "སྒྱུ་མའི་སེམས",
+     "dm": "illusory mind",
+     "gm": "Illusory minds"
+    },
+    {
+     "bo": "རྐྱེན",
+     "dm": "conditions",
+     "gm": "conditions"
+    },
+    {
+     "bo": "སྒྱུ་མ",
+     "dm": "illusion",
+     "gm": "Illusions"
+    }
+   ]
+  },
+  {
+   "id": "9-13",
+   "terms": [
+    {
+     "bo": "རྐྱེན་གཅིག",
+     "dm": "single condition",
+     "gm": "single condition"
+    },
+    {
+     "bo": "ནུས་པ",
+     "dm": "power",
+     "gm": "capacity"
+    },
+    {
+     "bo": "དོན་དམ",
+     "dm": "ultimate reality",
+     "gm": "ultimate"
+    },
+    {
+     "bo": "མྱ་ངན་འདས",
+     "dm": "nirvana",
+     "gm": "nirvāṇa"
+    },
+    {
+     "bo": "འཁོར་བ",
+     "dm": "cyclic existence",
+     "gm": "saṃsāra"
+    },
+    {
+     "bo": "ཀུན་རྫོབ",
+     "dm": "conventional",
+     "gm": "relative"
+    }
+   ]
+  },
+  {
+   "id": "9-14",
+   "terms": [
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddha"
+    },
+    {
+     "bo": "འཁོར",
+     "dm": "cyclic existence",
+     "gm": "saṃsāra"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སྤྱོད་པ",
+     "dm": "conduct of enlightenment",
+     "gm": "bodhisattva conduct"
+    },
+    {
+     "bo": "རྐྱེན",
+     "dm": "conditions",
+     "gm": "conditions"
+    },
+    {
+     "bo": "རྒྱུན",
+     "dm": "continuity",
+     "gm": "continuum"
+    },
+    {
+     "bo": "སྒྱུ་མ",
+     "dm": "illusion",
+     "gm": "illusion"
+    }
+   ]
+  },
+  {
+   "id": "9-15",
+   "terms": [
+    {
+     "bo": "རྐྱེན",
+     "dm": "conditions",
+     "gm": "conditions"
+    },
+    {
+     "bo": "རྒྱུན",
+     "dm": "continuity",
+     "gm": "continuum"
+    },
+    {
+     "bo": "ཀུན་རྫོབ",
+     "dm": "conventionally",
+     "gm": "relatively"
+    },
+    {
+     "bo": "འཁྲུལ་པ",
+     "dm": "confusion",
+     "gm": "deceptive mind"
+    },
+    {
+     "bo": "སྒྱུ་མ",
+     "dm": "illusion",
+     "gm": "illusion"
+    }
+   ]
+  },
+  {
+   "id": "9-16",
+   "terms": [
+    {
+     "bo": "སྒྱུ་མ",
+     "dm": "illusion",
+     "gm": "illusion"
+    },
+    {
+     "bo": "རྣམ་པ",
+     "dm": "aspect",
+     "gm": "aspect"
+    },
+    {
+     "bo": "སེམས་ཉིད",
+     "dm": "mind itself",
+     "gm": "mind itself"
+    },
+    {
+     "bo": "དེ་ཉིད་དུ",
+     "dm": "in reality",
+     "gm": "in reality"
+    }
+   ]
+  },
+  {
+   "id": "9-17",
+   "terms": [
+    {
+     "bo": "སེམས་ཉིད",
+     "dm": "mind itself",
+     "gm": "mind itself"
+    },
+    {
+     "bo": "སྒྱུ་མ",
+     "dm": "illusion",
+     "gm": "illusion"
+    },
+    {
+     "bo": "འཇིག་རྟེན་གྱི་ནི་མགོན་པོ",
+     "dm": "Protector of the World",
+     "gm": "Protector of the World"
+    },
+    {
+     "bo": "མགོན་པོ",
+     "dm": "Protector",
+     "gm": "Protector"
+    },
+    {
+     "bo": "སེམས",
+     "dm": "mind",
+     "gm": "mind"
+    }
+   ]
+  },
+  {
+   "id": "9-18",
+   "terms": [
+    {
+     "bo": "ཡིད",
+     "dm": "mind",
+     "gm": "mind"
+    },
+    {
+     "bo": "མར་མེ",
+     "dm": "lamp",
+     "gm": "lamp"
+    }
+   ]
+  },
+  {
+   "id": "9-19",
+   "terms": [
+    {
+     "bo": "མར་མེ",
+     "dm": "lamp",
+     "gm": "lamp"
+    }
+   ]
+  },
+  {
+   "id": "9-20",
+   "terms": []
+  },
+  {
+   "id": "9-21",
+   "terms": [
+    {
+     "bo": "མར་མེ",
+     "dm": "lamp",
+     "gm": "lamp"
+    },
+    {
+     "bo": "ཤེས་པ",
+     "dm": "cognition",
+     "gm": "cognition"
+    },
+    {
+     "bo": "བློ",
+     "dm": "mind",
+     "gm": "intellect"
+    },
+    {
+     "bo": "གསལ་བ",
+     "dm": "luminous",
+     "gm": "luminous"
+    }
+   ]
+  },
+  {
+   "id": "9-22",
+   "terms": [
+    {
+     "bo": "གསལ་བ",
+     "dm": "clear",
+     "gm": "luminous"
+    },
+    {
+     "bo": "མི་གསལ་བ",
+     "dm": "not clear",
+     "gm": "not luminous"
+    },
+    {
+     "bo": "མོ་གཤམ་བུ་མོ",
+     "dm": "barren woman's daughter",
+     "gm": "barren woman's daughter"
+    }
+   ]
+  },
+  {
+   "id": "9-23",
+   "terms": [
+    {
+     "bo": "རང་རིག",
+     "dm": "self-awareness",
+     "gm": "self-awareness"
+    },
+    {
+     "bo": "རྣམ་ཤེས",
+     "dm": "consciousness",
+     "gm": "consciousness"
+    },
+    {
+     "bo": "དྲན་པ",
+     "dm": "remembered",
+     "gm": "remembered"
+    },
+    {
+     "bo": "གཞན་མྱོང་བ",
+     "dm": "experience of something else",
+     "gm": "experiencing another"
+    }
+   ]
+  },
+  {
+   "id": "9-24",
+   "terms": [
+    {
+     "bo": "རྐྱེན་གཞན",
+     "dm": "other conditions",
+     "gm": "other conditions"
+    },
+    {
+     "bo": "རང་ཉིད་རབ་གསལ",
+     "dm": "self-luminous",
+     "gm": "illuminates itself"
+    }
+   ]
+  },
+  {
+   "id": "9-25",
+   "terms": [
+    {
+     "bo": "མཐོང་ཐོས་ཤེས་པ",
+     "dm": "seen, heard, or known",
+     "gm": "seen, heard, and known"
+    },
+    {
+     "bo": "སྡུག་བསྔལ་རྒྱུ",
+     "dm": "cause of suffering",
+     "gm": "cause of suffering"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "བདེན་པར་རྟོག་པ",
+     "dm": "conceptualization of them as true",
+     "gm": "conceptualization of true existence"
+    }
+   ]
+  },
+  {
+   "id": "9-26",
+   "terms": [
+    {
+     "bo": "སེམས",
+     "dm": "mind",
+     "gm": "mind"
+    },
+    {
+     "bo": "སྒྱུ་མ",
+     "dm": "illusion",
+     "gm": "Illusion"
+    },
+    {
+     "bo": "དངོས་པོ",
+     "dm": "real entity",
+     "gm": "entity"
+    }
+   ]
+  },
+  {
+   "id": "9-27",
+   "terms": [
+    {
+     "bo": "སྒྱུ་མ",
+     "dm": "illusion",
+     "gm": "illusion"
+    },
+    {
+     "bo": "ཡིད",
+     "dm": "mind",
+     "gm": "perceiving mind"
+    },
+    {
+     "bo": "འཁོར་བ",
+     "dm": "cyclic existence",
+     "gm": "saṃsāra"
+    }
+   ]
+  },
+  {
+   "id": "9-28",
+   "terms": [
+    {
+     "bo": "དངོས་མེད",
+     "dm": "non-entity",
+     "gm": "non-entity"
+    },
+    {
+     "bo": "སེམས",
+     "dm": "mind",
+     "gm": "mind"
+    }
+   ]
+  },
+  {
+   "id": "9-29",
+   "terms": [
+    {
+     "bo": "སེམས",
+     "dm": "mind",
+     "gm": "mind"
+    },
+    {
+     "bo": "གཟུང་",
+     "dm": "perceived object",
+     "gm": "apprehended object"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས",
+     "dm": "Tathāgatas",
+     "gm": "Tathāgatas"
+    },
+    {
+     "bo": "སེམས་ཙམ",
+     "dm": "Mind Only",
+     "gm": "Mind Only"
+    }
+   ]
+  },
+  {
+   "id": "9-30",
+   "terms": [
+    {
+     "bo": "སྒྱུ་མ",
+     "dm": "illusion",
+     "gm": "illusion"
+    },
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "afflictions"
+    },
+    {
+     "bo": "སྒྱུ་མའི་བུད་མེད",
+     "dm": "illusory woman",
+     "gm": "illusory woman"
+    },
+    {
+     "bo": "ཆགས",
+     "dm": "desire",
+     "gm": "attachment"
+    }
+   ]
+  },
+  {
+   "id": "9-31",
+   "terms": [
+    {
+     "bo": "ཤེས་བྱ",
+     "dm": "object of knowledge",
+     "gm": "objects of knowledge"
+    },
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "afflictions"
+    },
+    {
+     "bo": "བག་ཆགས",
+     "dm": "latencies",
+     "gm": "latent tendencies"
+    },
+    {
+     "bo": "སྟོང་ཉིད",
+     "dm": "emptiness",
+     "gm": "emptiness"
+    }
+   ]
+  },
+  {
+   "id": "9-32",
+   "terms": [
+    {
+     "bo": "སྟོང་ཉིད་བག་ཆགས",
+     "dm": "latency for emptiness",
+     "gm": "latent tendencies of emptiness"
+    },
+    {
+     "bo": "སྟོང་ཉིད",
+     "dm": "emptiness",
+     "gm": "emptiness"
+    },
+    {
+     "bo": "བག་ཆགས",
+     "dm": "latency",
+     "gm": "latent tendencies"
+    },
+    {
+     "bo": "དངོས་པོའི་བག་ཆགས",
+     "dm": "latency for substantial things",
+     "gm": "latent tendencies of entities"
+    },
+    {
+     "bo": "དངོས་པོ",
+     "dm": "substantial things",
+     "gm": "entities"
+    },
+    {
+     "bo": "གོམས་པ",
+     "dm": "habituating",
+     "gm": "familiarizing"
+    }
+   ]
+  },
+  {
+   "id": "9-33",
+   "terms": [
+    {
+     "bo": "བརྟག་བྱའི་དངོས་པོ",
+     "dm": "substantial thing to be analyzed",
+     "gm": "entity to be examined"
+    },
+    {
+     "bo": "དངོས་མེད",
+     "dm": "non-entity",
+     "gm": "non-entity"
+    },
+    {
+     "bo": "བློ",
+     "dm": "mind",
+     "gm": "mind"
+    }
+   ]
+  },
+  {
+   "id": "9-34",
+   "terms": [
+    {
+     "bo": "དངོས་དང་དངོས་མེད",
+     "dm": "entities nor non-entities",
+     "gm": "entities and non-entities"
+    },
+    {
+     "bo": "དངོས་མེད",
+     "dm": "non-entities",
+     "gm": "non-entities"
+    },
+    {
+     "bo": "བློ",
+     "dm": "mind",
+     "gm": "mind"
+    },
+    {
+     "bo": "རྣམ་པ",
+     "dm": "aspect",
+     "gm": "aspect"
+    },
+    {
+     "bo": "དམིགས་པ་མེད་པ",
+     "dm": "non-apprehension",
+     "gm": "without an object of focus"
+    },
+    {
+     "bo": "རབ་ཏུ་ཞི",
+     "dm": "thoroughly pacified",
+     "gm": "completely pacified"
+    }
+   ]
+  },
+  {
+   "id": "9-35",
+   "terms": [
+    {
+     "bo": "ཡིད་བཞིན་ནོར་བུ",
+     "dm": "wish-fulfilling jewel",
+     "gm": "wish-fulfilling jewel"
+    },
+    {
+     "bo": "དཔག་བསམ་ཤིང",
+     "dm": "wish-granting tree",
+     "gm": "wish-granting tree"
+    },
+    {
+     "bo": "གདུལ་བྱ",
+     "dm": "those to be trained",
+     "gm": "those to be tamed"
+    },
+    {
+     "bo": "སྨོན་ལམ",
+     "dm": "aspirations",
+     "gm": "prayers of aspiration"
+    },
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victorious One",
+     "gm": "Victorious One"
+    }
+   ]
+  },
+  {
+   "id": "9-36",
+   "terms": [
+    {
+     "bo": "ནམ་མཁའ་ལྡིང",
+     "dm": "Garuḍa",
+     "gm": "garuḍa"
+    },
+    {
+     "bo": "མཆོད་སྡོང",
+     "dm": "shrine",
+     "gm": "shrine"
+    }
+   ]
+  },
+  {
+   "id": "9-37",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སྤྱོད་པ",
+     "dm": "conduct of enlightenment",
+     "gm": "bodhisattva's conduct"
+    },
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victorious One",
+     "gm": "Victorious One"
+    },
+    {
+     "bo": "མཆོད་སྡོང",
+     "dm": "shrine",
+     "gm": "shrine"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattva",
+     "gm": "Bodhisattva"
+    },
+    {
+     "bo": "མྱ་ངན་ལས། ། འདས",
+     "dm": "nirvana",
+     "gm": "nirvāṇa"
+    }
+   ]
+  },
+  {
+   "id": "9-38",
+   "terms": [
+    {
+     "bo": "འབྲས་བུ",
+     "dm": "result",
+     "gm": "result"
+    },
+    {
+     "bo": "མྱ་ངན་འདས",
+     "dm": "nirvana",
+     "gm": "nirvāṇa"
+    }
+   ]
+  },
+  {
+   "id": "9-39",
+   "terms": [
+    {
+     "bo": "ཀུན་རྫོབ",
+     "dm": "conventional",
+     "gm": "conventionally"
+    },
+    {
+     "bo": "དེ་ཉིད",
+     "dm": "ultimate",
+     "gm": "in reality"
+    },
+    {
+     "bo": "ལུང་",
+     "dm": "scriptures",
+     "gm": "scriptures"
+    },
+    {
+     "bo": "འབྲས་བུ",
+     "dm": "result",
+     "gm": "result"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddha"
+    }
+   ]
+  },
+  {
+   "id": "9-40",
+   "terms": [
+    {
+     "bo": "བདེན་པ",
+     "dm": "truths",
+     "gm": "truths"
+    },
+    {
+     "bo": "གྲོལ",
+     "dm": "Liberation",
+     "gm": "liberated"
+    },
+    {
+     "bo": "སྟོང་ཉིད",
+     "dm": "emptiness",
+     "gm": "emptiness"
+    },
+    {
+     "bo": "ལུང་",
+     "dm": "scriptures",
+     "gm": "scriptures"
+    },
+    {
+     "bo": "ལམ",
+     "dm": "path",
+     "gm": "path"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "enlightenment",
+     "gm": "awakening"
+    }
+   ]
+  },
+  {
+   "id": "9-41",
+   "terms": [
+    {
+     "bo": "ཐེག་ཆེན",
+     "dm": "Mahāyāna",
+     "gm": "Mahāyāna"
+    },
+    {
+     "bo": "ལུང་",
+     "dm": "scriptures",
+     "gm": "scripture"
+    }
+   ]
+  },
+  {
+   "id": "9-42",
+   "terms": [
+    {
+     "bo": "རྐྱེན",
+     "dm": "conditions",
+     "gm": "conditions"
+    },
+    {
+     "bo": "ཐེག་ཆེན",
+     "dm": "Mahāyāna",
+     "gm": "Mahāyāna"
+    },
+    {
+     "bo": "རིག་བྱེད",
+     "dm": "Vedas",
+     "gm": "Vedas"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "terms": [
+  {
+   "term_id": "T228",
+   "sense": "hell of sentient beings",
+   "field": "academic",
+   "current": "地獄有情",
+   "suggested": "有情地獄",
+   "severity": "major",
+   "reason": "「地獄有情」 means \"hell beings\"; the term refers to the hell realm itself, so it should be 有情地獄.",
+   "applied": true
+  },
+  {
+   "term_id": "T228",
+   "sense": "hell of sentient beings",
+   "field": "children",
+   "current": "地獄裡的眾生",
+   "suggested": "眾生的地獄",
+   "severity": "major",
+   "reason": "Current phrase means \"beings in hell\" (hell beings); it should denote the place to match \"hell of living beings\".",
+   "applied": true
+  },
+  {
+   "term_id": "T392",
+   "sense": "Avīci hell",
+   "field": "children",
+   "current": "無間地獄",
+   "suggested": "無間獄",
+   "severity": "minor",
+   "reason": "Inconsistent with core term T093 which uses 無間獄 for children's text; the exact same phrase must be reused.",
+   "applied": true
+  }
+ ],
+ "policies": []
+}

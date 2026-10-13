@@ -1,0 +1,129 @@
+{
+ "batch": "batch-08",
+ "segments": [
+  {
+   "id": "4-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-7",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "वे जो मुक्ति प्राप्त करते हैं",
+     "evidence": "Tibetan 'དེ་དག་ཐར་བར་བྱེད་པ' (bo-gyaltsab: 'དེ་དག་ཐར་བ་ཐོབ་པར་མཛད་པ') is causative; Sanskrit 'मोचयत्येवं तां नरान्' means they liberate people. bo-shenga 4-7: 'རང་གི་གདུལ་བྱར་གྱུར་པའི་སེམས་ཅན་དེ་དག་ཐར་བར་མཛད་པ' (they bring those beings to liberation); bo-kunpal 4-7 says they themselves attain liberation and also liberate others ('གཞན་དག་ཀྱང་ཐར་པར་མཛད་པ'). The Hindi only says 'they attain liberation', dropping the causative reading.",
+     "fix": "वे (उन्हें) जो मुक्त कराते हैं / स्वयं मुक्ति पाकर दूसरों को भी मुक्त कराते हैं"
+    }
+   ]
+  },
+  {
+   "id": "4-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-10",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "अपना पतन होता है",
+     "evidence": "'पतन' is the locked rendering of 'ལྟུང་བ' (downfall/āpatti), but here the Tibetan is 'བདག་ཉིད་ཉམས་འགྱུར' (ཉམས = decline, loss). bo-gyaltsab 4-10: 'བདག་ཉིད་མཐོ་རིས་ལས་ཉམས' (I fall away from the higher realms); bo-kunpal: 'མངོན་མཐོའི་བདེ་བ་ལས་ཉམས'. Using the technical term पतन risks reading it as a root downfall.",
+     "fix": "अपना ह्रास (उच्च गति/सुख से च्युति) होता है"
+    }
+   ]
+  },
+  {
+   "id": "4-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "जब कुशल आचरण का सौभाग्य होने पर भी,",
+     "evidence": "Tibetan 'གང་ཚེ་དགེ་སྤྱད་སྐལ་ལྡན་ཡང་། དགེ་བ་བདག་གིས་མ་བྱས་ན།' = 'when, though fortunate to practise virtue, I do not do virtue'. The Hindi clause 'जब ... होने पर भी' has no finite verb and doubles the temporal and concessive markers, making the sentence hard to parse; 'मैंने ... नहीं किया' also turns the conditional 'མ་བྱས་ན' into a past fact.",
+     "fix": "जब कुशल आचरण का सौभाग्य प्राप्त होने पर भी मैं कुशल कर्म न करूँ"
+    }
+   ]
+  },
+  {
+   "id": "4-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-20",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

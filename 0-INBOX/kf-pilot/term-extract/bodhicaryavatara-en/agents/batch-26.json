@@ -1,0 +1,778 @@
+{
+ "batch": "batch-26",
+ "segments": [
+  {
+   "id": "10-30",
+   "terms": [
+    {
+     "bo": "འཇིག་རྟེན",
+     "dm": "world",
+     "gm": "world"
+    },
+    {
+     "bo": "ང་རྒྱལ",
+     "dm": "pride",
+     "gm": "pride"
+    }
+   ]
+  },
+  {
+   "id": "10-31",
+   "terms": [
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "སྡིག་པ",
+     "dm": "misdeeds",
+     "gm": "harmful deeds"
+    },
+    {
+     "bo": "དགེ་བ",
+     "dm": "virtue",
+     "gm": "virtuous ones"
+    }
+   ]
+  },
+  {
+   "id": "10-32",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས",
+     "dm": "the mind of enlightenment",
+     "gm": "the awakening mind"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སྤྱོད",
+     "dm": "the conduct of awakening",
+     "gm": "the bodhisattva conduct"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "buddhas"
+    },
+    {
+     "bo": "བདུད",
+     "dm": "Māra",
+     "gm": "Māra"
+    }
+   ]
+  },
+  {
+   "id": "10-33",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "10-34",
+   "terms": [
+    {
+     "bo": "དཔག་བསམ་ཤིང",
+     "dm": "wish-fulfilling trees",
+     "gm": "wish-fulfilling trees"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "buddhas"
+    },
+    {
+     "bo": "སངས་རྒྱས་སྲས",
+     "dm": "sons of the Buddhas",
+     "gm": "children of buddhas"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    }
+   ]
+  },
+  {
+   "id": "10-35",
+   "terms": [
+    {
+     "bo": "བཻ་ཌཱུརྱ",
+     "dm": "lapis lazuli",
+     "gm": "lapis lazuli"
+    }
+   ]
+  },
+  {
+   "id": "10-36",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattvas",
+     "gm": "bodhisattvas"
+    }
+   ]
+  },
+  {
+   "id": "10-37",
+   "terms": [
+    {
+     "bo": "ལུས་ཅན",
+     "dm": "embodied beings",
+     "gm": "embodied beings"
+    },
+    {
+     "bo": "ཆོས་ཀྱི་སྒྲ",
+     "dm": "sound of the Dharma",
+     "gm": "sound of the Dharma"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    }
+   ]
+  },
+  {
+   "id": "10-38",
+   "terms": [
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "buddhas"
+    },
+    {
+     "bo": "སངས་རྒྱས་སྲས",
+     "dm": "sons of the Buddhas",
+     "gm": "children of buddhas"
+    },
+    {
+     "bo": "མཆོད་པའི་སྤྲིན",
+     "dm": "clouds of offerings",
+     "gm": "clouds of offerings"
+    },
+    {
+     "bo": "འགྲོ་བའི་བླ་མ",
+     "dm": "teachers of the world",
+     "gm": "gurus of the world"
+    }
+   ]
+  },
+  {
+   "id": "10-39",
+   "terms": [
+    {
+     "bo": "ལྷ",
+     "dm": "gods",
+     "gm": "gods"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    },
+    {
+     "bo": "རྒྱལ་པོ",
+     "dm": "kings",
+     "gm": "kings"
+    },
+    {
+     "bo": "འཇིག་རྟེན",
+     "dm": "world",
+     "gm": "world"
+    }
+   ]
+  },
+  {
+   "id": "10-40",
+   "terms": [
+    {
+     "bo": "གསང་སྔགས",
+     "dm": "secret mantras",
+     "gm": "secret mantras"
+    },
+    {
+     "bo": "བཟླས་བརྗོད",
+     "dm": "recitation",
+     "gm": "recitation"
+    },
+    {
+     "bo": "མཁའ་འགྲོ",
+     "dm": "ḍākinīs",
+     "gm": "ḍākinīs"
+    },
+    {
+     "bo": "སྲིན་པོ",
+     "dm": "rākṣasas",
+     "gm": "rākṣasas"
+    },
+    {
+     "bo": "སྙིང་རྗེ",
+     "dm": "compassion",
+     "gm": "compassion"
+    }
+   ]
+  },
+  {
+   "id": "10-41",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient being",
+     "gm": "sentient being"
+    }
+   ]
+  },
+  {
+   "id": "10-42",
+   "terms": [
+    {
+     "bo": "གཙུག་ལག་ཁང",
+     "dm": "temples",
+     "gm": "monasteries"
+    },
+    {
+     "bo": "ཁ་ཐོན",
+     "dm": "recitation",
+     "gm": "Recitation"
+    },
+    {
+     "bo": "དགེ་འདུན",
+     "dm": "Saṅgha",
+     "gm": "Saṅgha"
+    }
+   ]
+  },
+  {
+   "id": "10-43",
+   "terms": [
+    {
+     "bo": "བསླབ་པ",
+     "dm": "train",
+     "gm": "train"
+    },
+    {
+     "bo": "དགེ་སློང",
+     "dm": "monks",
+     "gm": "monks"
+    },
+    {
+     "bo": "དབེན་པ",
+     "dm": "solitude",
+     "gm": "solitary places"
+    },
+    {
+     "bo": "གཡེང་བ",
+     "dm": "distractions",
+     "gm": "distractions"
+    },
+    {
+     "bo": "ལས་རུང",
+     "dm": "workable",
+     "gm": "pliable"
+    },
+    {
+     "bo": "སྒོམ",
+     "dm": "meditate",
+     "gm": "meditate"
+    }
+   ]
+  },
+  {
+   "id": "10-44",
+   "terms": [
+    {
+     "bo": "དགེ་སློང་མ",
+     "dm": "nuns",
+     "gm": "nuns"
+    },
+    {
+     "bo": "རབ་ཏུ་བྱུང་བ",
+     "dm": "those who have gone forth",
+     "gm": "ordained"
+    },
+    {
+     "bo": "ཚུལ་ཁྲིམས",
+     "dm": "ethical discipline",
+     "gm": "discipline"
+    }
+   ]
+  },
+  {
+   "id": "10-45",
+   "terms": [
+    {
+     "bo": "ཚུལ་ཁྲིམས",
+     "dm": "discipline",
+     "gm": "discipline"
+    },
+    {
+     "bo": "སྡིག་པ",
+     "dm": "misdeeds",
+     "gm": "negative deeds"
+    },
+    {
+     "bo": "བདེ་འགྲོ",
+     "dm": "higher rebirth",
+     "gm": "higher realms"
+    },
+    {
+     "bo": "བརྟུལ་ཞུགས",
+     "dm": "spiritual conduct",
+     "gm": "vows"
+    }
+   ]
+  },
+  {
+   "id": "10-46",
+   "terms": [
+    {
+     "bo": "མཁས་པ",
+     "dm": "the wise",
+     "gm": "the learned"
+    },
+    {
+     "bo": "བསོད་སྙོམས",
+     "dm": "alms",
+     "gm": "alms"
+    },
+    {
+     "bo": "རྒྱུད",
+     "dm": "mental continuums",
+     "gm": "mindstreams"
+    }
+   ]
+  },
+  {
+   "id": "10-47",
+   "terms": [
+    {
+     "bo": "ངན་སོང",
+     "dm": "lower realms",
+     "gm": "lower realms"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "sufferings"
+    },
+    {
+     "bo": "དཀའ་བ་སྤྱད་པ",
+     "dm": "hardships",
+     "gm": "hardships"
+    },
+    {
+     "bo": "ལྷ",
+     "dm": "gods",
+     "gm": "gods"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhahood",
+     "gm": "buddhahood"
+    }
+   ]
+  },
+  {
+   "id": "10-48",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "buddhas"
+    },
+    {
+     "bo": "མཆོད་བྱེད",
+     "dm": "Make offerings",
+     "gm": "Make offerings"
+    },
+    {
+     "bo": "བདེ་བ",
+     "dm": "bliss",
+     "gm": "bliss"
+    }
+   ]
+  },
+  {
+   "id": "10-49",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattvas",
+     "gm": "bodhisattvas"
+    },
+    {
+     "bo": "འགྲོ་དོན",
+     "dm": "benefit wandering beings",
+     "gm": "welfare of beings"
+    },
+    {
+     "bo": "མགོན་པོ",
+     "dm": "Protectors",
+     "gm": "protectors"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "10-50",
+   "terms": [
+    {
+     "bo": "རང་སངས་རྒྱས",
+     "dm": "Pratyekabuddhas",
+     "gm": "pratyekabuddhas"
+    },
+    {
+     "bo": "ཉན་ཐོས",
+     "dm": "Śrāvakas",
+     "gm": "śrāvakas"
+    }
+   ]
+  },
+  {
+   "id": "10-51",
+   "terms": [
+    {
+     "bo": "འཇམ་དབྱངས",
+     "dm": "Mañjuśrī",
+     "gm": "Mañjuśrī"
+    },
+    {
+     "bo": "ས་རབ་དགའ་བ",
+     "dm": "Ground of Supreme Joy",
+     "gm": "ground of Perfect Joy"
+    },
+    {
+     "bo": "ཚེ་རབས",
+     "dm": "past lives",
+     "gm": "past lives"
+    },
+    {
+     "bo": "རབ་ཏུ་བྱུང་བ",
+     "dm": "the state of a renunciate",
+     "gm": "ordination"
+    }
+   ]
+  },
+  {
+   "id": "10-52",
+   "terms": [
+    {
+     "bo": "ཚེ་རབས",
+     "dm": "lives",
+     "gm": "lifetimes"
+    },
+    {
+     "bo": "དབེན་གནས",
+     "dm": "solitude",
+     "gm": "solitary places"
+    }
+   ]
+  },
+  {
+   "id": "10-53",
+   "terms": [
+    {
+     "bo": "མགོན་པོ",
+     "dm": "Protector",
+     "gm": "protector"
+    },
+    {
+     "bo": "འཇམ་དབྱངས",
+     "dm": "Mañjuśrī",
+     "gm": "Mañjuśrī"
+    }
+   ]
+  },
+  {
+   "id": "10-54",
+   "terms": [
+    {
+     "bo": "ཕྱོགས་བཅུ",
+     "dm": "ten directions",
+     "gm": "ten directions"
+    },
+    {
+     "bo": "ནམ་མཁའ",
+     "dm": "space",
+     "gm": "space"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "འཇམ་དབྱངས",
+     "dm": "Mañjuśrī",
+     "gm": "Mañjuśrī"
+    },
+    {
+     "bo": "སྤྱོད་པ",
+     "dm": "conduct",
+     "gm": "conduct"
+    }
+   ]
+  },
+  {
+   "id": "10-55",
+   "terms": [
+    {
+     "bo": "ནམ་མཁའ",
+     "dm": "space",
+     "gm": "space"
+    },
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "sentient beings",
+     "gm": "beings"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "sufferings",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "10-56",
+   "terms": [
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "sentient beings",
+     "gm": "beings"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "sufferings",
+     "gm": "suffering"
+    },
+    {
+     "bo": "སྨིན",
+     "dm": "ripen",
+     "gm": "ripen"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའི་དགེ་འདུན",
+     "dm": "assembly of Bodhisattvas",
+     "gm": "sangha of bodhisattvas"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattvas",
+     "gm": "bodhisattvas"
+    }
+   ]
+  },
+  {
+   "id": "10-57",
+   "terms": [
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "beings",
+     "gm": "beings"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "བདེ་བ",
+     "dm": "happiness",
+     "gm": "happiness"
+    },
+    {
+     "bo": "བསྟན་པ",
+     "dm": "teaching",
+     "gm": "teaching"
+    },
+    {
+     "bo": "རྙེད་དང་བཀུར་སྟི",
+     "dm": "support and honor",
+     "gm": "gain and honor"
+    }
+   ]
+  },
+  {
+   "id": "10-58",
+   "terms": [
+    {
+     "bo": "དགེ་བློ",
+     "dm": "virtuous mind",
+     "gm": "virtuous mind"
+    },
+    {
+     "bo": "འཇམ་པའི་དབྱངས",
+     "dm": "Mañjughoṣa",
+     "gm": "Mañjuśrī"
+    },
+    {
+     "bo": "ཕྱག་འཚལ",
+     "dm": "prostrate",
+     "gm": "prostrate"
+    },
+    {
+     "bo": "དགེ་བའི་བཤེས",
+     "dm": "spiritual friend",
+     "gm": "spiritual friend"
+    }
+   ]
+  },
+  {
+   "id": "10-a",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ",
+     "dm": "Entering the Way of the Bodhisattva",
+     "gm": "Entering the Way of the Bodhisattva"
+    },
+    {
+     "bo": "བསྔོ་བ",
+     "dm": "Dedication",
+     "gm": "Dedication"
+    }
+   ]
+  },
+  {
+   "id": "a-0",
+   "terms": []
+  },
+  {
+   "id": "a-1",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ",
+     "dm": "Entering the Way of the Bodhisattva",
+     "gm": "Entering the Way of the Bodhisattva"
+    },
+    {
+     "bo": "སློབ་དཔོན",
+     "dm": "master",
+     "gm": "master"
+    },
+    {
+     "bo": "ཤནྟ་དེ་བ",
+     "dm": "Śāntideva",
+     "gm": "Śāntideva"
+    }
+   ]
+  },
+  {
+   "id": "b-0",
+   "terms": []
+  },
+  {
+   "id": "b-1",
+   "terms": [
+    {
+     "bo": "མཁན་པོ",
+     "dm": "scholar",
+     "gm": "preceptor"
+    },
+    {
+     "bo": "སརྦ་ཛྙཱ་དེ་བ",
+     "dm": "Sarvajñādeva",
+     "gm": "Sarvajñādeva"
+    },
+    {
+     "bo": "ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ",
+     "dm": "chief editor-translator",
+     "gm": "chief editor-translator"
+    },
+    {
+     "bo": "བནྡེ་དཔལ་བརྩེགས",
+     "dm": "Bandé Paltseg",
+     "gm": "Paltsek"
+    },
+    {
+     "bo": "ཁ་ཆེ",
+     "dm": "Kashmiri",
+     "gm": "Kashmiri"
+    }
+   ]
+  },
+  {
+   "id": "b-2",
+   "terms": [
+    {
+     "bo": "མཁན་པོ",
+     "dm": "scholar",
+     "gm": "preceptor"
+    },
+    {
+     "bo": "དྷརྨ་ཤྲཱི་བྷ་དྲ",
+     "dm": "Dharmaśrībhadra",
+     "gm": "Dharmaśrībhadra"
+    },
+    {
+     "bo": "ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ",
+     "dm": "chief editors and translators",
+     "gm": "chief editor-translators"
+    },
+    {
+     "bo": "བནྡེ་རིན་ཆེན་བཟང་པོ",
+     "dm": "Rinchen Zangpo",
+     "gm": "Rinchen Zangpo"
+    },
+    {
+     "bo": "ཤཱཀྱ་བློ་གྲོས",
+     "dm": "Śākya Lodrö",
+     "gm": "Śākya Lodrö"
+    },
+    {
+     "bo": "ཡུལ་དབུས",
+     "dm": "Central Indian",
+     "gm": "central region"
+    }
+   ]
+  },
+  {
+   "id": "b-3",
+   "terms": [
+    {
+     "bo": "མཁན་པོ",
+     "dm": "scholar",
+     "gm": "preceptor"
+    },
+    {
+     "bo": "སུ་མ་ཏི་ཀཱིརྟི",
+     "dm": "Sumatikīrti",
+     "gm": "Sumatikīrti"
+    },
+    {
+     "bo": "ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ",
+     "dm": "chief editor and translator",
+     "gm": "chief editor-translator"
+    },
+    {
+     "bo": "དགེ་སློང",
+     "dm": "monk",
+     "gm": "fully ordained monk"
+    },
+    {
+     "bo": "བློ་ལྡན་ཤེས་རབ",
+     "dm": "Loden Sherab",
+     "gm": "Loden Sherab"
+    }
+   ]
+  }
+ ]
+}

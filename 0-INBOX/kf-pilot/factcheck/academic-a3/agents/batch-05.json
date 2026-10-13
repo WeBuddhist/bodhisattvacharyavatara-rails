@@ -1,0 +1,134 @@
+{
+ "batch": "batch-05",
+ "segments": [
+  {
+   "id": "6-116",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "Yet to those with an infinite ocean of good qualities,\nTo the Buddhas, no one is equal.",
+     "evidence": "Lines 3-4 are one clause: ཡོན་ཏན་རྒྱ་མཚོ་མཐའ་ཡས་པའི། སངས་རྒྱས་རྣམས་དང་འགའ་མི་མཉམ། \"none is equal to the Buddhas, who have an infinite ocean of qualities\" (bo-shenga 6-116: ...རྫོགས་པའི་སངས་རྒྱས་རྣམས་དང་འགའ་ཡང་ཡོན་ཏན་མི་མཉམ་མོ). The English splits it into a dangling \"to those ... / To the Buddhas\" with \"to\" for དང་, which is garbled.",
+     "fix": "Yet none are equal to the Buddhas,\nwho have an infinite ocean of good qualities."
+    }
+   ]
+  },
+  {
+   "id": "7-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-73",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "one should seek out association",
+     "evidence": "ཕྲད་པ is \"to meet/encounter\": bo-kunpal 7-73 བླ་མ་དགེ་བའི་བཤེས་གཉེན་དང་ཕྲད་པ, bo-shenga 7-73 མཁན་པོ་དང་སློབ་དཔོན་...རྣམས་དང་ཕྲད་པ, bo-gyaltsab 7-73 དགེ་བའི་བཤེས་གཉེན་དང་འཕྲད་པ. \"Association\" loses the single act of meeting a teacher/spiritual friend.",
+     "fix": "one should wish to meet [a teacher or spiritual friend]"
+    }
+   ]
+  },
+  {
+   "id": "8-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-35",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "no friends and no enemies",
+     "evidence": "འཁོན་པ is enmity/grudge, not \"enemy\"; bo-gyaltsab 8-35 བཤེས་མེད་ཅིང་གནོད་པ་བྱས་དོགས་པའི་ཁོན་པའང་མེད་པ (no friends and no grudge from suspected harm); Sanskrit avirodha \"absence of hostility\".",
+     "fix": "Having no friends and no enmity,"
+    },
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Being reckoned as already dead,",
+     "evidence": "Agentless participle dangles in English (reads as if \"no one\" is reckoned dead). bo-kunpal 8-35 ཉེ་དུ་སོགས་ཀྱིས་སྔ་ནས་ཤི་བ་དང་འདྲར་བརྩིས་ and bo-shenga 8-35 ཉེ་དུ་སོགས་ཀྱིས་སྔ་ནས་ཤི་བ་དང་འདྲ་བར་བརྩིས་ show the body is regarded as already dead by relatives and others.",
+     "fix": "Since (I) am reckoned as already dead [by relatives and others],"
+    }
+   ]
+  },
+  {
+   "id": "8-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-44",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "Just as it has now become manifest,",
+     "evidence": "ད་ལྟ་མངོན་སུམ་གྱུར་པ་བཞིན་ is \"as if directly present now\", a comparison (bo-shenga 8-44 ད་ལྟ་མངོན་སུམ་དུ་གྱུར་པ་བཞིན་གྱི་རས་; bo-kunpal 8-44 མངོན་སུམ་དུ་གྱུར་པ་བཞིན་དུ). The English states it as an accomplished fact, and \"became your affliction\" for ཉོན་མོངས་པའི་གདོང་ (bo-shenga: ཁྱོད་ཉོན་མོངས་པར་གྱུར་པའི་གདོང་, the face you are afflicted by desire for) is loose.",
+     "fix": "As if it were now directly before you,"
+    }
+   ]
+  },
+  {
+   "id": "8-51",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

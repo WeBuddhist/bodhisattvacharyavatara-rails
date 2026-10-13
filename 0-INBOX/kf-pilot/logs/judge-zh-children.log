@@ -1,0 +1,64 @@
+(anon):setopt:7: can't change option: monitor
+
+[[31mERROR[39m]: gitstatus failed to initialize.
+
+
+  Add the following parameter to ~/.zshrc for extra diagnostics on error:
+
+    GITSTATUS_LOG_LEVEL=DEBUG
+
+  Restart Zsh to retry gitstatus initialization:
+
+    [32mexec zsh[39m
+pairs to judge: 119
+judgements to make=238 calls=30
+  pass 1 zh-children 1-5..1-20 ok
+  pass 1 zh-children 1-32..3-14 ok
+  pass 1 zh-children 5-15..5-89 ok
+  pass 1 zh-children 3-26..5-7 ok
+  pass 1 zh-children 5-96..6-15 ok
+  pass 1 zh-children 6-21..6-109 ok
+  pass 1 zh-children 6-116..7-18 ok
+  pass 1 zh-children 7-19..8-7 ok
+  pass 1 zh-children 8-88..8-143 ok
+  pass 1 zh-children 8-157..9-19 ok
+  pass 1 zh-children 8-23..8-87 ok
+  pass 1 zh-children 9-63..9-103 ok
+  pass 1 zh-children 9-22..9-61 ok
+  pass 1 zh-children 9-108..9-148 ok
+  pass 1 zh-children 9-154..b-1 ok
+  pass 2 zh-children 1-32..3-14 ok
+  pass 2 zh-children 1-5..1-20 ok
+  pass 2 zh-children 5-15..5-89 ok
+  pass 2 zh-children 5-96..6-15 ok
+  pass 2 zh-children 3-26..5-7 ok
+  pass 2 zh-children 6-21..6-109 ok
+  pass 2 zh-children 6-116..7-18 ok
+  pass 2 zh-children 7-19..8-7 ok
+  pass 2 zh-children 8-23..8-87 ok
+  pass 2 zh-children 8-88..8-143 ok
+  pass 2 zh-children 8-157..9-19 ok
+  pass 2 zh-children 9-154..b-1 ok
+  pass 2 zh-children 9-63..9-103 ok
+  pass 2 zh-children 9-22..9-61 ok
+  pass 2 zh-children 9-108..9-148 ok
+pairs=509; passes disagreed on 88 (counted as tie)
+| Track | Pairs | Fixed version better | Tie | Original better |
+|---|---|---|---|---|
+| zh-academic | 108 | 60 (56%) | 36 (33%) | 12 (11%) |
+| hi-academic | 113 | 69 (61%) | 28 (25%) | 16 (14%) |
+| zh-children | 119 | 90 (76%) | 18 (15%) | 11 (9%) |
+| hi-children | 169 | 141 (83%) | 19 (11%) | 9 (5%) |
+| all | 509 | 360 (71%) | 101 (20%) | 48 (9%) |
+  reverted zh-children 3-14
+  reverted zh-children 5-45
+  reverted zh-children 5-101
+  reverted zh-children 5-102
+  reverted zh-children 7-53
+  reverted zh-children 8-143
+  reverted zh-children 8-43
+  reverted zh-children 9-63
+  reverted zh-children 9-103
+  reverted zh-children 9-61
+  reverted zh-children 10-12
+reverted 11 minor-only fixes the judge rated worse

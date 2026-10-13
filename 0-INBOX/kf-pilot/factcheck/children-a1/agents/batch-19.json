@@ -1,0 +1,301 @@
+{
+ "batch": "batch-19",
+ "segments": [
+  {
+   "id": "9-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-28",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "Without anything outside it",
+     "evidence": "Academic: 'Your mind, without a companion, would become entirely solitary.' Nothing about 'outside it'.",
+     "fix": "Your mind would have no companion. It would be completely alone."
+    }
+   ]
+  },
+  {
+   "id": "9-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-33",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "the thing you are looking for",
+     "evidence": "Academic: 'the entity to be analyzed is not apprehended' (the thing being examined, not found).",
+     "fix": "and you look closely at the thing and cannot find it"
+    }
+   ]
+  },
+  {
+   "id": "9-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-37",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "passes away",
+     "evidence": "Tibetan/academic: the bodhisattva 'has passed into nirvāṇa' (mya ngan las 'das); the glossary renders this as 'freedom from sorrow' (as in 9-38).",
+     "fix": "Even after the awakening hero passes into freedom from sorrow, it still achieves every goal."
+    }
+   ]
+  },
+  {
+   "id": "9-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-41",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "You might answer, \"Because we both agree on it.\" But at first, it was not proven for you either.",
+     "evidence": "Academic puts 'Because this is established for both of us' in a separate quotation from the opponent's question (a different speaker), then 'Initially this was not established for you'; children's text has the opponent answer and adds 'either'.",
+     "fix": "Someone might ask, \"If the Great Vehicle is not proven, how is your sacred text proven?\" The answer is, \"Because it is proven for both of us.\" But at first, it was not proven for you."
+    }
+   ]
+  },
+  {
+   "id": "9-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-43",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "You also argue with other groups about other sacred texts.",
+     "evidence": "Academic: for other scriptures there is dispute 'with your own and other schools'; 'your own' groups is dropped.",
+     "fix": "You also argue about other sacred texts, both with your own groups and with other groups."
+    }
+   ]
+  },
+  {
+   "id": "9-44",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "hard to reach",
+     "evidence": "Academic: nirvāṇa is 'difficult to establish', same wording as the monk clause ('hard to prove'); 'reach' shifts the point from establishing to attaining.",
+     "fix": "even freedom from sorrow is hard to prove"
+    }
+   ]
+  },
+  {
+   "id": "9-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-46",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "It would be just like confusion.",
+     "evidence": "Academic: 'Why would it not exist, just like delusion?' - a comparison inside the question (craving exists just as delusion does), not a flat statement.",
+     "fix": "Why would it not exist, just as confusion still exists?"
+    }
+   ]
+  },
+  {
+   "id": "9-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-48",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "doctrinal",
+     "severity": "minor",
+     "span": "does not have emptiness",
+     "evidence": "Academic: 'devoid of emptiness' means a mind without the realization of emptiness; 'does not have emptiness' suggests emptiness is something to possess.",
+     "fix": "A mind that has not understood emptiness will start up again even after it stops."
+    }
+   ]
+  },
+  {
+   "id": "9-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-50",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "a true teaching text",
+     "evidence": "Academic: 'a single one similar to a sūtra' - no 'true'.",
+     "fix": "what if just one is like a teaching text"
+    }
+   ]
+  },
+  {
+   "id": "9-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-52",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "We want to help those who have suffering from confusion. So, we are freed from extreme clinging and fear.",
+     "evidence": "Academic: for the sake of those suffering through delusion, one freed from the extremes of attachment and fear remains in saṃsāra. No 'we want', and being freed is not caused by wanting to help ('So' invents the logic); 'extreme clinging' misses 'the extremes of attachment and fear'.",
+     "fix": "For the sake of those who suffer from confusion, a person who is free from the extremes of clinging and fear can stay in the cycle of rebirth. This is the result of emptiness."
+    }
+   ]
+  },
+  {
+   "id": "9-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-57",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "lymph",
+     "evidence": "Hard unexplained word for ages 8-12 (Tibetan chu ser, a body fluid).",
+     "fix": "a watery body fluid"
+    }
+   ]
+  },
+  {
+   "id": "9-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-63",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "If something is made to notice a sound",
+     "evidence": "Academic: 'Whatever has the nature of apprehending sound' - a nature, not something 'made to' do it.",
+     "fix": "If something has the nature of noticing a sound, how could it also be the thing that notices a shape?"
+    }
+   ]
+  },
+  {
+   "id": "9-64",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

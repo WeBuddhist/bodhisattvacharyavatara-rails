@@ -1,0 +1,640 @@
+[
+ {
+  "id": "6-62",
+  "tibetan": "གལ་ཏེ་སེམས་ཅན་ཉམས་བྱེད་པས། ། མི་སྙན་སྨྲ་ལ་ཁྲོ་ཞེ་ན། ། གཞན་ལ་མི་སྙན་བརྗོད་ལའང་ཁྱོད། ། དེ་བཞིན་ཅི་སྟེ་ཁྲོ་མི་བྱེད། །",
+  "academic_translation": "If you say, \"Because it ruins sentient beings,\nI feel anger at those who speak unpleasantly,\"\nEven regarding those who speak unpleasantly about others,\nWhy do you not likewise feel anger?",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "ཁྲོ",
+    "use": "anger"
+   }
+  ],
+  "translation": "You might say, \"I feel anger at people who say mean things, because they ruin living beings.\" But people say mean things about others too. Why do you not feel anger about that?"
+ },
+ {
+  "id": "6-63",
+  "tibetan": "མ་དད་གཞན་ལ་རག་ལས་པས། ། དད་པ་མེད་ལ་ཁྱོད་བཟོད་ན། ། ཉོན་མོངས་སྐྱེ་ལ་རག་ལས་པས། ། མི་སྙན་སྨྲ་ལ་ཅིས་མི་བཟོད། །",
+  "academic_translation": "Since a lack of faith depends on others,\nIf you have patience for those without faith,\nSince it depends on the arising of afflictions,\nWhy do you not have patience for those who speak unpleasantly?",
+  "locked_terms": [
+   {
+    "tibetan": "དད་པ",
+    "use": "faith"
+   },
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   },
+   {
+    "tibetan": "བཟོད",
+    "use": "patience"
+   }
+  ],
+  "translation": "A lack of faith depends on other people. If you have patience for people without faith, why not have patience for people who speak badly? Their bad words just depend on a troubling emotion."
+ },
+ {
+  "id": "6-64",
+  "tibetan": "སྐུ་གཟུགས་མཆོད་རྟེན་དམ་ཆོས་ལ། ། འཁྱལ་ཞིང་འཇིག་པར་བྱེད་པ་ལའང་། ། བདག་གིས་ཞེ་སྡང་མི་རིགས་ཏེ། ། སངས་རྒྱས་སོགས་ལ་གནོད་མི་མངའ། །",
+  "academic_translation": "Toward images, stūpas, and the sublime Dharma,\nEven for those who disparage and destroy them,\nIt is inappropriate for me to feel hatred,\nFor the Buddhas and so forth suffer no harm.",
+  "locked_terms": [
+   {
+    "tibetan": "སྐུ་གཟུགས",
+    "use": "statue"
+   },
+   {
+    "tibetan": "མཆོད་རྟེན",
+    "use": "shrine"
+   },
+   {
+    "tibetan": "དམ་ཆོས",
+    "use": "holy teachings"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "ཞེ་སྡང",
+    "use": "hatred"
+   }
+  ],
+  "translation": "Some people insult and destroy statues, shrines, and the holy teachings. Even then, it is wrong for me to feel hatred. The Buddhas and others cannot be harmed by this."
+ },
+ {
+  "id": "6-65",
+  "tibetan": "བླ་མ་གཉེན་ལ་སོགས་པ་དང་། ། བཤེས་ལ་གནོད་པ་བྱེད་རྣམས་ལའང་། ། སྔ་མའི་ཚུལ་གྱིས་རྐྱེན་དག་ལས། ། འགྱུར་བར་མཐོང་ནས་ཁྲོ་བ་བཟློག །",
+  "academic_translation": "Toward those who harm teachers, relatives, and so forth,\nAnd even those who harm friends,\nIn the previous manner, from conditions,\nSeeing that this arises, I should turn back anger.",
+  "locked_terms": [
+   {
+    "tibetan": "བླ་མ",
+    "use": "teacher"
+   },
+   {
+    "tibetan": "རྐྱེན",
+    "use": "circumstance"
+   },
+   {
+    "tibetan": "ཁྲོ་བ",
+    "use": "anger"
+   }
+  ],
+  "translation": "Some people harm my teachers, relatives, and friends. But just like before, I see that this harm only comes from circumstances. Seeing this, I should stop my anger."
+ },
+ {
+  "id": "6-66",
+  "tibetan": "ལུས་ཅན་རྣམས་ལ་སེམས་ཡོད་དང་། ། སེམས་མེད་གཉི་གས་གནོད་བྱས་ན། ། སེམས་ཡོད་ཅི་སྟེ་བཀར་ཏེ་བཀོན། ། དེ་བས་གནོད་པ་བཟོད་པར་གྱིས། །",
+  "academic_translation": "If both beings with a mind\nand the insentient cause harm to embodied beings,\nwhy single out beings with a mind to blame?\nTherefore, practice patience toward harm.",
+  "locked_terms": [
+   {
+    "tibetan": "ལུས་ཅན",
+    "use": "being with a body"
+   },
+   {
+    "tibetan": "སེམས་ཡོད",
+    "use": "being with a mind"
+   },
+   {
+    "tibetan": "སེམས་མེད",
+    "use": "thing without a mind"
+   },
+   {
+    "tibetan": "བཟོད་པ",
+    "use": "patience"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "Both a being with a mind and a thing without a mind can hurt a being with a body. Why do we only blame the being with a mind? Therefore, practice patience when you are harmed."
+ },
+ {
+  "id": "6-67",
+  "tibetan": "ལ་ལ་རྨོངས་པས་ཉེས་པ་བྱེད། ། ལ་ལ་རྨོངས་ཏེ་ཁྲོས་གྱུར་ན། ། དེ་ལ་སྐྱོན་མེད་གང་གིས་བྱ། ། སྐྱོན་དང་བཅས་ཏེ་གང་ཞིག་ཡིན། །",
+  "academic_translation": "Some commit misdeeds out of delusion;\nIf others, out of delusion, react with anger,\nWho among them is faultless,\nAnd who is the one at fault?",
+  "locked_terms": [
+   {
+    "tibetan": "རྨོངས་པ",
+    "use": "confusion"
+   },
+   {
+    "tibetan": "ཁྲོས",
+    "use": "anger"
+   }
+  ],
+  "translation": "Some people do bad things because of confusion. Others react with anger because of confusion. Which of them is without fault? And which one is to blame?"
+ },
+ {
+  "id": "6-68",
+  "tibetan": "གང་གིས་གཞན་དག་གནོད་བྱེད་པའི། ། ལས་དེ་སྔོན་ཆད་ཅི་ཕྱིར་བྱས། ། ཐམས་ཅད་ལས་ལ་རག་ལས་ན། ། བདག་གིས་འདི་ལ་ཅི་སྟེ་བཀོན། །",
+  "academic_translation": "That karma by which others cause harm,\nWhy did I previously commit it?\nIf everything depends upon karma,\nWhy should I harbor resentment toward this?",
+  "locked_terms": [
+   {
+    "tibetan": "ལས",
+    "use": "action"
+   }
+  ],
+  "translation": "Why did I do the past action that makes others harm me? If everything comes from action, why should I be angry about this?"
+ },
+ {
+  "id": "6-69",
+  "tibetan": "དེ་ལྟར་མཐོང་ནས་ཅི་ནས་ཀྱང་། ། ཐམས་ཅད་ཕན་ཚུན་བྱམས་སེམས་སུ། ། འགྱུར་བ་དེ་ལྟར་བདག་གིས་ནི། ། བསོད་ནམས་དག་ལ་བསྒྲིམས་ཏེ་བྱ། །",
+  "academic_translation": "Having seen this, by all means,\nSo that all will have a loving mind for one another,\nSo that this may come to be, I\nShall exert myself in merit.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱམས་སེམས",
+    "use": "loving mind"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "store of goodness"
+   }
+  ],
+  "translation": "Seeing this, I must try my best to build my store of goodness. I will do this so that everyone can have a loving mind for one another."
+ },
+ {
+  "id": "6-70",
+  "tibetan": "དཔེར་ན་ཁྱིམ་ཚིག་གྱུར་པའི་མེ། ། ཁྱིམ་གཞན་ཞིག་ཏུ་སོང་ནས་ནི། ། རྩྭ་སོགས་གང་ལ་མཆེད་བྱེད་པ། ། དེ་ནི་ཕྱུང་སྟེ་དོར་བ་ཡིན། །",
+  "academic_translation": "For example, when the fire from a burning house\nMoves to another house,\nWhatever straw and such it catches on,\nThat is pulled out and discarded.",
+  "locked_terms": [],
+  "translation": "Imagine a fire spreading from one burning house to another. If the fire catches on straw or things like that, people pull the straw out and throw it away."
+ },
+ {
+  "id": "6-71",
+  "tibetan": "དེ་བཞིན་གང་ལ་སེམས་ཆགས་ནས། ། ཞེ་སྡང་མེ་ནི་མཆེད་གྱུར་པ། ། བསོད་ནམས་ཚིག་པར་དོགས་པ་ཡིས། ། དེ་ནི་དེ་ཡི་མོད་ལ་དོར། །",
+  "academic_translation": "Likewise, whatever the mind has attachment to,\nIn which the fire of hatred has spread,\nOut of fear that merit will be burned,\nThat must be discarded instantly.",
+  "locked_terms": [
+   {
+    "tibetan": "ཞེ་སྡང",
+    "use": "hatred"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "store of goodness"
+   },
+   {
+    "tibetan": "ཆགས",
+    "use": "clinging"
+   }
+  ],
+  "translation": "In the same way, the fire of hatred spreads to whatever the mind has clinging to. To stop my store of goodness from burning, I must throw that clinging away right now."
+ },
+ {
+  "id": "6-72",
+  "tibetan": "གསད་བྱའི་མི་ཞིག་ལག་བཅད་དེ། ། གལ་ཏེ་ཐར་ན་ཅིས་མ་ལེགས། ། གལ་ཏེ་མི་ཡི་སྡུག་བསྔལ་གྱིས། ། དམྱལ་བ་བྲལ་ན་ཅིས་མ་ལེགས། །",
+  "academic_translation": "If a person to be killed has a hand cut off\nAnd is freed, why is it not good?\nIf through human suffering\nOne is freed from hell, why is it not good?",
+  "locked_terms": [
+   {
+    "tibetan": "དམྱལ་བ",
+    "use": "hell"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "If a person about to be killed loses a hand but goes free, isn't that good? If human suffering frees someone from hell, isn't that a good thing?"
+ },
+ {
+  "id": "6-73",
+  "tibetan": "ད་ལྟའི་སྡུག་བསྔལ་འདི་ཙམ་ལའང་། ། བདག་གིས་བཟོད་པར་མི་ནུས་ན། ། དེས་ན་དམྱལ་བའི་སྡུག་བསྔལ་རྒྱུ། ། ཁྲོ་བ་ཅི་སྟེ་བཟློག་མི་བྱེད། །",
+  "academic_translation": "If even this much present suffering\nCannot be endured by me,\nThen the cause of suffering in hell,\nAnger, why do I not avert it?",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "དམྱལ་བ",
+    "use": "hell"
+   },
+   {
+    "tibetan": "ཁྲོ་བ",
+    "use": "anger"
+   }
+  ],
+  "translation": "If I cannot bear even this much suffering right now, why do I not stop my anger? Anger is the cause of suffering in hell."
+ },
+ {
+  "id": "6-74",
+  "tibetan": "འདོད་པའི་དོན་དུ་སྲེག་ལ་སོགས། ། དམྱལ་བར་སྟོང་ཕྲག་མྱོང་གྱུར་ཡང་། ། བདག་གིས་རང་གི་དོན་དང་ནི། ། གཞན་གྱི་དོན་ཡང་མ་བྱས་སོ། །",
+  "academic_translation": "For the sake of sensual desire, burning and so forth\nI have experienced in hell thousands of times;\nYet I have accomplished neither my own welfare\nNor the welfare of others.",
+  "locked_terms": [
+   {
+    "tibetan": "འདོད་པ",
+    "use": "desire for pleasure"
+   },
+   {
+    "tibetan": "དམྱལ་བ",
+    "use": "hell"
+   },
+   {
+    "tibetan": "རང་གི་དོན",
+    "use": "own good"
+   },
+   {
+    "tibetan": "གཞན་གྱི་དོན",
+    "use": "good of others"
+   }
+  ],
+  "translation": "Because of my desire for pleasure, I have suffered burning in hell thousands of times. Yet I have not achieved my own good or the good of others."
+ },
+ {
+  "id": "6-75",
+  "tibetan": "འདི་ནི་དེ་ཙམ་གནོད་མིན་ལ། ། དོན་ཆེན་དག་ཀྱང་འགྲུབ་འགྱུར་བས། ། འགྲོ་བའི་གནོད་སེལ་སྡུག་བསྔལ་ལ། ། དགའ་བ་འབའ་ཞིག་འདིར་བྱ་རིགས། །",
+  "academic_translation": "This is not so harmful,\nAnd great purposes will also be accomplished;\nIn the suffering that dispels the harm of wandering beings,\nIt is appropriate here only to rejoice.",
+  "locked_terms": [
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "This is not so harmful, and it will achieve great things. I should only be glad about suffering that takes away the harm from beings."
+ },
+ {
+  "id": "6-76",
+  "tibetan": "གཞན་གྱིས་ཡོན་ཏན་ལྡན་བསྟོད་ནས། ། གལ་ཏེ་དགའ་བའི་བདེ་ཐོབ་ན། ། ཡིད་ཁྱོད་ཀྱང་ནི་དེ་བསྟོད་ནས། ། ཅི་ཕྱིར་དེ་ལྟར་དགའ་མི་བྱེད། །",
+  "academic_translation": "If others, by praising those possessing good qualities,\nAttain the happiness of joy,\nO mind, you too having praised them,\nWhy do you not rejoice in that way?",
+  "locked_terms": [
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   }
+  ],
+  "translation": "If others find joy by praising those who have good qualities, O my mind, why don't you praise them and rejoice in that same way?"
+ },
+ {
+  "id": "6-77",
+  "tibetan": "ཁྱོད་ཀྱི་དགའ་བའི་བདེ་བ་འདི། ། བདེ་འབྱུང་ཁ་ན་མ་ཐོ་མེད། ། ཡོན་ཏན་ལྡན་པ་རྣམས་ཀྱིས་གནང་། ། གཞན་སྡུད་པ་ཡི་མཆོག་ཀྱང་ཡིན། །",
+  "academic_translation": "This happiness of your rejoicing\nIs a source of happiness without blame;\nIt is permitted by ones endowed with good qualities,\nAnd is also the supreme way of gathering others.",
+  "locked_terms": [
+   {
+    "tibetan": "ཡོན་ཏན་ལྡན་པ",
+    "use": "person with good qualities"
+   }
+  ],
+  "translation": "The happiness you feel from rejoicing is a source of joy without any blame. A person with good qualities allows it. It is also the best way to bring others together."
+ },
+ {
+  "id": "6-78",
+  "tibetan": "གཞན་ཡང་དེ་ལྟར་བདེ་འགྱུར་ཞེས། ། གལ་ཏེ་ཁྱོད་བདེ་འདི་མི་འདོད། ། གླ་རྔན་སྦྱིན་སོགས་སྤངས་པའི་ཕྱིར། ། མཐོང་དང་མ་མཐོང་ཉམས་པར་འགྱུར། །",
+  "academic_translation": "Moreover, thinking, \"In that way, the other will be happy,\"\nIf you do not desire this happiness,\nThrough forsaking the giving of wages and the like,\nThe seen and unseen will be ruined.",
+  "locked_terms": [
+   {
+    "tibetan": "མཐོང་དང་མ་མཐོང",
+    "use": "this life and the next"
+   }
+  ],
+  "translation": "You might think, \"Paying them will make them happy.\" If you do not want them to be happy, you might not pay their wages. That will ruin this life and the next."
+ },
+ {
+  "id": "6-79",
+  "tibetan": "རང་གི་ཡོན་ཏན་བརྗོད་པའི་ཚེ། ། གཞན་ལ་བདེ་བའང་འདོད་པར་བྱེད། ། གཞན་གྱི་ཡོན་ཏན་བརྗོད་པའི་ཚེ། ། རང་ལའང་བདེ་བ་མི་འདོད་བྱེད། །",
+  "academic_translation": "When your own good qualities are spoken of,\nYou want others to have happiness too;\nWhen the good qualities of others are spoken of,\nYou do not want happiness even for yourself.",
+  "locked_terms": [
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   }
+  ],
+  "translation": "When people praise your own good qualities, you want others to be happy too. When they praise the good qualities of others, you do not even want happiness for yourself."
+ },
+ {
+  "id": "6-80",
+  "tibetan": "སེམས་ཅན་ཐམས་ཅད་བདེ་འདོད་པས། ། བྱང་ཆུབ་ཏུ་ནི་སེམས་བསྐྱེད་ནས། ། སེམས་ཅན་རང་གིས་བདེ་རྙེད་ན། ། དེས་ཀོ་ཅི་སྟེ་ཁྲོ་བར་བྱེད། །",
+  "academic_translation": "Desiring happiness for all sentient beings,\nHaving undertaken the generation of bodhicitta for awakening,\nIf sentient beings find happiness themselves,\nWhy do you become angry at that?",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "སེམས་བསྐྱེད",
+    "use": "giving rise to the awakening mind"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   }
+  ],
+  "translation": "You want happiness for all living beings. You showed this by giving rise to the awakening mind for awakening. If living beings find happiness themselves, why do you get angry at that?"
+ },
+ {
+  "id": "6-81",
+  "tibetan": "འཇིག་རྟེན་གསུམ་མཆོད་འཚང་རྒྱ་བར། ། སེམས་ཅན་རྣམས་ནི་འདོད་ཅེ་ན། ། བསྙེན་བཀུར་ངན་ངོན་ཙམ་མཐོང་ནས། ། ཅི་ཕྱིར་དེ་ལ་གདུང་བར་བྱེད། །",
+  "academic_translation": "Awakening as a Buddha worshipped by the three worlds,\nIf you desire this for sentient beings,\nUpon seeing them receive mere meager honor and respect,\nWhy do you become tormented by that?",
+  "locked_terms": [
+   {
+    "tibetan": "འཇིག་རྟེན་གསུམ",
+    "use": "three worlds"
+   },
+   {
+    "tibetan": "འཚང་རྒྱ་བ",
+    "use": "becoming a Buddha"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "བསྙེན་བཀུར",
+    "use": "respect"
+   }
+  ],
+  "translation": "You want living beings to achieve becoming a Buddha. You want the three worlds to honor them. When you see them receive just a little respect, why does that upset you?"
+ },
+ {
+  "id": "6-82",
+  "tibetan": "གསོ་བྱ་གང་ཞིག་ཁྱོད་གསོ་བ། ། ཁྱོད་ཉིད་ཀྱིས་ནི་སྦྱིན་བྱ་དེ། ། གཉེན་གྱིས་འཚོ་བ་རྙེད་གྱུར་ན། ། དགར་མི་འགྱུར་བར་སླར་ཁྲོའམ། །",
+  "academic_translation": "Whoever is a dependent you nurture,\nTo whom you yourself must give,\nIf those relatives find a livelihood,\nInstead of being glad, do you become angry in return?",
+  "locked_terms": [],
+  "translation": "Imagine someone you must take care of and give things to. If that relative finds a way to support themselves, do you get angry instead of being glad?"
+ },
+ {
+  "id": "6-83",
+  "tibetan": "དེ་ཅི་འགྲོ་ལ་མི་འདོད་ན། ། དེ་ལ་བྱང་ཆུབ་འདོད་གང་ཡིན། ། གང་ཞིག་གཞན་འབྱོར་ཁྲོ་དེ་ལ། ། བྱང་ཆུབ་སེམས་ནི་ག་ལ་ཡོད། །",
+  "academic_translation": "If you do not desire this for wandering beings,\nWho is it that desires awakening for them?\nIn whoever becomes angry at another's prosperity,\nWhere is bodhicitta?",
+  "locked_terms": [
+   {
+    "tibetan": "འགྲོ",
+    "use": "being"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས",
+    "use": "awakening mind"
+   }
+  ],
+  "translation": "If you do not want this for beings, who will want awakening for them? If someone gets angry at another person's success, where is their awakening mind?"
+ },
+ {
+  "id": "6-84",
+  "tibetan": "གལ་ཏེ་དེས་དེ་ལས་རྙེད་དམ། ། སྦྱིན་བདག་ཁྱིམ་ན་གནས་གྱུར་པ། ། ཀུན་དུ་དེ་ཁྱོད་ལ་མེད་ན། ། བྱིན་མ་བྱིན་རུང་དེས་ཅི་བྱ། །",
+  "academic_translation": "Whether he receives it from him,\nOr it remains in the benefactor's house,\nSince in any case you do not have it,\nWhat does it matter whether it is given or not?",
+  "locked_terms": [
+   {
+    "tibetan": "སྦྱིན་བདག",
+    "use": "giver"
+   }
+  ],
+  "translation": "Whether someone gets a gift, or it stays in the giver's house, you do not have it either way. So what does it matter if it is given or not?"
+ },
+ {
+  "id": "6-85",
+  "tibetan": "བསོད་ནམས་དང་ནི་དད་པའམ། ། རང་གི་ཡོན་ཏན་ཅི་ཕྱིར་འདོར། ། རྙེད་པ་གྱུར་པ་མི་འཛིན་པ། ། གང་གིས་ཁྲོ་བ་མི་བྱེད་སྨྲོས། །",
+  "academic_translation": "Merit and faith,\nOr your own good qualities, why do you cast them away?\nNot holding on to what would bring you gains,\nTell me, why are you not angry at yourself?",
+  "locked_terms": [
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "store of goodness"
+   },
+   {
+    "tibetan": "དད་པ",
+    "use": "faith"
+   },
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   }
+  ],
+  "translation": "Why do you throw away your store of goodness, your faith, or your own good qualities? You let go of what brings you gains. Tell me, why are you not angry at yourself?"
+ },
+ {
+  "id": "6-86",
+  "tibetan": "ཁྱོད་ནི་རང་གིས་སྡིག་བྱས་ལ། ། མྱ་ངན་མེད་པར་མ་ཟད་ཀྱི། ། བསོད་ནམས་བྱས་པ་གཞན་དག་དང་། ། ལྷན་ཅིག་འགྲན་པར་བྱེད་འདོད་དམ།། ། །བམ་པོ་གཉིས་པའོ། །",
+  "academic_translation": "For the misdeeds you yourself have committed,\nNot only are you without sorrow,\nBut with others who have performed merit,\nDo you wish to compete?\n\nThe Second Fascicle.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡིག",
+    "use": "harmful deed"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "store of goodness"
+   }
+  ],
+  "translation": "You feel no sorrow for the harmful deeds you yourself have done. On top of that, do you want to compete with others who have built up a store of goodness? The Second Fascicle."
+ },
+ {
+  "id": "6-87",
+  "tibetan": "གལ་ཏེ་དགྲ་ཞིག་མི་དགའ་ནའང་། ། དེ་ལ་ཁྱོད་དགར་ཅི་ཞིག་ཡོད། ། ཁྱོད་ཀྱི་ཡིད་སྨོན་ཙམ་གྱིས་ནི། ། དེ་ལ་གནོད་པའི་རྒྱུར་མི་འགྱུར། །",
+  "academic_translation": "Even if an enemy is unhappy,\nWhat is there for you to rejoice in?\nYour mere wishing\nWill not become a cause of harm to him.",
+  "locked_terms": [
+   {
+    "tibetan": "དགྲ",
+    "use": "enemy"
+   }
+  ],
+  "translation": "Even if an enemy is unhappy, what is there for you to be glad about? Your wishing alone will not cause him any harm."
+ },
+ {
+  "id": "6-88",
+  "tibetan": "ཁྱོད་ཀྱི་འདོད་པས་སྡུག་བསྔལ་དེ། ། གྲུབ་ནའང་ཁྱོད་དགར་ཅི་ཞིག་ཡོད། ། གལ་ཏེ་འཚེངས་པར་འགྱུར་ཞེ་ན། ། དེ་ལས་ཕུང་བའང་གཞན་ཅི་ཡོད། །",
+  "academic_translation": "Even if, through your desire, that suffering\nIs accomplished, what is there for you to rejoice in?\nIf you say, \"I will be satisfied,\"\nWhat is more ruinous than that?",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "Even if your wishes make that suffering happen, what is there for you to be glad about? If you say, 'I will be satisfied,' what could ruin you more than that?"
+ },
+ {
+  "id": "6-89",
+  "tibetan": "ཉོན་མོངས་ཉ་པས་བཏབ་པ་ཡི། ། མཆིལ་པ་འདི་ནི་མི་བཟད་གཟེ། ། དེས་བཟུང་སེམས་དམྱལ་བུམ་པར་ཡང་། ། དམྱལ་བའི་སྲུང་མས་བདག་འཚེད་དེས། །",
+  "academic_translation": "Cast by the fisherman of the afflictions,\nThis hook is unbearable and terrible;\nCaught by it, in the cauldrons of hell,\nThe hell guardians will certainly boil me.",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   },
+   {
+    "tibetan": "དམྱལ་བ",
+    "use": "hell"
+   },
+   {
+    "tibetan": "དམྱལ་བུམ་པ",
+    "use": "cauldron of hell"
+   },
+   {
+    "tibetan": "དམྱལ་བའི་སྲུང་མ",
+    "use": "hell guardian"
+   }
+  ],
+  "translation": "The fisherman of troubling emotions throws a terrible hook that is hard to bear. If I am caught by it, the hell guardians will certainly boil me in the cauldrons of hell."
+ },
+ {
+  "id": "6-90",
+  "tibetan": "བསྟོད་དང་གྲགས་པའི་རིམ་གྲོས་ནི། ། བསོད་ནམས་མི་འགྱུར་ཆེར་མི་འགྱུར། ། བདག་སྟོབས་མི་འགྱུར་ནད་མེད་མིན། ། ལུས་བདེ་བར་ཡང་མི་འགྱུར་རོ། །",
+  "academic_translation": "The honors of praise and fame\nDo not become merit, nor do they become long life;\nThey do not become my strength, nor are they health;\nAnd they do not even make the body comfortable.",
+  "locked_terms": [
+   {
+    "tibetan": "བསྟོད",
+    "use": "praise"
+   },
+   {
+    "tibetan": "གྲགས་པ",
+    "use": "fame"
+   },
+   {
+    "tibetan": "རིམ་གྲོ",
+    "use": "honor"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "store of goodness"
+   }
+  ],
+  "translation": "The honor of praise and fame does not build my store of goodness. It does not give me a long life. It does not become my strength or health. It does not even make my body comfortable."
+ },
+ {
+  "id": "6-91",
+  "tibetan": "བདག་ནི་རང་དོན་ཤེས་གྱུར་ན། ། དེ་ལ་རང་དོན་ཅི་ཞིག་ཡོད། ། ཡིད་བདེ་འབའ་ཞིག་འདོད་ན་ནི། ། རྒྱན་སོགས་ཆང་ཡང་བསྟེན་དགོས་སོ། །",
+  "academic_translation": "If I were to know my own welfare,\nWhat welfare of mine is there in that?\nIf I desire only mental happiness,\nI must also rely on gambling, alcohol, and the like.",
+  "locked_terms": [
+   {
+    "tibetan": "རང་དོན",
+    "use": "own good"
+   }
+  ],
+  "translation": "If I really knew my own good, what own good is there in that? If I only want my mind to feel happy, I must also rely on gambling and alcohol."
+ },
+ {
+  "id": "6-92",
+  "tibetan": "གྲགས་པའི་དོན་དུ་ནོར་ཤོར་ཅིང་། ། བདག་ཉིད་ཀྱང་ནི་གསོད་བྱེད་ན། ། ཚིག་འབྲུ་རྣམས་ཀྱིས་ཅི་ཞིག་བྱ། ། ཤ་ནི་དེས་ཀོ་སུ་ལ་བདེ། །",
+  "academic_translation": "If, for the sake of fame, I squander my wealth,\nAnd even get myself killed,\nWhat is the use of mere syllables?\nOnce dead, who will be made happy by them?",
+  "locked_terms": [
+   {
+    "tibetan": "གྲགས་པ",
+    "use": "fame"
+   }
+  ],
+  "translation": "If I waste my wealth for the sake of fame, and even get myself killed, what is the use of mere words? Once I am dead, who will be made happy by them?"
+ },
+ {
+  "id": "6-93",
+  "tibetan": "བྱེ་མའི་ཁང་བུ་རྡིབ་གྱུར་ན། ། བྱིས་པ་རྣམས་ནི་ག་ཆད་དུ། ། དེ་བཞིན་བསྟོད་དང་གྲགས་ཉམས་ན། ། རང་གི་སེམས་ནི་བྱིས་པ་བཞིན། །",
+  "academic_translation": "When a sandcastle collapses,\nChildren weep in despair;\nLikewise, when praise and fame decline,\nMy own mind is like a child's.",
+  "locked_terms": [
+   {
+    "tibetan": "བསྟོད་དང་གྲགས",
+    "use": "praise and fame"
+   }
+  ],
+  "translation": "When a sandcastle falls down, children cry in despair. In the same way, when praise and fame fade away, my own mind acts just like a child."
+ },
+ {
+  "id": "6-94",
+  "tibetan": "རེ་ཞིག་སྒྲ་ལ་སེམས་མེད་ཕྱིར། ། བདག་ལ་བསྟོད་སེམས་ཡོད་མི་སྲིད། ། བདག་ལ་གཞན་དགའ་ཞེས་གྲགས་པ། ། དེ་ནི་དགའ་བའི་རྒྱུ་ཡིན་གྲང་། །",
+  "academic_translation": "First of all, since sound is mindless,\nIt cannot possibly have the intention to praise me.\nAs for the fact that it is said, \"Others are pleased with me,\"\nPerhaps that is the cause of joy?",
+  "locked_terms": [],
+  "translation": "First of all, a sound has no mind. It cannot possibly mean to praise me. People might say that others are pleased with me. Is that a reason to feel joy?"
+ },
+ {
+  "id": "6-95",
+  "tibetan": "གཞན་ནམ་ཡང་ན་བདག་ལའང་རུང་། ། གཞན་དགའ་བདག་ལ་ཅི་ཞིག་ཕན། ། དགའ་བདེ་དེ་ནི་དེ་ཉིད་ཀྱི། ། བདག་གིས་དེ་ལས་ཤས་མི་འཐོབ། །",
+  "academic_translation": "Whether it is directed at another or even at myself,\nHow does the joy of another benefit me?\nThat joy and happiness belong to them alone;\nI do not obtain a share of it.",
+  "locked_terms": [],
+  "translation": "Whether someone is pleased with another person or with me, how does their joy help me? That joy and happiness belong only to them. I do not get a share of it."
+ },
+ {
+  "id": "6-96",
+  "tibetan": "དེ་བདེ་བ་ཡི་བདག་བདེ་ན། ། ཀུན་ལའང་དེ་བཞིན་བྱ་དགོས་ན། ། ཇི་ལྟར་གཞན་ལ་དགའ་བ་ཡིས། ། བདེ་བར་གྱུར་ན་བདག་མི་བདེ། །",
+  "academic_translation": "If I am happy through their happiness,\nThen I must do the same toward everyone.\nHow is it that when they become happy\nThrough rejoicing in others, I am not happy?",
+  "locked_terms": [],
+  "translation": "If I am happy because they are happy, I should feel this way toward everyone. Why am I not happy when they are happy for someone else?"
+ },
+ {
+  "id": "6-97",
+  "tibetan": "དེ་བས་བདག་ནི་བསྟོད་དོ་ཞེས། ། རང་གི་དགའ་བ་སྐྱེ་འགྱུར་བ། ། དེ་ཡང་དེ་ལྟར་མི་འཐད་པས། ། བྱིས་པའི་སྤྱོད་པ་ཁོ་ནར་ཟད། །",
+  "academic_translation": "Therefore, the joy that arises in me\nThinking, \"I am praised!\"—\nSince that too is thus unjustified,\nIt is nothing but the behavior of a child.",
+  "locked_terms": [],
+  "translation": "Feeling joy just because I think I am praised makes no sense. It is nothing but the behavior of a child."
+ },
+ {
+  "id": "6-98",
+  "tibetan": "བསྟོད་སོགས་བདག་ནི་གཡེང་བར་བྱེད། ། དེས་ནི་སྐྱོ་བའང་འཇིག་པར་བྱེད། ། ཡོན་ཏན་ལྡན་ལ་ཕྲག་དོག་དང་། ། ཕུན་སུམ་ཚོགས་པའང་འཇིག་པར་བྱེད། །",
+  "academic_translation": "Praise and so forth distract me,\nAnd they destroy my disillusionment too;\nThey cause envy toward those with good qualities,\nAnd they also destroy excellence.",
+  "locked_terms": [
+   {
+    "tibetan": "སྐྱོ་བ",
+    "use": "weariness with the cycle of rebirth"
+   },
+   {
+    "tibetan": "ཕྲག་དོག",
+    "use": "jealousy"
+   },
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   },
+   {
+    "tibetan": "ཕུན་སུམ་ཚོགས་པ",
+    "use": "excellence"
+   }
+  ],
+  "translation": "Praise and similar things distract me. They destroy my weariness with the cycle of rebirth. They cause jealousy toward those with good qualities. They also destroy excellence."
+ },
+ {
+  "id": "6-99",
+  "tibetan": "དེ་ཕྱིར་བདག་གི་བསྟོད་སོགས་ནི། ། གཞིག་ཕྱིར་གང་དག་ཉེར་གནས་པ། ། དེ་དག་བདག་ནི་ངན་སོང་དུ། ། ལྟུང་བ་བསྲུང་ཕྱིར་ཞུགས་མིན་ནམ། །",
+  "academic_translation": "Therefore, those who are present\nIn order to destroy my praise and so forth—\nAre they not engaged in protecting me\nFrom falling into the lower realms?",
+  "locked_terms": [
+   {
+    "tibetan": "ངན་སོང",
+    "use": "unhappy realm"
+   }
+  ],
+  "translation": "Some people are around just to destroy my praise. Are they not protecting me from falling into an unhappy realm?"
+ },
+ {
+  "id": "6-100",
+  "tibetan": "བདག་ནི་གྲོལ་བ་དོན་གཉེར་ལ། ། རྙེད་དང་བཀུར་སྟི་འཆིང་མི་དགོས། ། གང་དག་བདག་བཅིངས་གྲོལ་བྱེད་པ། ། དེ་ལ་བདག་ནི་ཇི་ལྟར་ཁྲོ། །",
+  "academic_translation": "Since I seek release,\nI do not need the bonds of gain and honor.\nThose who release me from being bound—\nHow could I be angry with them?",
+  "locked_terms": [
+   {
+    "tibetan": "གྲོལ་བ",
+    "use": "freedom"
+   },
+   {
+    "tibetan": "རྙེད",
+    "use": "gain"
+   },
+   {
+    "tibetan": "བཀུར་སྟི",
+    "use": "honor"
+   }
+  ],
+  "translation": "Since I seek freedom, I do not need the chains of gain and honor. These people give me freedom from being tied up. How could I be angry with them?"
+ },
+ {
+  "id": "6-101",
+  "tibetan": "བདག་ནི་སྡུག་བསྔལ་འཇུག་འདོད་ལ། ། སངས་རྒྱས་ཀྱིས་ནི་བྱིན་བརླབས་བཞིན། ། མི་གཏོང་སྒོ་འཕར་ཉིད་གྱུར་པ། ། དེ་ལ་བདག་ནི་ཇི་ལྟར་ཁྲོ། །",
+  "academic_translation": "When I wish to enter into suffering,\nLike a blessing of the Buddha,\nThey become the very door that does not let me enter.\nHow could I be angry with them?",
+  "locked_terms": [
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "བྱིན་བརླབས",
+    "use": "blessing"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "When I wish to step into suffering, these people become a door that keeps me out. They act like a blessing of the Buddha. How could I be angry with them?"
+ }
+]

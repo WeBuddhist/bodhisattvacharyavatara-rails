@@ -1,0 +1,121 @@
+{
+ "batch": "batch-06",
+ "segments": [
+  {
+   "id": "2-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-1",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "For all sentient beings, in the virtue",
+     "evidence": "Tibetan 'སེམས་ཅན་ཀུན་གྱི་ངན་སོང་གི། སྡུག་བསྔལ་ངལ་སོའི་དགེ་བ་' has 'ཀུན་གྱི' (genitive), not a benefactive: it is the virtue/suffering belonging to all beings, not a rejoicing 'for' them. Sanskrit 'sarvasattvaiḥ kṛtaṃ śubham' = virtue done by all beings; bo-shenga 3-1 'སེམས་ཅན་ཀུན་ཀྱི་... དགེ་བ་བཅུ་ལ་སོགས་པ་བསྒྲུབ་པ'; bo-gyaltsab 3-1 'སེམས་ཅན་ཀུན་གྱི་ངན་སོང་གི་སྡུག་བསྔལ་ངལ་གསོ་ཞིང་... དགེ་བ་'.",
+     "fix": "In the virtue of all sentient beings that brings rest from the suffering of the lower realms,"
+    }
+   ]
+  },
+  {
+   "id": "3-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-4",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "confused in the darkness of suffering",
+     "evidence": "Tibetan 'སེམས་ཅན་སྡུག་བསྔལ་མུན་འཐོམས་ལ།'. Commentaries read suffering and the darkness as separate: bo-shenga 3-4 'སེམས་ཅན་སྡུག་བསྔལ་ཞིང་ཡོངས་སུ་མི་ཤེས་པའི་མུན་པར་འཐོམས་པ' and bo-gyaltsab 3-4 'སྡུག་བསྔལ་ཞིང་མ་རིག་པའི་མུན་པར་འཐོམས་པ' (suffering and bewildered in the darkness of ignorance). Sanskrit 'mohād duḥkhaprapātinām'. The darkness is ignorance, not suffering.",
+     "fix": "For sentient beings who suffer and are bewildered in the darkness [of ignorance],"
+    }
+   ]
+  },
+  {
+   "id": "3-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-14",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

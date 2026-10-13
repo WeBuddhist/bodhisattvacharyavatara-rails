@@ -1,0 +1,134 @@
+{
+ "batch": "batch-07",
+ "segments": [
+  {
+   "id": "9-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "are invalidated by those successively higher",
+     "evidence": "Shenga 9-4 glosses the verb directly: \"གནོད་ཅེས་པ་ནི་ཟིལ་གྱིས་གནོན་ཞེས་པའི་ཐ་ཚིག\" ('harm' means 'overpower'); Kunpal 9-4 likewise \"གནོད་ཅིང་ཟིལ་གྱིས་གནོན\". \"Invalidated\" narrows གནོད to an epistemic sense and loses the 'overpowering' sense given by the commentaries.",
+     "fix": "are undermined (overpowered) by those successively higher"
+    },
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "because, for the sake of the result, they are not analyzed",
+     "evidence": "The Tibetan \"འབྲས་བུའི་དོན་དུ་མ་དཔྱད་ཕྱིར\" has no expressed subject; Shenga 9-4 reads \"འབྲས་བུའི་དོན་དུ་མ་དཔྱད་པར་དེའི་རྒྱུ་ལ་འཇུག་པའི་ཕྱིར\" (one engages the cause without analyzing, for the sake of the result), and Kunpal 9-4 \"འབྲས་བུའམ་དགོས་པའི་དོན་དུ་མ་བརྟགས་མ་དཔྱད\". The English passive \"they are not analyzed\" makes the examples/yogis the unanalyzed items.",
+     "fix": "because, for the sake of the result, [people] do not analyze [them]"
+    }
+   ]
+  },
+  {
+   "id": "9-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-26",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "form",
+     "severity": "minor",
+     "span": "If an illusion is not other than the mind, / And it is not conceived as non-other either,",
+     "evidence": "The first couplet is the Cittamātrin objection (Kunpal 9-26 \"སེམས་ཙམ་རྣམ་རྫུན་པ་ན་རེ\"; Shenga 9-26 \"ཅེ་ན། དེ་ཡང་རིགས་པ་མ་ཡིན་ཏེ\"), and the Madhyamaka reply begins at \"དངོས་ན་ཇི་ལྟར\". The English runs objection and reply together without marking who speaks, unlike 9-27/9-30 where objections are quoted.",
+     "fix": "\"If an illusion is not other than the mind, / And it is not conceived as non-other either\"— / If it is an entity, how is it not other? / If it is not other, it does not exist as an entity."
+    }
+   ]
+  },
+  {
+   "id": "9-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-49",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "is equal to your sūtras",
+     "evidence": "\"མཚུངས\" (Skt tulya) means similar/comparable; Gyaltsab 9-49 says \"རྣམ་པ་ཐམས་ཅད་དུ་མི་མཉམ་ཡང་ ... མཚུངས་པར\" (though not equal in every respect, it is similar). \"Equal\" overstates the claim.",
+     "fix": "is similar to your sūtras"
+    }
+   ]
+  },
+  {
+   "id": "9-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-64",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "that apprehender of form",
+     "evidence": "The verse line \"དེ་ནི་སྒྲ་འཛིན་དང་ལྡན་པའི། རང་བཞིན་དུ་ནི་མཐོང་མ་ཡིན\" has only \"དེ\" (that); \"གཟུགས་འཛིན\" appears only in Kunpal/Shenga/Gyaltsab 9-64 as a gloss on the referent (Sanskrit \"tasya\"). It is inserted into the verse text without brackets.",
+     "fix": "and that [apprehender of form] is not seen to have a nature that possesses the apprehension of sound"
+    }
+   ]
+  },
+  {
+   "id": "9-91",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

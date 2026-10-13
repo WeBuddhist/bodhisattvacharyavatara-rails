@@ -1,0 +1,462 @@
+[
+ {
+  "id": "3-26",
+  "tibetan": "ད་ནི་བདག་གིས་ཅི་ནས་ཀྱང་། ། རིགས་དང་མཐུན་པའི་ལས་བརྩམས་ཏེ། ། སྐྱོན་མེད་བཙུན་པའི་རིགས་འདི་ལ། ། རྙོག་པར་མི་འགྱུར་དེ་ལྟར་བྱ། །",
+  "academic_translation": "Now I must, by whatever means,\nUndertake actions in accord with the family,\nSo that this flawless, noble family\nIs not defiled—thus shall I act.",
+  "locked_terms": [
+   {
+    "tibetan": "རིགས",
+    "use": "family"
+   }
+  ],
+  "translation": "Now I must do whatever I can to act in a way that fits this family. I will make sure I never stain this flawless and noble family."
+ },
+ {
+  "id": "4-5",
+  "tibetan": "དངོས་པོ་ཕལ་པ་ཅུང་ཟད་ལའང་། ། ཡིད་ཀྱིས་སྦྱིན་པར་བསམ་བྱས་ནས། ། མི་གང་སྦྱིན་པར་མི་བྱེད་པ། ། དེ་ཡང་ཡི་དྭགས་འགྱུར་གསུངས་ན། །",
+  "academic_translation": "Even regarding a slight, ordinary thing,\nHaving intended in mind to give it,\nAny person who does not give it—\nIf it is taught that they will become a hungry ghost,",
+  "locked_terms": [
+   {
+    "tibetan": "ཡི་དྭགས",
+    "use": "hungry ghost"
+   }
+  ],
+  "translation": "Suppose you decide in your mind to give away a small, ordinary thing. If you do not give it, the teachings say you will become a hungry ghost."
+ },
+ {
+  "id": "4-10",
+  "tibetan": "སེམས་ཅན་གཅིག་གི་བདེ་བ་ཡང་། ། བཤིག་ན་བདག་ཉིད་ཉམས་འགྱུར་ན། ། ནམ་མཁའ་མ་ལུས་མཐའ་ཀླས་པའི། ། ལུས་ཅན་བདེ་བཤིག་སྨོས་ཅི་དགོས། །",
+  "academic_translation": "Even the happiness of a single sentient being,\nIf destroying it leads to my own ruin,\nFor those who pervade all of space to its limits,\nWhat need to speak of destroying the happiness of embodied beings?",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "ལུས་ཅན",
+    "use": "being with a body"
+   }
+  ],
+  "translation": "If destroying the happiness of just one living being ruins me, what will happen if I destroy the happiness of endless beings with bodies who fill all of space? I do not even need to ask."
+ },
+ {
+  "id": "4-12",
+  "tibetan": "དེ་ལྟས་ཇི་ལྟར་དམ་བཅས་བཞིན། ། བདག་གིས་གུས་པར་བསྒྲུབ་པར་བྱ། ། དེང་ནས་བརྩོན་པར་མ་བྱས་ན། ། འོག་ནས་འོག་ཏུ་འགྲོ་བར་འགྱུར། །",
+  "academic_translation": "Therefore, just as I have vowed,\nI must respectfully accomplish it.\nIf from today I do not apply diligence,\nI will go lower and lower.",
+  "locked_terms": [
+   {
+    "tibetan": "བརྩོན་པ",
+    "use": "effort"
+   }
+  ],
+  "translation": "Because of this, I must respectfully do what I vowed. If I do not make an effort starting today, I will go lower and lower."
+ },
+ {
+  "id": "4-15",
+  "tibetan": "དེ་བཞིན་གཤེགས་པ་འབྱུང་བ་དང་། ། དད་དང་མི་ལུས་ཐོབ་པ་དང་། ། དགེ་གོམས་རུང་བ་དེ་ལྟ་བུ། ། དཀོན་ན་ནམ་ཞིག་ཐོབ་པར་འགྱུར། །",
+  "academic_translation": "The appearance of a Tathāgata,\nFaith, and obtaining a human body,\nAnd such fitness to cultivate virtue—\nSince they are rare, when will they be obtained?",
+  "locked_terms": [
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "དད",
+    "use": "trust"
+   },
+   {
+    "tibetan": "མི་ལུས",
+    "use": "human body"
+   },
+   {
+    "tibetan": "དགེ",
+    "use": "good deed"
+   }
+  ],
+  "translation": "A Thus-Gone One appearing is very rare. Getting a human body, having trust, and being ready to do good deeds are also rare. When will I ever get these things?"
+ },
+ {
+  "id": "4-19",
+  "tibetan": "དགེ་བ་དག་ཀྱང་མ་བྱས་ལ། ། སྡིག་པ་དག་ཀྱང་ཉེར་བསགས་ན། ། བསྐལ་པ་བྱེ་བ་བརྒྱར་ཡང་ནི། ། བདེ་འགྲོའི་སྒྲ་ཡང་ཐོས་མི་འགྱུར། །",
+  "academic_translation": "If I have not practiced virtues,\nAnd have accumulated misdeeds,\nFor even a hundred ten-million eons,\nI will not hear even the sound of the happy realms.",
+  "locked_terms": [
+   {
+    "tibetan": "དགེ་བ",
+    "use": "good deed"
+   },
+   {
+    "tibetan": "སྡིག་པ",
+    "use": "harmful deed"
+   },
+   {
+    "tibetan": "བསྐལ་པ",
+    "use": "great age"
+   },
+   {
+    "tibetan": "བདེ་འགྲོ",
+    "use": "happy realm"
+   }
+  ],
+  "translation": "If I do not do good deeds and I pile up harmful deeds, I will not hear even the sound of the happy realms for a billion great ages."
+ },
+ {
+  "id": "4-33",
+  "tibetan": "མཐུན་པར་རིམ་གྲོ་བསྟེན་བྱས་ན། ། ཐམས་ཅད་ཕན་དང་བདེ་བྱེད་ན། ། ཉོན་མོངས་རྣམས་ནི་བསྟེན་བྱས་ན། ། ཕྱིར་ཞིང་སྡུག་བསྔལ་གནོད་པ་བྱེད། །",
+  "academic_translation": "If amiably served and honored,\nall others bring benefit and happiness;\nbut if the afflictions are served,\nthey bring further suffering and harm.",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "If I kindly serve and honor others, they bring me help and happiness. But if I serve my troubling emotions, they bring me further suffering and harm."
+ },
+ {
+  "id": "4-37",
+  "tibetan": "རང་བཞིན་འཆི་བས་སྡུག་བསྔལ་གྱུར་པའི་ཉོན་མོངས་དག ། གཡུལ་ངོར་དངར་ཚེ་ནན་གྱིས་གཞོམ་པར་འདོད་པ་ཡང་། ། མདའ་མདུང་མཚོན་གྱིས་ཕོག་པའི་སྡུག་བསྔལ་ཁྱད་བསད་ནས། ། དོན་མ་གྲུབ་པར་ཕྱིར་ཕྱོགས་འབྱེར་བར་མི་བྱེད་ན། །",
+  "academic_translation": "Those wretched enemies made to suffer by natural death—\nIf even those who desire to forcefully destroy them when arrayed in battle,\nHaving disregarded the suffering of being struck by arrows, spears, and weapons,\nDo not turn back and flee without accomplishing their goal,",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "If even soldiers fight enemies who will die anyway, and ignore the suffering of being struck by arrows and spears, and do not run away before they reach their goal..."
+ },
+ {
+  "id": "4-38",
+  "tibetan": "རྟག་ཏུ་སྡུག་བསྔལ་ཀུན་གྱི་རྒྱུར་གྱུར་པ། ། རང་བཞིན་དགྲར་ངེས་གཞོམ་བརྩོན་བདག་ལ་དེང་། ། སྡུག་བསྔལ་བརྒྱ་ཕྲག་རྒྱུར་གྱུར་གང་གིས་ཀྱང་། ། ཡི་ཆད་སྒྱིད་ལུག་མི་འགྱུར་སྨོས་ཅི་དགོས། །",
+  "academic_translation": "The constant cause of all suffering—\nToday, as I strive to destroy these definite natural enemies,\nWhatever becomes the cause of hundreds of sufferings,\nNeedless to say, will not make me despair and lose heart.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "My true natural enemies are the constant cause of all suffering. Today, I am trying hard to destroy them. So of course I will not lose heart, even if this fight brings me hundreds of sufferings."
+ },
+ {
+  "id": "4-40",
+  "tibetan": "ཉ་པ་གདོལ་པ་ཞིང་པ་ལ་སོགས་པ། ། རང་གི་འཚོ་བ་ཙམ་ཞིག་སེམས་པ་ཡང་། ། གྲང་དང་ཚ་ལ་སོགས་པའི་གནོད་བཟོད་ན། ། འགྲོ་བ་བདེ་ཕྱིར་བདག་ལྟ་ཅིས་མི་བཟོད། །",
+  "academic_translation": "If fishermen, outcastes, farmers, and so forth,\nThinking only of their own mere livelihood,\nEndure the harms of cold, heat, and so forth,\nWhy should someone like me not endure them for the happiness of wandering beings?",
+  "locked_terms": [
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   }
+  ],
+  "translation": "Fishermen, outcasts, farmers, and others only think about making a living. Yet they put up with the pain of cold and heat. I am working for the happiness of all beings. Why should someone like me not endure these things too?"
+ },
+ {
+  "id": "4-41",
+  "tibetan": "ཕྱོགས་བཅུ་ནམ་མཁའི་མཐས་གཏུགས་པའི། ། འགྲོ་བ་ཉོན་མོངས་ལས་བསྒྲལ་བར། ། དམ་བཅས་གང་ཚེ་བདག་ཉིད་ཀྱང་། ། ཉོན་མོངས་རྣམས་ལས་མ་གྲོལ་བ། །",
+  "academic_translation": "To liberate from afflictions the wandering beings\nWho reach to the ends of space in the ten directions,\nWhen I promised this, I myself\nWas not freed from afflictions.",
+  "locked_terms": [
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   },
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   },
+   {
+    "tibetan": "ཕྱོགས་བཅུ",
+    "use": "ten directions"
+   }
+  ],
+  "translation": "I promised to free the beings who fill space in the ten directions. I promised to free them from their troubling emotions. But when I made this promise, I was not even free from my own troubling emotions!"
+ },
+ {
+  "id": "4-42",
+  "tibetan": "བདག་གི་ཚོད་ཀྱང་མི་ཤེས་པར། ། སྨྲ་བ་ཇི་ལྟར་སྨྱོན་པ་མིན། ། དེ་ལྟར་ཉོན་མོངས་གཞོམ་པ་ལ། ། རྟག་ཏུ་ཕྱིར་མི་ལྡོག་པར་བྱ། །",
+  "academic_translation": "Without even knowing my own measure,\nHow am I not a madman to speak thus?\nTherefore, in destroying afflictions,\nI shall never turn back.",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   }
+  ],
+  "translation": "Since I do not even know what I can really do, am I not crazy to talk like this? So I will never turn back from destroying my troubling emotions."
+ },
+ {
+  "id": "4-43",
+  "tibetan": "འདི་ལ་བདག་གིས་ཞེན་བྱ་ཞིང་། ། ཁོན་དུ་བཟུང་ནས་གཡུལ་སྤྲད་དེ། ། རྣམ་པ་དེ་འདྲའི་ཉོན་མོངས་པ། ། ཉོན་མོངས་འཇོམས་བྱེད་མ་གཏོགས་སོ། །",
+  "academic_translation": "I shall be attached to this,\nAnd, holding a grudge, engage in battle;\nAfflictions of such a kind\nAre excepted from what is to be abandoned, since they destroy afflictions.",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   }
+  ],
+  "translation": "I will hold tightly to this. I will hold a grudge and fight this battle! This is the only kind of troubling emotion I should not let go of, because it destroys all other troubling emotions."
+ },
+ {
+  "id": "5-11",
+  "tibetan": "ཉ་ལ་སོགས་པ་གང་ཞིག་ཏུ། ། དེ་དག་གསོད་མི་འགྱུར་བར་བསྐྲད། ། སྤོང་བའི་སེམས་ནི་ཐོབ་པ་ལས། ། ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན་པར་བཤད། །",
+  "academic_translation": "Where could fish and so forth\nBe banished so that they are not killed?\nFrom attaining the mind of renunciation,\nThe perfection of ethical discipline is explained.",
+  "locked_terms": [
+   {
+    "tibetan": "ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན་པ",
+    "use": "perfection of good conduct"
+   },
+   {
+    "tibetan": "སྤོང་བའི་སེམས",
+    "use": "mind of giving up"
+   }
+  ],
+  "translation": "Where could fish and other animals be put so they are never killed? The perfection of good conduct is explained as coming from getting the mind of giving up."
+ },
+ {
+  "id": "5-12",
+  "tibetan": "སེམས་ཅན་མི་སྲུན་ནམ་མཁའ་བཞིན། ། དེ་དག་གཞོམ་གྱིས་ཡོང་མི་ལང་། ། ཁྲོ་བའི་སེམས་འདི་གཅིག་བཅོམ་ན། ། དགྲ་དེ་ཐམས་ཅད་ཆོམས་དང་འདྲ། །",
+  "academic_translation": "Unruly sentient beings are like space;\nThey can never be fully overcome.\nIf this single mind of anger is overcome,\nIt is as if all those enemies were overcome.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "ཁྲོ་བའི་སེམས",
+    "use": "mind of anger"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "Wild living beings are like space. They can never be fully defeated. But if this single mind of anger is defeated, it is like defeating all those enemies at once."
+ },
+ {
+  "id": "5-22",
+  "tibetan": "བདག་གི་རྙེད་དང་བཀུར་སྟི་དང་། ། ལུས་དང་འཚོ་བ་མེད་བླ་ཞིང་། ། དགེ་བ་གཞན་ཡང་ཉམས་བླ་ཡི། ། སེམས་ནི་ནམས་ཀྱང་ཉམས་མི་བྱ། །",
+  "academic_translation": "Better that my gain and honor\nAnd my body and livelihood perish,\nAnd better that other virtues decline,\nBut I must never let my mind decline.",
+  "locked_terms": [
+   {
+    "tibetan": "རྙེད",
+    "use": "gain"
+   },
+   {
+    "tibetan": "བཀུར་སྟི",
+    "use": "honor"
+   },
+   {
+    "tibetan": "དགེ་བ",
+    "use": "good deed"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "It is better to lose my gain and honor. It is better to lose my body and the things I live on. It is even better to lose other good deeds. But I must never let my mind fail."
+ },
+ {
+  "id": "5-28",
+  "tibetan": "ཉོན་མོངས་ཆོམ་རྐུན་ཚོགས་འདི་ནི། ། གླགས་སྐབས་ཚོལ་བར་བྱེད་པ་སྟེ། ། གླགས་རྙེད་གྱུར་ནས་དགེ་འཕྲོག་ཅིང་། ། བདེ་འགྲོའི་སྲོག་ཀྱང་འཇོམས་པར་བྱེད། །",
+  "academic_translation": "This band of affliction thieves\nSearches for an opportunity;\nHaving found an opportunity, they steal virtue,\nAnd destroy even the life of a happy realm.",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   },
+   {
+    "tibetan": "དགེ",
+    "use": "good deed"
+   },
+   {
+    "tibetan": "བདེ་འགྲོ",
+    "use": "happy realm"
+   }
+  ],
+  "translation": "This gang of thieves, made of troubling emotions, looks for a chance to strike. When they find it, they steal my good deeds. They even destroy life in a happy realm."
+ },
+ {
+  "id": "5-30",
+  "tibetan": "བླ་མ་དང་ནི་འགྲོགས་པ་ལས། ། མཁན་པོས་རྗེས་སུ་བསྟན་པ་དང་། ། འཇིགས་པས་སྐལ་ལྡན་གུས་བྱེད་ལ། ། དྲན་པ་བདེ་བླག་ཉིད་དུ་སྐྱེ། །",
+  "academic_translation": "From associating with a teacher,\nAnd the instruction of a preceptor,\nFor fortunate ones who act with respect out of fear,\nMindfulness is easily generated.",
+  "locked_terms": [
+   {
+    "tibetan": "བླ་མ",
+    "use": "teacher"
+   },
+   {
+    "tibetan": "མཁན་པོ",
+    "use": "teacher who ordained me"
+   },
+   {
+    "tibetan": "དྲན་པ",
+    "use": "keeping in mind"
+   }
+  ],
+  "translation": "For lucky people who act with respect because they are afraid to do wrong, keeping in mind grows easily. This happens by spending time with a teacher and listening to the teacher who ordained me."
+ },
+ {
+  "id": "5-42",
+  "tibetan": "འཇིགས་དང་དགའ་སྟོན་སོགས་འབྲེལ་བར། ། གལ་ཏེ་མི་ནུས་ཅི་བདེར་བྱ། ། འདི་ལྟར་སྦྱིན་པའི་དུས་དག་ཏུ། ། ཚུལ་ཁྲིམས་བཏང་སྙོམས་བྱ་བར་གསུངས། །",
+  "academic_translation": "When involved in dangers, festivities, and the like,\nIf one is unable, one should act at ease;\nFor it is taught that at times of generosity,\nEthical discipline is to be treated with equanimity.",
+  "locked_terms": [
+   {
+    "tibetan": "སྦྱིན་པ",
+    "use": "giving"
+   },
+   {
+    "tibetan": "ཚུལ་ཁྲིམས",
+    "use": "good conduct"
+   },
+   {
+    "tibetan": "བཏང་སྙོམས",
+    "use": "even-mindedness"
+   }
+  ],
+  "translation": "When I am caught up in danger, a festival, and the like, if I cannot keep up my practice, I should act at ease. It is taught that at times of giving, good conduct should be treated with even-mindedness."
+ },
+ {
+  "id": "5-51",
+  "tibetan": "རྙེད་དང་བཀུར་སྟི་གྲགས་འདོད་པའམ། ། གཡོག་འཁོར་དོན་དུ་གཉེར་འདོད་པའམ། ། བདག་སེམས་རིམ་གྲོ་འདོད་གྱུར་ན། ། དེ་ཚེ་ཤིང་བཞིན་གནས་པར་བྱ། །",
+  "academic_translation": "Desiring gain, honor, or fame,\nOr desiring to seek attendants and retinue,\nOr if my mind desires to be served,\nAt that time, I should remain like a log of wood.",
+  "locked_terms": [
+   {
+    "tibetan": "རྙེད",
+    "use": "gain"
+   },
+   {
+    "tibetan": "བཀུར་སྟི",
+    "use": "honor"
+   },
+   {
+    "tibetan": "གྲགས",
+    "use": "fame"
+   },
+   {
+    "tibetan": "གཡོག་འཁོར",
+    "use": "helpers and followers"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   },
+   {
+    "tibetan": "ཤིང་བཞིན",
+    "use": "like a log"
+   }
+  ],
+  "translation": "If I want gain, honor, or fame, or want to seek helpers and followers, or if my mind wants to be served, at that time I should stay like a log."
+ },
+ {
+  "id": "5-53",
+  "tibetan": "མི་བཟོད་ལེ་ལོ་འཇིགས་པ་དང་། ། དེ་བཞིན་སྤྱི་རྟོལ་མུ་ཅོར་དང་། ། རང་གི་ཕྱོགས་ཞེན་སེམས་བྱུང་ན། ། དེ་ཚེ་ཤིང་བཞིན་གནས་པར་བྱ། །",
+  "academic_translation": "Impatience, laziness, and fear,\nAnd likewise impudence and idle chatter,\nOr if a mind attached to my own side arises,\nAt that time, I should remain like a log of wood.",
+  "locked_terms": [
+   {
+    "tibetan": "མི་བཟོད",
+    "use": "impatience"
+   },
+   {
+    "tibetan": "ལེ་ལོ",
+    "use": "laziness"
+   },
+   {
+    "tibetan": "སྤྱི་རྟོལ",
+    "use": "rudeness"
+   },
+   {
+    "tibetan": "མུ་ཅོར",
+    "use": "idle talk"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   },
+   {
+    "tibetan": "ཤིང་བཞིན",
+    "use": "like a log"
+   }
+  ],
+  "translation": "If I feel impatience, laziness, fear, rudeness, or idle talk, or if my mind clings to my own side, at that time I should stay like a log."
+ },
+ {
+  "id": "5-57",
+  "tibetan": "ཁ་ན་མ་ཐོ་མེད་དངོས་ལ། ། བདག་དང་སེམས་ཅན་དབང་བྱས་ཤིང་། ། སྤྲུལ་པ་བཞིན་དུ་ང་མེད་པར། ། ཡིད་འདི་རྟག་ཏུ་གཟུང་བར་བྱ། །",
+  "academic_translation": "Regarding blameless things,\nGoverned by myself and sentient beings,\nLike an emanation, without \"I\",\nI should always hold this mind.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "ཁ་ན་མ་ཐོ་མེད",
+    "use": "free of blame"
+   },
+   {
+    "tibetan": "སྤྲུལ་པ",
+    "use": "magical creation"
+   },
+   {
+    "tibetan": "ཡིད",
+    "use": "mind"
+   },
+   {
+    "tibetan": "ང",
+    "use": "I"
+   }
+  ],
+  "translation": "For things that are free of blame, which are in my hands and in the hands of living beings, I must always hold my mind like a magical creation, with no 'I' in it."
+ },
+ {
+  "id": "5-60",
+  "tibetan": "ལུས་འདི་བདག་གིར་གཟུང་བྱས་ནས། ། ཡིད་ཁྱོད་ཅི་ཕྱིར་སྲུང་བར་བྱེད། ། ཁྱོད་དང་འདི་གཉིས་སོ་སོ་ན། ། དེས་ཀོ་ཁྱོད་ལ་ཅི་ཞིག་བྱ། །",
+  "academic_translation": "Having grasped this body as \"mine,\"\nO mind, why do you guard it?\nIf you and this are separate,\nWhat can it do for you?",
+  "locked_terms": [
+   {
+    "tibetan": "ཡིད",
+    "use": "mind"
+   }
+  ],
+  "translation": "My mind, you hold onto this body and call it 'mine.' But why do you guard it so closely? If you and the body are separate, what can it really do for you?"
+ },
+ {
+  "id": "5-71",
+  "tibetan": "དེ་ལྟར་རང་དབང་ཡོད་ཀྱིས་དེ། ། རྟག་ཏུ་འཛུམ་པའི་བཞིན་དུ་གྱིས། ། ཁྲོ་གཉེར་ངོ་ཟུམ་ཡོངས་ཐོང་སྟེ། ། འགྲོ་བའི་བཤེས་དང་གསོང་པོར་གྱིས། །",
+  "academic_translation": "Thus, assume self-mastery, and\nAlways maintain a smiling face.\nCompletely abandon frowning and scowling;\nBe a friend to wandering beings and speak sincerely.",
+  "locked_terms": [
+   {
+    "tibetan": "རང་དབང",
+    "use": "being in control of oneself"
+   },
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   }
+  ],
+  "translation": "So, practice being in control of oneself and always keep a smiling face. Stop frowning and scowling completely. Be a friend to wandering beings and speak honestly."
+ },
+ {
+  "id": "5-81",
+  "tibetan": "རྟག་པར་མངོན་ཞེན་གྱིས་བསླང་བའམ། ། གཉེན་པོ་ཡིས་ནི་བསླང་བ་ཉིད། ། ཡོན་ཏན་དང་ནི་ཕན་འདོགས་ཞིང་། ། སྡུག་བསྔལ་བ་ལ་དགེ་ཆེན་འགྱུར། །",
+  "academic_translation": "Whether motivated by constant, intense, fixed aspiration,\nOr motivated by an antidote,\nToward the fields of good qualities and benefactors,\nAnd those who are suffering, virtue becomes great.",
+  "locked_terms": [
+   {
+    "tibetan": "གཉེན་པོ",
+    "use": "remedy"
+   },
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   },
+   {
+    "tibetan": "དགེ",
+    "use": "good deed"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "A good deed becomes very great when you do it with a strong, lasting wish, or when a remedy against troubling emotions moves you to act. This is true when you act toward people with good qualities, people who help you, and those in suffering."
+ }
+]

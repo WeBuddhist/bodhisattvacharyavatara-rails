@@ -1,0 +1,404 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "7-39",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-40",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-41",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-42",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཡིད",
+      "reason": "Buddhist technical term",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "7-43",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བདེ",
+      "reason": "Buddhist technical concept",
+      "dm": "happiness",
+      "gm": "happiness"
+     }
+    ]
+   },
+   {
+    "id": "7-44",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "དགེ་བ",
+      "reason": "Buddhist technical concept",
+      "dm": "virtue",
+      "gm": "wholesome deeds"
+     }
+    ]
+   },
+   {
+    "id": "7-45",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-46",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-47",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-48",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-49",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-50",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-51",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-52",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-53",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "རྩོལ་བ",
+      "reason": "Buddhist technical term",
+      "dm": "effort",
+      "gm": "effort"
+     }
+    ]
+   },
+   {
+    "id": "7-54",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "Buddhist technical term",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "7-55",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སྲས",
+      "reason": "Epithet component for Bodhisattvas",
+      "dm": "son",
+      "gm": "son"
+     }
+    ]
+   },
+   {
+    "id": "7-56",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-57",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-58",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-59",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འགྲོ",
+      "reason": "Buddhist technical term",
+      "dm": "beings",
+      "gm": "beings"
+     }
+    ]
+   },
+   {
+    "id": "7-60",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-61",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-62",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-63",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བདེ་བ",
+      "reason": "Buddhist technical concept",
+      "dm": "happiness",
+      "gm": "happiness"
+     }
+    ]
+   },
+   {
+    "id": "7-64",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བདེ",
+      "reason": "Buddhist technical concept",
+      "dm": "happiness",
+      "gm": "happiness"
+     },
+     {
+      "bo": "ཞི་བ",
+      "reason": "Buddhist technical concept",
+      "dm": "peace",
+      "gm": "peace"
+     }
+    ]
+   },
+   {
+    "id": "7-65",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-66",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-67",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-68",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-69",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "Buddhist technical term",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "7-70",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-71",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-72",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-73",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-74",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-75",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-a",
+    "drop": [
+     {
+      "n": 4,
+      "reason": "Chapter title / colophon wording, not a glossary term"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "7-a",
+    "bo": "བརྩོན་འགྲུས་བསྟན་པ",
+    "reason": "Chapter title / colophon wording, not a glossary term"
+   }
+  ],
+  "fix_span": [],
+  "add": [
+   {
+    "id": "7-42",
+    "bo": "ཡིད",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "Buddhist technical term"
+   },
+   {
+    "id": "7-43",
+    "bo": "བདེ",
+    "dm": "happiness",
+    "gm": "happiness",
+    "reason": "Buddhist technical concept"
+   },
+   {
+    "id": "7-44",
+    "bo": "དགེ་བ",
+    "dm": "virtue",
+    "gm": "wholesome deeds",
+    "reason": "Buddhist technical concept"
+   },
+   {
+    "id": "7-53",
+    "bo": "རྩོལ་བ",
+    "dm": "effort",
+    "gm": "effort",
+    "reason": "Buddhist technical term"
+   },
+   {
+    "id": "7-54",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "Buddhist technical term"
+   },
+   {
+    "id": "7-55",
+    "bo": "སྲས",
+    "dm": "son",
+    "gm": "son",
+    "reason": "Epithet component for Bodhisattvas"
+   },
+   {
+    "id": "7-59",
+    "bo": "འགྲོ",
+    "dm": "beings",
+    "gm": "beings",
+    "reason": "Buddhist technical term"
+   },
+   {
+    "id": "7-63",
+    "bo": "བདེ་བ",
+    "dm": "happiness",
+    "gm": "happiness",
+    "reason": "Buddhist technical concept"
+   },
+   {
+    "id": "7-64",
+    "bo": "བདེ",
+    "dm": "happiness",
+    "gm": "happiness",
+    "reason": "Buddhist technical concept"
+   },
+   {
+    "id": "7-64",
+    "bo": "ཞི་བ",
+    "dm": "peace",
+    "gm": "peace",
+    "reason": "Buddhist technical concept"
+   },
+   {
+    "id": "7-69",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "Buddhist technical term"
+   }
+  ]
+ }
+}

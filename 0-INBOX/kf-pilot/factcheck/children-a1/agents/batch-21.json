@@ -1,0 +1,237 @@
+{
+ "batch": "batch-21",
+ "segments": [
+  {
+   "id": "9-105",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-107",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-108",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "We can only share our careful examinations",
+     "evidence": "\"All analyses are expressed\" relying on what is commonly known; no \"only\" and no idea of sharing.",
+     "fix": "Every careful examination is spoken by relying on what people already know."
+    }
+   ]
+  },
+  {
+   "id": "9-109",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-110",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-111",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-112",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-113",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-114",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-115",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-116",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-117",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-118",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-119",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-120",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-121",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-122",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-123",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-124",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-125",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-126",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "a never-changing atom",
+     "evidence": "\"permanent atoms\" (plural: those who assert never-changing atoms).",
+     "fix": "People who believe in never-changing atoms have already been proven wrong."
+    }
+   ]
+  },
+  {
+   "id": "9-127",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-128",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-129",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-130",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-131",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "You might say",
+     "evidence": "The verse states \"Happiness and so forth arise from cloth and so forth\" without framing it as an opponent's claim; the next line then draws the conclusion.",
+     "fix": "Happiness and other feelings would come from things like cloth. Since those things do not exist, happiness does not exist either."
+    }
+   ]
+  },
+  {
+   "id": "9-132",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-133",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-134",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-135",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-136",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-137",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-138",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-139",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-140",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-141",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-142",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-143",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-144",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "Sometimes a thing is seen",
+     "evidence": "\"Whatever is seen through the proximity of something\" - applies to anything, not just some cases.",
+     "fix": "Whatever is seen only because something else is near, and is not seen when that is gone, is made up, like a reflection."
+    }
+   ]
+  }
+ ]
+}

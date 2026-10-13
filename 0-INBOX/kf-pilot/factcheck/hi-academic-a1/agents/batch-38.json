@@ -1,0 +1,121 @@
+{
+ "batch": "batch-38",
+ "segments": [
+  {
+   "id": "9-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-46",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "उपादान-तृष्णा",
+     "evidence": "Tibetan ཉེར་ལེན་སྲེད་པ is explained in bo-kunpal 9-46 as ཉེར་ལེན་ཏེ་ཉེ་བར་ལེན་པའི་རྒྱུ་སྲེད་པ, i.e. the craving that is the cause of grasping (upādāna); the bare Hindi compound can be read as 'grasping and craving' or an undefined compound.",
+     "fix": "उपादान की कारणभूत तृष्णा"
+    }
+   ]
+  },
+  {
+   "id": "9-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-64",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "उसे शब्द ग्रहण से युक्त स्वभाव में नहीं देखा जाता है",
+     "evidence": "Tibetan དེ་ནི་སྒྲ་འཛིན་དང་ལྡན་པའི། རང་བཞིན་དུ་ནི་མཐོང་མ་ཡིན: the subject is the form-apprehender (གཟུགས་འཛིན་པ, bo-kunpal 9-64, bo-shenga 9-64) and it is 'not seen as having a nature endowed with sound-apprehension'. Hindi 'उसे ... स्वभाव में' leaves the referent unnamed and 'में' wrongly suggests location rather than 'as/of such a nature'.",
+     "fix": "वह (रूप-ग्राहक) शब्द-ग्रहण से युक्त स्वभाव वाला नहीं देखा जाता"
+    }
+   ]
+  }
+ ]
+}

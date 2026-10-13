@@ -1,0 +1,121 @@
+{
+ "batch": "batch-22",
+ "segments": [
+  {
+   "id": "6-122",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-123",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-124",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-125",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-126",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-127",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-128",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-129",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-130",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-131",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-132",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-133",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-134",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "Having been snared by the fowler of the afflictions",
+     "evidence": "ཉོན་མོངས་རྒྱ་པས་བཤོར་ནས། bshor = driven/chased (bo-kunpal 7-4: བཤོར་བའམ་དེད་ནས; bo-shenga: བཤོར་ཏེ་དབང་དུ་བྱས་ནས); the net (རྒྱ) is the next line's image; bo-gyaltsab glosses རྒྱ་བ as རྔོན་པ་ 'hunter'. 'Snared' pre-empts the net image.",
+     "fix": "Having been driven down by the hunter of the afflictions,"
+    }
+   ]
+  },
+  {
+   "id": "7-5",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Yet whoever relies on sleep\nIs like an outcaste and a buffalo.",
+     "evidence": "གཉིད་ལ་བརྟེན་པ་གང་། གདོལ་པ་དང་ནི་མ་ཧེ་བཞིན། is addressed to the same 'you' (ཁྱོད). All three commentaries read the comparison as the buffalo that sleeps unafraid while the outcaste kills others (bo-gyaltsab 7-5: གདོལ་བས་... གསོད་པའི་མ་ཧེ; bo-shenga: གདོལ་པ་དང་ནི་བསད་པར་བྱ་བའི་མ་ཧེ). English can be read as comparing the sleeper to both an outcaste and a buffalo.",
+     "fix": "Yet you who rely on sleep\nAre like a buffalo beside its outcaste butcher."
+    }
+   ]
+  },
+  {
+   "id": "7-6",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

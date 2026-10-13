@@ -1,0 +1,113 @@
+{
+ "batch": "batch-46",
+ "segments": [
+  {
+   "id": "10-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-46",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "उनकी संतान पूर्णतः विशुद्ध हो",
+     "evidence": "Tibetan རྒྱུད་ནི་ཡོངས་སུ་དག་པ means the mental continuum is completely purified (bo-shenga 10-46: ང་རྒྱལ་མེད་པ་རྒྱུད་ནི་ཡོངས་སུ་དག་པ; bo-gyaltsab 10-46: རྒྱུད་ནི་ང་རྒྱལ་ལ་སོགས་པ་མེད་པར་ཡོངས་སུ་དག་པ). Bare Hindi संतान ordinarily means children/offspring, which the Tibetan excludes; the locked term needs the 'mind' qualifier to be read as continuum.",
+     "fix": "उनका चित्त-संतान पूर्णतः विशुद्ध हो"
+    }
+   ]
+  },
+  {
+   "id": "10-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-56",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

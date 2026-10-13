@@ -1,0 +1,137 @@
+{
+ "batch": "batch-27",
+ "segments": [
+  {
+   "id": "8-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-22",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "लोक के विचारों को त्याग दूँगा",
+     "evidence": "Tibetan 'འཇིག་རྟེན་བསམ་པ་བཏང་' ('jig rten bsam pa btang); bo-shenga 8-22 glosses it as abandoning 'འཇིག་རྟེན་པ་རྣམས་དང་འགྲོགས་པའི་བསམ་པ' (the intention of keeping company with worldly people), and bo-kunpal 8-22 as abandoning the worldly-accommodating intention. Sanskrit 'lokacintayā' is concern for the world. Hindi 'लोक के विचार' can be read as the thoughts held by the world.",
+     "fix": "इसलिए मैं लोक (लौकिक जनों) के साथ मेलजोल की चिन्ता/विचार को त्याग दूँगा"
+    }
+   ]
+  },
+  {
+   "id": "8-23",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "कहते हैं。",
+     "evidence": "The line ends with a full-width CJK full stop (。) instead of the Devanagari danda or a comma; stray punctuation, meaning intact.",
+     "fix": "कहते हैं,"
+    }
+   ]
+  },
+  {
+   "id": "8-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-25",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "नहीं बोलते。",
+     "evidence": "The line ends with a full-width CJK full stop (。) instead of a Devanagari-appropriate mark; stray punctuation, meaning intact.",
+     "fix": "नहीं बोलते,"
+    }
+   ]
+  },
+  {
+   "id": "8-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-29",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "कब मैं समान करूँगा?",
+     "evidence": "Tibetan 'མགོ་སྙོམས་བྱེད་པ' (mgo snyoms byed pa) means to regard/treat as equal; bo-kunpal 8-29 glosses it as 'མགོ་སྙོམས་བྱེད' = equating one's own body with those skeletons ('འདི་དག་དང་འདྲའོ་ཞེས'), and bo-shenga as seeing one's body as of the same nature. Hindi 'समान करूँगा' reads as 'make equal' (a physical act), not 'regard as equal'.",
+     "fix": "कब मैं (उन्हें) समान मानूँगा / एक-सा देखूँगा?"
+    }
+   ]
+  },
+  {
+   "id": "8-30",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

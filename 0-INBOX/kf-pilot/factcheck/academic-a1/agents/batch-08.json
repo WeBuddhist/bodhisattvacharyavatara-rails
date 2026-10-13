@@ -1,0 +1,153 @@
+{
+ "batch": "batch-08",
+ "segments": [
+  {
+   "id": "4-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "without wavering",
+     "evidence": "གཡེལ་བ་མེད་པར; bo-shenga 4-1 glosses it 'ལེ་ལོའི་གཡེལ་བ་མེད་པར' (without the negligence/slackness of laziness) and Sanskrit has 'atandritaḥ' (unslothful); bo-gyaltsab 4-1 'སེམས་སྐད་ཅིག་ཀྱང་གཡེལ་བ་མེད་པར'. 'Wavering' suggests irresolution, not lapse or negligence.",
+     "fix": "without lapse"
+    }
+   ]
+  },
+  {
+   "id": "4-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "what sort of wandering being will I become",
+     "evidence": "བདག་གི་འགྲོ་བ་ཅི་འདྲར་འགྱུར: here འགྲོ་བ is the destiny/course (Skt 'kā gatir me'), not a being; bo-gyaltsab 4-4 'བདག་གི་འགྲོ་བ་ཇི་འདྲར་འགྱུར་ཏེ། ངན་འགྲོར་འགྲོ་བ་ལས་མ་འདས་པའོ' and bo-shenga 4-4 treat it as the realm of rebirth. The locked 'wandering being' is applied mechanically and distorts the sense.",
+     "fix": "what will my destiny be?"
+    }
+   ]
+  },
+  {
+   "id": "4-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-8",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "The welfare of all sentient beings is diminished.",
+     "evidence": "སེམས་ཅན་ཀུན་གྱི་དོན་ལ་དམན: the bodhisattva falls short in regard to beings' welfare; bo-kunpal 4-8 'སེམས་ཅན་མ་ལུས་པ་ཀུན་གྱི་དོན་བསྒྲུབ་པ་ལ་ནུས་པ་དམན་པར་འགྱུར་བ' and bo-gyaltsab 4-8 'གཞན་དོན་གྱི་བསམ་པ་ཉམས་པས...' show it is the bodhisattva's capacity to benefit beings that diminishes, not the beings' welfare as such.",
+     "fix": "one falls short in accomplishing the welfare of all sentient beings."
+    }
+   ]
+  },
+  {
+   "id": "4-9",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Creates an obstacle to this merit,\nSince the welfare of sentient beings is diminished,",
+     "evidence": "འདིའི་བསོད་ནམས: 'this' refers to this bodhisattva (bo-shenga 4-9 'བྱང་ཆུབ་སེམས་དཔའ་འདིའི་བསོད་ནམས'; bo-gyaltsab 4-9). Line 3 (སེམས་ཅན་དོན་ལ་དམན་གྱུར་པས) is that the bodhisattva's ability to benefit beings is diminished (bo-gyaltsab 4-9 'ནུས་པ་དམན་པར་གྱུར་པར་བྱས་པས'); the English leaves the possessor of the merit and the thing diminished unclear.",
+     "fix": "Creates an obstacle to this bodhisattva's merit, / Since he is left falling short in the welfare of sentient beings,"
+    }
+   ]
+  },
+  {
+   "id": "4-10",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "Limitless as the entirety of space,",
+     "evidence": "ནམ་མཁའ་མ་ལུས་མཐའ་ཀླས་པའི་ལུས་ཅན: the embodied beings extend to the limits of all space (Skt 'aśeṣākāśaparyanta-vāsinām'; bo-gyaltsab 4-10 'ནམ་མཁའ་མ་ལུས་པའི་མཐའ་ཀླས་པའི་ལུས་ཅན'). The English turns this into a comparison ('as limitless as space') that is not in the text.",
+     "fix": "Embodied beings who pervade all of space to its limits,"
+    }
+   ]
+  },
+  {
+   "id": "4-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-19",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "a hundred million eons",
+     "evidence": "བསྐལ་པ་བྱེ་བ་བརྒྱ: བྱེ་བ is ten million (Skt koṭi), so བྱེ་བ་བརྒྱ (kalpakoṭiśata) is a hundred ten-millions, i.e. a billion, not a hundred million.",
+     "fix": "a hundred koṭis (ten millions) of eons"
+    }
+   ]
+  },
+  {
+   "id": "4-20",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,277 @@
+{
+ "batch": "calibration",
+ "segments": [
+  {
+   "id": "1-8",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "Should forsake bodhicitta",
+     "evidence": "Tibetan \"བྱང་ཆུབ་སེམས་ཉིད་རྟག་ཏུ་གཏང་མི་བྱ\" has the negative \"གཏང་མི་བྱ\" (one should not forsake, ever); Sanskrit \"न विमोच्यं हि सदैव बोधिचित्तम्\" likewise negative; bo-shenga 1-8 \"གཏང་བར་མི་བྱའོ\". The English reverses the injunction.",
+     "fix": "Should never forsake bodhicitta."
+    }
+   ]
+  },
+  {
+   "id": "1-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-5",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "Possessing peacocks",
+     "evidence": "Tibetan \"ངང་པ\" is a goose or swan (haṃsa), not a peacock; bo-shenga 2-5 \"བྱ་ངང་པ\" (the bird, swan/goose) and bo-gyaltsab 2-5 \"ངང་པ་ཤིན་ཏུ་སྐད་སྙན་ཡིད་འོང་ལྡན\".",
+     "fix": "Possessing swans with highly sweet and pleasing voices,"
+    }
+   ]
+  },
+  {
+   "id": "2-41",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "I have relied upon that.",
+     "evidence": "Tibetan \"དེ་ཡང་བདག་གིས་མ་བསྟེན་ཏོ\" is negative (I did not rely on that); Sanskrit \"मया तच्च न सेवितम्\"; bo-shenga 2-41 \"བསོད་ནམས་དེ་ཡང་བདག་གིས་རང་གི་རྒྱུད་ལ་མ་བསྟེན་ཏོ\"; bo-gyaltsab 2-41 \"ཞེས་པ་དགེ་བ་མ་བྱས་པས་འགྱོད་པའོ\" (regret at not having done virtue). The English asserts the opposite.",
+     "fix": "I have not relied upon that."
+    }
+   ]
+  },
+  {
+   "id": "3-5",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "Leave these wandering beings in blindness",
+     "evidence": "Tibetan \"འགྲོ་འདི་ལྡོངས་པར་མི་དགོད་ཅིང་\" contains the negation \"མི་དགོད\" (do not leave/place in blindness); Sanskrit \"मा भूदन्धमिदं जगत्\" (let this world not be blind). The English turns the plea into its opposite.",
+     "fix": "Do not leave these wandering beings in blindness,"
+    }
+   ]
+  },
+  {
+   "id": "3-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-19",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "a hundred thousand eons",
+     "evidence": "Tibetan \"བསྐལ་པ་བྱེ་བ་བརྒྱར\" is a hundred \"bye ba\" (ten millions), i.e. a billion; Sanskrit \"कल्पकोटिशतैरपि\" (hundreds of koṭis); bo-kunpal 4-19 \"བསྐལ་པ་བྱེ་བ་ཕྲག་བརྒྱར\". \"Hundred thousand\" is the wrong number.",
+     "fix": "a hundred times ten million eons (a billion eons)"
+    }
+   ]
+  },
+  {
+   "id": "4-28",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "major",
+     "span": "The enemies, hatred, and so forth,",
+     "evidence": "Tibetan \"ཞེ་སྡང་སྲེད་སོགས\" lists hatred and craving (locked terms ཞེ་སྡང \"hatred\", སྲེད \"craving\"), then \"and so forth\"; Sanskrit \"तृष्णाद्वेषादि\"; bo-shenga 4-28 \"ཞེ་སྡང་དང་སྲེད་པ་ལ་སོགས་པ\". Craving is missing from the English.",
+     "fix": "The enemies, hatred, craving, and so forth,"
+    }
+   ]
+  },
+  {
+   "id": "5-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-83",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "One should forsake the greater for the sake of the lesser;",
+     "evidence": "Tibetan \"ཆུང་ངུའི་ཕྱིར་ནི་ཆེ་མི་གཏང་\" is negative: do not abandon the greater for the lesser; Sanskrit \"नेतरार्थं त्यजेच्छ्रेष्ठाम्\" (na ... tyajet). The English reverses the instruction.",
+     "fix": "One should not forsake the greater for the sake of the lesser;"
+    }
+   ]
+  },
+  {
+   "id": "5-96",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "vigilance",
+     "evidence": "Locked term ཤེས་བཞིན \"introspection\"; Tibetan \"ཤེས་བཞིན་མྱུར་དུ་ལྡང་སེམས་ལ\" (Sanskrit संप्रजानन्). The translation uses \"vigilance\".",
+     "fix": "With introspection, to the thought of rising quickly,"
+    }
+   ]
+  },
+  {
+   "id": "6-1",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "Accumulated over ten eons,",
+     "evidence": "Tibetan \"བསྐལ་པ་སྟོང་དུ་བསགས་པ་ཡི\" means accumulated over a thousand eons; Sanskrit \"कल्पसहस्रैः\" (thousands of eons). \"Ten\" is wrong.",
+     "fix": "Accumulated over a thousand eons,"
+    }
+   ]
+  },
+  {
+   "id": "6-121",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Do not regard even their own bodies for their sake;",
+     "evidence": "The relative \"གང་ཕྱིར\" and \"དེ་ལ\" refer to sentient beings, for whose sake the lords (buddhas) disregard their own bodies (bo-kunpal 6-121 \"སེམས་ཅན་གང་གི་ཕྱིར་དུ་རང་གི་སྐུ་ལའང་མི་གཟིགས་པར་མཛད་པ\"; bo-gyaltsab 6-121 \"སེམས་ཅན་གང་གི་ཕྱིར་དུ\"). In the English, \"their sake\" and \"them\" can be read as the lords themselves.",
+     "fix": "Do not regard even their own bodies for the sake of those beings;"
+    }
+   ]
+  },
+  {
+   "id": "6-128",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "harm him in return",
+     "evidence": "Tibetan \"ནུས་ཀྱང་ཕྱིར་གནོད་མི་བྱེད་དེ\" is negative (although able, they do not harm back); Sanskrit \"विकर्तुं नैव शक्नोति\" (cannot/does not harm). The English says the farsighted do retaliate.",
+     "fix": "do not harm him in return."
+    }
+   ]
+  },
+  {
+   "id": "7-14",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "the boat of a divine body",
+     "evidence": "Tibetan \"མི་ཡི་གྲུ\" is the boat of a human (body); Sanskrit \"मानुष्यं नावम्\". \"Divine\" is wrong.",
+     "fix": "the boat of a human body"
+    }
+   ]
+  },
+  {
+   "id": "7-21",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "Yet I will attain awakening.",
+     "evidence": "Tibetan \"བྱང་ཆུབ་ཐོབ་པར་མི་འགྱུར་རོ\" is negative (I will not attain awakening); Sanskrit \"न च बोधिर्भविष्यति\". The English reverses the claim.",
+     "fix": "I will still not attain awakening."
+    }
+   ]
+  },
+  {
+   "id": "8-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "superior insight",
+     "evidence": "Locked term ལྷག་མཐོང \"special insight\"; Tibetan \"ཞི་གནས་རབ་ཏུ་ལྡན་པའི་ལྷག་མཐོང་གིས\". The translation uses \"superior insight\".",
+     "fix": "By special insight fully endowed with calm abiding"
+    }
+   ]
+  },
+  {
+   "id": "8-32",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "Since others take a share of the suffering,",
+     "evidence": "Tibetan \"སྡུག་བསྔལ་སྐལ་གཞན་མི་ལེན་ན\" is negative (others do not take a share); Sanskrit \"नान्यस्य तद्व्यथाभागः\". The point of the verse (loved ones cannot share one's suffering) is reversed.",
+     "fix": "Since others do not take a share of the suffering,"
+    }
+   ]
+  },
+  {
+   "id": "8-84",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "major",
+     "span": "and mountain caves",
+     "evidence": "Tibetan \"ཞི་བའི་ནགས་ཀྱི་ནང་དག་ཏུ\" mentions only peaceful forests; Sanskrit \"शान्तासु वनभूमिषु\" (peaceful forest lands). \"Mountain caves\" is not in the source.",
+     "fix": "Within peaceful forests"
+    }
+   ]
+  },
+  {
+   "id": "9-2",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "Ultimate truth is the domain of the intellect;",
+     "evidence": "Tibetan \"དོན་དམ་བློ་ཡི་སྤྱོད་ཡུལ་མིན\" is negative (not the domain of the intellect); Sanskrit \"बुद्धेरगोचरस्तत्त्वम्\". The English reverses the core point.",
+     "fix": "Ultimate truth is not the domain of the intellect;"
+    }
+   ]
+  },
+  {
+   "id": "9-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-17",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "Stated that the mind sees the mind.",
+     "evidence": "Tibetan \"སེམས་ཀྱིས་སེམས་མི་མཐོང་ཞེས་གསུངས\" is negative; Sanskrit \"चित्तं चित्तं न पश्यति\". The English asserts the opposite.",
+     "fix": "Stated that the mind does not see the mind."
+    }
+   ]
+  },
+  {
+   "id": "10-51",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "Avalokiteśvara",
+     "evidence": "Tibetan \"འཇམ་དབྱངས\" is Mañjuśrī (locked term \"Mañjuśrī\"); Sanskrit \"मञ्जुघोषपरिग्रहात्\". Wrong figure.",
+     "fix": "Mañjuśrī"
+    }
+   ]
+  },
+  {
+   "id": "10-55",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

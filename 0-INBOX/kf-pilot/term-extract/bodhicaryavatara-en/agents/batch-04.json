@@ -1,0 +1,729 @@
+{
+ "batch": "batch-04",
+ "segments": [
+  {
+   "id": "3-0",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་ཀྱི་སེམས་ཡོངས་སུ་བཟུང་བ",
+     "dm": "Adopting the Bodhichitta",
+     "gm": null
+    },
+    {
+     "bo": "བྱང་ཆུབ་ཀྱི་སེམས",
+     "dm": "Bodhichitta",
+     "gm": null
+    }
+   ]
+  },
+  {
+   "id": "3-1",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "ངན་སོང",
+     "dm": "lower realms",
+     "gm": "lower realms"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "དགེ་བ",
+     "dm": "virtue",
+     "gm": "virtue"
+    },
+    {
+     "bo": "རྗེས་སུ་ཡི་རང",
+     "dm": "rejoice",
+     "gm": "rejoice"
+    }
+   ]
+  },
+  {
+   "id": "3-2",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "enlightenment",
+     "gm": "awakening"
+    },
+    {
+     "bo": "དགེ་བ",
+     "dm": "virtue",
+     "gm": "virtue"
+    },
+    {
+     "bo": "འཁོར་བ",
+     "dm": "cyclic existence",
+     "gm": "samsara"
+    },
+    {
+     "bo": "ལུས་ཅན",
+     "dm": "embodied beings",
+     "gm": "embodied beings"
+    },
+    {
+     "bo": "ངེས་པར་ཐར",
+     "dm": "definite liberation",
+     "gm": "definite liberation"
+    },
+    {
+     "bo": "སྐྱོབ་པ",
+     "dm": "Protectors",
+     "gm": "protectors"
+    },
+    {
+     "bo": "རྒྱལ་སྲས",
+     "dm": "Bodhisattvas",
+     "gm": "Conquerors' sons"
+    },
+    {
+     "bo": "རྒྱལ་སྲས་ས",
+     "dm": "levels of the Bodhisattvas",
+     "gm": "stages of the Conquerors' sons"
+    },
+    {
+     "bo": "རྗེས་སུ་ཡི་རང",
+     "dm": "rejoice",
+     "gm": "rejoice"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "3-3",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "ཐུགས་བསྐྱེད",
+     "dm": "generation of the mind of awakening",
+     "gm": "generating the awakening mind"
+    },
+    {
+     "bo": "དགེ་བ",
+     "dm": "virtue",
+     "gm": "virtue"
+    },
+    {
+     "bo": "རྗེས་སུ་ཡི་རང",
+     "dm": "rejoice",
+     "gm": "rejoice"
+    }
+   ]
+  },
+  {
+   "id": "3-4",
+   "terms": [
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "Buddhas"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": null,
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "ཆོས་ཀྱི་སྒྲོན་མ",
+     "dm": "lamp of the Dharma",
+     "gm": "lamp of Dharma"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "3-5",
+   "terms": [
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victors",
+     "gm": "Conquerors"
+    },
+    {
+     "bo": "མྱ་ངན་འདའ",
+     "dm": "nirvana",
+     "gm": "nirvana"
+    },
+    {
+     "bo": "འགྲོ",
+     "dm": "beings",
+     "gm": "wanderers"
+    },
+    {
+     "bo": "བསྐལ་པ་གྲངས་མེད",
+     "dm": "countless eons",
+     "gm": "countless eons"
+    },
+    {
+     "bo": "བསྐལ་པ",
+     "dm": "eons",
+     "gm": "eons"
+    }
+   ]
+  },
+  {
+   "id": "3-6",
+   "terms": [
+    {
+     "bo": "དགེ་བ",
+     "dm": "virtue",
+     "gm": "virtue"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient being",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "3-7",
+   "terms": [
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "beings",
+     "gm": "wanderers"
+    }
+   ]
+  },
+  {
+   "id": "3-8",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "མུ་གེའི་བསྐལ་པ་བར་མ",
+     "dm": "intermediate eon of famine",
+     "gm": "intermediate eon of famine"
+    },
+    {
+     "bo": "བསྐལ་པ",
+     "dm": "eon",
+     "gm": "eon"
+    }
+   ]
+  },
+  {
+   "id": "3-9",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "མི་ཟད་གཏེར",
+     "dm": "inexhaustible treasure",
+     "gm": "inexhaustible treasure"
+    }
+   ]
+  },
+  {
+   "id": "3-10",
+   "terms": [
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    },
+    {
+     "bo": "ལོངས་སྤྱོད",
+     "dm": "possessions",
+     "gm": "wealth"
+    },
+    {
+     "bo": "དུས་གསུམ",
+     "dm": "three times",
+     "gm": "three times"
+    },
+    {
+     "bo": "དགེ་བ",
+     "dm": "virtues",
+     "gm": "virtues"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "3-11",
+   "terms": [
+    {
+     "bo": "མྱ་ངན་འདའ",
+     "dm": "transcends suffering",
+     "gm": "nirvana"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "3-12",
+   "terms": [
+    {
+     "bo": "ལུས་ཅན",
+     "dm": "embodied beings",
+     "gm": "embodied beings"
+    },
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    }
+   ]
+  },
+  {
+   "id": "3-13",
+   "terms": [
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    }
+   ]
+  },
+  {
+   "id": "3-14",
+   "terms": []
+  },
+  {
+   "id": "3-15",
+   "terms": [
+    {
+     "bo": "ཁྲོ",
+     "dm": "anger",
+     "gm": "anger"
+    },
+    {
+     "bo": "དད་པ",
+     "dm": "faith",
+     "gm": "faith"
+    }
+   ]
+  },
+  {
+   "id": "3-16",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "enlightenment",
+     "gm": "awakening"
+    }
+   ]
+  },
+  {
+   "id": "3-17",
+   "terms": [
+    {
+     "bo": "མགོན",
+     "dm": "protector",
+     "gm": "protector"
+    },
+    {
+     "bo": "ལམ",
+     "dm": "path",
+     "gm": "path"
+    }
+   ]
+  },
+  {
+   "id": "3-18",
+   "terms": [
+    {
+     "bo": "ལུས་ཅན",
+     "dm": "embodied beings",
+     "gm": "embodied beings"
+    }
+   ]
+  },
+  {
+   "id": "3-19",
+   "terms": [
+    {
+     "bo": "ཡིད་བཞིན་ནོར",
+     "dm": "wish-fulfilling jewel",
+     "gm": "wish-fulfilling jewel"
+    },
+    {
+     "bo": "བུམ་པ་བཟང",
+     "dm": "vase of excellence",
+     "gm": "fine vase"
+    },
+    {
+     "bo": "རིག་སྔགས་གྲུབ",
+     "dm": "perfected mantra",
+     "gm": "accomplished knowledge-mantra"
+    },
+    {
+     "bo": "སྨན་ཆེན",
+     "dm": "great medicine",
+     "gm": "great medicine"
+    },
+    {
+     "bo": "དཔག་བསམ་གྱི་ནི་ཤིང",
+     "dm": "wish-granting tree",
+     "gm": "wish-granting trees"
+    },
+    {
+     "bo": "འདོད་འཇོར",
+     "dm": "cow of plenty",
+     "gm": "cow of plenty"
+    },
+    {
+     "bo": "ལུས་ཅན",
+     "dm": "embodied beings",
+     "gm": "embodied beings"
+    }
+   ]
+  },
+  {
+   "id": "3-20",
+   "terms": [
+    {
+     "bo": "འབྱུང་བ་ཆེན་པོ",
+     "dm": "great elements",
+     "gm": "great elements"
+    },
+    {
+     "bo": "ནམ་མཁའ",
+     "dm": "space",
+     "gm": "space"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "3-21",
+   "terms": [
+    {
+     "bo": "ནམ་མཁའ",
+     "dm": "space",
+     "gm": "space"
+    },
+    {
+     "bo": "སེམས་ཅན་ཁམས",
+     "dm": "realms of sentient beings",
+     "gm": "realm of sentient beings"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "མྱ་ངན་འདས",
+     "dm": "passed beyond sorrow",
+     "gm": "nirvana"
+    }
+   ]
+  },
+  {
+   "id": "3-22",
+   "terms": [
+    {
+     "bo": "བདེ་གཤེགས",
+     "dm": "Sugatas",
+     "gm": "Sugatas"
+    },
+    {
+     "bo": "བྱང་ཆུབ་ཐུགས",
+     "dm": "mind of enlightenment",
+     "gm": "awakening mind"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའི་བསླབ་པ",
+     "dm": "Bodhisattva trainings",
+     "gm": "trainings of the bodhisattvas"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattva",
+     "gm": "bodhisattvas"
+    },
+    {
+     "bo": "བསླབ་པ",
+     "dm": "trainings",
+     "gm": "trainings"
+    }
+   ]
+  },
+  {
+   "id": "3-23",
+   "terms": [
+    {
+     "bo": "འགྲོ",
+     "dm": "beings",
+     "gm": "wandering beings"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས",
+     "dm": "mind of enlightenment",
+     "gm": "awakening mind"
+    },
+    {
+     "bo": "བསླབ་པ",
+     "dm": "trainings",
+     "gm": "trainings"
+    }
+   ]
+  },
+  {
+   "id": "3-24",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས",
+     "dm": "mind of enlightenment",
+     "gm": "awakening mind"
+    }
+   ]
+  },
+  {
+   "id": "3-25",
+   "terms": [
+    {
+     "bo": "མི་ཡི་སྲིད་པ",
+     "dm": "human existence",
+     "gm": "human existence"
+    },
+    {
+     "bo": "སངས་རྒྱས་རིགས",
+     "dm": "family of the Buddhas",
+     "gm": "family of the Buddhas"
+    },
+    {
+     "bo": "སངས་རྒྱས་སྲས",
+     "dm": "child of the Buddhas",
+     "gm": "child of the Buddhas"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "Buddhas"
+    },
+    {
+     "bo": "རིགས",
+     "dm": "family",
+     "gm": "family"
+    }
+   ]
+  },
+  {
+   "id": "3-26",
+   "terms": [
+    {
+     "bo": "རིགས",
+     "dm": "lineage",
+     "gm": "family"
+    }
+   ]
+  },
+  {
+   "id": "3-27",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས",
+     "dm": "spirit of awakening",
+     "gm": "awakening mind"
+    }
+   ]
+  },
+  {
+   "id": "3-28",
+   "terms": [
+    {
+     "bo": "འཆི་བདག",
+     "dm": "Lord of Death",
+     "gm": "Lord of Death"
+    },
+    {
+     "bo": "བདུད་རྩི",
+     "dm": "nectar",
+     "gm": "nectar"
+    },
+    {
+     "bo": "མི་ཟད་གཏེར",
+     "dm": "inexhaustible treasure",
+     "gm": "inexhaustible treasure"
+    },
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "beings",
+     "gm": "wandering beings"
+    }
+   ]
+  },
+  {
+   "id": "3-29",
+   "terms": [
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "beings",
+     "gm": "wandering beings"
+    },
+    {
+     "bo": "སྲིད་ལམ",
+     "dm": "paths of cyclic existence",
+     "gm": "path of existence"
+    }
+   ]
+  },
+  {
+   "id": "3-30",
+   "terms": [
+    {
+     "bo": "ངན་འགྲོ",
+     "dm": "lower realms",
+     "gm": "lower realms"
+    },
+    {
+     "bo": "སྤྱི་སྟེགས",
+     "dm": "universal bridge",
+     "gm": "universal bridge"
+    },
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "afflictions"
+    },
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "beings",
+     "gm": "wandering beings"
+    }
+   ]
+  },
+  {
+   "id": "3-31",
+   "terms": [
+    {
+     "bo": "མི་ཤེས",
+     "dm": "ignorance",
+     "gm": "ignorance"
+    },
+    {
+     "bo": "དམ་ཆོས",
+     "dm": "sublime Dharma",
+     "gm": "true Dharma"
+    },
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "beings",
+     "gm": "wandering beings"
+    }
+   ]
+  },
+  {
+   "id": "3-32",
+   "terms": [
+    {
+     "bo": "སྲིད་པ",
+     "dm": "existence",
+     "gm": "existence"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "beings",
+     "gm": "wandering beings"
+    }
+   ]
+  },
+  {
+   "id": "3-33",
+   "terms": [
+    {
+     "bo": "སྐྱོབ་པ",
+     "dm": "Protectors",
+     "gm": "protectors"
+    },
+    {
+     "bo": "བདེ་གཤེགས",
+     "dm": "Sugatas",
+     "gm": "Sugatahood"
+    },
+    {
+     "bo": "ལྷ",
+     "dm": "gods",
+     "gm": "gods"
+    },
+    {
+     "bo": "ལྷ་མིན",
+     "dm": "asuras",
+     "gm": "asuras"
+    },
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "world",
+     "gm": "Wandering beings"
+    }
+   ]
+  },
+  {
+   "id": "3-a",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ",
+     "dm": "Engaging in the Bodhisattva Deeds",
+     "gm": "Entering the Way of the Bodhisattva"
+    },
+    {
+     "bo": "བྱང་ཆུབ་ཀྱི་སེམས་ཡོངས་སུ་བཟུང་བ",
+     "dm": "Fully Adopting the Awakening Mind",
+     "gm": "Fully Taking Hold of the Awakening Mind"
+    },
+    {
+     "bo": "བྱང་ཆུབ་ཀྱི་སེམས",
+     "dm": "Awakening Mind",
+     "gm": "Awakening Mind"
+    }
+   ]
+  }
+ ]
+}

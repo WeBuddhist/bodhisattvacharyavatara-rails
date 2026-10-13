@@ -1,0 +1,355 @@
+[
+ {
+  "track": "en-academic",
+  "runs": [
+   "academic-a1",
+   "academic-a2",
+   "academic-a3"
+  ],
+  "before": {
+   "segments": 927,
+   "fail": 19,
+   "error_free": 768,
+   "critical": 0,
+   "major": 19,
+   "minor": 151,
+   "penalty": 246,
+   "penalty_per_1k_syl": 9.21,
+   "error_free_pct": 82.8,
+   "issues_per_100_seg": 18.3,
+   "blocking_per_100_seg": 2.05,
+   "terms": {
+    "required": 2205,
+    "used": 2199,
+    "pct": 99.73
+   }
+  },
+  "after": {
+   "segments": 927,
+   "fail": 0,
+   "error_free": 874,
+   "critical": 0,
+   "major": 0,
+   "minor": 59,
+   "penalty": 59,
+   "penalty_per_1k_syl": 2.21,
+   "error_free_pct": 94.3,
+   "issues_per_100_seg": 6.4,
+   "blocking_per_100_seg": 0.0,
+   "terms": {
+    "required": 2205,
+    "used": 2199,
+    "pct": 99.73
+   }
+  },
+  "segments_regenerated": 133,
+  "chrf": {
+   "reference": "Padmakara 2006 / Wallace / Choephel (mean)",
+   "segments": 911,
+   "changed_segments": 132,
+   "whole_before": 39.42,
+   "whole_after": 39.47,
+   "changed_before": 38.7,
+   "changed_after": 39.01,
+   "per_reference": [
+    {
+     "reference": "Padmakara 2006",
+     "segments": 911,
+     "whole_before": 34.15,
+     "whole_after": 34.21,
+     "changed_segments": 132,
+     "changed_before": 33.56,
+     "changed_after": 33.96
+    },
+    {
+     "reference": "Wallace",
+     "segments": 908,
+     "whole_before": 41.83,
+     "whole_after": 41.92,
+     "changed_segments": 132,
+     "changed_before": 40.66,
+     "changed_after": 41.31
+    },
+    {
+     "reference": "Choephel",
+     "segments": 922,
+     "whole_before": 42.28,
+     "whole_after": 42.27,
+     "changed_segments": 133,
+     "changed_before": 41.89,
+     "changed_after": 41.76
+    }
+   ]
+  },
+  "unchecked_current_text": []
+ },
+ {
+  "track": "zh-academic",
+  "runs": [
+   "zh-academic-a1",
+   "zh-academic-a2"
+  ],
+  "before": {
+   "segments": 927,
+   "fail": 5,
+   "error_free": 819,
+   "critical": 0,
+   "major": 5,
+   "minor": 108,
+   "penalty": 133,
+   "penalty_per_1k_syl": 4.98,
+   "error_free_pct": 88.3,
+   "issues_per_100_seg": 12.2,
+   "blocking_per_100_seg": 0.54,
+   "terms": {
+    "required": 2204,
+    "used": 2204,
+    "pct": 100.0
+   }
+  },
+  "after": {
+   "segments": 927,
+   "fail": 0,
+   "error_free": 905,
+   "critical": 0,
+   "major": 0,
+   "minor": 24,
+   "penalty": 24,
+   "penalty_per_1k_syl": 0.9,
+   "error_free_pct": 97.6,
+   "issues_per_100_seg": 2.6,
+   "blocking_per_100_seg": 0.0,
+   "terms": {
+    "required": 2204,
+    "used": 2204,
+    "pct": 100.0
+   }
+  },
+  "segments_regenerated": 97,
+  "chrf": {
+   "reference": "如石 / 蔣揚仁欽 / 隆蓮 (mean)",
+   "segments": 910,
+   "changed_segments": 97,
+   "whole_before": 11.45,
+   "whole_after": 11.42,
+   "changed_before": 11.93,
+   "changed_after": 11.66,
+   "per_reference": [
+    {
+     "reference": "如石",
+     "segments": 910,
+     "whole_before": 11.46,
+     "whole_after": 11.43,
+     "changed_segments": 97,
+     "changed_before": 11.85,
+     "changed_after": 11.56
+    },
+    {
+     "reference": "蔣揚仁欽",
+     "segments": 910,
+     "whole_before": 12.51,
+     "whole_after": 12.47,
+     "changed_segments": 97,
+     "changed_before": 13.31,
+     "changed_after": 12.91
+    },
+    {
+     "reference": "隆蓮",
+     "segments": 910,
+     "whole_before": 10.38,
+     "whole_after": 10.37,
+     "changed_segments": 96,
+     "changed_before": 10.64,
+     "changed_after": 10.52
+    }
+   ]
+  },
+  "unchecked_current_text": []
+ },
+ {
+  "track": "hi-academic",
+  "runs": [
+   "hi-academic-a1",
+   "hi-academic-a2",
+   "hi-academic-a3"
+  ],
+  "before": {
+   "segments": 927,
+   "fail": 6,
+   "error_free": 813,
+   "critical": 0,
+   "major": 6,
+   "minor": 111,
+   "penalty": 141,
+   "penalty_per_1k_syl": 5.28,
+   "error_free_pct": 87.7,
+   "issues_per_100_seg": 12.6,
+   "blocking_per_100_seg": 0.65,
+   "terms": {
+    "required": 2205,
+    "used": 2204,
+    "pct": 99.95
+   }
+  },
+  "after": {
+   "segments": 927,
+   "fail": 0,
+   "error_free": 897,
+   "critical": 0,
+   "major": 0,
+   "minor": 31,
+   "penalty": 31,
+   "penalty_per_1k_syl": 1.16,
+   "error_free_pct": 96.8,
+   "issues_per_100_seg": 3.3,
+   "blocking_per_100_seg": 0.0,
+   "terms": {
+    "required": 2205,
+    "used": 2204,
+    "pct": 99.95
+   }
+  },
+  "segments_regenerated": 97,
+  "chrf": null,
+  "unchecked_current_text": []
+ },
+ {
+  "track": "en-children",
+  "runs": [
+   "children-a1",
+   "children-a2"
+  ],
+  "before": {
+   "segments": 927,
+   "fail": 19,
+   "error_free": 780,
+   "critical": 0,
+   "major": 19,
+   "minor": 131,
+   "penalty": 226,
+   "penalty_per_1k_syl": 8.46,
+   "error_free_pct": 84.1,
+   "issues_per_100_seg": 16.2,
+   "blocking_per_100_seg": 2.05,
+   "terms": {
+    "required": 2205,
+    "used": 2201,
+    "pct": 99.82
+   }
+  },
+  "after": {
+   "segments": 927,
+   "fail": 1,
+   "error_free": 889,
+   "critical": 0,
+   "major": 1,
+   "minor": 38,
+   "penalty": 43,
+   "penalty_per_1k_syl": 1.61,
+   "error_free_pct": 95.9,
+   "issues_per_100_seg": 4.2,
+   "blocking_per_100_seg": 0.11,
+   "terms": {
+    "required": 2205,
+    "used": 2200,
+    "pct": 99.77
+   }
+  },
+  "segments_regenerated": 132,
+  "chrf": null,
+  "unchecked_current_text": []
+ },
+ {
+  "track": "zh-children",
+  "runs": [
+   "zh-children-a1",
+   "zh-children-a2"
+  ],
+  "before": {
+   "segments": 927,
+   "fail": 15,
+   "error_free": 807,
+   "critical": 0,
+   "major": 15,
+   "minor": 108,
+   "penalty": 183,
+   "penalty_per_1k_syl": 6.85,
+   "error_free_pct": 87.1,
+   "issues_per_100_seg": 13.3,
+   "blocking_per_100_seg": 1.62,
+   "terms": {
+    "required": 2204,
+    "used": 2204,
+    "pct": 100.0
+   }
+  },
+  "after": {
+   "segments": 927,
+   "fail": 0,
+   "error_free": 892,
+   "critical": 0,
+   "major": 0,
+   "minor": 37,
+   "penalty": 37,
+   "penalty_per_1k_syl": 1.38,
+   "error_free_pct": 96.2,
+   "issues_per_100_seg": 4.0,
+   "blocking_per_100_seg": 0.0,
+   "terms": {
+    "required": 2204,
+    "used": 2204,
+    "pct": 100.0
+   }
+  },
+  "segments_regenerated": 108,
+  "chrf": null,
+  "unchecked_current_text": []
+ },
+ {
+  "track": "hi-children",
+  "runs": [
+   "hi-children-a1",
+   "hi-children-a2",
+   "hi-children-a3"
+  ],
+  "before": {
+   "segments": 927,
+   "fail": 13,
+   "error_free": 754,
+   "critical": 0,
+   "major": 13,
+   "minor": 168,
+   "penalty": 233,
+   "penalty_per_1k_syl": 8.72,
+   "error_free_pct": 81.3,
+   "issues_per_100_seg": 19.5,
+   "blocking_per_100_seg": 1.4,
+   "terms": {
+    "required": 2205,
+    "used": 2202,
+    "pct": 99.86
+   }
+  },
+  "after": {
+   "segments": 927,
+   "fail": 0,
+   "error_free": 885,
+   "critical": 0,
+   "major": 0,
+   "minor": 43,
+   "penalty": 43,
+   "penalty_per_1k_syl": 1.61,
+   "error_free_pct": 95.5,
+   "issues_per_100_seg": 4.6,
+   "blocking_per_100_seg": 0.0,
+   "terms": {
+    "required": 2205,
+    "used": 2203,
+    "pct": 99.91
+   }
+  },
+  "segments_regenerated": 163,
+  "chrf": null,
+  "unchecked_current_text": []
+ }
+]

@@ -1,0 +1,389 @@
+[
+ {
+  "id": "9-57",
+  "tibetan": "སོ་དང་སྐྲ་སེན་བདག་མ་ཡིན། ། བདག་ནི་རུས་པ་ཁྲག་མ་ཡིན། ། སྣབས་མིན་བད་ཀན་མ་ཡིན་ཏེ། ། ཆུ་སེར་དང་ནི་རྣག་ཀྱང་མིན། །",
+  "academic_translation": "Teeth, hair, and nails are not the self,\nand the self is not bones or blood;\nit is not mucus, nor is it phlegm,\nand it is neither lymph nor pus.",
+  "locked_terms": [
+   {
+    "tibetan": "བདག",
+    "use": "self"
+   }
+  ],
+  "translation": "Teeth, hair, and nails are not the self, and the self is not bones or blood. It is not mucus or phlegm, and it is not a watery body fluid or pus."
+ },
+ {
+  "id": "9-63",
+  "tibetan": "སྒྲ་འཛིན་རང་བཞིན་གང་ཡིན་པ། ། དེ་གཟུགས་འཛིན་པར་ཇི་ལྟར་འགྱུར། ། གཅིག་ནི་ཕ་དང་བུ་ཉིད་དུ། ། བརྟགས་ཡིན་ཡང་དག་ཉིད་མིན་ཏེ། །",
+  "academic_translation": "Whatever has the nature of apprehending sound,\nHow could it become the apprehender of form?\nOne person is designated as a father and a son,\nBut this is not true reality.",
+  "locked_terms": [
+   {
+    "tibetan": "གཟུགས",
+    "use": "shape"
+   },
+   {
+    "tibetan": "བརྟགས",
+    "use": "labelled"
+   },
+   {
+    "tibetan": "ཡང་དག་ཉིད",
+    "use": "what is truly real"
+   },
+   {
+    "tibetan": "སྒྲ",
+    "use": "sound"
+   }
+  ],
+  "translation": "If something has the nature of noticing a sound, how could it become the thing that notices a shape? One person can be labelled as both a father and a son. But that is not what is truly real."
+ },
+ {
+  "id": "9-65",
+  "tibetan": "གར་མཁན་ལྟ་བུར་ཚུལ་གཞན་གྱིས། ། དེ་ཉིད་མཐོང་ན་དེ་རྟག་མིན། ། གལ་ཏེ་ཚུལ་གཞན་དེ་ཉིད་ན། ། གཅིག་ཉིད་དེ་ནི་སྔོན་མེད་གཅིག །",
+  "academic_translation": "If, like an actor, in another mode\nThat very thing is seen, it is not permanent.\nIf that other mode is that very thing,\nThat oneness is an unprecedented one.",
+  "locked_terms": [
+   {
+    "tibetan": "རྟག",
+    "use": "lasting forever"
+   }
+  ],
+  "translation": "If it is like an actor who shows up in a new way, then we see it changing, so it is not lasting forever. If that new way is the exact same thing, then this kind of oneness has never been seen before."
+ },
+ {
+  "id": "9-68",
+  "tibetan": "སེམས་མེད་པ་ཡང་བདག་མིན་ཏེ། ། སེམས་མེད་ཉིད་ཕྱིར་བུམ་སོགས་བཞིན། ། འོན་ཏེ་སེམས་དང་ལྡན་པའི་ཕྱིར། ། ཤེས་ན་མི་ཤེས་འཇིག་པར་ཐལ། །",
+  "academic_translation": "That which is mindless is also not the self,\nBecause it is mindless, like a vase and so forth.\nIf, however, it cognizes because it is endowed with a mind,\nIt follows that the non-cognizer perishes.",
+  "locked_terms": [
+   {
+    "tibetan": "བདག",
+    "use": "self"
+   }
+  ],
+  "translation": "A thing without a mind is not the self, because it has no mind, just like a vase. But you might say it knows things because it gets a mind. Then the thing that did not know anything before would be destroyed."
+ },
+ {
+  "id": "9-75",
+  "tibetan": "གལ་ཏེ་སེམས་ཅན་ཡོད་མིན་ན། ། སུ་ལ་སྙིང་རྗེ་བྱ་ཞེ་ན། ། འབྲས་བུའི་དོན་དུ་ཁས་བླངས་པའི། ། རྨོངས་པས་བརྟགས་པ་གང་ཡིན་པའོ། །",
+  "academic_translation": "\"If sentient beings do not exist,\nToward whom should one practice compassion?\"\nToward whatever is imputed by delusion,\nWhich is accepted for the sake of the result.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "སྙིང་རྗེ",
+    "use": "compassion"
+   },
+   {
+    "tibetan": "བརྟགས་པ",
+    "use": "imagined"
+   },
+   {
+    "tibetan": "རྨོངས་པ",
+    "use": "confusion"
+   },
+   {
+    "tibetan": "འབྲས་བུ",
+    "use": "result"
+   }
+  ],
+  "translation": "Someone might ask, \"If there are no living beings, who should we show compassion to?\" We show compassion to those imagined by our confusion. We accept them for the sake of the result."
+ },
+ {
+  "id": "9-103",
+  "tibetan": "གང་ཞིག་ལུས་མིན་གཞན་དུ་མིན། ། འདྲེས་མིན་ལོགས་སུའང་འགར་མེད་པ། ། དེ་ནི་ཅུང་ཟད་མིན་དེའི་ཕྱིར། ། སེམས་ཅན་རང་བཞིན་མྱ་ངན་འདས། །",
+  "academic_translation": "That which is not the body, nor anywhere else,\nNot mixed, nor anywhere separate,\nIs nothing whatsoever; therefore,\nSentient beings are by nature in nirvāṇa.",
+  "locked_terms": [
+   {
+    "tibetan": "ལུས",
+    "use": "body"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "རང་བཞིན",
+    "use": "nature"
+   },
+   {
+    "tibetan": "མྱ་ངན་འདས",
+    "use": "freedom from sorrow"
+   }
+  ],
+  "translation": "The mind is not the body, and it is not anywhere else. It is not mixed with anything, and it is not separate. It cannot be found as anything at all. Because of this, every living being is in freedom from sorrow by nature."
+ },
+ {
+  "id": "9-108",
+  "tibetan": "རྟོག་དང་བརྟག་པར་བྱ་བ་དག ། གཉིས་པོ་ཕན་ཚུན་བརྟེན་པ་ཡིན། ། ཇི་ལྟར་གྲགས་པ་ལ་བརྟེན་ནས། ། རྣམ་པར་དཔྱད་པ་ཐམས་ཅད་བརྗོད། །",
+  "academic_translation": "Conceptual thought and what is to be conceptualized,\nThe two are mutually dependent.\nRelying on what is commonly known,\nAll analyses are expressed.",
+  "locked_terms": [
+   {
+    "tibetan": "རྟོག",
+    "use": "imagining"
+   },
+   {
+    "tibetan": "རྣམ་པར་དཔྱད་པ",
+    "use": "careful examination"
+   }
+  ],
+  "translation": "Imagining and the thing imagined depend on each other. Every careful examination is spoken by relying on what people already know."
+ },
+ {
+  "id": "9-126",
+  "tibetan": "གང་དག་རྡུལ་ཕྲན་རྟག་སྨྲ་བ། ། དེ་དག་ཀྱང་ནི་སྔར་བཟློག་ཟིན། ། གཙོ་བོ་རྟག་པ་འགྲོ་བ་ཡི། ། རྒྱུ་ཡིན་པར་ནི་གྲངས་ཅན་འདོད། །",
+  "academic_translation": "Those who assert permanent atoms\nHave also already been refuted earlier.\nThe Sāṃkhyas assert that the permanent Pradhāna\nIs the cause of wandering beings.",
+  "locked_terms": [
+   {
+    "tibetan": "རྡུལ་ཕྲན",
+    "use": "atom"
+   },
+   {
+    "tibetan": "རྟག་པ",
+    "use": "never-changing"
+   },
+   {
+    "tibetan": "གཙོ་བོ",
+    "use": "Primal Matter"
+   },
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   },
+   {
+    "tibetan": "གྲངས་ཅན",
+    "use": "Samkhya"
+   },
+   {
+    "tibetan": "རྒྱུ",
+    "use": "cause"
+   }
+  ],
+  "translation": "People who believe in never-changing atoms have already been proven wrong. The Samkhya thinkers say that a never-changing Primal Matter is the cause of beings."
+ },
+ {
+  "id": "9-131",
+  "tibetan": "སྣམ་སོགས་ལས་ནི་བདེ་སོགས་ཡིན། ། དེ་མེད་ཕྱིར་ན་བདེ་སོགས་མེད། ། བདེ་སོགས་རྟག་པ་ཉིད་དུ་ཡང་། ། ནམ་ཡང་དམིགས་པ་ཡོད་མ་ཡིན། །",
+  "academic_translation": "Happiness and so forth arise from cloth and so forth;\nSince those do not exist, happiness and so forth do not exist.\nFurthermore, happiness and so forth as permanent\nAre never observed.",
+  "locked_terms": [
+   {
+    "tibetan": "བདེ",
+    "use": "happiness"
+   },
+   {
+    "tibetan": "རྟག་པ",
+    "use": "never-changing"
+   }
+  ],
+  "translation": "Happiness and other feelings would come from things like cloth. Since those things do not exist, happiness does not exist either. Also, we never see happiness as something never-changing."
+ },
+ {
+  "id": "9-144",
+  "tibetan": "གང་ཞིག་གང་ནི་ཉེ་བ་ཡིས། ། མཐོང་གྱུར་དེ་མེད་ན་མིན་པ། ། བཅོས་སུ་གཟུགས་བརྙན་དང་མཚུངས་པ། ། དེ་ལ་བདེན་ཉིད་ཇི་ལྟར་ཡོད། །",
+  "academic_translation": "Whatever is seen through the proximity of something,\nAnd is not seen when that is absent,\nIs fabricated, similar to a reflection;\nHow could there be true existence in that?",
+  "locked_terms": [
+   {
+    "tibetan": "གཟུགས་བརྙན",
+    "use": "reflection"
+   },
+   {
+    "tibetan": "བདེན་ཉིད",
+    "use": "being truly real"
+   }
+  ],
+  "translation": "Whatever is seen only because something else is near, and is unseen when that is gone, is made up. It is like a reflection. How could being truly real exist in that?"
+ },
+ {
+  "id": "9-146",
+  "tibetan": "བྱེ་བ་བརྒྱ་ཕྲག་རྒྱུ་ཡིས་ཀྱང་། ། དངོས་པོ་མེད་པ་བསྒྱུར་དུ་མེད། ། གནས་སྐབས་དེ་དངོས་ཇི་ལྟར་ཡིན། ། དངོས་འགྱུར་གཞན་ཡང་གང་ཞིག་ཡིན། །",
+  "academic_translation": "Even by hundreds of millions of causes,\nA non-entity cannot be transformed.\nHow could that state be an entity?\nAnd what else could become an entity?",
+  "locked_terms": [
+   {
+    "tibetan": "རྒྱུ",
+    "use": "cause"
+   },
+   {
+    "tibetan": "དངོས་པོ་མེད་པ",
+    "use": "non-existent thing"
+   }
+  ],
+  "translation": "Even hundreds of millions of causes cannot change a non-existent thing. How could that state be a thing? And what else could become a thing?"
+ },
+ {
+  "id": "9-149",
+  "tibetan": "དེ་ལྟར་འགག་པ་ཡོད་མིན་ཞིང་། ། དངོས་པོའང་ཡོད་མིན་དེ་ཡི་ཕྱིར། ། འགྲོ་བ་འདི་དག་ཐམས་ཅད་ནི། ། རྟག་ཏུ་མ་སྐྱེས་མ་འགགས་ཉིད། །",
+  "academic_translation": "Thus, there is no cessation,\nAnd there is also no entity; therefore,\nAll these wandering beings\nAre always unborn and unceasing.",
+  "locked_terms": [
+   {
+    "tibetan": "འགག་པ",
+    "use": "stopping"
+   },
+   {
+    "tibetan": "དངོས་པོ",
+    "use": "thing"
+   },
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   },
+   {
+    "tibetan": "མ་སྐྱེས་མ་འགགས",
+    "use": "never born and never ending"
+   }
+  ],
+  "translation": "So, there is no stopping, and there is no thing. Therefore, all these beings are always never born and never ending."
+ },
+ {
+  "id": "9-154",
+  "tibetan": "ཐམས་ཅད་ནམ་མཁའ་འདྲ་བར་ནི། ། བདག་འདྲས་ཡོངས་སུ་གཟུང་བར་གྱིས། ། བདག་ཉིད་བདེ་བར་འདོད་རྣམས་ནི། ། འཐབ་དང་སྤྲོ་བའི་རྒྱུ་དག་གིས། །",
+  "academic_translation": "May those like me completely grasp\nThat everything is like space.\nThose who desire happiness for themselves,\nThrough causes of conflict and excitement,",
+  "locked_terms": [
+   {
+    "tibetan": "ནམ་མཁའ",
+    "use": "space"
+   }
+  ],
+  "translation": "May people like me completely understand that everything is like space. People who want happiness for themselves are stirred up by causes of fighting and excitement."
+ },
+ {
+  "id": "9-157",
+  "tibetan": "སྲིད་པ་ན་ནི་གཡང་ས་མང་། ། དེར་ནི་དེ་ཉིད་མིན་འདི་འདྲ། ། དེར་ཡང་ཕན་ཚུན་འགལ་བས་ན། ། སྲིད་ན་དེ་ཉིད་འདི་འདྲ་མེད། །",
+  "academic_translation": "In existence, there are many precipices,\nAnd there, what is not reality is like this.\nBecause there is also mutual contradiction there,\nIn existence, there is no such reality.",
+  "locked_terms": [
+   {
+    "tibetan": "སྲིད་པ",
+    "use": "life"
+   },
+   {
+    "tibetan": "དེ་ཉིད",
+    "use": "the way things really are"
+   }
+  ],
+  "translation": "Life has many steep cliffs, and what is false looks like this. Because things clash with each other, there is no such thing as the way things really are in life."
+ },
+ {
+  "id": "9-158",
+  "tibetan": "དེ་ཡང་དཔེ་མེད་མི་བཟད་པའི། ། སྡུག་བསྔལ་རྒྱ་མཚོ་མཐའ་ལས་འདས། ། དེར་ནི་དེ་ལྟར་སྟོབས་ཆུང་ཞིང་། ། དེར་ནི་ཚེ་ཡང་ཐུང་བ་ཉིད། །",
+  "academic_translation": "There too, the incomparable, unbearable\nOcean of suffering is boundless.\nThere, one thus has little strength,\nAnd there, the lifespan is also short.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ་རྒྱ་མཚོ",
+    "use": "ocean of suffering"
+   }
+  ],
+  "translation": "In that place, the ocean of suffering has nothing to compare with it. It is too hard to bear and has no edge. There, people have very little strength, and their lives are short."
+ },
+ {
+  "id": "10-15",
+  "tibetan": "དེ་ལྟར་བདག་གི་དགེ་རྩས་ཀུན་དུ་བཟང་ལ་སོགས། ། བྱང་ཆུབ་སེམས་དཔའ་སྒྲིབ་པ་མེད་སྤྲིན་བདེ་བ་དང་། ། བསིལ་ཞིང་དྲི་ཞིམ་དང་ལྡན་ཆར་པ་འབེབས་མཐོང་ནས། ། སེམས་ཅན་དམྱལ་བ་དེ་དག་མངོན་པར་དགའ་གྱུར་ཅིག །",
+  "academic_translation": "Likewise, by my roots of virtue, upon seeing Samantabhadra and other\nBodhisattvas' unobstructed clouds, and the blissful,\nCool, fragrant rain they let fall,\nMay those sentient beings of hell become manifestly joyful.",
+  "locked_terms": [
+   {
+    "tibetan": "དགེ་རྩ",
+    "use": "root of good deeds"
+   },
+   {
+    "tibetan": "ཀུན་དུ་བཟང",
+    "use": "Samantabhadra"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "དམྱལ་བ",
+    "use": "hell"
+   }
+  ],
+  "translation": "Through my roots of good deeds, may the living beings of hell see Samantabhadra and other awakening heroes. These heroes bring happy clouds that nothing blocks, and let a cool, sweet-smelling rain fall. When the living beings see this, may they be filled with joy."
+ },
+ {
+  "id": "10-20",
+  "tibetan": "བཀྲེན་པ་རྣམས་ཀྱིས་ནོར་ཐོབ་ཤོག ། མྱ་ངན་ཉམ་ཐག་དགའ་ཐོབ་ཤོག ། ཡི་ཆད་རྣམས་ཀྱང་ཡིད་སོས་ཤིང་། ། བརྟན་པ་ཕུན་སུམ་ཚོགས་པར་ཤོག །",
+  "academic_translation": "May the destitute obtain wealth;\nMay those who are wretched with sorrow obtain joy;\nMay the despondent be restored in mind\nAnd attain perfect steadfastness.",
+  "locked_terms": [],
+  "translation": "May poor people find wealth. May very sad people find joy. May those who feel hopeless get their spirit back and become perfectly steady and firm."
+ },
+ {
+  "id": "10-29",
+  "tibetan": "སེམས་ཅན་གཟི་བརྗིད་ཆུང་ངུ་གང་། ། དེ་དག་གཟི་བརྗིད་ཆེན་པོར་ཤོག ། དཀའ་ཐུབ་ཅན་གང་གཟུགས་ངན་པ། ། གཟུགས་བཟང་ཕུན་སུམ་ཚོགས་གྱུར་ཅིག །",
+  "academic_translation": "Whatever sentient beings have little splendor,\nMay they have great splendor;\nWhatever ascetics have poor forms,\nMay they attain perfect, beautiful forms.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "དཀའ་ཐུབ་ཅན",
+    "use": "person of hard practice"
+   }
+  ],
+  "translation": "May any living beings who lack brightness shine with great brightness. May any persons of hard practice who look plain get beautiful and perfect bodies."
+ },
+ {
+  "id": "10-30",
+  "tibetan": "འཇིག་རྟེན་བུད་མེད་ཇི་སྙེད་པ། ། དེ་དག་སྐྱེས་པ་ཉིད་གྱུར་ཅིག ། མ་རབས་རྣམས་ནི་མཐོ་ཐོབ་ཅིང་། ། ང་རྒྱལ་དག་ཀྱང་བཅོམ་པར་ཤོག །",
+  "academic_translation": "However many women there are in the world,\nMay they become men;\nMay the lowly attain high status,\nAnd may their pride be subdued.",
+  "locked_terms": [
+   {
+    "tibetan": "འཇིག་རྟེན",
+    "use": "world"
+   },
+   {
+    "tibetan": "ང་རྒྱལ",
+    "use": "pride"
+   }
+  ],
+  "translation": "May all the women in the world become men. May lowly people reach high status, and may their pride be defeated."
+ },
+ {
+  "id": "10-58",
+  "tibetan": "གང་གི་དྲིན་གྱིས་དགེ་བློ་འབྱུང་། ། འཇམ་པའི་དབྱངས་ལ་ཕྱག་འཚལ་ལོ། ། གང་གི་དྲིན་གྱིས་བདག་དར་བ། ། དགེ་བའི་བཤེས་ལའང་བདག་ཕྱག་འཚལ། །",
+  "academic_translation": "Through whose kindness a virtuous intellect arises,\nI prostrate to Mañjuśrī.\nThrough whose kindness I have flourished,\nI also prostrate to the spiritual friend.",
+  "locked_terms": [
+   {
+    "tibetan": "དགེ་བློ",
+    "use": "good thinking mind"
+   },
+   {
+    "tibetan": "འཇམ་པའི་དབྱངས",
+    "use": "Manjushri"
+   },
+   {
+    "tibetan": "དགེ་བའི་བཤེས",
+    "use": "good friend"
+   }
+  ],
+  "translation": "Thanks to Manjushri's kindness, a good thinking mind comes to me. I bow down to Manjushri. Thanks to the good friend's kindness, I have grown. I also bow down to the good friend."
+ },
+ {
+  "id": "b-3",
+  "tibetan": "ཡང་དུས་ཕྱིས་རྒྱ་གར་གྱི་མཁན་པོ་སུ་མ་ཏི་ཀཱིརྟི་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ་དགེ་སློང་བློ་ལྡན་ཤེས་རབ་ཀྱིས་དག་པར་བཅོས་ཤིང་བསྒྱུར་ཏེ་ལེགས་པར་གཏན་ལ་ཕབ་པའོ།། །།",
+  "academic_translation": "Still later, it was correctly revised, translated, and excellently finalized by the Indian preceptor Sumatikirti and the chief editor-translator, the monk Loden Sherab.",
+  "locked_terms": [
+   {
+    "tibetan": "མཁན་པོ",
+    "use": "teacher who ordained me"
+   },
+   {
+    "tibetan": "སུ་མ་ཏི་ཀཱིརྟི",
+    "use": "Sumatikirti"
+   },
+   {
+    "tibetan": "ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ",
+    "use": "chief editor-translator"
+   },
+   {
+    "tibetan": "དགེ་སློང",
+    "use": "monk"
+   },
+   {
+    "tibetan": "བློ་ལྡན་ཤེས་རབ",
+    "use": "Loden Sherab"
+   }
+  ],
+  "translation": "Even later, it was fixed so it was correct, translated, and perfectly finished by the Indian teacher who ordained me, Sumatikirti, and the chief editor-translator, the monk Loden Sherab."
+ }
+]

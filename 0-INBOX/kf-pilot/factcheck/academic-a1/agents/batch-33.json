@@ -1,0 +1,136 @@
+{
+ "batch": "batch-33",
+ "segments": [
+  {
+   "id": "8-131",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-132",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-133",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-134",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-135",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-136",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-137",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-138",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-139",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-140",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-141",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "all the work",
+     "evidence": "Tibetan ལས་རྣམས་བྱེད་པ་ is 'performing tasks/labors' (plural); no word for 'all'. bo-shenga 8-141 glosses these as menial labor (ཁུར་ཁྱེར་བ་ལ་སོགས་པ་དམན་པའི་ལས་རྣམས་).",
+     "fix": "I perform the labors, and"
+    }
+   ]
+  },
+  {
+   "id": "8-142",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-143",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-144",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-145",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "Outwardly conceited about his good qualities",
+     "evidence": "Tibetan ཕྱིར་ལ is 'furthermore/moreover' (Sanskrit aparaṃ), not 'outwardly'. bo-gyaltsab 8-145 frames it as 'ཕན་པ་མི་བྱེད་པར་མ་ཟད། ཕྱིར་ལ་རང་གི་ཡོན་ཏན་ཅན་དུ་རློམ་པ' (not only does he not help, but moreover he is conceited).",
+     "fix": "Moreover, conceited about his good qualities"
+    },
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Dwelling in the jaws of vicious lower realms— this one lacks compassion for such wandering beings.",
+     "evidence": "Tibetan ངན་འགྲོ་གདུག་པའི་ཁར་གནས་པ། འགྲོ་ལ་... : 'dwelling in the jaws...' qualifies the beings (འགྲོ), not 'this one'. bo-shenga 8-145: 'ངན་འགྲོ་གདུག་པའི་ཁར་གནས་པ། དེ་ལྟ་བུའི་འགྲོ་བ་རྣམས་ལ་སྙིང་རྗེ་མེད་པ'; bo-kunpal 8-145 likewise. The English dangling participle reads as if this one dwells there.",
+     "fix": "This one has no compassion for wandering beings dwelling in the jaws of the vicious lower realms."
+    }
+   ]
+  },
+  {
+   "id": "8-146",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "will certainly be secured",
+     "evidence": "Tibetan ངེས་པར་བསྒྲུབ is a resolve/obligation, not a prediction: bo-kunpal 8-146 'ངེས་པར་བསྒྲུབ་པར་བྱའོ', bo-gyaltsab 8-146 'ངེས་པར་བསྒྲུབ་པར་བྱའོ' (must be accomplished). Parallel verse 8-147 is rendered with 'I shall ensure'.",
+     "fix": "I shall certainly secure, even through dispute,"
+    }
+   ]
+  },
+  {
+   "id": "8-147",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-148",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-149",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-150",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,563 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "9-43",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-44",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-45",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "Ordinary verb"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-46",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-47",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-48",
+    "drop": [
+     {
+      "n": 4,
+      "reason": "Ordinary verb"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-49",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "མདོ",
+      "reason": "Part of a compound that is also a term on its own",
+      "dm": "sutras",
+      "gm": "sūtras"
+     }
+    ]
+   },
+   {
+    "id": "9-50",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-51",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-52",
+    "drop": [
+     {
+      "n": 5,
+      "reason": "Ordinary verb"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-53",
+    "drop": [
+     {
+      "n": 5,
+      "reason": "Ordinary verb"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-54",
+    "drop": [
+     {
+      "n": 5,
+      "reason": "Ordinary verb"
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཉོན་མོངས",
+      "reason": "Part of a compound that is also a term on its own",
+      "dm": "afflictive",
+      "gm": "afflictions"
+     },
+     {
+      "bo": "ཤེས་བྱའི་སྒྲིབ་པ",
+      "reason": "Component of a compound term that is also a distinct term",
+      "dm": "cognitive obscurations",
+      "gm": "obscurations of ... knowables"
+     }
+    ]
+   },
+   {
+    "id": "9-55",
+    "drop": [
+     {
+      "n": 3,
+      "reason": "Ordinary verb"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-56",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-57",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-58",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-59",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "རྣམ་ཤེས",
+      "reason": "Part of a compound that is also a term on its own",
+      "dm": "consciousnesses",
+      "gm": "consciousnesses"
+     }
+    ]
+   },
+   {
+    "id": "9-60",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སྒྲ",
+      "reason": "Sensory object (sense base)",
+      "dm": "sound",
+      "gm": "sound"
+     }
+    ]
+   },
+   {
+    "id": "9-61",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-62",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སྒྲ",
+      "reason": "Sensory object (sense base)",
+      "dm": "sound",
+      "gm": "sound"
+     },
+     {
+      "bo": "ཤེས་པ",
+      "reason": "Technical term",
+      "dm": "consciousness",
+      "gm": "consciousness"
+     }
+    ]
+   },
+   {
+    "id": "9-63",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སྒྲ",
+      "reason": "Sensory object (sense base)",
+      "dm": "sound",
+      "gm": "sound"
+     }
+    ]
+   },
+   {
+    "id": "9-64",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སྒྲ",
+      "reason": "Sensory object (sense base)",
+      "dm": "sound",
+      "gm": "sound"
+     },
+     {
+      "bo": "རང་བཞིན",
+      "reason": "Technical term",
+      "dm": "nature",
+      "gm": "nature"
+     }
+    ]
+   },
+   {
+    "id": "9-65",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-66",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Just 'consciousness' with an emphatic particle, not a distinct term"
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཤེས",
+      "reason": "Technical term",
+      "dm": "consciousness",
+      "gm": "consciousness"
+     },
+     {
+      "bo": "རང་བཞིན",
+      "reason": "Technical term",
+      "dm": "nature",
+      "gm": "nature"
+     }
+    ]
+   },
+   {
+    "id": "9-67",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-68",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-69",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-70",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ལས",
+      "reason": "Part of a compound that is also a term on its own",
+      "dm": "action",
+      "gm": "actions"
+     }
+    ]
+   },
+   {
+    "id": "9-71",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-72",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-73",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Ordinary time words"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-74",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-75",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-76",
+    "drop": [
+     {
+      "n": 5,
+      "reason": "Ordinary verb"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-77",
+    "drop": [
+     {
+      "n": 6,
+      "reason": "Ordinary verb"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-78",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-79",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-80",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-81",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-82",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-83",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-84",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "རྐྱེན",
+      "reason": "Part of a compound that is also a term on its own",
+      "dm": "conditions",
+      "gm": "conditions"
+     }
+    ]
+   },
+   {
+    "id": "9-85",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "9-45",
+    "bo": "གྲོལ",
+    "reason": "Ordinary verb"
+   },
+   {
+    "id": "9-48",
+    "bo": "བསྒོམ་པ",
+    "reason": "Ordinary verb"
+   },
+   {
+    "id": "9-52",
+    "bo": "གྲོལ་བ",
+    "reason": "Ordinary verb"
+   },
+   {
+    "id": "9-53",
+    "bo": "བསྒོམ་པར",
+    "reason": "Ordinary verb"
+   },
+   {
+    "id": "9-54",
+    "bo": "སྒོམ",
+    "reason": "Ordinary verb"
+   },
+   {
+    "id": "9-55",
+    "bo": "ཞི་བྱེད་པ",
+    "reason": "Ordinary verb"
+   },
+   {
+    "id": "9-66",
+    "bo": "ཤེས་ཉིད",
+    "reason": "Just 'consciousness' with an emphatic particle, not a distinct term"
+   },
+   {
+    "id": "9-73",
+    "bo": "འདས་དང་མ་འོངས་པ",
+    "reason": "Ordinary time words"
+   },
+   {
+    "id": "9-76",
+    "bo": "ཞི",
+    "reason": "Ordinary verb"
+   },
+   {
+    "id": "9-77",
+    "bo": "བསྒོམ་པ",
+    "reason": "Ordinary verb"
+   }
+  ],
+  "fix_span": [],
+  "add": [
+   {
+    "id": "9-49",
+    "bo": "མདོ",
+    "dm": "sutras",
+    "gm": "sūtras",
+    "reason": "Part of a compound that is also a term on its own"
+   },
+   {
+    "id": "9-54",
+    "bo": "ཉོན་མོངས",
+    "dm": "afflictive",
+    "gm": "afflictions",
+    "reason": "Part of a compound that is also a term on its own"
+   },
+   {
+    "id": "9-54",
+    "bo": "ཤེས་བྱའི་སྒྲིབ་པ",
+    "dm": "cognitive obscurations",
+    "gm": "obscurations of ... knowables",
+    "reason": "Component of a compound term that is also a distinct term"
+   },
+   {
+    "id": "9-59",
+    "bo": "རྣམ་ཤེས",
+    "dm": "consciousnesses",
+    "gm": "consciousnesses",
+    "reason": "Part of a compound that is also a term on its own"
+   },
+   {
+    "id": "9-60",
+    "bo": "སྒྲ",
+    "dm": "sound",
+    "gm": "sound",
+    "reason": "Sensory object (sense base)"
+   },
+   {
+    "id": "9-62",
+    "bo": "སྒྲ",
+    "dm": "sound",
+    "gm": "sound",
+    "reason": "Sensory object (sense base)"
+   },
+   {
+    "id": "9-62",
+    "bo": "ཤེས་པ",
+    "dm": "consciousness",
+    "gm": "consciousness",
+    "reason": "Technical term"
+   },
+   {
+    "id": "9-63",
+    "bo": "སྒྲ",
+    "dm": "sound",
+    "gm": "sound",
+    "reason": "Sensory object (sense base)"
+   },
+   {
+    "id": "9-64",
+    "bo": "སྒྲ",
+    "dm": "sound",
+    "gm": "sound",
+    "reason": "Sensory object (sense base)"
+   },
+   {
+    "id": "9-64",
+    "bo": "རང་བཞིན",
+    "dm": "nature",
+    "gm": "nature",
+    "reason": "Technical term"
+   },
+   {
+    "id": "9-66",
+    "bo": "ཤེས",
+    "dm": "consciousness",
+    "gm": "consciousness",
+    "reason": "Technical term"
+   },
+   {
+    "id": "9-66",
+    "bo": "རང་བཞིན",
+    "dm": "nature",
+    "gm": "nature",
+    "reason": "Technical term"
+   },
+   {
+    "id": "9-70",
+    "bo": "ལས",
+    "dm": "action",
+    "gm": "actions",
+    "reason": "Part of a compound that is also a term on its own"
+   },
+   {
+    "id": "9-84",
+    "bo": "རྐྱེན",
+    "dm": "conditions",
+    "gm": "conditions",
+    "reason": "Part of a compound that is also a term on its own"
+   }
+  ]
+ }
+}

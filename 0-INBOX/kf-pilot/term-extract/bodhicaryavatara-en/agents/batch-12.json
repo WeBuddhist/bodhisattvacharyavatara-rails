@@ -1,0 +1,479 @@
+{
+ "batch": "batch-12",
+ "segments": [
+  {
+   "id": "6-68",
+   "terms": [
+    {
+     "bo": "ལས",
+     "dm": "karma",
+     "gm": "karma"
+    }
+   ]
+  },
+  {
+   "id": "6-69",
+   "terms": [
+    {
+     "bo": "བྱམས་སེམས",
+     "dm": "mind of mutual love",
+     "gm": "loving thoughts"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "meritorious deeds"
+    }
+   ]
+  },
+  {
+   "id": "6-70",
+   "terms": []
+  },
+  {
+   "id": "6-71",
+   "terms": [
+    {
+     "bo": "ཞེ་སྡང",
+     "dm": "hatred",
+     "gm": "hatred"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    },
+    {
+     "bo": "ཆགས",
+     "dm": "attached",
+     "gm": "attached"
+    }
+   ]
+  },
+  {
+   "id": "6-72",
+   "terms": [
+    {
+     "bo": "དམྱལ་བ",
+     "dm": "hell",
+     "gm": "hell"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "6-73",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "དམྱལ་བ",
+     "dm": "hell",
+     "gm": "hell"
+    },
+    {
+     "bo": "ཁྲོ་བ",
+     "dm": "anger",
+     "gm": "Anger"
+    }
+   ]
+  },
+  {
+   "id": "6-74",
+   "terms": [
+    {
+     "bo": "འདོད་པ",
+     "dm": "desires",
+     "gm": "desires"
+    },
+    {
+     "bo": "དམྱལ་བ",
+     "dm": "hells",
+     "gm": "hell"
+    },
+    {
+     "bo": "རང་གི་དོན",
+     "dm": "own benefit",
+     "gm": "own benefit"
+    },
+    {
+     "bo": "གཞན་གྱི་དོན",
+     "dm": "benefit of others",
+     "gm": "benefit of others"
+    }
+   ]
+  },
+  {
+   "id": "6-75",
+   "terms": [
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "migratory beings",
+     "gm": "wandering beings"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "དགའ་བ",
+     "dm": "joy",
+     "gm": "rejoice"
+    }
+   ]
+  },
+  {
+   "id": "6-76",
+   "terms": [
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "good qualities",
+     "gm": "good qualities"
+    },
+    {
+     "bo": "དགའ་མི་བྱེད",
+     "dm": "rejoice",
+     "gm": "rejoice"
+    }
+   ]
+  },
+  {
+   "id": "6-77",
+   "terms": [
+    {
+     "bo": "ཡོན་ཏན་ལྡན་པ",
+     "dm": "endowed with excellence",
+     "gm": "possessing good qualities"
+    }
+   ]
+  },
+  {
+   "id": "6-78",
+   "terms": [
+    {
+     "bo": "མཐོང་དང་མ་མཐོང་",
+     "dm": "this life and the next",
+     "gm": "seen and the unseen"
+    }
+   ]
+  },
+  {
+   "id": "6-79",
+   "terms": [
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "virtues",
+     "gm": "good qualities"
+    }
+   ]
+  },
+  {
+   "id": "6-80",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "བྱང་ཆུབ་ཏུ་ནི་སེམས་བསྐྱེད",
+     "dm": "generated the mind of enlightenment",
+     "gm": "generated the mind of awakening"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "enlightenment",
+     "gm": "awakening"
+    }
+   ]
+  },
+  {
+   "id": "6-81",
+   "terms": [
+    {
+     "bo": "འཇིག་རྟེན་གསུམ",
+     "dm": "three worlds",
+     "gm": "three worlds"
+    },
+    {
+     "bo": "འཚང་རྒྱ་བ",
+     "dm": "Buddhahood",
+     "gm": "Buddhahood"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "6-82",
+   "terms": []
+  },
+  {
+   "id": "6-83",
+   "terms": [
+    {
+     "bo": "འགྲོ",
+     "dm": null,
+     "gm": "wandering beings"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "enlightenment",
+     "gm": "awakening"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས",
+     "dm": "bodhicitta",
+     "gm": "mind of awakening"
+    }
+   ]
+  },
+  {
+   "id": "6-84",
+   "terms": [
+    {
+     "bo": "སྦྱིན་བདག",
+     "dm": "benefactor",
+     "gm": "benefactor"
+    }
+   ]
+  },
+  {
+   "id": "6-85",
+   "terms": [
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "Merit"
+    },
+    {
+     "bo": "དད་པ",
+     "dm": "faith",
+     "gm": "faith"
+    },
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "good qualities",
+     "gm": "good qualities"
+    }
+   ]
+  },
+  {
+   "id": "6-86",
+   "terms": [
+    {
+     "bo": "སྡིག",
+     "dm": "sins",
+     "gm": "negative deeds"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "meritorious deeds",
+     "gm": "meritorious deeds"
+    }
+   ]
+  },
+  {
+   "id": "6-87",
+   "terms": [
+    {
+     "bo": "དགྲ",
+     "dm": "enemy",
+     "gm": "enemy"
+    }
+   ]
+  },
+  {
+   "id": "6-88",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "6-89",
+   "terms": [
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "afflictions"
+    },
+    {
+     "bo": "དམྱལ་བ",
+     "dm": "hell",
+     "gm": "hell"
+    },
+    {
+     "bo": "དམྱལ་བུམ་པ",
+     "dm": "cauldrons of hell",
+     "gm": "cauldrons of hell"
+    },
+    {
+     "bo": "དམྱལ་བའི་སྲུང་མ",
+     "dm": "hell-guardians",
+     "gm": "guardians of hell"
+    }
+   ]
+  },
+  {
+   "id": "6-90",
+   "terms": [
+    {
+     "bo": "བསྟོད",
+     "dm": "praise",
+     "gm": "Praise"
+    },
+    {
+     "bo": "གྲགས་པ",
+     "dm": "fame",
+     "gm": "fame"
+    },
+    {
+     "bo": "རིམ་གྲོས",
+     "dm": "honors",
+     "gm": "honor"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "6-91",
+   "terms": [
+    {
+     "bo": "རང་དོན",
+     "dm": "own best interests",
+     "gm": "own welfare"
+    }
+   ]
+  },
+  {
+   "id": "6-92",
+   "terms": [
+    {
+     "bo": "གྲགས་པ",
+     "dm": "fame",
+     "gm": "fame"
+    }
+   ]
+  },
+  {
+   "id": "6-93",
+   "terms": [
+    {
+     "bo": "བསྟོད་དང་གྲགས",
+     "dm": "praise and fame",
+     "gm": "praise and fame"
+    }
+   ]
+  },
+  {
+   "id": "6-94",
+   "terms": []
+  },
+  {
+   "id": "6-95",
+   "terms": []
+  },
+  {
+   "id": "6-96",
+   "terms": []
+  },
+  {
+   "id": "6-97",
+   "terms": []
+  },
+  {
+   "id": "6-98",
+   "terms": [
+    {
+     "bo": "སྐྱོ་བ",
+     "dm": "disillusionment",
+     "gm": "disillusionment"
+    },
+    {
+     "bo": "ཕྲག་དོག",
+     "dm": "envy",
+     "gm": "jealousy"
+    },
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "good qualities",
+     "gm": "good qualities"
+    },
+    {
+     "bo": "ཕུན་སུམ་ཚོགས་པ",
+     "dm": "excellence",
+     "gm": "excellence"
+    }
+   ]
+  },
+  {
+   "id": "6-99",
+   "terms": [
+    {
+     "bo": "ངན་སོང",
+     "dm": "lower realms",
+     "gm": "lower realms"
+    }
+   ]
+  },
+  {
+   "id": "6-100",
+   "terms": [
+    {
+     "bo": "གྲོལ་བ",
+     "dm": "liberation",
+     "gm": "liberation"
+    },
+    {
+     "bo": "རྙེད",
+     "dm": "gain",
+     "gm": "gain"
+    },
+    {
+     "bo": "བཀུར་སྟི",
+     "dm": "honor",
+     "gm": "honor"
+    }
+   ]
+  },
+  {
+   "id": "6-101",
+   "terms": [
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddha"
+    },
+    {
+     "bo": "བྱིན་བརླབས",
+     "dm": "blessing",
+     "gm": "blessing"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  }
+ ]
+}

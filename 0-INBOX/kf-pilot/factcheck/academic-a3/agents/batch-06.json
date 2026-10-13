@@ -1,0 +1,150 @@
+{
+ "batch": "batch-06",
+ "segments": [
+  {
+   "id": "8-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-68",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "completely agitated",
+     "evidence": "ས་འདི་ཀུན་ཏུ་འཁྲུགས: ཀུན་ཏུ is \"everywhere/throughout\" (Kunpal 8-68: ཀུན་ཏུ་ཁྱབ་ཅིང་འཁྲུགས་པ, \"pervading and agitating\"), not an intensifier of the degree of agitation.",
+     "fix": "agitated everywhere by madmen"
+    }
+   ]
+  },
+  {
+   "id": "8-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-84",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-102",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "major",
+     "span": "If not, my suffering too is like that of sentient beings.",
+     "evidence": "དེ་མིན་བདག་ཀྱང་སེམས་ཅན་བཞིན: the elided verb is བཟློག \"averted\": if it is not to be averted, then I too, like (other) sentient beings, am not to be averted/protected. Sanskrit na ced ātmāpi sattvavat; bo-kunpal 8-102: བདག་གི་སྡུག་བསྔལ་ཀྱང་སེམས་ཅན་གཞན་གྱི་བཞིན་དུ་བཟློག་བྱ་མིན་པར་མཚུངས; bo-shenga 8-102: བཟློག་པར་མི་བྱའོ. The English \"is like that of sentient beings\" omits the conclusion that my own suffering would then also not be averted.",
+     "fix": "If it is not (to be averted), then my own suffering too, like that of other sentient beings, is not to be averted."
+    }
+   ]
+  },
+  {
+   "id": "8-109",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-112",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-114",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "form",
+     "severity": "minor",
+     "span": "whole segment (single run-on line)",
+     "evidence": "The Tibetan is a four-line verse (བདག་མེད་ལུས་འདི་ལ། / གོམས་པས་བདག་གི་བློ་བྱུང་བ། / དེ་བཞིན་སེམས་ཅན་གཞན་ལ་ཡང་། / གོམས་པས་བདག་བློ་ཅིས་མི་སྐྱེ།), but the English is one line with capitals after commas, so the line breaks are lost.",
+     "fix": "Just as towards this selfless body,\nThe intellect of self has arisen through habituation,\nLikewise towards other sentient beings as well,\nWhy should the intellect of self not arise through habituation?"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "this body of selflessness",
+     "evidence": "བདག་མེད་ལུས་འདི་ལ: བདག་མེད་ here qualifies the body (Sanskrit nirātmake; bo-kunpal 8-114: བདག་མེད་པའི་ཕ་མའི་ཁུ་ཁྲག་ཡོངས་སུ་སྨིན་པའི་ལུས་འདི, a body without a self), so \"body of selflessness\" misleadingly makes selflessness a property or substance of the body.",
+     "fix": "this selfless body"
+    }
+   ]
+  },
+  {
+   "id": "8-117",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "even wandering beings' fear in assemblies",
+     "evidence": "འཁོར་གྱི་འཇིགས་པའང་བསལ་བའི་ཕྱིར: the emphasis (ཡང/ང) falls on the fear, even the slight timidity in assemblies (Sanskrit pariṣaccharadyabhayam api; bo-shenga/bo-gyaltsab 8-117: འཁོར་གྱི་ནང་དུ་བག་ཚ་བའི་འཇིགས་པའང་). The English placement of 'even' before 'wandering beings' suggests the beings are what is emphasised.",
+     "fix": "to dispel even the fear (timidity) of wandering beings in assemblies"
+    }
+   ]
+  },
+  {
+   "id": "8-120",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-122",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-124",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-141",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "This one is great in the world, and\nI am known as inferior",
+     "evidence": "གྲག/གྲགས \"is known/reputed\" governs both clauses (Sanskrit kila after both mahān and nīcaḥ; bo-shenga 8-141: འཇིག་རྟེན་ལ་ཆེ་བར་གྲགས་པ; bo-kunpal: ཆེ་བའི་ཡོན་ཏན་དང་ལྡན་པར་གྲགས་པ). The English asserts \"great\" outright and puts \"known\" only on the speaker.",
+     "fix": "This one is renowned as great in the world, and\nI am known as inferior and without good qualities."
+    }
+   ]
+  },
+  {
+   "id": "8-146",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-156",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "what is not the perfect happiness of a Buddha—\nsuch a situation as this could not possibly occur",
+     "evidence": "སངས་རྒྱས་ཕུན་སུམ་བདེ་མིན་པ། གནས་སྐབས་འདི་འདྲར་འགྱུར་མི་སྲིད: the situation (གནས་སྐབས) is one that is NOT the perfect happiness of a Buddha, i.e. suffering (bo-gyaltsab 8-156: སངས་རྒྱས་ཀྱི་དོན་གཉིས་ཕུན་སུམ་ཚོགས་པའི་བདེ་བ་མིན་པ་སྡུག་བསྔལ་མྱོང་བའི་གནས་སྐབས་འདི་འདྲར་འགྱུར་མི་སྲིད; bo-shenga 8-156). The English fragment \"what is not...\" followed by a dash does not make clear that it qualifies \"such a situation\".",
+     "fix": "a situation such as this, which is not the perfect happiness of a Buddha, could not possibly occur."
+    }
+   ]
+  },
+  {
+   "id": "8-167",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

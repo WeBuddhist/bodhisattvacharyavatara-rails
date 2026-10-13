@@ -1,0 +1,817 @@
+{
+ "batch": "batch-23",
+ "segments": [
+  {
+   "id": "9-86",
+   "terms": [
+    {
+     "bo": "ཆ",
+     "dm": "parts",
+     "gm": "part"
+    },
+    {
+     "bo": "རྡུལ",
+     "dm": "atoms",
+     "gm": "particles"
+    },
+    {
+     "bo": "ཕྱོགས་ཆ",
+     "dm": "directional facets",
+     "gm": "directional parts"
+    },
+    {
+     "bo": "མཁའ",
+     "dm": "space",
+     "gm": "space"
+    }
+   ]
+  },
+  {
+   "id": "9-87",
+   "terms": [
+    {
+     "bo": "རྨི་ལམ",
+     "dm": "dream",
+     "gm": "dream"
+    },
+    {
+     "bo": "གཟུགས",
+     "dm": "forms",
+     "gm": "form"
+    },
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    }
+   ]
+  },
+  {
+   "id": "9-88",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "བདེ",
+     "dm": "happiness",
+     "gm": "happiness"
+    }
+   ]
+  },
+  {
+   "id": "9-89",
+   "terms": [
+    {
+     "bo": "ཚོར་བ",
+     "dm": "sensation",
+     "gm": "feeling"
+    }
+   ]
+  },
+  {
+   "id": "9-90",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "Suffering"
+    }
+   ]
+  },
+  {
+   "id": "9-91",
+   "terms": [
+    {
+     "bo": "འགལ་རྐྱེན",
+     "dm": "opposing condition",
+     "gm": "contrary condition"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "Suffering",
+     "gm": "Suffering"
+    },
+    {
+     "bo": "ཚོར་བ",
+     "dm": "feeling",
+     "gm": "feeling"
+    }
+   ]
+  },
+  {
+   "id": "9-92",
+   "terms": [
+    {
+     "bo": "གཉེན་པོ",
+     "dm": "antidote",
+     "gm": "antidote"
+    },
+    {
+     "bo": "རྣམ་དཔྱོད",
+     "dm": "analytical investigation",
+     "gm": "analytical discernment"
+    },
+    {
+     "bo": "བསམ་གཏན",
+     "dm": "meditative concentration",
+     "gm": "concentration"
+    },
+    {
+     "bo": "རྣལ་འབྱོར་པ",
+     "dm": "yogi",
+     "gm": "yogi"
+    }
+   ]
+  },
+  {
+   "id": "9-93",
+   "terms": [
+    {
+     "bo": "དབང་",
+     "dm": "sense faculty",
+     "gm": "sense faculties"
+    },
+    {
+     "bo": "དོན",
+     "dm": "object",
+     "gm": "objects"
+    }
+   ]
+  },
+  {
+   "id": "9-94",
+   "terms": [
+    {
+     "bo": "རྡུལ་ཕྲན",
+     "dm": "atom",
+     "gm": "atom"
+    }
+   ]
+  },
+  {
+   "id": "9-95",
+   "terms": [
+    {
+     "bo": "ཆ་མེད་པ",
+     "dm": "no parts",
+     "gm": "partless"
+    }
+   ]
+  },
+  {
+   "id": "9-96",
+   "terms": [
+    {
+     "bo": "རྣམ་ཤེས",
+     "dm": "consciousness",
+     "gm": "consciousness"
+    },
+    {
+     "bo": "ལུས་མེད་པ",
+     "dm": null,
+     "gm": "no body"
+    },
+    {
+     "bo": "ཚོགས་པ",
+     "dm": "collection",
+     "gm": "aggregation"
+    },
+    {
+     "bo": "དངོས་པོ",
+     "dm": "substantial reality",
+     "gm": "real entity"
+    }
+   ]
+  },
+  {
+   "id": "9-97",
+   "terms": [
+    {
+     "bo": "རེག་པ",
+     "dm": "contact",
+     "gm": "contact"
+    },
+    {
+     "bo": "ཚོར་བ",
+     "dm": "feeling",
+     "gm": "feeling"
+    }
+   ]
+  },
+  {
+   "id": "9-98",
+   "terms": [
+    {
+     "bo": "ཚོར་པོ",
+     "dm": "experiencer",
+     "gm": "feeler"
+    },
+    {
+     "bo": "ཚོར་བ",
+     "dm": "feeling",
+     "gm": "feeling"
+    },
+    {
+     "bo": "སྲེད་པ",
+     "dm": "craving",
+     "gm": "craving"
+    }
+   ]
+  },
+  {
+   "id": "9-99",
+   "terms": [
+    {
+     "bo": "རྨི་ལམ",
+     "dm": "dreams",
+     "gm": "dream"
+    },
+    {
+     "bo": "སྒྱུ",
+     "dm": "illusions",
+     "gm": "illusion"
+    },
+    {
+     "bo": "སེམས",
+     "dm": "mind",
+     "gm": "mind"
+    },
+    {
+     "bo": "ཚོར་བ",
+     "dm": "feeling",
+     "gm": "Feeling"
+    }
+   ]
+  },
+  {
+   "id": "9-100",
+   "terms": []
+  },
+  {
+   "id": "9-101",
+   "terms": [
+    {
+     "bo": "ཚོར་པོ",
+     "dm": "experiencer",
+     "gm": "feeler"
+    },
+    {
+     "bo": "ཚོར་བ",
+     "dm": "feeling",
+     "gm": "feeling"
+    },
+    {
+     "bo": "བདག་མེད",
+     "dm": "devoid of a self",
+     "gm": "selfless"
+    },
+    {
+     "bo": "ཚོགས",
+     "dm": "collection",
+     "gm": "aggregate"
+    }
+   ]
+  },
+  {
+   "id": "9-102",
+   "terms": [
+    {
+     "bo": "ཡིད",
+     "dm": "mind",
+     "gm": "mind"
+    },
+    {
+     "bo": "དབང་",
+     "dm": "sense faculties",
+     "gm": "sense faculties"
+    },
+    {
+     "bo": "གཟུགས",
+     "dm": "forms",
+     "gm": "form"
+    }
+   ]
+  },
+  {
+   "id": "9-103",
+   "terms": [
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "Sentient beings",
+     "gm": "Sentient beings"
+    },
+    {
+     "bo": "རང་བཞིན",
+     "dm": "by nature",
+     "gm": "by nature"
+    },
+    {
+     "bo": "མྱ་ངན་འདས",
+     "dm": "nirvana",
+     "gm": "nirvāṇa"
+    }
+   ]
+  },
+  {
+   "id": "9-104",
+   "terms": [
+    {
+     "bo": "ཤེས་བྱ",
+     "dm": "object of knowledge",
+     "gm": "object of knowledge"
+    },
+    {
+     "bo": "ཤེས",
+     "dm": "consciousness",
+     "gm": "consciousness"
+    }
+   ]
+  },
+  {
+   "id": "9-105",
+   "terms": [
+    {
+     "bo": "ཤེས་བྱ",
+     "dm": "object of knowledge",
+     "gm": "object of knowledge"
+    },
+    {
+     "bo": "ཤེས་པ",
+     "dm": "consciousness",
+     "gm": "consciousness"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "phenomena",
+     "gm": "phenomena"
+    },
+    {
+     "bo": "སྐྱེ་བ",
+     "dm": "arising",
+     "gm": "Arising"
+    }
+   ]
+  },
+  {
+   "id": "9-106",
+   "terms": [
+    {
+     "bo": "ཀུན་རྫོབ",
+     "dm": "conventional",
+     "gm": "conventional reality"
+    },
+    {
+     "bo": "བདེན་གཉིས",
+     "dm": "two truths",
+     "gm": "two truths"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "མྱ་ངན་",
+     "dm": "nirvana",
+     "gm": "nirvāṇa"
+    }
+   ]
+  },
+  {
+   "id": "9-107",
+   "terms": [
+    {
+     "bo": "རྣམ་རྟོག",
+     "dm": "conceptualization",
+     "gm": "conception"
+    },
+    {
+     "bo": "ཀུན་རྫོབ",
+     "dm": "conventional reality",
+     "gm": "conventional reality"
+    }
+   ]
+  },
+  {
+   "id": "9-108",
+   "terms": [
+    {
+     "bo": "རྟོག",
+     "dm": "Conceptual thought",
+     "gm": "Conception"
+    },
+    {
+     "bo": "རྣམ་པར་དཔྱད་པ",
+     "dm": "analytical investigations",
+     "gm": "analyses"
+    }
+   ]
+  },
+  {
+   "id": "9-109",
+   "terms": [
+    {
+     "bo": "རྣམ་དཔྱོད",
+     "dm": "analysis",
+     "gm": "analysis"
+    }
+   ]
+  },
+  {
+   "id": "9-110",
+   "terms": [
+    {
+     "bo": "དཔྱད་བྱ",
+     "dm": "object of analysis",
+     "gm": "object of analysis"
+    },
+    {
+     "bo": "རྣམ་དཔྱོད",
+     "dm": "analysis",
+     "gm": "analysis"
+    },
+    {
+     "bo": "རྟེན",
+     "dm": "basis",
+     "gm": "basis"
+    },
+    {
+     "bo": "མྱ་ངན་འདས",
+     "dm": "nirvana",
+     "gm": "nirvāṇa"
+    }
+   ]
+  },
+  {
+   "id": "9-111",
+   "terms": [
+    {
+     "bo": "དོན",
+     "dm": "object",
+     "gm": "object"
+    },
+    {
+     "bo": "ཤེས་དབང",
+     "dm": "power of consciousness",
+     "gm": "power of consciousness"
+    },
+    {
+     "bo": "ཤེས་ཡོད",
+     "dm": "consciousness",
+     "gm": "consciousness"
+    },
+    {
+     "bo": "རྟེན",
+     "dm": "basis",
+     "gm": "basis"
+    }
+   ]
+  },
+  {
+   "id": "9-112",
+   "terms": [
+    {
+     "bo": "ཤེས་གྲུབ",
+     "dm": "consciousness",
+     "gm": "consciousness"
+    },
+    {
+     "bo": "ཤེས་བྱ",
+     "dm": "object of knowledge",
+     "gm": "object of knowledge"
+    },
+    {
+     "bo": "རྟེན",
+     "dm": "basis",
+     "gm": "basis"
+    }
+   ]
+  },
+  {
+   "id": "9-113",
+   "terms": []
+  },
+  {
+   "id": "9-114",
+   "terms": [
+    {
+     "bo": "ཤེས་བྱ",
+     "dm": "object of knowledge",
+     "gm": "object of knowledge"
+    },
+    {
+     "bo": "ཤེས་པ",
+     "dm": "consciousness",
+     "gm": "consciousness"
+    }
+   ]
+  },
+  {
+   "id": "9-115",
+   "terms": [
+    {
+     "bo": "ཤེས་པ",
+     "dm": "consciousness",
+     "gm": "consciousness"
+    },
+    {
+     "bo": "ཤེས་བྱ",
+     "dm": "object of knowledge",
+     "gm": "object of knowledge"
+    }
+   ]
+  },
+  {
+   "id": "9-116",
+   "terms": [
+    {
+     "bo": "འཇིག་རྟེན་མངོན་སུམ",
+     "dm": "worldly direct perception",
+     "gm": "worldly direct perception"
+    },
+    {
+     "bo": "རྒྱུ",
+     "dm": "causes",
+     "gm": "causes"
+    }
+   ]
+  },
+  {
+   "id": "9-117",
+   "terms": [
+    {
+     "bo": "རྒྱུ",
+     "dm": "cause",
+     "gm": "causes"
+    },
+    {
+     "bo": "འབྲས",
+     "dm": "effect",
+     "gm": "effects"
+    }
+   ]
+  },
+  {
+   "id": "9-118",
+   "terms": [
+    {
+     "bo": "དབང་ཕྱུག",
+     "dm": "Īśvara",
+     "gm": "Īśvara"
+    },
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "world",
+     "gm": "beings"
+    },
+    {
+     "bo": "འབྱུང་",
+     "dm": "elements",
+     "gm": "elements"
+    }
+   ]
+  },
+  {
+   "id": "9-119",
+   "terms": [
+    {
+     "bo": "ས་སོགས",
+     "dm": "earth",
+     "gm": "earth"
+    },
+    {
+     "bo": "མི་རྟག",
+     "dm": "Impermanent",
+     "gm": "Impermanent"
+    },
+    {
+     "bo": "དབང་ཕྱུག",
+     "dm": "Īśvara",
+     "gm": "Īśvara"
+    }
+   ]
+  },
+  {
+   "id": "9-120",
+   "terms": [
+    {
+     "bo": "དབང་ཕྱུག",
+     "dm": "Īśvara",
+     "gm": "Īśvara"
+    },
+    {
+     "bo": "མཁའ",
+     "dm": "space",
+     "gm": "space"
+    },
+    {
+     "bo": "བདག",
+     "dm": "the self",
+     "gm": "the self"
+    },
+    {
+     "bo": "བསམ་མིན",
+     "dm": "inconceivable",
+     "gm": "inconceivable"
+    }
+   ]
+  },
+  {
+   "id": "9-121",
+   "terms": [
+    {
+     "bo": "དབང་ཕྱུག",
+     "dm": "Īśvara",
+     "gm": "Īśvara"
+    },
+    {
+     "bo": "བདག",
+     "dm": "the self",
+     "gm": null
+    },
+    {
+     "bo": "ས་སོགས",
+     "dm": "earth",
+     "gm": "earth"
+    },
+    {
+     "bo": "རྟག",
+     "dm": "eternal",
+     "gm": "permanent"
+    },
+    {
+     "bo": "ཤེས་པ",
+     "dm": "consciousness",
+     "gm": "Consciousness"
+    },
+    {
+     "bo": "ཤེས་བྱ",
+     "dm": "objects of knowledge",
+     "gm": "object of knowledge"
+    }
+   ]
+  },
+  {
+   "id": "9-122",
+   "terms": [
+    {
+     "bo": "ལས",
+     "dm": "karma",
+     "gm": "karma"
+    },
+    {
+     "bo": "ཐོག་མེད",
+     "dm": "beginningless",
+     "gm": "beginningless"
+    },
+    {
+     "bo": "བདེ་སྡུག",
+     "dm": "Pleasure and pain",
+     "gm": "Happiness and suffering"
+    },
+    {
+     "bo": "རྒྱུ",
+     "dm": "cause",
+     "gm": "cause"
+    },
+    {
+     "bo": "འབྲས་བུ",
+     "dm": "effect",
+     "gm": "effect"
+    }
+   ]
+  },
+  {
+   "id": "9-123",
+   "terms": []
+  },
+  {
+   "id": "9-124",
+   "terms": [
+    {
+     "bo": "ཚོགས་པ",
+     "dm": "collection",
+     "gm": "collection"
+    },
+    {
+     "bo": "རྒྱུ",
+     "dm": "cause",
+     "gm": "cause"
+    },
+    {
+     "bo": "དབང་ཕྱུག",
+     "dm": "Īśvara",
+     "gm": "Īśvara"
+    }
+   ]
+  },
+  {
+   "id": "9-125",
+   "terms": [
+    {
+     "bo": "དབང་ཕྱུག",
+     "dm": "Īśvara",
+     "gm": "Īśvara"
+    }
+   ]
+  },
+  {
+   "id": "9-126",
+   "terms": [
+    {
+     "bo": "རྡུལ་ཕྲན",
+     "dm": "atoms",
+     "gm": "atoms"
+    },
+    {
+     "bo": "རྟག་པ",
+     "dm": "permanent",
+     "gm": "permanent"
+    },
+    {
+     "bo": "གཙོ་བོ",
+     "dm": "Primal Substance",
+     "gm": "Pradhāna"
+    },
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "world",
+     "gm": "beings"
+    },
+    {
+     "bo": "གྲངས་ཅན",
+     "dm": "Sāṃkhyas",
+     "gm": "Sāṃkhyas"
+    },
+    {
+     "bo": "རྒྱུ",
+     "dm": "cause",
+     "gm": "cause"
+    }
+   ]
+  },
+  {
+   "id": "9-127",
+   "terms": [
+    {
+     "bo": "སྙིང་སྟོབས",
+     "dm": "Sattva",
+     "gm": "Sattva"
+    },
+    {
+     "bo": "རྡུལ",
+     "dm": "Rajas",
+     "gm": "Rajas"
+    },
+    {
+     "bo": "མུན་པ",
+     "dm": "Tamas",
+     "gm": "Tamas"
+    },
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "qualities",
+     "gm": "qualities"
+    },
+    {
+     "bo": "གཙོ་བོ",
+     "dm": "Primal Substance",
+     "gm": "Pradhāna"
+    },
+    {
+     "bo": "མཉམ་གནས",
+     "dm": "equilibrium",
+     "gm": "equilibrium"
+    },
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "world",
+     "gm": "beings"
+    }
+   ]
+  },
+  {
+   "id": "9-128",
+   "terms": [
+    {
+     "bo": "རང་བཞིན",
+     "dm": "natures",
+     "gm": "natures"
+    },
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "qualities",
+     "gm": "qualities"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,15208 @@
+[
+ {
+  "bo": "སྡུག་བསྔལ",
+  "count": 95,
+  "occurrences": [
+   "1-8",
+   "1-28",
+   "1-29",
+   "2-62",
+   "2-64",
+   "3-1",
+   "3-2",
+   "3-4",
+   "3-6",
+   "3-8",
+   "4-18",
+   "4-38",
+   "4-39",
+   "5-6",
+   "5-17",
+   "5-78",
+   "6-6",
+   "6-11",
+   "6-15",
+   "6-18",
+   "6-19",
+   "6-20",
+   "6-21",
+   "6-22",
+   "6-32",
+   "6-34",
+   "6-43",
+   "6-45",
+   "6-48",
+   "6-52",
+   "6-72",
+   "6-73",
+   "6-75",
+   "6-88",
+   "6-101",
+   "7-3",
+   "7-11",
+   "7-13",
+   "7-14",
+   "7-15",
+   "7-22",
+   "7-23",
+   "7-27",
+   "7-31",
+   "7-34",
+   "7-38",
+   "7-41",
+   "7-43",
+   "7-48",
+   "8-18",
+   "8-32",
+   "8-73",
+   "8-78",
+   "8-82",
+   "8-83",
+   "8-89",
+   "8-91",
+   "8-92",
+   "8-93",
+   "8-95",
+   "8-96",
+   "8-98",
+   "8-100",
+   "8-101",
+   "8-102",
+   "8-103",
+   "8-104",
+   "8-105",
+   "8-128",
+   "8-130",
+   "8-132",
+   "8-133",
+   "8-134",
+   "8-135",
+   "8-154",
+   "8-160",
+   "8-179",
+   "9-1",
+   "9-25",
+   "9-52",
+   "9-55",
+   "9-76",
+   "9-77",
+   "9-88",
+   "9-90",
+   "9-91",
+   "9-152",
+   "9-156",
+   "9-162",
+   "10-2",
+   "10-13",
+   "10-47",
+   "10-55",
+   "10-56",
+   "10-57"
+  ],
+  "dm": {
+   "suffering": 76,
+   "sufferings": 15,
+   "Suffering": 2,
+   "Sufferings": 1,
+   "Physical suffering": 1
+  },
+  "gm": {
+   "suffering": 68,
+   "sufferings": 17,
+   "Suffering": 7,
+   "misery": 1,
+   "miseries": 1,
+   "suffer": 1
+  },
+  "status": {
+   "agree": 82,
+   "disagree": 13
+  }
+ },
+ {
+  "bo": "སེམས་ཅན",
+  "count": 72,
+  "occurrences": [
+   "1-8",
+   "1-21",
+   "1-22",
+   "1-25",
+   "1-26",
+   "1-27",
+   "1-33",
+   "2-9",
+   "2-20",
+   "3-1",
+   "3-3",
+   "3-4",
+   "3-6",
+   "3-9",
+   "3-10",
+   "3-11",
+   "3-20",
+   "3-21",
+   "3-32",
+   "4-4",
+   "4-8",
+   "4-9",
+   "4-10",
+   "4-13",
+   "5-12",
+   "5-57",
+   "5-70",
+   "5-80",
+   "5-86",
+   "5-101",
+   "6-40",
+   "6-42",
+   "6-62",
+   "6-80",
+   "6-81",
+   "6-112",
+   "6-113",
+   "6-114",
+   "6-115",
+   "6-118",
+   "6-119",
+   "6-123",
+   "6-126",
+   "6-130",
+   "6-131",
+   "6-132",
+   "6-133",
+   "7-31",
+   "8-7",
+   "8-22",
+   "8-23",
+   "8-93",
+   "8-102",
+   "8-107",
+   "8-114",
+   "8-138",
+   "8-164",
+   "9-9",
+   "9-10",
+   "9-75",
+   "9-76",
+   "9-103",
+   "9-106",
+   "10-15",
+   "10-21",
+   "10-29",
+   "10-31",
+   "10-33",
+   "10-41",
+   "10-48",
+   "10-49",
+   "10-54"
+  ],
+  "dm": {
+   "sentient beings": 59,
+   "sentient being": 5,
+   "Sentient beings": 3,
+   "beings": 2,
+   "being": 1
+  },
+  "gm": {
+   "sentient beings": 64,
+   "sentient being": 4,
+   "Sentient beings": 4
+  },
+  "status": {
+   "agree": 66,
+   "disagree": 4,
+   "gm-only": 2
+  }
+ },
+ {
+  "bo": "ཉོན་མོངས",
+  "count": 39,
+  "occurrences": [
+   "2-30",
+   "3-30",
+   "4-31",
+   "4-32",
+   "4-33",
+   "4-37",
+   "4-41",
+   "4-42",
+   "4-43",
+   "4-45",
+   "4-46",
+   "4-47",
+   "5-28",
+   "5-54",
+   "5-56",
+   "6-19",
+   "6-23",
+   "6-37",
+   "6-38",
+   "6-63",
+   "6-89",
+   "7-4",
+   "7-49",
+   "7-50",
+   "7-56",
+   "7-60",
+   "7-61",
+   "7-67",
+   "8-1",
+   "8-4",
+   "8-73",
+   "8-84",
+   "8-143",
+   "8-150",
+   "8-175",
+   "9-30",
+   "9-31",
+   "9-45",
+   "9-162"
+  ],
+  "dm": {
+   "afflictions": 27,
+   "mental afflictions": 7,
+   "mental affliction": 1,
+   "afflicted": 1,
+   "hardships": 1,
+   "miserable one": 1
+  },
+  "gm": {
+   "afflictions": 32,
+   "afflicted": 2,
+   "afflicted ones": 1,
+   "afflictive": 1,
+   "affliction": 1,
+   "Afflictions": 1,
+   "miserable one": 1
+  },
+  "status": {
+   "agree": 28,
+   "disagree": 10,
+   "gm-only": 1
+  }
+ },
+ {
+  "bo": "འགྲོ་བ",
+  "count": 34,
+  "occurrences": [
+   "1-26",
+   "2-47",
+   "3-7",
+   "3-28",
+   "3-29",
+   "3-30",
+   "3-31",
+   "3-32",
+   "3-33",
+   "4-4",
+   "4-40",
+   "4-41",
+   "4-47",
+   "5-71",
+   "6-75",
+   "6-126",
+   "7-50",
+   "8-90",
+   "8-103",
+   "8-113",
+   "8-117",
+   "8-149",
+   "9-118",
+   "9-126",
+   "9-127",
+   "9-149",
+   "9-150",
+   "10-1",
+   "10-3",
+   "10-13",
+   "10-21",
+   "10-55",
+   "10-56",
+   "10-57"
+  ],
+  "dm": {
+   "beings": 14,
+   "world": 8,
+   "wandering beings": 4,
+   "sentient beings": 2,
+   "destiny": 1,
+   "all beings": 1,
+   "migratory beings": 1,
+   "Migratory beings": 1,
+   "Wandering beings": 1,
+   "living beings": 1
+  },
+  "gm": {
+   "wandering beings": 15,
+   "beings": 9,
+   "Wandering beings": 2,
+   "migrating beings": 2,
+   "transmigratory beings": 2,
+   "transmigrating beings": 1,
+   "wanderers": 1,
+   "destiny": 1,
+   "Migrating beings": 1
+  },
+  "status": {
+   "disagree": 28,
+   "agree": 6
+  }
+ },
+ {
+  "bo": "བསོད་ནམས",
+  "count": 31,
+  "occurrences": [
+   "1-5",
+   "1-17",
+   "1-19",
+   "1-21",
+   "1-26",
+   "1-30",
+   "2-7",
+   "2-41",
+   "4-9",
+   "5-27",
+   "5-75",
+   "5-100",
+   "6-60",
+   "6-69",
+   "6-71",
+   "6-85",
+   "6-86",
+   "6-90",
+   "6-102",
+   "6-103",
+   "6-115",
+   "7-1",
+   "7-28",
+   "7-29",
+   "7-42",
+   "7-64",
+   "9-9",
+   "9-11",
+   "9-166",
+   "10-2",
+   "10-31"
+  ],
+  "dm": {
+   "merit": 26,
+   "merits": 1,
+   "meritorious": 1,
+   "meritorious deeds": 1,
+   "Merit": 1
+  },
+  "gm": {
+   "merit": 24,
+   "Merit": 4,
+   "meritorious deeds": 2,
+   "merits": 1
+  },
+  "status": {
+   "gm-only": 1,
+   "agree": 28,
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "སངས་རྒྱས",
+  "count": 29,
+  "occurrences": [
+   "I-3",
+   "1-5",
+   "1-27",
+   "2-24",
+   "2-26",
+   "3-4",
+   "3-25",
+   "4-3",
+   "4-13",
+   "5-31",
+   "5-32",
+   "5-80",
+   "5-103",
+   "6-64",
+   "6-101",
+   "6-115",
+   "6-116",
+   "6-133",
+   "8-36",
+   "8-156",
+   "9-14",
+   "9-39",
+   "9-49",
+   "9-162",
+   "10-32",
+   "10-34",
+   "10-38",
+   "10-47",
+   "10-48"
+  ],
+  "dm": {
+   "Buddhas": 15,
+   "Buddha": 9,
+   "Buddhahood": 3,
+   "buddhas": 1,
+   "the Buddha": 1
+  },
+  "gm": {
+   "Buddhas": 11,
+   "Buddha": 10,
+   "buddhas": 5,
+   "the Buddha": 1,
+   "Buddhahood": 1,
+   "buddhahood": 1
+  },
+  "status": {
+   "agree": 26,
+   "disagree": 3
+  }
+ },
+ {
+  "bo": "ཡོན་ཏན",
+  "count": 27,
+  "occurrences": [
+   "1-22",
+   "2-1",
+   "2-23",
+   "5-76",
+   "5-77",
+   "5-81",
+   "6-50",
+   "6-76",
+   "6-79",
+   "6-85",
+   "6-98",
+   "6-114",
+   "7-35",
+   "7-36",
+   "8-88",
+   "8-112",
+   "8-141",
+   "8-142",
+   "8-144",
+   "8-145",
+   "8-147",
+   "8-151",
+   "8-155",
+   "8-163",
+   "9-127",
+   "9-128",
+   "9-129"
+  ],
+  "dm": {
+   "virtues": 9,
+   "qualities": 6,
+   "good qualities": 6,
+   "excellence": 2,
+   "virtue": 2,
+   "merit": 1,
+   "benefits": 1
+  },
+  "gm": {
+   "good qualities": 17,
+   "qualities": 9,
+   "good quality": 1
+  },
+  "status": {
+   "disagree": 16,
+   "agree": 11
+  }
+ },
+ {
+  "bo": "སེམས",
+  "count": 27,
+  "occurrences": [
+   "5-1",
+   "5-5",
+   "5-6",
+   "5-8",
+   "5-10",
+   "5-14",
+   "5-18",
+   "5-22",
+   "5-23",
+   "5-24",
+   "5-25",
+   "5-40",
+   "6-3",
+   "6-18",
+   "6-19",
+   "6-53",
+   "8-1",
+   "8-2",
+   "8-38",
+   "8-54",
+   "8-167",
+   "9-11",
+   "9-17",
+   "9-26",
+   "9-28",
+   "9-29",
+   "9-99"
+  ],
+  "dm": {
+   "mind": 25,
+   "minds": 2
+  },
+  "gm": {
+   "mind": 26,
+   "minds": 1
+  },
+  "status": {
+   "agree": 26,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ལུས",
+  "count": 26,
+  "occurrences": [
+   "3-10",
+   "3-12",
+   "3-13",
+   "5-60",
+   "8-2",
+   "8-55",
+   "8-57",
+   "8-59",
+   "8-62",
+   "8-64",
+   "8-66",
+   "8-67",
+   "8-75",
+   "8-173",
+   "8-176",
+   "8-179",
+   "8-183",
+   "9-78",
+   "9-79",
+   "9-80",
+   "9-81",
+   "9-82",
+   "9-83",
+   "9-84",
+   "9-87",
+   "9-103"
+  ],
+  "dm": {
+   "body": 24,
+   "bodies": 2
+  },
+  "gm": {
+   "body": 24,
+   "bodies": 2
+  },
+  "status": {
+   "agree": 26
+  }
+ },
+ {
+  "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+  "count": 25,
+  "occurrences": [
+   "0",
+   "I-2",
+   "I-3",
+   "1-31",
+   "1-a",
+   "2-26",
+   "2-48",
+   "2-a",
+   "3-22",
+   "4-8",
+   "4-a",
+   "5-31",
+   "5-97",
+   "5-102",
+   "5-a",
+   "7-a",
+   "8-a",
+   "9-37",
+   "9-a",
+   "10-3",
+   "10-5",
+   "10-15",
+   "10-36",
+   "10-49",
+   "10-56"
+  ],
+  "dm": {
+   "Bodhisattvas": 11,
+   "Bodhisattva": 11,
+   "bodhisattvas": 1,
+   "bodhisattva": 1
+  },
+  "gm": {
+   "Bodhisattva": 10,
+   "bodhisattvas": 7,
+   "Bodhisattvas": 6,
+   "bodhisattva": 2
+  },
+  "status": {
+   "agree": 21,
+   "disagree": 3,
+   "gm-only": 1
+  }
+ },
+ {
+  "bo": "སྡིག་པ",
+  "count": 25,
+  "occurrences": [
+   "1-6",
+   "1-13",
+   "1-35",
+   "2-9",
+   "2-31",
+   "2-32",
+   "2-34",
+   "2-38",
+   "2-42",
+   "2-63",
+   "4-17",
+   "4-19",
+   "4-21",
+   "4-22",
+   "6-2",
+   "6-25",
+   "6-55",
+   "6-61",
+   "7-27",
+   "7-29",
+   "7-41",
+   "7-43",
+   "8-40",
+   "10-31",
+   "10-45"
+  ],
+  "dm": {
+   "sins": 13,
+   "sin": 5,
+   "misdeeds": 5,
+   "evil": 1,
+   "non-virtue": 1
+  },
+  "gm": {
+   "sins": 4,
+   "misdeeds": 4,
+   "negative deeds": 3,
+   "non-virtues": 3,
+   "non-virtue": 2,
+   "sin": 2,
+   "negative actions": 2,
+   "evil": 1,
+   "evils": 1,
+   "Non-virtue": 1,
+   "misdeed": 1,
+   "harmful deeds": 1
+  },
+  "status": {
+   "disagree": 19,
+   "agree": 6
+  }
+ },
+ {
+  "bo": "བྱང་ཆུབ་སེམས",
+  "count": 23,
+  "occurrences": [
+   "1-0",
+   "1-8",
+   "1-9",
+   "1-10",
+   "1-11",
+   "1-12",
+   "1-15",
+   "1-a",
+   "2-25",
+   "2-27",
+   "3-23",
+   "3-24",
+   "3-27",
+   "4-1",
+   "4-7",
+   "4-11",
+   "5-98",
+   "6-83",
+   "7-29",
+   "7-30",
+   "8-88",
+   "10-13",
+   "10-32"
+  ],
+  "dm": {
+   "awakening mind": 10,
+   "bodhicitta": 3,
+   "Awakening Mind": 2,
+   "mind of enlightenment": 2,
+   "spirit of awakening": 2,
+   "Bodhicitta": 1,
+   "Bodhisattvas": 1,
+   "Bodhisattva": 1,
+   "the mind of enlightenment": 1
+  },
+  "gm": {
+   "awakening mind": 11,
+   "mind of awakening": 7,
+   "Awakening Mind": 1,
+   "Bodhisattvas": 1,
+   "bodhicitta": 1,
+   "the awakening mind": 1
+  },
+  "status": {
+   "dm-only": 1,
+   "disagree": 15,
+   "agree": 7
+  }
+ },
+ {
+  "bo": "དགེ་བ",
+  "count": 19,
+  "occurrences": [
+   "1-3",
+   "1-6",
+   "1-12",
+   "1-35",
+   "3-1",
+   "3-2",
+   "3-3",
+   "3-6",
+   "3-10",
+   "4-17",
+   "4-18",
+   "4-19",
+   "5-3",
+   "5-22",
+   "6-9",
+   "7-42",
+   "10-1",
+   "10-10",
+   "10-31"
+  ],
+  "dm": {
+   "virtue": 12,
+   "virtues": 5,
+   "virtuous deeds": 1,
+   "merit": 1
+  },
+  "gm": {
+   "virtue": 11,
+   "virtues": 6,
+   "wholesome deeds": 1,
+   "virtuous ones": 1
+  },
+  "status": {
+   "agree": 14,
+   "disagree": 5
+  }
+ },
+ {
+  "bo": "དམྱལ་བ",
+  "count": 18,
+  "occurrences": [
+   "1-34",
+   "4-26",
+   "5-7",
+   "6-48",
+   "6-72",
+   "6-73",
+   "6-74",
+   "6-89",
+   "6-131",
+   "7-10",
+   "7-11",
+   "7-12",
+   "7-68",
+   "8-170",
+   "10-4",
+   "10-7",
+   "10-12",
+   "10-15"
+  ],
+  "dm": {
+   "hell": 13,
+   "hells": 5
+  },
+  "gm": {
+   "hell": 16,
+   "hells": 2
+  },
+  "status": {
+   "agree": 13,
+   "disagree": 5
+  }
+ },
+ {
+  "bo": "འཇིག་རྟེན",
+  "count": 18,
+  "occurrences": [
+   "5-93",
+   "5-107",
+   "7-50",
+   "8-2",
+   "8-3",
+   "8-4",
+   "8-22",
+   "8-65",
+   "8-128",
+   "8-133",
+   "9-3",
+   "9-7",
+   "9-8",
+   "9-136",
+   "9-137",
+   "9-153",
+   "10-30",
+   "10-39"
+  ],
+  "dm": {
+   "world": 12,
+   "the world": 4,
+   "worldly beings": 1,
+   "worldly": 1
+  },
+  "gm": {
+   "world": 13,
+   "the world": 2,
+   "worldly beings": 1,
+   "the worldly life": 1,
+   "worldly": 1
+  },
+  "status": {
+   "agree": 15,
+   "disagree": 3
+  }
+ },
+ {
+  "bo": "འཁོར་བ",
+  "count": 17,
+  "occurrences": [
+   "1-9",
+   "2-28",
+   "2-48",
+   "3-2",
+   "4-11",
+   "4-34",
+   "4-35",
+   "6-21",
+   "7-3",
+   "7-28",
+   "8-13",
+   "8-130",
+   "8-153",
+   "9-13",
+   "9-27",
+   "9-52",
+   "10-3"
+  ],
+  "dm": {
+   "cyclic existence": 15,
+   "samsara": 1,
+   "saṃsāra": 1
+  },
+  "gm": {
+   "saṃsāra": 10,
+   "cyclic existence": 6,
+   "samsara": 1
+  },
+  "status": {
+   "agree": 6,
+   "disagree": 11
+  }
+ },
+ {
+  "bo": "ང་རྒྱལ",
+  "count": 17,
+  "occurrences": [
+   "4-36",
+   "5-49",
+   "6-121",
+   "7-32",
+   "7-46",
+   "7-49",
+   "7-51",
+   "7-53",
+   "7-55",
+   "7-56",
+   "7-58",
+   "7-59",
+   "8-12",
+   "8-139",
+   "8-178",
+   "9-77",
+   "10-30"
+  ],
+  "dm": {
+   "pride": 15,
+   "pride of self-confidence": 1,
+   "arrogant": 1
+  },
+  "gm": {
+   "pride": 10,
+   "self-confidence": 5,
+   "Arrogant": 1,
+   "Pride": 1
+  },
+  "status": {
+   "agree": 12,
+   "disagree": 5
+  }
+ },
+ {
+  "bo": "བདག",
+  "count": 17,
+  "occurrences": [
+   "6-27",
+   "6-29",
+   "8-42",
+   "8-68",
+   "9-56",
+   "9-57",
+   "9-58",
+   "9-59",
+   "9-68",
+   "9-69",
+   "9-70",
+   "9-71",
+   "9-73",
+   "9-74",
+   "9-77",
+   "9-120",
+   "9-121"
+  ],
+  "dm": {
+   "self": 14,
+   "the self": 2,
+   "Self": 1
+  },
+  "gm": {
+   "self": 14,
+   "Self": 1,
+   "the self": 1
+  },
+  "status": {
+   "agree": 16,
+   "dm-only": 1
+  }
+ },
+ {
+  "bo": "ཆོས",
+  "count": 16,
+  "occurrences": [
+   "2-24",
+   "2-26",
+   "2-48",
+   "3-4",
+   "5-17",
+   "5-40",
+   "5-88",
+   "5-89",
+   "5-90",
+   "7-39",
+   "8-8",
+   "8-16",
+   "9-105",
+   "10-34",
+   "10-37",
+   "10-39"
+  ],
+  "dm": {
+   "Dharma": 14,
+   "teachings": 1,
+   "phenomena": 1
+  },
+  "gm": {
+   "Dharma": 14,
+   "Dharmas": 1,
+   "phenomena": 1
+  },
+  "status": {
+   "agree": 15,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ",
+  "count": 13,
+  "occurrences": [
+   "0",
+   "I-2",
+   "1-a",
+   "2-a",
+   "3-a",
+   "4-a",
+   "5-a",
+   "6-a",
+   "7-a",
+   "8-a",
+   "9-a",
+   "10-a",
+   "a-1"
+  ],
+  "dm": {
+   "Entering the Way of the Bodhisattva": 5,
+   "Engaging in the Bodhisattva Deeds": 3,
+   "Engaging in the Conduct of the Bodhisattvas": 1,
+   "Engaging in the Bodhisattva's Conduct": 1,
+   "Entering the Bodhisattva's Conduct": 1,
+   "Bodhicaryāvatāra": 1,
+   "Entering the Conduct of a Bodhisattva": 1
+  },
+  "gm": {
+   "Entering the Way of the Bodhisattva": 12,
+   "Engaging in the Conduct of the Bodhisattvas": 1
+  },
+  "status": {
+   "agree": 6,
+   "disagree": 7
+  }
+ },
+ {
+  "bo": "བདེ་བ",
+  "count": 13,
+  "occurrences": [
+   "1-28",
+   "1-29",
+   "5-78",
+   "6-3",
+   "8-90",
+   "8-94",
+   "8-128",
+   "8-130",
+   "9-134",
+   "9-152",
+   "9-166",
+   "10-48",
+   "10-57"
+  ],
+  "dm": {
+   "happiness": 10,
+   "bliss": 2,
+   "pleasure": 1
+  },
+  "gm": {
+   "happiness": 11,
+   "pleasure": 1,
+   "bliss": 1
+  },
+  "status": {
+   "agree": 12,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བྱང་ཆུབ",
+  "count": 13,
+  "occurrences": [
+   "3-2",
+   "3-16",
+   "5-101",
+   "6-80",
+   "6-83",
+   "7-1",
+   "7-17",
+   "7-18",
+   "7-19",
+   "7-21",
+   "7-22",
+   "8-82",
+   "9-40"
+  ],
+  "dm": {
+   "enlightenment": 13
+  },
+  "gm": {
+   "awakening": 7,
+   "enlightenment": 6
+  },
+  "status": {
+   "disagree": 7,
+   "agree": 6
+  }
+ },
+ {
+  "bo": "རྐྱེན",
+  "count": 13,
+  "occurrences": [
+   "6-22",
+   "6-25",
+   "6-26",
+   "6-29",
+   "6-33",
+   "6-65",
+   "9-10",
+   "9-12",
+   "9-14",
+   "9-15",
+   "9-42",
+   "9-47",
+   "9-141"
+  ],
+  "dm": {
+   "conditions": 12,
+   "conditioned": 1
+  },
+  "gm": {
+   "conditions": 11,
+   "condition": 1,
+   "Conditions": 1
+  },
+  "status": {
+   "agree": 12,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཆགས་པ",
+  "count": 12,
+  "occurrences": [
+   "4-35",
+   "5-45",
+   "5-48",
+   "8-3",
+   "8-5",
+   "8-19",
+   "8-26",
+   "8-50",
+   "8-64",
+   "8-66",
+   "8-78",
+   "8-180"
+  ],
+  "dm": {
+   "attachment": 9,
+   "attached": 3
+  },
+  "gm": {
+   "attachment": 7,
+   "attached": 5
+  },
+  "status": {
+   "agree": 10,
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "རྒྱུ",
+  "count": 12,
+  "occurrences": [
+   "6-104",
+   "9-72",
+   "9-116",
+   "9-117",
+   "9-122",
+   "9-124",
+   "9-126",
+   "9-130",
+   "9-135",
+   "9-143",
+   "9-145",
+   "9-146"
+  ],
+  "dm": {
+   "cause": 9,
+   "causes": 3
+  },
+  "gm": {
+   "cause": 8,
+   "causes": 4
+  },
+  "status": {
+   "agree": 11,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྒྱུ་མ",
+  "count": 12,
+  "occurrences": [
+   "9-5",
+   "9-10",
+   "9-12",
+   "9-14",
+   "9-15",
+   "9-16",
+   "9-17",
+   "9-26",
+   "9-27",
+   "9-30",
+   "9-142",
+   "9-143"
+  ],
+  "dm": {
+   "illusion": 11,
+   "magical illusion": 1
+  },
+  "gm": {
+   "illusion": 8,
+   "illusions": 2,
+   "Illusions": 1,
+   "Illusion": 1
+  },
+  "status": {
+   "disagree": 4,
+   "agree": 8
+  }
+ },
+ {
+  "bo": "སྡིག",
+  "count": 11,
+  "occurrences": [
+   "2-28",
+   "2-37",
+   "2-65",
+   "6-48",
+   "6-60",
+   "6-86",
+   "6-124",
+   "7-10",
+   "7-48",
+   "9-11",
+   "10-11"
+  ],
+  "dm": {
+   "sins": 8,
+   "sin": 2,
+   "Sin": 1
+  },
+  "gm": {
+   "negative deeds": 2,
+   "negative actions": 2,
+   "non-virtue": 1,
+   "non-virtues": 1,
+   "negative deed": 1,
+   "evils": 1,
+   "Misdeeds": 1,
+   "sin": 1,
+   "negativity": 1
+  },
+  "status": {
+   "disagree": 10,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཞེ་སྡང",
+  "count": 11,
+  "occurrences": [
+   "2-38",
+   "4-28",
+   "5-79",
+   "6-2",
+   "6-3",
+   "6-7",
+   "6-20",
+   "6-41",
+   "6-64",
+   "6-71",
+   "8-180"
+  ],
+  "dm": {
+   "hatred": 9,
+   "aversion": 1,
+   "Hatred": 1
+  },
+  "gm": {
+   "hatred": 7,
+   "anger": 3,
+   "Hatred": 1
+  },
+  "status": {
+   "agree": 7,
+   "disagree": 4
+  }
+ },
+ {
+  "bo": "བཟོད་པ",
+  "count": 11,
+  "occurrences": [
+   "4-29",
+   "6-0",
+   "6-2",
+   "6-48",
+   "6-66",
+   "6-103",
+   "6-108",
+   "6-110",
+   "6-111",
+   "6-134",
+   "7-1"
+  ],
+  "dm": {
+   "patience": 9,
+   "Patience": 1,
+   "endure": 1
+  },
+  "gm": {
+   "patience": 9,
+   "patient": 1
+  },
+  "status": {
+   "agree": 9,
+   "dm-only": 1,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "དངོས་པོ",
+  "count": 11,
+  "occurrences": [
+   "6-31",
+   "9-26",
+   "9-32",
+   "9-96",
+   "9-130",
+   "9-133",
+   "9-145",
+   "9-146",
+   "9-147",
+   "9-148",
+   "9-149"
+  ],
+  "dm": {
+   "entity": 3,
+   "things": 2,
+   "phenomena": 1,
+   "real entity": 1,
+   "substantial things": 1,
+   "substantial reality": 1,
+   "thing": 1,
+   "existence": 1
+  },
+  "gm": {
+   "entity": 6,
+   "things": 3,
+   "entities": 1,
+   "real entity": 1
+  },
+  "status": {
+   "disagree": 6,
+   "agree": 5
+  }
+ },
+ {
+  "bo": "བསྐལ་པ",
+  "count": 10,
+  "occurrences": [
+   "1-7",
+   "1-34",
+   "3-5",
+   "3-8",
+   "4-19",
+   "4-21",
+   "6-1",
+   "7-21",
+   "7-33",
+   "7-35"
+  ],
+  "dm": {
+   "eons": 7,
+   "eon": 2,
+   "aeons": 1
+  },
+  "gm": {
+   "eons": 8,
+   "eon": 2
+  },
+  "status": {
+   "agree": 9,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རྒྱལ་བ",
+  "count": 10,
+  "occurrences": [
+   "2-22",
+   "2-47",
+   "3-5",
+   "6-112",
+   "6-113",
+   "7-44",
+   "8-22",
+   "9-35",
+   "9-37",
+   "9-50"
+  ],
+  "dm": {
+   "Victors": 6,
+   "Victorious One": 4
+  },
+  "gm": {
+   "Conquerors": 3,
+   "Victorious One": 3,
+   "Victors": 2,
+   "Victorious Ones": 1,
+   "Victor": 1
+  },
+  "status": {
+   "disagree": 5,
+   "agree": 5
+  }
+ },
+ {
+  "bo": "ངན་འགྲོ",
+  "count": 10,
+  "occurrences": [
+   "3-30",
+   "4-9",
+   "4-14",
+   "5-27",
+   "5-29",
+   "7-57",
+   "8-9",
+   "8-11",
+   "8-126",
+   "8-145"
+  ],
+  "dm": {
+   "lower realms": 9,
+   "miserable realms": 1
+  },
+  "gm": {
+   "lower realms": 8,
+   "lower rebirths": 1,
+   "bad migrations": 1
+  },
+  "status": {
+   "agree": 7,
+   "disagree": 3
+  }
+ },
+ {
+  "bo": "དྲན་པ",
+  "count": 10,
+  "occurrences": [
+   "5-3",
+   "5-23",
+   "5-25",
+   "5-27",
+   "5-29",
+   "5-30",
+   "5-33",
+   "7-68",
+   "7-73",
+   "9-23"
+  ],
+  "dm": {
+   "mindfulness": 8,
+   "memory": 1,
+   "remembered": 1
+  },
+  "gm": {
+   "mindfulness": 6,
+   "Mindfulness": 2,
+   "memory": 1,
+   "remembered": 1
+  },
+  "status": {
+   "agree": 10
+  }
+ },
+ {
+  "bo": "འབྲས་བུ",
+  "count": 10,
+  "occurrences": [
+   "6-114",
+   "7-13",
+   "9-4",
+   "9-38",
+   "9-39",
+   "9-52",
+   "9-72",
+   "9-75",
+   "9-76",
+   "9-122"
+  ],
+  "dm": {
+   "result": 6,
+   "fruit": 2,
+   "results": 1,
+   "effect": 1
+  },
+  "gm": {
+   "result": 8,
+   "fruit": 1,
+   "effect": 1
+  },
+  "status": {
+   "disagree": 4,
+   "agree": 6
+  }
+ },
+ {
+  "bo": "ལྷ",
+  "count": 9,
+  "occurrences": [
+   "1-23",
+   "2-4",
+   "3-33",
+   "4-30",
+   "7-13",
+   "8-124",
+   "10-26",
+   "10-39",
+   "10-47"
+  ],
+  "dm": {
+   "gods": 8,
+   "immortal": 1
+  },
+  "gm": {
+   "gods": 6,
+   "god": 1,
+   "deity": 1,
+   "deities": 1
+  },
+  "status": {
+   "agree": 6,
+   "disagree": 3
+  }
+ },
+ {
+  "bo": "ཐུབ་པ",
+  "count": 9,
+  "occurrences": [
+   "1-34",
+   "2-6",
+   "5-8",
+   "5-73",
+   "6-112",
+   "7-40",
+   "8-129",
+   "8-155",
+   "9-1"
+  ],
+  "dm": {
+   "Sage": 5,
+   "Munis": 1,
+   "sage": 1,
+   "Sages": 1,
+   "Buddha": 1
+  },
+  "gm": {
+   "Sage": 5,
+   "Capable One": 1,
+   "Capable Ones": 1,
+   "sage": 1,
+   "Muni": 1
+  },
+  "status": {
+   "disagree": 4,
+   "agree": 5
+  }
+ },
+ {
+  "bo": "མགོན་པོ",
+  "count": 9,
+  "occurrences": [
+   "2-22",
+   "2-42",
+   "2-64",
+   "5-96",
+   "8-117",
+   "9-7",
+   "9-17",
+   "10-49",
+   "10-53"
+  ],
+  "dm": {
+   "Protector": 5,
+   "Protectors": 4
+  },
+  "gm": {
+   "Protectors": 2,
+   "protectors": 2,
+   "protector": 2,
+   "Protector": 2,
+   "Lord": 1
+  },
+  "status": {
+   "agree": 8,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ལུས་ཅན",
+  "count": 9,
+  "occurrences": [
+   "3-2",
+   "3-12",
+   "3-18",
+   "3-19",
+   "4-10",
+   "6-34",
+   "6-66",
+   "10-4",
+   "10-37"
+  ],
+  "dm": {
+   "embodied beings": 8,
+   "embodied being": 1
+  },
+  "gm": {
+   "embodied beings": 9
+  },
+  "status": {
+   "agree": 8,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བསླབ་པ",
+  "count": 9,
+  "occurrences": [
+   "3-22",
+   "3-23",
+   "4-48",
+   "5-1",
+   "5-46",
+   "5-99",
+   "5-104",
+   "5-107",
+   "10-43"
+  ],
+  "dm": {
+   "trainings": 5,
+   "training": 3,
+   "train": 1
+  },
+  "gm": {
+   "trainings": 5,
+   "training": 3,
+   "train": 1
+  },
+  "status": {
+   "agree": 9
+  }
+ },
+ {
+  "bo": "དམྱལ",
+  "count": 9,
+  "occurrences": [
+   "4-35",
+   "4-47",
+   "6-47",
+   "6-50",
+   "8-39",
+   "8-70",
+   "8-81",
+   "8-83",
+   "8-125"
+  ],
+  "dm": {
+   "hells": 8,
+   "hell": 1
+  },
+  "gm": {
+   "hell": 6,
+   "hells": 3
+  },
+  "status": {
+   "disagree": 7,
+   "agree": 2
+  }
+ },
+ {
+  "bo": "ཤེས་བཞིན",
+  "count": 9,
+  "occurrences": [
+   "5-0",
+   "5-23",
+   "5-25",
+   "5-26",
+   "5-27",
+   "5-33",
+   "5-44",
+   "5-96",
+   "5-108"
+  ],
+  "dm": {
+   "introspective awareness": 4,
+   "alertness": 2,
+   "introspection": 2,
+   "Introspection": 1
+  },
+  "gm": {
+   "introspection": 7,
+   "clear comprehension": 1
+  },
+  "status": {
+   "dm-only": 1,
+   "disagree": 6,
+   "agree": 2
+  }
+ },
+ {
+  "bo": "རྨོངས་པ",
+  "count": 9,
+  "occurrences": [
+   "5-24",
+   "6-67",
+   "9-52",
+   "9-75",
+   "9-76",
+   "9-77",
+   "9-83",
+   "9-136",
+   "9-142"
+  ],
+  "dm": {
+   "delusion": 6,
+   "confusion": 1,
+   "ignorance": 1,
+   "deluded": 1
+  },
+  "gm": {
+   "delusion": 4,
+   "ignorance": 3,
+   "ignorant": 2
+  },
+  "status": {
+   "disagree": 5,
+   "agree": 4
+  }
+ },
+ {
+  "bo": "ཁྲོ་བ",
+  "count": 9,
+  "occurrences": [
+   "6-5",
+   "6-6",
+   "6-24",
+   "6-38",
+   "6-39",
+   "6-40",
+   "6-43",
+   "6-65",
+   "6-73"
+  ],
+  "dm": {
+   "anger": 4,
+   "angry": 4,
+   "Anger": 1
+  },
+  "gm": {
+   "angry": 5,
+   "anger": 3,
+   "Anger": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 8
+  }
+ },
+ {
+  "bo": "ཚོར་བ",
+  "count": 9,
+  "occurrences": [
+   "6-13",
+   "6-15",
+   "9-47",
+   "9-89",
+   "9-91",
+   "9-97",
+   "9-98",
+   "9-99",
+   "9-101"
+  ],
+  "dm": {
+   "feeling": 6,
+   "sensations": 2,
+   "sensation": 1
+  },
+  "gm": {
+   "feeling": 6,
+   "sensations": 1,
+   "Sensations": 1,
+   "Feeling": 1
+  },
+  "status": {
+   "agree": 8,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཤེས་བྱ",
+  "count": 9,
+  "occurrences": [
+   "9-31",
+   "9-60",
+   "9-61",
+   "9-104",
+   "9-105",
+   "9-112",
+   "9-114",
+   "9-115",
+   "9-121"
+  ],
+  "dm": {
+   "object of knowledge": 8,
+   "objects of knowledge": 1
+  },
+  "gm": {
+   "object of knowledge": 7,
+   "objects of knowledge": 1,
+   "Object of knowledge": 1
+  },
+  "status": {
+   "disagree": 2,
+   "agree": 7
+  }
+ },
+ {
+  "bo": "བདེ་གཤེགས",
+  "count": 8,
+  "occurrences": [
+   "1-1",
+   "1-9",
+   "3-22",
+   "3-33",
+   "5-46",
+   "6-1",
+   "7-44",
+   "10-8"
+  ],
+  "dm": {
+   "Sugatas": 7,
+   "Sugata": 1
+  },
+  "gm": {
+   "Sugatas": 6,
+   "Sugatahood": 1,
+   "Sugata": 1
+  },
+  "status": {
+   "agree": 7,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཆགས",
+  "count": 8,
+  "occurrences": [
+   "2-38",
+   "5-64",
+   "5-79",
+   "6-71",
+   "8-65",
+   "8-179",
+   "9-30",
+   "9-52"
+  ],
+  "dm": {
+   "attachment": 5,
+   "attached": 1,
+   "unattached": 1,
+   "desire": 1
+  },
+  "gm": {
+   "attachment": 5,
+   "attached": 2,
+   "Attachment": 1
+  },
+  "status": {
+   "agree": 6,
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "མྱ་ངན་འདས",
+  "count": 8,
+  "occurrences": [
+   "3-21",
+   "5-96",
+   "8-42",
+   "9-13",
+   "9-38",
+   "9-103",
+   "9-110",
+   "9-150"
+  ],
+  "dm": {
+   "nirvana": 5,
+   "passed beyond sorrow": 1,
+   "state beyond sorrow": 1,
+   "nirvāṇa": 1
+  },
+  "gm": {
+   "nirvāṇa": 5,
+   "nirvana": 3
+  },
+  "status": {
+   "disagree": 7,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྙིང་རྗེ",
+  "count": 8,
+  "occurrences": [
+   "5-87",
+   "6-21",
+   "6-38",
+   "8-103",
+   "8-116",
+   "8-145",
+   "9-75",
+   "10-40"
+  ],
+  "dm": {
+   "compassion": 6,
+   "compassionate": 1,
+   "Compassion": 1
+  },
+  "gm": {
+   "compassion": 7,
+   "Compassion": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 7
+  }
+ },
+ {
+  "bo": "ཤེས་པ",
+  "count": 8,
+  "occurrences": [
+   "8-54",
+   "9-21",
+   "9-60",
+   "9-61",
+   "9-105",
+   "9-114",
+   "9-115",
+   "9-121"
+  ],
+  "dm": {
+   "consciousness": 7,
+   "cognition": 1
+  },
+  "gm": {
+   "consciousness": 5,
+   "conscious": 1,
+   "cognition": 1,
+   "Consciousness": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 7
+  }
+ },
+ {
+  "bo": "ཀུན་རྫོབ",
+  "count": 8,
+  "occurrences": [
+   "9-2",
+   "9-7",
+   "9-8",
+   "9-13",
+   "9-15",
+   "9-39",
+   "9-106",
+   "9-107"
+  ],
+  "dm": {
+   "conventional": 4,
+   "conventional truth": 2,
+   "conventionally": 1,
+   "conventional reality": 1
+  },
+  "gm": {
+   "relative": 4,
+   "conventional reality": 2,
+   "relatively": 1,
+   "conventionally": 1
+  },
+  "status": {
+   "disagree": 7,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དགེ",
+  "count": 7,
+  "occurrences": [
+   "1-30",
+   "4-15",
+   "4-23",
+   "5-28",
+   "5-81",
+   "7-2",
+   "7-46"
+  ],
+  "dm": {
+   "virtue": 6,
+   "virtuous": 1
+  },
+  "gm": {
+   "virtue": 6,
+   "the wholesome": 1
+  },
+  "status": {
+   "agree": 5,
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "བདེ་འགྲོ",
+  "count": 7,
+  "occurrences": [
+   "4-6",
+   "4-19",
+   "4-21",
+   "5-28",
+   "8-126",
+   "9-156",
+   "10-45"
+  ],
+  "dm": {
+   "happy rebirth": 3,
+   "happy realm": 1,
+   "good migrations": 1,
+   "higher realms": 1,
+   "higher rebirth": 1
+  },
+  "gm": {
+   "happy realms": 4,
+   "higher realms": 2,
+   "happy migrations": 1
+  },
+  "status": {
+   "disagree": 7
+  }
+ },
+ {
+  "bo": "ཤེས་རབ",
+  "count": 7,
+  "occurrences": [
+   "4-46",
+   "5-62",
+   "8-150",
+   "9-0",
+   "9-1",
+   "9-a",
+   "10-27"
+  ],
+  "dm": {
+   "wisdom": 5,
+   "Wisdom": 2
+  },
+  "gm": {
+   "wisdom": 5,
+   "Wisdom": 2
+  },
+  "status": {
+   "agree": 7
+  }
+ },
+ {
+  "bo": "ཡིད",
+  "count": 7,
+  "occurrences": [
+   "5-41",
+   "6-52",
+   "8-18",
+   "8-154",
+   "9-18",
+   "9-27",
+   "9-102"
+  ],
+  "dm": {
+   "mind": 7
+  },
+  "gm": {
+   "mind": 6,
+   "perceiving mind": 1
+  },
+  "status": {
+   "agree": 6,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བྱིས་པ",
+  "count": 7,
+  "occurrences": [
+   "5-56",
+   "6-39",
+   "6-45",
+   "8-9",
+   "8-13",
+   "8-24",
+   "8-129"
+  ],
+  "dm": {
+   "childish": 3,
+   "the childish": 3,
+   "Childish beings": 1
+  },
+  "gm": {
+   "the childish": 3,
+   "childish": 2,
+   "Childish ones": 1,
+   "Childish beings": 1
+  },
+  "status": {
+   "agree": 5,
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "ལས",
+  "count": 7,
+  "occurrences": [
+   "6-46",
+   "6-47",
+   "6-68",
+   "7-49",
+   "8-80",
+   "9-45",
+   "9-122"
+  ],
+  "dm": {
+   "karma": 5,
+   "past actions": 1,
+   "Actions": 1
+  },
+  "gm": {
+   "karma": 6,
+   "Actions": 1
+  },
+  "status": {
+   "agree": 6,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "འདོད་པ",
+  "count": 7,
+  "occurrences": [
+   "6-74",
+   "7-64",
+   "8-39",
+   "8-71",
+   "8-76",
+   "8-81",
+   "8-83"
+  ],
+  "dm": {
+   "sensual desires": 2,
+   "Desires": 2,
+   "desire": 2,
+   "desires": 1
+  },
+  "gm": {
+   "desires": 4,
+   "Desires": 2,
+   "sensual desires": 1
+  },
+  "status": {
+   "agree": 4,
+   "disagree": 3
+  }
+ },
+ {
+  "bo": "བདེ",
+  "count": 7,
+  "occurrences": [
+   "8-89",
+   "8-160",
+   "9-88",
+   "9-129",
+   "9-130",
+   "9-131",
+   "9-132"
+  ],
+  "dm": {
+   "happiness": 3,
+   "pleasure": 3,
+   "Pleasure": 1
+  },
+  "gm": {
+   "happiness": 3,
+   "pleasure": 3,
+   "Pleasure": 1
+  },
+  "status": {
+   "agree": 7
+  }
+ },
+ {
+  "bo": "དད་པ",
+  "count": 6,
+  "occurrences": [
+   "1-3",
+   "3-15",
+   "5-26",
+   "6-63",
+   "6-85",
+   "6-115"
+  ],
+  "dm": {
+   "faith": 6
+  },
+  "gm": {
+   "faith": 6
+  },
+  "status": {
+   "agree": 6
+  }
+ },
+ {
+  "bo": "དེ་བཞིན་གཤེགས་པ",
+  "count": 6,
+  "occurrences": [
+   "1-20",
+   "2-1",
+   "4-15",
+   "6-127",
+   "7-17",
+   "8-24"
+  ],
+  "dm": {
+   "Tathāgata": 3,
+   "Tathāgatas": 3
+  },
+  "gm": {
+   "Tathāgatas": 4,
+   "Tathāgata": 2
+  },
+  "status": {
+   "agree": 5,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "གཏི་མུག",
+  "count": 6,
+  "occurrences": [
+   "1-28",
+   "1-30",
+   "2-29",
+   "2-38",
+   "2-56",
+   "2-63"
+  ],
+  "dm": {
+   "delusion": 4,
+   "ignorance": 2
+  },
+  "gm": {
+   "ignorance": 4,
+   "foolish": 2
+  },
+  "status": {
+   "disagree": 4,
+   "agree": 2
+  }
+ },
+ {
+  "bo": "སྐྱབས་སུ་མཆི",
+  "count": 6,
+  "occurrences": [
+   "1-36",
+   "2-26",
+   "2-47",
+   "2-48",
+   "2-52",
+   "2-53"
+  ],
+  "dm": {
+   "go for refuge": 3,
+   "take refuge": 2,
+   "come to you for refuge": 1
+  },
+  "gm": {
+   "take refuge": 4,
+   "go for refuge": 2
+  },
+  "status": {
+   "disagree": 6
+  }
+ },
+ {
+  "bo": "གཞན་དོན",
+  "count": 6,
+  "occurrences": [
+   "2-7",
+   "5-52",
+   "5-84",
+   "7-28",
+   "8-108",
+   "8-124"
+  ],
+  "dm": {
+   "welfare of others": 5,
+   "for the sake of others": 1
+  },
+  "gm": {
+   "benefit of others": 3,
+   "welfare of others": 1,
+   "for the sake of others": 1,
+   "others' purpose": 1
+  },
+  "status": {
+   "agree": 2,
+   "disagree": 4
+  }
+ },
+ {
+  "bo": "འཇམ་དབྱངས",
+  "count": 6,
+  "occurrences": [
+   "2-13",
+   "2-22",
+   "10-14",
+   "10-51",
+   "10-53",
+   "10-54"
+  ],
+  "dm": {
+   "Mañjuśrī": 4,
+   "Mañjughoṣa": 2
+  },
+  "gm": {
+   "Mañjuśrī": 5,
+   "Mañjughoṣa": 1
+  },
+  "status": {
+   "agree": 5,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "འཆི་བདག",
+  "count": 6,
+  "occurrences": [
+   "2-33",
+   "3-28",
+   "5-67",
+   "7-4",
+   "7-6",
+   "7-8"
+  ],
+  "dm": {
+   "Lord of Death": 6
+  },
+  "gm": {
+   "Lord of Death": 6
+  },
+  "status": {
+   "agree": 6
+  }
+ },
+ {
+  "bo": "གཤིན་རྗེ",
+  "count": 6,
+  "occurrences": [
+   "2-41",
+   "2-44",
+   "2-52",
+   "7-9",
+   "7-45",
+   "10-11"
+  ],
+  "dm": {
+   "Lord of Death": 3,
+   "Yama": 3
+  },
+  "gm": {
+   "Yama": 6
+  },
+  "status": {
+   "disagree": 3,
+   "agree": 3
+  }
+ },
+ {
+  "bo": "ངན་སོང",
+  "count": 6,
+  "occurrences": [
+   "3-1",
+   "4-18",
+   "6-99",
+   "9-156",
+   "9-165",
+   "10-47"
+  ],
+  "dm": {
+   "lower realms": 6
+  },
+  "gm": {
+   "lower realms": 6
+  },
+  "status": {
+   "agree": 6
+  }
+ },
+ {
+  "bo": "འགྲོ",
+  "count": 6,
+  "occurrences": [
+   "3-5",
+   "3-23",
+   "6-83",
+   "6-124",
+   "6-125",
+   "8-116"
+  ],
+  "dm": {
+   "beings": 4,
+   "world": 1
+  },
+  "gm": {
+   "wandering beings": 4,
+   "wanderers": 1,
+   "transmigratory beings": 1
+  },
+  "status": {
+   "disagree": 5,
+   "gm-only": 1
+  }
+ },
+ {
+  "bo": "ཁྲོ",
+  "count": 6,
+  "occurrences": [
+   "3-15",
+   "6-41",
+   "6-44",
+   "6-53",
+   "6-60",
+   "6-62"
+  ],
+  "dm": {
+   "angry": 5,
+   "anger": 1
+  },
+  "gm": {
+   "angry": 5,
+   "anger": 1
+  },
+  "status": {
+   "agree": 6
+  }
+ },
+ {
+  "bo": "ནམ་མཁའ",
+  "count": 6,
+  "occurrences": [
+   "3-20",
+   "3-21",
+   "9-69",
+   "9-154",
+   "10-54",
+   "10-55"
+  ],
+  "dm": {
+   "space": 6
+  },
+  "gm": {
+   "space": 5,
+   "Space": 1
+  },
+  "status": {
+   "agree": 6
+  }
+ },
+ {
+  "bo": "ལྟུང་བ",
+  "count": 6,
+  "occurrences": [
+   "4-8",
+   "4-11",
+   "5-26",
+   "5-98",
+   "7-52",
+   "7-54"
+  ],
+  "dm": {
+   "downfalls": 5,
+   "downfall": 1
+  },
+  "gm": {
+   "downfalls": 5,
+   "downfall": 1
+  },
+  "status": {
+   "agree": 6
+  }
+ },
+ {
+  "bo": "རང་དོན",
+  "count": 6,
+  "occurrences": [
+   "5-52",
+   "6-91",
+   "6-127",
+   "7-50",
+   "8-154",
+   "8-171"
+  ],
+  "dm": {
+   "own welfare": 2,
+   "one's own interests": 1,
+   "own best interests": 1,
+   "your own interests": 1,
+   "self-interested": 1
+  },
+  "gm": {
+   "your own purpose": 2,
+   "one's own benefit": 1,
+   "own welfare": 1,
+   "own purpose": 1,
+   "own benefit": 1
+  },
+  "status": {
+   "disagree": 6
+  }
+ },
+ {
+  "bo": "དགྲ",
+  "count": 6,
+  "occurrences": [
+   "6-11",
+   "6-20",
+   "6-33",
+   "6-87",
+   "6-107",
+   "6-110"
+  ],
+  "dm": {
+   "enemy": 5,
+   "enemies": 1
+  },
+  "gm": {
+   "enemies": 3,
+   "enemy": 3
+  },
+  "status": {
+   "disagree": 2,
+   "agree": 4
+  }
+ },
+ {
+  "bo": "བྱང་ཆུབ་སྤྱོད་པ",
+  "count": 6,
+  "occurrences": [
+   "6-107",
+   "7-19",
+   "8-82",
+   "9-14",
+   "9-37",
+   "10-1"
+  ],
+  "dm": {
+   "conduct of enlightenment": 4,
+   "bodhisattva conduct": 1,
+   "conduct of a Bodhisattva": 1
+  },
+  "gm": {
+   "bodhisattva conduct": 3,
+   "enlightenment conduct": 1,
+   "Bodhisattva's conduct": 1,
+   "bodhisattva's conduct": 1
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 5
+  }
+ },
+ {
+  "bo": "སྲེད་པ",
+  "count": 6,
+  "occurrences": [
+   "7-3",
+   "8-3",
+   "8-6",
+   "9-46",
+   "9-47",
+   "9-98"
+  ],
+  "dm": {
+   "craving": 5,
+   "Craving": 1
+  },
+  "gm": {
+   "craving": 4,
+   "Craving": 2
+  },
+  "status": {
+   "agree": 6
+  }
+ },
+ {
+  "bo": "རང་བཞིན",
+  "count": 6,
+  "occurrences": [
+   "8-55",
+   "8-67",
+   "9-103",
+   "9-128",
+   "9-130",
+   "9-148"
+  ],
+  "dm": {
+   "nature": 3,
+   "natural state": 1,
+   "by nature": 1,
+   "natures": 1
+  },
+  "gm": {
+   "nature": 3,
+   "natures": 2,
+   "by nature": 1
+  },
+  "status": {
+   "agree": 4,
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "དེ་ཉིད",
+  "count": 6,
+  "occurrences": [
+   "9-8",
+   "9-39",
+   "9-136",
+   "9-150",
+   "9-152",
+   "9-157"
+  ],
+  "dm": {
+   "reality": 3,
+   "ultimate": 1,
+   "truth": 1,
+   "true reality": 1
+  },
+  "gm": {
+   "reality": 5,
+   "in reality": 1
+  },
+  "status": {
+   "agree": 3,
+   "disagree": 3
+  }
+ },
+ {
+  "bo": "དངོས་མེད",
+  "count": 6,
+  "occurrences": [
+   "9-28",
+   "9-33",
+   "9-34",
+   "9-139",
+   "9-147",
+   "9-148"
+  ],
+  "dm": {
+   "non-existence": 3,
+   "non-entity": 2,
+   "non-entities": 1
+  },
+  "gm": {
+   "nonentity": 3,
+   "non-entity": 2,
+   "non-entities": 1
+  },
+  "status": {
+   "agree": 3,
+   "disagree": 3
+  }
+ },
+ {
+  "bo": "སྟོང་ཉིད",
+  "count": 6,
+  "occurrences": [
+   "9-31",
+   "9-32",
+   "9-40",
+   "9-48",
+   "9-52",
+   "9-55"
+  ],
+  "dm": {
+   "emptiness": 6
+  },
+  "gm": {
+   "emptiness": 6
+  },
+  "status": {
+   "agree": 6
+  }
+ },
+ {
+  "bo": "དབང་ཕྱུག",
+  "count": 6,
+  "occurrences": [
+   "9-118",
+   "9-119",
+   "9-120",
+   "9-121",
+   "9-124",
+   "9-125"
+  ],
+  "dm": {
+   "Īśvara": 6
+  },
+  "gm": {
+   "Īśvara": 6
+  },
+  "status": {
+   "agree": 6
+  }
+ },
+ {
+  "bo": "མཁན་པོ",
+  "count": 5,
+  "occurrences": [
+   "2-25",
+   "5-30",
+   "b-1",
+   "b-2",
+   "b-3"
+  ],
+  "dm": {
+   "scholar": 3,
+   "preceptors": 1,
+   "preceptor": 1
+  },
+  "gm": {
+   "preceptor": 3,
+   "preceptors": 2
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 4
+  }
+ },
+ {
+  "bo": "བླ་མ",
+  "count": 5,
+  "occurrences": [
+   "2-30",
+   "2-60",
+   "5-30",
+   "5-103",
+   "6-65"
+  ],
+  "dm": {
+   "teachers": 1,
+   "Guru": 1,
+   "spiritual master": 1,
+   "guru": 1,
+   "Gurus": 1
+  },
+  "gm": {
+   "gurus": 4,
+   "guru": 1
+  },
+  "status": {
+   "disagree": 3,
+   "agree": 2
+  }
+ },
+ {
+  "bo": "མནར་མེད",
+  "count": 5,
+  "occurrences": [
+   "4-21",
+   "5-2",
+   "6-120",
+   "8-106",
+   "8-122"
+  ],
+  "dm": {
+   "Avīci hell": 3,
+   "Incessant Hell": 2
+  },
+  "gm": {
+   "Avīci hell": 3,
+   "Avīci": 1,
+   "Incessant Hell": 1
+  },
+  "status": {
+   "disagree": 2,
+   "agree": 3
+  }
+ },
+ {
+  "bo": "ཚུལ་ཁྲིམས",
+  "count": 5,
+  "occurrences": [
+   "5-11",
+   "5-42",
+   "8-143",
+   "10-44",
+   "10-45"
+  ],
+  "dm": {
+   "ethical discipline": 3,
+   "rules of discipline": 1,
+   "discipline": 1
+  },
+  "gm": {
+   "discipline": 3,
+   "moral discipline": 1,
+   "ethical discipline": 1
+  },
+  "status": {
+   "disagree": 4,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བཀུར་སྟི",
+  "count": 5,
+  "occurrences": [
+   "5-22",
+   "5-51",
+   "6-4",
+   "6-100",
+   "8-17"
+  ],
+  "dm": {
+   "honor": 3,
+   "honors": 2
+  },
+  "gm": {
+   "honor": 3,
+   "honors": 1,
+   "respect": 1
+  },
+  "status": {
+   "agree": 4,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྦྱིན་པ",
+  "count": 5,
+  "occurrences": [
+   "5-42",
+   "5-83",
+   "6-5",
+   "6-105",
+   "7-25"
+  ],
+  "dm": {
+   "generosity": 4,
+   "giving": 1
+  },
+  "gm": {
+   "giving": 3,
+   "generosity": 2
+  },
+  "status": {
+   "disagree": 2,
+   "agree": 3
+  }
+ },
+ {
+  "bo": "ཉེས་པ",
+  "count": 5,
+  "occurrences": [
+   "5-78",
+   "6-25",
+   "7-33",
+   "7-69",
+   "7-72"
+  ],
+  "dm": {
+   "faults": 2,
+   "fault": 2,
+   "wrongdoing": 1
+  },
+  "gm": {
+   "faults": 3,
+   "Faults": 1,
+   "fault": 1
+  },
+  "status": {
+   "disagree": 2,
+   "agree": 3
+  }
+ },
+ {
+  "bo": "ཐེག་ཆེན",
+  "count": 5,
+  "occurrences": [
+   "5-102",
+   "9-41",
+   "9-42",
+   "9-43",
+   "9-49"
+  ],
+  "dm": {
+   "Mahāyāna": 4,
+   "Mahayana": 1
+  },
+  "gm": {
+   "Mahāyāna": 5
+  },
+  "status": {
+   "agree": 4,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རྙེད་པ",
+  "count": 5,
+  "occurrences": [
+   "6-55",
+   "6-59",
+   "6-60",
+   "8-20",
+   "8-23"
+  ],
+  "dm": {
+   "gains": 2,
+   "gain": 1,
+   "wealth": 1,
+   "possessions": 1
+  },
+  "gm": {
+   "gains": 4,
+   "gain": 1
+  },
+  "status": {
+   "agree": 3,
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "བརྩོན་འགྲུས",
+  "count": 5,
+  "occurrences": [
+   "7-0",
+   "7-1",
+   "7-32",
+   "7-a",
+   "8-1"
+  ],
+  "dm": {
+   "diligence": 3,
+   "Diligence": 2
+  },
+  "gm": {
+   "diligence": 1,
+   "joyful endeavor": 1,
+   "Joyous Effort": 1,
+   "joyous effort": 1
+  },
+  "status": {
+   "dm-only": 1,
+   "agree": 1,
+   "disagree": 3
+  }
+ },
+ {
+  "bo": "མཁས་པ",
+  "count": 5,
+  "occurrences": [
+   "7-27",
+   "7-28",
+   "8-3",
+   "8-19",
+   "10-46"
+  ],
+  "dm": {
+   "the wise": 3,
+   "wisdom": 2
+  },
+  "gm": {
+   "wise": 1,
+   "wisdom": 1,
+   "The wise": 1,
+   "the wise": 1,
+   "the learned": 1
+  },
+  "status": {
+   "disagree": 2,
+   "agree": 3
+  }
+ },
+ {
+  "bo": "མི་གཙང",
+  "count": 5,
+  "occurrences": [
+   "8-51",
+   "8-52",
+   "8-55",
+   "8-57",
+   "9-6"
+  ],
+  "dm": {
+   "impure": 2,
+   "filth": 2,
+   "foul": 1
+  },
+  "gm": {
+   "filth": 3,
+   "unclean": 2
+  },
+  "status": {
+   "disagree": 3,
+   "agree": 2
+  }
+ },
+ {
+  "bo": "གཟུགས",
+  "count": 5,
+  "occurrences": [
+   "9-6",
+   "9-62",
+   "9-63",
+   "9-87",
+   "9-102"
+  ],
+  "dm": {
+   "forms": 3,
+   "form": 2
+  },
+  "gm": {
+   "form": 4,
+   "forms": 1
+  },
+  "status": {
+   "agree": 3,
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "གསལ་བ",
+  "count": 5,
+  "occurrences": [
+   "9-21",
+   "9-22",
+   "9-134",
+   "9-135",
+   "9-137"
+  ],
+  "dm": {
+   "manifest": 3,
+   "luminous": 1,
+   "clear": 1
+  },
+  "gm": {
+   "luminous": 2,
+   "Manifest": 1,
+   "manifest": 1
+  },
+  "status": {
+   "agree": 3,
+   "disagree": 1,
+   "dm-only": 1
+  }
+ },
+ {
+  "bo": "ཐུབ་དབང",
+  "count": 4,
+  "occurrences": [
+   "1-7",
+   "2-14",
+   "2-15",
+   "2-19"
+  ],
+  "dm": {
+   "Lords of Sages": 4
+  },
+  "gm": {
+   "Lords of Capable Ones": 3,
+   "Lords of Sages": 1
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 3
+  }
+ },
+ {
+  "bo": "རྒྱལ་སྲས",
+  "count": 4,
+  "occurrences": [
+   "1-34",
+   "1-35",
+   "3-2",
+   "5-100"
+  ],
+  "dm": {
+   "Bodhisattvas": 2,
+   "Son of the Conquerors": 1,
+   "Sons of the Victors": 1
+  },
+  "gm": {
+   "Child of the Conquerors": 1,
+   "Children of the Conquerors": 1,
+   "Conquerors' sons": 1,
+   "Sons of the Conqueror": 1
+  },
+  "status": {
+   "disagree": 4
+  }
+ },
+ {
+  "bo": "དམ་པའི་ཆོས",
+  "count": 4,
+  "occurrences": [
+   "2-1",
+   "5-86",
+   "6-109",
+   "6-111"
+  ],
+  "dm": {
+   "sublime Dharma": 4
+  },
+  "gm": {
+   "sublime Dharma": 3,
+   "holy Dharma": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 3
+  }
+ },
+ {
+  "bo": "སངས་རྒྱས་སྲས",
+  "count": 4,
+  "occurrences": [
+   "2-1",
+   "3-25",
+   "10-34",
+   "10-38"
+  ],
+  "dm": {
+   "sons of the Buddhas": 2,
+   "Sons of the Buddha": 1,
+   "child of the Buddhas": 1
+  },
+  "gm": {
+   "children of buddhas": 2,
+   "Children of the Buddhas": 1,
+   "child of the Buddhas": 1
+  },
+  "status": {
+   "disagree": 3,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དཔག་བསམ་ཤིང",
+  "count": 4,
+  "occurrences": [
+   "2-4",
+   "9-35",
+   "10-6",
+   "10-34"
+  ],
+  "dm": {
+   "wish-fulfilling trees": 3,
+   "wish-granting tree": 1
+  },
+  "gm": {
+   "wish-fulfilling trees": 3,
+   "wish-granting tree": 1
+  },
+  "status": {
+   "agree": 4
+  }
+ },
+ {
+  "bo": "སྲས",
+  "count": 4,
+  "occurrences": [
+   "2-6",
+   "2-8",
+   "2-11",
+   "2-22"
+  ],
+  "dm": {
+   "spiritual heirs": 4
+  },
+  "gm": {
+   "Children": 4
+  },
+  "status": {
+   "disagree": 4
+  }
+ },
+ {
+  "bo": "ཐུགས་རྗེ་ཆེ",
+  "count": 4,
+  "occurrences": [
+   "2-6",
+   "2-51",
+   "6-123",
+   "6-124"
+  ],
+  "dm": {
+   "Great Compassionate Ones": 2,
+   "great compassion": 1,
+   "great compassionate": 1
+  },
+  "gm": {
+   "greatly compassionate ones": 2,
+   "great compassion": 1,
+   "greatly compassionate": 1
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 3
+  }
+ },
+ {
+  "bo": "མགོན",
+  "count": 4,
+  "occurrences": [
+   "2-7",
+   "2-29",
+   "3-17",
+   "6-126"
+  ],
+  "dm": {
+   "Protectors": 3,
+   "protector": 1
+  },
+  "gm": {
+   "Protectors": 2,
+   "protector": 1,
+   "protectors": 1
+  },
+  "status": {
+   "agree": 4
+  }
+ },
+ {
+  "bo": "དེ་བཞིན་གཤེགས",
+  "count": 4,
+  "occurrences": [
+   "2-11",
+   "2-22",
+   "6-125",
+   "9-29"
+  ],
+  "dm": {
+   "Tathāgatas": 4
+  },
+  "gm": {
+   "Tathāgatas": 4
+  },
+  "status": {
+   "agree": 4
+  }
+ },
+ {
+  "bo": "དམ་ཆོས",
+  "count": 4,
+  "occurrences": [
+   "2-21",
+   "3-31",
+   "6-64",
+   "7-15"
+  ],
+  "dm": {
+   "sublime Dharma": 4
+  },
+  "gm": {
+   "holy Dharma": 2,
+   "true Dharma": 1,
+   "sublime Dharma": 1
+  },
+  "status": {
+   "disagree": 3,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཕྱག་འཚལ",
+  "count": 4,
+  "occurrences": [
+   "2-24",
+   "2-25",
+   "2-64",
+   "10-58"
+  ],
+  "dm": {
+   "prostrate": 3,
+   "pay homage": 1
+  },
+  "gm": {
+   "pay homage": 2,
+   "Bowing down": 1,
+   "prostrate": 1
+  },
+  "status": {
+   "agree": 2,
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "བཤགས",
+  "count": 4,
+  "occurrences": [
+   "2-29",
+   "2-31",
+   "2-64",
+   "6-124"
+  ],
+  "dm": {
+   "confess": 4
+  },
+  "gm": {
+   "confess": 4
+  },
+  "status": {
+   "agree": 4
+  }
+ },
+ {
+  "bo": "དམྱལ་བའི་སྲུང་མ",
+  "count": 4,
+  "occurrences": [
+   "5-4",
+   "6-46",
+   "6-89",
+   "6-130"
+  ],
+  "dm": {
+   "guardians of hell": 2,
+   "guardians of the hell realms": 1,
+   "hell-guardians": 1
+  },
+  "gm": {
+   "guardians of hell": 2,
+   "guardians of the hells": 1,
+   "wardens of hell": 1
+  },
+  "status": {
+   "disagree": 3,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དཀའ་ཐུབ",
+  "count": 4,
+  "occurrences": [
+   "5-16",
+   "6-2",
+   "6-51",
+   "6-102"
+  ],
+  "dm": {
+   "austerity": 2,
+   "austerities": 1,
+   "ascetic practice": 1
+  },
+  "gm": {
+   "ascetic practice": 2,
+   "ascetic practices": 1,
+   "austerity": 1
+  },
+  "status": {
+   "disagree": 2,
+   "agree": 2
+  }
+ },
+ {
+  "bo": "བརྟུལ་ཞུགས",
+  "count": 4,
+  "occurrences": [
+   "5-18",
+   "5-85",
+   "5-102",
+   "10-45"
+  ],
+  "dm": {
+   "ascetic discipline": 1,
+   "ascetic vows": 1,
+   "conduct": 1,
+   "spiritual conduct": 1
+  },
+  "gm": {
+   "discipline": 2,
+   "ascetic practice": 1,
+   "vows": 1
+  },
+  "status": {
+   "disagree": 4
+  }
+ },
+ {
+  "bo": "རྙེད",
+  "count": 4,
+  "occurrences": [
+   "5-22",
+   "5-51",
+   "6-100",
+   "8-3"
+  ],
+  "dm": {
+   "gain": 3,
+   "gains": 1
+  },
+  "gm": {
+   "gain": 4
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 3
+  }
+ },
+ {
+  "bo": "ལེ་ལོ",
+  "count": 4,
+  "occurrences": [
+   "5-53",
+   "7-2",
+   "7-3",
+   "7-7"
+  ],
+  "dm": {
+   "laziness": 3,
+   "Laziness": 1
+  },
+  "gm": {
+   "laziness": 2,
+   "Laziness": 2
+  },
+  "status": {
+   "agree": 4
+  }
+ },
+ {
+  "bo": "གཉེན་པོ",
+  "count": 4,
+  "occurrences": [
+   "5-54",
+   "5-81",
+   "9-54",
+   "9-92"
+  ],
+  "dm": {
+   "antidote": 4
+  },
+  "gm": {
+   "antidote": 4
+  },
+  "status": {
+   "agree": 4
+  }
+ },
+ {
+  "bo": "གནོད་པ",
+  "count": 4,
+  "occurrences": [
+   "6-14",
+   "6-16",
+   "6-18",
+   "6-19"
+  ],
+  "dm": {
+   "harm": 3,
+   "harms": 1
+  },
+  "gm": {
+   "harms": 3,
+   "harm": 1
+  },
+  "status": {
+   "agree": 2,
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "རྟག",
+  "count": 4,
+  "occurrences": [
+   "6-29",
+   "9-60",
+   "9-65",
+   "9-121"
+  ],
+  "dm": {
+   "permanent": 3,
+   "eternal": 1
+  },
+  "gm": {
+   "permanent": 4
+  },
+  "status": {
+   "agree": 3,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "གྲགས་པ",
+  "count": 4,
+  "occurrences": [
+   "6-90",
+   "6-92",
+   "8-20",
+   "9-6"
+  ],
+  "dm": {
+   "fame": 3,
+   "renown": 1
+  },
+  "gm": {
+   "fame": 3,
+   "convention": 1
+  },
+  "status": {
+   "agree": 3,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཕྲག་དོག",
+  "count": 4,
+  "occurrences": [
+   "6-98",
+   "8-12",
+   "8-139",
+   "8-159"
+  ],
+  "dm": {
+   "envy": 3,
+   "jealous": 1
+  },
+  "gm": {
+   "jealousy": 2,
+   "Envious": 1,
+   "jealous": 1
+  },
+  "status": {
+   "disagree": 4
+  }
+ },
+ {
+  "bo": "སྒྱིད་ལུག",
+  "count": 4,
+  "occurrences": [
+   "7-2",
+   "7-16",
+   "7-17",
+   "7-30"
+  ],
+  "dm": {
+   "despondency": 3,
+   "discouraged": 1
+  },
+  "gm": {
+   "Despondency": 1,
+   "despondency": 1,
+   "despondent": 1,
+   "despair": 1
+  },
+  "status": {
+   "agree": 2,
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "གཡེང་བ",
+  "count": 4,
+  "occurrences": [
+   "7-15",
+   "8-2",
+   "8-37",
+   "10-43"
+  ],
+  "dm": {
+   "distractions": 3,
+   "Distractions": 1
+  },
+  "gm": {
+   "distractions": 2,
+   "distraction": 1,
+   "Distraction": 1
+  },
+  "status": {
+   "disagree": 2,
+   "agree": 2
+  }
+ },
+ {
+  "bo": "དབེན་པ",
+  "count": 4,
+  "occurrences": [
+   "8-2",
+   "8-84",
+   "8-88",
+   "10-43"
+  ],
+  "dm": {
+   "solitude": 4
+  },
+  "gm": {
+   "solitude": 2,
+   "isolation": 1,
+   "solitary places": 1
+  },
+  "status": {
+   "disagree": 2,
+   "agree": 2
+  }
+ },
+ {
+  "bo": "ཚེ་རབས",
+  "count": 4,
+  "occurrences": [
+   "8-5",
+   "10-27",
+   "10-51",
+   "10-52"
+  ],
+  "dm": {
+   "past lives": 2,
+   "lifetimes": 1,
+   "lives": 1
+  },
+  "gm": {
+   "lifetimes": 2,
+   "past lives": 2
+  },
+  "status": {
+   "agree": 3,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "མྱ་ངན",
+  "count": 4,
+  "occurrences": [
+   "8-7",
+   "8-35",
+   "8-36",
+   "9-106"
+  ],
+  "dm": {
+   "mourning": 2,
+   "grief": 1,
+   "nirvana": 1
+  },
+  "gm": {
+   "sorrow": 1,
+   "mourning": 1,
+   "grief": 1,
+   "nirvāṇa": 1
+  },
+  "status": {
+   "disagree": 3,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཙནྡན",
+  "count": 4,
+  "occurrences": [
+   "8-46",
+   "8-64",
+   "8-66",
+   "8-85"
+  ],
+  "dm": {
+   "sandalwood": 3,
+   "Sandalwood": 1
+  },
+  "gm": {
+   "sandalwood": 3,
+   "Sandalwood": 1
+  },
+  "status": {
+   "agree": 4
+  }
+ },
+ {
+  "bo": "འདོད་ལྡན",
+  "count": 4,
+  "occurrences": [
+   "8-49",
+   "8-72",
+   "8-77",
+   "8-82"
+  ],
+  "dm": {
+   "lustful": 2,
+   "full of desire": 1,
+   "possessed by desire": 1
+  },
+  "gm": {
+   "with desires": 2,
+   "lustful": 1,
+   "desires": 1
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 3
+  }
+ },
+ {
+  "bo": "གྲོལ",
+  "count": 4,
+  "occurrences": [
+   "8-78",
+   "8-107",
+   "9-40",
+   "9-45"
+  ],
+  "dm": {
+   "liberated": 3,
+   "Liberation": 1
+  },
+  "gm": {
+   "liberated": 3,
+   "liberation": 1
+  },
+  "status": {
+   "disagree": 2,
+   "agree": 2
+  }
+ },
+ {
+  "bo": "རྣམ་རྟོག",
+  "count": 4,
+  "occurrences": [
+   "8-88",
+   "8-139",
+   "9-107",
+   "9-140"
+  ],
+  "dm": {
+   "discursive thoughts": 1,
+   "conceptual doubt": 1,
+   "conceptualization": 1,
+   "conceptual thought": 1
+  },
+  "gm": {
+   "conceptualization": 2,
+   "discursive thoughts": 1,
+   "conception": 1
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 3
+  }
+ },
+ {
+  "bo": "རྒྱུད",
+  "count": 4,
+  "occurrences": [
+   "8-100",
+   "8-106",
+   "9-72",
+   "10-46"
+  ],
+  "dm": {
+   "continua": 1,
+   "mind-streams": 1,
+   "continuum": 1,
+   "mental continuums": 1
+  },
+  "gm": {
+   "continuum": 2,
+   "continuums": 1,
+   "mindstreams": 1
+  },
+  "status": {
+   "disagree": 3,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བློ",
+  "count": 4,
+  "occurrences": [
+   "9-2",
+   "9-21",
+   "9-33",
+   "9-34"
+  ],
+  "dm": {
+   "mind": 3,
+   "intellect": 1
+  },
+  "gm": {
+   "intellect": 2,
+   "mind": 2
+  },
+  "status": {
+   "agree": 3,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རྣལ་འབྱོར་པ",
+  "count": 4,
+  "occurrences": [
+   "9-3",
+   "9-4",
+   "9-5",
+   "9-92"
+  ],
+  "dm": {
+   "yogis": 2,
+   "yogic": 1,
+   "yogi": 1
+  },
+  "gm": {
+   "Yogis": 2,
+   "yogis": 1,
+   "yogi": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 3
+  }
+ },
+ {
+  "bo": "ལུང",
+  "count": 4,
+  "occurrences": [
+   "9-39",
+   "9-40",
+   "9-41",
+   "9-43"
+  ],
+  "dm": {
+   "scriptures": 4
+  },
+  "gm": {
+   "scriptures": 3,
+   "scripture": 1
+  },
+  "status": {
+   "agree": 3,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྟོང་པ་ཉིད",
+  "count": 4,
+  "occurrences": [
+   "9-53",
+   "9-54",
+   "9-138",
+   "9-167"
+  ],
+  "dm": {
+   "emptiness": 3,
+   "Emptiness": 1
+  },
+  "gm": {
+   "emptiness": 3,
+   "Emptiness": 1
+  },
+  "status": {
+   "agree": 4
+  }
+ },
+ {
+  "bo": "རྨི་ལམ",
+  "count": 4,
+  "occurrences": [
+   "9-87",
+   "9-99",
+   "9-140",
+   "9-150"
+  ],
+  "dm": {
+   "dream": 3,
+   "dreams": 1
+  },
+  "gm": {
+   "dream": 4
+  },
+  "status": {
+   "agree": 3,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རྣམ་དཔྱོད",
+  "count": 4,
+  "occurrences": [
+   "9-92",
+   "9-109",
+   "9-110",
+   "9-160"
+  ],
+  "dm": {
+   "analysis": 2,
+   "analytical investigation": 1,
+   "analytical discernment": 1
+  },
+  "gm": {
+   "analysis": 2,
+   "analytical discernment": 1,
+   "Discernment": 1
+  },
+  "status": {
+   "disagree": 2,
+   "agree": 2
+  }
+ },
+ {
+  "bo": "ཡོན་ཏན་རྒྱ་མཚོ",
+  "count": 3,
+  "occurrences": [
+   "2-1",
+   "2-23",
+   "6-116"
+  ],
+  "dm": {
+   "oceans of excellence": 2,
+   "oceans of virtue": 1
+  },
+  "gm": {
+   "oceans of qualities": 2,
+   "ocean of qualities": 1
+  },
+  "status": {
+   "disagree": 3
+  }
+ },
+ {
+  "bo": "རྒྱལ",
+  "count": 3,
+  "occurrences": [
+   "2-8",
+   "5-98",
+   "9-9"
+  ],
+  "dm": {
+   "Victors": 2,
+   "Conqueror": 1
+  },
+  "gm": {
+   "Conquerors": 2,
+   "Victorious One": 1
+  },
+  "status": {
+   "disagree": 3
+  }
+ },
+ {
+  "bo": "པདྨ",
+  "count": 3,
+  "occurrences": [
+   "2-15",
+   "7-44",
+   "8-56"
+  ],
+  "dm": {
+   "lotus": 2,
+   "lotuses": 1
+  },
+  "gm": {
+   "lotus": 2,
+   "lotuses": 1
+  },
+  "status": {
+   "agree": 3
+  }
+ },
+ {
+  "bo": "ཐུགས་རྗེ",
+  "count": 3,
+  "occurrences": [
+   "2-18",
+   "2-50",
+   "6-126"
+  ],
+  "dm": {
+   "compassion": 2,
+   "compassionate": 1
+  },
+  "gm": {
+   "compassion": 2,
+   "compassionate": 1
+  },
+  "status": {
+   "agree": 3
+  }
+ },
+ {
+  "bo": "མཆོད་རྟེན",
+  "count": 3,
+  "occurrences": [
+   "2-21",
+   "2-25",
+   "6-64"
+  ],
+  "dm": {
+   "reliquaries": 2,
+   "stupas": 1
+  },
+  "gm": {
+   "Stūpas": 1,
+   "stūpas": 1,
+   "stupas": 1
+  },
+  "status": {
+   "disagree": 2,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཚོགས",
+  "count": 3,
+  "occurrences": [
+   "2-26",
+   "8-100",
+   "9-101"
+  ],
+  "dm": {
+   "assembly": 1,
+   "assemblies": 1,
+   "collection": 1
+  },
+  "gm": {
+   "Assembly": 1,
+   "collection": 1,
+   "aggregate": 1
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "འདྲེན་པ",
+  "count": 3,
+  "occurrences": [
+   "2-31",
+   "2-65",
+   "7-25"
+  ],
+  "dm": {
+   "Guides": 2,
+   "Guide": 1
+  },
+  "gm": {
+   "Guides": 1,
+   "guides": 1,
+   "Guide": 1
+  },
+  "status": {
+   "agree": 3
+  }
+ },
+ {
+  "bo": "གཤིན་རྗེའི་ཕོ་ཉ",
+  "count": 3,
+  "occurrences": [
+   "2-41",
+   "2-44",
+   "7-9"
+  ],
+  "dm": {
+   "messengers of the Lord of Death": 3
+  },
+  "gm": {
+   "messengers of Yama": 2,
+   "Yama's messengers": 1
+  },
+  "status": {
+   "disagree": 3
+  }
+ },
+ {
+  "bo": "མི་རྟག",
+  "count": 3,
+  "occurrences": [
+   "2-42",
+   "8-5",
+   "9-119"
+  ],
+  "dm": {
+   "transient": 1,
+   "impermanent": 1,
+   "Impermanent": 1
+  },
+  "gm": {
+   "impermanent": 2,
+   "Impermanent": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 2
+  }
+ },
+ {
+  "bo": "རྗེས་སུ་ཡི་རང",
+  "count": 3,
+  "occurrences": [
+   "3-1",
+   "3-2",
+   "3-3"
+  ],
+  "dm": {
+   "rejoice": 3
+  },
+  "gm": {
+   "rejoice": 3
+  },
+  "status": {
+   "agree": 3
+  }
+ },
+ {
+  "bo": "སྐྱོབ་པ",
+  "count": 3,
+  "occurrences": [
+   "3-2",
+   "3-33",
+   "5-9"
+  ],
+  "dm": {
+   "Protectors": 3
+  },
+  "gm": {
+   "protectors": 2,
+   "Saviors": 1
+  },
+  "status": {
+   "agree": 2,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རིགས",
+  "count": 3,
+  "occurrences": [
+   "3-25",
+   "3-26",
+   "8-150"
+  ],
+  "dm": {
+   "lineage": 2,
+   "family": 1
+  },
+  "gm": {
+   "family": 2,
+   "caste": 1
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "སྲིད་པ",
+  "count": 3,
+  "occurrences": [
+   "3-32",
+   "8-78",
+   "9-157"
+  ],
+  "dm": {
+   "existence": 2,
+   "cyclic existence": 1
+  },
+  "gm": {
+   "existence": 3
+  },
+  "status": {
+   "agree": 2,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བག་ཡོད",
+  "count": 3,
+  "occurrences": [
+   "4-0",
+   "7-74",
+   "8-184"
+  ],
+  "dm": {
+   "Conscientiousness": 1,
+   "heedfulness": 1,
+   "conscientiousness": 1
+  },
+  "gm": {
+   "heedfulness": 1,
+   "conscientiousness": 1
+  },
+  "status": {
+   "dm-only": 1,
+   "agree": 2
+  }
+ },
+ {
+  "bo": "ཡི་དྭགས",
+  "count": 3,
+  "occurrences": [
+   "4-5",
+   "10-16",
+   "10-17"
+  ],
+  "dm": {
+   "hungry ghosts": 2,
+   "hungry ghost": 1
+  },
+  "gm": {
+   "hungry ghosts": 2,
+   "hungry ghost": 1
+  },
+  "status": {
+   "agree": 3
+  }
+ },
+ {
+  "bo": "སྔགས",
+  "count": 3,
+  "occurrences": [
+   "4-27",
+   "5-90",
+   "9-12"
+  ],
+  "dm": {
+   "magic spell": 1,
+   "Mantra": 1,
+   "mantras": 1
+  },
+  "gm": {
+   "mantras": 2,
+   "mantra": 1
+  },
+  "status": {
+   "disagree": 2,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྦྱིན་པའི་ཕ་རོལ་ཕྱིན",
+  "count": 3,
+  "occurrences": [
+   "5-9",
+   "5-10",
+   "5-83"
+  ],
+  "dm": {
+   "perfection of generosity": 2,
+   "perfections": 1
+  },
+  "gm": {
+   "perfection of generosity": 3
+  },
+  "status": {
+   "agree": 2,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཕ་རོལ་ཕྱིན",
+  "count": 3,
+  "occurrences": [
+   "5-9",
+   "5-10",
+   "5-11"
+  ],
+  "dm": {
+   "perfection": 3
+  },
+  "gm": {
+   "perfection": 3
+  },
+  "status": {
+   "agree": 3
+  }
+ },
+ {
+  "bo": "རང་དབང",
+  "count": 3,
+  "occurrences": [
+   "5-71",
+   "6-25",
+   "8-42"
+  ],
+  "dm": {
+   "self-mastery": 1,
+   "independence": 1,
+   "independent": 1
+  },
+  "gm": {
+   "in control": 1,
+   "independence": 1,
+   "independent": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 2
+  }
+ },
+ {
+  "bo": "གཞན་གྱི་དོན",
+  "count": 3,
+  "occurrences": [
+   "5-83",
+   "6-74",
+   "8-115"
+  ],
+  "dm": {
+   "benefit of others": 2,
+   "others": 1
+  },
+  "gm": {
+   "benefit of others": 3
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 2
+  }
+ },
+ {
+  "bo": "མདོ་སྡེ",
+  "count": 3,
+  "occurrences": [
+   "5-103",
+   "5-104",
+   "9-49"
+  ],
+  "dm": {
+   "sūtras": 2,
+   "sutras": 1
+  },
+  "gm": {
+   "sūtras": 3
+  },
+  "status": {
+   "agree": 2,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཁོང་ཁྲོ",
+  "count": 3,
+  "occurrences": [
+   "6-1",
+   "8-12",
+   "8-179"
+  ],
+  "dm": {
+   "anger": 2,
+   "angry": 1
+  },
+  "gm": {
+   "anger": 3
+  },
+  "status": {
+   "agree": 2,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ནོར",
+  "count": 3,
+  "occurrences": [
+   "6-4",
+   "8-71",
+   "8-78"
+  ],
+  "dm": {
+   "wealth": 3
+  },
+  "gm": {
+   "wealth": 2,
+   "Wealth": 1
+  },
+  "status": {
+   "agree": 3
+  }
+ },
+ {
+  "bo": "གཙོ་བོ",
+  "count": 3,
+  "occurrences": [
+   "6-27",
+   "9-126",
+   "9-127"
+  ],
+  "dm": {
+   "Primal Substance": 3
+  },
+  "gm": {
+   "Pradhāna": 2,
+   "Primary Matter": 1
+  },
+  "status": {
+   "disagree": 3
+  }
+ },
+ {
+  "bo": "མཁའ",
+  "count": 3,
+  "occurrences": [
+   "6-29",
+   "9-86",
+   "9-120"
+  ],
+  "dm": {
+   "space": 3
+  },
+  "gm": {
+   "space": 3
+  },
+  "status": {
+   "agree": 3
+  }
+ },
+ {
+  "bo": "ཚེ་འདི",
+  "count": 3,
+  "occurrences": [
+   "6-54",
+   "8-8",
+   "8-131"
+  ],
+  "dm": {
+   "this life": 2,
+   "This life": 1
+  },
+  "gm": {
+   "this life": 2,
+   "This life": 1
+  },
+  "status": {
+   "agree": 3
+  }
+ },
+ {
+  "bo": "ཐུབ",
+  "count": 3,
+  "occurrences": [
+   "6-122",
+   "6-124",
+   "7-44"
+  ],
+  "dm": {
+   "Sages": 2,
+   "Sage": 1
+  },
+  "gm": {
+   "Sages": 2,
+   "Sage": 1
+  },
+  "status": {
+   "agree": 3
+  }
+ },
+ {
+  "bo": "སངས་རྒྱས་ཉིད",
+  "count": 3,
+  "occurrences": [
+   "6-132",
+   "8-82",
+   "8-130"
+  ],
+  "dm": {
+   "Buddhahood": 3
+  },
+  "gm": {
+   "Buddhahood": 3
+  },
+  "status": {
+   "agree": 3
+  }
+ },
+ {
+  "bo": "སྐྱེ་བ",
+  "count": 3,
+  "occurrences": [
+   "7-4",
+   "7-36",
+   "9-105"
+  ],
+  "dm": {
+   "rebirth": 1,
+   "birth": 1,
+   "arising": 1
+  },
+  "gm": {
+   "birth": 2,
+   "Arising": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 2
+  }
+ },
+ {
+  "bo": "མོས་པ",
+  "count": 3,
+  "occurrences": [
+   "7-39",
+   "7-40",
+   "8-22"
+  ],
+  "dm": {
+   "devotion": 1,
+   "aspiration": 1,
+   "inclinations": 1
+  },
+  "gm": {
+   "aspiration": 2,
+   "inclinations": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 2
+  }
+ },
+ {
+  "bo": "བསམ་གཏན",
+  "count": 3,
+  "occurrences": [
+   "8-0",
+   "8-a",
+   "9-92"
+  ],
+  "dm": {
+   "Meditative Concentration": 2,
+   "meditative concentration": 1
+  },
+  "gm": {
+   "Meditative Concentration": 1,
+   "concentration": 1
+  },
+  "status": {
+   "dm-only": 1,
+   "agree": 1,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཡང་དག་ཉིད",
+  "count": 3,
+  "occurrences": [
+   "8-7",
+   "9-5",
+   "9-63"
+  ],
+  "dm": {
+   "perfect reality": 1,
+   "truly real": 1,
+   "ultimate reality": 1
+  },
+  "gm": {
+   "Ultimate reality": 1,
+   "truly real": 1,
+   "ultimate reality": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 2
+  }
+ },
+ {
+  "bo": "དུར་ཁྲོད",
+  "count": 3,
+  "occurrences": [
+   "8-29",
+   "8-62",
+   "8-69"
+  ],
+  "dm": {
+   "charnel ground": 2,
+   "charnel grounds": 1
+  },
+  "gm": {
+   "charnel ground": 2,
+   "charnel grounds": 1
+  },
+  "status": {
+   "agree": 3
+  }
+ },
+ {
+  "bo": "རུས་གོང",
+  "count": 3,
+  "occurrences": [
+   "8-29",
+   "8-47",
+   "8-69"
+  ],
+  "dm": {
+   "heap of bones": 2,
+   "skeletal remains": 1
+  },
+  "gm": {
+   "bones": 1,
+   "heap of bones": 1,
+   "skeleton": 1
+  },
+  "status": {
+   "disagree": 2,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཆགས་མེད",
+  "count": 3,
+  "occurrences": [
+   "8-51",
+   "8-58",
+   "8-87"
+  ],
+  "dm": {
+   "no attachment": 2,
+   "without attachment": 1
+  },
+  "gm": {
+   "no attachment": 2,
+   "without attachment": 1
+  },
+  "status": {
+   "agree": 3
+  }
+ },
+ {
+  "bo": "བདག་མེད",
+  "count": 3,
+  "occurrences": [
+   "8-114",
+   "9-77",
+   "9-101"
+  ],
+  "dm": {
+   "selfless": 1,
+   "selflessness": 1,
+   "devoid of a self": 1
+  },
+  "gm": {
+   "selfless": 2,
+   "selflessness": 1
+  },
+  "status": {
+   "agree": 2,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "གོམས་པ",
+  "count": 3,
+  "occurrences": [
+   "8-114",
+   "8-118",
+   "9-32"
+  ],
+  "dm": {
+   "habituation": 2,
+   "habituating": 1
+  },
+  "gm": {
+   "habituation": 2,
+   "familiarizing": 1
+  },
+  "status": {
+   "agree": 2,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཚད་མ",
+  "count": 3,
+  "occurrences": [
+   "9-6",
+   "9-137",
+   "9-138"
+  ],
+  "dm": {
+   "valid authority": 2,
+   "valid cognition": 1
+  },
+  "gm": {
+   "valid cognition": 3
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "རྒྱུན",
+  "count": 3,
+  "occurrences": [
+   "9-10",
+   "9-14",
+   "9-15"
+  ],
+  "dm": {
+   "continuity": 3
+  },
+  "gm": {
+   "continuum": 3
+  },
+  "status": {
+   "disagree": 3
+  }
+ },
+ {
+  "bo": "མར་མེ",
+  "count": 3,
+  "occurrences": [
+   "9-18",
+   "9-19",
+   "9-21"
+  ],
+  "dm": {
+   "lamp": 3
+  },
+  "gm": {
+   "lamp": 3
+  },
+  "status": {
+   "agree": 3
+  }
+ },
+ {
+  "bo": "དགེ་སློང",
+  "count": 3,
+  "occurrences": [
+   "9-44",
+   "10-43",
+   "b-3"
+  ],
+  "dm": {
+   "monk": 2,
+   "monks": 1
+  },
+  "gm": {
+   "monk": 1,
+   "monks": 1,
+   "fully ordained monk": 1
+  },
+  "status": {
+   "agree": 2,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རྡུལ",
+  "count": 3,
+  "occurrences": [
+   "9-64",
+   "9-86",
+   "9-127"
+  ],
+  "dm": {
+   "rajas": 1,
+   "atoms": 1,
+   "Rajas": 1
+  },
+  "gm": {
+   "rajas": 1,
+   "particles": 1,
+   "Rajas": 1
+  },
+  "status": {
+   "agree": 2,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རྟེན",
+  "count": 3,
+  "occurrences": [
+   "9-110",
+   "9-111",
+   "9-112"
+  ],
+  "dm": {
+   "basis": 3
+  },
+  "gm": {
+   "basis": 3
+  },
+  "status": {
+   "agree": 3
+  }
+ },
+ {
+  "bo": "ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ",
+  "count": 3,
+  "occurrences": [
+   "b-1",
+   "b-2",
+   "b-3"
+  ],
+  "dm": {
+   "chief editor-translator": 1,
+   "chief editors and translators": 1,
+   "chief editor and translator": 1
+  },
+  "gm": {
+   "chief editor-translator": 2,
+   "chief editor-translators": 1
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "བདེ་གཤེགས་སྲས",
+  "count": 2,
+  "occurrences": [
+   "1-1",
+   "7-44"
+  ],
+  "dm": {
+   "Sugatas' heirs": 1,
+   "Son of the Sugata": 1
+  },
+  "gm": {
+   "heirs of the Sugatas": 1,
+   "son of the Sugata": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྲིད་པའི་སྡུག་བསྔལ",
+  "count": 2,
+  "occurrences": [
+   "1-8",
+   "8-78"
+  ],
+  "dm": {
+   "sufferings of existence": 1,
+   "suffering of cyclic existence": 1
+  },
+  "gm": {
+   "sufferings of existence": 1,
+   "miseries of existence": 1
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཆུ་ཤིང",
+  "count": 2,
+  "occurrences": [
+   "1-12",
+   "9-150"
+  ],
+  "dm": {
+   "plantain tree": 2
+  },
+  "gm": {
+   "plantain tree": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "ཕན་ཡོན",
+  "count": 2,
+  "occurrences": [
+   "1-14",
+   "7-31"
+  ],
+  "dm": {
+   "benefits": 2
+  },
+  "gm": {
+   "immeasurable benefits": 1,
+   "benefits": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བྱང་ཆུབ་སྨོན་པའི་སེམས",
+  "count": 2,
+  "occurrences": [
+   "1-15",
+   "1-17"
+  ],
+  "dm": {
+   "mind that aspires for awakening": 1,
+   "aspiring mind": 1
+  },
+  "gm": {
+   "mind aspiring to awakening": 2
+  },
+  "status": {
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "སེམས་ཅན་ཁམས",
+  "count": 2,
+  "occurrences": [
+   "1-18",
+   "3-21"
+  ],
+  "dm": {
+   "realms of sentient beings": 2
+  },
+  "gm": {
+   "realms of beings": 1,
+   "realm of sentient beings": 1
+  },
+  "status": {
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "རིན་ཆེན་སེམས",
+  "count": 2,
+  "occurrences": [
+   "1-26",
+   "2-1"
+  ],
+  "dm": {
+   "precious mind": 2
+  },
+  "gm": {
+   "jewel-like mind": 1,
+   "precious mind": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "མཆོད",
+  "count": 2,
+  "occurrences": [
+   "1-27",
+   "6-1"
+  ],
+  "dm": {
+   "worship": 1,
+   "offerings": 1
+  },
+  "gm": {
+   "offerings": 2
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྦྱིན་བདག",
+  "count": 2,
+  "occurrences": [
+   "1-34",
+   "6-84"
+  ],
+  "dm": {
+   "benefactor": 2
+  },
+  "gm": {
+   "benefactor": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "སྡིག་པ་བཤགས་པ",
+  "count": 2,
+  "occurrences": [
+   "2-0",
+   "2-a"
+  ],
+  "dm": {
+   "Confession of Negativities": 1,
+   "Confession of Sin": 1
+  },
+  "gm": {
+   "Confession of Negative Deeds": 1
+  },
+  "status": {
+   "dm-only": 1,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྐུ་གཟུགས",
+  "count": 2,
+  "occurrences": [
+   "2-21",
+   "6-64"
+  ],
+  "dm": {
+   "sacred images": 1,
+   "images": 1
+  },
+  "gm": {
+   "images": 2
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དུས་གསུམ",
+  "count": 2,
+  "occurrences": [
+   "2-24",
+   "3-10"
+  ],
+  "dm": {
+   "three times": 2
+  },
+  "gm": {
+   "three times": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "སློབ་དཔོན",
+  "count": 2,
+  "occurrences": [
+   "2-25",
+   "a-1"
+  ],
+  "dm": {
+   "masters": 1,
+   "master": 1
+  },
+  "gm": {
+   "teachers": 1,
+   "master": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཐུགས་རྗེ་ཆེན་པོ",
+  "count": 2,
+  "occurrences": [
+   "2-27",
+   "8-117"
+  ],
+  "dm": {
+   "great compassion": 2
+  },
+  "gm": {
+   "great compassion": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "དཀོན་མཆོག་གསུམ",
+  "count": 2,
+  "occurrences": [
+   "2-30",
+   "8-122"
+  ],
+  "dm": {
+   "Three Jewels": 2
+  },
+  "gm": {
+   "Three Jewels": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "བག་མེད",
+  "count": 2,
+  "occurrences": [
+   "2-42",
+   "8-170"
+  ],
+  "dm": {
+   "heedless": 1,
+   "heedlessness": 1
+  },
+  "gm": {
+   "careless": 2
+  },
+  "status": {
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "སྐྱབས",
+  "count": 2,
+  "occurrences": [
+   "2-45",
+   "2-46"
+  ],
+  "dm": {
+   "refuge": 2
+  },
+  "gm": {
+   "protection": 2
+  },
+  "status": {
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "ཀུན་དུ་བཟང",
+  "count": 2,
+  "occurrences": [
+   "2-49",
+   "10-15"
+  ],
+  "dm": {
+   "Samantabhadra": 2
+  },
+  "gm": {
+   "Samantabhadra": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "འཇམ་པའི་དབྱངས",
+  "count": 2,
+  "occurrences": [
+   "2-49",
+   "10-58"
+  ],
+  "dm": {
+   "Mañjuśrī": 1,
+   "Mañjughoṣa": 1
+  },
+  "gm": {
+   "Mañjuśrī": 2
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྤྱན་རས་གཟིགས",
+  "count": 2,
+  "occurrences": [
+   "2-50",
+   "8-117"
+  ],
+  "dm": {
+   "Avalokiteśvara": 2
+  },
+  "gm": {
+   "Avalokiteśvara": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "ནམ་མཁའི་སྙིང་པོ",
+  "count": 2,
+  "occurrences": [
+   "2-51",
+   "5-104"
+  ],
+  "dm": {
+   "Ākāśagarbha": 2
+  },
+  "gm": {
+   "Ākāśagarbha": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "མི་ཤེས",
+  "count": 2,
+  "occurrences": [
+   "2-63",
+   "3-31"
+  ],
+  "dm": {
+   "ignorance": 2
+  },
+  "gm": {
+   "ignorant": 1,
+   "ignorance": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བྱང་ཆུབ་ཀྱི་སེམས་ཡོངས་སུ་བཟུང་བ",
+  "count": 2,
+  "occurrences": [
+   "3-0",
+   "3-a"
+  ],
+  "dm": {
+   "Adopting the Bodhichitta": 1,
+   "Fully Adopting the Awakening Mind": 1
+  },
+  "gm": {
+   "Fully Taking Hold of the Awakening Mind": 1
+  },
+  "status": {
+   "dm-only": 1,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བྱང་ཆུབ་ཀྱི་སེམས",
+  "count": 2,
+  "occurrences": [
+   "3-0",
+   "3-a"
+  ],
+  "dm": {
+   "Bodhichitta": 1,
+   "Awakening Mind": 1
+  },
+  "gm": {
+   "Awakening Mind": 1
+  },
+  "status": {
+   "dm-only": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "མྱ་ངན་འདའ",
+  "count": 2,
+  "occurrences": [
+   "3-5",
+   "3-11"
+  ],
+  "dm": {
+   "nirvana": 1,
+   "transcends suffering": 1
+  },
+  "gm": {
+   "nirvana": 2
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བསྐལ་པ་གྲངས་མེད",
+  "count": 2,
+  "occurrences": [
+   "3-5",
+   "8-154"
+  ],
+  "dm": {
+   "countless eons": 2
+  },
+  "gm": {
+   "countless eons": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "མི་ཟད་གཏེར",
+  "count": 2,
+  "occurrences": [
+   "3-9",
+   "3-28"
+  ],
+  "dm": {
+   "inexhaustible treasure": 2
+  },
+  "gm": {
+   "inexhaustible treasure": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "ལམ",
+  "count": 2,
+  "occurrences": [
+   "3-17",
+   "9-40"
+  ],
+  "dm": {
+   "path": 2
+  },
+  "gm": {
+   "path": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "ལྷ་མིན",
+  "count": 2,
+  "occurrences": [
+   "3-33",
+   "4-30"
+  ],
+  "dm": {
+   "asuras": 1,
+   "demigods": 1
+  },
+  "gm": {
+   "asuras": 1,
+   "demigods": 1
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "དད",
+  "count": 2,
+  "occurrences": [
+   "4-15",
+   "10-27"
+  ],
+  "dm": {
+   "faith": 2
+  },
+  "gm": {
+   "Faith": 1,
+   "faith": 1
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "མི་ལུས",
+  "count": 2,
+  "occurrences": [
+   "4-15",
+   "4-17"
+  ],
+  "dm": {
+   "human body": 2
+  },
+  "gm": {
+   "human body": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "བཅོམ་ལྡན",
+  "count": 2,
+  "occurrences": [
+   "4-20",
+   "7-37"
+  ],
+  "dm": {
+   "Blessed One": 2
+  },
+  "gm": {
+   "Bhagavan": 1,
+   "Blessed Ones": 1
+  },
+  "status": {
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "རྣམ་ཐར",
+  "count": 2,
+  "occurrences": [
+   "4-22",
+   "5-103"
+  ],
+  "dm": {
+   "liberated": 1,
+   "life story": 1
+  },
+  "gm": {
+   "liberated": 1,
+   "liberation story": 1
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "དལ་བ",
+  "count": 2,
+  "occurrences": [
+   "4-23",
+   "9-162"
+  ],
+  "dm": {
+   "leisure": 2
+  },
+  "gm": {
+   "leisure": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "སྲེད",
+  "count": 2,
+  "occurrences": [
+   "4-28",
+   "9-152"
+  ],
+  "dm": {
+   "craving": 1,
+   "craves": 1
+  },
+  "gm": {
+   "craving": 2
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རི་རབ",
+  "count": 2,
+  "occurrences": [
+   "4-31",
+   "5-58"
+  ],
+  "dm": {
+   "Mount Meru": 2
+  },
+  "gm": {
+   "Mount Meru": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "ཕྱོགས་བཅུ",
+  "count": 2,
+  "occurrences": [
+   "4-41",
+   "10-54"
+  ],
+  "dm": {
+   "ten directions": 2
+  },
+  "gm": {
+   "ten directions": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "ཉོན་མོངས་པ",
+  "count": 2,
+  "occurrences": [
+   "4-44",
+   "8-44"
+  ],
+  "dm": {
+   "mental afflictions": 1,
+   "affliction": 1
+  },
+  "gm": {
+   "afflictive": 1
+  },
+  "status": {
+   "disagree": 1,
+   "dm-only": 1
+  }
+ },
+ {
+  "bo": "སྒྱུ",
+  "count": 2,
+  "occurrences": [
+   "4-47",
+   "9-99"
+  ],
+  "dm": {
+   "illusion": 1,
+   "illusions": 1
+  },
+  "gm": {
+   "illusion": 2
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སེམས་ཀྱི་གླང་པོ",
+  "count": 2,
+  "occurrences": [
+   "5-2",
+   "5-3"
+  ],
+  "dm": {
+   "elephant of the mind": 2
+  },
+  "gm": {
+   "elephant of the mind": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "སྲིན་པོ",
+  "count": 2,
+  "occurrences": [
+   "5-4",
+   "10-40"
+  ],
+  "dm": {
+   "demons": 1,
+   "rākṣasas": 1
+  },
+  "gm": {
+   "rākṣasas": 2
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "འཇིག་རྟེན་གསུམ",
+  "count": 2,
+  "occurrences": [
+   "5-8",
+   "6-81"
+  ],
+  "dm": {
+   "three worlds": 2
+  },
+  "gm": {
+   "three worlds": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "བཟླས་བརྗོད",
+  "count": 2,
+  "occurrences": [
+   "5-16",
+   "10-40"
+  ],
+  "dm": {
+   "recitations": 1,
+   "recitation": 1
+  },
+  "gm": {
+   "recitations": 1,
+   "recitation": 1
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "སེམས་ཀྱི་རྨ",
+  "count": 2,
+  "occurrences": [
+   "5-19",
+   "5-20"
+  ],
+  "dm": {
+   "wound of the mind": 2
+  },
+  "gm": {
+   "wound of the mind": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "བསྡུས་འཇོམས",
+  "count": 2,
+  "occurrences": [
+   "5-20",
+   "10-8"
+  ],
+  "dm": {
+   "Samghāta": 1,
+   "Crushing Hell": 1
+  },
+  "gm": {
+   "Crushing": 1,
+   "Crushing Hell": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཡིད་སྒོ",
+  "count": 2,
+  "occurrences": [
+   "5-29",
+   "5-33"
+  ],
+  "dm": {
+   "gateway of the mind": 2
+  },
+  "gm": {
+   "door of the mind": 2
+  },
+  "status": {
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "ངོ་ཚ",
+  "count": 2,
+  "occurrences": [
+   "5-32",
+   "8-165"
+  ],
+  "dm": {
+   "shame": 1,
+   "bashful": 1
+  },
+  "gm": {
+   "shame": 1,
+   "modesty": 1
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རྒོད",
+  "count": 2,
+  "occurrences": [
+   "5-49",
+   "7-15"
+  ],
+  "dm": {
+   "agitation": 1,
+   "Frivolity": 1
+  },
+  "gm": {
+   "wildness": 1,
+   "frivolity": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བདག་བསྟོད",
+  "count": 2,
+  "occurrences": [
+   "5-50",
+   "8-13"
+  ],
+  "dm": {
+   "self-praise": 1,
+   "Self-praise": 1
+  },
+  "gm": {
+   "self-praise": 1,
+   "Praising oneself": 1
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "དཔའ་བོ",
+  "count": 2,
+  "occurrences": [
+   "5-54",
+   "6-20"
+  ],
+  "dm": {
+   "heroic one": 1,
+   "heroes": 1
+  },
+  "gm": {
+   "hero": 1,
+   "heroes": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྤྲུལ་པ",
+  "count": 2,
+  "occurrences": [
+   "5-57",
+   "9-143"
+  ],
+  "dm": {
+   "emanation": 1,
+   "conjured": 1
+  },
+  "gm": {
+   "apparition": 1,
+   "emanated": 1
+  },
+  "status": {
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "མདོ",
+  "count": 2,
+  "occurrences": [
+   "5-90",
+   "9-50"
+  ],
+  "dm": {
+   "Sutra": 1,
+   "sutras": 1
+  },
+  "gm": {
+   "sutras": 1,
+   "sūtras": 1
+  },
+  "status": {
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "ཤེས་བཞིན་བསྲུང་བ",
+  "count": 2,
+  "occurrences": [
+   "5-108",
+   "5-a"
+  ],
+  "dm": {
+   "guarding introspection": 1,
+   "Guarding Introspection": 1
+  },
+  "gm": {
+   "guarding introspection": 1,
+   "Guarding Introspection": 1
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "བསྒོམ",
+  "count": 2,
+  "occurrences": [
+   "6-2",
+   "8-139"
+  ],
+  "dm": {
+   "practice": 1,
+   "Meditate": 1
+  },
+  "gm": {
+   "meditate": 2
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཞི་བ",
+  "count": 2,
+  "occurrences": [
+   "6-3",
+   "9-1"
+  ],
+  "dm": {
+   "peace": 1,
+   "pacify": 1
+  },
+  "gm": {
+   "peace": 1,
+   "pacify": 1
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "ཡིད་མི་བདེ་བ",
+  "count": 2,
+  "occurrences": [
+   "6-7",
+   "7-41"
+  ],
+  "dm": {
+   "mental unease": 1,
+   "mental unhappiness": 1
+  },
+  "gm": {
+   "Mental unhappiness": 1,
+   "mental unhappiness": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྡུག་བསྔལ་རྒྱུ",
+  "count": 2,
+  "occurrences": [
+   "6-12",
+   "9-25"
+  ],
+  "dm": {
+   "causes of suffering": 1,
+   "cause of suffering": 1
+  },
+  "gm": {
+   "causes of suffering": 1,
+   "cause of suffering": 1
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "ཐར་པ",
+  "count": 2,
+  "occurrences": [
+   "6-13",
+   "8-107"
+  ],
+  "dm": {
+   "liberation": 2
+  },
+  "gm": {
+   "liberation": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "ནད",
+  "count": 2,
+  "occurrences": [
+   "6-16",
+   "6-23"
+  ],
+  "dm": {
+   "sickness": 1,
+   "illness": 1
+  },
+  "gm": {
+   "Sickness": 1,
+   "sickness": 1
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "དྲེགས་པ",
+  "count": 2,
+  "occurrences": [
+   "6-21",
+   "8-168"
+  ],
+  "dm": {
+   "arrogance": 1,
+   "pride": 1
+  },
+  "gm": {
+   "arrogance": 2
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སེམས་ཡོད",
+  "count": 2,
+  "occurrences": [
+   "6-22",
+   "6-66"
+  ],
+  "dm": {
+   "sentient beings": 1,
+   "those with minds": 1
+  },
+  "gm": {
+   "those with minds": 1,
+   "animate": 1
+  },
+  "status": {
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "འགག་པ",
+  "count": 2,
+  "occurrences": [
+   "6-28",
+   "9-149"
+  ],
+  "dm": {
+   "cease": 1,
+   "cessation": 1
+  },
+  "gm": {
+   "cease": 1,
+   "cessation": 1
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "གློ་བུར",
+  "count": 2,
+  "occurrences": [
+   "6-40",
+   "8-163"
+  ],
+  "dm": {
+   "adventitious": 1,
+   "fleeting": 1
+  },
+  "gm": {
+   "adventitious": 2
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རལ་གྲི་ལོ་མའི་ནགས་ཚལ",
+  "count": 2,
+  "occurrences": [
+   "6-46",
+   "10-6"
+  ],
+  "dm": {
+   "forest of sword-leaves": 2
+  },
+  "gm": {
+   "forest of sword-leaves": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "ཁྲོ་བར",
+  "count": 2,
+  "occurrences": [
+   "6-46",
+   "6-49"
+  ],
+  "dm": {
+   "angry": 2
+  },
+  "gm": {
+   "angry": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "སྤྱོད་པ",
+  "count": 2,
+  "occurrences": [
+   "6-51",
+   "10-54"
+  ],
+  "dm": {
+   "conduct": 2
+  },
+  "gm": {
+   "conduct": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "སེམས་མེད",
+  "count": 2,
+  "occurrences": [
+   "6-66",
+   "9-129"
+  ],
+  "dm": {
+   "those without": 1,
+   "insentient": 1
+  },
+  "gm": {
+   "inanimate": 1,
+   "insentient": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བྱམས་སེམས",
+  "count": 2,
+  "occurrences": [
+   "6-69",
+   "6-115"
+  ],
+  "dm": {
+   "mind of mutual love": 1,
+   "loving mind": 1
+  },
+  "gm": {
+   "loving thoughts": 1,
+   "loving mind": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "རང་གི་དོན",
+  "count": 2,
+  "occurrences": [
+   "6-74",
+   "8-169"
+  ],
+  "dm": {
+   "own benefit": 1,
+   "your own interests": 1
+  },
+  "gm": {
+   "own benefit": 1,
+   "my own purpose": 1
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཕུན་སུམ་ཚོགས་པ",
+  "count": 2,
+  "occurrences": [
+   "6-98",
+   "8-125"
+  ],
+  "dm": {
+   "excellence": 2
+  },
+  "gm": {
+   "excellence": 1,
+   "excellences": 1
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "གྲོལ་བ",
+  "count": 2,
+  "occurrences": [
+   "6-100",
+   "9-52"
+  ],
+  "dm": {
+   "liberation": 1,
+   "Liberated": 1
+  },
+  "gm": {
+   "liberation": 1,
+   "freed": 1
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བཟོད",
+  "count": 2,
+  "occurrences": [
+   "6-102",
+   "6-109"
+  ],
+  "dm": {
+   "patience": 2
+  },
+  "gm": {
+   "patience": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "བཟོད་པའི་རྒྱུ",
+  "count": 2,
+  "occurrences": [
+   "6-108",
+   "6-111"
+  ],
+  "dm": {
+   "cause of patience": 2
+  },
+  "gm": {
+   "cause of patience": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "སངས་རྒྱས་ཆོས",
+  "count": 2,
+  "occurrences": [
+   "6-113",
+   "6-116"
+  ],
+  "dm": {
+   "Buddha's qualities": 1,
+   "qualities of a Buddha": 1
+  },
+  "gm": {
+   "Buddha's qualities": 1,
+   "a Buddha's qualities": 1
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "མཆོད་པ",
+  "count": 2,
+  "occurrences": [
+   "6-115",
+   "10-8"
+  ],
+  "dm": {
+   "offerings": 2
+  },
+  "gm": {
+   "offering": 1,
+   "offerings": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཁམས་གསུམ",
+  "count": 2,
+  "occurrences": [
+   "6-117",
+   "7-54"
+  ],
+  "dm": {
+   "threefold world": 1,
+   "three realms": 1
+  },
+  "gm": {
+   "three realms": 2
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "མི་མཐུན་ཕྱོགས",
+  "count": 2,
+  "occurrences": [
+   "7-2",
+   "7-32"
+  ],
+  "dm": {
+   "opposing factors": 2
+  },
+  "gm": {
+   "opposing factors": 1,
+   "discordant factors": 1
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བདག་དང་གཞན་དུ་མཉམ་པ",
+  "count": 2,
+  "occurrences": [
+   "7-16",
+   "8-89"
+  ],
+  "dm": {
+   "equality of self and others": 1,
+   "equality of oneself and others": 1
+  },
+  "gm": {
+   "Equalizing self and other": 1,
+   "equality of self and other": 1
+  },
+  "status": {
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "ཉན་ཐོས",
+  "count": 2,
+  "occurrences": [
+   "7-29",
+   "10-50"
+  ],
+  "dm": {
+   "Hearers": 1,
+   "Śrāvakas": 1
+  },
+  "gm": {
+   "Hearers": 1,
+   "śrāvakas": 1
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "མོས",
+  "count": 2,
+  "occurrences": [
+   "7-31",
+   "7-32"
+  ],
+  "dm": {
+   "aspiration": 2
+  },
+  "gm": {
+   "aspiration": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "དགའ",
+  "count": 2,
+  "occurrences": [
+   "7-31",
+   "7-32"
+  ],
+  "dm": {
+   "joy": 2
+  },
+  "gm": {
+   "joy": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "བསྐལ་པ་རྒྱ་མཚོ",
+  "count": 2,
+  "occurrences": [
+   "7-33",
+   "7-35"
+  ],
+  "dm": {
+   "ocean of eons": 2
+  },
+  "gm": {
+   "ocean of eons": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "རྣམ་སྨིན་འབྲས་བུ",
+  "count": 2,
+  "occurrences": [
+   "7-40",
+   "8-108"
+  ],
+  "dm": {
+   "results of karmic ripening": 1,
+   "ripening result": 1
+  },
+  "gm": {
+   "ripened results": 1,
+   "ripened result": 1
+  },
+  "status": {
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "མི་དགེ",
+  "count": 2,
+  "occurrences": [
+   "7-45",
+   "8-13"
+  ],
+  "dm": {
+   "non-virtues": 1,
+   "non-virtue": 1
+  },
+  "gm": {
+   "unwholesome deeds": 1,
+   "Non-virtue": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ང་རྒྱལ་དགྲ",
+  "count": 2,
+  "occurrences": [
+   "7-56",
+   "7-59"
+  ],
+  "dm": {
+   "enemy of pride": 2
+  },
+  "gm": {
+   "enemy of pride": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "དཀའ་ཐུབ་ཅན",
+  "count": 2,
+  "occurrences": [
+   "7-58",
+   "10-29"
+  ],
+  "dm": {
+   "ascetics": 2
+  },
+  "gm": {
+   "ascetics": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "གཉིད",
+  "count": 2,
+  "occurrences": [
+   "7-71",
+   "8-184"
+  ],
+  "dm": {
+   "sleep": 2
+  },
+  "gm": {
+   "sleep": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "རྣམ་པར་རྟོག་པ",
+  "count": 2,
+  "occurrences": [
+   "8-2",
+   "9-140"
+  ],
+  "dm": {
+   "discursive thoughts": 1,
+   "conceptual thought": 1
+  },
+  "gm": {
+   "discursive thoughts": 1,
+   "conceptualization": 1
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བྱིས",
+  "count": 2,
+  "occurrences": [
+   "8-12",
+   "8-15"
+  ],
+  "dm": {
+   "fool": 1,
+   "the childish": 1
+  },
+  "gm": {
+   "childish": 1,
+   "the childish": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བཤེས",
+  "count": 2,
+  "occurrences": [
+   "8-24",
+   "8-35"
+  ],
+  "dm": {
+   "friend": 1,
+   "friends": 1
+  },
+  "gm": {
+   "friends": 2
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "མཛའ་བ",
+  "count": 2,
+  "occurrences": [
+   "8-31",
+   "8-32"
+  ],
+  "dm": {
+   "loved ones": 1,
+   "friends": 1
+  },
+  "gm": {
+   "friends": 2
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "མཉམ་པར་གཞག",
+  "count": 2,
+  "occurrences": [
+   "8-38",
+   "8-185"
+  ],
+  "dm": {
+   "meditative equipoise": 2
+  },
+  "gm": {
+   "equipoise": 1,
+   "meditative equipoise": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བྱ་རྒོད",
+  "count": 2,
+  "occurrences": [
+   "8-44",
+   "8-46"
+  ],
+  "dm": {
+   "vultures": 2
+  },
+  "gm": {
+   "vultures": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "མི་གཙང་བ",
+  "count": 2,
+  "occurrences": [
+   "8-49",
+   "9-8"
+  ],
+  "dm": {
+   "impure": 2
+  },
+  "gm": {
+   "filth": 1,
+   "unclean": 1
+  },
+  "status": {
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "མི་གཙང་རྐྱལ་པ",
+  "count": 2,
+  "occurrences": [
+   "8-52",
+   "8-60"
+  ],
+  "dm": {
+   "bags of filth": 1,
+   "bags of impurity": 1
+  },
+  "gm": {
+   "bags of filth": 1,
+   "bag of filth": 1
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བརྐམ་པ",
+  "count": 2,
+  "occurrences": [
+   "8-52",
+   "8-60"
+  ],
+  "dm": {
+   "craving": 2
+  },
+  "gm": {
+   "craving": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "བདེ་སྡུག",
+  "count": 2,
+  "occurrences": [
+   "8-90",
+   "9-122"
+  ],
+  "dm": {
+   "joys and sorrows": 1,
+   "Pleasure and pain": 1
+  },
+  "gm": {
+   "happiness and suffering": 1,
+   "Happiness and suffering": 1
+  },
+  "status": {
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "བདག་ཏུ་ཞེན་པ",
+  "count": 2,
+  "occurrences": [
+   "8-91",
+   "8-92"
+  ],
+  "dm": {
+   "cling to it as \"mine,\"": 1,
+   "attachment to a self": 1
+  },
+  "gm": {
+   "clinging to self": 2
+  },
+  "status": {
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "བདག་ཏུ་འཛིན་པ",
+  "count": 2,
+  "occurrences": [
+   "8-99",
+   "8-133"
+  ],
+  "dm": {
+   "grasping at a self": 2
+  },
+  "gm": {
+   "grasping at self": 1,
+   "grasping at a self": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྙིང་རྗེའི་སེམས",
+  "count": 2,
+  "occurrences": [
+   "8-109",
+   "8-116"
+  ],
+  "dm": {
+   "heart of compassion": 1,
+   "mind of compassion": 1
+  },
+  "gm": {
+   "mind of compassion": 2
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "རྙེད་དང་བཀུར་སྟི",
+  "count": 2,
+  "occurrences": [
+   "8-146",
+   "10-57"
+  ],
+  "dm": {
+   "gain and honor": 1,
+   "support and honor": 1
+  },
+  "gm": {
+   "wealth and respect": 1,
+   "gain and honor": 1
+  },
+  "status": {
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+  "count": 2,
+  "occurrences": [
+   "9-0",
+   "9-a"
+  ],
+  "dm": {
+   "Perfection of Wisdom": 2
+  },
+  "gm": {
+   "Perfection of Wisdom": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "དོན་དམ",
+  "count": 2,
+  "occurrences": [
+   "9-2",
+   "9-13"
+  ],
+  "dm": {
+   "ultimate": 1,
+   "ultimate reality": 1
+  },
+  "gm": {
+   "ultimate": 2
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "དངོས",
+  "count": 2,
+  "occurrences": [
+   "9-5",
+   "9-7"
+  ],
+  "dm": {
+   "things": 2
+  },
+  "gm": {
+   "entities": 2
+  },
+  "status": {
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "སྒྱུ་མའི་སེམས",
+  "count": 2,
+  "occurrences": [
+   "9-11",
+   "9-12"
+  ],
+  "dm": {
+   "illusory mind": 2
+  },
+  "gm": {
+   "illusory mind": 1,
+   "Illusory minds": 1
+  },
+  "status": {
+   "agree": 1,
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རྣམ་པ",
+  "count": 2,
+  "occurrences": [
+   "9-16",
+   "9-34"
+  ],
+  "dm": {
+   "aspect": 2
+  },
+  "gm": {
+   "aspect": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "སེམས་ཉིད",
+  "count": 2,
+  "occurrences": [
+   "9-16",
+   "9-17"
+  ],
+  "dm": {
+   "mind itself": 2
+  },
+  "gm": {
+   "mind itself": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "རྣམ་ཤེས",
+  "count": 2,
+  "occurrences": [
+   "9-23",
+   "9-96"
+  ],
+  "dm": {
+   "consciousness": 2
+  },
+  "gm": {
+   "consciousness": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "བག་ཆགས",
+  "count": 2,
+  "occurrences": [
+   "9-31",
+   "9-32"
+  ],
+  "dm": {
+   "latencies": 1,
+   "latency": 1
+  },
+  "gm": {
+   "latent tendencies": 2
+  },
+  "status": {
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "མཆོད་སྡོང",
+  "count": 2,
+  "occurrences": [
+   "9-36",
+   "9-37"
+  ],
+  "dm": {
+   "shrine": 2
+  },
+  "gm": {
+   "shrine": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "དམིགས་པ",
+  "count": 2,
+  "occurrences": [
+   "9-47",
+   "9-167"
+  ],
+  "dm": {
+   "object of observation": 1,
+   "conceptual grasping": 1
+  },
+  "gm": {
+   "apprehension": 2
+  },
+  "status": {
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "བསྒོམ་པ",
+  "count": 2,
+  "occurrences": [
+   "9-48",
+   "9-77"
+  ],
+  "dm": {
+   "meditate": 1,
+   "meditating": 1
+  },
+  "gm": {
+   "meditate": 1,
+   "Meditating": 1
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "ཐེ་ཚོམ",
+  "count": 2,
+  "occurrences": [
+   "9-53",
+   "9-161"
+  ],
+  "dm": {
+   "doubt": 2
+  },
+  "gm": {
+   "hesitation": 1,
+   "doubt": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྒོམ",
+  "count": 2,
+  "occurrences": [
+   "9-54",
+   "10-43"
+  ],
+  "dm": {
+   "meditate": 2
+  },
+  "gm": {
+   "meditate": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "སྙིང་སྟོབས",
+  "count": 2,
+  "occurrences": [
+   "9-64",
+   "9-127"
+  ],
+  "dm": {
+   "sattva": 1,
+   "Sattva": 1
+  },
+  "gm": {
+   "sattva": 1,
+   "Sattva": 1
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "མུན་པ",
+  "count": 2,
+  "occurrences": [
+   "9-64",
+   "9-127"
+  ],
+  "dm": {
+   "tamas": 1,
+   "Tamas": 1
+  },
+  "gm": {
+   "Tamas": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "དབང",
+  "count": 2,
+  "occurrences": [
+   "9-93",
+   "9-102"
+  ],
+  "dm": {
+   "sense faculty": 1,
+   "sense faculties": 1
+  },
+  "gm": {
+   "sense faculties": 2
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དོན",
+  "count": 2,
+  "occurrences": [
+   "9-93",
+   "9-111"
+  ],
+  "dm": {
+   "object": 2
+  },
+  "gm": {
+   "objects": 1,
+   "object": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "རྡུལ་ཕྲན",
+  "count": 2,
+  "occurrences": [
+   "9-94",
+   "9-126"
+  ],
+  "dm": {
+   "atom": 1,
+   "atoms": 1
+  },
+  "gm": {
+   "atom": 1,
+   "atoms": 1
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "ཚོགས་པ",
+  "count": 2,
+  "occurrences": [
+   "9-96",
+   "9-124"
+  ],
+  "dm": {
+   "collection": 2
+  },
+  "gm": {
+   "aggregation": 1,
+   "collection": 1
+  },
+  "status": {
+   "disagree": 1,
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཚོར་པོ",
+  "count": 2,
+  "occurrences": [
+   "9-98",
+   "9-101"
+  ],
+  "dm": {
+   "experiencer": 2
+  },
+  "gm": {
+   "feeler": 2
+  },
+  "status": {
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "ཤེས",
+  "count": 2,
+  "occurrences": [
+   "9-104",
+   "9-137"
+  ],
+  "dm": {
+   "consciousness": 1,
+   "knowledge": 1
+  },
+  "gm": {
+   "consciousness": 1,
+   "knowledge": 1
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "འབྲས",
+  "count": 2,
+  "occurrences": [
+   "9-117",
+   "9-135"
+  ],
+  "dm": {
+   "effect": 2
+  },
+  "gm": {
+   "effects": 1,
+   "result": 1
+  },
+  "status": {
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "ས་སོགས",
+  "count": 2,
+  "occurrences": [
+   "9-119",
+   "9-121"
+  ],
+  "dm": {
+   "earth": 2
+  },
+  "gm": {
+   "earth": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "རྟག་པ",
+  "count": 2,
+  "occurrences": [
+   "9-126",
+   "9-131"
+  ],
+  "dm": {
+   "permanent": 2
+  },
+  "gm": {
+   "permanent": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "རགས་པ",
+  "count": 2,
+  "occurrences": [
+   "9-133",
+   "9-134"
+  ],
+  "dm": {
+   "coarse": 2
+  },
+  "gm": {
+   "coarseness": 2
+  },
+  "status": {
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "མི་རྟག་ཉིད",
+  "count": 2,
+  "occurrences": [
+   "9-133",
+   "9-134"
+  ],
+  "dm": {
+   "impermanent": 2
+  },
+  "gm": {
+   "impermanent": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "བདུད",
+  "count": 2,
+  "occurrences": [
+   "9-161",
+   "10-32"
+  ],
+  "dm": {
+   "Māra": 2
+  },
+  "gm": {
+   "Māra": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "བསྔོ་བ",
+  "count": 2,
+  "occurrences": [
+   "10-0",
+   "10-a"
+  ],
+  "dm": {
+   "Dedication": 2
+  },
+  "gm": {
+   "Dedication": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "ལྷ་མོ",
+  "count": 2,
+  "occurrences": [
+   "10-10",
+   "10-14"
+  ],
+  "dm": {
+   "goddesses": 2
+  },
+  "gm": {
+   "goddesses": 2
+  },
+  "status": {
+   "agree": 2
+  }
+ },
+ {
+  "bo": "སེམས་དམྱལ",
+  "count": 2,
+  "occurrences": [
+   "10-12",
+   "10-14"
+  ],
+  "dm": {
+   "denizens of hell": 2
+  },
+  "gm": {
+   "hell beings": 2
+  },
+  "status": {
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "རབ་ཏུ་བྱུང་བ",
+  "count": 2,
+  "occurrences": [
+   "10-44",
+   "10-51"
+  ],
+  "dm": {
+   "those who have gone forth": 1,
+   "the state of a renunciate": 1
+  },
+  "gm": {
+   "ordained": 1,
+   "ordination": 1
+  },
+  "status": {
+   "disagree": 2
+  }
+ },
+ {
+  "bo": "བོ་དྷི་སཏྭ་ཙརྱ་ཨ་བ་ཏཱ་ར",
+  "count": 1,
+  "occurrences": [
+   "I-1"
+  ],
+  "dm": {
+   "Bodhicaryāvatāra": 1
+  },
+  "gm": {
+   "Bodhisattvacaryāvatāra": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཆོས་ཀྱི་སྐུ",
+  "count": 1,
+  "occurrences": [
+   "1-1"
+  ],
+  "dm": {
+   "Dharmakāya": 1
+  },
+  "gm": {
+   "Dharmakāya": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྡོམ",
+  "count": 1,
+  "occurrences": [
+   "1-1"
+  ],
+  "dm": {
+   "vows": 1
+  },
+  "gm": {
+   "vows": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྐལ་བ",
+  "count": 1,
+  "occurrences": [
+   "1-3"
+  ],
+  "dm": {
+   "fortune": 1
+  },
+  "gm": {
+   "fortune": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དལ་འབྱོར",
+  "count": 1,
+  "occurrences": [
+   "1-4"
+  ],
+  "dm": {
+   "leisure and endowment": 1
+  },
+  "gm": {
+   "freedoms and advantages": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྐྱེས་བུའི་དོན",
+  "count": 1,
+  "occurrences": [
+   "1-4"
+  ],
+  "dm": {
+   "purpose of a human being": 1
+  },
+  "gm": {
+   "human purpose": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རྫོགས་པའི་བྱང་ཆུབ་སེམས",
+  "count": 1,
+  "occurrences": [
+   "1-6"
+  ],
+  "dm": {
+   "mind of perfect enlightenment": 1
+  },
+  "gm": {
+   "mind of perfect awakening": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བདེ་མཆོག",
+  "count": 1,
+  "occurrences": [
+   "1-7"
+  ],
+  "dm": {
+   "supreme bliss": 1
+  },
+  "gm": {
+   "supreme bliss": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བདེ་གཤེགས་རྣམས་ཀྱི་སྲས",
+  "count": 1,
+  "occurrences": [
+   "1-9"
+  ],
+  "dm": {
+   "children of the Sugatas": 1
+  },
+  "gm": {
+   "children of the Sugatas": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "གསེར་འགྱུར་རྩི",
+  "count": 1,
+  "occurrences": [
+   "1-10"
+  ],
+  "dm": {
+   "alchemical elixir": 1
+  },
+  "gm": {
+   "gold-making elixir": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རྒྱལ་བའི་སྐུ",
+  "count": 1,
+  "occurrences": [
+   "1-10"
+  ],
+  "dm": {
+   "Victor’s body": 1
+  },
+  "gm": {
+   "Conqueror's body": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རིན་ཆེན",
+  "count": 1,
+  "occurrences": [
+   "1-10"
+  ],
+  "dm": {
+   "Jewel": 1
+  },
+  "gm": {
+   "jewel": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "འགྲོ་བའི་དེད་དཔོན",
+  "count": 1,
+  "occurrences": [
+   "1-11"
+  ],
+  "dm": {
+   "Guide of beings": 1
+  },
+  "gm": {
+   "captain of beings": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རིན་ཆེན་བྱང་ཆུབ་སེམས",
+  "count": 1,
+  "occurrences": [
+   "1-11"
+  ],
+  "dm": {
+   "precious awakening mind": 1
+  },
+  "gm": {
+   "precious mind of awakening": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བག་ཅན",
+  "count": 1,
+  "occurrences": [
+   "1-13"
+  ],
+  "dm": {
+   "conscientious": 1
+  },
+  "gm": {
+   "conscientious": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དུས་མཐའི་མེ",
+  "count": 1,
+  "occurrences": [
+   "1-14"
+  ],
+  "dm": {
+   "fire at the end of an eon": 1
+  },
+  "gm": {
+   "fire at the end of time": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྡིག་ཆེན",
+  "count": 1,
+  "occurrences": [
+   "1-14"
+  ],
+  "dm": {
+   "great sins": 1
+  },
+  "gm": {
+   "great evils": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བྱམས་མགོན",
+  "count": 1,
+  "occurrences": [
+   "1-14"
+  ],
+  "dm": {
+   "Protector Maitreya": 1
+  },
+  "gm": {
+   "Lord Maitreya": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ནོར་བཟང",
+  "count": 1,
+  "occurrences": [
+   "1-14"
+  ],
+  "dm": {
+   "Sudhana": 1
+  },
+  "gm": {
+   "Sudhana": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བྱང་ཆུབ་འཇུག་པ",
+  "count": 1,
+  "occurrences": [
+   "1-15"
+  ],
+  "dm": {
+   "mind that engages in awakening": 1
+  },
+  "gm": {
+   "mind entering awakening": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "འཇུག་པའི་སེམས",
+  "count": 1,
+  "occurrences": [
+   "1-17"
+  ],
+  "dm": {
+   "engaging mind": 1
+  },
+  "gm": {
+   "mind entering awakening": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ལག་བཟང",
+  "count": 1,
+  "occurrences": [
+   "1-20"
+  ],
+  "dm": {
+   "Subāhu": 1
+  },
+  "gm": {
+   "Subāhu": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ལག་བཟང་གིས་ནི་ཞུས་པ",
+  "count": 1,
+  "occurrences": [
+   "1-20"
+  ],
+  "dm": {},
+  "gm": {
+   "Questions of Subāhu": 1
+  },
+  "status": {
+   "gm-only": 1
+  }
+ },
+ {
+  "bo": "དམན་མོས",
+  "count": 1,
+  "occurrences": [
+   "1-20"
+  ],
+  "dm": {
+   "lesser aspirations": 1
+  },
+  "gm": {
+   "lesser inclination": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "དྲང་སྲོང",
+  "count": 1,
+  "occurrences": [
+   "1-23"
+  ],
+  "dm": {
+   "sages": 1
+  },
+  "gm": {
+   "sages": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཚངས་པ",
+  "count": 1,
+  "occurrences": [
+   "1-23"
+  ],
+  "dm": {
+   "Brahmā": 1
+  },
+  "gm": {
+   "Brahmā": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སེམས་ཀྱི་རིན་ཆེན",
+  "count": 1,
+  "occurrences": [
+   "1-25"
+  ],
+  "dm": {
+   "jewel of the mind": 1
+  },
+  "gm": {
+   "jewel of a mind": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "དགེ་བ་བྱེད་པ",
+  "count": 1,
+  "occurrences": [
+   "1-32"
+  ],
+  "dm": {
+   "doer of virtue": 1
+  },
+  "gm": {
+   "doer of virtue": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བདེ་བར་གཤེགས",
+  "count": 1,
+  "occurrences": [
+   "1-33"
+  ],
+  "dm": {
+   "Sugatas": 1
+  },
+  "gm": {
+   "Sugatas": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ངན་སེམས",
+  "count": 1,
+  "occurrences": [
+   "1-34"
+  ],
+  "dm": {
+   "malicious thought": 1
+  },
+  "gm": {
+   "evil thought": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སེམས་ཀྱི་དམ་པ་རིན་ཆེན",
+  "count": 1,
+  "occurrences": [
+   "1-36"
+  ],
+  "dm": {
+   "most precious and excellent mind": 1
+  },
+  "gm": {
+   "supreme, precious mind": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བྱང་ཆུབ་སེམས་ཀྱི་ཕན་ཡོན་བཤད་པ",
+  "count": 1,
+  "occurrences": [
+   "1-a"
+  ],
+  "dm": {
+   "Explaining the Benefits of the Awakening Mind": 1
+  },
+  "gm": {
+   "Explaining the Benefits of the Awakening Mind": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དཀོན་མཆོག",
+  "count": 1,
+  "occurrences": [
+   "2-1"
+  ],
+  "dm": {
+   "Jewel": 1
+  },
+  "gm": {
+   "Jewel": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "རིན་ཆེན་ཤིང",
+  "count": 1,
+  "occurrences": [
+   "2-4"
+  ],
+  "dm": {
+   "jewel trees": 1
+  },
+  "gm": {
+   "jewel trees": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཡོན་གནས",
+  "count": 1,
+  "occurrences": [
+   "2-6"
+  ],
+  "dm": {
+   "objects of offering": 1
+  },
+  "gm": {
+   "objects of offering": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སེམས་དཔའ་མཆོག",
+  "count": 1,
+  "occurrences": [
+   "2-8"
+  ],
+  "dm": {
+   "Supreme Beings": 1
+  },
+  "gm": {
+   "Supreme Beings": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྲིད",
+  "count": 1,
+  "occurrences": [
+   "2-9"
+  ],
+  "dm": {
+   "existence": 1
+  },
+  "gm": {
+   "cyclic existence": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྡིག་ལས",
+  "count": 1,
+  "occurrences": [
+   "2-9"
+  ],
+  "dm": {
+   "misdeeds": 1
+  },
+  "gm": {
+   "negative deeds": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྐུ་ཁྲུས",
+  "count": 1,
+  "occurrences": [
+   "2-11"
+  ],
+  "dm": {
+   "bath": 1
+  },
+  "gm": {
+   "bath": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཀུན་ཏུ་བཟང",
+  "count": 1,
+  "occurrences": [
+   "2-13"
+  ],
+  "dm": {
+   "Samantabhadra": 1
+  },
+  "gm": {
+   "Samantabhadra": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "འཇིག་རྟེན་དབང་ཕྱུག",
+  "count": 1,
+  "occurrences": [
+   "2-13"
+  ],
+  "dm": {
+   "Avalokiteśvara": 1
+  },
+  "gm": {
+   "Avalokiteśvara": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྟོང་གསུམ",
+  "count": 1,
+  "occurrences": [
+   "2-14"
+  ],
+  "dm": {
+   "billion-fold world system": 1
+  },
+  "gm": {
+   "three thousandfold world systems": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "མཆོད་གནས",
+  "count": 1,
+  "occurrences": [
+   "2-15"
+  ],
+  "dm": {
+   "objects of veneration": 1
+  },
+  "gm": {
+   "objects of offering": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "མནྡ་ར",
+  "count": 1,
+  "occurrences": [
+   "2-15"
+  ],
+  "dm": {
+   "Mandārava": 1
+  },
+  "gm": {
+   "Mandāra": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཨུཏྤལ",
+  "count": 1,
+  "occurrences": [
+   "2-15"
+  ],
+  "dm": {
+   "Utpalas": 1
+  },
+  "gm": {
+   "Utpalas": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྤོས",
+  "count": 1,
+  "occurrences": [
+   "2-16"
+  ],
+  "dm": {
+   "incense": 1
+  },
+  "gm": {
+   "incense": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ལྷ་བཤོས",
+  "count": 1,
+  "occurrences": [
+   "2-16"
+  ],
+  "dm": {
+   "divine feasts": 1
+  },
+  "gm": {
+   "Divine feasts": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྒྲོན་མ",
+  "count": 1,
+  "occurrences": [
+   "2-17"
+  ],
+  "dm": {
+   "lamps": 1
+  },
+  "gm": {
+   "lamps": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "གཞལ་མེད་ཕོ་བྲང",
+  "count": 1,
+  "occurrences": [
+   "2-18"
+  ],
+  "dm": {
+   "Immeasurable palaces": 1
+  },
+  "gm": {
+   "Immeasurable palaces": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྔག་བསྔལ",
+  "count": 1,
+  "occurrences": [
+   "2-20"
+  ],
+  "dm": {
+   "suffering": 1
+  },
+  "gm": {
+   "suffering": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཚོགས་ཀྱི་མཆོག",
+  "count": 1,
+  "occurrences": [
+   "2-24"
+  ],
+  "dm": {
+   "Supreme Assembly": 1
+  },
+  "gm": {
+   "Supreme Assembly": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཞིང",
+  "count": 1,
+  "occurrences": [
+   "2-24"
+  ],
+  "dm": {
+   "realms": 1
+  },
+  "gm": {
+   "fields": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བྱང་ཆུབ་སེམས་ཀྱི་གཞི",
+  "count": 1,
+  "occurrences": [
+   "2-25"
+  ],
+  "dm": {
+   "foundations of the awakening mind": 1
+  },
+  "gm": {
+   "bases of the awakening mind": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བྱང་ཆུབ་སྙིང་པོ",
+  "count": 1,
+  "occurrences": [
+   "2-26"
+  ],
+  "dm": {
+   "heart of enlightenment": 1
+  },
+  "gm": {
+   "essence of awakening": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རྫོགས་སངས་རྒྱས",
+  "count": 1,
+  "occurrences": [
+   "2-27"
+  ],
+  "dm": {
+   "fully enlightened Buddhas": 1
+  },
+  "gm": {
+   "perfect Buddhas": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཡི་རང",
+  "count": 1,
+  "occurrences": [
+   "2-29"
+  ],
+  "dm": {
+   "rejoiced": 1
+  },
+  "gm": {
+   "rejoiced": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ལུས་ངག་དང་། ། ཡིད",
+  "count": 1,
+  "occurrences": [
+   "2-30"
+  ],
+  "dm": {
+   "body, speech, and mind": 1
+  },
+  "gm": {
+   "body, speech, And mind": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྡིག་ཅན",
+  "count": 1,
+  "occurrences": [
+   "2-31"
+  ],
+  "dm": {
+   "sinner": 1
+  },
+  "gm": {
+   "sinner": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བྱང",
+  "count": 1,
+  "occurrences": [
+   "2-32"
+  ],
+  "dm": {
+   "purified": 1
+  },
+  "gm": {
+   "purified": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ངེས་ཐར",
+  "count": 1,
+  "occurrences": [
+   "2-32"
+  ],
+  "dm": {
+   "liberated": 1
+  },
+  "gm": {
+   "freed": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "འགྲོ་བའི་མགོན",
+  "count": 1,
+  "occurrences": [
+   "2-47"
+  ],
+  "dm": {
+   "protectors of beings": 1
+  },
+  "gm": {
+   "protectors of beings": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བྱང་ཆུབ་སེམས་དཔའི་ཚོགས",
+  "count": 1,
+  "occurrences": [
+   "2-48"
+  ],
+  "dm": {
+   "assembly of Bodhisattvas": 1
+  },
+  "gm": {
+   "assembly of Bodhisattvas": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྡིག་ལྡན",
+  "count": 1,
+  "occurrences": [
+   "2-50"
+  ],
+  "dm": {
+   "sinful one": 1
+  },
+  "gm": {
+   "sinner": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ས་ཡི་སྙིང་པོ",
+  "count": 1,
+  "occurrences": [
+   "2-51"
+  ],
+  "dm": {
+   "Kṣitigarbha": 1
+  },
+  "gm": {
+   "Kṣitigarbha": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "རྡོ་རྗེ་ཅན",
+  "count": 1,
+  "occurrences": [
+   "2-52"
+  ],
+  "dm": {
+   "Wielder of the Vajra": 1
+  },
+  "gm": {
+   "Vajra-wielder": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "འདོད་ཆགས",
+  "count": 1,
+  "occurrences": [
+   "2-54"
+  ],
+  "dm": {
+   "desire": 1
+  },
+  "gm": {
+   "attachment": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "འཛམ་གླིང",
+  "count": 1,
+  "occurrences": [
+   "2-55"
+  ],
+  "dm": {
+   "Jambudvīpa": 1
+  },
+  "gm": {
+   "Jambudvīpa": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྨན་པ་ཐམས་ཅད་མཁྱེན",
+  "count": 1,
+  "occurrences": [
+   "2-56"
+  ],
+  "dm": {
+   "Omniscient Physician": 1
+  },
+  "gm": {
+   "omniscient physician": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དཔག་ཚད",
+  "count": 1,
+  "occurrences": [
+   "2-57"
+  ],
+  "dm": {
+   "leagues": 1
+  },
+  "gm": {
+   "yojanas": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "མི་དགེ་བ",
+  "count": 1,
+  "occurrences": [
+   "2-62"
+  ],
+  "dm": {
+   "non-virtue": 1
+  },
+  "gm": {
+   "non-virtue": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "རང་བཞིན་ཁ་ན་མ་ཐོ",
+  "count": 1,
+  "occurrences": [
+   "2-63"
+  ],
+  "dm": {
+   "natural misdeeds": 1
+  },
+  "gm": {
+   "Natural misdeeds": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བཅས་པའི་སྡིག་པ",
+  "count": 1,
+  "occurrences": [
+   "2-63"
+  ],
+  "dm": {
+   "proscribed sins": 1
+  },
+  "gm": {
+   "proscribed negative deeds": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཐལ་སྦྱར",
+  "count": 1,
+  "occurrences": [
+   "2-64"
+  ],
+  "dm": {
+   "palms joined": 1
+  },
+  "gm": {
+   "palms joined": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ངེས་པར་ཐར",
+  "count": 1,
+  "occurrences": [
+   "3-2"
+  ],
+  "dm": {
+   "definite liberation": 1
+  },
+  "gm": {
+   "definite liberation": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "རྒྱལ་སྲས་ས",
+  "count": 1,
+  "occurrences": [
+   "3-2"
+  ],
+  "dm": {
+   "levels of the Bodhisattvas": 1
+  },
+  "gm": {
+   "stages of the Conquerors' sons": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཐུགས་བསྐྱེད",
+  "count": 1,
+  "occurrences": [
+   "3-3"
+  ],
+  "dm": {
+   "generation of the mind of awakening": 1
+  },
+  "gm": {
+   "generating the awakening mind": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཆོས་ཀྱི་སྒྲོན་མ",
+  "count": 1,
+  "occurrences": [
+   "3-4"
+  ],
+  "dm": {
+   "lamp of the Dharma": 1
+  },
+  "gm": {
+   "lamp of Dharma": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "མུ་གེའི་བསྐལ་པ་བར་མ",
+  "count": 1,
+  "occurrences": [
+   "3-8"
+  ],
+  "dm": {
+   "intermediate eon of famine": 1
+  },
+  "gm": {
+   "intermediate eon of famine": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ལོངས་སྤྱོད",
+  "count": 1,
+  "occurrences": [
+   "3-10"
+  ],
+  "dm": {
+   "possessions": 1
+  },
+  "gm": {
+   "wealth": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཡིད་བཞིན་ནོར",
+  "count": 1,
+  "occurrences": [
+   "3-19"
+  ],
+  "dm": {
+   "wish-fulfilling jewel": 1
+  },
+  "gm": {
+   "wish-fulfilling jewel": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བུམ་པ་བཟང",
+  "count": 1,
+  "occurrences": [
+   "3-19"
+  ],
+  "dm": {
+   "vase of excellence": 1
+  },
+  "gm": {
+   "fine vase": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རིག་སྔགས་གྲུབ",
+  "count": 1,
+  "occurrences": [
+   "3-19"
+  ],
+  "dm": {
+   "perfected mantra": 1
+  },
+  "gm": {
+   "accomplished knowledge-mantra": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྨན་ཆེན",
+  "count": 1,
+  "occurrences": [
+   "3-19"
+  ],
+  "dm": {
+   "great medicine": 1
+  },
+  "gm": {
+   "great medicine": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དཔག་བསམ་གྱི་ནི་ཤིང",
+  "count": 1,
+  "occurrences": [
+   "3-19"
+  ],
+  "dm": {
+   "wish-granting tree": 1
+  },
+  "gm": {
+   "wish-granting trees": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "འདོད་འཇོར",
+  "count": 1,
+  "occurrences": [
+   "3-19"
+  ],
+  "dm": {
+   "cow of plenty": 1
+  },
+  "gm": {
+   "cow of plenty": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "འབྱུང་བ་ཆེན་པོ",
+  "count": 1,
+  "occurrences": [
+   "3-20"
+  ],
+  "dm": {
+   "great elements": 1
+  },
+  "gm": {
+   "great elements": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བྱང་ཆུབ་ཐུགས",
+  "count": 1,
+  "occurrences": [
+   "3-22"
+  ],
+  "dm": {
+   "mind of enlightenment": 1
+  },
+  "gm": {
+   "awakening mind": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བྱང་ཆུབ་སེམས་དཔའི་བསླབ་པ",
+  "count": 1,
+  "occurrences": [
+   "3-22"
+  ],
+  "dm": {
+   "Bodhisattva trainings": 1
+  },
+  "gm": {
+   "trainings of the bodhisattvas": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "མི་ཡི་སྲིད་པ",
+  "count": 1,
+  "occurrences": [
+   "3-25"
+  ],
+  "dm": {
+   "human existence": 1
+  },
+  "gm": {
+   "human existence": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སངས་རྒྱས་རིགས",
+  "count": 1,
+  "occurrences": [
+   "3-25"
+  ],
+  "dm": {
+   "family of the Buddhas": 1
+  },
+  "gm": {
+   "family of the Buddhas": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བདུད་རྩི",
+  "count": 1,
+  "occurrences": [
+   "3-28"
+  ],
+  "dm": {
+   "nectar": 1
+  },
+  "gm": {
+   "nectar": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྲིད་ལམ",
+  "count": 1,
+  "occurrences": [
+   "3-29"
+  ],
+  "dm": {
+   "paths of cyclic existence": 1
+  },
+  "gm": {
+   "path of existence": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྤྱི་སྟེགས",
+  "count": 1,
+  "occurrences": [
+   "3-30"
+  ],
+  "dm": {
+   "universal bridge": 1
+  },
+  "gm": {
+   "universal bridge": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "རྒྱལ་བའི་སྲས",
+  "count": 1,
+  "occurrences": [
+   "4-1"
+  ],
+  "dm": {
+   "children of the Conquerors": 1
+  },
+  "gm": {
+   "son of the Conquerors": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བསླབ",
+  "count": 1,
+  "occurrences": [
+   "4-1"
+  ],
+  "dm": {
+   "trainings": 1
+  },
+  "gm": {
+   "trainings": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དེ་ཡི་སྲས",
+  "count": 1,
+  "occurrences": [
+   "4-3"
+  ],
+  "dm": {
+   "their heirs": 1
+  },
+  "gm": {
+   "their sons": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཤེས་རབ་ཆེན་པོ",
+  "count": 1,
+  "occurrences": [
+   "4-3"
+  ],
+  "dm": {
+   "great wisdom": 1
+  },
+  "gm": {
+   "great wisdom": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བླ་ན་མེད་པའི་བདེ་བ",
+  "count": 1,
+  "occurrences": [
+   "4-6"
+  ],
+  "dm": {
+   "unsurpassed bliss": 1
+  },
+  "gm": {
+   "unsurpassable happiness": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "འགྲོ་བ་ཐམས་ཅད",
+  "count": 1,
+  "occurrences": [
+   "4-6"
+  ],
+  "dm": {
+   "all beings": 1
+  },
+  "gm": {
+   "all wandering beings": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཐར་བ",
+  "count": 1,
+  "occurrences": [
+   "4-7"
+  ],
+  "dm": {
+   "liberated": 1
+  },
+  "gm": {
+   "liberated": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ལས་ཚུལ",
+  "count": 1,
+  "occurrences": [
+   "4-7"
+  ],
+  "dm": {
+   "karmic process": 1
+  },
+  "gm": {
+   "karma": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཐམས་ཅད་མཁྱེན་པ",
+  "count": 1,
+  "occurrences": [
+   "4-7"
+  ],
+  "dm": {
+   "Omniscient One": 1
+  },
+  "gm": {
+   "Omniscient One": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ས་ཐོབ་པ",
+  "count": 1,
+  "occurrences": [
+   "4-11"
+  ],
+  "dm": {
+   "bodhisattva grounds": 1
+  },
+  "gm": {
+   "grounds": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཐོག་མེད་འཁོར་བ",
+  "count": 1,
+  "occurrences": [
+   "4-21"
+  ],
+  "dm": {
+   "beginningless saṃsāra": 1
+  },
+  "gm": {
+   "beginningless saṃsāra": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དམྱལ་མེ",
+  "count": 1,
+  "occurrences": [
+   "4-25"
+  ],
+  "dm": {
+   "fires of hell": 1
+  },
+  "gm": {
+   "fire of hell": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཕན་པའི་ས",
+  "count": 1,
+  "occurrences": [
+   "4-26"
+  ],
+  "dm": {
+   "state of benefit": 1
+  },
+  "gm": {
+   "state of benefit": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "མནར་མེད་པ",
+  "count": 1,
+  "occurrences": [
+   "4-30"
+  ],
+  "dm": {
+   "Avīci hell": 1
+  },
+  "gm": {
+   "Avīci": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "དབང་ཚོགས",
+  "count": 1,
+  "occurrences": [
+   "4-47"
+  ],
+  "dm": {
+   "collection of faculties": 1
+  },
+  "gm": {
+   "sense faculties": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བག་ཡོད་བསྟན་པ",
+  "count": 1,
+  "occurrences": [
+   "4-a"
+  ],
+  "dm": {
+   "Showing Heedfulness": 1
+  },
+  "gm": {
+   "Teaching on Conscientiousness": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཡང་དག་གསུང་བ",
+  "count": 1,
+  "occurrences": [
+   "5-6"
+  ],
+  "dm": {
+   "Speaker of Truth": 1
+  },
+  "gm": {
+   "Speaker of Truth": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྡིག་སེམས",
+  "count": 1,
+  "occurrences": [
+   "5-8"
+  ],
+  "dm": {
+   "sinful mind": 1
+  },
+  "gm": {
+   "sinful mind": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན་པ",
+  "count": 1,
+  "occurrences": [
+   "5-11"
+  ],
+  "dm": {
+   "perfection of ethical discipline": 1
+  },
+  "gm": {
+   "perfection of moral discipline": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྤོང་བའི་སེམས",
+  "count": 1,
+  "occurrences": [
+   "5-11"
+  ],
+  "dm": {
+   "mind of renunciation": 1
+  },
+  "gm": {
+   "mind of renunciation": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཁྲོ་བའི་སེམས",
+  "count": 1,
+  "occurrences": [
+   "5-12"
+  ],
+  "dm": {
+   "mind of anger": 1
+  },
+  "gm": {
+   "mind of anger": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཕྱི་རོལ་དངོས་པོ",
+  "count": 1,
+  "occurrences": [
+   "5-14"
+  ],
+  "dm": {
+   "external phenomena": 1
+  },
+  "gm": {
+   "external phenomena": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཚངས",
+  "count": 1,
+  "occurrences": [
+   "5-15"
+  ],
+  "dm": {
+   "Brahmā": 1
+  },
+  "gm": {
+   "Brahmā": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སེམས་གསལ",
+  "count": 1,
+  "occurrences": [
+   "5-15"
+  ],
+  "dm": {
+   "clear mind": 1
+  },
+  "gm": {
+   "clear mind": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ལུས་ངག",
+  "count": 1,
+  "occurrences": [
+   "5-15"
+  ],
+  "dm": {
+   "body and speech": 1
+  },
+  "gm": {
+   "body and speech": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དེ་ཉིད་རིག་པ",
+  "count": 1,
+  "occurrences": [
+   "5-16"
+  ],
+  "dm": {
+   "Knower of Reality": 1
+  },
+  "gm": {
+   "Knower of Reality": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སེམས་ཀྱི་གསང",
+  "count": 1,
+  "occurrences": [
+   "5-17"
+  ],
+  "dm": {
+   "secret of the mind": 1
+  },
+  "gm": {
+   "secret of the mind": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སེམས་བསྲུང",
+  "count": 1,
+  "occurrences": [
+   "5-18"
+  ],
+  "dm": {
+   "guarding the mind": 1
+  },
+  "gm": {
+   "guarding the mind": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "རིས་འཇོམས",
+  "count": 1,
+  "occurrences": [
+   "5-20"
+  ],
+  "dm": {
+   "Raurava": 1
+  },
+  "gm": {
+   "Destroying": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཐོས་དང་བསམས་དང་བསྒོམས",
+  "count": 1,
+  "occurrences": [
+   "5-25"
+  ],
+  "dm": {
+   "heard, reflected upon, and meditated on": 1
+  },
+  "gm": {
+   "hearing, thinking, and meditating": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བརྩོན་པ",
+  "count": 1,
+  "occurrences": [
+   "5-26"
+  ],
+  "dm": {
+   "diligence": 1
+  },
+  "gm": {
+   "effort": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སངས་རྒྱས་རྗེས་དྲན་པ",
+  "count": 1,
+  "occurrences": [
+   "5-32"
+  ],
+  "dm": {
+   "recollection of the Buddha": 1
+  },
+  "gm": {
+   "recollection of the Buddhas": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སེམས་ཀྱི་གླང་ཆེན་མྱོས་པ",
+  "count": 1,
+  "occurrences": [
+   "5-40"
+  ],
+  "dm": {
+   "intoxicated elephant of the mind": 1
+  },
+  "gm": {
+   "mad elephant of the mind": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཏིང་འཛིན",
+  "count": 1,
+  "occurrences": [
+   "5-41"
+  ],
+  "dm": {
+   "meditative concentration": 1
+  },
+  "gm": {
+   "concentration": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བཏང་སྙོམས",
+  "count": 1,
+  "occurrences": [
+   "5-42"
+  ],
+  "dm": {
+   "equanimity": 1
+  },
+  "gm": {
+   "equanimity": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཉེ་ཉོན་མོངས",
+  "count": 1,
+  "occurrences": [
+   "5-44"
+  ],
+  "dm": {
+   "secondary afflictions": 1
+  },
+  "gm": {
+   "secondary affliction": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ག་ཞར",
+  "count": 1,
+  "occurrences": [
+   "5-49"
+  ],
+  "dm": {
+   "mockery": 1
+  },
+  "gm": {
+   "mockery": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "རྒྱགས",
+  "count": 1,
+  "occurrences": [
+   "5-49"
+  ],
+  "dm": {
+   "arrogance": 1
+  },
+  "gm": {
+   "arrogance": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "མཚང་འབྲུ་བ",
+  "count": 1,
+  "occurrences": [
+   "5-49"
+  ],
+  "dm": {
+   "expose others' faults": 1
+  },
+  "gm": {
+   "expose faults": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྐྱོར་འབྱིན",
+  "count": 1,
+  "occurrences": [
+   "5-49"
+  ],
+  "dm": {
+   "divisiveness": 1
+  },
+  "gm": {
+   "evasive": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སླུ་སེམས",
+  "count": 1,
+  "occurrences": [
+   "5-49"
+  ],
+  "dm": {
+   "deceit": 1
+  },
+  "gm": {
+   "deceptive mind": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "གཞན་ལ་སྨོད་པ",
+  "count": 1,
+  "occurrences": [
+   "5-50"
+  ],
+  "dm": {
+   "disparaging others": 1
+  },
+  "gm": {
+   "disparaging of others": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "འགྱོད",
+  "count": 1,
+  "occurrences": [
+   "5-50"
+  ],
+  "dm": {
+   "remorse": 1
+  },
+  "gm": {
+   "resentful": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "གྲགས",
+  "count": 1,
+  "occurrences": [
+   "5-51"
+  ],
+  "dm": {
+   "fame": 1
+  },
+  "gm": {
+   "fame": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "གཡོག་འཁོར",
+  "count": 1,
+  "occurrences": [
+   "5-51"
+  ],
+  "dm": {
+   "circle of attendants": 1
+  },
+  "gm": {
+   "attendants and retinues": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "མི་བཟོད",
+  "count": 1,
+  "occurrences": [
+   "5-53"
+  ],
+  "dm": {
+   "impatience": 1
+  },
+  "gm": {
+   "Intolerance": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྤྱི་རྟོལ",
+  "count": 1,
+  "occurrences": [
+   "5-53"
+  ],
+  "dm": {
+   "impudence": 1
+  },
+  "gm": {
+   "shamelessness": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "མུ་ཅོར",
+  "count": 1,
+  "occurrences": [
+   "5-53"
+  ],
+  "dm": {
+   "idle chatter": 1
+  },
+  "gm": {
+   "senseless talk": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རབ་དད",
+  "count": 1,
+  "occurrences": [
+   "5-55"
+  ],
+  "dm": {
+   "supreme faith": 1
+  },
+  "gm": {
+   "excellent faith": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ངོ་ཚ་ཤེས",
+  "count": 1,
+  "occurrences": [
+   "5-55"
+  ],
+  "dm": {
+   "sense of shame": 1
+  },
+  "gm": {
+   "sense of shame": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "འཇིགས་བཅས",
+  "count": 1,
+  "occurrences": [
+   "5-55"
+  ],
+  "dm": {
+   "dread of blame": 1
+  },
+  "gm": {
+   "apprehension": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བརྩེར་ལྡན",
+  "count": 1,
+  "occurrences": [
+   "5-56"
+  ],
+  "dm": {
+   "compassionate": 1
+  },
+  "gm": {
+   "compassion": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཁ་ན་མ་ཐོ་མེད",
+  "count": 1,
+  "occurrences": [
+   "5-57"
+  ],
+  "dm": {
+   "blameless": 1
+  },
+  "gm": {
+   "faultless": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "དལ་བའི་མཆོག",
+  "count": 1,
+  "occurrences": [
+   "5-58"
+  ],
+  "dm": {
+   "supreme leisure": 1
+  },
+  "gm": {
+   "supreme leisure": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཤེས་རབ་མཚོན",
+  "count": 1,
+  "occurrences": [
+   "5-62"
+  ],
+  "dm": {
+   "blade of wisdom": 1
+  },
+  "gm": {
+   "weapon of wisdom": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "མི་འོ་ཅོག་གི་ལུས",
+  "count": 1,
+  "occurrences": [
+   "5-66"
+  ],
+  "dm": {
+   "human body": 1
+  },
+  "gm": {
+   "human body": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཡིད་བཞིན་གྱི་ནི་ལུས",
+  "count": 1,
+  "occurrences": [
+   "5-70"
+  ],
+  "dm": {
+   "wish-fulfilling body": 1
+  },
+  "gm": {
+   "wish-fulfilling body": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སློབ་མ",
+  "count": 1,
+  "occurrences": [
+   "5-74"
+  ],
+  "dm": {
+   "student": 1
+  },
+  "gm": {
+   "disciple": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཐུགས་རྗེ་མངའ་བ",
+  "count": 1,
+  "occurrences": [
+   "5-84"
+  ],
+  "dm": {
+   "Compassionate One": 1
+  },
+  "gm": {
+   "Compassionate One": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཆོས་གོས་གསུམ",
+  "count": 1,
+  "occurrences": [
+   "5-85"
+  ],
+  "dm": {
+   "three religious robes": 1
+  },
+  "gm": {
+   "three Dharma robes": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "དོན་ཆེན",
+  "count": 1,
+  "occurrences": [
+   "5-87"
+  ],
+  "dm": {
+   "great purpose": 1
+  },
+  "gm": {
+   "great purpose": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཟབ་དང་རྒྱ་ཆེ",
+  "count": 1,
+  "occurrences": [
+   "5-89"
+  ],
+  "dm": {
+   "profound and vast": 1
+  },
+  "gm": {
+   "profound and vast": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ",
+  "count": 1,
+  "occurrences": [
+   "5-97"
+  ],
+  "dm": {
+   "conduct of Bodhisattvas": 1
+  },
+  "gm": {
+   "practices of the Bodhisattvas": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཕུང་པོ་གསུམ་པ",
+  "count": 1,
+  "occurrences": [
+   "5-98"
+  ],
+  "dm": {
+   "Three Heaps Sūtra": 1
+  },
+  "gm": {
+   "Triskandha": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བསྔོ",
+  "count": 1,
+  "occurrences": [
+   "5-101"
+  ],
+  "dm": {
+   "Dedicate": 1
+  },
+  "gm": {
+   "dedicate": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དགེ་བའི་བཤེས་གཉེན",
+  "count": 1,
+  "occurrences": [
+   "5-102"
+  ],
+  "dm": {
+   "spiritual friend": 1
+  },
+  "gm": {
+   "virtuous spiritual friend": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "དཔལ་འབྱུང་བ",
+  "count": 1,
+  "occurrences": [
+   "5-103"
+  ],
+  "dm": {
+   "Śrīsambhava": 1
+  },
+  "gm": {
+   "Śrīsaṃbhava": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ནམ་མཁའི་སྙིང་པོའི་མདོ་སྡེ",
+  "count": 1,
+  "occurrences": [
+   "5-104"
+  ],
+  "dm": {
+   "Ākāśagarbha Sūtra": 1
+  },
+  "gm": {
+   "Ākāśagarbha Sūtra": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བསླབ་པ་ཀུན་ལས་བཏུས་པ",
+  "count": 1,
+  "occurrences": [
+   "5-105"
+  ],
+  "dm": {
+   "Śikṣāsamuccaya": 1
+  },
+  "gm": {
+   "Śikṣāsamuccaya": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "མདོ་རྣམས་ཀུན་ལས་བཏུས་པ",
+  "count": 1,
+  "occurrences": [
+   "5-106"
+  ],
+  "dm": {
+   "Compendium of Sūtras": 1
+  },
+  "gm": {
+   "Sūtrasamuccaya": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "འཕགས་པ་ཀླུ་སྒྲུབ",
+  "count": 1,
+  "occurrences": [
+   "5-106"
+  ],
+  "dm": {
+   "noble Nāgārjuna": 1
+  },
+  "gm": {
+   "Noble Nāgārjuna": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཀླུ་སྒྲུབ",
+  "count": 1,
+  "occurrences": [
+   "5-106"
+  ],
+  "dm": {
+   "Nāgārjuna": 1
+  },
+  "gm": {
+   "Nāgārjuna": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྦྱིན",
+  "count": 1,
+  "occurrences": [
+   "6-1"
+  ],
+  "dm": {
+   "generosity": 1
+  },
+  "gm": {
+   "Generosity": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ལེགས་སྤྱང",
+  "count": 1,
+  "occurrences": [
+   "6-1"
+  ],
+  "dm": {
+   "virtuous deeds": 1
+  },
+  "gm": {
+   "good conduct": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རྗེ་དཔོན",
+  "count": 1,
+  "occurrences": [
+   "6-4"
+  ],
+  "dm": {
+   "master": 1
+  },
+  "gm": {
+   "Master": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "འདི་དང་གཞན",
+  "count": 1,
+  "occurrences": [
+   "6-6"
+  ],
+  "dm": {
+   "this life and the next": 1
+  },
+  "gm": {
+   "this life and the next": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དགྲ་བོ",
+  "count": 1,
+  "occurrences": [
+   "6-8"
+  ],
+  "dm": {
+   "enemy": 1
+  },
+  "gm": {
+   "enemy": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བདེ་བའི་རྒྱུ",
+  "count": 1,
+  "occurrences": [
+   "6-12"
+  ],
+  "dm": {
+   "causes of happiness": 1
+  },
+  "gm": {
+   "causes of happiness": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ངེས་འབྱུང",
+  "count": 1,
+  "occurrences": [
+   "6-12"
+  ],
+  "dm": {
+   "renunciation": 1
+  },
+  "gm": {
+   "renunciation": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དཀའ་ཟློག",
+  "count": 1,
+  "occurrences": [
+   "6-13"
+  ],
+  "dm": {
+   "Durgā": 1
+  },
+  "gm": {
+   "asceticism": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཀརྞ་པ",
+  "count": 1,
+  "occurrences": [
+   "6-13"
+  ],
+  "dm": {
+   "Karṇapa": 1
+  },
+  "gm": {
+   "Karṇapas": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "གོམས",
+  "count": 1,
+  "occurrences": [
+   "6-14"
+  ],
+  "dm": {
+   "habituation": 1
+  },
+  "gm": {
+   "familiarity": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྡིག་ལ",
+  "count": 1,
+  "occurrences": [
+   "6-21"
+  ],
+  "dm": {
+   "misdeeds": 1
+  },
+  "gm": {
+   "Sin": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "དགེ་ལ",
+  "count": 1,
+  "occurrences": [
+   "6-21"
+  ],
+  "dm": {
+   "virtue": 1
+  },
+  "gm": {
+   "virtue": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "མཁྲིས་པ",
+  "count": 1,
+  "occurrences": [
+   "6-22"
+  ],
+  "dm": {
+   "bile": 1
+  },
+  "gm": {
+   "bile": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཡུལ",
+  "count": 1,
+  "occurrences": [
+   "6-28"
+  ],
+  "dm": {
+   "sense objects": 1
+  },
+  "gm": {
+   "objects": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "འགྱུར་བ་མེད",
+  "count": 1,
+  "occurrences": [
+   "6-29"
+  ],
+  "dm": {
+   "unchanging": 1
+  },
+  "gm": {
+   "unchanging": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "གཞན་གྱི་དབང",
+  "count": 1,
+  "occurrences": [
+   "6-31"
+  ],
+  "dm": {
+   "dependent on other factors": 1
+  },
+  "gm": {
+   "under the power of others": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བག་མེད་པ",
+  "count": 1,
+  "occurrences": [
+   "6-35"
+  ],
+  "dm": {
+   "heedlessness": 1
+  },
+  "gm": {
+   "carelessness": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བསོད་ནམས་མ་ཡིན་སྤྱོད་པ",
+  "count": 1,
+  "occurrences": [
+   "6-36"
+  ],
+  "dm": {
+   "non-meritorious conduct": 1
+  },
+  "gm": {
+   "non-meritorious conduct": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྲེད་མདོངས",
+  "count": 1,
+  "occurrences": [
+   "6-44"
+  ],
+  "dm": {
+   "craving": 1
+  },
+  "gm": {
+   "craving": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "མངོན་པར་ཞེན་པ",
+  "count": 1,
+  "occurrences": [
+   "6-52"
+  ],
+  "dm": {
+   "attachment": 1
+  },
+  "gm": {
+   "attachment": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཚེ་གཞན",
+  "count": 1,
+  "occurrences": [
+   "6-54"
+  ],
+  "dm": {
+   "other lives": 1
+  },
+  "gm": {
+   "another": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ལོག་འཚོ",
+  "count": 1,
+  "occurrences": [
+   "6-56"
+  ],
+  "dm": {
+   "wrong livelihood": 1
+  },
+  "gm": {
+   "wrong livelihood": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "འཆི་བའི་སྡུག་བསྔལ",
+  "count": 1,
+  "occurrences": [
+   "6-56"
+  ],
+  "dm": {
+   "suffering of death": 1
+  },
+  "gm": {
+   "suffering of death": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཁྲོས",
+  "count": 1,
+  "occurrences": [
+   "6-67"
+  ],
+  "dm": {
+   "angry": 1
+  },
+  "gm": {
+   "angry": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དགའ་བ",
+  "count": 1,
+  "occurrences": [
+   "6-75"
+  ],
+  "dm": {
+   "joy": 1
+  },
+  "gm": {
+   "rejoice": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "དགའ་མི་བྱེད",
+  "count": 1,
+  "occurrences": [
+   "6-76"
+  ],
+  "dm": {
+   "rejoice": 1
+  },
+  "gm": {
+   "rejoice": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཡོན་ཏན་ལྡན་པ",
+  "count": 1,
+  "occurrences": [
+   "6-77"
+  ],
+  "dm": {
+   "endowed with excellence": 1
+  },
+  "gm": {
+   "possessing good qualities": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "མཐོང་དང་མ་མཐོང",
+  "count": 1,
+  "occurrences": [
+   "6-78"
+  ],
+  "dm": {
+   "this life and the next": 1
+  },
+  "gm": {
+   "seen and the unseen": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བྱང་ཆུབ་ཏུ་ནི་སེམས་བསྐྱེད",
+  "count": 1,
+  "occurrences": [
+   "6-80"
+  ],
+  "dm": {
+   "generated the mind of enlightenment": 1
+  },
+  "gm": {
+   "generated the mind of awakening": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "འཚང་རྒྱ་བ",
+  "count": 1,
+  "occurrences": [
+   "6-81"
+  ],
+  "dm": {
+   "Buddhahood": 1
+  },
+  "gm": {
+   "Buddhahood": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དམྱལ་བུམ་པ",
+  "count": 1,
+  "occurrences": [
+   "6-89"
+  ],
+  "dm": {
+   "cauldrons of hell": 1
+  },
+  "gm": {
+   "cauldrons of hell": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བསྟོད",
+  "count": 1,
+  "occurrences": [
+   "6-90"
+  ],
+  "dm": {
+   "praise": 1
+  },
+  "gm": {
+   "Praise": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "རིམ་གྲོས",
+  "count": 1,
+  "occurrences": [
+   "6-90"
+  ],
+  "dm": {
+   "honors": 1
+  },
+  "gm": {
+   "honor": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བསྟོད་དང་གྲགས",
+  "count": 1,
+  "occurrences": [
+   "6-93"
+  ],
+  "dm": {
+   "praise and fame": 1
+  },
+  "gm": {
+   "praise and fame": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྐྱོ་བ",
+  "count": 1,
+  "occurrences": [
+   "6-98"
+  ],
+  "dm": {
+   "disillusionment": 1
+  },
+  "gm": {
+   "disillusionment": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བྱིན་བརླབས",
+  "count": 1,
+  "occurrences": [
+   "6-101"
+  ],
+  "dm": {
+   "blessing": 1
+  },
+  "gm": {
+   "blessing": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བསོད་ནམས་རྒྱུ",
+  "count": 1,
+  "occurrences": [
+   "6-103"
+  ],
+  "dm": {
+   "cause of merit": 1
+  },
+  "gm": {
+   "cause of merit": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སློང་མོ",
+  "count": 1,
+  "occurrences": [
+   "6-105"
+  ],
+  "dm": {
+   "beggar": 1
+  },
+  "gm": {
+   "beggar": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "རབ་བྱུང",
+  "count": 1,
+  "occurrences": [
+   "6-105"
+  ],
+  "dm": {
+   "ordination": 1
+  },
+  "gm": {
+   "ordination": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བཟོད་པའི་འབྲས་བུ",
+  "count": 1,
+  "occurrences": [
+   "6-108"
+  ],
+  "dm": {
+   "fruit of this patience": 1
+  },
+  "gm": {
+   "fruit of patience": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྡང་སེམས",
+  "count": 1,
+  "occurrences": [
+   "6-111"
+  ],
+  "dm": {
+   "malice": 1
+  },
+  "gm": {
+   "hateful mind": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སེམས་ཅན་ཞིང",
+  "count": 1,
+  "occurrences": [
+   "6-112"
+  ],
+  "dm": {
+   "field of sentient beings": 1
+  },
+  "gm": {
+   "field of sentient beings": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "རྒྱལ་བའི་ཞིང",
+  "count": 1,
+  "occurrences": [
+   "6-112"
+  ],
+  "dm": {
+   "field of the Victors": 1
+  },
+  "gm": {
+   "field of the Conquerors": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཕུན་ཚོགས་ཕ་རོལ་ཕྱིན",
+  "count": 1,
+  "occurrences": [
+   "6-112"
+  ],
+  "dm": {
+   "perfection of excellence": 1
+  },
+  "gm": {
+   "far shore of excellence": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཡོན་ཏན་མཆོག",
+  "count": 1,
+  "occurrences": [
+   "6-117"
+  ],
+  "dm": {
+   "supreme excellence": 1
+  },
+  "gm": {
+   "supreme qualities": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སངས་རྒྱས་ཆོས་མཆོག",
+  "count": 1,
+  "occurrences": [
+   "6-118"
+  ],
+  "dm": {
+   "supreme Buddha-Dharma": 1
+  },
+  "gm": {
+   "supreme qualities of a Buddha": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "འཇིག་རྟེན་མགོན",
+  "count": 1,
+  "occurrences": [
+   "6-125"
+  ],
+  "dm": {
+   "Protectors of the World": 1
+  },
+  "gm": {
+   "protectors of the world": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "འཇིག་རྟེན་སྡུག་བསྔལ",
+  "count": 1,
+  "occurrences": [
+   "6-127"
+  ],
+  "dm": {
+   "suffering of the world": 1
+  },
+  "gm": {
+   "suffering of the world": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཐུགས་རྗེ་ལྡན",
+  "count": 1,
+  "occurrences": [
+   "6-130"
+  ],
+  "dm": {
+   "compassionate ones": 1
+  },
+  "gm": {
+   "compassionate ones": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "འཁོར་ཚེ",
+  "count": 1,
+  "occurrences": [
+   "6-134"
+  ],
+  "dm": {
+   "cycle of existence": 1
+  },
+  "gm": {
+   "saṃsāra": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "འཁོར་ལོས་སྒྱུར་བ",
+  "count": 1,
+  "occurrences": [
+   "6-134"
+  ],
+  "dm": {
+   "universal monarch": 1
+  },
+  "gm": {
+   "universal monarch": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བྱང་ཆུབ་སེམས་དཔ",
+  "count": 1,
+  "occurrences": [
+   "6-a"
+  ],
+  "dm": {
+   "Bodhisattva": 1
+  },
+  "gm": {
+   "Bodhisattva": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བཟོད་པ་བསྟན་པ",
+  "count": 1,
+  "occurrences": [
+   "6-a"
+  ],
+  "dm": {
+   "The Teaching on Patience": 1
+  },
+  "gm": {
+   "Teaching Patience": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བརྩོན",
+  "count": 1,
+  "occurrences": [
+   "7-2"
+  ],
+  "dm": {
+   "diligence": 1
+  },
+  "gm": {
+   "diligence": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བདག་ཉིད་བརྙས་པ",
+  "count": 1,
+  "occurrences": [
+   "7-2"
+  ],
+  "dm": {
+   "self-contempt": 1
+  },
+  "gm": {
+   "self-contempt": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྙོམ་ལས",
+  "count": 1,
+  "occurrences": [
+   "7-3"
+  ],
+  "dm": {
+   "idle": 1
+  },
+  "gm": {
+   "idleness": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "འཆི",
+  "count": 1,
+  "occurrences": [
+   "7-7"
+  ],
+  "dm": {
+   "death": 1
+  },
+  "gm": {
+   "death": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཚོགས་བསག",
+  "count": 1,
+  "occurrences": [
+   "7-7"
+  ],
+  "dm": {
+   "accumulations": 1
+  },
+  "gm": {
+   "accumulations": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "འཆི་བ",
+  "count": 1,
+  "occurrences": [
+   "7-13"
+  ],
+  "dm": {
+   "death": 1
+  },
+  "gm": {
+   "death": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "མི་ཡི་གྲུ",
+  "count": 1,
+  "occurrences": [
+   "7-14"
+  ],
+  "dm": {
+   "boat of a human form": 1
+  },
+  "gm": {
+   "boat of a human body": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྡུག་བསྔལ་ཆུ་བོ་ཆེ",
+  "count": 1,
+  "occurrences": [
+   "7-14"
+  ],
+  "dm": {
+   "great river of suffering": 1
+  },
+  "gm": {
+   "great river of suffering": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དཔུང་ཚོགས",
+  "count": 1,
+  "occurrences": [
+   "7-16"
+  ],
+  "dm": {
+   "army of forces": 1
+  },
+  "gm": {
+   "forces": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ལྷུར་བླང",
+  "count": 1,
+  "occurrences": [
+   "7-16"
+  ],
+  "dm": {
+   "earnest application": 1
+  },
+  "gm": {
+   "Applying oneself earnestly": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བདག་ཉིད་དབང་བྱ",
+  "count": 1,
+  "occurrences": [
+   "7-16"
+  ],
+  "dm": {
+   "self-mastery": 1
+  },
+  "gm": {
+   "mastering oneself": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བདག་དང་གཞན་དུ་བརྗེ་བ",
+  "count": 1,
+  "occurrences": [
+   "7-16"
+  ],
+  "dm": {
+   "exchange of self and others": 1
+  },
+  "gm": {
+   "exchanging self and other": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བདེན་པ་གསུང་བ",
+  "count": 1,
+  "occurrences": [
+   "7-17"
+  ],
+  "dm": {
+   "Speaker of Truth": 1
+  },
+  "gm": {
+   "Who speaks the truth": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བརྩོན་པའི་སྟོབས",
+  "count": 1,
+  "occurrences": [
+   "7-18"
+  ],
+  "dm": {
+   "power of diligence": 1
+  },
+  "gm": {
+   "power of effort": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྨན་པ་མཆོག",
+  "count": 1,
+  "occurrences": [
+   "7-24"
+  ],
+  "dm": {
+   "Supreme Physician": 1
+  },
+  "gm": {
+   "supreme physician": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ལོག་པར་རྟོག་པ",
+  "count": 1,
+  "occurrences": [
+   "7-27"
+  ],
+  "dm": {
+   "distorted conceptions": 1
+  },
+  "gm": {
+   "wrong conceptualizations": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྙིང་རྗེ་ཅན",
+  "count": 1,
+  "occurrences": [
+   "7-28"
+  ],
+  "dm": {
+   "those with compassion": 1
+  },
+  "gm": {
+   "compassionate ones": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བསོད་ནམས་རྒྱ་མཚོ",
+  "count": 1,
+  "occurrences": [
+   "7-29"
+  ],
+  "dm": {
+   "ocean of merit": 1
+  },
+  "gm": {
+   "ocean of merit": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བྱང་ཆུབ་སེམས་ཀྱི་རྟ",
+  "count": 1,
+  "occurrences": [
+   "7-30"
+  ],
+  "dm": {
+   "horse of the awakening mind": 1
+  },
+  "gm": {
+   "horse of the awakening mind": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དཔུང",
+  "count": 1,
+  "occurrences": [
+   "7-31"
+  ],
+  "dm": {
+   "forces": 1
+  },
+  "gm": {
+   "forces": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བརྟན",
+  "count": 1,
+  "occurrences": [
+   "7-31"
+  ],
+  "dm": {
+   "steadfastness": 1
+  },
+  "gm": {
+   "firmness": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "དོར་བ",
+  "count": 1,
+  "occurrences": [
+   "7-31"
+  ],
+  "dm": {
+   "relinquishment": 1
+  },
+  "gm": {
+   "relinquishment": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དོར",
+  "count": 1,
+  "occurrences": [
+   "7-32"
+  ],
+  "dm": {
+   "relinquishment": 1
+  },
+  "gm": {
+   "relinquishment": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ལྷུར་ལེན",
+  "count": 1,
+  "occurrences": [
+   "7-32"
+  ],
+  "dm": {
+   "Earnest application": 1
+  },
+  "gm": {
+   "earnest application": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དབང་བསྒྱུར",
+  "count": 1,
+  "occurrences": [
+   "7-32"
+  ],
+  "dm": {
+   "mastery": 1
+  },
+  "gm": {
+   "mastery": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྟོབས",
+  "count": 1,
+  "occurrences": [
+   "7-32"
+  ],
+  "dm": {
+   "powers": 1
+  },
+  "gm": {
+   "powers": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཉེས",
+  "count": 1,
+  "occurrences": [
+   "7-34"
+  ],
+  "dm": {
+   "faults": 1
+  },
+  "gm": {
+   "faults": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བསྟན",
+  "count": 1,
+  "occurrences": [
+   "7-37"
+  ],
+  "dm": {
+   "Teachings": 1
+  },
+  "gm": {
+   "teaching": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "མི་འཇིགས",
+  "count": 1,
+  "occurrences": [
+   "7-38"
+  ],
+  "dm": {
+   "fearlessness": 1
+  },
+  "gm": {
+   "fearlessness": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དགེ་བའི་ཕྱོགས",
+  "count": 1,
+  "occurrences": [
+   "7-40"
+  ],
+  "dm": {
+   "virtuous qualities": 1
+  },
+  "gm": {
+   "wholesome factors": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རྡོ་རྗེ་རྒྱལ་མཚན",
+  "count": 1,
+  "occurrences": [
+   "7-46"
+  ],
+  "dm": {
+   "Vajradhvaja": 1
+  },
+  "gm": {
+   "Vajradhvaja": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "འབྱོར་པ",
+  "count": 1,
+  "occurrences": [
+   "7-47"
+  ],
+  "dm": {
+   "resources": 1
+  },
+  "gm": {
+   "capacity": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྐྱེ་བ་གཞན",
+  "count": 1,
+  "occurrences": [
+   "7-48"
+  ],
+  "dm": {
+   "other lives": 1
+  },
+  "gm": {
+   "other lives": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ལས་ཀྱི་ང་རྒྱལ",
+  "count": 1,
+  "occurrences": [
+   "7-49"
+  ],
+  "dm": {
+   "pride of action": 1
+  },
+  "gm": {
+   "self-confidence of action": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "མཁའ་ལྡིང",
+  "count": 1,
+  "occurrences": [
+   "7-52"
+  ],
+  "dm": {
+   "Garuda": 1
+  },
+  "gm": {
+   "garuda": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "རྒྱལ་བ་སེང་གེ",
+  "count": 1,
+  "occurrences": [
+   "7-55"
+  ],
+  "dm": {
+   "Lion-like Conqueror": 1
+  },
+  "gm": {
+   "Victorious Lion": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཉོན་མོངས་ང་རྒྱལ",
+  "count": 1,
+  "occurrences": [
+   "7-57"
+  ],
+  "dm": {
+   "pride of the afflictions": 1
+  },
+  "gm": {
+   "affliction of pride": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རྒྱལ་བའི་འབྲས་བུ",
+  "count": 1,
+  "occurrences": [
+   "7-59"
+  ],
+  "dm": {
+   "fruit of the Conquerors": 1
+  },
+  "gm": {
+   "fruit of victory": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རྣམ་སྨིན",
+  "count": 1,
+  "occurrences": [
+   "7-64"
+  ],
+  "dm": {
+   "ripens": 1
+  },
+  "gm": {
+   "ripening": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བརྟུལ་ཞུགས་ཅན",
+  "count": 1,
+  "occurrences": [
+   "7-70"
+  ],
+  "dm": {
+   "practitioner": 1
+  },
+  "gm": {
+   "ascetic": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྙོམ",
+  "count": 1,
+  "occurrences": [
+   "7-71"
+  ],
+  "dm": {
+   "lethargy": 1
+  },
+  "gm": {
+   "lethargy": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྤྲོ་བ",
+  "count": 1,
+  "occurrences": [
+   "7-75"
+  ],
+  "dm": {
+   "enthusiasm": 1
+  },
+  "gm": {
+   "joy": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བརྩོན་འགྲུས་བསྟན་པ",
+  "count": 1,
+  "occurrences": [
+   "7-a"
+  ],
+  "dm": {
+   "The Explanation of Diligence": 1
+  },
+  "gm": {
+   "The Teaching on Joyous Effort": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཏིང་ངེ་འཛིན",
+  "count": 1,
+  "occurrences": [
+   "8-1"
+  ],
+  "dm": {
+   "meditative concentration": 1
+  },
+  "gm": {
+   "meditative concentration": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཞི་གནས",
+  "count": 1,
+  "occurrences": [
+   "8-4"
+  ],
+  "dm": {
+   "calm abiding": 1
+  },
+  "gm": {
+   "calm abiding": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ལྷག་མཐོང",
+  "count": 1,
+  "occurrences": [
+   "8-4"
+  ],
+  "dm": {
+   "special insight": 1
+  },
+  "gm": {
+   "special insight": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཆགས་པ་མེད",
+  "count": 1,
+  "occurrences": [
+   "8-4"
+  ],
+  "dm": {
+   "detachment": 1
+  },
+  "gm": {
+   "detachment": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "མཉམ་འཇོག",
+  "count": 1,
+  "occurrences": [
+   "8-6"
+  ],
+  "dm": {
+   "meditative equipoise": 1
+  },
+  "gm": {
+   "equipoise": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྐྱོ་བའི་སེམས",
+  "count": 1,
+  "occurrences": [
+   "8-7"
+  ],
+  "dm": {
+   "disillusionment": 1
+  },
+  "gm": {
+   "disillusionment": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "རྟག་པ་མེད་པ",
+  "count": 1,
+  "occurrences": [
+   "8-8"
+  ],
+  "dm": {
+   "impermanent": 1
+  },
+  "gm": {
+   "impermanent": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "མཛའ་བཤེས",
+  "count": 1,
+  "occurrences": [
+   "8-8"
+  ],
+  "dm": {
+   "friendships": 1
+  },
+  "gm": {
+   "friends and relatives": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སོ་སོའི་སྐྱེ་བོ",
+  "count": 1,
+  "occurrences": [
+   "8-10"
+  ],
+  "dm": {
+   "Ordinary beings": 1
+  },
+  "gm": {
+   "Ordinary people": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རྙེད་མང",
+  "count": 1,
+  "occurrences": [
+   "8-17"
+  ],
+  "dm": {
+   "gains": 1
+  },
+  "gm": {
+   "gain": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྙེམས་པ",
+  "count": 1,
+  "occurrences": [
+   "8-17"
+  ],
+  "dm": {
+   "pride": 1
+  },
+  "gm": {
+   "conceit": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཆགས་གྱུར་པ",
+  "count": 1,
+  "occurrences": [
+   "8-18"
+  ],
+  "dm": {
+   "attached": 1
+  },
+  "gm": {
+   "attached": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྙན་པ",
+  "count": 1,
+  "occurrences": [
+   "8-20"
+  ],
+  "dm": {
+   "renown": 1
+  },
+  "gm": {
+   "good reputation": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཆགས་མེད་པ",
+  "count": 1,
+  "occurrences": [
+   "8-27"
+  ],
+  "dm": {
+   "attachment": 1
+  },
+  "gm": {
+   "attachment": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ལྷུང་བཟེད",
+  "count": 1,
+  "occurrences": [
+   "8-28"
+  ],
+  "dm": {
+   "alms bowl": 1
+  },
+  "gm": {
+   "begging bowl": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྲིད་པའི་ལམ",
+  "count": 1,
+  "occurrences": [
+   "8-33"
+  ],
+  "dm": {
+   "path of existence": 1
+  },
+  "gm": {
+   "path of existence": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སངས་རྒྱས་རྗེས་དྲན",
+  "count": 1,
+  "occurrences": [
+   "8-36"
+  ],
+  "dm": {
+   "recollection of the Buddha": 1
+  },
+  "gm": {
+   "recollection of the Buddha": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དུལ་བར་བྱ",
+  "count": 1,
+  "occurrences": [
+   "8-38"
+  ],
+  "dm": {
+   "bring it under discipline": 1
+  },
+  "gm": {
+   "subdue": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "འཇིག་རྟེན་འདི",
+  "count": 1,
+  "occurrences": [
+   "8-39"
+  ],
+  "dm": {
+   "this world": 1
+  },
+  "gm": {
+   "this world": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཀེང་རུས",
+  "count": 1,
+  "occurrences": [
+   "8-42"
+  ],
+  "dm": {
+   "skeletons": 1
+  },
+  "gm": {
+   "skeletons": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སེར་སྣ་ཅན",
+  "count": 1,
+  "occurrences": [
+   "8-45"
+  ],
+  "dm": {
+   "miser": 1
+  },
+  "gm": {
+   "Miser": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཤ་ཡི་ཕུང་པོ",
+  "count": 1,
+  "occurrences": [
+   "8-46"
+  ],
+  "dm": {
+   "heap of flesh": 1
+  },
+  "gm": {
+   "heap of flesh": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "རོ་ལངས",
+  "count": 1,
+  "occurrences": [
+   "8-47"
+  ],
+  "dm": {
+   "reanimated corpse": 1
+  },
+  "gm": {
+   "zombie": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བཤང",
+  "count": 1,
+  "occurrences": [
+   "8-48"
+  ],
+  "dm": {
+   "excrement": 1
+  },
+  "gm": {
+   "feces": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཁ་ཆུ",
+  "count": 1,
+  "occurrences": [
+   "8-48"
+  ],
+  "dm": {
+   "saliva": 1
+  },
+  "gm": {
+   "saliva": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "རུས་གཟེབ",
+  "count": 1,
+  "occurrences": [
+   "8-51"
+  ],
+  "dm": {
+   "cage of bones": 1
+  },
+  "gm": {
+   "cage of bones": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སེམས་མེད་པ",
+  "count": 1,
+  "occurrences": [
+   "8-53"
+  ],
+  "dm": {
+   "insentient": 1
+  },
+  "gm": {
+   "mindless": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "མི་གཙང་གཟེབ",
+  "count": 1,
+  "occurrences": [
+   "8-56"
+  ],
+  "dm": {
+   "cage of filth": 1
+  },
+  "gm": {
+   "cage of filth": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "མི་གཙང་ཞིང",
+  "count": 1,
+  "occurrences": [
+   "8-58"
+  ],
+  "dm": {
+   "impure field": 1
+  },
+  "gm": {
+   "field of filth": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ས་བོན",
+  "count": 1,
+  "occurrences": [
+   "8-58"
+  ],
+  "dm": {
+   "seed": 1
+  },
+  "gm": {
+   "seed": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "མི་གཙང་སྲིན",
+  "count": 1,
+  "occurrences": [
+   "8-59"
+  ],
+  "dm": {
+   "worm": 1
+  },
+  "gm": {
+   "filth-worm": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ག་པུར",
+  "count": 1,
+  "occurrences": [
+   "8-61"
+  ],
+  "dm": {
+   "camphor": 1
+  },
+  "gm": {
+   "camphor": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "གྲོང་གི་དུར་ཁྲོད",
+  "count": 1,
+  "occurrences": [
+   "8-69"
+  ],
+  "dm": {
+   "city charnel ground": 1
+  },
+  "gm": {
+   "charnel ground of the city": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཉེས་དམིགས",
+  "count": 1,
+  "occurrences": [
+   "8-79"
+  ],
+  "dm": {
+   "faults": 1
+  },
+  "gm": {
+   "disadvantages": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "དལ་འབྱོར་ཕུན་སུམ",
+  "count": 1,
+  "occurrences": [
+   "8-80"
+  ],
+  "dm": {
+   "leisure and endowment": 1
+  },
+  "gm": {
+   "freedom and endowment": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "འདོད",
+  "count": 1,
+  "occurrences": [
+   "8-84"
+  ],
+  "dm": {
+   "desires": 1
+  },
+  "gm": {
+   "desires": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཆོག་ཤེས",
+  "count": 1,
+  "occurrences": [
+   "8-87"
+  ],
+  "dm": {
+   "contentment": 1
+  },
+  "gm": {
+   "contentment": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དབང་པོ",
+  "count": 1,
+  "occurrences": [
+   "8-87"
+  ],
+  "dm": {
+   "Indra": 1
+  },
+  "gm": {
+   "Indra": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དབེན་པའི་ཡོན་ཏན",
+  "count": 1,
+  "occurrences": [
+   "8-88"
+  ],
+  "dm": {
+   "virtues of solitude": 1
+  },
+  "gm": {
+   "qualities of solitude": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རྣམ་པར་རྟོག",
+  "count": 1,
+  "occurrences": [
+   "8-97"
+  ],
+  "dm": {
+   "conceptual thought": 1
+  },
+  "gm": {
+   "thought": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བདག་གཞན",
+  "count": 1,
+  "occurrences": [
+   "8-99"
+  ],
+  "dm": {
+   "self and others": 1
+  },
+  "gm": {
+   "self and others": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "མེ་ཏོག་ཟླ་མཛེས",
+  "count": 1,
+  "occurrences": [
+   "8-105"
+  ],
+  "dm": {
+   "Supuṣpacandra": 1
+  },
+  "gm": {
+   "Supuṣpacandra": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བདག་འཛིན",
+  "count": 1,
+  "occurrences": [
+   "8-112"
+  ],
+  "dm": {
+   "self-grasping": 1
+  },
+  "gm": {
+   "grasping at self": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བདག་གི་བློ",
+  "count": 1,
+  "occurrences": [
+   "8-114"
+  ],
+  "dm": {
+   "thought of \"I\"": 1
+  },
+  "gm": {
+   "mind of \"I\"": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བསྲུང་སེམས",
+  "count": 1,
+  "occurrences": [
+   "8-116"
+  ],
+  "dm": {
+   "protective mind": 1
+  },
+  "gm": {
+   "mind of protecting": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "གོམས་པར་བྱ",
+  "count": 1,
+  "occurrences": [
+   "8-116"
+  ],
+  "dm": {
+   "cultivate": 1
+  },
+  "gm": {
+   "habituated": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བྱིན་གྱིས་བརླབས",
+  "count": 1,
+  "occurrences": [
+   "8-117"
+  ],
+  "dm": {
+   "Blessed": 1
+  },
+  "gm": {
+   "Blessed": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བདག་དང་གཞན་དུ་བརྗེ་བྱ་བ",
+  "count": 1,
+  "occurrences": [
+   "8-119"
+  ],
+  "dm": {
+   "exchanging of oneself and others": 1
+  },
+  "gm": {
+   "exchange of self and others": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "གསང་བའི་དམ་པ",
+  "count": 1,
+  "occurrences": [
+   "8-119"
+  ],
+  "dm": {
+   "supreme secret": 1
+  },
+  "gm": {
+   "supreme secret": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "འདྲེ",
+  "count": 1,
+  "occurrences": [
+   "8-124"
+  ],
+  "dm": {
+   "demon": 1
+  },
+  "gm": {
+   "demon": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བདག་དོན",
+  "count": 1,
+  "occurrences": [
+   "8-124"
+  ],
+  "dm": {
+   "one's own benefit": 1
+  },
+  "gm": {
+   "one's own purpose": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བརྗེ་བ",
+  "count": 1,
+  "occurrences": [
+   "8-130"
+  ],
+  "dm": {
+   "exchange": 1
+  },
+  "gm": {
+   "exchange": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "འཇིག་རྟེན་ཕ་རོལ",
+  "count": 1,
+  "occurrences": [
+   "8-131"
+  ],
+  "dm": {
+   "next life": 1
+  },
+  "gm": {
+   "next world": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "འདྲེ་ཆེན",
+  "count": 1,
+  "occurrences": [
+   "8-133"
+  ],
+  "dm": {
+   "great demon": 1
+  },
+  "gm": {
+   "great demon": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བདག་ཉིད",
+  "count": 1,
+  "occurrences": [
+   "8-134"
+  ],
+  "dm": {
+   "self": 1
+  },
+  "gm": {
+   "oneself": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "གཞན་རྣམས་བདག་བཞིན་གཟུང་བར་བྱ",
+  "count": 1,
+  "occurrences": [
+   "8-135"
+  ],
+  "dm": {
+   "cherish others as I do myself": 1
+  },
+  "gm": {
+   "Hold others as myself": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སེམས་ཅན་ཀུན",
+  "count": 1,
+  "occurrences": [
+   "8-136"
+  ],
+  "dm": {
+   "all sentient beings": 1
+  },
+  "gm": {
+   "all sentient beings": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "འགྲན",
+  "count": 1,
+  "occurrences": [
+   "8-139"
+  ],
+  "dm": {
+   "rivalry": 1
+  },
+  "gm": {
+   "rivalry": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ལྟ་བ",
+  "count": 1,
+  "occurrences": [
+   "8-143"
+  ],
+  "dm": {
+   "views": 1
+  },
+  "gm": {
+   "view": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཐོས",
+  "count": 1,
+  "occurrences": [
+   "8-150"
+  ],
+  "dm": {
+   "learning": 1
+  },
+  "gm": {
+   "learning": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ངར་འཛིན",
+  "count": 1,
+  "occurrences": [
+   "8-157"
+  ],
+  "dm": {
+   "grasped as \"I\"": 1
+  },
+  "gm": {
+   "grasped as \"I\"": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཤོགས",
+  "count": 1,
+  "occurrences": [
+   "8-161"
+  ],
+  "dm": {
+   "Confess": 1
+  },
+  "gm": {
+   "Confess": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཁོན",
+  "count": 1,
+  "occurrences": [
+   "8-171"
+  ],
+  "dm": {
+   "grudges": 1
+  },
+  "gm": {
+   "grudges": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཕུན་ཚོགས",
+  "count": 1,
+  "occurrences": [
+   "8-175"
+  ],
+  "dm": {
+   "excellence": 1
+  },
+  "gm": {
+   "excellence": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བདག་ཏུ་འཛིན",
+  "count": 1,
+  "occurrences": [
+   "8-177"
+  ],
+  "dm": {
+   "grasp": 1
+  },
+  "gm": {
+   "grasp at": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རྨུགས་པ",
+  "count": 1,
+  "occurrences": [
+   "8-184"
+  ],
+  "dm": {
+   "mental dullness": 1
+  },
+  "gm": {
+   "lethargy": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྒྲིབ་པ",
+  "count": 1,
+  "occurrences": [
+   "8-185"
+  ],
+  "dm": {
+   "obscurations": 1
+  },
+  "gm": {
+   "obscurations": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཡང་དག་དམིགས",
+  "count": 1,
+  "occurrences": [
+   "8-185"
+  ],
+  "dm": {
+   "perfect object of focus": 1
+  },
+  "gm": {
+   "perfect object": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བསམ་གཏན་བསྟན་པ",
+  "count": 1,
+  "occurrences": [
+   "8-a"
+  ],
+  "dm": {
+   "The Explanation of Meditative Concentration": 1
+  },
+  "gm": {
+   "The Teaching on Meditative Concentration": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཡན་ལག",
+  "count": 1,
+  "occurrences": [
+   "9-1"
+  ],
+  "dm": {
+   "branches": 1
+  },
+  "gm": {
+   "branches": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བདེན་པ་གཉིས",
+  "count": 1,
+  "occurrences": [
+   "9-2"
+  ],
+  "dm": {
+   "two truths": 1
+  },
+  "gm": {
+   "two truths": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཕལ་པ",
+  "count": 1,
+  "occurrences": [
+   "9-3"
+  ],
+  "dm": {
+   "ordinary": 1
+  },
+  "gm": {
+   "ordinary people": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "འཇིག་རྟེན་ཕལ་པ",
+  "count": 1,
+  "occurrences": [
+   "9-3"
+  ],
+  "dm": {
+   "ordinary world": 1
+  },
+  "gm": {
+   "ordinary world": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "འཇིག་རྟེན་པ",
+  "count": 1,
+  "occurrences": [
+   "9-5"
+  ],
+  "dm": {
+   "worldly": 1
+  },
+  "gm": {
+   "People of the world": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "མངོན་སུམ",
+  "count": 1,
+  "occurrences": [
+   "9-6"
+  ],
+  "dm": {
+   "direct perception": 1
+  },
+  "gm": {
+   "direct perception": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "གཙང",
+  "count": 1,
+  "occurrences": [
+   "9-6"
+  ],
+  "dm": {
+   "purity": 1
+  },
+  "gm": {
+   "clean": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྐད་ཅིག་མ",
+  "count": 1,
+  "occurrences": [
+   "9-7"
+  ],
+  "dm": {
+   "momentary": 1
+  },
+  "gm": {
+   "momentary": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "རྣལ་འབྱོར",
+  "count": 1,
+  "occurrences": [
+   "9-8"
+  ],
+  "dm": {
+   "yogis": 1
+  },
+  "gm": {
+   "yogi's": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྒྱུ་འདྲ",
+  "count": 1,
+  "occurrences": [
+   "9-9"
+  ],
+  "dm": {
+   "illusory": 1
+  },
+  "gm": {
+   "like an illusion": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "དངོས་ཡོད",
+  "count": 1,
+  "occurrences": [
+   "9-9"
+  ],
+  "dm": {
+   "truly existent": 1
+  },
+  "gm": {
+   "truly exists": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བདེན་པར་ཡོད་པ",
+  "count": 1,
+  "occurrences": [
+   "9-10"
+  ],
+  "dm": {
+   "truly existent": 1
+  },
+  "gm": {
+   "truly exist": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྒྱུ་མའི་སྐྱེས་བུ",
+  "count": 1,
+  "occurrences": [
+   "9-11"
+  ],
+  "dm": {
+   "illusory person": 1
+  },
+  "gm": {
+   "illusory person": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "རྐྱེན་གཅིག",
+  "count": 1,
+  "occurrences": [
+   "9-13"
+  ],
+  "dm": {
+   "single condition": 1
+  },
+  "gm": {
+   "single condition": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ནུས་པ",
+  "count": 1,
+  "occurrences": [
+   "9-13"
+  ],
+  "dm": {
+   "power": 1
+  },
+  "gm": {
+   "capacity": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "འཁོར",
+  "count": 1,
+  "occurrences": [
+   "9-14"
+  ],
+  "dm": {
+   "cyclic existence": 1
+  },
+  "gm": {
+   "saṃsāra": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "འཁྲུལ་པ",
+  "count": 1,
+  "occurrences": [
+   "9-15"
+  ],
+  "dm": {
+   "confusion": 1
+  },
+  "gm": {
+   "deceptive mind": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "དེ་ཉིད་དུ",
+  "count": 1,
+  "occurrences": [
+   "9-16"
+  ],
+  "dm": {
+   "in reality": 1
+  },
+  "gm": {
+   "in reality": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "འཇིག་རྟེན་གྱི་ནི་མགོན་པོ",
+  "count": 1,
+  "occurrences": [
+   "9-17"
+  ],
+  "dm": {
+   "Protector of the World": 1
+  },
+  "gm": {
+   "Protector of the World": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "མི་གསལ་བ",
+  "count": 1,
+  "occurrences": [
+   "9-22"
+  ],
+  "dm": {
+   "not clear": 1
+  },
+  "gm": {
+   "not luminous": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "མོ་གཤམ་བུ་མོ",
+  "count": 1,
+  "occurrences": [
+   "9-22"
+  ],
+  "dm": {
+   "barren woman's daughter": 1
+  },
+  "gm": {
+   "barren woman's daughter": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "རང་རིག",
+  "count": 1,
+  "occurrences": [
+   "9-23"
+  ],
+  "dm": {
+   "self-awareness": 1
+  },
+  "gm": {
+   "self-awareness": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "གཞན་མྱོང་བ",
+  "count": 1,
+  "occurrences": [
+   "9-23"
+  ],
+  "dm": {
+   "experience of something else": 1
+  },
+  "gm": {
+   "experiencing another": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རྐྱེན་གཞན",
+  "count": 1,
+  "occurrences": [
+   "9-24"
+  ],
+  "dm": {
+   "other conditions": 1
+  },
+  "gm": {
+   "other conditions": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "རང་ཉིད་རབ་གསལ",
+  "count": 1,
+  "occurrences": [
+   "9-24"
+  ],
+  "dm": {
+   "self-luminous": 1
+  },
+  "gm": {
+   "illuminates itself": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "མཐོང་ཐོས་ཤེས་པ",
+  "count": 1,
+  "occurrences": [
+   "9-25"
+  ],
+  "dm": {
+   "seen, heard, or known": 1
+  },
+  "gm": {
+   "seen, heard, and known": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བདེན་པར་རྟོག་པ",
+  "count": 1,
+  "occurrences": [
+   "9-25"
+  ],
+  "dm": {
+   "conceptualization of them as true": 1
+  },
+  "gm": {
+   "conceptualization of true existence": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "གཟུང",
+  "count": 1,
+  "occurrences": [
+   "9-29"
+  ],
+  "dm": {
+   "perceived object": 1
+  },
+  "gm": {
+   "apprehended object": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སེམས་ཙམ",
+  "count": 1,
+  "occurrences": [
+   "9-29"
+  ],
+  "dm": {
+   "Mind Only": 1
+  },
+  "gm": {
+   "Mind Only": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྒྱུ་མའི་བུད་མེད",
+  "count": 1,
+  "occurrences": [
+   "9-30"
+  ],
+  "dm": {
+   "illusory woman": 1
+  },
+  "gm": {
+   "illusory woman": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྟོང་ཉིད་བག་ཆགས",
+  "count": 1,
+  "occurrences": [
+   "9-32"
+  ],
+  "dm": {
+   "latency for emptiness": 1
+  },
+  "gm": {
+   "latent tendencies of emptiness": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "དངོས་པོའི་བག་ཆགས",
+  "count": 1,
+  "occurrences": [
+   "9-32"
+  ],
+  "dm": {
+   "latency for substantial things": 1
+  },
+  "gm": {
+   "latent tendencies of entities": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བརྟག་བྱའི་དངོས་པོ",
+  "count": 1,
+  "occurrences": [
+   "9-33"
+  ],
+  "dm": {
+   "substantial thing to be analyzed": 1
+  },
+  "gm": {
+   "entity to be examined": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "དངོས་དང་དངོས་མེད",
+  "count": 1,
+  "occurrences": [
+   "9-34"
+  ],
+  "dm": {
+   "entities nor non-entities": 1
+  },
+  "gm": {
+   "entities and non-entities": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "དམིགས་པ་མེད་པ",
+  "count": 1,
+  "occurrences": [
+   "9-34"
+  ],
+  "dm": {
+   "non-apprehension": 1
+  },
+  "gm": {
+   "without an object of focus": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རབ་ཏུ་ཞི",
+  "count": 1,
+  "occurrences": [
+   "9-34"
+  ],
+  "dm": {
+   "thoroughly pacified": 1
+  },
+  "gm": {
+   "completely pacified": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཡིད་བཞིན་ནོར་བུ",
+  "count": 1,
+  "occurrences": [
+   "9-35"
+  ],
+  "dm": {
+   "wish-fulfilling jewel": 1
+  },
+  "gm": {
+   "wish-fulfilling jewel": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "གདུལ་བྱ",
+  "count": 1,
+  "occurrences": [
+   "9-35"
+  ],
+  "dm": {
+   "those to be trained": 1
+  },
+  "gm": {
+   "those to be tamed": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྨོན་ལམ",
+  "count": 1,
+  "occurrences": [
+   "9-35"
+  ],
+  "dm": {
+   "aspirations": 1
+  },
+  "gm": {
+   "prayers of aspiration": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ནམ་མཁའ་ལྡིང",
+  "count": 1,
+  "occurrences": [
+   "9-36"
+  ],
+  "dm": {
+   "Garuḍa": 1
+  },
+  "gm": {
+   "garuḍa": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "མྱ་ངན་ལས། ། འདས",
+  "count": 1,
+  "occurrences": [
+   "9-37"
+  ],
+  "dm": {
+   "nirvana": 1
+  },
+  "gm": {
+   "nirvāṇa": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བདེན་པ",
+  "count": 1,
+  "occurrences": [
+   "9-40"
+  ],
+  "dm": {
+   "truths": 1
+  },
+  "gm": {
+   "truths": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "རིག་བྱེད",
+  "count": 1,
+  "occurrences": [
+   "9-42"
+  ],
+  "dm": {
+   "Vedas": 1
+  },
+  "gm": {
+   "Vedas": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "མུ་སྟེགས་པ",
+  "count": 1,
+  "occurrences": [
+   "9-43"
+  ],
+  "dm": {
+   "non-Buddhists": 1
+  },
+  "gm": {
+   "non-Buddhists": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དམིགས་དང་བཅས",
+  "count": 1,
+  "occurrences": [
+   "9-44"
+  ],
+  "dm": {
+   "directed toward objects": 1
+  },
+  "gm": {
+   "apprehension": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "མྱ་ངན་འདས་པ",
+  "count": 1,
+  "occurrences": [
+   "9-44"
+  ],
+  "dm": {
+   "nirvana": 1
+  },
+  "gm": {
+   "nirvāṇa": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཉེར་ལེན",
+  "count": 1,
+  "occurrences": [
+   "9-46"
+  ],
+  "dm": {
+   "grasping": 1
+  },
+  "gm": {
+   "appropriation": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཉོན་མོངས་ཅན",
+  "count": 1,
+  "occurrences": [
+   "9-46"
+  ],
+  "dm": {
+   "afflicted": 1
+  },
+  "gm": {
+   "affliction": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཀུན་རྨོངས",
+  "count": 1,
+  "occurrences": [
+   "9-46"
+  ],
+  "dm": {
+   "confusion": 1
+  },
+  "gm": {
+   "ignorance": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "འདུ་ཤེས་མེད་པའི་སྙོམས་འཇུག",
+  "count": 1,
+  "occurrences": [
+   "9-48"
+  ],
+  "dm": {
+   "meditative absorption of non-perception": 1
+  },
+  "gm": {
+   "meditative absorption without discrimination": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྙོམས་འཇུག",
+  "count": 1,
+  "occurrences": [
+   "9-48"
+  ],
+  "dm": {
+   "meditative absorption": 1
+  },
+  "gm": {
+   "meditative absorption": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "འོད་སྲུངས་ཆེན་པོ",
+  "count": 1,
+  "occurrences": [
+   "9-51"
+  ],
+  "dm": {
+   "Mahākāśyapa": 1
+  },
+  "gm": {
+   "Mahākāśyapa": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སུན་འབྱིན་པ",
+  "count": 1,
+  "occurrences": [
+   "9-53"
+  ],
+  "dm": {
+   "refutations": 1
+  },
+  "gm": {
+   "Refutation": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཕྱོགས",
+  "count": 1,
+  "occurrences": [
+   "9-53"
+  ],
+  "dm": {
+   "position": 1
+  },
+  "gm": {
+   "side": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བསྒོམ་པར",
+  "count": 1,
+  "occurrences": [
+   "9-53"
+  ],
+  "dm": {
+   "meditate": 1
+  },
+  "gm": {
+   "meditate": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཉོན་མོངས་ཤེས་བྱའི་སྒྲིབ་པ",
+  "count": 1,
+  "occurrences": [
+   "9-54"
+  ],
+  "dm": {
+   "afflictive and cognitive obscurations": 1
+  },
+  "gm": {
+   "obscurations of afflictions and knowables": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཐམས་ཅད་མཁྱེན",
+  "count": 1,
+  "occurrences": [
+   "9-54"
+  ],
+  "dm": {
+   "omniscience": 1
+  },
+  "gm": {
+   "omniscient": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཞི་བྱེད་པ",
+  "count": 1,
+  "occurrences": [
+   "9-55"
+  ],
+  "dm": {
+   "pacifies": 1
+  },
+  "gm": {
+   "pacifies": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "རྣམ་ཤེས་དྲུག",
+  "count": 1,
+  "occurrences": [
+   "9-59"
+  ],
+  "dm": {
+   "six consciousnesses": 1
+  },
+  "gm": {
+   "six consciousnesses": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བརྟགས",
+  "count": 1,
+  "occurrences": [
+   "9-63"
+  ],
+  "dm": {
+   "designated": 1
+  },
+  "gm": {
+   "designated": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཤེས་ཉིད",
+  "count": 1,
+  "occurrences": [
+   "9-66"
+  ],
+  "dm": {
+   "consciousness itself": 1
+  },
+  "gm": {
+   "consciousness itself": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ལས་འབྲས",
+  "count": 1,
+  "occurrences": [
+   "9-70"
+  ],
+  "dm": {
+   "action and result": 1
+  },
+  "gm": {
+   "actions and results": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བྱེད་པོ",
+  "count": 1,
+  "occurrences": [
+   "9-72"
+  ],
+  "dm": {
+   "agent": 1
+  },
+  "gm": {
+   "agent": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྤྱོད་པོ",
+  "count": 1,
+  "occurrences": [
+   "9-72"
+  ],
+  "dm": {
+   "experiencer": 1
+  },
+  "gm": {
+   "experiencer": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "འདས་དང་མ་འོངས་པ",
+  "count": 1,
+  "occurrences": [
+   "9-73"
+  ],
+  "dm": {
+   "past and future": 1
+  },
+  "gm": {
+   "past and the future": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བརྟགས་པ",
+  "count": 1,
+  "occurrences": [
+   "9-75"
+  ],
+  "dm": {
+   "imputed": 1
+  },
+  "gm": {
+   "imputed": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཞི",
+  "count": 1,
+  "occurrences": [
+   "9-76"
+  ],
+  "dm": {
+   "pacifying": 1
+  },
+  "gm": {
+   "pacifying": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "རྐྱེན་ཚོགས",
+  "count": 1,
+  "occurrences": [
+   "9-84"
+  ],
+  "dm": {
+   "collection of conditions": 1
+  },
+  "gm": {
+   "collection of conditions": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཆ",
+  "count": 1,
+  "occurrences": [
+   "9-86"
+  ],
+  "dm": {
+   "parts": 1
+  },
+  "gm": {
+   "part": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཕྱོགས་ཆ",
+  "count": 1,
+  "occurrences": [
+   "9-86"
+  ],
+  "dm": {
+   "directional facets": 1
+  },
+  "gm": {
+   "directional parts": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "འགལ་རྐྱེན",
+  "count": 1,
+  "occurrences": [
+   "9-91"
+  ],
+  "dm": {
+   "opposing condition": 1
+  },
+  "gm": {
+   "contrary condition": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཆ་མེད་པ",
+  "count": 1,
+  "occurrences": [
+   "9-95"
+  ],
+  "dm": {
+   "no parts": 1
+  },
+  "gm": {
+   "partless": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ལུས་མེད་པ",
+  "count": 1,
+  "occurrences": [
+   "9-96"
+  ],
+  "dm": {},
+  "gm": {
+   "no body": 1
+  },
+  "status": {
+   "gm-only": 1
+  }
+ },
+ {
+  "bo": "རེག་པ",
+  "count": 1,
+  "occurrences": [
+   "9-97"
+  ],
+  "dm": {
+   "contact": 1
+  },
+  "gm": {
+   "contact": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བདེན་གཉིས",
+  "count": 1,
+  "occurrences": [
+   "9-106"
+  ],
+  "dm": {
+   "two truths": 1
+  },
+  "gm": {
+   "two truths": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "རྟོག",
+  "count": 1,
+  "occurrences": [
+   "9-108"
+  ],
+  "dm": {
+   "Conceptual thought": 1
+  },
+  "gm": {
+   "Conception": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རྣམ་པར་དཔྱད་པ",
+  "count": 1,
+  "occurrences": [
+   "9-108"
+  ],
+  "dm": {
+   "analytical investigations": 1
+  },
+  "gm": {
+   "analyses": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "དཔྱད་བྱ",
+  "count": 1,
+  "occurrences": [
+   "9-110"
+  ],
+  "dm": {
+   "object of analysis": 1
+  },
+  "gm": {
+   "object of analysis": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཤེས་དབང",
+  "count": 1,
+  "occurrences": [
+   "9-111"
+  ],
+  "dm": {
+   "power of consciousness": 1
+  },
+  "gm": {
+   "power of consciousness": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཤེས་ཡོད",
+  "count": 1,
+  "occurrences": [
+   "9-111"
+  ],
+  "dm": {
+   "consciousness": 1
+  },
+  "gm": {
+   "consciousness": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཤེས་གྲུབ",
+  "count": 1,
+  "occurrences": [
+   "9-112"
+  ],
+  "dm": {
+   "consciousness": 1
+  },
+  "gm": {
+   "consciousness": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "འཇིག་རྟེན་མངོན་སུམ",
+  "count": 1,
+  "occurrences": [
+   "9-116"
+  ],
+  "dm": {
+   "worldly direct perception": 1
+  },
+  "gm": {
+   "worldly direct perception": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "འབྱུང",
+  "count": 1,
+  "occurrences": [
+   "9-118"
+  ],
+  "dm": {
+   "elements": 1
+  },
+  "gm": {
+   "elements": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བསམ་མིན",
+  "count": 1,
+  "occurrences": [
+   "9-120"
+  ],
+  "dm": {
+   "inconceivable": 1
+  },
+  "gm": {
+   "inconceivable": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཐོག་མེད",
+  "count": 1,
+  "occurrences": [
+   "9-122"
+  ],
+  "dm": {
+   "beginningless": 1
+  },
+  "gm": {
+   "beginningless": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "གྲངས་ཅན",
+  "count": 1,
+  "occurrences": [
+   "9-126"
+  ],
+  "dm": {
+   "Sāṃkhyas": 1
+  },
+  "gm": {
+   "Sāṃkhyas": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "མཉམ་གནས",
+  "count": 1,
+  "occurrences": [
+   "9-127"
+  ],
+  "dm": {
+   "equilibrium": 1
+  },
+  "gm": {
+   "equilibrium": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྒྲ",
+  "count": 1,
+  "occurrences": [
+   "9-129"
+  ],
+  "dm": {
+   "sound": 1
+  },
+  "gm": {
+   "sound": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "མྱོང་བ",
+  "count": 1,
+  "occurrences": [
+   "9-132"
+  ],
+  "dm": {
+   "experience": 1
+  },
+  "gm": {
+   "experience": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "རགས",
+  "count": 1,
+  "occurrences": [
+   "9-132"
+  ],
+  "dm": {
+   "coarse": 1
+  },
+  "gm": {
+   "coarse": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཕྲ་བ",
+  "count": 1,
+  "occurrences": [
+   "9-132"
+  ],
+  "dm": {
+   "subtle": 1
+  },
+  "gm": {
+   "subtle": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཕྲ",
+  "count": 1,
+  "occurrences": [
+   "9-133"
+  ],
+  "dm": {
+   "subtle": 1
+  },
+  "gm": {
+   "subtle": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "མེད་པ",
+  "count": 1,
+  "occurrences": [
+   "9-134"
+  ],
+  "dm": {
+   "non-existent": 1
+  },
+  "gm": {
+   "nonexistent": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བརྫུན་པ",
+  "count": 1,
+  "occurrences": [
+   "9-138"
+  ],
+  "dm": {
+   "false": 1
+  },
+  "gm": {
+   "false": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྒོམ་པ",
+  "count": 1,
+  "occurrences": [
+   "9-138"
+  ],
+  "dm": {
+   "meditation": 1
+  },
+  "gm": {
+   "Meditating": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བརྟགས་པའི་དངོས",
+  "count": 1,
+  "occurrences": [
+   "9-139"
+  ],
+  "dm": {
+   "imagined entity": 1
+  },
+  "gm": {
+   "imputed entity": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རྫུན་པ",
+  "count": 1,
+  "occurrences": [
+   "9-139"
+  ],
+  "dm": {
+   "false": 1
+  },
+  "gm": {
+   "false": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "རྒྱུ་མེད",
+  "count": 1,
+  "occurrences": [
+   "9-141"
+  ],
+  "dm": {
+   "without a cause": 1
+  },
+  "gm": {
+   "without a cause": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "གཟུགས་བརྙན",
+  "count": 1,
+  "occurrences": [
+   "9-144"
+  ],
+  "dm": {
+   "reflection": 1
+  },
+  "gm": {
+   "reflection": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བདེན་ཉིད",
+  "count": 1,
+  "occurrences": [
+   "9-144"
+  ],
+  "dm": {
+   "true reality": 1
+  },
+  "gm": {
+   "true existence": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "དངོས་པོ་མེད་པ",
+  "count": 1,
+  "occurrences": [
+   "9-146"
+  ],
+  "dm": {
+   "non-existent thing": 1
+  },
+  "gm": {
+   "nonentity": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "མ་སྐྱེས་མ་འགགས",
+  "count": 1,
+  "occurrences": [
+   "9-149"
+  ],
+  "dm": {
+   "unborn and unceasing": 1
+  },
+  "gm": {
+   "unproduced and unceased": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྟོང་པ",
+  "count": 1,
+  "occurrences": [
+   "9-151"
+  ],
+  "dm": {
+   "empty": 1
+  },
+  "gm": {
+   "empty": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དངོས་རྣམས",
+  "count": 1,
+  "occurrences": [
+   "9-151"
+  ],
+  "dm": {
+   "things": 1
+  },
+  "gm": {
+   "entities": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྡིག་དག",
+  "count": 1,
+  "occurrences": [
+   "9-155"
+  ],
+  "dm": {
+   "sins": 1
+  },
+  "gm": {
+   "negative deeds": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྡུག་བསྔལ་རྒྱ་མཚོ",
+  "count": 1,
+  "occurrences": [
+   "9-158"
+  ],
+  "dm": {
+   "ocean of unbearable suffering": 1
+  },
+  "gm": {
+   "ocean of suffering": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རྣམ་གཡེང",
+  "count": 1,
+  "occurrences": [
+   "9-160"
+  ],
+  "dm": {
+   "distractions": 1
+  },
+  "gm": {
+   "distraction": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ངན་སོང་ཆེན་པོ",
+  "count": 1,
+  "occurrences": [
+   "9-161"
+  ],
+  "dm": {
+   "great miserable realms": 1
+  },
+  "gm": {
+   "great lower realms": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ལོག་པའི་ལམ",
+  "count": 1,
+  "occurrences": [
+   "9-161"
+  ],
+  "dm": {
+   "wrong paths": 1
+  },
+  "gm": {
+   "wrong paths": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཉོན་མོངས་ཆུ་བོ",
+  "count": 1,
+  "occurrences": [
+   "9-162"
+  ],
+  "dm": {
+   "river of afflictions": 1
+  },
+  "gm": {
+   "river of afflictions": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྡུག་བསྔལ་ཆུ་བོ",
+  "count": 1,
+  "occurrences": [
+   "9-163"
+  ],
+  "dm": {
+   "river of pain": 1
+  },
+  "gm": {
+   "river of suffering": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རྒ་དང་འཆི",
+  "count": 1,
+  "occurrences": [
+   "9-165"
+  ],
+  "dm": {
+   "grow old or die": 1
+  },
+  "gm": {
+   "aging and death": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྡུག་བསྔལ་མེ",
+  "count": 1,
+  "occurrences": [
+   "9-166"
+  ],
+  "dm": {
+   "fires of suffering": 1
+  },
+  "gm": {
+   "fire of suffering": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བསོད་ནམས་ཚོགས",
+  "count": 1,
+  "occurrences": [
+   "9-167"
+  ],
+  "dm": {
+   "collection of merit": 1
+  },
+  "gm": {
+   "accumulation of merit": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "དམིགས་པ་མེད་ཚུལ",
+  "count": 1,
+  "occurrences": [
+   "9-167"
+  ],
+  "dm": {
+   "free from conceptual reference": 1
+  },
+  "gm": {
+   "non-apprehending": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "འཇིག་རྟེན་ཁམས",
+  "count": 1,
+  "occurrences": [
+   "10-4"
+  ],
+  "dm": {
+   "world systems": 1
+  },
+  "gm": {
+   "realms of the world": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བདེ་ཅན",
+  "count": 1,
+  "occurrences": [
+   "10-4"
+  ],
+  "dm": {
+   "Sukhavati": 1
+  },
+  "gm": {
+   "Sukhāvatī": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཤལ་མ་རི",
+  "count": 1,
+  "occurrences": [
+   "10-6"
+  ],
+  "dm": {
+   "Shalmali": 1
+  },
+  "gm": {
+   "śālmali": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "གཞལ་མེད་ཁང",
+  "count": 1,
+  "occurrences": [
+   "10-8"
+  ],
+  "dm": {
+   "Celestial palaces": 1
+  },
+  "gm": {
+   "immeasurable palaces": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཆུ་བོ་རབ་མེད",
+  "count": 1,
+  "occurrences": [
+   "10-10"
+  ],
+  "dm": {
+   "fordless river": 1
+  },
+  "gm": {
+   "unfordable river": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "མེ་ཏོག་ཀུནྡ",
+  "count": 1,
+  "occurrences": [
+   "10-10"
+  ],
+  "dm": {
+   "kunda flowers": 1
+  },
+  "gm": {
+   "jasmine flowers": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཕྱག་ན་རྡོ་རྗེ",
+  "count": 1,
+  "occurrences": [
+   "10-11"
+  ],
+  "dm": {
+   "Vajrapāṇi": 1
+  },
+  "gm": {
+   "Vajrapāṇi": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཕྱག་ན་པདྨ",
+  "count": 1,
+  "occurrences": [
+   "10-12"
+  ],
+  "dm": {
+   "Padmapāṇi": 1
+  },
+  "gm": {
+   "Padmapāṇi": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "གཞོན་ནུ་ཟུར་ཕུད་ཅན",
+  "count": 1,
+  "occurrences": [
+   "10-13"
+  ],
+  "dm": {
+   "youth with five knots of hair": 1
+  },
+  "gm": {
+   "youth with a topknot": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "དགེ་རྩ",
+  "count": 1,
+  "occurrences": [
+   "10-15"
+  ],
+  "dm": {
+   "roots of virtue": 1
+  },
+  "gm": {
+   "roots of virtue": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དུད་འགྲོ",
+  "count": 1,
+  "occurrences": [
+   "10-16"
+  ],
+  "dm": {
+   "animals": 1
+  },
+  "gm": {
+   "animals": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སྒྲ་མི་སྙན་པ",
+  "count": 1,
+  "occurrences": [
+   "10-16"
+  ],
+  "dm": {
+   "Northern Continent": 1
+  },
+  "gm": {
+   "Uttarakuru": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྤྱན་རས་གཟིགས་དབང",
+  "count": 1,
+  "occurrences": [
+   "10-17"
+  ],
+  "dm": {
+   "Avalokiteśvara": 1
+  },
+  "gm": {
+   "Avalokiteśvara": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ལྷ་མོ་སྒྱུ་འཕྲུལ",
+  "count": 1,
+  "occurrences": [
+   "10-18"
+  ],
+  "dm": {
+   "Māyādevī": 1
+  },
+  "gm": {
+   "Māyā": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "མི་ངལ",
+  "count": 1,
+  "occurrences": [
+   "10-27"
+  ],
+  "dm": {
+   "non-leisure": 1
+  },
+  "gm": {
+   "unfree states": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བརྩེ",
+  "count": 1,
+  "occurrences": [
+   "10-27"
+  ],
+  "dm": {
+   "compassion": 1
+  },
+  "gm": {
+   "compassion": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ནམ་མཁའི་མཛོད",
+  "count": 1,
+  "occurrences": [
+   "10-28"
+  ],
+  "dm": {
+   "treasury of space": 1
+  },
+  "gm": {
+   "treasury of space": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བྱང་ཆུབ་སྤྱོད",
+  "count": 1,
+  "occurrences": [
+   "10-32"
+  ],
+  "dm": {
+   "the conduct of awakening": 1
+  },
+  "gm": {
+   "the bodhisattva conduct": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བཻ་ཌཱུརྱ",
+  "count": 1,
+  "occurrences": [
+   "10-35"
+  ],
+  "dm": {
+   "lapis lazuli": 1
+  },
+  "gm": {
+   "lapis lazuli": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཆོས་ཀྱི་སྒྲ",
+  "count": 1,
+  "occurrences": [
+   "10-37"
+  ],
+  "dm": {
+   "sound of the Dharma": 1
+  },
+  "gm": {
+   "sound of the Dharma": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "མཆོད་པའི་སྤྲིན",
+  "count": 1,
+  "occurrences": [
+   "10-38"
+  ],
+  "dm": {
+   "clouds of offerings": 1
+  },
+  "gm": {
+   "clouds of offerings": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "འགྲོ་བའི་བླ་མ",
+  "count": 1,
+  "occurrences": [
+   "10-38"
+  ],
+  "dm": {
+   "teachers of the world": 1
+  },
+  "gm": {
+   "gurus of the world": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རྒྱལ་པོ",
+  "count": 1,
+  "occurrences": [
+   "10-39"
+  ],
+  "dm": {
+   "kings": 1
+  },
+  "gm": {
+   "kings": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "གསང་སྔགས",
+  "count": 1,
+  "occurrences": [
+   "10-40"
+  ],
+  "dm": {
+   "secret mantras": 1
+  },
+  "gm": {
+   "secret mantras": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "མཁའ་འགྲོ",
+  "count": 1,
+  "occurrences": [
+   "10-40"
+  ],
+  "dm": {
+   "ḍākinīs": 1
+  },
+  "gm": {
+   "ḍākinīs": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "གཙུག་ལག་ཁང",
+  "count": 1,
+  "occurrences": [
+   "10-42"
+  ],
+  "dm": {
+   "temples": 1
+  },
+  "gm": {
+   "monasteries": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཁ་ཐོན",
+  "count": 1,
+  "occurrences": [
+   "10-42"
+  ],
+  "dm": {
+   "recitation": 1
+  },
+  "gm": {
+   "Recitation": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དགེ་འདུན",
+  "count": 1,
+  "occurrences": [
+   "10-42"
+  ],
+  "dm": {
+   "Saṅgha": 1
+  },
+  "gm": {
+   "Saṅgha": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ལས་རུང",
+  "count": 1,
+  "occurrences": [
+   "10-43"
+  ],
+  "dm": {
+   "workable": 1
+  },
+  "gm": {
+   "pliable": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "དགེ་སློང་མ",
+  "count": 1,
+  "occurrences": [
+   "10-44"
+  ],
+  "dm": {
+   "nuns": 1
+  },
+  "gm": {
+   "nuns": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བསོད་སྙོམས",
+  "count": 1,
+  "occurrences": [
+   "10-46"
+  ],
+  "dm": {
+   "alms": 1
+  },
+  "gm": {
+   "alms": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དཀའ་བ་སྤྱད་པ",
+  "count": 1,
+  "occurrences": [
+   "10-47"
+  ],
+  "dm": {
+   "hardships": 1
+  },
+  "gm": {
+   "hardships": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "མཆོད་བྱེད",
+  "count": 1,
+  "occurrences": [
+   "10-48"
+  ],
+  "dm": {
+   "Make offerings": 1
+  },
+  "gm": {
+   "Make offerings": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "འགྲོ་དོན",
+  "count": 1,
+  "occurrences": [
+   "10-49"
+  ],
+  "dm": {
+   "benefit wandering beings": 1
+  },
+  "gm": {
+   "welfare of beings": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "རང་སངས་རྒྱས",
+  "count": 1,
+  "occurrences": [
+   "10-50"
+  ],
+  "dm": {
+   "Pratyekabuddhas": 1
+  },
+  "gm": {
+   "pratyekabuddhas": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ས་རབ་དགའ་བ",
+  "count": 1,
+  "occurrences": [
+   "10-51"
+  ],
+  "dm": {
+   "Ground of Supreme Joy": 1
+  },
+  "gm": {
+   "ground of Perfect Joy": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "དབེན་གནས",
+  "count": 1,
+  "occurrences": [
+   "10-52"
+  ],
+  "dm": {
+   "solitude": 1
+  },
+  "gm": {
+   "solitary places": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སྨིན",
+  "count": 1,
+  "occurrences": [
+   "10-56"
+  ],
+  "dm": {
+   "ripen": 1
+  },
+  "gm": {
+   "ripen": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བྱང་ཆུབ་སེམས་དཔའི་དགེ་འདུན",
+  "count": 1,
+  "occurrences": [
+   "10-56"
+  ],
+  "dm": {
+   "assembly of Bodhisattvas": 1
+  },
+  "gm": {
+   "sangha of bodhisattvas": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "བསྟན་པ",
+  "count": 1,
+  "occurrences": [
+   "10-57"
+  ],
+  "dm": {
+   "teaching": 1
+  },
+  "gm": {
+   "teaching": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དགེ་བློ",
+  "count": 1,
+  "occurrences": [
+   "10-58"
+  ],
+  "dm": {
+   "virtuous mind": 1
+  },
+  "gm": {
+   "virtuous mind": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དགེ་བའི་བཤེས",
+  "count": 1,
+  "occurrences": [
+   "10-58"
+  ],
+  "dm": {
+   "spiritual friend": 1
+  },
+  "gm": {
+   "spiritual friend": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཤནྟ་དེ་བ",
+  "count": 1,
+  "occurrences": [
+   "a-1"
+  ],
+  "dm": {
+   "Śāntideva": 1
+  },
+  "gm": {
+   "Śāntideva": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "སརྦ་ཛྙཱ་དེ་བ",
+  "count": 1,
+  "occurrences": [
+   "b-1"
+  ],
+  "dm": {
+   "Sarvajñādeva": 1
+  },
+  "gm": {
+   "Sarvajñādeva": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བནྡེ་དཔལ་བརྩེགས",
+  "count": 1,
+  "occurrences": [
+   "b-1"
+  ],
+  "dm": {
+   "Bandé Paltseg": 1
+  },
+  "gm": {
+   "Paltsek": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "ཁ་ཆེ",
+  "count": 1,
+  "occurrences": [
+   "b-1"
+  ],
+  "dm": {
+   "Kashmiri": 1
+  },
+  "gm": {
+   "Kashmiri": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "དྷརྨ་ཤྲཱི་བྷ་དྲ",
+  "count": 1,
+  "occurrences": [
+   "b-2"
+  ],
+  "dm": {
+   "Dharmaśrībhadra": 1
+  },
+  "gm": {
+   "Dharmaśrībhadra": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བནྡེ་རིན་ཆེན་བཟང་པོ",
+  "count": 1,
+  "occurrences": [
+   "b-2"
+  ],
+  "dm": {
+   "Rinchen Zangpo": 1
+  },
+  "gm": {
+   "Rinchen Zangpo": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཤཱཀྱ་བློ་གྲོས",
+  "count": 1,
+  "occurrences": [
+   "b-2"
+  ],
+  "dm": {
+   "Śākya Lodrö": 1
+  },
+  "gm": {
+   "Śākya Lodrö": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "ཡུལ་དབུས",
+  "count": 1,
+  "occurrences": [
+   "b-2"
+  ],
+  "dm": {
+   "Central Indian": 1
+  },
+  "gm": {
+   "central region": 1
+  },
+  "status": {
+   "disagree": 1
+  }
+ },
+ {
+  "bo": "སུ་མ་ཏི་ཀཱིརྟི",
+  "count": 1,
+  "occurrences": [
+   "b-3"
+  ],
+  "dm": {
+   "Sumatikīrti": 1
+  },
+  "gm": {
+   "Sumatikīrti": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ },
+ {
+  "bo": "བློ་ལྡན་ཤེས་རབ",
+  "count": 1,
+  "occurrences": [
+   "b-3"
+  ],
+  "dm": {
+   "Loden Sherab": 1
+  },
+  "gm": {
+   "Loden Sherab": 1
+  },
+  "status": {
+   "agree": 1
+  }
+ }
+]

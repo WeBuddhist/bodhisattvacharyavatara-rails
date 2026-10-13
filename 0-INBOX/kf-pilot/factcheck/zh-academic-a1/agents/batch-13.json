@@ -1,0 +1,121 @@
+{
+ "batch": "batch-13",
+ "segments": [
+  {
+   "id": "5-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-69",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "現在讓它成辦己利",
+     "evidence": "Tibetan ད་ནི་རང་གི་དོན་བྱེད་ཆུག addresses the mind: let (the body) accomplish YOUR (the mind's) own purpose; bo-shenga 5-69 says ད་ནི་སེམས་རང་གི་དོན་ཆོས་སྒྲུབ་པར་བྱེད་དུ་ཆུག and bo-gyaltsab 5-69 says རང་གི་དོན་དགེ་བའི་ལས་བྱེད་དུ་ཆུག (the purpose is Dharma practice). In the Chinese, 「它」 (the body) is the only stated agent, so 「己利」 can be read as the body's own benefit, and 「己利」 also evokes the technical 自利.",
+     "fix": "現在讓它成辦你自己的目的"
+    }
+   ]
+  },
+  {
+   "id": "5-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-71",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "如是既然擁有自主",
+     "evidence": "Tibetan རང་དབང་ཡོད་ཀྱིས་ཏེ is an instruction to bring about self-mastery (bo-shenga 5-71: ལུས་དང་སེམས་ལ་རང་དབང་ཡོད་པར་གྱིས་ཏེ; bo-kunpal 5-71: རང་དབང་ཡོད་པར་གྱིས་ཏེ), not a presupposed state. 「既然擁有」 turns the imperative into a given premise.",
+     "fix": "如是令自己得自主"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "batch": "batch-21",
+ "segments": [
+  {
+   "id": "6-102",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-103",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-104",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-105",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-107",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-109",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "Since it is a fit cause for accomplishment,\nWhy do you venerate the sublime Dharma?",
+     "evidence": "Tibetan གྲུབ་པ་ཡི་ནི་རྒྱུར་རུང་བ། དམ་པའི་ཆོས་ཀྱང་ཅི་སྟེ་མཆོད། means 'why do you venerate even the sublime Dharma, which is a fit cause of accomplishment [yet lacks the intention]'; ཀྱང 'even' is dropped and the Dharma is not made the subject of the clause. Sanskrit siddhihetur acitto 'pi saddharmaḥ pūjyate katham ('though without intention'). Kunpal 6-109 and Gyaltsab 6-109: the Dharma likewise lacks the thought 'I will generate virtue' (དགེ་བ་བསྐྱེད་པར་བྱའོ་སྙམ་པའི་བསམ་པ་མེད་པའི་ཕྱིར), so the opponent's reason would wrongly make it unworthy of veneration too. English 'Since it is a fit cause' with an unresolved 'it' reads as a reason for venerating the enemy and loses the parallel.",
+     "fix": "Why then do you venerate even the sublime Dharma, which, though a fit cause for accomplishment, has no such intention?"
+    }
+   ]
+  },
+  {
+   "id": "6-110",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-111",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-112",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-113",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-114",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "But it is from the result that they are similar.\nSentient beings too possess good qualities,",
+     "evidence": "Tibetan འབྲས་བུ་ལས་ཡིན་དེས་མཚུངས་པར། སེམས་ཅན་རྣམས་ལའང་ཡོན་ཏན་ཡོད། has དེས་མཚུངས་པར 'just as [the Buddhas]' (Kunpal 6-114: སངས་རྒྱས་རྣམས་དང་མཚུངས་པར་སེམས་ཅན་རྣམས་ལའང་ཡོན་ཏན་ཡོད), which the English drops; 'they' in line 2 has no stated referent (Buddhas and sentient beings, as fields; Gyaltsab 6-114).",
+     "fix": "But it is from the result that [the two] are alike. Just like the Buddhas, sentient beings too possess good qualities,"
+    }
+   ]
+  },
+  {
+   "id": "6-115",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-116",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "They are therefore asserted to be equal.",
+     "evidence": "Tibetan དེས་ན་དེ་དག་མཉམ་པར་འདོད 'therefore those two [sentient beings and Buddhas] are held to be equal'. Kunpal 6-116: སེམས་ཅན་དང་སངས་རྒྱས་དེ་དག་མཉམ་པར་འདོད; Sanskrit sattvā jinaiḥ samāḥ. English 'They' has no stated counterpart, so the equality is not tied to sentient beings and the Buddhas.",
+     "fix": "Therefore sentient beings and the Buddhas are held to be equal."
+    }
+   ]
+  },
+  {
+   "id": "6-117",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-118",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-119",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-120",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-121",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

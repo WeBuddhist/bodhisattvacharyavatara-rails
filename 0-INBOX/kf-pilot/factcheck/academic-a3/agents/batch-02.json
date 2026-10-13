@@ -1,0 +1,159 @@
+{
+ "batch": "batch-02",
+ "segments": [
+  {
+   "id": "4-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-9",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Since he is left falling short in the welfare of sentient beings, / Their lower realms will be endless.",
+     "evidence": "The Tibetan subject of དམན་གྱུར་པས is the bodhisattva (བྱང་ཆུབ་སེམས་དཔའ་ in line 2), whose capacity is diminished; bo-shenga 4-9: \"རྒྱལ་བའི་སྲས་དེ་སེམས་ཅན་གྱི་དོན་བྱེད་པ་ལ་དམན་པར་གྱུར་པས། གེགས་བྱེད་པ་པོ་དེ་ཡི་ངན་འགྲོ་ལ་མུ་དང་མཐའ་མེད\". English \"he\" is followed by \"Their\" and so can be read as the obstructor. Also ངན་འགྲོ is a single rebirth-state (Skt durgatiparyanto), the obstructor's, not plural realms.",
+     "fix": "Since that bodhisattva is left falling short in the welfare of sentient beings, / The obstructer's lower realm has no end."
+    }
+   ]
+  },
+  {
+   "id": "4-10",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "For those who pervade all of space to its limits, / What need to speak of destroying the happiness of embodied beings?",
+     "evidence": "Tibetan \"ནམ་མཁའ་མ་ལུས་མཐའ་ཀླས་པའི། ལུས་ཅན\" is an attributive on ལུས་ཅན: embodied beings who extend to (dwell to) the limits of all space (Skt aśeṣākāśaparyanta-vāsinām; bo-gyaltsab 4-10: \"ནམ་མཁའ་མ་ལུས་པའི་མཐའ་ཀླས་པའི་ལུས་ཅན\"). The English makes line 3 a dangling \"For those who...\" that detaches from \"embodied beings\" and uses \"pervade\", which the Tibetan/Sanskrit do not say.",
+     "fix": "Of embodied beings dwelling to the limits of all space, / What need to speak of destroying their happiness?"
+    }
+   ]
+  },
+  {
+   "id": "4-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-22",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "One will not attain liberation,",
+     "evidence": "རྣམ་ཐར་མི་འགྱུར་ is \"will not be released/freed\" from the suffering of the lower realm (Skt na vimucyate). bo-gyaltsab 4-22: \"ངན་འགྲོ་ལས་རྣམ་པར་ཐར་བར་མི་འགྱུར་ཏེ\"; bo-kunpal 4-22: \"ངན་སོང་གི་གནས་དེ་ལས་རྣམ་པར་ཐར་པ་མི་འགྱུར\"; bo-shenga: \"སྡུག་བསྔལ་ལས་རྣམ་པར་ཐར་བར་མི་འགྱུར\". \"Attain liberation\" turns release from that state into attaining the goal of liberation.",
+     "fix": "One will not be liberated [from it],"
+    }
+   ]
+  },
+  {
+   "id": "4-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-41",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "When I promised this, I myself / Was not freed from afflictions.",
+     "evidence": "མ་གྲོལ་བ is a state continuing at the time of the vow and now, not a completed past event: bo-shenga 4-41 \"གང་ཚེ་བདག་ཉིད་ཀྱང་...ཉོན་མོངས་རྣམས་ལས་མ་གྲོལ་ན\"; bo-kunpal \"ཉོན་མོངས་པ་རྣམས་ལས་ཅུང་ཟད་ཙམ་ཡང་མ་གྲོལ་བར་གནས་ན\". The verse is a clause continuing into the next verse. The English past finite \"Was not freed\" closes it as a past statement.",
+     "fix": "When I promised this, I myself / Was still not free from afflictions,"
+    }
+   ]
+  },
+  {
+   "id": "4-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "Witches",
+     "evidence": "བྱད་མ is glossed by bo-kunpal 5-4 as \"ཕ་རོལ་པོའི་མཐུས་རྦད་པའི་བྱད་མ་གདོན་རྦད་འདྲེ་རྦོད་གཏོང\": harmful spirits/hexes sent by another's power, not human witches. \"Witches\" (Skt ḍākinyaḥ) suggests human sorceresses.",
+     "fix": "Hex-sent spirits (byad ma)"
+    }
+   ]
+  },
+  {
+   "id": "5-6",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Thus, all fears and",
+     "evidence": "འདི་ལྟར here introduces the reason for the preceding claim (Skt yasmāt \"since\"); bo-gyaltsab 5-6: \"རྒྱུ་མཚན་འདི་ལྟར། ཚེ་འདི་དང་ཕྱི་མའི་འཇིགས་པ་ཐམས་ཅད་དང་...སེམས་ཉིད་ལས་བྱུང་བ་ཡིན\". English \"Thus\" reads as a conclusion drawn from what precedes, reversing the direction of the argument.",
+     "fix": "For all fears and"
+    }
+   ]
+  },
+  {
+   "id": "5-7",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "From what did those groups of women arise?",
+     "evidence": "The Tibetan as given reads \"མེ་ཚོགས\" (masses of fire), which bo-shenga 5-7 follows (\"མེ་ཚོགས་དེ་དག་རྒྱུ་ཅི་ལས་བྱུང་\"). The English follows the variant \"མོ་ཚོགས\" (bo-kunpal \"མོ་ཡི་ཚོགས\"; bo-gyaltsab 5-8 calls མེ་ཚོགས a corrupt reading; Skt striyaḥ). English does not render the Tibetan as given, so the textual choice should be marked.",
+     "fix": "From what did those groups of women (var. masses of fire) arise?"
+    }
+   ]
+  },
+  {
+   "id": "5-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-15",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "Whatever the result of generating a single clear mind, / Such as Brahmā and so forth,",
+     "evidence": "Tibetan \"འབྲས་བུ་གང་། ཚངས་ལ་སོགས་པ་ཡིན་པ་ལྟར\" means: just as the result of generating a single clear mind is (rebirth as) Brahmā etc. Brahmā is the result, not an example of a mind, and the comparison marker ལྟར is lost; bo-shenga 5-15: \"འབྲས་བུ་གང་། ཚངས་པ་ལ་སོགས་པའི་གནས་སུ་སྐྱེ་བ་ཡིན་པ་ལྟར\". \"Such as\" makes the lines read as a list of examples of results/minds.",
+     "fix": "Just as the result of generating a single clear mind / Is [rebirth as] Brahmā and so forth,"
+    }
+   ]
+  },
+  {
+   "id": "5-32",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

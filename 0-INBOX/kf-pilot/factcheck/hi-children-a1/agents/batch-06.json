@@ -1,0 +1,244 @@
+{
+ "batch": "batch-06",
+ "segments": [
+  {
+   "id": "5-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-22",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "मेरे दूसरे कोई भी अच्छा काम नष्ट हो जाएँ",
+     "evidence": "Plural 'other virtues/wholesome deeds' may be lost; the Hindi has a number disagreement (singular noun with plural verb).",
+     "fix": "मेरे दूसरे सारे अच्छे काम भी नष्ट हो जाएँ"
+    }
+   ]
+  },
+  {
+   "id": "5-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-30",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "हमें मदद मिलती है। जो लोग डर के कारण आदर करते हैं, उनमें ध्यान में रखना बहुत आसानी से आ जाता है।",
+     "evidence": "Academic: mindfulness arises easily in the fortunate who respect (their teachers) through the guru's company, the preceptor's instruction, and fear. The children's text turns the first two into a vague 'it helps us' and attributes the easy arising of mindfulness only to those who respect out of fear.",
+     "fix": "गुरु का साथ पाने से, मुझे दीक्षा देने वाले गुरु की सीख से और डर के कारण आदर करने से, भाग्यशाली लोगों में ध्यान में रखना बहुत आसानी से आ जाता है।"
+    },
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "The Tibetan 'skal ldan' (fortunate ones) / academic 'भाग्यशालियों' is dropped.",
+     "fix": "भाग्यशाली लोगों में"
+    }
+   ]
+  },
+  {
+   "id": "5-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-42",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "अगर आप नियमों का पालन न कर सकें",
+     "evidence": "Academic: 'if unable, act as convenient'; the object 'rules' is not stated, the reason connective 'क्योंकि' (since, at the time of giving, equanimity toward discipline is taught) is lost, and 'आप' shifts address from the first-person/'हम' used elsewhere.",
+     "fix": "किसी डर या त्योहार के समय अगर हम न कर सकें, तो अपनी सुविधा से काम करें, क्योंकि कहा गया है कि देने के समय अच्छे आचरण के प्रति एक-सा मन रखना चाहिए।"
+    }
+   ]
+  },
+  {
+   "id": "5-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-51",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "लकड़ी के लट्ठे की तरह पड़ा रहूँगा",
+     "evidence": "Academic: 'remain still/steady like wood' (sthita); 'पड़ा रहूँगा' suggests lying idle rather than staying still and not acting.",
+     "fix": "लकड़ी के लट्ठे की तरह शांत रहूँगा"
+    }
+   ]
+  }
+ ]
+}

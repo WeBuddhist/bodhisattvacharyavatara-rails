@@ -1,0 +1,74 @@
+{
+ "6-109": {
+  "translation": "यदि कहें कि क्षान्ति सिद्ध करने की मंशा न होने से,\nयह शत्रु पूजनीय नहीं है, तो\nसिद्धि का योग्य कारण होने पर भी,\nसद्धर्म की पूजा क्यों करते हो?",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "सिद्धि का योग्य कारण होने पर भी, सद्धर्म की पूजा क्यों करते हो?",
+    "evidence": "Tibetan 'གྲུབ་པ་ཡི་ནི་རྒྱུར་རུང་བ། དམ་པའི་ཆོས་ཀྱང་ཅི་སྟེ་མཆོད' : the concessive 'ཀྱང་' attaches to the Dharma ('why is even the sublime Dharma, which is a fit cause of accomplishment, worshipped [though it lacks the intention]'). Gyaltsab (bo-gyaltsab 6-109): Dharma jewel being a fit cause of virtue should then not be worshipped, since it lacks the intention to produce virtue. The Hindi puts 'भी' on 'being a fit cause', yielding 'although it is a fit cause, why worship it?', which reverses the logic of the reductio.",
+    "fix": "सिद्धि का योग्य कारण होने से, सद्धर्म की भी पूजा क्यों की जाती है (जबकि उसमें वैसी मंशा नहीं है)?"
+   }
+  ]
+ },
+ "7-5": {
+  "translation": "अपने स्वजनों को क्रमशः मारे जाते हुए,\nक्या तुमने नहीं देखा है?\nफिर भी जो निद्रा के आश्रित है,\nवह चाण्डाल और भैंसे के समान है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "वह चाण्डाल और भैंसे के समान है",
+    "evidence": "Tibetan གདོལ་པ་དང་ནི་མ་ཧེ་བཞིན: the sleeper is likened to the buffalo (that sleeps on calmly while the outcaste butcher kills the herd one by one), not to the butcher as well. bo-gyaltsab 7-5: 'གདོལ་བས་རིམ་གྱིས་གསོད་པའི་མ་ཧེས་ ... སྐྲག་པ་མེད་ཅིང་དལ་བར་གནས་པ་གདོལ་བ་དང་ནི་མ་ཧེ་བཞིན'; bo-shenga: 'གདོལ་པ་དང་ནི་བསད་པར་བྱ་བའི་མ་ཧེ་བཞིན'; Sanskrit caṇḍālamahiṣo yathā. The Hindi 'चाण्डाल और भैंसे के समान' makes the addressee equal to both butcher and buffalo, and also shifts the addressee from 'you' (ཁྱོད) to third person 'वह'.",
+    "fix": "तुम निद्रा के आश्रित हो, चाण्डाल के हाथों मारे जाते भैंसे के समान"
+   }
+  ]
+ },
+ "7-53": {
+  "translation": "हताश होकर प्रयत्न छोड़ देने वाले को,\nक्या विपत्ति से मुक्ति मिल सकती है?\nमान और प्रयत्न उत्पन्न करने से,\nमहान् द्वारा भी उसे जीतना कठिन है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "महान् द्वारा भी उसे जीतना कठिन है",
+    "evidence": "Tibetan 'ཆེན་པོ་ཡིས་ཀྱང་ཐུབ་པར་དཀའ' (hard to overcome even by the great): bo-shenga 7-53 glosses 'སྤང་བྱ་ཆེན་པོ་ཡིས་ཀྱང་རྒྱལ་སྲས་དེ་ཉིད་ཐུབ་པར་དཀའ' and bo-kunpal 7-53 'ལྟུང་བ་ཆེན་པོ་ ... ཡིས་ཀྱང་ཐུབ་པར་དཀའ' - the 'great' agent is great downfalls/objects of abandonment, not great persons; english_academic: 'even by great downfalls'. Hindi 'महान् द्वारा' reads as 'by a great one (person)', changing the referent.",
+    "fix": "बड़े पतनों से भी उसे पराजित करना कठिन है"
+   }
+  ]
+ },
+ "8-105": {
+  "translation": "इसलिए सुपुष्पचन्द्र ने,\nराजा की हानि को जानकर भी,\nअपना दुःख दूर नहीं किया,\nबहुतों के दुःख समाप्त होने के लिए।",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "major",
+    "span": "राजा की हानि को जानकर भी",
+    "evidence": "Tibetan རྒྱལ་པོའི་གནོད་པ is the harm coming from the king (Sanskrit nṛpāpadam; bo-shenga 8-105: རྒྱལ་པོ་དཔལ་བྱིན་ལས་བྱུང་བའི་གནོད་པ 'harm arising from King Dpal-byin'; bo-gyaltsab: རང་ཉིད་གསོད་པའི་རྒྱལ་པོའི་གནོད་པ, the king's harm that would kill him). Hindi 'राजा की हानि' reads naturally as harm/loss to the king, reversing the referent.",
+    "fix": "राजा से होने वाली हानि को जानते हुए भी"
+   }
+  ]
+ },
+ "8-145": {
+  "translation": "दुर्गति के भयंकर मुख में स्थित,\nजगत् के प्राणियों के प्रति करुणा-रहित यह,\nबाहरी गुण के अभिमान से,\nपण्डितों को चुनौती देना चाहता है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "बाहरी गुण के अभिमान से",
+    "evidence": "Tibetan 'ཕྱིར་ལ་ཡོན་ཏན་རློམ་པ་ཡིས' (Skt 'अपरं गुणमानेन'): ཕྱིར་ལ is the adverbial 'moreover/furthermore' (English: 'Moreover, conceited about his good qualities'). bo-kunpal 8-145 glosses it as conceit about qualities he does not have ('ཡོན་ཏན་མེད་བཞིན་དུ་ཡོན་ཏན་ཅན་དུ་རློམས་པ'). Nothing in the Tibetan says the qualities are 'outer/external' (बाहरी); the Hindi read ཕྱིར་ as 'outside' and added a qualifier.",
+    "fix": "इसके अतिरिक्त, गुण के अभिमान से"
+   }
+  ]
+ },
+ "9-19": {
+  "translation": "दीपक प्रकाश्य नहीं है,\nक्योंकि वह अन्धकार से आवृत नहीं है।\n\"स्फटिक की भाँति नील, नीलता के लिए\nअन्य की अपेक्षा नहीं रखता है।\"",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "स्फटिक की भाँति नील, नीलता के लिए अन्य की अपेक्षा नहीं रखता है।",
+    "evidence": "Tibetan 'ཤེལ་བཞིན་སྔོན་པོ་སྔོ་ཉིད་ལ། གཞན་ལ་ལྟོས་པ་ཡོད་མ་ཡིན' (Skt 'na hi sphaṭikavan nīlaṃ nīlatve 'nyam apekṣate'): the blue thing does not depend on another for blueness, in contrast to a crystal, which is not blue by nature and needs something blue beneath or beside it (bo-shenga 9-20: 'ཤེལ་རང་བཞིན་གྱིས་སྔོན་པོ་མ་ཡིན་པ་གཞན་འདབ་མ་སྔོན་པོ་ལ་སོགས་པ་ལ་ལྟོས་དགོས'; bo-kunpal 9-19). 'स्फटिक की भाँति' makes the crystal the model of non-dependence, the reverse; approved English has 'Unlike a crystal'.",
+    "fix": "स्फटिक के विपरीत, नील नीलता के लिए अन्य की अपेक्षा नहीं रखता।"
+   }
+  ]
+ }
+}

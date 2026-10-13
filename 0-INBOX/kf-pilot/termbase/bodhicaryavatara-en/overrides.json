@@ -1,0 +1,17 @@
+{
+ "overrides": [],
+ "exclude_terms": [
+  {
+   "term_id": "T463",
+   "bo": "སེམས་ཅན་དམྱལ",
+   "reason": "Mis-cut span, not a term: in 6-47 སེམས་ཅན་དམྱལ་འདོང་ན = 'if beings go to hell' (སེམས་ཅན + དམྱལ་འདོང). Found by the fact-check (academic-a1, 6-47 major). Pipeline correction, 2026-10-08."
+  }
+ ],
+ "exclude_occurrences": [
+  {
+   "id": "4-37",
+   "bo": "ཉོན་མོངས",
+   "reason": "Here ཉོན་མོངས = 'wretched' (pity for the ordinary enemies in the battle simile), not the mental afflictions; Kunpal and Shenga. Fact-check academic-a2 4-37 major."
+  }
+ ]
+}

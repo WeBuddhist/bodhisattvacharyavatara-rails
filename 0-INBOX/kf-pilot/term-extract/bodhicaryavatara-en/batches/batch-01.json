@@ -1,0 +1,303 @@
+[
+ {
+  "id": "0",
+  "heading": true,
+  "bo": "༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་བཞུགས་སོ། །",
+  "dm": "Engaging in the Conduct of the Bodhisattvas",
+  "gm": "Engaging in the Conduct of the Bodhisattvas"
+ },
+ {
+  "id": "I-0",
+  "heading": true,
+  "bo": "ཀླད་ཀྱི་དོན།",
+  "dm": "The Introductory Meaning",
+  "gm": "Prologue"
+ },
+ {
+  "id": "I-1",
+  "heading": false,
+  "bo": "༄༅༅། །རྒྱ་གར་སྐད་དུ། བོ་དྷི་སཏྭ་ཙརྱ་ཨ་བ་ཏཱ་ར།",
+  "dm": "In the language of India: *Bodhicaryāvatāra*.",
+  "gm": "In the Indian language: Bodhisattvacaryāvatāra."
+ },
+ {
+  "id": "I-2",
+  "heading": false,
+  "bo": "བོད་སྐད་དུ། བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།",
+  "dm": "In the language of Tibet: *Byang chub sems dpa'i spyod pa la 'jug pa* (Engaging in the Bodhisattva Deeds).",
+  "gm": "In the Tibetan language: Entering the Way of the Bodhisattva."
+ },
+ {
+  "id": "I-3",
+  "heading": false,
+  "bo": "སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །",
+  "dm": "Homage to all buddhas and bodhisattvas.",
+  "gm": "Homage to all the buddhas and bodhisattvas."
+ },
+ {
+  "id": "1-0",
+  "heading": true,
+  "bo": "ལེའུ་དང་པོ། བྱང་ཆུབ་སེམས་ཀྱི་ཕན་ཡོན་བཤད་པ།",
+  "dm": "The Benefits of Bodhicitta",
+  "gm": "Chapter One: Explaining the Benefits of Bodhicitta"
+ },
+ {
+  "id": "1-1",
+  "heading": false,
+  "bo": "བདེ་གཤེགས་ཆོས་ཀྱི་སྐུ་མངའ་སྲས་བཅས་དང་། ། ཕྱག་འོས་ཀུན་ལའང་གུས་པར་ཕྱག་འཚལ་ཏེ། ། བདེ་གཤེགས་སྲས་ཀྱི་སྡོམ་ལ་འཇུག་པ་ནི། ། ལུང་བཞིན་མདོར་བསྡུས་ནས་ནི་བརྗོད་པར་བྱ། །",
+  "dm": "Respectfully bowing to the Sugatas who possess the Dharmakāya, along with their heirs, and to all who are worthy of veneration, I shall describe the engagement in the vows of the Sugatas' heirs, Having condensed them in accordance with the scriptures.",
+  "gm": "To the Sugatas, endowed with the Dharmakāya, along with their heirs, And to all who are worthy of homage, I respectfully bow down; Then, entering into the vows of the heirs of the Sugatas, I shall explain it concisely in accordance with scripture."
+ },
+ {
+  "id": "1-2",
+  "heading": false,
+  "bo": "སྔོན་ཆད་མ་བྱུང་བ་ཡང་འདིར་བརྗོད་མེད། ། སྡེབ་སྦྱོར་མཁས་པའང་བདག་ལ་ཡོད་མིན་ཏེ། ། དེ་ཕྱིར་གཞན་དོན་བསམ་པ་བདག་ལ་མེད། ། རང་གི་ཡིད་ལ་བསྒོམ་ཕྱིར་ངས་འདི་བརྩམས། །",
+  "dm": "There is nothing here that has not been said before, Nor do I possess any skill in the art of composition. Therefore, I have no thought that this will benefit others; I have composed this in order to habituate my own mind.",
+  "gm": "There is nothing said here that has not appeared before, Nor do I have any skill in composition; Therefore, I have no thought of benefiting others, I have composed this to cultivate my own mind."
+ },
+ {
+  "id": "1-3",
+  "heading": false,
+  "bo": "དགེ་བ་བསྒོམ་ཕྱིར་བདག་གི་དད་པའི་ཤུགས། ། འདི་དག་གིས་ཀྱང་རེ་ཞིག་འཕེལ་འགྱུར་ལ། ། བདག་དང་སྐལ་བ་མཉམ་པ་གཞན་གྱིས་ཀྱང་། ། ཅི་སྟེ་འདི་དག་མཐོང་ན་དོན་ཡོད་འགྱུར། །",
+  "dm": "Through this, the power of my faith to cultivate virtue may increase for a while; Furthermore, if others of equal fortune to myself should see this, It may prove meaningful for them as well.",
+  "gm": "In order to cultivate virtue, the force of my faith Will for a time increase because of this; And if others, equal in fortune to myself, Should see these words, they may be meaningful."
+ },
+ {
+  "id": "1-4",
+  "heading": false,
+  "bo": "དལ་འབྱོར་འདི་ནི་རྙེད་པར་ཤིན་ཏུ་དཀའ། ། སྐྱེས་བུའི་དོན་སྒྲུབ་ཐོབ་པར་གྱུར་པ་ལ། ། གལ་ཏེ་འདི་ལ་ཕན་པ་མ་བསྒྲུབས་ན། ། ཕྱིས་འདི་ཡང་དག་འབྱོར་པར་ག་ལ་འགྱུར། །",
+  "dm": "This leisure and endowment is extremely difficult to find. Having attained that which can accomplish the purpose of a human being, If one does not accomplish what is beneficial in this life, How could such a perfect opportunity ever be found again?",
+  "gm": "These freedoms and advantages are extremely hard to find; Since the attainment that fulfills human purpose has been found, If one does not accomplish what is beneficial in this life, How will such a perfect opportunity arise again later?"
+ },
+ {
+  "id": "1-5",
+  "heading": false,
+  "bo": "ཇི་ལྟར་མཚན་མོ་མུན་ནག་སྤྲིན་རུམ་ན། ། གློག་འགྱུ་སྐད་ཅིག་རབ་སྣང་སྟོན་པ་ལྟར། ། དེ་བཞིན་སངས་རྒྱས་མཐུ་ཡིས་བརྒྱ་ལམ་ན། ། འཇིག་རྟེན་བསོད་ནམས་བློ་གྲོས་ཐང་འགའ་འབྱུང་། །",
+  "dm": "Just as a flash of lightning in the darkness of a cloud-shrouded night Momentarily reveals everything in its brilliant light, So too, through the power of the Buddha, A virtuous mind occasionally and briefly arises in the world.",
+  "gm": "Just as on a dark night in the womb of clouds A flash of lightning brilliantly illuminates for an instant, In the same way, by the power of the Buddha, occasionally Worldly intelligence for merit arises for a moment."
+ },
+ {
+  "id": "1-6",
+  "heading": false,
+  "bo": "དེ་ལྟས་དགེ་བ་ཉམ་ཆུང་ཉིད་ལ་བརྟག ། སྡིག་པ་སྟོབས་ཆེན་ཤིན་ཏུ་མི་བཟད་པ། ། དེ་ནི་རྫོགས་པའི་བྱང་ཆུབ་སེམས་མིན་པ། ། དགེ་གཞན་གང་གིས་ཟིལ་གྱིས་གནོན་པར་འགྱུར། །",
+  "dm": "Therefore, virtue is always extremely weak, While sin is of great strength and utterly unbearable. Except for the mind of perfect enlightenment, What other virtue could ever overcome it?",
+  "gm": "Thus virtue is perpetually feeble, While evil is extremely powerful and unbearable; If it were not for the mind of perfect awakening, What other virtue could overcome it?"
+ },
+ {
+  "id": "1-7",
+  "heading": false,
+  "bo": "བསྐལ་པ་དུ་མར་རབ་དགོངས་མཛད་པ་ཡི། ། ཐུབ་དབང་རྣམས་ཀྱིས་འདི་ཉིད་ཕན་པར་གཟིགས། ། འདིས་ནི་ཚད་མེད་སྐྱེ་བོའི་ཚོགས་རྣམས་ཀྱིས། ། བདེ་མཆོག་བདེ་བླག་ཉིད་དུ་ཐོབ་པར་བྱེད། །",
+  "dm": "The Lords of Sages, who have deeply contemplated for many eons, Have seen that this alone is beneficial. By this, the boundless multitudes of beings Will easily attain the supreme bliss.",
+  "gm": "The Lords of Sages, who have contemplated for many eons, Have seen that this alone is beneficial; By this, immeasurable multitudes of beings Will easily attain the supreme bliss."
+ },
+ {
+  "id": "1-8",
+  "heading": false,
+  "bo": "སྲིད་པའི་སྡུག་བསྔལ་བརྒྱ་ཕྲག་གཞོམ་འདོད་ཅིང་། ། སེམས་ཅན་མི་བདེ་བསལ་བར་འདོད་པ་དང་། ། བདེ་མང་བརྒྱ་ཕྲག་སྤྱོད་པར་འདོད་པས་ཀྱང་། ། བྱང་ཆུབ་སེམས་ཉིད་རྟག་ཏུ་གཏང་མི་བྱ། །",
+  "dm": "Those who wish to overcome the hundreds of sufferings of existence, Those who wish to dispel the miseries of sentient beings, And those who wish to enjoy hundreds of manifold happinesses, Should never forsake the awakening mind.",
+  "gm": "Those who wish to destroy the hundreds of sufferings of existence, Who wish to dispel the unhappiness of sentient beings, And who wish to experience hundreds of great joys, Should never give up the mind of awakening."
+ },
+ {
+  "id": "1-9",
+  "heading": false,
+  "bo": "བྱང་ཆུབ་སེམས་སྐྱེས་གྱུར་ན་སྐད་ཅིག་གིས། ། འཁོར་བའི་བཙོན་རར་བསྡམས་པའི་ཉམ་ཐག་རྣམས། ། བདེ་གཤེགས་རྣམས་ཀྱི་སྲས་ཞེས་བརྗོད་བྱ་ཞིང་། ། འཇིག་རྟེན་ལྷ་མིར་བཅས་པས་ཕྱག་བྱར་འགྱུར། །",
+  "dm": "Once the awakening mind has been generated, in that very instant, The wretched ones bound in the prison of cyclic existence Are called children of the Sugatas, And become objects of homage for the world, including its gods and humans.",
+  "gm": "If the mind of awakening is generated, in an instant, The wretched ones bound in the prison of cyclic existence Will be called children of the Sugatas, And will become worthy of reverence by the world's gods and humans."
+ },
+ {
+  "id": "1-10",
+  "heading": false,
+  "bo": "གསེར་འགྱུར་རྩི་ཡི་རྣམ་པ་མཆོག་ལྟ་བུ། ། མི་གཙང་ལུས་འདི་བླངས་ནས་རྒྱལ་བའི་སྐུ། ། རིན་ཆེན་རིང་ཐང་མེད་པར་བསྒྱུར་བས་ན། ། བྱང་ཆུབ་སེམས་ཞེས་བྱ་བ་རབ་བརྟན་ཟུང་། །",
+  "dm": "Like the supreme form of an alchemical elixir, It takes this impure body and transforms it into the priceless Jewel of a Victor’s body; therefore, firmly grasp That which is called the awakening mind.",
+  "gm": "Like the supreme form of the gold-making elixir, It takes this impure body and transforms it Into the priceless jewel of a Conqueror's body; Therefore, firmly hold to this so-called mind of awakening."
+ },
+ {
+  "id": "1-11",
+  "heading": false,
+  "bo": "འགྲོ་བའི་དེད་དཔོན་གཅིག་པུ་ཚད་མེད་བློས། ། ལེགས་པར་ཡོངས་སུ་བརྟགས་ན་རིན་ཆེ་བས། ། འགྲོ་བའི་གནས་དང་བྲལ་བར་འདོད་པ་རྣམས། ། རིན་ཆེན་བྱང་ཆུབ་སེམས་ལེགས་བརྟན་པར་ཟུང་། །",
+  "dm": "Since the sole Guide of beings, through his immeasurable intellect, Has thoroughly examined it and seen its great value, Those who wish to escape the realms of cyclic existence Should firmly grasp this precious awakening mind.",
+  "gm": "Since the sole captain of beings, with limitless intellect, Has thoroughly examined it and found it to be highly precious, Those who wish to be separated from the states of wandering Should perfectly and firmly hold the precious mind of awakening."
+ },
+ {
+  "id": "1-12",
+  "heading": false,
+  "bo": "དགེ་བ་གཞན་ཀུན་ཆུ་ཤིང་བཞིན་དུ་ནི། ། འབྲས་བུ་བསྐྱེད་ནས་ཟད་པར་འགྱུར་བ་ཉིད། ། བྱང་ཆུབ་སེམས་ཀྱི་ལྗོན་ཤིང་རྟག་པར་ཡང་། ། འབྲས་བུ་འབྱིན་པས་མི་ཟད་འཕེལ་བར་འགྱུར། །",
+  "dm": "All other virtues are like the plantain tree; Once they have produced their fruit, they are exhausted. But the tree of the awakening mind perpetually bears fruit, And rather than being exhausted, it increases ever more.",
+  "gm": "All other virtues are just like the plantain tree: Having borne their fruit, they are exhausted; But the tree of the mind of awakening constantly Bears fruit, is not exhausted, and continually grows."
+ },
+ {
+  "id": "1-13",
+  "heading": false,
+  "bo": "སྡིག་པ་ཤིན་ཏུ་མི་བཟད་བྱས་ན་ཡང་། ། དཔའ་ལ་བརྟེན་ནས་འཇིགས་པ་ཆེན་པོ་ལྟར། ། གང་ལ་བརྟེན་ནས་ཡུད་ཀྱིས་སྒྲོལ་འགྱུར་བ། ། དེ་ལ་བག་ཅན་རྣམས་ཀྱིས་ཅིས་མི་བརྟེན། །",
+  "dm": "Even if one has committed extremely unbearable sins, Just as one relies on a hero to escape great terror, Why would those who are conscientious not rely upon That which swiftly liberates them?",
+  "gm": "Even if one has committed extremely unbearable evils, Just as one relies on a hero when in great fear, By relying on it, one is liberated in an instant; Why do conscientious beings not rely upon it?"
+ },
+ {
+  "id": "1-14",
+  "heading": false,
+  "bo": "དེས་ནི་དུས་མཐའི་མེ་བཞིན་སྡིག་ཆེན་རྣམས། ། སྐད་ཅིག་གཅིག་གིས་ངེས་པར་སྲེག་པར་བྱེད། ། དེ་ཡི་ཕན་ཡོན་དཔག་ཏུ་མེད་པ་དག ། བྱམས་མགོན་བློ་དང་ལྡན་པས་ནོར་བཟང་བཤད། །",
+  "dm": "Like the fire at the end of an eon, it will surely Incinerate great sins in a single instant. Its immeasurable benefits were explained By the wise Protector Maitreya to Sudhana.",
+  "gm": "Like the fire at the end of time, it Certainly burns up great evils in a single instant; Its immeasurable benefits Were explained to Sudhana by the wise Lord Maitreya."
+ },
+ {
+  "id": "1-15",
+  "heading": false,
+  "bo": "བྱང་ཆུབ་སེམས་དེ་མདོར་བསྡུས་ན། ། རྣམ་པ་གཉིས་སུ་ཤེས་བྱ་སྟེ། ། བྱང་ཆུབ་སྨོན་པའི་སེམས་དང་ནི། ། བྱང་ཆུབ་འཇུག་པ་ཉིད་ཡིན་ནོ། །",
+  "dm": "To summarize that awakening mind, It should be understood as being of two types: The mind that aspires for awakening, and The mind that engages in awakening.",
+  "gm": "In brief, that mind of awakening Should be understood as being of two types: The mind aspiring to awakening, and The mind entering awakening itself."
+ },
+ {
+  "id": "1-16",
+  "heading": false,
+  "bo": "འགྲོ་བར་འདོད་དང་འགྲོ་བ་ཡི། ། བྱེ་བྲག་ཇི་ལྟར་ཤེས་པ་ལྟར། ། དེ་བཞིན་མཁས་པས་འདི་གཉིས་ཀྱི། ། བྱེ་བྲག་རིམ་བཞིན་ཤེས་པར་བྱ། །",
+  "dm": "Just as one understands the distinction Between the desire to go and the act of going, In the same way, the wise should understand The distinction between these two in proper sequence.",
+  "gm": "Just as one understands the difference Between wishing to go and actually going, Likewise, the wise should understand the difference Between these two in their respective order."
+ },
+ {
+  "id": "1-17",
+  "heading": false,
+  "bo": "བྱང་ཆུབ་སྨོན་པའི་སེམས་ལས་ནི། ། འཁོར་ཚེ་འབྲས་བུ་ཆེ་འབྱུང་ཡང་། ། ཇི་ལྟར་འཇུག་པའི་སེམས་བཞིན་དུ། ། བསོད་ནམས་རྒྱུན་ཆགས་འབྱུང་བ་མིན། །",
+  "dm": "Although great fruits arise from the aspiring mind While wandering in cyclic existence, It does not produce a continuous flow of merit In the way that the engaging mind does.",
+  "gm": "From the mind aspiring to awakening, Great fruits arise while in cyclic existence, but Unlike the mind entering awakening, A continuous stream of merit does not arise."
+ },
+ {
+  "id": "1-18",
+  "heading": false,
+  "bo": "གང་ནས་བཟུང་སྟེ་སེམས་ཅན་ཁམས། ། མཐའ་ཡས་རབ་ཏུ་དགྲོལ་བའི་ཕྱིར། ། མི་ལྡོག་པ་ཡི་སེམས་ཀྱིས་སུ། ། སེམས་དེ་ཡང་དག་བླངས་གྱུར་པ། །",
+  "dm": "From the moment one has correctly adopted that mind With an irreversible resolve In order to thoroughly liberate The infinite realms of sentient beings,",
+  "gm": "From the moment that, In order to completely free the infinite realms of beings, With a mind that does not turn back, One perfectly takes up that mind,"
+ },
+ {
+  "id": "1-19",
+  "heading": false,
+  "bo": "དེང་ནས་བཟུང་སྟེ་གཉིད་ལོག་གམ། ། བག་མེད་གྱུར་ཀྱང་བསོད་ནམས་ཤུགས། ། རྒྱུན་མི་འཆད་པར་དུ་མ་ཞིག ། ནམ་མཁའ་མཉམ་པར་རབ་ཏུ་འབྱུང་། །",
+  "dm": "From this moment onward, even while sleeping or Becoming heedless, a force of merit Continuous and manifold Will arise, as vast as space.",
+  "gm": "From then on, even while asleep Or inattentive, a force of merit, Uninterrupted and manifold, Continually arises, equal to the sky."
+ },
+ {
+  "id": "1-20",
+  "heading": false,
+  "bo": "འདི་ནི་འཐད་པ་དང་བཅས་པར། ། ལག་བཟང་གིས་ནི་ཞུས་པ་ལས། ། དམན་མོས་སེམས་ཅན་དོན་གྱི་ཕྱིར། ། དེ་བཞིན་གཤེགས་པ་ཉིད་ཀྱིས་གསུངས། །",
+  "dm": "This is reasonable, and as it was Requested by Subāhu, For the sake of beings with lesser aspirations, The Tathāgata himself has spoken.",
+  "gm": "Along with the reasoning for this, In the Questions of Subāhu, For the sake of beings of lesser inclination, It was taught by the Tathāgata himself."
+ },
+ {
+  "id": "1-21",
+  "heading": false,
+  "bo": "སེམས་ཅན་རྣམས་ཀྱི་ཀླད་ནད་ཙམ། ། བསལ་ལོ་སྙམ་དུ་བསམས་ན་ཡང་། ། ཕན་འདོགས་བསམ་པ་དང་ལྡན་དེ། ། བསོད་ནམས་དཔག་མེད་ལྡན་གྱུར་ན། །",
+  "dm": "If even thinking, \"I shall dispel The mere headaches of sentient beings,\" Is a beneficial intention Endowed with immeasurable merit,",
+  "gm": "\"I shall cure just the headaches Of sentient beings\"—even if one just thinks this, Possessing that beneficial intention Endows one with immeasurable merit."
+ },
+ {
+  "id": "1-22",
+  "heading": false,
+  "bo": "སེམས་ཅན་རེ་རེའི་མི་བདེ་བ། ། དཔག་ཏུ་མེད་པ་བསལ་འདོད་ཅིང་། ། རེ་རེའང་ཡོན་ཏན་དཔག་མེད་དུ། ། བསྒྲུབ་པར་འདོད་པ་སྨོས་ཅི་དགོས། །",
+  "dm": "Then what need is there to mention the desire To dispel the infinite suffering of every single sentient being, And the desire to bring each one To immeasurable excellence?",
+  "gm": "The discomforts of each and every sentient being, Immeasurable as they are, one wishes to dispel; And for each, immeasurable good qualities One wishes to accomplish—what need is there to mention?"
+ },
+ {
+  "id": "1-23",
+  "heading": false,
+  "bo": "ཕའམ་ཡང་ན་མ་ཡང་རུང་། ། སུ་ལ་འདི་འདྲའི་ཕན་སེམས་ཡོད། ། ལྷ་དང་དྲང་སྲོང་རྣམས་ཀྱང་རུང་། ། ཚངས་པ་ལ་ཡང་འདི་ཡོད་དམ། །",
+  "dm": "Whether it be a father or even a mother, Who else possesses such a benevolent intention? Do even the gods or the sages possess it? Does even Brahmā have such a mind?",
+  "gm": "Whether it be a father or even a mother, Who has such a beneficial mind? Do the gods or the sages, Or even Brahmā have this?"
+ },
+ {
+  "id": "1-24",
+  "heading": false,
+  "bo": "སེམས་ཅན་དེ་དག་ཉིད་ལ་སྔོན། ། རང་གི་དོན་དུ་འདི་འདྲའི་སེམས། ། རྨི་ལམ་དུ་ཡང་མ་རྨིས་ན། ། གཞན་གྱི་དོན་དུ་ག་ལ་སྐྱེ། །",
+  "dm": "If those very beings have never before, Even in their dreams, dreamed of such an intention For their own sake, How could it ever arise for the sake of others?",
+  "gm": "If, for those very sentient beings in the past, Such a mind, even for their own sake, Was not dreamt of even in a dream, How could it arise for the sake of others?"
+ },
+ {
+  "id": "1-25",
+  "heading": false,
+  "bo": "གཞན་དག་རང་གི་དོན་དུ་ཡང་། ། མི་འབྱུང་སེམས་ཅན་དོན་སེམས་གང་། ། སེམས་ཀྱི་རིན་ཆེན་ཁྱད་པར་འདི། ། སྔ་ན་མེད་པའི་རྨད་ཅིག་འཁྲུངས། །",
+  "dm": "That intention to benefit sentient beings, Which does not arise in others even for their own sake— This extraordinary jewel of the mind Is born as an unprecedented wonder.",
+  "gm": "Even for their own sake, in others This intention for the sake of sentient beings does not arise. This extraordinary jewel of a mind Is born as an unprecedented wonder."
+ },
+ {
+  "id": "1-26",
+  "heading": false,
+  "bo": "འགྲོ་བ་ཀུན་གྱི་དགའ་བའི་རྒྱུ། ། སེམས་ཅན་སྡུག་བསྔལ་རྩིར་གྱུར་པ། ། རིན་ཆེན་སེམས་ཀྱི་བསོད་ནམས་གང་། ། དེ་ལ་ཇི་ལྟར་གཞལ་གྱིས་ལང་། །",
+  "dm": "The cause of joy for all wandering beings, The medicine for the suffering of sentient beings— How could the merit of such a precious mind Ever be measured?",
+  "gm": "The cause of joy for all transmigrating beings, The medicine for the suffering of sentient beings— The merit of that jewel-like mind, How could it ever be measured?"
+ },
+ {
+  "id": "1-27",
+  "heading": false,
+  "bo": "ཕན་པར་བསམས་པ་ཙམ་གྱིས་ཀྱང་། ། སངས་རྒྱས་མཆོད་ལས་ཁྱད་འཕགས་ན། ། སེམས་ཅན་མ་ལུས་ཐམས་ཅད་ཀྱི། ། བདེ་དོན་བརྩོན་པ་སྨོས་ཅི་དགོས། །",
+  "dm": "If even the mere thought of being beneficial Excels the worship of the Buddhas, What need is there to mention striving For the welfare and happiness of every single being without exception?",
+  "gm": "If merely intending to be beneficial Is more exalted than making offerings to the Buddhas, Of all sentient beings without exception, What need is there to mention striving for their happiness and welfare?"
+ },
+ {
+  "id": "1-28",
+  "heading": false,
+  "bo": "སྡུག་བསྔལ་འདོར་འདོད་སེམས་ཡོད་ཀྱང་། ། སྡུག་བསྔལ་ཉིད་ལ་མངོན་པར་རྒྱུག ། བདེ་བ་འདོད་ཀྱང་གཏི་མུག་པས། ། རང་གི་བདེ་བ་དགྲ་ལྟར་འཇོམས། །",
+  "dm": "Although they have the desire to cast off suffering, They rush headlong into suffering itself. Although they desire happiness, through delusion They destroy their own happiness as if it were an enemy.",
+  "gm": "Although having the wish to abandon suffering, They run directly toward suffering itself. Although desiring happiness, out of ignorance, They destroy their own happiness as if it were an enemy."
+ },
+ {
+  "id": "1-29",
+  "heading": false,
+  "bo": "གང་ཞིག་བདེ་བས་ཕོངས་པ་དང་། ། སྡུག་བསྔལ་མང་ལྡན་དེ་དག་ལ། ། བདེ་བ་ཀུན་གྱིས་ཚིམ་པ་དང་། ། སྡུག་བསྔལ་ཐམས་ཅད་གཅོད་བྱེད་ཅིང་། །",
+  "dm": "For those who are destitute of happiness And burdened by many sufferings, It satisfies them with every joy, Cuts through all their suffering,",
+  "gm": "For those who are destitute of happiness And who have many sufferings, It satisfies them with all happiness And cuts through all sufferings,"
+ },
+ {
+  "id": "1-30",
+  "heading": false,
+  "bo": "གཏི་མུག་ཀྱང་ནི་སེལ་བྱེད་པ། ། དེ་དང་དགེ་མཚུངས་ག་ལ་ཡོད། ། དེ་འདྲའི་བཤེས་ཀྱང་ག་ལ་ཡོད། ། བསོད་ནམས་དེ་འདྲའང་ག་ལ་ཡོད། །",
+  "dm": "And even dispels their delusion. Where is there any virtue equal to that? Where could there be such a friend? How could there ever be such merit?",
+  "gm": "And dispels even their ignorance. Where is there a virtue comparable to that? Where is there a friend like that? Where is there even merit like that?"
+ },
+ {
+  "id": "1-31",
+  "heading": false,
+  "bo": "ཕན་བཏགས་ལན་ལྡོན་གང་ཡིན་པ། ། དེ་ཡང་རེ་ཞིག་བསྔགས་འོས་ན། ། མ་བཅོལ་ལེགས་པར་བྱེད་པ་ཡི། ། བྱང་ཆུབ་སེམས་དཔའ་སྨོས་ཅི་དགོས། །",
+  "dm": "If even one who returns a favor is worthy of some praise, What need is there to mention a Bodhisattva Who performs good deeds without being asked?",
+  "gm": "If whoever repays a benefit done to them Is worthy of some praise, The Bodhisattva who does good without being asked, What need is there to mention?"
+ },
+ {
+  "id": "1-32",
+  "heading": false,
+  "bo": "འགྲོ་བ་ཉུང་ཟད་ནར་མའི་ཟས་སྦྱོར་བ། ། སྐད་ཅིག་ཟས་ཙམ་སྦྱིན་པར་བྱེད་པ་དང་། ། བརྙས་བཅས་ཉིན་ཕྱེད་འགྲངས་པར་བྱེད་པ་ཡང་། ། དགེ་བ་བྱེད་པ་ཡིན་ཞེས་སྐྱེ་བོས་བཀུར། །",
+  "dm": "The world honors as a \"doer of virtue\" someone who provides A mere meal of ordinary food to a few beings, Giving it contemptuously just to satisfy them for half a day, Even if it is only a momentary gift.",
+  "gm": "One who provides regular food to a few beings, Giving merely a meal for a brief instant, Or satisfying them for half a day with contempt, Is honored by people as a doer of virtue."
+ },
+ {
+  "id": "1-33",
+  "heading": false,
+  "bo": "སེམས་ཅན་གྲངས་མཐའ་ཡས་ལ་དུས་རིང་དུ། ། བདེ་བར་གཤེགས་ཀྱི་བདེ་བ་བླ་ན་མེད། ། ཡིད་ལ་བསམ་པ་མཐའ་དག་རྫོགས་བྱེད་པ། ། རྟག་ཏུ་སྦྱིན་པ་ལྟ་ཞིག་སྨོས་ཅི་དགོས། །",
+  "dm": "What need is there to mention one who constantly bestows Upon an infinite number of sentient beings for an endless duration The unsurpassed bliss of the Sugatas, Which fulfills every heartfelt aspiration?",
+  "gm": "To limitless numbers of sentient beings for a long time, The unsurpassable bliss of the Sugatas, Which fulfills all the wishes in their minds, What need is there to mention constantly giving?"
+ },
+ {
+  "id": "1-34",
+  "heading": false,
+  "bo": "གང་ཞིག་དེ་འདྲའི་རྒྱལ་སྲས་སྦྱིན་བདག་ལ། ། གལ་ཏེ་ངན་སེམས་སྐྱེད་པར་བྱེད་ན་དེ། ། ངན་སེམས་བསྐྱེད་པའི་གྲངས་བཞིན་བསྐལ་པར་ནི། ། དམྱལ་བར་གནས་པར་འགྱུར་ཞེས་ཐུབ་པས་གསུངས། །",
+  "dm": "The Sage has declared that whoever gives rise to a malicious thought Toward such a benefactor, a Son of the Conquerors, Will remain in hell for as many aeons As the number of malicious thoughts produced.",
+  "gm": "If anyone toward such a benefactor, a Child of the Conquerors, Generates an evil thought, that one For eons equal to the number of evil thoughts generated Will abide in hell, so the Capable One has taught."
+ },
+ {
+  "id": "1-35",
+  "heading": false,
+  "bo": "འོན་ཏེ་གང་ཞིག་ཡིད་རབ་དང་བྱེད་ན། ། དེ་ཡི་འབྲས་བུ་དེ་བས་ལྷག་པར་འཕེལ། ། རྒྱལ་སྲས་རྣམས་ལ་དོ་གལ་ཆེན་པོས་ཀྱང་། ། སྡིག་པ་མི་འབྱུང་དགེ་བ་ངང་གིས་འཕེལ། །",
+  "dm": "However, if one develops a deeply devoted mind, Its fruit will increase even more than that; Even when great difficulties arise for the Bodhisattvas, No sin occurs, and their virtue naturally increases.",
+  "gm": "But if anyone gives rise to a mind of deep faith, Its fruit increases even more than that. Even in great adversity for the Children of the Conquerors, Non-virtue does not arise, and virtue naturally increases."
+ },
+ {
+  "id": "1-36",
+  "heading": false,
+  "bo": "གང་ལ་སེམས་ཀྱི་དམ་པ་རིན་ཆེན་དེ། ། སྐྱེས་པ་དེ་ཡི་སྐུ་ལ་ཕྱག་འཚལ་ཞིང་། ། གང་ལ་གནོད་པ་བྱས་ཀྱང་བདེ་འབྲེལ་བ། ། བདེ་བའི་འབྱུང་གནས་དེ་ལ་སྐྱབས་སུ་མཆི། །",
+  "dm": "I prostrate to the bodies of those in whom That most precious and excellent mind has arisen; I take refuge in that source of happiness, Who brings about bliss even for those who cause them harm.",
+  "gm": "In whomever that supreme, precious mind Has been born, I bow to their body, and To those whom even doing harm connects one to happiness, I go for refuge to those sources of happiness."
+ },
+ {
+  "id": "1-a",
+  "heading": false,
+  "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ལས་བྱང་ཆུབ་སེམས་ཀྱི་ཕན་ཡོན་བཤད་པ་ཞེས་བྱ་བ་སྟེ་ལེའུ་དང་པོའོ།། །།",
+  "dm": "This is the first chapter, titled \"Explaining the Benefits of the Awakening Mind,\" from the *Entering the Way of the Bodhisattva*.",
+  "gm": "From Entering the Way of the Bodhisattva, this is the first chapter, called Explaining the Benefits of the Awakening Mind."
+ }
+]

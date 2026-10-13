@@ -1,0 +1,129 @@
+{
+ "batch": "batch-18",
+ "segments": [
+  {
+   "id": "6-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-43",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "Since he produced the weapon and I the body",
+     "evidence": "Tibetan ཕྱུང་ (དེས་མཚོན་བདག་གི་ལུས་ཕྱུང་ན) means drew out/brought forth; bo-shenga 6-43 glosses \"དགྲ་བོ་དེས་མཚོན་ཕྱུང་ཞིང་བདག་གིས་ལུས་ཕྱུང་ན\", bo-kunpal \"མཚོན་ཆ་ཕྱུངས་ཤིང་... ལུས་ཕྱུང་ནས\". Sanskrit gṛhīta \"taken up\". \"Produced\" implies creation, not drawing out/taking up.",
+     "fix": "Since he has drawn the weapon and I have taken up the body,"
+    }
+   ]
+  },
+  {
+   "id": "6-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-45",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "Why should they resent others?",
+     "evidence": "Tibetan གཞན་ལ་བཀོན་དུ་ཅི་ཞིག་ཡོད། — བཀོན་ is \"to blame/lay the fault on\" (bo-kunpal: \"གཞན་ལ་ཁྲོ་ཞིང་བཀོན་དུ་ཅི་ཞིག་ཡོད\"; bo-shenga \"གཞན་དགྲ་བོ་དག་ལ་བཀོན་ཏུ་ཅི་ཞིག་ཡོད\"), not inner resentment; also the Tibetan is \"what is there to blame on others\", a statement of there being no basis.",
+     "fix": "what grounds are there to blame others?"
+    }
+   ]
+  },
+  {
+   "id": "6-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-47",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "If by this they go to the hell of sentient beings,",
+     "evidence": "Tibetan སེམས་ཅན་དམྱལ་འདོང་ན is \"if beings (the enemies) go to hell\": སེམས་ཅན is the subject, དམྱལ(་བར) the destination. Not a hell called \"of sentient beings\". Sanskrit \"yena yāsyanti narakāt\" and bo-shenga 6-47 \"དགྲ་དེ་དག་སེམས་ཅན་དམྱལ་བར་འདོང་ན\", bo-gyaltsab \"གང་ཟག་དེ་དག་སེམས་ཅན་དམྱལ་བར་འདོར་བར་འགྱུར་ན\" confirm the enemies go to hell. The locked-term entry སེམས་ཅན་དམྱལ is a mis-segmentation.",
+     "fix": "If because of this those beings go to hell,"
+    }
+   ]
+  },
+  {
+   "id": "6-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-61",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

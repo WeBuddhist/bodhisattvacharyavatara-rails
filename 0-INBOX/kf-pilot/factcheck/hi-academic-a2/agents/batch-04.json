@@ -1,0 +1,121 @@
+{
+ "batch": "batch-04",
+ "segments": [
+  {
+   "id": "6-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-102",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-104",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-105",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-109",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-116",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-145",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-146",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-167",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-170",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "यदि प्रमाद में पड़कर तुम, सत्त्वों को न दोगे,",
+     "evidence": "Tibetan 'གལ་ཏེ་བག་མེད་གྱུར་ནས་ཁྱོད། སེམས་ཅན་རྣམས་ལ་མ་བྱིན་ན' means: if I become heedless and you (the mind) are not given to sentient beings. Sanskrit 'tvāṃ sattveṣu na dāsyāmi yadi ... pramodataḥ' has the speaker (I) as giver and 'you' (tvām) as the thing given; bo-gyaltsab 8-170: 'ཁྱོད་སེམས་ཅན་རྣམས་ལ་མ་བྱིན་ན' and bo-shenga 'བདག་...སེམས་ཁྱོད་བདག་དང་གཞན་དུ་བརྗེས་ཏེ་སེམས་ཅན་རྣམས་ལ་མ་བྱིན་ན'. The Hindi makes the mind the giver ('तुम ... न दोगे') with no object, reversing agent and object; the next lines then also have 'तुम' as giver, so the contrast between 'I give you away' and 'you give me to the guardians' is lost.",
+     "fix": "यदि प्रमादवश मैं तुम्हें, सत्त्वों को न दूँ,"
+    }
+   ]
+  },
+  {
+   "id": "8-173",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-175",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-185",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-22",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "लोक के साथ मेलजोल का विचार",
+     "evidence": "Tibetan 'འཇིག་རྟེན་བསམ་པ་བཏང་' says only 'thought of/about the world'; Sanskrit 'lokacintayā'. 'Association/fitting in with the world' comes only from the commentary glosses (bo-shenga 'འཇིག་རྟེན་པ་རྣམས་དང་འགྲོགས་པའི་བསམ་པ', bo-kunpal 'འཇིག་རྟེན་མཐུན་འཇུག་གི་བསམ་པ') and is built into the root rendering.",
+     "fix": "लोक-चिन्ता"
+    }
+   ]
+  }
+ ]
+}

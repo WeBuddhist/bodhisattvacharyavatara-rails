@@ -1,0 +1,121 @@
+{
+ "batch": "batch-39",
+ "segments": [
+  {
+   "id": "9-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-81",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-82",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "除手等外若無他",
+     "evidence": "Tibetan ལག་སོགས་རྣམས་ལས་གཞན་མེད་ན། means 'if (the body) does not exist as other than the hands etc.'; the Chinese '無他' leaves the subject (the body) unstated and is hard to parse.",
+     "fix": "若離手等之外別無身"
+    }
+   ]
+  },
+  {
+   "id": "9-83",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "石堆",
+     "evidence": "Tibetan ཐོ་ཡོར་ལ་ནི་མི་བློ་བཞིན renders Sanskrit स्थाणौ पुरुषबुद्धिवत् (sthāṇu = a stump/post); the example is a stump or post mistaken for a person because of its shape (bo-kunpal 9-83: མི་དང་འདྲ་བའི་དབྱིབས་སུ་བཀོད་པའི་ཁྱད་པར་ ... ཐོ་ཡོར་ལ་ ... མི་རུ་འཁྲུལ་པའི་བློ). english_academic has 'stump'. A heap of stones is not the exemplum.",
+     "fix": "如於木樁生人想"
+    }
+   ]
+  },
+  {
+   "id": "9-84",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

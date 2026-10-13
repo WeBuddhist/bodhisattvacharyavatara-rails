@@ -1,0 +1,13 @@
+{"batch": "batch-24", "segments": [
+{"id": "10-57", "verdict": "pass", "issues": []},
+{"id": "10-58", "verdict": "pass", "issues": [
+ {"type": "fluency", "severity": "minor", "span": "A good thinking mind comes from his kindness. ... I have grown because of his kindness.", "evidence": "'Through whose kindness' refers to Manjushri in the first pair and to the good friend in the second; the children's text uses 'his' before either person is named, so the second 'his' reads as Manjushri rather than the good friend.", "fix": "Thanks to Manjushri's kindness, a good thinking mind comes to me. I bow down to Manjushri. Thanks to the good friend's kindness, I have grown. I also bow down to the good friend."}
+]},
+{"id": "10-a", "verdict": "pass", "issues": []},
+{"id": "a-1", "verdict": "pass", "issues": []},
+{"id": "b-1", "verdict": "pass", "issues": []},
+{"id": "b-2", "verdict": "pass", "issues": []},
+{"id": "b-3", "verdict": "pass", "issues": [
+ {"type": "mistranslation", "severity": "minor", "span": "carefully fixed", "evidence": "The academic translation says 'correctly revised' (dag par bcos), meaning corrected to be accurate, not done with care.", "fix": "Even later, it was fixed so it was correct, translated, and perfectly finished by ..."}
+]}
+]}

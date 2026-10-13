@@ -1,0 +1,730 @@
+{
+ "batch": "batch-10",
+ "terms": [
+  {
+   "term_id": "T010",
+   "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+   "sanskrit": "bodhisattva",
+   "senses": [
+    {
+     "sense": "bodhisattva",
+     "occurrences": "all",
+     "academic": "bodhisattva",
+     "children": "awakening hero",
+     "basis": "style-sheet",
+     "reason": "Core term; academic keeps Sanskrit, children use awakening hero."
+    }
+   ]
+  },
+  {
+   "term_id": "T026",
+   "bo": "རྒྱུ",
+   "sanskrit": "kāraṇa",
+   "senses": [
+    {
+     "sense": "cause",
+     "occurrences": "all",
+     "academic": "cause",
+     "children": "cause",
+     "basis": "both",
+     "reason": "Both translations agree; plain English."
+    }
+   ]
+  },
+  {
+   "term_id": "T042",
+   "bo": "དྲན་པ",
+   "sanskrit": "smṛti",
+   "senses": [
+    {
+     "sense": "mindfulness",
+     "occurrences": [
+      "5-3",
+      "5-23",
+      "5-25",
+      "5-27",
+      "5-29",
+      "5-30",
+      "5-33",
+      "7-68",
+      "7-73"
+     ],
+     "academic": "mindfulness",
+     "children": "keeping in mind",
+     "basis": "style-sheet",
+     "reason": "Core term; mindfulness distinct from introspection."
+    },
+    {
+     "sense": "memory (recollection)",
+     "occurrences": [
+      "9-23"
+     ],
+     "academic": "memory",
+     "children": "memory",
+     "basis": "both",
+     "reason": "Chapter 9 argument on self-awareness: both render memory/remembered."
+    }
+   ]
+  },
+  {
+   "term_id": "T058",
+   "bo": "དམྱལ",
+   "sanskrit": "naraka",
+   "senses": [
+    {
+     "sense": "hell",
+     "occurrences": "all",
+     "academic": "hell",
+     "children": "hell",
+     "basis": "style-sheet",
+     "reason": "Core term; both agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T074",
+   "bo": "འཆི་བདག",
+   "sanskrit": "mṛtyu",
+   "senses": [
+    {
+     "sense": "Lord of Death",
+     "occurrences": "all",
+     "academic": "Lord of Death",
+     "children": "Lord of Death",
+     "basis": "style-sheet",
+     "reason": "Policy 12; both agree and distinct from Yama."
+    }
+   ]
+  },
+  {
+   "term_id": "T090",
+   "bo": "སྐྱབས་སུ་མཆི",
+   "sanskrit": "śaraṇaṃ gam",
+   "senses": [
+    {
+     "sense": "take refuge",
+     "occurrences": "all",
+     "academic": "take refuge",
+     "children": "go to for shelter",
+     "basis": "style-sheet",
+     "reason": "Fixed key verb of practice (Policy 22)."
+    }
+   ]
+  },
+  {
+   "term_id": "T106",
+   "bo": "གསལ་བ",
+   "sanskrit": "prakāśa",
+   "senses": [
+    {
+     "sense": "luminous, clear (of mind or lamp)",
+     "occurrences": [
+      "9-21",
+      "9-22"
+     ],
+     "academic": "luminous",
+     "children": "shining",
+     "basis": "gm",
+     "reason": "Mind's luminosity in the lamp analogy; G's rendering, DM also attests it."
+    },
+    {
+     "sense": "manifest (of pleasure)",
+     "occurrences": [
+      "9-134",
+      "9-135",
+      "9-137"
+     ],
+     "academic": "manifest",
+     "children": "clear",
+     "basis": "dm",
+     "reason": "Manifest pleasure as impermanent; DM majority, G also attests manifest."
+    }
+   ]
+  },
+  {
+   "term_id": "T122",
+   "bo": "དཀའ་ཐུབ",
+   "sanskrit": "tapas",
+   "senses": [
+    {
+     "sense": "austerity",
+     "occurrences": "all",
+     "academic": "austerity",
+     "children": "hard practice",
+     "basis": "dm",
+     "reason": "DM attests austerity; avoids clash with ascetic discipline; children plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T138",
+   "bo": "རྨི་ལམ",
+   "sanskrit": "svapna",
+   "senses": [
+    {
+     "sense": "dream",
+     "occurrences": "all",
+     "academic": "dream",
+     "children": "dream",
+     "basis": "both",
+     "reason": "Both agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T154",
+   "bo": "ཡི་དྭགས",
+   "sanskrit": "preta",
+   "senses": [
+    {
+     "sense": "hungry ghost",
+     "occurrences": "all",
+     "academic": "hungry ghost",
+     "children": "hungry ghost",
+     "basis": "style-sheet",
+     "reason": "Policy 11; both agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T170",
+   "bo": "སངས་རྒྱས་ཉིད",
+   "sanskrit": "buddhatva",
+   "senses": [
+    {
+     "sense": "Buddhahood",
+     "occurrences": "all",
+     "academic": "Buddhahood",
+     "children": "state of a Buddha",
+     "basis": "both",
+     "reason": "Both attest Buddhahood; children get plain phrase with Buddha."
+    }
+   ]
+  },
+  {
+   "term_id": "T186",
+   "bo": "མར་མེ",
+   "sanskrit": "dīpa",
+   "senses": [
+    {
+     "sense": "lamp",
+     "occurrences": "all",
+     "academic": "lamp",
+     "children": "lamp",
+     "basis": "both",
+     "reason": "Both agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T202",
+   "bo": "སློབ་དཔོན",
+   "sanskrit": "ācārya",
+   "senses": [
+    {
+     "sense": "master (teacher)",
+     "occurrences": "all",
+     "academic": "master",
+     "children": "teacher",
+     "basis": "both",
+     "reason": "Both attest master and teacher; academic master, children teacher."
+    }
+   ]
+  },
+  {
+   "term_id": "T218",
+   "bo": "མི་ལུས",
+   "sanskrit": "mānuṣya",
+   "senses": [
+    {
+     "sense": "human body",
+     "occurrences": "all",
+     "academic": "human body",
+     "children": "human body",
+     "basis": "both",
+     "reason": "Both agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T234",
+   "bo": "རྒོད",
+   "sanskrit": "auddhatya",
+   "senses": [
+    {
+     "sense": "agitation",
+     "occurrences": "all",
+     "academic": "agitation",
+     "children": "restlessness",
+     "basis": "dm",
+     "reason": "DM agitation fits the faculty of mind; G wildness/frivolity less exact."
+    }
+   ]
+  },
+  {
+   "term_id": "T250",
+   "bo": "བྱམས་སེམས",
+   "sanskrit": "maitracitta",
+   "senses": [
+    {
+     "sense": "loving mind",
+     "occurrences": "all",
+     "academic": "loving mind",
+     "children": "loving mind",
+     "basis": "both",
+     "reason": "Both attest loving mind."
+    }
+   ]
+  },
+  {
+   "term_id": "T266",
+   "bo": "དཀའ་ཐུབ་ཅན",
+   "sanskrit": "tapasvin",
+   "senses": [
+    {
+     "sense": "ascetic",
+     "occurrences": "all",
+     "academic": "ascetic",
+     "children": "person of hard practice",
+     "basis": "both",
+     "reason": "Both agree; children built on T122 hard practice."
+    }
+   ]
+  },
+  {
+   "term_id": "T282",
+   "bo": "རྣམ་པ",
+   "sanskrit": "ākāra",
+   "senses": [
+    {
+     "sense": "aspect",
+     "occurrences": "all",
+     "academic": "aspect",
+     "children": "way it appears",
+     "basis": "both",
+     "reason": "Both agree aspect; children plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T298",
+   "bo": "མི་རྟག་ཉིད",
+   "sanskrit": "anityatā",
+   "senses": [
+    {
+     "sense": "impermanence",
+     "occurrences": "all",
+     "academic": "impermanence",
+     "children": "not lasting",
+     "basis": "both",
+     "reason": "Both give impermanent; noun head form impermanence."
+    }
+   ]
+  },
+  {
+   "term_id": "T314",
+   "bo": "ནོར་བཟང",
+   "sanskrit": "sudhana",
+   "senses": [
+    {
+     "sense": "Sudhana (name)",
+     "occurrences": "all",
+     "academic": "Sudhana",
+     "children": "Sudhana",
+     "basis": "both",
+     "reason": "Name; both agree; no diacritics needed."
+    }
+   ]
+  },
+  {
+   "term_id": "T330",
+   "bo": "སྡིག་ལས",
+   "sanskrit": "pāpa",
+   "senses": [
+    {
+     "sense": "misdeed",
+     "occurrences": "all",
+     "academic": "misdeed",
+     "children": "harmful deed",
+     "basis": "style-sheet",
+     "reason": "Policy 14: misdeed (from སྡིག་པ), not \"negative deed\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T346",
+   "bo": "བྱང་ཆུབ་སྙིང་པོ",
+   "sanskrit": "bodhimaṇḍa",
+   "senses": [
+    {
+     "sense": "essence of awakening",
+     "occurrences": "all",
+     "academic": "essence of awakening",
+     "children": "heart of awakening",
+     "basis": "gm",
+     "reason": "G form uses awakening per Policy 1; DM enlightenment not followed."
+    }
+   ]
+  },
+  {
+   "term_id": "T362",
+   "bo": "རང་བཞིན་ཁ་ན་མ་ཐོ",
+   "sanskrit": "prakṛtisāvadya",
+   "senses": [
+    {
+     "sense": "natural misdeed",
+     "occurrences": "all",
+     "academic": "natural misdeed",
+     "children": "deed wrong in itself",
+     "basis": "both",
+     "reason": "Both give natural misdeeds; misdeed per Policy 14."
+    }
+   ]
+  },
+  {
+   "term_id": "T378",
+   "bo": "བྱང་ཆུབ་ཐུགས",
+   "sanskrit": "bodhicitta",
+   "senses": [
+    {
+     "sense": "bodhicitta (honorific)",
+     "occurrences": "all",
+     "academic": "bodhicitta",
+     "children": "awakening mind",
+     "basis": "style-sheet",
+     "reason": "Honorific variant of བྱང་ཆུབ་སེམས; Policy 2 and 20."
+    }
+   ]
+  },
+  {
+   "term_id": "T394",
+   "bo": "བག་ཡོད་བསྟན་པ",
+   "sanskrit": "apramāda",
+   "senses": [
+    {
+     "sense": "chapter title: Heedfulness",
+     "occurrences": "all",
+     "academic": "Heedfulness",
+     "children": "Carefulness",
+     "basis": "style-sheet",
+     "reason": "Policy 25: chapter title keeps བག་ཡོད་ as heedfulness; generic chapter supplied."
+    }
+   ]
+  },
+  {
+   "term_id": "T410",
+   "bo": "སྡོམ་བརྩོན",
+   "sanskrit": "yati",
+   "senses": [
+    {
+     "sense": "practitioner of restraint",
+     "occurrences": "all",
+     "academic": "practitioner of restraint",
+     "children": "person of self-restraint",
+     "basis": "new",
+     "reason": "Neither translation fits cleanly; restraint renders སྡོམ, diligence in བརྩོན."
+    }
+   ]
+  },
+  {
+   "term_id": "T426",
+   "bo": "མི་བཟོད",
+   "sanskrit": "asahiṣṇu",
+   "senses": [
+    {
+     "sense": "impatience",
+     "occurrences": "all",
+     "academic": "impatience",
+     "children": "impatience",
+     "basis": "dm",
+     "reason": "Negation of བཟོད་པ patience (Policy 19); G intolerance dropped."
+    }
+   ]
+  },
+  {
+   "term_id": "T442",
+   "bo": "ཆོས་གོས་གསུམ",
+   "sanskrit": "tricīvara",
+   "senses": [
+    {
+     "sense": "three Dharma robes",
+     "occurrences": "all",
+     "academic": "three Dharma robes",
+     "children": "three monk's robes",
+     "basis": "gm",
+     "reason": "G builds on Dharma; DM religious is vague; children avoid Dharma."
+    }
+   ]
+  },
+  {
+   "term_id": "T458",
+   "bo": "ཀརྞ་པ",
+   "sanskrit": "karṇāṭa",
+   "senses": [
+    {
+     "sense": "Karṇapa (people)",
+     "occurrences": "all",
+     "academic": "Karṇapa",
+     "children": "Karnapa",
+     "basis": "both",
+     "reason": "Place/people name; both give Karṇapa; children drop diacritics."
+    }
+   ]
+  },
+  {
+   "term_id": "T474",
+   "bo": "སེམས་བསྐྱེད",
+   "sanskrit": "bodhicittaṃ utpad",
+   "senses": [
+    {
+     "sense": "generation of bodhicitta",
+     "occurrences": "all",
+     "academic": "generation of bodhicitta",
+     "children": "giving rise to the awakening mind",
+     "basis": "style-sheet",
+     "reason": "Compound builds on bodhicitta and awakening mind (Policy 2, 19)."
+    }
+   ]
+  },
+  {
+   "term_id": "T490",
+   "bo": "སེམས་ཅན་ཞིང",
+   "sanskrit": "sattvakṣetra",
+   "senses": [
+    {
+     "sense": "field of sentient beings",
+     "occurrences": "all",
+     "academic": "field of sentient beings",
+     "children": "field of living beings",
+     "basis": "style-sheet",
+     "reason": "Policy 19 explicit compound; both agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T506",
+   "bo": "ལྷུར་བླང",
+   "sanskrit": "tātparya",
+   "senses": [
+    {
+     "sense": "earnest application",
+     "occurrences": "all",
+     "academic": "earnest application",
+     "children": "wholehearted commitment",
+     "basis": "dm",
+     "reason": "DM noun form earnest application; children plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T522",
+   "bo": "ཉེས",
+   "sanskrit": "doṣa",
+   "senses": [
+    {
+     "sense": "fault",
+     "occurrences": "all",
+     "academic": "fault",
+     "children": "fault",
+     "basis": "style-sheet",
+     "reason": "Policy 14: ཉེས་པ is fault; both agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T538",
+   "bo": "སྤྲོ་བ",
+   "sanskrit": "utsāha",
+   "senses": [
+    {
+     "sense": "enthusiasm",
+     "occurrences": "all",
+     "academic": "enthusiasm",
+     "children": "eagerness",
+     "basis": "dm",
+     "reason": "DM enthusiasm; G joy would collide with dga' ba joy."
+    }
+   ]
+  },
+  {
+   "term_id": "T554",
+   "bo": "ལྷུང་བཟེད",
+   "sanskrit": "pātra",
+   "senses": [
+    {
+     "sense": "alms bowl",
+     "occurrences": "all",
+     "academic": "alms bowl",
+     "children": "alms bowl",
+     "basis": "dm",
+     "reason": "DM alms bowl is the standard monastic term; G begging bowl similar."
+    }
+   ]
+  },
+  {
+   "term_id": "T570",
+   "bo": "ནོར",
+   "sanskrit": "dhana",
+   "senses": [
+    {
+     "sense": "wealth",
+     "occurrences": "all",
+     "academic": "wealth",
+     "children": "wealth",
+     "basis": "both",
+     "reason": "Both agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T586",
+   "bo": "བདག་གི་དོན",
+   "sanskrit": "ātmārtha",
+   "senses": [
+    {
+     "sense": "own welfare",
+     "occurrences": "all",
+     "academic": "own welfare",
+     "children": "own good",
+     "basis": "style-sheet",
+     "reason": "Policy 23: དོན in self/other pair is welfare."
+    }
+   ]
+  },
+  {
+   "term_id": "T602",
+   "bo": "བདེན་པ་གཉིས",
+   "sanskrit": "satyadvaya",
+   "senses": [
+    {
+     "sense": "two truths",
+     "occurrences": "all",
+     "academic": "two truths",
+     "children": "two truths",
+     "basis": "style-sheet",
+     "reason": "Core term; both agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T618",
+   "bo": "གཟུང",
+   "sanskrit": "grāhya",
+   "senses": [
+    {
+     "sense": "apprehended object",
+     "occurrences": "all",
+     "academic": "apprehended object",
+     "children": "thing the mind takes in",
+     "basis": "gm",
+     "reason": "Standard rendering of གཟུང pairing with apprehender; DM perceived object less technical."
+    }
+   ]
+  },
+  {
+   "term_id": "T634",
+   "bo": "ཉེར་ལེན",
+   "sanskrit": "upādāna",
+   "senses": [
+    {
+     "sense": "grasping",
+     "occurrences": "all",
+     "academic": "grasping",
+     "children": "holding on",
+     "basis": "dm",
+     "reason": "DM grasping; G appropriation is unusual; clinging reserved for ཆགས་པ."
+    }
+   ]
+  },
+  {
+   "term_id": "T650",
+   "bo": "ཕྱོགས་ཆ",
+   "sanskrit": "digvibhāga",
+   "senses": [
+    {
+     "sense": "directional part",
+     "occurrences": "all",
+     "academic": "directional part",
+     "children": "part in one direction",
+     "basis": "gm",
+     "reason": "G follows ཆ part; DM facets departs from ཆ."
+    }
+   ]
+  },
+  {
+   "term_id": "T666",
+   "bo": "གྲངས་ཅན",
+   "sanskrit": "sāṃkhya",
+   "senses": [
+    {
+     "sense": "Sāṃkhya",
+     "occurrences": "all",
+     "academic": "Sāṃkhya",
+     "children": "Samkhya",
+     "basis": "style-sheet",
+     "reason": "Policy 9; both agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T682",
+   "bo": "སྡུག་བསྔལ་རྒྱ་མཚོ",
+   "sanskrit": "duḥkhasāgara",
+   "senses": [
+    {
+     "sense": "ocean of suffering",
+     "occurrences": "all",
+     "academic": "ocean of suffering",
+     "children": "ocean of suffering",
+     "basis": "style-sheet",
+     "reason": "Policy 19 explicit compound; G agrees, DM adds unbearable from context."
+    }
+   ]
+  },
+  {
+   "term_id": "T698",
+   "bo": "ཕྱག་ན་པདྨ",
+   "sanskrit": "kamalapāṇi",
+   "senses": [
+    {
+     "sense": "Padmapāṇi (name of Avalokiteśvara)",
+     "occurrences": "all",
+     "academic": "Padmapāṇi",
+     "children": "Padmapani",
+     "basis": "both",
+     "reason": "Both give Padmapāṇi; children drop diacritics."
+    }
+   ]
+  },
+  {
+   "term_id": "T714",
+   "bo": "མཆོད་པའི་སྤྲིན",
+   "sanskrit": "pūjāmegha",
+   "senses": [
+    {
+     "sense": "cloud of offerings",
+     "occurrences": "all",
+     "academic": "cloud of offerings",
+     "children": "cloud of offerings",
+     "basis": "both",
+     "reason": "Both agree; singular head form."
+    }
+   ]
+  },
+  {
+   "term_id": "T730",
+   "bo": "བསྟན་པ",
+   "sanskrit": "śāsana",
+   "senses": [
+    {
+     "sense": "teaching (the Buddha's doctrine)",
+     "occurrences": "all",
+     "academic": "teaching",
+     "children": "Buddha's teaching",
+     "basis": "both",
+     "reason": "Both attest teaching; distinct from Dharma (ཆོས) and from children's teachings."
+    }
+   ]
+  }
+ ]
+}

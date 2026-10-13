@@ -1,0 +1,229 @@
+{
+ "batch": "batch-09",
+ "segments": [
+  {
+   "id": "6-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-39",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "如果說傷害別人是幼稚的人的本性。那麼對他們感到憤怒是不合理的。",
+     "evidence": "One conditional objection-and-reply sentence in the academic translation: 'If harming others is the nature of the childish, anger at them is not reasonable, like resenting fire for burning.' The full stop splits the conditional.",
+     "fix": "如果說傷害別人是幼稚的人的本性，那麼對他們感到憤怒就不合理，就像對火會燒東西的本性生氣一樣。"
+    }
+   ]
+  },
+  {
+   "id": "6-40",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "如果說這些過錯只是暫時的。眾生的本性其實很溫和。",
+     "evidence": "Academic translation keeps this as one conditional: 'If one says the fault is incidental, even if the nature of beings is gentle, still anger is not reasonable.' The children's text splits it and states 'beings' nature is actually gentle' as a flat fact.",
+     "fix": "如果說這些過錯只是暫時的，眾生的本性其實很溫和，就算是這樣，對他們感到憤怒也是不合理的，就像對天空出現煙霧生氣一樣。"
+    }
+   ]
+  },
+  {
+   "id": "6-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-46",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "就像地獄的守衛，還有那些劍葉森林。",
+     "evidence": "Academic translation: 'Like the hell guardians and the sword-leaf forest, since these arise from one's own karma, whom should one be angry at?' The children's 'like...' is a fragment with no predicate, so the example is hard to follow.",
+     "fix": "拿地獄的守衛和劍葉森林來說，它們都是我自己的行為造成的，那我到底該對誰憤怒呢？"
+    }
+   ]
+  },
+  {
+   "id": "6-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-61",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

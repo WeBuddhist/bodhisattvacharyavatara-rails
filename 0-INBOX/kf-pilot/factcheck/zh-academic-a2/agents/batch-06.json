@@ -1,0 +1,61 @@
+{
+ "batch": "batch-06",
+ "segments": [
+  {
+   "id": "9-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-64",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "彼未被見具有",
+     "evidence": "Tibetan དེ་ནི་སྒྲ་འཛིན་དང་ལྡན་པའི། རང་བཞིན་དུ་ནི་མཐོང་མ་ཡིན། — དེ is the form-apprehender (bo-kunpal 9-64: གཟུགས་འཛིན་དེ་ནི་སྒྲ་འཛིན་དང་ལྡན་པའི་རང་བཞིན་ཅན་དུ་ནི་ནམ་ཡང་མཐོང་བ་མ་ཡིན; bo-shenga: གཟུགས་འཛིན་པ་པོ་དེ་ནི...). Bare 彼 after the guṇa/father-son lines can be read as referring to the guṇas; english_academic specifies 'that apprehender of form'.",
+     "fix": "彼取色者未被見具有取聲之自性"
+    }
+   ]
+  },
+  {
+   "id": "9-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-87",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "如是猶如夢一般，\n對於色具分析者誰會貪著？",
+     "evidence": "Tibetan དེ་ལྟར་རྨི་ལམ་ལྟ་བུ་ཡི། གཟུགས་ལ་དཔྱོད་ལྡན་སུ་ཞིག་ཆགས། — རྨི་ལམ་ལྟ་བུ་ཡི is a modifier of གཟུགས ('form that is like a dream'); in the Chinese the dream-simile stands alone as a dangling clause in line 1 and 色 only appears in line 2, so the modifier-head relation is lost (bo-gyaltsab 9-87: རྨི་ལམ་ལྟ་བུའི་གཟུགས).",
+     "fix": "如是，對於猶如夢的色，\n具分析者誰會貪著？"
+    }
+   ]
+  },
+  {
+   "id": "9-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-90",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-92",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

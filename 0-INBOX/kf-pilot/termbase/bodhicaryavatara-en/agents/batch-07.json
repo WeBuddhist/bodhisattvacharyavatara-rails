@@ -1,0 +1,718 @@
+{
+ "batch": "batch-07",
+ "terms": [
+  {
+   "term_id": "T007",
+   "bo": "བསོད་ནམས",
+   "sanskrit": "puṇya",
+   "senses": [
+    {
+     "sense": "merit",
+     "occurrences": "all",
+     "academic": "merit",
+     "children": "store of goodness",
+     "basis": "style-sheet",
+     "reason": "Core term: merit; children store of goodness."
+    }
+   ]
+  },
+  {
+   "term_id": "T023",
+   "bo": "རྐྱེན",
+   "sanskrit": "pratyaya",
+   "senses": [
+    {
+     "sense": "condition",
+     "occurrences": "all",
+     "academic": "condition",
+     "children": "circumstance",
+     "basis": "style-sheet",
+     "reason": "Core term རྐྱེན: condition; both translations attest it."
+    }
+   ]
+  },
+  {
+   "term_id": "T039",
+   "bo": "བསྐལ་པ",
+   "sanskrit": "kalpa",
+   "senses": [
+    {
+     "sense": "eon, long age",
+     "occurrences": "all",
+     "academic": "eon",
+     "children": "great age",
+     "basis": "style-sheet",
+     "reason": "Core term བསྐལ་པ: eon; children great age."
+    }
+   ]
+  },
+  {
+   "term_id": "T055",
+   "bo": "ཆགས",
+   "sanskrit": "rāga",
+   "senses": [
+    {
+     "sense": "attachment",
+     "occurrences": "all",
+     "academic": "attachment",
+     "children": "clinging",
+     "basis": "style-sheet",
+     "reason": "Variant of ཆགས་པ; core term attachment, children clinging."
+    }
+   ]
+  },
+  {
+   "term_id": "T071",
+   "bo": "གཏི་མུག",
+   "sanskrit": "moha",
+   "senses": [
+    {
+     "sense": "ignorance",
+     "occurrences": "all",
+     "academic": "ignorance",
+     "children": "ignorance",
+     "basis": "style-sheet",
+     "reason": "Core term གཏི་མུག: ignorance (G majority), not delusion."
+    }
+   ]
+  },
+  {
+   "term_id": "T087",
+   "bo": "མགོན",
+   "sanskrit": "nātha",
+   "senses": [
+    {
+     "sense": "protector (of beings, epithet of buddhas)",
+     "occurrences": "all",
+     "academic": "Protector",
+     "children": "Protector",
+     "basis": "style-sheet",
+     "reason": "Core term མགོན་པོ; stem form, both attest Protector."
+    }
+   ]
+  },
+  {
+   "term_id": "T103",
+   "bo": "འདོད་ལྡན",
+   "sanskrit": "kāmin",
+   "senses": [
+    {
+     "sense": "person filled with desire",
+     "occurrences": "all",
+     "academic": "lustful person",
+     "children": "person full of desire",
+     "basis": "dm",
+     "reason": "DM lustful, G desires; head as person; children plain paraphrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T119",
+   "bo": "ཚོགས",
+   "sanskrit": "gaṇa; saṃbhāra; samudāya",
+   "senses": [
+    {
+     "sense": "assembly (of bodhisattvas, Saṅgha)",
+     "occurrences": [
+      "2-26"
+     ],
+     "academic": "assembly",
+     "children": "assembly",
+     "basis": "both",
+     "reason": "Both attest assembly in the refuge verse."
+    },
+    {
+     "sense": "accumulation (of merit and wisdom)",
+     "occurrences": [
+      "7-7"
+     ],
+     "academic": "accumulation",
+     "children": "stored-up goodness",
+     "basis": "both",
+     "reason": "Both attest accumulations in ཚོགས་བསག; children paraphrase."
+    },
+    {
+     "sense": "collection (of parts)",
+     "occurrences": [
+      "8-100",
+      "9-101"
+     ],
+     "academic": "collection",
+     "children": "collection of parts",
+     "basis": "both",
+     "reason": "Both attest collection; sa samudāya/kalāpa, aggregate of parts."
+    }
+   ]
+  },
+  {
+   "term_id": "T135",
+   "bo": "རྣལ་འབྱོར་པ",
+   "sanskrit": "yogin",
+   "senses": [
+    {
+     "sense": "accomplished meditator",
+     "occurrences": "all",
+     "academic": "yogi",
+     "children": "meditation master",
+     "basis": "both",
+     "reason": "Both attest yogi; Sanskrit allowed academic; children no Sanskrit."
+    }
+   ]
+  },
+  {
+   "term_id": "T151",
+   "bo": "སྐྱོབ་པ",
+   "sanskrit": "tāyin",
+   "senses": [
+    {
+     "sense": "protector, saviour",
+     "occurrences": "all",
+     "academic": "Protector",
+     "children": "Protector",
+     "basis": "dm",
+     "reason": "DM Protectors; G Savior has Christian colour; no distinct core entry."
+    }
+   ]
+  },
+  {
+   "term_id": "T167",
+   "bo": "བཟོད",
+   "sanskrit": "kṣānti",
+   "senses": [
+    {
+     "sense": "patience, tolerance",
+     "occurrences": "all",
+     "academic": "patience",
+     "children": "patience",
+     "basis": "style-sheet",
+     "reason": "Variant of བཟོད་པ; patience (both); tolerate is the verb form."
+    }
+   ]
+  },
+  {
+   "term_id": "T183",
+   "bo": "གོམས་པ",
+   "sanskrit": "abhyāsa",
+   "senses": [
+    {
+     "sense": "habituation",
+     "occurrences": "all",
+     "academic": "habituation",
+     "children": "getting used to",
+     "basis": "both",
+     "reason": "Both attest habituation; children new, plainer."
+    }
+   ]
+  },
+  {
+   "term_id": "T199",
+   "bo": "སྡིག་པ་བཤགས་པ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "chapter 2 title",
+     "occurrences": "all",
+     "academic": "Confession of Misdeeds",
+     "children": "Confessing Harmful Deeds",
+     "basis": "style-sheet",
+     "reason": "Policy 22: Confession of Misdeeds; སྡིག་པ misdeed, harmful deed for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T215",
+   "bo": "ལྷ་མིན",
+   "sanskrit": "asura",
+   "senses": [
+    {
+     "sense": "asura",
+     "occurrences": "all",
+     "academic": "asura",
+     "children": "demigod",
+     "basis": "style-sheet",
+     "reason": "Policy 11: asura; children demigod (attested by both)."
+    }
+   ]
+  },
+  {
+   "term_id": "T231",
+   "bo": "སེམས་ཀྱི་རྨ",
+   "sanskrit": "cittavraṇa",
+   "senses": [
+    {
+     "sense": "wound of the mind",
+     "occurrences": "all",
+     "academic": "wound of the mind",
+     "children": "wound of the mind",
+     "basis": "both",
+     "reason": "Both agree; compound of སེམས mind plus wound."
+    }
+   ]
+  },
+  {
+   "term_id": "T247",
+   "bo": "འཆི་བ",
+   "sanskrit": "mṛtyu",
+   "senses": [
+    {
+     "sense": "death",
+     "occurrences": "all",
+     "academic": "death",
+     "children": "death",
+     "basis": "both",
+     "reason": "Both agree; plain English."
+    }
+   ]
+  },
+  {
+   "term_id": "T263",
+   "bo": "རྣམ་སྨིན་འབྲས་བུ",
+   "sanskrit": "vipākaphala",
+   "senses": [
+    {
+     "sense": "result of karmic ripening",
+     "occurrences": "all",
+     "academic": "ripened result",
+     "children": "result that ripens",
+     "basis": "gm",
+     "reason": "G ripened result builds on result; children paraphrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T279",
+   "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "chapter 9 title",
+     "occurrences": "all",
+     "academic": "Perfection of Wisdom",
+     "children": "Perfection of Wisdom",
+     "basis": "both",
+     "reason": "Both agree; builds on wisdom and perfection core terms."
+    }
+   ]
+  },
+  {
+   "term_id": "T295",
+   "bo": "མྱུ་གུ",
+   "sanskrit": "aṅkura",
+   "senses": [
+    {
+     "sense": "sprout",
+     "occurrences": "all",
+     "academic": "sprout",
+     "children": "sprout",
+     "basis": "both",
+     "reason": "Both agree; plain English."
+    }
+   ]
+  },
+  {
+   "term_id": "T311",
+   "bo": "སྐུ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "body (of a Victor)",
+     "occurrences": "all",
+     "academic": "body",
+     "children": "body",
+     "basis": "both",
+     "reason": "Honorific སྐུ not distinguished in English; both attest body."
+    }
+   ]
+  },
+  {
+   "term_id": "T327",
+   "bo": "ཡོན་གནས",
+   "sanskrit": "dakṣiṇīya",
+   "senses": [
+    {
+     "sense": "worthy recipient of offerings",
+     "occurrences": "all",
+     "academic": "object of offering",
+     "children": "one worthy of gifts",
+     "basis": "both",
+     "reason": "Both attest object of offering; children paraphrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T343",
+   "bo": "ཚོགས་ཀྱི་མཆོག",
+   "sanskrit": "gaṇottama",
+   "senses": [
+    {
+     "sense": "supreme assembly (the Saṅgha)",
+     "occurrences": "all",
+     "academic": "Supreme Assembly",
+     "children": "Supreme Assembly",
+     "basis": "both",
+     "reason": "Both agree; epithet, capitalised."
+    }
+   ]
+  },
+  {
+   "term_id": "T359",
+   "bo": "སྨན་པ་ཐམས་ཅད་མཁྱེན",
+   "sanskrit": "sarvajñavaidya",
+   "senses": [
+    {
+     "sense": "epithet of the Buddha",
+     "occurrences": "all",
+     "academic": "Omniscient Physician",
+     "children": "All-Knowing Doctor",
+     "basis": "both",
+     "reason": "Both attest; capitalised epithet; children plainer words."
+    }
+   ]
+  },
+  {
+   "term_id": "T375",
+   "bo": "འདོད་འཇོ",
+   "sanskrit": "kāmadhenu",
+   "senses": [
+    {
+     "sense": "wish-fulfilling cow",
+     "occurrences": "all",
+     "academic": "cow of plenty",
+     "children": "wish-granting cow",
+     "basis": "both",
+     "reason": "Both attest cow of plenty; children makes the meaning plain."
+    }
+   ]
+  },
+  {
+   "term_id": "T391",
+   "bo": "འགྱོད་པ",
+   "sanskrit": "paścāttāpa",
+   "senses": [
+    {
+     "sense": "regret, remorse",
+     "occurrences": "all",
+     "academic": "regret",
+     "children": "regret",
+     "basis": "gm",
+     "reason": "G regret chosen; DM remorse; one word for both འགྱོད forms."
+    }
+   ]
+  },
+  {
+   "term_id": "T407",
+   "bo": "སེམས་ཀྱི་གསང",
+   "sanskrit": "guhya",
+   "senses": [
+    {
+     "sense": "secret of the mind",
+     "occurrences": "all",
+     "academic": "secret of the mind",
+     "children": "secret of the mind",
+     "basis": "both",
+     "reason": "Both agree; builds on སེམས mind."
+    }
+   ]
+  },
+  {
+   "term_id": "T423",
+   "bo": "འགྱོད",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "regret (variant of འགྱོད་པ)",
+     "occurrences": "all",
+     "academic": "regret",
+     "children": "regret",
+     "basis": "gm",
+     "reason": "Variant of T391 (policy 20); Tibetan says with regret; G resentful not followed."
+    }
+   ]
+  },
+  {
+   "term_id": "T439",
+   "bo": "མི་འོ་ཅོག་གི་ལུས",
+   "sanskrit": "śarīraka",
+   "senses": [
+    {
+     "sense": "human body",
+     "occurrences": "all",
+     "academic": "human body",
+     "children": "human body",
+     "basis": "both",
+     "reason": "Both agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T455",
+   "bo": "ལེགས་སྤྱང",
+   "sanskrit": "sucarita",
+   "senses": [
+    {
+     "sense": "good conduct, good deed",
+     "occurrences": "all",
+     "academic": "good conduct",
+     "children": "good action",
+     "basis": "gm",
+     "reason": "G good conduct; DM virtuous deeds would clash with virtue; children new."
+    }
+   ]
+  },
+  {
+   "term_id": "T471",
+   "bo": "འཆི་བའི་སྡུག་བསྔལ",
+   "sanskrit": "mṛtyuduḥkha",
+   "senses": [
+    {
+     "sense": "suffering of death",
+     "occurrences": "all",
+     "academic": "suffering of death",
+     "children": "suffering of death",
+     "basis": "both",
+     "reason": "Both agree; compound of death and suffering core terms."
+    }
+   ]
+  },
+  {
+   "term_id": "T487",
+   "bo": "རབ་བྱུང",
+   "sanskrit": "pravrajyā",
+   "senses": [
+    {
+     "sense": "ordination",
+     "occurrences": "all",
+     "academic": "ordination",
+     "children": "becoming a monk or nun",
+     "basis": "both",
+     "reason": "Both agree; children paraphrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T503",
+   "bo": "ངན་ལ་ཞེན་པ",
+   "sanskrit": "kutsitāsakti",
+   "senses": [
+    {
+     "sense": "attachment to what is base",
+     "occurrences": "all",
+     "academic": "attachment to what is base",
+     "children": "clinging to what is bad",
+     "basis": "new",
+     "reason": "DM academic form; children takes G, matching clinging."
+    }
+   ]
+  },
+  {
+   "term_id": "T519",
+   "bo": "ལྷུར་ལེན",
+   "sanskrit": "tātparya",
+   "senses": [
+    {
+     "sense": "earnest application (a power of diligence)",
+     "occurrences": "all",
+     "academic": "earnest application",
+     "children": "wholehearted commitment",
+     "basis": "both",
+     "reason": "Both attest earnest application; children new, avoids effort clash."
+    }
+   ]
+  },
+  {
+   "term_id": "T535",
+   "bo": "རྣམ་སྨིན",
+   "sanskrit": "vipāka",
+   "senses": [
+    {
+     "sense": "karmic ripening",
+     "occurrences": "all",
+     "academic": "ripening",
+     "children": "ripening",
+     "basis": "both",
+     "reason": "Both give ripening; base of ripened result."
+    }
+   ]
+  },
+  {
+   "term_id": "T551",
+   "bo": "སྙན་པ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "good reputation",
+     "occurrences": "all",
+     "academic": "good reputation",
+     "children": "good name",
+     "basis": "gm",
+     "reason": "G good reputation; DM renown; fame is a separate term."
+    }
+   ]
+  },
+  {
+   "term_id": "T567",
+   "bo": "མི་གཙང་ཞིང",
+   "sanskrit": "amedhyakṣetra",
+   "senses": [
+    {
+     "sense": "impure field",
+     "occurrences": "all",
+     "academic": "impure field",
+     "children": "unclean field",
+     "basis": "dm",
+     "reason": "DM impure field keeps field plus impure; G field of filth rejected."
+    }
+   ]
+  },
+  {
+   "term_id": "T583",
+   "bo": "གསང་བའི་དམ་པ",
+   "sanskrit": "guhya",
+   "senses": [
+    {
+     "sense": "supreme secret (self-other exchange)",
+     "occurrences": "all",
+     "academic": "supreme secret",
+     "children": "greatest secret",
+     "basis": "both",
+     "reason": "Both agree; children plain paraphrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T599",
+   "bo": "ཡང་དག་དམིགས",
+   "sanskrit": "ālambana",
+   "senses": [
+    {
+     "sense": "object of meditative focus",
+     "occurrences": "all",
+     "academic": "perfect object of focus",
+     "children": "perfect thing to focus on",
+     "basis": "dm",
+     "reason": "DM full form; G perfect object lacks focus; children new."
+    }
+   ]
+  },
+  {
+   "term_id": "T615",
+   "bo": "མིག་སྨན",
+   "sanskrit": "añjana",
+   "senses": [
+    {
+     "sense": "eye ointment",
+     "occurrences": "all",
+     "academic": "eye ointment",
+     "children": "eye ointment",
+     "basis": "gm",
+     "reason": "DM eye-salve, G eye-ointment; plain English ointment."
+    }
+   ]
+  },
+  {
+   "term_id": "T631",
+   "bo": "རིག་བྱེད",
+   "sanskrit": "veda",
+   "senses": [
+    {
+     "sense": "Vedas (scripture)",
+     "occurrences": "all",
+     "academic": "Vedas",
+     "children": "Vedas",
+     "basis": "both",
+     "reason": "Both agree; name of scriptures."
+    }
+   ]
+  },
+  {
+   "term_id": "T647",
+   "bo": "བརྟགས་པ",
+   "sanskrit": "kalpita",
+   "senses": [
+    {
+     "sense": "imputed",
+     "occurrences": "all",
+     "academic": "imputed",
+     "children": "imagined",
+     "basis": "both",
+     "reason": "Both attest imputed; children imagined keeps the idea."
+    }
+   ]
+  },
+  {
+   "term_id": "T663",
+   "bo": "འབྱུང",
+   "sanskrit": "bhūta",
+   "senses": [
+    {
+     "sense": "element",
+     "occurrences": "all",
+     "academic": "element",
+     "children": "element",
+     "basis": "both",
+     "reason": "Both attest elements; singular head form."
+    }
+   ]
+  },
+  {
+   "term_id": "T679",
+   "bo": "འགག་པ",
+   "sanskrit": "nirodha",
+   "senses": [
+    {
+     "sense": "cessation",
+     "occurrences": "all",
+     "academic": "cessation",
+     "children": "stopping",
+     "basis": "both",
+     "reason": "Both attest cessation; children new."
+    }
+   ]
+  },
+  {
+   "term_id": "T695",
+   "bo": "གཞལ་མེད་ཁང",
+   "sanskrit": "vimāna",
+   "senses": [
+    {
+     "sense": "divine palace",
+     "occurrences": "all",
+     "academic": "celestial palace",
+     "children": "heavenly palace",
+     "basis": "dm",
+     "reason": "DM celestial palaces; G immeasurable palaces is literal; children heavenly."
+    }
+   ]
+  },
+  {
+   "term_id": "T711",
+   "bo": "བཻ་ཌཱུརྱ",
+   "sanskrit": "vaiḍūrya",
+   "senses": [
+    {
+     "sense": "lapis lazuli",
+     "occurrences": "all",
+     "academic": "lapis lazuli",
+     "children": "lapis lazuli",
+     "basis": "both",
+     "reason": "Both agree; name of a stone."
+    }
+   ]
+  },
+  {
+   "term_id": "T727",
+   "bo": "ས་རབ་དགའ་བ",
+   "sanskrit": "pramuditā",
+   "senses": [
+    {
+     "sense": "first bodhisattva ground",
+     "occurrences": "all",
+     "academic": "Ground of Perfect Joy",
+     "children": "Ground of Perfect Joy",
+     "basis": "gm",
+     "reason": "G Perfect Joy keeps རབ perfect; DM Supreme Joy not followed."
+    }
+   ]
+  }
+ ]
+}

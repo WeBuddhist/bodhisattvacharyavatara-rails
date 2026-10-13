@@ -1,0 +1,121 @@
+{
+ "batch": "batch-15",
+ "segments": [
+  {
+   "id": "5-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-97",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "निश्चित रूप से तब तक आचरण करना चाहिए",
+     "evidence": "Tibetan 'ངེས་པར་དེ་སྲིད་སྤྱད་པར་བྱ' leaves the limit implicit; bo-gyaltsab 5-97 glosses it as 'until one is able to practise all the conduct' (སྤྱོད་པ་མཐའ་དག་ཉམས་སུ་ལེན་ནུས་པ་དེ་སྲིད་), and english_academic makes this explicit. The Hindi 'तब तक' has no antecedent and leaves the limit undefined.",
+     "fix": "जब तक समस्त (चर्याओं का) आचरण करना सम्भव न हो, तब तक निश्चित रूप से आचरण करना चाहिए"
+    }
+   ]
+  },
+  {
+   "id": "5-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-99",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "अभ्यास करे",
+     "evidence": "The final 'བསླབ' (train) is the same locked term བསླབ་པ (शिक्षा) as in 'བསླབ་པར་གསུངས་པ'; the Hindi renders the first with शिक्षा but the verb with 'अभ्यास करना', so the repeated training/शिक्षा link of the verse is lost (bo-shenga 5-99: 'འབད་དེ་བསླབ་བོ').",
+     "fix": "प्रयत्नपूर्वक शिक्षा ग्रहण करे"
+    }
+   ]
+  },
+  {
+   "id": "5-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-101",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-102",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-103",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-104",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-105",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-107",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-109",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-1",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

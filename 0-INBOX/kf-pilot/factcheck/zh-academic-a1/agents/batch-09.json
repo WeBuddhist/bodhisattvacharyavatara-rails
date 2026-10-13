@@ -1,0 +1,145 @@
+{
+ "batch": "batch-09",
+ "segments": [
+  {
+   "id": "4-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-24",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "大悲憂",
+     "evidence": "Tibetan \"མྱ་ངན་ཆེན་པོ\" means great sorrow/grief (Shenga 4-24: \"འགྱོད་ཅིང་མྱ་ངན་ཆེན་པོ་ལྡང་བར་འགྱུར\" = regret and great sorrow arise). \"大悲\" in Chinese Buddhist usage is mahākaruṇā (great compassion), so \"大悲憂\" invites a misreading.",
+     "fix": "極大憂傷"
+    }
+   ]
+  },
+  {
+   "id": "4-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-31",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "遇之縱使須彌山，亦連灰燼皆不留，將我剎那擲彼中",
+     "evidence": "The relative \"གང་དང་ཕྲད་ན\" and the correlative \"དེར\" (\"there\") refer to the Avici fire: Kunpal 4-31 \"དམྱལ་བའི་མེ་གང་དང་འཕྲད་ན་... རི་རབ་ཀྱང་... ཐལ་བ་ཙམ་ཡང་མི་ལུས་པར་བསྲེག་པར་ནུས་པ་ཡི་དམྱལ་བ་མནར་མེད་པའི་མེ་ནང་དེར་བདག་... འདོར་བར་བྱེད་\"; Shenga 4-31 and Gyaltsab 4-31 likewise \"མནར་མེད་པའི་མེ་ནང་དེར\". Sanskrit \"meror api yad āsaṅgāt ... kṣipanti māṃ tatra\". The translation instead has Mount Meru meeting the enemy (\"遇之\" = encountering the affliction-enemy) and leaves \"擲彼中\" with no antecedent, so the fire/place into which one is cast is lost.",
+     "fix": "（煩惱）此強力之敵，一剎那間將我擲入彼處——縱使須彌山一遇之，亦連灰燼皆不留（之無間獄火中）"
+    }
+   ]
+  },
+  {
+   "id": "4-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-36",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "暫遇微小加害亦生嗔者",
+     "evidence": "Tibetan \"རེ་ཞིག་གནོད་བྱེད་ཆུང་ངུ་ལ་ཡང་ཁྲོས་གྱུར་པ\" means \"for instance, (those) angered even at a slight harm-doer\" (agent: gnod byed; Kunpal 4-36 \"རེ་ཞིག་... གནོད་བྱེད་ཆུང་ངུ་ཙམ་ལ་ཡང་ཁྲོས་པ\", Shenga 4-36 \"གནོད་བྱེད་དེ་མ་བཅོམ་པར\"; Sanskrit \"svalpe 'pi apakāriṇi\"). \"暫遇...加害\" turns the harm-doer into an incident of harm and renders \"རེ་ཞིག\" as \"briefly encountering\", leaving \"彼\" in the next line without a referent.",
+     "fix": "例如，對微小之加害者亦生嗔"
+    }
+   ]
+  },
+  {
+   "id": "4-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-38",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "摧此決定之自性敵",
+     "evidence": "\"ངེས\" belongs to the verb (\"རང་བཞིན་དགྲར་ངེས་གཞོམ་བརྩོན\" = strive to destroy the natural enemy for certain); Sanskrit \"prakṛtiripūn upahantum udyatasya\" has no \"definite\" qualifying the enemy. The translation attaches 決定 to the enemy.",
+     "fix": "我今奮力必摧此天生之敵"
+    }
+   ]
+  },
+  {
+   "id": "4-39",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "苦於何故成為加害",
+     "evidence": "Tibetan \"སྡུག་བསྔལ་ཅི་ཕྱིར་གནོད་བྱེད་ཡིན\" = \"why should suffering be a harm (to me)\". \"苦於\" is a common collocation meaning \"be troubled by\", so the sentence is liable to be misparsed, and the object \"བདག་ལ\" (to me) is not expressed.",
+     "fix": "苦又何以對我為害"
+    }
+   ]
+  },
+  {
+   "id": "4-40",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

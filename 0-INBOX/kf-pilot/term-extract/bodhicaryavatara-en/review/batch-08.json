@@ -1,0 +1,584 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "5-37",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-38",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-39",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-40",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-41",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སྐད་ཅིག",
+      "reason": "Technical measure of time",
+      "dm": "moment",
+      "gm": "moment"
+     }
+    ]
+   },
+   {
+    "id": "5-42",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-43",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-44",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-45",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-46",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-47",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "Buddhist technical term",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "5-48",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཡིད",
+      "reason": "Buddhist technical term",
+      "dm": "mind",
+      "gm": "mind"
+     },
+     {
+      "bo": "ཁྲོ་བ",
+      "reason": "Buddhist technical term (affliction)",
+      "dm": "angry",
+      "gm": "angry"
+     },
+     {
+      "bo": "ཤིང་བཞིན",
+      "reason": "Recurring fixed image",
+      "dm": "like a log of wood",
+      "gm": "like a piece of wood"
+     }
+    ]
+   },
+   {
+    "id": "5-49",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-50",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཤིང་བཞིན",
+      "reason": "Recurring fixed image",
+      "dm": "like a log of wood",
+      "gm": "like a piece of wood"
+     }
+    ]
+   },
+   {
+    "id": "5-51",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "Buddhist technical term",
+      "dm": "mind",
+      "gm": "mind"
+     },
+     {
+      "bo": "ཤིང་བཞིན",
+      "reason": "Recurring fixed image",
+      "dm": "like a log of wood",
+      "gm": "like a piece of wood"
+     }
+    ]
+   },
+   {
+    "id": "5-52",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "Buddhist technical term",
+      "dm": null,
+      "gm": "mind"
+     },
+     {
+      "bo": "ཤིང་བཞིན",
+      "reason": "Recurring fixed image",
+      "dm": "like a log of wood",
+      "gm": "like a piece of wood"
+     }
+    ]
+   },
+   {
+    "id": "5-53",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "Buddhist technical term",
+      "dm": null,
+      "gm": "mind"
+     },
+     {
+      "bo": "ཤིང་བཞིན",
+      "reason": "Recurring fixed image",
+      "dm": "like a log of wood",
+      "gm": "like a piece of wood"
+     }
+    ]
+   },
+   {
+    "id": "5-54",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཡིད",
+      "reason": "Buddhist technical term",
+      "dm": null,
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "5-55",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-56",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "Buddhist technical term",
+      "dm": null,
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "5-57",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཡིད",
+      "reason": "Buddhist technical term",
+      "dm": "mind",
+      "gm": "mind"
+     },
+     {
+      "bo": "ང",
+      "reason": "Buddhist technical term (self)",
+      "dm": "self",
+      "gm": "I"
+     }
+    ]
+   },
+   {
+    "id": "5-58",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "Buddhist technical term",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "5-59",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཡིད",
+      "reason": "Buddhist technical term",
+      "dm": "mind",
+      "gm": "Mind"
+     }
+    ]
+   },
+   {
+    "id": "5-60",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Ordinary word (body), not a fixed technical term here"
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཡིད",
+      "reason": "Buddhist technical term",
+      "dm": "mind",
+      "gm": "Mind"
+     }
+    ]
+   },
+   {
+    "id": "5-61",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཡིད",
+      "reason": "Buddhist technical term",
+      "dm": "mind",
+      "gm": "mind"
+     },
+     {
+      "bo": "མི་གཙང་",
+      "reason": "Buddhist technical term (impurity/foulness)",
+      "dm": "impurities",
+      "gm": "impurities"
+     },
+     {
+      "bo": "རྨོངས་པ",
+      "reason": "Buddhist technical term (delusion)",
+      "dm": "deluded",
+      "gm": "Deluded"
+     }
+    ]
+   },
+   {
+    "id": "5-62",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བློ",
+      "reason": "Buddhist technical term",
+      "dm": "intellect",
+      "gm": "intellect"
+     }
+    ]
+   },
+   {
+    "id": "5-63",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-64",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-65",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "མི་གཙང་",
+      "reason": "Buddhist technical term (impurity/foulness)",
+      "dm": "impurities",
+      "gm": "Impurities"
+     }
+    ]
+   },
+   {
+    "id": "5-66",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-67",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-68",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-69",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-70",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 1,
+      "bo_fixed": "ཡིད་བཞིན"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "5-71",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-72",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-73",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "5-60",
+    "bo": "ལུས",
+    "reason": "Ordinary word (body), not a fixed technical term here"
+   }
+  ],
+  "fix_span": [
+   {
+    "id": "5-70",
+    "bo": "ཡིད་བཞིན་གྱི་ནི་ལུས",
+    "bo_fixed": "ཡིད་བཞིན"
+   }
+  ],
+  "add": [
+   {
+    "id": "5-41",
+    "bo": "སྐད་ཅིག",
+    "dm": "moment",
+    "gm": "moment",
+    "reason": "Technical measure of time"
+   },
+   {
+    "id": "5-47",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "Buddhist technical term"
+   },
+   {
+    "id": "5-48",
+    "bo": "ཡིད",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "Buddhist technical term"
+   },
+   {
+    "id": "5-48",
+    "bo": "ཁྲོ་བ",
+    "dm": "angry",
+    "gm": "angry",
+    "reason": "Buddhist technical term (affliction)"
+   },
+   {
+    "id": "5-48",
+    "bo": "ཤིང་བཞིན",
+    "dm": "like a log of wood",
+    "gm": "like a piece of wood",
+    "reason": "Recurring fixed image"
+   },
+   {
+    "id": "5-50",
+    "bo": "ཤིང་བཞིན",
+    "dm": "like a log of wood",
+    "gm": "like a piece of wood",
+    "reason": "Recurring fixed image"
+   },
+   {
+    "id": "5-51",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "Buddhist technical term"
+   },
+   {
+    "id": "5-51",
+    "bo": "ཤིང་བཞིན",
+    "dm": "like a log of wood",
+    "gm": "like a piece of wood",
+    "reason": "Recurring fixed image"
+   },
+   {
+    "id": "5-52",
+    "bo": "སེམས",
+    "dm": null,
+    "gm": "mind",
+    "reason": "Buddhist technical term"
+   },
+   {
+    "id": "5-52",
+    "bo": "ཤིང་བཞིན",
+    "dm": "like a log of wood",
+    "gm": "like a piece of wood",
+    "reason": "Recurring fixed image"
+   },
+   {
+    "id": "5-53",
+    "bo": "སེམས",
+    "dm": null,
+    "gm": "mind",
+    "reason": "Buddhist technical term"
+   },
+   {
+    "id": "5-53",
+    "bo": "ཤིང་བཞིན",
+    "dm": "like a log of wood",
+    "gm": "like a piece of wood",
+    "reason": "Recurring fixed image"
+   },
+   {
+    "id": "5-54",
+    "bo": "ཡིད",
+    "dm": null,
+    "gm": "mind",
+    "reason": "Buddhist technical term"
+   },
+   {
+    "id": "5-56",
+    "bo": "སེམས",
+    "dm": null,
+    "gm": "mind",
+    "reason": "Buddhist technical term"
+   },
+   {
+    "id": "5-57",
+    "bo": "ཡིད",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "Buddhist technical term"
+   },
+   {
+    "id": "5-57",
+    "bo": "ང",
+    "dm": "self",
+    "gm": "I",
+    "reason": "Buddhist technical term (self)"
+   },
+   {
+    "id": "5-58",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "Buddhist technical term"
+   },
+   {
+    "id": "5-59",
+    "bo": "ཡིད",
+    "dm": "mind",
+    "gm": "Mind",
+    "reason": "Buddhist technical term"
+   },
+   {
+    "id": "5-60",
+    "bo": "ཡིད",
+    "dm": "mind",
+    "gm": "Mind",
+    "reason": "Buddhist technical term"
+   },
+   {
+    "id": "5-61",
+    "bo": "ཡིད",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "Buddhist technical term"
+   },
+   {
+    "id": "5-61",
+    "bo": "མི་གཙང་",
+    "dm": "impurities",
+    "gm": "impurities",
+    "reason": "Buddhist technical term (impurity/foulness)"
+   },
+   {
+    "id": "5-61",
+    "bo": "རྨོངས་པ",
+    "dm": "deluded",
+    "gm": "Deluded",
+    "reason": "Buddhist technical term (delusion)"
+   },
+   {
+    "id": "5-62",
+    "bo": "བློ",
+    "dm": "intellect",
+    "gm": "intellect",
+    "reason": "Buddhist technical term"
+   },
+   {
+    "id": "5-65",
+    "bo": "མི་གཙང་",
+    "dm": "impurities",
+    "gm": "Impurities",
+    "reason": "Buddhist technical term (impurity/foulness)"
+   }
+  ]
+ }
+}

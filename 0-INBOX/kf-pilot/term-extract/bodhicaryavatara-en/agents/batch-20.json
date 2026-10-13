@@ -1,0 +1,407 @@
+{
+ "batch": "batch-20",
+ "segments": [
+  {
+   "id": "8-152",
+   "terms": []
+  },
+  {
+   "id": "8-153",
+   "terms": [
+    {
+     "bo": "འཁོར་བ",
+     "dm": "saṃsāra",
+     "gm": "saṃsāra"
+    }
+   ]
+  },
+  {
+   "id": "8-154",
+   "terms": [
+    {
+     "bo": "བསྐལ་པ་གྲངས་མེད",
+     "dm": "countless eons",
+     "gm": "countless eons"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "ཡིད",
+     "dm": "mind",
+     "gm": "mind"
+    },
+    {
+     "bo": "རང་དོན",
+     "dm": "your own interests",
+     "gm": "your own purpose"
+    }
+   ]
+  },
+  {
+   "id": "8-155",
+   "terms": [
+    {
+     "bo": "ཐུབ་པ",
+     "dm": "Buddha",
+     "gm": "Muni"
+    },
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "benefits",
+     "gm": "good qualities"
+    }
+   ]
+  },
+  {
+   "id": "8-156",
+   "terms": [
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddha"
+    }
+   ]
+  },
+  {
+   "id": "8-157",
+   "terms": [
+    {
+     "bo": "ངར་འཛིན",
+     "dm": "grasped as \"I\"",
+     "gm": "grasped as \"I\""
+    }
+   ]
+  },
+  {
+   "id": "8-158",
+   "terms": []
+  },
+  {
+   "id": "8-159",
+   "terms": [
+    {
+     "bo": "ཕྲག་དོག",
+     "dm": "envy",
+     "gm": "jealous"
+    }
+   ]
+  },
+  {
+   "id": "8-160",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "sufferings",
+     "gm": "suffering"
+    },
+    {
+     "bo": "བདེ",
+     "dm": "happiness",
+     "gm": "happiness"
+    }
+   ]
+  },
+  {
+   "id": "8-161",
+   "terms": [
+    {
+     "bo": "ཤོགས",
+     "dm": "Confess",
+     "gm": "Confess"
+    }
+   ]
+  },
+  {
+   "id": "8-162",
+   "terms": []
+  },
+  {
+   "id": "8-163",
+   "terms": [
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "virtues",
+     "gm": "good qualities"
+    },
+    {
+     "bo": "གློ་བུར",
+     "dm": "fleeting",
+     "gm": "adventitious"
+    }
+   ]
+  },
+  {
+   "id": "8-164",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "8-165",
+   "terms": [
+    {
+     "bo": "ངོ་ཚ",
+     "dm": "bashful",
+     "gm": "modesty"
+    }
+   ]
+  },
+  {
+   "id": "8-166",
+   "terms": []
+  },
+  {
+   "id": "8-167",
+   "terms": [
+    {
+     "bo": "སེམས",
+     "dm": "mind",
+     "gm": "mind"
+    }
+   ]
+  },
+  {
+   "id": "8-168",
+   "terms": [
+    {
+     "bo": "དྲེགས་པ",
+     "dm": "pride",
+     "gm": "arrogance"
+    }
+   ]
+  },
+  {
+   "id": "8-169",
+   "terms": [
+    {
+     "bo": "རང་གི་དོན",
+     "dm": "your own interests",
+     "gm": "my own purpose"
+    }
+   ]
+  },
+  {
+   "id": "8-170",
+   "terms": [
+    {
+     "bo": "དམྱལ་བ",
+     "dm": "hell",
+     "gm": "hell"
+    },
+    {
+     "bo": "བག་མེད",
+     "dm": "heedlessness",
+     "gm": "careless"
+    }
+   ]
+  },
+  {
+   "id": "8-171",
+   "terms": [
+    {
+     "bo": "ཁོན",
+     "dm": "grudges",
+     "gm": "grudges"
+    },
+    {
+     "bo": "རང་དོན",
+     "dm": "self-interested",
+     "gm": "your own purpose"
+    }
+   ]
+  },
+  {
+   "id": "8-172",
+   "terms": []
+  },
+  {
+   "id": "8-173",
+   "terms": [
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    }
+   ]
+  },
+  {
+   "id": "8-174",
+   "terms": []
+  },
+  {
+   "id": "8-175",
+   "terms": [
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "afflictions"
+    },
+    {
+     "bo": "ཕུན་ཚོགས",
+     "dm": "excellence",
+     "gm": "excellence"
+    }
+   ]
+  },
+  {
+   "id": "8-176",
+   "terms": [
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    }
+   ]
+  },
+  {
+   "id": "8-177",
+   "terms": [
+    {
+     "bo": "བདག་ཏུ་འཛིན",
+     "dm": "grasp",
+     "gm": "grasp at"
+    }
+   ]
+  },
+  {
+   "id": "8-178",
+   "terms": [
+    {
+     "bo": "ང་རྒྱལ",
+     "dm": "pride",
+     "gm": "pride"
+    }
+   ]
+  },
+  {
+   "id": "8-179",
+   "terms": [
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "ཆགས",
+     "dm": "attachment",
+     "gm": "Attachment"
+    },
+    {
+     "bo": "ཁོང་ཁྲོ",
+     "dm": "anger",
+     "gm": "anger"
+    }
+   ]
+  },
+  {
+   "id": "8-180",
+   "terms": [
+    {
+     "bo": "ཆགས་པ",
+     "dm": "attachment",
+     "gm": "attached"
+    },
+    {
+     "bo": "ཞེ་སྡང",
+     "dm": "hatred",
+     "gm": "anger"
+    }
+   ]
+  },
+  {
+   "id": "8-181",
+   "terms": []
+  },
+  {
+   "id": "8-182",
+   "terms": []
+  },
+  {
+   "id": "8-183",
+   "terms": [
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    }
+   ]
+  },
+  {
+   "id": "8-184",
+   "terms": [
+    {
+     "bo": "བག་ཡོད",
+     "dm": "conscientiousness",
+     "gm": "conscientiousness"
+    },
+    {
+     "bo": "གཉིད",
+     "dm": "sleep",
+     "gm": "sleep"
+    },
+    {
+     "bo": "རྨུགས་པ",
+     "dm": "mental dullness",
+     "gm": "lethargy"
+    }
+   ]
+  },
+  {
+   "id": "8-185",
+   "terms": [
+    {
+     "bo": "སྒྲིབ་པ",
+     "dm": "obscurations",
+     "gm": "obscurations"
+    },
+    {
+     "bo": "མཉམ་པར་གཞག",
+     "dm": "meditative equipoise",
+     "gm": "meditative equipoise"
+    },
+    {
+     "bo": "ཡང་དག་དམིགས",
+     "dm": "perfect object of focus",
+     "gm": "perfect object"
+    }
+   ]
+  },
+  {
+   "id": "8-a",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ",
+     "dm": "Entering the Conduct of a Bodhisattva",
+     "gm": "Entering the Way of the Bodhisattva"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattva",
+     "gm": "Bodhisattva"
+    },
+    {
+     "bo": "བསམ་གཏན་བསྟན་པ",
+     "dm": "The Explanation of Meditative Concentration",
+     "gm": "The Teaching on Meditative Concentration"
+    },
+    {
+     "bo": "བསམ་གཏན",
+     "dm": "Meditative Concentration",
+     "gm": "Meditative Concentration"
+    }
+   ]
+  }
+ ]
+}

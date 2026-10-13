@@ -1,0 +1,113 @@
+{
+ "batch": "batch-11",
+ "segments": [
+  {
+   "id": "5-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-15",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "The result of body and speech, too,",
+     "evidence": "Tibetan ལུས་ངག་བཅས་པའི་འབྲས་བུ་ཡང་ = the result [of effort] 'accompanied by' body and speech, even so. Sanskrit sahāpi vākśarīrābhyām ('even together with speech and body'); bo-kunpal 5-15 ལུས་ངག་དང་བཅས་པའི་འབད་རྩོལ་ཆེན་པོས; bo-gyaltsab 5-15 ལུས་ངག་དང་བཅས་པའི་སེམས་ཀྱི་འབྲས་བུ་ཡང༌། The English drops བཅས་པ ('together with') and so reads body and speech alone as the source.",
+     "fix": "The result, even when accompanied by body and speech,"
+    }
+   ]
+  },
+  {
+   "id": "5-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-31",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

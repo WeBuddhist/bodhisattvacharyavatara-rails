@@ -1,0 +1,758 @@
+{
+ "batch": "batch-24",
+ "segments": [
+  {
+   "id": "9-129",
+   "terms": [
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "qualities",
+     "gm": "qualities"
+    },
+    {
+     "bo": "སྒྲ",
+     "dm": "sound",
+     "gm": "sound"
+    },
+    {
+     "bo": "བདེ",
+     "dm": "pleasure",
+     "gm": "pleasure"
+    },
+    {
+     "bo": "སེམས་མེད",
+     "dm": "insentient",
+     "gm": "insentient"
+    }
+   ]
+  },
+  {
+   "id": "9-130",
+   "terms": [
+    {
+     "bo": "དངོས་པོ",
+     "dm": "things",
+     "gm": "things"
+    },
+    {
+     "bo": "རྒྱུ",
+     "dm": "cause",
+     "gm": "cause"
+    },
+    {
+     "bo": "རང་བཞིན",
+     "dm": "nature",
+     "gm": "nature"
+    },
+    {
+     "bo": "བདེ",
+     "dm": "pleasure",
+     "gm": "pleasure"
+    }
+   ]
+  },
+  {
+   "id": "9-131",
+   "terms": [
+    {
+     "bo": "བདེ",
+     "dm": "Pleasure",
+     "gm": "Pleasure"
+    },
+    {
+     "bo": "རྟག་པ",
+     "dm": "permanent",
+     "gm": "permanent"
+    }
+   ]
+  },
+  {
+   "id": "9-132",
+   "terms": [
+    {
+     "bo": "བདེ",
+     "dm": "pleasure",
+     "gm": "pleasure"
+    },
+    {
+     "bo": "མྱོང་བ",
+     "dm": "experience",
+     "gm": "experience"
+    },
+    {
+     "bo": "རགས",
+     "dm": "coarse",
+     "gm": "coarse"
+    },
+    {
+     "bo": "ཕྲ་བ",
+     "dm": "subtle",
+     "gm": "subtle"
+    }
+   ]
+  },
+  {
+   "id": "9-133",
+   "terms": [
+    {
+     "bo": "རགས་པ",
+     "dm": "coarse",
+     "gm": "coarseness"
+    },
+    {
+     "bo": "ཕྲ",
+     "dm": "subtle",
+     "gm": "subtle"
+    },
+    {
+     "bo": "མི་རྟག་ཉིད",
+     "dm": "impermanent",
+     "gm": "impermanent"
+    },
+    {
+     "bo": "དངོས་པོ",
+     "dm": "things",
+     "gm": "things"
+    }
+   ]
+  },
+  {
+   "id": "9-134",
+   "terms": [
+    {
+     "bo": "རགས་པ",
+     "dm": "coarse",
+     "gm": "coarseness"
+    },
+    {
+     "bo": "བདེ་བ",
+     "dm": "pleasure",
+     "gm": "pleasure"
+    },
+    {
+     "bo": "གསལ་བ",
+     "dm": "manifest",
+     "gm": "Manifest"
+    },
+    {
+     "bo": "མི་རྟག་ཉིད",
+     "dm": "impermanent",
+     "gm": "impermanent"
+    },
+    {
+     "bo": "མེད་པ",
+     "dm": "non-existent",
+     "gm": "nonexistent"
+    }
+   ]
+  },
+  {
+   "id": "9-135",
+   "terms": [
+    {
+     "bo": "གསལ་བ",
+     "dm": "manifest",
+     "gm": null
+    },
+    {
+     "bo": "རྒྱུ",
+     "dm": "cause",
+     "gm": "cause"
+    },
+    {
+     "bo": "འབྲས",
+     "dm": "effect",
+     "gm": "result"
+    }
+   ]
+  },
+  {
+   "id": "9-136",
+   "terms": [
+    {
+     "bo": "འཇིག་རྟེན",
+     "dm": "world",
+     "gm": "world"
+    },
+    {
+     "bo": "རྨོངས་པ",
+     "dm": "ignorance",
+     "gm": "ignorant"
+    },
+    {
+     "bo": "དེ་ཉིད",
+     "dm": "truth",
+     "gm": "reality"
+    }
+   ]
+  },
+  {
+   "id": "9-137",
+   "terms": [
+    {
+     "bo": "ཤེས",
+     "dm": "knowledge",
+     "gm": "knowledge"
+    },
+    {
+     "bo": "འཇིག་རྟེན",
+     "dm": "world",
+     "gm": "world"
+    },
+    {
+     "bo": "ཚད་མ",
+     "dm": "valid authority",
+     "gm": "valid cognition"
+    },
+    {
+     "bo": "གསལ་བ",
+     "dm": "manifest",
+     "gm": "manifest"
+    }
+   ]
+  },
+  {
+   "id": "9-138",
+   "terms": [
+    {
+     "bo": "ཚད་མ",
+     "dm": "valid authority",
+     "gm": "valid cognition"
+    },
+    {
+     "bo": "བརྫུན་པ",
+     "dm": "false",
+     "gm": "false"
+    },
+    {
+     "bo": "སྟོང་པ་ཉིད",
+     "dm": "emptiness",
+     "gm": "emptiness"
+    },
+    {
+     "bo": "སྒོམ་པ",
+     "dm": "meditation",
+     "gm": "Meditating"
+    }
+   ]
+  },
+  {
+   "id": "9-139",
+   "terms": [
+    {
+     "bo": "བརྟགས་པའི་དངོས",
+     "dm": "imagined entity",
+     "gm": "imputed entity"
+    },
+    {
+     "bo": "དངོས་མེད",
+     "dm": "non-existence",
+     "gm": "nonentity"
+    },
+    {
+     "bo": "རྫུན་པ",
+     "dm": "false",
+     "gm": "false"
+    }
+   ]
+  },
+  {
+   "id": "9-140",
+   "terms": [
+    {
+     "bo": "རྨི་ལམ",
+     "dm": "dream",
+     "gm": "dream"
+    },
+    {
+     "bo": "རྣམ་རྟོག",
+     "dm": "conceptual thought",
+     "gm": "conceptualization"
+    },
+    {
+     "bo": "རྣམ་པར་རྟོག་པ",
+     "dm": "conceptual thought",
+     "gm": "conceptualization"
+    }
+   ]
+  },
+  {
+   "id": "9-141",
+   "terms": [
+    {
+     "bo": "རྒྱུ་མེད",
+     "dm": "without a cause",
+     "gm": "without a cause"
+    },
+    {
+     "bo": "རྐྱེན",
+     "dm": "conditions",
+     "gm": "Conditions"
+    }
+   ]
+  },
+  {
+   "id": "9-142",
+   "terms": [
+    {
+     "bo": "སྒྱུ་མ",
+     "dm": "magical illusion",
+     "gm": "illusion"
+    },
+    {
+     "bo": "རྨོངས་པ",
+     "dm": "deluded",
+     "gm": "ignorant"
+    }
+   ]
+  },
+  {
+   "id": "9-143",
+   "terms": [
+    {
+     "bo": "སྒྱུ་མ",
+     "dm": "illusion",
+     "gm": "illusion"
+    },
+    {
+     "bo": "སྤྲུལ་པ",
+     "dm": "conjured",
+     "gm": "emanated"
+    },
+    {
+     "bo": "རྒྱུ",
+     "dm": "causes",
+     "gm": "causes"
+    }
+   ]
+  },
+  {
+   "id": "9-144",
+   "terms": [
+    {
+     "bo": "གཟུགས་བརྙན",
+     "dm": "reflection",
+     "gm": "reflection"
+    },
+    {
+     "bo": "བདེན་ཉིད",
+     "dm": "true reality",
+     "gm": "true existence"
+    }
+   ]
+  },
+  {
+   "id": "9-145",
+   "terms": [
+    {
+     "bo": "དངོས་པོ",
+     "dm": "thing",
+     "gm": "entity"
+    },
+    {
+     "bo": "རྒྱུ",
+     "dm": "cause",
+     "gm": "cause"
+    }
+   ]
+  },
+  {
+   "id": "9-146",
+   "terms": [
+    {
+     "bo": "རྒྱུ",
+     "dm": "causes",
+     "gm": "causes"
+    },
+    {
+     "bo": "དངོས་པོ་མེད་པ",
+     "dm": "non-existent thing",
+     "gm": "nonentity"
+    },
+    {
+     "bo": "དངོས་པོ",
+     "dm": "entity",
+     "gm": "entity"
+    }
+   ]
+  },
+  {
+   "id": "9-147",
+   "terms": [
+    {
+     "bo": "དངོས་པོ",
+     "dm": "entity",
+     "gm": "entity"
+    },
+    {
+     "bo": "དངོས་མེད",
+     "dm": "non-existence",
+     "gm": "nonentity"
+    }
+   ]
+  },
+  {
+   "id": "9-148",
+   "terms": [
+    {
+     "bo": "དངོས་མེད",
+     "dm": "non-existence",
+     "gm": "nonentity"
+    },
+    {
+     "bo": "དངོས་པོ",
+     "dm": "entity",
+     "gm": "entity"
+    },
+    {
+     "bo": "རང་བཞིན",
+     "dm": "nature",
+     "gm": "natures"
+    }
+   ]
+  },
+  {
+   "id": "9-149",
+   "terms": [
+    {
+     "bo": "འགག་པ",
+     "dm": "cessation",
+     "gm": "cessation"
+    },
+    {
+     "bo": "དངོས་པོ",
+     "dm": "existence",
+     "gm": "entity"
+    },
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "wandering beings",
+     "gm": "migrating beings"
+    },
+    {
+     "bo": "མ་སྐྱེས་མ་འགགས",
+     "dm": "unborn and unceasing",
+     "gm": "unproduced and unceased"
+    }
+   ]
+  },
+  {
+   "id": "9-150",
+   "terms": [
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "Wandering beings",
+     "gm": "Migrating beings"
+    },
+    {
+     "bo": "རྨི་ལམ",
+     "dm": "dream",
+     "gm": "dream"
+    },
+    {
+     "bo": "ཆུ་ཤིང",
+     "dm": "plantain tree",
+     "gm": "plantain tree"
+    },
+    {
+     "bo": "མྱ་ངན་འདས",
+     "dm": "nirvāṇa",
+     "gm": "nirvana"
+    },
+    {
+     "bo": "དེ་ཉིད",
+     "dm": "reality",
+     "gm": "reality"
+    }
+   ]
+  },
+  {
+   "id": "9-151",
+   "terms": [
+    {
+     "bo": "སྟོང་པ",
+     "dm": "empty",
+     "gm": "empty"
+    },
+    {
+     "bo": "དངོས་རྣམས",
+     "dm": "things",
+     "gm": "entities"
+    }
+   ]
+  },
+  {
+   "id": "9-152",
+   "terms": [
+    {
+     "bo": "བདེ་བ",
+     "dm": "happiness",
+     "gm": "happiness"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "དེ་ཉིད",
+     "dm": "reality",
+     "gm": "reality"
+    },
+    {
+     "bo": "སྲེད",
+     "dm": "craves",
+     "gm": "craving"
+    }
+   ]
+  },
+  {
+   "id": "9-153",
+   "terms": [
+    {
+     "bo": "འཇིག་རྟེན",
+     "dm": "world",
+     "gm": "world"
+    }
+   ]
+  },
+  {
+   "id": "9-154",
+   "terms": [
+    {
+     "bo": "ནམ་མཁའ",
+     "dm": "space",
+     "gm": "space"
+    }
+   ]
+  },
+  {
+   "id": "9-155",
+   "terms": [
+    {
+     "bo": "སྡིག་དག",
+     "dm": "sins",
+     "gm": "negative deeds"
+    }
+   ]
+  },
+  {
+   "id": "9-156",
+   "terms": [
+    {
+     "bo": "བདེ་འགྲོ",
+     "dm": "higher realms",
+     "gm": "happy realms"
+    },
+    {
+     "bo": "ངན་སོང",
+     "dm": "lower realms",
+     "gm": "lower realms"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "sufferings",
+     "gm": "sufferings"
+    }
+   ]
+  },
+  {
+   "id": "9-157",
+   "terms": [
+    {
+     "bo": "སྲིད་པ",
+     "dm": "existence",
+     "gm": "existence"
+    },
+    {
+     "bo": "དེ་ཉིད",
+     "dm": "true reality",
+     "gm": "reality"
+    }
+   ]
+  },
+  {
+   "id": "9-158",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ་རྒྱ་མཚོ",
+     "dm": "ocean of unbearable suffering",
+     "gm": "ocean of suffering"
+    }
+   ]
+  },
+  {
+   "id": "9-159",
+   "terms": []
+  },
+  {
+   "id": "9-160",
+   "terms": [
+    {
+     "bo": "རྣམ་དཔྱོད",
+     "dm": "analytical discernment",
+     "gm": "Discernment"
+    },
+    {
+     "bo": "རྣམ་གཡེང",
+     "dm": "distractions",
+     "gm": "distraction"
+    }
+   ]
+  },
+  {
+   "id": "9-161",
+   "terms": [
+    {
+     "bo": "ངན་སོང་ཆེན་པོ",
+     "dm": "great miserable realms",
+     "gm": "great lower realms"
+    },
+    {
+     "bo": "བདུད",
+     "dm": "Māra",
+     "gm": "Māra"
+    },
+    {
+     "bo": "ལོག་པའི་ལམ",
+     "dm": "wrong paths",
+     "gm": "wrong paths"
+    },
+    {
+     "bo": "ཐེ་ཚོམ",
+     "dm": "doubt",
+     "gm": "doubt"
+    }
+   ]
+  },
+  {
+   "id": "9-162",
+   "terms": [
+    {
+     "bo": "དལ་བ",
+     "dm": "leisure",
+     "gm": "leisure"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddha"
+    },
+    {
+     "bo": "ཉོན་མོངས་ཆུ་བོ",
+     "dm": "river of afflictions",
+     "gm": "river of afflictions"
+    },
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "afflictions"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "9-163",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ་ཆུ་བོ",
+     "dm": "river of pain",
+     "gm": "river of suffering"
+    }
+   ]
+  },
+  {
+   "id": "9-164",
+   "terms": []
+  },
+  {
+   "id": "9-165",
+   "terms": [
+    {
+     "bo": "རྒ་དང་འཆི",
+     "dm": "grow old or die",
+     "gm": "aging and death"
+    },
+    {
+     "bo": "ངན་སོང",
+     "dm": "lower realms",
+     "gm": "lower realms"
+    }
+   ]
+  },
+  {
+   "id": "9-166",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ་མེ",
+     "dm": "fires of suffering",
+     "gm": "fire of suffering"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    },
+    {
+     "bo": "བདེ་བ",
+     "dm": "bliss",
+     "gm": "happiness"
+    }
+   ]
+  },
+  {
+   "id": "9-167",
+   "terms": [
+    {
+     "bo": "བསོད་ནམས་ཚོགས",
+     "dm": "collection of merit",
+     "gm": "accumulation of merit"
+    },
+    {
+     "bo": "དམིགས་པ་མེད་ཚུལ",
+     "dm": "free from conceptual reference",
+     "gm": "non-apprehending"
+    },
+    {
+     "bo": "དམིགས་པ",
+     "dm": "conceptual grasping",
+     "gm": "apprehension"
+    },
+    {
+     "bo": "སྟོང་པ་ཉིད",
+     "dm": "emptiness",
+     "gm": "emptiness"
+    }
+   ]
+  },
+  {
+   "id": "9-a",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ",
+     "dm": "Engaging in the Bodhisattva Deeds",
+     "gm": "Entering the Way of the Bodhisattva"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattva",
+     "gm": "Bodhisattva"
+    },
+    {
+     "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ",
+     "dm": "Perfection of Wisdom",
+     "gm": "Perfection of Wisdom"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "Wisdom",
+     "gm": "Wisdom"
+    }
+   ]
+  }
+ ]
+}

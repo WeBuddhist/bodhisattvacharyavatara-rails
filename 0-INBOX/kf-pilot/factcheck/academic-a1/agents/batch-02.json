@@ -1,0 +1,129 @@
+{
+ "batch": "batch-02",
+ "segments": [
+  {
+   "id": "1-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-23",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "Do even the gods or the seers, / Or does even Brahmā have this?",
+     "evidence": "Tibetan ལྷ་དང་དྲང་སྲོང་རྣམས་ཀྱང་རུང་། (\"whether gods or seers\") is parallel to ཕའམ་ཡང་ན་མ་ཡང་རུང་ and takes its predicate from the next line ཚངས་པ་ལ་ཡང་འདི་ཡོད་དམ། The English turns line 3 into a verbless question (\"Do even the gods or the seers\") and then restarts with \"Or does\", which is ungrammatical as it stands; bo-kunpal 1-23 reads it as gods and seers also lacking such an intention.",
+     "fix": "Whether gods or seers,\nDoes even Brahmā have this?"
+    }
+   ]
+  },
+  {
+   "id": "1-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-29",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "It satisfies them with all happiness / And cuts through all suffering,",
+     "evidence": "The Tibetan has no pronoun subject: the verbs ཚིམ་པ་དང་། ... གཅོད་བྱེད་ཅིང་ (continued in 1-30 by སེལ་བྱེད་པ། དེ་དང་དགེ་མཚུངས་) are nominalized actions of an unstated agent, which bo-shenga 1-29 supplies as the bodhisattva (རྒྱལ་སྲས་གང་ཞིག ... བྱམས་པ་ཆེན་པོས ... སྙིང་རྗེ་ཆེན་པོས) and bo-gyaltsab 1-30 as the mind (བྱེད་ལས་ཅན་གྱི་སེམས་དེ). English \"It\" has no antecedent in the preceding verse (1-28 speaks of beings) and silently fixes one reading.",
+     "fix": "That which satisfies them with all happiness\nAnd cuts through all suffering,"
+    }
+   ]
+  },
+  {
+   "id": "1-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-33",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Which fulfills all the wishes in their minds— / What need is there to mention constantly giving this?",
+     "evidence": "In the Tibetan ཡིད་ལ་བསམ་པ་མཐའ་དག་རྫོགས་བྱེད་པ། modifies རྟག་ཏུ་སྦྱིན་པ (the constant giving), as bo-kunpal 1-33 (ཡིད་ལ་གང་ཅི་བསམ་པ་མཐའ་དག་རྫོགས་པར་བྱེད་པ་རྒྱུན་མི་འཆད་པའི་རྟག་ཏུ་སྦྱིན་པ) and Sanskrit sakalamanoratha-sampūraṇam (accusative, agreeing with the giving) show; the English relative \"Which\" attaches to \"the unsurpassed happiness\". The honor due is to the one who gives (bo-kunpal: སྦྱིན་བདག་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་བསྟོད་ཅིང་བཀུར་བར་འོས་པ་སྨོས་ཅི་དགོས), which \"mention constantly giving this\" leaves implicit.",
+     "fix": "The unsurpassed happiness of the Sugatas,\nGiven constantly so as to fulfill all their wishes—\nwhat need is there to mention [the honor due to one who gives thus]?"
+    }
+   ]
+  },
+  {
+   "id": "1-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-a",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,760 @@
+[
+ {
+  "id": "7-7",
+  "tibetan": "མྱུར་བ་ཉིད་དུ་འཆི་འགྱུར་བས། ། ཇི་སྲིད་དུ་ནི་ཚོགས་བསག་བྱ། ། དེ་ཚེ་ལེ་ལོ་སྤངས་ཀྱང་ནི། ། དུས་མ་ཡིན་པར་ཅི་ཞིག་བྱ། །",
+  "academic_translation": "Because you will die very quickly,\nYou should gather the accumulations until then.\nEven if you abandon laziness at that time,\nWhat can you do when it is not the right time?",
+  "locked_terms": [
+   {
+    "tibetan": "ཚོགས",
+    "use": "stored-up goodness"
+   },
+   {
+    "tibetan": "ལེ་ལོ",
+    "use": "laziness"
+   }
+  ],
+  "translation": "You will die very quickly. Until then, you should gather stored-up goodness. Even if you give up laziness at the very end, what can you do when it is too late?"
+ },
+ {
+  "id": "7-8",
+  "tibetan": "འདི་ནི་མ་བྱས་བརྩམས་པ་དང་། ། འདི་ཕྱེད་བྱས་པར་གནས་པ་ལ། ། གློ་བུར་འཆི་བདག་འོངས་ནས་ནི། ། ཀྱི་ཧུད་བཅོམ་ཞེས་སེམས་པར་འགྱུར། །",
+  "academic_translation": "\"This is not done, this is just begun,\nAnd this remains only half-done\"—\nWhen the Lord of Death suddenly arrives,\nI will think, \"Alas, I am destroyed!\"",
+  "locked_terms": [
+   {
+    "tibetan": "འཆི་བདག",
+    "use": "Lord of Death"
+   }
+  ],
+  "translation": "I will think, \"I haven't finished this. I just started that. This is only half done.\" Then the Lord of Death will suddenly arrive. I will think, \"Oh no, I am ruined!\""
+ },
+ {
+  "id": "7-9",
+  "tibetan": "མྱ་ངན་ཤུགས་ཀྱིས་སྐྲངས་པ་ཡི། ། མིག་དམར་གདོང་ལ་མཆི་མ་འཛག ། ཉེ་དུ་རེ་ཐག་ཆད་པ་དང་། ། གཤིན་རྗེའི་ཕོ་ཉའི་བཞིན་ལ་བལྟ། །",
+  "academic_translation": "With eyes red and swollen by the force of grief,\nTears streaming down their faces,\nMy relatives having lost all hope,\nI will gaze upon the faces of the messengers of Yama.",
+  "locked_terms": [
+   {
+    "tibetan": "གཤིན་རྗེའི་ཕོ་ཉ",
+    "use": "messenger of Yama"
+   }
+  ],
+  "translation": "My relatives will lose all hope. Their eyes will be red and puffy from crying. Tears will run down their faces. Then I will look into the faces of the messengers of Yama."
+ },
+ {
+  "id": "7-10",
+  "tibetan": "རང་སྡིག་དྲན་པས་གདུང་བ་དང་། ། དམྱལ་བའི་སྒྲ་ནི་ཐོས་པ་ཡིས། ། སྐྲག་པས་མི་གཙང་ལུས་གོས་ཤིང་། ། མྱོས་པར་འགྱུར་ཚེ་ཅི་ཞིག་བྱ། །",
+  "academic_translation": "Tormented by the memory of my own misdeeds,\nAnd hearing the sounds of hell,\nI will soil my body with filth in terror;\nWhen I become delirious, what will I do?",
+  "locked_terms": [
+   {
+    "tibetan": "སྡིག",
+    "use": "harmful deed"
+   },
+   {
+    "tibetan": "དམྱལ་བ",
+    "use": "hell"
+   }
+  ],
+  "translation": "Remembering my own harmful deeds will torment me. I will hear the sounds of hell. I will be so terrified that I soil myself. When my mind gets confused, what will I do?"
+ },
+ {
+  "id": "7-11",
+  "tibetan": "ཁྱོད་ནི་ཉ་གསོན་འགྲེ་བ་ལྟའི། ། ཚེ་འདིར་འཇིགས་དང་ལྡན་གྱུར་ན། ། སྡིག་བྱས་དམྱལ་བ་མི་བཟད་པའི། ། སྡུག་བསྔལ་རྣམས་ནི་སྨོས་ཅི་དགོས། །",
+  "academic_translation": "If you, like a live fish writhing about,\nAre possessed by fear in this life,\nHaving committed misdeeds, what need is there to mention\nThe unbearable sufferings of hell?",
+  "locked_terms": [
+   {
+    "tibetan": "དམྱལ་བ",
+    "use": "hell"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "སྡིག",
+    "use": "harmful deed"
+   }
+  ],
+  "translation": "In this life, you flip around in fear like a live fish out of water. Since you have done harmful deeds, there is no need to mention the unbearable sufferings of hell!"
+ },
+ {
+  "id": "7-12",
+  "tibetan": "ཆུ་ཚན་གྱིས་ནི་རེག་པ་ན། ། གཞོན་ཤ་ཅན་ལ་རབ་ཚ་བའི། ། དམྱལ་བ་ཡི་ནི་ལས་བྱས་ནས། ། ཅི་ཕྱིར་འདི་ལྟར་བདེ་བར་གནས། །",
+  "academic_translation": "When touched by hot water,\nYou of tender flesh are intensely scorched;\nHaving created the karma of hell,\nWhy do you remain at ease like this?",
+  "locked_terms": [
+   {
+    "tibetan": "དམྱལ་བ",
+    "use": "hell"
+   },
+   {
+    "tibetan": "ལས",
+    "use": "action"
+   }
+  ],
+  "translation": "When hot water touches you, your soft skin burns badly. You have done actions that lead to hell. Why are you just relaxing like this?"
+ },
+ {
+  "id": "7-13",
+  "tibetan": "བརྩོན་མེད་འབྲས་བུ་འདོད་པ་དང་། ། བཟེ་རེ་ཅན་ལ་གནོད་མང་ཞིང་། ། འཆི་བས་བཟུང་བཞིན་ལྷ་འདྲ་བ། ། ཀྱི་ཧུད་སྡུག་བསྔལ་དག་གིས་བཅོམ། །",
+  "academic_translation": "Desiring the result without exertion,\nBeing fragile and subject to many harms,\nSeized by death, yet acting like a god—\nAlas, you are destroyed by sufferings!",
+  "locked_terms": [
+   {
+    "tibetan": "འབྲས་བུ",
+    "use": "result"
+   },
+   {
+    "tibetan": "འཆི་བ",
+    "use": "death"
+   },
+   {
+    "tibetan": "ལྷ",
+    "use": "god"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "You want the result without trying hard. You are fragile and face many harms. Death is grabbing you, yet you act like a god. Oh no, you are destroyed by sufferings!"
+ },
+ {
+  "id": "7-14",
+  "tibetan": "མི་ཡི་གྲུ་ལ་བརྟེན་ནས་སུ། ། སྡུག་བསྔལ་ཆུ་བོ་ཆེ་ལས་སྒྲོལ། ། གྲུ་འདི་ཕྱི་ནས་རྙེད་དཀའ་བས། ། རྨོངས་པ་དུས་སུ་གཉིད་མ་ལོག །",
+  "academic_translation": "Relying on the boat of a human body,\nCross over the great river of suffering!\nSince this boat will be hard to find later,\nO fool, do not sleep at this time!",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "Use the boat of a human body to cross the great river of suffering! This boat will be hard to find later. So do not be foolish and sleep right now!"
+ },
+ {
+  "id": "7-15",
+  "tibetan": "དགའ་བའི་རྒྱུ་ནི་མཐའ་ཡས་པའི། ། དམ་ཆོས་དགའ་བའི་མཆོག་སྤངས་ནས། ། སྡུག་བསྔལ་རྒྱུ་ཡིས་གཡེང་བ་དང་། ། རྒོད་སོགས་ལ་ཁྱོད་ཅི་ཕྱིར་དགའ། །",
+  "academic_translation": "Having abandoned the supreme joy of the sublime Dharma,\nWhich is a boundless cause of joy,\nWhy do you delight in distraction by the causes of suffering,\nAnd in agitation and the like?",
+  "locked_terms": [
+   {
+    "tibetan": "དམ་ཆོས",
+    "use": "holy teachings"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "གཡེང་བ",
+    "use": "distraction"
+   },
+   {
+    "tibetan": "རྒོད",
+    "use": "restlessness"
+   }
+  ],
+  "translation": "The holy teachings are an endless cause of joy. Why have you left their great joy behind? Why do you enjoy distraction by the causes of suffering, along with restlessness and the like?"
+ },
+ {
+  "id": "7-16",
+  "tibetan": "སྒྱིད་ལུག་མེད་དང་དཔུང་ཚོགས་དང་། ། ལྷུར་བླང་བདག་ཉིད་དབང་བྱ་དང་། ། བདག་དང་གཞན་དུ་མཉམ་པ་དང་། ། བདག་དང་གཞན་དུ་བརྗེ་བར་གྱིས། །",
+  "academic_translation": "Without despondency, with a host of forces,\nWith earnest application and self-mastery,\nPractice the equality of self and others,\nAnd the exchange of self and others!",
+  "locked_terms": [
+   {
+    "tibetan": "སྒྱིད་ལུག",
+    "use": "discouragement"
+   },
+   {
+    "tibetan": "དཔུང་ཚོགས",
+    "use": "force"
+   },
+   {
+    "tibetan": "ལྷུར་བླང",
+    "use": "wholehearted commitment"
+   },
+   {
+    "tibetan": "བདག་ཉིད་དབང་བྱ",
+    "use": "mastery of oneself"
+   },
+   {
+    "tibetan": "བདག་དང་གཞན་དུ་མཉམ་པ",
+    "use": "seeing self and others as equal"
+   },
+   {
+    "tibetan": "བདག་དང་གཞན་དུ་བརྗེ་བ",
+    "use": "swapping self and others"
+   }
+  ],
+  "translation": "Let go of discouragement. Gather your force with wholehearted commitment and mastery of oneself. Practice seeing self and others as equal! Practice swapping self and others!"
+ },
+ {
+  "id": "7-17",
+  "tibetan": "བདག་གིས་བྱང་ཆུབ་ག་ལ་ཞེས། ། སྒྱིད་ལུག་པར་ནི་མི་བྱ་སྟེ། ། འདི་ལྟར་དེ་བཞིན་གཤེགས་པ་ནི། ། བདེན་པ་གསུང་བས་བདེན་འདི་གསུངས། །",
+  "academic_translation": "Thinking, \"How could I attain awakening?\"\nDo not fall into despondency;\nFor in this way the Tathāgata,\nThe Speaker of Truth, has spoken this truth:",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   },
+   {
+    "tibetan": "སྒྱིད་ལུག",
+    "use": "discouragement"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "བདེན་པ་གསུང་བ",
+    "use": "Speaker of Truth"
+   }
+  ],
+  "translation": "Do not fall into discouragement by thinking, \"How could I ever reach awakening?\" The Thus-Gone One is the Speaker of Truth, and he has spoken this truth:"
+ },
+ {
+  "id": "7-18",
+  "tibetan": "སྦྲང་བུ་ཤ་སྦྲང་བུང་བ་དང་། ། དེ་བཞིན་སྲིན་བུར་གང་གྱུར་པ། ། དེས་ཀྱང་བརྩོན་པའི་སྟོབས་བསྐྱེད་ན། ། བྱང་ཆུབ་ཐོབ་དཀའ་བླ་མེད་འཐོབ། །",
+  "academic_translation": "Flies, gadflies, and bees,\nAnd likewise whatever has become a worm—\nEven they, if they generate the power of diligence,\nWill attain unsurpassable awakening, which is hard to attain.",
+  "locked_terms": [
+   {
+    "tibetan": "བརྩོན་པའི་སྟོབས",
+    "use": "power of joyful effort"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   }
+  ],
+  "translation": "Think of flies, mosquitoes, bees, and worms. Even they can build up the power of joyful effort. If they do, they will reach the highest awakening, which is very hard to achieve."
+ },
+ {
+  "id": "7-19",
+  "tibetan": "བདག་ལྟ་རིགས་ཀྱིས་མིར་སྐྱེས་ལ། ། ཕན་དང་གནོད་པའི་ངོ་ཤེས་པས། ། བྱང་ཆུབ་སྤྱོད་པ་མ་བཏང་ན། ། བདག་གིས་བྱང་ཆུབ་ཅིས་མི་འཐོབ། །",
+  "academic_translation": "Since someone like me has been born as a human by birth,\nAnd recognizes what is beneficial and harmful,\nIf I do not abandon the conduct of awakening,\nWhy should I not attain awakening?",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སྤྱོད་པ",
+    "use": "way of acting for awakening"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   }
+  ],
+  "translation": "I have been born as a human being. I know what is helpful and what is harmful. If I do not give up the way of acting for awakening, why should I not reach awakening?"
+ },
+ {
+  "id": "7-20",
+  "tibetan": "འོན་ཏེ་རྐང་ལག་ལ་སོགས་པ། ། བཏང་དགོས་བདག་ནི་འཇིགས་ཤེ་ན། ། ལྕི་དང་ཡང་བ་མ་དཔྱད་པར། ། རྨོངས་པས་བདག་ནི་འཇིགས་པར་ཟད། །",
+  "academic_translation": "\"But my arms, legs, and so forth,\nMust be given away, so I am afraid,\" if I think—\nWithout analyzing what is heavy and what is light,\nI am merely afraid due to delusion.",
+  "locked_terms": [],
+  "translation": "I might think, \"I am afraid to give away my arms and legs.\" But this fear is just confusion. I am not thinking about what is truly hard and what is easy."
+ },
+ {
+  "id": "7-21",
+  "tibetan": "བསྐལ་པ་བྱེ་བ་གྲངས་མེད་དུ། ། ལན་གྲངས་དུ་མར་བཅད་པ་དང་། ། དབུག་དང་བསྲེག་དང་གཤེགས་འགྱུར་གྱི། ། བྱང་ཆུབ་ཐོབ་པར་མི་འགྱུར་རོ། །",
+  "academic_translation": "For countless tens of millions of eons,\nI will be cut many times over,\nPierced, burned, and split apart,\nYet I will not attain awakening.",
+  "locked_terms": [
+   {
+    "tibetan": "བསྐལ་པ",
+    "use": "great age"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   }
+  ],
+  "translation": "For countless millions of great ages, I will be cut many times. I will be pierced, burned, and split apart. Even so, I will not reach awakening."
+ },
+ {
+  "id": "7-22",
+  "tibetan": "བདག་གིས་བྱང་ཆུབ་སྒྲུབ་པ་ཡི། ། སྡུག་བསྔལ་འདི་ནི་ཚོད་ཡོད་དེ། ། ཟུག་རྔུ་ཁོང་བརླག་གནོད་བསལ་ཕྱིར། ། ལུས་རྨ་བཏོད་པའི་སྡུག་བསྔལ་བཞིན། །",
+  "academic_translation": "The suffering of my accomplishing awakening\nHas a limit;\nIt is just like the suffering of cutting open the body\nIn order to remove the harm of a splinter destroying it from within.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "The suffering of reaching awakening has a limit. It is just like the pain of cutting the body open. You do it to pull out a splinter that is destroying you from the inside."
+ },
+ {
+  "id": "7-23",
+  "tibetan": "སྨན་པ་ཀུན་ཀྱང་གསོ་དཔྱད་ཀྱིས། ། མི་བདེ་བ་ཡི་ནད་མེད་བྱེད། ། དེ་བས་སྡུག་བསྔལ་མང་པོ་དག ། གཞོམ་ཕྱིར་མི་བདེ་ཆུང་བཟོད་བྱ། །",
+  "academic_translation": "Even all physicians, through medical treatments,\nCure illness by means of discomfort;\nTherefore, to destroy many sufferings,\nI should endure a minor discomfort.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "All doctors cure sickness by causing some discomfort with their treatments. Therefore, to destroy many sufferings, I should put up with a little discomfort."
+ },
+ {
+  "id": "7-24",
+  "tibetan": "གསོ་དཔྱད་ཕལ་པ་འདི་འདྲ་བ། ། སྨན་པ་མཆོག་གིས་མ་མཛད་དེ། ། ཆོ་ག་ཤིན་ཏུ་འཇམ་པོ་ཡིས། ། ནད་ཆེན་དཔག་མེད་གསོ་བར་མཛད། །",
+  "academic_translation": "Such ordinary medical treatments\nThe Supreme Physician does not perform;\nThrough an extremely gentle method,\nHe cures immeasurable great diseases.",
+  "locked_terms": [
+   {
+    "tibetan": "སྨན་པ་མཆོག",
+    "use": "Greatest Doctor"
+   }
+  ],
+  "translation": "The Greatest Doctor does not use normal treatments like these. He uses a very gentle method. With it, he cures countless great diseases."
+ },
+ {
+  "id": "7-25",
+  "tibetan": "ཚོད་མ་ལ་སོགས་སྦྱིན་པ་ལའང་། ། འདྲེན་པས་ཐོག་མར་སྦྱོར་བར་མཛད། ། དེ་ལ་གོམས་ནས་ཕྱི་ནས་ནི། ། རིམ་གྱིས་རང་གི་ཤ་ཡང་གཏོང་། །",
+  "academic_translation": "Even in generosity with vegetables and so forth,\nThe Guide initially engages one;\nHaving become accustomed to that, later on,\nOne gradually gives away even one's own flesh.",
+  "locked_terms": [
+   {
+    "tibetan": "སྦྱིན་པ",
+    "use": "giving"
+   },
+   {
+    "tibetan": "འདྲེན་པ",
+    "use": "Guide"
+   }
+  ],
+  "translation": "At first, the Guide starts us off with giving vegetables and things like that. Once we get used to that, we can slowly learn to give away even our own flesh."
+ },
+ {
+  "id": "7-26",
+  "tibetan": "གང་ཚེ་རང་གི་ལུས་ལ་ནི། ། ཚོད་སོགས་ལྟ་བུའི་བློ་སྐྱེས་པ། ། དེ་ཚེ་ཤ་ལ་སོགས་གཏོང་བ། ། དེ་ལ་དཀའ་བ་ཅི་ཞིག་ཡོད། །",
+  "academic_translation": "When, regarding one's own body,\nAn attitude arises that it is like vegetables and so forth,\nAt that time, in giving away flesh and so forth,\nWhat difficulty is there in that?",
+  "locked_terms": [],
+  "translation": "When I think of my own body as being like simple vegetables, giving away my flesh is no longer hard. What difficulty is there in that?"
+ },
+ {
+  "id": "7-27",
+  "tibetan": "སྡིག་པ་སྤང་ཕྱིར་སྡུག་བསྔལ་མེད། ། མཁས་པའི་ཕྱིར་ན་མི་དགའ་མེད། ། འདི་ལྟར་ལོག་པར་རྟོག་པ་དང་། ། སྡིག་པས་སེམས་དང་ལུས་ལ་གནོད། །",
+  "academic_translation": "Because of having abandoned misdeeds, there is no suffering;\nBecause of being a wise person, there is no unhappiness.\nIn this way, wrong conceptions\nAnd misdeeds harm the mind and body.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡིག་པ",
+    "use": "harmful deed"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "ལོག་པར་རྟོག་པ",
+    "use": "wrong thinking"
+   },
+   {
+    "tibetan": "མཁས་པ",
+    "use": "wise person"
+   }
+  ],
+  "translation": "If I give up every harmful deed, I will have no suffering. If I am a wise person, I will not be unhappy. It is wrong thinking and harmful deeds that hurt the mind and body."
+ },
+ {
+  "id": "7-28",
+  "tibetan": "བསོད་ནམས་ཀྱིས་ནི་ལུས་བདེ་ལ། ། མཁས་པ་ཡིས་ནི་སེམས་བདེ་ན། ། གཞན་དོན་འཁོར་བར་གནས་ཀྱང་ནི། ། སྙིང་རྗེ་ཅན་དག་ཅི་སྟེ་སྐྱོ། །",
+  "academic_translation": "If the body is at ease through merit,\nAnd the mind is at ease through being a wise person,\nEven while remaining in saṃsāra for the welfare of others,\nWhy would the compassionate ones become weary?",
+  "locked_terms": [
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "store of goodness"
+   },
+   {
+    "tibetan": "མཁས་པ",
+    "use": "wise person"
+   },
+   {
+    "tibetan": "གཞན་དོན",
+    "use": "good of others"
+   },
+   {
+    "tibetan": "འཁོར་བ",
+    "use": "cycle of rebirth"
+   },
+   {
+    "tibetan": "སྙིང་རྗེ་ཅན",
+    "use": "compassionate one"
+   }
+  ],
+  "translation": "A store of goodness puts the body at ease. Being a wise person puts the mind at ease. Even while staying in the cycle of rebirth for the good of others, why would a compassionate one get tired?"
+ },
+ {
+  "id": "7-29",
+  "tibetan": "འདི་ནི་བྱང་ཆུབ་སེམས་སྟོབས་ཀྱིས། ། སྔོན་གྱི་སྡིག་པ་ཟད་བྱེད་ཅིང་། ། བསོད་ནམས་རྒྱ་མཚོ་སྡུད་བྱེད་ཕྱིར། ། ཉན་ཐོས་རྣམས་པས་མཆོག་ཏུ་བཤད། །",
+  "academic_translation": "Because this bodhisattva, through the power of bodhicitta,\nExhausts previous misdeeds\nAnd gathers an ocean of merit,\nHe is explained to be superior to the Śrāvakas.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས",
+    "use": "awakening mind"
+   },
+   {
+    "tibetan": "སྡིག་པ",
+    "use": "harmful deed"
+   },
+   {
+    "tibetan": "བསོད་ནམས་རྒྱ་མཚོ",
+    "use": "ocean of stored goodness"
+   },
+   {
+    "tibetan": "ཉན་ཐོས",
+    "use": "Hearer"
+   }
+  ],
+  "translation": "The power of the awakening mind wipes out every past harmful deed. It also gathers an ocean of stored goodness. Because of this, the bodhisattva is greater than the Hearers."
+ },
+ {
+  "id": "7-30",
+  "tibetan": "དེ་བས་སྐྱོ་ངལ་ཀུན་སེལ་བའི། ། བྱང་ཆུབ་སེམས་ཀྱི་རྟ་ཞོན་ནས། ། བདེ་ནས་བདེ་བར་འགྲོ་བ་ལ། ། སེམས་ཤེས་སུ་ཞིག་སྒྱིད་ལུག་འགྱུར། །",
+  "academic_translation": "Therefore, having mounted the horse of bodhicitta,\nWhich dispels all weariness and fatigue,\nWhile proceeding from happiness to happiness,\nWhat intelligent person would fall into despondency?",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས",
+    "use": "awakening mind"
+   },
+   {
+    "tibetan": "སྒྱིད་ལུག",
+    "use": "discouragement"
+   }
+  ],
+  "translation": "So climb onto the horse of the awakening mind! It takes away all tiredness. As you ride from happiness to happiness, what smart person would ever fall into discouragement?"
+ },
+ {
+  "id": "7-31",
+  "tibetan": "སེམས་ཅན་དོན་གྲུབ་བྱ་ཕྱིར་དཔུང་། ། མོས་བརྟན་དགའ་དང་དོར་བ་ཡིན། ། མོས་པ་སྡུག་བསྔལ་འཇིགས་པ་དང་། ། དེ་ཡི་ཕན་ཡོན་བསམ་པས་བསྐྱེད། །",
+  "academic_translation": "To accomplish the welfare of sentient beings, the forces\nAre aspiration, steadfastness, joy, and relinquishment.\nAspiration is generated through the fear of suffering\nAnd by contemplating the benefits of that aspiration.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "དཔུང",
+    "use": "strength"
+   },
+   {
+    "tibetan": "མོས",
+    "use": "strong wish"
+   },
+   {
+    "tibetan": "བརྟན",
+    "use": "steadiness"
+   },
+   {
+    "tibetan": "དགའ",
+    "use": "joy"
+   },
+   {
+    "tibetan": "དོར་བ",
+    "use": "letting go"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "ཕན་ཡོན",
+    "use": "benefit"
+   }
+  ],
+  "translation": "To help living beings, we need four kinds of strength. These are a strong wish, steadiness, joy, and letting go. A strong wish grows from the fear of suffering and from thinking about the benefits of that wish."
+ },
+ {
+  "id": "7-32",
+  "tibetan": "དེ་ལྟར་མི་མཐུན་ཕྱོགས་སྤངས་ཏེ། ། མོས་དང་ང་རྒྱལ་དགའ་དང་དོར། ། ལྷུར་ལེན་དབང་བསྒྱུར་སྟོབས་ཀྱིས་ནི། ། བརྩོན་འགྲུས་སྤེལ་ཕྱིར་འབད་པར་བྱ། །",
+  "academic_translation": "Thus, having abandoned the opposing factors,\nThrough aspiration, pride, joy, and relinquishment,\nAnd the powers of earnest application and mastery,\nI should strive to increase diligence.",
+  "locked_terms": [
+   {
+    "tibetan": "མི་མཐུན་ཕྱོགས",
+    "use": "opposite"
+   },
+   {
+    "tibetan": "མོས",
+    "use": "strong wish"
+   },
+   {
+    "tibetan": "ང་རྒྱལ",
+    "use": "pride"
+   },
+   {
+    "tibetan": "དགའ",
+    "use": "joy"
+   },
+   {
+    "tibetan": "དོར",
+    "use": "letting go"
+   },
+   {
+    "tibetan": "ལྷུར་ལེན",
+    "use": "wholehearted commitment"
+   },
+   {
+    "tibetan": "དབང་བསྒྱུར",
+    "use": "mastery"
+   },
+   {
+    "tibetan": "སྟོབས",
+    "use": "power"
+   },
+   {
+    "tibetan": "བརྩོན་འགྲུས",
+    "use": "joyful effort"
+   }
+  ],
+  "translation": "I must leave the opposite behind. I should try hard to grow my joyful effort. I will do this through a strong wish, pride, joy, and letting go. I will also use the power of wholehearted commitment and mastery."
+ },
+ {
+  "id": "7-33",
+  "tibetan": "བདག་དང་གཞན་གྱི་ཉེས་པ་ནི། ། དཔག་མེད་བདག་གིས་གཞོམ་བྱ་སྟེ། ། གང་དུ་ཉེས་པ་རེ་རེ་ལའང་། ། བསྐལ་པ་རྒྱ་མཚོ་ཟད་འགྱུར་བ། །",
+  "academic_translation": "The faults of myself and others,\nWhich are immeasurable, I must destroy;\nWherein for each and every fault\nAn ocean of eons would be exhausted.",
+  "locked_terms": [
+   {
+    "tibetan": "ཉེས་པ",
+    "use": "fault"
+   },
+   {
+    "tibetan": "བསྐལ་པ་རྒྱ་མཚོ",
+    "use": "ocean of great ages"
+   }
+  ],
+  "translation": "I must destroy the countless faults of myself and others. It would take an ocean of great ages to end each and every fault."
+ },
+ {
+  "id": "7-34",
+  "tibetan": "ཉེས་ཟད་རྩོམ་པ་དེ་ཡི་ནི། ། ཆ་ཡང་བདག་ལ་མ་མཐོང་ན། ། སྡུག་བསྔལ་དཔག་ཏུ་མེད་པའི་གནས། ། བདག་གོ་ཅི་ཕྱིར་སྙིང་མ་གས། །",
+  "academic_translation": "If of the effort to exhaust those faults,\nI do not see even a fraction in myself,\nBeing an abode of immeasurable suffering,\nWhy does my heart not burst?",
+  "locked_terms": [
+   {
+    "tibetan": "ཉེས",
+    "use": "fault"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "I do not see even a tiny bit of effort in myself to end those faults. I am a place of endless suffering. Why does my heart not burst?"
+ },
+ {
+  "id": "7-35",
+  "tibetan": "བདག་དང་གཞན་གྱི་ཡོན་ཏན་ནི། ། མང་པོ་བདག་གིས་བསྒྲུབ་བྱ་སྟེ། ། དེ་ལ་ཡོན་ཏན་རེ་རེ་ཡང་། ། བསྐལ་པ་རྒྱ་མཚོས་གོམས་འགྱུར་ན། །",
+  "academic_translation": "The good qualities of myself and others,\nWhich are many, I must accomplish;\nWherein if for each and every good quality\nI must familiarize myself for an ocean of eons,",
+  "locked_terms": [
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   },
+   {
+    "tibetan": "བསྐལ་པ་རྒྱ་མཚོ",
+    "use": "ocean of great ages"
+   }
+  ],
+  "translation": "I must build up many good qualities in myself and others. I must practice each and every good quality for an ocean of great ages."
+ },
+ {
+  "id": "7-36",
+  "tibetan": "བདག་ནི་ཡོན་ཏན་ཆ་ལ་ཡང་། ། གོམས་པ་ནམ་ཡང་མ་སྐྱེས་ཏེ། ། ཇི་ཞིག་ལྟར་རྙེད་སྐྱེ་བ་ནི། ། བདག་གིས་དོན་མེད་བྱས་པ་མཚར། །",
+  "academic_translation": "I, for even a fraction of a good quality,\nHave never generated familiarization;\nHaving somehow found this birth,\nIt is astonishing that I have made it meaningless.",
+  "locked_terms": [
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   }
+  ],
+  "translation": "But I have never practiced even a tiny part of a good quality. I somehow found this life. It is amazing that I have made it meaningless."
+ },
+ {
+  "id": "7-37",
+  "tibetan": "བདག་གིས་བཅོམ་ལྡན་མ་མཆོད་ཅིང་། ། དགའ་སྟོན་ཆེན་པོའི་བདེ་མ་བྱིན། ། བསྟན་ལ་བྱ་བ་མ་བྱས་དང་། ། དབུལ་པོའི་བསམ་པ་རྫོགས་མ་བྱས། །",
+  "academic_translation": "I have not made offerings to the Blessed One,\nNor provided the happiness of the great festival;\nI have not performed service for the teaching,\nNor fulfilled the wishes of the poor.",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན",
+    "use": "Blessed One"
+   },
+   {
+    "tibetan": "བསྟན",
+    "use": "teachings"
+   }
+  ],
+  "translation": "I have not made offerings to the Blessed One. I have not shared the joy of a great festival. I have not served the teachings. I have not fulfilled the wishes of the poor."
+ },
+ {
+  "id": "7-38",
+  "tibetan": "འཇིགས་ལ་མི་འཇིགས་མ་བྱིན་དང་། ། ཉམ་ཐག་བདེ་མ་བྱིན་ན་བདག ། མ་ཡི་མངལ་གྱི་ཟུག་རྔུ་དང་། ། སྡུག་བསྔལ་འབའ་ཞིག་བསྐྱེད་པར་ཟད། །",
+  "academic_translation": "If I have not given fearlessness to the frightened,\nAnd have not given happiness to the distressed,\nI have merely produced the pangs\nAnd suffering of my mother's womb.",
+  "locked_terms": [
+   {
+    "tibetan": "མི་འཇིགས",
+    "use": "freedom from fear"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "If I have not given freedom from fear to frightened people, and I have not given happiness to sad people, then my birth only caused my mother pain and suffering."
+ },
+ {
+  "id": "7-39",
+  "tibetan": "བདག་ནི་སྔོན་དང་ད་ལྟར་ཡང་། ། ཆོས་ལ་མོས་དང་བྲལ་བ་ཡིས། ། ཕོངས་པ་འདི་འདྲ་བྱུང་བར་གྱུར། ། སུ་ཞིག་ཆོས་ལ་མོས་པ་གཏོང་། །",
+  "academic_translation": "Because I have been devoid of aspiration for the Dharma,\nPreviously and even now,\nSuch destitution has come about;\nWho would forsake aspiration for the Dharma?",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོས",
+    "use": "teachings"
+   },
+   {
+    "tibetan": "མོས་པ",
+    "use": "strong wish"
+   }
+  ],
+  "translation": "Because I did not have a strong wish for the teachings in the past, and still do not have it now, I have ended up so poor. Who would ever give up a strong wish for the teachings?"
+ },
+ {
+  "id": "7-40",
+  "tibetan": "དགེ་བའི་ཕྱོགས་ནི་ཐམས་ཅད་ཀྱི། ། རྩ་བ་མོས་པར་ཐུབ་པས་གསུངས། ། དེ་ཡི་རྩ་བ་རྟག་ཏུ་ནི། ། རྣམ་སྨིན་འབྲས་བུ་བསྒོམས་པས་སོ། །",
+  "academic_translation": "The Sage has stated that aspiration\nIs the root of all virtuous factors,\nAnd its root constantly is\nMeditating on the ripened result.",
+  "locked_terms": [
+   {
+    "tibetan": "དགེ་བའི་ཕྱོགས",
+    "use": "kind of good deed"
+   },
+   {
+    "tibetan": "ཐུབ་པ",
+    "use": "Sage"
+   },
+   {
+    "tibetan": "མོས་པ",
+    "use": "strong wish"
+   },
+   {
+    "tibetan": "རྣམ་སྨིན་འབྲས་བུ",
+    "use": "result that ripens"
+   }
+  ],
+  "translation": "The Sage has said that a strong wish is the root of every kind of good deed. The root of that strong wish is always meditating on the result that ripens."
+ },
+ {
+  "id": "7-41",
+  "tibetan": "སྡུག་བསྔལ་ཡིད་མི་བདེ་བ་དང་། ། འཇིགས་པ་རྣམ་པ་སྣ་ཚོགས་དང་། ། འདོད་པ་རྣམས་དང་བྲལ་བ་ནི། ། སྡིག་པ་སྤྱོད་ལས་འབྱུང་བར་འགྱུར། །",
+  "academic_translation": "Suffering and mental unhappiness,\nVarious kinds of fears,\nAnd separation from what is desired\nWill arise from engaging in misdeeds.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "ཡིད་མི་བདེ་བ",
+    "use": "unhappiness"
+   },
+   {
+    "tibetan": "སྡིག་པ",
+    "use": "harmful deed"
+   }
+  ],
+  "translation": "Suffering and unhappiness, many kinds of fears, and losing what we want all come from doing harmful deeds."
+ },
+ {
+  "id": "7-42",
+  "tibetan": "ཡིད་ལ་བསམས་པའི་དགེ་བྱས་པས། ། གང་དང་གང་དུ་འགྲོ་འགྱུར་བ། ། དེ་དང་དེར་ནི་བསོད་ནམས་དེས། ། འབྲས་བུའི་ཡོན་གྱིས་མངོན་མཆོད་འགྱུར། །",
+  "academic_translation": "By performing virtue intended in the mind,\nWherever one may go,\nThere, through that merit,\nOne will be manifestly honored with the offerings of its results.",
+  "locked_terms": [
+   {
+    "tibetan": "དགེ་བ",
+    "use": "good deed"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "store of goodness"
+   },
+   {
+    "tibetan": "ཡིད",
+    "use": "mind"
+   }
+  ],
+  "translation": "By doing a good deed planned in your mind, wherever you go, your store of goodness will bring you honor and the gifts of its results."
+ },
+ {
+  "id": "7-43",
+  "tibetan": "སྡིག་པ་བྱེད་པ་བདེ་འདོད་ཀྱང་། ། གང་དང་གང་དུ་འགྲོ་འགྱུར་བ། ། དེ་དང་དེར་ནི་སྡིག་པ་དེས། ། སྡུག་བསྔལ་མཚོན་གྱིས་རྣམ་པར་འཇོམས། །",
+  "academic_translation": "Although those who commit misdeeds desire happiness,\nWherever they may go,\nThere, through those misdeeds,\nThey are completely destroyed by the weapons of suffering.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡིག་པ",
+    "use": "harmful deed"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "བདེ",
+    "use": "happiness"
+   }
+  ],
+  "translation": "People who do harmful deeds might want happiness. But wherever they go, those harmful deeds will destroy them with the weapons of suffering."
+ },
+ {
+  "id": "7-44",
+  "tibetan": "རྒྱ་ཆེ་དྲི་བཟང་བསེལ་བའི་པདྨའི་སྙིང་པོར་གནས། ། རྒྱལ་བའི་གསུང་སྙན་ཟས་ཀྱིས་གཟི་བརྗིད་བསྐྱེད་བྱས་པ། ། ཐུབ་འོད་ཀྱིས་རྒྱས་པདྨ་ལས་བྱུང་ལུས་མཆོག་ཅན། ། རྒྱལ་བའི་མདུན་གནས་བདེ་གཤེགས་སྲས་སུ་དགེ་བས་འགྱུར། །",
+  "academic_translation": "Dwelling in the core of a vast, fragrant, and cool lotus,\nWith splendor nourished by the food of the Victor's sweet speech,\nPossessing a supreme body born from a lotus blossomed by the Sage's light,\nThrough virtue one becomes a son of the Sugata dwelling before the Victor.",
+  "locked_terms": [
+   {
+    "tibetan": "པདྨ",
+    "use": "lotus"
+   },
+   {
+    "tibetan": "རྒྱལ་བ",
+    "use": "Victorious One"
+   },
+   {
+    "tibetan": "ཐུབ",
+    "use": "Sage"
+   },
+   {
+    "tibetan": "བདེ་གཤེགས་སྲས",
+    "use": "child of the Well-Gone One"
+   },
+   {
+    "tibetan": "དགེ་བ",
+    "use": "good deed"
+   }
+  ],
+  "translation": "Because of my good deeds, I will become a child of the Well-Gone One. I will sit in front of the Victorious One. I will live inside a huge, cool, sweet-smelling lotus. The sweet words of the Victorious One will feed my bright glow. The light of the Sage will open my lotus, and I will have a perfect body."
+ },
+ {
+  "id": "7-45",
+  "tibetan": "གཤིན་རྗེའི་སྐྱེས་བུས་པགས་པ་མ་ལུས་བཤུས་པས་ཤིན་ཏུ་ཉམ་ཐག་ཅིང་། ། རབ་ཏུ་ཚ་བའི་མེ་ཡིས་བཞུས་པའི་ཟངས་ཞུན་ལུས་ལ་བླུགས་གྱུར་ལ། ། འབར་བའི་རལ་གྲི་མདུང་ཐུང གིས་བསྣུན་ཤ་ཡི་དུམ་བུ་བརྒྱར་ལྷགས་ཤིང་། ། ཤིན་ཏུ་འབར་བའི་ལྕགས་ཀྱི་ས་གཞིར་ལྷུང་བ་མི་དགེ་མང་པོས་འགྱུར། །",
+  "academic_translation": "Utterly tormented by Yama's henchmen completely flaying one's skin,\nMolten copper melted by intensely hot fire poured upon one's body,\nPierced by blazing swords and short spears, one's flesh scattered into a hundred pieces,\nThrough many non-virtues one falls onto the intensely blazing iron ground.",
+  "locked_terms": [
+   {
+    "tibetan": "གཤིན་རྗེ",
+    "use": "Yama"
+   },
+   {
+    "tibetan": "མི་དགེ",
+    "use": "bad deed"
+   }
+  ],
+  "translation": "By doing many bad deeds, I will fall onto the intensely burning iron ground. The helpers of Yama will cause me great pain by tearing off all my skin. They will pour melted, hot copper over my body. Blazing swords and short spears will pierce me, cutting my flesh into a hundred pieces."
+ },
+ {
+  "id": "7-46",
+  "tibetan": "དེ་བས་དགེ་ལ་མོས་བྱ་ཞིང་། ། གུས་པ་ཉིད་དུ་བསྒོམ་པར་བྱ། ། རྡོ་རྗེ་རྒྱལ་མཚན་ཆོ་ག་ཡིས། ། བརྩམས་ནས་ང་རྒྱལ་བསྒོམ་པར་བྱ། །",
+  "academic_translation": "Therefore, one should aspire to virtue,\nAnd cultivate it with reverence.\nBy the method of the Vajradhvaja,\nHaving begun, one should cultivate pride.",
+  "locked_terms": [
+   {
+    "tibetan": "དགེ",
+    "use": "good deed"
+   },
+   {
+    "tibetan": "རྡོ་རྗེ་རྒྱལ་མཚན",
+    "use": "Vajradhvaja"
+   },
+   {
+    "tibetan": "ང་རྒྱལ",
+    "use": "pride"
+   }
+  ],
+  "translation": "Because of this, I should really want to do good deeds. I must practice them with great respect. Using the method of Vajradhvaja, once I begin, I should grow my pride."
+ }
+]

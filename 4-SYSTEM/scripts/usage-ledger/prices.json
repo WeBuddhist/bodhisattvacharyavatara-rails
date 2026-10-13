@@ -1,0 +1,14 @@
+{
+ "as_of": "2026-10-07",
+ "unit": "USD per 1,000,000 tokens",
+ "sources": {
+  "gemini": "https://ai.google.dev/gemini-api/docs/pricing (Standard paid tier, prompts <= 200k tokens; output price includes thinking tokens)",
+  "claude": "Anthropic first-party API list prices (claude-api skill model table, cached 2026-09-25); cache write = 1.25x input (5-minute TTL)"
+ },
+ "models": {
+  "gemini-3.1-pro-preview": {"input": 2.00, "output": 12.00, "thinking": 12.00, "cache_read": 0.20, "cache_write": 0},
+  "claude-sonnet-5-5": {"input": 2.00, "output": 10.00, "thinking": 10.00, "cache_read": 0.20, "cache_write": 2.50},
+  "claude-opus-5-5": {"input": 4.00, "output": 20.00, "thinking": 20.00, "cache_read": 0.20, "cache_write": 5.00},
+  "dharmamitra": {"input": 0, "output": 0, "thinking": 0, "cache_read": 0, "cache_write": 0}
+ }
+}

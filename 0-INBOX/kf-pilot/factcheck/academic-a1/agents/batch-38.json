@@ -1,0 +1,145 @@
+{
+ "batch": "batch-38",
+ "segments": [
+  {
+   "id": "9-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-46",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "The craving for grasping",
+     "evidence": "ཉེར་ལེན་སྲེད་པ: bo-kunpal 9-46 glosses ཉེར་ལེན་ as ཉེ་བར་ལེན་པའི་རྒྱུ་སྲེད་པ, i.e. craving that is the cause of grasping (Skt tṛṣṇā ... upādānam); grasping is not the object of the craving.",
+     "fix": "the craving that is the cause of grasping"
+    }
+   ]
+  },
+  {
+   "id": "9-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-49",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "accords with the sūtras",
+     "evidence": "ངག་གང་མདོ་སྡེ་ལ་འཇུག: འཇུག means enters/is included in (Skt sūtre ’vatared); bo-kunpal 9-49 and bo-shenga 9-49 read it as speech that enters/appears in the sūtra collection, not merely accords with it.",
+     "fix": "enters the sūtras"
+    }
+   ]
+  },
+  {
+   "id": "9-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-52",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "To successfully remain in saṃsāra",
+     "evidence": "འཁོར་བར་གནས་པ་གྲུབ་འགྱུར་བ: remaining in saṃsāra is what comes to be accomplished (Skt saṃsāre sidhyati sthitiḥ); the infinitive reads as a purpose of being freed, which the Tibetan does not state (bo-kunpal 9-52: ... འཁོར་བར་གནས་པར་འགྲུབ་པར་འགྱུར་བ).",
+     "fix": "Remaining in saṃsāra is accomplished"
+    }
+   ]
+  },
+  {
+   "id": "9-53",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "not appropriate",
+     "evidence": "འཐད་མ་ཡིན: འཐད་པ means tenable/valid (Skt nopapadyate); bo-gyaltsab 9-53 says refutation is untenable because it is harmed by reasoning, not that it is improper.",
+     "fix": "is not tenable"
+    }
+   ]
+  },
+  {
+   "id": "9-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-64",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "it is not seen to have a nature",
+     "evidence": "དེ་ནི་སྒྲ་འཛིན་དང་ལྡན་པའི་རང་བཞིན་དུ་ནི་མཐོང་མ་ཡིན: bo-shenga 9-64 identifies the subject as གཟུགས་འཛིན་པ་པོ་དེ, the apprehender of form; English \"it\" has no clear referent after the plural sattva, rajas, tamas.",
+     "fix": "that apprehender of form is not seen to have a nature"
+    }
+   ]
+  }
+ ]
+}

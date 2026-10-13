@@ -1,0 +1,129 @@
+{
+ "batch": "batch-08",
+ "segments": [
+  {
+   "id": "4-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-9",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "對其福德製造障礙",
+     "evidence": "Tibetan འདིའི བསོད་ནམས་ ('this one's merit') refers to the bodhisattva; bo-kunpal 4-9 and bo-gyaltsab 4-9 gloss it as བྱང་ཆུབ་སེམས་དཔ་འདིའི་བསོད་ནམས་. In the Chinese the preceding subject is 任何他人, so 其 can be read as that other person's own merit, and the later 其惡趣 then refers to a different person.",
+     "fix": "對此菩薩之福德製造障礙"
+    }
+   ]
+  },
+  {
+   "id": "4-10",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "遍及無餘虛空無邊際",
+     "evidence": "ནམ་མཁའ་མ་ལུས་མཐའ་ཀླས་པའི་ ལུས་ཅན་: མཐའ་ཀླས་པ་ means reaching/pervading to the limit (Skt. -paryanta-vāsin), and the whole phrase modifies ལུས་ཅན་ (bo-gyaltsab 4-10: ནམ་མཁའ་མ་ལུས་པའི་མཐའ་ཀླས་པའི་ལུས་ཅན་). The Chinese turns it into 'boundless', is cut off from 具身者 syntactically, and reverses the sense of 'to its limits'.",
+     "fix": "遍滿無餘虛空邊際之具身者"
+    }
+   ]
+  },
+  {
+   "id": "4-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-19",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "百億劫",
+     "evidence": "བསྐལ་པ་བྱེ་བ་བརྒྱ is a hundred bye ba (ten million, koṭi; Skt. kalpakoṭiśata) = 10^9, i.e. 十億; 百億 in modern Chinese is 10^10, a tenfold overstatement (bo-kunpal 4-19: བསྐལ་པ་བྱེ་བ་ཕྲག་བརྒྱ).",
+     "fix": "百俱胝劫"
+    }
+   ]
+  },
+  {
+   "id": "4-20",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

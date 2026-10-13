@@ -1,0 +1,283 @@
+{
+ "batch": "batch-18",
+ "segments": [
+  {
+   "id": "8-171",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-172",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "मुझे सिर्फ़ अपनी ख़ुशी नहीं मनानी चाहिए",
+     "evidence": "The text says I should not delight in myself at all (no restriction like 'only'); 'सिर्फ़' turns it into 'not only my own happiness'.",
+     "fix": "तो मुझे अपने आप में ही मगन नहीं होना चाहिए।"
+    }
+   ]
+  },
+  {
+   "id": "8-173",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-174",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-175",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-176",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "जिस मनमोहक चीज़ को हम अपने पास नहीं रखते, वही सबसे अच्छी चीज़ होती है",
+     "evidence": "'Not grasping/taking hold of' an attractive thing (ग्रहण नहीं करना) is the point, not simply not keeping it nearby; also 'सबसे' adds a superlative where the text says 'उत्तम'.",
+     "fix": "जिस मनमोहक चीज़ को हम पकड़कर नहीं बैठते, वही उत्तम चीज़ है।"
+    }
+   ]
+  },
+  {
+   "id": "8-177",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-178",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-179",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-180",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-181",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-182",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-183",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-184",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "बचपन का आचरण",
+     "evidence": "'बालसुलभ आचरण' means childish/foolish behaviour, not the conduct of one's childhood.",
+     "fix": "अब बचकानी हरकतें बहुत हो गईं।"
+    }
+   ]
+  },
+  {
+   "id": "8-185",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "मन को टिकाना सीखूँगा",
+     "evidence": "The text says 'I will settle/place the mind' (a resolve), not 'I will learn to'.",
+     "fix": "सही चीज़ पर हमेशा अपने मन को टिकाऊँगा।"
+    },
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "अज्ञान का पर्दा",
+     "evidence": "The text says 'veils/obscurations' (locked term पर्दा); 'अज्ञान' narrows it and is not in the text.",
+     "fix": "पर्दा हटाने के लिए"
+    }
+   ]
+  },
+  {
+   "id": "8-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "दोनों ही किसी फल को पाने के लिए, बिना सोचे-विचारे जाने-माने उदाहरणों का सहारा लेते हैं।",
+     "evidence": "The text gives a reason (ཕྱིར): each is overruled because both proceed on accepted examples without examining the purpose/result; the causal link is lost, and 'हार जाता है' is loose for 'बाधित'.",
+     "fix": "क्योंकि दोनों ही माने हुए उदाहरणों के सहारे चलते हैं और फल के असली मतलब को परखते नहीं।"
+    }
+   ]
+  },
+  {
+   "id": "9-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-8",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "दुनिया के लोगों से आगे बढ़कर वे चीज़ों का असली रूप देखते हैं",
+     "evidence": "The text says the yogi sees reality in dependence on / with reference to the world (ལྟོས, 'लोक की अपेक्षा'); this is the reason the yogi's conventional truth is faultless. 'आगे बढ़कर' (going beyond the world) reverses that logic.",
+     "fix": "वे दुनिया की बातों के सहारे ही चीज़ों का असली रूप देखते हैं।"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "जब वे शरीर को गन्दा कहते हैं",
+     "evidence": "The example is 'woman regarded as impure' (བུད་མེད་མི་གཙང་བ), not 'the body'.",
+     "fix": "जब वे स्त्री को गन्दा कहते हैं"
+    }
+   ]
+  },
+  {
+   "id": "9-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-21",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "दीया सब कुछ चमकदार बनाता है",
+     "evidence": "The text only says 'the lamp illuminates'; 'सब कुछ' (everything) is added.",
+     "fix": "दीया चीज़ों को चमकदार बनाता है"
+    }
+   ]
+  },
+  {
+   "id": "9-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-24",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "मन ख़ुद चमकता है",
+     "evidence": "The academic text does not name a subject; 'मन' is added (it only says 'if it is self-luminous').",
+     "fix": "चीज़ों को देखने से अगर वह ख़ुद चमकता है"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,293 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "I-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "I-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "I-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "find it perfectly again",
+     "evidence": "Academic: \"how will this be perfectly found again later?\" (fully/properly found). \"Perfectly\" is unclear for a child.",
+     "fix": "how will we ever find a life like this again?"
+    }
+   ]
+  },
+  {
+   "id": "1-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-8",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "Some people want ... Some want ... Others want",
+     "evidence": "The three wishes (overcome suffering, dispel unhappiness, enjoy joys) belong to the same people, not three different groups.",
+     "fix": "People who want to end the hundreds of sufferings of life, to take away the sadness of living beings, and to enjoy hundreds of joys should never give up the awakening mind."
+    }
+   ]
+  },
+  {
+   "id": "1-9",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "everything changes in a flash",
+     "evidence": "Academic: \"in an instant\" the wretched will be called children of the Sugatas; nothing says everything changes.",
+     "fix": "As soon as the awakening mind is born, in a single moment, poor beings trapped in the prison of the cycle of rebirth will be called children of the Well-Gone Ones."
+    }
+   ]
+  },
+  {
+   "id": "1-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-11",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "leave the homes of beings",
+     "evidence": "Academic: \"separated from the realms of wandering beings\"; the leader's examination is also the reason (\"Since\") for holding on to bodhicitta.",
+     "fix": "Since he looked at it closely and saw how precious it is, anyone who wants to be free from the realms of beings should hold tightly to the precious awakening mind."
+    }
+   ]
+  },
+  {
+   "id": "1-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-14",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "great mistakes",
+     "evidence": "Academic: \"great misdeeds\" (sdig pa); the glossary term is \"harmful deed\". \"Mistakes\" understates it.",
+     "fix": "It completely burns up great harmful deeds in a single instant."
+    }
+   ]
+  },
+  {
+   "id": "1-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "You might truly take up this mind",
+     "evidence": "Academic: \"From the moment that ... one correctly adopts that mind\" is a time clause, not a possibility.",
+     "fix": "From the moment you truly take up this mind to completely free the endless realm of living beings, with a mind of never turning back,"
+    }
+   ]
+  },
+  {
+   "id": "1-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-20",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "living beings who are just starting out",
+     "evidence": "Academic: \"for sentient beings with lesser inclinations\" (less capacity or aspiration), not beginners.",
+     "fix": "He said this to help living beings whose wishes are still small."
+    }
+   ]
+  },
+  {
+   "id": "1-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-25",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "Most people do not have this wish even for themselves",
+     "evidence": "Academic: \"does not arise in others even for their own sake\"; not limited to \"most\".",
+     "fix": "Other beings do not have this wish even for themselves."
+    }
+   ]
+  },
+  {
+   "id": "1-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-29",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "Some people have no happiness",
+     "evidence": "Academic refers to beings (sentient beings) who lack happiness and have many sufferings, not a subset.",
+     "fix": "Beings who have no happiness and so much suffering: this mind fills them with happiness and cuts through all their suffering."
+    }
+   ]
+  },
+  {
+   "id": "1-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-34",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "bad thoughts",
+     "evidence": "Academic: \"malicious thought\"; \"bad\" is weaker than hateful ill will.",
+     "fix": "What if someone has a hateful thought toward such a kind child of the Victorious Ones? The Sage taught that they will stay in hell for one great age for every hateful thought."
+    }
+   ]
+  },
+  {
+   "id": "1-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-36",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "perfect, precious mind",
+     "evidence": "Academic: \"that supreme, precious mind\"; also \"I bow to their body\" is generalized.",
+     "fix": "I bow down to the body of anyone in whom this supreme, precious mind has arisen."
+    }
+   ]
+  },
+  {
+   "id": "1-a",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

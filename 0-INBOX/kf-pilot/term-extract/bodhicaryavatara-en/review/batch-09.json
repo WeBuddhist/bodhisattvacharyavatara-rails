@@ -1,0 +1,390 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "5-74",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "General word for student/disciple, not a technical Buddhist term here"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-75",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-76",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-77",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-78",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-79",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-80",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-81",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སྡུག་བསྔལ",
+      "reason": "Buddhist concept (suffering)",
+      "dm": "suffering",
+      "gm": "suffering"
+     }
+    ]
+   },
+   {
+    "id": "5-82",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-83",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-84",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-85",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-86",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཆོས",
+      "reason": "Constituent term",
+      "dm": "Dharma",
+      "gm": "Dharma"
+     }
+    ]
+   },
+   {
+    "id": "5-87",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "Ordinary adjective phrase, not a technical term"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-88",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-89",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Ordinary adjectives, not a fixed technical phrase here"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-90",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-91",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-92",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-93",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-94",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-95",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-96",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-97",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བྱང་ཆུབ",
+      "reason": "Constituent of Bodhisattva",
+      "dm": null,
+      "gm": null
+     }
+    ]
+   },
+   {
+    "id": "5-98",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བྱང་ཆུབ",
+      "reason": "Constituent of spirit of awakening / Bodhicitta",
+      "dm": "awakening",
+      "gm": "awakening"
+     }
+    ]
+   },
+   {
+    "id": "5-99",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-100",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བསླབ་པ",
+      "reason": "Buddhist training / practice",
+      "dm": "learn",
+      "gm": "trained"
+     }
+    ]
+   },
+   {
+    "id": "5-101",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-102",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བྱང་ཆུབ",
+      "reason": "Constituent of Bodhisattva",
+      "dm": null,
+      "gm": null
+     }
+    ]
+   },
+   {
+    "id": "5-103",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-104",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-105",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-106",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "མདོ",
+      "reason": "Constituent of Compendium of Sutras",
+      "dm": "Sūtras",
+      "gm": null
+     },
+     {
+      "bo": "འཕགས་པ",
+      "reason": "Constituent of noble Nagarjuna",
+      "dm": "noble",
+      "gm": "Noble"
+     }
+    ]
+   },
+   {
+    "id": "5-107",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-108",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-109",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-a",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བྱང་ཆུབ",
+      "reason": "Constituent of Bodhisattva",
+      "dm": null,
+      "gm": null
+     }
+    ]
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "5-74",
+    "bo": "སློབ་མ",
+    "reason": "General word for student/disciple, not a technical Buddhist term here"
+   },
+   {
+    "id": "5-87",
+    "bo": "དོན་ཆེན",
+    "reason": "Ordinary adjective phrase, not a technical term"
+   },
+   {
+    "id": "5-89",
+    "bo": "ཟབ་དང་རྒྱ་ཆེ",
+    "reason": "Ordinary adjectives, not a fixed technical phrase here"
+   }
+  ],
+  "fix_span": [],
+  "add": [
+   {
+    "id": "5-81",
+    "bo": "སྡུག་བསྔལ",
+    "dm": "suffering",
+    "gm": "suffering",
+    "reason": "Buddhist concept (suffering)"
+   },
+   {
+    "id": "5-86",
+    "bo": "ཆོས",
+    "dm": "Dharma",
+    "gm": "Dharma",
+    "reason": "Constituent term"
+   },
+   {
+    "id": "5-97",
+    "bo": "བྱང་ཆུབ",
+    "dm": null,
+    "gm": null,
+    "reason": "Constituent of Bodhisattva"
+   },
+   {
+    "id": "5-98",
+    "bo": "བྱང་ཆུབ",
+    "dm": "awakening",
+    "gm": "awakening",
+    "reason": "Constituent of spirit of awakening / Bodhicitta"
+   },
+   {
+    "id": "5-100",
+    "bo": "བསླབ་པ",
+    "dm": "learn",
+    "gm": "trained",
+    "reason": "Buddhist training / practice"
+   },
+   {
+    "id": "5-102",
+    "bo": "བྱང་ཆུབ",
+    "dm": null,
+    "gm": null,
+    "reason": "Constituent of Bodhisattva"
+   },
+   {
+    "id": "5-106",
+    "bo": "མདོ",
+    "dm": "Sūtras",
+    "gm": null,
+    "reason": "Constituent of Compendium of Sutras"
+   },
+   {
+    "id": "5-106",
+    "bo": "འཕགས་པ",
+    "dm": "noble",
+    "gm": "Noble",
+    "reason": "Constituent of noble Nagarjuna"
+   },
+   {
+    "id": "5-a",
+    "bo": "བྱང་ཆུབ",
+    "dm": null,
+    "gm": null,
+    "reason": "Constituent of Bodhisattva"
+   }
+  ]
+ }
+}

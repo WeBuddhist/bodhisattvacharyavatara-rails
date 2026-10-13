@@ -1,0 +1,592 @@
+{
+ "batch": "batch-13",
+ "segments": [
+  {
+   "id": "6-102",
+   "terms": [
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    },
+    {
+     "bo": "བཟོད",
+     "dm": "patience",
+     "gm": "patience"
+    },
+    {
+     "bo": "དཀའ་ཐུབ",
+     "dm": "austerity",
+     "gm": "austerity"
+    }
+   ]
+  },
+  {
+   "id": "6-103",
+   "terms": [
+    {
+     "bo": "བཟོད་པ",
+     "dm": "patience",
+     "gm": "patience"
+    },
+    {
+     "bo": "བསོད་ནམས་རྒྱུ",
+     "dm": "cause of merit",
+     "gm": "cause of merit"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "6-104",
+   "terms": [
+    {
+     "bo": "རྒྱུ",
+     "dm": "cause",
+     "gm": "cause"
+    }
+   ]
+  },
+  {
+   "id": "6-105",
+   "terms": [
+    {
+     "bo": "སློང་མོ",
+     "dm": "beggar",
+     "gm": "beggar"
+    },
+    {
+     "bo": "སྦྱིན་པ",
+     "dm": "generosity",
+     "gm": "giving"
+    },
+    {
+     "bo": "རབ་བྱུང་",
+     "dm": "ordination",
+     "gm": "ordination"
+    }
+   ]
+  },
+  {
+   "id": "6-106",
+   "terms": []
+  },
+  {
+   "id": "6-107",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སྤྱོད་པ",
+     "dm": "bodhisattva conduct",
+     "gm": "bodhisattva conduct"
+    },
+    {
+     "bo": "དགྲ",
+     "dm": "enemy",
+     "gm": "enemies"
+    }
+   ]
+  },
+  {
+   "id": "6-108",
+   "terms": [
+    {
+     "bo": "བཟོད་པའི་འབྲས་བུ",
+     "dm": "fruit of this patience",
+     "gm": "fruit of patience"
+    },
+    {
+     "bo": "བཟོད་པའི་རྒྱུ",
+     "dm": "cause of patience",
+     "gm": "cause of patience"
+    },
+    {
+     "bo": "བཟོད་པ",
+     "dm": "patience",
+     "gm": "patience"
+    }
+   ]
+  },
+  {
+   "id": "6-109",
+   "terms": [
+    {
+     "bo": "དམ་པའི་ཆོས",
+     "dm": "sublime Dharma",
+     "gm": "sublime Dharma"
+    },
+    {
+     "bo": "བཟོད",
+     "dm": "patience",
+     "gm": "patience"
+    }
+   ]
+  },
+  {
+   "id": "6-110",
+   "terms": [
+    {
+     "bo": "བཟོད་པ",
+     "dm": "patience",
+     "gm": "patience"
+    },
+    {
+     "bo": "དགྲ",
+     "dm": "enemy",
+     "gm": "enemy"
+    }
+   ]
+  },
+  {
+   "id": "6-111",
+   "terms": [
+    {
+     "bo": "སྡང་སེམས",
+     "dm": "malice",
+     "gm": "hateful mind"
+    },
+    {
+     "bo": "བཟོད་པའི་རྒྱུ",
+     "dm": "cause of patience",
+     "gm": "cause of patience"
+    },
+    {
+     "bo": "བཟོད་པ",
+     "dm": "patience",
+     "gm": "patience"
+    },
+    {
+     "bo": "དམ་པའི་ཆོས",
+     "dm": "sublime Dharma",
+     "gm": "sublime Dharma"
+    }
+   ]
+  },
+  {
+   "id": "6-112",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན་ཞིང",
+     "dm": "field of sentient beings",
+     "gm": "field of sentient beings"
+    },
+    {
+     "bo": "རྒྱལ་བའི་ཞིང",
+     "dm": "field of the Victors",
+     "gm": "field of the Conquerors"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victors",
+     "gm": "Conquerors"
+    },
+    {
+     "bo": "ཐུབ་པ",
+     "dm": "Sage",
+     "gm": "Sage"
+    },
+    {
+     "bo": "ཕུན་ཚོགས་ཕ་རོལ་ཕྱིན",
+     "dm": "perfection of excellence",
+     "gm": "far shore of excellence"
+    }
+   ]
+  },
+  {
+   "id": "6-113",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victors",
+     "gm": "Conquerors"
+    },
+    {
+     "bo": "སངས་རྒྱས་ཆོས",
+     "dm": "Buddha's qualities",
+     "gm": "Buddha's qualities"
+    }
+   ]
+  },
+  {
+   "id": "6-114",
+   "terms": [
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "qualities",
+     "gm": "qualities"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "Sentient beings",
+     "gm": "Sentient beings"
+    },
+    {
+     "bo": "འབྲས་བུ",
+     "dm": "result",
+     "gm": "fruit"
+    }
+   ]
+  },
+  {
+   "id": "6-115",
+   "terms": [
+    {
+     "bo": "བྱམས་སེམས",
+     "dm": "loving mind",
+     "gm": "loving mind"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "Buddha"
+    },
+    {
+     "bo": "དད་པ",
+     "dm": "faith",
+     "gm": "faith"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    },
+    {
+     "bo": "མཆོད་པ",
+     "dm": "offerings",
+     "gm": "offering"
+    }
+   ]
+  },
+  {
+   "id": "6-116",
+   "terms": [
+    {
+     "bo": "སངས་རྒྱས་ཆོས",
+     "dm": "qualities of a Buddha",
+     "gm": "a Buddha's qualities"
+    },
+    {
+     "bo": "ཡོན་ཏན་རྒྱ་མཚོ",
+     "dm": "oceans of excellence",
+     "gm": "ocean of qualities"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "Buddhas"
+    }
+   ]
+  },
+  {
+   "id": "6-117",
+   "terms": [
+    {
+     "bo": "ཡོན་ཏན་མཆོག",
+     "dm": "supreme excellence",
+     "gm": "supreme qualities"
+    },
+    {
+     "bo": "ཁམས་གསུམ",
+     "dm": "threefold world",
+     "gm": "three realms"
+    }
+   ]
+  },
+  {
+   "id": "6-118",
+   "terms": [
+    {
+     "bo": "སངས་རྒྱས་ཆོས་མཆོག",
+     "dm": "supreme Buddha-Dharma",
+     "gm": "supreme qualities of a Buddha"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "6-119",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "6-120",
+   "terms": [
+    {
+     "bo": "མནར་མེད",
+     "dm": "Avīci hell",
+     "gm": "Avīci hell"
+    }
+   ]
+  },
+  {
+   "id": "6-121",
+   "terms": [
+    {
+     "bo": "ང་རྒྱལ",
+     "dm": "pride",
+     "gm": "pride"
+    }
+   ]
+  },
+  {
+   "id": "6-122",
+   "terms": [
+    {
+     "bo": "ཐུབ",
+     "dm": "Sages",
+     "gm": "Sages"
+    }
+   ]
+  },
+  {
+   "id": "6-123",
+   "terms": [
+    {
+     "bo": "ཐུགས་རྗེ་ཆེ",
+     "dm": "Great Compassionate Ones",
+     "gm": "greatly compassionate ones"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "6-124",
+   "terms": [
+    {
+     "bo": "འགྲོ",
+     "dm": "beings",
+     "gm": "wandering beings"
+    },
+    {
+     "bo": "ཐུགས་རྗེ་ཆེ",
+     "dm": "Great Compassionate Ones",
+     "gm": "greatly compassionate ones"
+    },
+    {
+     "bo": "སྡིག",
+     "dm": "sins",
+     "gm": "negative deed"
+    },
+    {
+     "bo": "བཤགས",
+     "dm": "confess",
+     "gm": "confess"
+    },
+    {
+     "bo": "ཐུབ",
+     "dm": "Sages",
+     "gm": "Sages"
+    }
+   ]
+  },
+  {
+   "id": "6-125",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས",
+     "dm": "Tathāgatas",
+     "gm": "Tathāgatas"
+    },
+    {
+     "bo": "འཇིག་རྟེན་མགོན",
+     "dm": "Protectors of the World",
+     "gm": "protectors of the world"
+    },
+    {
+     "bo": "འགྲོ",
+     "dm": "beings",
+     "gm": "wandering beings"
+    }
+   ]
+  },
+  {
+   "id": "6-126",
+   "terms": [
+    {
+     "bo": "ཐུགས་རྗེ",
+     "dm": "compassion",
+     "gm": "compassion"
+    },
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "beings",
+     "gm": "wandering beings"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "མགོན",
+     "dm": "Protectors",
+     "gm": "protectors"
+    }
+   ]
+  },
+  {
+   "id": "6-127",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgatas",
+     "gm": "Tathāgatas"
+    },
+    {
+     "bo": "འཇིག་རྟེན་སྡུག་བསྔལ",
+     "dm": "suffering of the world",
+     "gm": "suffering of the world"
+    },
+    {
+     "bo": "རང་དོན",
+     "dm": "own welfare",
+     "gm": "own purpose"
+    }
+   ]
+  },
+  {
+   "id": "6-128",
+   "terms": []
+  },
+  {
+   "id": "6-129",
+   "terms": []
+  },
+  {
+   "id": "6-130",
+   "terms": [
+    {
+     "bo": "དམྱལ་བའི་སྲུང་མ",
+     "dm": "guardians of hell",
+     "gm": "wardens of hell"
+    },
+    {
+     "bo": "ཐུགས་རྗེ་ལྡན",
+     "dm": "compassionate ones",
+     "gm": "compassionate ones"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "6-131",
+   "terms": [
+    {
+     "bo": "དམྱལ་བ",
+     "dm": "hell",
+     "gm": "hell"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "6-132",
+   "terms": [
+    {
+     "bo": "སངས་རྒྱས་ཉིད",
+     "dm": "Buddhahood",
+     "gm": "Buddhahood"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "6-133",
+   "terms": [
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhahood",
+     "gm": "Buddhahood"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "6-134",
+   "terms": [
+    {
+     "bo": "འཁོར་ཚེ",
+     "dm": "cycle of existence",
+     "gm": "saṃsāra"
+    },
+    {
+     "bo": "བཟོད་པ",
+     "dm": "patience",
+     "gm": "patience"
+    },
+    {
+     "bo": "འཁོར་ལོས་སྒྱུར་བ",
+     "dm": "universal monarch",
+     "gm": "universal monarch"
+    }
+   ]
+  },
+  {
+   "id": "6-a",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ",
+     "dm": "Entering the Way of the Bodhisattva",
+     "gm": "Entering the Way of the Bodhisattva"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔ",
+     "dm": "Bodhisattva",
+     "gm": "Bodhisattva"
+    },
+    {
+     "bo": "བཟོད་པ་བསྟན་པ",
+     "dm": "The Teaching on Patience",
+     "gm": "Teaching Patience"
+    }
+   ]
+  }
+ ]
+}

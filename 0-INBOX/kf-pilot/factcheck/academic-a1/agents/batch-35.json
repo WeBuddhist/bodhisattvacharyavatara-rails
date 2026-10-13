@@ -1,0 +1,128 @@
+{
+ "batch": "batch-35",
+ "segments": [
+  {
+   "id": "8-171",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-172",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-173",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-174",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-175",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "shattered hopes",
+     "evidence": "བསམ་པ་ཉམས་པ means deterioration of one's intention/attitude, not disappointed hopes. bo-gyaltsab 8-175: \"དགེ་བའི་ཕྱོགས་ཀྱི་བསམ་པ་ཉམས་པར་འགྱུར\" (wholesome intention degenerates); bo-kunpal 8-175: \"བསམ་པ་ཉམས་པ་སྟེ་དཀོན་མཆོག་གི་དཀོར་རྐུ་འཕྲོག...ངན་སེམས\" (stealing from the Three Jewels, malice); bo-shenga likewise \"བསམ་པ་ཉམས་པ\". 'Shattered hopes' follows Sanskrit āśābhaṅga, not the Tibetan.",
+     "fix": "and a deteriorated intention"
+    },
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "does not depend on anything",
+     "evidence": "ཀུན་ལ་ལྟོས་མེད་པ is glossed by bo-shenga 8-175 as \"ལུས་དང་ལོངས་སྤྱོད་ཀུན་ལ་ལྟོས་པ་མེད་པར་གནས་པ\" and by bo-kunpal as having no longing/expectation toward the objects of desire (\"རེ་འདོད་ཀྱིས་ལྟོས་པ་མེད\"); 'depend' could be read as independence rather than absence of expectation (Skt nirāśa).",
+     "fix": "has no expectation of anything"
+    }
+   ]
+  },
+  {
+   "id": "8-176",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-177",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-178",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-179",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-180",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-181",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-182",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-183",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-184",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-185",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "Because they are unanalyzed for the sake of the result.",
+     "evidence": "འབྲས་བུའི་དོན་དུ་མ་དཔྱད་ཕྱིར: bo-shenga 9-4 explains \"འབྲས་བུའི་དོན་དུ་མ་དཔྱད་པར་དེའི་རྒྱུ་ལ་འཇུག་པའི་ཕྱིར\" (one engages in the causes without analyzing, for the sake of the result); bo-kunpal \"འབྲས་བུའི་དོན་དུ་མ་བརྟགས་མ་དཔྱད་པར\". The English leaves the subject of 'unanalyzed' unclear and reads as if the result is unanalyzed.",
+     "fix": "Because, for the sake of the result, they are not analyzed."
+    }
+   ]
+  }
+ ]
+}

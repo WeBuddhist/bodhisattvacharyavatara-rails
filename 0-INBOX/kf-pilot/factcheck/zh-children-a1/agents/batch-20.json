@@ -1,0 +1,261 @@
+{
+ "batch": "batch-20",
+ "segments": [
+  {
+   "id": "9-65",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "真是前所未有啊",
+     "evidence": "The reductio: if the other manner is the thing itself, this 'sameness' would be an unprecedented kind of oneness (absurd). The exclamation reads as admiration, losing the sense of absurdity.",
+     "fix": "如果另一種姿態就是它自己，那這種完全一樣的狀態，就成了從來沒有過的「同一個」，這實在說不通。"
+    }
+   ]
+  },
+  {
+   "id": "9-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-80",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "如果身體分成很多小部分，住在它所有的部分裡。那麼，這些部分確實是住在部分裡。",
+     "evidence": "Body abides, portion by portion, in all these parts; parts can abide in parts, but where does the body itself abide? Children's sentence is split into a dangling 'if' clause and is tangled.",
+     "fix": "如果身體是一小塊一小塊地，分別住在所有的部分裡，那麼這些部分當然是住在部分裡。但是，身體自己又住在哪裡呢？"
+    }
+   ]
+  },
+  {
+   "id": "9-81",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-84",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-86",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "既然某個方向的部分不能再分了，那麼極小的微粒就像虛空一樣，並不存在。",
+     "evidence": "The directional part is 'devoid of parts' (partless, like space), hence the particle does not exist. 'Cannot be divided further' could suggest an indivisible final unit, which is the opponent's position.",
+     "fix": "某個方向的部分本身也沒有任何部分，就像虛空一樣，所以極小的微粒也並不存在。"
+    }
+   ]
+  },
+  {
+   "id": "9-87",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "萬物的形狀",
+     "evidence": "The verse speaks of form (the body's shape just analysed) being like a dream, not of all things.",
+     "fix": "既然身體的形狀就像夢一樣，懂得思考的人怎麼會貪戀它呢？"
+    }
+   ]
+  },
+  {
+   "id": "9-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-90",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-91",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-92",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "把這種仔細思考當作解藥",
+     "evidence": "Analysis is to be meditated on as the antidote 'to this' (the clinging just described); the target of the antidote is dropped.",
+     "fix": "正因為這樣，我們應該把這種仔細思考當作對付它的解藥來靜心修習。"
+    }
+   ]
+  },
+  {
+   "id": "9-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-100",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "就算發生在之前或之後，那也只是回憶，不是當下的體驗。",
+     "evidence": "A cognition arising earlier or later only recollects, it does not experience; the children's subject ('what happens before or after') is unclear.",
+     "fix": "就算是比它早一點或晚一點出現的心，也只是在回憶，不是在當下體驗。"
+    }
+   ]
+  },
+  {
+   "id": "9-101",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-102",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-103",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "心根本不是真實存在的一點東西",
+     "evidence": "That which is neither body, elsewhere, mixed nor separate is 'nothing at all' (not inherently existent). The phrase is awkward and could be heard as 'mind does not exist'.",
+     "fix": "心連一點點獨立真實的東西都找不到，所以眾生的本性早已經脫離憂苦了。"
+    }
+   ]
+  },
+  {
+   "id": "9-104",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "batch": "batch-10",
+ "segments": [
+  {
+   "id": "4-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-2",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "在此亦無法造成如是傷害",
+     "evidence": "Tibetan 'འདི་ན་དེ་འདྲའི་གནོད་མི་བྱེད' states that an untamed, maddened elephant 'does not inflict' such harm here (bo-kunpal 5-2: 'མི༷་བྱེད༷'); it is a plain negative statement, not an inability ('無法'), and nothing in the Tibetan corresponds to 'also' (亦).",
+     "fix": "在此世間不會造成如是傷害"
+    }
+   ]
+  },
+  {
+   "id": "5-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "惡咒師",
+     "evidence": "Tibetan 'བྱད་མ' (Skt. ḍākinyaḥ, feminine plural) is a harmful female being sent by spell or possession: bo-kunpal 5-4 glosses 'བྱད་མ་གདོན་རྦད་འདྲེ་རྦོད་གཏོང', and bo-gyaltsab 5-5 'རིག་སྔགས་ཀྱིས་གནོད་པ་བྱེད་པའི་བྱད་མ་མཁའ་འགྲོ་མ'. '惡咒師' reads as a human sorcerer and loses the female/ḍākinī sense (english_academic: 'Witches').",
+     "fix": "女巫（荼吉尼）"
+    }
+   ]
+  },
+  {
+   "id": "5-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-11",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

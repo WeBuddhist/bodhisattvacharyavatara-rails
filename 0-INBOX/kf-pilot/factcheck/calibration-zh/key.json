@@ -1,0 +1,146 @@
+{
+ "1-8": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "恆時皆不應捨棄菩提心",
+  "new": "恆時皆應捨棄菩提心"
+ },
+ "1-31": {
+  "planted": false
+ },
+ "2-5": {
+  "planted": true,
+  "kind": "mistranslation",
+  "severity": "major",
+  "old": "天鵝",
+  "new": "孔雀"
+ },
+ "2-41": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "然我亦未曾依止彼",
+  "new": "然我亦曾依止彼"
+ },
+ "3-5": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "莫將這些眾生置於盲目之中",
+  "new": "將這些眾生置於盲目之中"
+ },
+ "3-18": {
+  "planted": false
+ },
+ "4-19": {
+  "planted": true,
+  "kind": "number",
+  "severity": "major",
+  "old": "百俱胝劫",
+  "new": "十萬劫"
+ },
+ "4-28": {
+  "planted": true,
+  "kind": "omission",
+  "severity": "major",
+  "old": "、渴愛",
+  "new": ""
+ },
+ "5-57": {
+  "planted": false
+ },
+ "5-83": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "不應為小而捨大",
+  "new": "應為小而捨大"
+ },
+ "5-96": {
+  "planted": true,
+  "kind": "terminology",
+  "severity": "major",
+  "old": "正知",
+  "new": "警覺"
+ },
+ "6-1": {
+  "planted": true,
+  "kind": "number",
+  "severity": "major",
+  "old": "千劫",
+  "new": "十劫"
+ },
+ "6-121": {
+  "planted": false
+ },
+ "6-128": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "雖有能力亦不予報復",
+  "new": "雖有能力亦予報復"
+ },
+ "7-14": {
+  "planted": true,
+  "kind": "mistranslation",
+  "severity": "major",
+  "old": "依靠人身",
+  "new": "依靠天身"
+ },
+ "7-21": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "卻不會獲得菩提",
+  "new": "卻會獲得菩提"
+ },
+ "8-4": {
+  "planted": true,
+  "kind": "terminology",
+  "severity": "major",
+  "old": "勝觀",
+  "new": "觀照"
+ },
+ "8-32": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "他人既不分擔苦",
+  "new": "他人既分擔苦"
+ },
+ "8-84": {
+  "planted": true,
+  "kind": "addition",
+  "severity": "major",
+  "old": "之寂靜森林中",
+  "new": "之寂靜森林與山洞中"
+ },
+ "9-2": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "勝義諦不是智的行境",
+  "new": "勝義諦是智的行境"
+ },
+ "9-7": {
+  "planted": false
+ },
+ "9-17": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "以心不能見於心",
+  "new": "以心能見於心"
+ },
+ "10-51": {
+  "planted": true,
+  "kind": "name",
+  "severity": "major",
+  "old": "文殊師利",
+  "new": "觀世音"
+ },
+ "10-55": {
+  "planted": false
+ }
+}

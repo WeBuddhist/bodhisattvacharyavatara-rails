@@ -1,0 +1,160 @@
+{
+ "batch": "batch-17",
+ "segments": [
+  {
+   "id": "6-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-24",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "People become angry spontaneously",
+     "evidence": "སྐྱེ་བོ་རྣམས་ནི་གྱི་ནར་ཁྲོ། (gyi nar = on whatever slight condition happens along). bo-kunpal 6-24: 'རྐྱེན་ཕལ་པ་ཙམ་ལ་བརྟེན་ནས་ཁྲོ་བར་འགྱུར' (becomes angry depending on a mere ordinary condition); bo-shenga 6-24: 'རྐྱེན་ཇི་ནར་ཙམ་གྱིས'. 'Spontaneously' can read as uncaused, which the passage's argument (all arises from conditions) excludes.",
+     "fix": "People become angry at the slightest condition"
+    }
+   ]
+  },
+  {
+   "id": "6-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-30",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "In saying, \"This is its action,\" What connection could there be?",
+     "evidence": "དེ་ཡི་བྱེད་པ་འདི་ཡིན་ཞེས། འབྲེལ་པར་འགྱུར་བ་གང་ཞིག་ཡོད། asks what relation exists by which one could say 'this is its action'; bo-gyaltsab 6-30: 'བདག་དེའི་... བྱེད་པ་འདི་ཡིན་ཞེས་བདག་དང་འབྲེལ་བར་འགྱུར་བ་གང་ཞིག་ཡོད'. 'In saying' wrongly suggests the connection lies in the act of saying.",
+     "fix": "What connection could there be by which one could say, \"This is its action\"?"
+    }
+   ]
+  },
+  {
+   "id": "6-31",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "which are like emanations",
+     "evidence": "The Tibetan as given reads སྦྲུལ་ལྟ་བུའི ('snake-like'), also in bo-shenga 6-31 (སྦྲུལ་ལྟ་བུའི་རང་བཞིན), whereas the Sanskrit has nirmāṇavat and bo-kunpal/bo-gyaltsab 6-31 read སྤྲུལ་པ་ལྟ་བུ / སྤྲུལ་ལྟ་བུ (emanation). The English follows the Sanskrit and commentaries, not the Tibetan wording; the divergence should be flagged for the reader.",
+     "fix": "which are like emanations [the Tibetan text here reads sbrul, 'snake', likely a scribal error for sprul]"
+    }
+   ]
+  },
+  {
+   "id": "6-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-35",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "they become obsessed",
+     "evidence": "རྔམ་ཞིང (vehement, fierce, in a fervor). Sanskrit has kopāt ('out of anger'); bo-gyaltsab 6-35 'རྔམ་ཞིང་ཁྲོས་པས' (fierce and angry), bo-kunpal 'རྔམ་ཞིང་ཆགས་ནས', bo-shenga 'བརྣབ་སེམས་ཀྱིས་རྔམ་ཞིང'. 'Obsessed' loses the sense of fierce vehemence/anger.",
+     "fix": "they grow vehement (in fury)"
+    }
+   ]
+  },
+  {
+   "id": "6-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-38",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "When, through the arising of afflictions, They engage in such acts as killing themselves, If compassion does not even arise,",
+     "evidence": "བདག་གསོད་ལ་སོགས་ཞུགས་པ་ལ། སྙིང་རྗེ་རྒྱ་ལ་མ་སྐྱེས་ན། — compassion fails to arise toward ('ལ') those who engage in self-harm (bo-gyaltsab 6-38: 'བདག་གསོད་པ་ལ་སོགས་པ་ལ་ཞུགས་པ་ལ་སྙིང་རྗེ་བྱ་བར་འོས'). The English 'When ... they engage' leaves the object of compassion unstated and parses as two unrelated clauses.",
+     "fix": "For those who, through the arising of afflictions, engage in such acts as killing themselves, if compassion does not even arise [toward them], what sense is there in anger?"
+    }
+   ]
+  },
+  {
+   "id": "6-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-41",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "If I feel anger",
+     "evidence": "གལ་ཏེ་འཕེན་པ་ལ་ཁྲོ་ན། has no first-person subject; bo-gyaltsab 6-41 treats it as impersonal ('གལ་ཏེ་འཕེན་པར་བྱེད་པ་ལ་ཁྲོ་ན'). The Sanskrit has kupyate (passive/impersonal).",
+     "fix": "if one feels anger"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "While sticks and the like are directly employed,",
+     "evidence": "དབྱུག་པ་ལ་སོགས་དངོས་བཀོལ་ཏེ། — sticks etc. are the actual instruments (dngos) the person employs; bo-shenga 6-41: 'དབྱུག་པ་ལ་སོགས་པའི་དངོས་པོ་རྣམས་བཀོལ་ཏེ་ལུས་ལ་བརྡེག་པ་ན' (having employed sticks etc., when they strike the body). 'While ... directly employed' is a confusing temporal/concessive rendering. Also 'ཉིས་ན' (bo-shenga: 'གཅིག་ཏུ... ཉེས་ན་སྟེ་གཉིས་སུ་ན', 'firstly the sticks; secondly, hatred') is rendered as 'If anything'.",
+     "fix": "Having employed sticks and the like as the actual instruments, if one is angry at the one who throws them, since he too is driven by hatred, then, in the second place, it is fitting to be angry at hatred."
+    }
+   ]
+  }
+ ]
+}

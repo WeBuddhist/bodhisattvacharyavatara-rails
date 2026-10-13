@@ -1,0 +1,546 @@
+{
+ "batch": "batch-17",
+ "segments": [
+  {
+   "id": "8-38",
+   "terms": [
+    {
+     "bo": "སེམས",
+     "dm": "mind",
+     "gm": "mind"
+    },
+    {
+     "bo": "མཉམ་པར་གཞག",
+     "dm": "meditative equipoise",
+     "gm": "equipoise"
+    },
+    {
+     "bo": "དུལ་བར་བྱ",
+     "dm": "bring it under discipline",
+     "gm": "subdue"
+    }
+   ]
+  },
+  {
+   "id": "8-39",
+   "terms": [
+    {
+     "bo": "འཇིག་རྟེན་འདི",
+     "dm": "this world",
+     "gm": "this world"
+    },
+    {
+     "bo": "འདོད་པ",
+     "dm": "Desires",
+     "gm": "Desires"
+    },
+    {
+     "bo": "དམྱལ",
+     "dm": "hells",
+     "gm": "hells"
+    }
+   ]
+  },
+  {
+   "id": "8-40",
+   "terms": [
+    {
+     "bo": "སྡིག་པ",
+     "dm": "sin",
+     "gm": "sins"
+    }
+   ]
+  },
+  {
+   "id": "8-41",
+   "terms": []
+  },
+  {
+   "id": "8-42",
+   "terms": [
+    {
+     "bo": "ཀེང་རུས",
+     "dm": "skeletons",
+     "gm": "skeletons"
+    },
+    {
+     "bo": "རང་དབང",
+     "dm": "independent",
+     "gm": "independent"
+    },
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    },
+    {
+     "bo": "མྱ་ངན་འདས",
+     "dm": "state beyond sorrow",
+     "gm": "nirvāṇa"
+    }
+   ]
+  },
+  {
+   "id": "8-43",
+   "terms": []
+  },
+  {
+   "id": "8-44",
+   "terms": [
+    {
+     "bo": "ཉོན་མོངས་པ",
+     "dm": "affliction",
+     "gm": null
+    },
+    {
+     "bo": "བྱ་རྒོད",
+     "dm": "vultures",
+     "gm": "vultures"
+    }
+   ]
+  },
+  {
+   "id": "8-45",
+   "terms": [
+    {
+     "bo": "སེར་སྣ་ཅན",
+     "dm": "miser",
+     "gm": "Miser"
+    }
+   ]
+  },
+  {
+   "id": "8-46",
+   "terms": [
+    {
+     "bo": "ཤ་ཡི་ཕུང་པོ",
+     "dm": "heap of flesh",
+     "gm": "heap of flesh"
+    },
+    {
+     "bo": "བྱ་རྒོད",
+     "dm": "vultures",
+     "gm": "vultures"
+    },
+    {
+     "bo": "ཙནྡན",
+     "dm": "Sandalwood",
+     "gm": "sandalwood"
+    }
+   ]
+  },
+  {
+   "id": "8-47",
+   "terms": [
+    {
+     "bo": "རུས་གོང",
+     "dm": "heap of bones",
+     "gm": "heap of bones"
+    },
+    {
+     "bo": "རོ་ལངས",
+     "dm": "reanimated corpse",
+     "gm": "zombie"
+    }
+   ]
+  },
+  {
+   "id": "8-48",
+   "terms": [
+    {
+     "bo": "བཤང",
+     "dm": "excrement",
+     "gm": "feces"
+    },
+    {
+     "bo": "ཁ་ཆུ",
+     "dm": "saliva",
+     "gm": "saliva"
+    }
+   ]
+  },
+  {
+   "id": "8-49",
+   "terms": [
+    {
+     "bo": "འདོད་ལྡན",
+     "dm": "lustful",
+     "gm": "lustful"
+    },
+    {
+     "bo": "མི་གཙང་བ",
+     "dm": "impure",
+     "gm": "filth"
+    }
+   ]
+  },
+  {
+   "id": "8-50",
+   "terms": [
+    {
+     "bo": "ཆགས་པ",
+     "dm": "attached",
+     "gm": "attached"
+    }
+   ]
+  },
+  {
+   "id": "8-51",
+   "terms": [
+    {
+     "bo": "མི་གཙང",
+     "dm": "impure",
+     "gm": "filth"
+    },
+    {
+     "bo": "ཆགས་མེད",
+     "dm": "no attachment",
+     "gm": "no attachment"
+    },
+    {
+     "bo": "རུས་གཟེབ",
+     "dm": "cage of bones",
+     "gm": "cage of bones"
+    }
+   ]
+  },
+  {
+   "id": "8-52",
+   "terms": [
+    {
+     "bo": "མི་གཙང",
+     "dm": "filth",
+     "gm": "filth"
+    },
+    {
+     "bo": "མི་གཙང་རྐྱལ་པ",
+     "dm": "bags of filth",
+     "gm": "bags of filth"
+    },
+    {
+     "bo": "བརྐམ་པ",
+     "dm": "craving",
+     "gm": "craving"
+    }
+   ]
+  },
+  {
+   "id": "8-53",
+   "terms": [
+    {
+     "bo": "སེམས་མེད་པ",
+     "dm": "insentient",
+     "gm": "mindless"
+    }
+   ]
+  },
+  {
+   "id": "8-54",
+   "terms": [
+    {
+     "bo": "སེམས",
+     "dm": "mind",
+     "gm": "mind"
+    },
+    {
+     "bo": "ཤེས་པ",
+     "dm": "consciousness",
+     "gm": "conscious"
+    }
+   ]
+  },
+  {
+   "id": "8-55",
+   "terms": [
+    {
+     "bo": "མི་གཙང",
+     "dm": "foul",
+     "gm": "unclean"
+    },
+    {
+     "bo": "རང་བཞིན",
+     "dm": "nature",
+     "gm": "nature"
+    },
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    }
+   ]
+  },
+  {
+   "id": "8-56",
+   "terms": [
+    {
+     "bo": "པདྨ",
+     "dm": "lotus",
+     "gm": "lotus"
+    },
+    {
+     "bo": "མི་གཙང་གཟེབ",
+     "dm": "cage of filth",
+     "gm": "cage of filth"
+    }
+   ]
+  },
+  {
+   "id": "8-57",
+   "terms": [
+    {
+     "bo": "མི་གཙང",
+     "dm": "filth",
+     "gm": "filth"
+    },
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    }
+   ]
+  },
+  {
+   "id": "8-58",
+   "terms": [
+    {
+     "bo": "ཆགས་མེད",
+     "dm": "no attachment",
+     "gm": "no attachment"
+    },
+    {
+     "bo": "མི་གཙང་ཞིང",
+     "dm": "impure field",
+     "gm": "field of filth"
+    },
+    {
+     "bo": "ས་བོན",
+     "dm": "seed",
+     "gm": "seed"
+    }
+   ]
+  },
+  {
+   "id": "8-59",
+   "terms": [
+    {
+     "bo": "མི་གཙང་སྲིན",
+     "dm": "worm",
+     "gm": "filth-worm"
+    },
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    }
+   ]
+  },
+  {
+   "id": "8-60",
+   "terms": [
+    {
+     "bo": "མི་གཙང་རྐྱལ་པ",
+     "dm": "bags of impurity",
+     "gm": "bag of filth"
+    },
+    {
+     "bo": "བརྐམ་པ",
+     "dm": "craving",
+     "gm": "craving"
+    }
+   ]
+  },
+  {
+   "id": "8-61",
+   "terms": [
+    {
+     "bo": "ག་པུར",
+     "dm": "camphor",
+     "gm": "camphor"
+    }
+   ]
+  },
+  {
+   "id": "8-62",
+   "terms": [
+    {
+     "bo": "དུར་ཁྲོད",
+     "dm": "charnel grounds",
+     "gm": "charnel grounds"
+    },
+    {
+     "bo": "ལུས",
+     "dm": "bodies",
+     "gm": "bodies"
+    }
+   ]
+  },
+  {
+   "id": "8-63",
+   "terms": []
+  },
+  {
+   "id": "8-64",
+   "terms": [
+    {
+     "bo": "ཙནྡན",
+     "dm": "sandalwood",
+     "gm": "Sandalwood"
+    },
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    },
+    {
+     "bo": "ཆགས་པ",
+     "dm": "attached",
+     "gm": "attached"
+    }
+   ]
+  },
+  {
+   "id": "8-65",
+   "terms": [
+    {
+     "bo": "ཆགས",
+     "dm": "unattached",
+     "gm": "attached"
+    },
+    {
+     "bo": "འཇིག་རྟེན",
+     "dm": "worldly",
+     "gm": "world"
+    }
+   ]
+  },
+  {
+   "id": "8-66",
+   "terms": [
+    {
+     "bo": "ཙནྡན",
+     "dm": "sandalwood",
+     "gm": "sandalwood"
+    },
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    },
+    {
+     "bo": "ཆགས་པ",
+     "dm": "attached",
+     "gm": "attached"
+    }
+   ]
+  },
+  {
+   "id": "8-67",
+   "terms": [
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    },
+    {
+     "bo": "རང་བཞིན",
+     "dm": "natural state",
+     "gm": "nature"
+    }
+   ]
+  },
+  {
+   "id": "8-68",
+   "terms": [
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    }
+   ]
+  },
+  {
+   "id": "8-69",
+   "terms": [
+    {
+     "bo": "རུས་གོང",
+     "dm": "heap of bones",
+     "gm": "skeleton"
+    },
+    {
+     "bo": "དུར་ཁྲོད",
+     "dm": "charnel ground",
+     "gm": "charnel ground"
+    },
+    {
+     "bo": "གྲོང་གི་དུར་ཁྲོད",
+     "dm": "city charnel ground",
+     "gm": "charnel ground of the city"
+    }
+   ]
+  },
+  {
+   "id": "8-70",
+   "terms": [
+    {
+     "bo": "དམྱལ",
+     "dm": "hell",
+     "gm": "hells"
+    }
+   ]
+  },
+  {
+   "id": "8-71",
+   "terms": [
+    {
+     "bo": "ནོར",
+     "dm": "wealth",
+     "gm": "wealth"
+    },
+    {
+     "bo": "འདོད་པ",
+     "dm": "sensual desires",
+     "gm": "desires"
+    }
+   ]
+  },
+  {
+   "id": "8-72",
+   "terms": [
+    {
+     "bo": "འདོད་ལྡན",
+     "dm": "lustful",
+     "gm": "desires"
+    }
+   ]
+  },
+  {
+   "id": "8-73",
+   "terms": [
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "hardships",
+     "gm": "afflictions"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "misery"
+    }
+   ]
+  },
+  {
+   "id": "8-74",
+   "terms": []
+  },
+  {
+   "id": "8-75",
+   "terms": [
+    {
+     "bo": "ལུས",
+     "dm": "bodies",
+     "gm": "bodies"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,277 @@
+{
+ "batch": "batch-05",
+ "segments": [
+  {
+   "id": "4-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-33",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "they might bring me help and happiness",
+     "evidence": "Academic: all others bring benefit and happiness when amiably served; \"might\" weakens a plain statement, and \"only\" in the second half is not in the source.",
+     "fix": "If I serve and honor my other enemies kindly, they bring me help and happiness. But if I serve my troubling emotions, they bring me more suffering and harm."
+    }
+   ]
+  },
+  {
+   "id": "4-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-37",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "In battle, soldiers fight enemies who will die a natural death anyway. These soldiers ignore the suffering",
+     "evidence": "Academic: \"If even those who desire to forcefully destroy [enemies made to suffer by natural death]... disregard the suffering... and do not turn back\" - an if-even argument that 4-38 completes. The children's text states it as bare fact, losing the \"if even\" comparison.",
+     "fix": "If even soldiers fight enemies who will die anyway, and ignore the pain of arrows and spears, and do not run away before they reach their goal,"
+    }
+   ]
+  },
+  {
+   "id": "4-38",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "it will certainly not make me despair",
+     "evidence": "Academic: \"Needless to say, will not make me despair\" - the a fortiori (\"how much more me\") completing the soldiers' example is reduced to a plain claim.",
+     "fix": "So of course I, fighting the enemy that causes all suffering, will not lose heart, even if it brings me hundreds of sufferings."
+    }
+   ]
+  },
+  {
+   "id": "4-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-40",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "wandering beings",
+     "evidence": "Locked rendering for འགྲོ་བ is \"being\"; \"wandering beings\" adds a word and is inconsistent with \"beings\" elsewhere.",
+     "fix": "I am working for the happiness of all beings."
+    }
+   ]
+  },
+  {
+   "id": "4-41",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "wandering beings",
+     "evidence": "Locked rendering for འགྲོ་བ is \"being\".",
+     "fix": "I promised to free the beings who fill space in the ten directions."
+    }
+   ]
+  },
+  {
+   "id": "4-42",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "Still,",
+     "evidence": "Academic: \"Therefore, in destroying afflictions, I shall never turn back\" - a conclusion drawn from the madman remark, not a concession.",
+     "fix": "So I will never turn back from destroying my troubling emotions."
+    }
+   ]
+  },
+  {
+   "id": "4-43",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "this goal",
+     "evidence": "Academic: \"I shall be attached to this\" - the referent is left unstated; \"goal\" is an added gloss.",
+     "fix": "I will hold tightly to this."
+    }
+   ]
+  },
+  {
+   "id": "4-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-7",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "Where did those groups of women come from?",
+     "evidence": "Tibetan མེ་ཚོགས is \"masses/groups of fire\"; the academic rendering \"groups of women\" appears to be a slip that the children's text copies. Ending the verse with women makes no sense after burning iron ground. Flag for human review of the academic line.",
+     "fix": "Where did those masses of fire come from?"
+    }
+   ]
+  },
+  {
+   "id": "5-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-11",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "giving up harmful actions",
+     "evidence": "Academic: \"the mind of renunciation\" (locked: mind of giving up); the object \"harmful actions\" is not stated.",
+     "fix": "The perfection of good conduct is explained as coming from getting the mind of giving up."
+    }
+   ]
+  }
+ ]
+}

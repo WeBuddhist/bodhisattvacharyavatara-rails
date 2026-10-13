@@ -1,0 +1,72 @@
+(anon):setopt:7: can't change option: monitor
+
+[[31mERROR[39m]: gitstatus failed to initialize.
+
+
+  Add the following parameter to ~/.zshrc for extra diagnostics on error:
+
+    GITSTATUS_LOG_LEVEL=DEBUG
+
+  Restart Zsh to retry gitstatus initialization:
+
+    [32mexec zsh[39m
+pairs to judge: 169
+judgements to make=338 calls=44
+  pass 1 hi-children 4-11..4-36 ok
+  pass 1 hi-children 1-32..2-60 ok
+  pass 1 hi-children 1-2..1-21 ok
+  pass 1 hi-children 3-1..4-7 ok
+  pass 1 hi-children 4-39..5-30 ok
+  pass 1 hi-children 5-105..6-68 ok
+  pass 1 hi-children 6-69..6-132 ok
+  pass 1 hi-children 5-42..5-96 ok
+  pass 1 hi-children 7-34..7-73 ok
+  pass 1 hi-children 6-134..7-25 ok
+  pass 1 hi-children 8-49..8-96 ok
+  pass 1 hi-children 8-27..8-47 ok
+  pass 1 hi-children 7-a..8-24 ok
+  pass 1 hi-children 8-102..8-132 ok
+  pass 1 hi-children 9-41..9-52 ok
+  pass 1 hi-children 8-139..9-4 ok
+  pass 1 hi-children 9-57..9-101 ok
+  pass 1 hi-children 9-8..9-39 ok
+  pass 1 hi-children b-3..b-3 ok
+  pass 1 hi-children 9-147..10-18 ok
+  pass 1 hi-children 9-103..9-138 ok
+  pass 1 hi-children 10-29..b-2 ok
+  pass 2 hi-children 1-2..1-21 ok
+  pass 2 hi-children 1-32..2-60 ok
+  pass 2 hi-children 3-1..4-7 ok
+  pass 2 hi-children 4-39..5-30 ok
+  pass 2 hi-children 4-11..4-36 ok
+  pass 2 hi-children 5-42..5-96 ok
+  pass 2 hi-children 5-105..6-68 ok
+  pass 2 hi-children 6-134..7-25 ok
+  pass 2 hi-children 7-34..7-73 ok
+  pass 2 hi-children 6-69..6-132 ok
+  pass 2 hi-children 7-a..8-24 ok
+  pass 2 hi-children 8-27..8-47 ok
+  pass 2 hi-children 8-102..8-132 ok
+  pass 2 hi-children 8-49..8-96 ok
+  pass 2 hi-children 8-139..9-4 ok
+  pass 2 hi-children 9-8..9-39 ok
+  pass 2 hi-children 9-41..9-52 ok
+  pass 2 hi-children 9-57..9-101 ok
+  pass 2 hi-children 9-103..9-138 ok
+  pass 2 hi-children b-3..b-3 ok
+  pass 2 hi-children 10-29..b-2 ok
+  pass 2 hi-children 9-147..10-18 ok
+pairs=390; passes disagreed on 71 (counted as tie)
+| Track | Pairs | Fixed version better | Tie | Original better |
+|---|---|---|---|---|
+| zh-academic | 108 | 60 (56%) | 36 (33%) | 12 (11%) |
+| hi-academic | 113 | 69 (61%) | 28 (25%) | 16 (14%) |
+| hi-children | 169 | 141 (83%) | 19 (11%) | 9 (5%) |
+| all | 390 | 270 (69%) | 83 (21%) | 37 (9%) |
+  reverted hi-children 6-1
+  reverted hi-children 6-68
+  reverted hi-children 8-27
+  reverted hi-children 9-4
+  reverted hi-children 9-24
+  reverted hi-children 9-26
+reverted 6 minor-only fixes the judge rated worse

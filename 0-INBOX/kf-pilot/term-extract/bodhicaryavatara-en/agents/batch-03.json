@@ -1,0 +1,467 @@
+{
+ "batch": "batch-03",
+ "segments": [
+  {
+   "id": "2-34",
+   "terms": [
+    {
+     "bo": "སྡིག་པ",
+     "dm": "sins",
+     "gm": "non-virtue"
+    }
+   ]
+  },
+  {
+   "id": "2-35",
+   "terms": []
+  },
+  {
+   "id": "2-36",
+   "terms": []
+  },
+  {
+   "id": "2-37",
+   "terms": [
+    {
+     "bo": "སྡིག",
+     "dm": "sins",
+     "gm": "non-virtues"
+    }
+   ]
+  },
+  {
+   "id": "2-38",
+   "terms": [
+    {
+     "bo": "གཏི་མུག",
+     "dm": "ignorance",
+     "gm": "ignorance"
+    },
+    {
+     "bo": "ཆགས",
+     "dm": "attachment",
+     "gm": "attachment"
+    },
+    {
+     "bo": "ཞེ་སྡང",
+     "dm": "hatred",
+     "gm": "hatred"
+    },
+    {
+     "bo": "སྡིག་པ",
+     "dm": "sins",
+     "gm": "non-virtue"
+    }
+   ]
+  },
+  {
+   "id": "2-39",
+   "terms": []
+  },
+  {
+   "id": "2-40",
+   "terms": []
+  },
+  {
+   "id": "2-41",
+   "terms": [
+    {
+     "bo": "གཤིན་རྗེའི་ཕོ་ཉ",
+     "dm": "messengers of the Lord of Death",
+     "gm": "messengers of Yama"
+    },
+    {
+     "bo": "གཤིན་རྗེ",
+     "dm": "Lord of Death",
+     "gm": "Yama"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "2-42",
+   "terms": [
+    {
+     "bo": "མགོན་པོ",
+     "dm": "Protectors",
+     "gm": "Protectors"
+    },
+    {
+     "bo": "བག་མེད",
+     "dm": "heedless",
+     "gm": "careless"
+    },
+    {
+     "bo": "མི་རྟག་",
+     "dm": "transient",
+     "gm": "impermanent"
+    },
+    {
+     "bo": "སྡིག་པ",
+     "dm": "sins",
+     "gm": "non-virtues"
+    }
+   ]
+  },
+  {
+   "id": "2-43",
+   "terms": []
+  },
+  {
+   "id": "2-44",
+   "terms": [
+    {
+     "bo": "གཤིན་རྗེའི་ཕོ་ཉ",
+     "dm": "messengers of the Lord of Death",
+     "gm": "messengers of Yama"
+    },
+    {
+     "bo": "གཤིན་རྗེ",
+     "dm": "Lord of Death",
+     "gm": "Yama"
+    }
+   ]
+  },
+  {
+   "id": "2-45",
+   "terms": [
+    {
+     "bo": "སྐྱབས",
+     "dm": "refuge",
+     "gm": "protection"
+    }
+   ]
+  },
+  {
+   "id": "2-46",
+   "terms": [
+    {
+     "bo": "སྐྱབས",
+     "dm": "refuge",
+     "gm": "protection"
+    }
+   ]
+  },
+  {
+   "id": "2-47",
+   "terms": [
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victors",
+     "gm": "Victors"
+    },
+    {
+     "bo": "འགྲོ་བའི་མགོན",
+     "dm": "protectors of beings",
+     "gm": "protectors of beings"
+    },
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "beings",
+     "gm": "beings"
+    },
+    {
+     "bo": "སྐྱབས་སུ་མཆི",
+     "dm": "go for refuge",
+     "gm": "take refuge"
+    }
+   ]
+  },
+  {
+   "id": "2-48",
+   "terms": [
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    },
+    {
+     "bo": "འཁོར་བ",
+     "dm": "cyclic existence",
+     "gm": "saṃsāra"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའི་ཚོགས",
+     "dm": "assembly of Bodhisattvas",
+     "gm": "assembly of Bodhisattvas"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattvas",
+     "gm": "Bodhisattvas"
+    },
+    {
+     "bo": "སྐྱབས་སུ་མཆི",
+     "dm": "go for refuge",
+     "gm": "take refuge"
+    }
+   ]
+  },
+  {
+   "id": "2-49",
+   "terms": [
+    {
+     "bo": "ཀུན་དུ་བཟང་",
+     "dm": "Samantabhadra",
+     "gm": "Samantabhadra"
+    },
+    {
+     "bo": "འཇམ་པའི་དབྱངས",
+     "dm": "Mañjuśrī",
+     "gm": "Mañjuśrī"
+    }
+   ]
+  },
+  {
+   "id": "2-50",
+   "terms": [
+    {
+     "bo": "སྤྱན་རས་གཟིགས",
+     "dm": "Avalokiteśvara",
+     "gm": "Avalokiteśvara"
+    },
+    {
+     "bo": "སྡིག་ལྡན",
+     "dm": "sinful one",
+     "gm": "sinner"
+    },
+    {
+     "bo": "ཐུགས་རྗེ",
+     "dm": "compassionate",
+     "gm": "compassionate"
+    }
+   ]
+  },
+  {
+   "id": "2-51",
+   "terms": [
+    {
+     "bo": "ནམ་མཁའི་སྙིང་པོ",
+     "dm": "Ākāśagarbha",
+     "gm": "Ākāśagarbha"
+    },
+    {
+     "bo": "ས་ཡི་སྙིང་པོ",
+     "dm": "Kṣitigarbha",
+     "gm": "Kṣitigarbha"
+    },
+    {
+     "bo": "ཐུགས་རྗེ་ཆེ",
+     "dm": "great compassionate",
+     "gm": "greatly compassionate"
+    }
+   ]
+  },
+  {
+   "id": "2-52",
+   "terms": [
+    {
+     "bo": "གཤིན་རྗེ",
+     "dm": "Yama",
+     "gm": "Yama"
+    },
+    {
+     "bo": "རྡོ་རྗེ་ཅན",
+     "dm": "Wielder of the Vajra",
+     "gm": "Vajra-wielder"
+    },
+    {
+     "bo": "སྐྱབས་སུ་མཆི",
+     "dm": "go for refuge",
+     "gm": "take refuge"
+    }
+   ]
+  },
+  {
+   "id": "2-53",
+   "terms": [
+    {
+     "bo": "སྐྱབས་སུ་མཆི",
+     "dm": "come to you for refuge",
+     "gm": "take refuge"
+    }
+   ]
+  },
+  {
+   "id": "2-54",
+   "terms": [
+    {
+     "bo": "འདོད་ཆགས",
+     "dm": "desire",
+     "gm": "attachment"
+    }
+   ]
+  },
+  {
+   "id": "2-55",
+   "terms": [
+    {
+     "bo": "འཛམ་གླིང",
+     "dm": "Jambudvīpa",
+     "gm": "Jambudvīpa"
+    }
+   ]
+  },
+  {
+   "id": "2-56",
+   "terms": [
+    {
+     "bo": "སྨན་པ་ཐམས་ཅད་མཁྱེན",
+     "dm": "Omniscient Physician",
+     "gm": "omniscient physician"
+    },
+    {
+     "bo": "གཏི་མུག",
+     "dm": "delusion",
+     "gm": "foolish"
+    }
+   ]
+  },
+  {
+   "id": "2-57",
+   "terms": [
+    {
+     "bo": "དཔག་ཚད",
+     "dm": "leagues",
+     "gm": "yojanas"
+    }
+   ]
+  },
+  {
+   "id": "2-58",
+   "terms": []
+  },
+  {
+   "id": "2-59",
+   "terms": []
+  },
+  {
+   "id": "2-60",
+   "terms": [
+    {
+     "bo": "བླ་མ",
+     "dm": "Guru",
+     "gm": "gurus"
+    }
+   ]
+  },
+  {
+   "id": "2-61",
+   "terms": []
+  },
+  {
+   "id": "2-62",
+   "terms": [
+    {
+     "bo": "མི་དགེ་བ",
+     "dm": "non-virtue",
+     "gm": "non-virtue"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "2-63",
+   "terms": [
+    {
+     "bo": "མི་ཤེས",
+     "dm": "ignorance",
+     "gm": "ignorant"
+    },
+    {
+     "bo": "གཏི་མུག",
+     "dm": "delusion",
+     "gm": "foolish"
+    },
+    {
+     "bo": "རང་བཞིན་ཁ་ན་མ་ཐོ",
+     "dm": "natural misdeeds",
+     "gm": "Natural misdeeds"
+    },
+    {
+     "bo": "བཅས་པའི་སྡིག་པ",
+     "dm": "proscribed sins",
+     "gm": "proscribed negative deeds"
+    },
+    {
+     "bo": "སྡིག་པ",
+     "dm": "sins",
+     "gm": "negative deeds"
+    }
+   ]
+  },
+  {
+   "id": "2-64",
+   "terms": [
+    {
+     "bo": "མགོན་པོ",
+     "dm": "Protectors",
+     "gm": "protectors"
+    },
+    {
+     "bo": "ཐལ་སྦྱར",
+     "dm": "palms joined",
+     "gm": "palms joined"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "ཕྱག་འཚལ",
+     "dm": "prostrate",
+     "gm": "Bowing down"
+    },
+    {
+     "bo": "བཤགས",
+     "dm": "confess",
+     "gm": "confess"
+    }
+   ]
+  },
+  {
+   "id": "2-65",
+   "terms": [
+    {
+     "bo": "འདྲེན་པ",
+     "dm": "Guides",
+     "gm": "guides"
+    },
+    {
+     "bo": "སྡིག",
+     "dm": "sins",
+     "gm": "negative deeds"
+    }
+   ]
+  },
+  {
+   "id": "2-a",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ",
+     "dm": "Engaging in the Bodhisattva's Conduct",
+     "gm": "Entering the Way of the Bodhisattva"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattva",
+     "gm": "Bodhisattva"
+    },
+    {
+     "bo": "སྡིག་པ་བཤགས་པ",
+     "dm": "Confession of Sin",
+     "gm": "Confession of Negative Deeds"
+    }
+   ]
+  }
+ ]
+}

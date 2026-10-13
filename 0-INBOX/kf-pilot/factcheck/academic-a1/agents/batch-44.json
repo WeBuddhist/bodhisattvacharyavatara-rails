@@ -1,0 +1,137 @@
+{
+ "batch": "batch-44",
+ "segments": [
+  {
+   "id": "9-165",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-166",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "for those tormented by the fire of suffering,\nWell-arisen from the clouds of merit,",
+     "evidence": "Tibetan བསོད་ནམས་སྤྲིན་ལས་ལེགས་འཁྲུངས་པའི། modifies རང་གི་བདེ་བའི་ཚོགས་ཆར (\"rain of my own accumulation of happiness\"), not the tormented beings; bo-kunpal 9-166: བསོད་ནམས་ཀྱི་ཚོགས་ཚད་མེད་པའི་སྤྲིན་ལས་ལེགས་པར་བྱུང་བའི་རང་གི་བདེ་བའི་ཚོགས་ཆར; bo-shenga 9-166 likewise. In the English, the dangling line can be read as describing the beings.",
+     "fix": "Well-arisen from the clouds of merit—a rain of my own accumulation of happiness—"
+    }
+   ]
+  },
+  {
+   "id": "9-167",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "By my having composed\nEngaging in the Conduct of Awakening,\nThrough whatever virtue that is",
+     "evidence": "Tibetan has a single relation: བདག་གིས...བརྩམས་པ་ཡི། དགེ་བ་གང་དེས \"by whatever virtue [arises] from my composing (the treatise) Engaging in the Conduct of Awakening\"; bo-shenga 10-1: བསྟན་བཅོས་རྣམ་པར་བརྩམས་པ་ཡི། དགེ་བ་གང་ཡིན་པ་དེས. The English gives two stacked instrumentals (\"By my having composed... Through whatever virtue that is\"), which reads as garbled.",
+     "fix": "Through whatever virtue there is in my having composed\nEngaging in the Conduct of Awakening,"
+    }
+   ]
+  },
+  {
+   "id": "10-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-12",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "burning embers of hell",
+     "evidence": "Tibetan དམྱལ་བའི་མེ་མདག \"the fire and embers of hell\"; bo-shenga 10-12: དམྱལ་བའི་མེ་དང་མདག་མ་དག; bo-kunpal 10-12: དམྱལ་བའི་མེ་མདག. English drops \"fire\" as a separate item.",
+     "fix": "fires and embers of hell"
+    }
+   ]
+  },
+  {
+   "id": "10-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-15",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "and the bliss\nAnd cool, fragrant rain they let fall",
+     "evidence": "Tibetan བདེ་བ་དང་། བསིལ་ཞིང་དྲི་ཞིམ་དང་ལྡན་ཆར་པ: \"bliss\" is one of the qualities of the rain (blissful, cool, fragrant), not a separate thing let fall; bo-shenga 10-15: རེག་ན་བདེ་བ་དང་། བསིལ་ཞིང་དྲི་ཞིམ་པོའི་ངད་པ་དང་ལྡན་པའི་ཆར་པ; bo-gyaltsab 10-15: བདེ་བ་དང་བསིལ་ཞིང་དྲི་ཞིམ་པ་དང་ལྡན་པའི་ཆར་བ. \"the bliss and cool, fragrant rain\" can be read as two nouns.",
+     "fix": "and the blissful,\ncool, fragrant rain they let fall"
+    }
+   ]
+  },
+  {
+   "id": "10-16",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "batch": "batch-47",
+ "segments": [
+  {
+   "id": "10-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "a-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "b-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "b-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "b-3",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "batch": "batch-29",
+ "segments": [
+  {
+   "id": "8-51",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "To a cage of bones bound by sinews, / Plastered with the mud of flesh, / Why do you embrace another in your lap?",
+     "evidence": "The Tibetan \"རུས་གཟེབ་རྒྱུས་པས་སྦྲེལ་བ་ལ། ཤ་ཡི་འདམ་གྱིས་ཞལ་ཞལ་བྱས། གཞན\" qualifies \"གཞན\" (another); bo-shenga 8-51 glosses it as \"གཞན་བུད་མེད་ཀྱི་ལུས་\" (the other woman's body). The English \"To a cage of bones\" reads as a dangling indirect object, so the syntax of the object is unclear.",
+     "fix": "why do you embrace in your lap another—a cage of bones bound by sinews, plastered with the mud of flesh?"
+    }
+   ]
+  },
+  {
+   "id": "8-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-67",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "Yellowish teeth",
+     "evidence": "Tibetan \"སོ་སྐྱ་དྲིར་བཅས\" = yellowish teeth together with filth/foulness (བཅས). bo-kunpal 8-67: \"སོ་སྐྱ་བོ་ ... དྲི་མར་བཅས་པ\" and bo-shenga 8-67: \"སོ་སྐྱ་བོ་དྲི་མར་བཅས་པ\" (teeth with filth); Sanskrit \"dantaiḥ samalapāṇḍuraiḥ\". The English drops the filth on the teeth.",
+     "fix": "yellowish teeth with filth"
+    }
+   ]
+  },
+  {
+   "id": "8-68",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "to polish it",
+     "evidence": "\"བྱི་དོར་བྱེད\" means to tidy, clean and tend. bo-kunpal 8-68 glosses it as \"ཁྲུས་དང་བྱུག་པ་སོགས་ཀྱིས་བྱི་དོར་བྱེད\" (washing, anointing and so on) of the body. \"Polish\" fits a weapon but not the body, which is what \"it\" refers to.",
+     "fix": "to tend to it (wash, anoint and adorn it)"
+    }
+   ]
+  },
+  {
+   "id": "8-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-70",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

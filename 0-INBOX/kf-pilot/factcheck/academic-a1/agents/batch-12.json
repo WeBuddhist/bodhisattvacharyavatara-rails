@@ -1,0 +1,145 @@
+{
+ "batch": "batch-12",
+ "segments": [
+  {
+   "id": "5-32",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "one should bear it in mind",
+     "evidence": "དེ་བཞིན་གནོས (mnos) is \"undertake/take on likewise\"; bo-kunpal 5-32 glosses དེ་བཞིན་དུ་མནོས་ཏེ་གནས་པར་གྱིས་ཤིག (\"having so undertaken, remain\"), Sanskrit tathā tiṣṭhet \"remain thus\". \"Bear it in mind\" adds an object (\"it\") and drops the དེ་བཞིན \"thus/likewise\" that links back to the shame, respect and fear.",
+     "fix": "one should thus take it on and remain so"
+    }
+   ]
+  },
+  {
+   "id": "5-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-34",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "like a piece of wood",
+     "evidence": "ཤིང་བཞིན་ is rendered \"like a log of wood\" in the glossary and in 5-48, 5-50, 5-51; here the same phrase ཤིང་བཞིན་དུ་ཡང་ is rendered \"like a piece of wood\", an unmotivated inconsistency (bo-kunpal 5-34 likens it to a great tree stump unmoved by wind).",
+     "fix": "like a log of wood"
+    }
+   ]
+  },
+  {
+   "id": "5-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-39",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "Having prepared for an action",
+     "evidence": "བྱ་བ་བསྡོགས་ནས is glossed by bo-shenga 5-39 as བརྩམས་པར་བྱས་ནས (\"having begun/set about\") and by bo-kunpal 5-39 as བྱ་བ་དེའི་མགོ་བརྩམས་པ (\"having begun that action\"); Sanskrit kriyām ākṣipya. The action is already started, not merely prepared for.",
+     "fix": "Having set about an action with the thought,"
+    }
+   ]
+  },
+  {
+   "id": "5-40",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "Does not escape from how it is bound",
+     "evidence": "ཇི་ལྟར་བཏགས་པ་མི་འཆོར་བར། དེ་ལྟར་འབད་པ་ཀུན་གྱིས་བརྟག is a ji-ltar...de-ltar clause: as bound, it does not escape (bo-gyaltsab 5-40: ཇི་ལྟར་བཏགས་པ་མི་འཆོར་བར་). \"Escape from how it is bound\" is hard to parse and suggests escaping a manner of binding, not escaping the pillar.",
+     "fix": "So that the mad elephant of the mind, once tied to the great pillar of reflecting on the Dharma, does not escape"
+    }
+   ]
+  },
+  {
+   "id": "5-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-46",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "the training of the Sugatas",
+     "evidence": "བདེ་གཤེགས་བསླབ་པ has no plural marker; bo-gyaltsab 5-46 has བདེ་གཤེགས་ཀྱི་བསླབ་པ and bo-shenga བདེ་བར་གཤེགས་པའི་བསླབ་པ (singular); Sanskrit tāthāgatīṃ śikṣām is singular.",
+     "fix": "the training of the Sugata"
+    }
+   ]
+  },
+  {
+   "id": "5-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-51",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

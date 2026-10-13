@@ -1,0 +1,269 @@
+{
+ "batch": "batch-20",
+ "segments": [
+  {
+   "id": "9-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-68",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "बिना समझ के उसका मिट जाना तय है",
+     "evidence": "Academic: if it knows by being endowed with mind, then the non-knowing (ignorance/insentience) would be destroyed. The children's text reads as if the thing perishes \"without understanding\", garbling who/what is destroyed.",
+     "fix": "पर अगर वह मन से जुड़कर जानने लगती है, तो उसका न जानना मिट जाएगा। यानी वह बिना चेतना वाली नहीं रही।"
+    }
+   ]
+  },
+  {
+   "id": "9-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-71",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "major",
+     "span": "काम और फल दोनों अलग-अलग हैं।",
+     "evidence": "Academic/Tibetan: the bases (locus/support) of the action and of the fruit are different, i.e. the doer and the one who gets the result differ. The children's text says only that action and fruit are different, dropping the point about their bases.",
+     "fix": "काम करने वाला और फल पाने वाला अलग-अलग होते हैं। और हम दोनों ही मानते हैं कि इसमें \"अपना आप\" कुछ नहीं करता। तो क्या यहाँ बेकार में बहस करना ठीक है?"
+    }
+   ]
+  },
+  {
+   "id": "9-72",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "बुद्ध ने सिखाया है",
+     "evidence": "Academic: \"the doer and experiencer are taught\" (passive); no agent such as the Buddha is named.",
+     "fix": "एक \"लगातार चलती धारा\" के सहारे ही \"करने वाला\" और \"अनुभव करने वाला\" कहे जाते हैं।"
+    }
+   ]
+  },
+  {
+   "id": "9-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-77",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "अगर कोई कहे कि इस उलझन को दूर नहीं कर सकते",
+     "evidence": "Academic: \"if you say there is no turning back/reversal from that either\" (the pride that causes suffering is not reversed), then meditation on selflessness is best. The children's text shifts the object to the delusion in general.",
+     "fix": "अगर कोई कहे कि इस घमंड से भी लौटने का कोई रास्ता नहीं है, तो \"अपना अलग आप न होना\" का ध्यान करना सबसे अच्छा है।"
+    }
+   ]
+  },
+  {
+   "id": "9-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-81",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-84",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-87",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "उससे जुड़ेगा",
+     "evidence": "Tibetan/academic: which discerning person would be attached (āsakta, clinging) to a form like a dream; \"जुड़ेगा\" loses clinging.",
+     "fix": "कौन समझदार उससे लगाव रखेगा?"
+    }
+   ]
+  },
+  {
+   "id": "9-88",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "सच में हमेशा रहता है",
+     "evidence": "Academic: \"if suffering truly/by nature exists\"; nothing about it always lasting.",
+     "fix": "अगर दुख सच में होता है, तो वह बहुत खुश इंसान को क्यों नहीं सताता?"
+    }
+   ]
+  },
+  {
+   "id": "9-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-90",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-91",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-101",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "यह शरीर सिर्फ़ हिस्सों का समूह है",
+     "evidence": "Academic: \"this selfless collection\" (the collection of parts/aggregates, the person); \"body\" is not named here.",
+     "fix": "यह हिस्सों का समूह ऐसा है जिसमें अपना अलग आप है ही नहीं।"
+    }
+   ]
+  },
+  {
+   "id": "9-102",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-103",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "doctrinal",
+     "severity": "major",
+     "span": "सारे जीव अपने स्वभाव से ही शोक से मुक्ति पा चुके हैं",
+     "evidence": "Academic/Tibetan: beings are nirvana by nature (a statement about their nature). \"Have already attained liberation from sorrow\" turns it into a completed attainment, which is false and contradicts the rest of the text.",
+     "fix": "इसी कारण से, सारे जीव अपने स्वभाव से ही शोक से मुक्ति ही हैं।"
+    }
+   ]
+  },
+  {
+   "id": "9-104",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

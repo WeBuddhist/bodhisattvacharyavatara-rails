@@ -1,0 +1,732 @@
+{
+ "batch": "batch-12",
+ "terms": [
+  {
+   "term_id": "T012",
+   "bo": "བྱང་ཆུབ་སེམས",
+   "sanskrit": "bodhicitta",
+   "senses": [
+    {
+     "sense": "the awakening mind",
+     "occurrences": "all",
+     "academic": "菩提心",
+     "children": "覺悟之心",
+     "basis": "style-sheet",
+     "reason": "Core term བྱང་ཆུབ་སེམས; general children's phrase (policy 15)."
+    }
+   ]
+  },
+  {
+   "term_id": "T028",
+   "bo": "ཆགས་པ",
+   "sanskrit": "lobha",
+   "senses": [
+    {
+     "sense": "attachment, clinging",
+     "occurrences": "all",
+     "academic": "貪著",
+     "children": "緊抓不放",
+     "basis": "new",
+     "reason": "Not in style sheet; 貪著 is the Tibetan-derived rendering of ཆགས; child phrase from 'clinging'."
+    }
+   ]
+  },
+  {
+   "term_id": "T044",
+   "bo": "ཐུབ་པ",
+   "sanskrit": "muni",
+   "senses": [
+    {
+     "sense": "epithet of the Buddha",
+     "occurrences": "all",
+     "academic": "牟尼",
+     "children": "聖者",
+     "basis": "style-sheet",
+     "reason": "Core term ཐུབ་པ (policy 9)."
+    }
+   ]
+  },
+  {
+   "term_id": "T060",
+   "bo": "མྱ་ངན་འདས",
+   "sanskrit": "nirvāṇa",
+   "senses": [
+    {
+     "sense": "nirvāṇa",
+     "occurrences": "all",
+     "academic": "涅槃",
+     "children": "脫離憂苦",
+     "basis": "style-sheet",
+     "reason": "Core term མྱ་ངན་འདས."
+    }
+   ]
+  },
+  {
+   "term_id": "T076",
+   "bo": "ངན་སོང",
+   "sanskrit": "apāya",
+   "senses": [
+    {
+     "sense": "lower realm",
+     "occurrences": "all",
+     "academic": "惡道",
+     "children": "惡道",
+     "basis": "style-sheet",
+     "reason": "Policy 22 sheet table: ངན་སོང is 惡道 in both registers; 地獄-type words are transparent."
+    }
+   ]
+  },
+  {
+   "term_id": "T092",
+   "bo": "ཁྲོ",
+   "sanskrit": "krudh",
+   "senses": [
+    {
+     "sense": "anger",
+     "occurrences": "all",
+     "academic": "忿怒",
+     "children": "生氣",
+     "basis": "new",
+     "reason": "Not in style sheet; 忿怒 for krodha, kept apart from ཞེ་སྡང་ (瞋恚); plain 生氣 for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T108",
+   "bo": "ཕན་ཡོན",
+   "sanskrit": "anuśaṃsā",
+   "senses": [
+    {
+     "sense": "benefit",
+     "occurrences": "all",
+     "academic": "利益",
+     "children": "好處",
+     "basis": "style-sheet",
+     "reason": "Policy 14 chapter title 菩提心利益; children 覺悟之心的好處."
+    }
+   ]
+  },
+  {
+   "term_id": "T124",
+   "bo": "གཉེན་པོ",
+   "sanskrit": "pratipakṣa",
+   "senses": [
+    {
+     "sense": "antidote",
+     "occurrences": "all",
+     "academic": "對治",
+     "children": "解藥",
+     "basis": "english-pivot",
+     "reason": "Established term for pratipakṣa; children 'remedy' as 解藥, matching the antidote image."
+    }
+   ]
+  },
+  {
+   "term_id": "T140",
+   "bo": "འཁོར",
+   "sanskrit": "saṃsāra",
+   "senses": [
+    {
+     "sense": "in saṃsāra (འཁོར་ཚེ)",
+     "occurrences": [
+      "1-17",
+      "6-134"
+     ],
+     "academic": "輪迴",
+     "children": "輪迴",
+     "basis": "style-sheet",
+     "reason": "འཁོར་ཚེ is the same term as འཁོར་བ (core table)."
+    },
+    {
+     "sense": "retinue",
+     "occurrences": [
+      "10-36"
+     ],
+     "academic": "眷屬",
+     "children": "跟隨的人",
+     "basis": "english-pivot",
+     "reason": "Separate sense 'retinue' (core table note); 眷屬 established; children 'followers'."
+    }
+   ]
+  },
+  {
+   "term_id": "T156",
+   "bo": "སྔགས",
+   "sanskrit": "mantra",
+   "senses": [
+    {
+     "sense": "mantra",
+     "occurrences": "all",
+     "academic": "咒語",
+     "children": "咒語",
+     "basis": "new",
+     "reason": "Not in style sheet; 咒語 for mantra, an everyday word, so also used for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T172",
+   "bo": "མོས་པ",
+   "sanskrit": "chanda",
+   "senses": [
+    {
+     "sense": "aspiration, zeal",
+     "occurrences": "all",
+     "academic": "願樂",
+     "children": "強烈的心願",
+     "basis": "new",
+     "reason": "⚑ No sheet term; Gemini 信解 is adhimukti, English says aspiration (chanda); 願樂 is Tibetan-derived usage."
+    }
+   ]
+  },
+  {
+   "term_id": "T188",
+   "bo": "དགེ་སློང",
+   "sanskrit": "bhikṣu",
+   "senses": [
+    {
+     "sense": "monk",
+     "occurrences": "all",
+     "academic": "比丘",
+     "children": "僧人",
+     "basis": "english-pivot",
+     "reason": "Established for bhikṣu; children use the everyday 僧人 for 'monk'."
+    }
+   ]
+  },
+  {
+   "term_id": "T204",
+   "bo": "དཀོན་མཆོག་གསུམ",
+   "sanskrit": "ratnatraya",
+   "senses": [
+    {
+     "sense": "Three Jewels",
+     "occurrences": "all",
+     "academic": "三寶",
+     "children": "三寶",
+     "basis": "style-sheet",
+     "reason": "Core term དཀོན་མཆོག་གསུམ."
+    }
+   ]
+  },
+  {
+   "term_id": "T220",
+   "bo": "རྣམ་ཐར",
+   "sanskrit": "vimokṣa",
+   "senses": [
+    {
+     "sense": "liberation",
+     "occurrences": [
+      "4-22"
+     ],
+     "academic": "解脫",
+     "children": "自由",
+     "basis": "english-pivot",
+     "reason": "Established for vimokṣa; children 'freedom'."
+    },
+    {
+     "sense": "life story of a saint",
+     "occurrences": [
+      "5-103"
+     ],
+     "academic": "解脫傳",
+     "children": "生平故事",
+     "basis": "english-pivot",
+     "reason": "Namtar genre; 解脫傳 builds on 解脫 (policy 18); children 'life story'."
+    }
+   ]
+  },
+  {
+   "term_id": "T236",
+   "bo": "གཞན་ལ་སྨོད་པ",
+   "sanskrit": "paraṃsana",
+   "senses": [
+    {
+     "sense": "disparagement of others",
+     "occurrences": "all",
+     "academic": "毀謗他人",
+     "children": "貶低別人",
+     "basis": "english-pivot",
+     "reason": "གཞན 他人 + སྨོད་པ 毀謗 (policy 18); children 'putting others down'."
+    }
+   ]
+  },
+  {
+   "term_id": "T252",
+   "bo": "བཟོད་པའི་རྒྱུ",
+   "sanskrit": "kṣamāhetu",
+   "senses": [
+    {
+     "sense": "cause of patience",
+     "occurrences": "all",
+     "academic": "安忍之因",
+     "children": "耐心的原因",
+     "basis": "style-sheet",
+     "reason": "Compound: བཟོད་པ 安忍 / 耐心 plus 因 (policy 18)."
+    }
+   ]
+  },
+  {
+   "term_id": "T268",
+   "bo": "རྣམ་པར་རྟོག་པ",
+   "sanskrit": "vitarka",
+   "senses": [
+    {
+     "sense": "discursive thought",
+     "occurrences": [
+      "8-2"
+     ],
+     "academic": "妄念",
+     "children": "雜亂的念頭",
+     "basis": "english-pivot",
+     "reason": "Discursive, restless thought (8-2); kept apart from 分別 of the conceptual sense."
+    },
+    {
+     "sense": "conceptual thought",
+     "occurrences": [
+      "9-140"
+     ],
+     "academic": "分別",
+     "children": "想法",
+     "basis": "english-pivot",
+     "reason": "Conceptual thought (9-140); vikalpa 分別; children 'idea'."
+    }
+   ]
+  },
+  {
+   "term_id": "T284",
+   "bo": "བག་ཆགས",
+   "sanskrit": "vāsanā",
+   "senses": [
+    {
+     "sense": "latent tendency",
+     "occurrences": "all",
+     "academic": "習氣",
+     "children": "根深的習慣",
+     "basis": "english-pivot",
+     "reason": "Established for vāsanā; children 'deep habit'."
+    }
+   ]
+  },
+  {
+   "term_id": "T300",
+   "bo": "བསྔོ་བ",
+   "sanskrit": "pariṇāmanā",
+   "senses": [
+    {
+     "sense": "dedication",
+     "occurrences": "all",
+     "academic": "迴向",
+     "children": "分享好事",
+     "basis": "style-sheet",
+     "reason": "Core term བསྔོ་བ."
+    }
+   ]
+  },
+  {
+   "term_id": "T316",
+   "bo": "འཇུག་པའི་སེམས",
+   "sanskrit": "prasthānacitta",
+   "senses": [
+    {
+     "sense": "engaging bodhicitta",
+     "occurrences": "all",
+     "academic": "行菩提心",
+     "children": "動身去覺悟的心",
+     "basis": "style-sheet",
+     "reason": "Policy 15 engaging bodhicitta; children phrase from core table (T315)."
+    }
+   ]
+  },
+  {
+   "term_id": "T332",
+   "bo": "ཀུན་ཏུ་བཟང",
+   "sanskrit": "Samantabhadra",
+   "senses": [
+    {
+     "sense": "name of a bodhisattva",
+     "occurrences": "all",
+     "academic": "普賢",
+     "children": "普賢",
+     "basis": "style-sheet",
+     "reason": "Policy 11 name."
+    }
+   ]
+  },
+  {
+   "term_id": "T348",
+   "bo": "ཡི་རང",
+   "sanskrit": "anumodita",
+   "senses": [
+    {
+     "sense": "rejoice",
+     "occurrences": "all",
+     "academic": "隨喜",
+     "children": "為別人高興",
+     "basis": "english-pivot",
+     "reason": "Established for anumodana; children 'feel joy in'."
+    }
+   ]
+  },
+  {
+   "term_id": "T364",
+   "bo": "ཐལ་སྦྱར",
+   "sanskrit": "kṛtāñjali",
+   "senses": [
+    {
+     "sense": "joined palms",
+     "occurrences": "all",
+     "academic": "合掌",
+     "children": "雙手合十",
+     "basis": "english-pivot",
+     "reason": "Established; plain child form."
+    }
+   ]
+  },
+  {
+   "term_id": "T380",
+   "bo": "སངས་རྒྱས་རིགས",
+   "sanskrit": "buddhakula",
+   "senses": [
+    {
+     "sense": "family of the Buddhas",
+     "occurrences": "all",
+     "academic": "佛種姓",
+     "children": "佛陀的家族",
+     "basis": "english-pivot",
+     "reason": "སངས་རྒྱས 佛 + རིགས 種姓; Gemini 佛族 is looser; children 佛陀 plus family."
+    }
+   ]
+  },
+  {
+   "term_id": "T396",
+   "bo": "ཡང་དག་གསུང་བ",
+   "sanskrit": "tattvavādin",
+   "senses": [
+    {
+     "sense": "epithet of the Buddha",
+     "occurrences": "all",
+     "academic": "真實語者",
+     "children": "說真話的人",
+     "basis": "zero-shot",
+     "reason": "Epithet tattvavādin; Gemini 真實語者 kept, apart from 諦語者 (satyavādin)."
+    }
+   ]
+  },
+  {
+   "term_id": "T412",
+   "bo": "ངོ་ཚ",
+   "sanskrit": "trapā",
+   "senses": [
+    {
+     "sense": "shame",
+     "occurrences": "all",
+     "academic": "慚愧",
+     "children": "羞愧",
+     "basis": "zero-shot",
+     "reason": "Established compound; Gemini form; child word 羞愧."
+    }
+   ]
+  },
+  {
+   "term_id": "T428",
+   "bo": "མུ་ཅོར",
+   "sanskrit": "mukhara",
+   "senses": [
+    {
+     "sense": "idle chatter",
+     "occurrences": "all",
+     "academic": "多言",
+     "children": "閒聊",
+     "basis": "new",
+     "reason": "Not in style sheet; mukhara is talkativeness; children 'idle talk'."
+    }
+   ]
+  },
+  {
+   "term_id": "T444",
+   "bo": "ཕུང་པོ་གསུམ་པ",
+   "sanskrit": "triskandha",
+   "senses": [
+    {
+     "sense": "Three Heaps Sūtra",
+     "occurrences": "all",
+     "academic": "《三聚經》",
+     "children": "《三堆經》",
+     "basis": "english-pivot",
+     "reason": "Text title: triskandha 'three heaps'; children use plain 堆."
+    }
+   ]
+  },
+  {
+   "term_id": "T460",
+   "bo": "བག་མེད་པ",
+   "sanskrit": "pramāda",
+   "senses": [
+    {
+     "sense": "heedlessness",
+     "occurrences": "all",
+     "academic": "放逸",
+     "children": "粗心大意",
+     "basis": "style-sheet",
+     "reason": "Policy 17: བག་མེད་པ is 放逸 / 粗心大意."
+    }
+   ]
+  },
+  {
+   "term_id": "T477",
+   "bo": "སྦྱིན་བདག",
+   "sanskrit": "dānapati",
+   "senses": [
+    {
+     "sense": "benefactor",
+     "occurrences": "all",
+     "academic": "施主",
+     "children": "施予的人",
+     "basis": "english-pivot",
+     "reason": "Established for dānapati; children build on 給予 (core table)."
+    }
+   ]
+  },
+  {
+   "term_id": "T493",
+   "bo": "ཡོན་ཏན་མཆོག",
+   "sanskrit": "guṇasāra",
+   "senses": [
+    {
+     "sense": "supreme good quality",
+     "occurrences": "all",
+     "academic": "殊勝功德",
+     "children": "最美好的品質",
+     "basis": "style-sheet",
+     "reason": "ཡོན་ཏན 功德 / 美好的品質 plus མཆོག (policy 18)."
+    }
+   ]
+  },
+  {
+   "term_id": "T509",
+   "bo": "བདེན་པ་གསུང་བ",
+   "sanskrit": "satyavādin",
+   "senses": [
+    {
+     "sense": "Speaker of Truth",
+     "occurrences": "all",
+     "academic": "諦語者",
+     "children": "說真話的人",
+     "basis": "zero-shot",
+     "reason": "Epithet satyavādin; Gemini 諦語者 kept; children same plain phrase as T396."
+    }
+   ]
+  },
+  {
+   "term_id": "T525",
+   "bo": "དགེ་བའི་ཕྱོགས",
+   "sanskrit": "kuśala",
+   "senses": [
+    {
+     "sense": "virtuous factor",
+     "occurrences": "all",
+     "academic": "善品",
+     "children": "一類好事",
+     "basis": "english-pivot",
+     "reason": "དགེ་བ 善 plus ཕྱོགས; 善品 established for kuśala-pakṣa; children 好事."
+    }
+   ]
+  },
+  {
+   "term_id": "T541",
+   "bo": "ཞི་གནས",
+   "sanskrit": "śamatha",
+   "senses": [
+    {
+     "sense": "calm abiding",
+     "occurrences": "all",
+     "academic": "寂止",
+     "children": "平靜安住",
+     "basis": "zero-shot",
+     "reason": "Gemini 寂止, established for śamatha; children 'calm abiding'."
+    }
+   ]
+  },
+  {
+   "term_id": "T557",
+   "bo": "ཀེང་རུས",
+   "sanskrit": "asthi",
+   "senses": [
+    {
+     "sense": "skeleton",
+     "occurrences": "all",
+     "academic": "骸骨",
+     "children": "骨架",
+     "basis": "zero-shot",
+     "reason": "Gemini form 骨骸 reordered to the common 骸骨; children 'skeleton'."
+    }
+   ]
+  },
+  {
+   "term_id": "T573",
+   "bo": "འདོད",
+   "sanskrit": "kāma",
+   "senses": [
+    {
+     "sense": "desire",
+     "occurrences": "all",
+     "academic": "欲",
+     "children": "慾望",
+     "basis": "english-pivot",
+     "reason": "Established for kāma; plain child word."
+    }
+   ]
+  },
+  {
+   "term_id": "T589",
+   "bo": "འདྲེ་ཆེན",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "great demon",
+     "occurrences": "all",
+     "academic": "大魔鬼",
+     "children": "大惡魔",
+     "basis": "new",
+     "reason": "⚑ No sheet term; འདྲེ is a demon, not བདུད (魔), so 魔鬼 is used."
+    }
+   ]
+  },
+  {
+   "term_id": "T605",
+   "bo": "གཙང",
+   "sanskrit": "śuci",
+   "senses": [
+    {
+     "sense": "purity",
+     "occurrences": "all",
+     "academic": "淨",
+     "children": "乾淨",
+     "basis": "style-sheet",
+     "reason": "Policy 17: མི་གཙང is 不淨, so གཙང is 淨; children 'cleanness'."
+    }
+   ]
+  },
+  {
+   "term_id": "T621",
+   "bo": "སྟོང་ཉིད་བག་ཆགས",
+   "sanskrit": "śūnyatāvāsanā",
+   "senses": [
+    {
+     "sense": "latent tendency of emptiness",
+     "occurrences": "all",
+     "academic": "空性習氣",
+     "children": "空性的根深習慣",
+     "basis": "style-sheet",
+     "reason": "Compound of སྟོང་ཉིད 空性 and བག་ཆགས 習氣 (policy 18)."
+    }
+   ]
+  },
+  {
+   "term_id": "T637",
+   "bo": "འདུ་ཤེས་མེད་པའི་སྙོམས་འཇུག",
+   "sanskrit": "asaṃjñisamāpatti",
+   "senses": [
+    {
+     "sense": "absorption of non-perception",
+     "occurrences": "all",
+     "academic": "無想定",
+     "children": "沒有感知的深度安定",
+     "basis": "zero-shot",
+     "reason": "Established term, Gemini form; child phrase uses 深度安定 (policy 20)."
+    }
+   ]
+  },
+  {
+   "term_id": "T653",
+   "bo": "འགལ་རྐྱེན",
+   "sanskrit": "viruddhapratyaya",
+   "senses": [
+    {
+     "sense": "opposing condition",
+     "occurrences": "all",
+     "academic": "違緣",
+     "children": "對立的情況",
+     "basis": "english-pivot",
+     "reason": "Established term for viruddhapratyaya; children 'opposing circumstance'."
+    }
+   ]
+  },
+  {
+   "term_id": "T669",
+   "bo": "རགས",
+   "sanskrit": "sthūla",
+   "senses": [
+    {
+     "sense": "coarse",
+     "occurrences": "all",
+     "academic": "粗",
+     "children": "粗糙",
+     "basis": "english-pivot",
+     "reason": "Established contrast 粗 / 細; children 'rough'."
+    }
+   ]
+  },
+  {
+   "term_id": "T685",
+   "bo": "ལོག་པའི་ལམ",
+   "sanskrit": "asanmārga",
+   "senses": [
+    {
+     "sense": "wrong path",
+     "occurrences": "all",
+     "academic": "邪道",
+     "children": "錯誤的道路",
+     "basis": "zero-shot",
+     "reason": "Gemini form 邪道, established; kept apart from 惡道; plain child phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T701",
+   "bo": "དགེ་རྩ",
+   "sanskrit": "kuśalamūla",
+   "senses": [
+    {
+     "sense": "root of virtue",
+     "occurrences": "all",
+     "academic": "善根",
+     "children": "好事的根源",
+     "basis": "english-pivot",
+     "reason": "Established for kuśalamūla; children 'root of good deeds'."
+    }
+   ]
+  },
+  {
+   "term_id": "T717",
+   "bo": "གསང་སྔགས",
+   "sanskrit": "guhyamantra",
+   "senses": [
+    {
+     "sense": "secret mantra",
+     "occurrences": "all",
+     "academic": "密咒",
+     "children": "秘密咒語",
+     "basis": "english-pivot",
+     "reason": "Established for guhyamantra; builds on 咒語 (T156)."
+    }
+   ]
+  },
+  {
+   "term_id": "T733",
+   "bo": "ཤནྟ་དེ་བ",
+   "sanskrit": "śāntideva",
+   "senses": [
+    {
+     "sense": "name of the author",
+     "occurrences": "all",
+     "academic": "寂天",
+     "children": "寂天",
+     "basis": "style-sheet",
+     "reason": "Policy 11 name."
+    }
+   ]
+  }
+ ]
+}

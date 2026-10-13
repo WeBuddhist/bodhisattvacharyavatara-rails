@@ -1,0 +1,129 @@
+{
+ "batch": "batch-13",
+ "segments": [
+  {
+   "id": "5-52",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "Forsaking the welfare of others, / And desiring to pursue my own welfare, / Or if a mind desiring to speak arises",
+     "evidence": "Tibetan: གཞན་དོན་ཡལ་བར་འདོར་བ་དང་། རང་དོན་གཉེར་བར་འདོད་པ་དང་། སྨྲ་བར་འདོད་པའི་སེམས་བྱུང་ན། — three parallel items joined by དང་ all governed by one སེམས་བྱུང་ན (\"if a mind ... arises\"); bo-gyaltsab 5-52: ཡལ་བར་འདོར་བའམ། རང་དོན་གཉེར་བར་འདོད་པ་དག་དང་། ངག་སྨྲ་བར་འདོད་པའི་སེམས་བྱུང་ན. The English leaves \"Forsaking\" and \"desiring\" as dangling participles with no subject and switches to \"Or if\" for the last item, so the syntax of the three clauses is unclear.",
+     "fix": "If a mind arises that forsakes the welfare of others, desires to pursue my own welfare, or desires to speak,"
+    }
+   ]
+  },
+  {
+   "id": "5-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-56",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Due to the arising of their afflictions, / This mind has arisen",
+     "evidence": "Tibetan: ཉོན་མོངས་སྐྱེས་པ་འདི་དག་གི། སེམས་འདི་བྱུང་སྙམ — the genitive འདི་དག་གི (\"of these [beings]\") governs སེམས་འདི (\"this mind\"); bo-gyaltsab 5-56: འདི་དག་གི་སེམས་འདི་བྱུང་བས; bo-kunpal: བྱིས་པ་འདི་དག་གི་ ... སེམས་འདི་ལྟ་བུ་ ... བྱུང་བའོ་སྙམ. In the English \"their\" modifies only \"afflictions\", so \"this mind\" could be read as the practitioner's own mind.",
+     "fix": "\"Because afflictions have arisen in them, this mind of theirs has arisen,\""
+    }
+   ]
+  },
+  {
+   "id": "5-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-59",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Even when dragged back and forth everywhere ... Why do you care for it now?",
+     "evidence": "The Tibetan elides the object (the corpse/body); bo-shenga 5-59 and bo-gyaltsab 5-59 supply it: ལུས་དེ་ ... བཤལ་ཅིང་ཁྲིད་ཀྱང་ ... ལུས་ལ་ཆགས་ནས་ཁ་ཏ་བྱེད. The English gives no antecedent for the dragged thing or for \"it\", and the preceding verse (5-58) concerns the mind, so \"it\" is likely to be misread.",
+     "fix": "Even when [the body] is dragged back and forth everywhere ... Why do you now care for [it]?"
+    }
+   ]
+  },
+  {
+   "id": "5-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-71",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

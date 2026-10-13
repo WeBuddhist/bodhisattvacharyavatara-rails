@@ -1,0 +1,26 @@
+{
+ "step": "termbase",
+ "text": "bodhicaryavatara",
+ "lang": "en",
+ "model": "sonnet",
+ "session": "ca122cef-33c8-420b-9b53-14f174c7375c",
+ "agents": {
+  "style-sheet": "a28be15fe490e488f",
+  "batch-01": "aaa177cbab639cfed",
+  "batch-02": "a50c5a770c991c637",
+  "batch-03": "a4989b4c681c5afc2",
+  "batch-04": "a984c91e0a823feb4",
+  "batch-05": "aa78c894c579b1be8",
+  "batch-06": "a225a074bd173b85a",
+  "batch-07": "a2031587c6dff2c02",
+  "batch-08": "a6315f679e32557b1",
+  "batch-09": "ab2476d9ec7b62e14",
+  "batch-10": "a8865d0b168197ef9",
+  "batch-11": "a79828ec466cf2054",
+  "batch-12": "a2afb33d8c5037c9b",
+  "batch-13": "ab194c96e60eecf09",
+  "batch-14": "a889d646e406292ae",
+  "batch-15": "aa0199dbd4cd36dba",
+  "batch-16": "ad1be6bb2d82f4641"
+ }
+}

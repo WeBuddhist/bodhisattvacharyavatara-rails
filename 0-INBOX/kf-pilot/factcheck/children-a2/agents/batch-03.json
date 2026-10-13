@@ -1,0 +1,178 @@
+{
+ "batch": "batch-03",
+ "segments": [
+  {
+   "id": "5-90",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "lure people away",
+     "evidence": "Tibetan/academic: 'lure them with sūtras and mantras' (no 'away').",
+     "fix": "I should not lure people with teaching texts and sacred words."
+    }
+   ]
+  },
+  {
+   "id": "5-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-101",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-103",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-32",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "because suffering depends on its causes",
+     "evidence": "Academic: 'In dependence upon that, it is not unreasonable to wish for sufferings to be severed'; 'that' is not specified as suffering's causes.",
+     "fix": "But because things depend on each other, it does make sense. It is not wrong to wish for suffering to be cut away."
+    }
+   ]
+  },
+  {
+   "id": "6-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-41",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "since he is driven by hatred too",
+     "evidence": "Academic: sticks are the actual instruments, and the thrower too is driven by hatred, so anger at hatred is the fitting target; 'too' has no referent in the children's text, and the stick-as-tool point is lost.",
+     "fix": "Someone hits me with a stick. I do not blame the stick, because the person swinging it is pushing it. But that person is pushed by hatred too. So it makes more sense to be angry at hatred."
+    }
+   ]
+  },
+  {
+   "id": "6-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-91",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-103",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "I am only making a block, even when the cause of a store of goodness is right in front of me",
+     "evidence": "Academic: when the cause of merit is present, I am merely creating an obstacle to it (the obstacle is to the cause of merit); 'even when' also shifts the logic.",
+     "fix": "If my own faults stop me from practicing patience with this, I am only blocking the cause of a store of goodness that is right here."
+    }
+   ]
+  },
+  {
+   "id": "6-105",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-111",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-116",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-117",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "I should make offerings to them",
+     "evidence": "Academic: 'in order to make offerings to them, even offering the three realms would be too little' — a statement of how great the worth is, not an instruction.",
+     "fix": "If even a tiny part of that special collection of supreme good qualities appears in someone, then even offering them the three realms would be too little."
+    }
+   ]
+  },
+  {
+   "id": "6-119",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-11",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "Since you have done harmful deeds, there is no need to even mention the unbearable sufferings of hell!",
+     "evidence": "Academic: 'If you ... are possessed by fear in this life, having committed misdeeds, what need is there to mention the unbearable sufferings of hell?' — conditional a fortiori argument (if fear now, how much worse hell); the children's 'Since ... no need to mention' turns it into a flat statement and the idiom can read as hell being unimportant.",
+     "fix": "If you flip around in fear like a live fish even in this life, how much worse will the unbearable sufferings of hell be for someone who has done harmful deeds!"
+    }
+   ]
+  }
+ ]
+}

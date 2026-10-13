@@ -1,0 +1,134 @@
+{
+ "batch": "batch-06",
+ "segments": [
+  {
+   "id": "9-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-103",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "major",
+     "span": "The mind is not the body",
+     "evidence": "Source says only \"That which is not the body, nor anywhere else...\"; it does not name the mind as the subject.",
+     "fix": "Whatever is not the body and is not anywhere else, is not mixed with anything, and is not separate, cannot be found as anything at all. Because of this, every living being is in freedom from sorrow by nature."
+    }
+   ]
+  },
+  {
+   "id": "9-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-126",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-131",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-144",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-146",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-149",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "are always never born and never ending",
+     "evidence": "Source: always unborn and unceasing; locked term is 'never born and never ending'.",
+     "fix": "all these beings are never born and never ending, always."
+    }
+   ]
+  },
+  {
+   "id": "9-154",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-157",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-158",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "b-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "the Indian teacher who ordained me, Sumatikirti",
+     "evidence": "Academic: 'the Indian preceptor Sumatikirti'; 'me' is not in the source and wrongly suggests the narrator was ordained by him (locked term was applied literally).",
+     "fix": "the Indian teacher who ordains monks, Sumatikirti"
+    }
+   ]
+  }
+ ]
+}

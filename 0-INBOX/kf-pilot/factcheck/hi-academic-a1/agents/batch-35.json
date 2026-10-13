@@ -1,0 +1,129 @@
+{
+ "batch": "batch-35",
+ "segments": [
+  {
+   "id": "8-171",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-172",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-173",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "दुर्बल होकर पतन को प्राप्त होता है",
+     "evidence": "Tibetan 'བཟེ་རེ་ཅན་གྱུར་ཉིད་དུ་ལྟུང་' = falls into the state of being 'bzer re can' (fragile/intolerant); bo-shenga glosses it as unable to bear even slight suffering (སྡུག་བསྔལ་ཕྲ་མོ་ཙམ་ཡང་བཟོད་པར་མི་ནུས་པ་ཉིད་དུ་ལྷུང་), bo-gyaltsab similarly. 'दुर्बल' (weak) misses the delicacy/intolerance sense (Skt sukumāratara), and 'दुर्बल होकर ... पतन' recasts the fall-into-a-state as weakening then falling.",
+     "fix": "अत्यन्त सुकुमार (असहिष्णु) अवस्था में जा गिरता है"
+    }
+   ]
+  },
+  {
+   "id": "8-174",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-175",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "दूषित विचार",
+     "evidence": "Tibetan 'བསམ་པ་ཉམས་པ' = deterioration/loss of intention; bo-gyaltsab: དགེ་བའི་ཕྱོགས་ཀྱི་བསམ་པ་ཉམས་པ (wholesome intention declines) and bo-shenga: བསམ་པ་ཉམས་པ; Skt āśābhaṅga (disappointment). 'दूषित' means corrupted/defiled, not decayed or lost.",
+     "fix": "आशय (संकल्प) का ह्रास"
+    }
+   ]
+  },
+  {
+   "id": "8-176",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-177",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-178",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-179",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-180",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-181",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-182",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-183",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-184",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-185",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "मैं समाहित करूँगा",
+     "evidence": "Tibetan 'བདག་གིས་མཉམ་པར་གཞག་པར་བྱ' with 'སེམས་བླན་ཏེ' (withdrawing the mind) and Skt 'cittam ... svālambana-nirantaram': the mind is the object placed in equipoise. The Hindi verb 'समाहित करूँगा' has no object and is ungrammatical/unclear.",
+     "fix": "चित्त को समाहित करूँगा"
+    }
+   ]
+  },
+  {
+   "id": "8-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-4",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

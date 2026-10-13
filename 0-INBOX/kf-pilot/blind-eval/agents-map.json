@@ -1,0 +1,14 @@
+{
+ "session_dir": "/Users/tashitsering/.claude/projects/-Users-tashitsering-Desktop-work-Obsidian-KF-project/9c21a05b-5fa1-4975-8bee-f6f235fc6f76",
+ "step": "blind-eval",
+ "text": "bodhicaryavatara",
+ "model": "sonnet",
+ "agents": {
+  "en-01": "a093d1ce78a4e187d",
+  "en-02": "a9e85180e122754d2",
+  "zh-01": "ab5d74fbb9c81567f",
+  "zh-02": "a52e2f01adea4bb95",
+  "hi-01": "ae2d12307f283eccc",
+  "hi-02": "a5b0ad4ac063beb04"
+ }
+}

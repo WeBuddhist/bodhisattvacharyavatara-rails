@@ -1,0 +1,269 @@
+{
+ "batch": "batch-18",
+ "segments": [
+  {
+   "id": "8-171",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-172",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "我就不該只愛我自己",
+     "evidence": "Academic: \"I should not cherish myself\" (no \"only\"); the children's text adds \"only\", softening the teaching.",
+     "fix": "如果我想要快樂，我就不該偏愛自己。如果我想要保護自己，我就應該一直去保護別人。"
+    }
+   ]
+  },
+  {
+   "id": "8-173",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-174",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "想要的東西就會越來越多",
+     "evidence": "Academic/Tibetan: even fallen into this state, its desires cannot be satisfied even by the whole earth; nothing about its wants growing more and more.",
+     "fix": "身體變得這麼嬌弱以後，如果連整片大地都無法滿足它想要的，還有誰能滿足它呢？"
+    }
+   ]
+  },
+  {
+   "id": "8-175",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "快樂的心情也會跟著減少",
+     "evidence": "Academic: 意樂的衰退 (decline of one's aspiration/good intention), not decline of happy feelings.",
+     "fix": "想要卻得不到，就會產生心裡的煩惱，美好的心願也會跟著變弱。"
+    }
+   ]
+  },
+  {
+   "id": "8-176",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-177",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-178",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-179",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-180",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-181",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-182",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-183",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-184",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-185",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "是聖者為了教導智慧才說的",
+     "evidence": "Academic: the Muni taught all these limbs for the sake of wisdom (as means to it), not to teach wisdom.",
+     "fix": "前面教的這一切分支，聖者都是為了讓人得到智慧才說的。"
+    }
+   ]
+  },
+  {
+   "id": "9-2",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "思考的心，只能懂日常的真理",
+     "evidence": "Academic: the mind is said to be conventional truth (belongs to it), not that it can only understand it.",
+     "fix": "最深的真理，不是思考的心能碰到的；思考的心，屬於日常的真理。"
+    }
+   ]
+  },
+  {
+   "id": "9-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-10",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "難道只因為它有不斷的延續",
+     "evidence": "Academic: \"merely because the continuum is long\" (相續長久); \"long\" is lost, as is \"as long as\" (在此期間) for the illusion arising.",
+     "fix": "只要各種條件聚集在一起，幻象就會產生。難道只因為它延續了很久，眾生就是真的存在嗎？"
+    }
+   ]
+  },
+  {
+   "id": "9-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-19",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "不像水晶需要靠其他東西來顯現",
+     "evidence": "Academic: blue is blue by itself, unlike crystal which depends on something else (to become blue); \"顯現\" loses the point.",
+     "fix": "就像藍色的東西本身就是藍色的，不像水晶要靠別的東西才會變成藍色。"
+    }
+   ]
+  },
+  {
+   "id": "9-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-22",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "姿態到底美不美",
+     "evidence": "Academic: simply the manner/grace of a barren woman's daughter; talking about it is pointless. \"Beautiful or not\" is added.",
+     "fix": "這就像在談論一個沒有孩子的女人的女兒的姿態一樣。"
+    }
+   ]
+  },
+  {
+   "id": "9-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-24",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

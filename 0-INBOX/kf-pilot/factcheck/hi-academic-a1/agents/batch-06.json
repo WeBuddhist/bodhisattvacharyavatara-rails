@@ -1,0 +1,113 @@
+{
+ "batch": "batch-06",
+ "segments": [
+  {
+   "id": "2-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-11",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "चूँकि एक साथ सब कुछ त्यागना ही है",
+     "evidence": "Tibetan ཐམས་ཅད་གཏོང་བར་ཆབས་གཅིག་ལ། means 'since giving up everything is the same (in any case)'; bo-gyaltsab glosses ཆབས་ཅིག་པ as གཏོང་བར་འདྲ་བ ('alike/the same in having to give up'). 'एक साथ' (simultaneously) shifts the sense toward timing rather than 'in either case'; english_academic has 'all the same'.",
+     "fix": "चूँकि सब कुछ तो त्यागना ही है (किसी भी स्थिति में समान रूप से),"
+    }
+   ]
+  },
+  {
+   "id": "3-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-14",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

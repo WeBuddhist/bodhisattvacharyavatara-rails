@@ -1,0 +1,121 @@
+{
+ "batch": "batch-45",
+ "segments": [
+  {
+   "id": "10-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-20",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "शोक-सन्तप्त लोग",
+     "evidence": "Tibetan མྱ་ངན་ཉམ་ཐག་ has two terms, sorrow (མྱ་ངན) and wretched/helpless (ཉམ་ཐག); bo-kunpal 10-20 glosses སེམས་མྱ་ངན་གྱིས་གདུངས་ཤིང་ཉམ་ཐག་པ (tormented by sorrow and wretched). The Hindi renders only the sorrow.",
+     "fix": "शोक से पीड़ित और दीन-हीन लोग"
+    }
+   ]
+  },
+  {
+   "id": "10-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-34",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "जो बुद्धों और बुद्धपुत्रों द्वारा,\nमधुर धर्म घोषित करने से भरे हों",
+     "evidence": "Tibetan ཆོས་སྙན་སྒྲོགས་པས་གང་བ་ཡིས། ཕྱོགས་རྣམས་ཐམས་ཅད་གང་བར་ཤོག: the directions are filled by the Buddhas and their sons proclaiming sweet Dharma; bo-kunpal 10-34 and bo-shenga 10-34 place the Buddhas and sons in the groves and have the proclamation fill all directions. The relative clause 'जो ... भरे हों' makes the groves the thing filled, leaving the structure unclear.",
+     "fix": "कल्पवृक्षों के उपवनों में स्थित बुद्धों और बुद्धपुत्रों द्वारा मधुर धर्म-घोषणा से सम्पूर्ण दिशाएँ परिपूर्ण हो जाएँ।"
+    }
+   ]
+  },
+  {
+   "id": "10-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-36",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

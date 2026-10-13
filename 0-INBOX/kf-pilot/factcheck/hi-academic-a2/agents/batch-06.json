@@ -1,0 +1,99 @@
+{
+ "batch": "batch-06",
+ "segments": [
+  {
+   "id": "9-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-164",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-20",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "इसी प्रकार कुछ अन्य पर,\nआश्रित और अनाश्रित भी देखे जाते हैं।",
+     "evidence": "Lines 1-2 (དེ་བཞིན་འགའ་ཞིག་གཞན་ལ་ནི། ལྟོས་དང་ལྟོས་མེད་པ་ཡང་མཐོང་) are the opponent's objection (Sanskrit tathā kiṃcit parāpekṣam anapekṣaṃ ca dṛśyate; bo-gyaltsab 9-20 introduces it with '...ཤེས་པ་ནི་རང་གིས་རང་རིག་པ་ཡིན་པས་... ཞེ་ན'; bo-shenga 9-20 '...ཡང་གསལ་བའི་བདག་ཉིད་དུ་མཐོང་ངོ་ཞེ་ན'), and the reply begins at lines 3-4. The Hindi has no quotation marks or other marker, so the reader may take all four lines as the author's own statement (the approved English quotes lines 1-2).",
+     "fix": "\"इसी प्रकार कुछ अन्य पर\nआश्रित और अनाश्रित भी देखे जाते हैं।\""
+    }
+   ]
+  },
+  {
+   "id": "9-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-46",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "सम्मोह के समान क्यों नहीं होगी?",
+     "evidence": "The Tibetan 'ཀུན་རྨོངས་བཞིན་དུ་ཅི་སྟེ་མེད' asks why the craving does not EXIST, just as non-afflicted delusion exists (bo-kunpal 9-46: 'ཅི་སྟེ་མེད་དེ་ཡོད་དོ'; Sanskrit 'नास्ति संमोहवत् सती'). Hindi 'सम्मोह के समान क्यों नहीं होगी' with the bare copula can be read as 'why will it not be similar to delusion', shifting the question from existence to similarity.",
+     "fix": "सम्मोह के समान क्यों विद्यमान नहीं होगी?"
+    }
+   ]
+  },
+  {
+   "id": "9-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-92",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "ध्यान ही योगी का आहार है",
+     "evidence": "Tibetan 'བསམ་གཏན་རྣལ་འབྱོར་པ་ཡི་ཟས' simply says the dhyāna is the yogi's food; there is no exclusive particle (Sanskrit 'हि' is explanatory 'for', not 'only'; bo-kunpal 9-92 'རྣལ་འབྱོར་པ་རྣམས་ཀྱིས་ལོངས་སྤྱོད་པའི་ཟས་ཡིན'). 'ही' makes it the sole food.",
+     "fix": "ध्यान योगी का आहार है"
+    }
+   ]
+  }
+ ]
+}

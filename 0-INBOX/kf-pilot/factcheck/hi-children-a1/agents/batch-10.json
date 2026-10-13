@@ -1,0 +1,253 @@
+{
+ "batch": "batch-10",
+ "segments": [
+  {
+   "id": "6-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-68",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "जिनकी वजह से दूसरे मुझे नुकसान पहुँचा रहे हैं, मैंने पहले ऐसे किए हुए काम ही क्यों किए?",
+     "evidence": "Sentence is tangled: 'जिनकी' refers to the deeds that only appear later in the sentence; 'इस पर' is also vague. Academic: 'the deed by which others harm me - why did I do it earlier?'",
+     "fix": "दूसरे जो मुझे नुकसान पहुँचा रहे हैं, उसका कारण मेरा ही किया हुआ काम है। मैंने ऐसा काम पहले क्यों किया? अगर सब कुछ किए हुए काम पर टिका है, तो मैं इस इंसान पर गुस्सा क्यों करूँ?"
+    }
+   ]
+  },
+  {
+   "id": "6-69",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "मुझे अपनी जमा हुई भलाई बढ़ाने के लिए मेहनत करनी चाहिए।",
+     "evidence": "Academic/Tibetan: I should strive in merits so that all become loving toward one another (merit-making is the means to that outcome). The children's text splits the two and states a different purpose ('increase my own merit').",
+     "fix": "इसलिए मुझे जमा हुई भलाई बनाने में मेहनत करनी चाहिए, ताकि सब एक-दूसरे के लिए प्यार भरा मन रखने लगें।"
+    }
+   ]
+  },
+  {
+   "id": "6-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-81",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-82",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "वे अपने गुज़ारे के लिए ख़ुद कमा लें",
+     "evidence": "Academic: if those relatives (संबंधी) obtain a livelihood (प्राप्त कर लें). The children's text drops 'relatives' and changes 'obtain' to 'earn on their own'.",
+     "fix": "अगर तुम्हारे वे रिश्तेदार अपना गुज़ारा चला पाने का साधन पा लें, तो क्या तुम खुश होने के बजाय उल्टा गुस्सा करोगे?"
+    }
+   ]
+  },
+  {
+   "id": "6-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-84",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-85",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "तुम्हें जो मिलना चाहिए उसे तुम नहीं ले रहे।",
+     "evidence": "Academic: 'not grasping what has been obtained' (प्राप्त होने वाले को न ग्रहण करते हुए); the children's text turns it into what one 'should get' (deserved).",
+     "fix": "जो तुम्हें मिल चुका है, उसे भी तुम नहीं अपना रहे।"
+    }
+   ]
+  },
+  {
+   "id": "6-86",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "(दूसरा बम्पो।)",
+     "evidence": "Colophon 'द्वितीय बम्पो' (second bampo section marker); 'बम्पो' is an unexplained technical word for ages 8-12.",
+     "fix": "(यह दूसरा भाग पूरा हुआ।)"
+    }
+   ]
+  },
+  {
+   "id": "6-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-90",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-91",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-101",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "जब मैं दुख में गिरने वाला होता हूँ",
+     "evidence": "Academic/Tibetan: 'when I want to enter into suffering' (दुःख में प्रविष्ट होना चाहता हूँ); the wish/desire is lost and replaced by 'about to fall'.",
+     "fix": "जब मैं दुख में जाना चाहता हूँ, तो वे बुद्ध के आशीर्वाद की तरह मुझे भीतर न जाने देने वाला दरवाज़ा बन जाते हैं। मैं उन पर कैसे गुस्सा करूँ?"
+    }
+   ]
+  }
+ ]
+}

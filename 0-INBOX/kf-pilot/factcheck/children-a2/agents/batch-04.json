@@ -1,0 +1,170 @@
+{
+ "batch": "batch-04",
+ "segments": [
+  {
+   "id": "7-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-48",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "If I get used to giving up",
+     "evidence": "Academic: 'Habituated to that in another life' - 'that' is not named as giving up in this segment; the children's text supplies a specific referent and shifts the statement into a conditional.",
+     "fix": "If I get used to that in another life too, my harmful deeds and suffering will grow."
+    }
+   ]
+  },
+  {
+   "id": "7-49",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "my power over troubling emotions",
+     "evidence": "Academic: 'Karma, afflictions, and capacity: one should cultivate pride in these three.' The segment names afflictions, not power over them.",
+     "fix": "I should build my pride in three things: action, troubling emotions, and my ability."
+    }
+   ]
+  },
+  {
+   "id": "7-64",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "Its ripening is happiness and peace.",
+     "evidence": "Academic: merit 'whose ripening is happiness and which is peaceful' - peace describes the store of goodness itself, not its ripening; the rhetorical point (never satiated by goodness) is also blurred by 'how could I ever get enough'.",
+     "fix": "If we never get enough of desires for pleasure, which are like honey on a razor's edge, how could we ever get enough of a store of goodness, which ripens into happiness and is peaceful?"
+    }
+   ]
+  },
+  {
+   "id": "7-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-13",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "bad deeds will definitely happen. That childish person brings about praising oneself and putting others down.",
+     "evidence": "Academic: self-praise, disparaging others and talk delighting in samsara are the examples of non-virtue that will certainly arise in every way; children's text makes them separate things and drops 'in every way'.",
+     "fix": "If I spend time with a childish person, bad deeds will surely come in every way: praising myself, putting others down, and talking about enjoying the cycle of rebirth."
+    }
+   ]
+  },
+  {
+   "id": "8-14",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "major",
+     "span": "—",
+     "evidence": "Academic: 'when oneself and another rely on each other, by that one will merely come to ruin' - the point that relying on each other leads to ruin is dropped; only the reason clause remains.",
+     "fix": "If we depend on each other like this, we will only come to ruin, because they will not do me any good and I will not do them any good either."
+    }
+   ]
+  },
+  {
+   "id": "8-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-102",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

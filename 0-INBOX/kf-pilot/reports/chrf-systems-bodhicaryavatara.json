@@ -1,0 +1,22 @@
+{
+ "DharmaMitra zero-shot": {
+  "Padmakara 2006": 36.02,
+  "Wallace": 43.19,
+  "Choephel": 42.35
+ },
+ "Gemini zero-shot": {
+  "Padmakara 2006": 34.16,
+  "Wallace": 41.86,
+  "Choephel": 41.97
+ },
+ "Old Rails scholar": {
+  "Padmakara 2006": 31.43,
+  "Wallace": 35.25,
+  "Choephel": 34.72
+ },
+ "Academic final": {
+  "Padmakara 2006": 34.21,
+  "Wallace": 41.92,
+  "Choephel": 42.13
+ }
+}

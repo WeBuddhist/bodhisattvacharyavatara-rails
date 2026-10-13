@@ -1,0 +1,261 @@
+{
+ "batch": "batch-12",
+ "segments": [
+  {
+   "id": "7-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-8",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "I will think, \"I haven't finished this. I just started that. This is only half done.\" Then the Lord of Death will suddenly arrive.",
+     "evidence": "The unfinished state is what he is still in when the Lord of Death suddenly arrives; only then does he think \"Alas, I am destroyed!\" The children's text puts a first thought before death arrives and then a second thought after.",
+     "fix": "When the Lord of Death suddenly arrives, I will find that \"This is not done. That is just begun. This is only half done.\" Then I will think, \"Oh no, I am ruined!\""
+    }
+   ]
+  },
+  {
+   "id": "7-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-11",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "like a live fish out of water",
+     "evidence": "Only \"like a live fish writhing about\"; \"out of water\" is not stated.",
+     "fix": "you flip around in fear like a live fish"
+    }
+   ]
+  },
+  {
+   "id": "7-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "mosquitoes",
+     "evidence": "The Tibetan/academic text names gadflies, not mosquitoes.",
+     "fix": "Think of flies, gadflies, bees, and worms."
+    }
+   ]
+  },
+  {
+   "id": "7-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-20",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "what is truly hard and what is easy",
+     "evidence": "The text says \"what is heavy and what is light\", i.e. weighing the greater against the lesser matter, not what is hard versus easy.",
+     "fix": "I am not weighing what matters more and what matters less."
+    }
+   ]
+  },
+  {
+   "id": "7-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-29",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "wipes out every past harmful deed",
+     "evidence": "The text says it exhausts previous misdeeds; it does not say \"every\".",
+     "fix": "The power of the awakening mind uses up past harmful deeds."
+    }
+   ]
+  },
+  {
+   "id": "7-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-35",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "I must practice each and every good quality for an ocean of great ages.",
+     "evidence": "The sentence is a conditional (\"if for each good quality I must familiarize myself for an ocean of eons...\"), not a flat statement.",
+     "fix": "If I must practice each and every good quality for an ocean of great ages,"
+    }
+   ]
+  },
+  {
+   "id": "7-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-39",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "I have ended up so poor",
+     "evidence": "\"Destitution\" here means lack or misfortune; \"poor\" may be read as lacking money.",
+     "fix": "I have ended up in such a sad, empty state."
+    }
+   ]
+  },
+  {
+   "id": "7-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-46",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

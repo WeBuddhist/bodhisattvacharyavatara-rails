@@ -1,0 +1,121 @@
+{
+ "batch": "batch-31",
+ "segments": [
+  {
+   "id": "8-91",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-101",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-102",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "If not, I too am like sentient beings.",
+     "evidence": "Tibetan དེ་མིན་བདག་ཀྱང་སེམས་ཅན་བཞིན། is explained in bo-kunpal 8-102 and bo-shenga 8-102 as: if others' suffering is not to be averted, then my own suffering too, like that of other sentient beings, is not to be averted. The English leaves the point of comparison (non-aversion of suffering) unstated and reads as an unclear statement about the speaker's identity.",
+     "fix": "If not, then I too am like other sentient beings (my own suffering is not to be averted either)."
+    }
+   ]
+  },
+  {
+   "id": "8-103",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-104",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-105",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-107",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-109",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "the slightest unpleasantness",
+     "evidence": "Tibetan མི་སྙན་ (Skt. avarṇa) is glossed in bo-kunpal 8-109 as མི་སྙན་པའི་ཚིག་ཙམ and in bo-shenga 8-109 as མི་སྙན་པ་བརྗོད་པ, i.e. an unpleasant or disparaging word, not unpleasantness in general.",
+     "fix": "even the slightest unpleasant word"
+    }
+   ]
+  },
+  {
+   "id": "8-110",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,236 @@
+{
+ "batch": "batch-15",
+ "segments": [
+  {
+   "id": "8-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-70",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "नरक जैसी तकलीफ़ें",
+     "evidence": "The source says suffering of hell 'and so on' (hell and other lower states), not suffering merely 'like' hell; the simile weakens the claim.",
+     "fix": "और आगे चलकर नरक और दूसरी बुरी जगहों की तकलीफ़ें भी झेलनी पड़ती हैं।"
+    }
+   ]
+  },
+  {
+   "id": "8-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-80",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "इस कीमती फ़ुरसत और सौभाग्य वाले जीवन",
+     "evidence": "The source stresses that this life of leisure and fortune is rare and hard to find (दुर्लभ); 'कीमती' (precious) loses the rarity.",
+     "fix": "इस मुश्किल से मिलने वाले फ़ुरसत और सौभाग्य वाले जीवन को बर्बाद कर देते हैं।"
+    }
+   ]
+  },
+  {
+   "id": "8-81",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-84",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-88",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "सोच में उलझे रहना एकदम शान्त कर देना चाहिए",
+     "evidence": "Source: calming conceptual thought completely; the children's sentence is ungrammatical (object missing 'को').",
+     "fix": "सोच में उलझे रहने को पूरी तरह शान्त करना चाहिए।"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "इसके बाद, हमें जागृति का मन जगाना चाहिए",
+     "evidence": "Source says to meditate on / cultivate the awakening mind while calming conceptual thought; 'इसके बाद ... जगाना' makes it a later step and shifts meditating into generating.",
+     "fix": "और साथ ही जागृति के मन का अभ्यास करना चाहिए।"
+    }
+   ]
+  },
+  {
+   "id": "8-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-90",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

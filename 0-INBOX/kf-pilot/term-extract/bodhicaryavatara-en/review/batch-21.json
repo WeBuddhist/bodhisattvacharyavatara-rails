@@ -1,0 +1,581 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "9-0",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-1",
+    "drop": [
+     {
+      "n": 4,
+      "reason": "Used as an ordinary verb here (pacifying)."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-2",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-3",
+    "drop": [
+     {
+      "n": 3,
+      "reason": "Ordinary adjective/noun."
+     },
+     {
+      "n": 4,
+      "reason": "Not a fixed technical term."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-4",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བློ",
+      "reason": "Buddhist epistemological term.",
+      "dm": "intellect",
+      "gm": "intellect"
+     }
+    ]
+   },
+   {
+    "id": "9-5",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-6",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-7",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-8",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-9",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Just a simile/adjective, not a glossary term itself."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-10",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-11",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སྒྱུ་མ",
+      "reason": "Core Buddhist concept, part of compounds here.",
+      "dm": "illusory",
+      "gm": "illusory"
+     }
+    ]
+   },
+   {
+    "id": "9-12",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-13",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Not a fixed term, just condition + single."
+     },
+     {
+      "n": 2,
+      "reason": "Ordinary noun/verb in this context."
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "རྐྱེན",
+      "reason": "Core Buddhist term.",
+      "dm": "condition",
+      "gm": "condition"
+     }
+    ]
+   },
+   {
+    "id": "9-14",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "Used as an ordinary verb here (would cycle)."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-15",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-16",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "Core Buddhist term, part of sems nyid.",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "9-17",
+    "drop": [
+     {
+      "n": 3,
+      "reason": "Includes Tibetan particles 'gyi ni'."
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འཇིག་རྟེན",
+      "reason": "Buddhist term.",
+      "dm": "World",
+      "gm": "World"
+     }
+    ]
+   },
+   {
+    "id": "9-18",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-19",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-20",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-21",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-22",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "Just a negation of luminous."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-23",
+    "drop": [
+     {
+      "n": 4,
+      "reason": "Not a fixed term, just a descriptive phrase."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-24",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Just conditions + other."
+     },
+     {
+      "n": 2,
+      "reason": "Not a fixed term."
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "རྐྱེན",
+      "reason": "Buddhist term.",
+      "dm": "conditions",
+      "gm": "conditions"
+     },
+     {
+      "bo": "མིག་སྨན",
+      "reason": "Standard epistemological metaphor.",
+      "dm": "eye-salve",
+      "gm": "eye-ointment"
+     }
+    ]
+   },
+   {
+    "id": "9-25",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "List of ordinary verbs."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-26",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-27",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-28",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "དངོས",
+      "reason": "Core ontological term.",
+      "dm": "entity",
+      "gm": "entity"
+     }
+    ]
+   },
+   {
+    "id": "9-29",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-30",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-31",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-32",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-33",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Not a fixed term."
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "དངོས་པོ",
+      "reason": "Buddhist ontological term.",
+      "dm": "substantial thing",
+      "gm": "entity"
+     }
+    ]
+   },
+   {
+    "id": "9-34",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Conjunction of two terms."
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "དངོས",
+      "reason": "Buddhist ontological term.",
+      "dm": "entities",
+      "gm": "entities"
+     }
+    ]
+   },
+   {
+    "id": "9-35",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-36",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-37",
+    "drop": [
+     {
+      "n": 5,
+      "reason": "Span is interrupted by a line break / shad."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-38",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "Core Buddhist term.",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "9-39",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-40",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-41",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-42",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "9-1",
+    "bo": "ཞི་བ",
+    "reason": "Used as an ordinary verb here (pacifying)."
+   },
+   {
+    "id": "9-3",
+    "bo": "ཕལ་པ",
+    "reason": "Ordinary adjective/noun."
+   },
+   {
+    "id": "9-3",
+    "bo": "འཇིག་རྟེན་ཕལ་པ",
+    "reason": "Not a fixed technical term."
+   },
+   {
+    "id": "9-9",
+    "bo": "སྒྱུ་འདྲ",
+    "reason": "Just a simile/adjective, not a glossary term itself."
+   },
+   {
+    "id": "9-13",
+    "bo": "རྐྱེན་གཅིག",
+    "reason": "Not a fixed term, just condition + single."
+   },
+   {
+    "id": "9-13",
+    "bo": "ནུས་པ",
+    "reason": "Ordinary noun/verb in this context."
+   },
+   {
+    "id": "9-14",
+    "bo": "འཁོར",
+    "reason": "Used as an ordinary verb here (would cycle)."
+   },
+   {
+    "id": "9-17",
+    "bo": "འཇིག་རྟེན་གྱི་ནི་མགོན་པོ",
+    "reason": "Includes Tibetan particles 'gyi ni'."
+   },
+   {
+    "id": "9-22",
+    "bo": "མི་གསལ་བ",
+    "reason": "Just a negation of luminous."
+   },
+   {
+    "id": "9-23",
+    "bo": "གཞན་མྱོང་བ",
+    "reason": "Not a fixed term, just a descriptive phrase."
+   },
+   {
+    "id": "9-24",
+    "bo": "རྐྱེན་གཞན",
+    "reason": "Just conditions + other."
+   },
+   {
+    "id": "9-24",
+    "bo": "རང་ཉིད་རབ་གསལ",
+    "reason": "Not a fixed term."
+   },
+   {
+    "id": "9-25",
+    "bo": "མཐོང་ཐོས་ཤེས་པ",
+    "reason": "List of ordinary verbs."
+   },
+   {
+    "id": "9-33",
+    "bo": "བརྟག་བྱའི་དངོས་པོ",
+    "reason": "Not a fixed term."
+   },
+   {
+    "id": "9-34",
+    "bo": "དངོས་དང་དངོས་མེད",
+    "reason": "Conjunction of two terms."
+   },
+   {
+    "id": "9-37",
+    "bo": "མྱ་ངན་ལས། ། འདས",
+    "reason": "Span is interrupted by a line break / shad."
+   }
+  ],
+  "fix_span": [],
+  "add": [
+   {
+    "id": "9-4",
+    "bo": "བློ",
+    "dm": "intellect",
+    "gm": "intellect",
+    "reason": "Buddhist epistemological term."
+   },
+   {
+    "id": "9-11",
+    "bo": "སྒྱུ་མ",
+    "dm": "illusory",
+    "gm": "illusory",
+    "reason": "Core Buddhist concept, part of compounds here."
+   },
+   {
+    "id": "9-13",
+    "bo": "རྐྱེན",
+    "dm": "condition",
+    "gm": "condition",
+    "reason": "Core Buddhist term."
+   },
+   {
+    "id": "9-16",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "Core Buddhist term, part of sems nyid."
+   },
+   {
+    "id": "9-17",
+    "bo": "འཇིག་རྟེན",
+    "dm": "World",
+    "gm": "World",
+    "reason": "Buddhist term."
+   },
+   {
+    "id": "9-24",
+    "bo": "རྐྱེན",
+    "dm": "conditions",
+    "gm": "conditions",
+    "reason": "Buddhist term."
+   },
+   {
+    "id": "9-24",
+    "bo": "མིག་སྨན",
+    "dm": "eye-salve",
+    "gm": "eye-ointment",
+    "reason": "Standard epistemological metaphor."
+   },
+   {
+    "id": "9-28",
+    "bo": "དངོས",
+    "dm": "entity",
+    "gm": "entity",
+    "reason": "Core ontological term."
+   },
+   {
+    "id": "9-33",
+    "bo": "དངོས་པོ",
+    "dm": "substantial thing",
+    "gm": "entity",
+    "reason": "Buddhist ontological term."
+   },
+   {
+    "id": "9-34",
+    "bo": "དངོས",
+    "dm": "entities",
+    "gm": "entities",
+    "reason": "Buddhist ontological term."
+   },
+   {
+    "id": "9-38",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "Core Buddhist term."
+   }
+  ]
+ }
+}

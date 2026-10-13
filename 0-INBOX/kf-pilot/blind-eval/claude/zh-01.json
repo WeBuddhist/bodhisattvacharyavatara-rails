@@ -1,0 +1,338 @@
+{
+ "segments": [
+  {
+   "id": "1-11",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "欲脫離眾生之處者",
+      "explanation": "'gati' realms of rebirth rendered as 'beings' place', blurring the concept"
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "Omits 'sole' (gcig pu), 'immeasurable' (tshad med) and 'firmly' (brtan par) from the Tibetan"
+     },
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "覺心",
+      "explanation": "Bodhicitta rendered as nonstandard '覺心' rather than 菩提心"
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "三界",
+      "explanation": "Realms of rebirth (gnas) narrowed to the three realms; commentaries speak of the five/all samsaric destinies"
+     }
+    ]
+   }
+  },
+  {
+   "id": "1-27",
+   "candidates": {
+    "A": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "精勤得樂何須言",
+      "explanation": "Unclear whose happiness is sought; reads as striving to attain happiness, not for beings' welfare"
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits 'without exception' (ma lus thams cad); 'all beings' only partially conveyed"
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "2-22",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "善逝",
+      "explanation": "De bzhin gshegs pa is Tathagata, not Sugata (善逝)"
+     },
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "供養諸位勝者般",
+      "explanation": "'般' ending is awkward and breaks the comparison's syntax"
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "昔日",
+      "explanation": "'Formerly' is not in the Tibetan"
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits 'etc.' after Manjushri (la sogs pa)"
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits 'protector' (mgon po)"
+     }
+    ]
+   }
+  },
+  {
+   "id": "2-53",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "今生大憂懼",
+      "explanation": "'Seeing' is lost; '今生' can read as 'this life' rather than 'now'"
+     },
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "願以歸命尊",
+      "explanation": "Unclear phrasing for 'I go for refuge to you'"
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "2-57",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "3-15",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "因見我",
+      "explanation": "Dmigs nas is focusing on/taking me as object, not merely 'seeing' me"
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-20",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "軌木孔",
+      "explanation": "Yoke (軛木) miswritten as 軌木 (rail wood); misrepresents the image"
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits that the yoke is tossed about on the ocean (gyengs)"
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-29",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "非當應訶責",
+      "explanation": "Compressed and unclear; 'wrong object of patience' sense of gnas min is not conveyed"
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "5-12",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "5-41",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "念念恆伺察",
+      "explanation": "'Moment by moment constantly' added; Tibetan says examine individually (so sor)"
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "5-47",
+   "candidates": {
+    "A": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "正知",
+      "explanation": "Rig pa/rigs pa here means proper, reasonable conduct, not 正知 (samprajanya, shes bzhin)"
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "5-85",
+   "candidates": {
+    "A": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "墮落無怙眾生",
+      "explanation": "Log par ltung (fallen to wrong births, animals) rendered ambiguously as morally 'fallen' beings"
+     }
+    ],
+    "B": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "墮者",
+      "explanation": "Log par ltung (fallen into bad rebirths) left ambiguous as '墮者'"
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "5-98",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "6-6",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "6-30",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "則作有何用",
+      "explanation": "Original asks what the action did to the self, not what use acting is"
+     },
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "我作何相干",
+      "explanation": "Unclear: 'its' action and the relation between self and action are not conveyed"
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "6-64",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits 'Buddhas etc.' (sogs); only the Buddha is named as unharmed"
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "6-87",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "6-98",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "一切之圓滿",
+      "explanation": "'All' is not in the Tibetan"
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "6-126",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits 'no doubt' (the tshom med)"
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "7-10",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  }
+ ]
+}

@@ -1,0 +1,137 @@
+{
+ "batch": "batch-46",
+ "segments": [
+  {
+   "id": "10-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-38",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "the teachers of wandering beings",
+     "evidence": "Tibetan 'འགྲོ་བའི་བླ་མ་མཆོད་པར་ཤོག' has no plural marker, Sanskrit 'jagadguru' is singular, and bo-gyaltsab 10-38 glosses it as the single 'འགྲོ་བའི་བླ་མ་སངས་རྒྱས'; the locked term 'teacher of wandering beings' is singular (the plural 'རྣམས' occurs only in the commentary's 'with retinue' gloss).",
+     "fix": "the teacher of wandering beings"
+    }
+   ]
+  },
+  {
+   "id": "10-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-42",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "May monasteries, with reading\nAnd adorned with recitation, be well established.",
+     "evidence": "Tibetan 'ཀློག་པ་དང་། ཁ་ཐོན་གྱིས་བརྒྱན་' pairs reading and recitation as joint adornments of the monasteries (Sanskrit 'pāṭhasvādhyāyakalilāḥ'; bo-gyaltsab 10-42 'ཀློག་པ་དང་ཁ་ཏོན་གྱིས་དར་ཞིང་རྒྱས་'). The English splits them awkwardly ('with reading' / 'adorned with recitation'), which is hard to parse.",
+     "fix": "May monasteries, adorned with reading and recitation, be well established."
+    }
+   ]
+  },
+  {
+   "id": "10-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-45",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Disillusioned by broken ethical discipline,\nMay they always exhaust their misdeeds.",
+     "evidence": "Tibetan 'ཚུལ་ཁྲིམས་འཆལ་བས་ཡིད་བྱུང་ནས' refers to those whose discipline has become corrupt who turn weary of it (bo-shenga 10-45 'སྔར་བསླབ་པ་ཉམས་པ་དག་ཚུལ་ཁྲིམས་འཆལ་བས་ཡིད་བྱུང་སྟེ'; Sanskrit 'duḥśīlāḥ santu saṃvignāḥ'). The English has no stated subject, so 'they' wrongly picks up the ordained of the previous stanza, and 'disillusioned by broken ethical discipline' could mean disenchanted with the breaking of it.",
+     "fix": "May those whose ethical discipline has been broken become weary of it, and always exhaust their misdeeds."
+    }
+   ]
+  },
+  {
+   "id": "10-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-54",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "As far as the limits of space in the ten directions,",
+     "evidence": "Tibetan 'ཕྱོགས་བཅུའི་ནམ་མཁའི་མཐས་གཏུགས་པའི། སེམས་ཅན་ཀུན' is an attributive phrase qualifying 'sentient beings' (Sanskrit 'daśadigvyomaparyanta-sarvasattvārtha'; bo-kunpal 10-54 'ནམ་མཁའི་མཐས་གཏུགས་པར་ཁྱབ་པའི་སེམས་ཅན་མ་ལུས་པ'). The English leaves the phrase as a dangling adverbial that can be read as modifying 'accomplish' or 'acts'.",
+     "fix": "In order to accomplish the welfare of all sentient beings, as far as the limits of space in the ten directions,"
+    }
+   ]
+  },
+  {
+   "id": "10-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-56",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

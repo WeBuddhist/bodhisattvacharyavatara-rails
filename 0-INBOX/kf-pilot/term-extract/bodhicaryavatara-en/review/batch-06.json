@@ -1,0 +1,295 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "4-25",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "Buddhist technical term (mind).",
+      "dm": "mind",
+      "gm": "mind"
+     },
+     {
+      "bo": "འགྱོད་པ",
+      "reason": "Buddhist technical term (remorse/regret, a mental factor).",
+      "dm": "remorse",
+      "gm": "regret"
+     }
+    ]
+   },
+   {
+    "id": "4-26",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "Not a standard technical term; just a descriptive phrase."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-27",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "Buddhist technical term (mind).",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "4-28",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-29",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "Buddhist technical term (mind).",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "4-30",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-31",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-32",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-33",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སྡུག་བསྔལ",
+      "reason": "Buddhist technical term (suffering).",
+      "dm": "suffering",
+      "gm": "suffering"
+     }
+    ]
+   },
+   {
+    "id": "4-34",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-35",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-36",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-37",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སྡུག་བསྔལ",
+      "reason": "Buddhist technical term (suffering/pain).",
+      "dm": "pain",
+      "gm": "suffering"
+     }
+    ]
+   },
+   {
+    "id": "4-38",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-39",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-40",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-41",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-42",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-43",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-44",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 1,
+      "bo_fixed": "ཉོན་མོངས"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "4-45",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-46",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-47",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཡུལ",
+      "reason": "Buddhist technical term (sense objects).",
+      "dm": "sense objects",
+      "gm": "objects"
+     }
+    ]
+   },
+   {
+    "id": "4-48",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "4-a",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བག་ཡོད",
+      "reason": "Buddhist technical term (conscientiousness/heedfulness).",
+      "dm": "heedfulness",
+      "gm": "conscientiousness"
+     }
+    ]
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "4-26",
+    "bo": "ཕན་པའི་ས",
+    "reason": "Not a standard technical term; just a descriptive phrase."
+   }
+  ],
+  "fix_span": [
+   {
+    "id": "4-44",
+    "bo": "ཉོན་མོངས་པ",
+    "bo_fixed": "ཉོན་མོངས"
+   }
+  ],
+  "add": [
+   {
+    "id": "4-25",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "Buddhist technical term (mind)."
+   },
+   {
+    "id": "4-25",
+    "bo": "འགྱོད་པ",
+    "dm": "remorse",
+    "gm": "regret",
+    "reason": "Buddhist technical term (remorse/regret, a mental factor)."
+   },
+   {
+    "id": "4-27",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "Buddhist technical term (mind)."
+   },
+   {
+    "id": "4-29",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "Buddhist technical term (mind)."
+   },
+   {
+    "id": "4-33",
+    "bo": "སྡུག་བསྔལ",
+    "dm": "suffering",
+    "gm": "suffering",
+    "reason": "Buddhist technical term (suffering)."
+   },
+   {
+    "id": "4-37",
+    "bo": "སྡུག་བསྔལ",
+    "dm": "pain",
+    "gm": "suffering",
+    "reason": "Buddhist technical term (suffering/pain)."
+   },
+   {
+    "id": "4-47",
+    "bo": "ཡུལ",
+    "dm": "sense objects",
+    "gm": "objects",
+    "reason": "Buddhist technical term (sense objects)."
+   },
+   {
+    "id": "4-a",
+    "bo": "བག་ཡོད",
+    "dm": "heedfulness",
+    "gm": "conscientiousness",
+    "reason": "Buddhist technical term (conscientiousness/heedfulness)."
+   }
+  ]
+ }
+}

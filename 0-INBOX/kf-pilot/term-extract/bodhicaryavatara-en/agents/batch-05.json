@@ -1,0 +1,406 @@
+{
+ "batch": "batch-05",
+ "segments": [
+  {
+   "id": "4-0",
+   "terms": [
+    {
+     "bo": "བག་ཡོད",
+     "dm": "Conscientiousness",
+     "gm": null
+    }
+   ]
+  },
+  {
+   "id": "4-1",
+   "terms": [
+    {
+     "bo": "རྒྱལ་བའི་སྲས",
+     "dm": "children of the Conquerors",
+     "gm": "son of the Conquerors"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས",
+     "dm": "Awakening Mind",
+     "gm": "awakening mind"
+    },
+    {
+     "bo": "བསླབ",
+     "dm": "trainings",
+     "gm": "trainings"
+    }
+   ]
+  },
+  {
+   "id": "4-2",
+   "terms": []
+  },
+  {
+   "id": "4-3",
+   "terms": [
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "Buddhas"
+    },
+    {
+     "bo": "དེ་ཡི་སྲས",
+     "dm": "their heirs",
+     "gm": "their sons"
+    },
+    {
+     "bo": "ཤེས་རབ་ཆེན་པོ",
+     "dm": "great wisdom",
+     "gm": "great wisdom"
+    }
+   ]
+  },
+  {
+   "id": "4-4",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "destiny",
+     "gm": "destiny"
+    }
+   ]
+  },
+  {
+   "id": "4-5",
+   "terms": [
+    {
+     "bo": "ཡི་དྭགས",
+     "dm": "hungry ghost",
+     "gm": "hungry ghost"
+    }
+   ]
+  },
+  {
+   "id": "4-6",
+   "terms": [
+    {
+     "bo": "བླ་ན་མེད་པའི་བདེ་བ",
+     "dm": "unsurpassed bliss",
+     "gm": "unsurpassable happiness"
+    },
+    {
+     "bo": "འགྲོ་བ་ཐམས་ཅད",
+     "dm": "all beings",
+     "gm": "all wandering beings"
+    },
+    {
+     "bo": "བདེ་འགྲོ",
+     "dm": "happy realm",
+     "gm": "higher realms"
+    }
+   ]
+  },
+  {
+   "id": "4-7",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས",
+     "dm": "bodhicitta",
+     "gm": "awakening mind"
+    },
+    {
+     "bo": "ཐར་བ",
+     "dm": "liberated",
+     "gm": "liberated"
+    },
+    {
+     "bo": "ལས་ཚུལ",
+     "dm": "karmic process",
+     "gm": "karma"
+    },
+    {
+     "bo": "ཐམས་ཅད་མཁྱེན་པ",
+     "dm": "Omniscient One",
+     "gm": "Omniscient One"
+    }
+   ]
+  },
+  {
+   "id": "4-8",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattva",
+     "gm": "bodhisattva"
+    },
+    {
+     "bo": "ལྟུང་བ",
+     "dm": "downfalls",
+     "gm": "downfalls"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "4-9",
+   "terms": [
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "ངན་འགྲོ",
+     "dm": "lower realms",
+     "gm": "lower rebirths"
+    }
+   ]
+  },
+  {
+   "id": "4-10",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient being",
+     "gm": "sentient being"
+    },
+    {
+     "bo": "ལུས་ཅན",
+     "dm": "embodied beings",
+     "gm": "embodied beings"
+    }
+   ]
+  },
+  {
+   "id": "4-11",
+   "terms": [
+    {
+     "bo": "ལྟུང་བ",
+     "dm": "downfalls",
+     "gm": "downfalls"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས",
+     "dm": "bodhicitta",
+     "gm": "awakening mind"
+    },
+    {
+     "bo": "འཁོར་བ",
+     "dm": "cyclic existence",
+     "gm": "saṃsāra"
+    },
+    {
+     "bo": "ས་ཐོབ་པ",
+     "dm": "bodhisattva grounds",
+     "gm": "grounds"
+    }
+   ]
+  },
+  {
+   "id": "4-12",
+   "terms": []
+  },
+  {
+   "id": "4-13",
+   "terms": [
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "Buddhas"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "4-14",
+   "terms": [
+    {
+     "bo": "ངན་འགྲོ",
+     "dm": "lower realms",
+     "gm": "lower realms"
+    }
+   ]
+  },
+  {
+   "id": "4-15",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgatas"
+    },
+    {
+     "bo": "དད",
+     "dm": "faith",
+     "gm": "Faith"
+    },
+    {
+     "bo": "མི་ལུས",
+     "dm": "human body",
+     "gm": "human body"
+    },
+    {
+     "bo": "དགེ",
+     "dm": "virtue",
+     "gm": "virtue"
+    }
+   ]
+  },
+  {
+   "id": "4-16",
+   "terms": []
+  },
+  {
+   "id": "4-17",
+   "terms": [
+    {
+     "bo": "མི་ལུས",
+     "dm": "human body",
+     "gm": "human body"
+    },
+    {
+     "bo": "སྡིག་པ",
+     "dm": "sin",
+     "gm": "sin"
+    },
+    {
+     "bo": "དགེ་བ",
+     "dm": "virtue",
+     "gm": "virtue"
+    }
+   ]
+  },
+  {
+   "id": "4-18",
+   "terms": [
+    {
+     "bo": "དགེ་བ",
+     "dm": "virtue",
+     "gm": "virtue"
+    },
+    {
+     "bo": "ངན་སོང་",
+     "dm": "lower realms",
+     "gm": "lower realms"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "sufferings",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "4-19",
+   "terms": [
+    {
+     "bo": "དགེ་བ",
+     "dm": "virtuous deeds",
+     "gm": "virtues"
+    },
+    {
+     "bo": "སྡིག་པ",
+     "dm": "sins",
+     "gm": "sins"
+    },
+    {
+     "bo": "བསྐལ་པ",
+     "dm": "eons",
+     "gm": "eons"
+    },
+    {
+     "bo": "བདེ་འགྲོ",
+     "dm": "happy rebirth",
+     "gm": "happy realms"
+    }
+   ]
+  },
+  {
+   "id": "4-20",
+   "terms": [
+    {
+     "bo": "བཅོམ་ལྡན",
+     "dm": "Blessed One",
+     "gm": "Bhagavan"
+    }
+   ]
+  },
+  {
+   "id": "4-21",
+   "terms": [
+    {
+     "bo": "སྡིག་པ",
+     "dm": "sin",
+     "gm": "sin"
+    },
+    {
+     "bo": "བསྐལ་པ",
+     "dm": "eon",
+     "gm": "eon"
+    },
+    {
+     "bo": "མནར་མེད",
+     "dm": "Avīci hell",
+     "gm": "Avīci"
+    },
+    {
+     "bo": "ཐོག་མེད་འཁོར་བ",
+     "dm": "beginningless saṃsāra",
+     "gm": "beginningless saṃsāra"
+    },
+    {
+     "bo": "བདེ་འགྲོ",
+     "dm": "happy rebirth",
+     "gm": "happy realms"
+    }
+   ]
+  },
+  {
+   "id": "4-22",
+   "terms": [
+    {
+     "bo": "རྣམ་ཐར",
+     "dm": "liberated",
+     "gm": "liberated"
+    },
+    {
+     "bo": "སྡིག་པ",
+     "dm": "sins",
+     "gm": "sins"
+    }
+   ]
+  },
+  {
+   "id": "4-23",
+   "terms": [
+    {
+     "bo": "དལ་བ",
+     "dm": "leisure",
+     "gm": "leisure"
+    },
+    {
+     "bo": "དགེ",
+     "dm": "virtue",
+     "gm": "virtue"
+    }
+   ]
+  },
+  {
+   "id": "4-24",
+   "terms": []
+  }
+ ]
+}

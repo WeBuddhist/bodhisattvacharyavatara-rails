@@ -1,0 +1,198 @@
+{
+ "segments": [
+  {
+   "id": "7-48",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "7-66",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "अगले, और अगले की",
+      "explanation": "Missing the postposition 'की' after the first 'अगले', which makes the syntax slightly awkward."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-2",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "8-42",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "जिनमें स्वतन्त्रता",
+      "explanation": "The source means the bones 'are not independent', not that 'they do not contain freedom'."
+     },
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "आत्मन् नहीं हैं",
+      "explanation": "In this context, 'bdag' means 'mine' or 'one's own' (as contrasted with being autonomous), not the philosophical 'Atman'."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-50",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "8-76",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "8-112",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "8-135",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "8-156",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "8-161",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "9-16",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "9-39",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "यह उचित है,",
+      "explanation": "Misinterprets the concessive Tibetan idiom 'rung ste' (whether it be so) as a declarative clause, disrupting the syntax."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "यह उचित है,",
+      "explanation": "Misinterprets the concessive Tibetan idiom 'rung ste' (whether it be so) as a declarative clause, disrupting the syntax."
+     }
+    ]
+   }
+  },
+  {
+   "id": "9-56",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "9-67",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "9-96",
+   "candidates": {
+    "A": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "विज्ञान शरीररहित होने के कारण,",
+      "explanation": "Missing the genitive marker 'के' after 'विज्ञान', making the participial construction grammatically awkward."
+     }
+    ],
+    "B": []
+   }
+  },
+  {
+   "id": "9-113",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "9-152",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "अप्रिय क्या है और प्रिय क्या है?",
+      "explanation": "Translates the Sanskrit rather than the Tibetan 'dgar / mi dgar', which specifically denote subjective pleasure and displeasure."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "किस पर तृष्णा की जाए?",
+      "explanation": "Unjustifiably alters the simple indicative Tibetan question into a passive optative or deliberative mood."
+     }
+    ],
+    "B": []
+   }
+  },
+  {
+   "id": "9-161",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "10-22",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "10-49",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  }
+ ]
+}

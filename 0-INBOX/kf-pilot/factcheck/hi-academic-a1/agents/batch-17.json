@@ -1,0 +1,168 @@
+{
+ "batch": "batch-17",
+ "segments": [
+  {
+   "id": "6-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-24",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "अनायास ही",
+     "evidence": "Tibetan \"གྱི་ནར་\" (Kunpal 6-24: \"རྐྱེན་ཕལ་པ་ཙམ་ལ་བརྟེན་ནས\" ; Shenga 6-24: \"རྐྱེན་ཇི་ནར་ཙམ་གྱིས\") means people get angry through merely the slightest/ordinary condition; \"अनायास\" (effortlessly/spontaneously) drops the dependence on a condition, the very point of the verse.",
+     "fix": "लोग साधारण-से प्रत्यय मात्र से ही क्रोध करने लगते हैं"
+    }
+   ]
+  },
+  {
+   "id": "6-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-30",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "कार्य ने उसका क्या किया",
+     "evidence": "Tibetan \"བྱེད་པ\" here is the action/function (Skt kriyā; Kunpal 6-30 \"རྐྱེན་གྱི་བྱེད་པ\"), rendered \"क्रिया\" in line 4 of the same verse; \"कार्य\" in Hindi philosophical usage means the effect (kārya) and misleads, and it is inconsistent within the verse.",
+     "fix": "क्रिया ने उसका क्या किया"
+    }
+   ]
+  },
+  {
+   "id": "6-31",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "क्रोध नहीं करना चाहिए",
+     "evidence": "Tibetan \"ཁྲོ་མི་འགྱུར\" is a statement (\"one will not become angry\"), not an injunction; Shenga 6-31 also has \"ཁྲོ་མི་འགྱུར་རོ\".",
+     "fix": "क्रोध नहीं होगा"
+    },
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "निर्मित माया के समान",
+     "evidence": "Tibetan has a single image of emanation (Skt nirmāṇavat); Kunpal 6-31 lists \"སྒྱུ་མ་རྨི་ལམ་སྤྲུལ་པ\" as separate items, so \"माया\" (illusion) is an addition that conflates illusion with emanation.",
+     "fix": "निर्मित (निर्माण-रूप) आकृतियों के समान"
+    }
+   ]
+  },
+  {
+   "id": "6-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-35",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "आसक्त होकर",
+     "evidence": "Tibetan \"རྔམ་ཞིང་\" means being fierce/vehement; Kunpal 6-35 has \"རྔམ་ཞིང་ཆགས་ནས\" (both vehement and attached), Shenga \"བརྣབ་སེམས་ཀྱིས་རྔམ་ཞིང\". \"आसक्त\" covers only attachment, not vehemence.",
+     "fix": "उग्र एवं आसक्त होकर"
+    }
+   ]
+  },
+  {
+   "id": "6-36",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "खाइयों में कूदते हैं",
+     "evidence": "Tibetan \"གཡང་ས\" is a precipice/cliff (Shenga 6-36: \"རི་ལ་སོགས་པའི་གཡང་ས\"; Kunpal \"བྲག་ལ་སོགས་པའི་གཡང་ས\"; Skt prapāta), not a trench/ditch.",
+     "fix": "पर्वत-कगार (प्रपात) से कूदते हैं"
+    }
+   ]
+  },
+  {
+   "id": "6-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-40",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "आकाश में धुआँ छाने पर रोष करना",
+     "evidence": "Tibetan \"མཁའ་ལ་དུད་འཐུལ་དཀོན་པ\" : one resents the sky when smoke fills it (Kunpal 6-40: \"དུ་བ་ལ་མི་ཁྲོ་བར་ནམ་མཁའ་ལ་ཁྲོ་བ\"); the Hindi does not say the anger is directed at the sky.",
+     "fix": "आकाश में धुआँ छाने पर आकाश पर ही रोष करने के समान"
+    }
+   ]
+  },
+  {
+   "id": "6-41",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "इसलिए द्वेष पर ही क्रोध करना उचित है",
+     "evidence": "Tibetan \"ཉིས་ན་\" is the second alternative, \"in the second case\" (Shenga 6-41: \"གཅིག་ཏུ་དབྱུག་པ་སོགས་དང་ཉེས་ན་སྟེ་གཉིས་སུ་ན་ཞེ་སྡང་ལ་ཁྲོ་བར་རིགས\"): first the sticks, secondly hatred. \"इसलिए ... ही\" turns it into an inference and exclusion.",
+     "fix": "दूसरे पक्ष में, द्वेष पर क्रोध करना उचित है"
+    }
+   ]
+  }
+ ]
+}

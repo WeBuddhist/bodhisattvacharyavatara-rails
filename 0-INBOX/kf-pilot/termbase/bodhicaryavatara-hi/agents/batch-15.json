@@ -1,0 +1,709 @@
+{
+ "batch": "batch-15",
+ "terms": [
+  {
+   "term_id": "T015",
+   "bo": "བདེ་བ",
+   "sanskrit": "sukha",
+   "senses": [
+    {
+     "sense": "happiness",
+     "occurrences": "all",
+     "academic": "सुख",
+     "children": "सुख",
+     "basis": "style-sheet",
+     "reason": "Core term; Gemini agrees; children keep सुख to pair with दुख."
+    }
+   ]
+  },
+  {
+   "term_id": "T031",
+   "bo": "སྒྱུ་མ",
+   "sanskrit": "māyā",
+   "senses": [
+    {
+     "sense": "illusion",
+     "occurrences": "all",
+     "academic": "माया",
+     "children": "जादुई छलावा",
+     "basis": "new",
+     "reason": "Gemini and Sanskrit māyā agree for academic; children plain phrase for magic-trick illusion."
+    }
+   ]
+  },
+  {
+   "term_id": "T047",
+   "bo": "ཤེས་བཞིན",
+   "sanskrit": "saṃprajanya",
+   "senses": [
+    {
+     "sense": "introspection",
+     "occurrences": "all",
+     "academic": "सम्प्रजन्य",
+     "children": "सजग रहना",
+     "basis": "style-sheet",
+     "reason": "Core term from style sheet; matches chapter title stem."
+    }
+   ]
+  },
+  {
+   "term_id": "T063",
+   "bo": "དེ་ཉིད",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "reality",
+     "occurrences": "all",
+     "academic": "तत्त्व",
+     "children": "चीज़ों का असली रूप",
+     "basis": "new",
+     "reason": "Gemini तत्त्वज्ञ shows तत्त्व; children from English \"the way things really are\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T079",
+   "bo": "བློ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "intellect",
+     "occurrences": "all",
+     "academic": "बुद्धि",
+     "children": "सोचने की शक्ति",
+     "basis": "style-sheet",
+     "reason": "Policy 18: བློ is बुद्धि; children plain phrase kept apart from \"thinking mind\" of ཡིད."
+    }
+   ]
+  },
+  {
+   "term_id": "T095",
+   "bo": "རྙེད",
+   "sanskrit": "lābha",
+   "senses": [
+    {
+     "sense": "gain",
+     "occurrences": "all",
+     "academic": "लाभ",
+     "children": "फ़ायदा",
+     "basis": "zero-shot",
+     "reason": "Gemini लाभ matches lābha; children everyday word for gain."
+    }
+   ]
+  },
+  {
+   "term_id": "T111",
+   "bo": "སྐྱབས",
+   "sanskrit": "śaraṇa",
+   "senses": [
+    {
+     "sense": "refuge",
+     "occurrences": "all",
+     "academic": "शरण",
+     "children": "सुरक्षित सहारा",
+     "basis": "style-sheet",
+     "reason": "Policy 13 fixed seven-limb word."
+    }
+   ]
+  },
+  {
+   "term_id": "T127",
+   "bo": "གྲགས་པ",
+   "sanskrit": "yaśas / prasiddhi",
+   "senses": [
+    {
+     "sense": "fame, renown",
+     "occurrences": [
+      "6-90",
+      "6-92",
+      "8-20"
+     ],
+     "academic": "यश",
+     "children": "शोहरत",
+     "basis": "zero-shot",
+     "reason": "Fame: Gemini यश in verses 6-90, 8-20; children everyday word."
+    },
+    {
+     "sense": "common usage",
+     "occurrences": [
+      "9-6"
+     ],
+     "academic": "प्रसिद्धि",
+     "children": "आम चलन",
+     "basis": "zero-shot",
+     "reason": "Common usage: Gemini प्रसिद्धि matches prasiddhi; children from English \"common usage\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T143",
+   "bo": "རྒྱལ",
+   "sanskrit": "jina",
+   "senses": [
+    {
+     "sense": "Victor",
+     "occurrences": "all",
+     "academic": "जिन",
+     "children": "विजेता",
+     "basis": "style-sheet",
+     "reason": "Policy 8 epithet; kept distinct."
+    }
+   ]
+  },
+  {
+   "term_id": "T159",
+   "bo": "ཕ་རོལ་ཕྱིན",
+   "sanskrit": "pāramitā",
+   "senses": [
+    {
+     "sense": "perfection",
+     "occurrences": "all",
+     "academic": "पारमिता",
+     "children": "पूर्णता",
+     "basis": "style-sheet",
+     "reason": "Core term; policy 11."
+    }
+   ]
+  },
+  {
+   "term_id": "T175",
+   "bo": "མྱ་ངན",
+   "sanskrit": "śoka",
+   "senses": [
+    {
+     "sense": "grief",
+     "occurrences": "all",
+     "academic": "शोक",
+     "children": "शोक",
+     "basis": "style-sheet",
+     "reason": "Policy 15: शोक is མྱ་ངན; sorrow is plain Hindi."
+    }
+   ]
+  },
+  {
+   "term_id": "T191",
+   "bo": "རྟེན",
+   "sanskrit": "āśraya",
+   "senses": [
+    {
+     "sense": "basis",
+     "occurrences": "all",
+     "academic": "आधार",
+     "children": "आधार",
+     "basis": "zero-shot",
+     "reason": "Gemini आधार fits \"basis\" in the arguments; plain word also suits children."
+    }
+   ]
+  },
+  {
+   "term_id": "T207",
+   "bo": "སྤྱན་རས་གཟིགས",
+   "sanskrit": "avalokita",
+   "senses": [
+    {
+     "sense": "Avalokiteśvara",
+     "occurrences": "all",
+     "academic": "अवलोकितेश्वर",
+     "children": "अवलोकितेश्वर",
+     "basis": "style-sheet",
+     "reason": "Policy 10 name kept in Sanskrit form; Gemini agrees."
+    }
+   ]
+  },
+  {
+   "term_id": "T223",
+   "bo": "ཕྱོགས་བཅུ",
+   "sanskrit": "daśadiś",
+   "senses": [
+    {
+     "sense": "ten directions",
+     "occurrences": "all",
+     "academic": "दस दिशाएँ",
+     "children": "दस दिशाएँ",
+     "basis": "style-sheet",
+     "reason": "Policy 1 numerals spelled out; Gemini दसों दिशाओं gives head form."
+    }
+   ]
+  },
+  {
+   "term_id": "T239",
+   "bo": "ཞི་བ",
+   "sanskrit": "śama / śiva",
+   "senses": [
+    {
+     "sense": "peace",
+     "occurrences": "all",
+     "academic": "शान्ति",
+     "children": "शान्ति",
+     "basis": "zero-shot",
+     "reason": "Gemini शान्ति matches śama; plain word for both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T255",
+   "bo": "ཁམས་གསུམ",
+   "sanskrit": "trailokya",
+   "senses": [
+    {
+     "sense": "three realms",
+     "occurrences": "all",
+     "academic": "तीन लोक",
+     "children": "तीन लोक",
+     "basis": "style-sheet",
+     "reason": "Policy 1 example तीन लोक; Gemini त्रैधातु/तीनों लोकों agrees in sense."
+    }
+   ]
+  },
+  {
+   "term_id": "T271",
+   "bo": "མཉམ་པར་གཞག",
+   "sanskrit": "samādhāna",
+   "senses": [
+    {
+     "sense": "meditative equipoise",
+     "occurrences": "all",
+     "academic": "समाहित करना",
+     "children": "मन को टिकाना",
+     "basis": "zero-shot",
+     "reason": "Gemini समाहित करना for the verb; children from English \"settling the mind\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T287",
+   "bo": "ཐེ་ཚོམ",
+   "sanskrit": "vicikitsā",
+   "senses": [
+    {
+     "sense": "doubt",
+     "occurrences": "all",
+     "academic": "सन्देह",
+     "children": "शक",
+     "basis": "zero-shot",
+     "reason": "Gemini सन्देह; children everyday word for doubt."
+    }
+   ]
+  },
+  {
+   "term_id": "T303",
+   "bo": "བོ་དྷི་སཏྭ་ཙརྱ་ཨ་བ་ཏཱ་ར",
+   "sanskrit": "bodhisattvacaryāvatāra",
+   "senses": [
+    {
+     "sense": "Sanskrit title",
+     "occurrences": "all",
+     "academic": "बोधिसत्त्वचर्यावतार",
+     "children": "बोधिसत्त्वचर्यावतार",
+     "basis": "style-sheet",
+     "reason": "Policy 12 title; children keep Sanskrit transliteration as English does."
+    }
+   ]
+  },
+  {
+   "term_id": "T319",
+   "bo": "ལག་བཟང",
+   "sanskrit": "subāhu",
+   "senses": [
+    {
+     "sense": "name of an interlocutor",
+     "occurrences": "all",
+     "academic": "सुबाहु",
+     "children": "सुबाहु",
+     "basis": "style-sheet",
+     "reason": "Policy 10 name in Sanskrit form; Gemini सुबाहु."
+    }
+   ]
+  },
+  {
+   "term_id": "T335",
+   "bo": "མཆོད་གནས",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "object of offering",
+     "occurrences": "all",
+     "academic": "पूजा-पात्र",
+     "children": "भेंट के योग्य",
+     "basis": "english-pivot",
+     "reason": "Built from पूजा (policy 13); children from English \"one worthy of offerings\", भेंट per policy 13."
+    }
+   ]
+  },
+  {
+   "term_id": "T351",
+   "bo": "ངེས་ཐར",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "definite liberation",
+     "occurrences": "all",
+     "academic": "निश्चित मुक्ति",
+     "children": "पक्की आज़ादी",
+     "basis": "english-pivot",
+     "reason": "From English; मोक्ष avoided (policy 5); children everyday आज़ादी."
+    }
+   ]
+  },
+  {
+   "term_id": "T367",
+   "bo": "ཐུགས་བསྐྱེད",
+   "sanskrit": "cittotpāda",
+   "senses": [
+    {
+     "sense": "generation of bodhicitta",
+     "occurrences": "all",
+     "academic": "बोधिचित्तोत्पाद",
+     "children": "जागृति के मन का जन्म",
+     "basis": "zero-shot",
+     "reason": "Gemini बोधिचित्तोत्पाद matches cittotpāda; children built from जागृति and मन."
+    }
+   ]
+  },
+  {
+   "term_id": "T383",
+   "bo": "སྤྱི་སྟེགས",
+   "sanskrit": "setu",
+   "senses": [
+    {
+     "sense": "universal bridge",
+     "occurrences": "all",
+     "academic": "सर्व-साधारण सेतु",
+     "children": "सबके लिए पुल",
+     "basis": "zero-shot",
+     "reason": "Gemini सर्व-साधारण सेतु; children from English \"bridge for everyone\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T399",
+   "bo": "ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན་པ",
+   "sanskrit": "śīlapāramitā",
+   "senses": [
+    {
+     "sense": "perfection of ethical discipline",
+     "occurrences": "all",
+     "academic": "शीलपारमिता",
+     "children": "अच्छे आचरण की पूर्णता",
+     "basis": "style-sheet",
+     "reason": "Policy 11 fixed perfection."
+    }
+   ]
+  },
+  {
+   "term_id": "T415",
+   "bo": "སྐད་ཅིག",
+   "sanskrit": "kṣaṇa",
+   "senses": [
+    {
+     "sense": "moment",
+     "occurrences": "all",
+     "academic": "क्षण",
+     "children": "पल",
+     "basis": "zero-shot",
+     "reason": "Gemini क्षण matches kṣaṇa; children everyday word."
+    }
+   ]
+  },
+  {
+   "term_id": "T431",
+   "bo": "ངོ་ཚ་ཤེས",
+   "sanskrit": "lajjā",
+   "senses": [
+    {
+     "sense": "sense of shame",
+     "occurrences": "all",
+     "academic": "लज्जा",
+     "children": "शर्म का एहसास",
+     "basis": "zero-shot",
+     "reason": "Gemini लज्जा matches lajjā; children from English \"sense of shame\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T447",
+   "bo": "དཔལ་འབྱུང་བ",
+   "sanskrit": "śrīsaṃbhava",
+   "senses": [
+    {
+     "sense": "Śrīsaṃbhava",
+     "occurrences": "all",
+     "academic": "श्रीसम्भव",
+     "children": "श्रीसम्भव",
+     "basis": "zero-shot",
+     "reason": "Name in Sanskrit form (policy 10); म् kept before भ (policy 1)."
+    }
+   ]
+  },
+  {
+   "term_id": "T464",
+   "bo": "ཕྱིན་ཅི་ལོག",
+   "sanskrit": "viparyaya",
+   "senses": [
+    {
+     "sense": "perversity",
+     "occurrences": "all",
+     "academic": "विपर्यय",
+     "children": "उल्टा तरीक़ा",
+     "basis": "english-pivot",
+     "reason": "Sanskrit viparyaya tatsama; Gemini विपरीत is looser; children from \"mistaken way\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T480",
+   "bo": "བསྟོད",
+   "sanskrit": "stuti",
+   "senses": [
+    {
+     "sense": "praise",
+     "occurrences": "all",
+     "academic": "स्तुति",
+     "children": "तारीफ़",
+     "basis": "zero-shot",
+     "reason": "Gemini स्तुति matches stuti; children everyday word for praise."
+    }
+   ]
+  },
+  {
+   "term_id": "T496",
+   "bo": "འཇིག་རྟེན་སྡུག་བསྔལ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "suffering of the world",
+     "occurrences": "all",
+     "academic": "लोक-दुःख",
+     "children": "दुनिया का दुख",
+     "basis": "style-sheet",
+     "reason": "Compound of लोक and दुःख, hyphenated (policies 16, 17); children X का Y."
+    }
+   ]
+  },
+  {
+   "term_id": "T512",
+   "bo": "ལོག་པར་རྟོག་པ",
+   "sanskrit": "mithyākalpanā",
+   "senses": [
+    {
+     "sense": "wrong conception",
+     "occurrences": "all",
+     "academic": "मिथ्या कल्पना",
+     "children": "ग़लत सोच",
+     "basis": "new",
+     "reason": "Matches Sanskrit mithyākalpanā; kept apart from विकल्प of T576."
+    }
+   ]
+  },
+  {
+   "term_id": "T528",
+   "bo": "སྐྱེ་བ་གཞན",
+   "sanskrit": "janmāntara",
+   "senses": [
+    {
+     "sense": "other life",
+     "occurrences": "all",
+     "academic": "अन्य जन्म",
+     "children": "दूसरा जन्म",
+     "basis": "zero-shot",
+     "reason": "Gemini अन्य जन्मों; children plain word."
+    }
+   ]
+  },
+  {
+   "term_id": "T544",
+   "bo": "མཉམ་འཇོག",
+   "sanskrit": "samādhi",
+   "senses": [
+    {
+     "sense": "meditative equipoise",
+     "occurrences": "all",
+     "academic": "समाहित अवस्था",
+     "children": "टिका हुआ मन",
+     "basis": "new",
+     "reason": "From Gemini समाहित; kept apart from T271 verb and from samādhi-type terms; children from English."
+    }
+   ]
+  },
+  {
+   "term_id": "T560",
+   "bo": "ཤ་ཡི་ཕུང་པོ",
+   "sanskrit": "māṃsocchraya",
+   "senses": [
+    {
+     "sense": "heap of flesh",
+     "occurrences": "all",
+     "academic": "मांस का ढेर",
+     "children": "मांस का ढेर",
+     "basis": "zero-shot",
+     "reason": "Gemini मांस के ढेर; plain words suit both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T576",
+   "bo": "རྣམ་པར་རྟོག",
+   "sanskrit": "parikalpanā",
+   "senses": [
+    {
+     "sense": "conceptual thought",
+     "occurrences": "all",
+     "academic": "विकल्प",
+     "children": "सोच",
+     "basis": "zero-shot",
+     "reason": "Gemini विकल्प, established Buddhist usage; children from English \"thinking\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T592",
+   "bo": "ལྟ་བ",
+   "sanskrit": "dṛṣṭi",
+   "senses": [
+    {
+     "sense": "view",
+     "occurrences": "all",
+     "academic": "दृष्टि",
+     "children": "मान्यता",
+     "basis": "zero-shot",
+     "reason": "Gemini दृष्टि matches dṛṣṭi; children from English \"belief\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T608",
+   "bo": "དངོས་ཡོད",
+   "sanskrit": "sadbhāva",
+   "senses": [
+    {
+     "sense": "truly existent",
+     "occurrences": "all",
+     "academic": "वास्तव में विद्यमान",
+     "children": "सचमुच मौजूद",
+     "basis": "english-pivot",
+     "reason": "Gemini सद्भाव means goodwill in Hindi, so overridden; translated English \"truly existent\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T624",
+   "bo": "རབ་ཏུ་ཞི",
+   "sanskrit": "praśāmyati",
+   "senses": [
+    {
+     "sense": "thorough pacification",
+     "occurrences": "all",
+     "academic": "पूर्णतः शान्त होना",
+     "children": "पूरी तरह शान्त होना",
+     "basis": "zero-shot",
+     "reason": "Gemini पूर्णतः शान्त हो जाती है; verb head form in ना (policy 22)."
+    }
+   ]
+  },
+  {
+   "term_id": "T640",
+   "bo": "སུན་འབྱིན་པ",
+   "sanskrit": "dūṣaṇa",
+   "senses": [
+    {
+     "sense": "refutation",
+     "occurrences": "all",
+     "academic": "खण्डन",
+     "children": "ग़लत साबित करना",
+     "basis": "english-pivot",
+     "reason": "Gemini दूषण means blemish in Hindi; खण्डन is the established term for refutation."
+    }
+   ]
+  },
+  {
+   "term_id": "T656",
+   "bo": "རེག་པ",
+   "sanskrit": "sparśana",
+   "senses": [
+    {
+     "sense": "contact",
+     "occurrences": "all",
+     "academic": "स्पर्श",
+     "children": "छुअन",
+     "basis": "zero-shot",
+     "reason": "Gemini स्पर्श matches sparśana; children from English \"touch\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T672",
+   "bo": "མེད་པ",
+   "sanskrit": "asat",
+   "senses": [
+    {
+     "sense": "non-existent",
+     "occurrences": "all",
+     "academic": "अविद्यमान",
+     "children": "जो मौजूद नहीं है",
+     "basis": "zero-shot",
+     "reason": "Gemini अविद्यमान matches asat; children plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T688",
+   "bo": "རྒ་དང་འཆི",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "aging and death",
+     "occurrences": "all",
+     "academic": "जरा-मरण",
+     "children": "बूढ़ा होना और मरना",
+     "basis": "new",
+     "reason": "Established Sanskrit compound jarāmaraṇa; children plain phrase from English."
+    }
+   ]
+  },
+  {
+   "term_id": "T704",
+   "bo": "སྤྱན་རས་གཟིགས་དབང",
+   "sanskrit": "avalokiteśvara",
+   "senses": [
+    {
+     "sense": "name of a bodhisattva",
+     "occurrences": "all",
+     "academic": "अवलोकितेश्वर",
+     "children": "अवलोकितेश्वर",
+     "basis": "style-sheet",
+     "reason": "Policy 10 name; same as T207."
+    }
+   ]
+  },
+  {
+   "term_id": "T720",
+   "bo": "ཁ་ཐོན",
+   "sanskrit": "svādhyāya",
+   "senses": [
+    {
+     "sense": "recitation",
+     "occurrences": "all",
+     "academic": "पाठ",
+     "children": "बोलकर पढ़ना",
+     "basis": "zero-shot",
+     "reason": "Gemini पाठ for recitation; children from English \"reciting\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T736",
+   "bo": "ཁ་ཆེ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "place name",
+     "occurrences": "all",
+     "academic": "कश्मीर",
+     "children": "कश्मीर",
+     "basis": "zero-shot",
+     "reason": "Gemini कश्मीरी gives the standard place name."
+    }
+   ]
+  }
+ ]
+}

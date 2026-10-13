@@ -1,0 +1,602 @@
+{
+ "batch": "batch-10",
+ "segments": [
+  {
+   "id": "6-0",
+   "terms": [
+    {
+     "bo": "བཟོད་པ",
+     "dm": "Patience",
+     "gm": null
+    }
+   ]
+  },
+  {
+   "id": "6-1",
+   "terms": [
+    {
+     "bo": "བསྐལ་པ",
+     "dm": "eons",
+     "gm": "eons"
+    },
+    {
+     "bo": "སྦྱིན",
+     "dm": "generosity",
+     "gm": "Generosity"
+    },
+    {
+     "bo": "བདེ་གཤེགས",
+     "dm": "Sugatas",
+     "gm": "Sugatas"
+    },
+    {
+     "bo": "མཆོད",
+     "dm": "offerings",
+     "gm": "offerings"
+    },
+    {
+     "bo": "ལེགས་སྤྱང",
+     "dm": "virtuous deeds",
+     "gm": "good conduct"
+    },
+    {
+     "bo": "ཁོང་ཁྲོ",
+     "dm": "anger",
+     "gm": "anger"
+    }
+   ]
+  },
+  {
+   "id": "6-2",
+   "terms": [
+    {
+     "bo": "ཞེ་སྡང",
+     "dm": "hatred",
+     "gm": "hatred"
+    },
+    {
+     "bo": "སྡིག་པ",
+     "dm": "evil",
+     "gm": "misdeed"
+    },
+    {
+     "bo": "བཟོད་པ",
+     "dm": "patience",
+     "gm": "patience"
+    },
+    {
+     "bo": "དཀའ་ཐུབ",
+     "dm": "austerity",
+     "gm": "ascetic practice"
+    },
+    {
+     "bo": "བསྒོམ",
+     "dm": "practice",
+     "gm": "meditate"
+    }
+   ]
+  },
+  {
+   "id": "6-3",
+   "terms": [
+    {
+     "bo": "ཞེ་སྡང",
+     "dm": "hatred",
+     "gm": "hatred"
+    },
+    {
+     "bo": "སེམས",
+     "dm": "mind",
+     "gm": "mind"
+    },
+    {
+     "bo": "ཞི་བ",
+     "dm": "peace",
+     "gm": "peace"
+    },
+    {
+     "bo": "བདེ་བ",
+     "dm": "happiness",
+     "gm": "happiness"
+    }
+   ]
+  },
+  {
+   "id": "6-4",
+   "terms": [
+    {
+     "bo": "ནོར",
+     "dm": "wealth",
+     "gm": "wealth"
+    },
+    {
+     "bo": "བཀུར་སྟི",
+     "dm": "honors",
+     "gm": "honors"
+    },
+    {
+     "bo": "རྗེ་དཔོན",
+     "dm": "master",
+     "gm": "Master"
+    }
+   ]
+  },
+  {
+   "id": "6-5",
+   "terms": [
+    {
+     "bo": "སྦྱིན་པ",
+     "dm": "generosity",
+     "gm": "generosity"
+    },
+    {
+     "bo": "ཁྲོ་བ",
+     "dm": "anger",
+     "gm": "angry"
+    }
+   ]
+  },
+  {
+   "id": "6-6",
+   "terms": [
+    {
+     "bo": "ཁྲོ་བ",
+     "dm": "anger",
+     "gm": "anger"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "sufferings",
+     "gm": "sufferings"
+    },
+    {
+     "bo": "འདི་དང་གཞན",
+     "dm": "this life and the next",
+     "gm": "this life and the next"
+    }
+   ]
+  },
+  {
+   "id": "6-7",
+   "terms": [
+    {
+     "bo": "ཞེ་སྡང",
+     "dm": "Hatred",
+     "gm": "Hatred"
+    },
+    {
+     "bo": "ཡིད་མི་བདེ་བ",
+     "dm": "mental unease",
+     "gm": "Mental unhappiness"
+    }
+   ]
+  },
+  {
+   "id": "6-8",
+   "terms": [
+    {
+     "bo": "དགྲ་བོ",
+     "dm": "enemy",
+     "gm": "enemy"
+    }
+   ]
+  },
+  {
+   "id": "6-9",
+   "terms": [
+    {
+     "bo": "དགེ་བ",
+     "dm": "virtues",
+     "gm": "virtues"
+    }
+   ]
+  },
+  {
+   "id": "6-10",
+   "terms": []
+  },
+  {
+   "id": "6-11",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "Suffering"
+    },
+    {
+     "bo": "དགྲ",
+     "dm": "enemy",
+     "gm": "enemies"
+    }
+   ]
+  },
+  {
+   "id": "6-12",
+   "terms": [
+    {
+     "bo": "བདེ་བའི་རྒྱུ",
+     "dm": "causes of happiness",
+     "gm": "causes of happiness"
+    },
+    {
+     "bo": "སྡུག་བསྔལ་རྒྱུ",
+     "dm": "causes of suffering",
+     "gm": "causes of suffering"
+    },
+    {
+     "bo": "ངེས་འབྱུང",
+     "dm": "renunciation",
+     "gm": "renunciation"
+    }
+   ]
+  },
+  {
+   "id": "6-13",
+   "terms": [
+    {
+     "bo": "དཀའ་ཟློག",
+     "dm": "Durgā",
+     "gm": "asceticism"
+    },
+    {
+     "bo": "ཀརྞ་པ",
+     "dm": "Karṇapa",
+     "gm": "Karṇapas"
+    },
+    {
+     "bo": "ཚོར་བ",
+     "dm": "sensations",
+     "gm": "sensations"
+    },
+    {
+     "bo": "ཐར་པ",
+     "dm": "liberation",
+     "gm": "liberation"
+    }
+   ]
+  },
+  {
+   "id": "6-14",
+   "terms": [
+    {
+     "bo": "གོམས",
+     "dm": "habituation",
+     "gm": "familiarity"
+    },
+    {
+     "bo": "གནོད་པ",
+     "dm": "harms",
+     "gm": "harms"
+    }
+   ]
+  },
+  {
+   "id": "6-15",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "sufferings"
+    },
+    {
+     "bo": "ཚོར་བ",
+     "dm": "sensations",
+     "gm": "Sensations"
+    }
+   ]
+  },
+  {
+   "id": "6-16",
+   "terms": [
+    {
+     "bo": "གནོད་པ",
+     "dm": "harm",
+     "gm": "harm"
+    },
+    {
+     "bo": "ནད",
+     "dm": "sickness",
+     "gm": "Sickness"
+    }
+   ]
+  },
+  {
+   "id": "6-17",
+   "terms": []
+  },
+  {
+   "id": "6-18",
+   "terms": [
+    {
+     "bo": "སེམས",
+     "dm": "mind",
+     "gm": "mind"
+    },
+    {
+     "bo": "གནོད་པ",
+     "dm": "harm",
+     "gm": "harms"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "sufferings",
+     "gm": "sufferings"
+    }
+   ]
+  },
+  {
+   "id": "6-19",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "afflictions"
+    },
+    {
+     "bo": "སེམས",
+     "dm": "mind",
+     "gm": "mind"
+    },
+    {
+     "bo": "གནོད་པ",
+     "dm": "harm",
+     "gm": "harms"
+    }
+   ]
+  },
+  {
+   "id": "6-20",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "sufferings"
+    },
+    {
+     "bo": "ཞེ་སྡང",
+     "dm": "hatred",
+     "gm": "anger"
+    },
+    {
+     "bo": "དགྲ",
+     "dm": "enemies",
+     "gm": "enemies"
+    },
+    {
+     "bo": "དཔའ་བོ",
+     "dm": "heroes",
+     "gm": "heroes"
+    }
+   ]
+  },
+  {
+   "id": "6-21",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "དྲེགས་པ",
+     "dm": "arrogance",
+     "gm": "arrogance"
+    },
+    {
+     "bo": "འཁོར་བ",
+     "dm": "cyclic existence",
+     "gm": "cyclic existence"
+    },
+    {
+     "bo": "སྙིང་རྗེ",
+     "dm": "Compassion",
+     "gm": "Compassion"
+    },
+    {
+     "bo": "སྡིག་ལ",
+     "dm": "misdeeds",
+     "gm": "Sin"
+    },
+    {
+     "bo": "དགེ་ལ",
+     "dm": "virtue",
+     "gm": "virtue"
+    }
+   ]
+  },
+  {
+   "id": "6-22",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "མཁྲིས་པ",
+     "dm": "bile",
+     "gm": "bile"
+    },
+    {
+     "bo": "སེམས་ཡོད",
+     "dm": "sentient beings",
+     "gm": "those with minds"
+    },
+    {
+     "bo": "རྐྱེན",
+     "dm": "conditions",
+     "gm": "conditions"
+    }
+   ]
+  },
+  {
+   "id": "6-23",
+   "terms": [
+    {
+     "bo": "ནད",
+     "dm": "illness",
+     "gm": "sickness"
+    },
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "Afflictions"
+    }
+   ]
+  },
+  {
+   "id": "6-24",
+   "terms": [
+    {
+     "bo": "ཁྲོ་བ",
+     "dm": "Anger",
+     "gm": "anger"
+    }
+   ]
+  },
+  {
+   "id": "6-25",
+   "terms": [
+    {
+     "bo": "ཉེས་པ",
+     "dm": "faults",
+     "gm": "faults"
+    },
+    {
+     "bo": "སྡིག་པ",
+     "dm": "misdeeds",
+     "gm": "sins"
+    },
+    {
+     "bo": "རྐྱེན",
+     "dm": "conditions",
+     "gm": "conditions"
+    },
+    {
+     "bo": "རང་དབང",
+     "dm": "independence",
+     "gm": "independence"
+    }
+   ]
+  },
+  {
+   "id": "6-26",
+   "terms": [
+    {
+     "bo": "རྐྱེན",
+     "dm": "conditions",
+     "gm": "conditions"
+    }
+   ]
+  },
+  {
+   "id": "6-27",
+   "terms": [
+    {
+     "bo": "གཙོ་བོ",
+     "dm": "Primal Substance",
+     "gm": "Primary Matter"
+    },
+    {
+     "bo": "བདག",
+     "dm": "Self",
+     "gm": "Self"
+    }
+   ]
+  },
+  {
+   "id": "6-28",
+   "terms": [
+    {
+     "bo": "འགག་པ",
+     "dm": "cease",
+     "gm": "cease"
+    },
+    {
+     "bo": "ཡུལ",
+     "dm": "sense objects",
+     "gm": "objects"
+    }
+   ]
+  },
+  {
+   "id": "6-29",
+   "terms": [
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    },
+    {
+     "bo": "རྟག",
+     "dm": "permanent",
+     "gm": "permanent"
+    },
+    {
+     "bo": "མཁའ",
+     "dm": "space",
+     "gm": "space"
+    },
+    {
+     "bo": "རྐྱེན",
+     "dm": "conditions",
+     "gm": "conditions"
+    },
+    {
+     "bo": "འགྱུར་བ་མེད",
+     "dm": "unchanging",
+     "gm": "unchanging"
+    }
+   ]
+  },
+  {
+   "id": "6-30",
+   "terms": []
+  },
+  {
+   "id": "6-31",
+   "terms": [
+    {
+     "bo": "གཞན་གྱི་དབང",
+     "dm": "dependent on other factors",
+     "gm": "under the power of others"
+    },
+    {
+     "bo": "དངོས་པོ",
+     "dm": "phenomena",
+     "gm": "things"
+    }
+   ]
+  },
+  {
+   "id": "6-32",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "sufferings",
+     "gm": "sufferings"
+    }
+   ]
+  },
+  {
+   "id": "6-33",
+   "terms": [
+    {
+     "bo": "དགྲ",
+     "dm": "enemy",
+     "gm": "enemy"
+    },
+    {
+     "bo": "རྐྱེན",
+     "dm": "conditions",
+     "gm": "conditions"
+    }
+   ]
+  }
+ ]
+}

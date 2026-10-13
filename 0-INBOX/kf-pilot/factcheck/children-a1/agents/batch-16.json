@@ -1,0 +1,269 @@
+{
+ "batch": "batch-16",
+ "segments": [
+  {
+   "id": "8-91",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-93",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "They are like my very own body.",
+     "evidence": "The reason is lost: others are to be helped because they are sentient beings, just as my body is (a being I naturally help). The children's text just asserts others are like my body, and drops the 'because'.",
+     "fix": "I should help other living beings, because they are living beings, just like my own body."
+    }
+   ]
+  },
+  {
+   "id": "8-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-100",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "They are just words",
+     "evidence": "Academic says the continuum and collection are 'false' (like a garland or army), not 'just words'; this adds a nominalist idea.",
+     "fix": "A continuing stream and a collection of parts are not real in themselves. They are like a necklace or an army."
+    }
+   ]
+  },
+  {
+   "id": "8-101",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-102",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "If not, then I must suffer just like any other living being.",
+     "evidence": "'If not, I too am like sentient beings': if suffering need not be averted for all, then mine need not be averted either, since I am one of them. The children's text turns it into an obligation to suffer.",
+     "fix": "If we stop it for anyone, we must stop it for all. If not, then my own suffering should not be stopped either, since I am a living being like them."
+    }
+   ]
+  },
+  {
+   "id": "8-103",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-104",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "should gladly accept it",
+     "evidence": "'Gladly' is not in the source; the verse says the compassionate one should certainly take on that suffering.",
+     "fix": "a kind person should certainly take on that suffering for themselves and others."
+    }
+   ]
+  },
+  {
+   "id": "8-105",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-107",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "just for myself",
+     "evidence": "The verse asks 'What is the use of desiring liberation?'; 'just for myself' is added interpretation.",
+     "fix": "What is the use of wanting freedom?"
+    }
+   ]
+  },
+  {
+   "id": "8-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-109",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-110",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "major",
+     "span": "drops from others",
+     "evidence": "Source specifies others' drops of semen and blood (the substance of the body) which one habitually takes as 'I'; 'drops from others' loses what the drops are, and 'my own body' / 'really me' are added.",
+     "fix": "By getting used to it, I take the drops of blood and seed that came from others as 'I'. Even though there is no real thing there, I call them 'I'."
+    }
+   ]
+  },
+  {
+   "id": "8-111",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-112",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-113",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-114",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-115",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-116",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-117",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-118",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-119",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-120",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-121",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-122",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-123",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-124",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-125",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-126",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "only",
+     "evidence": "Source says wishing for oneself to be exalted; 'only' is not there.",
+     "fix": "If I wish to be great myself, I will be reborn in an unhappy realm as someone low and foolish."
+    }
+   ]
+  },
+  {
+   "id": "8-127",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-128",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-129",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-130",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "'Truly' exchange (yang dag par) is dropped.",
+     "fix": "If I do not truly exchange my own happiness for the suffering of others, ..."
+    }
+   ]
+  }
+ ]
+}

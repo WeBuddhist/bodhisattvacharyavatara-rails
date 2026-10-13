@@ -1,0 +1,568 @@
+[
+ {
+  "id": "8-131",
+  "tibetan": "འཇིག་རྟེན་ཕ་རོལ་ཕར་ཞོག་གི ། བྲན་གཡོག་ལས་མི་བྱེད་པ་དང་། ། རྗེ་དཔོན་རྔན་པ་མི་སྟེར་བའི། ། ཚེ་འདིའི་དོན་ཡང་འགྲུབ་མི་འགྱུར། །",
+  "academic_translation": "Setting aside the next world,\nWhen a servant does not do their work\nAnd a master does not pay wages,\nEven the purpose of this life will not be achieved.",
+  "locked_terms": [
+   {
+    "tibetan": "འཇིག་རྟེན་ཕ་རོལ",
+    "use": "next life"
+   },
+   {
+    "tibetan": "ཚེ་འདི",
+    "use": "this life"
+   }
+  ],
+  "translation": "Leave the next life aside for a moment. If a servant does not do their work and a master pays no wages, nothing gets done. They will not even reach their goals in this life."
+ },
+ {
+  "id": "8-132",
+  "tibetan": "མཐོང་དང་མ་མཐོང་བདེ་འགྲུབ་པའི། ། ཕུན་སུམ་བདེ་སྐྱིད་ཡོངས་བོར་ཞིང་། ། གཞན་ལ་སྡུག་བསྔལ་བྱས་པའི་རྒྱུས། ། རྨོངས་པས་སྡུག་བསྔལ་མི་བཟད་ལེན། །",
+  "academic_translation": "Completely abandoning the perfect joy\nThat achieves seen and unseen happiness,\nThrough the cause of inflicting suffering on others,\nOne takes on unbearable suffering through delusion.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "རྨོངས་པ",
+    "use": "confusion"
+   }
+  ],
+  "translation": "Out of confusion, I might cause suffering to others. This only brings me unbearable suffering. I throw away the perfect joy that brings happiness I can see and cannot see."
+ },
+ {
+  "id": "8-133",
+  "tibetan": "འཇིག་རྟེན་དག་ན་འཚེ་བ་གང་ཡོད་དང་། ། འཇིགས་དང་སྡུག་བསྔལ་ཇི་སྙེད་ཡོད་གྱུར་པ། ། དེ་ཀུན་བདག་ཏུ་འཛིན་པ་ལས་བྱུང་ན། ། འདྲེ་ཆེན་དེས་ཀོ་བདག་ལ་ཅི་ཞིག་བྱ། །",
+  "academic_translation": "Whatever harm there is in the world, and\nHowever much fear and suffering there may be,\nIf all of that arises from grasping at a self,\nWhat use is that great demon to me?",
+  "locked_terms": [
+   {
+    "tibetan": "འཇིག་རྟེན",
+    "use": "world"
+   },
+   {
+    "tibetan": "བདག་ཏུ་འཛིན་པ",
+    "use": "holding on to a self"
+   },
+   {
+    "tibetan": "འདྲེ་ཆེན",
+    "use": "great demon"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "Think of all the harm, fear, and suffering in the world. If all of it comes from holding on to a self, what use is that great demon to me?"
+ },
+ {
+  "id": "8-134",
+  "tibetan": "བདག་ཉིད་ཡོངས་སུ་མ་བཏང་ན། ། སྡུག་བསྔལ་སྤང་བར་མི་ནུས་ཏེ། ། ཇི་ལྟར་མེ་ནི་མ་བཏང་ན། ། སྲེག་པ་སྤོང་བར་མི་ནུས་བཞིན། །",
+  "academic_translation": "If one does not completely let go of the very self,\nOne cannot abandon suffering,\nJust as if one does not let go of fire,\nOne cannot avoid being burned.",
+  "locked_terms": [
+   {
+    "tibetan": "བདག་ཉིད",
+    "use": "self"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "If I do not completely let go of the self, I cannot leave suffering behind. It is just like fire. If I do not let go of the fire, I cannot stop being burned."
+ },
+ {
+  "id": "8-135",
+  "tibetan": "དེ་ལྟས་བདག་གནོད་ཞི་བ་དང་། ། གཞན་གྱི་སྡུག་བསྔལ་ཞི་བྱའི་ཕྱིར། ། བདག་ཉིད་གཞན་ལ་གཏང་བྱ་དང་། ། གཞན་རྣམས་བདག་བཞིན་གཟུང་བར་བྱ། །",
+  "academic_translation": "Therefore, to pacify harm to myself\nAnd to pacify the suffering of others,\nI should give myself to others\nAnd hold others as myself.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "So, I want to stop harm to myself. I want to stop the suffering of others. To do this, I should give myself to others. I should treat others as myself."
+ },
+ {
+  "id": "8-136",
+  "tibetan": "བདག་ནི་གཞན་གྱི་དབང་གྱུར་ཅེས། ། ཡིད་ཁྱོད་ངེས་པར་ཤེས་གྱིས་ལ། ། སེམས་ཅན་ཀུན་དོན་མ་གཏོགས་པར། ། ད་ནི་ཁྱོད་ཀྱིས་གཞན་མི་བསམ། །",
+  "academic_translation": "\"I am under the power of others\"—\nO mind, you must know this with certainty.\nApart from the welfare of all sentient beings,\nYou should now think of nothing else.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   }
+  ],
+  "translation": "My mind, you must know this for sure. I am under the power of others. Now you must think only about what helps every living being. Do not think of anything else."
+ },
+ {
+  "id": "8-137",
+  "tibetan": "གཞན་དབང་མིག་ལ་སོགས་པ་ཡིས། ། རང་དོན་སྒྲུབ་པར་རིགས་མ་ཡིན། ། དེ་དོན་མིག་ལ་སོགས་པ་ཡིས། ། དེ་ལ་ལོག་པར་བྱ་མི་རིགས། །",
+  "academic_translation": "With eyes and so forth that are under the power of others,\nIt is not appropriate to accomplish one's own welfare.\nWith eyes and so forth that are for their sake,\nIt is not appropriate to act wrongly toward them.",
+  "locked_terms": [
+   {
+    "tibetan": "རང་དོན",
+    "use": "own good"
+   }
+  ],
+  "translation": "My eyes and other parts belong to others. It is wrong to use them for my own good. They are for the sake of others. It is wrong to use them to harm others."
+ },
+ {
+  "id": "8-138",
+  "tibetan": "དེས་ན་སེམས་ཅན་གཙོར་བྱ་སྟེ། ། བདག་གི་ལུས་ལ་ཅི་མཐོང་བ། ། དེ་དང་དེ་ནི་ཕྲོགས་ནས་ཀྱང་། ། གཞན་དག་ལ་ནི་ཕན་པར་སྤྱོད། །",
+  "academic_translation": "Therefore, make sentient beings foremost.\nWhatever you see upon my body,\nHaving snatched it away,\nAct for the benefit of others.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   }
+  ],
+  "translation": "Therefore, put every living being first. Look at whatever is on my body. Take it away, and use it to help others."
+ },
+ {
+  "id": "8-139",
+  "tibetan": "དམན་སོགས་བདག་ཏུ་བྱས་པ་དང་། ། གཞན་ཉིད་དུ་ནི་བདག་བྱས་ནས། ། རྣམ་རྟོག་མེད་པའི་སེམས་ཀྱིས་སུ། ། ཕྲག་དོག་འགྲན་དང་ང་རྒྱལ་བསྒོམ། །",
+  "academic_translation": "Having made the inferior and so forth into oneself,\nAnd having made oneself into others,\nWith a mind free of conceptual thought,\nMeditate on envy, rivalry, and pride.",
+  "locked_terms": [
+   {
+    "tibetan": "ཕྲག་དོག",
+    "use": "jealousy"
+   },
+   {
+    "tibetan": "འགྲན",
+    "use": "rivalry"
+   },
+   {
+    "tibetan": "ང་རྒྱལ",
+    "use": "pride"
+   },
+   {
+    "tibetan": "རྣམ་རྟོག",
+    "use": "busy thinking"
+   }
+  ],
+  "translation": "Pretend that you are someone lower. Pretend that others are you. Clear your mind of busy thinking. Then practice feeling jealousy, rivalry, and pride."
+ },
+ {
+  "id": "8-140",
+  "tibetan": "འདི་ནི་བཀུར་བྱས་བདག་ནི་མིན། ། འདི་བཞིན་བདག་གིས་མ་རྙེད་ཅིང་། ། འདི་ནི་བསྟོད་བྱས་བདག་ལ་སྨོད། ། འདི་བདེ་བདག་ནི་སྡུག་བསྔལ་ལ། །",
+  "academic_translation": "This one is honored, but I am not;\nI have not obtained as this one has.\nThis one is praised, but I am disparaged;\nThis one is happy, while I am in suffering.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "People honor that person, but not me. I did not get what they got. That person is praised, but people say bad things about me. They are happy, but I am in suffering."
+ },
+ {
+  "id": "8-141",
+  "tibetan": "བདག་ནི་ལས་རྣམས་བྱེད་པ་དང་། ། འདི་ནི་བདེ་བ་ཉིད་དུ་གནས། ། འདི་ནི་འཇིག་རྟེན་ལ་ཆེ་དང་། ། བདག་དམན་ཡོན་ཏན་མེད་པར་གྲག །",
+  "academic_translation": "I perform the labors, and\nThis one remains in happiness itself.\nThis one is great in the world, and\nI am known as inferior and without good qualities.",
+  "locked_terms": [
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   },
+   {
+    "tibetan": "བདེ་བ",
+    "use": "happiness"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན",
+    "use": "world"
+   }
+  ],
+  "translation": "I do all the hard work, while this person just stays in happiness. This person is great in the world, but people say I am low and without good qualities."
+ },
+ {
+  "id": "8-142",
+  "tibetan": "ཡོན་ཏན་མེད་པས་ཅི་ཞིག་བྱ། ། བདག་ཀུན་ཡོན་ཏན་ལྡན་པ་ཉིད། ། གང་བས་འདི་དམན་དེ་ཡོད་ཅིང་། ། གང་བས་བདག་མཆོག་དེ་ཡང་ཡོད། །",
+  "academic_translation": "What is the use of being without good qualities?\nAll of us are indeed endowed with good qualities.\nThere are those compared to whom this one is inferior, and\nthere are those compared to whom I am superior.",
+  "locked_terms": [
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   }
+  ],
+  "translation": "What is the use of having no good qualities? Everyone has good qualities. There are people who are better than this person. There are also people who I am better than."
+ },
+ {
+  "id": "8-143",
+  "tibetan": "ཚུལ་ཁྲིམས་ལྟ་བ་གུད་སོགས་ནི། ། ཉོན་མོངས་སྟོབས་ཀྱིས་བདག་དབང་མིན། ། ཅི་ནུས་བདག་ནི་གསོ་དགོས་ཏེ། ། གནོད་པའང་བདག་གིས་དང་དུ་བླང་། །",
+  "academic_translation": "The decline of ethical discipline, view, and so forth\nis due to the power of afflictions; it is not under my control.\nI must be healed as much as possible,\nand I will accept even harm.",
+  "locked_terms": [
+   {
+    "tibetan": "ཚུལ་ཁྲིམས",
+    "use": "good conduct"
+   },
+   {
+    "tibetan": "ལྟ་བ",
+    "use": "belief"
+   },
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   }
+  ],
+  "translation": "Losing my good conduct, my belief, and other things is caused by strong troubling emotions. It is out of my control. I must be healed as much as possible, and I will even accept harm."
+ },
+ {
+  "id": "8-144",
+  "tibetan": "འོན་ཏེ་བདག་འདིའི་གསོ་བྱ་མིན། ། ཅི་ཕྱིར་བདག་ལ་བརྙས་པ་བྱེད། ། བདག་ལ་དེ་ཡི་ཡོན་ཏན་གྱིས། ། ཅི་བྱ་འདི་བདག་ཡོན་ཏན་ཅན། །",
+  "academic_translation": "However, if I am not to be healed by this one,\nwhy does he despise me?\nWhat use are his good qualities to me?\nThis one himself possesses good qualities!",
+  "locked_terms": [
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   }
+  ],
+  "translation": "But if this person will not heal me, why does he look down on me? What use are his good qualities to me? He is the one who has those good qualities!"
+ },
+ {
+  "id": "8-145",
+  "tibetan": "ངན་འགྲོ་གདུག་པའི་ཁར་གནས་པ། ། འགྲོ་ལ་སྙིང་རྗེ་མེད་པར་འདི། ། ཕྱིར་ལ་ཡོན་ཏན་རློམ་པ་ཡིས། ། མཁས་པ་དག་ལ་བདོ་བར་འདོད། །",
+  "academic_translation": "Dwelling in the jaws of vicious lower realms,\nthis one lacks compassion for wandering beings.\nMoreover, conceited about his good qualities,\nhe wishes to challenge wise persons.",
+  "locked_terms": [
+   {
+    "tibetan": "ངན་འགྲོ",
+    "use": "unhappy realm"
+   },
+   {
+    "tibetan": "སྙིང་རྗེ",
+    "use": "compassion"
+   },
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   },
+   {
+    "tibetan": "འགྲོ",
+    "use": "being"
+   },
+   {
+    "tibetan": "མཁས་པ",
+    "use": "wise person"
+   }
+  ],
+  "translation": "Standing in the jaws of cruel unhappy realms, this person has no compassion for beings. He is proud of his good qualities. He even wants to challenge wise persons."
+ },
+ {
+  "id": "8-146",
+  "tibetan": "བདག་དང་མཉམ་ལ་བལྟས་ནས་ནི། ། གང་གིས་རང་ཉིད་ལྷག་བྱའི་ཕྱིར། ། བདག་གི་རྙེད་དང་བཀུར་སྟི་ནི། ། རྩོད་པ་ཡིས་ཀྱང་ངེས་པར་བསྒྲུབ། །",
+  "academic_translation": "Looking at one equal to me,\nin order to make myself superior,\nmy gain and honor\nI shall certainly secure, even through dispute.",
+  "locked_terms": [
+   {
+    "tibetan": "རྙེད་དང་བཀུར་སྟི",
+    "use": "gain and respect"
+   }
+  ],
+  "translation": "When I look at someone equal to me, I want to make myself better than them. I will certainly get my gain and respect, even if I have to argue."
+ },
+ {
+  "id": "8-147",
+  "tibetan": "ཅི་ནས་བདག་གི་ཡོན་ཏན་ནི། ། འཇིག་རྟེན་ཀུན་ལ་གསལ་བ་དང་། ། གཞན་ཡང་འདི་ཡི་ཡོན་ཏན་གང་། ། སུས་ཀྱང་ཐོས་པར་མི་འགྱུར་བྱ། །",
+  "academic_translation": "I shall ensure that my good qualities\nAre made clear to the entire world,\nAnd furthermore, whatever good qualities this one has,\nI shall ensure that no one hears of them.",
+  "locked_terms": [
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན",
+    "use": "world"
+   }
+  ],
+  "translation": "I will make sure my good qualities are clear to the whole world. And whatever good qualities this person has, I will make sure no one hears about them."
+ },
+ {
+  "id": "8-148",
+  "tibetan": "བདག་གི་སྐྱོན་ཡང་སྦ་བྱ་ཞིང་། ། བདག་ནི་མཆོད་འགྱུར་འདི་ལ་མིན། ། བདག་དེང་རྙེད་པ་ལེགས་རྙེད་ཅིང་། ། བདག་ནི་བཀུར་འགྱུར་འདི་ལ་མིན། །",
+  "academic_translation": "I shall also conceal my faults,\nI shall be venerated, but not this one.\nToday I shall acquire excellent gains,\nI shall be respected, but not this one.",
+  "locked_terms": [],
+  "translation": "I will also hide my faults. I will be honored, but not this person. Today I will get great things. I will be respected, but not this person."
+ },
+ {
+  "id": "8-149",
+  "tibetan": "འདི་ནི་མ་རུངས་བྱས་པ་ལ། ། ཡུན་རིང་བདག་ནི་དགའ་བས་ལྟ། ། འགྲོ་བ་ཀུན་གྱི་བཞད་གད་དང་། ། ཕན་ཚུན་སྨོད་པ་དག་ཏུ་བྱ། །",
+  "academic_translation": "When this one is brought to ruin,\nI shall look on with joy for a long time.\nI shall make him the laughingstock of all wandering beings,\nAnd the object of their mutual derision.",
+  "locked_terms": [
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   }
+  ],
+  "translation": "When this person is ruined, I will gladly watch for a long time. I will make all beings laugh at them. I will make everyone make fun of them."
+ },
+ {
+  "id": "8-150",
+  "tibetan": "ཉོན་མོངས་འདི་ཡང་བདག་དང་ནི། ། ལྷན་ཅིག་ཏུ་ནི་འགྲན་ཅེས་གྲག ། འདི་དག་ཐོས་དང་ཤེས་རབ་བམ། ། གཟུགས་རིགས་ནོར་གྱིས་མཉམ་མམ་ཅི། །",
+  "academic_translation": "It is said that even this miserable one\nIs competing together with me.\nBut is this one equal in learning or wisdom,\nOr in form, family, or wealth?",
+  "locked_terms": [
+   {
+    "tibetan": "ཤེས་རབ",
+    "use": "wisdom"
+   },
+   {
+    "tibetan": "ཐོས",
+    "use": "learning"
+   },
+   {
+    "tibetan": "རིགས",
+    "use": "family"
+   }
+  ],
+  "translation": "People say that even this miserable person is competing with me. But is this person equal to me in learning or wisdom? Are they equal in looks, family, or wealth?"
+ },
+ {
+  "id": "8-151",
+  "tibetan": "དེ་ལྟར་ཀུན་ལ་བསྒྲགས་པ་ཡི། ། བདག་གི་ཡོན་ཏན་ཐོས་ནས་ནི། ། སྤུ་ལྡང་དགའ་བ་སྐྱེ་གྱུར་པའི། ། བདེ་སྐྱིད་ལ་ནི་ཡོངས་སུ་སྤྱོད། །",
+  "academic_translation": "Having heard of my good qualities\nProclaimed to everyone in this way,\nI shall fully enjoy the happiness\nOf the thrilling joy that arises.",
+  "locked_terms": [
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   }
+  ],
+  "translation": "Hearing my good qualities announced to everyone like this, I will feel a thrilling joy. I will fully enjoy this happiness."
+ },
+ {
+  "id": "8-152",
+  "tibetan": "ཅི་སྟེ་འདི་ལ་རྙེད་ཡོད་ཀྱང་། ། གལ་ཏེ་ང་ཡི་ལས་བྱེད་ན། ། འདི་ལ་འཚོ་བ་ཙམ་བྱིན་ནས། ། བདག་གི་སྟོབས་ཀྱིས་དེ་བླང་བྱ། །",
+  "academic_translation": "Even if this one acquires some gain,\nIf he does my work,\nI shall give him just enough to live on,\nAnd I shall take it by my power.",
+  "locked_terms": [],
+  "translation": "Even if this person gets something, if they do my work, I will give them just enough to live on. I will take what they got using my power."
+ },
+ {
+  "id": "8-153",
+  "tibetan": "འདི་ནི་བདེ་ལས་ཉམས་བྱ་ཞིང་། ། བདག་གི་གནོད་དང་རྟག་སྦྱར་བྱ། ། འདི་ཡིས་བརྒྱ་ཕྲག་ཐམས་ཅད་དུ། ། འཁོར་བར་བདག་ལ་གནོད་པ་བྱས། །",
+  "academic_translation": "This one shall be made to fall from happiness,\nAnd be constantly subjected to my harm;\nFor by this one, across all hundreds of lifetimes,\nHarm was done to me in saṃsāra.",
+  "locked_terms": [
+   {
+    "tibetan": "འཁོར་བ",
+    "use": "cycle of rebirth"
+   }
+  ],
+  "translation": "I will make this one lose his happiness. I will harm him all the time. He has hurt me for hundreds of lifetimes in the cycle of rebirth."
+ },
+ {
+  "id": "8-154",
+  "tibetan": "ཡིད་ཁྱོད་རང་དོན་བྱེད་འདོད་པས། ། བསྐལ་པ་གྲངས་མེད་འདས་གྱུར་ཀྱང་། ། ངལ་བ་ཆེན་པོ་དེ་ལྟ་བུར། ། ཁྱོད་ཀྱིས་སྡུག་བསྔལ་འབའ་ཞིག་བསྒྲུབས། །",
+  "academic_translation": "O mind, because you wished to accomplish your own welfare,\nEven though countless eons have passed,\nThrough such great weariness\nYou have accomplished only suffering.",
+  "locked_terms": [
+   {
+    "tibetan": "བསྐལ་པ་གྲངས་མེད",
+    "use": "countless great ages"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "ཡིད",
+    "use": "mind"
+   },
+   {
+    "tibetan": "རང་དོན",
+    "use": "own good"
+   }
+  ],
+  "translation": "O mind, you only wanted your own good. Countless great ages have passed. You worked until you were very tired, but you only got suffering."
+ },
+ {
+  "id": "8-155",
+  "tibetan": "དེ་ལྟར་ངེས་པར་གཞན་དག་གི ། དོན་ལ་རབ་ཏུ་འཇུག་གྱིས་དང་། ། ཐུབ་པའི་བཀའ་ནི་མི་སླུ་བས། ། དེ་ཡི་ཡོན་ཏན་ཕྱིས་མཐོང་འགྱུར། །",
+  "academic_translation": "Thus, you must certainly apply yourself\nThoroughly to the welfare of others;\nBecause the word of the Sage is infallible,\nYou will later see its good qualities.",
+  "locked_terms": [
+   {
+    "tibetan": "ཐུབ་པ",
+    "use": "Sage"
+   },
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   }
+  ],
+  "translation": "You must truly work hard to help others. The words of the Sage are never wrong. Later you will see the good qualities of doing this."
+ },
+ {
+  "id": "8-156",
+  "tibetan": "གལ་ཏེ་ཁྱོད་ཀྱིས་སྔ་དུས་སུ། ། ལས་འདི་བྱས་པར་གྱུར་ན་ནི། ། སངས་རྒྱས་ཕུན་སུམ་བདེ་མིན་པ། ། གནས་སྐབས་འདི་འདྲར་འགྱུར་མི་སྲིད། །",
+  "academic_translation": "If, in former times,\nyou had performed this action,\nwhat is not the perfect happiness of a Buddha—\nsuch a situation as this could not possibly occur.",
+  "locked_terms": [
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "བདེ",
+    "use": "happiness"
+   }
+  ],
+  "translation": "If you had helped others in the past, you would not be stuck like this. You would surely have the perfect happiness of a Buddha."
+ },
+ {
+  "id": "8-157",
+  "tibetan": "དེ་བས་འདི་ལྟར་གཞན་དག་གི ། ཁུ་བ་ཁྲག་གི་ཐིགས་པ་ལ། ། ཁྱོད་ཀྱིས་ངར་འཛིན་བྱས་པ་ལྟར། ། དེ་བཞིན་གཞན་ལའང་གོམས་པར་གྱིས། །",
+  "academic_translation": "Therefore, just as upon drops\nOf the semen and blood of others\nYou have engaged in grasping as \"I\",\nLikewise habituate yourself toward others too.",
+  "locked_terms": [
+   {
+    "tibetan": "ངར་འཛིན",
+    "use": "taking as \"I\""
+   }
+  ],
+  "translation": "You are used to taking as \"I\" the drops of seed and blood from others. In the same way, get used to doing this for everyone else."
+ },
+ {
+  "id": "8-158",
+  "tibetan": "གཞན་གྱི་རྟོག་ཆེན་བྱས་ནས་ནི། ། བདག་གི་ལུས་ལ་ཅི་སྣང་བ། ། དེ་དང་དེ་ཉིད་ཕྲོགས་བྱས་ནས། ། ཁྱོད་ཀྱིས་གཞན་ལ་ཕན་པ་སྤྱོད། །",
+  "academic_translation": "Having acted as a spy for others,\nWhatever appears upon my body,\nHaving snatched those very things away,\nYou must practice what is beneficial for others.",
+  "locked_terms": [
+   {
+    "tibetan": "ལུས",
+    "use": "body"
+   }
+  ],
+  "translation": "Act like a spy for other people. Watch whatever appears on my body. Snatch those things away, and practice what is good for others."
+ },
+ {
+  "id": "8-159",
+  "tibetan": "བདག་སྐྱིད་གཞན་ནི་མི་སྐྱིད་ལ། ། བདག་མཐོ་གཞན་ནི་དམའ་བ་དང་། ། བདག་ནི་ཕན་བྱེད་གཞན་མིན་ཞེས། ། བདག་ལ་ཕྲག་དོག་ཅིས་མི་བྱེད། །",
+  "academic_translation": "\"I am happy and others are unhappy,\nI am high and others are low,\nI do what is beneficial and others do not\"—\nWhy do you not feel envy toward yourself?",
+  "locked_terms": [
+   {
+    "tibetan": "ཕྲག་དོག",
+    "use": "jealousy"
+   }
+  ],
+  "translation": "\"I am happy and others are unhappy. I am high and others are low. I do good things and others do not.\" Why do you not feel jealousy toward yourself?"
+ },
+ {
+  "id": "8-160",
+  "tibetan": "བདག་ནི་བདེ་དང་བྲལ་གྱིས་ཏེ། ། གཞན་གྱི་སྡུག་བསྔལ་བདག་ལ་སྦྱོར། ། གང་ཚེ་འདི་ནི་ཅི་བྱེད་ཅེས། ། བདག་གི་སྐྱོན་ལ་བརྟག་པར་གྱིས། །",
+  "academic_translation": "Separate yourself from happiness,\nAnd apply the suffering of others to yourself.\nAsking, \"What is this one doing at any time?\"\nExamine your own faults.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "བདེ",
+    "use": "happiness"
+   }
+  ],
+  "translation": "Give up your own happiness. Take the suffering of others onto yourself. Always ask, \"What is this self doing right now?\" Look closely at your own faults."
+ },
+ {
+  "id": "8-161",
+  "tibetan": "གཞན་གྱིས་ཉེས་པ་བྱས་པ་ཡང་། ། རང་གི་སྐྱོན་དུ་བསྒྱུར་བྱོས་ལ། ། བདག་གི་ཉེས་པ་ཆུང་བྱས་ཀྱང་། ། སྐྱེ་བོ་མང་ལ་རབ་ཏུ་ཤོགས། །",
+  "academic_translation": "Even when a fault is committed by others,\nTransform it into your own fault;\nAnd even if a fault committed by yourself is small,\nConfess it fully to many people.",
+  "locked_terms": [],
+  "translation": "If others make a mistake, treat it as your own fault. But if you make even a small mistake, confess it to many people."
+ },
+ {
+  "id": "8-162",
+  "tibetan": "གཞན་གྱི་གྲགས་པ་ལྷག་བརྗོད་པས། ། རང་གི་གྲགས་པ་ཟིལ་གྱིས་ནོན། ། བདག་ནི་བྲན་གྱི་ཐ་མ་ལྟར། ། དོན་རྣམས་ཀུན་ལ་བཀོལ་བར་གྱིས། །",
+  "academic_translation": "By speaking highly of the reputation of others,\nSuppress your own reputation.\nLike the lowest of servants,\nEmploy yourself for all purposes.",
+  "locked_terms": [],
+  "translation": "Praise other people so much that you hide your own fame. Act like the lowest servant. Put yourself to work for everyone else."
+ },
+ {
+  "id": "8-163",
+  "tibetan": "འདི་ནི་སྐྱོན་ཅན་རང་བཞིན་ཏེ། ། གློ་བུར་ཡོན་ཏན་ཆས་མི་བསྟོད། ། འདི་ཡི་ཡོན་ཏན་ཅི་ནས་ཀྱང་། ། འགས་ཀྱང་མི་ཤེས་དེ་ལྟར་གྱིས། །",
+  "academic_translation": "This one is of a faulty nature,\nDo not praise it for a fraction of an adventitious good quality.\nRegarding its good qualities, by all means,\nAct so that no one at all will know them.",
+  "locked_terms": [
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   },
+   {
+    "tibetan": "གློ་བུར",
+    "use": "temporary"
+   }
+  ],
+  "translation": "This self is full of faults. Do not praise it just for having a tiny, temporary good quality. Make sure that no one at all knows about your good qualities."
+ },
+ {
+  "id": "8-164",
+  "tibetan": "མདོར་ན་བདག་གི་དོན་གྱི་ཕྱིར། ། ཁྱོད་ཀྱིས་གཞན་ལ་གནོད་བྱས་གང་། ། གནོད་དེ་སེམས་ཅན་དོན་གྱི་ཕྱིར། ། བདག་ཉིད་ལ་ནི་འབབ་པར་གྱིས། །",
+  "academic_translation": "In short, for your own sake,\nWhatever harm you have done to others,\nFor the sake of sentient beings,\nLet that harm descend upon yourself.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   }
+  ],
+  "translation": "In short, think of any harm you have ever done to others for your own sake. Now, for the sake of all living beings, let that harm fall upon yourself."
+ },
+ {
+  "id": "8-165",
+  "tibetan": "འདི་ནི་གཉའ་དྲག་འགྱུར་ཚུལ་དུ། ། ཤེད་བསྐྱེད་པར་ནི་མི་བྱ་སྟེ། ། བག་མ་གསར་པའི་ཚུལ་བཞིན་དུ། ། ངོ་ཚ་འཇིགས་དང་བསྡམས་ཏེ་བཞག །",
+  "academic_translation": "Lest it become overbearing,\nDo not foster its strength;\nJust like a new bride,\nKeep it restrained with shame and fear.",
+  "locked_terms": [],
+  "translation": "Do not let it grow strong, or it will become bossy. Keep it held back with shame and fear, just like a new bride."
+ },
+ {
+  "id": "8-166",
+  "tibetan": "དེ་བྱ་དེ་ལྟར་གནས་བྱ་ཞིང་། ། དེ་ལྟར་ཁྱོད་ཀྱིས་མི་བྱ་བ། ། དེ་ལྟར་འདི་ནི་དབང་བྱ་སྟེ། ། དེ་ལས་འདས་ན་ཚར་གཅད་བྱ། །",
+  "academic_translation": "\"Do that! Remain like that!\nYou must not act in that way!\"\nIn this manner, bring this under control;\nIf it transgresses that, it must be subdued.",
+  "locked_terms": [],
+  "translation": "Tell it, 'Do this! Stay like that! Do not act that way!' Bring it under control like this. If it breaks the rules, you must stop it."
+ },
+ {
+  "id": "8-167",
+  "tibetan": "འོན་ཏེ་དེ་ལྟར་གདམས་ཀྱང་ནི། ། སེམས་ཁྱོད་དེ་ལྟར་མི་བྱེད་ན། ། ཁྱོད་ལ་ཉེས་པ་ཀུན་བསྟེན་པས། ། ཁྱོད་ཉིད་ཚར་གཅད་བྱ་བར་ཟད། །",
+  "academic_translation": "Yet, even when instructed in that way,\nif you, my mind, do not act like that,\nsince all faults rely upon you,\nthere is nothing left but to subdue you yourself.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "Even when I tell you what to do, if you do not listen, my mind, I must defeat you. All faults come from you, so I have no other choice."
+ },
+ {
+  "id": "8-168",
+  "tibetan": "ཁྱོད་ཀྱིས་ཁོ་བོ་གར་བརླག་པའི། ། སྔོན་གྱི་དུས་དེ་གཞན་ཡིན་ཏེ། ། ངས་མཐོང་ད་ཁྱོད་གང་དུ་འགྲོ། ། ཁྱོད་ཀྱི་དྲེགས་པ་ཀུན་གཞོམ་བྱ། །",
+  "academic_translation": "That former time when you ruined me\nWas another time;\nNow I see you—where will you go?\nI shall destroy all your haughtiness.",
+  "locked_terms": [
+   {
+    "tibetan": "དྲེགས་པ",
+    "use": "feeling superior"
+   }
+  ],
+  "translation": "That past time when you ruined me is over. Now I see you. Where will you go? I will destroy all your feeling superior."
+ },
+ {
+  "id": "8-169",
+  "tibetan": "ད་དུང་བདག་ལ་རང་གི་དོན། ། ཡོད་སྙམ་སེམས་པ་དེ་དོར་ཅིག ། བདག་གིས་གཞན་ལ་ཁྱོད་བཙོང་གིས། ། སྐྱོ་བར་མ་སེམས་ཞོ་ཤ་ཕུལ། །",
+  "academic_translation": "\"I still have my own welfare\"—\nDiscard that thought!\nSince I have sold you to others,\nDo not be discouraged, offer your service.",
+  "locked_terms": [
+   {
+    "tibetan": "རང་གི་དོན",
+    "use": "own good"
+   }
+  ],
+  "translation": "Throw away the thought, 'I still have my own good!' I have sold you to others. Do not be sad. Just give them your help."
+ },
+ {
+  "id": "8-170",
+  "tibetan": "གལ་ཏེ་བག་མེད་གྱུར་ནས་ཁྱོད། ། སེམས་ཅན་རྣམས་ལ་མ་བྱིན་ན། ། ཁྱོད་ཀྱིས་ཁོ་བོ་དམྱལ་བ་ཡི། ། སྲུང་མ་རྣམས་ལ་བྱིན་དུ་ངེས། །",
+  "academic_translation": "If, falling into heedlessness,\nI do not give you to sentient beings,\nYou will certainly hand me over\nTo the guardians of hell.",
+  "locked_terms": [
+   {
+    "tibetan": "དམྱལ་བ",
+    "use": "hell"
+   },
+   {
+    "tibetan": "བག་མེད",
+    "use": "carelessness"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   }
+  ],
+  "translation": "If I fall into carelessness and do not give you to living beings, you will surely hand me over to the guards of hell."
+ }
+]

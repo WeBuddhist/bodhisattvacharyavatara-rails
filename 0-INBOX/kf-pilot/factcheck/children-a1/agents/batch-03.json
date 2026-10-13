@@ -1,0 +1,261 @@
+{
+ "batch": "batch-03",
+ "segments": [
+  {
+   "id": "2-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-48",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "In the same way, their teachings are what I go to for shelter.",
+     "evidence": "The Dharma is the one the Victors have realized; the children's text drops 'realized'.",
+     "fix": "In the same way, I go to for shelter in the teachings the Victorious Ones have realized."
+    }
+   ]
+  },
+  {
+   "id": "2-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-50",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "His actions are always perfect because of his compassion.",
+     "evidence": "'Unerring' means his conduct through compassion never goes wrong or is never mistaken, not 'perfect'.",
+     "fix": "Because of his compassion, his actions never go wrong."
+    }
+   ]
+  },
+  {
+   "id": "2-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-53",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "I broke your rules. Now I have seen great danger.",
+     "evidence": "Source says 'transgressed your commands' and 'seen great fear'; 'rules' and 'danger' shift the wording.",
+     "fix": "In the past, I went against your commands. Now I have seen great fear."
+    }
+   ]
+  },
+  {
+   "id": "2-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-55",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "Just one of these faults can destroy all the people living in Jambudvipa. No other medicine can cure them. We cannot find a cure anywhere at all.",
+     "evidence": "The verse is a hypothetical ('If even just one of them... destroys all the people... and no other medicine can be found'), leading into the next verse. The children's text states it as fact, so it claims there is no cure anywhere.",
+     "fix": "Imagine that just one of these illnesses could destroy all the people living in Jambudvipa, and no medicine to cure them could be found anywhere."
+    }
+   ]
+  },
+  {
+   "id": "2-56",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "Opens with 'In that case', completing the argument from the previous verse; the link is lost.",
+     "fix": "If that were so, then for the All-Knowing Doctor who takes away all pain, not wanting to follow his orders is extreme ignorance. Anyone who ignores him should be scolded."
+    }
+   ]
+  },
+  {
+   "id": "2-57",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "be trapped for a long time",
+     "evidence": "Source says falling into a long-lasting precipice; 'trapped' adds an idea.",
+     "fix": "We could fall a thousand leagues into a drop that lasts a very long time."
+    }
+   ]
+  },
+  {
+   "id": "2-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-5",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "blind wandering beings",
+     "evidence": "Locked rendering for འགྲོ is 'being'; 'wandering' is not part of it, and 'in blindness' describes the state they are left in.",
+     "fix": "Do not leave these beings in blindness. Please stay with us for countless great ages."
+    }
+   ]
+  },
+  {
+   "id": "3-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-14",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

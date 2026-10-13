@@ -1,0 +1,1319 @@
+{
+ "1-2": {
+  "translation": "यहाँ ऐसा कुछ भी नहीं कहा गया है जो पहले न हुआ हो,\nऔर मुझमें रचना की कोई कुशलता भी नहीं है।\nइसलिए मेरा दूसरों के हित का कोई विचार नहीं है,\nमैंने इसे अपने मन की भावना के लिए रचा है।",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "अपने मन की भावना के लिए",
+    "evidence": "Tibetan རང་གི་ཡིད་ལ་བསྒོམ་ཕྱིར ('in order to meditate/cultivate in my own mind'); bo-shenga 1-2 glosses it as རང་གི་ཡིད་ལ་བྱང་ཆུབ་ཀྱི་སེམས་བསྒོམས་ནས་གོམས་པར་བྱ་བའི་ཕྱིར (to cultivate and habituate bodhicitta in one's own mind). Hindi 'मन की भावना' can be read as 'feelings of the mind' rather than the practice of cultivation.",
+    "fix": "अपने मन में भावना (अभ्यास) करने के लिए"
+   }
+  ]
+ },
+ "1-5": {
+  "translation": "जिस प्रकार रात के घोर अन्धकार में बादलों के बीच,\nबिजली क्षण भर के लिए तीव्र प्रकाश दिखाती है;\nउसी प्रकार बुद्ध के प्रभाव से कभी-कभार ही,\nलोक में पुण्य की बुद्धि विरले ही उत्पन्न होती है।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "कभी-कभार ही",
+    "evidence": "Tibetan བརྒྱ་ལམ་ན ('once in a hundred [times]'); bo-shenga 1-5 and bo-kunpal 1-5 repeat བརྒྱ་ལམ་ན / བརྒྱ་ལན་རེ. The 'hundred' is not rendered; the line also doubles 'कभी-कभार ही' and 'विरले ही' for ཐང་འགའ།",
+    "fix": "सौ में कभी एक बार, लोक में पुण्य की बुद्धि विरले ही उत्पन्न होती है"
+   }
+  ]
+ },
+ "1-6": {
+  "translation": "इसलिए, कुशल सदैव दुर्बल ही होता है,\nजबकि पाप अत्यंत शक्तिशाली और भयंकर होते हैं;\nउस सम्बोधि के बोधिचित्त के बिना,\nअन्य कौन सा कुशल उन्हें पराजित कर सकता है?",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "उस सम्बोधि के बोधिचित्त के बिना",
+    "evidence": "Tibetan རྫོགས་པའི་བྱང་ཆུབ་སེམས་མིན་པ ('other than the bodhicitta [aimed at] perfect awakening'); the demonstrative དེ་ནི opens the line and refers back to sin in bo-kunpal 1-6, while the Hindi 'उस' attaches to the bodhicitta and the double genitive 'सम्बोधि के बोधिचित्त' is awkward.",
+    "fix": "सम्बोधि के (लिए) बोधिचित्त को छोड़कर"
+   }
+  ]
+ },
+ "1-11": {
+  "translation": "जगत् के प्राणियों के एकमात्र सार्थवाह ने असीम बुद्धि से,\nभली-भाँति परीक्षण कर इसे बहुमूल्य पाया है,\nअतः जगत् के प्राणियों के स्थानों से मुक्त होने के इच्छुक,\nबोधिचित्त रूपी रत्न को भली-भाँति दृढ़ता से धारण करें।",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "जगत् के प्राणियों के स्थानों से",
+    "evidence": "Tibetan འགྲོ་བའི་གནས; bo-shenga 1-11 reads འགྲོ་བ་ལྔའི་གནས (the abodes of the five migrations/gatis) and bo-gyaltsab 1-11 glosses འཁོར་བའི་རྒུད་པ (the lower reaches of saṃsāra). Sanskrit gatipattana. Mechanically applying the locked 'जगत् के प्राणी' yields 'places of the world's beings', hiding the sense of states of rebirth.",
+    "fix": "जगत् के प्राणियों की गतियों (गति-स्थानों) से"
+   }
+  ]
+ },
+ "1-12": {
+  "translation": "अन्य सभी कुशल कदली-वृक्ष की भाँति,\nफल उत्पन्न करने के पश्चात् नष्ट हो जाते हैं।\nपरन्तु बोधिचित्त का वृक्ष सदैव,\nफल देता है, नष्ट नहीं होता और बढ़ता जाता है。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "बढ़ता जाता है。",
+    "evidence": "The final stop is a CJK full stop (。) instead of the Devanagari danda (।) used elsewhere; Tibetan line ends འཕེལ་བར་འགྱུར།",
+    "fix": "बढ़ता जाता है।"
+   }
+  ]
+ },
+ "1-21": {
+  "translation": "'सत्त्वों की केवल शिरोपीड़ा को\nदूर करूँ', यदि ऐसा भी विचार करे,\nतो कल्याण की भावना से युक्त वह\nयदि अपरिमेय पुण्य से सम्पन्न हो जाता है,",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "तो कल्याण की भावना से युक्त वह\nयदि अपरिमेय पुण्य से सम्पन्न हो जाता है,",
+    "evidence": "The Tibetan has one protasis running across the verse: bsams na yang ... phan 'dogs bsam pa dang ldan te ... bsod nams dpag med ldan gyur na ('even if one thinks ... and, having a beneficial intention, comes to have immeasurable merit [then, 1-22: how much more...]'). The Hindi opens a 'यदि ... तो' pair and then adds a second 'यदि' in the apodosis, so the sentence reads as if 'तो' already supplied the main clause and the second 'यदि' is hard to parse. bo-shenga 1-21 glosses the same single conditional ('bsod nams dpag tu med pa dang ldan par 'gyur na').",
+    "fix": "यदि ऐसा भी विचार करे और कल्याण की भावना से युक्त होकर अपरिमेय पुण्य से सम्पन्न हो जाता है,"
+   }
+  ]
+ },
+ "1-31": {
+  "translation": "किए गए उपकार का जो प्रत्युपकार करता है,\nयदि वह भी प्रशंसा के योग्य है,\nतो बिना कहे भलाई करने वाले,\nबोधिसत्त्व के विषय में क्या कहना?",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Tibetan 'de yang re zhig bsngags 'os na' contains re zhig ('for the time being / at least'; Sanskrit tāvat 'sopi tāvat praśasyate'). bo-shenga 1-31 glosses 'de yang re zhig 'jig rten pa rnams kyis bsngags 'os na'. The Hindi 'यदि वह भी प्रशंसा के योग्य है' drops this concessive nuance (praiseworthy to a limited, worldly degree).",
+    "fix": "यदि वह भी कुछ तो प्रशंसा के योग्य है,"
+   }
+  ]
+ },
+ "1-34": {
+  "translation": "जो कोई ऐसे जिनपुत्र दानापति के प्रति,\nयदि दुर्भावना उत्पन्न करता है, तो वह,\nउत्पन्न दुर्भावनाओं की संख्या के अनुसार कल्पों तक,\nनरक में निवास करेगा, ऐसा मुनि ने कहा है।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "दानापति",
+    "evidence": "Tibetan 'sbyin bdag' (Sanskrit sattrapati / dānapati, 'donor, benefactor'; bo-shenga 'sbyin pa'i bdag po'). 'दानापति' is a misspelling of 'दानपति' and is not a standard Hindi word.",
+    "fix": "दानपति"
+   }
+  ]
+ },
+ "2-6": {
+  "translation": "मन से ग्रहण करके, पुरुषों में श्रेष्ठ मुनियों,\nतथा उनके पुत्रों को मैं भली-भाँति अर्पित करता हूँ;\nमहाकरुणा से युक्त वे परम दक्षिणीय,\nमुझ पर अनुकम्पा कर मेरे इन्हें स्वीकार करें।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "मेरे इन्हें स्वीकार करें",
+    "evidence": "Tibetan 'བདག་གི་འདི་དག་བཞེས' = 'accept these [offerings] of mine'. The Hindi 'मेरे इन्हें' is ungrammatical (possessive without a head noun, then a bare pronoun object).",
+    "fix": "मेरी इन (भेंटों) को स्वीकार करें"
+   }
+  ]
+ },
+ "2-8": {
+  "translation": "जिनों और उनके पुत्रों को मैं,\nअपना सम्पूर्ण शरीर नित्य अर्पित करता हूँ।\nहे श्रेष्ठ बोधिसत्त्वों! मुझे पूर्ण रूप से स्वीकार करें,\nश्रद्धापूर्वक मैं आपका सेवक बनूँगा।",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "श्रद्धापूर्वक",
+    "evidence": "Tibetan 'གུས་པས' means with reverence/respect (bo-shenga 2-8: 'མཆོག་ཏུ་གུས་པས'; Skt bhaktyā), not 'śraddhā' (faith, དད་པ). 'श्रद्धा' shifts the sense to faith.",
+    "fix": "आदरपूर्वक / भक्तिपूर्वक"
+   }
+  ]
+ },
+ "2-16": {
+  "translation": "उत्तम धूप की मनमोहक और सर्वत्र फैली सुगन्ध वाले,\nधूप के मेघ-समूह भी मैं उन्हें अर्पित करता हूँ।\nविभिन्न प्रकार के खाद्य और पेय पदार्थों से युक्त,\nदिव्य नैवेद्य भी मैं उन्हें अर्पित करता हूँ。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "हूँ。",
+    "evidence": "The final line ends with the CJK full stop '。' instead of the Devanagari danda '।' used in all other lines; typographical error in the Hindi.",
+    "fix": "हूँ।"
+   }
+  ]
+ },
+ "2-17": {
+  "translation": "स्वर्ण-कमलों की पंक्तियों में,\nरत्नमय दीप भी मैं अर्पित करूँगा।\nसुगन्ध से लिप्त स्वच्छ की गई भूमि पर,\nमैं मनमोहक खुले पुष्प बिखेरूँगा।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "स्वच्छ की गई भूमि",
+    "evidence": "Tibetan 'ས་གཞི་བསྟར་བ' (ground laid/spread level). bo-shenga 2-17 glosses 'ཡིད་དུ་འོང་བའི་ས་གཞི་ཁོད་མཉམ་པས་བསྟར་བ' (ground levelled/smoothed); nothing about cleaning ('स्वच्छ'). English academic: 'smoothed'.",
+    "fix": "समतल बिछाई गई भूमि"
+   }
+  ]
+ },
+ "2-18": {
+  "translation": "मनमोहक स्तुतिगीतों से युक्त अपरिमेय महल,\nमोतियों और रत्नों के लटकते आभूषणों से सुन्दर देदीप्यमान,\nजो अनन्त आकाश के आभूषण बन गए हैं, उन्हें भी,\nकरुणा-स्वरूप वालों को मैं अर्पित करूँगा।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "करुणा-स्वरूप वालों को",
+    "evidence": "Tibetan 'ཐུགས་རྗེའི་རང་བཞིན་ཅན་ལ' = 'to those whose nature is compassion'. 'स्वरूप वालों' is a redundant, awkward construction ('स्वरूप' already denotes nature).",
+    "fix": "करुणा-स्वभाव वालों को"
+   }
+  ]
+ },
+ "2-22": {
+  "translation": "जिस प्रकार मञ्जुश्री आदि,\nजिनों की पूजा करते हैं,\nउसी प्रकार मैं भी तथागतों,\nऔर सपुत्र नाथों की पूजा करता हूँ।",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "तथागतों, और सपुत्र नाथों की",
+    "evidence": "Tibetan 'de bzhin gshegs mgon po sras dang bcas rnams' has no conjunction: 'mgon po' is in apposition to 'de bzhin gshegs' (Tathagatas, the protectors, together with their sons). bo-gyaltsab 2-22: 'de bzhin gshegs pa lha mi rnams kyi mgon po sras dang bcas pa rnams' (Tathagatas, protectors of gods and humans, with their sons). The inserted 'और' suggests two groups: Tathagatas and (separately) protectors with sons.",
+    "fix": "तथागतों, सपुत्र नाथों की"
+   }
+  ]
+ },
+ "2-26": {
+  "translation": "बोधिमण्ड तक पहुँचने तक,\nमैं बुद्धों की शरण में जाता हूँ।\nधर्म और बोधिसत्त्वों के,\nसंघ की भी उसी प्रकार शरण में जाता हूँ।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "बोधिमण्ड तक पहुँचने तक",
+    "evidence": "Tibetan 'byang chub snying por mchis kyi bar' = until arriving at the essence of awakening (bodhimanda). The doubled 'तक ... तक' is awkward; the destination should take 'पर'.",
+    "fix": "बोधिमण्ड पर पहुँचने तक"
+   }
+  ]
+ },
+ "2-32": {
+  "translation": "मेरे पापों की शुद्धि हुए बिना,\nमेरी मृत्यु पहले ही हो सकती है,\nजिससे इनसे निश्चित मुक्ति मिल सके,\nकृपया शीघ्रतापूर्वक मेरी रक्षा करें।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "मेरी मृत्यु पहले ही हो सकती है",
+    "evidence": "Tibetan 'sngon du 'gum par 'gyur du mchi' states that death will occur first (I am going to die), not a mere possibility. bo-gyaltsab 2-32: 'sngon du 'gum par 'gyur du mchi zhing ngan 'gror skye bas' (will die first and be born in the lower realms); bo-kunpal 2-32 'sngon du 'gum par 'gyur du mchi zhes 'chi bar 'gyur la'. 'हो सकती है' weakens this to possibility.",
+    "fix": "मैं (उसके) पहले ही मर जाऊँगा / मेरी मृत्यु पहले ही हो जाएगी"
+   }
+  ]
+ },
+ "2-38": {
+  "translation": "इस प्रकार मैं क्षणभङ्गुर हूँ,\nयह मैंने नहीं समझा;\nअज्ञान, आसक्ति और द्वेष के कारण,\nमैंने अनेक प्रकार के पाप किए।",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "क्षणभङ्गुर",
+    "evidence": "Tibetan 'glo bur' (Skt. agantuka) means sudden/adventitious, a transient visitor whose time of death is uncertain. bo-kunpal 2-38 glosses 'glo bur ba' as like a guest/traveller who comes and goes without notice and dies quickly; bo-gyaltsab 2-38: 'nam 'chi nges pa med pa tshe yud tsam gyis glo bur ba'. 'क्षणभङ्गुर' carries the technical Buddhist sense of momentariness (ksanika), which is not what is said here.",
+    "fix": "आगन्तुक (अचानक चले जाने वाला)"
+   }
+  ]
+ },
+ "2-50": {
+  "translation": "करुणा से जिनका आचरण अमोघ है,\nउन नाथ अवलोकितेश्वर को भी,\nमैं आर्त स्वर से पुकारता हूँ:\nमुझ पापी की रक्षा करें!",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "अमोघ",
+    "evidence": "Tibetan ཐུགས་རྗེས་སྤྱོད་པ་མ་འཁྲུལ་བ means conduct that is 'unmistaken/unerring' (མ་འཁྲུལ་བ); bo-kunpal 2-50 glosses it as མི་འགལ་བར་མཛད་པ (acting without contradiction). 'अमोघ' means 'never in vain/infallible in effect', a different notion from 'not mistaken'.",
+    "fix": "करुणा से जिनका आचरण अभ्रान्त (निर्भ्रान्त) है"
+   }
+  ]
+ },
+ "3-11": {
+  "translation": "सब कुछ त्यागने से निर्वाण प्राप्त होता है,\nऔर मेरा मन निर्वाण सिद्ध करना चाहता है;\nचूँकि एक साथ सब कुछ त्यागना ही है,\nअतः सत्त्वों को दे देना ही श्रेष्ठ है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "चूँकि एक साथ सब कुछ त्यागना ही है",
+    "evidence": "Tibetan ཐམས་ཅད་གཏོང་བར་ཆབས་གཅིག་ལ། means 'since giving up everything is the same (in any case)'; bo-gyaltsab glosses ཆབས་ཅིག་པ as གཏོང་བར་འདྲ་བ ('alike/the same in having to give up'). 'एक साथ' (simultaneously) shifts the sense toward timing rather than 'in either case'; english_academic has 'all the same'.",
+    "fix": "चूँकि सब कुछ तो त्यागना ही है (किसी भी स्थिति में समान रूप से),"
+   }
+  ]
+ },
+ "3-26": {
+  "translation": "अब मैं हर सम्भव प्रयास से,\nकुल के अनुकूल कर्म करूँगा,\nजिससे इस निर्दोष और पवित्र कुल पर,\nकलंक न लगे, मैं ऐसा ही आचरण करूँगा।",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "पवित्र",
+    "evidence": "Tibetan 'སྐྱོན་མེད་བཙུན་པའི་རིགས་' (Skt nirmala kula): bcun pa means 'noble/venerable/respected'; Gyaltsab 3-26 glosses it as adorned by qualities alone and hence venerable (ཡོན་ཏན་འབའ་ཞིག་གིས་བརྒྱན་པས་བཙུན་པ). 'पवित्र' (sacred/pure) shifts the sense toward ritual purity and doubles 'निर्दोष'; english_academic has 'noble'.",
+    "fix": "निर्दोष और आदरणीय"
+   }
+  ]
+ },
+ "3-a": {
+  "translation": "बोधिसत्त्वचर्यावतार से, 'बोधिचित्त परिग्रह' नामक तीसरा अध्याय।",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "बोधिचित्त परिग्रह",
+    "evidence": "Tibetan 'བྱང་ཆུབ་ཀྱི་སེམས་ཡོངས་སུ་བཟུང་བ་' = fully taking hold of/adopting bodhicitta (an action). Bare 'परिग्रह' in Hindi usually means possession/hoarding, so the title can be misread; a verbal noun conveys the sense.",
+    "fix": "'बोधिचित्त का परिग्रहण (पूर्ण रूप से ग्रहण)'"
+   }
+  ]
+ },
+ "4-7": {
+  "translation": "जो व्यक्ति बोधिचित्त त्याग दें, फिर भी,\nवे जो मुक्ति प्राप्त करते हैं,\nयह कर्म की अचिन्त्य रीति है,\nजिसे केवल सर्वज्ञ ही जानते हैं।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "वे जो मुक्ति प्राप्त करते हैं",
+    "evidence": "Tibetan 'དེ་དག་ཐར་བར་བྱེད་པ' (bo-gyaltsab: 'དེ་དག་ཐར་བ་ཐོབ་པར་མཛད་པ') is causative; Sanskrit 'मोचयत्येवं तां नरान्' means they liberate people. bo-shenga 4-7: 'རང་གི་གདུལ་བྱར་གྱུར་པའི་སེམས་ཅན་དེ་དག་ཐར་བར་མཛད་པ' (they bring those beings to liberation); bo-kunpal 4-7 says they themselves attain liberation and also liberate others ('གཞན་དག་ཀྱང་ཐར་པར་མཛད་པ'). The Hindi only says 'they attain liberation', dropping the causative reading.",
+    "fix": "वे (उन्हें) जो मुक्त कराते हैं / स्वयं मुक्ति पाकर दूसरों को भी मुक्त कराते हैं"
+   }
+  ]
+ },
+ "4-10": {
+  "translation": "एक सत्त्व के सुख को भी,\nनष्ट करने पर यदि अपना पतन होता है,\nतो सम्पूर्ण अनन्त आकाश तक व्याप्त,\nदेहधारियों के सुख को नष्ट करने के विषय में क्या कहना!",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "अपना पतन होता है",
+    "evidence": "'पतन' is the locked rendering of 'ལྟུང་བ' (downfall/āpatti), but here the Tibetan is 'བདག་ཉིད་ཉམས་འགྱུར' (ཉམས = decline, loss). bo-gyaltsab 4-10: 'བདག་ཉིད་མཐོ་རིས་ལས་ཉམས' (I fall away from the higher realms); bo-kunpal: 'མངོན་མཐོའི་བདེ་བ་ལས་ཉམས'. Using the technical term पतन risks reading it as a root downfall.",
+    "fix": "अपना ह्रास (उच्च गति/सुख से च्युति) होता है"
+   }
+  ]
+ },
+ "4-18": {
+  "translation": "जब कुशल आचरण का सौभाग्य होने पर भी,\nयदि मैंने कुशल नहीं किया,\nतो दुर्गति के दुःख से पूर्णतः मूढ़ होकर,\nउस समय मैं क्या कर सकूँगा?",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "जब कुशल आचरण का सौभाग्य होने पर भी,",
+    "evidence": "Tibetan 'གང་ཚེ་དགེ་སྤྱད་སྐལ་ལྡན་ཡང་། དགེ་བ་བདག་གིས་མ་བྱས་ན།' = 'when, though fortunate to practise virtue, I do not do virtue'. The Hindi clause 'जब ... होने पर भी' has no finite verb and doubles the temporal and concessive markers, making the sentence hard to parse; 'मैंने ... नहीं किया' also turns the conditional 'མ་བྱས་ན' into a past fact.",
+    "fix": "जब कुशल आचरण का सौभाग्य प्राप्त होने पर भी मैं कुशल कर्म न करूँ"
+   }
+  ]
+ },
+ "4-36": {
+  "translation": "इस प्रकार जब तक मैं इस शत्रु को साक्षात्\nनिश्चित रूप से नष्ट नहीं कर देता, तब तक मैं यहाँ प्रयास नहीं छोड़ूँगा।\nतनिक सी हानि पहुँचाने वाले पर भी क्रोधित हुए,\nअत्यन्त मान वाले जन, उसे नष्ट किए बिना नहीं सोते हैं।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Tibetan 'རེ་ཞིག་གནོད་བྱེད་ཆུང་ངུ་ལ་ཡང་ཁྲོས་གྱུར་པ' opens the illustrative example with 'རེ་ཞིག' ('for instance / in the world'); bo-kunpal 4-36 glosses it 'དཔེར་ན་རེ་ཞིག་', bo-gyaltsab 4-36 'རེ་ཞིག་འཇིག་རྟེན་དུ'. The Hindi drops it, so the example (lines 3-4) is not signalled as an analogy for the effort against the afflictions.",
+    "fix": "उदाहरणार्थ, तनिक सी हानि पहुँचाने वाले पर भी क्रोधित हुए,"
+   }
+  ]
+ },
+ "4-37": {
+  "translation": "स्वाभाविक मृत्यु से दुःख को प्राप्त उन क्लेशित जनों को,\nरणभूमि में पंक्तिबद्ध होने पर बलपूर्वक नष्ट करना चाहने वाले भी,\nबाण, भाले और शस्त्रों की चोट के दुःख की उपेक्षा करके,\nलक्ष्य सिद्ध किए बिना यदि पीछे मुड़कर नहीं भागते हैं,",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "उन क्लेशित जनों को",
+    "evidence": "'ཉོན་མོངས་དག' here refers to the enemies (the 'wretched' foe on the battlefield): bo-kunpal 4-37 'དགྲ་བོ་ཐ་མལ་པ་ཉོན་མོངས་པ་ཞེས་སྨད་པའི་ཚིག … ཉམས་ཐག་ཅིང་སྙིང་རྗེ་བའི་གནས་སུ་གྱུར་པའི་དགྲ་བོ', bo-shenga 4-37 'ཉོན་མོངས་ཏེ་སྙིང་རྗེའི་གནས་སུ་གྱུར་པ'. 'क्लेशित जनों' (afflicted persons) loses 'enemy' and the sense of pitiable foes.",
+    "fix": "उन दयनीय शत्रुओं को, जो स्वभावतः मृत्यु से पीड़ित हैं,"
+   }
+  ]
+ },
+ "4-38": {
+  "translation": "निरन्तर समस्त दुःखों का कारण बने हुए,\nनिश्चित स्वाभाविक शत्रुओं को नष्ट करने के लिए प्रयासरत मुझे आज,\nसैकड़ों दुःखों का कारण बनने वाले किसी भी कष्ट से,\nहताश और निरुत्साहित नहीं होना चाहिए, यह कहने की क्या आवश्यकता है?",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "हताश और निरुत्साहित नहीं होना चाहिए, यह कहने की क्या आवश्यकता है?",
+    "evidence": "'ཡི་ཆད་སྒྱིད་ལུག་མི་འགྱུར་སྨོས་ཅི་དགོས' states a fact ('will not become despondent and lazy; needless to say'), as in bo-shenga 4-38 'སྒྱིད་ལུག་པར་མི་འགྱུར་བར་སྨོས་ཅི་དགོས' and bo-kunpal 4-38. The Hindi turns it into an injunction ('should not') and attaches the 'needless to say' clause awkwardly to it.",
+    "fix": "हताश और निरुत्साहित नहीं होऊँगा, इसमें कहना ही क्या है?"
+   }
+  ]
+ },
+ "4-43": {
+  "translation": "इसके प्रति मुझे आसक्त होना चाहिए,\nऔर वैर धारण कर युद्ध करना चाहिए;\nइस प्रकार के क्लेश,\nक्लेशों का नाश करने वाले होने के कारण अपवाद हैं।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "अपवाद हैं",
+    "evidence": "Tibetan 'ཉོན་མོངས་འཇོམས་བྱེད་མ་གཏོགས་སོ' with Sanskrit 'anyatra tadvidhāt kleśāt' and Gyaltsab 4-43 ('སྤང་བྱར་མ་གཏོགས་སོ') say such afflictions are excepted from what is to be abandoned (spang bya); the Hindi 'अपवाद हैं' does not say excepted from what, so the object of the exception is lost.",
+    "fix": "त्यागने योग्य (क्लेशों) से अपवाद हैं"
+   }
+  ]
+ },
+ "5-4": {
+  "translation": "बाघ, सिंह, हाथी, भालू,\nसर्प और सभी शत्रु,\nनरकपाल और,\nअभिचारक तथा उसी प्रकार राक्षस—",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "अभिचारक",
+    "evidence": "Tibetan 'བྱད་མ' (Sanskrit ḍākinyaḥ; bo-kunpal 5-4 and bo-gyaltsab 5-5 'བྱད་མ་མཁའ་འགྲོ་མ') names female malevolent beings (witches/ḍākinīs), not a practitioner of sorcery; 'अभिचारक' is a masculine human sorcerer.",
+    "fix": "डाकिनियाँ"
+   }
+  ]
+ },
+ "5-17": {
+  "translation": "जो धर्म के परम श्रेष्ठ,\nचित्त के इस रहस्य को नहीं जानते,\nसुख पाने और दुःख नष्ट करने की इच्छा होने पर भी,\nवे निरर्थक और व्यर्थ ही भटकते हैं।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "धर्म के परम श्रेष्ठ, चित्त के इस रहस्य को",
+    "evidence": "Tibetan ཆོས་ཀྱི་གཙོ་བོ་མཆོག (Sanskrit dharmasarvasvaṃ) is a noun phrase 'the supreme chief/essence of the Dharma', in apposition to སེམས་ཀྱི་གསང་ 'secret of the mind' (bo-gyaltsab 5-17: ཆོས་ཀྱི་གཙོ་བོའམ་དོན་པོ་མཆོག). The Hindi 'परम श्रेष्ठ' is left as bare adjectives with no head noun, so the appositive is hard to parse.",
+    "fix": "धर्म के परम सार, चित्त के इस रहस्य को"
+   }
+  ]
+ },
+ "5-22": {
+  "translation": "मेरा लाभ और सत्कार,\nतथा शरीर और आजीविका भले ही न रहें,\nअन्य कुशल भी भले ही नष्ट हो जाएँ,\nकिन्तु चित्त कभी नष्ट न करें।",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "किन्तु चित्त कभी नष्ट न करें",
+    "evidence": "Tibetan སེམས་ནི་ནམས་ཀྱང་ཉམས་མི་བྱ is the speaker's own resolve (Sanskrit mā tu cittaṃ kadācana; bo-kunpal 5-22 'རང་གི་སེམས་བསྲུང་བའི་བརྟུལ་ཞུགས ... ཉམས་པར་མི་བྱ'). The Hindi imperative 'न करें' has no stated agent and reads as a general command to others rather than 'I must never let my mind decline'.",
+    "fix": "किन्तु मैं चित्त को कभी नष्ट न होने दूँ"
+   }
+  ]
+ },
+ "5-32": {
+  "translation": "ऐसा विचार करके, लज्जा,\nआदर और भय से युक्त हो, उसी प्रकार रहे।\nइससे बुद्धानुस्मृति भी,\nउसमें बार-बार उत्पन्न होती है।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "उसी प्रकार रहे",
+    "evidence": "Tibetan དེ་བཞིན་གནོས (mནོས) = 'take it on / undertake it thus'; bo-kunpal 5-32 and bo-gyaltsab 5-32 read དེ་བཞིན་དུ་མནོས་ཏེ་གནས་པར་གྱིས་ཤིག 'having taken it on, remain'. The Hindi gives only 'remain' and drops the undertaking.",
+    "fix": "उसी प्रकार ग्रहण कर (धारण कर) स्थित रहे"
+   }
+  ]
+ },
+ "5-42": {
+  "translation": "भय और उत्सव आदि के प्रसंग में,\nयदि समर्थ न हो, तो सुविधानुसार आचरण करना चाहिए;\nइसी प्रकार दान के समय में,\nशील के प्रति समभाव रखने को कहा गया है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "इसी प्रकार दान के समय में",
+    "evidence": "འདི་ལྟར་ (Skt यस्मात् 'since') introduces the reason for the preceding permission to act at ease (bo-shenga 5-42: འདི་ལྟར་སྦྱིན་པ་བྱེད་པའི་དུས་དག་ཏུ... 'because at times of giving, minor ethical trainings may be left in equanimity'; bo-kunpal 5-42 དེ་ཡང་འདི་ལྟར). 'इसी प्रकार' (likewise) makes it a parallel example rather than the justification.",
+    "fix": "क्योंकि दान के समय में"
+   }
+  ]
+ },
+ "5-61": {
+  "translation": "हे मोह-ग्रस्त मनस्! तुम किसलिए,\nपवित्र काष्ठ-मूर्ति को ग्रहण नहीं करते?\nअशुचि के समूह रूपी इस यन्त्र की,\nसड़ते हुए की रक्षा करके क्या लाभ?",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "सड़ते हुए की रक्षा करके क्या लाभ?",
+    "evidence": "Tibetan 'རུལ་བ་བསྲུངས་ཏེ་ཅི་ཞིག་རུང་' ('rul ba' = rotten, putrid thing; Sanskrit pūtikam) takes 'rul ba' as the object of guarding. The Hindi 'इस यन्त्र की, सड़ते हुए की रक्षा करके' has two stacked genitive objects and a progressive participle, which is awkward and slightly shifts 'rotten' to 'rotting'.",
+    "fix": "इस सड़ी हुई वस्तु की रक्षा करके क्या लाभ?"
+   }
+  ]
+ },
+ "5-79": {
+  "translation": "बोलते समय सुखद और सुसंबद्ध,\nअर्थ-स्पष्ट और मनोहारी,\nआसक्ति और द्वेष को त्याग कर,\nमधुर और परिमित बोलना चाहिए।",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "सुखद",
+    "evidence": "Tibetan 'ཡིད་ཕེབས' (Sanskrit viśvasta) is glossed by bo-gyaltsab 5-79 as 'སྙིང་ཐག་པ་ནས་ཡིད་ཕེབས་པ' (heartfelt, winning trust) and by bo-kunpal as speech that accords with the listener's inclination; 'pleasant' is the separate item 'ཡིད་དུ་འོང་བ' already rendered 'मनोहारी', so 'सुखद' duplicates it and loses the sense of sincerity/trust.",
+    "fix": "हार्दिक और विश्वास जगाने वाला"
+   }
+  ]
+ },
+ "5-84": {
+  "translation": "ऐसा जानकर परहित में,\nसदैव प्रयत्नशील रहना चाहिए。\nदूरदर्शी करुणामय ने,\nउसके लिए निषिद्ध कर्मों की भी अनुमति दी है।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "चाहिए。",
+    "evidence": "Line 2 of the Hindi ends with an ideographic full stop (U+3002) instead of a danda or Latin full stop; a typographic error, meaning unaffected.",
+    "fix": "चाहिए,"
+   }
+  ]
+ },
+ "5-87": {
+  "translation": "करुणा का आशय अशुद्ध होने पर,\nइस शरीर का त्याग नहीं करना चाहिए।\nकिन्तु इस और अन्य में भी,\nमहान अर्थ सिद्ध करने के हेतु रूप में इसे त्यागें।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "इस और अन्य में भी",
+    "evidence": "Tibetan 'འདི་དང་གཞན་དུ་ཡང་' means 'in this and other (worlds/lives)'; bo-gyaltsab 5-87 explains 'ཚེ་རབས་འདི་དང་གཞན་དུ་ཡང་' and bo-kunpal 'འཇིག་རྟེན་འདི་དང་འཇིག་རྟེན་གཞན་དུ་ཡང་'. The Hindi leaves 'अन्य' without its noun, so it reads as an unspecified 'other'.",
+    "fix": "इस लोक और अन्य लोकों में भी"
+   }
+  ]
+ },
+ "5-97": {
+  "translation": "बोधिसत्त्वचर्याएँ जो\nअपरिमित कही गई हैं,\nउनमें से चित्त-शोधन की चर्या का\nनिश्चित रूप से तब तक आचरण करना चाहिए।",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "निश्चित रूप से तब तक आचरण करना चाहिए",
+    "evidence": "Tibetan 'ངེས་པར་དེ་སྲིད་སྤྱད་པར་བྱ' leaves the limit implicit; bo-gyaltsab 5-97 glosses it as 'until one is able to practise all the conduct' (སྤྱོད་པ་མཐའ་དག་ཉམས་སུ་ལེན་ནུས་པ་དེ་སྲིད་), and english_academic makes this explicit. The Hindi 'तब तक' has no antecedent and leaves the limit undefined.",
+    "fix": "जब तक समस्त (चर्याओं का) आचरण करना सम्भव न हो, तब तक निश्चित रूप से आचरण करना चाहिए"
+   }
+  ]
+ },
+ "5-99": {
+  "translation": "स्ववश हो या परवश,\nजिस भी अवस्था में जो भी आचरण करे,\nजो भी शिक्षा के रूप में कहा गया है,\nउस अवस्था में प्रयत्न करके अभ्यास करे।",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "अभ्यास करे",
+    "evidence": "The final 'བསླབ' (train) is the same locked term བསླབ་པ (शिक्षा) as in 'བསླབ་པར་གསུངས་པ'; the Hindi renders the first with शिक्षा but the verb with 'अभ्यास करना', so the repeated training/शिक्षा link of the verse is lost (bo-shenga 5-99: 'འབད་དེ་བསླབ་བོ').",
+    "fix": "प्रयत्नपूर्वक शिक्षा ग्रहण करे"
+   }
+  ]
+ },
+ "6-6": {
+  "translation": "क्रोध रूपी शत्रु उन आदि\nदुःखों को उत्पन्न करता है।\nजो यत्न करके क्रोध को नष्ट करता है,\nवह इस लोक और परलोक में सुखी होता है।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "उन आदि दुःखों को",
+    "evidence": "Tibetan 'དེ་ལ་སོགས། སྡུག་བསྔལ་དག' means 'these and other such sufferings' (referring back to the sufferings just described); 'उन आदि' is awkward and hard to parse in Hindi.",
+    "fix": "इन तथा ऐसे अन्य दुःखों को"
+   }
+  ]
+ },
+ "6-13": {
+  "translation": "दुर्गा के भक्त और कर्णप\nजलने और कटने आदि की वेदनाओं को\nव्यर्थ ही सहन करते हैं, तो मुक्ति के\nलिए मैं क्यों कातर होता हूँ?",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "मैं क्यों कातर होता हूँ?",
+    "evidence": "Tibetan 'བདག་གོ་ཅི་ཕྱིར་སྔར' has no word for 'timid'; 'कातर' follows Sanskrit 'kātaraḥ'. bo-kunpal 6-13 glosses 'བདག་གིས་ཅི་ཡིས་ཕྱིར་སྔར་ཏེ་སྔར་མི་རིགས་སོ' and bo-gyaltsab 6-13 'བདག་ཅི་ཞིག་བསྟར་ཏེ་བཟོད་པར་རིགས་སོ', i.e. the point is that I should rightly endure it for liberation (english_academic: 'Why should I not endure it?').",
+    "fix": "तो मुक्ति के लिए मैं (पहले ही) क्यों न सहूँ?"
+   }
+  ]
+ },
+ "6-17": {
+  "translation": "कुछ लोग अपना रक्त देखने पर,\nऔर अधिक शूरवीर व दृढ हो जाते हैं।\nकुछ लोग दूसरों का रक्त देखने पर,\nमूर्छित और अचेत हो जाते हैं。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "हो जाते हैं。",
+    "evidence": "The final line ends with the CJK full stop '。' instead of the Devanagari danda '।' used in every other line; a typographic slip, meaning intact.",
+    "fix": "मूर्छित और अचेत हो जाते हैं।"
+   }
+  ]
+ },
+ "6-24": {
+  "translation": "'मैं क्रोध करूँगा' ऐसा न सोचने पर भी,\nलोग अनायास ही क्रोध करते हैं,\n'उत्पन्न करूँगा' ऐसा न सोचने पर भी,\nउसी प्रकार क्रोध उत्पन्न हो जाता है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "अनायास ही",
+    "evidence": "Tibetan \"གྱི་ནར་\" (Kunpal 6-24: \"རྐྱེན་ཕལ་པ་ཙམ་ལ་བརྟེན་ནས\" ; Shenga 6-24: \"རྐྱེན་ཇི་ནར་ཙམ་གྱིས\") means people get angry through merely the slightest/ordinary condition; \"अनायास\" (effortlessly/spontaneously) drops the dependence on a condition, the very point of the verse.",
+    "fix": "लोग साधारण-से प्रत्यय मात्र से ही क्रोध करने लगते हैं"
+   }
+  ]
+ },
+ "6-30": {
+  "translation": "कार्य करते समय भी यदि वह पूर्ववत् रहे,\nतो कार्य ने उसका क्या किया?\n'इसकी यह क्रिया है' ऐसा कहने के लिए,\nकौन-सा सम्बन्ध हो सकता है?",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "कार्य ने उसका क्या किया",
+    "evidence": "Tibetan \"བྱེད་པ\" here is the action/function (Skt kriyā; Kunpal 6-30 \"རྐྱེན་གྱི་བྱེད་པ\"), rendered \"क्रिया\" in line 4 of the same verse; \"कार्य\" in Hindi philosophical usage means the effect (kārya) and misleads, and it is inconsistent within the verse.",
+    "fix": "क्रिया ने उसका क्या किया"
+   }
+  ]
+ },
+ "6-31": {
+  "translation": "इस प्रकार सब कुछ दूसरों के अधीन है,\nऔर उस अधीनता के कारण वह अस्वतन्त्र है,\nऐसा जानकर निर्मित माया के समान,\nसभी वस्तुओं पर क्रोध नहीं करना चाहिए।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "क्रोध नहीं करना चाहिए",
+    "evidence": "Tibetan \"ཁྲོ་མི་འགྱུར\" is a statement (\"one will not become angry\"), not an injunction; Shenga 6-31 also has \"ཁྲོ་མི་འགྱུར་རོ\".",
+    "fix": "क्रोध नहीं होगा"
+   },
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "निर्मित माया के समान",
+    "evidence": "Tibetan has a single image of emanation (Skt nirmāṇavat); Kunpal 6-31 lists \"སྒྱུ་མ་རྨི་ལམ་སྤྲུལ་པ\" as separate items, so \"माया\" (illusion) is an addition that conflates illusion with emanation.",
+    "fix": "निर्मित (निर्माण-रूप) आकृतियों के समान"
+   }
+  ]
+ },
+ "6-35": {
+  "translation": "प्रमाद से वे स्वयं को भी,\nकाँटे आदि से हानि पहुँचाते हैं,\nस्त्री आदि को प्राप्त करने के लिए,\nआसक्त होकर अनशन आदि करते हैं।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "आसक्त होकर",
+    "evidence": "Tibetan \"རྔམ་ཞིང་\" means being fierce/vehement; Kunpal 6-35 has \"རྔམ་ཞིང་ཆགས་ནས\" (both vehement and attached), Shenga \"བརྣབ་སེམས་ཀྱིས་རྔམ་ཞིང\". \"आसक्त\" covers only attachment, not vehemence.",
+    "fix": "उग्र एवं आसक्त होकर"
+   }
+  ]
+ },
+ "6-36": {
+  "translation": "कुछ लोग फाँसी लगाते हैं और खाइयों में कूदते हैं,\nविष और अपथ्य खाते हैं,\nऔर अपुण्य-आचरण के द्वारा,\nस्वयं को हानि पहुँचाते हैं।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "खाइयों में कूदते हैं",
+    "evidence": "Tibetan \"གཡང་ས\" is a precipice/cliff (Shenga 6-36: \"རི་ལ་སོགས་པའི་གཡང་ས\"; Kunpal \"བྲག་ལ་སོགས་པའི་གཡང་ས\"; Skt prapāta), not a trench/ditch.",
+    "fix": "पर्वत-कगार (प्रपात) से कूदते हैं"
+   }
+  ]
+ },
+ "6-40": {
+  "translation": "अथवा यदि यह दोष आगन्तुक हो,\nऔर सत्त्वों का स्वभाव भद्र हो,\nतब भी क्रोध करना अनुचित है,\nजैसे आकाश में धुआँ छाने पर रोष करना।",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "आकाश में धुआँ छाने पर रोष करना",
+    "evidence": "Tibetan \"མཁའ་ལ་དུད་འཐུལ་དཀོན་པ\" : one resents the sky when smoke fills it (Kunpal 6-40: \"དུ་བ་ལ་མི་ཁྲོ་བར་ནམ་མཁའ་ལ་ཁྲོ་བ\"); the Hindi does not say the anger is directed at the sky.",
+    "fix": "आकाश में धुआँ छाने पर आकाश पर ही रोष करने के समान"
+   }
+  ]
+ },
+ "6-41": {
+  "translation": "डंडे आदि का साक्षात् प्रयोग होने पर,\nयदि प्रहार करने वाले पर क्रोध करते हो,\nतो वह भी द्वेष द्वारा प्रेरित है,\nइसलिए द्वेष पर ही क्रोध करना उचित है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "इसलिए द्वेष पर ही क्रोध करना उचित है",
+    "evidence": "Tibetan \"ཉིས་ན་\" is the second alternative, \"in the second case\" (Shenga 6-41: \"གཅིག་ཏུ་དབྱུག་པ་སོགས་དང་ཉེས་ན་སྟེ་གཉིས་སུ་ན་ཞེ་སྡང་ལ་ཁྲོ་བར་རིགས\"): first the sticks, secondly hatred. \"इसलिए ... ही\" turns it into an inference and exclusion.",
+    "fix": "दूसरे पक्ष में, द्वेष पर क्रोध करना उचित है"
+   }
+  ]
+ },
+ "6-66": {
+  "translation": "यदि देहधारियों को सचेतन प्राणी और\nअचेतन दोनों हानि पहुँचाते हैं,\nतो चित्त वाले सचेतन प्राणी पर ही विशेष रूप से क्रोध क्यों?\nइसलिए हानि के प्रति क्षान्ति करो।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "हानि के प्रति क्षान्ति करो",
+    "evidence": "Tibetan བཟོད་པར་གྱིས (bo-gyaltsab 6-66: གནོད་པ་བཟོད་པར་གྱིས་ཤིག) is 'practise patience/bear harm'; 'क्षान्ति करो' is not idiomatic Hindi (क्षान्ति is held/practised, 'रखो'/'धारण करो'). Also 'चित्त वाले सचेतन प्राणी' doubles the idea of སེམས་ཡོད (locked: सचेतन प्राणी).",
+    "fix": "इसलिए हानि के प्रति क्षान्ति रखो।"
+   }
+  ]
+ },
+ "6-74": {
+  "translation": "काम के लिए जलने आदि,\nनरक में हज़ारों बार भोगे हैं,\nफिर भी मैंने स्वहित और,\nपरहित भी नहीं किया।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "काम के लिए जलने आदि,\nनरक में हज़ारों बार भोगे हैं",
+    "evidence": "Tibetan འདོད་པའི་དོན་དུ་སྲེག་ལ་སོགས། དམྱལ་བར་སྟོང་ཕྲག་མྱོང་གྱུར་ཡང་ has an implicit 'I' who experienced the burning etc. (bo-gyaltsab 6-74: བདག་གིས་...དམྱལ་བར་སྡུག་བསྔལ་...མྱོང་བར་གྱུར་ཀྱང་). The Hindi has no subject or clear object, and the plural 'भोगे हैं' does not agree with the bare gerund 'जलने आदि', so the clause is hard to parse.",
+    "fix": "काम के लिए नरक में हज़ारों बार जलने आदि के दुःख मैंने भोगे हैं,"
+   }
+  ]
+ },
+ "6-87": {
+  "translation": "यदि कोई शत्रु अप्रसन्न भी हो,\nतो उसमें तुम्हारे प्रसन्न होने को क्या है?\nकेवल तुम्हारी इच्छा मात्र से,\nउसे हानि पहुँचाने का कारण नहीं बनेगा।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "केवल तुम्हारी इच्छा मात्र से, उसे हानि पहुँचाने का कारण नहीं बनेगा।",
+    "evidence": "Tibetan 'ཁྱོད་ཀྱི་ཡིད་སྨོན་ཙམ་གྱིས་ནི། དེ་ལ་གནོད་པའི་རྒྱུར་མི་འགྱུར།': the subject (the wish) becomes the cause of harm; Gyaltsab 6-87: 'ཡིད་སྨོན་ཙམ་གྱིས་ནི་དགྲ་དེ་ལ་གནོད་པའི་རྒྱུར་མི་འགྱུར'. In the Hindi the instrumental 'इच्छा मात्र से' leaves the clause without a clear subject (reads as if the enemy will not become a cause), and 'केवल ... मात्र' is redundant.",
+    "fix": "तुम्हारी मात्र इच्छा उसे हानि पहुँचाने का कारण नहीं बनेगी।"
+   }
+  ]
+ },
+ "6-88": {
+  "translation": "तुम्हारी इच्छा से यदि वह दुःख,\nसिद्ध भी हो जाए, तो उसमें तुम्हारे प्रसन्न होने को क्या है?\nयदि कहो कि \"मुझे संतुष्टि मिलेगी,\"\nतो उससे अधिक विनाशकारी और क्या है?",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "उसमें तुम्हारे प्रसन्न होने को क्या है?",
+    "evidence": "Tibetan 'ཁྱོད་དགར་ཅི་ཞིག་ཡོད' (Shenga: 'དེ་ལ་ཁྱོད་དགའ་བ་ཅི་ཞིག་ཡོད') means 'what is there for you to rejoice in'; the Hindi 'प्रसन्न होने को क्या है' is a calque and is not idiomatic/grammatical Hindi.",
+    "fix": "उसमें तुम्हारे प्रसन्न होने की क्या बात है?"
+   }
+  ]
+ },
+ "6-89": {
+  "translation": "क्लेश रूपी मछुआरे द्वारा डाला गया,\nयह काँटा अत्यंत भयानक है;\nउसमें फँसकर, नरक के कुण्डों में भी,\nनरकपाल मुझे निश्चित ही पकाएँगे।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "अत्यंत भयानक",
+    "evidence": "Tibetan 'མི་བཟད་གཟེ' has two qualities, unbearable (མི་བཟད) and fierce/terrible (གཟེ); Shenga 6-89 glosses 'མི་བཟད་པར་གཟེ་བ' and Kunpal 'མི་བཟད་པ་གཟེ་བའམ་རྣོ་བ'. The Hindi renders only one quality ('भयानक') with an intensifier.",
+    "fix": "असह्य और भयंकर"
+   }
+  ]
+ },
+ "6-114": {
+  "translation": "आशय के गुण से स्वयं नहीं। फल से है, उसी के समान। सत्त्वों में भी गुण हैं। इसलिए वे समान हैं॥",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "आशय के गुण से स्वयं नहीं। फल से है, उसी के समान।",
+    "evidence": "Tibetan 'བསམ་པའི་ཡོན་ཏན་རང་གིས་མིན། འབྲས་བུ་ལས་ཡིན་དེས་མཚུངས་པར།' ; Gyaltsab (bo-gyaltsab 6-114): the two are not set equal by the intention's quality itself, but are alike through the result (being causes of Buddhahood). The Hindi fragments leave subject and predicate unstated and 'उसी के समान' does not convey 'equal through that', so the claim is hard to parse.",
+    "fix": "आशय का गुण स्वयं (समानता का आधार) नहीं है; वह फल से है, और उसी के द्वारा (दोनों) समान हैं;"
+   }
+  ]
+ },
+ "6-121": {
+  "translation": "चूँकि मेरे जो स्वामी हैं, वे भी\nजिनके लिए अपने शरीर की भी परवाह नहीं करते,\nउनके प्रति मुझ जैसा मूर्ख कैसे\nमान करूँ और दास न बनूँ?",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "चूँकि मेरे जो स्वामी हैं, वे भी",
+    "evidence": "Tibetan 'རེ་ཞིག་བདག་གི་རྗེར་གྱུར་ཉིད་ཀྱང་ནི' ; 'རེ་ཞིག' is 'to begin with / for the moment' (Skt तावत्), not a causal 'since'; bo-shenga 6-121 'རེ་ཞིག་བདག་གི་རྗེ་བོར་གྱུར་པ་... ཉིད་ཀྱང་ནི' reads it as 'even those who are my lords'. 'चूँकि' adds a causal link not in the source.",
+    "fix": "पहले तो, जो मेरे स्वामी हैं, वे भी"
+   }
+  ]
+ },
+ "6-134": {
+  "translation": "संसार के समय क्षान्ति से सौन्दर्य आदि और,\nनीरोगता तथा कीर्ति से,\nअत्यन्त दीर्घ आयु, और\nचक्रवर्ती का विपुल सुख प्राप्त होता है।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "संसार के समय",
+    "evidence": "Tibetan འཁོར་ཚེ means 'while revolving/abiding in saṃsāra' (Sanskrit saṃsaran; bo-kunpal 6-134 'འཁྱོར་པར་གནས་པའི་ཚེ'; bo-gyaltsab 'འཁོར་བར་འཁོར་བའི་ཚེ'). 'संसार के समय' reads as 'at the time of saṃsāra', which is unidiomatic and obscures the sense.",
+    "fix": "संसार में भ्रमण करते हुए"
+   }
+  ]
+ },
+ "7-18": {
+  "translation": "मक्खियाँ, मच्छर और भँवरे,\nऔर उसी प्रकार जो भी कृमि हुए हैं,\nयदि वे भी वीर्य-बल उत्पन्न करें,\nतो दुर्लभ अनुत्तर बोधि प्राप्त करेंगे।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "मक्खियाँ, मच्छर और भँवरे",
+    "evidence": "Tibetan lists three insects: སྦྲང་བུ (fly), ཤ་སྦྲང་ (flesh-fly / gadfly) and བུང་བ (bee). bo-kunpal 7-18 glosses them as སྦྲང་བུ 'flying in the sky', ཤ་ཡི་སྦྲང་བུ 'flesh-fly' and བུང་བ 'that drinks flower nectar'. 'मच्छर' (mosquito) is not in the Tibetan (it comes from Sanskrit maśaka, which the Tibetan does not render), and བུང་བ is a bee rather than a bumblebee/भँवरा; english_academic has 'flies, gadflies, and bees'.",
+    "fix": "मक्खियाँ, डाँस (मांस-मक्खियाँ) और मधुमक्खियाँ"
+   }
+  ]
+ },
+ "7-56": {
+  "translation": "जो प्राणी मान से पराजित हैं,\nवे क्लेशयुक्त हैं, मान वाले नहीं,\nमान वाले शत्रु के वश में नहीं जाते,\nवे मान-रूपी शत्रु के वश में आ जाते हैं।",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "मान वाले शत्रु के वश में नहीं जाते",
+    "evidence": "Tibetan 'ང་རྒྱལ་ཅན་དགྲའི་དབང་མི་འགྲོ' = 'the one who has (proper) pride does not fall under the power of the enemy'; without a comma 'मान वाले शत्रु' parses as 'the enemy who has pride', which the Tibetan excludes (bo-shenga 7-56: 'ང་རྒྱལ་ཅན་ནི་མི་མཐུན་པའི་དགྲའི་དབང་དུ་མི་འགྲོ').",
+    "fix": "मान वाला जन शत्रु के वश में नहीं जाता"
+   }
+  ]
+ },
+ "8-5": {
+  "translation": "कौन अनित्य, अनित्य के प्रति\nसम्यक् रूप से आसक्ति करता है?\nउसके द्वारा सहस्रों जन्मों तक\nप्रिय का दर्शन नहीं हो पाएगा।",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "सम्यक् रूप से आसक्ति करता है",
+    "evidence": "Tibetan ཡང་དག་ཆགས་པར་བྱེད་པ། ('truly/thoroughly attached'); bo-kunpal 8-5 glosses ཡང་དག་པའམ་ངེས་པར་ཆགས་པ ('truly or definitely attached'). 'सम्यक्' reads as 'right/correct' attachment, which is not the sense.",
+    "fix": "वास्तव में (दृढ़ता से) आसक्त होता है"
+   }
+  ]
+ },
+ "8-22": {
+  "translation": "सत्त्वों की विविध आकांक्षाएँ हैं,\nयदि जिन भी उन्हें सन्तुष्ट नहीं कर पाते,\nतो मेरे जैसे अधम की चर्चा ही क्या?\nइसलिए मैं लोक के विचारों को त्याग दूँगा।",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "लोक के विचारों को त्याग दूँगा",
+    "evidence": "Tibetan 'འཇིག་རྟེན་བསམ་པ་བཏང་' ('jig rten bsam pa btang); bo-shenga 8-22 glosses it as abandoning 'འཇིག་རྟེན་པ་རྣམས་དང་འགྲོགས་པའི་བསམ་པ' (the intention of keeping company with worldly people), and bo-kunpal 8-22 as abandoning the worldly-accommodating intention. Sanskrit 'lokacintayā' is concern for the world. Hindi 'लोक के विचार' can be read as the thoughts held by the world.",
+    "fix": "इसलिए मैं लोक (लौकिक जनों) के साथ मेलजोल की चिन्ता/विचार को त्याग दूँगा"
+   }
+  ]
+ },
+ "8-23": {
+  "translation": "सत्त्व लाभ से रहित जनों की निन्दा करते हैं,\nऔर लाभ से युक्त जनों को अप्रिय वचन कहते हैं。\nस्वभाव से दुष्कर सङ्गति वाले उन जनों से,\nप्रसन्नता कैसे उत्पन्न होगी?",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "कहते हैं。",
+    "evidence": "The line ends with a full-width CJK full stop (。) instead of the Devanagari danda or a comma; stray punctuation, meaning intact.",
+    "fix": "कहते हैं,"
+   }
+  ]
+ },
+ "8-25": {
+  "translation": "वन में मृग, पक्षी और\nवृक्ष अप्रिय वचन नहीं बोलते。\nजिनकी सङ्गति सुखद है, उनके साथ\nकब मैं निवास करूँगा?",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "नहीं बोलते。",
+    "evidence": "The line ends with a full-width CJK full stop (。) instead of a Devanagari-appropriate mark; stray punctuation, meaning intact.",
+    "fix": "नहीं बोलते,"
+   }
+  ]
+ },
+ "8-29": {
+  "translation": "श्मशान जाकर दूसरों के,\nकंकालों और अपने शरीर को,\nविनाशशील धर्म वाले रूप में,\nकब मैं समान करूँगा?",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "कब मैं समान करूँगा?",
+    "evidence": "Tibetan 'མགོ་སྙོམས་བྱེད་པ' (mgo snyoms byed pa) means to regard/treat as equal; bo-kunpal 8-29 glosses it as 'མགོ་སྙོམས་བྱེད' = equating one's own body with those skeletons ('འདི་དག་དང་འདྲའོ་ཞེས'), and bo-shenga as seeing one's body as of the same nature. Hindi 'समान करूँगा' reads as 'make equal' (a physical act), not 'regard as equal'.",
+    "fix": "कब मैं (उन्हें) समान मानूँगा / एक-सा देखूँगा?"
+   }
+  ]
+ },
+ "8-34": {
+  "translation": "लोक के सब ओर से शोक करते हुए भी,\nजब तक चार पुरुषों द्वारा,\nवहाँ से उस शरीर को नहीं उठाया जाता,\nतब तक वन चले जाओ।",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "शोक करते हुए भी",
+    "evidence": "Tibetan \"འཇིག་རྟེན་ཀུན་ནས་གདུང་བཞིན་དུ\" is a simultaneous 'while' (bzhin du), not concessive; bo-shenga 8-34 and bo-gyaltsab 8-34 read it as relatives grieving all around while the body has not yet been carried out. Hindi \"भी\" adds a concessive 'even though' nuance.",
+    "fix": "शोक करते हुए"
+   }
+  ]
+ },
+ "8-35": {
+  "translation": "न कोई मित्र और न कोई शत्रु बनाकर,\nयह शरीर एकाकी एकान्त में स्थित हो,\nपहले से ही मृत के समान माने जाने पर,\nमरने पर भी शोक करने वाला कोई नहीं होता।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "यह शरीर एकाकी एकान्त में स्थित हो,",
+    "evidence": "Tibetan \"ལུས་འདི་གཅིག་པུ་དབེན་གནས་ཏེ\" is a plain narrative clause in a chain (bo-gyaltsab 8-35: \"རང་གི་ལུས་འདི་གཅིག་པུ་དབེན་པར་གནས་ཏེ\"); Hindi \"स्थित हो\" reads as an optative/wish and leaves the clause chain dangling.",
+    "fix": "यह शरीर अकेला एकान्त में रहकर,"
+   }
+  ]
+ },
+ "8-38": {
+  "translation": "अन्य सभी विचारों को सर्वथा छोड़कर,\nकेवल स्वयं का चिन्तन करते हुए,\nचित्त को समाहित करने के लिए,\nतथा दमित करने के लिए मैं प्रयत्न करूँगा।",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "केवल स्वयं का चिन्तन करते हुए",
+    "evidence": "Tibetan \"བདག་ལ་སེམས་པ་གཅིག་པུ་ཡིས\" with Sanskrit \"स्वचित्तैकाग्रमानसः\" and bo-kunpal 8-38 (thought \"I shall tame this very mind of mine\") means a mind intent on one's own mind; Hindi \"स्वयं का चिन्तन\" can be read as self-absorbed thinking about oneself.",
+    "fix": "केवल अपने चित्त पर एकाग्र मन से"
+   }
+  ]
+ },
+ "8-45": {
+  "translation": "दूसरों के आँखों से देखने मात्र पर भी,\nजिसकी पूरी तरह से रक्षा की गई थी,\nजब वह उनके द्वारा खाया जा रहा है,\nतो हे कृपण! तुम उसकी रक्षा क्यों नहीं करते?",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "उनके द्वारा खाया जा रहा है",
+    "evidence": "Tibetan \"དེ་ནི་དེས་ཟ་ན\": the eater is the vulture etc. (bo-kunpal 8-45 \"བྱ་རྒོད་ལ་སོགས་པ་དེ་དང་དེས་ཟ་བར་བྱེད་པ\"; bo-gyaltsab 8-45). Hindi \"उनके\" most naturally refers back to \"दूसरों\" (the onlookers).",
+    "fix": "गिद्ध आदि द्वारा खाया जा रहा है"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "दूसरों के आँखों से देखने मात्र पर भी",
+    "evidence": "Tibetan \"གཞན་རྣམས་མིག་གིས་བལྟ་ན་ཡང་\" = even if others merely look with their eyes; Hindi \"दूसरों के आँखों\" is ungrammatical (feminine plural noun, wrong postposition).",
+    "fix": "दूसरों के आँख से देख भर लेने पर भी"
+   }
+  ]
+ },
+ "8-46": {
+  "translation": "मांस का ढेर यह देखकर,\nजब गिद्ध और अन्य इसे खाते हैं,\nतो दूसरों के भोजन को तुम पुष्पों की,\nमाला, चन्दन और आभूषणों से पूजते हो।",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "तुम पुष्पों की, माला, चन्दन और आभूषणों से पूजते हो।",
+    "evidence": "Tibetan \"གཞན་གྱི་ཟས་ལ་... རྒྱན་གྱིས་མཆོད\" is a rhetorical question; bo-kunpal 8-46 \"ཅིའི་ཕྱིར་མཆོད་ཅིང་བསྙེན་བཀུར་བྱ\" and bo-gyaltsab 8-46 \"ཅིའི་ཕྱིར་བྱེད\". Hindi states it as a flat assertion, losing the reproach.",
+    "fix": "तो दूसरों के भोजन को तुम पुष्प-माला, चन्दन और आभूषणों से क्यों पूजते हो?"
+   }
+  ]
+ },
+ "8-51": {
+  "translation": "यदि अशुचि से तुम्हें राग नहीं है,\nतो स्नायुओं से बँधे हुए अस्थिपञ्जर को,\nजिस पर मांस के कीचड़ का लेप है,\nतुम दूसरे को अपनी गोद में क्यों भरते हो?",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "स्नायुओं से बँधे हुए अस्थिपञ्जर को, जिस पर मांस के कीचड़ का लेप है, तुम दूसरे को अपनी गोद में क्यों भरते हो",
+    "evidence": "Tibetan \"རུས་གཟེབ་རྒྱུས་པས་སྦྲེལ་བ་ལ། ཤ་ཡི་འདམ་གྱིས་ཞལ་ཞལ་བྱས། གཞན་\" (bo-shenga 8-51: \"...བྱས་པའི་གཞན་བུད་མེད་ཀྱི་ལུས་\") has the bone-cage bound with sinews and plastered with flesh-mud as a description of the single object \"another\" (gzhan). The Hindi gives two accusative objects (\"अस्थिपञ्जर को\" ... \"दूसरे को\") so the syntax is hard to parse.",
+    "fix": "तो स्नायुओं से बँधे और मांस के कीचड़ से लिपे हुए अस्थिपञ्जर-रूप दूसरे को तुम अपनी गोद में क्यों भरते हो?"
+   }
+  ]
+ },
+ "8-58": {
+  "translation": "यदि अशुचिता से तुम्हें राग नहीं है,\nतो जो अशुचि-क्षेत्र से उत्पन्न हुआ है,\nऔर उसी के बीज से पैदा हुआ है,\nउस दूसरे को तुम अपनी गोद में क्यों भरते हो?",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "अशुचिता से",
+    "evidence": "Tibetan \"མི་གཙང་ཆགས་མེད་ན\" uses the locked term མི་གཙང (अशुचि); the translation switches to the derived abstract \"अशुचिता\", inconsistent with 8-51 and the locked rendering.",
+    "fix": "अशुचि से"
+   }
+  ]
+ },
+ "8-59": {
+  "translation": "अशुचि से उत्पन्न अशुचि-कृमि को\nछोटा होने पर भी तुम नहीं चाहते,\nकिन्तु अनेक अशुचियों के स्वभाव वाले शरीर को,\nजो अशुचि से जन्मा है, तुम चाहते हो।",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "छोटा होने पर भी तुम नहीं चाहते",
+    "evidence": "Tibetan \"ཆུང་ངུའང་ཁྱོད་འདོད་མི་བྱེད་ལ\" (bo-kunpal 8-59: \"སྲིན་བུ་ཆུང་ངུའང་ཁྱོད་འདོད་པར་མི་བྱེད་\") means you do not desire even a small filth-worm (a fortiori the argument; Sanskrit alpatvāt). The concessive \"छोटा होने पर भी\" suggests smallness would make it desirable, which the Tibetan does not say.",
+    "fix": "छोटे से अशुचि-कृमि को भी तुम नहीं चाहते"
+   }
+  ]
+ },
+ "8-60": {
+  "translation": "तुम स्वयं की अशुचिता की,\nन केवल निन्दा नहीं करते हो,\nअपितु अशुचि की थैली, अशुचिता के\nलोभ से दूसरों को भी चाहते हो।",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "अशुचिता की / अशुचिता के लोभ से",
+    "evidence": "Tibetan \"མི་གཙང\" is locked as अशुचि; the translation uses \"अशुचिता\" twice (\"ཁྱོད་ནི་རང་ཉིད་མི་གཙང་ལ\" and \"མི་གཙང་ལ། བརྐམ་པས\").",
+    "fix": "स्वयं की अशुचि की / अशुचि के लोभ से"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "अशुचि की थैली, अशुचिता के लोभ से दूसरों को भी",
+    "evidence": "Tibetan \"མི་གཙང་རྐྱལ་པ་མི་གཙང་ལ། བརྐམ་པས་གཞན་ཡང་འདོད་པར་བྱེད\" (bo-gyaltsab 8-60: \"མི་གཙང་བའི་ཕུང་པོ་གཞན་ཡང་འདོད་པར་བྱེད\") means: out of greed for impurity you desire other bags of impurity too. The Hindi word order leaves \"अशुचि की थैली\" dangling before the adverbial phrase, obscuring that the thing desired is the other bags.",
+    "fix": "अपितु अशुचि के लोभ से अशुचि की अन्य थैलियों को भी चाहते हो।"
+   }
+  ]
+ },
+ "8-79": {
+  "translation": "कामियों के लिए उस प्रकार के,\nअनेक दोष हैं और लाभ बहुत कम है,\nजैसे गाड़ी खींचने वाले पशुओं द्वारा,\nघास के कुछ कौर ही खाए जाते हैं।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "लाभ बहुत कम है",
+    "evidence": "Tibetan མནོག་ཆུང (Skt. āsvāda) means slight enjoyment/taste of pleasure; bo-kunpal 8-79 glosses it as འབྲས་བུ་བདེ་བའི་མནོག་ཆུང་ 'slight happiness as result' and bo-shenga as 'little satisfaction', not material gain (लाभ); english_academic has 'the enjoyment is slight'.",
+    "fix": "और सुख का आस्वाद अत्यल्प है"
+   }
+  ]
+ },
+ "8-80": {
+  "translation": "पशुओं द्वारा प्राप्त करने पर भी जो दुर्लभ नहीं है,\nउस तुच्छ लाभ के लिए,\nदुर्लभ इस पूर्ण क्षण-सम्पदा को,\nकर्म से सताए हुए लोग नष्ट कर देते हैं।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "उस तुच्छ लाभ के लिए",
+    "evidence": "Tibetan མནོག་ཆུང་གང་ཡིན་དེ་དོན་དུ 'for the sake of that slight enjoyment' (bo-kunpal 8-80: ལོངས་སྤྱོད་མནོག་ཆུང་, enjoyment of food and clothing); 'लाभ' (gain) misses the sense of enjoyment/pleasure; english_academic 'slight enjoyment'.",
+    "fix": "उस अत्यल्प भोग-सुख के लिए"
+   }
+  ]
+ },
+ "8-102": {
+  "translation": "\"सबके दुःख को क्यों\nदूर किया जाए?\" इस पर विवाद नहीं करना चाहिए।\nयदि दूर करना है तो सभी के दूर करें,\nअन्यथा मैं भी सत्त्वों के समान ही हूँ।",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "इस पर विवाद नहीं करना चाहिए",
+    "evidence": "Tibetan བརྩད་དུ་མེད (Sanskrit avivādataḥ) states that there is no ground for dispute / it is indisputable (bo-kunpal 8-102: དེ་ལྟར་བརྩད་དུ་མེད). The Hindi turns this into a prescription ('one should not dispute'), shifting the modality.",
+    "fix": "इस पर विवाद की कोई गुंजाइश नहीं है"
+   }
+  ]
+ },
+ "8-104": {
+  "translation": "यदि एक दुःख के द्वारा,\nअनेक दुःख दूर हो जाते हों,\nतो करुणावान् को वह दुःख,\nस्व और पर के लिए उत्पन्न करना ही चाहिए。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "करना ही चाहिए。",
+    "evidence": "The line ends with a Chinese/Japanese full stop (。) instead of the Devanagari danda; the Tibetan line ends བསྐྱེད་བྱ་ཉིད། and the translation's other lines use । or plain punctuation.",
+    "fix": "करना ही चाहिए।"
+   }
+  ]
+ },
+ "8-109": {
+  "translation": "अतः जिस प्रकार थोड़े से भी,\nअप्रिय से मैं स्वयं की रक्षा करता हूँ,\nउसी प्रकार दूसरों की रक्षा का चित्त,\nऔर करुणा का चित्त इस प्रकार उत्पन्न करना चाहिए।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "थोड़े से भी, अप्रिय से",
+    "evidence": "Tibetan མི་སྙན་ལས is an unpleasant/disagreeable utterance (Sanskrit avarṇāt; bo-kunpal 8-109: མི་སྙན་པའི་ཚིག་ཙམ་ལས་ཀྱང 'even a mere unpleasant word'; bo-shenga: མི་སྙན་པ་བརྗོད་པ་ལས). Hindi bare 'अप्रिय' loses the 'word/speech' sense and could mean any unpleasantness.",
+    "fix": "थोड़े से भी अप्रिय वचन से"
+   }
+  ]
+ },
+ "8-116": {
+  "translation": "अतः जिस प्रकार छोटी सी भी,\nअप्रिय बात से स्वयं की रक्षा करता हूँ,\nउसी प्रकार जगत् के प्राणियों के प्रति रक्षा-चित्त,\nऔर करुणा के चित्त की भावना करनी चाहिए।",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "भावना करनी चाहिए",
+    "evidence": "Tibetan 'གོམས་པར་བྱ' (to habituate/familiarise) and Sanskrit 'abhyasyatām' mean cultivate by habituation; 'भावना' corresponds to བསྒོམ་པ (as in 8-112), and གོམས་པ is rendered अभ्यास elsewhere in this batch (8-114, 8-118).",
+    "fix": "रक्षा-चित्त और करुणा के चित्त का अभ्यास करना चाहिए"
+   }
+  ]
+ },
+ "8-146": {
+  "translation": "मेरे समान वालों को देखकर,\nस्वयं को श्रेष्ठ बनाने के लिए,\nमैं अपना लाभ-सत्कार,\nविवाद से भी निश्चित ही प्राप्त करूँगा।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "मेरे समान वालों को देखकर",
+    "evidence": "Tibetan 'བདག་དང་མཉམ་ལ་བལྟས་ནས' / Skt 'सममात्मानमालोक्य': a single person equal to me (bo-shenga 8-146 'བདག་དང་མཉམ་པ་ཞིག་ལ་ལྟོས་ནས'; bo-gyaltsab: one bodhisattva equal in rank). The Hindi 'वालों' is plural.",
+    "fix": "अपने समान (एक व्यक्ति) को देखकर"
+   }
+  ]
+ },
+ "8-167": {
+  "translation": "किन्तु इस प्रकार उपदेश देने पर भी,\nहे चित्त! यदि तुम वैसा नहीं करते हो,\nतो तुममें सभी दोष आश्रित होने के कारण,\nतुम्हें ही दमन किया जाएगा।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "तुम्हें ही दमन किया जाएगा",
+    "evidence": "Tibetan ཚར་གཅད་བྱ་བར་ཟད (bo-kunpal 8-167: ཚར་བཅད་པར་བྱ་བར་ཟད་དོ; bo-shenga: ཚར་བཅད་པར་བྱ་བ་ཁོ་ནར་ཟད་དོ) means 'nothing remains but to subdue you'; the Hindi passive future drops the 'only/nothing else' force (ཟད) and the speaker's own resolve.",
+    "fix": "तब तुम्हें ही दमन करना शेष रह जाता है।"
+   }
+  ]
+ },
+ "8-170": {
+  "translation": "यदि प्रमाद में पड़कर,\nमैंने तुम्हें सत्त्वों को नहीं दिया,\nतो तुम निश्चित रूप से मुझे,\nनरक के रक्षकों को सौंप दोगे।",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "मैंने तुम्हें सत्त्वों को नहीं दिया",
+    "evidence": "The Tibetan གལ་ཏེ་བག་མེད་གྱུར་ནས་ཁྱོད། སེམས་ཅན་རྣམས་ལ་མ་བྱིན་ན has no ངས and places ཁྱོད in the clause; bo-kunpal 8-170 and bo-gyaltsab 8-170 (second gloss) read ཁྱོད (the mind) as the one who becomes heedless and does not give. The Sanskrit and bo-shenga read 'I do not give you'. The Hindi fixes one reading; a neutral rendering would keep the Tibetan's open agent.",
+    "fix": "यदि प्रमाद में पड़कर तुम (मुझे) सत्त्वों को न दोगे,"
+   }
+  ]
+ },
+ "8-173": {
+  "translation": "जितना-जितना इस शरीर का,\nभली-भाँति पालन-पोषण किया जाता है,\nउतना-उतना ही यह अत्यन्त,\nदुर्बल होकर पतन को प्राप्त होता है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "दुर्बल होकर पतन को प्राप्त होता है",
+    "evidence": "Tibetan 'བཟེ་རེ་ཅན་གྱུར་ཉིད་དུ་ལྟུང་' = falls into the state of being 'bzer re can' (fragile/intolerant); bo-shenga glosses it as unable to bear even slight suffering (སྡུག་བསྔལ་ཕྲ་མོ་ཙམ་ཡང་བཟོད་པར་མི་ནུས་པ་ཉིད་དུ་ལྷུང་), bo-gyaltsab similarly. 'दुर्बल' (weak) misses the delicacy/intolerance sense (Skt sukumāratara), and 'दुर्बल होकर ... पतन' recasts the fall-into-a-state as weakening then falling.",
+    "fix": "अत्यन्त सुकुमार (असहिष्णु) अवस्था में जा गिरता है"
+   }
+  ]
+ },
+ "8-175": {
+  "translation": "अशक्य की इच्छा से क्लेश,\nऔर दूषित विचार भी उत्पन्न होंगे।\nजो किसी पर निर्भर नहीं है,\nउसकी सम्पदा कभी समाप्त नहीं होती।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "दूषित विचार",
+    "evidence": "Tibetan 'བསམ་པ་ཉམས་པ' = deterioration/loss of intention; bo-gyaltsab: དགེ་བའི་ཕྱོགས་ཀྱི་བསམ་པ་ཉམས་པ (wholesome intention declines) and bo-shenga: བསམ་པ་ཉམས་པ; Skt āśābhaṅga (disappointment). 'दूषित' means corrupted/defiled, not decayed or lost.",
+    "fix": "आशय (संकल्प) का ह्रास"
+   }
+  ]
+ },
+ "8-185": {
+  "translation": "अतः आवरणों को दूर करने के लिए,\nमिथ्या मार्ग से चित्त को हटाकर,\nसम्यक् आलम्बन पर निरन्तर,\nमैं समाहित करूँगा।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "मैं समाहित करूँगा",
+    "evidence": "Tibetan 'བདག་གིས་མཉམ་པར་གཞག་པར་བྱ' with 'སེམས་བླན་ཏེ' (withdrawing the mind) and Skt 'cittam ... svālambana-nirantaram': the mind is the object placed in equipoise. The Hindi verb 'समाहित करूँगा' has no object and is ungrammatical/unclear.",
+    "fix": "चित्त को समाहित करूँगा"
+   }
+  ]
+ },
+ "9-9": {
+  "translation": "\"माया के समान जिन से पुण्य कैसे?\"\nजैसे वास्तव में विद्यमान के प्रति, उसी प्रकार।\n\"यदि सत्त्व माया के समान हैं,\nतो मरने के बाद वे कैसे जन्म लेते हैं?\"",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "जैसे वास्तव में विद्यमान के प्रति, उसी प्रकार।",
+    "evidence": "Tibetan 'ཇི་ལྟར་དངོས་ཡོད་ལ་ཇི་བཞིན' = 'just as [it is] for the truly existent'; the Hindi 'के प्रति, उसी प्रकार' leaves a dangling correlative and obscures that merit arises equally for a truly existent Victor (bo-gyaltsab 9-9: 'ཇི་ལྟར་ཁྱོད་རྒྱལ་བ་བདེན་པའི་དངོས་པོར་ཡོད་པར་འདོད་པ་ལ་བསོད་ནམས་འབྱུང་བར་འདོད་པ་ཇི་ལྟ་བ་བཞིན་').",
+    "fix": "जैसे वास्तव में विद्यमान (जिन) के विषय में होता है, वैसे ही।"
+   }
+  ]
+ },
+ "9-16": {
+  "translation": "जब तुम्हारे लिए माया ही\nविद्यमान नहीं है, तब किसका आलम्बन होगा?\n\"यदि तत्त्वतः अन्य विद्यमान है,\nवह आकार स्वयं चित्त ही है।\"",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "तब किसका आलम्बन होगा?",
+    "evidence": "Tibetan 'དེ་ཚེ་ཅི་ཞིག་དམིགས' = 'then what is apprehended?' (Sanskrit 'tadā kim upalabhyate'); 'किसका आलम्बन' reads as 'whose/of what object', not 'what is apprehended' (bo-kunpal 9-16: 'དམིགས་བྱ་ཡུལ་ཅི་ཞིག་དམིགས').",
+    "fix": "तब क्या आलम्बित (उपलब्ध) होगा?"
+   }
+  ]
+ },
+ "9-18": {
+  "translation": "जैसे खड्ग की धारा स्वयं को\nनहीं काटती, वैसे ही मनस् है。\n\"जैसे दीपक अपने ही स्वरूप को\nसम्यक् प्रकाशित करता है, यदि ऐसा हो,\"",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "वैसे ही मनस् है。",
+    "evidence": "Tibetan 'ཇི་ལྟར་མི་གཅོད་དེ་བཞིན་ཡིད' means 'as the sword edge does not cut itself, so the mind [does not see itself]' (bo-gyaltsab 9-18: 'ཡིད་ཀྱིས་ཡིད་མི་མཐོང་'); 'वैसे ही मनस् है' leaves the ellipsis unresolved, so it reads as a bare predication, and ends in the stray CJK full stop '。' instead of '।'.",
+    "fix": "वैसे ही मनस् भी स्वयं को नहीं देखता।"
+   }
+  ]
+ },
+ "9-20": {
+  "translation": "इसी प्रकार कुछ अन्य पर,\nआश्रित और अनाश्रित भी देखे जाते हैं।\nजो स्वयं नील नहीं है, उसे नील रूप में,\nस्वयं ने स्वयं को नहीं बनाया।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "उसे नील रूप में, स्वयं ने स्वयं को नहीं बनाया।",
+    "evidence": "Tibetan 'སྔོ་ཉིད་མིན་ལ་སྔོན་པོར་དེ། བདག་གིས་བདག་ཉིད་བྱས་པ་མེད' = what is not blue has not made itself blue by itself (bo-kunpal 9-20: 'བདག་གིས་བདག་ཉིད་སྔར་སྔོན་པོ་མིན་པ་ལ་ཕྱིས་སྔོན་པོར་བྱས་པ་ནི་མེད'); the Hindi 'उसे ... स्वयं ने स्वयं को' leaves an unclear object/agent and is hard to parse.",
+    "fix": "जो स्वयं नील नहीं है, वह स्वयं द्वारा स्वयं को नील नहीं बनाता।"
+   }
+  ]
+ },
+ "9-31": {
+  "translation": "उस निर्माता ने ज्ञेय के प्रति,\nक्लेशों की वासना का प्रहाण नहीं किया है。\nइसलिए उसे देखते समय उसकी,\nशून्यता की वासना दुर्बल ही होती है।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "प्रहाण नहीं किया है。",
+    "evidence": "The line ends in a CJK full stop (。) instead of the Devanagari danda; punctuation error only, meaning unaffected (Tibetan 'ཉོན་མོངས་བག་ཆགས་མ་སྤངས་པ།').",
+    "fix": "प्रहाण नहीं किया है,"
+   }
+  ]
+ },
+ "9-42": {
+  "translation": "जिस प्रत्यय से उसमें विश्वास है,\nवह महायान के लिए भी समान है।\nयदि अन्य दो के मानने से सत्य है,\nतो वेद आदि भी सत्य हो जाएँगे।",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "अन्य दो के मानने से",
+    "evidence": "Tibetan 'གཞན་གཉིས་འདོད་པས' means acceptance by any two other parties/persons; bo-kunpal 9-42 glosses 'གཞན་གང་ཟག་གང་ཡང་རུང་བ་གཉིས་ཀྱིས་འདོད་པས' and bo-shenga 9-42 'གཞན་གང་ཡང་རུང་བ་གཉིས་ཀྱིས་འདོད་པས'. 'अन्य दो' could be read as 'the other two' (a definite pair) rather than 'any two'.",
+    "fix": "किन्हीं भी दो अन्य पक्षों के मानने से"
+   }
+  ]
+ },
+ "9-43": {
+  "translation": "यदि कहो कि महायान विवाद-सहित है,\nतो आगम पर तीर्थिकों का,\nऔर अन्य आगमों पर भी स्व एवं पर का,\nविवाद-सहित होने के कारण त्याग करना होगा।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "त्याग करना होगा",
+    "evidence": "The Tibetan 'དོར་བྱར་འགྱུར' has the scriptures as implied object (bo-kunpal 9-43: the Hinayana would also be discarded by you; bo-shenga 9-43: 'ལུང་ ... དོར་བྱར་འགྱུར'); the Hindi leaves the object unstated and the stacked genitives ('आगम पर तीर्थिकों का, ... स्व एवं पर का') make the clause hard to parse.",
+    "fix": "तो आगम पर तीर्थिकों के साथ, और अन्य आगमों पर भी स्वपक्ष और परपक्ष के बीच विवाद होने के कारण (उन आगमों का) त्याग करना होगा"
+   }
+  ]
+ },
+ "9-46": {
+  "translation": "कुछ समय के लिए उपादान-तृष्णा,\nनहीं है, यदि ऐसा निश्चित मानते हो।\nवह तृष्णा क्लेशयुक्त न होने पर भी,\nसम्मोह के समान क्यों नहीं होगी?",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "उपादान-तृष्णा",
+    "evidence": "Tibetan ཉེར་ལེན་སྲེད་པ is explained in bo-kunpal 9-46 as ཉེར་ལེན་ཏེ་ཉེ་བར་ལེན་པའི་རྒྱུ་སྲེད་པ, i.e. the craving that is the cause of grasping (upādāna); the bare Hindi compound can be read as 'grasping and craving' or an undefined compound.",
+    "fix": "उपादान की कारणभूत तृष्णा"
+   }
+  ]
+ },
+ "9-64": {
+  "translation": "इस प्रकार सत्त्व-गुण, रजस् और\nतमस् न पुत्र हैं और न पिता।\nउसे शब्द ग्रहण से युक्त\nस्वभाव में नहीं देखा जाता है।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "उसे शब्द ग्रहण से युक्त स्वभाव में नहीं देखा जाता है",
+    "evidence": "Tibetan དེ་ནི་སྒྲ་འཛིན་དང་ལྡན་པའི། རང་བཞིན་དུ་ནི་མཐོང་མ་ཡིན: the subject is the form-apprehender (གཟུགས་འཛིན་པ, bo-kunpal 9-64, bo-shenga 9-64) and it is 'not seen as having a nature endowed with sound-apprehension'. Hindi 'उसे ... स्वभाव में' leaves the referent unnamed and 'में' wrongly suggests location rather than 'as/of such a nature'.",
+    "fix": "वह (रूप-ग्राहक) शब्द-ग्रहण से युक्त स्वभाव वाला नहीं देखा जाता"
+   }
+  ]
+ },
+ "9-69": {
+  "translation": "परन्तु यदि आत्मा में विकार नहीं है,\nतो चेतना ने उसका क्या किया?\nइस प्रकार अचेतन और क्रियारहित,\nआकाश को आत्मा बना दिया जाएगा।",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "अचेतन",
+    "evidence": "Tibetan has ཤེས་མེད (lacking cognition; Skt. अज्ञस्य; bo-gyaltsab 9-69 glosses it as ཤེས་པ་མེད་པ). ཤེས is locked as ज्ञान, and བདག་ཅི་མེད/སེམས་མེད (अचेतन) is a different term used in 9-68.",
+    "fix": "इस प्रकार ज्ञानरहित और क्रियारहित"
+   }
+  ]
+ },
+ "9-73": {
+  "translation": "अतीत और अनागत चित्त,\nआत्मा नहीं हैं, क्योंकि उनका अस्तित्व नहीं है。\nपरन्तु यदि उत्पन्न चित्त आत्मा है,\nतो उसके नष्ट होने पर आत्मा भी नहीं रहेगा।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "क्योंकि उनका अस्तित्व नहीं है。",
+    "evidence": "Sentence ends with a CJK full stop (。) instead of the Devanagari danda; typographic error. Tibetan: དེ་ནི་མེད་པའི་ཕྱིར།",
+    "fix": "क्योंकि उनका अस्तित्व नहीं है।"
+   }
+  ]
+ },
+ "9-92": {
+  "translation": "इसी कारण से इसके,\nप्रतिपक्ष रूप इस विचार की भावना करें;\nविकल्पित क्षेत्र से उत्पन्न,\nध्यान ही योगी का आहार है।",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "विकल्पित क्षेत्र से उत्पन्न",
+    "evidence": "Tibetan རྣམ་བརྟགས་ཞིང་ལས་བྱུང་བ་ is the 'field of investigation/analysis' (Kunpal 9-92: རྣམ་པ་བརྟག་ཅིང་དཔྱད་པའི་ཞིང་ས་བཟང་པོ་ལྟ་བུ; Gyaltsab 9-92: རྣམ་པར་བརྟགས་ཤིང་དཔྱད་པའི་ཞིང་), i.e. the ground of analytical scrutiny, matching english_academic 'field of investigation'. Hindi 'विकल्पित' reads as 'imagined/conceptually constructed', which changes the sense.",
+    "fix": "विश्लेषित (परीक्षित) क्षेत्र से उत्पन्न"
+   }
+  ]
+ },
+ "9-107": {
+  "translation": "यह अन्य चित्त का विकल्प है,\nवह स्वयं की संवृति नहीं है。\nयदि पश्चात् वह निश्चित हो, तो वह है,\nयदि नहीं, तो संवृति का अभाव ही है।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "नहीं है。",
+    "evidence": "The line ends with an ideographic full stop (U+3002) instead of the Devanagari danda; a typographic error, meaning unaffected (Tibetan: དེ་ནི་རང་གི་ཀུན་རྫོབ་མིན།).",
+    "fix": "नहीं है।"
+   }
+  ]
+ },
+ "9-110": {
+  "translation": "विचार्य का विचार कर लेने पर,\nविचार का कोई आधार नहीं रहता।\nआधार न होने के कारण वह उत्पन्न नहीं होता,\nऔर उसे ही निर्वाण कहा जाता है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "उसे ही निर्वाण कहा जाता है",
+    "evidence": "Tibetan དེ་ཡང་མྱ་ངན་འདས་པར་བརྗོད says 'that too (also) is called nirvana' (ཡང་ = also; Sanskrit तच्च); the Hindi 'ही' (only) restricts it, which the Tibetan does not say. bo-shenga 9-110: དེ་ཡང་མྱ་ངན་ལས་འདས་པར་བརྗོད.",
+    "fix": "उसे भी निर्वाण कहा जाता है"
+   }
+  ]
+ },
+ "9-121": {
+  "translation": "उसके द्वारा उत्पन्न अभीष्ट भी क्या है?\nवह आत्मन् तथा पृथ्वी आदि,\nऔर ईश्वर का स्वरूप भी क्या नित्य नहीं हैं?\nऔर ज्ञान ज्ञेय से उत्पन्न होता है।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "उसके द्वारा उत्पन्न अभीष्ट भी क्या है?",
+    "evidence": "Tibetan དེས་བསྐྱེད་འདོད་པའང་གང་ཞིག་ཡིན asks what it is that he is desired/claimed to produce (bo-kunpal 9-121: དེས་བསྐྱེད་པར་འདོད་པ་ཡང་གང་ཞིག་ཡིན). 'उत्पन्न अभीष्ट' is elliptical and can be read as 'the desired thing already produced by him', dropping the sense of 'to be produced'.",
+    "fix": "उसके द्वारा उत्पन्न किया जाना भी अभीष्ट क्या है?"
+   }
+  ]
+ },
+ "9-150": {
+  "translation": "जगत् के प्राणी स्वप्न के समान हैं,\nविश्लेषण करने पर कदली-वृक्ष के सदृश हैं。\nनिर्वाण प्राप्त और अप्राप्त में भी,\nतत्त्व में कोई भेद नहीं है।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "सदृश हैं。",
+    "evidence": "Line 2 ends with the CJK full stop '。' instead of the Devanagari danda; the Tibetan line 'རྣམ་པར་དཔྱད་ན་ཆུ་ཤིང་འདྲ། །' is otherwise rendered correctly.",
+    "fix": "सदृश हैं।"
+   }
+  ]
+ },
+ "9-159": {
+  "translation": "वहाँ भी जीवित रहने और आरोग्य के\nकार्यों, क्षुधा और श्रान्ति,\nनिद्रा और हिंसा, तथा उसी प्रकार\nबालजनों की व्यर्थ संगति से,",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "हिंसा",
+    "evidence": "Tibetan 'འཚེ' (Sanskrit upadrava) is harm/affliction generally; bo-kunpal 9-159 glosses it as 'ཕྱི་ནང་གི་ཉེར་འཚེ་སྣ་ཚོགས' (various outer and inner troubles) and bo-shenga as being harmed by others. 'हिंसा' (violence) narrows it.",
+    "fix": "उपद्रव"
+   }
+  ]
+ },
+ "9-164": {
+  "translation": "उदाहरणार्थ, जैसे कोई बार-बार स्नान,\nकरके बार-बार अग्नि में प्रवेश करते हैं,\nउसी प्रकार अत्यन्त दुःख में,\nस्थित होने पर भी स्वयं को सुखी मानते हैं।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "जैसे कोई बार-बार स्नान, / करके बार-बार अग्नि में प्रवेश करते हैं",
+    "evidence": "Tibetan 'འགའ་ཞིག' ('some', plural) with 'ཡང་ཡང་ཁྲུས། བྱས་ཏེ་ཡང་ཡང་མེར་འཇུག་པ' (bathing again and again, then entering fire again and again). Hindi has singular 'कोई' with plural verbs 'करते हैं/मानते हैं' and a stray comma splitting 'स्नान' from 'करके'.",
+    "fix": "जैसे कुछ लोग बार-बार स्नान करके / बार-बार अग्नि में प्रवेश करते हैं"
+   }
+  ]
+ },
+ "10-1": {
+  "translation": "मेरे द्वारा बोधिचर्या में,\nप्रवेश की जो भलीभाँति रचना की गई है,\nउस कुशल से जगत् के सम्पूर्ण प्राणी,\nबोधिचर्या में प्रवृत्त हों।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "प्रवेश की जो भलीभाँति रचना की गई है, उस कुशल से",
+    "evidence": "Tibetan 'འཇུག་པ་རྣམ་པར་བརྩམས་པ་ཡི། དགེ་བ་གང་དེས' has the relative 'གང' modifying 'དགེ་བ' (whatever virtue arises from composing the Entering). In the Hindi the relative 'जो' attaches to 'रचना', so 'उस कुशल' has no antecedent and the sentence is hard to parse (Gyaltsab 10-1: 'བརྩམས་པའི་དགེ་བ་གང་ཐོབ་པ་དེ་དང་').",
+    "fix": "बोधिचर्या में प्रवेश (ग्रन्थ) की भलीभाँति रचना से जो भी कुशल हुआ है, उस कुशल से"
+   }
+  ]
+ },
+ "10-7": {
+  "translation": "जलमुर्गी, चकवा और हंस,\nतथा राजहंस आदि के सुमधुर स्वरों से वे सुशोभित हों,\nअत्यन्त सुगन्धित कमलों से युक्त सरोवरों के कारण,\nनरक के प्रदेश मनोरम हो जाएँ।",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "राजहंस",
+    "evidence": "Tibetan lists four birds: 'འཐིང་རིལ', 'ངུར་པ', 'ངང་པ' (swan/goose, rendered हंस), and 'བཞད'. The approved English renders the last as 'cranes'; 'राजहंस' is a kind of swan/flamingo and largely duplicates 'हंस', so the fourth bird is not rendered as in the reference (bo-kunpal 10-7 and bo-shenga 10-7 only list 'བཞད' without glossing it, so the rendering is uncertain).",
+    "fix": "सारस"
+   }
+  ]
+ },
+ "10-20": {
+  "translation": "दरिद्र लोग धन प्राप्त करें,\nशोक-सन्तप्त लोग आनन्द प्राप्त करें,\nनिराश लोग भी चित्त में आश्वस्त हों और,\nपूर्ण दृढ़ता से सम्पन्न हो जाएँ।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "शोक-सन्तप्त लोग",
+    "evidence": "Tibetan མྱ་ངན་ཉམ་ཐག་ has two terms, sorrow (མྱ་ངན) and wretched/helpless (ཉམ་ཐག); bo-kunpal 10-20 glosses སེམས་མྱ་ངན་གྱིས་གདུངས་ཤིང་ཉམ་ཐག་པ (tormented by sorrow and wretched). The Hindi renders only the sorrow.",
+    "fix": "शोक से पीड़ित और दीन-हीन लोग"
+   }
+  ]
+ },
+ "10-34": {
+  "translation": "कल्पवृक्षों के उपवनों से,\nजो बुद्धों और बुद्धपुत्रों द्वारा,\nमधुर धर्म घोषित करने से भरे हों,\nसम्पूर्ण दिशाएँ परिपूर्ण हो जाएँ।",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "जो बुद्धों और बुद्धपुत्रों द्वारा,\nमधुर धर्म घोषित करने से भरे हों",
+    "evidence": "Tibetan ཆོས་སྙན་སྒྲོགས་པས་གང་བ་ཡིས། ཕྱོགས་རྣམས་ཐམས་ཅད་གང་བར་ཤོག: the directions are filled by the Buddhas and their sons proclaiming sweet Dharma; bo-kunpal 10-34 and bo-shenga 10-34 place the Buddhas and sons in the groves and have the proclamation fill all directions. The relative clause 'जो ... भरे हों' makes the groves the thing filled, leaving the structure unclear.",
+    "fix": "कल्पवृक्षों के उपवनों में स्थित बुद्धों और बुद्धपुत्रों द्वारा मधुर धर्म-घोषणा से सम्पूर्ण दिशाएँ परिपूर्ण हो जाएँ।"
+   }
+  ]
+ },
+ "10-46": {
+  "translation": "पण्डितों का सम्मान हो\nऔर उन्हें भिक्षा भी प्राप्त हो।\nउनकी संतान पूर्णतः विशुद्ध हो\nऔर सभी दिशाओं में उनकी कीर्ति हो।",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "उनकी संतान पूर्णतः विशुद्ध हो",
+    "evidence": "Tibetan རྒྱུད་ནི་ཡོངས་སུ་དག་པ means the mental continuum is completely purified (bo-shenga 10-46: ང་རྒྱལ་མེད་པ་རྒྱུད་ནི་ཡོངས་སུ་དག་པ; bo-gyaltsab 10-46: རྒྱུད་ནི་ང་རྒྱལ་ལ་སོགས་པ་མེད་པར་ཡོངས་སུ་དག་པ). Bare Hindi संतान ordinarily means children/offspring, which the Tibetan excludes; the locked term needs the 'mind' qualifier to be read as continuum.",
+    "fix": "उनका चित्त-संतान पूर्णतः विशुद्ध हो"
+   }
+  ]
+ }
+}

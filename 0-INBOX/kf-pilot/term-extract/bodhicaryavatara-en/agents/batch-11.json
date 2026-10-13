@@ -1,0 +1,533 @@
+{
+ "batch": "batch-11",
+ "segments": [
+  {
+   "id": "6-34",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "Suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "ལུས་ཅན",
+     "dm": "embodied being",
+     "gm": "embodied beings"
+    }
+   ]
+  },
+  {
+   "id": "6-35",
+   "terms": [
+    {
+     "bo": "བག་མེད་པ",
+     "dm": "heedlessness",
+     "gm": "carelessness"
+    }
+   ]
+  },
+  {
+   "id": "6-36",
+   "terms": [
+    {
+     "bo": "བསོད་ནམས་མ་ཡིན་སྤྱོད་པ",
+     "dm": "non-meritorious conduct",
+     "gm": "non-meritorious conduct"
+    }
+   ]
+  },
+  {
+   "id": "6-37",
+   "terms": [
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "afflictions"
+    }
+   ]
+  },
+  {
+   "id": "6-38",
+   "terms": [
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "afflictions"
+    },
+    {
+     "bo": "སྙིང་རྗེ",
+     "dm": "compassion",
+     "gm": "compassion"
+    },
+    {
+     "bo": "ཁྲོ་བ",
+     "dm": "angry",
+     "gm": "angry"
+    }
+   ]
+  },
+  {
+   "id": "6-39",
+   "terms": [
+    {
+     "bo": "བྱིས་པ",
+     "dm": "childish",
+     "gm": "childish"
+    },
+    {
+     "bo": "ཁྲོ་བ",
+     "dm": "angry",
+     "gm": "angry"
+    }
+   ]
+  },
+  {
+   "id": "6-40",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "གློ་བུར",
+     "dm": "adventitious",
+     "gm": "adventitious"
+    },
+    {
+     "bo": "ཁྲོ་བ",
+     "dm": "angry",
+     "gm": "angry"
+    }
+   ]
+  },
+  {
+   "id": "6-41",
+   "terms": [
+    {
+     "bo": "ཞེ་སྡང",
+     "dm": "hatred",
+     "gm": "hatred"
+    },
+    {
+     "bo": "ཁྲོ་",
+     "dm": "angry",
+     "gm": "angry"
+    }
+   ]
+  },
+  {
+   "id": "6-42",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "6-43",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "ཁྲོ་བ",
+     "dm": "angry",
+     "gm": "angry"
+    }
+   ]
+  },
+  {
+   "id": "6-44",
+   "terms": [
+    {
+     "bo": "སྲེད་མདོངས",
+     "dm": "craving",
+     "gm": "craving"
+    },
+    {
+     "bo": "ཁྲོ",
+     "dm": "angry",
+     "gm": "angry"
+    }
+   ]
+  },
+  {
+   "id": "6-45",
+   "terms": [
+    {
+     "bo": "བྱིས་པ",
+     "dm": "Childish beings",
+     "gm": "Childish ones"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "6-46",
+   "terms": [
+    {
+     "bo": "དམྱལ་བའི་སྲུང་མ",
+     "dm": "guardians of hell",
+     "gm": "guardians of hell"
+    },
+    {
+     "bo": "རལ་གྲི་ལོ་མའི་ནགས་ཚལ",
+     "dm": "forest of sword-leaves",
+     "gm": "forest of sword-leaves"
+    },
+    {
+     "bo": "ལས",
+     "dm": "karma",
+     "gm": "karma"
+    },
+    {
+     "bo": "ཁྲོ་བར",
+     "dm": "angry",
+     "gm": "angry"
+    }
+   ]
+  },
+  {
+   "id": "6-47",
+   "terms": [
+    {
+     "bo": "ལས",
+     "dm": "past actions",
+     "gm": "karma"
+    },
+    {
+     "bo": "དམྱལ",
+     "dm": "hells",
+     "gm": "hell"
+    }
+   ]
+  },
+  {
+   "id": "6-48",
+   "terms": [
+    {
+     "bo": "བཟོད་པ",
+     "dm": "patience",
+     "gm": "patience"
+    },
+    {
+     "bo": "སྡིག",
+     "dm": "sins",
+     "gm": "negative actions"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "དམྱལ་བ",
+     "dm": "hells",
+     "gm": "hell"
+    }
+   ]
+  },
+  {
+   "id": "6-49",
+   "terms": [
+    {
+     "bo": "ཁྲོ་བར",
+     "dm": "angry",
+     "gm": "angry"
+    }
+   ]
+  },
+  {
+   "id": "6-50",
+   "terms": [
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "virtue",
+     "gm": "good qualities"
+    },
+    {
+     "bo": "དམྱལ",
+     "dm": "hells",
+     "gm": "hell"
+    }
+   ]
+  },
+  {
+   "id": "6-51",
+   "terms": [
+    {
+     "bo": "དཀའ་ཐུབ",
+     "dm": "ascetic practice",
+     "gm": "ascetic practice"
+    },
+    {
+     "bo": "སྤྱོད་པ",
+     "dm": "conduct",
+     "gm": "conduct"
+    }
+   ]
+  },
+  {
+   "id": "6-52",
+   "terms": [
+    {
+     "bo": "ཡིད",
+     "dm": "mind",
+     "gm": "mind"
+    },
+    {
+     "bo": "མངོན་པར་ཞེན་པ",
+     "dm": "attachment",
+     "gm": "attachment"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "sufferings",
+     "gm": "sufferings"
+    }
+   ]
+  },
+  {
+   "id": "6-53",
+   "terms": [
+    {
+     "bo": "སེམས",
+     "dm": "mind",
+     "gm": "mind"
+    },
+    {
+     "bo": "ཁྲོ",
+     "dm": "angry",
+     "gm": "angry"
+    }
+   ]
+  },
+  {
+   "id": "6-54",
+   "terms": [
+    {
+     "bo": "ཚེ་འདི",
+     "dm": "this life",
+     "gm": "this life"
+    },
+    {
+     "bo": "ཚེ་གཞན",
+     "dm": "other lives",
+     "gm": "another"
+    }
+   ]
+  },
+  {
+   "id": "6-55",
+   "terms": [
+    {
+     "bo": "རྙེད་པ",
+     "dm": "gain",
+     "gm": "gain"
+    },
+    {
+     "bo": "སྡིག་པ",
+     "dm": "sins",
+     "gm": "negative actions"
+    }
+   ]
+  },
+  {
+   "id": "6-56",
+   "terms": [
+    {
+     "bo": "ལོག་འཚོ",
+     "dm": "wrong livelihood",
+     "gm": "wrong livelihood"
+    },
+    {
+     "bo": "འཆི་བའི་སྡུག་བསྔལ",
+     "dm": "suffering of death",
+     "gm": "suffering of death"
+    }
+   ]
+  },
+  {
+   "id": "6-57",
+   "terms": []
+  },
+  {
+   "id": "6-58",
+   "terms": []
+  },
+  {
+   "id": "6-59",
+   "terms": [
+    {
+     "bo": "རྙེད་པ",
+     "dm": "wealth",
+     "gm": "gains"
+    }
+   ]
+  },
+  {
+   "id": "6-60",
+   "terms": [
+    {
+     "bo": "རྙེད་པ",
+     "dm": "gains",
+     "gm": "gains"
+    },
+    {
+     "bo": "སྡིག",
+     "dm": "sins",
+     "gm": "negative actions"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    },
+    {
+     "bo": "ཁྲོ",
+     "dm": "angry",
+     "gm": "angry"
+    }
+   ]
+  },
+  {
+   "id": "6-61",
+   "terms": [
+    {
+     "bo": "སྡིག་པ",
+     "dm": "sins",
+     "gm": "negative actions"
+    }
+   ]
+  },
+  {
+   "id": "6-62",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "ཁྲོ",
+     "dm": "angry",
+     "gm": "angry"
+    }
+   ]
+  },
+  {
+   "id": "6-63",
+   "terms": [
+    {
+     "bo": "དད་པ",
+     "dm": "faith",
+     "gm": "faith"
+    },
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "afflictions"
+    }
+   ]
+  },
+  {
+   "id": "6-64",
+   "terms": [
+    {
+     "bo": "སྐུ་གཟུགས",
+     "dm": "images",
+     "gm": "images"
+    },
+    {
+     "bo": "མཆོད་རྟེན",
+     "dm": "stupas",
+     "gm": "stupas"
+    },
+    {
+     "bo": "དམ་ཆོས",
+     "dm": "sublime Dharma",
+     "gm": "sublime Dharma"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "Buddhas"
+    },
+    {
+     "bo": "ཞེ་སྡང",
+     "dm": "hatred",
+     "gm": "anger"
+    }
+   ]
+  },
+  {
+   "id": "6-65",
+   "terms": [
+    {
+     "bo": "བླ་མ",
+     "dm": "Gurus",
+     "gm": "gurus"
+    },
+    {
+     "bo": "རྐྱེན",
+     "dm": "conditions",
+     "gm": "conditions"
+    },
+    {
+     "bo": "ཁྲོ་བ",
+     "dm": "anger",
+     "gm": "anger"
+    }
+   ]
+  },
+  {
+   "id": "6-66",
+   "terms": [
+    {
+     "bo": "ལུས་ཅན",
+     "dm": "embodied beings",
+     "gm": "embodied beings"
+    },
+    {
+     "bo": "སེམས་ཡོད",
+     "dm": "those with minds",
+     "gm": "animate"
+    },
+    {
+     "bo": "སེམས་མེད",
+     "dm": "those without",
+     "gm": "inanimate"
+    },
+    {
+     "bo": "བཟོད་པ",
+     "dm": "endure",
+     "gm": "patient"
+    }
+   ]
+  },
+  {
+   "id": "6-67",
+   "terms": [
+    {
+     "bo": "རྨོངས་པ",
+     "dm": "delusion",
+     "gm": "ignorance"
+    },
+    {
+     "bo": "ཁྲོས",
+     "dm": "angry",
+     "gm": "angry"
+    }
+   ]
+  }
+ ]
+}

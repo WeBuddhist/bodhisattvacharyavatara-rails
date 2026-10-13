@@ -1,0 +1,185 @@
+{
+ "batch": "batch-02",
+ "segments": [
+  {
+   "id": "3-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-37",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "enemies who will die anyway",
+     "evidence": "Tibetan/academic: the enemies are wretched, made to suffer by natural death; the suffering of death is dropped.",
+     "fix": "If even soldiers fight enemies who must suffer and die anyway, and ignore the pain of arrows and spears, and do not run away before they reach their goal..."
+    }
+   ]
+  },
+  {
+   "id": "4-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-22",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "It is even better to lose other good deeds.",
+     "evidence": "Academic: 'better that other virtues decline' is the same level as the preceding lines; 'even better' adds an escalating comparison.",
+     "fix": "It is better to lose my gain and honor. It is better to lose my body and the things I live on. It is better even to lose other good deeds. But I must never let my mind fail."
+    }
+   ]
+  },
+  {
+   "id": "5-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-30",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "afraid to do wrong",
+     "evidence": "Academic: 'act with respect out of fear'; the object of fear is not specified as wrongdoing.",
+     "fix": "For lucky people who act with respect because they feel fear, keeping in mind grows easily."
+    }
+   ]
+  },
+  {
+   "id": "5-42",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "cannot keep up my practice",
+     "evidence": "Academic: 'if one is unable'; the thing one is unable to do is not specified.",
+     "fix": "if I am not able to, I should act at ease."
+    }
+   ]
+  },
+  {
+   "id": "5-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-71",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "wandering beings",
+     "evidence": "Locked term for འགྲོ་བ is 'being'.",
+     "fix": "Be a friend to all beings and speak honestly."
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "practice being in control of oneself",
+     "evidence": "Ungrammatical/awkward for a child; the verse addresses oneself directly.",
+     "fix": "So, be in control of yourself and always keep a smiling face."
+    }
+   ]
+  },
+  {
+   "id": "5-81",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "a remedy against troubling emotions",
+     "evidence": "Academic: 'motivated by an antidote'; the target of the antidote is not stated.",
+     "fix": "or when a remedy moves you to act."
+    }
+   ]
+  }
+ ]
+}

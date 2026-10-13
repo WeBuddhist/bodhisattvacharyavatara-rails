@@ -1,0 +1,709 @@
+{
+ "batch": "batch-15",
+ "terms": [
+  {
+   "term_id": "T015",
+   "bo": "བདེ་བ",
+   "sanskrit": "sukha",
+   "senses": [
+    {
+     "sense": "happiness",
+     "occurrences": "all",
+     "academic": "樂",
+     "children": "快樂",
+     "basis": "style-sheet",
+     "reason": "Core table: བདེ་བ is 樂 / 快樂; Gemini's 安樂 is a variant."
+    }
+   ]
+  },
+  {
+   "term_id": "T031",
+   "bo": "སྒྱུ་མ",
+   "sanskrit": "māyā",
+   "senses": [
+    {
+     "sense": "illusion",
+     "occurrences": "all",
+     "academic": "幻化",
+     "children": "幻象",
+     "basis": "new",
+     "reason": "Established māyā word, also Gemini's 幻化 / 如幻; child word for illusion."
+    }
+   ]
+  },
+  {
+   "term_id": "T047",
+   "bo": "ཤེས་བཞིན",
+   "sanskrit": "saṃprajanya",
+   "senses": [
+    {
+     "sense": "introspection",
+     "occurrences": "all",
+     "academic": "正知",
+     "children": "保持警覺",
+     "basis": "style-sheet",
+     "reason": "Core table: ཤེས་བཞིན is 正知 / 保持警覺; chapter 5 title."
+    }
+   ]
+  },
+  {
+   "term_id": "T063",
+   "bo": "དེ་ཉིད",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "reality",
+     "occurrences": "all",
+     "academic": "真實",
+     "children": "事物真正的樣子",
+     "basis": "new",
+     "reason": "Tattva as 真實 (Tibetan-derived Chinese); child phrase translates the English; 事物 avoided as ཆོས sense."
+    }
+   ]
+  },
+  {
+   "term_id": "T079",
+   "bo": "བློ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "intellect",
+     "occurrences": "all",
+     "academic": "智",
+     "children": "思考的心",
+     "basis": "style-sheet",
+     "reason": "Policy 15: བློ is 智; child phrase from 'thinking mind', kept apart from 心."
+    }
+   ]
+  },
+  {
+   "term_id": "T095",
+   "bo": "རྙེད",
+   "sanskrit": "lābha",
+   "senses": [
+    {
+     "sense": "gain",
+     "occurrences": "all",
+     "academic": "利養",
+     "children": "收穫",
+     "basis": "new",
+     "reason": "Established lābha word and Gemini 5-22; 收穫 is the plain child word for gain."
+    }
+   ]
+  },
+  {
+   "term_id": "T111",
+   "bo": "སྐྱབས",
+   "sanskrit": "śaraṇa",
+   "senses": [
+    {
+     "sense": "refuge",
+     "occurrences": "all",
+     "academic": "歸依",
+     "children": "庇護所",
+     "basis": "new",
+     "reason": "Śaraṇa as 歸依 (CBETA spelling); 庇護所 translates 'shelter' for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T127",
+   "bo": "གྲགས་པ",
+   "sanskrit": "yaśas / prasiddhi",
+   "senses": [
+    {
+     "sense": "fame, renown",
+     "occurrences": [
+      "6-90",
+      "6-92",
+      "8-20"
+     ],
+     "academic": "名聞",
+     "children": "名聲",
+     "basis": "zero-shot",
+     "reason": "Fame sense: Gemini 名聞 at 6-90; 名聲 plain for children."
+    },
+    {
+     "sense": "common usage",
+     "occurrences": [
+      "9-6"
+     ],
+     "academic": "共稱",
+     "children": "大家的說法",
+     "basis": "zero-shot",
+     "reason": "Common usage: Gemini 共稱 at 9-6; child phrase translates 'common usage'."
+    }
+   ]
+  },
+  {
+   "term_id": "T143",
+   "bo": "རྒྱལ",
+   "sanskrit": "jina",
+   "senses": [
+    {
+     "sense": "Victor",
+     "occurrences": "all",
+     "academic": "勝者",
+     "children": "得勝者",
+     "basis": "style-sheet",
+     "reason": "Core table: རྒྱལ is the same term as རྒྱལ་བ; 勝者 / 得勝者."
+    }
+   ]
+  },
+  {
+   "term_id": "T159",
+   "bo": "ཕ་རོལ་ཕྱིན",
+   "sanskrit": "pāramitā",
+   "senses": [
+    {
+     "sense": "perfection",
+     "occurrences": "all",
+     "academic": "波羅蜜",
+     "children": "圓滿",
+     "basis": "style-sheet",
+     "reason": "Core table and policy 12: 波羅蜜 without 多; 圓滿 for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T175",
+   "bo": "མྱ་ངན",
+   "sanskrit": "śoka",
+   "senses": [
+    {
+     "sense": "grief",
+     "occurrences": "all",
+     "academic": "憂悲",
+     "children": "悲傷",
+     "basis": "new",
+     "reason": "Śoka as grief; 憂悲 kept apart from 苦 and from 憂苦 in 脫離憂苦; plain child word."
+    }
+   ]
+  },
+  {
+   "term_id": "T191",
+   "bo": "རྟེན",
+   "sanskrit": "āśraya",
+   "senses": [
+    {
+     "sense": "basis",
+     "occurrences": "all",
+     "academic": "所依",
+     "children": "依靠",
+     "basis": "zero-shot",
+     "reason": "Gemini 所依 at 9-110 to 9-112; standard for āśraya; 依靠 translates 'support'."
+    }
+   ]
+  },
+  {
+   "term_id": "T207",
+   "bo": "སྤྱན་རས་གཟིགས",
+   "sanskrit": "avalokita",
+   "senses": [
+    {
+     "sense": "Avalokiteśvara",
+     "occurrences": "all",
+     "academic": "觀世音",
+     "children": "觀音",
+     "basis": "style-sheet",
+     "reason": "Policy 11: སྤྱན་རས་གཟིགས is 觀世音 (children 觀音)."
+    }
+   ]
+  },
+  {
+   "term_id": "T223",
+   "bo": "ཕྱོགས་བཅུ",
+   "sanskrit": "daśadiś",
+   "senses": [
+    {
+     "sense": "ten directions",
+     "occurrences": "all",
+     "academic": "十方",
+     "children": "十個方向",
+     "basis": "zero-shot",
+     "reason": "Gemini and established 十方; child gets plain 'ten directions'."
+    }
+   ]
+  },
+  {
+   "term_id": "T239",
+   "bo": "ཞི་བ",
+   "sanskrit": "śama / śiva",
+   "senses": [
+    {
+     "sense": "peace",
+     "occurrences": "all",
+     "academic": "寂靜",
+     "children": "平靜",
+     "basis": "new",
+     "reason": "Śama as 寂靜 (Gemini 6-3 uses 平靜); child 平靜 matches 'peace'."
+    }
+   ]
+  },
+  {
+   "term_id": "T255",
+   "bo": "ཁམས་གསུམ",
+   "sanskrit": "trailokya",
+   "senses": [
+    {
+     "sense": "three realms",
+     "occurrences": "all",
+     "academic": "三界",
+     "children": "三大領域",
+     "basis": "style-sheet",
+     "reason": "Policy 18: established 三界, parts agree; child avoids 世界 which is འཇིག་རྟེན."
+    }
+   ]
+  },
+  {
+   "term_id": "T271",
+   "bo": "མཉམ་པར་གཞག",
+   "sanskrit": "samādhāna",
+   "senses": [
+    {
+     "sense": "meditative equipoise",
+     "occurrences": "all",
+     "academic": "等持",
+     "children": "讓心安定",
+     "basis": "zero-shot",
+     "reason": "Gemini 等持 at 8-38; samādhāna; child phrase translates 'settling the mind'."
+    }
+   ]
+  },
+  {
+   "term_id": "T287",
+   "bo": "ཐེ་ཚོམ",
+   "sanskrit": "vicikitsā",
+   "senses": [
+    {
+     "sense": "doubt",
+     "occurrences": "all",
+     "academic": "疑惑",
+     "children": "懷疑",
+     "basis": "new",
+     "reason": "Vicikitsā as 疑惑; Gemini 疑慮 / 懷疑 supports; plain child word."
+    }
+   ]
+  },
+  {
+   "term_id": "T303",
+   "bo": "བོ་དྷི་སཏྭ་ཙརྱ་ཨ་བ་ཏཱ་ར",
+   "sanskrit": "bodhisattvacaryāvatāra",
+   "senses": [
+    {
+     "sense": "Sanskrit title",
+     "occurrences": "all",
+     "academic": "Bodhisattvacaryāvatāra",
+     "children": "Bodhisattvacaryāvatāra",
+     "basis": "style-sheet",
+     "reason": "Policy 13: Sanskrit title line kept in IAST for both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T319",
+   "bo": "ལག་བཟང",
+   "sanskrit": "subāhu",
+   "senses": [
+    {
+     "sense": "name of an interlocutor",
+     "occurrences": "all",
+     "academic": "妙臂",
+     "children": "妙臂",
+     "basis": "zero-shot",
+     "reason": "Gemini 妙臂 (Subāhu-paripṛcchā, 妙臂菩薩所問經); established name, same in both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T335",
+   "bo": "མཆོད་གནས",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "object of offering",
+     "occurrences": "all",
+     "academic": "供養處",
+     "children": "值得供養者",
+     "basis": "new",
+     "reason": "Object of offering: 供養 + 處; child phrase translates 'one worthy of offerings'."
+    }
+   ]
+  },
+  {
+   "term_id": "T351",
+   "bo": "ངེས་ཐར",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "definite liberation",
+     "occurrences": "all",
+     "academic": "決定解脫",
+     "children": "確實的自由",
+     "basis": "english-pivot",
+     "reason": "Translated 'definite liberation' as 決定解脫; child phrase translates 'sure freedom'."
+    }
+   ]
+  },
+  {
+   "term_id": "T367",
+   "bo": "ཐུགས་བསྐྱེད",
+   "sanskrit": "cittotpāda",
+   "senses": [
+    {
+     "sense": "generation of bodhicitta",
+     "occurrences": "all",
+     "academic": "發心",
+     "children": "覺悟之心的誕生",
+     "basis": "style-sheet",
+     "reason": "Policy 15: ཐུགས་བསྐྱེད is 發心; child phrase from 覺悟之心 plus 'birth'."
+    }
+   ]
+  },
+  {
+   "term_id": "T383",
+   "bo": "སྤྱི་སྟེགས",
+   "sanskrit": "setu",
+   "senses": [
+    {
+     "sense": "universal bridge",
+     "occurrences": "all",
+     "academic": "津梁",
+     "children": "大家的橋",
+     "basis": "new",
+     "reason": "Setu 'bridge for all' as 津梁 (ford and bridge); child phrase translates 'bridge for everyone'. Flag: uncertain."
+    }
+   ]
+  },
+  {
+   "term_id": "T399",
+   "bo": "ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན་པ",
+   "sanskrit": "śīlapāramitā",
+   "senses": [
+    {
+     "sense": "perfection of ethical discipline",
+     "occurrences": "all",
+     "academic": "持戒波羅蜜",
+     "children": "良好品行圓滿",
+     "basis": "style-sheet",
+     "reason": "Policy 18: parts 持戒 + 波羅蜜; child 良好品行 + 圓滿."
+    }
+   ]
+  },
+  {
+   "term_id": "T415",
+   "bo": "སྐད་ཅིག",
+   "sanskrit": "kṣaṇa",
+   "senses": [
+    {
+     "sense": "moment",
+     "occurrences": "all",
+     "academic": "剎那",
+     "children": "瞬間",
+     "basis": "new",
+     "reason": "Established kṣaṇa word 剎那; plain child word for 'moment'."
+    }
+   ]
+  },
+  {
+   "term_id": "T431",
+   "bo": "ངོ་ཚ་ཤེས",
+   "sanskrit": "lajjā",
+   "senses": [
+    {
+     "sense": "sense of shame",
+     "occurrences": "all",
+     "academic": "知慚",
+     "children": "羞恥心",
+     "basis": "new",
+     "reason": "Lajjā as 知慚 (established mental factor); child phrase for 'sense of shame'."
+    }
+   ]
+  },
+  {
+   "term_id": "T447",
+   "bo": "དཔལ་འབྱུང་བ",
+   "sanskrit": "śrīsaṃbhava",
+   "senses": [
+    {
+     "sense": "Śrīsaṃbhava",
+     "occurrences": "all",
+     "academic": "吉祥生",
+     "children": "吉祥生",
+     "basis": "zero-shot",
+     "reason": "Gemini 吉祥生 for Śrīsambhava, a Gaṇḍavyūha teacher; flag: no verified canonical Chinese form."
+    }
+   ]
+  },
+  {
+   "term_id": "T464",
+   "bo": "ཕྱིན་ཅི་ལོག",
+   "sanskrit": "viparyaya",
+   "senses": [
+    {
+     "sense": "perversity",
+     "occurrences": "all",
+     "academic": "顛倒",
+     "children": "錯誤的方式",
+     "basis": "zero-shot",
+     "reason": "Viparyaya is 顛倒 (established; Gemini 6-49); child phrase translates 'mistaken way'."
+    }
+   ]
+  },
+  {
+   "term_id": "T480",
+   "bo": "བསྟོད",
+   "sanskrit": "stuti",
+   "senses": [
+    {
+     "sense": "praise",
+     "occurrences": "all",
+     "academic": "讚歎",
+     "children": "稱讚",
+     "basis": "new",
+     "reason": "Stuti as 讚歎; plain child word for praise."
+    }
+   ]
+  },
+  {
+   "term_id": "T496",
+   "bo": "འཇིག་རྟེན་སྡུག་བསྔལ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "suffering of the world",
+     "occurrences": "all",
+     "academic": "世間苦",
+     "children": "世界的痛苦",
+     "basis": "style-sheet",
+     "reason": "Policy 18: 世間 + 苦 in Tibetan order; child 世界 + 痛苦."
+    }
+   ]
+  },
+  {
+   "term_id": "T512",
+   "bo": "ལོག་པར་རྟོག་པ",
+   "sanskrit": "mithyākalpanā",
+   "senses": [
+    {
+     "sense": "wrong conception",
+     "occurrences": "all",
+     "academic": "邪分別",
+     "children": "錯誤的思考",
+     "basis": "new",
+     "reason": "Built from 邪 (wrong) + 分別 (རྟོག་པ, as in T576); child 'wrong thinking'."
+    }
+   ]
+  },
+  {
+   "term_id": "T528",
+   "bo": "སྐྱེ་བ་གཞན",
+   "sanskrit": "janmāntara",
+   "senses": [
+    {
+     "sense": "other life",
+     "occurrences": "all",
+     "academic": "他生",
+     "children": "另一世",
+     "basis": "new",
+     "reason": "Janmāntara as 他生; child phrase translates 'another life'."
+    }
+   ]
+  },
+  {
+   "term_id": "T544",
+   "bo": "མཉམ་འཇོག",
+   "sanskrit": "samādhi",
+   "senses": [
+    {
+     "sense": "meditative equipoise",
+     "occurrences": "all",
+     "academic": "等持",
+     "children": "安定的心",
+     "basis": "zero-shot",
+     "reason": "Gemini 等持 at 8-6; same English as T271; child 'settled mind'."
+    }
+   ]
+  },
+  {
+   "term_id": "T560",
+   "bo": "ཤ་ཡི་ཕུང་པོ",
+   "sanskrit": "māṃsocchraya",
+   "senses": [
+    {
+     "sense": "heap of flesh",
+     "occurrences": "all",
+     "academic": "肉聚",
+     "children": "肉堆",
+     "basis": "new",
+     "reason": "Heap of flesh: 肉 + 聚 (ཕུང་པོ as heap); plain child word."
+    }
+   ]
+  },
+  {
+   "term_id": "T576",
+   "bo": "རྣམ་པར་རྟོག",
+   "sanskrit": "parikalpanā",
+   "senses": [
+    {
+     "sense": "conceptual thought",
+     "occurrences": "all",
+     "academic": "分別",
+     "children": "思考",
+     "basis": "new",
+     "reason": "Parikalpanā as 分別; consistent with T512; child 'thinking'."
+    }
+   ]
+  },
+  {
+   "term_id": "T592",
+   "bo": "ལྟ་བ",
+   "sanskrit": "dṛṣṭi",
+   "senses": [
+    {
+     "sense": "view",
+     "occurrences": "all",
+     "academic": "見",
+     "children": "信念",
+     "basis": "new",
+     "reason": "Dṛṣṭi as 見 (view); child 信念 translates 'belief'."
+    }
+   ]
+  },
+  {
+   "term_id": "T608",
+   "bo": "དངོས་ཡོད",
+   "sanskrit": "sadbhāva",
+   "senses": [
+    {
+     "sense": "truly existent",
+     "occurrences": "all",
+     "academic": "實有",
+     "children": "真實存在",
+     "basis": "zero-shot",
+     "reason": "Gemini 實有 at 9-9; child phrase translates 'really existing'."
+    }
+   ]
+  },
+  {
+   "term_id": "T624",
+   "bo": "རབ་ཏུ་ཞི",
+   "sanskrit": "praśāmyati",
+   "senses": [
+    {
+     "sense": "thorough pacification",
+     "occurrences": "all",
+     "academic": "徹底寂靜",
+     "children": "完全平靜",
+     "basis": "new",
+     "reason": "Policy 18: རབ 'thoroughly' + 寂靜 (T239); child 完全平靜 'complete calm'."
+    }
+   ]
+  },
+  {
+   "term_id": "T640",
+   "bo": "སུན་འབྱིན་པ",
+   "sanskrit": "dūṣaṇa",
+   "senses": [
+    {
+     "sense": "refutation",
+     "occurrences": "all",
+     "academic": "破斥",
+     "children": "證明是錯的",
+     "basis": "new",
+     "reason": "Refutation as 破斥; child phrase translates 'proving wrong'."
+    }
+   ]
+  },
+  {
+   "term_id": "T656",
+   "bo": "རེག་པ",
+   "sanskrit": "sparśana",
+   "senses": [
+    {
+     "sense": "contact",
+     "occurrences": "all",
+     "academic": "觸",
+     "children": "碰觸",
+     "basis": "new",
+     "reason": "Sparśa as 觸; plain child word for touch."
+    }
+   ]
+  },
+  {
+   "term_id": "T672",
+   "bo": "མེད་པ",
+   "sanskrit": "asat",
+   "senses": [
+    {
+     "sense": "non-existent",
+     "occurrences": "all",
+     "academic": "無",
+     "children": "不存在",
+     "basis": "style-sheet",
+     "reason": "Policy 17: མེད is 無 academically; child 不存在 for 'non-existent'."
+    }
+   ]
+  },
+  {
+   "term_id": "T688",
+   "bo": "རྒ་དང་འཆི",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "aging and death",
+     "occurrences": "all",
+     "academic": "老死",
+     "children": "變老和死去",
+     "basis": "new",
+     "reason": "Established 老死; child phrase translates 'growing old and dying'."
+    }
+   ]
+  },
+  {
+   "term_id": "T704",
+   "bo": "སྤྱན་རས་གཟིགས་དབང",
+   "sanskrit": "avalokiteśvara",
+   "senses": [
+    {
+     "sense": "name of a bodhisattva",
+     "occurrences": "all",
+     "academic": "觀世音",
+     "children": "觀音",
+     "basis": "style-sheet",
+     "reason": "Policy 11: འཇིག་རྟེན་དབང་ཕྱུག / སྤྱན་རས་གཟིགས is 觀世音 (children 觀音)."
+    }
+   ]
+  },
+  {
+   "term_id": "T720",
+   "bo": "ཁ་ཐོན",
+   "sanskrit": "svādhyāya",
+   "senses": [
+    {
+     "sense": "recitation",
+     "occurrences": "all",
+     "academic": "誦習",
+     "children": "背誦",
+     "basis": "new",
+     "reason": "Svādhyāya as recitation: 誦習; Gemini 課誦; plain child word."
+    }
+   ]
+  },
+  {
+   "term_id": "T736",
+   "bo": "ཁ་ཆེ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "place name",
+     "occurrences": "all",
+     "academic": "迦濕彌羅",
+     "children": "喀什米爾",
+     "basis": "zero-shot",
+     "reason": "Gemini 迦濕彌羅 (CBETA spelling); common modern name for children."
+    }
+   ]
+  }
+ ]
+}

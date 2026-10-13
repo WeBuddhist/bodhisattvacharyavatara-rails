@@ -1,0 +1,253 @@
+{
+ "batch": "batch-17",
+ "segments": [
+  {
+   "id": "8-131",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-132",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-133",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-134",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-135",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-136",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-137",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-138",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "就算被拿走",
+     "evidence": "Academic translation: 'even if one seizes them' - I take whatever is on my body and use it for others; the children's passive wording leaves unclear who takes it.",
+     "fix": "只要在我身上看到的任何東西，就算要把它奪過來，也要用來幫助別人。"
+    }
+   ]
+  },
+  {
+   "id": "8-139",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "地位比我低的人",
+     "evidence": "Tibetan 'dman sogs' / academic '卑劣等' = the inferior and so on (others of lower, equal, or higher standing); the children's text mentions only people of lower status.",
+     "fix": "把地位比我低的人（和其他人）當作自己，把原來的自己當作別人。"
+    }
+   ]
+  },
+  {
+   "id": "8-140",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-141",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-142",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "總會有人比這個人更差勁",
+     "evidence": "Academic translation: 'there are also those than whom this person is inferior' - i.e. someone better than him exists. The children's text reverses this to someone worse than him.",
+     "fix": "其實總有人比這個人更強，也總有人比不上我。"
+    }
+   ]
+  },
+  {
+   "id": "8-143",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "你應該盡全力來治好我",
+     "evidence": "Academic translation: 'should be healed as far as able' with no addressee; the children's text adds a 'you' who must heal me.",
+     "fix": "我應該盡全力被治好，我也會甘願接受傷害。"
+    }
+   ]
+  },
+  {
+   "id": "8-144",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-145",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-146",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-147",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-148",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-149",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-150",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-151",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-152",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-153",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-154",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-155",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-156",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-157",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "精血",
+     "evidence": "The academic translation refers to the 'drop of mingled seed and blood' from others (parents); '精血' is an unexplained hard word for ages 8-12.",
+     "fix": "就像你對別人（爸爸媽媽）給的那一小滴生命來源，產生認為有個我的想法一樣。現在，你也應該練習把別人當作是自己。"
+    }
+   ]
+  },
+  {
+   "id": "8-158",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-159",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-160",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-161",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-162",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-163",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-164",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-165",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-166",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-167",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-168",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "我現在看清你要去哪裡了",
+     "evidence": "Academic translation: 'now that I see you, where will you go?' - a rhetorical question meaning the mind has nowhere to escape; the children's text turns it into a statement that I see where the mind is going.",
+     "fix": "我現在盯著你，你還能逃到哪裡去？"
+    }
+   ]
+  },
+  {
+   "id": "8-169",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-170",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

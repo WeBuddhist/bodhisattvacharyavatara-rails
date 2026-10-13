@@ -1,0 +1,145 @@
+{
+ "batch": "batch-03",
+ "segments": [
+  {
+   "id": "2-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-6",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "मेरे इन्हें स्वीकार करें",
+     "evidence": "Tibetan 'བདག་གི་འདི་དག་བཞེས' = 'accept these [offerings] of mine'. The Hindi 'मेरे इन्हें' is ungrammatical (possessive without a head noun, then a bare pronoun object).",
+     "fix": "मेरी इन (भेंटों) को स्वीकार करें"
+    }
+   ]
+  },
+  {
+   "id": "2-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-8",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "श्रद्धापूर्वक",
+     "evidence": "Tibetan 'གུས་པས' means with reverence/respect (bo-shenga 2-8: 'མཆོག་ཏུ་གུས་པས'; Skt bhaktyā), not 'śraddhā' (faith, དད་པ). 'श्रद्धा' shifts the sense to faith.",
+     "fix": "आदरपूर्वक / भक्तिपूर्वक"
+    }
+   ]
+  },
+  {
+   "id": "2-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-16",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "हूँ。",
+     "evidence": "The final line ends with the CJK full stop '。' instead of the Devanagari danda '।' used in all other lines; typographical error in the Hindi.",
+     "fix": "हूँ।"
+    }
+   ]
+  },
+  {
+   "id": "2-17",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "स्वच्छ की गई भूमि",
+     "evidence": "Tibetan 'ས་གཞི་བསྟར་བ' (ground laid/spread level). bo-shenga 2-17 glosses 'ཡིད་དུ་འོང་བའི་ས་གཞི་ཁོད་མཉམ་པས་བསྟར་བ' (ground levelled/smoothed); nothing about cleaning ('स्वच्छ'). English academic: 'smoothed'.",
+     "fix": "समतल बिछाई गई भूमि"
+    }
+   ]
+  },
+  {
+   "id": "2-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "करुणा-स्वरूप वालों को",
+     "evidence": "Tibetan 'ཐུགས་རྗེའི་རང་བཞིན་ཅན་ལ' = 'to those whose nature is compassion'. 'स्वरूप वालों' is a redundant, awkward construction ('स्वरूप' already denotes nature).",
+     "fix": "करुणा-स्वभाव वालों को"
+    }
+   ]
+  },
+  {
+   "id": "2-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-20",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

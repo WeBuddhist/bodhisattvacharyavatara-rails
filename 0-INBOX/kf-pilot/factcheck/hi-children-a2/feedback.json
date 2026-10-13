@@ -1,0 +1,14 @@
+{
+ "9-105": {
+  "translation": "या अगर जानने की चीज़ जागरूकता के बाद आए, तो उस समय जागरूकता किससे पैदा होती है? इस तरह किसी भी दिखने वाली चीज़ का पैदा होना समझ नहीं आता।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "जानने की चीज़ जागरूकता के बाद आए",
+    "evidence": "Tibetan/academic: 'if (awareness) comes after the knowable (ज्ञेय के पश्चात्)', then from what does awareness arise. The children's text reverses the order: the knowable comes after awareness.",
+    "fix": "या अगर जागरूकता जानने की चीज़ के बाद आए, तो उस समय जागरूकता किससे पैदा होती है?"
+   }
+  ]
+ }
+}

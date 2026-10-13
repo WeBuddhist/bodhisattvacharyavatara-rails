@@ -1,0 +1,129 @@
+{
+ "batch": "batch-28",
+ "segments": [
+  {
+   "id": "8-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-35",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Having reckoned it as already dead,",
+     "evidence": "The agent of the reckoning is others, not the body: bo-shenga 8-35 \"ཉེ་དུ་སོགས་ཀྱིས་སྔ་ནས་ཤི་བ་དང་འདྲ་བར་བརྩིས་ན། ཤི་ནའང་དེའི་ཚེ་མྱ་ངན་བྱེད་པ་འགའ་ཡང་མེད་དོ\"; bo-kunpal 8-35 \"ཉེ་དུ་སོགས་ཀྱིས་སྔ་ནས་ཤི་བ་དང་འདྲར་བརྩིས་ནས\". The English participle with \"it\" leaves the reckoner unclear.",
+     "fix": "Being reckoned by relatives and others as already dead,"
+    }
+   ]
+  },
+  {
+   "id": "8-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-38",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "With a mind focused only on myself,",
+     "evidence": "\"བདག་ལ་སེམས་པ་གཅིག་པུ་ཡིས\" is explained as thinking solely of taming one's own mind / one's own practice: bo-shenga 8-38 \"བདག་གི་སེམས་དུལ་བའི་ཐབས་ལ་སེམས་པ་གཅིག་པུ་ཡིས\"; bo-kunpal 8-38 \"བདག་གིས་རང་གི་སེམས་ལ་བལྟས་ཏེ\"; Skt svacittaikāgramānasaḥ. \"focused only on myself\" can be read as self-concern.",
+     "fix": "With a mind intent solely on my own mind,"
+    }
+   ]
+  },
+  {
+   "id": "8-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-44",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "That face of your affliction,",
+     "evidence": "bo-shenga 8-44 \"ཁྱོད་ཉོན་མོངས་པར་གྱུར་པའི་གདོང་དེ\" and bo-gyaltsab 8-44 \"ཁྱོད་ཉོན་མོངས་ཤིང་ཆགས་པའི་གདོང་དེ\" show the face is the one that afflicted you / that you were afflicted by and attached to; Skt tvatparikleśam. \"face of your affliction\" does not make this relation clear.",
+     "fix": "That face which afflicted you (the face you were afflicted by),"
+    }
+   ]
+  },
+  {
+   "id": "8-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-50",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

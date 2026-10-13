@@ -1,0 +1,145 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "I-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "I-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "I-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-2",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "अपने मन की भावना के लिए",
+     "evidence": "Tibetan རང་གི་ཡིད་ལ་བསྒོམ་ཕྱིར ('in order to meditate/cultivate in my own mind'); bo-shenga 1-2 glosses it as རང་གི་ཡིད་ལ་བྱང་ཆུབ་ཀྱི་སེམས་བསྒོམས་ནས་གོམས་པར་བྱ་བའི་ཕྱིར (to cultivate and habituate bodhicitta in one's own mind). Hindi 'मन की भावना' can be read as 'feelings of the mind' rather than the practice of cultivation.",
+     "fix": "अपने मन में भावना (अभ्यास) करने के लिए"
+    }
+   ]
+  },
+  {
+   "id": "1-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-5",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "कभी-कभार ही",
+     "evidence": "Tibetan བརྒྱ་ལམ་ན ('once in a hundred [times]'); bo-shenga 1-5 and bo-kunpal 1-5 repeat བརྒྱ་ལམ་ན / བརྒྱ་ལན་རེ. The 'hundred' is not rendered; the line also doubles 'कभी-कभार ही' and 'विरले ही' for ཐང་འགའ།",
+     "fix": "सौ में कभी एक बार, लोक में पुण्य की बुद्धि विरले ही उत्पन्न होती है"
+    }
+   ]
+  },
+  {
+   "id": "1-6",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "उस सम्बोधि के बोधिचित्त के बिना",
+     "evidence": "Tibetan རྫོགས་པའི་བྱང་ཆུབ་སེམས་མིན་པ ('other than the bodhicitta [aimed at] perfect awakening'); the demonstrative དེ་ནི opens the line and refers back to sin in bo-kunpal 1-6, while the Hindi 'उस' attaches to the bodhicitta and the double genitive 'सम्बोधि के बोधिचित्त' is awkward.",
+     "fix": "सम्बोधि के (लिए) बोधिचित्त को छोड़कर"
+    }
+   ]
+  },
+  {
+   "id": "1-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-11",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "जगत् के प्राणियों के स्थानों से",
+     "evidence": "Tibetan འགྲོ་བའི་གནས; bo-shenga 1-11 reads འགྲོ་བ་ལྔའི་གནས (the abodes of the five migrations/gatis) and bo-gyaltsab 1-11 glosses འཁོར་བའི་རྒུད་པ (the lower reaches of saṃsāra). Sanskrit gatipattana. Mechanically applying the locked 'जगत् के प्राणी' yields 'places of the world's beings', hiding the sense of states of rebirth.",
+     "fix": "जगत् के प्राणियों की गतियों (गति-स्थानों) से"
+    }
+   ]
+  },
+  {
+   "id": "1-12",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "बढ़ता जाता है。",
+     "evidence": "The final stop is a CJK full stop (。) instead of the Devanagari danda (।) used elsewhere; Tibetan line ends འཕེལ་བར་འགྱུར།",
+     "fix": "बढ़ता जाता है।"
+    }
+   ]
+  },
+  {
+   "id": "1-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-17",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

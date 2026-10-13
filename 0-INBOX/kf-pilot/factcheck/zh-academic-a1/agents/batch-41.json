@@ -1,0 +1,121 @@
+{
+ "batch": "batch-41",
+ "segments": [
+  {
+   "id": "9-105",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-107",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-108",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "依賴於共稱之事",
+     "evidence": "Tibetan ཇི་ལྟར་གྲགས་པ་ལ་བརྟེན་ནས ('relying on what is renowned/accepted'); bo-shenga 9-108 glosses it as འཇིག་རྟེན་གྲགས་པའི་ཐ་སྙད་ལ་བརྟེན་ནས (relying on the worldly renowned convention); bo-kunpal likewise 'ཐ་སྙད'. '共稱之事' ('a thing jointly called') does not convey 'as is commonly known/accepted in the world' and adds '事'.",
+     "fix": "依賴於世間所共知的名言"
+    }
+   ]
+  },
+  {
+   "id": "9-109",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-110",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-111",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-112",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-113",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-114",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-115",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "則能了知彼所知者，覺知存在從何了知",
+     "evidence": "Tibetan གང་ཕྱིར་ཤེས་བྱ་དེ་རྟོགས་པ། ཤེས་པ་ཡོད་ཉིད་གང་ལས་རྟོགས: the relative clause 'that by which the knowable is known' qualifies the consciousness whose existence is then questioned (bo-shenga 9-115: ཤེས་བྱ་དེ་རྟོགས་པར་བྱེད་པའི་ཤེས་པ་ཡོད་པ་ཉིད་གང་ལས་རྟོགས). The Chinese line 3 has no subject and reads as a further consequence ('then one can know that knowable'), obscuring that it is the knowing consciousness itself that is at issue.",
+     "fix": "則藉以了知該所知的那個覺知，其存在又從何了知？"
+    }
+   ]
+  },
+  {
+   "id": "9-116",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-117",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-118",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-119",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-120",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-121",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-122",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-123",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-124",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

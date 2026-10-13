@@ -1,0 +1,491 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "8-0",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-1",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-2",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 4,
+      "bo_fixed": "རྣམ་པར་གཡེང་བ"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "8-3",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-4",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-5",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-6",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཡིད",
+      "reason": "Buddhist technical term for mind (manas).",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "8-7",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "Part of the compound term སྐྱོ་བའི་སེམས, and a technical term on its own (citta).",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "8-8",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-9",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-10",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-11",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཁྲོ་བ",
+      "reason": "Buddhist technical term for anger (krodha), a mental affliction.",
+      "dm": "angry",
+      "gm": "angry"
+     }
+    ]
+   },
+   {
+    "id": "8-12",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-13",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "གཞན་ལ་སྨོད་པ",
+      "reason": "Buddhist technical concept often paired with self-praise (ātmotkarṣa-parāvajñāna).",
+      "dm": "disparagement of others",
+      "gm": "disparaging others"
+     }
+    ]
+   },
+   {
+    "id": "8-14",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "དོན",
+      "reason": "A significant concept meaning purpose, aim, or benefit (artha).",
+      "dm": "purpose",
+      "gm": "benefit"
+     }
+    ]
+   },
+   {
+    "id": "8-15",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-16",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-17",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 1,
+      "bo_fixed": "རྙེད"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "8-18",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "It is a verb phrase ('becomes attached'), not a standalone glossary noun term."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-19",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འཇིགས་པ",
+      "reason": "Concept of fear (bhaya).",
+      "dm": "fear",
+      "gm": "fear"
+     }
+    ]
+   },
+   {
+    "id": "8-20",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-21",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བསྟོད་པ",
+      "reason": "Concept of praise, part of the eight worldly concerns.",
+      "dm": "praise",
+      "gm": "praise"
+     },
+     {
+      "bo": "སྨོད་པ",
+      "reason": "Concept of disparagement or blame, part of the eight worldly concerns.",
+      "dm": "disparage",
+      "gm": "disparage"
+     }
+    ]
+   },
+   {
+    "id": "8-22",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-23",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-24",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-25",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-26",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-27",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Adjective/adverbial phrase ('without attachment'), not a standard noun term here."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-28",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ལུས",
+      "reason": "Buddhist concept of body (kāya).",
+      "dm": "body",
+      "gm": "body"
+     }
+    ]
+   },
+   {
+    "id": "8-29",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ལུས",
+      "reason": "Buddhist concept of body (kāya).",
+      "dm": "body",
+      "gm": "body"
+     }
+    ]
+   },
+   {
+    "id": "8-30",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ལུས",
+      "reason": "Buddhist concept of body (kāya).",
+      "dm": "body",
+      "gm": "body"
+     }
+    ]
+   },
+   {
+    "id": "8-31",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ལུས",
+      "reason": "Buddhist concept of body (kāya).",
+      "dm": "body",
+      "gm": "body"
+     }
+    ]
+   },
+   {
+    "id": "8-32",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-33",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སྲིད་པ",
+      "reason": "Part of the compound term སྲིད་པའི་ལམ, and a technical term on its own (bhava).",
+      "dm": "existence",
+      "gm": "existence"
+     }
+    ]
+   },
+   {
+    "id": "8-34",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འཇིག་རྟེན",
+      "reason": "Buddhist concept of the world (loka).",
+      "dm": "world",
+      "gm": "world"
+     }
+    ]
+   },
+   {
+    "id": "8-35",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ལུས",
+      "reason": "Buddhist concept of body (kāya).",
+      "dm": "body",
+      "gm": "body"
+     }
+    ]
+   },
+   {
+    "id": "8-36",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-37",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "8-18",
+    "bo": "ཆགས་གྱུར་པ",
+    "reason": "It is a verb phrase ('becomes attached'), not a standalone glossary noun term."
+   },
+   {
+    "id": "8-27",
+    "bo": "ཆགས་མེད་པ",
+    "reason": "Adjective/adverbial phrase ('without attachment'), not a standard noun term here."
+   }
+  ],
+  "fix_span": [
+   {
+    "id": "8-2",
+    "bo": "གཡེང་བ",
+    "bo_fixed": "རྣམ་པར་གཡེང་བ"
+   },
+   {
+    "id": "8-17",
+    "bo": "རྙེད་མང",
+    "bo_fixed": "རྙེད"
+   }
+  ],
+  "add": [
+   {
+    "id": "8-6",
+    "bo": "ཡིད",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "Buddhist technical term for mind (manas)."
+   },
+   {
+    "id": "8-7",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "Part of the compound term སྐྱོ་བའི་སེམས, and a technical term on its own (citta)."
+   },
+   {
+    "id": "8-11",
+    "bo": "ཁྲོ་བ",
+    "dm": "angry",
+    "gm": "angry",
+    "reason": "Buddhist technical term for anger (krodha), a mental affliction."
+   },
+   {
+    "id": "8-13",
+    "bo": "གཞན་ལ་སྨོད་པ",
+    "dm": "disparagement of others",
+    "gm": "disparaging others",
+    "reason": "Buddhist technical concept often paired with self-praise (ātmotkarṣa-parāvajñāna)."
+   },
+   {
+    "id": "8-14",
+    "bo": "དོན",
+    "dm": "purpose",
+    "gm": "benefit",
+    "reason": "A significant concept meaning purpose, aim, or benefit (artha)."
+   },
+   {
+    "id": "8-19",
+    "bo": "འཇིགས་པ",
+    "dm": "fear",
+    "gm": "fear",
+    "reason": "Concept of fear (bhaya)."
+   },
+   {
+    "id": "8-21",
+    "bo": "བསྟོད་པ",
+    "dm": "praise",
+    "gm": "praise",
+    "reason": "Concept of praise, part of the eight worldly concerns."
+   },
+   {
+    "id": "8-21",
+    "bo": "སྨོད་པ",
+    "dm": "disparage",
+    "gm": "disparage",
+    "reason": "Concept of disparagement or blame, part of the eight worldly concerns."
+   },
+   {
+    "id": "8-28",
+    "bo": "ལུས",
+    "dm": "body",
+    "gm": "body",
+    "reason": "Buddhist concept of body (kāya)."
+   },
+   {
+    "id": "8-29",
+    "bo": "ལུས",
+    "dm": "body",
+    "gm": "body",
+    "reason": "Buddhist concept of body (kāya)."
+   },
+   {
+    "id": "8-30",
+    "bo": "ལུས",
+    "dm": "body",
+    "gm": "body",
+    "reason": "Buddhist concept of body (kāya)."
+   },
+   {
+    "id": "8-31",
+    "bo": "ལུས",
+    "dm": "body",
+    "gm": "body",
+    "reason": "Buddhist concept of body (kāya)."
+   },
+   {
+    "id": "8-33",
+    "bo": "སྲིད་པ",
+    "dm": "existence",
+    "gm": "existence",
+    "reason": "Part of the compound term སྲིད་པའི་ལམ, and a technical term on its own (bhava)."
+   },
+   {
+    "id": "8-34",
+    "bo": "འཇིག་རྟེན",
+    "dm": "world",
+    "gm": "world",
+    "reason": "Buddhist concept of the world (loka)."
+   },
+   {
+    "id": "8-35",
+    "bo": "ལུས",
+    "dm": "body",
+    "gm": "body",
+    "reason": "Buddhist concept of body (kāya)."
+   }
+  ]
+ }
+}

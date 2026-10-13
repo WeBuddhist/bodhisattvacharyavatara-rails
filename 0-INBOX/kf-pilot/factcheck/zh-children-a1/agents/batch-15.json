@@ -1,0 +1,253 @@
+{
+ "batch": "batch-15",
+ "segments": [
+  {
+   "id": "8-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-52",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "你也一直帶著它們",
+     "evidence": "The text says you constantly make use of / enjoy (spyod) these impurities; 'carrying them' loses the point of habitual use.",
+     "fix": "你自己身上已經有很多骯髒的東西，你還天天在使用它們。"
+    }
+   ]
+  },
+  {
+   "id": "8-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-60",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "你不但不討厭自己身上的骯髒。你自己就是一個裝滿髒東西的袋子，卻因為貪心，還想要去追求別人。",
+     "evidence": "'Not only...' is cut off by a full stop, so the 'not only X but also Y' structure is broken and the second sentence reads as a separate statement.",
+     "fix": "你不但不討厭自己身上的骯髒，你自己明明就是一個裝滿髒東西的袋子，卻還因為貪心，想去追求別人。"
+    }
+   ]
+  },
+  {
+   "id": "8-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-68",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "大家因為不了解自己而盲目瞎忙，就像瘋子一樣把這片大地都搞亂了。",
+     "evidence": "The Tibetan/academic text says madmen (the deluded) disturb the whole earth through foolish effort about the self; the children's text generalises to 'everyone' and turns the madmen into a simile.",
+     "fix": "因為不明白自己，有些人像瘋子一樣盲目瞎忙，把這片大地都搞亂了。"
+    }
+   ]
+  },
+  {
+   "id": "8-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-81",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-84",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-87",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "我能自由自在，沒有貪求。我不被任何人牽絆。",
+     "evidence": "The verse describes the forest hermit in the third person (acting freely, unattached, linked to no one), with contentment-happiness even Indra finds hard to get; the children's text makes the narrator say 'I' have this freedom, changing the subject (and clashing with the third-person 8-86).",
+     "fix": "他們自由自在，沒有貪求，不被任何人牽絆。這種知足帶來的快樂，連帝釋天也很難找到。"
+    }
+   ]
+  },
+  {
+   "id": "8-88",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "我想著安靜獨處的美好的品質。我讓胡思亂想完全平靜下來，好好練習覺悟之心。",
+     "evidence": "The verse is an instruction (having reflected on the qualities of solitude, one should calm discursive thought and meditate on the awakening mind); the children's text turns it into a statement of what 'I' am already doing, and 'the qualities' wording is clumsy.",
+     "fix": "想一想安靜獨處的美好品質，讓胡思亂想完全平靜下來，然後好好練習覺悟之心。"
+    }
+   ]
+  },
+  {
+   "id": "8-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-90",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "眾生雖然各有不同的快樂和痛苦。但大家都像我一樣想要快樂",
+     "evidence": "'Although... but...' is split by a full stop, leaving a dangling clause.",
+     "fix": "眾生雖然各有不同的快樂和痛苦，但大家都像我一樣想要快樂，在這一點上大家都是一體的。"
+    }
+   ]
+  }
+ ]
+}

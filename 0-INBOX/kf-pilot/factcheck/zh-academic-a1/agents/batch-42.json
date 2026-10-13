@@ -1,0 +1,121 @@
+{
+ "batch": "batch-42",
+ "segments": [
+  {
+   "id": "9-125",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "若去造作",
+     "evidence": "Tibetan 'བྱེད་ན' (and 'བྱེད་ནའང་') means 'if (he) acts / creates' (Skt kurvataḥ). The character 去 ('go') is a slip and makes the clause hard to parse.",
+     "fix": "若造作"
+    }
+   ]
+  },
+  {
+   "id": "9-126",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-127",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-128",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-129",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-130",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-131",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-132",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "為何未被體驗所取",
+     "evidence": "Tibetan 'མྱོང་བ་ཅི་ཕྱིར་འཛིན་མ་ཡིན' (Skt saṃvittiḥ kiṃ na gṛhyate): 'experience' is the thing not apprehended. bo-kunpal 9-132 glosses: 'དུས་རྟག་ཏུའང་མྱོང་བ་ཅི་ཡི་ཕྱིར་འཛིན་པ་མ་ཡིན' (why is it not always experienced). The Chinese turns 體驗 into an agent that 'takes' something unspecified, so the object of non-apprehension is unclear.",
+     "fix": "為何不被領受為體驗"
+    }
+   ]
+  },
+  {
+   "id": "9-133",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-134",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-135",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-136",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-137",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-138",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-139",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-140",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-141",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-142",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-143",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-144",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

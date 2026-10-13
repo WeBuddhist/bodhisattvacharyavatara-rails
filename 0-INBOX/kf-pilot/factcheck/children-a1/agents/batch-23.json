@@ -1,0 +1,229 @@
+{
+ "batch": "batch-23",
+ "segments": [
+  {
+   "id": "10-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-20",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "become perfectly strong",
+     "evidence": "'attain perfect steadfastness' (stable, firm in mind), not physical strength",
+     "fix": "and become perfectly steady and firm"
+    }
+   ]
+  },
+  {
+   "id": "10-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-29",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "who look weak",
+     "evidence": "'poor forms' means unattractive appearance, not weakness",
+     "fix": "who look plain get beautiful and perfect bodies"
+    }
+   ]
+  },
+  {
+   "id": "10-30",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "reach high places",
+     "evidence": "'attain high status' (rank), not physical places",
+     "fix": "reach high status"
+    }
+   ]
+  },
+  {
+   "id": "10-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-56",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,153 @@
+{
+ "batch": "batch-32",
+ "segments": [
+  {
+   "id": "8-111",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-112",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Having known oneself to have faults and others too\nTo be an ocean of good qualities",
+     "evidence": "བདག་ཉིད་སྐྱོན་བཅས་གཞན་ལ་ཡང་། ཡོན་ཏན་རྒྱ་མཚོར་ཤེས་བྱས་ནས། — \"too\" (ཡང་) goes with others as an ocean of good qualities (Sanskrit parān api guṇodadhīn; bo-kunpal 8-112 gives self = faults, others = qualities); the English can be read as \"oneself and others too have faults\".",
+     "fix": "Having known that oneself has faults, and that others too are oceans of good qualities,"
+    }
+   ]
+  },
+  {
+   "id": "8-113",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-114",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "this body of selflessness",
+     "evidence": "བདག་མེད་ལུས་འདི་ལ། — བདག་མེད་ modifies ལུས་ (\"this body that is selfless/without self\"; Sanskrit svakāye 'smin nirātmake; bo-shenga 8-114 བདག་མེད་པའི་ལུས་). \"Body of selflessness\" implies the body belongs to selflessness.",
+     "fix": "this body, which is selfless (lacks a self)"
+    }
+   ]
+  },
+  {
+   "id": "8-115",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-116",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-117",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "འཁོར་གྱི་འཇིགས་པའང་བསལ་བའི་ཕྱིར། — the suffix འང \"even\" (Sanskrit pariṣacchāradyabhayam api) marks even the minor fear of timidity in assemblies (bo-kunpal 8-117 \"བག་ཚ་བ་ཙམ་གྱི་འཇིགས་པའང་\"); the English places \"even\" only on the name.",
+     "fix": "In order to dispel even wandering beings' fear in assemblies,"
+    }
+   ]
+  },
+  {
+   "id": "8-118",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-119",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-120",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "be hostile as toward an enemy",
+     "evidence": "སྡང་མི་བྱེད། — སྡང་བ is \"to hate/loathe\" (Sanskrit na dviṣet; bo-kunpal 8-120 སྡང་བར་མི་བྱེད།), not \"be hostile\".",
+     "fix": "hate as an enemy"
+    }
+   ]
+  },
+  {
+   "id": "8-121",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-122",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "Will thereby be burned in the Avīci hell;",
+     "evidence": "དེས་ནི་མནར་མེད་བསྲེག་འགྱུར་ན། — the clause ends in the conditional ན (\"if\"; bo-kunpal 8-122 ends \"འགྱུར་ན\"), continuing into 8-123's question. The English states it as an independent assertion.",
+     "fix": "If one is thereby burned in the Avīci hell,"
+    }
+   ]
+  },
+  {
+   "id": "8-123",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-124",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "the dharma of a god",
+     "evidence": "ལྷ་ཡི་ཆོས། — ཆོས here is \"nature/way\" parallel to འདྲེ་ཡི་ཚུལ (Sanskrit devarājatā \"godliness\"; bo-kunpal 8-124 ཆོས་ལུགས་བཟང་པོ, bo-shenga ལྷ་ཡི་རྒྱུར་གྱུར་པའི་ཆོས). \"Dharma\" suggests the Buddhist teaching.",
+     "fix": "the way of a god"
+    }
+   ]
+  },
+  {
+   "id": "8-125",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-126",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-127",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-128",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-129",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-130",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

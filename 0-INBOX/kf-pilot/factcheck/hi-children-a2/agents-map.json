@@ -1,0 +1,16 @@
+{
+ "step": "factcheck-children",
+ "text": "bodhicaryavatara",
+ "lang": "hi",
+ "model": "sonnet",
+ "attempt": 2,
+ "session_dir": "/Users/tashitsering/.claude/projects/-Users-tashitsering-Desktop-work-Obsidian-KF-project/9c21a05b-5fa1-4975-8bee-f6f235fc6f76",
+ "agents": {
+  "batch-01": "a6138ddd81014cdd3",
+  "batch-02": "aebe95d26a806adf7",
+  "batch-03": "afa9c094eb72b20fa",
+  "batch-04": "acd2b1e8c7e0cb7ec",
+  "batch-05": "abb2c38024953902e"
+ },
+ "variant": "children"
+}

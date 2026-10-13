@@ -1,0 +1,129 @@
+{
+ "batch": "batch-19",
+ "segments": [
+  {
+   "id": "6-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-65",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "以及傷害親友者",
+     "evidence": "Tibetan 'བཤེས་ལ་གནོད་པ་བྱེད་རྣམས་ལའང་' refers to friends (བཤེས, 'མཛའ་བཤེས' in bo-shenga 6-65); relatives are already covered by 'གཉེན་ལ་སོགས་པ' (親屬等). '親友' blends relatives and friends and duplicates 親屬.",
+     "fix": "以及傷害朋友者"
+    }
+   ]
+  },
+  {
+   "id": "6-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-74",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "雖已歷經千次",
+     "evidence": "'དམྱལ་བར་སྟོང་ཕྲག་མྱོང་གྱུར་ཡང་' - 'སྟོང་ཕྲག' means many thousands (bo-shenga 6-74: 'ལན་གྲངས་སྟོང་ཕྲག་དུ་མར'; bo-kunpal: 'ལན་སྟོང་ཕྲག་མང་པོར'), Sanskrit 'sahasraśaḥ' = by thousands; '千次' reduces it to one thousand.",
+     "fix": "雖已歷經數千次"
+    }
+   ]
+  },
+  {
+   "id": "6-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-78",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "此外，若想「那樣他會快樂」，倘若你不期望這種快樂",
+     "evidence": "Tibetan 'དེ་ལྟར་བདེ་འགྱུར་ཞེས། གལ་ཏེ་ཁྱོད་བདེ་འདི་མི་འདོད' has a single condition: the thought 'he will be happy thus' is the reason for not wanting that happiness (bo-shenga 6-78 'གཞན་...བདེ་བར་འགྱུར་ཞེས། གལ་ཏེ་ཁྱོད་ཀྱིས...མི་འདོད་ན'). The double '若...倘若' makes two conditions and obscures the logic.",
+     "fix": "此外，若你因想著「那樣他會快樂」而不期望這種快樂"
+    }
+   ]
+  },
+  {
+   "id": "6-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-81",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

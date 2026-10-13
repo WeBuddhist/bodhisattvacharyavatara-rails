@@ -1,0 +1,269 @@
+{
+ "batch": "calibration",
+ "segments": [
+  {
+   "id": "1-8",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "बोधिचित्त का त्याग करें।",
+     "evidence": "Tibetan བྱང་ཆུབ་སེམས་ཉིད་རྟག་ཏུ་གཏང་མི་བྱ = \"should never forsake bodhicitta\" (Skt na vimocyaṃ sadaiva). The Hindi drops the negation and རྟག་ཏུ (always), so it commands abandoning bodhicitta; meaning reversed.",
+     "fix": "बोधिचित्त का कभी त्याग न करें।"
+    }
+   ]
+  },
+  {
+   "id": "1-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-5",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "मोरों",
+     "evidence": "Tibetan ངང་པ = swan/goose (haṃsa), not peacock (rma bya). English reference: \"swans\".",
+     "fix": "हंसों"
+    }
+   ]
+  },
+  {
+   "id": "2-41",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "तो मैंने उसका भी आश्रय लिया।",
+     "evidence": "Tibetan དེ་ཡང་བདག་གིས་མ་བསྟེན་ཏོ = \"that too I did not rely on\" (Skt tacca na sevitam). Negation མ་ is dropped, so the speaker claims to have relied on merit; meaning reversed.",
+     "fix": "तो मैंने उसका भी आश्रय नहीं लिया।"
+    }
+   ]
+  },
+  {
+   "id": "3-5",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "जगत् के इन प्राणियों को अंधा छोड़कर",
+     "evidence": "Tibetan འགྲོ་འདི་ལྡོངས་པར་མི་དགོད་ཅིང་ = \"not making/leaving these beings blind\" (Skt mā bhūd andham idaṃ jagat), a negative prayer. The Hindi has no negation; \"अंधा छोड़कर ... विराजमान रहें\" reads as remaining after leaving beings blind.",
+     "fix": "जगत् के इन प्राणियों को अंधा न छोड़ें और"
+    }
+   ]
+  },
+  {
+   "id": "3-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-19",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "एक लाख कल्पों",
+     "evidence": "Tibetan བསྐལ་པ་བྱེ་བ་བརྒྱ = a hundred byeba (ten millions), i.e. 10^9 eons (Skt kalpakoṭiśata). \"एक लाख\" (100,000) is the wrong number.",
+     "fix": "सौ करोड़ कल्पों"
+    }
+   ]
+  },
+  {
+   "id": "4-28",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "major",
+     "span": "द्वेष आदि शत्रु",
+     "evidence": "Tibetan ཞེ་སྡང་སྲེད་སོགས་དགྲ = enemies \"hatred, craving, etc.\" (Skt tṛṣṇādveṣādi). སྲེད (locked तृष्णा) is omitted.",
+     "fix": "द्वेष, तृष्णा आदि शत्रु"
+    }
+   ]
+  },
+  {
+   "id": "5-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-83",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "छोटे के लिए बड़े का त्याग करे",
+     "evidence": "Tibetan ཆུང་ངུའི་ཕྱིར་ནི་ཆེ་མི་གཏང་ = \"do not forsake the great for the sake of the small\" (Skt netarārthaṃ tyajec chreṣṭhām). Negation མི་ dropped; meaning reversed.",
+     "fix": "छोटे के लिए बड़े का त्याग न करे"
+    }
+   ]
+  },
+  {
+   "id": "5-96",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "major",
+     "span": "सतर्कता",
+     "evidence": "Locked rendering for ཤེས་བཞིན (Skt saṃprajānan) is सम्प्रजन्य; \"सतर्कता\" is used instead.",
+     "fix": "सम्प्रजन्य के साथ"
+    }
+   ]
+  },
+  {
+   "id": "6-1",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "दस कल्पों",
+     "evidence": "Tibetan བསྐལ་པ་སྟོང་ = a thousand eons (Skt kalpasahasraiḥ). Number changed from thousand to ten.",
+     "fix": "सहस्र कल्पों"
+    }
+   ]
+  },
+  {
+   "id": "6-121",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-128",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "पलटकर हानि पहुँचाते हैं।",
+     "evidence": "Tibetan ནུས་ཀྱང་ཕྱིར་གནོད་མི་བྱེད = \"even though able, do not harm in return\" (Skt vikartuṃ naiva śaknoti). Negation མི་ dropped; the far-sighted are said to retaliate, reversing the meaning.",
+     "fix": "पलटकर हानि नहीं पहुँचाते।"
+    }
+   ]
+  },
+  {
+   "id": "7-14",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "देव की नौका",
+     "evidence": "Tibetan མི་ཡི་གྲུ = boat of humans / human (existence) (Skt mānuṣyaṃ nāvam). \"देव\" (god) is wrong.",
+     "fix": "मनुष्य की नौका"
+    }
+   ]
+  },
+  {
+   "id": "7-21",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "किन्तु बोधि प्राप्त कर पाऊँगा।",
+     "evidence": "Tibetan བྱང་ཆུབ་ཐོབ་པར་མི་འགྱུར་རོ = \"will not attain awakening\" (Skt na ca bodhir bhaviṣyati). Negation dropped; meaning reversed.",
+     "fix": "किन्तु बोधि प्राप्त नहीं कर पाऊँगा।"
+    }
+   ]
+  },
+  {
+   "id": "8-4",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "major",
+     "span": "अन्तर्दृष्टि",
+     "evidence": "Locked rendering for ལྷག་མཐོང (Skt vipaśyanā) is विपश्यना; \"अन्तर्दृष्टि\" is used.",
+     "fix": "विपश्यना"
+    }
+   ]
+  },
+  {
+   "id": "8-32",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "यदि दुःख का भाग अन्य लेते,",
+     "evidence": "Tibetan སྡུག་བསྔལ་སྐལ་གཞན་མི་ལེན་ན = \"if others do not take a share of the suffering\" (Skt nānyasya tadvyathābhāgaḥ). Negation dropped, turning the premise into a counterfactual and undermining the argument.",
+     "fix": "यदि दुःख का भाग अन्य नहीं लेते,"
+    }
+   ]
+  },
+  {
+   "id": "8-84",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "major",
+     "span": "और पर्वत-गुफाओं",
+     "evidence": "Tibetan ཞི་བའི་ནགས་ཀྱི་ནང་དག་ = \"within peaceful forests\" (Skt śāntāsu vanabhūmiṣu). Mountain caves are not in the Tibetan or Sanskrit.",
+     "fix": "शान्त वनों के भीतर"
+    }
+   ]
+  },
+  {
+   "id": "9-2",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "परमार्थ बुद्धि का विषय है,",
+     "evidence": "Tibetan དོན་དམ་བློ་ཡི་སྤྱོད་ཡུལ་མིན = \"the ultimate is not the domain of the intellect\" (Skt buddher agocaras tattvam). Negation dropped; core teaching reversed.",
+     "fix": "परमार्थ बुद्धि का विषय नहीं है,"
+    }
+   ]
+  },
+  {
+   "id": "9-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-17",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "कहा है कि चित्त से चित्त देखा जाता है।",
+     "evidence": "Tibetan སེམས་ཀྱིས་སེམས་མི་མཐོང་ཞེས་གསུངས = \"said that the mind does not see the mind\" (Skt cittaṃ cittaṃ na paśyati). Negation dropped; meaning reversed.",
+     "fix": "कहा है कि चित्त से चित्त नहीं देखा जाता।"
+    }
+   ]
+  },
+  {
+   "id": "10-51",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "अवलोकितेश्वर",
+     "evidence": "Tibetan འཇམ་དབྱངས (locked मञ्जुश्री; Skt mañjughoṣa) = Mañjuśrī, not Avalokiteśvara. Wrong referent.",
+     "fix": "मञ्जुश्री"
+    }
+   ]
+  },
+  {
+   "id": "10-55",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

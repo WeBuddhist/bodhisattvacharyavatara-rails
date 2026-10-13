@@ -1,0 +1,262 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "2-34",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-35",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-36",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-37",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-38",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-39",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-40",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-41",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-42",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-43",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-44",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-45",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-46",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-47",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-48",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-49",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-50",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-51",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "མགོན",
+      "reason": "epithet",
+      "dm": "protectors",
+      "gm": "protectors"
+     },
+     {
+      "bo": "སྐྱབས",
+      "reason": "Buddhist concept",
+      "dm": "refuge",
+      "gm": "refuge"
+     }
+    ]
+   },
+   {
+    "id": "2-52",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-53",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-54",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-55",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-56",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཐམས་ཅད་མཁྱེན",
+      "reason": "epithet of a Buddha",
+      "dm": "Omniscient",
+      "gm": "omniscient"
+     }
+    ]
+   },
+   {
+    "id": "2-57",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-58",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-59",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-60",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-61",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-62",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-63",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "ordinary verb"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-64",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-65",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "2-a",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "2-63",
+    "bo": "མི་ཤེས",
+    "reason": "ordinary verb"
+   }
+  ],
+  "fix_span": [],
+  "add": [
+   {
+    "id": "2-51",
+    "bo": "མགོན",
+    "dm": "protectors",
+    "gm": "protectors",
+    "reason": "epithet"
+   },
+   {
+    "id": "2-51",
+    "bo": "སྐྱབས",
+    "dm": "refuge",
+    "gm": "refuge",
+    "reason": "Buddhist concept"
+   },
+   {
+    "id": "2-56",
+    "bo": "ཐམས་ཅད་མཁྱེན",
+    "dm": "Omniscient",
+    "gm": "omniscient",
+    "reason": "epithet of a Buddha"
+   }
+  ]
+ }
+}

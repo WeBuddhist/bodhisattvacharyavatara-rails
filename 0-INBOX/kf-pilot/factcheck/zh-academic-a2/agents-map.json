@@ -1,0 +1,16 @@
+{
+ "step": "factcheck-academic",
+ "text": "bodhicaryavatara",
+ "lang": "zh",
+ "model": "sonnet",
+ "attempt": 2,
+ "session_dir": "/Users/tashitsering/.claude/projects/-Users-tashitsering-Desktop-work-Obsidian-KF-project/9c21a05b-5fa1-4975-8bee-f6f235fc6f76",
+ "agents": {
+  "batch-01": "a9ba70545eaa43a2b",
+  "batch-02": "ae3f7745843aad5cb",
+  "batch-03": "a8591dafddcb7a4e6",
+  "batch-04": "a2aef4723aae7f324",
+  "batch-05": "a8de1ffa8db2966db",
+  "batch-06": "a08e7bb221647f828"
+ }
+}

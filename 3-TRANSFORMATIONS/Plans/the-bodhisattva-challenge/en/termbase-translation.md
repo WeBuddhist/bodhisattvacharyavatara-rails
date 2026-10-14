@@ -294,3 +294,15 @@ a signal that the review step is not happening.
 | གྭ་རྒྱ་ལྦ་             | gwa, gya and lba (left untranslated; meaning not confirmed) | Day 103    | pending |
 | གྲྭ་རྒན་               | old monk                                                    | Day 103    | pending |
 | ལྟས་ངན་                | bad omen                                                    | Day 103    | pending |
+| དེད་དཔོན་སྙིང་རྗེ་ཆེན་པོ་  | the caravan leader Great Compassion (tentative; treated as a name)               | Day 106    | pending |
+| མི་ནག་མདུང་ཐུང་ཅན          | a bad man with a short spear (tentative; མི་ནག may also mean a dark-skinned man) | Day 106    | pending |
+| བྲམ་ཟེའི་ཁྱེའུ་སྐར་མ       | the young brahmin Star (tentative; name rendered literally)                      | Day 106    | pending |
+| ཚོགས་འདུམས་པ               | completed the accumulation (tentative; the verb འདུམས་ is unclear)               | Day 106    | pending |
+| ལོག་པར་ལྟུང་བ              | those who have fallen into wrong ways (tentative)                                | Day 107    | pending |
+| བརྟུལ་ཞུགས་                | those who keep strict discipline (tentative)                                     | Day 107    | pending |
+| བསོད་སྙོམས་                | alms                                                                             | Day 107    | pending |
+| ཆོས་གོས་གསུམ               | the three Dharma robes                                                           | Day 107    | pending |
+| འདོད་ཆགས་                  | desire (tentative)                                                               | Day 107    | pending |
+| ཁྲིམས་ལྡན་                 | with ethics (tentative)                                                          | Day 108    | pending |
+| མདོ་སྡེ་དཀོན་མཆོག་བརྩེགས་པ | the _Heap of Jewels Sutra_ (tentative; Sanskrit title Ratnakuta not confirmed)   | Day 109    | pending |
+| ཐེག་པ་དམན་པ                | the lesser vehicle                                                               | Day 109    | pending |

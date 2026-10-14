@@ -306,3 +306,18 @@ a signal that the review step is not happening.
 | ཁྲིམས་ལྡན་                 | with ethics (tentative)                                                          | Day 108    | pending |
 | མདོ་སྡེ་དཀོན་མཆོག་བརྩེགས་པ | the _Heap of Jewels Sutra_ (tentative; Sanskrit title Ratnakuta not confirmed)   | Day 109    | pending |
 | ཐེག་པ་དམན་པ                | the lesser vehicle                                                               | Day 109    | pending |
+| ནམ་མཁའ་མཛོད་ཀྱི་མདོ   | the _Akashagarbha Sutra_ (tentative; spelled ནམ་མཁའ་མཛོད་ here and ནམ་མཁའི་སྙིང་པོ་ on Day 115, assumed to be the same sutra) | Day 112    | pending |
+| ཕུང་པོ་གསུམ་པ         | the _Three Aggregates Sutra_ (as in the verse source)                                                                         | Day 112    | pending |
+| བདུད་ཀྱིས་གླགས་རྙེད་པ | Mara finds an opening                                                                                                         | Day 112    | pending |
+| དཔུང་བཟང་             | the _Good Arm_ (a cited work; literal rendering, identification not confirmed)                                                | Day 113    | pending |
+| བླ་མེད་བྱང་ཆུབ་       | unsurpassed awakening                                                                                                         | Day 113    | pending |
+| གཞོན་ནུ་དཔལ་འབྱུང་    | the young man Paljung (name rendered as in the verse source)                                                                  | Day 114    | pending |
+| བཤེས་གཉེན་            | spiritual friend                                                                                                              | Day 114    | pending |
+| དགེ་བའི་བཤེས་གཉེན་    | good spiritual friend                                                                                                         | Day 114    | pending |
+| སྡེ་སྣོད་             | scriptures (tentative)                                                                                                        | Day 114    | pending |
+| མདོ་སྡེ་ཕལ་པོ་ཆེ      | the _Avatamsaka Sutra_ (tentative)                                                                                            | Day 115    | pending |
+| དཀོན་མཆོག་སྤྲིན       | the _Jewel Cloud Sutra_ (tentative)                                                                                           | Day 115    | pending |
+| ཕལ་ཆེན་པོ་ཏི་དྲུག     | the six volumes of the Avatamsaka (tentative)                                                                                 | Day 115    | pending |
+| རྩ་ལྟུང་              | root downfalls                                                                                                                | Day 115    | pending |
+| འཇུག་སྡོམ་            | the engaging vow (tentative)                                                                                                  | Day 115    | pending |
+| བློན་པོའི་གཅིག        | one for ministers (the Tibetan says only 'one'; unclear)                                                                      | Day 115    | pending |

@@ -1,0 +1,121 @@
+{
+ "batch": "batch-22",
+ "segments": [
+  {
+   "id": "6-122",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-123",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "意樂",
+     "evidence": "Tibetan ཡིད་བདེར་མི་འགྱུར་བ (bo-shenga 6-123: ཡིད་བདེ་བར་མི་འགྱུར) means the mind is not made comfortable/happy (Skt na saumanasyam). 意樂 is the established Chinese technical term for āśaya (intention, disposition), so it risks being read as 'intention' rather than 'mental happiness'.",
+     "fix": "不能令心安樂"
+    }
+   ]
+  },
+  {
+   "id": "6-124",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-125",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-126",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-127",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-128",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-129",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-130",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-131",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-132",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-133",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-134",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-5",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "猶如屠夫與水牛一般",
+     "evidence": "Tibetan གདོལ་པ་དང་ནི་མ་ཧེ་བཞིན is elliptical; bo-gyaltsab 7-5 and bo-shenga 7-5 make clear that the sleeper is compared to the buffalo that stays calm and asleep while others of its kind are slaughtered one by one by the butcher/outcaste (Skt caṇḍālamahiṣo). 'like a butcher and a buffalo' leaves the comparison unclear, as if the addressee were both.",
+     "fix": "猶如在屠夫身旁（同類被宰殺卻）安睡不覺的水牛"
+    }
+   ]
+  },
+  {
+   "id": "7-6",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "batch": "batch-31",
+ "segments": [
+  {
+   "id": "8-91",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-101",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-102",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "否則我也猶如有情",
+     "evidence": "Tibetan 'དེ་མིན་བདག་ཀྱང་སེམས་ཅན་བཞིན།' = if others' suffering is not to be averted, then my own suffering too, like that of other sentient beings, is not to be averted (bo-shenga 8-102: 'བདག་གི་སྡུག་བསྔལ་ཉིད་ཀྱང་སེམས་ཅན་གཞན་གྱི་སྡུག་བསྔལ་བཞིན་བཟློག་པར་མི་བྱའོ'). The Chinese 'I too am like sentient beings' does not state what is parallel.",
+     "fix": "否則，我之苦亦如其他有情之苦，不應遣除"
+    }
+   ]
+  },
+  {
+   "id": "8-103",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-104",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "為自他而生起",
+     "evidence": "Tibetan 'རང་དང་གཞན་ལ་བསྐྱེད་བྱ་ཉིད' with locative ལ: bo-kunpal 8-104 says compassion's suffering is to be generated 'རང་དང་གཞན་སེམས་ཅན་མང་པོའི་རྒྱུད་ལ་བསྐྱེད' (in the continua of oneself and others), not generated 'for the sake of' them.",
+     "fix": "於自他之上生起"
+    }
+   ]
+  },
+  {
+   "id": "8-105",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-107",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-109",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-110",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

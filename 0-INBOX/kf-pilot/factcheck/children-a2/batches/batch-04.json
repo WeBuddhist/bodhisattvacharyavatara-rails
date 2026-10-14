@@ -1,0 +1,444 @@
+[
+ {
+  "id": "7-18",
+  "tibetan": "སྦྲང་བུ་ཤ་སྦྲང་བུང་བ་དང་། ། དེ་བཞིན་སྲིན་བུར་གང་གྱུར་པ། ། དེས་ཀྱང་བརྩོན་པའི་སྟོབས་བསྐྱེད་ན། ། བྱང་ཆུབ་ཐོབ་དཀའ་བླ་མེད་འཐོབ། །",
+  "academic_translation": "Flies, gadflies, and bees,\nAnd likewise whatever has become a worm—\nEven they, if they generate the power of diligence,\nWill attain unsurpassable awakening, which is hard to attain.",
+  "locked_terms": [
+   {
+    "tibetan": "བརྩོན་པའི་སྟོབས",
+    "use": "power of joyful effort"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   }
+  ],
+  "translation": "Think of flies, gadflies, bees, and worms. If even they build up the power of joyful effort, they will reach the highest awakening, which is very hard to achieve."
+ },
+ {
+  "id": "7-20",
+  "tibetan": "འོན་ཏེ་རྐང་ལག་ལ་སོགས་པ། ། བཏང་དགོས་བདག་ནི་འཇིགས་ཤེ་ན། ། ལྕི་དང་ཡང་བ་མ་དཔྱད་པར། ། རྨོངས་པས་བདག་ནི་འཇིགས་པར་ཟད། །",
+  "academic_translation": "\"But my arms, legs, and so forth,\nMust be given away, so I am afraid,\" if I think—\nWithout analyzing what is heavy and what is light,\nI am merely afraid due to delusion.",
+  "locked_terms": [],
+  "translation": "I might think, \"I am afraid to give away my arms and legs.\" But this fear is just confusion. I am not weighing what matters more and what matters less."
+ },
+ {
+  "id": "7-29",
+  "tibetan": "འདི་ནི་བྱང་ཆུབ་སེམས་སྟོབས་ཀྱིས། ། སྔོན་གྱི་སྡིག་པ་ཟད་བྱེད་ཅིང་། ། བསོད་ནམས་རྒྱ་མཚོ་སྡུད་བྱེད་ཕྱིར། ། ཉན་ཐོས་རྣམས་པས་མཆོག་ཏུ་བཤད། །",
+  "academic_translation": "Because this bodhisattva, through the power of bodhicitta,\nExhausts previous misdeeds\nAnd gathers an ocean of merit,\nHe is explained to be superior to the Śrāvakas.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས",
+    "use": "awakening mind"
+   },
+   {
+    "tibetan": "སྡིག་པ",
+    "use": "harmful deed"
+   },
+   {
+    "tibetan": "བསོད་ནམས་རྒྱ་མཚོ",
+    "use": "ocean of stored goodness"
+   },
+   {
+    "tibetan": "ཉན་ཐོས",
+    "use": "Hearer"
+   }
+  ],
+  "translation": "The power of the awakening mind uses up past harmful deeds. It also gathers an ocean of stored goodness. Because of this, the bodhisattva is greater than the Hearers."
+ },
+ {
+  "id": "7-35",
+  "tibetan": "བདག་དང་གཞན་གྱི་ཡོན་ཏན་ནི། ། མང་པོ་བདག་གིས་བསྒྲུབ་བྱ་སྟེ། ། དེ་ལ་ཡོན་ཏན་རེ་རེ་ཡང་། ། བསྐལ་པ་རྒྱ་མཚོས་གོམས་འགྱུར་ན། །",
+  "academic_translation": "The good qualities of myself and others,\nWhich are many, I must accomplish;\nWherein if for each and every good quality\nI must familiarize myself for an ocean of eons,",
+  "locked_terms": [
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   },
+   {
+    "tibetan": "བསྐལ་པ་རྒྱ་མཚོ",
+    "use": "ocean of great ages"
+   }
+  ],
+  "translation": "I must build up many good qualities in myself and others. If I must practice each and every good quality for an ocean of great ages,"
+ },
+ {
+  "id": "7-39",
+  "tibetan": "བདག་ནི་སྔོན་དང་ད་ལྟར་ཡང་། ། ཆོས་ལ་མོས་དང་བྲལ་བ་ཡིས། ། ཕོངས་པ་འདི་འདྲ་བྱུང་བར་གྱུར། ། སུ་ཞིག་ཆོས་ལ་མོས་པ་གཏོང་། །",
+  "academic_translation": "Because I have been devoid of aspiration for the Dharma,\nPreviously and even now,\nSuch destitution has come about;\nWho would forsake aspiration for the Dharma?",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོས",
+    "use": "teachings"
+   },
+   {
+    "tibetan": "མོས་པ",
+    "use": "strong wish"
+   }
+  ],
+  "translation": "Because I did not have a strong wish for the teachings in the past, and still do not have it now, I have ended up in such a sad, empty state. Who would ever give up a strong wish for the teachings?"
+ },
+ {
+  "id": "7-48",
+  "tibetan": "སྐྱེ་བ་གཞན་དུ་དེ་གོམས་ཤིང་། ། སྡིག་དང་སྡུག་བསྔལ་འཕེལ་བར་འགྱུར། ། གཞན་དང་འབྲས་བུའི་དུས་ཀྱང་ནི། ། དམན་འགྱུར་དེ་ཡང་འགྲུབ་མི་འགྱུར། །",
+  "academic_translation": "Habituated to that in another life,\nMisdeeds and suffering will increase.\nAnother deed, and the time of the result,\nWill become inferior, and that other deed too will not be accomplished.",
+  "locked_terms": [
+   {
+    "tibetan": "སྐྱེ་བ་གཞན",
+    "use": "another life"
+   },
+   {
+    "tibetan": "སྡིག",
+    "use": "harmful deed"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "If I get used to giving up, it will happen in another life too. My harmful deeds and suffering will increase. Any other action, and the time of its result, will become weak. Then that other action will not get finished either."
+ },
+ {
+  "id": "7-49",
+  "tibetan": "ལས་དང་ཉོན་མོངས་ནུས་པ་སྟེ། ། གསུམ་པོ་དག་ལ་ང་རྒྱལ་བྱ། ། བདག་ཉིད་གཅིག་པུས་བྱའོ་ཞེས། ། འདི་ནི་ལས་ཀྱི་ང་རྒྱལ་ཉིད། །",
+  "academic_translation": "Karma, afflictions, and capacity:\nOne should cultivate pride in these three.\nThinking, \"I shall do it alone,\"\nThis is pride in action.",
+  "locked_terms": [
+   {
+    "tibetan": "ལས",
+    "use": "action"
+   },
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   },
+   {
+    "tibetan": "ང་རྒྱལ",
+    "use": "pride"
+   },
+   {
+    "tibetan": "ལས་ཀྱི་ང་རྒྱལ",
+    "use": "pride in action"
+   }
+  ],
+  "translation": "I should build my pride in three things: my action, my power over troubling emotions, and my ability. Thinking, \"I will do this alone,\" is pride in action."
+ },
+ {
+  "id": "7-64",
+  "tibetan": "སྤུ་གྲིའི་སོར་ཆགས་སྦྲང་རྩི་ལྟའི། ། འདོད་པ་རྣམས་ཀྱིས་མི་ངོམས་ན། ། རྣམ་སྨིན་བདེ་ལ་ཞི་བ་ཡི། ། བསོད་ནམས་ཀྱིས་ལྟ་ཅི་སྟེ་ངོམས། །",
+  "academic_translation": "If one is not satiated by sensual desires,\nWhich are like honey smeared on a razor's edge,\nBy merit, whose ripening is happiness and which is peaceful,\nHow could one ever be satiated?",
+  "locked_terms": [
+   {
+    "tibetan": "འདོད་པ",
+    "use": "desire for pleasure"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "store of goodness"
+   },
+   {
+    "tibetan": "རྣམ་སྨིན",
+    "use": "ripening"
+   },
+   {
+    "tibetan": "བདེ",
+    "use": "happiness"
+   },
+   {
+    "tibetan": "ཞི་བ",
+    "use": "peace"
+   }
+  ],
+  "translation": "If we never get enough of our desires for pleasure, which are like honey smeared on a razor's edge, how could I ever get enough of a store of goodness? Its ripening is happiness and peace."
+ },
+ {
+  "id": "7-67",
+  "tibetan": "འཐབ་རྙིང་དགྲ་དང་ལྷན་ཅིག་ཏུ། ། གཡུལ་ངོར་རལ་ཁ་ལྷགས་པ་བཞིན། ། ཉོན་མོངས་མཚོན་ལས་གཟུར་བྱ་ཞིང་། ། ཉོན་མོངས་དགྲ་རྣམས་གཞོམ་པར་བཏེག །",
+  "academic_translation": "Just as a veteran warrior, together with enemies,\nClashes swords on the battlefield,\nOne should dodge the weapons of the afflictions\nAnd strike to destroy the enemy afflictions.",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   }
+  ],
+  "translation": "Just like an experienced warrior clashing swords with enemies on a battlefield, I must dodge the weapons of the troubling emotions. Then I must strike to destroy those enemy troubling emotions."
+ },
+ {
+  "id": "7-a",
+  "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ལས། བརྩོན་འགྲུས་བསྟན་པ་ཞེས་བྱ་བ་སྟེ་ལེའུ་བདུན་པའོ།། །།",
+  "academic_translation": "From Entering the Way of the Bodhisattva, this is the seventh chapter, entitled the Exposition of Diligence.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ",
+    "use": "Entering the Way of the Awakening Hero"
+   },
+   {
+    "tibetan": "བརྩོན་འགྲུས",
+    "use": "joyful effort"
+   }
+  ],
+  "translation": "From Entering the Way of the Awakening Hero, this is the seventh chapter, called the Teaching on Joyful Effort."
+ },
+ {
+  "id": "8-6",
+  "tibetan": "མ་མཐོང་ན་ནི་དགར་མི་འགྱུར། ། ཡིད་ཀྱང་མཉམ་འཇོག་མི་འགྱུར་ལ། ། མཐོང་ཡང་ངོམས་པར་མི་འགྱུར་བས། ། སྔར་བཞིན་སྲེད་པས་གདུང་བར་འགྱུར། །",
+  "academic_translation": "If they are not seen, one feels no joy,\nAnd the mind does not rest in meditative equipoise;\nEven when they are seen, one is not satisfied,\nAnd is tormented by craving just as before.",
+  "locked_terms": [
+   {
+    "tibetan": "མཉམ་འཇོག",
+    "use": "settled mind"
+   },
+   {
+    "tibetan": "སྲེད་པ",
+    "use": "wanting"
+   },
+   {
+    "tibetan": "ཡིད",
+    "use": "mind"
+   }
+  ],
+  "translation": "If we do not see them, we feel no joy, and the mind cannot become a settled mind. Even when we do see them, we are never satisfied. We are still hurt by wanting, just as before."
+ },
+ {
+  "id": "8-9",
+  "tibetan": "བྱིས་དང་སྐལ་བ་མཉམ་སྤྱོད་ན། ། ངེས་པར་ངན་འགྲོར་འགྲོ་འགྱུར་ཏེ། ། སྐལ་མི་མཉམ་པར་ཁྲིད་བྱེད་ན། ། བྱིས་པ་བསྟེན་པས་ཅི་ཞིག་བྱ། །",
+  "academic_translation": "If one shares the same fortune as a childish one,\nOne will certainly go to the lower realm;\nIf they lead one to a fortune unlike that of the noble ones,\nWhat is the use of relying on a childish one?",
+  "locked_terms": [
+   {
+    "tibetan": "བྱིས་པ",
+    "use": "childish person"
+   },
+   {
+    "tibetan": "ངན་འགྲོ",
+    "use": "unhappy realm"
+   }
+  ],
+  "translation": "If I share the same fate as a childish person, I will certainly go to an unhappy realm. If they lead me to a fate unlike that of the noble ones, what is the use of relying on a childish person?"
+ },
+ {
+  "id": "8-13",
+  "tibetan": "བྱིས་དང་འགྲོགས་ན་བྱིས་པ་ལ། ། བདག་བསྟོད་གཞན་ལ་སྨོད་པ་དང་། ། འཁོར་བར་དགའ་བའི་གཏམ་ལ་སོགས། ། མི་དགེ་ཅིས་ཀྱང་ངེས་པར་འབྱུང་། །",
+  "academic_translation": "If one associates with a childish one, from that childish one,\nSelf-praise, the disparagement of others,\nAnd talk that delights in saṃsāra and so forth—\nNon-virtue will certainly arise in every way.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱིས་པ",
+    "use": "childish person"
+   },
+   {
+    "tibetan": "བདག་བསྟོད",
+    "use": "praising oneself"
+   },
+   {
+    "tibetan": "འཁོར་བ",
+    "use": "cycle of rebirth"
+   },
+   {
+    "tibetan": "མི་དགེ",
+    "use": "bad deed"
+   },
+   {
+    "tibetan": "གཞན་ལ་སྨོད་པ",
+    "use": "putting others down"
+   }
+  ],
+  "translation": "If I spend time with a childish person, bad deeds will definitely happen. That childish person brings about praising oneself and putting others down. We will talk about enjoying the cycle of rebirth and things like that."
+ },
+ {
+  "id": "8-14",
+  "tibetan": "དེ་ལྟར་བདག་དང་གཞན་བསྟེན་པ། ། དེས་ནི་ཕུང་བར་འགྱུར་བར་ཟད། ། དེས་ཀྱང་བདག་དོན་མ་བྱས་ལ། ། བདག་ཀྱང་དེ་དོན་མི་འགྱུར་བས། །",
+  "academic_translation": "Thus, when oneself and another rely on each other,\nBy that, one will merely come to ruin;\nSince they do not accomplish my welfare,\nAnd I too will not accomplish their welfare,",
+  "locked_terms": [
+   {
+    "tibetan": "དོན",
+    "use": "good"
+   }
+  ],
+  "translation": "Because they will not do me any good, and I will not do them any good either, we will only ruin ourselves."
+ },
+ {
+  "id": "8-16",
+  "tibetan": "བུང་བས་མེ་ཏོག་སྦྲང་རྩི་བཞིན། ། ཆོས་ཀྱི་དོན་ཙམ་བླངས་ནས་ནི། ། ཀུན་ལ་སྔོན་ཆད་མ་མཐོང་བཞིན། ། འདྲིས་པ་མེད་པར་གནས་པར་བྱ། །",
+  "academic_translation": "Just as a bee takes nectar from a flower,\nHaving taken only what serves the purpose of the Dharma,\nAs if I had never seen them before,\nI shall remain without familiarity toward everyone.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོས",
+    "use": "teachings"
+   }
+  ],
+  "translation": "A bee just takes nectar from a flower. In the same way, I will only take what helps me practice the teachings. I will not become close to anyone, as if I had never seen them before."
+ },
+ {
+  "id": "8-22",
+  "tibetan": "སེམས་ཅན་མོས་པ་སྣ་ཚོགས་པ། ། རྒྱལ་བས་ཀྱང་ནི་མི་མགུ་ན། ། བདག་འདྲ་ངན་པས་སྨོས་ཅི་དགོས། ། དེ་བས་འཇིག་རྟེན་བསམ་པ་བཏང་། །",
+  "academic_translation": "Since sentient beings have diverse aspirations,\nif even the Victors cannot please them,\nwhat need is there to mention an inferior one like me?\nTherefore, I shall abandon thoughts of the world.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "མོས་པ",
+    "use": "strong wish"
+   },
+   {
+    "tibetan": "རྒྱལ་བ",
+    "use": "Victorious One"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན",
+    "use": "world"
+   }
+  ],
+  "translation": "Living beings have many different strong wishes. If even the Victorious Ones cannot please them all, how could someone as lowly as me do it? Therefore, I will let go of my thoughts about the world."
+ },
+ {
+  "id": "8-40",
+  "tibetan": "ཕོ་ཉ་ཕོ་ཉ་མོ་ཡིས་སྔོན། ། གང་ཕྱིར་དུ་མར་གསོལ་བཏབ་ཅིང་། ། སྡིག་པ་རྣམས་སམ་གྲགས་མིན་ལའང་། ། གང་གི་དོན་དུ་མ་འཛེམས་པར། །",
+  "academic_translation": "Previously, through male and female messengers,\nfor whose sake you made many requests,\nand regarding even misdeeds or infamy,\nfor whose sake you did not hesitate;",
+  "locked_terms": [
+   {
+    "tibetan": "སྡིག་པ",
+    "use": "harmful deed"
+   }
+  ],
+  "translation": "In the past, you sent many messengers and made many requests for their sake. You did not hesitate to do harmful deeds or ruin your good name for them."
+ },
+ {
+  "id": "8-43",
+  "tibetan": "གང་ཞིག་དང་པོ་འབད་དེ་བཏེག ། དྲངས་ཀྱང་ངོ་ཚས་འོག་ཏུ་ལྟ། ། སྔོན་ནི་མཐོང་ངམ་མ་མཐོང་ཡང་། ། གོས་ཀྱིས་གདོང་ནི་གཡོགས་པར་གྱུར། །",
+  "academic_translation": "That which you first lifted with effort,\nand though drawn up, looked down out of modesty;\nwhether seen before or unseen,\nthat face was covered by a cloth.",
+  "locked_terms": [],
+  "translation": "At first you worked hard to lift that face. Even when you lifted it up, it looked down shyly. Whether you had seen it before or not, that face was covered by a cloth."
+ },
+ {
+  "id": "8-52",
+  "tibetan": "ཁྱོད་ཉིད་མི་གཙང་མང་ཡོད་པ། ། དེ་ཉིད་ལ་ཁྱོད་གཏན་སྤྱོད་ཅིང་། ། མི་གཙང་རྐྱལ་པ་གཞན་དག་ལའང་། ། མི་གཙང་བརྐམ་པས་འདོད་པར་བྱེད། །",
+  "academic_translation": "You yourself contain much impurity,\nWhich you constantly make use of;\nAnd yet for other bags of filth as well,\nYou desire them out of greed for impurity.",
+  "locked_terms": [
+   {
+    "tibetan": "མི་གཙང",
+    "use": "filth"
+   },
+   {
+    "tibetan": "མི་གཙང་རྐྱལ་པ",
+    "use": "bag of filth"
+   },
+   {
+    "tibetan": "བརྐམ་པ",
+    "use": "greed"
+   }
+  ],
+  "translation": "You are full of filth yourself. You use it all the time. Yet you still want other bags of filth. You desire them out of greed for filth."
+ },
+ {
+  "id": "8-60",
+  "tibetan": "ཁྱོད་ནི་རང་ཉིད་མི་གཙང་ལ། ། སྨོད་མི་བྱེད་པར་མ་ཟད་ཀྱི། ། མི་གཙང་རྐྱལ་པ་མི་གཙང་ལ། ། བརྐམ་པས་གཞན་ཡང་འདོད་པར་བྱེད། །",
+  "academic_translation": "Not only do you not disparage\nYour own impurity,\nBut out of greed for impurity,\nYou also desire another bag of filth.",
+  "locked_terms": [
+   {
+    "tibetan": "མི་གཙང་རྐྱལ་པ",
+    "use": "bag of filth"
+   },
+   {
+    "tibetan": "བརྐམ་པ",
+    "use": "greed"
+   }
+  ],
+  "translation": "You do not even look down on your own filth. But out of greed for filth, you also desire another bag of filth."
+ },
+ {
+  "id": "8-82",
+  "tibetan": "དེ་ཡི་བྱེ་བའི་ཆ་ཙམ་གྱི། ། ཚེགས་ཀྱིས་སངས་རྒྱས་ཉིད་འགྲུབ་ན། ། འདོད་ལྡན་བྱང་ཆུབ་སྤྱོད་པ་བས། ། སྡུག་བསྔལ་ཆེ་ལ་བྱང་ཆུབ་མེད། །",
+  "academic_translation": "If, by merely a ten-millionth fraction of that\nHardship, Buddhahood is accomplished,\nFor a lustful person, compared to the conduct of awakening,\nThe suffering is greater, yet there is no awakening.",
+  "locked_terms": [
+   {
+    "tibetan": "སངས་རྒྱས་ཉིད",
+    "use": "state of a Buddha"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སྤྱོད་པ",
+    "use": "way of acting for awakening"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "འདོད་ལྡན",
+    "use": "person full of desire"
+   }
+  ],
+  "translation": "Even a ten-millionth part of that hardship could bring us to the state of a Buddha. A person full of desire goes through greater suffering than the way of acting for awakening. Yet they get no awakening at all."
+ },
+ {
+  "id": "8-87",
+  "tibetan": "རང་དབང་སྤྱོད་ཅིང་ཆགས་མེད་ལ། ། གང་དང་ཡང་ནི་འབྲེལ་མེད་པ། ། ཆོག་ཤེས་བདེ་སྤྱོད་གང་ཡིན་པ། ། དབང་པོས་ཀྱང་ནི་དེ་རྙེད་དཀའ། །",
+  "academic_translation": "Acting independently and without attachment,\nUnconnected to anyone at all,\nWhatever happiness of contentment one enjoys,\nThat is difficult even for Indra to find.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོག་ཤེས",
+    "use": "being happy with enough"
+   },
+   {
+    "tibetan": "དབང་པོ",
+    "use": "Indra"
+   }
+  ],
+  "translation": "They act on their own without clinging and are not tied to anyone at all. The joy of being happy with enough is hard even for Indra to find."
+ },
+ {
+  "id": "8-93",
+  "tibetan": "བདག་གིས་གཞན་གྱི་སྡུག་བསྔལ་བསལ། ། སྡུག་བསྔལ་ཡིན་ཕྱིར་བདག་སྡུག་བཞིན། ། བདག་གིས་གཞན་ལ་ཕན་པར་བྱ། ། སེམས་ཅན་ཡིན་ཕྱིར་བདག་ལུས་བཞིན། །",
+  "academic_translation": "I should dispel the suffering of others\nBecause it is suffering, like my own suffering.\nI should benefit others\nBecause they are sentient beings, like my own body.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   }
+  ],
+  "translation": "I should take away the suffering of others, because it is suffering, just like my own suffering. I should help others because they are living beings, just like my own body."
+ },
+ {
+  "id": "8-100",
+  "tibetan": "རྒྱུད་དང་ཚོགས་ཞེས་བྱ་བ་ནི། ། ཕྲེང་བ་དམག་ལ་སོགས་བཞིན་བརྫུན། ། སྡུག་བསྔལ་ཅན་གང་དེ་མེད་པ། ། དེས་འདི་སུ་ཞིག་དབང་བར་འགྱུར། །",
+  "academic_translation": "What are called a continuum and a collection\nAre false, like a garland, an army, and so forth;\nSince there is no one who possesses suffering,\nTherefore, who will have control over this?",
+  "locked_terms": [
+   {
+    "tibetan": "རྒྱུད",
+    "use": "continuing stream"
+   },
+   {
+    "tibetan": "ཚོགས",
+    "use": "collection of parts"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "A continuing stream and a collection of parts are not real in themselves. They are like a necklace or an army. Since no one truly owns suffering, who is there to control it?"
+ },
+ {
+  "id": "8-102",
+  "tibetan": "ཅི་ཕྱིར་ཀུན་གྱི་སྡུག་བསྔལ་ནི། ། བཟློག་པར་བྱ་ཞེས་བརྩད་དུ་མེད། ། གལ་ཏེ་བཟློག་ནའང་ཐམས་ཅད་བཟློག ། དེ་མིན་བདག་ཀྱང་སེམས་ཅན་བཞིན། །",
+  "academic_translation": "\"Why should the suffering of all\nBe averted?\"—there is no room for debate;\nIf it is to be averted, all is to be averted;\nIf not, I too am like sentient beings.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   }
+  ],
+  "translation": "Someone might ask, \"Why should we stop the suffering of everyone?\" There is no room to argue. If we stop it, we must stop it for all. If not, then my own suffering should not be stopped either, since I am a living being just like them."
+ }
+]

@@ -1,0 +1,11 @@
+{"batch": "batch-24", "segments": [
+{"id": "10-57", "verdict": "pass", "issues": []},
+{"id": "10-58", "verdict": "pass", "issues": []},
+{"id": "10-a", "verdict": "pass", "issues": []},
+{"id": "a-1", "verdict": "pass", "issues": []},
+{"id": "b-1", "verdict": "pass", "issues": [
+ {"type": "addition", "severity": "minor", "span": "最早，", "evidence": "The Tibetan and academic translation have no 'earliest/first' marker; this stage is only implied by the later 'afterwards' (其後) of the next segment.", "fix": "印度的為我授戒的老師薩婆若提婆，和主要校訂的翻譯家班第吉祥積，根據喀什米爾的書本，一起檢查並確定了文字。"}
+]},
+{"id": "b-2", "verdict": "pass", "issues": []},
+{"id": "b-3", "verdict": "pass", "issues": []}
+]}

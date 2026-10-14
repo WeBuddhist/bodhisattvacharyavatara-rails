@@ -1,0 +1,127 @@
+{
+ "batch": "batch-03",
+ "segments": [
+  {
+   "id": "5-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-81",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "constant, intense, fixed aspiration",
+     "evidence": "The Tibetan has only རྟག་པར་མངོན་ཞེན་གྱིས་བསླང་བ (motivated constantly / by strong inclination, mngon zhen; Skt sātatyābhiniveśa). bo-kunpal 5-81 glosses མངོན་ཞེན as འདུན་པ་ཤུགས་དྲག་པོ (strong aspiration); nothing corresponds to 'fixed'.",
+     "fix": "motivated by constant, intense aspiration"
+    }
+   ]
+  },
+  {
+   "id": "5-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-89",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "always",
+     "evidence": "མཚུངས་པར་གུས་པས་ཀུན་དུ་སྤྱད has ཀུན་དུ་སྤྱད 'engage in / treat fully' (Skt samaṃ gauravam ācaret); there is no word for 'always' (རྟག་ཏུ). bo-gyaltsab 5-89 glosses it ཀུན་ལ་མཚུངས་པར་གུས་པས་ཀུན་ཏུ་སྤྱད་ཅིང་ཉམས་སུ་བླང་བར་བྱའོ, with no temporal 'always'.",
+     "fix": "One should treat with equal respect"
+    }
+   ]
+  },
+  {
+   "id": "5-90",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-97",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "until one is able to practice it all",
+     "evidence": "The Tibetan says only དེ་སྲིད་ 'for that long / so long' with no stated end-point. The commentaries differ: bo-gyaltsab 5-97 reads ངེས་པར་སྤྱོད་པ་མཐའ་དག་ཉམས་སུ་ལེན་ནུས་པ་དེ་སྲིད་ (until able to practise all), while bo-kunpal 5-97 reads སེམས་སྦྱོང་མ་ཐུབ་པར་དེ་སྲིད་དུ (so long as the mind has not been trained). The English commits to one commentary's reading.",
+     "fix": "One should certainly practice the conduct of purifying the mind for that long."
+    }
+   ]
+  },
+  {
+   "id": "5-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-2",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "earnestly regarding patience, One should practice meditation in various ways",
+     "evidence": "བཟོད་ལ་ནན་ཏན་དུ། སྣ་ཚོགས་ཚུལ་དུ་བསྒོམ་པར་བྱ: བཟོད་ལ་ is the object of བསྒོམ ('meditate on / cultivate patience', Skt kṣāntiṃ bhāvayet; bo-gyaltsab 6-2 བཟོད་པ་བསྒོམ་པ་ལ་ནན་ཏན་དུ). 'Regarding patience, practice meditation' loosens the object relation and is awkward.",
+     "fix": "Therefore one should earnestly cultivate meditation on patience in various ways."
+    }
+   ]
+  },
+  {
+   "id": "6-11",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

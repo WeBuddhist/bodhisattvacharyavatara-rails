@@ -1,0 +1,245 @@
+{
+ "batch": "batch-17",
+ "segments": [
+  {
+   "id": "8-131",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-132",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "I might cause suffering to others",
+     "evidence": "Academic: one abandons joy through the cause of inflicting suffering on others; the harm is a stated fact, not a possibility ('might').",
+     "fix": "Out of confusion, I cause suffering to others. This only brings me unbearable suffering, and I throw away the perfect joy that brings happiness I can see and cannot see."
+    }
+   ]
+  },
+  {
+   "id": "8-133",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-134",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-135",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-136",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-137",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-138",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-139",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "Pretend that you are someone lower. Pretend that others are you.",
+     "evidence": "Academic: 'Having made the inferior and so forth into oneself, and having made oneself into others'. The inferior (and equal, etc.) are made into oneself, and oneself into the others; the children's text reverses the direction of both exchanges and drops 'and so forth'.",
+     "fix": "See the lower person as yourself, and see yourself as the other person. Clear your mind of busy thinking. Then practice feeling jealousy, rivalry, and pride."
+    }
+   ]
+  },
+  {
+   "id": "8-140",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-141",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-142",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-143",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-144",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-145",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-146",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-147",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-148",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-149",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-150",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-151",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-152",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-153",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-154",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-155",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-156",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-157",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-158",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-159",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-160",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-161",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-162",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-163",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-164",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "think of any harm you have ever done",
+     "evidence": "Academic: 'Whatever harm you have done to others... let that harm descend upon yourself' — a command to let the harm fall on oneself, not to recall it.",
+     "fix": "In short, whatever harm you have done to others for your own sake, let that same harm fall upon yourself, for the sake of all living beings."
+    }
+   ]
+  },
+  {
+   "id": "8-165",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-166",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-167",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "All faults come from you",
+     "evidence": "Academic: 'all faults rely upon you' (faults depend on / dwell in the mind), not that they originate from it; also 'do not act like that' is softened to 'do not listen'.",
+     "fix": "Even when I tell you what to do, if you, my mind, do not act that way, I must defeat you. All faults rely on you, so I have no other choice."
+    }
+   ]
+  },
+  {
+   "id": "8-168",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "I will destroy all your feeling superior.",
+     "evidence": "Ungrammatical use of the locked term as a noun phrase; Tibetan/academic: 'I shall destroy all your haughtiness'.",
+     "fix": "I will destroy all of your feeling superior, every bit of it."
+    }
+   ]
+  },
+  {
+   "id": "8-169",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-170",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

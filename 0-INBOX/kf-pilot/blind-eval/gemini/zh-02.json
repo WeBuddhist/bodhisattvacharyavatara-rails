@@ -1,0 +1,288 @@
+{
+ "segments": [
+  {
+   "id": "7-48",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "他業及彼果",
+      "explanation": "Omits \"time\" (དུས) of the fruition, rendering it just as \"their fruits\"."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "7-66",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "8-2",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "8-42",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "無我",
+      "explanation": "Uses \"無我\" (anatman), but the Tibetan \"བདག་མིན\" here means \"not mine\" (amama)."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "8-50",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "遮蔽物",
+      "explanation": "Translates \"གཡོགས་པ\" as the covering (clothes), but it refers to the covered body."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "若謂厭不淨",
+      "explanation": "Substitutes the root text's \"if there is no need\" with the commentary's explanation \"disgusted by impurity\"."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "8-76",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "8-112",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "知己",
+      "explanation": "Likely a typo for \"知已\" (having known); \"知己\" (knowing oneself) misses the Tibetan \"ཤེས་བྱས་ནས\" (having known [this])."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "8-135",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "拖他",
+      "explanation": "Likely a typo for \"托他\" or \"施他\", changing the meaning from \"give/entrust to others\" to \"drag others\"."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "8-156",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "未獲佛陀圓滿樂，如是處境絕無有",
+      "explanation": "Misses \"other than\" (མིན་པ) and \"this [suffering]\" (འདི), changing the meaning entirely."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "非屬佛之圓滿樂，如是處境絕無有",
+      "explanation": "Misses that \"such a situation\" specifically refers to \"this\" (འདི) current state of suffering."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "8-161",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "大",
+      "explanation": "Adds \"great\" (大) to the faults of others, which is not in the source text."
+     },
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "欣然",
+      "explanation": "Adds \"joyfully\" (欣然), which is not in the source text."
+     }
+    ]
+   }
+  },
+  {
+   "id": "9-16",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "所緣異實境",
+      "explanation": "Translates \"de nyid du gzhan yod\" (if in reality it exists as another) incorrectly as \"the perceived object is different from the real object.\""
+     }
+    ]
+   }
+  },
+  {
+   "id": "9-39",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "供以真俗心",
+      "explanation": "The Tibetan says \"whether it is conventional or ultimate,\" referring to the status of merit, not the \"mind\" of the worshipper."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "9-56",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "9-67",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "9-96",
+   "candidates": {
+    "A": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "境遇",
+      "explanation": "\"境遇\" normally means \"circumstances\"; using it here to mean \"contact with the object\" is highly ambiguous and confusing."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "應觀察",
+      "explanation": "The Tibetan states it was analyzed previously (indicative/past), not that it *should be* analyzed (imperative)."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "9-113",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "父子相待有",
+      "explanation": "The Tibetan specifically says \"without a son there is no father,\" which is lost when paraphrased as \"father and son exist mutually.\""
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "9-152",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "9-161",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "今生",
+      "explanation": "The Tibetan \"der\" (there) refers to the state of having obtained discernment, which is more specific than just \"this life\"."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "10-22",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "互饒益",
+      "explanation": "The Tibetan \"mnyen\" means gentle or affectionate; it does not mean to \"benefit\" (饒益)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "10-49",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "有情願悉得，怙主慈護念！",
+      "explanation": "Misses the specific connection \"whatever the protectors intend, may beings receive that,\" adding \"compassionately care\" instead."
+     }
+    ],
+    "C": []
+   }
+  }
+ ]
+}

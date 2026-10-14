@@ -1,0 +1,261 @@
+{
+ "batch": "batch-08",
+ "segments": [
+  {
+   "id": "5-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-93",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "find out what upsets people",
+     "evidence": "Having observed and inquired, one should avoid everything that causes the world to lose faith (not what merely upsets people).",
+     "fix": "By watching and asking, I should find out what makes people lose faith. Then I must avoid all of it."
+    }
+   ]
+  },
+  {
+   "id": "5-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-101",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "I give everything to awakening by sharing the goodness",
+     "evidence": "Imperative: make a dedication of everything for awakening, for the sake of beings alone; the children's text states it as a fact.",
+     "fix": "For the sake of living beings alone, I should share all the goodness for awakening."
+    }
+   ]
+  },
+  {
+   "id": "5-102",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-103",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "I will know this and other things spoken by the Buddha by reading the scriptures.",
+     "evidence": "These and other words spoken by the Buddha should be known by reading the sutras (an instruction, not a prediction).",
+     "fix": "I should read the scriptures to learn this and other things the Buddha taught."
+    }
+   ]
+  },
+  {
+   "id": "5-104",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-105",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-107",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-109",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-6",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "The enemy of anger produces these and other kinds of suffering.",
+     "evidence": "\"The enemy, anger, produces these and other such sufferings\": anger itself is the enemy that causes suffering, not an enemy of anger.",
+     "fix": "Anger is an enemy, and it brings these and other kinds of suffering."
+    }
+   ]
+  },
+  {
+   "id": "6-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-15",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "Why do you not see that all this suffering is pointless?",
+     "evidence": "Why do you not see their pointless suffering? The suffering of those afflicted by snakes, flies, hunger, thirst and rashes is the pointless kind; it does not say all suffering is pointless (cf. 6-21).",
+     "fix": "Those who suffer from snakes, biting flies, hunger, thirst and rashes suffer for no purpose. Why do you not see this?"
+    }
+   ]
+  },
+  {
+   "id": "6-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-19",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "\"for in waging war against the afflictions, harms are many\": the war is the reason the wise should not cloud the mind.",
+     "fix": "Even when suffering happens, wise people keep a clear mind. This is because they are fighting a war against troubling emotions, and many harms happen during a battle."
+    }
+   ]
+  },
+  {
+   "id": "6-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-21",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "Sadness stops us from feeling superior.",
+     "evidence": "Through disillusionment (weariness with suffering), haughtiness is dispelled; not mere sadness.",
+     "fix": "Getting tired of suffering stops us from feeling superior."
+    }
+   ]
+  }
+ ]
+}

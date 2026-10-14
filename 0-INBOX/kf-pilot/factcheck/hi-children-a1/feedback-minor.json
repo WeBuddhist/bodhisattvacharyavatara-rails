@@ -1,0 +1,1957 @@
+{
+ "1-2": {
+  "translation": "मैं यहाँ कोई नई बात नहीं कह रहा हूँ। मुझे कविताएँ बनानी भी नहीं आतीं। इसलिए मैं इसे दूसरों की भलाई के लिए नहीं लिख रहा हूँ। मैंने इसे सिर्फ अपने मन को समझाने के लिए लिखा है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "अपने मन को समझाने के लिए",
+    "evidence": "Tibetan/academic: composed 'to cultivate/habituate (bhāvanā) it in my own mind', not to persuade or console the mind.",
+    "fix": "मैंने इसे अपने मन को अच्छी बातों का अभ्यास कराने के लिए लिखा है।"
+   }
+  ]
+ },
+ "1-6": {
+  "translation": "इसलिए, अच्छा काम हमेशा कमज़ोर होता है। लेकिन नुकसान पहुँचाने वाले काम बहुत ताकतवर और भयंकर होते हैं। पूर्ण जागृति के जागृति के मन को छोड़कर, कोई दूसरा अच्छा काम उन्हें कैसे हरा सकता है?",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "पूर्ण जागृति के जागृति के मन",
+    "evidence": "Academic: 'bodhicitta of complete awakening'; the children's text repeats 'जागृति के' and is ungrammatical (locked terms: पूर्ण जागृति + जागृति का मन).",
+    "fix": "पूर्ण जागृति पाने के मन को छोड़कर, कोई दूसरा अच्छा काम उन्हें कैसे हरा सकता है?"
+   }
+  ]
+ },
+ "1-7": {
+  "translation": "मुनियों के स्वामी ने कई बहुत लम्बे युगों तक अच्छी तरह सोच-विचार किया। उन्होंने इसी को सबसे फ़ायदेमंद पाया। इसकी मदद से अनगिनत प्राणी बिना किसी मुश्किल के सबसे बड़ा सुख पा लेते हैं।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "मुनियों के स्वामी ने",
+    "evidence": "Tibetan thub dbang rnams / academic 'मुनीन्द्रों ने' is plural: many sages considered this over many kalpas; the children's text reads as a single person.",
+    "fix": "मुनियों के स्वामियों ने कई बहुत लम्बे युगों तक अच्छी तरह सोच-विचार किया।"
+   }
+  ]
+ },
+ "1-9": {
+  "translation": "जागृति का मन आते ही एक पल में चमत्कार हो जाता है। बार-बार जन्म के चक्र की जेल में बंधे दुखी प्राणी भी भली-भाँति गए हुए की संतान कहलाते हैं। तब देवता और इंसानों सहित पूरी दुनिया उन्हें प्रणाम करती है।",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "एक पल में चमत्कार हो जाता है",
+    "evidence": "Academic: bodhicitta arising, in one moment, wretched beings bound in samsara's prison are called sugata-children; no 'miracle' is mentioned.",
+    "fix": "जागृति का मन आते ही एक पल में बार-बार जन्म के चक्र की जेल में बंधे दुखी प्राणी भी भली-भाँति गए हुए की संतान कहलाते हैं।"
+   }
+  ]
+ },
+ "1-11": {
+  "translation": "सब प्राणियों के इकलौते यात्रियों के नेता ने अपनी बड़ी समझ से इसे अच्छी तरह परखा और बहुत कीमती पाया है। इसलिए, जो लोग प्राणियों के रहने की इन जगहों से आज़ाद होना चाहते हैं, वे जागृति का मन रूपी इस रत्न को कसकर पकड़े रहें।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "अपनी बड़ी समझ से",
+    "evidence": "Academic: with 'असीम बुद्धि' (limitless intelligence); 'बड़ी' weakens the boundless quality.",
+    "fix": "अपनी असीम समझ से"
+   }
+  ]
+ },
+ "1-15": {
+  "translation": "आसान शब्दों में कहें तो, उस जागृति के मन को दो तरह का समझना चाहिए: पहला है जागृति की इच्छा वाला मन। दूसरा है जागृति की ओर चल पड़ने वाला मन।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "आसान शब्दों में कहें तो",
+    "evidence": "Academic/Tibetan: 'मदो bsdu na' = 'in brief/summary', not 'in easy words'.",
+    "fix": "संक्षेप में कहें तो,"
+   }
+  ]
+ },
+ "1-20": {
+  "translation": "सुबाहु के सवाल पर, खुद इसी तरह गए हुए ने यह बात कही है। उन्होंने यह कम समझ वाले जीवों के भले के लिए समझाया था।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Academic line 1: 'इस युक्ति के साथ' (this is taught together with reasoning); the children's text drops it.",
+    "fix": "सुबाहु के सवाल में, खुद इसी तरह गए हुए ने यह बात तर्क के साथ समझाई है।"
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "कम समझ वाले जीवों",
+    "evidence": "Academic: 'हीन रुचि वाले सत्त्वों' = beings of lesser aspiration/inclination, not beings of low intelligence.",
+    "fix": "छोटी सोच वाले जीवों"
+   }
+  ]
+ },
+ "1-21": {
+  "translation": "अगर कोई सोचे कि वह जीवों का सिर्फ सिरदर्द दूर करेगा। इस अच्छी सोच से ही उसे बहुत सारी जमा हुई भलाई मिल जाती है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "बहुत सारी जमा हुई भलाई",
+    "evidence": "Academic: 'अपरिमेय पुण्य' = immeasurable merit; 'बहुत सारी' loses the immeasurability the next verse builds on.",
+    "fix": "उसे बेहिसाब जमा हुई भलाई मिल जाती है।"
+   }
+  ]
+ },
+ "1-34": {
+  "translation": "मुनि ने कहा है कि अगर कोई विजेताओं की संतान जैसे महान दानी के लिए मन में बुरा सोचता है, तो उसने जितनी बार बुरा सोचा, उसे उतने ही बहुत लम्बे युगों तक नरक में रहना पड़ेगा।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "विजेताओं की संतान जैसे महान दानी",
+    "evidence": "Academic: 'ऐसे जिनपुत्र दानपति' = the donor is himself a child of the Victors (a bodhisattva), not merely 'like' one.",
+    "fix": "ऐसे विजेताओं की संतान, यानी महान दानी, के लिए"
+   }
+  ]
+ },
+ "2-7": {
+  "translation": "मेरे पास कोई जमा हुई भलाई नहीं है। मैं बहुत गरीब हूँ। पूजा के लिए मेरे पास कोई और धन नहीं है। हे रक्षक, आप हमेशा दूसरों की भलाई सोचते हैं। मेरी भलाई के लिए मेरी इन भेंटों को स्वीकार करें।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Tibetan mthus / academic 'अपने प्रभाव से': the protector is asked to accept the offering through their power/influence, for the speaker's benefit. The children's text drops the 'through your power' idea.",
+    "fix": "मेरी भलाई के लिए, अपनी शक्ति से मेरी इन भेंटों को स्वीकार करें।"
+   }
+  ]
+ },
+ "2-24": {
+  "translation": "मैं बीते हुए, अभी के और आने वाले समय में पधारे सभी बुद्धों को झुककर प्रणाम करता हूँ। मैं उनकी शिक्षा और सर्वश्रेष्ठ सभा को भी झुककर प्रणाम करता हूँ। सभी बुद्ध की भूमियों में जितने कण हैं, मैं उतनी ही बार अपने शरीर से झुककर प्रणाम करता हूँ।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "मैं उतनी ही बार अपने शरीर से झुककर प्रणाम करता हूँ",
+    "evidence": "Tibetan/academic: bowing with bodies equal in number to the atoms of all buddha-fields (many bodies at once), not bowing that many times.",
+    "fix": "मैं बुद्ध की सभी भूमियों के कणों जितने शरीर बनाकर, सबके साथ झुककर प्रणाम करता हूँ।"
+   }
+  ]
+ },
+ "2-26": {
+  "translation": "जागृति के हृदय तक पहुँचने तक, मैं बुद्धों के पास सहारे के लिए जाता हूँ। मैं शिक्षा और जागृति-वीरों की सभा के पास भी उसी तरह सहारे के लिए जाता हूँ।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "जागृति के हृदय तक पहुँचने तक",
+    "evidence": "Academic: 'until reaching the bodhimanda' (jagriti ka hriday); the repeated 'तक ... तक' is awkward for children.",
+    "fix": "जब तक मैं जागृति के हृदय तक न पहुँच जाऊँ, मैं बुद्धों के पास सहारे के लिए जाता हूँ।"
+   }
+  ]
+ },
+ "2-32": {
+  "translation": "मेरे नुकसान पहुँचाने वाले कामों की सफ़ाई होने से पहले ही मेरी मौत हो सकती है। मुझे इनसे पक्की आज़ादी मिल सके, इसलिए कृपया जल्दी से मेरी रक्षा करें।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "मेरी मौत हो सकती है",
+    "evidence": "Tibetan 'འགྱུར་དུ་མཆི' / academic 'मेरी मृत्यु पहले ही हो जाएगी': states that death will come first, not merely that it may.",
+    "fix": "मेरे नुकसान पहुँचाने वाले कामों की सफ़ाई होने से पहले ही मेरी मौत हो जाएगी।"
+   }
+  ]
+ },
+ "2-40": {
+  "translation": "जब मैं अपने बिस्तर पर पड़ा हूँगा, तब मेरे दोस्त और परिवार वाले मुझे घेरे रहेंगे। लेकिन जान जाने का दर्द सिर्फ़ मुझे ही अकेले सहना होगा。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "सहना होगा。",
+    "evidence": "Typographic error: a Chinese/Japanese full stop (。) ends the Hindi sentence instead of '।'.",
+    "fix": "लेकिन जान जाने का दर्द सिर्फ़ मुझे ही अकेले सहना होगा।"
+   }
+  ]
+ },
+ "2-60": {
+  "translation": "जो सुख मैंने पहले भोगे और अब खत्म हो गए, उनसे मेरे पास क्या बचा है? मैंने उन्हीं से लगाव रखकर, गुरु की बात नहीं मानी।",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "जो सुख मैंने पहले भोगे",
+    "evidence": "Academic translation says only 'what was experienced in the past and has perished'; it does not specify pleasures/happiness.",
+    "fix": "जो मैंने पहले भोगा और जो अब खत्म हो गया, उससे मेरे पास क्या बचा है?"
+   }
+  ]
+ },
+ "3-1": {
+  "translation": "सभी जीवों के दुखद जन्म के दुखों को आराम देने वाले अच्छे कामों से मैं खुश होता हूँ। दुखी लोग सुख से रहें, यह देखकर भी मैं खुश होता हूँ।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "दुखी लोग सुख से रहें, यह देखकर भी मैं खुश होता हूँ",
+    "evidence": "Text rejoices in the sufferers dwelling in happiness (a fact), not a wish that they may be happy; 'देखकर' also adds an observation not in the text.",
+    "fix": "दुखी जीव जो सुख से रह रहे हैं, उससे भी मैं खुश होता हूँ।"
+   }
+  ]
+ },
+ "3-5": {
+  "translation": "जो विजेता अब शोक से मुक्त हो जाना चाहते हैं, मैं उनसे हाथ जोड़कर प्रार्थना करता हूँ। इन प्राणियों को अँधेरे में मत छोड़िए। आप अनगिनत लम्बे युगों तक हमारे साथ ही रहें।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "अँधेरे में मत छोड़िए",
+    "evidence": "Tibetan/academic say 'do not leave beings blind' (ལྡོངས་པ), not 'in darkness'; the darkness image belongs to the previous verse.",
+    "fix": "इन प्राणियों को अंधा (बिना राह दिखे) मत छोड़िए।"
+   }
+  ]
+ },
+ "3-11": {
+  "translation": "सब कुछ छोड़ देने से इंसान शोक से मुक्त हो जाता है। मेरा मन भी शोक से मुक्ति पाना चाहता है। जब एक दिन सब कुछ छोड़ना ही है, तो इसे जीवों को दे देना ही सबसे अच्छा है।",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "जब एक दिन सब कुछ छोड़ना ही है",
+    "evidence": "Academic translation says only 'since everything must be given up anyway'; 'एक दिन' adds a time reference not stated.",
+    "fix": "जब सब कुछ छोड़ना ही है, तो इसे जीवों को दे देना ही सबसे अच्छा है।"
+   }
+  ]
+ },
+ "3-15": {
+  "translation": "मुझसे जुड़कर जिसके भी मन में गुस्सा या भरोसा पैदा हो, वही हमेशा उनके सारे काम पूरे करने का कारण बन जाए।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "मुझसे जुड़कर",
+    "evidence": "Academic: 'taking me as the object/focus' (आलम्बन बनाकर) - anger or faith arising with me as its object; 'जुड़कर' (connected to me) is vaguer.",
+    "fix": "मुझे देखकर या मेरे बारे में सोचकर जिसके भी मन में गुस्सा या भरोसा पैदा हो, वही हमेशा उनके सारे काम पूरे करने का कारण बन जाए।"
+   }
+  ]
+ },
+ "3-22": {
+  "translation": "जैसे पुराने समय में भली-भाँति गए हुए लोगों ने जागृति का मन जगाया था। और वे एक-एक करके जागृति-वीर के अभ्यास में लगे रहे।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "एक-एक करके",
+    "evidence": "Tibetan/academic: 'in stages, gradually' (क्रमशः); 'एक-एक करके' suggests one by one (individually), not step by step.",
+    "fix": "और वे धीरे-धीरे, कदम-दर-कदम जागृति-वीर के अभ्यास में लगे रहे।"
+   }
+  ]
+ },
+ "3-23": {
+  "translation": "उसी तरह मैं भी प्राणियों की भलाई के लिए जागृति का मन जगाऊँगा। और मैं भी उसी तरह एक-एक करके उनका अभ्यास करूँगा।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "एक-एक करके उनका अभ्यास करूँगा",
+    "evidence": "Academic: 'I will train gradually in those trainings' (क्रमशः अभ्यास); 'उनका' follows 'प्राणियों' so it can be read as the beings' practice, and 'एक-एक करके' is not 'step by step'.",
+    "fix": "और मैं भी उसी तरह जागृति-वीर के अभ्यास को धीरे-धीरे, कदम-दर-कदम सीखूँगा।"
+   }
+  ]
+ },
+ "3-33": {
+  "translation": "आज मैंने सभी बचाने वालों के सामने प्राणियों को भली-भाँति गए हुए बनने तक और रास्ते में सुख पाने के लिए मेहमान के रूप में बुला लिया है। इसलिए, देवता और असुर आदि सब खुश हों!",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "प्राणियों को भली-भाँति गए हुए बनने तक और रास्ते में सुख पाने के लिए मेहमान के रूप में बुला लिया है",
+    "evidence": "Academic: beings invited to Sugatahood itself and, in between, to happiness; the children's sentence is tangled, and 'बनने तक' turns the goal (sugatahood) into a time limit.",
+    "fix": "आज मैंने सभी बचाने वालों के सामने प्राणियों को मेहमान बनाकर बुला लिया है। उन्हें भली-भाँति गए हुए की अवस्था तक पहुँचाना है, और बीच रास्ते में भी सुख देना है।"
+   }
+  ]
+ },
+ "4-7": {
+  "translation": "जो लोग जागृति का मन छोड़ देते हैं, फिर भी उन्हें आज़ादी मिल जाती है। किए हुए काम का यह तरीका बहुत अनोखा है। इसे केवल सब कुछ जानने वाला ही जानता है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "किए हुए काम का यह तरीका बहुत अनोखा है",
+    "evidence": "Academic: this is the inconceivable (अचिन्त्य) way of karma, known only to the omniscient; 'बहुत अनोखा' (very unusual) loses 'beyond thought'.",
+    "fix": "किए हुए काम का यह तरीका हमारी सोच से परे है।"
+   }
+  ]
+ },
+ "4-11": {
+  "translation": "अगर मेरी भारी गिरावट और मज़बूत जागृति का मन, ये दोनों बार-बार जन्म के चक्र में मिलते रहें, तो अगले पड़ाव तक पहुँचने में बहुत समय लगेगा।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "अगर मेरी भारी गिरावट और मज़बूत जागृति का मन, ये दोनों बार-बार जन्म के चक्र में मिलते रहें, तो अगले पड़ाव तक",
+    "evidence": "Academic: strong downfall and strong bodhicitta mixed 'in turn' (बारी-बारी से) in samsara, delaying attainment of a bhumi; the children's text adds 'मेरी' and 'अगले', and 'बार-बार' loses the alternation.",
+    "fix": "अगर भारी गिरावट और मज़बूत जागृति का मन, दोनों बारी-बारी से जन्म के चक्र में आते रहें, तो पड़ाव तक पहुँचने में बहुत समय लगेगा।"
+   }
+  ]
+ },
+ "4-16": {
+  "translation": "आज का दिन बिना किसी बीमारी के बीता है। मेरे पास खाना है और कोई परेशानी भी नहीं है। पर यह उम्र पल भर में धोखा दे जाती है। यह शरीर तो बस कुछ पल के उधार जैसा है।",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "आज का दिन बिना किसी बीमारी के बीता है।",
+    "evidence": "Tibetan/academic: 'such a healthy day' (ऐसा नीरोग दिन), with food and no harm - a general example, not a report that today has passed; the concessive 'even though' is split into separate facts.",
+    "fix": "ऐसा दिन भी हो सकता है जब कोई बीमारी न हो, खाना हो और कोई परेशानी भी न हो। फिर भी यह उम्र पल भर में धोखा दे जाती है।"
+   }
+  ]
+ },
+ "4-18": {
+  "translation": "अभी मेरे पास अच्छा काम करने का मौका है। अगर मैंने कोई अच्छा काम नहीं किया, तो दुखद जन्म के दुख में मैं घबरा जाऊँगा। तब मैं भला क्या कर पाऊँगा?",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "मैं घबरा जाऊँगा",
+    "evidence": "Academic: 'completely bewildered/deluded (पूर्णतः मूढ़) by the suffering of bad rebirths'; 'घबरा जाना' (panic) is not bewilderment.",
+    "fix": "दुखद जन्म के दुख में मैं बिल्कुल उलझन में पड़ जाऊँगा।"
+   }
+  ]
+ },
+ "4-21": {
+  "translation": "एक पल में किए गए नुकसान पहुँचाने वाले काम से भी एक बहुत लम्बे युग तक अवीचि नरक में रहना पड़ता है। मैंने तो बार-बार जन्म के चक्र में बहुत से नुकसान पहुँचाने वाले काम जमा किए हैं। ऐसे में मुझे सुखद जन्म कैसे मिलेगा?",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "मैंने तो बार-बार जन्म के चक्र में बहुत से",
+    "evidence": "The sins were accumulated in beginningless (anādi) samsara; \"beginningless\" is lost, leaving only \"many\".",
+    "fix": "मैंने तो जिसकी कोई शुरुआत नहीं, उस बार-बार जन्म के चक्र में बहुत से नुकसान पहुँचाने वाले काम जमा किए हैं।"
+   }
+  ]
+ },
+ "4-24": {
+  "translation": "यह सब समझने के बाद भी अगर मैंने आलस किया, तो मरने के समय मुझे बहुत दुख होगा।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "The delay/laziness is \"through delusion\" (मूढ़तावश); the cause (delusion/confusion) is not mentioned.",
+    "fix": "यह सब समझने के बाद भी अगर मैंने मूर्खता के कारण आलस किया, तो मरने के समय मुझे बहुत दुख होगा।"
+   }
+  ]
+ },
+ "4-33": {
+  "translation": "अगर अच्छी तरह सेवा की जाए, तो सब फायदा और सुख देते हैं। लेकिन अगर परेशान करने वाली भावना की सेवा की जाए, तो वह पलटकर दुख और नुकसान ही पहुँचाती है।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "तो सब फायदा और सुख देते हैं",
+    "evidence": "Subject of \"give benefit and happiness\" is unclear for a child (those who are served agreeably, as opposed to afflictions); \"सब\" has no referent.",
+    "fix": "अगर अपनों की अच्छी तरह सेवा की जाए, तो वे सब फायदा और सुख देते हैं।"
+   }
+  ]
+ },
+ "4-35": {
+  "translation": "ये बार-बार जन्म का चक्र रूपी जेल के रक्षक हैं। नरक आदि में ये हत्यारे बन जाते हैं। यदि ये मन में चिपके रहने के जाल में बैठे हैं, तो भला मुझे सुख कहाँ से मिलेगा?",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "बार-बार जन्म का चक्र रूपी जेल के रक्षक",
+    "evidence": "Tibetan/academic: guards of the prison of samsara. \"चक्र रूपी जेल\" is ungrammatical and \"रूपी\" is too hard for ages 8-12; \"ये\" (the afflictions) is also left unnamed.",
+    "fix": "ये परेशान करने वाली भावनाएँ बार-बार जन्म के चक्र की जेल के रक्षक हैं।"
+   }
+  ]
+ },
+ "4-36": {
+  "translation": "इस तरह जब तक मैं इस दुश्मन को पूरी तरह से हरा नहीं देता, तब तक मैं कोशिश करना नहीं छोड़ूँगा। घमंड वाले लोग ज़रा सा नुकसान होने पर भी गुस्सा हो जाते हैं। वे उस दुश्मन को हराए बिना सोते नहीं हैं।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "घमंड वाले लोग ज़रा सा नुकसान होने पर भी गुस्सा हो जाते हैं। वे उस दुश्मन को",
+    "evidence": "Proud people are given as an example (उदाहरणार्थ) of someone angry even at a slight harm-doer; the example marker is lost and \"उस दुश्मन\" can be mistaken for the affliction-enemy.",
+    "fix": "जैसे घमंडी लोग ज़रा सा नुकसान पहुँचाने वाले पर भी गुस्सा हो जाते हैं, और उसे हराए बिना सोते नहीं हैं।"
+   }
+  ]
+ },
+ "4-39": {
+  "translation": "लोग दुश्मनों से मिले बेकार घावों को भी गहनों की तरह दिखाते हैं। मैं तो एक बहुत बड़े काम के लिए मेहनत कर रहा हूँ। फिर भला कोई दुख मेरा क्या नुकसान कर सकता है?",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "गहनों की तरह दिखाते हैं",
+    "evidence": "Wounds given by enemies are borne/worn on the body like ornaments; \"दिखाते हैं\" (show off) changes wearing into displaying.",
+    "fix": "लोग दुश्मनों से मिले बेकार घावों को भी गहनों की तरह सजाकर पहने रहते हैं।"
+   }
+  ]
+ },
+ "4-40": {
+  "translation": "मछुआरे और किसान सिर्फ अपनी रोजी-रोटी के लिए सर्दी और गर्मी सहते हैं। फिर दुनिया के सभी प्राणियों को सुखी करने के लिए मैं ऐसी तकलीफें क्यों न सहूँ?",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "मछुआरे और किसान",
+    "evidence": "The list has three occupations: fisherman, outcaste (chandala) and farmer; one is dropped.",
+    "fix": "मछुआरे, चांडाल और किसान सिर्फ अपनी रोजी-रोटी के लिए सर्दी और गर्मी सहते हैं।"
+   }
+  ]
+ },
+ "4-43": {
+  "translation": "मुझे इस लड़ाई से लगाव रखना चाहिए और पक्की दुश्मनी मानकर युद्ध करना चाहिए। बस इस एक परेशान करने वाली भावना को नहीं छोड़ना चाहिए, क्योंकि यह दूसरी परेशान करने वाली भावनाओं को हरा देती है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "बस इस एक परेशान करने वाली भावना को नहीं छोड़ना चाहिए",
+    "evidence": "Tibetan: \"such kinds of affliction\" (the attachment to the task and the enmity just described) that destroy afflictions are the exception; \"इस एक\" is vague and a child cannot tell which feeling is meant.",
+    "fix": "बस इस तरह का लगाव और दुश्मनी की भावना छोड़ने की ज़रूरत नहीं है, क्योंकि यह दूसरी परेशान करने वाली भावनाओं को हरा देती है।"
+   }
+  ]
+ },
+ "5-2": {
+  "translation": "अगर 'मन का हाथी' खुला छोड़ दिया जाए, तो वह अवीचि नरक में बहुत भारी नुकसान पहुँचाता है। एक जंगली और पागल हाथी भी इस दुनिया में उतना नुकसान नहीं पहुँचा सकता।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "वह अवीचि नरक में बहुत भारी नुकसान पहुँचाता है",
+    "evidence": "The unbridled mind-elephant causes harm of the kind found in Avici hell (comparison); the text says the elephant harms inside Avici, which shifts the comparison to a location.",
+    "fix": "अगर 'मन का हाथी' खुला छोड़ दिया जाए, तो वह अवीचि नरक जैसा भारी नुकसान पहुँचाता है।"
+   }
+  ]
+ },
+ "5-3": {
+  "translation": "अगर हम ध्यान में रखने की रस्सी से अपने मन के हाथी को कसकर बाँध दें, तो सारे डर ख़त्म हो जाएँगे। फिर हम हर अच्छा काम आसानी से कर सकेंगे।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "फिर हम हर अच्छा काम आसानी से कर सकेंगे",
+    "evidence": "\"All virtues come into hand\" means all good qualities are obtained; the text says \"do every good deed easily\", adding ease and shifting to doing.",
+    "fix": "फिर सारी अच्छाइयाँ हमारे हाथ में आ जाएँगी।"
+   }
+  ]
+ },
+ "5-10": {
+  "translation": "फलों के साथ अपना सब कुछ सभी लोगों को सौंपने वाले 'सब कुछ दे देने वाला मन' को ही 'देने की पूर्णता' कहा गया है। इसलिए, यह केवल मन ही है।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "फलों के साथ अपना सब कुछ सभी लोगों को सौंपने वाले",
+    "evidence": "\"With fruits/results\" (འབྲས་བཅས) is taken literally and the sentence is tangled; a child may think of actual fruit.",
+    "fix": "अपना सब कुछ और उसके अच्छे नतीजे भी सभी को दे देने वाला जो मन है, उसी को 'देने की पूर्णता' कहा गया है।"
+   }
+  ]
+ },
+ "5-22": {
+  "translation": "मेरा लाभ और सम्मान चला जाए, मेरा शरीर और आजीविका भी न रहे। मेरे दूसरे कोई भी अच्छा काम नष्ट हो जाएँ, पर मैं अपने मन को कभी बिगड़ने नहीं दूँगा।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "मेरे दूसरे कोई भी अच्छा काम नष्ट हो जाएँ",
+    "evidence": "Plural 'other virtues/wholesome deeds' may be lost; the Hindi has a number disagreement (singular noun with plural verb).",
+    "fix": "मेरे दूसरे सारे अच्छे काम भी नष्ट हो जाएँ"
+   }
+  ]
+ },
+ "5-42": {
+  "translation": "किसी डर या त्योहार के समय, अगर आप नियमों का पालन न कर सकें, तो अपनी सुविधा से काम करें। कहा गया है कि देने के समय, अच्छे आचरण के प्रति एक-सा मन रखना चाहिए।",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "अगर आप नियमों का पालन न कर सकें",
+    "evidence": "Academic: 'if unable, act as convenient'; the object 'rules' is not stated, the reason connective 'क्योंकि' (since, at the time of giving, equanimity toward discipline is taught) is lost, and 'आप' shifts address from the first-person/'हम' used elsewhere.",
+    "fix": "किसी डर या त्योहार के समय अगर हम न कर सकें, तो अपनी सुविधा से काम करें, क्योंकि कहा गया है कि देने के समय अच्छे आचरण के प्रति एक-सा मन रखना चाहिए।"
+   }
+  ]
+ },
+ "5-51": {
+  "translation": "जब मुझे लाभ, सम्मान और प्रसिद्धि की चाह हो, या मैं मदद करने वाले और पीछे चलने वाले चाहूँ। या जब मेरा मन दूसरों से अपनी सेवा करवाना चाहे, तो उस समय मैं लकड़ी के लट्ठे की तरह पड़ा रहूँगा।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "लकड़ी के लट्ठे की तरह पड़ा रहूँगा",
+    "evidence": "Academic: 'remain still/steady like wood' (sthita); 'पड़ा रहूँगा' suggests lying idle rather than staying still and not acting.",
+    "fix": "लकड़ी के लट्ठे की तरह शांत रहूँगा"
+   }
+  ]
+ },
+ "5-56": {
+  "translation": "मुझे किसी नासमझ इंसान की अलग-अलग इच्छाओं से दुखी नहीं होना चाहिए। यह समझना चाहिए कि परेशान करने वाली भावना आने से ही उनका ऐसा मन हुआ है। ऐसा सोचकर मुझे उनके लिए दयालु बने रहना चाहिए।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "अलग-अलग इच्छाओं",
+    "evidence": "Tibetan/academic: the desires of childish people that are mutually conflicting (phan tshun mi mthun); \"अलग-अलग\" loses the sense of conflict, and \"किसी ... इंसान\" makes it singular though the source speaks of many people.",
+    "fix": "मुझे नासमझ लोगों की आपस में टकराने वाली इच्छाओं से दुखी नहीं होना चाहिए।"
+   }
+  ]
+ },
+ "5-57": {
+  "translation": "निर्दोष कामों में खुद के और जीवों के अधीन रहकर, बिना किसी \"मैं\" के, इस सोचने वाले मन को एक जादू से बनी रचना की तरह हमेशा काबू में रखना चाहिए।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "इस सोचने वाले मन को एक जादू से बनी रचना की तरह हमेशा काबू में रखना चाहिए",
+    "evidence": "Academic: \"like a created/emanated form, without I\" - the simile describes being without a self-centred I; the children text instead makes the mind itself like a magical creation.",
+    "fix": "जादू से बनी रचना की तरह बिना किसी \"मैं\" के रहकर, इस सोचने वाले मन को हमेशा काबू में रखना चाहिए।"
+   }
+  ]
+ },
+ "5-74": {
+  "translation": "जो दूसरों को अच्छी सीख देते हैं और बिना माँगे भलाई की बात बताते हैं, उनकी बातों को पूरे आदर के साथ मानो। हमेशा सभी के विद्यार्थी बने रहो।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "जो दूसरों को अच्छी सीख देते हैं",
+    "evidence": "Academic: (be) skilled in advising/instructing others, and receive respectfully the unasked beneficial words; the skill in advising is the practitioner's own quality. The children text turns it into a description of the people whose words are to be followed, dropping that instruction. \"मानो\" (obey) also stronger than \"ग्रहण करना\" (receive).",
+    "fix": "दूसरों को सीख देने में कुशल बनो, और जो बिना माँगे भलाई की बात बताए, उसकी बात आदर से सुनकर अपनाओ। हमेशा सबके विद्यार्थी बने रहो।"
+   }
+  ]
+ },
+ "5-76": {
+  "translation": "लोगों की पीठ पीछे उनकी अच्छी खूबी बतानी चाहिए। अगर कोई किसी की अच्छी खूबी बताए, तो हाँ में हाँ मिलानी चाहिए। अगर कोई तुम्हारी अच्छी खूबी बताए, तो उसे अच्छी खूबी का जानकार समझना चाहिए।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "हाँ में हाँ मिलानी चाहिए",
+    "evidence": "Academic: when others' good qualities are described, one should rejoice/approve (anumodana, rjes su brjod). The idiom \"हाँ में हाँ मिलाना\" suggests flattering or going along, not sincerely rejoicing.",
+    "fix": "अगर कोई किसी की अच्छी खूबी बताए, तो उसकी बात से सहमत होकर ख़ुशी से वही बात दोहरानी चाहिए।"
+   }
+  ]
+ },
+ "5-79": {
+  "translation": "बोलते समय दिल से, भरोसे के साथ और साफ़ बात कहनी चाहिए जो मन को अच्छी लगे। किसी चीज़ से चिपके रहना और नफ़रत को छोड़कर, हमें मीठा और नपा-तुला बोलना चाहिए।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Academic lists the speech as heartfelt, trust-inspiring and well-connected (सुसंबद्ध, 'brel pa); the children text drops the \"well-connected / coherent\" quality.",
+    "fix": "बोलते समय दिल से, भरोसे के साथ, बात को जोड़कर और साफ़ कहनी चाहिए जो मन को अच्छी लगे।"
+   }
+  ]
+ },
+ "5-84": {
+  "translation": "यह जानकर हमें हमेशा दूसरों की भलाई के लिए कोशिश करनी चाहिए। दूर की सोचने वाले, करुणा से भरे हुए ने इसके लिए मना किए गए काम करने की भी छूट दी है।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "दूर की सोचने वाले, करुणा से भरे हुए ने",
+    "evidence": "Source names no explicit agent (the far-seeing, compassionate one, i.e. the Buddha); for a child the sentence has no clear subject.",
+    "fix": "दूर की सोचने वाले, करुणा से भरे हुए बुद्ध ने इसके लिए मना किए गए काम करने की भी छूट दी है।"
+   }
+  ]
+ },
+ "5-96": {
+  "translation": "रक्षक के शोक से मुक्ति पाते समय लेटने की तरह ही अपनी मनचाही दिशा में सोना चाहिए। सजग रहकर जल्दी उठने के विचार में शुरू से ही पक्का मन लगाना चाहिए।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "रक्षक के शोक से मुक्ति पाते समय लेटने की तरह",
+    "evidence": "The Tibetan/academic text says: lie down as the Lord (the Buddha) lay in nirvana. The literal locked-term chain is tangled and unclear to a child who is not told who the protector is.",
+    "fix": "जैसे रक्षक (बुद्ध) शोक से मुक्ति पाते समय लेटे थे, वैसे ही अपनी मनचाही दिशा में लेटना चाहिए।"
+   }
+  ]
+ },
+ "5-105": {
+  "translation": "हमें हमेशा कैसे काम करने चाहिए, यह 'अभ्यासों का संग्रह' में बहुत अच्छे से बताया गया है। इसलिए हमें इसे बार-बार पढ़ना चाहिए।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "बहुत अच्छे से बताया गया है",
+    "evidence": "Academic translation: what is to be practiced constantly is taught there in detail (extensively), and the text should also be looked at repeatedly with certainty; the emphasis on detailed/extensive teaching and on definitely doing so is softened.",
+    "fix": "हमें हमेशा कैसे काम करने चाहिए, यह \"अभ्यासों का संग्रह\" में विस्तार से बताया गया है। इसलिए हमें इसे ज़रूर बार-बार पढ़ना चाहिए।"
+   }
+  ]
+ },
+ "6-1": {
+  "translation": "हज़ार बहुत लम्बे युगों में इकट्ठा किया गया देने और 'भली-भाँति गए हुए' बुद्धों को भेंट चढ़ाने जैसा जो भी भला बर्ताव है, उस सबको एक बार का भीतर सुलगता गुस्सा नष्ट कर देता है।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "हज़ार बहुत लम्बे युगों में इकट्ठा किया गया देने और 'भली-भाँति गए हुए' बुद्धों को भेंट चढ़ाने जैसा जो भी भला बर्ताव है",
+    "evidence": "Academic translation: all the good deeds such as giving and offering to the Sugata, accumulated over thousands of kalpas, are destroyed by a single outburst of anger. The Hindi sentence is one long, tangled sentence with a stacked modifier.",
+    "fix": "हज़ारों बहुत लम्बे युगों में हमने देने और 'भली-भाँति गए हुए' को भेंट चढ़ाने जैसे जो भी भले काम इकट्ठे किए हों, उन सबको एक बार का भीतर सुलगता गुस्सा नष्ट कर देता है।"
+   }
+  ]
+ },
+ "6-5": {
+  "translation": "उससे दोस्त दुखी हो जाते हैं। कुछ देने पर भी वे साथ नहीं रहते। सच कहें तो, गुस्सा करते हुए सुख से रहने वाला कोई भी नहीं है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "सच कहें तो",
+    "evidence": "Tibetan mdor na / academic: \"in brief\" (summing up the point). \"सच कहें तो\" suggests honesty rather than summarising; earlier segment 5-108 renders the same phrase as \"थोड़े शब्दों में कहें तो\".",
+    "fix": "थोड़े शब्दों में कहें तो, गुस्सा करते हुए सुख से रहने वाला कोई भी नहीं है।"
+   }
+  ]
+ },
+ "6-25": {
+  "translation": "जितनी भी सारी गलतियाँ और तरह-तरह के नुकसान पहुँचाने वाले काम हैं, वे सब परिस्थितियों के कारण होते हैं। उनका किसी पर निर्भर न होना मुमकिन नहीं है।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "उनका किसी पर निर्भर न होना मुमकिन नहीं है",
+    "evidence": "Academic: 'they have no independence/freedom'. The double negation is hard for ages 8-12 though the meaning is intact.",
+    "fix": "उनमें से कोई भी अपने आप, बिना दूसरों पर निर्भर हुए नहीं होता।"
+   }
+  ]
+ },
+ "6-50": {
+  "translation": "अगर मेरे इरादे में अच्छी खूबी है, तो मैं नरक नहीं जाऊँगा। लेकिन अगर मैं सिर्फ़ खुद को बचा लूँ, तो यहाँ उनका क्या होगा?",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "लेकिन अगर मैं सिर्फ़ खुद को बचा लूँ",
+    "evidence": "Academic: 'if I protect myself, what will happen to them here?' No 'only' (सिर्फ़) or contrastive 'but'; the children's text adds a nuance of selfishness.",
+    "fix": "अगर मैं खुद को बचा लूँ, तो यहाँ उनका क्या होगा?"
+   }
+  ]
+ },
+ "6-61": {
+  "translation": "जिस कारण के लिए मैं ज़िंदा हूँ, अगर वही खत्म हो जाए! फिर ऐसे जीवन का क्या फायदा? ऐसे जीवन में तो मैं केवल नुकसान पहुँचाने वाला काम ही करूँगा।",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "जिस कारण के लिए मैं ज़िंदा हूँ",
+    "evidence": "Academic: 'the purpose (उद्देश्य) for which I live'. 'कारण' is the locked rendering of རྒྱུ (cause), not of purpose, so it is imprecise here.",
+    "fix": "जिस मकसद के लिए मैं ज़िंदा हूँ, अगर वही खत्म हो जाए! फिर ऐसे जीवन का क्या फायदा, जिसमें मैं केवल नुकसान पहुँचाने वाला काम ही करूँगा?"
+   }
+  ]
+ },
+ "6-68": {
+  "translation": "जिनकी वजह से दूसरे मुझे नुकसान पहुँचा रहे हैं, मैंने पहले ऐसे किए हुए काम ही क्यों किए? जब सब कुछ किए हुए काम पर ही टिका है, तो मैं इस पर गुस्सा क्यों करूँ?",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "जिनकी वजह से दूसरे मुझे नुकसान पहुँचा रहे हैं, मैंने पहले ऐसे किए हुए काम ही क्यों किए?",
+    "evidence": "Sentence is tangled: 'जिनकी' refers to the deeds that only appear later in the sentence; 'इस पर' is also vague. Academic: 'the deed by which others harm me - why did I do it earlier?'",
+    "fix": "दूसरे जो मुझे नुकसान पहुँचा रहे हैं, उसका कारण मेरा ही किया हुआ काम है। मैंने ऐसा काम पहले क्यों किया? अगर सब कुछ किए हुए काम पर टिका है, तो मैं इस इंसान पर गुस्सा क्यों करूँ?"
+   }
+  ]
+ },
+ "6-69": {
+  "translation": "ऐसा देखकर मुझे यह कोशिश करनी चाहिए कि सब एक-दूसरे के लिए प्यार भरा मन रखें। मुझे अपनी जमा हुई भलाई बढ़ाने के लिए मेहनत करनी चाहिए।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "मुझे अपनी जमा हुई भलाई बढ़ाने के लिए मेहनत करनी चाहिए।",
+    "evidence": "Academic/Tibetan: I should strive in merits so that all become loving toward one another (merit-making is the means to that outcome). The children's text splits the two and states a different purpose ('increase my own merit').",
+    "fix": "इसलिए मुझे जमा हुई भलाई बनाने में मेहनत करनी चाहिए, ताकि सब एक-दूसरे के लिए प्यार भरा मन रखने लगें।"
+   }
+  ]
+ },
+ "6-82": {
+  "translation": "जिन लोगों की देखभाल तुम्हें करनी है और जिन्हें तुम्हें ख़ुद चीज़ें देनी चाहिए, अगर वे अपने गुज़ारे के लिए ख़ुद कमा लें, तो क्या तुम खुश होने के बजाय उल्टा गुस्सा करोगे?",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "वे अपने गुज़ारे के लिए ख़ुद कमा लें",
+    "evidence": "Academic: if those relatives (संबंधी) obtain a livelihood (प्राप्त कर लें). The children's text drops 'relatives' and changes 'obtain' to 'earn on their own'.",
+    "fix": "अगर तुम्हारे वे रिश्तेदार अपना गुज़ारा चला पाने का साधन पा लें, तो क्या तुम खुश होने के बजाय उल्टा गुस्सा करोगे?"
+   }
+  ]
+ },
+ "6-85": {
+  "translation": "तुम अपनी जमा हुई भलाई, भरोसा और अच्छी खूबियों को क्यों छोड़ रहे हो? तुम्हें जो मिलना चाहिए उसे तुम नहीं ले रहे। बताओ, तुम इस बात पर गुस्सा क्यों नहीं करते?",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "तुम्हें जो मिलना चाहिए उसे तुम नहीं ले रहे।",
+    "evidence": "Academic: 'not grasping what has been obtained' (प्राप्त होने वाले को न ग्रहण करते हुए); the children's text turns it into what one 'should get' (deserved).",
+    "fix": "जो तुम्हें मिल चुका है, उसे भी तुम नहीं अपना रहे।"
+   }
+  ]
+ },
+ "6-86": {
+  "translation": "तुमने खुद जो नुकसान पहुँचाने वाले काम किए हैं, तुम उनका कोई अफ़सोस नहीं करते। उल्टे जो लोग जमा हुई भलाई कर रहे हैं, क्या तुम उनसे मुकाबला करना चाहते हो? (दूसरा बम्पो।)",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "(दूसरा बम्पो।)",
+    "evidence": "Colophon 'द्वितीय बम्पो' (second bampo section marker); 'बम्पो' is an unexplained technical word for ages 8-12.",
+    "fix": "(यह दूसरा भाग पूरा हुआ।)"
+   }
+  ]
+ },
+ "6-101": {
+  "translation": "जब मैं दुख में गिरने वाला होता हूँ, तो वे बुद्ध के आशीर्वाद की तरह मुझे रोकने वाला दरवाज़ा बन जाते हैं। मैं उन पर कैसे गुस्सा करूँ?",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "जब मैं दुख में गिरने वाला होता हूँ",
+    "evidence": "Academic/Tibetan: 'when I want to enter into suffering' (दुःख में प्रविष्ट होना चाहता हूँ); the wish/desire is lost and replaced by 'about to fall'.",
+    "fix": "जब मैं दुख में जाना चाहता हूँ, तो वे बुद्ध के आशीर्वाद की तरह मुझे भीतर न जाने देने वाला दरवाज़ा बन जाते हैं। मैं उन पर कैसे गुस्सा करूँ?"
+   }
+  ]
+ },
+ "6-109": {
+  "translation": "अगर कोई कहे कि दुश्मन हमें धैर्य नहीं सिखाना चाहता, इसलिए वह आदर के लायक नहीं है। लेकिन पवित्र शिक्षा में भी तो कोई इच्छा नहीं होती, फिर हम उसकी पूजा क्यों करते हैं?",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "पवित्र शिक्षा में भी तो कोई इच्छा नहीं होती",
+    "evidence": "The Tibetan/academic text says the sacred Dharma, which is fit to be a cause of accomplishment, is also worshipped; the children's text drops the point that the Dharma is a cause of accomplishment and instead asserts that it has no intention.",
+    "fix": "लेकिन पवित्र शिक्षा भी तो कुछ पाने का कारण बनती है, फिर हम उसकी पूजा क्यों करते हैं?"
+   }
+  ]
+ },
+ "6-114": {
+  "translation": "इरादे की अच्छी खूबी अपने आप नहीं होती, वह उसके फल से जानी जाती है। जीवों में भी अच्छी खूबी होती है। इसलिए वे समान हैं।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "वह उसके फल से जानी जाती है",
+    "evidence": "The academic text says the quality of the intention is not by itself but comes from the result (fruit), and that by this they are equal; the children's text changes \"comes from the fruit\" to \"is known by its fruit\" and leaves unclear who is equal.",
+    "fix": "इरादे की अच्छी खूबी अपने आप नहीं आती, वह फल से आती है, इसलिए जीव और बुद्ध इस बात में बराबर हैं। जीवों में भी अच्छी खूबी होती है, इसलिए वे बराबर हैं।"
+   }
+  ]
+ },
+ "6-116": {
+  "translation": "जीवों में बुद्ध के गुण पाने का एक हिस्सा होता है, इसलिए उन्हें समान माना गया है। पर अच्छी खूबियों का सागर रखने वाले बुद्धों के समान कोई नहीं है।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "अच्छी खूबियों का सागर रखने वाले बुद्धों",
+    "evidence": "The Tibetan/academic text says the Buddhas have an ocean of limitless (anant) qualities; \"limitless\" is dropped.",
+    "fix": "पर अनगिनत अच्छी खूबियों का सागर रखने वाले बुद्धों के बराबर कोई नहीं है।"
+   }
+  ]
+ },
+ "6-132": {
+  "translation": "अगर कोई राजा खुश हो भी जाए, तो भी वह हमें बुद्ध की अवस्था नहीं दे सकता। यह तो जीवों को खुश करने से ही मिलती है।",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "यह तो जीवों को खुश करने से ही मिलती है",
+    "evidence": "The text only says that what is gained by pleasing beings cannot be given by a king (Buddhahood); it does not say Buddhahood comes ONLY from pleasing beings.",
+    "fix": "यह तो जीवों को खुश करने से मिलता है।"
+   }
+  ]
+ },
+ "6-134": {
+  "translation": "बार-बार जन्म का चक्र पार करते हुए धैर्य रखने से हम सुंदर और स्वस्थ बनते हैं। इससे हमें अच्छा नाम, बहुत लंबी उम्र और पूरी दुनिया का राजा बनने जैसा बड़ा सुख मिलता है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "बार-बार जन्म का चक्र पार करते हुए",
+    "evidence": "The academic text says \"while wandering/circling in samsara\"; \"पार करते हुए\" suggests crossing over or escaping the cycle, which is a different idea.",
+    "fix": "बार-बार जन्म के चक्र में घूमते हुए, धैर्य रखने से हम सुंदर और स्वस्थ बनते हैं।"
+   }
+  ]
+ },
+ "7-3": {
+  "translation": "'निठल्लापन' के सुख का मज़ा लेने और नींद की 'चाहत' रखने से 'आलस' पैदा होता है। ऐसा तब होता है जब कोई 'बार-बार जन्म का चक्र' के 'दुख' से घबराता नहीं है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "से घबराता नहीं है",
+    "evidence": "The Tibetan/academic text says one is not weary of (not disillusioned with) samsaric suffering; \"does not get scared\" means fearlessness, a different and even positive idea.",
+    "fix": "जब कोई 'बार-बार जन्म का चक्र' के 'दुख' से ऊबता नहीं है, यानी उससे निकलना नहीं चाहता।"
+   }
+  ]
+ },
+ "7-10": {
+  "translation": "अपना नुकसान पहुँचाने वाला काम याद करके मैं बहुत दुखी होऊँगा। नरक की आवाज़ें सुनकर डर के मारे मेरा शरीर गंदा हो जाएगा। उस घबराहट में मैं क्या करूँगा?",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "उस घबराहट में",
+    "evidence": "Source says he becomes delirious/maddened (མྱོས་པ, 'विक्षिप्त') from terror; 'घबराहट' (nervousness) weakens this.",
+    "fix": "उस पागलपन जैसी हालत में मैं क्या करूँगा?"
+   }
+  ]
+ },
+ "7-14": {
+  "translation": "इंसान के शरीर रूपी नाव का सहारा लो। इससे दुख की बड़ी नदी को पार करो! यह नाव बाद में मिलना बहुत मुश्किल है। इसलिए हे मूर्ख, अब मत सोओ!",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "शरीर रूपी नाव",
+    "evidence": "Source says 'the human boat' (the human rebirth/opportunity); 'body' is not stated.",
+    "fix": "इंसान के जन्म रूपी नाव का सहारा लो।"
+   }
+  ]
+ },
+ "7-15": {
+  "translation": "पवित्र शिक्षा से हमें सबसे बड़ी खुशी मिलती है। इसे छोड़कर तुम अपना ध्यान भटकना और अशांति जैसी बातों में मज़ा क्यों लेते हो? ये सब तो दुख के कारण हैं।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Source says there are endless causes of joy, of which the sacred teaching is the supreme; the 'endless causes' point is dropped.",
+    "fix": "खुशी के अनगिनत कारण हैं, और पवित्र शिक्षा उनमें सबसे बड़ी खुशी देती है।"
+   }
+  ]
+ },
+ "7-18": {
+  "translation": "मक्खियाँ, मच्छर, मधुमक्खियाँ और सभी छोटे कीड़े भी महान बन सकते हैं। अगर वे खुशी से की गई मेहनत की ताकत लगाएँ, तो वे भी दुर्लभ और सबसे महान जागृति पा सकते हैं।",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "भी महान बन सकते हैं",
+    "evidence": "Source does not say the small creatures can become 'great'; it says only that if they generate strength of effort they will attain bodhi.",
+    "fix": "मक्खियाँ, मच्छर, मधुमक्खियाँ और सभी छोटे कीड़े भी, अगर वे खुशी से की गई मेहनत की ताक़त लगाएँ, तो दुर्लभ और सबसे महान जागृति पा लेंगे।"
+   }
+  ]
+ },
+ "7-22": {
+  "translation": "जागृति पाने का यह दुख बहुत थोड़ा है। यह शरीर के अंदर चुभे हुए काँटे को निकालने के लिए चीरा लगाने के दुख जैसा है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "बहुत थोड़ा है",
+    "evidence": "Source says the suffering is 'limited/measurable' (ཚོད་ཡོད); 'very little' overstates it. Also drops that the thorn destroys from within.",
+    "fix": "जागृति पाने का यह दुख सीमित है, जैसे अंदर से नुकसान करने वाले काँटे को निकालने के लिए चीरा लगाने का दुख।"
+   }
+  ]
+ },
+ "7-25": {
+  "translation": "रास्ता दिखाने वाले हमें शुरू में साग-सब्ज़ी आदि देना सिखाते हैं। जब इसकी आदत हो जाती है, तो बाद में हम धीरे-धीरे अपना मांस भी दे सकते हैं。",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "दे सकते हैं。",
+    "evidence": "Stray full-width punctuation mark at the end of the sentence.",
+    "fix": "दे सकते हैं।"
+   }
+  ]
+ },
+ "7-34": {
+  "translation": "अगर मुझमें गलती मिटाने की कोशिश का एक हिस्सा भी नहीं दिखता, तो अनगिनत दुख की जगह बने हुए मेरा दिल क्यों नहीं फट जाता?",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "अनगिनत दुख की जगह बने हुए मेरा दिल",
+    "evidence": "Tangled participle phrase; the heart is the 'place of immeasurable suffering', but the grammar (बने हुए / मेरा) is awkward for age 8-12.",
+    "fix": "तो मेरा दिल, जो अनगिनत दुख की जगह है, क्यों नहीं फट जाता?"
+   }
+  ]
+ },
+ "7-46": {
+  "translation": "इसलिए हमें अच्छा काम करने की इच्छा रखनी चाहिए। आदर के साथ उसका अभ्यास करना चाहिए। वज्रध्वज के तरीके से काम शुरू करना चाहिए। और फिर उसे पूरा करने का घमंड अपने अंदर जगाना चाहिए।",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "उसे पूरा करने का घमंड",
+    "evidence": "Source says simply to cultivate pride (ང་རྒྱལ, self-confidence) after beginning with the Vajradhvaja method; 'pride in completing it' is added.",
+    "fix": "फिर अपने अंदर घमंड (यानी 'मैं यह कर सकता हूँ' का भरोसा) जगाना चाहिए।"
+   }
+  ]
+ },
+ "7-48": {
+  "translation": "काम अधूरा छोड़ने की आदत से दूसरा जन्म मिलने पर भी यही स्वभाव रहेगा। इससे हमारा दुख और नुकसान पहुँचाने वाला काम बढ़ता ही जाएगा। ऐसे में किसी और काम का समय भी बेकार हो जाएगा। और वह काम भी कभी पूरा नहीं होगा।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "किसी और काम का समय भी बेकार हो जाएगा",
+    "evidence": "The verse says the time of other actions and of their fruit will become inferior (degraded); the children's text drops \"fruit\" and turns \"inferior\" into \"wasted\".",
+    "fix": "दूसरे कामों और उनके फल का समय भी बिगड़ जाएगा।"
+   }
+  ]
+ },
+ "7-51": {
+  "translation": "अगर दूसरे लोग छोटे काम करते हैं, तो मैं खाली कैसे बैठा रहूँ? मैं यह घमंड से नहीं करता। मेरे लिए घमंड का न होना ही सबसे अच्छा है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "छोटे काम",
+    "evidence": "Academic: others do \"हीन कर्म\" (inferior/low actions); \"छोटे काम\" suggests small or trivial tasks, not low or unworthy deeds.",
+    "fix": "अगर दूसरे लोग नीच काम करते हैं"
+   }
+  ]
+ },
+ "7-58": {
+  "translation": "वे मूर्ख, बदसूरत और कमज़ोर होते हैं। हर जगह उनका अपमान होता है। घमंड से फूले हुए कठिन साधना करने वाले लोग भी अगर सच्चे घमंड वालों में गिने जाएँ, तो बताओ फिर हीन लोग कैसे होते हैं?",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "सच्चे घमंड वालों",
+    "evidence": "The text only says \"counted among those with pride\" (मान वालों). \"सच्चे\" is added and clashes with 7-56, where \"सच्चे घमंड वाला\" means the true, victorious proud one.",
+    "fix": "घमंड वालों में गिने जाएँ"
+   }
+  ]
+ },
+ "7-62": {
+  "translation": "जैसे हम खेल का मज़ा लेना चाहते हैं, वैसे ही हमें अपना हर काम करना चाहिए। हमें उस काम में पूरी तरह लग जाना चाहिए। उसे करते हुए कभी नहीं थकना चाहिए और हमेशा खुश रहना चाहिए।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "उसे करते हुए कभी नहीं थकना चाहिए",
+    "evidence": "Academic: \"उस कर्म से अतृप्त होकर आनन्दित होना\" (never getting enough of it, and rejoicing). \"Never tire\" is a different idea from being insatiable.",
+    "fix": "उससे कभी मन नहीं भरना चाहिए और उसमें हमेशा खुश रहना चाहिए।"
+   }
+  ]
+ },
+ "7-64": {
+  "translation": "उस्तरे की धार पर लगे शहद की तरह, अगर हमारी सुख पाने की चाह से कभी मन नहीं भरता है। तो फिर जमा हुई भलाई से हमारा मन कैसे भर सकता है? क्योंकि इन कर्मों का पकना ही सुख और शान्ति है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "इन कर्मों का पकना ही सुख और शान्ति है",
+    "evidence": "Academic: the merit (पुण्य) is the thing whose ripening is happy and peaceful. The children's text says \"karmas\" (any action) and turns the attribute into a causal \"क्योंकि\".",
+    "fix": "जमा हुई भलाई का पकना सुख और शान्ति देता है।"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "अगर हमारी सुख पाने की चाह से कभी मन नहीं भरता है।",
+    "evidence": "The \"अगर\" clause is cut off by a full stop, leaving a broken sentence.",
+    "fix": "अगर सुख पाने की चाह से हमारा मन कभी नहीं भरता, तो फिर जमा हुई भलाई से हमारा मन कैसे भर सकता है?"
+   }
+  ]
+ },
+ "7-73": {
+  "translation": "'इन हालात में, ध्यान में रखने की आदत कैसे पड़े?' ऐसा सोचकर हमें अच्छे लोगों से मिलने या सही काम करने की इच्छा करनी चाहिए।",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "अच्छे लोगों से मिलने",
+    "evidence": "Academic has only \"समागम\" (meeting/association); \"अच्छे लोगों\" is added.",
+    "fix": "मेलजोल"
+   }
+  ]
+ },
+ "7-a": {
+  "translation": "जागृति-वीर के मार्ग में प्रवेश का सातवाँ अध्याय: खुशी से की गई मेहनत।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Title is \"Teaching/Exposition of Diligence\" (བརྩོན་འགྲུས་བསྟན་པ, वीर्य-निर्देश); the word for teaching/exposition is missing.",
+    "fix": "जागृति-वीर के मार्ग में प्रवेश का सातवाँ अध्याय: खुशी से की गई मेहनत का उपदेश।"
+   }
+  ]
+ },
+ "8-1": {
+  "translation": "इस तरह खुशी से की गई मेहनत के बाद, मन को गहरी एकाग्रता में लगाना चाहिए। जिस इंसान का मन भटकता है, वह परेशान करने वाली भावना के तेज़ दाँतों के बीच फँसा रहता है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "खुशी से की गई मेहनत के बाद",
+    "evidence": "Verse says \"having generated diligence\" (वीर्य उत्पन्न करके), not \"after diligence\".",
+    "fix": "खुशी से की गई मेहनत जगाकर"
+   }
+  ]
+ },
+ "8-13": {
+  "translation": "नासमझ इंसान का साथ करने से अपनी तारीफ़ करना और दूसरों को नीचा दिखाना शुरू हो जाता है। वे बार-बार जन्म के चक्र में मज़ा लेने वाली बातें करते हैं। इन सब से पक्का कोई बुरा काम ही होता है।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "वे बार-बार जन्म के चक्र में मज़ा लेने वाली बातें करते हैं",
+    "evidence": "The Tibetan/academic text says these things arise from the fool's company; the vague 'वे' makes it unclear who speaks of delighting in samsara.",
+    "fix": "और बार-बार जन्म के चक्र में मज़ा लेने वाली बातें भी होने लगती हैं।"
+   }
+  ]
+ },
+ "8-15": {
+  "translation": "मैं नासमझ इंसानों से बहुत दूर रहूँगा। अगर वे मिल जाएँ, तो ख़ुशी से उनसे मिलूँगा। लेकिन उनसे बहुत ज़्यादा दोस्ती नहीं बढ़ाऊँगा। उनके साथ बस एक आम इंसान की तरह रहूँगा।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "तो ख़ुशी से उनसे मिलूँगा",
+    "evidence": "Academic: on meeting them, I will satisfy/please them with joy (मिलने पर प्रसन्नता से उन्हें सन्तुष्ट करके); the idea of pleasing them is lost.",
+    "fix": "अगर वे मिल जाएँ, तो ख़ुशी से उन्हें खुश कर दूँगा।"
+   }
+  ]
+ },
+ "8-17": {
+  "translation": "\"मुझे बहुत लाभ और सम्मान मिला है, सब मुझसे बहुत ख़ुश हैं।\" अगर मैं इस तरह अपने को बड़ा समझना शुरू कर दूँ, तो मरने के बाद डर ही पैदा होगा।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "सब मुझसे बहुत ख़ुश हैं",
+    "evidence": "Tibetan/academic: 'many people (मुझसे बहुत लोग) are pleased with me', not 'everyone'.",
+    "fix": "बहुत लोग मुझसे ख़ुश हैं।"
+   }
+  ]
+ },
+ "8-18": {
+  "translation": "इसलिए यह नासमझ सोचने वाला मन जिन भी चीज़ों में फँसता है। वे सब मिलकर हज़ार गुना बढ़ जाती हैं और दुख ही बन जाती हैं।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "जिन भी चीज़ों में फँसता है।",
+    "evidence": "The first sentence is left as an incomplete fragment ending in a full stop, which is ungrammatical and hard for children to follow.",
+    "fix": "इसलिए यह नासमझ सोचने वाला मन जिन-जिन चीज़ों में फँसता है, वे सब मिलकर हज़ार गुना बढ़ जाती हैं और दुख ही बन जाती हैं।"
+   }
+  ]
+ },
+ "8-20": {
+  "translation": "भले ही हमें बहुत से लाभ मिल जाएँ। भले ही बहुत शोहरत और अच्छा नाम मिल जाए। फिर भी इस सारे लाभ और शोहरत के साथ मरकर कहाँ जाना होगा, इसका कुछ पता नहीं।",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "मरकर कहाँ जाना होगा",
+    "evidence": "Academic: 'where one will go' (कहाँ जाना होगा); the phrase 'after dying' is not stated.",
+    "fix": "कहाँ जाना होगा, इसका कुछ पता नहीं।"
+   }
+  ]
+ },
+ "8-24": {
+  "translation": "किसी भी नासमझ इंसान को अपने मतलब के बिना खुशी नहीं मिलती। इसलिए कोई भी नासमझ इंसान सच्चा दोस्त नहीं है, ऐसा इसी तरह गए हुए ने कहा है।",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "सच्चा दोस्त",
+    "evidence": "Academic/Tibetan: 'no fool is a friend (मित्र)'; 'true' is added.",
+    "fix": "कोई भी नासमझ इंसान दोस्त नहीं है"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "इसी तरह गए हुए ने कहा है",
+    "evidence": "Tibetan has a plural (the Tathagatas); the locked term in the singular with 'ने' is hard to parse for children.",
+    "fix": "इसी तरह गए हुए बुद्धों ने कहा है"
+   }
+  ]
+ },
+ "8-27": {
+  "translation": "मैं ऐसी विशाल जगहों पर कब रहूँगा जिन्हें कोई अपना नहीं कहता? वहाँ मैं बिना किसी लगाव के पूरी आज़ादी से घूमूँगा।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "वहाँ मैं बिना किसी लगाव के पूरी आज़ादी से घूमूँगा।",
+    "evidence": "The verse is a wish framed as 'when will I live there, free and without attachment?'; the children's text turns it into a plain statement and 'घूमूँगा' replaces 'रहूँगा'.",
+    "fix": "कब मैं वहाँ बिना किसी लगाव के पूरी आज़ादी से रहूँगा?"
+   }
+  ]
+ },
+ "8-33": {
+  "translation": "जैसे रास्ते पर चलने वाले लोग रुकने की जगह ढूँढ लेते हैं। वैसे ही जीवन का रास्ता चलने वाले लोग भी जन्म लेने की जगह ले लेते हैं।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "जीवन का रास्ता चलने वाले लोग",
+    "evidence": "Ungrammatical Hindi (should be 'जीवन के रास्ते पर चलने वाले'); meaning intact.",
+    "fix": "जीवन के रास्ते पर चलने वाले लोग भी"
+   }
+  ]
+ },
+ "8-40": {
+  "translation": "जिनके पास पहले दूत भेजकर बार-बार प्रार्थना की गई। जिनके लिए बदनामी या कोई नुकसान पहुँचाने वाला काम करने में भी कोई शर्म नहीं आई।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "जिनके पास पहले दूत भेजकर बार-बार प्रार्थना की गई",
+    "evidence": "Academic: prayers were made repeatedly 'for the sake of whom' (जिनके लिए); the children's text says 'to whom'.",
+    "fix": "जिनके लिए पहले दूत भेजकर बार-बार प्रार्थना की गई।"
+   }
+  ]
+ },
+ "8-42": {
+  "translation": "अब सिर्फ़ हड्डियों का ढाँचा हैं, और कुछ नहीं। उनका अपना आप नहीं है और किसी पर निर्भर न होना भी सच नहीं है। तुम उनमें इतनी चाह रखकर शोक से मुक्ति की ओर क्यों नहीं जाते?",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "किसी पर निर्भर न होना भी सच नहीं है",
+    "evidence": "Academic: they have no independence (स्वतन्त्रता) and no self; the double negative is tangled for ages 8-12.",
+    "fix": "वे किसी पर निर्भर हुए बिना नहीं रह सकते, और उनका अपना कोई आप नहीं है।"
+   }
+  ]
+ },
+ "8-43": {
+  "translation": "पहले जिस चेहरे को बड़ी कोशिश से उठाया था। खींचने पर भी जो शर्म से नीचे देखता था। उसे पहले देखा हो या न देखा हो, वह हमेशा कपड़े से ढका रहता था।",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "वह हमेशा कपड़े से ढका रहता था",
+    "evidence": "Academic: 'the face was kept covered with cloth'; 'always' and the explicit 'चेहरे' as object of the first line are additions.",
+    "fix": "उसका मुँह कपड़े से ढका रहता था।"
+   }
+  ]
+ },
+ "8-44": {
+  "translation": "परेशान करने वाली भावना लाने वाला वह चेहरा अब सामने आ गया है। गिद्धों को उसे खोलते हुए देखकर, तुम अब क्यों भाग रहे हो?",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "अब सामने आ गया है",
+    "evidence": "Academic/Tibetan: 'as if it has now become visible (जैसे अब प्रत्यक्ष हो गया है)'; the 'as if' is lost.",
+    "fix": "वह चेहरा अब जैसे आँखों के सामने आ गया है।"
+   }
+  ]
+ },
+ "8-46": {
+  "translation": "यह मांस का ढेर देखकर, गिद्ध और दूसरे जानवर इसे खाने लगते हैं। जो दूसरों का भोजन है, उसे तुम फूलों की माला, चन्दन और गहनों से क्यों सजाते हो?",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "सजाते हो",
+    "evidence": "Tibetan 'mchod' / academic 'पूजते हो': you honour/make offerings to it; 'decorate' loses the honouring.",
+    "fix": "फूलों की माला, चन्दन और गहनों से इसका सम्मान क्यों करते हो?"
+   }
+  ]
+ },
+ "8-47": {
+  "translation": "अगर बिना हिलने वाले हड्डियों का ढाँचा देखकर तुम डर जाते हो, तो जब कोई उसे एक चलती हुई लाश की तरह चलाता है, तब तुम क्यों नहीं डरते?",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "बिना हिलने वाले हड्डियों का ढाँचा देखकर",
+    "evidence": "Ungrammatical agreement and awkward phrase; academic: 'seeing it as a skeleton, motionless'.",
+    "fix": "अगर तुम बिना हिलते हुए हड्डियों के ढाँचे को देखकर डर जाते हो"
+   }
+  ]
+ },
+ "8-49": {
+  "translation": "मुलायम रुई के तकिए को छूने से तुम खुश नहीं होते। 'इसमें से कोई बदबू नहीं आती' यह कहकर, एक चाह से भरा व्यक्ति गन्दा शरीर ही पसंद करता है।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "'इसमें से कोई बदबू नहीं आती' यह कहकर",
+    "evidence": "Academic: the lustful person rejects the cotton pillow saying it does not ooze stench, and is deluded (मोहित) about the impure; the reason and the delusion are unclear in the children's text.",
+    "fix": "'इसमें से बदबू नहीं आती' यह सोचकर, चाह से भरा व्यक्ति रुई के तकिए को छोड़ देता है और गन्दे शरीर के पीछे भटकता है।"
+   }
+  ]
+ },
+ "8-50": {
+  "translation": "अगर कपड़ों से ढके होने पर भी तुम शरीर से चिपके रहना चाहते हो, तो बिना कपड़ों के इसे क्यों नहीं पसंद करते? अगर उसका कोई काम नहीं है, तो ढके हुए शरीर को गले क्यों लगाते हो?",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "अगर उसका कोई काम नहीं है",
+    "evidence": "Tibetan: 'if there is no use for that (the uncovered body)'; 'उसका' is ambiguous.",
+    "fix": "अगर बिना ढके शरीर का कोई काम नहीं है"
+   }
+  ]
+ },
+ "8-70": {
+  "translation": "इतना गंदा होने पर भी यह शरीर बिना कीमत चुकाए नहीं मिलता। इसे खुश रखने की कोशिश में बहुत थकान होती है। और आगे चलकर नरक जैसी तकलीफ़ें भी झेलनी पड़ती हैं।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "नरक जैसी तकलीफ़ें",
+    "evidence": "The source says suffering of hell 'and so on' (hell and other lower states), not suffering merely 'like' hell; the simile weakens the claim.",
+    "fix": "और आगे चलकर नरक और दूसरी बुरी जगहों की तकलीफ़ें भी झेलनी पड़ती हैं।"
+   }
+  ]
+ },
+ "8-80": {
+  "translation": "थोड़ा सा सुख तो जानवरों को भी आसानी से मिल जाता है। उसी थोड़े से सुख के लिए, अपने किए हुए कामों से सताए हुए लोग इस कीमती फ़ुरसत और सौभाग्य वाले जीवन को बर्बाद कर देते हैं।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "इस कीमती फ़ुरसत और सौभाग्य वाले जीवन",
+    "evidence": "The source stresses that this life of leisure and fortune is rare and hard to find (दुर्लभ); 'कीमती' (precious) loses the rarity.",
+    "fix": "इस मुश्किल से मिलने वाले फ़ुरसत और सौभाग्य वाले जीवन को बर्बाद कर देते हैं।"
+   }
+  ]
+ },
+ "8-88": {
+  "translation": "इस तरह, हमें एकान्त की हर अच्छी खूबी के बारे में सोचना चाहिए। सोच में उलझे रहना एकदम शान्त कर देना चाहिए। इसके बाद, हमें जागृति का मन जगाना चाहिए।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "सोच में उलझे रहना एकदम शान्त कर देना चाहिए",
+    "evidence": "Source: calming conceptual thought completely; the children's sentence is ungrammatical (object missing 'को').",
+    "fix": "सोच में उलझे रहने को पूरी तरह शान्त करना चाहिए।"
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "इसके बाद, हमें जागृति का मन जगाना चाहिए",
+    "evidence": "Source says to meditate on / cultivate the awakening mind while calming conceptual thought; 'इसके बाद ... जगाना' makes it a later step and shifts meditating into generating.",
+    "fix": "और साथ ही जागृति के मन का अभ्यास करना चाहिए।"
+   }
+  ]
+ },
+ "8-91": {
+  "translation": "भले ही मेरे दुख से दूसरों को कोई चोट नहीं पहुँचती। फिर भी, मेरा दुख मेरे लिए बहुत बड़ा होता है। अपने आप से कसकर चिपके रहना मुझे यह दुख सहने नहीं देता।",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "मेरा दुख मेरे लिए बहुत बड़ा होता है",
+    "evidence": "The verse says only that my suffering, though it harms no one else, is unbearable to me because of self-clinging; it does not say the suffering is 'very big'.",
+    "fix": "भले ही मेरे दुख से दूसरों को चोट नहीं पहुँचती, फिर भी मैं अपना दुख सह नहीं पाता। अपने आप से कसकर चिपके रहना मुझे यह दुख सहने नहीं देता।"
+   }
+  ]
+ },
+ "8-96": {
+  "translation": "अगर उनके दुख से मुझे नुकसान नहीं होता, इसलिए मैं उन्हें न बचाऊँ। तो आने वाले कल का दुख भी मुझे अभी नुकसान नहीं पहुँचाता, मैं उससे अपना बचाव क्यों करूँ?",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "आने वाले कल का दुख भी मुझे अभी नुकसान नहीं पहुँचाता",
+    "evidence": "The verse speaks of future suffering in general, not 'tomorrow's' suffering, and has no 'right now'. The first sentence is also left as a dangling fragment.",
+    "fix": "अगर कहो कि उनके दुख से मुझे नुकसान नहीं होता, इसलिए मैं उन्हें न बचाऊँ, तो भविष्य का मेरा अपना दुख भी तो अभी मुझे नुकसान नहीं पहुँचाता। फिर मैं उससे अपना बचाव क्यों करूँ?"
+   }
+  ]
+ },
+ "8-102": {
+  "translation": "\"सबके दुख को क्यों दूर किया जाए?\" इस बात पर बहस नहीं करनी चाहिए। अगर दुख दूर करना है, तो सबका दुख दूर करो। नहीं तो मैं भी बाकी जीवों की तरह ही हूँ।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "इस बात पर बहस नहीं करनी चाहिए",
+    "evidence": "The text says there is no room for dispute (a statement of fact), not an instruction not to debate.",
+    "fix": "इस बात पर बहस की कोई गुंजाइश नहीं है।"
+   }
+  ]
+ },
+ "8-107": {
+  "translation": "जब सब जीव आज़ाद हो जाते हैं, तब खुशी का जो बड़ा सागर उमड़ता है, क्या वही काफ़ी नहीं है? फिर सिर्फ़ अपने लिए आज़ादी चाहने से क्या मिलेगा?",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "सिर्फ़ अपने लिए आज़ादी चाहने से",
+    "evidence": "The text asks 'what use is wishing for liberation?'; the qualifier 'only for myself' is added, and 'what will be gained' shifts the rhetorical question.",
+    "fix": "फिर अपनी आज़ादी चाहने की क्या ज़रूरत है?"
+   }
+  ]
+ },
+ "8-112": {
+  "translation": "मुझे समझना चाहिए कि मुझमें कमियाँ हैं और दूसरों में अच्छी खूबी का समंदर है। इसलिए, अपना आप थामे रहना पूरी तरह छोड़कर मुझे दूसरों को अपनाना चाहिए।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "The verse says to meditate (cultivate) giving up self-clinging and taking up others; the children's text turns the meditation into a plain action and adds 'इसलिए'.",
+    "fix": "दूसरों में अच्छी खूबी का समंदर और अपने में कमियाँ देखकर, अपना आप थामे रहना पूरी तरह छोड़ने और दूसरों को अपनाने का अभ्यास करना चाहिए।"
+   }
+  ]
+ },
+ "8-115": {
+  "translation": "ऐसा होने पर, दूसरों की भलाई करने पर भी हमें घमंड नहीं होगा। जैसे खुद को खाना खिलाने के बाद हमें बदले में कुछ पाने की उम्मीद नहीं होती।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Says that neither wonder (vismaya) nor pride arises; the children's text mentions only pride (घमंड).",
+    "fix": "ऐसा होने पर दूसरों की भलाई करके भी हमें न घमंड होगा, न हैरानी।"
+   }
+  ]
+ },
+ "8-117": {
+  "translation": "इसलिए रक्षक अवलोकितेश्वर ने बड़ी करुणा से प्राणियों का भीड़ का डर दूर करने के लिए अपने नाम को भी आशीर्वाद दिया।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "प्राणियों का भीड़ का डर",
+    "evidence": "Ungrammatical chain of possessives; the source speaks of the beings' fear of the assembly/crowd.",
+    "fix": "प्राणियों के भीड़ में होने वाले डर को दूर करने के लिए"
+   }
+  ]
+ },
+ "8-130": {
+  "translation": "अगर हम अपने सुख और दूसरों के दुख की अदला-बदली नहीं करेंगे, तो बुद्ध की अवस्था पाना संभव नहीं होगा। बार-बार जन्म के चक्र में भी हमें कभी सुख नहीं मिलेगा।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "The verse says 'proper' (सम्यक्) exchange (ཡང་དག་བརྗེ་བ); the children's text drops 'properly' and adds 'कभी'.",
+    "fix": "अगर हम अपने सुख और दूसरों के दुख की ठीक से अदला-बदली नहीं करेंगे, तो बुद्ध की अवस्था नहीं मिलेगी। बार-बार जन्म के चक्र में भी हमें सुख नहीं मिलेगा।"
+   }
+  ]
+ },
+ "8-132": {
+  "translation": "लोग अपनी उलझन के कारण बड़े सुख और आनंद को छोड़ देते हैं। वे दूसरों को दुख देते हैं। इसी कारण वे खुद बहुत भयंकर दुख उठाते हैं।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Source says the happiness given up is the happiness of both this visible life and the unseen (later) life ('seen and unseen happiness'); children's text only says 'big happiness and joy'.",
+    "fix": "लोग अपनी उलझन के कारण इस जीवन और अगले जन्म के बड़े सुख और आनंद को छोड़ देते हैं।"
+   }
+  ]
+ },
+ "8-150": {
+  "translation": "सुना है कि यह भी मेरे साथ मुकाबला कर रहा है! क्या यह सुनकर सीखने और समझदारी में मेरे बराबर है? या फिर रूप, परिवार और धन में मेरे जैसा है?",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Source says 'even this one, who is overcome by afflictions, competes with me'; the clause about being afflicted is dropped.",
+    "fix": "सुना है कि परेशान करने वाली भावनाओं से घिरा यह भी मेरे साथ मुकाबला कर रहा है!"
+   }
+  ]
+ },
+ "8-157": {
+  "translation": "इसलिए, जैसे तुमने दूसरों के रस और खून की बूँदों में \"मैं\" मान लेना सीखा है, वैसे ही दूसरों में भी ऐसा अभ्यास करो।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "रस और खून की बूँदों",
+    "evidence": "Source says drops of semen and blood (the parents' substances from which the body arises); 'रस' (juice) is not an equivalent.",
+    "fix": "दूसरों की (माता-पिता की) जीवन-बूँदों और खून की बूँदों में"
+   }
+  ]
+ },
+ "8-164": {
+  "translation": "छोटे में कहें तो, अपने फायदे के लिए तुमने दूसरों का जो भी बुरा किया है। अब जीवों के भले के लिए, उस नुकसान को अपने ऊपर ही आने दो।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "छोटे में कहें तो, अपने फायदे के लिए तुमने दूसरों का जो भी बुरा किया है।",
+    "evidence": "The first sentence is an incomplete fragment; the source is one sentence saying whatever harm you did others for your own benefit should now fall on yourself for beings' sake.",
+    "fix": "थोड़े में कहें तो, अपने फायदे के लिए तुमने दूसरों का जो भी बुरा किया है, अब जीवों के भले के लिए वह सब अपने ऊपर ही आने दो।"
+   }
+  ]
+ },
+ "8-172": {
+  "translation": "अगर मैं ख़ुश रहना चाहता हूँ, तो मुझे सिर्फ़ अपनी ख़ुशी नहीं मनानी चाहिए। अगर मैं अपनी रक्षा करना चाहता हूँ, तो मुझे हमेशा दूसरों की रक्षा करनी चाहिए।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "मुझे सिर्फ़ अपनी ख़ुशी नहीं मनानी चाहिए",
+    "evidence": "The text says I should not delight in myself at all (no restriction like 'only'); 'सिर्फ़' turns it into 'not only my own happiness'.",
+    "fix": "तो मुझे अपने आप में ही मगन नहीं होना चाहिए।"
+   }
+  ]
+ },
+ "8-176": {
+  "translation": "इसलिए शरीर की इच्छाओं को बढ़ने का मौक़ा नहीं देना चाहिए। जिस मनमोहक चीज़ को हम अपने पास नहीं रखते, वही सबसे अच्छी चीज़ होती है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "जिस मनमोहक चीज़ को हम अपने पास नहीं रखते, वही सबसे अच्छी चीज़ होती है",
+    "evidence": "'Not grasping/taking hold of' an attractive thing (ग्रहण नहीं करना) is the point, not simply not keeping it nearby; also 'सबसे' adds a superlative where the text says 'उत्तम'.",
+    "fix": "जिस मनमोहक चीज़ को हम पकड़कर नहीं बैठते, वही उत्तम चीज़ है।"
+   }
+  ]
+ },
+ "8-184": {
+  "translation": "अब बचपन का आचरण बहुत हो गया। मैं समझदार लोगों के रास्ते पर चलूँगा। मैं सावधानी की बातों को याद रखूँगा। अपनी नींद और मन की सुस्ती को दूर भगाऊँगा।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "बचपन का आचरण",
+    "evidence": "'बालसुलभ आचरण' means childish/foolish behaviour, not the conduct of one's childhood.",
+    "fix": "अब बचकानी हरकतें बहुत हो गईं।"
+   }
+  ]
+ },
+ "8-185": {
+  "translation": "इसलिए अज्ञान का पर्दा हटाने के लिए, मैं अपने मन को ग़लत रास्ते से हटाऊँगा। मैं मन टिकाने की सही चीज़ पर हमेशा मन को टिकाना सीखूँगा।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "मन को टिकाना सीखूँगा",
+    "evidence": "The text says 'I will settle/place the mind' (a resolve), not 'I will learn to'.",
+    "fix": "सही चीज़ पर हमेशा अपने मन को टिकाऊँगा।"
+   },
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "अज्ञान का पर्दा",
+    "evidence": "The text says 'veils/obscurations' (locked term पर्दा); 'अज्ञान' narrows it and is not in the text.",
+    "fix": "पर्दा हटाने के लिए"
+   }
+  ]
+ },
+ "9-4": {
+  "translation": "सोचने की शक्ति के अंतर के कारण, एक शान्त एकाग्रता का साधक भी अपने से बड़े साधकों से हार जाता है। दोनों ही किसी फल को पाने के लिए, बिना सोचे-विचारे जाने-माने उदाहरणों का सहारा लेते हैं।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "दोनों ही किसी फल को पाने के लिए, बिना सोचे-विचारे जाने-माने उदाहरणों का सहारा लेते हैं।",
+    "evidence": "The text gives a reason (ཕྱིར): each is overruled because both proceed on accepted examples without examining the purpose/result; the causal link is lost, and 'हार जाता है' is loose for 'बाधित'.",
+    "fix": "क्योंकि दोनों ही माने हुए उदाहरणों के सहारे चलते हैं और फल के असली मतलब को परखते नहीं।"
+   }
+  ]
+ },
+ "9-21": {
+  "translation": "हम अपनी जागरूकता से जानकर कहते हैं कि दीया सब कुछ चमकदार बनाता है। पर यह जानकर कौन कहता है कि हमारी सोचने की शक्ति ख़ुद ही चमकदार है?",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "दीया सब कुछ चमकदार बनाता है",
+    "evidence": "The text only says 'the lamp illuminates'; 'सब कुछ' (everything) is added.",
+    "fix": "दीया चीज़ों को चमकदार बनाता है"
+   }
+  ]
+ },
+ "9-24": {
+  "translation": "अगर कोई कहे कि किसी दूसरी परिस्थिति के साथ चीज़ों को देखने से मन ख़ुद चमकता है। तो यह ऐसे है जैसे चमत्कारी आँखों का मरहम लगाने से घड़ा तो दिख जाता है, पर वह आँखों का मरहम ख़ुद नहीं दिखता।",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "मन ख़ुद चमकता है",
+    "evidence": "The academic text does not name a subject; 'मन' is added (it only says 'if it is self-luminous').",
+    "fix": "चीज़ों को देखने से अगर वह ख़ुद चमकता है"
+   }
+  ]
+ },
+ "9-26": {
+  "translation": "अगर जादुई छलावा मन से अलग नहीं है, और उसे मन के समान भी नहीं माना जाता। अगर वह कोई वस्तु है, तो वह अलग कैसे नहीं है? और अगर वह अलग नहीं है, तो वह वस्तु नहीं है।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "अगर जादुई छलावा मन से अलग नहीं है, और उसे मन के समान भी नहीं माना जाता।",
+    "evidence": "The first sentence is an unfinished \"if ... and ...\" clause with no conclusion; hard for children to follow.",
+    "fix": "अगर जादुई छलावा मन से अलग नहीं है, और मन के समान भी नहीं माना जाता, तो भी एक सवाल उठता है। अगर वह कोई वस्तु है, तो वह अलग कैसे नहीं है?"
+   }
+  ]
+ },
+ "9-27": {
+  "translation": "जैसे जादुई छलावा सच न होकर भी दिखाई देता है, वैसे ही देखने वाला सोचने वाला मन है। अगर बार-बार जन्म का चक्र किसी वस्तु पर टिका है, वर्ना वह आसमान की तरह खाली हो जाएगा।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "देखने वाला सोचने वाला मन है",
+    "evidence": "Tibetan/academic: as the illusion is what is seen, so the seer is the mind. Two adjacent \"वाला\" phrases make the sentence tangled.",
+    "fix": "वैसे ही जो देखता है, वह सोचने वाला मन है।"
+   }
+  ]
+ },
+ "9-32": {
+  "translation": "जब हम खालीपन की गहरी आदत की आदत डालते हैं, तो वस्तुओं से मन में बनी आदत दूर हो जाती है। जब 'कुछ भी नहीं है' इसकी आदत पड़ जाती है, तो बाद में यह भी छूट जाता है।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "खालीपन की गहरी आदत की आदत डालते हैं",
+    "evidence": "Academic: by cultivating the habit of emptiness. \"आदत की आदत\" is clumsy repetition; \"यह भी\" is also unclear.",
+    "fix": "जब हम बार-बार खालीपन की गहरी आदत डालते हैं, तो वस्तुओं से मन में बनी आदत दूर हो जाती है। फिर जब \"कुछ भी नहीं है\" की आदत पड़ जाती है, तो बाद में वह आदत भी छूट जाती है।"
+   }
+  ]
+ },
+ "9-37": {
+  "translation": "जागृति के लिए आचरण के अनुसार बनाया गया विजेता का पूजा-स्थल भी ऐसा ही है। जागृति-वीर के इस दुनिया से चले जाने के बाद भी, वह लोगों के भले के सारे काम करता रहता है।",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "इस दुनिया से चले जाने के बाद भी",
+    "evidence": "Academic: the Bodhisattva attains nirvana (mya ngan las 'das = शोक से मुक्ति elsewhere in this chapter). \"Passing from the world\" blurs nirvana into death.",
+    "fix": "जागृति-वीर को शोक से मुक्ति मिल जाने के बाद भी, वह सबके भले के सारे काम करता रहता है।"
+   }
+  ]
+ },
+ "9-38": {
+  "translation": "कोई कह सकता है, 'जिसके पास मन नहीं है, उसकी पूजा करने से फल कैसे मिलेगा?' पर बुद्ध चाहे हमारे बीच हों या उन्हें शोक से मुक्ति मिल गई हो, दोनों को एक समान बताया गया है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "दोनों को एक समान बताया गया है",
+    "evidence": "Academic: the fruit of the offering is the same whether the Buddha is present or has attained nirvana (that is the reason the offering bears fruit); the children's text only says the two states are \"equal\" and never ties this to the offering's fruit.",
+    "fix": "पर कहा गया है कि बुद्ध चाहे हमारे बीच हों या उन्हें शोक से मुक्ति मिल गई हो, उनकी पूजा का फल एक समान ही मिलता है।"
+   }
+  ]
+ },
+ "9-39": {
+  "translation": "चाहे यह रोज़ का सच हो या चीज़ों का असली रूप, पूजा का फल ज़रूर मिलता है, ऐसा पवित्र ग्रन्थ में लिखा है। जैसे सच्चे बुद्ध की पूजा करने से फल मिलता है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "पूजा का फल ज़रूर मिलता है",
+    "evidence": "Academic: it is reasonable/fitting (युक्त) that the fruit exists, with the basis being scripture; \"ज़रूर\" overstates a certainty.",
+    "fix": "चाहे यह रोज़ का सच हो या चीज़ों का असली रूप, पूजा का फल मिलना ठीक बैठता है, क्योंकि पवित्र ग्रन्थ में ऐसा लिखा है।"
+   }
+  ]
+ },
+ "9-41": {
+  "translation": "अगर तुम कहते हो कि महान वाहन सही नहीं है, तो तुम्हारा पवित्र ग्रन्थ कैसे सही हुआ? आज हम दोनों जिसे मानते हैं, शुरू में वह तुम्हारे लिए भी तो सच नहीं था।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "वह तुम्हारे लिए भी तो सच नहीं था",
+    "evidence": "Academic: it was not \"established\" (सिद्ध) for you at the start, i.e. not proven, not \"not true\".",
+    "fix": "शुरू में तुम्हारे लिए भी तो यह पक्का साबित नहीं हुआ था।"
+   }
+  ]
+ },
+ "9-44": {
+  "translation": "अगर बुद्ध की शिक्षा का आधार भिक्षु बनना है, तो भिक्षु बनना भी बहुत मुश्किल है। जो लोग चीज़ों को पकड़े रहना चाहते हैं, उनके लिए शोक से मुक्ति पाना भी बहुत मुश्किल है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "जो लोग चीज़ों को पकड़े रहना चाहते हैं",
+    "evidence": "Academic: for those whose minds are सालम्बन (have an object they hold on to), nirvana is hard; the text turns holding on into \"wanting to hold on\".",
+    "fix": "जिनका मन चीज़ों को पकड़े रहता है, उनके लिए शोक से मुक्ति पाना भी बहुत मुश्किल है।"
+   }
+  ]
+ },
+ "9-45": {
+  "translation": "अगर केवल परेशान करने वाली भावना के मिटने से मुक्ति मिलती है, तो ऐसा तुरंत हो जाना चाहिए। लेकिन परेशान करने वाली भावना न होने पर भी, उन पर पिछले किए हुए काम का असर देखा जा सकता है।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "उन पर पिछले किए हुए काम का असर",
+    "evidence": "Academic: \"उनमें\" (in those who have no afflictions) the power of karma is seen. \"उन पर\" has no clear referent in the children's sentence; \"पिछले\" is also added.",
+    "fix": "लेकिन जिनमें परेशान करने वाली भावना नहीं बची, उनमें भी किए हुए काम का असर देखा जाता है।"
+   }
+  ]
+ },
+ "9-46": {
+  "translation": "तुम पक्के तौर पर कह सकते हो कि कुछ समय के लिए चीज़ों को कसकर पकड़े रखना या कोई चाहत नहीं होती। लेकिन वह चाहत भले ही किसी परेशान करने वाली भावना से घिरी न हो, फिर भी वह भ्रम के समान क्यों नहीं होगी?",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "तुम पक्के तौर पर कह सकते हो",
+    "evidence": "Academic: \"यदि ऐसा निश्चित मानते हो\" - the opponent holds as certain that clinging-craving is absent; \"कह सकते हो\" reads as a concession. Also upādāna-tṛṣṇā (one thing, clinging-craving) is split into \"पकड़े रखना या कोई चाहत\".",
+    "fix": "अगर तुम पक्का मानते हो कि कुछ समय के लिए चीज़ों को कसकर पकड़े रखने वाली चाहत नहीं होती, तो भी सवाल है कि वह चाहत, भले परेशान करने वाली भावना से घिरी न हो, भ्रम के समान क्यों नहीं होगी?"
+   }
+  ]
+ },
+ "9-47": {
+  "translation": "एहसास की परिस्थिति से ही चाहत पैदा होती है, और वह एहसास तो उनमें भी होता है। विचारों से भरे मन को किसी न किसी चीज़ पर मन टिकाना ही पड़ता है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "विचारों से भरे मन को किसी न किसी चीज़ पर मन टिकाना ही पड़ता है",
+    "evidence": "Academic: आलम्बन-सहित चित्त (a mind that has an object) will abide on something; \"mind full of thoughts\" and the compulsion \"must\" are not in the source.",
+    "fix": "जिस मन के पास टिकने की कोई चीज़ है, वह किसी न किसी चीज़ पर टिका रहेगा।"
+   }
+  ]
+ },
+ "9-51": {
+  "translation": "महाकाश्यप जैसे महान लोग भी जिन बातों की गहराई नहीं जान पाए। अगर तुम उन्हें नहीं समझ पाए, तो कौन उन्हें मानने से मना करेगा?",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "महाकाश्यप जैसे महान लोग भी जिन बातों की गहराई नहीं जान पाए।",
+    "evidence": "The first sentence is a dangling relative clause with no main verb, and the \"because you did not understand\" reason is turned into a plain \"if\".",
+    "fix": "जिन बातों की गहराई महाकाश्यप जैसे महान लोग भी नहीं जान पाए, उन्हें सिर्फ़ इसलिए कि तुम नहीं समझ पाए, मानने से कौन मना करेगा?"
+   }
+  ]
+ },
+ "9-52": {
+  "translation": "उलझन के कारण दुख सहने वालों की भलाई के लिए, चिपके रहने और डर से मुक्त होकर, बार-बार जन्म का चक्र में रहना संभव होता है। यह खालीपन का फल है।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "बार-बार जन्म का चक्र में रहना",
+    "evidence": "Ungrammatical case ending (should be \"के चक्र में\"); the source also mentions the \"extremes\" (अन्त) of attachment and fear.",
+    "fix": "बार-बार जन्म के चक्र में रहना संभव होता है।"
+   }
+  ]
+ },
+ "9-57": {
+  "translation": "दाँत, बाल और नाखून \"अपना आप\" नहीं हैं। हड्डी और खून भी \"अपना आप\" नहीं हैं। शरीर की लार, बलगम और पीप भी \"अपना आप\" नहीं हैं।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "शरीर की लार, बलगम और पीप",
+    "evidence": "Academic lists nasal mucus (सिंघाण), phlegm, lymph (लसिका) and pus; the children's text adds \"लार\" (saliva), which is not in the source, and drops nasal mucus and lymph.",
+    "fix": "नाक का मैल, बलगम, शरीर का पानी जैसा तरल और पीप भी \"अपना आप\" नहीं हैं।"
+   }
+  ]
+ },
+ "9-72": {
+  "translation": "जिसके पास \"कारण\" है, उसी के पास \"फल\" भी हो, ऐसा होना मुमकिन नहीं है। बुद्ध ने सिखाया है कि एक \"लगातार चलती धारा\" के सहारे ही \"करने वाला\" और \"अनुभव करने वाला\" होते हैं।",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "बुद्ध ने सिखाया है",
+    "evidence": "Academic: \"the doer and experiencer are taught\" (passive); no agent such as the Buddha is named.",
+    "fix": "एक \"लगातार चलती धारा\" के सहारे ही \"करने वाला\" और \"अनुभव करने वाला\" कहे जाते हैं।"
+   }
+  ]
+ },
+ "9-77": {
+  "translation": "दुख का कारण घमंड है। यह 'अपना आप' की उलझन से बढ़ता है। अगर कोई कहे कि इस उलझन को दूर नहीं कर सकते, तो 'अपना अलग आप न होना' का ध्यान करना सबसे अच्छा है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "अगर कोई कहे कि इस उलझन को दूर नहीं कर सकते",
+    "evidence": "Academic: \"if you say there is no turning back/reversal from that either\" (the pride that causes suffering is not reversed), then meditation on selflessness is best. The children's text shifts the object to the delusion in general.",
+    "fix": "अगर कोई कहे कि इस घमंड से भी लौटने का कोई रास्ता नहीं है, तो \"अपना अलग आप न होना\" का ध्यान करना सबसे अच्छा है।"
+   }
+  ]
+ },
+ "9-87": {
+  "translation": "इस तरह जब आकार एक सपने की तरह है, तो कौन समझदार उससे जुड़ेगा? जब इस तरह कोई शरीर है ही नहीं, तो फिर आदमी कौन है और औरत कौन है?",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "उससे जुड़ेगा",
+    "evidence": "Tibetan/academic: which discerning person would be attached (āsakta, clinging) to a form like a dream; \"जुड़ेगा\" loses clinging.",
+    "fix": "कौन समझदार उससे लगाव रखेगा?"
+   }
+  ]
+ },
+ "9-88": {
+  "translation": "अगर दुख सच में हमेशा रहता है, तो वह बहुत खुश इंसान को क्यों नहीं सताता? अगर सुख सच में है, तो बहुत दुखी इंसान को स्वादिष्ट खाना खुशी क्यों नहीं देता?",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "सच में हमेशा रहता है",
+    "evidence": "Academic: \"if suffering truly/by nature exists\"; nothing about it always lasting.",
+    "fix": "अगर दुख सच में होता है, तो वह बहुत खुश इंसान को क्यों नहीं सताता?"
+   }
+  ]
+ },
+ "9-101": {
+  "translation": "कोई महसूस करने वाला नहीं है, इसलिए सच में कोई एहसास भी नहीं है। यह शरीर सिर्फ़ हिस्सों का समूह है और इसमें अपना अलग आप न होना ही सच है। तो कोई चीज़ इसे कैसे नुकसान पहुँचा सकती है?",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "यह शरीर सिर्फ़ हिस्सों का समूह है",
+    "evidence": "Academic: \"this selfless collection\" (the collection of parts/aggregates, the person); \"body\" is not named here.",
+    "fix": "यह हिस्सों का समूह ऐसा है जिसमें अपना अलग आप है ही नहीं।"
+   }
+  ]
+ },
+ "9-106": {
+  "translation": "अगर इस तरह रोज़ का सच नहीं है, तो फिर दो सच कैसे हो सकते हैं? और अगर वह भी किसी दूसरे रोज़ का सच पर टिका है, तो जीवों को मुक्ति कैसे मिलेगी?",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "किसी दूसरे रोज़ का सच पर टिका है",
+    "evidence": "Grammatical slip: postposition 'पर' requires 'के सच पर'; meaning (it also depends on another conventional truth) is intact.",
+    "fix": "अगर वह भी किसी दूसरे रोज़ के सच पर टिका है, तो जीवों को मुक्ति कैसे मिलेगी?"
+   }
+  ]
+ },
+ "9-108": {
+  "translation": "कल्पना और जिस चीज़ की कल्पना की जाए, ये दोनों एक-दूसरे पर टिके हैं। दुनिया की जानी-मानी बातों के सहारे ही हर बात को बारीकी से जाँच करना सिखाया जाता है।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "हर बात को बारीकी से जाँच करना सिखाया जाता है",
+    "evidence": "Ungrammatical object construction; academic: all analyses are stated in dependence on worldly renown.",
+    "fix": "दुनिया की जानी-मानी बातों के सहारे ही हर बात की बारीकी से जाँच करने की बात कही जाती है।"
+   }
+  ]
+ },
+ "9-110": {
+  "translation": "जब जाँचने की चीज़ की जाँच हो जाती है, तब बारीकी से सोचने का कोई आधार नहीं रहता। आधार न होने से वह सोच पैदा नहीं होती, और इसे ही शोक से मुक्ति कहा जाता है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "इसे ही शोक से मुक्ति कहा जाता है",
+    "evidence": "Academic: 'and THAT too (its non-arising) is called nirvana' (भी); the children's 'ही' makes it exclusive and loses 'also'.",
+    "fix": "आधार न होने से वह सोच पैदा नहीं होती, और इसे भी शोक से मुक्ति कहा जाता है।"
+   }
+  ]
+ },
+ "9-130": {
+  "translation": "अगर कोई वस्तु अपने कारण के स्वभाव जैसी है, तो क्या हम वस्तु के बारे में सोच नहीं चुके? तुम्हारा कारण भी सुख ही है। और उससे कपड़े जैसी चीज़ें नहीं बनतीं।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "तुम्हारा कारण भी सुख ही है",
+    "evidence": "Academic/Tibetan: your cause is pleasure 'etc.' (सुख आदि); 'आदि' is dropped.",
+    "fix": "तुम्हारा कारण भी सुख आदि ही है।"
+   }
+  ]
+ },
+ "9-132": {
+  "translation": "अगर सुख हमेशा मौजूद है, तो उसे महसूस करना क्यों नहीं होता? अगर वही बारीक हो जाता है, तो वह मोटा और बारीक दोनों कैसे हो सकता है?",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "अगर सुख हमेशा मौजूद है",
+    "evidence": "Academic: 'if the manifestation (अभिव्यक्ति) of pleasure etc. exists'; 'हमेशा' is added and the manifest/clear aspect is lost.",
+    "fix": "अगर साफ़ दिखने वाला सुख मौजूद है, तो उसे महसूस करना क्यों नहीं होता?"
+   }
+  ]
+ },
+ "9-138": {
+  "translation": "कोई कह सकता है— अगर जानने का भरोसेमंद तरीका ही सच नहीं है, तो उससे जानी गई बात क्या झूठी नहीं होगी? इस तरह तो खालीपन पर मन को साधना भी गलत हो जाएगा!",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "जानने का भरोसेमंद तरीका ही सच नहीं है",
+    "evidence": "Academic: 'if the pramana is not a pramana' (not valid/reliable), not 'not true'.",
+    "fix": "अगर जानने का भरोसेमंद तरीका भरोसे लायक ही नहीं है, तो उससे जानी गई बात क्या झूठी नहीं होगी?"
+   }
+  ]
+ },
+ "9-148": {
+  "translation": "'न होने वाली वस्तु' से अलग हुए बिना, वस्तु का होना मुमकिन नहीं है। कोई वस्तु भी कभी गायब नहीं होती है। अगर ऐसा हो, तो उसके दो स्वभाव हो जाएँगे।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "कोई वस्तु भी कभी गायब नहीं होती है",
+    "evidence": "Source: the thing also does not become non-existent (dngos po'ang med par 'gyur min). 'Disappear' suggests vanishing/cessation rather than becoming a non-thing.",
+    "fix": "कोई वस्तु भी कभी 'न होने वाली वस्तु' नहीं बन जाती। अगर ऐसा हो, तो उसके दो स्वभाव हो जाएँगे।"
+   }
+  ]
+ },
+ "9-150": {
+  "translation": "दुनिया के प्राणी एक सपना जैसे हैं। ध्यान से देखें तो वे केले का पेड़ जैसे हैं। किसी को शोक से मुक्ति मिले या न मिले, चीज़ों का असली रूप में कोई फर्क नहीं पड़ता।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "चीज़ों का असली रूप में कोई फर्क नहीं पड़ता",
+    "evidence": "Ungrammatical case marking; meaning is 'in reality (de nyid du) there is no difference between nirvana attained and not attained'.",
+    "fix": "किसी को शोक से मुक्ति मिले या न मिले, चीज़ों के असली रूप में कोई फर्क नहीं है।"
+   }
+  ]
+ },
+ "9-158": {
+  "translation": "वहाँ ऐसा दुख का सागर है जिसकी कोई सीमा नहीं। उसे सहा नहीं जा सकता। वहाँ हमारी ताक़त बहुत कम है और उम्र भी बहुत छोटी है।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Source calls the sea of suffering incomparable/unparalleled (dpe med) as well as unbearable and boundless; 'incomparable' is dropped.",
+    "fix": "वहाँ दुख का ऐसा सागर है जिसकी कोई तुलना नहीं और जिसकी कोई सीमा नहीं। उसे सहा नहीं जा सकता।"
+   }
+  ]
+ },
+ "9-162": {
+  "translation": "साधना करने की फुरसत दोबारा मिलना बहुत मुश्किल है। किसी बुद्ध का दुनिया में आना बहुत दुर्लभ है। परेशान करने वाली भावनाओं की नदी को पार करना कठिन है। हाय! यह दुख तो हमेशा चलता ही रहेगा।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "नदी को पार करना कठिन है",
+    "evidence": "Source: the river of afflictions is hard to abandon (spang dka'; prahana), not hard to cross.",
+    "fix": "परेशान करने वाली भावनाओं की नदी को छोड़ पाना कठिन है।"
+   }
+  ]
+ },
+ "9-164": {
+  "translation": "जैसे कुछ लोग बार-बार नहाकर फिर आग में कूद जाते हैं। वैसे ही बहुत से लोग गहरे दुःख में फँसे होने पर भी खुद को सुखी मानते हैं।",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "दुःख",
+    "evidence": "The glossary spells 'suffering' as दुख; the text uses दुःख here (and elsewhere uses दुख).",
+    "fix": "वैसे ही बहुत से लोग गहरे दुख में फँसे होने पर भी खुद को सुखी मानते हैं।"
+   }
+  ]
+ },
+ "10-15": {
+  "translation": "मेरे अच्छे कामों की जड़ के प्रभाव से, समन्तभद्र और अन्य जागृति-वीर सुख देने वाली, ठंडी और खुशबूदार बारिश करें। इस मीठी बारिश को गिरते देखकर, नरक के वे जीव बहुत खुश हो जाएँ।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "समन्तभद्र और अन्य जागृति-वीर सुख देने वाली, ठंडी और खुशबूदार बारिश करें",
+    "evidence": "Source describes the bodhisattvas' unobstructed (sgrib pa med) clouds raining pleasant, cool, fragrant rain; 'unobstructed' is dropped.",
+    "fix": "समन्तभद्र और दूसरे जागृति-वीरों के बिना रुकावट वाले बादल सुख देने वाली, ठंडी और खुशबूदार बारिश बरसाएँ।"
+   }
+  ]
+ },
+ "10-18": {
+  "translation": "अंधे लोग अपनी आँखों से दुनिया देखने लगें और बहरे लोग फिर से आवाज़ें सुनें। मायादेवी की तरह, सभी माँएँ बिना किसी तकलीफ़ के अपने बच्चों को जन्म दें।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "सभी माँएँ",
+    "evidence": "Source says pregnant women (गर्भिणी स्त्रियाँ), not all mothers.",
+    "fix": "गर्भवती माँएँ बिना किसी तकलीफ़ के अपने बच्चों को जन्म दें।"
+   }
+  ]
+ },
+ "10-29": {
+  "translation": "जिन जीवों में कम चमक और शक्ति है, वे बहुत शानदार बन जाएँ। जो कठिन साधना करने वाला दिखने में सुंदर नहीं है, वह बहुत सुंदर हो जाए।",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "कम चमक और शक्ति",
+    "evidence": "Source says only 'little splendour/radiance' (अल्प तेज); 'power' is not stated.",
+    "fix": "जिन जीवों में चमक कम है, वे बहुत तेजस्वी बन जाएँ।"
+   }
+  ]
+ },
+ "10-33": {
+  "translation": "वे सभी जीव बहुत लम्बी उम्र पाएँ। वे हमेशा सुख से जिएँ, और मौत का शब्द भी कभी सुनाई न दे।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "बहुत लम्बी उम्र",
+    "evidence": "Source says immeasurable (अपरिमेय) long life; 'very long' loses the 'immeasurable'.",
+    "fix": "वे अनगिनत सालों की लम्बी उम्र पाएँ।"
+   }
+  ]
+ },
+ "10-45": {
+  "translation": "अगर उनका अच्छा आचरण टूट जाए, तो वे दुखी होकर कोई भी नुकसान पहुँचाने वाला काम करना छोड़ दें। उन्हें एक सुखद जन्म मिले। वहाँ भी उनकी कठोर साधना कभी न टूटे।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "कोई भी नुकसान पहुँचाने वाला काम करना छोड़ दें",
+    "evidence": "Source says that, grieved at their broken ethics, they exhaust/destroy (क्षय) their harmful deeds always; the children's text turns it into merely stopping such acts and drops 'always'.",
+    "fix": "तो वे दुखी होकर अपने नुकसान पहुँचाने वाले कामों का असर हमेशा मिटाते रहें।"
+   }
+  ]
+ },
+ "10-48": {
+  "translation": "सारे जीव बार-बार सभी बुद्धों की पूजा करें। बुद्धों के अनोखे सुख से वे भी हमेशा सुख से भरे रहें।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "अनोखे सुख",
+    "evidence": "Source says inconceivable (अचिन्त्य, བསམ་ཡས) happiness of the Buddhas; 'unique' is a different idea.",
+    "fix": "बुद्धों के सोच से परे सुख से वे भी हमेशा सुख से भरे रहें।"
+   }
+  ]
+ },
+ "10-51": {
+  "translation": "मञ्जुश्री की कृपा से, जब तक मुझे पूर्ण खुशी की भूमि न मिल जाए, तब तक मुझे अपने सभी जीवन याद रहें। और मुझे हमेशा भिक्षु या भिक्षुणी बनना प्राप्त हो।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "मुझे हमेशा भिक्षु या भिक्षुणी बनना प्राप्त हो",
+    "evidence": "'Always' (सदा) belongs to remembering births in the source; ordination is simply attained, and the phrasing is awkward.",
+    "fix": "और मैं भिक्षु या भिक्षुणी बन सकूँ।"
+   }
+  ]
+ },
+ "10-57": {
+  "translation": "प्राणियों के दुख की बस एक ही दवा है, और सारे सुख वहीं से आते हैं। वे बुद्ध की शिक्षाएँ बहुत समय तक बनी रहें, और उन्हें हमेशा लाभ और आदर मिले।",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "और उन्हें हमेशा लाभ और आदर मिले",
+    "evidence": "The wish is that the teaching remain a long time together with gain and honour (the support the teaching receives); 'उन्हें' is ambiguous (could read as the beings) and 'हमेशा' overstates 'for a long time'.",
+    "fix": "वे बुद्ध की शिक्षाएँ लाभ और आदर के साथ बहुत समय तक बनी रहें।"
+   }
+  ]
+ },
+ "b-1": {
+  "translation": "सबसे पहले भारत के मुझे दीक्षा देने वाले गुरु सर्वज्ञदेव और मुख्य संशोधक अनुवादक बन्दे पल्त्सेक ने इसे तैयार किया था। उन्होंने कश्मीर की एक पुस्तक देखकर इसे ठीक किया था।",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "सबसे पहले",
+    "evidence": "The Tibetan/academic text gives no 'first of all'; it simply says the text was edited and fixed by these two using the Kashmir manuscript (later revisions are introduced separately).",
+    "fix": "भारत के मुझे दीक्षा देने वाले गुरु सर्वज्ञदेव और मुख्य संशोधक अनुवादक बन्दे पल्त्सेक ने कश्मीर की हस्तलिखित पुस्तक से मिलाकर इसे ठीक किया और पक्का किया।"
+   }
+  ]
+ },
+ "b-2": {
+  "translation": "बाद में भारत के मुझे दीक्षा देने वाले गुरु धर्मश्रीभद्र, मुख्य संशोधक अनुवादक बन्दे रिनछेन ज़ंगपो और शाक्य लोद्रो ने इसे सुधारा। उन्होंने बीच के देश की पुस्तक और उसकी व्याख्या पढ़कर इसका अनुवाद पक्का किया।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "पुस्तक और उसकी व्याख्या पढ़कर",
+    "evidence": "Academic: revised and translated in accordance with (मुताबिक/अनुरूप) the Madhyadesha manuscript and commentary, not merely by reading them.",
+    "fix": "बीच के देश की पुस्तक और उसकी व्याख्या से मिलाकर इसे सुधारा और इसका अनुवाद पक्का किया।"
+   }
+  ]
+ },
+ "b-3": {
+  "translation": "अंत में भारत के मुझे दीक्षा देने वाले गुरु सुमतिकीर्ति और मुख्य संशोधक अनुवादक भिक्षु लोदेन शेरब ने इसे बिल्कुल शुद्ध किया। उन्होंने इसे सुधारकर इसका बहुत अच्छा अनुवाद तैयार किया।",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "अंत में",
+    "evidence": "Tibetan says 'again, later' (पुनः बाद में); 'अंत में' (finally) adds an idea of finality not in the source.",
+    "fix": "फिर बाद में भारत के मुझे दीक्षा देने वाले गुरु सुमतिकीर्ति और मुख्य संशोधक अनुवादक भिक्षु लोदेन शेरब ने इसे शुद्ध किया और इसका बहुत अच्छा अनुवाद पक्का किया।"
+   }
+  ]
+ }
+}

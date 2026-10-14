@@ -1,0 +1,285 @@
+{
+ "batch": "batch-03",
+ "segments": [
+  {
+   "id": "8-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-60",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "想去追求別人",
+     "evidence": "Tibetan/academic: being an impure bag, he greedily craves (desires) others, i.e. others' impure bodies; \"追求別人\" reads as courting people and loses that the object is impure.",
+     "fix": "你不但不討厭自己身上的骯髒，你自己明明就是一個裝滿髒東西的袋子，卻還因為貪心，去渴望別人那些骯髒的身體。"
+    }
+   ]
+  },
+  {
+   "id": "8-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-90",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-100",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "感受不會體驗它自己",
+     "evidence": "Source: \"self does not experience self\" (the awareness does not experience itself); \"感受\" (feeling) is a different thing and changes the subject from the mind mentioned just before.",
+     "fix": "覺知不會體驗它自己，其他的東西也不會體驗它。"
+    }
+   ]
+  },
+  {
+   "id": "9-103",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "心不是身體",
+     "evidence": "Academic translation has no subject (\"何者非身非他處\"); the children's text supplies \"心\" as the thing in question, which this segment does not state.",
+     "fix": "它不是身體，也不在別的地方。它不和身體混合，也沒有單獨存在。它連一點點真實的東西都沒有，所以眾生的本性早已經脫離憂苦了。"
+    }
+   ]
+  },
+  {
+   "id": "9-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-115",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-116",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-123",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "如果神不依靠其他事物，他為什麼不一直創造東西呢",
+     "evidence": "Academic translation says only \"彼\" (that one), without naming a god; \"神\" is supplied from context.",
+     "fix": "如果他不依靠其他事物，他為什麼不一直創造東西呢？"
+    }
+   ]
+  },
+  {
+   "id": "9-131",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-139",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "我回答：「",
+     "evidence": "No speaker marker in the Tibetan or academic translation; \"我回答\" adds a speaker/dialogue frame.",
+     "fix": "如果不先接觸想像出來的東西，就不會發現這是不存在的東西。因此，如果一件事物是假的，那麼說它是「不存在的東西」，明顯也是假的。"
+    }
+   ]
+  },
+  {
+   "id": "9-144",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-148",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-154",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "因為各種爭吵和開心的事情",
+     "evidence": "Source: \"by the causes of fighting and joy\"; the word \"causes\" is dropped, so the point that these are the causes is lost.",
+     "fix": "因為各種會帶來爭吵和開心的原因，"
+    }
+   ]
+  },
+  {
+   "id": "9-158",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-164",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "許多人",
+     "evidence": "Tibetan \"འགའ་ཞིག\" / academic \"有人\" = some one; number changed to \"許多人\".",
+     "fix": "有人明明活在巨大的痛苦中，卻還以為自己很快樂。"
+    }
+   ]
+  },
+  {
+   "id": "9-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-32",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "最後連這根深的習慣也會被消除",
+     "evidence": "Source: by habituating \"nothing exists\", that (the habit of emptiness) will in turn be abandoned; \"這根深的習慣\" is ambiguous and could be read as the habit of things.",
+     "fix": "最後連空性的根深習慣也會被消除。"
+    }
+   ]
+  },
+  {
+   "id": "9-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-63",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "有人可能會說：",
+     "evidence": "Academic translation states directly that one person is imputed as father and son; it does not mark this as an imagined objection.",
+     "fix": "同一個人可以被叫做父親，也可以被叫做兒子。可是這只是被貼上名稱，並不是真實的樣子。"
+    }
+   ]
+  },
+  {
+   "id": "9-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "b-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "印度的為我授戒的老師薩婆若提婆",
+     "evidence": "Academic: \"印度親教師薩婆若提婆\"; the stacked modifiers are tangled for ages 8-12.",
+     "fix": "印度的薩婆若提婆，是為我授戒的老師，他和主要校訂的翻譯家班第吉祥積，根據喀什米爾的書本，一起檢查並確定了文字。"
+    }
+   ]
+  }
+ ]
+}

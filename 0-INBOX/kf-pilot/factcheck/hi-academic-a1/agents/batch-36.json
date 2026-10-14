@@ -1,0 +1,145 @@
+{
+ "batch": "batch-36",
+ "segments": [
+  {
+   "id": "9-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-9",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "जैसे वास्तव में विद्यमान के प्रति, उसी प्रकार।",
+     "evidence": "Tibetan 'ཇི་ལྟར་དངོས་ཡོད་ལ་ཇི་བཞིན' = 'just as [it is] for the truly existent'; the Hindi 'के प्रति, उसी प्रकार' leaves a dangling correlative and obscures that merit arises equally for a truly existent Victor (bo-gyaltsab 9-9: 'ཇི་ལྟར་ཁྱོད་རྒྱལ་བ་བདེན་པའི་དངོས་པོར་ཡོད་པར་འདོད་པ་ལ་བསོད་ནམས་འབྱུང་བར་འདོད་པ་ཇི་ལྟ་བ་བཞིན་').",
+     "fix": "जैसे वास्तव में विद्यमान (जिन) के विषय में होता है, वैसे ही।"
+    }
+   ]
+  },
+  {
+   "id": "9-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-16",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "तब किसका आलम्बन होगा?",
+     "evidence": "Tibetan 'དེ་ཚེ་ཅི་ཞིག་དམིགས' = 'then what is apprehended?' (Sanskrit 'tadā kim upalabhyate'); 'किसका आलम्बन' reads as 'whose/of what object', not 'what is apprehended' (bo-kunpal 9-16: 'དམིགས་བྱ་ཡུལ་ཅི་ཞིག་དམིགས').",
+     "fix": "तब क्या आलम्बित (उपलब्ध) होगा?"
+    }
+   ]
+  },
+  {
+   "id": "9-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "वैसे ही मनस् है。",
+     "evidence": "Tibetan 'ཇི་ལྟར་མི་གཅོད་དེ་བཞིན་ཡིད' means 'as the sword edge does not cut itself, so the mind [does not see itself]' (bo-gyaltsab 9-18: 'ཡིད་ཀྱིས་ཡིད་མི་མཐོང་'); 'वैसे ही मनस् है' leaves the ellipsis unresolved, so it reads as a bare predication, and ends in the stray CJK full stop '。' instead of '।'.",
+     "fix": "वैसे ही मनस् भी स्वयं को नहीं देखता।"
+    }
+   ]
+  },
+  {
+   "id": "9-19",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "स्फटिक की भाँति नील, नीलता के लिए अन्य की अपेक्षा नहीं रखता है।",
+     "evidence": "Tibetan 'ཤེལ་བཞིན་སྔོན་པོ་སྔོ་ཉིད་ལ། གཞན་ལ་ལྟོས་པ་ཡོད་མ་ཡིན' (Skt 'na hi sphaṭikavan nīlaṃ nīlatve 'nyam apekṣate'): the blue thing does not depend on another for blueness, in contrast to a crystal, which is not blue by nature and needs something blue beneath or beside it (bo-shenga 9-20: 'ཤེལ་རང་བཞིན་གྱིས་སྔོན་པོ་མ་ཡིན་པ་གཞན་འདབ་མ་སྔོན་པོ་ལ་སོགས་པ་ལ་ལྟོས་དགོས'; bo-kunpal 9-19). 'स्फटिक की भाँति' makes the crystal the model of non-dependence, the reverse; approved English has 'Unlike a crystal'.",
+     "fix": "स्फटिक के विपरीत, नील नीलता के लिए अन्य की अपेक्षा नहीं रखता।"
+    }
+   ]
+  },
+  {
+   "id": "9-20",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "उसे नील रूप में, स्वयं ने स्वयं को नहीं बनाया।",
+     "evidence": "Tibetan 'སྔོ་ཉིད་མིན་ལ་སྔོན་པོར་དེ། བདག་གིས་བདག་ཉིད་བྱས་པ་མེད' = what is not blue has not made itself blue by itself (bo-kunpal 9-20: 'བདག་གིས་བདག་ཉིད་སྔར་སྔོན་པོ་མིན་པ་ལ་ཕྱིས་སྔོན་པོར་བྱས་པ་ནི་མེད'); the Hindi 'उसे ... स्वयं ने स्वयं को' leaves an unclear object/agent and is hard to parse.",
+     "fix": "जो स्वयं नील नहीं है, वह स्वयं द्वारा स्वयं को नील नहीं बनाता।"
+    }
+   ]
+  },
+  {
+   "id": "9-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-24",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

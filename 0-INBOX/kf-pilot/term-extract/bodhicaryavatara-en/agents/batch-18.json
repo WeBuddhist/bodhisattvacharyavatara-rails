@@ -1,0 +1,567 @@
+{
+ "batch": "batch-18",
+ "segments": [
+  {
+   "id": "8-76",
+   "terms": [
+    {
+     "bo": "འདོད་པ",
+     "dm": "desire",
+     "gm": "desires"
+    }
+   ]
+  },
+  {
+   "id": "8-77",
+   "terms": [
+    {
+     "bo": "འདོད་ལྡན",
+     "dm": "full of desire",
+     "gm": "with desires"
+    }
+   ]
+  },
+  {
+   "id": "8-78",
+   "terms": [
+    {
+     "bo": "ནོར",
+     "dm": "wealth",
+     "gm": "Wealth"
+    },
+    {
+     "bo": "ཆགས་པ",
+     "dm": "attachment",
+     "gm": "attachment"
+    },
+    {
+     "bo": "སྲིད་པའི་སྡུག་བསྔལ",
+     "dm": "suffering of cyclic existence",
+     "gm": "miseries of existence"
+    },
+    {
+     "bo": "སྲིད་པ",
+     "dm": "cyclic existence",
+     "gm": "existence"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "miseries"
+    },
+    {
+     "bo": "གྲོལ",
+     "dm": "liberated",
+     "gm": "liberation"
+    }
+   ]
+  },
+  {
+   "id": "8-79",
+   "terms": [
+    {
+     "bo": "ཉེས་དམིགས",
+     "dm": "faults",
+     "gm": "disadvantages"
+    }
+   ]
+  },
+  {
+   "id": "8-80",
+   "terms": [
+    {
+     "bo": "དལ་འབྱོར་ཕུན་སུམ",
+     "dm": "leisure and endowment",
+     "gm": "freedom and endowment"
+    },
+    {
+     "bo": "ལས",
+     "dm": "karma",
+     "gm": "karma"
+    }
+   ]
+  },
+  {
+   "id": "8-81",
+   "terms": [
+    {
+     "bo": "འདོད་པ",
+     "dm": "Desires",
+     "gm": "Desires"
+    },
+    {
+     "bo": "དམྱལ",
+     "dm": "hells",
+     "gm": "hell"
+    }
+   ]
+  },
+  {
+   "id": "8-82",
+   "terms": [
+    {
+     "bo": "སངས་རྒྱས་ཉིད",
+     "dm": "Buddhahood",
+     "gm": "Buddhahood"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སྤྱོད་པ",
+     "dm": "conduct of enlightenment",
+     "gm": "Bodhisattva's conduct"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "enlightenment",
+     "gm": "awakening"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "འདོད་ལྡན",
+     "dm": "possessed by desire",
+     "gm": "with desires"
+    }
+   ]
+  },
+  {
+   "id": "8-83",
+   "terms": [
+    {
+     "bo": "དམྱལ",
+     "dm": "hells",
+     "gm": "hell"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "sufferings",
+     "gm": "sufferings"
+    },
+    {
+     "bo": "འདོད་པ",
+     "dm": "desire",
+     "gm": "desires"
+    }
+   ]
+  },
+  {
+   "id": "8-84",
+   "terms": [
+    {
+     "bo": "འདོད",
+     "dm": "desires",
+     "gm": "desires"
+    },
+    {
+     "bo": "དབེན་པ",
+     "dm": "solitude",
+     "gm": "solitude"
+    },
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "afflictions"
+    }
+   ]
+  },
+  {
+   "id": "8-85",
+   "terms": [
+    {
+     "bo": "ཙནྡན",
+     "dm": "sandalwood",
+     "gm": "sandalwood"
+    }
+   ]
+  },
+  {
+   "id": "8-86",
+   "terms": []
+  },
+  {
+   "id": "8-87",
+   "terms": [
+    {
+     "bo": "ཆགས་མེད",
+     "dm": "without attachment",
+     "gm": "without attachment"
+    },
+    {
+     "bo": "ཆོག་ཤེས",
+     "dm": "contentment",
+     "gm": "contentment"
+    },
+    {
+     "bo": "དབང་པོ",
+     "dm": "Indra",
+     "gm": "Indra"
+    }
+   ]
+  },
+  {
+   "id": "8-88",
+   "terms": [
+    {
+     "bo": "དབེན་པའི་ཡོན་ཏན",
+     "dm": "virtues of solitude",
+     "gm": "qualities of solitude"
+    },
+    {
+     "bo": "དབེན་པ",
+     "dm": "solitude",
+     "gm": "solitude"
+    },
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "virtues",
+     "gm": "qualities"
+    },
+    {
+     "bo": "རྣམ་རྟོག",
+     "dm": "discursive thoughts",
+     "gm": "discursive thoughts"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས",
+     "dm": "awakening mind",
+     "gm": "awakening mind"
+    }
+   ]
+  },
+  {
+   "id": "8-89",
+   "terms": [
+    {
+     "bo": "བདག་དང་གཞན་དུ་མཉམ་པ",
+     "dm": "equality of oneself and others",
+     "gm": "equality of self and other"
+    },
+    {
+     "bo": "བདེ",
+     "dm": "happiness",
+     "gm": "happiness"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "8-90",
+   "terms": [
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "beings",
+     "gm": "migrating beings"
+    },
+    {
+     "bo": "བདེ་སྡུག",
+     "dm": "joys and sorrows",
+     "gm": "happiness and suffering"
+    },
+    {
+     "bo": "བདེ་བ",
+     "dm": "happiness",
+     "gm": "happiness"
+    }
+   ]
+  },
+  {
+   "id": "8-91",
+   "terms": [
+    {
+     "bo": "བདག་ཏུ་ཞེན་པ",
+     "dm": "cling to it as \"mine,\"",
+     "gm": "clinging to self"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "8-92",
+   "terms": [
+    {
+     "bo": "བདག་ཏུ་ཞེན་པ",
+     "dm": "attachment to a self",
+     "gm": "clinging to self"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "8-93",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "8-94",
+   "terms": [
+    {
+     "bo": "བདེ་བ",
+     "dm": "happiness",
+     "gm": "happiness"
+    }
+   ]
+  },
+  {
+   "id": "8-95",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "8-96",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "8-97",
+   "terms": [
+    {
+     "bo": "རྣམ་པར་རྟོག",
+     "dm": "conceptual thought",
+     "gm": "thought"
+    }
+   ]
+  },
+  {
+   "id": "8-98",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "8-99",
+   "terms": [
+    {
+     "bo": "བདག་ཏུ་འཛིན་པ",
+     "dm": "grasping at a self",
+     "gm": "grasping at self"
+    },
+    {
+     "bo": "བདག་གཞན",
+     "dm": "self and others",
+     "gm": "self and others"
+    }
+   ]
+  },
+  {
+   "id": "8-100",
+   "terms": [
+    {
+     "bo": "རྒྱུད",
+     "dm": "continua",
+     "gm": "continuum"
+    },
+    {
+     "bo": "ཚོགས",
+     "dm": "assemblies",
+     "gm": "collection"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "8-101",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "8-102",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "Suffering"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "8-103",
+   "terms": [
+    {
+     "bo": "སྙིང་རྗེ",
+     "dm": "compassion",
+     "gm": "compassion"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "world",
+     "gm": "beings"
+    }
+   ]
+  },
+  {
+   "id": "8-104",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "8-105",
+   "terms": [
+    {
+     "bo": "མེ་ཏོག་ཟླ་མཛེས",
+     "dm": "Supuṣpacandra",
+     "gm": "Supuṣpacandra"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "8-106",
+   "terms": [
+    {
+     "bo": "རྒྱུད",
+     "dm": "mind-streams",
+     "gm": "continuums"
+    },
+    {
+     "bo": "མནར་མེད",
+     "dm": "Avīci hell",
+     "gm": "Avīci hell"
+    }
+   ]
+  },
+  {
+   "id": "8-107",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "གྲོལ",
+     "dm": "liberated",
+     "gm": "liberated"
+    },
+    {
+     "bo": "ཐར་པ",
+     "dm": "liberation",
+     "gm": "liberation"
+    }
+   ]
+  },
+  {
+   "id": "8-108",
+   "terms": [
+    {
+     "bo": "རྣམ་སྨིན་འབྲས་བུ",
+     "dm": "ripening result",
+     "gm": "ripened result"
+    },
+    {
+     "bo": "གཞན་དོན",
+     "dm": "welfare of others",
+     "gm": "benefit of others"
+    }
+   ]
+  },
+  {
+   "id": "8-109",
+   "terms": [
+    {
+     "bo": "སྙིང་རྗེའི་སེམས",
+     "dm": "heart of compassion",
+     "gm": "mind of compassion"
+    }
+   ]
+  },
+  {
+   "id": "8-110",
+   "terms": []
+  },
+  {
+   "id": "8-111",
+   "terms": []
+  },
+  {
+   "id": "8-112",
+   "terms": [
+    {
+     "bo": "བདག་འཛིན",
+     "dm": "self-grasping",
+     "gm": "grasping at self"
+    },
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "virtues",
+     "gm": "qualities"
+    }
+   ]
+  },
+  {
+   "id": "8-113",
+   "terms": [
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "world",
+     "gm": "transmigratory beings"
+    }
+   ]
+  }
+ ]
+}

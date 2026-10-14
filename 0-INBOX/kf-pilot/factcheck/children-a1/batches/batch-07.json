@@ -1,0 +1,607 @@
+[
+ {
+  "id": "5-52",
+  "tibetan": "གཞན་དོན་ཡལ་བར་འདོར་བ་དང་། ། རང་དོན་གཉེར་བར་འདོད་པ་དང་། ། སྨྲ་བར་འདོད་པའི་སེམས་བྱུང་ན། ། དེས་ནི་ཤིང་བཞིན་གནས་པར་བྱ། །",
+  "academic_translation": "If a mind arises that forsakes the welfare of others,\nDesires to pursue my own welfare,\nOr desires to speak,\nThen I should remain like a log of wood.",
+  "locked_terms": [
+   {
+    "tibetan": "གཞན་དོན",
+    "use": "good of others"
+   },
+   {
+    "tibetan": "རང་དོན",
+    "use": "own good"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   },
+   {
+    "tibetan": "ཤིང་བཞིན",
+    "use": "like a log"
+   }
+  ],
+  "translation": "If my mind wants to drop the good of others to seek my own good, or if it just wants to speak, then I should stay like a log."
+ },
+ {
+  "id": "5-53",
+  "tibetan": "མི་བཟོད་ལེ་ལོ་འཇིགས་པ་དང་། ། དེ་བཞིན་སྤྱི་རྟོལ་མུ་ཅོར་དང་། ། རང་གི་ཕྱོགས་ཞེན་སེམས་བྱུང་ན། ། དེ་ཚེ་ཤིང་བཞིན་གནས་པར་བྱ། །",
+  "academic_translation": "Impatience, laziness, and fear,\nAnd likewise impudence and idle chatter,\nOr if a mind attached to my own side arises,\nAt that time, I should remain like a log of wood.",
+  "locked_terms": [
+   {
+    "tibetan": "མི་བཟོད",
+    "use": "impatience"
+   },
+   {
+    "tibetan": "ལེ་ལོ",
+    "use": "laziness"
+   },
+   {
+    "tibetan": "སྤྱི་རྟོལ",
+    "use": "rudeness"
+   },
+   {
+    "tibetan": "མུ་ཅོར",
+    "use": "idle talk"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   },
+   {
+    "tibetan": "ཤིང་བཞིན",
+    "use": "like a log"
+   }
+  ],
+  "translation": "When impatience, laziness, and fear appear, along with rudeness and idle talk. Or if a mind attached to my own side comes up, at that time I should stay like a log."
+ },
+ {
+  "id": "5-54",
+  "tibetan": "དེ་ལྟར་ཀུན་ནས་ཉོན་མོངས་དང་། ། དོན་མེད་བརྩོན་པའི་ཡིད་བརྟགས་ནས། ། དེ་ཚེ་དཔའ་བོས་གཉེན་པོ་ཡིས། ། དེ་ནི་བརྟན་པོར་གཟུང་བར་བྱ། །",
+  "academic_translation": "Having thus examined the mind for complete affliction,\nAnd for its striving for meaningless things,\nAt that time, the hero, by means of an antidote,\nShould firmly hold it.",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   },
+   {
+    "tibetan": "གཉེན་པོ",
+    "use": "remedy"
+   },
+   {
+    "tibetan": "དཔའ་བོ",
+    "use": "hero"
+   },
+   {
+    "tibetan": "ཡིད",
+    "use": "mind"
+   }
+  ],
+  "translation": "I must check my mind for any troubling emotion and for chasing meaningless things. At that time, a hero should use a remedy to hold the mind firmly."
+ },
+ {
+  "id": "5-55",
+  "tibetan": "ཤིན་ཏུ་ངེས་དང་རབ་དད་དང་། ། བརྟན་དང་གུས་དང་ཞེ་སར་བཅས། ། ངོ་ཚ་ཤེས་དང་འཇིགས་བཅས་དང་། ། ཞི་ཞིང་གཞན་དགའ་བྱེད་ལ་བརྩོན། །",
+  "academic_translation": "With utmost certainty and excellent faith,\nSteadfast, respectful, and courteous,\nWith a sense of shame and with apprehension,\nBe peaceful and strive to make others happy.",
+  "locked_terms": [
+   {
+    "tibetan": "རབ་དད",
+    "use": "deep trust"
+   },
+   {
+    "tibetan": "ངོ་ཚ་ཤེས",
+    "use": "sense of shame"
+   },
+   {
+    "tibetan": "འཇིགས་བཅས",
+    "use": "fear of doing wrong"
+   }
+  ],
+  "translation": "With strong certainty and deep trust, I should be steady, respectful, and polite. With a sense of shame and a fear of doing wrong, I should be peaceful and try hard to make others happy."
+ },
+ {
+  "id": "5-56",
+  "tibetan": "ཕན་ཚུན་མི་མཐུན་བྱིས་པ་ཡི། ། འདོད་པ་རྣམས་ཀྱིས་མི་སྐྱོ་ཞིང་། ། ཉོན་མོངས་སྐྱེས་པ་འདི་དག་གི ། སེམས་འདི་བྱུང་སྙམ་བརྩེར་ལྡན་དང་། །",
+  "academic_translation": "Do not be disheartened by the mutually discordant\nDesires of childish ones,\nBut thinking, \"Because afflictions have arisen in them,\nThis mind of theirs has arisen,\" be a compassionate one.",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   },
+   {
+    "tibetan": "བྱིས་པ",
+    "use": "childish person"
+   },
+   {
+    "tibetan": "བརྩེར་ལྡན",
+    "use": "compassionate one"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "I should not be upset by the clashing desires of any childish person. Instead, I should think, \"This mind of theirs has appeared because a troubling emotion grew in them.\" I will be a compassionate one."
+ },
+ {
+  "id": "5-57",
+  "tibetan": "ཁ་ན་མ་ཐོ་མེད་དངོས་ལ། ། བདག་དང་སེམས་ཅན་དབང་བྱས་ཤིང་། ། སྤྲུལ་པ་བཞིན་དུ་ང་མེད་པར། ། ཡིད་འདི་རྟག་ཏུ་གཟུང་བར་བྱ། །",
+  "academic_translation": "Regarding blameless things,\nGoverned by myself and sentient beings,\nLike an emanation, without \"I\",\nI should always hold this mind.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "ཁ་ན་མ་ཐོ་མེད",
+    "use": "free of blame"
+   },
+   {
+    "tibetan": "སྤྲུལ་པ",
+    "use": "magical creation"
+   },
+   {
+    "tibetan": "ཡིད",
+    "use": "mind"
+   },
+   {
+    "tibetan": "ང",
+    "use": "I"
+   }
+  ],
+  "translation": "When I do things that are free of blame with myself and any living being, I must always hold my mind like a magical creation. It must not have any 'I' in it."
+ },
+ {
+  "id": "5-58",
+  "tibetan": "རིང་ཞིག་ལོན་ནས་དལ་བའི་མཆོག ། ཐོབ་པ་ཡང་དང་ཡང་བསམས་ནས། ། སེམས་དེ་ལྟ་བུར་རི་རབ་ལྟར། ། རབ་ཏུ་མི་གཡོ་གཟུང་བར་བྱ། །",
+  "academic_translation": "After a long time, the supreme leisure,\nReflecting again and again on having obtained it,\nSuch a mind, like Mount Meru,\nI should hold completely unshakable.",
+  "locked_terms": [
+   {
+    "tibetan": "དལ་བའི་མཆོག",
+    "use": "best chance to practise"
+   },
+   {
+    "tibetan": "རི་རབ",
+    "use": "Mount Meru"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "It took a long time to get this best chance to practise. I should think about this again and again. I must keep my mind as steady and unshakable as Mount Meru."
+ },
+ {
+  "id": "5-59",
+  "tibetan": "བྱ་རྒོད་ཤ་ལ་ཆགས་པ་ཡིས། ། ཕན་ཚུན་ཀུན་དུ་བཤལ་ཁྲིད་ཀྱང་། ། ཡིད་ཁྱོད་མི་དགར་མི་བྱེད་ན། ། ད་ལྟ་ཅི་ཕྱིར་ཁ་ཏ་བྱེད། །",
+  "academic_translation": "By vultures craving flesh,\nEven when the body is dragged back and forth everywhere,\nIf you, O mind, are not displeased,\nWhy do you now care for it?",
+  "locked_terms": [
+   {
+    "tibetan": "ཡིད",
+    "use": "mind"
+   }
+  ],
+  "translation": "When hungry vultures drag this dead body all around, you are not upset, my mind. So why do you care so much for it right now?"
+ },
+ {
+  "id": "5-60",
+  "tibetan": "ལུས་འདི་བདག་གིར་གཟུང་བྱས་ནས། ། ཡིད་ཁྱོད་ཅི་ཕྱིར་སྲུང་བར་བྱེད། ། ཁྱོད་དང་འདི་གཉིས་སོ་སོ་ན། ། དེས་ཀོ་ཁྱོད་ལ་ཅི་ཞིག་བྱ། །",
+  "academic_translation": "Having grasped this body as \"mine,\"\nO mind, why do you guard it?\nIf you and this are separate,\nWhat can it do for you?",
+  "locked_terms": [
+   {
+    "tibetan": "ཡིད",
+    "use": "mind"
+   }
+  ],
+  "translation": "My mind, you hold onto this body and call it 'mine'. But why do you guard it so closely? You and the body are completely separate. What can it really do for you?"
+ },
+ {
+  "id": "5-61",
+  "tibetan": "རྨོངས་པའི་ཡིད་ཁྱོད་ཅི་ཡི་ཕྱིར། ། ཤིང་གཟུགས་གཙང་མ་གཟུང་མི་བྱེད། ། མི་གཙང་ཚོགས་ཀྱི་འཁྲུལ་འཁོར་འདི། ། རུལ་བ་བསྲུངས་ཏེ་ཅི་ཞིག་རུང་། །",
+  "academic_translation": "Mind of delusion, for what reason\nDo you not grasp a clean wooden form?\nThis machine of a collection of impurities,\nWhat is the use of guarding this rotten thing?",
+  "locked_terms": [
+   {
+    "tibetan": "ཡིད",
+    "use": "mind"
+   },
+   {
+    "tibetan": "མི་གཙང",
+    "use": "filth"
+   },
+   {
+    "tibetan": "རྨོངས་པ",
+    "use": "confusion"
+   }
+  ],
+  "translation": "My mind of confusion, why do you not hold onto a clean wooden shape instead? This body is just a machine made of filth. What is the use of guarding this rotten thing?"
+ },
+ {
+  "id": "5-62",
+  "tibetan": "ཐོག་མར་པགས་པའི་རིམ་པ་འདི། ། རང་གི་བློ་ཡིས་ཐ་དད་ཕྱེ། ། ཤ་ཡང་རུས་པའི་དྲ་བ་ལས། ། ཤེས་རབ་མཚོན་གྱིས་གུད་དུ་ཕྱེ། །",
+  "academic_translation": "First, this layer of skin,\nSeparate it with your own intellect;\nAnd the flesh from the lattice of bones,\nSeparate it off with the weapon of wisdom.",
+  "locked_terms": [
+   {
+    "tibetan": "ཤེས་རབ་མཚོན",
+    "use": "blade of wisdom"
+   },
+   {
+    "tibetan": "བློ",
+    "use": "thinking mind"
+   }
+  ],
+  "translation": "First, use your own thinking mind to separate this layer of skin. Then, use the blade of wisdom to separate the flesh from the web of bones."
+ },
+ {
+  "id": "5-63",
+  "tibetan": "རུས་པ་རྣམས་ཀྱང་དབྱེ་བྱས་ནས། ། རྐང་གི་བར་དུ་བལྟ་བྱ་ཞིང་། ། འདི་ལ་སྙིང་པོ་ཅི་ཡོད་ཅེས། ། བདག་ཉིད་ཀྱིས་ནི་བརྟག་པར་གྱིས། །",
+  "academic_translation": "Having separated even the bones,\nLook down to the marrow,\nAnd examine for yourself,\n\"What essence is there in this?\"",
+  "locked_terms": [],
+  "translation": "Take apart even the bones. Look right down to the marrow. Check for yourself. What essence is really in there?"
+ },
+ {
+  "id": "5-64",
+  "tibetan": "དེ་ལྟར་འབད་དེ་བཙལ་ཀྱང་དེར། ། ཁྱོད་ཀྱིས་སྙིང་པོ་མ་མཐོང་ན། ། ད་དུང་ཅི་ཕྱིར་ཆགས་ཚུལ་གྱིས། ། ཁྱོད་ནི་ལུས་འདི་སྲུང་བར་བྱེད། །",
+  "academic_translation": "If, having searched there with such effort,\nYou see no essence,\nWhy do you still, with attachment,\nGuard this body?",
+  "locked_terms": [
+   {
+    "tibetan": "ཆགས",
+    "use": "clinging"
+   }
+  ],
+  "translation": "You look so hard, but you find no essence. Why do you still protect this body with clinging?"
+ },
+ {
+  "id": "5-65",
+  "tibetan": "ཁྱོད་ཀྱིས་མི་གཙང་བཟར་མི་རུང་། ། ཁྲག་ཀྱང་བཏུང་དུ་མི་རུང་ལ། ། རྒྱུ་ལྟོའང་གཞིབ་ཏུ་མི་རུང་ན། ། ལུས་ཀྱིས་ཁྱོད་ལ་ཅི་ཞིག་བྱ། །",
+  "academic_translation": "Impurity is not fit for you to eat,\nBlood, too, is not fit to drink,\nAnd entrails are not fit to suck, so\nWhat will the body do for you?",
+  "locked_terms": [
+   {
+    "tibetan": "མི་གཙང",
+    "use": "filth"
+   }
+  ],
+  "translation": "Filth is not fit for you to eat. Blood is not fit to drink. Guts are not fit to suck. So what will this body do for you?"
+ },
+ {
+  "id": "5-66",
+  "tibetan": "ཉིས་ན་ཝ་དང་བྱ་རྒོད་ཀྱིས། ། ཟས་ཀྱི་དོན་དུ་འདི་བསྲུང་རིགས། ། མི་འོ་ཅོག་གི་ལུས་འདི་ནི། ། བཀོལ་བར་བྱ་བ་ཉིད་དུ་ཟད། །",
+  "academic_translation": "At best, it is fit to be guarded\nAs food for foxes and vultures.\nEvery human body\nIs merely to be put to use.",
+  "locked_terms": [
+   {
+    "tibetan": "མི་འོ་ཅོག་གི་ལུས",
+    "use": "human body"
+   }
+  ],
+  "translation": "At best, it is only guarded as food for foxes and vultures. Every human body is just something to be put to use."
+ },
+ {
+  "id": "5-67",
+  "tibetan": "འདི་ལྟར་ཁྱོད་ཀྱིས་བསྲུངས་ཀྱང་ནི། ། འཆི་བདག་བརྩེ་བ་མེད་པ་ཡིས། ། ཕྲོགས་ཏེ་བྱ་དང་ཁྱིར་བྱིན་ན། ། དེ་ཚེ་ཁྱོད་ཀྱིས་ཅི་བྱར་ཡོད། །",
+  "academic_translation": "Even if you guard it in this way,\nIf the merciless Lord of Death\nSnatches it and gives it to birds and dogs,\nWhat can you do at that time?",
+  "locked_terms": [
+   {
+    "tibetan": "འཆི་བདག",
+    "use": "Lord of Death"
+   }
+  ],
+  "translation": "You might guard it carefully. But the cruel Lord of Death will snatch it away. He will give it to birds and dogs. What can you do then?"
+ },
+ {
+  "id": "5-68",
+  "tibetan": "བྲན་གཡོག་བཀོལ་དུ་མི་བཏུབ་ལའང་། ། གོས་ལ་སོགས་པ་མི་སྦྱིན་ན། ། ལུས་འདི་བསྙོད་ཀྱང་གཞན་འགྲོ་ན། ། ཁྱོད་ཀོ་ཅི་སྟེ་ཤ་ཐང་གསོ། །",
+  "academic_translation": "If one does not give clothes and such\nEven to a servant who cannot be put to work,\nAnd if this body departs even when nourished,\nWhy do you exhaust yourself nourishing it?",
+  "locked_terms": [],
+  "translation": "You would not give clothes to a servant who cannot work. This body will leave you even if you feed it well. Why wear yourself out taking care of it?"
+ },
+ {
+  "id": "5-69",
+  "tibetan": "འདི་ལ་གླ་རྔན་བྱིན་ནས་ནི། ། ད་ནི་རང་གི་དོན་བྱེད་ཆུག ། ཕན་པ་མེད་པར་འདི་ལ་ནི། ། ཐམས་ཅད་སྦྱིན་པར་མི་བྱའོ། །",
+  "academic_translation": "Having given wages to this,\nNow make it serve your own purpose.\nWithout any benefit, to this\nDo not give everything.",
+  "locked_terms": [],
+  "translation": "I pay my body what it needs, like a worker. Then I make it work for my goals. I should not give it everything if it brings no benefit."
+ },
+ {
+  "id": "5-70",
+  "tibetan": "འགྲོ་དང་འོང་བའི་རྟེན་ཙམ་དུ། ། ལུས་ལ་གྲུ་ཡི་བློ་བཞག་སྟེ། ། སེམས་ཅན་རྣམས་དོན་བསྒྲུབ་པའི་ཕྱིར། ། ཡིད་བཞིན་གྱི་ནི་ལུས་སུ་བསྒྱུར། །",
+  "academic_translation": "As a mere support for going and coming,\nConceive of the body as a boat, and\nIn order to accomplish the welfare of sentient beings,\nTransform it into a wish-fulfilling body.",
+  "locked_terms": [
+   {
+    "tibetan": "ཡིད་བཞིན",
+    "use": "wish-granting"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   }
+  ],
+  "translation": "I think of my body as just a boat for moving around. To help living beings, I will turn it into a wish-granting body."
+ },
+ {
+  "id": "5-71",
+  "tibetan": "དེ་ལྟར་རང་དབང་ཡོད་ཀྱིས་དེ། ། རྟག་ཏུ་འཛུམ་པའི་བཞིན་དུ་གྱིས། ། ཁྲོ་གཉེར་ངོ་ཟུམ་ཡོངས་ཐོང་སྟེ། ། འགྲོ་བའི་བཤེས་དང་གསོང་པོར་གྱིས། །",
+  "academic_translation": "Thus, assume self-mastery, and\nAlways maintain a smiling face.\nCompletely abandon frowning and scowling;\nBe a friend to wandering beings and speak sincerely.",
+  "locked_terms": [
+   {
+    "tibetan": "རང་དབང",
+    "use": "being in control of oneself"
+   },
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   }
+  ],
+  "translation": "So, work on being in control of oneself. Always keep a smiling face. Stop frowning and scowling completely. Be a friend to wandering beings and speak honestly."
+ },
+ {
+  "id": "5-72",
+  "tibetan": "ཁྲི་ལ་སོགས་པ་བབ་ཅོལ་དུ། ། སྒྲ་དང་བཅས་པར་མི་དོར་རོ། ། སྒོ་ཡང་དྲག་ཏུ་མི་དབྱེ་སྟེ། ། རྟག་ཏུ་གཅོམ་བསྐྱུངས་དགའ་བར་བྱ། །",
+  "academic_translation": "Chairs and so forth, recklessly,\nDo not throw down with noise.\nAlso, do not open doors forcefully;\nAlways delight in acting quietly.",
+  "locked_terms": [],
+  "translation": "I will not recklessly throw down chairs and other things with noise. I will not open doors with force. I will always enjoy acting quietly."
+ },
+ {
+  "id": "5-73",
+  "tibetan": "ཆུ་སྐྱར་བྱི་ལ་ཆོམ་རྐུན་དག ། སྒྲ་མེད་འཇབ་ཅིང་འགྲོ་བ་ཡིས། ། མངོན་པར་འདོད་པའི་དོན་སྒྲུབ་པ། ། ཐུབ་པས་རྟག་ཏུ་དེ་བཞིན་སྤྱད། །",
+  "academic_translation": "Herons, cats, and thieves,\nBy going silently and stealthily,\nAccomplish their desired goals;\nThe Sage should always act in that manner.",
+  "locked_terms": [
+   {
+    "tibetan": "ཐུབ་པ",
+    "use": "Sage"
+   }
+  ],
+  "translation": "Herons, cats, and thieves get what they want by moving silently and secretly. The Sage should always act in that same way."
+ },
+ {
+  "id": "5-74",
+  "tibetan": "གཞན་ལ་གཞེན་བསྐུལ་འདེབས་མཁས་ཤིང་། ། མ་བཅོལ་ཕན་པ་བྱེད་པའི་ངག ། གུས་པས་སྤྱི་བོས་བླང་གྱིས་ཏེ། ། རྟག་ཏུ་ཀུན་གྱི་སློབ་མར་གྱུར། །",
+  "academic_translation": "The words of those skilled in advising others,\nAnd words that act beneficially unasked,\nAccept them with respect upon your crown;\nAlways become the disciple of everyone.",
+  "locked_terms": [],
+  "translation": "Some people give good advice, and others say helpful things without being asked. I will accept their words with respect, placing them on my head like a crown. I will always be a student to everyone."
+ },
+ {
+  "id": "5-75",
+  "tibetan": "ལེགས་པར་སྨྲས་པ་ཐམས་ཅད་ལ། ། དགེ་བར་གསུངས་ཞེས་བརྗོད་པར་བྱ། ། བསོད་ནམས་བྱེད་པ་མཐོང་གྱུར་ན། ། བསྟོད་པས་ལེགས་པར་དགའ་བ་བསྐྱེད། །",
+  "academic_translation": "To all that is well spoken,\nOne should say, \"Excellently spoken!\"\nIf one sees someone creating merit,\nOne should generate joy well by praising them.",
+  "locked_terms": [
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "store of goodness"
+   }
+  ],
+  "translation": "When someone says something good, I should tell them they spoke well! If I see someone building a store of goodness, I should happily praise them."
+ },
+ {
+  "id": "5-76",
+  "tibetan": "ལྐོག་ན་ཡོན་ཏན་བརྗོད་བྱ་ཞིང་། ། ཡོན་ཏན་བརྗོད་ན་རྗེས་སུ་བརྗོད། ། རང་གི་ཡོན་ཏན་བརྗོད་ན་དེ། ། ཡོན་ཏན་ཤེས་པར་རིག་པར་བྱ། །",
+  "academic_translation": "One should speak of good qualities in their absence,\nAnd if good qualities are spoken of, join in.\nIf one's own good qualities are spoken of,\nOne should understand that as them knowing good qualities.",
+  "locked_terms": [
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   }
+  ],
+  "translation": "I should talk about people's good qualities when they are not around. If others talk about a good quality, I should join in. If they talk about my own good qualities, I should just know they recognize a good quality."
+ },
+ {
+  "id": "5-77",
+  "tibetan": "རྩོམ་པ་ཐམས་ཅད་དགའ་ཕྱིར་ཏེ། ། དེ་ནི་རིན་གྱིས་ཉོ་ནའང་དཀོན། ། དེ་ལྟས་གཞན་བྱས་ཡོན་ཏན་གྱིས། ། དགའ་བའི་བདེ་བ་སྤྱད་པར་བྱ། །",
+  "academic_translation": "All undertakings are for the sake of joy,\nWhich is rare even if bought with a price.\nTherefore, through the good qualities achieved by others,\nI should enjoy the happiness of joy.",
+  "locked_terms": [
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   }
+  ],
+  "translation": "Everything we do is to find joy. True joy is rare even if you try to buy it. So, I should enjoy the happiness of joy by looking at the good qualities others have gained."
+ },
+ {
+  "id": "5-78",
+  "tibetan": "བདག་ལ་འདིར་གོད་ཡོང་མེད་ལ། ། ཕ་རོལ་དུ་ཡང་བདེ་བ་ཆེ། ། ཉེས་པས་མི་དགའ་སྡུག་བསྔལ་ཞིང་། ། ཕ་རོལ་དུ་ཡང་སྡུག་བསྔལ་ཆེ། །",
+  "academic_translation": "In this life there is no loss for me,\nAnd in the next life there is great happiness.\nThrough faults, there is unhappiness and suffering,\nAnd in the next life there is great suffering.",
+  "locked_terms": [
+   {
+    "tibetan": "བདེ་བ",
+    "use": "happiness"
+   },
+   {
+    "tibetan": "ཉེས་པ",
+    "use": "fault"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "I lose nothing in this life, and I will have great happiness in the next. Through faults, there is sadness and suffering now. In the next life, there is great suffering."
+ },
+ {
+  "id": "5-79",
+  "tibetan": "སྨྲ་ན་ཡིད་ཕེབས་འབྲེལ་པ་དང་། ། དོན་གསལ་ཡིད་དུ་འོང་བ་དང་། ། ཆགས་དང་ཞེ་སྡང་སྤངས་པ་དང་། ། འཇམ་ཞིང་རན་པར་སྨྲ་བར་བྱ། །",
+  "academic_translation": "When speaking, one's words should be comforting and coherent,\nClear in meaning and pleasing;\nHaving abandoned attachment and hatred,\nOne should speak gently and in moderation.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆགས",
+    "use": "clinging"
+   },
+   {
+    "tibetan": "ཞེ་སྡང",
+    "use": "hatred"
+   }
+  ],
+  "translation": "When I speak, my words should make sense and bring comfort. My meaning should be clear and pleasing. I must let go of clinging and hatred. I should speak gently and not say too much."
+ },
+ {
+  "id": "5-80",
+  "tibetan": "མིག་གིས་སེམས་ཅན་ལྟ་ན་ཡང་། ། འདི་དག་ཉིད་ལ་བརྟེན་ནས་བདག ། སངས་རྒྱས་ཉིད་དུ་འགྱུར་རོ་ཞེས། ། དྲང་ཞིང་བྱམས་པའི་ཚུལ་གྱིས་བལྟ། །",
+  "academic_translation": "Even when looking at sentient beings with one's eyes,\nThinking, \"By relying upon these very beings,\nI will become a Buddha,\"\nOne should look in a direct and loving manner.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   }
+  ],
+  "translation": "When I look at living beings, I should think, \"By relying on these very beings, I will become a Buddha.\" I should always look at them in a direct and loving way."
+ },
+ {
+  "id": "5-81",
+  "tibetan": "རྟག་པར་མངོན་ཞེན་གྱིས་བསླང་བའམ། ། གཉེན་པོ་ཡིས་ནི་བསླང་བ་ཉིད། ། ཡོན་ཏན་དང་ནི་ཕན་འདོགས་ཞིང་། ། སྡུག་བསྔལ་བ་ལ་དགེ་ཆེན་འགྱུར། །",
+  "academic_translation": "Whether motivated by constant, intense, fixed aspiration,\nOr motivated by an antidote,\nToward the fields of good qualities and benefactors,\nAnd those who are suffering, virtue becomes great.",
+  "locked_terms": [
+   {
+    "tibetan": "གཉེན་པོ",
+    "use": "remedy"
+   },
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   },
+   {
+    "tibetan": "དགེ",
+    "use": "good deed"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "A good deed becomes very great when you do it with a strong, lasting wish, or as a remedy. This is true when you act toward people with good qualities, people who help you, and those in suffering."
+ },
+ {
+  "id": "5-82",
+  "tibetan": "མཁས་ཤིང་ལྡང་དང་ལྡན་བྱས་ནས། ། ལས་རྣམས་བདག་གིས་རྟག་ཏུ་བྱ། ། ལས་རྣམས་ཀུན་ལ་སུ་ལ་ཡང་། ། ལྟོས་པར་བྱ་བ་མ་ཡིན་ནོ། །",
+  "academic_translation": "Having become skilled and endowed with faith,\nI shall always perform actions myself.\nIn all actions, upon anyone at all,\nI should not rely.",
+  "locked_terms": [],
+  "translation": "I will become skilled and full of faith. I will always do my work myself. I should not rely on anyone else for any action at all."
+ },
+ {
+  "id": "5-83",
+  "tibetan": "སྦྱིན་པའི་ཕ་རོལ་ཕྱིན་ལ་སོགས། ། གོང་ནས་གོང་དུ་ཁྱད་ཞུགས་སྤྱད། ། ཆུང་ངུའི་ཕྱིར་ནི་ཆེ་མི་གཏང་། ། གཙོ་ཆེར་གཞན་གྱི་དོན་བསམ་མོ། །",
+  "academic_translation": "One should practice the perfection of generosity and the rest\nIn a progressively more exalted manner.\nOne should not forsake the greater for the sake of the lesser;\nPrincipally, one should consider the welfare of others.",
+  "locked_terms": [
+   {
+    "tibetan": "སྦྱིན་པའི་ཕ་རོལ་ཕྱིན",
+    "use": "perfection of giving"
+   },
+   {
+    "tibetan": "གཞན་གྱི་དོན",
+    "use": "good of others"
+   }
+  ],
+  "translation": "I should practice the perfection of giving and the other practices better and better over time. I should not give up something big for something small. Above all, I must think about the good of others."
+ },
+ {
+  "id": "5-84",
+  "tibetan": "དེ་ལྟར་རིག་བྱས་གཞན་དོན་ལ། ། རྟག་ཏུ་བརྩོན་པར་གནས་པར་བྱ། ། ཐུགས་རྗེ་མངའ་བ་རིང་གཟིགས་པས། ། བཀག་པ་རྣམས་ཀྱང་དེ་ལ་གནང་། །",
+  "academic_translation": "Having understood this, one should always remain\nDiligent in the welfare of others.\nBecause the Compassionate One sees far ahead,\nHe permits even prohibited acts for that one.",
+  "locked_terms": [
+   {
+    "tibetan": "གཞན་དོན",
+    "use": "good of others"
+   },
+   {
+    "tibetan": "ཐུགས་རྗེ་མངའ་བ",
+    "use": "Compassionate One"
+   }
+  ],
+  "translation": "Knowing this, I must always work hard for the good of others. The Compassionate One sees far ahead. Because of this, he allows a person working for others to do even forbidden things."
+ },
+ {
+  "id": "5-85",
+  "tibetan": "ལོག་པར་ལྟུང་དང་མགོན་མེད་དང་། ། བརྟུལ་ཞུགས་གནས་ལ་བགོ་བྱ་ཞིང་། ། རན་པ་ཙམ་དུ་བཟའ་བྱ་སྟེ། ། ཆོས་གོས་གསུམ་མ་གཏོགས་པ་སྦྱིན། །",
+  "academic_translation": "One should share with those fallen into wretched states, the unprotected,\nAnd those established in ascetic discipline;\nOne should eat only a moderate amount,\nAnd give away everything except the three Dharma robes.",
+  "locked_terms": [
+   {
+    "tibetan": "བརྟུལ་ཞུགས",
+    "use": "strict practice"
+   },
+   {
+    "tibetan": "ཆོས་གོས་གསུམ",
+    "use": "three monk's robes"
+   }
+  ],
+  "translation": "I should share with people in miserable states, people with no protection, and those doing strict practice. I should eat only the right amount. I must give away everything except my three monk's robes."
+ },
+ {
+  "id": "5-86",
+  "tibetan": "དམ་པའི་ཆོས་ནི་སྤྱོད་པའི་ལུས། ། ཕྲན་ཚེགས་ཆེད་དུ་གནོད་མི་བྱ། ། དེ་ལྟར་བྱས་ན་སེམས་ཅན་གྱི། ། བསམ་པ་མྱུར་དུ་རྫོགས་པར་འགྱུར། །",
+  "academic_translation": "This body, which practices the sublime Dharma,\nShould not be harmed for the sake of something trivial.\nIf one acts in this way, the wishes\nOf sentient beings will be swiftly fulfilled.",
+  "locked_terms": [
+   {
+    "tibetan": "དམ་པའི་ཆོས",
+    "use": "holy teachings"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   }
+  ],
+  "translation": "My body practices the holy teachings. I should not harm it for something small. If I act like this, I will quickly fulfill the wishes of every living being."
+ },
+ {
+  "id": "5-87",
+  "tibetan": "སྙིང་རྗེའི་བསམ་པ་མ་དག་པར། ། ལུས་འདི་གཏང་བར་མི་བྱ་སྟེ། ། ཅི་ནས་འདི་དང་གཞན་དུ་ཡང་། ། དོན་ཆེན་སྒྲུབ་པའི་རྒྱུར་གཏང་ངོ་། །",
+  "academic_translation": "While the intention of compassion is impure,\nOne should not give away this body;\nRather, only when in this and other lives\nIt becomes a cause for accomplishing a great purpose, should it be given.",
+  "locked_terms": [
+   {
+    "tibetan": "སྙིང་རྗེ",
+    "use": "compassion"
+   }
+  ],
+  "translation": "If my compassion is not pure, I should not give away my body. I should only give it away if it will help achieve a great purpose in this life and future lives."
+ },
+ {
+  "id": "5-88",
+  "tibetan": "མ་གུས་པ་ལ་ཆོས་མི་བཤད། ། མི་ན་བཞིན་དུ་མགོ་དཀྲིས་དང་། ། གདུགས་དང་འཁར་བ་མཚོན་ཐོགས་དང་། ། མགོ་བོ་གཡོགས་པ་དག་ལ་མིན། །",
+  "academic_translation": "One should not teach the Dharma to the disrespectful,\nNor to those who wear head-wraps while not ill,\nNor to those holding parasols, staffs, or weapons,\nNor to those whose heads are covered.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོས",
+    "use": "teachings"
+   }
+  ],
+  "translation": "I should not share the teachings with disrespectful people. I should not teach people who wrap their heads unless they are sick. I must not teach anyone holding an umbrella, a stick, or a weapon, or those with covered heads."
+ },
+ {
+  "id": "5-89",
+  "tibetan": "དམན་ལ་ཟབ་དང་རྒྱ་ཆེ་དང་། ། སྐྱེས་པ་མེད་པར་བུད་མེད་མིན། ། དམན་དང་མཆོག་གི་ཆོས་རྣམས་ལ། ། མཚུངས་པར་གུས་པས་ཀུན་དུ་སྤྱད། །",
+  "academic_translation": "Do not teach the profound and vast to those of lesser capacity,\nNor to a woman without a man present;\nToward the lesser and supreme Dharmas,\nOne should always act with equal respect.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོས",
+    "use": "teachings"
+   }
+  ],
+  "translation": "I should not share deep and vast teachings with people who are not ready. I should not teach a woman when no man is present. I must always show equal respect to both simple and highest teachings."
+ },
+ {
+  "id": "5-90",
+  "tibetan": "རྒྱ་ཆེན་ཆོས་ཀྱི་སྣོད་གྱུར་པ། ། དམན་པའི་ཆོས་ལ་སྦྱར་མི་བྱ། ། སྤྱོད་པ་ཡོངས་སུ་དོར་མི་བྱ། ། མདོ་དང་སྔགས་ཀྱིས་འདྲིད་མི་བྱ། །",
+  "academic_translation": "Those who have become vessels for the vast Dharma\nShould not be engaged in the lesser Dharma;\nConduct should not be completely forsaken,\nNor should one lure them with sūtras and mantras.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོས",
+    "use": "teachings"
+   },
+   {
+    "tibetan": "མདོ",
+    "use": "teaching text"
+   },
+   {
+    "tibetan": "སྔགས",
+    "use": "sacred words"
+   }
+  ],
+  "translation": "People who are ready for the vast teachings should not practice the lesser teachings instead. Good behavior should not be given up completely. I should not trick people with teaching texts and sacred words."
+ },
+ {
+  "id": "5-91",
+  "tibetan": "སོ་ཤིང་དང་ནི་མཆིལ་མ་དག ། དོར་བ་ན་ནི་དགབ་པར་བྱ། ། གཅི་ལ་སོགས་པའང་ལོངས་སྤྱོད་པའི། ། ཆུ་དང་ཐང་ལ་དོར་བ་སྨད། །",
+  "academic_translation": "Tooth-sticks and saliva,\nWhen discarded, should be covered;\nAlso, discharging urine and the like\nInto usable water or land is deprecated.",
+  "locked_terms": [],
+  "translation": "When I spit or throw away sticks used to clean teeth, I should cover them up. It is wrong to pee or leave waste in water or on land that people use."
+ }
+]

@@ -1,0 +1,545 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "6-34",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-35",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཟས་གཅོད",
+      "reason": "Buddhist technical practice (fasting)",
+      "dm": "fasting",
+      "gm": "starve themselves"
+     }
+    ]
+   },
+   {
+    "id": "6-36",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-37",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-38",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-39",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "རང་བཞིན",
+      "reason": "Doctrinal concept (nature, svabhāva/prakṛti)",
+      "dm": "nature",
+      "gm": "nature"
+     }
+    ]
+   },
+   {
+    "id": "6-40",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "རང་བཞིན",
+      "reason": "Doctrinal concept (nature, svabhāva/prakṛti)",
+      "dm": "nature",
+      "gm": "nature"
+     }
+    ]
+   },
+   {
+    "id": "6-41",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-42",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-43",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "རྒྱུ",
+      "reason": "Technical concept (cause, hetu)",
+      "dm": "causes",
+      "gm": "causes"
+     }
+    ]
+   },
+   {
+    "id": "6-44",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 1,
+      "bo_fixed": "སྲེད"
+     }
+    ],
+    "add": [
+     {
+      "bo": "སྡུག་བསྔལ",
+      "reason": "Technical term (suffering)",
+      "dm": null,
+      "gm": null
+     }
+    ]
+   },
+   {
+    "id": "6-45",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "རྒྱུ",
+      "reason": "Technical concept (cause, hetu)",
+      "dm": "causes",
+      "gm": "causes"
+     }
+    ]
+   },
+   {
+    "id": "6-46",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 4,
+      "bo_fixed": "ཁྲོ་བ"
+     }
+    ],
+    "add": [
+     {
+      "bo": "དམྱལ་བ",
+      "reason": "Part of a listed compound, independently a term (hell)",
+      "dm": "hell",
+      "gm": "hell"
+     }
+    ]
+   },
+   {
+    "id": "6-47",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 2,
+      "bo_fixed": "སེམས་ཅན་དམྱལ"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "6-48",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-49",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 1,
+      "bo_fixed": "ཁྲོ་བ"
+     }
+    ],
+    "add": [
+     {
+      "bo": "ཕྱིན་ཅི་ལོག",
+      "reason": "Doctrinal concept (perversely/erroneous)",
+      "dm": "perversely",
+      "gm": "perversely"
+     },
+     {
+      "bo": "སེམས",
+      "reason": "Technical term (mind)",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "6-50",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བསམ་པ",
+      "reason": "Technical term (intention)",
+      "dm": "intention",
+      "gm": "intention"
+     }
+    ]
+   },
+   {
+    "id": "6-51",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-52",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ལུས་ཅན",
+      "reason": "Technical term (embodied/physical entity)",
+      "dm": "physical entity",
+      "gm": null
+     }
+    ]
+   },
+   {
+    "id": "6-53",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཚིག་རྩུབ",
+      "reason": "Specific non-virtue (harsh speech)",
+      "dm": "harsh speech",
+      "gm": "harsh words"
+     }
+    ]
+   },
+   {
+    "id": "6-54",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-55",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བར་ཆད",
+      "reason": "Technical term (obstacle/hindrance)",
+      "dm": "obstacles",
+      "gm": "hinders"
+     }
+    ]
+   },
+   {
+    "id": "6-56",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སྡུག་བསྔལ",
+      "reason": "Part of a listed compound, independently a term (suffering)",
+      "dm": "suffering",
+      "gm": "suffering"
+     }
+    ]
+   },
+   {
+    "id": "6-57",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བདེ",
+      "reason": "Doctrinal concept (happiness/sukha)",
+      "dm": "happiness",
+      "gm": "happiness"
+     }
+    ]
+   },
+   {
+    "id": "6-58",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བདེ་བ",
+      "reason": "Doctrinal concept (happiness/sukha)",
+      "dm": "happiness",
+      "gm": "happiness"
+     },
+     {
+      "bo": "འཆི་བ",
+      "reason": "Technical term (death)",
+      "dm": "death",
+      "gm": "death"
+     }
+    ]
+   },
+   {
+    "id": "6-59",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བདེ",
+      "reason": "Doctrinal concept (happiness/sukha)",
+      "dm": "happiness",
+      "gm": "happiness"
+     }
+    ]
+   },
+   {
+    "id": "6-60",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 4,
+      "bo_fixed": "ཁྲོས"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "6-61",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-62",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-63",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བཟོད",
+      "reason": "Buddhist virtue (tolerate/patience)",
+      "dm": "tolerate",
+      "gm": "tolerate"
+     }
+    ]
+   },
+   {
+    "id": "6-64",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-65",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-66",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "Part of listed compounds, independently a term (mind)",
+      "dm": null,
+      "gm": null
+     }
+    ]
+   },
+   {
+    "id": "6-67",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [],
+  "fix_span": [
+   {
+    "id": "6-44",
+    "bo": "སྲེད་མདོངས",
+    "bo_fixed": "སྲེད"
+   },
+   {
+    "id": "6-46",
+    "bo": "ཁྲོ་བར",
+    "bo_fixed": "ཁྲོ་བ"
+   },
+   {
+    "id": "6-47",
+    "bo": "དམྱལ",
+    "bo_fixed": "སེམས་ཅན་དམྱལ"
+   },
+   {
+    "id": "6-49",
+    "bo": "ཁྲོ་བར",
+    "bo_fixed": "ཁྲོ་བ"
+   },
+   {
+    "id": "6-60",
+    "bo": "ཁྲོ",
+    "bo_fixed": "ཁྲོས"
+   }
+  ],
+  "add": [
+   {
+    "id": "6-35",
+    "bo": "ཟས་གཅོད",
+    "dm": "fasting",
+    "gm": "starve themselves",
+    "reason": "Buddhist technical practice (fasting)"
+   },
+   {
+    "id": "6-39",
+    "bo": "རང་བཞིན",
+    "dm": "nature",
+    "gm": "nature",
+    "reason": "Doctrinal concept (nature, svabhāva/prakṛti)"
+   },
+   {
+    "id": "6-40",
+    "bo": "རང་བཞིན",
+    "dm": "nature",
+    "gm": "nature",
+    "reason": "Doctrinal concept (nature, svabhāva/prakṛti)"
+   },
+   {
+    "id": "6-43",
+    "bo": "རྒྱུ",
+    "dm": "causes",
+    "gm": "causes",
+    "reason": "Technical concept (cause, hetu)"
+   },
+   {
+    "id": "6-44",
+    "bo": "སྡུག་བསྔལ",
+    "dm": null,
+    "gm": null,
+    "reason": "Technical term (suffering)"
+   },
+   {
+    "id": "6-45",
+    "bo": "རྒྱུ",
+    "dm": "causes",
+    "gm": "causes",
+    "reason": "Technical concept (cause, hetu)"
+   },
+   {
+    "id": "6-46",
+    "bo": "དམྱལ་བ",
+    "dm": "hell",
+    "gm": "hell",
+    "reason": "Part of a listed compound, independently a term (hell)"
+   },
+   {
+    "id": "6-49",
+    "bo": "ཕྱིན་ཅི་ལོག",
+    "dm": "perversely",
+    "gm": "perversely",
+    "reason": "Doctrinal concept (perversely/erroneous)"
+   },
+   {
+    "id": "6-49",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "Technical term (mind)"
+   },
+   {
+    "id": "6-50",
+    "bo": "བསམ་པ",
+    "dm": "intention",
+    "gm": "intention",
+    "reason": "Technical term (intention)"
+   },
+   {
+    "id": "6-52",
+    "bo": "ལུས་ཅན",
+    "dm": "physical entity",
+    "gm": null,
+    "reason": "Technical term (embodied/physical entity)"
+   },
+   {
+    "id": "6-53",
+    "bo": "ཚིག་རྩུབ",
+    "dm": "harsh speech",
+    "gm": "harsh words",
+    "reason": "Specific non-virtue (harsh speech)"
+   },
+   {
+    "id": "6-55",
+    "bo": "བར་ཆད",
+    "dm": "obstacles",
+    "gm": "hinders",
+    "reason": "Technical term (obstacle/hindrance)"
+   },
+   {
+    "id": "6-56",
+    "bo": "སྡུག་བསྔལ",
+    "dm": "suffering",
+    "gm": "suffering",
+    "reason": "Part of a listed compound, independently a term (suffering)"
+   },
+   {
+    "id": "6-57",
+    "bo": "བདེ",
+    "dm": "happiness",
+    "gm": "happiness",
+    "reason": "Doctrinal concept (happiness/sukha)"
+   },
+   {
+    "id": "6-58",
+    "bo": "བདེ་བ",
+    "dm": "happiness",
+    "gm": "happiness",
+    "reason": "Doctrinal concept (happiness/sukha)"
+   },
+   {
+    "id": "6-58",
+    "bo": "འཆི་བ",
+    "dm": "death",
+    "gm": "death",
+    "reason": "Technical term (death)"
+   },
+   {
+    "id": "6-59",
+    "bo": "བདེ",
+    "dm": "happiness",
+    "gm": "happiness",
+    "reason": "Doctrinal concept (happiness/sukha)"
+   },
+   {
+    "id": "6-63",
+    "bo": "བཟོད",
+    "dm": "tolerate",
+    "gm": "tolerate",
+    "reason": "Buddhist virtue (tolerate/patience)"
+   },
+   {
+    "id": "6-66",
+    "bo": "སེམས",
+    "dm": null,
+    "gm": null,
+    "reason": "Part of listed compounds, independently a term (mind)"
+   }
+  ]
+ }
+}

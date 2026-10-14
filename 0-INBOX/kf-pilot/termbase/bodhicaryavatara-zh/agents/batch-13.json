@@ -1,0 +1,708 @@
+{
+ "batch": "batch-13",
+ "terms": [
+  {
+   "term_id": "T013",
+   "bo": "འཇིག་རྟེན",
+   "sanskrit": "loka",
+   "senses": [
+    {
+     "sense": "world",
+     "occurrences": "all",
+     "academic": "世間",
+     "children": "世界",
+     "basis": "style-sheet",
+     "reason": "Core table: loka is 世間 academic, 世界 for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T029",
+   "bo": "དངོས་པོ",
+   "sanskrit": "bhāva; vastu",
+   "senses": [
+    {
+     "sense": "entity",
+     "occurrences": "all",
+     "academic": "事物",
+     "children": "東西",
+     "basis": "zero-shot",
+     "reason": "Gemini 事物 reads well; child says \"thing\" as 東西, kept apart from 事物 used for ཆོས at 9-105."
+    }
+   ]
+  },
+  {
+   "term_id": "T045",
+   "bo": "མགོན་པོ",
+   "sanskrit": "nātha",
+   "senses": [
+    {
+     "sense": "epithet of the Buddha",
+     "occurrences": "all",
+     "academic": "怙主",
+     "children": "守護者",
+     "basis": "style-sheet",
+     "reason": "Core table: Protector is 怙主 / 守護者."
+    }
+   ]
+  },
+  {
+   "term_id": "T061",
+   "bo": "བདེ་འགྲོ",
+   "sanskrit": "sugati",
+   "senses": [
+    {
+     "sense": "happy realm",
+     "occurrences": "all",
+     "academic": "善趣",
+     "children": "快樂的去處",
+     "basis": "style-sheet",
+     "reason": "Policy: བདེ་འགྲོ is 善趣 / 快樂的去處, the pair of ངན་འགྲོ."
+    }
+   ]
+  },
+  {
+   "term_id": "T077",
+   "bo": "ནམ་མཁའ",
+   "sanskrit": "ākāśa",
+   "senses": [
+    {
+     "sense": "space",
+     "occurrences": "all",
+     "academic": "虛空",
+     "children": "虛空",
+     "basis": "zero-shot",
+     "reason": "Established Chinese for ākāśa; Gemini agrees at 3-20 and 10-54; plain enough for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T093",
+   "bo": "མནར་མེད",
+   "sanskrit": "avīci",
+   "senses": [
+    {
+     "sense": "Avīci hell",
+     "occurrences": "all",
+     "academic": "無間獄",
+     "children": "無間獄",
+     "basis": "style-sheet",
+     "reason": "Policy 11 fixes 無間獄 for མནར་མེད in both registers; 獄 is understood by children."
+    }
+   ]
+  },
+  {
+   "term_id": "T109",
+   "bo": "ཐུབ་དབང",
+   "sanskrit": "munīndra",
+   "senses": [
+    {
+     "sense": "lord of sages",
+     "occurrences": "all",
+     "academic": "牟尼之主",
+     "children": "聖者之主",
+     "basis": "style-sheet",
+     "reason": "Core: ཐུབ་དབང is 牟尼之主; children follow 聖者 for ཐུབ་པ."
+    }
+   ]
+  },
+  {
+   "term_id": "T125",
+   "bo": "མདོ",
+   "sanskrit": "sūtra",
+   "senses": [
+    {
+     "sense": "sūtra",
+     "occurrences": "all",
+     "academic": "經",
+     "children": "經典",
+     "basis": "english-pivot",
+     "reason": "Sūtra is 經; \"teaching text\" becomes the everyday 經典 for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T141",
+   "bo": "བག་མེད",
+   "sanskrit": "pramāda",
+   "senses": [
+    {
+     "sense": "heedlessness",
+     "occurrences": "all",
+     "academic": "放逸",
+     "children": "粗心大意",
+     "basis": "style-sheet",
+     "reason": "Core table note: བག་མེད is 放逸 / 粗心大意; Gemini agrees."
+    }
+   ]
+  },
+  {
+   "term_id": "T157",
+   "bo": "སྲེད",
+   "sanskrit": "tṛṣṇā",
+   "senses": [
+    {
+     "sense": "craving",
+     "occurrences": "all",
+     "academic": "渴愛",
+     "children": "渴望",
+     "basis": "new",
+     "reason": "Established tṛṣṇā is 渴愛; Gemini 貪愛 is blurred; child \"wanting\" is 渴望."
+    }
+   ]
+  },
+  {
+   "term_id": "T173",
+   "bo": "བསམ་གཏན",
+   "sanskrit": "dhyāna",
+   "senses": [
+    {
+     "sense": "meditative concentration",
+     "occurrences": "all",
+     "academic": "靜慮",
+     "children": "平靜專注",
+     "basis": "style-sheet",
+     "reason": "Core table: བསམ་གཏན 靜慮 / 平靜專注; Gemini 靜慮 agrees."
+    }
+   ]
+  },
+  {
+   "term_id": "T189",
+   "bo": "རྡུལ",
+   "sanskrit": "rajas; aṇu",
+   "senses": [
+    {
+     "sense": "rajas, one of the three guṇas",
+     "occurrences": [
+      "9-64",
+      "9-127"
+     ],
+     "academic": "塵",
+     "children": "躁動不安",
+     "basis": "new",
+     "reason": "Rajas is 塵 (guṇa trio 薩埵、塵、闇), Gemini 塵; child \"restlessness\" is 躁動不安."
+    },
+    {
+     "sense": "atom",
+     "occurrences": [
+      "9-86"
+     ],
+     "academic": "極微",
+     "children": "極小的微粒",
+     "basis": "english-pivot",
+     "reason": "Atom is 極微 (paramāṇu), kept apart from guṇa 塵; child \"tiny particle\" is 極小的微粒."
+    }
+   ]
+  },
+  {
+   "term_id": "T205",
+   "bo": "ཀུན་དུ་བཟང",
+   "sanskrit": "samantabhadra",
+   "senses": [
+    {
+     "sense": "name of a bodhisattva",
+     "occurrences": "all",
+     "academic": "普賢",
+     "children": "普賢",
+     "basis": "style-sheet",
+     "reason": "Policy 11 fixes 普賢 for ཀུན་ཏུ་བཟང in both registers; Gemini agrees."
+    }
+   ]
+  },
+  {
+   "term_id": "T221",
+   "bo": "དལ་བ",
+   "sanskrit": "kṣaṇa",
+   "senses": [
+    {
+     "sense": "leisure",
+     "occurrences": "all",
+     "academic": "暇",
+     "children": "修行的自由",
+     "basis": "style-sheet",
+     "reason": "Core table: དལ་བ alone is 暇; child phrase follows \"freedom to practice\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T237",
+   "bo": "ཤེས་བཞིན་བསྲུང་བ",
+   "sanskrit": "saṃprajanyarakṣaṇa",
+   "senses": [
+    {
+     "sense": "guarding introspection",
+     "occurrences": "all",
+     "academic": "護正知",
+     "children": "守護警覺",
+     "basis": "style-sheet",
+     "reason": "Chapter 5 title 護正知; child builds on 保持警覺 as 守護警覺."
+    }
+   ]
+  },
+  {
+   "term_id": "T253",
+   "bo": "སངས་རྒྱས་ཆོས",
+   "sanskrit": "buddhadharma",
+   "senses": [
+    {
+     "sense": "qualities of a Buddha",
+     "occurrences": "all",
+     "academic": "佛功德",
+     "children": "佛陀的特質",
+     "basis": "style-sheet",
+     "reason": "Core table: སངས་རྒྱས་ཆོས is 佛功德 / 佛陀的特質; Gemini 佛法 refused."
+    }
+   ]
+  },
+  {
+   "term_id": "T269",
+   "bo": "བཤེས",
+   "sanskrit": "mitra",
+   "senses": [
+    {
+     "sense": "friend",
+     "occurrences": "all",
+     "academic": "友",
+     "children": "朋友",
+     "basis": "english-pivot",
+     "reason": "Friend: bare 友 suits verse lines; 朋友 for children; Gemini 朋友 agrees."
+    }
+   ]
+  },
+  {
+   "term_id": "T285",
+   "bo": "མཆོད་སྡོང",
+   "sanskrit": "stambha",
+   "senses": [
+    {
+     "sense": "shrine",
+     "occurrences": "all",
+     "academic": "塔",
+     "children": "聖塔",
+     "basis": "english-pivot",
+     "reason": "Shrine (stambha, offering monument) is 塔; children get 聖塔 following 神聖 of holy teachings."
+    }
+   ]
+  },
+  {
+   "term_id": "T301",
+   "bo": "སེམས་དམྱལ",
+   "sanskrit": "nāraka",
+   "senses": [
+    {
+     "sense": "hell being",
+     "occurrences": "all",
+     "academic": "地獄有情",
+     "children": "地獄裡的眾生",
+     "basis": "style-sheet",
+     "reason": "Builds on 地獄 and 有情 (sentient beings, policy 5); children use 眾生. Not the mis-cut T463."
+    }
+   ]
+  },
+  {
+   "term_id": "T317",
+   "bo": "ཁམས",
+   "sanskrit": "dhātu",
+   "senses": [
+    {
+     "sense": "realm",
+     "occurrences": "all",
+     "academic": "界",
+     "children": "領域",
+     "basis": "english-pivot",
+     "reason": "Dhātu is 界 as in 有情界 (1-18); child gets the plain 領域 for \"realm\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T333",
+   "bo": "འཇིག་རྟེན་དབང་ཕྱུག",
+   "sanskrit": "lokeśvara",
+   "senses": [
+    {
+     "sense": "name of a bodhisattva",
+     "occurrences": "all",
+     "academic": "觀世音",
+     "children": "觀音",
+     "basis": "style-sheet",
+     "reason": "Policy 11: འཇིག་རྟེན་དབང་ཕྱུག is 觀世音, children 觀音."
+    }
+   ]
+  },
+  {
+   "term_id": "T349",
+   "bo": "སྡིག་ཅན",
+   "sanskrit": "pāpa",
+   "senses": [
+    {
+     "sense": "one burdened with misdeeds",
+     "occurrences": "all",
+     "academic": "具罪業者",
+     "children": "做過有害行為的人",
+     "basis": "style-sheet",
+     "reason": "Built on 罪業 (core སྡིག་པ); child phrase follows 有害的行為."
+    }
+   ]
+  },
+  {
+   "term_id": "T365",
+   "bo": "ངེས་པར་ཐར",
+   "sanskrit": "nirmokṣa",
+   "senses": [
+    {
+     "sense": "definite liberation",
+     "occurrences": "all",
+     "academic": "決定解脫",
+     "children": "完全的自由",
+     "basis": "english-pivot",
+     "reason": "English \"definite liberation\" gives 決定解脫; child \"complete freedom\" gives 完全的自由."
+    }
+   ]
+  },
+  {
+   "term_id": "T381",
+   "bo": "བདུད་རྩི",
+   "sanskrit": "rasāyana",
+   "senses": [
+    {
+     "sense": "nectar",
+     "occurrences": "all",
+     "academic": "甘露",
+     "children": "甘露",
+     "basis": "zero-shot",
+     "reason": "Gemini 甘露 is the established rendering of amṛta/nectar; understandable for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T397",
+   "bo": "སྡིག་སེམས",
+   "sanskrit": "pāpacitta",
+   "senses": [
+    {
+     "sense": "mind of misdeed",
+     "occurrences": "all",
+     "academic": "罪業之心",
+     "children": "有害的心",
+     "basis": "style-sheet",
+     "reason": "Built from 罪業 (སྡིག་པ) and 心 per policy 18; child follows 有害的行為."
+    }
+   ]
+  },
+  {
+   "term_id": "T413",
+   "bo": "སེམས་ཀྱི་གླང་ཆེན་མྱོས་པ",
+   "sanskrit": "cittamattadvipa",
+   "senses": [
+    {
+     "sense": "mad elephant of the mind",
+     "occurrences": "all",
+     "academic": "心之醉象",
+     "children": "心裡發狂的大象",
+     "basis": "english-pivot",
+     "reason": "Mad elephant of the mind: 醉象 is the classical image; child phrase is plain 發狂."
+    }
+   ]
+  },
+  {
+   "term_id": "T429",
+   "bo": "དཔའ་བོ",
+   "sanskrit": "śūra",
+   "senses": [
+    {
+     "sense": "hero",
+     "occurrences": "all",
+     "academic": "勇士",
+     "children": "英雄",
+     "basis": "zero-shot",
+     "reason": "Gemini 勇士 reads well for hero; children get the everyday 英雄."
+    }
+   ]
+  },
+  {
+   "term_id": "T445",
+   "bo": "བསྔོ",
+   "sanskrit": "nāmayet",
+   "senses": [
+    {
+     "sense": "dedication",
+     "occurrences": "all",
+     "academic": "迴向",
+     "children": "分享好事",
+     "basis": "style-sheet",
+     "reason": "Core table: བསྔོ is 迴向 / 分享好事."
+    }
+   ]
+  },
+  {
+   "term_id": "T461",
+   "bo": "ཟས་གཅོད",
+   "sanskrit": "bhaktaccheda",
+   "senses": [
+    {
+     "sense": "fasting",
+     "occurrences": "all",
+     "academic": "斷食",
+     "children": "不吃東西",
+     "basis": "english-pivot",
+     "reason": "Fasting is 斷食; child \"going without food\" is 不吃東西."
+    }
+   ]
+  },
+  {
+   "term_id": "T478",
+   "bo": "དགྲ",
+   "sanskrit": "śatru",
+   "senses": [
+    {
+     "sense": "enemy",
+     "occurrences": "all",
+     "academic": "敵",
+     "children": "敵人",
+     "basis": "english-pivot",
+     "reason": "Enemy: 敵 for verse lines, 敵人 for children; Gemini agrees."
+    }
+   ]
+  },
+  {
+   "term_id": "T494",
+   "bo": "སངས་རྒྱས་ཆོས་མཆོག",
+   "sanskrit": "buddhadharma",
+   "senses": [
+    {
+     "sense": "supreme quality of a Buddha",
+     "occurrences": "all",
+     "academic": "殊勝佛功德",
+     "children": "佛陀最大的特質",
+     "basis": "style-sheet",
+     "reason": "Built on 佛功德 (core སངས་རྒྱས་ཆོས) plus 殊勝; child follows \"greatest quality\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T510",
+   "bo": "བརྩོན་པའི་སྟོབས",
+   "sanskrit": "utsāha",
+   "senses": [
+    {
+     "sense": "power of diligence",
+     "occurrences": "all",
+     "academic": "精進力",
+     "children": "歡喜努力的力量",
+     "basis": "style-sheet",
+     "reason": "Built on 精進 and 歡喜的努力 (core བརྩོན་འགྲུས); Gemini 精進 agrees."
+    }
+   ]
+  },
+  {
+   "term_id": "T526",
+   "bo": "རྡོ་རྗེ་རྒྱལ་མཚན",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "Vajradhvaja",
+     "occurrences": "all",
+     "academic": "金剛幢",
+     "children": "金剛幢",
+     "basis": "new",
+     "reason": "Vajradhvaja, a Buddhist text/ritual name; 金剛幢 is the established Chinese form (Gemini 《金剛幢經》 adds 經)."
+    }
+   ]
+  },
+  {
+   "term_id": "T542",
+   "bo": "ལྷག་མཐོང",
+   "sanskrit": "vipaśyanā",
+   "senses": [
+    {
+     "sense": "special insight",
+     "occurrences": "all",
+     "academic": "勝觀",
+     "children": "清楚看見",
+     "basis": "zero-shot",
+     "reason": "Tibetan-derived Chinese 勝觀 for lhag mthong, as in Gemini; child \"clear seeing\" is 清楚看見."
+    }
+   ]
+  },
+  {
+   "term_id": "T558",
+   "bo": "ཉོན་མོངས་པ",
+   "sanskrit": "kleśa",
+   "senses": [
+    {
+     "sense": "affliction",
+     "occurrences": "all",
+     "academic": "煩惱",
+     "children": "心裡的煩惱",
+     "basis": "style-sheet",
+     "reason": "Core table: ཉོན་མོངས is 煩惱 / 心裡的煩惱; ཉོན་མོངས་པ is the same term."
+    }
+   ]
+  },
+  {
+   "term_id": "T574",
+   "bo": "ཆོག་ཤེས",
+   "sanskrit": "santoṣa",
+   "senses": [
+    {
+     "sense": "contentment",
+     "occurrences": "all",
+     "academic": "知足",
+     "children": "知足",
+     "basis": "zero-shot",
+     "reason": "Gemini 知足 is the established word for santoṣa; plain enough for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T590",
+   "bo": "བདག་ཉིད",
+   "sanskrit": "ātman",
+   "senses": [
+    {
+     "sense": "self",
+     "occurrences": "all",
+     "academic": "自身",
+     "children": "自己",
+     "basis": "english-pivot",
+     "reason": "བདག་ཉིད \"very self\": 自身 stresses the self; children use 自己 as for བདག."
+    }
+   ]
+  },
+  {
+   "term_id": "T606",
+   "bo": "སྐད་ཅིག་མ",
+   "sanskrit": "kṣaṇika",
+   "senses": [
+    {
+     "sense": "momentary",
+     "occurrences": "all",
+     "academic": "剎那",
+     "children": "只存在一瞬間",
+     "basis": "english-pivot",
+     "reason": "Kṣaṇika: 剎那 (Gemini agrees); child phrase follows \"lasting only a moment\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T622",
+   "bo": "དངོས་པོའི་བག་ཆགས",
+   "sanskrit": "bhāvavāsanā",
+   "senses": [
+    {
+     "sense": "latent tendency of entities",
+     "occurrences": "all",
+     "academic": "事物習氣",
+     "children": "事物留在心裡的習慣",
+     "basis": "style-sheet",
+     "reason": "Built on 事物 (T029) and 習氣; child phrase gives \"habit left in the mind\" with 事物."
+    }
+   ]
+  },
+  {
+   "term_id": "T638",
+   "bo": "སྙོམས་འཇུག",
+   "sanskrit": "samāpatti",
+   "senses": [
+    {
+     "sense": "meditative absorption",
+     "occurrences": "all",
+     "academic": "等至",
+     "children": "深深沉浸",
+     "basis": "new",
+     "reason": "Samāpatti is 等至; Gemini 無想定 is a narrower kind. Child \"deep absorption\" is 深深沉浸."
+    }
+   ]
+  },
+  {
+   "term_id": "T654",
+   "bo": "མངོན་ཞེན",
+   "sanskrit": "abhiniveśa",
+   "senses": [
+    {
+     "sense": "conceptual clinging",
+     "occurrences": "all",
+     "academic": "執著",
+     "children": "抓住想法不放",
+     "basis": "english-pivot",
+     "reason": "Abhiniveśa is 執著 (Gemini 妄執 adds judgment); child \"holding on to an idea\" is 抓住想法不放."
+    }
+   ]
+  },
+  {
+   "term_id": "T670",
+   "bo": "ཕྲ་བ",
+   "sanskrit": "sūkṣma",
+   "senses": [
+    {
+     "sense": "subtle",
+     "occurrences": "all",
+     "academic": "細",
+     "children": "細微",
+     "basis": "english-pivot",
+     "reason": "Subtle is 細, opposite of 粗 (རགས) in 9-132; child gets the fuller 細微."
+    }
+   ]
+  },
+  {
+   "term_id": "T686",
+   "bo": "ཉོན་མོངས་ཆུ་བོ",
+   "sanskrit": "kleśaugha",
+   "senses": [
+    {
+     "sense": "river of afflictions",
+     "occurrences": "all",
+     "academic": "煩惱河",
+     "children": "心裡煩惱的河",
+     "basis": "style-sheet",
+     "reason": "Built on 煩惱 plus 河 (ཆུ་བོ); Gemini 瀑流 follows another reading; child uses core 心裡的煩惱."
+    }
+   ]
+  },
+  {
+   "term_id": "T702",
+   "bo": "དུད་འགྲོ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "animal",
+     "occurrences": "all",
+     "academic": "旁生",
+     "children": "動物",
+     "basis": "new",
+     "reason": "Tiryagyoni realm is 旁生 in Tibetan-derived Chinese (Gemini 畜生 is pejorative); children 動物."
+    }
+   ]
+  },
+  {
+   "term_id": "T718",
+   "bo": "མཁའ་འགྲོ",
+   "sanskrit": "ḍākinī",
+   "senses": [
+    {
+     "sense": "ḍākinī",
+     "occurrences": "all",
+     "academic": "空行母",
+     "children": "空中飛行者",
+     "basis": "english-pivot",
+     "reason": "Ḍākinī is 空行母; child \"sky-goer\" is 空中飛行者, avoiding transliteration."
+    }
+   ]
+  },
+  {
+   "term_id": "T734",
+   "bo": "སརྦ་ཛྙཱ་དེ་བ",
+   "sanskrit": "sarvajñādeva",
+   "senses": [
+    {
+     "sense": "Sarvajñādeva",
+     "occurrences": "all",
+     "academic": "薩婆若提婆",
+     "children": "薩婆若提婆",
+     "basis": "zero-shot",
+     "reason": "⚑ No known Chinese form; conventional transliteration from Gemini (薩婆若 = sarvajña, 提婆 = deva)."
+    }
+   ]
+  }
+ ]
+}

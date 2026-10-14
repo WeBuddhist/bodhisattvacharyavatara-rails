@@ -1,0 +1,340 @@
+{
+ "batch": "batch-14",
+ "segments": [
+  {
+   "id": "8-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-13",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "वे बार-बार जन्म के चक्र में मज़ा लेने वाली बातें करते हैं",
+     "evidence": "The Tibetan/academic text says these things arise from the fool's company; the vague 'वे' makes it unclear who speaks of delighting in samsara.",
+     "fix": "और बार-बार जन्म के चक्र में मज़ा लेने वाली बातें भी होने लगती हैं।"
+    }
+   ]
+  },
+  {
+   "id": "8-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-15",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "तो ख़ुशी से उनसे मिलूँगा",
+     "evidence": "Academic: on meeting them, I will satisfy/please them with joy (मिलने पर प्रसन्नता से उन्हें सन्तुष्ट करके); the idea of pleasing them is lost.",
+     "fix": "अगर वे मिल जाएँ, तो ख़ुशी से उन्हें खुश कर दूँगा।"
+    }
+   ]
+  },
+  {
+   "id": "8-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-17",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "सब मुझसे बहुत ख़ुश हैं",
+     "evidence": "Tibetan/academic: 'many people (मुझसे बहुत लोग) are pleased with me', not 'everyone'.",
+     "fix": "बहुत लोग मुझसे ख़ुश हैं।"
+    }
+   ]
+  },
+  {
+   "id": "8-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "जिन भी चीज़ों में फँसता है।",
+     "evidence": "The first sentence is left as an incomplete fragment ending in a full stop, which is ungrammatical and hard for children to follow.",
+     "fix": "इसलिए यह नासमझ सोचने वाला मन जिन-जिन चीज़ों में फँसता है, वे सब मिलकर हज़ार गुना बढ़ जाती हैं और दुख ही बन जाती हैं।"
+    }
+   ]
+  },
+  {
+   "id": "8-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-20",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "मरकर कहाँ जाना होगा",
+     "evidence": "Academic: 'where one will go' (कहाँ जाना होगा); the phrase 'after dying' is not stated.",
+     "fix": "कहाँ जाना होगा, इसका कुछ पता नहीं।"
+    }
+   ]
+  },
+  {
+   "id": "8-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-24",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "सच्चा दोस्त",
+     "evidence": "Academic/Tibetan: 'no fool is a friend (मित्र)'; 'true' is added.",
+     "fix": "कोई भी नासमझ इंसान दोस्त नहीं है"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "इसी तरह गए हुए ने कहा है",
+     "evidence": "Tibetan has a plural (the Tathagatas); the locked term in the singular with 'ने' is hard to parse for children.",
+     "fix": "इसी तरह गए हुए बुद्धों ने कहा है"
+    }
+   ]
+  },
+  {
+   "id": "8-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-27",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "वहाँ मैं बिना किसी लगाव के पूरी आज़ादी से घूमूँगा।",
+     "evidence": "The verse is a wish framed as 'when will I live there, free and without attachment?'; the children's text turns it into a plain statement and 'घूमूँगा' replaces 'रहूँगा'.",
+     "fix": "कब मैं वहाँ बिना किसी लगाव के पूरी आज़ादी से रहूँगा?"
+    }
+   ]
+  },
+  {
+   "id": "8-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-33",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "जीवन का रास्ता चलने वाले लोग",
+     "evidence": "Ungrammatical Hindi (should be 'जीवन के रास्ते पर चलने वाले'); meaning intact.",
+     "fix": "जीवन के रास्ते पर चलने वाले लोग भी"
+    }
+   ]
+  },
+  {
+   "id": "8-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-40",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "जिनके पास पहले दूत भेजकर बार-बार प्रार्थना की गई",
+     "evidence": "Academic: prayers were made repeatedly 'for the sake of whom' (जिनके लिए); the children's text says 'to whom'.",
+     "fix": "जिनके लिए पहले दूत भेजकर बार-बार प्रार्थना की गई।"
+    }
+   ]
+  },
+  {
+   "id": "8-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-42",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "किसी पर निर्भर न होना भी सच नहीं है",
+     "evidence": "Academic: they have no independence (स्वतन्त्रता) and no self; the double negative is tangled for ages 8-12.",
+     "fix": "वे किसी पर निर्भर हुए बिना नहीं रह सकते, और उनका अपना कोई आप नहीं है।"
+    }
+   ]
+  },
+  {
+   "id": "8-43",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "वह हमेशा कपड़े से ढका रहता था",
+     "evidence": "Academic: 'the face was kept covered with cloth'; 'always' and the explicit 'चेहरे' as object of the first line are additions.",
+     "fix": "उसका मुँह कपड़े से ढका रहता था।"
+    }
+   ]
+  },
+  {
+   "id": "8-44",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "अब सामने आ गया है",
+     "evidence": "Academic/Tibetan: 'as if it has now become visible (जैसे अब प्रत्यक्ष हो गया है)'; the 'as if' is lost.",
+     "fix": "वह चेहरा अब जैसे आँखों के सामने आ गया है।"
+    }
+   ]
+  },
+  {
+   "id": "8-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-46",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "सजाते हो",
+     "evidence": "Tibetan 'mchod' / academic 'पूजते हो': you honour/make offerings to it; 'decorate' loses the honouring.",
+     "fix": "फूलों की माला, चन्दन और गहनों से इसका सम्मान क्यों करते हो?"
+    }
+   ]
+  },
+  {
+   "id": "8-47",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "बिना हिलने वाले हड्डियों का ढाँचा देखकर",
+     "evidence": "Ungrammatical agreement and awkward phrase; academic: 'seeing it as a skeleton, motionless'.",
+     "fix": "अगर तुम बिना हिलते हुए हड्डियों के ढाँचे को देखकर डर जाते हो"
+    }
+   ]
+  },
+  {
+   "id": "8-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-49",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "'इसमें से कोई बदबू नहीं आती' यह कहकर",
+     "evidence": "Academic: the lustful person rejects the cotton pillow saying it does not ooze stench, and is deluded (मोहित) about the impure; the reason and the delusion are unclear in the children's text.",
+     "fix": "'इसमें से बदबू नहीं आती' यह सोचकर, चाह से भरा व्यक्ति रुई के तकिए को छोड़ देता है और गन्दे शरीर के पीछे भटकता है।"
+    }
+   ]
+  },
+  {
+   "id": "8-50",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "अगर उसका कोई काम नहीं है",
+     "evidence": "Tibetan: 'if there is no use for that (the uncovered body)'; 'उसका' is ambiguous.",
+     "fix": "अगर बिना ढके शरीर का कोई काम नहीं है"
+    }
+   ]
+  }
+ ]
+}

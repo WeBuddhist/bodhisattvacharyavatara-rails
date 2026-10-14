@@ -1,0 +1,137 @@
+{
+ "batch": "batch-12",
+ "segments": [
+  {
+   "id": "5-32",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "應如是將其銘記在心",
+     "evidence": "Tibetan 'de bzhin gnos' (gnos = mnos, 'take up/adopt') means to take on this attitude thus; Sanskrit 'tathā tiṣṭhet' and bo-kunpal 5-32 'de bzhin mnos te gnas par gyis shig' say 'take it on thus and remain'. '銘記在心' means to commit to memory, shifts the sense to remembering and drops 'remain/abide'; '其' has no referent in the Tibetan.",
+     "fix": "應如是受持而安住"
+    }
+   ]
+  },
+  {
+   "id": "5-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-40",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "如何令所繫之彼不逃脫",
+     "evidence": "Tibetan 'ji ltar btags pa mi 'chor bar / de ltar 'bad pa kun gyis brtag' is a relative-correlative purpose clause ('so that, once tied, it does not escape; thus examine with all effort'; bo-gyaltsab 5-40 'ji ltar btags pa mi 'chor bar de ltar 'bad pa kun gyis brtag par bya'o'). '如何' reads as the interrogative 'how', making the clause a question, and the sentence then lacks a main verb for the elephant.",
+     "fix": "使其一經繫縛便不逃脫"
+    }
+   ]
+  },
+  {
+   "id": "5-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-42",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "如是在布施之時，佛說對持戒應行捨",
+     "evidence": "Tibetan 'adi ltar sbyin pa'i dus dag tu / tshul khrims btang snyoms bya bar gsungs' (Skt 'yasmād uktam') gives an impersonal reason ('since it is taught'); the speaker is not named in the verse (bo-kunpal 5-42 attributes it to the Akṣayamati sutra). '佛說' adds an agent, and '如是' ('thus/likewise') obscures the explanatory 'for' sense of 'di ltar.",
+     "fix": "因為已說，在布施之時，對持戒應行捨"
+    }
+   ]
+  },
+  {
+   "id": "5-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-47",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "想走動",
+     "evidence": "Tibetan 'bskyod par 'dod' means wanting to move (the body); bo-shenga 5-47 'lus bskyod par 'dod' and bo-kunpal 5-47 include even moving a hand or limb, not only walking. '走動' narrows it to walking about.",
+     "fix": "想要移動身體"
+    }
+   ]
+  },
+  {
+   "id": "5-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-51",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,237 @@
+{
+ "batch": "batch-04",
+ "segments": [
+  {
+   "id": "3-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-26",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "我絕對不能弄髒它的名聲",
+     "evidence": "Academic: \"不令染污\" this faultless noble lineage; no mention of reputation/name, only not defiling the lineage.",
+     "fix": "我絕對不能弄髒這個家族。"
+    }
+   ]
+  },
+  {
+   "id": "3-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-11",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "才能達到覺悟的階段",
+     "evidence": "Academic: 得地將歷時久遠 (attaining a bhumi/stage takes long); locked term for ས is 階段. \"覺悟的階段\" may be read as full enlightenment.",
+     "fix": "我就要花很久的時間，才能走到菩薩修行的更高階段。"
+    }
+   ]
+  },
+  {
+   "id": "4-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-15",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "如來來到世界上，讓我得到信任和人的身體",
+     "evidence": "Academic lists three separate rare conditions: a Tathagata appearing, gaining faith and a human body, and suitability for good deeds; the Tathagata is not said to give them to me.",
+     "fix": "如來出現在世界上、我有信任、又得到人的身體，還這麼適合做好事。這些事情都非常少見，什麼時候才能再得到呢？"
+    }
+   ]
+  },
+  {
+   "id": "4-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-19",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "就算過了好幾百個漫長歲月",
+     "evidence": "Academic: 縱然歷經百俱胝劫 (a hundred kotis of kalpas, about a billion); \"several hundred\" gravely understates the number.",
+     "fix": "如果我不做好事，卻累積很多有害的行為，就算過了數以億計的漫長歲月，我也連快樂的去處的聲音都聽不到。"
+    }
+   ]
+  },
+  {
+   "id": "4-20",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

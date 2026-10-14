@@ -1,0 +1,338 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "9-129",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-130",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-131",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-132",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-133",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-134",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-135",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-136",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-137",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Ordinary verb/noun (knowing/knowledge) in this context, not a distinct technical term."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-138",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "Ordinary adjective."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-139",
+    "drop": [
+     {
+      "n": 3,
+      "reason": "Ordinary adjective."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-140",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-141",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-142",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-143",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "Used as an ordinary verb/participle (conjured/emanated) here."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-144",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-145",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-146",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-147",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-148",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-149",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-150",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-151",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 2,
+      "bo_fixed": "དངོས"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "9-152",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-153",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-154",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-155",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 1,
+      "bo_fixed": "སྡིག"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "9-156",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-157",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-158",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-159",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བྱིས",
+      "reason": "Refers to the childish or fools (bāla), a standard Buddhist category for spiritually immature ordinary beings.",
+      "dm": "childish",
+      "gm": "fools"
+     }
+    ]
+   },
+   {
+    "id": "9-160",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-161",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-162",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-163",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-164",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-165",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-166",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-167",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 2,
+      "bo_fixed": "དམིགས་པ་མེད"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "9-a",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "9-137",
+    "bo": "ཤེས",
+    "reason": "Ordinary verb/noun (knowing/knowledge) in this context, not a distinct technical term."
+   },
+   {
+    "id": "9-138",
+    "bo": "བརྫུན་པ",
+    "reason": "Ordinary adjective."
+   },
+   {
+    "id": "9-139",
+    "bo": "རྫུན་པ",
+    "reason": "Ordinary adjective."
+   },
+   {
+    "id": "9-143",
+    "bo": "སྤྲུལ་པ",
+    "reason": "Used as an ordinary verb/participle (conjured/emanated) here."
+   }
+  ],
+  "fix_span": [
+   {
+    "id": "9-151",
+    "bo": "དངོས་རྣམས",
+    "bo_fixed": "དངོས"
+   },
+   {
+    "id": "9-155",
+    "bo": "སྡིག་དག",
+    "bo_fixed": "སྡིག"
+   },
+   {
+    "id": "9-167",
+    "bo": "དམིགས་པ་མེད་ཚུལ",
+    "bo_fixed": "དམིགས་པ་མེད"
+   }
+  ],
+  "add": [
+   {
+    "id": "9-159",
+    "bo": "བྱིས",
+    "dm": "childish",
+    "gm": "fools",
+    "reason": "Refers to the childish or fools (bāla), a standard Buddhist category for spiritually immature ordinary beings."
+   }
+  ]
+ }
+}

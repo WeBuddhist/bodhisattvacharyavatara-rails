@@ -1,0 +1,58 @@
+{
+ "Zero-shot root translation (baseline)": {
+  "en": 7.289156,
+  "hi": 8.005225999999999,
+  "zh": 8.139953999999998
+ },
+ "Term extraction (shared)": {
+  "en": 6.1495367000000005
+ },
+ "Term review (shared)": {
+  "en": 3.5988720000000005
+ },
+ "Glossary (style sheet + agents)": {
+  "en": 6.441803700000001,
+  "zh": 5.4774598999999995,
+  "hi": 6.2848341
+ },
+ "Glossary review": {
+  "en": 0.31619,
+  "zh": 1.9164759999999998,
+  "hi": 1.721198
+ },
+ "Academic translation, incl. retries and fixes": {
+  "en": 20.090931999999988,
+  "zh": 16.551978000000002,
+  "hi": 14.040134
+ },
+ "Academic fact-check, incl. re-checks": {
+  "en": 19.7808503,
+  "hi": 17.584726899999993,
+  "zh": 15.748660200000003
+ },
+ "Measurement: blind before/after judge": {
+  "en": 5.3018979999999996,
+  "hi": 4.927109999999999,
+  "zh": 4.514946000000002
+ },
+ "Children's version, incl. retries and fixes": {
+  "en": 8.158858,
+  "hi": 8.369684000000001,
+  "zh": 8.090067999999997
+ },
+ "Children's fact-check, incl. re-checks": {
+  "en": 6.032963999999999,
+  "hi": 8.3535199,
+  "zh": 5.4464848
+ },
+ "Measurement: blind comparison with zero-shot and human": {
+  "en": 2.2191511999999998,
+  "hi": 1.5353797,
+  "zh": 2.2785606
+ },
+ "Measurement: checker reliability test": {
+  "en": 0.3856934,
+  "zh": 0.6739582,
+  "hi": 0.3331734
+ }
+}

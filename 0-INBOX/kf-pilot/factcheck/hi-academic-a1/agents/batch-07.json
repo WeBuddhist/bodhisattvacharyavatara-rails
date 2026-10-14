@@ -1,0 +1,121 @@
+{
+ "batch": "batch-07",
+ "segments": [
+  {
+   "id": "3-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-26",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "पवित्र",
+     "evidence": "Tibetan 'སྐྱོན་མེད་བཙུན་པའི་རིགས་' (Skt nirmala kula): bcun pa means 'noble/venerable/respected'; Gyaltsab 3-26 glosses it as adorned by qualities alone and hence venerable (ཡོན་ཏན་འབའ་ཞིག་གིས་བརྒྱན་པས་བཙུན་པ). 'पवित्र' (sacred/pure) shifts the sense toward ritual purity and doubles 'निर्दोष'; english_academic has 'noble'.",
+     "fix": "निर्दोष और आदरणीय"
+    }
+   ]
+  },
+  {
+   "id": "3-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-a",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "बोधिचित्त परिग्रह",
+     "evidence": "Tibetan 'བྱང་ཆུབ་ཀྱི་སེམས་ཡོངས་སུ་བཟུང་བ་' = fully taking hold of/adopting bodhicitta (an action). Bare 'परिग्रह' in Hindi usually means possession/hoarding, so the title can be misread; a verbal noun conveys the sense.",
+     "fix": "'बोधिचित्त का परिग्रहण (पूर्ण रूप से ग्रहण)'"
+    }
+   ]
+  }
+ ]
+}

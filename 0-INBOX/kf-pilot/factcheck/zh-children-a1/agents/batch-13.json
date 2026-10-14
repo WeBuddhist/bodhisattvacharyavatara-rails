@@ -1,0 +1,245 @@
+{
+ "batch": "batch-13",
+ "segments": [
+  {
+   "id": "7-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-53",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "連巨大的過錯也很難打敗我",
+     "evidence": "Academic 巨大墮罪 renders ལྟུང་བ, whose locked children's term is 墮落 (used in 7-52, 7-54); 過錯 is the term for ཉེས་པ, so the same word is used for two things.",
+     "fix": "只要帶著這份驕傲與努力，連巨大的墮落也很難打敗我。"
+    }
+   ]
+  },
+  {
+   "id": "7-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-62",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "就像小孩渴望遊戲的快樂",
+     "evidence": "Academic and Tibetan say only 'like one who longs for the pleasant fruit of play'; no child is mentioned.",
+     "fix": "就像人們渴望遊戲的快樂一樣。"
+    }
+   ]
+  },
+  {
+   "id": "7-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-73",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "major",
+     "span": "我應該多去親近好朋友",
+     "evidence": "Academic says only 'one should seek closeness' (Tibetan: meet/encounter this cause); it does not say to stay close to good friends. This adds a specific idea (associating with friends) not in the verse.",
+     "fix": "為了做到這一點，我應該去接近能幫助我的條件，或是去做適合的事。"
+    }
+   ]
+  },
+  {
+   "id": "7-74",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "為了在做事之前，對一切都準備好能力。",
+     "evidence": "Academic: 'so that before acting I am capable in everything'; the children's first sentence is an incomplete, ungrammatical fragment.",
+     "fix": "為了在做事之前，就對每一件事都有足夠的能力，我要記住謹慎的教導，讓自己輕快地振作起來。"
+    }
+   ]
+  },
+  {
+   "id": "7-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-7",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "太過依戀",
+     "evidence": "Academic and Tibetan: attachment to beings itself (ཆགས་པ) obscures reality; nothing says only excessive attachment does.",
+     "fix": "如果心緊抓著眾生不放，就會完全看不見真實的樣子。"
+    }
+   ]
+  },
+  {
+   "id": "8-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-10",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

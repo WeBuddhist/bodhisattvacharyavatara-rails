@@ -1,0 +1,661 @@
+[
+ {
+  "id": "5-92",
+  "tibetan": "ཁ་བཀང་བ་དང་སྒྲ་བཅས་དང་། ། ཁ་གདངས་ནས་ནི་བཟའ་མི་བྱ། ། རྐང་པ་བརྐྱང་སྟེ་མི་འདུག་ཅིང་། ། ལག་པ་མཉམ་པར་མི་མཉེའོ། །",
+  "academic_translation": "With a full mouth, making noise,\nOr with the mouth wide open, one should not eat;\nOne should not sit with legs outstretched,\nNor rub the hands together.",
+  "locked_terms": [],
+  "translation": "I should not eat with my mouth full, make noises, or chew with my mouth wide open. I should not sit with my legs stretched out, and I should not rub my hands together."
+ },
+ {
+  "id": "5-93",
+  "tibetan": "བཞོན་པ་མལ་སྟན་གནས་དག་ཏུ། ། བུད་མེད་གཞན་དང་གཅིག་མི་བྱ། ། འཇིག་རྟེན་མ་དད་གྱུར་པ་ཀུན། ། མཐོང་དང་དྲིས་ཏེ་སྤང་བར་བྱ། །",
+  "academic_translation": "In vehicles, on beds, seats, and in dwellings,\nOne should not be alone with another woman.\nHaving observed and inquired, one should avoid\nEverything that causes the world to lose faith.",
+  "locked_terms": [
+   {
+    "tibetan": "འཇིག་རྟེན",
+    "use": "world"
+   }
+  ],
+  "translation": "I should not be alone with another woman in a vehicle, on a bed, on a seat, or in a room. By watching and asking questions, I should find out what upsets people. Then I must avoid doing anything that causes the world to lose faith."
+ },
+ {
+  "id": "5-94",
+  "tibetan": "སོར་མོས་བརྡ་ནི་མི་བྱ་སྟེ། ། གུས་དང་བཅས་པས་གཡས་པ་ཡི། ། ལག་པ་དག་ནི་ཀུན་གྱིས་ཀྱང་། ། ལམ་ཡང་དེ་ལྟར་བསྟན་པར་བྱ། །",
+  "academic_translation": "One should not indicate with a finger;\nBut respectfully, with the right\nHand in its entirety,\nEven the path should be shown in this way.",
+  "locked_terms": [],
+  "translation": "I should never point with just one finger. Instead, I should respectfully use my whole right hand. Even when I am just showing someone the way to go, I should point like this."
+ },
+ {
+  "id": "5-95",
+  "tibetan": "ལག་པ་ཤས་ཆེར་བསྐྱོད་མིན་ཏེ། ། ཅུང་ཟད་བསྐྱོད་ལ་སྒྲ་བསྒྲགས་པ། ། སེ་གོལ་ལ་སོགས་བརྡ་བྱས་ཏེ། ། གཞན་དུ་མ་བསྡམས་པར་འགྱུར་རོ། །",
+  "academic_translation": "One should not move the hands excessively;\nMoving them slightly, one should make a sound\nAnd signal by snapping the fingers and so forth;\nOtherwise, one will lack restraint.",
+  "locked_terms": [],
+  "translation": "I should not wave my hands around too much. I should move them just a little and make a sound, like snapping my fingers, to signal someone. Otherwise, I will lose my self-control."
+ },
+ {
+  "id": "5-96",
+  "tibetan": "མགོན་པོ་མྱ་ངན་འདས་གཟིམས་ལྟར། ། འདོད་པའི་ཕྱོགས་སུ་ཉལ་བར་བྱ། ། ཤེས་བཞིན་མྱུར་དུ་ལྡང་སེམས་ལ། ། ཐོག་མ་ཉིད་དུ་ངེས་པར་སྦྱར། །",
+  "academic_translation": "Just as the Protector lay when passing into nirvāṇa,\nOne should lie down in the desired direction;\nWith introspection, to the thought of rising quickly,\nOne should firmly direct the mind from the very beginning.",
+  "locked_terms": [
+   {
+    "tibetan": "མགོན་པོ",
+    "use": "Protector"
+   },
+   {
+    "tibetan": "མྱ་ངན་འདས",
+    "use": "freedom from sorrow"
+   },
+   {
+    "tibetan": "ཤེས་བཞིན",
+    "use": "watchfulness"
+   }
+  ],
+  "translation": "I should lie down facing the direction I want, just like the Protector lay when passing into freedom from sorrow. Right from the very start, I should use watchfulness. I must firmly set my mind on waking up quickly."
+ },
+ {
+  "id": "5-97",
+  "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་དག ། ཚད་མེད་པར་ནི་གསུངས་པ་ལས། ། སེམས་སྦྱང་བ་ཡི་སྤྱོད་པ་ནི། ། ངེས་པར་དེ་སྲིད་སྤྱད་པར་བྱ། །",
+  "academic_translation": "Although the conduct of bodhisattvas\nIs taught to be measureless,\nOne should certainly practice\nThe conduct of purifying the mind until one is able to practice it all.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ",
+    "use": "way of acting of the awakening hero"
+   }
+  ],
+  "translation": "The teachings say that the way of acting of the awakening hero is endless. Until I am able to do all of it, I must certainly practice actions that make my mind pure."
+ },
+ {
+  "id": "5-98",
+  "tibetan": "ཉིན་དང་མཚན་མོ་ལན་གསུམ་དུ། ། ཕུང་པོ་གསུམ་པ་གདོན་བྱ་ཞིང་། ། རྒྱལ་དང་བྱང་ཆུབ་སེམས་བརྟེན་པས། ། ལྟུང་བའི་ལྷག་མ་དེས་ཞི་བྱ། །",
+  "academic_translation": "Three times by day and three times by night,\nOne should recite the Three Heaps Sūtra;\nBy relying on the Victors and bodhicitta,\nOne should thereby pacify the remaining downfalls.",
+  "locked_terms": [
+   {
+    "tibetan": "ཕུང་པོ་གསུམ་པ",
+    "use": "Three Heaps text"
+   },
+   {
+    "tibetan": "རྒྱལ",
+    "use": "Victorious One"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས",
+    "use": "awakening mind"
+   },
+   {
+    "tibetan": "ལྟུང་བ",
+    "use": "fall"
+   }
+  ],
+  "translation": "Three times during the day and three times at night, I should recite the Three Heaps text. By relying on the Victorious Ones and the awakening mind, I will clear away my remaining falls."
+ },
+ {
+  "id": "5-99",
+  "tibetan": "རང་ངམ་གཞན་གྱི་དབང་ཡང་རུང་། ། གནས་སྐབས་གང་དུ་ཅི་སྤྱོད་ཀྱང་། ། བསླབ་པར་གསུངས་པ་གང་ཡིན་པའི། ། གནས་སྐབས་དེ་ལ་འབད་དེ་བསླབ། །",
+  "academic_translation": "Whether under one's own or another's power,\nIn whatever situation, whatever one is doing,\nWhatever has been taught as a training,\nIn that situation, one should exert oneself and train.",
+  "locked_terms": [
+   {
+    "tibetan": "བསླབ་པ",
+    "use": "training"
+   }
+  ],
+  "translation": "Whether I am acting on my own or following someone else, I should always try hard. No matter what I am doing, I must follow whatever I was taught as a training."
+ },
+ {
+  "id": "5-100",
+  "tibetan": "རྒྱལ་སྲས་རྣམས་ཀྱིས་མི་བསླབ་པ། ། དེ་ནི་གང་ཡང་ཡོད་མིན་ཏེ། ། དེ་ལྟར་གནས་པའི་མཁས་པ་ལ། ། བསོད་ནམས་མི་འགྱུར་གང་ཡང་མེད། །",
+  "academic_translation": "That which is not a training for the children of the Victors\nDoes not exist at all;\nFor the wise who abide in this way,\nThere is nothing that does not become merit.",
+  "locked_terms": [
+   {
+    "tibetan": "རྒྱལ་སྲས",
+    "use": "child of the Victorious Ones"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "store of goodness"
+   },
+   {
+    "tibetan": "བསླབ་པ",
+    "use": "training"
+   }
+  ],
+  "translation": "There is no action that is not a training for a child of the Victorious Ones. For a wise person who lives like this, everything becomes a store of goodness."
+ },
+ {
+  "id": "5-101",
+  "tibetan": "དངོས་སམ་ཡང་ན་བརྒྱུད་ཀྱང་རུང་། ། སེམས་ཅན་དོན་ལས་གཞན་མི་སྤྱད། ། སེམས་ཅན་ཁོ་ནའི་དོན་གྱི་ཕྱིར། ། ཐམས་ཅད་བྱང་ཆུབ་ཕྱིར་བསྔོའོ། །",
+  "academic_translation": "Whether directly or indirectly,\nDo nothing other than the benefit of sentient beings;\nFor the sake of sentient beings alone,\nMake a dedication of everything for awakening.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   },
+   {
+    "tibetan": "བསྔོ",
+    "use": "sharing the goodness"
+   }
+  ],
+  "translation": "Whether directly or indirectly, I should only do things that help living beings. For the sake of living beings alone, I give everything to awakening by sharing the goodness."
+ },
+ {
+  "id": "5-102",
+  "tibetan": "རྟག་པར་དགེ་བའི་བཤེས་གཉེན་ནི། ། ཐེག་ཆེན་དོན་ལ་མཁས་པ་དང་། ། བྱང་ཆུབ་སེམས་དཔའི་བརྟུལ་ཞུགས་མཆོག ། སྲོག་གི་ཕྱིར་ཡང་མི་བཏང་ངོ་། །",
+  "academic_translation": "Always, a spiritual friend\nWho is learned in the meaning of the Mahāyāna\nAnd who keeps the supreme ascetic discipline of the bodhisattvas,\nShould not be given up even for the sake of one's life.",
+  "locked_terms": [
+   {
+    "tibetan": "དགེ་བའི་བཤེས་གཉེན",
+    "use": "friend who guides"
+   },
+   {
+    "tibetan": "ཐེག་ཆེན",
+    "use": "Great Vehicle"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "བརྟུལ་ཞུགས",
+    "use": "strict practice"
+   }
+  ],
+  "translation": "I must never give up a friend who guides me, even to save my own life. This friend knows the meaning of the Great Vehicle and keeps the highest strict practice of the awakening heroes."
+ },
+ {
+  "id": "5-103",
+  "tibetan": "དཔལ་འབྱུང་བ་ཡི་རྣམ་ཐར་ལས། ། བླ་མ་བསྟེན་པའི་ཚུལ་ལྟར་བསླབ། ། འདི་དང་སངས་རྒྱས་བཀའ་སྩལ་གཞན། ། མདོ་སྡེ་བཀླགས་ནས་ཤེས་པར་བྱ། །",
+  "academic_translation": "From the liberation story of Śrīsaṃbhava,\nOne should train in the manner of relying on the teacher;\nThis and other words spoken by the Buddha\nShould be known by reading the sūtras.",
+  "locked_terms": [
+   {
+    "tibetan": "དཔལ་འབྱུང་བ",
+    "use": "Shrisambhava"
+   },
+   {
+    "tibetan": "རྣམ་ཐར",
+    "use": "life story"
+   },
+   {
+    "tibetan": "བླ་མ",
+    "use": "teacher"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "མདོ་སྡེ",
+    "use": "scripture"
+   }
+  ],
+  "translation": "I should learn how to rely on a teacher from the life story of Shrisambhava. I will know this and other things spoken by the Buddha by reading the scriptures."
+ },
+ {
+  "id": "5-104",
+  "tibetan": "མདོ་སྡེ་རྣམས་ལས་བསླབ་པ་སྣང་། ། དེ་བས་མདོ་སྡེ་བཀླག་པར་བྱ། ། ནམ་མཁའི་སྙིང་པོའི་མདོ་སྡེ་ནི། ། ཐོག་མ་ཉིད་དུ་བལྟ་བར་བྱ། །",
+  "academic_translation": "The trainings appear in the sūtras,\nTherefore, one should read the sūtras;\nThe Ākāśagarbha Sūtra\nShould be looked at first of all.",
+  "locked_terms": [
+   {
+    "tibetan": "མདོ་སྡེ",
+    "use": "scripture"
+   },
+   {
+    "tibetan": "བསླབ་པ",
+    "use": "training"
+   },
+   {
+    "tibetan": "ནམ་མཁའི་སྙིང་པོའི་མདོ་སྡེ",
+    "use": "Teaching of Akashagarbha"
+   }
+  ],
+  "translation": "The trainings are found in the scriptures, so I must read the scriptures. I should look at the Teaching of Akashagarbha first of all."
+ },
+ {
+  "id": "5-105",
+  "tibetan": "གང་ཕྱིར་རྟག་ཏུ་སྤྱད་པ་ནི། ། དེ་ལས་རྒྱ་ཆེར་རབ་སྟོན་པས། ། བསླབ་པ་ཀུན་ལས་བཏུས་པ་ཡང་། ། ངེས་པར་ཡང་དང་ཡང་དུ་བལྟ། །",
+  "academic_translation": "Because what must be constantly practiced\nIs extensively demonstrated within it,\nThe Śikṣāsamuccaya too\nShould definitely be examined again and again.",
+  "locked_terms": [
+   {
+    "tibetan": "བསླབ་པ་ཀུན་ལས་བཏུས་པ",
+    "use": "Compendium of Trainings"
+   }
+  ],
+  "translation": "I must also read the Compendium of Trainings again and again. It shows in great detail what I need to practice all the time."
+ },
+ {
+  "id": "5-106",
+  "tibetan": "ཡང་ན་རེ་ཞིག་མདོར་བསྡུས་པའི། ། མདོ་རྣམས་ཀུན་ལས་བཏུས་པ་བལྟ། ། འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱིས་མཛད་པའི། ། གཉིས་པོའང་འབད་པས་བལྟ་བར་བྱ། །",
+  "academic_translation": "Alternatively, for the time being, the concise\nCompendium of Sūtras should be examined;\nAnd those composed by the noble Nāgārjuna,\nBoth of them, should also be examined with effort.",
+  "locked_terms": [
+   {
+    "tibetan": "མདོ་རྣམས་ཀུན་ལས་བཏུས་པ",
+    "use": "Collection of the Buddha's Talks"
+   },
+   {
+    "tibetan": "འཕགས་པ་ཀླུ་སྒྲུབ",
+    "use": "Nagarjuna"
+   },
+   {
+    "tibetan": "མདོ",
+    "use": "teaching text"
+   }
+  ],
+  "translation": "Or, for now, I should read the short Collection of the Buddha's Talks. I must also try hard to read both teaching texts written by the noble Nagarjuna."
+ },
+ {
+  "id": "5-107",
+  "tibetan": "གང་ལས་གང་ནི་མ་བཀག་པ། ། དེ་ཉིད་སྤྱད་པར་བྱ་བ་སྟེ། ། འཇིག་རྟེན་སེམས་ནི་བསྲུང་བའི་ཕྱིར། ། བསླབ་པ་མཐོང་ནས་ཡང་དག་སྤྱད། །",
+  "academic_translation": "Whatever is not prohibited therein,\nThat itself is what should be practiced;\nIn order to guard the minds of the world,\nHaving seen the training, one should practice perfectly.",
+  "locked_terms": [
+   {
+    "tibetan": "བསླབ་པ",
+    "use": "training"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན",
+    "use": "world"
+   }
+  ],
+  "translation": "I should practice whatever is not forbidden in them. To protect the minds of the world, I must see the training and practice perfectly."
+ },
+ {
+  "id": "5-108",
+  "tibetan": "ལུས་དང་སེམས་ཀྱི་གནས་སྐབས་ལ། ། ཡང་དང་ཡང་དུ་བརྟག་བྱ་བ། ། དེ་ཉིད་ཁོ་ན་མདོར་ན་ནི། ། ཤེས་བཞིན་བསྲུང་བའི་མཚན་ཉིད་དོ། །",
+  "academic_translation": "Regarding the states of body and mind,\nExamining them again and again—\nThat alone, in brief,\nIs the definition of guarding introspection.",
+  "locked_terms": [
+   {
+    "tibetan": "ཤེས་བཞིན་བསྲུང་བ",
+    "use": "guarding watchfulness"
+   }
+  ],
+  "translation": "I must check the states of my body and mind again and again. In short, this alone is the meaning of guarding watchfulness."
+ },
+ {
+  "id": "5-109",
+  "tibetan": "ལུས་ཀྱིས་འདི་དག་སྤྱད་པར་བྱ། ། ཚིག་ཙམ་བརྗོད་པས་ཅི་ཞིག་འགྲུབ། ། སྨན་དཔྱད་བཀླགས་པ་ཙམ་གྱིས་ནི། ། ནད་པ་དག་ལ་ཕན་འགྱུར་རམ། །",
+  "academic_translation": "These should be practiced with the body;\nWhat will be accomplished by merely uttering words?\nBy merely reading a medical treatise,\nWill the sick be benefited?",
+  "locked_terms": [],
+  "translation": "I must actually do these things with my body. What good is just saying the words? Will a sick person get well just by reading a medical book?"
+ },
+ {
+  "id": "5-a",
+  "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ལས། ཤེས་བཞིན་བསྲུང་བར་བྱ་བ་སྟེ་ལེའུ་ལྔ་པའོ།། །།",
+  "academic_translation": "From Entering the Way of the Bodhisattva, the fifth chapter: Guarding Introspection.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ",
+    "use": "Entering the Way of the Awakening Hero"
+   },
+   {
+    "tibetan": "ཤེས་བཞིན་བསྲུང་བ",
+    "use": "guarding watchfulness"
+   }
+  ],
+  "translation": "From Entering the Way of the Awakening Hero, the fifth chapter: Guarding Watchfulness."
+ },
+ {
+  "id": "6-1",
+  "tibetan": "བསྐལ་པ་སྟོང་དུ་བསགས་པ་ཡི། ། སྦྱིན་དང་བདེ་གཤེགས་མཆོད་ལ་སོགས། ། ལེགས་སྤྱང་གང་ཡིན་དེ་ཀུན་ཡང་། ། ཁོང་ཁྲོ་གཅིག་གིས་འཇོམས་པར་བྱེད། །",
+  "academic_translation": "Accumulated over a thousand eons,\nGenerosity, offerings to the Sugatas, and so forth—\nWhatever good conduct there is, all of that\nA single instance of anger destroys.",
+  "locked_terms": [
+   {
+    "tibetan": "བསྐལ་པ",
+    "use": "great age"
+   },
+   {
+    "tibetan": "སྦྱིན",
+    "use": "giving"
+   },
+   {
+    "tibetan": "བདེ་གཤེགས",
+    "use": "Well-Gone One"
+   },
+   {
+    "tibetan": "མཆོད",
+    "use": "offering"
+   },
+   {
+    "tibetan": "ལེགས་སྤྱང",
+    "use": "good action"
+   },
+   {
+    "tibetan": "ཁོང་ཁྲོ",
+    "use": "anger"
+   }
+  ],
+  "translation": "A single moment of anger destroys all your good actions. It wipes out what you gathered over a thousand great ages, like giving and making offerings to the Well-Gone Ones."
+ },
+ {
+  "id": "6-2",
+  "tibetan": "ཞེ་སྡང་ལྟ་བུའི་སྡིག་པ་མེད། ། བཟོད་པ་ལྟ་བུའི་དཀའ་ཐུབ་མེད། ། དེ་བས་བཟོད་ལ་ནན་ཏན་དུ། ། སྣ་ཚོགས་ཚུལ་དུ་བསྒོམ་པར་བྱ། །",
+  "academic_translation": "There is no misdeed like hatred;\nThere is no austerity like patience.\nTherefore, earnestly regarding patience,\nOne should practice meditation in various ways.",
+  "locked_terms": [
+   {
+    "tibetan": "ཞེ་སྡང",
+    "use": "hatred"
+   },
+   {
+    "tibetan": "སྡིག་པ",
+    "use": "harmful deed"
+   },
+   {
+    "tibetan": "བཟོད་པ",
+    "use": "patience"
+   },
+   {
+    "tibetan": "དཀའ་ཐུབ",
+    "use": "hard practice"
+   },
+   {
+    "tibetan": "བསྒོམ",
+    "use": "meditation"
+   }
+  ],
+  "translation": "There is no harmful deed quite like hatred. There is no hard practice quite like patience. Because of this, you should try your best to practice meditation on patience in many different ways."
+ },
+ {
+  "id": "6-3",
+  "tibetan": "ཞེ་སྡང་ཟུག་རྔུའི་སེམས་འཆང་ན། ། ཡིད་ནི་ཞི་བ་ཉམས་མི་མྱོང་། ། དགའ་དང་བདེ་བའང་མི་འཐོབ་ལ། ། གཉིད་མི་འོང་ཞིང་བརྟན་མེད་འགྱུར། །",
+  "academic_translation": "If one harbors a mind with the dart of hatred,\nThe mind does not experience peace,\nOne obtains neither joy nor happiness,\nSleep does not come, and one becomes unsteady.",
+  "locked_terms": [
+   {
+    "tibetan": "ཞེ་སྡང",
+    "use": "hatred"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   },
+   {
+    "tibetan": "ཞི་བ",
+    "use": "peace"
+   },
+   {
+    "tibetan": "བདེ་བ",
+    "use": "happiness"
+   },
+   {
+    "tibetan": "ཡིད",
+    "use": "mind"
+   }
+  ],
+  "translation": "If you hold hatred like a sharp dart in your mind, your mind will not feel peace. You will not find joy or happiness. You will not sleep, and you will feel unsteady."
+ },
+ {
+  "id": "6-4",
+  "tibetan": "གང་དག་ནོར་དང་བཀུར་སྟི་ཡིས། ། དྲིན་བྱིན་དེ་ལ་བརྟེན་གྱུར་པ། ། དེ་དག་ཀྱང་ནི་སྡང་ལྡན་པའི། ། རྗེ་དཔོན་དེ་ལ་གསོད་པར་རྒོལ། །",
+  "academic_translation": "Those who, through wealth and honor,\nHave been favored and depend upon him,\nEven they will attack to kill\nThat master possessed by hatred.",
+  "locked_terms": [
+   {
+    "tibetan": "བཀུར་སྟི",
+    "use": "honor"
+   }
+  ],
+  "translation": "Think of the people who depend on a master for wealth and honor. If that master is full of hatred, even those people will attack and try to kill him."
+ },
+ {
+  "id": "6-5",
+  "tibetan": "དེ་ཡིས་མཛའ་བཤེས་སྐྱོ་བར་འགྱུར། ། སྦྱིན་པས་བསྡུས་ཀྱང་བསྟེན་མི་བྱེད། ། མདོར་ན་ཁྲོ་བ་བདེར་གནས་པ། ། དེ་ནི་འགའ་ཡང་ཡོད་མ་ཡིན། །",
+  "academic_translation": "Because of it, friends become disheartened;\nThough gathered by generosity, they do not attend him.\nIn brief, someone with anger who dwells in happiness—\nThere is no such person at all.",
+  "locked_terms": [
+   {
+    "tibetan": "སྦྱིན་པ",
+    "use": "giving"
+   },
+   {
+    "tibetan": "ཁྲོ་བ",
+    "use": "anger"
+   }
+  ],
+  "translation": "Because of it, friends feel sad. Even if he tries to gather them by giving, they will not stay. In short, there is no such thing as a happy person who holds onto anger."
+ },
+ {
+  "id": "6-6",
+  "tibetan": "ཁྲོ་བའི་དགྲ་ཡིས་དེ་ལ་སོགས། ། སྡུག་བསྔལ་དག་ནི་བྱེད་པར་འགྱུར། ། གང་ཞིག་བསྒྲིམས་ཏེ་ཁྲོ་འཇོམས་པ། ། དེ་ནི་འདི་དང་གཞན་དུ་བདེ། །",
+  "academic_translation": "The enemy, anger, produces\nThese and other such sufferings.\nWhoever strives to destroy anger\nIs happy in this life and the next.",
+  "locked_terms": [
+   {
+    "tibetan": "ཁྲོ་བ",
+    "use": "anger"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "The enemy of anger produces these and other kinds of suffering. Whoever tries hard to destroy anger will be happy in this life and the next."
+ },
+ {
+  "id": "6-7",
+  "tibetan": "མི་འདོད་བྱས་དང་འདོད་པ་ཡི། ། གེགས་བྱས་པ་ལ་བྱུང་གྱུར་པ། ། ཡིད་མི་བདེ་བའི་ཟས་རྙེད་ནས། ། ཞེ་སྡང་བརྟས་ཏེ་བདག་འཇོམས་སོ། །",
+  "academic_translation": "Arising from the doing of what is undesired\nAnd the hindering of what is desired—\nHaving found the food of mental unhappiness,\nHatred flourishes and destroys me.",
+  "locked_terms": [
+   {
+    "tibetan": "ཞེ་སྡང",
+    "use": "hatred"
+   },
+   {
+    "tibetan": "ཡིད་མི་བདེ་བ",
+    "use": "unhappiness"
+   }
+  ],
+  "translation": "Hatred grows when things happen that I do not want, or when I am stopped from getting what I want. This gives hatred the food of unhappiness. Then it grows strong and destroys me."
+ },
+ {
+  "id": "6-8",
+  "tibetan": "དེ་ལྟས་བདག་གིས་དགྲ་བོ་དེའི། ། ཟས་ནི་རྣམ་པར་གཞོམ་པར་བྱ། ། འདི་ལྟར་བདག་ལ་གནོད་པ་ལས། ། དགྲ་འདི་ལ་ནི་ལས་གཞན་མེད། །",
+  "academic_translation": "Therefore, I shall completely destroy\nThe food of that enemy;\nFor, other than harming me,\nThis enemy has no other task.",
+  "locked_terms": [],
+  "translation": "Therefore, I must completely destroy the food of that enemy. This enemy has no other job except to hurt me."
+ },
+ {
+  "id": "6-9",
+  "tibetan": "ཅི་ལ་བབ་ཀྱང་བདག་གིས་ནི། ། དགའ་བའི་ཡིད་ནི་དཀྲུགས་མི་བྱ། ། མི་དགའ་བྱས་ཀྱང་འདོད་མི་འགྲུབ། ། དགེ་བ་དག་ནི་ཉམས་པར་འགྱུར། །",
+  "academic_translation": "Whatever happens, I\nShall not disturb my joyful mind;\nEven if I am unhappy, what is desired is not accomplished,\nAnd virtues will decline.",
+  "locked_terms": [
+   {
+    "tibetan": "དགེ་བ",
+    "use": "good deed"
+   },
+   {
+    "tibetan": "ཡིད",
+    "use": "mind"
+   }
+  ],
+  "translation": "Whatever happens, I will not upset my joyful mind. Even if I am unhappy, it does not get me what I want. It only makes my good deeds fade away."
+ },
+ {
+  "id": "6-10",
+  "tibetan": "གལ་ཏེ་བཅོས་སུ་ཡོད་ན་ནི། ། དེ་ལ་མི་དགར་ཅི་ཞིག་ཡོད། ། གལ་ཏེ་བཅོས་སུ་མེད་ན་ནི། ། དེ་ལ་མི་དགའ་བྱས་ཅི་ཕན། །",
+  "academic_translation": "If it can be remedied,\nWhy be unhappy about it?\nIf it cannot be remedied,\nWhat is the use of being unhappy about it?",
+  "locked_terms": [],
+  "translation": "If a problem can be fixed, why be unhappy about it? If it cannot be fixed, what is the use of being unhappy?"
+ },
+ {
+  "id": "6-11",
+  "tibetan": "བདག་གམ་བདག་གི་བཤེས་རྣམས་ལ། ། སྡུག་བསྔལ་བརྙས་དང་ཚིག་རྩུབ་དང་། ། མི་སྙན་ཞེས་བྱ་མི་འདོད་དེ། ། དགྲ་ལ་དེ་ལས་བཟློག་པས་སོ། །",
+  "academic_translation": "For myself or for my friends,\nSuffering, contempt, harsh words,\nAnd disrepute are not desired,\nBecause for an enemy it is the reverse.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "I do not want suffering, disrespect, harsh words, or a bad name for myself or for my friends. But for an enemy, it is the exact opposite."
+ },
+ {
+  "id": "6-12",
+  "tibetan": "བདེ་བའི་རྒྱུ་ནི་རེས་འགའ་འབྱུང་། ། སྡུག་བསྔལ་རྒྱུ་ནི་ཤིན་ཏུ་མང་། ། སྡུག་བསྔལ་མེད་པར་ངེས་འབྱུང་མེད། ། དེ་བས་སེམས་ཁྱོད་བརྟན་པར་མནོས། །",
+  "academic_translation": "The causes of happiness occur occasionally;\nThe causes of suffering are extremely numerous.\nWithout suffering, there is no renunciation;\nTherefore, O mind, resolve to be steadfast.",
+  "locked_terms": [
+   {
+    "tibetan": "ངེས་འབྱུང",
+    "use": "wish to be free"
+   },
+   {
+    "tibetan": "བདེ་བ",
+    "use": "happiness"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "The causes of happiness only happen sometimes. The causes of suffering are very common. Without suffering, there is no wish to be free. So, my mind, you must be strong."
+ },
+ {
+  "id": "6-13",
+  "tibetan": "དཀའ་ཟློག་དད་དང་ཀརྞ་པ། ། བསྲེག་དང་བཅད་སོགས་ཚོར་བ་ནི། ། དོན་མེད་བཟོད་བྱེད་ཐར་པ་ཡི། ། དོན་དུ་བདག་གོ་ཅི་ཕྱིར་སྔར། །",
+  "academic_translation": "Devotees of Durgā and the Karṇapas\nEndure the feeling of burning, cutting, and so forth\nPointlessly; for the sake of liberation,\nWhy should I not endure it?",
+  "locked_terms": [
+   {
+    "tibetan": "དཀའ་ཟློག",
+    "use": "Durga"
+   },
+   {
+    "tibetan": "ཀརྞ་པ",
+    "use": "Karnapa"
+   },
+   {
+    "tibetan": "ཚོར་བ",
+    "use": "feeling"
+   },
+   {
+    "tibetan": "ཐར་པ",
+    "use": "freedom"
+   }
+  ],
+  "translation": "Followers of Durga and the Karnapas put up with the feeling of being burned and cut. They do this for no real reason. So why should I not endure pain for the sake of freedom?"
+ },
+ {
+  "id": "6-14",
+  "tibetan": "གོམས་ན་སླ་བར་མི་འགྱུར་བའི། ། དངོས་དེ་གང་ཡང་ཡོད་མ་ཡིན། ། དེ་བས་གནོད་པ་ཆུང་གོམས་པས། ། གནོད་པ་ཆེན་པོ་བཟོད་པར་བྱོས། །",
+  "academic_translation": "That which does not become easy through habituation—\nThere is no such thing whatsoever.\nTherefore, by habituating to minor harms,\nEndure great harms.",
+  "locked_terms": [],
+  "translation": "Everything becomes easier when you get used to it. There is nothing in the world that does not. So, by getting used to small harms, you can learn to endure great harms."
+ },
+ {
+  "id": "6-15",
+  "tibetan": "སྦྲུལ་དང་ཤ་སྦྲང་དག་དང་ནི། ། བཀྲེས་སྐོམ་ལ་སོགས་ཚོར་བ་དང་། ། གཡན་པ་ལ་སོགས་བཅས་པ་ཡི། ། དོན་མེད་སྡུག་བསྔལ་ཅིས་མ་མཐོང་། །",
+  "academic_translation": "Snakes and gadflies,\nFeelings of hunger, thirst, and so forth,\nAnd afflictions such as rashes—\nWhy do you not see their pointless suffering?",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "ཚོར་བ",
+    "use": "feeling"
+   }
+  ],
+  "translation": "Think of snakes and biting flies. Think of the feeling of hunger and thirst. Think of itchy rashes. Why do you not see that all this suffering is pointless?"
+ },
+ {
+  "id": "6-16",
+  "tibetan": "ཚ་གྲང་ཆར་དང་རླུང་སོགས་དང་། ། ནད་དང་འཆིང་དང་རྡེག་སོགས་ལ། ། བདག་གིས་བཟེ་རེ་མི་བྱ་སྟེ། ། དེ་ལྟར་བྱས་ན་གནོད་པ་འཕེལ། །",
+  "academic_translation": "Towards heat, cold, rain, wind, and so forth,\nSickness, bondage, beatings, and so forth,\nI shall not be overly sensitive;\nIf I am, the harm increases.",
+  "locked_terms": [],
+  "translation": "I will not be too sensitive to heat, cold, rain, or wind. I will not complain about sickness, being tied up, or being hit. If I am too sensitive, the harm only gets worse."
+ },
+ {
+  "id": "6-17",
+  "tibetan": "ལ་ལ་བདག་གི་ཁྲག་མཐོང་ན། ། དཔའ་བརྟན་ལྷག་པར་སྐྱེ་འགྱུར་ཡོད། ། ལ་ལ་གཞན་གྱི་ཁྲག་མཐོང་ན། ། བོག་ཅིང་བརྒྱལ་བར་འགྱུར་བ་ཡོད། །",
+  "academic_translation": "Some, when they see their own blood,\nBecome exceptionally brave and steadfast;\nSome, when they see the blood of others,\nBecome dazed and faint.",
+  "locked_terms": [],
+  "translation": "When some people see their own blood, they become extra brave and strong. But when other people see someone else's blood, they get dizzy and faint."
+ },
+ {
+  "id": "6-18",
+  "tibetan": "དེ་ནི་སེམས་ཀྱི་ངང་བརྟན་དང་། ། སྔར་མའི་ཚུལ་ལས་གྱུར་པ་ཡིན། ། དེ་བས་གནོད་པ་ཁྱད་བསད་ཅིང་། ། སྡུག་བསྔལ་རྣམས་ཀྱིས་མི་ཚུགས་བྱོས། །",
+  "academic_translation": "This comes from the steadfastness of the mind\nAnd from the nature of a coward.\nTherefore, disregard harm\nAnd make yourself unaffected by sufferings.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "This comes from a steady mind or from being a coward. So, ignore harm. Do not let suffering upset you."
+ },
+ {
+  "id": "6-19",
+  "tibetan": "མཁས་པས་སྡུག་བསྔལ་བྱུང་ཡང་ནི། ། སེམས་ཀྱི་རབ་དང་རྙོག་མི་བྱ། ། ཉོན་མོངས་རྣམས་དང་གཡུལ་འགྱེད་ལ། ། གཡུལ་འགྱེད་ཚེ་ན་གནོད་པ་མང་། །",
+  "academic_translation": "Even when suffering arises, the wise\nShould not cloud the clarity of the mind,\nFor in waging war against the afflictions,\nHarms are many during the battle.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "Even when suffering happens, wise people keep a clear mind. They are fighting a war against troubling emotions. Many harms happen during a battle."
+ },
+ {
+  "id": "6-20",
+  "tibetan": "སྡུག་བསྔལ་ཐམས་ཅད་ཁྱད་བསད་ནས། ། ཞེ་སྡང་ལ་སོགས་དགྲ་འཇོམས་པ། ། དེ་དག་རྒྱལ་བྱེད་དཔའ་བོ་སྟེ། ། ལྷག་མ་རོ་ལ་གསོད་པའོ། །",
+  "academic_translation": "Having disregarded all suffering,\nThose who conquer enemies such as hatred—\nThey are the victorious heroes;\nThe rest slay corpses.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "ཞེ་སྡང",
+    "use": "hatred"
+   }
+  ],
+  "translation": "Real heroes ignore all suffering. They defeat enemies like hatred. Anyone else is just fighting dead bodies."
+ },
+ {
+  "id": "6-21",
+  "tibetan": "གཞན་ཡང་སྡུག་བསྔལ་ཡོན་ཏན་ནི། ། སྐྱོ་བས་དྲེགས་པ་སེལ་བར་བྱེད། ། འཁོར་བ་པ་ལ་སྙིང་རྗེ་སྐྱེ། ། སྡིག་ལ་འཛེམ་དང་དགེ་ལ་དགའ། །",
+  "academic_translation": "Furthermore, the good quality of suffering is:\nThrough disillusionment, haughtiness is dispelled,\nCompassion arises for those in saṃsāra,\nOne shuns misdeeds and delights in virtue.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "དྲེགས་པ",
+    "use": "feeling superior"
+   },
+   {
+    "tibetan": "འཁོར་བ",
+    "use": "cycle of rebirth"
+   },
+   {
+    "tibetan": "སྙིང་རྗེ",
+    "use": "compassion"
+   },
+   {
+    "tibetan": "སྡིག",
+    "use": "harmful deed"
+   },
+   {
+    "tibetan": "དགེ",
+    "use": "good deed"
+   },
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   }
+  ],
+  "translation": "Suffering also has a good quality. Sadness stops us from feeling superior. We feel compassion for those in the cycle of rebirth. We avoid harmful deeds and enjoy good deeds."
+ }
+]

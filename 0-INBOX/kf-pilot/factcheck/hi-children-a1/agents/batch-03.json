@@ -1,0 +1,237 @@
+{
+ "batch": "batch-03",
+ "segments": [
+  {
+   "id": "2-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-60",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "जो सुख मैंने पहले भोगे",
+     "evidence": "Academic translation says only 'what was experienced in the past and has perished'; it does not specify pleasures/happiness.",
+     "fix": "जो मैंने पहले भोगा और जो अब खत्म हो गया, उससे मेरे पास क्या बचा है?"
+    }
+   ]
+  },
+  {
+   "id": "2-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "दुखी लोग सुख से रहें, यह देखकर भी मैं खुश होता हूँ",
+     "evidence": "Text rejoices in the sufferers dwelling in happiness (a fact), not a wish that they may be happy; 'देखकर' also adds an observation not in the text.",
+     "fix": "दुखी जीव जो सुख से रह रहे हैं, उससे भी मैं खुश होता हूँ।"
+    }
+   ]
+  },
+  {
+   "id": "3-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-5",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "अँधेरे में मत छोड़िए",
+     "evidence": "Tibetan/academic say 'do not leave beings blind' (ལྡོངས་པ), not 'in darkness'; the darkness image belongs to the previous verse.",
+     "fix": "इन प्राणियों को अंधा (बिना राह दिखे) मत छोड़िए।"
+    }
+   ]
+  },
+  {
+   "id": "3-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-11",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "जब एक दिन सब कुछ छोड़ना ही है",
+     "evidence": "Academic translation says only 'since everything must be given up anyway'; 'एक दिन' adds a time reference not stated.",
+     "fix": "जब सब कुछ छोड़ना ही है, तो इसे जीवों को दे देना ही सबसे अच्छा है।"
+    }
+   ]
+  },
+  {
+   "id": "3-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-14",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

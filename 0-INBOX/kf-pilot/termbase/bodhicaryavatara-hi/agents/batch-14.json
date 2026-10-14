@@ -1,0 +1,695 @@
+{
+ "batch": "batch-14",
+ "terms": [
+  {
+   "term_id": "T014",
+   "bo": "དགེ་བ",
+   "sanskrit": "kuśala",
+   "senses": [
+    {
+     "sense": "virtue",
+     "occurrences": "all",
+     "academic": "कुशल",
+     "children": "अच्छा काम",
+     "basis": "style-sheet",
+     "reason": "Core term དགེ་བ: कुशल, children अच्छा काम."
+    }
+   ]
+  },
+  {
+   "term_id": "T030",
+   "bo": "ཁྲོ་བ",
+   "sanskrit": "krodha",
+   "senses": [
+    {
+     "sense": "anger",
+     "occurrences": "all",
+     "academic": "क्रोध",
+     "children": "गुस्सा",
+     "basis": "style-sheet",
+     "reason": "Core term ཁྲོ་བ; Gemini क्रोध agrees."
+    }
+   ]
+  },
+  {
+   "term_id": "T046",
+   "bo": "བསླབ་པ",
+   "sanskrit": "śikṣā",
+   "senses": [
+    {
+     "sense": "training",
+     "occurrences": "all",
+     "academic": "शिक्षा",
+     "children": "अभ्यास",
+     "basis": "style-sheet",
+     "reason": "Core term བསླབ་པ; children अभ्यास keeps शिक्षा for the teaching."
+    }
+   ]
+  },
+  {
+   "term_id": "T062",
+   "bo": "སྦྱིན་པ",
+   "sanskrit": "dāna",
+   "senses": [
+    {
+     "sense": "generosity",
+     "occurrences": "all",
+     "academic": "दान",
+     "children": "देना",
+     "basis": "style-sheet",
+     "reason": "Core term སྦྱིན་པ: दान, children देना."
+    }
+   ]
+  },
+  {
+   "term_id": "T078",
+   "bo": "ལྟུང་བ",
+   "sanskrit": "āpatti",
+   "senses": [
+    {
+     "sense": "downfall",
+     "occurrences": "all",
+     "academic": "पतन",
+     "children": "गिरावट",
+     "basis": "zero-shot",
+     "reason": "Gemini पतन matches āpatti; children from English \"fall\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T094",
+   "bo": "ཚུལ་ཁྲིམས",
+   "sanskrit": "śīla",
+   "senses": [
+    {
+     "sense": "ethical discipline",
+     "occurrences": "all",
+     "academic": "शील",
+     "children": "अच्छा आचरण",
+     "basis": "style-sheet",
+     "reason": "Core term ཚུལ་ཁྲིམས; one of the six perfections."
+    }
+   ]
+  },
+  {
+   "term_id": "T110",
+   "bo": "རྒྱལ་སྲས",
+   "sanskrit": "jinaputra",
+   "senses": [
+    {
+     "sense": "child of the Victors",
+     "occurrences": "all",
+     "academic": "जिनपुत्र",
+     "children": "विजेताओं की संतान",
+     "basis": "style-sheet",
+     "reason": "Policy 8: जिनपुत्र for རྒྱལ་སྲས; children plain phrase from English gloss."
+    }
+   ]
+  },
+  {
+   "term_id": "T126",
+   "bo": "རྟག",
+   "sanskrit": "nitya",
+   "senses": [
+    {
+     "sense": "permanent",
+     "occurrences": "all",
+     "academic": "नित्य",
+     "children": "हमेशा रहने वाला",
+     "basis": "zero-shot",
+     "reason": "Gemini नित्य matches nitya; children from \"lasting forever\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T142",
+   "bo": "ཡོན་ཏན་རྒྱ་མཚོ",
+   "sanskrit": "guṇa-sāgara",
+   "senses": [
+    {
+     "sense": "ocean of good qualities",
+     "occurrences": "all",
+     "academic": "गुणसागर",
+     "children": "अच्छी खूबियों का सागर",
+     "basis": "style-sheet",
+     "reason": "Policy 16 example: built from गुण and सागर; children X का Y."
+    }
+   ]
+  },
+  {
+   "term_id": "T158",
+   "bo": "སྦྱིན་པའི་ཕ་རོལ་ཕྱིན",
+   "sanskrit": "dānapāramitā",
+   "senses": [
+    {
+     "sense": "perfection of generosity",
+     "occurrences": "all",
+     "academic": "दानपारमिता",
+     "children": "देने की पूर्णता",
+     "basis": "style-sheet",
+     "reason": "Policy 11: stem plus पारमिता as one word; children देने की पूर्णता."
+    }
+   ]
+  },
+  {
+   "term_id": "T174",
+   "bo": "ཡང་དག་ཉིད",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "true reality",
+     "occurrences": "all",
+     "academic": "यथार्थता",
+     "children": "जो सचमुच सच है",
+     "basis": "new",
+     "reason": "Gemini gave परमार्थ (clashes with དོན་དམ); tatsama for \"true reality\"; children plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T190",
+   "bo": "རགས་པ",
+   "sanskrit": "sthūla",
+   "senses": [
+    {
+     "sense": "coarse",
+     "occurrences": "all",
+     "academic": "स्थूल",
+     "children": "मोटा",
+     "basis": "zero-shot",
+     "reason": "Gemini स्थूल matches sthūla; children plain \"rough/coarse\"; pairs with सूक्ष्म."
+    }
+   ]
+  },
+  {
+   "term_id": "T206",
+   "bo": "འཇམ་པའི་དབྱངས",
+   "sanskrit": "mañjughoṣa",
+   "senses": [
+    {
+     "sense": "Mañjuśrī",
+     "occurrences": "all",
+     "academic": "मञ्जुश्री",
+     "children": "मञ्जुश्री",
+     "basis": "style-sheet",
+     "reason": "Policy 10: मञ्जुश्री for འཇམ་པའི་དབྱངས, not Gemini मञ्जुघोष."
+    }
+   ]
+  },
+  {
+   "term_id": "T222",
+   "bo": "རི་རབ",
+   "sanskrit": "meru",
+   "senses": [
+    {
+     "sense": "Mount Meru",
+     "occurrences": "all",
+     "academic": "मेरु पर्वत",
+     "children": "मेरु पर्वत",
+     "basis": "style-sheet",
+     "reason": "Policy 10 standard form मेरु पर्वत; Gemini सुमेरु not used."
+    }
+   ]
+  },
+  {
+   "term_id": "T238",
+   "bo": "བསྒོམ",
+   "sanskrit": "bhāvayet",
+   "senses": [
+    {
+     "sense": "meditation",
+     "occurrences": "all",
+     "academic": "भावना",
+     "children": "मन में बसाना",
+     "basis": "new",
+     "reason": "Standard tatsama of bhāvanā, Gemini भावन/भावना; children plain phrase, ध्यान kept for བསམ་གཏན."
+    }
+   ]
+  },
+  {
+   "term_id": "T254",
+   "bo": "མཆོད་པ",
+   "sanskrit": "pūjā",
+   "senses": [
+    {
+     "sense": "offering",
+     "occurrences": "all",
+     "academic": "पूजा",
+     "children": "भेंट",
+     "basis": "style-sheet",
+     "reason": "Policy 13: पूजा for མཆོད་པ, children भेंट."
+    }
+   ]
+  },
+  {
+   "term_id": "T270",
+   "bo": "མཛའ་བ",
+   "sanskrit": "priya",
+   "senses": [
+    {
+     "sense": "friend",
+     "occurrences": "all",
+     "academic": "प्रियजन",
+     "children": "दोस्त",
+     "basis": "english-pivot",
+     "reason": "English academic \"loved one\" matches Sanskrit priya; Gemini मित्र; children \"friend\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T286",
+   "bo": "དམིགས་པ",
+   "sanskrit": "ālambana",
+   "senses": [
+    {
+     "sense": "apprehension",
+     "occurrences": "all",
+     "academic": "आलम्बन",
+     "children": "किसी चीज़ पर मन टिकाना",
+     "basis": "new",
+     "reason": "Sanskrit ālambana, as Gemini आलम्बन; children from English \"fixing on something\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T302",
+   "bo": "རབ་ཏུ་བྱུང་བ",
+   "sanskrit": "pravrajita",
+   "senses": [
+    {
+     "sense": "ordination",
+     "occurrences": "all",
+     "academic": "प्रव्रज्या",
+     "children": "भिक्षु या भिक्षुणी बनना",
+     "basis": "zero-shot",
+     "reason": "Gemini प्रव्रज्या matches ordination sense; children from English."
+    }
+   ]
+  },
+  {
+   "term_id": "T318",
+   "bo": "མི་ལྡོག་པ",
+   "sanskrit": "anivartya",
+   "senses": [
+    {
+     "sense": "irreversible",
+     "occurrences": "all",
+     "academic": "अविनिवर्तनीय",
+     "children": "कभी पीछे न हटने वाला",
+     "basis": "zero-shot",
+     "reason": "Gemini अविनिवर्तनीय matches anivartya; children from \"never turning back\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T334",
+   "bo": "སྟོང་གསུམ",
+   "sanskrit": "trisāhasra",
+   "senses": [
+    {
+     "sense": "three-thousandfold world system",
+     "occurrences": "all",
+     "academic": "त्रिसाहस्र लोकधातु",
+     "children": "तीन हज़ार दुनियाओं की दुनिया",
+     "basis": "new",
+     "reason": "Sanskrit trisāhasra with लोकधातु (policy 16); numerals spelled out; children from English gloss."
+    }
+   ]
+  },
+  {
+   "term_id": "T350",
+   "bo": "བྱང",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "purification",
+     "occurrences": "all",
+     "academic": "शुद्धि",
+     "children": "सफ़ाई",
+     "basis": "english-pivot",
+     "reason": "English \"purification\"; Gemini uses verb शुद्ध होना; children \"cleansing\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T366",
+   "bo": "རྒྱལ་སྲས་ས",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "level of the children of the Victors",
+     "occurrences": "all",
+     "academic": "जिनपुत्र-भूमि",
+     "children": "विजेताओं की संतानों का स्तर",
+     "basis": "style-sheet",
+     "reason": "Built from जिनपुत्र (policy 8) and भूमि; children from English \"level\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T382",
+   "bo": "སྲིད་ལམ",
+   "sanskrit": "bhavādhva",
+   "senses": [
+    {
+     "sense": "path of existence",
+     "occurrences": "all",
+     "academic": "भव-मार्ग",
+     "children": "जीवन का रास्ता",
+     "basis": "zero-shot",
+     "reason": "Gemini भव-मार्ग matches bhavādhva; children from \"path of life\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T398",
+   "bo": "བཏང་སེམས",
+   "sanskrit": "tyāgacitta",
+   "senses": [
+    {
+     "sense": "mind of relinquishing",
+     "occurrences": "all",
+     "academic": "त्यागचित्त",
+     "children": "सब कुछ दे देने वाला मन",
+     "basis": "english-pivot",
+     "reason": "Built from चित्त (policy 17) and त्याग; children from \"mind of giving everything away\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T414",
+   "bo": "ཏིང་འཛིན",
+   "sanskrit": "samādhāna",
+   "senses": [
+    {
+     "sense": "concentration",
+     "occurrences": "all",
+     "academic": "समाधि",
+     "children": "गहरी एकाग्रता",
+     "basis": "zero-shot",
+     "reason": "Gemini समाधि matches samādhāna; children \"deep focus\", kept apart from शान्त एकाग्रता."
+    }
+   ]
+  },
+  {
+   "term_id": "T430",
+   "bo": "རབ་དད",
+   "sanskrit": "suprasanna",
+   "senses": [
+    {
+     "sense": "excellent faith",
+     "occurrences": "all",
+     "academic": "परम श्रद्धा",
+     "children": "गहरा भरोसा",
+     "basis": "zero-shot",
+     "reason": "Gemini परम श्रद्धा; children from English \"deep trust\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T446",
+   "bo": "དགེ་བའི་བཤེས་གཉེན",
+   "sanskrit": "kalyāṇamitra",
+   "senses": [
+    {
+     "sense": "spiritual friend",
+     "occurrences": "all",
+     "academic": "कल्याणमित्र",
+     "children": "सही राह बताने वाला दोस्त",
+     "basis": "style-sheet",
+     "reason": "Policy 9: कल्याणमित्र; children phrase from English \"friend who guides\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T462",
+   "bo": "བསོད་ནམས་མ་ཡིན་སྤྱོད་པ",
+   "sanskrit": "apuṇyācaraṇa",
+   "senses": [
+    {
+     "sense": "non-meritorious conduct",
+     "occurrences": "all",
+     "academic": "अपुण्य-आचरण",
+     "children": "जमा हुई भलाई न बनाने वाला व्यवहार",
+     "basis": "english-pivot",
+     "reason": "Built from पुण्य stem; Gemini अपुण्य आचरण; children from English gloss."
+    }
+   ]
+  },
+  {
+   "term_id": "T479",
+   "bo": "དམྱལ་བུམ་པ",
+   "sanskrit": "kumbhī",
+   "senses": [
+    {
+     "sense": "cauldron of hell",
+     "occurrences": "all",
+     "academic": "नरक का कुण्ड",
+     "children": "नरक की कड़ाही",
+     "basis": "zero-shot",
+     "reason": "Gemini नरक के कुण्ड; children \"cauldron\" as everyday कड़ाही."
+    }
+   ]
+  },
+  {
+   "term_id": "T495",
+   "bo": "འཇིག་རྟེན་མགོན",
+   "sanskrit": "lokanātha",
+   "senses": [
+    {
+     "sense": "Protector of the World",
+     "occurrences": "all",
+     "academic": "लोकनाथ",
+     "children": "दुनिया का रक्षक",
+     "basis": "style-sheet",
+     "reason": "Policy 8: नाथ for མགོན, लोक for འཇིག་རྟེན; children रक्षक."
+    }
+   ]
+  },
+  {
+   "term_id": "T511",
+   "bo": "སྨན་པ་མཆོག",
+   "sanskrit": "varavaidya",
+   "senses": [
+    {
+     "sense": "Supreme Physician",
+     "occurrences": "all",
+     "academic": "परम वैद्य",
+     "children": "सबसे बड़ा वैद्य",
+     "basis": "zero-shot",
+     "reason": "Gemini परम वैद्य matches varavaidya; children from \"Greatest Doctor\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T527",
+   "bo": "འབྱོར་པ",
+   "sanskrit": "sāmagrī",
+   "senses": [
+    {
+     "sense": "resources",
+     "occurrences": "all",
+     "academic": "संसाधन",
+     "children": "साधन",
+     "basis": "english-pivot",
+     "reason": "English \"resources\"; सामग्री would read as \"materials\"; children plain साधन."
+    }
+   ]
+  },
+  {
+   "term_id": "T543",
+   "bo": "ཆགས་པ་མེད",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "non-attachment",
+     "occurrences": "all",
+     "academic": "अनासक्ति",
+     "children": "चिपके न रहना",
+     "basis": "style-sheet",
+     "reason": "Built from आसक्ति (policy 20) and Gemini अनासक्ति; children from \"clinging\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T559",
+   "bo": "སེར་སྣ་ཅན",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "miser",
+     "occurrences": "all",
+     "academic": "कृपण",
+     "children": "कंजूस",
+     "basis": "zero-shot",
+     "reason": "Gemini कृपण; children everyday word for stingy person."
+    }
+   ]
+  },
+  {
+   "term_id": "T575",
+   "bo": "དབང་པོ",
+   "sanskrit": "indra",
+   "senses": [
+    {
+     "sense": "Indra",
+     "occurrences": "all",
+     "academic": "इन्द्र",
+     "children": "इन्द्र",
+     "basis": "zero-shot",
+     "reason": "Name kept in Sanskrit form (policy 10); Gemini इन्द्र."
+    }
+   ]
+  },
+  {
+   "term_id": "T591",
+   "bo": "འགྲན",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "rivalry",
+     "occurrences": "all",
+     "academic": "प्रतिस्पर्धा",
+     "children": "होड़",
+     "basis": "zero-shot",
+     "reason": "Gemini प्रतिस्पर्धा for འགྲན; children everyday word for rivalry."
+    }
+   ]
+  },
+  {
+   "term_id": "T607",
+   "bo": "རྣལ་འབྱོར",
+   "sanskrit": "yogin",
+   "senses": [
+    {
+     "sense": "yogi",
+     "occurrences": "all",
+     "academic": "योगी",
+     "children": "साधना करने वाला",
+     "basis": "style-sheet",
+     "reason": "Policy 9: योगी; children short phrase (ध्यान reserved for \"attention\")."
+    }
+   ]
+  },
+  {
+   "term_id": "T623",
+   "bo": "དམིགས་པ་མེད་པ",
+   "sanskrit": "nirālamba",
+   "senses": [
+    {
+     "sense": "non-apprehension",
+     "occurrences": "all",
+     "academic": "आलम्बन-रहित",
+     "children": "मन टिकाने की कोई चीज़ न होना",
+     "basis": "zero-shot",
+     "reason": "Gemini आलम्बन-रहित; built from आलम्बन (T286); children from English gloss."
+    }
+   ]
+  },
+  {
+   "term_id": "T639",
+   "bo": "འོད་སྲུངས་ཆེན་པོ",
+   "sanskrit": "mahākāśyapa",
+   "senses": [
+    {
+     "sense": "Mahākāśyapa",
+     "occurrences": "all",
+     "academic": "महाकाश्यप",
+     "children": "महाकाश्यप",
+     "basis": "zero-shot",
+     "reason": "Name kept in Sanskrit form (policy 10); Gemini महाकाश्यप."
+    }
+   ]
+  },
+  {
+   "term_id": "T655",
+   "bo": "ཆ་མེད་པ",
+   "sanskrit": "niraṃśa",
+   "senses": [
+    {
+     "sense": "partless",
+     "occurrences": "all",
+     "academic": "निरंश",
+     "children": "बिना हिस्सों वाला",
+     "basis": "new",
+     "reason": "Tatsama of niraṃśa; Gemini अंशरहित; children from \"without parts\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T671",
+   "bo": "ཕྲ",
+   "sanskrit": "sūkṣma",
+   "senses": [
+    {
+     "sense": "subtle",
+     "occurrences": "all",
+     "academic": "सूक्ष्म",
+     "children": "बारीक",
+     "basis": "zero-shot",
+     "reason": "Gemini सूक्ष्म matches sūkṣma; children plain \"fine\"; pairs with स्थूल."
+    }
+   ]
+  },
+  {
+   "term_id": "T687",
+   "bo": "སྡུག་བསྔལ་ཆུ་བོ",
+   "sanskrit": "duḥkhaugha",
+   "senses": [
+    {
+     "sense": "river of suffering",
+     "occurrences": "all",
+     "academic": "दुःख-नदी",
+     "children": "दुख की नदी",
+     "basis": "style-sheet",
+     "reason": "Built from दुःख (policy 17) and नदी; Gemini दुःख की नदी."
+    }
+   ]
+  },
+  {
+   "term_id": "T703",
+   "bo": "སྒྲ་མི་སྙན་པ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "Uttarakuru",
+     "occurrences": "all",
+     "academic": "उत्तरकुरु",
+     "children": "उत्तरकुरु",
+     "basis": "zero-shot",
+     "reason": "Gemini उत्तरकुरु; Sanskrit place name kept in both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T719",
+   "bo": "གཙུག་ལག་ཁང",
+   "sanskrit": "vihāra",
+   "senses": [
+    {
+     "sense": "monastery",
+     "occurrences": "all",
+     "academic": "विहार",
+     "children": "मठ",
+     "basis": "zero-shot",
+     "reason": "Gemini विहार matches vihāra; children everyday word मठ."
+    }
+   ]
+  },
+  {
+   "term_id": "T735",
+   "bo": "བནྡེ་དཔལ་བརྩེགས",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "Tibetan translator-editor",
+     "occurrences": "all",
+     "academic": "बन्दे पल्त्सेक",
+     "children": "बन्दे पल्त्सेक",
+     "basis": "new",
+     "reason": "Tibetan-only name written as pronounced in Devanagari (policy 10); Gemini पल्चेग."
+    }
+   ]
+  }
+ ]
+}

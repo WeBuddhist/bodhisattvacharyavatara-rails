@@ -1,0 +1,113 @@
+{
+ "batch": "batch-05",
+ "segments": [
+  {
+   "id": "2-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-57",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "需長久停留的懸崖",
+     "evidence": "The root has only ཡུན་རིང་གཡང་ས ('a long-lasting / long precipice'; Skt dīrghakālike prapāte, 'a precipice of long duration'). It has no modal 需 ('must') and no verb 'stay'. Shenga 2-57 glosses ཡུན་རིང་པོར་སྡུག་བསྔལ་མྱོང་བ ('experiencing suffering for a long time'); only Gyaltsab 2-57 spells out ཡུན་རིང་པོར་གནས་དགོས་པ ('must remain for a long time'). The Chinese puts one commentator's gloss into the root and reads as if one must linger on the cliff.",
+     "fix": "長久之懸崖"
+    }
+   ]
+  },
+  {
+   "id": "2-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-60",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

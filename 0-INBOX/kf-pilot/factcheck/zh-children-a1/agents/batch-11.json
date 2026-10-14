@@ -1,0 +1,253 @@
+{
+ "batch": "batch-11",
+ "segments": [
+  {
+   "id": "6-102",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-103",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-104",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-105",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-107",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-109",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "可是神聖的佛法也沒有想法。",
+     "evidence": "The reply says the holy Dharma, which is a suitable cause of attainment, is honoured even though it has no intention; the children's text drops that the Dharma is a cause (of accomplishment).",
+     "fix": "可是神聖的佛法也沒有想要幫助我們，卻能成為我們成就的原因。那我們為什麼還要尊敬神聖的佛法呢？"
+    }
+   ]
+  },
+  {
+   "id": "6-110",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-111",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-112",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-113",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-114",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-115",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-116",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "眾生能幫助我們得到佛陀的特質，所以我們說他們是平等的。",
+     "evidence": "Beings are held equal (to Buddhas) because they possess a part (一分) of what brings about Buddha qualities; the children's text drops 'a part' and does not say equal to whom, overstating equality.",
+     "fix": "眾生有一小部分能幫助我們得到佛陀的特質，所以在這一點上，我們說眾生和佛陀是平等的。"
+    }
+   ]
+  },
+  {
+   "id": "6-117",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-118",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-119",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-120",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-121",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-122",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-123",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-124",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "我如果傷害了眾生",
+     "evidence": "The verse says 'since I have harmed beings' (an actual past harm being confessed), not a hypothetical.",
+     "fix": "所以，我曾經傷害過眾生，讓那些有很大的同情心的人難過。今天我要一一坦承這些有害的行為。"
+    }
+   ]
+  },
+  {
+   "id": "6-125",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-126",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-127",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-128",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-129",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-130",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-131",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-132",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "只有讓眾生歡喜，才能得到這個美好的結果。",
+     "evidence": "The verse only contrasts the king with what one gains by pleasing beings (Buddhahood); it does not say it is the only way.",
+     "fix": "可是讓眾生歡喜，卻能得到這個美好的結果。"
+    }
+   ]
+  },
+  {
+   "id": "6-133",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "先不說讓眾生開心，未來可以成為佛陀。就在這一生，我們也能得到",
+     "evidence": "Verse: leaving aside the future Buddhahood that arises from pleasing beings, why do you not see the great glory, fame and happiness in this very life (that also come from pleasing beings)? The children's wording reads as 'set aside pleasing beings' and loses that this-life benefits also come from pleasing beings.",
+     "fix": "讓眾生開心，未來能成為佛陀，這一點先不談。就在這一生，讓眾生開心也會帶來極大的榮耀、好名聲和快樂。你怎麼沒看到呢？"
+    }
+   ]
+  },
+  {
+   "id": "6-134",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "不覺得輪迴的痛苦很可怕",
+     "evidence": "Source says one is not weary of / does not feel disgust toward the suffering of samsara (不厭患輪迴之苦), not that it is not frightening.",
+     "fix": "也不討厭輪迴的痛苦"
+    }
+   ]
+  },
+  {
+   "id": "7-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-6",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

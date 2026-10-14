@@ -1,0 +1,145 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "1-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-2",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "छन्द-रचना",
+     "evidence": "Tibetan སྡེབ་སྦྱོར་ is general skill in composition/arrangement of words; bo-kunpal 1-2 glosses it as ཚིག་སྡེབ་སྦྱོར་ with poetic ornament (སྙན་ངག), and bo-gyaltsab 1-2 as verbal composition (ཚིག་ལ་ཡི་གེ་ལྕི་ཡང་སྤེལ་བ་ལ་སོགས་པའི་སྡེབ་སྦྱོར); Sanskrit saṃgrathana. 'छन्द-रचना' narrows this to metrics only.",
+     "fix": "शब्द-रचना (काव्य-रचना) की कोई कुशलता"
+    }
+   ]
+  },
+  {
+   "id": "1-21",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "यदि ऐसा भी विचार करे, / और कल्याण की भावना से युक्त वह अपरिमेय पुण्य से सम्पन्न हो जाता है",
+     "evidence": "The Tibetan ends with the conditional ན (བསོད་ནམས་དཔག་མེད་ལྡན་གྱུར་ན; bo-kunpal 1-21 'འགྱུར་ན'): 'if even thinking ... one has beneficial intent and is endowed with immeasurable merit'. The Hindi opens with 'यदि' but closes with an indicative 'हो जाता है', leaving the conditional unresolved and reading as a flat assertion.",
+     "fix": "यदि ऐसा भी विचार करे, और कल्याण की भावना से युक्त होकर अपरिमेय पुण्य से सम्पन्न हो जाए,"
+    }
+   ]
+  },
+  {
+   "id": "1-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-34",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "बुद्धों और बुद्धपुत्रों द्वारा, / मधुर धर्म-घोषणा से पूर्ण होकर",
+     "evidence": "Tibetan སངས་རྒྱས་དང་ནི་སངས་རྒྱས་སྲས། ཆོས་སྙན་སྒྲོགས་པས་གང་བ་ཡིས: the directions are filled with Buddhas and Buddha-children who proclaim the sweet Dharma (bo-shenga 10-34: ཆོས་སྙན་པར་སྒྲོགས་པས་གང་བ་ཡིས; bo-kunpal 10-34). 'द्वारा' makes the Buddhas an agent of filling, and 'घोषणा से पूर्ण होकर' makes the proclamation the filler, so the relation of Buddhas, proclamation and directions is garbled.",
+     "fix": "बुद्धों और बुद्धपुत्रों की मधुर धर्म-घोषणा से परिपूर्ण होकर"
+    }
+   ]
+  },
+  {
+   "id": "10-46",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "चित्त-संतान",
+     "evidence": "Locked rendering of རྒྱུད is 'संतान'; the translation adds 'चित्त-' (not in the Tibetan རྒྱུད་ནི་ཡོངས་སུ་དག་པ).",
+     "fix": "उनका संतान पूर्णतः विशुद्ध हो"
+    }
+   ]
+  },
+  {
+   "id": "10-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-17",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "समतल बिछाई गई भूमि",
+     "evidence": "Tibetan ས་གཞི་བསྟར་བ (bo-shenga 2-17: ས་གཞི་ཁོད་མཉམ་པས་བསྟར་བ) means ground laid/paved evenly; Sanskrit kuṭṭima 'paved floor'. 'समतल बिछाई गई भूमि' is awkward Hindi and obscures that the ground is paved/laid flat.",
+     "fix": "सुगन्ध से लिप्त, समतल बिछी (पक्की) भूमि पर"
+    }
+   ]
+  },
+  {
+   "id": "2-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-38",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

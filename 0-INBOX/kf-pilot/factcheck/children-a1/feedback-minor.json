@@ -1,0 +1,1552 @@
+{
+ "1-4": {
+  "translation": "This free and fortunate life is very hard to find. We have gained what we need to reach the purpose of a human life. If we do not use this life to do what is helpful, how will we ever find it perfectly again?",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "find it perfectly again",
+    "evidence": "Academic: \"how will this be perfectly found again later?\" (fully/properly found). \"Perfectly\" is unclear for a child.",
+    "fix": "how will we ever find a life like this again?"
+   }
+  ]
+ },
+ "1-8": {
+  "translation": "Some people want to end the hundreds of sufferings of life. Some want to take away the sadness of living beings. Others want to enjoy hundreds of joys. All of them should never give up the awakening mind.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "Some people want ... Some want ... Others want",
+    "evidence": "The three wishes (overcome suffering, dispel unhappiness, enjoy joys) belong to the same people, not three different groups.",
+    "fix": "People who want to end the hundreds of sufferings of life, to take away the sadness of living beings, and to enjoy hundreds of joys should never give up the awakening mind."
+   }
+  ]
+ },
+ "1-9": {
+  "translation": "As soon as the awakening mind is born, everything changes in a flash. Poor beings trapped in the prison of the cycle of rebirth will be called children of the Well-Gone Ones. The whole world, including gods and humans, will bow down to them.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "everything changes in a flash",
+    "evidence": "Academic: \"in an instant\" the wretched will be called children of the Sugatas; nothing says everything changes.",
+    "fix": "As soon as the awakening mind is born, in a single moment, poor beings trapped in the prison of the cycle of rebirth will be called children of the Well-Gone Ones."
+   }
+  ]
+ },
+ "1-11": {
+  "translation": "The one leader of travelers for all beings has a limitless mind. He looked at it closely and saw how precious it is. Anyone who wants to leave the homes of beings should hold tightly to the precious awakening mind.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "leave the homes of beings",
+    "evidence": "Academic: \"separated from the realms of wandering beings\"; the leader's examination is also the reason (\"Since\") for holding on to bodhicitta.",
+    "fix": "Since he looked at it closely and saw how precious it is, anyone who wants to be free from the realms of beings should hold tightly to the precious awakening mind."
+   }
+  ]
+ },
+ "1-14": {
+  "translation": "It is like the fire at the end of time. It completely burns up great mistakes in a single instant. The wise Protector Maitreya explained its endless benefits to Sudhana.",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "great mistakes",
+    "evidence": "Academic: \"great misdeeds\" (sdig pa); the glossary term is \"harmful deed\". \"Mistakes\" understates it.",
+    "fix": "It completely burns up great harmful deeds in a single instant."
+   }
+  ]
+ },
+ "1-18": {
+  "translation": "You might truly take up this mind to completely free the endless realm of living beings. You make this choice with a mind of never turning back. From that very moment...",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "You might truly take up this mind",
+    "evidence": "Academic: \"From the moment that ... one correctly adopts that mind\" is a time clause, not a possibility.",
+    "fix": "From the moment you truly take up this mind to completely free the endless realm of living beings, with a mind of never turning back,"
+   }
+  ]
+ },
+ "1-25": {
+  "translation": "Most people do not have this wish even for themselves. But this wish to help every living being is born as a brand new wonder. It is an amazing jewel of a mind.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "Most people do not have this wish even for themselves",
+    "evidence": "Academic: \"does not arise in others even for their own sake\"; not limited to \"most\".",
+    "fix": "Other beings do not have this wish even for themselves."
+   }
+  ]
+ },
+ "1-29": {
+  "translation": "Some people have no happiness and face so much suffering. This mind fills them with happiness and cuts through all their suffering.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "Some people have no happiness",
+    "evidence": "Academic refers to beings (sentient beings) who lack happiness and have many sufferings, not a subset.",
+    "fix": "Beings who have no happiness and so much suffering: this mind fills them with happiness and cuts through all their suffering."
+   }
+  ]
+ },
+ "1-34": {
+  "translation": "What if someone thinks bad thoughts about such a kind child of the Victorious Ones? The Sage taught that for every bad thought, they will stay in hell for a great age.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "bad thoughts",
+    "evidence": "Academic: \"malicious thought\"; \"bad\" is weaker than hateful ill will.",
+    "fix": "What if someone has a hateful thought toward such a kind child of the Victorious Ones? The Sage taught that they will stay in hell for one great age for every hateful thought."
+   }
+  ]
+ },
+ "1-36": {
+  "translation": "I bow down to anyone who has grown this perfect, precious mind. Even if someone hurts them, they still connect that person to happiness. I go for shelter to these sources of happiness.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "perfect, precious mind",
+    "evidence": "Academic: \"that supreme, precious mind\"; also \"I bow to their body\" is generalized.",
+    "fix": "I bow down to the body of anyone in whom this supreme, precious mind has arisen."
+   }
+  ]
+ },
+ "2-4": {
+  "translation": "I offer sweet smells and incense from the worlds of gods and others. I offer wish-granting trees and jewel trees. I offer crops that grow without being planted. I offer every other beautiful thing that is worthy of being offered.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "crops that grow without being planted",
+    "evidence": "\"Various crops that grow without being ploughed\" - unploughed, self-growing crops",
+    "fix": "I offer crops that grow without anyone ploughing the field."
+   }
+  ]
+ },
+ "2-6": {
+  "translation": "In my mind, I gather all these things. I offer them to the Sages and their children. They are the ones worthy of gifts. May those of great compassion think of me with love and accept my offerings.",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "The Sages are \"the supreme among persons\"; this epithet is dropped",
+    "fix": "I offer them to the Sages, the best of beings, and to their children."
+   }
+  ]
+ },
+ "2-7": {
+  "translation": "I have no store of goodness, and I am very poor. I have no other wealth to offer. Therefore, may the Protectors who care about the good of others accept this for my sake.",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "may the Protectors who care about the good of others accept this for my sake",
+    "evidence": "\"Accept this for my sake by their own power\" - the Protectors accept by their own power (since the speaker has nothing)",
+    "fix": "...may the Protectors who care about the good of others accept this for my sake, by their own power."
+   }
+  ]
+ },
+ "2-29": {
+  "translation": "Sometimes ignorance confused me. I used to feel joy in my mistakes. Now I see how wrong they were. I own up to them to the Protectors from the bottom of my heart.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "Sometimes ignorance confused me.",
+    "evidence": "\"Overwhelmed by the confusion of ignorance\" - no \"sometimes\"; ignorance overwhelmed the speaker",
+    "fix": "Ignorance confused me completely."
+   }
+  ]
+ },
+ "2-32": {
+  "translation": "I might die before the cleansing of my harmful deeds. Please protect me quickly so I can have sure freedom from them.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "I might die before the cleansing",
+    "evidence": "\"I will die before that happens\" - stated as a real danger, not just a possibility",
+    "fix": "I will die before my harmful deeds are cleansed."
+   }
+  ]
+ },
+ "2-48": {
+  "translation": "In the same way, their teachings are what I go to for shelter. These teachings chase away the fears of the cycle of rebirth. The group of awakening heroes is also who I go to for shelter.",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "In the same way, their teachings are what I go to for shelter.",
+    "evidence": "The Dharma is the one the Victors have realized; the children's text drops 'realized'.",
+    "fix": "In the same way, I go to for shelter in the teachings the Victorious Ones have realized."
+   }
+  ]
+ },
+ "2-50": {
+  "translation": "His actions are always perfect because of his compassion. I cry out in a sad voice to the protector Avalokiteshvara. I say, 'Please protect me, one who has done harmful deeds!'",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "His actions are always perfect because of his compassion.",
+    "evidence": "'Unerring' means his conduct through compassion never goes wrong or is never mistaken, not 'perfect'.",
+    "fix": "Because of his compassion, his actions never go wrong."
+   }
+  ]
+ },
+ "2-53": {
+  "translation": "In the past, I broke your rules. Now I have seen great danger. You are who I go to for shelter. Please take away my fears quickly!",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "I broke your rules. Now I have seen great danger.",
+    "evidence": "Source says 'transgressed your commands' and 'seen great fear'; 'rules' and 'danger' shift the wording.",
+    "fix": "In the past, I went against your commands. Now I have seen great fear."
+   }
+  ]
+ },
+ "2-56": {
+  "translation": "The All-Knowing Doctor takes away all pain. Not wanting to follow his orders is extreme ignorance. Anyone who ignores him should be scolded.",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Opens with 'In that case', completing the argument from the previous verse; the link is lost.",
+    "fix": "If that were so, then for the All-Knowing Doctor who takes away all pain, not wanting to follow his orders is extreme ignorance. Anyone who ignores him should be scolded."
+   }
+  ]
+ },
+ "2-57": {
+  "translation": "We must be careful even near a small, normal cliff. So of course we must be careful near a huge drop! We could fall a thousand leagues and be trapped for a long time.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "be trapped for a long time",
+    "evidence": "Source says falling into a long-lasting precipice; 'trapped' adds an idea.",
+    "fix": "We could fall a thousand leagues into a drop that lasts a very long time."
+   }
+  ]
+ },
+ "3-5": {
+  "translation": "I put my hands together and pray to the Victorious Ones who wish to pass into freedom from sorrow. Do not leave these blind wandering beings behind. Please stay with us for countless great ages.",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "blind wandering beings",
+    "evidence": "Locked rendering for འགྲོ is 'being'; 'wandering' is not part of it, and 'in blindness' describes the state they are left in.",
+    "fix": "Do not leave these beings in blindness. Please stay with us for countless great ages."
+   }
+  ]
+ },
+ "3-22": {
+  "translation": "In the past, the Well-Gone Ones created the awakening mind. Step by step, they followed the trainings of the awakening heroes.",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "In the past, the Well-Gone Ones created the awakening mind.",
+    "evidence": "Tibetan/academic open with 'Just as' (ཇི་ལྟར), setting up the comparison completed in the next verse ('Likewise').",
+    "fix": "Just as the Well-Gone Ones of the past created the awakening mind and, step by step, followed the trainings of the awakening heroes,"
+   }
+  ]
+ },
+ "3-23": {
+  "translation": "In the same way, I will create the awakening mind to help wandering beings. Step by step, I will also practice the trainings.",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "wandering beings",
+    "evidence": "Locked term for འགྲོ is 'being'.",
+    "fix": "In the same way, I will create the awakening mind to help all beings."
+   }
+  ]
+ },
+ "3-26": {
+  "translation": "Now I must do everything I can to act like my new family. I will act well so that I never bring shame to this pure and noble family.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "act like my new family",
+    "evidence": "Tibetan/academic: undertake actions in accord with (fitting) the family, not imitate the family; 'defiled' rather than 'shame'.",
+    "fix": "Now I must do whatever I can to act in a way that fits this family, so that I never stain this pure and noble family."
+   }
+  ]
+ },
+ "4-5": {
+  "translation": "Suppose you promise in your mind to give away a small, ordinary thing. If you do not give it, teachings say you will become a hungry ghost.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "promise in your mind",
+    "evidence": "Tibetan ཡིད་ཀྱིས་སྦྱིན་པར་བསམ་བྱས: having intended/thought in the mind to give, not a promise.",
+    "fix": "Suppose you decide in your mind to give away a small, ordinary thing."
+   }
+  ]
+ },
+ "4-10": {
+  "translation": "Destroying the happiness of a single living being will bring my own ruin. What if I destroy the happiness of every being with a body? They fill all of space to its very edge. We do not even need to ask!",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "What if I destroy the happiness of every being with a body? ... We do not even need to ask!",
+    "evidence": "Academic: 'what need to speak of destroying the happiness of embodied beings?' (a rhetorical a fortiori); also 'even' and the conditional 'if' are lost, so the logic is muddled.",
+    "fix": "Even destroying the happiness of one living being would bring my own ruin. So how much worse to destroy the happiness of beings with bodies, who fill all of space to its very edge!"
+   }
+  ]
+ },
+ "4-12": {
+  "translation": "Because of this, I must carefully do what I promised. If I do not make an effort starting today, I will go lower and lower.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "carefully",
+    "evidence": "Tibetan གུས་པར: respectfully.",
+    "fix": "Because of this, I must respectfully do what I vowed."
+   }
+  ]
+ },
+ "4-15": {
+  "translation": "A Thus-Gone One appearing is very rare. Getting a human body, having trust, and being ready to do good deeds are also rare. When will I ever get these things again?",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "When will I ever get these things again?",
+    "evidence": "Academic: 'when will they be obtained?'; 'again' is not there.",
+    "fix": "When will I ever get these things?"
+   }
+  ]
+ },
+ "4-19": {
+  "translation": "If I do not do good deeds and only gather harmful deeds, things will be bad. I will not even hear about the happy realms for a billion great ages.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "only gather harmful deeds, things will be bad",
+    "evidence": "Academic: 'have accumulated misdeeds'; no 'only' and no extra 'things will be bad'.",
+    "fix": "If I do not do good deeds and I pile up harmful deeds, then for even a billion great ages I will not hear even the sound of the happy realms."
+   }
+  ]
+ },
+ "4-33": {
+  "translation": "If I serve and honor my other enemies, they might bring me help and happiness. But if I serve my troubling emotions, they only bring me more suffering and harm.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "they might bring me help and happiness",
+    "evidence": "Academic: all others bring benefit and happiness when amiably served; \"might\" weakens a plain statement, and \"only\" in the second half is not in the source.",
+    "fix": "If I serve and honor my other enemies kindly, they bring me help and happiness. But if I serve my troubling emotions, they bring me more suffering and harm."
+   }
+  ]
+ },
+ "4-38": {
+  "translation": "My true natural enemies are the constant cause of all suffering. Today, I am trying hard to destroy them. Even if this fight causes me hundreds of sufferings, it will certainly not make me despair and lose heart.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "it will certainly not make me despair",
+    "evidence": "Academic: \"Needless to say, will not make me despair\" - the a fortiori (\"how much more me\") completing the soldiers' example is reduced to a plain claim.",
+    "fix": "So of course I, fighting the enemy that causes all suffering, will not lose heart, even if it brings me hundreds of sufferings."
+   }
+  ]
+ },
+ "4-40": {
+  "translation": "Fishermen, outcasts, farmers, and others only think about making a living. Yet they put up with the pain of cold and heat. I am working for the happiness of all wandering beings. Why should someone like me not endure these things too?",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "wandering beings",
+    "evidence": "Locked rendering for འགྲོ་བ is \"being\"; \"wandering beings\" adds a word and is inconsistent with \"beings\" elsewhere.",
+    "fix": "I am working for the happiness of all beings."
+   }
+  ]
+ },
+ "4-41": {
+  "translation": "I promised to free the wandering beings who fill space in the ten directions. I promised to free them from their troubling emotions. But when I made this promise, I was not even free from my own troubling emotions!",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "wandering beings",
+    "evidence": "Locked rendering for འགྲོ་བ is \"being\".",
+    "fix": "I promised to free the beings who fill space in the ten directions."
+   }
+  ]
+ },
+ "4-42": {
+  "translation": "Since I do not even know what I can really do, am I not crazy to talk like this? Still, I will never turn back from destroying my troubling emotions.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "Still,",
+    "evidence": "Academic: \"Therefore, in destroying afflictions, I shall never turn back\" - a conclusion drawn from the madman remark, not a concession.",
+    "fix": "So I will never turn back from destroying my troubling emotions."
+   }
+  ]
+ },
+ "4-43": {
+  "translation": "I will hold tightly to this goal. I will hold a grudge and fight this battle! This is the only kind of troubling emotion I should not let go of, because it destroys all other troubling emotions.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "this goal",
+    "evidence": "Academic: \"I shall be attached to this\" - the referent is left unstated; \"goal\" is an added gloss.",
+    "fix": "I will hold tightly to this."
+   }
+  ]
+ },
+ "5-11": {
+  "translation": "Where could fish and other animals be put so they are never killed? The perfection of good conduct comes from getting the mind of giving up harmful actions.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "giving up harmful actions",
+    "evidence": "Academic: \"the mind of renunciation\" (locked: mind of giving up); the object \"harmful actions\" is not stated.",
+    "fix": "The perfection of good conduct is explained as coming from getting the mind of giving up."
+   }
+  ]
+ },
+ "5-12": {
+  "translation": "Wild living beings are as endless as space. They can never be fully defeated. But if this single mind of anger is defeated, it is like defeating all those enemies at once.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "as endless as space",
+    "evidence": "The verse says unruly beings are 'like space', not that they are endless; 'endless' adds an interpretation.",
+    "fix": "Wild living beings are like space. They can never be fully defeated."
+   }
+  ]
+ },
+ "5-22": {
+  "translation": "It is better to lose my gain and honor. It is better to lose my body and my life. It is even better to lose other good deeds. But I must never let my mind fail.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "lose my body and my life",
+    "evidence": "Academic: 'my body and livelihood' (the means of living), not life itself.",
+    "fix": "It is better to lose my body and the things I live on."
+   }
+  ]
+ },
+ "5-28": {
+  "translation": "This gang of thieves, made of troubling emotions, looks for a chance to strike. When they find it, they steal every good deed. They even destroy life in a happy realm.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "steal every good deed",
+    "evidence": "Academic: 'they steal virtue'; no 'every'.",
+    "fix": "they steal my good deeds."
+   }
+  ]
+ },
+ "5-30": {
+  "translation": "For lucky people who act with careful respect, keeping in mind grows easily. This happens by spending time with a teacher and listening to the teacher who ordained me.",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "act with careful respect",
+    "evidence": "Academic: 'act with respect out of fear'; the fear is not rendered ('careful' only approximates it).",
+    "fix": "For lucky people who act with respect because they are afraid to do wrong, keeping in mind grows easily."
+   }
+  ]
+ },
+ "5-42": {
+  "translation": "When I face danger or go to a festival, I might not be able to do everything perfectly. If so, I should just relax. It is taught that at times of giving, good conduct should be treated with even-mindedness.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "I might not be able to do everything perfectly",
+    "evidence": "Academic: 'if one is unable, one should act at ease'; 'perfectly' is added and 'involved in dangers, festivities' becomes 'face danger or go to a festival'.",
+    "fix": "When I am caught up in danger, a festival, and the like, and I cannot keep up my practice, I should act at ease."
+   }
+  ]
+ },
+ "5-51": {
+  "translation": "If I want gain, honor, or fame, or if I want to seek helpers and followers. If my mind wants to be served, at that time I should stay like a log.",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "or if I want to seek helpers and followers. If my mind wants to be served,",
+    "evidence": "Sentence fragments; the original is one conditional list ending in 'at that time remain like a log'.",
+    "fix": "If I want gain, honor, or fame, or want helpers and followers, or my mind wants to be served, at that time I should stay like a log."
+   }
+  ]
+ },
+ "5-53": {
+  "translation": "When impatience, laziness, and fear appear, along with rudeness and idle talk. Or if a mind attached to my own side comes up, at that time I should stay like a log.",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "When impatience, laziness, and fear appear, along with rudeness and idle talk. Or if a mind attached to my own side comes up",
+    "evidence": "Incomplete sentence: the first 'When...' clause is cut off, then 'Or if' starts again. Academic: one list (impatience, laziness, fear, impudence, idle chatter, or a mind attached to my own side), then 'at that time'.",
+    "fix": "If I feel impatience, laziness, fear, rudeness, or idle talk, or if my mind clings to my own side, then I should stay like a log."
+   }
+  ]
+ },
+ "5-71": {
+  "translation": "So, work on being in control of oneself. Always keep a smiling face. Stop frowning and scowling completely. Be a friend to wandering beings and speak honestly.",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "work on being in control of oneself",
+    "evidence": "Academic: 'assume self-mastery'. Abstract, and shifts from 'I' to 'oneself'; 'wandering beings' is also unexplained.",
+    "fix": "So I will be in control of myself. I will always keep a smiling face... Be a friend to all beings who wander through life, and speak honestly."
+   }
+  ]
+ },
+ "5-81": {
+  "translation": "A good deed becomes very great when you do it with a strong, lasting wish, or as a remedy. This is true when you act toward people with good qualities, people who help you, and those in suffering.",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "or as a remedy",
+    "evidence": "Academic: motivated by an antidote (a counter to troubling emotions). 'Do it as a remedy' is unclear.",
+    "fix": "or when a remedy against troubling emotions moves you to act"
+   }
+  ]
+ },
+ "5-90": {
+  "translation": "People who are ready for the vast teachings should not practice the lesser teachings instead. Good behavior should not be given up completely. I should not trick people with teaching texts and sacred words.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "I should not trick people",
+    "evidence": "Academic/Tibetan: 'lure' (draw in) with sutras and mantras, not 'trick'.",
+    "fix": "I should not lure people away with teaching texts and sacred words."
+   }
+  ]
+ },
+ "5-93": {
+  "translation": "I should not be alone with another woman in a vehicle, on a bed, on a seat, or in a room. By watching and asking questions, I should find out what upsets people. Then I must avoid doing anything that causes the world to lose faith.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "find out what upsets people",
+    "evidence": "Having observed and inquired, one should avoid everything that causes the world to lose faith (not what merely upsets people).",
+    "fix": "By watching and asking, I should find out what makes people lose faith. Then I must avoid all of it."
+   }
+  ]
+ },
+ "5-101": {
+  "translation": "Whether directly or indirectly, I should only do things that help living beings. For the sake of living beings alone, I give everything to awakening by sharing the goodness.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "I give everything to awakening by sharing the goodness",
+    "evidence": "Imperative: make a dedication of everything for awakening, for the sake of beings alone; the children's text states it as a fact.",
+    "fix": "For the sake of living beings alone, I should share all the goodness for awakening."
+   }
+  ]
+ },
+ "5-103": {
+  "translation": "I should learn how to rely on a teacher from the life story of Shrisambhava. I will know this and other things spoken by the Buddha by reading the scriptures.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "I will know this and other things spoken by the Buddha by reading the scriptures.",
+    "evidence": "These and other words spoken by the Buddha should be known by reading the sutras (an instruction, not a prediction).",
+    "fix": "I should read the scriptures to learn this and other things the Buddha taught."
+   }
+  ]
+ },
+ "6-15": {
+  "translation": "Think of snakes and biting flies. Think of the feeling of hunger and thirst. Think of itchy rashes. Why do you not see that all this suffering is pointless?",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "Why do you not see that all this suffering is pointless?",
+    "evidence": "Why do you not see their pointless suffering? The suffering of those afflicted by snakes, flies, hunger, thirst and rashes is the pointless kind; it does not say all suffering is pointless (cf. 6-21).",
+    "fix": "Those who suffer from snakes, biting flies, hunger, thirst and rashes suffer for no purpose. Why do you not see this?"
+   }
+  ]
+ },
+ "6-19": {
+  "translation": "Even when suffering happens, wise people keep a clear mind. They are fighting a war against troubling emotions. Many harms happen during a battle.",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "\"for in waging war against the afflictions, harms are many\": the war is the reason the wise should not cloud the mind.",
+    "fix": "Even when suffering happens, wise people keep a clear mind. This is because they are fighting a war against troubling emotions, and many harms happen during a battle."
+   }
+  ]
+ },
+ "6-21": {
+  "translation": "Suffering also has a good quality. Sadness stops us from feeling superior. We feel compassion for those in the cycle of rebirth. We avoid harmful deeds and enjoy good deeds.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "Sadness stops us from feeling superior.",
+    "evidence": "Through disillusionment (weariness with suffering), haughtiness is dispelled; not mere sadness.",
+    "fix": "Getting tired of suffering stops us from feeling superior."
+   }
+  ]
+ },
+ "6-31": {
+  "translation": "So, everything is controlled by other forces. Because of this power, everything is powerless. Knowing this, I will not get angry at any things. They are just like magic illusions.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "I will not get angry at any things",
+    "evidence": "Academic: 'Knowing this, one will not become angry at any entities' - a general consequence, not a personal vow.",
+    "fix": "Knowing this, a person will not get angry at any things."
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "magic illusions",
+    "evidence": "Academic: 'entities, which are like emanations' (sprul pa) - something conjured up, not an illusion.",
+    "fix": "They are like things that magic has conjured up."
+   }
+  ]
+ },
+ "6-32": {
+  "translation": "Someone might ask, \"What can stop what? Even stopping things makes no sense!\" But because things depend on each other, it does make sense. It is not wrong to wish for sufferings to be cut away.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "because things depend on each other",
+    "evidence": "Academic: 'In dependence upon that' - i.e. on conditions/causes, not mutual dependence.",
+    "fix": "But because suffering depends on its causes, it does make sense."
+   }
+  ]
+ },
+ "6-33": {
+  "translation": "Therefore, whether it is an enemy or a friend, if I see them doing something wrong, I will think, \"This has come from these circumstances.\" I will think this way and stay at ease.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "I will think ... I will think this way and stay at ease",
+    "evidence": "Academic: imperative advice, 'Reflect in this way and remain at ease', not a personal resolution.",
+    "fix": "think, \"This has come from these circumstances.\" Think this way and stay at ease."
+   }
+  ]
+ },
+ "6-41": {
+  "translation": "Someone might hit me with a stick. If I feel anger at the person swinging it, I must remember they are driven by hatred. It makes more sense to feel anger at hatred itself.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "I must remember they are driven by hatred",
+    "evidence": "Academic: 'since he too is driven by hatred, then in the second place it is fitting to feel anger at hatred' - a reason, not an instruction to remember.",
+    "fix": "If I feel anger at the person swinging it, remember he is driven by hatred too. So the anger really belongs to the hatred."
+   }
+  ]
+ },
+ "6-50": {
+  "translation": "If my intention has a good quality, I will not go to hell. But if I just protect myself, what will happen to them?",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "But if I just protect myself",
+    "evidence": "Academic: 'If I protect myself, what will happen to them here?' - no contrast ('But') and no 'just'; 'here' also dropped.",
+    "fix": "If my intention has a good quality, I will not go to hell. If I protect myself, what will happen to them here?"
+   }
+  ]
+ },
+ "6-86": {
+  "translation": "You feel no sorrow for the harmful deeds you yourself have done. On top of that, do you want to compete with others who have built up a store of goodness? The Second Fascicle.",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "The Second Fascicle.",
+    "evidence": "This is the colophon marking the end of a section of the manuscript, not part of the verse; 'fascicle' is a hard unexplained word for ages 8-12.",
+    "fix": "Drop it or say: 'This is the end of the second part of the book.'"
+   }
+  ]
+ },
+ "6-91": {
+  "translation": "If I really knew my own good, what own good is there in that? If I only want my mind to feel happy, I must also rely on gambling and alcohol.",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "If I really knew my own good, what own good is there in that?",
+    "evidence": "Academic: 'If I were to know my own welfare, what welfare of mine is there in that?' (in praise and fame); also drops 'and the like' after gambling and alcohol.",
+    "fix": "Even if I knew what is truly good for me, what good would praise do me? If I only want my mind to feel happy, I would also have to turn to gambling, alcohol, and things like that."
+   }
+  ]
+ },
+ "6-99": {
+  "translation": "Some people are around just to destroy my praise. Are they not protecting me from falling into an unhappy realm?",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "destroy my praise",
+    "evidence": "'my praise and so forth' - the list of such things (fame, honor) is dropped.",
+    "fix": "Some people are around to destroy my praise and things like it. Are they not protecting me from falling into an unhappy realm?"
+   }
+  ]
+ },
+ "6-103": {
+  "translation": "If my own faults stop me from practicing patience with this, I am the one making a block. The cause of a store of goodness is right in front of me.",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "I am the one making a block.",
+    "evidence": "The academic text says I am creating an obstacle to the cause of merit that is present; the children's text does not say what the block blocks.",
+    "fix": "If my own faults stop me from being patient with this, I am only blocking my own store of goodness, even though its cause is right in front of me."
+   }
+  ]
+ },
+ "6-105": {
+  "translation": "A beggar arriving at the right time is not a block to giving. Someone who helps you in becoming a monk or nun cannot be called a block to becoming a monk or nun.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "Someone who helps you in becoming a monk or nun",
+    "evidence": "The academic text says one who grants ordination (the one who makes someone go forth), not just anyone who helps.",
+    "fix": "Someone who gives you the vows of a monk or nun cannot be called a block to becoming a monk or nun."
+   }
+  ]
+ },
+ "6-111": {
+  "translation": "Therefore, patience only arises because of a very hateful mind. Since they are the exact cause of patience, they deserve to be honored just like the holy teachings.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "patience only arises because of a very hateful mind",
+    "evidence": "The academic text says patience arises in dependence on a very hateful mind (the enemy's), with no 'only'; the children's text also leaves unclear whose mind it is.",
+    "fix": "Patience arises in dependence on someone's very hateful mind. Since they are the exact cause of patience, they deserve to be honored just like the holy teachings."
+   }
+  ]
+ },
+ "6-116": {
+  "translation": "Living beings have a part in helping me gain every quality of a Buddha. That is why living beings and the Buddhas are seen as equal. But no one is truly equal to the Buddhas. They have an endless ocean of good qualities.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "a part in helping me gain every quality of a Buddha",
+    "evidence": "The academic text says they share in accomplishing the qualities of a Buddha; 'every' and 'helping me' are not there.",
+    "fix": "Living beings have a share in bringing about the qualities of a Buddha."
+   }
+  ]
+ },
+ "6-117": {
+  "translation": "If even a tiny part of a supreme good quality appears in someone, I should honor them. Even giving them the three realms as a gift would be too little.",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "a tiny part of a supreme good quality",
+    "evidence": "The academic text speaks of a fraction of the unique collection of supreme good qualities, and says the offerings are made to that person.",
+    "fix": "If even a tiny part of that special collection of supreme good qualities appears in someone, it would be right to make offerings to them. Even giving them the three realms would be too little."
+   }
+  ]
+ },
+ "6-119": {
+  "translation": "The Buddhas are true friends who never trick me. They help me in ways I cannot measure. How could I ever pay them back? The only way is by making living beings happy.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "The Buddhas are true friends who never trick me.",
+    "evidence": "The academic text does not name the Buddhas; it speaks of those who become friends without deceit and perform immeasurable benefit.",
+    "fix": "Those who are true friends who never trick me, and who help me in ways I cannot measure, how could I ever pay them back? The only way is by making living beings happy."
+   }
+  ]
+ },
+ "7-8": {
+  "translation": "I will think, \"I haven't finished this. I just started that. This is only half done.\" Then the Lord of Death will suddenly arrive. I will think, \"Oh no, I am ruined!\"",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "I will think, \"I haven't finished this. I just started that. This is only half done.\" Then the Lord of Death will suddenly arrive.",
+    "evidence": "The unfinished state is what he is still in when the Lord of Death suddenly arrives; only then does he think \"Alas, I am destroyed!\" The children's text puts a first thought before death arrives and then a second thought after.",
+    "fix": "When the Lord of Death suddenly arrives, I will find that \"This is not done. That is just begun. This is only half done.\" Then I will think, \"Oh no, I am ruined!\""
+   }
+  ]
+ },
+ "7-11": {
+  "translation": "In this life, you flip around in fear like a live fish out of water. Since you have done harmful deeds, there is no need to mention the unbearable sufferings of hell!",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "like a live fish out of water",
+    "evidence": "Only \"like a live fish writhing about\"; \"out of water\" is not stated.",
+    "fix": "you flip around in fear like a live fish"
+   }
+  ]
+ },
+ "7-18": {
+  "translation": "Think of flies, mosquitoes, bees, and worms. Even they can build up the power of joyful effort. If they do, they will reach the highest awakening, which is very hard to achieve.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "mosquitoes",
+    "evidence": "The Tibetan/academic text names gadflies, not mosquitoes.",
+    "fix": "Think of flies, gadflies, bees, and worms."
+   }
+  ]
+ },
+ "7-29": {
+  "translation": "The power of the awakening mind wipes out every past harmful deed. It also gathers an ocean of stored goodness. Because of this, the bodhisattva is greater than the Hearers.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "wipes out every past harmful deed",
+    "evidence": "The text says it exhausts previous misdeeds; it does not say \"every\".",
+    "fix": "The power of the awakening mind uses up past harmful deeds."
+   }
+  ]
+ },
+ "7-35": {
+  "translation": "I must build up many good qualities in myself and others. I must practice each and every good quality for an ocean of great ages.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "I must practice each and every good quality for an ocean of great ages.",
+    "evidence": "The sentence is a conditional (\"if for each good quality I must familiarize myself for an ocean of eons...\"), not a flat statement.",
+    "fix": "If I must practice each and every good quality for an ocean of great ages,"
+   }
+  ]
+ },
+ "7-39": {
+  "translation": "Because I did not have a strong wish for the teachings in the past, and still do not have it now, I have ended up so poor. Who would ever give up a strong wish for the teachings?",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "I have ended up so poor",
+    "evidence": "\"Destitution\" here means lack or misfortune; \"poor\" may be read as lacking money.",
+    "fix": "I have ended up in such a sad, empty state."
+   }
+  ]
+ },
+ "7-48": {
+  "translation": "If I get used to turning back, it will happen in another life too. My harmful deeds and suffering will increase. Any new action and its results will become weak. Then that action will not get finished either.",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "Any new action and its results will become weak.",
+    "evidence": "The Tibetan says the 'time of the result' (the ripening time) of the other deed also becomes inferior; the children's text drops 'time of'.",
+    "fix": "Any other action I do, and the time its results come, will become weak."
+   }
+  ]
+ },
+ "7-49": {
+  "translation": "I should build my pride in three things: my action, my troubling emotions, and my ability. Thinking, \"I will do this alone,\" is called pride in action.",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "I should build my pride in three things: my action, my troubling emotions, and my ability.",
+    "evidence": "Text says to cultivate pride in karma, afflictions and capacity (confidence that one can handle them); 'pride in my troubling emotions' can be misread as being proud of them.",
+    "fix": "I should have confidence and pride in three things: my action, my power over troubling emotions, and my ability."
+   }
+  ]
+ },
+ "7-64": {
+  "translation": "We never get enough of a desire for pleasure, which is like licking honey from a razor's edge. So how could I ever get enough of a store of goodness? Its ripening is happiness and peace.",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "We never get enough of a desire for pleasure, which is like licking honey from a razor's edge.",
+    "evidence": "Sensual desires are like honey smeared on a razor's edge; the contrast that merit's ripening is happiness and peace is only implied. Awkward 'a desire for pleasure'.",
+    "fix": "We never get enough of pleasures, which are like honey on a razor's edge. So how could I ever get enough of goodness whose ripening is happiness and peace?"
+   }
+  ]
+ },
+ "7-67": {
+  "translation": "Just like a brave warrior fighting enemies with swords on a battlefield, I must dodge the weapons of the troubling emotions. Then I must strike hard to destroy those enemy troubling emotions.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "brave warrior",
+    "evidence": "Tibetan/academic: a veteran (experienced) warrior, not merely a brave one.",
+    "fix": "Just like an experienced warrior fighting enemies with swords on a battlefield"
+   }
+  ]
+ },
+ "7-a": {
+  "translation": "From Entering the Way of the Awakening Hero, this is the seventh chapter, called Joyful Effort.",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "called Joyful Effort",
+    "evidence": "Title is 'Exposition of Diligence' (brtson 'grus bstan pa); 'Exposition' is dropped.",
+    "fix": "called Teaching on Joyful Effort"
+   }
+  ]
+ },
+ "8-6": {
+  "translation": "If we do not see them, we feel no joy, and the mind does not rest as a settled mind. Even when we do see them, we are never satisfied. We are still hurt by wanting, just as before.",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "the mind does not rest as a settled mind",
+    "evidence": "Mind does not rest in meditative equipoise; the phrase is circular and clumsy.",
+    "fix": "the mind cannot become settled"
+   }
+  ]
+ },
+ "8-9": {
+  "translation": "If I share the same path as a childish person, I will certainly go to an unhappy realm. If they lead me away from the noble path, what is the use of relying on a childish person?",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "share the same path",
+    "evidence": "Text says 'share the same fortune/lot' (skal ba), not path; 'noble path' also reframes 'unlike that of the noble ones'.",
+    "fix": "If I share the same fate as a childish person, I will certainly go to an unhappy realm."
+   }
+  ]
+ },
+ "8-13": {
+  "translation": "If I spend time with a childish person, I will hear them praising oneself and putting others down. They will talk happily about the cycle of rebirth. Every kind of bad deed will surely come from this.",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "I will hear them praising oneself",
+    "evidence": "Self-praise, the disparagement of others (locked: praising oneself)",
+    "fix": "I will hear them praising themselves and putting others down."
+   }
+  ]
+ },
+ "8-14": {
+  "translation": "If we rely on each other like this, we will only ruin ourselves. They will not do me any good. And I will not do them any good either.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "we will only ruin ourselves. They will not do me any good. And I will not do them any good either.",
+    "evidence": "The ruin follows from the reason: since they do not accomplish my welfare and I will not accomplish theirs.",
+    "fix": "Because they will not do me any good, and I will not do them any good either, we will only ruin ourselves."
+   }
+  ]
+ },
+ "8-16": {
+  "translation": "A bee just takes nectar from a flower and flies away. In the same way, I will only take what helps me practice the teachings. I will stay slightly apart from everyone, as if I had never met them before.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "I will stay slightly apart from everyone",
+    "evidence": "\"I shall remain without familiarity toward everyone\" (not becoming close or familiar).",
+    "fix": "I will not become close to anyone, as if I had never met them before."
+   },
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "and flies away",
+    "evidence": "Bee simply takes nectar from the flower; flying away is not stated.",
+    "fix": "A bee just takes nectar from a flower."
+   }
+  ]
+ },
+ "8-22": {
+  "translation": "Living beings have many different strong wishes. If even the Victorious Ones cannot please them all, how could an ordinary person like me do it? Therefore, I will let go of my thoughts about the world.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "an ordinary person like me",
+    "evidence": "\"an inferior one like me\" (self-deprecating, lowly), not merely ordinary.",
+    "fix": "someone as lowly as me"
+   }
+  ]
+ },
+ "8-40": {
+  "translation": "In the past, you sent many messengers to win their love. You did not hesitate to do harmful deeds or ruin your good name for them.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "to win their love",
+    "evidence": "Messengers were sent and many requests made for the sake of those people; \"winning their love\" is not stated.",
+    "fix": "In the past, you sent many messengers and made many requests for their sake."
+   }
+  ]
+ },
+ "8-52": {
+  "translation": "You are full of filth yourself. You carry it around all the time. Yet you still want other bags of filth. You desire them out of greed for filth.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "You carry it around all the time.",
+    "evidence": "The text says you constantly make use of (indulge in) your own impurity, not that you carry it.",
+    "fix": "You use it all the time."
+   }
+  ]
+ },
+ "8-60": {
+  "translation": "You do not even hate your own filth. But out of greed for filth, you also desire another bag of filth.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "You do not even hate your own filth.",
+    "evidence": "'Disparage' means look down on or find fault with; 'hate' is stronger.",
+    "fix": "You do not even look down on your own filth."
+   }
+  ]
+ },
+ "8-82": {
+  "translation": "A tiny fraction of that hardship could bring us to the state of a Buddha. A person full of desire goes through suffering worse than the way of acting for awakening. Yet they get no awakening at all.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "A tiny fraction of that hardship",
+    "evidence": "Says a ten-millionth fraction of that hardship; the number is lost.",
+    "fix": "Even a ten-millionth part of that hardship could bring us to the state of a Buddha."
+   }
+  ]
+ },
+ "8-87": {
+  "translation": "If I act on my own without clinging, I am not tied to anyone at all. The joy of being happy with enough is hard even for Indra to find.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "If I act on my own without clinging, I am not tied to anyone at all.",
+    "evidence": "A general description of one who acts independently and unattached, not a first-person 'if' statement; the verse before uses 'they'.",
+    "fix": "They act on their own without clinging and are not tied to anyone at all."
+   }
+  ]
+ },
+ "8-100": {
+  "translation": "A continuing stream and a collection of parts are not real things. They are just words, like a necklace or an army. Since no one truly owns suffering, who is there to control it?",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "They are just words",
+    "evidence": "Academic says the continuum and collection are 'false' (like a garland or army), not 'just words'; this adds a nominalist idea.",
+    "fix": "A continuing stream and a collection of parts are not real in themselves. They are like a necklace or an army."
+   }
+  ]
+ },
+ "8-104": {
+  "translation": "If facing one single suffering removes many other sufferings, a kind person should gladly accept it. They should be willing to bring about that suffering for themselves and others.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "should gladly accept it",
+    "evidence": "'Gladly' is not in the source; the verse says the compassionate one should certainly take on that suffering.",
+    "fix": "a kind person should certainly take on that suffering for themselves and others."
+   }
+  ]
+ },
+ "8-107": {
+  "translation": "When living beings are freed, there is an ocean of joy. Is that joy not enough? What is the use of wanting freedom just for myself?",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "just for myself",
+    "evidence": "The verse asks 'What is the use of desiring liberation?'; 'just for myself' is added interpretation.",
+    "fix": "What is the use of wanting freedom?"
+   }
+  ]
+ },
+ "8-126": {
+  "translation": "If I only wish to be great, I will be reborn in an unhappy realm as someone low and foolish. If I shift that wish to others, I will gain a happy realm and respect.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "only",
+    "evidence": "Source says wishing for oneself to be exalted; 'only' is not there.",
+    "fix": "If I wish to be great myself, I will be reborn in an unhappy realm as someone low and foolish."
+   }
+  ]
+ },
+ "8-130": {
+  "translation": "If I do not exchange my own happiness for the suffering of others, I will never reach the state of a Buddha. Even in the cycle of rebirth, I will find no happiness.",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "'Truly' exchange (yang dag par) is dropped.",
+    "fix": "If I do not truly exchange my own happiness for the suffering of others, ..."
+   }
+  ]
+ },
+ "8-132": {
+  "translation": "Out of confusion, I might cause suffering to others. This only brings me unbearable suffering. I throw away the perfect joy that brings happiness I can see and cannot see.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "I might cause suffering to others",
+    "evidence": "Academic: one abandons joy through the cause of inflicting suffering on others; the harm is a stated fact, not a possibility ('might').",
+    "fix": "Out of confusion, I cause suffering to others. This only brings me unbearable suffering, and I throw away the perfect joy that brings happiness I can see and cannot see."
+   }
+  ]
+ },
+ "8-164": {
+  "translation": "In short, think of any harm you have ever done to others for your own sake. Now, for the sake of all living beings, let that harm fall upon yourself.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "think of any harm you have ever done",
+    "evidence": "Academic: 'Whatever harm you have done to others... let that harm descend upon yourself' — a command to let the harm fall on oneself, not to recall it.",
+    "fix": "In short, whatever harm you have done to others for your own sake, let that same harm fall upon yourself, for the sake of all living beings."
+   }
+  ]
+ },
+ "8-167": {
+  "translation": "Even when I tell you what to do, if you do not listen, my mind, I must defeat you. All faults come from you, so I have no other choice.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "All faults come from you",
+    "evidence": "Academic: 'all faults rely upon you' (faults depend on / dwell in the mind), not that they originate from it; also 'do not act like that' is softened to 'do not listen'.",
+    "fix": "Even when I tell you what to do, if you, my mind, do not act that way, I must defeat you. All faults rely on you, so I have no other choice."
+   }
+  ]
+ },
+ "8-168": {
+  "translation": "That past time when you ruined me is over. Now I see you. Where will you go? I will destroy all your feeling superior.",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "I will destroy all your feeling superior.",
+    "evidence": "Ungrammatical use of the locked term as a noun phrase; Tibetan/academic: 'I shall destroy all your haughtiness'.",
+    "fix": "I will destroy all of your feeling superior, every bit of it."
+   }
+  ]
+ },
+ "8-171": {
+  "translation": "You have handed me over to suffering again and again. I have hurt for a long time. I remember those grudges. Now I will destroy your thoughts about your own good.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "handed me over to suffering",
+    "evidence": "The academic text says only \"handed me over time and again\"; no object such as suffering is stated.",
+    "fix": "You have handed me over again and again. I have suffered for a long time."
+   }
+  ]
+ },
+ "8-183": {
+  "translation": "So, without being attached, I will give up my body to help others. It has many faults. Still, I will keep it like a tool for doing good.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "a tool for doing good",
+    "evidence": "Academic: \"an instrument for action\" (ལས་ཀྱི་སྤྱད); \"for doing good\" is not stated.",
+    "fix": "I will keep it like a tool for getting things done."
+   }
+  ]
+ },
+ "9-4": {
+  "translation": "Even a meditation master has a different level of thinking mind. Higher masters prove the lower ones wrong. They use examples they both agree on. They do not question these examples because they just want a result.",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "Even a meditation master has a different level of thinking mind.",
+    "evidence": "Academic: yogis differ from one another in intellect, and are refuted by those successively higher; the children's line reads as if one master differs from something unnamed.",
+    "fix": "Meditation masters are not all equal in their thinking minds. A higher master proves a lower one wrong."
+   }
+  ]
+ },
+ "9-14": {
+  "translation": "Someone might say, \"Since even a Buddha would be trapped in the world, what is the use of the way of acting for awakening?\" I reply: As long as the unbroken flow of circumstances is not cut, even an illusion will not stop.",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "trapped in the world",
+    "evidence": "Academic: \"even a Buddha would cycle [in saṃsāra]\"; the locked term for འཁོར་བ is \"cycle of rebirth\", while \"world\" is locked for འཇིག་རྟེན.",
+    "fix": "Since even a Buddha would keep going around in the cycle of rebirth, what is the use of the way of acting for awakening?"
+   }
+  ]
+ },
+ "9-28": {
+  "translation": "But if a non-existent thing depends on a real thing, how could it do anything? Without anything outside it, your mind would have no companion. Your mind would become completely alone.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "Without anything outside it",
+    "evidence": "Academic: 'Your mind, without a companion, would become entirely solitary.' Nothing about 'outside it'.",
+    "fix": "Your mind would have no companion. It would be completely alone."
+   }
+  ]
+ },
+ "9-33": {
+  "translation": "When you say, \"This thing does not exist,\" and you cannot find the thing you are looking for, what happens? How can a non-existent thing without a base stay in front of the thinking mind?",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "the thing you are looking for",
+    "evidence": "Academic: 'the entity to be analyzed is not apprehended' (the thing being examined, not found).",
+    "fix": "and you look closely at the thing and cannot find it"
+   }
+  ]
+ },
+ "9-37": {
+  "translation": "In the same way, following the way of acting for awakening, the shrine of the Victorious One has been built. Even after the awakening hero passes away, it still achieves every goal.",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "passes away",
+    "evidence": "Tibetan/academic: the bodhisattva 'has passed into nirvāṇa' (mya ngan las 'das); the glossary renders this as 'freedom from sorrow' (as in 9-38).",
+    "fix": "Even after the awakening hero passes into freedom from sorrow, it still achieves every goal."
+   }
+  ]
+ },
+ "9-43": {
+  "translation": "Someone might say, \"We reject the Great Vehicle because people argue about it.\" But you argue with a non-Buddhist about your sacred text. You also argue with other groups about other sacred texts. Since people argue about them, you would have to throw them all away.",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "You also argue with other groups about other sacred texts.",
+    "evidence": "Academic: for other scriptures there is dispute 'with your own and other schools'; 'your own' groups is dropped.",
+    "fix": "You also argue about other sacred texts, both with your own groups and with other groups."
+   }
+  ]
+ },
+ "9-44": {
+  "translation": "If being a monk is the root of the teaching, even being a monk is hard to prove. For people whose minds are holding on to things, even freedom from sorrow is hard to reach.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "hard to reach",
+    "evidence": "Academic: nirvāṇa is 'difficult to establish', same wording as the monk clause ('hard to prove'); 'reach' shifts the point from establishing to attaining.",
+    "fix": "even freedom from sorrow is hard to prove"
+   }
+  ]
+ },
+ "9-46": {
+  "translation": "Someone might say it is certain that, for now, the wanting that causes holding on does not exist. Even if that wanting is not troubled by troubling emotion, why would it not exist? It would be just like confusion.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "It would be just like confusion.",
+    "evidence": "Academic: 'Why would it not exist, just like delusion?' - a comparison inside the question (craving exists just as delusion does), not a flat statement.",
+    "fix": "Why would it not exist, just as confusion still exists?"
+   }
+  ]
+ },
+ "9-48": {
+  "translation": "A mind that does not have emptiness will start up again even after it stops. It is like a deep meditation with no perceiving. Because of this, you should meditate on emptiness.",
+  "issues": [
+   {
+    "type": "doctrinal",
+    "severity": "minor",
+    "span": "does not have emptiness",
+    "evidence": "Academic: 'devoid of emptiness' means a mind without the realization of emptiness; 'does not have emptiness' suggests emptiness is something to possess.",
+    "fix": "A mind that has not understood emptiness will start up again even after it stops."
+   }
+  ]
+ },
+ "9-50": {
+  "translation": "You say that leaving out one text makes them all faulty. But what if one is like a true teaching text? Why are they not all spoken by the Victorious One?",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "a true teaching text",
+    "evidence": "Academic: 'a single one similar to a sūtra' - no 'true'.",
+    "fix": "what if just one is like a teaching text"
+   }
+  ]
+ },
+ "9-57": {
+  "translation": "Teeth, hair, and nails are not the self, and the self is not bones or blood. It is not mucus or phlegm, and it is not lymph or pus.",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "lymph",
+    "evidence": "Hard unexplained word for ages 8-12 (Tibetan chu ser, a body fluid).",
+    "fix": "a watery body fluid"
+   }
+  ]
+ },
+ "9-65": {
+  "translation": "Someone might say it is like an actor playing a new part. But if that thing changes, it is not lasting forever. If that new part is the exact same thing, then this kind of oneness is completely unheard of.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "Someone might say it is like an actor playing a new part.",
+    "evidence": "The verse is Santideva's own reply: if the thing is seen in another mode like an actor, it is not permanent; nobody is quoted as an opponent here.",
+    "fix": "If it is like an actor who shows up in a new way, then we see it changing, so it is not lasting forever."
+   }
+  ]
+ },
+ "9-68": {
+  "translation": "A thing without a mind is not the self. It is just like a vase. But you might say it knows things because it gets a mind. Then the thing that did not know anything before would be destroyed.",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "A thing without a mind is not the self. It is just like a vase.",
+    "evidence": "The reason is given: it is not the self because it is mindless, like a vase and so on.",
+    "fix": "A thing without a mind is not the self, because it has no mind, just like a vase."
+   }
+  ]
+ },
+ "9-103": {
+  "translation": "It is not the body, and it is not anywhere else. It is not mixed with anything, and it is not separate. It is nothing at all. Because of this, every living being is in freedom from sorrow by nature.",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "It is not the body, and it is not anywhere else. ... It is nothing at all.",
+    "evidence": "The subject is the mind of the previous verse; with no named subject, 'It is nothing at all' can read as a claim that nothing exists.",
+    "fix": "The mind is not the body, and it is not anywhere else. It is not mixed with anything, and it is not separate. It cannot be found as anything at all."
+   }
+  ]
+ },
+ "9-108": {
+  "translation": "Imagining and the thing imagined depend on each other. We can only share our careful examinations by relying on what people already know.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "We can only share our careful examinations",
+    "evidence": "\"All analyses are expressed\" relying on what is commonly known; no \"only\" and no idea of sharing.",
+    "fix": "Every careful examination is spoken by relying on what people already know."
+   }
+  ]
+ },
+ "9-126": {
+  "translation": "People who believe in a never-changing atom have already been proven wrong. The Samkhya thinkers say that a never-changing Primal Matter is the cause of beings.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "a never-changing atom",
+    "evidence": "\"permanent atoms\" (plural: those who assert never-changing atoms).",
+    "fix": "People who believe in never-changing atoms have already been proven wrong."
+   }
+  ]
+ },
+ "9-131": {
+  "translation": "You might say happiness and other feelings come from things like cloth. Since those things do not exist, happiness does not exist either. Also, we never see happiness as something never-changing.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "You might say",
+    "evidence": "The verse states \"Happiness and so forth arise from cloth and so forth\" without framing it as an opponent's claim; the next line then draws the conclusion.",
+    "fix": "Happiness and other feelings would come from things like cloth. Since those things do not exist, happiness does not exist either."
+   }
+  ]
+ },
+ "9-144": {
+  "translation": "Sometimes a thing is seen only because something else is near. When that other thing is gone, it is not seen. It is made up, just like a reflection. How could being truly real happen in that?",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "Sometimes a thing is seen",
+    "evidence": "\"Whatever is seen through the proximity of something\" - applies to anything, not just some cases.",
+    "fix": "Whatever is seen only because something else is near, and is not seen when that is gone, is made up, like a reflection."
+   }
+  ]
+ },
+ "9-146": {
+  "translation": "Even millions of causes cannot change a non-existent thing. How could a non-existent thing ever become real? And what else could become a thing?",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "Even millions of causes",
+    "evidence": "Tibetan/academic: hundreds of millions of causes (བྱེ་བ་བརྒྱ་ཕྲག); the number is scaled down.",
+    "fix": "Even hundreds of millions of causes cannot change a non-existent thing."
+   }
+  ]
+ },
+ "9-149": {
+  "translation": "So, there is no stopping, and there is no thing. Therefore, all these beings are always never born and never ending.",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "all these beings are always never born and never ending",
+    "evidence": "Double adverb/negation is tangled for ages 8-12; academic: always unborn and unceasing.",
+    "fix": "Therefore all these beings are always never born and never ending."
+   }
+  ]
+ },
+ "9-154": {
+  "translation": "I hope people like me completely understand that everything is like space. People who want happiness for themselves find causes for fighting and excitement.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "find causes for fighting and excitement",
+    "evidence": "Academic: those who desire happiness for themselves, through causes of conflict and excitement, (next verse) become greatly agitated and delighted; the causes act on them, they do not 'find' them.",
+    "fix": "People who want happiness only for themselves are stirred up by fighting and excitement"
+   }
+  ]
+ },
+ "9-157": {
+  "translation": "In life, there are many steep cliffs. There, what is not the way things really are is like this. Because things clash with each other there, in life there is no such thing as the way things really are.",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "There, what is not the way things really are is like this. Because things clash with each other there, in life there is no such thing as the way things really are.",
+    "evidence": "Tangled, abstract sentences; academic: what is not reality is like this; because of mutual contradiction there, there is no such reality in existence.",
+    "fix": "Life has many steep cliffs, and what is false looks like this. Because things clash with each other, there is no true way things really are in life."
+   }
+  ]
+ },
+ "9-158": {
+  "translation": "In that place, the ocean of suffering is huge and too hard to bear. It has no edge. There, people have very little strength, and their lives are short.",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Academic: 'incomparable' (དཔེ་མེད) ocean of suffering is lost; 'huge' replaces it.",
+    "fix": "In that place, the ocean of suffering has nothing to compare with it, is too hard to bear, and has no edge."
+   }
+  ]
+ },
+ "10-15": {
+  "translation": "Through my roots of good deeds, may the living beings of hell see Samantabhadra and other awakening heroes. These heroes bring happy clouds and let a cool, sweet-smelling rain fall. When the living beings see this, may they be filled with joy.",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Academic: the bodhisattvas' clouds are 'unobstructed' (སྒྲིབ་པ་མེད); this is dropped.",
+    "fix": "These heroes bring happy clouds that nothing blocks, and let a cool, sweet-smelling rain fall."
+   }
+  ]
+ },
+ "10-20": {
+  "translation": "May poor people find wealth. May very sad people find joy. May those who feel hopeless get their spirit back and become perfectly strong.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "become perfectly strong",
+    "evidence": "'attain perfect steadfastness' (stable, firm in mind), not physical strength",
+    "fix": "and become perfectly steady and firm"
+   }
+  ]
+ },
+ "10-29": {
+  "translation": "May any living beings who lack brightness shine with great brightness. May any persons of hard practice who look weak get beautiful and perfect bodies.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "who look weak",
+    "evidence": "'poor forms' means unattractive appearance, not weakness",
+    "fix": "who look plain get beautiful and perfect bodies"
+   }
+  ]
+ },
+ "10-30": {
+  "translation": "May all the women in the world become men. May lowly people reach high places, but may their pride be defeated.",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "reach high places",
+    "evidence": "'attain high status' (rank), not physical places",
+    "fix": "reach high status"
+   }
+  ]
+ },
+ "10-58": {
+  "translation": "A good thinking mind comes from his kindness. I bow down to Manjushri. I have grown because of his kindness. I also bow down to the good friend.",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "A good thinking mind comes from his kindness. ... I have grown because of his kindness.",
+    "evidence": "'Through whose kindness' refers to Manjushri in the first pair and to the good friend in the second; the children's text uses 'his' before either person is named, so the second 'his' reads as Manjushri rather than the good friend.",
+    "fix": "Thanks to Manjushri's kindness, a good thinking mind comes to me. I bow down to Manjushri. Thanks to the good friend's kindness, I have grown. I also bow down to the good friend."
+   }
+  ]
+ },
+ "b-3": {
+  "translation": "Even later, it was carefully fixed, translated, and perfectly finished by the Indian teacher who ordained me, Sumatikirti, and the chief editor-translator, the monk Loden Sherab.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "carefully fixed",
+    "evidence": "The academic translation says 'correctly revised' (dag par bcos), meaning corrected to be accurate, not done with care.",
+    "fix": "Even later, it was fixed so it was correct, translated, and perfectly finished by ..."
+   }
+  ]
+ }
+}

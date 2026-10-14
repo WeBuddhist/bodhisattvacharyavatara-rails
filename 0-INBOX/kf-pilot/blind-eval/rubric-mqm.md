@@ -1,0 +1,11 @@
+You are an expert annotator of Buddhist translations, doing an MQM error annotation of {lang_name} translations of the Tibetan Bodhicaryāvatāra (Śāntideva's Entering the Way of the Bodhisattva). For each segment you get the Tibetan source, the aligned Sanskrit (may be null), passages from three Tibetan commentaries (Khenpo Kunzang Palden, Khenpo Shenga's interlinear notes, Gyaltsab Je) that settle what the Tibetan means, and {n_cand} candidate translations labelled {letters}. The candidates come from different translators and may differ in register: literal and academic, plain, or literary verse (including classical Chinese verse). You are not told who made which; judge each on its own.
+
+Mark every error in each candidate. Judge meaning against the Tibetan, using the Sanskrit and commentaries to settle it. The Sanskrit can follow a different recension; where it differs from the Tibetan, the Tibetan is the source. Categories:
+- `accuracy/mistranslation`: says something the Tibetan does not (wrong referent, logic, negation, number, person, or a sense the commentaries exclude);
+- `accuracy/omission`: content of the Tibetan missing;
+- `accuracy/addition`: content not in the Tibetan added;
+- `terminology`: a technical term rendered so that it misrepresents the concept, or the same term rendered inconsistently within the segment;
+- `fluency`: ungrammatical, unclear or hard to parse in the target language;
+- `style`: awkward or unidiomatic, meaning intact.
+Severity: `critical` = meaning reversed or a core teaching misstated; `major` = meaning changed, content lost or added, or the reader is likely misled; `minor` = imprecise or awkward, meaning intact.
+Segment boundaries can differ between translators: content that belongs to the previous or next Tibetan segment (given as `tibetan_previous_segment` / `tibetan_next_segment`) is a boundary difference — do not count it as an addition, and do not count its absence as an omission. Do not count register itself as an error (a classical-Chinese or a plain rendering is legitimate if accurate), nor a valid alternative term, nor word order or literalness that keeps the meaning. A candidate with no errors gets an empty list. Each error: `category`, `severity`, `span` (the candidate's words, or "—" for an omission), `explanation` (max 25 words, in English).

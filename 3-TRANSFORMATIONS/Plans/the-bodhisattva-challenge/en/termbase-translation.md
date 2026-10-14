@@ -283,3 +283,41 @@ a signal that the review step is not happening.
 | རྒྱུ་ལོང་              | intestines (tentative)                                                                   | Day 97     | pending |
 | རྒྱུས་པ                | sinews                                                                                   | Day 98     | pending |
 | མདོ་སྡེའི་རྒྱན་ | the _Ornament of the Sutras_ | Day 100    | pending |
+| སྲིད་པའི་མཚོ་          | the ocean of samsara (སྲིད་པ་ rendered as samsara)          | Day 101    | pending |
+| གཟུགས་སྐུ་             | the form body of a buddha                                   | Day 101    | pending |
+| ཕྱིན་དྲུག་             | the six perfections                                         | Day 101    | pending |
+| ཁྲོ་གཉེར་              | frowning                                                    | Day 101    | pending |
+| སྒོ་མོ་དལ་གྱིས་རྒྱག་པ  | closing doors gently (tentative; could also mean knocking)  | Day 101    | pending |
+| ཏཱ་ལའི་བླ་མ་           | His Holiness the Dalai Lama (project convention)            | Day 102    | pending |
+| ཏིང་ངེ་འཛིན་གྱི་ཚེར་མ་ | the thorns of deep meditative concentration (literal)       | Day 102    | pending |
+| སྟོན་པ་                | the Buddha (the Teacher, identified as the Buddha)          | Day 102    | pending |
+| གྭ་རྒྱ་ལྦ་             | gwa, gya and lba (left untranslated; meaning not confirmed) | Day 103    | pending |
+| གྲྭ་རྒན་               | old monk                                                    | Day 103    | pending |
+| ལྟས་ངན་                | bad omen                                                    | Day 103    | pending |
+| དེད་དཔོན་སྙིང་རྗེ་ཆེན་པོ་  | the caravan leader Great Compassion (tentative; treated as a name)               | Day 106    | pending |
+| མི་ནག་མདུང་ཐུང་ཅན          | a bad man with a short spear (tentative; མི་ནག may also mean a dark-skinned man) | Day 106    | pending |
+| བྲམ་ཟེའི་ཁྱེའུ་སྐར་མ       | the young brahmin Star (tentative; name rendered literally)                      | Day 106    | pending |
+| ཚོགས་འདུམས་པ               | completed the accumulation (tentative; the verb འདུམས་ is unclear)               | Day 106    | pending |
+| ལོག་པར་ལྟུང་བ              | those who have fallen into wrong ways (tentative)                                | Day 107    | pending |
+| བརྟུལ་ཞུགས་                | those who keep strict discipline (tentative)                                     | Day 107    | pending |
+| བསོད་སྙོམས་                | alms                                                                             | Day 107    | pending |
+| ཆོས་གོས་གསུམ               | the three Dharma robes                                                           | Day 107    | pending |
+| འདོད་ཆགས་                  | desire (tentative)                                                               | Day 107    | pending |
+| ཁྲིམས་ལྡན་                 | with ethics (tentative)                                                          | Day 108    | pending |
+| མདོ་སྡེ་དཀོན་མཆོག་བརྩེགས་པ | the _Heap of Jewels Sutra_ (tentative; Sanskrit title Ratnakuta not confirmed)   | Day 109    | pending |
+| ཐེག་པ་དམན་པ                | the lesser vehicle                                                               | Day 109    | pending |
+| ནམ་མཁའ་མཛོད་ཀྱི་མདོ   | the _Akashagarbha Sutra_ (tentative; spelled ནམ་མཁའ་མཛོད་ here and ནམ་མཁའི་སྙིང་པོ་ on Day 115, assumed to be the same sutra) | Day 112    | pending |
+| ཕུང་པོ་གསུམ་པ         | the _Three Aggregates Sutra_ (as in the verse source)                                                                         | Day 112    | pending |
+| བདུད་ཀྱིས་གླགས་རྙེད་པ | Mara finds an opening                                                                                                         | Day 112    | pending |
+| དཔུང་བཟང་             | the _Good Arm_ (a cited work; literal rendering, identification not confirmed)                                                | Day 113    | pending |
+| བླ་མེད་བྱང་ཆུབ་       | unsurpassed awakening                                                                                                         | Day 113    | pending |
+| གཞོན་ནུ་དཔལ་འབྱུང་    | the young man Paljung (name rendered as in the verse source)                                                                  | Day 114    | pending |
+| བཤེས་གཉེན་            | spiritual friend                                                                                                              | Day 114    | pending |
+| དགེ་བའི་བཤེས་གཉེན་    | good spiritual friend                                                                                                         | Day 114    | pending |
+| སྡེ་སྣོད་             | scriptures (tentative)                                                                                                        | Day 114    | pending |
+| མདོ་སྡེ་ཕལ་པོ་ཆེ      | the _Avatamsaka Sutra_ (tentative)                                                                                            | Day 115    | pending |
+| དཀོན་མཆོག་སྤྲིན       | the _Jewel Cloud Sutra_ (tentative)                                                                                           | Day 115    | pending |
+| ཕལ་ཆེན་པོ་ཏི་དྲུག     | the six volumes of the Avatamsaka (tentative)                                                                                 | Day 115    | pending |
+| རྩ་ལྟུང་              | root downfalls                                                                                                                | Day 115    | pending |
+| འཇུག་སྡོམ་            | the engaging vow (tentative)                                                                                                  | Day 115    | pending |
+| བློན་པོའི་གཅིག        | one for ministers (the Tibetan says only 'one'; unclear)                                                                      | Day 115    | pending |

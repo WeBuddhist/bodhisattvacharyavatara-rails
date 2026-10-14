@@ -1,0 +1,62 @@
+{
+ "1-22": {
+  "translation": "一一有情之不適，\n欲將無量皆消除，\n且於一一無量功德，\n欲令成就何須言？",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "且於一一無量功德，欲令成就",
+    "evidence": "Tibetan \"སེམས་ཅན་རེ་རེའི་མི་བདེ་བ། … རེ་རེའང་ཡོན་ཏན་དཔག་མེད་དུ། བསྒྲུབ་པར་འདོད་པ\" : \"each (sentient being) ... wishing to accomplish [each of them] as having immeasurable qualities\". རེ་རེ refers to each sentient being, not to each quality. bo-kunpal 1-22: \"དེ་དག་རེ་རེ་ལའང་ ... ཡོན་ཏན་དཔག་ཏུ་མེད་པ་དང་ལྡན་པ་ཉིད་དུ་བསྒྲུབ་པར་འདོད་པ\"; bo-gyaltsab 1-22: \"སེམས་ཅན་རེ་རེའང་སངས་རྒྱས་ཀྱི་ཡོན་ཏན་དཔག་མེད་ཅན་དུ་བསྒྲུབ་པར་འདོད་པ\". The Chinese makes 一一 modify 功德 and leaves the beneficiary of 成就 unstated.",
+    "fix": "且欲令彼一一有情成就無量功德"
+   }
+  ]
+ },
+ "2-27": {
+  "translation": "於安住一切方所之\n正等覺者與菩提心、\n具大悲之諸尊前，\n我合掌如此祈請：",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "正等覺者與菩提心、",
+    "evidence": "Tibetan 'རྫོགས་སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས། ཐུགས་རྗེ་ཆེན་པོ་མངའ་རྣམས་ལ' uses བྱང་ཆུབ་སེམས as an abbreviation of བྱང་ཆུབ་སེམས་དཔའ (bodhisattvas): Sanskrit 'bodhisattvān'; bo-shenga 2-27 'ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐུགས་རྗེ་ཆེན་པོ་མངའ་བ'; bo-kunpal 2-27 'བྱང་ཆུབ་སེམས་དཔའ་ཆེན་པོ་ཐུགས་སྙིང་རྗེ་ཆེན་པོ་མངའ་བ'. The addressees are beings 'who possess great compassion'; the Chinese makes 'bodhicitta' (a mental state) one of the beings residing in all directions and addressed in prayer. The locked 菩提心 does not fit this occurrence.",
+    "fix": "於安住一切方所之正等覺者與菩薩，具大悲之諸尊前"
+   }
+  ]
+ },
+ "4-31": {
+  "translation": "此強有力煩惱敵，\n遇之縱使須彌山，\n亦連灰燼皆不留，\n將我剎那擲彼中。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "遇之縱使須彌山，亦連灰燼皆不留，將我剎那擲彼中",
+    "evidence": "The relative \"གང་དང་ཕྲད་ན\" and the correlative \"དེར\" (\"there\") refer to the Avici fire: Kunpal 4-31 \"དམྱལ་བའི་མེ་གང་དང་འཕྲད་ན་... རི་རབ་ཀྱང་... ཐལ་བ་ཙམ་ཡང་མི་ལུས་པར་བསྲེག་པར་ནུས་པ་ཡི་དམྱལ་བ་མནར་མེད་པའི་མེ་ནང་དེར་བདག་... འདོར་བར་བྱེད་\"; Shenga 4-31 and Gyaltsab 4-31 likewise \"མནར་མེད་པའི་མེ་ནང་དེར\". Sanskrit \"meror api yad āsaṅgāt ... kṣipanti māṃ tatra\". The translation instead has Mount Meru meeting the enemy (\"遇之\" = encountering the affliction-enemy) and leaves \"擲彼中\" with no antecedent, so the fire/place into which one is cast is lost.",
+    "fix": "（煩惱）此強力之敵，一剎那間將我擲入彼處——縱使須彌山一遇之，亦連灰燼皆不留（之無間獄火中）"
+   }
+  ]
+ },
+ "8-150": {
+  "translation": "據聞此一煩惱者，\n竟欲與我共競爭，\n然彼於聞或般若、\n色貌種姓財等我？",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "此一煩惱者",
+    "evidence": "'ཉོན་མོངས་འདི་ཡང་' here means 'this wretched one': bo-shenga 8-150 'ཉོན་མོངས་ཏེ་དམན་པ་འདི་ཡང་' (ཉོན་མོངས་ glossed as དམན་པ 'inferior'); Sanskrit 'vārakasya' (poor wretch); english_academic 'this miserable one'. 煩惱者 reads it as a person of afflictions and loses the contrast of inferiority with the superior self.",
+    "fix": "此可憐之輩"
+   }
+  ]
+ },
+ "9-83": {
+  "translation": "是故無身，於手等，\n因愚昧而生身想；\n由於形狀排列之特徵，\n如於石堆生人想。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "石堆",
+    "evidence": "Tibetan ཐོ་ཡོར་ལ་ནི་མི་བློ་བཞིན renders Sanskrit स्थाणौ पुरुषबुद्धिवत् (sthāṇu = a stump/post); the example is a stump or post mistaken for a person because of its shape (bo-kunpal 9-83: མི་དང་འདྲ་བའི་དབྱིབས་སུ་བཀོད་པའི་ཁྱད་པར་ ... ཐོ་ཡོར་ལ་ ... མི་རུ་འཁྲུལ་པའི་བློ). english_academic has 'stump'. A heap of stones is not the exemplum.",
+    "fix": "如於木樁生人想"
+   }
+  ]
+ }
+}

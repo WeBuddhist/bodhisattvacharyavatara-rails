@@ -1,0 +1,269 @@
+{
+ "batch": "batch-04",
+ "segments": [
+  {
+   "id": "3-15",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "मुझसे जुड़कर",
+     "evidence": "Academic: 'taking me as the object/focus' (आलम्बन बनाकर) - anger or faith arising with me as its object; 'जुड़कर' (connected to me) is vaguer.",
+     "fix": "मुझे देखकर या मेरे बारे में सोचकर जिसके भी मन में गुस्सा या भरोसा पैदा हो, वही हमेशा उनके सारे काम पूरे करने का कारण बन जाए।"
+    }
+   ]
+  },
+  {
+   "id": "3-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-22",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "एक-एक करके",
+     "evidence": "Tibetan/academic: 'in stages, gradually' (क्रमशः); 'एक-एक करके' suggests one by one (individually), not step by step.",
+     "fix": "और वे धीरे-धीरे, कदम-दर-कदम जागृति-वीर के अभ्यास में लगे रहे।"
+    }
+   ]
+  },
+  {
+   "id": "3-23",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "एक-एक करके उनका अभ्यास करूँगा",
+     "evidence": "Academic: 'I will train gradually in those trainings' (क्रमशः अभ्यास); 'उनका' follows 'प्राणियों' so it can be read as the beings' practice, and 'एक-एक करके' is not 'step by step'.",
+     "fix": "और मैं भी उसी तरह जागृति-वीर के अभ्यास को धीरे-धीरे, कदम-दर-कदम सीखूँगा।"
+    }
+   ]
+  },
+  {
+   "id": "3-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-33",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "प्राणियों को भली-भाँति गए हुए बनने तक और रास्ते में सुख पाने के लिए मेहमान के रूप में बुला लिया है",
+     "evidence": "Academic: beings invited to Sugatahood itself and, in between, to happiness; the children's sentence is tangled, and 'बनने तक' turns the goal (sugatahood) into a time limit.",
+     "fix": "आज मैंने सभी बचाने वालों के सामने प्राणियों को मेहमान बनाकर बुला लिया है। उन्हें भली-भाँति गए हुए की अवस्था तक पहुँचाना है, और बीच रास्ते में भी सुख देना है।"
+    }
+   ]
+  },
+  {
+   "id": "3-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-7",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "किए हुए काम का यह तरीका बहुत अनोखा है",
+     "evidence": "Academic: this is the inconceivable (अचिन्त्य) way of karma, known only to the omniscient; 'बहुत अनोखा' (very unusual) loses 'beyond thought'.",
+     "fix": "किए हुए काम का यह तरीका हमारी सोच से परे है।"
+    }
+   ]
+  },
+  {
+   "id": "4-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-11",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "अगर मेरी भारी गिरावट और मज़बूत जागृति का मन, ये दोनों बार-बार जन्म के चक्र में मिलते रहें, तो अगले पड़ाव तक",
+     "evidence": "Academic: strong downfall and strong bodhicitta mixed 'in turn' (बारी-बारी से) in samsara, delaying attainment of a bhumi; the children's text adds 'मेरी' and 'अगले', and 'बार-बार' loses the alternation.",
+     "fix": "अगर भारी गिरावट और मज़बूत जागृति का मन, दोनों बारी-बारी से जन्म के चक्र में आते रहें, तो पड़ाव तक पहुँचने में बहुत समय लगेगा।"
+    }
+   ]
+  },
+  {
+   "id": "4-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-16",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "आज का दिन बिना किसी बीमारी के बीता है।",
+     "evidence": "Tibetan/academic: 'such a healthy day' (ऐसा नीरोग दिन), with food and no harm - a general example, not a report that today has passed; the concessive 'even though' is split into separate facts.",
+     "fix": "ऐसा दिन भी हो सकता है जब कोई बीमारी न हो, खाना हो और कोई परेशानी भी न हो। फिर भी यह उम्र पल भर में धोखा दे जाती है।"
+    }
+   ]
+  },
+  {
+   "id": "4-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "मैं घबरा जाऊँगा",
+     "evidence": "Academic: 'completely bewildered/deluded (पूर्णतः मूढ़) by the suffering of bad rebirths'; 'घबरा जाना' (panic) is not bewilderment.",
+     "fix": "दुखद जन्म के दुख में मैं बिल्कुल उलझन में पड़ जाऊँगा।"
+    }
+   ]
+  },
+  {
+   "id": "4-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-20",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

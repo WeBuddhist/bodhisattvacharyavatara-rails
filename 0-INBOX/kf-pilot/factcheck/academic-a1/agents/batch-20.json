@@ -1,0 +1,137 @@
+{
+ "batch": "batch-20",
+ "segments": [
+  {
+   "id": "6-82",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Will you not be glad, but instead become angry?",
+     "evidence": "དགར་མི་འགྱུར་བར་སླར་ཁྲོའམ། is \"instead of being glad, do you (rather) get angry?\" (bo-shenga 6-82: དགའ་བར་མི་འགྱུར་བར་སླར་དེ་ལ་ཁྲོའམ་ཅི། ; Skt na hṛṣyasi prakupyasi). The English \"Will you not be glad\" can be read as asking whether you will be glad.",
+     "fix": "Instead of being glad, do you become angry in return?"
+    }
+   ]
+  },
+  {
+   "id": "6-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-84",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-85",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Not taking hold of the gains that occur,",
+     "evidence": "རྙེད་པ་གྱུར་པ་མི་འཛིན་པ། is explained as not holding the causes that bring gain (bo-kunpal 6-85: རྙེད་པ་ཕུན་སུམ་ཚོགས་པ་ཐོབ་པར་གྱུར་པ་ཡི་རྒྱུ་དེ་དག་མི་འཛིན་པ; bo-gyaltsab: རྙེད་པ་ཐོབ་པར་འགྱུར་བའི་རྒྱུ་མི་འཛིན་པ). The English reads as failing to take gains already received; also the object of the anger (oneself) is left unstated (bo-gyaltsab: ཁྲོ་ན་རང་ཉིད་ལ་ཁྲོ་བར་རིགས་སོ།).",
+     "fix": "Not holding on to what would bring you gains, tell me, why are you not angry at yourself?"
+    }
+   ]
+  },
+  {
+   "id": "6-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-89",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "an unbearable barb",
+     "evidence": "མི་བཟད་གཟེ། means unbearable and fierce/terrible (bo-kunpal: གཟེ་བའམ་རྣོ་བ; bo-shenga: འཇིགས་པའི་གནས་ཡིན་པས་མི་བཟད་པར་གཟེ་བ; Skt ghora). \"Barb\" is not what གཟེ conveys and \"hook ... barb\" is redundant.",
+     "fix": "is unbearable and terrible"
+    }
+   ]
+  },
+  {
+   "id": "6-90",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-91",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-94",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "the renown that \"Others are pleased with me,\"",
+     "evidence": "བདག་ལ་གཞན་དགའ་ཞེས་གྲགས་པ། here grags pa is \"being said/known\" that another is pleased (bo-shenga 6-94: བདག་ལ་གཞན་བསྟོད་པར་བྱེད་པ་དེ་དགའ་བ་ཡིན་ཞེས་གྲགས་པ), not \"renown\" in the sense of fame (the glossary sense of གྲགས་པ).",
+     "fix": "the fact that it is said, \"Others are pleased with me,\""
+    }
+   ]
+  },
+  {
+   "id": "6-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-101",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

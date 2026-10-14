@@ -1,0 +1,277 @@
+{
+ "batch": "batch-08",
+ "segments": [
+  {
+   "id": "5-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-96",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "朝著想去的方向躺下",
+     "evidence": "Tibetan/academic: lie down facing the direction one likes (所欲之方), not a direction one wants to travel to.",
+     "fix": "朝著自己喜歡的方向躺下"
+    }
+   ]
+  },
+  {
+   "id": "5-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-99",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "不管是我自己決定，還是聽別人的話。在任何情況下，不管做什麼事。",
+     "evidence": "Academic: one long conditional sentence (whether controlled by self or others, in any situation, whatever one does, train then); the children's text breaks it into ungrammatical fragments.",
+     "fix": "不管是我自己決定，還是聽別人的話，不管在什麼情況下、做什麼事，只要是教導過的方法，我都應該在那個時候努力修學。"
+    }
+   ]
+  },
+  {
+   "id": "5-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-101",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "為了覺悟，我要將一切都用來分享好事",
+     "evidence": "Academic: dedicate everything toward awakening (迴向於菩提), solely for beings' benefit; the children's text makes 'for awakening' a purpose of sharing and loses that everything is dedicated to awakening.",
+     "fix": "完全只為了幫助眾生，我要把所做的一切好事，都分享出去，讓大家都能走向覺悟。"
+    }
+   ]
+  },
+  {
+   "id": "5-102",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "堅持菩薩最好的嚴格的修行",
+     "evidence": "Academic: holders of the supreme bodhisattva vow-discipline; stacked modifiers are clumsy for children.",
+     "fix": "堅持菩薩最殊勝的嚴格修行"
+    }
+   ]
+  },
+  {
+   "id": "5-103",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-104",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-105",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-107",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-109",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "經過漫長歲月累積的好行為",
+     "evidence": "Tibetan/academic: accumulated over a thousand kalpas (千劫); the number 'thousand' is lost, though 'long time' remains.",
+     "fix": "經過一千個漫長歲月累積的好行為"
+    }
+   ]
+  },
+  {
+   "id": "6-2",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "可怕的有害的行為",
+     "evidence": "Awkward stacked 的 phrases; academic: no sin like hatred.",
+     "fix": "沒有像憎恨這樣有害的行為"
+    }
+   ]
+  },
+  {
+   "id": "6-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "因為主人的財富和尊敬，得到恩惠而跟隨他",
+     "evidence": "Academic: followers who rely on the master having received his kindness through wealth and honor (the master gave wealth and respect); the children's wording can be read as the master's own wealth and prestige attracting people.",
+     "fix": "有些人得到主人給的財富和尊敬，受過他的恩惠，因此跟隨他"
+    }
+   ]
+  },
+  {
+   "id": "6-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-15",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "我們早就忍受過這些沒有意義的痛苦了",
+     "evidence": "Academic: 'why do you not see these meaningless sufferings?'; the claim that we have already endured them is added, and the first sentence is a fragment.",
+     "fix": "毒蛇、飛蟲、飢餓、口渴、皮膚發癢，這些沒有意義的痛苦，你為什麼沒有看見呢？"
+    }
+   ]
+  },
+  {
+   "id": "6-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-21",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "它讓我們感到難過",
+     "evidence": "Academic: through weariness/disillusionment (厭離) pride is dispelled; 'feeling sad' is imprecise.",
+     "fix": "它讓我們對輪迴感到厭倦"
+    }
+   ]
+  }
+ ]
+}

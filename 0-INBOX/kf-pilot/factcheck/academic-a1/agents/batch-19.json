@@ -1,0 +1,129 @@
+{
+ "batch": "batch-19",
+ "segments": [
+  {
+   "id": "6-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-66",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "To embodied beings, beings with a mind\nAnd the insentient both cause harm;",
+     "evidence": "ལུས་ཅན་རྣམས་ལ་སེམས་ཡོད་དང་། སེམས་མེད་གཉི་གས་གནོད་བྱས་ན། — 'embodied beings' are the recipients of harm; 'sentient' (སེམས་ཡོད) and 'insentient' (སེམས་མེད) are the two agents (bo-shenga 6-66: སེམས་ཅན་རྣམས་ལ་སེམས་ཡོད་པའི་འགྲོ་བ་དང་སེམས་མེད་པའི་ནད་ལ་སོགས་པ་གཉིས་ཀས་གནོད་པར་བྱས་ན). The English comma lets 'beings with a mind' read in apposition to 'embodied beings'.",
+     "fix": "If both beings with a mind\nand the insentient cause harm to embodied beings;"
+    }
+   ]
+  },
+  {
+   "id": "6-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-71",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "whatever the mind has attachment to,\nCausing the fire of hatred to spread,",
+     "evidence": "གང་ལ་སེམས་ཆགས་ནས། ཞེ་སྡང་མེ་ནི་མཆེད་གྱུར་པ། — the fire of hatred has spread (intransitive, མཆེད་གྱུར་པ) onto the object of attachment (bo-gyaltsab 6-71: ཆགས་པའི་གཞི་དེ་ནི...). The dangling participle 'Causing' obscures what causes what.",
+     "fix": "whatever the mind is attached to, in which the fire of hatred has spread,"
+    }
+   ]
+  },
+  {
+   "id": "6-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-78",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "The line begins གཞན་ཡང་དེ་ལྟར་བདེ་འགྱུར་ཞེས། ('Moreover / Furthermore'); the English drops གཞན་ཡང་, which marks this as a further argument (bo-gyaltsab 6-78 repeats གཞན་ཡང་).",
+     "fix": "Moreover, thinking, \"In that way, the other will be happy,\""
+    }
+   ]
+  },
+  {
+   "id": "6-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-81",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

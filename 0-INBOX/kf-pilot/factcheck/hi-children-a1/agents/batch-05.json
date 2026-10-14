@@ -1,0 +1,293 @@
+{
+ "batch": "batch-05",
+ "segments": [
+  {
+   "id": "4-21",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "मैंने तो बार-बार जन्म के चक्र में बहुत से",
+     "evidence": "The sins were accumulated in beginningless (anādi) samsara; \"beginningless\" is lost, leaving only \"many\".",
+     "fix": "मैंने तो जिसकी कोई शुरुआत नहीं, उस बार-बार जन्म के चक्र में बहुत से नुकसान पहुँचाने वाले काम जमा किए हैं।"
+    }
+   ]
+  },
+  {
+   "id": "4-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-24",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "The delay/laziness is \"through delusion\" (मूढ़तावश); the cause (delusion/confusion) is not mentioned.",
+     "fix": "यह सब समझने के बाद भी अगर मैंने मूर्खता के कारण आलस किया, तो मरने के समय मुझे बहुत दुख होगा।"
+    }
+   ]
+  },
+  {
+   "id": "4-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-33",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "तो सब फायदा और सुख देते हैं",
+     "evidence": "Subject of \"give benefit and happiness\" is unclear for a child (those who are served agreeably, as opposed to afflictions); \"सब\" has no referent.",
+     "fix": "अगर अपनों की अच्छी तरह सेवा की जाए, तो वे सब फायदा और सुख देते हैं।"
+    }
+   ]
+  },
+  {
+   "id": "4-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-35",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "बार-बार जन्म का चक्र रूपी जेल के रक्षक",
+     "evidence": "Tibetan/academic: guards of the prison of samsara. \"चक्र रूपी जेल\" is ungrammatical and \"रूपी\" is too hard for ages 8-12; \"ये\" (the afflictions) is also left unnamed.",
+     "fix": "ये परेशान करने वाली भावनाएँ बार-बार जन्म के चक्र की जेल के रक्षक हैं।"
+    }
+   ]
+  },
+  {
+   "id": "4-36",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "घमंड वाले लोग ज़रा सा नुकसान होने पर भी गुस्सा हो जाते हैं। वे उस दुश्मन को",
+     "evidence": "Proud people are given as an example (उदाहरणार्थ) of someone angry even at a slight harm-doer; the example marker is lost and \"उस दुश्मन\" can be mistaken for the affliction-enemy.",
+     "fix": "जैसे घमंडी लोग ज़रा सा नुकसान पहुँचाने वाले पर भी गुस्सा हो जाते हैं, और उसे हराए बिना सोते नहीं हैं।"
+    }
+   ]
+  },
+  {
+   "id": "4-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-39",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "गहनों की तरह दिखाते हैं",
+     "evidence": "Wounds given by enemies are borne/worn on the body like ornaments; \"दिखाते हैं\" (show off) changes wearing into displaying.",
+     "fix": "लोग दुश्मनों से मिले बेकार घावों को भी गहनों की तरह सजाकर पहने रहते हैं।"
+    }
+   ]
+  },
+  {
+   "id": "4-40",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "मछुआरे और किसान",
+     "evidence": "The list has three occupations: fisherman, outcaste (chandala) and farmer; one is dropped.",
+     "fix": "मछुआरे, चांडाल और किसान सिर्फ अपनी रोजी-रोटी के लिए सर्दी और गर्मी सहते हैं।"
+    }
+   ]
+  },
+  {
+   "id": "4-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-43",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "बस इस एक परेशान करने वाली भावना को नहीं छोड़ना चाहिए",
+     "evidence": "Tibetan: \"such kinds of affliction\" (the attachment to the task and the enmity just described) that destroy afflictions are the exception; \"इस एक\" is vague and a child cannot tell which feeling is meant.",
+     "fix": "बस इस तरह का लगाव और दुश्मनी की भावना छोड़ने की ज़रूरत नहीं है, क्योंकि यह दूसरी परेशान करने वाली भावनाओं को हरा देती है।"
+    }
+   ]
+  },
+  {
+   "id": "4-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-2",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "वह अवीचि नरक में बहुत भारी नुकसान पहुँचाता है",
+     "evidence": "The unbridled mind-elephant causes harm of the kind found in Avici hell (comparison); the text says the elephant harms inside Avici, which shifts the comparison to a location.",
+     "fix": "अगर 'मन का हाथी' खुला छोड़ दिया जाए, तो वह अवीचि नरक जैसा भारी नुकसान पहुँचाता है।"
+    }
+   ]
+  },
+  {
+   "id": "5-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "फिर हम हर अच्छा काम आसानी से कर सकेंगे",
+     "evidence": "\"All virtues come into hand\" means all good qualities are obtained; the text says \"do every good deed easily\", adding ease and shifting to doing.",
+     "fix": "फिर सारी अच्छाइयाँ हमारे हाथ में आ जाएँगी।"
+    }
+   ]
+  },
+  {
+   "id": "5-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-10",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "फलों के साथ अपना सब कुछ सभी लोगों को सौंपने वाले",
+     "evidence": "\"With fruits/results\" (འབྲས་བཅས) is taken literally and the sentence is tangled; a child may think of actual fruit.",
+     "fix": "अपना सब कुछ और उसके अच्छे नतीजे भी सभी को दे देने वाला जो मन है, उसी को 'देने की पूर्णता' कहा गया है।"
+    }
+   ]
+  },
+  {
+   "id": "5-11",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

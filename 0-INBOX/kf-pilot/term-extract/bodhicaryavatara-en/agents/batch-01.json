@@ -1,0 +1,741 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "0",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ",
+     "dm": "Engaging in the Conduct of the Bodhisattvas",
+     "gm": "Engaging in the Conduct of the Bodhisattvas"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattvas",
+     "gm": "Bodhisattvas"
+    }
+   ]
+  },
+  {
+   "id": "I-0",
+   "terms": []
+  },
+  {
+   "id": "I-1",
+   "terms": [
+    {
+     "bo": "བོ་དྷི་སཏྭ་ཙརྱ་ཨ་བ་ཏཱ་ར",
+     "dm": "Bodhicaryāvatāra",
+     "gm": "Bodhisattvacaryāvatāra"
+    }
+   ]
+  },
+  {
+   "id": "I-2",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ",
+     "dm": "Engaging in the Bodhisattva Deeds",
+     "gm": "Entering the Way of the Bodhisattva"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattva",
+     "gm": "Bodhisattva"
+    }
+   ]
+  },
+  {
+   "id": "I-3",
+   "terms": [
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "buddhas",
+     "gm": "buddhas"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "bodhisattvas",
+     "gm": "bodhisattvas"
+    }
+   ]
+  },
+  {
+   "id": "1-0",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས",
+     "dm": "Bodhicitta",
+     "gm": null
+    }
+   ]
+  },
+  {
+   "id": "1-1",
+   "terms": [
+    {
+     "bo": "བདེ་གཤེགས",
+     "dm": "Sugatas",
+     "gm": "Sugatas"
+    },
+    {
+     "bo": "ཆོས་ཀྱི་སྐུ",
+     "dm": "Dharmakāya",
+     "gm": "Dharmakāya"
+    },
+    {
+     "bo": "བདེ་གཤེགས་སྲས",
+     "dm": "Sugatas' heirs",
+     "gm": "heirs of the Sugatas"
+    },
+    {
+     "bo": "སྡོམ",
+     "dm": "vows",
+     "gm": "vows"
+    }
+   ]
+  },
+  {
+   "id": "1-2",
+   "terms": []
+  },
+  {
+   "id": "1-3",
+   "terms": [
+    {
+     "bo": "དགེ་བ",
+     "dm": "virtue",
+     "gm": "virtue"
+    },
+    {
+     "bo": "དད་པ",
+     "dm": "faith",
+     "gm": "faith"
+    },
+    {
+     "bo": "སྐལ་བ",
+     "dm": "fortune",
+     "gm": "fortune"
+    }
+   ]
+  },
+  {
+   "id": "1-4",
+   "terms": [
+    {
+     "bo": "དལ་འབྱོར",
+     "dm": "leisure and endowment",
+     "gm": "freedoms and advantages"
+    },
+    {
+     "bo": "སྐྱེས་བུའི་དོན",
+     "dm": "purpose of a human being",
+     "gm": "human purpose"
+    }
+   ]
+  },
+  {
+   "id": "1-5",
+   "terms": [
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "the Buddha",
+     "gm": "the Buddha"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": null,
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "1-6",
+   "terms": [
+    {
+     "bo": "དགེ་བ",
+     "dm": "virtue",
+     "gm": "virtue"
+    },
+    {
+     "bo": "སྡིག་པ",
+     "dm": "sin",
+     "gm": "evil"
+    },
+    {
+     "bo": "རྫོགས་པའི་བྱང་ཆུབ་སེམས",
+     "dm": "mind of perfect enlightenment",
+     "gm": "mind of perfect awakening"
+    }
+   ]
+  },
+  {
+   "id": "1-7",
+   "terms": [
+    {
+     "bo": "བསྐལ་པ",
+     "dm": "eons",
+     "gm": "eons"
+    },
+    {
+     "bo": "ཐུབ་དབང",
+     "dm": "Lords of Sages",
+     "gm": "Lords of Sages"
+    },
+    {
+     "bo": "བདེ་མཆོག",
+     "dm": "supreme bliss",
+     "gm": "supreme bliss"
+    }
+   ]
+  },
+  {
+   "id": "1-8",
+   "terms": [
+    {
+     "bo": "སྲིད་པའི་སྡུག་བསྔལ",
+     "dm": "sufferings of existence",
+     "gm": "sufferings of existence"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "sufferings",
+     "gm": "sufferings"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས",
+     "dm": "awakening mind",
+     "gm": "mind of awakening"
+    }
+   ]
+  },
+  {
+   "id": "1-9",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས",
+     "dm": "awakening mind",
+     "gm": "mind of awakening"
+    },
+    {
+     "bo": "འཁོར་བ",
+     "dm": "cyclic existence",
+     "gm": "cyclic existence"
+    },
+    {
+     "bo": "བདེ་གཤེགས",
+     "dm": "Sugatas",
+     "gm": "Sugatas"
+    },
+    {
+     "bo": "བདེ་གཤེགས་རྣམས་ཀྱི་སྲས",
+     "dm": "children of the Sugatas",
+     "gm": "children of the Sugatas"
+    }
+   ]
+  },
+  {
+   "id": "1-10",
+   "terms": [
+    {
+     "bo": "གསེར་འགྱུར་རྩི",
+     "dm": "alchemical elixir",
+     "gm": "gold-making elixir"
+    },
+    {
+     "bo": "རྒྱལ་བའི་སྐུ",
+     "dm": "Victor’s body",
+     "gm": "Conqueror's body"
+    },
+    {
+     "bo": "རིན་ཆེན",
+     "dm": "Jewel",
+     "gm": "jewel"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས",
+     "dm": "awakening mind",
+     "gm": "mind of awakening"
+    }
+   ]
+  },
+  {
+   "id": "1-11",
+   "terms": [
+    {
+     "bo": "འགྲོ་བའི་དེད་དཔོན",
+     "dm": "Guide of beings",
+     "gm": "captain of beings"
+    },
+    {
+     "bo": "རིན་ཆེན་བྱང་ཆུབ་སེམས",
+     "dm": "precious awakening mind",
+     "gm": "precious mind of awakening"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས",
+     "dm": "awakening mind",
+     "gm": "mind of awakening"
+    }
+   ]
+  },
+  {
+   "id": "1-12",
+   "terms": [
+    {
+     "bo": "དགེ་བ",
+     "dm": "virtues",
+     "gm": "virtues"
+    },
+    {
+     "bo": "ཆུ་ཤིང",
+     "dm": "plantain tree",
+     "gm": "plantain tree"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས",
+     "dm": "awakening mind",
+     "gm": "mind of awakening"
+    }
+   ]
+  },
+  {
+   "id": "1-13",
+   "terms": [
+    {
+     "bo": "སྡིག་པ",
+     "dm": "sins",
+     "gm": "evils"
+    },
+    {
+     "bo": "བག་ཅན",
+     "dm": "conscientious",
+     "gm": "conscientious"
+    }
+   ]
+  },
+  {
+   "id": "1-14",
+   "terms": [
+    {
+     "bo": "དུས་མཐའི་མེ",
+     "dm": "fire at the end of an eon",
+     "gm": "fire at the end of time"
+    },
+    {
+     "bo": "སྡིག་ཆེན",
+     "dm": "great sins",
+     "gm": "great evils"
+    },
+    {
+     "bo": "ཕན་ཡོན",
+     "dm": "benefits",
+     "gm": "immeasurable benefits"
+    },
+    {
+     "bo": "བྱམས་མགོན",
+     "dm": "Protector Maitreya",
+     "gm": "Lord Maitreya"
+    },
+    {
+     "bo": "ནོར་བཟང",
+     "dm": "Sudhana",
+     "gm": "Sudhana"
+    }
+   ]
+  },
+  {
+   "id": "1-15",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས",
+     "dm": "awakening mind",
+     "gm": "mind of awakening"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སྨོན་པའི་སེམས",
+     "dm": "mind that aspires for awakening",
+     "gm": "mind aspiring to awakening"
+    },
+    {
+     "bo": "བྱང་ཆུབ་འཇུག་པ",
+     "dm": "mind that engages in awakening",
+     "gm": "mind entering awakening"
+    }
+   ]
+  },
+  {
+   "id": "1-16",
+   "terms": []
+  },
+  {
+   "id": "1-17",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སྨོན་པའི་སེམས",
+     "dm": "aspiring mind",
+     "gm": "mind aspiring to awakening"
+    },
+    {
+     "bo": "འཇུག་པའི་སེམས",
+     "dm": "engaging mind",
+     "gm": "mind entering awakening"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "1-18",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན་ཁམས",
+     "dm": "realms of sentient beings",
+     "gm": "realms of beings"
+    }
+   ]
+  },
+  {
+   "id": "1-19",
+   "terms": [
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "1-20",
+   "terms": [
+    {
+     "bo": "ལག་བཟང",
+     "dm": "Subāhu",
+     "gm": "Subāhu"
+    },
+    {
+     "bo": "ལག་བཟང་གིས་ནི་ཞུས་པ",
+     "dm": null,
+     "gm": "Questions of Subāhu"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgata",
+     "gm": "Tathāgata"
+    },
+    {
+     "bo": "དམན་མོས",
+     "dm": "lesser aspirations",
+     "gm": "lesser inclination"
+    }
+   ]
+  },
+  {
+   "id": "1-21",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "1-22",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient being",
+     "gm": "sentient being"
+    },
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "excellence",
+     "gm": "good qualities"
+    }
+   ]
+  },
+  {
+   "id": "1-23",
+   "terms": [
+    {
+     "bo": "ལྷ",
+     "dm": "gods",
+     "gm": "gods"
+    },
+    {
+     "bo": "དྲང་སྲོང",
+     "dm": "sages",
+     "gm": "sages"
+    },
+    {
+     "bo": "ཚངས་པ",
+     "dm": "Brahmā",
+     "gm": "Brahmā"
+    }
+   ]
+  },
+  {
+   "id": "1-24",
+   "terms": []
+  },
+  {
+   "id": "1-25",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "སེམས་ཀྱི་རིན་ཆེན",
+     "dm": "jewel of the mind",
+     "gm": "jewel of a mind"
+    }
+   ]
+  },
+  {
+   "id": "1-26",
+   "terms": [
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "wandering beings",
+     "gm": "transmigrating beings"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "རིན་ཆེན་སེམས",
+     "dm": "precious mind",
+     "gm": "jewel-like mind"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "1-27",
+   "terms": [
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "Buddhas"
+    },
+    {
+     "bo": "མཆོད",
+     "dm": "worship",
+     "gm": "offerings"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "being",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "1-28",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "བདེ་བ",
+     "dm": "happiness",
+     "gm": "happiness"
+    },
+    {
+     "bo": "གཏི་མུག",
+     "dm": "delusion",
+     "gm": "ignorance"
+    }
+   ]
+  },
+  {
+   "id": "1-29",
+   "terms": [
+    {
+     "bo": "བདེ་བ",
+     "dm": "happiness",
+     "gm": "happiness"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "sufferings",
+     "gm": "sufferings"
+    }
+   ]
+  },
+  {
+   "id": "1-30",
+   "terms": [
+    {
+     "bo": "གཏི་མུག",
+     "dm": "delusion",
+     "gm": "ignorance"
+    },
+    {
+     "bo": "དགེ",
+     "dm": "virtue",
+     "gm": "virtue"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "1-31",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattva",
+     "gm": "Bodhisattva"
+    }
+   ]
+  },
+  {
+   "id": "1-32",
+   "terms": [
+    {
+     "bo": "དགེ་བ་བྱེད་པ",
+     "dm": "doer of virtue",
+     "gm": "doer of virtue"
+    }
+   ]
+  },
+  {
+   "id": "1-33",
+   "terms": [
+    {
+     "bo": "བདེ་བར་གཤེགས",
+     "dm": "Sugatas",
+     "gm": "Sugatas"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "1-34",
+   "terms": [
+    {
+     "bo": "རྒྱལ་སྲས",
+     "dm": "Son of the Conquerors",
+     "gm": "Child of the Conquerors"
+    },
+    {
+     "bo": "སྦྱིན་བདག",
+     "dm": "benefactor",
+     "gm": "benefactor"
+    },
+    {
+     "bo": "ངན་སེམས",
+     "dm": "malicious thought",
+     "gm": "evil thought"
+    },
+    {
+     "bo": "བསྐལ་པ",
+     "dm": "aeons",
+     "gm": "eons"
+    },
+    {
+     "bo": "དམྱལ་བ",
+     "dm": "hell",
+     "gm": "hell"
+    },
+    {
+     "bo": "ཐུབ་པ",
+     "dm": "Sage",
+     "gm": "Capable One"
+    }
+   ]
+  },
+  {
+   "id": "1-35",
+   "terms": [
+    {
+     "bo": "རྒྱལ་སྲས",
+     "dm": "Bodhisattvas",
+     "gm": "Children of the Conquerors"
+    },
+    {
+     "bo": "སྡིག་པ",
+     "dm": "sin",
+     "gm": "Non-virtue"
+    },
+    {
+     "bo": "དགེ་བ",
+     "dm": "virtue",
+     "gm": "virtue"
+    }
+   ]
+  },
+  {
+   "id": "1-36",
+   "terms": [
+    {
+     "bo": "སེམས་ཀྱི་དམ་པ་རིན་ཆེན",
+     "dm": "most precious and excellent mind",
+     "gm": "supreme, precious mind"
+    },
+    {
+     "bo": "སྐྱབས་སུ་མཆི",
+     "dm": "take refuge",
+     "gm": "go for refuge"
+    }
+   ]
+  },
+  {
+   "id": "1-a",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ",
+     "dm": "Entering the Way of the Bodhisattva",
+     "gm": "Entering the Way of the Bodhisattva"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་ཀྱི་ཕན་ཡོན་བཤད་པ",
+     "dm": "Explaining the Benefits of the Awakening Mind",
+     "gm": "Explaining the Benefits of the Awakening Mind"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས",
+     "dm": "Awakening Mind",
+     "gm": "Awakening Mind"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattva",
+     "gm": "Bodhisattva"
+    }
+   ]
+  }
+ ]
+}

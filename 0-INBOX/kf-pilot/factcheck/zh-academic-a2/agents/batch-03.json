@@ -1,0 +1,113 @@
+{
+ "batch": "batch-03",
+ "segments": [
+  {
+   "id": "5-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-109",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-111",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "既然依賴極度之瞋心，方能生起安忍",
+     "evidence": "Tibetan 'རབ་ཏུ་སྡང་སེམས་ལ། བརྟེན་ནས་བཟོད་པ་སྐྱེ་བས་ན། དེ་ཉིད་བཟོད་པའི་རྒྱུ' ; Sanskrit tad-duṣṭāśayam eva (the enemy's hostile intent); bo-kunpal 6-111 'རབ་ཏུ་སྡང་བའི་སེམས་དང་ལྡན་པས་གནོད་པར་བྱེད་པའི་དགྲ' and bo-gyaltsab 6-111 'སྡང་སེམས་ཀྱིས་གནོད་པ་བྱེད་པ་ལ་བརྟེན་ནས' show the hatred is the enemy's. The Chinese leaves the owner of the hatred open (could be read as one's own) and 方能 adds an 'only then' restriction absent from the Tibetan.",
+     "fix": "因此，依於（怨敵）極度的瞋心而生起安忍，"
+    }
+   ]
+  },
+  {
+   "id": "6-114",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-120",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-123",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-78",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

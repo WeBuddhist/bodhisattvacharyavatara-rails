@@ -1,0 +1,1 @@
+This is a section heading of the Tibetan Bodhicaryāvatāra. Translate it into English as a short heading: one line only, no sentence, no commentary, no quotation marks. The heading has no number: do not add any numeral or numbering. Keep proper names in standard Sanskrit forms.

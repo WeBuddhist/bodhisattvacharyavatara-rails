@@ -1,0 +1,103 @@
+{
+ "batch": "batch-04",
+ "segments": [
+  {
+   "id": "6-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-41",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Having employed sticks and the like as the actual instruments, if one feels anger at the one who throws them",
+     "evidence": "དབྱུག་པ་ལ་སོགས་དངོས་བཀོལ་ཏེ། གལ་ཏེ་འཕེན་པ་ལ་ཁྲོ་ན། The one who employs (བཀོལ) the sticks is the thrower (bo-shenga 6-41: 'དབྱུག་པ་ལ་སོགས་པའི་དངོས་པོ་རྣམས་བཀོལ་ཏེ་ལུས་ལ་བརྡེག་པ་ན། གལ་ཏེ་འཕེན་པ་པོ་ཉིད་ལ་ཁྲོ་ན'; bo-kunpal 6-41). In the English the participle 'Having employed' has the grammatical subject 'one' (the angry victim), so it reads as if the victim employed the sticks.",
+     "fix": "Since he employs sticks and the like as the actual instruments, if one feels anger at the one who throws them,"
+    }
+   ]
+  },
+  {
+   "id": "6-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-114",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,237 @@
+{
+ "batch": "batch-05",
+ "segments": [
+  {
+   "id": "4-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-35",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "在地獄等地方傷害我的兇手",
+     "evidence": "Academic: 於地獄等作劊子者 (executioners in hell; Tibetan gsod byed gshed ma = killing executioner). 'Hurt me' and 'murderer' is imprecise: they are the ones who carry out the killing/punishing.",
+     "fix": "也是在地獄等地方行刑、折磨我們的劊子手。"
+    }
+   ]
+  },
+  {
+   "id": "4-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-43",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "我要堅持這個決心，帶著敵意去戰鬥",
+     "evidence": "Academic: 我當貪著於此，懷著怨恨而交戰 (I will be attached to this and fight with resentment). The point is that the attachment and resentment are themselves afflictions, hence the 'exception'; 'hold on to this resolve' loses the attachment and makes it unclear which affliction is meant.",
+     "fix": "我要對打敗煩惱這件事緊緊抓著不放，帶著怨恨去跟它們作戰。這種抓著不放和怨恨，本來也是煩惱，但因為它能摧毀心裡的煩惱，所以是個例外。"
+    }
+   ]
+  },
+  {
+   "id": "4-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "壞巫師",
+     "evidence": "Academic: 女巫 (Tibetan byad ma, a female witch/sorceress); 'bad' is added and the female sense is lost.",
+     "fix": "女巫"
+    }
+   ]
+  },
+  {
+   "id": "5-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-7",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "那些可怕的女子",
+     "evidence": "Academic: 彼等女眾從何而生 (no 'frightening'). Note also that the Tibetan reads me tshogs (masses of fire), not women, so the academic translation and the Tibetan differ here; the children's text follows the academic but adds 'frightening'.",
+     "fix": "那些女子又是從哪裡來的？"
+    }
+   ]
+  },
+  {
+   "id": "5-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-11",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,340 @@
+{
+ "batch": "batch-04",
+ "segments": [
+  {
+   "id": "8-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-88",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "एकान्त की हर अच्छी खूबी",
+     "evidence": "The source says 'contemplating the qualities of solitude'; 'every/each' good quality is not stated.",
+     "fix": "इस तरह, हमें एकान्त की अच्छी खूबियों के बारे में सोचना चाहिए।"
+    }
+   ]
+  },
+  {
+   "id": "8-91",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-101",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "तो कोई चीज़ इसे कैसे नुकसान पहुँचा सकती है?",
+     "evidence": "Academic: 'by this (feeling/suffering), how can this selfless collection be harmed?' The children's text replaces the agent 'this' with a vague 'some thing' and makes the collection the object of 'इसे' ambiguous.",
+     "fix": "तो इस एहसास से हिस्सों के इस समूह को कैसे नुकसान पहुँच सकता है?"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "इस हिस्सों के समूह में अपना अलग आप न होना ही सच है",
+     "evidence": "Ungrammatical ('इस हिस्सों'), and 'ही सच है' asserts more than the source, which just calls the collection selfless.",
+     "fix": "इन हिस्सों के समूह में अपना अलग आप नहीं है।"
+    }
+   ]
+  },
+  {
+   "id": "9-103",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "शोक से मुक्ति ही हैं",
+     "evidence": "Doubled 'ही' makes the last clause clumsy; source: beings are by nature nirvana.",
+     "fix": "सारे जीव अपने स्वभाव से शोक से मुक्ति ही हैं।"
+    }
+   ]
+  },
+  {
+   "id": "9-105",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "जानने की चीज़ जागरूकता के बाद आए",
+     "evidence": "Tibetan/academic: 'if (awareness) comes after the knowable (ज्ञेय के पश्चात्)', then from what does awareness arise. The children's text reverses the order: the knowable comes after awareness.",
+     "fix": "या अगर जागरूकता जानने की चीज़ के बाद आए, तो उस समय जागरूकता किससे पैदा होती है?"
+    }
+   ]
+  },
+  {
+   "id": "9-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-108",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "हर बात की बारीकी से जाँच करने की बात कही जाती है",
+     "evidence": "Tangled phrasing; source: all analyses are stated depending on what is renowned in the world.",
+     "fix": "दुनिया में जो बातें जानी-मानी हैं, उन्हीं के सहारे हर तरह की बारीकी से जाँच की बातें कही जाती हैं।"
+    }
+   ]
+  },
+  {
+   "id": "9-110",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-130",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-132",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-138",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-147",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-148",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-150",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "एक सपना जैसे हैं",
+     "evidence": "Ungrammatical Hindi ('सपना जैसे', 'केले का पेड़ जैसे'); should be 'सपने जैसे', 'केले के पेड़ जैसे'. Meaning intact.",
+     "fix": "दुनिया के प्राणी सपने जैसे हैं। ध्यान से देखें तो वे केले के पेड़ जैसे हैं।"
+    }
+   ]
+  },
+  {
+   "id": "9-158",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "हमारी ताक़त",
+     "evidence": "Source says only that strength is small there and life is short; 'our' is not stated.",
+     "fix": "वहाँ ताक़त बहुत कम है और उम्र भी बहुत छोटी है।"
+    }
+   ]
+  },
+  {
+   "id": "9-162",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "यह दुख तो हमेशा चलता ही रहेगा",
+     "evidence": "Source: 'alas, a continuum/succession of suffering will result'; 'always continuing' overstates this as permanent.",
+     "fix": "हाय! अब तो एक के बाद एक दुख ही आते रहेंगे।"
+    }
+   ]
+  },
+  {
+   "id": "9-164",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "बार-बार नहाकर फिर आग में कूद जाते हैं",
+     "evidence": "Source repeats both actions: repeatedly bathing and repeatedly entering fire; the children's text loses the repetition of entering fire.",
+     "fix": "जैसे कुछ लोग बार-बार नहाते हैं और बार-बार आग में कूद जाते हैं।"
+    }
+   ]
+  },
+  {
+   "id": "9-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-26",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "मन के समान भी नहीं माना जाता",
+     "evidence": "Source: the illusion is not other than mind and (being 'non-other', i.e. identical) is also not conceived; 'समान' means similar, not identical.",
+     "fix": "और मन से एक ही भी नहीं माना जाता"
+    }
+   ]
+  },
+  {
+   "id": "9-27",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "तो ठीक है, नहीं तो वह आसमान की तरह खाली हो जाएगा",
+     "evidence": "Source: 'if saṃsāra rests on a thing; otherwise it would be like space'. 'तो ठीक है' and 'खाली' are added and 'खाली' blurs with the locked 'खालीपन' for emptiness.",
+     "fix": "अगर बार-बार जन्म का चक्र किसी वस्तु पर टिका है; नहीं तो वह आसमान जैसा हो जाएगा।"
+    }
+   ]
+  },
+  {
+   "id": "9-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-37",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "विजेता का पूजा-स्थल भी ऐसा ही है। जागृति-वीर को ... वह सबके भले के सारे काम करता रहता है",
+     "evidence": "Academic: the Victor's shrine (chaitya) built in accord with bodhisattva conduct accomplishes all aims even after the bodhisattva's nirvana. The children's text turns the shrine clause into a contentless 'also like this' and makes the bodhisattva the doer, dropping the point that the shrine/offering still works.",
+     "fix": "जागृति के लिए आचरण के अनुसार बनाया गया विजेता का पूजा-स्थल भी, जागृति-वीर के शोक से मुक्त हो जाने के बाद भी, सबके भले के सारे काम करता रहता है।"
+    }
+   ]
+  },
+  {
+   "id": "9-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "दोनों ही माने हुए उदाहरणों के सहारे",
+     "evidence": "'दोनों' has no clear referent in the children's text (the two sides of the dispute); source: both rely on accepted examples without examining the result.",
+     "fix": "क्योंकि दोनों पक्ष माने हुए उदाहरणों के सहारे चलते हैं और फल के असली मतलब को परखते नहीं।"
+    }
+   ]
+  },
+  {
+   "id": "9-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-46",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "अगर तुम पक्का मानते हो कि ... भ्रम के समान क्यों नहीं होगी?",
+     "evidence": "One very long, tangled sentence with nested clauses; hard for ages 8-12. Meaning intact.",
+     "fix": "अगर तुम पक्का मानते हो कि अभी चीज़ों को कसकर पकड़े रखने वाली चाहत नहीं है, तो भी एक सवाल है। वह चाहत परेशान करने वाली भावना से घिरी न हो, तब भी वह भ्रम के समान क्यों नहीं होगी?"
+    }
+   ]
+  },
+  {
+   "id": "9-47",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "जिस मन को किसी चीज़ पर मन टिकाना होता है",
+     "evidence": "Awkward, circular use of the locked term (mind ... mind-resting); source: a mind with an object will rest on something.",
+     "fix": "जिस मन में किसी चीज़ पर मन टिकाना बना हुआ है, वह किसी न किसी चीज़ पर टिका रहेगा।"
+    }
+   ]
+  },
+  {
+   "id": "9-50",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "एक उपदेश के उपदेश-ग्रन्थ में न होने से ... उपदेश-ग्रन्थ जैसे एक उपदेश के कारण",
+     "evidence": "Repetitive, tangled wording with 'उपदेश' and 'उपदेश-ग्रन्थ' repeated; source: if one not being included makes all faulty, then one being sutra-like should make all the Victor's word.",
+     "fix": "अगर किसी एक उपदेश के उपदेश-ग्रन्थों में न मिलने से सारे उपदेश दोषी हो जाते हैं, तो एक उपदेश के उपदेश-ग्रन्थ जैसा होने से सारे उपदेश विजेता के कहे हुए क्यों नहीं माने जाते?"
+    }
+   ]
+  }
+ ]
+}

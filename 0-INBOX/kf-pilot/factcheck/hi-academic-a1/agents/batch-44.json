@@ -1,0 +1,121 @@
+{
+ "batch": "batch-44",
+ "segments": [
+  {
+   "id": "9-165",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-166",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-167",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "प्रवेश की जो भलीभाँति रचना की गई है, उस कुशल से",
+     "evidence": "Tibetan 'འཇུག་པ་རྣམ་པར་བརྩམས་པ་ཡི། དགེ་བ་གང་དེས' has the relative 'གང' modifying 'དགེ་བ' (whatever virtue arises from composing the Entering). In the Hindi the relative 'जो' attaches to 'रचना', so 'उस कुशल' has no antecedent and the sentence is hard to parse (Gyaltsab 10-1: 'བརྩམས་པའི་དགེ་བ་གང་ཐོབ་པ་དེ་དང་').",
+     "fix": "बोधिचर्या में प्रवेश (ग्रन्थ) की भलीभाँति रचना से जो भी कुशल हुआ है, उस कुशल से"
+    }
+   ]
+  },
+  {
+   "id": "10-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-7",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "राजहंस",
+     "evidence": "Tibetan lists four birds: 'འཐིང་རིལ', 'ངུར་པ', 'ངང་པ' (swan/goose, rendered हंस), and 'བཞད'. The approved English renders the last as 'cranes'; 'राजहंस' is a kind of swan/flamingo and largely duplicates 'हंस', so the fourth bird is not rendered as in the reference (bo-kunpal 10-7 and bo-shenga 10-7 only list 'བཞད' without glossing it, so the rendering is uncertain).",
+     "fix": "सारस"
+    }
+   ]
+  },
+  {
+   "id": "10-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-16",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "batch": "batch-25",
+ "segments": [
+  {
+   "id": "7-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-53",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "महान् द्वारा भी उसे जीतना कठिन है",
+     "evidence": "Tibetan 'ཆེན་པོ་ཡིས་ཀྱང་ཐུབ་པར་དཀའ' (hard to overcome even by the great): bo-shenga 7-53 glosses 'སྤང་བྱ་ཆེན་པོ་ཡིས་ཀྱང་རྒྱལ་སྲས་དེ་ཉིད་ཐུབ་པར་དཀའ' and bo-kunpal 7-53 'ལྟུང་བ་ཆེན་པོ་ ... ཡིས་ཀྱང་ཐུབ་པར་དཀའ' - the 'great' agent is great downfalls/objects of abandonment, not great persons; english_academic: 'even by great downfalls'. Hindi 'महान् द्वारा' reads as 'by a great one (person)', changing the referent.",
+     "fix": "बड़े पतनों से भी उसे पराजित करना कठिन है"
+    }
+   ]
+  },
+  {
+   "id": "7-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-56",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "मान वाले शत्रु के वश में नहीं जाते",
+     "evidence": "Tibetan 'ང་རྒྱལ་ཅན་དགྲའི་དབང་མི་འགྲོ' = 'the one who has (proper) pride does not fall under the power of the enemy'; without a comma 'मान वाले शत्रु' parses as 'the enemy who has pride', which the Tibetan excludes (bo-shenga 7-56: 'ང་རྒྱལ་ཅན་ནི་མི་མཐུན་པའི་དགྲའི་དབང་དུ་མི་འགྲོ').",
+     "fix": "मान वाला जन शत्रु के वश में नहीं जाता"
+    }
+   ]
+  },
+  {
+   "id": "7-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-66",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

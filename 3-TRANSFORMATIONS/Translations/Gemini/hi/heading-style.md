@@ -1,0 +1,1 @@
+This is a section heading of the Tibetan Bodhicaryāvatāra. Translate it into modern standard Hindi in Devanagari as a short heading: one line only, no sentence, no commentary, no quotation marks. The heading has no number: do not add any numeral or numbering. Use established Hindi Buddhist terms.

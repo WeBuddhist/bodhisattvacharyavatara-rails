@@ -1,0 +1,253 @@
+{
+ "batch": "batch-07",
+ "segments": [
+  {
+   "id": "5-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-53",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "When impatience, laziness, and fear appear, along with rudeness and idle talk. Or if a mind attached to my own side comes up",
+     "evidence": "Incomplete sentence: the first 'When...' clause is cut off, then 'Or if' starts again. Academic: one list (impatience, laziness, fear, impudence, idle chatter, or a mind attached to my own side), then 'at that time'.",
+     "fix": "If I feel impatience, laziness, fear, rudeness, or idle talk, or if my mind clings to my own side, then I should stay like a log."
+    }
+   ]
+  },
+  {
+   "id": "5-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-57",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "When I do things that are free of blame with myself and any living being",
+     "evidence": "Academic: blameless things are 'governed by myself and sentient beings' (they are under my and others' control). The children's text turns this into doing things together with living beings.",
+     "fix": "In things that are free of blame, which are in my hands and in the hands of living beings, I must always hold my mind like a magical creation, with no 'I' in it."
+    }
+   ]
+  },
+  {
+   "id": "5-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-60",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "You and the body are completely separate.",
+     "evidence": "Academic: 'If you and this are separate' - a conditional that sets up the question. The children's text states it as a flat fact.",
+     "fix": "If you and the body are separate, what can it really do for you?"
+    }
+   ]
+  },
+  {
+   "id": "5-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-71",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "work on being in control of oneself",
+     "evidence": "Academic: 'assume self-mastery'. Abstract, and shifts from 'I' to 'oneself'; 'wandering beings' is also unexplained.",
+     "fix": "So I will be in control of myself. I will always keep a smiling face... Be a friend to all beings who wander through life, and speak honestly."
+    }
+   ]
+  },
+  {
+   "id": "5-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-81",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "or as a remedy",
+     "evidence": "Academic: motivated by an antidote (a counter to troubling emotions). 'Do it as a remedy' is unclear.",
+     "fix": "or when a remedy against troubling emotions moves you to act"
+    }
+   ]
+  },
+  {
+   "id": "5-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-84",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-90",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "I should not trick people",
+     "evidence": "Academic/Tibetan: 'lure' (draw in) with sutras and mantras, not 'trick'.",
+     "fix": "I should not lure people away with teaching texts and sacred words."
+    }
+   ]
+  },
+  {
+   "id": "5-91",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

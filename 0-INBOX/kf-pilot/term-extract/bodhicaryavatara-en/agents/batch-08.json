@@ -1,0 +1,473 @@
+{
+ "batch": "batch-08",
+ "segments": [
+  {
+   "id": "5-37",
+   "terms": []
+  },
+  {
+   "id": "5-38",
+   "terms": []
+  },
+  {
+   "id": "5-39",
+   "terms": []
+  },
+  {
+   "id": "5-40",
+   "terms": [
+    {
+     "bo": "སེམས་ཀྱི་གླང་ཆེན་མྱོས་པ",
+     "dm": "intoxicated elephant of the mind",
+     "gm": "mad elephant of the mind"
+    },
+    {
+     "bo": "སེམས",
+     "dm": "mind",
+     "gm": "mind"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    }
+   ]
+  },
+  {
+   "id": "5-41",
+   "terms": [
+    {
+     "bo": "ཏིང་འཛིན",
+     "dm": "meditative concentration",
+     "gm": "concentration"
+    },
+    {
+     "bo": "ཡིད",
+     "dm": "mind",
+     "gm": "mind"
+    }
+   ]
+  },
+  {
+   "id": "5-42",
+   "terms": [
+    {
+     "bo": "སྦྱིན་པ",
+     "dm": "generosity",
+     "gm": "giving"
+    },
+    {
+     "bo": "ཚུལ་ཁྲིམས",
+     "dm": "rules of discipline",
+     "gm": "ethical discipline"
+    },
+    {
+     "bo": "བཏང་སྙོམས",
+     "dm": "equanimity",
+     "gm": "equanimity"
+    }
+   ]
+  },
+  {
+   "id": "5-43",
+   "terms": []
+  },
+  {
+   "id": "5-44",
+   "terms": [
+    {
+     "bo": "ཤེས་བཞིན",
+     "dm": "introspection",
+     "gm": "introspection"
+    },
+    {
+     "bo": "ཉེ་ཉོན་མོངས",
+     "dm": "secondary afflictions",
+     "gm": "secondary affliction"
+    }
+   ]
+  },
+  {
+   "id": "5-45",
+   "terms": [
+    {
+     "bo": "ཆགས་པ",
+     "dm": "attachment",
+     "gm": "attachment"
+    }
+   ]
+  },
+  {
+   "id": "5-46",
+   "terms": [
+    {
+     "bo": "བདེ་གཤེགས",
+     "dm": "Sugatas",
+     "gm": "Sugatas"
+    },
+    {
+     "bo": "བསླབ་པ",
+     "dm": "training",
+     "gm": "training"
+    }
+   ]
+  },
+  {
+   "id": "5-47",
+   "terms": []
+  },
+  {
+   "id": "5-48",
+   "terms": [
+    {
+     "bo": "ཆགས་པ",
+     "dm": "attachment",
+     "gm": "attachment"
+    }
+   ]
+  },
+  {
+   "id": "5-49",
+   "terms": [
+    {
+     "bo": "རྒོད",
+     "dm": "agitation",
+     "gm": "wildness"
+    },
+    {
+     "bo": "ག་ཞར",
+     "dm": "mockery",
+     "gm": "mockery"
+    },
+    {
+     "bo": "ང་རྒྱལ",
+     "dm": "pride",
+     "gm": "pride"
+    },
+    {
+     "bo": "རྒྱགས",
+     "dm": "arrogance",
+     "gm": "arrogance"
+    },
+    {
+     "bo": "མཚང་འབྲུ་བ",
+     "dm": "expose others' faults",
+     "gm": "expose faults"
+    },
+    {
+     "bo": "སྐྱོར་འབྱིན",
+     "dm": "divisiveness",
+     "gm": "evasive"
+    },
+    {
+     "bo": "སླུ་སེམས",
+     "dm": "deceit",
+     "gm": "deceptive mind"
+    }
+   ]
+  },
+  {
+   "id": "5-50",
+   "terms": [
+    {
+     "bo": "བདག་བསྟོད",
+     "dm": "self-praise",
+     "gm": "self-praise"
+    },
+    {
+     "bo": "གཞན་ལ་སྨོད་པ",
+     "dm": "disparaging others",
+     "gm": "disparaging of others"
+    },
+    {
+     "bo": "འགྱོད",
+     "dm": "remorse",
+     "gm": "resentful"
+    }
+   ]
+  },
+  {
+   "id": "5-51",
+   "terms": [
+    {
+     "bo": "རྙེད",
+     "dm": "gain",
+     "gm": "gain"
+    },
+    {
+     "bo": "བཀུར་སྟི",
+     "dm": "honor",
+     "gm": "honor"
+    },
+    {
+     "bo": "གྲགས",
+     "dm": "fame",
+     "gm": "fame"
+    },
+    {
+     "bo": "གཡོག་འཁོར",
+     "dm": "circle of attendants",
+     "gm": "attendants and retinues"
+    }
+   ]
+  },
+  {
+   "id": "5-52",
+   "terms": [
+    {
+     "bo": "གཞན་དོན",
+     "dm": "welfare of others",
+     "gm": "benefit of others"
+    },
+    {
+     "bo": "རང་དོན",
+     "dm": "one's own interests",
+     "gm": "one's own benefit"
+    }
+   ]
+  },
+  {
+   "id": "5-53",
+   "terms": [
+    {
+     "bo": "མི་བཟོད",
+     "dm": "impatience",
+     "gm": "Intolerance"
+    },
+    {
+     "bo": "ལེ་ལོ",
+     "dm": "laziness",
+     "gm": "laziness"
+    },
+    {
+     "bo": "སྤྱི་རྟོལ",
+     "dm": "impudence",
+     "gm": "shamelessness"
+    },
+    {
+     "bo": "མུ་ཅོར",
+     "dm": "idle chatter",
+     "gm": "senseless talk"
+    }
+   ]
+  },
+  {
+   "id": "5-54",
+   "terms": [
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "afflicted"
+    },
+    {
+     "bo": "གཉེན་པོ",
+     "dm": "antidote",
+     "gm": "antidote"
+    },
+    {
+     "bo": "དཔའ་བོ",
+     "dm": "heroic one",
+     "gm": "hero"
+    }
+   ]
+  },
+  {
+   "id": "5-55",
+   "terms": [
+    {
+     "bo": "རབ་དད",
+     "dm": "supreme faith",
+     "gm": "excellent faith"
+    },
+    {
+     "bo": "ངོ་ཚ་ཤེས",
+     "dm": "sense of shame",
+     "gm": "sense of shame"
+    },
+    {
+     "bo": "འཇིགས་བཅས",
+     "dm": "dread of blame",
+     "gm": "apprehension"
+    }
+   ]
+  },
+  {
+   "id": "5-56",
+   "terms": [
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "afflictions"
+    },
+    {
+     "bo": "བྱིས་པ",
+     "dm": "childish",
+     "gm": "childish"
+    },
+    {
+     "bo": "བརྩེར་ལྡན",
+     "dm": "compassionate",
+     "gm": "compassion"
+    }
+   ]
+  },
+  {
+   "id": "5-57",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "ཁ་ན་མ་ཐོ་མེད",
+     "dm": "blameless",
+     "gm": "faultless"
+    },
+    {
+     "bo": "སྤྲུལ་པ",
+     "dm": "emanation",
+     "gm": "apparition"
+    }
+   ]
+  },
+  {
+   "id": "5-58",
+   "terms": [
+    {
+     "bo": "དལ་བའི་མཆོག",
+     "dm": "supreme leisure",
+     "gm": "supreme leisure"
+    },
+    {
+     "bo": "རི་རབ",
+     "dm": "Mount Meru",
+     "gm": "Mount Meru"
+    }
+   ]
+  },
+  {
+   "id": "5-59",
+   "terms": []
+  },
+  {
+   "id": "5-60",
+   "terms": [
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    }
+   ]
+  },
+  {
+   "id": "5-61",
+   "terms": []
+  },
+  {
+   "id": "5-62",
+   "terms": [
+    {
+     "bo": "ཤེས་རབ་མཚོན",
+     "dm": "blade of wisdom",
+     "gm": "weapon of wisdom"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "wisdom",
+     "gm": "wisdom"
+    }
+   ]
+  },
+  {
+   "id": "5-63",
+   "terms": []
+  },
+  {
+   "id": "5-64",
+   "terms": [
+    {
+     "bo": "ཆགས",
+     "dm": "attachment",
+     "gm": "attachment"
+    }
+   ]
+  },
+  {
+   "id": "5-65",
+   "terms": []
+  },
+  {
+   "id": "5-66",
+   "terms": [
+    {
+     "bo": "མི་འོ་ཅོག་གི་ལུས",
+     "dm": "human body",
+     "gm": "human body"
+    }
+   ]
+  },
+  {
+   "id": "5-67",
+   "terms": [
+    {
+     "bo": "འཆི་བདག",
+     "dm": "Lord of Death",
+     "gm": "Lord of Death"
+    }
+   ]
+  },
+  {
+   "id": "5-68",
+   "terms": []
+  },
+  {
+   "id": "5-69",
+   "terms": []
+  },
+  {
+   "id": "5-70",
+   "terms": [
+    {
+     "bo": "ཡིད་བཞིན་གྱི་ནི་ལུས",
+     "dm": "wish-fulfilling body",
+     "gm": "wish-fulfilling body"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "5-71",
+   "terms": [
+    {
+     "bo": "རང་དབང",
+     "dm": "self-mastery",
+     "gm": "in control"
+    },
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "all beings",
+     "gm": "wandering beings"
+    }
+   ]
+  },
+  {
+   "id": "5-72",
+   "terms": []
+  },
+  {
+   "id": "5-73",
+   "terms": [
+    {
+     "bo": "ཐུབ་པ",
+     "dm": "sage",
+     "gm": "sage"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,237 @@
+{
+ "batch": "batch-10",
+ "segments": [
+  {
+   "id": "6-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-71",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "I must throw that clinging away right now",
+     "evidence": "The thing to be discarded is whatever the mind clings to (the object, like the straw the fire has caught on), not the clinging itself.",
+     "fix": "To stop my store of goodness from burning, I must throw away right now whatever my mind is clinging to."
+    }
+   ]
+  },
+  {
+   "id": "6-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-81",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-84",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-86",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "The Second Fascicle.",
+     "evidence": "This is the colophon marking the end of a section of the manuscript, not part of the verse; 'fascicle' is a hard unexplained word for ages 8-12.",
+     "fix": "Drop it or say: 'This is the end of the second part of the book.'"
+    }
+   ]
+  },
+  {
+   "id": "6-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-90",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-91",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "If I really knew my own good, what own good is there in that?",
+     "evidence": "Academic: 'If I were to know my own welfare, what welfare of mine is there in that?' (in praise and fame); also drops 'and the like' after gambling and alcohol.",
+     "fix": "Even if I knew what is truly good for me, what good would praise do me? If I only want my mind to feel happy, I would also have to turn to gambling, alcohol, and things like that."
+    }
+   ]
+  },
+  {
+   "id": "6-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-99",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "destroy my praise",
+     "evidence": "'my praise and so forth' - the list of such things (fame, honor) is dropped.",
+     "fix": "Some people are around to destroy my praise and things like it. Are they not protecting me from falling into an unhappy realm?"
+    }
+   ]
+  },
+  {
+   "id": "6-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-101",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

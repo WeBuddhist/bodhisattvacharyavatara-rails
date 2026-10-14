@@ -1,0 +1,146 @@
+{
+ "1-8": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "Should never forsake bodhicitta",
+  "new": "Should forsake bodhicitta"
+ },
+ "1-31": {
+  "planted": false
+ },
+ "2-5": {
+  "planted": true,
+  "kind": "mistranslation",
+  "severity": "major",
+  "old": "swans",
+  "new": "peacocks"
+ },
+ "2-41": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "I have not relied upon even that",
+  "new": "I have relied upon that"
+ },
+ "3-5": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "Do not leave these wandering beings in blindness",
+  "new": "Leave these wandering beings in blindness"
+ },
+ "3-18": {
+  "planted": false
+ },
+ "4-19": {
+  "planted": true,
+  "kind": "number",
+  "severity": "major",
+  "old": "a hundred ten-million eons",
+  "new": "a hundred thousand eons"
+ },
+ "4-28": {
+  "planted": true,
+  "kind": "omission",
+  "severity": "major",
+  "old": ", craving",
+  "new": ""
+ },
+ "5-57": {
+  "planted": false
+ },
+ "5-83": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "One should not forsake the greater",
+  "new": "One should forsake the greater"
+ },
+ "5-96": {
+  "planted": true,
+  "kind": "terminology",
+  "severity": "major",
+  "old": "introspection",
+  "new": "vigilance"
+ },
+ "6-1": {
+  "planted": true,
+  "kind": "number",
+  "severity": "major",
+  "old": "a thousand eons",
+  "new": "ten eons"
+ },
+ "6-121": {
+  "planted": false
+ },
+ "6-128": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "do not harm him in return",
+  "new": "harm him in return"
+ },
+ "7-14": {
+  "planted": true,
+  "kind": "mistranslation",
+  "severity": "major",
+  "old": "boat of a human body",
+  "new": "boat of a divine body"
+ },
+ "7-21": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "Yet I will not attain awakening",
+  "new": "Yet I will attain awakening"
+ },
+ "8-4": {
+  "planted": true,
+  "kind": "terminology",
+  "severity": "major",
+  "old": "special insight",
+  "new": "superior insight"
+ },
+ "8-32": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "Since others do not take a share",
+  "new": "Since others take a share"
+ },
+ "8-84": {
+  "planted": true,
+  "kind": "addition",
+  "severity": "major",
+  "old": "Within peaceful forests",
+  "new": "Within peaceful forests and mountain caves"
+ },
+ "9-2": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "Ultimate truth is not the domain",
+  "new": "Ultimate truth is the domain"
+ },
+ "9-7": {
+  "planted": false
+ },
+ "9-17": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "the mind does not see the mind",
+  "new": "the mind sees the mind"
+ },
+ "10-51": {
+  "planted": true,
+  "kind": "name",
+  "severity": "major",
+  "old": "Mañjuśrī",
+  "new": "Avalokiteśvara"
+ },
+ "10-55": {
+  "planted": false
+ }
+}

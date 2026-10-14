@@ -1,0 +1,272 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "6-68",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-69",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-70",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-71",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-72",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-73",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-74",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-75",
+    "drop": [
+     {
+      "n": 3,
+      "reason": "Ordinary emotion in this context, not the specific technical term for sympathetic joy (anumodana/mudita)."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-76",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "Ordinary verb including negation; not a glossary term."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-77",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-78",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-79",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-80",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 2,
+      "bo_fixed": "སེམས་བསྐྱེད"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "6-81",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བསྙེན་བཀུར",
+      "reason": "Standard Buddhist term for material honor, service or respect (satkāra).",
+      "dm": "honor and respect",
+      "gm": "respect"
+     }
+    ]
+   },
+   {
+    "id": "6-82",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-83",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-84",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-85",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-86",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-87",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-88",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-89",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-90",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 3,
+      "bo_fixed": "རིམ་གྲོ"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "6-91",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-92",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-93",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-94",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-95",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-96",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-97",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-98",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-99",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-100",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-101",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "6-75",
+    "bo": "དགའ་བ",
+    "reason": "Ordinary emotion in this context, not the specific technical term for sympathetic joy (anumodana/mudita)."
+   },
+   {
+    "id": "6-76",
+    "bo": "དགའ་མི་བྱེད",
+    "reason": "Ordinary verb including negation; not a glossary term."
+   }
+  ],
+  "fix_span": [
+   {
+    "id": "6-80",
+    "bo": "བྱང་ཆུབ་ཏུ་ནི་སེམས་བསྐྱེད",
+    "bo_fixed": "སེམས་བསྐྱེད"
+   },
+   {
+    "id": "6-90",
+    "bo": "རིམ་གྲོས",
+    "bo_fixed": "རིམ་གྲོ"
+   }
+  ],
+  "add": [
+   {
+    "id": "6-81",
+    "bo": "བསྙེན་བཀུར",
+    "dm": "honor and respect",
+    "gm": "respect",
+    "reason": "Standard Buddhist term for material honor, service or respect (satkāra)."
+   }
+  ]
+ }
+}

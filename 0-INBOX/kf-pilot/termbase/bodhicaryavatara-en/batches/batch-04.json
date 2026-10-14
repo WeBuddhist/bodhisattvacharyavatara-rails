@@ -1,0 +1,1432 @@
+[
+ {
+  "term_id": "T004",
+  "bo": "ཉོན་མོངས",
+  "count": 39,
+  "occurrences": [
+   "2-30",
+   "3-30",
+   "4-31",
+   "4-32",
+   "4-33",
+   "4-37",
+   "4-41",
+   "4-42",
+   "4-43",
+   "4-44",
+   "4-45",
+   "4-46",
+   "4-47",
+   "5-28",
+   "5-54",
+   "5-56",
+   "6-19",
+   "6-23",
+   "6-37",
+   "6-38",
+   "6-63",
+   "6-89",
+   "7-4",
+   "7-49",
+   "7-50",
+   "7-56",
+   "7-60",
+   "7-61",
+   "7-67",
+   "8-1",
+   "8-4",
+   "8-84",
+   "8-143",
+   "8-175",
+   "9-30",
+   "9-31",
+   "9-45",
+   "9-54",
+   "9-162"
+  ],
+  "dm": {
+   "afflictions": 27,
+   "mental afflictions": 8,
+   "mental affliction": 1,
+   "afflicted": 1,
+   "afflictive": 1
+  },
+  "gm": {
+   "afflictions": 32,
+   "afflictive": 2,
+   "afflicted": 2,
+   "afflicted ones": 1,
+   "affliction": 1,
+   "Afflictions": 1
+  },
+  "examples": [
+   {
+    "id": "2-30",
+    "bo": "བདག་གིས་དཀོན་མཆོག་གསུམ་དང་ནི། ། ཕ་མའམ་བླ་མ་གཞན་དག་ལ། ། ཉོན་མོངས་སྒོ་ནས་ལུས་ངག་དང་། ། ཡིད་ཀྱིས་གནོད་བགྱིས་གང་ལགས་དང་། །",
+    "dm": "Whatever harm I have done to the Three Jewels, To my parents, or to my teachers and others, Through the gateway of the afflictions By means of my body, speech, and mind,",
+    "gm": "To the Three Jewels, To parents, gurus, or others, Through afflictions, with body, speech, And mind, whatever harm I have done,",
+    "sa": "रत्नत्रयेऽपकारो यो मातपितृषु वा मया। गुरुष्वन्येषु वा क्षेपात् कायवाग्बुद्धिभिः कृतः॥"
+   },
+   {
+    "id": "4-31",
+    "bo": "ཉོན་མོངས་སྟོབས་ཅན་དགྲ་འདིས་ནི། ། གང་དང་ཕྲད་ན་རི་རབ་ཀྱང་། ། ཐལ་བ་ཡང་ནི་མི་ལུས་པ། ། དེར་བདག་སྐད་ཅིག་གཅིག་ལ་འདོར། །",
+    "dm": "This powerful enemy, the mental afflictions, Can in a single instant cast me Into that fire which, upon meeting even Mount Meru, Would not leave even its ashes behind.",
+    "gm": "This powerful enemy of the afflictions, Upon meeting which, even Mount Meru Does not remain even as ashes, Casts me there in a single moment.",
+    "sa": "मेरोरपि यदासङ्गान्न भस्माप्युपलभ्यते। क्षणात् क्षिपन्ति मां तत्र बलिनः क्लेशशत्रवः॥"
+   },
+   {
+    "id": "4-37",
+    "bo": "རང་བཞིན་འཆི་བས་སྡུག་བསྔལ་གྱུར་པའི་ཉོན་མོངས་དག ། གཡུལ་ངོར་དངར་ཚེ་ནན་གྱིས་གཞོམ་པར་འདོད་པ་ཡང་། ། མདའ་མདུང་མཚོན་གྱིས་ཕོག་པའི་སྡུག་བསྔལ་ཁྱད་བསད་ནས། ། དོན་མ་གྲུབ་པར་ཕྱིར་ཕྱོགས་འབྱེར་བར་མི་བྱེད་ན། །",
+    "dm": "If those who wish to forcefully defeat in battle their enemies, Who are already miserable by nature and destined for death, Can disregard the pain of being struck by arrows and spears, And refuse to turn back until their goal is achieved,",
+    "gm": "Those afflicted ones who suffer and naturally die, When arrayed in battle, even those intensely desiring to forcefully destroy them, Having ignored the suffering of being struck by arrows, spears, and weapons, If they do not turn back and flee without accomplishing the goal,",
+    "sa": "प्रकृतिमरणदुःखितान्धकारान्। रणशिरसि प्रसभं निहन्तुमुग्राः। अगणितशरशक्तिघातदुःखा न विमुखतामुपयान्त्यसाधयित्वा॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T020",
+  "bo": "བྱང་ཆུབ",
+  "count": 17,
+  "occurrences": [
+   "3-2",
+   "3-16",
+   "5-97",
+   "5-98",
+   "5-101",
+   "5-102",
+   "5-a",
+   "6-80",
+   "6-83",
+   "7-1",
+   "7-17",
+   "7-18",
+   "7-19",
+   "7-21",
+   "7-22",
+   "8-82",
+   "9-40"
+  ],
+  "dm": {
+   "enlightenment": 13,
+   "awakening": 1
+  },
+  "gm": {
+   "awakening": 8,
+   "enlightenment": 6
+  },
+  "examples": [
+   {
+    "id": "3-2",
+    "bo": "བྱང་ཆུབ་རྒྱུར་གྱུར་དགེ་བསགས་པ། ། དེ་ལ་རྗེས་སུ་ཡི་རང་ངོ་། ། ལུས་ཅན་འཁོར་བའི་སྡུག་བསྔལ་ལས། ། ངེས་པར་ཐར་ལ་ཡི་རང་ངོ་། ། སྐྱོབ་པ་རྣམས་ཀྱི་བྱང་ཆུབ་དང་། ། རྒྱལ་སྲས་ས་ལའང་ཡི་རང་ངོ་། །",
+    "dm": "I rejoice in the accumulation of virtue That has become the cause for enlightenment. I rejoice in the definite liberation Of embodied beings from the suffering of cyclic existence. I rejoice in the enlightenment of the Protectors, And also in the levels of the Bodhisattvas.",
+    "gm": "In the accumulated virtue that becomes the cause of awakening, In that I rejoice. From the suffering of samsara for embodied beings, In the definite liberation I rejoice. In the awakening of the protectors and In the stages of the Conquerors' sons too, I rejoice.",
+    "sa": "संसारदुःखनिर्मोक्षमनुमोदे शरीरिणाम्। बोधिसत्त्वत्वबुद्धत्वमनुमोदे च तायिनाम्॥"
+   },
+   {
+    "id": "5-97",
+    "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་དག ། ཚད་མེད་པར་ནི་གསུངས་པ་ལས། ། སེམས་སྦྱང་བ་ཡི་སྤྱོད་པ་ནི། ། ངེས་པར་དེ་སྲིད་སྤྱད་པར་བྱ། །",
+    "dm": "Although the conduct of Bodhisattvas Is said to be immeasurable, One should certainly practice those activities That serve to train the mind.",
+    "gm": "The practices of the Bodhisattvas Are taught to be limitless; The practice of purifying the mind, One should definitely practice at least that much.",
+    "sa": "आचारो बोधिसत्त्वानामप्रमेय उदाहृतः। चित्तशोधनमाचारं नियतं तावदाचरेत्॥"
+   },
+   {
+    "id": "5-98",
+    "bo": "ཉིན་དང་མཚན་མོ་ལན་གསུམ་དུ། ། ཕུང་པོ་གསུམ་པ་གདོན་བྱ་ཞིང་། ། རྒྱལ་དང་བྱང་ཆུབ་སེམས་བརྟེན་པས། ། ལྟུང་བའི་ལྷག་མ་དེས་ཞི་བྱ། །",
+    "dm": "Three times during the day and three times at night, One should recite the Three Heaps Sūtra; By relying on the Victors and the spirit of awakening, One should pacify the remaining downfalls.",
+    "gm": "Three times during the day and night, One should recite the Triskandha; By relying on the Conquerors and the awakening mind, One should pacify the remainder of downfalls thereby.",
+    "sa": "रात्रिंदिवं च त्रिस्कन्धं त्रिष्कालं च प्रवर्तयेत्। शेषापत्तिशमस्तेन बोधिचित्तजिनाश्रयात्॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T036",
+  "bo": "ལུས་ཅན",
+  "count": 11,
+  "occurrences": [
+   "3-2",
+   "3-12",
+   "3-18",
+   "3-19",
+   "4-10",
+   "6-34",
+   "6-52",
+   "6-66",
+   "8-113",
+   "10-4",
+   "10-37"
+  ],
+  "dm": {
+   "embodied beings": 9,
+   "embodied being": 1,
+   "physical entity": 1
+  },
+  "gm": {
+   "embodied beings": 10
+  },
+  "examples": [
+   {
+    "id": "3-2",
+    "bo": "བྱང་ཆུབ་རྒྱུར་གྱུར་དགེ་བསགས་པ། ། དེ་ལ་རྗེས་སུ་ཡི་རང་ངོ་། ། ལུས་ཅན་འཁོར་བའི་སྡུག་བསྔལ་ལས། ། ངེས་པར་ཐར་ལ་ཡི་རང་ངོ་། ། སྐྱོབ་པ་རྣམས་ཀྱི་བྱང་ཆུབ་དང་། ། རྒྱལ་སྲས་ས་ལའང་ཡི་རང་ངོ་། །",
+    "dm": "I rejoice in the accumulation of virtue That has become the cause for enlightenment. I rejoice in the definite liberation Of embodied beings from the suffering of cyclic existence. I rejoice in the enlightenment of the Protectors, And also in the levels of the Bodhisattvas.",
+    "gm": "In the accumulated virtue that becomes the cause of awakening, In that I rejoice. From the suffering of samsara for embodied beings, In the definite liberation I rejoice. In the awakening of the protectors and In the stages of the Conquerors' sons too, I rejoice.",
+    "sa": "संसारदुःखनिर्मोक्षमनुमोदे शरीरिणाम्। बोधिसत्त्वत्वबुद्धत्वमनुमोदे च तायिनाम्॥"
+   },
+   {
+    "id": "6-34",
+    "bo": "གལ་ཏེ་རང་དགས་འགྲུབ་འགྱུར་ན། ། འགའ་ཡང་སྡུག་བསྔལ་མི་འདོད་པས། ། ལུས་ཅན་དག་ནི་ཐམས་ཅད་ཀྱང་། ། སུ་ལའང་སྡུག་བསྔལ་འབྱུང་མི་འགྱུར། །",
+    "dm": "If things were accomplished by one's own independent will, Then since no one desires to suffer, Suffering would never arise For any embodied being at all.",
+    "gm": "If things were accomplished by their own will, Since no one desires suffering, For all embodied beings, Suffering would not occur for anyone.",
+    "sa": "यदि तु स्वेच्छया सिद्धिः सर्वेषामेव देहिनाम्। न भवेत्कस्यचिद्दुःखं न दुःखं कश्चिदिच्छति॥"
+   },
+   {
+    "id": "6-52",
+    "bo": "ཡིད་ནི་ལུས་ཅན་མ་ཡིན་པས། ། སུས་ཀྱང་གང་དུའང་གཞོམ་མི་ནུས། ། ལུས་ལ་མངོན་པར་ཞེན་པས་ན། ། ལུས་ནི་སྡུག་བསྔལ་དག་གིས་གནོད། །",
+    "dm": "Since the mind is not a physical entity, No one can destroy it anywhere; Because of intense attachment to the body, The body is afflicted by sufferings.",
+    "gm": "Because the mind is bodiless, No one can destroy it anywhere; Because of deep attachment to the body, The body is harmed by sufferings.",
+    "sa": "मनो हन्तुममूर्तत्वान्न शक्यं केनचित्क्वचित्। शरीराभिनिवेशात्तु चित्तं दुःखेन बाध्यते॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T052",
+  "bo": "བདེ་གཤེགས",
+  "count": 8,
+  "occurrences": [
+   "1-1",
+   "1-9",
+   "3-22",
+   "3-33",
+   "5-46",
+   "6-1",
+   "7-44",
+   "10-8"
+  ],
+  "dm": {
+   "Sugatas": 7,
+   "Sugata": 1
+  },
+  "gm": {
+   "Sugatas": 6,
+   "Sugatahood": 1,
+   "Sugata": 1
+  },
+  "examples": [
+   {
+    "id": "1-1",
+    "bo": "བདེ་གཤེགས་ཆོས་ཀྱི་སྐུ་མངའ་སྲས་བཅས་དང་། ། ཕྱག་འོས་ཀུན་ལའང་གུས་པར་ཕྱག་འཚལ་ཏེ། ། བདེ་གཤེགས་སྲས་ཀྱི་སྡོམ་ལ་འཇུག་པ་ནི། ། ལུང་བཞིན་མདོར་བསྡུས་ནས་ནི་བརྗོད་པར་བྱ། །",
+    "dm": "Respectfully bowing to the Sugatas who possess the Dharmakāya, along with their heirs, and to all who are worthy of veneration, I shall describe the engagement in the vows of the Sugatas' heirs, Having condensed them in accordance with the scriptures.",
+    "gm": "To the Sugatas, endowed with the Dharmakāya, along with their heirs, And to all who are worthy of homage, I respectfully bow down; Then, entering into the vows of the heirs of the Sugatas, I shall explain it concisely in accordance with scripture.",
+    "sa": "सुगतान् ससुतान् सधर्मकायान् प्रणिपत्यादरतोऽखिलांश्च वन्द्यान्। सुगतात्मजसंवरावतारं कथयिष्यामि यथागमं समासात्॥"
+   },
+   {
+    "id": "3-33",
+    "bo": "བདག་གིས་དེ་རིང་སྐྱོབ་པ་ཐམས་ཅད་ཀྱི། ། སྤྱན་སྔར་འགྲོ་བ་བདེ་གཤེགས་ཉིད་དང་ནི། ། བར་དུ་བདེ་ལ་མགྲོན་དུ་བོས་ཟིན་གྱིས། ། ལྷ་དང་ལྷ་མིན་ལ་སོགས་དགའ་བར་གྱིས། །",
+    "dm": "Today, in the presence of all the Protectors, I invite the world to the state of the Sugatas and to temporal happiness; Since I have invited you as my guests to this bliss, May the gods, asuras, and all others rejoice!",
+    "gm": "Today, by me, in the presence of all the protectors, Wandering beings to Sugatahood itself, and Until then, to happiness, have been invited as guests; Let gods, asuras, and others rejoice!",
+    "sa": "जगदद्य निमन्त्रितं मया सुगतत्वेन सुखेन चान्तरा। पुरतः खलु सर्वतायिनामभिनन्दन्तु सुरासुरादयः॥"
+   },
+   {
+    "id": "7-44",
+    "bo": "རྒྱ་ཆེ་དྲི་བཟང་བསེལ་བའི་པདྨའི་སྙིང་པོར་གནས། ། རྒྱལ་བའི་གསུང་སྙན་ཟས་ཀྱིས་གཟི་བརྗིད་བསྐྱེད་བྱས་པ། ། ཐུབ་འོད་ཀྱིས་རྒྱས་པདྨ་ལས་བྱུང་ལུས་མཆོག་ཅན། ། རྒྱལ་བའི་མདུན་གནས་བདེ་གཤེགས་སྲས་སུ་དགེ་བས་འགྱུར། །",
+    "dm": "Abiding within the heart of a vast, fragrant, and cool lotus, Their splendor nourished by the food of the Victorious One's melodious speech, Possessing a supreme body born from a lotus blossomed by the Sage's light, Through their virtue they become a Son of the Sugata dwelling in the presence of the Victorious One.",
+    "gm": "Dwelling in the core of a vast, fragrant, and cooling lotus, Whose splendor is produced by the food of the Victor's sweet speech, With a supreme body born from a lotus blossomed by the Sage's light, Through wholesome deeds one becomes a son of the Sugata dwelling before the Victor.",
+    "sa": "विपुलसुगन्धिशीतलसरोरुहगर्भगता मधुरजिनस्वराशनकृतोपचितद्युतयः। मुनिकरबोधिताम्बुजविनिर्गतसद्वपुषः सुगतसुता भवन्ति सुगतस्य पुरः कुशलैः॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T068",
+  "bo": "དད་པ",
+  "count": 6,
+  "occurrences": [
+   "1-3",
+   "3-15",
+   "5-26",
+   "6-63",
+   "6-85",
+   "6-115"
+  ],
+  "dm": {
+   "faith": 6
+  },
+  "gm": {
+   "faith": 6
+  },
+  "examples": [
+   {
+    "id": "1-3",
+    "bo": "དགེ་བ་བསྒོམ་ཕྱིར་བདག་གི་དད་པའི་ཤུགས། ། འདི་དག་གིས་ཀྱང་རེ་ཞིག་འཕེལ་འགྱུར་ལ། ། བདག་དང་སྐལ་བ་མཉམ་པ་གཞན་གྱིས་ཀྱང་། ། ཅི་སྟེ་འདི་དག་མཐོང་ན་དོན་ཡོད་འགྱུར། །",
+    "dm": "Through this, the power of my faith to cultivate virtue may increase for a while; Furthermore, if others of equal fortune to myself should see this, It may prove meaningful for them as well.",
+    "gm": "In order to cultivate virtue, the force of my faith Will for a time increase because of this; And if others, equal in fortune to myself, Should see these words, they may be meaningful.",
+    "sa": "मम तावदनेन याति वृद्धिं कुशलं भावयितुं प्रसादवेगः। अथ मत्समधातुरेव पश्ये-दपरोऽप्येनमतोऽपि सार्थकोऽयम्॥"
+   },
+   {
+    "id": "5-26",
+    "bo": "ཐོས་ལྡན་དད་པ་ཅན་དང་ནི། ། བརྩོན་པ་ལྷུར་ལེན་དུ་མ་ཡང་། ། ཤེས་བཞིན་མེད་པའི་སྐྱོན་ཆགས་པས། ། ལྟུང་བའི་རྙོག་དང་བཅས་པར་འགྱུར། །",
+    "dm": "Even many who possess learning and faith, And who apply themselves with great diligence, Become defiled by the stain of downfalls, Due to the fault of lacking introspective awareness.",
+    "gm": "Those who are learned and have faith, And many who dedicate themselves to effort, Because they incur the fault of lacking introspection, Will become tainted by downfalls.",
+    "sa": "अनेके श्रुतवन्तोऽपि श्राद्धा यत्नपरा अपि। असंप्रजन्यदोषेण भवन्त्यापत्तिकश्मलाः॥"
+   },
+   {
+    "id": "6-85",
+    "bo": "བསོད་ནམས་དང་ནི་དད་པའམ། ། རང་གི་ཡོན་ཏན་ཅི་ཕྱིར་འདོར། ། རྙེད་པ་གྱུར་པ་མི་འཛིན་པ། ། གང་གིས་ཁྲོ་བ་མི་བྱེད་སྨྲོས། །",
+    "dm": "Why do you discard your own merit, faith, and good qualities? Tell me, why are you not angry at yourself For failing to grasp the gains that have come?",
+    "gm": "Merit and faith, Or your own good qualities, why do you cast them away? Not taking hold of the gains that occur, Tell me, why do you not become angry?",
+    "sa": "किं वारयतु पुण्यानि प्रसन्नान् स्वगुणानथ। लभमानो न गृह्णातु वद केन न कुप्यसि॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T084",
+  "bo": "དབང་ཕྱུག",
+  "count": 6,
+  "occurrences": [
+   "9-118",
+   "9-119",
+   "9-120",
+   "9-121",
+   "9-124",
+   "9-125"
+  ],
+  "dm": {
+   "Īśvara": 6
+  },
+  "gm": {
+   "Īśvara": 6
+  },
+  "examples": [
+   {
+    "id": "9-118",
+    "bo": "དབང་ཕྱུག་འགྲོ་བའི་རྒྱུ་ཡིན་ན། ། རེ་ཞིག་དབང་ཕྱུག་གང་ཡིན་སྨྲོས། ། འབྱུང་རྣམས་ཞེ་ན་དེ་ལྟ་མོད། ། མིང་ཙམ་ལ་ཡང་ཅི་ཞིག་ངལ། །",
+    "dm": "If Īśvara is the cause of the world, Then for a start, explain who Īśvara is. If you say he is the elements, that may be so; But why weary yourself over a mere name?",
+    "gm": "If Īśvara is the cause of beings, Tell me, for now, what is Īśvara? If one says it is the elements, so be it; But what is the use of exhausting oneself over a mere name?",
+    "sa": "ईश्वरो जगतो हेतुः वद कस्तावदीश्वरः। भूतानि चेद्भवत्वेवं नाममात्रेऽपि किं श्रमः॥"
+   },
+   {
+    "id": "9-120",
+    "bo": "དབང་ཕྱུག་མཁའ་མིན་གཡོ་མེད་ཕྱིར། ། བདག་མིན་སྔར་ནི་བཀག་ཟིན་ཕྱིར། ། བསམ་མིན་པ་ཡི་བྱེད་པོ་ཡང་། ། བསམ་མིན་བརྗོད་པས་ཅི་ཞིག་བྱ། །",
+    "dm": "Īśvara is not space, because space is inert; He is not the self, as that has already been refuted. And if the creator is also inconceivable, What is the point of speaking of him as \"inconceivable\"?",
+    "gm": "Īśvara is not space, because it is devoid of movement; He is not the self, because it was already refuted before; And as for a creator who is inconceivable, What is the use of speaking of the inconceivable?",
+    "sa": "नाकाशमीशोऽचेष्टत्वात् नात्मा पूर्वनिषेधतः। अचिन्त्यस्य च कर्तृत्वमप्यचिन्त्यं किमुच्यते॥"
+   },
+   {
+    "id": "9-124",
+    "bo": "གལ་ཏེ་ལྟོས་ན་ཚོགས་པ་ཉིད། ། རྒྱུ་ཡིན་འགྱུར་གྱི་དབང་ཕྱུག་མིན། ། ཚོགས་ན་མི་སྐྱེ་དབང་མེད་ཅིང་། ། དེ་མེད་པར་ནི་སྐྱེ་དབང་མེད། །",
+    "dm": "If he depends on something, then the collection of conditions Is the cause, and not Īśvara. When the collection is present, he has no power not to produce, And without it, he has no power to produce.",
+    "gm": "If he depends, then the collection itself Would be the cause, and not Īśvara. When assembled, there is no power not to produce, And without them, there is no power to produce.",
+    "sa": "अपेक्षते चेत्सामग्रीं हेतुर्न पुनरीश्वरः। नाकर्तुमीशः सामग्र्यां न कर्तुं तदभावतः॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T100",
+  "bo": "ཐེག་ཆེན",
+  "count": 5,
+  "occurrences": [
+   "5-102",
+   "9-41",
+   "9-42",
+   "9-43",
+   "9-49"
+  ],
+  "dm": {
+   "Mahāyāna": 4,
+   "Mahayana": 1
+  },
+  "gm": {
+   "Mahāyāna": 5
+  },
+  "examples": [
+   {
+    "id": "5-102",
+    "bo": "རྟག་པར་དགེ་བའི་བཤེས་གཉེན་ནི། ། ཐེག་ཆེན་དོན་ལ་མཁས་པ་དང་། ། བྱང་ཆུབ་སེམས་དཔའི་བརྟུལ་ཞུགས་མཆོག ། སྲོག་གི་ཕྱིར་ཡང་མི་བཏང་ངོ་། །",
+    "dm": "One should never forsake a spiritual friend Who is learned in the meaning of the Mahāyāna And possesses the supreme conduct of a Bodhisattva, Even at the cost of one's own life.",
+    "gm": "Always, the virtuous spiritual friend, Who is skilled in the meaning of the Mahāyāna, And the supreme discipline of the bodhisattvas, Should not be given up even for the sake of one's life.",
+    "sa": "सदा कल्याणमित्रं च जीवितार्थेऽपि न त्यजेत्। बोधिसत्त्वव्रतधरं महायानार्थकोविदम्॥"
+   },
+   {
+    "id": "9-49",
+    "bo": "ངག་གང་མདོ་སྡེ་ལ་འཇུག་དེ། ། གལ་ཏེ་སངས་རྒྱས་གསུངས་འདོད་ན། ། ཐེག་ཆེན་ཕལ་ཆེར་ཁྱེད་ཅག་གི ། མདོ་དང་མཚུངས་འདོད་མིན་ནམ་ཅི། །",
+    "dm": "If you accept that any speech which accords with the sutras is the word of the Buddha, Then why do you not accept the majority of the Mahayana, Which is similar to your own sutras?",
+    "gm": "If any speech that enters into the sūtras Is asserted to be spoken by the Buddha, Is it not asserted that the majority of the Mahāyāna Is equal to your sūtras?",
+    "sa": "यत्सूत्रेऽवतरेद्वाक्यं तच्चेद्बुद्धोक्तमिष्यते । महायानं भवत्सूत्रैः प्रायस्तुल्यं न किं मतम् ॥"
+   },
+   {
+    "id": "9-41",
+    "bo": "གལ་ཏེ་ཐེག་ཆེན་མ་གྲུབ་ན། ། ཁྱོད་ཀྱི་ལུང་ནི་ཇི་ལྟར་གྲུབ། ། གང་ཕྱིར་གཉིས་ཀ་ལ་འདི་གྲུབ། ། དང་པོ་ཁྱོད་ལ་འདི་མ་གྲུབ། །",
+    "dm": "If the Mahāyāna were not established, How would your own scriptures be established? Because this is established for both of us, Initially, this was not established for you.",
+    "gm": "\"If the Mahāyāna is not established, How is your scripture established?\" \"Because this is established for both of us.\" \"Initially, this was not established for you.\"",
+    "sa": "नन्वसिद्धं महायानं कथं सिद्धस्त्वदागमः। यस्मादुभयसिद्धोऽसौ न सिद्धोऽसौ तवादितः॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T116",
+  "bo": "དེ་བཞིན་གཤེགས",
+  "count": 4,
+  "occurrences": [
+   "2-11",
+   "2-22",
+   "6-125",
+   "9-29"
+  ],
+  "dm": {
+   "Tathāgatas": 4
+  },
+  "gm": {
+   "Tathāgatas": 4
+  },
+  "examples": [
+   {
+    "id": "2-11",
+    "bo": "དེ་བཞིན་གཤེགས་དང་དེ་ཡི་སྲས་རྣམས་ལ། ། རིན་ཆེན་བུམ་པ་མང་པོ་སྤོས་ཀྱི་ཆུ། ། ཡིད་འོང་ལེགས་པར་བཀང་བ་གླུ་དང་ནི། ། རོལ་མོར་བཅས་པ་དུ་མས་སྐུ་ཁྲུས་གསོལ། །",
+    "dm": "To the Tathāgatas and their spiritual heirs, I offer a bath from many precious vases, Beautifully filled with delightful, scented water, Accompanied by manifold songs and music.",
+    "gm": "To the Tathāgatas and their Children, With many jeweled vases of scented water, Beautifully and perfectly filled, alongside songs And various music, I offer a bath.",
+    "sa": "मनोज्ञगन्धोदकपुष्पपूर्णैः कुम्भैर्महारत्नमयैरनेकैः। स्नानं करोम्येष तथागतानां तदात्मजानां च सगीतिवाद्यम्॥"
+   },
+   {
+    "id": "2-22",
+    "bo": "ཇི་ལྟར་འཇམ་དབྱངས་ལ་སོགས་པས། ། རྒྱལ་བ་རྣམས་ལ་མཆོད་མཛད་པ། ། དེ་བཞིན་བདག་གིས་དེ་བཞིན་གཤེགས། ། མགོན་པོ་སྲས་དང་བཅས་རྣམས་མཆོད། །",
+    "dm": "Just as Mañjughoṣa and the others Have made offerings to the Victors, So too do I make offerings to the Tathāgatas, The Protectors, and their spiritual heirs.",
+    "gm": "Just as Mañjuśrī and others Made offerings to the Victorious Ones, Likewise, I make offerings to the Tathāgatas, The Protectors along with their Children.",
+    "sa": "मञ्जुघोषप्रभृतयः पूजयन्ति यथा जिनान्। तथा तथागतान्नाथान् सपुत्रान् पूजयाम्यहम्॥"
+   },
+   {
+    "id": "6-125",
+    "bo": "དེ་བཞིན་གཤེགས་རྣམས་དགྱེས་པར་བགྱི་སླད་དུ། ། དེང་ནས་བཟུང་ནས་འཇིག་རྟེན་བྲན་དུ་མཆི། ། འགྲོ་མང་རྡོག་པས་བདག་གི་སྤྱིར་འཚོག་གམ། ། འགུམས་ཀྱང་མི་བསྡོ་འཇིག་རྟེན་མགོན་དགྱེས་མཛོད། །",
+    "dm": "In order to please the Tathāgatas, From this day forth I shall remain a servant to the world. Even if many beings should kick me or trample upon my head, Or even kill me, I shall not retaliate; may the Protectors of the World be pleased.",
+    "gm": "In order to please the Tathāgatas, From today onward I shall be a servant to the world. Even if the multitudes of wandering beings strike my head with their feet, Or kill me, I will not retaliate; may the protectors of the world be pleased!",
+    "sa": "आराधनायाद्य तथागतानां सर्वात्मना दास्यमुपैमि लोके। कुर्वन्तु मे मूर्घ्नि पदं जनौघा विघ्नन्तु वा तुष्यतु लोकनाथः॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T132",
+  "bo": "ཙནྡན",
+  "count": 4,
+  "occurrences": [
+   "8-46",
+   "8-64",
+   "8-66",
+   "8-85"
+  ],
+  "dm": {
+   "sandalwood": 3,
+   "Sandalwood": 1
+  },
+  "gm": {
+   "sandalwood": 3,
+   "Sandalwood": 1
+  },
+  "examples": [
+   {
+    "id": "8-46",
+    "bo": "ཤ་ཡི་ཕུང་པོ་འདི་མཐོང་ནས། ། བྱ་རྒོད་དང་གཞན་ཟ་བྱེད་ན། ། གཞན་གྱི་ཟས་ལ་མེ་ཏོག་གི ། ཕྲེང་བ་ཙནྡན་རྒྱན་གྱིས་མཆོད། །",
+    "dm": "Seeing this heap of flesh being eaten by vultures and others, Why do you honor the food of others with flower garlands, Sandalwood, and ornaments?",
+    "gm": "Seeing this heap of flesh, When vultures and others eat it, Why do you offer to the food of others Garlands of flowers, sandalwood, and ornaments?",
+    "sa": "मांसोच्छ्रयमिमं दृष्ट्वा गृध्रैरन्यैश्च भक्षितम्। आहारः पूज्यतेऽन्येषां स्रक्‍चन्दनविभूषणैः॥"
+   },
+   {
+    "id": "8-64",
+    "bo": "ལུས་ལ་བསྐུས་པའི་དྲི་དེ་ཡང་། ། ཙནྡན་སོགས་ཡིན་གཞན་མ་ཡིན། ། གཞན་གྱི་དྲི་དེས་གཞན་དག་ལ། ། ཅི་ཡི་ཕྱིར་ན་ཆགས་པར་བྱེད། །",
+    "dm": "Even the fragrance applied to the body Is that of sandalwood and the like, not of anything else. Why then do you become attached to one thing Because of the fragrance of another?",
+    "gm": "That scent smeared on the body Is sandalwood and so forth, nothing else; Because of that scent of another thing, Why are you attached to another?",
+    "sa": "काये न्यस्तोऽप्यसौ गन्धश्चन्दनादेव नान्यतः। अन्यदीयेन गन्धेन कस्मादन्यत्र रज्यसे॥"
+   },
+   {
+    "id": "8-66",
+    "bo": "འོན་ཏེ་དྲི་ཞིམ་ཙནྡན་ནི། ། ལུས་ལ་འདིར་ནི་ཅི་ཞིག་བྱུང་། ། གཞན་གྱི་དྲི་ཡིས་གཞན་དག་ལ། ། ཅི་ཡི་ཕྱིར་ན་ཆགས་པར་བྱེད། །",
+    "dm": "If the fragrance is that of sandalwood, What part of it comes from the body? Why then do you become attached to one thing Because of the fragrance of another?",
+    "gm": "If the sweet scent belongs to sandalwood, What does that have to do with the body here? Because of the scent of another thing, Why are you attached to another?",
+    "sa": "कायस्यात्र किमायातं सुगन्धि यदि चन्दनम्। अन्यदीयेन गन्धेन कस्मादन्यत्र रज्यते॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T148",
+  "bo": "གཤིན་རྗེའི་ཕོ་ཉ",
+  "count": 3,
+  "occurrences": [
+   "2-41",
+   "2-44",
+   "7-9"
+  ],
+  "dm": {
+   "messengers of the Lord of Death": 3
+  },
+  "gm": {
+   "messengers of Yama": 2,
+   "Yama's messengers": 1
+  },
+  "examples": [
+   {
+    "id": "2-41",
+    "bo": "གཤིན་རྗེའི་ཕོ་ཉས་ཟིན་པ་ལ། ། གཉེན་གྱིས་ཅི་ཕན་བཤེས་ཅི་ཕན། ། དེ་ཚེ་བསོད་ནམས་གཅིག་བསྐྱབས་ན། ། དེ་ཡང་བདག་གིས་མ་བསྟེན་ཏོ། །",
+    "dm": "When seized by the messengers of the Lord of Death, What help are kinsmen, and what help are friends? At that time, merit alone provides protection, Yet that is what I have failed to cultivate.",
+    "gm": "When seized by the messengers of Yama, What good are relatives, what good are friends? At that time, merit alone is a protection, But I have not relied upon it.",
+    "sa": "यमदूतैर्गृहीतस्य कुतो बन्धुः कुतः सुहृत्। पुण्यमेकं तदा त्राणं मया तच्च न सेवितम्॥"
+   },
+   {
+    "id": "7-9",
+    "bo": "མྱ་ངན་ཤུགས་ཀྱིས་སྐྲངས་པ་ཡི། ། མིག་དམར་གདོང་ལ་མཆི་མ་འཛག ། ཉེ་དུ་རེ་ཐག་ཆད་པ་དང་། ། གཤིན་རྗེའི་ཕོ་ཉའི་བཞིན་ལ་བལྟ། །",
+    "dm": "With eyes red and swollen from the force of grief, Tears will stream down your face; As your relatives lose all hope, You will gaze upon the faces of the messengers of the Lord of Death.",
+    "gm": "Swollen by the force of sorrow, Red eyes shedding tears upon their faces, Relatives having lost hope, And looking at the faces of Yama's messengers.",
+    "sa": "शोकवेगसमुच्छूनसाश्रुरक्तेक्षणाननान्। बन्धून्निराशान् संपश्यन् यमदूतमुखानि च॥"
+   },
+   {
+    "id": "2-44",
+    "bo": "གཤིན་རྗེའི་ཕོ་ཉ་འཇིགས་འཇིགས་ལྟའི། ། ཤ་ཚུགས་ཅན་གྱིས་བཟུང་གྱུར་ཅིང་། ། འཇིགས་ཆེན་ནད་ཀྱིས་ཐེབས་གྱུར་པ། ། རབ་ཏུ་ཉམ་ཐག་སྨོས་ཅི་དགོས། །",
+    "dm": "Seized by the messengers of the Lord of Death, who have such terrifying forms, And stricken by the great illness of fear, What need is there to mention my extreme distress?",
+    "gm": "Seized by the messengers of Yama With their terrifying physical appearances, And struck by the great terrifying disease, What need to mention my utter misery?",
+    "sa": "किं पुनर्भैरवाकारैर्यमदूतैरधिष्ठितः। महात्रासज्वरग्रस्तः पुरीषोत्सर्गवेष्टितः॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T164",
+  "bo": "མཁའ",
+  "count": 3,
+  "occurrences": [
+   "6-29",
+   "9-86",
+   "9-120"
+  ],
+  "dm": {
+   "space": 3
+  },
+  "gm": {
+   "space": 3
+  },
+  "examples": [
+   {
+    "id": "6-29",
+    "bo": "ཅི་སྟེ་བདག་དེ་རྟག་ན་ནི། ། མཁའ་བཞིན་བྱེད་པ་མེད་པར་མངོན། ། རྐྱེན་རྣམས་གཞན་དང་ཕྲད་ན་ཡང་། ། འགྱུར་བ་མེད་ལ་ཅི་བྱར་ཡོད། །",
+    "dm": "If that self were permanent, It would clearly be inactive, like space. Even if it were to encounter other conditions, What could they do to something that is unchanging?",
+    "gm": "If that self is permanent, Like space, it is evidently inactive. Even if it meets with other conditions, What can be done to the unchanging?",
+    "sa": "नित्यो ह्यचेतनश्चात्मा व्योमवत् स्फुटमक्रियः। प्रत्ययान्तरसङ्गेऽपि निर्विकारस्य का क्रिया॥"
+   },
+   {
+    "id": "9-86",
+    "bo": "ཆ་ཡང་རྡུལ་དུ་ཕྱེ་བས་ཏེ། ། རྡུལ་དེའང་ཕྱོགས་ཆའི་དབྱེ་བ་ཡིས། ། ཕྱོགས་དབྱེའང་ཆ་ཤས་དང་བྲལ་ཕྱིར། ། མཁའ་བཞིན་དེས་ན་རྡུལ་ཡང་མེད། །",
+    "dm": "Even the parts are reduced to atoms, And those atoms are divided into directional facets. Since the directional facets are also devoid of parts, They are like space; therefore, even atoms do not exist.",
+    "gm": "And the part also by its division into particles, And that particle also by its division into directional parts, And since the division of directions is devoid of parts, It is like space; therefore, even particles do not exist.",
+    "sa": "अंशा अप्यणुभेदेन सोऽप्यणुर्दिग्विभागतः। दिग्विभागो निरंशत्वादाकाशं तेन नास्त्यणुः॥"
+   },
+   {
+    "id": "9-120",
+    "bo": "དབང་ཕྱུག་མཁའ་མིན་གཡོ་མེད་ཕྱིར། ། བདག་མིན་སྔར་ནི་བཀག་ཟིན་ཕྱིར། ། བསམ་མིན་པ་ཡི་བྱེད་པོ་ཡང་། ། བསམ་མིན་བརྗོད་པས་ཅི་ཞིག་བྱ། །",
+    "dm": "Īśvara is not space, because space is inert; He is not the self, as that has already been refuted. And if the creator is also inconceivable, What is the point of speaking of him as \"inconceivable\"?",
+    "gm": "Īśvara is not space, because it is devoid of movement; He is not the self, because it was already refuted before; And as for a creator who is inconceivable, What is the use of speaking of the inconceivable?",
+    "sa": "नाकाशमीशोऽचेष्टत्वात् नात्मा पूर्वनिषेधतः। अचिन्त्यस्य च कर्तृत्वमप्यचिन्त्यं किमुच्यते॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T180",
+  "bo": "མི་གཙང་བ",
+  "count": 3,
+  "occurrences": [
+   "8-49",
+   "9-8",
+   "9-119"
+  ],
+  "dm": {
+   "impure": 3
+  },
+  "gm": {
+   "filth": 1,
+   "unclean": 1,
+   "impure": 1
+  },
+  "examples": [
+   {
+    "id": "8-49",
+    "bo": "ཤིང་བལ་རེག་ན་འཇམ་པ་ཡི། ། སྔས་ལ་དགའ་བར་མི་བྱེད་པར། ། དྲི་ང་འཛག་པ་མ་ཡིན་ཞེས། ། འདོད་ལྡན་མི་གཙང་བ་ལ་རྨོངས། །",
+    "dm": "Instead of taking delight in a pillow, Which is soft to the touch like cotton, The lustful are deluded regarding the impure, Claiming, \"It does not leak a foul odor.\"",
+    "gm": "Of cotton, which is soft to the touch, You do not delight in a pillow, Saying it does not emit a foul odor; The lustful are deluded by filth.",
+    "sa": "तूलगर्भैर्मृदुस्पर्शै रमन्ते नोपधानकैः। दुर्गन्धं न स्रवन्तीति कामिनोऽमेध्यमोहिताः॥"
+   },
+   {
+    "id": "9-8",
+    "bo": "རྣལ་འབྱོར་ཀུན་རྫོབ་ཉེས་མེད་དེ། ། འཇིག་རྟེན་ལ་ལྟོས་དེ་ཉིད་མཐོང་། ། གཞན་དུ་བུད་མེད་མི་གཙང་བར། ། དེས་རྟོག་འཇིག་རྟེན་གྱིས་གནོད་འགྱུར། །",
+    "dm": "There is no fault in the conventional truth of the yogis, For they see reality in relation to the world; Otherwise, the world's perception would invalidate The realization that a woman's body is impure.",
+    "gm": "There is no fault in the yogi's relative; In relation to the world, they see reality. Otherwise, the apprehension of women as unclean Would be invalidated by the world.",
+    "sa": "न दोषो योगिसंवृत्या लोकात्ते तत्त्वदर्शिनः। अन्यथा लोकबाधा स्यादशुचिस्त्रीनिरूपणे॥"
+   },
+   {
+    "id": "9-119",
+    "bo": "འོན་ཀྱང་ས་སོགས་དུ་མ་དང་། ། མི་རྟག་གཡོ་མེད་ལྷ་མིན་ཞིང་། ། འགོམ་བྱ་ཉིད་དང་མི་གཙང་བས། ། དེ་ནི་དབང་ཕྱུག་ཉིད་མ་ཡིན། །",
+    "dm": "However, because earth and the others are multiple, Impermanent, inert, and not divine, And because they are things to be trodden upon and are impure, They are not Īśvara himself.",
+    "gm": "However, earth and so forth are multiple, Impermanent, devoid of movement, not divine, Objects to be stepped upon, and impure; They are not Īśvara himself.",
+    "sa": "अपि त्वनेकेऽनित्याश्च निश्चेष्टा न च देवताः। लङ्घ्याश्चाशुचयश्चैव क्ष्मादयो न स ईश्वरः॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T196",
+  "bo": "ཆུ་ཤིང",
+  "count": 2,
+  "occurrences": [
+   "1-12",
+   "9-150"
+  ],
+  "dm": {
+   "plantain tree": 2
+  },
+  "gm": {
+   "plantain tree": 2
+  },
+  "examples": [
+   {
+    "id": "1-12",
+    "bo": "དགེ་བ་གཞན་ཀུན་ཆུ་ཤིང་བཞིན་དུ་ནི། ། འབྲས་བུ་བསྐྱེད་ནས་ཟད་པར་འགྱུར་བ་ཉིད། ། བྱང་ཆུབ་སེམས་ཀྱི་ལྗོན་ཤིང་རྟག་པར་ཡང་། ། འབྲས་བུ་འབྱིན་པས་མི་ཟད་འཕེལ་བར་འགྱུར། །",
+    "dm": "All other virtues are like the plantain tree; Once they have produced their fruit, they are exhausted. But the tree of the awakening mind perpetually bears fruit, And rather than being exhausted, it increases ever more.",
+    "gm": "All other virtues are just like the plantain tree: Having borne their fruit, they are exhausted; But the tree of the mind of awakening constantly Bears fruit, is not exhausted, and continually grows.",
+    "sa": "कदलीव फलं विहाय याति क्षयमन्यत् कुशलं हि सर्वमेव। सततं फलति क्षयं न याति प्रसवत्येव तु बोधिचित्तवृक्षः॥"
+   },
+   {
+    "id": "9-150",
+    "bo": "འགྲོ་བ་རྨི་ལམ་ལྟ་བུ་སྟེ། ། རྣམ་པར་དཔྱད་ན་ཆུ་ཤིང་འདྲ། ། མྱ་ངན་འདས་དང་མ་འདས་པའང་། ། དེ་ཉིད་དུ་ན་ཁྱད་པར་མེད། །",
+    "dm": "Wandering beings are like a dream; When analyzed, they are like a plantain tree. Between nirvāṇa and the state not passed beyond sorrow, In reality, there is no distinction.",
+    "gm": "Migrating beings are like a dream; When analyzed, they are like a plantain tree. Even passing into nirvana or not passing into nirvana, In reality, have no difference.",
+    "sa": "स्वप्नोपमास्तु गतयो विचारे कदलीसमाः। निर्वृतानिर्वृतानां च विशेषो नास्ति वस्तुतः॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T212",
+  "bo": "བསྐལ་པ་གྲངས་མེད",
+  "count": 2,
+  "occurrences": [
+   "3-5",
+   "8-154"
+  ],
+  "dm": {
+   "countless eons": 2
+  },
+  "gm": {
+   "countless eons": 2
+  },
+  "examples": [
+   {
+    "id": "3-5",
+    "bo": "རྒྱལ་བ་མྱ་ངན་འདའ་བཞེད་ལ། ། ཐལ་མོ་སྦྱར་ཏེ་གསོལ་བ་ནི། ། འགྲོ་འདི་ལྡོངས་པར་མི་དགོད་ཅིང་། ། བསྐལ་པ་གྲངས་མེད་བཞུགས་པར་གསོལ། །",
+    "dm": "To the Victors who intend to pass into nirvana, I join my palms and pray: Do not leave these beings in blindness, But please remain for countless eons.",
+    "gm": "To the Conquerors wishing to pass into nirvana, With joined palms I pray: So as not to leave these wanderers in blindness, I beseech you to remain for countless eons.",
+    "sa": "निर्वातुकामांश्च जिनान् याचयामि कृताञ्जलिः। कल्पाननन्तांस्तिष्ठन्तु मा भूदन्धमिदं जगत्॥"
+   },
+   {
+    "id": "8-154",
+    "bo": "ཡིད་ཁྱོད་རང་དོན་བྱེད་འདོད་པས། ། བསྐལ་པ་གྲངས་མེད་འདས་གྱུར་ཀྱང་། ། ངལ་བ་ཆེན་པོ་དེ་ལྟ་བུར། ། ཁྱོད་ཀྱིས་སྡུག་བསྔལ་འབའ་ཞིག་བསྒྲུབས། །",
+    "dm": "O mind, though countless eons have passed while you desired to pursue your own interests, Through such great hardship, You have achieved nothing but suffering.",
+    "gm": "O mind, because you desired to accomplish your own purpose, Even though countless eons have passed, With such great weariness, You have accomplished only suffering.",
+    "sa": "अप्रमेया गताः कल्पाः स्वार्थं जिज्ञासतस्तव। श्रमेण महतानेन दुःखमेव त्वयार्जितम्॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T228",
+  "bo": "སེམས་ཅན་དམྱལ་བ",
+  "count": 2,
+  "occurrences": [
+   "5-4",
+   "5-7"
+  ],
+  "dm": {
+   "hell realms": 1,
+   "hell": 1
+  },
+  "gm": {
+   "hells for sentient beings": 1,
+   "hells": 1
+  },
+  "examples": [
+   {
+    "id": "5-4",
+    "bo": "སྟག་དང་སེང་གེ་གླང་ཆེན་དྲེད། ། སྦྲུལ་དང་དགྲ་རྣམས་ཐམས་ཅད་དང་། ། སེམས་ཅན་དམྱལ་བའི་སྲུང་མ་དང་། ། བྱད་མ་དེ་བཞིན་སྲིན་པོ་རྣམས། །",
+    "dm": "Tigers, lions, elephants, bears, Snakes, and all enemies, The guardians of the hell realms, And likewise sorcerers and demons—",
+    "gm": "Tigers, lions, elephants, bears, Snakes, and all enemies, The guardians of the hells for sentient beings, Evil sorcerers, and likewise rākṣasas—",
+    "sa": "व्याघ्राः सिंहा गजा ऋक्षाः सर्पाः सर्वे च शत्रवः। सर्वे नरकपालाश्च डाकिन्यो राक्षसास्तथा॥"
+   },
+   {
+    "id": "5-7",
+    "bo": "སེམས་ཅན་དམྱལ་བའི་མཚོན་ཆ་རྣམས། ། སུ་ཞིག་གིས་ནི་ཆེད་དུ་བྱས། ། ལྕགས་སྲེག་ས་གཞི་སུ་ཡིས་བྱས། ། མེ་ཚོགས་དེ་དག་ཅི་ལས་བྱུང་། །",
+    "dm": "Who intentionally created The weapons of the hell beings? Who created the floor of burning iron, And from what did those masses of fire arise?",
+    "gm": "The weapons of the hells for sentient beings, Who intentionally created them? Who created the burning iron ground? From what did those masses of fire arise?",
+    "sa": "शस्त्राणि केन नरके घटितानि प्रयत्नतः। तप्तायःकुट्टिमं केन कुतो जाताश्च ताः स्त्रियः॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T244",
+  "bo": "གློ་བུར",
+  "count": 2,
+  "occurrences": [
+   "6-40",
+   "8-163"
+  ],
+  "dm": {
+   "adventitious": 1,
+   "fleeting": 1
+  },
+  "gm": {
+   "adventitious": 2
+  },
+  "examples": [
+   {
+    "id": "6-40",
+    "bo": "འོན་ཏེ་སྐྱོན་དེ་གློ་བུར་ལ། ། སེམས་ཅན་རང་བཞིན་དེས་པ་ནའང་། ། འོ་ནའང་ཁྲོ་བར་མི་རིགས་ཏེ། ། མཁའ་ལ་དུད་འཐུལ་དཀོན་པ་བཞིན། །",
+    "dm": "Alternatively, if this fault is adventitious And sentient beings are gentle by nature, It is still inappropriate to be angry, Just as it is to resent the sky for being filled with smoke.",
+    "gm": "But if that fault is adventitious, And the nature of sentient beings is gentle, Even then it is illogical to become angry, Like resenting space when smoke arises in it.",
+    "sa": "अथ दोषोऽयमागन्तुः सत्त्वाः प्रकृतिपेशलाः। तथाप्ययुक्तस्तत्कोपः कटुधूमे यथाम्बरे॥"
+   },
+   {
+    "id": "8-163",
+    "bo": "འདི་ནི་སྐྱོན་ཅན་རང་བཞིན་ཏེ། ། གློ་བུར་ཡོན་ཏན་ཆས་མི་བསྟོད། ། འདི་ཡི་ཡོན་ཏན་ཅི་ནས་ཀྱང་། ། འགས་ཀྱང་མི་ཤེས་དེ་ལྟར་གྱིས། །",
+    "dm": "This [self] is faulty by nature, So do not praise it for any fleeting qualities. Act in such a way that no one at all Will ever know of its virtues.",
+    "gm": "This one is of a faulty nature, Do not praise it for its adventitious good qualities. By all means, regarding its good qualities, Act so that no one at all will know them.",
+    "sa": "नागन्तुकगुणांशेन स्तुत्यो दोषमयो ह्ययम्। यथा कश्चिन्न जानीयाद्गुणमस्य तथा कुरु॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T260",
+  "bo": "མོས",
+  "count": 2,
+  "occurrences": [
+   "7-31",
+   "7-32"
+  ],
+  "dm": {
+   "aspiration": 2
+  },
+  "gm": {
+   "aspiration": 2
+  },
+  "examples": [
+   {
+    "id": "7-31",
+    "bo": "སེམས་ཅན་དོན་གྲུབ་བྱ་ཕྱིར་དཔུང་། ། མོས་བརྟན་དགའ་དང་དོར་བ་ཡིན། ། མོས་པ་སྡུག་བསྔལ་འཇིགས་པ་དང་། ། དེ་ཡི་ཕན་ཡོན་བསམ་པས་བསྐྱེད། །",
+    "dm": "To accomplish the welfare of sentient beings, one's forces are aspiration, steadfastness, joy, and relinquishment. Aspiration is generated by fearing suffering and contemplating its benefits.",
+    "gm": "The forces to accomplish the benefit of sentient beings Are aspiration, firmness, joy, and relinquishment. Aspiration is generated through the fear of suffering And contemplating its benefits.",
+    "sa": "छन्दस्थामरतिमुक्तिबलं सत्त्वार्थसिद्धये। छन्दं दुःखभयात्कुर्यादनुशंसांश्च भावयन्॥"
+   },
+   {
+    "id": "7-32",
+    "bo": "དེ་ལྟར་མི་མཐུན་ཕྱོགས་སྤངས་ཏེ། ། མོས་དང་ང་རྒྱལ་དགའ་དང་དོར། ། ལྷུར་ལེན་དབང་བསྒྱུར་སྟོབས་ཀྱིས་ནི། ། བརྩོན་འགྲུས་སྤེལ་ཕྱིར་འབད་པར་བྱ། །",
+    "dm": "Thus, having abandoned the opposing factors, One should strive to increase diligence through the powers of aspiration, pride, joy, relinquishment, Earnest application, and mastery.",
+    "gm": "Thus, having abandoned the discordant factors, Through aspiration, pride, joy, and relinquishment, And the powers of earnest application and mastery, I should strive to increase joyful endeavor.",
+    "sa": "एवं विपक्षमुन्मूल्य यतेतोत्साहवृद्धये। छन्दमानरतित्यागतात्पर्यवशिताबलैः॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T276",
+  "bo": "བདག་ཏུ་ཞེན་པ",
+  "count": 2,
+  "occurrences": [
+   "8-91",
+   "8-92"
+  ],
+  "dm": {
+   "cling to it as \"mine,\"": 1,
+   "attachment to a self": 1
+  },
+  "gm": {
+   "clinging to self": 2
+  },
+  "examples": [
+   {
+    "id": "8-91",
+    "bo": "གལ་ཏེ་བདག་གི་སྡུག་བསྔལ་གྱིས། ། གཞན་གྱི་ལུས་ལ་མི་གནོད་པ། ། དེ་ལྟའང་དེ་བདག་སྡུག་བསྔལ་དེ། ། བདག་ཏུ་ཞེན་པས་མི་བཟོད་ཉིད། །",
+    "dm": "If my own suffering Does not cause harm to the bodies of others, Nevertheless, because I cling to it as \"mine,\" That suffering is unbearable to me.",
+    "gm": "If my suffering Does not harm the bodies of others, Even so, that suffering is mine, Unbearable due to clinging to self.",
+    "sa": "यद्यप्यन्येषु देहेषु मद्दुःखं न प्रबाधते। तथापि तद्दुःखमेव ममात्मस्नेहदुःसहम्॥"
+   },
+   {
+    "id": "8-92",
+    "bo": "དེ་བཞིན་གཞན་གྱི་སྡུག་བསྔལ་དག ། བདག་ལ་འབབ་པར་མི་འགྱུར་ཡང་། ། དེ་ལྟའང་དེ་བདག་སྡུག་བསྔལ་དེ། ། བདག་ཏུ་ཞེན་པས་བཟོད་པར་དཀའ། །",
+    "dm": "Likewise, although the suffering of others Does not fall upon me, Nevertheless, because of attachment to a self, That suffering is difficult to bear.",
+    "gm": "Likewise, although the sufferings of others Do not fall upon me, Even so, that suffering is mine, Difficult to bear due to clinging to self.",
+    "sa": "तथा यद्यप्यसंवेद्यमन्यद्दुःखं मयात्मना। तथापि तस्य तद्दुःखमात्मस्नेहेन दुःसहम्॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T292",
+  "bo": "རྡུལ་ཕྲན",
+  "count": 2,
+  "occurrences": [
+   "9-94",
+   "9-126"
+  ],
+  "dm": {
+   "atom": 1,
+   "atoms": 1
+  },
+  "gm": {
+   "atom": 1,
+   "atoms": 1
+  },
+  "examples": [
+   {
+    "id": "9-94",
+    "bo": "རྡུལ་ཕྲན་རྡུལ་ཕྲན་ལ་འཇུག་མེད། ། དེ་ནི་སྐབས་མེད་མཉམ་པ་ཡིན། ། མ་ཞུགས་པ་ལ་འདྲེས་མེད་ཅིང་། ། མ་འདྲེས་པ་ལ་ཕྲད་པ་མེད། །",
+    "dm": "An atom cannot enter another atom, For it has no space and they are equal in size. Without entering, there is no mingling, And without mingling, there is no contact.",
+    "gm": "An atom does not enter an atom, For they have no empty space and are of equal size. Without entering, there is no mixing, And without mixing, there is no meeting.",
+    "sa": "नाणोरणौ प्रवेशोऽस्ति निराकाशः समश्च सः। अप्रवेशे न मिश्रत्वममिश्रत्वे न संगतिः॥"
+   },
+   {
+    "id": "9-126",
+    "bo": "གང་དག་རྡུལ་ཕྲན་རྟག་སྨྲ་བ། ། དེ་དག་ཀྱང་ནི་སྔར་བཟློག་ཟིན། ། གཙོ་བོ་རྟག་པ་འགྲོ་བ་ཡི། ། རྒྱུ་ཡིན་པར་ནི་གྲངས་ཅན་འདོད། །",
+    "dm": "Those who claim that atoms are eternal Have already been refuted previously. The Sāṃkhyas assert that a permanent Primal Substance Is the cause of the world.",
+    "gm": "As for those who assert permanent atoms, They have also already been refuted earlier. The permanent Pradhāna is the cause of beings; This is what the Sāṃkhyas assert.",
+    "sa": "येऽपि नित्यानणूनाहुस्तेऽपि पूर्वं निवारिताः। सांख्याः प्रधानमिच्छन्ति नित्यं लोकस्य कारणम्॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T308",
+  "bo": "བདེ་མཆོག",
+  "count": 1,
+  "occurrences": [
+   "1-7"
+  ],
+  "dm": {
+   "supreme bliss": 1
+  },
+  "gm": {
+   "supreme bliss": 1
+  },
+  "examples": [
+   {
+    "id": "1-7",
+    "bo": "བསྐལ་པ་དུ་མར་རབ་དགོངས་མཛད་པ་ཡི། ། ཐུབ་དབང་རྣམས་ཀྱིས་འདི་ཉིད་ཕན་པར་གཟིགས། ། འདིས་ནི་ཚད་མེད་སྐྱེ་བོའི་ཚོགས་རྣམས་ཀྱིས། ། བདེ་མཆོག་བདེ་བླག་ཉིད་དུ་ཐོབ་པར་བྱེད། །",
+    "dm": "The Lords of Sages, who have deeply contemplated for many eons, Have seen that this alone is beneficial. By this, the boundless multitudes of beings Will easily attain the supreme bliss.",
+    "gm": "The Lords of Sages, who have contemplated for many eons, Have seen that this alone is beneficial; By this, immeasurable multitudes of beings Will easily attain the supreme bliss.",
+    "sa": "कल्पाननल्पान् प्रविचिन्तयद्भि-र्दृष्टं मुनीन्द्रैर्हितमेतदेव। यतः सुखेनैव सुखं प्रवृद्ध-मुत्प्लावयत्यप्रमिताञ्जनौघान्॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T324",
+  "bo": "རིན་ཆེན་སེམས",
+  "count": 1,
+  "occurrences": [
+   "2-1"
+  ],
+  "dm": {
+   "precious mind": 1
+  },
+  "gm": {
+   "precious mind": 1
+  },
+  "examples": [
+   {
+    "id": "2-1",
+    "bo": "རིན་ཆེན་སེམས་དེ་གཟུང་བར་བྱ་བའི་ཕྱིར། ། དེ་བཞིན་གཤེགས་པ་རྣམས་དང་དམ་པའི་ཆོས། ། དཀོན་མཆོག་དྲི་མ་མེད་དང་སངས་རྒྱས་སྲས། ། ཡོན་ཏན་རྒྱ་མཚོ་རྣམས་ལ་ལེགས་པར་མཆོད། །",
+    "dm": "In order to fully embrace that precious mind, I make excellent offerings to the Tathāgatas, To the stainless Jewel of the sublime Dharma, And to the Sons of the Buddha, those oceans of virtue.",
+    "gm": "In order to take hold of that precious mind, To the Tathāgatas and the holy Dharma, The stainless Jewel, and the Children of the Buddhas, Who are oceans of qualities, I make excellent offerings.",
+    "sa": "तच्चित्तरत्नग्रहणाय सम्यक् पूजां करोम्येष तथागतानाम्। सद्धर्मरत्नस्य च निर्मलस्य बुद्धात्मजानां च गुणोदधीनाम्॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T340",
+  "bo": "སྒྲོན་མ",
+  "count": 1,
+  "occurrences": [
+   "2-17"
+  ],
+  "dm": {
+   "lamps": 1
+  },
+  "gm": {
+   "lamps": 1
+  },
+  "examples": [
+   {
+    "id": "2-17",
+    "bo": "གསེར་གྱི་པདྨ་ཚར་དུ་དངར་བ་ཡི། ། རིན་ཆེན་སྒྲོན་མ་རྣམས་ཀྱང་དབུལ་བར་བགྱི། ། ས་གཞི་བསྟར་བ་སྤོས་ཀྱིས་བྱུགས་པ་དེར། ། མེ་ཏོག་ཡིད་འོང་སིལ་མ་དགྲམ་པར་བྱ། །",
+    "dm": "I shall also offer precious lamps Arranged in rows upon golden lotuses. Upon the ground, smoothed and anointed with perfume, I shall scatter beautiful loose flowers.",
+    "gm": "Arranged in rows of golden lotuses, Jeweled lamps I will also offer. On the cleared ground anointed with incense, I shall scatter pleasing loose flowers.",
+    "sa": "रत्नप्रदीपांश्च निवेदयामि सुवर्णपद्मेषु निविष्टपङ्क्तीन्। गन्धोपलिप्तेषु च कुट्टिमेषु किरामि पुष्पप्रकरान् मनोज्ञान्॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T356",
+  "bo": "རྡོ་རྗེ་ཅན",
+  "count": 1,
+  "occurrences": [
+   "2-52"
+  ],
+  "dm": {
+   "Wielder of the Vajra": 1
+  },
+  "gm": {
+   "Vajra-wielder": 1
+  },
+  "examples": [
+   {
+    "id": "2-52",
+    "bo": "གང་ཞིག་མཐོང་ནས་གཤིན་རྗེ་ཡི། ། ཕོ་ཉ་ལ་སོགས་སྡང་བ་རྣམས། ། སྐྲག་ནས་ཕྱོགས་བཞིར་འབྱེར་བྱེད་པ། ། རྡོ་རྗེ་ཅན་ལ་སྐྱབས་སུ་མཆི། །",
+    "dm": "At the sight of whom, the messengers of Yama And other hostile beings flee in terror To the four directions, I go for refuge to the Wielder of the Vajra.",
+    "gm": "Seeing whom, the messengers of Yama And other malicious beings Flee in terror to the four directions, I take refuge in the Vajra-wielder.",
+    "sa": "यं दृष्ट्वैव च संत्रस्ताः पलायन्ते चतुर्दिशम्। यमदूतादयो दुष्टास्तं नमस्यामि वज्रिणम्॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T372",
+  "bo": "བུམ་པ་བཟང",
+  "count": 1,
+  "occurrences": [
+   "3-19"
+  ],
+  "dm": {
+   "vase of excellence": 1
+  },
+  "gm": {
+   "fine vase": 1
+  },
+  "examples": [
+   {
+    "id": "3-19",
+    "bo": "ཡིད་བཞིན་ནོར་དང་བུམ་པ་བཟང་། ། རིག་སྔགས་གྲུབ་དང་སྨན་ཆེན་དང་། ། དཔག་བསམ་གྱི་ནི་ཤིང་དག་དང་། ། ལུས་ཅན་རྣམས་ཀྱི་འདོད་འཇོར་གྱུར། །",
+    "dm": "May I be a wish-fulfilling jewel, a vase of excellence, A perfected mantra, and a great medicine, And may I be a wish-granting tree, And a cow of plenty for all embodied beings.",
+    "gm": "A wish-fulfilling jewel and a fine vase, An accomplished knowledge-mantra and great medicine, And wish-granting trees, May I become a cow of plenty for embodied beings.",
+    "sa": "चिन्तामणिर्भद्रघटः सिद्धविद्या महौषधिः। भवेयं कल्पवृक्षश्च कामधेनुश्च देहिनाम्॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T388",
+  "bo": "ཐར་བ",
+  "count": 1,
+  "occurrences": [
+   "4-7"
+  ],
+  "dm": {
+   "liberated": 1
+  },
+  "gm": {
+   "liberated": 1
+  },
+  "examples": [
+   {
+    "id": "4-7",
+    "bo": "མི་གང་བྱང་ཆུབ་སེམས་བཏང་ཡང་། ། དེ་དག་ཐར་བར་བྱེད་པ་ནི། ། ལས་ཚུལ་བསམ་གྱིས་མི་ཁྱབ་སྟེ། ། ཐམས་ཅད་མཁྱེན་པ་ཁོ་ནས་མཁྱེན། །",
+    "dm": "Even if one abandons the bodhicitta, The way in which those are liberated Is an inconceivable karmic process, Known only to the Omniscient One.",
+    "gm": "Even though some people give up the awakening mind, As for their being liberated, The way of karma is inconceivable; Only the Omniscient One knows.",
+    "sa": "वेत्ति सर्वज्ञ एवैतामचिन्त्यां कर्मणो गतिम्। यद्बोधिचित्तत्यागेऽपि मोचयत्येवं तां नरान्॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T404",
+  "bo": "སེམས་གསལ",
+  "count": 1,
+  "occurrences": [
+   "5-15"
+  ],
+  "dm": {
+   "clear mind": 1
+  },
+  "gm": {
+   "clear mind": 1
+  },
+  "examples": [
+   {
+    "id": "5-15",
+    "bo": "སེམས་གསལ་གཅིག་བསྐྱེད་འབྲས་བུ་གང་། ། ཚངས་ལ་སོགས་པ་ཡིན་པ་ལྟར། ། ལུས་ངག་བཅས་པའི་འབྲས་བུ་ཡང་། ། སྤྱོད་པ་ཞན་པས་དེ་ལྟ་མིན། །",
+    "dm": "Just as the result of generating a single clear mind Is birth as a Brahmā or the like, The results of body and speech are not such, Because their conduct is weak.",
+    "gm": "Whatever result is generated by a single clear mind, Such as Brahmā and so forth, The results of body and speech, Because of weak conduct, are not like that.",
+    "sa": "सहापि वाक्शरीराभ्यां मन्दवृत्तेर्न तत्फलम्। यत्पटोरेककस्यापि चित्तस्य ब्रह्मतादिकम्॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T420",
+  "bo": "མཚང་འབྲུ་བ",
+  "count": 1,
+  "occurrences": [
+   "5-49"
+  ],
+  "dm": {
+   "expose others' faults": 1
+  },
+  "gm": {
+   "expose faults": 1
+  },
+  "examples": [
+   {
+    "id": "5-49",
+    "bo": "རྒོད་དང་ག་ཞར་བཅས་པའམ། ། གལ་ཏེ་ང་རྒྱལ་རྒྱགས་ལྡན་པའམ། ། མཚང་འབྲུ་བ་ཡི་བསམ་པ་དང་། ། གལ་ཏེ་སྐྱོར་འབྱིན་སླུ་སེམས་སམ། །",
+    "dm": "If there is agitation or mockery, Or if there is pride and arrogance, Or the intention to expose others' faults, Or if there is divisiveness and deceit,",
+    "gm": "With wildness and mockery, Or if one possesses pride and arrogance, And the intention to expose faults, Or if there is an evasive or deceptive mind,",
+    "sa": "उद्धतं सोपहासं वा यदा मानमदान्वितम्। सोत्प्रासातिशयं वक्रं वञ्चकं च मनो भवेत्॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T436",
+  "bo": "ང",
+  "count": 1,
+  "occurrences": [
+   "5-57"
+  ],
+  "dm": {
+   "self": 1
+  },
+  "gm": {
+   "I": 1
+  },
+  "examples": [
+   {
+    "id": "5-57",
+    "bo": "ཁ་ན་མ་ཐོ་མེད་དངོས་ལ། ། བདག་དང་སེམས་ཅན་དབང་བྱས་ཤིང་། ། སྤྲུལ་པ་བཞིན་དུ་ང་མེད་པར། ། ཡིད་འདི་རྟག་ཏུ་གཟུང་བར་བྱ། །",
+    "dm": "In matters that are naturally blameless, For the sake of myself and other beings, I should always maintain this mind Without a sense of self, like an emanation.",
+    "gm": "Regarding faultless things, Having mastered myself and sentient beings, Without \"I\", like an apparition, This mind should always be held.",
+    "sa": "आत्मसत्त्ववशं नित्यमनवद्येषु वस्तुषु। निर्माणमिव निर्मानं धारयाम्येष मानसम्॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T452",
+  "bo": "ཀླུ་སྒྲུབ",
+  "count": 1,
+  "occurrences": [
+   "5-106"
+  ],
+  "dm": {
+   "Nāgārjuna": 1
+  },
+  "gm": {
+   "Nāgārjuna": 1
+  },
+  "examples": [
+   {
+    "id": "5-106",
+    "bo": "ཡང་ན་རེ་ཞིག་མདོར་བསྡུས་པའི། ། མདོ་རྣམས་ཀུན་ལས་བཏུས་པ་བལྟ། ། འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱིས་མཛད་པའི། ། གཉིས་པོའང་འབད་པས་བལྟ་བར་བྱ། །",
+    "dm": "Alternatively, for the time being, one should look at the concise Compendium of Sūtras; Both works composed by the noble Nāgārjuna should also be studied with diligence.",
+    "gm": "Or else, for the time being, the brief Sūtrasamuccaya should be looked at; And the two composed by the Noble Nāgārjuna Should also be looked at with effort.",
+    "sa": "संक्षेपेणाथवा तावत्पश्येत्सूत्रसमुच्चयम्। आर्यनागार्जुनाबद्धं द्वितीयं च प्रयत्नतः॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T468",
+  "bo": "ཚེ་གཞན",
+  "count": 1,
+  "occurrences": [
+   "6-54"
+  ],
+  "dm": {
+   "other lives": 1
+  },
+  "gm": {
+   "another": 1
+  },
+  "examples": [
+   {
+    "id": "6-54",
+    "bo": "གཞན་དག་བདག་ལ་མི་དགའ་བ། ། དེས་ནི་ཚེ་འདིའམ་ཚེ་གཞན་ལ། ། བདག་ལ་ཟ་བར་མི་བྱེད་ན། ། བདག་ནི་ཅི་ཕྱིར་དེ་མི་འདོད། །",
+    "dm": "If the dislike that others have for me Does not consume me in this life or in other lives, Why should I be averse to it?",
+    "gm": "That others dislike me, Since that, in this life or another, Will not consume me, Why do I dislike it?",
+    "sa": "मय्यप्रसादो योऽन्येषां स मां किं भक्षयिष्यति। इह जन्मान्तरे वापि येनासौ मेऽनभीप्सितः॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T484",
+  "bo": "གྲོལ་བ",
+  "count": 1,
+  "occurrences": [
+   "6-100"
+  ],
+  "dm": {
+   "liberation": 1
+  },
+  "gm": {
+   "liberation": 1
+  },
+  "examples": [
+   {
+    "id": "6-100",
+    "bo": "བདག་ནི་གྲོལ་བ་དོན་གཉེར་ལ། ། རྙེད་དང་བཀུར་སྟི་འཆིང་མི་དགོས། ། གང་དག་བདག་བཅིངས་གྲོལ་བྱེད་པ། ། དེ་ལ་བདག་ནི་ཇི་ལྟར་ཁྲོ། །",
+    "dm": "For me, who seeks liberation, I do not need the shackles of gain and honor. How could I be angry with those Who act to release me from my bonds?",
+    "gm": "Since I seek liberation, I do not need the bonds of gain and honor. Those who free me from being bound— How could I be angry at them?",
+    "sa": "मुक्त्यर्थिनश्चायुक्तं मे लाभसत्कारबन्धनम्। ये मोचयन्ति मां बन्धाद्द्‍वेषस्तेषु कथं मम॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T500",
+  "bo": "བཟོད་པ་བསྟན་པ",
+  "count": 1,
+  "occurrences": [
+   "6-a"
+  ],
+  "dm": {
+   "The Teaching on Patience": 1
+  },
+  "gm": {
+   "Teaching Patience": 1
+  },
+  "examples": [
+   {
+    "id": "6-a",
+    "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ལས། བཟོད་པ་བསྟན་པ་ཞེས་བྱ་བ་སྟེ་ལེའུ་དྲུག་པའོ།། །།",
+    "dm": "This concludes the sixth chapter, entitled \"The Teaching on Patience,\" from the *Entering the Way of the Bodhisattva*.",
+    "gm": "From Entering the Way of the Bodhisattva, the sixth chapter, named \"Teaching Patience.\"",
+    "sa": ""
+   }
+  ]
+ },
+ {
+  "term_id": "T516",
+  "bo": "བརྟན",
+  "count": 1,
+  "occurrences": [
+   "7-31"
+  ],
+  "dm": {
+   "steadfastness": 1
+  },
+  "gm": {
+   "firmness": 1
+  },
+  "examples": [
+   {
+    "id": "7-31",
+    "bo": "སེམས་ཅན་དོན་གྲུབ་བྱ་ཕྱིར་དཔུང་། ། མོས་བརྟན་དགའ་དང་དོར་བ་ཡིན། ། མོས་པ་སྡུག་བསྔལ་འཇིགས་པ་དང་། ། དེ་ཡི་ཕན་ཡོན་བསམ་པས་བསྐྱེད། །",
+    "dm": "To accomplish the welfare of sentient beings, one's forces are aspiration, steadfastness, joy, and relinquishment. Aspiration is generated by fearing suffering and contemplating its benefits.",
+    "gm": "The forces to accomplish the benefit of sentient beings Are aspiration, firmness, joy, and relinquishment. Aspiration is generated through the fear of suffering And contemplating its benefits.",
+    "sa": "छन्दस्थामरतिमुक्तिबलं सत्त्वार्थसिद्धये। छन्दं दुःखभयात्कुर्यादनुशंसांश्च भावयन्॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T532",
+  "bo": "རྒྱལ་བ་སེང་གེ",
+  "count": 1,
+  "occurrences": [
+   "7-55"
+  ],
+  "dm": {
+   "Lion-like Conqueror": 1
+  },
+  "gm": {
+   "Victorious Lion": 1
+  },
+  "examples": [
+   {
+    "id": "7-55",
+    "bo": "བདག་གིས་ཀུན་ལས་རྒྱལ་བྱ་སྟེ། ། བདག་ལས་སུ་ཡང་རྒྱལ་མི་བྱ། ། རྒྱལ་བ་སེང་གེའི་སྲས་བདག་གིས། ། ང་རྒྱལ་འདི་ལ་གནས་པར་བྱ། །",
+    "dm": "I shall triumph over everything; None shall triumph over me. As a son of the Lion-like Conqueror, I shall abide in this pride.",
+    "gm": "I shall conquer all, And no one shall conquer me. I, a son of the Victorious Lion, Should abide in this self-confidence.",
+    "sa": "मया हि सर्वं जेतव्यमहं जेयो न केनचित्। मयैष मानो वोढव्यो जिनसिंहसुतो ह्यहम्॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T548",
+  "bo": "སོ་སོའི་སྐྱེ་བོ",
+  "count": 1,
+  "occurrences": [
+   "8-10"
+  ],
+  "dm": {
+   "Ordinary beings": 1
+  },
+  "gm": {
+   "Ordinary people": 1
+  },
+  "examples": [
+   {
+    "id": "8-10",
+    "bo": "སྐད་ཅིག་གཅིག་གིས་མཛའ་འགྱུར་ལ། ། ཡུད་ཙམ་གྱིས་ནི་དགྲར་ཡང་འགྱུར། ། དགའ་བའི་གནས་ལ་ཁྲོ་བྱེད་པས། ། སོ་སོའི་སྐྱེ་བོ་མགུ་བར་དཀའ། །",
+    "dm": "In a single instant they become friends, And in a mere moment they turn into enemies. Because they react with anger toward things that should bring joy, Ordinary beings are difficult to please.",
+    "gm": "In a single instant they become friends, And in a brief moment they even become enemies. Since they become angry at causes for joy, Ordinary people are difficult to please.",
+    "sa": "क्षणाद्भवन्ति सुहृदो भवन्ति रिपवः क्षणात्। तोषस्थाने प्रकुप्यन्ति दुराराधाः पृथग्जनाः॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T564",
+  "bo": "རུས་གཟེབ",
+  "count": 1,
+  "occurrences": [
+   "8-51"
+  ],
+  "dm": {
+   "cage of bones": 1
+  },
+  "gm": {
+   "cage of bones": 1
+  },
+  "examples": [
+   {
+    "id": "8-51",
+    "bo": "གལ་ཏེ་མི་གཙང་ཆགས་མེད་ན། ། རུས་གཟེབ་རྒྱུས་པས་སྦྲེལ་བ་ལ། ། ཤ་ཡི་འདམ་གྱིས་ཞལ་ཞལ་བྱས། ། གཞན་ཁྱོད་ཅི་ཕྱིར་པང་དུ་འཁྱུད། །",
+    "dm": "If you have no attachment to what is impure, Why do you embrace in your lap another, A cage of bones bound together by sinews, And plastered over with the mud of flesh?",
+    "gm": "If you have no attachment to filth, To a cage of bones tied together with sinews And plastered with the mud of flesh, Why do you embrace another in your lap?",
+    "sa": "यदि ते नाशुचौ रागः कस्मादालिङ्गसेऽपरम्। मांसकर्दमसंलिप्तं स्नायुबद्धास्थिपञ्जरम्॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T580",
+  "bo": "བདག་གི་བློ",
+  "count": 1,
+  "occurrences": [
+   "8-114"
+  ],
+  "dm": {
+   "thought of \"I\"": 1
+  },
+  "gm": {
+   "mind of \"I\"": 1
+  },
+  "examples": [
+   {
+    "id": "8-114",
+    "bo": "ཇི་ལྟར་བདག་མེད་ལུས་འདི་ལ། ། གོམས་པས་བདག་གི་བློ་བྱུང་བ། ། དེ་བཞིན་སེམས་ཅན་གཞན་ལ་ཡང་། ། གོམས་པས་བདག་བློ་ཅིས་མི་སྐྱེ། །",
+    "dm": "Just as the thought of \"I\" has arisen Toward this selfless body through habituation, Why should the thought of \"I\" not likewise Arise toward other sentient beings through habituation?",
+    "gm": "Just as towards this selfless body The mind of \"I\" has arisen through habituation, Likewise, towards other sentient beings as well, Why would the mind of \"I\" not arise through habituation?",
+    "sa": "यथात्मबुद्धिरभ्यासात्स्वकायेऽस्मिन्निरात्मके। परेष्वपि तथात्मत्वं किमभ्यासान्न जायते॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T596",
+  "bo": "བདག་ཏུ་འཛིན",
+  "count": 1,
+  "occurrences": [
+   "8-177"
+  ],
+  "dm": {
+   "grasp": 1
+  },
+  "gm": {
+   "grasp at": 1
+  },
+  "examples": [
+   {
+    "id": "8-177",
+    "bo": "ཐ་མར་ཐལ་བའི་མཐར་གཏུགས་ཤིང་། ། མི་གཡོ་གཞན་གྱིས་བསྐྱོད་བྱ་བ། ། མི་གཙང་གཟུགས་ནི་མི་བཟད་པ། ། འདི་ལ་ཅི་ཕྱིར་བདག་ཏུ་འཛིན། །",
+    "dm": "Ultimately ending in ashes, it is inert and moved by others; Why do I grasp this unbearable, impure form as a self?",
+    "gm": "Ultimately ending in ashes, Motionless, to be moved by others, An unbearable, impure form— Why do I grasp at this as 'I'?",
+    "sa": "भस्मनिष्ठावसानेयं निश्चेष्टान्येन चाल्यते। अशुचिप्रतिमा घोरा कस्मादत्र ममाग्रहः॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T612",
+  "bo": "དེ་ཉིད་དུ",
+  "count": 1,
+  "occurrences": [
+   "9-16"
+  ],
+  "dm": {
+   "in reality": 1
+  },
+  "gm": {
+   "in reality": 1
+  },
+  "examples": [
+   {
+    "id": "9-16",
+    "bo": "གང་ཚེ་ཁྱོད་ལ་སྒྱུ་མ་ཉིད། ། མེད་ནའང་དེ་ཚེ་ཅི་ཞིག་དམིགས། ། གལ་ཏེ་དེ་ཉིད་དུ་གཞན་ཡོད། ། རྣམ་པ་དེ་ནི་སེམས་ཉིད་ཡིན། །",
+    "dm": "When, for you, the illusion itself Does not exist, then what is perceived? If it were something else in reality, That aspect would be the mind itself.",
+    "gm": "When, for you, even the illusion itself Does not exist, then what is perceived? \"If it exists as another in reality, That aspect is the mind itself.\"",
+    "sa": "यदा मायैव ते नास्ति तदा किमुपलभ्यते। चित्तस्यैव स आकारो यद्यप्यन्योऽस्ति तत्त्वतः॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T628",
+  "bo": "ནམ་མཁའ་ལྡིང",
+  "count": 1,
+  "occurrences": [
+   "9-36"
+  ],
+  "dm": {
+   "Garuḍa": 1
+  },
+  "gm": {
+   "garuḍa": 1
+  },
+  "examples": [
+   {
+    "id": "9-36",
+    "bo": "དཔེར་ན་ནམ་མཁའ་ལྡིང་གི་ནི། ། མཆོད་སྡོང་བསྒྲུབས་ནས་འདས་གྱུར་པ། ། དེ་འདས་ཡུན་རིང་ལོན་ཡང་དེ། ། དུག་ལ་སོགས་པ་ཞི་བྱེད་བཞིན། །",
+    "dm": "For example, just as a Garuḍa shrine, Once established, remains even after the practitioner has passed away, And continues to pacify poisons and the like Even though a long time has elapsed since his passing.",
+    "gm": "For example, when a garuḍa shrine Has been accomplished and its creator has passed away, Even though a long time has passed since his death, It pacifies poison and so forth.",
+    "sa": "यथा गारुडिकः स्तम्भं साधयित्वा विनश्यति। स तस्मिंश्चिरनष्टेऽपि विषादीनुपशामयेत्॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T644",
+  "bo": "བརྟགས",
+  "count": 1,
+  "occurrences": [
+   "9-63"
+  ],
+  "dm": {
+   "designated": 1
+  },
+  "gm": {
+   "designated": 1
+  },
+  "examples": [
+   {
+    "id": "9-63",
+    "bo": "སྒྲ་འཛིན་རང་བཞིན་གང་ཡིན་པ། ། དེ་གཟུགས་འཛིན་པར་ཇི་ལྟར་འགྱུར། ། གཅིག་ནི་ཕ་དང་བུ་ཉིད་དུ། ། བརྟགས་ཡིན་ཡང་དག་ཉིད་མིན་ཏེ། །",
+    "dm": "How could that which has the nature of apprehending sound Become that which apprehends form? One person being designated as both father and son Is not the ultimate reality.",
+    "gm": "How could that which has the nature of apprehending sound Become the apprehender of form? One being both father and son Is designated, but it is not ultimate reality.",
+    "sa": "शब्दग्रहणरूपं यत्तद्रूपग्रहणं कथम्। एकः पिता च पुत्रश्च कल्प्यते न तु तत्त्वतः॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T660",
+  "bo": "དཔྱད་བྱ",
+  "count": 1,
+  "occurrences": [
+   "9-110"
+  ],
+  "dm": {
+   "object of analysis": 1
+  },
+  "gm": {
+   "object of analysis": 1
+  },
+  "examples": [
+   {
+    "id": "9-110",
+    "bo": "དཔྱད་བྱ་རྣམ་པར་དཔྱད་བྱས་ན། ། རྣམ་དཔྱོད་ལ་ནི་རྟེན་ཡོད་མིན། ། རྟེན་མེད་ཕྱིར་ན་མི་སྐྱེ་སྟེ། ། དེ་ཡང་མྱ་ངན་འདས་པར་བརྗོད། །",
+    "dm": "When the object of analysis is thoroughly analyzed, There is no basis remaining for the analysis. Because there is no basis, it does not arise, And that is described as nirvana.",
+    "gm": "If the object of analysis has been analyzed, There is no basis for analysis. Because there is no basis, it does not arise, And that too is expressed as nirvāṇa.",
+    "sa": "विचारिते विचार्ये तु विचारस्यास्ति नाश्रयः। निराश्रितत्वान्नोदेति तच्च निर्वाणमुच्यते॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T676",
+  "bo": "གཟུགས་བརྙན",
+  "count": 1,
+  "occurrences": [
+   "9-144"
+  ],
+  "dm": {
+   "reflection": 1
+  },
+  "gm": {
+   "reflection": 1
+  },
+  "examples": [
+   {
+    "id": "9-144",
+    "bo": "གང་ཞིག་གང་ནི་ཉེ་བ་ཡིས། ། མཐོང་གྱུར་དེ་མེད་ན་མིན་པ། ། བཅོས་སུ་གཟུགས་བརྙན་དང་མཚུངས་པ། ། དེ་ལ་བདེན་ཉིད་ཇི་ལྟར་ཡོད། །",
+    "dm": "Whatever is seen through the proximity of something else, And does not exist without it, Is like a fabricated reflection; How could there be any true reality in that?",
+    "gm": "Whatever, through the proximity of something, Is seen, and is not when that is absent, Is artificial and similar to a reflection; How can there be true existence in that?",
+    "sa": "यदन्यसंनिधानेन दृष्टं न तदभावतः। प्रतिबिम्बसमे तस्मिन् कृत्रिमे सत्यता कथम्॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T692",
+  "bo": "འཇིག་རྟེན་ཁམས",
+  "count": 1,
+  "occurrences": [
+   "10-4"
+  ],
+  "dm": {
+   "world systems": 1
+  },
+  "gm": {
+   "realms of the world": 1
+  },
+  "examples": [
+   {
+    "id": "10-4",
+    "bo": "འཇིག་རྟེན་ཁམས་ན་དམྱལ་བ་དག ། གང་དག་ཇི་སྙེད་ཡོད་པ་རྣམས། ། དེ་དག་ཏུ་ནི་ལུས་ཅན་རྣམས། ། བདེ་ཅན་བདེ་བས་དགའ་བར་ཤོག །",
+    "dm": "In all the world systems, However many hells there may be, May the embodied beings within them Rejoice in the happiness of Sukhavati.",
+    "gm": "In the realms of the world, the hells, However many there are, In them, may embodied beings Rejoice with the happiness of Sukhāvatī.",
+    "sa": "यावन्तो नरकाः केचिद्विद्यन्ते लोकधातुषु। सुखावतीसुखामोद्यैर्मोदन्तां तेषु देहिनः॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T708",
+  "bo": "ནམ་མཁའི་མཛོད",
+  "count": 1,
+  "occurrences": [
+   "10-28"
+  ],
+  "dm": {
+   "treasury of space": 1
+  },
+  "gm": {
+   "treasury of space": 1
+  },
+  "examples": [
+   {
+    "id": "10-28",
+    "bo": "ཐམས་ཅད་ནམ་མཁའི་མཛོད་བཞིན་དུ། ། ལོངས་སྤྱོད་ཆད་པ་མེད་པར་ཤོག ། རྩོད་པ་མེད་ཅིང་འཚེ་མེད་པར། ། རང་དབང་དུ་ནི་སྤྱོད་པར་ཤོག །",
+    "dm": "May all have inexhaustible enjoyments, Just like the treasury of space. Without dispute and without harm, May they act with complete freedom.",
+    "gm": "Like the treasury of space, May their enjoyments be inexhaustible, And without dispute and without harm, May they enjoy them independently.",
+    "sa": "भवन्त्वक्षयकोशाश्च यावद्गगनगञ्जवत्। निर्द्वन्द्वा निरुपायासाः सन्तु स्वाधीनवृत्तयः॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T724",
+  "bo": "དཀའ་བ་སྤྱད་པ",
+  "count": 1,
+  "occurrences": [
+   "10-47"
+  ],
+  "dm": {
+   "hardships": 1
+  },
+  "gm": {
+   "hardships": 1
+  },
+  "examples": [
+   {
+    "id": "10-47",
+    "bo": "ངན་སོང་སྡུག་བསྔལ་མི་མྱོང་ཞིང་། ། དཀའ་བ་སྤྱད་པ་མེད་པར་ཡང་། ། ལྷ་བས་ལྷག་པའི་ལུས་ཀྱིས་ནི། ། དེ་དག་སངས་རྒྱས་མྱུར་འགྲུབ་ཤོག །",
+    "dm": "May they not experience the suffering of the lower realms, And even without undergoing hardships, With bodies superior even to the gods, May they swiftly achieve Buddhahood.",
+    "gm": "Without experiencing the sufferings of the lower realms, And without engaging in hardships, With bodies superior to those of the gods, May they swiftly attain buddhahood.",
+    "sa": "अभुक्त्वापायिकं दुःखं विना दुष्करचर्यया। दिव्येनैकेन कायेन जगद्बुद्धत्वमाप्नुयात्॥"
+   }
+  ]
+ },
+ {
+  "term_id": "T740",
+  "bo": "ཡུལ་དབུས",
+  "count": 1,
+  "occurrences": [
+   "b-2"
+  ],
+  "dm": {
+   "Central Indian": 1
+  },
+  "gm": {
+   "central region": 1
+  },
+  "examples": [
+   {
+    "id": "b-2",
+    "bo": "སླད་ཀྱིས་རྒྱ་གར་གྱི་མཁན་པོ་དྷརྨ་ཤྲཱི་བྷ་དྲ་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ་བནྡེ་རིན་ཆེན་བཟང་པོ་དང་། ཤཱཀྱ་བློ་གྲོས་ཀྱིས་ཡུལ་དབུས་ཀྱི་དཔེ་དང་འགྲེལ་པ་དང་མཐུན་པར་བཅོས་ཤིང་བསྒྱུར་ཏེ་གཏན་ལ་ཕབ་པའོ། །",
+    "dm": "Later, the Indian scholar Dharmaśrībhadra and the chief editors and translators, the monks Rinchen Zangpo and Śākya Lodrö, revised, translated, and finalized it in accordance with a Central Indian manuscript and commentary.",
+    "gm": "Later, it was corrected, translated, and finalized by the Indian preceptor Dharmaśrībhadra and the chief editor-translators, the monk Rinchen Zangpo and Śākya Lodrö, in accordance with manuscripts and commentaries from the central region.",
+    "sa": ""
+   }
+  ]
+ }
+]

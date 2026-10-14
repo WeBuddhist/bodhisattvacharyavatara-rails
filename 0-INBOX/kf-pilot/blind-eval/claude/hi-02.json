@@ -1,0 +1,172 @@
+{
+ "segments": [
+  {
+   "id": "7-48",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "7-66",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "8-2",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "8-42",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "8-50",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "8-76",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "कुछ मूर्ख",
+      "explanation": "'Some' fools is not in the Tibetan, which refers to fools generally."
+     }
+    ],
+    "B": []
+   }
+  },
+  {
+   "id": "8-112",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "आत्म-ग्रहण",
+      "explanation": "Self-grasping rendered with 'ग्रहण', the same word-family as 'taking' others (अपनाने), blurring the contrast; 'ग्राह' is clearer."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-135",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "8-156",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "8-161",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "9-16",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "\"यदि तत्त्वतः अन्य विद्यमान है,\nवह आकार स्वयं चित्त ही है।\"",
+      "explanation": "Stray quotation marks around the last two lines mislead the reader; the Tibetan has no quoted speech."
+     }
+    ]
+   }
+  },
+  {
+   "id": "9-39",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "9-56",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "9-67",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "9-96",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "9-113",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "9-152",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "fluency",
+      "severity": "major",
+      "span": "अप्रसन्न होने को क्या है, प्रसन्न होने को क्या है?",
+      "explanation": "Garbled and unclear; does not convey 'what is disliked, what is liked'."
+     }
+    ]
+   }
+  },
+  {
+   "id": "9-161",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "10-22",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "10-49",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  }
+ ]
+}

@@ -1,0 +1,269 @@
+{
+ "batch": "calibration",
+ "segments": [
+  {
+   "id": "1-8",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "恆時皆應捨棄菩提心",
+     "evidence": "The Tibetan ends བྱང་ཆུབ་སེམས་ཉིད་རྟག་ཏུ་གཏང་མི་བྱ ('should never forsake bodhicitta'); གཏང་མི་བྱ is a prohibition. Skt na vimocyaṃ ... sadaiva. bo-kunpal 1-8 གཏང་བར་མི་བྱ་སྟེ, bo-gyaltsab 1-8 བཏང་བ་སྟེ་ཉམས་པར་མི་བྱའོ. The translation drops the negation and says one should forsake it, reversing the verse.",
+     "fix": "恆時皆不應捨棄菩提心"
+    }
+   ]
+  },
+  {
+   "id": "1-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-5",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "孔雀",
+     "evidence": "The Tibetan is ངང་པ (swan/goose, Skt haṃsa); bo-kunpal 2-5 glosses ང༷ང་པ༷ with swans (ངང་པ་དང་བཞད་). A peacock is རྨ་བྱ. English academic has 'swans'.",
+     "fix": "天鵝"
+    }
+   ]
+  },
+  {
+   "id": "2-41",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "然我亦曾依止彼",
+     "evidence": "The Tibetan is དེ་ཡང་བདག་གིས་མ་བསྟེན་ཏོ ('I have not relied upon even that'); མ་བསྟེན་ is a negated verb. Skt tacca na sevitam. bo-gyaltsab 2-41 བདག་གིས་མ་བསྟེན་ཏོ ... དགེ་བ་མ་བྱས་པས་འགྱོད་པ (regret at not having done virtue). The translation affirms that the speaker did rely on merit, reversing the sense of the verse.",
+     "fix": "然我連彼亦未曾依止"
+    }
+   ]
+  },
+  {
+   "id": "3-5",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "將這些眾生置於盲目之中",
+     "evidence": "The Tibetan is འགྲོ་འདི་ལྡོངས་པར་མི་དགོད་ཅིང་ ('do not place these beings in blindness'); མི་དགོད་ is negated. Skt mā bhūd andham idaṃ jagat. bo-gyaltsab 3-5 ལྡོངས་པར་མི་དགོད་ཅིང་ ... མ་རིག་པའི་མུན་པ་བསལ་བའི་ཆེད་དུ་བཞུགས་པར་གསོལ. The translation drops the negation, turning the plea into a request to leave beings blind.",
+     "fix": "莫將這些眾生置於盲昧之中"
+    }
+   ]
+  },
+  {
+   "id": "3-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-19",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "十萬劫",
+     "evidence": "The Tibetan is བསྐལ་པ་བྱེ་བ་བརྒྱ ('a hundred ten-millions of eons'); བྱེ་བ་ is koṭi (ten million), Skt kalpakoṭiśata. bo-kunpal 4-19 བསྐལ་པ་བྱེ་བ་ཕྲག་བརྒྱ. 十萬 (a hundred thousand) is the wrong number by orders of magnitude.",
+     "fix": "百俱胝劫"
+    }
+   ]
+  },
+  {
+   "id": "4-28",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "major",
+     "span": "瞋恚等諸敵",
+     "evidence": "The Tibetan lists two enemies, ཞེ་སྡང་སྲེད་སོགས ('hatred, craving, and so forth'); Skt tṛṣṇādveṣādi. སྲེད་ is a locked term (渴愛). bo-shenga 4-28 ཞེ་སྡང་དང་སྲེད་པ་ལ་སོགས་པ. The translation omits 渴愛 and mentions only hatred.",
+     "fix": "瞋恚、渴愛等諸敵"
+    }
+   ]
+  },
+  {
+   "id": "5-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-83",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "應為小而捨大",
+     "evidence": "The Tibetan is ཆུང་ངུའི་ཕྱིར་ནི་ཆེ་མི་གཏང་ ('do not give up the great for the sake of the small'). Skt netarārthaṃ tyajet śreṣṭhām. bo-gyaltsab 5-83 ཆུང་ངུའི་ཕྱིར་ནི་ཆེ་བ་མི་གཏང་ཞིང་ཆེན་པོ་ལ་འབད་པར་བྱའོ; bo-shenga 5-83 ཆེ་བ་དག་མི་གཏོང་. The translation drops མི་ and instructs the opposite.",
+     "fix": "不應為小而捨大"
+    }
+   ]
+  },
+  {
+   "id": "5-96",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "major",
+     "span": "具備警覺",
+     "evidence": "The Tibetan ཤེས་བཞིན (Skt saṃprajānan) is a locked term to be rendered 正知. bo-kunpal 5-96 དྲན་པ་དང་ཤེས་བཞིན་དང་ལྡན་པ (mindfulness and introspective awareness). 警覺 (alertness) is not the locked rendering.",
+     "fix": "具備正知"
+    }
+   ]
+  },
+  {
+   "id": "6-1",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "十劫",
+     "evidence": "The Tibetan is བསྐལ་པ་སྟོང་དུ་བསགས་པ ('accumulated over a thousand eons'); Skt kalpasahasraiḥ. bo-gyaltsab 6-1 བསྐལ་པ་བརྒྱ་དང་སྟོང་དུ་བསགས་པ་ཡི་སྦྱིན་པ. The number is given as ten instead of a thousand.",
+     "fix": "千劫"
+    }
+   ]
+  },
+  {
+   "id": "6-121",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-128",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "雖有能力亦予報復",
+     "evidence": "The Tibetan is ནུས་ཀྱང་ཕྱིར་གནོད་མི་བྱེད་ ('though able, they do not harm in return'). Skt vikartuṃ naiva śaknoti / bo-kunpal 6-128 ནུས་ཀྱང་ཕྱིར་ལན་དུ་གནོད་པ་མི་བྱེད་པར; bo-shenga 6-128 ནུས་པ་ཡོད་ཀྱང་དེ་ལ་ཕྱིར་གནོད་པ་མི་བྱེད་དེ. The translation drops the negation and says they retaliate, reversing the point.",
+     "fix": "雖有能力亦不報復"
+    }
+   ]
+  },
+  {
+   "id": "7-14",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "天身",
+     "evidence": "The Tibetan is མི་ཡི་གྲུ ('the boat of a human being'); Skt mānuṣyaṃ nāvam. bo-kunpal 7-14 དལ་འབྱོར་གྱི་མི་ཡི་ལུས་རྟེན་གྲུ་བཟང་པོ; bo-shenga 7-14 མི་ཡི་ལུས་ཀྱི་གྲུ་བོ་ཆེ. 天身 means a divine body, not a human body.",
+     "fix": "人身"
+    }
+   ]
+  },
+  {
+   "id": "7-21",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "卻會獲得菩提",
+     "evidence": "The Tibetan is བྱང་ཆུབ་ཐོབ་པར་མི་འགྱུར་རོ ('will not attain awakening'). Skt na ca bodhir bhaviṣyati. bo-kunpal 7-21 བྱང་ཆུབ་ཆེན་པོ་ཐོབ་པར་ནི་མི་འགྱུར་རོ; bo-gyaltsab 7-21 བླ་ན་མེད་པའི་བྱང་ཆུབ་ཐོབ་པར་མི་འགྱུར་རོ. The translation asserts the opposite.",
+     "fix": "卻不會獲得菩提"
+    }
+   ]
+  },
+  {
+   "id": "8-4",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "major",
+     "span": "觀照",
+     "evidence": "ལྷག་མཐོང (Skt vipaśyanā) is a locked term to be rendered 勝觀; the translation uses 觀照 (contemplative illumination), which is not the technical term. bo-kunpal 8-4 ཞི་གནས་ཀྱི་ཏིང་ངེ་འཛིན་དང་རབ་ཏུ་ལྡན་པའི་ལྷག་མཐོང.",
+     "fix": "勝觀"
+    }
+   ]
+  },
+  {
+   "id": "8-32",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "他人既分擔苦",
+     "evidence": "The Tibetan is སྡུག་བསྔལ་སྐལ་གཞན་མི་ལེན་ན ('since others do not take a share of the suffering'). Skt nānyasya tadvyathābhāgaḥ. bo-kunpal 8-32 གཞན་གཉེན་དང་མཛའ་བ་རྣམས་ཀྱིས་མི་ལེན་པར་བདག་ཉིད་གཅིག་པུས་མྱོང་བར་འགྱུར་ན; bo-shenga 8-32 གཞན་སུས་ཀྱང་མི་ལེན་ན. The translation drops the negation, so the 'what is the use' conclusion no longer follows.",
+     "fix": "他人既不分擔苦"
+    }
+   ]
+  },
+  {
+   "id": "8-84",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "major",
+     "span": "與山洞",
+     "evidence": "The Tibetan has only ཞི་བའི་ནགས་ཀྱི་ནང་དག་ཏུ ('within peaceful forests'); Skt śāntāsu vanabhūmiṣu. bo-shenga 8-84 and bo-gyaltsab 8-84 mention only the forest. No caves appear in the source, so 山洞 is added content.",
+     "fix": "之寂靜森林中"
+    }
+   ]
+  },
+  {
+   "id": "9-2",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "勝義諦是智的行境",
+     "evidence": "The Tibetan is དོན་དམ་བློ་ཡི་སྤྱོད་ཡུལ་མིན ('ultimate truth is not the domain of the intellect'). Skt buddher agocaras tattvam. bo-shenga 9-2 དོན་དམ་པའི་བདེན་པ་ནི་ ... རྣམ་པར་རྟོག་པའི་བློ་ཡི་སྤྱོད་ཡུལ་མིན; bo-kunpal 9-2 བློ་ཡི་སྤྱོད་ཡུལ་མིན་ཏེ. The translation drops the negation and states the reverse.",
+     "fix": "勝義諦非智之行境"
+    }
+   ]
+  },
+  {
+   "id": "9-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-17",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "critical",
+     "span": "以心能見於心",
+     "evidence": "The Tibetan is སེམས་ཀྱིས་སེམས་མི་མཐོང་ཞེས་གསུངས ('stated that the mind does not see the mind'). Skt cittaṃ cittaṃ na paśyati. bo-kunpal 9-17 སེམས་ཀྱིས་སེམས་རང་གིས་རང་ནི་མི་མཐོང་ངོ་; bo-shenga 9-17 སེམས་ཀྱིས་སེམས་མི་མཐོང་. The translation says the opposite of what the Protector is cited as saying.",
+     "fix": "謂心不能見心"
+    }
+   ]
+  },
+  {
+   "id": "10-51",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "觀世音",
+     "evidence": "The Tibetan is འཇམ་དབྱངས ('Mañjuśrī'), a locked term (文殊師利); Skt mañjughoṣa. bo-kunpal 10-50 འཇམ་པའི་དབྱངས་ཀྱི་བཀའ་དྲིན; bo-shenga 10-51 རྗེ་བཙུན་འཇམ་པའི་དབྱངས་ཀྱི་བཀའ་དྲིན. Avalokiteśvara (觀世音) is a different bodhisattva, so the referent is wrong.",
+     "fix": "文殊師利"
+    }
+   ]
+  },
+  {
+   "id": "10-55",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,136 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "1-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-11",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "珍貴之菩提心",
+     "evidence": "Tibetan རིན་ཆེན་བྱང་ཆུབ་སེམས་ 'precious/jewel bodhicitta' (Skt. bodhicittaratnam); locked term རིན་ཆེན་ => 寶, but the translation uses 珍貴 and drops 寶. Gyaltsab 1-11 glosses it as 'རིན་པོ་ཆེ་དབང་གི་རྒྱལ་བོ་ལྟ་བུའི་རིན་ཆེན་བྱང་ཆུབ་ཀྱི་སེམས་' (a jewel-like bodhicitta).",
+     "fix": "寶菩提心"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "欲脫離眾生之處者",
+     "evidence": "Tibetan འགྲོ་བའི་གནས་དང་བྲལ་བར་འདོད་པ་ 'those wishing to be free of the migration-realms'; here འགྲོ་བ is 'destiny/realm of rebirth' (Skt. gati), not 'beings'. Gyaltsab 1-11 glosses འགྲོ་བའི་གནས་ as འཁོར་བའི་རྒུད་པ་མཐའ་དག་ (all the lower rungs/realms of saṃsāra); Shenga 1-11: འགྲོ་བ་ལྔའི་གནས (the realms of the five migrations). Applying the locked 眾生 gives 'places of beings', which is misleading.",
+     "fix": "欲脫離諸趣（輪迴之處）者"
+    }
+   ]
+  },
+  {
+   "id": "1-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-41",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "不受欺凌",
+     "evidence": "Tibetan བརྙས་པ་ 'to be despised/held in contempt' (Skt. paribhūta); Kunpal 10-41 'གཞན་གྱིས་བརྙས་པར་ཡང་མི་འགྱུར' (be despised by others). 欺凌 means bullying/oppressing, narrower and stronger.",
+     "fix": "不受輕蔑"
+    }
+   ]
+  },
+  {
+   "id": "10-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-22",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "供養諸如來，諸位怙主以及諸佛子",
+     "evidence": "Tibetan དེ་བཞིན་གཤེགས། མགོན་པོ་སྲས་དང་བཅས་རྣམས་མཆོད 'the Tathāgatas, the Protectors, together with their children': མགོན་པོ is in apposition to the Tathāgatas. Gyaltsab 2-22: དེ་བཞིན་གཤེགས་པ་ལྷ་མི་རྣམས་ཀྱི་མགོན་པོ་སྲས་དང་བཅས་པ་རྣམས་ (Tathāgatas, protectors of gods and humans, together with their children). The Chinese '諸如來，諸位怙主以及諸佛子' reads as three separate groups.",
+     "fix": "供養諸如來怙主及其佛子"
+    }
+   ]
+  }
+ ]
+}

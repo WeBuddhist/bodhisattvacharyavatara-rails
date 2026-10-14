@@ -1,0 +1,137 @@
+{
+ "batch": "batch-46",
+ "segments": [
+  {
+   "id": "10-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-41",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "無任何人心中不悅",
+     "evidence": "Tibetan \"འགའ་ཡང་ཡིད་མི་བདེ་མ་གྱུར\" with elided subject \"སེམས་ཅན\" carried over from line 1 (bo-kunpal 10-41: \"སེམས་ཅན་འགའ་ཡང་ཡིད་མི་བདེ་བར་ཡང་མ་གྱུར\"); \"人\" narrows the referent to humans, while the subject is sentient beings.",
+     "fix": "無任何有情心中不悅"
+    }
+   ]
+  },
+  {
+   "id": "10-42",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "僧伽之目標亦皆成就",
+     "evidence": "\"དགེ་འདུན་དོན\" means the affairs/tasks of the Sangha (Skt saṅghakārya); bo-shenga 10-42 glosses it as the Sangha's activities of reading and meditation (\"དགེ་འདུན་གྱི་དོན་ཀློག་སྤོང་གི་བྱ་བ\"), not abstract \"goals\".",
+     "fix": "僧伽之事務亦皆成就"
+    }
+   ]
+  },
+  {
+   "id": "10-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-54",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "盡十方虛空的邊際，為了成辦一切有情的利益",
+     "evidence": "\"ཕྱོགས་བཅུའི་ནམ་མཁའི་མཐས་གཏུགས་པའི\" modifies \"སེམས་ཅན\" (beings extending to the limit of space; bo-kunpal 10-54, bo-shenga 10-54 \"ནམ་མཁའི་མཐས་གཏུགས་པར…སེམས་ཅན\"); the Chinese leaves the phrase as a free-standing line that can be read adverbially.",
+     "fix": "為了成辦盡十方虛空邊際一切有情的利益"
+    }
+   ]
+  },
+  {
+   "id": "10-55",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "願我亦安住爾時",
+     "evidence": "\"དེ་སྲིད\" (correlative of \"ཇི་སྲིད\") means \"for that long / as long as that\", a duration (Skt tāvat); \"爾時\" means \"at that time\", turning duration into a point in time.",
+     "fix": "願我亦安住如是之久"
+    }
+   ]
+  },
+  {
+   "id": "10-56",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

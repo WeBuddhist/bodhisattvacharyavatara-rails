@@ -1,0 +1,86 @@
+{
+ "batch": "batch-05",
+ "segments": [
+  {
+   "id": "9-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-77",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "दुख का कारण घमंड है।",
+     "evidence": "Tibetan/academic: 'the pride that is a cause of suffering' (pride as one cause of suffering), not an identity claim that pride is THE cause of suffering.",
+     "fix": "घमंड दुख का एक कारण है। यह \"अपना आप\" की उलझन से बढ़ता है।"
+    }
+   ]
+  },
+  {
+   "id": "9-8",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "जब वे शरीर को गन्दा कहते हैं",
+     "evidence": "Academic/Tibetan: 'regarding a woman as impure' (བུད་མེད་མི་གཙང་བར་རྟོག་པ); the children's text generalises to 'the body', losing the specific example.",
+     "fix": "अगर ऐसा न होता, तो जब वे किसी स्त्री को गन्दा मानते, तब दुनिया उन्हें ग़लत साबित कर देती।"
+    }
+   ]
+  },
+  {
+   "id": "9-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "b-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "b-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "b-3",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

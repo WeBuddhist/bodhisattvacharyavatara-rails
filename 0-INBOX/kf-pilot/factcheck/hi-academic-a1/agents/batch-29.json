@@ -1,0 +1,144 @@
+{
+ "batch": "batch-29",
+ "segments": [
+  {
+   "id": "8-51",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "स्नायुओं से बँधे हुए अस्थिपञ्जर को, जिस पर मांस के कीचड़ का लेप है, तुम दूसरे को अपनी गोद में क्यों भरते हो",
+     "evidence": "Tibetan \"རུས་གཟེབ་རྒྱུས་པས་སྦྲེལ་བ་ལ། ཤ་ཡི་འདམ་གྱིས་ཞལ་ཞལ་བྱས། གཞན་\" (bo-shenga 8-51: \"...བྱས་པའི་གཞན་བུད་མེད་ཀྱི་ལུས་\") has the bone-cage bound with sinews and plastered with flesh-mud as a description of the single object \"another\" (gzhan). The Hindi gives two accusative objects (\"अस्थिपञ्जर को\" ... \"दूसरे को\") so the syntax is hard to parse.",
+     "fix": "तो स्नायुओं से बँधे और मांस के कीचड़ से लिपे हुए अस्थिपञ्जर-रूप दूसरे को तुम अपनी गोद में क्यों भरते हो?"
+    }
+   ]
+  },
+  {
+   "id": "8-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-58",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "अशुचिता से",
+     "evidence": "Tibetan \"མི་གཙང་ཆགས་མེད་ན\" uses the locked term མི་གཙང (अशुचि); the translation switches to the derived abstract \"अशुचिता\", inconsistent with 8-51 and the locked rendering.",
+     "fix": "अशुचि से"
+    }
+   ]
+  },
+  {
+   "id": "8-59",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "छोटा होने पर भी तुम नहीं चाहते",
+     "evidence": "Tibetan \"ཆུང་ངུའང་ཁྱོད་འདོད་མི་བྱེད་ལ\" (bo-kunpal 8-59: \"སྲིན་བུ་ཆུང་ངུའང་ཁྱོད་འདོད་པར་མི་བྱེད་\") means you do not desire even a small filth-worm (a fortiori the argument; Sanskrit alpatvāt). The concessive \"छोटा होने पर भी\" suggests smallness would make it desirable, which the Tibetan does not say.",
+     "fix": "छोटे से अशुचि-कृमि को भी तुम नहीं चाहते"
+    }
+   ]
+  },
+  {
+   "id": "8-60",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "अशुचिता की / अशुचिता के लोभ से",
+     "evidence": "Tibetan \"མི་གཙང\" is locked as अशुचि; the translation uses \"अशुचिता\" twice (\"ཁྱོད་ནི་རང་ཉིད་མི་གཙང་ལ\" and \"མི་གཙང་ལ། བརྐམ་པས\").",
+     "fix": "स्वयं की अशुचि की / अशुचि के लोभ से"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "अशुचि की थैली, अशुचिता के लोभ से दूसरों को भी",
+     "evidence": "Tibetan \"མི་གཙང་རྐྱལ་པ་མི་གཙང་ལ། བརྐམ་པས་གཞན་ཡང་འདོད་པར་བྱེད\" (bo-gyaltsab 8-60: \"མི་གཙང་བའི་ཕུང་པོ་གཞན་ཡང་འདོད་པར་བྱེད\") means: out of greed for impurity you desire other bags of impurity too. The Hindi word order leaves \"अशुचि की थैली\" dangling before the adverbial phrase, obscuring that the thing desired is the other bags.",
+     "fix": "अपितु अशुचि के लोभ से अशुचि की अन्य थैलियों को भी चाहते हो।"
+    }
+   ]
+  },
+  {
+   "id": "8-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-70",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

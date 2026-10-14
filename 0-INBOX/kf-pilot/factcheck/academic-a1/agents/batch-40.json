@@ -1,0 +1,129 @@
+{
+ "batch": "batch-40",
+ "segments": [
+  {
+   "id": "9-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-90",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-91",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "the conception of feeling\nIs merely conceptual clinging",
+     "evidence": "ཚོར་བར་རྟོག་པ་མངོན་ཞེན་ཉིད། ཡིན་ཞེས་བྱ་བར་གྲུབ་མིན་ནམ། Sanskrit 'kalpanābhiniveśo hi vedanā' says feeling itself is conceptual clinging; bo-kunpal 9-91: ཚོར་བ་ཞེས་བྱ་བར་ནང་གི་རྟོག་པ་ཡིས་... མངོན་པར་ཞེན་པ་... ཉིད་ཡིན་ — what is called 'feeling' is nothing but clinging due to conception. The English makes the 'conception of feeling' the thing identified with clinging.",
+     "fix": "that what is called feeling\nis nothing but conceptual clinging"
+    }
+   ]
+  },
+  {
+   "id": "9-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-99",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Because it arises simultaneously with the mind,\nFeeling is not seen by it.",
+     "evidence": "སེམས་དང་ལྷན་ཅིག་སྐྱེས་པའི་ཕྱིར། ཚོར་བ་དེ་ཡིས་མཐོང་མ་ཡིན། The one arising together with the mind is the feeling, and 'that' (དེ་ཡིས, Skt tena) is the mind (bo-kunpal 9-99: ཚོར་བ་དེ་སེམས་དེ་ཡིས་མཐོང་བ་མ་ཡིན; bo-shenga 9-99). English 'it ... it' could be read as the seeing/touching in line 1.",
+     "fix": "Because feeling arises simultaneously with the mind,\nit is not seen by that mind."
+    }
+   ]
+  },
+  {
+   "id": "9-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-101",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "for this collection of selflessness",
+     "evidence": "བདག་མེད་ཚོགས་འདི་ལ། — 'this collection that lacks a self' (bo-shenga 9-101: བདག་མེད་པ་རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བའི་ཚོགས་པ་འདི་ལ; bo-kunpal: བདག་མེད་པར་ཕུང་པོའི་ཚོགས་པ). Sanskrit 'nirātmake kalāpe'. 'Collection of selflessness' treats selflessness as what is collected.",
+     "fix": "for this collection, which is selfless (without a self),"
+    }
+   ]
+  },
+  {
+   "id": "9-102",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-103",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-104",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

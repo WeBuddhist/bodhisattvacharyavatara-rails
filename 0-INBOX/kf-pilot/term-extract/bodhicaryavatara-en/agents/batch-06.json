@@ -1,0 +1,335 @@
+{
+ "batch": "batch-06",
+ "segments": [
+  {
+   "id": "4-25",
+   "terms": [
+    {
+     "bo": "དམྱལ་མེ",
+     "dm": "fires of hell",
+     "gm": "fire of hell"
+    }
+   ]
+  },
+  {
+   "id": "4-26",
+   "terms": [
+    {
+     "bo": "དམྱལ་བ",
+     "dm": "hells",
+     "gm": "hell"
+    },
+    {
+     "bo": "ཕན་པའི་ས",
+     "dm": "state of benefit",
+     "gm": "state of benefit"
+    }
+   ]
+  },
+  {
+   "id": "4-27",
+   "terms": [
+    {
+     "bo": "སྔགས",
+     "dm": "magic spell",
+     "gm": "mantra"
+    }
+   ]
+  },
+  {
+   "id": "4-28",
+   "terms": [
+    {
+     "bo": "ཞེ་སྡང་",
+     "dm": "hatred",
+     "gm": "hatred"
+    },
+    {
+     "bo": "སྲེད",
+     "dm": "craving",
+     "gm": "craving"
+    }
+   ]
+  },
+  {
+   "id": "4-29",
+   "terms": [
+    {
+     "bo": "བཟོད་པ",
+     "dm": "patience",
+     "gm": "patience"
+    }
+   ]
+  },
+  {
+   "id": "4-30",
+   "terms": [
+    {
+     "bo": "ལྷ",
+     "dm": "gods",
+     "gm": "gods"
+    },
+    {
+     "bo": "ལྷ་མིན",
+     "dm": "demigods",
+     "gm": "demigods"
+    },
+    {
+     "bo": "མནར་མེད་པ",
+     "dm": "Avīci hell",
+     "gm": "Avīci"
+    }
+   ]
+  },
+  {
+   "id": "4-31",
+   "terms": [
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "mental afflictions",
+     "gm": "afflictions"
+    },
+    {
+     "bo": "རི་རབ",
+     "dm": "Mount Meru",
+     "gm": "Mount Meru"
+    }
+   ]
+  },
+  {
+   "id": "4-32",
+   "terms": [
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "mental afflictions",
+     "gm": "afflictions"
+    }
+   ]
+  },
+  {
+   "id": "4-33",
+   "terms": [
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "mental afflictions",
+     "gm": "afflictions"
+    }
+   ]
+  },
+  {
+   "id": "4-34",
+   "terms": [
+    {
+     "bo": "འཁོར་བ",
+     "dm": "cyclic existence",
+     "gm": "saṃsāra"
+    }
+   ]
+  },
+  {
+   "id": "4-35",
+   "terms": [
+    {
+     "bo": "འཁོར་བ",
+     "dm": "cyclic existence",
+     "gm": "saṃsāra"
+    },
+    {
+     "bo": "དམྱལ",
+     "dm": "hells",
+     "gm": "hell"
+    },
+    {
+     "bo": "ཆགས་པ",
+     "dm": "attachment",
+     "gm": "attachment"
+    }
+   ]
+  },
+  {
+   "id": "4-36",
+   "terms": [
+    {
+     "bo": "ང་རྒྱལ",
+     "dm": "pride",
+     "gm": "pride"
+    }
+   ]
+  },
+  {
+   "id": "4-37",
+   "terms": [
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": null,
+     "gm": "afflicted ones"
+    }
+   ]
+  },
+  {
+   "id": "4-38",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "4-39",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "4-40",
+   "terms": [
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "world",
+     "gm": "wandering beings"
+    }
+   ]
+  },
+  {
+   "id": "4-41",
+   "terms": [
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "beings",
+     "gm": "wandering beings"
+    },
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "afflictions"
+    },
+    {
+     "bo": "ཕྱོགས་བཅུ",
+     "dm": "ten directions",
+     "gm": "ten directions"
+    }
+   ]
+  },
+  {
+   "id": "4-42",
+   "terms": [
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "afflictions"
+    }
+   ]
+  },
+  {
+   "id": "4-43",
+   "terms": [
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "mental affliction",
+     "gm": "afflictions"
+    }
+   ]
+  },
+  {
+   "id": "4-44",
+   "terms": [
+    {
+     "bo": "ཉོན་མོངས་པ",
+     "dm": "mental afflictions",
+     "gm": "afflictive"
+    }
+   ]
+  },
+  {
+   "id": "4-45",
+   "terms": [
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "mental afflictions",
+     "gm": "afflictive"
+    }
+   ]
+  },
+  {
+   "id": "4-46",
+   "terms": [
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "afflictions"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "wisdom",
+     "gm": "wisdom"
+    }
+   ]
+  },
+  {
+   "id": "4-47",
+   "terms": [
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "afflictions"
+    },
+    {
+     "bo": "དབང་ཚོགས",
+     "dm": "collection of faculties",
+     "gm": "sense faculties"
+    },
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "world",
+     "gm": "wandering beings"
+    },
+    {
+     "bo": "སྒྱུ",
+     "dm": "illusion",
+     "gm": "illusion"
+    },
+    {
+     "bo": "དམྱལ",
+     "dm": "hells",
+     "gm": "hells"
+    }
+   ]
+  },
+  {
+   "id": "4-48",
+   "terms": [
+    {
+     "bo": "བསླབ་པ",
+     "dm": "trainings",
+     "gm": "trainings"
+    }
+   ]
+  },
+  {
+   "id": "4-a",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ",
+     "dm": "Entering the Bodhisattva's Conduct",
+     "gm": "Entering the Way of the Bodhisattva"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattva",
+     "gm": "Bodhisattva"
+    },
+    {
+     "bo": "བག་ཡོད་བསྟན་པ",
+     "dm": "Showing Heedfulness",
+     "gm": "Teaching on Conscientiousness"
+    }
+   ]
+  }
+ ]
+}

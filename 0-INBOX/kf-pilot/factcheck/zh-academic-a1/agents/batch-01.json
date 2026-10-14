@@ -1,0 +1,153 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "I-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "I-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "I-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-5",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "Tibetan \"བརྒྱ་ལམ་ན\" means \"among a hundred (occasions)\"; bo-kunpal 1-5 glosses it as \"བརྒྱ་ལམ་རེ་འགའ་ཞིག་ན ... བརྒྱ་ལན་རེ་སྟོང་ལན་གཉིས་ཙམ་འབྱུང་\", i.e. once in a hundred times. The translation gives only \"偶爾\" (occasionally) for \"ཐང་འགའ\" and drops \"hundred\".",
+     "fix": "於百次之中偶爾生起"
+    }
+   ]
+  },
+  {
+   "id": "1-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-8",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "不悅",
+     "evidence": "\"མི་བདེ་བ\" (bo-shenga 1-8: \"སེམས་ཅན་ཐམས་ཅད་ཀྱི་མི་བདེ་བ་མ་མཐའ་དག\") is the opposite of \"བདེ་བ\", unhappiness/suffering, not \"displeasure\"; 不悅 reads as annoyance and does not contrast with 安樂 in line 3.",
+     "fix": "遣除有情之不樂"
+    }
+   ]
+  },
+  {
+   "id": "1-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-10",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "獲取此不淨之身，因其轉化為勝者之身\n此一無價之寶",
+     "evidence": "Tibetan: \"མི་གཙང་ལུས་འདི་བླངས་ནས་རྒྱལ་བའི་སྐུ། རིན་ཆེན་རིང་ཐང་མེད་པར་བསྒྱུར་བས་ན\" - taking this impure body, (bodhicitta) transforms it into the Victor's body, a priceless jewel (bo-gyaltsab 1-10: \"རྒྱལ་བའི་སྐུ་རིན་ཆེན་རིན་ཐང་མེད་པར་སེམས་དེ་ཉིད་ཀྱིས་བསྒྱུར་བས་ན\"). The Chinese leaves the subject of 轉化 unstated and juxtaposes 勝者之身 and 此一無價之寶 without a link, with an unwarranted demonstrative 此一; hard to parse.",
+     "fix": "取此不淨之身，轉化為無價之寶——勝者之身，"
+    }
+   ]
+  },
+  {
+   "id": "1-11",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "欲遠離眾生之處者",
+     "evidence": "\"འགྲོ་བའི་གནས\" here is the realm/state of migration: bo-shenga 1-11 \"འགྲོ་བ་ལྔའི་གནས\" (the five realms) and bo-gyaltsab 1-11 \"འགྲོ་བའི་གནས་འཁོར་བའི་རྒུད་པ་མཐའ་དག\" (all the miseries of saṃsāra). Sanskrit gatipattana. \"眾生之處\" can be read as \"place of beings\".",
+     "fix": "欲脫離諸趣之處者"
+    }
+   ]
+  },
+  {
+   "id": "1-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-16",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "次第了知",
+     "evidence": "\"རིམ་བཞིན\" means \"respectively, in due order of correspondence\" (Skt. yathāsaṃkhyena; bo-kunpal 1-16 \"གོ་རིམ་ཇི་ལྟ་བ་བཞིན\"; bo-shenga 1-16 \"རིམ་པ་བཞིན\"): each difference is understood for the corresponding member. 次第 suggests gradual/sequential learning.",
+     "fix": "依其各自對應而了知"
+    }
+   ]
+  },
+  {
+   "id": "1-17",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "然不如行菩提心，福德並不會相續生起",
+     "evidence": "Tibetan \"ཇི་ལྟར་འཇུག་པའི་སེམས་བཞིན་དུ། བསོད་ནམས་རྒྱུན་ཆགས་འབྱུང་བ་མིན\" = merit does not arise continuously as it does from engaging bodhicitta (bo-gyaltsab 1-17 \"འཇུག་པའི་སེམས་ལས་བསོད་ནམས་བར་མ་ཆད་དུ་འབྱུང་བ་བཞིན་དུ ... མིན\"). The Chinese 不如 reads as a comparison of quality and the clause is clumsy.",
+     "fix": "然福德並不像由行菩提心那樣相續不斷地生起"
+    }
+   ]
+  }
+ ]
+}

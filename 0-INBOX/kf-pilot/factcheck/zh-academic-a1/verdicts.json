@@ -1,0 +1,5536 @@
+[
+ {
+  "id": "I-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "I-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "I-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-5",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Tibetan \"བརྒྱ་ལམ་ན\" means \"among a hundred (occasions)\"; bo-kunpal 1-5 glosses it as \"བརྒྱ་ལམ་རེ་འགའ་ཞིག་ན ... བརྒྱ་ལན་རེ་སྟོང་ལན་གཉིས་ཙམ་འབྱུང་\", i.e. once in a hundred times. The translation gives only \"偶爾\" (occasionally) for \"ཐང་འགའ\" and drops \"hundred\".",
+    "fix": "於百次之中偶爾生起"
+   }
+  ]
+ },
+ {
+  "id": "1-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-8",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "不悅",
+    "evidence": "\"མི་བདེ་བ\" (bo-shenga 1-8: \"སེམས་ཅན་ཐམས་ཅད་ཀྱི་མི་བདེ་བ་མ་མཐའ་དག\") is the opposite of \"བདེ་བ\", unhappiness/suffering, not \"displeasure\"; 不悅 reads as annoyance and does not contrast with 安樂 in line 3.",
+    "fix": "遣除有情之不樂"
+   }
+  ]
+ },
+ {
+  "id": "1-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-10",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "獲取此不淨之身，因其轉化為勝者之身\n此一無價之寶",
+    "evidence": "Tibetan: \"མི་གཙང་ལུས་འདི་བླངས་ནས་རྒྱལ་བའི་སྐུ། རིན་ཆེན་རིང་ཐང་མེད་པར་བསྒྱུར་བས་ན\" - taking this impure body, (bodhicitta) transforms it into the Victor's body, a priceless jewel (bo-gyaltsab 1-10: \"རྒྱལ་བའི་སྐུ་རིན་ཆེན་རིན་ཐང་མེད་པར་སེམས་དེ་ཉིད་ཀྱིས་བསྒྱུར་བས་ན\"). The Chinese leaves the subject of 轉化 unstated and juxtaposes 勝者之身 and 此一無價之寶 without a link, with an unwarranted demonstrative 此一; hard to parse.",
+    "fix": "取此不淨之身，轉化為無價之寶——勝者之身，"
+   }
+  ]
+ },
+ {
+  "id": "1-11",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "欲遠離眾生之處者",
+    "evidence": "\"འགྲོ་བའི་གནས\" here is the realm/state of migration: bo-shenga 1-11 \"འགྲོ་བ་ལྔའི་གནས\" (the five realms) and bo-gyaltsab 1-11 \"འགྲོ་བའི་གནས་འཁོར་བའི་རྒུད་པ་མཐའ་དག\" (all the miseries of saṃsāra). Sanskrit gatipattana. \"眾生之處\" can be read as \"place of beings\".",
+    "fix": "欲脫離諸趣之處者"
+   }
+  ]
+ },
+ {
+  "id": "1-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-16",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "次第了知",
+    "evidence": "\"རིམ་བཞིན\" means \"respectively, in due order of correspondence\" (Skt. yathāsaṃkhyena; bo-kunpal 1-16 \"གོ་རིམ་ཇི་ལྟ་བ་བཞིན\"; bo-shenga 1-16 \"རིམ་པ་བཞིན\"): each difference is understood for the corresponding member. 次第 suggests gradual/sequential learning.",
+    "fix": "依其各自對應而了知"
+   }
+  ]
+ },
+ {
+  "id": "1-17",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "然不如行菩提心，福德並不會相續生起",
+    "evidence": "Tibetan \"ཇི་ལྟར་འཇུག་པའི་སེམས་བཞིན་དུ། བསོད་ནམས་རྒྱུན་ཆགས་འབྱུང་བ་མིན\" = merit does not arise continuously as it does from engaging bodhicitta (bo-gyaltsab 1-17 \"འཇུག་པའི་སེམས་ལས་བསོད་ནམས་བར་མ་ཆད་དུ་འབྱུང་བ་བཞིན་དུ ... མིན\"). The Chinese 不如 reads as a comparison of quality and the clause is clumsy.",
+    "fix": "然福德並不像由行菩提心那樣相續不斷地生起"
+   }
+  ]
+ },
+ {
+  "id": "1-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-19",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "無間等空廣生起",
+    "evidence": "Tibetan \"རྒྱུན་མི་འཆད་པར་དུ་མ་ཞིག ། ནམ་མཁའ་མཉམ་པར་རབ་ཏུ་འབྱུང་\" = uninterrupted, manifold, arises equal to space. The Chinese string packs 無間 / 等空 / 廣 / 生起 together so that 等空 and 廣 are hard to attach (to 福德之勢力 or to the verb); 廣 has no Tibetan counterpart in the verse itself (only bo-kunpal 1-19 glosses རྒྱ་ཆེ་).",
+    "fix": "無間斷地、多重地生起，等同虛空"
+   }
+  ]
+ },
+ {
+  "id": "1-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-22",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "且於一一無量功德，欲令成就",
+    "evidence": "Tibetan \"སེམས་ཅན་རེ་རེའི་མི་བདེ་བ། … རེ་རེའང་ཡོན་ཏན་དཔག་མེད་དུ། བསྒྲུབ་པར་འདོད་པ\" : \"each (sentient being) ... wishing to accomplish [each of them] as having immeasurable qualities\". རེ་རེ refers to each sentient being, not to each quality. bo-kunpal 1-22: \"དེ་དག་རེ་རེ་ལའང་ ... ཡོན་ཏན་དཔག་ཏུ་མེད་པ་དང་ལྡན་པ་ཉིད་དུ་བསྒྲུབ་པར་འདོད་པ\"; bo-gyaltsab 1-22: \"སེམས་ཅན་རེ་རེའང་སངས་རྒྱས་ཀྱི་ཡོན་ཏན་དཔག་མེད་ཅན་དུ་བསྒྲུབ་པར་འདོད་པ\". The Chinese makes 一一 modify 功德 and leaves the beneficiary of 成就 unstated.",
+    "fix": "且欲令彼一一有情成就無量功德"
+   }
+  ]
+ },
+ {
+  "id": "1-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-26",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "喜樂",
+    "evidence": "Tibetan \"དགའ་བའི་རྒྱུ\" = cause of joy (དགའ་བ). 喜樂 contains 樂, the locked rendering of བདེ་བ, so it blurs དགའ་བ with བདེ་བ (bo-kunpal 1-26 and bo-shenga 1-26 list དགའ་བ and བདེ་བ as separate items).",
+    "fix": "歡喜"
+   }
+  ]
+ },
+ {
+  "id": "1-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-32",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "尋常食",
+    "evidence": "Tibetan \"ནར་མའི་ཟས་སྦྱོར་བ\" = providing food continuously/regularly. bo-kunpal 1-32: \"ནར་མའི་ཞེས་ལོའམ་ཟླ་བར་ཉིན་བཞིན་ནར་མ་སྟེ་རྒྱུན་མ་བཅད་པའི་ཟས་སྦྱིན་པ\" (nar ma = uninterrupted daily provision); bo-shenga 1-32 \"དུས་ནར་མའི་ཟས\". 尋常 means \"ordinary\", which is a different sense.",
+    "fix": "持續供應的飲食"
+   },
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "縱帶輕蔑且僅令飽半日",
+    "evidence": "Tibetan \"བརྙས་བཅས་ཉིན་ཕྱེད་འགྲངས་པར་བྱེད་པ\" states as fact that the giving is with contempt (བརྙས་བཅས). 縱 turns it into a concession (\"even if\"), which the Tibetan does not have; bo-kunpal 1-32 \"བརྙས་བཅོས་དང་བཅས་པའི་སྒོ་ནས\" and bo-shenga 1-32 \"སྦྱིན་པའི་ཚུལ་བརྙས་པ་དང་བཅས་པས\".",
+    "fix": "帶著輕蔑而僅令飽半日"
+   }
+  ]
+ },
+ {
+  "id": "1-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-34",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "依生起惡心之數量而於相應之劫",
+    "evidence": "Tibetan \"ངན་སེམས་བསྐྱེད་པའི་གྲངས་བཞིན་བསྐལ་པར་ནི། དམྱལ་བར་གནས་པར་འགྱུར\" = for as many eons as the number of malicious thoughts generated. 相應之劫 is vague and does not state that the number of eons equals the number of thoughts (bo-kunpal 1-34: \"དེའི་གྲངས་ཇི་སྙེད་ཡོད་པ་དེ་སྙེད་ཀྱི་བསྐལ་པར་ནི་དམྱལ་བར་... གནས་པར་འགྱུར\").",
+    "fix": "生起惡心有多少次，便於地獄住多少劫"
+   }
+  ]
+ },
+ {
+  "id": "1-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-a",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-4",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "天等世間中的香氣",
+    "evidence": "Tibetan 'ལྷ་སོགས་འཇིག་རྟེན་ན་ཡང་དྲི་དང་ནི' contains the emphatic particle ཡང་ ('even in the worlds of gods etc.'); the Chinese gives a plain locative with no 'even/also'. Bo-shenga 2-4 likewise glosses 'ལྷ་དང་ཀླུ་ལ་སོགས་འཇིག་རྟེན་ན་ཡང་'. The meaning is intact, but the nuance is lost.",
+    "fix": "連天等世間中也有的香氣"
+   }
+  ]
+ },
+ {
+  "id": "2-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-22",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "供養諸位勝者般",
+    "evidence": "Tibetan 'ཇི་ལྟར་འཇམ་དབྱངས་ལ་སོགས་པས། རྒྱལ་བ་རྣམས་ལ་མཆོད་མཛད་པ། དེ་བཞིན་' is a simple 'just as ... make offerings to the Victors, so (I)'. The Chinese doubles the comparison marker (猶如 ... 般) and leaves the clause dangling before 我亦如是.",
+    "fix": "猶如文殊師利等供養諸勝者，"
+   }
+  ]
+ },
+ {
+  "id": "2-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-24",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "等同一切剎土微塵數，我以俯首之身頂禮",
+    "evidence": "Tibetan 'ཞིང་རྡུལ་ཀུན་གྱི་གྲངས་སྙེད་ཀྱི། ལུས་བཏུད་པ་ཡིས' = by bodies (plural) as numerous as all the atoms of the fields; bo-shenga 2-24 'ཞིང་ཁམས་རབ་འབྱམས་ཀྱི་རྡུལ་ཀུན་ཀྱི་གྲངས་སྙེད་ཀྱི། ལུས་རང་གི་བློ་ཡིས་སྤྲུལ་ནས' (emanated bodies equal in number to the atoms). The Chinese separates the number phrase from 身 and gives a single 'bowed body', so the quantity no longer clearly qualifies the bodies.",
+    "fix": "以等同一切剎土微塵數之諸身，俯首而頂禮"
+   }
+  ]
+ },
+ {
+  "id": "2-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-27",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "正等覺者與菩提心、",
+    "evidence": "Tibetan 'རྫོགས་སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས། ཐུགས་རྗེ་ཆེན་པོ་མངའ་རྣམས་ལ' uses བྱང་ཆུབ་སེམས as an abbreviation of བྱང་ཆུབ་སེམས་དཔའ (bodhisattvas): Sanskrit 'bodhisattvān'; bo-shenga 2-27 'ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐུགས་རྗེ་ཆེན་པོ་མངའ་བ'; bo-kunpal 2-27 'བྱང་ཆུབ་སེམས་དཔའ་ཆེན་པོ་ཐུགས་སྙིང་རྗེ་ཆེན་པོ་མངའ་བ'. The addressees are beings 'who possess great compassion'; the Chinese makes 'bodhicitta' (a mental state) one of the beings residing in all directions and addressed in prayer. The locked 菩提心 does not fit this occurrence.",
+    "fix": "於安住一切方所之正等覺者與菩薩，具大悲之諸尊前"
+   }
+  ]
+ },
+ {
+  "id": "2-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-32",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "我在罪業尚未淨除之時，將在此之前死去",
+    "evidence": "Tibetan 'བདག་ནི་སྡིག་པ་མ་བྱང་བར། སྔོན་དུ་འགུམ་པར་འགྱུར་དུ་མཆི' = I will die before my misdeeds are purified (bo-gyaltsab 2-32: 'སྡིག་པ་མ་བྱང་བར་སྡིག་པ་དང་བཅས་ཏེ་འཆི་བདག་གིས་སྔོན་དུ་འགུམ་པར་འགྱུར'). The Chinese says 'at the time when misdeeds are not yet purified, I will die before this', which is circular/confusing about what 此 refers to.",
+    "fix": "我於罪業尚未淨除之前，便將先行死去"
+   },
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "如何能從此中獲得決定解脫，祈請迅速救護我",
+    "evidence": "Tibetan 'ཇི་ལྟར་འདི་ལས་ངེས་ཐར་བར། མྱུར་བའི་ཚུལ་གྱིས་བསྐྱབ་ཏུ་གསོལ' is a purposive petition: protect me quickly in whatever way I may be definitely freed from these (misdeeds). bo-kunpal 2-32 'ཐབས་ཇི་ལྟར་... ངེས་པར་ཐར་པར་འགྱུར་བ་ཞིག་མྱུར་ཞིང་རིངས་བའི་ཚུལ་གྱིས་བསྐྱབ་པར་མཛད་དུ་གསོལ'. The Chinese 如何能... reads as a bare rhetorical question 'how can I be freed', detached from the request.",
+    "fix": "為使我能從此罪業中決定解脫，祈請以迅速之方式救護我"
+   }
+  ]
+ },
+ {
+  "id": "2-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-34",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "親友與非親友",
+    "evidence": "Tibetan 'མཛའ་དང་མི་མཛའི་དོན་གྱི་ཕྱིར' = for the sake of those dear and those not dear (enemies); bo-shenga 2-34 'མཛའ་བ་ལ་ཕན་འདོགས་པ་དང་མི་མཛའ་བ་ལ་གནོད་པར་བྱ་བ'; bo-kunpal 2-34 'མི་མཛའ་བ་དགྲ'. 非親友 would include neutral people, whereas the text means adversaries; the same pair is rendered 親友與怨敵 in 2-35 and 2-37.",
+    "fix": "為了親友與怨敵之故"
+   }
+  ]
+ },
+ {
+  "id": "2-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-55",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-57",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "需長久停留的懸崖",
+    "evidence": "The root has only ཡུན་རིང་གཡང་ས ('a long-lasting / long precipice'; Skt dīrghakālike prapāte, 'a precipice of long duration'). It has no modal 需 ('must') and no verb 'stay'. Shenga 2-57 glosses ཡུན་རིང་པོར་སྡུག་བསྔལ་མྱོང་བ ('experiencing suffering for a long time'); only Gyaltsab 2-57 spells out ཡུན་རིང་པོར་གནས་དགོས་པ ('must remain for a long time'). The Chinese puts one commentator's gloss into the root and reads as if one must linger on the cliff.",
+    "fix": "長久之懸崖"
+   }
+  ]
+ },
+ {
+  "id": "2-58",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-59",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-61",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-62",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-63",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-64",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-65",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-a",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-9",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "安住於他們面前",
+    "evidence": "Tibetan མདུན་དུ་ཉེ་བར་གནས་གྱུར་ཅིག: ཉེ་བར་གནས་ is 'remain close by / attend' (Sanskrit upatiṣṭheyam); bo-kunpal 3-9 and bo-shenga 3-9 gloss མདུན་ན་ཉེ་བར་གནས་པར་གྱུར་ཅིག as being near before them. The Chinese drops the nuance of nearness/attendance (the approved English has 'closely present').",
+    "fix": "親近安住於他們面前"
+   }
+  ]
+ },
+ {
+  "id": "3-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-14",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "願任何人都絕不致毫無意義",
+    "evidence": "Tibetan བདག་ལ་དམིགས་ནས་ནམ་དུ་ཡང་། འགའ་ཡང་དོན་མེད་མ་གྱུར་ཅིག: the point (bo-gyaltsab 3-14, bo-shenga 3-14 'རེ་བ་དོན་མེད་པར་མ་གྱུར') is that no one's connection with / reliance on me should be in vain. The Chinese makes 'anyone' the subject that becomes 'meaningless', which is hard to parse and does not show that it is the connection with me that must not be futile.",
+    "fix": "願無一人因緣於我而落得徒勞無益"
+   }
+  ]
+ },
+ {
+  "id": "3-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-17",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "小舟",
+    "evidence": "Tibetan has only \"གྲུ\" (boat) with no size marker. Both bo-kunpal 3-17 (\"ཆུ་འབྲིང་པོ་ལ་གྲུ་བཟང་པོ\", a good boat for medium water) and bo-shenga 3-17 (\"ཆུ་ཆེན་པོ་ལ་གྲུ་བ\", a boat for great water) treat it as a sizeable vessel, so \"小舟\" (small boat) adds a size the Tibetan and commentaries do not support.",
+    "fix": "舟"
+   }
+  ]
+ },
+ {
+  "id": "3-18",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "床榻",
+    "evidence": "Tibetan \"གནས་མལ\" is a compound of dwelling + bed; bo-kunpal 3-18 glosses it \"འདུག་པའི་གནས་དང་ཉལ་བའི་མལ\" (a place to stay and a bed). \"床榻\" (bed/couch) covers only the \"mal\" half and follows the Sanskrit śayyā; English academic has the broader \"resting place\".",
+    "fix": "臥處"
+   }
+  ]
+ },
+ {
+  "id": "3-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-33",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "迎請為善逝果位以及中途安樂之賓客",
+    "evidence": "Tibetan \"བདེ་གཤེགས་ཉིད་དང་ནི། བར་དུ་བདེ་ལ་མགྲོན་དུ་བོས་ཟིན\" means beings are invited as guests to (receive/enjoy) Sugatahood and interim happiness; bo-gyaltsab 3-33 glosses \"ཚིམ་པར་ལོངས་སྤྱད་པས་ཆོག་པའི་འགྲོན་དུ་བོས\" (invited as guests to be satisfied). The Chinese \"為...之賓客\" can be read as guests belonging to Sugatahood rather than guests invited to it.",
+    "fix": "已將眾生迎請為賓客，赴善逝果位以及中途安樂之筵"
+   }
+  ]
+ },
+ {
+  "id": "3-a",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-9",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "對其福德製造障礙",
+    "evidence": "Tibetan འདིའི བསོད་ནམས་ ('this one's merit') refers to the bodhisattva; bo-kunpal 4-9 and bo-gyaltsab 4-9 gloss it as བྱང་ཆུབ་སེམས་དཔ་འདིའི་བསོད་ནམས་. In the Chinese the preceding subject is 任何他人, so 其 can be read as that other person's own merit, and the later 其惡趣 then refers to a different person.",
+    "fix": "對此菩薩之福德製造障礙"
+   }
+  ]
+ },
+ {
+  "id": "4-10",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "遍及無餘虛空無邊際",
+    "evidence": "ནམ་མཁའ་མ་ལུས་མཐའ་ཀླས་པའི་ ལུས་ཅན་: མཐའ་ཀླས་པ་ means reaching/pervading to the limit (Skt. -paryanta-vāsin), and the whole phrase modifies ལུས་ཅན་ (bo-gyaltsab 4-10: ནམ་མཁའ་མ་ལུས་པའི་མཐའ་ཀླས་པའི་ལུས་ཅན་). The Chinese turns it into 'boundless', is cut off from 具身者 syntactically, and reverses the sense of 'to its limits'.",
+    "fix": "遍滿無餘虛空邊際之具身者"
+   }
+  ]
+ },
+ {
+  "id": "4-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-19",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "百億劫",
+    "evidence": "བསྐལ་པ་བྱེ་བ་བརྒྱ is a hundred bye ba (ten million, koṭi; Skt. kalpakoṭiśata) = 10^9, i.e. 十億; 百億 in modern Chinese is 10^10, a tenfold overstatement (bo-kunpal 4-19: བསྐལ་པ་བྱེ་བ་ཕྲག་བརྒྱ).",
+    "fix": "百俱胝劫"
+   }
+  ]
+ },
+ {
+  "id": "4-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-24",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "大悲憂",
+    "evidence": "Tibetan \"མྱ་ངན་ཆེན་པོ\" means great sorrow/grief (Shenga 4-24: \"འགྱོད་ཅིང་མྱ་ངན་ཆེན་པོ་ལྡང་བར་འགྱུར\" = regret and great sorrow arise). \"大悲\" in Chinese Buddhist usage is mahākaruṇā (great compassion), so \"大悲憂\" invites a misreading.",
+    "fix": "極大憂傷"
+   }
+  ]
+ },
+ {
+  "id": "4-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-31",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "遇之縱使須彌山，亦連灰燼皆不留，將我剎那擲彼中",
+    "evidence": "The relative \"གང་དང་ཕྲད་ན\" and the correlative \"དེར\" (\"there\") refer to the Avici fire: Kunpal 4-31 \"དམྱལ་བའི་མེ་གང་དང་འཕྲད་ན་... རི་རབ་ཀྱང་... ཐལ་བ་ཙམ་ཡང་མི་ལུས་པར་བསྲེག་པར་ནུས་པ་ཡི་དམྱལ་བ་མནར་མེད་པའི་མེ་ནང་དེར་བདག་... འདོར་བར་བྱེད་\"; Shenga 4-31 and Gyaltsab 4-31 likewise \"མནར་མེད་པའི་མེ་ནང་དེར\". Sanskrit \"meror api yad āsaṅgāt ... kṣipanti māṃ tatra\". The translation instead has Mount Meru meeting the enemy (\"遇之\" = encountering the affliction-enemy) and leaves \"擲彼中\" with no antecedent, so the fire/place into which one is cast is lost.",
+    "fix": "（煩惱）此強力之敵，一剎那間將我擲入彼處——縱使須彌山一遇之，亦連灰燼皆不留（之無間獄火中）"
+   }
+  ]
+ },
+ {
+  "id": "4-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-36",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "暫遇微小加害亦生嗔者",
+    "evidence": "Tibetan \"རེ་ཞིག་གནོད་བྱེད་ཆུང་ངུ་ལ་ཡང་ཁྲོས་གྱུར་པ\" means \"for instance, (those) angered even at a slight harm-doer\" (agent: gnod byed; Kunpal 4-36 \"རེ་ཞིག་... གནོད་བྱེད་ཆུང་ངུ་ཙམ་ལ་ཡང་ཁྲོས་པ\", Shenga 4-36 \"གནོད་བྱེད་དེ་མ་བཅོམ་པར\"; Sanskrit \"svalpe 'pi apakāriṇi\"). \"暫遇...加害\" turns the harm-doer into an incident of harm and renders \"རེ་ཞིག\" as \"briefly encountering\", leaving \"彼\" in the next line without a referent.",
+    "fix": "例如，對微小之加害者亦生嗔"
+   }
+  ]
+ },
+ {
+  "id": "4-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-38",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "摧此決定之自性敵",
+    "evidence": "\"ངེས\" belongs to the verb (\"རང་བཞིན་དགྲར་ངེས་གཞོམ་བརྩོན\" = strive to destroy the natural enemy for certain); Sanskrit \"prakṛtiripūn upahantum udyatasya\" has no \"definite\" qualifying the enemy. The translation attaches 決定 to the enemy.",
+    "fix": "我今奮力必摧此天生之敵"
+   }
+  ]
+ },
+ {
+  "id": "4-39",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "苦於何故成為加害",
+    "evidence": "Tibetan \"སྡུག་བསྔལ་ཅི་ཕྱིར་གནོད་བྱེད་ཡིན\" = \"why should suffering be a harm (to me)\". \"苦於\" is a common collocation meaning \"be troubled by\", so the sentence is liable to be misparsed, and the object \"བདག་ལ\" (to me) is not expressed.",
+    "fix": "苦又何以對我為害"
+   }
+  ]
+ },
+ {
+  "id": "4-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-a",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-2",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "在此亦無法造成如是傷害",
+    "evidence": "Tibetan 'འདི་ན་དེ་འདྲའི་གནོད་མི་བྱེད' states that an untamed, maddened elephant 'does not inflict' such harm here (bo-kunpal 5-2: 'མི༷་བྱེད༷'); it is a plain negative statement, not an inability ('無法'), and nothing in the Tibetan corresponds to 'also' (亦).",
+    "fix": "在此世間不會造成如是傷害"
+   }
+  ]
+ },
+ {
+  "id": "5-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-4",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "惡咒師",
+    "evidence": "Tibetan 'བྱད་མ' (Skt. ḍākinyaḥ, feminine plural) is a harmful female being sent by spell or possession: bo-kunpal 5-4 glosses 'བྱད་མ་གདོན་རྦད་འདྲེ་རྦོད་གཏོང', and bo-gyaltsab 5-5 'རིག་སྔགས་ཀྱིས་གནོད་པ་བྱེད་པའི་བྱད་མ་མཁའ་འགྲོ་མ'. '惡咒師' reads as a human sorcerer and loses the female/ḍākinī sense (english_academic: 'Witches').",
+    "fix": "女巫（荼吉尼）"
+   }
+  ]
+ },
+ {
+  "id": "5-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-32",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "應如是將其銘記在心",
+    "evidence": "Tibetan 'de bzhin gnos' (gnos = mnos, 'take up/adopt') means to take on this attitude thus; Sanskrit 'tathā tiṣṭhet' and bo-kunpal 5-32 'de bzhin mnos te gnas par gyis shig' say 'take it on thus and remain'. '銘記在心' means to commit to memory, shifts the sense to remembering and drops 'remain/abide'; '其' has no referent in the Tibetan.",
+    "fix": "應如是受持而安住"
+   }
+  ]
+ },
+ {
+  "id": "5-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-40",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "如何令所繫之彼不逃脫",
+    "evidence": "Tibetan 'ji ltar btags pa mi 'chor bar / de ltar 'bad pa kun gyis brtag' is a relative-correlative purpose clause ('so that, once tied, it does not escape; thus examine with all effort'; bo-gyaltsab 5-40 'ji ltar btags pa mi 'chor bar de ltar 'bad pa kun gyis brtag par bya'o'). '如何' reads as the interrogative 'how', making the clause a question, and the sentence then lacks a main verb for the elephant.",
+    "fix": "使其一經繫縛便不逃脫"
+   }
+  ]
+ },
+ {
+  "id": "5-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-42",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "如是在布施之時，佛說對持戒應行捨",
+    "evidence": "Tibetan 'adi ltar sbyin pa'i dus dag tu / tshul khrims btang snyoms bya bar gsungs' (Skt 'yasmād uktam') gives an impersonal reason ('since it is taught'); the speaker is not named in the verse (bo-kunpal 5-42 attributes it to the Akṣayamati sutra). '佛說' adds an agent, and '如是' ('thus/likewise') obscures the explanatory 'for' sense of 'di ltar.",
+    "fix": "因為已說，在布施之時，對持戒應行捨"
+   }
+  ]
+ },
+ {
+  "id": "5-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-47",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "想走動",
+    "evidence": "Tibetan 'bskyod par 'dod' means wanting to move (the body); bo-shenga 5-47 'lus bskyod par 'dod' and bo-kunpal 5-47 include even moving a hand or limb, not only walking. '走動' narrows it to walking about.",
+    "fix": "想要移動身體"
+   }
+  ]
+ },
+ {
+  "id": "5-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-55",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-58",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-59",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-61",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-62",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-63",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-64",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-65",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-66",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-67",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-68",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-69",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "現在讓它成辦己利",
+    "evidence": "Tibetan ད་ནི་རང་གི་དོན་བྱེད་ཆུག addresses the mind: let (the body) accomplish YOUR (the mind's) own purpose; bo-shenga 5-69 says ད་ནི་སེམས་རང་གི་དོན་ཆོས་སྒྲུབ་པར་བྱེད་དུ་ཆུག and bo-gyaltsab 5-69 says རང་གི་དོན་དགེ་བའི་ལས་བྱེད་དུ་ཆུག (the purpose is Dharma practice). In the Chinese, 「它」 (the body) is the only stated agent, so 「己利」 can be read as the body's own benefit, and 「己利」 also evokes the technical 自利.",
+    "fix": "現在讓它成辦你自己的目的"
+   }
+  ]
+ },
+ {
+  "id": "5-70",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-71",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "如是既然擁有自主",
+    "evidence": "Tibetan རང་དབང་ཡོད་ཀྱིས་ཏེ is an instruction to bring about self-mastery (bo-shenga 5-71: ལུས་དང་སེམས་ལ་རང་དབང་ཡོད་པར་གྱིས་ཏེ; bo-kunpal 5-71: རང་དབང་ཡོད་པར་གྱིས་ཏེ), not a presupposed state. 「既然擁有」 turns the imperative into a given premise.",
+    "fix": "如是令自己得自主"
+   }
+  ]
+ },
+ {
+  "id": "5-72",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-73",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "水鳥",
+    "evidence": "Tibetan ཆུ་སྐྱར (Skt. baka) is a specific bird, the heron/crane (english_academic 'Herons'); the rendering 水鳥 'water bird' is a generic hypernym and loses the stalking-heron image behind the simile (bo-gyaltsab 5-73 ཆུ་སྐྱུར).",
+    "fix": "鷺"
+   }
+  ]
+ },
+ {
+  "id": "5-74",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-75",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-76",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-77",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-78",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-79",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-80",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-81",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-82",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-83",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-84",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-85",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-86",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-87",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-88",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-89",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "恆常",
+    "evidence": "Tibetan མཚུངས་པར་གུས་པས་ཀུན་དུ་སྤྱད has ཀུན་དུ 'in all cases / toward all', not 'always'; bo-gyaltsab 5-89 explains it as respectfully practising toward all (lesser and supreme) Dharmas alike, with no temporal 'always'.",
+    "fix": "皆應以同等敬意普遍奉行"
+   }
+  ]
+ },
+ {
+  "id": "5-90",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-91",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-92",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-93",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "不應與他婦獨處",
+    "evidence": "Tibetan བུད་མེད་གཞན་ ('another woman'); bo-kunpal 5-93 glosses it as a woman who is not a close relative (ཉེ་དུ་མ་ཡིན་པའི་བུད་མེད་གཞན), bo-shenga as women other than mother/sister. 他婦 in Chinese normally means 'another man's wife', which narrows the referent.",
+    "fix": "不應與其他女子獨處"
+   },
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "觀察並詢問後",
+    "evidence": "Tibetan མཐོང་དང་དྲིས་ཏེ ('having seen and asked'); bo-shenga 5-93 'རང་གིས་མཐོང་བ་དང་གཞན་ལ་དྲིས་ཏེ' and bo-gyaltsab 'མངོན་སུམ་གྱིས་མཐོང་བ' mean seeing directly (what one sees oneself), not examining/investigating; 觀察 suggests deliberate inspection.",
+    "fix": "見到或詢問後"
+   }
+  ]
+ },
+ {
+  "id": "5-94",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-95",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-96",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-97",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "必定於此期間當修持",
+    "evidence": "Tibetan ངེས་པར་དེ་སྲིད་སྤྱད་པར་བྱ ('certainly practise for as long as...'); bo-gyaltsab 5-97 'ངེས་པར་སྤྱོད་པ་མཐའ་དག་ཉམས་སུ་ལེན་ནུས་པ་དེ་སྲིད་' and bo-kunpal 'མ་ཐུབ་པར་དེ་སྲིད་དུ' show it means as long as one cannot yet practise all the bodhisattva conduct. 此期間 has no antecedent, so the temporal limit is lost.",
+    "fix": "必定應修持，直至能行持一切菩薩行為止"
+   }
+  ]
+ },
+ {
+  "id": "5-98",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-99",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-100",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-101",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-102",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-103",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-104",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-105",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-106",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-107",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-108",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-109",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-a",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-40",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "爾時忿怒亦非理",
+    "evidence": "Tibetan 'འོ་ནའང་ཁྲོ་བར་མི་རིགས་ཏེ' ('even so / even then it is not right to be angry'; Kunpal 6-40 'འོ་ན་དེ་ལའང་ཁྲོ་བར་འགྱུར་བ་འདི་མི་རིགས'; Gyaltsab 6-40 'འོ་ནའང་གནོད་བྱེད་ལ་ཁྲོ་བར་མི་རིགས') is a concessive 'even so', not a temporal 'at that time'. 爾時 reads as 'at that time' in Chinese and suggests a temporal clause that the Tibetan lacks.",
+    "fix": "縱然如此，忿怒亦非應理"
+   }
+  ]
+ },
+ {
+  "id": "6-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-55",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-58",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-59",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-61",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-62",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-63",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-64",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-65",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "以及傷害親友者",
+    "evidence": "Tibetan 'བཤེས་ལ་གནོད་པ་བྱེད་རྣམས་ལའང་' refers to friends (བཤེས, 'མཛའ་བཤེས' in bo-shenga 6-65); relatives are already covered by 'གཉེན་ལ་སོགས་པ' (親屬等). '親友' blends relatives and friends and duplicates 親屬.",
+    "fix": "以及傷害朋友者"
+   }
+  ]
+ },
+ {
+  "id": "6-66",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-67",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-68",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-69",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-70",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-71",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-72",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-73",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-74",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "雖已歷經千次",
+    "evidence": "'དམྱལ་བར་སྟོང་ཕྲག་མྱོང་གྱུར་ཡང་' - 'སྟོང་ཕྲག' means many thousands (bo-shenga 6-74: 'ལན་གྲངས་སྟོང་ཕྲག་དུ་མར'; bo-kunpal: 'ལན་སྟོང་ཕྲག་མང་པོར'), Sanskrit 'sahasraśaḥ' = by thousands; '千次' reduces it to one thousand.",
+    "fix": "雖已歷經數千次"
+   }
+  ]
+ },
+ {
+  "id": "6-75",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-76",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-77",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-78",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "此外，若想「那樣他會快樂」，倘若你不期望這種快樂",
+    "evidence": "Tibetan 'དེ་ལྟར་བདེ་འགྱུར་ཞེས། གལ་ཏེ་ཁྱོད་བདེ་འདི་མི་འདོད' has a single condition: the thought 'he will be happy thus' is the reason for not wanting that happiness (bo-shenga 6-78 'གཞན་...བདེ་བར་འགྱུར་ཞེས། གལ་ཏེ་ཁྱོད་ཀྱིས...མི་འདོད་ན'). The double '若...倘若' makes two conditions and obscures the logic.",
+    "fix": "此外，若你因想著「那樣他會快樂」而不期望這種快樂"
+   }
+  ]
+ },
+ {
+  "id": "6-79",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-80",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-81",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-82",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-83",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-84",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-85",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-86",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-87",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-88",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-89",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-90",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-91",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-92",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-93",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-94",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-95",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-96",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-97",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-98",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-99",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-100",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-101",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-102",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-103",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-104",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-105",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-106",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-107",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-108",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-109",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "那麼堪為成就之因，何以亦供養正法？",
+    "evidence": "Tibetan 'grub pa yi ni rgyur rung ba / dam pa\\'i chos kyang ci ste mchod' : 'rgyur rung ba' (fit to be a cause) modifies dam pa\\'i chos (the sublime Dharma); bo-shenga 6-109 glosses it as the Dharma/scriptures that are the cause of all qualities. In the Chinese the modifier is detached from 正法 by the comma and reads as a dangling phrase, obscuring that it describes the Dharma.",
+    "fix": "那麼堪為成就之因的正法，為何亦受供養？"
+   }
+  ]
+ },
+ {
+  "id": "6-110",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-111",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "彼即是安忍之因",
+    "evidence": "Tibetan 'de nyid bzod pa\\'i rgyu yin pas / dam pa\\'i chos bzhin mchod par os' : the referent of 'de nyid' is the enemy/harm-doer (Skt 'sa eva'; bo-shenga 6-111 'dgra bo de nyid'; bo-gyaltsab 6-111 'gnod byed de nyid'). In the Chinese the only preceding noun is 瞋心, so 彼 can be read as the hateful mind rather than the enemy, which would make the hateful mind the object of veneration.",
+    "fix": "彼怨敵即是安忍之因"
+   }
+  ]
+ },
+ {
+  "id": "6-112",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-113",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-114",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "與之相同有情亦具功德",
+    "evidence": "Tibetan 'des mtshungs par / sems can rnams la\\'ang yon tan yod' : 'des mtshungs par' = 'like them, i.e. the Buddhas' (bo-kunpal 6-114 'sangs rgyas rnams dang mtshungs par sems can rnams la\\'ang ... yon tan yod'). In the Chinese 與之相同 has no clear antecedent (nearest noun is 果), so the comparison with the Buddhas is lost.",
+    "fix": "如同諸佛，有情亦具功德"
+   }
+  ]
+ },
+ {
+  "id": "6-115",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-116",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-117",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-118",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-119",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-120",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "利益彼等即成報答舉",
+    "evidence": "Tibetan 'de la phan btags lan lon \\'gyur bas na' : benefiting them becomes a repayment (bo-shenga 6-120 'de\\'i drin lan lon par \\'gyur bas na'). 報答舉 is ungrammatical/unidiomatic; the intended 報答之舉 or simply 報答 is needed.",
+    "fix": "利益彼等即成報答"
+   }
+  ]
+ },
+ {
+  "id": "6-121",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-122",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-123",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "意樂",
+    "evidence": "Tibetan ཡིད་བདེར་མི་འགྱུར་བ (bo-shenga 6-123: ཡིད་བདེ་བར་མི་འགྱུར) means the mind is not made comfortable/happy (Skt na saumanasyam). 意樂 is the established Chinese technical term for āśaya (intention, disposition), so it risks being read as 'intention' rather than 'mental happiness'.",
+    "fix": "不能令心安樂"
+   }
+  ]
+ },
+ {
+  "id": "6-124",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-125",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-126",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-127",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-128",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-129",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-130",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-131",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-132",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-133",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-134",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-a",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-5",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "猶如屠夫與水牛一般",
+    "evidence": "Tibetan གདོལ་པ་དང་ནི་མ་ཧེ་བཞིན is elliptical; bo-gyaltsab 7-5 and bo-shenga 7-5 make clear that the sleeper is compared to the buffalo that stays calm and asleep while others of its kind are slaughtered one by one by the butcher/outcaste (Skt caṇḍālamahiṣo). 'like a butcher and a buffalo' leaves the comparison unclear, as if the addressee were both.",
+    "fix": "猶如在屠夫身旁（同類被宰殺卻）安睡不覺的水牛"
+   }
+  ]
+ },
+ {
+  "id": "7-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-9",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "因悲傷之力而紅腫，\n雙眼發紅",
+    "evidence": "Tibetan 'mya ngan shugs kyis skrangs pa yi / mig dmar gdong la mtshi ma 'dzag' (Skt sāśru-raktekṣaṇānanān): the relatives' eyes are swollen by the force of grief, red, with tears on their faces (bo-shenga 7-9 gives the subject as the bereaved relatives). The translation leaves line 1 without a subject, merges 'swollen' and 'red' into 紅腫 and then repeats 發紅, and only introduces 親人們 in line 3, so the eyes could be taken as the speaker's own.",
+    "fix": "因悲傷之力而腫脹、雙眼發紅，\n臉龐流下淚水的親人們已陷入絕望，"
+   }
+  ]
+ },
+ {
+  "id": "7-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-13",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "如同天",
+    "evidence": "Tibetan 'lha 'dra ba' (Skt amarākāra): 'like a god'; bo-shenga 7-13 glosses it as 'like the gods of the desire realm' ('dod pa'i lha rnams dang 'dra ba). Bare 如同天 can be read as 'like heaven/sky' and is hard to parse; the locked rendering 天 is better kept inside a person-denoting phrase.",
+    "fix": "如同天人"
+   }
+  ]
+ },
+ {
+  "id": "7-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-15",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "無邊喜悅之因的\n最勝喜悅的正法",
+    "evidence": "Tibetan 'dga' ba'i rgyu ni mtha' yas pa'i / dam chos dga' ba'i mchog': the sublime Dharma is a boundless cause of joy and the supreme joy (bo-gyaltsab 7-15: 'dga' ba'i rgyu ni mtha' yas pa'i thabs dam pa'i chos ... dga' ba'i mchog'). The stacked 的 chain 'cause-of-boundless-joy 的 supreme-joy 的 正法' is hard to parse, and 苦因所致的散亂 reads 'distraction resulting from causes of suffering', whereas bo-shenga 7-15 reads 'distraction by the five sense pleasures, the cause of all suffering', and bo-gyaltsab 7-15 makes distraction and agitation themselves causes of suffering.",
+    "fix": "捨棄了作為無邊喜悅之因、最勝喜悅的正法之後，你為何喜愛那些作為苦因的散亂與掉舉等？"
+   }
+  ]
+ },
+ {
+  "id": "7-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-38",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "陣痛",
+    "evidence": "Tibetan མ་ཡི་མངལ་གྱི་ཟུག་རྔུ་ means 'the pang/thorn (ཟུག་རྔུ) of the mother's womb' (Skt garbhaśalyatā); bo-kunpal 7-38 glosses it as the great piercing pain (ཟུག་རྔུ་ཆེན་པོ) of the womb and bo-shenga as the womb's 'pang of suffering', not specifically labour contractions (陣痛). Also 徒然 adds an 'in vain' nuance beyond ཟད ('merely').",
+    "fix": "母胎的刺痛與苦而已"
+   }
+  ]
+ },
+ {
+  "id": "7-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-55",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-58",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-59",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-61",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-62",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "對該事業應當生貪著",
+    "evidence": "Tibetan ལས་དེ་ལ་ནི་ཞེན་བྱ་སྟེ is a positive injunction: Gyaltsab 7-62 glosses ཞེན་པ་སྟེ་སྤྲོ་བཞིན་དུ་བྱ ('be devoted, doing it joyfully'); Shenga 7-62 has དགའ་བའི་ཡིད་ཀྱིས་ཞེན་པར་བྱ. 貪著 carries the negative sense of greedy clinging, which the context contradicts.",
+    "fix": "對該事業應當深切喜愛、專注投入"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "且無饜足於此生歡喜",
+    "evidence": "Tibetan ལས་དེས་མི་ངོམས་དགའ་བར་བྱ means 'being unsated by that work, take delight'. The Chinese 於此生 can be misparsed as 'in this life', and 此 is vague about the referent (the work).",
+    "fix": "不因該事業而饜足，並生歡喜"
+   }
+  ]
+ },
+ {
+  "id": "7-63",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-64",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "猶如刀鋒所塗之蜂蜜，若對諸欲尚且不饜足",
+    "evidence": "Tibetan སྤུ་གྲིའི་སོར་ཆགས་སྦྲང་རྩི་ལྟའི། འདོད་པ་རྣམས་ཀྱིས་མི་ངོམས་ན: the simile qualifies the desires (འདོད་པ). Shenga 7-64 reads the whole as 'desires, which are like honey smeared on a razor's edge'. The Chinese leaves the simile as a dangling clause detached from 諸欲.",
+    "fix": "若對於猶如塗在刀鋒上的蜂蜜般的諸欲尚且不饜足"
+   }
+  ]
+ },
+ {
+  "id": "7-65",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-66",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "體力",
+    "evidence": "Tibetan སྟོབས་ཉམས་པ: Shenga 7-66 has ནུས་པའི་སྟོབས་ཉམས་པ ('decline of capacity/strength'); Gyaltsab 7-66 says ལུས་སེམས་དུབ་ནས་སྟོབས་ཉམས་པ (body and mind exhausted, strength declined). 體力 restricts it to physical strength.",
+    "fix": "力量"
+   }
+  ]
+ },
+ {
+  "id": "7-67",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-68",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-69",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-70",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-71",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-72",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-73",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-74",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-75",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-a",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-5",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "千百生世",
+    "evidence": "Tibetan ཚེ་རབས་སྟོང་ཕྲག་ཏུ (Skt janmasahasrāṇi) means 'for thousands of lifetimes'; bo-kunpal 8-5 also has ཚེ་རབས་སྟོང་ཕྲག་དག་ཏུ. 千百 ('hundreds and thousands') is looser and shifts the number.",
+    "fix": "數千生世"
+   }
+  ]
+ },
+ {
+  "id": "8-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-9",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "若將人引向不同分",
+    "evidence": "Tibetan སྐལ་མི་མཉམ་པར་ཁྲིད་བྱེད་ན: bo-shenga 8-9 and bo-gyaltsab 8-9 gloss it as leading one to a lot unlike that of the noble ones (འཕགས་པ་རྣམས་དང་སྐལ་བ་མི་མཉམ་པར་ཁྲིད་པར་བྱེད་ན). The Chinese leaves the point of comparison unstated and could be read as 'a lot different from the fools'.",
+    "fix": "若將人引向與聖者不同分"
+   }
+  ]
+ },
+ {
+  "id": "8-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-49",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "你不對之生起喜愛",
+    "evidence": "The Tibetan 'སྔས་ལ་དགའ་བར་མི་བྱེད་པར། ... འདོད་ལྡན་མི་གཙང་བ་ལ་རྨོངས' has no second person; the subject of not delighting in the soft cotton pillow is the lustful ones (འདོད་ལྡན), as bo-gyaltsab 8-49 and bo-shenga 8-49 read it ('འདོད་ལྡན་རྣམས་... ཤིང་བལ་... ལ་ཁྲོ་བ་དག་ཏུ་བྱེད'). The translation inserts 你 and then switches to 貪欲者 in the last line, so the subject shifts mid-verse.",
+    "fix": "貪欲者不對之生起喜愛（末句改為「卻對不淨痴迷」）"
+   }
+  ]
+ },
+ {
+  "id": "8-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-55",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-58",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-59",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-61",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-62",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-63",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-64",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-65",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-66",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-67",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-68",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-69",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-70",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-71",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-72",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-73",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "受遠行之煩惱",
+    "evidence": "ཉོན་མོངས here (བྱེས་བགྲོད་ཉོན་མོངས) means the hardship/trouble of travelling abroad, not the mental affliction (kleśa): Sanskrit has pravāsakleśa and bo-kunpal 8-73 glosses it with \"དཀའ་ཚེགས་ཀྱིས་ངལ་ཞིང་ཉོན་མོངས་པ\" (wearied by hardship). 煩惱 reads as the doctrinal term for the mental afflictions.",
+    "fix": "受遠行旅途之勞頓"
+   }
+  ]
+ },
+ {
+  "id": "8-74",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-75",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-76",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-77",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-78",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-79",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "獲益微小",
+    "evidence": "མནོག་ཆུང་ means little gratification/enjoyment (Sanskrit alpāsvāda, \"slight taste\"); bo-gyaltsab 8-80 glosses it \"བདེ་བའི་མནོག་ཆུང\" (slight happiness), not slight profit or gain. 獲益 suggests benefit/profit.",
+    "fix": "所得的樂味微薄"
+   }
+  ]
+ },
+ {
+  "id": "8-80",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "那微小的獲益",
+    "evidence": "མནོག་ཆུང་ is the slight enjoyment/gratification (Sanskrit āsvādalava), glossed in bo-gyaltsab 8-80 as \"ཚེ་འདིའི་བདེ་བ་ཤིན་ཏུ་མནོག་ཆུང\" (the very slight happiness of this life); 獲益 means gain/profit.",
+    "fix": "那微小的受用之樂"
+   }
+  ]
+ },
+ {
+  "id": "8-81",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-82",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "苦難更大",
+    "evidence": "Locked rendering of སྡུག་བསྔལ is 苦; the segment has \"སྡུག་བསྔལ་ཆེ་ལ\" but the translation uses 苦難 instead.",
+    "fix": "苦更大"
+   }
+  ]
+ },
+ {
+  "id": "8-83",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-84",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-85",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-86",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-87",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-88",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-89",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-90",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-91",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-92",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-93",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-94",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-95",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-96",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-97",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-98",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-99",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-100",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-101",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-102",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "否則我也猶如有情",
+    "evidence": "Tibetan 'དེ་མིན་བདག་ཀྱང་སེམས་ཅན་བཞིན།' = if others' suffering is not to be averted, then my own suffering too, like that of other sentient beings, is not to be averted (bo-shenga 8-102: 'བདག་གི་སྡུག་བསྔལ་ཉིད་ཀྱང་སེམས་ཅན་གཞན་གྱི་སྡུག་བསྔལ་བཞིན་བཟློག་པར་མི་བྱའོ'). The Chinese 'I too am like sentient beings' does not state what is parallel.",
+    "fix": "否則，我之苦亦如其他有情之苦，不應遣除"
+   }
+  ]
+ },
+ {
+  "id": "8-103",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-104",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "為自他而生起",
+    "evidence": "Tibetan 'རང་དང་གཞན་ལ་བསྐྱེད་བྱ་ཉིད' with locative ལ: bo-kunpal 8-104 says compassion's suffering is to be generated 'རང་དང་གཞན་སེམས་ཅན་མང་པོའི་རྒྱུད་ལ་བསྐྱེད' (in the continua of oneself and others), not generated 'for the sake of' them.",
+    "fix": "於自他之上生起"
+   }
+  ]
+ },
+ {
+  "id": "8-105",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-106",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-107",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-108",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-109",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-110",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-111",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-112",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-113",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-114",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-115",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-116",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-117",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-118",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-119",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-120",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-121",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-122",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-123",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-124",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-125",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-126",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-127",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-128",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-129",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-130",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-131",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-132",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "因對他人造作苦之業因",
+    "evidence": "Tibetan 'གཞན་ལ་སྡུག་བསྔལ་བྱས་པའི་རྒྱུས' = 'through (the cause of) having inflicted suffering on others'; bo-kunpal 8-132 'གཞན་སེམས་ཅན་ལ༷་གནོད་པ་སྣ་ཚོགས་པའི་སྡུག་བསྔལ་བྱས་པའི་རྒྱུས'. The Chinese 'creating the karmic cause of suffering' with a redundant 因...因 shifts the object from inflicting suffering to producing its cause.",
+    "fix": "因對他人施加苦"
+   }
+  ]
+ },
+ {
+  "id": "8-133",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-134",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-135",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-136",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-137",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-138",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-139",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-140",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-141",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-142",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-143",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-144",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-145",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "安住惡趣險惡口，此人對眾生無悲心",
+    "evidence": "'ངན་འགྲོ་གདུག་པའི་ཁར་གནས་པ། འགྲོ་ལ་སྙིང་རྗེ་མེད་པར' - 'གནས་པ' qualifies 'འགྲོ་' (the beings); bo-shenga 8-145 'ངན་འགྲོ་གདུག་པའི་ཁར་གནས་པ། དེ་ལྟ་བུའི་འགྲོ་བ་རྣམས་ལ་སྙིང་རྗེ་མེད་པས'. The Chinese lets 'dwelling in the jaws' read as describing 此人, and 安住 adds a connotation of settled comfort.",
+    "fix": "對安處於惡趣兇獸之口中的眾生無悲心"
+   }
+  ]
+ },
+ {
+  "id": "8-146",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-147",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "此外彼有何功德",
+    "evidence": "'གཞན་ཡང་འདི་ཡི་ཡོན་ཏན་གང་། སུས་ཀྱང་ཐོས་པར་མི་འགྱུར་བྱ' - 'གང' is a relative ('whatever qualities this one has', bo-shenga 8-147 'འགྲན་ཟླ་འདི་ཡི་ཡོན་ཏན་གང་དག་'), but '有何功德' reads as an interrogative; འདི 'this one' is rendered 彼.",
+    "fix": "此外，凡此人所有之功德"
+   }
+  ]
+ },
+ {
+  "id": "8-148",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-149",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "令成一切眾生笑，以及交相毀謗處",
+    "evidence": "'འགྲོ་བ་ཀུན་གྱི་བཞད་གད་དང་། ཕན་ཚུན་སྨོད་པ་དག་ཏུ་བྱ' - 'བཞད་གད' is an object of laughter (bo-gyaltsab 8-149 'བཞད་གད་ཀྱི་གནས'); '眾生笑' with bare 笑 is hard to parse as 'laughingstock'.",
+    "fix": "使其成為一切眾生嘲笑的對象，以及彼此譏毀之處"
+   }
+  ]
+ },
+ {
+  "id": "8-150",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "此一煩惱者",
+    "evidence": "'ཉོན་མོངས་འདི་ཡང་' here means 'this wretched one': bo-shenga 8-150 'ཉོན་མོངས་ཏེ་དམན་པ་འདི་ཡང་' (ཉོན་མོངས་ glossed as དམན་པ 'inferior'); Sanskrit 'vārakasya' (poor wretch); english_academic 'this miserable one'. 煩惱者 reads it as a person of afflictions and loses the contrast of inferiority with the superior self.",
+    "fix": "此可憐之輩"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "然彼於聞或般若、色貌種姓財等我？",
+    "evidence": "'འདི་དག་ཐོས་དང་ཤེས་རབ་བམ། གཟུགས་རིགས་ནོར་གྱིས་མཉམ་མམ་ཅི' is a rhetorical question 'is he equal to me in learning or wisdom, form, family, wealth?'; the Chinese '等我' with no question marker is hard to parse.",
+    "fix": "然彼於聞、般若，或色貌、種姓、財富，豈能與我相等？"
+   }
+  ]
+ },
+ {
+  "id": "8-151",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-152",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-153",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-154",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-155",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-156",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-157",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-158",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-159",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-160",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-161",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-162",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-163",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "勿讚偶發少分功德",
+    "evidence": "Tibetan 'འདི་ནི་སྐྱོན་ཅན་རང་བཞིན་ཏེ། གློ་བུར་ཡོན་ཏན་ཆས་མི་བསྟོད' says this one (the self, bdag 'di) is not to be praised on account of a fraction of adventitious qualities; the object of praise is the self, the qualities are the ground. The Chinese reads as 'do not praise the adventitious qualities', dropping the object 'this one' and shifting what is forbidden (bo-kunpal 8-163: 'གློ་བུར་གྱི་ཡོན་ཏན་ཅུང་ཟད་... དེའི་སྒོ་ནས་ནམ་ཡང་མགོ་འཕང་མི་བསྟོད'; bo-gyaltsab 8-163). Also '此人' for 'འདི' (the self) could be read as another person.",
+    "fix": "勿以偶發少分功德而讚此者"
+   }
+  ]
+ },
+ {
+  "id": "8-164",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-165",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-166",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-167",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-168",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-169",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-170",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-171",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-172",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-173",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-174",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-175",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-176",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-177",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "無有動搖而由他牽引",
+    "evidence": "Tibetan མི་གཡོ་གཞན་གྱིས་བསྐྱོད་བྱ་བ means the body is immobile (it cannot move itself) and is moved by others (Skt niśceṣṭa). 無有動搖 in Chinese normally reads as 'unshakeable/steadfast', not 'motionless'.",
+    "fix": "不能自動而由他者推動"
+   }
+  ]
+ },
+ {
+  "id": "8-178",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-179",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "隨後生起貪著與瞋恚",
+    "evidence": "Tibetan རྗེས་སུ་ཆགས་དང་ཁོང་ཁྲོ་བ: རྗེས་སུ་ཆགས་པ is the compound 'attachment/affection' (Skt anunaya), not a temporal 'afterwards'; bo-kunpal 8-179 glosses it as རང་ཕྱོགས་ལ་རྗེས་སུ་ཆགས་པ་དང་གཞན་ཕྱོགས་ལ་ཁོང་ཁྲོ་བ (attachment to one's own side, anger toward the other side). 隨後 adds a sequence not in the source.",
+    "fix": "貪著與瞋恚"
+   }
+  ]
+ },
+ {
+  "id": "8-180",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-181",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "因受毀謗而生憤怒，或因受讚揚而生歡喜，倘若其本身毫無所知",
+    "evidence": "Tibetan གང་ཞིག་སྨོད་པས་ཁྲོ་བ་དང་། གང་ཞིག་བསྟོད་པས་མགུ་འགྱུར་བ། has a relative subject gang zhig (that which/one who), which bo-gyaltsab 8-181 and bo-kunpal 8-181 identify as the body. The Chinese drops the subject so 其本身 has no clear referent.",
+    "fix": "凡是因受毀謗而憤怒、因受讚揚而歡喜者，倘若其本身毫無所知"
+   }
+  ]
+ },
+ {
+  "id": "8-182",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-183",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-184",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-185",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-a",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-11",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "因為是幻化而沒有心",
+    "evidence": "Tibetan 'སེམས་མེད་ཕྱིར་ན་སྡིག་མེད' gives only 'because there is no mind, there is no misdeed'; the Chinese adds 'because it is an illusion' (是幻化) as a reason, which the verse does not state (Gyaltsab 9-11 repeats the verse unchanged; Kunpal 9-11 says 'སེམས་མེད་པའི་ཕྱིར').",
+    "fix": "因為沒有心，所以沒有罪業"
+   }
+  ]
+ },
+ {
+  "id": "9-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-14",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "幻化亦是不退滅",
+    "evidence": "Tibetan 'སྒྱུ་མའང་ལྡོག་པར་མི་འགྱུར་གྱི' means even the illusion (saṃsāra's appearance) does not cease/reverse (Kunpal 9-14: 'སྒྱུ་མའི་སྣང་བ་འང་ལྡོག་པར་མི་འགྱུར'). '不退滅' is not an idiomatic rendering and can be misread as 'does not decline'.",
+    "fix": "幻化亦不會止息"
+   }
+  ]
+ },
+ {
+  "id": "9-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-18",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "真實照明",
+    "evidence": "Tibetan 'ཡང་དག་གསལ་བར་བྱེད་བཞིན' uses ཡང་དག་ adverbially ('perfectly/fully'; Sanskrit saṃprakāśayati; Gyaltsab 9-20 'ཡང་དག་པར་གསལ་བར་བྱེད་པ'). '真實' is the locked rendering of ཡང་དག་ཉིད/དེ་ཉིད and suggests 'in reality', which is not meant here.",
+    "fix": "完全照明"
+   }
+  ]
+ },
+ {
+  "id": "9-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-20",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "非青之法成青色，並非自己作自己",
+    "evidence": "Tibetan 'སྔོ་ཉིད་མིན་ལ་སྔོན་པོར་དེ། བདག་གིས་བདག་ཉིད་བྱས་པ་མེད' says that what is not (originally) blue has not been made blue by itself (Kunpal 9-20: 'བདག་གིས་བདག་ཉིད་སྔར་སྔོན་པོ་མིན་པ་ལ་ཕྱིས་སྔོན་པོར་བྱས་པ་ནི་མེད'). The Chinese splits it into an affirmative-looking 'a non-blue thing becomes blue' plus a separate negation.",
+    "fix": "非青之物，並無由自己使自己成為青色者"
+   }
+  ]
+ },
+ {
+  "id": "9-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-42",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "其他二者承許",
+    "evidence": "Tibetan གཞན་གཉིས་འདོད་པས། Shenga (bo-shenga 9-42) glosses གཞན་གང་ཡང་རུང་བ་གཉིས་ཀྱིས་འདོད་པས (accepted by any two parties) and Gyaltsab (bo-gyaltsab 9-43) says གང་ཟག་གཞན་གང་ཡང་རུང་བ་གཉིས། 'any two other persons'. '其他二者' can be read as a specific pair of 'the other two'.",
+    "fix": "任何其他二方承許"
+   }
+  ]
+ },
+ {
+  "id": "9-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-50",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "若因一部未包含",
+    "evidence": "Tibetan 'མ་གཏོགས་གཅིག' (Sanskrit 'ekena agamyamānena'): a single sutra not included in/accepted by the lower-vehicle canon; bo-kunpal 9-50 'དམན་པའི་སྡེ་སྣོད་དུ་མ་གཏོགས་པའི་...མདོ་གཅིག'. The Chinese leaves unstated what it is not included in.",
+    "fix": "若因有一部未被納入（小乘藏）"
+   }
+  ]
+ },
+ {
+  "id": "9-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-55",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-58",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-59",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-61",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-62",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "那麼對它的覺知亦不存在",
+    "evidence": "Tibetan 'དེ་ཡི་ཤེས་པའང་མེད' = the cognition of that (sound); bo-shenga 9-62 'སྒྲ་དེ་ཡི་ཤེས་པའང་མེད'. In the Chinese, 它 just before denotes the cognition, so the referent shifts unclearly.",
+    "fix": "那麼對聲的覺知亦不存在"
+   }
+  ]
+ },
+ {
+  "id": "9-63",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-64",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "彼亦未被見為",
+    "evidence": "Tibetan 'དེ་ནི...མཐོང་མ་ཡིན' has no 'also'; 'དེ' is the apprehender of form (bo-shenga 9-64 'གཟུགས་འཛིན་པ་པོ་དེ་ནི...མཐོང་བ་མ་ཡིན'; bo-kunpal 9-64 'གཟུགས་འཛིན་དེ'). 彼 is vague and 亦 is added.",
+    "fix": "彼取色者未被見具有"
+   }
+  ]
+ },
+ {
+  "id": "9-65",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-66",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-67",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-68",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-69",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-70",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-71",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-72",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-73",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-74",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-75",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-76",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-77",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-78",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-79",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-80",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-81",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-82",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "除手等外若無他",
+    "evidence": "Tibetan ལག་སོགས་རྣམས་ལས་གཞན་མེད་ན། means 'if (the body) does not exist as other than the hands etc.'; the Chinese '無他' leaves the subject (the body) unstated and is hard to parse.",
+    "fix": "若離手等之外別無身"
+   }
+  ]
+ },
+ {
+  "id": "9-83",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "石堆",
+    "evidence": "Tibetan ཐོ་ཡོར་ལ་ནི་མི་བློ་བཞིན renders Sanskrit स्थाणौ पुरुषबुद्धिवत् (sthāṇu = a stump/post); the example is a stump or post mistaken for a person because of its shape (bo-kunpal 9-83: མི་དང་འདྲ་བའི་དབྱིབས་སུ་བཀོད་པའི་ཁྱད་པར་ ... ཐོ་ཡོར་ལ་ ... མི་རུ་འཁྲུལ་པའི་བློ). english_academic has 'stump'. A heap of stones is not the exemplum.",
+    "fix": "如於木樁生人想"
+   }
+  ]
+ },
+ {
+  "id": "9-84",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-85",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-86",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-87",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "具慧者",
+    "evidence": "Tibetan 'དཔྱོད་ལྡན' = one endowed with investigation/analysis (Sanskrit विचारकः); bo-kunpal 9-87: 'དེ་ཁོ་ན་ཉིད་ཀྱི་དཔྱོད་པ་དང་ལྡན་པའི་གང་ཟག' (a person endowed with investigation of reality). '慧' reads as prajñā (ཤེས་རབ), not dpyod pa; elsewhere in the batch དཔྱོད/དཔྱད is rendered 分析.",
+    "fix": "對於色具分析者誰會貪著？"
+   }
+  ]
+ },
+ {
+  "id": "9-88",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-89",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "未經驗於彼",
+    "evidence": "The same verb མྱོང་ in line 2 ('གལ་ཏེ་དེ་མྱོང་མ་ཡིན་ན') and ཉམས་མྱོང་ in line 3 are used interchangeably (bo-gyaltsab 9-89, bo-shenga 9-89: 'མྱོང་བ་ཉིད་ནི་ཚོར་བའི་རང་བཞིན་'); the locked term ཉམས་མྱོང་ is 體驗, but line 2 uses 經驗, breaking the identity on which the argument (not experienced -> not feeling) depends.",
+    "fix": "故而未體驗彼"
+   }
+  ]
+ },
+ {
+  "id": "9-90",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "若謂彼僅是異於彼之喜，則彼微細亦屬於彼。",
+    "evidence": "Two different referents are both rendered 彼. bo-gyaltsab 9-91 and bo-shenga 9-90 ('ཕུལ་དུ་བྱུང་བའི་བདེ་བ་དེ་ལས་གཞན་དགའ་བའི་ཆ་ཙམ') show 'དེ་ལས་' = other than that strong happiness; bo-kunpal 9-90: 'ཕྲ་མོ་ཉིད་དེ་ཡང་དགའ་བ་དེའི་རིགས་ཡིན་' (the subtle thing itself belongs to the class of that joy/happiness). The Chinese leaves the referents unresolved.",
+    "fix": "若謂彼僅是異於該強盛之樂的微喜，則該微細亦屬於該樂之類。"
+   }
+  ]
+ },
+ {
+  "id": "9-91",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-92",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "應當修習此分析作為對治",
+    "evidence": "Tibetan 'འདི་ཡི་ནི། གཉེན་པོ་རྣམ་དཔྱོད་འདི་བསྒོམ་སྟེ' = meditate on this analysis as the antidote of this (the clinging to feeling); bo-kunpal 9-92: 'ཚོར་བ་བདེ་སོགས་ལ་…མངོན་པར་ཞེན་…འདི་ཡི་ནི་གཉེན་པོ'. 'Of this' (འདི་ཡི) is not rendered.",
+    "fix": "應當修習此分析作為此（執著）之對治"
+   }
+  ]
+ },
+ {
+  "id": "9-93",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-94",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-95",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-96",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-97",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-98",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-99",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-100",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-101",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-102",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-103",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-104",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-105",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-106",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-107",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-108",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "依賴於共稱之事",
+    "evidence": "Tibetan ཇི་ལྟར་གྲགས་པ་ལ་བརྟེན་ནས ('relying on what is renowned/accepted'); bo-shenga 9-108 glosses it as འཇིག་རྟེན་གྲགས་པའི་ཐ་སྙད་ལ་བརྟེན་ནས (relying on the worldly renowned convention); bo-kunpal likewise 'ཐ་སྙད'. '共稱之事' ('a thing jointly called') does not convey 'as is commonly known/accepted in the world' and adds '事'.",
+    "fix": "依賴於世間所共知的名言"
+   }
+  ]
+ },
+ {
+  "id": "9-109",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-110",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-111",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-112",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-113",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-114",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-115",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "則能了知彼所知者，覺知存在從何了知",
+    "evidence": "Tibetan གང་ཕྱིར་ཤེས་བྱ་དེ་རྟོགས་པ། ཤེས་པ་ཡོད་ཉིད་གང་ལས་རྟོགས: the relative clause 'that by which the knowable is known' qualifies the consciousness whose existence is then questioned (bo-shenga 9-115: ཤེས་བྱ་དེ་རྟོགས་པར་བྱེད་པའི་ཤེས་པ་ཡོད་པ་ཉིད་གང་ལས་རྟོགས). The Chinese line 3 has no subject and reads as a further consequence ('then one can know that knowable'), obscuring that it is the knowing consciousness itself that is at issue.",
+    "fix": "則藉以了知該所知的那個覺知，其存在又從何了知？"
+   }
+  ]
+ },
+ {
+  "id": "9-116",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-117",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-118",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-119",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-120",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-121",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-122",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-123",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-124",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-125",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "若去造作",
+    "evidence": "Tibetan 'བྱེད་ན' (and 'བྱེད་ནའང་') means 'if (he) acts / creates' (Skt kurvataḥ). The character 去 ('go') is a slip and makes the clause hard to parse.",
+    "fix": "若造作"
+   }
+  ]
+ },
+ {
+  "id": "9-126",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-127",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-128",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-129",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-130",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-131",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-132",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "為何未被體驗所取",
+    "evidence": "Tibetan 'མྱོང་བ་ཅི་ཕྱིར་འཛིན་མ་ཡིན' (Skt saṃvittiḥ kiṃ na gṛhyate): 'experience' is the thing not apprehended. bo-kunpal 9-132 glosses: 'དུས་རྟག་ཏུའང་མྱོང་བ་ཅི་ཡི་ཕྱིར་འཛིན་པ་མ་ཡིན' (why is it not always experienced). The Chinese turns 體驗 into an agent that 'takes' something unspecified, so the object of non-apprehension is unclear.",
+    "fix": "為何不被領受為體驗"
+   }
+  ]
+ },
+ {
+  "id": "9-133",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-134",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-135",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-136",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-137",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-138",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-139",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-140",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-141",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-142",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-143",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-144",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-145",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-146",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-147",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "若於無時不可能有事物存在",
+    "evidence": "Tibetan 'med tshe dngos yod srid min na' = 'if, at the time of non-existence (while the non-entity is there), an entity cannot exist'; Sanskrit 'nābhāvakāle bhāvaś cet'. 'at the time of non-entity'. The Chinese '於無時' can be read as 'at no time / never', which is not what the Tibetan says.",
+    "fix": "若於無事物之時，事物不可能存在"
+   }
+  ]
+ },
+ {
+  "id": "9-148",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "則無事物存在之機",
+    "evidence": "Tibetan 'dngos po yod pa'i skabs mi srid' = 'the occasion for an entity to exist is impossible'. The Chinese string '無事物存在之機' places the locked term 無事物 (dngos med) adjacent to 無, so it can be parsed as 'the occasion for a non-entity to exist' or as a negated '事物存在之機'; the negation of the possibility (mi srid) is not clearly expressed.",
+    "fix": "則事物存在之機不可能有"
+   }
+  ]
+ },
+ {
+  "id": "9-149",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-150",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-151",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-152",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-153",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-154",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-155",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-156",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "享盡眾多安樂後",
+    "evidence": "Tibetan 'bde ba mang po spyod spyod nas' = 'having repeatedly enjoyed much happiness' (Sanskrit 'bhūtvā bhūtvā sukhocitāḥ'); nothing in the text says the happiness is exhausted. '享盡' adds the sense of using it all up.",
+    "fix": "受用眾多安樂後"
+   }
+  ]
+ },
+ {
+  "id": "9-157",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-158",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-159",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-160",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-161",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-162",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-163",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "安住於苦河中",
+    "evidence": "Tibetan 'sdug bsngal chu bor gnas' = 'dwelling/being situated in the river of suffering' (Sanskrit 'duḥkhaugha-vartinām'). '安住' carries the positive Buddhist sense of abiding at ease, which clashes with the verse's irony and the plain sense of 'gnas'.",
+    "fix": "處於苦河中"
+   }
+  ]
+ },
+ {
+  "id": "9-164",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-165",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-166",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-167",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-a",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-1",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "《入\n菩提行》",
+    "evidence": "The Tibetan བྱང་ཆུབ་སྤྱོད་པ་ལ་འཇུག་པ is the work's title, a single unit; the Chinese breaks the title across two lines (《入 / 菩提行》), making the title hard to read as one name. Content is otherwise faithful (བདག་གིས ... རྣམ་པར་བརྩམས་པ་ཡི་དགེ་བ་གང་དེས་).",
+    "fix": "《入菩提行》"
+   }
+  ]
+ },
+ {
+  "id": "10-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-18",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "願孕婦皆無害生產",
+    "evidence": "Tibetan སྦྲུམ་མའང་གནོད་མེད་བཙའ་བར་ཤོག has the additive particle -འང ('pregnant women too', Sanskrit गर्भिण्यश्च; bo-shenga 10-18 'སྦྲུམ་མ་ཇི་སྙེད་པའང་'), comparing them with Māyādevī. The Chinese drops 'also' and turns it into 'all', and 無害生產 is awkward (reads as 'harmless birth-giving').",
+    "fix": "願孕婦亦能平安無損地分娩"
+   }
+  ]
+ },
+ {
+  "id": "10-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-26",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "狂亂",
+    "evidence": "Tibetan རབ་མྱོས ('utterly intoxicated'; Sanskrit pramatta/matta; bo-kunpal 10-26 'རབ་ཏུ་མྱོས་པས་བག་མེད་པར་གྱུར་ཏེ', bo-shenga 'མྱོས་ཤིང་རབ་ཏུ་མྱོས་པ'). 狂亂 means frenzied/deranged, not deeply intoxicated, and loses the intensifier relation to མྱོས.",
+    "fix": "酩酊"
+   }
+  ]
+ },
+ {
+  "id": "10-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-31",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "恆常行持一切善",
+    "evidence": "Tibetan རྟག་ཏུ་དགེ་བ་བྱེད་པར་ཤོག has no 'all' on དགེ་བ ('always perform virtue'; Sanskrit कुशलं; bo-kunpal 10-31 'དགེ་བ་ཕུན་སུམ་ཚོགས་པ་བྱེད'). 'ཐམས་ཅད' qualifies the misdeeds (སྡིག་པ་ཐམས་ཅད), not virtue.",
+    "fix": "恆常行善"
+   }
+  ]
+ },
+ {
+  "id": "10-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-41",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "無任何人心中不悅",
+    "evidence": "Tibetan \"འགའ་ཡང་ཡིད་མི་བདེ་མ་གྱུར\" with elided subject \"སེམས་ཅན\" carried over from line 1 (bo-kunpal 10-41: \"སེམས་ཅན་འགའ་ཡང་ཡིད་མི་བདེ་བར་ཡང་མ་གྱུར\"); \"人\" narrows the referent to humans, while the subject is sentient beings.",
+    "fix": "無任何有情心中不悅"
+   }
+  ]
+ },
+ {
+  "id": "10-42",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "僧伽之目標亦皆成就",
+    "evidence": "\"དགེ་འདུན་དོན\" means the affairs/tasks of the Sangha (Skt saṅghakārya); bo-shenga 10-42 glosses it as the Sangha's activities of reading and meditation (\"དགེ་འདུན་གྱི་དོན་ཀློག་སྤོང་གི་བྱ་བ\"), not abstract \"goals\".",
+    "fix": "僧伽之事務亦皆成就"
+   }
+  ]
+ },
+ {
+  "id": "10-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-54",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "盡十方虛空的邊際，為了成辦一切有情的利益",
+    "evidence": "\"ཕྱོགས་བཅུའི་ནམ་མཁའི་མཐས་གཏུགས་པའི\" modifies \"སེམས་ཅན\" (beings extending to the limit of space; bo-kunpal 10-54, bo-shenga 10-54 \"ནམ་མཁའི་མཐས་གཏུགས་པར…སེམས་ཅན\"); the Chinese leaves the phrase as a free-standing line that can be read adverbially.",
+    "fix": "為了成辦盡十方虛空邊際一切有情的利益"
+   }
+  ]
+ },
+ {
+  "id": "10-55",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "願我亦安住爾時",
+    "evidence": "\"དེ་སྲིད\" (correlative of \"ཇི་སྲིད\") means \"for that long / as long as that\", a duration (Skt tāvat); \"爾時\" means \"at that time\", turning duration into a point in time.",
+    "fix": "願我亦安住如是之久"
+   }
+  ]
+ },
+ {
+  "id": "10-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-58",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-a",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "a-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "b-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "b-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "b-3",
+  "verdict": "pass",
+  "issues": []
+ }
+]

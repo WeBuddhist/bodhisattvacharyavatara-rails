@@ -1,0 +1,221 @@
+{
+ "batch": "batch-16",
+ "segments": [
+  {
+   "id": "8-91",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-92",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "同樣的，別人的痛苦雖然不會落在我身上。即使這樣，",
+     "evidence": "Academic: 'Likewise, others' suffering, although it will not descend on me, even so it is my suffering...' - one concessive sentence; the children's text breaks it into a dangling clause.",
+     "fix": "同樣的，別人的痛苦雖然不會落在我身上，可是那也是我的痛苦。因為我緊抓著自我不放，所以這痛苦也很難忍受。"
+    }
+   ]
+  },
+  {
+   "id": "8-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-101",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-102",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "不然，我也該像其他眾生一樣繼續受苦。",
+     "evidence": "Academic: '否則我也猶如有情' - otherwise (if not all suffering is to be removed) my own suffering is no different from that of any being; it does not say I 'should' keep suffering.",
+     "fix": "如果要消除痛苦，就該消除所有的痛苦。不然的話，我也只是眾生中的一個，我的痛苦並沒有特別。"
+    }
+   ]
+  },
+  {
+   "id": "8-103",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-104",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-105",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-107",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-109",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-110",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-111",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-112",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-113",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-114",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-115",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-116",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-117",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-118",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-119",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-120",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-121",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-122",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-123",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-124",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-125",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-126",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-127",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-128",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-129",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-130",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

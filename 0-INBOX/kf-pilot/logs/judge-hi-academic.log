@@ -1,0 +1,66 @@
+(anon):setopt:7: can't change option: monitor
+
+[[31mERROR[39m]: gitstatus failed to initialize.
+
+
+  Add the following parameter to ~/.zshrc for extra diagnostics on error:
+
+    GITSTATUS_LOG_LEVEL=DEBUG
+
+  Restart Zsh to retry gitstatus initialization:
+
+    [32mexec zsh[39m
+pairs to judge: 113
+judgements to make=226 calls=30
+  pass 1 hi-academic 2-38..4-18 ok
+  pass 1 hi-academic 2-6..2-32 ok
+  pass 1 hi-academic 4-36..5-32 ok
+  pass 1 hi-academic 1-2..1-34 ok
+  pass 1 hi-academic 6-13..6-40 ok
+  pass 1 hi-academic 6-41..6-114 ok
+  pass 1 hi-academic 6-121..8-22 ok
+  pass 1 hi-academic 5-42..6-6 ok
+  pass 1 hi-academic 8-23..8-46 ok
+  pass 1 hi-academic 8-51..8-104 ok
+  pass 1 hi-academic 8-105..8-175 ok
+  pass 1 hi-academic 8-185..9-42 ok
+  pass 1 hi-academic 10-46..10-46 ok
+  pass 1 hi-academic 9-43..9-110 ok
+  pass 1 hi-academic 9-121..10-34 ok
+  pass 2 hi-academic 1-2..1-34 ok
+  pass 2 hi-academic 2-6..2-32 ok
+  pass 2 hi-academic 2-38..4-18 ok
+  pass 2 hi-academic 4-36..5-32 ok
+  pass 2 hi-academic 5-42..6-6 ok
+  pass 2 hi-academic 6-13..6-40 ok
+  pass 2 hi-academic 6-41..6-114 ok
+  pass 2 hi-academic 6-121..8-22 ok
+  pass 2 hi-academic 8-23..8-46 ok
+  pass 2 hi-academic 8-51..8-104 ok
+  pass 2 hi-academic 8-105..8-175 ok
+  pass 2 hi-academic 10-46..10-46 ok
+  pass 2 hi-academic 8-185..9-42 ok
+  pass 2 hi-academic 9-43..9-110 ok
+  pass 2 hi-academic 9-121..10-34 ok
+pairs=113; passes disagreed on 26 (counted as tie)
+| Track | Pairs | Fixed version better | Tie | Original better |
+|---|---|---|---|---|
+| hi-academic | 113 | 69 (61%) | 28 (25%) | 16 (14%) |
+| all | 113 | 69 (61%) | 28 (25%) | 16 (14%) |
+  reverted hi-academic 3-a
+  reverted hi-academic 4-7
+  reverted hi-academic 4-10
+  reverted hi-academic 2-17
+  reverted hi-academic 1-11
+  reverted hi-academic 1-21
+  reverted hi-academic 6-13
+  reverted hi-academic 5-99
+  reverted hi-academic 8-23
+  reverted hi-academic 8-25
+  reverted hi-academic 8-45
+  reverted hi-academic 9-9
+  reverted hi-academic 9-18
+  reverted hi-academic 9-46
+  reverted hi-academic 10-20
+  reverted hi-academic 10-34
+reverted 16 minor-only fixes the judge rated worse

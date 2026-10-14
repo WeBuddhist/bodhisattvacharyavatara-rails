@@ -1,0 +1,121 @@
+{
+ "batch": "batch-34",
+ "segments": [
+  {
+   "id": "8-151",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-152",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-153",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-154",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-155",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-156",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "A situation like this, other than the perfect happiness of a Buddha, could not possibly occur.",
+     "evidence": "Tibetan 'སངས་རྒྱས་ཕུན་སུམ་བདེ་མིན་པ། གནས་སྐབས་འདི་འདྲར་འགྱུར་མི་སྲིད།': 'མིན་པ' qualifies 'གནས་སྐབས་འདི་འདྲ' (a situation like this that is not Buddha's perfect happiness). bo-gyaltsab 8-156: 'སངས་རྒྱས་ཀྱི་དོན་གཉིས་ཕུན་སུམ་ཚོགས་པའི་བདེ་བ་མིན་པ་སྡུག་བསྔལ་མྱོང་བའི་གནས་སྐབས་འདི་འདྲ'. The English 'other than' reads as an exception clause and obscures that the current suffering is what is not Buddha's happiness.",
+     "fix": "such a situation as this, which is not the perfect happiness of a Buddha, could not possibly occur."
+    }
+   ]
+  },
+  {
+   "id": "8-157",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-158",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-159",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-160",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-161",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-162",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-163",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-164",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-165",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-166",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-167",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "You yourself will simply be subdued.",
+     "evidence": "Tibetan 'ཁྱོད་ཉིད་ཚར་གཅད་བྱ་བར་ཟད།' is obligation/only-remaining-option ('བྱ་བ' gerundive), not a bare future passive; bo-shenga 8-167: 'ཁྱོད་ཉིད་ཚར་བཅད་པར་བྱ་བ་ཁོ་ནར་ཟད་དོ'; bo-kunpal: 'ཚར་བཅད་པར་བྱ་བར་ཟད་དོ' (to be subdued by the antidote). Skt 'tvām eva nigrahīṣyāmi' has the speaker as agent.",
+     "fix": "there is nothing left but to subdue you yourself."
+    }
+   ]
+  },
+  {
+   "id": "8-168",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-169",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-170",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "I-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "I-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "I-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-5",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "within the womb of clouds",
+     "evidence": "Tibetan སྤྲིན་རུམ་ན (Skt meghaghanāndhakāre) means 'in the thick mass of clouds'; bo-kunpal 1-5 glosses it as སྤྲིན་རུམ་ 'cloud-bank'. Nothing in the Tibetan or commentaries supports 'womb'.",
+     "fix": "within a dense mass of clouds"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "occasionally / Intelligence for merit arises for a moment in the world",
+     "evidence": "བརྒྱ་ལམ་ན 'once in a hundred (instances/paths)' and ཐང་འགའ་འབྱུང 'only rarely arises'; bo-shenga 1-5 ཐང་འགའ་ཙམ་འབྱུང་ངོ and bo-kunpal 1-5 (བརྒྱ་ལན་རེ་སྟོང་ལན་གཉིས་ཙམ་འབྱུང 'occurs about once in a hundred or thousand times'). 'For a moment' belongs to the lightning simile (སྐད་ཅིག), not to the arising of the thought (Skt kṣaṇaṃ is not in the Tibetan line); rarity is lost.",
+     "fix": "once in a hundred times, the thought toward merit rarely arises in the world"
+    }
+   ]
+  },
+  {
+   "id": "1-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-11",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "the states of wandering beings",
+     "evidence": "འགྲོ་བའི་གནས་ (Skt gati-pattana) refers to the realms/destinies of rebirth: bo-shenga 1-11 འགྲོ་བ་ལྔའི་གནས་ 'the abodes of the five migrations'; bo-gyaltsab 1-11 gives འཁོར་བའི་རྒུད་པ་ 'the miseries of saṃsāra'. Here འགྲོ་བ is 'migration/destiny', not 'beings', so the locked 'wandering being' misleads.",
+     "fix": "the realms of migration (the destinies of saṃsāra)"
+    }
+   ]
+  },
+  {
+   "id": "1-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-17",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

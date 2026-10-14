@@ -1,0 +1,121 @@
+{
+ "batch": "batch-33",
+ "segments": [
+  {
+   "id": "8-131",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-132",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-133",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-134",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-135",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-136",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-137",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-138",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-139",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-140",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-141",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-142",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-143",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-144",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-145",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "बाहरी गुण के अभिमान से",
+     "evidence": "Tibetan 'ཕྱིར་ལ་ཡོན་ཏན་རློམ་པ་ཡིས' (Skt 'अपरं गुणमानेन'): ཕྱིར་ལ is the adverbial 'moreover/furthermore' (English: 'Moreover, conceited about his good qualities'). bo-kunpal 8-145 glosses it as conceit about qualities he does not have ('ཡོན་ཏན་མེད་བཞིན་དུ་ཡོན་ཏན་ཅན་དུ་རློམས་པ'). Nothing in the Tibetan says the qualities are 'outer/external' (बाहरी); the Hindi read ཕྱིར་ as 'outside' and added a qualifier.",
+     "fix": "इसके अतिरिक्त, गुण के अभिमान से"
+    }
+   ]
+  },
+  {
+   "id": "8-146",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "मेरे समान वालों को देखकर",
+     "evidence": "Tibetan 'བདག་དང་མཉམ་ལ་བལྟས་ནས' / Skt 'सममात्मानमालोक्य': a single person equal to me (bo-shenga 8-146 'བདག་དང་མཉམ་པ་ཞིག་ལ་ལྟོས་ནས'; bo-gyaltsab: one bodhisattva equal in rank). The Hindi 'वालों' is plural.",
+     "fix": "अपने समान (एक व्यक्ति) को देखकर"
+    }
+   ]
+  },
+  {
+   "id": "8-147",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-148",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-149",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-150",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

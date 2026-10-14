@@ -1,0 +1,137 @@
+{
+ "batch": "batch-31",
+ "segments": [
+  {
+   "id": "8-91",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-101",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-102",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "इस पर विवाद नहीं करना चाहिए",
+     "evidence": "Tibetan བརྩད་དུ་མེད (Sanskrit avivādataḥ) states that there is no ground for dispute / it is indisputable (bo-kunpal 8-102: དེ་ལྟར་བརྩད་དུ་མེད). The Hindi turns this into a prescription ('one should not dispute'), shifting the modality.",
+     "fix": "इस पर विवाद की कोई गुंजाइश नहीं है"
+    }
+   ]
+  },
+  {
+   "id": "8-103",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-104",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "करना ही चाहिए。",
+     "evidence": "The line ends with a Chinese/Japanese full stop (。) instead of the Devanagari danda; the Tibetan line ends བསྐྱེད་བྱ་ཉིད། and the translation's other lines use । or plain punctuation.",
+     "fix": "करना ही चाहिए।"
+    }
+   ]
+  },
+  {
+   "id": "8-105",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "major",
+     "span": "राजा की हानि को जानकर भी",
+     "evidence": "Tibetan རྒྱལ་པོའི་གནོད་པ is the harm coming from the king (Sanskrit nṛpāpadam; bo-shenga 8-105: རྒྱལ་པོ་དཔལ་བྱིན་ལས་བྱུང་བའི་གནོད་པ 'harm arising from King Dpal-byin'; bo-gyaltsab: རང་ཉིད་གསོད་པའི་རྒྱལ་པོའི་གནོད་པ, the king's harm that would kill him). Hindi 'राजा की हानि' reads naturally as harm/loss to the king, reversing the referent.",
+     "fix": "राजा से होने वाली हानि को जानते हुए भी"
+    }
+   ]
+  },
+  {
+   "id": "8-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-107",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-109",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "थोड़े से भी, अप्रिय से",
+     "evidence": "Tibetan མི་སྙན་ལས is an unpleasant/disagreeable utterance (Sanskrit avarṇāt; bo-kunpal 8-109: མི་སྙན་པའི་ཚིག་ཙམ་ལས་ཀྱང 'even a mere unpleasant word'; bo-shenga: མི་སྙན་པ་བརྗོད་པ་ལས). Hindi bare 'अप्रिय' loses the 'word/speech' sense and could mean any unpleasantness.",
+     "fix": "थोड़े से भी अप्रिय वचन से"
+    }
+   ]
+  },
+  {
+   "id": "8-110",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

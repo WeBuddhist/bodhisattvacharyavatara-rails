@@ -1,0 +1,152 @@
+{
+ "batch": "batch-28",
+ "segments": [
+  {
+   "id": "8-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-34",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "शोक करते हुए भी",
+     "evidence": "Tibetan \"འཇིག་རྟེན་ཀུན་ནས་གདུང་བཞིན་དུ\" is a simultaneous 'while' (bzhin du), not concessive; bo-shenga 8-34 and bo-gyaltsab 8-34 read it as relatives grieving all around while the body has not yet been carried out. Hindi \"भी\" adds a concessive 'even though' nuance.",
+     "fix": "शोक करते हुए"
+    }
+   ]
+  },
+  {
+   "id": "8-35",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "यह शरीर एकाकी एकान्त में स्थित हो,",
+     "evidence": "Tibetan \"ལུས་འདི་གཅིག་པུ་དབེན་གནས་ཏེ\" is a plain narrative clause in a chain (bo-gyaltsab 8-35: \"རང་གི་ལུས་འདི་གཅིག་པུ་དབེན་པར་གནས་ཏེ\"); Hindi \"स्थित हो\" reads as an optative/wish and leaves the clause chain dangling.",
+     "fix": "यह शरीर अकेला एकान्त में रहकर,"
+    }
+   ]
+  },
+  {
+   "id": "8-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-38",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "केवल स्वयं का चिन्तन करते हुए",
+     "evidence": "Tibetan \"བདག་ལ་སེམས་པ་གཅིག་པུ་ཡིས\" with Sanskrit \"स्वचित्तैकाग्रमानसः\" and bo-kunpal 8-38 (thought \"I shall tame this very mind of mine\") means a mind intent on one's own mind; Hindi \"स्वयं का चिन्तन\" can be read as self-absorbed thinking about oneself.",
+     "fix": "केवल अपने चित्त पर एकाग्र मन से"
+    }
+   ]
+  },
+  {
+   "id": "8-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-45",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "उनके द्वारा खाया जा रहा है",
+     "evidence": "Tibetan \"དེ་ནི་དེས་ཟ་ན\": the eater is the vulture etc. (bo-kunpal 8-45 \"བྱ་རྒོད་ལ་སོགས་པ་དེ་དང་དེས་ཟ་བར་བྱེད་པ\"; bo-gyaltsab 8-45). Hindi \"उनके\" most naturally refers back to \"दूसरों\" (the onlookers).",
+     "fix": "गिद्ध आदि द्वारा खाया जा रहा है"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "दूसरों के आँखों से देखने मात्र पर भी",
+     "evidence": "Tibetan \"གཞན་རྣམས་མིག་གིས་བལྟ་ན་ཡང་\" = even if others merely look with their eyes; Hindi \"दूसरों के आँखों\" is ungrammatical (feminine plural noun, wrong postposition).",
+     "fix": "दूसरों के आँख से देख भर लेने पर भी"
+    }
+   ]
+  },
+  {
+   "id": "8-46",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "तुम पुष्पों की, माला, चन्दन और आभूषणों से पूजते हो।",
+     "evidence": "Tibetan \"གཞན་གྱི་ཟས་ལ་... རྒྱན་གྱིས་མཆོད\" is a rhetorical question; bo-kunpal 8-46 \"ཅིའི་ཕྱིར་མཆོད་ཅིང་བསྙེན་བཀུར་བྱ\" and bo-gyaltsab 8-46 \"ཅིའི་ཕྱིར་བྱེད\". Hindi states it as a flat assertion, losing the reproach.",
+     "fix": "तो दूसरों के भोजन को तुम पुष्प-माला, चन्दन और आभूषणों से क्यों पूजते हो?"
+    }
+   ]
+  },
+  {
+   "id": "8-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-50",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

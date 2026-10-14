@@ -1,0 +1,129 @@
+{
+ "batch": "batch-45",
+ "segments": [
+  {
+   "id": "10-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "願孕婦皆無害生產",
+     "evidence": "Tibetan སྦྲུམ་མའང་གནོད་མེད་བཙའ་བར་ཤོག has the additive particle -འང ('pregnant women too', Sanskrit गर्भिण्यश्च; bo-shenga 10-18 'སྦྲུམ་མ་ཇི་སྙེད་པའང་'), comparing them with Māyādevī. The Chinese drops 'also' and turns it into 'all', and 無害生產 is awkward (reads as 'harmless birth-giving').",
+     "fix": "願孕婦亦能平安無損地分娩"
+    }
+   ]
+  },
+  {
+   "id": "10-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-26",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "狂亂",
+     "evidence": "Tibetan རབ་མྱོས ('utterly intoxicated'; Sanskrit pramatta/matta; bo-kunpal 10-26 'རབ་ཏུ་མྱོས་པས་བག་མེད་པར་གྱུར་ཏེ', bo-shenga 'མྱོས་ཤིང་རབ་ཏུ་མྱོས་པ'). 狂亂 means frenzied/deranged, not deeply intoxicated, and loses the intensifier relation to མྱོས.",
+     "fix": "酩酊"
+    }
+   ]
+  },
+  {
+   "id": "10-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-31",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "恆常行持一切善",
+     "evidence": "Tibetan རྟག་ཏུ་དགེ་བ་བྱེད་པར་ཤོག has no 'all' on དགེ་བ ('always perform virtue'; Sanskrit कुशलं; bo-kunpal 10-31 'དགེ་བ་ཕུན་སུམ་ཚོགས་པ་བྱེད'). 'ཐམས་ཅད' qualifies the misdeeds (སྡིག་པ་ཐམས་ཅད), not virtue.",
+     "fix": "恆常行善"
+    }
+   ]
+  },
+  {
+   "id": "10-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-36",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "batch": "batch-23",
+ "segments": [
+  {
+   "id": "7-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-12",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "It is intensely hot for one with tender flesh;",
+     "evidence": "The Tibetan 'ཆུ་ཚན་གྱིས་ནི་རེག་པ་ན། གཞོན་ཤ་ཅན་ལ་རབ་ཚ་བའི།' is addressed to the listener (Sanskrit 'sukumāra pratapyase', 'you of tender body are scorched'); bo-gyaltsab 7-12 says the body of tender flesh must experience intensely hot suffering. The English line 2 introduces an impersonal 'It' and a generic 'one', losing the addressee.",
+     "fix": "When touched by hot water, you of tender flesh are intensely scorched;"
+    }
+   ]
+  },
+  {
+   "id": "7-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-22",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "To remove the harm of a splinter destroying from within,\nIt is like the suffering of making a cut in the body.",
+     "evidence": "The Tibetan 'ཟུག་རྔུ་ཁོང་བརླག་གནོད་བསལ་ཕྱིར། ལུས་རྨ་བཏོད་པའི་སྡུག་བསྔལ་བཞིན།' makes the purpose clause qualify the cutting (Sanskrit 'naṣṭaśalyavyathāpohe tad-utpādana-duḥkhavat'); bo-shenga 7-22: 'ཟུག་རྔུ་ཁོང་བརླག་གི་གནོད་པ་བསལ་བའི་ཕྱིར། ལུས་ལ་རྨ་བཏོད་ནས...'. The English has a dangling infinitive and an unclear 'It'.",
+     "fix": "It is just like the suffering of cutting open the body in order to remove the harm of a splinter that is destroying it from within."
+    }
+   ]
+  },
+  {
+   "id": "7-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-26",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

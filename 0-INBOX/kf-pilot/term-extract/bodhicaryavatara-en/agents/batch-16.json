@@ -1,0 +1,605 @@
+{
+ "batch": "batch-16",
+ "segments": [
+  {
+   "id": "8-0",
+   "terms": [
+    {
+     "bo": "བསམ་གཏན",
+     "dm": "Meditative Concentration",
+     "gm": null
+    }
+   ]
+  },
+  {
+   "id": "8-1",
+   "terms": [
+    {
+     "bo": "བརྩོན་འགྲུས",
+     "dm": "diligence",
+     "gm": "joyous effort"
+    },
+    {
+     "bo": "ཏིང་ངེ་འཛིན",
+     "dm": "meditative concentration",
+     "gm": "meditative concentration"
+    },
+    {
+     "bo": "སེམས",
+     "dm": "mind",
+     "gm": "mind"
+    },
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "mental afflictions",
+     "gm": "afflictions"
+    }
+   ]
+  },
+  {
+   "id": "8-2",
+   "terms": [
+    {
+     "bo": "དབེན་པ",
+     "dm": "solitude",
+     "gm": "isolation"
+    },
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    },
+    {
+     "bo": "སེམས",
+     "dm": "mind",
+     "gm": "mind"
+    },
+    {
+     "bo": "གཡེང་བ",
+     "dm": "Distractions",
+     "gm": "Distraction"
+    },
+    {
+     "bo": "འཇིག་རྟེན",
+     "dm": "the world",
+     "gm": "the worldly life"
+    },
+    {
+     "bo": "རྣམ་པར་རྟོག་པ",
+     "dm": "discursive thoughts",
+     "gm": "discursive thoughts"
+    }
+   ]
+  },
+  {
+   "id": "8-3",
+   "terms": [
+    {
+     "bo": "ཆགས་པ",
+     "dm": "attachment",
+     "gm": "attachment"
+    },
+    {
+     "bo": "རྙེད",
+     "dm": "gain",
+     "gm": "gain"
+    },
+    {
+     "bo": "སྲེད་པ",
+     "dm": "craving",
+     "gm": "craving"
+    },
+    {
+     "bo": "འཇིག་རྟེན",
+     "dm": "the world",
+     "gm": "the world"
+    },
+    {
+     "bo": "མཁས་པ",
+     "dm": "the wise",
+     "gm": "The wise"
+    }
+   ]
+  },
+  {
+   "id": "8-4",
+   "terms": [
+    {
+     "bo": "ཞི་གནས",
+     "dm": "calm abiding",
+     "gm": "calm abiding"
+    },
+    {
+     "bo": "ལྷག་མཐོང",
+     "dm": "special insight",
+     "gm": "special insight"
+    },
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "mental afflictions",
+     "gm": "afflictions"
+    },
+    {
+     "bo": "ཆགས་པ་མེད",
+     "dm": "detachment",
+     "gm": "detachment"
+    },
+    {
+     "bo": "འཇིག་རྟེན",
+     "dm": "the world",
+     "gm": "the world"
+    }
+   ]
+  },
+  {
+   "id": "8-5",
+   "terms": [
+    {
+     "bo": "མི་རྟག",
+     "dm": "impermanent",
+     "gm": "impermanent"
+    },
+    {
+     "bo": "ཆགས་པ",
+     "dm": "attachment",
+     "gm": "attached"
+    },
+    {
+     "bo": "ཚེ་རབས",
+     "dm": "lifetimes",
+     "gm": "lifetimes"
+    }
+   ]
+  },
+  {
+   "id": "8-6",
+   "terms": [
+    {
+     "bo": "མཉམ་འཇོག",
+     "dm": "meditative equipoise",
+     "gm": "equipoise"
+    },
+    {
+     "bo": "སྲེད་པ",
+     "dm": "craving",
+     "gm": "craving"
+    }
+   ]
+  },
+  {
+   "id": "8-7",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "ཡང་དག་ཉིད",
+     "dm": "perfect reality",
+     "gm": "Ultimate reality"
+    },
+    {
+     "bo": "སྐྱོ་བའི་སེམས",
+     "dm": "disillusionment",
+     "gm": "disillusionment"
+    },
+    {
+     "bo": "མྱ་ངན",
+     "dm": "grief",
+     "gm": "sorrow"
+    }
+   ]
+  },
+  {
+   "id": "8-8",
+   "terms": [
+    {
+     "bo": "ཚེ་འདི",
+     "dm": "This life",
+     "gm": "This life"
+    },
+    {
+     "bo": "རྟག་པ་མེད་པ",
+     "dm": "impermanent",
+     "gm": "impermanent"
+    },
+    {
+     "bo": "མཛའ་བཤེས",
+     "dm": "friendships",
+     "gm": "friends and relatives"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    }
+   ]
+  },
+  {
+   "id": "8-9",
+   "terms": [
+    {
+     "bo": "བྱིས་པ",
+     "dm": "the childish",
+     "gm": "the childish"
+    },
+    {
+     "bo": "ངན་འགྲོ",
+     "dm": "lower realms",
+     "gm": "lower realms"
+    }
+   ]
+  },
+  {
+   "id": "8-10",
+   "terms": [
+    {
+     "bo": "སོ་སོའི་སྐྱེ་བོ",
+     "dm": "Ordinary beings",
+     "gm": "Ordinary people"
+    }
+   ]
+  },
+  {
+   "id": "8-11",
+   "terms": [
+    {
+     "bo": "ངན་འགྲོ",
+     "dm": "lower realms",
+     "gm": "lower realms"
+    }
+   ]
+  },
+  {
+   "id": "8-12",
+   "terms": [
+    {
+     "bo": "ཕྲག་དོག",
+     "dm": "jealous",
+     "gm": "Envious"
+    },
+    {
+     "bo": "ང་རྒྱལ",
+     "dm": "arrogant",
+     "gm": "Arrogant"
+    },
+    {
+     "bo": "བྱིས",
+     "dm": "fool",
+     "gm": "childish"
+    },
+    {
+     "bo": "ཁོང་ཁྲོ",
+     "dm": "angry",
+     "gm": "anger"
+    }
+   ]
+  },
+  {
+   "id": "8-13",
+   "terms": [
+    {
+     "bo": "བྱིས་པ",
+     "dm": "the childish",
+     "gm": "the childish"
+    },
+    {
+     "bo": "བདག་བསྟོད",
+     "dm": "Self-praise",
+     "gm": "Praising oneself"
+    },
+    {
+     "bo": "འཁོར་བ",
+     "dm": "cyclic existence",
+     "gm": "cyclic existence"
+    },
+    {
+     "bo": "མི་དགེ",
+     "dm": "non-virtue",
+     "gm": "Non-virtue"
+    }
+   ]
+  },
+  {
+   "id": "8-14",
+   "terms": []
+  },
+  {
+   "id": "8-15",
+   "terms": [
+    {
+     "bo": "བྱིས",
+     "dm": "the childish",
+     "gm": "the childish"
+    }
+   ]
+  },
+  {
+   "id": "8-16",
+   "terms": [
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    }
+   ]
+  },
+  {
+   "id": "8-17",
+   "terms": [
+    {
+     "bo": "རྙེད་མང་",
+     "dm": "gains",
+     "gm": "gain"
+    },
+    {
+     "bo": "བཀུར་སྟི",
+     "dm": "honors",
+     "gm": "respect"
+    },
+    {
+     "bo": "སྙེམས་པ",
+     "dm": "pride",
+     "gm": "conceit"
+    }
+   ]
+  },
+  {
+   "id": "8-18",
+   "terms": [
+    {
+     "bo": "ཆགས་གྱུར་པ",
+     "dm": "attached",
+     "gm": "attached"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "Suffering"
+    },
+    {
+     "bo": "ཡིད",
+     "dm": "mind",
+     "gm": "mind"
+    }
+   ]
+  },
+  {
+   "id": "8-19",
+   "terms": [
+    {
+     "bo": "ཆགས་པ",
+     "dm": "attachment",
+     "gm": "attachment"
+    },
+    {
+     "bo": "མཁས་པ",
+     "dm": "the wise",
+     "gm": "the wise"
+    }
+   ]
+  },
+  {
+   "id": "8-20",
+   "terms": [
+    {
+     "bo": "རྙེད་པ",
+     "dm": "gains",
+     "gm": "gains"
+    },
+    {
+     "bo": "གྲགས་པ",
+     "dm": "fame",
+     "gm": "fame"
+    },
+    {
+     "bo": "སྙན་པ",
+     "dm": "renown",
+     "gm": "good reputation"
+    }
+   ]
+  },
+  {
+   "id": "8-21",
+   "terms": []
+  },
+  {
+   "id": "8-22",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "Sentient beings"
+    },
+    {
+     "bo": "མོས་པ",
+     "dm": "inclinations",
+     "gm": "inclinations"
+    },
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victors",
+     "gm": "Victors"
+    },
+    {
+     "bo": "འཇིག་རྟེན",
+     "dm": "the world",
+     "gm": "worldly"
+    }
+   ]
+  },
+  {
+   "id": "8-23",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "Sentient beings",
+     "gm": "Sentient beings"
+    },
+    {
+     "bo": "རྙེད་པ",
+     "dm": "possessions",
+     "gm": "gains"
+    }
+   ]
+  },
+  {
+   "id": "8-24",
+   "terms": [
+    {
+     "bo": "བྱིས་པ",
+     "dm": "the childish",
+     "gm": "the childish"
+    },
+    {
+     "bo": "བཤེས",
+     "dm": "friend",
+     "gm": "friends"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgatas",
+     "gm": "Tathāgatas"
+    }
+   ]
+  },
+  {
+   "id": "8-25",
+   "terms": []
+  },
+  {
+   "id": "8-26",
+   "terms": [
+    {
+     "bo": "ཆགས་པ",
+     "dm": "attachment",
+     "gm": "attachment"
+    }
+   ]
+  },
+  {
+   "id": "8-27",
+   "terms": [
+    {
+     "bo": "ཆགས་མེད་པ",
+     "dm": "attachment",
+     "gm": "attachment"
+    }
+   ]
+  },
+  {
+   "id": "8-28",
+   "terms": [
+    {
+     "bo": "ལྷུང་བཟེད",
+     "dm": "alms bowl",
+     "gm": "begging bowl"
+    }
+   ]
+  },
+  {
+   "id": "8-29",
+   "terms": [
+    {
+     "bo": "དུར་ཁྲོད",
+     "dm": "charnel ground",
+     "gm": "charnel ground"
+    },
+    {
+     "bo": "རུས་གོང",
+     "dm": "skeletal remains",
+     "gm": "bones"
+    }
+   ]
+  },
+  {
+   "id": "8-30",
+   "terms": []
+  },
+  {
+   "id": "8-31",
+   "terms": [
+    {
+     "bo": "མཛའ་བ",
+     "dm": "loved ones",
+     "gm": "friends"
+    }
+   ]
+  },
+  {
+   "id": "8-32",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "མཛའ་བ",
+     "dm": "friends",
+     "gm": "friends"
+    }
+   ]
+  },
+  {
+   "id": "8-33",
+   "terms": [
+    {
+     "bo": "སྲིད་པའི་ལམ",
+     "dm": "path of existence",
+     "gm": "path of existence"
+    }
+   ]
+  },
+  {
+   "id": "8-34",
+   "terms": []
+  },
+  {
+   "id": "8-35",
+   "terms": [
+    {
+     "bo": "བཤེས",
+     "dm": "friends",
+     "gm": "friends"
+    },
+    {
+     "bo": "མྱ་ངན",
+     "dm": "mourning",
+     "gm": "mourning"
+    }
+   ]
+  },
+  {
+   "id": "8-36",
+   "terms": [
+    {
+     "bo": "སངས་རྒྱས་རྗེས་དྲན",
+     "dm": "recollection of the Buddha",
+     "gm": "recollection of the Buddha"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddha"
+    },
+    {
+     "bo": "མྱ་ངན",
+     "dm": "mourning",
+     "gm": "grief"
+    }
+   ]
+  },
+  {
+   "id": "8-37",
+   "terms": [
+    {
+     "bo": "གཡེང་བ",
+     "dm": "distractions",
+     "gm": "distractions"
+    }
+   ]
+  }
+ ]
+}

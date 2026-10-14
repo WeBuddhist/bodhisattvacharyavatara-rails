@@ -1,0 +1,297 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "3-0",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Chapter title phrase; component terms are already extracted."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-1",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-2",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-3",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-4",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-5",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-6",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-7",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-8",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-9",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-10",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-11",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "མྱ་ངན་འདས་པ",
+      "reason": "Buddhist technical term",
+      "dm": "transcendence",
+      "gm": "nirvana"
+     }
+    ]
+   },
+   {
+    "id": "3-12",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-13",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-14",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-15",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-16",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-17",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-18",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-19",
+    "drop": [
+     {
+      "n": 5,
+      "reason": "Split by particles, cannot form a contiguous clean term."
+     }
+    ],
+    "fix_span": [
+     {
+      "n": 3,
+      "bo_fixed": "རིག་སྔགས"
+     },
+     {
+      "n": 6,
+      "bo_fixed": "འདོད་འཇོ"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "3-20",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-21",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-22",
+    "drop": [
+     {
+      "n": 3,
+      "reason": "Contains genitive particle, components are listed separately."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-23",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-24",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-25",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-26",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-27",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-28",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-29",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-30",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-31",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-32",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-33",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "3-a",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "Chapter title phrase; component terms are already extracted."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "3-0",
+    "bo": "བྱང་ཆུབ་ཀྱི་སེམས་ཡོངས་སུ་བཟུང་བ",
+    "reason": "Chapter title phrase; component terms are already extracted."
+   },
+   {
+    "id": "3-19",
+    "bo": "དཔག་བསམ་གྱི་ནི་ཤིང",
+    "reason": "Split by particles, cannot form a contiguous clean term."
+   },
+   {
+    "id": "3-22",
+    "bo": "བྱང་ཆུབ་སེམས་དཔའི་བསླབ་པ",
+    "reason": "Contains genitive particle, components are listed separately."
+   },
+   {
+    "id": "3-a",
+    "bo": "བྱང་ཆུབ་ཀྱི་སེམས་ཡོངས་སུ་བཟུང་བ",
+    "reason": "Chapter title phrase; component terms are already extracted."
+   }
+  ],
+  "fix_span": [
+   {
+    "id": "3-19",
+    "bo": "རིག་སྔགས་གྲུབ",
+    "bo_fixed": "རིག་སྔགས"
+   },
+   {
+    "id": "3-19",
+    "bo": "འདོད་འཇོར",
+    "bo_fixed": "འདོད་འཇོ"
+   }
+  ],
+  "add": [
+   {
+    "id": "3-11",
+    "bo": "མྱ་ངན་འདས་པ",
+    "dm": "transcendence",
+    "gm": "nirvana",
+    "reason": "Buddhist technical term"
+   }
+  ]
+ }
+}

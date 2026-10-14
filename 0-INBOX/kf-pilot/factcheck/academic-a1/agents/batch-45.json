@@ -1,0 +1,121 @@
+{
+ "batch": "batch-45",
+ "segments": [
+  {
+   "id": "10-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-20",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "those afflicted by sorrow",
+     "evidence": "Tibetan མྱ་ངན་ཉམ་ཐག་ has two terms, sorrow and ཉམ་ཐག་ (distressed, wretched); bo-kunpal 10-20 glosses མྱ་ངན་གྱིས་གདུངས་ཤིང་ཉམ་ཐག་པ་རྣམས་, bo-shenga མྱ་ངན་གྱིས་ཉམ་ཐག་པ་; the English renders only 'sorrow'.",
+     "fix": "those who are wretched with sorrow"
+    }
+   ]
+  },
+  {
+   "id": "10-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-26",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "intoxicated, or insane",
+     "evidence": "Tibetan མྱོས་ཤིང་རབ་མྱོས་རྣམས་ is 'intoxicated and utterly intoxicated'; bo-kunpal 10-26 རབ་ཏུ་མྱོས་པས་བག་མེད་པར་གྱུར་ཏེ (very drunk, hence heedless), bo-shenga མྱོས་ཤིང་རབ་ཏུ་མྱོས་པ; Sanskrit pramatta (heedless). Nothing says insane.",
+     "fix": "intoxicated, or utterly intoxicated"
+    }
+   ]
+  },
+  {
+   "id": "10-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-36",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

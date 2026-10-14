@@ -1,0 +1,137 @@
+{
+ "batch": "batch-30",
+ "segments": [
+  {
+   "id": "8-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-73",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "受遠行之煩惱",
+     "evidence": "ཉོན་མོངས here (བྱེས་བགྲོད་ཉོན་མོངས) means the hardship/trouble of travelling abroad, not the mental affliction (kleśa): Sanskrit has pravāsakleśa and bo-kunpal 8-73 glosses it with \"དཀའ་ཚེགས་ཀྱིས་ངལ་ཞིང་ཉོན་མོངས་པ\" (wearied by hardship). 煩惱 reads as the doctrinal term for the mental afflictions.",
+     "fix": "受遠行旅途之勞頓"
+    }
+   ]
+  },
+  {
+   "id": "8-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-79",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "獲益微小",
+     "evidence": "མནོག་ཆུང་ means little gratification/enjoyment (Sanskrit alpāsvāda, \"slight taste\"); bo-gyaltsab 8-80 glosses it \"བདེ་བའི་མནོག་ཆུང\" (slight happiness), not slight profit or gain. 獲益 suggests benefit/profit.",
+     "fix": "所得的樂味微薄"
+    }
+   ]
+  },
+  {
+   "id": "8-80",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "那微小的獲益",
+     "evidence": "མནོག་ཆུང་ is the slight enjoyment/gratification (Sanskrit āsvādalava), glossed in bo-gyaltsab 8-80 as \"ཚེ་འདིའི་བདེ་བ་ཤིན་ཏུ་མནོག་ཆུང\" (the very slight happiness of this life); 獲益 means gain/profit.",
+     "fix": "那微小的受用之樂"
+    }
+   ]
+  },
+  {
+   "id": "8-81",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-82",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "苦難更大",
+     "evidence": "Locked rendering of སྡུག་བསྔལ is 苦; the segment has \"སྡུག་བསྔལ་ཆེ་ལ\" but the translation uses 苦難 instead.",
+     "fix": "苦更大"
+    }
+   ]
+  },
+  {
+   "id": "8-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-84",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-90",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,539 @@
+{
+ "batch": "batch-09",
+ "segments": [
+  {
+   "id": "5-74",
+   "terms": [
+    {
+     "bo": "སློབ་མ",
+     "dm": "student",
+     "gm": "disciple"
+    }
+   ]
+  },
+  {
+   "id": "5-75",
+   "terms": [
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "meritorious",
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "5-76",
+   "terms": [
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "virtues",
+     "gm": "good qualities"
+    }
+   ]
+  },
+  {
+   "id": "5-77",
+   "terms": [
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "virtues",
+     "gm": "good qualities"
+    }
+   ]
+  },
+  {
+   "id": "5-78",
+   "terms": [
+    {
+     "bo": "བདེ་བ",
+     "dm": "happiness",
+     "gm": "happiness"
+    },
+    {
+     "bo": "ཉེས་པ",
+     "dm": "wrongdoing",
+     "gm": "faults"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "5-79",
+   "terms": [
+    {
+     "bo": "ཆགས",
+     "dm": "attachment",
+     "gm": "attachment"
+    },
+    {
+     "bo": "ཞེ་སྡང",
+     "dm": "aversion",
+     "gm": "hatred"
+    }
+   ]
+  },
+  {
+   "id": "5-80",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhahood",
+     "gm": "Buddha"
+    }
+   ]
+  },
+  {
+   "id": "5-81",
+   "terms": [
+    {
+     "bo": "གཉེན་པོ",
+     "dm": "antidote",
+     "gm": "antidote"
+    },
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "qualities",
+     "gm": "qualities"
+    },
+    {
+     "bo": "དགེ",
+     "dm": "virtue",
+     "gm": "virtue"
+    }
+   ]
+  },
+  {
+   "id": "5-82",
+   "terms": []
+  },
+  {
+   "id": "5-83",
+   "terms": [
+    {
+     "bo": "སྦྱིན་པའི་ཕ་རོལ་ཕྱིན",
+     "dm": "perfections",
+     "gm": "perfection of generosity"
+    },
+    {
+     "bo": "སྦྱིན་པ",
+     "dm": "generosity",
+     "gm": "generosity"
+    },
+    {
+     "bo": "གཞན་གྱི་དོན",
+     "dm": "others",
+     "gm": "benefit of others"
+    }
+   ]
+  },
+  {
+   "id": "5-84",
+   "terms": [
+    {
+     "bo": "གཞན་དོན",
+     "dm": "welfare of others",
+     "gm": "benefit of others"
+    },
+    {
+     "bo": "ཐུགས་རྗེ་མངའ་བ",
+     "dm": "Compassionate One",
+     "gm": "Compassionate One"
+    }
+   ]
+  },
+  {
+   "id": "5-85",
+   "terms": [
+    {
+     "bo": "བརྟུལ་ཞུགས",
+     "dm": "ascetic vows",
+     "gm": "ascetic practice"
+    },
+    {
+     "bo": "ཆོས་གོས་གསུམ",
+     "dm": "three religious robes",
+     "gm": "three Dharma robes"
+    }
+   ]
+  },
+  {
+   "id": "5-86",
+   "terms": [
+    {
+     "bo": "དམ་པའི་ཆོས",
+     "dm": "sublime Dharma",
+     "gm": "sublime Dharma"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    }
+   ]
+  },
+  {
+   "id": "5-87",
+   "terms": [
+    {
+     "bo": "སྙིང་རྗེ",
+     "dm": "compassionate",
+     "gm": "compassion"
+    },
+    {
+     "bo": "དོན་ཆེན",
+     "dm": "great purpose",
+     "gm": "great purpose"
+    }
+   ]
+  },
+  {
+   "id": "5-88",
+   "terms": [
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    }
+   ]
+  },
+  {
+   "id": "5-89",
+   "terms": [
+    {
+     "bo": "ཟབ་དང་རྒྱ་ཆེ",
+     "dm": "profound and vast",
+     "gm": "profound and vast"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "teachings",
+     "gm": "Dharmas"
+    }
+   ]
+  },
+  {
+   "id": "5-90",
+   "terms": [
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    },
+    {
+     "bo": "མདོ",
+     "dm": "Sutra",
+     "gm": "sutras"
+    },
+    {
+     "bo": "སྔགས",
+     "dm": "Mantra",
+     "gm": "mantras"
+    }
+   ]
+  },
+  {
+   "id": "5-91",
+   "terms": []
+  },
+  {
+   "id": "5-92",
+   "terms": []
+  },
+  {
+   "id": "5-93",
+   "terms": [
+    {
+     "bo": "འཇིག་རྟེན",
+     "dm": "world",
+     "gm": "world"
+    }
+   ]
+  },
+  {
+   "id": "5-94",
+   "terms": []
+  },
+  {
+   "id": "5-95",
+   "terms": []
+  },
+  {
+   "id": "5-96",
+   "terms": [
+    {
+     "bo": "མགོན་པོ",
+     "dm": "Protector",
+     "gm": "Lord"
+    },
+    {
+     "bo": "མྱ་ངན་འདས",
+     "dm": "nirvana",
+     "gm": "nirvana"
+    },
+    {
+     "bo": "ཤེས་བཞིན",
+     "dm": "alertness",
+     "gm": "clear comprehension"
+    }
+   ]
+  },
+  {
+   "id": "5-97",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ",
+     "dm": "conduct of Bodhisattvas",
+     "gm": "practices of the Bodhisattvas"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattvas",
+     "gm": "Bodhisattvas"
+    }
+   ]
+  },
+  {
+   "id": "5-98",
+   "terms": [
+    {
+     "bo": "ཕུང་པོ་གསུམ་པ",
+     "dm": "Three Heaps Sūtra",
+     "gm": "Triskandha"
+    },
+    {
+     "bo": "རྒྱལ",
+     "dm": "Victors",
+     "gm": "Conquerors"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས",
+     "dm": "spirit of awakening",
+     "gm": "awakening mind"
+    },
+    {
+     "bo": "ལྟུང་བ",
+     "dm": "downfalls",
+     "gm": "downfalls"
+    }
+   ]
+  },
+  {
+   "id": "5-99",
+   "terms": [
+    {
+     "bo": "བསླབ་པ",
+     "dm": "training",
+     "gm": "training"
+    }
+   ]
+  },
+  {
+   "id": "5-100",
+   "terms": [
+    {
+     "bo": "རྒྱལ་སྲས",
+     "dm": "Sons of the Victors",
+     "gm": "Sons of the Conqueror"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "5-101",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "བྱང་ཆུབ",
+     "dm": "enlightenment",
+     "gm": "awakening"
+    },
+    {
+     "bo": "བསྔོ",
+     "dm": "Dedicate",
+     "gm": "dedicate"
+    }
+   ]
+  },
+  {
+   "id": "5-102",
+   "terms": [
+    {
+     "bo": "དགེ་བའི་བཤེས་གཉེན",
+     "dm": "spiritual friend",
+     "gm": "virtuous spiritual friend"
+    },
+    {
+     "bo": "ཐེག་ཆེན",
+     "dm": "Mahāyāna",
+     "gm": "Mahāyāna"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattva",
+     "gm": "bodhisattvas"
+    },
+    {
+     "bo": "བརྟུལ་ཞུགས",
+     "dm": "conduct",
+     "gm": "discipline"
+    }
+   ]
+  },
+  {
+   "id": "5-103",
+   "terms": [
+    {
+     "bo": "དཔལ་འབྱུང་བ",
+     "dm": "Śrīsambhava",
+     "gm": "Śrīsaṃbhava"
+    },
+    {
+     "bo": "རྣམ་ཐར",
+     "dm": "life story",
+     "gm": "liberation story"
+    },
+    {
+     "bo": "བླ་མ",
+     "dm": "guru",
+     "gm": "guru"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddha"
+    },
+    {
+     "bo": "མདོ་སྡེ",
+     "dm": "sūtras",
+     "gm": "sūtras"
+    }
+   ]
+  },
+  {
+   "id": "5-104",
+   "terms": [
+    {
+     "bo": "མདོ་སྡེ",
+     "dm": "sūtras",
+     "gm": "sūtras"
+    },
+    {
+     "bo": "བསླབ་པ",
+     "dm": "trainings",
+     "gm": "trainings"
+    },
+    {
+     "bo": "ནམ་མཁའི་སྙིང་པོའི་མདོ་སྡེ",
+     "dm": "Ākāśagarbha Sūtra",
+     "gm": "Ākāśagarbha Sūtra"
+    },
+    {
+     "bo": "ནམ་མཁའི་སྙིང་པོ",
+     "dm": "Ākāśagarbha",
+     "gm": "Ākāśagarbha"
+    }
+   ]
+  },
+  {
+   "id": "5-105",
+   "terms": [
+    {
+     "bo": "བསླབ་པ་ཀུན་ལས་བཏུས་པ",
+     "dm": "Śikṣāsamuccaya",
+     "gm": "Śikṣāsamuccaya"
+    }
+   ]
+  },
+  {
+   "id": "5-106",
+   "terms": [
+    {
+     "bo": "མདོ་རྣམས་ཀུན་ལས་བཏུས་པ",
+     "dm": "Compendium of Sūtras",
+     "gm": "Sūtrasamuccaya"
+    },
+    {
+     "bo": "འཕགས་པ་ཀླུ་སྒྲུབ",
+     "dm": "noble Nāgārjuna",
+     "gm": "Noble Nāgārjuna"
+    },
+    {
+     "bo": "ཀླུ་སྒྲུབ",
+     "dm": "Nāgārjuna",
+     "gm": "Nāgārjuna"
+    }
+   ]
+  },
+  {
+   "id": "5-107",
+   "terms": [
+    {
+     "bo": "བསླབ་པ",
+     "dm": "trainings",
+     "gm": "trainings"
+    },
+    {
+     "bo": "འཇིག་རྟེན",
+     "dm": "worldly beings",
+     "gm": "worldly beings"
+    }
+   ]
+  },
+  {
+   "id": "5-108",
+   "terms": [
+    {
+     "bo": "ཤེས་བཞིན་བསྲུང་བ",
+     "dm": "guarding introspection",
+     "gm": "guarding introspection"
+    },
+    {
+     "bo": "ཤེས་བཞིན",
+     "dm": "introspection",
+     "gm": "introspection"
+    }
+   ]
+  },
+  {
+   "id": "5-109",
+   "terms": []
+  },
+  {
+   "id": "5-a",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ",
+     "dm": "Entering the Way of the Bodhisattva",
+     "gm": "Entering the Way of the Bodhisattva"
+    },
+    {
+     "bo": "ཤེས་བཞིན་བསྲུང་བ",
+     "dm": "Guarding Introspection",
+     "gm": "Guarding Introspection"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattva",
+     "gm": "Bodhisattva"
+    }
+   ]
+  }
+ ]
+}

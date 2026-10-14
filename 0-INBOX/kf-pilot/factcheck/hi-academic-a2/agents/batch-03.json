@@ -1,0 +1,169 @@
+{
+ "batch": "batch-03",
+ "segments": [
+  {
+   "id": "5-84",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-87",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "महान अर्थ सिद्ध करने के हेतु रूप में इसे त्यागें",
+     "evidence": "Tibetan \"ཅི་ནས་འདི་དང་གཞན་དུ་ཡང་། དོན་ཆེན་སྒྲུབ་པའི་རྒྱུར་གཏང་ངོ་\" states a condition: give the body only when (in whatever way) it becomes a cause of great purpose in this and other lives (bo-gyaltsab 5-87: \"དོན་ཆེན་པོ་སྒྲུབ་པའི་རྒྱུར་འགྱུར་བའི་ཚེ་བཏང་ངོ་\"). The bare imperative \"इसे त्यागें\" with \"हेतु रूप में\" can be read as an unconditional instruction to give it.",
+     "fix": "किन्तु जब यह इस लोक और अन्य लोकों में भी महान अर्थ की सिद्धि का हेतु बने, तभी इसे त्यागें।"
+    }
+   ]
+  },
+  {
+   "id": "5-97",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "उनमें से चित्त-शोधन की चर्या का\nजब तक समस्त का आचरण सम्भव न हो, तब तक निश्चित रूप से आचरण करना चाहिए।",
+     "evidence": "The Tibetan \"སེམས་སྦྱང་བ་ཡི་སྤྱོད་པ་ནི། ངེས་པར་དེ་སྲིད་སྤྱད་པར་བྱ\" (bo-gyaltsab 5-97: practise until one can practise all) is clear, but the Hindi stacks \"का ... समस्त का आचरण ... आचरण\" so the object and the \"until\" clause are hard to parse.",
+     "fix": "उनमें से चित्त-शोधन की चर्या का तब तक अवश्य आचरण करना चाहिए, जब तक समस्त चर्याओं का आचरण सम्भव न हो।"
+    }
+   ]
+  },
+  {
+   "id": "5-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-109",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "सिद्धि का योग्य कारण होने से,\nसद्धर्म की भी पूजा क्यों करते हो?",
+     "evidence": "Tibetan \"གྲུབ་པ་ཡི་ནི་རྒྱུར་རུང་བ། དམ་པའི་ཆོས་ཀྱང་ཅི་སྟེ་མཆོད\" has \"fit to be a cause of accomplishment\" as an attributive modifier of the sublime Dharma, with ཀྱང \"even\" (Sanskrit \"सिद्धिहेतुरचित्तोऽपि सद्धर्मः\"). The argument (bo-shenga 6-109, bo-gyaltsab 6-109) is: the Dharma too lacks the intention, so why is it venerated? The Hindi \"होने से\" turns it into a causal clause (because it is a cause, why venerate?), which inverts the logic and loses that the Dharma is likewise without intention.",
+     "fix": "तो सिद्धि का कारण बनने योग्य सद्धर्म की भी (उसमें वैसा आशय न होने पर भी) पूजा क्यों की जाती है?"
+    }
+   ]
+  },
+  {
+   "id": "6-114",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "फल से है, उसी से समान हैं।",
+     "evidence": "Tibetan \"འབྲས་བུ་ལས་ཡིན་དེས་མཚུངས་པར། སེམས་ཅན་རྣམས་ལའང་ཡོན་ཏན་ཡོད\" : \"དེས་མཚུངས་པར\" (\"just like that [Buddha]\") belongs with the next line (bo-shenga 6-114, bo-gyaltsab 6-114: sentient beings, like the Buddha, benefit/produce the result). The Hindi never names the two parties and attaches \"समान\" to line 2, so \"वे\" in the last line has no clear referent and the comparison with the Buddhas is lost.",
+     "fix": "आशय का गुण स्वयं से नहीं, फल से है; उसी (बुद्ध) के समान सत्त्वों में भी गुण हैं, इसलिए वे (बुद्ध और सत्त्व) समान हैं।"
+    }
+   ]
+  },
+  {
+   "id": "6-121",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-134",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "नीरोगता और कीर्ति से,\nअत्यन्त दीर्घ आयु",
+     "evidence": "Tibetan \"ནད་མེད་པ་དང་གྲགས་པ་ཡིས། ཤིན་ཏུ་ཡུན་རིང་འཚོ་བ\" (bo-gyaltsab 6-134: lives very long together with freedom from illness and renown; bo-shenga: \"ལྡན་པ་ལས\") is a list of attainments; the Hindi \"से\" after \"नीरोगता और कीर्ति\" makes the syntax confusing, as if health/fame were means to long life or to each other.",
+     "fix": "नीरोगता और कीर्ति के साथ अत्यन्त दीर्घ आयु"
+    }
+   ]
+  },
+  {
+   "id": "6-17",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "मूर्छित और अचेत हो जाते हैं",
+     "evidence": "Tibetan \"བོག་ཅིང་བརྒྱལ་བར་འགྱུར\" has two stages: \"བོག\" (dazed/stunned) and \"བརྒྱལ\" (faint). \"मूर्छित\" and \"अचेत\" both mean faint/unconscious, so the \"dazed\" element is lost (english_academic: \"dazed and faint\").",
+     "fix": "स्तब्ध होकर मूर्छित हो जाते हैं"
+    }
+   ]
+  },
+  {
+   "id": "6-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-31",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "निर्मित आकृतियों के समान",
+     "evidence": "Tibetan \"སྤྲུལ་ལྟ་བུའི་དངོས་པོ་ཀུན\" (bo-gyaltsab 6-31 \"སྤྲུལ་པ་ལྟ་བུའི་དངོས་པོ\"; bo-kunpal: སྒྱུ་མ་རྨི་ལམ་སྤྲུལ་པ་ལྟ་བུ; Skt निर्माणवत्) means things like magical emanations/creations; \"आकृतियों\" (shapes/figures) is an added gloss that narrows the sense.",
+     "fix": "निर्मिति (माया-निर्माण) के समान"
+    }
+   ]
+  },
+  {
+   "id": "6-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-66",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "चित्त में क्रोध क्यों",
+     "evidence": "Tibetan \"སེམས་ཡོད་ཅི་སྟེ་བཀར་ཏེ་བཀོན\" says why single out the sentient one to resent/hold anger at; there is no \"སེམས\" (citta) in the predicate. \"चित्त में\" adds a locus not in the Tibetan (bo-gyaltsab 6-66: \"ཞེ་བཀོན་ཞིང་ཞེ་འཁང་བར་བྱེད་པ\").",
+     "fix": "तो सचेतन प्राणी को ही अलग करके रोष क्यों?"
+    }
+   ]
+  },
+  {
+   "id": "6-74",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

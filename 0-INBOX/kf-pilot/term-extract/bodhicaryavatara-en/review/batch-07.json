@@ -1,0 +1,583 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "5-0",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-1",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-2",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "independent part of a fixed compound",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "5-3",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "independent part of a fixed compound",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "5-4",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 1,
+      "bo_fixed": "སེམས་ཅན་དམྱལ་བའི་སྲུང་མ"
+     }
+    ],
+    "add": [
+     {
+      "bo": "སེམས་ཅན་དམྱལ་བ",
+      "reason": "Buddhist term for the hells",
+      "dm": "hell realms",
+      "gm": "hells for sentient beings"
+     }
+    ]
+   },
+   {
+    "id": "5-5",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-6",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-7",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 1,
+      "bo_fixed": "སེམས་ཅན་དམྱལ་བ"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "5-8",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-9",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འགྲོ་བ",
+      "reason": "Buddhist term for transmigrating beings",
+      "dm": "world's",
+      "gm": "wandering beings"
+     },
+     {
+      "bo": "སྦྱིན་པ",
+      "reason": "independent part of a fixed compound",
+      "dm": "generosity",
+      "gm": "generosity"
+     }
+    ]
+   },
+   {
+    "id": "5-10",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བཏང་སེམས",
+      "reason": "doctrinal concept (mind of relinquishing)",
+      "dm": "mind Of relinquishing",
+      "gm": "mind giving"
+     },
+     {
+      "bo": "སྦྱིན་པ",
+      "reason": "independent part of a fixed compound",
+      "dm": "generosity",
+      "gm": "generosity"
+     }
+    ]
+   },
+   {
+    "id": "5-11",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "independent part of a fixed compound",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "5-12",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "independent part of a fixed compound",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "5-13",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-14",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "དངོས་པོ",
+      "reason": "independent part of a fixed compound",
+      "dm": "phenomena",
+      "gm": "phenomena"
+     }
+    ]
+   },
+   {
+    "id": "5-15",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "independent part of a fixed compound",
+      "dm": "mind",
+      "gm": "mind"
+     },
+     {
+      "bo": "འབྲས་བུ",
+      "reason": "doctrinal concept (result/fruit)",
+      "dm": "result",
+      "gm": "result"
+     }
+    ]
+   },
+   {
+    "id": "5-16",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "doctrinal concept",
+      "dm": "mind",
+      "gm": "mind"
+     },
+     {
+      "bo": "དེ་ཉིད",
+      "reason": "independent part of a fixed compound",
+      "dm": "Reality",
+      "gm": "Reality"
+     }
+    ]
+   },
+   {
+    "id": "5-17",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "independent part of a fixed compound",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "5-18",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-19",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "independent part of a fixed compound",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "5-20",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "independent part of a fixed compound",
+      "dm": "mind",
+      "gm": "mind"
+     },
+     {
+      "bo": "སྡུག་བསྔལ",
+      "reason": "doctrinal concept",
+      "dm": "pain",
+      "gm": "suffering"
+     }
+    ]
+   },
+   {
+    "id": "5-21",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སྡོམ་བརྩོན",
+      "reason": "epithet/technical descriptor of a practitioner",
+      "dm": "practitioner of discipline",
+      "gm": "observer of vows"
+     }
+    ]
+   },
+   {
+    "id": "5-22",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-23",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-24",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-25",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "conjugated list of verbs, not standard term format"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-26",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-27",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-28",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-29",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཡིད",
+      "reason": "independent part of a fixed compound",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "5-30",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-31",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-32",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "5-33",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཡིད",
+      "reason": "independent part of a fixed compound",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "5-34",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "doctrinal concept",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "5-35",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས",
+      "reason": "doctrinal concept",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "5-36",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "5-25",
+    "bo": "ཐོས་དང་བསམས་དང་བསྒོམས",
+    "reason": "conjugated list of verbs, not standard term format"
+   }
+  ],
+  "fix_span": [
+   {
+    "id": "5-4",
+    "bo": "དམྱལ་བའི་སྲུང་མ",
+    "bo_fixed": "སེམས་ཅན་དམྱལ་བའི་སྲུང་མ"
+   },
+   {
+    "id": "5-7",
+    "bo": "དམྱལ་བ",
+    "bo_fixed": "སེམས་ཅན་དམྱལ་བ"
+   }
+  ],
+  "add": [
+   {
+    "id": "5-2",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "independent part of a fixed compound"
+   },
+   {
+    "id": "5-3",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "independent part of a fixed compound"
+   },
+   {
+    "id": "5-4",
+    "bo": "སེམས་ཅན་དམྱལ་བ",
+    "dm": "hell realms",
+    "gm": "hells for sentient beings",
+    "reason": "Buddhist term for the hells"
+   },
+   {
+    "id": "5-9",
+    "bo": "འགྲོ་བ",
+    "dm": "world's",
+    "gm": "wandering beings",
+    "reason": "Buddhist term for transmigrating beings"
+   },
+   {
+    "id": "5-9",
+    "bo": "སྦྱིན་པ",
+    "dm": "generosity",
+    "gm": "generosity",
+    "reason": "independent part of a fixed compound"
+   },
+   {
+    "id": "5-10",
+    "bo": "བཏང་སེམས",
+    "dm": "mind Of relinquishing",
+    "gm": "mind giving",
+    "reason": "doctrinal concept (mind of relinquishing)"
+   },
+   {
+    "id": "5-10",
+    "bo": "སྦྱིན་པ",
+    "dm": "generosity",
+    "gm": "generosity",
+    "reason": "independent part of a fixed compound"
+   },
+   {
+    "id": "5-11",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "independent part of a fixed compound"
+   },
+   {
+    "id": "5-12",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "independent part of a fixed compound"
+   },
+   {
+    "id": "5-14",
+    "bo": "དངོས་པོ",
+    "dm": "phenomena",
+    "gm": "phenomena",
+    "reason": "independent part of a fixed compound"
+   },
+   {
+    "id": "5-15",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "independent part of a fixed compound"
+   },
+   {
+    "id": "5-15",
+    "bo": "འབྲས་བུ",
+    "dm": "result",
+    "gm": "result",
+    "reason": "doctrinal concept (result/fruit)"
+   },
+   {
+    "id": "5-16",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "doctrinal concept"
+   },
+   {
+    "id": "5-16",
+    "bo": "དེ་ཉིད",
+    "dm": "Reality",
+    "gm": "Reality",
+    "reason": "independent part of a fixed compound"
+   },
+   {
+    "id": "5-17",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "independent part of a fixed compound"
+   },
+   {
+    "id": "5-19",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "independent part of a fixed compound"
+   },
+   {
+    "id": "5-20",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "independent part of a fixed compound"
+   },
+   {
+    "id": "5-20",
+    "bo": "སྡུག་བསྔལ",
+    "dm": "pain",
+    "gm": "suffering",
+    "reason": "doctrinal concept"
+   },
+   {
+    "id": "5-21",
+    "bo": "སྡོམ་བརྩོན",
+    "dm": "practitioner of discipline",
+    "gm": "observer of vows",
+    "reason": "epithet/technical descriptor of a practitioner"
+   },
+   {
+    "id": "5-29",
+    "bo": "ཡིད",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "independent part of a fixed compound"
+   },
+   {
+    "id": "5-33",
+    "bo": "ཡིད",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "independent part of a fixed compound"
+   },
+   {
+    "id": "5-34",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "doctrinal concept"
+   },
+   {
+    "id": "5-35",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "doctrinal concept"
+   }
+  ]
+ }
+}

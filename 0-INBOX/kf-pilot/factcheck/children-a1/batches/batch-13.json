@@ -1,0 +1,695 @@
+[
+ {
+  "id": "7-47",
+  "tibetan": "དང་པོར་འབྱོར་པ་བརྟགས་ནས་ནི། ། བརྩམ་མམ་ཡང་ན་མི་བརྩམ་བྱ། ། མ་བརྩམས་པ་ནི་མཆོག་ཡིན་གྱི། ། བརྩམས་ནས་ལྡོག་པར་མི་བྱའོ། །",
+  "academic_translation": "First, having examined one's resources,\nOne should either begin or not begin.\nIt is best not to begin at all,\nBut having begun, one should not turn back.",
+  "locked_terms": [
+   {
+    "tibetan": "འབྱོར་པ",
+    "use": "resources"
+   }
+  ],
+  "translation": "First, I should check my resources. Then I must decide to start or not to start. It is best not to begin at all. But once I begin, I should not turn back."
+ },
+ {
+  "id": "7-48",
+  "tibetan": "སྐྱེ་བ་གཞན་དུ་དེ་གོམས་ཤིང་། ། སྡིག་དང་སྡུག་བསྔལ་འཕེལ་བར་འགྱུར། ། གཞན་དང་འབྲས་བུའི་དུས་ཀྱང་ནི། ། དམན་འགྱུར་དེ་ཡང་འགྲུབ་མི་འགྱུར། །",
+  "academic_translation": "Habituated to that in another life,\nMisdeeds and suffering will increase.\nAnother deed, and the time of the result,\nWill become inferior, and that other deed too will not be accomplished.",
+  "locked_terms": [
+   {
+    "tibetan": "སྐྱེ་བ་གཞན",
+    "use": "another life"
+   },
+   {
+    "tibetan": "སྡིག",
+    "use": "harmful deed"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "If I get used to turning back, it will happen in another life too. My harmful deeds and suffering will increase. Any new action and its results will become weak. Then that action will not get finished either."
+ },
+ {
+  "id": "7-49",
+  "tibetan": "ལས་དང་ཉོན་མོངས་ནུས་པ་སྟེ། ། གསུམ་པོ་དག་ལ་ང་རྒྱལ་བྱ། ། བདག་ཉིད་གཅིག་པུས་བྱའོ་ཞེས། ། འདི་ནི་ལས་ཀྱི་ང་རྒྱལ་ཉིད། །",
+  "academic_translation": "Karma, afflictions, and capacity:\nOne should cultivate pride in these three.\nThinking, \"I shall do it alone,\"\nThis is pride in action.",
+  "locked_terms": [
+   {
+    "tibetan": "ལས",
+    "use": "action"
+   },
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   },
+   {
+    "tibetan": "ང་རྒྱལ",
+    "use": "pride"
+   },
+   {
+    "tibetan": "ལས་ཀྱི་ང་རྒྱལ",
+    "use": "pride in action"
+   }
+  ],
+  "translation": "I should build my pride in three things: my action, my troubling emotions, and my ability. Thinking, \"I will do this alone,\" is called pride in action."
+ },
+ {
+  "id": "7-50",
+  "tibetan": "ཉོན་མོངས་དབང་མེད་འཇིག་རྟེན་འདིས། ། རང་དོན་སྒྲུབ་པར་མི་ནུས་པས། ། འགྲོ་བས་བདག་ལྟར་མི་ནུས་ཏེ། ། དེ་བས་བདག་གིས་འདི་བྱའོ། །",
+  "academic_translation": "Since this world, powerless through afflictions,\nIs unable to accomplish its own welfare,\nWandering beings are not capable like me;\nTherefore I shall do this.",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན",
+    "use": "world"
+   },
+   {
+    "tibetan": "རང་དོན",
+    "use": "own good"
+   },
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   }
+  ],
+  "translation": "This world has no power because of troubling emotions. It cannot achieve its own good. Other beings are not able to help themselves like I can. So, I will do this work."
+ },
+ {
+  "id": "7-51",
+  "tibetan": "གཞན་དག་དམན་པའི་ལས་བྱེད་ན། ། བདག་ཉིད་ཀྱང་ནི་ཇི་ལྟར་འདུག ། ང་རྒྱལ་གྱིས་ནི་མི་བྱེད་དེ། ། བདག་ལ་ང་རྒྱལ་མེད་པ་མཆོག །",
+  "academic_translation": "If others perform inferior actions,\nHow can I myself remain idle?\nI do not do this out of pride;\nFor me, to be without pride is supreme.",
+  "locked_terms": [
+   {
+    "tibetan": "ང་རྒྱལ",
+    "use": "pride"
+   }
+  ],
+  "translation": "If others are doing lesser things, how can I just sit and do nothing? I do not act out of pride. For me, it is best to be without pride."
+ },
+ {
+  "id": "7-52",
+  "tibetan": "ཤི་བའི་སྦྲུལ་དང་ཕྲད་གྱུར་ན། ། ཁྭ་ཡང་མཁའ་ལྡིང་ལྟ་བུར་སྤྱོད། ། གལ་ཏེ་བདག་ཉིད་ཉམ་ཆུང་ན། ། ལྟུང་བ་ཆུང་ངུའང་གནོད་པར་བྱེད། །",
+  "academic_translation": "When encountering a dead snake,\nEven a crow acts like a garuḍa.\nIf I myself am weak,\nEven a minor downfall will cause harm.",
+  "locked_terms": [
+   {
+    "tibetan": "མཁའ་ལྡིང",
+    "use": "giant sky bird"
+   },
+   {
+    "tibetan": "ལྟུང་བ",
+    "use": "fall"
+   }
+  ],
+  "translation": "When a crow finds a dead snake, it acts like a giant sky bird. If I am weak, even a small fall will hurt me."
+ },
+ {
+  "id": "7-53",
+  "tibetan": "ཞུམ་བཅས་རྩོལ་བ་དོར་བ་ལ། ། ཕོངས་ལས་ཐར་བ་ཡོད་དམ་ཅི། ། ང་རྒྱལ་རྩོལ་བ་བསྐྱེད་པས་ནི། ། ཆེན་པོ་ཡིས་ཀྱང་ཐུབ་པར་དཀའ། །",
+  "academic_translation": "For one who is despondent and abandons effort,\nIs there liberation from destitution?\nBy generating pride and effort,\nOne is hard to overcome even by great downfalls.",
+  "locked_terms": [
+   {
+    "tibetan": "ང་རྒྱལ",
+    "use": "pride"
+   },
+   {
+    "tibetan": "རྩོལ་བ",
+    "use": "effort"
+   }
+  ],
+  "translation": "If someone feels sad and gives up their effort, can they ever escape their hardships? By building up pride and effort, you become hard to defeat even by great downfalls."
+ },
+ {
+  "id": "7-54",
+  "tibetan": "དེ་བས་སེམས་ནི་བརྟན་པ་ཡིས། ། ལྟུང་བ་རྣམས་ནི་གཞོམ་བྱ་སྟེ། ། བདག་ནི་ལྟུང་བས་ཕམ་བྱས་ན། ། ཁམས་གསུམ་རྒྱལ་འདོད་བཞད་གད་འགྱུར། །",
+  "academic_translation": "Therefore, with a steadfast mind,\nDownfalls must be conquered;\nIf I am defeated by a downfall,\nMy desire to conquer the three realms becomes a laughingstock.",
+  "locked_terms": [
+   {
+    "tibetan": "ལྟུང་བ",
+    "use": "fall"
+   },
+   {
+    "tibetan": "ཁམས་གསུམ",
+    "use": "three realms"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "Therefore, I must conquer falls with a strong mind. If a fall defeats me, my wish to conquer the three realms will just be a joke."
+ },
+ {
+  "id": "7-55",
+  "tibetan": "བདག་གིས་ཀུན་ལས་རྒྱལ་བྱ་སྟེ། ། བདག་ལས་སུ་ཡང་རྒྱལ་མི་བྱ། ། རྒྱལ་བ་སེང་གེའི་སྲས་བདག་གིས། ། ང་རྒྱལ་འདི་ལ་གནས་པར་བྱ། །",
+  "academic_translation": "I shall conquer all,\nAnd no one shall conquer me.\nI, a child of the Victor Lion,\nShall abide in this pride.",
+  "locked_terms": [
+   {
+    "tibetan": "ང་རྒྱལ",
+    "use": "pride"
+   },
+   {
+    "tibetan": "རྒྱལ་བ་སེང་གེ",
+    "use": "Victorious Lion"
+   },
+   {
+    "tibetan": "སྲས",
+    "use": "child"
+   }
+  ],
+  "translation": "I will conquer everything, and no one will conquer me. I am a child of the Victorious Lion. I will stay in this pride."
+ },
+ {
+  "id": "7-56",
+  "tibetan": "འགྲོ་གང་ང་རྒྱལ་གྱིས་བཅོམ་དེ། ། ཉོན་མོངས་ང་རྒྱལ་ཅན་མ་ཡིན། ། ང་རྒྱལ་ཅན་དགྲའི་དབང་མི་འགྲོ། ། དེ་དག་ང་རྒྱལ་དགྲ་དབང་འགྱུར། །",
+  "academic_translation": "Any being who is overcome by pride\nIs afflicted, not one who possesses pride.\nOne who possesses pride does not fall under the power of the enemy;\nThey fall under the power of the enemy that is pride.",
+  "locked_terms": [
+   {
+    "tibetan": "ང་རྒྱལ",
+    "use": "pride"
+   },
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   },
+   {
+    "tibetan": "ང་རྒྱལ་དགྲ",
+    "use": "enemy called pride"
+   }
+  ],
+  "translation": "Anyone who is beaten by pride has a troubling emotion. They do not have true pride. Someone with true pride does not fall under the enemy's power. The others fall under the power of the enemy called pride."
+ },
+ {
+  "id": "7-57",
+  "tibetan": "ཉོན་མོངས་ང་རྒྱལ་གྱིས་ཁེངས་ནི། ། ངན་འགྲོར་ང་རྒྱལ་གྱིས་ཁྲིད་ཅིང་། ། མི་ཡི་དགའ་སྟོན་བཅོམ་པ་དང་། ། གཞན་གྱི་ཟན་ཟའི་བྲན་དང་ནི། །",
+  "academic_translation": "Those inflated by the affliction of pride\nAre led by pride to the lower realms;\nTheir human joy is destroyed,\nAnd they become slaves who eat the food of others,",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས་ང་རྒྱལ",
+    "use": "troubling emotion of pride"
+   },
+   {
+    "tibetan": "ངན་འགྲོ",
+    "use": "unhappy realm"
+   }
+  ],
+  "translation": "People puffed up by the troubling emotion of pride are led by pride to an unhappy realm. Their human joy is ruined, and they become slaves who eat other people's food."
+ },
+ {
+  "id": "7-58",
+  "tibetan": "གླེན་པ་མི་སྡུག་ཉམ་ཆུང་དང་། ། ཐམས་ཅད་དུ་ནི་བརྙས་པར་འགྱུར། ། ང་རྒྱལ་གྱིས་ཁེངས་དཀའ་ཐུབ་ཅན། ། དེ་ཡང་ང་རྒྱལ་ཅན་གཏོགས་ན། ། དམན་པ་ཅི་འདྲ་ཡིན་པ་སྨྲོས། །",
+  "academic_translation": "Foolish, ugly, and weak,\nThey are despised everywhere.\nIf ascetics inflated with pride\nAre also included among the proud,\nTell me, what are the lowly like?",
+  "locked_terms": [
+   {
+    "tibetan": "ང་རྒྱལ",
+    "use": "pride"
+   },
+   {
+    "tibetan": "དཀའ་ཐུབ་ཅན",
+    "use": "person of hard practice"
+   }
+  ],
+  "translation": "They are foolish, ugly, and weak. People look down on them everywhere. If a person of hard practice is puffed up with pride and counted among the proud, tell me, what are the lowest people like?"
+ },
+ {
+  "id": "7-59",
+  "tibetan": "གང་ཞིག་ང་རྒྱལ་དགྲ་ལས་རྒྱལ་ཕྱིར་ང་རྒྱལ་འཆང་། ། དེ་ནི་ང་རྒྱལ་ཅན་དང་རྣམ་རྒྱལ་དཔའ་དེ་ཉིད། ། གང་ཞིག་ང་རྒྱལ་དགྲ་བདོ་བ་ཡང་ངེས་བཅོམ་སྟེ། ། འགྲོ་ལ་འདོད་བཞིན་རྒྱལ་བའི་འབྲས་བུ་རྫོགས་པར་བྱེད། །",
+  "academic_translation": "Whoever holds pride in order to conquer the enemy that is pride\nIs the proud one and the victorious hero.\nWhoever definitively destroys even the thriving enemy that is pride\nPerfects the result of victory for wandering beings as they wish.",
+  "locked_terms": [
+   {
+    "tibetan": "ང་རྒྱལ",
+    "use": "pride"
+   },
+   {
+    "tibetan": "ང་རྒྱལ་དགྲ",
+    "use": "enemy called pride"
+   },
+   {
+    "tibetan": "རྒྱལ་བའི་འབྲས་བུ",
+    "use": "result of winning"
+   },
+   {
+    "tibetan": "འགྲོ",
+    "use": "being"
+   }
+  ],
+  "translation": "Whoever holds onto pride to beat the enemy called pride is truly proud. They are a winning hero. Whoever destroys the strong enemy called pride perfects the result of winning for wandering beings, just as they wish."
+ },
+ {
+  "id": "7-60",
+  "tibetan": "ཉོན་མོངས་ཕྱོགས་ཀྱི་ཁྲོད་གནས་ན། ། རྣམ་པ་སྟོང་དུ་སྲན་གཟུགས་ཏེ། ། ཝ་ལ་སོགས་པས་སེང་གེ་བཞིན། ། ཉོན་མོངས་ཚོགས་ཀྱིས་མི་ཚུགས་བྱ། །",
+  "academic_translation": "If I dwell in the midst of the faction of afflictions,\nI shall endure in a thousand ways;\nLike a lion among foxes and the like,\nI shall not be harmed by the host of afflictions.",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   }
+  ],
+  "translation": "If I live right in the middle of troubling emotions, I will stay strong in a thousand ways. I will be like a lion among foxes. I will not be hurt by the crowd of troubling emotions."
+ },
+ {
+  "id": "7-61",
+  "tibetan": "ཉམ་ང་ཆེ་ཐང་བྱུང་གྱུར་ཀྱང་། ། མི་ཡིས་མིག་ནི་བསྲུང་བ་ལྟར། ། དེ་བཞིན་ཉམ་ང་བྱུང་གྱུར་ཀྱང་། ། ཉོན་མོངས་དབང་དུ་མི་འགྱུར་བྱ། །",
+  "academic_translation": "Even if great peril arises,\nJust as a person protects their eyes,\nLikewise, even if peril arises,\nI shall not fall under the power of the afflictions.",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   }
+  ],
+  "translation": "When great danger comes, a person naturally protects their eyes. In the same way, even if danger comes, I will not fall under the power of troubling emotions."
+ },
+ {
+  "id": "7-62",
+  "tibetan": "རྩེད་མོའི་བདེ་འབྲས་འདོད་པ་ལྟར། ། འདི་ཡིས་བྱ་བའི་ལས་གང་ཡིན། ། ལས་དེ་ལ་ནི་ཞེན་བྱ་སྟེ། ། ལས་དེས་མི་ངོམས་དགའ་བར་བྱ། །",
+  "academic_translation": "Just as one desires the happiness that is the result of play,\nWhatever action is to be done by this one,\nOne should be attached to that action,\nAnd, unsated by that action, find joy in it.",
+  "locked_terms": [],
+  "translation": "Just as I want the happiness that comes from playing a game, I should love whatever action I need to do. I should find joy in it and never get tired of it."
+ },
+ {
+  "id": "7-63",
+  "tibetan": "བདེ་བའི་དོན་དུ་ལས་བྱས་ཀྱང་། ། བདེ་འགྱུར་མི་འགྱུར་གཏོལ་མེད་ཀྱི། ། གང་གི་ལས་ཉིད་བདེ་འགྱུར་བ། ། དེ་ལས་མི་བྱེད་ཇི་ལྟར་བདེ། །",
+  "academic_translation": "Even if one acts for the sake of happiness,\nIt is uncertain whether or not happiness will result;\nBut for one whose very action becomes happiness,\nHow can there be happiness without doing that action?",
+  "locked_terms": [
+   {
+    "tibetan": "བདེ་བ",
+    "use": "happiness"
+   }
+  ],
+  "translation": "Even if I do something just to get happiness, I am not sure if happiness will really come. But if the action itself becomes happiness, how could I have happiness without doing it?"
+ },
+ {
+  "id": "7-64",
+  "tibetan": "སྤུ་གྲིའི་སོར་ཆགས་སྦྲང་རྩི་ལྟའི། ། འདོད་པ་རྣམས་ཀྱིས་མི་ངོམས་ན། ། རྣམ་སྨིན་བདེ་ལ་ཞི་བ་ཡི། ། བསོད་ནམས་ཀྱིས་ལྟ་ཅི་སྟེ་ངོམས། །",
+  "academic_translation": "If one is not satiated by sensual desires,\nWhich are like honey smeared on a razor's edge,\nBy merit, whose ripening is happiness and which is peaceful,\nHow could one ever be satiated?",
+  "locked_terms": [
+   {
+    "tibetan": "འདོད་པ",
+    "use": "desire for pleasure"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "store of goodness"
+   },
+   {
+    "tibetan": "རྣམ་སྨིན",
+    "use": "ripening"
+   },
+   {
+    "tibetan": "བདེ",
+    "use": "happiness"
+   },
+   {
+    "tibetan": "ཞི་བ",
+    "use": "peace"
+   }
+  ],
+  "translation": "We never get enough of a desire for pleasure, which is like licking honey from a razor's edge. So how could I ever get enough of a store of goodness? Its ripening is happiness and peace."
+ },
+ {
+  "id": "7-65",
+  "tibetan": "དེ་ལྟས་ལས་ཚར་ཕྱིན་བྱའི་ཕྱིར། ། ཉི་མ་ཕྱེད་དུས་གདུངས་པ་ཡི། ། གླང་ཆེན་མཚོ་ཕྲད་མཚོར་འཇུག་ལྟར། ། ལས་དེ་ལ་ཡང་འཇུག་པར་བྱ། །",
+  "academic_translation": "Therefore, in order to complete the action,\nTormented by the midday sun,\nJust as an elephant encountering a lake plunges into it,\nOne should also engage in that action.",
+  "locked_terms": [],
+  "translation": "Therefore, to finish my task, I should dive right into the action. I should be like a hot elephant in the midday sun that finds a cool lake and plunges right in."
+ },
+ {
+  "id": "7-66",
+  "tibetan": "སྟོབས་ཉམས་པ་དང་རྗེས་འབྲེལ་ན། ། སླར་བྱའི་དོན་དུ་དོར་བར་བྱ། ། ལེགས་པར་ཟིན་ན་ཕྱི་མ་དང་། ། ཕྱི་མ་འདོད་པས་དེ་སྤང་བྱ། །",
+  "academic_translation": "If it entails a decline in strength,\nOne should set it aside in order to resume it later;\nWhen it is well completed, desiring the next\nAnd the next, one should leave it behind.",
+  "locked_terms": [],
+  "translation": "If my strength starts to fade, I should set the action aside so I can finish it later. Once a task is completely done, I should leave it behind, eager to start the next one."
+ },
+ {
+  "id": "7-67",
+  "tibetan": "འཐབ་རྙིང་དགྲ་དང་ལྷན་ཅིག་ཏུ། ། གཡུལ་ངོར་རལ་ཁ་ལྷགས་པ་བཞིན། ། ཉོན་མོངས་མཚོན་ལས་གཟུར་བྱ་ཞིང་། ། ཉོན་མོངས་དགྲ་རྣམས་གཞོམ་པར་བཏེག །",
+  "academic_translation": "Just as a veteran warrior, together with enemies,\nClashes swords on the battlefield,\nOne should dodge the weapons of the afflictions\nAnd strike to destroy the enemy afflictions.",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   }
+  ],
+  "translation": "Just like a brave warrior fighting enemies with swords on a battlefield, I must dodge the weapons of the troubling emotions. Then I must strike hard to destroy those enemy troubling emotions."
+ },
+ {
+  "id": "7-68",
+  "tibetan": "གཡུལ་དུ་རལ་གྲི་ལྷུང་གྱུར་ན། ། འཇིགས་པས་མྱུར་དུ་ལེན་པ་ལྟར། ། དེ་བཞིན་དྲན་པའི་མཚོན་ཤོར་ན། ། དམྱལ་བའི་འཇིགས་དྲན་མྱུར་དུ་བླང་། །",
+  "academic_translation": "Just as a sword dropped in battle\nIs swiftly picked up out of fear,\nSo too, if the weapon of mindfulness is lost,\nOne should quickly take it up, remembering the fears of hell.",
+  "locked_terms": [
+   {
+    "tibetan": "དྲན་པ",
+    "use": "keeping in mind"
+   },
+   {
+    "tibetan": "དམྱལ་བ",
+    "use": "hell"
+   }
+  ],
+  "translation": "If someone drops a sword in battle, they quickly pick it up out of fear. If I drop my weapon of keeping in mind, I must quickly pick it up too. I must remember the fears of hell."
+ },
+ {
+  "id": "7-69",
+  "tibetan": "ཇི་ལྟར་ཁྲག་ལ་བརྟེན་བཅས་ནས། ། དུག་ནི་ལུས་ལ་ཁྱབ་འགྱུར་བ། ། དེ་བཞིན་གླགས་ནི་རྙེད་གྱུར་ན། ། ཉེས་པས་སེམས་ལ་ཁྱབ་པར་འགྱུར། །",
+  "academic_translation": "Just as poison, by relying on the blood,\nSpreads to pervade the body,\nSo too, if an opportunity is found,\nA fault will pervade the mind.",
+  "locked_terms": [
+   {
+    "tibetan": "ཉེས་པ",
+    "use": "fault"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "Poison uses the blood to spread all through the body. In the same way, if a fault finds a chance, it will spread all through the mind."
+ },
+ {
+  "id": "7-70",
+  "tibetan": "ཡུངས་མར་བཀང་བའི་སྣོད་བཀུར་ལ། ། རལ་གྲི་ཐོགས་པས་དྲུང་བསྡད་དེ། ། བོ་ན་གསོད་བསྡིགས་འཇིགས་པ་ལྟར། ། བརྟུལ་ཞུགས་ཅན་གྱིས་དེ་བཞིན་སྒྲིམ། །",
+  "academic_translation": "Just as one carrying a vessel filled with mustard oil,\nWith a sword-bearer standing nearby,\nFears the threat of death if it spills,\nAn ascetic should likewise be focused.",
+  "locked_terms": [
+   {
+    "tibetan": "བརྟུལ་ཞུགས་ཅན",
+    "use": "strict practitioner"
+   }
+  ],
+  "translation": "Imagine carrying a bowl full of oil while someone with a sword stands nearby. You would fear death if you spilled it. A strict practitioner must be just as focused."
+ },
+ {
+  "id": "7-71",
+  "tibetan": "དེ་བས་པང་དུ་སྦྲུལ་འོངས་ན། ། ཇི་ལྟར་རིངས་པར་ལྡང་བ་ལྟར། ། དེ་བཞིན་གཉིད་དང་སྙོམ་འོངས་ན། ། མྱུར་དུ་དེ་དག་བཟློག་པར་བྱ། །",
+  "academic_translation": "Therefore, just as one swiftly springs up\nIf a snake crawls into one's lap,\nLikewise, if sleep and lethargy arrive,\nOne should quickly repel them.",
+  "locked_terms": [
+   {
+    "tibetan": "གཉིད",
+    "use": "sleep"
+   },
+   {
+    "tibetan": "སྙོམ",
+    "use": "sluggishness"
+   }
+  ],
+  "translation": "If a snake crawled into your lap, you would jump up right away. In the same way, if sleep and sluggishness come, I must quickly push them away."
+ },
+ {
+  "id": "7-72",
+  "tibetan": "ཉེས་པ་བྱུང་བ་རེ་རེ་ཞིང་། ། བདག་ལ་སྨད་ནས་ཅི་ནས་ཀྱང་། ། བདག་ལ་ཕྱིས་འདི་མི་འབྱུང་བ། ། དེ་ལྟར་བྱ་ཞེས་ཡུན་རིང་བསམ། །",
+  "academic_translation": "For each and every fault that occurs,\nI shall reproach myself and ponder for a long time:\n\"By all means, I will act in such a way\nThat this never happens to me again.\"",
+  "locked_terms": [
+   {
+    "tibetan": "ཉེས་པ",
+    "use": "fault"
+   }
+  ],
+  "translation": "Every time a fault happens, I will scold myself. I will think about it for a long time. I will say, \"I must make sure this never happens to me again.\""
+ },
+ {
+  "id": "7-73",
+  "tibetan": "ཇི་ལྟར་གནས་སྐབས་འདི་དག་ལ། ། དྲན་པ་གོམས་པ་ཉིད་འགྱུར་ཞེས། ། རྒྱུ་འདི་ཡིས་ནི་ཕྲད་པའམ། ། རིགས་པའི་ལས་ནི་འདོད་པར་བྱ། །",
+  "academic_translation": "Thinking, \"How, in these situations,\nWill mindfulness become a habit?\"\nFor this reason, one should seek out association\nOr appropriate actions.",
+  "locked_terms": [
+   {
+    "tibetan": "དྲན་པ",
+    "use": "keeping in mind"
+   }
+  ],
+  "translation": "I should ask myself, \"How can keeping in mind become a habit in these situations?\" For this reason, I should seek out the right company or do the right actions."
+ },
+ {
+  "id": "7-74",
+  "tibetan": "ཅི་ནས་ལས་བྱེད་སྔོན་རོལ་ནས། ། ཐམས་ཅད་ལ་ནི་མཐུ་ཡོད་པ། ། དེ་ལྟར་བག་ཡོད་གཏམ་དྲན་ཏེ། ། བདག་ཉིད་ལྡང་བ་ཡང་བར་བྱ། །",
+  "academic_translation": "So that before performing an action,\nI have the capability for everything,\nThus, recalling the discourse on heedfulness,\nI should make myself rise lightly.",
+  "locked_terms": [
+   {
+    "tibetan": "བག་ཡོད",
+    "use": "carefulness"
+   }
+  ],
+  "translation": "Before I act, I want to be ready for anything. By remembering the teachings on carefulness, I should make myself jump up lightly."
+ },
+ {
+  "id": "7-75",
+  "tibetan": "ཇི་ལྟར་རླུང་ནི་འགྲོ་བ་དང་། ། འོང་བས་ཤིང་བལ་དབང་བསྒྱུར་བ། ། དེ་བཞིན་སྤྲོ་བས་དབང་བསྒྱུར་ཏེ། ། དེ་ལྟར་ན་ནི་འགྲུབ་པར་འགྱུར། །",
+  "academic_translation": "Just as the wind's going and\nComing control a tuft of cotton,\nLikewise, I should be controlled by enthusiasm;\nIn that way, success will be achieved.",
+  "locked_terms": [
+   {
+    "tibetan": "སྤྲོ་བ",
+    "use": "eagerness"
+   }
+  ],
+  "translation": "Just as the wind blows a piece of cotton around, I should let eagerness guide me. That is how I will succeed."
+ },
+ {
+  "id": "7-a",
+  "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ལས། བརྩོན་འགྲུས་བསྟན་པ་ཞེས་བྱ་བ་སྟེ་ལེའུ་བདུན་པའོ།། །།",
+  "academic_translation": "From Entering the Way of the Bodhisattva, this is the seventh chapter, entitled the Exposition of Diligence.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ",
+    "use": "Entering the Way of the Awakening Hero"
+   },
+   {
+    "tibetan": "བརྩོན་འགྲུས",
+    "use": "joyful effort"
+   }
+  ],
+  "translation": "From Entering the Way of the Awakening Hero, this is the seventh chapter, called Joyful Effort."
+ },
+ {
+  "id": "8-1",
+  "tibetan": "དེ་ལྟར་བརྩོན་འགྲུས་བསྐྱེད་ནས་ནི། ། ཡིད་ནི་ཏིང་ངེ་འཛིན་ལ་བཞག ། སེམས་ནི་རྣམ་པར་གཡེངས་པའི་མི། ། ཉོན་མོངས་མཆི་བའི་ཕྲག་ན་གནས། །",
+  "academic_translation": "Having thus generated diligence,\nI should place my mind in concentration.\nA person whose mind is completely distracted\nDwells between the fangs of the afflictions.",
+  "locked_terms": [
+   {
+    "tibetan": "བརྩོན་འགྲུས",
+    "use": "joyful effort"
+   },
+   {
+    "tibetan": "ཏིང་ངེ་འཛིན",
+    "use": "deep focus"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   },
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   }
+  ],
+  "translation": "Now that I have grown my joyful effort, I should place my mind in deep focus. A person whose mind is totally distracted is caught between the fangs of troubling emotions."
+ },
+ {
+  "id": "8-2",
+  "tibetan": "ལུས་དང་སེམས་ནི་དབེན་པ་ཡིས། ། རྣམ་པར་གཡེང་བ་མི་འབྱུང་ངོ་། ། དེ་བས་འཇིག་རྟེན་སྤང་བྱ་ཞིང་། ། རྣམ་པར་རྟོག་པ་ཡོངས་སུ་དོར། །",
+  "academic_translation": "Through the solitude of body and mind,\nComplete distraction will not arise.\nTherefore, I should renounce the world\nAnd completely discard discursive thought.",
+  "locked_terms": [
+   {
+    "tibetan": "དབེན་པ",
+    "use": "solitude"
+   },
+   {
+    "tibetan": "ལུས",
+    "use": "body"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   },
+   {
+    "tibetan": "རྣམ་པར་གཡེང་བ",
+    "use": "wandering mind"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན",
+    "use": "world"
+   },
+   {
+    "tibetan": "རྣམ་པར་རྟོག་པ",
+    "use": "restless thought"
+   }
+  ],
+  "translation": "By keeping my body and mind in solitude, a wandering mind will not happen. Therefore, I should leave the world behind and completely drop every restless thought."
+ },
+ {
+  "id": "8-3",
+  "tibetan": "ཆགས་པའི་ཕྱིར་དང་རྙེད་སོགས་ལ། ། སྲེད་པས་འཇིག་རྟེན་མི་སྤོང་སྟེ། ། དེ་བས་འདི་དག་ཡོངས་སྤོངས་ལ། ། མཁས་པས་འདི་ལྟར་དཔྱད་པར་བྱ། །",
+  "academic_translation": "Because of attachment and through craving\nFor gain and so forth, one does not abandon the world.\nTherefore, completely abandoning these,\nA wise person should analyze in this way.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆགས་པ",
+    "use": "clinging"
+   },
+   {
+    "tibetan": "རྙེད",
+    "use": "gain"
+   },
+   {
+    "tibetan": "སྲེད་པ",
+    "use": "wanting"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན",
+    "use": "world"
+   },
+   {
+    "tibetan": "མཁས་པ",
+    "use": "wise person"
+   }
+  ],
+  "translation": "We do not leave the world behind because of clinging. We are stuck wanting gain and other things. So, a wise person should completely let go of these things and think like this."
+ },
+ {
+  "id": "8-4",
+  "tibetan": "ཞི་གནས་རབ་ཏུ་ལྡན་པའི་ལྷག་མཐོང་གིས། ། ཉོན་མོངས་རྣམ་པར་འཇོམས་པར་ཤེས་བྱས་ནས། ། ཐོག་མར་ཞི་གནས་བཙལ་བྱ་དེ་ཡང་ནི། ། འཇིག་རྟེན་ཆགས་པ་མེད་ལ་མངོན་དགས་འགྲུབ། །",
+  "academic_translation": "By special insight fully endowed with calm abiding\nThe afflictions are completely destroyed; having known this,\nOne should first seek calm abiding; and that\nIs accomplished by joyful delight in non-attachment to the world.",
+  "locked_terms": [
+   {
+    "tibetan": "ཞི་གནས",
+    "use": "calm abiding"
+   },
+   {
+    "tibetan": "ལྷག་མཐོང",
+    "use": "clear seeing"
+   },
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   },
+   {
+    "tibetan": "ཆགས་པ་མེད",
+    "use": "freedom from clinging"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན",
+    "use": "world"
+   }
+  ],
+  "translation": "Clear seeing joined with calm abiding completely destroys troubling emotions. Knowing this, I should first look for calm abiding. I can reach it by finding joy in freedom from clinging to the world."
+ },
+ {
+  "id": "8-5",
+  "tibetan": "མི་རྟག་སུ་ཞིག་མི་རྟག་ལ། ། ཡང་དག་ཆགས་པར་བྱེད་པ་ཡོད། ། དེས་ནི་ཚེ་རབས་སྟོང་ཕྲག་ཏུ། ། སྡུག་པ་མཐོང་བར་ཡོང་མི་འགྱུར། །",
+  "academic_translation": "What impermanent being, toward the impermanent,\nWould form a true attachment?\nThrough that, for thousands of lifetimes,\nThey will not see their beloved.",
+  "locked_terms": [
+   {
+    "tibetan": "མི་རྟག",
+    "use": "not lasting"
+   },
+   {
+    "tibetan": "ཆགས་པ",
+    "use": "clinging"
+   },
+   {
+    "tibetan": "ཚེ་རབས",
+    "use": "lifetime"
+   }
+  ],
+  "translation": "Why would a being who is not lasting feel true clinging for someone else who is not lasting? Because of this, they will not see their loved ones for thousands of lifetimes."
+ },
+ {
+  "id": "8-6",
+  "tibetan": "མ་མཐོང་ན་ནི་དགར་མི་འགྱུར། ། ཡིད་ཀྱང་མཉམ་འཇོག་མི་འགྱུར་ལ། ། མཐོང་ཡང་ངོམས་པར་མི་འགྱུར་བས། ། སྔར་བཞིན་སྲེད་པས་གདུང་བར་འགྱུར། །",
+  "academic_translation": "If they are not seen, one feels no joy,\nAnd the mind does not rest in meditative equipoise;\nEven when they are seen, one is not satisfied,\nAnd is tormented by craving just as before.",
+  "locked_terms": [
+   {
+    "tibetan": "མཉམ་འཇོག",
+    "use": "settled mind"
+   },
+   {
+    "tibetan": "སྲེད་པ",
+    "use": "wanting"
+   },
+   {
+    "tibetan": "ཡིད",
+    "use": "mind"
+   }
+  ],
+  "translation": "If we do not see them, we feel no joy, and the mind does not rest as a settled mind. Even when we do see them, we are never satisfied. We are still hurt by wanting, just as before."
+ },
+ {
+  "id": "8-7",
+  "tibetan": "སེམས་ཅན་རྣམས་ལ་ཆགས་བྱས་ན། ། ཡང་དག་ཉིད་ལ་ཀུན་ནས་སྒྲིབ། ། སྐྱོ་བའི་སེམས་ཀྱང་འཇིག་པར་བྱེད། ། ཐ་མར་མྱ་ངན་གདུང་བར་འགྱུར། །",
+  "academic_translation": "If one becomes attached to sentient beings,\nTrue reality is completely obscured,\nThe mind of disillusionment is also destroyed,\nAnd in the end, one will be tormented by grief.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "ཡང་དག་ཉིད",
+    "use": "what is truly real"
+   },
+   {
+    "tibetan": "སྐྱོ་བའི་སེམས",
+    "use": "weary mind"
+   },
+   {
+    "tibetan": "མྱ་ངན",
+    "use": "sorrow"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "If we become attached to living beings, what is truly real is completely hidden. The weary mind is also destroyed. In the end, we will be hurt by sorrow."
+ },
+ {
+  "id": "8-8",
+  "tibetan": "དེ་ལ་སེམས་པ་འབའ་ཞིག་གིས། ། ཚེ་འདི་དོན་མེད་འདའ་བར་འགྱུར། ། རྟག་པ་མེད་པའི་མཛའ་བཤེས་ཀྱིས། ། གཡུང་དྲུང་ཆོས་ཀྱང་འཇིག་པར་འགྱུར། །",
+  "academic_translation": "By merely thinking about them,\nThis life will pass away meaninglessly;\nBecause of impermanent friends and relatives,\nEven the eternal Dharma will be destroyed.",
+  "locked_terms": [
+   {
+    "tibetan": "ཚེ་འདི",
+    "use": "this life"
+   },
+   {
+    "tibetan": "རྟག་པ་མེད་པ",
+    "use": "not lasting"
+   },
+   {
+    "tibetan": "མཛའ་བཤེས",
+    "use": "friend"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "teachings"
+   }
+  ],
+  "translation": "By just thinking about them, this life will pass away with no meaning. Because of friends who are not lasting, even the eternal teachings will be destroyed."
+ },
+ {
+  "id": "8-9",
+  "tibetan": "བྱིས་དང་སྐལ་བ་མཉམ་སྤྱོད་ན། ། ངེས་པར་ངན་འགྲོར་འགྲོ་འགྱུར་ཏེ། ། སྐལ་མི་མཉམ་པར་ཁྲིད་བྱེད་ན། ། བྱིས་པ་བསྟེན་པས་ཅི་ཞིག་བྱ། །",
+  "academic_translation": "If one shares the same fortune as a childish one,\nOne will certainly go to the lower realm;\nIf they lead one to a fortune unlike that of the noble ones,\nWhat is the use of relying on a childish one?",
+  "locked_terms": [
+   {
+    "tibetan": "བྱིས་པ",
+    "use": "childish person"
+   },
+   {
+    "tibetan": "ངན་འགྲོ",
+    "use": "unhappy realm"
+   }
+  ],
+  "translation": "If I share the same path as a childish person, I will certainly go to an unhappy realm. If they lead me away from the noble path, what is the use of relying on a childish person?"
+ },
+ {
+  "id": "8-10",
+  "tibetan": "སྐད་ཅིག་གཅིག་གིས་མཛའ་འགྱུར་ལ། ། ཡུད་ཙམ་གྱིས་ནི་དགྲར་ཡང་འགྱུར། ། དགའ་བའི་གནས་ལ་ཁྲོ་བྱེད་པས། ། སོ་སོའི་སྐྱེ་བོ་མགུ་བར་དཀའ། །",
+  "academic_translation": "In a single instant they become friends,\nAnd in a mere moment they even become enemies;\nSince they become angry at occasions for joy,\nOrdinary beings are difficult to please.",
+  "locked_terms": [
+   {
+    "tibetan": "སོ་སོའི་སྐྱེ་བོ",
+    "use": "ordinary person"
+   }
+  ],
+  "translation": "They become friends in an instant. Then they become enemies just as fast. They get mad even at happy things. An ordinary person is very hard to please."
+ }
+]

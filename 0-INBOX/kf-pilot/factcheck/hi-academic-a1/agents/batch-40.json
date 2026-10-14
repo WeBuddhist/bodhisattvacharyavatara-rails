@@ -1,0 +1,113 @@
+{
+ "batch": "batch-40",
+ "segments": [
+  {
+   "id": "9-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-90",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-91",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-92",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "विकल्पित क्षेत्र से उत्पन्न",
+     "evidence": "Tibetan རྣམ་བརྟགས་ཞིང་ལས་བྱུང་བ་ is the 'field of investigation/analysis' (Kunpal 9-92: རྣམ་པ་བརྟག་ཅིང་དཔྱད་པའི་ཞིང་ས་བཟང་པོ་ལྟ་བུ; Gyaltsab 9-92: རྣམ་པར་བརྟགས་ཤིང་དཔྱད་པའི་ཞིང་), i.e. the ground of analytical scrutiny, matching english_academic 'field of investigation'. Hindi 'विकल्पित' reads as 'imagined/conceptually constructed', which changes the sense.",
+     "fix": "विश्लेषित (परीक्षित) क्षेत्र से उत्पन्न"
+    }
+   ]
+  },
+  {
+   "id": "9-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-101",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-102",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-103",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-104",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

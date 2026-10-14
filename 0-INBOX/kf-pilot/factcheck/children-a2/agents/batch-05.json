@@ -1,0 +1,178 @@
+{
+ "batch": "batch-05",
+ "segments": [
+  {
+   "id": "8-104",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-107",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-110",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "I take the drops of seed and blood from others as \"I\". Even though they are without a thing, I still call them \"I\".",
+     "evidence": "The Tibetan has a comparison (\"just as one knows them as 'I'\"): by habit, others' drops of semen and blood, though no real entity, are known as \"I\". The children's text turns the simile into two flat statements.",
+     "fix": "By getting used to it, even the drops of seed and blood that came from others, which are without a thing, are known as \"I\"."
+    }
+   ]
+  },
+  {
+   "id": "8-126",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-130",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-132",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "happiness I can see and cannot see",
+     "evidence": "Academic: \"seen and unseen happiness\" (happiness in this life and beyond); the phrasing is hard for children to parse.",
+     "fix": "...the perfect joy that brings happiness now and happiness we cannot yet see."
+    }
+   ]
+  },
+  {
+   "id": "8-139",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "See a lower person and others as yourself.",
+     "evidence": "Academic: \"the inferior and so forth\" (inferior, equal, superior). \"And others\" is vague and could be read as ordinary other people.",
+     "fix": "See someone lower, equal, or higher than you as yourself."
+    }
+   ]
+  },
+  {
+   "id": "8-164",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-167",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "I must defeat you",
+     "evidence": "Academic: \"subdue you yourself\" (Tibetan ཚར་གཅད, to bring under control/discipline). \"Defeat\" suggests winning a fight.",
+     "fix": "I must bring you under control."
+    }
+   ]
+  },
+  {
+   "id": "8-168",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "destroy all of your feeling superior",
+     "evidence": "Locked term \"feeling superior\" is used as a noun phrase, making the sentence ungrammatical.",
+     "fix": "I will destroy all of your feeling of being better than others."
+    }
+   ]
+  },
+  {
+   "id": "8-171",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-183",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-50",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "leaving out one text",
+     "evidence": "Academic: \"a single unincluded one\" (one text not included among the accepted teachings); \"leaving out\" is vague and the final \"all\" is unclear.",
+     "fix": "You say that if one text is not counted as the Buddha's teaching, then all of them are faulty."
+    }
+   ]
+  },
+  {
+   "id": "9-52",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,237 @@
+{
+ "batch": "batch-20",
+ "segments": [
+  {
+   "id": "9-65",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "Someone might say it is like an actor playing a new part.",
+     "evidence": "The verse is Santideva's own reply: if the thing is seen in another mode like an actor, it is not permanent; nobody is quoted as an opponent here.",
+     "fix": "If it is like an actor who shows up in a new way, then we see it changing, so it is not lasting forever."
+    }
+   ]
+  },
+  {
+   "id": "9-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-68",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "A thing without a mind is not the self. It is just like a vase.",
+     "evidence": "The reason is given: it is not the self because it is mindless, like a vase and so on.",
+     "fix": "A thing without a mind is not the self, because it has no mind, just like a vase."
+    }
+   ]
+  },
+  {
+   "id": "9-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-75",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "We accept this confusion for the sake of the result.",
+     "evidence": "What is accepted for the sake of the result is the thing imputed by delusion (the imagined beings), not the delusion itself.",
+     "fix": "We show compassion to beings imagined by our confusion. We accept them like this for the sake of the result."
+    }
+   ]
+  },
+  {
+   "id": "9-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-81",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-84",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-90",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-91",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-101",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-102",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-103",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "It is not the body, and it is not anywhere else. ... It is nothing at all.",
+     "evidence": "The subject is the mind of the previous verse; with no named subject, 'It is nothing at all' can read as a claim that nothing exists.",
+     "fix": "The mind is not the body, and it is not anywhere else. It is not mixed with anything, and it is not separate. It cannot be found as anything at all."
+    }
+   ]
+  },
+  {
+   "id": "9-104",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "4-37": {
+  "translation": "Those afflictions subjected to suffering by natural death—\nIf even those who desire to forcefully destroy them when arrayed in battle,\nHaving disregarded the suffering of being struck by arrows, spears, and weapons,\nDo not turn back and flee without accomplishing their goal,",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "Those afflictions subjected to suffering by natural death—",
+    "evidence": "Here ཉོན་མོངས་ is not the mental afflictions but a word of pity for the ordinary enemies of the battle simile. bo-kunpal 4-37: དགྲ་བོ་ཐ་མལ་པ་ཉོན་མོངས་པ་ཞེས་སྨད་པའི་ཚིག་སྟེ་ཉམས་ཐག་ཅིང་སྙིང་རྗེ་བའི་གནས་སུ་གྱུར་པའི་དགྲ་བོ་འདི་དག (ordinary enemies, 'wretched', objects of pity); bo-shenga 4-37: ཉོན་མོངས་ཏེ་སྙིང་རྗེའི་གནས་སུ་གྱུར་པ་དག. The mental afflictions are the target only of the application in the following verse. Rendering with the locked term 'afflictions' gives the wrong referent and collapses simile and application.",
+    "fix": "Those wretched enemies, made to suffer by their very nature as mortals who must die,"
+   }
+  ]
+ },
+ "9-35": {
+  "translation": "Just as the wish-fulfilling jewel and the wish-fulfilling tree\nCompletely fulfill hopes,\nLikewise, through the power of the ones to be tamed and aspiration prayers,\nThe form of the Victor appears.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "through the power of the ones to be tamed and aspiration prayers",
+    "evidence": "Tibetan གདུལ་བྱ་སྨོན་ལམ་གྱི་དབང་གིས. Kunpal 9-35 reads དེ་བཞིན་གདུལ་བྱར་... སྔོན་གྱི་སྨོན་ལམ་གྱི་དབང་གིས་རྒྱལ་བའི་སྐུར་སྣང་ངོ་ (to the disciples, through the power of earlier aspiration prayers, the Victor's body appears); Shenga: གདུལ་བྱར་སྔོན་བྱང་ཆུབ་སེམས་དཔའི་གནས་སྐབས་ན་བཏབ་པའི་སྨོན་ལམ་གྱི་དབང་གིས་... རྒྱལ་བའི་སྐུར་སྣང་ངོ་. The disciples are those to whom the form appears; the power is that of the (earlier) aspiration prayers. The English makes the disciples a causal power alongside the prayers and omits that the form appears to them.",
+    "fix": "Likewise, to those to be tamed, through the power of aspiration prayers [made earlier], the form of the Victor appears."
+   }
+  ]
+ }
+}

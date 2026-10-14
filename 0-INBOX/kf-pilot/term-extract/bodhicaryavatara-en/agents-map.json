@@ -1,0 +1,40 @@
+{
+ "step": "term-extract",
+ "text": "bodhicaryavatara",
+ "lang": "en",
+ "model": "sonnet",
+ "session": "ca122cef-33c8-420b-9b53-14f174c7375c",
+ "agents": {
+  "batch-01": "a94e2a1508c5cb1d9",
+  "batch-02": "acd29093bfb019f05",
+  "batch-03": "a0685fc5d68e63153",
+  "batch-04": "af53626bdf7ed1b29",
+  "batch-05": "a734f7044dfc72985",
+  "batch-06": "af4a168669ab1e481",
+  "batch-07": "a103e2e13e4e821bd",
+  "batch-08": "adf551ff32dbb8bd2",
+  "batch-09": "aafcf13efd58c4978",
+  "batch-10": "acee72de8ec0c3528",
+  "batch-11": "a6c4d929d234ed50e",
+  "batch-12": "a584cd5a48180c52b",
+  "batch-13": "a0d77aaaa3380e709",
+  "batch-14": "a00e1cf41bc0d7117",
+  "batch-15": "a64b1fa8c0ae3d212",
+  "batch-16": "a0e91fa7fb26b2285",
+  "batch-17": "af2b4461607f99316",
+  "batch-18": "a36bad1dd8571cb9b",
+  "batch-19": "a16e6a66a9a32cc19",
+  "batch-20-attempt1": "a9b397b119068598e",
+  "batch-20": "afdc5f917f255ab4a",
+  "batch-21": "aa35452a18896bbcf",
+  "batch-22": "ab3e5c1fb325f9958",
+  "batch-23": "a99a4142ac77d83aa",
+  "batch-24": "acd4d83ea27465878",
+  "batch-25": "a7564ae7a014472af",
+  "batch-26": "ac618dca0b1bbffc4"
+ },
+ "notes": [
+  "batch-20 attempt 1 extracted 0.69 terms/segment (18/35 empty) vs ~2 elsewhere; re-run with a fresh agent; attempt 1 kept in agents-superseded/",
+  "batches 1-20 ran on partial Gemini en renders: heading segments had no gm (only dm); verse text identical to the final batches"
+ ]
+}

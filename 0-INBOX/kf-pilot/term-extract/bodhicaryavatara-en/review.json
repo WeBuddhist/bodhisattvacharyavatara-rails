@@ -1,0 +1,2438 @@
+{
+ "drop": [
+  {
+   "id": "1-3",
+   "bo": "སྐལ་བ",
+   "reason": "ordinary noun"
+  },
+  {
+   "id": "1-6",
+   "bo": "རྫོགས་པའི་བྱང་ཆུབ་སེམས",
+   "reason": "compound of two separate technical terms, contains genitive"
+  },
+  {
+   "id": "1-8",
+   "bo": "སྲིད་པའི་སྡུག་བསྔལ",
+   "reason": "compound of two terms with a genitive"
+  },
+  {
+   "id": "1-9",
+   "bo": "བདེ་གཤེགས་རྣམས་ཀྱི་སྲས",
+   "reason": "includes plural and genitive particles"
+  },
+  {
+   "id": "1-10",
+   "bo": "རྒྱལ་བའི་སྐུ",
+   "reason": "contains genitive particle"
+  },
+  {
+   "id": "1-11",
+   "bo": "འགྲོ་བའི་དེད་དཔོན",
+   "reason": "contains genitive particle"
+  },
+  {
+   "id": "1-11",
+   "bo": "རིན་ཆེན་བྱང་ཆུབ་སེམས",
+   "reason": "adjective + term"
+  },
+  {
+   "id": "1-13",
+   "bo": "བག་ཅན",
+   "reason": "ordinary adjective"
+  },
+  {
+   "id": "1-14",
+   "bo": "དུས་མཐའི་མེ",
+   "reason": "one-off simile with genitive"
+  },
+  {
+   "id": "1-14",
+   "bo": "སྡིག་ཆེན",
+   "reason": "adjective + noun"
+  },
+  {
+   "id": "1-18",
+   "bo": "སེམས་ཅན་ཁམས",
+   "reason": "compound of two terms"
+  },
+  {
+   "id": "1-20",
+   "bo": "ལག་བཟང་གིས་ནི་ཞུས་པ",
+   "reason": "contains agentive and ni particle"
+  },
+  {
+   "id": "1-20",
+   "bo": "དམན་མོས",
+   "reason": "ordinary adjective phrase"
+  },
+  {
+   "id": "1-25",
+   "bo": "སེམས་ཀྱི་རིན་ཆེན",
+   "reason": "adjective phrase, not a standard term"
+  },
+  {
+   "id": "1-26",
+   "bo": "རིན་ཆེན་སེམས",
+   "reason": "adjective phrase"
+  },
+  {
+   "id": "1-32",
+   "bo": "དགེ་བ་བྱེད་པ",
+   "reason": "ordinary phrase"
+  },
+  {
+   "id": "1-34",
+   "bo": "སྦྱིན་བདག",
+   "reason": "ordinary noun"
+  },
+  {
+   "id": "1-34",
+   "bo": "ངན་སེམས",
+   "reason": "ordinary noun phrase"
+  },
+  {
+   "id": "1-36",
+   "bo": "སེམས་ཀྱི་དམ་པ་རིན་ཆེན",
+   "reason": "adjective phrase"
+  },
+  {
+   "id": "1-36",
+   "bo": "སྐྱབས་སུ་མཆི",
+   "reason": "verb phrase"
+  },
+  {
+   "id": "1-a",
+   "bo": "བྱང་ཆུབ་སེམས་ཀྱི་ཕན་ཡོན་བཤད་པ",
+   "reason": "chapter title phrasing"
+  },
+  {
+   "id": "2-30",
+   "bo": "ལུས་ངག་དང་། ། ཡིད",
+   "reason": "Span contains punctuation and crosses a line break."
+  },
+  {
+   "id": "2-63",
+   "bo": "མི་ཤེས",
+   "reason": "ordinary verb"
+  },
+  {
+   "id": "3-0",
+   "bo": "བྱང་ཆུབ་ཀྱི་སེམས་ཡོངས་སུ་བཟུང་བ",
+   "reason": "Chapter title phrase; component terms are already extracted."
+  },
+  {
+   "id": "3-19",
+   "bo": "དཔག་བསམ་གྱི་ནི་ཤིང",
+   "reason": "Split by particles, cannot form a contiguous clean term."
+  },
+  {
+   "id": "3-22",
+   "bo": "བྱང་ཆུབ་སེམས་དཔའི་བསླབ་པ",
+   "reason": "Contains genitive particle, components are listed separately."
+  },
+  {
+   "id": "3-a",
+   "bo": "བྱང་ཆུབ་ཀྱི་སེམས་ཡོངས་སུ་བཟུང་བ",
+   "reason": "Chapter title phrase; component terms are already extracted."
+  },
+  {
+   "id": "4-3",
+   "bo": "དེ་ཡི་སྲས",
+   "reason": "Pronoun phrase 'their sons/heirs', not a fixed technical title."
+  },
+  {
+   "id": "4-26",
+   "bo": "ཕན་པའི་ས",
+   "reason": "Not a standard technical term; just a descriptive phrase."
+  },
+  {
+   "id": "5-25",
+   "bo": "ཐོས་དང་བསམས་དང་བསྒོམས",
+   "reason": "conjugated list of verbs, not standard term format"
+  },
+  {
+   "id": "5-60",
+   "bo": "ལུས",
+   "reason": "Ordinary word (body), not a fixed technical term here"
+  },
+  {
+   "id": "5-74",
+   "bo": "སློབ་མ",
+   "reason": "General word for student/disciple, not a technical Buddhist term here"
+  },
+  {
+   "id": "5-87",
+   "bo": "དོན་ཆེན",
+   "reason": "Ordinary adjective phrase, not a technical term"
+  },
+  {
+   "id": "5-89",
+   "bo": "ཟབ་དང་རྒྱ་ཆེ",
+   "reason": "Ordinary adjectives, not a fixed technical phrase here"
+  },
+  {
+   "id": "6-4",
+   "bo": "ནོར",
+   "reason": "Ordinary noun"
+  },
+  {
+   "id": "6-4",
+   "bo": "རྗེ་དཔོན",
+   "reason": "Ordinary noun"
+  },
+  {
+   "id": "6-6",
+   "bo": "འདི་དང་གཞན",
+   "reason": "Stock phrase, not a glossary term"
+  },
+  {
+   "id": "6-8",
+   "bo": "དགྲ་བོ",
+   "reason": "Ordinary noun"
+  },
+  {
+   "id": "6-11",
+   "bo": "དགྲ",
+   "reason": "Ordinary noun"
+  },
+  {
+   "id": "6-12",
+   "bo": "བདེ་བའི་རྒྱུ",
+   "reason": "Compositional phrase"
+  },
+  {
+   "id": "6-12",
+   "bo": "སྡུག་བསྔལ་རྒྱུ",
+   "reason": "Compositional phrase"
+  },
+  {
+   "id": "6-14",
+   "bo": "གོམས",
+   "reason": "Ordinary verb"
+  },
+  {
+   "id": "6-14",
+   "bo": "གནོད་པ",
+   "reason": "Ordinary noun"
+  },
+  {
+   "id": "6-16",
+   "bo": "གནོད་པ",
+   "reason": "Ordinary noun"
+  },
+  {
+   "id": "6-16",
+   "bo": "ནད",
+   "reason": "Ordinary noun"
+  },
+  {
+   "id": "6-18",
+   "bo": "གནོད་པ",
+   "reason": "Ordinary noun"
+  },
+  {
+   "id": "6-19",
+   "bo": "གནོད་པ",
+   "reason": "Ordinary noun"
+  },
+  {
+   "id": "6-20",
+   "bo": "དགྲ",
+   "reason": "Ordinary noun"
+  },
+  {
+   "id": "6-20",
+   "bo": "དཔའ་བོ",
+   "reason": "Ordinary noun"
+  },
+  {
+   "id": "6-23",
+   "bo": "ནད",
+   "reason": "Ordinary noun"
+  },
+  {
+   "id": "6-28",
+   "bo": "འགག་པ",
+   "reason": "Ordinary verb"
+  },
+  {
+   "id": "6-29",
+   "bo": "འགྱུར་བ་མེད",
+   "reason": "Ordinary adjective"
+  },
+  {
+   "id": "6-31",
+   "bo": "གཞན་གྱི་དབང",
+   "reason": "Ordinary phrase"
+  },
+  {
+   "id": "6-33",
+   "bo": "དགྲ",
+   "reason": "Ordinary noun"
+  },
+  {
+   "id": "6-75",
+   "bo": "དགའ་བ",
+   "reason": "Ordinary emotion in this context, not the specific technical term for sympathetic joy (anumodana/mudita)."
+  },
+  {
+   "id": "6-76",
+   "bo": "དགའ་མི་བྱེད",
+   "reason": "Ordinary verb including negation; not a glossary term."
+  },
+  {
+   "id": "6-105",
+   "bo": "སློང་མོ",
+   "reason": "Beggar is an ordinary noun, not a technical term."
+  },
+  {
+   "id": "6-107",
+   "bo": "དགྲ",
+   "reason": "Enemy is an ordinary noun, not a technical term."
+  },
+  {
+   "id": "6-110",
+   "bo": "དགྲ",
+   "reason": "Enemy is an ordinary noun, not a technical term."
+  },
+  {
+   "id": "7-7",
+   "bo": "འཆི",
+   "reason": "Ordinary verb here"
+  },
+  {
+   "id": "7-14",
+   "bo": "མི་ཡི་གྲུ",
+   "reason": "One-off metaphorical simile"
+  },
+  {
+   "id": "7-14",
+   "bo": "སྡུག་བསྔལ་ཆུ་བོ་ཆེ",
+   "reason": "One-off metaphorical phrasing"
+  },
+  {
+   "id": "7-30",
+   "bo": "བྱང་ཆུབ་སེམས་ཀྱི་རྟ",
+   "reason": "One-off metaphorical phrasing"
+  },
+  {
+   "id": "7-36",
+   "bo": "སྐྱེ་བ",
+   "reason": "Ordinary noun in this context"
+  },
+  {
+   "id": "7-a",
+   "bo": "བརྩོན་འགྲུས་བསྟན་པ",
+   "reason": "Chapter title / colophon wording, not a glossary term"
+  },
+  {
+   "id": "8-18",
+   "bo": "ཆགས་གྱུར་པ",
+   "reason": "It is a verb phrase ('becomes attached'), not a standalone glossary noun term."
+  },
+  {
+   "id": "8-27",
+   "bo": "ཆགས་མེད་པ",
+   "reason": "Adjective/adverbial phrase ('without attachment'), not a standard noun term here."
+  },
+  {
+   "id": "8-38",
+   "bo": "དུལ་བར་བྱ",
+   "reason": "ordinary verb phrase"
+  },
+  {
+   "id": "8-39",
+   "bo": "འཇིག་རྟེན་འདི",
+   "reason": "ordinary phrase"
+  },
+  {
+   "id": "8-51",
+   "bo": "ཆགས་མེད",
+   "reason": "ordinary negation"
+  },
+  {
+   "id": "8-58",
+   "bo": "ཆགས་མེད",
+   "reason": "ordinary negation"
+  },
+  {
+   "id": "8-69",
+   "bo": "གྲོང་གི་དུར་ཁྲོད",
+   "reason": "one-off metaphor"
+  },
+  {
+   "id": "8-71",
+   "bo": "ནོར",
+   "reason": "ordinary noun"
+  },
+  {
+   "id": "8-73",
+   "bo": "ཉོན་མོངས",
+   "reason": "used here in the ordinary sense of hardship/fatigue, not mental afflictions"
+  },
+  {
+   "id": "8-78",
+   "bo": "གྲོལ",
+   "reason": "ordinary verb"
+  },
+  {
+   "id": "8-87",
+   "bo": "ཆགས་མེད",
+   "reason": "descriptive phrase, not the base term"
+  },
+  {
+   "id": "8-88",
+   "bo": "དབེན་པའི་ཡོན་ཏན",
+   "reason": "combination of two terms already listed"
+  },
+  {
+   "id": "8-99",
+   "bo": "བདག་གཞན",
+   "reason": "ordinary words, not a technical term on its own"
+  },
+  {
+   "id": "8-107",
+   "bo": "གྲོལ",
+   "reason": "ordinary verb"
+  },
+  {
+   "id": "8-116",
+   "bo": "བསྲུང་སེམས",
+   "reason": "Not a standard technical glossary term."
+  },
+  {
+   "id": "8-116",
+   "bo": "སྙིང་རྗེའི་སེམས",
+   "reason": "Redundant; compassion is covered by term 4."
+  },
+  {
+   "id": "8-116",
+   "bo": "གོམས་པར་བྱ",
+   "reason": "Verb phrase."
+  },
+  {
+   "id": "8-135",
+   "bo": "གཞན་རྣམས་བདག་བཞིན་གཟུང་བར་བྱ",
+   "reason": "A whole sentence/phrase, not a concise glossary term."
+  },
+  {
+   "id": "8-139",
+   "bo": "བསྒོམ",
+   "reason": "Ordinary verb usage in this specific context."
+  },
+  {
+   "id": "8-150",
+   "bo": "ཉོན་མོངས",
+   "reason": "Used here contextually to mean 'miserable one' rather than the strict technical term 'afflictions'."
+  },
+  {
+   "id": "8-161",
+   "bo": "ཤོགས",
+   "reason": "Ordinary verb."
+  },
+  {
+   "id": "8-165",
+   "bo": "ངོ་ཚ",
+   "reason": "Ordinary emotion/attitude."
+  },
+  {
+   "id": "8-171",
+   "bo": "ཁོན",
+   "reason": "Ordinary word."
+  },
+  {
+   "id": "9-1",
+   "bo": "ཞི་བ",
+   "reason": "Used as an ordinary verb here (pacifying)."
+  },
+  {
+   "id": "9-3",
+   "bo": "ཕལ་པ",
+   "reason": "Ordinary adjective/noun."
+  },
+  {
+   "id": "9-3",
+   "bo": "འཇིག་རྟེན་ཕལ་པ",
+   "reason": "Not a fixed technical term."
+  },
+  {
+   "id": "9-9",
+   "bo": "སྒྱུ་འདྲ",
+   "reason": "Just a simile/adjective, not a glossary term itself."
+  },
+  {
+   "id": "9-13",
+   "bo": "རྐྱེན་གཅིག",
+   "reason": "Not a fixed term, just condition + single."
+  },
+  {
+   "id": "9-13",
+   "bo": "ནུས་པ",
+   "reason": "Ordinary noun/verb in this context."
+  },
+  {
+   "id": "9-14",
+   "bo": "འཁོར",
+   "reason": "Used as an ordinary verb here (would cycle)."
+  },
+  {
+   "id": "9-17",
+   "bo": "འཇིག་རྟེན་གྱི་ནི་མགོན་པོ",
+   "reason": "Includes Tibetan particles 'gyi ni'."
+  },
+  {
+   "id": "9-22",
+   "bo": "མི་གསལ་བ",
+   "reason": "Just a negation of luminous."
+  },
+  {
+   "id": "9-23",
+   "bo": "གཞན་མྱོང་བ",
+   "reason": "Not a fixed term, just a descriptive phrase."
+  },
+  {
+   "id": "9-24",
+   "bo": "རྐྱེན་གཞན",
+   "reason": "Just conditions + other."
+  },
+  {
+   "id": "9-24",
+   "bo": "རང་ཉིད་རབ་གསལ",
+   "reason": "Not a fixed term."
+  },
+  {
+   "id": "9-25",
+   "bo": "མཐོང་ཐོས་ཤེས་པ",
+   "reason": "List of ordinary verbs."
+  },
+  {
+   "id": "9-33",
+   "bo": "བརྟག་བྱའི་དངོས་པོ",
+   "reason": "Not a fixed term."
+  },
+  {
+   "id": "9-34",
+   "bo": "དངོས་དང་དངོས་མེད",
+   "reason": "Conjunction of two terms."
+  },
+  {
+   "id": "9-37",
+   "bo": "མྱ་ངན་ལས། ། འདས",
+   "reason": "Span is interrupted by a line break / shad."
+  },
+  {
+   "id": "9-45",
+   "bo": "གྲོལ",
+   "reason": "Ordinary verb"
+  },
+  {
+   "id": "9-48",
+   "bo": "བསྒོམ་པ",
+   "reason": "Ordinary verb"
+  },
+  {
+   "id": "9-52",
+   "bo": "གྲོལ་བ",
+   "reason": "Ordinary verb"
+  },
+  {
+   "id": "9-53",
+   "bo": "བསྒོམ་པར",
+   "reason": "Ordinary verb"
+  },
+  {
+   "id": "9-54",
+   "bo": "སྒོམ",
+   "reason": "Ordinary verb"
+  },
+  {
+   "id": "9-55",
+   "bo": "ཞི་བྱེད་པ",
+   "reason": "Ordinary verb"
+  },
+  {
+   "id": "9-66",
+   "bo": "ཤེས་ཉིད",
+   "reason": "Just 'consciousness' with an emphatic particle, not a distinct term"
+  },
+  {
+   "id": "9-73",
+   "bo": "འདས་དང་མ་འོངས་པ",
+   "reason": "Ordinary time words"
+  },
+  {
+   "id": "9-76",
+   "bo": "ཞི",
+   "reason": "Ordinary verb"
+  },
+  {
+   "id": "9-77",
+   "bo": "བསྒོམ་པ",
+   "reason": "Ordinary verb"
+  },
+  {
+   "id": "9-96",
+   "bo": "ལུས་མེད་པ",
+   "reason": "Not a technical term, just a descriptive adjective phrase."
+  },
+  {
+   "id": "9-106",
+   "bo": "མྱ་ངན",
+   "reason": "Splits the verb for passing into nirvana; 'mya ngan' alone just means sorrow."
+  },
+  {
+   "id": "9-111",
+   "bo": "ཤེས་ཡོད",
+   "reason": "Incorrectly combines 'consciousness' and 'existence'."
+  },
+  {
+   "id": "9-112",
+   "bo": "ཤེས་གྲུབ",
+   "reason": "Incorrectly combines 'consciousness' and the verb 'established'."
+  },
+  {
+   "id": "9-119",
+   "bo": "ས་སོགས",
+   "reason": "Includes the particle 'sogs' (and so forth)."
+  },
+  {
+   "id": "9-121",
+   "bo": "ས་སོགས",
+   "reason": "Includes the particle 'sogs' (and so forth)."
+  },
+  {
+   "id": "9-137",
+   "bo": "ཤེས",
+   "reason": "Ordinary verb/noun (knowing/knowledge) in this context, not a distinct technical term."
+  },
+  {
+   "id": "9-138",
+   "bo": "བརྫུན་པ",
+   "reason": "Ordinary adjective."
+  },
+  {
+   "id": "9-139",
+   "bo": "རྫུན་པ",
+   "reason": "Ordinary adjective."
+  },
+  {
+   "id": "9-143",
+   "bo": "སྤྲུལ་པ",
+   "reason": "Used as an ordinary verb/participle (conjured/emanated) here."
+  },
+  {
+   "id": "10-10",
+   "bo": "མེ་ཏོག་ཀུནྡ",
+   "reason": "One-off simile, not a technical glossary term."
+  },
+  {
+   "id": "10-43",
+   "bo": "བསླབ་པ",
+   "reason": "Ordinary verb"
+  },
+  {
+   "id": "10-43",
+   "bo": "ལས་རུང",
+   "reason": "Ordinary adjective"
+  },
+  {
+   "id": "10-43",
+   "bo": "སྒོམ",
+   "reason": "Ordinary verb"
+  },
+  {
+   "id": "10-48",
+   "bo": "མཆོད་བྱེད",
+   "reason": "Ordinary verb phrase"
+  },
+  {
+   "id": "10-56",
+   "bo": "སྨིན",
+   "reason": "Used here as an ordinary verb"
+  },
+  {
+   "id": "10-58",
+   "bo": "ཕྱག་འཚལ",
+   "reason": "Ordinary verb"
+  }
+ ],
+ "fix_span": [
+  {
+   "id": "3-19",
+   "bo": "རིག་སྔགས་གྲུབ",
+   "bo_fixed": "རིག་སྔགས"
+  },
+  {
+   "id": "3-19",
+   "bo": "འདོད་འཇོར",
+   "bo_fixed": "འདོད་འཇོ"
+  },
+  {
+   "id": "4-3",
+   "bo": "ཤེས་རབ་ཆེན་པོ",
+   "bo_fixed": "ཤེས་རབ"
+  },
+  {
+   "id": "4-6",
+   "bo": "འགྲོ་བ་ཐམས་ཅད",
+   "bo_fixed": "འགྲོ་བ"
+  },
+  {
+   "id": "4-7",
+   "bo": "ལས་ཚུལ",
+   "bo_fixed": "ལས"
+  },
+  {
+   "id": "4-11",
+   "bo": "ས་ཐོབ་པ",
+   "bo_fixed": "ས"
+  },
+  {
+   "id": "4-21",
+   "bo": "ཐོག་མེད་འཁོར་བ",
+   "bo_fixed": "འཁོར་བ"
+  },
+  {
+   "id": "4-44",
+   "bo": "ཉོན་མོངས་པ",
+   "bo_fixed": "ཉོན་མོངས"
+  },
+  {
+   "id": "5-4",
+   "bo": "དམྱལ་བའི་སྲུང་མ",
+   "bo_fixed": "སེམས་ཅན་དམྱལ་བའི་སྲུང་མ"
+  },
+  {
+   "id": "5-7",
+   "bo": "དམྱལ་བ",
+   "bo_fixed": "སེམས་ཅན་དམྱལ་བ"
+  },
+  {
+   "id": "5-70",
+   "bo": "ཡིད་བཞིན་གྱི་ནི་ལུས",
+   "bo_fixed": "ཡིད་བཞིན"
+  },
+  {
+   "id": "6-21",
+   "bo": "སྡིག་ལ",
+   "bo_fixed": "སྡིག"
+  },
+  {
+   "id": "6-21",
+   "bo": "དགེ་ལ",
+   "bo_fixed": "དགེ"
+  },
+  {
+   "id": "6-44",
+   "bo": "སྲེད་མདོངས",
+   "bo_fixed": "སྲེད"
+  },
+  {
+   "id": "6-46",
+   "bo": "ཁྲོ་བར",
+   "bo_fixed": "ཁྲོ་བ"
+  },
+  {
+   "id": "6-47",
+   "bo": "དམྱལ",
+   "bo_fixed": "སེམས་ཅན་དམྱལ"
+  },
+  {
+   "id": "6-49",
+   "bo": "ཁྲོ་བར",
+   "bo_fixed": "ཁྲོ་བ"
+  },
+  {
+   "id": "6-60",
+   "bo": "ཁྲོ",
+   "bo_fixed": "ཁྲོས"
+  },
+  {
+   "id": "6-80",
+   "bo": "བྱང་ཆུབ་ཏུ་ནི་སེམས་བསྐྱེད",
+   "bo_fixed": "སེམས་བསྐྱེད"
+  },
+  {
+   "id": "6-90",
+   "bo": "རིམ་གྲོས",
+   "bo_fixed": "རིམ་གྲོ"
+  },
+  {
+   "id": "6-134",
+   "bo": "འཁོར་ཚེ",
+   "bo_fixed": "འཁོར"
+  },
+  {
+   "id": "7-7",
+   "bo": "ཚོགས་བསག",
+   "bo_fixed": "ཚོགས"
+  },
+  {
+   "id": "7-16",
+   "bo": "ལྷུར་བླང",
+   "bo_fixed": "ལྷུར་བླང་"
+  },
+  {
+   "id": "8-2",
+   "bo": "གཡེང་བ",
+   "bo_fixed": "རྣམ་པར་གཡེང་བ"
+  },
+  {
+   "id": "8-17",
+   "bo": "རྙེད་མང",
+   "bo_fixed": "རྙེད"
+  },
+  {
+   "id": "8-80",
+   "bo": "དལ་འབྱོར་ཕུན་སུམ",
+   "bo_fixed": "དལ་འབྱོར"
+  },
+  {
+   "id": "8-109",
+   "bo": "སྙིང་རྗེའི་སེམས",
+   "bo_fixed": "སྙིང་རྗེ"
+  },
+  {
+   "id": "8-119",
+   "bo": "བདག་དང་གཞན་དུ་བརྗེ་བྱ་བ",
+   "bo_fixed": "བདག་དང་གཞན་དུ་བརྗེ"
+  },
+  {
+   "id": "8-136",
+   "bo": "སེམས་ཅན་ཀུན",
+   "bo_fixed": "སེམས་ཅན"
+  },
+  {
+   "id": "9-110",
+   "bo": "མྱ་ངན་འདས",
+   "bo_fixed": "མྱ་ངན་འདས་པ"
+  },
+  {
+   "id": "9-151",
+   "bo": "དངོས་རྣམས",
+   "bo_fixed": "དངོས"
+  },
+  {
+   "id": "9-155",
+   "bo": "སྡིག་དག",
+   "bo_fixed": "སྡིག"
+  },
+  {
+   "id": "9-167",
+   "bo": "དམིགས་པ་མེད་ཚུལ",
+   "bo_fixed": "དམིགས་པ་མེད"
+  }
+ ],
+ "add": [
+  {
+   "id": "1-0",
+   "bo": "ཕན་ཡོན",
+   "dm": "Benefits",
+   "gm": "Benefits",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-1",
+   "bo": "ལུང",
+   "dm": "scriptures",
+   "gm": "scripture",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-5",
+   "bo": "འཇིག་རྟེན",
+   "dm": "world",
+   "gm": "Worldly",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-6",
+   "bo": "རྫོགས་པའི་བྱང་ཆུབ",
+   "dm": "perfect enlightenment",
+   "gm": "perfect awakening",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-6",
+   "bo": "བྱང་ཆུབ་སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-8",
+   "bo": "སྲིད་པ",
+   "dm": "existence",
+   "gm": "existence",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-9",
+   "bo": "སྲས",
+   "dm": "children",
+   "gm": "children",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-9",
+   "bo": "འཇིག་རྟེན",
+   "dm": "world",
+   "gm": "world's",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-9",
+   "bo": "ལྷ",
+   "dm": "gods",
+   "gm": "gods",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-10",
+   "bo": "རྒྱལ་བ",
+   "dm": "Victor",
+   "gm": "Conqueror's",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-10",
+   "bo": "སྐུ",
+   "dm": "body",
+   "gm": "body",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-11",
+   "bo": "འགྲོ་བ",
+   "dm": "beings",
+   "gm": "beings",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-11",
+   "bo": "དེད་དཔོན",
+   "dm": "Guide",
+   "gm": "captain",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-12",
+   "bo": "འབྲས་བུ",
+   "dm": "fruit",
+   "gm": "fruit",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-16",
+   "bo": "མཁས་པ",
+   "dm": "wise",
+   "gm": "wise",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-17",
+   "bo": "འཁོར",
+   "dm": "cyclic existence",
+   "gm": "cyclic existence",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-17",
+   "bo": "འབྲས་བུ",
+   "dm": "fruits",
+   "gm": "fruits",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-18",
+   "bo": "སེམས་ཅན",
+   "dm": "sentient beings",
+   "gm": "beings",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-18",
+   "bo": "ཁམས",
+   "dm": "realms",
+   "gm": "realms",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-18",
+   "bo": "མི་ལྡོག་པ",
+   "dm": "irreversible",
+   "gm": "does not turn back",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-19",
+   "bo": "བག་མེད",
+   "dm": "heedless",
+   "gm": "inattentive",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-20",
+   "bo": "ཞུས་པ",
+   "dm": "Requested",
+   "gm": "Questions",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-20",
+   "bo": "སེམས་ཅན",
+   "dm": "beings",
+   "gm": "beings",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-24",
+   "bo": "སེམས་ཅན",
+   "dm": "beings",
+   "gm": "sentient beings",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-26",
+   "bo": "སྡུག་བསྔལ",
+   "dm": "suffering",
+   "gm": "suffering",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-32",
+   "bo": "འགྲོ་བ",
+   "dm": "beings",
+   "gm": "beings",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-32",
+   "bo": "དགེ་བ",
+   "dm": "virtue",
+   "gm": "virtue",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-33",
+   "bo": "བདེ་བ",
+   "dm": "bliss",
+   "gm": "bliss",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-35",
+   "bo": "འབྲས་བུ",
+   "dm": "fruit",
+   "gm": "fruit",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-36",
+   "bo": "སྐྱབས",
+   "dm": "refuge",
+   "gm": "refuge",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-36",
+   "bo": "བདེ་བ",
+   "dm": "happiness",
+   "gm": "happiness",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "1-a",
+   "bo": "ཕན་ཡོན",
+   "dm": "Benefits",
+   "gm": "Benefits",
+   "reason": "missing technical term"
+  },
+  {
+   "id": "2-25",
+   "bo": "བརྟུལ་ཞུགས",
+   "dm": "ascetic discipline",
+   "gm": "practitioners",
+   "reason": "Technical term for an ascetic practice or vow."
+  },
+  {
+   "id": "2-51",
+   "bo": "མགོན",
+   "dm": "protectors",
+   "gm": "protectors",
+   "reason": "epithet"
+  },
+  {
+   "id": "2-51",
+   "bo": "སྐྱབས",
+   "dm": "refuge",
+   "gm": "refuge",
+   "reason": "Buddhist concept"
+  },
+  {
+   "id": "2-56",
+   "bo": "ཐམས་ཅད་མཁྱེན",
+   "dm": "Omniscient",
+   "gm": "omniscient",
+   "reason": "epithet of a Buddha"
+  },
+  {
+   "id": "3-11",
+   "bo": "མྱ་ངན་འདས་པ",
+   "dm": "transcendence",
+   "gm": "nirvana",
+   "reason": "Buddhist technical term"
+  },
+  {
+   "id": "4-12",
+   "bo": "བརྩོན་པ",
+   "dm": "effort",
+   "gm": "effort",
+   "reason": "Technical term naming one of the six perfections (vīrya)."
+  },
+  {
+   "id": "4-25",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "Buddhist technical term (mind)."
+  },
+  {
+   "id": "4-25",
+   "bo": "འགྱོད་པ",
+   "dm": "remorse",
+   "gm": "regret",
+   "reason": "Buddhist technical term (remorse/regret, a mental factor)."
+  },
+  {
+   "id": "4-27",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "Buddhist technical term (mind)."
+  },
+  {
+   "id": "4-29",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "Buddhist technical term (mind)."
+  },
+  {
+   "id": "4-33",
+   "bo": "སྡུག་བསྔལ",
+   "dm": "suffering",
+   "gm": "suffering",
+   "reason": "Buddhist technical term (suffering)."
+  },
+  {
+   "id": "4-37",
+   "bo": "སྡུག་བསྔལ",
+   "dm": "pain",
+   "gm": "suffering",
+   "reason": "Buddhist technical term (suffering/pain)."
+  },
+  {
+   "id": "4-47",
+   "bo": "ཡུལ",
+   "dm": "sense objects",
+   "gm": "objects",
+   "reason": "Buddhist technical term (sense objects)."
+  },
+  {
+   "id": "4-a",
+   "bo": "བག་ཡོད",
+   "dm": "heedfulness",
+   "gm": "conscientiousness",
+   "reason": "Buddhist technical term (conscientiousness/heedfulness)."
+  },
+  {
+   "id": "5-2",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "independent part of a fixed compound"
+  },
+  {
+   "id": "5-3",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "independent part of a fixed compound"
+  },
+  {
+   "id": "5-4",
+   "bo": "སེམས་ཅན་དམྱལ་བ",
+   "dm": "hell realms",
+   "gm": "hells for sentient beings",
+   "reason": "Buddhist term for the hells"
+  },
+  {
+   "id": "5-9",
+   "bo": "འགྲོ་བ",
+   "dm": "world's",
+   "gm": "wandering beings",
+   "reason": "Buddhist term for transmigrating beings"
+  },
+  {
+   "id": "5-9",
+   "bo": "སྦྱིན་པ",
+   "dm": "generosity",
+   "gm": "generosity",
+   "reason": "independent part of a fixed compound"
+  },
+  {
+   "id": "5-10",
+   "bo": "བཏང་སེམས",
+   "dm": "mind Of relinquishing",
+   "gm": "mind giving",
+   "reason": "doctrinal concept (mind of relinquishing)"
+  },
+  {
+   "id": "5-10",
+   "bo": "སྦྱིན་པ",
+   "dm": "generosity",
+   "gm": "generosity",
+   "reason": "independent part of a fixed compound"
+  },
+  {
+   "id": "5-11",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "independent part of a fixed compound"
+  },
+  {
+   "id": "5-12",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "independent part of a fixed compound"
+  },
+  {
+   "id": "5-14",
+   "bo": "དངོས་པོ",
+   "dm": "phenomena",
+   "gm": "phenomena",
+   "reason": "independent part of a fixed compound"
+  },
+  {
+   "id": "5-15",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "independent part of a fixed compound"
+  },
+  {
+   "id": "5-15",
+   "bo": "འབྲས་བུ",
+   "dm": "result",
+   "gm": "result",
+   "reason": "doctrinal concept (result/fruit)"
+  },
+  {
+   "id": "5-16",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "doctrinal concept"
+  },
+  {
+   "id": "5-16",
+   "bo": "དེ་ཉིད",
+   "dm": "Reality",
+   "gm": "Reality",
+   "reason": "independent part of a fixed compound"
+  },
+  {
+   "id": "5-17",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "independent part of a fixed compound"
+  },
+  {
+   "id": "5-19",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "independent part of a fixed compound"
+  },
+  {
+   "id": "5-20",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "independent part of a fixed compound"
+  },
+  {
+   "id": "5-20",
+   "bo": "སྡུག་བསྔལ",
+   "dm": "pain",
+   "gm": "suffering",
+   "reason": "doctrinal concept"
+  },
+  {
+   "id": "5-21",
+   "bo": "སྡོམ་བརྩོན",
+   "dm": "practitioner of discipline",
+   "gm": "observer of vows",
+   "reason": "epithet/technical descriptor of a practitioner"
+  },
+  {
+   "id": "5-29",
+   "bo": "ཡིད",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "independent part of a fixed compound"
+  },
+  {
+   "id": "5-33",
+   "bo": "ཡིད",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "independent part of a fixed compound"
+  },
+  {
+   "id": "5-34",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "doctrinal concept"
+  },
+  {
+   "id": "5-35",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "doctrinal concept"
+  },
+  {
+   "id": "5-41",
+   "bo": "སྐད་ཅིག",
+   "dm": "moment",
+   "gm": "moment",
+   "reason": "Technical measure of time"
+  },
+  {
+   "id": "5-47",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "Buddhist technical term"
+  },
+  {
+   "id": "5-48",
+   "bo": "ཡིད",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "Buddhist technical term"
+  },
+  {
+   "id": "5-48",
+   "bo": "ཁྲོ་བ",
+   "dm": "angry",
+   "gm": "angry",
+   "reason": "Buddhist technical term (affliction)"
+  },
+  {
+   "id": "5-48",
+   "bo": "ཤིང་བཞིན",
+   "dm": "like a log of wood",
+   "gm": "like a piece of wood",
+   "reason": "Recurring fixed image"
+  },
+  {
+   "id": "5-50",
+   "bo": "ཤིང་བཞིན",
+   "dm": "like a log of wood",
+   "gm": "like a piece of wood",
+   "reason": "Recurring fixed image"
+  },
+  {
+   "id": "5-51",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "Buddhist technical term"
+  },
+  {
+   "id": "5-51",
+   "bo": "ཤིང་བཞིན",
+   "dm": "like a log of wood",
+   "gm": "like a piece of wood",
+   "reason": "Recurring fixed image"
+  },
+  {
+   "id": "5-52",
+   "bo": "སེམས",
+   "dm": null,
+   "gm": "mind",
+   "reason": "Buddhist technical term"
+  },
+  {
+   "id": "5-52",
+   "bo": "ཤིང་བཞིན",
+   "dm": "like a log of wood",
+   "gm": "like a piece of wood",
+   "reason": "Recurring fixed image"
+  },
+  {
+   "id": "5-53",
+   "bo": "སེམས",
+   "dm": null,
+   "gm": "mind",
+   "reason": "Buddhist technical term"
+  },
+  {
+   "id": "5-53",
+   "bo": "ཤིང་བཞིན",
+   "dm": "like a log of wood",
+   "gm": "like a piece of wood",
+   "reason": "Recurring fixed image"
+  },
+  {
+   "id": "5-54",
+   "bo": "ཡིད",
+   "dm": null,
+   "gm": "mind",
+   "reason": "Buddhist technical term"
+  },
+  {
+   "id": "5-56",
+   "bo": "སེམས",
+   "dm": null,
+   "gm": "mind",
+   "reason": "Buddhist technical term"
+  },
+  {
+   "id": "5-57",
+   "bo": "ཡིད",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "Buddhist technical term"
+  },
+  {
+   "id": "5-57",
+   "bo": "ང",
+   "dm": "self",
+   "gm": "I",
+   "reason": "Buddhist technical term (self)"
+  },
+  {
+   "id": "5-58",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "Buddhist technical term"
+  },
+  {
+   "id": "5-59",
+   "bo": "ཡིད",
+   "dm": "mind",
+   "gm": "Mind",
+   "reason": "Buddhist technical term"
+  },
+  {
+   "id": "5-60",
+   "bo": "ཡིད",
+   "dm": "mind",
+   "gm": "Mind",
+   "reason": "Buddhist technical term"
+  },
+  {
+   "id": "5-61",
+   "bo": "ཡིད",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "Buddhist technical term"
+  },
+  {
+   "id": "5-61",
+   "bo": "མི་གཙང་",
+   "dm": "impurities",
+   "gm": "impurities",
+   "reason": "Buddhist technical term (impurity/foulness)"
+  },
+  {
+   "id": "5-61",
+   "bo": "རྨོངས་པ",
+   "dm": "deluded",
+   "gm": "Deluded",
+   "reason": "Buddhist technical term (delusion)"
+  },
+  {
+   "id": "5-62",
+   "bo": "བློ",
+   "dm": "intellect",
+   "gm": "intellect",
+   "reason": "Buddhist technical term"
+  },
+  {
+   "id": "5-65",
+   "bo": "མི་གཙང་",
+   "dm": "impurities",
+   "gm": "Impurities",
+   "reason": "Buddhist technical term (impurity/foulness)"
+  },
+  {
+   "id": "5-81",
+   "bo": "སྡུག་བསྔལ",
+   "dm": "suffering",
+   "gm": "suffering",
+   "reason": "Buddhist concept (suffering)"
+  },
+  {
+   "id": "5-86",
+   "bo": "ཆོས",
+   "dm": "Dharma",
+   "gm": "Dharma",
+   "reason": "Constituent term"
+  },
+  {
+   "id": "5-97",
+   "bo": "བྱང་ཆུབ",
+   "dm": null,
+   "gm": null,
+   "reason": "Constituent of Bodhisattva"
+  },
+  {
+   "id": "5-98",
+   "bo": "བྱང་ཆུབ",
+   "dm": "awakening",
+   "gm": "awakening",
+   "reason": "Constituent of spirit of awakening / Bodhicitta"
+  },
+  {
+   "id": "5-100",
+   "bo": "བསླབ་པ",
+   "dm": "learn",
+   "gm": "trained",
+   "reason": "Buddhist training / practice"
+  },
+  {
+   "id": "5-102",
+   "bo": "བྱང་ཆུབ",
+   "dm": null,
+   "gm": null,
+   "reason": "Constituent of Bodhisattva"
+  },
+  {
+   "id": "5-106",
+   "bo": "མདོ",
+   "dm": "Sūtras",
+   "gm": null,
+   "reason": "Constituent of Compendium of Sutras"
+  },
+  {
+   "id": "5-106",
+   "bo": "འཕགས་པ",
+   "dm": "noble",
+   "gm": "Noble",
+   "reason": "Constituent of noble Nagarjuna"
+  },
+  {
+   "id": "5-a",
+   "bo": "བྱང་ཆུབ",
+   "dm": null,
+   "gm": null,
+   "reason": "Constituent of Bodhisattva"
+  },
+  {
+   "id": "6-3",
+   "bo": "ཡིད",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "Buddhist concept"
+  },
+  {
+   "id": "6-9",
+   "bo": "ཡིད",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "Buddhist concept"
+  },
+  {
+   "id": "6-12",
+   "bo": "བདེ་བ",
+   "dm": "happiness",
+   "gm": "happiness",
+   "reason": "Buddhist concept"
+  },
+  {
+   "id": "6-12",
+   "bo": "སྡུག་བསྔལ",
+   "dm": "suffering",
+   "gm": "suffering",
+   "reason": "Buddhist concept"
+  },
+  {
+   "id": "6-12",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "Buddhist concept"
+  },
+  {
+   "id": "6-21",
+   "bo": "ཡོན་ཏན",
+   "dm": "qualities",
+   "gm": "quality",
+   "reason": "Buddhist concept"
+  },
+  {
+   "id": "6-35",
+   "bo": "ཟས་གཅོད",
+   "dm": "fasting",
+   "gm": "starve themselves",
+   "reason": "Buddhist technical practice (fasting)"
+  },
+  {
+   "id": "6-39",
+   "bo": "རང་བཞིན",
+   "dm": "nature",
+   "gm": "nature",
+   "reason": "Doctrinal concept (nature, svabhāva/prakṛti)"
+  },
+  {
+   "id": "6-40",
+   "bo": "རང་བཞིན",
+   "dm": "nature",
+   "gm": "nature",
+   "reason": "Doctrinal concept (nature, svabhāva/prakṛti)"
+  },
+  {
+   "id": "6-43",
+   "bo": "རྒྱུ",
+   "dm": "causes",
+   "gm": "causes",
+   "reason": "Technical concept (cause, hetu)"
+  },
+  {
+   "id": "6-44",
+   "bo": "སྡུག་བསྔལ",
+   "dm": null,
+   "gm": null,
+   "reason": "Technical term (suffering)"
+  },
+  {
+   "id": "6-45",
+   "bo": "རྒྱུ",
+   "dm": "causes",
+   "gm": "causes",
+   "reason": "Technical concept (cause, hetu)"
+  },
+  {
+   "id": "6-46",
+   "bo": "དམྱལ་བ",
+   "dm": "hell",
+   "gm": "hell",
+   "reason": "Part of a listed compound, independently a term (hell)"
+  },
+  {
+   "id": "6-49",
+   "bo": "ཕྱིན་ཅི་ལོག",
+   "dm": "perversely",
+   "gm": "perversely",
+   "reason": "Doctrinal concept (perversely/erroneous)"
+  },
+  {
+   "id": "6-49",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "Technical term (mind)"
+  },
+  {
+   "id": "6-50",
+   "bo": "བསམ་པ",
+   "dm": "intention",
+   "gm": "intention",
+   "reason": "Technical term (intention)"
+  },
+  {
+   "id": "6-52",
+   "bo": "ལུས་ཅན",
+   "dm": "physical entity",
+   "gm": null,
+   "reason": "Technical term (embodied/physical entity)"
+  },
+  {
+   "id": "6-53",
+   "bo": "ཚིག་རྩུབ",
+   "dm": "harsh speech",
+   "gm": "harsh words",
+   "reason": "Specific non-virtue (harsh speech)"
+  },
+  {
+   "id": "6-55",
+   "bo": "བར་ཆད",
+   "dm": "obstacles",
+   "gm": "hinders",
+   "reason": "Technical term (obstacle/hindrance)"
+  },
+  {
+   "id": "6-56",
+   "bo": "སྡུག་བསྔལ",
+   "dm": "suffering",
+   "gm": "suffering",
+   "reason": "Part of a listed compound, independently a term (suffering)"
+  },
+  {
+   "id": "6-57",
+   "bo": "བདེ",
+   "dm": "happiness",
+   "gm": "happiness",
+   "reason": "Doctrinal concept (happiness/sukha)"
+  },
+  {
+   "id": "6-58",
+   "bo": "བདེ་བ",
+   "dm": "happiness",
+   "gm": "happiness",
+   "reason": "Doctrinal concept (happiness/sukha)"
+  },
+  {
+   "id": "6-58",
+   "bo": "འཆི་བ",
+   "dm": "death",
+   "gm": "death",
+   "reason": "Technical term (death)"
+  },
+  {
+   "id": "6-59",
+   "bo": "བདེ",
+   "dm": "happiness",
+   "gm": "happiness",
+   "reason": "Doctrinal concept (happiness/sukha)"
+  },
+  {
+   "id": "6-63",
+   "bo": "བཟོད",
+   "dm": "tolerate",
+   "gm": "tolerate",
+   "reason": "Buddhist virtue (tolerate/patience)"
+  },
+  {
+   "id": "6-66",
+   "bo": "སེམས",
+   "dm": null,
+   "gm": null,
+   "reason": "Part of listed compounds, independently a term (mind)"
+  },
+  {
+   "id": "6-81",
+   "bo": "བསྙེན་བཀུར",
+   "dm": "honor and respect",
+   "gm": "respect",
+   "reason": "Standard Buddhist term for material honor, service or respect (satkāra)."
+  },
+  {
+   "id": "7-2",
+   "bo": "ངན་ལ་ཞེན་པ",
+   "dm": "attachment to what is base",
+   "gm": "clinging to what is bad",
+   "reason": "Specific technical type of laziness"
+  },
+  {
+   "id": "7-11",
+   "bo": "སྡིག",
+   "dm": "sinful deeds",
+   "gm": "evils",
+   "reason": "Buddhist technical term"
+  },
+  {
+   "id": "7-12",
+   "bo": "ལས",
+   "dm": "actions",
+   "gm": "deeds",
+   "reason": "Buddhist technical term"
+  },
+  {
+   "id": "7-42",
+   "bo": "ཡིད",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "Buddhist technical term"
+  },
+  {
+   "id": "7-43",
+   "bo": "བདེ",
+   "dm": "happiness",
+   "gm": "happiness",
+   "reason": "Buddhist technical concept"
+  },
+  {
+   "id": "7-44",
+   "bo": "དགེ་བ",
+   "dm": "virtue",
+   "gm": "wholesome deeds",
+   "reason": "Buddhist technical concept"
+  },
+  {
+   "id": "7-53",
+   "bo": "རྩོལ་བ",
+   "dm": "effort",
+   "gm": "effort",
+   "reason": "Buddhist technical term"
+  },
+  {
+   "id": "7-54",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "Buddhist technical term"
+  },
+  {
+   "id": "7-55",
+   "bo": "སྲས",
+   "dm": "son",
+   "gm": "son",
+   "reason": "Epithet component for Bodhisattvas"
+  },
+  {
+   "id": "7-59",
+   "bo": "འགྲོ",
+   "dm": "beings",
+   "gm": "beings",
+   "reason": "Buddhist technical term"
+  },
+  {
+   "id": "7-63",
+   "bo": "བདེ་བ",
+   "dm": "happiness",
+   "gm": "happiness",
+   "reason": "Buddhist technical concept"
+  },
+  {
+   "id": "7-64",
+   "bo": "བདེ",
+   "dm": "happiness",
+   "gm": "happiness",
+   "reason": "Buddhist technical concept"
+  },
+  {
+   "id": "7-64",
+   "bo": "ཞི་བ",
+   "dm": "peace",
+   "gm": "peace",
+   "reason": "Buddhist technical concept"
+  },
+  {
+   "id": "7-69",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "Buddhist technical term"
+  },
+  {
+   "id": "8-6",
+   "bo": "ཡིད",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "Buddhist technical term for mind (manas)."
+  },
+  {
+   "id": "8-7",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "Part of the compound term སྐྱོ་བའི་སེམས, and a technical term on its own (citta)."
+  },
+  {
+   "id": "8-11",
+   "bo": "ཁྲོ་བ",
+   "dm": "angry",
+   "gm": "angry",
+   "reason": "Buddhist technical term for anger (krodha), a mental affliction."
+  },
+  {
+   "id": "8-13",
+   "bo": "གཞན་ལ་སྨོད་པ",
+   "dm": "disparagement of others",
+   "gm": "disparaging others",
+   "reason": "Buddhist technical concept often paired with self-praise (ātmotkarṣa-parāvajñāna)."
+  },
+  {
+   "id": "8-14",
+   "bo": "དོན",
+   "dm": "purpose",
+   "gm": "benefit",
+   "reason": "A significant concept meaning purpose, aim, or benefit (artha)."
+  },
+  {
+   "id": "8-19",
+   "bo": "འཇིགས་པ",
+   "dm": "fear",
+   "gm": "fear",
+   "reason": "Concept of fear (bhaya)."
+  },
+  {
+   "id": "8-21",
+   "bo": "བསྟོད་པ",
+   "dm": "praise",
+   "gm": "praise",
+   "reason": "Concept of praise, part of the eight worldly concerns."
+  },
+  {
+   "id": "8-21",
+   "bo": "སྨོད་པ",
+   "dm": "disparage",
+   "gm": "disparage",
+   "reason": "Concept of disparagement or blame, part of the eight worldly concerns."
+  },
+  {
+   "id": "8-28",
+   "bo": "ལུས",
+   "dm": "body",
+   "gm": "body",
+   "reason": "Buddhist concept of body (kāya)."
+  },
+  {
+   "id": "8-29",
+   "bo": "ལུས",
+   "dm": "body",
+   "gm": "body",
+   "reason": "Buddhist concept of body (kāya)."
+  },
+  {
+   "id": "8-30",
+   "bo": "ལུས",
+   "dm": "body",
+   "gm": "body",
+   "reason": "Buddhist concept of body (kāya)."
+  },
+  {
+   "id": "8-31",
+   "bo": "ལུས",
+   "dm": "body",
+   "gm": "body",
+   "reason": "Buddhist concept of body (kāya)."
+  },
+  {
+   "id": "8-33",
+   "bo": "སྲིད་པ",
+   "dm": "existence",
+   "gm": "existence",
+   "reason": "Part of the compound term སྲིད་པའི་ལམ, and a technical term on its own (bhava)."
+  },
+  {
+   "id": "8-34",
+   "bo": "འཇིག་རྟེན",
+   "dm": "world",
+   "gm": "world",
+   "reason": "Buddhist concept of the world (loka)."
+  },
+  {
+   "id": "8-35",
+   "bo": "ལུས",
+   "dm": "body",
+   "gm": "body",
+   "reason": "Buddhist concept of body (kāya)."
+  },
+  {
+   "id": "8-79",
+   "bo": "འདོད་ལྡན",
+   "dm": "possessed by desire",
+   "gm": "with desires",
+   "reason": "recurrent technical epithet"
+  },
+  {
+   "id": "8-86",
+   "bo": "སྡུག་བསྔལ",
+   "dm": "suffering",
+   "gm": "suffering",
+   "reason": "Buddhist technical term"
+  },
+  {
+   "id": "8-106",
+   "bo": "སྡུག་བསྔལ",
+   "dm": "suffering",
+   "gm": "suffering",
+   "reason": "Buddhist technical term"
+  },
+  {
+   "id": "8-110",
+   "bo": "དངོས་པོ་མེད",
+   "dm": null,
+   "gm": "lack any entity",
+   "reason": "Buddhist technical term (abhāva)"
+  },
+  {
+   "id": "8-113",
+   "bo": "ལུས་ཅན",
+   "dm": "embodied beings",
+   "gm": "embodied beings",
+   "reason": "Buddhist term for sentient beings (dehī)"
+  },
+  {
+   "id": "8-120",
+   "bo": "ཆགས་པ",
+   "dm": "attachment",
+   "gm": "attachment",
+   "reason": "Buddhist technical term (attachment)."
+  },
+  {
+   "id": "8-123",
+   "bo": "མཁས་པ",
+   "dm": "wise person",
+   "gm": "wise person",
+   "reason": "Common epithet for an adept/sage."
+  },
+  {
+   "id": "8-127",
+   "bo": "བདག་གི་དོན",
+   "dm": "one's own benefit",
+   "gm": "one's own purpose",
+   "reason": "Fixed doctrinal concept corresponding to self-welfare."
+  },
+  {
+   "id": "8-127",
+   "bo": "གཞན་གྱི་དོན",
+   "dm": "benefit of others",
+   "gm": "purpose of others",
+   "reason": "Fixed doctrinal concept corresponding to others' welfare."
+  },
+  {
+   "id": "8-129",
+   "bo": "རང་གི་དོན",
+   "dm": "their own sake",
+   "gm": "their own purpose",
+   "reason": "Fixed concept (self-purpose/welfare)."
+  },
+  {
+   "id": "8-129",
+   "bo": "གཞན་གྱི་དོན",
+   "dm": "sake of others",
+   "gm": "purpose of others",
+   "reason": "Fixed concept (others' purpose/welfare)."
+  },
+  {
+   "id": "8-132",
+   "bo": "རྨོངས་པ",
+   "dm": "deluded",
+   "gm": "foolish",
+   "reason": "Buddhist technical term (delusion/fool)."
+  },
+  {
+   "id": "8-137",
+   "bo": "རང་དོན",
+   "dm": "own ends",
+   "gm": "one's own purpose",
+   "reason": "Fixed concept (self-purpose)."
+  },
+  {
+   "id": "8-140",
+   "bo": "སྡུག་བསྔལ",
+   "dm": "suffering",
+   "gm": "suffering",
+   "reason": "Buddhist technical term."
+  },
+  {
+   "id": "8-141",
+   "bo": "བདེ་བ",
+   "dm": "state of ease",
+   "gm": "happiness",
+   "reason": "Buddhist technical term (happiness/ease)."
+  },
+  {
+   "id": "8-141",
+   "bo": "འཇིག་རྟེན",
+   "dm": "world",
+   "gm": "world",
+   "reason": "Buddhist technical term (the world)."
+  },
+  {
+   "id": "8-145",
+   "bo": "འགྲོ",
+   "dm": "beings",
+   "gm": "beings",
+   "reason": "Technical term for wandering beings."
+  },
+  {
+   "id": "8-145",
+   "bo": "མཁས་པ",
+   "dm": "wise",
+   "gm": "wise",
+   "reason": "Common epithet for the wise/adept."
+  },
+  {
+   "id": "8-147",
+   "bo": "འཇིག་རྟེན",
+   "dm": "world",
+   "gm": "world",
+   "reason": "Buddhist concept (world)."
+  },
+  {
+   "id": "8-156",
+   "bo": "བདེ",
+   "dm": "bliss",
+   "gm": "happiness",
+   "reason": "Core concept often tracked alongside suffering."
+  },
+  {
+   "id": "8-158",
+   "bo": "ལུས",
+   "dm": "body",
+   "gm": "body",
+   "reason": "Important term, tracked in other segments."
+  },
+  {
+   "id": "8-170",
+   "bo": "སེམས་ཅན",
+   "dm": "sentient beings",
+   "gm": "sentient beings",
+   "reason": "Core Buddhist term."
+  },
+  {
+   "id": "8-182",
+   "bo": "ལུས",
+   "dm": "body",
+   "gm": "body",
+   "reason": "Important term, tracked consistently in other segments."
+  },
+  {
+   "id": "9-4",
+   "bo": "བློ",
+   "dm": "intellect",
+   "gm": "intellect",
+   "reason": "Buddhist epistemological term."
+  },
+  {
+   "id": "9-11",
+   "bo": "སྒྱུ་མ",
+   "dm": "illusory",
+   "gm": "illusory",
+   "reason": "Core Buddhist concept, part of compounds here."
+  },
+  {
+   "id": "9-13",
+   "bo": "རྐྱེན",
+   "dm": "condition",
+   "gm": "condition",
+   "reason": "Core Buddhist term."
+  },
+  {
+   "id": "9-16",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "Core Buddhist term, part of sems nyid."
+  },
+  {
+   "id": "9-17",
+   "bo": "འཇིག་རྟེན",
+   "dm": "World",
+   "gm": "World",
+   "reason": "Buddhist term."
+  },
+  {
+   "id": "9-24",
+   "bo": "རྐྱེན",
+   "dm": "conditions",
+   "gm": "conditions",
+   "reason": "Buddhist term."
+  },
+  {
+   "id": "9-24",
+   "bo": "མིག་སྨན",
+   "dm": "eye-salve",
+   "gm": "eye-ointment",
+   "reason": "Standard epistemological metaphor."
+  },
+  {
+   "id": "9-28",
+   "bo": "དངོས",
+   "dm": "entity",
+   "gm": "entity",
+   "reason": "Core ontological term."
+  },
+  {
+   "id": "9-33",
+   "bo": "དངོས་པོ",
+   "dm": "substantial thing",
+   "gm": "entity",
+   "reason": "Buddhist ontological term."
+  },
+  {
+   "id": "9-34",
+   "bo": "དངོས",
+   "dm": "entities",
+   "gm": "entities",
+   "reason": "Buddhist ontological term."
+  },
+  {
+   "id": "9-38",
+   "bo": "སེམས",
+   "dm": "mind",
+   "gm": "mind",
+   "reason": "Core Buddhist term."
+  },
+  {
+   "id": "9-49",
+   "bo": "མདོ",
+   "dm": "sutras",
+   "gm": "sūtras",
+   "reason": "Part of a compound that is also a term on its own"
+  },
+  {
+   "id": "9-54",
+   "bo": "ཉོན་མོངས",
+   "dm": "afflictive",
+   "gm": "afflictions",
+   "reason": "Part of a compound that is also a term on its own"
+  },
+  {
+   "id": "9-54",
+   "bo": "ཤེས་བྱའི་སྒྲིབ་པ",
+   "dm": "cognitive obscurations",
+   "gm": "obscurations of ... knowables",
+   "reason": "Component of a compound term that is also a distinct term"
+  },
+  {
+   "id": "9-59",
+   "bo": "རྣམ་ཤེས",
+   "dm": "consciousnesses",
+   "gm": "consciousnesses",
+   "reason": "Part of a compound that is also a term on its own"
+  },
+  {
+   "id": "9-60",
+   "bo": "སྒྲ",
+   "dm": "sound",
+   "gm": "sound",
+   "reason": "Sensory object (sense base)"
+  },
+  {
+   "id": "9-62",
+   "bo": "སྒྲ",
+   "dm": "sound",
+   "gm": "sound",
+   "reason": "Sensory object (sense base)"
+  },
+  {
+   "id": "9-62",
+   "bo": "ཤེས་པ",
+   "dm": "consciousness",
+   "gm": "consciousness",
+   "reason": "Technical term"
+  },
+  {
+   "id": "9-63",
+   "bo": "སྒྲ",
+   "dm": "sound",
+   "gm": "sound",
+   "reason": "Sensory object (sense base)"
+  },
+  {
+   "id": "9-64",
+   "bo": "སྒྲ",
+   "dm": "sound",
+   "gm": "sound",
+   "reason": "Sensory object (sense base)"
+  },
+  {
+   "id": "9-64",
+   "bo": "རང་བཞིན",
+   "dm": "nature",
+   "gm": "nature",
+   "reason": "Technical term"
+  },
+  {
+   "id": "9-66",
+   "bo": "ཤེས",
+   "dm": "consciousness",
+   "gm": "consciousness",
+   "reason": "Technical term"
+  },
+  {
+   "id": "9-66",
+   "bo": "རང་བཞིན",
+   "dm": "nature",
+   "gm": "nature",
+   "reason": "Technical term"
+  },
+  {
+   "id": "9-70",
+   "bo": "ལས",
+   "dm": "action",
+   "gm": "actions",
+   "reason": "Part of a compound that is also a term on its own"
+  },
+  {
+   "id": "9-84",
+   "bo": "རྐྱེན",
+   "dm": "conditions",
+   "gm": "conditions",
+   "reason": "Part of a compound that is also a term on its own"
+  },
+  {
+   "id": "9-89",
+   "bo": "ཉམས་མྱོང",
+   "dm": "experience",
+   "gm": "experience",
+   "reason": "Experience is a key technical concept here."
+  },
+  {
+   "id": "9-90",
+   "bo": "ཕྲ་མོ",
+   "dm": "subtle state",
+   "gm": "subtle state",
+   "reason": "Subtle is a standard technical category."
+  },
+  {
+   "id": "9-90",
+   "bo": "རགས་པ",
+   "dm": "gross form",
+   "gm": "gross state",
+   "reason": "Gross is a standard technical category."
+  },
+  {
+   "id": "9-91",
+   "bo": "མངོན་ཞེན",
+   "dm": "stubborn conceptual attachment",
+   "gm": "conceptual clinging",
+   "reason": "Conceptual clinging is a technical term (abhinivesa)."
+  },
+  {
+   "id": "9-92",
+   "bo": "བསྒོམ",
+   "dm": "meditate",
+   "gm": "meditate",
+   "reason": "To meditate is a technical act/attainment."
+  },
+  {
+   "id": "9-111",
+   "bo": "ཤེས",
+   "dm": "consciousness",
+   "gm": "consciousness",
+   "reason": "The proper term for consciousness here."
+  },
+  {
+   "id": "9-112",
+   "bo": "ཤེས",
+   "dm": "consciousness",
+   "gm": "consciousness",
+   "reason": "The proper term for consciousness here."
+  },
+  {
+   "id": "9-114",
+   "bo": "མྱུ་གུ",
+   "dm": "sprout",
+   "gm": "sprout",
+   "reason": "Sprout is a recurring standard analogy used as a technical term."
+  },
+  {
+   "id": "9-114",
+   "bo": "ས་བོན",
+   "dm": "seed",
+   "gm": "seed",
+   "reason": "Seed is a recurring standard analogy used as a technical term."
+  },
+  {
+   "id": "9-115",
+   "bo": "མྱུ་གུ",
+   "dm": "sprout",
+   "gm": "sprout",
+   "reason": "Sprout is a recurring standard analogy used as a technical term."
+  },
+  {
+   "id": "9-115",
+   "bo": "ས་བོན",
+   "dm": "seed",
+   "gm": "seed",
+   "reason": "Seed is a recurring standard analogy used as a technical term."
+  },
+  {
+   "id": "9-119",
+   "bo": "ས",
+   "dm": "earth",
+   "gm": "earth",
+   "reason": "Earth is a standard element/term."
+  },
+  {
+   "id": "9-119",
+   "bo": "མི་གཙང་བ",
+   "dm": "impure",
+   "gm": "impure",
+   "reason": "Impure is a technical classification (asuci)."
+  },
+  {
+   "id": "9-120",
+   "bo": "བྱེད་པོ",
+   "dm": "creator",
+   "gm": "creator",
+   "reason": "Creator is a technical concept in this philosophical context."
+  },
+  {
+   "id": "9-121",
+   "bo": "ས",
+   "dm": "earth",
+   "gm": "earth",
+   "reason": "Earth is a standard element/term."
+  },
+  {
+   "id": "9-159",
+   "bo": "བྱིས",
+   "dm": "childish",
+   "gm": "fools",
+   "reason": "Refers to the childish or fools (bāla), a standard Buddhist category for spiritually immature ordinary beings."
+  },
+  {
+   "id": "10-10",
+   "bo": "ལྷ",
+   "dm": "celestial",
+   "gm": "gods",
+   "reason": "Class of beings"
+  },
+  {
+   "id": "10-13",
+   "bo": "བརྩེ་བ",
+   "dm": "compassionate",
+   "gm": "compassion",
+   "reason": "Important Buddhist concept"
+  },
+  {
+   "id": "10-14",
+   "bo": "ཐུགས་རྗེ",
+   "dm": "compassion",
+   "gm": "compassion",
+   "reason": "Important Buddhist concept"
+  },
+  {
+   "id": "10-14",
+   "bo": "ལྷ",
+   "dm": "gods",
+   "gm": "gods",
+   "reason": "Class of beings"
+  },
+  {
+   "id": "10-18",
+   "bo": "ལྷ་མོ",
+   "dm": "goddess",
+   "gm": "goddess",
+   "reason": "Part of compound that is a term on its own"
+  },
+  {
+   "id": "10-32",
+   "bo": "བདུད་ཀྱི་ལས",
+   "dm": "activities of Māra",
+   "gm": "actions of Māra",
+   "reason": "Fixed technical phrase (mārakarman)"
+  },
+  {
+   "id": "10-36",
+   "bo": "འཁོར",
+   "dm": "retinues",
+   "gm": "retinues",
+   "reason": "Buddhist technical term for assembly/retinue (pariṣad)"
+  },
+  {
+   "id": "10-36",
+   "bo": "དཀྱིལ་འཁོར",
+   "dm": "circles",
+   "gm": "circles",
+   "reason": "Buddhist technical term (maṇḍala)"
+  }
+ ]
+}

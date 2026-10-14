@@ -1,0 +1,121 @@
+{
+ "batch": "batch-22",
+ "segments": [
+  {
+   "id": "6-122",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-123",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-124",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-125",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-126",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-127",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-128",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-129",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-130",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-131",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-132",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-133",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-134",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "संसार के समय",
+     "evidence": "Tibetan འཁོར་ཚེ means 'while revolving/abiding in saṃsāra' (Sanskrit saṃsaran; bo-kunpal 6-134 'འཁྱོར་པར་གནས་པའི་ཚེ'; bo-gyaltsab 'འཁོར་བར་འཁོར་བའི་ཚེ'). 'संसार के समय' reads as 'at the time of saṃsāra', which is unidiomatic and obscures the sense.",
+     "fix": "संसार में भ्रमण करते हुए"
+    }
+   ]
+  },
+  {
+   "id": "6-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-5",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "वह चाण्डाल और भैंसे के समान है",
+     "evidence": "Tibetan གདོལ་པ་དང་ནི་མ་ཧེ་བཞིན: the sleeper is likened to the buffalo (that sleeps on calmly while the outcaste butcher kills the herd one by one), not to the butcher as well. bo-gyaltsab 7-5: 'གདོལ་བས་རིམ་གྱིས་གསོད་པའི་མ་ཧེས་ ... སྐྲག་པ་མེད་ཅིང་དལ་བར་གནས་པ་གདོལ་བ་དང་ནི་མ་ཧེ་བཞིན'; bo-shenga: 'གདོལ་པ་དང་ནི་བསད་པར་བྱ་བའི་མ་ཧེ་བཞིན'; Sanskrit caṇḍālamahiṣo yathā. The Hindi 'चाण्डाल और भैंसे के समान' makes the addressee equal to both butcher and buffalo, and also shifts the addressee from 'you' (ཁྱོད) to third person 'वह'.",
+     "fix": "तुम निद्रा के आश्रित हो, चाण्डाल के हाथों मारे जाते भैंसे के समान"
+    }
+   ]
+  },
+  {
+   "id": "7-6",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

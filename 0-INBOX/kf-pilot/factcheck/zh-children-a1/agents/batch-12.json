@@ -1,0 +1,253 @@
+{
+ "batch": "batch-12",
+ "segments": [
+  {
+   "id": "7-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-8",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "我可能會想：「這個還沒做，那個剛開始，還有一個只做了一半。」就在這個時候，死主突然出現，我一定會驚慌地想",
+     "evidence": "The academic text has death arriving suddenly first, and then the speaker thinking 'this is undone, this began, this half-done... Alas, I am ruined!'; the children's text hedges ('maybe think') then says 'certainly panic', and makes the unfinished-work thought precede death's arrival.",
+     "fix": "死主突然來的時候，我會驚慌地想：「糟了！我完蛋了！」因為這個還沒做，那個剛開始，還有一個只做了一半。"
+    }
+   ]
+  },
+  {
+   "id": "7-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-11",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "遇到危險時，都會像在地上翻滾的活魚一樣害怕",
+     "evidence": "The academic text says only that even in this life you would feel fear like a flopping live fish; 'when meeting danger' and 'on the ground' are not stated.",
+     "fix": "如果你在這輩子就會害怕得像一條翻滾的活魚。"
+    }
+   ]
+  },
+  {
+   "id": "7-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "不管是蒼蠅、蚊子或蜜蜂，還是各種小蟲子。如果牠們",
+     "evidence": "The first clause has no predicate and the full stop splits one conditional sentence; the academic text is a single conditional sentence.",
+     "fix": "不管是蒼蠅、蚊子、蜜蜂，還是各種小蟲子，如果牠們生起歡喜努力的力量，也能得到極難得到的最高覺悟。"
+    }
+   ]
+  },
+  {
+   "id": "7-19",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "既然能分得清楚好處和壞處。只要我不放棄",
+     "evidence": "A dependent 'since...' clause is cut off by a full stop, leaving an ungrammatical fragment; the academic text is one sentence 'since able to tell benefit from harm, if I do not abandon...'.",
+     "fix": "像我這樣生下來就是人類，又能分得清楚好處和壞處，如果我不放棄為覺悟而行的方式，我為什麼不能得到覺悟呢？"
+    }
+   ]
+  },
+  {
+   "id": "7-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-38",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "如果我不能給予害怕的人沒有恐懼",
+     "evidence": "The Tibetan/academic text says 'if I have not given' fearlessness and happiness (past, not given); '不能給予' shifts it to inability, and the locked-term phrase is awkward for children.",
+     "fix": "如果我沒有讓害怕的人變得不再恐懼，也沒有帶給受苦的人快樂，"
+    }
+   ]
+  },
+  {
+   "id": "7-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-46",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "我們應該相信好事",
+     "evidence": "The academic text says generate 'faith/aspiration' (mos) toward virtue; elsewhere in the chapter mos is rendered as a strong wish. '相信好事' is imprecise.",
+     "fix": "所以，我們應該對好事生起強烈的願望，並且用恭敬的心來練習。"
+    }
+   ]
+  }
+ ]
+}

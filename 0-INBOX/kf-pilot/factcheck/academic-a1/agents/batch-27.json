@@ -1,0 +1,113 @@
+{
+ "batch": "batch-27",
+ "segments": [
+  {
+   "id": "8-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-30",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "Will become exactly like that.",
+     "evidence": "Tibetan དེ་ལྟ་བུར་ནི་འགྱུར་བར་འོང་ ('will come to become such'); the relative clause གང་གི་དྲི་ཡིས་... (by whose stench even jackals will not approach) qualifies the state the body will reach (bo-kunpal 8-30: ལུས་གང་གི་དྲིང་བ་... ཝ་... དྲུང་དུ་ཉེར་འགྲོ་མི་འགྱུར་བ་). The English leaves 'like that' without a clear antecedent, and 'exactly' has no counterpart in the Tibetan.",
+     "fix": "Will come to be such that, by its stench, even foxes will not come near."
+    }
+   ]
+  }
+ ]
+}

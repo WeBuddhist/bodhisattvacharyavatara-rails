@@ -1,0 +1,146 @@
+{
+ "1-8": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "बोधिचित्त का कभी त्याग न करें",
+  "new": "बोधिचित्त का त्याग करें"
+ },
+ "1-31": {
+  "planted": false
+ },
+ "2-5": {
+  "planted": true,
+  "kind": "mistranslation",
+  "severity": "major",
+  "old": "हंसों",
+  "new": "मोरों"
+ },
+ "2-41": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "तो मैंने उसका भी आश्रय नहीं लिया",
+  "new": "तो मैंने उसका भी आश्रय लिया"
+ },
+ "3-5": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "अंधा न छोड़कर",
+  "new": "अंधा छोड़कर"
+ },
+ "3-18": {
+  "planted": false
+ },
+ "4-19": {
+  "planted": true,
+  "kind": "number",
+  "severity": "major",
+  "old": "सौ करोड़ कल्पों",
+  "new": "एक लाख कल्पों"
+ },
+ "4-28": {
+  "planted": true,
+  "kind": "omission",
+  "severity": "major",
+  "old": ", तृष्णा",
+  "new": ""
+ },
+ "5-57": {
+  "planted": false
+ },
+ "5-83": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "बड़े का त्याग न करे",
+  "new": "बड़े का त्याग करे"
+ },
+ "5-96": {
+  "planted": true,
+  "kind": "terminology",
+  "severity": "major",
+  "old": "सम्प्रजन्य",
+  "new": "सतर्कता"
+ },
+ "6-1": {
+  "planted": true,
+  "kind": "number",
+  "severity": "major",
+  "old": "सहस्र कल्पों",
+  "new": "दस कल्पों"
+ },
+ "6-121": {
+  "planted": false
+ },
+ "6-128": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "हानि नहीं पहुँचाते हैं",
+  "new": "हानि पहुँचाते हैं"
+ },
+ "7-14": {
+  "planted": true,
+  "kind": "mistranslation",
+  "severity": "major",
+  "old": "मनुष्य की नौका",
+  "new": "देव की नौका"
+ },
+ "7-21": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "बोधि प्राप्त नहीं कर पाऊँगा",
+  "new": "बोधि प्राप्त कर पाऊँगा"
+ },
+ "8-4": {
+  "planted": true,
+  "kind": "terminology",
+  "severity": "major",
+  "old": "विपश्यना",
+  "new": "अन्तर्दृष्टि"
+ },
+ "8-32": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "यदि दुःख का भाग अन्य नहीं लेते",
+  "new": "यदि दुःख का भाग अन्य लेते"
+ },
+ "8-84": {
+  "planted": true,
+  "kind": "addition",
+  "severity": "major",
+  "old": "शान्त वनों के भीतर",
+  "new": "शान्त वनों और पर्वत-गुफाओं के भीतर"
+ },
+ "9-2": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "परमार्थ बुद्धि का विषय नहीं है",
+  "new": "परमार्थ बुद्धि का विषय है"
+ },
+ "9-7": {
+  "planted": false
+ },
+ "9-17": {
+  "planted": true,
+  "kind": "negation",
+  "severity": "critical",
+  "old": "चित्त से चित्त नहीं देखा जाता",
+  "new": "चित्त से चित्त देखा जाता है"
+ },
+ "10-51": {
+  "planted": true,
+  "kind": "name",
+  "severity": "major",
+  "old": "मञ्जुश्री",
+  "new": "अवलोकितेश्वर"
+ },
+ "10-55": {
+  "planted": false
+ }
+}

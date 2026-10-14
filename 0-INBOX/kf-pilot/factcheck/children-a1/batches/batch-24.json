@@ -1,0 +1,174 @@
+[
+ {
+  "id": "10-57",
+  "tibetan": "འགྲོ་བའི་སྡུག་བསྔལ་སྨན་གཅིག་པུ། ། བདེ་བ་ཐམས་ཅད་འབྱུང་བའི་གནས། ། བསྟན་པ་རྙེད་དང་བཀུར་སྟི་དང་། ། བཅས་ཏེ་ཡུན་རིང་གནས་གྱུར་ཅིག །",
+  "academic_translation": "The sole medicine for the suffering of wandering beings,\nThe source from which all happiness arises,\nMay the teaching, together with gain and honor,\nRemain for a long time.",
+  "locked_terms": [
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "བདེ་བ",
+    "use": "happiness"
+   },
+   {
+    "tibetan": "བསྟན་པ",
+    "use": "Buddha's teaching"
+   },
+   {
+    "tibetan": "རྙེད་དང་བཀུར་སྟི",
+    "use": "gain and respect"
+   }
+  ],
+  "translation": "The Buddha's teaching is the only medicine for the suffering of beings. It is the source of all happiness. May the Buddha's teaching remain for a long time, along with gain and respect."
+ },
+ {
+  "id": "10-58",
+  "tibetan": "གང་གི་དྲིན་གྱིས་དགེ་བློ་འབྱུང་། ། འཇམ་པའི་དབྱངས་ལ་ཕྱག་འཚལ་ལོ། ། གང་གི་དྲིན་གྱིས་བདག་དར་བ། ། དགེ་བའི་བཤེས་ལའང་བདག་ཕྱག་འཚལ། །",
+  "academic_translation": "Through whose kindness a virtuous intellect arises,\nI prostrate to Mañjuśrī.\nThrough whose kindness I have flourished,\nI also prostrate to the spiritual friend.",
+  "locked_terms": [
+   {
+    "tibetan": "དགེ་བློ",
+    "use": "good thinking mind"
+   },
+   {
+    "tibetan": "འཇམ་པའི་དབྱངས",
+    "use": "Manjushri"
+   },
+   {
+    "tibetan": "དགེ་བའི་བཤེས",
+    "use": "good friend"
+   }
+  ],
+  "translation": "A good thinking mind comes from his kindness. I bow down to Manjushri. I have grown because of his kindness. I also bow down to the good friend."
+ },
+ {
+  "id": "10-a",
+  "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ལས་བསྔོ་བ་ཞེས་བྱ་བ་སྟེ་ལེའུ་བཅུ་པའོ།། །།",
+  "academic_translation": "The tenth chapter, called Dedication, from Entering the Way of the Bodhisattva.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ",
+    "use": "Entering the Way of the Awakening Hero"
+   },
+   {
+    "tibetan": "བསྔོ་བ",
+    "use": "sharing the goodness"
+   }
+  ],
+  "translation": "The tenth chapter, called sharing the goodness, from Entering the Way of the Awakening Hero."
+ },
+ {
+  "id": "a-1",
+  "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་སློབ་དཔོན་ཤནྟ་དེ་བས་མཛད་པ་རྫོགས་སོ།། །།",
+  "academic_translation": "Entering the Way of the Bodhisattva, composed by the master Śāntideva, is complete.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ",
+    "use": "Entering the Way of the Awakening Hero"
+   },
+   {
+    "tibetan": "སློབ་དཔོན",
+    "use": "teacher"
+   },
+   {
+    "tibetan": "ཤནྟ་དེ་བ",
+    "use": "Shantideva"
+   }
+  ],
+  "translation": "Entering the Way of the Awakening Hero, written by the teacher Shantideva, is now complete."
+ },
+ {
+  "id": "b-1",
+  "tibetan": "རྒྱ་གར་གྱི་མཁན་པོ་སརྦ་ཛྙཱ་དེ་བ་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ་བནྡེ་དཔལ་བརྩེགས་ཀྱིས་ཁ་ཆེའི་དཔེ་ལས་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ་ལས།",
+  "academic_translation": "After it was revised and finalized by the Indian preceptor Sarvajñādeva and the chief editor-translator Bande Paltsek, based on a manuscript from Kashmir,",
+  "locked_terms": [
+   {
+    "tibetan": "མཁན་པོ",
+    "use": "teacher who ordained me"
+   },
+   {
+    "tibetan": "སརྦ་ཛྙཱ་དེ་བ",
+    "use": "Sarvajnadeva"
+   },
+   {
+    "tibetan": "ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ",
+    "use": "chief editor-translator"
+   },
+   {
+    "tibetan": "བནྡེ་དཔལ་བརྩེགས",
+    "use": "Bande Paltsek"
+   },
+   {
+    "tibetan": "ཁ་ཆེ",
+    "use": "Kashmir"
+   }
+  ],
+  "translation": "First, it was checked and finished by the Indian teacher who ordained me, Sarvajnadeva, and the chief editor-translator, Bande Paltsek. They used a copy from Kashmir."
+ },
+ {
+  "id": "b-2",
+  "tibetan": "སླད་ཀྱིས་རྒྱ་གར་གྱི་མཁན་པོ་དྷརྨ་ཤྲཱི་བྷ་དྲ་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ་བནྡེ་རིན་ཆེན་བཟང་པོ་དང་། ཤཱཀྱ་བློ་གྲོས་ཀྱིས་ཡུལ་དབུས་ཀྱི་དཔེ་དང་འགྲེལ་པ་དང་མཐུན་པར་བཅོས་ཤིང་བསྒྱུར་ཏེ་གཏན་ལ་ཕབ་པའོ། །",
+  "academic_translation": "later, it was corrected, translated, and finalized by the Indian preceptor Dharmaśrībhadra and the chief editor-translators Rinchen Zangpo and Śākya Lodrö, in accordance with a manuscript and commentary from the central region.",
+  "locked_terms": [
+   {
+    "tibetan": "མཁན་པོ",
+    "use": "teacher who ordained me"
+   },
+   {
+    "tibetan": "དྷརྨ་ཤྲཱི་བྷ་དྲ",
+    "use": "Dharmashribhadra"
+   },
+   {
+    "tibetan": "ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ",
+    "use": "chief editor-translator"
+   },
+   {
+    "tibetan": "བནྡེ་རིན་ཆེན་བཟང་པོ",
+    "use": "Rinchen Zangpo"
+   },
+   {
+    "tibetan": "ཤཱཀྱ་བློ་གྲོས",
+    "use": "Shakya Lodro"
+   },
+   {
+    "tibetan": "ཡུལ་དབུས",
+    "use": "central land"
+   }
+  ],
+  "translation": "Later, it was fixed, translated, and finished by the Indian teacher who ordained me, Dharmashribhadra, and the chief editor-translators Rinchen Zangpo and Shakya Lodro. They matched it to a copy and an explanation from the central land."
+ },
+ {
+  "id": "b-3",
+  "tibetan": "ཡང་དུས་ཕྱིས་རྒྱ་གར་གྱི་མཁན་པོ་སུ་མ་ཏི་ཀཱིརྟི་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ་དགེ་སློང་བློ་ལྡན་ཤེས་རབ་ཀྱིས་དག་པར་བཅོས་ཤིང་བསྒྱུར་ཏེ་ལེགས་པར་གཏན་ལ་ཕབ་པའོ།། །།",
+  "academic_translation": "Still later, it was correctly revised, translated, and excellently finalized by the Indian preceptor Sumatikirti and the chief editor-translator, the monk Loden Sherab.",
+  "locked_terms": [
+   {
+    "tibetan": "མཁན་པོ",
+    "use": "teacher who ordained me"
+   },
+   {
+    "tibetan": "སུ་མ་ཏི་ཀཱིརྟི",
+    "use": "Sumatikirti"
+   },
+   {
+    "tibetan": "ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ",
+    "use": "chief editor-translator"
+   },
+   {
+    "tibetan": "དགེ་སློང",
+    "use": "monk"
+   },
+   {
+    "tibetan": "བློ་ལྡན་ཤེས་རབ",
+    "use": "Loden Sherab"
+   }
+  ],
+  "translation": "Even later, it was carefully fixed, translated, and perfectly finished by the Indian teacher who ordained me, Sumatikirti, and the chief editor-translator, the monk Loden Sherab."
+ }
+]

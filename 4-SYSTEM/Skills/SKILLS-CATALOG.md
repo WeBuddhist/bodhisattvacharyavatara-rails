@@ -176,6 +176,14 @@ These skills populate `2-RAILS/` with the structured context that translation an
 
 ## Translation skills
 
+### `machine-translate` **[exists]**
+**Purpose:** Machine baseline of a block-ID'd source (Engine 1 Gemini, Engine 2 DharmaMitra), small batches of adjacent blocks, block IDs preserved. A baseline, never a governed track. Copied from `daimond-sutra-rails` on 2026-10-07 for the KF pilot.
+→ [`machine-translate/SKILL.md`](machine-translate/SKILL.md)
+
+### `keyword-extract` **[exists]**
+**Purpose:** Ranked keyword extraction (TF-IDF, YAKE) and the source-term registry. The KF pilot uses its scripts as a recall check on Claude's term extraction. Copied from `daimond-sutra-rails` on 2026-10-07.
+→ [`keyword-extract/SKILL.md`](keyword-extract/SKILL.md)
+
 ### `translate-section` **[planned]**
 **Purpose:** Translate a small batch of TOC nodes into the target language.
 **Inputs:** `requirements.md`, `termbase.md`, `audience.md` for the track; relevant section and verse packages from `2-RAILS/`; Local-Wiki articles as needed.

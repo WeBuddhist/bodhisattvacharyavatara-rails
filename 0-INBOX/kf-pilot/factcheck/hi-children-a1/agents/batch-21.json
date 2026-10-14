@@ -1,0 +1,261 @@
+{
+ "batch": "batch-21",
+ "segments": [
+  {
+   "id": "9-105",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "या अगर जागरूकता किसी जानने की चीज़ के बाद आए",
+     "evidence": "Tibetan/academic: if the knowable comes AFTER (the cognition), from what is cognition born? The children's text reverses the order (awareness comes after the object), which makes the question 'born from what?' pointless.",
+     "fix": "या अगर जानने की चीज़ जागरूकता के बाद आए, तो उस समय जागरूकता किससे पैदा होती है? इस तरह किसी भी दिखने वाली चीज़ का पैदा होना समझ नहीं आता।"
+    }
+   ]
+  },
+  {
+   "id": "9-106",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "किसी दूसरे रोज़ का सच पर टिका है",
+     "evidence": "Grammatical slip: postposition 'पर' requires 'के सच पर'; meaning (it also depends on another conventional truth) is intact.",
+     "fix": "अगर वह भी किसी दूसरे रोज़ के सच पर टिका है, तो जीवों को मुक्ति कैसे मिलेगी?"
+    }
+   ]
+  },
+  {
+   "id": "9-107",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-108",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "हर बात को बारीकी से जाँच करना सिखाया जाता है",
+     "evidence": "Ungrammatical object construction; academic: all analyses are stated in dependence on worldly renown.",
+     "fix": "दुनिया की जानी-मानी बातों के सहारे ही हर बात की बारीकी से जाँच करने की बात कही जाती है।"
+    }
+   ]
+  },
+  {
+   "id": "9-109",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-110",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "इसे ही शोक से मुक्ति कहा जाता है",
+     "evidence": "Academic: 'and THAT too (its non-arising) is called nirvana' (भी); the children's 'ही' makes it exclusive and loses 'also'.",
+     "fix": "आधार न होने से वह सोच पैदा नहीं होती, और इसे भी शोक से मुक्ति कहा जाता है।"
+    }
+   ]
+  },
+  {
+   "id": "9-111",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-112",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-113",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-114",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-115",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-116",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-117",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-118",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-119",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-120",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-121",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-122",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-123",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-124",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-125",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-126",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-127",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-128",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-129",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-130",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "तुम्हारा कारण भी सुख ही है",
+     "evidence": "Academic/Tibetan: your cause is pleasure 'etc.' (सुख आदि); 'आदि' is dropped.",
+     "fix": "तुम्हारा कारण भी सुख आदि ही है।"
+    }
+   ]
+  },
+  {
+   "id": "9-131",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-132",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "अगर सुख हमेशा मौजूद है",
+     "evidence": "Academic: 'if the manifestation (अभिव्यक्ति) of pleasure etc. exists'; 'हमेशा' is added and the manifest/clear aspect is lost.",
+     "fix": "अगर साफ़ दिखने वाला सुख मौजूद है, तो उसे महसूस करना क्यों नहीं होता?"
+    }
+   ]
+  },
+  {
+   "id": "9-133",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-134",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-135",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-136",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-137",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-138",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "जानने का भरोसेमंद तरीका ही सच नहीं है",
+     "evidence": "Academic: 'if the pramana is not a pramana' (not valid/reliable), not 'not true'.",
+     "fix": "अगर जानने का भरोसेमंद तरीका भरोसे लायक ही नहीं है, तो उससे जानी गई बात क्या झूठी नहीं होगी?"
+    }
+   ]
+  },
+  {
+   "id": "9-139",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-140",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-141",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-142",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-143",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-144",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

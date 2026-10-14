@@ -1,0 +1,315 @@
+{
+ "segments": [
+  {
+   "id": "7-48",
+   "candidates": {
+    "A": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "於他生中亦會成習慣",
+      "explanation": "Object of habituation (that abandoning/giving up) is left unstated, so what becomes habit is unclear."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "\"The time of the result\" (འབྲས་བུའི་དུས) is dropped; only \"他業及彼果\" remains."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "7-66",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "8-2",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "我",
+      "explanation": "Adds first-person \"I\"; the Tibetan is an impersonal injunction."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-42",
+   "candidates": {
+    "A": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "與其苦貪執，非我自主軀，何如趣涅槃？",
+      "explanation": "Garbled comparative \"與其...何如\" scrambles the syntax; the rhetorical \"why not go to nirvana\" is obscured."
+     },
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "苦貪執",
+      "explanation": "\"苦\" (painful) is not in the Tibetan."
+     }
+    ],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Clinging (ཡོངས་ཞེན) is dropped; only strong desire is rendered."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-50",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "若被遮蔽你對此貪戀",
+      "explanation": "Concessive \"even when covered\" becomes a plain conditional \"if covered\"."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "昔衣汝亦貪，今裸何不欲",
+      "explanation": "Covered/uncovered are recast as past/present, a temporal sequence absent from the Tibetan."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "8-76",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "凡夫",
+      "explanation": "\"Fools\" (གླེན་པ) rendered as \"ordinary beings\", losing the sense of foolishness."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-112",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "8-135",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "fluency",
+      "severity": "major",
+      "span": "捨自盡拖他",
+      "explanation": "\"盡拖他\" is unintelligible/mistyped; the sense \"give oneself to others\" (གཞན་ལ་གཏང་) is not conveyed."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "8-156",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "素行利生事",
+      "explanation": "The specific act of exchanging self and other is generalized to \"benefiting beings\"."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-161",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "說",
+      "explanation": "\"Confess/disclose\" (རབ་ཏུ་ཤོགས) weakened to merely \"tell\"."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "9-16",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "若時汝許幻本身",
+      "explanation": "Says \"when you accept illusion\"; the Tibetan says that illusion does not exist for you. \"亦復非有\" is left detached."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "9-39",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "供以真俗心",
+      "explanation": "Makes the offerer's mind real/conventional; the Tibetan says the result holds whether (the Buddha) is conventional or ultimate."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "9-56",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "9-67",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "9-96",
+   "candidates": {
+    "A": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "境遇",
+      "explanation": "\"Contact/meeting\" (ཕྲད་པ) rendered as \"境遇\" (circumstances); 接觸 is the standard term."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "9-113",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "父子相待有，如是無心境",
+      "explanation": "Adds mutual dependence and replaces \"those two\" (father and son) with mind and object, not in the verse."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "9-152",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "憂",
+      "explanation": "Dislike (མི་དགའ) rendered as sorrow/worry; imprecise."
+     },
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "孰為愛所愛",
+      "explanation": "Unclear: \"who craves and what is craved\" compressed into a hard-to-parse phrase."
+     }
+    ]
+   }
+  },
+  {
+   "id": "9-161",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "今生魔亦勤",
+      "explanation": "\"There\" (དེར, in that practice) rendered as \"this life\"; changes the referent."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "今生邪道多",
+      "explanation": "Same \"this life\" error; also adds \"正法\" for the doubt."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "10-22",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "願畏無所懼",
+      "explanation": "\"畏\" is ambiguous; \"may the frightened be fearless\" is hard to parse as written."
+     }
+    ]
+   }
+  },
+  {
+   "id": "10-49",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "怙主慈護念",
+      "explanation": "Object of the wish changed from \"whatever the protectors intend\" to the protectors' compassionate care; \"慈\" added."
+     }
+    ],
+    "C": []
+   }
+  }
+ ]
+}

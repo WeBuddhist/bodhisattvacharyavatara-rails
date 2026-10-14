@@ -1,0 +1,152 @@
+{
+ "batch": "batch-33",
+ "segments": [
+  {
+   "id": "8-131",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-132",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "因對他人造作苦之業因",
+     "evidence": "Tibetan 'གཞན་ལ་སྡུག་བསྔལ་བྱས་པའི་རྒྱུས' = 'through (the cause of) having inflicted suffering on others'; bo-kunpal 8-132 'གཞན་སེམས་ཅན་ལ༷་གནོད་པ་སྣ་ཚོགས་པའི་སྡུག་བསྔལ་བྱས་པའི་རྒྱུས'. The Chinese 'creating the karmic cause of suffering' with a redundant 因...因 shifts the object from inflicting suffering to producing its cause.",
+     "fix": "因對他人施加苦"
+    }
+   ]
+  },
+  {
+   "id": "8-133",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-134",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-135",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-136",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-137",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-138",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-139",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-140",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-141",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-142",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-143",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-144",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-145",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "安住惡趣險惡口，此人對眾生無悲心",
+     "evidence": "'ངན་འགྲོ་གདུག་པའི་ཁར་གནས་པ། འགྲོ་ལ་སྙིང་རྗེ་མེད་པར' - 'གནས་པ' qualifies 'འགྲོ་' (the beings); bo-shenga 8-145 'ངན་འགྲོ་གདུག་པའི་ཁར་གནས་པ། དེ་ལྟ་བུའི་འགྲོ་བ་རྣམས་ལ་སྙིང་རྗེ་མེད་པས'. The Chinese lets 'dwelling in the jaws' read as describing 此人, and 安住 adds a connotation of settled comfort.",
+     "fix": "對安處於惡趣兇獸之口中的眾生無悲心"
+    }
+   ]
+  },
+  {
+   "id": "8-146",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-147",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "此外彼有何功德",
+     "evidence": "'གཞན་ཡང་འདི་ཡི་ཡོན་ཏན་གང་། སུས་ཀྱང་ཐོས་པར་མི་འགྱུར་བྱ' - 'གང' is a relative ('whatever qualities this one has', bo-shenga 8-147 'འགྲན་ཟླ་འདི་ཡི་ཡོན་ཏན་གང་དག་'), but '有何功德' reads as an interrogative; འདི 'this one' is rendered 彼.",
+     "fix": "此外，凡此人所有之功德"
+    }
+   ]
+  },
+  {
+   "id": "8-148",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-149",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "令成一切眾生笑，以及交相毀謗處",
+     "evidence": "'འགྲོ་བ་ཀུན་གྱི་བཞད་གད་དང་། ཕན་ཚུན་སྨོད་པ་དག་ཏུ་བྱ' - 'བཞད་གད' is an object of laughter (bo-gyaltsab 8-149 'བཞད་གད་ཀྱི་གནས'); '眾生笑' with bare 笑 is hard to parse as 'laughingstock'.",
+     "fix": "使其成為一切眾生嘲笑的對象，以及彼此譏毀之處"
+    }
+   ]
+  },
+  {
+   "id": "8-150",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "此一煩惱者",
+     "evidence": "'ཉོན་མོངས་འདི་ཡང་' here means 'this wretched one': bo-shenga 8-150 'ཉོན་མོངས་ཏེ་དམན་པ་འདི་ཡང་' (ཉོན་མོངས་ glossed as དམན་པ 'inferior'); Sanskrit 'vārakasya' (poor wretch); english_academic 'this miserable one'. 煩惱者 reads it as a person of afflictions and loses the contrast of inferiority with the superior self.",
+     "fix": "此可憐之輩"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "然彼於聞或般若、色貌種姓財等我？",
+     "evidence": "'འདི་དག་ཐོས་དང་ཤེས་རབ་བམ། གཟུགས་རིགས་ནོར་གྱིས་མཉམ་མམ་ཅི' is a rhetorical question 'is he equal to me in learning or wisdom, form, family, wealth?'; the Chinese '等我' with no question marker is hard to parse.",
+     "fix": "然彼於聞、般若，或色貌、種姓、財富，豈能與我相等？"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1186 @@
+[
+ {
+  "id": "1-11",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "सब प्राणियों के इकलौते यात्रियों के नेता",
+    "evidence": "Tibetan/academic: the sole caravan-leader of all beings; the double genitive with plural \"यात्रियों\" is tangled for children.",
+    "fix": "प्राणियों के अकेले यात्रा-नेता ने"
+   }
+  ]
+ },
+ {
+  "id": "1-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-2",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "अपने मन को अच्छी बातों का अभ्यास कराने के लिए",
+    "evidence": "Academic: \"to cultivate/meditate in my own mind\"; no object \"good things\" is specified.",
+    "fix": "अपने मन को इसकी आदत डालने के लिए"
+   }
+  ]
+ },
+ {
+  "id": "1-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-29",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "जो कठिन साधना करने वाला दिखने में सुंदर नहीं है, वह बहुत सुंदर हो जाए",
+    "evidence": "Academic: ascetics who are ugly become perfectly beautiful; the children's sentence is tangled with a long relative clause.",
+    "fix": "जो कठिन साधना करने वाले लोग देखने में सुंदर नहीं हैं, वे बहुत सुंदर हो जाएँ।"
+   }
+  ]
+ },
+ {
+  "id": "10-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-45",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "अगर उनका अच्छा आचरण टूट जाए",
+    "evidence": "Academic/Tibetan: being distressed because their ethics ARE broken (an actual state), not a hypothetical \"if\".",
+    "fix": "जिनका अच्छा आचरण टूट गया है, वे दुखी होकर"
+   }
+  ]
+ },
+ {
+  "id": "10-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-57",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "प्राणियों के दुख की बस एक ही दवा है, और सारे सुख वहीं से आते हैं।",
+    "evidence": "Academic: the (Buddha's) teaching is the sole medicine and source of all happiness; in the children's text the subject is only named in the next sentence, so the first sentence has no clear subject.",
+    "fix": "बुद्ध की शिक्षाएँ प्राणियों के दुख की अकेली दवा हैं और सारे सुखों की जड़ हैं। वे लाभ और आदर के साथ बहुत समय तक बनी रहें।"
+   }
+  ]
+ },
+ {
+  "id": "2-24",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "सभी बुद्ध की भूमि में",
+    "evidence": "Ungrammatical number agreement; academic says all buddha-fields.",
+    "fix": "सभी बुद्ध की भूमियों में"
+   }
+  ]
+ },
+ {
+  "id": "2-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-33",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "अगर लोगों की अच्छी तरह सेवा की जाए",
+    "evidence": "Academic: \"if one serves/attends agreeably, all give benefit and happiness\"; no object \"people\" is stated.",
+    "fix": "अगर किसी की अच्छी तरह सेवा की जाए"
+   }
+  ]
+ },
+ {
+  "id": "4-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-39",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "लोग दुश्मनों से मिले बेकार घावों को भी शरीर पर गहनों की तरह पहने रहते हैं।",
+    "evidence": "Academic: conditional \"if even pointless wounds from enemies are worn like ornaments\"; the children's text turns it into a general factual claim about people.",
+    "fix": "अगर लोग दुश्मनों से मिले बेकार घावों को भी गहनों की तरह पहन लेते हैं,"
+   }
+  ]
+ },
+ {
+  "id": "4-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-43",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "इस लड़ाई से लगाव रखना",
+    "evidence": "Academic translation says 'attached to this' (इसके प्रति) with no referent; the children's text names 'this fight' as the object of attachment, which is not stated.",
+    "fix": "मुझे इससे लगाव रखना चाहिए और दुश्मनी मानकर लड़ना चाहिए। बस इस तरह की परेशान करने वाली भावना को नहीं छोड़ना चाहिए, क्योंकि यह दूसरी परेशान करने वाली भावनाओं को हरा देती है।"
+   }
+  ]
+ },
+ {
+  "id": "4-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-105",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "इसलिए हमें इसे ज़रूर बार-बार पढ़ना चाहिए",
+    "evidence": "Academic: 'therefore the Compendium of Training should ALSO be looked at again and again' (शिक्षासमुच्चय को भी); the 'also' (in addition to what the verse itself teaches) is lost, and 'देखना' becomes 'पढ़ना'.",
+    "fix": "इसलिए हमें 'अभ्यासों का संग्रह' को भी ज़रूर बार-बार देखना चाहिए।"
+   }
+  ]
+ },
+ {
+  "id": "5-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-57",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "खुद के और जीवों के अधीन रहकर, जादू से बनी रचना की तरह बिना किसी \"मैं\" के",
+    "evidence": "Academic: 'in faultless matters, subject to oneself and beings, like a conjured form, without an I, one should hold this mind always'. The children's single sentence is tangled and the conjured-form simile is unexplained; 'धारण करना' is also softened to 'काबू में रखना'.",
+    "fix": "निर्दोष कामों में मैं खुद और सभी जीव मेरे लिए बराबर मायने रखें। जादू से बनी रचना की तरह इस सोचने वाले मन को बिना किसी \"मैं\" के हमेशा थामे रखना चाहिए।"
+   }
+  ]
+ },
+ {
+  "id": "5-74",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "दूसरों को सीख देने में कुशल बनो",
+    "evidence": "Academic: one should respect the words of those 'skilled at giving advice to others' and the words that help unasked (the skill belongs to the people whose words are received). The children's text turns it into a command that the reader should become skilled at advising others.",
+    "fix": "जो लोग दूसरों को सीख देने में कुशल हैं और जो बिना माँगे भलाई की बात बताते हैं, उनकी बात आदर से सुनकर अपनाओ। हमेशा सबके विद्यार्थी बने रहो।"
+   }
+  ]
+ },
+ {
+  "id": "5-76",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-79",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "दिल से, भरोसे के साथ, बात को जोड़कर और साफ़ कहनी चाहिए जो मन को अच्छी लगे",
+    "evidence": "Academic lists the qualities of speech: heartfelt and trust-inspiring, coherent, clear in meaning, pleasing. The children's clause is ungrammatical/tangled ('बात को जोड़कर और साफ़ कहनी') and 'trust-inspiring' becomes 'with confidence'.",
+    "fix": "बोलते समय ऐसी बात कहो जो दिल से हो, भरोसा जगाए, ठीक से जुड़ी हो, साफ़ हो और मन को अच्छी लगे। चिपके रहना और नफ़रत छोड़कर मीठा और नपा-तुला बोलो।"
+   }
+  ]
+ },
+ {
+  "id": "5-84",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-96",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-101",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-109",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "लेकिन पवित्र शिक्षा भी तो सफलता का कारण बनती है, फिर हम उसकी पूजा क्यों करते हैं?",
+    "evidence": "Academic: if the objector says the enemy is not worthy of honour because he has no intention of making me patient, then why do you honour the holy Dharma, which also is merely a cause of accomplishment (without such intention)? It is a parity reply to the objection. The children's text drops the parity and reads as if the child questions why we honour the Dharma, so the argument is lost.",
+    "fix": "तो फिर पवित्र शिक्षा भी तो सफलता का कारण बनती है, पर उसके मन में भी हमें सफल बनाने का इरादा नहीं होता। फिर तुम उसकी पूजा क्यों करते हो?"
+   }
+  ]
+ },
+ {
+  "id": "6-114",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "इसलिए इस बात में जीव और बुद्ध बराबर हैं",
+    "evidence": "Academic says only that the quality of intention comes from the result and so 'they are equal'; it does not name Buddhas here. The children's text adds 'जीव और बुद्ध' as the pair being compared.",
+    "fix": "इरादे की अच्छी खूबी अपने आप नहीं आती, वह फल से आती है। इस बात में वे बराबर हैं। जीवों में भी अच्छी खूबी होती है, इसलिए वे बराबर हैं।"
+   }
+  ]
+ },
+ {
+  "id": "6-116",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-132",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-134",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-24",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Academic: people get angry 'from a mere slight condition' (साधारण-से प्रत्यय मात्र से), without intending to; this qualifier is dropped.",
+    "fix": "\"मैं गुस्सा करूँगा,\" ऐसा न सोचने पर भी लोग ज़रा-सी बात से ही गुस्सा कर बैठते हैं। \"मैं गुस्सा पैदा करूँगा,\" ऐसा सोचे बिना ही गुस्सा अपने आप पैदा हो जाता है।"
+   }
+  ]
+ },
+ {
+  "id": "6-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-61",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-68",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-69",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-82",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-85",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-86",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-58",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "वे मूर्ख, बदसूरत और कमज़ोर होते हैं।",
+    "evidence": "Source says fools, the ugly and the weak are despised everywhere (a general statement); the children's text opens with an antecedent-less 'वे' that reads as a claim that certain people (the proud) are fools, ugly and weak.",
+    "fix": "मूर्ख, बदसूरत और कमज़ोर लोगों का हर जगह अपमान होता है।"
+   }
+  ]
+ },
+ {
+  "id": "7-62",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-64",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "क्योंकि इसके कर्मों का पकना सुख और शान्ति देता है।",
+    "evidence": "Academic: merit whose ripening is happiness and which is peace; the children's sentence 'इसके कर्मों का पकना' is unclear (what is 'इसके'?).",
+    "fix": "क्योंकि जब भलाई के कर्मों का पकना होता है, तो उससे सुख और शान्ति मिलती है।"
+   }
+  ]
+ },
+ {
+  "id": "7-73",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-a",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-102",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-107",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-110",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "दूसरों की बूँदों में",
+    "evidence": "Tibetan/academic: the drops are of others' semen and blood (khu ba khrag gi thigs pa); the children's text keeps only an unexplained 'बूँदों', losing what the drops are.",
+    "fix": "दूसरों के शुक्र और खून की बूँदों में 'मैं' जैसी कोई चीज़ नहीं है, फिर भी आदत के कारण हम उन्हें 'यह मैं हूँ' मान लेते हैं।"
+   }
+  ]
+ },
+ {
+  "id": "8-112",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-115",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-117",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "प्राणियों के सभाओं के डर को",
+    "evidence": "Academic: to dispel the fear of assemblies of beings (the world's creatures); the children's phrase is ungrammatical and 'सभाओं के डर' is unexplained.",
+    "fix": "इसलिए रक्षक अवलोकितेश्वर ने बड़ी करुणा से प्राणियों के सभा के डर को दूर करने के लिए अपने नाम को भी आशीर्वाद दिया।"
+   }
+  ]
+ },
+ {
+  "id": "8-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-130",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-132",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-139",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-150",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-157",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "major",
+    "span": "माता-पिता की जीवन-बूँदों और खून की बूँदों में",
+    "evidence": "Tibetan/academic: 'in the drops of semen and blood of others (gzhan dag)'; 'parents' is not in the text, and it narrows 'others' while the next line extends the practice to 'others'.",
+    "fix": "इसलिए, जैसे तुमने दूसरों के शुक्र और खून की बूँदों में \"मैं\" मान लेना सीखा है, वैसे ही दूसरों में भी ऐसा अभ्यास करो।"
+   }
+  ]
+ },
+ {
+  "id": "8-164",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-172",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-176",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-184",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-185",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-70",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-80",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-88",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "एकान्त की हर अच्छी खूबी",
+    "evidence": "The source says 'contemplating the qualities of solitude'; 'every/each' good quality is not stated.",
+    "fix": "इस तरह, हमें एकान्त की अच्छी खूबियों के बारे में सोचना चाहिए।"
+   }
+  ]
+ },
+ {
+  "id": "8-91",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-93",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-96",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-101",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "तो कोई चीज़ इसे कैसे नुकसान पहुँचा सकती है?",
+    "evidence": "Academic: 'by this (feeling/suffering), how can this selfless collection be harmed?' The children's text replaces the agent 'this' with a vague 'some thing' and makes the collection the object of 'इसे' ambiguous.",
+    "fix": "तो इस एहसास से हिस्सों के इस समूह को कैसे नुकसान पहुँच सकता है?"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "इस हिस्सों के समूह में अपना अलग आप न होना ही सच है",
+    "evidence": "Ungrammatical ('इस हिस्सों'), and 'ही सच है' asserts more than the source, which just calls the collection selfless.",
+    "fix": "इन हिस्सों के समूह में अपना अलग आप नहीं है।"
+   }
+  ]
+ },
+ {
+  "id": "9-103",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "शोक से मुक्ति ही हैं",
+    "evidence": "Doubled 'ही' makes the last clause clumsy; source: beings are by nature nirvana.",
+    "fix": "सारे जीव अपने स्वभाव से शोक से मुक्ति ही हैं।"
+   }
+  ]
+ },
+ {
+  "id": "9-105",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "जानने की चीज़ जागरूकता के बाद आए",
+    "evidence": "Tibetan/academic: 'if (awareness) comes after the knowable (ज्ञेय के पश्चात्)', then from what does awareness arise. The children's text reverses the order: the knowable comes after awareness.",
+    "fix": "या अगर जागरूकता जानने की चीज़ के बाद आए, तो उस समय जागरूकता किससे पैदा होती है?"
+   }
+  ]
+ },
+ {
+  "id": "9-106",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-108",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "हर बात की बारीकी से जाँच करने की बात कही जाती है",
+    "evidence": "Tangled phrasing; source: all analyses are stated depending on what is renowned in the world.",
+    "fix": "दुनिया में जो बातें जानी-मानी हैं, उन्हीं के सहारे हर तरह की बारीकी से जाँच की बातें कही जाती हैं।"
+   }
+  ]
+ },
+ {
+  "id": "9-110",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-130",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-132",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-138",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-147",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-148",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-150",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "एक सपना जैसे हैं",
+    "evidence": "Ungrammatical Hindi ('सपना जैसे', 'केले का पेड़ जैसे'); should be 'सपने जैसे', 'केले के पेड़ जैसे'. Meaning intact.",
+    "fix": "दुनिया के प्राणी सपने जैसे हैं। ध्यान से देखें तो वे केले के पेड़ जैसे हैं।"
+   }
+  ]
+ },
+ {
+  "id": "9-158",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "हमारी ताक़त",
+    "evidence": "Source says only that strength is small there and life is short; 'our' is not stated.",
+    "fix": "वहाँ ताक़त बहुत कम है और उम्र भी बहुत छोटी है।"
+   }
+  ]
+ },
+ {
+  "id": "9-162",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "यह दुख तो हमेशा चलता ही रहेगा",
+    "evidence": "Source: 'alas, a continuum/succession of suffering will result'; 'always continuing' overstates this as permanent.",
+    "fix": "हाय! अब तो एक के बाद एक दुख ही आते रहेंगे।"
+   }
+  ]
+ },
+ {
+  "id": "9-164",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "बार-बार नहाकर फिर आग में कूद जाते हैं",
+    "evidence": "Source repeats both actions: repeatedly bathing and repeatedly entering fire; the children's text loses the repetition of entering fire.",
+    "fix": "जैसे कुछ लोग बार-बार नहाते हैं और बार-बार आग में कूद जाते हैं।"
+   }
+  ]
+ },
+ {
+  "id": "9-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-26",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "मन के समान भी नहीं माना जाता",
+    "evidence": "Source: the illusion is not other than mind and (being 'non-other', i.e. identical) is also not conceived; 'समान' means similar, not identical.",
+    "fix": "और मन से एक ही भी नहीं माना जाता"
+   }
+  ]
+ },
+ {
+  "id": "9-27",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "तो ठीक है, नहीं तो वह आसमान की तरह खाली हो जाएगा",
+    "evidence": "Source: 'if saṃsāra rests on a thing; otherwise it would be like space'. 'तो ठीक है' and 'खाली' are added and 'खाली' blurs with the locked 'खालीपन' for emptiness.",
+    "fix": "अगर बार-बार जन्म का चक्र किसी वस्तु पर टिका है; नहीं तो वह आसमान जैसा हो जाएगा।"
+   }
+  ]
+ },
+ {
+  "id": "9-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-37",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "विजेता का पूजा-स्थल भी ऐसा ही है। जागृति-वीर को ... वह सबके भले के सारे काम करता रहता है",
+    "evidence": "Academic: the Victor's shrine (chaitya) built in accord with bodhisattva conduct accomplishes all aims even after the bodhisattva's nirvana. The children's text turns the shrine clause into a contentless 'also like this' and makes the bodhisattva the doer, dropping the point that the shrine/offering still works.",
+    "fix": "जागृति के लिए आचरण के अनुसार बनाया गया विजेता का पूजा-स्थल भी, जागृति-वीर के शोक से मुक्त हो जाने के बाद भी, सबके भले के सारे काम करता रहता है।"
+   }
+  ]
+ },
+ {
+  "id": "9-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-4",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "दोनों ही माने हुए उदाहरणों के सहारे",
+    "evidence": "'दोनों' has no clear referent in the children's text (the two sides of the dispute); source: both rely on accepted examples without examining the result.",
+    "fix": "क्योंकि दोनों पक्ष माने हुए उदाहरणों के सहारे चलते हैं और फल के असली मतलब को परखते नहीं।"
+   }
+  ]
+ },
+ {
+  "id": "9-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-46",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "अगर तुम पक्का मानते हो कि ... भ्रम के समान क्यों नहीं होगी?",
+    "evidence": "One very long, tangled sentence with nested clauses; hard for ages 8-12. Meaning intact.",
+    "fix": "अगर तुम पक्का मानते हो कि अभी चीज़ों को कसकर पकड़े रखने वाली चाहत नहीं है, तो भी एक सवाल है। वह चाहत परेशान करने वाली भावना से घिरी न हो, तब भी वह भ्रम के समान क्यों नहीं होगी?"
+   }
+  ]
+ },
+ {
+  "id": "9-47",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "जिस मन को किसी चीज़ पर मन टिकाना होता है",
+    "evidence": "Awkward, circular use of the locked term (mind ... mind-resting); source: a mind with an object will rest on something.",
+    "fix": "जिस मन में किसी चीज़ पर मन टिकाना बना हुआ है, वह किसी न किसी चीज़ पर टिका रहेगा।"
+   }
+  ]
+ },
+ {
+  "id": "9-50",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "एक उपदेश के उपदेश-ग्रन्थ में न होने से ... उपदेश-ग्रन्थ जैसे एक उपदेश के कारण",
+    "evidence": "Repetitive, tangled wording with 'उपदेश' and 'उपदेश-ग्रन्थ' repeated; source: if one not being included makes all faulty, then one being sutra-like should make all the Victor's word.",
+    "fix": "अगर किसी एक उपदेश के उपदेश-ग्रन्थों में न मिलने से सारे उपदेश दोषी हो जाते हैं, तो एक उपदेश के उपदेश-ग्रन्थ जैसा होने से सारे उपदेश विजेता के कहे हुए क्यों नहीं माने जाते?"
+   }
+  ]
+ },
+ {
+  "id": "9-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-68",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-71",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-72",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-77",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "दुख का कारण घमंड है।",
+    "evidence": "Tibetan/academic: 'the pride that is a cause of suffering' (pride as one cause of suffering), not an identity claim that pride is THE cause of suffering.",
+    "fix": "घमंड दुख का एक कारण है। यह \"अपना आप\" की उलझन से बढ़ता है।"
+   }
+  ]
+ },
+ {
+  "id": "9-8",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "जब वे शरीर को गन्दा कहते हैं",
+    "evidence": "Academic/Tibetan: 'regarding a woman as impure' (བུད་མེད་མི་གཙང་བར་རྟོག་པ); the children's text generalises to 'the body', losing the specific example.",
+    "fix": "अगर ऐसा न होता, तो जब वे किसी स्त्री को गन्दा मानते, तब दुनिया उन्हें ग़लत साबित कर देती।"
+   }
+  ]
+ },
+ {
+  "id": "9-87",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-88",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "b-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "b-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "b-3",
+  "verdict": "pass",
+  "issues": []
+ }
+]

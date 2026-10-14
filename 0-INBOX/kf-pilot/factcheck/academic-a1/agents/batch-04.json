@@ -1,0 +1,144 @@
+{
+ "batch": "batch-04",
+ "segments": [
+  {
+   "id": "2-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-27",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "those with bodhicitta",
+     "evidence": "Here བྱང་ཆུབ་སེམས is the abbreviated form of bodhisattva (Skt. bodhisattvān); bo-shenga 2-27 and bo-gyaltsab 2-27 both gloss it as བྱང་ཆུབ་སེམས་དཔའ. The locked rendering \"bodhicitta\" is the mind, not the persons addressed alongside the Buddhas.",
+     "fix": "the bodhisattvas"
+    }
+   ]
+  },
+  {
+   "id": "2-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-30",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "to teachers and others",
+     "evidence": "བླ་མ་གཞན་དག་ལ: གཞན་དག qualifies བླ་མ (\"other teachers\"); Skt. gurushv anyeshu; bo-kunpal 2-30 བླ་མ་གཞན་དག, bo-gyaltsab 2-30 བསོད་ནམས་ཀྱི་ཞིང་བླ་མ་གཞན་དག. English \"teachers and others\" can be read as teachers plus other people.",
+     "fix": "or to other teachers"
+    }
+   ]
+  },
+  {
+   "id": "2-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-32",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "I may meet my death beforehand",
+     "evidence": "སྔོན་དུ་འགུམ་པར་འགྱུར་དུ་མཆི states that death will come (\"I am going to die\"), not a possibility; bo-shenga 2-32 and bo-gyaltsab 2-32 read it as certain. \"May\" also reads like a wish. \"Beforehand\" is vague: before the misdeeds are purified (bo-kunpal 2-32 སྡིག་པ་བཤགས་པས་མ་བྱང་བར་སྔོན་དུ་འགུམ).",
+     "fix": "I will die before that happens"
+    },
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "from this",
+     "evidence": "འདི་ལས is explicitly \"from this misdeed\" in bo-kunpal 2-32 (སྡིག་པ་འདི་ལས) and bo-shenga 2-32 (སྡིག་པ་འདི་ལས); the English \"this\" has no clear referent (it could be death).",
+     "fix": "from these misdeeds"
+    }
+   ]
+  },
+  {
+   "id": "2-33",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "this fleeting life",
+     "evidence": "གློ་བུར་ཚེ means life that ends suddenly/unexpectedly (Skt. ākasmika); bo-kunpal 2-33 གློ་བུར་ཉིད་དུ་མི་འཆི་བའི་ངེས་པ་མེད, bo-shenga 2-33 གློ་བུར་བའི་ཚེ, bo-gyaltsab 2-33 གློ་བུར་དུ་འཆི་བ. \"Fleeting\" means brief, not sudden or unpredictable.",
+     "fix": "this life, which can end suddenly"
+    }
+   ]
+  },
+  {
+   "id": "2-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-40",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

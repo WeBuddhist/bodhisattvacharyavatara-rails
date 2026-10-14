@@ -1,0 +1,113 @@
+{
+ "batch": "batch-17",
+ "segments": [
+  {
+   "id": "6-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-40",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "爾時忿怒亦非理",
+     "evidence": "Tibetan 'འོ་ནའང་ཁྲོ་བར་མི་རིགས་ཏེ' ('even so / even then it is not right to be angry'; Kunpal 6-40 'འོ་ན་དེ་ལའང་ཁྲོ་བར་འགྱུར་བ་འདི་མི་རིགས'; Gyaltsab 6-40 'འོ་ནའང་གནོད་བྱེད་ལ་ཁྲོ་བར་མི་རིགས') is a concessive 'even so', not a temporal 'at that time'. 爾時 reads as 'at that time' in Chinese and suggests a temporal clause that the Tibetan lacks.",
+     "fix": "縱然如此，忿怒亦非應理"
+    }
+   ]
+  },
+  {
+   "id": "6-41",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "step": "factcheck-children",
+ "text": "bodhicaryavatara",
+ "lang": "en",
+ "model": "sonnet",
+ "attempt": 2,
+ "session": "ca122cef-33c8-420b-9b53-14f174c7375c",
+ "note": "re-check of 18 major + 128 minor regenerations",
+ "agents": {
+  "batch-01": "a98bd8b18eabf9977",
+  "batch-02": "a46a30cb15479ff1f",
+  "batch-03": "a6dac880e6a0aaaa3",
+  "batch-04": "a0ccf2d60f51a3c65",
+  "batch-05": "a661d570c5f572a3e",
+  "batch-06": "ad0e542a835180527"
+ }
+}

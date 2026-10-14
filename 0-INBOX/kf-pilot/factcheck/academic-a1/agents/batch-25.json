@@ -1,0 +1,151 @@
+{
+ "batch": "batch-25",
+ "segments": [
+  {
+   "id": "7-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-48",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Any other deed and the time of the result\nwill become inferior",
+     "evidence": "Tibetan 'གཞན་དང་འབྲས་བུའི་དུས་ཀྱང་ནི། དམན་འགྱུར་དེ་ཡང་འགྲུབ་མི་འགྱུར།'; bo-gyaltsab 7-48 reads 'ཕྱིས་བརྩམས་པའི་བྱ་བ་གཞན་དང་ ... འབྲས་བུའི་དུས་ཀྱང་ནི་དམན་པར་འགྱུར་བ་དུས་རིང་བོར་འགོར་བ་དང་། ལས་གཞན་དེ་ཡང་འགྲུབ་པར་མི་འགྱུར' (a later-begun other action; the result's timing is degraded/delayed; that other action is not accomplished). 'Any' is not in the Tibetan, and the English does not make clear which item becomes inferior or what 'that' refers to.",
+     "fix": "Another deed, and the time of the result, will become inferior, and that other deed too will not be accomplished."
+    }
+   ]
+  },
+  {
+   "id": "7-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-53",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "One is hard to defeat even by the great.",
+     "evidence": "'ཆེན་པོ་ཡིས་ཀྱང་ཐུབ་པར་དཀའ།' - bo-kunpal 7-53 'ལྟུང་བ་ཆེ༷ན་པོ༷ ... ཐུབ༷་པ༷ར་དཀ༷འ་བ་སྟེ'; bo-shenga 7-53 'སྤང་བྱ་ཆེན་པོ་ཡིས་ཀྱང་རྒྱལ་སྲས་དེ་ཉིད་ཐུབ་པར་དཀའ'; bo-gyaltsab 7-54 'སྤང་བྱ་ཆེན་པོ་ཡིས་ཀྱང་ཐུབ་པར་དཀའ' - the 'great' are great downfalls / great objects of abandonment, not great persons.",
+     "fix": "One is hard to overcome even by great downfalls."
+    },
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "liberation from destitution",
+     "evidence": "'ཕོངས་ལས་ཐར་བ་ཡོད་དམ་ཅི' - ཐར་བ here is escape from hardship (bo-kunpal 7-53 'འདི་ཕྱི་ཀུན་ཏུ་ཕོངས་པ་ལས་ནམ་ཡང་ཐར་པ'), not soteriological liberation; 'liberation' risks a doctrinal misreading.",
+     "fix": "escape from destitution"
+    }
+   ]
+  },
+  {
+   "id": "7-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-62",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "Whatever is the action to be done,",
+     "evidence": "'འདི་ཡིས་བྱ་བའི་ལས་གང་ཡིན།' - 'འདི་ཡིས' (by this one, i.e. the bodhisattva) is unrendered; bo-gyaltsab 7-62 'བྱང་ཆུབ་སེམས་དཔའ་འདི་ཡིས་གཞན་དོན་བྱ་བའི་ལས་གང་ཡིན་པའི་ལས་'; bo-shenga 7-62 'བྱང་ཆུབ་སེམས་དཔའ་འདི་ཡི་བྱ་བའི་ལས་'.",
+     "fix": "Whatever action is to be done by this one,"
+    },
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "the joyful result of play",
+     "evidence": "'རྩེད་མོའི་བདེ་འབྲས' = the result that is happiness/pleasure of play (Skt krīḍāphalasukha; bo-shenga 'རྩེད་མོའི་བདེ་བའི་འབྲས་བུ'); བདེ(་བ) is locked as 'happiness', and 'joyful' attaches to the result rather than naming what the result is.",
+     "fix": "the happiness that is the result of play"
+    }
+   ]
+  },
+  {
+   "id": "7-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-64",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "With its ripening of happiness and peace,\nHow could one ever be satiated by merit?",
+     "evidence": "'རྣམ་སྨིན་བདེ་ལ་ཞི་བ་ཡི། བསོད་ནམས་ཀྱིས་ལྟ་ཅི་སྟེ་ངོམས།' - 'རྣམ་སྨིན་བདེ་ལ་ཞི་བ་ཡི' modifies merit (bo-gyaltsab 7-64: merit gives happiness as ripening and leads to the peace of cessation). In the English 'With its ripening...' is a dangling modifier with no antecedent, and 'Like honey...' is likewise detached from 'sensual desires', which it qualifies ('འདོད་པ་རྣམས་ཀྱིས' ... 'སྤུ་གྲིའི་སོར་ཆགས་སྦྲང་རྩི་ལྟའི').",
+     "fix": "By merit, whose ripening is happiness and which is peaceful, how could one ever be satiated?"
+    }
+   ]
+  },
+  {
+   "id": "7-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-66",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

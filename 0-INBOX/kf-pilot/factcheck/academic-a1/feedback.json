@@ -1,0 +1,230 @@
+{
+ "3-1": {
+  "translation": "For all sentient beings, in the virtue\nThat brings rest from the suffering of the lower realms, and\nIn those with suffering abiding in happiness,\nWith joy I rejoice.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "For all sentient beings, in the virtue",
+    "evidence": "Tibetan 'སེམས་ཅན་ཀུན་གྱི་ངན་སོང་གི། སྡུག་བསྔལ་ངལ་སོའི་དགེ་བ་' has 'ཀུན་གྱི' (genitive), not a benefactive: it is the virtue/suffering belonging to all beings, not a rejoicing 'for' them. Sanskrit 'sarvasattvaiḥ kṛtaṃ śubham' = virtue done by all beings; bo-shenga 3-1 'སེམས་ཅན་ཀུན་ཀྱི་... དགེ་བ་བཅུ་ལ་སོགས་པ་བསྒྲུབ་པ'; bo-gyaltsab 3-1 'སེམས་ཅན་ཀུན་གྱི་ངན་སོང་གི་སྡུག་བསྔལ་ངལ་གསོ་ཞིང་... དགེ་བ་'.",
+    "fix": "In the virtue of all sentient beings that brings rest from the suffering of the lower realms,"
+   }
+  ]
+ },
+ "3-4": {
+  "translation": "To the Buddhas of all directions,\nI join my palms and pray:\nFor sentient beings confused in the darkness of suffering,\nPlease light the lamp of the Dharma.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "confused in the darkness of suffering",
+    "evidence": "Tibetan 'སེམས་ཅན་སྡུག་བསྔལ་མུན་འཐོམས་ལ།'. Commentaries read suffering and the darkness as separate: bo-shenga 3-4 'སེམས་ཅན་སྡུག་བསྔལ་ཞིང་ཡོངས་སུ་མི་ཤེས་པའི་མུན་པར་འཐོམས་པ' and bo-gyaltsab 3-4 'སྡུག་བསྔལ་ཞིང་མ་རིག་པའི་མུན་པར་འཐོམས་པ' (suffering and bewildered in the darkness of ignorance). Sanskrit 'mohād duḥkhaprapātinām'. The darkness is ignorance, not suffering.",
+    "fix": "For sentient beings who suffer and are bewildered in the darkness [of ignorance],"
+   }
+  ]
+ },
+ "4-36": {
+  "translation": "Thus, as long as I do not manifestly\nAnd certainly destroy this enemy, I shall not forsake my effort here.\nBecoming angered by even a slight, temporary harm,\nThose full of pride do not sleep until they have destroyed it.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "a slight, temporary harm ... until they have destroyed it",
+    "evidence": "\"གནོད་བྱེད་ཆུང་ངུ\" is a slight harm-doer (an enemy), not \"harm\"; \"རེ་ཞིག\" means \"to begin with / for instance\", not \"temporary\". Gyaltsab 4-36: \"གནོད་བྱེད་ཆུང་དུ་ཚིག་རྩུབ་ཙམ་སྨྲ་བ་ལ་ཡང་ཁྲོས་པར་གྱུར་པ ... དགྲ་དེ་མ་བཅོམ་པར\" and Kunpal 4-36 \"ཐ་མལ་པའི་དགྲ་བོ ... གནོད་བྱེད་ཆུང་ངུ་ཙམ་ལ་ཡང་\". What is destroyed is the enemy, not the harm.",
+    "fix": "For instance, those swollen with pride, angered even by a slight wrongdoer, do not sleep until they have destroyed that enemy."
+   }
+  ]
+ },
+ "4-37": {
+  "translation": "These afflictions, who suffer through natural death—\nIf, when arrayed in battle, even those who fiercely desire to destroy them\nDisregard the suffering of being struck by arrows, spears, and weapons,\nAnd do not turn back and flee without accomplishing their goal,",
+  "issues": [
+   {
+    "type": "doctrinal",
+    "severity": "major",
+    "span": "These afflictions, who suffer through natural death",
+    "evidence": "Here ཉོན་མོངས is not the mental afflictions but a disparaging word for ordinary, pitiable enemies who die naturally anyway: bo-kunpal 4-37 \"དགྲ་བོ་ཐ་མལ་པ་ཉོན་མོངས་པ་ཞེས་སྨད་པའི་ཚིག་སྟེ་ཉམས་ཐག་ཅིང་སྙིང་རྗེ་བའི་གནས་སུ་གྱུར་པའི་དགྲ་བོ་འདི་དག\"; bo-shenga 4-37 \"ཉོན་མོངས་ཏེ་སྙིང་རྗེའི་གནས་སུ་གྱུར་པ་དག\"; Gyaltsab 4-38 glosses them as the foe in battle (ཕ་རོལ). The warriors in the simile fight such foes, then 4-38 draws the contrast with the real enemy. Rendering them \"afflictions\" collapses simile and application.",
+    "fix": "These wretched foes (called kleśa, \"afflicted ones\", here as a term of pity), who suffer through natural death"
+   }
+  ]
+ },
+ "4-44": {
+  "translation": "Even if I am burned and killed,\nOr even if my head is severed, it is better;\nI shall never, in any circumstance,\nBow down to the enemies, the afflictions.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "it is better",
+    "evidence": "བླའི། (Skt kāmam, \"so be it / let it be\") is a concession, not a comparative. bo-kunpal 4-44 glosses it སླ་ཞིང་ (\"easy / no matter\") and bo-gyaltsab 4-44 says that being burned or beheaded only discards the body of this life, i.e. is of little consequence. \"It is better\" asserts a preference the Tibetan does not state.",
+    "fix": "so be it"
+   }
+  ]
+ },
+ "5-76": {
+  "translation": "One should speak of good qualities in private,\nAnd if good qualities are spoken of, join in.\nIf one's own good qualities are spoken of,\nOne should understand that as them knowing good qualities.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "in private",
+    "evidence": "ལྐོག་ན་ཡོན་ཏན་བརྗོད་བྱ་ཞིང་ = praise 'behind their back / in their absence' (Sanskrit parokṣam). bo-kunpal 5-76: ལྐོག་ན་འང་དེའི་ཡོན་ཏན་གཞན་ལ་བརྗོད་པས་བསྟོད་པར་བྱ, to avoid the suspicion of flattery (ཁ་གསག); bo-shenga 5-76 same. 'In private' implies a private (possibly face-to-face) setting, not the person's absence.",
+    "fix": "in their absence (behind their back)"
+   }
+  ]
+ },
+ "5-87": {
+  "translation": "While the intention of compassion is impure,\nOne should not give away this body;\nBy all means, in this and other lives as well,\nIt should be given as a cause for accomplishing a great purpose.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "By all means, in this and other lives as well, It should be given as a cause for accomplishing a great purpose.",
+    "evidence": "ཅི་ནས་ ... གཏང་ངོ་ is conditional: give the body only when/so that it becomes a cause of great purpose in this and other lives. bo-kunpal 5-87 དོན་ཆེན་སྒྲུབ་པའི་རྒྱུར་འགྱུར་ཞིང་དགེ་བའི་བར་ཆད་དུ་མི་འགྱུར་ན་གཏང་ངོ; bo-gyaltsab 5-87 ... རྒྱུར་འགྱུར་བའི་ཚེ་བཏང་ངོ; bo-shenga 5-87 ... རྒྱུར་གྱུར་པར་མཐོང་ན་བཏང་ངོ. 'By all means' reads as an unconditional exhortation to give the body.",
+    "fix": "Rather, only when it becomes a cause for accomplishing a great purpose, in this life and in others, should it be given."
+   }
+  ]
+ },
+ "5-96": {
+  "translation": "Just as the Protector lay when passing into nirvāṇa,\nOne should lie down in the desired direction;\nWith introspection and the thought of rising quickly,\nOne should firmly apply the mind from the very beginning.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "With introspection and the thought of rising quickly, One should firmly apply the mind from the very beginning",
+    "evidence": "Tibetan ཤེས་བཞིན་མྱུར་དུ་ལྡང་སེམས་ལ། ཐོག་མ་ཉིད་དུ་ངེས་པར་སྦྱར། : ལ marks མྱུར་དུ་ལྡང་སེམས (the thought of rising quickly) as the object to which the mind is applied, and ཤེས་བཞིན is the accompanying introspection. bo-shenga 5-96: མྱུར་དུ་ལྡང་བའི་སེམས་ལ། ཉལ་བའི་ཐོག་མ་ཉིད་དུ་ངེས་པར་སྦྱར་བར་བྱའོ; bo-gyaltsab 5-96: མྱུར་དུ་ལྡང་བར་བྱའོ་སྙམ་པའི་སེམས་ལ་ཐོག་མ་ཉིད་དུ་ངེས་པར་སྦྱར། The English makes the thought of rising a companion of introspection and leaves \"apply the mind\" without its object.",
+    "fix": "With introspection, one should firmly direct the mind, from the very beginning (of lying down), to the thought of rising quickly"
+   }
+  ]
+ },
+ "5-102": {
+  "translation": "Always, a spiritual friend\nWho is learned in the meaning of the Mahāyāna\nAnd the supreme ascetic discipline of the bodhisattvas of awakening,\nShould not be given up even for the sake of one's life.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "Who is learned in the meaning of the Mahāyāna And the supreme ascetic discipline of the bodhisattvas of awakening",
+    "evidence": "The spiritual friend is learned only in the Mahāyāna meaning (ཐེག་ཆེན་དོན་ལ་མཁས་པ); the བརྟུལ་ཞུགས་མཆོག is what the friend holds or abides in. bo-kunpal 5-102: སྤྱོད་པ་བྱང་ཆུབ་སེམས་དཔའི་ཚུལ་ཁྲིམས་སམ་བརྟུལ་ཞུགས་མཆོག་སྟེ་སྡོམ་པ་ལ་གནས་པའི་དགེ་བའི་བཤེས་གཉེན; Sanskrit bodhisattvavratadharaṃ mahāyānārthakovidam. The English makes the discipline a second object of learning.",
+    "fix": "Who is learned in the meaning of the Mahāyāna and who keeps the supreme ascetic discipline of the bodhisattvas"
+   }
+  ]
+ },
+ "5-a": {
+  "translation": "From Entering the Way of the Bodhisattva, the fifth chapter: guarding introspection for a bodhisattva's awakening.",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "major",
+    "span": "guarding introspection for a bodhisattva's awakening",
+    "evidence": "Tibetan ཤེས་བཞིན་བསྲུང་བར་བྱ་བ་སྟེ་ལེའུ་ལྔ་པའོ: the chapter is titled \"Guarding Introspection\"; བྱང་ཆུབ་སེམས་དཔའི་ is already used in the work title བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ལས. The phrase \"for a bodhisattva's awakening\" has no counterpart and misreads the title.",
+    "fix": "From Entering the Way of the Bodhisattva, the fifth chapter: Guarding Introspection."
+   }
+  ]
+ },
+ "6-6": {
+  "translation": "The enemy of anger produces\nThese and other such sufferings.\nWhoever strives to destroy anger\nIs happy in this life and the next.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "The enemy of anger produces",
+    "evidence": "ཁྲོ་བའི་དགྲ་ཡིས་ is appositional: anger is itself the enemy that produces these sufferings (Sanskrit: karoti ity arisaṃjñayā; bo-kunpal 6-6: ཁྲོ་བའི་དགྲ་ཡིས་དགེ་རྩ་འཇོམས་ཤིང་དམྱལ་བར་སྐྱེ་བ་སོགས་...སྡུག་བསྔལ་མང་པོ་དག་ནི་ཕྱེད་པར་འགྱུར; bo-shenga 6-6: ཁྲོ་བའི་དགྲ་ཡིས་དེ་དག་ལ་སོགས་པའི་...སྡུག་བསྔལ་དག་ནི་བྱེད་པར་འགྱུར). \"Enemy of anger\" would mean someone opposed to anger, reversing the agent.",
+    "fix": "The enemy, anger, produces"
+   }
+  ]
+ },
+ "6-47": {
+  "translation": "Impelled by my own karma,\nThose who harm me appear;\nIf by this they go to the hell of sentient beings,\nHave I not ruined them?",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "If by this they go to the hell of sentient beings,",
+    "evidence": "Tibetan སེམས་ཅན་དམྱལ་འདོང་ན is \"if beings (the enemies) go to hell\": སེམས་ཅན is the subject, དམྱལ(་བར) the destination. Not a hell called \"of sentient beings\". Sanskrit \"yena yāsyanti narakāt\" and bo-shenga 6-47 \"དགྲ་དེ་དག་སེམས་ཅན་དམྱལ་བར་འདོང་ན\", bo-gyaltsab \"གང་ཟག་དེ་དག་སེམས་ཅན་དམྱལ་བར་འདོར་བར་འགྱུར་ན\" confirm the enemies go to hell. The locked-term entry སེམས་ཅན་དམྱལ is a mis-segmentation.",
+    "fix": "If because of this those beings go to hell,"
+   }
+  ]
+ },
+ "6-109": {
+  "translation": "If you say that because they lack the intention to accomplish patience,\nThis enemy is not to be venerated,\nSince it is a fit cause for accomplishment,\nWhy do you venerate the sublime Dharma?",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "Since it is a fit cause for accomplishment,\nWhy do you venerate the sublime Dharma?",
+    "evidence": "Tibetan གྲུབ་པ་ཡི་ནི་རྒྱུར་རུང་བ། དམ་པའི་ཆོས་ཀྱང་ཅི་སྟེ་མཆོད། means 'why do you venerate even the sublime Dharma, which is a fit cause of accomplishment [yet lacks the intention]'; ཀྱང 'even' is dropped and the Dharma is not made the subject of the clause. Sanskrit siddhihetur acitto 'pi saddharmaḥ pūjyate katham ('though without intention'). Kunpal 6-109 and Gyaltsab 6-109: the Dharma likewise lacks the thought 'I will generate virtue' (དགེ་བ་བསྐྱེད་པར་བྱའོ་སྙམ་པའི་བསམ་པ་མེད་པའི་ཕྱིར), so the opponent's reason would wrongly make it unworthy of veneration too. English 'Since it is a fit cause' with an unresolved 'it' reads as a reason for venerating the enemy and loses the parallel.",
+    "fix": "Why then do you venerate even the sublime Dharma, which, though a fit cause for accomplishment, has no such intention?"
+   }
+  ]
+ },
+ "7-53": {
+  "translation": "For one who is despondent and abandons effort,\nIs there liberation from destitution?\nBy generating pride and effort,\nOne is hard to defeat even by the great.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "One is hard to defeat even by the great.",
+    "evidence": "'ཆེན་པོ་ཡིས་ཀྱང་ཐུབ་པར་དཀའ།' - bo-kunpal 7-53 'ལྟུང་བ་ཆེ༷ན་པོ༷ ... ཐུབ༷་པ༷ར་དཀ༷འ་བ་སྟེ'; bo-shenga 7-53 'སྤང་བྱ་ཆེན་པོ་ཡིས་ཀྱང་རྒྱལ་སྲས་དེ་ཉིད་ཐུབ་པར་དཀའ'; bo-gyaltsab 7-54 'སྤང་བྱ་ཆེན་པོ་ཡིས་ཀྱང་ཐུབ་པར་དཀའ' - the 'great' are great downfalls / great objects of abandonment, not great persons.",
+    "fix": "One is hard to overcome even by great downfalls."
+   }
+  ]
+ },
+ "8-85": {
+  "translation": "The fortunate ones, cooled by moonlight and sandalwood,\nOn delightful mansions of broad stone slabs,\nFanned by the silent, peaceful forest breeze,\nPace while contemplating the benefit of others.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "The fortunate ones, cooled by moonlight and sandalwood,\nOn delightful mansions of broad stone slabs,",
+    "evidence": "ཟླ་འོད་ཙནྡན་གྱིས་བསིལ་བའི། ཡངས་པའི་རྡོ་ལེབ་ཁང་བཟང་ཉམས་དགའ་བར། - བསིལ་བའི་ modifies the stone-slab fine abode(s), not the fortunate ones (Sanskrit locative śītaleṣu ... śilātaleṣu; bo-shenga 8-85: ཟླ་བའི་འོད་ཀྱི་ཙནྡན་གྱིས་བསིལ་བར་གྱུར་པའི་ ... རྡོ་ལེབ་ཀྱི་ཁང་བཟང་). Also ཁང་བཟང་ཉམས་དགའ་བར is locative 'in/at' fine dwellings, not walking 'on' mansions.",
+    "fix": "The fortunate ones, in delightful fine dwellings of broad stone slabs\ncooled by moonlight and sandalwood,"
+   }
+  ]
+ },
+ "8-145": {
+  "translation": "Dwelling in the jaws of vicious lower realms—\nthis one lacks compassion for such wandering beings.\nOutwardly conceited about his good qualities,\nhe wishes to challenge wise persons.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "Outwardly conceited about his good qualities",
+    "evidence": "Tibetan ཕྱིར་ལ is 'furthermore/moreover' (Sanskrit aparaṃ), not 'outwardly'. bo-gyaltsab 8-145 frames it as 'ཕན་པ་མི་བྱེད་པར་མ་ཟད། ཕྱིར་ལ་རང་གི་ཡོན་ཏན་ཅན་དུ་རློམ་པ' (not only does he not help, but moreover he is conceited).",
+    "fix": "Moreover, conceited about his good qualities"
+   }
+  ]
+ },
+ "8-175": {
+  "translation": "From desiring the impossible, affliction\nAnd shattered hopes will also arise.\nWhoever does not depend on anything,\nTheir excellence is inexhaustible.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "shattered hopes",
+    "evidence": "བསམ་པ་ཉམས་པ means deterioration of one's intention/attitude, not disappointed hopes. bo-gyaltsab 8-175: \"དགེ་བའི་ཕྱོགས་ཀྱི་བསམ་པ་ཉམས་པར་འགྱུར\" (wholesome intention degenerates); bo-kunpal 8-175: \"བསམ་པ་ཉམས་པ་སྟེ་དཀོན་མཆོག་གི་དཀོར་རྐུ་འཕྲོག...ངན་སེམས\" (stealing from the Three Jewels, malice); bo-shenga likewise \"བསམ་པ་ཉམས་པ\". 'Shattered hopes' follows Sanskrit āśābhaṅga, not the Tibetan.",
+    "fix": "and a deteriorated intention"
+   }
+  ]
+ },
+ "9-24": {
+  "translation": "\"If, because it is seen by one endowed with other conditions,\nIt is luminous to itself,\"\nThrough the application of accomplished eye ointment,\nThe vase is seen, but not the eye ointment itself.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "because it is seen by one endowed with other conditions",
+    "evidence": "Tibetan རྐྱེན་གཞན་དག་དང་ལྡན་པ་ནི། མཐོང་ཕྱིར: the one endowed with other conditions is the one who sees, namely other persons' minds. bo-kunpal 9-24 says those so endowed see the minds of other persons (གང་ཟག་གཞན་གྱི་སེམས་དག་ཀྱང་མཐོང་བའི་ཕྱིར), so one's own mind, which is nearer, should be luminous. bo-shenga 9-24 says the same. The English makes the mind 'it' the thing seen by such a person, which reverses agent and object.",
+    "fix": "If, because one endowed with other conditions sees [others' minds],\nit is luminous to itself,"
+   }
+  ]
+ },
+ "9-35": {
+  "translation": "Just as a wish-fulfilling jewel and a wish-fulfilling tree\nCompletely fulfill hopes,\nLikewise, through the power of ones to be tamed and aspiration prayers,\nThe form of the Victor appears.",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "through the power of ones to be tamed and aspiration prayers",
+    "evidence": "Tibetan གདུལ་བྱ་སྨོན་ལམ་གྱི་དབང་གིས is \"to those to be tamed, through the power of aspiration prayers\"; bo-kunpal 9-35: གདུལ་བྱ་རྣམས་ལ་སྔོན་གྱི་སྨོན་ལམ་གྱི་དབང་གིས་རྒྱལ་བའི་སྐུར་སྣང་ངོ; bo-shenga 9-35: གདུལ་བྱར་ ... སྨོན་ལམ་གྱི་དབང་གིས. The English makes the disciples a second source of power alongside the prayers and drops that the Victor's form appears to them.",
+    "fix": "Likewise, to those to be tamed, through the power of aspiration prayers, the form of the Victor appears."
+   }
+  ]
+ }
+}

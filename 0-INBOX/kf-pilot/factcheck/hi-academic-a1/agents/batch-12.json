@@ -1,0 +1,121 @@
+{
+ "batch": "batch-12",
+ "segments": [
+  {
+   "id": "5-32",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "उसी प्रकार रहे",
+     "evidence": "Tibetan དེ་བཞིན་གནོས (mནོས) = 'take it on / undertake it thus'; bo-kunpal 5-32 and bo-gyaltsab 5-32 read དེ་བཞིན་དུ་མནོས་ཏེ་གནས་པར་གྱིས་ཤིག 'having taken it on, remain'. The Hindi gives only 'remain' and drops the undertaking.",
+     "fix": "उसी प्रकार ग्रहण कर (धारण कर) स्थित रहे"
+    }
+   ]
+  },
+  {
+   "id": "5-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-42",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "इसी प्रकार दान के समय में",
+     "evidence": "འདི་ལྟར་ (Skt यस्मात् 'since') introduces the reason for the preceding permission to act at ease (bo-shenga 5-42: འདི་ལྟར་སྦྱིན་པ་བྱེད་པའི་དུས་དག་ཏུ... 'because at times of giving, minor ethical trainings may be left in equanimity'; bo-kunpal 5-42 དེ་ཡང་འདི་ལྟར). 'इसी प्रकार' (likewise) makes it a parallel example rather than the justification.",
+     "fix": "क्योंकि दान के समय में"
+    }
+   ]
+  },
+  {
+   "id": "5-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-51",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,175 @@
+{
+ "batch": "batch-15",
+ "segments": [
+  {
+   "id": "5-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-95",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "wave the arms excessively",
+     "evidence": "Tibetan ལག་པ་ཤས་ཆེར་བསྐྱོད་མིན་ཏེ has ལག་པ (hand), not arm; bo-shenga 5-95 and bo-gyaltsab 5-95 likewise speak of hands (ལག་པ), the context being small gestures when handing things over.",
+     "fix": "One should not move the hands excessively"
+    }
+   ]
+  },
+  {
+   "id": "5-96",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "With introspection and the thought of rising quickly, One should firmly apply the mind from the very beginning",
+     "evidence": "Tibetan ཤེས་བཞིན་མྱུར་དུ་ལྡང་སེམས་ལ། ཐོག་མ་ཉིད་དུ་ངེས་པར་སྦྱར། : ལ marks མྱུར་དུ་ལྡང་སེམས (the thought of rising quickly) as the object to which the mind is applied, and ཤེས་བཞིན is the accompanying introspection. bo-shenga 5-96: མྱུར་དུ་ལྡང་བའི་སེམས་ལ། ཉལ་བའི་ཐོག་མ་ཉིད་དུ་ངེས་པར་སྦྱར་བར་བྱའོ; bo-gyaltsab 5-96: མྱུར་དུ་ལྡང་བར་བྱའོ་སྙམ་པའི་སེམས་ལ་ཐོག་མ་ཉིད་དུ་ངེས་པར་སྦྱར། The English makes the thought of rising a companion of introspection and leaves \"apply the mind\" without its object.",
+     "fix": "With introspection, one should firmly direct the mind, from the very beginning (of lying down), to the thought of rising quickly"
+    }
+   ]
+  },
+  {
+   "id": "5-97",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "the bodhisattva for awakening",
+     "evidence": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ is rendered with the locked \"conduct of the bodhisattva\"; བྱང་ཆུབ་ is part of the word བྱང་ཆུབ་སེམས་དཔའ (bodhisattva), and no separate \"for awakening\" is in the Tibetan.",
+     "fix": "Although the conduct of bodhisattvas"
+    },
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "for that long",
+     "evidence": "དེ་སྲིད་ is correlative: bo-shenga 5-97 specifies the span as ངེས་པར་བློ་མ་འབྱུང་གི་བར་དེ་སྲིད་དུ and bo-gyaltsab 5-97 as ངེས་པར་སྤྱོད་པ་མཐའ་དག་ཉམས་སུ་ལེན་ནུས་པ་དེ་སྲིད་, i.e. until one is able to practice all of it. \"For that long\" has no antecedent in the English.",
+     "fix": "for as long as one is unable to practice it all (until one can do so)"
+    }
+   ]
+  },
+  {
+   "id": "5-98",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "the bodhicitta of awakening",
+     "evidence": "བྱང་ཆུབ་སེམས་ is locked as \"bodhicitta\"; \"of awakening\" duplicates the བྱང་ཆུབ་ already contained in the term (bo-shenga 5-98: རང་གི་བྱང་ཆུབ་ཀྱི་སེམས).",
+     "fix": "the Victor and bodhicitta"
+    }
+   ]
+  },
+  {
+   "id": "5-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-100",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "That which is not a training for the children of the Victors Does not exist at all",
+     "evidence": "Tibetan རྒྱལ་སྲས་རྣམས་ཀྱིས་མི་བསླབ་པ། དེ་ནི་གང་ཡང་ཡོད་མིན: the agent is the Victors' children (ཀྱིས) and the verb is བསླབ (train in): nothing exists that they do not train in. Sanskrit yan na śikṣyaṃ jinātmajaiḥ; bo-shenga 5-100: རིག་པའི་གནས་ཀུན་ལ་མི་བསླབ་པ། དེ་ནི་གང་ཡང་ཡོད་པ་མིན.",
+     "fix": "There is nothing at all that the children of the Victors do not train in"
+    }
+   ]
+  },
+  {
+   "id": "5-101",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-102",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "Who is learned in the meaning of the Mahāyāna And the supreme ascetic discipline of the bodhisattvas of awakening",
+     "evidence": "The spiritual friend is learned only in the Mahāyāna meaning (ཐེག་ཆེན་དོན་ལ་མཁས་པ); the བརྟུལ་ཞུགས་མཆོག is what the friend holds or abides in. bo-kunpal 5-102: སྤྱོད་པ་བྱང་ཆུབ་སེམས་དཔའི་ཚུལ་ཁྲིམས་སམ་བརྟུལ་ཞུགས་མཆོག་སྟེ་སྡོམ་པ་ལ་གནས་པའི་དགེ་བའི་བཤེས་གཉེན; Sanskrit bodhisattvavratadharaṃ mahāyānārthakovidam. The English makes the discipline a second object of learning.",
+     "fix": "Who is learned in the meaning of the Mahāyāna and who keeps the supreme ascetic discipline of the bodhisattvas"
+    },
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "bodhisattvas of awakening",
+     "evidence": "བྱང་ཆུབ་སེམས་དཔའ་ is the single locked term \"bodhisattva\"; \"of awakening\" is not in the Tibetan.",
+     "fix": "the bodhisattvas"
+    }
+   ]
+  },
+  {
+   "id": "5-103",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-104",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-105",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-107",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-109",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-a",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "major",
+     "span": "guarding introspection for a bodhisattva's awakening",
+     "evidence": "Tibetan ཤེས་བཞིན་བསྲུང་བར་བྱ་བ་སྟེ་ལེའུ་ལྔ་པའོ: the chapter is titled \"Guarding Introspection\"; བྱང་ཆུབ་སེམས་དཔའི་ is already used in the work title བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ལས. The phrase \"for a bodhisattva's awakening\" has no counterpart and misreads the title.",
+     "fix": "From Entering the Way of the Bodhisattva, the fifth chapter: Guarding Introspection."
+    }
+   ]
+  },
+  {
+   "id": "6-1",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

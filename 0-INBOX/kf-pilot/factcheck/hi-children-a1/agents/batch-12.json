@@ -1,0 +1,269 @@
+{
+ "batch": "batch-12",
+ "segments": [
+  {
+   "id": "7-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-10",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "उस घबराहट में",
+     "evidence": "Source says he becomes delirious/maddened (མྱོས་པ, 'विक्षिप्त') from terror; 'घबराहट' (nervousness) weakens this.",
+     "fix": "उस पागलपन जैसी हालत में मैं क्या करूँगा?"
+    }
+   ]
+  },
+  {
+   "id": "7-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-14",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "शरीर रूपी नाव",
+     "evidence": "Source says 'the human boat' (the human rebirth/opportunity); 'body' is not stated.",
+     "fix": "इंसान के जन्म रूपी नाव का सहारा लो।"
+    }
+   ]
+  },
+  {
+   "id": "7-15",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "Source says there are endless causes of joy, of which the sacred teaching is the supreme; the 'endless causes' point is dropped.",
+     "fix": "खुशी के अनगिनत कारण हैं, और पवित्र शिक्षा उनमें सबसे बड़ी खुशी देती है।"
+    }
+   ]
+  },
+  {
+   "id": "7-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "भी महान बन सकते हैं",
+     "evidence": "Source does not say the small creatures can become 'great'; it says only that if they generate strength of effort they will attain bodhi.",
+     "fix": "मक्खियाँ, मच्छर, मधुमक्खियाँ और सभी छोटे कीड़े भी, अगर वे खुशी से की गई मेहनत की ताक़त लगाएँ, तो दुर्लभ और सबसे महान जागृति पा लेंगे।"
+    }
+   ]
+  },
+  {
+   "id": "7-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-22",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "बहुत थोड़ा है",
+     "evidence": "Source says the suffering is 'limited/measurable' (ཚོད་ཡོད); 'very little' overstates it. Also drops that the thorn destroys from within.",
+     "fix": "जागृति पाने का यह दुख सीमित है, जैसे अंदर से नुकसान करने वाले काँटे को निकालने के लिए चीरा लगाने का दुख।"
+    }
+   ]
+  },
+  {
+   "id": "7-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-25",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "दे सकते हैं。",
+     "evidence": "Stray full-width punctuation mark at the end of the sentence.",
+     "fix": "दे सकते हैं।"
+    }
+   ]
+  },
+  {
+   "id": "7-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-34",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "अनगिनत दुख की जगह बने हुए मेरा दिल",
+     "evidence": "Tangled participle phrase; the heart is the 'place of immeasurable suffering', but the grammar (बने हुए / मेरा) is awkward for age 8-12.",
+     "fix": "तो मेरा दिल, जो अनगिनत दुख की जगह है, क्यों नहीं फट जाता?"
+    }
+   ]
+  },
+  {
+   "id": "7-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-46",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "उसे पूरा करने का घमंड",
+     "evidence": "Source says simply to cultivate pride (ང་རྒྱལ, self-confidence) after beginning with the Vajradhvaja method; 'pride in completing it' is added.",
+     "fix": "फिर अपने अंदर घमंड (यानी 'मैं यह कर सकता हूँ' का भरोसा) जगाना चाहिए।"
+    }
+   ]
+  }
+ ]
+}

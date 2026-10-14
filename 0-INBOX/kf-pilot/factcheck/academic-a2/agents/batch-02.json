@@ -1,0 +1,20 @@
+{"batch": "batch-02", "segments": [
+{"id": "6-6", "verdict": "pass", "issues": [
+ {"type": "mistranslation", "severity": "minor", "span": "Whoever strives to destroy anger", "evidence": "Tibetan གང་ཞིག་བསྒྲིམས་ཏེ་ཁྲོ་འཇོམས་པ states that the person (resolutely) destroys anger; Sanskrit 'yaḥ krodhaṃ hanti nirbandhāt'. Kunpal 6-6 glosses ཁྲོ་བའི་དགྲ་དེ་འཇོམས་པར་བྱེད་པའི་བཟོད་པ་བསྒོམ་པ. 'Strives to' turns an accomplished act into mere attempt and loses བསྒྲིམས་ཏེ ('firmly/determinedly').", "fix": "Whoever resolutely destroys anger"}
+]},
+{"id": "6-47", "verdict": "pass", "issues": []},
+{"id": "6-109", "verdict": "pass", "issues": []},
+{"id": "7-53", "verdict": "pass", "issues": []},
+{"id": "8-85", "verdict": "pass", "issues": []},
+{"id": "8-145", "verdict": "pass", "issues": []},
+{"id": "8-175", "verdict": "pass", "issues": [
+ {"type": "mistranslation", "severity": "minor", "span": "Whoever does not depend on anything", "evidence": "Tibetan གང་ཞིག་ཀུན་ལ་ལྟོས་མེད་པ; Sanskrit 'nirāśaḥ yas tu sarvatra' (without hope/expectation). Kunpal 8-175 glosses ཀུན་ལ་རེ་འདོད་ཀྱིས་ལྟོས་པ་མེད་པ (no looking-to with hope or desire) for all desirable things; Shenga ལུས་དང་ལོངས་སྤྱོད་ཀུན་ལ་ལྟོས་པ་མེད་པར་གནས་པ. 'Depend on' suggests reliance/need, whereas the sense is having no expectation or craving.", "fix": "Whoever has no expectation of anything"},
+ {"type": "ambiguity", "severity": "minor", "span": "From desiring the impossible", "evidence": "Tibetan ནུས་མེད་འདོད་པ is 'desiring [what one] lacks the capacity [to achieve]'. Gyaltsab 8-175: འདོད་པ་རྫོགས་པར་བྱེད་པའི་ནུས་པ་མེད་བཞིན་དུ་འདོད་པ; Kunpal སྒྲུབ་པའི་ནུས་པ་མེད་བཞིན་དུ་འགྲུབ་པར་འདོད་པ. 'The impossible' is stronger than lack of ability.", "fix": "From desiring what one lacks the ability to achieve"}
+]},
+{"id": "9-24", "verdict": "pass", "issues": [
+ {"type": "fluency", "severity": "minor", "span": "\"If, because one endowed with other conditions sees,\nit is luminous to itself,\"\nthrough the application of accomplished eye ointment,\nthe vase is seen, but not the eye ointment itself.", "evidence": "Lines 1-2 are the opponent's (Cittamātrin) claim, lines 3-4 the reply (Shenga 9-24: 'འདིས་ཀྱང་ཤེས་པའི་རང་རིག་པ་གྲུབ་པ་མ་ཡིན་ནོ་ཞེས་བསྟན་པ'; Kunpal ཟེར་ན། དེར་མ་ངེས་ཏེ). The English runs the quoted objection straight into the reply with no break, and 'it' has no antecedent (the cognition/mind, Kunpal རང་སེམས).", "fix": "\"If one endowed with other conditions sees [others' minds], then [the mind] is luminous to itself.\" [Not so:] through applying accomplished eye ointment, one sees the vase, yet it does not become the eye ointment itself."}
+]},
+{"id": "9-35", "verdict": "fail", "issues": [
+ {"type": "mistranslation", "severity": "major", "span": "through the power of the ones to be tamed and aspiration prayers", "evidence": "Tibetan གདུལ་བྱ་སྨོན་ལམ་གྱི་དབང་གིས. Kunpal 9-35 reads དེ་བཞིན་གདུལ་བྱར་... སྔོན་གྱི་སྨོན་ལམ་གྱི་དབང་གིས་རྒྱལ་བའི་སྐུར་སྣང་ངོ་ (to the disciples, through the power of earlier aspiration prayers, the Victor's body appears); Shenga: གདུལ་བྱར་སྔོན་བྱང་ཆུབ་སེམས་དཔའི་གནས་སྐབས་ན་བཏབ་པའི་སྨོན་ལམ་གྱི་དབང་གིས་... རྒྱལ་བའི་སྐུར་སྣང་ངོ་. The disciples are those to whom the form appears; the power is that of the (earlier) aspiration prayers. The English makes the disciples a causal power alongside the prayers and omits that the form appears to them.", "fix": "Likewise, to those to be tamed, through the power of aspiration prayers [made earlier], the form of the Victor appears."}
+]}
+]}

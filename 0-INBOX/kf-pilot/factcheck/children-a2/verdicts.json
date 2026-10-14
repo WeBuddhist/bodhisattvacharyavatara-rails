@@ -1,0 +1,979 @@
+[
+ {
+  "id": "1-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-9",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "poor beings",
+    "evidence": "Tibetan ཉམ་ཐག / academic 'wretched': helpless, miserable beings, not poor in money.",
+    "fix": "helpless beings trapped in the prison of the cycle of rebirth"
+   }
+  ]
+ },
+ {
+  "id": "1-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-34",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "such a kind child of the Victorious Ones",
+    "evidence": "Academic: 'such a benefactor (སྦྱིན་བདག), a child of the Victors' - the one who gives; 'kind' only partly carries this.",
+    "fix": "such a giving child of the Victorious Ones, a generous helper"
+   }
+  ]
+ },
+ {
+  "id": "1-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-4",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "I offer sweet smells and incense from the worlds of gods and others. I offer wish-granting trees and jewel trees.",
+    "evidence": "Academic: 'Even in the worlds of gods and others' governs the whole list (fragrances, incense, wish-granting trees, jewel trees, crops, ornaments); the children's text limits it to smells and incense and loses 'even'.",
+    "fix": "I offer what is found even in the worlds of gods and others: sweet smells and incense, wish-granting trees and jewel trees, crops that grow without anyone ploughing, and every other beautiful thing worthy of being offered."
+   }
+  ]
+ },
+ {
+  "id": "2-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-55",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-56",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "Anyone who ignores him should be scolded.",
+    "evidence": "Academic: 'The intention not to act according to his commands is extreme ignorance and an object of reproach' - the attitude is blameworthy; it does not say people should be scolded.",
+    "fix": "not wanting to follow his commands is extreme ignorance, and it deserves blame."
+   }
+  ]
+ },
+ {
+  "id": "2-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-37",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "enemies who will die anyway",
+    "evidence": "Tibetan/academic: the enemies are wretched, made to suffer by natural death; the suffering of death is dropped.",
+    "fix": "If even soldiers fight enemies who must suffer and die anyway, and ignore the pain of arrows and spears, and do not run away before they reach their goal..."
+   }
+  ]
+ },
+ {
+  "id": "4-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-22",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "It is even better to lose other good deeds.",
+    "evidence": "Academic: 'better that other virtues decline' is the same level as the preceding lines; 'even better' adds an escalating comparison.",
+    "fix": "It is better to lose my gain and honor. It is better to lose my body and the things I live on. It is better even to lose other good deeds. But I must never let my mind fail."
+   }
+  ]
+ },
+ {
+  "id": "5-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-30",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "afraid to do wrong",
+    "evidence": "Academic: 'act with respect out of fear'; the object of fear is not specified as wrongdoing.",
+    "fix": "For lucky people who act with respect because they feel fear, keeping in mind grows easily."
+   }
+  ]
+ },
+ {
+  "id": "5-42",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "cannot keep up my practice",
+    "evidence": "Academic: 'if one is unable'; the thing one is unable to do is not specified.",
+    "fix": "if I am not able to, I should act at ease."
+   }
+  ]
+ },
+ {
+  "id": "5-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-71",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "wandering beings",
+    "evidence": "Locked term for འགྲོ་བ is 'being'.",
+    "fix": "Be a friend to all beings and speak honestly."
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "practice being in control of oneself",
+    "evidence": "Ungrammatical/awkward for a child; the verse addresses oneself directly.",
+    "fix": "So, be in control of yourself and always keep a smiling face."
+   }
+  ]
+ },
+ {
+  "id": "5-81",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "a remedy against troubling emotions",
+    "evidence": "Academic: 'motivated by an antidote'; the target of the antidote is not stated.",
+    "fix": "or when a remedy moves you to act."
+   }
+  ]
+ },
+ {
+  "id": "5-90",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "lure people away",
+    "evidence": "Tibetan/academic: 'lure them with sūtras and mantras' (no 'away').",
+    "fix": "I should not lure people with teaching texts and sacred words."
+   }
+  ]
+ },
+ {
+  "id": "5-93",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-101",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-103",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-32",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "because suffering depends on its causes",
+    "evidence": "Academic: 'In dependence upon that, it is not unreasonable to wish for sufferings to be severed'; 'that' is not specified as suffering's causes.",
+    "fix": "But because things depend on each other, it does make sense. It is not wrong to wish for suffering to be cut away."
+   }
+  ]
+ },
+ {
+  "id": "6-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-41",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "since he is driven by hatred too",
+    "evidence": "Academic: sticks are the actual instruments, and the thrower too is driven by hatred, so anger at hatred is the fitting target; 'too' has no referent in the children's text, and the stick-as-tool point is lost.",
+    "fix": "Someone hits me with a stick. I do not blame the stick, because the person swinging it is pushing it. But that person is pushed by hatred too. So it makes more sense to be angry at hatred."
+   }
+  ]
+ },
+ {
+  "id": "6-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-71",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-86",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-91",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-99",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-103",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "I am only making a block, even when the cause of a store of goodness is right in front of me",
+    "evidence": "Academic: when the cause of merit is present, I am merely creating an obstacle to it (the obstacle is to the cause of merit); 'even when' also shifts the logic.",
+    "fix": "If my own faults stop me from practicing patience with this, I am only blocking the cause of a store of goodness that is right here."
+   }
+  ]
+ },
+ {
+  "id": "6-105",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-111",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-116",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-117",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "I should make offerings to them",
+    "evidence": "Academic: 'in order to make offerings to them, even offering the three realms would be too little' — a statement of how great the worth is, not an instruction.",
+    "fix": "If even a tiny part of that special collection of supreme good qualities appears in someone, then even offering them the three realms would be too little."
+   }
+  ]
+ },
+ {
+  "id": "6-119",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-11",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "Since you have done harmful deeds, there is no need to even mention the unbearable sufferings of hell!",
+    "evidence": "Academic: 'If you ... are possessed by fear in this life, having committed misdeeds, what need is there to mention the unbearable sufferings of hell?' — conditional a fortiori argument (if fear now, how much worse hell); the children's 'Since ... no need to mention' turns it into a flat statement and the idiom can read as hell being unimportant.",
+    "fix": "If you flip around in fear like a live fish even in this life, how much worse will the unbearable sufferings of hell be for someone who has done harmful deeds!"
+   }
+  ]
+ },
+ {
+  "id": "7-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-48",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "If I get used to giving up",
+    "evidence": "Academic: 'Habituated to that in another life' - 'that' is not named as giving up in this segment; the children's text supplies a specific referent and shifts the statement into a conditional.",
+    "fix": "If I get used to that in another life too, my harmful deeds and suffering will grow."
+   }
+  ]
+ },
+ {
+  "id": "7-49",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "my power over troubling emotions",
+    "evidence": "Academic: 'Karma, afflictions, and capacity: one should cultivate pride in these three.' The segment names afflictions, not power over them.",
+    "fix": "I should build my pride in three things: action, troubling emotions, and my ability."
+   }
+  ]
+ },
+ {
+  "id": "7-64",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "Its ripening is happiness and peace.",
+    "evidence": "Academic: merit 'whose ripening is happiness and which is peaceful' - peace describes the store of goodness itself, not its ripening; the rhetorical point (never satiated by goodness) is also blurred by 'how could I ever get enough'.",
+    "fix": "If we never get enough of desires for pleasure, which are like honey on a razor's edge, how could we ever get enough of a store of goodness, which ripens into happiness and is peaceful?"
+   }
+  ]
+ },
+ {
+  "id": "7-67",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-a",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-13",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "bad deeds will definitely happen. That childish person brings about praising oneself and putting others down.",
+    "evidence": "Academic: self-praise, disparaging others and talk delighting in samsara are the examples of non-virtue that will certainly arise in every way; children's text makes them separate things and drops 'in every way'.",
+    "fix": "If I spend time with a childish person, bad deeds will surely come in every way: praising myself, putting others down, and talking about enjoying the cycle of rebirth."
+   }
+  ]
+ },
+ {
+  "id": "8-14",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "major",
+    "span": "—",
+    "evidence": "Academic: 'when oneself and another rely on each other, by that one will merely come to ruin' - the point that relying on each other leads to ruin is dropped; only the reason clause remains.",
+    "fix": "If we depend on each other like this, we will only come to ruin, because they will not do me any good and I will not do them any good either."
+   }
+  ]
+ },
+ {
+  "id": "8-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-82",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-87",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-93",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-100",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-102",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-104",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-107",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-110",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "I take the drops of seed and blood from others as \"I\". Even though they are without a thing, I still call them \"I\".",
+    "evidence": "The Tibetan has a comparison (\"just as one knows them as 'I'\"): by habit, others' drops of semen and blood, though no real entity, are known as \"I\". The children's text turns the simile into two flat statements.",
+    "fix": "By getting used to it, even the drops of seed and blood that came from others, which are without a thing, are known as \"I\"."
+   }
+  ]
+ },
+ {
+  "id": "8-126",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-130",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-132",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "happiness I can see and cannot see",
+    "evidence": "Academic: \"seen and unseen happiness\" (happiness in this life and beyond); the phrasing is hard for children to parse.",
+    "fix": "...the perfect joy that brings happiness now and happiness we cannot yet see."
+   }
+  ]
+ },
+ {
+  "id": "8-139",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "See a lower person and others as yourself.",
+    "evidence": "Academic: \"the inferior and so forth\" (inferior, equal, superior). \"And others\" is vague and could be read as ordinary other people.",
+    "fix": "See someone lower, equal, or higher than you as yourself."
+   }
+  ]
+ },
+ {
+  "id": "8-164",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-167",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "I must defeat you",
+    "evidence": "Academic: \"subdue you yourself\" (Tibetan ཚར་གཅད, to bring under control/discipline). \"Defeat\" suggests winning a fight.",
+    "fix": "I must bring you under control."
+   }
+  ]
+ },
+ {
+  "id": "8-168",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "destroy all of your feeling superior",
+    "evidence": "Locked term \"feeling superior\" is used as a noun phrase, making the sentence ungrammatical.",
+    "fix": "I will destroy all of your feeling of being better than others."
+   }
+  ]
+ },
+ {
+  "id": "8-171",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-183",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-50",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "leaving out one text",
+    "evidence": "Academic: \"a single unincluded one\" (one text not included among the accepted teachings); \"leaving out\" is vague and the final \"all\" is unclear.",
+    "fix": "You say that if one text is not counted as the Buddha's teaching, then all of them are faulty."
+   }
+  ]
+ },
+ {
+  "id": "9-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-63",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-65",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-68",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-75",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-103",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "major",
+    "span": "The mind is not the body",
+    "evidence": "Source says only \"That which is not the body, nor anywhere else...\"; it does not name the mind as the subject.",
+    "fix": "Whatever is not the body and is not anywhere else, is not mixed with anything, and is not separate, cannot be found as anything at all. Because of this, every living being is in freedom from sorrow by nature."
+   }
+  ]
+ },
+ {
+  "id": "9-108",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-126",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-131",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-144",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-146",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-149",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "are always never born and never ending",
+    "evidence": "Source: always unborn and unceasing; locked term is 'never born and never ending'.",
+    "fix": "all these beings are never born and never ending, always."
+   }
+  ]
+ },
+ {
+  "id": "9-154",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-157",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-158",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-58",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "b-3",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "the Indian teacher who ordained me, Sumatikirti",
+    "evidence": "Academic: 'the Indian preceptor Sumatikirti'; 'me' is not in the source and wrongly suggests the narrator was ordained by him (locked term was applied literally).",
+    "fix": "the Indian teacher who ordains monks, Sumatikirti"
+   }
+  ]
+ }
+]

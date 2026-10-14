@@ -1,0 +1,121 @@
+{
+ "batch": "batch-30",
+ "segments": [
+  {
+   "id": "8-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-79",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "लाभ बहुत कम है",
+     "evidence": "Tibetan མནོག་ཆུང (Skt. āsvāda) means slight enjoyment/taste of pleasure; bo-kunpal 8-79 glosses it as འབྲས་བུ་བདེ་བའི་མནོག་ཆུང་ 'slight happiness as result' and bo-shenga as 'little satisfaction', not material gain (लाभ); english_academic has 'the enjoyment is slight'.",
+     "fix": "और सुख का आस्वाद अत्यल्प है"
+    }
+   ]
+  },
+  {
+   "id": "8-80",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "उस तुच्छ लाभ के लिए",
+     "evidence": "Tibetan མནོག་ཆུང་གང་ཡིན་དེ་དོན་དུ 'for the sake of that slight enjoyment' (bo-kunpal 8-80: ལོངས་སྤྱོད་མནོག་ཆུང་, enjoyment of food and clothing); 'लाभ' (gain) misses the sense of enjoyment/pleasure; english_academic 'slight enjoyment'.",
+     "fix": "उस अत्यल्प भोग-सुख के लिए"
+    }
+   ]
+  },
+  {
+   "id": "8-81",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-84",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-90",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,136 @@
+{
+ "batch": "batch-25",
+ "segments": [
+  {
+   "id": "7-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-62",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "對該事業應當生貪著",
+     "evidence": "Tibetan ལས་དེ་ལ་ནི་ཞེན་བྱ་སྟེ is a positive injunction: Gyaltsab 7-62 glosses ཞེན་པ་སྟེ་སྤྲོ་བཞིན་དུ་བྱ ('be devoted, doing it joyfully'); Shenga 7-62 has དགའ་བའི་ཡིད་ཀྱིས་ཞེན་པར་བྱ. 貪著 carries the negative sense of greedy clinging, which the context contradicts.",
+     "fix": "對該事業應當深切喜愛、專注投入"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "且無饜足於此生歡喜",
+     "evidence": "Tibetan ལས་དེས་མི་ངོམས་དགའ་བར་བྱ means 'being unsated by that work, take delight'. The Chinese 於此生 can be misparsed as 'in this life', and 此 is vague about the referent (the work).",
+     "fix": "不因該事業而饜足，並生歡喜"
+    }
+   ]
+  },
+  {
+   "id": "7-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-64",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "猶如刀鋒所塗之蜂蜜，若對諸欲尚且不饜足",
+     "evidence": "Tibetan སྤུ་གྲིའི་སོར་ཆགས་སྦྲང་རྩི་ལྟའི། འདོད་པ་རྣམས་ཀྱིས་མི་ངོམས་ན: the simile qualifies the desires (འདོད་པ). Shenga 7-64 reads the whole as 'desires, which are like honey smeared on a razor's edge'. The Chinese leaves the simile as a dangling clause detached from 諸欲.",
+     "fix": "若對於猶如塗在刀鋒上的蜂蜜般的諸欲尚且不饜足"
+    }
+   ]
+  },
+  {
+   "id": "7-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-66",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "體力",
+     "evidence": "Tibetan སྟོབས་ཉམས་པ: Shenga 7-66 has ནུས་པའི་སྟོབས་ཉམས་པ ('decline of capacity/strength'); Gyaltsab 7-66 says ལུས་སེམས་དུབ་ནས་སྟོབས་ཉམས་པ (body and mind exhausted, strength declined). 體力 restricts it to physical strength.",
+     "fix": "力量"
+    }
+   ]
+  }
+ ]
+}

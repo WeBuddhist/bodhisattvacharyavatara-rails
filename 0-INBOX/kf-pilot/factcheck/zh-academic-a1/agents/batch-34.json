@@ -1,0 +1,113 @@
+{
+ "batch": "batch-34",
+ "segments": [
+  {
+   "id": "8-151",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-152",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-153",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-154",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-155",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-156",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-157",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-158",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-159",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-160",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-161",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-162",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-163",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "勿讚偶發少分功德",
+     "evidence": "Tibetan 'འདི་ནི་སྐྱོན་ཅན་རང་བཞིན་ཏེ། གློ་བུར་ཡོན་ཏན་ཆས་མི་བསྟོད' says this one (the self, bdag 'di) is not to be praised on account of a fraction of adventitious qualities; the object of praise is the self, the qualities are the ground. The Chinese reads as 'do not praise the adventitious qualities', dropping the object 'this one' and shifting what is forbidden (bo-kunpal 8-163: 'གློ་བུར་གྱི་ཡོན་ཏན་ཅུང་ཟད་... དེའི་སྒོ་ནས་ནམ་ཡང་མགོ་འཕང་མི་བསྟོད'; bo-gyaltsab 8-163). Also '此人' for 'འདི' (the self) could be read as another person.",
+     "fix": "勿以偶發少分功德而讚此者"
+    }
+   ]
+  },
+  {
+   "id": "8-164",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-165",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-166",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-167",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-168",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-169",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-170",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

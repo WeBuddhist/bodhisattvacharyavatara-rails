@@ -1,0 +1,556 @@
+{
+ "batch": "batch-15",
+ "segments": [
+  {
+   "id": "7-39",
+   "terms": [
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    },
+    {
+     "bo": "མོས་པ",
+     "dm": "devotion",
+     "gm": "aspiration"
+    }
+   ]
+  },
+  {
+   "id": "7-40",
+   "terms": [
+    {
+     "bo": "དགེ་བའི་ཕྱོགས",
+     "dm": "virtuous qualities",
+     "gm": "wholesome factors"
+    },
+    {
+     "bo": "ཐུབ་པ",
+     "dm": "Sage",
+     "gm": "Sage"
+    },
+    {
+     "bo": "མོས་པ",
+     "dm": "aspiration",
+     "gm": "aspiration"
+    },
+    {
+     "bo": "རྣམ་སྨིན་འབྲས་བུ",
+     "dm": "results of karmic ripening",
+     "gm": "ripened results"
+    }
+   ]
+  },
+  {
+   "id": "7-41",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "Physical suffering",
+     "gm": "Suffering"
+    },
+    {
+     "bo": "ཡིད་མི་བདེ་བ",
+     "dm": "mental unhappiness",
+     "gm": "mental unhappiness"
+    },
+    {
+     "bo": "སྡིག་པ",
+     "dm": "misdeeds",
+     "gm": "misdeeds"
+    }
+   ]
+  },
+  {
+   "id": "7-42",
+   "terms": [
+    {
+     "bo": "དགེ་བ",
+     "dm": "virtues",
+     "gm": "wholesome deeds"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "7-43",
+   "terms": [
+    {
+     "bo": "སྡིག་པ",
+     "dm": "sins",
+     "gm": "misdeeds"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "7-44",
+   "terms": [
+    {
+     "bo": "པདྨ",
+     "dm": "lotus",
+     "gm": "lotus"
+    },
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victorious One",
+     "gm": "Victor"
+    },
+    {
+     "bo": "ཐུབ",
+     "dm": "Sage",
+     "gm": "Sage"
+    },
+    {
+     "bo": "བདེ་གཤེགས",
+     "dm": "Sugata",
+     "gm": "Sugata"
+    },
+    {
+     "bo": "བདེ་གཤེགས་སྲས",
+     "dm": "Son of the Sugata",
+     "gm": "son of the Sugata"
+    }
+   ]
+  },
+  {
+   "id": "7-45",
+   "terms": [
+    {
+     "bo": "གཤིན་རྗེ",
+     "dm": "Yama",
+     "gm": "Yama"
+    },
+    {
+     "bo": "མི་དགེ",
+     "dm": "non-virtues",
+     "gm": "unwholesome deeds"
+    }
+   ]
+  },
+  {
+   "id": "7-46",
+   "terms": [
+    {
+     "bo": "དགེ",
+     "dm": "virtue",
+     "gm": "the wholesome"
+    },
+    {
+     "bo": "རྡོ་རྗེ་རྒྱལ་མཚན",
+     "dm": "Vajradhvaja",
+     "gm": "Vajradhvaja"
+    },
+    {
+     "bo": "ང་རྒྱལ",
+     "dm": "pride of self-confidence",
+     "gm": "self-confidence"
+    }
+   ]
+  },
+  {
+   "id": "7-47",
+   "terms": [
+    {
+     "bo": "འབྱོར་པ",
+     "dm": "resources",
+     "gm": "capacity"
+    }
+   ]
+  },
+  {
+   "id": "7-48",
+   "terms": [
+    {
+     "bo": "སྐྱེ་བ་གཞན",
+     "dm": "other lives",
+     "gm": "other lives"
+    },
+    {
+     "bo": "སྡིག",
+     "dm": "Sin",
+     "gm": "Misdeeds"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "7-49",
+   "terms": [
+    {
+     "bo": "ལས",
+     "dm": "Actions",
+     "gm": "Actions"
+    },
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "afflictions"
+    },
+    {
+     "bo": "ང་རྒྱལ",
+     "dm": "pride",
+     "gm": "self-confidence"
+    },
+    {
+     "bo": "ལས་ཀྱི་ང་རྒྱལ",
+     "dm": "pride of action",
+     "gm": "self-confidence of action"
+    }
+   ]
+  },
+  {
+   "id": "7-50",
+   "terms": [
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "afflictions"
+    },
+    {
+     "bo": "འཇིག་རྟེན",
+     "dm": "world",
+     "gm": "world"
+    },
+    {
+     "bo": "རང་དོན",
+     "dm": "own welfare",
+     "gm": "own benefit"
+    },
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "Migratory beings",
+     "gm": "Wandering beings"
+    }
+   ]
+  },
+  {
+   "id": "7-51",
+   "terms": [
+    {
+     "bo": "ང་རྒྱལ",
+     "dm": "pride",
+     "gm": "pride"
+    }
+   ]
+  },
+  {
+   "id": "7-52",
+   "terms": [
+    {
+     "bo": "མཁའ་ལྡིང",
+     "dm": "Garuda",
+     "gm": "garuda"
+    },
+    {
+     "bo": "ལྟུང་བ",
+     "dm": "downfall",
+     "gm": "downfall"
+    }
+   ]
+  },
+  {
+   "id": "7-53",
+   "terms": [
+    {
+     "bo": "ང་རྒྱལ",
+     "dm": "pride",
+     "gm": "self-confidence"
+    }
+   ]
+  },
+  {
+   "id": "7-54",
+   "terms": [
+    {
+     "bo": "ལྟུང་བ",
+     "dm": "downfalls",
+     "gm": "downfalls"
+    },
+    {
+     "bo": "ཁམས་གསུམ",
+     "dm": "three realms",
+     "gm": "three realms"
+    }
+   ]
+  },
+  {
+   "id": "7-55",
+   "terms": [
+    {
+     "bo": "ང་རྒྱལ",
+     "dm": "pride",
+     "gm": "self-confidence"
+    },
+    {
+     "bo": "རྒྱལ་བ་སེང་གེ",
+     "dm": "Lion-like Conqueror",
+     "gm": "Victorious Lion"
+    }
+   ]
+  },
+  {
+   "id": "7-56",
+   "terms": [
+    {
+     "bo": "ང་རྒྱལ",
+     "dm": "pride",
+     "gm": "pride"
+    },
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflicted",
+     "gm": "afflicted"
+    },
+    {
+     "bo": "ང་རྒྱལ་དགྲ",
+     "dm": "enemy of pride",
+     "gm": "enemy of pride"
+    }
+   ]
+  },
+  {
+   "id": "7-57",
+   "terms": [
+    {
+     "bo": "ཉོན་མོངས་ང་རྒྱལ",
+     "dm": "pride of the afflictions",
+     "gm": "affliction of pride"
+    },
+    {
+     "bo": "ངན་འགྲོ",
+     "dm": "lower realms",
+     "gm": "lower realms"
+    }
+   ]
+  },
+  {
+   "id": "7-58",
+   "terms": [
+    {
+     "bo": "ང་རྒྱལ",
+     "dm": "pride",
+     "gm": "pride"
+    },
+    {
+     "bo": "དཀའ་ཐུབ་ཅན",
+     "dm": "ascetics",
+     "gm": "ascetics"
+    }
+   ]
+  },
+  {
+   "id": "7-59",
+   "terms": [
+    {
+     "bo": "ང་རྒྱལ",
+     "dm": "pride",
+     "gm": "self-confidence"
+    },
+    {
+     "bo": "ང་རྒྱལ་དགྲ",
+     "dm": "enemy of pride",
+     "gm": "enemy of pride"
+    },
+    {
+     "bo": "རྒྱལ་བའི་འབྲས་བུ",
+     "dm": "fruit of the Conquerors",
+     "gm": "fruit of victory"
+    }
+   ]
+  },
+  {
+   "id": "7-60",
+   "terms": [
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "afflictions"
+    }
+   ]
+  },
+  {
+   "id": "7-61",
+   "terms": [
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "afflictions"
+    }
+   ]
+  },
+  {
+   "id": "7-62",
+   "terms": []
+  },
+  {
+   "id": "7-63",
+   "terms": []
+  },
+  {
+   "id": "7-64",
+   "terms": [
+    {
+     "bo": "འདོད་པ",
+     "dm": "sensual desires",
+     "gm": "sensual desires"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    },
+    {
+     "bo": "རྣམ་སྨིན",
+     "dm": "ripens",
+     "gm": "ripening"
+    }
+   ]
+  },
+  {
+   "id": "7-65",
+   "terms": []
+  },
+  {
+   "id": "7-66",
+   "terms": []
+  },
+  {
+   "id": "7-67",
+   "terms": [
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "afflictions"
+    }
+   ]
+  },
+  {
+   "id": "7-68",
+   "terms": [
+    {
+     "bo": "དྲན་པ",
+     "dm": "mindfulness",
+     "gm": "mindfulness"
+    },
+    {
+     "bo": "དམྱལ་བ",
+     "dm": "hell",
+     "gm": "hell"
+    }
+   ]
+  },
+  {
+   "id": "7-69",
+   "terms": [
+    {
+     "bo": "ཉེས་པ",
+     "dm": "fault",
+     "gm": "Faults"
+    }
+   ]
+  },
+  {
+   "id": "7-70",
+   "terms": [
+    {
+     "bo": "བརྟུལ་ཞུགས་ཅན",
+     "dm": "practitioner",
+     "gm": "ascetic"
+    }
+   ]
+  },
+  {
+   "id": "7-71",
+   "terms": [
+    {
+     "bo": "གཉིད",
+     "dm": "sleep",
+     "gm": "sleep"
+    },
+    {
+     "bo": "སྙོམ",
+     "dm": "lethargy",
+     "gm": "lethargy"
+    }
+   ]
+  },
+  {
+   "id": "7-72",
+   "terms": [
+    {
+     "bo": "ཉེས་པ",
+     "dm": "fault",
+     "gm": "fault"
+    }
+   ]
+  },
+  {
+   "id": "7-73",
+   "terms": [
+    {
+     "bo": "དྲན་པ",
+     "dm": "mindfulness",
+     "gm": "mindfulness"
+    }
+   ]
+  },
+  {
+   "id": "7-74",
+   "terms": [
+    {
+     "bo": "བག་ཡོད",
+     "dm": "heedfulness",
+     "gm": "heedfulness"
+    }
+   ]
+  },
+  {
+   "id": "7-75",
+   "terms": [
+    {
+     "bo": "སྤྲོ་བ",
+     "dm": "enthusiasm",
+     "gm": "joy"
+    }
+   ]
+  },
+  {
+   "id": "7-a",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ",
+     "dm": "Bodhicaryāvatāra",
+     "gm": "Entering the Way of the Bodhisattva"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": null,
+     "gm": "Bodhisattva"
+    },
+    {
+     "bo": "བརྩོན་འགྲུས",
+     "dm": "Diligence",
+     "gm": "Joyous Effort"
+    },
+    {
+     "bo": "བརྩོན་འགྲུས་བསྟན་པ",
+     "dm": "The Explanation of Diligence",
+     "gm": "The Teaching on Joyous Effort"
+    }
+   ]
+  }
+ ]
+}

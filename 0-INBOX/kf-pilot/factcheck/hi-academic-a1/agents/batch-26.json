@@ -1,0 +1,113 @@
+{
+ "batch": "batch-26",
+ "segments": [
+  {
+   "id": "7-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-5",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "सम्यक् रूप से आसक्ति करता है",
+     "evidence": "Tibetan ཡང་དག་ཆགས་པར་བྱེད་པ། ('truly/thoroughly attached'); bo-kunpal 8-5 glosses ཡང་དག་པའམ་ངེས་པར་ཆགས་པ ('truly or definitely attached'). 'सम्यक्' reads as 'right/correct' attachment, which is not the sense.",
+     "fix": "वास्तव में (दृढ़ता से) आसक्त होता है"
+    }
+   ]
+  },
+  {
+   "id": "8-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-10",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

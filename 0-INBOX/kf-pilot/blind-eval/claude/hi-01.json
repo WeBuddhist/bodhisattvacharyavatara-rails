@@ -1,0 +1,198 @@
+{
+ "segments": [
+  {
+   "id": "1-11",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "जगत् के प्राणियों के स्थानों से मुक्त होने के इच्छुक",
+      "explanation": "Literal 'places of beings' is unclear; the Tibetan means the realms/states of cyclic existence."
+     }
+    ]
+   }
+  },
+  {
+   "id": "1-27",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "2-22",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "2-53",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "2-57",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "3-15",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "4-20",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "4-29",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "5-12",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "5-41",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "परीक्षण करूँगा",
+      "explanation": "Tibetan is an injunction to examine the mind, not a first-person resolve; mood/person shifted."
+     }
+    ],
+    "B": []
+   }
+  },
+  {
+   "id": "5-47",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "विवेक से आचरण करूँगा",
+      "explanation": "Tibetan is an injunction (be endowed with reason); first-person future shifts person and breaks the impersonal construction."
+     }
+    ]
+   }
+  },
+  {
+   "id": "5-85",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "5-98",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "6-6",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "6-30",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "कार्य करते समय … व्यापार ने",
+      "explanation": "The same term byed pa is rendered inconsistently, as 'कार्य' and 'व्यापार'."
+     }
+    ]
+   }
+  },
+  {
+   "id": "6-64",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "6-87",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "6-98",
+   "candidates": {
+    "A": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "वैराग्य",
+      "explanation": "skyo ba (saṃvega, weariness with saṃsāra) rendered as 'वैराग्य' (dispassion), a different concept."
+     },
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "उत्तम सम्पदा",
+      "explanation": "'उत्तम' (excellent) is added; the Tibetan says only prosperity/excellence of fortune."
+     }
+    ],
+    "B": []
+   }
+  },
+  {
+   "id": "6-126",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "7-10",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "तुम क्या करोगे",
+      "explanation": "Commentaries read 'what can I do' (first person); second person follows the Sanskrit, not the Tibetan."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "मूर्च्छित",
+      "explanation": "mgyos pa means intoxicated/deranged, loss of control; 'faint/unconscious' is a different sense."
+     }
+    ],
+    "B": []
+   }
+  }
+ ]
+}

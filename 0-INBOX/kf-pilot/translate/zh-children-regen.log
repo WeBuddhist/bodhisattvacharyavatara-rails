@@ -1,0 +1,37 @@
+(anon):setopt:7: can't change option: monitor
+
+[[31mERROR[39m]: gitstatus failed to initialize.
+
+
+  Add the following parameter to ~/.zshrc for extra diagnostics on error:
+
+    GITSTATUS_LOG_LEVEL=DEBUG
+
+  Restart Zsh to retry gitstatus initialization:
+
+    [32mexec zsh[39m
+segments to translate=15 batches=3
+  1-32..6-89 ok
+  6-133..9-44 ok
+  9-123..9-148 ok
+rendered 941/941 blocks; segments still missing a locked term: 0
+segments to translate=105 batches=18
+  1-5..1-17 ok
+  1-18..2-48 ok
+  2-64..4-35 ok
+  4-43..5-45 ok
+  5-78..5-101 ok
+  5-102..6-21 ok
+  6-39..6-109 ok
+  6-116..7-11 ok
+  7-18..7-62 ok
+  7-74..8-43 ok
+  8-52..8-92 ok
+  8-102..8-168 ok
+  8-172..9-19 ok
+  9-22..9-57 ok
+  9-61..9-87 ok
+  9-92..9-116 ok
+  9-139..10-4 ok
+  10-7..b-1 ok
+rendered 941/941 blocks; segments still missing a locked term: 0

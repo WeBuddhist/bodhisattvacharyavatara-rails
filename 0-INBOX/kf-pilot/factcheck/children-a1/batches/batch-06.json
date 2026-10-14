@@ -1,0 +1,712 @@
+[
+ {
+  "id": "5-12",
+  "tibetan": "སེམས་ཅན་མི་སྲུན་ནམ་མཁའ་བཞིན། ། དེ་དག་གཞོམ་གྱིས་ཡོང་མི་ལང་། ། ཁྲོ་བའི་སེམས་འདི་གཅིག་བཅོམ་ན། ། དགྲ་དེ་ཐམས་ཅད་ཆོམས་དང་འདྲ། །",
+  "academic_translation": "Unruly sentient beings are like space;\nThey can never be fully overcome.\nIf this single mind of anger is overcome,\nIt is as if all those enemies were overcome.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "ཁྲོ་བའི་སེམས",
+    "use": "mind of anger"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "Wild living beings are as endless as space. They can never be fully defeated. But if this single mind of anger is defeated, it is like defeating all those enemies at once."
+ },
+ {
+  "id": "5-13",
+  "tibetan": "ས་སྟེང་འདི་དག་ཀོས་གཡོག་ཏུ། ། དེ་སྙེད་ཀོ་བས་ག་ལ་ལང་། ། ལྷམ་མཐིལ་ཙམ་གྱི་ཀོ་བས་ནི། ། ས་སྟེང་ཐམས་ཅད་གཡོགས་དང་འདྲ། །",
+  "academic_translation": "To cover this surface of the earth with leather,\nHow could there be enough leather?\nWith just the leather for the soles of one's shoes,\nIt is as if the entire surface of the earth were covered.",
+  "locked_terms": [],
+  "translation": "How could there ever be enough leather to cover the whole earth? But with just enough leather for the soles of your shoes, it is as if the whole earth is covered."
+ },
+ {
+  "id": "5-14",
+  "tibetan": "དེ་བཞིན་ཕྱི་རོལ་དངོས་པོ་ཡང་། ། བདག་གིས་ཕྱིར་བཟློག་མི་ལང་གི ། བདག་གི་སེམས་འདི་ཕྱིར་བཟློག་བྱའི། ། གཞན་རྣམས་བཟློག་གོ་ཅི་ཞིག་དགོས། །",
+  "academic_translation": "Likewise, external entities too\nCannot be completely turned back by me;\nI shall turn back this mind of mine;\nWhat need is there to turn back others?",
+  "locked_terms": [
+   {
+    "tibetan": "ཕྱི་རོལ་དངོས་པོ",
+    "use": "outside thing"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "In the same way, I cannot stop every outside thing. I will just stop this mind of mine. What need is there to stop anything else?"
+ },
+ {
+  "id": "5-15",
+  "tibetan": "སེམས་གསལ་གཅིག་བསྐྱེད་འབྲས་བུ་གང་། ། ཚངས་ལ་སོགས་པ་ཡིན་པ་ལྟར། ། ལུས་ངག་བཅས་པའི་འབྲས་བུ་ཡང་། ། སྤྱོད་པ་ཞན་པས་དེ་ལྟ་མིན། །",
+  "academic_translation": "Whatever the result of generating a single clear mind,\nSuch as Brahmā and so forth,\nThe result, even when accompanied by body and speech,\nBecause of weak conduct, is not like that.",
+  "locked_terms": [
+   {
+    "tibetan": "ཚངས",
+    "use": "Brahma"
+   },
+   {
+    "tibetan": "སེམས་གསལ",
+    "use": "clear mind"
+   },
+   {
+    "tibetan": "ལུས་ངག",
+    "use": "body and words"
+   },
+   {
+    "tibetan": "འབྲས་བུ",
+    "use": "result"
+   }
+  ],
+  "translation": "Having just one clear mind brings a great result. It can make you like Brahma. But if your actions are weak, just using your body and words will not bring a result like that."
+ },
+ {
+  "id": "5-16",
+  "tibetan": "བཟླས་བརྗོད་དང་ནི་དཀའ་ཐུབ་ཀུན། ། ཡུན་རིང་དུས་སུ་སྤྱད་བྱས་ཀྱང་། ། སེམས་གཞན་གཡེངས་པས་བྱས་པ་ནི། ། དེ་ཉིད་རིག་པས་དོན་མེད་གསུངས། །",
+  "academic_translation": "All recitations and austerities,\nEven if practiced for a long time,\nIf performed with a mind distracted elsewhere,\nAre said by the Knower of Reality to be meaningless.",
+  "locked_terms": [
+   {
+    "tibetan": "བཟླས་བརྗོད",
+    "use": "recitation"
+   },
+   {
+    "tibetan": "དཀའ་ཐུབ",
+    "use": "hard practice"
+   },
+   {
+    "tibetan": "དེ་ཉིད་རིག་པ",
+    "use": "Knower of the way things really are"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "You might do recitation and hard practice for a long time. But if you do them with a wandering mind, they are meaningless. The Knower of the way things really are said this."
+ },
+ {
+  "id": "5-17",
+  "tibetan": "གང་གིས་ཆོས་ཀྱི་གཙོ་བོ་མཆོག ། སེམས་ཀྱི་གསང་འདི་མ་ཤེས་ན། ། བདེ་ཐོབ་སྡུག་བསྔལ་གཞོམ་འདོད་ཀྱང་། ། དེ་དག་དོན་མེད་གྱི་ནར་འཁྱམ། །",
+  "academic_translation": "Whoever does not know the supreme principal of the Dharma,\nThis secret of the mind,\nEven though they wish to attain happiness and overcome suffering,\nThey will wander meaninglessly and in vain.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོས",
+    "use": "teachings"
+   },
+   {
+    "tibetan": "སེམས་ཀྱི་གསང",
+    "use": "secret of the mind"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "Some people do not know the most important part of the teachings. They do not know this secret of the mind. They want to find happiness and end suffering. But they will just wander around for no reason."
+ },
+ {
+  "id": "5-18",
+  "tibetan": "དེ་ལྟས་བདག་གི་སེམས་འདི་ནི། ། ལེགས་གཟུང་ལེགས་པར་བསྲུང་བར་བྱ། ། སེམས་བསྲུང་བརྟུལ་ཞུགས་མ་གཏོགས་པ། ། བརྟུལ་ཞུགས་མང་པོས་ཅི་ཞིག་བྱ། །",
+  "academic_translation": "Therefore, this mind of mine\nI shall hold well and properly guard.\nExcept for the ascetic discipline of guarding the mind,\nWhat is the use of many ascetic disciplines?",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   },
+   {
+    "tibetan": "སེམས་བསྲུང",
+    "use": "guarding the mind"
+   },
+   {
+    "tibetan": "བརྟུལ་ཞུགས",
+    "use": "strict practice"
+   }
+  ],
+  "translation": "Because of this, I will carefully hold and protect this mind of mine. What is the point of doing many kinds of strict practice? The only one I need is the strict practice of guarding the mind."
+ },
+ {
+  "id": "5-19",
+  "tibetan": "མ་གྲངས་དྲོལ་བའི་ཁྲོད་གནས་ན། ། སྒྲིམས་ཏེ་རྨ་ཡི་བག་བྱེད་བཞིན། ། སྐྱེ་བོ་ངན་ཁྲོད་གནས་པས་ཀྱང་། ། སེམས་ཀྱི་རྨ་འདི་རྟག་ཏུ་བསྲུང་། །",
+  "academic_translation": "When dwelling in the midst of an unruly crowd,\nJust as one carefully protects a wound,\nSo too, when dwelling among bad people,\nOne should always guard this wound of the mind.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཀྱི་རྨ",
+    "use": "wound of the mind"
+   }
+  ],
+  "translation": "If you are in a wild crowd, you carefully protect a bodily wound. In the same way, when you are around bad people, you must always protect this wound of the mind."
+ },
+ {
+  "id": "5-20",
+  "tibetan": "རྨ་ཡི་སྡུག་བསྔལ་ཆུང་ངུ་ཡིས། ། སྐྲག་པའང་རྨ་ཡི་བག་བྱེད་ན། ། བསྡུས་འཇོམས་རིས་འཇོམས་སྐྲག་པ་དག ། སེམས་ཀྱི་རྨ་ལྟ་ཅིས་མི་སྲུང་། །",
+  "academic_translation": "If even one afraid of the minor suffering of a wound\nCarefully protects a wound,\nWhy do those who fear the Crushing Hell and Destroying hell\nNot guard the wound of the mind?",
+  "locked_terms": [
+   {
+    "tibetan": "བསྡུས་འཇོམས",
+    "use": "Crushing Hell"
+   },
+   {
+    "tibetan": "རིས་འཇོམས",
+    "use": "Destroying hell"
+   },
+   {
+    "tibetan": "སེམས་ཀྱི་རྨ",
+    "use": "wound of the mind"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "A person carefully protects a scratch because they fear the small suffering of a wound. So why do people who fear the Crushing Hell and Destroying hell not guard the wound of the mind?"
+ },
+ {
+  "id": "5-21",
+  "tibetan": "སྤྱོད་པ་འདི་འདྲས་གནས་བྱེད་ན། ། སྐྱེ་བོ་ངན་པའི་ཁྲོད་གནས་སམ། ། བུད་མེད་ཁྲོད་ན་གནས་ཀྱང་རུང་། ། སྡོམ་བརྩོན་བརྟན་པ་ཉམས་མི་འགྱུར། །",
+  "academic_translation": "If one abides in such conduct,\nWhether dwelling among wicked people\nOr even dwelling among women,\nThe steadfast practitioner of restraint will not decline.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡོམ་བརྩོན",
+    "use": "person of self-restraint"
+   }
+  ],
+  "translation": "If a person acts like this, they will stay strong. Whether living among bad people or among women, a steady person of self-restraint will not fail."
+ },
+ {
+  "id": "5-22",
+  "tibetan": "བདག་གི་རྙེད་དང་བཀུར་སྟི་དང་། ། ལུས་དང་འཚོ་བ་མེད་བླ་ཞིང་། ། དགེ་བ་གཞན་ཡང་ཉམས་བླ་ཡི། ། སེམས་ནི་ནམས་ཀྱང་ཉམས་མི་བྱ། །",
+  "academic_translation": "Better that my gain and honor\nAnd my body and livelihood perish,\nAnd better that other virtues decline,\nBut I must never let my mind decline.",
+  "locked_terms": [
+   {
+    "tibetan": "རྙེད",
+    "use": "gain"
+   },
+   {
+    "tibetan": "བཀུར་སྟི",
+    "use": "honor"
+   },
+   {
+    "tibetan": "དགེ་བ",
+    "use": "good deed"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "It is better to lose my gain and honor. It is better to lose my body and my life. It is even better to lose other good deeds. But I must never let my mind fail."
+ },
+ {
+  "id": "5-23",
+  "tibetan": "སེམས་བསྲུང་འདོད་པ་རྣམས་ལ་ནི། ། དྲན་པ་དང་ནི་ཤེས་བཞིན་དག ། ཐམས་ཅད་འབད་པས་སྲུངས་ཤིག་ཅེས། ། བདག་ནི་དེ་ལྟར་ཐལ་མོ་སྦྱོར། །",
+  "academic_translation": "To those who wish to guard the mind,\n\"Both mindfulness and introspection,\nGuard them with all your effort!\"—saying this,\nI thus join my palms together.",
+  "locked_terms": [
+   {
+    "tibetan": "དྲན་པ",
+    "use": "keeping in mind"
+   },
+   {
+    "tibetan": "ཤེས་བཞིན",
+    "use": "watchfulness"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "To those who want to guard the mind, I put my hands together and ask this. Guard both keeping in mind and watchfulness with all your effort!"
+ },
+ {
+  "id": "5-24",
+  "tibetan": "ནད་ཀྱིས་དཀྲུགས་པའི་མི་དག་ནི། ། ལས་རྣམས་ཀུན་ལ་མཐུ་མེད་པ། ། དེ་བཞིན་རྨོངས་པས་སེམས་དཀྲུགས་པ། ། ལས་རྣམས་ཀུན་ལ་མཐུ་མེད་དོ། །",
+  "academic_translation": "People who are disturbed by illness\nAre powerless in all activities;\nLikewise, the mind disturbed by delusion\nIs powerless in all activities.",
+  "locked_terms": [
+   {
+    "tibetan": "རྨོངས་པ",
+    "use": "confusion"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "People who are troubled by illness have no power to do anything. In the same way, a mind troubled by confusion has no power to do anything."
+ },
+ {
+  "id": "5-25",
+  "tibetan": "ཤེས་བཞིན་མེད་པའི་སེམས་ལྡན་པའི། ། ཐོས་དང་བསམས་དང་བསྒོམས་པ་ཡང་། ། གློ་རྡོལ་བུམ་པའི་ཆུ་བཞིན་དུ། ། དྲན་པ་ལ་ནི་དེ་མི་གནས། །",
+  "academic_translation": "For one who has a mind lacking introspection,\nEven what is heard, pondered, and meditated upon,\nLike water in a leaking vase,\nDoes not remain in mindfulness.",
+  "locked_terms": [
+   {
+    "tibetan": "ཤེས་བཞིན",
+    "use": "watchfulness"
+   },
+   {
+    "tibetan": "དྲན་པ",
+    "use": "keeping in mind"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "If someone has a mind without watchfulness, what they hear, think about, and practice will leak out. Like water in a cracked pot, it does not stay in keeping in mind."
+ },
+ {
+  "id": "5-26",
+  "tibetan": "ཐོས་ལྡན་དད་པ་ཅན་དང་ནི། ། བརྩོན་པ་ལྷུར་ལེན་དུ་མ་ཡང་། ། ཤེས་བཞིན་མེད་པའི་སྐྱོན་ཆགས་པས། ། ལྟུང་བའི་རྙོག་དང་བཅས་པར་འགྱུར། །",
+  "academic_translation": "Even many who possess learning and faith,\nAnd who are dedicated to diligence,\nBy incurring the fault of lacking introspection,\nWill become tainted by the stain of downfalls.",
+  "locked_terms": [
+   {
+    "tibetan": "དད་པ",
+    "use": "faith"
+   },
+   {
+    "tibetan": "བརྩོན་པ",
+    "use": "effort"
+   },
+   {
+    "tibetan": "ཤེས་བཞིན",
+    "use": "watchfulness"
+   },
+   {
+    "tibetan": "ལྟུང་བ",
+    "use": "fall"
+   }
+  ],
+  "translation": "Many people have learning and faith. Many people work hard with great effort. But if they make the mistake of lacking watchfulness, they will be stained by a fall."
+ },
+ {
+  "id": "5-27",
+  "tibetan": "ཤེས་བཞིན་མེད་པའི་ཆོམ་རྐུན་དག ། དྲན་པ་ཉམས་པའི་རྗེས་འབྲང་བས། ། བསོད་ནམས་དག་ནི་ཉེར་བསགས་ཀྱང་། ། རྐུན་པོས་ཕྲོགས་བཞིན་ངན་འགྲོར་འགྲོ། །",
+  "academic_translation": "Because the thieves of a lack of introspection\nFollow upon the decline of mindfulness,\nEven when merits have been accumulated,\nOne goes to the lower realms, as if robbed by thieves.",
+  "locked_terms": [
+   {
+    "tibetan": "ཤེས་བཞིན",
+    "use": "watchfulness"
+   },
+   {
+    "tibetan": "དྲན་པ",
+    "use": "keeping in mind"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "store of goodness"
+   },
+   {
+    "tibetan": "ངན་འགྲོ",
+    "use": "unhappy realm"
+   }
+  ],
+  "translation": "When keeping in mind fades away, the thieves of lost watchfulness sneak in. Even if I have gathered a store of goodness, they rob me. Then I go down to an unhappy realm."
+ },
+ {
+  "id": "5-28",
+  "tibetan": "ཉོན་མོངས་ཆོམ་རྐུན་ཚོགས་འདི་ནི། ། གླགས་སྐབས་ཚོལ་བར་བྱེད་པ་སྟེ། ། གླགས་རྙེད་གྱུར་ནས་དགེ་འཕྲོག་ཅིང་། ། བདེ་འགྲོའི་སྲོག་ཀྱང་འཇོམས་པར་བྱེད། །",
+  "academic_translation": "This band of affliction thieves\nSearches for an opportunity;\nHaving found an opportunity, they steal virtue,\nAnd destroy even the life of a happy realm.",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   },
+   {
+    "tibetan": "དགེ",
+    "use": "good deed"
+   },
+   {
+    "tibetan": "བདེ་འགྲོ",
+    "use": "happy realm"
+   }
+  ],
+  "translation": "This gang of thieves, made of troubling emotions, looks for a chance to strike. When they find it, they steal every good deed. They even destroy life in a happy realm."
+ },
+ {
+  "id": "5-29",
+  "tibetan": "དེ་བས་དྲན་པ་ཡིད་སྒོ་ནས། ། གུད་དུ་ནམ་ཡང་མི་གཏོང་ངོ་། ། སོང་ནའང་ངན་འགྲོ་གནོད་པ་དག ། དྲན་པར་བྱས་ཏེ་ཉེ་བར་བཞག །",
+  "academic_translation": "Therefore, one should never let mindfulness go\nFrom the gateway of the mind.\nEven if it departs, recalling the harms of the lower realms,\nOne should closely establish it.",
+  "locked_terms": [
+   {
+    "tibetan": "དྲན་པ",
+    "use": "keeping in mind"
+   },
+   {
+    "tibetan": "ཡིད་སྒོ",
+    "use": "door of the mind"
+   },
+   {
+    "tibetan": "ངན་འགྲོ",
+    "use": "unhappy realm"
+   }
+  ],
+  "translation": "So, I must never let keeping in mind wander away from the door of the mind. If it does leave, I should remember the pain of the unhappy realms and bring it right back."
+ },
+ {
+  "id": "5-30",
+  "tibetan": "བླ་མ་དང་ནི་འགྲོགས་པ་ལས། ། མཁན་པོས་རྗེས་སུ་བསྟན་པ་དང་། ། འཇིགས་པས་སྐལ་ལྡན་གུས་བྱེད་ལ། ། དྲན་པ་བདེ་བླག་ཉིད་དུ་སྐྱེ། །",
+  "academic_translation": "From associating with a teacher,\nAnd the instruction of a preceptor,\nFor fortunate ones who act with respect out of fear,\nMindfulness is easily generated.",
+  "locked_terms": [
+   {
+    "tibetan": "བླ་མ",
+    "use": "teacher"
+   },
+   {
+    "tibetan": "མཁན་པོ",
+    "use": "teacher who ordained me"
+   },
+   {
+    "tibetan": "དྲན་པ",
+    "use": "keeping in mind"
+   }
+  ],
+  "translation": "For lucky people who act with careful respect, keeping in mind grows easily. This happens by spending time with a teacher and listening to the teacher who ordained me."
+ },
+ {
+  "id": "5-31",
+  "tibetan": "སངས་རྒྱས་བྱང་ཆུབ་སེམས་དཔའ་དག ། ཀུན་དུ་ཐོགས་མེད་གཟིགས་པར་ལྡན། ། དེ་དག་ཐམས་ཅད་སྤྱན་སྔ་ན། ། རྟག་པར་བདག་ནི་གནས་སོ་ཞེས། །",
+  "academic_translation": "The Buddhas and bodhisattvas\nPossess unobstructed vision everywhere.\n\"In the presence of them all,\nI always dwell.\"",
+  "locked_terms": [
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   }
+  ],
+  "translation": "The Buddhas and awakening heroes can see everywhere without anything blocking their view. I should think, \"I am always standing right in front of them all.\""
+ },
+ {
+  "id": "5-32",
+  "tibetan": "དེ་ལྟར་བསམས་ནས་ངོ་ཚ་དང་། ། གུས་དང་འཇིགས་ལྡན་དེ་བཞིན་གནོས། ། དེས་ན་སངས་རྒྱས་རྗེས་དྲན་པའང་། ། དེ་ལ་ཡང་དང་ཡང་དུ་འབྱུང་། །",
+  "academic_translation": "Having thought in this way, with shame,\nRespect, and fear, one should thus take it on and remain so.\nTherefore, the recollection of the Buddha\nWill also arise in one again and again.",
+  "locked_terms": [
+   {
+    "tibetan": "སངས་རྒྱས་རྗེས་དྲན་པ",
+    "use": "keeping the Buddha in mind"
+   },
+   {
+    "tibetan": "ངོ་ཚ",
+    "use": "shame"
+   }
+  ],
+  "translation": "Thinking this way, I should act with shame, respect, and fear. By doing this, keeping the Buddha in mind will happen to me again and again."
+ },
+ {
+  "id": "5-33",
+  "tibetan": "གང་ཚེ་དྲན་པ་ཡིད་སྒོ་ནས། ། བསྲུང་བའི་དོན་དུ་གནས་གྱུར་པ། ། དེ་ཚེ་ཤེས་བཞིན་འོང་འགྱུར་ཞིང་། ། སོང་བ་དག་ཀྱང་འོང་བར་འགྱུར། །",
+  "academic_translation": "When mindfulness at the gateway of the mind\nRemains for the sake of guarding,\nAt that time introspection will come,\nAnd even that which has gone will return.",
+  "locked_terms": [
+   {
+    "tibetan": "དྲན་པ",
+    "use": "keeping in mind"
+   },
+   {
+    "tibetan": "ཡིད་སྒོ",
+    "use": "door of the mind"
+   },
+   {
+    "tibetan": "ཤེས་བཞིན",
+    "use": "watchfulness"
+   }
+  ],
+  "translation": "When keeping in mind stays at the door of the mind to guard it, watchfulness will come. Even what was lost will come back."
+ },
+ {
+  "id": "5-34",
+  "tibetan": "རེ་ཞིག་དང་པོ་འདི་འདྲའི་སེམས། ། འདི་ནི་སྐྱོན་བཅས་ཤེས་བྱས་ནས། ། དེ་ཚེ་བདག་གིས་ཤིང་བཞིན་དུ། ། ཟུངས་ཐུབ་པར་ནི་གནས་པར་བྱ། །",
+  "academic_translation": "First, having recognized a mind such as this\nTo be faulty,\nAt that time I, like a log of wood,\nShould remain steadfast.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "First, when I see that a mind like this has faults, I should stay firm like a log of wood."
+ },
+ {
+  "id": "5-35",
+  "tibetan": "དོན་མེད་གཡེང་བར་ལྟ་བ་ནི། ། ནམ་ཡང་བདག་གིས་མི་བྱ་སྟེ། ། ངེས་པར་སེམས་པས་རྟག་ཏུ་ནི། ། མིག་ནི་ཕབ་སྟེ་བལྟ་བར་བྱ། །",
+  "academic_translation": "Looking around distractedly without purpose\nI should never do;\nWith a resolute mind, I should always\nLook with eyes cast down.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "I should never look around for no reason. With a firm mind, I should always look down."
+ },
+ {
+  "id": "5-36",
+  "tibetan": "ལྟ་བ་ངལ་བསོའི་ཆེད་དུ་ནི། ། རེས་འགའ་ཕྱོགས་སུ་བལྟ་བར་བྱ། ། འགའ་ཞིག་མིག་ལམ་སྣང་གྱུར་ན། ། བལྟས་ནས་འོངས་པ་ལེགས་ཞེས་བརྗོད། །",
+  "academic_translation": "For the sake of resting the gaze,\nOccasionally I should look in the directions;\nIf someone appears in my field of vision,\nI should look at them and say, \"Welcome.\"",
+  "locked_terms": [],
+  "translation": "To rest my eyes, I should sometimes look around. If I see someone, I should look at them and say, \"Welcome.\""
+ },
+ {
+  "id": "5-37",
+  "tibetan": "ལམ་སོགས་འཇིགས་པ་བརྟག་པའི་ཕྱིར། ། ཡང་དང་ཡང་དུ་ཕྱོགས་བཞིར་བལྟ། ། ངལ་བསོས་ཁ་ནི་ཕྱིར་བལྟས་ནས། ། རྒྱབ་ཀྱི་ཕྱོགས་སུ་བལྟ་བར་བྱ། །",
+  "academic_translation": "To check for dangers on the path and so forth,\nI should look repeatedly in the four directions;\nHaving rested, turning to look back,\nI should look toward the area behind.",
+  "locked_terms": [],
+  "translation": "To check for danger on the path, I should keep looking in all four directions. After resting, I should turn and look behind me."
+ },
+ {
+  "id": "5-38",
+  "tibetan": "མདུན་དང་རྒྱབ་ཏུ་བརྟག་བྱས་ནས། ། འགྲོའམ་ཡང་ན་འོང་བྱ་སྟེ། ། དེ་ལྟར་གནས་སྐབས་ཐམས་ཅད་དུ། ། དགོས་པ་ཤེས་ནས་སྤྱད་པར་བྱ། །",
+  "academic_translation": "Having examined in front and behind,\nI should proceed or else return;\nLikewise, in all situations,\nHaving understood what is needed, I should act.",
+  "locked_terms": [],
+  "translation": "After checking in front and behind me, I should go forward or go back. In the same way, I should always understand what is needed before I act."
+ },
+ {
+  "id": "5-39",
+  "tibetan": "ལུས་ཀྱིས་འདི་ལྟར་གནས་བྱ་ཞེས། ། བྱ་བ་བསྡོགས་ནས་དེ་ནས་ནི། ། སྐབས་སུ་ལུས་འདི་ཇི་ལྟ་བུར། ། གནས་པ་ཡིན་ཞེས་བལྟ་བར་བྱ། །",
+  "academic_translation": "Having set about an action with the thought,\n\"My body shall remain like this,\"\nOne should then occasionally look,\nAsking, \"How is this body remaining?\"",
+  "locked_terms": [],
+  "translation": "When I start an action, I should think, 'My body will stay like this.' Then I should check it sometimes. I should ask, 'How is my body staying?'"
+ },
+ {
+  "id": "5-40",
+  "tibetan": "སེམས་ཀྱི་གླང་ཆེན་མྱོས་པ་ནི། ། ཆོས་ལ་སེམས་པའི་ཀ་ཆེན་ལ། ། ཇི་ལྟར་བཏགས་པ་མི་འཆོར་བར། ། དེ་ལྟར་འབད་པ་ཀུན་གྱིས་བརྟག །",
+  "academic_translation": "So that the mad elephant of the mind,\nOnce tied to the great pillar of reflecting on the Dharma,\nDoes not escape,\nOne should thus examine with all effort.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཀྱི་གླང་ཆེན་མྱོས་པ",
+    "use": "mad elephant of the mind"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "teachings"
+   }
+  ],
+  "translation": "I must try with all my effort to watch the mad elephant of the mind. I must tie it to the great pillar of thinking about the teachings so it does not escape."
+ },
+ {
+  "id": "5-41",
+  "tibetan": "ཅི་ནས་ཏིང་འཛིན་བརྩོན་པ་ནི། ། སྐད་ཅིག་གཅིག་ཀྱང་མི་འཆོར་བར། ། བདག་གི་ཡིད་འདི་གར་སྤྱོད་ཅེས། ། དེ་ལྟར་ཡིད་ལ་སོ་སོར་བརྟག །",
+  "academic_translation": "So that striving in concentration\nIs not lost for even a single moment,\nOne should thus individually examine the mind,\nAsking, \"Where is this mind of mine engaged?\"",
+  "locked_terms": [
+   {
+    "tibetan": "ཏིང་འཛིན",
+    "use": "deep focus"
+   },
+   {
+    "tibetan": "ཡིད",
+    "use": "mind"
+   },
+   {
+    "tibetan": "སྐད་ཅིག",
+    "use": "moment"
+   }
+  ],
+  "translation": "I must try hard not to lose my deep focus for even a single moment. To do this, I must carefully check my mind. I should ask, 'What is my mind doing?'"
+ },
+ {
+  "id": "5-42",
+  "tibetan": "འཇིགས་དང་དགའ་སྟོན་སོགས་འབྲེལ་བར། ། གལ་ཏེ་མི་ནུས་ཅི་བདེར་བྱ། ། འདི་ལྟར་སྦྱིན་པའི་དུས་དག་ཏུ། ། ཚུལ་ཁྲིམས་བཏང་སྙོམས་བྱ་བར་གསུངས། །",
+  "academic_translation": "When involved in dangers, festivities, and the like,\nIf one is unable, one should act at ease;\nFor it is taught that at times of generosity,\nEthical discipline is to be treated with equanimity.",
+  "locked_terms": [
+   {
+    "tibetan": "སྦྱིན་པ",
+    "use": "giving"
+   },
+   {
+    "tibetan": "ཚུལ་ཁྲིམས",
+    "use": "good conduct"
+   },
+   {
+    "tibetan": "བཏང་སྙོམས",
+    "use": "even-mindedness"
+   }
+  ],
+  "translation": "When I face danger or go to a festival, I might not be able to do everything perfectly. If so, I should just relax. It is taught that at times of giving, good conduct should be treated with even-mindedness."
+ },
+ {
+  "id": "5-43",
+  "tibetan": "གང་ཞིག་བསམས་ཏེ་བྱར་བརྩམས་པ། ། དེ་ལས་གཞན་དུ་མི་བསམ་སྟེ། ། དེར་གཏད་པ་ཡི་བསམ་པ་ཡིས། ། དེ་ཉིད་རེ་ཞིག་བསྒྲུབ་པར་བྱ། །",
+  "academic_translation": "Whatever one has intended and begun to do,\nOne should not think of anything other than that;\nWith one's thought directed toward it,\nThat very thing should be accomplished first.",
+  "locked_terms": [],
+  "translation": "When I plan to do something and start it, I should not think of anything else. I should keep my thoughts on it. I must finish that very thing first."
+ },
+ {
+  "id": "5-44",
+  "tibetan": "དེ་ལྟ་ན་ནི་ཀུན་ལེགས་བྱས། ། གཞན་དུ་གཉིས་ཀར་མི་འགྱུར་རོ། ། ཤེས་བཞིན་མ་ཡིན་ཉེ་ཉོན་མོངས། ། དེ་ལྟ་ན་ནི་འཕེལ་མི་འགྱུར། །",
+  "academic_translation": "In that way, everything is well done;\nOtherwise, neither will be accomplished.\nIn that way, the secondary affliction\nOf lacking introspection will not increase.",
+  "locked_terms": [
+   {
+    "tibetan": "ཤེས་བཞིན",
+    "use": "watchfulness"
+   },
+   {
+    "tibetan": "ཉེ་ཉོན་མོངས",
+    "use": "secondary troubling emotion"
+   }
+  ],
+  "translation": "If I act this way, everything is done well. Otherwise, neither task will be finished. In this way, the secondary troubling emotion of lacking watchfulness will not grow."
+ },
+ {
+  "id": "5-45",
+  "tibetan": "བྲེ་མོའི་གཏམ་ནི་སྣ་ཚོགས་དང་། ། ངོ་མཚར་ལྟད་མོ་རྣམ་མང་པོ། ། ཀུན་ལ་འཇུག་པར་གྱུར་པ་ན། ། དེ་ལ་ཆགས་པ་སྤང་བར་བྱ། །",
+  "academic_translation": "Various kinds of idle chatter,\nAnd many sorts of wondrous spectacles—\nWhen engaging in all of them,\nOne should abandon attachment to them.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆགས་པ",
+    "use": "clinging"
+   }
+  ],
+  "translation": "There are many kinds of silly talk and amazing shows. When I join in these things, I must stop clinging to them."
+ },
+ {
+  "id": "5-46",
+  "tibetan": "དོན་མེད་ས་རྐོ་རྩྭ་གཅོད་དང་། ། ས་རིས་འདྲི་སོགས་བྱེད་གྱུར་ན། ། བདེ་གཤེགས་བསླབ་པ་དྲན་བྱས་ནས། ། སྐྲག་པས་དེ་ཡི་མོད་ལ་དོར། །",
+  "academic_translation": "If one digs the earth or cuts grass without purpose,\nOr draws lines on the ground and so forth,\nHaving remembered the training of the Sugata,\nOne should, out of fear, instantly abandon them.",
+  "locked_terms": [
+   {
+    "tibetan": "བདེ་གཤེགས",
+    "use": "Well-Gone One"
+   },
+   {
+    "tibetan": "བསླབ་པ",
+    "use": "training"
+   }
+  ],
+  "translation": "If I dig the earth, cut grass, or draw lines on the ground for no reason, I should remember the training of the Well-Gone One. Out of fear, I should stop right away."
+ },
+ {
+  "id": "5-47",
+  "tibetan": "གང་ཚེ་བསྐྱོད་པར་འདོད་གྱུར་ཏམ། ། སྨྲ་བར་འདོད་པར་གྱུར་ན་ཡང་། ། དང་པོར་རང་གི་སེམས་བརྟགས་ནས། ། བརྟན་པས་རིག་པ་ལྡན་པར་བྱ། །",
+  "academic_translation": "Whenever one desires to move,\nOr even when one desires to speak,\nHaving first examined one's own mind,\nWith steadfastness, one should act with propriety.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "Whenever I want to move or even speak, I should check my own mind first. Then I should act firmly and do the right thing."
+ },
+ {
+  "id": "5-48",
+  "tibetan": "གང་ཚེ་རང་ཡིད་ཆགས་པ་དང་། ། ཁྲོ་བར་འདོད་པ་དེ་ཡི་ཚེ། ། ལས་སུ་མི་བྱ་སྨྲ་མི་བྱ། ། ཤིང་བཞིན་དུ་ནི་གནས་པར་བྱ། །",
+  "academic_translation": "Whenever one's own mind has attachment,\nOr desires anger at that time,\nOne should not act and should not speak;\nOne should remain like a log of wood.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆགས་པ",
+    "use": "clinging"
+   },
+   {
+    "tibetan": "ཡིད",
+    "use": "mind"
+   },
+   {
+    "tibetan": "ཁྲོ་བ",
+    "use": "anger"
+   },
+   {
+    "tibetan": "ཤིང་བཞིན",
+    "use": "like a log"
+   }
+  ],
+  "translation": "Whenever my mind has clinging or wants to feel anger, I should not act or speak. I should stay perfectly still, like a log."
+ },
+ {
+  "id": "5-49",
+  "tibetan": "རྒོད་དང་ག་ཞར་བཅས་པའམ། ། གལ་ཏེ་ང་རྒྱལ་རྒྱགས་ལྡན་པའམ། ། མཚང་འབྲུ་བ་ཡི་བསམ་པ་དང་། ། གལ་ཏེ་སྐྱོར་འབྱིན་སླུ་སེམས་སམ། །",
+  "academic_translation": "If there is agitation or mockery,\nOr if one possesses pride and arrogance,\nAnd the intention of exposing others' faults,\nOr if there is duplicity or a deceptive mind,",
+  "locked_terms": [
+   {
+    "tibetan": "རྒོད",
+    "use": "restlessness"
+   },
+   {
+    "tibetan": "ག་ཞར",
+    "use": "mockery"
+   },
+   {
+    "tibetan": "ང་རྒྱལ",
+    "use": "pride"
+   },
+   {
+    "tibetan": "རྒྱགས",
+    "use": "arrogance"
+   },
+   {
+    "tibetan": "མཚང་འབྲུ་བ",
+    "use": "exposing others' faults"
+   },
+   {
+    "tibetan": "སྐྱོར་འབྱིན",
+    "use": "sneakiness"
+   },
+   {
+    "tibetan": "སླུ་སེམས",
+    "use": "deceiving mind"
+   }
+  ],
+  "translation": "I might feel restlessness or mockery. I might have pride and arrogance. I might think about exposing others' faults. I might have sneakiness or a deceiving mind."
+ },
+ {
+  "id": "5-50",
+  "tibetan": "གང་ཚེ་བདག་བསྟོད་ལྷུར་ལེན་པའམ། ། གཞན་ལ་སྨོད་པ་ཉིད་དང་ནི། ། གཤེ་བཅས་འགྱོད་དང་བཅས་གྱུར་པ། ། དེ་ཚེ་ཤིང་བཞིན་གནས་པར་བྱ། །",
+  "academic_translation": "Whenever one is intent on self-praise,\nOr the very disparagement of others,\nOr becomes abusive and full of regret,\nAt that time, one should remain like a log of wood.",
+  "locked_terms": [
+   {
+    "tibetan": "བདག་བསྟོད",
+    "use": "praising oneself"
+   },
+   {
+    "tibetan": "གཞན་ལ་སྨོད་པ",
+    "use": "putting others down"
+   },
+   {
+    "tibetan": "འགྱོད",
+    "use": "regret"
+   },
+   {
+    "tibetan": "ཤིང་བཞིན",
+    "use": "like a log"
+   }
+  ],
+  "translation": "Sometimes I feel like praising myself or putting others down. I might say mean things and feel full of regret. At those times, I should stay still like a log."
+ },
+ {
+  "id": "5-51",
+  "tibetan": "རྙེད་དང་བཀུར་སྟི་གྲགས་འདོད་པའམ། ། གཡོག་འཁོར་དོན་དུ་གཉེར་འདོད་པའམ། ། བདག་སེམས་རིམ་གྲོ་འདོད་གྱུར་ན། ། དེ་ཚེ་ཤིང་བཞིན་གནས་པར་བྱ། །",
+  "academic_translation": "Desiring gain, honor, or fame,\nOr desiring to seek attendants and retinue,\nOr if my mind desires to be served,\nAt that time, I should remain like a log of wood.",
+  "locked_terms": [
+   {
+    "tibetan": "རྙེད",
+    "use": "gain"
+   },
+   {
+    "tibetan": "བཀུར་སྟི",
+    "use": "honor"
+   },
+   {
+    "tibetan": "གྲགས",
+    "use": "fame"
+   },
+   {
+    "tibetan": "གཡོག་འཁོར",
+    "use": "helpers and followers"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   },
+   {
+    "tibetan": "ཤིང་བཞིན",
+    "use": "like a log"
+   }
+  ],
+  "translation": "If I want gain, honor, or fame, or if I want to seek helpers and followers. If my mind wants to be served, at that time I should stay like a log."
+ }
+]

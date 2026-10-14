@@ -1,0 +1,237 @@
+{
+ "batch": "batch-14",
+ "segments": [
+  {
+   "id": "8-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-23",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "看不起沒有任何得到的財物的人",
+     "evidence": "Beings disparage those without gains and speak harshly to those with gains; meaning intact but the phrase is a tangled chain of 的.",
+     "fix": "眾生看不起沒得到財物的人，對得到財物的人，又會說難聽的話。"
+    }
+   ]
+  },
+  {
+   "id": "8-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-34",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "在世界到處為我們哀痛，還有四個人把我們的身體抬走之前",
+     "evidence": "While the world grieves all around, before four men carry the body away, go to the forest; the '還有' makes the time clause read as a list and is hard to parse.",
+     "fix": "趁著世界各處的人還在為我們哀痛、四個人還沒有把我們的身體抬走之前，我們就該去森林。"
+    }
+   ]
+  },
+  {
+   "id": "8-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-36",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "當我記得佛陀的時候",
+     "evidence": "The Tibetan/academic text says 'recollection of the Buddha and so on' (隨念佛等); the 'etc.' is dropped.",
+     "fix": "這樣一來，當我記得佛陀等等的時候，誰也沒辦法讓我分心。"
+    }
+   ]
+  },
+  {
+   "id": "8-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-43",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "抬起她的頭",
+     "evidence": "Academic translation: 'at first lifted with effort' with no stated object or gender; 'her head' is added.",
+     "fix": "以前要費力地把它抬起來。就算拉起了，也會因為害羞而往下看。"
+    }
+   ]
+  },
+  {
+   "id": "8-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-50",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

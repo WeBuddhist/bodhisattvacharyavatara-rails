@@ -1,0 +1,309 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "8-152",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-153",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-154",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-155",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-156",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བདེ",
+      "reason": "Core concept often tracked alongside suffering.",
+      "dm": "bliss",
+      "gm": "happiness"
+     }
+    ]
+   },
+   {
+    "id": "8-157",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-158",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ལུས",
+      "reason": "Important term, tracked in other segments.",
+      "dm": "body",
+      "gm": "body"
+     }
+    ]
+   },
+   {
+    "id": "8-159",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-160",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-161",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Ordinary verb."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-162",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-163",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-164",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-165",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Ordinary emotion/attitude."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-166",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-167",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-168",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-169",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-170",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སེམས་ཅན",
+      "reason": "Core Buddhist term.",
+      "dm": "sentient beings",
+      "gm": "sentient beings"
+     }
+    ]
+   },
+   {
+    "id": "8-171",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Ordinary word."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-172",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-173",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-174",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-175",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-176",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-177",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-178",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-179",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-180",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-181",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-182",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ལུས",
+      "reason": "Important term, tracked consistently in other segments.",
+      "dm": "body",
+      "gm": "body"
+     }
+    ]
+   },
+   {
+    "id": "8-183",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-184",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-185",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-a",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "8-161",
+    "bo": "ཤོགས",
+    "reason": "Ordinary verb."
+   },
+   {
+    "id": "8-165",
+    "bo": "ངོ་ཚ",
+    "reason": "Ordinary emotion/attitude."
+   },
+   {
+    "id": "8-171",
+    "bo": "ཁོན",
+    "reason": "Ordinary word."
+   }
+  ],
+  "fix_span": [],
+  "add": [
+   {
+    "id": "8-156",
+    "bo": "བདེ",
+    "dm": "bliss",
+    "gm": "happiness",
+    "reason": "Core concept often tracked alongside suffering."
+   },
+   {
+    "id": "8-158",
+    "bo": "ལུས",
+    "dm": "body",
+    "gm": "body",
+    "reason": "Important term, tracked in other segments."
+   },
+   {
+    "id": "8-170",
+    "bo": "སེམས་ཅན",
+    "dm": "sentient beings",
+    "gm": "sentient beings",
+    "reason": "Core Buddhist term."
+   },
+   {
+    "id": "8-182",
+    "bo": "ལུས",
+    "dm": "body",
+    "gm": "body",
+    "reason": "Important term, tracked consistently in other segments."
+   }
+  ]
+ }
+}

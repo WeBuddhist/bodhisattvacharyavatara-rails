@@ -1,0 +1,514 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "6-0",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-1",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-2",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-3",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཡིད",
+      "reason": "Buddhist concept",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "6-4",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Ordinary noun"
+     },
+     {
+      "n": 3,
+      "reason": "Ordinary noun"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-5",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-6",
+    "drop": [
+     {
+      "n": 3,
+      "reason": "Stock phrase, not a glossary term"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-7",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-8",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Ordinary noun"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-9",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཡིད",
+      "reason": "Buddhist concept",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "6-10",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-11",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "Ordinary noun"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-12",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Compositional phrase"
+     },
+     {
+      "n": 2,
+      "reason": "Compositional phrase"
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བདེ་བ",
+      "reason": "Buddhist concept",
+      "dm": "happiness",
+      "gm": "happiness"
+     },
+     {
+      "bo": "སྡུག་བསྔལ",
+      "reason": "Buddhist concept",
+      "dm": "suffering",
+      "gm": "suffering"
+     },
+     {
+      "bo": "སེམས",
+      "reason": "Buddhist concept",
+      "dm": "mind",
+      "gm": "mind"
+     }
+    ]
+   },
+   {
+    "id": "6-13",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-14",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Ordinary verb"
+     },
+     {
+      "n": 2,
+      "reason": "Ordinary noun"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-15",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-16",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Ordinary noun"
+     },
+     {
+      "n": 2,
+      "reason": "Ordinary noun"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-17",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-18",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "Ordinary noun"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-19",
+    "drop": [
+     {
+      "n": 4,
+      "reason": "Ordinary noun"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-20",
+    "drop": [
+     {
+      "n": 3,
+      "reason": "Ordinary noun"
+     },
+     {
+      "n": 4,
+      "reason": "Ordinary noun"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-21",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 5,
+      "bo_fixed": "སྡིག"
+     },
+     {
+      "n": 6,
+      "bo_fixed": "དགེ"
+     }
+    ],
+    "add": [
+     {
+      "bo": "ཡོན་ཏན",
+      "reason": "Buddhist concept",
+      "dm": "qualities",
+      "gm": "quality"
+     }
+    ]
+   },
+   {
+    "id": "6-22",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-23",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Ordinary noun"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-24",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-25",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-26",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-27",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-28",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Ordinary verb"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-29",
+    "drop": [
+     {
+      "n": 5,
+      "reason": "Ordinary adjective"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-30",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-31",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Ordinary phrase"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-32",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "6-33",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Ordinary noun"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "6-4",
+    "bo": "ནོར",
+    "reason": "Ordinary noun"
+   },
+   {
+    "id": "6-4",
+    "bo": "རྗེ་དཔོན",
+    "reason": "Ordinary noun"
+   },
+   {
+    "id": "6-6",
+    "bo": "འདི་དང་གཞན",
+    "reason": "Stock phrase, not a glossary term"
+   },
+   {
+    "id": "6-8",
+    "bo": "དགྲ་བོ",
+    "reason": "Ordinary noun"
+   },
+   {
+    "id": "6-11",
+    "bo": "དགྲ",
+    "reason": "Ordinary noun"
+   },
+   {
+    "id": "6-12",
+    "bo": "བདེ་བའི་རྒྱུ",
+    "reason": "Compositional phrase"
+   },
+   {
+    "id": "6-12",
+    "bo": "སྡུག་བསྔལ་རྒྱུ",
+    "reason": "Compositional phrase"
+   },
+   {
+    "id": "6-14",
+    "bo": "གོམས",
+    "reason": "Ordinary verb"
+   },
+   {
+    "id": "6-14",
+    "bo": "གནོད་པ",
+    "reason": "Ordinary noun"
+   },
+   {
+    "id": "6-16",
+    "bo": "གནོད་པ",
+    "reason": "Ordinary noun"
+   },
+   {
+    "id": "6-16",
+    "bo": "ནད",
+    "reason": "Ordinary noun"
+   },
+   {
+    "id": "6-18",
+    "bo": "གནོད་པ",
+    "reason": "Ordinary noun"
+   },
+   {
+    "id": "6-19",
+    "bo": "གནོད་པ",
+    "reason": "Ordinary noun"
+   },
+   {
+    "id": "6-20",
+    "bo": "དགྲ",
+    "reason": "Ordinary noun"
+   },
+   {
+    "id": "6-20",
+    "bo": "དཔའ་བོ",
+    "reason": "Ordinary noun"
+   },
+   {
+    "id": "6-23",
+    "bo": "ནད",
+    "reason": "Ordinary noun"
+   },
+   {
+    "id": "6-28",
+    "bo": "འགག་པ",
+    "reason": "Ordinary verb"
+   },
+   {
+    "id": "6-29",
+    "bo": "འགྱུར་བ་མེད",
+    "reason": "Ordinary adjective"
+   },
+   {
+    "id": "6-31",
+    "bo": "གཞན་གྱི་དབང",
+    "reason": "Ordinary phrase"
+   },
+   {
+    "id": "6-33",
+    "bo": "དགྲ",
+    "reason": "Ordinary noun"
+   }
+  ],
+  "fix_span": [
+   {
+    "id": "6-21",
+    "bo": "སྡིག་ལ",
+    "bo_fixed": "སྡིག"
+   },
+   {
+    "id": "6-21",
+    "bo": "དགེ་ལ",
+    "bo_fixed": "དགེ"
+   }
+  ],
+  "add": [
+   {
+    "id": "6-3",
+    "bo": "ཡིད",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "Buddhist concept"
+   },
+   {
+    "id": "6-9",
+    "bo": "ཡིད",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "Buddhist concept"
+   },
+   {
+    "id": "6-12",
+    "bo": "བདེ་བ",
+    "dm": "happiness",
+    "gm": "happiness",
+    "reason": "Buddhist concept"
+   },
+   {
+    "id": "6-12",
+    "bo": "སྡུག་བསྔལ",
+    "dm": "suffering",
+    "gm": "suffering",
+    "reason": "Buddhist concept"
+   },
+   {
+    "id": "6-12",
+    "bo": "སེམས",
+    "dm": "mind",
+    "gm": "mind",
+    "reason": "Buddhist concept"
+   },
+   {
+    "id": "6-21",
+    "bo": "ཡོན་ཏན",
+    "dm": "qualities",
+    "gm": "quality",
+    "reason": "Buddhist concept"
+   }
+  ]
+ }
+}

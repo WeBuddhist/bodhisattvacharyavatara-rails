@@ -1,0 +1,261 @@
+{
+ "batch": "batch-21",
+ "segments": [
+  {
+   "id": "9-105",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-107",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-108",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "才能說明所有的仔細檢視",
+     "evidence": "Academic: relying on what is commonly known, all analyses are taught. The children's phrase is awkward and hard to parse.",
+     "fix": "我們是靠著大家都熟悉的事物，才能說出所有的仔細檢視。"
+    }
+   ]
+  },
+  {
+   "id": "9-109",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-110",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-111",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-112",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-113",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-114",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-115",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "我們知道種子存在，是靠跟嫩芽不一樣的覺知。",
+     "evidence": "Academic: 'IF the seed's existence is known by an awareness different from the sprout...' It is a conditional supposition leading to the question; the children's text states it as fact and loses the 'if'.",
+     "fix": "如果要靠跟嫩芽不一樣的覺知，才能知道種子存在，那麼，用來發現要知道的事物的那個覺知，它的存在又是靠什麼來發現呢？"
+    }
+   ]
+  },
+  {
+   "id": "9-116",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "我們能發現一切事物都有原因",
+     "evidence": "Academic: 'by worldly direct perception all causes can be seen' (the causes are visible), not 'everything is found to have causes'.",
+     "fix": "暫且透過日常的直接看見，我們能看到一切原因。像蓮花的莖有各種樣子，就是由不同的原因產生的。"
+    }
+   ]
+  },
+  {
+   "id": "9-117",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-118",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-119",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-120",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-121",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-122",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-123",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "因為他不依靠其他事物。",
+     "evidence": "Academic: 'Why does he not create constantly? He does not depend on anything else.' The logic is: since he is independent he should always create; the children's 'because' makes independence the reason he does not create, reversing the argument.",
+     "fix": "如果神不依靠其他事物，他為什麼不一直創造東西呢？既然沒有不是他創造的東西，他還能依靠什麼呢？"
+    }
+   ]
+  },
+  {
+   "id": "9-124",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-125",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-126",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-127",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-128",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-129",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-130",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-131",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "有人可能會說，快樂是從布料等東西來的。",
+     "evidence": "Academic gives no opponent framing; this is Santideva's own argument (pleasure etc. come from cloth etc.; without that, no pleasure; and permanent pleasure is never perceived). The children's text turns it into an opponent's claim and adds 'cloth does not truly exist'.",
+     "fix": "快樂是從布料等東西來的。如果沒有布料，快樂也就沒有了。而且，我們也從來沒有看見過永不改變的快樂。"
+    }
+   ]
+  },
+  {
+   "id": "9-132",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-133",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-134",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-135",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-136",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-137",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-138",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-139",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "那它是不存在的東西，明顯也是假的",
+     "evidence": "Academic: 'its non-thing is clearly false' - the nonexistence of the false thing is itself false; the children's text says the thing itself is a nonexistent thing and false.",
+     "fix": "因此，如果一件事物是假的，那麼說它「不存在」，也明顯是假的。"
+    }
+   ]
+  },
+  {
+   "id": "9-140",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-141",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-142",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-143",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-144",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "水裡的倒影",
+     "evidence": "Academic: 'like an image/reflection'; no water is mentioned.",
+     "fix": "就像鏡子裡的倒影一樣。"
+    }
+   ]
+  }
+ ]
+}

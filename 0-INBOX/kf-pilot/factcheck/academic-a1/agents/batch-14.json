@@ -1,0 +1,168 @@
+{
+ "batch": "batch-14",
+ "segments": [
+  {
+   "id": "5-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-76",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "in private",
+     "evidence": "ལྐོག་ན་ཡོན་ཏན་བརྗོད་བྱ་ཞིང་ = praise 'behind their back / in their absence' (Sanskrit parokṣam). bo-kunpal 5-76: ལྐོག་ན་འང་དེའི་ཡོན་ཏན་གཞན་ལ་བརྗོད་པས་བསྟོད་པར་བྱ, to avoid the suspicion of flattery (ཁ་གསག); bo-shenga 5-76 same. 'In private' implies a private (possibly face-to-face) setting, not the person's absence.",
+     "fix": "in their absence (behind their back)"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "One should understand that as them knowing good qualities.",
+     "evidence": "ཡོན་ཏན་ཤེས་པར་རིག་པར་བྱ: one should recognize the one who speaks of one's qualities as someone who knows good qualities (bo-shenga 5-76 བརྗོད་པ་པོ་དེ། ཡོན་ཏན་ཁོ་ན་ཤེས་པར་རིག་པར་བྱ; bo-gyaltsab 5-76 adds: without arrogance). 'that' and 'them' have no clear referent.",
+     "fix": "one should regard the speaker as one who recognizes good qualities, without becoming conceited."
+    }
+   ]
+  },
+  {
+   "id": "5-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-78",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "In this, there is no loss for me here,",
+     "evidence": "བདག་ལ་འདིར་གོད་ཡོང་མེད་ལ། འདིར = 'here, in this life', contrasted with ཕ་རོལ་དུ (next life); bo-shenga 5-78 ཚེ་འདིར་གོད་པར་འགྱུར་བ་ཡོང་མེད; bo-kunpal 5-78 ཚེ་འདིར. 'In this ... here' is redundant and leaves 'this' unspecified.",
+     "fix": "In this life there is no loss for me,"
+    }
+   ]
+  },
+  {
+   "id": "5-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-81",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "strong dedication",
+     "evidence": "མངོན་ཞེན་ = intense fixation/zeal; bo-kunpal 5-81 glosses it as འདུན་པ་ཤུགས་དྲག་པོ (powerful aspiration, e.g. from faith and compassion); bo-gyaltsab 5-81 འདུན་པ་དྲག་པོས་བྱ་བ. 'Dedication' suggests dedication of merit (བསྔོ་བ).",
+     "fix": "intense, fixed aspiration"
+    }
+   ]
+  },
+  {
+   "id": "5-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-84",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-85",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "those fallen into ruin",
+     "evidence": "ལོག་པར་ལྟུང་ = fallen into wrong/lower states; bo-kunpal 5-85 ལོག་པར་ལྟུང་བ་བྱ་ཁྱི་ལ་སོགས་པ་དུད་འགྲོ་; bo-gyaltsab 5-85 adds animals and pretas (དུད་འགྲོ་དང་ཡི་དྭགས). 'Ruin' could be read as worldly (e.g. financial) ruin.",
+     "fix": "those fallen into wretched states (animals and the like)"
+    }
+   ]
+  },
+  {
+   "id": "5-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-87",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "By all means, in this and other lives as well, It should be given as a cause for accomplishing a great purpose.",
+     "evidence": "ཅི་ནས་ ... གཏང་ངོ་ is conditional: give the body only when/so that it becomes a cause of great purpose in this and other lives. bo-kunpal 5-87 དོན་ཆེན་སྒྲུབ་པའི་རྒྱུར་འགྱུར་ཞིང་དགེ་བའི་བར་ཆད་དུ་མི་འགྱུར་ན་གཏང་ངོ; bo-gyaltsab 5-87 ... རྒྱུར་འགྱུར་བའི་ཚེ་བཏང་ངོ; bo-shenga 5-87 ... རྒྱུར་གྱུར་པར་མཐོང་ན་བཏང་ངོ. 'By all means' reads as an unconditional exhortation to give the body.",
+     "fix": "Rather, only when it becomes a cause for accomplishing a great purpose, in this life and in others, should it be given."
+    }
+   ]
+  },
+  {
+   "id": "5-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-89",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "to the lesser",
+     "evidence": "དམན་ལ་ = to those of lesser capacity/inclination. bo-kunpal 5-89 བློ་དམན་པ་ཉན་རང་གི་ལམ་ལ་མོས་པ; bo-gyaltsab 5-89 བསམ་པ་དམན་པ. The same word 'lesser' then modifies Dharmas in line 3, so the English blurs persons and teachings.",
+     "fix": "to those of lesser capacity"
+    }
+   ]
+  },
+  {
+   "id": "5-90",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Nor should they be deceived with sūtras and mantras.",
+     "evidence": "མདོ་དང་སྔགས་ཀྱིས་འདྲིད་མི་བྱ་: the agent is the teacher, who should not lure others (into neglecting conduct) with sūtras and mantras. bo-gyaltsab 5-90 མདོ་དང་སྔགས་ཀྱིས་གཞན་འདྲིད་པར་མི་བྱའོ; bo-shenga 5-90 ... ཁྱོད་དག་པར་འགྱུར་རོ་ཞེས་འདྲིད་པར་མི་བྱ. The English passive leaves the agent unstated and 'deceived' misses 'lure/entice'.",
+     "fix": "nor should one lure them with sūtras and mantras."
+    }
+   ]
+  },
+  {
+   "id": "5-91",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

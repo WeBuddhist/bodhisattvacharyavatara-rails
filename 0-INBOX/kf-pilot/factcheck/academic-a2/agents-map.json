@@ -1,0 +1,13 @@
+{
+ "step": "factcheck-academic",
+ "text": "bodhicaryavatara",
+ "lang": "en",
+ "model": "sonnet",
+ "session": "ca122cef-33c8-420b-9b53-14f174c7375c",
+ "attempt": 2,
+ "note": "re-check of the 19 a1 fails after regeneration",
+ "agents": {
+  "batch-01": "a39e30984859130e2",
+  "batch-02": "a8141ced22ef78c29"
+ }
+}

@@ -1,0 +1,632 @@
+[
+ {
+  "id": "8-51",
+  "tibetan": "གལ་ཏེ་མི་གཙང་ཆགས་མེད་ན། ། རུས་གཟེབ་རྒྱུས་པས་སྦྲེལ་བ་ལ། ། ཤ་ཡི་འདམ་གྱིས་ཞལ་ཞལ་བྱས། ། གཞན་ཁྱོད་ཅི་ཕྱིར་པང་དུ་འཁྱུད། །",
+  "academic_translation": "If you have no attachment to impurity,\nWhy do you embrace in your lap another—\nA cage of bones bound by sinews,\nPlastered with the mud of flesh?",
+  "locked_terms": [
+   {
+    "tibetan": "མི་གཙང",
+    "use": "filth"
+   },
+   {
+    "tibetan": "རུས་གཟེབ",
+    "use": "cage of bones"
+   }
+  ],
+  "translation": "If you are not attached to filth, why do you hug another person? They are a cage of bones tied together. They are covered with the mud of flesh."
+ },
+ {
+  "id": "8-52",
+  "tibetan": "ཁྱོད་ཉིད་མི་གཙང་མང་ཡོད་པ། ། དེ་ཉིད་ལ་ཁྱོད་གཏན་སྤྱོད་ཅིང་། ། མི་གཙང་རྐྱལ་པ་གཞན་དག་ལའང་། ། མི་གཙང་བརྐམ་པས་འདོད་པར་བྱེད། །",
+  "academic_translation": "You yourself contain much impurity,\nWhich you constantly make use of;\nAnd yet for other bags of filth as well,\nYou desire them out of greed for impurity.",
+  "locked_terms": [
+   {
+    "tibetan": "མི་གཙང",
+    "use": "filth"
+   },
+   {
+    "tibetan": "མི་གཙང་རྐྱལ་པ",
+    "use": "bag of filth"
+   },
+   {
+    "tibetan": "བརྐམ་པ",
+    "use": "greed"
+   }
+  ],
+  "translation": "You are full of filth yourself. You carry it around all the time. Yet you still want other bags of filth. You desire them out of greed for filth."
+ },
+ {
+  "id": "8-53",
+  "tibetan": "བདག་ནི་ཤ་འདི་ལ་དགའ་ཞེས། ། རེག་དང་བལྟ་བར་འདོད་ན་ཀོ། ། སེམས་མེད་པ་ཡི་རང་བཞིན་གྱི། ། ཤ་ནི་ཁྱོད་ཀོ་ཇི་ལྟར་འདོད། །",
+  "academic_translation": "Saying, \"I delight in this flesh,\"\nIf you desire to touch and look at it,\nHow can you desire the flesh\nWhich is of an insentient nature?",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་མེད་པ",
+    "use": "without a mind"
+   }
+  ],
+  "translation": "You say, 'I love this flesh.' You want to touch and look at it. But how can you desire this flesh? It is naturally without a mind."
+ },
+ {
+  "id": "8-54",
+  "tibetan": "འདོད་པའི་སེམས་གང་ཡིན་པ་དེ། ། རེག་དང་བལྟ་བར་མི་ནུས་ལ། ། གང་ཞིག་ནུས་དེ་ཤེས་པ་མིན། ། དོན་མེད་འཁྱུད་དེས་ཅི་ཞིག་བྱ། །",
+  "academic_translation": "That mind which you desire\nCannot be touched or seen,\nAnd that which can be is not consciousness;\nWhat is the use of that meaningless embrace?",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   },
+   {
+    "tibetan": "ཤེས་པ",
+    "use": "awareness"
+   }
+  ],
+  "translation": "The mind you want cannot be seen or touched. The part you can touch is not awareness. So what is the point of that useless hug?"
+ },
+ {
+  "id": "8-55",
+  "tibetan": "མི་གཙང་རང་བཞིན་གཞན་གྱི་ལུས། ། མི་རྟོགས་ངོ་མཚར་མི་ཆེ་ཡི། ། རང་ཉིད་མི་གཙང་ཉིད་ཡིན་པར། ། རྟོགས་པར་མི་འགྱུར་ངོ་མཚར་ཆེ། །",
+  "academic_translation": "Another's body is of the nature of impurity—\nNot realizing this is not a great wonder;\nBut that you yourself are impurity itself—\nNot realizing this is a great wonder!",
+  "locked_terms": [
+   {
+    "tibetan": "མི་གཙང",
+    "use": "filth"
+   },
+   {
+    "tibetan": "རང་བཞིན",
+    "use": "nature"
+   },
+   {
+    "tibetan": "ལུས",
+    "use": "body"
+   }
+  ],
+  "translation": "Another person's body has the nature of filth. It is not surprising if you do not realize this. But you yourself are filth itself. It is a great wonder that you do not realize that!"
+ },
+ {
+  "id": "8-56",
+  "tibetan": "སྤྲིན་བྲལ་ཉི་ཟེར་གྱིས་ཕྱེ་བའི། ། པདྨ་གཞོན་ནུ་སྤངས་ནས་ནི། ། མི་གཙང་ཞེན་པའི་སེམས་ཀྱིས་ནི། ། མི་གཙང་གཟེབ་ལ་ཅི་ཕྱིར་དགའ། །",
+  "academic_translation": "Having abandoned a fresh lotus\nOpened by the rays of a cloudless sun,\nWith a mind attached to impurity,\nWhy do you delight in a cage of filth?",
+  "locked_terms": [
+   {
+    "tibetan": "པདྨ",
+    "use": "lotus"
+   },
+   {
+    "tibetan": "མི་གཙང་གཟེབ",
+    "use": "cage of filth"
+   }
+  ],
+  "translation": "You leave behind a fresh lotus opened by the bright sun. Your mind is attached to filth. Why do you find joy in a cage of filth?"
+ },
+ {
+  "id": "8-57",
+  "tibetan": "ས་ཕྱོགས་མི་གཙང་གིས་གོས་པ། ། གལ་ཏེ་རེག་པར་མི་འདོད་ན། ། གང་ལས་དེ་ནི་བྱུང་བ་ཡི། ། ལུས་ལ་ཇི་ལྟར་ཁྱོད་རེག་འདོད། །",
+  "academic_translation": "If you do not wish to touch a patch of ground\nSmeared with impurity,\nHow can you wish to touch the body\nFrom which that arose?",
+  "locked_terms": [
+   {
+    "tibetan": "མི་གཙང",
+    "use": "filth"
+   },
+   {
+    "tibetan": "ལུས",
+    "use": "body"
+   }
+  ],
+  "translation": "If you refuse to touch a patch of ground smeared with filth, how can you want to touch the body it came from?"
+ },
+ {
+  "id": "8-58",
+  "tibetan": "གལ་ཏེ་མི་གཙང་ཆགས་མེད་ན། ། མི་གཙང་ཞིང་ལས་བྱུང་གྱུར་ཅིང་། ། དེ་ཡི་ས་བོན་དེས་བསྐྱེད་པ། ། གཞན་ཁྱོད་ཅི་ཕྱིར་པང་དུ་འཁྱུད། །",
+  "academic_translation": "If you have no attachment to impurity,\nWhy do you embrace another in your lap\nWho arose from an impure field\nAnd was produced by that seed?",
+  "locked_terms": [
+   {
+    "tibetan": "མི་གཙང་ཞིང",
+    "use": "unclean field"
+   },
+   {
+    "tibetan": "ས་བོན",
+    "use": "seed"
+   }
+  ],
+  "translation": "If you do not like filth, why do you hold someone in your lap who grew from an unclean field and was made by that seed?"
+ },
+ {
+  "id": "8-59",
+  "tibetan": "མི་གཙང་ལས་བྱུང་མི་གཙང་སྲིན། ། ཆུང་ངུའང་ཁྱོད་འདོད་མི་བྱེད་ལ། ། མི་གཙང་མང་གི་རང་བཞིན་ལུས། ། མི་གཙང་སྐྱེས་པའང་འདོད་པར་བྱེད། །",
+  "academic_translation": "You do not desire even a tiny filth-worm\nThat has arisen from impurity,\nYet you desire a body whose nature is much impurity\nAnd which was born from impurity.",
+  "locked_terms": [
+   {
+    "tibetan": "མི་གཙང་སྲིན",
+    "use": "worm born in filth"
+   },
+   {
+    "tibetan": "ལུས",
+    "use": "body"
+   }
+  ],
+  "translation": "You do not want even a tiny worm born in filth. Yet you want a body that is full of filth and born from filth."
+ },
+ {
+  "id": "8-60",
+  "tibetan": "ཁྱོད་ནི་རང་ཉིད་མི་གཙང་ལ། ། སྨོད་མི་བྱེད་པར་མ་ཟད་ཀྱི། ། མི་གཙང་རྐྱལ་པ་མི་གཙང་ལ། ། བརྐམ་པས་གཞན་ཡང་འདོད་པར་བྱེད། །",
+  "academic_translation": "Not only do you not disparage\nYour own impurity,\nBut out of greed for impurity,\nYou also desire another bag of filth.",
+  "locked_terms": [
+   {
+    "tibetan": "མི་གཙང་རྐྱལ་པ",
+    "use": "bag of filth"
+   },
+   {
+    "tibetan": "བརྐམ་པ",
+    "use": "greed"
+   }
+  ],
+  "translation": "You do not even hate your own filth. But out of greed for filth, you also desire another bag of filth."
+ },
+ {
+  "id": "8-61",
+  "tibetan": "ག་པུར་ལ་སོགས་ཡིད་འོང་དང་། ། འབྲས་ཆན་དག་གམ་ཚོད་མའང་རུང་། ། ཁར་བཅུག་ཕྱིར་ཕྱུང་བོར་བ་ཡིས། ། ས་ཡང་མི་གཙང་བཙོག་པར་འགྱུར། །",
+  "academic_translation": "Even pleasant things like camphor,\nOr cooked rice and vegetables,\nOnce put into the mouth and spat out,\nMake even the ground impure and foul.",
+  "locked_terms": [
+   {
+    "tibetan": "ག་པུར",
+    "use": "camphor"
+   }
+  ],
+  "translation": "Think of nice things like camphor, cooked rice, or vegetables. Once you put them in your mouth and spit them out, they make the ground foul."
+ },
+ {
+  "id": "8-62",
+  "tibetan": "གལ་ཏེ་མི་གཙང་འདི་འདྲ་བ། ། མངོན་སུམ་གྱུར་ཀྱང་ཐེ་ཚོམ་ན། ། དུར་ཁྲོད་དག་ཏུ་བོར་བའི་ལུས། ། མི་གཙང་གཞན་ཡང་བལྟ་བར་གྱིས། །",
+  "academic_translation": "If you doubt such impurity as this,\nEven though it is plainly evident,\nThe bodies discarded in the charnel grounds—\nLook at those other impurities as well.",
+  "locked_terms": [
+   {
+    "tibetan": "དུར་ཁྲོད",
+    "use": "place of the dead"
+   },
+   {
+    "tibetan": "ལུས",
+    "use": "body"
+   }
+  ],
+  "translation": "If you still doubt this is unclean, even when it is easy to see, look at the bodies left in the place of the dead. Look at those other unclean things, too."
+ },
+ {
+  "id": "8-63",
+  "tibetan": "གང་ལས་པགས་པའི་ཁ་ཕྱེ་ན། ། འཇིགས་པ་ཆེན་པོ་སྐྱེ་འགྱུར་བར། ། ཤེས་ཀྱང་ཇི་ལྟར་དེ་ཉིད་ལ། ། ཕྱིར་ཞིང་དགའ་བ་སྐྱེ་བར་འགྱུར། །",
+  "academic_translation": "If the skin is peeled away from it,\nGreat terror will arise;\nEven knowing this, how can joy arise\nIn that very same thing once again?",
+  "locked_terms": [],
+  "translation": "If the skin is peeled away from it, you will feel great fear. Since you know this, how can you feel joy for that same thing again?"
+ },
+ {
+  "id": "8-64",
+  "tibetan": "ལུས་ལ་བསྐུས་པའི་དྲི་དེ་ཡང་། ། ཙནྡན་སོགས་ཡིན་གཞན་མ་ཡིན། ། གཞན་གྱི་དྲི་དེས་གཞན་དག་ལ། ། ཅི་ཡི་ཕྱིར་ན་ཆགས་པར་བྱེད། །",
+  "academic_translation": "That scent smeared upon the body, too,\nIs sandalwood and the like, not anything else.\nBecause of that scent of another,\nWhy do you have attachment to another?",
+  "locked_terms": [
+   {
+    "tibetan": "ཙནྡན",
+    "use": "sandalwood"
+   },
+   {
+    "tibetan": "ལུས",
+    "use": "body"
+   },
+   {
+    "tibetan": "ཆགས་པ",
+    "use": "clinging"
+   }
+  ],
+  "translation": "The smell rubbed on the body is just sandalwood and things like that. It is nothing else. Because of that smell of another, why do you have clinging to another?"
+ },
+ {
+  "id": "8-65",
+  "tibetan": "གལ་ཏེ་རང་བཞིན་དྲི་ང་བས། ། འདི་ལ་མ་ཆགས་ལེགས་མིན་ནམ། ། འཇིག་རྟེན་དོན་མེད་སྲེག་པ་དག ། ཇི་སྟེ་དེ་ལ་དྲི་ཞིམ་སྐུད། །",
+  "academic_translation": "If it is naturally foul-smelling,\nIs it not better to have no attachment to it?\nThose in the world who pointlessly crave,\nWhy do they smear sweet scents upon it?",
+  "locked_terms": [
+   {
+    "tibetan": "ཆགས",
+    "use": "clinging"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན",
+    "use": "world"
+   }
+  ],
+  "translation": "If it naturally smells bad, isn't it better to have no clinging to it? Why do people in the world who crave for no reason rub sweet smells on it?"
+ },
+ {
+  "id": "8-66",
+  "tibetan": "འོན་ཏེ་དྲི་ཞིམ་ཙནྡན་ནི། ། ལུས་ལ་འདིར་ནི་ཅི་ཞིག་བྱུང་། ། གཞན་གྱི་དྲི་ཡིས་གཞན་དག་ལ། ། ཅི་ཡི་ཕྱིར་ན་ཆགས་པར་བྱེད། །",
+  "academic_translation": "But if the sweet scent is sandalwood,\nWhat originates from the body here?\nBecause of the scent of another,\nWhy do you have attachment to another?",
+  "locked_terms": [
+   {
+    "tibetan": "ཙནྡན",
+    "use": "sandalwood"
+   },
+   {
+    "tibetan": "ལུས",
+    "use": "body"
+   },
+   {
+    "tibetan": "ཆགས་པ",
+    "use": "clinging"
+   }
+  ],
+  "translation": "But if the sweet smell is sandalwood, what actually comes from the body here? Because of the smell of another, why do you have clinging to another?"
+ },
+ {
+  "id": "8-67",
+  "tibetan": "གལ་ཏེ་སྐྲ་སེན་རིང་བ་དང་། ། སོ་སྐྱ་དྲིར་བཅས་འདམ་གྱི་དྲིས། ། བསྒོས་པས་ལུས་ཀྱི་རང་བཞིན་ནི། ། གཅེར་བུ་འཇིགས་པ་ཉིད་ཡིན་ན། །",
+  "academic_translation": "If, with long hair and nails,\nYellowish teeth with filth, and imbued with the smell of mud,\nThe nature of the body\nIs terrifying indeed when naked,",
+  "locked_terms": [
+   {
+    "tibetan": "ལུས",
+    "use": "body"
+   },
+   {
+    "tibetan": "རང་བཞིན",
+    "use": "nature"
+   }
+  ],
+  "translation": "If it has long hair and nails, dirty yellow teeth, and the smell of mud, the nature of the body is truly scary when naked."
+ },
+ {
+  "id": "8-68",
+  "tibetan": "རང་ལ་གནོད་པའི་མཚོན་བཞིན་དུ། ། དེ་འབད་ཅི་ཕྱིར་བྱི་དོར་བྱེད། ། བདག་ལ་རྨོངས་པའི་འབད་པ་ཡིས། ། སྨྱོས་པས་ས་འདི་ཀུན་ཏུ་འཁྲུགས། །",
+  "academic_translation": "Like a weapon that harms oneself,\nWhy do you make efforts to tend to it?\nThrough the efforts of those deluded regarding the self,\nThis earth is completely agitated by madmen.",
+  "locked_terms": [
+   {
+    "tibetan": "བདག",
+    "use": "self"
+   }
+  ],
+  "translation": "Why do you work so hard to care for it, like a weapon that hurts you? Through the efforts of people confused about the self, this earth is completely stirred up by madmen."
+ },
+ {
+  "id": "8-69",
+  "tibetan": "རུས་གོང་འབའ་ཞིག་མཐོང་ནས་ནི། ། དུར་ཁྲོད་དུ་ནི་ཡིད་འབྱུང་ན། ། གཡོ་བའི་རུས་གོང་གིས་ཁྱབ་པའི། ། གྲོང་གི་དུར་ཁྲོད་ལ་དགའ་འམ། །",
+  "academic_translation": "Having seen nothing but skeletons,\nIf you feel revulsion in the charnel ground,\nDo you delight in the charnel ground of the village,\nPervaded by moving skeletons?",
+  "locked_terms": [
+   {
+    "tibetan": "རུས་གོང",
+    "use": "skeleton"
+   },
+   {
+    "tibetan": "དུར་ཁྲོད",
+    "use": "place of the dead"
+   }
+  ],
+  "translation": "If you feel sick seeing only skeletons in the place of the dead, why do you like the village? The village is also a place of the dead. It is filled with moving skeletons."
+ },
+ {
+  "id": "8-70",
+  "tibetan": "དེ་ལྟར་མི་གཙང་གྱུར་པ་དེ། ། རིན་མེད་པར་ནི་མི་རྙེད་དོ། ། དེ་དོན་བསྒྲུབས་པས་ཤ་ཐང་དང་། ། དམྱལ་ལ་སོགས་པའི་གནོད་པར་འགྱུར། །",
+  "academic_translation": "Even that which has thus become impure\nCannot be obtained without a price.\nFrom accomplishing that purpose comes exhaustion,\nAnd harm in hell and so forth.",
+  "locked_terms": [
+   {
+    "tibetan": "དམྱལ",
+    "use": "hell"
+   }
+  ],
+  "translation": "Even things that are impure cost a price to get. Working for that goal just makes you tired. It also brings harm in hell and other places."
+ },
+ {
+  "id": "8-71",
+  "tibetan": "བྱིས་པ་ནོར་སྤེལ་མི་ནུས་པས། ། དར་ལ་བབ་ན་འདི་ཅི་བདེ། ། ནོར་སོགས་པ་ཡིས་ཚེ་གཏུགས་ན། ། རྒས་ནས་འདོད་པས་ཅི་ཞིག་བྱ། །",
+  "academic_translation": "Since a child cannot amass wealth,\nWhen coming of age, what happiness is there in this?\nIf life is exhausted by amassing wealth,\nOnce old, what can one do with sensual desires?",
+  "locked_terms": [
+   {
+    "tibetan": "འདོད་པ",
+    "use": "desire for pleasure"
+   }
+  ],
+  "translation": "A child cannot gather wealth. When they grow up, what happiness is there in this? If you spend your whole life gathering wealth, you will get old. What can you do then with your desire for pleasure?"
+ },
+ {
+  "id": "8-72",
+  "tibetan": "འདོད་ལྡན་ངན་པ་ཁ་ཅིག་ནི། ། ཉིན་རངས་ལས་ཀྱིས་ཡོངས་དུབ་སྟེ། ། ཁྱིམ་དུ་འོངས་ནས་ཆད་པའི་ལུས། ། རོ་དང་འདྲ་བར་ཉལ་བར་བྱེད། །",
+  "academic_translation": "Some wretched lustful people,\nUtterly exhausted by a full day's work,\nReturn home, and their exhausted bodies\nSleep like corpses.",
+  "locked_terms": [
+   {
+    "tibetan": "འདོད་ལྡན",
+    "use": "person full of desire"
+   }
+  ],
+  "translation": "An unhappy person full of desire works all day and gets completely tired out. They come home, and their tired bodies sleep like dead bodies."
+ },
+ {
+  "id": "8-73",
+  "tibetan": "ཁ་ཅིག་བྱེས་བགྲོད་ཉོན་མོངས་དང་། ། རིང་དུ་སོང་བའི་སྡུག་བསྔལ་ཅན། ། བུ་སྨད་འདོད་བཞིན་བུ་སྨད་རྣམས། ། ཁྱུད་ཁོར་ལོས་ཀྱང་མཐོང་མི་འགྱུར། །",
+  "academic_translation": "Some, afflicted by traveling abroad\nAnd suffering from going far away,\nThough longing for their wives and children,\nDo not see them even for years.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "Some people travel to other places and experience the suffering of going far away. They long to see their wives and children. But they do not see them for years."
+ },
+ {
+  "id": "8-74",
+  "tibetan": "བདག་ལ་ཕན་འདོད་རྣམ་རྨོངས་པས། ། གང་དོན་ཉིད་དུ་བཙོང་བ་ཡང་། ། དེ་མ་ཐོབ་པར་དོན་མེད་པའི། ། གཞན་གྱི་ལས་ཀྱི་རླུང་གིས་བདས། །",
+  "academic_translation": "Utterly deluded, though desiring their own benefit,\nFor whatever purpose they even sell themselves,\nWithout obtaining that, they are driven\nBy the wind of others' meaningless work.",
+  "locked_terms": [],
+  "translation": "Some people are completely confused. They want to help themselves, so they even sell themselves for a goal. But they do not get what they want. They are just blown around by the wind of other people's meaningless work."
+ },
+ {
+  "id": "8-75",
+  "tibetan": "ལ་ལ་རང་གི་ལུས་བཙོང་ཞིང་། ། དབང་མེད་གཞན་གྱིས་བཀོལ་གྱུར་ཏེ། ། ཆུང་མ་དག་ཀྱང་བུ་བྱུང་ན། ། ཤིང་དྲུང་དགོན་པར་བབ་བབ་འབྱུང་། །",
+  "academic_translation": "Some sell their own bodies,\nAnd, powerless, are put to work by others;\nEven when their wives give birth,\nIt happens just anywhere, at the foot of a tree or in the wilderness.",
+  "locked_terms": [
+   {
+    "tibetan": "ལུས",
+    "use": "body"
+   }
+  ],
+  "translation": "Some people sell their own bodies. They have no power and must work for others. When their wives have babies, it happens just anywhere. It might be at the foot of a tree or out in the wild."
+ },
+ {
+  "id": "8-76",
+  "tibetan": "འདོད་པས་བསླུས་པའི་གླེན་པ་དག ། འཚོ་འདོད་འཚོ་བར་བྱའོ་ཞེས། ། སྲོག་སྟོར་དོགས་བཞིན་གཡུལ་དུ་འཇུག ། ཁེ་ཕྱིར་བྲན་དུ་འགྲོ་བར་བྱེད། །",
+  "academic_translation": "Fools deceived by sensual desire,\nWishing to survive and thinking, \"I will make a living,\"\nEnter into battle despite fearing the loss of their lives,\nAnd go into servitude for the sake of profit.",
+  "locked_terms": [
+   {
+    "tibetan": "འདོད་པ",
+    "use": "desire for pleasure"
+   }
+  ],
+  "translation": "Fools are tricked by desire for pleasure. They want to survive and think, \"I will make a living.\" They go into battle even though they fear losing their lives. They become servants just to make a profit."
+ },
+ {
+  "id": "8-77",
+  "tibetan": "འདོད་ལྡན་ལ་ལ་ལུས་ཀྱང་བཅད། ། ཁ་ཅིག་གསལ་ཤིང་རྩེ་ལ་བཙུགས། ། ཁ་ཅིག་མདུང་ཐུང་དག་གིས་བསྣུན། ། ཁ་ཅིག་བསྲེགས་པ་དག་ཀྱང་སྣང་། །",
+  "academic_translation": "Some lustful persons even have their bodies mutilated;\nSome are impaled on the points of stakes;\nSome are pierced by short spears;\nAnd some are even seen being burned.",
+  "locked_terms": [
+   {
+    "tibetan": "འདོད་ལྡན",
+    "use": "person full of desire"
+   }
+  ],
+  "translation": "Sometimes a person full of desire gets their body cut apart. Some are stuck on the sharp points of stakes. Short spears pierce others. You can even see some being burned."
+ },
+ {
+  "id": "8-78",
+  "tibetan": "བསགས་དང་བསྲུང་དང་བརླག་པའི་གདུང་བ་ཡིས། ། ནོར་ནི་ཕུང་ཁྲོལ་མཐའ་ཡས་ཤེས་པར་བྱ། ། ནོར་ལ་ཆགས་པས་གཡེངས་པར་གྱུར་པ་རྣམས། ། སྲིད་པའི་སྡུག་བསྔལ་ལས་གྲོལ་སྐབས་མེད་དོ། །",
+  "academic_translation": "Through the torments of accumulating, guarding, and losing,\nWealth should be known as endless ruin.\nThose who are distracted by attachment to wealth\nHave no opportunity to be freed from the suffering of existence.",
+  "locked_terms": [
+   {
+    "tibetan": "ནོར",
+    "use": "wealth"
+   },
+   {
+    "tibetan": "ཆགས་པ",
+    "use": "clinging"
+   },
+   {
+    "tibetan": "སྲིད་པའི་སྡུག་བསྔལ",
+    "use": "suffering of life"
+   }
+  ],
+  "translation": "Gathering, guarding, and losing wealth brings pain. You should know that wealth causes endless ruin. People get distracted by clinging to wealth. Then they have no chance to be free from the suffering of life."
+ },
+ {
+  "id": "8-79",
+  "tibetan": "འདོད་ལྡན་རྣམས་ལ་དེ་ལ་སོགས། ། ཉེས་དམིགས་མང་ལ་མནོག་ཆུང་སྟེ། ། ཤིང་རྟ་འདྲེན་པའི་ཕྱུགས་དག་གིས། ། རྩྭ་ནི་ཁམ་འགའ་ཟོས་པ་བཞིན། །",
+  "academic_translation": "For lustful persons, these and so forth\nAre the many disadvantages, and the enjoyment is slight,\nJust as beasts that pull a cart\nEat only a few mouthfuls of grass.",
+  "locked_terms": [
+   {
+    "tibetan": "ཉེས་དམིགས",
+    "use": "drawback"
+   },
+   {
+    "tibetan": "འདོད་ལྡན",
+    "use": "person full of desire"
+   }
+  ],
+  "translation": "A person full of desire faces these and many other drawbacks. Their enjoyment is very small. They are just like animals pulling a cart. Those animals only eat a few mouthfuls of grass."
+ },
+ {
+  "id": "8-80",
+  "tibetan": "ཕྱུགས་ཀྱིས་བསྒྲུབས་ནའང་མི་དཀོན་པའི། ། མནོག་ཆུང་གང་ཡིན་དེ་དོན་དུ། ། དལ་འབྱོར་ཕུན་སུམ་རྙེད་དཀའ་འདི། ། ལས་ཀྱིས་མནར་བ་རྣམས་ཀྱིས་བཅོམ། །",
+  "academic_translation": "For the sake of that slight enjoyment,\nWhich is not rare even for beasts to accomplish,\nThis perfect leisure and endowment, so difficult to find,\nIs destroyed by those tormented by karma.",
+  "locked_terms": [
+   {
+    "tibetan": "དལ་འབྱོར",
+    "use": "free and fortunate life"
+   },
+   {
+    "tibetan": "ལས",
+    "use": "action"
+   }
+  ],
+  "translation": "People destroy this free and fortunate life, which is so hard to find. They do this just for a tiny bit of enjoyment. Even animals can easily get that small pleasure. These people are hurt by their own actions."
+ },
+ {
+  "id": "8-81",
+  "tibetan": "འདོད་པ་ངེས་པར་འཇིག་འགྱུར་ཞིང་། ། དམྱལ་ལ་སོགས་པར་ལྟུང་བྱེད་པ། ། ཆེན་པོ་མིན་ཕྱིར་དུས་ཀུན་དུ། ། དུབ་པའི་ཚེགས་བྱུང་གང་ཡིན་པ། །",
+  "academic_translation": "Sensual desires will certainly perish\nAnd cause one to fall into hell and so forth.\nFor the sake of what is not great, at all times,\nWhatever wearisome hardship has occurred—",
+  "locked_terms": [
+   {
+    "tibetan": "འདོད་པ",
+    "use": "desire for pleasure"
+   },
+   {
+    "tibetan": "དམྱལ",
+    "use": "hell"
+   }
+  ],
+  "translation": "A desire for pleasure will certainly fade away. It causes a person to fall into hell and other bad places. We go through so much tiring hardship all the time for something that is not even great."
+ },
+ {
+  "id": "8-82",
+  "tibetan": "དེ་ཡི་བྱེ་བའི་ཆ་ཙམ་གྱི། ། ཚེགས་ཀྱིས་སངས་རྒྱས་ཉིད་འགྲུབ་ན། ། འདོད་ལྡན་བྱང་ཆུབ་སྤྱོད་པ་བས། ། སྡུག་བསྔལ་ཆེ་ལ་བྱང་ཆུབ་མེད། །",
+  "academic_translation": "If, by merely a ten-millionth fraction of that\nHardship, Buddhahood is accomplished,\nFor a lustful person, compared to the conduct of awakening,\nThe suffering is greater, yet there is no awakening.",
+  "locked_terms": [
+   {
+    "tibetan": "སངས་རྒྱས་ཉིད",
+    "use": "state of a Buddha"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སྤྱོད་པ",
+    "use": "way of acting for awakening"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "འདོད་ལྡན",
+    "use": "person full of desire"
+   }
+  ],
+  "translation": "A tiny fraction of that hardship could bring us to the state of a Buddha. A person full of desire goes through suffering worse than the way of acting for awakening. Yet they get no awakening at all."
+ },
+ {
+  "id": "8-83",
+  "tibetan": "དམྱལ་སོགས་སྡུག་བསྔལ་བསམ་བྱས་ན། ། འདོད་པ་རྣམས་ལ་མཚོན་དང་ནི། ། དུག་དང་མེ་དང་གཡང་ས་དང་། ། དགྲ་རྣམས་ཀྱིས་ཀྱང་དཔེར་མི་ཕོད། །",
+  "academic_translation": "If one considers the suffering of hell and so forth,\nFor sensual desires, weapons,\nPoison, fire, precipices,\nAnd enemies cannot even serve as examples.",
+  "locked_terms": [
+   {
+    "tibetan": "དམྱལ",
+    "use": "hell"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "འདོད་པ",
+    "use": "desire for pleasure"
+   }
+  ],
+  "translation": "Think about the suffering in hell caused by a desire for pleasure. Weapons, poison, fire, steep cliffs, and enemies are not nearly as bad. They cannot even be used as examples."
+ },
+ {
+  "id": "8-84",
+  "tibetan": "དེ་ལྟར་འདོད་ལ་སྐྱོ་བྱས་ཏེ། ། དབེན་པ་ལ་ནི་དགའ་བ་བསྐྱེད། ། རྩོད་དང་ཉོན་མོངས་ཀྱིས་སྟོང་པ། ། ཞི་བའི་ནགས་ཀྱི་ནང་དག་ཏུ། །",
+  "academic_translation": "Having thus become weary of desire,\nOne should generate joy for solitude\nWithin peaceful forests\nEmpty of disputes and afflictions.",
+  "locked_terms": [
+   {
+    "tibetan": "འདོད",
+    "use": "desire"
+   },
+   {
+    "tibetan": "དབེན་པ",
+    "use": "solitude"
+   },
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   }
+  ],
+  "translation": "Once you grow tired of desire, you should feel joy for solitude. Go into the peaceful forests. They are completely empty of arguments and troubling emotions."
+ },
+ {
+  "id": "8-85",
+  "tibetan": "སྐལ་ལྡན་ཟླ་འོད་ཙནྡན་གྱིས་བསིལ་བའི། ། ཡངས་པའི་རྡོ་ལེབ་ཁང་བཟང་ཉམས་དགའ་བར། ། སྒྲ་མེད་ཞི་བའི་ནགས་རླུང་གཡོ་བ་ཡིས། ། གཞན་ལ་ཕན་དོན་སེམས་ཤིང་འཆག་པར་བྱེད། །",
+  "academic_translation": "The fortunate ones, in delightful fine dwellings of broad stone slabs\nCooled by moonlight and sandalwood,\nFanned by the silent, peaceful forest breeze,\nPace while contemplating the benefit of others.",
+  "locked_terms": [
+   {
+    "tibetan": "ཙནྡན",
+    "use": "sandalwood"
+   }
+  ],
+  "translation": "Lucky people rest in lovely places made of wide stone slabs. They are cooled by moonlight and sandalwood. A quiet, peaceful forest breeze blows on them. They walk around and think about how to help others."
+ },
+ {
+  "id": "8-86",
+  "tibetan": "ཁང་སྟོང་ཤིང་དྲུང་ཕུག་དག་ཏུ། ། གང་དུ་ཇི་སྲིད་འདོད་གནས་ཤིང་། ། ཡོངས་འཛིན་བསྲུང་བའི་སྡུག་བསྔལ་སྤངས། ། ལྟོས་པ་མེད་པར་བག་ཡངས་སྤྱོད། །",
+  "academic_translation": "In empty houses, at the foot of trees, and in caves,\nStaying wherever and for as long as one desires,\nHaving abandoned the suffering of possessing and guarding,\nOne lives carefree, without dependence.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "They stay in empty houses, under trees, and in caves. They stay wherever they want for as long as they like. They leave behind the suffering of owning and guarding things. They live a carefree life without depending on anything."
+ },
+ {
+  "id": "8-87",
+  "tibetan": "རང་དབང་སྤྱོད་ཅིང་ཆགས་མེད་ལ། ། གང་དང་ཡང་ནི་འབྲེལ་མེད་པ། ། ཆོག་ཤེས་བདེ་སྤྱོད་གང་ཡིན་པ། ། དབང་པོས་ཀྱང་ནི་དེ་རྙེད་དཀའ། །",
+  "academic_translation": "Acting independently and without attachment,\nUnconnected to anyone at all,\nWhatever happiness of contentment one enjoys,\nThat is difficult even for Indra to find.",
+  "locked_terms": [
+   {
+    "tibetan": "ཆོག་ཤེས",
+    "use": "being happy with enough"
+   },
+   {
+    "tibetan": "དབང་པོ",
+    "use": "Indra"
+   }
+  ],
+  "translation": "If I act on my own without clinging, I am not tied to anyone at all. The joy of being happy with enough is hard even for Indra to find."
+ },
+ {
+  "id": "8-88",
+  "tibetan": "དེ་ལ་སོགས་པའི་རྣམ་པ་ཡིས། ། དབེན་པའི་ཡོན་ཏན་བསམ་བྱས་ནས། ། རྣམ་རྟོག་ཉེ་བར་ཞི་བ་དང་། ། བྱང་ཆུབ་སེམས་ནི་བསྒོམ་པར་བྱ། །",
+  "academic_translation": "Through these and other such aspects,\nHaving reflected on the good qualities of solitude,\nWith conceptual thought fully pacified,\nOne should meditate on bodhicitta.",
+  "locked_terms": [
+   {
+    "tibetan": "དབེན་པ",
+    "use": "solitude"
+   },
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   },
+   {
+    "tibetan": "རྣམ་རྟོག",
+    "use": "busy thinking"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས",
+    "use": "awakening mind"
+   }
+  ],
+  "translation": "By thinking about these things, I see the good qualities of solitude. When my busy thinking is completely calm, I should meditate on the awakening mind."
+ },
+ {
+  "id": "8-89",
+  "tibetan": "བདག་དང་གཞན་དུ་མཉམ་པ་ནི། ། དང་པོ་ཉིད་དུ་འབད་དེ་བསྒོམ། ། བདེ་དང་སྡུག་བསྔལ་མཉམ་པས་ན། ། ཐམས་ཅད་བདག་བཞིན་བསྲུང་བར་བྱ། །",
+  "academic_translation": "The equality of self and others\nOne should first strive to meditate upon;\nSince they are equal in happiness and suffering,\nAll should be protected like oneself.",
+  "locked_terms": [
+   {
+    "tibetan": "བདག་དང་གཞན་དུ་མཉམ་པ",
+    "use": "seeing self and others as equal"
+   },
+   {
+    "tibetan": "བདེ",
+    "use": "happiness"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "First, I should try hard to meditate on seeing self and others as equal. Since everyone is equal in happiness and suffering, I should protect everyone just like myself."
+ },
+ {
+  "id": "8-90",
+  "tibetan": "ལག་པ་ལ་སོགས་དབྱེ་བ་རྣམ་མང་ཡང་། ། ཡོངས་སུ་བསྲུང་བྱའི་ལུས་སུ་གཅིག་པ་ལྟར། ། དེ་བཞིན་འགྲོ་བ་ཐ་དད་བདེ་སྡུག་དག ། ཐམས་ཅད་བདག་བཞིན་བདེ་བ་འདོད་མཉམ་གཅིག །",
+  "academic_translation": "Although the divisions of hands and so forth are many,\nJust as they are one as a body to be fully protected,\nLikewise, diverse wandering beings, with their happiness and suffering,\nAre all one in equally desiring happiness, like oneself.",
+  "locked_terms": [
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   },
+   {
+    "tibetan": "བདེ་སྡུག",
+    "use": "happiness and suffering"
+   },
+   {
+    "tibetan": "བདེ་བ",
+    "use": "happiness"
+   }
+  ],
+  "translation": "A body has many parts, like hands, but it is protected as one whole body. In the same way, there are many different beings with their own happiness and suffering. But they are all one in wanting happiness just like me."
+ }
+]

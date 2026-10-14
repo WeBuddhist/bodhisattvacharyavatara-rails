@@ -1,0 +1,121 @@
+{
+ "batch": "batch-26",
+ "segments": [
+  {
+   "id": "7-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-73",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "one should seek encounters",
+     "evidence": "ཕྲད་པ is left without an object in the root, but bo-kunpal 7-73 (བླ་མ་དགེ་བའི་བཤེས་གཉེན་དང་ཕྲད་པ), bo-shenga 7-73 (མཁན་པོ་དང་སློབ་དཔོན་... དང་ཕྲད་པ) and bo-gyaltsab 7-73 (ཐེག་པ་ཆེན་པོའི་དགེ་བའི་བཤེས་གཉེན་དང་འཕྲད་པ) all read it as meeting teachers or spiritual friends; Sanskrit saṃsarga is 'association'. Bare 'encounters' could be read as chance meetings of any kind.",
+     "fix": "one should seek out meeting (with teachers and spiritual friends)"
+    }
+   ]
+  },
+  {
+   "id": "7-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-9",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "If they lead one to unequal fortune",
+     "evidence": "སྐལ་མི་མཉམ་པར་ཁྲིད་བྱེད་ན: bo-shenga 8-9 (འཕགས་པ་རྣམས་དང་སྐལ་བ་མི་མཉམ་པར་ཁྲིད་པར་བྱེད་ན), bo-gyaltsab 8-9 and bo-kunpal 8-9 say the fortune is unequal to that of the noble ones, i.e. they lead one away from the noble ones' destiny. The bare 'unequal fortune' leaves the comparandum open and, following the previous line, reads as unequal to the childish ones' fortune.",
+     "fix": "If they lead one to a fortune unlike that of the noble ones"
+    }
+   ]
+  },
+  {
+   "id": "8-10",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

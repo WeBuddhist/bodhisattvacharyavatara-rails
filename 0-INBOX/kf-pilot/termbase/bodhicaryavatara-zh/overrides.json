@@ -1,0 +1,27 @@
+{
+ "overrides": [],
+ "exclude_terms": [
+  {
+   "term_id": "T463",
+   "bo": "སེམས་ཅན་དམྱལ",
+   "reason": "Mis-cut span, not a term: in 6-47 སེམས་ཅན་དམྱལ་འདོང་ན = 'if beings go to hell' (སེམས་ཅན + དམྱལ་འདོང). Found by the fact-check (academic-a1, 6-47 major). Pipeline correction, 2026-10-08."
+  }
+ ],
+ "exclude_occurrences": [
+  {
+   "id": "4-37",
+   "bo": "ཉོན་མོངས",
+   "reason": "Here ཉོན་མོངས = 'wretched' (pity for the ordinary enemies in the battle simile), not the mental afflictions; Kunpal and Shenga. Fact-check academic-a2 4-37 major."
+  },
+  {
+   "id": "2-27",
+   "bo": "བྱང་ཆུབ་སེམས",
+   "reason": "Metrical short form of བྱང་ཆུབ་སེམས་དཔའ (Skt bodhisattvān; Shenga, Kunpal): 'bodhisattvas', not bodhicitta. Fact-check zh-academic-a1 2-27 major, 2026-10-08."
+  },
+  {
+   "id": "8-150",
+   "bo": "ཉོན་མོངས",
+   "reason": "Here 'wretched' (Shenga: ཉོན་མོངས་ཏེ་དམན་པ), not the afflictions; as en 4-37. Fact-check zh-academic-a1 8-150 major, 2026-10-08."
+  }
+ ]
+}

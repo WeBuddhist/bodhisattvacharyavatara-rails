@@ -1,0 +1,261 @@
+{
+ "batch": "batch-13",
+ "segments": [
+  {
+   "id": "7-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-48",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "Any new action and its results will become weak.",
+     "evidence": "The Tibetan says the 'time of the result' (the ripening time) of the other deed also becomes inferior; the children's text drops 'time of'.",
+     "fix": "Any other action I do, and the time its results come, will become weak."
+    }
+   ]
+  },
+  {
+   "id": "7-49",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "I should build my pride in three things: my action, my troubling emotions, and my ability.",
+     "evidence": "Text says to cultivate pride in karma, afflictions and capacity (confidence that one can handle them); 'pride in my troubling emotions' can be misread as being proud of them.",
+     "fix": "I should have confidence and pride in three things: my action, my power over troubling emotions, and my ability."
+    }
+   ]
+  },
+  {
+   "id": "7-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-64",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "We never get enough of a desire for pleasure, which is like licking honey from a razor's edge.",
+     "evidence": "Sensual desires are like honey smeared on a razor's edge; the contrast that merit's ripening is happiness and peace is only implied. Awkward 'a desire for pleasure'.",
+     "fix": "We never get enough of pleasures, which are like honey on a razor's edge. So how could I ever get enough of goodness whose ripening is happiness and peace?"
+    }
+   ]
+  },
+  {
+   "id": "7-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-67",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "brave warrior",
+     "evidence": "Tibetan/academic: a veteran (experienced) warrior, not merely a brave one.",
+     "fix": "Just like an experienced warrior fighting enemies with swords on a battlefield"
+    }
+   ]
+  },
+  {
+   "id": "7-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-a",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "called Joyful Effort",
+     "evidence": "Title is 'Exposition of Diligence' (brtson 'grus bstan pa); 'Exposition' is dropped.",
+     "fix": "called Teaching on Joyful Effort"
+    }
+   ]
+  },
+  {
+   "id": "8-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-6",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "the mind does not rest as a settled mind",
+     "evidence": "Mind does not rest in meditative equipoise; the phrase is circular and clumsy.",
+     "fix": "the mind cannot become settled"
+    }
+   ]
+  },
+  {
+   "id": "8-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-9",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "share the same path",
+     "evidence": "Text says 'share the same fortune/lot' (skal ba), not path; 'noble path' also reframes 'unlike that of the noble ones'.",
+     "fix": "If I share the same fate as a childish person, I will certainly go to an unhappy realm."
+    }
+   ]
+  },
+  {
+   "id": "8-10",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

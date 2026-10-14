@@ -1,0 +1,276 @@
+{
+ "batch": "batch-13",
+ "segments": [
+  {
+   "id": "7-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-48",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "किसी और काम का समय भी बेकार हो जाएगा",
+     "evidence": "The verse says the time of other actions and of their fruit will become inferior (degraded); the children's text drops \"fruit\" and turns \"inferior\" into \"wasted\".",
+     "fix": "दूसरे कामों और उनके फल का समय भी बिगड़ जाएगा।"
+    }
+   ]
+  },
+  {
+   "id": "7-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-51",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "छोटे काम",
+     "evidence": "Academic: others do \"हीन कर्म\" (inferior/low actions); \"छोटे काम\" suggests small or trivial tasks, not low or unworthy deeds.",
+     "fix": "अगर दूसरे लोग नीच काम करते हैं"
+    }
+   ]
+  },
+  {
+   "id": "7-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-58",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "सच्चे घमंड वालों",
+     "evidence": "The text only says \"counted among those with pride\" (मान वालों). \"सच्चे\" is added and clashes with 7-56, where \"सच्चे घमंड वाला\" means the true, victorious proud one.",
+     "fix": "घमंड वालों में गिने जाएँ"
+    }
+   ]
+  },
+  {
+   "id": "7-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-62",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "उसे करते हुए कभी नहीं थकना चाहिए",
+     "evidence": "Academic: \"उस कर्म से अतृप्त होकर आनन्दित होना\" (never getting enough of it, and rejoicing). \"Never tire\" is a different idea from being insatiable.",
+     "fix": "उससे कभी मन नहीं भरना चाहिए और उसमें हमेशा खुश रहना चाहिए।"
+    }
+   ]
+  },
+  {
+   "id": "7-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-64",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "इन कर्मों का पकना ही सुख और शान्ति है",
+     "evidence": "Academic: the merit (पुण्य) is the thing whose ripening is happy and peaceful. The children's text says \"karmas\" (any action) and turns the attribute into a causal \"क्योंकि\".",
+     "fix": "जमा हुई भलाई का पकना सुख और शान्ति देता है।"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "अगर हमारी सुख पाने की चाह से कभी मन नहीं भरता है।",
+     "evidence": "The \"अगर\" clause is cut off by a full stop, leaving a broken sentence.",
+     "fix": "अगर सुख पाने की चाह से हमारा मन कभी नहीं भरता, तो फिर जमा हुई भलाई से हमारा मन कैसे भर सकता है?"
+    }
+   ]
+  },
+  {
+   "id": "7-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-73",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "अच्छे लोगों से मिलने",
+     "evidence": "Academic has only \"समागम\" (meeting/association); \"अच्छे लोगों\" is added.",
+     "fix": "मेलजोल"
+    }
+   ]
+  },
+  {
+   "id": "7-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-a",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "Title is \"Teaching/Exposition of Diligence\" (བརྩོན་འགྲུས་བསྟན་པ, वीर्य-निर्देश); the word for teaching/exposition is missing.",
+     "fix": "जागृति-वीर के मार्ग में प्रवेश का सातवाँ अध्याय: खुशी से की गई मेहनत का उपदेश।"
+    }
+   ]
+  },
+  {
+   "id": "8-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "खुशी से की गई मेहनत के बाद",
+     "evidence": "Verse says \"having generated diligence\" (वीर्य उत्पन्न करके), not \"after diligence\".",
+     "fix": "खुशी से की गई मेहनत जगाकर"
+    }
+   ]
+  },
+  {
+   "id": "8-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-10",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

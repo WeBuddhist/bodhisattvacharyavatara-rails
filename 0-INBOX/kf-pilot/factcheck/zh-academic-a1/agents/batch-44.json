@@ -1,0 +1,113 @@
+{
+ "batch": "batch-44",
+ "segments": [
+  {
+   "id": "9-165",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-166",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-167",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "《入\n菩提行》",
+     "evidence": "The Tibetan བྱང་ཆུབ་སྤྱོད་པ་ལ་འཇུག་པ is the work's title, a single unit; the Chinese breaks the title across two lines (《入 / 菩提行》), making the title hard to read as one name. Content is otherwise faithful (བདག་གིས ... རྣམ་པར་བརྩམས་པ་ཡི་དགེ་བ་གང་དེས་).",
+     "fix": "《入菩提行》"
+    }
+   ]
+  },
+  {
+   "id": "10-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-16",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

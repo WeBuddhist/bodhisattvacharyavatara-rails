@@ -1,0 +1,245 @@
+{
+ "batch": "batch-02",
+ "segments": [
+  {
+   "id": "2-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "crops that grow without being planted",
+     "evidence": "\"Various crops that grow without being ploughed\" - unploughed, self-growing crops",
+     "fix": "I offer crops that grow without anyone ploughing the field."
+    }
+   ]
+  },
+  {
+   "id": "2-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-6",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "The Sages are \"the supreme among persons\"; this epithet is dropped",
+     "fix": "I offer them to the Sages, the best of beings, and to their children."
+    }
+   ]
+  },
+  {
+   "id": "2-7",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "may the Protectors who care about the good of others accept this for my sake",
+     "evidence": "\"Accept this for my sake by their own power\" - the Protectors accept by their own power (since the speaker has nothing)",
+     "fix": "...may the Protectors who care about the good of others accept this for my sake, by their own power."
+    }
+   ]
+  },
+  {
+   "id": "2-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-29",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "Sometimes ignorance confused me.",
+     "evidence": "\"Overwhelmed by the confusion of ignorance\" - no \"sometimes\"; ignorance overwhelmed the speaker",
+     "fix": "Ignorance confused me completely."
+    }
+   ]
+  },
+  {
+   "id": "2-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-32",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "I might die before the cleansing",
+     "evidence": "\"I will die before that happens\" - stated as a real danger, not just a possibility",
+     "fix": "I will die before my harmful deeds are cleansed."
+    }
+   ]
+  },
+  {
+   "id": "2-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-40",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

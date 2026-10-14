@@ -1,0 +1,5570 @@
+[
+ {
+  "id": "I-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "I-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "I-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-2",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "अपने मन की भावना के लिए",
+    "evidence": "Tibetan རང་གི་ཡིད་ལ་བསྒོམ་ཕྱིར ('in order to meditate/cultivate in my own mind'); bo-shenga 1-2 glosses it as རང་གི་ཡིད་ལ་བྱང་ཆུབ་ཀྱི་སེམས་བསྒོམས་ནས་གོམས་པར་བྱ་བའི་ཕྱིར (to cultivate and habituate bodhicitta in one's own mind). Hindi 'मन की भावना' can be read as 'feelings of the mind' rather than the practice of cultivation.",
+    "fix": "अपने मन में भावना (अभ्यास) करने के लिए"
+   }
+  ]
+ },
+ {
+  "id": "1-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-5",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "कभी-कभार ही",
+    "evidence": "Tibetan བརྒྱ་ལམ་ན ('once in a hundred [times]'); bo-shenga 1-5 and bo-kunpal 1-5 repeat བརྒྱ་ལམ་ན / བརྒྱ་ལན་རེ. The 'hundred' is not rendered; the line also doubles 'कभी-कभार ही' and 'विरले ही' for ཐང་འགའ།",
+    "fix": "सौ में कभी एक बार, लोक में पुण्य की बुद्धि विरले ही उत्पन्न होती है"
+   }
+  ]
+ },
+ {
+  "id": "1-6",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "उस सम्बोधि के बोधिचित्त के बिना",
+    "evidence": "Tibetan རྫོགས་པའི་བྱང་ཆུབ་སེམས་མིན་པ ('other than the bodhicitta [aimed at] perfect awakening'); the demonstrative དེ་ནི opens the line and refers back to sin in bo-kunpal 1-6, while the Hindi 'उस' attaches to the bodhicitta and the double genitive 'सम्बोधि के बोधिचित्त' is awkward.",
+    "fix": "सम्बोधि के (लिए) बोधिचित्त को छोड़कर"
+   }
+  ]
+ },
+ {
+  "id": "1-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-11",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "जगत् के प्राणियों के स्थानों से",
+    "evidence": "Tibetan འགྲོ་བའི་གནས; bo-shenga 1-11 reads འགྲོ་བ་ལྔའི་གནས (the abodes of the five migrations/gatis) and bo-gyaltsab 1-11 glosses འཁོར་བའི་རྒུད་པ (the lower reaches of saṃsāra). Sanskrit gatipattana. Mechanically applying the locked 'जगत् के प्राणी' yields 'places of the world's beings', hiding the sense of states of rebirth.",
+    "fix": "जगत् के प्राणियों की गतियों (गति-स्थानों) से"
+   }
+  ]
+ },
+ {
+  "id": "1-12",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "बढ़ता जाता है。",
+    "evidence": "The final stop is a CJK full stop (。) instead of the Devanagari danda (।) used elsewhere; Tibetan line ends འཕེལ་བར་འགྱུར།",
+    "fix": "बढ़ता जाता है।"
+   }
+  ]
+ },
+ {
+  "id": "1-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-21",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "तो कल्याण की भावना से युक्त वह\nयदि अपरिमेय पुण्य से सम्पन्न हो जाता है,",
+    "evidence": "The Tibetan has one protasis running across the verse: bsams na yang ... phan 'dogs bsam pa dang ldan te ... bsod nams dpag med ldan gyur na ('even if one thinks ... and, having a beneficial intention, comes to have immeasurable merit [then, 1-22: how much more...]'). The Hindi opens a 'यदि ... तो' pair and then adds a second 'यदि' in the apodosis, so the sentence reads as if 'तो' already supplied the main clause and the second 'यदि' is hard to parse. bo-shenga 1-21 glosses the same single conditional ('bsod nams dpag tu med pa dang ldan par 'gyur na').",
+    "fix": "यदि ऐसा भी विचार करे और कल्याण की भावना से युक्त होकर अपरिमेय पुण्य से सम्पन्न हो जाता है,"
+   }
+  ]
+ },
+ {
+  "id": "1-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-31",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Tibetan 'de yang re zhig bsngags 'os na' contains re zhig ('for the time being / at least'; Sanskrit tāvat 'sopi tāvat praśasyate'). bo-shenga 1-31 glosses 'de yang re zhig 'jig rten pa rnams kyis bsngags 'os na'. The Hindi 'यदि वह भी प्रशंसा के योग्य है' drops this concessive nuance (praiseworthy to a limited, worldly degree).",
+    "fix": "यदि वह भी कुछ तो प्रशंसा के योग्य है,"
+   }
+  ]
+ },
+ {
+  "id": "1-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-34",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "दानापति",
+    "evidence": "Tibetan 'sbyin bdag' (Sanskrit sattrapati / dānapati, 'donor, benefactor'; bo-shenga 'sbyin pa'i bdag po'). 'दानापति' is a misspelling of 'दानपति' and is not a standard Hindi word.",
+    "fix": "दानपति"
+   }
+  ]
+ },
+ {
+  "id": "1-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-a",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-6",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "मेरे इन्हें स्वीकार करें",
+    "evidence": "Tibetan 'བདག་གི་འདི་དག་བཞེས' = 'accept these [offerings] of mine'. The Hindi 'मेरे इन्हें' is ungrammatical (possessive without a head noun, then a bare pronoun object).",
+    "fix": "मेरी इन (भेंटों) को स्वीकार करें"
+   }
+  ]
+ },
+ {
+  "id": "2-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-8",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "श्रद्धापूर्वक",
+    "evidence": "Tibetan 'གུས་པས' means with reverence/respect (bo-shenga 2-8: 'མཆོག་ཏུ་གུས་པས'; Skt bhaktyā), not 'śraddhā' (faith, དད་པ). 'श्रद्धा' shifts the sense to faith.",
+    "fix": "आदरपूर्वक / भक्तिपूर्वक"
+   }
+  ]
+ },
+ {
+  "id": "2-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-16",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "हूँ。",
+    "evidence": "The final line ends with the CJK full stop '。' instead of the Devanagari danda '।' used in all other lines; typographical error in the Hindi.",
+    "fix": "हूँ।"
+   }
+  ]
+ },
+ {
+  "id": "2-17",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "स्वच्छ की गई भूमि",
+    "evidence": "Tibetan 'ས་གཞི་བསྟར་བ' (ground laid/spread level). bo-shenga 2-17 glosses 'ཡིད་དུ་འོང་བའི་ས་གཞི་ཁོད་མཉམ་པས་བསྟར་བ' (ground levelled/smoothed); nothing about cleaning ('स्वच्छ'). English academic: 'smoothed'.",
+    "fix": "समतल बिछाई गई भूमि"
+   }
+  ]
+ },
+ {
+  "id": "2-18",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "करुणा-स्वरूप वालों को",
+    "evidence": "Tibetan 'ཐུགས་རྗེའི་རང་བཞིན་ཅན་ལ' = 'to those whose nature is compassion'. 'स्वरूप वालों' is a redundant, awkward construction ('स्वरूप' already denotes nature).",
+    "fix": "करुणा-स्वभाव वालों को"
+   }
+  ]
+ },
+ {
+  "id": "2-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-22",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "तथागतों, और सपुत्र नाथों की",
+    "evidence": "Tibetan 'de bzhin gshegs mgon po sras dang bcas rnams' has no conjunction: 'mgon po' is in apposition to 'de bzhin gshegs' (Tathagatas, the protectors, together with their sons). bo-gyaltsab 2-22: 'de bzhin gshegs pa lha mi rnams kyi mgon po sras dang bcas pa rnams' (Tathagatas, protectors of gods and humans, with their sons). The inserted 'और' suggests two groups: Tathagatas and (separately) protectors with sons.",
+    "fix": "तथागतों, सपुत्र नाथों की"
+   }
+  ]
+ },
+ {
+  "id": "2-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-26",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "बोधिमण्ड तक पहुँचने तक",
+    "evidence": "Tibetan 'byang chub snying por mchis kyi bar' = until arriving at the essence of awakening (bodhimanda). The doubled 'तक ... तक' is awkward; the destination should take 'पर'.",
+    "fix": "बोधिमण्ड पर पहुँचने तक"
+   }
+  ]
+ },
+ {
+  "id": "2-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-32",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "मेरी मृत्यु पहले ही हो सकती है",
+    "evidence": "Tibetan 'sngon du 'gum par 'gyur du mchi' states that death will occur first (I am going to die), not a mere possibility. bo-gyaltsab 2-32: 'sngon du 'gum par 'gyur du mchi zhing ngan 'gror skye bas' (will die first and be born in the lower realms); bo-kunpal 2-32 'sngon du 'gum par 'gyur du mchi zhes 'chi bar 'gyur la'. 'हो सकती है' weakens this to possibility.",
+    "fix": "मैं (उसके) पहले ही मर जाऊँगा / मेरी मृत्यु पहले ही हो जाएगी"
+   }
+  ]
+ },
+ {
+  "id": "2-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-38",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "क्षणभङ्गुर",
+    "evidence": "Tibetan 'glo bur' (Skt. agantuka) means sudden/adventitious, a transient visitor whose time of death is uncertain. bo-kunpal 2-38 glosses 'glo bur ba' as like a guest/traveller who comes and goes without notice and dies quickly; bo-gyaltsab 2-38: 'nam 'chi nges pa med pa tshe yud tsam gyis glo bur ba'. 'क्षणभङ्गुर' carries the technical Buddhist sense of momentariness (ksanika), which is not what is said here.",
+    "fix": "आगन्तुक (अचानक चले जाने वाला)"
+   }
+  ]
+ },
+ {
+  "id": "2-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-50",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "अमोघ",
+    "evidence": "Tibetan ཐུགས་རྗེས་སྤྱོད་པ་མ་འཁྲུལ་བ means conduct that is 'unmistaken/unerring' (མ་འཁྲུལ་བ); bo-kunpal 2-50 glosses it as མི་འགལ་བར་མཛད་པ (acting without contradiction). 'अमोघ' means 'never in vain/infallible in effect', a different notion from 'not mistaken'.",
+    "fix": "करुणा से जिनका आचरण अभ्रान्त (निर्भ्रान्त) है"
+   }
+  ]
+ },
+ {
+  "id": "2-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-55",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-58",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-59",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-61",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-62",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-63",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-64",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-65",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-a",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-11",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "चूँकि एक साथ सब कुछ त्यागना ही है",
+    "evidence": "Tibetan ཐམས་ཅད་གཏོང་བར་ཆབས་གཅིག་ལ། means 'since giving up everything is the same (in any case)'; bo-gyaltsab glosses ཆབས་ཅིག་པ as གཏོང་བར་འདྲ་བ ('alike/the same in having to give up'). 'एक साथ' (simultaneously) shifts the sense toward timing rather than 'in either case'; english_academic has 'all the same'.",
+    "fix": "चूँकि सब कुछ तो त्यागना ही है (किसी भी स्थिति में समान रूप से),"
+   }
+  ]
+ },
+ {
+  "id": "3-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-26",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "पवित्र",
+    "evidence": "Tibetan 'སྐྱོན་མེད་བཙུན་པའི་རིགས་' (Skt nirmala kula): bcun pa means 'noble/venerable/respected'; Gyaltsab 3-26 glosses it as adorned by qualities alone and hence venerable (ཡོན་ཏན་འབའ་ཞིག་གིས་བརྒྱན་པས་བཙུན་པ). 'पवित्र' (sacred/pure) shifts the sense toward ritual purity and doubles 'निर्दोष'; english_academic has 'noble'.",
+    "fix": "निर्दोष और आदरणीय"
+   }
+  ]
+ },
+ {
+  "id": "3-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-a",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "बोधिचित्त परिग्रह",
+    "evidence": "Tibetan 'བྱང་ཆུབ་ཀྱི་སེམས་ཡོངས་སུ་བཟུང་བ་' = fully taking hold of/adopting bodhicitta (an action). Bare 'परिग्रह' in Hindi usually means possession/hoarding, so the title can be misread; a verbal noun conveys the sense.",
+    "fix": "'बोधिचित्त का परिग्रहण (पूर्ण रूप से ग्रहण)'"
+   }
+  ]
+ },
+ {
+  "id": "4-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-7",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "वे जो मुक्ति प्राप्त करते हैं",
+    "evidence": "Tibetan 'དེ་དག་ཐར་བར་བྱེད་པ' (bo-gyaltsab: 'དེ་དག་ཐར་བ་ཐོབ་པར་མཛད་པ') is causative; Sanskrit 'मोचयत्येवं तां नरान्' means they liberate people. bo-shenga 4-7: 'རང་གི་གདུལ་བྱར་གྱུར་པའི་སེམས་ཅན་དེ་དག་ཐར་བར་མཛད་པ' (they bring those beings to liberation); bo-kunpal 4-7 says they themselves attain liberation and also liberate others ('གཞན་དག་ཀྱང་ཐར་པར་མཛད་པ'). The Hindi only says 'they attain liberation', dropping the causative reading.",
+    "fix": "वे (उन्हें) जो मुक्त कराते हैं / स्वयं मुक्ति पाकर दूसरों को भी मुक्त कराते हैं"
+   }
+  ]
+ },
+ {
+  "id": "4-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-10",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "अपना पतन होता है",
+    "evidence": "'पतन' is the locked rendering of 'ལྟུང་བ' (downfall/āpatti), but here the Tibetan is 'བདག་ཉིད་ཉམས་འགྱུར' (ཉམས = decline, loss). bo-gyaltsab 4-10: 'བདག་ཉིད་མཐོ་རིས་ལས་ཉམས' (I fall away from the higher realms); bo-kunpal: 'མངོན་མཐོའི་བདེ་བ་ལས་ཉམས'. Using the technical term पतन risks reading it as a root downfall.",
+    "fix": "अपना ह्रास (उच्च गति/सुख से च्युति) होता है"
+   }
+  ]
+ },
+ {
+  "id": "4-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-18",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "जब कुशल आचरण का सौभाग्य होने पर भी,",
+    "evidence": "Tibetan 'གང་ཚེ་དགེ་སྤྱད་སྐལ་ལྡན་ཡང་། དགེ་བ་བདག་གིས་མ་བྱས་ན།' = 'when, though fortunate to practise virtue, I do not do virtue'. The Hindi clause 'जब ... होने पर भी' has no finite verb and doubles the temporal and concessive markers, making the sentence hard to parse; 'मैंने ... नहीं किया' also turns the conditional 'མ་བྱས་ན' into a past fact.",
+    "fix": "जब कुशल आचरण का सौभाग्य प्राप्त होने पर भी मैं कुशल कर्म न करूँ"
+   }
+  ]
+ },
+ {
+  "id": "4-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-36",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Tibetan 'རེ་ཞིག་གནོད་བྱེད་ཆུང་ངུ་ལ་ཡང་ཁྲོས་གྱུར་པ' opens the illustrative example with 'རེ་ཞིག' ('for instance / in the world'); bo-kunpal 4-36 glosses it 'དཔེར་ན་རེ་ཞིག་', bo-gyaltsab 4-36 'རེ་ཞིག་འཇིག་རྟེན་དུ'. The Hindi drops it, so the example (lines 3-4) is not signalled as an analogy for the effort against the afflictions.",
+    "fix": "उदाहरणार्थ, तनिक सी हानि पहुँचाने वाले पर भी क्रोधित हुए,"
+   }
+  ]
+ },
+ {
+  "id": "4-37",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "उन क्लेशित जनों को",
+    "evidence": "'ཉོན་མོངས་དག' here refers to the enemies (the 'wretched' foe on the battlefield): bo-kunpal 4-37 'དགྲ་བོ་ཐ་མལ་པ་ཉོན་མོངས་པ་ཞེས་སྨད་པའི་ཚིག … ཉམས་ཐག་ཅིང་སྙིང་རྗེ་བའི་གནས་སུ་གྱུར་པའི་དགྲ་བོ', bo-shenga 4-37 'ཉོན་མོངས་ཏེ་སྙིང་རྗེའི་གནས་སུ་གྱུར་པ'. 'क्लेशित जनों' (afflicted persons) loses 'enemy' and the sense of pitiable foes.",
+    "fix": "उन दयनीय शत्रुओं को, जो स्वभावतः मृत्यु से पीड़ित हैं,"
+   }
+  ]
+ },
+ {
+  "id": "4-38",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "हताश और निरुत्साहित नहीं होना चाहिए, यह कहने की क्या आवश्यकता है?",
+    "evidence": "'ཡི་ཆད་སྒྱིད་ལུག་མི་འགྱུར་སྨོས་ཅི་དགོས' states a fact ('will not become despondent and lazy; needless to say'), as in bo-shenga 4-38 'སྒྱིད་ལུག་པར་མི་འགྱུར་བར་སྨོས་ཅི་དགོས' and bo-kunpal 4-38. The Hindi turns it into an injunction ('should not') and attaches the 'needless to say' clause awkwardly to it.",
+    "fix": "हताश और निरुत्साहित नहीं होऊँगा, इसमें कहना ही क्या है?"
+   }
+  ]
+ },
+ {
+  "id": "4-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-43",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "अपवाद हैं",
+    "evidence": "Tibetan 'ཉོན་མོངས་འཇོམས་བྱེད་མ་གཏོགས་སོ' with Sanskrit 'anyatra tadvidhāt kleśāt' and Gyaltsab 4-43 ('སྤང་བྱར་མ་གཏོགས་སོ') say such afflictions are excepted from what is to be abandoned (spang bya); the Hindi 'अपवाद हैं' does not say excepted from what, so the object of the exception is lost.",
+    "fix": "त्यागने योग्य (क्लेशों) से अपवाद हैं"
+   }
+  ]
+ },
+ {
+  "id": "4-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-a",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-4",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "अभिचारक",
+    "evidence": "Tibetan 'བྱད་མ' (Sanskrit ḍākinyaḥ; bo-kunpal 5-4 and bo-gyaltsab 5-5 'བྱད་མ་མཁའ་འགྲོ་མ') names female malevolent beings (witches/ḍākinīs), not a practitioner of sorcery; 'अभिचारक' is a masculine human sorcerer.",
+    "fix": "डाकिनियाँ"
+   }
+  ]
+ },
+ {
+  "id": "5-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-17",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "धर्म के परम श्रेष्ठ, चित्त के इस रहस्य को",
+    "evidence": "Tibetan ཆོས་ཀྱི་གཙོ་བོ་མཆོག (Sanskrit dharmasarvasvaṃ) is a noun phrase 'the supreme chief/essence of the Dharma', in apposition to སེམས་ཀྱི་གསང་ 'secret of the mind' (bo-gyaltsab 5-17: ཆོས་ཀྱི་གཙོ་བོའམ་དོན་པོ་མཆོག). The Hindi 'परम श्रेष्ठ' is left as bare adjectives with no head noun, so the appositive is hard to parse.",
+    "fix": "धर्म के परम सार, चित्त के इस रहस्य को"
+   }
+  ]
+ },
+ {
+  "id": "5-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-22",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "किन्तु चित्त कभी नष्ट न करें",
+    "evidence": "Tibetan སེམས་ནི་ནམས་ཀྱང་ཉམས་མི་བྱ is the speaker's own resolve (Sanskrit mā tu cittaṃ kadācana; bo-kunpal 5-22 'རང་གི་སེམས་བསྲུང་བའི་བརྟུལ་ཞུགས ... ཉམས་པར་མི་བྱ'). The Hindi imperative 'न करें' has no stated agent and reads as a general command to others rather than 'I must never let my mind decline'.",
+    "fix": "किन्तु मैं चित्त को कभी नष्ट न होने दूँ"
+   }
+  ]
+ },
+ {
+  "id": "5-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-32",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "उसी प्रकार रहे",
+    "evidence": "Tibetan དེ་བཞིན་གནོས (mནོས) = 'take it on / undertake it thus'; bo-kunpal 5-32 and bo-gyaltsab 5-32 read དེ་བཞིན་དུ་མནོས་ཏེ་གནས་པར་གྱིས་ཤིག 'having taken it on, remain'. The Hindi gives only 'remain' and drops the undertaking.",
+    "fix": "उसी प्रकार ग्रहण कर (धारण कर) स्थित रहे"
+   }
+  ]
+ },
+ {
+  "id": "5-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-42",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "इसी प्रकार दान के समय में",
+    "evidence": "འདི་ལྟར་ (Skt यस्मात् 'since') introduces the reason for the preceding permission to act at ease (bo-shenga 5-42: འདི་ལྟར་སྦྱིན་པ་བྱེད་པའི་དུས་དག་ཏུ... 'because at times of giving, minor ethical trainings may be left in equanimity'; bo-kunpal 5-42 དེ་ཡང་འདི་ལྟར). 'इसी प्रकार' (likewise) makes it a parallel example rather than the justification.",
+    "fix": "क्योंकि दान के समय में"
+   }
+  ]
+ },
+ {
+  "id": "5-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-55",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-58",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-59",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-61",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "सड़ते हुए की रक्षा करके क्या लाभ?",
+    "evidence": "Tibetan 'རུལ་བ་བསྲུངས་ཏེ་ཅི་ཞིག་རུང་' ('rul ba' = rotten, putrid thing; Sanskrit pūtikam) takes 'rul ba' as the object of guarding. The Hindi 'इस यन्त्र की, सड़ते हुए की रक्षा करके' has two stacked genitive objects and a progressive participle, which is awkward and slightly shifts 'rotten' to 'rotting'.",
+    "fix": "इस सड़ी हुई वस्तु की रक्षा करके क्या लाभ?"
+   }
+  ]
+ },
+ {
+  "id": "5-62",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-63",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-64",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-65",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-66",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-67",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-68",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-69",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-70",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-71",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-72",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-73",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-74",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-75",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-76",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-77",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-78",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-79",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "सुखद",
+    "evidence": "Tibetan 'ཡིད་ཕེབས' (Sanskrit viśvasta) is glossed by bo-gyaltsab 5-79 as 'སྙིང་ཐག་པ་ནས་ཡིད་ཕེབས་པ' (heartfelt, winning trust) and by bo-kunpal as speech that accords with the listener's inclination; 'pleasant' is the separate item 'ཡིད་དུ་འོང་བ' already rendered 'मनोहारी', so 'सुखद' duplicates it and loses the sense of sincerity/trust.",
+    "fix": "हार्दिक और विश्वास जगाने वाला"
+   }
+  ]
+ },
+ {
+  "id": "5-80",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-81",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-82",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-83",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-84",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "चाहिए。",
+    "evidence": "Line 2 of the Hindi ends with an ideographic full stop (U+3002) instead of a danda or Latin full stop; a typographic error, meaning unaffected.",
+    "fix": "चाहिए,"
+   }
+  ]
+ },
+ {
+  "id": "5-85",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-86",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-87",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "इस और अन्य में भी",
+    "evidence": "Tibetan 'འདི་དང་གཞན་དུ་ཡང་' means 'in this and other (worlds/lives)'; bo-gyaltsab 5-87 explains 'ཚེ་རབས་འདི་དང་གཞན་དུ་ཡང་' and bo-kunpal 'འཇིག་རྟེན་འདི་དང་འཇིག་རྟེན་གཞན་དུ་ཡང་'. The Hindi leaves 'अन्य' without its noun, so it reads as an unspecified 'other'.",
+    "fix": "इस लोक और अन्य लोकों में भी"
+   }
+  ]
+ },
+ {
+  "id": "5-88",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-89",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-90",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-91",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-92",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-93",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-94",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-95",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-96",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-97",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "निश्चित रूप से तब तक आचरण करना चाहिए",
+    "evidence": "Tibetan 'ངེས་པར་དེ་སྲིད་སྤྱད་པར་བྱ' leaves the limit implicit; bo-gyaltsab 5-97 glosses it as 'until one is able to practise all the conduct' (སྤྱོད་པ་མཐའ་དག་ཉམས་སུ་ལེན་ནུས་པ་དེ་སྲིད་), and english_academic makes this explicit. The Hindi 'तब तक' has no antecedent and leaves the limit undefined.",
+    "fix": "जब तक समस्त (चर्याओं का) आचरण करना सम्भव न हो, तब तक निश्चित रूप से आचरण करना चाहिए"
+   }
+  ]
+ },
+ {
+  "id": "5-98",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-99",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "अभ्यास करे",
+    "evidence": "The final 'བསླབ' (train) is the same locked term བསླབ་པ (शिक्षा) as in 'བསླབ་པར་གསུངས་པ'; the Hindi renders the first with शिक्षा but the verb with 'अभ्यास करना', so the repeated training/शिक्षा link of the verse is lost (bo-shenga 5-99: 'འབད་དེ་བསླབ་བོ').",
+    "fix": "प्रयत्नपूर्वक शिक्षा ग्रहण करे"
+   }
+  ]
+ },
+ {
+  "id": "5-100",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-101",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-102",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-103",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-104",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-105",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-106",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-107",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-108",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-109",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-a",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-6",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "उन आदि दुःखों को",
+    "evidence": "Tibetan 'དེ་ལ་སོགས། སྡུག་བསྔལ་དག' means 'these and other such sufferings' (referring back to the sufferings just described); 'उन आदि' is awkward and hard to parse in Hindi.",
+    "fix": "इन तथा ऐसे अन्य दुःखों को"
+   }
+  ]
+ },
+ {
+  "id": "6-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-13",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "मैं क्यों कातर होता हूँ?",
+    "evidence": "Tibetan 'བདག་གོ་ཅི་ཕྱིར་སྔར' has no word for 'timid'; 'कातर' follows Sanskrit 'kātaraḥ'. bo-kunpal 6-13 glosses 'བདག་གིས་ཅི་ཡིས་ཕྱིར་སྔར་ཏེ་སྔར་མི་རིགས་སོ' and bo-gyaltsab 6-13 'བདག་ཅི་ཞིག་བསྟར་ཏེ་བཟོད་པར་རིགས་སོ', i.e. the point is that I should rightly endure it for liberation (english_academic: 'Why should I not endure it?').",
+    "fix": "तो मुक्ति के लिए मैं (पहले ही) क्यों न सहूँ?"
+   }
+  ]
+ },
+ {
+  "id": "6-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-17",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "हो जाते हैं。",
+    "evidence": "The final line ends with the CJK full stop '。' instead of the Devanagari danda '।' used in every other line; a typographic slip, meaning intact.",
+    "fix": "मूर्छित और अचेत हो जाते हैं।"
+   }
+  ]
+ },
+ {
+  "id": "6-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-24",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "अनायास ही",
+    "evidence": "Tibetan \"གྱི་ནར་\" (Kunpal 6-24: \"རྐྱེན་ཕལ་པ་ཙམ་ལ་བརྟེན་ནས\" ; Shenga 6-24: \"རྐྱེན་ཇི་ནར་ཙམ་གྱིས\") means people get angry through merely the slightest/ordinary condition; \"अनायास\" (effortlessly/spontaneously) drops the dependence on a condition, the very point of the verse.",
+    "fix": "लोग साधारण-से प्रत्यय मात्र से ही क्रोध करने लगते हैं"
+   }
+  ]
+ },
+ {
+  "id": "6-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-30",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "कार्य ने उसका क्या किया",
+    "evidence": "Tibetan \"བྱེད་པ\" here is the action/function (Skt kriyā; Kunpal 6-30 \"རྐྱེན་གྱི་བྱེད་པ\"), rendered \"क्रिया\" in line 4 of the same verse; \"कार्य\" in Hindi philosophical usage means the effect (kārya) and misleads, and it is inconsistent within the verse.",
+    "fix": "क्रिया ने उसका क्या किया"
+   }
+  ]
+ },
+ {
+  "id": "6-31",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "क्रोध नहीं करना चाहिए",
+    "evidence": "Tibetan \"ཁྲོ་མི་འགྱུར\" is a statement (\"one will not become angry\"), not an injunction; Shenga 6-31 also has \"ཁྲོ་མི་འགྱུར་རོ\".",
+    "fix": "क्रोध नहीं होगा"
+   },
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "निर्मित माया के समान",
+    "evidence": "Tibetan has a single image of emanation (Skt nirmāṇavat); Kunpal 6-31 lists \"སྒྱུ་མ་རྨི་ལམ་སྤྲུལ་པ\" as separate items, so \"माया\" (illusion) is an addition that conflates illusion with emanation.",
+    "fix": "निर्मित (निर्माण-रूप) आकृतियों के समान"
+   }
+  ]
+ },
+ {
+  "id": "6-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-35",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "आसक्त होकर",
+    "evidence": "Tibetan \"རྔམ་ཞིང་\" means being fierce/vehement; Kunpal 6-35 has \"རྔམ་ཞིང་ཆགས་ནས\" (both vehement and attached), Shenga \"བརྣབ་སེམས་ཀྱིས་རྔམ་ཞིང\". \"आसक्त\" covers only attachment, not vehemence.",
+    "fix": "उग्र एवं आसक्त होकर"
+   }
+  ]
+ },
+ {
+  "id": "6-36",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "खाइयों में कूदते हैं",
+    "evidence": "Tibetan \"གཡང་ས\" is a precipice/cliff (Shenga 6-36: \"རི་ལ་སོགས་པའི་གཡང་ས\"; Kunpal \"བྲག་ལ་སོགས་པའི་གཡང་ས\"; Skt prapāta), not a trench/ditch.",
+    "fix": "पर्वत-कगार (प्रपात) से कूदते हैं"
+   }
+  ]
+ },
+ {
+  "id": "6-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-40",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "आकाश में धुआँ छाने पर रोष करना",
+    "evidence": "Tibetan \"མཁའ་ལ་དུད་འཐུལ་དཀོན་པ\" : one resents the sky when smoke fills it (Kunpal 6-40: \"དུ་བ་ལ་མི་ཁྲོ་བར་ནམ་མཁའ་ལ་ཁྲོ་བ\"); the Hindi does not say the anger is directed at the sky.",
+    "fix": "आकाश में धुआँ छाने पर आकाश पर ही रोष करने के समान"
+   }
+  ]
+ },
+ {
+  "id": "6-41",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "इसलिए द्वेष पर ही क्रोध करना उचित है",
+    "evidence": "Tibetan \"ཉིས་ན་\" is the second alternative, \"in the second case\" (Shenga 6-41: \"གཅིག་ཏུ་དབྱུག་པ་སོགས་དང་ཉེས་ན་སྟེ་གཉིས་སུ་ན་ཞེ་སྡང་ལ་ཁྲོ་བར་རིགས\"): first the sticks, secondly hatred. \"इसलिए ... ही\" turns it into an inference and exclusion.",
+    "fix": "दूसरे पक्ष में, द्वेष पर क्रोध करना उचित है"
+   }
+  ]
+ },
+ {
+  "id": "6-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-55",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-58",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-59",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-61",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-62",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-63",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-64",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-65",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-66",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "हानि के प्रति क्षान्ति करो",
+    "evidence": "Tibetan བཟོད་པར་གྱིས (bo-gyaltsab 6-66: གནོད་པ་བཟོད་པར་གྱིས་ཤིག) is 'practise patience/bear harm'; 'क्षान्ति करो' is not idiomatic Hindi (क्षान्ति is held/practised, 'रखो'/'धारण करो'). Also 'चित्त वाले सचेतन प्राणी' doubles the idea of སེམས་ཡོད (locked: सचेतन प्राणी).",
+    "fix": "इसलिए हानि के प्रति क्षान्ति रखो।"
+   }
+  ]
+ },
+ {
+  "id": "6-67",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-68",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-69",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-70",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-71",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-72",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-73",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-74",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "काम के लिए जलने आदि,\nनरक में हज़ारों बार भोगे हैं",
+    "evidence": "Tibetan འདོད་པའི་དོན་དུ་སྲེག་ལ་སོགས། དམྱལ་བར་སྟོང་ཕྲག་མྱོང་གྱུར་ཡང་ has an implicit 'I' who experienced the burning etc. (bo-gyaltsab 6-74: བདག་གིས་...དམྱལ་བར་སྡུག་བསྔལ་...མྱོང་བར་གྱུར་ཀྱང་). The Hindi has no subject or clear object, and the plural 'भोगे हैं' does not agree with the bare gerund 'जलने आदि', so the clause is hard to parse.",
+    "fix": "काम के लिए नरक में हज़ारों बार जलने आदि के दुःख मैंने भोगे हैं,"
+   }
+  ]
+ },
+ {
+  "id": "6-75",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-76",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-77",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-78",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-79",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-80",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-81",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-82",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-83",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-84",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-85",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-86",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-87",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "केवल तुम्हारी इच्छा मात्र से, उसे हानि पहुँचाने का कारण नहीं बनेगा।",
+    "evidence": "Tibetan 'ཁྱོད་ཀྱི་ཡིད་སྨོན་ཙམ་གྱིས་ནི། དེ་ལ་གནོད་པའི་རྒྱུར་མི་འགྱུར།': the subject (the wish) becomes the cause of harm; Gyaltsab 6-87: 'ཡིད་སྨོན་ཙམ་གྱིས་ནི་དགྲ་དེ་ལ་གནོད་པའི་རྒྱུར་མི་འགྱུར'. In the Hindi the instrumental 'इच्छा मात्र से' leaves the clause without a clear subject (reads as if the enemy will not become a cause), and 'केवल ... मात्र' is redundant.",
+    "fix": "तुम्हारी मात्र इच्छा उसे हानि पहुँचाने का कारण नहीं बनेगी।"
+   }
+  ]
+ },
+ {
+  "id": "6-88",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "उसमें तुम्हारे प्रसन्न होने को क्या है?",
+    "evidence": "Tibetan 'ཁྱོད་དགར་ཅི་ཞིག་ཡོད' (Shenga: 'དེ་ལ་ཁྱོད་དགའ་བ་ཅི་ཞིག་ཡོད') means 'what is there for you to rejoice in'; the Hindi 'प्रसन्न होने को क्या है' is a calque and is not idiomatic/grammatical Hindi.",
+    "fix": "उसमें तुम्हारे प्रसन्न होने की क्या बात है?"
+   }
+  ]
+ },
+ {
+  "id": "6-89",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "अत्यंत भयानक",
+    "evidence": "Tibetan 'མི་བཟད་གཟེ' has two qualities, unbearable (མི་བཟད) and fierce/terrible (གཟེ); Shenga 6-89 glosses 'མི་བཟད་པར་གཟེ་བ' and Kunpal 'མི་བཟད་པ་གཟེ་བའམ་རྣོ་བ'. The Hindi renders only one quality ('भयानक') with an intensifier.",
+    "fix": "असह्य और भयंकर"
+   }
+  ]
+ },
+ {
+  "id": "6-90",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-91",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-92",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-93",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-94",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-95",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-96",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-97",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-98",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-99",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-100",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-101",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-102",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-103",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-104",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-105",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-106",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-107",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-108",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-109",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "सिद्धि का योग्य कारण होने पर भी, सद्धर्म की पूजा क्यों करते हो?",
+    "evidence": "Tibetan 'གྲུབ་པ་ཡི་ནི་རྒྱུར་རུང་བ། དམ་པའི་ཆོས་ཀྱང་ཅི་སྟེ་མཆོད' : the concessive 'ཀྱང་' attaches to the Dharma ('why is even the sublime Dharma, which is a fit cause of accomplishment, worshipped [though it lacks the intention]'). Gyaltsab (bo-gyaltsab 6-109): Dharma jewel being a fit cause of virtue should then not be worshipped, since it lacks the intention to produce virtue. The Hindi puts 'भी' on 'being a fit cause', yielding 'although it is a fit cause, why worship it?', which reverses the logic of the reductio.",
+    "fix": "सिद्धि का योग्य कारण होने से, सद्धर्म की भी पूजा क्यों की जाती है (जबकि उसमें वैसी मंशा नहीं है)?"
+   }
+  ]
+ },
+ {
+  "id": "6-110",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-111",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-112",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-113",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-114",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "आशय के गुण से स्वयं नहीं। फल से है, उसी के समान।",
+    "evidence": "Tibetan 'བསམ་པའི་ཡོན་ཏན་རང་གིས་མིན། འབྲས་བུ་ལས་ཡིན་དེས་མཚུངས་པར།' ; Gyaltsab (bo-gyaltsab 6-114): the two are not set equal by the intention's quality itself, but are alike through the result (being causes of Buddhahood). The Hindi fragments leave subject and predicate unstated and 'उसी के समान' does not convey 'equal through that', so the claim is hard to parse.",
+    "fix": "आशय का गुण स्वयं (समानता का आधार) नहीं है; वह फल से है, और उसी के द्वारा (दोनों) समान हैं;"
+   }
+  ]
+ },
+ {
+  "id": "6-115",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-116",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-117",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-118",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-119",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-120",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-121",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "चूँकि मेरे जो स्वामी हैं, वे भी",
+    "evidence": "Tibetan 'རེ་ཞིག་བདག་གི་རྗེར་གྱུར་ཉིད་ཀྱང་ནི' ; 'རེ་ཞིག' is 'to begin with / for the moment' (Skt तावत्), not a causal 'since'; bo-shenga 6-121 'རེ་ཞིག་བདག་གི་རྗེ་བོར་གྱུར་པ་... ཉིད་ཀྱང་ནི' reads it as 'even those who are my lords'. 'चूँकि' adds a causal link not in the source.",
+    "fix": "पहले तो, जो मेरे स्वामी हैं, वे भी"
+   }
+  ]
+ },
+ {
+  "id": "6-122",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-123",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-124",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-125",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-126",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-127",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-128",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-129",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-130",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-131",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-132",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-133",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-134",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "संसार के समय",
+    "evidence": "Tibetan འཁོར་ཚེ means 'while revolving/abiding in saṃsāra' (Sanskrit saṃsaran; bo-kunpal 6-134 'འཁྱོར་པར་གནས་པའི་ཚེ'; bo-gyaltsab 'འཁོར་བར་འཁོར་བའི་ཚེ'). 'संसार के समय' reads as 'at the time of saṃsāra', which is unidiomatic and obscures the sense.",
+    "fix": "संसार में भ्रमण करते हुए"
+   }
+  ]
+ },
+ {
+  "id": "6-a",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-5",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "वह चाण्डाल और भैंसे के समान है",
+    "evidence": "Tibetan གདོལ་པ་དང་ནི་མ་ཧེ་བཞིན: the sleeper is likened to the buffalo (that sleeps on calmly while the outcaste butcher kills the herd one by one), not to the butcher as well. bo-gyaltsab 7-5: 'གདོལ་བས་རིམ་གྱིས་གསོད་པའི་མ་ཧེས་ ... སྐྲག་པ་མེད་ཅིང་དལ་བར་གནས་པ་གདོལ་བ་དང་ནི་མ་ཧེ་བཞིན'; bo-shenga: 'གདོལ་པ་དང་ནི་བསད་པར་བྱ་བའི་མ་ཧེ་བཞིན'; Sanskrit caṇḍālamahiṣo yathā. The Hindi 'चाण्डाल और भैंसे के समान' makes the addressee equal to both butcher and buffalo, and also shifts the addressee from 'you' (ཁྱོད) to third person 'वह'.",
+    "fix": "तुम निद्रा के आश्रित हो, चाण्डाल के हाथों मारे जाते भैंसे के समान"
+   }
+  ]
+ },
+ {
+  "id": "7-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-18",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "मक्खियाँ, मच्छर और भँवरे",
+    "evidence": "Tibetan lists three insects: སྦྲང་བུ (fly), ཤ་སྦྲང་ (flesh-fly / gadfly) and བུང་བ (bee). bo-kunpal 7-18 glosses them as སྦྲང་བུ 'flying in the sky', ཤ་ཡི་སྦྲང་བུ 'flesh-fly' and བུང་བ 'that drinks flower nectar'. 'मच्छर' (mosquito) is not in the Tibetan (it comes from Sanskrit maśaka, which the Tibetan does not render), and བུང་བ is a bee rather than a bumblebee/भँवरा; english_academic has 'flies, gadflies, and bees'.",
+    "fix": "मक्खियाँ, डाँस (मांस-मक्खियाँ) और मधुमक्खियाँ"
+   }
+  ]
+ },
+ {
+  "id": "7-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-53",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "महान् द्वारा भी उसे जीतना कठिन है",
+    "evidence": "Tibetan 'ཆེན་པོ་ཡིས་ཀྱང་ཐུབ་པར་དཀའ' (hard to overcome even by the great): bo-shenga 7-53 glosses 'སྤང་བྱ་ཆེན་པོ་ཡིས་ཀྱང་རྒྱལ་སྲས་དེ་ཉིད་ཐུབ་པར་དཀའ' and bo-kunpal 7-53 'ལྟུང་བ་ཆེན་པོ་ ... ཡིས་ཀྱང་ཐུབ་པར་དཀའ' - the 'great' agent is great downfalls/objects of abandonment, not great persons; english_academic: 'even by great downfalls'. Hindi 'महान् द्वारा' reads as 'by a great one (person)', changing the referent.",
+    "fix": "बड़े पतनों से भी उसे पराजित करना कठिन है"
+   }
+  ]
+ },
+ {
+  "id": "7-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-55",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-56",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "मान वाले शत्रु के वश में नहीं जाते",
+    "evidence": "Tibetan 'ང་རྒྱལ་ཅན་དགྲའི་དབང་མི་འགྲོ' = 'the one who has (proper) pride does not fall under the power of the enemy'; without a comma 'मान वाले शत्रु' parses as 'the enemy who has pride', which the Tibetan excludes (bo-shenga 7-56: 'ང་རྒྱལ་ཅན་ནི་མི་མཐུན་པའི་དགྲའི་དབང་དུ་མི་འགྲོ').",
+    "fix": "मान वाला जन शत्रु के वश में नहीं जाता"
+   }
+  ]
+ },
+ {
+  "id": "7-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-58",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-59",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-61",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-62",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-63",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-64",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-65",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-66",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-67",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-68",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-69",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-70",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-71",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-72",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-73",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-74",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-75",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-a",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-5",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "सम्यक् रूप से आसक्ति करता है",
+    "evidence": "Tibetan ཡང་དག་ཆགས་པར་བྱེད་པ། ('truly/thoroughly attached'); bo-kunpal 8-5 glosses ཡང་དག་པའམ་ངེས་པར་ཆགས་པ ('truly or definitely attached'). 'सम्यक्' reads as 'right/correct' attachment, which is not the sense.",
+    "fix": "वास्तव में (दृढ़ता से) आसक्त होता है"
+   }
+  ]
+ },
+ {
+  "id": "8-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-22",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "लोक के विचारों को त्याग दूँगा",
+    "evidence": "Tibetan 'འཇིག་རྟེན་བསམ་པ་བཏང་' ('jig rten bsam pa btang); bo-shenga 8-22 glosses it as abandoning 'འཇིག་རྟེན་པ་རྣམས་དང་འགྲོགས་པའི་བསམ་པ' (the intention of keeping company with worldly people), and bo-kunpal 8-22 as abandoning the worldly-accommodating intention. Sanskrit 'lokacintayā' is concern for the world. Hindi 'लोक के विचार' can be read as the thoughts held by the world.",
+    "fix": "इसलिए मैं लोक (लौकिक जनों) के साथ मेलजोल की चिन्ता/विचार को त्याग दूँगा"
+   }
+  ]
+ },
+ {
+  "id": "8-23",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "कहते हैं。",
+    "evidence": "The line ends with a full-width CJK full stop (。) instead of the Devanagari danda or a comma; stray punctuation, meaning intact.",
+    "fix": "कहते हैं,"
+   }
+  ]
+ },
+ {
+  "id": "8-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-25",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "नहीं बोलते。",
+    "evidence": "The line ends with a full-width CJK full stop (。) instead of a Devanagari-appropriate mark; stray punctuation, meaning intact.",
+    "fix": "नहीं बोलते,"
+   }
+  ]
+ },
+ {
+  "id": "8-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-29",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "कब मैं समान करूँगा?",
+    "evidence": "Tibetan 'མགོ་སྙོམས་བྱེད་པ' (mgo snyoms byed pa) means to regard/treat as equal; bo-kunpal 8-29 glosses it as 'མགོ་སྙོམས་བྱེད' = equating one's own body with those skeletons ('འདི་དག་དང་འདྲའོ་ཞེས'), and bo-shenga as seeing one's body as of the same nature. Hindi 'समान करूँगा' reads as 'make equal' (a physical act), not 'regard as equal'.",
+    "fix": "कब मैं (उन्हें) समान मानूँगा / एक-सा देखूँगा?"
+   }
+  ]
+ },
+ {
+  "id": "8-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-34",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "शोक करते हुए भी",
+    "evidence": "Tibetan \"འཇིག་རྟེན་ཀུན་ནས་གདུང་བཞིན་དུ\" is a simultaneous 'while' (bzhin du), not concessive; bo-shenga 8-34 and bo-gyaltsab 8-34 read it as relatives grieving all around while the body has not yet been carried out. Hindi \"भी\" adds a concessive 'even though' nuance.",
+    "fix": "शोक करते हुए"
+   }
+  ]
+ },
+ {
+  "id": "8-35",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "यह शरीर एकाकी एकान्त में स्थित हो,",
+    "evidence": "Tibetan \"ལུས་འདི་གཅིག་པུ་དབེན་གནས་ཏེ\" is a plain narrative clause in a chain (bo-gyaltsab 8-35: \"རང་གི་ལུས་འདི་གཅིག་པུ་དབེན་པར་གནས་ཏེ\"); Hindi \"स्थित हो\" reads as an optative/wish and leaves the clause chain dangling.",
+    "fix": "यह शरीर अकेला एकान्त में रहकर,"
+   }
+  ]
+ },
+ {
+  "id": "8-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-38",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "केवल स्वयं का चिन्तन करते हुए",
+    "evidence": "Tibetan \"བདག་ལ་སེམས་པ་གཅིག་པུ་ཡིས\" with Sanskrit \"स्वचित्तैकाग्रमानसः\" and bo-kunpal 8-38 (thought \"I shall tame this very mind of mine\") means a mind intent on one's own mind; Hindi \"स्वयं का चिन्तन\" can be read as self-absorbed thinking about oneself.",
+    "fix": "केवल अपने चित्त पर एकाग्र मन से"
+   }
+  ]
+ },
+ {
+  "id": "8-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-45",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "उनके द्वारा खाया जा रहा है",
+    "evidence": "Tibetan \"དེ་ནི་དེས་ཟ་ན\": the eater is the vulture etc. (bo-kunpal 8-45 \"བྱ་རྒོད་ལ་སོགས་པ་དེ་དང་དེས་ཟ་བར་བྱེད་པ\"; bo-gyaltsab 8-45). Hindi \"उनके\" most naturally refers back to \"दूसरों\" (the onlookers).",
+    "fix": "गिद्ध आदि द्वारा खाया जा रहा है"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "दूसरों के आँखों से देखने मात्र पर भी",
+    "evidence": "Tibetan \"གཞན་རྣམས་མིག་གིས་བལྟ་ན་ཡང་\" = even if others merely look with their eyes; Hindi \"दूसरों के आँखों\" is ungrammatical (feminine plural noun, wrong postposition).",
+    "fix": "दूसरों के आँख से देख भर लेने पर भी"
+   }
+  ]
+ },
+ {
+  "id": "8-46",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "तुम पुष्पों की, माला, चन्दन और आभूषणों से पूजते हो।",
+    "evidence": "Tibetan \"གཞན་གྱི་ཟས་ལ་... རྒྱན་གྱིས་མཆོད\" is a rhetorical question; bo-kunpal 8-46 \"ཅིའི་ཕྱིར་མཆོད་ཅིང་བསྙེན་བཀུར་བྱ\" and bo-gyaltsab 8-46 \"ཅིའི་ཕྱིར་བྱེད\". Hindi states it as a flat assertion, losing the reproach.",
+    "fix": "तो दूसरों के भोजन को तुम पुष्प-माला, चन्दन और आभूषणों से क्यों पूजते हो?"
+   }
+  ]
+ },
+ {
+  "id": "8-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-51",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "स्नायुओं से बँधे हुए अस्थिपञ्जर को, जिस पर मांस के कीचड़ का लेप है, तुम दूसरे को अपनी गोद में क्यों भरते हो",
+    "evidence": "Tibetan \"རུས་གཟེབ་རྒྱུས་པས་སྦྲེལ་བ་ལ། ཤ་ཡི་འདམ་གྱིས་ཞལ་ཞལ་བྱས། གཞན་\" (bo-shenga 8-51: \"...བྱས་པའི་གཞན་བུད་མེད་ཀྱི་ལུས་\") has the bone-cage bound with sinews and plastered with flesh-mud as a description of the single object \"another\" (gzhan). The Hindi gives two accusative objects (\"अस्थिपञ्जर को\" ... \"दूसरे को\") so the syntax is hard to parse.",
+    "fix": "तो स्नायुओं से बँधे और मांस के कीचड़ से लिपे हुए अस्थिपञ्जर-रूप दूसरे को तुम अपनी गोद में क्यों भरते हो?"
+   }
+  ]
+ },
+ {
+  "id": "8-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-55",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-58",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "अशुचिता से",
+    "evidence": "Tibetan \"མི་གཙང་ཆགས་མེད་ན\" uses the locked term མི་གཙང (अशुचि); the translation switches to the derived abstract \"अशुचिता\", inconsistent with 8-51 and the locked rendering.",
+    "fix": "अशुचि से"
+   }
+  ]
+ },
+ {
+  "id": "8-59",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "छोटा होने पर भी तुम नहीं चाहते",
+    "evidence": "Tibetan \"ཆུང་ངུའང་ཁྱོད་འདོད་མི་བྱེད་ལ\" (bo-kunpal 8-59: \"སྲིན་བུ་ཆུང་ངུའང་ཁྱོད་འདོད་པར་མི་བྱེད་\") means you do not desire even a small filth-worm (a fortiori the argument; Sanskrit alpatvāt). The concessive \"छोटा होने पर भी\" suggests smallness would make it desirable, which the Tibetan does not say.",
+    "fix": "छोटे से अशुचि-कृमि को भी तुम नहीं चाहते"
+   }
+  ]
+ },
+ {
+  "id": "8-60",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "अशुचिता की / अशुचिता के लोभ से",
+    "evidence": "Tibetan \"མི་གཙང\" is locked as अशुचि; the translation uses \"अशुचिता\" twice (\"ཁྱོད་ནི་རང་ཉིད་མི་གཙང་ལ\" and \"མི་གཙང་ལ། བརྐམ་པས\").",
+    "fix": "स्वयं की अशुचि की / अशुचि के लोभ से"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "अशुचि की थैली, अशुचिता के लोभ से दूसरों को भी",
+    "evidence": "Tibetan \"མི་གཙང་རྐྱལ་པ་མི་གཙང་ལ། བརྐམ་པས་གཞན་ཡང་འདོད་པར་བྱེད\" (bo-gyaltsab 8-60: \"མི་གཙང་བའི་ཕུང་པོ་གཞན་ཡང་འདོད་པར་བྱེད\") means: out of greed for impurity you desire other bags of impurity too. The Hindi word order leaves \"अशुचि की थैली\" dangling before the adverbial phrase, obscuring that the thing desired is the other bags.",
+    "fix": "अपितु अशुचि के लोभ से अशुचि की अन्य थैलियों को भी चाहते हो।"
+   }
+  ]
+ },
+ {
+  "id": "8-61",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-62",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-63",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-64",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-65",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-66",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-67",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-68",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-69",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-70",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-71",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-72",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-73",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-74",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-75",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-76",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-77",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-78",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-79",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "लाभ बहुत कम है",
+    "evidence": "Tibetan མནོག་ཆུང (Skt. āsvāda) means slight enjoyment/taste of pleasure; bo-kunpal 8-79 glosses it as འབྲས་བུ་བདེ་བའི་མནོག་ཆུང་ 'slight happiness as result' and bo-shenga as 'little satisfaction', not material gain (लाभ); english_academic has 'the enjoyment is slight'.",
+    "fix": "और सुख का आस्वाद अत्यल्प है"
+   }
+  ]
+ },
+ {
+  "id": "8-80",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "उस तुच्छ लाभ के लिए",
+    "evidence": "Tibetan མནོག་ཆུང་གང་ཡིན་དེ་དོན་དུ 'for the sake of that slight enjoyment' (bo-kunpal 8-80: ལོངས་སྤྱོད་མནོག་ཆུང་, enjoyment of food and clothing); 'लाभ' (gain) misses the sense of enjoyment/pleasure; english_academic 'slight enjoyment'.",
+    "fix": "उस अत्यल्प भोग-सुख के लिए"
+   }
+  ]
+ },
+ {
+  "id": "8-81",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-82",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-83",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-84",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-85",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-86",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-87",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-88",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-89",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-90",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-91",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-92",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-93",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-94",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-95",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-96",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-97",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-98",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-99",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-100",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-101",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-102",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "इस पर विवाद नहीं करना चाहिए",
+    "evidence": "Tibetan བརྩད་དུ་མེད (Sanskrit avivādataḥ) states that there is no ground for dispute / it is indisputable (bo-kunpal 8-102: དེ་ལྟར་བརྩད་དུ་མེད). The Hindi turns this into a prescription ('one should not dispute'), shifting the modality.",
+    "fix": "इस पर विवाद की कोई गुंजाइश नहीं है"
+   }
+  ]
+ },
+ {
+  "id": "8-103",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-104",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "करना ही चाहिए。",
+    "evidence": "The line ends with a Chinese/Japanese full stop (。) instead of the Devanagari danda; the Tibetan line ends བསྐྱེད་བྱ་ཉིད། and the translation's other lines use । or plain punctuation.",
+    "fix": "करना ही चाहिए।"
+   }
+  ]
+ },
+ {
+  "id": "8-105",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "major",
+    "span": "राजा की हानि को जानकर भी",
+    "evidence": "Tibetan རྒྱལ་པོའི་གནོད་པ is the harm coming from the king (Sanskrit nṛpāpadam; bo-shenga 8-105: རྒྱལ་པོ་དཔལ་བྱིན་ལས་བྱུང་བའི་གནོད་པ 'harm arising from King Dpal-byin'; bo-gyaltsab: རང་ཉིད་གསོད་པའི་རྒྱལ་པོའི་གནོད་པ, the king's harm that would kill him). Hindi 'राजा की हानि' reads naturally as harm/loss to the king, reversing the referent.",
+    "fix": "राजा से होने वाली हानि को जानते हुए भी"
+   }
+  ]
+ },
+ {
+  "id": "8-106",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-107",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-108",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-109",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "थोड़े से भी, अप्रिय से",
+    "evidence": "Tibetan མི་སྙན་ལས is an unpleasant/disagreeable utterance (Sanskrit avarṇāt; bo-kunpal 8-109: མི་སྙན་པའི་ཚིག་ཙམ་ལས་ཀྱང 'even a mere unpleasant word'; bo-shenga: མི་སྙན་པ་བརྗོད་པ་ལས). Hindi bare 'अप्रिय' loses the 'word/speech' sense and could mean any unpleasantness.",
+    "fix": "थोड़े से भी अप्रिय वचन से"
+   }
+  ]
+ },
+ {
+  "id": "8-110",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-111",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-112",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-113",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-114",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-115",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-116",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "भावना करनी चाहिए",
+    "evidence": "Tibetan 'གོམས་པར་བྱ' (to habituate/familiarise) and Sanskrit 'abhyasyatām' mean cultivate by habituation; 'भावना' corresponds to བསྒོམ་པ (as in 8-112), and གོམས་པ is rendered अभ्यास elsewhere in this batch (8-114, 8-118).",
+    "fix": "रक्षा-चित्त और करुणा के चित्त का अभ्यास करना चाहिए"
+   }
+  ]
+ },
+ {
+  "id": "8-117",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-118",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-119",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-120",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-121",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-122",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-123",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-124",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-125",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-126",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-127",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-128",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-129",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-130",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-131",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-132",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-133",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-134",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-135",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-136",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-137",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-138",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-139",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-140",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-141",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-142",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-143",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-144",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-145",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "बाहरी गुण के अभिमान से",
+    "evidence": "Tibetan 'ཕྱིར་ལ་ཡོན་ཏན་རློམ་པ་ཡིས' (Skt 'अपरं गुणमानेन'): ཕྱིར་ལ is the adverbial 'moreover/furthermore' (English: 'Moreover, conceited about his good qualities'). bo-kunpal 8-145 glosses it as conceit about qualities he does not have ('ཡོན་ཏན་མེད་བཞིན་དུ་ཡོན་ཏན་ཅན་དུ་རློམས་པ'). Nothing in the Tibetan says the qualities are 'outer/external' (बाहरी); the Hindi read ཕྱིར་ as 'outside' and added a qualifier.",
+    "fix": "इसके अतिरिक्त, गुण के अभिमान से"
+   }
+  ]
+ },
+ {
+  "id": "8-146",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "मेरे समान वालों को देखकर",
+    "evidence": "Tibetan 'བདག་དང་མཉམ་ལ་བལྟས་ནས' / Skt 'सममात्मानमालोक्य': a single person equal to me (bo-shenga 8-146 'བདག་དང་མཉམ་པ་ཞིག་ལ་ལྟོས་ནས'; bo-gyaltsab: one bodhisattva equal in rank). The Hindi 'वालों' is plural.",
+    "fix": "अपने समान (एक व्यक्ति) को देखकर"
+   }
+  ]
+ },
+ {
+  "id": "8-147",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-148",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-149",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-150",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-151",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-152",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-153",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-154",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-155",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-156",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-157",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-158",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-159",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-160",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-161",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-162",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-163",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-164",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-165",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-166",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-167",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "तुम्हें ही दमन किया जाएगा",
+    "evidence": "Tibetan ཚར་གཅད་བྱ་བར་ཟད (bo-kunpal 8-167: ཚར་བཅད་པར་བྱ་བར་ཟད་དོ; bo-shenga: ཚར་བཅད་པར་བྱ་བ་ཁོ་ནར་ཟད་དོ) means 'nothing remains but to subdue you'; the Hindi passive future drops the 'only/nothing else' force (ཟད) and the speaker's own resolve.",
+    "fix": "तब तुम्हें ही दमन करना शेष रह जाता है।"
+   }
+  ]
+ },
+ {
+  "id": "8-168",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-169",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-170",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "मैंने तुम्हें सत्त्वों को नहीं दिया",
+    "evidence": "The Tibetan གལ་ཏེ་བག་མེད་གྱུར་ནས་ཁྱོད། སེམས་ཅན་རྣམས་ལ་མ་བྱིན་ན has no ངས and places ཁྱོད in the clause; bo-kunpal 8-170 and bo-gyaltsab 8-170 (second gloss) read ཁྱོད (the mind) as the one who becomes heedless and does not give. The Sanskrit and bo-shenga read 'I do not give you'. The Hindi fixes one reading; a neutral rendering would keep the Tibetan's open agent.",
+    "fix": "यदि प्रमाद में पड़कर तुम (मुझे) सत्त्वों को न दोगे,"
+   }
+  ]
+ },
+ {
+  "id": "8-171",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-172",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-173",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "दुर्बल होकर पतन को प्राप्त होता है",
+    "evidence": "Tibetan 'བཟེ་རེ་ཅན་གྱུར་ཉིད་དུ་ལྟུང་' = falls into the state of being 'bzer re can' (fragile/intolerant); bo-shenga glosses it as unable to bear even slight suffering (སྡུག་བསྔལ་ཕྲ་མོ་ཙམ་ཡང་བཟོད་པར་མི་ནུས་པ་ཉིད་དུ་ལྷུང་), bo-gyaltsab similarly. 'दुर्बल' (weak) misses the delicacy/intolerance sense (Skt sukumāratara), and 'दुर्बल होकर ... पतन' recasts the fall-into-a-state as weakening then falling.",
+    "fix": "अत्यन्त सुकुमार (असहिष्णु) अवस्था में जा गिरता है"
+   }
+  ]
+ },
+ {
+  "id": "8-174",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-175",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "दूषित विचार",
+    "evidence": "Tibetan 'བསམ་པ་ཉམས་པ' = deterioration/loss of intention; bo-gyaltsab: དགེ་བའི་ཕྱོགས་ཀྱི་བསམ་པ་ཉམས་པ (wholesome intention declines) and bo-shenga: བསམ་པ་ཉམས་པ; Skt āśābhaṅga (disappointment). 'दूषित' means corrupted/defiled, not decayed or lost.",
+    "fix": "आशय (संकल्प) का ह्रास"
+   }
+  ]
+ },
+ {
+  "id": "8-176",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-177",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-178",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-179",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-180",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-181",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-182",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-183",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-184",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-185",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "मैं समाहित करूँगा",
+    "evidence": "Tibetan 'བདག་གིས་མཉམ་པར་གཞག་པར་བྱ' with 'སེམས་བླན་ཏེ' (withdrawing the mind) and Skt 'cittam ... svālambana-nirantaram': the mind is the object placed in equipoise. The Hindi verb 'समाहित करूँगा' has no object and is ungrammatical/unclear.",
+    "fix": "चित्त को समाहित करूँगा"
+   }
+  ]
+ },
+ {
+  "id": "8-a",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-9",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "जैसे वास्तव में विद्यमान के प्रति, उसी प्रकार।",
+    "evidence": "Tibetan 'ཇི་ལྟར་དངོས་ཡོད་ལ་ཇི་བཞིན' = 'just as [it is] for the truly existent'; the Hindi 'के प्रति, उसी प्रकार' leaves a dangling correlative and obscures that merit arises equally for a truly existent Victor (bo-gyaltsab 9-9: 'ཇི་ལྟར་ཁྱོད་རྒྱལ་བ་བདེན་པའི་དངོས་པོར་ཡོད་པར་འདོད་པ་ལ་བསོད་ནམས་འབྱུང་བར་འདོད་པ་ཇི་ལྟ་བ་བཞིན་').",
+    "fix": "जैसे वास्तव में विद्यमान (जिन) के विषय में होता है, वैसे ही।"
+   }
+  ]
+ },
+ {
+  "id": "9-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-16",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "तब किसका आलम्बन होगा?",
+    "evidence": "Tibetan 'དེ་ཚེ་ཅི་ཞིག་དམིགས' = 'then what is apprehended?' (Sanskrit 'tadā kim upalabhyate'); 'किसका आलम्बन' reads as 'whose/of what object', not 'what is apprehended' (bo-kunpal 9-16: 'དམིགས་བྱ་ཡུལ་ཅི་ཞིག་དམིགས').",
+    "fix": "तब क्या आलम्बित (उपलब्ध) होगा?"
+   }
+  ]
+ },
+ {
+  "id": "9-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-18",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "वैसे ही मनस् है。",
+    "evidence": "Tibetan 'ཇི་ལྟར་མི་གཅོད་དེ་བཞིན་ཡིད' means 'as the sword edge does not cut itself, so the mind [does not see itself]' (bo-gyaltsab 9-18: 'ཡིད་ཀྱིས་ཡིད་མི་མཐོང་'); 'वैसे ही मनस् है' leaves the ellipsis unresolved, so it reads as a bare predication, and ends in the stray CJK full stop '。' instead of '।'.",
+    "fix": "वैसे ही मनस् भी स्वयं को नहीं देखता।"
+   }
+  ]
+ },
+ {
+  "id": "9-19",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "स्फटिक की भाँति नील, नीलता के लिए अन्य की अपेक्षा नहीं रखता है।",
+    "evidence": "Tibetan 'ཤེལ་བཞིན་སྔོན་པོ་སྔོ་ཉིད་ལ། གཞན་ལ་ལྟོས་པ་ཡོད་མ་ཡིན' (Skt 'na hi sphaṭikavan nīlaṃ nīlatve 'nyam apekṣate'): the blue thing does not depend on another for blueness, in contrast to a crystal, which is not blue by nature and needs something blue beneath or beside it (bo-shenga 9-20: 'ཤེལ་རང་བཞིན་གྱིས་སྔོན་པོ་མ་ཡིན་པ་གཞན་འདབ་མ་སྔོན་པོ་ལ་སོགས་པ་ལ་ལྟོས་དགོས'; bo-kunpal 9-19). 'स्फटिक की भाँति' makes the crystal the model of non-dependence, the reverse; approved English has 'Unlike a crystal'.",
+    "fix": "स्फटिक के विपरीत, नील नीलता के लिए अन्य की अपेक्षा नहीं रखता।"
+   }
+  ]
+ },
+ {
+  "id": "9-20",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "उसे नील रूप में, स्वयं ने स्वयं को नहीं बनाया।",
+    "evidence": "Tibetan 'སྔོ་ཉིད་མིན་ལ་སྔོན་པོར་དེ། བདག་གིས་བདག་ཉིད་བྱས་པ་མེད' = what is not blue has not made itself blue by itself (bo-kunpal 9-20: 'བདག་གིས་བདག་ཉིད་སྔར་སྔོན་པོ་མིན་པ་ལ་ཕྱིས་སྔོན་པོར་བྱས་པ་ནི་མེད'); the Hindi 'उसे ... स्वयं ने स्वयं को' leaves an unclear object/agent and is hard to parse.",
+    "fix": "जो स्वयं नील नहीं है, वह स्वयं द्वारा स्वयं को नील नहीं बनाता।"
+   }
+  ]
+ },
+ {
+  "id": "9-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-31",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "प्रहाण नहीं किया है。",
+    "evidence": "The line ends in a CJK full stop (。) instead of the Devanagari danda; punctuation error only, meaning unaffected (Tibetan 'ཉོན་མོངས་བག་ཆགས་མ་སྤངས་པ།').",
+    "fix": "प्रहाण नहीं किया है,"
+   }
+  ]
+ },
+ {
+  "id": "9-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-42",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "अन्य दो के मानने से",
+    "evidence": "Tibetan 'གཞན་གཉིས་འདོད་པས' means acceptance by any two other parties/persons; bo-kunpal 9-42 glosses 'གཞན་གང་ཟག་གང་ཡང་རུང་བ་གཉིས་ཀྱིས་འདོད་པས' and bo-shenga 9-42 'གཞན་གང་ཡང་རུང་བ་གཉིས་ཀྱིས་འདོད་པས'. 'अन्य दो' could be read as 'the other two' (a definite pair) rather than 'any two'.",
+    "fix": "किन्हीं भी दो अन्य पक्षों के मानने से"
+   }
+  ]
+ },
+ {
+  "id": "9-43",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "त्याग करना होगा",
+    "evidence": "The Tibetan 'དོར་བྱར་འགྱུར' has the scriptures as implied object (bo-kunpal 9-43: the Hinayana would also be discarded by you; bo-shenga 9-43: 'ལུང་ ... དོར་བྱར་འགྱུར'); the Hindi leaves the object unstated and the stacked genitives ('आगम पर तीर्थिकों का, ... स्व एवं पर का') make the clause hard to parse.",
+    "fix": "तो आगम पर तीर्थिकों के साथ, और अन्य आगमों पर भी स्वपक्ष और परपक्ष के बीच विवाद होने के कारण (उन आगमों का) त्याग करना होगा"
+   }
+  ]
+ },
+ {
+  "id": "9-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-46",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "उपादान-तृष्णा",
+    "evidence": "Tibetan ཉེར་ལེན་སྲེད་པ is explained in bo-kunpal 9-46 as ཉེར་ལེན་ཏེ་ཉེ་བར་ལེན་པའི་རྒྱུ་སྲེད་པ, i.e. the craving that is the cause of grasping (upādāna); the bare Hindi compound can be read as 'grasping and craving' or an undefined compound.",
+    "fix": "उपादान की कारणभूत तृष्णा"
+   }
+  ]
+ },
+ {
+  "id": "9-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-55",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-58",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-59",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-60",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-61",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-62",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-63",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-64",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "उसे शब्द ग्रहण से युक्त स्वभाव में नहीं देखा जाता है",
+    "evidence": "Tibetan དེ་ནི་སྒྲ་འཛིན་དང་ལྡན་པའི། རང་བཞིན་དུ་ནི་མཐོང་མ་ཡིན: the subject is the form-apprehender (གཟུགས་འཛིན་པ, bo-kunpal 9-64, bo-shenga 9-64) and it is 'not seen as having a nature endowed with sound-apprehension'. Hindi 'उसे ... स्वभाव में' leaves the referent unnamed and 'में' wrongly suggests location rather than 'as/of such a nature'.",
+    "fix": "वह (रूप-ग्राहक) शब्द-ग्रहण से युक्त स्वभाव वाला नहीं देखा जाता"
+   }
+  ]
+ },
+ {
+  "id": "9-65",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-66",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-67",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-68",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-69",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "अचेतन",
+    "evidence": "Tibetan has ཤེས་མེད (lacking cognition; Skt. अज्ञस्य; bo-gyaltsab 9-69 glosses it as ཤེས་པ་མེད་པ). ཤེས is locked as ज्ञान, and བདག་ཅི་མེད/སེམས་མེད (अचेतन) is a different term used in 9-68.",
+    "fix": "इस प्रकार ज्ञानरहित और क्रियारहित"
+   }
+  ]
+ },
+ {
+  "id": "9-70",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-71",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-72",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-73",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "क्योंकि उनका अस्तित्व नहीं है。",
+    "evidence": "Sentence ends with a CJK full stop (。) instead of the Devanagari danda; typographic error. Tibetan: དེ་ནི་མེད་པའི་ཕྱིར།",
+    "fix": "क्योंकि उनका अस्तित्व नहीं है।"
+   }
+  ]
+ },
+ {
+  "id": "9-74",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-75",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-76",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-77",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-78",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-79",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-80",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-81",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-82",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-83",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-84",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-85",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-86",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-87",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-88",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-89",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-90",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-91",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-92",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "विकल्पित क्षेत्र से उत्पन्न",
+    "evidence": "Tibetan རྣམ་བརྟགས་ཞིང་ལས་བྱུང་བ་ is the 'field of investigation/analysis' (Kunpal 9-92: རྣམ་པ་བརྟག་ཅིང་དཔྱད་པའི་ཞིང་ས་བཟང་པོ་ལྟ་བུ; Gyaltsab 9-92: རྣམ་པར་བརྟགས་ཤིང་དཔྱད་པའི་ཞིང་), i.e. the ground of analytical scrutiny, matching english_academic 'field of investigation'. Hindi 'विकल्पित' reads as 'imagined/conceptually constructed', which changes the sense.",
+    "fix": "विश्लेषित (परीक्षित) क्षेत्र से उत्पन्न"
+   }
+  ]
+ },
+ {
+  "id": "9-93",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-94",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-95",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-96",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-97",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-98",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-99",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-100",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-101",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-102",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-103",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-104",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-105",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-106",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-107",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "नहीं है。",
+    "evidence": "The line ends with an ideographic full stop (U+3002) instead of the Devanagari danda; a typographic error, meaning unaffected (Tibetan: དེ་ནི་རང་གི་ཀུན་རྫོབ་མིན།).",
+    "fix": "नहीं है।"
+   }
+  ]
+ },
+ {
+  "id": "9-108",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-109",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-110",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "उसे ही निर्वाण कहा जाता है",
+    "evidence": "Tibetan དེ་ཡང་མྱ་ངན་འདས་པར་བརྗོད says 'that too (also) is called nirvana' (ཡང་ = also; Sanskrit तच्च); the Hindi 'ही' (only) restricts it, which the Tibetan does not say. bo-shenga 9-110: དེ་ཡང་མྱ་ངན་ལས་འདས་པར་བརྗོད.",
+    "fix": "उसे भी निर्वाण कहा जाता है"
+   }
+  ]
+ },
+ {
+  "id": "9-111",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-112",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-113",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-114",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-115",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-116",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-117",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-118",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-119",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-120",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-121",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "उसके द्वारा उत्पन्न अभीष्ट भी क्या है?",
+    "evidence": "Tibetan དེས་བསྐྱེད་འདོད་པའང་གང་ཞིག་ཡིན asks what it is that he is desired/claimed to produce (bo-kunpal 9-121: དེས་བསྐྱེད་པར་འདོད་པ་ཡང་གང་ཞིག་ཡིན). 'उत्पन्न अभीष्ट' is elliptical and can be read as 'the desired thing already produced by him', dropping the sense of 'to be produced'.",
+    "fix": "उसके द्वारा उत्पन्न किया जाना भी अभीष्ट क्या है?"
+   }
+  ]
+ },
+ {
+  "id": "9-122",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-123",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-124",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-125",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-126",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-127",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-128",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-129",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-130",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-131",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-132",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-133",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-134",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-135",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-136",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-137",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-138",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-139",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-140",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-141",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-142",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-143",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-144",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-145",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-146",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-147",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-148",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-149",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-150",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "सदृश हैं。",
+    "evidence": "Line 2 ends with the CJK full stop '。' instead of the Devanagari danda; the Tibetan line 'རྣམ་པར་དཔྱད་ན་ཆུ་ཤིང་འདྲ། །' is otherwise rendered correctly.",
+    "fix": "सदृश हैं।"
+   }
+  ]
+ },
+ {
+  "id": "9-151",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-152",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-153",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-154",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-155",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-156",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-157",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-158",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-159",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "हिंसा",
+    "evidence": "Tibetan 'འཚེ' (Sanskrit upadrava) is harm/affliction generally; bo-kunpal 9-159 glosses it as 'ཕྱི་ནང་གི་ཉེར་འཚེ་སྣ་ཚོགས' (various outer and inner troubles) and bo-shenga as being harmed by others. 'हिंसा' (violence) narrows it.",
+    "fix": "उपद्रव"
+   }
+  ]
+ },
+ {
+  "id": "9-160",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-161",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-162",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-163",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-164",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "जैसे कोई बार-बार स्नान, / करके बार-बार अग्नि में प्रवेश करते हैं",
+    "evidence": "Tibetan 'འགའ་ཞིག' ('some', plural) with 'ཡང་ཡང་ཁྲུས། བྱས་ཏེ་ཡང་ཡང་མེར་འཇུག་པ' (bathing again and again, then entering fire again and again). Hindi has singular 'कोई' with plural verbs 'करते हैं/मानते हैं' and a stray comma splitting 'स्नान' from 'करके'.",
+    "fix": "जैसे कुछ लोग बार-बार स्नान करके / बार-बार अग्नि में प्रवेश करते हैं"
+   }
+  ]
+ },
+ {
+  "id": "9-165",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-166",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-167",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-a",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-1",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "प्रवेश की जो भलीभाँति रचना की गई है, उस कुशल से",
+    "evidence": "Tibetan 'འཇུག་པ་རྣམ་པར་བརྩམས་པ་ཡི། དགེ་བ་གང་དེས' has the relative 'གང' modifying 'དགེ་བ' (whatever virtue arises from composing the Entering). In the Hindi the relative 'जो' attaches to 'रचना', so 'उस कुशल' has no antecedent and the sentence is hard to parse (Gyaltsab 10-1: 'བརྩམས་པའི་དགེ་བ་གང་ཐོབ་པ་དེ་དང་').",
+    "fix": "बोधिचर्या में प्रवेश (ग्रन्थ) की भलीभाँति रचना से जो भी कुशल हुआ है, उस कुशल से"
+   }
+  ]
+ },
+ {
+  "id": "10-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-3",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-5",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-6",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-7",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "राजहंस",
+    "evidence": "Tibetan lists four birds: 'འཐིང་རིལ', 'ངུར་པ', 'ངང་པ' (swan/goose, rendered हंस), and 'བཞད'. The approved English renders the last as 'cranes'; 'राजहंस' is a kind of swan/flamingo and largely duplicates 'हंस', so the fourth bird is not rendered as in the reference (bo-kunpal 10-7 and bo-shenga 10-7 only list 'བཞད' without glossing it, so the rendering is uncertain).",
+    "fix": "सारस"
+   }
+  ]
+ },
+ {
+  "id": "10-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-9",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-11",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-16",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-20",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "शोक-सन्तप्त लोग",
+    "evidence": "Tibetan མྱ་ངན་ཉམ་ཐག་ has two terms, sorrow (མྱ་ངན) and wretched/helpless (ཉམ་ཐག); bo-kunpal 10-20 glosses སེམས་མྱ་ངན་གྱིས་གདུངས་ཤིང་ཉམ་ཐག་པ (tormented by sorrow and wretched). The Hindi renders only the sorrow.",
+    "fix": "शोक से पीड़ित और दीन-हीन लोग"
+   }
+  ]
+ },
+ {
+  "id": "10-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-24",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-25",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-27",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-28",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-29",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-30",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-33",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-34",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "जो बुद्धों और बुद्धपुत्रों द्वारा,\nमधुर धर्म घोषित करने से भरे हों",
+    "evidence": "Tibetan ཆོས་སྙན་སྒྲོགས་པས་གང་བ་ཡིས། ཕྱོགས་རྣམས་ཐམས་ཅད་གང་བར་ཤོག: the directions are filled by the Buddhas and their sons proclaiming sweet Dharma; bo-kunpal 10-34 and bo-shenga 10-34 place the Buddhas and sons in the groves and have the proclamation fill all directions. The relative clause 'जो ... भरे हों' makes the groves the thing filled, leaving the structure unclear.",
+    "fix": "कल्पवृक्षों के उपवनों में स्थित बुद्धों और बुद्धपुत्रों द्वारा मधुर धर्म-घोषणा से सम्पूर्ण दिशाएँ परिपूर्ण हो जाएँ।"
+   }
+  ]
+ },
+ {
+  "id": "10-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-41",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-42",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-45",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-46",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "ambiguity",
+    "severity": "minor",
+    "span": "उनकी संतान पूर्णतः विशुद्ध हो",
+    "evidence": "Tibetan རྒྱུད་ནི་ཡོངས་སུ་དག་པ means the mental continuum is completely purified (bo-shenga 10-46: ང་རྒྱལ་མེད་པ་རྒྱུད་ནི་ཡོངས་སུ་དག་པ; bo-gyaltsab 10-46: རྒྱུད་ནི་ང་རྒྱལ་ལ་སོགས་པ་མེད་པར་ཡོངས་སུ་དག་པ). Bare Hindi संतान ordinarily means children/offspring, which the Tibetan excludes; the locked term needs the 'mind' qualifier to be read as continuum.",
+    "fix": "उनका चित्त-संतान पूर्णतः विशुद्ध हो"
+   }
+  ]
+ },
+ {
+  "id": "10-47",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-49",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-50",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-51",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-54",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-55",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-56",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-58",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-a",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "a-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "b-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "b-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "b-3",
+  "verdict": "pass",
+  "issues": []
+ }
+]

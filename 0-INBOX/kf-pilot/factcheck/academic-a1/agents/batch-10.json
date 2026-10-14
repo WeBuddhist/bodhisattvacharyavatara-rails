@@ -1,0 +1,176 @@
+{
+ "batch": "batch-10",
+ "segments": [
+  {
+   "id": "4-41",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Reaching the ends of space in the ten directions,",
+     "evidence": "The Tibetan ཕྱོགས་བཅུ་ནམ་མཁའི་མཐས་གཏུགས་པའི། is a genitive modifier of འགྲོ་བ (beings who extend to the ends of space; Skt daśadigvyomaparyanta-jagat; bo-kunpal 4-41 ནམ་མཁའི་མཐས་གཏུགས་པར་ཁྱབ་པའི་འགྲོ་བ). In the English the opening participial phrase dangles and can be read as describing the speaker or the act of liberating.",
+     "fix": "To liberate from afflictions the wandering beings who reach to the ends of space in the ten directions,"
+    }
+   ]
+  },
+  {
+   "id": "4-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-43",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Are excepted, as they destroy afflictions.",
+     "evidence": "The Tibetan ཉོན་མོངས་འཇོམས་བྱེད་མ་གཏོགས་སོ། leaves implicit what the exception is from; bo-gyaltsab 4-43 and bo-shenga 4-43 make it explicit: such seeming afflictions, being what destroys afflictions, are excepted from what is to be abandoned (སྤང་བྱར་མ་གཏོགས་སོ). English \"excepted\" alone does not say from what.",
+     "fix": "Are excepted from what is to be abandoned, since they destroy afflictions."
+    }
+   ]
+  },
+  {
+   "id": "4-44",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "it is better",
+     "evidence": "བླའི། (Skt kāmam, \"so be it / let it be\") is a concession, not a comparative. bo-kunpal 4-44 glosses it སླ་ཞིང་ (\"easy / no matter\") and bo-gyaltsab 4-44 says that being burned or beheaded only discards the body of this life, i.e. is of little consequence. \"It is better\" asserts a preference the Tibetan does not state.",
+     "fix": "so be it"
+    }
+   ]
+  },
+  {
+   "id": "4-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-46",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "are abandoned by the eye of wisdom",
+     "evidence": "ཤེས་རབ་མིག་གིས་སྤང་། is an exhortation/gerundive (Skt prajñādṛṣṭisādhyā \"to be overcome by the eye of wisdom\"); bo-shenga 4-46 has སྤང་བར་བྱ་སྟེ (\"are to be abandoned\"). The indicative passive states as fact what the verse prescribes.",
+     "fix": "are to be abandoned by the eye of wisdom"
+    }
+   ]
+  },
+  {
+   "id": "4-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "Hell guardians of the hell of sentient beings",
+     "evidence": "སེམས་ཅན་དམྱལ་བའི་སྲུང་མ is the locked \"hell guardian\" (Skt narakapālāḥ; bo-kunpal 5-4 explains them as Yama's agents in hell). Here སེམས་ཅན་དམྱལ་བ is simply \"hell\"; rendering the second locked entry inside the first produces a redundant, odd phrase.",
+     "fix": "Hell guardians"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "Sorcerers",
+     "evidence": "བྱད་མ (Skt ḍākinī) is not a human sorcerer: bo-kunpal 5-4 describes it as a spirit/revenant incited by another's power (བྱད་མ་གདོན་རྦད་འདྲེ་རྦོད་གཏོང), and bo-gyaltsab 5-5 glosses བྱད་མ་མཁའ་འགྲོ་མ, harming through mantra.",
+     "fix": "Witches (ḍākinīs)"
+    }
+   ]
+  },
+  {
+   "id": "5-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-6",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "So the Speaker of Truth Himself has taught.",
+     "evidence": "The last line (ཡང་དག་གསུང་བ་ཉིད་ཀྱིས་བསྟན།) reports the source of the claim in line 3 (བྱུང་བ་ཡིན་ནོ་ཞེས། \"that they arise from the mind\"); it is not a consequence. \"So\" suggests a conclusion drawn from the preceding lines; Skt yasmāt ... kathitam gives the reasoning as \"since ... as taught\".",
+     "fix": "as the Speaker of Truth Himself has taught."
+    }
+   ]
+  },
+  {
+   "id": "5-7",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "doctrinal",
+     "severity": "minor",
+     "span": "From what did those masses of fire arise?",
+     "evidence": "The Tibetan text as given reads མེ་ཚོགས, which the English follows, but bo-gyaltsab 5-8 states that མེ་ཚོགས is a corrupt reading in some editions; Skt striyaḥ and the other readings (bo-gyaltsab 5-7 མོ་ཚོགས; bo-kunpal མོ་ཡི་ཚོགས; bo-shenga on the shalmali tree) mean the groups of women in hell.",
+     "fix": "From what did those groups of women arise? (with a note on the variant མེ་ཚོགས \"masses of fire\")"
+    }
+   ]
+  },
+  {
+   "id": "5-8",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Were taught by the Sage to be the mind of misdeed.",
+     "evidence": "སྡིག་སེམས་ཡིན་པར ... གསུངས། is elliptical: the commentaries read it as arising from or caused by the mind of misdeed (Skt pāpacittasamudbhūtam; bo-kunpal 5-8 སྡིག་པ་མི་དགེ་བའི་སེམས་གོམས་པའི་དབང་གིས་བྱུང་བ; bo-shenga 5-8 སེམས་ཉིད་དེ་དག་གི་རྒྱུ་ཡིན). \"To be the mind of misdeed\" reads as identity.",
+     "fix": "Were taught by the Sage to be (products of) the mind of misdeed."
+    }
+   ]
+  },
+  {
+   "id": "5-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-11",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+(anon):setopt:7: can't change option: monitor
+
+[[31mERROR[39m]: gitstatus failed to initialize.
+
+
+  Add the following parameter to ~/.zshrc for extra diagnostics on error:
+
+    GITSTATUS_LOG_LEVEL=DEBUG
+
+  Restart Zsh to retry gitstatus initialization:
+
+    [32mexec zsh[39m
+batch-01: drop=21 fix=0 add=32 tokens in/out/think=13645/3682/11559
+batch-02: drop=1 fix=0 add=1 tokens in/out/think=11492/1351/4315
+batch-03: drop=1 fix=0 add=3 tokens in/out/think=9774/1407/7236
+batch-04: drop=4 fix=2 add=1 tokens in/out/think=11725/1544/10539
+batch-05: drop=1 fix=5 add=1 tokens in/out/think=7681/1171/8692
+batch-06: drop=1 fix=1 add=8 tokens in/out/think=8117/1428/6542
+batch-07: drop=1 fix=2 add=23 tokens in/out/think=11169/2643/12424
+batch-08: drop=1 fix=1 add=24 tokens in/out/think=10529/2608/9741
+batch-09: drop=3 fix=0 add=9 tokens in/out/think=10939/1937/7896
+batch-10: drop=20 fix=2 add=6 tokens in/out/think=10311/2097/11056
+batch-11: drop=0 fix=5 add=20 tokens in/out/think=10035/2478/8745
+batch-12: drop=2 fix=2 add=1 tokens in/out/think=10298/1481/7509
+batch-13: drop=3 fix=1 add=0 tokens in/out/think=11188/1435/4444
+batch-14: drop=5 fix=2 add=3 tokens in/out/think=12648/1801/7653
+batch-15: drop=1 fix=0 add=11 tokens in/out/think=11415/1963/5584
+batch-16: drop=2 fix=2 add=15 tokens in/out/think=11376/2402/6284
+batch-17: drop=7 fix=0 add=0 tokens in/out/think=10898/1617/4572
+batch-18: drop=5 fix=2 add=5 tokens in/out/think=11514/1913/9798
+batch-19: drop=6 fix=2 add=14 tokens in/out/think=11587/2478/7581
+batch-20: drop=3 fix=0 add=4 tokens in/out/think=9614/1620/5810
+batch-21: drop=16 fix=0 add=11 tokens in/out/think=14981/2604/8163
+batch-22: drop=10 fix=0 add=14 tokens in/out/think=13196/2593/8722
+batch-23: drop=6 fix=1 add=15 tokens in/out/think=13495/1575/7818
+batch-24: drop=4 fix=3 add=1 tokens in/out/think=12564/1824/5756
+batch-25: drop=1 fix=0 add=5 tokens in/out/think=9912/1422/5725
+batch-26: drop=6 fix=0 add=3 tokens in/out/think=11599/1697/6354
+{'drop': 131, 'fix_span': 33, 'add': 230}

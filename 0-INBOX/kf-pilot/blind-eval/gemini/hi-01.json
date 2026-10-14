@@ -1,0 +1,191 @@
+{
+ "segments": [
+  {
+   "id": "1-11",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "जगत् के प्राणियों के स्थानों",
+      "explanation": "Translating \"realms of rebirth\" literally as \"places of the world's beings\" is awkward; \"संसार की गतियों\" or \"भव-स्थान\" would be more idiomatic."
+     }
+    ]
+   }
+  },
+  {
+   "id": "1-27",
+   "candidates": {
+    "A": [
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "बुद्ध की पूजा से श्रेष्ठता है",
+      "explanation": "Using the noun phrase \"श्रेष्ठता है\" is grammatically awkward; \"बुद्ध की पूजा से श्रेष्ठ है\" would be much more fluent."
+     }
+    ],
+    "B": [
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "केवल कल्याण की भावना मात्र से ही",
+      "explanation": "The combination of \"केवल\", \"मात्र\", and \"ही\" creates unnecessary redundancy in Hindi."
+     },
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "बुद्ध-पूजा से भी श्रेष्ठता है",
+      "explanation": "Using the noun phrase \"श्रेष्ठता है\" is grammatically awkward; \"बुद्ध-पूजा से भी श्रेष्ठ है\" would be much more fluent."
+     }
+    ]
+   }
+  },
+  {
+   "id": "2-22",
+   "candidates": {
+    "A": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "मञ्जुश्री",
+      "explanation": "The Tibetan 'jam dbyangs specifically corresponds to Mañjughoṣa (मञ्जुघोष), whereas Mañjuśrī corresponds to 'jam dpal."
+     }
+    ],
+    "B": []
+   }
+  },
+  {
+   "id": "2-53",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "2-57",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "3-15",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "4-20",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "4-29",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "5-12",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "5-41",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "5-47",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "5-85",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "5-98",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "6-6",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "6-30",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "6-64",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "6-87",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "6-98",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "6-126",
+   "candidates": {
+    "A": [],
+    "B": []
+   }
+  },
+  {
+   "id": "7-10",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "मूर्च्छित",
+      "explanation": "Tibetan 'myos pa' in this context means becoming mad or delirious in terror, not fainting."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "तुम क्या करोगे?",
+      "explanation": "The Tibetan commentaries explicitly interpret the subject as 1st person ('what will I do?'), not 2nd person, despite the Sanskrit reading."
+     }
+    ],
+    "B": []
+   }
+  }
+ ]
+}

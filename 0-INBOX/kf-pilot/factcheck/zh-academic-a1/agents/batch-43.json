@@ -1,0 +1,137 @@
+{
+ "batch": "batch-43",
+ "segments": [
+  {
+   "id": "9-145",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-146",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-147",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "若於無時不可能有事物存在",
+     "evidence": "Tibetan 'med tshe dngos yod srid min na' = 'if, at the time of non-existence (while the non-entity is there), an entity cannot exist'; Sanskrit 'nābhāvakāle bhāvaś cet'. 'at the time of non-entity'. The Chinese '於無時' can be read as 'at no time / never', which is not what the Tibetan says.",
+     "fix": "若於無事物之時，事物不可能存在"
+    }
+   ]
+  },
+  {
+   "id": "9-148",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "則無事物存在之機",
+     "evidence": "Tibetan 'dngos po yod pa'i skabs mi srid' = 'the occasion for an entity to exist is impossible'. The Chinese string '無事物存在之機' places the locked term 無事物 (dngos med) adjacent to 無, so it can be parsed as 'the occasion for a non-entity to exist' or as a negated '事物存在之機'; the negation of the possibility (mi srid) is not clearly expressed.",
+     "fix": "則事物存在之機不可能有"
+    }
+   ]
+  },
+  {
+   "id": "9-149",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-150",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-151",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-152",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-153",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-154",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-155",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-156",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "享盡眾多安樂後",
+     "evidence": "Tibetan 'bde ba mang po spyod spyod nas' = 'having repeatedly enjoyed much happiness' (Sanskrit 'bhūtvā bhūtvā sukhocitāḥ'); nothing in the text says the happiness is exhausted. '享盡' adds the sense of using it all up.",
+     "fix": "受用眾多安樂後"
+    }
+   ]
+  },
+  {
+   "id": "9-157",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-158",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-159",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-160",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-161",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-162",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-163",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "安住於苦河中",
+     "evidence": "Tibetan 'sdug bsngal chu bor gnas' = 'dwelling/being situated in the river of suffering' (Sanskrit 'duḥkhaugha-vartinām'). '安住' carries the positive Buddhist sense of abiding at ease, which clashes with the verse's irony and the plain sense of 'gnas'.",
+     "fix": "處於苦河中"
+    }
+   ]
+  },
+  {
+   "id": "9-164",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

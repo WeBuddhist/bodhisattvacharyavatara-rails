@@ -1,0 +1,458 @@
+[
+ {
+  "id": "8-104",
+  "tibetan": "གལ་ཏེ་སྡུག་བསྔལ་གཅིག་གིས་ནི། ། སྡུག་བསྔལ་མང་པོ་མེད་འགྱུར་ན། ། བརྩེ་དང་ལྡན་པས་སྡུག་བསྔལ་དེ། ། རང་དང་གཞན་ལ་བསྐྱེད་བྱ་ཉིད། །",
+  "academic_translation": "If by means of a single suffering\nMany sufferings are eliminated,\nBy the compassionate one, that suffering\nShould certainly be generated for oneself and others.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "If facing one single suffering removes many other sufferings, a kind person should certainly take on that suffering for themselves and others."
+ },
+ {
+  "id": "8-107",
+  "tibetan": "སེམས་ཅན་རྣམས་ནི་གྲོལ་བ་ན། ། དགའ་བའི་རྒྱ་མཚོ་གང་ཡིན་པ། ། དེ་ཉིད་ཀྱིས་ནི་ཆོག་མིན་ནམ། ། ཐར་པ་འདོད་པས་ཅི་ཞིག་བྱ། །",
+  "academic_translation": "When sentient beings are liberated,\nThe ocean of joy that exists—\nIs that itself not sufficient?\nWhat is the use of desiring liberation?",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "ཐར་པ",
+    "use": "freedom"
+   }
+  ],
+  "translation": "When living beings are freed, there is an ocean of joy. Is that joy not enough? What is the use of wanting freedom?"
+ },
+ {
+  "id": "8-110",
+  "tibetan": "གོམས་པ་ཡིས་ནི་གཞན་དག་གི། ། ཁུ་བ་ཁྲག་གི་ཐིགས་པ་ལ། ། དངོས་པོ་མེད་པར་གྱུར་ཀྱང་ནི། ། བདག་གོ་ཞེས་ནི་ཤེས་པ་ལྟར། །",
+  "academic_translation": "Through habituation, regarding others'\nDrops of semen and blood,\nEven though there is an absence of an entity,\nJust as one knows them as \"I\",",
+  "locked_terms": [
+   {
+    "tibetan": "དངོས་པོ་མེད",
+    "use": "without a thing"
+   }
+  ],
+  "translation": "By getting used to it, I take the drops of seed and blood from others as \"I\". Even though they are without a thing, I still call them \"I\"."
+ },
+ {
+  "id": "8-126",
+  "tibetan": "བདག་ཉིད་མཐོ་བར་འདོད་པ་དེས། ། ངན་འགྲོ་ངན་དང་གླེན་པར་འགྱུར། ། དེ་ཉིད་གཞན་ལ་སྤོ་བྱས་ན། ། བདེ་འགྲོ་རིམ་གྲོ་འཐོབ་པར་འགྱུར། །",
+  "academic_translation": "Through wishing for oneself to be exalted,\nOne will be reborn in a lower realm, base, and stupid.\nIf that very wish is shifted to others,\nOne will obtain a happy realm and respect.",
+  "locked_terms": [
+   {
+    "tibetan": "ངན་འགྲོ",
+    "use": "unhappy realm"
+   },
+   {
+    "tibetan": "བདེ་འགྲོ",
+    "use": "happy realm"
+   }
+  ],
+  "translation": "If I wish to be great myself, I will be reborn in an unhappy realm as someone low and foolish. If I shift that wish to others, I will gain a happy realm and respect."
+ },
+ {
+  "id": "8-130",
+  "tibetan": "བདག་བདེ་གཞན་གྱི་སྡུག་བསྔལ་དག ། ཡང་དག་བརྗེ་བ་མ་བྱས་ན། ། སངས་རྒྱས་ཉིད་དུ་མི་འགྲུབ་ཅིང་། ། འཁོར་བ་ན་ཡང་བདེ་བ་མེད། །",
+  "academic_translation": "If one does not truly exchange\nOne's own happiness and the suffering of others,\nBuddhahood will not be achieved,\nAnd even in saṃsāra there is no happiness.",
+  "locked_terms": [
+   {
+    "tibetan": "བརྗེ་བ",
+    "use": "exchange"
+   },
+   {
+    "tibetan": "སངས་རྒྱས་ཉིད",
+    "use": "state of a Buddha"
+   },
+   {
+    "tibetan": "འཁོར་བ",
+    "use": "cycle of rebirth"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "བདེ་བ",
+    "use": "happiness"
+   }
+  ],
+  "translation": "If I do not truly exchange my own happiness for the suffering of others, I will never reach the state of a Buddha. Even in the cycle of rebirth, I will find no happiness."
+ },
+ {
+  "id": "8-132",
+  "tibetan": "མཐོང་དང་མ་མཐོང་བདེ་འགྲུབ་པའི། ། ཕུན་སུམ་བདེ་སྐྱིད་ཡོངས་བོར་ཞིང་། ། གཞན་ལ་སྡུག་བསྔལ་བྱས་པའི་རྒྱུས། ། རྨོངས་པས་སྡུག་བསྔལ་མི་བཟད་ལེན། །",
+  "academic_translation": "Completely abandoning the perfect joy\nThat achieves seen and unseen happiness,\nThrough the cause of inflicting suffering on others,\nOne takes on unbearable suffering through delusion.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "རྨོངས་པ",
+    "use": "confusion"
+   }
+  ],
+  "translation": "Out of confusion, I cause suffering to others. This brings me unbearable suffering, and I throw away the perfect joy that brings happiness I can see and cannot see."
+ },
+ {
+  "id": "8-139",
+  "tibetan": "དམན་སོགས་བདག་ཏུ་བྱས་པ་དང་། ། གཞན་ཉིད་དུ་ནི་བདག་བྱས་ནས། ། རྣམ་རྟོག་མེད་པའི་སེམས་ཀྱིས་སུ། ། ཕྲག་དོག་འགྲན་དང་ང་རྒྱལ་བསྒོམ། །",
+  "academic_translation": "Having made the inferior and so forth into oneself,\nAnd having made oneself into others,\nWith a mind free of conceptual thought,\nMeditate on envy, rivalry, and pride.",
+  "locked_terms": [
+   {
+    "tibetan": "ཕྲག་དོག",
+    "use": "jealousy"
+   },
+   {
+    "tibetan": "འགྲན",
+    "use": "rivalry"
+   },
+   {
+    "tibetan": "ང་རྒྱལ",
+    "use": "pride"
+   },
+   {
+    "tibetan": "རྣམ་རྟོག",
+    "use": "busy thinking"
+   }
+  ],
+  "translation": "See a lower person and others as yourself. Then see yourself as them. Clear your mind of busy thinking. Practice feeling jealousy, rivalry, and pride."
+ },
+ {
+  "id": "8-164",
+  "tibetan": "མདོར་ན་བདག་གི་དོན་གྱི་ཕྱིར། ། ཁྱོད་ཀྱིས་གཞན་ལ་གནོད་བྱས་གང་། ། གནོད་དེ་སེམས་ཅན་དོན་གྱི་ཕྱིར། ། བདག་ཉིད་ལ་ནི་འབབ་པར་གྱིས། །",
+  "academic_translation": "In short, for your own sake,\nWhatever harm you have done to others,\nFor the sake of sentient beings,\nLet that harm descend upon yourself.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   }
+  ],
+  "translation": "In short, whatever harm you have done to others for your own sake, let that same harm fall upon yourself, for the sake of all living beings."
+ },
+ {
+  "id": "8-167",
+  "tibetan": "འོན་ཏེ་དེ་ལྟར་གདམས་ཀྱང་ནི། ། སེམས་ཁྱོད་དེ་ལྟར་མི་བྱེད་ན། ། ཁྱོད་ལ་ཉེས་པ་ཀུན་བསྟེན་པས། ། ཁྱོད་ཉིད་ཚར་གཅད་བྱ་བར་ཟད། །",
+  "academic_translation": "Yet, even when instructed in that way,\nif you, my mind, do not act like that,\nsince all faults rely upon you,\nthere is nothing left but to subdue you yourself.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "Even when I tell you what to do, if you, my mind, do not act that way, I must defeat you. All faults rely on you, so I have no other choice."
+ },
+ {
+  "id": "8-168",
+  "tibetan": "ཁྱོད་ཀྱིས་ཁོ་བོ་གར་བརླག་པའི། ། སྔོན་གྱི་དུས་དེ་གཞན་ཡིན་ཏེ། ། ངས་མཐོང་ད་ཁྱོད་གང་དུ་འགྲོ། ། ཁྱོད་ཀྱི་དྲེགས་པ་ཀུན་གཞོམ་བྱ། །",
+  "academic_translation": "That former time when you ruined me\nWas another time;\nNow I see you—where will you go?\nI shall destroy all your haughtiness.",
+  "locked_terms": [
+   {
+    "tibetan": "དྲེགས་པ",
+    "use": "feeling superior"
+   }
+  ],
+  "translation": "That past time when you ruined me is over. Now I see you. Where will you go? I will destroy all of your feeling superior."
+ },
+ {
+  "id": "8-171",
+  "tibetan": "དེ་ལྟར་ཁྱོད་ཀྱིས་རེ་ལྟ་ཞིག ། ཁོ་བོ་བྱིན་པས་ཡུན་རིང་སྡུག ། ང་ནི་ཁོན་རྣམས་དྲན་བྱས་ཏེ། ། ཁྱོད་ཀྱིས་རང་དོན་སེམས་པ་གཞོམ། །",
+  "academic_translation": "In that way, you have handed me over time and again,\nAnd I have suffered for a long time;\nI, remembering those grudges,\nWill destroy your thinking of your own welfare.",
+  "locked_terms": [
+   {
+    "tibetan": "རང་དོན",
+    "use": "own good"
+   }
+  ],
+  "translation": "In that way, you have handed me over again and again. I have suffered for a long time. I remember those grudges. Now I will destroy your thoughts about your own good."
+ },
+ {
+  "id": "8-183",
+  "tibetan": "དེ་བས་བདག་གིས་ཆགས་མེད་པར། ། འགྲོ་ལ་ཕན་ཕྱིར་ལུས་གཏང་བྱ། ། དེས་ན་འདི་ལ་ཉེས་མང་ཡང་། ། ལས་ཀྱི་སྤྱད་བཞིན་གཟུང་བར་བྱ། །",
+  "academic_translation": "Therefore, without attachment, I\nShall give up the body to benefit beings.\nThus, although it has many faults,\nI shall retain it like an instrument for action.",
+  "locked_terms": [
+   {
+    "tibetan": "ལུས",
+    "use": "body"
+   }
+  ],
+  "translation": "So, without being attached, I will give up my body to help others. It has many faults. Still, I will keep it like a tool for getting things done."
+ },
+ {
+  "id": "9-4",
+  "tibetan": "རྣལ་འབྱོར་པ་ཡང་བློ་ཁྱད་ཀྱིས། ། གོང་མ་གོང་མ་རྣམས་ཀྱིས་གནོད། ། གཉི་ག་ཡང་ནི་འདོད་པའི་དཔེས། ། འབྲས་བུའི་དོན་དུ་མ་དཔྱད་ཕྱིར། །",
+  "academic_translation": "Even yogis, due to differences in intellect,\nare invalidated by those successively higher,\nthrough examples accepted by both,\nbecause, for the sake of the result, they are not analyzed.",
+  "locked_terms": [
+   {
+    "tibetan": "རྣལ་འབྱོར་པ",
+    "use": "meditation master"
+   },
+   {
+    "tibetan": "འབྲས་བུ",
+    "use": "result"
+   },
+   {
+    "tibetan": "བློ",
+    "use": "thinking mind"
+   }
+  ],
+  "translation": "Meditation masters are not all equal in their thinking minds. A higher master proves a lower one wrong. They use examples they both agree on. They do not question these examples because they just want a result."
+ },
+ {
+  "id": "9-14",
+  "tibetan": "སངས་རྒྱས་ཀྱང་ནི་འཁོར་འགྱུར་བས། ། བྱང་ཆུབ་སྤྱོད་པས་ཅི་ཞིག་བྱ། ། རྐྱེན་རྣམས་རྒྱུན་ནི་མ་ཆད་ན། ། སྒྱུ་མའང་ལྡོག་པར་མི་འགྱུར་གྱི། །",
+  "academic_translation": "\"Since even a Buddha would cycle [in saṃsāra],\nWhat is the use of the conduct of awakening?\"\nIf the continuum of conditions is not severed,\nEven an illusion does not cease;",
+  "locked_terms": [
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སྤྱོད་པ",
+    "use": "way of acting for awakening"
+   },
+   {
+    "tibetan": "རྐྱེན",
+    "use": "circumstance"
+   },
+   {
+    "tibetan": "རྒྱུན",
+    "use": "unbroken flow"
+   },
+   {
+    "tibetan": "སྒྱུ་མ",
+    "use": "illusion"
+   }
+  ],
+  "translation": "Someone might say, \"Since even a Buddha would keep going around in the cycle of rebirth, what is the use of the way of acting for awakening?\" I reply: As long as the unbroken flow of circumstances is not cut, even an illusion will not stop."
+ },
+ {
+  "id": "9-24",
+  "tibetan": "རྐྱེན་གཞན་དག་དང་ལྡན་པ་ནི། ། མཐོང་ཕྱིར་རང་ཉིད་རབ་གསལ་ན། ། གྲུབ་པའི་མིག་སྨན་སྦྱོར་བ་ལས། ། བུམ་མཐོང་མིག་སྨན་ཉིད་འགྱུར་མིན། །",
+  "academic_translation": "\"If, because one endowed with other conditions sees,\nit is luminous to itself,\"\nthrough the application of accomplished eye ointment,\nthe vase is seen, but not the eye ointment itself.",
+  "locked_terms": [
+   {
+    "tibetan": "རྐྱེན",
+    "use": "circumstance"
+   },
+   {
+    "tibetan": "མིག་སྨན",
+    "use": "eye ointment"
+   }
+  ],
+  "translation": "Someone might say, \"Because the mind uses other circumstances to see, it shines to itself.\" Using magic eye ointment lets you see a vase. But it does not let you see the eye ointment itself."
+ },
+ {
+  "id": "9-28",
+  "tibetan": "དངོས་མེད་དངོས་ལ་བརྟེན་པས་ན། ། བྱེད་དང་ལྡན་པར་ཇི་ལྟར་འགྱུར། ། ཁྱོད་ཀྱི་སེམས་ནི་གྲོགས་མེད་པར། ། གཅིག་པུ་ཉིད་དུ་འགྱུར་བ་ཡིན། །",
+  "academic_translation": "Since a non-entity depends on an entity,\nHow could it be endowed with a function?\nYour mind, without a companion,\nWould become entirely solitary.",
+  "locked_terms": [
+   {
+    "tibetan": "དངོས་མེད",
+    "use": "non-existent thing"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   },
+   {
+    "tibetan": "དངོས",
+    "use": "thing"
+   }
+  ],
+  "translation": "If a non-existent thing depends on a thing, how could it do anything? Your mind would have no companion. It would be completely alone."
+ },
+ {
+  "id": "9-33",
+  "tibetan": "གང་ཚེ་གང་ཞིག་མེད་དོ་ཞེས། ། བརྟག་བྱའི་དངོས་པོ་མི་དམིགས་པ། ། དེ་ཚེ་དངོས་མེད་རྟེན་བྲལ་བ། ། བློ་ཡི་མདུན་ན་ཇི་ལྟར་གནས། །",
+  "academic_translation": "When one asserts, \"Such and such does not exist,\"\nAnd the entity to be analyzed is not apprehended,\nAt that time, how can a non-entity lacking a basis\nRemain before the intellect?",
+  "locked_terms": [
+   {
+    "tibetan": "དངོས་མེད",
+    "use": "non-existent thing"
+   },
+   {
+    "tibetan": "བློ",
+    "use": "thinking mind"
+   },
+   {
+    "tibetan": "དངོས་པོ",
+    "use": "thing"
+   }
+  ],
+  "translation": "When you say, \"This does not exist,\" and you look closely at the thing but cannot find it, what happens? How can a non-existent thing without a base stay in front of the thinking mind?"
+ },
+ {
+  "id": "9-37",
+  "tibetan": "བྱང་ཆུབ་སྤྱོད་པའི་རྗེས་མཐུན་པར། ། རྒྱལ་བའི་མཆོད་སྡོང་བསྒྲུབས་པ་ཡང་། ། བྱང་ཆུབ་སེམས་དཔའ་མྱ་ངན་ལས། ། འདས་ཀྱང་དོན་རྣམས་ཐམས་ཅད་མཛད། །",
+  "academic_translation": "Likewise, in accordance with the conduct of awakening,\nThe shrine of the Victor, too, has been accomplished;\nEven when the bodhisattva has passed\nInto nirvāṇa, it accomplishes all aims.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སྤྱོད་པ",
+    "use": "way of acting for awakening"
+   },
+   {
+    "tibetan": "རྒྱལ་བ",
+    "use": "Victorious One"
+   },
+   {
+    "tibetan": "མཆོད་སྡོང",
+    "use": "shrine"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   }
+  ],
+  "translation": "In the same way, following the way of acting for awakening, the shrine of the Victorious One has been built. Even after the awakening hero passes into freedom from sorrow, it still achieves every goal."
+ },
+ {
+  "id": "9-41",
+  "tibetan": "གལ་ཏེ་ཐེག་ཆེན་མ་གྲུབ་ན། ། ཁྱོད་ཀྱི་ལུང་ནི་ཇི་ལྟར་གྲུབ། ། གང་ཕྱིར་གཉིས་ཀ་ལ་འདི་གྲུབ། ། དང་པོ་ཁྱོད་ལ་འདི་མ་གྲུབ། །",
+  "academic_translation": "\"If the Mahāyāna is not established,\nHow is your scripture established?\"\n\"Because this is established for both of us.\"\nInitially, this was not established for you.",
+  "locked_terms": [
+   {
+    "tibetan": "ཐེག་ཆེན",
+    "use": "Great Vehicle"
+   },
+   {
+    "tibetan": "ལུང",
+    "use": "sacred text"
+   }
+  ],
+  "translation": "Someone might ask, \"If the Great Vehicle is not proven, how is your sacred text proven?\" The answer is, \"Because it is proven for both of us.\" But at first, it was not proven for you."
+ },
+ {
+  "id": "9-43",
+  "tibetan": "ཐེག་ཆེན་རྩོད་བཅས་ཕྱིར་ཞེ་ན། ། ལུང་ལ་མུ་སྟེགས་པ་རྣམས་དང་། ། ལུང་གཞན་ལ་ཡང་རང་གཞན་དག ། རྩོད་བཅས་ཡིན་ཕྱིར་དོར་བྱར་འགྱུར། །",
+  "academic_translation": "\"If you say it is because the Mahāyāna is subject to dispute,\"\nRegarding scripture, there is dispute with non-Buddhists,\nAnd regarding other scriptures, with your own and other schools;\nSince they are subject to dispute, they would be discarded.",
+  "locked_terms": [
+   {
+    "tibetan": "ཐེག་ཆེན",
+    "use": "Great Vehicle"
+   },
+   {
+    "tibetan": "ལུང",
+    "use": "sacred text"
+   },
+   {
+    "tibetan": "མུ་སྟེགས་པ",
+    "use": "non-Buddhist"
+   }
+  ],
+  "translation": "Someone might say, \"We reject the Great Vehicle because people argue about it.\" But you argue with a non-Buddhist about your sacred text. You also argue about other sacred texts, both with your own groups and with other groups. Since people argue about them, you would have to throw them all away."
+ },
+ {
+  "id": "9-44",
+  "tibetan": "བསྟན་རྩ་དགེ་སློང་ཉིད་ཡིན་ན། ། དགེ་སློང་ཉིད་ཀྱང་དཀའ་བར་གནས། ། སེམས་ནི་དམིགས་དང་བཅས་རྣམས་ཀྱི། ། མྱ་ངན་འདས་པའང་དཀའ་བར་གནས། །",
+  "academic_translation": "If being a monk is the root of the teaching,\nEven being a monk is difficult to establish.\nFor those whose minds have apprehension,\nEven nirvāṇa is difficult to establish.",
+  "locked_terms": [
+   {
+    "tibetan": "དགེ་སློང",
+    "use": "monk"
+   },
+   {
+    "tibetan": "དམིགས་དང་བཅས",
+    "use": "holding on to things"
+   },
+   {
+    "tibetan": "མྱ་ངན་འདས་པ",
+    "use": "freedom from sorrow"
+   }
+  ],
+  "translation": "If being a monk is the root of the teaching, even being a monk is hard to prove. For people whose minds are holding on to things, even freedom from sorrow is hard to prove."
+ },
+ {
+  "id": "9-46",
+  "tibetan": "རེ་ཞིག་ཉེར་ལེན་སྲེད་པ་ནི། ། མེད་ཅེས་ངེས་པ་ཉིད་ཅེ་ན། ། སྲེད་དེ་ཉོན་མོངས་ཅན་མིན་ཡང་། ། ཀུན་རྨོངས་བཞིན་དུ་ཅི་སྟེ་མེད། །",
+  "academic_translation": "If you say it is certain that, for the time being,\nThe craving that is the cause of grasping does not exist,\nEven if that craving is not afflicted,\nWhy would it not exist, just like delusion?",
+  "locked_terms": [
+   {
+    "tibetan": "ཉེར་ལེན",
+    "use": "holding on"
+   },
+   {
+    "tibetan": "སྲེད་པ",
+    "use": "wanting"
+   },
+   {
+    "tibetan": "ཉོན་མོངས་ཅན",
+    "use": "troubled by troubling emotion"
+   },
+   {
+    "tibetan": "ཀུན་རྨོངས",
+    "use": "confusion"
+   }
+  ],
+  "translation": "Someone might say it is certain that, for now, the wanting that causes holding on does not exist. Even if that wanting is not troubled by troubling emotion, why would it not exist, just as confusion still exists?"
+ },
+ {
+  "id": "9-48",
+  "tibetan": "སྟོང་ཉིད་དང་ནི་བྲལ་བའི་སེམས། ། འགགས་པ་སླར་ཡང་སྐྱེ་འགྱུར་ཏེ། ། འདུ་ཤེས་མེད་པའི་སྙོམས་འཇུག་བཞིན། ། དེས་ན་སྟོང་ཉིད་བསྒོམ་པར་བྱ། །",
+  "academic_translation": "A mind that is devoid of emptiness,\nThough ceased, will arise again,\nLike the meditative absorption of non-perception;\nTherefore, one should meditate on emptiness.",
+  "locked_terms": [
+   {
+    "tibetan": "སྟོང་ཉིད",
+    "use": "emptiness"
+   },
+   {
+    "tibetan": "འདུ་ཤེས་མེད་པའི་སྙོམས་འཇུག",
+    "use": "deep meditation with no perceiving"
+   }
+  ],
+  "translation": "A mind that has not understood emptiness will start up again even after it stops. It is like a deep meditation with no perceiving. Because of this, you should meditate on emptiness."
+ },
+ {
+  "id": "9-50",
+  "tibetan": "གལ་ཏེ་མ་གཏོགས་གཅིག་གིས་ནི། ། ཐམས་ཅད་སྐྱོན་དང་བཅས་འགྱུར་ན། ། མདོ་མཚུངས་གཅིག་གིས་ཐམས་ཅད་ནི། ། རྒྱལ་བས་གསུངས་པ་ཅིས་མ་ཡིན། །",
+  "academic_translation": "If, due to a single unincluded one,\nAll become faulty,\nThen due to a single one similar to a sūtra,\nWhy are they not all spoken by the Victor?",
+  "locked_terms": [
+   {
+    "tibetan": "རྒྱལ་བ",
+    "use": "Victorious One"
+   },
+   {
+    "tibetan": "མདོ",
+    "use": "teaching text"
+   }
+  ],
+  "translation": "You say that leaving out one text makes them all faulty. But if just one is like a teaching text, why are they not all spoken by the Victorious One?"
+ },
+ {
+  "id": "9-52",
+  "tibetan": "རྨོངས་པས་སྡུག་བསྔལ་ཅན་དོན་དུ། ། ཆགས་དང་འཇིགས་མཐའ་ལས་གྲོལ་བ། ། འཁོར་བར་གནས་པ་གྲུབ་འགྱུར་བ། ། འདི་ནི་སྟོང་ཉིད་འབྲས་བུ་ཡིན། །",
+  "academic_translation": "For the sake of those suffering through delusion,\nBeing freed from the extremes of attachment and fear,\nRemaining in saṃsāra is accomplished—\nThis is the result of emptiness.",
+  "locked_terms": [
+   {
+    "tibetan": "འཁོར་བ",
+    "use": "cycle of rebirth"
+   },
+   {
+    "tibetan": "རྨོངས་པ",
+    "use": "confusion"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "ཆགས",
+    "use": "clinging"
+   },
+   {
+    "tibetan": "སྟོང་ཉིད",
+    "use": "emptiness"
+   },
+   {
+    "tibetan": "འབྲས་བུ",
+    "use": "result"
+   }
+  ],
+  "translation": "For the sake of those who experience suffering from confusion, a person who is free from the extremes of clinging and fear can stay in the cycle of rebirth. This is the result of emptiness."
+ }
+]

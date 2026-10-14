@@ -1,0 +1,317 @@
+{
+ "en": {
+  "stats": {
+   "governed": {
+    "claude": {
+     "segments": 40,
+     "mean_penalty": 0.05,
+     "blocking_per_100": 0.0,
+     "critical": 0,
+     "major": 0,
+     "minor": 2,
+     "accuracy_errors": 1,
+     "error_free_pct": 95.0
+    },
+    "gemini": {
+     "segments": 40,
+     "mean_penalty": 0.33,
+     "blocking_per_100": 2.5,
+     "critical": 0,
+     "major": 1,
+     "minor": 8,
+     "accuracy_errors": 5,
+     "error_free_pct": 77.5
+    }
+   },
+   "zeroshot-dharmamitra": {
+    "claude": {
+     "segments": 40,
+     "mean_penalty": 0.3,
+     "blocking_per_100": 2.5,
+     "critical": 0,
+     "major": 1,
+     "minor": 7,
+     "accuracy_errors": 7,
+     "error_free_pct": 82.5
+    },
+    "gemini": {
+     "segments": 40,
+     "mean_penalty": 0.57,
+     "blocking_per_100": 7.5,
+     "critical": 0,
+     "major": 3,
+     "minor": 8,
+     "accuracy_errors": 10,
+     "error_free_pct": 72.5
+    }
+   },
+   "zeroshot-gemini": {
+    "claude": {
+     "segments": 40,
+     "mean_penalty": 0.1,
+     "blocking_per_100": 0.0,
+     "critical": 0,
+     "major": 0,
+     "minor": 4,
+     "accuracy_errors": 0,
+     "error_free_pct": 90.0
+    },
+    "gemini": {
+     "segments": 40,
+     "mean_penalty": 0.38,
+     "blocking_per_100": 2.5,
+     "critical": 0,
+     "major": 1,
+     "minor": 10,
+     "accuracy_errors": 2,
+     "error_free_pct": 72.5
+    }
+   },
+   "human-padmakara": {
+    "claude": {
+     "segments": 40,
+     "mean_penalty": 0.95,
+     "blocking_per_100": 7.5,
+     "critical": 0,
+     "major": 3,
+     "minor": 23,
+     "accuracy_errors": 23,
+     "error_free_pct": 42.5
+    },
+    "gemini": {
+     "segments": 40,
+     "mean_penalty": 2.02,
+     "blocking_per_100": 27.5,
+     "critical": 0,
+     "major": 11,
+     "minor": 26,
+     "accuracy_errors": 32,
+     "error_free_pct": 27.5
+    }
+   }
+  },
+  "head_to_head": {
+   "zeroshot-dharmamitra": {
+    "claude": {
+     "segments": 40,
+     "governed_better": 7,
+     "equal": 31,
+     "governed_worse": 2
+    },
+    "gemini": {
+     "segments": 40,
+     "governed_better": 7,
+     "equal": 28,
+     "governed_worse": 5
+    }
+   },
+   "zeroshot-gemini": {
+    "claude": {
+     "segments": 40,
+     "governed_better": 3,
+     "equal": 36,
+     "governed_worse": 1
+    },
+    "gemini": {
+     "segments": 40,
+     "governed_better": 8,
+     "equal": 26,
+     "governed_worse": 6
+    }
+   },
+   "human-padmakara": {
+    "claude": {
+     "segments": 40,
+     "governed_better": 23,
+     "equal": 16,
+     "governed_worse": 1
+    },
+    "gemini": {
+     "segments": 40,
+     "governed_better": 24,
+     "equal": 13,
+     "governed_worse": 3
+    }
+   }
+  },
+  "annotator_pair_agreement": {
+   "agree": 76,
+   "of": 141,
+   "pct": 53.9
+  }
+ },
+ "zh": {
+  "stats": {
+   "zeroshot-gemini": {
+    "claude": {
+     "segments": 40,
+     "mean_penalty": 0.38,
+     "blocking_per_100": 2.5,
+     "critical": 0,
+     "major": 1,
+     "minor": 10,
+     "accuracy_errors": 5,
+     "error_free_pct": 75.0
+    },
+    "gemini": {
+     "segments": 40,
+     "mean_penalty": 0.45,
+     "blocking_per_100": 7.5,
+     "critical": 0,
+     "major": 3,
+     "minor": 3,
+     "accuracy_errors": 3,
+     "error_free_pct": 85.0
+    }
+   },
+   "governed": {
+    "claude": {
+     "segments": 40,
+     "mean_penalty": 0.05,
+     "blocking_per_100": 0.0,
+     "critical": 0,
+     "major": 0,
+     "minor": 2,
+     "accuracy_errors": 1,
+     "error_free_pct": 95.0
+    },
+    "gemini": {
+     "segments": 40,
+     "mean_penalty": 0.05,
+     "blocking_per_100": 0.0,
+     "critical": 0,
+     "major": 0,
+     "minor": 2,
+     "accuracy_errors": 1,
+     "error_free_pct": 95.0
+    }
+   },
+   "human-rushi": {
+    "claude": {
+     "segments": 40,
+     "mean_penalty": 1.38,
+     "blocking_per_100": 12.5,
+     "critical": 0,
+     "major": 5,
+     "minor": 30,
+     "accuracy_errors": 24,
+     "error_free_pct": 37.5
+    },
+    "gemini": {
+     "segments": 40,
+     "mean_penalty": 1.62,
+     "blocking_per_100": 25.0,
+     "critical": 0,
+     "major": 10,
+     "minor": 15,
+     "accuracy_errors": 21,
+     "error_free_pct": 47.5
+    }
+   }
+  },
+  "head_to_head": {
+   "zeroshot-gemini": {
+    "claude": {
+     "segments": 40,
+     "governed_better": 10,
+     "equal": 28,
+     "governed_worse": 2
+    },
+    "gemini": {
+     "segments": 40,
+     "governed_better": 6,
+     "equal": 33,
+     "governed_worse": 1
+    }
+   },
+   "human-rushi": {
+    "claude": {
+     "segments": 40,
+     "governed_better": 25,
+     "equal": 14,
+     "governed_worse": 1
+    },
+    "gemini": {
+     "segments": 40,
+     "governed_better": 21,
+     "equal": 17,
+     "governed_worse": 2
+    }
+   }
+  },
+  "annotator_pair_agreement": {
+   "agree": 34,
+   "of": 75,
+   "pct": 45.3
+  }
+ },
+ "hi": {
+  "stats": {
+   "zeroshot-gemini": {
+    "claude": {
+     "segments": 40,
+     "mean_penalty": 0.23,
+     "blocking_per_100": 0.0,
+     "critical": 0,
+     "major": 0,
+     "minor": 9,
+     "accuracy_errors": 6,
+     "error_free_pct": 82.5
+    },
+    "gemini": {
+     "segments": 40,
+     "mean_penalty": 0.2,
+     "blocking_per_100": 0.0,
+     "critical": 0,
+     "major": 0,
+     "minor": 8,
+     "accuracy_errors": 5,
+     "error_free_pct": 87.5
+    }
+   },
+   "governed": {
+    "claude": {
+     "segments": 40,
+     "mean_penalty": 0.17,
+     "blocking_per_100": 2.5,
+     "critical": 0,
+     "major": 1,
+     "minor": 2,
+     "accuracy_errors": 0,
+     "error_free_pct": 92.5
+    },
+    "gemini": {
+     "segments": 40,
+     "mean_penalty": 0.17,
+     "blocking_per_100": 0.0,
+     "critical": 0,
+     "major": 0,
+     "minor": 7,
+     "accuracy_errors": 2,
+     "error_free_pct": 85.0
+    }
+   }
+  },
+  "head_to_head": {
+   "zeroshot-gemini": {
+    "claude": {
+     "segments": 40,
+     "governed_better": 7,
+     "equal": 30,
+     "governed_worse": 3
+    },
+    "gemini": {
+     "segments": 40,
+     "governed_better": 4,
+     "equal": 32,
+     "governed_worse": 4
+    }
+   }
+  },
+  "annotator_pair_agreement": {
+   "agree": 2,
+   "of": 15,
+   "pct": 13.3
+  }
+ }
+}

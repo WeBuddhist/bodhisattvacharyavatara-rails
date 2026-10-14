@@ -1,0 +1,3062 @@
+[
+ {
+  "track": "en-academic",
+  "id": "2-15",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly uses 'flowers' instead of 'things', which more precisely reflects the context of 'fragrant' (Sanskrit 'kusumaiḥ') implied by the Tibetan.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "2-30",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "B accurately translates 'gzhag dag' as 'and others', matching the Sanskrit ('anyeṣu') and the Tibetan commentaries, whereas A says 'other teachers'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "2-32",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A's 'may meet my death beforehand' perfectly captures the apprehensive nuance of 'འགྱུར་དུ་མཆི', which B's colloquial 'will die before that happens' misses.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "2-33",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A accurately links 'suddenly' (glo bur) to the end of life as explained in the commentaries, rather than vaguely calling life 'fleeting' as in B.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "2-43",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B translates the conditional particle 'na' as 'if', which correctly preserves the grammatical link to the rhetorical question in the following stanza.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "2-44",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B translates 'mahātrāsa' more faithfully as 'great terror', phrasing it as 'disease of great terror' rather than A's 'great disease of terror'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "2-54",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A flows much more naturally by rendering 'the disease of a hundred faults' as a continuous phrase across the line break without clunky pronouns.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "3-1",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly links the genitive 'of all sentient beings' directly to 'virtue', matching the grammatical structure of the Tibetan and Sanskrit source.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "3-4",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "Commentaries treat suffering and darkness of ignorance as two distinct afflictions. B incorrectly merges them into \"darkness of suffering\".",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-1",
+  "pass": 1,
+  "result": "tie",
+  "after_was": "B",
+  "reason": "Both \"wavering\" and \"lapse\" perfectly capture the meaning of \"g.yel ba med par\" in this context.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-8",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B translates \"don la dman\" accurately as the bodhisattva falling short in accomplishing the welfare, rather than the welfare itself diminishing (A).",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-9",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly identifies the referent of \"'di'i\" (of this [bodhisattva]) following the commentaries, and maintains the active sense of \"dman gyur\".",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-10",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "B correctly treats \"limitless as the entirety of space\" as modifying \"embodied beings\" (lus can). A separates them with clumsy syntax.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-19",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A translates \"bye ba\" correctly as \"ten-million\", whereas B says \"million\", making the math in B factually incorrect.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-21",
+  "pass": 1,
+  "result": "tie",
+  "after_was": "A",
+  "reason": "Both translations are accurate. A provides a slightly more literal general translation, while B fits the surrounding first-person context well.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-28",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B avoids the ambiguity of A's \"enemies of hatred\", which could be misread as opponents to hatred rather than the afflictions themselves.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "1-5",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A correctly translates \"sprin rum\" as \"womb of clouds\" and \"thang 'ga'\" as \"for a moment\" (Sanskrit kṣaṇam).",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "1-11",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A's \"realms\" better captures \"gnas\" (abode/place) than B's \"states\".",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "1-23",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A preserves the parallel \"Whether ... whether\" structure of the Tibetan (\"yang rung\" ... \"kyang rung\").",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "1-29",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly uses the relative pronoun \"That which\" to translate \"gang zhig\" (yaḥ), referring back to the agent.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "1-33",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly identifies \"sbyin pa\" as the agent (\"one who gives\"), following the Sanskrit active participle and the commentaries.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "2-6",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly translates \"skyes\" (Sanskrit puruṣa) as \"persons\" rather than \"beings\".",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "2-11",
+  "pass": 1,
+  "result": "tie",
+  "after_was": "A",
+  "reason": "Both translations struggle slightly with the syntax of \"yid 'ong\" (pleasing); neither is definitively better than the other.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "2-12",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly treats \"rab (tu)\" as an adverb (\"thoroughly\") modifying \"perfumed,\" rather than an adjective (\"supreme\") modifying \"fragrance.\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-36",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly translates \"gnod byed\" as \"wrongdoer\" (agent), matching the Sanskrit \"apakāriṇi\", whereas B translates it incorrectly as \"harm\".",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-37",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B accurately interprets \"nyon mongs\" contextually as \"wretched enemies\" for the analogy, whereas A's \"afflictions\" makes the analogy about worldly warriors nonsensical.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-39",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly links \"don med\" (meaningless/no purpose) to the action of inflicting wounds, while A incorrectly applies it as an adjective to \"enemies\".",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-41",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly modifies \"wandering beings\" with \"reaching to the ends of space\", whereas A leaves \"Reaching...\" as a confusing dangling modifier.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-43",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A includes \"from what is to be abandoned\", following all the commentaries to correctly specify what the afflictions are excepted from.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-44",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A translates \"bla'i\" more faithfully as \"it is better,\" properly conveying the Tibetan comparative term.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-46",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B captures the future/prescriptive mood of the Tibetan \"spang\" (and Sanskrit gerundive) with \"are to be abandoned,\" whereas A uses a simple present passive.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-4",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly uses the locked term \"hell guardians\" for \"sems can dmyal ba'i srung ma\". B redundantly double-translates the phrase.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-46",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly uses the locked glossary term exactly as provided (singular \"Sugata\"), matching the reference.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-52",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly links \"If a mind arises\" to all three conditions, whereas A leaves the first two as dangling participial clauses.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-56",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly translates \"'di dag gi\" (of theirs / in them), which B improperly omits.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-59",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B clarifies the grammar by inserting \"the body\"; in A, the dangling modifier makes it sound as if the mind is being dragged.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-76",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B translates \"lkog na\" (behind one's back / parokṣaṃ) accurately in this context as \"in their absence,\" avoiding A's implication of secrecy (\"in private\").",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-78",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B translates \"'dir\" (here) contextually as \"in this life\" (pairing naturally with \"in the next life\"), avoiding A's redundant \"In this... here.\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-81",
+  "pass": 1,
+  "result": "tie",
+  "after_was": "A",
+  "reason": "Both translations accurately convey the sense of intense, continuous adherence or dedication for \"mngon zhen,\" with only minor stylistic differences.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-85",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A's \"wretched states\" is a much more precise and standard rendering for \"log par ltung ba\" (vinipāta; miserable migrations) than the abstract \"ruin.\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-87",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A correctly translates \"ci nas\" as \"by all means,\" which accurately reflects the emphatic nature of the Tibetan.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-89",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A is better English, supplying \"capacity\" for \"dman\" (lesser/inferior), which accords well with the commentaries (\"blo dman pa\").",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-90",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A provides a slightly more natural phrasing in English with \"deceived\" for \"'drid,\" matching the sense of being led astray.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-95",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "\"Hands\" makes more logical sense than \"arms\" when followed immediately by \"moving them slightly\" and \"snapping the fingers.\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-96",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B accurately captures the syntactic structure of the Tibetan, indicating that one should direct the mind \"to the thought\" of rising quickly.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-97",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "B unnecessarily adds \"for awakening\" to \"bodhisattva,\" making it redundant. A also conveys the timeframe meaning derived from the commentaries.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-98",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "A incorrectly generates the redundant phrase \"bodhicitta of awakening.\" B is accurate and reads naturally.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-102",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly understands that the spiritual friend \"keeps\" the discipline, whereas B links it to what they are \"learned in\" and adds a redundancy.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-6",
+  "pass": 1,
+  "result": "tie",
+  "after_was": "B",
+  "reason": "Both accurately convey the meaning of the Tibetan quote marker, with minor stylistic differences that do not affect fidelity or precision.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-7",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A faithfully translates the provided Tibetan text \"me tshogs\" as \"masses of fire,\" whereas B translates a variant reading not present in the source.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-8",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly follows the Sanskrit and commentaries to convey that these fears \"arise from\" the mind, making it comprehensible, unlike B's overly literal rendering.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-15",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly translates \"bcas pa\" as \"accompanied by,\" capturing the meaning that even when accompanied by physical actions, weak mental conduct yields lesser results.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-32",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A more accurately reflects the single verb \"mnos\" (or \"gnos\") as \"bear it in mind,\" whereas B awkwardly conflates it with the Sanskrit \"remain.\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-34",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A's \"log of wood\" better conveys the intended metaphor of being heavy and immovable, which aligns well with the commentary's comparison to a great tree.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-39",
+  "pass": 1,
+  "result": "tie",
+  "after_was": "B",
+  "reason": "Both accurately convey the preparation or initiation of an action (\"bya ba bsdogs\") with natural English phrasing.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-40",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B translates the correlation of \"ji ltar\" and \"de ltar\" much more naturally and correctly includes \"thus,\" which A omits.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-78",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A translates the initial \"གཞན་ཡང་\" (gzhan yang, moreover), which B entirely omits.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-82",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A better captures the phrasing of \"སླར་ཁྲོའམ\" (slar khro'am) with \"do you become angry in return\", matching the text's precise rhetorical question.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-85",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A translates the text more accurately without adding the explicitation \"at yourself,\" and closely follows \"རྙེད་པ་གྱུར་པ\" (gains that occur).",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-89",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A's \"barb\" accurately translates \"གཟེ\" (gze, sharp/prickly), whereas B's \"terrible\" is a generalization.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-94",
+  "pass": 1,
+  "result": "tie",
+  "after_was": "B",
+  "reason": "Both versions accurately and naturally convey the meaning of the Tibetan and appropriately handle \"གྲགས་པ\" (grags pa).",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-109",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A accurately preserves \"ཀྱང\" (kyang, even) in the fourth line, which B drops.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-114",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A translates the text more literally without unnecessarily inserting \"Just like the Buddhas,\" which is absent in the source.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-116",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "B is more faithful to the source by simply translating \"དེ་དག\" (de dag) as \"they\" rather than explicating it as \"sentient beings and the Buddhas.\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-a",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "Translation A unjustifiably adds the phrase \"for a bodhisattva's awakening,\" which has no corresponding equivalent in the Tibetan source sentence.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-2",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "Translation A's \"regarding patience\" functions better syntactically before the line break than B's \"upon patience,\" which is awkwardly separated from its verb.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-6",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "Translation B correctly identifies anger itself as the enemy. A's \"enemy of anger\" is confusing and sounds like the antidote to anger.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-11",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "Translation A's \"Because\" implies a false causality—that we shun suffering because an enemy gets the opposite. B's punctuation correctly reflects the parallel logic.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-13",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "Translation A correctly captures the Tibetan \"sdar\" (Sanskrit: kātara), meaning \"cowardly,\" which Translation B completely drops.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-21",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "Translation B uses \"disillusionment,\" which precisely conveys the spiritual weariness (saṃvega) of \"skyoba\" that cuts arrogance, rather than A's generic \"sorrow.\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-24",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "Translation B's \"at the slightest condition\" accurately reflects the Tibetan commentarial understanding of \"gyi nar\" as a trivial cause, whereas A's \"spontaneously\" is less precise.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-30",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "Translation A expertly renders the quotative \"zhes\" as \"By which one could say,\" forming a smoother and logically clearer English construction than B.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-35",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "Translation A's \"become obsessed\" better reflects the Tibetan \"rngam zhing\" (craving/obsessing) in the context of desiring to obtain something, compared to B's \"grow vehement\".",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-38",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "Translation A correctly reflects the grammar of \"zhugs pa la\" (locative/dative) as \"For those who... engage,\" whereas B rephrases it as a \"When...\" clause.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-41",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "Translation A accurately captures the precise meaning of \"nyis na\" as \"in the second place,\" aligning perfectly with the Tibetan commentaries' twofold distinction.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-43",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "Translation A expertly adapts the single verb \"phyung\" to fit both objects contextually (\"drawn\" for the weapon and \"taken up\" for the body).",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-45",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "Translation B is better because \"resent\" is a more precise and accurate rendering of \"bkon\" than A's \"blame\".",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-47",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "Translation B correctly uses the locked glossary term \"hell of sentient beings\" for \"sems can dmyal\", whereas Translation A misses it.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-66",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "Translation B correctly accounts for the conditional particle \"na\" by starting the sentence with \"If,\" which Translation A misses.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-71",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "Translation A better reflects the analogy of fire spreading into the fuel (the object of attachment) without unnecessarily adding \"Causing\" as in B.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-4",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "B translates \"རྒྱ་པས་བཤོར་\" more accurately as \"snared by the fowler,\" matching the net metaphor better than A's \"driven down by the hunter.\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-5",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B accurately captures the simile outlined in the commentaries, clarifying the relationship between the outcaste and the buffalo rather than conflating them.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-12",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A effectively maintains the second-person direct address implied by the context and Sanskrit vocative, whereas B's phrasing is overly impersonal.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-22",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A's syntax flows more naturally in English, smoothly connecting the action and its purpose without the slightly awkward inversion found in B.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-29",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly identifies the referent of \"this\" as the bodhisattva, aligning with the commentaries and avoiding the confusion of A.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-31",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A avoids the grammatical ambiguity in B, where \"its benefits\" could mistakenly be read as referring back to \"suffering.\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-37",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "B's plural \"great festivals\" is more natural for a general class of offerings to the Sangha than A's specific \"the great festival.\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-48",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B has correct capitalization and clarifies the referent in the final line as \"that other deed,\" matching the commentary's explanation perfectly.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-53",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly specifies \"great downfalls\" according to the commentaries, whereas B's \"the great\" misleadingly suggests great people in English.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-62",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly includes \"by this one\" (the bodhisattva), translating the Tibetan instrumental \"འདི་ཡིས་\" which B omits entirely.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-64",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A accurately links \"like honey smeared on a razor's edge\" to \"sensual desires\", correctly rendering the genitive syntax that B misplaces.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-73",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A's \"association\" better reflects the ongoing relationship implied by the Sanskrit \"saṃsarga\" and Tibetan \"ཕྲད་པ\" than B's brief \"encounters\".",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-9",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A faithfully translates the text as it is, while B inserts \"unlike that of the noble ones\" from the commentary into the root text.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-30",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A's syntax correctly places the body's stench as a future consequence, whereas B's relative clause implies the living body already reeks.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-35",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A uses the passive \"Being reckoned\", which matches the commentaries' explanation that relatives consider the person dead, whereas B uses active.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-38",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly interprets \"bdag la\" in context as referring to \"my own mind\" (Sanskrit svacitta), whereas A's \"myself\" suggests self-absorption.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-44",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "B is slightly closer to the root text's phrasing ('nyon mongs pa'i gdong') by translating it directly as 'face of your affliction' without adding 'which became'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-51",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B's rearrangement of the lines creates a much clearer English sentence, using the em-dash to explicitly connect 'another' with 'A cage of bones'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-67",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly includes 'with filth', translating 'drir bcas', which B drops entirely.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-68",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A's 'polish' is a much more precise and fitting translation of 'byi dor byed' in the context of caring for a weapon than B's 'tend to'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-79",
+  "pass": 1,
+  "result": "tie",
+  "after_was": "A",
+  "reason": "Both capture the meaning well; A's 'enjoyment' leans closer to the Sanskrit while B's 'benefit' strictly tracks the literal Tibetan 'mnog'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-80",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "B's 'benefit' strictly tracks the literal meaning of the Tibetan word 'mnog' (profit/benefit/advantage), making it slightly more faithful to the Tibetan.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-84",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B reorders the last two lines to place the modifier 'empty of disputes and afflictions' immediately after 'forests', which flows better in English.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-85",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly recognizes the genitive particle in 'bsil ba'i' (cooled), applying it to the dwellings, whereas B incorrectly applies it to the 'fortunate ones'.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-87",
+  "pass": 1,
+  "result": "tie",
+  "after_was": "A",
+  "reason": "Both translations accurately reflect the Tibetan and correctly apply the locked terms; \"happiness\" and \"joy\" are equally acceptable for bde.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-109",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A's \"unpleasant word\" captures the specific meaning of \"mi snyan\" (Sanskrit avarṇa), as confirmed by the commentary mentioning \"unpleasant words\" (tshig).",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-112",
+  "pass": 1,
+  "result": "tie",
+  "after_was": "B",
+  "reason": "Both versions are faithful and clear. B flows slightly better in English, but A's \"ocean\" is closer to the unmarked Tibetan noun.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-114",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "B preserves the poetic stanza formatting with line breaks, whereas A incorrectly strings the translation into a single unformatted line.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-117",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A includes \"even\" before wandering beings' fear, reflecting the inclusive particle 'ang (Sanskrit api) found in the commentaries and Sanskrit text.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-120",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A's \"Toward that body\" precisely translates the syntactic function of the Tibetan locative/dative particle \"la\" ending the third line.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-122",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly captures the conditional/topic marker \"na\" at the end of the stanza by framing the sentence with \"If one...\".",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-124",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B translates \"chos\" as \"way,\" which fits the context perfectly and creates elegant parallelism with \"way of a demon\" (tshul) in the second line.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-141",
+  "pass": 1,
+  "result": "tie",
+  "after_was": "B",
+  "reason": "Both versions accurately render the Tibetan. A's 'do all the work' and B's 'perform the labors' are both perfectly acceptable translations for 'las rnams byed pa'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-145",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A's 'Outwardly' is a more accurate translation of 'phyir la' in this context (as supported by Tibetan commentaries) compared to B's 'Moreover'.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-146",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly uses the active voice 'I shall certainly secure', which aligns better with the volitional future form of the Tibetan verb 'bsgrub'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-156",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "B is phrased much more clearly in English, skillfully avoiding the clunky and slightly confusing syntax of A while remaining perfectly faithful.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-167",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A's 'there is nothing left but to' is a more precise and literal rendering of the Tibetan idiom 'bya bar zad' than B's 'will simply be'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-175",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A's 'deteriorated intention' aligns with the Tibetan commentaries' reading of 'bsam pa nyams pa', whereas B's 'shattered hopes' translates the Sanskrit instead.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-4",
+  "pass": 1,
+  "result": "tie",
+  "after_was": "A",
+  "reason": "Both translations are equally faithful and convey the meaning clearly. The slight syntactical differences in the final line do not change the core meaning.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-6",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly links 'regarding impurity' with 'the convention of purity'. B's line break awkwardly separates them, skewing the logical flow.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-37",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B accurately includes \"too\" to translate \"yang\" (api) in the second line, which A omits.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-42",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A translates \"gzhan gnyis\" more faithfully as \"two others\" without adding \"any\" and \"parties\" like B does.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-44",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B's \"establish\" better reflects the commentary's gloss \"yod par dka'\" (difficult to exist) than A's \"maintain.\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-46",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A captures the doctrinal sequence (craving causes grasping) clarified in the commentary, whereas B's \"craving for grasping\" is misleading.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-49",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A correctly translates \"'jug\" in this context as \"accords with,\" whereas B's \"enters\" is excessively literal and unnatural.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-52",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly reflects the syntax of the Tibetan clause \"gnas pa grub 'gyur ba\" as \"Remaining in saṃsāra is accomplished.\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-53",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A's \"tenable\" is a much more precise and standard philosophical translation of \"'thad pa\" (upapadyate) than B's \"appropriate.\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-64",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "B translates the pronoun \"de\" faithfully as \"it,\" whereas A inappropriately adds \"apprehender of form\" which is absent from the root text.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-9",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly translates 'ji ltar' (how) as a question, reflecting the opponent's objection, which B completely omits.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-24",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B accurately translates the active sense of 'seeing' (mthong ba'i phyir) by the yogi, whereas A mistakenly renders it in the passive voice.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-26",
+  "pass": 1,
+  "result": "tie",
+  "after_was": "A",
+  "reason": "Both translations are faithful and clear, capturing the meaning of the verse with negligible differences in phrasing.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-27",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B more clearly distinguishes the mind as the 'seer' (lta byed) from the illusion as 'something to be seen' (blta bya).",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-29",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A uses 'benefit' for 'yon tan' (guṇa), which perfectly fits the pragmatic philosophical context, avoiding the religious connotations of B's 'merit'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-30",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A includes quotation marks, which helpfully clarifies for the reader that this verse is the voice of an opponent raising an objection.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-31",
+  "pass": 1,
+  "result": "tie",
+  "after_was": "A",
+  "reason": "Both translations effectively convey the meaning. The difference between 'of emptiness' and 'for emptiness' is stylistic and both are acceptable here.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-35",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A accurately follows the Tibetan commentaries, which read 'gdul bya' as dative ('to the ones to be tamed'), matching standard Tibetan exegesis.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "10-54",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B reorders the first two lines to clearly connect \"all sentient beings\" with their spatial extent, improving English syntax and clarity.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-91",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B accurately translates 'ཚོར་བར་' (vedanā iti) as 'what is called feeling', capturing the quotation marker meant by the terminative case.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-99",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B elegantly resolves the ambiguous pronouns in A by specifying 'feeling' and 'that mind', resulting in a much clearer English sentence.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-101",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B offers smoother English syntax by treating the 'collection of selflessness' as the subject of the passive verb 'be harmed'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-114",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A effectively uses quotation marks to indicate that this stanza represents an opponent's objection, improving the clarity of the philosophical discourse.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-151",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly applies 'what is there' to both honoring and despising, whereas A incorrectly turns 'what' into the object of being despised.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-158",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly retains the locative sense of 'དེ་ཡང་' (interpreted as 'tatra / དེར་ཡང་' by commentaries) as 'There too', which B loses with 'Furthermore'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-160",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly captures the locative meaning of 'དེར་ཡང་' (tatra api) as 'Even there', whereas A translates it vaguely as 'Furthermore'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-166",
+  "pass": 1,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A's standard comma punctuation works better for connecting the modifier across verse lines; B's em dashes feel parenthetical and disrupt the syntactic flow.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "10-1",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B offers a clearer and more idiomatic English construction (\"In my having composed... whatever virtue there is\") than A's slightly awkward wording.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "10-12",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A translates \"me mdag\" accurately as \"fires and embers\", conforming to the commentaries (me dang mdag ma), whereas B conflates them into \"burning embers\".",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "10-15",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly treats \"bde ba\" (blissful) as an adjective modifying \"rain\" in parallel with \"cool\" and \"fragrant\", matching the Tibetan and Sanskrit syntax.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "10-20",
+  "pass": 1,
+  "result": "tie",
+  "after_was": "A",
+  "reason": "Both \"wretched with sorrow\" and \"afflicted by sorrow\" are excellent, accurate translations of \"mya ngan nyam thag\".",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "10-26",
+  "pass": 1,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B's \"utterly intoxicated\" strictly maintains literal fidelity to the Tibetan \"rab myos\", precisely reflecting the compound \"myos shing rab myos\".",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "10-38",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A accurately uses the singular \"teacher\" (bla ma), which aligns correctly with the lack of a Tibetan plural particle and the singular Sanskrit \"jagadgurum\".",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "10-42",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly applies the instrumental phrase \"adorned with\" (gyis brgyan) to both reading and recitation, matching the Tibetan syntax.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "10-45",
+  "pass": 1,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A explicitly identifies the subject (\"those whose ethical discipline has been broken\"), accurately reflecting the Sanskrit plural subject (duḥśīlāḥ) implied in the Tibetan.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "2-15",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A translates \"dri zhim thams cad\" accurately as \"all fragrant things,\" whereas B unnecessarily adds \"flowers\" which is absent in the Tibetan.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "2-30",
+  "pass": 2,
+  "result": "tie",
+  "after_was": "B",
+  "reason": "Both correctly convey the Tibetan. A's \"teachers and others\" and B's \"other teachers\" both reflect valid commentarial interpretations of \"bla ma gzhan dag\".",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "2-32",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "B's phrasing \"may meet my death beforehand\" is more natural in English and accurately captures the apprehensive tone of \"'gyur du mchi\".",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "2-33",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A's \"fleeting life\" elegantly and concisely translates \"glo bur tshe,\" whereas B's relative clause is slightly clunky.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "2-43",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A preserves the conditional particle \"na\" (If) at the end of the stanza, which correctly links this verse to the following one.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "2-44",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "B resolves the dangling modifiers found in A, presenting a much more cohesive and grammatically correct English sentence.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "2-54",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B flows much better by keeping the genitive phrase \"disease / Of a hundred faults\" together, directly reflecting the Tibetan \"nyes pa brgya'i nad\".",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "3-1",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A appropriately connects the genitive \"sems can kun gyi\" to \"dge ba\" as \"virtue of all sentient beings,\" avoiding B's awkward syntactic split.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "3-4",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B properly links 'suffering' and 'bewildered in darkness' as parallel descriptors of the sentient beings, correctly reflecting the Tibetan 'sdug bsngal zhing... mun par 'thoms pa'.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-1",
+  "pass": 2,
+  "result": "tie",
+  "after_was": "A",
+  "reason": "Both 'without lapse' and 'without wavering' are excellent, accurate translations for 'g.yel ba med par', carrying the same meaning in this context.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-8",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly identifies that it is the bodhisattva who 'falls short' in accomplishing the welfare of others (don la dman), rather than the welfare itself diminishing.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-9",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly identifies 'di'i' as referring to 'this bodhisattva' (from the previous stanza) and accurately applies 'don la dman' to the bodhisattva falling short.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-10",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A more cleanly treats 'Limitless as the entirety of space' as an adjective phrase describing the embodied beings, matching the Tibetan genitive structure.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-19",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B accurately translates 'bye ba brgyar' as 'a hundred ten-million', which preserves the exact numerical components of the Tibetan/Sanskrit (koṭiśata) rather than calculating it.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-21",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A's use of 'I' fits the first-person reflective context of this chapter much better than the impersonal 'one' used in B.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-28",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly uses an appositive to show that hatred and craving are the enemies themselves; B's 'enemies of hatred' problematically implies enemies who oppose hatred.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "1-5",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "B accurately translates \"thang 'ga'\" as \"for a moment\" (matching Sanskrit kṣaṇam), preserving the lightning metaphor, and uses the literal \"womb\" for \"rum\".",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "1-11",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B translates \"gnas\" as \"realms,\" which is much more precise for physical destinations of rebirth (Sanskrit pattana, city/abode) than A's abstract \"states.\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "1-23",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly translates \"kyang rung\" as \"whether,\" maintaining a unified grammatical structure, while A incorrectly turns it into an incomplete question.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "1-29",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly translates \"gang zhig\" as the relative pronoun \"That which,\" properly connecting the relative clause, whereas A incorrectly uses the personal pronoun \"It.\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "1-33",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly identifies \"sbyin pa\" as the agent (\"one who gives\"), matching the commentaries (sbyin pa byed pa) and the Sanskrit active participle (anuprayacchataḥ).",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "2-6",
+  "pass": 2,
+  "result": "tie",
+  "after_was": "B",
+  "reason": "The translations are virtually identical; the choice between \"beings\" and \"persons\" for \"skyes\" is negligible and both are fully acceptable.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "2-11",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A correctly treats \"yid 'ong\" (appealing) as an adjective modifying the water, whereas B incorrectly turns it into a substantive noun phrase (\"what is pleasing\").",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "2-12",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly parses \"rab\" as an adverb (\"thoroughly perfumed\"), matching the Tibetan \"rab tu bsgos\" and Sanskrit \"pradhūpita,\" whereas B mistakes it for an adjective.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-36",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B accurately translates 'gnod byed' as 'wrongdoer', while A misinterprets 're zhig' as 'temporary' modifying 'harm'.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-37",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly understands 'nyon mongs' contextually as 'wretched', whereas B blindly applies the lock 'afflictions', which makes no sense for physical enemies.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-39",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly links 'don med' (without meaning/purpose) to the reason for the inflicted scars, whereas B incorrectly modifies 'enemies'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-41",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly has the relative clause modify 'wandering beings', whereas B uses a dangling participle ('Reaching...') that obscures the referent.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-43",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A aligns more closely with the Tibetan by not explicitly interpolating 'from what is to be abandoned', maintaining strict fidelity.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-44",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A's 'so be it' is a much more natural and grammatically complete translation of 'kyang bla'i' than B's hanging 'it is better;'.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "4-46",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A's 'are to be abandoned' properly captures the modality of 'spang' in this context (translating the Sanskrit gerundive 'sādhyāḥ').",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-4",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "A redundantly double-translates 'dmyal ba' as 'Hell guardians of the hell of sentient beings', whereas B correctly just uses 'Hell guardians'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-6",
+  "pass": 2,
+  "result": "tie",
+  "after_was": "A",
+  "reason": "Both correctly and clearly convey the quotation structure and meaning. Differences in phrasing are minor and equally acceptable.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-7",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A rightly uses 'groups of women' (མོ་ཚོགས་), reflecting the commentary's correction of the erroneous root text reading 'masses of fire' (མེ་ཚོགས་).",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-8",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B translates 'arise from', which accords with the Sanskrit and the commentaries' gloss of the literal but ambiguous Tibetan 'yid par' (to be).",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-15",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A translates 'bcas pa' precisely as 'accompanied by', whereas B drops this nuance by translating it simply as 'of body and speech'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-32",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "B naturally translates 'mnos' as 'bear it in mind'. A creates an awkward doublet by translating both variants ('mno' and 'gnas').",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-34",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B's 'log of wood' better captures the intended imagery of an immovable tree trunk (as explained in the commentary) than A's 'piece'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-39",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A's 'set about' accurately reflects the commentaries, which gloss 'bsdogs' here as 'brtsams' (begun/started), fitting the context perfectly.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-40",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly captures the 'yathā... tathā' (ji ltar... de ltar) syntax, whereas B awkwardly renders 'from how it is bound'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-46",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly uses the singular \"Sugata\" for \"བདེ་གཤེགས་\", which aligns with the singular Sanskrit \"tāthāgatīṃ\" and doesn't introduce an unneeded plural.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-52",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A perfectly mirrors the syntax where \"a mind arises\" (སེམས་བྱུང་ན) governs all three preceding conditions, whereas B breaks this structural dependency.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-56",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B accurately translates \"འདི་དག་གི\" (of these/theirs) as modifying \"mind,\" which aligns exactly with the commentary reading \"འདི་དག་གི་སེམས་འདི་བྱུང་\".",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-59",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly infers \"the body\" as the object being dragged, avoiding B's dangling modifier which grammatically implies the mind is being dragged.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-76",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A translates \"ལྐོག་ན་\" as \"in their absence,\" which contrasts properly with flattery and perfectly fits the context and Sanskrit \"parokṣaṃ\".",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-78",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A translates \"འདིར་\" as \"In this life,\" which effectively and accurately captures the contrast with \"the next life\" (ཕ་རོལ་དུ་), whereas B is redundant.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-81",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A is more concise and readable; B over-translates \"མངོན་ཞེན་\" with a clunky string of adjectives (\"intense, fixed aspiration\").",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-85",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B uses \"wretched states,\" which accurately conveys the specific Buddhist meaning of \"ལོག་པར་ལྟུང་\" (vinipāta; animals and ghosts) better than the generic \"ruin\".",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-a",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "Translation A is accurate; Translation B inappropriately adds \"for a bodhisattva's awakening\" which is absent in the source Tibetan text.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-2",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "Translation B's phrase \"earnestly regarding patience\" is more natural and idiomatic in English than A's \"earnestly upon patience.\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-6",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "Translation A correctly reads \"khro ba'i dgra\" as an appositive (\"The enemy, anger\"), whereas B's \"enemy of anger\" suggests something opposing anger.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-11",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "Translation B accurately translates \"pas so\" (because) in the final line, which Translation A entirely omits.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-13",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "Translation B rightly follows the reading \"sdar\" (cowardly), matching the Sanskrit and commentators' gloss, whereas A attempts to translate the corrupted reading \"sngar\".",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-21",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "Translation A's \"disillusionment\" is a much more precise and doctrinally accurate translation for \"skyo ba\" (saṃvega) than B's generic \"sorrow.\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-24",
+  "pass": 2,
+  "result": "tie",
+  "after_was": "A",
+  "reason": "Both versions offer defensible renderings of \"gyi nar\"; A follows the commentaries' gloss of a trifling condition, while B translates its literal sense.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-30",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "Translation B's syntax (\"By which one could say...\") connects the clauses more logically and fluidly in English than A.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-87",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "B translates 'ཅི་ནས་' accurately as 'by all means', whereas A's 'only when' is less faithful to both the Tibetan and the commentaries.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-89",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B is better because 'those of lesser capacity' makes the English clear, whereas A's use of 'the lesser' as a substantive noun is awkward.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-90",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "B maintains a consistent passive voice across the clauses, which reads more naturally in English than A's shift to the active voice.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-95",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A correctly translates bāhu as 'arms' for the context of waving or tossing (bāhūtkṣepakaṃ), whereas B uses 'hands'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-96",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly captures the dative construction 'སེམས་ལ། ... སྦྱར།' (direct the mind to the thought), whereas B lacks an indirect object.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-97",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "A awkwardly redundantly translates 'bodhisattva for awakening', erroneously double-translating 'bodhi' from the Tibetan 'བྱང་ཆུབ་སེམས་དཔའ'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-98",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "B redundantly translates 'bodhicitta of awakening' by erroneously applying the locked term for 'awakening' to a part of the bodhicitta compound.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "5-102",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly treats the ascetic discipline as an attribute of the spiritual friend, matching the Sanskrit 'vratadharam', and avoids A's redundant 'bodhisattvas of awakening'.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-35",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "B translates 'rngam zhing' as 'obsessed', which fits the context of craving women and wealth much better than A's 'vehement'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-38",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly links the particle 'la' to make 'those who engage' the object of compassion, which A leaves ambiguous.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-41",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A translates 'nyis na' idiomatically as 'if anything', avoiding B's clunky 'in the second place', and flows much better overall.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-43",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B uses context-appropriate verbs ('drawn' and 'taken up') for 'phyung', avoiding A's awkward 'produced ... the body'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-45",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A correctly translates 'bkon' as 'resent', which is more accurate to its meaning of bearing a grudge than B's 'blame'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-47",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A accurately uses the locked glossary term 'hell of sentient beings' for 'sems can dmyal', which B misses.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-66",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly captures the conditional 'na' (if/when they cause harm) in 'gnod byas na', whereas B translates it as a declarative statement.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-71",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A avoids B's error of 'In which', correctly implying that attachment to an object causes the fire of hatred to spread in the mind.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-78",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "Translation B correctly includes \"Moreover\" for the Tibetan \"gzhan yang,\" which Translation A entirely omits.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-82",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B's \"Instead of being glad\" more accurately reflects the continuous adverbial phrasing of \"dgar mi 'gyur bar\" compared to A's coordinate clause.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-85",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "Translation B remains faithful to the literal text without interpolating \"at yourself,\" maintaining stricter fidelity to the source verse.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-89",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "Translation B cleverly renders \"gze\" (sharp/piercing) as \"barb,\" which perfectly suits the fishing metaphor without losing the sense of the source.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-94",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "B correctly translates \"grags pa\" as \"renown\" functioning as a noun phrase, whereas A's \"the fact that it is said\" is unnecessarily wordy.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-109",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B uses the singular \"he\" for the enemy and arranges the English syntax perfectly to connect \"sublime Dharma\" with its modifier.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-114",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "Translation B accurately renders the text without double-translating \"des mtshungs par\" or adding unnecessary padding like \"Just like the Buddhas\" found in A.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "6-116",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "Translation A is more faithful by translating \"de dag\" literally as the pronoun \"They,\" whereas B interpolates the referents.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-4",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A's \"snared by the fowler\" accurately translates \"རྒྱ་པས་བཤོར་\" (ensnared by the net-man/fowler), whereas B's \"driven down\" misses the specific imagery.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-5",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly interprets the relationship in the simile, matching the commentaries (the outcaste's buffalo), whereas B's overly literal translation obscures the meaning.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-12",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B captures the second-person direct address implied in the context and Sanskrit, resulting in a more cohesive and impactful sentence.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-22",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B uses a much more natural English word order, connecting the action of cutting the body directly with its purpose.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-29",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A explicitly identifies the referent as \"this bodhisattva\" (matching the commentaries), whereas B's \"this/it\" ambiguously suggests bodhicitta itself is superior to Śrāvakas.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-31",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B clarifies \"the benefits of that aspiration,\" whereas A's \"its benefits\" grammatically points to \"suffering,\" resulting in an absurd meaning.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-37",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A's plural \"great festivals\" is more natural for expressing a generic past failure than B's specific \"the great festival.\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-48",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A clarifies that \"དེ་ཡང་\" refers to \"that other deed,\" matching the commentaries and avoiding B's ambiguity.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-53",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B clarifies \"the great\" as \"great downfalls\" based on the commentaries, avoiding the ambiguity of A.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-62",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B translates \"འདི་ཡིས་\" (by this one) in the second line, which A completely drops.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-64",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly links happiness as the ripening and peace as the nature of merit, matching the Tibetan syntax better than A.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "7-73",
+  "pass": 2,
+  "result": "tie",
+  "after_was": "B",
+  "reason": "Both \"encounters\" and \"association\" are valid translations for \"ཕྲད་པ\", and both versions convey the meaning effectively.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-9",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A clarifies \"unequal fortune\" by adding \"that of the noble ones\" based on commentaries, making the English intelligible.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-30",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B avoids a misplaced relative clause; A incorrectly implies the living body already has a stench that foxes avoid.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-35",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B's passive \"being reckoned\" correctly accommodates the commentaries' explanation that relatives reckon the person as dead, unlike A's active phrasing.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-38",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly interprets \"བདག་ལ\" in this context as referring to \"one's own mind\" (Sanskrit: svacitta), matching Kunpal's commentary.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-44",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "Translation A is closer to the literal wording of the root text (\"face of your affliction\"), whereas B incorporates explanatory phrasing from the commentary.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-51",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly treats \"a cage of bones...\" as an apposition to \"another.\" B misleadingly introduces it with \"To,\" making it syntactically parallel to \"impurity.\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-67",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B accurately translates both \"drir bcas\" (with filth/smell) and \"'dam gyi dris\" (smell of mud), whereas A seems to merge or omit one.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-68",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "The Tibetan \"byi dor\" means cleaning or polishing; in the context of a weapon, B's \"polish it\" is more precise and appropriate than \"tend to it.\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-79",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A's \"benefit\" is a more accurate translation of \"mnog,\" which literally means profit, return, or benefit, rather than \"enjoyment.\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-80",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "Consistent with the previous segment, A correctly translates \"mnog\" as \"benefit,\" which is the precise lexical meaning of the Tibetan term.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-84",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly aligns \"empty of disputes...\" to modify \"peaceful forests\" as dictated by the Tibetan syntax, whereas B connects it improperly to \"solitude.\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-85",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly reflects the genitive particle, making \"cooled by moonlight...\" modify the stone dwellings, whereas A misattributes the cooling to \"the fortunate ones.\"",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-87",
+  "pass": 2,
+  "result": "tie",
+  "after_was": "B",
+  "reason": "Both versions are virtually identical and correctly convey the meaning. 'Joy' and 'happiness' are both fine for 'bde'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-109",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B is more precise by rendering 'mi snyan' as 'unpleasant word', aligning with the Sanskrit 'avarṇāt' and the Tibetan commentaries.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-112",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A translates the plural 'oceans of good qualities' (guṇodadhīn) more accurately and reads more naturally in English.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-114",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A properly maintains the verse line breaks, making it much easier to read, whereas B drops the formatting entirely.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-117",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A is more faithful to the specific Tibetan source text provided, which omits the 'even' ('ang') particle found in some commentaries.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-120",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A has smoother phrasing ('hate as an enemy') which handles the transitive nature of the verb more naturally than B.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-122",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly accounts for the conditional particle 'na' at the end of the stanza by using 'If'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-124",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A translates 'chos' as 'way' rather than 'dharma', correctly understanding it as 'characteristic' or 'nature' and maintaining parallelism with 'way of a demon'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-141",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly avoids adding the word \"all\", accurately translating the plural marker \"རྣམས\" as \"the labors\" rather than \"all the work\".",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-145",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "B accurately translates \"ཕྱིར་ལ\" as \"Outwardly,\" correctly reflecting the contrast between outward conceit and inner lack of qualities, whereas A mistranslates it as \"Moreover.\"",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-146",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B accurately uses the active voice \"I shall certainly secure,\" which correctly reflects the volitional, active future tense of the Tibetan verb \"བསྒྲུབ\".",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-156",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A offers a much smoother and clearer English construction, accurately linking \"མིན་པ\" (other than) to the perfect happiness of a Buddha.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-167",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B captures the full idiomatic force of the auxiliary \"ཟད\" (meaning there are no alternatives left) with \"there is nothing left but to.\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "8-175",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B translates \"བསམ་པ་ཉམས་པ\" faithfully as \"deteriorated intention,\" aligning with Tibetan commentaries, whereas A translates the underlying Sanskrit without respecting the Tibetan wording.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-4",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B provides a clearer English sentence by separating the prepositional phrase \"for the sake of the result\" from the negated verb.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-6",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly links \"regarding impurity\" with \"the convention of purity,\" whereas A's syntax incorrectly attaches it to \"That is false.\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-9",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly interprets \"ji ltar\" / \"kathaṃ\" as a question (\"How?\"), aligning perfectly with the commentators' gloss \"ji ltar na\".",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-24",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly uses the active voice (\"because one... sees\"), matching commentaries about a yogi seeing other minds. B incorrectly makes it passive.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-26",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B's addition of \"either\" precisely captures \"yang\" (Sanskrit: api) in the negative clause, improving both accuracy and English flow.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-27",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly establishes the mind as the seer (\"the one who sees\"). B's phrasing grammatically implies the mind is \"what is seen\".",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-29",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B accurately translates \"yon tan\" (guṇa) contextually as \"benefit\", which matches Gyaltsab's gloss of \"dgos pa\" (purpose/benefit).",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-30",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B properly uses quotation marks to identify the verse as an opponent's objection, crucially clarifying the rhetorical context.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-31",
+  "pass": 2,
+  "result": "tie",
+  "after_was": "B",
+  "reason": "Both correctly render the verse; the choice between \"latent tendency for emptiness\" and \"of emptiness\" is stylistic.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-35",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly renders \"gdul bya\" as a dative (\"to the ones to be tamed\"), exactly following the Tibetan commentaries (\"gdul bya rnams la\").",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-37",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly translates \"yang\" (api, too/also) in the second line, which B omits.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-42",
+  "pass": 2,
+  "result": "tie",
+  "after_was": "A",
+  "reason": "Both versions accurately convey the meaning of the source; A's \"parties\" adds a helpful clarifying noun, while B is more literal.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-44",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A's \"establish\" better captures \"dka' bar gnas\" (duḥsthita, logically untenable or ill-founded) in this philosophical context than B's \"maintain.\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-46",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B avoids the misleading phrasing \"craving for grasping\" by clarifying that craving is the cause of grasping (tṛṣṇā condition for upādāna).",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-49",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "B translates \"'jug\" (avatara) contextually as \"accords with,\" which fits the standard scriptural criterion much better than A's literal \"enters.\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-52",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B provides much better English syntax; A's infinitive \"To successfully remain\" creates an awkward and disconnected sentence structure.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-53",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B uses \"tenable\" for \"'thad pa\" (upapadyate), which is philosophically more precise in the context of logical refutations than A's \"appropriate.\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-64",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B supplies \"apprehender of form\" for the pronoun \"de\" (that/it) based on the commentary, which is necessary to make the verse comprehensible in English.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "10-54",
+  "pass": 2,
+  "result": "tie",
+  "after_was": "A",
+  "reason": "Both translations accurately capture the meaning and correctly use the locked terms. The difference in line order is stylistic and does not change the sense.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-91",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "A",
+  "reason": "B accurately translates 'རྟོག་པ' (conception/conceiving), whereas A loosely translates it as 'what is called'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-99",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A clearly states that 'feeling' arises simultaneously with the mind, avoiding B's ambiguous use of 'it' which could refer to seeing or touching.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-101",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A offers clearer English syntax, smoothly connecting 'how could this collection... be harmed', whereas B's structure is somewhat clunky.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-114",
+  "pass": 2,
+  "result": "tie",
+  "after_was": "B",
+  "reason": "The translations are identical except for the use of quotation marks in B, which is a stylistic choice for an opponent's objection.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-151",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A correctly interprets 'གང་གིས་' as 'by anyone' in conjunction with 'ཅི་ཞིག་ཡོད' (what does it matter?), whereas B misconstrues it as a direct question.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-158",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly captures the locative sense of 'tatra ca' (There too) supported by the commentaries, which A misses with 'Furthermore'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-160",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A accurately translates 'དེར་ཡང་' (tatra api) as 'Even there', preserving the locative meaning, whereas B generalizes it to 'Furthermore'.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "9-166",
+  "pass": 2,
+  "result": "tie",
+  "after_was": "A",
+  "reason": "The differences are purely typographical (em dashes vs. commas), and both convey the meaning and modify the elements adequately.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "10-1",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A better integrates the clauses in English, capturing the genitive relationship between the act of composing and the resulting virtue.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "10-12",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B's \"fires and embers\" accurately reflects Shenga's commentary, which explicitly glosses \"me mdag\" as \"fires and embers\" (me dang mdag ma dag).",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "10-15",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly treats \"blissful\" as an adjective modifying the rain, supported by Shenga's commentary that the rain is blissful when touched.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "10-20",
+  "pass": 2,
+  "result": "tie",
+  "after_was": "B",
+  "reason": "Both translations accurately and naturally render the Tibetan \"nyam thag\"; the choice between \"afflicted by\" and \"wretched with\" is purely stylistic.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "10-26",
+  "pass": 2,
+  "result": "win",
+  "after_was": "A",
+  "reason": "A's \"utterly intoxicated\" accurately reflects the Tibetan intensifier \"rab\" modifying \"myos\" (intoxicated), whereas B's \"insane\" obscures this lexical connection.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "10-38",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly uses the singular \"teacher\" for \"'gro ba's bla ma,\" matching the singular Sanskrit term \"gurum.\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "10-42",
+  "pass": 2,
+  "result": "win",
+  "after_was": "B",
+  "reason": "B correctly treats \"reading and recitation\" as a compound pair governed by \"adorned with\" (gyis brgyan), avoiding A's awkward separation.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-academic",
+  "id": "10-45",
+  "pass": 2,
+  "result": "loss",
+  "after_was": "B",
+  "reason": "A accurately renders the Tibetan converb \"nas\" as a concise participial phrase (\"Disillusioned\"), whereas B introduces an unnecessarily wordy restructuring.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ }
+]

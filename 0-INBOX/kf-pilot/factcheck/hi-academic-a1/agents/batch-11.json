@@ -1,0 +1,121 @@
+{
+ "batch": "batch-11",
+ "segments": [
+  {
+   "id": "5-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-17",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "धर्म के परम श्रेष्ठ, चित्त के इस रहस्य को",
+     "evidence": "Tibetan ཆོས་ཀྱི་གཙོ་བོ་མཆོག (Sanskrit dharmasarvasvaṃ) is a noun phrase 'the supreme chief/essence of the Dharma', in apposition to སེམས་ཀྱི་གསང་ 'secret of the mind' (bo-gyaltsab 5-17: ཆོས་ཀྱི་གཙོ་བོའམ་དོན་པོ་མཆོག). The Hindi 'परम श्रेष्ठ' is left as bare adjectives with no head noun, so the appositive is hard to parse.",
+     "fix": "धर्म के परम सार, चित्त के इस रहस्य को"
+    }
+   ]
+  },
+  {
+   "id": "5-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-22",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "किन्तु चित्त कभी नष्ट न करें",
+     "evidence": "Tibetan སེམས་ནི་ནམས་ཀྱང་ཉམས་མི་བྱ is the speaker's own resolve (Sanskrit mā tu cittaṃ kadācana; bo-kunpal 5-22 'རང་གི་སེམས་བསྲུང་བའི་བརྟུལ་ཞུགས ... ཉམས་པར་མི་བྱ'). The Hindi imperative 'न करें' has no stated agent and reads as a general command to others rather than 'I must never let my mind decline'.",
+     "fix": "किन्तु मैं चित्त को कभी नष्ट न होने दूँ"
+    }
+   ]
+  },
+  {
+   "id": "5-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-31",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

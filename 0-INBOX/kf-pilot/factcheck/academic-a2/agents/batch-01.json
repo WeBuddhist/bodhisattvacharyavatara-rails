@@ -1,0 +1,86 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "3-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "In the virtue of all sentient beings\nThat brings rest from the suffering of the lower realms",
+     "evidence": "Tibetan སེམས་ཅན་ཀུན་གྱི་ངན་སོང་གི། སྡུག་བསྔལ་ངལ་སོའི་དགེ་བ: the genitive ཀུན་གྱི་ binds 'all sentient beings' to the lower-realm suffering. bo-gyaltsab 3-1 glosses འཁོར་བར་གནས་པའི་སེམས་ཅན་ཀུན་གྱི་ངན་སོང་གི་སྡུག་བསྔལ་ངལ་གསོ་ཞིང་... འཐོབ་པར་བྱེད་པའི་རྒྱུའི་དགེ་བ (virtue that gives all beings rest from their lower-realm suffering); bo-shenga likewise. The English makes the virtue 'of' the beings and leaves unstated whose suffering is relieved.",
+     "fix": "In the virtue that gives all sentient beings rest\nFrom the suffering of the lower realms"
+    }
+   ]
+  },
+  {
+   "id": "3-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-37",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "Those afflictions subjected to suffering by natural death—",
+     "evidence": "Here ཉོན་མོངས་ is not the mental afflictions but a word of pity for the ordinary enemies of the battle simile. bo-kunpal 4-37: དགྲ་བོ་ཐ་མལ་པ་ཉོན་མོངས་པ་ཞེས་སྨད་པའི་ཚིག་སྟེ་ཉམས་ཐག་ཅིང་སྙིང་རྗེ་བའི་གནས་སུ་གྱུར་པའི་དགྲ་བོ་འདི་དག (ordinary enemies, 'wretched', objects of pity); bo-shenga 4-37: ཉོན་མོངས་ཏེ་སྙིང་རྗེའི་གནས་སུ་གྱུར་པ་དག. The mental afflictions are the target only of the application in the following verse. Rendering with the locked term 'afflictions' gives the wrong referent and collapses simile and application.",
+     "fix": "Those wretched enemies, made to suffer by their very nature as mortals who must die,"
+    }
+   ]
+  },
+  {
+   "id": "4-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-76",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "One should speak of good qualities in their absence,",
+     "evidence": "ལྐོག་ན་ཡོན་ཏན་བརྗོད་བྱ: the qualities are those of others, praised behind their backs to avoid the suspicion of flattery. bo-gyaltsab 5-76: ཁ་གསག་ཏུ་དོགས་པས་ལྐོག་ན་གཞན་གྱི་ཡོན་ཏན་བརྗོད་པར་བྱ; bo-shenga 5-76 similar. 'Their' has no antecedent in the English.",
+     "fix": "One should speak of others' good qualities behind their backs,"
+    },
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "One should understand that as them knowing good qualities.",
+     "evidence": "ཡོན་ཏན་ཤེས་པར་རིག་པར་བྱ: the one to be recognized as knowing qualities is the speaker who praises one. bo-kunpal 5-76: བརྗོད་མཁན་པོ་དེ ཡོན་ཏན་གྱི་ཁྱད་པར་ཤེས་པའི་མཁས་པ ... རིག་པར་བྱ་དགོས; bo-gyaltsab 5-76 adds that one should not become conceited. 'Them' is vague and the sense is hard to parse.",
+     "fix": "one should regard the speaker as someone who recognizes good qualities, and not become conceited."
+    }
+   ]
+  },
+  {
+   "id": "5-87",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-102",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

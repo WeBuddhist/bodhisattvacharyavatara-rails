@@ -1,0 +1,105 @@
+{
+ "batch": "batch-16",
+ "segments": [
+  {
+   "id": "6-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-21",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

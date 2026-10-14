@@ -1,0 +1,261 @@
+{
+ "batch": "batch-22",
+ "segments": [
+  {
+   "id": "9-145",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-146",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-147",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "major",
+     "span": "जब किसी चीज़ का होना मुमकिन नहीं है",
+     "evidence": "The premise is 'at the time of non-existence (med tshe), existence of the thing is not possible'. The children's text drops 'when it is non-existent' and states a general impossibility, losing the logic of the argument.",
+     "fix": "जब कोई चीज़ 'न होने वाली वस्तु' है, तब उसका वस्तु होना मुमकिन नहीं है, तो वह वस्तु कब बनेगी? जब तक कोई वस्तु पैदा नहीं होती, तब तक वह 'न होने वाली वस्तु' से अलग नहीं हो सकती।"
+    }
+   ]
+  },
+  {
+   "id": "9-148",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "कोई वस्तु भी कभी गायब नहीं होती है",
+     "evidence": "Source: the thing also does not become non-existent (dngos po'ang med par 'gyur min). 'Disappear' suggests vanishing/cessation rather than becoming a non-thing.",
+     "fix": "कोई वस्तु भी कभी 'न होने वाली वस्तु' नहीं बन जाती। अगर ऐसा हो, तो उसके दो स्वभाव हो जाएँगे।"
+    }
+   ]
+  },
+  {
+   "id": "9-149",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-150",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "चीज़ों का असली रूप में कोई फर्क नहीं पड़ता",
+     "evidence": "Ungrammatical case marking; meaning is 'in reality (de nyid du) there is no difference between nirvana attained and not attained'.",
+     "fix": "किसी को शोक से मुक्ति मिले या न मिले, चीज़ों के असली रूप में कोई फर्क नहीं है।"
+    }
+   ]
+  },
+  {
+   "id": "9-151",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-152",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-153",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-154",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-155",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-156",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-157",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-158",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "Source calls the sea of suffering incomparable/unparalleled (dpe med) as well as unbearable and boundless; 'incomparable' is dropped.",
+     "fix": "वहाँ दुख का ऐसा सागर है जिसकी कोई तुलना नहीं और जिसकी कोई सीमा नहीं। उसे सहा नहीं जा सकता।"
+    }
+   ]
+  },
+  {
+   "id": "9-159",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-160",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-161",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-162",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "नदी को पार करना कठिन है",
+     "evidence": "Source: the river of afflictions is hard to abandon (spang dka'; prahana), not hard to cross.",
+     "fix": "परेशान करने वाली भावनाओं की नदी को छोड़ पाना कठिन है।"
+    }
+   ]
+  },
+  {
+   "id": "9-163",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-164",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "दुःख",
+     "evidence": "The glossary spells 'suffering' as दुख; the text uses दुःख here (and elsewhere uses दुख).",
+     "fix": "वैसे ही बहुत से लोग गहरे दुख में फँसे होने पर भी खुद को सुखी मानते हैं।"
+    }
+   ]
+  },
+  {
+   "id": "9-165",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-166",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-167",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-15",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "समन्तभद्र और अन्य जागृति-वीर सुख देने वाली, ठंडी और खुशबूदार बारिश करें",
+     "evidence": "Source describes the bodhisattvas' unobstructed (sgrib pa med) clouds raining pleasant, cool, fragrant rain; 'unobstructed' is dropped.",
+     "fix": "समन्तभद्र और दूसरे जागृति-वीरों के बिना रुकावट वाले बादल सुख देने वाली, ठंडी और खुशबूदार बारिश बरसाएँ।"
+    }
+   ]
+  },
+  {
+   "id": "10-16",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

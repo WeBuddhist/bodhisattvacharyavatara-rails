@@ -1,0 +1,245 @@
+{
+ "batch": "batch-03",
+ "segments": [
+  {
+   "id": "7-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-58",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "वे मूर्ख, बदसूरत और कमज़ोर होते हैं।",
+     "evidence": "Source says fools, the ugly and the weak are despised everywhere (a general statement); the children's text opens with an antecedent-less 'वे' that reads as a claim that certain people (the proud) are fools, ugly and weak.",
+     "fix": "मूर्ख, बदसूरत और कमज़ोर लोगों का हर जगह अपमान होता है।"
+    }
+   ]
+  },
+  {
+   "id": "7-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-64",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "क्योंकि इसके कर्मों का पकना सुख और शान्ति देता है।",
+     "evidence": "Academic: merit whose ripening is happiness and which is peace; the children's sentence 'इसके कर्मों का पकना' is unclear (what is 'इसके'?).",
+     "fix": "क्योंकि जब भलाई के कर्मों का पकना होता है, तो उससे सुख और शान्ति मिलती है।"
+    }
+   ]
+  },
+  {
+   "id": "7-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-102",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-107",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-110",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "दूसरों की बूँदों में",
+     "evidence": "Tibetan/academic: the drops are of others' semen and blood (khu ba khrag gi thigs pa); the children's text keeps only an unexplained 'बूँदों', losing what the drops are.",
+     "fix": "दूसरों के शुक्र और खून की बूँदों में 'मैं' जैसी कोई चीज़ नहीं है, फिर भी आदत के कारण हम उन्हें 'यह मैं हूँ' मान लेते हैं।"
+    }
+   ]
+  },
+  {
+   "id": "8-112",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-115",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-117",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "प्राणियों के सभाओं के डर को",
+     "evidence": "Academic: to dispel the fear of assemblies of beings (the world's creatures); the children's phrase is ungrammatical and 'सभाओं के डर' is unexplained.",
+     "fix": "इसलिए रक्षक अवलोकितेश्वर ने बड़ी करुणा से प्राणियों के सभा के डर को दूर करने के लिए अपने नाम को भी आशीर्वाद दिया।"
+    }
+   ]
+  },
+  {
+   "id": "8-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-130",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-132",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-139",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-150",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-157",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "major",
+     "span": "माता-पिता की जीवन-बूँदों और खून की बूँदों में",
+     "evidence": "Tibetan/academic: 'in the drops of semen and blood of others (gzhan dag)'; 'parents' is not in the text, and it narrows 'others' while the next line extends the practice to 'others'.",
+     "fix": "इसलिए, जैसे तुमने दूसरों के शुक्र और खून की बूँदों में \"मैं\" मान लेना सीखा है, वैसे ही दूसरों में भी ऐसा अभ्यास करो।"
+    }
+   ]
+  },
+  {
+   "id": "8-164",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-172",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-176",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-184",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-185",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-44",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

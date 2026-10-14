@@ -1,0 +1,129 @@
+{
+ "batch": "batch-36",
+ "segments": [
+  {
+   "id": "9-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-6",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "Regarding impurity and so forth,\nThat is false, like the convention of purity and so forth.",
+     "evidence": "Tibetan: དེ་ནི་མི་གཙང་ལ་སོགས་ལ། གཙང་སོགས་གྲགས་པ་བཞིན་དུ་རྫུན། The phrase 'regarding impurity' (མི་གཙང་ལ་སོགས་ལ) belongs with the convention of purity (གཙང་སོགས་གྲགས་པ), as bo-kunpal 9-6 shows (the body of a woman is impure, yet is conventionally called pure). The English attaches it to 'That is false', so 'purity regarding impurity' is lost.",
+     "fix": "That is false, just as the convention of purity and so forth\nregarding impure things and so forth is false."
+    }
+   ]
+  },
+  {
+   "id": "9-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-9",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "form",
+     "severity": "minor",
+     "span": "Merit from a Victor like an illusion\nIs just as it is for one who is truly existent.",
+     "evidence": "Tibetan ཇི་ལྟར ('how?') in line 2 is the opponent's question, and ཇི་བཞིན ('just as') is the reply. bo-gyaltsab 9-9 and bo-kunpal 9-9 read the pair as objection plus answer. The English drops 'how' and gives only a flat statement, with no marking that the first part is the objection and the second part the reply.",
+     "fix": "\"How is there merit from a Victor like an illusion?\"\n[Reply:] Just as it is for one who is truly existent."
+    }
+   ]
+  },
+  {
+   "id": "9-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-24",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "because it is seen by one endowed with other conditions",
+     "evidence": "Tibetan རྐྱེན་གཞན་དག་དང་ལྡན་པ་ནི། མཐོང་ཕྱིར: the one endowed with other conditions is the one who sees, namely other persons' minds. bo-kunpal 9-24 says those so endowed see the minds of other persons (གང་ཟག་གཞན་གྱི་སེམས་དག་ཀྱང་མཐོང་བའི་ཕྱིར), so one's own mind, which is nearer, should be luminous. bo-shenga 9-24 says the same. The English makes the mind 'it' the thing seen by such a person, which reverses agent and object.",
+     "fix": "If, because one endowed with other conditions sees [others' minds],\nit is luminous to itself,"
+    }
+   ]
+  }
+ ]
+}

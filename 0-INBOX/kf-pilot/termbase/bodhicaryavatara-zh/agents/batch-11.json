@@ -1,0 +1,708 @@
+{
+ "batch": "batch-11",
+ "terms": [
+  {
+   "term_id": "T011",
+   "bo": "སྡིག་པ",
+   "sanskrit": "pāpa",
+   "senses": [
+    {
+     "sense": "misdeed",
+     "occurrences": "all",
+     "academic": "罪業",
+     "children": "有害的行為",
+     "basis": "style-sheet",
+     "reason": "Core term, policy 5 table: 罪業 for pāpa; children follow harmful deed."
+    }
+   ]
+  },
+  {
+   "term_id": "T027",
+   "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ",
+   "sanskrit": "bodhisattvacaryāvatāra",
+   "senses": [
+    {
+     "sense": "title of the work",
+     "occurrences": "all",
+     "academic": "《入菩薩行論》",
+     "children": "《走進菩薩的修行之道》",
+     "basis": "style-sheet",
+     "reason": "Policy 13 title of the work."
+    }
+   ]
+  },
+  {
+   "term_id": "T043",
+   "bo": "རང་བཞིན",
+   "sanskrit": "svabhāva",
+   "senses": [
+    {
+     "sense": "nature",
+     "occurrences": "all",
+     "academic": "自性",
+     "children": "本性",
+     "basis": "new",
+     "reason": "Established svabhāva rendering; children plain word 本性 for nature."
+    }
+   ]
+  },
+  {
+   "term_id": "T059",
+   "bo": "ཀུན་རྫོབ",
+   "sanskrit": "saṃvṛti",
+   "senses": [
+    {
+     "sense": "conventional (truth)",
+     "occurrences": "all",
+     "academic": "世俗諦",
+     "children": "日常的真理",
+     "basis": "style-sheet",
+     "reason": "Core term ཀུན་རྫོབ."
+    }
+   ]
+  },
+  {
+   "term_id": "T075",
+   "bo": "གཤིན་རྗེ",
+   "sanskrit": "yama",
+   "senses": [
+    {
+     "sense": "Yama",
+     "occurrences": "all",
+     "academic": "閻羅",
+     "children": "閻羅",
+     "basis": "style-sheet",
+     "reason": "Policy 11 name for གཤིན་རྗེ; Gemini 閻魔 not used."
+    }
+   ]
+  },
+  {
+   "term_id": "T091",
+   "bo": "བླ་མ",
+   "sanskrit": "guru",
+   "senses": [
+    {
+     "sense": "spiritual teacher",
+     "occurrences": "all",
+     "academic": "上師",
+     "children": "老師",
+     "basis": "new",
+     "reason": "Established guru rendering; children plain 老師 for teacher."
+    }
+   ]
+  },
+  {
+   "term_id": "T107",
+   "bo": "སྒྲ",
+   "sanskrit": "śabda",
+   "senses": [
+    {
+     "sense": "sound",
+     "occurrences": "all",
+     "academic": "聲",
+     "children": "聲音",
+     "basis": "new",
+     "reason": "Single character for śabda, as 聲境; children everyday word."
+    }
+   ]
+  },
+  {
+   "term_id": "T123",
+   "bo": "ལེ་ལོ",
+   "sanskrit": "ālasya",
+   "senses": [
+    {
+     "sense": "laziness",
+     "occurrences": "all",
+     "academic": "懈怠",
+     "children": "懶惰",
+     "basis": "zero-shot",
+     "reason": "Gemini 懈怠 is the standard ālasya term; children plain 懶惰."
+    }
+   ]
+  },
+  {
+   "term_id": "T139",
+   "bo": "རྣམ་དཔྱོད",
+   "sanskrit": "vicāra",
+   "senses": [
+    {
+     "sense": "analysis",
+     "occurrences": "all",
+     "academic": "分析",
+     "children": "仔細思考",
+     "basis": "english-pivot",
+     "reason": "Analysis; avoids 觀察, which suggests vipaśyanā; children follow careful thinking."
+    }
+   ]
+  },
+  {
+   "term_id": "T155",
+   "bo": "ས",
+   "sanskrit": "bhūmi",
+   "senses": [
+    {
+     "sense": "bodhisattva ground",
+     "occurrences": [
+      "4-11"
+     ],
+     "academic": "地",
+     "children": "階段",
+     "basis": "new",
+     "reason": "Bodhisattva ground (諸地); children follow English stage."
+    },
+    {
+     "sense": "earth (element)",
+     "occurrences": [
+      "9-119",
+      "9-121"
+     ],
+     "academic": "地大",
+     "children": "大地",
+     "basis": "new",
+     "reason": "Earth as element; 地大 keeps it apart from the ground sense."
+    }
+   ]
+  },
+  {
+   "term_id": "T171",
+   "bo": "གཡེང་བ",
+   "sanskrit": "vikṣepa",
+   "senses": [
+    {
+     "sense": "distraction",
+     "occurrences": "all",
+     "academic": "散亂",
+     "children": "分心",
+     "basis": "zero-shot",
+     "reason": "Established vikṣepa; Gemini 散亂; children everyday word."
+    }
+   ]
+  },
+  {
+   "term_id": "T187",
+   "bo": "རྣམ་ཤེས",
+   "sanskrit": "vijñāna",
+   "senses": [
+    {
+     "sense": "consciousness",
+     "occurrences": "all",
+     "academic": "識",
+     "children": "覺知",
+     "basis": "new",
+     "reason": "Established vijñāna; children follow awareness."
+    }
+   ]
+  },
+  {
+   "term_id": "T203",
+   "bo": "ཐུགས་རྗེ་ཆེན་པོ",
+   "sanskrit": "mahākaruṇā",
+   "senses": [
+    {
+     "sense": "great compassion",
+     "occurrences": "all",
+     "academic": "大悲",
+     "children": "偉大的慈悲",
+     "basis": "english-pivot",
+     "reason": "Established mahākaruṇā; children follow great compassion."
+    }
+   ]
+  },
+  {
+   "term_id": "T219",
+   "bo": "བཅོམ་ལྡན",
+   "sanskrit": "bhagavat",
+   "senses": [
+    {
+     "sense": "epithet of the Buddha",
+     "occurrences": "all",
+     "academic": "世尊",
+     "children": "世尊",
+     "basis": "style-sheet",
+     "reason": "Policy 9 and 20: བཅོམ་ལྡན is 世尊 in both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T235",
+   "bo": "བདག་བསྟོད",
+   "sanskrit": "ātmotkarṣa",
+   "senses": [
+    {
+     "sense": "self-praise",
+     "occurrences": "all",
+     "academic": "自讚",
+     "children": "誇讚自己",
+     "basis": "zero-shot",
+     "reason": "Gemini 自讚 matches ātmotkarṣa; children follow praising oneself."
+    }
+   ]
+  },
+  {
+   "term_id": "T251",
+   "bo": "ཕུན་སུམ་ཚོགས་པ",
+   "sanskrit": "sampad",
+   "senses": [
+    {
+     "sense": "excellence",
+     "occurrences": "all",
+     "academic": "圓滿",
+     "children": "卓越",
+     "basis": "zero-shot",
+     "reason": "Gemini 圓滿 for sampad; children 卓越 since 圓滿 is reserved for perfection."
+    }
+   ]
+  },
+  {
+   "term_id": "T267",
+   "bo": "གཉིད",
+   "sanskrit": "nidrā",
+   "senses": [
+    {
+     "sense": "sleep",
+     "occurrences": "all",
+     "academic": "睡眠",
+     "children": "睡眠",
+     "basis": "new",
+     "reason": "Plain term for nidrā in both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T283",
+   "bo": "སེམས་ཉིད",
+   "sanskrit": "citta",
+   "senses": [
+    {
+     "sense": "mind itself",
+     "occurrences": "all",
+     "academic": "心本身",
+     "children": "心本身",
+     "basis": "english-pivot",
+     "reason": "Mind itself; built on 心 for སེམས plus 本身."
+    }
+   ]
+  },
+  {
+   "term_id": "T299",
+   "bo": "བདུད",
+   "sanskrit": "māra",
+   "senses": [
+    {
+     "sense": "Māra",
+     "occurrences": "all",
+     "academic": "魔",
+     "children": "魔",
+     "basis": "style-sheet",
+     "reason": "Policy 11: བདུད is 魔."
+    }
+   ]
+  },
+  {
+   "term_id": "T315",
+   "bo": "བྱང་ཆུབ་འཇུག་པ",
+   "sanskrit": "bodhiprasthāna",
+   "senses": [
+    {
+     "sense": "engaging bodhicitta",
+     "occurrences": "all",
+     "academic": "行菩提心",
+     "children": "動身去覺悟的心",
+     "basis": "style-sheet",
+     "reason": "Policy 15 and core table: engaging bodhicitta."
+    }
+   ]
+  },
+  {
+   "term_id": "T331",
+   "bo": "སྐུ་ཁྲུས",
+   "sanskrit": "snāna",
+   "senses": [
+    {
+     "sense": "bath",
+     "occurrences": "all",
+     "academic": "沐浴",
+     "children": "洗澡",
+     "basis": "zero-shot",
+     "reason": "Gemini 沐浴 for the offering of bathing; children everyday word."
+    }
+   ]
+  },
+  {
+   "term_id": "T347",
+   "bo": "རྫོགས་སངས་རྒྱས",
+   "sanskrit": "saṃbuddha",
+   "senses": [
+    {
+     "sense": "fully awakened Buddha",
+     "occurrences": "all",
+     "academic": "正等覺者",
+     "children": "完全覺悟的佛陀",
+     "basis": "style-sheet",
+     "reason": "Policy 9 epithet 正等覺者; children follow fully awakened Buddha."
+    }
+   ]
+  },
+  {
+   "term_id": "T363",
+   "bo": "བཅས་པའི་སྡིག་པ",
+   "sanskrit": "prajñaptyāvadya",
+   "senses": [
+    {
+     "sense": "proscribed misdeed",
+     "occurrences": "all",
+     "academic": "遮罪",
+     "children": "被禁止的有害行為",
+     "basis": "zero-shot",
+     "reason": "Established vinaya 遮罪 (prajñaptyāvadya), Gemini agrees; children built on harmful deed."
+    }
+   ]
+  },
+  {
+   "term_id": "T379",
+   "bo": "མི་ཡི་སྲིད་པ",
+   "sanskrit": "mānuṣa bhava",
+   "senses": [
+    {
+     "sense": "human existence",
+     "occurrences": "all",
+     "academic": "人身",
+     "children": "人生",
+     "basis": "zero-shot",
+     "reason": "Gemini 人身 for human existence; children follow human life."
+    }
+   ]
+  },
+  {
+   "term_id": "T395",
+   "bo": "སེམས་ཅན་དམྱལ་བའི་སྲུང་མ",
+   "sanskrit": "narakapāla",
+   "senses": [
+    {
+     "sense": "hell guardian",
+     "occurrences": "all",
+     "academic": "地獄獄卒",
+     "children": "地獄的看守",
+     "basis": "new",
+     "reason": "Hell guardian; policy 22 says སེམས་ཅན་དམྱལ་བ alone is not a term, so 地獄 used."
+    }
+   ]
+  },
+  {
+   "term_id": "T411",
+   "bo": "སངས་རྒྱས་རྗེས་དྲན་པ",
+   "sanskrit": "buddhānusmṛti",
+   "senses": [
+    {
+     "sense": "recollection of the Buddha",
+     "occurrences": "all",
+     "academic": "隨念佛",
+     "children": "把佛陀放在心上",
+     "basis": "new",
+     "reason": "Established buddhānusmṛti; children follow keeping the Buddha in mind."
+    }
+   ]
+  },
+  {
+   "term_id": "T427",
+   "bo": "སྤྱི་རྟོལ",
+   "sanskrit": "pragalbha",
+   "senses": [
+    {
+     "sense": "impudence",
+     "occurrences": "all",
+     "academic": "放肆",
+     "children": "沒禮貌",
+     "basis": "new",
+     "reason": "Impudence; pragalbha as bold rudeness; Gemini 無恥 is a different term (ངོ་ཚ་མེད)."
+    }
+   ]
+  },
+  {
+   "term_id": "T443",
+   "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ",
+   "sanskrit": "ācāra",
+   "senses": [
+    {
+     "sense": "conduct of the bodhisattva",
+     "occurrences": "all",
+     "academic": "菩薩行",
+     "children": "菩薩的修行",
+     "basis": "style-sheet",
+     "reason": "Policy 15/13: 菩薩 plus 行 as in the title; children use 修行."
+    }
+   ]
+  },
+  {
+   "term_id": "T459",
+   "bo": "མཁྲིས་པ",
+   "sanskrit": "pitta",
+   "senses": [
+    {
+     "sense": "bile",
+     "occurrences": "all",
+     "academic": "膽汁",
+     "children": "膽汁",
+     "basis": "zero-shot",
+     "reason": "Gemini 膽汁 for pitta; plain word in both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T476",
+   "bo": "བསྙེན་བཀུར",
+   "sanskrit": "satkāra",
+   "senses": [
+    {
+     "sense": "honor and respect",
+     "occurrences": "all",
+     "academic": "恭敬",
+     "children": "尊敬",
+     "basis": "new",
+     "reason": "Satkāra as honor and respect; children everyday word."
+    }
+   ]
+  },
+  {
+   "term_id": "T492",
+   "bo": "ཕུན་ཚོགས་ཕ་རོལ་ཕྱིན",
+   "sanskrit": "sampatpāra",
+   "senses": [
+    {
+     "sense": "perfection of excellence",
+     "occurrences": "all",
+     "academic": "圓滿波羅蜜",
+     "children": "卓越的圓滿",
+     "basis": "style-sheet",
+     "reason": "Built from 圓滿 (excellence) plus 波羅蜜; children 卓越 plus 圓滿."
+    }
+   ]
+  },
+  {
+   "term_id": "T508",
+   "bo": "བདག་དང་གཞན་དུ་བརྗེ་བ",
+   "sanskrit": "parātmaparivartana",
+   "senses": [
+    {
+     "sense": "exchange of self and others",
+     "occurrences": "all",
+     "academic": "自他相換",
+     "children": "自己和別人互換",
+     "basis": "new",
+     "reason": "Established parātmaparivartana; children everyday words built on 自己."
+    }
+   ]
+  },
+  {
+   "term_id": "T524",
+   "bo": "མི་འཇིགས",
+   "sanskrit": "abhaya",
+   "senses": [
+    {
+     "sense": "fearlessness",
+     "occurrences": "all",
+     "academic": "無畏",
+     "children": "沒有恐懼",
+     "basis": "new",
+     "reason": "Established abhaya; children follow freedom from fear with 沒有 (policy 17)."
+    }
+   ]
+  },
+  {
+   "term_id": "T540",
+   "bo": "རྣམ་པར་གཡེང་བ",
+   "sanskrit": "vikṣepa",
+   "senses": [
+    {
+     "sense": "distraction",
+     "occurrences": "all",
+     "academic": "散亂",
+     "children": "心思飄走",
+     "basis": "style-sheet",
+     "reason": "Same term as T171 (རྣམ་པར་ is intensifier); children follow wandering mind."
+    }
+   ]
+  },
+  {
+   "term_id": "T556",
+   "bo": "སངས་རྒྱས་རྗེས་དྲན",
+   "sanskrit": "buddhānusmṛti",
+   "senses": [
+    {
+     "sense": "recollection of the Buddha",
+     "occurrences": "all",
+     "academic": "隨念佛",
+     "children": "記得佛陀",
+     "basis": "new",
+     "reason": "Established buddhānusmṛti; same term as T411; children follow remembering the Buddha."
+    }
+   ]
+  },
+  {
+   "term_id": "T572",
+   "bo": "ཉེས་དམིགས",
+   "sanskrit": "ādīnava",
+   "senses": [
+    {
+     "sense": "disadvantage",
+     "occurrences": "all",
+     "academic": "過患",
+     "children": "壞處",
+     "basis": "new",
+     "reason": "Established ādīnava; children follow drawback."
+    }
+   ]
+  },
+  {
+   "term_id": "T588",
+   "bo": "འཇིག་རྟེན་ཕ་རོལ",
+   "sanskrit": "paraloka",
+   "senses": [
+    {
+     "sense": "next world",
+     "occurrences": "all",
+     "academic": "來世",
+     "children": "來生",
+     "basis": "new",
+     "reason": "Established paraloka; children follow next life."
+    }
+   ]
+  },
+  {
+   "term_id": "T604",
+   "bo": "མངོན་སུམ",
+   "sanskrit": "pratyakṣa",
+   "senses": [
+    {
+     "sense": "direct perception",
+     "occurrences": "all",
+     "academic": "現量",
+     "children": "直接看見",
+     "basis": "new",
+     "reason": "Established pratyakṣa; children follow seeing directly."
+    }
+   ]
+  },
+  {
+   "term_id": "T620",
+   "bo": "སྒྱུ་མའི་བུད་མེད",
+   "sanskrit": "māyāstrī",
+   "senses": [
+    {
+     "sense": "illusory woman",
+     "occurrences": "all",
+     "academic": "幻化女",
+     "children": "幻術變出的女人",
+     "basis": "new",
+     "reason": "Gemini 幻化女; children follow woman made by illusion."
+    }
+   ]
+  },
+  {
+   "term_id": "T636",
+   "bo": "ཀུན་རྨོངས",
+   "sanskrit": "saṃmoha",
+   "senses": [
+    {
+     "sense": "delusion",
+     "occurrences": "all",
+     "academic": "愚癡",
+     "children": "迷惑",
+     "basis": "new",
+     "reason": "Gemini 愚痴 in CBETA spelling 愚癡 (policy 1); children follow confusion."
+    }
+   ]
+  },
+  {
+   "term_id": "T652",
+   "bo": "ཕྲ་མོ",
+   "sanskrit": "sūkṣmatā",
+   "senses": [
+    {
+     "sense": "subtle state",
+     "occurrences": "all",
+     "academic": "微細",
+     "children": "細微",
+     "basis": "new",
+     "reason": "Subtle state; 微細 as in Gemini 微細苦; children everyday word."
+    }
+   ]
+  },
+  {
+   "term_id": "T668",
+   "bo": "མྱོང་བ",
+   "sanskrit": "saṃvitti",
+   "senses": [
+    {
+     "sense": "experience",
+     "occurrences": "all",
+     "academic": "體驗",
+     "children": "感受",
+     "basis": "zero-shot",
+     "reason": "Gemini 體驗; children follow feeling."
+    }
+   ]
+  },
+  {
+   "term_id": "T684",
+   "bo": "ངན་སོང་ཆེན་པོ",
+   "sanskrit": "mahāpāya",
+   "senses": [
+    {
+     "sense": "great lower realm",
+     "occurrences": "all",
+     "academic": "大惡道",
+     "children": "大惡道",
+     "basis": "style-sheet",
+     "reason": "Policy 17/core table: ངན་སོང is 惡道, plus 大."
+    }
+   ]
+  },
+  {
+   "term_id": "T700",
+   "bo": "བརྩེ་བ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "compassion, affection",
+     "occurrences": "all",
+     "academic": "慈愛",
+     "children": "愛心",
+     "basis": "english-pivot",
+     "reason": "Affection or compassion; 慈愛 kept apart from 悲; children follow compassion."
+    }
+   ]
+  },
+  {
+   "term_id": "T716",
+   "bo": "རྒྱལ་པོ",
+   "sanskrit": "rājan",
+   "senses": [
+    {
+     "sense": "king",
+     "occurrences": "all",
+     "academic": "國王",
+     "children": "國王",
+     "basis": "zero-shot",
+     "reason": "Gemini 國王; plain term in both registers."
+    }
+   ]
+  },
+  {
+   "term_id": "T732",
+   "bo": "དགེ་བའི་བཤེས",
+   "sanskrit": "kalyāṇamitra",
+   "senses": [
+    {
+     "sense": "spiritual friend",
+     "occurrences": "all",
+     "academic": "善知識",
+     "children": "好朋友",
+     "basis": "new",
+     "reason": "Established kalyāṇamitra; Gemini 善知識; children follow good friend."
+    }
+   ]
+  }
+ ]
+}

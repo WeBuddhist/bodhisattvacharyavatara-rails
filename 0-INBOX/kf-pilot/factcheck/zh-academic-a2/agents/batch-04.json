@@ -1,0 +1,121 @@
+{
+ "batch": "batch-04",
+ "segments": [
+  {
+   "id": "7-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-102",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-104",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-132",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-145",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "反而自矜功德",
+     "evidence": "Tibetan ཕྱིར་ལ is 'moreover/further' (Skt aparam); Gyaltsab 8-145 glosses it 'མ་ཟད་ ... ཕྱིར་ལ' (not only lacking compassion, but moreover vaunting his qualities). 反而 ('on the contrary/instead') frames conceit as contrasting with lack of compassion rather than adding to it.",
+     "fix": "此外更自矜功德"
+    }
+   ]
+  },
+  {
+   "id": "8-147",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-149",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-150",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-163",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-177",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-179",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-181",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-49",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "聲稱「不會滲漏惡臭」",
+     "evidence": "Tibetan དྲི་ང་འཛག་པ་མ་ཡིན་ཞེས་ is the lustful person's thought/reason for rejecting the pillow ('thinking: it does not leak foul odour'); Kunpal 8-49 has བསམས་ནས ('having thought'). 聲稱 reads as an assertion that the pillow does not leak, and drops the reason relation to not delighting in the pillow.",
+     "fix": "以為「它不會滲漏惡臭」"
+    }
+   ]
+  }
+ ]
+}

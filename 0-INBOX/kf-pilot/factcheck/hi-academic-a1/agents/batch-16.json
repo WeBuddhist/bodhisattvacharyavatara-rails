@@ -1,0 +1,129 @@
+{
+ "batch": "batch-16",
+ "segments": [
+  {
+   "id": "6-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-6",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "उन आदि दुःखों को",
+     "evidence": "Tibetan 'དེ་ལ་སོགས། སྡུག་བསྔལ་དག' means 'these and other such sufferings' (referring back to the sufferings just described); 'उन आदि' is awkward and hard to parse in Hindi.",
+     "fix": "इन तथा ऐसे अन्य दुःखों को"
+    }
+   ]
+  },
+  {
+   "id": "6-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-13",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "मैं क्यों कातर होता हूँ?",
+     "evidence": "Tibetan 'བདག་གོ་ཅི་ཕྱིར་སྔར' has no word for 'timid'; 'कातर' follows Sanskrit 'kātaraḥ'. bo-kunpal 6-13 glosses 'བདག་གིས་ཅི་ཡིས་ཕྱིར་སྔར་ཏེ་སྔར་མི་རིགས་སོ' and bo-gyaltsab 6-13 'བདག་ཅི་ཞིག་བསྟར་ཏེ་བཟོད་པར་རིགས་སོ', i.e. the point is that I should rightly endure it for liberation (english_academic: 'Why should I not endure it?').",
+     "fix": "तो मुक्ति के लिए मैं (पहले ही) क्यों न सहूँ?"
+    }
+   ]
+  },
+  {
+   "id": "6-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-17",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "हो जाते हैं。",
+     "evidence": "The final line ends with the CJK full stop '。' instead of the Devanagari danda '।' used in every other line; a typographic slip, meaning intact.",
+     "fix": "मूर्छित और अचेत हो जाते हैं।"
+    }
+   ]
+  },
+  {
+   "id": "6-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-21",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

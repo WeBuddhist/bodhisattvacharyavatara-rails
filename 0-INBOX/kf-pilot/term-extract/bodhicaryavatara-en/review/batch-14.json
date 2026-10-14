@@ -1,0 +1,359 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "7-0",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-1",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-2",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ངན་ལ་ཞེན་པ",
+      "reason": "Specific technical type of laziness",
+      "dm": "attachment to what is base",
+      "gm": "clinging to what is bad"
+     }
+    ]
+   },
+   {
+    "id": "7-3",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-4",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-5",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-6",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-7",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Ordinary verb here"
+     }
+    ],
+    "fix_span": [
+     {
+      "n": 2,
+      "bo_fixed": "ཚོགས"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "7-8",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-9",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-10",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-11",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སྡིག",
+      "reason": "Buddhist technical term",
+      "dm": "sinful deeds",
+      "gm": "evils"
+     }
+    ]
+   },
+   {
+    "id": "7-12",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ལས",
+      "reason": "Buddhist technical term",
+      "dm": "actions",
+      "gm": "deeds"
+     }
+    ]
+   },
+   {
+    "id": "7-13",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-14",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "One-off metaphorical simile"
+     },
+     {
+      "n": 2,
+      "reason": "One-off metaphorical phrasing"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-15",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-16",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 3,
+      "bo_fixed": "ལྷུར་བླང་"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "7-17",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-18",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-19",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-20",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-21",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-22",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-23",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-24",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-25",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-26",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-27",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-28",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-29",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-30",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "One-off metaphorical phrasing"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-31",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-32",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-33",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-34",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-35",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-36",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "Ordinary noun in this context"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-37",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "7-38",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "7-7",
+    "bo": "འཆི",
+    "reason": "Ordinary verb here"
+   },
+   {
+    "id": "7-14",
+    "bo": "མི་ཡི་གྲུ",
+    "reason": "One-off metaphorical simile"
+   },
+   {
+    "id": "7-14",
+    "bo": "སྡུག་བསྔལ་ཆུ་བོ་ཆེ",
+    "reason": "One-off metaphorical phrasing"
+   },
+   {
+    "id": "7-30",
+    "bo": "བྱང་ཆུབ་སེམས་ཀྱི་རྟ",
+    "reason": "One-off metaphorical phrasing"
+   },
+   {
+    "id": "7-36",
+    "bo": "སྐྱེ་བ",
+    "reason": "Ordinary noun in this context"
+   }
+  ],
+  "fix_span": [
+   {
+    "id": "7-7",
+    "bo": "ཚོགས་བསག",
+    "bo_fixed": "ཚོགས"
+   },
+   {
+    "id": "7-16",
+    "bo": "ལྷུར་བླང",
+    "bo_fixed": "ལྷུར་བླང་"
+   }
+  ],
+  "add": [
+   {
+    "id": "7-2",
+    "bo": "ངན་ལ་ཞེན་པ",
+    "dm": "attachment to what is base",
+    "gm": "clinging to what is bad",
+    "reason": "Specific technical type of laziness"
+   },
+   {
+    "id": "7-11",
+    "bo": "སྡིག",
+    "dm": "sinful deeds",
+    "gm": "evils",
+    "reason": "Buddhist technical term"
+   },
+   {
+    "id": "7-12",
+    "bo": "ལས",
+    "dm": "actions",
+    "gm": "deeds",
+    "reason": "Buddhist technical term"
+   }
+  ]
+ }
+}

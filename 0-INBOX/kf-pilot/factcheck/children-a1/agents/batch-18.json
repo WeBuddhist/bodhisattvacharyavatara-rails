@@ -1,0 +1,252 @@
+{
+ "batch": "batch-18",
+ "segments": [
+  {
+   "id": "8-171",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "handed me over to suffering",
+     "evidence": "The academic text says only \"handed me over time and again\"; no object such as suffering is stated.",
+     "fix": "You have handed me over again and again. I have suffered for a long time."
+    }
+   ]
+  },
+  {
+   "id": "8-172",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-173",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-174",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-175",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-176",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-177",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-178",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-179",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-180",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-181",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-182",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-183",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "a tool for doing good",
+     "evidence": "Academic: \"an instrument for action\" (ལས་ཀྱི་སྤྱད); \"for doing good\" is not stated.",
+     "fix": "I will keep it like a tool for getting things done."
+    }
+   ]
+  },
+  {
+   "id": "8-184",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-185",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "Even a meditation master has a different level of thinking mind.",
+     "evidence": "Academic: yogis differ from one another in intellect, and are refuted by those successively higher; the children's line reads as if one master differs from something unnamed.",
+     "fix": "Meditation masters are not all equal in their thinking minds. A higher master proves a lower one wrong."
+    }
+   ]
+  },
+  {
+   "id": "9-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-14",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "trapped in the world",
+     "evidence": "Academic: \"even a Buddha would cycle [in saṃsāra]\"; the locked term for འཁོར་བ is \"cycle of rebirth\", while \"world\" is locked for འཇིག་རྟེན.",
+     "fix": "Since even a Buddha would keep going around in the cycle of rebirth, what is the use of the way of acting for awakening?"
+    }
+   ]
+  },
+  {
+   "id": "9-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-24",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "Because of a special circumstance, a person can see that the mind shines to itself.",
+     "evidence": "Academic: the opponent argues that because the mind, endowed with other conditions, sees (objects), it is luminous to itself. The children's text says a person sees the mind shining, and turns \"other conditions\" into a \"special circumstance\".",
+     "fix": "Someone might say, \"The mind has other circumstances to help it see, so it shines to itself.\""
+    },
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "a hidden vase",
+     "evidence": "Academic: \"the vase is seen\"; nothing says the vase was hidden.",
+     "fix": "lets you see a vase"
+    }
+   ]
+  }
+ ]
+}

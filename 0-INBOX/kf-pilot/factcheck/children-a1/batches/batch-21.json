@@ -1,0 +1,820 @@
+[
+ {
+  "id": "9-105",
+  "tibetan": "འོན་ཏེ་ཤེས་བྱའི་ཕྱིས་ཡོད་ན། ། དེ་ཚེ་ཤེས་པ་གང་ལས་སྐྱེ། ། དེ་ལྟར་ཆོས་རྣམས་ཐམས་ཅད་ཀྱི། ། སྐྱེ་བ་རྟོགས་པར་འགྱུར་མ་ཡིན། །",
+  "academic_translation": "But if it exists after the object of knowledge,\nThen from what does consciousness arise?\nIn this way, of all phenomena,\nArising cannot be realized.",
+  "locked_terms": [
+   {
+    "tibetan": "ཤེས་བྱ",
+    "use": "thing to know"
+   },
+   {
+    "tibetan": "ཤེས་པ",
+    "use": "awareness"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "thing that appears"
+   },
+   {
+    "tibetan": "སྐྱེ་བ",
+    "use": "coming into being"
+   }
+  ],
+  "translation": "But if awareness comes after the thing to know, what causes it? Because of this, we cannot see the coming into being of any things that appear."
+ },
+ {
+  "id": "9-106",
+  "tibetan": "གལ་ཏེ་དེ་ལྟར་ཀུན་རྫོབ་མེད། ། དེ་ལ་བདེན་གཉིས་ག་ལ་ཡོད། ། དེ་ཡང་ཀུན་རྫོབ་གཞན་གྱིས་ན། ། སེམས་ཅན་མྱ་ངན་ག་ལ་འདའ། །",
+  "academic_translation": "\"If, in this way, conventional truth does not exist,\nHow could there be the two truths?\nAnd if that is through another conventional truth,\nHow could sentient beings pass into nirvāṇa?\"",
+  "locked_terms": [
+   {
+    "tibetan": "ཀུན་རྫོབ",
+    "use": "everyday truth"
+   },
+   {
+    "tibetan": "བདེན་གཉིས",
+    "use": "two truths"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   }
+  ],
+  "translation": "Someone might say, \"If everyday truth does not exist, how could there be the two truths? And if it relies on another everyday truth, how could living beings reach nirvana?\""
+ },
+ {
+  "id": "9-107",
+  "tibetan": "འདི་ནི་གཞན་སེམས་རྣམ་རྟོག་སྟེ། ། དེ་ནི་རང་གི་ཀུན་རྫོབ་མིན། ། ཕྱིས་དེ་ངེས་ན་དེ་ཡོད་དེ། ། མིན་ན་ཀུན་རྫོབ་མེད་པ་ཉིད། །",
+  "academic_translation": "This is the conceptual thought of another's mind;\nIt is not one's own conventional truth.\nIf that is ascertained later, it exists;\nIf not, conventional truth simply does not exist.",
+  "locked_terms": [
+   {
+    "tibetan": "རྣམ་རྟོག",
+    "use": "busy thinking"
+   },
+   {
+    "tibetan": "ཀུན་རྫོབ",
+    "use": "everyday truth"
+   }
+  ],
+  "translation": "This is just the busy thinking of someone else's mind. It is not my own everyday truth. If it is figured out later, it exists. If not, everyday truth simply does not exist."
+ },
+ {
+  "id": "9-108",
+  "tibetan": "རྟོག་དང་བརྟག་པར་བྱ་བ་དག ། གཉིས་པོ་ཕན་ཚུན་བརྟེན་པ་ཡིན། ། ཇི་ལྟར་གྲགས་པ་ལ་བརྟེན་ནས། ། རྣམ་པར་དཔྱད་པ་ཐམས་ཅད་བརྗོད། །",
+  "academic_translation": "Conceptual thought and what is to be conceptualized,\nThe two are mutually dependent.\nRelying on what is commonly known,\nAll analyses are expressed.",
+  "locked_terms": [
+   {
+    "tibetan": "རྟོག",
+    "use": "imagining"
+   },
+   {
+    "tibetan": "རྣམ་པར་དཔྱད་པ",
+    "use": "careful examination"
+   }
+  ],
+  "translation": "Imagining and the thing imagined depend on each other. We can only share our careful examinations by relying on what people already know."
+ },
+ {
+  "id": "9-109",
+  "tibetan": "གང་ཚེ་རྣམ་པར་དཔྱད་པ་ཡི། ། རྣམ་དཔྱོད་ཀྱིས་ནི་དཔྱོད་བྱེད་ན། ། དེ་ཚེ་རྣམ་དཔྱོད་དེ་ཡང་ནི། ། རྣམ་དཔྱོད་ཕྱིར་ན་ཐུག་པ་མེད། །",
+  "academic_translation": "\"When one analyzes with an analysis\nThat is itself analyzed,\nThen that analysis too,\nBecause of analysis, has no end.\"",
+  "locked_terms": [
+   {
+    "tibetan": "རྣམ་དཔྱོད",
+    "use": "careful thinking"
+   }
+  ],
+  "translation": "Someone might say, \"If you test things with careful thinking that must also be tested, then that careful thinking has no end.\""
+ },
+ {
+  "id": "9-110",
+  "tibetan": "དཔྱད་བྱ་རྣམ་པར་དཔྱད་བྱས་ན། ། རྣམ་དཔྱོད་ལ་ནི་རྟེན་ཡོད་མིན། ། རྟེན་མེད་ཕྱིར་ན་མི་སྐྱེ་སྟེ། ། དེ་ཡང་མྱ་ངན་འདས་པར་བརྗོད། །",
+  "academic_translation": "When the object of analysis has been analyzed,\nThere is no basis for the analysis.\nBecause there is no basis, it does not arise,\nAnd that too is expressed as nirvāṇa.",
+  "locked_terms": [
+   {
+    "tibetan": "དཔྱད་བྱ",
+    "use": "thing being examined"
+   },
+   {
+    "tibetan": "རྣམ་དཔྱོད",
+    "use": "careful thinking"
+   },
+   {
+    "tibetan": "རྟེན",
+    "use": "support"
+   },
+   {
+    "tibetan": "མྱ་ངན་འདས་པ",
+    "use": "freedom from sorrow"
+   }
+  ],
+  "translation": "When you look closely at the thing being examined, there is no support left for careful thinking. Because there is no support, careful thinking does not happen. That is what we call freedom from sorrow."
+ },
+ {
+  "id": "9-111",
+  "tibetan": "གང་གི་ལྟར་ན་འདི་གཉིས་བདེན། ། དེ་ཉིད་ཤིན་ཏུ་དཀའ་བར་གནས། ། གལ་ཏེ་ཤེས་དབང་ལས་དོན་གྲུབ། ། ཤེས་ཡོད་ཉིད་ལ་རྟེན་ཅི་ཡོད། །",
+  "academic_translation": "For those who hold that these two are true,\nThat very position is extremely difficult to maintain.\nIf the object is established through the power of consciousness,\nWhat basis is there for the existence of consciousness itself?",
+  "locked_terms": [
+   {
+    "tibetan": "དོན",
+    "use": "object"
+   },
+   {
+    "tibetan": "ཤེས་དབང",
+    "use": "power of awareness"
+   },
+   {
+    "tibetan": "རྟེན",
+    "use": "support"
+   },
+   {
+    "tibetan": "ཤེས",
+    "use": "awareness"
+   }
+  ],
+  "translation": "Some people say these two are true. That idea is very hard to defend. If an object exists through the power of awareness, what support is there for awareness itself?"
+ },
+ {
+  "id": "9-112",
+  "tibetan": "འོན་ཏེ་ཤེས་བྱ་ལས་ཤེས་གྲུབ། ། ཤེས་བྱ་ཡོད་ལ་རྟེན་ཅི་ཡོད། ། དེ་སྟེ་ཕན་ཚུན་དབང་གིས་ཡོད། ། གཉི་ག་ཡང་ནི་མེད་པར་འགྱུར། །",
+  "academic_translation": "If, however, consciousness is established through the object of knowledge,\nWhat basis is there for the existence of the object of knowledge?\nIf they exist by the power of one another,\nBoth of them would not exist.",
+  "locked_terms": [
+   {
+    "tibetan": "ཤེས་བྱ",
+    "use": "thing to know"
+   },
+   {
+    "tibetan": "རྟེན",
+    "use": "support"
+   },
+   {
+    "tibetan": "ཤེས",
+    "use": "awareness"
+   }
+  ],
+  "translation": "But if awareness exists because of the thing to know, what support is there for the thing to know? If they exist because of each other, neither of them would exist."
+ },
+ {
+  "id": "9-113",
+  "tibetan": "གལ་ཏེ་བུ་མེད་ཕ་མིན་ན། ། བུ་ཉིད་གང་ལས་བྱུང་བ་ཡིན། ། བུ་མེད་པར་ནི་ཕ་མེད་པ། ། དེ་བཞིན་དེ་གཉིས་མེད་པ་ཉིད། །",
+  "academic_translation": "If without a son there is no father,\nFrom what does the son himself arise?\nWithout a son there is no father;\nLikewise, those two do not exist.",
+  "locked_terms": [],
+  "translation": "If there is no father without a son, where does the son come from? Without a son, there is no father. In the same way, those two do not exist."
+ },
+ {
+  "id": "9-114",
+  "tibetan": "མྱུ་གུ་ས་བོན་ལས་སྐྱེ་ཞིང་། ། ས་བོན་དེ་ཉིད་ཀྱིས་རྟོགས་བཞིན། ། ཤེས་བྱ་ལས་སྐྱེས་ཤེས་པ་ཡིས། ། དེ་ཡོད་པ་ནི་ཅིས་མི་རྟོགས། །",
+  "academic_translation": "\"A sprout arises from a seed, and\nJust as the seed is known by that very sprout,\nBy the consciousness arisen from the object of knowledge,\nWhy is its existence not known?\"",
+  "locked_terms": [
+   {
+    "tibetan": "ཤེས་བྱ",
+    "use": "thing to know"
+   },
+   {
+    "tibetan": "ཤེས་པ",
+    "use": "awareness"
+   },
+   {
+    "tibetan": "མྱུ་གུ",
+    "use": "sprout"
+   },
+   {
+    "tibetan": "ས་བོན",
+    "use": "seed"
+   }
+  ],
+  "translation": "Someone might say, \"A sprout grows from a seed. That very sprout lets us know the seed exists. Awareness comes from the thing to know. So why doesn't that awareness let us know the thing to know exists?\""
+ },
+ {
+  "id": "9-115",
+  "tibetan": "མྱུ་གུ་ལས་གཞན་ཤེས་པ་ཡིས། ། ས་བོན་ཡོད་ཅེས་རྟོགས་འགྱུར་ན། ། གང་ཕྱིར་ཤེས་བྱ་དེ་རྟོགས་པ། ། ཤེས་པ་ཡོད་ཉིད་གང་ལས་རྟོགས། །",
+  "academic_translation": "If, by a consciousness other than the sprout,\nIt is known that the seed exists,\nAs for that by which the object of knowledge is known,\nFrom what is the existence of consciousness itself known?",
+  "locked_terms": [
+   {
+    "tibetan": "ཤེས་པ",
+    "use": "awareness"
+   },
+   {
+    "tibetan": "ཤེས་བྱ",
+    "use": "thing to know"
+   },
+   {
+    "tibetan": "མྱུ་གུ",
+    "use": "sprout"
+   },
+   {
+    "tibetan": "ས་བོན",
+    "use": "seed"
+   }
+  ],
+  "translation": "If an awareness different from the sprout knows the seed exists, then an awareness is what knows the thing to know. But what lets us know that awareness itself exists?"
+ },
+ {
+  "id": "9-116",
+  "tibetan": "རེ་ཞིག་འཇིག་རྟེན་མངོན་སུམ་གྱིས། ། རྒྱུ་རྣམས་ཐམས་ཅད་མཐོང་བ་ཡིན། ། པདྨའི་སྡོང་བུ་སོགས་དབྱེ་ནི། ། རྒྱུ་ཡི་དབྱེ་བས་བསྐྱེད་པ་ཡིན། །",
+  "academic_translation": "For now, by worldly direct perception,\nAll causes are seen.\nThe distinctions of the lotus stalk and so forth\nAre produced by the distinctions of causes.",
+  "locked_terms": [
+   {
+    "tibetan": "འཇིག་རྟེན་མངོན་སུམ",
+    "use": "everyday direct seeing"
+   },
+   {
+    "tibetan": "རྒྱུ",
+    "use": "cause"
+   }
+  ],
+  "translation": "Right now, through everyday direct seeing, we can see all causes. Different things, like the parts of a lotus plant, are made by different causes."
+ },
+ {
+  "id": "9-117",
+  "tibetan": "རྒྱུ་དབྱེ་གང་གིས་བྱས་ཞེ་ན། ། སྔར་གྱི་རྒྱུ་དབྱེ་ཉིད་ལས་སོ། ། ཅི་ཕྱིར་རྒྱུ་ཡིས་འབྲས་སྐྱེད་ནུས། ། སྔར་གྱི་རྒྱུ་ཡི་མཐུ་ཉིད་ལས། །",
+  "academic_translation": "If you ask what made the distinctions of causes,\nIt is from the very distinctions of preceding causes.\nWhy is a cause able to produce a result?\nFrom the very power of the preceding cause.",
+  "locked_terms": [
+   {
+    "tibetan": "རྒྱུ",
+    "use": "cause"
+   },
+   {
+    "tibetan": "འབྲས",
+    "use": "result"
+   }
+  ],
+  "translation": "If you ask what made those different causes, they come from the different causes that happened before them. Why is a cause able to make a result? It gets its power from the cause that came before it."
+ },
+ {
+  "id": "9-118",
+  "tibetan": "དབང་ཕྱུག་འགྲོ་བའི་རྒྱུ་ཡིན་ན། ། རེ་ཞིག་དབང་ཕྱུག་གང་ཡིན་སྨྲོས། ། འབྱུང་རྣམས་ཞེ་ན་དེ་ལྟ་མོད། ། མིང་ཙམ་ལ་ཡང་ཅི་ཞིག་ངལ། །",
+  "academic_translation": "If Īśvara is the cause of wandering beings,\nFor a start, state what Īśvara is!\nIf you say it is the elements, so be it,\nBut why weary yourself over a mere name?",
+  "locked_terms": [
+   {
+    "tibetan": "དབང་ཕྱུག",
+    "use": "Creator"
+   },
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   },
+   {
+    "tibetan": "འབྱུང",
+    "use": "element"
+   }
+  ],
+  "translation": "Someone might say a Creator is the cause of every being. First, tell me what this Creator is! If you say the Creator is just the elements, fine. But why tire yourself out arguing over a simple name?"
+ },
+ {
+  "id": "9-119",
+  "tibetan": "འོན་ཀྱང་ས་སོགས་དུ་མ་དང་། ། མི་རྟག་གཡོ་མེད་ལྷ་མིན་ཞིང་། ། འགོམ་བྱ་ཉིད་དང་མི་གཙང་བས། ། དེ་ནི་དབང་ཕྱུག་ཉིད་མ་ཡིན། །",
+  "academic_translation": "However, earth and so forth are multiple,\nImpermanent, inert, and not divine;\nSince they are to be trodden upon and are impure,\nThey are not Īśvara himself.",
+  "locked_terms": [
+   {
+    "tibetan": "མི་རྟག",
+    "use": "not lasting"
+   },
+   {
+    "tibetan": "དབང་ཕྱུག",
+    "use": "Creator"
+   },
+   {
+    "tibetan": "ས",
+    "use": "earth"
+   },
+   {
+    "tibetan": "མི་གཙང་བ",
+    "use": "unclean"
+   }
+  ],
+  "translation": "But things like earth are many. They are not lasting, they do nothing on their own, and they are not holy. Since they are things we walk on and they are unclean, they are not the Creator."
+ },
+ {
+  "id": "9-120",
+  "tibetan": "དབང་ཕྱུག་མཁའ་མིན་གཡོ་མེད་ཕྱིར། ། བདག་མིན་སྔར་ནི་བཀག་ཟིན་ཕྱིར། ། བསམ་མིན་པ་ཡི་བྱེད་པོ་ཡང་། ། བསམ་མིན་བརྗོད་པས་ཅི་ཞིག་བྱ། །",
+  "academic_translation": "Īśvara is not space, because it is inert;\nHe is not the self, because it was already refuted;\nAnd as for a creator who is inconceivable,\nWhat is the point of speaking of the inconceivable?",
+  "locked_terms": [
+   {
+    "tibetan": "དབང་ཕྱུག",
+    "use": "Creator"
+   },
+   {
+    "tibetan": "མཁའ",
+    "use": "space"
+   },
+   {
+    "tibetan": "བདག",
+    "use": "self"
+   },
+   {
+    "tibetan": "བསམ་མིན",
+    "use": "beyond thought"
+   },
+   {
+    "tibetan": "བྱེད་པོ",
+    "use": "maker of the world"
+   }
+  ],
+  "translation": "The Creator is not space, because space does nothing. He is not the self, because I already proved that wrong. And if you say the maker of the world is beyond thought, what is the point of talking about something beyond thought?"
+ },
+ {
+  "id": "9-121",
+  "tibetan": "དེས་བསྐྱེད་འདོད་པའང་གང་ཞིག་ཡིན། ། བདག་ནི་དེ་དང་ས་སོགས་དང་། ། དབང་ཕྱུག་ངོ་བོའང་རྟག་མིན་ནམ། ། ཤེས་པ་ཤེས་བྱ་ལས་སྐྱེ་དང་། །",
+  "academic_translation": "And what is it that he is asserted to produce?\nAre not that self, earth and so forth,\nAnd the essence of Īśvara permanent?\nConsciousness arises from the object of knowledge, and",
+  "locked_terms": [
+   {
+    "tibetan": "དབང་ཕྱུག",
+    "use": "Creator"
+   },
+   {
+    "tibetan": "བདག",
+    "use": "self"
+   },
+   {
+    "tibetan": "རྟག",
+    "use": "lasting forever"
+   },
+   {
+    "tibetan": "ཤེས་པ",
+    "use": "awareness"
+   },
+   {
+    "tibetan": "ཤེས་བྱ",
+    "use": "thing to know"
+   },
+   {
+    "tibetan": "ས",
+    "use": "earth"
+   }
+  ],
+  "translation": "Also, what do you claim he makes? Don't you say that the self, earth, and the true nature of the Creator are lasting forever? Awareness comes from a thing to know, and..."
+ },
+ {
+  "id": "9-122",
+  "tibetan": "ཐོག་མེད་བདེ་སྡུག་ལས་ལས་ཡིན། ། དེ་ཡིས་གང་ཞིག་བསྐྱེད་པ་སྨྲོས། ། རྒྱུ་ལ་ཐོག་མ་ཡོད་མིན་ན། ། འབྲས་བུའི་ཐོག་མ་ག་ལ་ཡོད། །",
+  "academic_translation": "Beginningless happiness and suffering are from karma.\nTell me, what was generated by him?\nIf the cause has no beginning,\nHow can there be a beginning to the result?",
+  "locked_terms": [
+   {
+    "tibetan": "ལས",
+    "use": "action"
+   },
+   {
+    "tibetan": "ཐོག་མེད",
+    "use": "without a beginning"
+   },
+   {
+    "tibetan": "བདེ་སྡུག",
+    "use": "happiness and suffering"
+   },
+   {
+    "tibetan": "རྒྱུ",
+    "use": "cause"
+   },
+   {
+    "tibetan": "འབྲས་བུ",
+    "use": "result"
+   }
+  ],
+  "translation": "Happiness and suffering are without a beginning. They come from our actions. Tell me, what was made by him? If the cause is without a beginning, how can there be a beginning to the result?"
+ },
+ {
+  "id": "9-123",
+  "tibetan": "རྟག་ཏུ་ཅི་ཕྱིར་བྱེད་མིན་ཏེ། ། དེ་ནི་གཞན་ལ་ལྟོས་པ་མིན། ། དེས་བྱས་མིན་གཞན་ཡོད་མིན་ན། ། དེས་འདི་གང་ལ་ལྟོས་པར་འགྱུར། །",
+  "academic_translation": "Why does he not create constantly?\nFor he does not depend on another.\nIf there is nothing else that was not made by him,\nUpon what would he depend?",
+  "locked_terms": [],
+  "translation": "Why does he not create things all the time? He does not depend on anyone else. If there is nothing else that he did not make, what would he depend on?"
+ },
+ {
+  "id": "9-124",
+  "tibetan": "གལ་ཏེ་ལྟོས་ན་ཚོགས་པ་ཉིད། ། རྒྱུ་ཡིན་འགྱུར་གྱི་དབང་ཕྱུག་མིན། ། ཚོགས་ན་མི་སྐྱེ་དབང་མེད་ཅིང་། ། དེ་མེད་པར་ནི་སྐྱེ་དབང་མེད། །",
+  "academic_translation": "If he depends, then the collection itself\nWould be the cause, and not Īśvara.\nWhen assembled, there is no power not to produce,\nAnd without it, there is no power to produce.",
+  "locked_terms": [
+   {
+    "tibetan": "ཚོགས་པ",
+    "use": "gathering"
+   },
+   {
+    "tibetan": "རྒྱུ",
+    "use": "cause"
+   },
+   {
+    "tibetan": "དབང་ཕྱུག",
+    "use": "Creator"
+   }
+  ],
+  "translation": "If he depends on things, then the gathering itself would be the cause. It would not be the Creator. When there is a gathering, there is no power to stop it from producing. Without it, there is no power to produce."
+ },
+ {
+  "id": "9-125",
+  "tibetan": "གལ་ཏེ་དབང་ཕྱུག་མི་འདོད་བཞིན། ། བྱེད་ན་གཞན་གྱི་དབང་དུ་ཐལ། ། འདོད་ནའང་འདོད་ལ་རག་ལས་འགྱུར། ། བྱེད་ནའང་དབང་ཕྱུག་ག་ལ་ཡིན། །",
+  "academic_translation": "If Īśvara acts without desiring to,\nIt follows that he is under the control of another.\nEven if he desires, he is dependent upon desire.\nIf he acts, how is he Īśvara?",
+  "locked_terms": [
+   {
+    "tibetan": "དབང་ཕྱུག",
+    "use": "Creator"
+   }
+  ],
+  "translation": "If the Creator acts without wanting to, he is controlled by another. Even if he wants to act, he depends on his own desire. If he acts like this, how is he the Creator?"
+ },
+ {
+  "id": "9-126",
+  "tibetan": "གང་དག་རྡུལ་ཕྲན་རྟག་སྨྲ་བ། ། དེ་དག་ཀྱང་ནི་སྔར་བཟློག་ཟིན། ། གཙོ་བོ་རྟག་པ་འགྲོ་བ་ཡི། ། རྒྱུ་ཡིན་པར་ནི་གྲངས་ཅན་འདོད། །",
+  "academic_translation": "Those who assert permanent atoms\nHave also already been refuted earlier.\nThe Sāṃkhyas assert that the permanent Pradhāna\nIs the cause of wandering beings.",
+  "locked_terms": [
+   {
+    "tibetan": "རྡུལ་ཕྲན",
+    "use": "atom"
+   },
+   {
+    "tibetan": "རྟག་པ",
+    "use": "never-changing"
+   },
+   {
+    "tibetan": "གཙོ་བོ",
+    "use": "Primal Matter"
+   },
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   },
+   {
+    "tibetan": "གྲངས་ཅན",
+    "use": "Samkhya"
+   },
+   {
+    "tibetan": "རྒྱུ",
+    "use": "cause"
+   }
+  ],
+  "translation": "People who believe in a never-changing atom have already been proven wrong. The Samkhya thinkers say that a never-changing Primal Matter is the cause of beings."
+ },
+ {
+  "id": "9-127",
+  "tibetan": "སྙིང་སྟོབས་རྡུལ་དང་མུན་པ་ཞེས། ། བྱ་བའི་ཡོན་ཏན་མཉམ་གནས་ནི། ། གཙོ་བོ་ཞེས་བྱར་རབ་བརྗོད་དེ། ། མི་མཉམ་འགྲོ་བ་ཡིན་པར་བརྗོད། །",
+  "academic_translation": "The equilibrium of the good qualities\nKnown as sattva, rajas, and tamas,\nIs proclaimed to be the Pradhāna;\nTheir disequilibrium is said to be wandering beings.",
+  "locked_terms": [
+   {
+    "tibetan": "སྙིང་སྟོབས",
+    "use": "brightness"
+   },
+   {
+    "tibetan": "རྡུལ",
+    "use": "restlessness"
+   },
+   {
+    "tibetan": "མུན་པ",
+    "use": "darkness"
+   },
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   },
+   {
+    "tibetan": "གཙོ་བོ",
+    "use": "Primal Matter"
+   },
+   {
+    "tibetan": "མཉམ་གནས",
+    "use": "perfect balance"
+   },
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   }
+  ],
+  "translation": "They say there are good qualities known as brightness, restlessness, and darkness. Their perfect balance is called Primal Matter. When they are out of balance, they are said to be beings."
+ },
+ {
+  "id": "9-128",
+  "tibetan": "གཅིག་ལ་རང་བཞིན་གསུམ་ཉིད་ནི། ། རིགས་མིན་དེས་ན་དེ་ཡོད་མིན། ། དེ་བཞིན་ཡོན་ཏན་ཡོད་མིན་ཏེ། ། དེ་ཡང་སོ་སོར་རྣམ་གསུམ་ཕྱིར། །",
+  "academic_translation": "For one thing to have three natures\nIs illogical; therefore, it does not exist.\nLikewise, the good qualities do not exist,\nBecause they too each have three aspects.",
+  "locked_terms": [
+   {
+    "tibetan": "རང་བཞིན",
+    "use": "nature"
+   },
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   }
+  ],
+  "translation": "It does not make sense for one thing to have three natures. So, it does not exist. In the same way, the good qualities do not exist. That is because they each have three parts too."
+ },
+ {
+  "id": "9-129",
+  "tibetan": "ཡོན་ཏན་མེད་ན་སྒྲ་སོགས་ཀྱང་། ། ཡོད་ཉིད་ཤིན་ཏུ་རྒྱང་རིང་འགྱུར། ། སེམས་མེད་གོས་ལ་སོགས་པ་ལ། ། བདེ་སོགས་ཡོད་པ་སྲིད་པའང་མིན། །",
+  "academic_translation": "If the good qualities do not exist, the existence\nOf sound and so forth also becomes extremely remote.\nIn insentient things such as clothing,\nIt is even impossible for happiness and so forth to exist.",
+  "locked_terms": [
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   },
+   {
+    "tibetan": "སྒྲ",
+    "use": "sound"
+   },
+   {
+    "tibetan": "བདེ",
+    "use": "happiness"
+   },
+   {
+    "tibetan": "སེམས་མེད",
+    "use": "thing without a mind"
+   }
+  ],
+  "translation": "If the good qualities do not exist, things like sound cannot exist either. A piece of clothing is a thing without a mind. So, it is impossible for happiness and other feelings to exist in it."
+ },
+ {
+  "id": "9-130",
+  "tibetan": "དངོས་རྣམས་དེ་རྒྱུའི་རང་བཞིན་ན། ། དངོས་པོ་རྣམ་དཔྱད་ཟིན་མིན་ནམ། ། ཁྱོད་ཀྱི་རྒྱུ་ཡང་བདེ་སོགས་ཉིད། ། དེ་ལས་སྣམ་སོགས་འབྱུང་བའང་མེད། །",
+  "academic_translation": "If entities have the nature of their cause,\nHave entities not already been analyzed?\nYour cause, moreover, is just happiness and so forth,\nAnd from that, cloth and so forth do not arise.",
+  "locked_terms": [
+   {
+    "tibetan": "དངོས་པོ",
+    "use": "thing"
+   },
+   {
+    "tibetan": "རྒྱུ",
+    "use": "cause"
+   },
+   {
+    "tibetan": "རང་བཞིན",
+    "use": "nature"
+   },
+   {
+    "tibetan": "བདེ",
+    "use": "happiness"
+   }
+  ],
+  "translation": "If things have the nature of their cause, haven't we already looked closely at this? You say your cause is just happiness and other feelings. But cloth and other things do not come from happiness."
+ },
+ {
+  "id": "9-131",
+  "tibetan": "སྣམ་སོགས་ལས་ནི་བདེ་སོགས་ཡིན། ། དེ་མེད་ཕྱིར་ན་བདེ་སོགས་མེད། ། བདེ་སོགས་རྟག་པ་ཉིད་དུ་ཡང་། ། ནམ་ཡང་དམིགས་པ་ཡོད་མ་ཡིན། །",
+  "academic_translation": "Happiness and so forth arise from cloth and so forth;\nSince those do not exist, happiness and so forth do not exist.\nFurthermore, happiness and so forth as permanent\nAre never observed.",
+  "locked_terms": [
+   {
+    "tibetan": "བདེ",
+    "use": "happiness"
+   },
+   {
+    "tibetan": "རྟག་པ",
+    "use": "never-changing"
+   }
+  ],
+  "translation": "You might say happiness and other feelings come from things like cloth. Since those things do not exist, happiness does not exist either. Also, we never see happiness as something never-changing."
+ },
+ {
+  "id": "9-132",
+  "tibetan": "བདེ་སོགས་གསལ་བ་ཡོད་ཉིད་ན། ། མྱོང་བ་ཅི་ཕྱིར་འཛིན་མ་ཡིན། ། དེ་ཉིད་ཕྲ་མོར་གྱུར་ན་དེ། ། རགས་དང་ཕྲ་བའང་ཇི་ལྟར་ཡིན། །",
+  "academic_translation": "If the manifestation of happiness and so forth exists,\nWhy is the experience not apprehended?\nIf that very thing becomes subtle,\nHow can it be both coarse and subtle?",
+  "locked_terms": [
+   {
+    "tibetan": "བདེ",
+    "use": "happiness"
+   },
+   {
+    "tibetan": "མྱོང་བ",
+    "use": "feeling"
+   },
+   {
+    "tibetan": "རགས",
+    "use": "rough"
+   },
+   {
+    "tibetan": "ཕྲ་བ",
+    "use": "fine"
+   }
+  ],
+  "translation": "If happiness is showing itself, why do you not notice the feeling? If that same thing becomes fine, how can it be both rough and fine?"
+ },
+ {
+  "id": "9-133",
+  "tibetan": "རགས་པ་དོར་ནས་ཕྲ་གྱུར་པས། ། ཕྲ་རགས་དེ་དག་མི་རྟག་ཉིད། ། དེ་བཞིན་དངོས་པོ་ཐམས་ཅད་ནི། ། མི་རྟག་ཉིད་དུ་ཅིས་མི་འདོད། །",
+  "academic_translation": "Since it abandons the coarse and becomes subtle,\nThe subtle and coarse are impermanence.\nLikewise, why do you not accept\nThe impermanence of all entities?",
+  "locked_terms": [
+   {
+    "tibetan": "རགས་པ",
+    "use": "rough"
+   },
+   {
+    "tibetan": "ཕྲ",
+    "use": "fine"
+   },
+   {
+    "tibetan": "མི་རྟག་ཉིད",
+    "use": "not lasting"
+   },
+   {
+    "tibetan": "དངོས་པོ",
+    "use": "thing"
+   }
+  ],
+  "translation": "Because it stops being rough and becomes fine, both the fine and the rough are not lasting. In the same way, why do you not agree that all things are not lasting?"
+ },
+ {
+  "id": "9-134",
+  "tibetan": "རགས་པ་བདེ་ལས་གཞན་མིན་ན། ། བདེ་བ་གསལ་བ་མི་རྟག་ཉིད། ། གལ་ཏེ་མེད་པ་འགའ་ཡང་ནི། ། སྐྱེ་མིན་མེད་ཕྱིར་ཞེས་འདོད་ན། །",
+  "academic_translation": "If the coarse is not other than happiness,\nManifest happiness is impermanence itself.\nIf you assert that nothing non-existent whatsoever\nArises, because it is non-existent,",
+  "locked_terms": [
+   {
+    "tibetan": "རགས་པ",
+    "use": "rough"
+   },
+   {
+    "tibetan": "བདེ་བ",
+    "use": "happiness"
+   },
+   {
+    "tibetan": "གསལ་བ",
+    "use": "clear"
+   },
+   {
+    "tibetan": "མི་རྟག་ཉིད",
+    "use": "not lasting"
+   },
+   {
+    "tibetan": "མེད་པ",
+    "use": "non-existent"
+   }
+  ],
+  "translation": "If the rough thing is the same as happiness, then clear happiness is not lasting. Someone might say that a non-existent thing cannot arise because it is non-existent."
+ },
+ {
+  "id": "9-135",
+  "tibetan": "གསལ་བ་མེད་པར་སྐྱེ་བར་ནི། ། ཁྱོད་མི་འདོད་ཀྱང་གནས་པ་ཉིད། ། གལ་ཏེ་རྒྱུ་ལ་འབྲས་གནས་ན། ། ཟན་ཟ་མི་གཙང་ཟ་བར་འགྱུར། །",
+  "academic_translation": "The arising of the manifest that was non-existent\nRemains the case, even if you do not assert it.\nIf the result abides in the cause,\nOne who eats food would eat filth.",
+  "locked_terms": [
+   {
+    "tibetan": "གསལ་བ",
+    "use": "clear"
+   },
+   {
+    "tibetan": "རྒྱུ",
+    "use": "cause"
+   },
+   {
+    "tibetan": "འབྲས",
+    "use": "result"
+   }
+  ],
+  "translation": "But a clear thing still arises even if it was non-existent before. This is true even if you disagree. If the result already lives inside the cause, a person eating food would be eating filth."
+ },
+ {
+  "id": "9-136",
+  "tibetan": "རས་ཀྱི་རིན་གྱིས་རས་བལ་གྱི། ། ས་བོན་ཉོས་ལ་བགོ་བར་གྱིས། ། འཇིག་རྟེན་རྨོངས་པས་མ་མཐོང་ན། ། དེ་ཉིད་ཤེས་ཀྱིས་བཞག་དེ་ཉིད། །",
+  "academic_translation": "With the price of a cotton cloth,\nBuy cotton seeds and wear them!\nIf the world does not see this through delusion,\nThat very thing is posited by the knowers of reality.",
+  "locked_terms": [
+   {
+    "tibetan": "འཇིག་རྟེན",
+    "use": "world"
+   },
+   {
+    "tibetan": "རྨོངས་པ",
+    "use": "confusion"
+   },
+   {
+    "tibetan": "དེ་ཉིད",
+    "use": "the way things really are"
+   }
+  ],
+  "translation": "Use the money for a cotton cloth to buy cotton seeds and wear them! The world might not see this because of confusion. But people who know the way things really are say it is true."
+ },
+ {
+  "id": "9-137",
+  "tibetan": "ཤེས་དེ་འཇིག་རྟེན་ལ་ཡང་ནི། ། ཡོད་པས་ཅི་སྟེ་མཐོང་མ་ཡིན། ། འཇིག་རྟེན་ཚད་མ་ཉིད་མིན་ན། ། གསལ་བ་མཐོང་བའང་བདེན་མ་ཡིན། །",
+  "academic_translation": "That knowledge exists even in the world;\nSince it exists, why is it not seen?\nIf the world is not valid cognition,\nSeeing the manifest is also not true.",
+  "locked_terms": [
+   {
+    "tibetan": "འཇིག་རྟེན",
+    "use": "world"
+   },
+   {
+    "tibetan": "ཚད་མ",
+    "use": "reliable way of knowing"
+   },
+   {
+    "tibetan": "གསལ་བ",
+    "use": "clear"
+   }
+  ],
+  "translation": "The world also has this knowledge. Since it exists, why is it not seen? If the world is not a reliable way of knowing, then seeing a clear thing is also false."
+ },
+ {
+  "id": "9-138",
+  "tibetan": "གལ་ཏེ་ཚད་མ་ཚད་མིན་ན། ། དེས་གཞལ་བརྫུན་པར་མི་འགྱུར་རམ། ། དེ་ཉིད་དུ་ན་སྟོང་པ་ཉིད། ། སྒོམ་པ་དེ་ཕྱིར་མི་འཐད་འགྱུར། །",
+  "academic_translation": "If valid cognition is not valid,\nIs what is measured by it not false?\nIn reality, emptiness—\nMeditation on it therefore becomes untenable.",
+  "locked_terms": [
+   {
+    "tibetan": "ཚད་མ",
+    "use": "reliable way of knowing"
+   },
+   {
+    "tibetan": "སྟོང་པ་ཉིད",
+    "use": "emptiness"
+   },
+   {
+    "tibetan": "སྒོམ་པ",
+    "use": "meditation"
+   }
+  ],
+  "translation": "Someone might ask: If a reliable way of knowing is actually wrong, is what it measures false? If so, meditation on emptiness would not make sense."
+ },
+ {
+  "id": "9-139",
+  "tibetan": "བརྟགས་པའི་དངོས་ལ་མ་རེག་པར། ། དེ་ཡི་དངོས་མེད་འཛིན་མ་ཡིན། ། དེ་ཕྱིར་རྫུན་པའི་དངོས་གང་ཡིན། ། དེ་ཡི་དངོས་མེད་གསལ་བར་རྫུན། །",
+  "academic_translation": "Without contacting the imputed entity,\nIts non-entity is not apprehended.\nTherefore, whatever entity is false,\nIts non-entity is clearly false.",
+  "locked_terms": [
+   {
+    "tibetan": "བརྟགས་པའི་དངོས",
+    "use": "made-up thing"
+   },
+   {
+    "tibetan": "དངོས་མེད",
+    "use": "non-existent thing"
+   }
+  ],
+  "translation": "Without touching a made-up thing, we cannot notice its non-existent thing. Therefore, if an object is false, its non-existent thing is also clearly false."
+ },
+ {
+  "id": "9-140",
+  "tibetan": "དེས་ན་རྨི་ལམ་བུ་ཤི་ལ། ། དེ་མེད་སྙམ་པའི་རྣམ་རྟོག་ནི། ། དེ་ཡོད་རྣམ་པར་རྟོག་པ་ཡི། ། གེགས་ཡིན་དེ་ཡང་རྫུན་པ་ཡིན། །",
+  "academic_translation": "Thus, when a son dies in a dream,\nThe conceptual thought that he does not exist\nIs an obstruction to the conceptual thought that he exists,\nAnd that is also false.",
+  "locked_terms": [
+   {
+    "tibetan": "རྨི་ལམ",
+    "use": "dream"
+   },
+   {
+    "tibetan": "རྣམ་རྟོག",
+    "use": "busy thinking"
+   },
+   {
+    "tibetan": "རྣམ་པར་རྟོག་པ",
+    "use": "idea"
+   }
+  ],
+  "translation": "Think of a son dying in a dream. The busy thinking that he does not exist blocks the idea that he exists. But that is also false."
+ },
+ {
+  "id": "9-141",
+  "tibetan": "དེ་བས་དེ་ལྟར་རྣམ་དཔྱད་པས། ། འགའ་ཡང་རྒྱུ་མེད་ཡོད་མ་ཡིན། ། སོ་སོ་བའམ་འདུས་པ་ཡི། ། རྐྱེན་རྣམས་ལ་ཡང་གནས་མ་ཡིན། །",
+  "academic_translation": "Therefore, by analyzing in this way,\nNothing at all exists without a cause,\nNor does it abide within conditions,\nWhether individual or assembled.",
+  "locked_terms": [
+   {
+    "tibetan": "རྒྱུ་མེད",
+    "use": "without a cause"
+   },
+   {
+    "tibetan": "རྐྱེན",
+    "use": "circumstance"
+   }
+  ],
+  "translation": "By looking closely, nothing at all exists without a cause. It also does not stay inside circumstances. This is true for one circumstance or many together."
+ },
+ {
+  "id": "9-142",
+  "tibetan": "གཞན་ནས་འོངས་པའང་མ་ཡིན་ལ། ། གནས་པ་མ་ཡིན་འགྲོ་མ་ཡིན། ། རྨོངས་པས་བདེན་པར་གང་བྱས་འདི། ། སྒྱུ་མ་ལས་ནི་ཁྱད་ཅི་ཡོད། །",
+  "academic_translation": "It does not come from elsewhere,\nNor does it abide, nor does it go.\nThis which is made true through delusion,\nWhat difference is there from an illusion?",
+  "locked_terms": [
+   {
+    "tibetan": "སྒྱུ་མ",
+    "use": "illusion"
+   },
+   {
+    "tibetan": "རྨོངས་པ",
+    "use": "confusion"
+   }
+  ],
+  "translation": "It does not come from somewhere else. It does not stay, and it does not go away. Confusion makes it seem true. How is it different from an illusion?"
+ },
+ {
+  "id": "9-143",
+  "tibetan": "སྒྱུ་མས་སྤྲུལ་པ་གང་ཡིན་དང་། ། རྒྱུ་རྣམས་ཀྱིས་ནི་གང་སྤྲུལ་པ། ། དེ་ནི་གང་ནས་འོངས་གྱུར་ཅིང་། ། གང་དུ་འགྲོ་བའང་བརྟག་པར་གྱིས། །",
+  "academic_translation": "Whatever is emanated by an illusion,\nAnd whatever is emanated by causes—\nWhere has it come from,\nAnd where does it go? Examine this!",
+  "locked_terms": [
+   {
+    "tibetan": "སྒྱུ་མ",
+    "use": "illusion"
+   },
+   {
+    "tibetan": "རྒྱུ",
+    "use": "cause"
+   }
+  ],
+  "translation": "Think about anything made by an illusion. Think about anything made by causes. Where did it come from? Where does it go? Look closely at this!"
+ },
+ {
+  "id": "9-144",
+  "tibetan": "གང་ཞིག་གང་ནི་ཉེ་བ་ཡིས། ། མཐོང་གྱུར་དེ་མེད་ན་མིན་པ། ། བཅོས་སུ་གཟུགས་བརྙན་དང་མཚུངས་པ། ། དེ་ལ་བདེན་ཉིད་ཇི་ལྟར་ཡོད། །",
+  "academic_translation": "Whatever is seen through the proximity of something,\nAnd is not seen when that is absent,\nIs fabricated, similar to a reflection;\nHow could there be true existence in that?",
+  "locked_terms": [
+   {
+    "tibetan": "གཟུགས་བརྙན",
+    "use": "reflection"
+   },
+   {
+    "tibetan": "བདེན་ཉིད",
+    "use": "being truly real"
+   }
+  ],
+  "translation": "Sometimes a thing is seen only because something else is near. When that other thing is gone, it is not seen. It is made up, just like a reflection. How could being truly real happen in that?"
+ }
+]

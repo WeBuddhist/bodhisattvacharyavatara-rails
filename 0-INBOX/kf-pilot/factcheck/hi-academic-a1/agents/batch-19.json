@@ -1,0 +1,121 @@
+{
+ "batch": "batch-19",
+ "segments": [
+  {
+   "id": "6-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-66",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "हानि के प्रति क्षान्ति करो",
+     "evidence": "Tibetan བཟོད་པར་གྱིས (bo-gyaltsab 6-66: གནོད་པ་བཟོད་པར་གྱིས་ཤིག) is 'practise patience/bear harm'; 'क्षान्ति करो' is not idiomatic Hindi (क्षान्ति is held/practised, 'रखो'/'धारण करो'). Also 'चित्त वाले सचेतन प्राणी' doubles the idea of སེམས་ཡོད (locked: सचेतन प्राणी).",
+     "fix": "इसलिए हानि के प्रति क्षान्ति रखो।"
+    }
+   ]
+  },
+  {
+   "id": "6-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-74",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "काम के लिए जलने आदि,\nनरक में हज़ारों बार भोगे हैं",
+     "evidence": "Tibetan འདོད་པའི་དོན་དུ་སྲེག་ལ་སོགས། དམྱལ་བར་སྟོང་ཕྲག་མྱོང་གྱུར་ཡང་ has an implicit 'I' who experienced the burning etc. (bo-gyaltsab 6-74: བདག་གིས་...དམྱལ་བར་སྡུག་བསྔལ་...མྱོང་བར་གྱུར་ཀྱང་). The Hindi has no subject or clear object, and the plural 'भोगे हैं' does not agree with the bare gerund 'जलने आदि', so the clause is hard to parse.",
+     "fix": "काम के लिए नरक में हज़ारों बार जलने आदि के दुःख मैंने भोगे हैं,"
+    }
+   ]
+  },
+  {
+   "id": "6-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-81",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

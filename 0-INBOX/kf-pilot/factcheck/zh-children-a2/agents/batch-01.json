@@ -1,0 +1,292 @@
+{
+ "batch": "batch-01",
+ "segments": [
+  {
+   "id": "1-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-11",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "脫離眾生受苦的地方",
+     "evidence": "The text says only \"desire to be free from the state/place of beings\"; \"suffering\" is not stated.",
+     "fix": "想要脫離眾生所在的地方，就要好好守護這顆珍貴的覺悟之心。"
+    }
+   ]
+  },
+  {
+   "id": "1-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-32",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "The giving of food and drink is continuous (\"持續供應飲食\"); the children's text drops the continuous provision and only says \"a little food\".",
+     "fix": "如果有人一直給少數眾生一點飲食，卻只在短短的時間裡給一頓飯，還帶著輕視，只讓人飽上半天，世人還是會尊敬他做了好事。"
+    },
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "如果有人只給少數眾生一點食物。他只花短短的時間給一頓飯。就算他帶著輕視",
+     "evidence": "The conditional is broken into separate sentences by full stops, leaving \"如果...。\" and \"就算...\" ungrammatical.",
+     "fix": "如果有人給少數眾生一點食物，只花短短的時間給一頓飯，還帶著輕視，只讓人飽上半天，世人還是會尊敬他做了好事。"
+    }
+   ]
+  },
+  {
+   "id": "1-5",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "想要獲得累積的福氣的智慧",
+     "evidence": "The Tibetan/academic text speaks of the wisdom/intelligence that cultivates merit (\"修福德之慧\"), not wanting to obtain it; wording is also tangled.",
+     "fix": "世界上想要去累積福氣的智慧，在一百次裡偶爾才會出現一次。"
+    }
+   ]
+  },
+  {
+   "id": "10-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-14",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "就隨便他們對我做吧 / 只要有人遇到我、想到我",
+     "evidence": "Academic: \"whatever action does not harm them, let them do it; in relation to me, may none be in vain\". \"Do to me\" and \"meet me, think of me / get benefit\" are not stated.",
+     "fix": "只要是不會傷害到他們自己的事，就讓他們去做吧。希望不管在什麼時候，只要和我有關，就不會有人白費力氣。"
+    }
+   ]
+  },
+  {
+   "id": "3-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-11",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "如果嚴重的墮落，和強大的覺悟之心，在輪迴中交替出現。我就要花很久",
+     "evidence": "The \"if\" clause is cut off by a full stop from its main clause, which is ungrammatical.",
+     "fix": "如果嚴重的墮落，和強大的覺悟之心，在輪迴中交替出現，我就要花很久的時間，才能走到菩薩修行的更高階段。"
+    }
+   ]
+  },
+  {
+   "id": "4-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-101",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-102",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-30",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "因為敬畏而心生恭敬",
+     "evidence": "Academic: respect arises \"out of fear\" (畏懼); \"敬畏\" (awe/reverence) shifts the sense.",
+     "fix": "如果有緣的人因為心裡害怕而生起恭敬，仔細留意就能很輕鬆地生起。"
+    }
+   ]
+  },
+  {
+   "id": "5-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-45",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "當我聽到各種無聊的話語，或是看到許多新奇的景象。如果我參與其中",
+     "evidence": "The \"when\" clause is split from its main clause by a full stop; \"聽到/看到\" then \"參與其中\" is redundant and ungrammatical.",
+     "fix": "當我參與各種無聊的話語，或是許多新奇的景象時，要放下對它們的緊抓不放。"
+    }
+   ]
+  },
+  {
+   "id": "5-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-78",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "下輩子更會帶來巨大的痛苦",
+     "evidence": "Academic: \"in the next life there is also great suffering\" (亦有大苦); \"更\" (even more) adds a comparison that is not there.",
+     "fix": "下輩子也會帶來巨大的痛苦。"
+    }
+   ]
+  },
+  {
+   "id": "5-81",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "Academic says the action is prompted \"always\" (恆) by strong intention; the children's text drops \"always\".",
+     "fix": "如果是一直帶著強烈的心意去做，或是靠解藥的力量去做。"
+    }
+   ]
+  },
+  {
+   "id": "5-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-96",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "隔天一早就要馬上起床",
+     "evidence": "Academic: set firmly in the mind from the start the intention of rising quickly; \"next morning\" and \"before sleep\" timing are not stated.",
+     "fix": "要保持警覺，一開始就在心裡下定決心：要趕快起床。"
+    }
+   ]
+  },
+  {
+   "id": "5-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-1",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

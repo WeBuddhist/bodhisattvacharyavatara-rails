@@ -1,0 +1,708 @@
+[
+ {
+  "id": "10-17",
+  "tibetan": "འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་གི ། ཕྱག་ནས་འབབ་པའི་འོ་རྒྱུན་གྱིས། ། ཡི་དྭགས་རྣམས་ནི་ཚིམ་བྱས་ཤིང་། ། ཁྲུས་བྱས་རྟག་ཏུ་བསིལ་བར་ཤོག །",
+  "academic_translation": "Of the noble Avalokiteśvara,\nBy the stream of milk flowing from his hands,\nMay the hungry ghosts be satisfied,\nAnd having bathed, may they always be cooled.",
+  "locked_terms": [
+   {
+    "tibetan": "སྤྱན་རས་གཟིགས་དབང",
+    "use": "Avalokiteshvara"
+   },
+   {
+    "tibetan": "ཡི་དྭགས",
+    "use": "hungry ghost"
+   }
+  ],
+  "translation": "A stream of milk flows from the hands of the noble Avalokiteshvara. May this milk satisfy the hungry ghosts. After bathing in it, may they always stay cool."
+ },
+ {
+  "id": "10-18",
+  "tibetan": "ལོང་བ་རྣམས་ཀྱིས་མིག་མཐོང་ཞིང་། ། འོན་པས་རྟག་ཏུ་སྒྲ་ཐོས་ཤོག ། ལྷ་མོ་སྒྱུ་འཕྲུལ་ཇི་བཞིན་དུ། ། སྦྲུམ་མའང་གནོད་མེད་བཙའ་བར་ཤོག །",
+  "academic_translation": "May the blind see with their eyes,\nAnd may the deaf always hear sounds.\nJust like the goddess Māyādevī,\nMay pregnant women also give birth without harm.",
+  "locked_terms": [
+   {
+    "tibetan": "ལྷ་མོ་སྒྱུ་འཕྲུལ",
+    "use": "Mayadevi"
+   }
+  ],
+  "translation": "May the blind see with their eyes. May the deaf always hear sounds. Just like Mayadevi, may pregnant women give birth safely without any harm."
+ },
+ {
+  "id": "10-19",
+  "tibetan": "གཅེར་བུ་རྣམས་ཀྱིས་གོས་དག་དང་། ། བཀྲེས་པ་རྣམས་ཀྱིས་ཟས་དང་ནི། ། སྐོམ་པ་རྣམས་ཀྱིས་ཆུ་དག་དང་། ། བཏུང་བ་ཞིམ་པོ་ཐོབ་པར་ཤོག །",
+  "academic_translation": "May the naked obtain clothing,\nAnd the hungry obtain food;\nMay the thirsty obtain water\nAnd delicious drinks.",
+  "locked_terms": [],
+  "translation": "May everyone without clothes find something to wear. May the hungry find food. May the thirsty find water and delicious drinks."
+ },
+ {
+  "id": "10-20",
+  "tibetan": "བཀྲེན་པ་རྣམས་ཀྱིས་ནོར་ཐོབ་ཤོག ། མྱ་ངན་ཉམ་ཐག་དགའ་ཐོབ་ཤོག ། ཡི་ཆད་རྣམས་ཀྱང་ཡིད་སོས་ཤིང་། ། བརྟན་པ་ཕུན་སུམ་ཚོགས་པར་ཤོག །",
+  "academic_translation": "May the destitute obtain wealth;\nMay those who are wretched with sorrow obtain joy;\nMay the despondent be restored in mind\nAnd attain perfect steadfastness.",
+  "locked_terms": [],
+  "translation": "May poor people find wealth. May very sad people find joy. May those who feel hopeless get their spirit back and become perfectly strong."
+ },
+ {
+  "id": "10-21",
+  "tibetan": "སེམས་ཅན་ནད་པ་ཇི་སྙེད་པ། ། མྱུར་དུ་ནད་ལས་ཐར་གྱུར་ཅིག ། འགྲོ་བའི་ནད་ནི་མ་ལུས་པ། ། རྟག་ཏུ་འབྱུང་བ་མེད་པར་ཤོག །",
+  "academic_translation": "However many sick sentient beings there are,\nMay they swiftly be freed from illness;\nMay the illnesses of wandering beings, without exception,\nNever arise again.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   }
+  ],
+  "translation": "May all sick living beings get well quickly. May the sicknesses of all beings go away and never come back."
+ },
+ {
+  "id": "10-22",
+  "tibetan": "སྐྲག་པ་རྣམས་ནི་འཇིགས་མེད་ཤོག ། བཅིངས་པ་རྣམས་ནི་གྲོལ་བར་འགྱུར། ། མཐུ་མེད་རྣམས་ནི་མཐུ་ལྡན་ཞིང་། ། སེམས་ནི་ཕན་ཚུན་མཉེན་གྱུར་ཅིག །",
+  "academic_translation": "May the terrified be fearless;\nMay the bound be freed;\nMay the powerless be endowed with power,\nAnd may their minds be tender toward one another.",
+  "locked_terms": [],
+  "translation": "May terrified people become brave. May trapped people be set free. May weak people become strong. May everyone be kind and gentle to each other."
+ },
+ {
+  "id": "10-23",
+  "tibetan": "འདྲོན་པ་དག་ནི་ཐམས་ཅད་ལ། ། ཕྱོགས་རྣམས་ཐམས་ཅད་བདེ་བར་ཤོག ། གང་གི་དོན་དུ་འགྲོ་བྱེད་པ། ། དེ་འབད་མི་དགོས་གྲུབ་གྱུར་ཅིག །",
+  "academic_translation": "For all travelers,\nMay all directions be auspicious;\nWhatever purpose they travel for,\nMay it be accomplished without effort.",
+  "locked_terms": [],
+  "translation": "May all travelers be safe everywhere they go. Whatever they are traveling for, may they succeed without any trouble."
+ },
+ {
+  "id": "10-24",
+  "tibetan": "གྲུ་དང་གྲུ་ཆེན་ཞུགས་པ་རྣམས། ། ཡིད་ལ་བསམ་པ་གྲུབ་གྱུར་ཏེ། ། ཆུ་ཡི་ངོགས་སུ་བདེར་ཕྱིན་ནས། ། གཉེན་དང་ལྷན་ཅིག་དགའ་བར་ཤོག །",
+  "academic_translation": "May those who board boats and large ships\nAccomplish what they have in mind,\nAnd having safely reached the water's shore,\nMay they rejoice together with their relatives.",
+  "locked_terms": [],
+  "translation": "May people on boats and big ships succeed in what they plan to do. May they reach the shore safely and celebrate with their families."
+ },
+ {
+  "id": "10-25",
+  "tibetan": "མྱ་ངན་ལམ་གོལ་འཁྱམས་པ་རྣམས། ། མགྲོན་པོ་དག་དང་ཕྲད་གྱུར་ནས། ། ཆོམ་རྐུན་སྟག་སོགས་འཇིགས་མེད་པར། ། མི་ངལ་བདེ་བླག་འདོང་བར་ཤོག །",
+  "academic_translation": "May those who wander lost on desolate paths\nMeet with fellow travellers,\nAnd without fear of bandits, tigers, and the like,\nMay they proceed easily, without fatigue.",
+  "locked_terms": [],
+  "translation": "May those who are lost on lonely paths meet fellow travelers. May they walk easily and not get tired. May they have no fear of robbers or tigers."
+ },
+ {
+  "id": "10-26",
+  "tibetan": "དགོན་སོགས་ལམ་མེད་ཉམ་ང་བར། ། བྱིས་པ་རྒན་པོ་མགོན་མེད་པ། ། གཉིད་ལོག་མྱོས་ཤིང་རབ་མྱོས་རྣམས། ། ལྷ་དག་སྲུང་བར་བྱེད་པར་ཤོག །",
+  "academic_translation": "In fearful, pathless wildernesses and the like,\nChildren, the elderly, the unprotected,\nAnd those asleep, intoxicated, or utterly intoxicated—\nMay the gods protect them.",
+  "locked_terms": [
+   {
+    "tibetan": "ལྷ",
+    "use": "god"
+   }
+  ],
+  "translation": "May the gods protect children, old people, and anyone without help in scary, wild places. May the gods also protect those who are asleep or drunk."
+ },
+ {
+  "id": "10-27",
+  "tibetan": "མི་ངལ་ཀུན་ལས་ཐར་བ་དང་། ། དད་དང་ཤེས་རབ་བརྩེ་ལྡན་ཞིང་། ། ཟས་དང་སྤྱོད་པ་ཕུན་ཚོགས་ནས། ། རྟག་ཏུ་ཚེ་རབས་དྲན་གྱུར་ཅིག །",
+  "academic_translation": "Freed from all states of non-leisure,\nEndowed with faith, wisdom, and compassion,\nAnd perfect in sustenance and conduct,\nMay they always remember their lifetimes.",
+  "locked_terms": [
+   {
+    "tibetan": "མི་ངལ",
+    "use": "state without freedom"
+   },
+   {
+    "tibetan": "དད",
+    "use": "trust"
+   },
+   {
+    "tibetan": "ཤེས་རབ",
+    "use": "wisdom"
+   },
+   {
+    "tibetan": "བརྩེ",
+    "use": "compassion"
+   },
+   {
+    "tibetan": "ཚེ་རབས",
+    "use": "lifetime"
+   }
+  ],
+  "translation": "May everyone be free from any state without freedom. May they have trust, wisdom, and compassion. May they have perfect food and act well. May they always remember their past lifetimes."
+ },
+ {
+  "id": "10-28",
+  "tibetan": "ཐམས་ཅད་ནམ་མཁའི་མཛོད་བཞིན་དུ། ། ལོངས་སྤྱོད་ཆད་པ་མེད་པར་ཤོག ། རྩོད་པ་མེད་ཅིང་འཚེ་མེད་པར། ། རང་དབང་དུ་ནི་སྤྱོད་པར་ཤོག །",
+  "academic_translation": "Just like the treasury of space,\nMay all have inexhaustible enjoyments;\nWithout dispute and without harm,\nMay they act independently.",
+  "locked_terms": [
+   {
+    "tibetan": "ནམ་མཁའི་མཛོད",
+    "use": "treasure house of space"
+   }
+  ],
+  "translation": "May everyone have endless things to enjoy, just like the treasure house of space. May they live freely, without any fighting or harm."
+ },
+ {
+  "id": "10-29",
+  "tibetan": "སེམས་ཅན་གཟི་བརྗིད་ཆུང་ངུ་གང་། ། དེ་དག་གཟི་བརྗིད་ཆེན་པོར་ཤོག ། དཀའ་ཐུབ་ཅན་གང་གཟུགས་ངན་པ། ། གཟུགས་བཟང་ཕུན་སུམ་ཚོགས་གྱུར་ཅིག །",
+  "academic_translation": "Whatever sentient beings have little splendor,\nMay they have great splendor;\nWhatever ascetics have poor forms,\nMay they attain perfect, beautiful forms.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "དཀའ་ཐུབ་ཅན",
+    "use": "person of hard practice"
+   }
+  ],
+  "translation": "May any living beings who lack brightness shine with great brightness. May any persons of hard practice who look weak get beautiful and perfect bodies."
+ },
+ {
+  "id": "10-30",
+  "tibetan": "འཇིག་རྟེན་བུད་མེད་ཇི་སྙེད་པ། ། དེ་དག་སྐྱེས་པ་ཉིད་གྱུར་ཅིག ། མ་རབས་རྣམས་ནི་མཐོ་ཐོབ་ཅིང་། ། ང་རྒྱལ་དག་ཀྱང་བཅོམ་པར་ཤོག །",
+  "academic_translation": "However many women there are in the world,\nMay they become men;\nMay the lowly attain high status,\nAnd may their pride be subdued.",
+  "locked_terms": [
+   {
+    "tibetan": "འཇིག་རྟེན",
+    "use": "world"
+   },
+   {
+    "tibetan": "ང་རྒྱལ",
+    "use": "pride"
+   }
+  ],
+  "translation": "May all the women in the world become men. May lowly people reach high places, but may their pride be defeated."
+ },
+ {
+  "id": "10-31",
+  "tibetan": "བདག་གི་བསོད་ནམས་འདི་ཡིས་ནི། ། སེམས་ཅན་ཐམས་ཅད་མ་ལུས་པ། ། སྡིག་པ་ཐམས་ཅད་སྤངས་ནས་ནི། ། རྟག་ཏུ་དགེ་བ་བྱེད་པར་ཤོག །",
+  "academic_translation": "By this merit of mine,\nmay all sentient beings without exception,\nhaving abandoned all misdeeds,\nalways perform virtue.",
+  "locked_terms": [
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "store of goodness"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "སྡིག་པ",
+    "use": "harmful deed"
+   },
+   {
+    "tibetan": "དགེ་བ",
+    "use": "good deed"
+   }
+  ],
+  "translation": "Through my store of goodness, may every living being stop doing harmful deeds. May they always do good deeds instead."
+ },
+ {
+  "id": "10-32",
+  "tibetan": "བྱང་ཆུབ་སེམས་དང་མི་འབྲལ་ཞིང་། ། བྱང་ཆུབ་སྤྱོད་ལ་གཞོལ་བ་དང་། ། སངས་རྒྱས་རྣམས་ཀྱིས་ཡོངས་གཟུང་ཞིང་། ། བདུད་ཀྱི་ལས་རྣམས་སྤང་བར་ཤོག །",
+  "academic_translation": "May they never part from bodhicitta,\nand devote themselves to the conduct of awakening;\nmay they be completely embraced by the Buddhas,\nand abandon the actions of Māra.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས",
+    "use": "awakening mind"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སྤྱོད",
+    "use": "way of acting for awakening"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "བདུད་ཀྱི་ལས",
+    "use": "action of Mara"
+   }
+  ],
+  "translation": "May they never lose the awakening mind. May they always practice the way of acting for awakening. May the Buddhas hold them close, and may they give up the actions of Mara."
+ },
+ {
+  "id": "10-33",
+  "tibetan": "སེམས་ཅན་དེ་དག་ཐམས་ཅད་ནི། ། ཚེ་ཡང་དཔག་མེད་རིང་བར་ཤོག ། རྟག་ཏུ་བདེ་བར་འཚོ་འགྱུར་ཞིང་། ། འཆི་བའི་སྒྲ་ཡང་གྲག་མ་གྱུར། །",
+  "academic_translation": "May all those sentient beings\nhave immeasurably long lives;\nmay they always live happily,\nand may even the sound of death not be heard.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   }
+  ],
+  "translation": "May all those living beings live for a very long time. May they always be happy. May the sound of death never even be heard."
+ },
+ {
+  "id": "10-34",
+  "tibetan": "དཔག་བསམ་ཤིང་གི་སྐྱེད་མོས་ཚལ། ། སངས་རྒྱས་དང་ནི་སངས་རྒྱས་སྲས། ། ཆོས་སྙན་སྒྲོགས་པས་གང་བ་ཡིས། ། ཕྱོགས་རྣམས་ཐམས་ཅད་གང་བར་ཤོག །",
+  "academic_translation": "With groves of wish-fulfilling trees,\nfilled with Buddhas and children of the Buddhas\nproclaiming the sweet Dharma,\nmay all directions be filled!",
+  "locked_terms": [
+   {
+    "tibetan": "དཔག་བསམ་ཤིང",
+    "use": "wish-granting tree"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "སངས་རྒྱས་སྲས",
+    "use": "child of the Buddhas"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "teachings"
+   }
+  ],
+  "translation": "May every place be filled with beautiful wish-granting trees. May these places be full of Buddhas and children of the Buddhas sharing the sweet teachings."
+ },
+ {
+  "id": "10-35",
+  "tibetan": "ཐམས་ཅད་དུ་ཡང་ས་གཞི་དག ། གསེག་མ་ལ་སོགས་མེད་པ་དང་། ། ལག་མཐིལ་མཉམ་པ་བཻ་ཌཱུརྱའི། ། རང་བཞིན་འཇམ་པོར་གནས་པར་གྱུར། །",
+  "academic_translation": "Everywhere may the ground\nbe free of pebbles and the like,\nas level as the palm of a hand,\nand remain of the soft nature of lapis lazuli.",
+  "locked_terms": [
+   {
+    "tibetan": "བཻ་ཌཱུརྱ",
+    "use": "lapis lazuli"
+   }
+  ],
+  "translation": "Everywhere, may the ground be free of pebbles. May it be as flat as the palm of a hand. May it be made of soft lapis lazuli."
+ },
+ {
+  "id": "10-36",
+  "tibetan": "འཁོར་གྱི་དཀྱིལ་འཁོར་ཡོད་དགུར་ཡང་། ། བྱང་ཆུབ་སེམས་དཔའ་མང་པོ་དག ། རང་གི་ལེགས་པས་ས་སྟེངས་དག ། བརྒྱན་པར་མཛད་པས་བཞུགས་གྱུར་ཅིག །",
+  "academic_translation": "In all the circles of retinues that exist,\nmay many bodhisattvas,\nwith their own excellence,\nadorn the surface of the earth and remain there.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "འཁོར",
+    "use": "followers"
+   },
+   {
+    "tibetan": "དཀྱིལ་འཁོར",
+    "use": "circle"
+   }
+  ],
+  "translation": "In every circle of followers, may there be many awakening heroes. May their wonderful goodness make the earth beautiful, and may they stay there forever."
+ },
+ {
+  "id": "10-37",
+  "tibetan": "ལུས་ཅན་ཀུན་གྱིས་བྱ་དང་ནི། ། ཤིང་དང་འོད་ཟེར་ཐམས་ཅད་དང་། ། ནམ་མཁའ་ལས་ཀྱང་ཆོས་ཀྱི་སྒྲ། ། རྒྱུན་མི་འཆད་པར་ཐོས་པར་ཤོག །",
+  "academic_translation": "By all embodied beings, from birds,\nFrom trees and all rays of light,\nAnd even from the sky, may the sound of the Dharma\nBe heard unceasingly.",
+  "locked_terms": [
+   {
+    "tibetan": "ལུས་ཅན",
+    "use": "being with a body"
+   },
+   {
+    "tibetan": "ཆོས་ཀྱི་སྒྲ",
+    "use": "sound of the teachings"
+   }
+  ],
+  "translation": "May all beings with a body hear the sound of the teachings without ever stopping. May they hear it from birds, from trees, from rays of light, and even from the sky."
+ },
+ {
+  "id": "10-38",
+  "tibetan": "དེ་དག་རྟག་ཏུ་སངས་རྒྱས་དང་། ། སངས་རྒྱས་སྲས་དང་ཕྲད་གྱུར་ཅིག ། མཆོད་པའི་སྤྲིན་ནི་མཐའ་ཡས་པས། ། འགྲོ་བའི་བླ་མ་མཆོད་པར་ཤོག །",
+  "academic_translation": "May they always meet with the Buddhas\nAnd the children of the Buddhas.\nWith boundless clouds of offerings,\nMay they make offerings to the teacher of wandering beings.",
+  "locked_terms": [
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "སངས་རྒྱས་སྲས",
+    "use": "child of the Buddhas"
+   },
+   {
+    "tibetan": "མཆོད་པའི་སྤྲིན",
+    "use": "cloud of offerings"
+   },
+   {
+    "tibetan": "འགྲོ་བའི་བླ་མ",
+    "use": "teacher of beings"
+   }
+  ],
+  "translation": "May they always meet the Buddhas and the children of the Buddhas. May they bring endless clouds of offerings to the teacher of beings."
+ },
+ {
+  "id": "10-39",
+  "tibetan": "ལྷ་ཡང་དུས་སུ་ཆར་འབེབས་ཤིང་། ། ལོ་ཏོག་ཕུན་སུམ་ཚོགས་པར་ཤོག ། རྒྱལ་པོ་ཆོས་བཞིན་བྱེད་གྱུར་ཅིག ། འཇིག་རྟེན་དག་ཀྱང་དར་བར་ཤོག །",
+  "academic_translation": "May the gods also send rain at the proper time,\nAnd may the harvests be abundant.\nMay kings act in accordance with the Dharma,\nAnd may the world also flourish.",
+  "locked_terms": [
+   {
+    "tibetan": "ལྷ",
+    "use": "god"
+   },
+   {
+    "tibetan": "ཆོས",
+    "use": "teachings"
+   },
+   {
+    "tibetan": "རྒྱལ་པོ",
+    "use": "king"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན",
+    "use": "world"
+   }
+  ],
+  "translation": "May the gods send rain at the right time. May the harvests be plentiful. May kings act according to the teachings. May the world also flourish."
+ },
+ {
+  "id": "10-40",
+  "tibetan": "སྨན་རྣམས་མཐུ་དང་ལྡན་པ་དང་། ། གསང་སྔགས་བཟླས་བརྗོད་གྲུབ་པར་ཤོག ། མཁའ་འགྲོ་སྲིན་པོ་ལ་སོགས་པ། ། སྙིང་རྗེའི་སེམས་དང་ལྡན་གྱུར་ཅིག །",
+  "academic_translation": "May medicines be endowed with potency,\nAnd may the recitation of secret mantras be accomplished.\nMay ḍākinīs, rākṣasas, and the like\nBe endowed with minds of compassion.",
+  "locked_terms": [
+   {
+    "tibetan": "གསང་སྔགས",
+    "use": "secret sacred words"
+   },
+   {
+    "tibetan": "བཟླས་བརྗོད",
+    "use": "recitation"
+   },
+   {
+    "tibetan": "མཁའ་འགྲོ",
+    "use": "sky-goer"
+   },
+   {
+    "tibetan": "སྲིན་པོ",
+    "use": "demon"
+   },
+   {
+    "tibetan": "སྙིང་རྗེ",
+    "use": "compassion"
+   }
+  ],
+  "translation": "May medicines be strong. May the recitation of secret sacred words be successful. May sky-goers, demons, and others like them have minds full of compassion."
+ },
+ {
+  "id": "10-41",
+  "tibetan": "སེམས་ཅན་འགའ་ཡང་སྡུག་མ་གྱུར། ། འཇིགས་དང་བརྙས་པར་མི་འགྱུར་ཞིང་། ། འགའ་ཡང་ཡིད་མི་བདེ་མ་གྱུར། །",
+  "academic_translation": "May no sentient being suffer,\nMay they not be afraid or despised,\nAnd may no one ever be unhappy.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   }
+  ],
+  "translation": "May no living being suffer. May they never be afraid or looked down upon. May no one ever be unhappy."
+ },
+ {
+  "id": "10-42",
+  "tibetan": "གཙུག་ལག་ཁང་རྣམས་ཀློག་པ་དང་། ། ཁ་ཐོན་གྱིས་བརྒྱན་ལེགས་གནས་ཤོག ། རྟག་ཏུ་དགེ་འདུན་མཐུན་པ་དང་། ། དགེ་འདུན་དོན་ཡང་གྲུབ་པར་ཤོག །",
+  "academic_translation": "May monasteries, adorned with reading\nAnd recitation, be well established.\nMay the Saṅgha always be in harmony,\nAnd may the purposes of the Saṅgha be accomplished.",
+  "locked_terms": [
+   {
+    "tibetan": "གཙུག་ལག་ཁང",
+    "use": "monastery"
+   },
+   {
+    "tibetan": "ཁ་ཐོན",
+    "use": "reciting"
+   },
+   {
+    "tibetan": "དགེ་འདུན",
+    "use": "community of monks and nuns"
+   }
+  ],
+  "translation": "May monasteries stand strong, beautiful with reading and reciting. May the community of monks and nuns always live in harmony. May the goals of the community of monks and nuns be achieved."
+ },
+ {
+  "id": "10-43",
+  "tibetan": "བསླབ་པ་འདོད་པའི་དགེ་སློང་དག ། དབེན་པ་དག་ཀྱང་ཐོབ་པར་ཤོག ། གཡེང་བ་ཐམས་ཅད་སྤངས་ནས་ནི། ། སེམས་ནི་ལས་རུང་སྒོམ་གྱུར་ཅིག །",
+  "academic_translation": "May monks who desire to train\nAlso attain solitude.\nHaving abandoned all distractions,\nMay they meditate with workable minds.",
+  "locked_terms": [
+   {
+    "tibetan": "དགེ་སློང",
+    "use": "monk"
+   },
+   {
+    "tibetan": "དབེན་པ",
+    "use": "solitude"
+   },
+   {
+    "tibetan": "གཡེང་བ",
+    "use": "distraction"
+   }
+  ],
+  "translation": "May monks who want to train find solitude. May they leave every distraction behind and meditate with ready minds."
+ },
+ {
+  "id": "10-44",
+  "tibetan": "དགེ་སློང་མ་རྣམས་རྙེད་ལྡན་ཞིང་། ། འཐབ་དང་གནོད་པ་སྤང་བར་ཤོག ། དེ་བཞིན་རབ་ཏུ་བྱུང་བ་ཀུན། ། ཚུལ་ཁྲིམས་ཉམས་པ་མེད་གྱུར་ཅིག །",
+  "academic_translation": "May nuns be endowed with requisites\nAnd abandon quarreling and harm.\nLikewise, may all who have taken ordination\nNever let their ethical discipline decline.",
+  "locked_terms": [
+   {
+    "tibetan": "དགེ་སློང་མ",
+    "use": "nun"
+   },
+   {
+    "tibetan": "རབ་ཏུ་བྱུང་བ",
+    "use": "becoming a monk or nun"
+   },
+   {
+    "tibetan": "ཚུལ་ཁྲིམས",
+    "use": "good conduct"
+   }
+  ],
+  "translation": "May nuns have everything they need. May they stop arguing and causing harm. After becoming a monk or nun, may no one ever lose their good conduct."
+ },
+ {
+  "id": "10-45",
+  "tibetan": "ཚུལ་ཁྲིམས་འཆལ་བས་ཡིད་བྱུང་ནས། ། རྟག་ཏུ་སྡིག་པ་ཟད་བྱེད་ཤོག ། བདེ་འགྲོ་དག་ཀྱང་ཐོབ་གྱུར་ནས། ། དེར་ཡང་བརྟུལ་ཞུགས་མི་ཉམས་ཤོག །",
+  "academic_translation": "May those whose ethical discipline has been broken become weary of it,\nAnd always exhaust their misdeeds.\nHaving also attained a happy realm,\nMay their ascetic discipline not decline even there.",
+  "locked_terms": [
+   {
+    "tibetan": "ཚུལ་ཁྲིམས",
+    "use": "good conduct"
+   },
+   {
+    "tibetan": "སྡིག་པ",
+    "use": "harmful deed"
+   },
+   {
+    "tibetan": "བདེ་འགྲོ",
+    "use": "happy realm"
+   },
+   {
+    "tibetan": "བརྟུལ་ཞུགས",
+    "use": "strict practice"
+   }
+  ],
+  "translation": "May those who have broken their good conduct get tired of it. May they wipe away all their harmful deeds. After they reach a happy realm, may their strict practice stay strong even there."
+ },
+ {
+  "id": "10-46",
+  "tibetan": "མཁས་པ་རྣམས་ནི་བཀུར་བ་དང་། ། བསོད་སྙོམས་དག་ཀྱང་རྙེད་པར་ཤོག ། རྒྱུད་ནི་ཡོངས་སུ་དག་པ་དང་། ། ཕྱོགས་རྣམས་ཀུན་ཏུ་གྲགས་པར་ཤོག །",
+  "academic_translation": "May wise persons be honored\nAnd also receive alms.\nMay their continuums be completely pure,\nAnd may they be renowned in all directions.",
+  "locked_terms": [
+   {
+    "tibetan": "མཁས་པ",
+    "use": "wise person"
+   },
+   {
+    "tibetan": "བསོད་སྙོམས",
+    "use": "alms"
+   },
+   {
+    "tibetan": "རྒྱུད",
+    "use": "continuing stream"
+   }
+  ],
+  "translation": "May wise persons be honored and receive alms. May their continuing stream be completely pure. May they become famous everywhere."
+ },
+ {
+  "id": "10-47",
+  "tibetan": "ངན་སོང་སྡུག་བསྔལ་མི་མྱོང་ཞིང་། ། དཀའ་བ་སྤྱད་པ་མེད་པར་ཡང་། ། ལྷ་བས་ལྷག་པའི་ལུས་ཀྱིས་ནི། ། དེ་དག་སངས་རྒྱས་མྱུར་འགྲུབ་ཤོག །",
+  "academic_translation": "Not experiencing the suffering of the lower realms,\nAnd even without hardship,\nWith bodies superior to those of the gods,\nMay they swiftly become Buddhas.",
+  "locked_terms": [
+   {
+    "tibetan": "ངན་སོང",
+    "use": "unhappy realm"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "དཀའ་བ་སྤྱད་པ",
+    "use": "hardship"
+   },
+   {
+    "tibetan": "ལྷ",
+    "use": "god"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   }
+  ],
+  "translation": "May they never feel the suffering of the unhappy realms. Even without hardship, may they have bodies better than the gods. May they quickly become Buddhas."
+ },
+ {
+  "id": "10-48",
+  "tibetan": "སེམས་ཅན་ཀུན་གྱིས་ལན་མང་དུ། ། སངས་རྒྱས་ཐམས་ཅད་མཆོད་བྱེད་ཅིང་། ། སངས་རྒྱས་བདེ་བ་བསམ་ཡས་ཀྱིས། ། རྟག་ཏུ་བདེ་དང་ལྡན་གྱུར་ཅིག །",
+  "academic_translation": "May all sentient beings repeatedly\nMake offerings to all the Buddhas,\nAnd through the inconceivable happiness of the Buddhas,\nMay they always be endowed with happiness.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "བདེ་བ",
+    "use": "happiness"
+   }
+  ],
+  "translation": "May all living beings make offerings to all the Buddhas again and again. Through the wonderful happiness of the Buddhas, may they always be filled with happiness."
+ },
+ {
+  "id": "10-49",
+  "tibetan": "བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱིས་ནི། ། འགྲོ་དོན་ཐུགས་ལ་དགོངས་འགྲུབ་ཤོག ། མགོན་པོ་ཡིས་ནི་གང་དགོངས་པ། ། སེམས་ཅན་རྣམས་ལ་དེ་འབྱོར་ཤོག །",
+  "academic_translation": "May the bodhisattvas\nAccomplish what they intend in their minds for the welfare of others.\nWhatever the Protectors intend,\nMay that be attained by sentient beings.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "འགྲོ་དོན",
+    "use": "good of others"
+   },
+   {
+    "tibetan": "མགོན་པོ",
+    "use": "Protector"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   }
+  ],
+  "translation": "May the awakening heroes do what they plan for the good of others. Whatever the Protectors wish for, may living beings receive it."
+ },
+ {
+  "id": "10-50",
+  "tibetan": "དེ་བཞིན་རང་སངས་རྒྱས་རྣམས་དང་། ། ཉན་ཐོས་རྣམས་ཀྱང་བདེ་གྱུར་ཅིག །",
+  "academic_translation": "Likewise, may the Pratyekabuddhas\nAnd the Śrāvakas also be happy.",
+  "locked_terms": [
+   {
+    "tibetan": "རང་སངས་རྒྱས",
+    "use": "self-awakened one"
+   },
+   {
+    "tibetan": "ཉན་ཐོས",
+    "use": "Hearer"
+   }
+  ],
+  "translation": "In the same way, may the self-awakened ones and the Hearers also be happy."
+ },
+ {
+  "id": "10-51",
+  "tibetan": "བདག་ཀྱང་འཇམ་དབྱངས་བཀའ་དྲིན་གྱིས། ། ས་རབ་དགའ་བ་ཐོབ་བར་དུ། ། རྟག་ཏུ་ཚེ་རབས་དྲན་པ་དང་། ། རབ་ཏུ་བྱུང་བ་ཐོབ་པར་ཤོག །",
+  "academic_translation": "May I too, through the kindness of Mañjuśrī,\nUntil I attain the Ground of Perfect Joy,\nAlways remember my past lifetimes\nAnd attain ordination.",
+  "locked_terms": [
+   {
+    "tibetan": "འཇམ་དབྱངས",
+    "use": "Manjushri"
+   },
+   {
+    "tibetan": "ས་རབ་དགའ་བ",
+    "use": "Ground of Perfect Joy"
+   },
+   {
+    "tibetan": "ཚེ་རབས",
+    "use": "lifetime"
+   },
+   {
+    "tibetan": "རབ་ཏུ་བྱུང་བ",
+    "use": "becoming a monk or nun"
+   }
+  ],
+  "translation": "Because of Manjushri's kindness, may I always remember my past lifetimes. May I remember them until I reach the Ground of Perfect Joy, and may I succeed in becoming a monk or nun."
+ },
+ {
+  "id": "10-52",
+  "tibetan": "བདག་ནི་ཁ་ཟས་གྱི་ནས་ཀྱང་། ། ཉམས་དང་ལྡན་ཞིང་འཚོ་བར་ཤོག ། ཚེ་རབས་ཀུན་དུ་དབེན་གནས་པར། ། ཕུན་སུམ་ལྡན་པ་ཐོབ་པར་ཤོག །",
+  "academic_translation": "Even with simple food,\nMay I live endowed with vitality.\nIn all my lifetimes,\nMay I attain the perfect circumstances to dwell in a solitary place.",
+  "locked_terms": [
+   {
+    "tibetan": "ཚེ་རབས",
+    "use": "lifetime"
+   },
+   {
+    "tibetan": "དབེན་གནས",
+    "use": "quiet place"
+   }
+  ],
+  "translation": "Even with only simple food, may I be strong and full of life. In all my lifetimes, may I find the perfect chance to live in a quiet place."
+ },
+ {
+  "id": "10-53",
+  "tibetan": "གང་ཚེ་བལྟ་བར་འདོད་པའམ། ། ཅུང་ཟད་དྲི་བར་འདོད་ན་ཡང་། ། མགོན་པོ་འཇམ་དབྱངས་དེ་ཉིད་ནི། ། གེགས་མེད་པར་ཡང་མཐོང་བར་ཤོག །",
+  "academic_translation": "Whenever I wish to see him,\nOr even wish to ask a slight question,\nMay I behold the Protector Mañjuśrī himself\nWithout any hindrance.",
+  "locked_terms": [
+   {
+    "tibetan": "མགོན་པོ",
+    "use": "Protector"
+   },
+   {
+    "tibetan": "འཇམ་དབྱངས",
+    "use": "Manjushri"
+   }
+  ],
+  "translation": "Whenever I want to see him or ask a small question, may I see the Protector Manjushri himself. May nothing ever stand in my way."
+ },
+ {
+  "id": "10-54",
+  "tibetan": "ཕྱོགས་བཅུའི་ནམ་མཁའི་མཐས་གཏུགས་པའི། ། སེམས་ཅན་ཀུན་དོན་བསྒྲུབ་པའི་ཕྱིར། ། ཇི་ལྟར་འཇམ་དབྱངས་སྤྱོད་མཛད་པ། ། བདག་གི་སྤྱོད་པའང་དེ་འདྲར་ཤོག །",
+  "academic_translation": "In order to accomplish the welfare of all sentient beings\nAs far as the limits of space in the ten directions,\nJust as Mañjuśrī acts,\nMay my conduct also be like that.",
+  "locked_terms": [
+   {
+    "tibetan": "ཕྱོགས་བཅུ",
+    "use": "ten directions"
+   },
+   {
+    "tibetan": "ནམ་མཁའ",
+    "use": "space"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "འཇམ་དབྱངས",
+    "use": "Manjushri"
+   },
+   {
+    "tibetan": "སྤྱོད་པ",
+    "use": "way of acting"
+   }
+  ],
+  "translation": "I want to help every living being across space in the ten directions. Just as Manjushri acts, may my way of acting be exactly like his."
+ },
+ {
+  "id": "10-55",
+  "tibetan": "ཇི་སྲིད་ནམ་མཁའ་གནས་པ་དང་། ། འགྲོ་བ་ཇི་སྲིད་གནས་གྱུར་པ། ། དེ་སྲིད་བདག་ནི་གནས་གྱུར་ནས། ། འགྲོ་བའི་སྡུག་བསྔལ་སེལ་བར་ཤོག །",
+  "academic_translation": "As long as space remains,\nAnd as long as wandering beings remain,\nSo long may I too remain,\nTo dispel the suffering of wandering beings.",
+  "locked_terms": [
+   {
+    "tibetan": "ནམ་མཁའ",
+    "use": "space"
+   },
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "As long as space remains, and as long as beings remain, may I also stay. May I stay to clear away the suffering of beings."
+ },
+ {
+  "id": "10-56",
+  "tibetan": "འགྲོ་བའི་སྡུག་བསྔལ་གང་ཅིའང་རུང་། ། དེ་ཀུན་བདག་ལ་སྨིན་གྱུར་ཅིག ། བྱང་ཆུབ་སེམས་དཔའི་དགེ་འདུན་གྱིས། ། འགྲོ་བ་བདེ་ལ་སྤྱོད་པར་ཤོག །",
+  "academic_translation": "Whatever the suffering of wandering beings may be,\nMay it all ripen upon me.\nThrough the Saṅgha of bodhisattvas,\nMay wandering beings enjoy happiness.",
+  "locked_terms": [
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་དགེ་འདུན",
+    "use": "community of awakening heroes"
+   }
+  ],
+  "translation": "Whatever the suffering of beings may be, let it all fall on me. Through the community of awakening heroes, may beings enjoy happiness."
+ }
+]

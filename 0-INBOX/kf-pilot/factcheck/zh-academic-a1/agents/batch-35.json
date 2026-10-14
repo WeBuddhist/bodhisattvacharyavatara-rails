@@ -1,0 +1,129 @@
+{
+ "batch": "batch-35",
+ "segments": [
+  {
+   "id": "8-171",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-172",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-173",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-174",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-175",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-176",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-177",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "無有動搖而由他牽引",
+     "evidence": "Tibetan མི་གཡོ་གཞན་གྱིས་བསྐྱོད་བྱ་བ means the body is immobile (it cannot move itself) and is moved by others (Skt niśceṣṭa). 無有動搖 in Chinese normally reads as 'unshakeable/steadfast', not 'motionless'.",
+     "fix": "不能自動而由他者推動"
+    }
+   ]
+  },
+  {
+   "id": "8-178",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-179",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "隨後生起貪著與瞋恚",
+     "evidence": "Tibetan རྗེས་སུ་ཆགས་དང་ཁོང་ཁྲོ་བ: རྗེས་སུ་ཆགས་པ is the compound 'attachment/affection' (Skt anunaya), not a temporal 'afterwards'; bo-kunpal 8-179 glosses it as རང་ཕྱོགས་ལ་རྗེས་སུ་ཆགས་པ་དང་གཞན་ཕྱོགས་ལ་ཁོང་ཁྲོ་བ (attachment to one's own side, anger toward the other side). 隨後 adds a sequence not in the source.",
+     "fix": "貪著與瞋恚"
+    }
+   ]
+  },
+  {
+   "id": "8-180",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-181",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "因受毀謗而生憤怒，或因受讚揚而生歡喜，倘若其本身毫無所知",
+     "evidence": "Tibetan གང་ཞིག་སྨོད་པས་ཁྲོ་བ་དང་། གང་ཞིག་བསྟོད་པས་མགུ་འགྱུར་བ། has a relative subject gang zhig (that which/one who), which bo-gyaltsab 8-181 and bo-kunpal 8-181 identify as the body. The Chinese drops the subject so 其本身 has no clear referent.",
+     "fix": "凡是因受毀謗而憤怒、因受讚揚而歡喜者，倘若其本身毫無所知"
+    }
+   ]
+  },
+  {
+   "id": "8-182",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-183",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-184",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-185",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-4",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

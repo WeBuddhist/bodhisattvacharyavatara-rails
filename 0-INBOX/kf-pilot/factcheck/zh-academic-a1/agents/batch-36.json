@@ -1,0 +1,137 @@
+{
+ "batch": "batch-36",
+ "segments": [
+  {
+   "id": "9-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-11",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "因為是幻化而沒有心",
+     "evidence": "Tibetan 'སེམས་མེད་ཕྱིར་ན་སྡིག་མེད' gives only 'because there is no mind, there is no misdeed'; the Chinese adds 'because it is an illusion' (是幻化) as a reason, which the verse does not state (Gyaltsab 9-11 repeats the verse unchanged; Kunpal 9-11 says 'སེམས་མེད་པའི་ཕྱིར').",
+     "fix": "因為沒有心，所以沒有罪業"
+    }
+   ]
+  },
+  {
+   "id": "9-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-14",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "幻化亦是不退滅",
+     "evidence": "Tibetan 'སྒྱུ་མའང་ལྡོག་པར་མི་འགྱུར་གྱི' means even the illusion (saṃsāra's appearance) does not cease/reverse (Kunpal 9-14: 'སྒྱུ་མའི་སྣང་བ་འང་ལྡོག་པར་མི་འགྱུར'). '不退滅' is not an idiomatic rendering and can be misread as 'does not decline'.",
+     "fix": "幻化亦不會止息"
+    }
+   ]
+  },
+  {
+   "id": "9-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "真實照明",
+     "evidence": "Tibetan 'ཡང་དག་གསལ་བར་བྱེད་བཞིན' uses ཡང་དག་ adverbially ('perfectly/fully'; Sanskrit saṃprakāśayati; Gyaltsab 9-20 'ཡང་དག་པར་གསལ་བར་བྱེད་པ'). '真實' is the locked rendering of ཡང་དག་ཉིད/དེ་ཉིད and suggests 'in reality', which is not meant here.",
+     "fix": "完全照明"
+    }
+   ]
+  },
+  {
+   "id": "9-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-20",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "非青之法成青色，並非自己作自己",
+     "evidence": "Tibetan 'སྔོ་ཉིད་མིན་ལ་སྔོན་པོར་དེ། བདག་གིས་བདག་ཉིད་བྱས་པ་མེད' says that what is not (originally) blue has not been made blue by itself (Kunpal 9-20: 'བདག་གིས་བདག་ཉིད་སྔར་སྔོན་པོ་མིན་པ་ལ་ཕྱིས་སྔོན་པོར་བྱས་པ་ནི་མེད'). The Chinese splits it into an affirmative-looking 'a non-blue thing becomes blue' plus a separate negation.",
+     "fix": "非青之物，並無由自己使自己成為青色者"
+    }
+   ]
+  },
+  {
+   "id": "9-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-24",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

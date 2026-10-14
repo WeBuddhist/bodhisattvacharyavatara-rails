@@ -1,0 +1,185 @@
+(anon):setopt:7: can't change option: monitor
+
+[[31mERROR[39m]: gitstatus failed to initialize.
+
+
+  Add the following parameter to ~/.zshrc for extra diagnostics on error:
+
+    GITSTATUS_LOG_LEVEL=DEBUG
+
+  Restart Zsh to retry gitstatus initialization:
+
+    [32mexec zsh[39m
+seeded 3-TRANSFORMATIONS/Translations/Gemini/en/about.md
+source     : 1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md
+target     : english (en)   model=gemini-3.1-pro-preview   thinking=default
+track      : 3-TRANSFORMATIONS/Translations/Gemini/en
+reference  : none
+glossary   : none
+blocks     : 927 total, 0 already in ledger, 927 to do
+batching   : 123 calls for 927 blocks (<=8 blocks, <=3000 chars, <=80 lines per call)
+[1/123] ^I-1,^I-2,^I-3  (3 blk, 143 src, 285 ctx) …     ! HTTP 503 (attempt 1/6); retrying in 2s
+38.34s  In the Indian language: Bodhisattvacaryāvatāra.
+[2/123] ^1-1,^1-2,^1-3,^1-4,^1-5,^1-6,^1-7,^1-8  (8 blk, 1221 src, 906 ctx) … 21.51s  To the Sugatas, endowed with the Dharmakāya, along w
+[3/123] ^1-9,^1-10,^1-11,^1-12,^1-13,^1-14,^1-15,^1-16  (8 blk, 1160 src, 2941 ctx) … 70.34s  If the mind of awakening is generated, in an instant
+[4/123] ^1-17,^1-18,^1-19,^1-20,^1-21,^1-22,^1-23,^1-24  (8 blk, 936 src, 2816 ctx) …     ! attempt 1/6 failed (The read operation timed out); retrying in 2s
+37.57s  From the mind aspiring to awakening,
+[5/123] ^1-25,^1-26,^1-27,^1-28,^1-29,^1-30,^1-31,^1-32  (8 blk, 987 src, 2443 ctx) … 24.62s  Even for their own sake, in others
+[6/123] ^1-33,^1-34,^1-35,^1-36,^1-a  (5 blk, 685 src, 2592 ctx) …     ! attempt 1/6 failed (The read operation timed out); retrying in 2s
+(anon):setopt:7: can't change option: monitor
+
+[[31mERROR[39m]: gitstatus failed to initialize.
+
+
+  Add the following parameter to ~/.zshrc for extra diagnostics on error:
+
+    GITSTATUS_LOG_LEVEL=DEBUG
+
+  Restart Zsh to retry gitstatus initialization:
+
+    [32mexec zsh[39m
+source     : 1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md
+target     : english (en)   model=gemini-3.1-pro-preview   thinking=default
+track      : 3-TRANSFORMATIONS/Translations/Gemini/en
+reference  : none
+glossary   : none
+blocks     : 927 total, 35 already in ledger, 892 to do
+batching   : 118 calls for 892 blocks (<=8 blocks, <=3000 chars, <=80 lines per call)
+[1/118] ^1-33,^1-34,^1-35,^1-36,^1-a  (5 blk, 685 src, 2592 ctx) … 167.16s  To limitless numbers of sentient beings for a long t
+[2/118] ^2-1,^2-2,^2-3,^2-4,^2-5,^2-6,^2-7,^2-8  (8 blk, 1190 src, 2759 ctx) … 27.41s  In order to take hold of that precious mind,
+[3/118] ^2-9,^2-10,^2-11,^2-12,^2-13,^2-14,^2-15,^2-16  (8 blk, 1176 src, 2868 ctx) … 29.22s  Because I am completely accepted by you,
+[4/118] ^2-17,^2-18,^2-19,^2-20,^2-21,^2-22,^2-23,^2-24  (8 blk, 1082 src, 2848 ctx) … 33.99s  Arranged in rows of golden lotuses,
+[5/118] ^2-25,^2-26,^2-27,^2-28,^2-29,^2-30,^2-31,^2-32  (8 blk, 956 src, 2617 ctx) … 44.27s  To the bases of the awakening mind,
+[6/118] ^2-33,^2-34,^2-35,^2-36,^2-37,^2-38,^2-39,^2-40  (8 blk, 926 src, 2385 ctx) … 33.87s  This Lord of Death cannot be trusted;
+[7/118] ^2-41,^2-42,^2-43,^2-44,^2-45,^2-46,^2-47,^2-48  (8 blk, 966 src, 2392 ctx) … 55.86s  When seized by the messengers of Yama,
+[8/118] ^2-49,^2-50,^2-51,^2-52,^2-53,^2-54,^2-55,^2-56  (8 blk, 948 src, 2554 ctx) … 45.65s  Terrified by fear,
+[9/118] ^2-57,^2-58,^2-59,^2-60,^2-61,^2-62,^2-63,^2-64  (8 blk, 910 src, 2477 ctx) … 28.1s  Even on a small, ordinary precipice,
+[10/118] ^2-65,^2-a  (2 blk, 194 src, 2382 ctx) … 65.71s  I beseech the guides to accept my negative deeds
+[11/118] ^3-1,^3-2,^3-3,^3-4,^3-5,^3-6,^3-7,^3-8  (8 blk, 989 src, 2282 ctx) … 29.45s  Of the lower realms of all sentient beings,
+[12/118] ^3-9,^3-10,^3-11,^3-12,^3-13,^3-14,^3-15,^3-16  (8 blk, 917 src, 2463 ctx) … 28.23s  For sentient beings who are destitute and poor,
+[13/118] ^3-17,^3-18,^3-19,^3-20,^3-21,^3-22,^3-23,^3-24  (8 blk, 965 src, 2430 ctx) … 26.68s  May I be a protector for those without a protector,
+[14/118] ^3-25,^3-26,^3-27,^3-28,^3-29,^3-30,^3-31,^3-32  (8 blk, 994 src, 2489 ctx) … 21.57s  Today my life is fruitful;
+[15/118] ^3-33,^3-a  (2 blk, 249 src, 2624 ctx) … 46.6s  Today, by me, in the presence of all the protectors,
+[16/118] ^4-1,^4-2,^4-3,^4-4,^4-5,^4-6,^4-7,^4-8  (8 blk, 926 src, 2641 ctx) … 34.54s  The son of the Conquerors, in that way,
+[17/118] ^4-9,^4-10,^4-11,^4-12,^4-13,^4-14,^4-15,^4-16  (8 blk, 931 src, 2415 ctx) … 29.99s  Whoever else, even for a mere moment,
+[18/118] ^4-17,^4-18,^4-19,^4-20,^4-21,^4-22,^4-23,^4-24  (8 blk, 945 src, 2442 ctx) … 43.09s  With behavior like mine,
+[19/118] ^4-25,^4-26,^4-27,^4-28,^4-29,^4-30,^4-31,^4-32  (8 blk, 928 src, 2484 ctx) … 37.14s  If the unbearable fire of hell for a long time
+[20/118] ^4-33,^4-34,^4-35,^4-36,^4-37,^4-38,^4-39,^4-40  (8 blk, 1246 src, 2397 ctx) … 109.02s  If amiably served and honored,
+[21/118] ^4-41,^4-42,^4-43,^4-44,^4-45,^4-46,^4-47,^4-48  (8 blk, 1147 src, 3099 ctx) … 49.03s  Reaching the ends of space in the ten directions,
+[22/118] ^4-a  (1 blk, 83 src, 2986 ctx) … 20.22s  From Entering the Way of the Bodhisattva, the fourth
+[23/118] ^5-1,^5-2,^5-3,^5-4,^5-5,^5-6,^5-7,^5-8  (8 blk, 952 src, 2904 ctx) … 26.73s  Those who wish to guard the training
+[24/118] ^5-9,^5-10,^5-11,^5-12,^5-13,^5-14,^5-15,^5-16  (8 blk, 954 src, 2358 ctx) … 47.52s  If by eliminating the poverty of wandering beings,
+[25/118] ^5-17,^5-18,^5-19,^5-20,^5-21,^5-22,^5-23,^5-24  (8 blk, 968 src, 2555 ctx) … 43.79s  If someone, regarding the supreme principal of Dharm
+[26/118] ^5-25,^5-26,^5-27,^5-28,^5-29,^5-30,^5-31,^5-32  (8 blk, 958 src, 2518 ctx) … 24.13s  Of one who has a mind without introspection,
+[27/118] ^5-33,^5-34,^5-35,^5-36,^5-37,^5-38,^5-39,^5-40  (8 blk, 922 src, 2468 ctx) … 19.32s  When mindfulness from the door of the mind,
+[28/118] ^5-41,^5-42,^5-43,^5-44,^5-45,^5-46,^5-47,^5-48  (8 blk, 916 src, 2432 ctx) … 52.22s  So that one striving in concentration
+[29/118] ^5-49,^5-50,^5-51,^5-52,^5-53,^5-54,^5-55,^5-56  (8 blk, 950 src, 2506 ctx) … 53.73s  With wildness and mockery,
+[30/118] ^5-57,^5-58,^5-59,^5-60,^5-61,^5-62,^5-63,^5-64  (8 blk, 920 src, 2582 ctx) … 37.03s  Regarding faultless things,
+[31/118] ^5-65,^5-66,^5-67,^5-68,^5-69,^5-70,^5-71,^5-72  (8 blk, 939 src, 2366 ctx) … 30.36s  Impurities are not fit for you to eat,
+[32/118] ^5-73,^5-74,^5-75,^5-76,^5-77,^5-78,^5-79,^5-80  (8 blk, 938 src, 2438 ctx) … 42.85s  Waterfowl, cats, and thieves,
+[33/118] ^5-81,^5-82,^5-83,^5-84,^5-85,^5-86,^5-87,^5-88  (8 blk, 935 src, 2543 ctx) … 35.56s  Motivated by constant strong aspiration,
+[34/118] ^5-89,^5-90,^5-91,^5-92,^5-93,^5-94,^5-95,^5-96  (8 blk, 904 src, 2654 ctx) … 30.58s  Nor the profound and vast to the inferior,
+[35/118] ^5-97,^5-98,^5-99,^5-100,^5-101,^5-102,^5-103,^5-104  (8 blk, 946 src, 2493 ctx) … 27.19s  The practices of the Bodhisattvas
+[36/118] ^5-105,^5-106,^5-107,^5-108,^5-109,^5-a  (6 blk, 656 src, 2615 ctx) … 27.79s  Because what is to be practiced constantly
+[37/118] ^6-1,^6-2,^6-3,^6-4,^6-5,^6-6,^6-7,^6-8  (8 blk, 943 src, 2370 ctx) … 43.26s  Accumulated over a thousand eons,
+[38/118] ^6-9,^6-10,^6-11,^6-12,^6-13,^6-14,^6-15,^6-16  (8 blk, 919 src, 2436 ctx) … 30.83s  Whatever happens, I
+[39/118] ^6-17,^6-18,^6-19,^6-20,^6-21,^6-22,^6-23,^6-24  (8 blk, 959 src, 2456 ctx) … 24.75s  When some see their own blood,
+[40/118] ^6-25,^6-26,^6-27,^6-28,^6-29,^6-30,^6-31,^6-32  (8 blk, 936 src, 2447 ctx) … 54.97s  All however many faults there are, and
+[41/118] ^6-33,^6-34,^6-35,^6-36,^6-37,^6-38,^6-39,^6-40  (8 blk, 932 src, 2480 ctx) … 56.21s  Therefore, whether it is an enemy or a friend,
+[42/118] ^6-41,^6-42,^6-43,^6-44,^6-45,^6-46,^6-47,^6-48  (8 blk, 921 src, 2460 ctx) … 29.17s  Although sticks and the like are directly utilized,
+[43/118] ^6-49,^6-50,^6-51,^6-52,^6-53,^6-54,^6-55,^6-56  (8 blk, 916 src, 2348 ctx) … 28.69s  I am the one who harms them,
+[44/118] ^6-57,^6-58,^6-59,^6-60,^6-61,^6-62,^6-63,^6-64  (8 blk, 907 src, 2320 ctx) … 37.92s  Having experienced happiness in a dream for a hundre
+[45/118] ^6-65,^6-66,^6-67,^6-68,^6-69,^6-70,^6-71,^6-72  (8 blk, 915 src, 2548 ctx) … 24.77s  Towards gurus, relatives, and so forth,
+[46/118] ^6-73,^6-74,^6-75,^6-76,^6-77,^6-78,^6-79,^6-80  (8 blk, 960 src, 2452 ctx) … 35.2s  Even for this much suffering right now,
+[47/118] ^6-81,^6-82,^6-83,^6-84,^6-85,^6-86,^6-87,^6-88  (8 blk, 948 src, 2546 ctx) … 31.01s  To awaken into Buddhahood worshipped by the three wo
+[48/118] ^6-89,^6-90,^6-91,^6-92,^6-93,^6-94,^6-95,^6-96  (8 blk, 930 src, 2496 ctx) … 40.94s  This hook, cast by the fisherman of the afflictions,
+[49/118] ^6-97,^6-98,^6-99,^6-100,^6-101,^6-102,^6-103,^6-104  (8 blk, 936 src, 2425 ctx) … 18.49s  Therefore, thinking, "I am being praised,"
+[50/118] ^6-105,^6-106,^6-107,^6-108,^6-109,^6-110,^6-111,^6-112  (8 blk, 939 src, 2445 ctx) … 29.9s  By a beggar who arrives at the right time,
+[51/118] ^6-113,^6-114,^6-115,^6-116,^6-117,^6-118,^6-119,^6-120  (8 blk, 958 src, 2579 ctx) … 40.68s  From sentient beings and from the Conquerors,
+[52/118] ^6-121,^6-122,^6-123,^6-124,^6-125,^6-126,^6-127,^6-128  (8 blk, 1181 src, 2677 ctx) … 39.83s  Even my own lords,
+[53/118] ^6-129,^6-130,^6-131,^6-132,^6-133,^6-134,^6-a  (7 blk, 802 src, 3018 ctx) … 40.66s  Because he is not alone,
+[54/118] ^7-1,^7-2,^7-3,^7-4,^7-5,^7-6,^7-7,^7-8  (8 blk, 940 src, 2390 ctx) … 28.17s  Thus, having patience, I should undertake diligence.
+[55/118] ^7-9,^7-10,^7-11,^7-12,^7-13,^7-14,^7-15,^7-16  (8 blk, 940 src, 2424 ctx) … 30.59s  Swollen by the force of sorrow,
+[56/118] ^7-17,^7-18,^7-19,^7-20,^7-21,^7-22,^7-23,^7-24  (8 blk, 942 src, 2534 ctx) … 28.25s  Thinking, "How could I attain enlightenment?"
+[57/118] ^7-25,^7-26,^7-27,^7-28,^7-29,^7-30,^7-31,^7-32  (8 blk, 959 src, 2479 ctx) … 25.69s  Even in the giving of vegetables and so forth,
+[58/118] ^7-33,^7-34,^7-35,^7-36,^7-37,^7-38,^7-39,^7-40  (8 blk, 907 src, 2653 ctx) … 45.58s  The faults of myself and others,
+[59/118] ^7-41,^7-42,^7-43,^7-44,^7-45,^7-46,^7-47,^7-48  (8 blk, 1157 src, 2488 ctx) … 29.03s  Suffering and mental unhappiness,
+[60/118] ^7-49,^7-50,^7-51,^7-52,^7-53,^7-54,^7-55,^7-56  (8 blk, 918 src, 3025 ctx) … 35.34s  Actions, afflictions, and capacity:
+[61/118] ^7-57,^7-58,^7-59,^7-60,^7-61,^7-62,^7-63,^7-64  (8 blk, 1043 src, 2424 ctx) … 33.69s  Those inflated by the affliction of pride
+[62/118] ^7-65,^7-66,^7-67,^7-68,^7-69,^7-70,^7-71,^7-72  (8 blk, 949 src, 2707 ctx) … 32.6s  Therefore, in order to complete the task,
+[63/118] ^7-73,^7-74,^7-75,^7-a  (4 blk, 430 src, 2537 ctx) … 26.72s  With the thought, 'How in these situations
+[64/118] ^8-1,^8-2,^8-3,^8-4,^8-5,^8-6,^8-7,^8-8  (8 blk, 984 src, 2366 ctx) … 26.12s  Having thus generated joyous effort,
+[65/118] ^8-9,^8-10,^8-11,^8-12,^8-13,^8-14,^8-15,^8-16  (8 blk, 932 src, 2617 ctx) … 35.96s  If one acts with equal fortune to the childish,
+[66/118] ^8-17,^8-18,^8-19,^8-20,^8-21,^8-22,^8-23,^8-24  (8 blk, 939 src, 2558 ctx) … 43.79s  "I have much gain and respect,"
+[67/118] ^8-25,^8-26,^8-27,^8-28,^8-29,^8-30,^8-31,^8-32  (8 blk, 951 src, 2504 ctx) …     ! HTTP 503 (attempt 1/6); retrying in 2s
+45.12s  In the forest, deer and birds,
+[68/118] ^8-33,^8-34,^8-35,^8-36,^8-37,^8-38,^8-39,^8-40  (8 blk, 953 src, 2366 ctx) … 125.08s  Just as those who enter upon a journey
+[69/118] ^8-41,^8-42,^8-43,^8-44,^8-45,^8-46,^8-47,^8-48  (8 blk, 922 src, 2428 ctx) … 52.53s  I also entered into danger,
+[70/118] ^8-49,^8-50,^8-51,^8-52,^8-53,^8-54,^8-55,^8-56  (8 blk, 903 src, 2402 ctx) … 139.84s  Of cotton, which is soft to the touch,
+[71/118] ^8-57,^8-58,^8-59,^8-60,^8-61,^8-62,^8-63,^8-64  (8 blk, 916 src, 2390 ctx) … 105.29s  A place smeared with filth,
+[72/118] ^8-65,^8-66,^8-67,^8-68,^8-69,^8-70,^8-71,^8-72  (8 blk, 919 src, 2318 ctx) … 62.52s  If its nature is foul-smelling,
+[73/118] ^8-73,^8-74,^8-75,^8-76,^8-77,^8-78,^8-79,^8-80  (8 blk, 1007 src, 2454 ctx) … 46.97s  Some suffer the afflictions of traveling abroad,
+[74/118] ^8-81,^8-82,^8-83,^8-84,^8-85,^8-86,^8-87,^8-88  (8 blk, 981 src, 2703 ctx) … 41.62s  Desires will certainly perish,
+[75/118] ^8-89,^8-90,^8-91,^8-92,^8-93,^8-94,^8-95,^8-96  (8 blk, 963 src, 2555 ctx) … 46.3s  The equality of self and other
+[76/118] ^8-97,^8-98,^8-99,^8-100,^8-101,^8-102,^8-103,^8-104  (8 blk, 948 src, 2387 ctx) … 41.34s  The thought that "I will experience it"
+[77/118] ^8-105,^8-106,^8-107,^8-108,^8-109,^8-110,^8-111,^8-112  (8 blk, 926 src, 2537 ctx) … 32.48s  Therefore, Supuṣpacandra,
+[78/118] ^8-113,^8-114,^8-115,^8-116,^8-117,^8-118,^8-119,^8-120  (8 blk, 935 src, 2450 ctx) … 29.46s  Just as hands and so forth
+[79/118] ^8-121,^8-122,^8-123,^8-124,^8-125,^8-126,^8-127,^8-128  (8 blk, 960 src, 2567 ctx) … 34.33s  For whichever body's illnesses like hunger and thirs
+[80/118] ^8-129,^8-130,^8-131,^8-132,^8-133,^8-134,^8-135,^8-136  (8 blk, 972 src, 2618 ctx) … 53.23s  What need is there to say much?
+[81/118] ^8-137,^8-138,^8-139,^8-140,^8-141,^8-142,^8-143,^8-144  (8 blk, 923 src, 2541 ctx) … 38.42s  With eyes and so forth that are under the control of
+[82/118] ^8-145,^8-146,^8-147,^8-148,^8-149,^8-150,^8-151,^8-152  (8 blk, 918 src, 2586 ctx) … 47.32s  Abiding in the jaws of the vicious lower realms,
+[83/118] ^8-153,^8-154,^8-155,^8-156,^8-157,^8-158,^8-159,^8-160  (8 blk, 940 src, 2405 ctx) … 30.45s  This one shall be made to fall from happiness, and
+[84/118] ^8-161,^8-162,^8-163,^8-164,^8-165,^8-166,^8-167,^8-168  (8 blk, 930 src, 2419 ctx) … 31.66s  Even when faults have been committed by others,
+[85/118] ^8-169,^8-170,^8-171,^8-172,^8-173,^8-174,^8-175,^8-176  (8 blk, 909 src, 2402 ctx) … 43.46s  "I still have my own purpose"—
+[86/118] ^8-177,^8-178,^8-179,^8-180,^8-181,^8-182,^8-183,^8-184  (8 blk, 920 src, 2410 ctx) … 38.0s  Ultimately ending in ashes,
+[87/118] ^8-185,^8-a  (2 blk, 200 src, 2450 ctx) … 15.37s  Therefore, in order to clear away obscurations,
+[88/118] ^9-1,^9-2,^9-3,^9-4,^9-5,^9-6,^9-7,^9-8  (8 blk, 969 src, 2384 ctx) … 29.42s  All these branches
+[89/118] ^9-9,^9-10,^9-11,^9-12,^9-13,^9-14,^9-15,^9-16  (8 blk, 953 src, 2562 ctx) … 32.08s  Merit from a Victorious One who is like an illusion
+[90/118] ^9-17,^9-18,^9-19,^9-20,^9-21,^9-22,^9-23,^9-24  (8 blk, 928 src, 2478 ctx) … 42.69s  If the mind itself is an illusion,
+[91/118] ^9-25,^9-26,^9-27,^9-28,^9-29,^9-30,^9-31,^9-32  (8 blk, 935 src, 2453 ctx) … 52.34s  How things are seen, heard, and known
+[92/118] ^9-33,^9-34,^9-35,^9-36,^9-37,^9-38,^9-39,^9-40  (8 blk, 952 src, 2541 ctx) … 32.84s  When one asserts, "Such and such does not exist,"
+[93/118] ^9-41,^9-42,^9-43,^9-44,^9-45,^9-46,^9-47,^9-48  (8 blk, 944 src, 2594 ctx) … 27.64s  "If the Mahāyāna is not established,
+[94/118] ^9-49,^9-50,^9-51,^9-52,^9-53,^9-54,^9-55,^9-56  (8 blk, 944 src, 2572 ctx) … 32.11s  If any speech that enters into the sūtras
+[95/118] ^9-57,^9-58,^9-59,^9-60,^9-61,^9-62,^9-63,^9-64  (8 blk, 890 src, 2403 ctx) … 30.5s  Teeth, hair, and nails are not the self;
+[96/118] ^9-65,^9-66,^9-67,^9-68,^9-69,^9-70,^9-71,^9-72  (8 blk, 918 src, 2529 ctx) … 36.74s  If, like an actor, it takes on a different guise,
+[97/118] ^9-73,^9-74,^9-75,^9-76,^9-77,^9-78,^9-79,^9-80  (8 blk, 945 src, 2580 ctx) … 41.06s  The mind of the past and the future
+[98/118] ^9-81,^9-82,^9-83,^9-84,^9-85,^9-86,^9-87,^9-88  (8 blk, 931 src, 2607 ctx) … 41.72s  If the entirety of the body itself
+[99/118] ^9-89,^9-90,^9-91,^9-92,^9-93,^9-94,^9-95,^9-96  (8 blk, 899 src, 2696 ctx) … 33.37s  If it is because it is overshadowed by something str
+[100/118] ^9-97,^9-98,^9-99,^9-100,^9-101,^9-102,^9-103,^9-104  (8 blk, 921 src, 2488 ctx) … 34.66s  Thus, if contact does not exist,
+[101/118] ^9-105,^9-106,^9-107,^9-108,^9-109,^9-110,^9-111,^9-112  (8 blk, 913 src, 2502 ctx) … 33.06s  Or if it exists after the object of knowledge,
+[102/118] ^9-113,^9-114,^9-115,^9-116,^9-117,^9-118,^9-119,^9-120  (8 blk, 935 src, 2525 ctx) … 33.52s  If without a son there is no father,
+[103/118] ^9-121,^9-122,^9-123,^9-124,^9-125,^9-126,^9-127,^9-128  (8 blk, 936 src, 2614 ctx) … 36.36s  And what is it that he wishes to produce?
+[104/118] ^9-129,^9-130,^9-131,^9-132,^9-133,^9-134,^9-135,^9-136  (8 blk, 919 src, 2514 ctx) … 33.39s  If the qualities do not exist, sound and so forth
+[105/118] ^9-137,^9-138,^9-139,^9-140,^9-141,^9-142,^9-143,^9-144  (8 blk, 904 src, 2464 ctx) … 45.22s  That knowledge is also in the world;
+[106/118] ^9-145,^9-146,^9-147,^9-148,^9-149,^9-150,^9-151,^9-152  (8 blk, 932 src, 2439 ctx) … 31.53s  For an entity that exists,
+[107/118] ^9-153,^9-154,^9-155,^9-156,^9-157,^9-158,^9-159,^9-160  (8 blk, 951 src, 2503 ctx) … 48.12s  When analyzed, this world of living beings,
+[108/118] ^9-161,^9-162,^9-163,^9-164,^9-165,^9-166,^9-167,^9-a  (8 blk, 934 src, 2542 ctx) … 29.45s  Even there, into the great lower realms,
+[109/118] ^10-1,^10-2,^10-3,^10-4,^10-5,^10-6,^10-7,^10-8  (8 blk, 974 src, 2470 ctx) … 71.46s  To the Conduct of a Bodhisattva,
+[110/118] ^10-9,^10-10,^10-11,^10-12,^10-13,^10-14,^10-15,^10-16  (8 blk, 1557 src, 2568 ctx) … 58.85s  May the rain of embers, burning stones, and weapons
+[111/118] ^10-17,^10-18,^10-19,^10-20,^10-21,^10-22,^10-23,^10-24  (8 blk, 945 src, 3647 ctx) … 26.67s  Of noble Avalokiteśvara,
+[112/118] ^10-25,^10-26,^10-27,^10-28,^10-29,^10-30,^10-31,^10-32  (8 blk, 943 src, 2428 ctx) … 34.35s  May those wandering on astray and dreary paths
+[113/118] ^10-33,^10-34,^10-35,^10-36,^10-37,^10-38,^10-39,^10-40  (8 blk, 944 src, 2454 ctx) … 57.89s  May all those sentient beings
+[114/118] ^10-41,^10-42,^10-43,^10-44,^10-45,^10-46,^10-47,^10-48  (8 blk, 927 src, 2436 ctx) … 25.2s  May no sentient being ever suffer,
+[115/118] ^10-49,^10-50,^10-51,^10-52,^10-53,^10-54,^10-55,^10-56  (8 blk, 898 src, 2479 ctx) … 27.47s  May the bodhisattvas
+[116/118] ^10-57,^10-58,^10-a  (3 blk, 322 src, 2370 ctx) … 16.56s  The sole medicine for the suffering of beings,
+[117/118] ^a-1  (1 blk, 74 src, 2335 ctx) … 8.14s  Entering the Way of the Bodhisattva, composed by the
+[118/118] ^b-1,^b-2,^b-3  (3 blk, 443 src, 2189 ctx) … 30.24s  Revised and finalized by the Indian preceptor Sarvaj
+
+wrote 3-TRANSFORMATIONS/Translations/Gemini/en/bo-བློ་ལྡན་ཤེས་རབ།-en.md  (927/927 blocks)
+ledger 3-TRANSFORMATIONS/Translations/Gemini/en/work/bo-བློ་ལྡན་ཤེས་རབ།-en.jsonl
+calls  118 for 892 block(s) recorded this run
+SUMMARY {"text": "bo-བློ་ལྡན་ཤེས་རབ།", "lang_tag": "en", "blocks_total": 927, "blocks_done": 927, "new": 892, "calls": 118, "fallbacks": 0, "parity_failures": [], "failed": [], "stopped_at": null}
+source     : 1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md
+target     : english (en)   model=gemini-3.1-pro-preview   thinking=default   mode=headings
+track      : 3-TRANSFORMATIONS/Translations/Gemini/en
+reference  : none
+glossary   : none
+blocks     : 13 total, 0 already in ledger, 13 to do
+batching   : 2 calls for 13 blocks (<=8 blocks, <=3000 chars, <=80 lines per call)
+[1/2] ^I-0,^1-0,^2-0,^3-0,^4-0,^5-0,^6-0,^7-0  (8 blk, 245 src, 285 ctx) … 29.33s  Prologue
+[2/2] ^8-0,^9-0,^10-0,^a-0,^b-0  (5 blk, 105 src, 1241 ctx) … 17.52s  Chapter Eight: Teaching Meditation
+
+wrote 3-TRANSFORMATIONS/Translations/Gemini/en/bo-བློ་ལྡན་ཤེས་རབ།-en.md  (927/927 blocks)
+ledger 3-TRANSFORMATIONS/Translations/Gemini/en/work/bo-བློ་ལྡན་ཤེས་རབ།-en.jsonl
+calls  2 for 13 block(s) recorded this run
+SUMMARY {"text": "bo-བློ་ལྡན་ཤེས་རབ།", "lang_tag": "en", "blocks_total": 13, "blocks_done": 927, "new": 13, "calls": 2, "fallbacks": 0, "parity_failures": [], "failed": [], "stopped_at": null}

@@ -1,0 +1,253 @@
+{
+ "batch": "batch-11",
+ "segments": [
+  {
+   "id": "6-102",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-103",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "I am the one making a block.",
+     "evidence": "The academic text says I am creating an obstacle to the cause of merit that is present; the children's text does not say what the block blocks.",
+     "fix": "If my own faults stop me from being patient with this, I am only blocking my own store of goodness, even though its cause is right in front of me."
+    }
+   ]
+  },
+  {
+   "id": "6-104",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-105",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "Someone who helps you in becoming a monk or nun",
+     "evidence": "The academic text says one who grants ordination (the one who makes someone go forth), not just anyone who helps.",
+     "fix": "Someone who gives you the vows of a monk or nun cannot be called a block to becoming a monk or nun."
+    }
+   ]
+  },
+  {
+   "id": "6-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-107",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-109",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-110",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-111",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "patience only arises because of a very hateful mind",
+     "evidence": "The academic text says patience arises in dependence on a very hateful mind (the enemy's), with no 'only'; the children's text also leaves unclear whose mind it is.",
+     "fix": "Patience arises in dependence on someone's very hateful mind. Since they are the exact cause of patience, they deserve to be honored just like the holy teachings."
+    }
+   ]
+  },
+  {
+   "id": "6-112",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-113",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-114",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-115",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-116",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "a part in helping me gain every quality of a Buddha",
+     "evidence": "The academic text says they share in accomplishing the qualities of a Buddha; 'every' and 'helping me' are not there.",
+     "fix": "Living beings have a share in bringing about the qualities of a Buddha."
+    }
+   ]
+  },
+  {
+   "id": "6-117",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "a tiny part of a supreme good quality",
+     "evidence": "The academic text speaks of a fraction of the unique collection of supreme good qualities, and says the offerings are made to that person.",
+     "fix": "If even a tiny part of that special collection of supreme good qualities appears in someone, it would be right to make offerings to them. Even giving them the three realms would be too little."
+    }
+   ]
+  },
+  {
+   "id": "6-118",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-119",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "The Buddhas are true friends who never trick me.",
+     "evidence": "The academic text does not name the Buddhas; it speaks of those who become friends without deceit and perform immeasurable benefit.",
+     "fix": "Those who are true friends who never trick me, and who help me in ways I cannot measure, how could I ever pay them back? The only way is by making living beings happy."
+    }
+   ]
+  },
+  {
+   "id": "6-120",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-121",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-122",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-123",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-124",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-125",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-126",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-127",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-128",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-129",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-130",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-131",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-132",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-133",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-134",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-6",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

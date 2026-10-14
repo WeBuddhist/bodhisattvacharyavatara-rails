@@ -1,0 +1,129 @@
+{
+ "batch": "batch-41",
+ "segments": [
+  {
+   "id": "9-105",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-107",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "नहीं है。",
+     "evidence": "The line ends with an ideographic full stop (U+3002) instead of the Devanagari danda; a typographic error, meaning unaffected (Tibetan: དེ་ནི་རང་གི་ཀུན་རྫོབ་མིན།).",
+     "fix": "नहीं है।"
+    }
+   ]
+  },
+  {
+   "id": "9-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-109",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-110",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "उसे ही निर्वाण कहा जाता है",
+     "evidence": "Tibetan དེ་ཡང་མྱ་ངན་འདས་པར་བརྗོད says 'that too (also) is called nirvana' (ཡང་ = also; Sanskrit तच्च); the Hindi 'ही' (only) restricts it, which the Tibetan does not say. bo-shenga 9-110: དེ་ཡང་མྱ་ངན་ལས་འདས་པར་བརྗོད.",
+     "fix": "उसे भी निर्वाण कहा जाता है"
+    }
+   ]
+  },
+  {
+   "id": "9-111",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-112",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-113",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-114",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-115",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-116",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-117",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-118",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-119",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-120",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-121",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "उसके द्वारा उत्पन्न अभीष्ट भी क्या है?",
+     "evidence": "Tibetan དེས་བསྐྱེད་འདོད་པའང་གང་ཞིག་ཡིན asks what it is that he is desired/claimed to produce (bo-kunpal 9-121: དེས་བསྐྱེད་པར་འདོད་པ་ཡང་གང་ཞིག་ཡིན). 'उत्पन्न अभीष्ट' is elliptical and can be read as 'the desired thing already produced by him', dropping the sense of 'to be produced'.",
+     "fix": "उसके द्वारा उत्पन्न किया जाना भी अभीष्ट क्या है?"
+    }
+   ]
+  },
+  {
+   "id": "9-122",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-123",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-124",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

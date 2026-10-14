@@ -1,0 +1,158 @@
+{
+ "1-32": {
+  "translation": "जो लोग कुछ प्राणियों को थोड़े समय के लिए और वह भी अपमान के साथ खाना खिलाते हैं, उन्हें भी लोग अच्छा काम करने वाला मानकर सम्मान देते हैं।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "major",
+    "span": "जो लोग कुछ प्राणियों को थोड़े समय के लिए और वह भी अपमान के साथ खाना खिलाते हैं",
+    "evidence": "Academic lists three separate cases: giving a few beings regular food; giving food for just a moment; and satisfying for half a day with contempt. The children's text merges them into one and drops the 'regular food' case, making every gift both brief and contemptuous.",
+    "fix": "जो कुछ प्राणियों को रोज़ खाना देते हैं, या बस पल भर के लिए खाना देते हैं, या अपमान के साथ आधे दिन का पेट भर देते हैं, उन्हें भी लोग अच्छा काम करने वाला मानकर सम्मान देते हैं।"
+   }
+  ]
+ },
+ "5-30": {
+  "translation": "गुरु का साथ पाने से और मुझे दीक्षा देने वाले गुरु की सीख से हमें मदद मिलती है। जो लोग डर के कारण आदर करते हैं, उनमें ध्यान में रखना बहुत आसानी से आ जाता है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "हमें मदद मिलती है। जो लोग डर के कारण आदर करते हैं, उनमें ध्यान में रखना बहुत आसानी से आ जाता है।",
+    "evidence": "Academic: mindfulness arises easily in the fortunate who respect (their teachers) through the guru's company, the preceptor's instruction, and fear. The children's text turns the first two into a vague 'it helps us' and attributes the easy arising of mindfulness only to those who respect out of fear.",
+    "fix": "गुरु का साथ पाने से, मुझे दीक्षा देने वाले गुरु की सीख से और डर के कारण आदर करने से, भाग्यशाली लोगों में ध्यान में रखना बहुत आसानी से आ जाता है।"
+   }
+  ]
+ },
+ "6-24": {
+  "translation": "लोग यह नहीं सोचते कि \"मैं गुस्सा करूँगा,\" फिर भी उन्हें गुस्सा आ जाता है। \"मैं पैदा होऊँगा\" ऐसा सोचे बिना ही गुस्सा अपने आप पैदा हो जाता है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "\"मैं पैदा होऊँगा\" ऐसा सोचे बिना ही गुस्सा अपने आप पैदा हो जाता है",
+    "evidence": "Academic/Tibetan: 'I will generate (anger)' (utpanna karūṅgā: the person does not think 'I will produce it'), anger arises anyway. The children's text says 'I will be born', which changes the thing being generated from anger to oneself.",
+    "fix": "\"मैं गुस्सा पैदा करूँगा\" ऐसा सोचे बिना ही गुस्सा अपने आप पैदा हो जाता है।"
+   }
+  ]
+ },
+ "8-93": {
+  "translation": "मुझे दूसरों का दुख दूर करना चाहिए। वह दुख है, ठीक मेरे दुख की तरह। मुझे दूसरों का भला करना चाहिए। वे जीव हैं, ठीक मेरे शरीर की तरह।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "वह दुख है, ठीक मेरे दुख की तरह। ... वे जीव हैं, ठीक मेरे शरीर की तरह।",
+    "evidence": "Each line gives a reason ('because it is suffering, like my own suffering'; 'because they are beings, like my own body'). The children's text drops the causal 'because' and turns the second comparison into 'beings are like my body', losing that I benefit them as I do my own body.",
+    "fix": "मुझे दूसरों का दुख दूर करना चाहिए, क्योंकि वह भी दुख है, ठीक मेरे अपने दुख की तरह। मुझे दूसरों का भला करना चाहिए, क्योंकि वे भी जीव हैं, ठीक वैसे ही जैसे मैं अपने शरीर का भला करता हूँ।"
+   }
+  ]
+ },
+ "8-110": {
+  "translation": "भले ही दूसरों के शरीर की बूँदों में किसी वस्तु का न होना सच है, फिर भी अपनी पुरानी आदत के कारण हम उन्हें देखकर सोचते हैं कि 'यह मैं हूँ'।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "दूसरों के शरीर की बूँदों में किसी वस्तु का न होना सच है, फिर भी ... हम उन्हें देखकर सोचते हैं कि 'यह मैं हूँ'",
+    "evidence": "The verse says: through habit, the drops of others' (parents') semen and blood, though there is no real thing (self) in them, are known as 'this is me'. The children's text drops the semen/blood-drop source and what is absent, so 'किसी वस्तु का न होना' is unclear, and it says we look at others' body-drops and call them 'I'.",
+    "fix": "दूसरों की बूँदों में 'मैं' जैसी कोई वस्तु का न होना सच है, फिर भी आदत के कारण हम उन्हें 'यह मैं हूँ' मान लेते हैं।"
+   }
+  ]
+ },
+ "8-139": {
+  "translation": "ख़ुद को दूसरों से छोटा मानो और दूसरों को अपनी जगह रखो। फिर सोच में उलझे रहने के बिना, मन में जलन, होड़ और घमंड महसूस करो।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "major",
+    "span": "ख़ुद को दूसरों से छोटा मानो",
+    "evidence": "Source: make the inferior, etc. (inferior, equal, superior) into oneself and oneself into the other, then feel jealousy, rivalry and pride. The children's text names only 'smaller', dropping 'etc.' (equal/superior), and turns 'take the inferior one as yourself' into 'think yourself smaller', changing the exercise.",
+    "fix": "किसी छोटे, बराबर या बड़े व्यक्ति को अपनी जगह रखो और खुद को उसकी जगह। फिर सोच में उलझे रहने के बिना, जलन, होड़ और घमंड की भावना करो।"
+   }
+  ]
+ },
+ "9-8": {
+  "translation": "शान्त एकाग्रता का साधक जो रोज़ का सच देखता है, उसमें कोई कमी नहीं है। दुनिया के लोगों से आगे बढ़कर वे चीज़ों का असली रूप देखते हैं। अगर ऐसा न होता, तो जब वे शरीर को गन्दा कहते हैं, तब दुनिया उन्हें ग़लत साबित कर देती।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "दुनिया के लोगों से आगे बढ़कर वे चीज़ों का असली रूप देखते हैं",
+    "evidence": "The text says the yogi sees reality in dependence on / with reference to the world (ལྟོས, 'लोक की अपेक्षा'); this is the reason the yogi's conventional truth is faultless. 'आगे बढ़कर' (going beyond the world) reverses that logic.",
+    "fix": "वे दुनिया की बातों के सहारे ही चीज़ों का असली रूप देखते हैं।"
+   }
+  ]
+ },
+ "9-50": {
+  "translation": "अगर एक बात न होने से सब में दोष आ जाता है। तो फिर एक उपदेश-ग्रन्थ के सही होने से, सभी उपदेश विजेता के कहे हुए क्यों नहीं हैं?",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "एक बात न होने से सब में दोष आ जाता है। तो फिर एक उपदेश-ग्रन्थ के सही होने से",
+    "evidence": "Academic: if one (teaching) not being included (अप्रविष्ट) in the sutras makes all faulty, then why is not all the word of the Victor because of one that is sutra-like? The children's text changes \"one excluded from the sutra\" to \"one point missing\", and \"one that accords with the sutra\" to \"one sutra being correct\"; the first sentence is also left unfinished.",
+    "fix": "अगर एक उपदेश के उपदेश-ग्रन्थ में न होने से सारे उपदेश दोषी हो जाते हैं, तो उपदेश-ग्रन्थ जैसे एक उपदेश के कारण सारे उपदेश विजेता के कहे हुए क्यों नहीं हैं?"
+   }
+  ]
+ },
+ "9-68": {
+  "translation": "बिना चेतना वाली चीज़ भी \"अपना आप\" नहीं हो सकती। वह तो घड़े की तरह होगी। पर अगर वह मन से जुड़कर जानती है, तो बिना समझ के उसका मिट जाना तय है।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "बिना समझ के उसका मिट जाना तय है",
+    "evidence": "Academic: if it knows by being endowed with mind, then the non-knowing (ignorance/insentience) would be destroyed. The children's text reads as if the thing perishes \"without understanding\", garbling who/what is destroyed.",
+    "fix": "पर अगर वह मन से जुड़कर जानने लगती है, तो उसका न जानना मिट जाएगा। यानी वह बिना चेतना वाली नहीं रही।"
+   }
+  ]
+ },
+ "9-71": {
+  "translation": "काम और फल दोनों अलग-अलग हैं। हम दोनों ही मानते हैं कि इसमें \"अपना आप\" कुछ नहीं करता। तो क्या यहाँ बेकार में बहस करना ठीक है?",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "major",
+    "span": "काम और फल दोनों अलग-अलग हैं।",
+    "evidence": "Academic/Tibetan: the bases (locus/support) of the action and of the fruit are different, i.e. the doer and the one who gets the result differ. The children's text says only that action and fruit are different, dropping the point about their bases.",
+    "fix": "काम करने वाला और फल पाने वाला अलग-अलग होते हैं। और हम दोनों ही मानते हैं कि इसमें \"अपना आप\" कुछ नहीं करता। तो क्या यहाँ बेकार में बहस करना ठीक है?"
+   }
+  ]
+ },
+ "9-103": {
+  "translation": "जो न शरीर है और न कहीं और है। जो न किसी चीज़ में मिला है और न अलग है। असल में वह कुछ भी नहीं है। इसी कारण से, सारे जीव अपने स्वभाव से ही शोक से मुक्ति पा चुके हैं।",
+  "issues": [
+   {
+    "type": "doctrinal",
+    "severity": "major",
+    "span": "सारे जीव अपने स्वभाव से ही शोक से मुक्ति पा चुके हैं",
+    "evidence": "Academic/Tibetan: beings are nirvana by nature (a statement about their nature). \"Have already attained liberation from sorrow\" turns it into a completed attainment, which is false and contradicts the rest of the text.",
+    "fix": "इसी कारण से, सारे जीव अपने स्वभाव से ही शोक से मुक्ति ही हैं।"
+   }
+  ]
+ },
+ "9-105": {
+  "translation": "या अगर जागरूकता किसी जानने की चीज़ के बाद आए, तो उस समय वह किससे पैदा होती है? इस तरह किसी भी दिखने वाली चीज़ का पैदा होना समझ नहीं आता।",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "या अगर जागरूकता किसी जानने की चीज़ के बाद आए",
+    "evidence": "Tibetan/academic: if the knowable comes AFTER (the cognition), from what is cognition born? The children's text reverses the order (awareness comes after the object), which makes the question 'born from what?' pointless.",
+    "fix": "या अगर जानने की चीज़ जागरूकता के बाद आए, तो उस समय जागरूकता किससे पैदा होती है? इस तरह किसी भी दिखने वाली चीज़ का पैदा होना समझ नहीं आता।"
+   }
+  ]
+ },
+ "9-147": {
+  "translation": "जब किसी चीज़ का होना मुमकिन नहीं है, तो वह वस्तु कब बनेगी? जब तक कोई वस्तु पैदा नहीं होती, तब तक वह 'न होने वाली वस्तु' से अलग नहीं हो सकती।",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "major",
+    "span": "जब किसी चीज़ का होना मुमकिन नहीं है",
+    "evidence": "The premise is 'at the time of non-existence (med tshe), existence of the thing is not possible'. The children's text drops 'when it is non-existent' and states a general impossibility, losing the logic of the argument.",
+    "fix": "जब कोई चीज़ 'न होने वाली वस्तु' है, तब उसका वस्तु होना मुमकिन नहीं है, तो वह वस्तु कब बनेगी? जब तक कोई वस्तु पैदा नहीं होती, तब तक वह 'न होने वाली वस्तु' से अलग नहीं हो सकती।"
+   }
+  ]
+ }
+}

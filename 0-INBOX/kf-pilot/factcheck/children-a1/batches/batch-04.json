@@ -1,0 +1,724 @@
+[
+ {
+  "id": "3-15",
+  "tibetan": "བདག་ལ་དམིགས་ནས་གང་དག་གི ། ཁྲོའམ་དད་པའི་སེམས་བྱུང་ན། ། དེ་ཉིད་རྟག་ཏུ་དེ་དག་གི ། དོན་ཀུན་འགྲུབ་པའི་རྒྱུར་གྱུར་ཅིག །",
+  "academic_translation": "Focusing upon me, for those in whom\nA mind of anger or faith arises,\nMay that very mind always become for them\nThe cause for accomplishing all their goals.",
+  "locked_terms": [
+   {
+    "tibetan": "ཁྲོ",
+    "use": "anger"
+   },
+   {
+    "tibetan": "དད་པ",
+    "use": "faith"
+   }
+  ],
+  "translation": "When people focus on me, they might feel anger or faith. May those very feelings always help them. May that anger or faith be the reason they reach all their goals."
+ },
+ {
+  "id": "3-16",
+  "tibetan": "གང་དག་བདག་ལ་ཁ་ཟེར་རམ། ། གཞན་དག་གནོད་པ་བྱེད་པའམ། ། དེ་བཞིན་ཕྱར་ཀ་གཏོང་ཡང་རུང་། ། ཐམས་ཅད་བྱང་ཆུབ་སྐལ་ལྡན་གྱུར། །",
+  "academic_translation": "Those who speak ill of me,\nOr others who cause me harm,\nOr likewise those who mock me,\nMay they all have the fortune of awakening.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   }
+  ],
+  "translation": "If people say bad things about me, hurt me, or make fun of me, may they all have the good fortune of awakening."
+ },
+ {
+  "id": "3-17",
+  "tibetan": "བདག་ནི་མགོན་མེད་རྣམས་ཀྱི་མགོན། ། ལམ་ཞུགས་རྣམས་ཀྱི་དེད་དཔོན་དང་། ། བརྒལ་འདོད་རྣམས་ཀྱི་གྲུ་དང་ནི། ། གཟིངས་དང་ཟམ་པ་ཉིད་དུ་གྱུར། །",
+  "academic_translation": "May I become a Protector for those without a Protector,\nA guide for those who travel on the path,\nAnd for those who wish to cross over,\nMay I become a boat, a ship, and a bridge.",
+  "locked_terms": [
+   {
+    "tibetan": "མགོན",
+    "use": "Protector"
+   },
+   {
+    "tibetan": "ལམ",
+    "use": "path"
+   }
+  ],
+  "translation": "May I become a Protector for anyone who has no Protector. May I be a guide for travelers on the path. For those who want to cross over, may I become a boat, a ship, and a bridge."
+ },
+ {
+  "id": "3-18",
+  "tibetan": "གླིང་དོན་གཉེར་ལ་གླིང་དང་ནི། ། གནས་མལ་འདོད་ལ་གནས་མལ་དང་། ། བདག་ནི་ལུས་ཅན་བྲན་འདོད་པ། ། ཀུན་གྱི་བྲན་དུ་འགྱུར་བར་ཤོག །",
+  "academic_translation": "May I be an island for those who seek an island,\nA resting place for those who desire a resting place,\nAnd for embodied beings who desire a servant,\nMay I become a servant to them all.",
+  "locked_terms": [
+   {
+    "tibetan": "ལུས་ཅན",
+    "use": "being with a body"
+   }
+  ],
+  "translation": "May I be an island for those who seek an island. May I be a resting place for those who want to rest. For any being with a body who wants a servant, may I become a servant to them all."
+ },
+ {
+  "id": "3-19",
+  "tibetan": "ཡིད་བཞིན་ནོར་དང་བུམ་པ་བཟང་། ། རིག་སྔགས་གྲུབ་དང་སྨན་ཆེན་དང་། ། དཔག་བསམ་གྱི་ནི་ཤིང་དག་དང་། ། ལུས་ཅན་རྣམས་ཀྱི་འདོད་འཇོར་གྱུར། །",
+  "academic_translation": "May I become a wish-fulfilling jewel and an excellent vase,\nAn accomplished knowledge-mantra and a great medicine,\nWish-granting trees,\nAnd a cow of plenty for embodied beings.",
+  "locked_terms": [
+   {
+    "tibetan": "ཡིད་བཞིན་ནོར",
+    "use": "wish-fulfilling jewel"
+   },
+   {
+    "tibetan": "བུམ་པ་བཟང",
+    "use": "wonderful vase"
+   },
+   {
+    "tibetan": "རིག་སྔགས",
+    "use": "powerful sacred words"
+   },
+   {
+    "tibetan": "སྨན་ཆེན",
+    "use": "great medicine"
+   },
+   {
+    "tibetan": "འདོད་འཇོ",
+    "use": "wish-granting cow"
+   },
+   {
+    "tibetan": "ལུས་ཅན",
+    "use": "being with a body"
+   }
+  ],
+  "translation": "May I become a wish-fulfilling jewel and a wonderful vase. May I become powerful sacred words and a great medicine. May I be wish-granting trees and a wish-granting cow for every being with a body."
+ },
+ {
+  "id": "3-20",
+  "tibetan": "ས་སོགས་འབྱུང་བ་ཆེན་པོ་དང་། ། ནམ་མཁའ་བཞིན་དུ་རྟག་པར་ཡང་། ། སེམས་ཅན་དཔག་ཏུ་མེད་པ་ཡི། ། རྣམ་མང་ཉེར་འཚོའི་གཞིར་ཡང་ཤོག །",
+  "academic_translation": "Just as earth and the other great elements,\nAnd like space, always,\nFor immeasurable sentient beings,\nMay I also be the ground of manifold sustenance.",
+  "locked_terms": [
+   {
+    "tibetan": "འབྱུང་བ་ཆེན་པོ",
+    "use": "basic element"
+   },
+   {
+    "tibetan": "ནམ་མཁའ",
+    "use": "space"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   }
+  ],
+  "translation": "Just like the earth and the other basic elements, and just like space, may I always be a ground that supports countless living beings in many different ways."
+ },
+ {
+  "id": "3-21",
+  "tibetan": "དེ་བཞིན་ནམ་མཁའི་མཐས་གཏུགས་པའི། ། སེམས་ཅན་ཁམས་ལ་རྣམ་ཀུན་ཏུ། ། ཐམས་ཅད་མྱ་ངན་འདས་བར་དུ། ། བདག་ནི་ཉེར་འཚོའི་རྒྱུར་ཡང་ཤོག །",
+  "academic_translation": "Likewise, extending to the limits of space,\nFor the realm of sentient beings, in all ways,\nUntil they all attain nirvāṇa,\nMay I also be the cause of their sustenance.",
+  "locked_terms": [
+   {
+    "tibetan": "ནམ་མཁའ",
+    "use": "space"
+   },
+   {
+    "tibetan": "སེམས་ཅན་ཁམས",
+    "use": "realm of living beings"
+   },
+   {
+    "tibetan": "མྱ་ངན་འདས",
+    "use": "freedom from sorrow"
+   }
+  ],
+  "translation": "In the same way, reaching to the very edges of space, may I support the whole realm of living beings in every way. May I sustain them until they all reach freedom from sorrow."
+ },
+ {
+  "id": "3-22",
+  "tibetan": "ཇི་ལྟར་སྔོན་གྱི་བདེ་གཤེགས་ཀྱིས། ། བྱང་ཆུབ་ཐུགས་ནི་བསྐྱེད་པ་དང་། ། བྱང་ཆུབ་སེམས་དཔའི་བསླབ་པ་ལ། ། དེ་དག་རིམ་བཞིན་གནས་པ་ལྟར། །",
+  "academic_translation": "Just as the Sugatas of former times\nGenerated bodhicitta\nAnd in the trainings of the bodhisattvas\nProgressively abided,",
+  "locked_terms": [
+   {
+    "tibetan": "བདེ་གཤེགས",
+    "use": "Well-Gone One"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་ཐུགས",
+    "use": "awakening mind"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "བསླབ་པ",
+    "use": "training"
+   }
+  ],
+  "translation": "In the past, the Well-Gone Ones created the awakening mind. Step by step, they followed the trainings of the awakening heroes."
+ },
+ {
+  "id": "3-23",
+  "tibetan": "དེ་བཞིན་འགྲོ་ལ་ཕན་དོན་དུ། ། བྱང་ཆུབ་སེམས་ནི་བསྐྱེད་བགྱི་ཞིང་། ། དེ་བཞིན་དུ་ནི་བསླབ་པ་ལའང་། ། རིམ་པ་བཞིན་དུ་བསླབ་པར་བགྱི། །",
+  "academic_translation": "Likewise, for the benefit of wandering beings,\nI shall generate bodhicitta,\nAnd likewise in the trainings too\nI shall progressively train.",
+  "locked_terms": [
+   {
+    "tibetan": "འགྲོ",
+    "use": "being"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས",
+    "use": "awakening mind"
+   },
+   {
+    "tibetan": "བསླབ་པ",
+    "use": "training"
+   }
+  ],
+  "translation": "In the same way, I will create the awakening mind to help wandering beings. Step by step, I will also practice the trainings."
+ },
+ {
+  "id": "3-24",
+  "tibetan": "དེ་ལྟར་བློ་དང་ལྡན་པ་ཡིས། ། རབ་དང་བྱང་ཆུབ་སེམས་བཟུང་ནས། ། མཇུག་ཀྱང་རྒྱས་པར་བྱ་བའི་ཕྱིར། ། སེམས་ནི་འདི་ལྟར་གཟེངས་བསྟོད་དོ། །",
+  "academic_translation": "In this way, the intelligent one,\nHaving taken hold of bodhicitta with serene faith,\nIn order to make it flourish further,\nShould uplift the mind as follows:",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས",
+    "use": "awakening mind"
+   }
+  ],
+  "translation": "A wise person takes hold of the awakening mind with clear faith. To make it grow even more, they should encourage their mind like this:"
+ },
+ {
+  "id": "3-25",
+  "tibetan": "དེང་དུ་བདག་ཚེ་འབྲས་བུ་ཡོད། ། མི་ཡི་སྲིད་པ་ལེགས་པར་ཐོབ། ། དེ་རིང་སངས་རྒྱས་རིགས་སུ་སྐྱེས། ། སངས་རྒྱས་སྲས་སུ་བདག་དེང་གྱུར། །",
+  "academic_translation": "Today my life is fruitful;\nI have well obtained a human existence.\nToday I am born into the family of the Buddhas;\nToday I have become a child of the Buddhas.",
+  "locked_terms": [
+   {
+    "tibetan": "མི་ཡི་སྲིད་པ",
+    "use": "human life"
+   },
+   {
+    "tibetan": "སངས་རྒྱས་རིགས",
+    "use": "family of the Buddhas"
+   },
+   {
+    "tibetan": "སངས་རྒྱས་སྲས",
+    "use": "child of the Buddhas"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   }
+  ],
+  "translation": "Today my life has great meaning. I have gained a good human life. Today I am born into the family of the Buddhas. Today I have become a child of the Buddhas."
+ },
+ {
+  "id": "3-26",
+  "tibetan": "ད་ནི་བདག་གིས་ཅི་ནས་ཀྱང་། ། རིགས་དང་མཐུན་པའི་ལས་བརྩམས་ཏེ། ། སྐྱོན་མེད་བཙུན་པའི་རིགས་འདི་ལ། ། རྙོག་པར་མི་འགྱུར་དེ་ལྟར་བྱ། །",
+  "academic_translation": "Now I must, by whatever means,\nUndertake actions in accord with the family,\nSo that this flawless, noble family\nIs not defiled—thus shall I act.",
+  "locked_terms": [
+   {
+    "tibetan": "རིགས",
+    "use": "family"
+   }
+  ],
+  "translation": "Now I must do everything I can to act like my new family. I will act well so that I never bring shame to this pure and noble family."
+ },
+ {
+  "id": "3-27",
+  "tibetan": "ལོང་བས་ཕྱག་དར་ཕུང་པོ་ལས། ། ཇི་ལྟར་རིན་ཆེན་རྙེད་པ་ལྟར། ། དེ་བཞིན་ཇི་ཞིག་ལྟར་སྟེས་ནས། ། བྱང་ཆུབ་སེམས་འདི་བདག་ལ་སྐྱེས། །",
+  "academic_translation": "Just as a blind person from a heap of refuse\nMight find a precious jewel,\nLikewise, by some sheer chance,\nThis bodhicitta has been born in me.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས",
+    "use": "awakening mind"
+   }
+  ],
+  "translation": "Imagine a blind person finding a precious jewel in a pile of trash. By that same amazing luck, this awakening mind has been born in me."
+ },
+ {
+  "id": "3-28",
+  "tibetan": "འགྲོ་བའི་འཆི་བདག་འཇོམས་བྱེད་པའི། ། བདུད་རྩི་མཆོག་ཀྱང་འདི་ཡིན་ནོ། ། འགྲོ་བའི་དབུལ་བ་སེལ་བ་ཡི། ། མི་ཟད་གཏེར་ཡང་འདི་ཡིན་ནོ། །",
+  "academic_translation": "It is the supreme nectar\nThat destroys the Lord of Death for wandering beings.\nIt is the inexhaustible treasure\nThat dispels the poverty of wandering beings.",
+  "locked_terms": [
+   {
+    "tibetan": "འཆི་བདག",
+    "use": "Lord of Death"
+   },
+   {
+    "tibetan": "བདུད་རྩི",
+    "use": "nectar"
+   },
+   {
+    "tibetan": "མི་ཟད་གཏེར",
+    "use": "treasure that never runs out"
+   },
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   }
+  ],
+  "translation": "It is the best nectar that defeats the Lord of Death for beings. It is the treasure that never runs out, taking away the poverty of beings."
+ },
+ {
+  "id": "3-29",
+  "tibetan": "འགྲོ་བའི་ནད་རབ་ཞི་བྱེད་པའི། ། སྨན་གྱི་མཆོག་ཀྱང་འདི་ཡིན་ནོ། ། སྲིད་ལམ་འཁྱམ་ཞིང་དུབ་པ་ཡི། ། འགྲོ་བའི་ངལ་སོ་ལྗོན་ཤིང་ཡིན། །",
+  "academic_translation": "It is the supreme medicine\nThat thoroughly pacifies the illnesses of wandering beings.\nIt is the tree of rest for wandering beings\nWho are weary from wandering the path of existence.",
+  "locked_terms": [
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   },
+   {
+    "tibetan": "སྲིད་ལམ",
+    "use": "path of life"
+   }
+  ],
+  "translation": "It is the best medicine that cures the illnesses of beings. It is a tree of rest for beings who are tired from wandering the path of life."
+ },
+ {
+  "id": "3-30",
+  "tibetan": "འགྲོ་བ་ཐམས་ཅད་ངན་འགྲོ་ལས། ། སྒྲོལ་བར་བྱེད་པའི་སྤྱི་སྟེགས་ཡིན། ། འགྲོ་བའི་ཉོན་མོངས་གདུང་སེལ་བའི། ། སེམས་ཀྱི་ཟླ་བ་ཤར་བ་ཡིན། །",
+  "academic_translation": "It is the universal bridge that liberates\nAll wandering beings from the lower realms.\nIt is the rising moon of the mind\nThat dispels the torment of the afflictions of wandering beings.",
+  "locked_terms": [
+   {
+    "tibetan": "ངན་འགྲོ",
+    "use": "unhappy realm"
+   },
+   {
+    "tibetan": "སྤྱི་སྟེགས",
+    "use": "bridge for everyone"
+   },
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   },
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   }
+  ],
+  "translation": "It is a bridge for everyone that frees all beings from the unhappy realms. It is the rising moon of the mind that clears away the pain of beings' troubling emotions."
+ },
+ {
+  "id": "3-31",
+  "tibetan": "འགྲོ་བའི་མི་ཤེས་རབ་རིབ་དག ། དཔྱིས་འབྱིན་ཉི་མ་ཆེན་པོ་ཡིན། ། དམ་ཆོས་འོ་མ་བསྲུབས་པ་ལས། ། མར་གྱི་ཉིང་ཁུ་བྱུང་བ་ཡིན། །",
+  "academic_translation": "It is the great sun that uproots\nThe dimness of the unknowing of wandering beings.\nIt is the essence of butter that has emerged\nFrom churning the milk of the sublime Dharma.",
+  "locked_terms": [
+   {
+    "tibetan": "མི་ཤེས",
+    "use": "not knowing"
+   },
+   {
+    "tibetan": "དམ་ཆོས",
+    "use": "holy teachings"
+   },
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   }
+  ],
+  "translation": "It is the great sun that clears the dimness of beings' not knowing. It is the rich butter made by churning the milk of the holy teachings."
+ },
+ {
+  "id": "3-32",
+  "tibetan": "འགྲོ་བའི་མགྲོན་པོ་སྲིད་པའི་ལམ་རྒྱུ་ཞིང་། ། བདེ་བའི་ལོངས་སྤྱོད་སྤྱད་པར་འདོད་པ་ལ། ། འདི་ནི་བདེ་བའི་མཆོག་ཏུ་ཉེར་གནས་ཏེ། ། སེམས་ཅན་མགྲོན་ཆེན་ཚིམ་པར་བྱེད་པ་ཡིན། །",
+  "academic_translation": "For wandering beings, the guests who travel the path of existence\nAnd wish to experience the enjoyment of happiness,\nThis is stationed nearby as the supreme happiness,\nSatisfying the great guests, the sentient beings.",
+  "locked_terms": [
+   {
+    "tibetan": "སྲིད་པ",
+    "use": "life"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   }
+  ],
+  "translation": "Beings are guests traveling the path of life who wish to enjoy happiness. This is the greatest happiness waiting nearby. It satisfies the great guests, the living beings."
+ },
+ {
+  "id": "3-33",
+  "tibetan": "བདག་གིས་དེ་རིང་སྐྱོབ་པ་ཐམས་ཅད་ཀྱི། ། སྤྱན་སྔར་འགྲོ་བ་བདེ་གཤེགས་ཉིད་དང་ནི། ། བར་དུ་བདེ་ལ་མགྲོན་དུ་བོས་ཟིན་གྱིས། ། ལྷ་དང་ལྷ་མིན་ལ་སོགས་དགའ་བར་གྱིས། །",
+  "academic_translation": "Today, in the presence of all the Saviours,\nI have invited wandering beings as guests to Sugatahood itself,\nAnd to happiness in the meantime.\nLet gods, asuras, and others rejoice!",
+  "locked_terms": [
+   {
+    "tibetan": "སྐྱོབ་པ",
+    "use": "Protector"
+   },
+   {
+    "tibetan": "བདེ་གཤེགས",
+    "use": "Well-Gone One"
+   },
+   {
+    "tibetan": "ལྷ",
+    "use": "god"
+   },
+   {
+    "tibetan": "ལྷ་མིན",
+    "use": "demigod"
+   },
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   }
+  ],
+  "translation": "Today, in front of all the Protectors, I have invited beings as guests to the state of a Well-Gone One, and to happiness in the meantime. Let gods, demigods, and others rejoice!"
+ },
+ {
+  "id": "3-a",
+  "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ལས། བྱང་ཆུབ་ཀྱི་སེམས་ཡོངས་སུ་བཟུང་བ་ཞེས་བྱ་བ་སྟེ་ལེའུ་གསུམ་པའོ།། །།",
+  "academic_translation": "From Entering the Way of the Bodhisattva, the third chapter, called “Fully Taking Hold of Bodhicitta.”",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ",
+    "use": "Entering the Way of the Awakening Hero"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་ཀྱི་སེམས",
+    "use": "awakening mind"
+   }
+  ],
+  "translation": "From Entering the Way of the Awakening Hero, the third chapter, called \"Fully Taking Hold of the Awakening Mind.\""
+ },
+ {
+  "id": "4-1",
+  "tibetan": "རྒྱལ་བའི་སྲས་ཀྱིས་དེ་ལྟ་བུར། ། བྱང་ཆུབ་སེམས་རབ་བརྟན་བཟུང་ནས། ། གཡེལ་བ་མེད་པར་རྟག་ཏུ་ཡང་། ། བསླབ་ལས་མི་འདའ་འབད་པར་བྱ། །",
+  "academic_translation": "A child of the Victors, in that way,\nHaving firmly taken hold of bodhicitta,\nAlways and without lapse,\nShould strive not to transgress the trainings.",
+  "locked_terms": [
+   {
+    "tibetan": "རྒྱལ་བའི་སྲས",
+    "use": "child of the Victorious Ones"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས",
+    "use": "awakening mind"
+   },
+   {
+    "tibetan": "བསླབ",
+    "use": "training"
+   }
+  ],
+  "translation": "A child of the Victorious Ones has firmly taken hold of the awakening mind in this way. They should always try hard not to break the trainings."
+ },
+ {
+  "id": "4-2",
+  "tibetan": "བབ་ཅོལ་བརྩམས་པ་གང་ཡིན་པའམ། ། གང་ཞིག་ལེགས་པར་མ་བརྟགས་པ། ། དེ་ནི་དམ་བཅས་བྱས་གྱུར་ཀྱང་། ། བྱའམ་བཏང་ཞེས་བརྟགས་པའི་རིགས། །",
+  "academic_translation": "Whatever is undertaken rashly,\nOr whatever is not well examined,\nEven if a promise has been made regarding it,\nIt is appropriate to examine whether to do it or abandon it.",
+  "locked_terms": [],
+  "translation": "If something is started without thinking, or not checked carefully, you should think about whether to do it or drop it. This is true even if a promise was made."
+ },
+ {
+  "id": "4-3",
+  "tibetan": "སངས་རྒྱས་རྣམས་དང་དེ་ཡི་སྲས། ། ཤེས་རབ་ཆེན་པོས་གང་བརྟགས་ཤིང་། ། བདག་ཉིད་ཀྱིས་ཀྱང་བརྟག་བརྟགས་པ། ། དེ་ལ་བཤོལ་དུ་ཅི་ཞིག་ཡོད། །",
+  "academic_translation": "By the Buddhas and their children,\nWhatever has been examined with great wisdom,\nAnd which I myself have examined again and again,\nWhat reason is there to delay it?",
+  "locked_terms": [
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "ཤེས་རབ",
+    "use": "wisdom"
+   }
+  ],
+  "translation": "The Buddhas and their children have checked this with great wisdom. I have also checked it again and again. So what reason do I have to delay it?"
+ },
+ {
+  "id": "4-4",
+  "tibetan": "གལ་ཏེ་དེ་ལྟར་དམ་བཅས་ནས། ། ལས་ཀྱིས་བསྒྲུབ་པ་མ་བྱས་ན། ། སེམས་ཅན་དེ་དག་ཀུན་བསླུས་པས། ། བདག་གི་འགྲོ་བ་ཅི་འདྲར་འགྱུར། །",
+  "academic_translation": "If, having promised in that way,\nI do not accomplish it through action,\nBy deceiving all those sentient beings,\nWhat sort of wandering being will I become?",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   }
+  ],
+  "translation": "If I make a promise like that but do not act on it, I am tricking all those living beings. What sort of wandering being will I become?"
+ },
+ {
+  "id": "4-5",
+  "tibetan": "དངོས་པོ་ཕལ་པ་ཅུང་ཟད་ལའང་། ། ཡིད་ཀྱིས་སྦྱིན་པར་བསམ་བྱས་ནས། ། མི་གང་སྦྱིན་པར་མི་བྱེད་པ། ། དེ་ཡང་ཡི་དྭགས་འགྱུར་གསུངས་ན། །",
+  "academic_translation": "Even regarding a slight, ordinary thing,\nHaving intended in mind to give it,\nAny person who does not give it—\nIf it is taught that they will become a hungry ghost,",
+  "locked_terms": [
+   {
+    "tibetan": "ཡི་དྭགས",
+    "use": "hungry ghost"
+   }
+  ],
+  "translation": "Suppose you promise in your mind to give away a small, ordinary thing. If you do not give it, teachings say you will become a hungry ghost."
+ },
+ {
+  "id": "4-6",
+  "tibetan": "བླ་ན་མེད་པའི་བདེ་བ་ལ། ། བསམ་པ་ཐག་པས་མགྲོན་གཉེར་ནས། ། འགྲོ་བ་ཐམས་ཅད་བསླུ་བྱས་ན། ། བདེ་འགྲོར་ཇི་ག་འགྲོ་འགྱུར་རམ། །",
+  "academic_translation": "To unsurpassed happiness,\nHaving sincerely invited them,\nIf I deceive all wandering beings,\nHow shall I go to a happy realm?",
+  "locked_terms": [
+   {
+    "tibetan": "བླ་ན་མེད་པའི་བདེ་བ",
+    "use": "greatest happiness"
+   },
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   },
+   {
+    "tibetan": "བདེ་འགྲོ",
+    "use": "happy realm"
+   }
+  ],
+  "translation": "I have sincerely invited every being to the greatest happiness. If I trick them now, how can I ever go to a happy realm?"
+ },
+ {
+  "id": "4-7",
+  "tibetan": "མི་གང་བྱང་ཆུབ་སེམས་བཏང་ཡང་། ། དེ་དག་ཐར་བར་བྱེད་པ་ནི། ། ལས་ཚུལ་བསམ་གྱིས་མི་ཁྱབ་སྟེ། ། ཐམས་ཅད་མཁྱེན་པ་ཁོ་ནས་མཁྱེན། །",
+  "academic_translation": "Even if someone abandons bodhicitta,\nThat they attain liberation\nIs an inconceivable way of karma,\nWhich only the Omniscient One knows.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས",
+    "use": "awakening mind"
+   },
+   {
+    "tibetan": "ཐར་བ",
+    "use": "freedom"
+   },
+   {
+    "tibetan": "ལས",
+    "use": "action"
+   },
+   {
+    "tibetan": "ཐམས་ཅད་མཁྱེན་པ",
+    "use": "All-Knowing One"
+   }
+  ],
+  "translation": "Even if someone gives up the awakening mind, they might still find freedom. This is a mysterious result of action. Only the All-Knowing One understands it."
+ },
+ {
+  "id": "4-8",
+  "tibetan": "དེ་ནི་བྱང་ཆུབ་སེམས་དཔའ་ལ། ། ལྟུང་བའི་ནང་ན་ལྕི་བ་སྟེ། ། འདི་ལྟར་དེ་ནི་བྱུང་གྱུར་ན། ། སེམས་ཅན་ཀུན་གྱི་དོན་ལ་དམན། །",
+  "academic_translation": "For a bodhisattva, this\nIs the heaviest among downfalls,\nBecause should it occur,\nOne falls short in accomplishing the welfare of all sentient beings.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   },
+   {
+    "tibetan": "ལྟུང་བ",
+    "use": "fall"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   }
+  ],
+  "translation": "For an awakening hero, giving this up is the heaviest fall of all. If this happens, you fail to help all living beings."
+ },
+ {
+  "id": "4-9",
+  "tibetan": "གང་གཞན་སྐད་ཅིག་ཙམ་ཡང་འདིའི། ། བསོད་ནམས་བར་ཆད་གེགས་བྱེད་པ། ། སེམས་ཅན་དོན་ལ་དམན་གྱུར་པས། ། དེ་ཡི་ངན་འགྲོ་མུ་མཐའ་མེད། །",
+  "academic_translation": "If anyone else, even for a single moment,\nCreates an obstacle to this bodhisattva's merit,\nSince he is left falling short in the welfare of sentient beings,\nTheir lower realms will be endless.",
+  "locked_terms": [
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "store of goodness"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "ངན་འགྲོ",
+    "use": "unhappy realm"
+   }
+  ],
+  "translation": "Someone might block this hero's store of goodness for even a single moment. This stops the hero from helping living beings. Because of this, their time in an unhappy realm will be endless."
+ },
+ {
+  "id": "4-10",
+  "tibetan": "སེམས་ཅན་གཅིག་གི་བདེ་བ་ཡང་། ། བཤིག་ན་བདག་ཉིད་ཉམས་འགྱུར་ན། ། ནམ་མཁའ་མ་ལུས་མཐའ་ཀླས་པའི། ། ལུས་ཅན་བདེ་བཤིག་སྨོས་ཅི་དགོས། །",
+  "academic_translation": "Even the happiness of a single sentient being,\nIf destroying it leads to my own ruin,\nFor those who pervade all of space to its limits,\nWhat need to speak of destroying the happiness of embodied beings?",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "ལུས་ཅན",
+    "use": "being with a body"
+   }
+  ],
+  "translation": "Destroying the happiness of a single living being will bring my own ruin. What if I destroy the happiness of every being with a body? They fill all of space to its very edge. We do not even need to ask!"
+ },
+ {
+  "id": "4-11",
+  "tibetan": "དེ་ལྟར་ལྟུང་བ་སྟོབས་ལྡན་དང་། ། བྱང་ཆུབ་སེམས་སྟོབས་ལྡན་པ་དག ། འཁོར་བར་རེས་ཀྱིས་འདྲེ་བྱེད་ན། ། ས་ཐོབ་པ་ལ་ཡུན་རིང་ཐོགས། །",
+  "academic_translation": "Thus, if powerful downfalls\nAnd the powerful bodhicitta\nAlternate in saṃsāra,\nIt will take a long time to attain the grounds.",
+  "locked_terms": [
+   {
+    "tibetan": "ལྟུང་བ",
+    "use": "fall"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས",
+    "use": "awakening mind"
+   },
+   {
+    "tibetan": "འཁོར་བ",
+    "use": "cycle of rebirth"
+   },
+   {
+    "tibetan": "ས",
+    "use": "stage"
+   }
+  ],
+  "translation": "Suppose powerful falls and the powerful awakening mind take turns in the cycle of rebirth. Then it will take a long time to reach the stages."
+ },
+ {
+  "id": "4-12",
+  "tibetan": "དེ་ལྟས་ཇི་ལྟར་དམ་བཅས་བཞིན། ། བདག་གིས་གུས་པར་བསྒྲུབ་པར་བྱ། ། དེང་ནས་བརྩོན་པར་མ་བྱས་ན། ། འོག་ནས་འོག་ཏུ་འགྲོ་བར་འགྱུར། །",
+  "academic_translation": "Therefore, just as I have vowed,\nI must respectfully accomplish it.\nIf from today I do not apply diligence,\nI will go lower and lower.",
+  "locked_terms": [
+   {
+    "tibetan": "བརྩོན་པ",
+    "use": "effort"
+   }
+  ],
+  "translation": "Because of this, I must carefully do what I promised. If I do not make an effort starting today, I will go lower and lower."
+ },
+ {
+  "id": "4-13",
+  "tibetan": "སེམས་ཅན་ཐམས་ཅད་ཕན་མཛད་པའི། ། སངས་རྒྱས་གྲངས་མེད་འདས་གྱུར་ཀྱང་། ། བདག་ནི་རང་གི་ཉེས་པས་དེའི། ། གསོ་བའི་སྤྱོད་ཡུལ་མ་གྱུར་ཏོ། །",
+  "academic_translation": "Benefiting all sentient beings,\nCountless Buddhas have passed away, yet\nDue to my own faults, I\nHave not become an object of their healing.",
+  "locked_terms": [
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   }
+  ],
+  "translation": "Countless Buddhas have passed away while helping all living beings. But because of my own faults, I have not been healed by them."
+ },
+ {
+  "id": "4-14",
+  "tibetan": "ད་དུང་དེ་བཞིན་བདག་བྱེད་ན། ། ཡང་དང་ཡང་དུའང་དེ་བཞིན་ཏེ། ། ངན་འགྲོར་ནད་དང་འཆིང་བ་དང་། ། བཅད་དང་གཤེག་སོགས་མྱོང་བར་འགྱུར། །",
+  "academic_translation": "If I still act in this way,\nAgain and again it will be the same:\nIn the lower realms, illness and bondage,\nCutting, cleaving, and so forth, I will experience.",
+  "locked_terms": [
+   {
+    "tibetan": "ངན་འགྲོ",
+    "use": "unhappy realm"
+   }
+  ],
+  "translation": "If I keep acting this way, the same things will happen again and again. I will be sick, tied up, and cut in the unhappy realms."
+ },
+ {
+  "id": "4-15",
+  "tibetan": "དེ་བཞིན་གཤེགས་པ་འབྱུང་བ་དང་། ། དད་དང་མི་ལུས་ཐོབ་པ་དང་། ། དགེ་གོམས་རུང་བ་དེ་ལྟ་བུ། ། དཀོན་ན་ནམ་ཞིག་ཐོབ་པར་འགྱུར། །",
+  "academic_translation": "The appearance of a Tathāgata,\nFaith, and obtaining a human body,\nAnd such fitness to cultivate virtue—\nSince they are rare, when will they be obtained?",
+  "locked_terms": [
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས་པ",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "དད",
+    "use": "trust"
+   },
+   {
+    "tibetan": "མི་ལུས",
+    "use": "human body"
+   },
+   {
+    "tibetan": "དགེ",
+    "use": "good deed"
+   }
+  ],
+  "translation": "A Thus-Gone One appearing is very rare. Getting a human body, having trust, and being ready to do good deeds are also rare. When will I ever get these things again?"
+ },
+ {
+  "id": "4-16",
+  "tibetan": "ནད་མེད་ཉི་མ་འདི་ལྟ་བུ། ། ཟས་བཅས་འཚེ་བ་མེད་ཀྱང་ནི། ། ཚེ་ནི་སྐད་ཅིག་བསླུ་བ་སྟེ། ། ལུས་ནི་ཐང་ཅིག་བརྙན་པོ་བཞིན། །",
+  "academic_translation": "A day without illness like this,\nWith food and free from harm—even so,\nLife deceives in an instant,\nAnd the body is like a brief loan.",
+  "locked_terms": [],
+  "translation": "Today I am not sick. I have food and I am safe from harm. Even so, life can trick me in an instant. My body is just like a short loan."
+ },
+ {
+  "id": "4-17",
+  "tibetan": "བདག་གི་སྤྱོད་པ་འདི་འདྲས་ནི། ། མི་ཡི་ལུས་ཀྱང་འཐོབ་མི་འགྱུར། ། མི་ལུས་ཐོབ་པར་མ་གྱུར་ན། ། སྡིག་པ་འབའ་ཞིག་དགེ་བ་མེད། །",
+  "academic_translation": "With conduct such as mine,\nI will not attain even a human body.\nIf a human body is not attained,\nThere are only misdeeds and no virtue.",
+  "locked_terms": [
+   {
+    "tibetan": "མི་ལུས",
+    "use": "human body"
+   },
+   {
+    "tibetan": "སྡིག་པ",
+    "use": "harmful deed"
+   },
+   {
+    "tibetan": "དགེ་བ",
+    "use": "good deed"
+   }
+  ],
+  "translation": "If I act like this, I will not even get a human body. If I do not get a human body, I will only do harmful deeds and no good deeds."
+ },
+ {
+  "id": "4-18",
+  "tibetan": "གང་ཚེ་དགེ་སྤྱད་སྐལ་ལྡན་ཡང་། ། དགེ་བ་བདག་གིས་མ་བྱས་ན། ། ངན་སོང་སྡུག་བསྔལ་ཀུན་རྨོངས་པ། ། དེ་ཚེ་བདག་གིས་ཅི་བྱར་ཡོད། །",
+  "academic_translation": "Even when I have the fortune to practice virtue,\nIf I do not practice virtue,\nCompletely bewildered by the suffering of the lower realms,\nWhat will I be able to do at that time?",
+  "locked_terms": [
+   {
+    "tibetan": "དགེ་བ",
+    "use": "good deed"
+   },
+   {
+    "tibetan": "ངན་སོང",
+    "use": "unhappy realm"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "Right now I have the chance to do good deeds. If I do not do them, what will I be able to do later? I will be completely confused by the suffering of the unhappy realms."
+ },
+ {
+  "id": "4-19",
+  "tibetan": "དགེ་བ་དག་ཀྱང་མ་བྱས་ལ། ། སྡིག་པ་དག་ཀྱང་ཉེར་བསགས་ན། ། བསྐལ་པ་བྱེ་བ་བརྒྱར་ཡང་ནི། ། བདེ་འགྲོའི་སྒྲ་ཡང་ཐོས་མི་འགྱུར། །",
+  "academic_translation": "If I have not practiced virtues,\nAnd have accumulated misdeeds,\nFor even a hundred ten-million eons,\nI will not hear even the sound of the happy realms.",
+  "locked_terms": [
+   {
+    "tibetan": "དགེ་བ",
+    "use": "good deed"
+   },
+   {
+    "tibetan": "སྡིག་པ",
+    "use": "harmful deed"
+   },
+   {
+    "tibetan": "བསྐལ་པ",
+    "use": "great age"
+   },
+   {
+    "tibetan": "བདེ་འགྲོ",
+    "use": "happy realm"
+   }
+  ],
+  "translation": "If I do not do good deeds and only gather harmful deeds, things will be bad. I will not even hear about the happy realms for a billion great ages."
+ },
+ {
+  "id": "4-20",
+  "tibetan": "དེ་ཉིད་ཕྱིར་ན་བཅོམ་ལྡན་གྱིས། ། རྒྱ་མཚོ་ཆེར་གཡེངས་གཉའ་ཤིང་གི ། བུ་གར་རུས་སྦལ་མགྲིན་ཆུད་ལྟར། ། མི་ཉིད་ཤིན་ཏུ་ཐོབ་དཀར་གསུངས། །",
+  "academic_translation": "For that very reason, the Blessed One\nDeclared that, like a turtle's neck entering the hole\nOf a yoke drifting on the great ocean,\nThe human state is extremely difficult to attain.",
+  "locked_terms": [
+   {
+    "tibetan": "བཅོམ་ལྡན",
+    "use": "Blessed One"
+   }
+  ],
+  "translation": "For this reason, the Blessed One said that being human is extremely hard to achieve. He said it is like a turtle poking its neck through the hole of a wooden yoke drifting on a great ocean."
+ }
+]

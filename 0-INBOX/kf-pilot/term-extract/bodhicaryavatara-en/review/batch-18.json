@@ -1,0 +1,382 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "8-76",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-77",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-78",
+    "drop": [
+     {
+      "n": 6,
+      "reason": "ordinary verb"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-79",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འདོད་ལྡན",
+      "reason": "recurrent technical epithet",
+      "dm": "possessed by desire",
+      "gm": "with desires"
+     }
+    ]
+   },
+   {
+    "id": "8-80",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 1,
+      "bo_fixed": "དལ་འབྱོར"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "8-81",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-82",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-83",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-84",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-85",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-86",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སྡུག་བསྔལ",
+      "reason": "Buddhist technical term",
+      "dm": "suffering",
+      "gm": "suffering"
+     }
+    ]
+   },
+   {
+    "id": "8-87",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "descriptive phrase, not the base term"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-88",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "combination of two terms already listed"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-89",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-90",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-91",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-92",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-93",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-94",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-95",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-96",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-97",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-98",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-99",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "ordinary words, not a technical term on its own"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-100",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-101",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-102",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-103",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-104",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-105",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-106",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སྡུག་བསྔལ",
+      "reason": "Buddhist technical term",
+      "dm": "suffering",
+      "gm": "suffering"
+     }
+    ]
+   },
+   {
+    "id": "8-107",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "ordinary verb"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-108",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-109",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 1,
+      "bo_fixed": "སྙིང་རྗེ"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "8-110",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "དངོས་པོ་མེད",
+      "reason": "Buddhist technical term (abhāva)",
+      "dm": null,
+      "gm": "lack any entity"
+     }
+    ]
+   },
+   {
+    "id": "8-111",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-112",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-113",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ལུས་ཅན",
+      "reason": "Buddhist term for sentient beings (dehī)",
+      "dm": "embodied beings",
+      "gm": "embodied beings"
+     }
+    ]
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "8-78",
+    "bo": "གྲོལ",
+    "reason": "ordinary verb"
+   },
+   {
+    "id": "8-87",
+    "bo": "ཆགས་མེད",
+    "reason": "descriptive phrase, not the base term"
+   },
+   {
+    "id": "8-88",
+    "bo": "དབེན་པའི་ཡོན་ཏན",
+    "reason": "combination of two terms already listed"
+   },
+   {
+    "id": "8-99",
+    "bo": "བདག་གཞན",
+    "reason": "ordinary words, not a technical term on its own"
+   },
+   {
+    "id": "8-107",
+    "bo": "གྲོལ",
+    "reason": "ordinary verb"
+   }
+  ],
+  "fix_span": [
+   {
+    "id": "8-80",
+    "bo": "དལ་འབྱོར་ཕུན་སུམ",
+    "bo_fixed": "དལ་འབྱོར"
+   },
+   {
+    "id": "8-109",
+    "bo": "སྙིང་རྗེའི་སེམས",
+    "bo_fixed": "སྙིང་རྗེ"
+   }
+  ],
+  "add": [
+   {
+    "id": "8-79",
+    "bo": "འདོད་ལྡན",
+    "dm": "possessed by desire",
+    "gm": "with desires",
+    "reason": "recurrent technical epithet"
+   },
+   {
+    "id": "8-86",
+    "bo": "སྡུག་བསྔལ",
+    "dm": "suffering",
+    "gm": "suffering",
+    "reason": "Buddhist technical term"
+   },
+   {
+    "id": "8-106",
+    "bo": "སྡུག་བསྔལ",
+    "dm": "suffering",
+    "gm": "suffering",
+    "reason": "Buddhist technical term"
+   },
+   {
+    "id": "8-110",
+    "bo": "དངོས་པོ་མེད",
+    "dm": null,
+    "gm": "lack any entity",
+    "reason": "Buddhist technical term (abhāva)"
+   },
+   {
+    "id": "8-113",
+    "bo": "ལུས་ཅན",
+    "dm": "embodied beings",
+    "gm": "embodied beings",
+    "reason": "Buddhist term for sentient beings (dehī)"
+   }
+  ]
+ }
+}

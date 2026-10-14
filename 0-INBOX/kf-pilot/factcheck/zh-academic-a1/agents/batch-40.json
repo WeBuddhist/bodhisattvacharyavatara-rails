@@ -1,0 +1,137 @@
+{
+ "batch": "batch-40",
+ "segments": [
+  {
+   "id": "9-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-87",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "具慧者",
+     "evidence": "Tibetan 'དཔྱོད་ལྡན' = one endowed with investigation/analysis (Sanskrit विचारकः); bo-kunpal 9-87: 'དེ་ཁོ་ན་ཉིད་ཀྱི་དཔྱོད་པ་དང་ལྡན་པའི་གང་ཟག' (a person endowed with investigation of reality). '慧' reads as prajñā (ཤེས་རབ), not dpyod pa; elsewhere in the batch དཔྱོད/དཔྱད is rendered 分析.",
+     "fix": "對於色具分析者誰會貪著？"
+    }
+   ]
+  },
+  {
+   "id": "9-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-89",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "未經驗於彼",
+     "evidence": "The same verb མྱོང་ in line 2 ('གལ་ཏེ་དེ་མྱོང་མ་ཡིན་ན') and ཉམས་མྱོང་ in line 3 are used interchangeably (bo-gyaltsab 9-89, bo-shenga 9-89: 'མྱོང་བ་ཉིད་ནི་ཚོར་བའི་རང་བཞིན་'); the locked term ཉམས་མྱོང་ is 體驗, but line 2 uses 經驗, breaking the identity on which the argument (not experienced -> not feeling) depends.",
+     "fix": "故而未體驗彼"
+    }
+   ]
+  },
+  {
+   "id": "9-90",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "若謂彼僅是異於彼之喜，則彼微細亦屬於彼。",
+     "evidence": "Two different referents are both rendered 彼. bo-gyaltsab 9-91 and bo-shenga 9-90 ('ཕུལ་དུ་བྱུང་བའི་བདེ་བ་དེ་ལས་གཞན་དགའ་བའི་ཆ་ཙམ') show 'དེ་ལས་' = other than that strong happiness; bo-kunpal 9-90: 'ཕྲ་མོ་ཉིད་དེ་ཡང་དགའ་བ་དེའི་རིགས་ཡིན་' (the subtle thing itself belongs to the class of that joy/happiness). The Chinese leaves the referents unresolved.",
+     "fix": "若謂彼僅是異於該強盛之樂的微喜，則該微細亦屬於該樂之類。"
+    }
+   ]
+  },
+  {
+   "id": "9-91",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-92",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "應當修習此分析作為對治",
+     "evidence": "Tibetan 'འདི་ཡི་ནི། གཉེན་པོ་རྣམ་དཔྱོད་འདི་བསྒོམ་སྟེ' = meditate on this analysis as the antidote of this (the clinging to feeling); bo-kunpal 9-92: 'ཚོར་བ་བདེ་སོགས་ལ་…མངོན་པར་ཞེན་…འདི་ཡི་ནི་གཉེན་པོ'. 'Of this' (འདི་ཡི) is not rendered.",
+     "fix": "應當修習此分析作為此（執著）之對治"
+    }
+   ]
+  },
+  {
+   "id": "9-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-101",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-102",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-103",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-104",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

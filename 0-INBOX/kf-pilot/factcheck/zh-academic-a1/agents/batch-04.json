@@ -1,0 +1,152 @@
+{
+ "batch": "batch-04",
+ "segments": [
+  {
+   "id": "2-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-22",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "供養諸位勝者般",
+     "evidence": "Tibetan 'ཇི་ལྟར་འཇམ་དབྱངས་ལ་སོགས་པས། རྒྱལ་བ་རྣམས་ལ་མཆོད་མཛད་པ། དེ་བཞིན་' is a simple 'just as ... make offerings to the Victors, so (I)'. The Chinese doubles the comparison marker (猶如 ... 般) and leaves the clause dangling before 我亦如是.",
+     "fix": "猶如文殊師利等供養諸勝者，"
+    }
+   ]
+  },
+  {
+   "id": "2-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-24",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "等同一切剎土微塵數，我以俯首之身頂禮",
+     "evidence": "Tibetan 'ཞིང་རྡུལ་ཀུན་གྱི་གྲངས་སྙེད་ཀྱི། ལུས་བཏུད་པ་ཡིས' = by bodies (plural) as numerous as all the atoms of the fields; bo-shenga 2-24 'ཞིང་ཁམས་རབ་འབྱམས་ཀྱི་རྡུལ་ཀུན་ཀྱི་གྲངས་སྙེད་ཀྱི། ལུས་རང་གི་བློ་ཡིས་སྤྲུལ་ནས' (emanated bodies equal in number to the atoms). The Chinese separates the number phrase from 身 and gives a single 'bowed body', so the quantity no longer clearly qualifies the bodies.",
+     "fix": "以等同一切剎土微塵數之諸身，俯首而頂禮"
+    }
+   ]
+  },
+  {
+   "id": "2-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-27",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "正等覺者與菩提心、",
+     "evidence": "Tibetan 'རྫོགས་སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས། ཐུགས་རྗེ་ཆེན་པོ་མངའ་རྣམས་ལ' uses བྱང་ཆུབ་སེམས as an abbreviation of བྱང་ཆུབ་སེམས་དཔའ (bodhisattvas): Sanskrit 'bodhisattvān'; bo-shenga 2-27 'ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐུགས་རྗེ་ཆེན་པོ་མངའ་བ'; bo-kunpal 2-27 'བྱང་ཆུབ་སེམས་དཔའ་ཆེན་པོ་ཐུགས་སྙིང་རྗེ་ཆེན་པོ་མངའ་བ'. The addressees are beings 'who possess great compassion'; the Chinese makes 'bodhicitta' (a mental state) one of the beings residing in all directions and addressed in prayer. The locked 菩提心 does not fit this occurrence.",
+     "fix": "於安住一切方所之正等覺者與菩薩，具大悲之諸尊前"
+    }
+   ]
+  },
+  {
+   "id": "2-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-32",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "我在罪業尚未淨除之時，將在此之前死去",
+     "evidence": "Tibetan 'བདག་ནི་སྡིག་པ་མ་བྱང་བར། སྔོན་དུ་འགུམ་པར་འགྱུར་དུ་མཆི' = I will die before my misdeeds are purified (bo-gyaltsab 2-32: 'སྡིག་པ་མ་བྱང་བར་སྡིག་པ་དང་བཅས་ཏེ་འཆི་བདག་གིས་སྔོན་དུ་འགུམ་པར་འགྱུར'). The Chinese says 'at the time when misdeeds are not yet purified, I will die before this', which is circular/confusing about what 此 refers to.",
+     "fix": "我於罪業尚未淨除之前，便將先行死去"
+    },
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "如何能從此中獲得決定解脫，祈請迅速救護我",
+     "evidence": "Tibetan 'ཇི་ལྟར་འདི་ལས་ངེས་ཐར་བར། མྱུར་བའི་ཚུལ་གྱིས་བསྐྱབ་ཏུ་གསོལ' is a purposive petition: protect me quickly in whatever way I may be definitely freed from these (misdeeds). bo-kunpal 2-32 'ཐབས་ཇི་ལྟར་... ངེས་པར་ཐར་པར་འགྱུར་བ་ཞིག་མྱུར་ཞིང་རིངས་བའི་ཚུལ་གྱིས་བསྐྱབ་པར་མཛད་དུ་གསོལ'. The Chinese 如何能... reads as a bare rhetorical question 'how can I be freed', detached from the request.",
+     "fix": "為使我能從此罪業中決定解脫，祈請以迅速之方式救護我"
+    }
+   ]
+  },
+  {
+   "id": "2-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-34",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "親友與非親友",
+     "evidence": "Tibetan 'མཛའ་དང་མི་མཛའི་དོན་གྱི་ཕྱིར' = for the sake of those dear and those not dear (enemies); bo-shenga 2-34 'མཛའ་བ་ལ་ཕན་འདོགས་པ་དང་མི་མཛའ་བ་ལ་གནོད་པར་བྱ་བ'; bo-kunpal 2-34 'མི་མཛའ་བ་དགྲ'. 非親友 would include neutral people, whereas the text means adversaries; the same pair is rendered 親友與怨敵 in 2-35 and 2-37.",
+     "fix": "為了親友與怨敵之故"
+    }
+   ]
+  },
+  {
+   "id": "2-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-40",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

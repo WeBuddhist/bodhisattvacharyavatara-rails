@@ -1,0 +1,10 @@
+{
+ "session_dir": "/Users/tashitsering/.claude/projects/-Users-tashitsering-Desktop-work-Obsidian-KF-project/9c21a05b-5fa1-4975-8bee-f6f235fc6f76",
+ "step": "calibration",
+ "text": "bodhicaryavatara",
+ "lang": "hi",
+ "model": "sonnet",
+ "agents": {
+  "cal": "ab393a468fd6357c4"
+ }
+}

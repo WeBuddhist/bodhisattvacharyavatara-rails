@@ -1,0 +1,19 @@
+{
+ "step": "factcheck-academic",
+ "text": "bodhicaryavatara",
+ "lang": "en",
+ "model": "sonnet",
+ "session": "ca122cef-33c8-420b-9b53-14f174c7375c",
+ "attempt": 3,
+ "note": "re-check of 140 minor-issue regenerations + 4-37, 9-35 (attempt 3)",
+ "agents": {
+  "batch-01": "acbb48e9ee6ba5159",
+  "batch-02": "a2ea542aa12ff0a92",
+  "batch-03": "a1de98e8cfe9d070d",
+  "batch-04": "a33a29f024f01da94",
+  "batch-05": "aa5e52f72a7935175",
+  "batch-06": "a7dddb61d3d9b18a4",
+  "batch-07": "a89796d5c32b157d4",
+  "batch-08": "a592f9f96bad89a00"
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "batch": "batch-07",
+ "segments": [
+  {
+   "id": "3-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-17",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "小舟",
+     "evidence": "Tibetan has only \"གྲུ\" (boat) with no size marker. Both bo-kunpal 3-17 (\"ཆུ་འབྲིང་པོ་ལ་གྲུ་བཟང་པོ\", a good boat for medium water) and bo-shenga 3-17 (\"ཆུ་ཆེན་པོ་ལ་གྲུ་བ\", a boat for great water) treat it as a sizeable vessel, so \"小舟\" (small boat) adds a size the Tibetan and commentaries do not support.",
+     "fix": "舟"
+    }
+   ]
+  },
+  {
+   "id": "3-18",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "床榻",
+     "evidence": "Tibetan \"གནས་མལ\" is a compound of dwelling + bed; bo-kunpal 3-18 glosses it \"འདུག་པའི་གནས་དང་ཉལ་བའི་མལ\" (a place to stay and a bed). \"床榻\" (bed/couch) covers only the \"mal\" half and follows the Sanskrit śayyā; English academic has the broader \"resting place\".",
+     "fix": "臥處"
+    }
+   ]
+  },
+  {
+   "id": "3-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-33",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "迎請為善逝果位以及中途安樂之賓客",
+     "evidence": "Tibetan \"བདེ་གཤེགས་ཉིད་དང་ནི། བར་དུ་བདེ་ལ་མགྲོན་དུ་བོས་ཟིན\" means beings are invited as guests to (receive/enjoy) Sugatahood and interim happiness; bo-gyaltsab 3-33 glosses \"ཚིམ་པར་ལོངས་སྤྱད་པས་ཆོག་པའི་འགྲོན་དུ་བོས\" (invited as guests to be satisfied). The Chinese \"為...之賓客\" can be read as guests belonging to Sugatahood rather than guests invited to it.",
+     "fix": "已將眾生迎請為賓客，赴善逝果位以及中途安樂之筵"
+    }
+   ]
+  },
+  {
+   "id": "3-a",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

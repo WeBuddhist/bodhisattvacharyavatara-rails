@@ -1,0 +1,14 @@
+{
+ "step": "factcheck-children",
+ "text": "bodhicaryavatara",
+ "lang": "zh",
+ "model": "sonnet",
+ "attempt": 2,
+ "session_dir": "/Users/tashitsering/.claude/projects/-Users-tashitsering-Desktop-work-Obsidian-KF-project/9c21a05b-5fa1-4975-8bee-f6f235fc6f76",
+ "agents": {
+  "batch-01": "aac39dc9bca809743",
+  "batch-02": "aef7d74dc53c74cbe",
+  "batch-03": "a89682421fbc2cbd4"
+ },
+ "variant": "children"
+}

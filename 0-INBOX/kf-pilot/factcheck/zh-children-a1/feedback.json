@@ -1,0 +1,182 @@
+{
+ "1-32": {
+  "translation": "如果有人只給少數眾生一點食物。他只花短短的時間給一頓飯。就算他態度傲慢只讓人吃半飽。世人還是會尊敬他做了好事。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "只讓人吃半飽",
+    "evidence": "Academic: the giver satisfies (them) for only half a day (令飽半日), a limited duration; \"half full\" changes a time span into an amount.",
+    "fix": "就算他帶著輕視，只讓人飽上半天。"
+   }
+  ]
+ },
+ "2-1": {
+  "translation": "為了在心中保持那顆珍貴的心，我要準備美好的禮物來供養。我要供養如來和神聖的佛法，他們是純潔無瑕的珍寶。我也要供養佛陀的孩子，他們擁有美好品質的大海。",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "major",
+    "span": "我要供養如來和神聖的佛法,他們是純潔無瑕的珍寶。我也要供養佛陀的孩子,他們擁有美好品質的大海。",
+    "evidence": "Tibetan/academic list four offering objects: the Tathagatas, the sacred Dharma, the stainless Jewel, and the Buddha's children, all of them \"oceans of good qualities\". The children's text turns \"stainless jewel\" into a description of the first two and gives \"ocean of qualities\" only to the Buddha's children.",
+    "fix": "我要供養如來、神聖的佛法、純潔無瑕的珍寶，還有佛陀的孩子。他們都像美好品質的大海。"
+   }
+  ]
+ },
+ "4-19": {
+  "translation": "如果我不做好事，卻累積很多有害的行為，就算過了好幾百個漫長歲月，我也連快樂的去處的聲音都聽不到。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "就算過了好幾百個漫長歲月",
+    "evidence": "Academic: 縱然歷經百俱胝劫 (a hundred kotis of kalpas, about a billion); \"several hundred\" gravely understates the number.",
+    "fix": "如果我不做好事，卻累積很多有害的行為，就算過了數以億計的漫長歲月，我也連快樂的去處的聲音都聽不到。"
+   }
+  ]
+ },
+ "5-57": {
+  "translation": "面對那些沒有可責備的事情，即使是為了自己和眾生去做，也要把它們看成像變出來的東西一樣，沒有真正的「我」。我應該永遠保持這樣的心思。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "即使是為了自己和眾生去做，也要把它們看成像變出來的東西一樣",
+    "evidence": "Academic: 'under the control of oneself and sentient beings, like a conjured appearance without I, one should always hold this mind.' The children's text turns 'subject to self and beings' into 'doing it for the sake of' them, and makes the conjured-thing simile describe the deeds rather than how the mind is held.",
+    "fix": "面對那些沒有可責備的事情，我和眾生都能做主。我的心思要像變出來的東西一樣，不緊抓著「我」。我應該永遠保持這樣的心思。"
+   }
+  ]
+ },
+ "5-81": {
+  "translation": "帶著堅定的心意去幫忙，或是用解藥去對付壞習慣。只要對象是有著美好的品質的人、對我們有恩的人，或是正在承受痛苦的人，這都會變成很大的好事。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "帶著堅定的心意去幫忙，或是用解藥去對付壞習慣",
+    "evidence": "Academic: the action is 'prompted by constant strong inclination, or prompted by an antidote'; it then becomes great virtue toward qualities, benefactors and the suffering. The children's text narrows the action to 'helping' and the antidote to 'dealing with bad habits', neither of which is in the text.",
+    "fix": "如果是帶著強烈的心意去做，或是靠解藥的力量去做，而對象是有美好品質的人、對我們有恩的人，或是正在受苦的人，這就會成為很大的好事。"
+   }
+  ]
+ },
+ "6-89": {
+  "translation": "心裡的煩惱就像漁夫丟出的魚鉤，非常尖銳又難以忍受。一旦被這個魚鉤鉤住，地獄的守衛就會抓住我，把我丟進地獄的大鍋裡煮。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "心裡的煩惱就像漁夫丟出的魚鉤",
+    "evidence": "Academic: 'the hook cast by the fisherman of the afflictions' - the afflictions are the fisherman and the hook is what they cast. The children's text makes the afflictions themselves the hook and drops the fisherman image.",
+    "fix": "心裡的煩惱就像漁夫，他丟出的魚鉤又尖又硬，很難忍受。"
+   }
+  ]
+ },
+ "6-133": {
+  "translation": "先不說讓眾生開心，未來可以成為佛陀。就在這一生，我們也能得到極大的榮耀、好名聲和快樂。你怎麼沒看到呢？",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "先不說讓眾生開心，未來可以成為佛陀。就在這一生，我們也能得到",
+    "evidence": "Verse: leaving aside the future Buddhahood that arises from pleasing beings, why do you not see the great glory, fame and happiness in this very life (that also come from pleasing beings)? The children's wording reads as 'set aside pleasing beings' and loses that this-life benefits also come from pleasing beings.",
+    "fix": "讓眾生開心，未來能成為佛陀，這一點先不談。就在這一生，讓眾生開心也會帶來極大的榮耀、好名聲和快樂。你怎麼沒看到呢？"
+   }
+  ]
+ },
+ "7-73": {
+  "translation": "我要想一想：「遇到這些情況時，要怎麼做才能讓仔細留意變成習慣呢？」為了做到這一點，我應該多去親近好朋友，或是去做適合的好事。",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "major",
+    "span": "我應該多去親近好朋友",
+    "evidence": "Academic says only 'one should seek closeness' (Tibetan: meet/encounter this cause); it does not say to stay close to good friends. This adds a specific idea (associating with friends) not in the verse.",
+    "fix": "為了做到這一點，我應該去接近能幫助我的條件，或是去做適合的事。"
+   }
+  ]
+ },
+ "8-87": {
+  "translation": "我能自由自在，沒有貪求。我不被任何人牽絆。這種知足帶來的快樂，連帝釋天也很難找到。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "我能自由自在，沒有貪求。我不被任何人牽絆。",
+    "evidence": "The verse describes the forest hermit in the third person (acting freely, unattached, linked to no one), with contentment-happiness even Indra finds hard to get; the children's text makes the narrator say 'I' have this freedom, changing the subject (and clashing with the third-person 8-86).",
+    "fix": "他們自由自在，沒有貪求，不被任何人牽絆。這種知足帶來的快樂，連帝釋天也很難找到。"
+   }
+  ]
+ },
+ "8-142": {
+  "translation": "沒有美好的品質又怎樣呢？其實我們都有美好的品質。總會有人比這個人更差勁，也總有被我比下去的人。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "總會有人比這個人更差勁",
+    "evidence": "Academic translation: 'there are also those than whom this person is inferior' - i.e. someone better than him exists. The children's text reverses this to someone worse than him.",
+    "fix": "其實總有人比這個人更強，也總有人比不上我。"
+   }
+  ]
+ },
+ "8-175": {
+  "translation": "想要卻得不到，就會產生心裡的煩惱，快樂的心情也會跟著減少。不去依賴任何東西的人，就能永遠擁有極好的狀態。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "快樂的心情也會跟著減少",
+    "evidence": "Academic: 意樂的衰退 (decline of one's aspiration/good intention), not decline of happy feelings.",
+    "fix": "想要卻得不到，就會產生心裡的煩惱，美好的心願也會跟著變弱。"
+   }
+  ]
+ },
+ "9-44": {
+  "translation": "如果說僧人是佛法的根本，那麼要成為真正的僧人也很難。那些心裡抓著東西不放的人，也很難真正脫離憂苦。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "要成為真正的僧人也很難",
+    "evidence": "Academic: 'the monk is also difficult to establish' and 'their nirvana is also difficult to establish' - the point is that these are hard to establish or justify (the opponent's own claim is shaky), not that they are hard to achieve.",
+    "fix": "如果說僧人是佛法的根本，那麼連「誰是真正的僧人」都很難說得清楚。那些心裡抓著東西不放的人，說他們脫離憂苦，也很難說得通。"
+   }
+  ]
+ },
+ "9-123": {
+  "translation": "神為什麼不一直創造東西呢？因為他不依靠其他事物。如果沒有不是他創造的東西，他還能依靠什麼呢？",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "因為他不依靠其他事物。",
+    "evidence": "Academic: 'Why does he not create constantly? He does not depend on anything else.' The logic is: since he is independent he should always create; the children's 'because' makes independence the reason he does not create, reversing the argument.",
+    "fix": "如果神不依靠其他事物，他為什麼不一直創造東西呢？既然沒有不是他創造的東西，他還能依靠什麼呢？"
+   }
+  ]
+ },
+ "9-131": {
+  "translation": "有人可能會說，快樂是從布料等東西來的。可是布料不是真的存在，所以快樂也不存在。而且，我們也從來沒有經歷過永不改變的快樂。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "有人可能會說，快樂是從布料等東西來的。",
+    "evidence": "Academic gives no opponent framing; this is Santideva's own argument (pleasure etc. come from cloth etc.; without that, no pleasure; and permanent pleasure is never perceived). The children's text turns it into an opponent's claim and adds 'cloth does not truly exist'.",
+    "fix": "快樂是從布料等東西來的。如果沒有布料，快樂也就沒有了。而且，我們也從來沒有看見過永不改變的快樂。"
+   }
+  ]
+ },
+ "9-148": {
+  "translation": "如果沒有脫離不存在的東西，東西就不可能存在。東西也不會變成不存在的東西。不然的話，它就會有兩種本性了。",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "不然的話，它就會有兩種本性了",
+    "evidence": "The verse gives a reason: a thing does not become a non-thing because that would absurdly entail two natures. 「不然的話」 reads as 'if it does not become a non-thing, it would have two natures', reversing the logic.",
+    "fix": "東西也不會變成不存在的東西，因為如果那樣，它就會同時有兩種本性了。"
+   }
+  ]
+ }
+}

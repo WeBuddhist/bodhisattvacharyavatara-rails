@@ -1,0 +1,282 @@
+{
+ "segments": [
+  {
+   "id": "1-11",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "1-27",
+   "candidates": {
+    "A": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "Of all sentient beings without exception,",
+      "explanation": "Dangling phrase separated from \"striving for their happiness\"; hard to parse."
+     }
+    ],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "\"all ... without exception\" (sems can ma lus thams cad) is reduced to plain \"beings\"."
+     }
+    ],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "2-22",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "all the Buddhas our protectors",
+      "explanation": "\"all\" and \"our\" are not in the Tibetan."
+     }
+    ],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "2-53",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "terrors all around",
+      "explanation": "Tibetan has \"great fear\"; \"all around\" and plural terrors are added."
+     }
+    ]
+   }
+  },
+  {
+   "id": "2-57",
+   "candidates": {
+    "A": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "Of falling a thousand yojanas Into a long-lasting precipice, what need to mention?",
+      "explanation": "Syntax is garbled and hard to parse; the \"of falling\" phrase is left dangling."
+     }
+    ],
+    "B": [],
+    "C": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "Of falling a thousand yojanas On a long-lasting precipice, what need to mention?",
+      "explanation": "Syntax is garbled and hard to parse; \"On\" misstates falling into the precipice."
+     }
+    ],
+    "D": []
+   }
+  },
+  {
+   "id": "3-15",
+   "candidates": {
+    "A": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "respect",
+      "explanation": "dad pa is faith/devotion, not respect."
+     }
+    ],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "4-20",
+   "candidates": {
+    "A": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "the Bhagavan Of a yoke drifting on the great ocean",
+      "explanation": "Line order splits the subject from its verb; \"the Bhagavan of a yoke\" misparses."
+     }
+    ],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "4-29",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "5-12",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "5-41",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "master concentration",
+      "explanation": "Tibetan says \"strive in samadhi\", not mastering it."
+     }
+    ],
+    "D": []
+   }
+  },
+  {
+   "id": "5-47",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "5-85",
+   "candidates": {
+    "A": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "fallen into ruin",
+      "explanation": "log par ltung means fallen into wrong/lower states (animals etc.), not \"ruin\"."
+     }
+    ],
+    "B": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "fallen into wrong paths",
+      "explanation": "Commentaries mean animals and lower states; \"wrong paths\" suggests heterodox views."
+     }
+    ],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "5-98",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "the Buddhas and the Bodhisattvas",
+      "explanation": "byang chub sems is bodhicitta, not Bodhisattvas; second object of reliance is changed."
+     }
+    ],
+    "D": []
+   }
+  },
+  {
+   "id": "6-6",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "6-30",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "They say that these are agents of the self",
+      "explanation": "Tibetan asks what link allows \"this is its action\"; the claim about agents is not there."
+     }
+    ],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "6-64",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "6-87",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "6-98",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "6-126",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "seen in the nature of the Protectors",
+      "explanation": "Source: those seen as sentient beings are the Protectors; here beings are seen as Protectors, reversing the perception."
+     }
+    ]
+   }
+  },
+  {
+   "id": "7-10",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  }
+ ]
+}

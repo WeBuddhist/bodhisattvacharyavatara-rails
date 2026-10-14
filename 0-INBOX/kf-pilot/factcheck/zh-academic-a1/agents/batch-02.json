@@ -1,0 +1,152 @@
+{
+ "batch": "batch-02",
+ "segments": [
+  {
+   "id": "1-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-19",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "無間等空廣生起",
+     "evidence": "Tibetan \"རྒྱུན་མི་འཆད་པར་དུ་མ་ཞིག ། ནམ་མཁའ་མཉམ་པར་རབ་ཏུ་འབྱུང་\" = uninterrupted, manifold, arises equal to space. The Chinese string packs 無間 / 等空 / 廣 / 生起 together so that 等空 and 廣 are hard to attach (to 福德之勢力 or to the verb); 廣 has no Tibetan counterpart in the verse itself (only bo-kunpal 1-19 glosses རྒྱ་ཆེ་).",
+     "fix": "無間斷地、多重地生起，等同虛空"
+    }
+   ]
+  },
+  {
+   "id": "1-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-22",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "且於一一無量功德，欲令成就",
+     "evidence": "Tibetan \"སེམས་ཅན་རེ་རེའི་མི་བདེ་བ། … རེ་རེའང་ཡོན་ཏན་དཔག་མེད་དུ། བསྒྲུབ་པར་འདོད་པ\" : \"each (sentient being) ... wishing to accomplish [each of them] as having immeasurable qualities\". རེ་རེ refers to each sentient being, not to each quality. bo-kunpal 1-22: \"དེ་དག་རེ་རེ་ལའང་ ... ཡོན་ཏན་དཔག་ཏུ་མེད་པ་དང་ལྡན་པ་ཉིད་དུ་བསྒྲུབ་པར་འདོད་པ\"; bo-gyaltsab 1-22: \"སེམས་ཅན་རེ་རེའང་སངས་རྒྱས་ཀྱི་ཡོན་ཏན་དཔག་མེད་ཅན་དུ་བསྒྲུབ་པར་འདོད་པ\". The Chinese makes 一一 modify 功德 and leaves the beneficiary of 成就 unstated.",
+     "fix": "且欲令彼一一有情成就無量功德"
+    }
+   ]
+  },
+  {
+   "id": "1-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-26",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "喜樂",
+     "evidence": "Tibetan \"དགའ་བའི་རྒྱུ\" = cause of joy (དགའ་བ). 喜樂 contains 樂, the locked rendering of བདེ་བ, so it blurs དགའ་བ with བདེ་བ (bo-kunpal 1-26 and bo-shenga 1-26 list དགའ་བ and བདེ་བ as separate items).",
+     "fix": "歡喜"
+    }
+   ]
+  },
+  {
+   "id": "1-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-32",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "尋常食",
+     "evidence": "Tibetan \"ནར་མའི་ཟས་སྦྱོར་བ\" = providing food continuously/regularly. bo-kunpal 1-32: \"ནར་མའི་ཞེས་ལོའམ་ཟླ་བར་ཉིན་བཞིན་ནར་མ་སྟེ་རྒྱུན་མ་བཅད་པའི་ཟས་སྦྱིན་པ\" (nar ma = uninterrupted daily provision); bo-shenga 1-32 \"དུས་ནར་མའི་ཟས\". 尋常 means \"ordinary\", which is a different sense.",
+     "fix": "持續供應的飲食"
+    },
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "縱帶輕蔑且僅令飽半日",
+     "evidence": "Tibetan \"བརྙས་བཅས་ཉིན་ཕྱེད་འགྲངས་པར་བྱེད་པ\" states as fact that the giving is with contempt (བརྙས་བཅས). 縱 turns it into a concession (\"even if\"), which the Tibetan does not have; bo-kunpal 1-32 \"བརྙས་བཅོས་དང་བཅས་པའི་སྒོ་ནས\" and bo-shenga 1-32 \"སྦྱིན་པའི་ཚུལ་བརྙས་པ་དང་བཅས་པས\".",
+     "fix": "帶著輕蔑而僅令飽半日"
+    }
+   ]
+  },
+  {
+   "id": "1-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-34",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "依生起惡心之數量而於相應之劫",
+     "evidence": "Tibetan \"ངན་སེམས་བསྐྱེད་པའི་གྲངས་བཞིན་བསྐལ་པར་ནི། དམྱལ་བར་གནས་པར་འགྱུར\" = for as many eons as the number of malicious thoughts generated. 相應之劫 is vague and does not state that the number of eons equals the number of thoughts (bo-kunpal 1-34: \"དེའི་གྲངས་ཇི་སྙེད་ཡོད་པ་དེ་སྙེད་ཀྱི་བསྐལ་པར་ནི་དམྱལ་བར་... གནས་པར་འགྱུར\").",
+     "fix": "生起惡心有多少次，便於地獄住多少劫"
+    }
+   ]
+  },
+  {
+   "id": "1-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "1-a",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

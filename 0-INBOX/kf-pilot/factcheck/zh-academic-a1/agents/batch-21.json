@@ -1,0 +1,137 @@
+{
+ "batch": "batch-21",
+ "segments": [
+  {
+   "id": "6-102",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-103",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-104",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-105",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-107",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-109",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "那麼堪為成就之因，何以亦供養正法？",
+     "evidence": "Tibetan 'grub pa yi ni rgyur rung ba / dam pa\\'i chos kyang ci ste mchod' : 'rgyur rung ba' (fit to be a cause) modifies dam pa\\'i chos (the sublime Dharma); bo-shenga 6-109 glosses it as the Dharma/scriptures that are the cause of all qualities. In the Chinese the modifier is detached from 正法 by the comma and reads as a dangling phrase, obscuring that it describes the Dharma.",
+     "fix": "那麼堪為成就之因的正法，為何亦受供養？"
+    }
+   ]
+  },
+  {
+   "id": "6-110",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-111",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "彼即是安忍之因",
+     "evidence": "Tibetan 'de nyid bzod pa\\'i rgyu yin pas / dam pa\\'i chos bzhin mchod par os' : the referent of 'de nyid' is the enemy/harm-doer (Skt 'sa eva'; bo-shenga 6-111 'dgra bo de nyid'; bo-gyaltsab 6-111 'gnod byed de nyid'). In the Chinese the only preceding noun is 瞋心, so 彼 can be read as the hateful mind rather than the enemy, which would make the hateful mind the object of veneration.",
+     "fix": "彼怨敵即是安忍之因"
+    }
+   ]
+  },
+  {
+   "id": "6-112",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-113",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-114",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "與之相同有情亦具功德",
+     "evidence": "Tibetan 'des mtshungs par / sems can rnams la\\'ang yon tan yod' : 'des mtshungs par' = 'like them, i.e. the Buddhas' (bo-kunpal 6-114 'sangs rgyas rnams dang mtshungs par sems can rnams la\\'ang ... yon tan yod'). In the Chinese 與之相同 has no clear antecedent (nearest noun is 果), so the comparison with the Buddhas is lost.",
+     "fix": "如同諸佛，有情亦具功德"
+    }
+   ]
+  },
+  {
+   "id": "6-115",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-116",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-117",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-118",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-119",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-120",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "利益彼等即成報答舉",
+     "evidence": "Tibetan 'de la phan btags lan lon \\'gyur bas na' : benefiting them becomes a repayment (bo-shenga 6-120 'de\\'i drin lan lon par \\'gyur bas na'). 報答舉 is ungrammatical/unidiomatic; the intended 報答之舉 or simply 報答 is needed.",
+     "fix": "利益彼等即成報答"
+    }
+   ]
+  },
+  {
+   "id": "6-121",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

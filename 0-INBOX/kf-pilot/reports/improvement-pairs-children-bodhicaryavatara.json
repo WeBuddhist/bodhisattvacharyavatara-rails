@@ -1,0 +1,1138 @@
+[
+ {
+  "track": "en-children",
+  "id": "1-4",
+  "before": "This free and fortunate life is very hard to find. We have gained what we need to reach the purpose of a human life. If we do not use this life to do what is helpful, how will we ever find it perfectly again?",
+  "after": "This free and fortunate life is very hard to find. We have gained what we need to reach the purpose of a human life. If we do not use this life to do what is helpful, how will we ever find a life like this again?",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "1-8",
+  "before": "Some people want to end the hundreds of sufferings of life. Some want to take away the sadness of living beings. Others want to enjoy hundreds of joys. All of them should never give up the awakening mind.",
+  "after": "People who want to end the hundreds of sufferings of life, to take away the sadness of living beings, and to enjoy hundreds of joys should never give up the awakening mind.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "1-9",
+  "before": "As soon as the awakening mind is born, everything changes in a flash. Poor beings trapped in the prison of the cycle of rebirth will be called children of the Well-Gone Ones. The whole world, including gods and humans, will bow down to them.",
+  "after": "As soon as the awakening mind is born, in a single moment, poor beings trapped in the prison of the cycle of rebirth will be called children of the Well-Gone Ones. The whole world, including gods and humans, will bow down to them.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "1-11",
+  "before": "The one leader of travelers for all beings has a limitless mind. He looked at it closely and saw how precious it is. Anyone who wants to leave the homes of beings should hold tightly to the precious awakening mind.",
+  "after": "The one leader of travelers for all beings has a limitless mind. He looked at it closely and saw how precious it is. Because of this, anyone who wants to be free from the realms of beings should hold tightly to the precious awakening mind.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "1-14",
+  "before": "It is like the fire at the end of time. It completely burns up great mistakes in a single instant. The wise Protector Maitreya explained its endless benefits to Sudhana.",
+  "after": "It is like the fire at the end of time. It completely burns up great harmful deeds in a single instant. The wise Protector Maitreya explained its endless benefits to Sudhana.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "1-18",
+  "before": "You might truly take up this mind to completely free the endless realm of living beings. You make this choice with a mind of never turning back. From that very moment...",
+  "after": "From the moment you truly take up this mind to completely free the endless realm of living beings, with a mind of never turning back,",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "1-20",
+  "before": "The Thus-Gone One himself explained this. He gave the reasons for it in the teaching called the Question of Subahu. He said this to help living beings who are just starting out.",
+  "after": "The Thus-Gone One himself explained this. He gave the reasons for it in the teaching called the Question of Subahu. He said this to help living beings whose wishes are still small.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "1-25",
+  "before": "Most people do not have this wish even for themselves. But this wish to help every living being is born as a brand new wonder. It is an amazing jewel of a mind.",
+  "after": "Other beings do not have this wish even for themselves. But this wish to help every living being is born as a brand new wonder. It is an amazing jewel of a mind.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "1-29",
+  "before": "Some people have no happiness and face so much suffering. This mind fills them with happiness and cuts through all their suffering.",
+  "after": "For beings who have no happiness and face so much suffering, this mind fills them with happiness and cuts through all their suffering.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "1-34",
+  "before": "What if someone thinks bad thoughts about such a kind child of the Victorious Ones? The Sage taught that for every bad thought, they will stay in hell for a great age.",
+  "after": "What if someone has a hateful thought toward such a kind child of the Victorious Ones? The Sage taught that they will stay in hell for one great age for every hateful thought.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "1-36",
+  "before": "I bow down to anyone who has grown this perfect, precious mind. Even if someone hurts them, they still connect that person to happiness. I go for shelter to these sources of happiness.",
+  "after": "I bow down to the body of anyone in whom this supreme, precious mind has arisen. Even if someone hurts them, they still connect that person to happiness. I go for shelter to these sources of happiness.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "2-4",
+  "before": "I offer sweet smells and incense from the worlds of gods and others. I offer wish-granting trees and jewel trees. I offer crops that grow without being planted. I offer every other beautiful thing that is worthy of being offered.",
+  "after": "I offer sweet smells and incense from the worlds of gods and others. I offer wish-granting trees and jewel trees. I offer crops that grow without anyone ploughing the field. I offer every other beautiful thing that is worthy of being offered.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "2-6",
+  "before": "In my mind, I gather all these things. I offer them to the Sages and their children. They are the ones worthy of gifts. May those of great compassion think of me with love and accept my offerings.",
+  "after": "In my mind, I gather all these things. I offer them to the Sages, the best of beings, and to their children. They are the greatest ones worthy of gifts. May those of great compassion think of me with love and accept my offerings.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "2-7",
+  "before": "I have no store of goodness, and I am very poor. I have no other wealth to offer. Therefore, may the Protectors who care about the good of others accept this for my sake.",
+  "after": "I have no store of goodness, and I am very poor. I have no other wealth to offer. Therefore, may the Protectors who care about the good of others accept this for my sake by their own power.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "2-29",
+  "before": "Sometimes ignorance confused me. I used to feel joy in my mistakes. Now I see how wrong they were. I own up to them to the Protectors from the bottom of my heart.",
+  "after": "Ignorance confused me completely. I used to feel joy in my mistakes. Now I see these mistakes. I own up to them to the Protectors from the bottom of my heart.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "2-32",
+  "before": "I might die before the cleansing of my harmful deeds. Please protect me quickly so I can have sure freedom from them.",
+  "after": "I will die before the cleansing of my harmful deeds. Please protect me quickly so I can have sure freedom from them.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "2-48",
+  "before": "In the same way, their teachings are what I go to for shelter. These teachings chase away the fears of the cycle of rebirth. The group of awakening heroes is also who I go to for shelter.",
+  "after": "In the same way, the teachings they have realized are what I go to for shelter. These teachings chase away the fears of the cycle of rebirth. The group of awakening heroes is also who I go to for shelter.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "2-50",
+  "before": "His actions are always perfect because of his compassion. I cry out in a sad voice to the protector Avalokiteshvara. I say, 'Please protect me, one who has done harmful deeds!'",
+  "after": "Because of his compassion, his actions never go wrong. I cry out in a sad voice to the protector Avalokiteshvara. I say, \"Please protect me, one who has done harmful deeds!\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "2-53",
+  "before": "In the past, I broke your rules. Now I have seen great danger. You are who I go to for shelter. Please take away my fears quickly!",
+  "after": "In the past, I went against your commands. Now I have seen great fear. You are the one I go to for shelter. Please take away my fears quickly!",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "2-55",
+  "before": "Just one of these faults can destroy all the people living in Jambudvipa. No other medicine can cure them. We cannot find a cure anywhere at all.",
+  "after": "Imagine if just one of these illnesses could destroy all the people living in Jambudvipa. And imagine if no medicine to cure them could be found anywhere.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "2-56",
+  "before": "The All-Knowing Doctor takes away all pain. Not wanting to follow his orders is extreme ignorance. Anyone who ignores him should be scolded.",
+  "after": "In that case, for the All-Knowing Doctor who takes away all pain, not wanting to follow his commands is extreme ignorance. Anyone who ignores him should be scolded.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "2-57",
+  "before": "We must be careful even near a small, normal cliff. So of course we must be careful near a huge drop! We could fall a thousand leagues and be trapped for a long time.",
+  "after": "We must be careful even near a small, normal cliff. So of course we must be careful when we could fall a thousand leagues into a drop that lasts a very long time!",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "3-5",
+  "before": "I put my hands together and pray to the Victorious Ones who wish to pass into freedom from sorrow. Do not leave these blind wandering beings behind. Please stay with us for countless great ages.",
+  "after": "I put my hands together and pray to the Victorious Ones who wish to pass into freedom from sorrow. Do not leave these beings in blindness. Please stay with us for countless great ages.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "3-22",
+  "before": "In the past, the Well-Gone Ones created the awakening mind. Step by step, they followed the trainings of the awakening heroes.",
+  "after": "Just as the Well-Gone Ones of the past created the awakening mind and, step by step, followed the trainings of the awakening heroes,",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "3-23",
+  "before": "In the same way, I will create the awakening mind to help wandering beings. Step by step, I will also practice the trainings.",
+  "after": "In the same way, I will create the awakening mind to help all beings. Step by step, I will also practice the trainings.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "3-26",
+  "before": "Now I must do everything I can to act like my new family. I will act well so that I never bring shame to this pure and noble family.",
+  "after": "Now I must do whatever I can to act in a way that fits this family. I will make sure I never stain this flawless and noble family.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "4-5",
+  "before": "Suppose you promise in your mind to give away a small, ordinary thing. If you do not give it, teachings say you will become a hungry ghost.",
+  "after": "Suppose you decide in your mind to give away a small, ordinary thing. If you do not give it, the teachings say you will become a hungry ghost.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "4-10",
+  "before": "Destroying the happiness of a single living being will bring my own ruin. What if I destroy the happiness of every being with a body? They fill all of space to its very edge. We do not even need to ask!",
+  "after": "If destroying the happiness of just one living being ruins me, what will happen if I destroy the happiness of endless beings with bodies who fill all of space? I do not even need to ask.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "4-12",
+  "before": "Because of this, I must carefully do what I promised. If I do not make an effort starting today, I will go lower and lower.",
+  "after": "Because of this, I must respectfully do what I vowed. If I do not make an effort starting today, I will go lower and lower.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "4-15",
+  "before": "A Thus-Gone One appearing is very rare. Getting a human body, having trust, and being ready to do good deeds are also rare. When will I ever get these things again?",
+  "after": "A Thus-Gone One appearing is very rare. Getting a human body, having trust, and being ready to do good deeds are also rare. When will I ever get these things?",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "4-19",
+  "before": "If I do not do good deeds and only gather harmful deeds, things will be bad. I will not even hear about the happy realms for a billion great ages.",
+  "after": "If I do not do good deeds and I pile up harmful deeds, I will not hear even the sound of the happy realms for a billion great ages.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "4-33",
+  "before": "If I serve and honor my other enemies, they might bring me help and happiness. But if I serve my troubling emotions, they only bring me more suffering and harm.",
+  "after": "If I kindly serve and honor others, they bring me help and happiness. But if I serve my troubling emotions, they bring me further suffering and harm.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "4-37",
+  "before": "In battle, soldiers fight enemies who will die a natural death anyway. These soldiers ignore the suffering of being struck by arrows, spears, and weapons. They do not turn back and run away without reaching their goal.",
+  "after": "If even soldiers fight enemies who will die anyway, and ignore the suffering of being struck by arrows and spears, and do not run away before they reach their goal...",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "4-38",
+  "before": "My true natural enemies are the constant cause of all suffering. Today, I am trying hard to destroy them. Even if this fight causes me hundreds of sufferings, it will certainly not make me despair and lose heart.",
+  "after": "My true natural enemies are the constant cause of all suffering. Today, I am trying hard to destroy them. So of course I will not lose heart, even if this fight brings me hundreds of sufferings.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "4-40",
+  "before": "Fishermen, outcasts, farmers, and others only think about making a living. Yet they put up with the pain of cold and heat. I am working for the happiness of all wandering beings. Why should someone like me not endure these things too?",
+  "after": "Fishermen, outcasts, farmers, and others only think about making a living. Yet they put up with the pain of cold and heat. I am working for the happiness of all beings. Why should someone like me not endure these things too?",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "4-41",
+  "before": "I promised to free the wandering beings who fill space in the ten directions. I promised to free them from their troubling emotions. But when I made this promise, I was not even free from my own troubling emotions!",
+  "after": "I promised to free the beings who fill space in the ten directions. I promised to free them from their troubling emotions. But when I made this promise, I was not even free from my own troubling emotions!",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "4-42",
+  "before": "Since I do not even know what I can really do, am I not crazy to talk like this? Still, I will never turn back from destroying my troubling emotions.",
+  "after": "Since I do not even know what I can really do, am I not crazy to talk like this? So I will never turn back from destroying my troubling emotions.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "4-43",
+  "before": "I will hold tightly to this goal. I will hold a grudge and fight this battle! This is the only kind of troubling emotion I should not let go of, because it destroys all other troubling emotions.",
+  "after": "I will hold tightly to this. I will hold a grudge and fight this battle! This is the only kind of troubling emotion I should not let go of, because it destroys all other troubling emotions.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "5-11",
+  "before": "Where could fish and other animals be put so they are never killed? The perfection of good conduct comes from getting the mind of giving up harmful actions.",
+  "after": "Where could fish and other animals be put so they are never killed? The perfection of good conduct is explained as coming from getting the mind of giving up.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "5-12",
+  "before": "Wild living beings are as endless as space. They can never be fully defeated. But if this single mind of anger is defeated, it is like defeating all those enemies at once.",
+  "after": "Wild living beings are like space. They can never be fully defeated. But if this single mind of anger is defeated, it is like defeating all those enemies at once.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "5-22",
+  "before": "It is better to lose my gain and honor. It is better to lose my body and my life. It is even better to lose other good deeds. But I must never let my mind fail.",
+  "after": "It is better to lose my gain and honor. It is better to lose my body and the things I live on. It is even better to lose other good deeds. But I must never let my mind fail.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "5-28",
+  "before": "This gang of thieves, made of troubling emotions, looks for a chance to strike. When they find it, they steal every good deed. They even destroy life in a happy realm.",
+  "after": "This gang of thieves, made of troubling emotions, looks for a chance to strike. When they find it, they steal my good deeds. They even destroy life in a happy realm.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "5-30",
+  "before": "For lucky people who act with careful respect, keeping in mind grows easily. This happens by spending time with a teacher and listening to the teacher who ordained me.",
+  "after": "For lucky people who act with respect because they are afraid to do wrong, keeping in mind grows easily. This happens by spending time with a teacher and listening to the teacher who ordained me.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "5-42",
+  "before": "When I face danger or go to a festival, I might not be able to do everything perfectly. If so, I should just relax. It is taught that at times of giving, good conduct should be treated with even-mindedness.",
+  "after": "When I am caught up in danger, a festival, and the like, if I cannot keep up my practice, I should act at ease. It is taught that at times of giving, good conduct should be treated with even-mindedness.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "5-51",
+  "before": "If I want gain, honor, or fame, or if I want to seek helpers and followers. If my mind wants to be served, at that time I should stay like a log.",
+  "after": "If I want gain, honor, or fame, or want to seek helpers and followers, or if my mind wants to be served, at that time I should stay like a log.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "5-53",
+  "before": "When impatience, laziness, and fear appear, along with rudeness and idle talk. Or if a mind attached to my own side comes up, at that time I should stay like a log.",
+  "after": "If I feel impatience, laziness, fear, rudeness, or idle talk, or if my mind clings to my own side, at that time I should stay like a log.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "5-57",
+  "before": "When I do things that are free of blame with myself and any living being, I must always hold my mind like a magical creation. It must not have any 'I' in it.",
+  "after": "For things that are free of blame, which are in my hands and in the hands of living beings, I must always hold my mind like a magical creation, with no 'I' in it.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "5-60",
+  "before": "My mind, you hold onto this body and call it 'mine'. But why do you guard it so closely? You and the body are completely separate. What can it really do for you?",
+  "after": "My mind, you hold onto this body and call it 'mine.' But why do you guard it so closely? If you and the body are separate, what can it really do for you?",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "5-71",
+  "before": "So, work on being in control of oneself. Always keep a smiling face. Stop frowning and scowling completely. Be a friend to wandering beings and speak honestly.",
+  "after": "So, practice being in control of oneself and always keep a smiling face. Stop frowning and scowling completely. Be a friend to wandering beings and speak honestly.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "5-81",
+  "before": "A good deed becomes very great when you do it with a strong, lasting wish, or as a remedy. This is true when you act toward people with good qualities, people who help you, and those in suffering.",
+  "after": "A good deed becomes very great when you do it with a strong, lasting wish, or when a remedy against troubling emotions moves you to act. This is true when you act toward people with good qualities, people who help you, and those in suffering.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "5-90",
+  "before": "People who are ready for the vast teachings should not practice the lesser teachings instead. Good behavior should not be given up completely. I should not trick people with teaching texts and sacred words.",
+  "after": "People who are ready for the vast teachings should not practice the lesser teachings instead. Good behavior should not be given up completely. I should not lure people away with teaching texts and sacred words.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "5-93",
+  "before": "I should not be alone with another woman in a vehicle, on a bed, on a seat, or in a room. By watching and asking questions, I should find out what upsets people. Then I must avoid doing anything that causes the world to lose faith.",
+  "after": "I should not be alone with another woman in a vehicle, on a bed, on a seat, or in a room. By watching and asking, I should find out what makes the world lose faith. Then I must avoid all of it.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "5-101",
+  "before": "Whether directly or indirectly, I should only do things that help living beings. For the sake of living beings alone, I give everything to awakening by sharing the goodness.",
+  "after": "Whether directly or indirectly, I should only do things that help living beings. For the sake of living beings alone, I should give everything to awakening by sharing the goodness.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "5-103",
+  "before": "I should learn how to rely on a teacher from the life story of Shrisambhava. I will know this and other things spoken by the Buddha by reading the scriptures.",
+  "after": "I should learn how to rely on a teacher from the life story of Shrisambhava. I should read the scriptures to learn this and other things the Buddha taught.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "6-6",
+  "before": "The enemy of anger produces these and other kinds of suffering. Whoever tries hard to destroy anger will be happy in this life and the next.",
+  "after": "Anger is an enemy, and it brings these and other kinds of suffering. Whoever tries hard to destroy anger will be happy in this life and the next.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "6-15",
+  "before": "Think of snakes and biting flies. Think of the feeling of hunger and thirst. Think of itchy rashes. Why do you not see that all this suffering is pointless?",
+  "after": "Think of snakes, biting flies, itchy rashes, and the feeling of hunger and thirst. The suffering they bring is pointless. Why do you not see this?",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "6-19",
+  "before": "Even when suffering happens, wise people keep a clear mind. They are fighting a war against troubling emotions. Many harms happen during a battle.",
+  "after": "Even when suffering happens, wise people keep a clear mind. This is because they are fighting a war against troubling emotions, and many harms happen during a battle.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "6-21",
+  "before": "Suffering also has a good quality. Sadness stops us from feeling superior. We feel compassion for those in the cycle of rebirth. We avoid harmful deeds and enjoy good deeds.",
+  "after": "Suffering also has a good quality. Getting tired of suffering stops us from feeling superior. We feel compassion for those in the cycle of rebirth. We avoid harmful deeds and enjoy good deeds.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "6-31",
+  "before": "So, everything is controlled by other forces. Because of this power, everything is powerless. Knowing this, I will not get angry at any things. They are just like magic illusions.",
+  "after": "Everything is controlled by other forces. Because of this power, everything is powerless. Knowing this, a person will not get angry at any things. They are like things that magic has conjured up.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "6-32",
+  "before": "Someone might ask, \"What can stop what? Even stopping things makes no sense!\" But because things depend on each other, it does make sense. It is not wrong to wish for sufferings to be cut away.",
+  "after": "Someone might ask, \"What can stop what? Even stopping things makes no sense!\" But because suffering depends on its causes, it does make sense. It is not wrong to wish for suffering to be cut away.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "6-33",
+  "before": "Therefore, whether it is an enemy or a friend, if I see them doing something wrong, I will think, \"This has come from these circumstances.\" I will think this way and stay at ease.",
+  "after": "Therefore, if you see an enemy or a friend doing something wrong, think, \"This has come from these circumstances.\" Think this way and stay at ease.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "6-41",
+  "before": "Someone might hit me with a stick. If I feel anger at the person swinging it, I must remember they are driven by hatred. It makes more sense to feel anger at hatred itself.",
+  "after": "Someone might hit me with a stick. If I feel anger at the person swinging it, since he is driven by hatred too, it makes more sense to feel anger at hatred.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "6-50",
+  "before": "If my intention has a good quality, I will not go to hell. But if I just protect myself, what will happen to them?",
+  "after": "If my intention has a good quality, I will not go to hell. If I protect myself, what will happen to them here?",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "6-71",
+  "before": "In the same way, the fire of hatred spreads to whatever the mind has clinging to. To stop my store of goodness from burning, I must throw that clinging away right now.",
+  "after": "In the same way, the fire of hatred spreads to whatever the mind is clinging to. To stop my store of goodness from burning, I must throw away right now whatever my mind is clinging to.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "6-86",
+  "before": "You feel no sorrow for the harmful deeds you yourself have done. On top of that, do you want to compete with others who have built up a store of goodness? The Second Fascicle.",
+  "after": "You feel no sorrow for the harmful deeds you yourself have done. On top of that, do you want to compete with others who have built up a store of goodness? This is the end of the second part of the book.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "6-91",
+  "before": "If I really knew my own good, what own good is there in that? If I only want my mind to feel happy, I must also rely on gambling and alcohol.",
+  "after": "Even if I knew my own good, what own good is there in that? If I only want my mind to feel happy, I would also have to turn to gambling, alcohol, and things like that.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "6-99",
+  "before": "Some people are around just to destroy my praise. Are they not protecting me from falling into an unhappy realm?",
+  "after": "Therefore, some people are around to destroy my praise and things like it. Are they not protecting me from falling into an unhappy realm?",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "6-103",
+  "before": "If my own faults stop me from practicing patience with this, I am the one making a block. The cause of a store of goodness is right in front of me.",
+  "after": "If my own faults stop me from practicing patience with this, I am only making a block, even when the cause of a store of goodness is right in front of me.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "6-105",
+  "before": "A beggar arriving at the right time is not a block to giving. Someone who helps you in becoming a monk or nun cannot be called a block to becoming a monk or nun.",
+  "after": "A beggar who arrives at the right time is not a block to giving. Someone who gives you the vows of a monk or nun cannot be called a block to becoming a monk or nun.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "6-111",
+  "before": "Therefore, patience only arises because of a very hateful mind. Since they are the exact cause of patience, they deserve to be honored just like the holy teachings.",
+  "after": "Therefore, patience arises by depending on someone's very hateful mind. Since they are the exact cause of patience, they deserve to be honored just like the holy teachings.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "6-116",
+  "before": "Living beings have a part in helping me gain every quality of a Buddha. That is why living beings and the Buddhas are seen as equal. But no one is truly equal to the Buddhas. They have an endless ocean of good qualities.",
+  "after": "Living beings have a share in bringing about the qualities of a Buddha. Because of this, living beings and the Buddhas are seen as equal. But no one is truly equal to the Buddhas. They have an endless ocean of good qualities.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "6-117",
+  "before": "If even a tiny part of a supreme good quality appears in someone, I should honor them. Even giving them the three realms as a gift would be too little.",
+  "after": "If even a tiny part of that special collection of supreme good qualities appears in someone, I should make offerings to them. Even giving them the three realms would be too little.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "6-119",
+  "before": "The Buddhas are true friends who never trick me. They help me in ways I cannot measure. How could I ever pay them back? The only way is by making living beings happy.",
+  "after": "There are true friends who never trick me and who help me in ways I cannot measure. How could I ever pay them back? The only way is by making living beings happy.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "7-8",
+  "before": "I will think, \"I haven't finished this. I just started that. This is only half done.\" Then the Lord of Death will suddenly arrive. I will think, \"Oh no, I am ruined!\"",
+  "after": "When the Lord of Death suddenly arrives, I will find that \"This is not done. That is just begun. This is only half done.\" Then I will think, \"Oh no, I am ruined!\"",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "7-18",
+  "before": "Think of flies, mosquitoes, bees, and worms. Even they can build up the power of joyful effort. If they do, they will reach the highest awakening, which is very hard to achieve.",
+  "after": "Think of flies, gadflies, bees, and worms. If even they build up the power of joyful effort, they will reach the highest awakening, which is very hard to achieve.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "7-20",
+  "before": "I might think, \"I am afraid to give away my arms and legs.\" But this fear is just confusion. I am not thinking about what is truly hard and what is easy.",
+  "after": "I might think, \"I am afraid to give away my arms and legs.\" But this fear is just confusion. I am not weighing what matters more and what matters less.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "7-29",
+  "before": "The power of the awakening mind wipes out every past harmful deed. It also gathers an ocean of stored goodness. Because of this, the bodhisattva is greater than the Hearers.",
+  "after": "The power of the awakening mind uses up past harmful deeds. It also gathers an ocean of stored goodness. Because of this, the bodhisattva is greater than the Hearers.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "7-35",
+  "before": "I must build up many good qualities in myself and others. I must practice each and every good quality for an ocean of great ages.",
+  "after": "I must build up many good qualities in myself and others. If I must practice each and every good quality for an ocean of great ages,",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "7-39",
+  "before": "Because I did not have a strong wish for the teachings in the past, and still do not have it now, I have ended up so poor. Who would ever give up a strong wish for the teachings?",
+  "after": "Because I did not have a strong wish for the teachings in the past, and still do not have it now, I have ended up in such a sad, empty state. Who would ever give up a strong wish for the teachings?",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "7-48",
+  "before": "If I get used to turning back, it will happen in another life too. My harmful deeds and suffering will increase. Any new action and its results will become weak. Then that action will not get finished either.",
+  "after": "If I get used to giving up, it will happen in another life too. My harmful deeds and suffering will increase. Any other action, and the time of its result, will become weak. Then that other action will not get finished either.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "7-49",
+  "before": "I should build my pride in three things: my action, my troubling emotions, and my ability. Thinking, \"I will do this alone,\" is called pride in action.",
+  "after": "I should build my pride in three things: my action, my power over troubling emotions, and my ability. Thinking, \"I will do this alone,\" is pride in action.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "7-64",
+  "before": "We never get enough of a desire for pleasure, which is like licking honey from a razor's edge. So how could I ever get enough of a store of goodness? Its ripening is happiness and peace.",
+  "after": "If we never get enough of our desires for pleasure, which are like honey smeared on a razor's edge, how could I ever get enough of a store of goodness? Its ripening is happiness and peace.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "7-67",
+  "before": "Just like a brave warrior fighting enemies with swords on a battlefield, I must dodge the weapons of the troubling emotions. Then I must strike hard to destroy those enemy troubling emotions.",
+  "after": "Just like an experienced warrior clashing swords with enemies on a battlefield, I must dodge the weapons of the troubling emotions. Then I must strike to destroy those enemy troubling emotions.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "7-a",
+  "before": "From Entering the Way of the Awakening Hero, this is the seventh chapter, called Joyful Effort.",
+  "after": "From Entering the Way of the Awakening Hero, this is the seventh chapter, called the Teaching on Joyful Effort.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-6",
+  "before": "If we do not see them, we feel no joy, and the mind does not rest as a settled mind. Even when we do see them, we are never satisfied. We are still hurt by wanting, just as before.",
+  "after": "If we do not see them, we feel no joy, and the mind cannot become a settled mind. Even when we do see them, we are never satisfied. We are still hurt by wanting, just as before.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-9",
+  "before": "If I share the same path as a childish person, I will certainly go to an unhappy realm. If they lead me away from the noble path, what is the use of relying on a childish person?",
+  "after": "If I share the same fate as a childish person, I will certainly go to an unhappy realm. If they lead me to a fate unlike that of the noble ones, what is the use of relying on a childish person?",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-13",
+  "before": "If I spend time with a childish person, I will hear them praising oneself and putting others down. They will talk happily about the cycle of rebirth. Every kind of bad deed will surely come from this.",
+  "after": "If I spend time with a childish person, bad deeds will definitely happen. That childish person brings about praising oneself and putting others down. We will talk about enjoying the cycle of rebirth and things like that.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-16",
+  "before": "A bee just takes nectar from a flower and flies away. In the same way, I will only take what helps me practice the teachings. I will stay slightly apart from everyone, as if I had never met them before.",
+  "after": "A bee just takes nectar from a flower. In the same way, I will only take what helps me practice the teachings. I will not become close to anyone, as if I had never seen them before.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-22",
+  "before": "Living beings have many different strong wishes. If even the Victorious Ones cannot please them all, how could an ordinary person like me do it? Therefore, I will let go of my thoughts about the world.",
+  "after": "Living beings have many different strong wishes. If even the Victorious Ones cannot please them all, how could someone as lowly as me do it? Therefore, I will let go of my thoughts about the world.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-40",
+  "before": "In the past, you sent many messengers to win their love. You did not hesitate to do harmful deeds or ruin your good name for them.",
+  "after": "In the past, you sent many messengers and made many requests for their sake. You did not hesitate to do harmful deeds or ruin your good name for them.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-43",
+  "before": "When you first lifted the cloth with effort, that face looked down shyly. Whether you had seen it before or not, that face was covered.",
+  "after": "At first you worked hard to lift that face. Even when you lifted it up, it looked down shyly. Whether you had seen it before or not, that face was covered by a cloth.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-52",
+  "before": "You are full of filth yourself. You carry it around all the time. Yet you still want other bags of filth. You desire them out of greed for filth.",
+  "after": "You are full of filth yourself. You use it all the time. Yet you still want other bags of filth. You desire them out of greed for filth.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-60",
+  "before": "You do not even hate your own filth. But out of greed for filth, you also desire another bag of filth.",
+  "after": "You do not even look down on your own filth. But out of greed for filth, you also desire another bag of filth.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-82",
+  "before": "A tiny fraction of that hardship could bring us to the state of a Buddha. A person full of desire goes through suffering worse than the way of acting for awakening. Yet they get no awakening at all.",
+  "after": "Even a ten-millionth part of that hardship could bring us to the state of a Buddha. A person full of desire goes through greater suffering than the way of acting for awakening. Yet they get no awakening at all.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-87",
+  "before": "If I act on my own without clinging, I am not tied to anyone at all. The joy of being happy with enough is hard even for Indra to find.",
+  "after": "They act on their own without clinging and are not tied to anyone at all. The joy of being happy with enough is hard even for Indra to find.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-93",
+  "before": "I should take away the suffering of others. It is suffering, just like my own suffering. I should help other living beings. They are like my very own body.",
+  "after": "I should take away the suffering of others, because it is suffering, just like my own suffering. I should help others because they are living beings, just like my own body.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-100",
+  "before": "A continuing stream and a collection of parts are not real things. They are just words, like a necklace or an army. Since no one truly owns suffering, who is there to control it?",
+  "after": "A continuing stream and a collection of parts are not real in themselves. They are like a necklace or an army. Since no one truly owns suffering, who is there to control it?",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-102",
+  "before": "Someone might ask, \"Why should we stop the suffering of everyone?\" There is no room to argue. If we stop it, we must stop all of it. If not, then I must suffer just like any other living being.",
+  "after": "Someone might ask, \"Why should we stop the suffering of everyone?\" There is no room to argue. If we stop it, we must stop it for all. If not, then my own suffering should not be stopped either, since I am a living being just like them.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-104",
+  "before": "If facing one single suffering removes many other sufferings, a kind person should gladly accept it. They should be willing to bring about that suffering for themselves and others.",
+  "after": "If facing one single suffering removes many other sufferings, a kind person should certainly take on that suffering for themselves and others.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-107",
+  "before": "When living beings are freed, there is an ocean of joy. Is that joy not enough? What is the use of wanting freedom just for myself?",
+  "after": "When living beings are freed, there is an ocean of joy. Is that joy not enough? What is the use of wanting freedom?",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-110",
+  "before": "I grew used to thinking of drops from others as my own body. Even though they are without a thing that is really me, I call them 'I'.",
+  "after": "By getting used to it, I take the drops of seed and blood from others as \"I\". Even though they are without a thing, I still call them \"I\".",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-126",
+  "before": "If I only wish to be great, I will be reborn in an unhappy realm as someone low and foolish. If I shift that wish to others, I will gain a happy realm and respect.",
+  "after": "If I wish to be great myself, I will be reborn in an unhappy realm as someone low and foolish. If I shift that wish to others, I will gain a happy realm and respect.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-130",
+  "before": "If I do not exchange my own happiness for the suffering of others, I will never reach the state of a Buddha. Even in the cycle of rebirth, I will find no happiness.",
+  "after": "If I do not truly exchange my own happiness for the suffering of others, I will never reach the state of a Buddha. Even in the cycle of rebirth, I will find no happiness.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-132",
+  "before": "Out of confusion, I might cause suffering to others. This only brings me unbearable suffering. I throw away the perfect joy that brings happiness I can see and cannot see.",
+  "after": "Out of confusion, I cause suffering to others. This brings me unbearable suffering, and I throw away the perfect joy that brings happiness I can see and cannot see.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-139",
+  "before": "Pretend that you are someone lower. Pretend that others are you. Clear your mind of busy thinking. Then practice feeling jealousy, rivalry, and pride.",
+  "after": "See a lower person and others as yourself. Then see yourself as them. Clear your mind of busy thinking. Practice feeling jealousy, rivalry, and pride.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-164",
+  "before": "In short, think of any harm you have ever done to others for your own sake. Now, for the sake of all living beings, let that harm fall upon yourself.",
+  "after": "In short, whatever harm you have done to others for your own sake, let that same harm fall upon yourself, for the sake of all living beings.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-167",
+  "before": "Even when I tell you what to do, if you do not listen, my mind, I must defeat you. All faults come from you, so I have no other choice.",
+  "after": "Even when I tell you what to do, if you, my mind, do not act that way, I must defeat you. All faults rely on you, so I have no other choice.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-168",
+  "before": "That past time when you ruined me is over. Now I see you. Where will you go? I will destroy all your feeling superior.",
+  "after": "That past time when you ruined me is over. Now I see you. Where will you go? I will destroy all of your feeling superior.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-171",
+  "before": "You have handed me over to suffering again and again. I have hurt for a long time. I remember those grudges. Now I will destroy your thoughts about your own good.",
+  "after": "In that way, you have handed me over again and again. I have suffered for a long time. I remember those grudges. Now I will destroy your thoughts about your own good.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "8-183",
+  "before": "So, without being attached, I will give up my body to help others. It has many faults. Still, I will keep it like a tool for doing good.",
+  "after": "So, without being attached, I will give up my body to help others. It has many faults. Still, I will keep it like a tool for getting things done.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "9-4",
+  "before": "Even a meditation master has a different level of thinking mind. Higher masters prove the lower ones wrong. They use examples they both agree on. They do not question these examples because they just want a result.",
+  "after": "Meditation masters are not all equal in their thinking minds. A higher master proves a lower one wrong. They use examples they both agree on. They do not question these examples because they just want a result.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "9-14",
+  "before": "Someone might say, \"Since even a Buddha would be trapped in the world, what is the use of the way of acting for awakening?\" I reply: As long as the unbroken flow of circumstances is not cut, even an illusion will not stop.",
+  "after": "Someone might say, \"Since even a Buddha would keep going around in the cycle of rebirth, what is the use of the way of acting for awakening?\" I reply: As long as the unbroken flow of circumstances is not cut, even an illusion will not stop.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "9-24",
+  "before": "Someone might say, \"Because of a special circumstance, a person can see that the mind shines to itself.\" But using magic eye ointment lets you see a hidden vase. It does not let you see the eye ointment itself.",
+  "after": "Someone might say, \"Because the mind uses other circumstances to see, it shines to itself.\" Using magic eye ointment lets you see a vase. But it does not let you see the eye ointment itself.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "9-28",
+  "before": "But if a non-existent thing depends on a real thing, how could it do anything? Without anything outside it, your mind would have no companion. Your mind would become completely alone.",
+  "after": "If a non-existent thing depends on a thing, how could it do anything? Your mind would have no companion. It would be completely alone.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "9-33",
+  "before": "When you say, \"This thing does not exist,\" and you cannot find the thing you are looking for, what happens? How can a non-existent thing without a base stay in front of the thinking mind?",
+  "after": "When you say, \"This does not exist,\" and you look closely at the thing but cannot find it, what happens? How can a non-existent thing without a base stay in front of the thinking mind?",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "9-37",
+  "before": "In the same way, following the way of acting for awakening, the shrine of the Victorious One has been built. Even after the awakening hero passes away, it still achieves every goal.",
+  "after": "In the same way, following the way of acting for awakening, the shrine of the Victorious One has been built. Even after the awakening hero passes into freedom from sorrow, it still achieves every goal.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "9-41",
+  "before": "Someone might ask, \"If the Great Vehicle is not proven, how is your sacred text proven?\" You might answer, \"Because we both agree on it.\" But at first, it was not proven for you either.",
+  "after": "Someone might ask, \"If the Great Vehicle is not proven, how is your sacred text proven?\" The answer is, \"Because it is proven for both of us.\" But at first, it was not proven for you.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "9-43",
+  "before": "Someone might say, \"We reject the Great Vehicle because people argue about it.\" But you argue with a non-Buddhist about your sacred text. You also argue with other groups about other sacred texts. Since people argue about them, you would have to throw them all away.",
+  "after": "Someone might say, \"We reject the Great Vehicle because people argue about it.\" But you argue with a non-Buddhist about your sacred text. You also argue about other sacred texts, both with your own groups and with other groups. Since people argue about them, you would have to throw them all away.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "9-44",
+  "before": "If being a monk is the root of the teaching, even being a monk is hard to prove. For people whose minds are holding on to things, even freedom from sorrow is hard to reach.",
+  "after": "If being a monk is the root of the teaching, even being a monk is hard to prove. For people whose minds are holding on to things, even freedom from sorrow is hard to prove.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "9-46",
+  "before": "Someone might say it is certain that, for now, the wanting that causes holding on does not exist. Even if that wanting is not troubled by troubling emotion, why would it not exist? It would be just like confusion.",
+  "after": "Someone might say it is certain that, for now, the wanting that causes holding on does not exist. Even if that wanting is not troubled by troubling emotion, why would it not exist, just as confusion still exists?",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "9-48",
+  "before": "A mind that does not have emptiness will start up again even after it stops. It is like a deep meditation with no perceiving. Because of this, you should meditate on emptiness.",
+  "after": "A mind that has not understood emptiness will start up again even after it stops. It is like a deep meditation with no perceiving. Because of this, you should meditate on emptiness.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "9-50",
+  "before": "You say that leaving out one text makes them all faulty. But what if one is like a true teaching text? Why are they not all spoken by the Victorious One?",
+  "after": "You say that leaving out one text makes them all faulty. But if just one is like a teaching text, why are they not all spoken by the Victorious One?",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "9-52",
+  "before": "We want to help those who have suffering from confusion. So, we are freed from extreme clinging and fear. We can now stay in the cycle of rebirth. This is the result of emptiness.",
+  "after": "For the sake of those who experience suffering from confusion, a person who is free from the extremes of clinging and fear can stay in the cycle of rebirth. This is the result of emptiness.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "9-57",
+  "before": "Teeth, hair, and nails are not the self, and the self is not bones or blood. It is not mucus or phlegm, and it is not lymph or pus.",
+  "after": "Teeth, hair, and nails are not the self, and the self is not bones or blood. It is not mucus or phlegm, and it is not a watery body fluid or pus.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "9-63",
+  "before": "If something is made to notice a sound, how could it become the thing that notices a shape? One person can be labelled as both a father and a son. But that is not what is truly real.",
+  "after": "If something has the nature of noticing a sound, how could it become the thing that notices a shape? One person can be labelled as both a father and a son. But that is not what is truly real.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "9-65",
+  "before": "Someone might say it is like an actor playing a new part. But if that thing changes, it is not lasting forever. If that new part is the exact same thing, then this kind of oneness is completely unheard of.",
+  "after": "If it is like an actor who shows up in a new way, then we see it changing, so it is not lasting forever. If that new way is the exact same thing, then this kind of oneness has never been seen before.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "9-68",
+  "before": "A thing without a mind is not the self. It is just like a vase. But you might say it knows things because it gets a mind. Then the thing that did not know anything before would be destroyed.",
+  "after": "A thing without a mind is not the self, because it has no mind, just like a vase. But you might say it knows things because it gets a mind. Then the thing that did not know anything before would be destroyed.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "9-75",
+  "before": "Someone might ask, \"If there are no living beings, who should we show compassion to?\" We show compassion to those imagined by our confusion. We accept this confusion for the sake of the result.",
+  "after": "Someone might ask, \"If there are no living beings, who should we show compassion to?\" We show compassion to those imagined by our confusion. We accept them for the sake of the result.",
+  "before_verdict": "fail",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "9-108",
+  "before": "Imagining and the thing imagined depend on each other. We can only share our careful examinations by relying on what people already know.",
+  "after": "Imagining and the thing imagined depend on each other. Every careful examination is spoken by relying on what people already know.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "9-126",
+  "before": "People who believe in a never-changing atom have already been proven wrong. The Samkhya thinkers say that a never-changing Primal Matter is the cause of beings.",
+  "after": "People who believe in never-changing atoms have already been proven wrong. The Samkhya thinkers say that a never-changing Primal Matter is the cause of beings.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "9-131",
+  "before": "You might say happiness and other feelings come from things like cloth. Since those things do not exist, happiness does not exist either. Also, we never see happiness as something never-changing.",
+  "after": "Happiness and other feelings would come from things like cloth. Since those things do not exist, happiness does not exist either. Also, we never see happiness as something never-changing.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "9-144",
+  "before": "Sometimes a thing is seen only because something else is near. When that other thing is gone, it is not seen. It is made up, just like a reflection. How could being truly real happen in that?",
+  "after": "Whatever is seen only because something else is near, and is unseen when that is gone, is made up. It is like a reflection. How could being truly real exist in that?",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "9-146",
+  "before": "Even millions of causes cannot change a non-existent thing. How could a non-existent thing ever become real? And what else could become a thing?",
+  "after": "Even hundreds of millions of causes cannot change a non-existent thing. How could that state be a thing? And what else could become a thing?",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "9-154",
+  "before": "I hope people like me completely understand that everything is like space. People who want happiness for themselves find causes for fighting and excitement.",
+  "after": "May people like me completely understand that everything is like space. People who want happiness for themselves are stirred up by causes of fighting and excitement.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "9-157",
+  "before": "In life, there are many steep cliffs. There, what is not the way things really are is like this. Because things clash with each other there, in life there is no such thing as the way things really are.",
+  "after": "Life has many steep cliffs, and what is false looks like this. Because things clash with each other, there is no such thing as the way things really are in life.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "9-158",
+  "before": "In that place, the ocean of suffering is huge and too hard to bear. It has no edge. There, people have very little strength, and their lives are short.",
+  "after": "In that place, the ocean of suffering has nothing to compare with it. It is too hard to bear and has no edge. There, people have very little strength, and their lives are short.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "10-15",
+  "before": "Through my roots of good deeds, may the living beings of hell see Samantabhadra and other awakening heroes. These heroes bring happy clouds and let a cool, sweet-smelling rain fall. When the living beings see this, may they be filled with joy.",
+  "after": "Through my roots of good deeds, may the living beings of hell see Samantabhadra and other awakening heroes. These heroes bring happy clouds that nothing blocks, and let a cool, sweet-smelling rain fall. When the living beings see this, may they be filled with joy.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "10-20",
+  "before": "May poor people find wealth. May very sad people find joy. May those who feel hopeless get their spirit back and become perfectly strong.",
+  "after": "May poor people find wealth. May very sad people find joy. May those who feel hopeless get their spirit back and become perfectly steady and firm.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "10-29",
+  "before": "May any living beings who lack brightness shine with great brightness. May any persons of hard practice who look weak get beautiful and perfect bodies.",
+  "after": "May any living beings who lack brightness shine with great brightness. May any persons of hard practice who look plain get beautiful and perfect bodies.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "10-30",
+  "before": "May all the women in the world become men. May lowly people reach high places, but may their pride be defeated.",
+  "after": "May all the women in the world become men. May lowly people reach high status, and may their pride be defeated.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "10-58",
+  "before": "A good thinking mind comes from his kindness. I bow down to Manjushri. I have grown because of his kindness. I also bow down to the good friend.",
+  "after": "Thanks to Manjushri's kindness, a good thinking mind comes to me. I bow down to Manjushri. Thanks to the good friend's kindness, I have grown. I also bow down to the good friend.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ },
+ {
+  "track": "en-children",
+  "id": "b-3",
+  "before": "Even later, it was carefully fixed, translated, and perfectly finished by the Indian teacher who ordained me, Sumatikirti, and the chief editor-translator, the monk Loden Sherab.",
+  "after": "Even later, it was fixed so it was correct, translated, and perfectly finished by the Indian teacher who ordained me, Sumatikirti, and the chief editor-translator, the monk Loden Sherab.",
+  "before_verdict": "pass",
+  "after_verdict": "pass"
+ }
+]

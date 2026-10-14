@@ -1,0 +1,261 @@
+{
+ "batch": "batch-22",
+ "segments": [
+  {
+   "id": "9-145",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-146",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-147",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-148",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "不然的話，它就會有兩種本性了",
+     "evidence": "The verse gives a reason: a thing does not become a non-thing because that would absurdly entail two natures. 「不然的話」 reads as 'if it does not become a non-thing, it would have two natures', reversing the logic.",
+     "fix": "東西也不會變成不存在的東西，因為如果那樣，它就會同時有兩種本性了。"
+    }
+   ]
+  },
+  {
+   "id": "9-149",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-150",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-151",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-152",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-153",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-154",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "希望像我一樣的人都能明白",
+     "evidence": "Tibetan/academic: may those like me 'hold' or take up (受持, gzung) all as like space; 'understand' weakens it to mere comprehension.",
+     "fix": "希望像我一樣的人，都能這樣看待一切。"
+    }
+   ]
+  },
+  {
+   "id": "9-155",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-156",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-157",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-158",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "Academic: the ocean of suffering is 'incomparable' (無可比擬, dpe med) as well as unbearable and boundless; 'incomparable' is dropped.",
+     "fix": "那裡有無法比喻、讓人受不了、又無邊無際的痛苦的海洋。"
+    }
+   ]
+  },
+  {
+   "id": "9-159",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-160",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-161",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-162",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-163",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-164",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "就像有人剛洗完澡，卻又一次次跳進火裡",
+     "evidence": "Academic/Tibetan: a person bathes again and again and enters the fire again and again; the repeated bathing is reduced to one bath.",
+     "fix": "就像有人一次又一次洗澡，又一次又一次跳進火裡。"
+    }
+   ]
+  },
+  {
+   "id": "9-165",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-166",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-167",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "在這個世界上",
+     "evidence": "Academic: 'in the worlds' (འཇིག་རྟེན་ཁམས, world-systems), i.e. hells in all worlds, not only this one.",
+     "fix": "在所有的世界裡，無論有多少個地獄。"
+    }
+   ]
+  },
+  {
+   "id": "10-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-7",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "Academic lists water birds, ruddy geese, swans and also white cranes (bzhad); the cranes are dropped.",
+     "fix": "願水鳥、野鴨、天鵝和白鶴，發出好聽的叫聲。"
+    }
+   ]
+  },
+  {
+   "id": "10-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-12",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "他們心想",
+     "evidence": "The subject of 「他們心想」 is not yet introduced (hell beings are named only in the last sentence), so who is thinking is unclear.",
+     "fix": "地獄裡的眾生看見香水花雨降下，火焰和熱炭嘶嘶地熄滅了。他們心想：……"
+    }
+   ]
+  },
+  {
+   "id": "10-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-16",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

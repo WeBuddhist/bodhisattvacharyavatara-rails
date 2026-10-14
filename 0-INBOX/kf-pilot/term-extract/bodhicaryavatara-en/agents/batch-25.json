@@ -1,0 +1,453 @@
+{
+ "batch": "batch-25",
+ "segments": [
+  {
+   "id": "10-0",
+   "terms": [
+    {
+     "bo": "བསྔོ་བ",
+     "dm": "Dedication",
+     "gm": "Dedication"
+    }
+   ]
+  },
+  {
+   "id": "10-1",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སྤྱོད་པ",
+     "dm": "conduct of enlightenment",
+     "gm": "bodhisattva conduct"
+    },
+    {
+     "bo": "དགེ་བ",
+     "dm": "virtue",
+     "gm": "virtue"
+    },
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "wandering beings",
+     "gm": "wandering beings"
+    }
+   ]
+  },
+  {
+   "id": "10-2",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    }
+   ]
+  },
+  {
+   "id": "10-3",
+   "terms": [
+    {
+     "bo": "འཁོར་བ",
+     "dm": "cyclic existence",
+     "gm": "saṃsāra"
+    },
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "wandering beings",
+     "gm": "wandering beings"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattvas",
+     "gm": "bodhisattva"
+    }
+   ]
+  },
+  {
+   "id": "10-4",
+   "terms": [
+    {
+     "bo": "འཇིག་རྟེན་ཁམས",
+     "dm": "world systems",
+     "gm": "realms of the world"
+    },
+    {
+     "bo": "དམྱལ་བ",
+     "dm": "hells",
+     "gm": "hells"
+    },
+    {
+     "bo": "ལུས་ཅན",
+     "dm": "embodied beings",
+     "gm": "embodied beings"
+    },
+    {
+     "bo": "བདེ་ཅན",
+     "dm": "Sukhavati",
+     "gm": "Sukhāvatī"
+    }
+   ]
+  },
+  {
+   "id": "10-5",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattvas",
+     "gm": "bodhisattvas"
+    }
+   ]
+  },
+  {
+   "id": "10-6",
+   "terms": [
+    {
+     "bo": "རལ་གྲི་ལོ་མའི་ནགས་ཚལ",
+     "dm": "forest of sword-leaves",
+     "gm": "forest of sword-leaves"
+    },
+    {
+     "bo": "ཤལ་མ་རི",
+     "dm": "Shalmali",
+     "gm": "śālmali"
+    },
+    {
+     "bo": "དཔག་བསམ་ཤིང",
+     "dm": "wish-fulfilling trees",
+     "gm": "wish-fulfilling trees"
+    }
+   ]
+  },
+  {
+   "id": "10-7",
+   "terms": [
+    {
+     "bo": "དམྱལ་བ",
+     "dm": "hell",
+     "gm": "hell"
+    }
+   ]
+  },
+  {
+   "id": "10-8",
+   "terms": [
+    {
+     "bo": "བསྡུས་འཇོམས",
+     "dm": "Crushing Hell",
+     "gm": "Crushing Hell"
+    },
+    {
+     "bo": "བདེ་གཤེགས",
+     "dm": "Sugatas",
+     "gm": "Sugatas"
+    },
+    {
+     "bo": "མཆོད་པ",
+     "dm": "offerings",
+     "gm": "offerings"
+    },
+    {
+     "bo": "གཞལ་མེད་ཁང",
+     "dm": "Celestial palaces",
+     "gm": "immeasurable palaces"
+    }
+   ]
+  },
+  {
+   "id": "10-9",
+   "terms": []
+  },
+  {
+   "id": "10-10",
+   "terms": [
+    {
+     "bo": "ཆུ་བོ་རབ་མེད",
+     "dm": "fordless river",
+     "gm": "unfordable river"
+    },
+    {
+     "bo": "མེ་ཏོག་ཀུནྡ",
+     "dm": "kunda flowers",
+     "gm": "jasmine flowers"
+    },
+    {
+     "bo": "དགེ་བ",
+     "dm": "merit",
+     "gm": "virtue"
+    },
+    {
+     "bo": "ལྷ་མོ",
+     "dm": "goddesses",
+     "gm": "goddesses"
+    }
+   ]
+  },
+  {
+   "id": "10-11",
+   "terms": [
+    {
+     "bo": "གཤིན་རྗེ",
+     "dm": "Yama",
+     "gm": "Yama"
+    },
+    {
+     "bo": "ཕྱག་ན་རྡོ་རྗེ",
+     "dm": "Vajrapāṇi",
+     "gm": "Vajrapāṇi"
+    },
+    {
+     "bo": "སྡིག",
+     "dm": "sin",
+     "gm": "negativity"
+    }
+   ]
+  },
+  {
+   "id": "10-12",
+   "terms": [
+    {
+     "bo": "དམྱལ་བ",
+     "dm": "hell",
+     "gm": "hell"
+    },
+    {
+     "bo": "སེམས་དམྱལ",
+     "dm": "denizens of hell",
+     "gm": "hell beings"
+    },
+    {
+     "bo": "ཕྱག་ན་པདྨ",
+     "dm": "Padmapāṇi",
+     "gm": "Padmapāṇi"
+    }
+   ]
+  },
+  {
+   "id": "10-13",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས",
+     "dm": "Bodhisattva",
+     "gm": "bodhicitta"
+    },
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "beings",
+     "gm": "wandering beings"
+    },
+    {
+     "bo": "གཞོན་ནུ་ཟུར་ཕུད་ཅན",
+     "dm": "youth with five knots of hair",
+     "gm": "youth with a topknot"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "10-14",
+   "terms": [
+    {
+     "bo": "ལྷ་མོ",
+     "dm": "goddesses",
+     "gm": "goddesses"
+    },
+    {
+     "bo": "འཇམ་དབྱངས",
+     "dm": "Mañjughoṣa",
+     "gm": "Mañjughoṣa"
+    },
+    {
+     "bo": "སེམས་དམྱལ",
+     "dm": "denizens of hell",
+     "gm": "hell beings"
+    }
+   ]
+  },
+  {
+   "id": "10-15",
+   "terms": [
+    {
+     "bo": "དགེ་རྩ",
+     "dm": "roots of virtue",
+     "gm": "roots of virtue"
+    },
+    {
+     "bo": "ཀུན་དུ་བཟང་",
+     "dm": "Samantabhadra",
+     "gm": "Samantabhadra"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattvas",
+     "gm": "Bodhisattvas"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": null,
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "དམྱལ་བ",
+     "dm": "hell",
+     "gm": "hell"
+    }
+   ]
+  },
+  {
+   "id": "10-16",
+   "terms": [
+    {
+     "bo": "དུད་འགྲོ",
+     "dm": "animals",
+     "gm": "animals"
+    },
+    {
+     "bo": "སྒྲ་མི་སྙན་པ",
+     "dm": "Northern Continent",
+     "gm": "Uttarakuru"
+    },
+    {
+     "bo": "ཡི་དྭགས",
+     "dm": "hungry ghosts",
+     "gm": "hungry ghosts"
+    }
+   ]
+  },
+  {
+   "id": "10-17",
+   "terms": [
+    {
+     "bo": "སྤྱན་རས་གཟིགས་དབང",
+     "dm": "Avalokiteśvara",
+     "gm": "Avalokiteśvara"
+    },
+    {
+     "bo": "ཡི་དྭགས",
+     "dm": "hungry ghosts",
+     "gm": "hungry ghosts"
+    }
+   ]
+  },
+  {
+   "id": "10-18",
+   "terms": [
+    {
+     "bo": "ལྷ་མོ་སྒྱུ་འཕྲུལ",
+     "dm": "Māyādevī",
+     "gm": "Māyā"
+    }
+   ]
+  },
+  {
+   "id": "10-19",
+   "terms": []
+  },
+  {
+   "id": "10-20",
+   "terms": []
+  },
+  {
+   "id": "10-21",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "འགྲོ་བ",
+     "dm": "living beings",
+     "gm": "wandering beings"
+    }
+   ]
+  },
+  {
+   "id": "10-22",
+   "terms": []
+  },
+  {
+   "id": "10-23",
+   "terms": []
+  },
+  {
+   "id": "10-24",
+   "terms": []
+  },
+  {
+   "id": "10-25",
+   "terms": []
+  },
+  {
+   "id": "10-26",
+   "terms": [
+    {
+     "bo": "ལྷ",
+     "dm": "gods",
+     "gm": "deities"
+    }
+   ]
+  },
+  {
+   "id": "10-27",
+   "terms": [
+    {
+     "bo": "མི་ངལ",
+     "dm": "non-leisure",
+     "gm": "unfree states"
+    },
+    {
+     "bo": "དད་",
+     "dm": "faith",
+     "gm": "faith"
+    },
+    {
+     "bo": "ཤེས་རབ",
+     "dm": "wisdom",
+     "gm": "wisdom"
+    },
+    {
+     "bo": "བརྩེ",
+     "dm": "compassion",
+     "gm": "compassion"
+    },
+    {
+     "bo": "ཚེ་རབས",
+     "dm": "past lives",
+     "gm": "past lives"
+    }
+   ]
+  },
+  {
+   "id": "10-28",
+   "terms": [
+    {
+     "bo": "ནམ་མཁའི་མཛོད",
+     "dm": "treasury of space",
+     "gm": "treasury of space"
+    }
+   ]
+  },
+  {
+   "id": "10-29",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "དཀའ་ཐུབ་ཅན",
+     "dm": "ascetics",
+     "gm": "ascetics"
+    }
+   ]
+  }
+ ]
+}

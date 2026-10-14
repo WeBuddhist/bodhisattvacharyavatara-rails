@@ -1,0 +1,137 @@
+{
+ "batch": "batch-03",
+ "segments": [
+  {
+   "id": "2-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-6",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "the supreme among beings",
+     "evidence": "Tibetan ཐུབ་པ་སྐྱེས་ཀྱི་མཆོག; skyes bu is 'person' (not སེམས་ཅན 'beings'); bo-shenga 2-6 glosses it ཐུབ་པ་སྐྱེས་བུ་རྐང་གཉིས་རྣམས་ཀྱི་མཆོག, 'supreme among persons/bipeds', and bo-kunpal 2-6 likewise སྐྱེས་བུ་རྐང་གཉིས་མི་རྣམས་ཀྱི་མཆོག. 'Beings' is the wrong register for skyes bu and could be read as all sentient beings.",
+     "fix": "the supreme among persons"
+    }
+   ]
+  },
+  {
+   "id": "2-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-11",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Appealing and excellently filled,",
+     "evidence": "ཡིད་འོང་ལེགས་པར་བཀང་བ: 'filled well with (what is) pleasing'; bo-gyaltsab 2-11 reads ཡིད་དུ་འོང་བ་མེ་ཏོག་དང་བཅས་པས་ལེགས་པར་བཀང་བ and bo-shenga ཡིད་འོང་བས་ལེགས་པར་བཀང་བ, so 'pleasing' qualifies the scented water/contents, not the vases. In the English 'Appealing' dangles and reads as describing the vases.",
+     "fix": "Well filled with what is pleasing,"
+    }
+   ]
+  },
+  {
+   "id": "2-12",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "infused with supreme fragrance",
+     "evidence": "དྲི་རབ་བསྒོས་པ: རབ་ here is the intensive 'thoroughly' (Skt. pradhūpita 'well perfumed'); bo-shenga 2-12 བདུག་སྤོས་ཀྱི་དྲི་རབ་ཏུ་བསྒོས་པ, bo-gyaltsab 2-12 དྲི་ཞིམ་པོས་རབ་ཏུ་བསྒོས་པ 'thoroughly scented'. 'Supreme' is not in the Tibetan.",
+     "fix": "thoroughly perfumed"
+    }
+   ]
+  },
+  {
+   "id": "2-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-15",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "all other fragrant things",
+     "evidence": "ཨུཏྤལ་ལ་སོགས་དྲི་ཞིམ་ཐམས་ཅད: the 'fragrant (ones)' are flowers following མེ་ཏོག་; Skt. sugandhaiḥ kusumaiḥ; bo-gyaltsab 2-15 ཨུཏྤལ་ལ་སོགས་པ་དྲི་ཞིམ་པོ་ཐམས་ཅད་སིལ་མར་བྱས་པ, bo-shenga དྲི་ཞིམ་པོའི་རིགས་. 'Things' loses the restriction to flowers.",
+     "fix": "all other fragrant flowers"
+    }
+   ]
+  },
+  {
+   "id": "2-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-20",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

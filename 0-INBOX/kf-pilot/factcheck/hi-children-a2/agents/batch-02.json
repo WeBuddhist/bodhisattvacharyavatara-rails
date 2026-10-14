@@ -1,0 +1,269 @@
+{
+ "batch": "batch-02",
+ "segments": [
+  {
+   "id": "4-40",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-43",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "इस लड़ाई से लगाव रखना",
+     "evidence": "Academic translation says 'attached to this' (इसके प्रति) with no referent; the children's text names 'this fight' as the object of attachment, which is not stated.",
+     "fix": "मुझे इससे लगाव रखना चाहिए और दुश्मनी मानकर लड़ना चाहिए। बस इस तरह की परेशान करने वाली भावना को नहीं छोड़ना चाहिए, क्योंकि यह दूसरी परेशान करने वाली भावनाओं को हरा देती है।"
+    }
+   ]
+  },
+  {
+   "id": "4-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-105",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "इसलिए हमें इसे ज़रूर बार-बार पढ़ना चाहिए",
+     "evidence": "Academic: 'therefore the Compendium of Training should ALSO be looked at again and again' (शिक्षासमुच्चय को भी); the 'also' (in addition to what the verse itself teaches) is lost, and 'देखना' becomes 'पढ़ना'.",
+     "fix": "इसलिए हमें 'अभ्यासों का संग्रह' को भी ज़रूर बार-बार देखना चाहिए।"
+    }
+   ]
+  },
+  {
+   "id": "5-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-22",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-57",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "खुद के और जीवों के अधीन रहकर, जादू से बनी रचना की तरह बिना किसी \"मैं\" के",
+     "evidence": "Academic: 'in faultless matters, subject to oneself and beings, like a conjured form, without an I, one should hold this mind always'. The children's single sentence is tangled and the conjured-form simile is unexplained; 'धारण करना' is also softened to 'काबू में रखना'.",
+     "fix": "निर्दोष कामों में मैं खुद और सभी जीव मेरे लिए बराबर मायने रखें। जादू से बनी रचना की तरह इस सोचने वाले मन को बिना किसी \"मैं\" के हमेशा थामे रखना चाहिए।"
+    }
+   ]
+  },
+  {
+   "id": "5-74",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "दूसरों को सीख देने में कुशल बनो",
+     "evidence": "Academic: one should respect the words of those 'skilled at giving advice to others' and the words that help unasked (the skill belongs to the people whose words are received). The children's text turns it into a command that the reader should become skilled at advising others.",
+     "fix": "जो लोग दूसरों को सीख देने में कुशल हैं और जो बिना माँगे भलाई की बात बताते हैं, उनकी बात आदर से सुनकर अपनाओ। हमेशा सबके विद्यार्थी बने रहो।"
+    }
+   ]
+  },
+  {
+   "id": "5-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-79",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "दिल से, भरोसे के साथ, बात को जोड़कर और साफ़ कहनी चाहिए जो मन को अच्छी लगे",
+     "evidence": "Academic lists the qualities of speech: heartfelt and trust-inspiring, coherent, clear in meaning, pleasing. The children's clause is ungrammatical/tangled ('बात को जोड़कर और साफ़ कहनी') and 'trust-inspiring' becomes 'with confidence'.",
+     "fix": "बोलते समय ऐसी बात कहो जो दिल से हो, भरोसा जगाए, ठीक से जुड़ी हो, साफ़ हो और मन को अच्छी लगे। चिपके रहना और नफ़रत छोड़कर मीठा और नपा-तुला बोलो।"
+    }
+   ]
+  },
+  {
+   "id": "5-84",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-101",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-109",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "लेकिन पवित्र शिक्षा भी तो सफलता का कारण बनती है, फिर हम उसकी पूजा क्यों करते हैं?",
+     "evidence": "Academic: if the objector says the enemy is not worthy of honour because he has no intention of making me patient, then why do you honour the holy Dharma, which also is merely a cause of accomplishment (without such intention)? It is a parity reply to the objection. The children's text drops the parity and reads as if the child questions why we honour the Dharma, so the argument is lost.",
+     "fix": "तो फिर पवित्र शिक्षा भी तो सफलता का कारण बनती है, पर उसके मन में भी हमें सफल बनाने का इरादा नहीं होता। फिर तुम उसकी पूजा क्यों करते हो?"
+    }
+   ]
+  },
+  {
+   "id": "6-114",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "इसलिए इस बात में जीव और बुद्ध बराबर हैं",
+     "evidence": "Academic says only that the quality of intention comes from the result and so 'they are equal'; it does not name Buddhas here. The children's text adds 'जीव और बुद्ध' as the pair being compared.",
+     "fix": "इरादे की अच्छी खूबी अपने आप नहीं आती, वह फल से आती है। इस बात में वे बराबर हैं। जीवों में भी अच्छी खूबी होती है, इसलिए वे बराबर हैं।"
+    }
+   ]
+  },
+  {
+   "id": "6-116",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-132",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-134",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-24",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "Academic: people get angry 'from a mere slight condition' (साधारण-से प्रत्यय मात्र से), without intending to; this qualifier is dropped.",
+     "fix": "\"मैं गुस्सा करूँगा,\" ऐसा न सोचने पर भी लोग ज़रा-सी बात से ही गुस्सा कर बैठते हैं। \"मैं गुस्सा पैदा करूँगा,\" ऐसा सोचे बिना ही गुस्सा अपने आप पैदा हो जाता है।"
+    }
+   ]
+  },
+  {
+   "id": "6-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-85",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-22",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

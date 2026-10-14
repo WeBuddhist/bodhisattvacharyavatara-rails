@@ -1,0 +1,121 @@
+{
+ "batch": "batch-06",
+ "segments": [
+  {
+   "id": "2-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-9",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "安住於他們面前",
+     "evidence": "Tibetan མདུན་དུ་ཉེ་བར་གནས་གྱུར་ཅིག: ཉེ་བར་གནས་ is 'remain close by / attend' (Sanskrit upatiṣṭheyam); bo-kunpal 3-9 and bo-shenga 3-9 gloss མདུན་ན་ཉེ་བར་གནས་པར་གྱུར་ཅིག as being near before them. The Chinese drops the nuance of nearness/attendance (the approved English has 'closely present').",
+     "fix": "親近安住於他們面前"
+    }
+   ]
+  },
+  {
+   "id": "3-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-14",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "願任何人都絕不致毫無意義",
+     "evidence": "Tibetan བདག་ལ་དམིགས་ནས་ནམ་དུ་ཡང་། འགའ་ཡང་དོན་མེད་མ་གྱུར་ཅིག: the point (bo-gyaltsab 3-14, bo-shenga 3-14 'རེ་བ་དོན་མེད་པར་མ་གྱུར') is that no one's connection with / reliance on me should be in vain. The Chinese makes 'anyone' the subject that becomes 'meaningless', which is hard to parse and does not show that it is the connection with me that must not be futile.",
+     "fix": "願無一人因緣於我而落得徒勞無益"
+    }
+   ]
+  }
+ ]
+}

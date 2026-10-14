@@ -1,0 +1,121 @@
+{
+ "batch": "batch-10",
+ "segments": [
+  {
+   "id": "4-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-43",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "अपवाद हैं",
+     "evidence": "Tibetan 'ཉོན་མོངས་འཇོམས་བྱེད་མ་གཏོགས་སོ' with Sanskrit 'anyatra tadvidhāt kleśāt' and Gyaltsab 4-43 ('སྤང་བྱར་མ་གཏོགས་སོ') say such afflictions are excepted from what is to be abandoned (spang bya); the Hindi 'अपवाद हैं' does not say excepted from what, so the object of the exception is lost.",
+     "fix": "त्यागने योग्य (क्लेशों) से अपवाद हैं"
+    }
+   ]
+  },
+  {
+   "id": "4-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-4",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "अभिचारक",
+     "evidence": "Tibetan 'བྱད་མ' (Sanskrit ḍākinyaḥ; bo-kunpal 5-4 and bo-gyaltsab 5-5 'བྱད་མ་མཁའ་འགྲོ་མ') names female malevolent beings (witches/ḍākinīs), not a practitioner of sorcery; 'अभिचारक' is a masculine human sorcerer.",
+     "fix": "डाकिनियाँ"
+    }
+   ]
+  },
+  {
+   "id": "5-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-11",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

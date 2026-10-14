@@ -1,0 +1,645 @@
+{
+ "batch": "batch-02",
+ "segments": [
+  {
+   "id": "2-0",
+   "terms": [
+    {
+     "bo": "སྡིག་པ་བཤགས་པ",
+     "dm": "Confession of Negativities",
+     "gm": null
+    }
+   ]
+  },
+  {
+   "id": "2-1",
+   "terms": [
+    {
+     "bo": "རིན་ཆེན་སེམས",
+     "dm": "precious mind",
+     "gm": "precious mind"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས་པ",
+     "dm": "Tathāgatas",
+     "gm": "Tathāgatas"
+    },
+    {
+     "bo": "དམ་པའི་ཆོས",
+     "dm": "sublime Dharma",
+     "gm": "holy Dharma"
+    },
+    {
+     "bo": "དཀོན་མཆོག",
+     "dm": "Jewel",
+     "gm": "Jewel"
+    },
+    {
+     "bo": "སངས་རྒྱས་སྲས",
+     "dm": "Sons of the Buddha",
+     "gm": "Children of the Buddhas"
+    },
+    {
+     "bo": "ཡོན་ཏན་རྒྱ་མཚོ",
+     "dm": "oceans of virtue",
+     "gm": "oceans of qualities"
+    },
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "virtue",
+     "gm": "qualities"
+    }
+   ]
+  },
+  {
+   "id": "2-2",
+   "terms": []
+  },
+  {
+   "id": "2-3",
+   "terms": []
+  },
+  {
+   "id": "2-4",
+   "terms": [
+    {
+     "bo": "ལྷ",
+     "dm": "gods",
+     "gm": "gods"
+    },
+    {
+     "bo": "དཔག་བསམ་ཤིང",
+     "dm": "wish-fulfilling trees",
+     "gm": "wish-fulfilling trees"
+    },
+    {
+     "bo": "རིན་ཆེན་ཤིང",
+     "dm": "jewel trees",
+     "gm": "jewel trees"
+    }
+   ]
+  },
+  {
+   "id": "2-5",
+   "terms": []
+  },
+  {
+   "id": "2-6",
+   "terms": [
+    {
+     "bo": "ཐུབ་པ",
+     "dm": "Munis",
+     "gm": "Capable Ones"
+    },
+    {
+     "bo": "སྲས",
+     "dm": "spiritual heirs",
+     "gm": "Children"
+    },
+    {
+     "bo": "ཡོན་གནས",
+     "dm": "objects of offering",
+     "gm": "objects of offering"
+    },
+    {
+     "bo": "ཐུགས་རྗེ་ཆེ",
+     "dm": "great compassion",
+     "gm": "great compassion"
+    }
+   ]
+  },
+  {
+   "id": "2-7",
+   "terms": [
+    {
+     "bo": "བསོད་ནམས",
+     "dm": "merit",
+     "gm": "merit"
+    },
+    {
+     "bo": "མགོན",
+     "dm": "Protectors",
+     "gm": "Protectors"
+    },
+    {
+     "bo": "གཞན་དོན",
+     "dm": "welfare of others",
+     "gm": "welfare of others"
+    }
+   ]
+  },
+  {
+   "id": "2-8",
+   "terms": [
+    {
+     "bo": "རྒྱལ",
+     "dm": "Victors",
+     "gm": "Conquerors"
+    },
+    {
+     "bo": "སྲས",
+     "dm": "spiritual heirs",
+     "gm": "Children"
+    },
+    {
+     "bo": "སེམས་དཔའ་མཆོག",
+     "dm": "Supreme Beings",
+     "gm": "Supreme Beings"
+    }
+   ]
+  },
+  {
+   "id": "2-9",
+   "terms": [
+    {
+     "bo": "སྲིད",
+     "dm": "existence",
+     "gm": "cyclic existence"
+    },
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "སྡིག་ལས",
+     "dm": "misdeeds",
+     "gm": "negative deeds"
+    },
+    {
+     "bo": "སྡིག་པ",
+     "dm": "sins",
+     "gm": "negative deeds"
+    }
+   ]
+  },
+  {
+   "id": "2-10",
+   "terms": []
+  },
+  {
+   "id": "2-11",
+   "terms": [
+    {
+     "bo": "དེ་བཞིན་གཤེགས",
+     "dm": "Tathāgatas",
+     "gm": "Tathāgatas"
+    },
+    {
+     "bo": "སྲས",
+     "dm": "spiritual heirs",
+     "gm": "Children"
+    },
+    {
+     "bo": "སྐུ་ཁྲུས",
+     "dm": "bath",
+     "gm": "bath"
+    }
+   ]
+  },
+  {
+   "id": "2-12",
+   "terms": []
+  },
+  {
+   "id": "2-13",
+   "terms": [
+    {
+     "bo": "ཀུན་ཏུ་བཟང",
+     "dm": "Samantabhadra",
+     "gm": "Samantabhadra"
+    },
+    {
+     "bo": "འཇམ་དབྱངས",
+     "dm": "Mañjuśrī",
+     "gm": "Mañjuśrī"
+    },
+    {
+     "bo": "འཇིག་རྟེན་དབང་ཕྱུག",
+     "dm": "Avalokiteśvara",
+     "gm": "Avalokiteśvara"
+    }
+   ]
+  },
+  {
+   "id": "2-14",
+   "terms": [
+    {
+     "bo": "སྟོང་གསུམ",
+     "dm": "billion-fold world system",
+     "gm": "three thousandfold world systems"
+    },
+    {
+     "bo": "ཐུབ་དབང",
+     "dm": "Lords of Sages",
+     "gm": "Lords of Capable Ones"
+    }
+   ]
+  },
+  {
+   "id": "2-15",
+   "terms": [
+    {
+     "bo": "ཐུབ་དབང",
+     "dm": "Lords of Sages",
+     "gm": "Lords of Capable Ones"
+    },
+    {
+     "bo": "མཆོད་གནས",
+     "dm": "objects of veneration",
+     "gm": "objects of offering"
+    },
+    {
+     "bo": "མནྡ་ར",
+     "dm": "Mandārava",
+     "gm": "Mandāra"
+    },
+    {
+     "bo": "པདྨ",
+     "dm": "lotuses",
+     "gm": "lotuses"
+    },
+    {
+     "bo": "ཨུཏྤལ",
+     "dm": "Utpalas",
+     "gm": "Utpalas"
+    }
+   ]
+  },
+  {
+   "id": "2-16",
+   "terms": [
+    {
+     "bo": "སྤོས",
+     "dm": "incense",
+     "gm": "incense"
+    },
+    {
+     "bo": "ལྷ་བཤོས",
+     "dm": "divine feasts",
+     "gm": "Divine feasts"
+    }
+   ]
+  },
+  {
+   "id": "2-17",
+   "terms": [
+    {
+     "bo": "སྒྲོན་མ",
+     "dm": "lamps",
+     "gm": "lamps"
+    }
+   ]
+  },
+  {
+   "id": "2-18",
+   "terms": [
+    {
+     "bo": "གཞལ་མེད་ཕོ་བྲང",
+     "dm": "Immeasurable palaces",
+     "gm": "Immeasurable palaces"
+    },
+    {
+     "bo": "ཐུགས་རྗེ",
+     "dm": "compassion",
+     "gm": "compassion"
+    }
+   ]
+  },
+  {
+   "id": "2-19",
+   "terms": [
+    {
+     "bo": "ཐུབ་དབང",
+     "dm": "Lords of Sages",
+     "gm": "Lords of Capable Ones"
+    }
+   ]
+  },
+  {
+   "id": "2-20",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "སྔག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    }
+   ]
+  },
+  {
+   "id": "2-21",
+   "terms": [
+    {
+     "bo": "དམ་ཆོས",
+     "dm": "sublime Dharma",
+     "gm": "holy Dharma"
+    },
+    {
+     "bo": "མཆོད་རྟེན",
+     "dm": "reliquaries",
+     "gm": "Stūpas"
+    },
+    {
+     "bo": "སྐུ་གཟུགས",
+     "dm": "sacred images",
+     "gm": "images"
+    }
+   ]
+  },
+  {
+   "id": "2-22",
+   "terms": [
+    {
+     "bo": "འཇམ་དབྱངས",
+     "dm": "Mañjughoṣa",
+     "gm": "Mañjuśrī"
+    },
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victors",
+     "gm": "Victorious Ones"
+    },
+    {
+     "bo": "དེ་བཞིན་གཤེགས",
+     "dm": "Tathāgatas",
+     "gm": "Tathāgatas"
+    },
+    {
+     "bo": "མགོན་པོ",
+     "dm": "Protectors",
+     "gm": "Protectors"
+    },
+    {
+     "bo": "སྲས",
+     "dm": "spiritual heirs",
+     "gm": "Children"
+    }
+   ]
+  },
+  {
+   "id": "2-23",
+   "terms": [
+    {
+     "bo": "ཡོན་ཏན་རྒྱ་མཚོ",
+     "dm": "oceans of excellence",
+     "gm": "oceans of qualities"
+    },
+    {
+     "bo": "ཡོན་ཏན",
+     "dm": "excellence",
+     "gm": "qualities"
+    }
+   ]
+  },
+  {
+   "id": "2-24",
+   "terms": [
+    {
+     "bo": "དུས་གསུམ",
+     "dm": "three times",
+     "gm": "three times"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "Buddhas"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    },
+    {
+     "bo": "ཚོགས་ཀྱི་མཆོག",
+     "dm": "Supreme Assembly",
+     "gm": "Supreme Assembly"
+    },
+    {
+     "bo": "ཞིང",
+     "dm": "realms",
+     "gm": "fields"
+    },
+    {
+     "bo": "ཕྱག་འཚལ",
+     "dm": "pay homage",
+     "gm": "pay homage"
+    }
+   ]
+  },
+  {
+   "id": "2-25",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སེམས་ཀྱི་གཞི",
+     "dm": "foundations of the awakening mind",
+     "gm": "bases of the awakening mind"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས",
+     "dm": "awakening mind",
+     "gm": "awakening mind"
+    },
+    {
+     "bo": "མཆོད་རྟེན",
+     "dm": "reliquaries",
+     "gm": "stūpas"
+    },
+    {
+     "bo": "མཁན་པོ",
+     "dm": "preceptors",
+     "gm": "preceptors"
+    },
+    {
+     "bo": "སློབ་དཔོན",
+     "dm": "masters",
+     "gm": "teachers"
+    },
+    {
+     "bo": "ཕྱག་འཚལ",
+     "dm": "prostrate",
+     "gm": "pay homage"
+    }
+   ]
+  },
+  {
+   "id": "2-26",
+   "terms": [
+    {
+     "bo": "བྱང་ཆུབ་སྙིང་པོ",
+     "dm": "heart of enlightenment",
+     "gm": "essence of awakening"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddhas",
+     "gm": "Buddhas"
+    },
+    {
+     "bo": "སྐྱབས་སུ་མཆི",
+     "dm": "take refuge",
+     "gm": "go for refuge"
+    },
+    {
+     "bo": "ཆོས",
+     "dm": "Dharma",
+     "gm": "Dharma"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས་དཔའ",
+     "dm": "Bodhisattvas",
+     "gm": "Bodhisattvas"
+    },
+    {
+     "bo": "ཚོགས",
+     "dm": "assembly",
+     "gm": "Assembly"
+    }
+   ]
+  },
+  {
+   "id": "2-27",
+   "terms": [
+    {
+     "bo": "རྫོགས་སངས་རྒྱས",
+     "dm": "fully enlightened Buddhas",
+     "gm": "perfect Buddhas"
+    },
+    {
+     "bo": "བྱང་ཆུབ་སེམས",
+     "dm": "Bodhisattvas",
+     "gm": "Bodhisattvas"
+    },
+    {
+     "bo": "ཐུགས་རྗེ་ཆེན་པོ",
+     "dm": "great compassion",
+     "gm": "great compassion"
+    }
+   ]
+  },
+  {
+   "id": "2-28",
+   "terms": [
+    {
+     "bo": "འཁོར་བ",
+     "dm": "cyclic existence",
+     "gm": "cyclic existence"
+    },
+    {
+     "bo": "སྡིག",
+     "dm": "sins",
+     "gm": "non-virtue"
+    }
+   ]
+  },
+  {
+   "id": "2-29",
+   "terms": [
+    {
+     "bo": "གཏི་མུག",
+     "dm": "ignorance",
+     "gm": "ignorance"
+    },
+    {
+     "bo": "ཡི་རང",
+     "dm": "rejoiced",
+     "gm": "rejoiced"
+    },
+    {
+     "bo": "མགོན",
+     "dm": "Protectors",
+     "gm": "Protectors"
+    },
+    {
+     "bo": "བཤགས",
+     "dm": "confess",
+     "gm": "confess"
+    }
+   ]
+  },
+  {
+   "id": "2-30",
+   "terms": [
+    {
+     "bo": "དཀོན་མཆོག་གསུམ",
+     "dm": "Three Jewels",
+     "gm": "Three Jewels"
+    },
+    {
+     "bo": "བླ་མ",
+     "dm": "teachers",
+     "gm": "gurus"
+    },
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "afflictions"
+    },
+    {
+     "bo": "ལུས་ངག་དང་། ། ཡིད",
+     "dm": "body, speech, and mind",
+     "gm": "body, speech, And mind"
+    }
+   ]
+  },
+  {
+   "id": "2-31",
+   "terms": [
+    {
+     "bo": "སྡིག་པ",
+     "dm": "sins",
+     "gm": "non-virtues"
+    },
+    {
+     "bo": "སྡིག་ཅན",
+     "dm": "sinner",
+     "gm": "sinner"
+    },
+    {
+     "bo": "འདྲེན་པ",
+     "dm": "Guides",
+     "gm": "Guides"
+    },
+    {
+     "bo": "བཤགས",
+     "dm": "confess",
+     "gm": "confess"
+    }
+   ]
+  },
+  {
+   "id": "2-32",
+   "terms": [
+    {
+     "bo": "སྡིག་པ",
+     "dm": "sins",
+     "gm": "non-virtues"
+    },
+    {
+     "bo": "བྱང",
+     "dm": "purified",
+     "gm": "purified"
+    },
+    {
+     "bo": "ངེས་ཐར",
+     "dm": "liberated",
+     "gm": "freed"
+    }
+   ]
+  },
+  {
+   "id": "2-33",
+   "terms": [
+    {
+     "bo": "འཆི་བདག",
+     "dm": "Lord of Death",
+     "gm": "Lord of Death"
+    }
+   ]
+  }
+ ]
+}

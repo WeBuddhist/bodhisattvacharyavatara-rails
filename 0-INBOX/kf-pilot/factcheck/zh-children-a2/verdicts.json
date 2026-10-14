@@ -1,0 +1,840 @@
+[
+ {
+  "id": "1-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-11",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "脫離眾生受苦的地方",
+    "evidence": "The text says only \"desire to be free from the state/place of beings\"; \"suffering\" is not stated.",
+    "fix": "想要脫離眾生所在的地方，就要好好守護這顆珍貴的覺悟之心。"
+   }
+  ]
+ },
+ {
+  "id": "1-13",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-14",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-17",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-20",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "1-32",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "The giving of food and drink is continuous (\"持續供應飲食\"); the children's text drops the continuous provision and only says \"a little food\".",
+    "fix": "如果有人一直給少數眾生一點飲食，卻只在短短的時間裡給一頓飯，還帶著輕視，只讓人飽上半天，世人還是會尊敬他做了好事。"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "如果有人只給少數眾生一點食物。他只花短短的時間給一頓飯。就算他帶著輕視",
+    "evidence": "The conditional is broken into separate sentences by full stops, leaving \"如果...。\" and \"就算...\" ungrammatical.",
+    "fix": "如果有人給少數眾生一點食物，只花短短的時間給一頓飯，還帶著輕視，只讓人飽上半天，世人還是會尊敬他做了好事。"
+   }
+  ]
+ },
+ {
+  "id": "1-5",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "想要獲得累積的福氣的智慧",
+    "evidence": "The Tibetan/academic text speaks of the wisdom/intelligence that cultivates merit (\"修福德之慧\"), not wanting to obtain it; wording is also tangled.",
+    "fix": "世界上想要去累積福氣的智慧，在一百次裡偶爾才會出現一次。"
+   }
+  ]
+ },
+ {
+  "id": "10-12",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "10-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-23",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-32",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-37",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "2-64",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "3-14",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "就隨便他們對我做吧 / 只要有人遇到我、想到我",
+    "evidence": "Academic: \"whatever action does not harm them, let them do it; in relation to me, may none be in vain\". \"Do to me\" and \"meet me, think of me / get benefit\" are not stated.",
+    "fix": "只要是不會傷害到他們自己的事，就讓他們去做吧。希望不管在什麼時候，只要和我有關，就不會有人白費力氣。"
+   }
+  ]
+ },
+ {
+  "id": "3-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-11",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "如果嚴重的墮落，和強大的覺悟之心，在輪迴中交替出現。我就要花很久",
+    "evidence": "The \"if\" clause is cut off by a full stop from its main clause, which is ungrammatical.",
+    "fix": "如果嚴重的墮落，和強大的覺悟之心，在輪迴中交替出現，我就要花很久的時間，才能走到菩薩修行的更高階段。"
+   }
+  ]
+ },
+ {
+  "id": "4-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-35",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "4-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-101",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-102",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-15",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-30",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "因為敬畏而心生恭敬",
+    "evidence": "Academic: respect arises \"out of fear\" (畏懼); \"敬畏\" (awe/reverence) shifts the sense.",
+    "fix": "如果有緣的人因為心裡害怕而生起恭敬，仔細留意就能很輕鬆地生起。"
+   }
+  ]
+ },
+ {
+  "id": "5-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-45",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "當我聽到各種無聊的話語，或是看到許多新奇的景象。如果我參與其中",
+    "evidence": "The \"when\" clause is split from its main clause by a full stop; \"聽到/看到\" then \"參與其中\" is redundant and ungrammatical.",
+    "fix": "當我參與各種無聊的話語，或是許多新奇的景象時，要放下對它們的緊抓不放。"
+   }
+  ]
+ },
+ {
+  "id": "5-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-78",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "下輩子更會帶來巨大的痛苦",
+    "evidence": "Academic: \"in the next life there is also great suffering\" (亦有大苦); \"更\" (even more) adds a comparison that is not there.",
+    "fix": "下輩子也會帶來巨大的痛苦。"
+   }
+  ]
+ },
+ {
+  "id": "5-81",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "—",
+    "evidence": "Academic says the action is prompted \"always\" (恆) by strong intention; the children's text drops \"always\".",
+    "fix": "如果是一直帶著強烈的心意去做，或是靠解藥的力量去做。"
+   }
+  ]
+ },
+ {
+  "id": "5-85",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-89",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "5-96",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "隔天一早就要馬上起床",
+    "evidence": "Academic: set firmly in the mind from the start the intention of rising quickly; \"next morning\" and \"before sleep\" timing are not stated.",
+    "fix": "要保持警覺，一開始就在心裡下定決心：要趕快起床。"
+   }
+  ]
+ },
+ {
+  "id": "5-99",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-101",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-109",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-116",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-124",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-132",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-133",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-15",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "毒蛇和飛蟲",
+    "evidence": "Tibetan sha sbrang / academic 牛虻 = gadfly/horsefly (a biting fly); \"飛蟲\" is vague and drops that it bites.",
+    "fix": "毒蛇和會咬人的大牛蠅"
+   }
+  ]
+ },
+ {
+  "id": "6-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-21",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-39",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-4",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-40",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-76",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "6-89",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-11",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "不就更不用說了嗎",
+    "evidence": "Academic: 何須多言, i.e. the hell sufferings are obviously far worse and need no mention; the double-negative question is tangled for ages 8-12.",
+    "fix": "那就更不用多說了。"
+   }
+  ]
+ },
+ {
+  "id": "7-18",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-3",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "也不討厭輪迴的痛苦",
+    "evidence": "Academic: 不厭患輪迴之苦, i.e. not becoming weary/fed up with samsaric suffering; \"不討厭\" can read as simply not disliking it, which muddles the logic.",
+    "fix": "也不覺得輪迴的痛苦令人厭煩"
+   }
+  ]
+ },
+ {
+  "id": "7-38",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-46",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-53",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-62",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-73",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "接近有幫助的條件",
+    "evidence": "Academic: 應尋求親近 (the object of \"meeting\" is left unspecified); \"有幫助的條件\" supplies an object not in the text.",
+    "fix": "我應該去親近（合適的人或事），或是去做適合的事。"
+   }
+  ]
+ },
+ {
+  "id": "7-74",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "7-8",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-102",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-138",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-139",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-142",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "沒有美好的品質又怎樣呢？",
+    "evidence": "Academic: 無功德復有何用, i.e. having no qualities is of no use; \"又怎樣呢\" reads as a dismissive \"so what\", which can reverse the sense.",
+    "fix": "沒有美好的品質有什麼用呢？其實我們都有美好的品質。"
+   }
+  ]
+ },
+ {
+  "id": "8-143",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-157",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "（爸爸媽媽）",
+    "evidence": "Academic says only 他人之精血相合之滴聚; the identification of \"others\" as parents is added in brackets.",
+    "fix": "就像你對別人給的那一小滴生命來源，產生認為有個我的想法一樣。"
+   },
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "就像你對別人（爸爸媽媽）給的那一小滴生命來源，產生認為有個我的想法一樣。",
+    "evidence": "Sentence is a dangling \"just as...\" clause with no main clause; the logical link 是故 (therefore) is lost.",
+    "fix": "就像你對別人給的那一小滴生命來源，產生了「有個我」的想法；所以現在，你也要練習對別人這樣想。"
+   }
+  ]
+ },
+ {
+  "id": "8-168",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-172",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-174",
+  "verdict": "fail",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "major",
+    "span": "身體變得這麼嬌弱以後",
+    "evidence": "Academic: 即使已如是墮入此境 (having fallen into this state); neither the Tibetan nor the academic text mentions a body or its being delicate/weak.",
+    "fix": "就算已經落到這樣的境地，如果連整片大地都無法滿足他的欲望，還有誰能滿足他呢？"
+   }
+  ]
+ },
+ {
+  "id": "8-175",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-23",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "如果別人沒有得到的財物",
+    "evidence": "Academic: 有情貶低無利養之人; \"沒有得到的財物\" is ungrammatical use of the locked term (should be \"沒有得到財物的人\").",
+    "fix": "如果有人沒有得到財物，眾生就會看不起他們；如果有人得到了財物，眾生又會說難聽的話。"
+   }
+  ]
+ },
+ {
+  "id": "8-34",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-36",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-43",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-52",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-60",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "想去追求別人",
+    "evidence": "Tibetan/academic: being an impure bag, he greedily craves (desires) others, i.e. others' impure bodies; \"追求別人\" reads as courting people and loses that the object is impure.",
+    "fix": "你不但不討厭自己身上的骯髒，你自己明明就是一個裝滿髒東西的袋子，卻還因為貪心，去渴望別人那些骯髒的身體。"
+   }
+  ]
+ },
+ {
+  "id": "8-68",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-7",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-87",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-88",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-90",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "8-92",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-1",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-10",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-100",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "terminology",
+    "severity": "minor",
+    "span": "感受不會體驗它自己",
+    "evidence": "Source: \"self does not experience self\" (the awareness does not experience itself); \"感受\" (feeling) is a different thing and changes the subject from the mind mentioned just before.",
+    "fix": "覺知不會體驗它自己，其他的東西也不會體驗它。"
+   }
+  ]
+ },
+ {
+  "id": "9-103",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "心不是身體",
+    "evidence": "Academic translation has no subject (\"何者非身非他處\"); the children's text supplies \"心\" as the thing in question, which this segment does not state.",
+    "fix": "它不是身體，也不在別的地方。它不和身體混合，也沒有單獨存在。它連一點點真實的東西都沒有，所以眾生的本性早已經脫離憂苦了。"
+   }
+  ]
+ },
+ {
+  "id": "9-108",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-115",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-116",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-123",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "如果神不依靠其他事物，他為什麼不一直創造東西呢",
+    "evidence": "Academic translation says only \"彼\" (that one), without naming a god; \"神\" is supplied from context.",
+    "fix": "如果他不依靠其他事物，他為什麼不一直創造東西呢？"
+   }
+  ]
+ },
+ {
+  "id": "9-131",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-139",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "我回答：「",
+    "evidence": "No speaker marker in the Tibetan or academic translation; \"我回答\" adds a speaker/dialogue frame.",
+    "fix": "如果不先接觸想像出來的東西，就不會發現這是不存在的東西。因此，如果一件事物是假的，那麼說它是「不存在的東西」，明顯也是假的。"
+   }
+  ]
+ },
+ {
+  "id": "9-144",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-148",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-154",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "omission",
+    "severity": "minor",
+    "span": "因為各種爭吵和開心的事情",
+    "evidence": "Source: \"by the causes of fighting and joy\"; the word \"causes\" is dropped, so the point that these are the causes is lost.",
+    "fix": "因為各種會帶來爭吵和開心的原因，"
+   }
+  ]
+ },
+ {
+  "id": "9-158",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-164",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "minor",
+    "span": "許多人",
+    "evidence": "Tibetan \"འགའ་ཞིག\" / academic \"有人\" = some one; number changed to \"許多人\".",
+    "fix": "有人明明活在巨大的痛苦中，卻還以為自己很快樂。"
+   }
+  ]
+ },
+ {
+  "id": "9-19",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-2",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-22",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-26",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-31",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-32",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "最後連這根深的習慣也會被消除",
+    "evidence": "Source: by habituating \"nothing exists\", that (the habit of emptiness) will in turn be abandoned; \"這根深的習慣\" is ambiguous and could be read as the habit of things.",
+    "fix": "最後連空性的根深習慣也會被消除。"
+   }
+  ]
+ },
+ {
+  "id": "9-44",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-48",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-57",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-61",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-63",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "addition",
+    "severity": "minor",
+    "span": "有人可能會說：",
+    "evidence": "Academic translation states directly that one person is imputed as father and son; it does not mark this as an imagined objection.",
+    "fix": "同一個人可以被叫做父親，也可以被叫做兒子。可是這只是被貼上名稱，並不是真實的樣子。"
+   }
+  ]
+ },
+ {
+  "id": "9-65",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-80",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-86",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-87",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "9-92",
+  "verdict": "pass",
+  "issues": []
+ },
+ {
+  "id": "b-1",
+  "verdict": "pass",
+  "issues": [
+   {
+    "type": "fluency",
+    "severity": "minor",
+    "span": "印度的為我授戒的老師薩婆若提婆",
+    "evidence": "Academic: \"印度親教師薩婆若提婆\"; the stacked modifiers are tangled for ages 8-12.",
+    "fix": "印度的薩婆若提婆，是為我授戒的老師，他和主要校訂的翻譯家班第吉祥積，根據喀什米爾的書本，一起檢查並確定了文字。"
+   }
+  ]
+ }
+]

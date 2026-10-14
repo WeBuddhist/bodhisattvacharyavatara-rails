@@ -1,0 +1,512 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "8-114",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-115",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-116",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "Not a standard technical glossary term."
+     },
+     {
+      "n": 3,
+      "reason": "Redundant; compassion is covered by term 4."
+     },
+     {
+      "n": 5,
+      "reason": "Verb phrase."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-117",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-118",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-119",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 1,
+      "bo_fixed": "བདག་དང་གཞན་དུ་བརྗེ"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "8-120",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཆགས་པ",
+      "reason": "Buddhist technical term (attachment).",
+      "dm": "attachment",
+      "gm": "attachment"
+     }
+    ]
+   },
+   {
+    "id": "8-121",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-122",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-123",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "མཁས་པ",
+      "reason": "Common epithet for an adept/sage.",
+      "dm": "wise person",
+      "gm": "wise person"
+     }
+    ]
+   },
+   {
+    "id": "8-124",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-125",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-126",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-127",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བདག་གི་དོན",
+      "reason": "Fixed doctrinal concept corresponding to self-welfare.",
+      "dm": "one's own benefit",
+      "gm": "one's own purpose"
+     },
+     {
+      "bo": "གཞན་གྱི་དོན",
+      "reason": "Fixed doctrinal concept corresponding to others' welfare.",
+      "dm": "benefit of others",
+      "gm": "purpose of others"
+     }
+    ]
+   },
+   {
+    "id": "8-128",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-129",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "རང་གི་དོན",
+      "reason": "Fixed concept (self-purpose/welfare).",
+      "dm": "their own sake",
+      "gm": "their own purpose"
+     },
+     {
+      "bo": "གཞན་གྱི་དོན",
+      "reason": "Fixed concept (others' purpose/welfare).",
+      "dm": "sake of others",
+      "gm": "purpose of others"
+     }
+    ]
+   },
+   {
+    "id": "8-130",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-131",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-132",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "རྨོངས་པ",
+      "reason": "Buddhist technical term (delusion/fool).",
+      "dm": "deluded",
+      "gm": "foolish"
+     }
+    ]
+   },
+   {
+    "id": "8-133",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-134",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-135",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "A whole sentence/phrase, not a concise glossary term."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-136",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 1,
+      "bo_fixed": "སེམས་ཅན"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "8-137",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "རང་དོན",
+      "reason": "Fixed concept (self-purpose).",
+      "dm": "own ends",
+      "gm": "one's own purpose"
+     }
+    ]
+   },
+   {
+    "id": "8-138",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-139",
+    "drop": [
+     {
+      "n": 5,
+      "reason": "Ordinary verb usage in this specific context."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-140",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "སྡུག་བསྔལ",
+      "reason": "Buddhist technical term.",
+      "dm": "suffering",
+      "gm": "suffering"
+     }
+    ]
+   },
+   {
+    "id": "8-141",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བདེ་བ",
+      "reason": "Buddhist technical term (happiness/ease).",
+      "dm": "state of ease",
+      "gm": "happiness"
+     },
+     {
+      "bo": "འཇིག་རྟེན",
+      "reason": "Buddhist technical term (the world).",
+      "dm": "world",
+      "gm": "world"
+     }
+    ]
+   },
+   {
+    "id": "8-142",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-143",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-144",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-145",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འགྲོ",
+      "reason": "Technical term for wandering beings.",
+      "dm": "beings",
+      "gm": "beings"
+     },
+     {
+      "bo": "མཁས་པ",
+      "reason": "Common epithet for the wise/adept.",
+      "dm": "wise",
+      "gm": "wise"
+     }
+    ]
+   },
+   {
+    "id": "8-146",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-147",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འཇིག་རྟེན",
+      "reason": "Buddhist concept (world).",
+      "dm": "world",
+      "gm": "world"
+     }
+    ]
+   },
+   {
+    "id": "8-148",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-149",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-150",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Used here contextually to mean 'miserable one' rather than the strict technical term 'afflictions'."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-151",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "8-116",
+    "bo": "བསྲུང་སེམས",
+    "reason": "Not a standard technical glossary term."
+   },
+   {
+    "id": "8-116",
+    "bo": "སྙིང་རྗེའི་སེམས",
+    "reason": "Redundant; compassion is covered by term 4."
+   },
+   {
+    "id": "8-116",
+    "bo": "གོམས་པར་བྱ",
+    "reason": "Verb phrase."
+   },
+   {
+    "id": "8-135",
+    "bo": "གཞན་རྣམས་བདག་བཞིན་གཟུང་བར་བྱ",
+    "reason": "A whole sentence/phrase, not a concise glossary term."
+   },
+   {
+    "id": "8-139",
+    "bo": "བསྒོམ",
+    "reason": "Ordinary verb usage in this specific context."
+   },
+   {
+    "id": "8-150",
+    "bo": "ཉོན་མོངས",
+    "reason": "Used here contextually to mean 'miserable one' rather than the strict technical term 'afflictions'."
+   }
+  ],
+  "fix_span": [
+   {
+    "id": "8-119",
+    "bo": "བདག་དང་གཞན་དུ་བརྗེ་བྱ་བ",
+    "bo_fixed": "བདག་དང་གཞན་དུ་བརྗེ"
+   },
+   {
+    "id": "8-136",
+    "bo": "སེམས་ཅན་ཀུན",
+    "bo_fixed": "སེམས་ཅན"
+   }
+  ],
+  "add": [
+   {
+    "id": "8-120",
+    "bo": "ཆགས་པ",
+    "dm": "attachment",
+    "gm": "attachment",
+    "reason": "Buddhist technical term (attachment)."
+   },
+   {
+    "id": "8-123",
+    "bo": "མཁས་པ",
+    "dm": "wise person",
+    "gm": "wise person",
+    "reason": "Common epithet for an adept/sage."
+   },
+   {
+    "id": "8-127",
+    "bo": "བདག་གི་དོན",
+    "dm": "one's own benefit",
+    "gm": "one's own purpose",
+    "reason": "Fixed doctrinal concept corresponding to self-welfare."
+   },
+   {
+    "id": "8-127",
+    "bo": "གཞན་གྱི་དོན",
+    "dm": "benefit of others",
+    "gm": "purpose of others",
+    "reason": "Fixed doctrinal concept corresponding to others' welfare."
+   },
+   {
+    "id": "8-129",
+    "bo": "རང་གི་དོན",
+    "dm": "their own sake",
+    "gm": "their own purpose",
+    "reason": "Fixed concept (self-purpose/welfare)."
+   },
+   {
+    "id": "8-129",
+    "bo": "གཞན་གྱི་དོན",
+    "dm": "sake of others",
+    "gm": "purpose of others",
+    "reason": "Fixed concept (others' purpose/welfare)."
+   },
+   {
+    "id": "8-132",
+    "bo": "རྨོངས་པ",
+    "dm": "deluded",
+    "gm": "foolish",
+    "reason": "Buddhist technical term (delusion/fool)."
+   },
+   {
+    "id": "8-137",
+    "bo": "རང་དོན",
+    "dm": "own ends",
+    "gm": "one's own purpose",
+    "reason": "Fixed concept (self-purpose)."
+   },
+   {
+    "id": "8-140",
+    "bo": "སྡུག་བསྔལ",
+    "dm": "suffering",
+    "gm": "suffering",
+    "reason": "Buddhist technical term."
+   },
+   {
+    "id": "8-141",
+    "bo": "བདེ་བ",
+    "dm": "state of ease",
+    "gm": "happiness",
+    "reason": "Buddhist technical term (happiness/ease)."
+   },
+   {
+    "id": "8-141",
+    "bo": "འཇིག་རྟེན",
+    "dm": "world",
+    "gm": "world",
+    "reason": "Buddhist technical term (the world)."
+   },
+   {
+    "id": "8-145",
+    "bo": "འགྲོ",
+    "dm": "beings",
+    "gm": "beings",
+    "reason": "Technical term for wandering beings."
+   },
+   {
+    "id": "8-145",
+    "bo": "མཁས་པ",
+    "dm": "wise",
+    "gm": "wise",
+    "reason": "Common epithet for the wise/adept."
+   },
+   {
+    "id": "8-147",
+    "bo": "འཇིག་རྟེན",
+    "dm": "world",
+    "gm": "world",
+    "reason": "Buddhist concept (world)."
+   }
+  ]
+ }
+}

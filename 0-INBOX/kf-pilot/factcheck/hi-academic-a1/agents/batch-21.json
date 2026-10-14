@@ -1,0 +1,129 @@
+{
+ "batch": "batch-21",
+ "segments": [
+  {
+   "id": "6-102",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-103",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-104",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-105",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-107",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-109",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "सिद्धि का योग्य कारण होने पर भी, सद्धर्म की पूजा क्यों करते हो?",
+     "evidence": "Tibetan 'གྲུབ་པ་ཡི་ནི་རྒྱུར་རུང་བ། དམ་པའི་ཆོས་ཀྱང་ཅི་སྟེ་མཆོད' : the concessive 'ཀྱང་' attaches to the Dharma ('why is even the sublime Dharma, which is a fit cause of accomplishment, worshipped [though it lacks the intention]'). Gyaltsab (bo-gyaltsab 6-109): Dharma jewel being a fit cause of virtue should then not be worshipped, since it lacks the intention to produce virtue. The Hindi puts 'भी' on 'being a fit cause', yielding 'although it is a fit cause, why worship it?', which reverses the logic of the reductio.",
+     "fix": "सिद्धि का योग्य कारण होने से, सद्धर्म की भी पूजा क्यों की जाती है (जबकि उसमें वैसी मंशा नहीं है)?"
+    }
+   ]
+  },
+  {
+   "id": "6-110",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-111",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-112",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-113",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-114",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "आशय के गुण से स्वयं नहीं। फल से है, उसी के समान।",
+     "evidence": "Tibetan 'བསམ་པའི་ཡོན་ཏན་རང་གིས་མིན། འབྲས་བུ་ལས་ཡིན་དེས་མཚུངས་པར།' ; Gyaltsab (bo-gyaltsab 6-114): the two are not set equal by the intention's quality itself, but are alike through the result (being causes of Buddhahood). The Hindi fragments leave subject and predicate unstated and 'उसी के समान' does not convey 'equal through that', so the claim is hard to parse.",
+     "fix": "आशय का गुण स्वयं (समानता का आधार) नहीं है; वह फल से है, और उसी के द्वारा (दोनों) समान हैं;"
+    }
+   ]
+  },
+  {
+   "id": "6-115",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-116",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-117",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-118",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-119",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-120",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-121",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "चूँकि मेरे जो स्वामी हैं, वे भी",
+     "evidence": "Tibetan 'རེ་ཞིག་བདག་གི་རྗེར་གྱུར་ཉིད་ཀྱང་ནི' ; 'རེ་ཞིག' is 'to begin with / for the moment' (Skt तावत्), not a causal 'since'; bo-shenga 6-121 'རེ་ཞིག་བདག་གི་རྗེ་བོར་གྱུར་པ་... ཉིད་ཀྱང་ནི' reads it as 'even those who are my lords'. 'चूँकि' adds a causal link not in the source.",
+     "fix": "पहले तो, जो मेरे स्वामी हैं, वे भी"
+    }
+   ]
+  }
+ ]
+}

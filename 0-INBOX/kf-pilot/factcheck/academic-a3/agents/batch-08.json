@@ -1,0 +1,109 @@
+{
+ "batch": "batch-08",
+ "segments": [
+  {
+   "id": "9-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-101",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "this collection of selflessness",
+     "evidence": "bdag med tshogs 'di la: 'bdag med' modifies 'tshogs' (Skt nirātmake kalāpe, 'in this self-less collection'); bo-kunpal 9-101 glosses it as the aggregate-collection lacking a self (bdag med par ... ཕུང་པོའི་ཚོགས་པ). The English makes selflessness the content of the collection.",
+     "fix": "this collection that is without self"
+    }
+   ]
+  },
+  {
+   "id": "9-114",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-151",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-158",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-160",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-166",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "Thus, for those tormented by the fire of suffering,\nWell-arisen from the clouds of merit—\nWith a rain of my own accumulation of happiness—",
+     "evidence": "In the Tibetan 'bsod nams sprin las legs 'khrungs pa'i' modifies 'rang gi bde ba'i tshogs char' (the rain), per bo-kunpal 9-166 and bo-shenga 9-166; in the English the participial phrase sits directly after 'those tormented...' and can be read as describing the beings.",
+     "fix": "With a rain of my own stores of happiness, well arisen from the clouds of merit"
+    }
+   ]
+  },
+  {
+   "id": "10-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "In my having composed\nEngaging in the Conduct of Awakening,\nThrough whatever virtue there is",
+     "evidence": "The Tibetan 'bdag gis ... 'jug pa rnam par brtsams pa yi / dge ba gang des' = by whatever virtue [arises from] my having composed the Engaging; bo-gyaltsab 10-1 states the virtue is that obtained from composing the treatise. The English 'In my having composed ... through whatever virtue there is' does not make composition the source of the virtue.",
+     "fix": "Through whatever virtue there is in my having composed\nEngaging in the Conduct of Awakening,"
+    }
+   ]
+  },
+  {
+   "id": "10-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-26",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-54",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

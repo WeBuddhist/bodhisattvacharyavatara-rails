@@ -1,0 +1,267 @@
+{
+ "segments": [
+  {
+   "id": "1-11",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "導師以慧觀",
+      "explanation": "Omits \"sole\" (གཅིག་པུ་) and \"immeasurable\" (ཚད་མེད་) which modify the guide and his wisdom."
+     }
+    ]
+   }
+  },
+  {
+   "id": "1-27",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "2-22",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "terminology",
+      "severity": "major",
+      "span": "善逝",
+      "explanation": "The Tibetan \"དེ་བཞིན་གཤེགས\" translates to Tathagata (如來), not Sugata (善逝)."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "昔日",
+      "explanation": "Adds \"in the past\" which is not present in the Tibetan source text."
+     },
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "如來諸佛子",
+      "explanation": "Omits \"Protector\" (མགོན་པོ་)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "2-53",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "今生大憂懼",
+      "explanation": "The Tibetan text says \"seeing\" (mthong) great fear, not generating it."
+     },
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "願以歸命尊",
+      "explanation": "The phrasing \"願以\" is unnatural and grammatically unclear in this context."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "2-57",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "尋常險",
+      "explanation": "Omits \"small\" (ཆུང་ངུ་)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "3-15",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "因見我",
+      "explanation": "\"dmigs nas\" means to take as a mental object or focus upon, not merely \"seeing\"."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-20",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "獲得人身極難得",
+      "explanation": "Slightly redundant and awkward phrasing (\"獲得\" and \"難得\")."
+     }
+    ],
+    "C": [
+     {
+      "category": "terminology",
+      "severity": "major",
+      "span": "軌木",
+      "explanation": "\"軌木\" means railway tie, whereas the Tibetan \"གཉའ་ཤིང་\" refers to a yoke (軛木)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "4-29",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "5-12",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "5-41",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "各觀察",
+      "explanation": "\"各觀察\" is an unidiomatic literal rendering of \"so sor brtag\" (examine specifically/individually)."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "5-47",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "與正知",
+      "explanation": "Translates the variant རིག་པ་ as \"clear comprehension\" (正知), missing the Sanskrit 'yuktimat' (proper/fitting) which the commentaries explain as རིགས་ཤིང་འཐད་པ་."
+     }
+    ],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "5-85",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "無怙住戒者",
+      "explanation": "Conflates two distinct groups (the protectorless, and those keeping ascetic vows) into a single category."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "5-98",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "6-6",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "6-30",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "我作何相干",
+      "explanation": "The abbreviation \"我作\" is ambiguous and could easily be misread as \"what I do\" rather than \"the Self and the action\"."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "6-64",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "6-87",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "6-98",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  },
+  {
+   "id": "6-126",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "生佛既同體",
+      "explanation": "This heavy paraphrase omits the specific phenomenological aspect \"seen in the form of sentient beings\" (སེམས་ཅན་ངོ་བོར་མཐོང་བ་)."
+     }
+    ],
+    "C": []
+   }
+  },
+  {
+   "id": "7-10",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": []
+   }
+  }
+ ]
+}

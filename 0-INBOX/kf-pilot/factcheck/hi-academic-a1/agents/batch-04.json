@@ -1,0 +1,137 @@
+{
+ "batch": "batch-04",
+ "segments": [
+  {
+   "id": "2-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-22",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "तथागतों, और सपुत्र नाथों की",
+     "evidence": "Tibetan 'de bzhin gshegs mgon po sras dang bcas rnams' has no conjunction: 'mgon po' is in apposition to 'de bzhin gshegs' (Tathagatas, the protectors, together with their sons). bo-gyaltsab 2-22: 'de bzhin gshegs pa lha mi rnams kyi mgon po sras dang bcas pa rnams' (Tathagatas, protectors of gods and humans, with their sons). The inserted 'और' suggests two groups: Tathagatas and (separately) protectors with sons.",
+     "fix": "तथागतों, सपुत्र नाथों की"
+    }
+   ]
+  },
+  {
+   "id": "2-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-26",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "बोधिमण्ड तक पहुँचने तक",
+     "evidence": "Tibetan 'byang chub snying por mchis kyi bar' = until arriving at the essence of awakening (bodhimanda). The doubled 'तक ... तक' is awkward; the destination should take 'पर'.",
+     "fix": "बोधिमण्ड पर पहुँचने तक"
+    }
+   ]
+  },
+  {
+   "id": "2-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-32",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "मेरी मृत्यु पहले ही हो सकती है",
+     "evidence": "Tibetan 'sngon du 'gum par 'gyur du mchi' states that death will occur first (I am going to die), not a mere possibility. bo-gyaltsab 2-32: 'sngon du 'gum par 'gyur du mchi zhing ngan 'gror skye bas' (will die first and be born in the lower realms); bo-kunpal 2-32 'sngon du 'gum par 'gyur du mchi zhes 'chi bar 'gyur la'. 'हो सकती है' weakens this to possibility.",
+     "fix": "मैं (उसके) पहले ही मर जाऊँगा / मेरी मृत्यु पहले ही हो जाएगी"
+    }
+   ]
+  },
+  {
+   "id": "2-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-36",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-37",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-38",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "क्षणभङ्गुर",
+     "evidence": "Tibetan 'glo bur' (Skt. agantuka) means sudden/adventitious, a transient visitor whose time of death is uncertain. bo-kunpal 2-38 glosses 'glo bur ba' as like a guest/traveller who comes and goes without notice and dies quickly; bo-gyaltsab 2-38: 'nam 'chi nges pa med pa tshe yud tsam gyis glo bur ba'. 'क्षणभङ्गुर' carries the technical Buddhist sense of momentariness (ksanika), which is not what is said here.",
+     "fix": "आगन्तुक (अचानक चले जाने वाला)"
+    }
+   ]
+  },
+  {
+   "id": "2-39",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-40",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

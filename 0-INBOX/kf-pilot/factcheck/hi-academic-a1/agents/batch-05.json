@@ -1,0 +1,113 @@
+{
+ "batch": "batch-05",
+ "segments": [
+  {
+   "id": "2-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-48",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-50",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "अमोघ",
+     "evidence": "Tibetan ཐུགས་རྗེས་སྤྱོད་པ་མ་འཁྲུལ་བ means conduct that is 'unmistaken/unerring' (མ་འཁྲུལ་བ); bo-kunpal 2-50 glosses it as མི་འགལ་བར་མཛད་པ (acting without contradiction). 'अमोघ' means 'never in vain/infallible in effect', a different notion from 'not mistaken'.",
+     "fix": "करुणा से जिनका आचरण अभ्रान्त (निर्भ्रान्त) है"
+    }
+   ]
+  },
+  {
+   "id": "2-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-60",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

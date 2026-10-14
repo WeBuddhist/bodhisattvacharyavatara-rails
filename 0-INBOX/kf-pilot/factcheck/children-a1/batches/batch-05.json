@@ -1,0 +1,645 @@
+[
+ {
+  "id": "4-21",
+  "tibetan": "སྐད་ཅིག་གཅིག་བྱས་སྡིག་པས་ཀྱང་། ། བསྐལ་པར་མནར་མེད་གནས་འགྱུར་ན། ། ཐོག་མེད་འཁོར་བར་བསགས་སྡིག་གིས། ། བདེ་འགྲོར་མི་འགྲོ་སྨོས་ཅི་དགོས། །",
+  "academic_translation": "If even a misdeed committed in a single instant\nLeads to dwelling in the Avīci hell for an eon,\nDue to the misdeeds accumulated in beginningless saṃsāra,\nWhat need is there to mention that one will not go to a happy realm?",
+  "locked_terms": [
+   {
+    "tibetan": "སྡིག་པ",
+    "use": "harmful deed"
+   },
+   {
+    "tibetan": "བསྐལ་པ",
+    "use": "great age"
+   },
+   {
+    "tibetan": "མནར་མེད",
+    "use": "Avichi"
+   },
+   {
+    "tibetan": "འཁོར་བ",
+    "use": "cycle of rebirth"
+   },
+   {
+    "tibetan": "བདེ་འགྲོ",
+    "use": "happy realm"
+   }
+  ],
+  "translation": "Just one instant of a harmful deed can trap me in Avichi for a great age. I have gathered harmful deeds in the cycle of rebirth, which has no beginning. So of course I will not go to a happy realm!"
+ },
+ {
+  "id": "4-22",
+  "tibetan": "དེ་ཙམ་ཁོ་ན་མྱོང་གྱུར་ནས། ། དེ་ནི་རྣམ་ཐར་མི་འགྱུར་ཏེ། ། འདི་ལྟར་དེ་ནི་མྱོང་བཞིན་དུ། ། སྡིག་པ་གཞན་དག་རབ་ཏུ་སྐྱེ། །",
+  "academic_translation": "Having experienced just that much,\nOne will not attain liberation,\nBecause while experiencing it in this way,\nOther misdeeds are fully generated.",
+  "locked_terms": [
+   {
+    "tibetan": "རྣམ་ཐར",
+    "use": "freedom"
+   },
+   {
+    "tibetan": "སྡིག་པ",
+    "use": "harmful deed"
+   }
+  ],
+  "translation": "I will not win freedom just by living through that. While I am experiencing it, I will just create other harmful deeds."
+ },
+ {
+  "id": "4-23",
+  "tibetan": "འདི་འདྲའི་དལ་བ་རྙེད་གྱུར་ནས། ། བདག་གིས་དགེ་གོམས་མ་བྱས་ན། ། འདི་ལས་བསླུས་པ་གཞན་མེད་དེ། ། འདི་ལས་རྨོངས་པའང་གཞན་མེད་དོ། །",
+  "academic_translation": "Having found such leisure as this,\nIf I do not habituate myself to virtue,\nThere is no other deception than this,\nAnd there is no other bewilderment than this.",
+  "locked_terms": [
+   {
+    "tibetan": "དལ་བ",
+    "use": "freedom to practice"
+   },
+   {
+    "tibetan": "དགེ",
+    "use": "good deed"
+   }
+  ],
+  "translation": "I have found this freedom to practice. If I do not build a habit of doing good deeds, there is no worse trick than this. There is no worse confusion than this."
+ },
+ {
+  "id": "4-24",
+  "tibetan": "གལ་ཏེ་བདག་གིས་དེ་རྟོགས་ནས། ། རྨོངས་པས་ཕྱིས་ཀྱང་སྒྱིད་ལུག་ན། ། འཆི་བར་འགྱུར་བའི་དུས་ཀྱི་ཚེ། ། མྱ་ངན་ཆེན་པོ་ལྡང་བར་འགྱུར། །",
+  "academic_translation": "If, having understood this,\nI am still lazy later out of bewilderment,\nAt the time of death,\nGreat sorrow will arise.",
+  "locked_terms": [],
+  "translation": "If I understand this but stay lazy because I am confused, great sorrow will come to me when it is time to die."
+ },
+ {
+  "id": "4-25",
+  "tibetan": "དམྱལ་མེ་བཟོད་དཀས་དུས་རིང་དུ། ། བདག་གི་ལུས་ལ་བསྲེགས་གྱུར་ན། ། འགྱོད་པ་མི་བཟད་མེ་འབར་བས། ། སེམས་གདུང་འགྱུར་བ་གདོན་མི་ཟ། །",
+  "academic_translation": "If the unbearable fire of hell\nBurns my body for a long time,\nDue to the blazing fire of unbearable regret,\nMy mind will doubtless be tormented.",
+  "locked_terms": [
+   {
+    "tibetan": "དམྱལ་མེ",
+    "use": "fire of hell"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   },
+   {
+    "tibetan": "འགྱོད་པ",
+    "use": "regret"
+   }
+  ],
+  "translation": "If the unbearable fire of hell burns my body for a long time, my mind will surely be tormented by the blazing fire of unbearable regret."
+ },
+ {
+  "id": "4-26",
+  "tibetan": "ཤིན་ཏུ་རྙེད་དཀའ་ཕན་པའི་ས། ། ཇི་ཞིག་ལྟར་སྟེས་རྙེད་གྱུར་ནས། ། བདག་ཉིད་ཤེས་དང་ལྡན་བཞིན་དུ། ། ཕྱིར་ཡང་དམྱལ་བ་དེར་ཁྲིད་ན། །",
+  "academic_translation": "This state of benefit that is extremely difficult to find,\nHaving found it by some chance,\nIf, while I myself possess understanding,\nI am led back again to that hell,",
+  "locked_terms": [
+   {
+    "tibetan": "དམྱལ་བ",
+    "use": "hell"
+   }
+  ],
+  "translation": "This helpful state is very hard to find. Somehow, I have found it by chance. But what if, even while I understand this, I am led back again to that hell?"
+ },
+ {
+  "id": "4-27",
+  "tibetan": "སྔགས་ཀྱིས་རྨོངས་པར་བྱས་པ་བཞིན། ། བདག་ལ་འདིར་སེམས་མེད་དུ་ཟད། ། ཅིས་རྨོངས་བདག་ཀྱང་མ་ཤེས་ཏེ། ། བདག་གི་ཁོང་ན་ཅི་ཞིག་ཡོད། །",
+  "academic_translation": "As if bewildered by a mantra,\nI am reduced to having no mind here.\nEven I do not know what bewilders me;\nWhat is there inside me?",
+  "locked_terms": [
+   {
+    "tibetan": "སྔགས",
+    "use": "sacred words"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "It is as if I have been confused by sacred words. I am left with no mind here. I do not even know what is confusing me. What is inside me?"
+ },
+ {
+  "id": "4-28",
+  "tibetan": "ཞེ་སྡང་སྲེད་སོགས་དགྲ་རྣམས་ནི། ། རྐང་ལག་ལ་སོགས་ཡོད་མིན་ལ། ། དཔའ་མཛངས་མིན་ཡང་ཇི་ཞིག་ལྟར། ། དེ་དག་གིས་བདག་བྲན་བཞིན་བྱས། །",
+  "academic_translation": "The enemies, hatred, craving, and so forth,\nHave no hands, feet, and so forth,\nAnd are neither brave nor wise; yet how is it\nThat they have made me like a slave?",
+  "locked_terms": [
+   {
+    "tibetan": "ཞེ་སྡང",
+    "use": "hatred"
+   },
+   {
+    "tibetan": "སྲེད",
+    "use": "wanting"
+   }
+  ],
+  "translation": "My enemies, like hatred and wanting, do not have hands or feet. They are not brave or wise. So how have they made me like a slave?"
+ },
+ {
+  "id": "4-29",
+  "tibetan": "བདག་གི་སེམས་ལ་གནས་བཞིན་དུ། ། དགའ་མགུར་བདག་ལ་གནོད་བྱེད་པ། ། དེ་ལའང་མི་ཁྲོ་བཟོད་པ་ནི། ། གནས་མིན་བཟོད་པ་སྨད་པའི་གནས། །",
+  "academic_translation": "While dwelling within my mind,\nthey do harm to me at their pleasure;\nto not be angry even at that and to practice patience\nis misplaced patience, an object of reproach.",
+  "locked_terms": [
+   {
+    "tibetan": "བཟོད་པ",
+    "use": "patience"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "These enemies live right inside my mind. They hurt me whenever they want. If I do not get angry at them and just practice patience, that is the wrong kind of patience. I should be scolded for it."
+ },
+ {
+  "id": "4-30",
+  "tibetan": "གལ་ཏེ་ལྷ་དང་ལྷ་མིན་རྣམས། ། ཐམས་ཅད་བདག་ལ་དགྲར་ལངས་ཀྱང་། ། དེ་དག་གིས་ཀྱང་མནར་མེད་པའི། ། མེ་ནང་ཁྲིད་ཅིང་འཇུག་མི་ནུས། །",
+  "academic_translation": "Even if the gods and asuras\nall rose up against me as enemies,\neven they would be unable to lead\nand cast me into the fire of the Avīci hell.",
+  "locked_terms": [
+   {
+    "tibetan": "ལྷ",
+    "use": "god"
+   },
+   {
+    "tibetan": "ལྷ་མིན",
+    "use": "demigod"
+   },
+   {
+    "tibetan": "མནར་མེད་པ",
+    "use": "Avichi"
+   }
+  ],
+  "translation": "Even if all the gods and demigods rose up against me as enemies, they could not drag me away. They could not throw me into the fire of the Avichi hell."
+ },
+ {
+  "id": "4-31",
+  "tibetan": "ཉོན་མོངས་སྟོབས་ཅན་དགྲ་འདིས་ནི། ། གང་དང་ཕྲད་ན་རི་རབ་ཀྱང་། ། ཐལ་བ་ཡང་ནི་མི་ལུས་པ། ། དེར་བདག་སྐད་ཅིག་གཅིག་ལ་འདོར། །",
+  "academic_translation": "This powerful enemy, the afflictions,\ncasts me in a single instant there\nwhere, upon contact, even Mount Meru\ndoes not remain even as ashes.",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   },
+   {
+    "tibetan": "རི་རབ",
+    "use": "Mount Meru"
+   }
+  ],
+  "translation": "But my powerful enemy, these troubling emotions, can throw me there in a single instant. If Mount Meru touched that fire, it would burn away without leaving even ashes."
+ },
+ {
+  "id": "4-32",
+  "tibetan": "བདག་གི་ཉོན་མོངས་དགྲ་བོ་གང་། ། དུས་རིང་ཐོག་མཐའ་མེད་པ་ལྟར། ། དགྲ་གཞན་ཀུན་ཀྱང་དེ་ལྟ་བུར། ། ཡུན་རིང་ཐུབ་པ་མ་ཡིན་ནོ། །",
+  "academic_translation": "These enemies of mine, the afflictions,\nare long-lasting, as if without beginning or end;\nall other enemies are incapable\nof lasting for such a long time.",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   }
+  ],
+  "translation": "My troubling emotions are enemies that last a very long time. They seem to have no beginning and no end. All my other enemies could never last that long."
+ },
+ {
+  "id": "4-33",
+  "tibetan": "མཐུན་པར་རིམ་གྲོ་བསྟེན་བྱས་ན། ། ཐམས་ཅད་ཕན་དང་བདེ་བྱེད་ན། ། ཉོན་མོངས་རྣམས་ནི་བསྟེན་བྱས་ན། ། ཕྱིར་ཞིང་སྡུག་བསྔལ་གནོད་པ་བྱེད། །",
+  "academic_translation": "If amiably served and honored,\nall others bring benefit and happiness;\nbut if the afflictions are served,\nthey bring further suffering and harm.",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "If I serve and honor my other enemies, they might bring me help and happiness. But if I serve my troubling emotions, they only bring me more suffering and harm."
+ },
+ {
+  "id": "4-34",
+  "tibetan": "དེ་ལྟར་ཡུན་རིང་རྒྱུན་ཆགས་དགྲར་གྱུར་པ། ། གནོད་པའི་ཚོགས་རབ་འཕེལ་བའི་རྒྱུ་གཅིག་པུ། ། བདག་གི་སྙིང་ལ་ངེས་པར་གནས་འཆའ་ན། ། འཁོར་བར་འཇིགས་མེད་དགའ་བར་ག་ལ་འགྱུར། །",
+  "academic_translation": "Thus, if these long-standing, continuous enemies,\nthe sole cause for the great increase of a multitude of harms,\ntruly take up residence within my heart,\nhow could I be fearless and joyful in saṃsāra?",
+  "locked_terms": [
+   {
+    "tibetan": "འཁོར་བ",
+    "use": "cycle of rebirth"
+   }
+  ],
+  "translation": "These enemies have stayed with me for a long time without stopping. They are the only reason I suffer so many harms. If they truly live inside my heart, how could I be fearless and happy in the cycle of rebirth?"
+ },
+ {
+  "id": "4-35",
+  "tibetan": "འཁོར་བའི་བཅོན་རའི་སྲུང་མས་དམྱལ་སོགས་སུ། ། གསོད་བྱེད་གཤེད་མར་གྱུར་པ་འདི་དག་ནི། ། གལ་ཏེ་བློ་གནས་ཆགས་པའི་དྲ་བ་ན། ། གནས་ན་བདག་ལ་བདེ་བ་ག་ལ་ཡོད། །",
+  "academic_translation": "If these guards of the prison of saṃsāra,\nWho become executioners in hell and so forth,\nRemain within the net of attachment dwelling in the mind,\nHow could there be happiness for me?",
+  "locked_terms": [
+   {
+    "tibetan": "འཁོར་བ",
+    "use": "cycle of rebirth"
+   },
+   {
+    "tibetan": "དམྱལ",
+    "use": "hell"
+   },
+   {
+    "tibetan": "ཆགས་པ",
+    "use": "clinging"
+   }
+  ],
+  "translation": "These inner enemies guard the prison of the cycle of rebirth. They become executioners in hell. If they stay inside my mind in a net of clinging, how could I ever be happy?"
+ },
+ {
+  "id": "4-36",
+  "tibetan": "དེ་ལྟར་ཇི་སྲིད་བདག་གིས་དགྲ་འདི་མངོན་སུམ་དུ། ། ངེས་པར་མ་བཅོམ་དེ་སྲིད་བདག་འདིར་བརྩོན་མི་འདོར། ། རེ་ཞིག་གནོད་བྱེད་ཆུང་ངུ་ལ་ཡང་ཁྲོས་གྱུར་པ། ། ང་རྒྱལ་བདོ་རྣམས་དེ་མ་བཅོམ་པར་གཉིད་མི་འོང་། །",
+  "academic_translation": "Thus, as long as I do not manifestly\nAnd certainly destroy this enemy, I shall not forsake my effort here.\nFor instance, angered even by a slight wrongdoer,\nThose swollen with pride do not sleep until they have destroyed that enemy.",
+  "locked_terms": [
+   {
+    "tibetan": "ང་རྒྱལ",
+    "use": "pride"
+   }
+  ],
+  "translation": "So, until I completely destroy this enemy, I will not give up my effort. Think of people who are filled with pride. If someone wrongs them just a little, they get angry. They do not sleep until they have destroyed that enemy."
+ },
+ {
+  "id": "4-37",
+  "tibetan": "རང་བཞིན་འཆི་བས་སྡུག་བསྔལ་གྱུར་པའི་ཉོན་མོངས་དག ། གཡུལ་ངོར་དངར་ཚེ་ནན་གྱིས་གཞོམ་པར་འདོད་པ་ཡང་། ། མདའ་མདུང་མཚོན་གྱིས་ཕོག་པའི་སྡུག་བསྔལ་ཁྱད་བསད་ནས། ། དོན་མ་གྲུབ་པར་ཕྱིར་ཕྱོགས་འབྱེར་བར་མི་བྱེད་ན། །",
+  "academic_translation": "Those wretched enemies made to suffer by natural death—\nIf even those who desire to forcefully destroy them when arrayed in battle,\nHaving disregarded the suffering of being struck by arrows, spears, and weapons,\nDo not turn back and flee without accomplishing their goal,",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "In battle, soldiers fight enemies who will die a natural death anyway. These soldiers ignore the suffering of being struck by arrows, spears, and weapons. They do not turn back and run away without reaching their goal."
+ },
+ {
+  "id": "4-38",
+  "tibetan": "རྟག་ཏུ་སྡུག་བསྔལ་ཀུན་གྱི་རྒྱུར་གྱུར་པ། ། རང་བཞིན་དགྲར་ངེས་གཞོམ་བརྩོན་བདག་ལ་དེང་། ། སྡུག་བསྔལ་བརྒྱ་ཕྲག་རྒྱུར་གྱུར་གང་གིས་ཀྱང་། ། ཡི་ཆད་སྒྱིད་ལུག་མི་འགྱུར་སྨོས་ཅི་དགོས། །",
+  "academic_translation": "The constant cause of all suffering—\nToday, as I strive to destroy these definite natural enemies,\nWhatever becomes the cause of hundreds of sufferings,\nNeedless to say, will not make me despair and lose heart.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "My true natural enemies are the constant cause of all suffering. Today, I am trying hard to destroy them. Even if this fight causes me hundreds of sufferings, it will certainly not make me despair and lose heart."
+ },
+ {
+  "id": "4-39",
+  "tibetan": "དོན་མེད་དགྲ་ཡིས་རྨ་སྲོལ་བཏོད་པ་ཡང་། ། ལུས་ལ་རྒྱན་དང་འདྲ་བར་སྲེལ་བྱེད་ན། ། དོན་ཆེན་སྒྲུབ་ཕྱིར་ཡང་དག་བརྩོན་གྱུར་པ། ། བདག་ལ་སྡུག་བསྔལ་ཅི་ཕྱིར་གནོད་བྱེད་ཡིན། །",
+  "academic_translation": "If even the scars that enemies inflict for no meaningful purpose\nAre worn like ornaments upon the body,\nFor me, who perfectly strives to accomplish the great purpose,\nWhy should suffering be a harm?",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "People sometimes wear scars from meaningless fights with enemies like decorations on their bodies. I am working hard to achieve a truly great goal. Why should suffering be a harm to me?"
+ },
+ {
+  "id": "4-40",
+  "tibetan": "ཉ་པ་གདོལ་པ་ཞིང་པ་ལ་སོགས་པ། ། རང་གི་འཚོ་བ་ཙམ་ཞིག་སེམས་པ་ཡང་། ། གྲང་དང་ཚ་ལ་སོགས་པའི་གནོད་བཟོད་ན། ། འགྲོ་བ་བདེ་ཕྱིར་བདག་ལྟ་ཅིས་མི་བཟོད། །",
+  "academic_translation": "If fishermen, outcastes, farmers, and so forth,\nThinking only of their own mere livelihood,\nEndure the harms of cold, heat, and so forth,\nWhy should someone like me not endure them for the happiness of wandering beings?",
+  "locked_terms": [
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   }
+  ],
+  "translation": "Fishermen, outcasts, farmers, and others only think about making a living. Yet they put up with the pain of cold and heat. I am working for the happiness of all wandering beings. Why should someone like me not endure these things too?"
+ },
+ {
+  "id": "4-41",
+  "tibetan": "ཕྱོགས་བཅུ་ནམ་མཁའི་མཐས་གཏུགས་པའི། ། འགྲོ་བ་ཉོན་མོངས་ལས་བསྒྲལ་བར། ། དམ་བཅས་གང་ཚེ་བདག་ཉིད་ཀྱང་། ། ཉོན་མོངས་རྣམས་ལས་མ་གྲོལ་བ། །",
+  "academic_translation": "To liberate from afflictions the wandering beings\nWho reach to the ends of space in the ten directions,\nWhen I promised this, I myself\nWas not freed from afflictions.",
+  "locked_terms": [
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   },
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   },
+   {
+    "tibetan": "ཕྱོགས་བཅུ",
+    "use": "ten directions"
+   }
+  ],
+  "translation": "I promised to free the wandering beings who fill space in the ten directions. I promised to free them from their troubling emotions. But when I made this promise, I was not even free from my own troubling emotions!"
+ },
+ {
+  "id": "4-42",
+  "tibetan": "བདག་གི་ཚོད་ཀྱང་མི་ཤེས་པར། ། སྨྲ་བ་ཇི་ལྟར་སྨྱོན་པ་མིན། ། དེ་ལྟར་ཉོན་མོངས་གཞོམ་པ་ལ། ། རྟག་ཏུ་ཕྱིར་མི་ལྡོག་པར་བྱ། །",
+  "academic_translation": "Without even knowing my own measure,\nHow am I not a madman to speak thus?\nTherefore, in destroying afflictions,\nI shall never turn back.",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   }
+  ],
+  "translation": "Since I do not even know what I can really do, am I not crazy to talk like this? Still, I will never turn back from destroying my troubling emotions."
+ },
+ {
+  "id": "4-43",
+  "tibetan": "འདི་ལ་བདག་གིས་ཞེན་བྱ་ཞིང་། ། ཁོན་དུ་བཟུང་ནས་གཡུལ་སྤྲད་དེ། ། རྣམ་པ་དེ་འདྲའི་ཉོན་མོངས་པ། ། ཉོན་མོངས་འཇོམས་བྱེད་མ་གཏོགས་སོ། །",
+  "academic_translation": "I shall be attached to this,\nAnd, holding a grudge, engage in battle;\nAfflictions of such a kind\nAre excepted from what is to be abandoned, since they destroy afflictions.",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   }
+  ],
+  "translation": "I will hold tightly to this goal. I will hold a grudge and fight this battle! This is the only kind of troubling emotion I should not let go of, because it destroys all other troubling emotions."
+ },
+ {
+  "id": "4-44",
+  "tibetan": "བདག་ནི་བསྲེགས་ཏེ་བསད་གྱུར་ཏམ། ། བདག་གི་མགོ་བོ་བཅད་ཀྱང་བླའི། ། རྣམ་པ་ཀུན་དུ་ཉོན་མོངས་པའི། ། དགྲ་ལ་མདུད་པར་མི་བྱའོ། །",
+  "academic_translation": "Even if I am burned and killed,\nOr even if my head is severed, so be it;\nI shall never, in any circumstance,\nBow down to the enemies, the afflictions.",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   }
+  ],
+  "translation": "Even if I am burned and killed, so be it. Even if my head is cut off, that is fine. But I will never bow down to my enemies, the troubling emotions."
+ },
+ {
+  "id": "4-45",
+  "tibetan": "ཐ་མལ་དགྲ་བོ་ཡུལ་ནས་ཕྱུང་ཡང་ནི། ། ཡུལ་གཞན་དག་ཏུ་གནས་ཤིང་ཡོངས་བཟུང་ནས། ། ནུས་པ་བརྟས་ནས་དེ་ནས་ཕྱིར་ལྡོག་གི ། ཉོན་མོངས་དགྲ་ཚུལ་དེ་དང་འདྲ་མ་ཡིན། །",
+  "academic_translation": "Even when ordinary enemies are expelled from a country,\nThey reside in other lands and take possession,\nAnd having gathered strength, return from there;\nBut the way of the enemies, the afflictions, is not like that.",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   }
+  ],
+  "translation": "When normal enemies are chased out of a country, they go live in other lands. They build up their strength and come back. But my enemies, the troubling emotions, are not like that."
+ },
+ {
+  "id": "4-46",
+  "tibetan": "ཉོན་མོངས་ཉོན་མོངས་ཤེས་རབ་མིག་གིས་སྤང་། ། བདག་ཡིད་ལས་བསལ་གང་དུ་འགྲོ་བར་འགྱུར། ། གང་དུ་གནས་ནས་བདག་གནོད་བྱ་ཕྱིར་འོང་། ། བློ་ཞེན་བདག་ལ་བརྩོན་པ་མེད་པར་ཟད། །",
+  "academic_translation": "Afflictions, wretched afflictions, are to be abandoned by the eye of wisdom;\nExpelled from my mind, where will they go?\nWhere will they dwell, to return and harm me?\nIt is only that I, being weak-minded, lack effort.",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   },
+   {
+    "tibetan": "ཤེས་རབ",
+    "use": "wisdom"
+   }
+  ],
+  "translation": "These awful troubling emotions can be cleared away by the eye of wisdom. Once they are chased out of my mind, where will they go? Where could they hide to come back and hurt me? The truth is just that my mind is weak and I am not trying hard enough."
+ },
+ {
+  "id": "4-47",
+  "tibetan": "ཉོན་མོངས་རྣམས་ནི་ཡུལ་ན་མི་གནས་དབང་ཚོགས་ལ་མིན་བར་ནའང་མིན། ། དེ་ལས་གཞན་ནའང་མིན་ན་འདི་དག་གར་གནས་འགྲོ་བ་ཀུན་གནོད་བྱེད། ། འདི་ནི་སྒྱུ་འདྲ་དེ་ཕྱིར་སྙིང་ལ་འཇིགས་སྤོངས་ཤེས་ཕྱིར་བརྩོན་པ་བསྟེན། ། དོན་མེད་ཉིད་དུ་བདག་ལ་དམྱལ་སོགས་རྣམས་སུ་ཅི་སྟེ་གནོད་པ་བྱེད། །",
+  "academic_translation": "Afflictions do not reside in sense objects, nor in the collection of faculties, nor in between.\nIf not elsewhere either, where do they reside and harm all wandering beings?\nThey are like an illusion; therefore, abandon fear in the heart and rely on effort in order to know them.\nWhy do I pointlessly harm myself in hells and so forth?",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   },
+   {
+    "tibetan": "དབང་ཚོགས",
+    "use": "group of senses"
+   },
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   },
+   {
+    "tibetan": "སྒྱུ",
+    "use": "illusion"
+   },
+   {
+    "tibetan": "དམྱལ",
+    "use": "hell"
+   },
+   {
+    "tibetan": "ཡུལ",
+    "use": "thing we sense"
+   }
+  ],
+  "translation": "Troubling emotions do not live in the things we sense. They do not live in the group of senses, or in between. If they are nowhere else, where do they stay to harm all beings? They are like an illusion. So, let go of fear in your heart and work hard to know them. Why do I hurt myself for no reason in the hells and other places?"
+ },
+ {
+  "id": "4-48",
+  "tibetan": "དེ་ལྟར་རྣམ་བསམས་ཇི་སྐད་བཤད་པ་ཡི། ། བསླབ་པ་བསྒྲུབ་པའི་ཆེད་དུ་འབད་པར་བྱ། ། སྨན་པའི་ངག་མ་མཉན་ན་སྨན་དག་གིས། ། བཅོས་དགོས་ནད་པ་སོས་པ་ག་ལ་ཡོད། །",
+  "academic_translation": "Having reflected in this way, I shall make effort\nTo accomplish the training just as it has been explained.\nIf one does not listen to the physician's words,\nHow can a patient who needs to be treated by medicines be cured?",
+  "locked_terms": [
+   {
+    "tibetan": "བསླབ་པ",
+    "use": "training"
+   }
+  ],
+  "translation": "Thinking like this, I will work hard. I will do the training just as it was taught. If a sick person does not listen to the doctor, how can medicine cure them?"
+ },
+ {
+  "id": "4-a",
+  "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ལས། བག་ཡོད་བསྟན་པ་ཞེས་བྱ་བ་སྟེ་ལེའུ་བཞི་པའོ།། །།",
+  "academic_translation": "The fourth chapter from Entering the Way of the Bodhisattva, called Heedfulness.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ",
+    "use": "Entering the Way of the Awakening Hero"
+   },
+   {
+    "tibetan": "བག་ཡོད་བསྟན་པ",
+    "use": "Carefulness"
+   }
+  ],
+  "translation": "The fourth chapter from Entering the Way of the Awakening Hero, called Carefulness."
+ },
+ {
+  "id": "5-1",
+  "tibetan": "བསླབ་པ་བསྲུང་བར་འདོད་པ་ཡིས། ། རབ་ཏུ་བསྒྲིམས་ནས་སེམས་བསྲུང་སྟེ། ། སེམས་འདི་བསྲུང་བར་མ་བྱས་ན། ། བསླབ་པ་བསྲུང་བར་ཡོང་མི་ནུས། །",
+  "academic_translation": "Those who wish to guard the training\nMust strictly guard the mind;\nIf this mind is not guarded,\nOne will be completely unable to guard the training.",
+  "locked_terms": [
+   {
+    "tibetan": "བསླབ་པ",
+    "use": "training"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "If you want to guard the training, you must guard your mind well. If this mind is not guarded, you cannot guard the training at all."
+ },
+ {
+  "id": "5-2",
+  "tibetan": "སེམས་ཀྱི་གླང་པོ་ཡན་བཏང་བས། ། མནར་མེད་གནོད་པ་བྱེད་པ་ལྟར། ། གླང་ཆེན་མ་ཐུལ་མྱོས་པ་ཡིས། ། འདི་ན་དེ་འདྲའི་གནོད་མི་བྱེད། །",
+  "academic_translation": "Letting the elephant of the mind run loose\nInflicts harm in the Avīci hell;\nAn untamed, maddened elephant\nDoes not inflict such harm here.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཀྱི་གླང་པོ",
+    "use": "elephant of the mind"
+   },
+   {
+    "tibetan": "མནར་མེད",
+    "use": "Avichi"
+   }
+  ],
+  "translation": "Letting the elephant of the mind run wild causes harm in the Avichi hell. A wild, crazy elephant here does not cause that much harm."
+ },
+ {
+  "id": "5-3",
+  "tibetan": "ཀུན་ནས་དྲན་པའི་ཐག་པ་ཡིས། ། སེམས་ཀྱི་གླང་པོ་དམ་བཏགས་ན། ། འཇིགས་པ་ཐམས་ཅད་མེད་འགྱུར་ཞིང་། ། དགེ་བ་ཐམས་ཅད་ལག་ཏུ་འོང་། །",
+  "academic_translation": "If, with the rope of mindfulness on all sides,\nThe elephant of the mind is firmly bound,\nAll fears will cease to be,\nAnd all virtues will come into one's hands.",
+  "locked_terms": [
+   {
+    "tibetan": "དྲན་པ",
+    "use": "keeping in mind"
+   },
+   {
+    "tibetan": "སེམས་ཀྱི་གླང་པོ",
+    "use": "elephant of the mind"
+   },
+   {
+    "tibetan": "དགེ་བ",
+    "use": "good deed"
+   }
+  ],
+  "translation": "If I tightly tie up the elephant of the mind with the rope of keeping in mind, all fears will disappear. Every good deed will come right into my hands."
+ },
+ {
+  "id": "5-4",
+  "tibetan": "སྟག་དང་སེང་གེ་གླང་ཆེན་དྲེད། ། སྦྲུལ་དང་དགྲ་རྣམས་ཐམས་ཅད་དང་། ། སེམས་ཅན་དམྱལ་བའི་སྲུང་མ་དང་། ། བྱད་མ་དེ་བཞིན་སྲིན་པོ་རྣམས། །",
+  "academic_translation": "Tigers, lions, elephants, bears,\nSnakes, and all enemies,\nHell guardians, and\nWitches, and likewise rākṣasas—",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན་དམྱལ་བའི་སྲུང་མ",
+    "use": "hell guardian"
+   },
+   {
+    "tibetan": "སྲིན་པོ",
+    "use": "demon"
+   }
+  ],
+  "translation": "There are tigers, lions, elephants, bears, snakes, and all enemies. There are hell guardians, witches, and also demons."
+ },
+ {
+  "id": "5-5",
+  "tibetan": "སེམས་འདི་གཅིག་པུ་བཏགས་པ་ཡིས། ། དེ་དག་ཐམས་ཅད་བཏགས་པར་འགྱུར། ། སེམས་འདི་གཅིག་པུ་བཏུལ་བས་ན། ། དེ་དག་ཐམས་ཅད་ཐུལ་བར་འགྱུར། །",
+  "academic_translation": "By binding this mind alone,\nAll of them will be bound;\nBy subduing this mind alone,\nAll of them will be subdued.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "If I tie up this mind alone, all of those things are tied up. If I tame this mind alone, all of them are tamed."
+ },
+ {
+  "id": "5-6",
+  "tibetan": "འདི་ལྟར་འཇིགས་པ་ཐམས་ཅད་དང་། ། སྡུག་བསྔལ་དཔག་ཏུ་མེད་པ་ཡང་། ། སེམས་ལས་བྱུང་བ་ཡིན་ནོ་ཞེས། ། ཡང་དག་གསུང་བ་ཉིད་ཀྱིས་བསྟན། །",
+  "academic_translation": "Thus, all fears and\nImmeasurable sufferings too\nArise from the mind,\nAs the Speaker of Truth Himself has taught.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   },
+   {
+    "tibetan": "ཡང་དག་གསུང་བ",
+    "use": "Speaker of Truth"
+   }
+  ],
+  "translation": "All fears and endless suffering come from the mind. This is what the Speaker of Truth himself has taught."
+ },
+ {
+  "id": "5-7",
+  "tibetan": "སེམས་ཅན་དམྱལ་བའི་མཚོན་ཆ་རྣམས། ། སུ་ཞིག་གིས་ནི་ཆེད་དུ་བྱས། ། ལྕགས་སྲེག་ས་གཞི་སུ་ཡིས་བྱས། ། མེ་ཚོགས་དེ་དག་ཅི་ལས་བྱུང་། །",
+  "academic_translation": "The weapons of the hell of sentient beings,\nWho intentionally created them?\nWho created the burning iron ground?\nFrom what did those groups of women arise?",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན་དམྱལ་བ",
+    "use": "hell of living beings"
+   }
+  ],
+  "translation": "Who purposely made the weapons in the hell of living beings? Who created the burning iron ground? Where did those groups of women come from?"
+ },
+ {
+  "id": "5-8",
+  "tibetan": "དེ་འདྲ་དེ་དག་ཐམས་ཅད་ཀྱང་། ། སྡིག་སེམས་ཡིན་པར་ཐུབ་པས་གསུངས། ། དེ་ལྟར་འཇིག་རྟེན་གསུམ་པོ་ན། ། སེམས་ལས་འཇིགས་པ་གཞན་འགའ་མེད། །",
+  "academic_translation": "All such things as these\nWere taught by the Sage to arise from the mind of misdeed.\nThus, in the three worlds,\nThere is no fear other than the mind.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡིག་སེམས",
+    "use": "harmful mind"
+   },
+   {
+    "tibetan": "ཐུབ་པ",
+    "use": "Sage"
+   },
+   {
+    "tibetan": "འཇིག་རྟེན་གསུམ",
+    "use": "three worlds"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "The Sage taught that all these things come from a harmful mind. So, in the three worlds, there is no other fear besides the mind."
+ },
+ {
+  "id": "5-9",
+  "tibetan": "གལ་ཏེ་འགྲོ་བ་དབུལ་བོར་ནས། ། སྦྱིན་པའི་ཕ་རོལ་ཕྱིན་ཡིན་ན། ། ད་རུང་འགྲོ་བཀྲེན་ཡོད་ན་སྔོན། ། སྐྱོབ་པ་ཇི་ལྟར་ཕ་རོལ་ཕྱིན། །",
+  "academic_translation": "If removing the poverty of wandering beings\nIs the perfection of generosity,\nSince destitute wandering beings still exist,\nHow did the past Saviours reach perfection?",
+  "locked_terms": [
+   {
+    "tibetan": "སྦྱིན་པའི་ཕ་རོལ་ཕྱིན",
+    "use": "perfection of giving"
+   },
+   {
+    "tibetan": "ཕ་རོལ་ཕྱིན",
+    "use": "perfection"
+   },
+   {
+    "tibetan": "སྐྱོབ་པ",
+    "use": "Protector"
+   },
+   {
+    "tibetan": "འགྲོ་བ",
+    "use": "being"
+   }
+  ],
+  "translation": "If the perfection of giving means taking away the poverty of all beings, how did the past Protectors reach perfection? There are still poor beings today."
+ },
+ {
+  "id": "5-10",
+  "tibetan": "བདོག་པ་ཐམས་ཅད་འབྲས་བཅས་ཏེ། ། སྐྱེ་བོ་ཀུན་ལ་བཏང་སེམས་ཀྱིས། ། སྦྱིན་པའི་ཕ་རོལ་ཕྱིན་གསུངས་ཏེ། ། དེ་ལྟས་དེ་ནི་སེམས་ཉིད་དོ། །",
+  "academic_translation": "All possessions together with their results,\nThrough the mind of relinquishing them to all people,\nThe perfection of generosity is taught;\nTherefore, it is the mind itself.",
+  "locked_terms": [
+   {
+    "tibetan": "སྦྱིན་པའི་ཕ་རོལ་ཕྱིན",
+    "use": "perfection of giving"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   },
+   {
+    "tibetan": "བཏང་སེམས",
+    "use": "mind of giving everything away"
+   }
+  ],
+  "translation": "The perfection of giving is taught as having the mind of giving everything away. It means wanting to give all your things and their good results to everyone. Therefore, it is just the mind itself."
+ },
+ {
+  "id": "5-11",
+  "tibetan": "ཉ་ལ་སོགས་པ་གང་ཞིག་ཏུ། ། དེ་དག་གསོད་མི་འགྱུར་བར་བསྐྲད། ། སྤོང་བའི་སེམས་ནི་ཐོབ་པ་ལས། ། ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན་པར་བཤད། །",
+  "academic_translation": "Where could fish and so forth\nBe banished so that they are not killed?\nFrom attaining the mind of renunciation,\nThe perfection of ethical discipline is explained.",
+  "locked_terms": [
+   {
+    "tibetan": "ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན་པ",
+    "use": "perfection of good conduct"
+   },
+   {
+    "tibetan": "སྤོང་བའི་སེམས",
+    "use": "mind of giving up"
+   }
+  ],
+  "translation": "Where could fish and other animals be put so they are never killed? The perfection of good conduct comes from getting the mind of giving up harmful actions."
+ }
+]

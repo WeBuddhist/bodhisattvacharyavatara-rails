@@ -1,0 +1,14 @@
+{
+ "6-109": {
+  "translation": "यदि कहें कि क्षान्ति सिद्ध करने की मंशा न होने से,\nयह शत्रु पूजनीय नहीं है, तो\nसिद्धि का योग्य कारण होने से,\nसद्धर्म की भी पूजा क्यों करते हो?",
+  "issues": [
+   {
+    "type": "mistranslation",
+    "severity": "major",
+    "span": "सिद्धि का योग्य कारण होने से,\nसद्धर्म की भी पूजा क्यों करते हो?",
+    "evidence": "Tibetan \"གྲུབ་པ་ཡི་ནི་རྒྱུར་རུང་བ། དམ་པའི་ཆོས་ཀྱང་ཅི་སྟེ་མཆོད\" has \"fit to be a cause of accomplishment\" as an attributive modifier of the sublime Dharma, with ཀྱང \"even\" (Sanskrit \"सिद्धिहेतुरचित्तोऽपि सद्धर्मः\"). The argument (bo-shenga 6-109, bo-gyaltsab 6-109) is: the Dharma too lacks the intention, so why is it venerated? The Hindi \"होने से\" turns it into a causal clause (because it is a cause, why venerate?), which inverts the logic and loses that the Dharma is likewise without intention.",
+    "fix": "तो सिद्धि का कारण बनने योग्य सद्धर्म की भी (उसमें वैसा आशय न होने पर भी) पूजा क्यों की जाती है?"
+   }
+  ]
+ }
+}

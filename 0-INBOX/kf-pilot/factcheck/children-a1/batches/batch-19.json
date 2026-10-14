@@ -1,0 +1,842 @@
+[
+ {
+  "id": "9-25",
+  "tibetan": "ཇི་ལྟར་མཐོང་ཐོས་ཤེས་པ་དག ། འདིར་ནི་དགག་པར་བྱ་མིན་ཏེ། ། འདིར་ནི་སྡུག་བསྔལ་རྒྱུར་གྱུར་པ། ། བདེན་པར་རྟོག་པ་བཟློག་བྱ་ཡིན། །",
+  "academic_translation": "Whatever is seen, heard, and known\nIs not what is to be negated here;\nHere, the conceptualization of true existence,\nWhich is the cause of suffering, is to be overturned.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ་རྒྱུ",
+    "use": "cause of suffering"
+   },
+   {
+    "tibetan": "བདེན་པར་རྟོག་པ",
+    "use": "thinking things are truly real"
+   }
+  ],
+  "translation": "I am not denying the things you see, hear, and know. I only want to stop you from thinking things are truly real. That is the cause of suffering."
+ },
+ {
+  "id": "9-26",
+  "tibetan": "སེམས་ལས་སྒྱུ་མ་གཞན་མིན་ཞིང་། ། གཞན་མིན་པར་ཡང་མི་རྟག་ན། ། དངོས་ན་ཇི་ལྟར་དེ་གཞན་མིན། ། གཞན་མིན་ཞེ་ན་དངོས་པོར་མེད། །",
+  "academic_translation": "If an illusion is not other than the mind,\nAnd it is not conceived as non-other either,\nIf it is an entity, how is it not other?\nIf it is not other, it does not exist as an entity.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   },
+   {
+    "tibetan": "སྒྱུ་མ",
+    "use": "illusion"
+   },
+   {
+    "tibetan": "དངོས་པོ",
+    "use": "thing"
+   }
+  ],
+  "translation": "Someone might say an illusion is not different from the mind. But they also say it is not exactly the same. If it is a real thing, how is it not different? If it is not different, it does not exist as a thing."
+ },
+ {
+  "id": "9-27",
+  "tibetan": "ཇི་ལྟར་སྒྱུ་མ་བདེན་མིན་ཡང་། ། བལྟ་བྱ་དེ་བཞིན་ལྟ་བྱེད་ཡིད། ། གལ་ཏེ་འཁོར་བ་དངོས་རྟེན་ཅན། ། དེ་ནི་གཞན་དུ་མཁའ་འདྲར་འགྱུར། །",
+  "academic_translation": "Just as an illusion, although not true,\nIs something to be seen, so too the mind is the one who sees.\n\"If saṃsāra is based on an entity,\nOtherwise it would be like space.\"",
+  "locked_terms": [
+   {
+    "tibetan": "སྒྱུ་མ",
+    "use": "illusion"
+   },
+   {
+    "tibetan": "ཡིད",
+    "use": "mind"
+   },
+   {
+    "tibetan": "འཁོར་བ",
+    "use": "cycle of rebirth"
+   }
+  ],
+  "translation": "Someone might say an illusion is not true, but we still see it. They say the mind is the one who sees. They might argue the cycle of rebirth must be based on a real thing. Otherwise, it would just be like empty space."
+ },
+ {
+  "id": "9-28",
+  "tibetan": "དངོས་མེད་དངོས་ལ་བརྟེན་པས་ན། ། བྱེད་དང་ལྡན་པར་ཇི་ལྟར་འགྱུར། ། ཁྱོད་ཀྱི་སེམས་ནི་གྲོགས་མེད་པར། ། གཅིག་པུ་ཉིད་དུ་འགྱུར་བ་ཡིན། །",
+  "academic_translation": "Since a non-entity depends on an entity,\nHow could it be endowed with a function?\nYour mind, without a companion,\nWould become entirely solitary.",
+  "locked_terms": [
+   {
+    "tibetan": "དངོས་མེད",
+    "use": "non-existent thing"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   },
+   {
+    "tibetan": "དངོས",
+    "use": "thing"
+   }
+  ],
+  "translation": "But if a non-existent thing depends on a real thing, how could it do anything? Without anything outside it, your mind would have no companion. Your mind would become completely alone."
+ },
+ {
+  "id": "9-29",
+  "tibetan": "གང་ཚེ་སེམས་ནི་གཟུང་བྲལ་བ། ། དེ་ཚེ་ཐམས་ཅད་དེ་བཞིན་གཤེགས། ། དེ་ལྟ་ན་ཡང་སེམས་ཙམ་དུ། ། བརྟགས་ལ་ཡོན་ཏན་ཅི་ཞིག་ཡོད། །",
+  "academic_translation": "When the mind is free of an apprehended object,\nAt that time, all are Tathāgatas.\nEven if that is so, what benefit is there\nIn conceptually constructing Cittamātra?",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   },
+   {
+    "tibetan": "གཟུང",
+    "use": "thing the mind takes in"
+   },
+   {
+    "tibetan": "དེ་བཞིན་གཤེགས",
+    "use": "Thus-Gone One"
+   },
+   {
+    "tibetan": "སེམས་ཙམ",
+    "use": "Mind Only"
+   }
+  ],
+  "translation": "When the mind is free of any thing the mind takes in, everyone becomes a Thus-Gone One. Even if this were true, what is the good of it? What is the point of making up the idea of Mind Only?"
+ },
+ {
+  "id": "9-30",
+  "tibetan": "སྒྱུ་མ་ལྟ་བུར་ཤེས་ན་ཡང་། ། ཇི་ལྟར་ཉོན་མོངས་ལྡོག་འགྱུར་ཏེ། ། གང་ཚེ་སྒྱུ་མའི་བུད་མེད་ལ། ། དེ་བྱེད་ཉིད་ཀྱང་ཆགས་སྐྱེ་འགྱུར། །",
+  "academic_translation": "\"Even if one knows things to be like an illusion,\nHow will the afflictions be averted?\nSince, toward an illusory woman,\nEven her creator generates attachment.\"",
+  "locked_terms": [
+   {
+    "tibetan": "སྒྱུ་མ",
+    "use": "illusion"
+   },
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   },
+   {
+    "tibetan": "སྒྱུ་མའི་བུད་མེད",
+    "use": "woman made by illusion"
+   },
+   {
+    "tibetan": "ཆགས",
+    "use": "clinging"
+   }
+  ],
+  "translation": "Someone might ask: Even if you know things are like an illusion, how will that stop troubling emotions? Think of a magician who creates a woman made by illusion. Even the magician can still feel clinging toward her."
+ },
+ {
+  "id": "9-31",
+  "tibetan": "དེ་བྱེད་པ་ནི་ཤེས་བྱ་ལ། ། ཉོན་མོངས་བག་ཆགས་མ་སྤངས་པ། ། དེས་ན་དེ་མཐོང་བ་ན་དེ། ། སྟོང་ཉིད་བག་ཆགས་ཉམ་ཆུང་ཉིད། །",
+  "academic_translation": "Her creator, toward objects of knowledge,\nHas not abandoned the latent tendencies of the afflictions.\nTherefore, when he sees her,\nHis latent tendency of emptiness is weak.",
+  "locked_terms": [
+   {
+    "tibetan": "ཤེས་བྱ",
+    "use": "thing to know"
+   },
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   },
+   {
+    "tibetan": "བག་ཆགས",
+    "use": "deep habit"
+   },
+   {
+    "tibetan": "སྟོང་ཉིད",
+    "use": "emptiness"
+   }
+  ],
+  "translation": "That magician has not let go of his deep habits of troubling emotions toward things to know. Because of this, when he sees her, his deep habit of emptiness is very weak."
+ },
+ {
+  "id": "9-32",
+  "tibetan": "སྟོང་ཉིད་བག་ཆགས་གོམས་པས་ནི། ། དངོས་པོའི་བག་ཆགས་སྤོང་འགྱུར་ཞིང་། ། ཅི་ཡང་མེད་ཅེས་གོམས་པས་ནི། ། དེ་ཡང་ཕྱི་ནས་སྤོང་བར་འགྱུར། །",
+  "academic_translation": "Through habituation to the latent tendency of emptiness,\nThe latent tendency of entities will be abandoned;\nAnd through habituation to \"there is nothing at all,\"\nThat too will later be abandoned.",
+  "locked_terms": [
+   {
+    "tibetan": "སྟོང་ཉིད་བག་ཆགས",
+    "use": "habit of emptiness"
+   },
+   {
+    "tibetan": "བག་ཆགས",
+    "use": "deep habit"
+   },
+   {
+    "tibetan": "དངོས་པོའི་བག་ཆགས",
+    "use": "habit left in the mind by things"
+   },
+   {
+    "tibetan": "གོམས་པ",
+    "use": "getting used to"
+   }
+  ],
+  "translation": "If you keep getting used to the habit of emptiness, you will let go of the habit left in the mind by things. By getting used to thinking \"there is nothing,\" you will later let go of that deep habit too."
+ },
+ {
+  "id": "9-33",
+  "tibetan": "གང་ཚེ་གང་ཞིག་མེད་དོ་ཞེས། ། བརྟག་བྱའི་དངོས་པོ་མི་དམིགས་པ། ། དེ་ཚེ་དངོས་མེད་རྟེན་བྲལ་བ། ། བློ་ཡི་མདུན་ན་ཇི་ལྟར་གནས། །",
+  "academic_translation": "When one asserts, \"Such and such does not exist,\"\nAnd the entity to be analyzed is not apprehended,\nAt that time, how can a non-entity lacking a basis\nRemain before the intellect?",
+  "locked_terms": [
+   {
+    "tibetan": "དངོས་མེད",
+    "use": "non-existent thing"
+   },
+   {
+    "tibetan": "བློ",
+    "use": "thinking mind"
+   },
+   {
+    "tibetan": "དངོས་པོ",
+    "use": "thing"
+   }
+  ],
+  "translation": "When you say, \"This thing does not exist,\" and you cannot find the thing you are looking for, what happens? How can a non-existent thing without a base stay in front of the thinking mind?"
+ },
+ {
+  "id": "9-34",
+  "tibetan": "གང་ཚེ་དངོས་དང་དངོས་མེད་དག ། བློ་ཡི་མདུན་ན་མི་གནས་པ། ། དེ་ཚེ་རྣམ་པ་གཞན་མེད་པས། ། དམིགས་པ་མེད་པར་རབ་ཏུ་ཞི། །",
+  "academic_translation": "When entities and non-entities\nDo not remain before the intellect,\nAt that time, since there is no other aspect,\nThere is thorough pacification in non-apprehension.",
+  "locked_terms": [
+   {
+    "tibetan": "དངོས་མེད",
+    "use": "non-existent thing"
+   },
+   {
+    "tibetan": "བློ",
+    "use": "thinking mind"
+   },
+   {
+    "tibetan": "རྣམ་པ",
+    "use": "way it appears"
+   },
+   {
+    "tibetan": "དམིགས་པ་མེད་པ",
+    "use": "having no object of focus"
+   },
+   {
+    "tibetan": "རབ་ཏུ་ཞི",
+    "use": "complete calm"
+   },
+   {
+    "tibetan": "དངོས",
+    "use": "thing"
+   }
+  ],
+  "translation": "When a thing and a non-existent thing do not stay in front of the thinking mind, there is no other way it appears. At that time, by having no object of focus, there is complete calm."
+ },
+ {
+  "id": "9-35",
+  "tibetan": "ཡིད་བཞིན་ནོར་བུ་དཔག་བསམ་ཤིང་། ། ཇི་ལྟར་རེ་བ་ཡོངས་སྐོང་བ། ། དེ་བཞིན་གདུལ་བྱ་སྨོན་ལམ་གྱི། ། དབང་གིས་རྒྱལ་བའི་སྐུར་སྣང་ངོ་། །",
+  "academic_translation": "Just as a wish-fulfilling jewel and a wish-fulfilling tree\nCompletely fulfill hopes,\nLikewise, to the ones to be tamed, through the power of aspiration prayers,\nThe form of the Victor appears.",
+  "locked_terms": [
+   {
+    "tibetan": "ཡིད་བཞིན་ནོར་བུ",
+    "use": "wish-fulfilling jewel"
+   },
+   {
+    "tibetan": "དཔག་བསམ་ཤིང",
+    "use": "wish-granting tree"
+   },
+   {
+    "tibetan": "གདུལ་བྱ",
+    "use": "one to be guided"
+   },
+   {
+    "tibetan": "སྨོན་ལམ",
+    "use": "wishing prayer"
+   },
+   {
+    "tibetan": "རྒྱལ་བ",
+    "use": "Victorious One"
+   }
+  ],
+  "translation": "A wish-fulfilling jewel and a wish-granting tree completely grant our hopes. In the same way, the form of the Victorious One appears to the one to be guided through the power of a wishing prayer."
+ },
+ {
+  "id": "9-36",
+  "tibetan": "དཔེར་ན་ནམ་མཁའ་ལྡིང་གི་ནི། ། མཆོད་སྡོང་བསྒྲུབས་ནས་འདས་གྱུར་པ། ། དེ་འདས་ཡུན་རིང་ལོན་ཡང་དེ། ། དུག་ལ་སོགས་པ་ཞི་བྱེད་བཞིན། །",
+  "academic_translation": "For example, just as when a garuḍa shrine\nHas been accomplished and its creator has passed away,\nEven though a long time has elapsed since he passed,\nIt pacifies poison and so forth.",
+  "locked_terms": [
+   {
+    "tibetan": "ནམ་མཁའ་ལྡིང",
+    "use": "great sky bird"
+   },
+   {
+    "tibetan": "མཆོད་སྡོང",
+    "use": "shrine"
+   }
+  ],
+  "translation": "For example, a shrine for the great sky bird might be built. Even a long time after the builder passes away, it still clears away poison and other harms."
+ },
+ {
+  "id": "9-37",
+  "tibetan": "བྱང་ཆུབ་སྤྱོད་པའི་རྗེས་མཐུན་པར། ། རྒྱལ་བའི་མཆོད་སྡོང་བསྒྲུབས་པ་ཡང་། ། བྱང་ཆུབ་སེམས་དཔའ་མྱ་ངན་ལས། ། འདས་ཀྱང་དོན་རྣམས་ཐམས་ཅད་མཛད། །",
+  "academic_translation": "Likewise, in accordance with the conduct of awakening,\nThe shrine of the Victor, too, has been accomplished;\nEven when the bodhisattva has passed\nInto nirvāṇa, it accomplishes all aims.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱང་ཆུབ་སྤྱོད་པ",
+    "use": "way of acting for awakening"
+   },
+   {
+    "tibetan": "རྒྱལ་བ",
+    "use": "Victorious One"
+   },
+   {
+    "tibetan": "མཆོད་སྡོང",
+    "use": "shrine"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ་སེམས་དཔའ",
+    "use": "awakening hero"
+   }
+  ],
+  "translation": "In the same way, following the way of acting for awakening, the shrine of the Victorious One has been built. Even after the awakening hero passes away, it still achieves every goal."
+ },
+ {
+  "id": "9-38",
+  "tibetan": "སེམས་མེད་པ་ལ་མཆོད་བྱས་པས། ། ཇི་ལྟར་འབྲས་བུ་ལྡན་པར་འགྱུར། ། གང་ཕྱིར་བཞུགས་པའམ་མྱ་ངན་འདས། ། མཚུངས་པ་ཉིད་དུ་བཤད་ཕྱིར་རོ། །",
+  "academic_translation": "\"If offerings are made to one without a mind,\nHow will they be endowed with a result?\"\nBecause whether he remains or has passed into nirvāṇa,\nIt is taught that it is exactly the same.",
+  "locked_terms": [
+   {
+    "tibetan": "འབྲས་བུ",
+    "use": "result"
+   },
+   {
+    "tibetan": "མྱ་ངན་འདས",
+    "use": "freedom from sorrow"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "Someone might ask, \"If we make offerings to someone without a mind, how will we get a result?\" It is because the teachings say it is exactly the same whether the Buddha stays here or has passed into freedom from sorrow."
+ },
+ {
+  "id": "9-39",
+  "tibetan": "ཀུན་རྫོབ་བམ་ནི་དེ་ཉིད་དུའང་། ། རུང་སྟེ་དེར་འབྲས་ལུང་ལས་ཡིན། ། དཔེར་ན་བདེན་པའི་སངས་རྒྱས་ལ། ། ཇི་ལྟར་འབྲས་བུར་བཅས་པ་བཞིན། །",
+  "academic_translation": "Whether in conventional truth or in reality,\nIt is acceptable, for that result is from scripture,\nJust as, for example, toward a true Buddha,\nIt is endowed with a result.",
+  "locked_terms": [
+   {
+    "tibetan": "ཀུན་རྫོབ",
+    "use": "everyday truth"
+   },
+   {
+    "tibetan": "དེ་ཉིད",
+    "use": "the way things really are"
+   },
+   {
+    "tibetan": "ལུང",
+    "use": "sacred text"
+   },
+   {
+    "tibetan": "འབྲས་བུ",
+    "use": "result"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   }
+  ],
+  "translation": "Whether in everyday truth or in the way things really are, this makes sense. The sacred text says a result comes from it. It brings a result just like giving to a real Buddha."
+ },
+ {
+  "id": "9-40",
+  "tibetan": "བདེན་པ་མཐོང་བས་གྲོལ་འགྱུར་གྱི། ། སྟོང་ཉིད་མཐོང་བས་ཅི་ཞིག་བྱ། ། གང་ཕྱིར་ལུང་ལས་ལམ་འདི་ནི། ། མེད་པར་བྱང་ཆུབ་མེད་པར་གསུངས། །",
+  "academic_translation": "\"Liberation comes from seeing the truths;\nWhat is the use of seeing emptiness?\"\nBecause scripture states that without this path,\nThere is no awakening.",
+  "locked_terms": [
+   {
+    "tibetan": "བདེན་པ",
+    "use": "truth"
+   },
+   {
+    "tibetan": "གྲོལ",
+    "use": "freedom"
+   },
+   {
+    "tibetan": "སྟོང་ཉིད",
+    "use": "emptiness"
+   },
+   {
+    "tibetan": "ལུང",
+    "use": "sacred text"
+   },
+   {
+    "tibetan": "ལམ",
+    "use": "path"
+   },
+   {
+    "tibetan": "བྱང་ཆུབ",
+    "use": "awakening"
+   }
+  ],
+  "translation": "Someone might say, \"Freedom comes from seeing the truths. Why do we need to see emptiness?\" The sacred text says that without this path, there is no awakening."
+ },
+ {
+  "id": "9-41",
+  "tibetan": "གལ་ཏེ་ཐེག་ཆེན་མ་གྲུབ་ན། ། ཁྱོད་ཀྱི་ལུང་ནི་ཇི་ལྟར་གྲུབ། ། གང་ཕྱིར་གཉིས་ཀ་ལ་འདི་གྲུབ། ། དང་པོ་ཁྱོད་ལ་འདི་མ་གྲུབ། །",
+  "academic_translation": "\"If the Mahāyāna is not established,\nHow is your scripture established?\"\n\"Because this is established for both of us.\"\nInitially, this was not established for you.",
+  "locked_terms": [
+   {
+    "tibetan": "ཐེག་ཆེན",
+    "use": "Great Vehicle"
+   },
+   {
+    "tibetan": "ལུང",
+    "use": "sacred text"
+   }
+  ],
+  "translation": "Someone might ask, \"If the Great Vehicle is not proven, how is your sacred text proven?\" You might answer, \"Because we both agree on it.\" But at first, it was not proven for you either."
+ },
+ {
+  "id": "9-42",
+  "tibetan": "རྐྱེན་གང་གིས་ནི་དེར་ཡིད་ཆེས། ། དེ་ནི་ཐེག་ཆེན་ལ་ཡང་མཚུངས། ། གཞན་གཉིས་འདོད་པས་བདེན་ན་ནི། ། རིག་བྱེད་སོགས་ཀྱང་བདེན་པར་འགྱུར། །",
+  "academic_translation": "By whatever conditions you believe in that,\nThat is the same for the Mahāyāna as well.\nIf it is true because any two other parties accept it,\nThe Vedas and so forth would also be true.",
+  "locked_terms": [
+   {
+    "tibetan": "རྐྱེན",
+    "use": "circumstance"
+   },
+   {
+    "tibetan": "ཐེག་ཆེན",
+    "use": "Great Vehicle"
+   },
+   {
+    "tibetan": "རིག་བྱེད",
+    "use": "Vedas"
+   }
+  ],
+  "translation": "Whatever circumstance makes you believe in your text is the same for the Great Vehicle. If a text is true just because two groups accept it, then the Vedas and other books would also be true."
+ },
+ {
+  "id": "9-43",
+  "tibetan": "ཐེག་ཆེན་རྩོད་བཅས་ཕྱིར་ཞེ་ན། ། ལུང་ལ་མུ་སྟེགས་པ་རྣམས་དང་། ། ལུང་གཞན་ལ་ཡང་རང་གཞན་དག ། རྩོད་བཅས་ཡིན་ཕྱིར་དོར་བྱར་འགྱུར། །",
+  "academic_translation": "\"If you say it is because the Mahāyāna is subject to dispute,\"\nRegarding scripture, there is dispute with non-Buddhists,\nAnd regarding other scriptures, with your own and other schools;\nSince they are subject to dispute, they would be discarded.",
+  "locked_terms": [
+   {
+    "tibetan": "ཐེག་ཆེན",
+    "use": "Great Vehicle"
+   },
+   {
+    "tibetan": "ལུང",
+    "use": "sacred text"
+   },
+   {
+    "tibetan": "མུ་སྟེགས་པ",
+    "use": "non-Buddhist"
+   }
+  ],
+  "translation": "Someone might say, \"We reject the Great Vehicle because people argue about it.\" But you argue with a non-Buddhist about your sacred text. You also argue with other groups about other sacred texts. Since people argue about them, you would have to throw them all away."
+ },
+ {
+  "id": "9-44",
+  "tibetan": "བསྟན་རྩ་དགེ་སློང་ཉིད་ཡིན་ན། ། དགེ་སློང་ཉིད་ཀྱང་དཀའ་བར་གནས། ། སེམས་ནི་དམིགས་དང་བཅས་རྣམས་ཀྱི། ། མྱ་ངན་འདས་པའང་དཀའ་བར་གནས། །",
+  "academic_translation": "If being a monk is the root of the teaching,\nEven being a monk is difficult to establish.\nFor those whose minds have apprehension,\nEven nirvāṇa is difficult to establish.",
+  "locked_terms": [
+   {
+    "tibetan": "དགེ་སློང",
+    "use": "monk"
+   },
+   {
+    "tibetan": "དམིགས་དང་བཅས",
+    "use": "holding on to things"
+   },
+   {
+    "tibetan": "མྱ་ངན་འདས་པ",
+    "use": "freedom from sorrow"
+   }
+  ],
+  "translation": "If being a monk is the root of the teaching, even being a monk is hard to prove. For people whose minds are holding on to things, even freedom from sorrow is hard to reach."
+ },
+ {
+  "id": "9-45",
+  "tibetan": "ཉོན་མོངས་སྤངས་པས་གྲོལ་ན་དེའི། ། དེ་མ་ཐག་ཏུ་དེར་འགྱུར་རོ། ། ཉོན་མོངས་མེད་ཀྱང་དེ་དག་ལ། ། ལས་ཀྱི་ནུས་པ་མཐོང་བ་ཡིན། །",
+  "academic_translation": "If one is liberated by abandoning afflictions,\nIt would occur immediately after that.\nEven without afflictions, in them\nThe power of karma is seen.",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   },
+   {
+    "tibetan": "ལས",
+    "use": "action"
+   }
+  ],
+  "translation": "If someone is set free just by giving up troubling emotion, they would be free right away. But even without troubling emotion, we still see the power of action in them."
+ },
+ {
+  "id": "9-46",
+  "tibetan": "རེ་ཞིག་ཉེར་ལེན་སྲེད་པ་ནི། ། མེད་ཅེས་ངེས་པ་ཉིད་ཅེ་ན། ། སྲེད་དེ་ཉོན་མོངས་ཅན་མིན་ཡང་། ། ཀུན་རྨོངས་བཞིན་དུ་ཅི་སྟེ་མེད། །",
+  "academic_translation": "If you say it is certain that, for the time being,\nThe craving that is the cause of grasping does not exist,\nEven if that craving is not afflicted,\nWhy would it not exist, just like delusion?",
+  "locked_terms": [
+   {
+    "tibetan": "ཉེར་ལེན",
+    "use": "holding on"
+   },
+   {
+    "tibetan": "སྲེད་པ",
+    "use": "wanting"
+   },
+   {
+    "tibetan": "ཉོན་མོངས་ཅན",
+    "use": "troubled by troubling emotion"
+   },
+   {
+    "tibetan": "ཀུན་རྨོངས",
+    "use": "confusion"
+   }
+  ],
+  "translation": "Someone might say it is certain that, for now, the wanting that causes holding on does not exist. Even if that wanting is not troubled by troubling emotion, why would it not exist? It would be just like confusion."
+ },
+ {
+  "id": "9-47",
+  "tibetan": "ཚོར་བའི་རྐྱེན་གྱིས་སྲེད་པ་ཡིན། ། ཚོར་བ་དེ་དག་ལ་ཡང་ཡོད། ། དམིགས་པ་དང་ནི་བཅས་པའི་སེམས། ། འགའ་ཞིག་ལ་ནི་གནས་པར་འགྱུར། །",
+  "academic_translation": "Craving occurs due to the condition of feeling,\nAnd feeling also exists in them.\nA mind that has apprehension\nWill remain fixed upon something.",
+  "locked_terms": [
+   {
+    "tibetan": "ཚོར་བ",
+    "use": "feeling"
+   },
+   {
+    "tibetan": "སྲེད་པ",
+    "use": "wanting"
+   },
+   {
+    "tibetan": "རྐྱེན",
+    "use": "circumstance"
+   },
+   {
+    "tibetan": "དམིགས་པ",
+    "use": "fixing on something"
+   }
+  ],
+  "translation": "Wanting happens due to the circumstance of feeling. And those people still have feeling. A mind that is fixing on something will remain stuck on something."
+ },
+ {
+  "id": "9-48",
+  "tibetan": "སྟོང་ཉིད་དང་ནི་བྲལ་བའི་སེམས། ། འགགས་པ་སླར་ཡང་སྐྱེ་འགྱུར་ཏེ། ། འདུ་ཤེས་མེད་པའི་སྙོམས་འཇུག་བཞིན། ། དེས་ན་སྟོང་ཉིད་བསྒོམ་པར་བྱ། །",
+  "academic_translation": "A mind that is devoid of emptiness,\nThough ceased, will arise again,\nLike the meditative absorption of non-perception;\nTherefore, one should meditate on emptiness.",
+  "locked_terms": [
+   {
+    "tibetan": "སྟོང་ཉིད",
+    "use": "emptiness"
+   },
+   {
+    "tibetan": "འདུ་ཤེས་མེད་པའི་སྙོམས་འཇུག",
+    "use": "deep meditation with no perceiving"
+   }
+  ],
+  "translation": "A mind that does not have emptiness will start up again even after it stops. It is like a deep meditation with no perceiving. Because of this, you should meditate on emptiness."
+ },
+ {
+  "id": "9-49",
+  "tibetan": "ངག་གང་མདོ་སྡེ་ལ་འཇུག་དེ། ། གལ་ཏེ་སངས་རྒྱས་གསུངས་འདོད་ན། ། ཐེག་ཆེན་ཕལ་ཆེར་ཁྱེད་ཅག་གི ། མདོ་དང་མཚུངས་འདོད་མིན་ནམ་ཅི། །",
+  "academic_translation": "If any speech that enters the sūtras\nIs asserted to be spoken by the Buddha,\nIs it not asserted that most of the Mahāyāna\nIs equal to your sūtras?",
+  "locked_terms": [
+   {
+    "tibetan": "མདོ་སྡེ",
+    "use": "scripture"
+   },
+   {
+    "tibetan": "སངས་རྒྱས",
+    "use": "Buddha"
+   },
+   {
+    "tibetan": "ཐེག་ཆེན",
+    "use": "Great Vehicle"
+   },
+   {
+    "tibetan": "མདོ",
+    "use": "teaching text"
+   }
+  ],
+  "translation": "If you say that any speech found in a scripture was spoken by the Buddha, do you not agree that most of the Great Vehicle is equal to your teaching texts?"
+ },
+ {
+  "id": "9-50",
+  "tibetan": "གལ་ཏེ་མ་གཏོགས་གཅིག་གིས་ནི། ། ཐམས་ཅད་སྐྱོན་དང་བཅས་འགྱུར་ན། ། མདོ་མཚུངས་གཅིག་གིས་ཐམས་ཅད་ནི། ། རྒྱལ་བས་གསུངས་པ་ཅིས་མ་ཡིན། །",
+  "academic_translation": "If, due to a single unincluded one,\nAll become faulty,\nThen due to a single one similar to a sūtra,\nWhy are they not all spoken by the Victor?",
+  "locked_terms": [
+   {
+    "tibetan": "རྒྱལ་བ",
+    "use": "Victorious One"
+   },
+   {
+    "tibetan": "མདོ",
+    "use": "teaching text"
+   }
+  ],
+  "translation": "You say that leaving out one text makes them all faulty. But what if one is like a true teaching text? Why are they not all spoken by the Victorious One?"
+ },
+ {
+  "id": "9-51",
+  "tibetan": "ངག་གང་འོད་སྲུངས་ཆེན་པོ་ལ། ། སོགས་པས་གཏིང་དཔོགས་མ་གྱུར་པ། ། དེ་ནི་ཁྱོད་ཀྱིས་མ་རྟོགས་པས། ། གཟུང་བྱ་མིན་པར་སུ་ཞིག་བྱེད། །",
+  "academic_translation": "Any speech whose depth was unfathomed\nBy Mahākāśyapa and the rest,\nBecause you do not understand it,\nWho would make it unacceptable?",
+  "locked_terms": [
+   {
+    "tibetan": "འོད་སྲུངས་ཆེན་པོ",
+    "use": "Mahakashyapa"
+   }
+  ],
+  "translation": "Even Mahakashyapa and others could not measure the depth of these words. Just because you do not understand them, who would make them unacceptable?"
+ },
+ {
+  "id": "9-52",
+  "tibetan": "རྨོངས་པས་སྡུག་བསྔལ་ཅན་དོན་དུ། ། ཆགས་དང་འཇིགས་མཐའ་ལས་གྲོལ་བ། ། འཁོར་བར་གནས་པ་གྲུབ་འགྱུར་བ། ། འདི་ནི་སྟོང་ཉིད་འབྲས་བུ་ཡིན། །",
+  "academic_translation": "For the sake of those suffering through delusion,\nBeing freed from the extremes of attachment and fear,\nRemaining in saṃsāra is accomplished—\nThis is the result of emptiness.",
+  "locked_terms": [
+   {
+    "tibetan": "འཁོར་བ",
+    "use": "cycle of rebirth"
+   },
+   {
+    "tibetan": "རྨོངས་པ",
+    "use": "confusion"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "ཆགས",
+    "use": "clinging"
+   },
+   {
+    "tibetan": "སྟོང་ཉིད",
+    "use": "emptiness"
+   },
+   {
+    "tibetan": "འབྲས་བུ",
+    "use": "result"
+   }
+  ],
+  "translation": "We want to help those who have suffering from confusion. So, we are freed from extreme clinging and fear. We can now stay in the cycle of rebirth. This is the result of emptiness."
+ },
+ {
+  "id": "9-53",
+  "tibetan": "དེ་ལྟར་སྟོང་པ་ཉིད་ཕྱོགས་ལ། ། སུན་འབྱིན་པ་ནི་འཐད་མ་ཡིན། ། དེས་ན་ཐེ་ཚོམ་མི་ཟ་བར། ། སྟོང་པ་ཉིད་ནི་བསྒོམ་པར་བྱ། །",
+  "academic_translation": "Thus, toward the position of emptiness,\nRefutation is not tenable.\nTherefore, without any doubt,\nOne should meditate on emptiness.",
+  "locked_terms": [
+   {
+    "tibetan": "སྟོང་པ་ཉིད",
+    "use": "emptiness"
+   },
+   {
+    "tibetan": "སུན་འབྱིན་པ",
+    "use": "proving wrong"
+   },
+   {
+    "tibetan": "ཕྱོགས",
+    "use": "position"
+   },
+   {
+    "tibetan": "ཐེ་ཚོམ",
+    "use": "doubt"
+   }
+  ],
+  "translation": "You cannot succeed in proving wrong the position of emptiness. Therefore, without any doubt, you should meditate on emptiness."
+ },
+ {
+  "id": "9-54",
+  "tibetan": "ཉོན་མོངས་ཤེས་བྱའི་སྒྲིབ་པ་ཡི། ། མུན་པའི་གཉེན་པོ་སྟོང་པ་ཉིད། ། མྱུར་དུ་ཐམས་ཅད་མཁྱེན་འདོད་པས། ། དེ་ནི་ཇི་ལྟར་སྒོམ་མི་བྱེད། །",
+  "academic_translation": "Of the obscuration of afflictions and of objects of knowledge,\nEmptiness is the antidote to the darkness.\nBy one who wishes to quickly become omniscient,\nHow could it not be meditated upon?",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས་ཤེས་བྱའི་སྒྲིབ་པ",
+    "use": "veil of troubling emotions and of things to know"
+   },
+   {
+    "tibetan": "སྟོང་པ་ཉིད",
+    "use": "emptiness"
+   },
+   {
+    "tibetan": "གཉེན་པོ",
+    "use": "remedy"
+   },
+   {
+    "tibetan": "ཐམས་ཅད་མཁྱེན",
+    "use": "all-knowing"
+   }
+  ],
+  "translation": "There is a dark veil of troubling emotions and of things to know. Emptiness is the remedy for this darkness. If you wish to quickly become all-knowing, how could you not meditate on it?"
+ },
+ {
+  "id": "9-55",
+  "tibetan": "དངོས་གང་སྡུག་བསྔལ་སྐྱེད་བྱེད་པ། ། དེ་ལས་སྐྲག་པ་སྐྱེ་འགྱུར་ན། ། སྟོང་ཉིད་སྡུག་བསྔལ་ཞི་བྱེད་པ། ། དེ་ལ་འཇིགས་པ་ཇི་ལྟར་སྐྱེ། །",
+  "academic_translation": "Whatever thing produces suffering,\nIf fear arises from that,\nEmptiness pacifies suffering;\nHow could fear arise toward it?",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "སྟོང་ཉིད",
+    "use": "emptiness"
+   }
+  ],
+  "translation": "If a thing produces suffering, fear will arise from it. But emptiness calms suffering. How could fear arise toward it?"
+ },
+ {
+  "id": "9-56",
+  "tibetan": "གལ་ཏེ་བདག་འགའ་ཡོད་ན་ནི། ། ཅི་ཡང་རུང་ལས་འཇིགས་འགྱུར་ན། ། བདག་ཉིད་འགའ་ཡང་ཡོད་མིན་པས། ། འཇིགས་པར་འགྱུར་བ་སུ་ཞིག་ཡིན། །",
+  "academic_translation": "If any self existed,\none might become afraid of anything;\nbut since no self exists at all,\nwho is there to be afraid?",
+  "locked_terms": [
+   {
+    "tibetan": "བདག",
+    "use": "self"
+   }
+  ],
+  "translation": "If any self existed, a person might be afraid of anything. But since no self exists at all, who is there to be afraid?"
+ },
+ {
+  "id": "9-57",
+  "tibetan": "སོ་དང་སྐྲ་སེན་བདག་མ་ཡིན། ། བདག་ནི་རུས་པ་ཁྲག་མ་ཡིན། ། སྣབས་མིན་བད་ཀན་མ་ཡིན་ཏེ། ། ཆུ་སེར་དང་ནི་རྣག་ཀྱང་མིན། །",
+  "academic_translation": "Teeth, hair, and nails are not the self,\nand the self is not bones or blood;\nit is not mucus, nor is it phlegm,\nand it is neither lymph nor pus.",
+  "locked_terms": [
+   {
+    "tibetan": "བདག",
+    "use": "self"
+   }
+  ],
+  "translation": "Teeth, hair, and nails are not the self, and the self is not bones or blood. It is not mucus or phlegm, and it is not lymph or pus."
+ },
+ {
+  "id": "9-58",
+  "tibetan": "བདག་ནི་ཞག་དང་རྔུལ་མིན་ཏེ། ། གློ་མཆིན་དག་ཀྱང་བདག་མ་ཡིན། ། ནང་ཁྲོལ་གཞན་ཡང་བདག་མིན་ཏེ། ། བདག་ནི་ཕྱི་ས་གཅིན་མ་ཡིན། །",
+  "academic_translation": "The self is not fat or sweat,\nand the lungs and liver are not the self;\nother internal organs are also not the self,\nand the self is not feces or urine.",
+  "locked_terms": [
+   {
+    "tibetan": "བདག",
+    "use": "self"
+   }
+  ],
+  "translation": "The self is not fat or sweat, and the lungs and liver are not the self. Other inside organs are also not the self, and the self is not feces or urine."
+ },
+ {
+  "id": "9-59",
+  "tibetan": "ཤ་དང་པགས་པ་བདག་མིན་ཏེ། ། དྲོད་དང་རླུང་ཡང་བདག་མ་ཡིན། ། བུ་ག་བདག་མིན་རྣམ་ཀུན་དུ། ། རྣམ་ཤེས་དྲུག་ཀྱང་བདག་མ་ཡིན། །",
+  "academic_translation": "Flesh and skin are not the self,\nand warmth and wind are not the self;\nthe orifices are not the self, and in all ways,\nthe six consciousnesses are not the self either.",
+  "locked_terms": [
+   {
+    "tibetan": "བདག",
+    "use": "self"
+   },
+   {
+    "tibetan": "རྣམ་ཤེས་དྲུག",
+    "use": "six kinds of awareness"
+   }
+  ],
+  "translation": "Flesh and skin are not the self, and warmth and wind are not the self. The openings of the body are not the self. In all ways, the six kinds of awareness are not the self either."
+ },
+ {
+  "id": "9-60",
+  "tibetan": "གལ་ཏེ་སྒྲ་ཡི་ཤེས་རྟག་ན། ། ཐམས་ཅད་ཚེ་ན་སྒྲ་འཛིན་འགྱུར། ། ཤེས་བྱ་མེད་ན་ཅི་ཞིག་རིག ། གང་གིས་ཤེས་པ་ཞེས་རྗོད་བྱེད། །",
+  "academic_translation": "If the consciousness of sound were permanent,\nit would apprehend sound at all times;\nif there is no object of knowledge, what does it cognize,\nand for what reason is it called a consciousness?",
+  "locked_terms": [
+   {
+    "tibetan": "རྟག",
+    "use": "lasting forever"
+   },
+   {
+    "tibetan": "ཤེས་བྱ",
+    "use": "thing to know"
+   },
+   {
+    "tibetan": "ཤེས་པ",
+    "use": "awareness"
+   },
+   {
+    "tibetan": "སྒྲ",
+    "use": "sound"
+   }
+  ],
+  "translation": "If the awareness of sound were lasting forever, it would hear sound all the time. If there is no thing to know, what does it know? Why would it be called an awareness?"
+ },
+ {
+  "id": "9-61",
+  "tibetan": "གལ་ཏེ་ཤེས་མེད་ཤེས་ཡིན་ན། ། ཤིང་ཡང་ཤེས་པར་ཐལ་བར་འགྱུར། ། དེས་ན་ཤེས་བྱ་ཉེར་གནས་པ། ། མེད་པར་ཤེས་པ་མེད་ཅེས་ངེས། །",
+  "academic_translation": "If that which does not cognize were consciousness,\nit would follow that a piece of wood is consciousness too;\ntherefore, it is certain that without the presence\nof an object of knowledge, there is no consciousness.",
+  "locked_terms": [
+   {
+    "tibetan": "ཤེས་པ",
+    "use": "awareness"
+   },
+   {
+    "tibetan": "ཤེས་བྱ",
+    "use": "thing to know"
+   }
+  ],
+  "translation": "If something that does not know anything were an awareness, then a piece of wood would be an awareness too. Therefore, it is certain that without a thing to know, there is no awareness."
+ },
+ {
+  "id": "9-62",
+  "tibetan": "དེ་ཉིད་ཀྱིས་ནི་གཟུགས་ཤེས་ན། ། དེ་ཚེ་ཐོས་པའང་ཅི་སྟེ་མིན། ། གལ་ཏེ་སྒྲ་མི་ཉེ་ཕྱིར་ན། ། དེས་ན་དེ་ཡི་ཤེས་པའང་མེད། །",
+  "academic_translation": "If that very thing knows form,\nWhy does it not also hear at that time?\nIf it is because sound is not nearby,\nThen the consciousness of that is also absent.",
+  "locked_terms": [
+   {
+    "tibetan": "གཟུགས",
+    "use": "shape"
+   },
+   {
+    "tibetan": "སྒྲ",
+    "use": "sound"
+   },
+   {
+    "tibetan": "ཤེས་པ",
+    "use": "awareness"
+   }
+  ],
+  "translation": "If that exact same thing knows a shape, why does it not hear at the same time? Someone might say it is because a sound is not close by. But if that is true, then its awareness of the sound is gone too."
+ },
+ {
+  "id": "9-63",
+  "tibetan": "སྒྲ་འཛིན་རང་བཞིན་གང་ཡིན་པ། ། དེ་གཟུགས་འཛིན་པར་ཇི་ལྟར་འགྱུར། ། གཅིག་ནི་ཕ་དང་བུ་ཉིད་དུ། ། བརྟགས་ཡིན་ཡང་དག་ཉིད་མིན་ཏེ། །",
+  "academic_translation": "Whatever has the nature of apprehending sound,\nHow could it become the apprehender of form?\nOne person is designated as a father and a son,\nBut this is not true reality.",
+  "locked_terms": [
+   {
+    "tibetan": "གཟུགས",
+    "use": "shape"
+   },
+   {
+    "tibetan": "བརྟགས",
+    "use": "labelled"
+   },
+   {
+    "tibetan": "ཡང་དག་ཉིད",
+    "use": "what is truly real"
+   },
+   {
+    "tibetan": "སྒྲ",
+    "use": "sound"
+   }
+  ],
+  "translation": "If something is made to notice a sound, how could it become the thing that notices a shape? One person can be labelled as both a father and a son. But that is not what is truly real."
+ },
+ {
+  "id": "9-64",
+  "tibetan": "འདི་ལྟར་སྙིང་སྟོབས་རྡུལ་དང་ནི། ། མུན་པ་བུ་མིན་ཕ་ཡང་མིན། ། དེ་ནི་སྒྲ་འཛིན་དང་ལྡན་པའི། ། རང་བཞིན་དུ་ནི་མཐོང་མ་ཡིན། །",
+  "academic_translation": "Thus, sattva, rajas, and\nTamas are neither a son nor a father,\nAnd that apprehender of form is not seen to have a nature\nThat possesses the apprehension of sound.",
+  "locked_terms": [
+   {
+    "tibetan": "སྙིང་སྟོབས",
+    "use": "brightness"
+   },
+   {
+    "tibetan": "རྡུལ",
+    "use": "restlessness"
+   },
+   {
+    "tibetan": "མུན་པ",
+    "use": "darkness"
+   },
+   {
+    "tibetan": "སྒྲ",
+    "use": "sound"
+   },
+   {
+    "tibetan": "རང་བཞིན",
+    "use": "nature"
+   }
+  ],
+  "translation": "So, brightness, restlessness, and darkness are neither a son nor a father. And the thing that notices a shape is not seen to have a nature that notices a sound."
+ }
+]

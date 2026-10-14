@@ -1,0 +1,743 @@
+{
+ "batch": "batch-22",
+ "segments": [
+  {
+   "id": "9-43",
+   "terms": [
+    {
+     "bo": "ཐེག་ཆེན",
+     "dm": "Mahāyāna",
+     "gm": "Mahāyāna"
+    },
+    {
+     "bo": "ལུང",
+     "dm": "scriptures",
+     "gm": "scriptures"
+    },
+    {
+     "bo": "མུ་སྟེགས་པ",
+     "dm": "non-Buddhists",
+     "gm": "non-Buddhists"
+    }
+   ]
+  },
+  {
+   "id": "9-44",
+   "terms": [
+    {
+     "bo": "དགེ་སློང",
+     "dm": "monk",
+     "gm": "monk"
+    },
+    {
+     "bo": "དམིགས་དང་བཅས",
+     "dm": "directed toward objects",
+     "gm": "apprehension"
+    },
+    {
+     "bo": "མྱ་ངན་འདས་པ",
+     "dm": "nirvana",
+     "gm": "nirvāṇa"
+    }
+   ]
+  },
+  {
+   "id": "9-45",
+   "terms": [
+    {
+     "bo": "ཉོན་མོངས",
+     "dm": "afflictions",
+     "gm": "afflictions"
+    },
+    {
+     "bo": "གྲོལ",
+     "dm": "liberated",
+     "gm": "liberated"
+    },
+    {
+     "bo": "ལས",
+     "dm": "karma",
+     "gm": "karma"
+    }
+   ]
+  },
+  {
+   "id": "9-46",
+   "terms": [
+    {
+     "bo": "ཉེར་ལེན",
+     "dm": "grasping",
+     "gm": "appropriation"
+    },
+    {
+     "bo": "སྲེད་པ",
+     "dm": "craving",
+     "gm": "craving"
+    },
+    {
+     "bo": "ཉོན་མོངས་ཅན",
+     "dm": "afflicted",
+     "gm": "affliction"
+    },
+    {
+     "bo": "ཀུན་རྨོངས",
+     "dm": "confusion",
+     "gm": "ignorance"
+    }
+   ]
+  },
+  {
+   "id": "9-47",
+   "terms": [
+    {
+     "bo": "ཚོར་བ",
+     "dm": "feeling",
+     "gm": "feeling"
+    },
+    {
+     "bo": "སྲེད་པ",
+     "dm": "Craving",
+     "gm": "Craving"
+    },
+    {
+     "bo": "རྐྱེན",
+     "dm": "conditioned",
+     "gm": "condition"
+    },
+    {
+     "bo": "དམིགས་པ",
+     "dm": "object of observation",
+     "gm": "apprehension"
+    }
+   ]
+  },
+  {
+   "id": "9-48",
+   "terms": [
+    {
+     "bo": "སྟོང་ཉིད",
+     "dm": "emptiness",
+     "gm": "emptiness"
+    },
+    {
+     "bo": "འདུ་ཤེས་མེད་པའི་སྙོམས་འཇུག",
+     "dm": "meditative absorption of non-perception",
+     "gm": "meditative absorption without discrimination"
+    },
+    {
+     "bo": "སྙོམས་འཇུག",
+     "dm": "meditative absorption",
+     "gm": "meditative absorption"
+    },
+    {
+     "bo": "བསྒོམ་པ",
+     "dm": "meditate",
+     "gm": "meditate"
+    }
+   ]
+  },
+  {
+   "id": "9-49",
+   "terms": [
+    {
+     "bo": "མདོ་སྡེ",
+     "dm": "sutras",
+     "gm": "sūtras"
+    },
+    {
+     "bo": "སངས་རྒྱས",
+     "dm": "Buddha",
+     "gm": "Buddha"
+    },
+    {
+     "bo": "ཐེག་ཆེན",
+     "dm": "Mahayana",
+     "gm": "Mahāyāna"
+    }
+   ]
+  },
+  {
+   "id": "9-50",
+   "terms": [
+    {
+     "bo": "རྒྱལ་བ",
+     "dm": "Victorious One",
+     "gm": "Victorious One"
+    },
+    {
+     "bo": "མདོ",
+     "dm": "sutras",
+     "gm": "sūtras"
+    }
+   ]
+  },
+  {
+   "id": "9-51",
+   "terms": [
+    {
+     "bo": "འོད་སྲུངས་ཆེན་པོ",
+     "dm": "Mahākāśyapa",
+     "gm": "Mahākāśyapa"
+    }
+   ]
+  },
+  {
+   "id": "9-52",
+   "terms": [
+    {
+     "bo": "འཁོར་བ",
+     "dm": "cyclic existence",
+     "gm": "saṃsāra"
+    },
+    {
+     "bo": "རྨོངས་པ",
+     "dm": "delusion",
+     "gm": "ignorance"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffer"
+    },
+    {
+     "bo": "ཆགས",
+     "dm": "attachment",
+     "gm": "attachment"
+    },
+    {
+     "bo": "གྲོལ་བ",
+     "dm": "Liberated",
+     "gm": "freed"
+    },
+    {
+     "bo": "སྟོང་ཉིད",
+     "dm": "emptiness",
+     "gm": "emptiness"
+    },
+    {
+     "bo": "འབྲས་བུ",
+     "dm": "fruit",
+     "gm": "result"
+    }
+   ]
+  },
+  {
+   "id": "9-53",
+   "terms": [
+    {
+     "bo": "སྟོང་པ་ཉིད",
+     "dm": "emptiness",
+     "gm": "emptiness"
+    },
+    {
+     "bo": "སུན་འབྱིན་པ",
+     "dm": "refutations",
+     "gm": "Refutation"
+    },
+    {
+     "bo": "ཕྱོགས",
+     "dm": "position",
+     "gm": "side"
+    },
+    {
+     "bo": "ཐེ་ཚོམ",
+     "dm": "doubt",
+     "gm": "hesitation"
+    },
+    {
+     "bo": "བསྒོམ་པར",
+     "dm": "meditate",
+     "gm": "meditate"
+    }
+   ]
+  },
+  {
+   "id": "9-54",
+   "terms": [
+    {
+     "bo": "ཉོན་མོངས་ཤེས་བྱའི་སྒྲིབ་པ",
+     "dm": "afflictive and cognitive obscurations",
+     "gm": "obscurations of afflictions and knowables"
+    },
+    {
+     "bo": "སྟོང་པ་ཉིད",
+     "dm": "Emptiness",
+     "gm": "Emptiness"
+    },
+    {
+     "bo": "གཉེན་པོ",
+     "dm": "antidote",
+     "gm": "antidote"
+    },
+    {
+     "bo": "ཐམས་ཅད་མཁྱེན",
+     "dm": "omniscience",
+     "gm": "omniscient"
+    },
+    {
+     "bo": "སྒོམ",
+     "dm": "meditate",
+     "gm": "meditate"
+    }
+   ]
+  },
+  {
+   "id": "9-55",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "སྟོང་ཉིད",
+     "dm": "emptiness",
+     "gm": "emptiness"
+    },
+    {
+     "bo": "ཞི་བྱེད་པ",
+     "dm": "pacifies",
+     "gm": "pacifies"
+    }
+   ]
+  },
+  {
+   "id": "9-56",
+   "terms": [
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    }
+   ]
+  },
+  {
+   "id": "9-57",
+   "terms": [
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    }
+   ]
+  },
+  {
+   "id": "9-58",
+   "terms": [
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    }
+   ]
+  },
+  {
+   "id": "9-59",
+   "terms": [
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    },
+    {
+     "bo": "རྣམ་ཤེས་དྲུག",
+     "dm": "six consciousnesses",
+     "gm": "six consciousnesses"
+    }
+   ]
+  },
+  {
+   "id": "9-60",
+   "terms": [
+    {
+     "bo": "རྟག",
+     "dm": "permanent",
+     "gm": "permanent"
+    },
+    {
+     "bo": "ཤེས་བྱ",
+     "dm": "object of knowledge",
+     "gm": "object of knowledge"
+    },
+    {
+     "bo": "ཤེས་པ",
+     "dm": "consciousness",
+     "gm": "consciousness"
+    }
+   ]
+  },
+  {
+   "id": "9-61",
+   "terms": [
+    {
+     "bo": "ཤེས་པ",
+     "dm": "consciousness",
+     "gm": "consciousness"
+    },
+    {
+     "bo": "ཤེས་བྱ",
+     "dm": "object of knowledge",
+     "gm": "Object of knowledge"
+    }
+   ]
+  },
+  {
+   "id": "9-62",
+   "terms": [
+    {
+     "bo": "གཟུགས",
+     "dm": "form",
+     "gm": "form"
+    }
+   ]
+  },
+  {
+   "id": "9-63",
+   "terms": [
+    {
+     "bo": "གཟུགས",
+     "dm": "form",
+     "gm": "form"
+    },
+    {
+     "bo": "བརྟགས",
+     "dm": "designated",
+     "gm": "designated"
+    },
+    {
+     "bo": "ཡང་དག་ཉིད",
+     "dm": "ultimate reality",
+     "gm": "ultimate reality"
+    }
+   ]
+  },
+  {
+   "id": "9-64",
+   "terms": [
+    {
+     "bo": "སྙིང་སྟོབས",
+     "dm": "sattva",
+     "gm": "sattva"
+    },
+    {
+     "bo": "རྡུལ",
+     "dm": "rajas",
+     "gm": "rajas"
+    },
+    {
+     "bo": "མུན་པ",
+     "dm": "tamas",
+     "gm": "Tamas"
+    }
+   ]
+  },
+  {
+   "id": "9-65",
+   "terms": [
+    {
+     "bo": "རྟག",
+     "dm": "permanent",
+     "gm": "permanent"
+    }
+   ]
+  },
+  {
+   "id": "9-66",
+   "terms": [
+    {
+     "bo": "ཤེས་ཉིད",
+     "dm": "consciousness itself",
+     "gm": "consciousness itself"
+    }
+   ]
+  },
+  {
+   "id": "9-67",
+   "terms": []
+  },
+  {
+   "id": "9-68",
+   "terms": [
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    }
+   ]
+  },
+  {
+   "id": "9-69",
+   "terms": [
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    },
+    {
+     "bo": "ནམ་མཁའ",
+     "dm": "space",
+     "gm": "Space"
+    }
+   ]
+  },
+  {
+   "id": "9-70",
+   "terms": [
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    },
+    {
+     "bo": "ལས་འབྲས",
+     "dm": "action and result",
+     "gm": "actions and results"
+    }
+   ]
+  },
+  {
+   "id": "9-71",
+   "terms": [
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    }
+   ]
+  },
+  {
+   "id": "9-72",
+   "terms": [
+    {
+     "bo": "རྒྱུད",
+     "dm": "continuum",
+     "gm": "continuum"
+    },
+    {
+     "bo": "བྱེད་པོ",
+     "dm": "agent",
+     "gm": "agent"
+    },
+    {
+     "bo": "སྤྱོད་པོ",
+     "dm": "experiencer",
+     "gm": "experiencer"
+    },
+    {
+     "bo": "རྒྱུ",
+     "dm": "cause",
+     "gm": "cause"
+    },
+    {
+     "bo": "འབྲས་བུ",
+     "dm": "result",
+     "gm": "result"
+    }
+   ]
+  },
+  {
+   "id": "9-73",
+   "terms": [
+    {
+     "bo": "འདས་དང་མ་འོངས་པ",
+     "dm": "past and future",
+     "gm": "past and the future"
+    },
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    }
+   ]
+  },
+  {
+   "id": "9-74",
+   "terms": [
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    }
+   ]
+  },
+  {
+   "id": "9-75",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "སྙིང་རྗེ",
+     "dm": "compassion",
+     "gm": "compassion"
+    },
+    {
+     "bo": "བརྟགས་པ",
+     "dm": "imputed",
+     "gm": "imputed"
+    },
+    {
+     "bo": "རྨོངས་པ",
+     "dm": "delusion",
+     "gm": "delusion"
+    },
+    {
+     "bo": "འབྲས་བུ",
+     "dm": "result",
+     "gm": "result"
+    }
+   ]
+  },
+  {
+   "id": "9-76",
+   "terms": [
+    {
+     "bo": "སེམས་ཅན",
+     "dm": "sentient beings",
+     "gm": "sentient beings"
+    },
+    {
+     "bo": "འབྲས་བུ",
+     "dm": "fruit",
+     "gm": "result"
+    },
+    {
+     "bo": "རྨོངས་པ",
+     "dm": "delusion",
+     "gm": "delusion"
+    },
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "ཞི",
+     "dm": "pacifying",
+     "gm": "pacifying"
+    }
+   ]
+  },
+  {
+   "id": "9-77",
+   "terms": [
+    {
+     "bo": "སྡུག་བསྔལ",
+     "dm": "suffering",
+     "gm": "suffering"
+    },
+    {
+     "bo": "ང་རྒྱལ",
+     "dm": "pride",
+     "gm": "Pride"
+    },
+    {
+     "bo": "བདག",
+     "dm": "self",
+     "gm": "self"
+    },
+    {
+     "bo": "རྨོངས་པ",
+     "dm": "delusion",
+     "gm": "delusion"
+    },
+    {
+     "bo": "བདག་མེད",
+     "dm": "selflessness",
+     "gm": "selflessness"
+    },
+    {
+     "bo": "བསྒོམ་པ",
+     "dm": "meditating",
+     "gm": "Meditating"
+    }
+   ]
+  },
+  {
+   "id": "9-78",
+   "terms": [
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    }
+   ]
+  },
+  {
+   "id": "9-79",
+   "terms": [
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    }
+   ]
+  },
+  {
+   "id": "9-80",
+   "terms": [
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    }
+   ]
+  },
+  {
+   "id": "9-81",
+   "terms": [
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    }
+   ]
+  },
+  {
+   "id": "9-82",
+   "terms": [
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    }
+   ]
+  },
+  {
+   "id": "9-83",
+   "terms": [
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    },
+    {
+     "bo": "རྨོངས་པ",
+     "dm": "delusion",
+     "gm": "delusion"
+    }
+   ]
+  },
+  {
+   "id": "9-84",
+   "terms": [
+    {
+     "bo": "ལུས",
+     "dm": "body",
+     "gm": "body"
+    },
+    {
+     "bo": "རྐྱེན་ཚོགས",
+     "dm": "collection of conditions",
+     "gm": "collection of conditions"
+    }
+   ]
+  },
+  {
+   "id": "9-85",
+   "terms": []
+  }
+ ]
+}

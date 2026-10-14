@@ -1,0 +1,60 @@
+(anon):setopt:7: can't change option: monitor
+
+[[31mERROR[39m]: gitstatus failed to initialize.
+
+
+  Add the following parameter to ~/.zshrc for extra diagnostics on error:
+
+    GITSTATUS_LOG_LEVEL=DEBUG
+
+  Restart Zsh to retry gitstatus initialization:
+
+    [32mexec zsh[39m
+pairs to judge: 108
+judgements to make=216 calls=28
+  pass 1 zh-academic 1-5..1-22 ok
+  pass 1 zh-academic 2-34..4-9 ok
+  pass 1 zh-academic 1-26..2-32 ok
+  pass 1 zh-academic 4-10..5-2 ok
+  pass 1 zh-academic 5-4..5-73 ok
+  pass 1 zh-academic 6-111..7-15 ok
+  pass 1 zh-academic 5-89..6-109 ok
+  pass 1 zh-academic 7-38..8-73 ok
+  pass 1 zh-academic 8-79..8-147 ok
+  pass 1 zh-academic 8-149..9-14 ok
+  pass 1 zh-academic 9-87..9-132 ok
+  pass 1 zh-academic 10-41..10-55 ok
+  pass 1 zh-academic 9-18..9-83 ok
+  pass 1 zh-academic 9-147..10-31 ok
+  pass 2 zh-academic 1-5..1-22 ok
+  pass 2 zh-academic 2-34..4-9 ok
+  pass 2 zh-academic 1-26..2-32 ok
+  pass 2 zh-academic 4-10..5-2 ok
+  pass 2 zh-academic 5-4..5-73 ok
+  pass 2 zh-academic 7-38..8-73 ok
+  pass 2 zh-academic 5-89..6-109 ok
+  pass 2 zh-academic 6-111..7-15 ok
+  pass 2 zh-academic 8-79..8-147 ok
+  pass 2 zh-academic 8-149..9-14 ok
+  pass 2 zh-academic 9-18..9-83 ok
+  pass 2 zh-academic 9-87..9-132 ok
+  pass 2 zh-academic 10-41..10-55 ok
+  pass 2 zh-academic 9-147..10-31 ok
+pairs=221; passes disagreed on 54 (counted as tie)
+| Track | Pairs | Fixed version better | Tie | Original better |
+|---|---|---|---|---|
+| zh-academic | 108 | 60 (56%) | 36 (33%) | 12 (11%) |
+| hi-academic | 113 | 69 (61%) | 28 (25%) | 16 (14%) |
+| all | 221 | 129 (58%) | 64 (29%) | 28 (13%) |
+  reverted zh-academic 1-19
+  reverted zh-academic 2-57
+  reverted zh-academic 4-24
+  reverted zh-academic 4-38
+  reverted zh-academic 4-39
+  reverted zh-academic 5-69
+  reverted zh-academic 7-62
+  reverted zh-academic 8-9
+  reverted zh-academic 8-102
+  reverted zh-academic 9-90
+  reverted zh-academic 9-108
+reverted 11 minor-only fixes the judge rated worse

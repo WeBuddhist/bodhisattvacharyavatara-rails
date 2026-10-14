@@ -1,0 +1,145 @@
+{
+ "batch": "batch-30",
+ "segments": [
+  {
+   "id": "8-71",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-72",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-73",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-74",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-75",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-76",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-77",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-78",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-79",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "the benefit is small",
+     "evidence": "མནོག་ཆུང་ (Sanskrit alpāsvāda, 'little taste/relish'); bo-kunpal 8-79 glosses it as བདེ་བའི་མནོག་ཆུང་བ, a small taste of pleasure. མནོག is the savour of enjoyment, not 'benefit' (phan).",
+     "fix": "and the enjoyment (gratification) is slight"
+    }
+   ]
+  },
+  {
+   "id": "8-80",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "that small benefit",
+     "evidence": "མནོག་ཆུང་ (Sanskrit āsvādalava) is a slight taste/relish of enjoyment; bo-kunpal 8-80 glosses it as མནོག་ཆུང་ལ་ ... ལོངས་སྤྱོད (food, clothing and other enjoyments). 'Benefit' misses this and is inconsistent with a proper rendering of མནོག.",
+     "fix": "that slight enjoyment"
+    }
+   ]
+  },
+  {
+   "id": "8-81",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-82",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-83",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-84",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "One should generate joy for solitude,\nEmpty of disputes and afflictions,\nWithin peaceful forests.",
+     "evidence": "རྩོད་དང་ཉོན་མོངས་ཀྱིས་སྟོང་པ། ཞི་བའི་ནགས་ཀྱི་ནང་དག་ཏུ། - 'empty of disputes and afflictions' qualifies the forests (bo-shenga 8-84: རྩོད་པ་དང་ནང་གི་ཉོན་མོངས་རྣམས་ཀྱིས་སྟོང་པ། ... ཞི་བའི་ནགས), but in the English the modifier follows 'solitude' and reads as describing solitude.",
+     "fix": "One should generate joy for solitude\nWithin peaceful forests\nEmpty of disputes and afflictions."
+    }
+   ]
+  },
+  {
+   "id": "8-85",
+   "verdict": "fail",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "major",
+     "span": "The fortunate ones, cooled by moonlight and sandalwood,\nOn delightful mansions of broad stone slabs,",
+     "evidence": "ཟླ་འོད་ཙནྡན་གྱིས་བསིལ་བའི། ཡངས་པའི་རྡོ་ལེབ་ཁང་བཟང་ཉམས་དགའ་བར། - བསིལ་བའི་ modifies the stone-slab fine abode(s), not the fortunate ones (Sanskrit locative śītaleṣu ... śilātaleṣu; bo-shenga 8-85: ཟླ་བའི་འོད་ཀྱི་ཙནྡན་གྱིས་བསིལ་བར་གྱུར་པའི་ ... རྡོ་ལེབ་ཀྱི་ཁང་བཟང་). Also ཁང་བཟང་ཉམས་དགའ་བར is locative 'in/at' fine dwellings, not walking 'on' mansions.",
+     "fix": "The fortunate ones, in delightful fine dwellings of broad stone slabs\ncooled by moonlight and sandalwood,"
+    }
+   ]
+  },
+  {
+   "id": "8-86",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-87",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "joy of contentment",
+     "evidence": "ཆོག་ཤེས་བདེ་སྤྱོད་ - བདེ་ is 'happiness' (bo-kunpal 8-87: ཆོག་ཤེས་པའི་བདེ་བ; bo-gyaltsab: ཆོག་ཤེས་པའི་བདེ་བ), rendered 'happiness' elsewhere in this passage; 'joy' suggests དགའ་བ.",
+     "fix": "happiness of contentment"
+    }
+   ]
+  },
+  {
+   "id": "8-88",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-89",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-90",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

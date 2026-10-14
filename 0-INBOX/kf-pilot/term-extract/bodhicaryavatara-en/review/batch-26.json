@@ -1,0 +1,328 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "10-30",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-31",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-32",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བདུད་ཀྱི་ལས",
+      "reason": "Fixed technical phrase (mārakarman)",
+      "dm": "activities of Māra",
+      "gm": "actions of Māra"
+     }
+    ]
+   },
+   {
+    "id": "10-33",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-34",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-35",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-36",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "འཁོར",
+      "reason": "Buddhist technical term for assembly/retinue (pariṣad)",
+      "dm": "retinues",
+      "gm": "retinues"
+     },
+     {
+      "bo": "དཀྱིལ་འཁོར",
+      "reason": "Buddhist technical term (maṇḍala)",
+      "dm": "circles",
+      "gm": "circles"
+     }
+    ]
+   },
+   {
+    "id": "10-37",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-38",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-39",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-40",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-41",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-42",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-43",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Ordinary verb"
+     },
+     {
+      "n": 5,
+      "reason": "Ordinary adjective"
+     },
+     {
+      "n": 6,
+      "reason": "Ordinary verb"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-44",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-45",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-46",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-47",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-48",
+    "drop": [
+     {
+      "n": 3,
+      "reason": "Ordinary verb phrase"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-49",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-50",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-51",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-52",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-53",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-54",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-55",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-56",
+    "drop": [
+     {
+      "n": 3,
+      "reason": "Used here as an ordinary verb"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-57",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-58",
+    "drop": [
+     {
+      "n": 3,
+      "reason": "Ordinary verb"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-a",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "a-0",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "a-1",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "b-0",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "b-1",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "b-2",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "b-3",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "10-43",
+    "bo": "བསླབ་པ",
+    "reason": "Ordinary verb"
+   },
+   {
+    "id": "10-43",
+    "bo": "ལས་རུང",
+    "reason": "Ordinary adjective"
+   },
+   {
+    "id": "10-43",
+    "bo": "སྒོམ",
+    "reason": "Ordinary verb"
+   },
+   {
+    "id": "10-48",
+    "bo": "མཆོད་བྱེད",
+    "reason": "Ordinary verb phrase"
+   },
+   {
+    "id": "10-56",
+    "bo": "སྨིན",
+    "reason": "Used here as an ordinary verb"
+   },
+   {
+    "id": "10-58",
+    "bo": "ཕྱག་འཚལ",
+    "reason": "Ordinary verb"
+   }
+  ],
+  "fix_span": [],
+  "add": [
+   {
+    "id": "10-32",
+    "bo": "བདུད་ཀྱི་ལས",
+    "dm": "activities of Māra",
+    "gm": "actions of Māra",
+    "reason": "Fixed technical phrase (mārakarman)"
+   },
+   {
+    "id": "10-36",
+    "bo": "འཁོར",
+    "dm": "retinues",
+    "gm": "retinues",
+    "reason": "Buddhist technical term for assembly/retinue (pariṣad)"
+   },
+   {
+    "id": "10-36",
+    "bo": "དཀྱིལ་འཁོར",
+    "dm": "circles",
+    "gm": "circles",
+    "reason": "Buddhist technical term (maṇḍala)"
+   }
+  ]
+ }
+}

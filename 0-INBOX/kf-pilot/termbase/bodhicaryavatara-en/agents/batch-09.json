@@ -1,0 +1,710 @@
+{
+ "batch": "batch-09",
+ "terms": [
+  {
+   "term_id": "T009",
+   "bo": "ཡོན་ཏན",
+   "sanskrit": "guṇa",
+   "senses": [
+    {
+     "sense": "good quality",
+     "occurrences": "all",
+     "academic": "good quality",
+     "children": "good quality",
+     "basis": "style-sheet",
+     "reason": "Style sheet core term (Policy 21); matches Gemini majority."
+    }
+   ]
+  },
+  {
+   "term_id": "T025",
+   "bo": "སྡིག",
+   "sanskrit": "pāpa",
+   "senses": [
+    {
+     "sense": "misdeed",
+     "occurrences": "all",
+     "academic": "misdeed",
+     "children": "harmful deed",
+     "basis": "style-sheet",
+     "reason": "Policy 14: misdeed, not sin; variant of སྡིག་པ."
+    }
+   ]
+  },
+  {
+   "term_id": "T041",
+   "bo": "ལས",
+   "sanskrit": "karman",
+   "senses": [
+    {
+     "sense": "karma",
+     "occurrences": "all",
+     "academic": "karma",
+     "children": "action",
+     "basis": "style-sheet",
+     "reason": "Core term ལས: karma academic, action for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T057",
+   "bo": "ཤེས་རབ",
+   "sanskrit": "prajñā",
+   "senses": [
+    {
+     "sense": "wisdom",
+     "occurrences": "all",
+     "academic": "wisdom",
+     "children": "wisdom",
+     "basis": "both",
+     "reason": "Both agree; style sheet ཤེས་རབ."
+    }
+   ]
+  },
+  {
+   "term_id": "T073",
+   "bo": "འཇམ་དབྱངས",
+   "sanskrit": "mañjughoṣa",
+   "senses": [
+    {
+     "sense": "name of the bodhisattva",
+     "occurrences": "all",
+     "academic": "Mañjuśrī",
+     "children": "Manjushri",
+     "basis": "style-sheet",
+     "reason": "Style sheet fixes Mañjuśrī; Mañjughoṣa dropped."
+    }
+   ]
+  },
+  {
+   "term_id": "T089",
+   "bo": "བརྟུལ་ཞུགས",
+   "sanskrit": "vrata",
+   "senses": [
+    {
+     "sense": "ascetic (person)",
+     "occurrences": [
+      "2-25"
+     ],
+     "academic": "ascetic",
+     "children": "person of strict practice",
+     "basis": "new",
+     "reason": "Sanskrit yati: one who practises austerity; person, not a practice."
+    },
+    {
+     "sense": "ascetic discipline",
+     "occurrences": [
+      "5-18",
+      "5-85",
+      "5-102",
+      "10-45"
+     ],
+     "academic": "ascetic discipline",
+     "children": "strict practice",
+     "basis": "dm",
+     "reason": "Policy 6 names ascetic discipline; Sanskrit vrata; DM rendering."
+    }
+   ]
+  },
+  {
+   "term_id": "T105",
+   "bo": "གཟུགས",
+   "sanskrit": "rūpa",
+   "senses": [
+    {
+     "sense": "visible form",
+     "occurrences": "all",
+     "academic": "form",
+     "children": "shape",
+     "basis": "both",
+     "reason": "Both attest form; rūpa in chapter 9 argument; children plainer."
+    }
+   ]
+  },
+  {
+   "term_id": "T121",
+   "bo": "བག་ཡོད",
+   "sanskrit": "apramāda",
+   "senses": [
+    {
+     "sense": "heedfulness",
+     "occurrences": "all",
+     "academic": "heedfulness",
+     "children": "carefulness",
+     "basis": "style-sheet",
+     "reason": "Style sheet core term བག་ཡོད (Policy 7); chapter 4 title."
+    }
+   ]
+  },
+  {
+   "term_id": "T137",
+   "bo": "ཤེས",
+   "sanskrit": "jñāna",
+   "senses": [
+    {
+     "sense": "consciousness",
+     "occurrences": "all",
+     "academic": "consciousness",
+     "children": "awareness",
+     "basis": "style-sheet",
+     "reason": "Variant of ཤེས་པ; core term consciousness."
+    }
+   ]
+  },
+  {
+   "term_id": "T153",
+   "bo": "རིགས",
+   "sanskrit": "kula",
+   "senses": [
+    {
+     "sense": "family",
+     "occurrences": "all",
+     "academic": "family",
+     "children": "family",
+     "basis": "gm",
+     "reason": "Gemini majority; Sanskrit kula; DM lineage and gm caste not followed."
+    }
+   ]
+  },
+  {
+   "term_id": "T169",
+   "bo": "ཐུབ",
+   "sanskrit": "muni",
+   "senses": [
+    {
+     "sense": "epithet of the Buddha",
+     "occurrences": "all",
+     "academic": "Sage",
+     "children": "Sage",
+     "basis": "style-sheet",
+     "reason": "Policy 18: ཐུབ་པ is Sage; both agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T185",
+   "bo": "རྒྱུན",
+   "sanskrit": "saṃtāna",
+   "senses": [
+    {
+     "sense": "continuum",
+     "occurrences": "all",
+     "academic": "continuum",
+     "children": "unbroken flow",
+     "basis": "gm",
+     "reason": "Gemini continuum fits saṃtāna; children plain paraphrase keeps sense."
+    }
+   ]
+  },
+  {
+   "term_id": "T201",
+   "bo": "དུས་གསུམ",
+   "sanskrit": "tryadhvan",
+   "senses": [
+    {
+     "sense": "three times",
+     "occurrences": "all",
+     "academic": "three times",
+     "children": "past, present and future",
+     "basis": "both",
+     "reason": "Both agree; children spell out the three times."
+    }
+   ]
+  },
+  {
+   "term_id": "T217",
+   "bo": "དད",
+   "sanskrit": "śraddhā",
+   "senses": [
+    {
+     "sense": "faith",
+     "occurrences": "all",
+     "academic": "faith",
+     "children": "trust",
+     "basis": "both",
+     "reason": "Both agree on faith; children plainer, keeps the sense."
+    }
+   ]
+  },
+  {
+   "term_id": "T233",
+   "bo": "ཡིད་སྒོ",
+   "sanskrit": "manodvāra",
+   "senses": [
+    {
+     "sense": "gateway of the mind",
+     "occurrences": "all",
+     "academic": "gateway of the mind",
+     "children": "door of the mind",
+     "basis": "style-sheet",
+     "reason": "Policy 24 fixes gateway of the mind; children use plain door."
+    }
+   ]
+  },
+  {
+   "term_id": "T249",
+   "bo": "སེམས་མེད",
+   "sanskrit": "acetana",
+   "senses": [
+    {
+     "sense": "insentient thing",
+     "occurrences": "all",
+     "academic": "insentient",
+     "children": "thing without a mind",
+     "basis": "both",
+     "reason": "Both attest insentient; children paraphrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T265",
+   "bo": "ང་རྒྱལ་དགྲ",
+   "sanskrit": "mānaśatru",
+   "senses": [
+    {
+     "sense": "pride as the enemy",
+     "occurrences": "all",
+     "academic": "enemy that is pride",
+     "children": "enemy called pride",
+     "basis": "new",
+     "reason": "Sanskrit mānaśatru: pride itself is the enemy; \"enemy of pride\" misleads."
+    }
+   ]
+  },
+  {
+   "term_id": "T281",
+   "bo": "སྒྱུ་མའི་སེམས",
+   "sanskrit": "māyācitta",
+   "senses": [
+    {
+     "sense": "illusory mind",
+     "occurrences": "all",
+     "academic": "illusory mind",
+     "children": "mind of an illusion",
+     "basis": "both",
+     "reason": "Both attest illusory mind; compound of སྒྱུ་མ and སེམས."
+    }
+   ]
+  },
+  {
+   "term_id": "T297",
+   "bo": "རྟག་པ",
+   "sanskrit": "nitya",
+   "senses": [
+    {
+     "sense": "permanent",
+     "occurrences": "all",
+     "academic": "permanent",
+     "children": "never-changing",
+     "basis": "both",
+     "reason": "Both agree; children plainer."
+    }
+   ]
+  },
+  {
+   "term_id": "T313",
+   "bo": "བྱམས་མགོན",
+   "sanskrit": "maitreyanātha",
+   "senses": [
+    {
+     "sense": "epithet of Maitreya",
+     "occurrences": "all",
+     "academic": "Protector Maitreya",
+     "children": "Protector Maitreya",
+     "basis": "dm",
+     "reason": "Compound of Protector (མགོན་པོ) and Maitreya; DM form."
+    }
+   ]
+  },
+  {
+   "term_id": "T329",
+   "bo": "སྲིད",
+   "sanskrit": "bhava",
+   "senses": [
+    {
+     "sense": "existence",
+     "occurrences": "all",
+     "academic": "existence",
+     "children": "life",
+     "basis": "style-sheet",
+     "reason": "Policy 29: སྲིད་པ is existence, never cyclic existence."
+    }
+   ]
+  },
+  {
+   "term_id": "T345",
+   "bo": "བྱང་ཆུབ་སེམས་ཀྱི་གཞི",
+   "sanskrit": "bodhisattvāśraya",
+   "senses": [
+    {
+     "sense": "basis of bodhicitta",
+     "occurrences": "all",
+     "academic": "basis of bodhicitta",
+     "children": "basis of the awakening mind",
+     "basis": "new",
+     "reason": "Builds on bodhicitta; singular head of both translations bases/foundations."
+    }
+   ]
+  },
+  {
+   "term_id": "T361",
+   "bo": "མི་དགེ་བ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "non-virtue",
+     "occurrences": "all",
+     "academic": "non-virtue",
+     "children": "bad deed",
+     "basis": "style-sheet",
+     "reason": "Policy 14: མི་དགེ་བ is non-virtue; both agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T377",
+   "bo": "སེམས་ཅན་ཁམས",
+   "sanskrit": "sattvadhātu",
+   "senses": [
+    {
+     "sense": "realm of sentient beings",
+     "occurrences": "all",
+     "academic": "realm of sentient beings",
+     "children": "realm of living beings",
+     "basis": "both",
+     "reason": "Both agree; parts sentient being and realm."
+    }
+   ]
+  },
+  {
+   "term_id": "T393",
+   "bo": "དབང་ཚོགས",
+   "sanskrit": "indriyagaṇa",
+   "senses": [
+    {
+     "sense": "faculties",
+     "occurrences": "all",
+     "academic": "collection of faculties",
+     "children": "group of senses",
+     "basis": "dm",
+     "reason": "DM literal reading of Sanskrit indriyagaṇa; Gemini sense faculties looser."
+    }
+   ]
+  },
+  {
+   "term_id": "T409",
+   "bo": "རིས་འཇོམས",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "name of a hell",
+     "occurrences": "all",
+     "academic": "Destroying hell",
+     "children": "Destroying hell",
+     "basis": "gm",
+     "reason": "Gemini literal; DM Raurava contradicts the Sanskrit; hell guardian terms kept."
+    }
+   ]
+  },
+  {
+   "term_id": "T425",
+   "bo": "གཡོག་འཁོར",
+   "sanskrit": "parivāra",
+   "senses": [
+    {
+     "sense": "attendants and retinue",
+     "occurrences": "all",
+     "academic": "attendants and retinue",
+     "children": "helpers and followers",
+     "basis": "gm",
+     "reason": "Gemini attendants and retinues; Sanskrit parivāra; singular head."
+    }
+   ]
+  },
+  {
+   "term_id": "T441",
+   "bo": "ཐུགས་རྗེ་མངའ་བ",
+   "sanskrit": "kṛpālu",
+   "senses": [
+    {
+     "sense": "epithet of a buddha",
+     "occurrences": "all",
+     "academic": "Compassionate One",
+     "children": "Compassionate One",
+     "basis": "both",
+     "reason": "Both agree; capitalised epithet built on compassion."
+    }
+   ]
+  },
+  {
+   "term_id": "T457",
+   "bo": "དཀའ་ཟློག",
+   "sanskrit": "durgā",
+   "senses": [
+    {
+     "sense": "name of a goddess",
+     "occurrences": "all",
+     "academic": "Durgā",
+     "children": "Durga",
+     "basis": "dm",
+     "reason": "Sanskrit durgā shows the deity; Gemini asceticism misreads it."
+    }
+   ]
+  },
+  {
+   "term_id": "T473",
+   "bo": "མཐོང་དང་མ་མཐོང",
+   "sanskrit": "dṛṣṭādṛṣṭa",
+   "senses": [
+    {
+     "sense": "seen and unseen",
+     "occurrences": "all",
+     "academic": "seen and unseen",
+     "children": "this life and the next",
+     "basis": "gm",
+     "reason": "Gemini literal, Sanskrit dṛṣṭādṛṣṭa; children use DM meaning."
+    }
+   ]
+  },
+  {
+   "term_id": "T489",
+   "bo": "སྡང་སེམས",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "hateful mind",
+     "occurrences": "all",
+     "academic": "hateful mind",
+     "children": "hateful mind",
+     "basis": "gm",
+     "reason": "Compound of ཞེ་སྡང hatred and སེམས mind; DM malice dropped."
+    }
+   ]
+  },
+  {
+   "term_id": "T505",
+   "bo": "དཔུང་ཚོགས",
+   "sanskrit": "balavyūha",
+   "senses": [
+    {
+     "sense": "force",
+     "occurrences": "all",
+     "academic": "force",
+     "children": "force",
+     "basis": "gm",
+     "reason": "Gemini forces; singular head; Sanskrit balavyūha."
+    }
+   ]
+  },
+  {
+   "term_id": "T521",
+   "bo": "སྟོབས",
+   "sanskrit": "bala",
+   "senses": [
+    {
+     "sense": "power",
+     "occurrences": "all",
+     "academic": "power",
+     "children": "power",
+     "basis": "both",
+     "reason": "Both agree; Sanskrit bala."
+    }
+   ]
+  },
+  {
+   "term_id": "T537",
+   "bo": "སྙོམ",
+   "sanskrit": "ālasya",
+   "senses": [
+    {
+     "sense": "lethargy",
+     "occurrences": "all",
+     "academic": "lethargy",
+     "children": "sluggishness",
+     "basis": "both",
+     "reason": "Both agree; kept apart from laziness (ལེ་ལོ)."
+    }
+   ]
+  },
+  {
+   "term_id": "T553",
+   "bo": "སྨོད་པ",
+   "sanskrit": "jugupsa",
+   "senses": [
+    {
+     "sense": "disparage",
+     "occurrences": "all",
+     "academic": "disparage",
+     "children": "speak badly of",
+     "basis": "both",
+     "reason": "Both agree; children plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T569",
+   "bo": "ག་པུར",
+   "sanskrit": "karpūra",
+   "senses": [
+    {
+     "sense": "camphor",
+     "occurrences": "all",
+     "academic": "camphor",
+     "children": "camphor",
+     "basis": "both",
+     "reason": "Both agree; plain English."
+    }
+   ]
+  },
+  {
+   "term_id": "T585",
+   "bo": "བདག་དོན",
+   "sanskrit": "ātmārtha",
+   "senses": [
+    {
+     "sense": "own welfare",
+     "occurrences": "all",
+     "academic": "own welfare",
+     "children": "own good",
+     "basis": "style-sheet",
+     "reason": "Policy 23: བདག་གི་དོན is own welfare."
+    }
+   ]
+  },
+  {
+   "term_id": "T601",
+   "bo": "ཡན་ལག",
+   "sanskrit": "parikara",
+   "senses": [
+    {
+     "sense": "branch",
+     "occurrences": "all",
+     "academic": "branch",
+     "children": "branch",
+     "basis": "both",
+     "reason": "Both agree on branches; head singular."
+    }
+   ]
+  },
+  {
+   "term_id": "T617",
+   "bo": "བདེན་པར་རྟོག་པ",
+   "sanskrit": "satyataḥ kalpanā",
+   "senses": [
+    {
+     "sense": "conceptualization of true existence",
+     "occurrences": "all",
+     "academic": "conceptualization of true existence",
+     "children": "thinking things are truly real",
+     "basis": "gm",
+     "reason": "Gemini reading is more exact than DM; children paraphrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T633",
+   "bo": "དམིགས་དང་བཅས",
+   "sanskrit": "sāvalambana",
+   "senses": [
+    {
+     "sense": "with apprehension",
+     "occurrences": "all",
+     "academic": "apprehension",
+     "children": "holding on to things",
+     "basis": "gm",
+     "reason": "Gemini apprehension fits sāvalambana; DM paraphrase dropped."
+    }
+   ]
+  },
+  {
+   "term_id": "T649",
+   "bo": "ཆ",
+   "sanskrit": "aṃśa",
+   "senses": [
+    {
+     "sense": "part",
+     "occurrences": "all",
+     "academic": "part",
+     "children": "part",
+     "basis": "both",
+     "reason": "Both agree; Sanskrit aṃśa."
+    }
+   ]
+  },
+  {
+   "term_id": "T665",
+   "bo": "ཐོག་མེད",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "beginningless",
+     "occurrences": "all",
+     "academic": "beginningless",
+     "children": "without a beginning",
+     "basis": "both",
+     "reason": "Both agree; children plain phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T681",
+   "bo": "སྟོང་པ",
+   "sanskrit": "śūnya",
+   "senses": [
+    {
+     "sense": "empty",
+     "occurrences": "all",
+     "academic": "empty",
+     "children": "empty",
+     "basis": "style-sheet",
+     "reason": "Policy 10: adjective of emptiness; both agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T697",
+   "bo": "ཕྱག་ན་རྡོ་རྗེ",
+   "sanskrit": "vajrapāṇi",
+   "senses": [
+    {
+     "sense": "name of a bodhisattva",
+     "occurrences": "all",
+     "academic": "Vajrapāṇi",
+     "children": "Vajrapani",
+     "basis": "both",
+     "reason": "Both agree; name in IAST for academic."
+    }
+   ]
+  },
+  {
+   "term_id": "T713",
+   "bo": "ཆོས་ཀྱི་སྒྲ",
+   "sanskrit": "dharmadhvani",
+   "senses": [
+    {
+     "sense": "sound of the Dharma",
+     "occurrences": "all",
+     "academic": "sound of the Dharma",
+     "children": "sound of the teachings",
+     "basis": "style-sheet",
+     "reason": "Dharma sense (a) of ཆོས; both agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T729",
+   "bo": "བྱང་ཆུབ་སེམས་དཔའི་དགེ་འདུན",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "Saṅgha of bodhisattvas",
+     "occurrences": "all",
+     "academic": "Saṅgha of bodhisattvas",
+     "children": "community of awakening heroes",
+     "basis": "new",
+     "reason": "Policy 15 keeps Saṅgha; parts follow style sheet."
+    }
+   ]
+  }
+ ]
+}

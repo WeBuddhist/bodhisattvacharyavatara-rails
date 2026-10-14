@@ -1,0 +1,72 @@
+{
+ "batch": "batch-24",
+ "segments": [
+  {
+   "id": "10-57",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "और उन्हें हमेशा लाभ और आदर मिले",
+     "evidence": "The wish is that the teaching remain a long time together with gain and honour (the support the teaching receives); 'उन्हें' is ambiguous (could read as the beings) and 'हमेशा' overstates 'for a long time'.",
+     "fix": "वे बुद्ध की शिक्षाएँ लाभ और आदर के साथ बहुत समय तक बनी रहें।"
+    }
+   ]
+  },
+  {
+   "id": "10-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "a-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "b-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "सबसे पहले",
+     "evidence": "The Tibetan/academic text gives no 'first of all'; it simply says the text was edited and fixed by these two using the Kashmir manuscript (later revisions are introduced separately).",
+     "fix": "भारत के मुझे दीक्षा देने वाले गुरु सर्वज्ञदेव और मुख्य संशोधक अनुवादक बन्दे पल्त्सेक ने कश्मीर की हस्तलिखित पुस्तक से मिलाकर इसे ठीक किया और पक्का किया।"
+    }
+   ]
+  },
+  {
+   "id": "b-2",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "पुस्तक और उसकी व्याख्या पढ़कर",
+     "evidence": "Academic: revised and translated in accordance with (मुताबिक/अनुरूप) the Madhyadesha manuscript and commentary, not merely by reading them.",
+     "fix": "बीच के देश की पुस्तक और उसकी व्याख्या से मिलाकर इसे सुधारा और इसका अनुवाद पक्का किया।"
+    }
+   ]
+  },
+  {
+   "id": "b-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "अंत में",
+     "evidence": "Tibetan says 'again, later' (पुनः बाद में); 'अंत में' (finally) adds an idea of finality not in the source.",
+     "fix": "फिर बाद में भारत के मुझे दीक्षा देने वाले गुरु सुमतिकीर्ति और मुख्य संशोधक अनुवादक भिक्षु लोदेन शेरब ने इसे शुद्ध किया और इसका बहुत अच्छा अनुवाद पक्का किया।"
+    }
+   ]
+  }
+ ]
+}

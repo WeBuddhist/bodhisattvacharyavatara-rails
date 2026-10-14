@@ -1,0 +1,128 @@
+{
+ "batch": "batch-15",
+ "segments": [
+  {
+   "id": "5-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-93",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "不應與他婦獨處",
+     "evidence": "Tibetan བུད་མེད་གཞན་ ('another woman'); bo-kunpal 5-93 glosses it as a woman who is not a close relative (ཉེ་དུ་མ་ཡིན་པའི་བུད་མེད་གཞན), bo-shenga as women other than mother/sister. 他婦 in Chinese normally means 'another man's wife', which narrows the referent.",
+     "fix": "不應與其他女子獨處"
+    },
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "觀察並詢問後",
+     "evidence": "Tibetan མཐོང་དང་དྲིས་ཏེ ('having seen and asked'); bo-shenga 5-93 'རང་གིས་མཐོང་བ་དང་གཞན་ལ་དྲིས་ཏེ' and bo-gyaltsab 'མངོན་སུམ་གྱིས་མཐོང་བ' mean seeing directly (what one sees oneself), not examining/investigating; 觀察 suggests deliberate inspection.",
+     "fix": "見到或詢問後"
+    }
+   ]
+  },
+  {
+   "id": "5-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-96",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-97",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "ambiguity",
+     "severity": "minor",
+     "span": "必定於此期間當修持",
+     "evidence": "Tibetan ངེས་པར་དེ་སྲིད་སྤྱད་པར་བྱ ('certainly practise for as long as...'); bo-gyaltsab 5-97 'ངེས་པར་སྤྱོད་པ་མཐའ་དག་ཉམས་སུ་ལེན་ནུས་པ་དེ་སྲིད་' and bo-kunpal 'མ་ཐུབ་པར་དེ་སྲིད་དུ' show it means as long as one cannot yet practise all the bodhisattva conduct. 此期間 has no antecedent, so the temporal limit is lost.",
+     "fix": "必定應修持，直至能行持一切菩薩行為止"
+    }
+   ]
+  },
+  {
+   "id": "5-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-101",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-102",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-103",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-104",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-105",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-107",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-109",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-1",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

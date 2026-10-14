@@ -1,0 +1,681 @@
+[
+ {
+  "id": "6-22",
+  "tibetan": "མཁྲིས་པ་ལ་སོགས་སྡུག་བསྔལ་གྱི། ། འབྱུང་གནས་ཆེ་ལ་མི་ཁྲོ་བར། ། སེམས་ཡོད་རྣམས་ལ་ཅི་སྟེ་ཁྲོ། ། དེ་དག་ཀུན་ཀྱང་རྐྱེན་གྱིས་བསྐུལ། །",
+  "academic_translation": "Without being angry at bile and the like,\nWhich are great sources of suffering,\nWhy be angry at beings with a mind?\nThey too are all incited by conditions.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "མཁྲིས་པ",
+    "use": "bile"
+   },
+   {
+    "tibetan": "སེམས་ཡོད",
+    "use": "being with a mind"
+   },
+   {
+    "tibetan": "རྐྱེན",
+    "use": "circumstance"
+   }
+  ],
+  "translation": "Things like bile cause great suffering, but we do not get angry at them. So why get angry at a being with a mind? They are also pushed by circumstances."
+ },
+ {
+  "id": "6-23",
+  "tibetan": "དཔེར་ན་མི་འདོད་བཞིན་དུ་ཡང་། ། ནད་འདི་འབྱུང་བར་འགྱུར་བ་ལྟར། ། དེ་བཞིན་མི་འདོད་བཞིན་དུ་ཡང་། ། ནན་གྱིས་ཉོན་མོངས་འབྱུང་བར་འགྱུར། །",
+  "academic_translation": "For example, even without wishing it,\nJust as this sickness arises,\nLikewise, even without wishing it,\nThe afflictions forcefully arise.",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   }
+  ],
+  "translation": "For example, sickness happens even when we do not want it. In the same way, troubling emotions rise up with force even when we do not want them."
+ },
+ {
+  "id": "6-24",
+  "tibetan": "ཁྲོ་བར་བྱ་ཞེས་མ་བསམས་ཀྱང་། ། སྐྱེ་བོ་རྣམས་ནི་གྱི་ནར་ཁྲོ། ། བསྐྱེད་པར་བྱ་ཞེས་མ་བསམས་ཀྱང་། ། ཁྲོ་བ་དེ་བཞིན་སྐྱེ་བར་འགྱུར། །",
+  "academic_translation": "Even without thinking, \"I shall become angry,\"\nPeople become angry at the slightest condition;\nEven without thinking, \"I shall produce it,\"\nAnger likewise arises.",
+  "locked_terms": [
+   {
+    "tibetan": "ཁྲོ་བ",
+    "use": "anger"
+   }
+  ],
+  "translation": "People get angry over little things without even thinking, \"I will get angry.\" In the same way, anger just happens without us deciding to make it."
+ },
+ {
+  "id": "6-25",
+  "tibetan": "ཉེས་པ་ཇི་སྙེད་ཐམས་ཅད་དང་། ། སྡིག་པ་རྣམ་པ་སྣ་ཚོགས་པ། ། དེ་ཀུན་རྐྱེན་གྱི་སྟོབས་ལས་བྱུང་། ། རང་དབང་ཡོད་པ་མ་ཡིན་ནོ། །",
+  "academic_translation": "All faults, however many there are,\nAnd various kinds of misdeeds,\nAll these arise through the power of conditions;\nThey do not possess independence.",
+  "locked_terms": [
+   {
+    "tibetan": "ཉེས་པ",
+    "use": "fault"
+   },
+   {
+    "tibetan": "སྡིག་པ",
+    "use": "harmful deed"
+   },
+   {
+    "tibetan": "རྐྱེན",
+    "use": "circumstance"
+   },
+   {
+    "tibetan": "རང་དབང",
+    "use": "independence"
+   }
+  ],
+  "translation": "Every single fault and all kinds of harmful deeds happen because of circumstances. They do not have independence."
+ },
+ {
+  "id": "6-26",
+  "tibetan": "རྐྱེན་རྣམས་ཚོགས་པ་དེ་དག་ཀྱང་། ། བསྐྱེད་པར་བྱ་ཞེས་སེམས་པ་མེད། ། དེས་བསྐྱེད་དེ་ཡང་བདག་བསྐྱེད་ཅེས། ། སེམས་པ་ཡོད་པ་མ་ཡིན་ནོ། །",
+  "academic_translation": "Even those assembled conditions\nHave no intention, \"I shall produce,\"\nAnd that which is produced by them\nHas no intention, \"I am produced.\"",
+  "locked_terms": [
+   {
+    "tibetan": "རྐྱེན",
+    "use": "circumstance"
+   }
+  ],
+  "translation": "Even those circumstances that come together do not think, \"I will make this happen.\" And the thing they make does not think, \"I am being made.\""
+ },
+ {
+  "id": "6-27",
+  "tibetan": "གཙོ་བོ་ཞེས་བྱར་གང་འདོད་དང་། ། བདག་ཅེས་བརྟགས་པ་གང་ཡིན་པ། ། དེ་ཉིད་བདག་ནི་འབྱུང་བྱ་ཞེས། ། ཆེད་དུ་བསམས་ཤིང་འབྱུང་བ་མེད། །",
+  "academic_translation": "Whatever is asserted as \"Pradhāna,\"\nAnd whatever is imputed as the \"self,\"\nDo not arise by purposefully thinking,\n\"I shall come into being.\"",
+  "locked_terms": [
+   {
+    "tibetan": "གཙོ་བོ",
+    "use": "Primal Matter"
+   },
+   {
+    "tibetan": "བདག",
+    "use": "self"
+   }
+  ],
+  "translation": "Whatever people call Primal Matter, and whatever people call the self, do not decide to exist. They do not think, \"I will come to be.\""
+ },
+ {
+  "id": "6-28",
+  "tibetan": "མ་སྐྱེས་པར་ནི་དེ་མེད་ན། ། དེ་ཚེ་སྐྱེ་བར་འདོད་པ་གང་། ། ཡུལ་ལ་རྟག་ཏུ་གཡེང་འགྱུར་བ། ། འགག་པར་འགྱུར་བའང་མ་ཡིན་ནོ། །",
+  "academic_translation": "If it does not exist when unarisen,\nAt that time, what wishes to arise?\nSince it would constantly be distracted by sense objects,\nIt would also never cease.",
+  "locked_terms": [
+   {
+    "tibetan": "ཡུལ",
+    "use": "thing we sense"
+   }
+  ],
+  "translation": "If it does not exist before it begins, what could wish to exist? Because it would always be busy with things we sense, it could never stop."
+ },
+ {
+  "id": "6-29",
+  "tibetan": "ཅི་སྟེ་བདག་དེ་རྟག་ན་ནི། ། མཁའ་བཞིན་བྱེད་པ་མེད་པར་མངོན། ། རྐྱེན་རྣམས་གཞན་དང་ཕྲད་ན་ཡང་། ། འགྱུར་བ་མེད་ལ་ཅི་བྱར་ཡོད། །",
+  "academic_translation": "If that self is permanent,\nIt is evidently inactive, like space.\nEven if it encounters other conditions,\nWhat can be done to the unchanging?",
+  "locked_terms": [
+   {
+    "tibetan": "བདག",
+    "use": "self"
+   },
+   {
+    "tibetan": "རྟག",
+    "use": "lasting forever"
+   },
+   {
+    "tibetan": "མཁའ",
+    "use": "space"
+   },
+   {
+    "tibetan": "རྐྱེན",
+    "use": "circumstance"
+   }
+  ],
+  "translation": "If that self is lasting forever, it clearly does nothing, just like space. Even if it meets other circumstances, what can change something that never changes?"
+ },
+ {
+  "id": "6-30",
+  "tibetan": "བྱེད་པའི་ཚེ་ཡང་སྔོན་བཞིན་ན། ། བྱེད་པས་དེ་ལ་ཅི་ཞིག་བྱས། ། དེ་ཡི་བྱེད་པ་འདི་ཡིན་ཞེས། ། འབྲེལ་པར་འགྱུར་བ་གང་ཞིག་ཡོད། །",
+  "academic_translation": "If, even at the time of acting, it remains as before,\nWhat has the action done to it?\nWhat connection could there be\nBy which one could say, \"This is its action\"?",
+  "locked_terms": [],
+  "translation": "If something stays exactly the same while it acts, what did the action do to it? What connection could there be? How could anyone say, \"This is its action\"?"
+ },
+ {
+  "id": "6-31",
+  "tibetan": "དེ་ལྟར་ཐམས་ཅད་གཞན་གྱི་དབང་། ། དེ་ཡི་དབང་གིས་དེ་དབང་མེད། ། དེ་ལྟར་ཤེས་ན་སྦྲུལ་ལྟ་བུའི། ། དངོས་པོ་ཀུན་ལ་ཁྲོ་མི་འགྱུར། །",
+  "academic_translation": "Thus, everything is under the power of others,\nAnd through that power, it is powerless.\nKnowing this, one will not become angry\nAt any entities, which are like emanations.",
+  "locked_terms": [
+   {
+    "tibetan": "དངོས་པོ",
+    "use": "thing"
+   }
+  ],
+  "translation": "So, everything is controlled by other forces. Because of this power, everything is powerless. Knowing this, I will not get angry at any things. They are just like magic illusions."
+ },
+ {
+  "id": "6-32",
+  "tibetan": "གང་གིས་གང་ཞིག་བཟློག་བྱ་སྟེ། ། བཟློག་པའང་རིགས་པ་མིན་ཞེ་ན། ། དེ་ལ་བརྟེན་ནས་སྡུག་བསྔལ་རྣམས། ། རྒྱུན་ཆད་འགྱུར་འདོད་མི་རིགས་མེད། །",
+  "academic_translation": "If you object, \"By what is what to be prevented?\nEven preventing is unreasonable!\"\nIn dependence upon that, it is not unreasonable\nTo wish for sufferings to be severed.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "Someone might ask, \"What can stop what? Even stopping things makes no sense!\" But because things depend on each other, it does make sense. It is not wrong to wish for sufferings to be cut away."
+ },
+ {
+  "id": "6-33",
+  "tibetan": "དེ་བས་དགྲའམ་མཛའ་ཡང་རུང་། ། མི་རིགས་བྱེད་པ་མཐོང་གྱུར་ན། ། འདི་འདྲའི་རྐྱེན་ལས་གྱུར་ཏོ་ཞེས། ། དེ་ལྟར་སོམས་ཏེ་བདེ་བར་མནོས། །",
+  "academic_translation": "Therefore, whether it is an enemy or a friend,\nIf you see them doing what is improper,\nThinking, \"This has arisen from such conditions,\"\nReflect in this way and remain at ease.",
+  "locked_terms": [
+   {
+    "tibetan": "རྐྱེན",
+    "use": "circumstance"
+   }
+  ],
+  "translation": "Therefore, whether it is an enemy or a friend, if I see them doing something wrong, I will think, \"This has come from these circumstances.\" I will think this way and stay at ease."
+ },
+ {
+  "id": "6-34",
+  "tibetan": "གལ་ཏེ་རང་དགས་འགྲུབ་འགྱུར་ན། ། འགའ་ཡང་སྡུག་བསྔལ་མི་འདོད་པས། ། ལུས་ཅན་དག་ནི་ཐམས་ཅད་ཀྱང་། ། སུ་ལའང་སྡུག་བསྔལ་འབྱུང་མི་འགྱུར། །",
+  "academic_translation": "If things were accomplished by their own will,\nSince no one desires suffering,\nFor all embodied beings,\nSuffering would not arise for anyone.",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "ལུས་ཅན",
+    "use": "being with a body"
+   }
+  ],
+  "translation": "If things happened just by their own choice, suffering would never happen to anyone. Since no one wants suffering, it would never arise for any beings with a body."
+ },
+ {
+  "id": "6-35",
+  "tibetan": "བག་མེད་པས་ནི་བདག་ལའང་བདག ། ཚེར་མ་ལ་སོགས་གནོད་པ་བྱེད། ། བུད་མེད་ལ་སོགས་ཐོབ་བྱའི་ཕྱིར། ། རྔམ་ཞིང་ཟས་གཅོད་ལ་སོགས་བྱེད། །",
+  "academic_translation": "Through heedlessness, they even harm themselves\nWith thorns and so forth;\nIn order to obtain women and the like,\nThey grow vehement and engage in fasting and so forth.",
+  "locked_terms": [
+   {
+    "tibetan": "བག་མེད་པ",
+    "use": "carelessness"
+   },
+   {
+    "tibetan": "ཟས་གཅོད",
+    "use": "going without food"
+   }
+  ],
+  "translation": "Through carelessness, people even hurt themselves with thorns and other things. To get women and other things they want, they get very worked up and start going without food."
+ },
+ {
+  "id": "6-36",
+  "tibetan": "ཁ་ཅིག་འགག་ཅིང་གཡང་སར་མཆོང་། ། དུག་དང་མི་འཕྲོད་ཟ་བ་དང་། ། བསོད་ནམས་མ་ཡིན་སྤྱོད་པ་ཡིས། ། རང་ལ་གནོད་པ་བྱེད་པ་ཡོད། །",
+  "academic_translation": "Some hang themselves or leap from cliffs,\nEat poison and unwholesome food,\nAnd through non-meritorious conduct,\nBring harm upon themselves.",
+  "locked_terms": [
+   {
+    "tibetan": "བསོད་ནམས་མ་ཡིན་སྤྱོད་པ",
+    "use": "way of acting that builds no store of goodness"
+   }
+  ],
+  "translation": "Some people hang themselves or jump off cliffs. They eat poison and bad food. They bring harm to themselves through a way of acting that builds no store of goodness."
+ },
+ {
+  "id": "6-37",
+  "tibetan": "གང་ཚེ་ཉོན་མོངས་དབང་གྱུར་པས། ། བདག་སྡུག་ཉིད་ཀྱང་གསོད་བྱེད་པ། ། དེ་ཚེ་དེ་དག་གཞན་ལུས་ལ། ། གནོད་མི་བྱེད་པར་ཇི་ལྟར་འགྱུར། །",
+  "academic_translation": "When, under the power of afflictions,\nThey even kill their beloved selves,\nAt that time, how could they not cause harm\nTo the bodies of others?",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   }
+  ],
+  "translation": "When people are controlled by a troubling emotion, they might even kill themselves. If they can hurt themselves like this, how could they not hurt others?"
+ },
+ {
+  "id": "6-38",
+  "tibetan": "ཉོན་མོངས་སྐྱེས་པས་དེ་ལྟ་བུར། ། བདག་གསོད་ལ་སོགས་ཞུགས་པ་ལ། ། སྙིང་རྗེ་རྒྱ་ལ་མ་སྐྱེས་ན། ། ཁྲོ་བར་འགྱུར་བ་ཅིའི་ཐ་ཚིག །",
+  "academic_translation": "For those who, through the arising of afflictions,\nEngage in such acts as killing themselves,\nIf compassion does not even arise,\nWhat sense is there in anger?",
+  "locked_terms": [
+   {
+    "tibetan": "ཉོན་མོངས",
+    "use": "troubling emotion"
+   },
+   {
+    "tibetan": "སྙིང་རྗེ",
+    "use": "compassion"
+   },
+   {
+    "tibetan": "ཁྲོ་བ",
+    "use": "anger"
+   }
+  ],
+  "translation": "A troubling emotion can make people do terrible things like killing themselves. If compassion does not even arise for them, what sense is there in anger?"
+ },
+ {
+  "id": "6-39",
+  "tibetan": "གལ་ཏེ་གཞན་ལ་འཚེ་བྱེད་པ། ། བྱིས་པ་རྣམས་ཀྱི་རང་བཞིན་ནི། ། དེ་ལ་ཁྲོ་བ་མི་རིགས་ཏེ། ། སྲེག་པའི་རང་བཞིན་མེ་བཀོན་འདྲ། །",
+  "academic_translation": "If causing harm to others\nIs the nature of childish ones,\nIt is inappropriate to feel anger toward them,\nLike resenting fire for its nature to burn.",
+  "locked_terms": [
+   {
+    "tibetan": "བྱིས་པ",
+    "use": "childish person"
+   },
+   {
+    "tibetan": "ཁྲོ་བ",
+    "use": "anger"
+   },
+   {
+    "tibetan": "རང་བཞིན",
+    "use": "nature"
+   }
+  ],
+  "translation": "If hurting others is just the nature of a childish person, it is wrong to feel anger toward them. That would be like being mad at fire because its nature is to burn."
+ },
+ {
+  "id": "6-40",
+  "tibetan": "འོན་ཏེ་སྐྱོན་དེ་གློ་བུར་ལ། ། སེམས་ཅན་རང་བཞིན་དེས་པ་ནའང་། ། འོ་ནའང་ཁྲོ་བར་མི་རིགས་ཏེ། ། མཁའ་ལ་དུད་འཐུལ་དཀོན་པ་བཞིན། །",
+  "academic_translation": "Alternatively, if this fault is adventitious,\nAnd the nature of sentient beings is gentle,\nEven then it is inappropriate to feel anger,\nLike resenting the sky when smoke rises within it.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   },
+   {
+    "tibetan": "གློ་བུར",
+    "use": "temporary"
+   },
+   {
+    "tibetan": "ཁྲོ་བ",
+    "use": "anger"
+   },
+   {
+    "tibetan": "རང་བཞིན",
+    "use": "nature"
+   }
+  ],
+  "translation": "Or what if this bad behavior is only temporary, and the nature of living beings is gentle? Even then, it is wrong to feel anger. That would be like being mad at the sky just because smoke rises in it."
+ },
+ {
+  "id": "6-41",
+  "tibetan": "དབྱུག་པ་ལ་སོགས་དངོས་བཀོལ་ཏེ། ། གལ་ཏེ་འཕེན་པ་ལ་ཁྲོ་ན། ། དེ་ཡང་ཞེ་སྡང་གིས་རྦད་པས། ། ཉིས་ན་ཞེ་སྡང་ལ་ཁྲོ་རིགས། །",
+  "academic_translation": "Having employed sticks and the like as the actual instruments,\nif one feels anger at the one who throws them,\nsince he too is driven by hatred,\nthen, in the second place, it is fitting to feel anger at hatred.",
+  "locked_terms": [
+   {
+    "tibetan": "ཞེ་སྡང",
+    "use": "hatred"
+   },
+   {
+    "tibetan": "ཁྲོ",
+    "use": "anger"
+   }
+  ],
+  "translation": "Someone might hit me with a stick. If I feel anger at the person swinging it, I must remember they are driven by hatred. It makes more sense to feel anger at hatred itself."
+ },
+ {
+  "id": "6-42",
+  "tibetan": "བདག་གིས་སྔོན་ཆད་སེམས་ཅན་ལ། ། འདི་འདྲ་བ་ཡི་གནོད་པ་བྱས། ། དེ་བས་སེམས་ཅན་འཚེ་བྱེད་པ། ། བདག་ལ་གནོད་པ་འདི་འབྱུང་རིགས། །",
+  "academic_translation": "In the past, to sentient beings,\nI inflicted harm such as this;\nTherefore, upon me, a harmer of sentient beings,\nIt is fitting that this harm should arise.",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས་ཅན",
+    "use": "living being"
+   }
+  ],
+  "translation": "In the past, I hurt living beings like this. Because I harmed living beings, it is only right that I get hurt now."
+ },
+ {
+  "id": "6-43",
+  "tibetan": "དེ་ཡི་མཚོན་དང་བདག་གི་ལུས། ། གཉི་ག་སྡུག་བསྔལ་རྒྱུ་ཡིན་ཏེ། ། དེས་མཚོན་བདག་གི་ལུས་ཕྱུང་ན། ། གང་ཞིག་ལ་ནི་ཁྲོ་བར་བྱ། །",
+  "academic_translation": "His weapon and my body,\nboth are causes of suffering;\nsince he has drawn the weapon and I have taken up the body,\nat whom should I direct my anger?",
+  "locked_terms": [
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "ཁྲོ་བ",
+    "use": "anger"
+   },
+   {
+    "tibetan": "རྒྱུ",
+    "use": "cause"
+   }
+  ],
+  "translation": "His weapon and my body are both causes of suffering. He brought the weapon, and I brought my body. So who should get my anger?"
+ },
+ {
+  "id": "6-44",
+  "tibetan": "ཤུ་བ་མི་ཡི་གཟུགས་འདྲ་བ། ། རེག་ཏུ་མི་བཟོད་སྡུག་བསྔལ་ཅན། ། སྲེད་མདོངས་བདག་གིས་བཟུང་གྱུར་ན། ། དེ་ལ་གནོད་པ་སུ་ལ་ཁྲོ། །",
+  "academic_translation": "Like a human-shaped abscess,\nFull of suffering, unable to bear being touched,\nSince I, blinded by craving, have grasped it,\nWhen it is harmed, at whom should I direct my anger?",
+  "locked_terms": [
+   {
+    "tibetan": "སྲེད",
+    "use": "wanting"
+   },
+   {
+    "tibetan": "ཁྲོ",
+    "use": "anger"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   }
+  ],
+  "translation": "This body is like a painful sore shaped like a person. It is full of suffering and hurts to touch. Blinded by wanting, I held onto it. When it gets hurt, who should get my anger?"
+ },
+ {
+  "id": "6-45",
+  "tibetan": "བྱིས་པ་སྡུག་བསྔལ་མི་འདོད་ཅིང་། ། སྡུག་བསྔལ་རྒྱུ་ལ་བརྐམ་པས་ན། ། རང་གི་ཉེས་པས་གནོད་གྱུར་པ། ། གཞན་ལ་བཀོན་དུ་ཅི་ཞིག་ཡོད། །",
+  "academic_translation": "Childish ones do not desire suffering,\nyet they crave the causes of suffering;\nwhen harmed by their own faults,\nwhat grounds are there to blame others?",
+  "locked_terms": [
+   {
+    "tibetan": "བྱིས་པ",
+    "use": "childish person"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "རྒྱུ",
+    "use": "cause"
+   }
+  ],
+  "translation": "A childish person does not want suffering. But they still want the causes of suffering. When they are hurt by their own mistakes, why should they blame others?"
+ },
+ {
+  "id": "6-46",
+  "tibetan": "དཔེར་ན་དམྱལ་བའི་སྲུང་མ་དང་། ། རལ་གྲི་ལོ་མའི་ནགས་ཚལ་ལྟར། ། རང་གི་ལས་ཀྱིས་འདི་བསྐྱེད་པ། ། གང་ཞིག་ལ་ནི་ཁྲོ་བར་བྱ། །",
+  "academic_translation": "For example, like hell guardians,\nAnd the forest of sword-leaves,\nSince this is produced by my own karma,\nAt whom should I direct my anger?",
+  "locked_terms": [
+   {
+    "tibetan": "དམྱལ་བའི་སྲུང་མ",
+    "use": "hell guardian"
+   },
+   {
+    "tibetan": "རལ་གྲི་ལོ་མའི་ནགས་ཚལ",
+    "use": "forest of sword leaves"
+   },
+   {
+    "tibetan": "ལས",
+    "use": "action"
+   },
+   {
+    "tibetan": "ཁྲོ་བ",
+    "use": "anger"
+   }
+  ],
+  "translation": "Think of the hell guardians and the forest of sword leaves. My own actions made them appear. So who should get my anger?"
+ },
+ {
+  "id": "6-47",
+  "tibetan": "བདག་གི་ལས་ཀྱིས་བསྐུལ་བྱས་ནས། ། བདག་ལ་གནོད་བྱེད་རྣམས་འབྱུང་སྟེ། ། དེས་ནི་སེམས་ཅན་དམྱལ་འདོང་ན། ། བདག་གིས་དེ་དག་མ་བརླག་གམ། །",
+  "academic_translation": "Impelled by my own karma,\nThose who harm me appear;\nIf because of this those beings go to hell,\nHave I not ruined them?",
+  "locked_terms": [
+   {
+    "tibetan": "ལས",
+    "use": "action"
+   }
+  ],
+  "translation": "Pushed by my own actions, people appear and hurt me. If doing this makes them go to hell, haven't I ruined them?"
+ },
+ {
+  "id": "6-48",
+  "tibetan": "འདི་དག་ལ་ནི་རྟེན་བཅས་ནས། ། བཟོད་པས་བདག་སྡིག་མང་དུ་འབྱུང་། ། བདག་ལ་བརྟེན་ནས་དེ་དག་ནི། ། ཡུན་རིང་སྡུག་བསྔལ་དམྱལ་བར་འདོང་། །",
+  "academic_translation": "By relying upon them,\nThrough patience my many misdeeds are purified;\nBut by relying upon me, they\nGo to the hells of long-lasting suffering.",
+  "locked_terms": [
+   {
+    "tibetan": "བཟོད་པ",
+    "use": "patience"
+   },
+   {
+    "tibetan": "སྡིག",
+    "use": "harmful deed"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "དམྱལ་བ",
+    "use": "hell"
+   }
+  ],
+  "translation": "Because of them, I practice patience. This wipes away my many harmful deeds. But because of me, they go to the hells. They face long-lasting suffering there."
+ },
+ {
+  "id": "6-49",
+  "tibetan": "བདག་ནི་དེ་ལ་གནོད་བྱེད་ལ། ། དེ་དག་བདག་ལ་ཕན་འདོགས་ན། ། ཕྱིན་ཅི་ལོག་ཏུ་ཅི་ཡི་ཕྱིར། ། མ་རུངས་སེམས་ཁྱོད་ཁྲོ་བར་བྱེད། །",
+  "academic_translation": "I am the one who harms them,\nWhile they are the ones who benefit me;\nWhy, out of perversity,\nO wicked mind, do you give rise to anger?",
+  "locked_terms": [
+   {
+    "tibetan": "ཁྲོ་བ",
+    "use": "anger"
+   },
+   {
+    "tibetan": "ཕྱིན་ཅི་ལོག",
+    "use": "mistaken way"
+   },
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   }
+  ],
+  "translation": "I am the one who harms them. They are the ones who help me. O wicked mind, why do you act in such a mistaken way? Why do you create anger?"
+ },
+ {
+  "id": "6-50",
+  "tibetan": "གལ་ཏེ་བདག་ལ་བསམ་པ་ཡི། ། ཡོན་ཏན་ཡོད་ན་དམྱལ་མི་འགྲོ། ། གལ་ཏེ་བདག་གིས་བདག་བསྲུངས་ན། ། དེ་དག་ལ་འདིར་ཅི་ཞིག་བྱུང་། །",
+  "academic_translation": "If I possess the intention's\nGood quality, I will not go to hell;\nIf I protect myself,\nWhat will happen to them here?",
+  "locked_terms": [
+   {
+    "tibetan": "ཡོན་ཏན",
+    "use": "good quality"
+   },
+   {
+    "tibetan": "དམྱལ",
+    "use": "hell"
+   },
+   {
+    "tibetan": "བསམ་པ",
+    "use": "intention"
+   }
+  ],
+  "translation": "If my intention has a good quality, I will not go to hell. But if I just protect myself, what will happen to them?"
+ },
+ {
+  "id": "6-51",
+  "tibetan": "འོན་ཏེ་ལན་དུ་གནོད་བྱས་ན། ། དེ་དག་བསྲུངས་པར་མ་གྱུར་ལ། ། བདག་གི་སྤྱོད་པའང་ཉམས་པར་འགྱུར། ། དེས་ན་དཀའ་ཐུབ་ཞིག་པར་འགྱུར། །",
+  "academic_translation": "But if I cause harm in return,\nThey will not be protected,\nAnd my conduct will also decline;\nThus my austerity will be destroyed.",
+  "locked_terms": [
+   {
+    "tibetan": "དཀའ་ཐུབ",
+    "use": "hard practice"
+   },
+   {
+    "tibetan": "སྤྱོད་པ",
+    "use": "way of acting"
+   }
+  ],
+  "translation": "If I harm them back, they will not be safe. My good way of acting will get worse. Then my hard practice will be ruined."
+ },
+ {
+  "id": "6-52",
+  "tibetan": "ཡིད་ནི་ལུས་ཅན་མ་ཡིན་པས། ། སུས་ཀྱང་གང་དུའང་གཞོམ་མི་ནུས། ། ལུས་ལ་མངོན་པར་ཞེན་པས་ན། ། ལུས་ནི་སྡུག་བསྔལ་དག་གིས་གནོད། །",
+  "academic_translation": "Because the mind is not an embodied being,\nNo one can destroy it anywhere;\nDue to fixation on the body,\nThe body is harmed by sufferings.",
+  "locked_terms": [
+   {
+    "tibetan": "ཡིད",
+    "use": "mind"
+   },
+   {
+    "tibetan": "མངོན་པར་ཞེན་པ",
+    "use": "holding on tightly"
+   },
+   {
+    "tibetan": "སྡུག་བསྔལ",
+    "use": "suffering"
+   },
+   {
+    "tibetan": "ལུས་ཅན",
+    "use": "being with a body"
+   }
+  ],
+  "translation": "The mind is not a being with a body. Because of this, no one can destroy it anywhere. But by holding on tightly to the body, the body is hurt by sufferings."
+ },
+ {
+  "id": "6-53",
+  "tibetan": "བརྙས་དང་ཚིག་རྩུབ་སྨྲ་བ་དང་། ། མི་སྙན་པ་ཡི་ཚིག་དེ་ཡིས། ། ལུས་ལ་གནོད་པར་མི་འགྱུར་ན། ། སེམས་ཁྱོད་ཅི་ཕྱིར་རབ་ཏུ་ཁྲོ། །",
+  "academic_translation": "Contempt, speaking harsh speech,\nAnd those unpleasant words—\nSince they do not harm the body,\nO mind, why do you react with intense anger?",
+  "locked_terms": [
+   {
+    "tibetan": "སེམས",
+    "use": "mind"
+   },
+   {
+    "tibetan": "ཁྲོ",
+    "use": "anger"
+   },
+   {
+    "tibetan": "ཚིག་རྩུབ",
+    "use": "harsh words"
+   }
+  ],
+  "translation": "Disrespect, harsh words, and unpleasant talk do not harm the body. O mind, why do you feel such strong anger?"
+ },
+ {
+  "id": "6-54",
+  "tibetan": "གཞན་དག་བདག་ལ་མི་དགའ་བ། ། དེས་ནི་ཚེ་འདིའམ་ཚེ་གཞན་ལ། ། བདག་ལ་ཟ་བར་མི་བྱེད་ན། ། བདག་ནི་ཅི་ཕྱིར་དེ་མི་འདོད། །",
+  "academic_translation": "If others' displeasure with me\nWill not consume me\nIn this life or some other life,\nWhy am I averse to it?",
+  "locked_terms": [
+   {
+    "tibetan": "ཚེ་འདི",
+    "use": "this life"
+   },
+   {
+    "tibetan": "ཚེ་གཞན",
+    "use": "another life"
+   }
+  ],
+  "translation": "If other people being upset with me will not destroy me in this life or another life, why do I dislike it?"
+ },
+ {
+  "id": "6-55",
+  "tibetan": "རྙེད་པའི་བར་ཆད་བྱེད་པའི་ཕྱིར། ། གལ་ཏེ་འདི་བདག་མི་འདོད་ན། ། བདག་གི་རྙེད་པ་འདིར་འདོར་གྱི། ། སྡིག་པ་དག་ནི་བརྟན་པར་གནས། །",
+  "academic_translation": "If I am averse to this\nBecause it creates an obstacle to gain,\nMy gain will be discarded here,\nBut my misdeeds will remain steadfast.",
+  "locked_terms": [
+   {
+    "tibetan": "རྙེད་པ",
+    "use": "gain"
+   },
+   {
+    "tibetan": "སྡིག་པ",
+    "use": "harmful deed"
+   },
+   {
+    "tibetan": "བར་ཆད",
+    "use": "something in the way"
+   }
+  ],
+  "translation": "If I dislike this because it puts something in the way of my gain, my gain will just be left behind here. But my harmful deeds will stay firmly with me."
+ },
+ {
+  "id": "6-56",
+  "tibetan": "བདག་ནི་དེང་ཉིད་ཤི་ཡང་བླའི། ། ལོག་འཚོས་ཡུན་རིང་གསོན་མི་རུང་། ། བདག་ལྟ་ཡུན་རིང་གནས་གྱུར་ཀྱང་། ། འཆི་བའི་སྡུག་བསྔལ་དེ་ཉིད་ཡིན། །",
+  "academic_translation": "It is better that I die this very day\nThan to live a long time through wrong livelihood;\nEven if I were to remain for a long time,\nThe suffering of death is exactly the same.",
+  "locked_terms": [
+   {
+    "tibetan": "ལོག་འཚོ",
+    "use": "wrong way to earn a living"
+   },
+   {
+    "tibetan": "འཆི་བའི་སྡུག་བསྔལ",
+    "use": "suffering of death"
+   }
+  ],
+  "translation": "It is better to die today than to live a long time through a wrong way to earn a living. Even if I stay alive for a long time, the suffering of death is exactly the same."
+ },
+ {
+  "id": "6-57",
+  "tibetan": "རྨི་ལམ་ལོ་བརྒྱར་བདེ་མྱོང་ནས། ། སད་པར་གྱུར་པ་གང་ཡིན་དང་། ། གཞན་ཞིག་ཡུད་ཙམ་བདེ་མྱོང་ནས། ། སད་པར་གྱུར་པ་གང་ཡིན་པ། །",
+  "academic_translation": "Whoever awakens\nAfter experiencing happiness in a dream for a hundred years,\nAnd another who awakens\nAfter experiencing happiness for just an instant—",
+  "locked_terms": [
+   {
+    "tibetan": "བདེ",
+    "use": "happiness"
+   }
+  ],
+  "translation": "Think of a person who wakes up after enjoying happiness in a dream for a hundred years. Think of another person who wakes up after enjoying happiness for just one moment."
+ },
+ {
+  "id": "6-58",
+  "tibetan": "སད་པ་དེ་དག་གཉི་ག་ལའང་། ། བདེ་བ་དེ་ནི་ཕྱིར་འོང་མེད། ། ཚེ་རིང་ཚེ་ཐུང་གཉི་ག་ཡང་། ། འཆི་བའི་དུས་སུ་དེ་འདྲར་ཟད། །",
+  "academic_translation": "For both of those who awaken,\nThat happiness does not return;\nFor both a long life and a short life,\nAt the time of death, it is exactly the same.",
+  "locked_terms": [
+   {
+    "tibetan": "བདེ་བ",
+    "use": "happiness"
+   },
+   {
+    "tibetan": "འཆི་བ",
+    "use": "death"
+   }
+  ],
+  "translation": "For both of the people who wake up, that happiness does not return. For both a long life and a short life, it is exactly the same at the time of death."
+ },
+ {
+  "id": "6-59",
+  "tibetan": "རྙེད་པ་མང་པོ་ཐོབ་གྱུར་ཏེ། ། ཡུན་རིང་དུས་སུ་བདེ་སྤྱད་ཀྱང་། ། ཆོམ་པོས་ཕྲོགས་པ་ཇི་བཞིན་དུ། ། སྒྲེན་མོ་ལག་པ་སྟོང་པར་འགྲོ། །",
+  "academic_translation": "Even if I acquire abundant gain,\nAnd enjoy happiness for a long time,\nJust like someone robbed by a thief,\nI will depart naked and empty-handed.",
+  "locked_terms": [
+   {
+    "tibetan": "རྙེད་པ",
+    "use": "gain"
+   },
+   {
+    "tibetan": "བདེ",
+    "use": "happiness"
+   }
+  ],
+  "translation": "Even if I get a lot of gain and enjoy happiness for a long time, I will leave naked and empty-handed. I will be just like someone robbed by a thief."
+ },
+ {
+  "id": "6-60",
+  "tibetan": "གལ་ཏེ་རྙེད་པས་གསོན་གྱུར་ན། ། སྡིག་ཟད་བསོད་ནམས་བྱ་ཞེ་ན། ། རྙེད་པའི་དོན་དུ་ཁྲོས་གྱུར་ན། ། བསོད་ནམས་ཟད་སྡིག་མི་འགྱུར་རམ། །",
+  "academic_translation": "If I say, \"By surviving on gain,\nI will exhaust misdeeds and create merit,\"\nIf I feel anger for the sake of gain,\nWill merit not be exhausted and misdeeds arise?",
+  "locked_terms": [
+   {
+    "tibetan": "རྙེད་པ",
+    "use": "gain"
+   },
+   {
+    "tibetan": "སྡིག",
+    "use": "harmful deed"
+   },
+   {
+    "tibetan": "བསོད་ནམས",
+    "use": "store of goodness"
+   },
+   {
+    "tibetan": "ཁྲོས",
+    "use": "anger"
+   }
+  ],
+  "translation": "I might say, \"By staying alive through gain, I will wipe out harmful deeds and build a store of goodness.\" But if I feel anger to get that gain, won't my store of goodness run out? Won't more harmful deeds happen?"
+ },
+ {
+  "id": "6-61",
+  "tibetan": "གང་གི་དོན་དུ་བདག་གསོན་པ། ། དེ་ཉིད་གལ་ཏེ་ཉམས་གྱུར་ན། ། སྡིག་པ་འབའ་ཞིག་བྱེད་པ་ཡི། ། གསོན་པ་དེས་ཀོ་ཅི་ཞིག་བྱ། །",
+  "academic_translation": "The very purpose for which I live—\nIf it is itself destroyed,\nWhat is the use of that life\nThat commits only misdeeds?",
+  "locked_terms": [
+   {
+    "tibetan": "སྡིག་པ",
+    "use": "harmful deed"
+   }
+  ],
+  "translation": "If the very reason I live is destroyed, what is the point of living? What good is a life that only does harmful deeds?"
+ }
+]

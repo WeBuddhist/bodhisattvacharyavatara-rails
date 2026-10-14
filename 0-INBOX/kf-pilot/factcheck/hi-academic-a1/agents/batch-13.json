@@ -1,0 +1,113 @@
+{
+ "batch": "batch-13",
+ "segments": [
+  {
+   "id": "5-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-61",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "सड़ते हुए की रक्षा करके क्या लाभ?",
+     "evidence": "Tibetan 'རུལ་བ་བསྲུངས་ཏེ་ཅི་ཞིག་རུང་' ('rul ba' = rotten, putrid thing; Sanskrit pūtikam) takes 'rul ba' as the object of guarding. The Hindi 'इस यन्त्र की, सड़ते हुए की रक्षा करके' has two stacked genitive objects and a progressive participle, which is awkward and slightly shifts 'rotten' to 'rotting'.",
+     "fix": "इस सड़ी हुई वस्तु की रक्षा करके क्या लाभ?"
+    }
+   ]
+  },
+  {
+   "id": "5-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-64",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-66",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-67",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-68",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-69",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-70",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-71",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

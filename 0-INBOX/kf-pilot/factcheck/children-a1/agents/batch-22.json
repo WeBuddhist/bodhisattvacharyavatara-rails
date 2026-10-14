@@ -1,0 +1,253 @@
+{
+ "batch": "batch-22",
+ "segments": [
+  {
+   "id": "9-145",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-146",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "Even millions of causes",
+     "evidence": "Tibetan/academic: hundreds of millions of causes (བྱེ་བ་བརྒྱ་ཕྲག); the number is scaled down.",
+     "fix": "Even hundreds of millions of causes cannot change a non-existent thing."
+    }
+   ]
+  },
+  {
+   "id": "9-147",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-148",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-149",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "all these beings are always never born and never ending",
+     "evidence": "Double adverb/negation is tangled for ages 8-12; academic: always unborn and unceasing.",
+     "fix": "Therefore all these beings are always never born and never ending."
+    }
+   ]
+  },
+  {
+   "id": "9-150",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-151",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-152",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-153",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-154",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "find causes for fighting and excitement",
+     "evidence": "Academic: those who desire happiness for themselves, through causes of conflict and excitement, (next verse) become greatly agitated and delighted; the causes act on them, they do not 'find' them.",
+     "fix": "People who want happiness only for themselves are stirred up by fighting and excitement"
+    }
+   ]
+  },
+  {
+   "id": "9-155",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-156",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-157",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "There, what is not the way things really are is like this. Because things clash with each other there, in life there is no such thing as the way things really are.",
+     "evidence": "Tangled, abstract sentences; academic: what is not reality is like this; because of mutual contradiction there, there is no such reality in existence.",
+     "fix": "Life has many steep cliffs, and what is false looks like this. Because things clash with each other, there is no true way things really are in life."
+    }
+   ]
+  },
+  {
+   "id": "9-158",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "Academic: 'incomparable' (དཔེ་མེད) ocean of suffering is lost; 'huge' replaces it.",
+     "fix": "In that place, the ocean of suffering has nothing to compare with it, is too hard to bear, and has no edge."
+    }
+   ]
+  },
+  {
+   "id": "9-159",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-160",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-161",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-162",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-163",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-164",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-165",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-166",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-167",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "10-15",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "—",
+     "evidence": "Academic: the bodhisattvas' clouds are 'unobstructed' (སྒྲིབ་པ་མེད); this is dropped.",
+     "fix": "These heroes bring happy clouds that nothing blocks, and let a cool, sweet-smelling rain fall."
+    }
+   ]
+  },
+  {
+   "id": "10-16",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

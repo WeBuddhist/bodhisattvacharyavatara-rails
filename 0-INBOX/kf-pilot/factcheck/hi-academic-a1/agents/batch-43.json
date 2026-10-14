@@ -1,0 +1,129 @@
+{
+ "batch": "batch-43",
+ "segments": [
+  {
+   "id": "9-145",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-146",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-147",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-148",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-149",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-150",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "सदृश हैं。",
+     "evidence": "Line 2 ends with the CJK full stop '。' instead of the Devanagari danda; the Tibetan line 'རྣམ་པར་དཔྱད་ན་ཆུ་ཤིང་འདྲ། །' is otherwise rendered correctly.",
+     "fix": "सदृश हैं।"
+    }
+   ]
+  },
+  {
+   "id": "9-151",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-152",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-153",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-154",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-155",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-156",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-157",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-158",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-159",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "हिंसा",
+     "evidence": "Tibetan 'འཚེ' (Sanskrit upadrava) is harm/affliction generally; bo-kunpal 9-159 glosses it as 'ཕྱི་ནང་གི་ཉེར་འཚེ་སྣ་ཚོགས' (various outer and inner troubles) and bo-shenga as being harmed by others. 'हिंसा' (violence) narrows it.",
+     "fix": "उपद्रव"
+    }
+   ]
+  },
+  {
+   "id": "9-160",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-161",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-162",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-163",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-164",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "जैसे कोई बार-बार स्नान, / करके बार-बार अग्नि में प्रवेश करते हैं",
+     "evidence": "Tibetan 'འགའ་ཞིག' ('some', plural) with 'ཡང་ཡང་ཁྲུས། བྱས་ཏེ་ཡང་ཡང་མེར་འཇུག་པ' (bathing again and again, then entering fire again and again). Hindi has singular 'कोई' with plural verbs 'करते हैं/मानते हैं' and a stray comma splitting 'स्नान' from 'करके'.",
+     "fix": "जैसे कुछ लोग बार-बार स्नान करके / बार-बार अग्नि में प्रवेश करते हैं"
+    }
+   ]
+  }
+ ]
+}

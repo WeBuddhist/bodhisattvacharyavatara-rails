@@ -1,0 +1,435 @@
+{
+ "segments": [
+  {
+   "id": "7-48",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "And other actions will be left undone Or else will bear a meager fruit.",
+      "explanation": "Conflates 'other actions' and the 'former action', omits 'time of the result', and mistranslates 'inferior'."
+     }
+    ],
+    "B": [],
+    "C": [],
+    "D": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "Furthermore,",
+      "explanation": "Mistranslates 'གཞན་' (other [deeds]) as an adverb 'Furthermore', omitting the reference to other deeds."
+     }
+    ]
+   }
+  },
+  {
+   "id": "7-66",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "8-2",
+   "candidates": {
+    "A": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "mental wandering",
+      "explanation": "Translates 'རྣམ་པར་རྟོག་པ་' (discursive thought), conflating it with distraction (རྣམ་པར་གཡེང་བ་)."
+     }
+    ],
+    "B": [
+     {
+      "category": "terminology",
+      "severity": "major",
+      "span": "Complete distraction",
+      "explanation": "Misinterprets the prefix 'རྣམ་པར་' (vi-) in 'རྣམ་པར་གཡེང་བ་' (distraction) as the adjective 'Complete'."
+     }
+    ],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "8-42",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "are nothing but",
+      "explanation": "Omits the conditional 'ན་' (if)."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "Of what in truth is nothing but a heap of bones",
+      "explanation": "Omits the conditional 'ན་' (if) and loosely translates 'ཀེང་རུས་' (skeleton) as 'heap of bones'."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "Is this the only object of desire and lust? Sooner pass beyond all suffering and grief!",
+      "explanation": "Significantly distorts the source syntax and mistranslates 'ཅི་ཕྱིར་མྱ་ངན་འདས་མི་འགྲོ།' (why do you not go to nirvana?)."
+     }
+    ],
+    "D": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "Are nothing but",
+      "explanation": "Omits the conditional 'ན་' (if)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-50",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "your need is no more there",
+      "explanation": "Inaccurately introduces a temporal change ('no more there') for 'དགོས་པ་མེད་ན་' (if there is no need)."
+     }
+    ],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "8-76",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "craving for a livelihood",
+      "explanation": "Incorrectly merges 'འདོད་པས་' (by sensual desire) and 'འཚོ་འདོད་' (wishing to make a living), mistranslating the former."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "Decide that they will make their fortune In the wars,",
+      "explanation": "Distorts the meaning; the Tibetan says they enter battle while thinking 'I will make a living'."
+     }
+    ],
+    "B": [],
+    "C": [],
+    "D": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits 'འཚོ་འདོད་' (wishing to make a living)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-112",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "now",
+      "explanation": "Adds 'now', which is not in the Tibetan source."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-135",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "—",
+      "explanation": "Omits 'དེ་ལྟས་' (Therefore/Thus)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "8-156",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "Embraced this work and",
+      "explanation": "Adds a synonymous phrase not present in the Tibetan 'ལས་འདི་བྱས་' (done this work)."
+     }
+    ],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "8-161",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": [
+     {
+      "category": "accuracy/omission",
+      "severity": "minor",
+      "span": "When",
+      "explanation": "Omits 'ཡང་' (Even) from 'གཞན་གྱིས་ཉེས་པ་བྱས་པ་ཡང་' (Even when others commit a fault)."
+     }
+    ]
+   }
+  },
+  {
+   "id": "9-16",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "these same",
+      "explanation": "Adds 'these same' and pluralizes 'illusion', which is singular and unmodified in the source."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "objects have another mode of being",
+      "explanation": "Translates 'gzhan yod' (there exists another [entity]) as 'another mode of being', missing the argument that the object is a different entity."
+     }
+    ]
+   }
+  },
+  {
+   "id": "9-39",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "Merit",
+      "explanation": "Translates 'bras bu (result) specifically as 'merit', which slightly narrows the term."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "When Buddhas are considered truly real.",
+      "explanation": "Translates 'toward a true Buddha' as a conditional clause about considering them real, shifting the meaning from ontology to epistemology."
+     }
+    ],
+    "C": [],
+    "D": [
+     {
+      "category": "accuracy/omission",
+      "severity": "major",
+      "span": "—",
+      "explanation": "Omits 'rung ste' (it is acceptable / suitable), missing the primary logical assertion of the clause."
+     }
+    ]
+   }
+  },
+  {
+   "id": "9-56",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "terrors, granted, will torment it.",
+      "explanation": "Translates 'one would fear anything' as 'terrors will torment it', reversing the subject and object of the fear."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "What is there left for fears to terrify?",
+      "explanation": "Translates 'who is it that is afraid?' as 'what is there left for fears to terrify?', again wrongly making fear the agent."
+     }
+    ],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "9-67",
+   "candidates": {
+    "A": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "different kinds of mind",
+      "explanation": "Translates 'bye brag' (particulars) exclusively as 'kinds of mind', illogically excluding the unconscious entities mentioned in the previous line."
+     }
+    ],
+    "B": [],
+    "C": [],
+    "D": []
+   }
+  },
+  {
+   "id": "9-96",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "Because a collection, too, lacks an entity,",
+      "explanation": "This is a dependent clause incorrectly punctuated as a standalone sentence, creating a fragment."
+     }
+    ],
+    "C": [
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "we have previously shown",
+      "explanation": "Translates a passive phrase ('as was analyzed') with an active 'we have shown', a minor stylistic shift."
+     }
+    ],
+    "D": []
+   }
+  },
+  {
+   "id": "9-113",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "have no true existence",
+      "explanation": "Translates 'med pa nyid' (do not exist) as 'have no true existence', introducing a slight philosophical shift."
+     }
+    ],
+    "D": []
+   }
+  },
+  {
+   "id": "9-152",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "fluency",
+      "severity": "minor",
+      "span": "what is there to displease, what is there to please",
+      "explanation": "The transitive verbs 'please' and 'displease' are used awkwardly without objects."
+     }
+    ],
+    "C": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "give me joy and pain",
+      "explanation": "Changes the states of being displeased/pleased into active verbs 'give joy and pain' and adds the pronoun 'me'."
+     }
+    ],
+    "D": []
+   }
+  },
+  {
+   "id": "9-161",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "them",
+      "explanation": "Adds a specific object pronoun 'them' not present in the Tibetan."
+     }
+    ],
+    "C": [],
+    "D": [
+     {
+      "category": "terminology",
+      "severity": "minor",
+      "span": "evil forces",
+      "explanation": "Translates the proper noun/specific entity 'Mara' (bdud) as generic 'evil forces'."
+     },
+     {
+      "category": "style",
+      "severity": "minor",
+      "span": "dissipate",
+      "explanation": "Translates 'brgal' (cross over) as 'dissipate', which is a slightly looser stylistic choice."
+     }
+    ]
+   }
+  },
+  {
+   "id": "10-22",
+   "candidates": {
+    "A": [],
+    "B": [],
+    "C": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "and now set free",
+      "explanation": "Redundant double translation for 'grol' (be freed/liberated)."
+     },
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "major",
+      "span": "help each other in kindness",
+      "explanation": "Translates 'minds be tender toward one another' as 'help each other', changing a mental state into a physical action."
+     }
+    ],
+    "D": []
+   }
+  },
+  {
+   "id": "10-49",
+   "candidates": {
+    "A": [],
+    "B": [
+     {
+      "category": "accuracy/mistranslation",
+      "severity": "minor",
+      "span": "others",
+      "explanation": "Translates 'gro' (wanderers/beings) as 'others', resulting in a minor semantic shift."
+     }
+    ],
+    "C": [],
+    "D": [
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "now",
+      "explanation": "Adds the time word 'now', which is absent in the source text."
+     },
+     {
+      "category": "accuracy/addition",
+      "severity": "minor",
+      "span": "high",
+      "explanation": "Adds the adjective 'high' to modify intention."
+     }
+    ]
+   }
+  }
+ ]
+}

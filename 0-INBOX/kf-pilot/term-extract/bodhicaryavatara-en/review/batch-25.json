@@ -1,0 +1,272 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "10-0",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-1",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-2",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-3",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-4",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-5",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-6",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-7",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-8",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-9",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-10",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "One-off simile, not a technical glossary term."
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ལྷ",
+      "reason": "Class of beings",
+      "dm": "celestial",
+      "gm": "gods"
+     }
+    ]
+   },
+   {
+    "id": "10-11",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-12",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-13",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བརྩེ་བ",
+      "reason": "Important Buddhist concept",
+      "dm": "compassionate",
+      "gm": "compassion"
+     }
+    ]
+   },
+   {
+    "id": "10-14",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཐུགས་རྗེ",
+      "reason": "Important Buddhist concept",
+      "dm": "compassion",
+      "gm": "compassion"
+     },
+     {
+      "bo": "ལྷ",
+      "reason": "Class of beings",
+      "dm": "gods",
+      "gm": "gods"
+     }
+    ]
+   },
+   {
+    "id": "10-15",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-16",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-17",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-18",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ལྷ་མོ",
+      "reason": "Part of compound that is a term on its own",
+      "dm": "goddess",
+      "gm": "goddess"
+     }
+    ]
+   },
+   {
+    "id": "10-19",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-20",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-21",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-22",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-23",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-24",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-25",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-26",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-27",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-28",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "10-29",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "10-10",
+    "bo": "མེ་ཏོག་ཀུནྡ",
+    "reason": "One-off simile, not a technical glossary term."
+   }
+  ],
+  "fix_span": [],
+  "add": [
+   {
+    "id": "10-10",
+    "bo": "ལྷ",
+    "dm": "celestial",
+    "gm": "gods",
+    "reason": "Class of beings"
+   },
+   {
+    "id": "10-13",
+    "bo": "བརྩེ་བ",
+    "dm": "compassionate",
+    "gm": "compassion",
+    "reason": "Important Buddhist concept"
+   },
+   {
+    "id": "10-14",
+    "bo": "ཐུགས་རྗེ",
+    "dm": "compassion",
+    "gm": "compassion",
+    "reason": "Important Buddhist concept"
+   },
+   {
+    "id": "10-14",
+    "bo": "ལྷ",
+    "dm": "gods",
+    "gm": "gods",
+    "reason": "Class of beings"
+   },
+   {
+    "id": "10-18",
+    "bo": "ལྷ་མོ",
+    "dm": "goddess",
+    "gm": "goddess",
+    "reason": "Part of compound that is a term on its own"
+   }
+  ]
+ }
+}

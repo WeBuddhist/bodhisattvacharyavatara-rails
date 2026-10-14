@@ -1,0 +1,237 @@
+{
+ "batch": "batch-08",
+ "segments": [
+  {
+   "id": "5-92",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-93",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-94",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-95",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-96",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "रक्षक के शोक से मुक्ति पाते समय लेटने की तरह",
+     "evidence": "The Tibetan/academic text says: lie down as the Lord (the Buddha) lay in nirvana. The literal locked-term chain is tangled and unclear to a child who is not told who the protector is.",
+     "fix": "जैसे रक्षक (बुद्ध) शोक से मुक्ति पाते समय लेटे थे, वैसे ही अपनी मनचाही दिशा में लेटना चाहिए।"
+    }
+   ]
+  },
+  {
+   "id": "5-97",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-98",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-99",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-100",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-101",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-102",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-103",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-104",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-105",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "बहुत अच्छे से बताया गया है",
+     "evidence": "Academic translation: what is to be practiced constantly is taught there in detail (extensively), and the text should also be looked at repeatedly with certainty; the emphasis on detailed/extensive teaching and on definitely doing so is softened.",
+     "fix": "हमें हमेशा कैसे काम करने चाहिए, यह \"अभ्यासों का संग्रह\" में विस्तार से बताया गया है। इसलिए हमें इसे ज़रूर बार-बार पढ़ना चाहिए।"
+    }
+   ]
+  },
+  {
+   "id": "5-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-107",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-109",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "5-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-1",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "हज़ार बहुत लम्बे युगों में इकट्ठा किया गया देने और 'भली-भाँति गए हुए' बुद्धों को भेंट चढ़ाने जैसा जो भी भला बर्ताव है",
+     "evidence": "Academic translation: all the good deeds such as giving and offering to the Sugata, accumulated over thousands of kalpas, are destroyed by a single outburst of anger. The Hindi sentence is one long, tangled sentence with a stacked modifier.",
+     "fix": "हज़ारों बहुत लम्बे युगों में हमने देने और 'भली-भाँति गए हुए' को भेंट चढ़ाने जैसे जो भी भले काम इकट्ठे किए हों, उन सबको एक बार का भीतर सुलगता गुस्सा नष्ट कर देता है।"
+    }
+   ]
+  },
+  {
+   "id": "6-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-5",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "सच कहें तो",
+     "evidence": "Tibetan mdor na / academic: \"in brief\" (summing up the point). \"सच कहें तो\" suggests honesty rather than summarising; earlier segment 5-108 renders the same phrase as \"थोड़े शब्दों में कहें तो\".",
+     "fix": "थोड़े शब्दों में कहें तो, गुस्सा करते हुए सुख से रहने वाला कोई भी नहीं है।"
+    }
+   ]
+  },
+  {
+   "id": "6-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-21",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "batch": "batch-05",
+ "segments": [
+  {
+   "id": "8-23",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-34",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-35",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-38",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-60",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "न केवल निन्दा नहीं करते हो,\nअपितु",
+     "evidence": "Tibetan 'སྨོད་མི་བྱེད་པར་མ་ཟད་ཀྱི' means 'not only do you not disparage (it), but...'. The Hindi 'न केवल ... नहीं करते हो, अपितु' stacks 'न केवल' on an already negated verb, which is ungrammatical/hard to parse; the sense (you do not disparage your own impurity, and moreover ...) survives. Cf. bo-shenga 8-60 'སྨོད་པ་མི་བྱེད་པར་མ་ཟད་ཀྱི'.",
+     "fix": "तुम अपनी ही अशुचि की निन्दा नहीं करते, इतना ही नहीं,"
+    }
+   ]
+  },
+  {
+   "id": "8-79",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "8-80",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-107",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-110",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-121",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-150",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "9-159",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

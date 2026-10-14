@@ -1,0 +1,374 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "9-89",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཉམས་མྱོང",
+      "reason": "Experience is a key technical concept here.",
+      "dm": "experience",
+      "gm": "experience"
+     }
+    ]
+   },
+   {
+    "id": "9-90",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཕྲ་མོ",
+      "reason": "Subtle is a standard technical category.",
+      "dm": "subtle state",
+      "gm": "subtle state"
+     },
+     {
+      "bo": "རགས་པ",
+      "reason": "Gross is a standard technical category.",
+      "dm": "gross form",
+      "gm": "gross state"
+     }
+    ]
+   },
+   {
+    "id": "9-91",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "མངོན་ཞེན",
+      "reason": "Conceptual clinging is a technical term (abhinivesa).",
+      "dm": "stubborn conceptual attachment",
+      "gm": "conceptual clinging"
+     }
+    ]
+   },
+   {
+    "id": "9-92",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བསྒོམ",
+      "reason": "To meditate is a technical act/attainment.",
+      "dm": "meditate",
+      "gm": "meditate"
+     }
+    ]
+   },
+   {
+    "id": "9-96",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "Not a technical term, just a descriptive adjective phrase."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-106",
+    "drop": [
+     {
+      "n": 4,
+      "reason": "Splits the verb for passing into nirvana; 'mya ngan' alone just means sorrow."
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "9-110",
+    "drop": [],
+    "fix_span": [
+     {
+      "n": 4,
+      "bo_fixed": "མྱ་ངན་འདས་པ"
+     }
+    ],
+    "add": []
+   },
+   {
+    "id": "9-111",
+    "drop": [
+     {
+      "n": 3,
+      "reason": "Incorrectly combines 'consciousness' and 'existence'."
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཤེས",
+      "reason": "The proper term for consciousness here.",
+      "dm": "consciousness",
+      "gm": "consciousness"
+     }
+    ]
+   },
+   {
+    "id": "9-112",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Incorrectly combines 'consciousness' and the verb 'established'."
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ཤེས",
+      "reason": "The proper term for consciousness here.",
+      "dm": "consciousness",
+      "gm": "consciousness"
+     }
+    ]
+   },
+   {
+    "id": "9-114",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "མྱུ་གུ",
+      "reason": "Sprout is a recurring standard analogy used as a technical term.",
+      "dm": "sprout",
+      "gm": "sprout"
+     },
+     {
+      "bo": "ས་བོན",
+      "reason": "Seed is a recurring standard analogy used as a technical term.",
+      "dm": "seed",
+      "gm": "seed"
+     }
+    ]
+   },
+   {
+    "id": "9-115",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "མྱུ་གུ",
+      "reason": "Sprout is a recurring standard analogy used as a technical term.",
+      "dm": "sprout",
+      "gm": "sprout"
+     },
+     {
+      "bo": "ས་བོན",
+      "reason": "Seed is a recurring standard analogy used as a technical term.",
+      "dm": "seed",
+      "gm": "seed"
+     }
+    ]
+   },
+   {
+    "id": "9-119",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "Includes the particle 'sogs' (and so forth)."
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ས",
+      "reason": "Earth is a standard element/term.",
+      "dm": "earth",
+      "gm": "earth"
+     },
+     {
+      "bo": "མི་གཙང་བ",
+      "reason": "Impure is a technical classification (asuci).",
+      "dm": "impure",
+      "gm": "impure"
+     }
+    ]
+   },
+   {
+    "id": "9-120",
+    "drop": [],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "བྱེད་པོ",
+      "reason": "Creator is a technical concept in this philosophical context.",
+      "dm": "creator",
+      "gm": "creator"
+     }
+    ]
+   },
+   {
+    "id": "9-121",
+    "drop": [
+     {
+      "n": 3,
+      "reason": "Includes the particle 'sogs' (and so forth)."
+     }
+    ],
+    "fix_span": [],
+    "add": [
+     {
+      "bo": "ས",
+      "reason": "Earth is a standard element/term.",
+      "dm": "earth",
+      "gm": "earth"
+     }
+    ]
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "9-96",
+    "bo": "ལུས་མེད་པ",
+    "reason": "Not a technical term, just a descriptive adjective phrase."
+   },
+   {
+    "id": "9-106",
+    "bo": "མྱ་ངན",
+    "reason": "Splits the verb for passing into nirvana; 'mya ngan' alone just means sorrow."
+   },
+   {
+    "id": "9-111",
+    "bo": "ཤེས་ཡོད",
+    "reason": "Incorrectly combines 'consciousness' and 'existence'."
+   },
+   {
+    "id": "9-112",
+    "bo": "ཤེས་གྲུབ",
+    "reason": "Incorrectly combines 'consciousness' and the verb 'established'."
+   },
+   {
+    "id": "9-119",
+    "bo": "ས་སོགས",
+    "reason": "Includes the particle 'sogs' (and so forth)."
+   },
+   {
+    "id": "9-121",
+    "bo": "ས་སོགས",
+    "reason": "Includes the particle 'sogs' (and so forth)."
+   }
+  ],
+  "fix_span": [
+   {
+    "id": "9-110",
+    "bo": "མྱ་ངན་འདས",
+    "bo_fixed": "མྱ་ངན་འདས་པ"
+   }
+  ],
+  "add": [
+   {
+    "id": "9-89",
+    "bo": "ཉམས་མྱོང",
+    "dm": "experience",
+    "gm": "experience",
+    "reason": "Experience is a key technical concept here."
+   },
+   {
+    "id": "9-90",
+    "bo": "ཕྲ་མོ",
+    "dm": "subtle state",
+    "gm": "subtle state",
+    "reason": "Subtle is a standard technical category."
+   },
+   {
+    "id": "9-90",
+    "bo": "རགས་པ",
+    "dm": "gross form",
+    "gm": "gross state",
+    "reason": "Gross is a standard technical category."
+   },
+   {
+    "id": "9-91",
+    "bo": "མངོན་ཞེན",
+    "dm": "stubborn conceptual attachment",
+    "gm": "conceptual clinging",
+    "reason": "Conceptual clinging is a technical term (abhinivesa)."
+   },
+   {
+    "id": "9-92",
+    "bo": "བསྒོམ",
+    "dm": "meditate",
+    "gm": "meditate",
+    "reason": "To meditate is a technical act/attainment."
+   },
+   {
+    "id": "9-111",
+    "bo": "ཤེས",
+    "dm": "consciousness",
+    "gm": "consciousness",
+    "reason": "The proper term for consciousness here."
+   },
+   {
+    "id": "9-112",
+    "bo": "ཤེས",
+    "dm": "consciousness",
+    "gm": "consciousness",
+    "reason": "The proper term for consciousness here."
+   },
+   {
+    "id": "9-114",
+    "bo": "མྱུ་གུ",
+    "dm": "sprout",
+    "gm": "sprout",
+    "reason": "Sprout is a recurring standard analogy used as a technical term."
+   },
+   {
+    "id": "9-114",
+    "bo": "ས་བོན",
+    "dm": "seed",
+    "gm": "seed",
+    "reason": "Seed is a recurring standard analogy used as a technical term."
+   },
+   {
+    "id": "9-115",
+    "bo": "མྱུ་གུ",
+    "dm": "sprout",
+    "gm": "sprout",
+    "reason": "Sprout is a recurring standard analogy used as a technical term."
+   },
+   {
+    "id": "9-115",
+    "bo": "ས་བོན",
+    "dm": "seed",
+    "gm": "seed",
+    "reason": "Seed is a recurring standard analogy used as a technical term."
+   },
+   {
+    "id": "9-119",
+    "bo": "ས",
+    "dm": "earth",
+    "gm": "earth",
+    "reason": "Earth is a standard element/term."
+   },
+   {
+    "id": "9-119",
+    "bo": "མི་གཙང་བ",
+    "dm": "impure",
+    "gm": "impure",
+    "reason": "Impure is a technical classification (asuci)."
+   },
+   {
+    "id": "9-120",
+    "bo": "བྱེད་པོ",
+    "dm": "creator",
+    "gm": "creator",
+    "reason": "Creator is a technical concept in this philosophical context."
+   },
+   {
+    "id": "9-121",
+    "bo": "ས",
+    "dm": "earth",
+    "gm": "earth",
+    "reason": "Earth is a standard element/term."
+   }
+  ]
+ }
+}

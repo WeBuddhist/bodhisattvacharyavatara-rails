@@ -1,0 +1,185 @@
+{
+ "terms": [
+  {
+   "term_id": "T084",
+   "sense": "Īśvara",
+   "field": "children",
+   "current": "Ishvara",
+   "suggested": "Creator",
+   "severity": "major",
+   "reason": "Policy 9 dictates that tenet-terms become plain words in the children's register.",
+   "applied": true
+  },
+  {
+   "term_id": "T089",
+   "sense": "ascetic (person) / ascetic discipline",
+   "field": "sense_split",
+   "current": "Split based on person vs discipline",
+   "suggested": "Merge into a single sense: ascetic discipline",
+   "severity": "major",
+   "reason": "བརྟུལ་ཞུགས is the discipline/vow; the person is བརྟུལ་ཞུགས་ཅན (T536). The split is incorrect.",
+   "applied": false
+  },
+  {
+   "term_id": "T118",
+   "sense": "the Buddha's teaching, sublime",
+   "field": "children",
+   "current": "true teachings",
+   "suggested": "holy teachings",
+   "severity": "major",
+   "reason": "Variant spelling of དམ་པའི་ཆོས (T112); must share one rendering per Policy 20.",
+   "applied": true
+  },
+  {
+   "term_id": "T133",
+   "sense": "conceptualization",
+   "field": "academic",
+   "current": "conceptualization",
+   "suggested": "conceptual thought",
+   "severity": "major",
+   "reason": "Variant spelling of རྣམ་པར་རྟོག (T576) and abbreviation of རྣམ་པར་རྟོག་པ; must share one rendering.",
+   "applied": true
+  },
+  {
+   "term_id": "T151",
+   "sense": "protector, saviour",
+   "field": "academic",
+   "current": "Protector",
+   "suggested": "Saviour",
+   "severity": "major",
+   "reason": "མགོན་པོ (T045) is already 'Protector'; one rendering never used for two different Tibetan terms.",
+   "applied": true
+  },
+  {
+   "term_id": "T242",
+   "sense": "conceit",
+   "field": "academic",
+   "current": "conceit",
+   "suggested": "haughtiness",
+   "severity": "major",
+   "reason": "སྙེམས་པ (T549) is already 'conceit'; one rendering never used for two different terms.",
+   "applied": true
+  },
+  {
+   "term_id": "T270",
+   "sense": "friend",
+   "field": "academic",
+   "current": "friend",
+   "suggested": "loved one",
+   "severity": "major",
+   "reason": "བཤེས (T269) is already 'friend'; one rendering never used for two different terms.",
+   "applied": true
+  },
+  {
+   "term_id": "T327",
+   "sense": "worthy recipient of offerings",
+   "field": "academic",
+   "current": "object of offering",
+   "suggested": "worthy recipient of offerings",
+   "severity": "major",
+   "reason": "མཆོད་གནས (T335) is already 'object of offering'; one rendering never used for two different terms.",
+   "applied": true
+  },
+  {
+   "term_id": "T354",
+   "sense": "one burdened with misdeeds",
+   "field": "academic",
+   "current": "one burdened with misdeeds",
+   "suggested": "one possessing misdeeds",
+   "severity": "major",
+   "reason": "སྡིག་ཅན (T349) is already 'one burdened with misdeeds'; distinct terms must have distinct renderings.",
+   "applied": true
+  },
+  {
+   "term_id": "T439",
+   "sense": "human body",
+   "field": "academic",
+   "current": "human body",
+   "suggested": "every human body",
+   "severity": "major",
+   "reason": "མི་ལུས (T218) is already 'human body'; distinct terms must have distinct renderings.",
+   "applied": true
+  },
+  {
+   "term_id": "T463",
+   "sense": "sentient being going to hell",
+   "field": "academic",
+   "current": "sentient being going to hell",
+   "suggested": "hell of sentient beings",
+   "severity": "major",
+   "reason": "Variant spelling of སེམས་ཅན་དམྱལ་བ (T228) meaning hell, not a being going to hell.",
+   "applied": true
+  },
+  {
+   "term_id": "T475",
+   "sense": "Buddhahood",
+   "field": "academic",
+   "current": "Buddhahood",
+   "suggested": "awakening as a Buddha",
+   "severity": "major",
+   "reason": "སངས་རྒྱས་ཉིད (T170) is already 'Buddhahood'; one rendering never used for two different terms.",
+   "applied": true
+  },
+  {
+   "term_id": "T484",
+   "sense": "liberation",
+   "field": "academic",
+   "current": "liberation",
+   "suggested": "release",
+   "severity": "major",
+   "reason": "ཐར་པ (T241) is already 'liberation'; one rendering never used for two different terms.",
+   "applied": true
+  },
+  {
+   "term_id": "T505",
+   "sense": "force",
+   "field": "academic",
+   "current": "force",
+   "suggested": "host of forces",
+   "severity": "major",
+   "reason": "དཔུང (T515) is already 'force'; compounds must reflect their parts or be kept distinct.",
+   "applied": true
+  },
+  {
+   "term_id": "T540",
+   "sense": "distraction",
+   "field": "academic",
+   "current": "distraction",
+   "suggested": "complete distraction",
+   "severity": "major",
+   "reason": "གཡེང་བ (T171) is already 'distraction'; distinct terms must have distinct renderings.",
+   "applied": true
+  },
+  {
+   "term_id": "T547",
+   "sense": "friend",
+   "field": "academic",
+   "current": "friend",
+   "suggested": "friend and relative",
+   "severity": "major",
+   "reason": "བཤེས (T269) is already 'friend'; one rendering never used for two different terms.",
+   "applied": true
+  },
+  {
+   "term_id": "T590",
+   "sense": "self",
+   "field": "academic",
+   "current": "self",
+   "suggested": "very self",
+   "severity": "major",
+   "reason": "བདག (T022) is already 'self'; one rendering never used for two different terms.",
+   "applied": true
+  },
+  {
+   "term_id": "T700",
+   "sense": "compassion, affection",
+   "field": "academic",
+   "current": "compassion",
+   "suggested": "affection",
+   "severity": "major",
+   "reason": "སྙིང་རྗེ (T048) and ཐུགས་རྗེ (T117) are already 'compassion'; distinct terms need distinct renderings.",
+   "applied": true
+  }
+ ],
+ "policies": []
+}

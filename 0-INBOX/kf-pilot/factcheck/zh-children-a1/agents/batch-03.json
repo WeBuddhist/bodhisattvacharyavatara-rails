@@ -1,0 +1,229 @@
+{
+ "batch": "batch-03",
+ "segments": [
+  {
+   "id": "2-41",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-42",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-43",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-44",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-45",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-46",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-47",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-48",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "他們領悟了佛法，能消除輪迴的恐懼。對於這些佛法",
+     "evidence": "Academic: the Dharma they realized, which removes the fear of samsara; the subject of 'removes' is the Dharma, but the children's sentence reads as if 'they' remove it, and the repeated 'these Dharma' is clumsy.",
+     "fix": "佛陀們領悟的佛法，能消除輪迴的恐懼。我也同樣真心地向這些佛法，還有所有的菩薩們，尋求庇護。"
+    }
+   ]
+  },
+  {
+   "id": "2-49",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-50",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-51",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-52",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-53",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-54",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-55",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-56",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-57",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-58",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-59",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-60",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-61",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-62",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-63",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-64",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "我都要來到守護者面前",
+     "evidence": "Tibetan/academic: directly in the presence of the protector; 'all' (都) is unnatural and unsupported here, and 'must come' is odd.",
+     "fix": "我來到守護者面前，因為害怕痛苦而雙手合十。"
+    }
+   ]
+  },
+  {
+   "id": "2-65",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "2-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-10",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-12",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-14",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "不會有任何一個人因為我而白忙一場",
+     "evidence": "Academic: 'may no one who relates to me ever end up with something futile/meaningless' (anyone connected to me should benefit); 'wasted effort because of me' shifts the sense toward people's effort being wasted.",
+     "fix": "希望不管在什麼時候，只要有人看到我、想到我，都不會空手而回，都能得到好處。"
+    }
+   ]
+  }
+ ]
+}

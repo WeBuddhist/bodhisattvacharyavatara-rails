@@ -1,0 +1,31 @@
+(anon):setopt:7: can't change option: monitor
+
+[[31mERROR[39m]: gitstatus failed to initialize.
+
+
+  Add the following parameter to ~/.zshrc for extra diagnostics on error:
+
+    GITSTATUS_LOG_LEVEL=DEBUG
+
+  Restart Zsh to retry gitstatus initialization:
+
+    [32mexec zsh[39m
+calls=12
+  sample-en-02 7-48..8-161 ok
+  sample-en-01 1-11..5-41 ok
+  sample-en-02 9-16..10-49 ok
+  sample-en-01 5-47..7-10 ok
+  sample-hi-01 1-11..5-41 ok
+  sample-hi-02 7-48..8-161 ok
+  sample-hi-01 5-47..7-10 ok
+  sample-hi-02 9-16..10-49 ok
+  sample-zh-01 1-11..5-41 ok
+  sample-zh-01 5-47..7-10 ok
+  sample-zh-02 9-16..10-49 ok
+  sample-zh-02 7-48..8-161 ok
+sample-en-01 OK
+sample-en-02 OK
+sample-hi-01 OK
+sample-hi-02 OK
+sample-zh-01 OK
+sample-zh-02 OK

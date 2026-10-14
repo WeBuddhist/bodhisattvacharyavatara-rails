@@ -1,0 +1,695 @@
+{
+ "batch": "batch-14",
+ "terms": [
+  {
+   "term_id": "T014",
+   "bo": "དགེ་བ",
+   "sanskrit": "kuśala",
+   "senses": [
+    {
+     "sense": "virtue",
+     "occurrences": "all",
+     "academic": "善",
+     "children": "好事",
+     "basis": "style-sheet",
+     "reason": "Style sheet core term; Gemini 善法 refused (policy 4)."
+    }
+   ]
+  },
+  {
+   "term_id": "T030",
+   "bo": "ཁྲོ་བ",
+   "sanskrit": "krodha",
+   "senses": [
+    {
+     "sense": "anger",
+     "occurrences": "all",
+     "academic": "瞋恚",
+     "children": "憤怒",
+     "basis": "zero-shot",
+     "reason": "Gemini 瞋恚 is the established anger term; children use plain 憤怒."
+    }
+   ]
+  },
+  {
+   "term_id": "T046",
+   "bo": "བསླབ་པ",
+   "sanskrit": "śikṣā",
+   "senses": [
+    {
+     "sense": "training",
+     "occurrences": "all",
+     "academic": "學處",
+     "children": "修學",
+     "basis": "new",
+     "reason": "學處 is established for śikṣā and Gemini's form; children 修學 names training simply."
+    }
+   ]
+  },
+  {
+   "term_id": "T062",
+   "bo": "སྦྱིན་པ",
+   "sanskrit": "dāna",
+   "senses": [
+    {
+     "sense": "generosity",
+     "occurrences": "all",
+     "academic": "布施",
+     "children": "給予",
+     "basis": "style-sheet",
+     "reason": "Style sheet core term."
+    }
+   ]
+  },
+  {
+   "term_id": "T078",
+   "bo": "ལྟུང་བ",
+   "sanskrit": "āpatti",
+   "senses": [
+    {
+     "sense": "downfall",
+     "occurrences": "all",
+     "academic": "墮罪",
+     "children": "墮落",
+     "basis": "new",
+     "reason": "墮罪 established for āpatti, Gemini's form; 墮落 is the plain child word for a fall."
+    }
+   ]
+  },
+  {
+   "term_id": "T094",
+   "bo": "ཚུལ་ཁྲིམས",
+   "sanskrit": "śīla",
+   "senses": [
+    {
+     "sense": "ethical discipline",
+     "occurrences": "all",
+     "academic": "持戒",
+     "children": "良好品行",
+     "basis": "style-sheet",
+     "reason": "Style sheet core term."
+    }
+   ]
+  },
+  {
+   "term_id": "T110",
+   "bo": "རྒྱལ་སྲས",
+   "sanskrit": "jinaputra",
+   "senses": [
+    {
+     "sense": "child of the Victors",
+     "occurrences": "all",
+     "academic": "勝者之子",
+     "children": "得勝者的孩子",
+     "basis": "style-sheet",
+     "reason": "Policy 10 child-of-owner shape with 勝者 / 得勝者."
+    }
+   ]
+  },
+  {
+   "term_id": "T126",
+   "bo": "རྟག",
+   "sanskrit": "nitya",
+   "senses": [
+    {
+     "sense": "permanent",
+     "occurrences": "all",
+     "academic": "常",
+     "children": "永遠不變",
+     "basis": "english-pivot",
+     "reason": "Positive of 無常 (policy 17); child phrase translates 'lasting forever'."
+    }
+   ]
+  },
+  {
+   "term_id": "T142",
+   "bo": "ཡོན་ཏན་རྒྱ་མཚོ",
+   "sanskrit": "guṇa-sāgara",
+   "senses": [
+    {
+     "sense": "ocean of good qualities",
+     "occurrences": "all",
+     "academic": "功德海",
+     "children": "美好品質的大海",
+     "basis": "style-sheet",
+     "reason": "Policy 18 example 功德海; child builds on 美好的品質."
+    }
+   ]
+  },
+  {
+   "term_id": "T158",
+   "bo": "སྦྱིན་པའི་ཕ་རོལ་ཕྱིན",
+   "sanskrit": "dānapāramitā",
+   "senses": [
+    {
+     "sense": "perfection of generosity",
+     "occurrences": "all",
+     "academic": "布施波羅蜜",
+     "children": "給予的圓滿",
+     "basis": "style-sheet",
+     "reason": "Policy 12: 布施 + 波羅蜜; children 給予 + 圓滿; Gemini 波羅蜜多 refused at 5-83."
+    }
+   ]
+  },
+  {
+   "term_id": "T174",
+   "bo": "ཡང་དག་ཉིད",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "true reality",
+     "occurrences": "all",
+     "academic": "真實性",
+     "children": "真實的樣子",
+     "basis": "english-pivot",
+     "reason": "Translated from English 'true reality'; Gemini varies (實相, 真實); head form kept neutral."
+    }
+   ]
+  },
+  {
+   "term_id": "T190",
+   "bo": "རགས་པ",
+   "sanskrit": "sthūla",
+   "senses": [
+    {
+     "sense": "coarse",
+     "occurrences": "all",
+     "academic": "粗大",
+     "children": "粗糙",
+     "basis": "zero-shot",
+     "reason": "Gemini 粗大 pairs with 微細; child 粗糙 for 'rough'."
+    }
+   ]
+  },
+  {
+   "term_id": "T206",
+   "bo": "འཇམ་པའི་དབྱངས",
+   "sanskrit": "mañjughoṣa",
+   "senses": [
+    {
+     "sense": "Mañjuśrī",
+     "occurrences": "all",
+     "academic": "文殊師利",
+     "children": "文殊",
+     "basis": "style-sheet",
+     "reason": "Policy 11 name."
+    }
+   ]
+  },
+  {
+   "term_id": "T222",
+   "bo": "རི་རབ",
+   "sanskrit": "meru",
+   "senses": [
+    {
+     "sense": "Mount Meru",
+     "occurrences": "all",
+     "academic": "須彌山",
+     "children": "須彌山",
+     "basis": "style-sheet",
+     "reason": "Policy 11 name."
+    }
+   ]
+  },
+  {
+   "term_id": "T238",
+   "bo": "བསྒོམ",
+   "sanskrit": "bhāvayet",
+   "senses": [
+    {
+     "sense": "meditation",
+     "occurrences": "all",
+     "academic": "修習",
+     "children": "靜心修習",
+     "basis": "zero-shot",
+     "reason": "Gemini 修習 for bhāvayet; child adds quiet-mind wording for meditation."
+    }
+   ]
+  },
+  {
+   "term_id": "T254",
+   "bo": "མཆོད་པ",
+   "sanskrit": "pūjā",
+   "senses": [
+    {
+     "sense": "offering",
+     "occurrences": "all",
+     "academic": "供養",
+     "children": "供養",
+     "basis": "zero-shot",
+     "reason": "Established word, used by Gemini at 6-115; transparent for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T270",
+   "bo": "མཛའ་བ",
+   "sanskrit": "priya",
+   "senses": [
+    {
+     "sense": "friend",
+     "occurrences": "all",
+     "academic": "親愛者",
+     "children": "朋友",
+     "basis": "english-pivot",
+     "reason": "Academic translates 'loved one' (priya); child 'friend'; Gemini 親友 blurs this."
+    }
+   ]
+  },
+  {
+   "term_id": "T286",
+   "bo": "དམིགས་པ",
+   "sanskrit": "ālambana",
+   "senses": [
+    {
+     "sense": "apprehension",
+     "occurrences": "all",
+     "academic": "所緣",
+     "children": "緊盯目標",
+     "basis": "new",
+     "reason": "所緣 is established for ālambana; child phrase renders 'fixing on something'."
+    }
+   ]
+  },
+  {
+   "term_id": "T302",
+   "bo": "རབ་ཏུ་བྱུང་བ",
+   "sanskrit": "pravrajita",
+   "senses": [
+    {
+     "sense": "ordination",
+     "occurrences": "all",
+     "academic": "出家",
+     "children": "出家",
+     "basis": "new",
+     "reason": "Established for pravrajita and Gemini's form; 出家 is an everyday word for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T318",
+   "bo": "མི་ལྡོག་པ",
+   "sanskrit": "anivartya",
+   "senses": [
+    {
+     "sense": "irreversible",
+     "occurrences": "all",
+     "academic": "不退轉",
+     "children": "不再回頭",
+     "basis": "zero-shot",
+     "reason": "Gemini and established Chinese 不退轉; child phrase translates 'never turning back'."
+    }
+   ]
+  },
+  {
+   "term_id": "T334",
+   "bo": "སྟོང་གསུམ",
+   "sanskrit": "trisāhasra",
+   "senses": [
+    {
+     "sense": "three-thousandfold world system",
+     "occurrences": "all",
+     "academic": "三千大千世界",
+     "children": "三千世界",
+     "basis": "new",
+     "reason": "Established full form for trisāhasra; children use the common short idiom."
+    }
+   ]
+  },
+  {
+   "term_id": "T350",
+   "bo": "བྱང",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "purification",
+     "occurrences": "all",
+     "academic": "淨除",
+     "children": "洗淨",
+     "basis": "english-pivot",
+     "reason": "English 'purification' of misdeeds (Gemini 淨); child 'cleansing'."
+    }
+   ]
+  },
+  {
+   "term_id": "T366",
+   "bo": "རྒྱལ་སྲས་ས",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "level of the children of the Victors",
+     "occurrences": "all",
+     "academic": "勝者之子地",
+     "children": "得勝者的孩子的階段",
+     "basis": "style-sheet",
+     "reason": "Policy 18 compound: 勝者之子 + 地 (bhūmi); child uses 階段 for level."
+    }
+   ]
+  },
+  {
+   "term_id": "T382",
+   "bo": "སྲིད་ལམ",
+   "sanskrit": "bhavādhva",
+   "senses": [
+    {
+     "sense": "path of existence",
+     "occurrences": "all",
+     "academic": "生死之路",
+     "children": "人生的道路",
+     "basis": "new",
+     "reason": "Path of existence (bhava); 生死 avoids the 世間 core term; child 'path of life'."
+    }
+   ]
+  },
+  {
+   "term_id": "T398",
+   "bo": "བཏང་སེམས",
+   "sanskrit": "tyāgacitta",
+   "senses": [
+    {
+     "sense": "mind of relinquishing",
+     "occurrences": "all",
+     "academic": "捨心",
+     "children": "全部給出去的心",
+     "basis": "new",
+     "reason": "Established for tyāgacitta; child translates 'mind of giving everything away'."
+    }
+   ]
+  },
+  {
+   "term_id": "T414",
+   "bo": "ཏིང་འཛིན",
+   "sanskrit": "samādhāna",
+   "senses": [
+    {
+     "sense": "concentration",
+     "occurrences": "all",
+     "academic": "等持",
+     "children": "深度安定",
+     "basis": "style-sheet",
+     "reason": "Gemini 等持 for academic; policy 20 gives 深度安定 for ཏིང་འཛིན."
+    }
+   ]
+  },
+  {
+   "term_id": "T430",
+   "bo": "རབ་དད",
+   "sanskrit": "suprasanna",
+   "senses": [
+    {
+     "sense": "excellent faith",
+     "occurrences": "all",
+     "academic": "淨信",
+     "children": "深深信任",
+     "basis": "new",
+     "reason": "淨信 is established for prasāda; child translates 'deep trust'."
+    }
+   ]
+  },
+  {
+   "term_id": "T446",
+   "bo": "དགེ་བའི་བཤེས་གཉེན",
+   "sanskrit": "kalyāṇamitra",
+   "senses": [
+    {
+     "sense": "spiritual friend",
+     "occurrences": "all",
+     "academic": "善知識",
+     "children": "引路的朋友",
+     "basis": "zero-shot",
+     "reason": "Established kalyāṇamitra (Gemini 善知識); child translates 'friend who guides'."
+    }
+   ]
+  },
+  {
+   "term_id": "T462",
+   "bo": "བསོད་ནམས་མ་ཡིན་སྤྱོད་པ",
+   "sanskrit": "apuṇyācaraṇa",
+   "senses": [
+    {
+     "sense": "non-meritorious conduct",
+     "occurrences": "all",
+     "academic": "非福德之行",
+     "children": "不累積福氣的行為",
+     "basis": "style-sheet",
+     "reason": "Built from 福德 (policy 8) with 非; child from 累積的福氣."
+    }
+   ]
+  },
+  {
+   "term_id": "T479",
+   "bo": "དམྱལ་བུམ་པ",
+   "sanskrit": "kumbhī",
+   "senses": [
+    {
+     "sense": "cauldron of hell",
+     "occurrences": "all",
+     "academic": "地獄鑊",
+     "children": "地獄的大鍋",
+     "basis": "new",
+     "reason": "Compound of 地獄 and 鑊 (cauldron); Gemini rendered it only as 鑊中煮."
+    }
+   ]
+  },
+  {
+   "term_id": "T495",
+   "bo": "འཇིག་རྟེན་མགོན",
+   "sanskrit": "lokanātha",
+   "senses": [
+    {
+     "sense": "Protector of the World",
+     "occurrences": "all",
+     "academic": "世間怙主",
+     "children": "世界的守護者",
+     "basis": "style-sheet",
+     "reason": "Core table: འཇིག་རྟེན་མགོན 世間怙主; child 世界 + 守護者."
+    }
+   ]
+  },
+  {
+   "term_id": "T511",
+   "bo": "སྨན་པ་མཆོག",
+   "sanskrit": "varavaidya",
+   "senses": [
+    {
+     "sense": "Supreme Physician",
+     "occurrences": "all",
+     "academic": "無上醫王",
+     "children": "最好的醫生",
+     "basis": "zero-shot",
+     "reason": "Gemini 無上醫王 for the Buddha as physician; child translates 'Greatest Doctor'."
+    }
+   ]
+  },
+  {
+   "term_id": "T527",
+   "bo": "འབྱོར་པ",
+   "sanskrit": "sāmagrī",
+   "senses": [
+    {
+     "sense": "resources",
+     "occurrences": "all",
+     "academic": "資具",
+     "children": "資源",
+     "basis": "english-pivot",
+     "reason": "Means available; 資糧 kept for ཚོགས (policy 16); child translates 'resources'."
+    }
+   ]
+  },
+  {
+   "term_id": "T543",
+   "bo": "ཆགས་པ་མེད",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "non-attachment",
+     "occurrences": "all",
+     "academic": "無執著",
+     "children": "不緊抓不放",
+     "basis": "english-pivot",
+     "reason": "Translated from 'non-attachment' (negated base, policy 17); child 'freedom from clinging'."
+    }
+   ]
+  },
+  {
+   "term_id": "T559",
+   "bo": "སེར་སྣ་ཅན",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "miser",
+     "occurrences": "all",
+     "academic": "慳吝者",
+     "children": "吝嗇的人",
+     "basis": "english-pivot",
+     "reason": "Translates 'miser'; Gemini 吝嗇的你 is address, not a term."
+    }
+   ]
+  },
+  {
+   "term_id": "T575",
+   "bo": "དབང་པོ",
+   "sanskrit": "indra",
+   "senses": [
+    {
+     "sense": "Indra",
+     "occurrences": "all",
+     "academic": "帝釋天",
+     "children": "帝釋天",
+     "basis": "zero-shot",
+     "reason": "Gemini and established Chinese name for Indra."
+    }
+   ]
+  },
+  {
+   "term_id": "T591",
+   "bo": "འགྲན",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "rivalry",
+     "occurrences": "all",
+     "academic": "競爭",
+     "children": "較勁",
+     "basis": "english-pivot",
+     "reason": "Translates 'rivalry'; child uses a plain verb-like word."
+    }
+   ]
+  },
+  {
+   "term_id": "T607",
+   "bo": "རྣལ་འབྱོར",
+   "sanskrit": "yogin",
+   "senses": [
+    {
+     "sense": "yogi",
+     "occurrences": "all",
+     "academic": "瑜伽士",
+     "children": "靜心修習的人",
+     "basis": "new",
+     "reason": "Established yogin; child translates 'meditator', consistent with T238 child wording."
+    }
+   ]
+  },
+  {
+   "term_id": "T623",
+   "bo": "དམིགས་པ་མེད་པ",
+   "sanskrit": "nirālamba",
+   "senses": [
+    {
+     "sense": "non-apprehension",
+     "occurrences": "all",
+     "academic": "無所緣",
+     "children": "沒有緊盯的目標",
+     "basis": "style-sheet",
+     "reason": "Negated T286 base 所緣 (policy 17); child follows its phrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T639",
+   "bo": "འོད་སྲུངས་ཆེན་པོ",
+   "sanskrit": "mahākāśyapa",
+   "senses": [
+    {
+     "sense": "Mahākāśyapa",
+     "occurrences": "all",
+     "academic": "大迦葉",
+     "children": "大迦葉",
+     "basis": "zero-shot",
+     "reason": "Established Chinese name for Mahākāśyapa, used by Gemini."
+    }
+   ]
+  },
+  {
+   "term_id": "T655",
+   "bo": "ཆ་མེད་པ",
+   "sanskrit": "niraṃśa",
+   "senses": [
+    {
+     "sense": "partless",
+     "occurrences": "all",
+     "academic": "無分",
+     "children": "沒有部分",
+     "basis": "new",
+     "reason": "無分 is established for niraṃśa; child translates 'without parts'."
+    }
+   ]
+  },
+  {
+   "term_id": "T671",
+   "bo": "ཕྲ",
+   "sanskrit": "sūkṣma",
+   "senses": [
+    {
+     "sense": "subtle",
+     "occurrences": "all",
+     "academic": "微細",
+     "children": "細緻",
+     "basis": "new",
+     "reason": "Established for sūkṣma, paired with 粗大; child 'fine' as opposed to 粗糙."
+    }
+   ]
+  },
+  {
+   "term_id": "T687",
+   "bo": "སྡུག་བསྔལ་ཆུ་བོ",
+   "sanskrit": "duḥkhaugha",
+   "senses": [
+    {
+     "sense": "river of suffering",
+     "occurrences": "all",
+     "academic": "苦河",
+     "children": "痛苦的河流",
+     "basis": "style-sheet",
+     "reason": "Policy 18: 苦 + 河; child 痛苦 + 河流; Gemini 瀑流 changes the image."
+    }
+   ]
+  },
+  {
+   "term_id": "T703",
+   "bo": "སྒྲ་མི་སྙན་པ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "Uttarakuru",
+     "occurrences": "all",
+     "academic": "北俱盧洲",
+     "children": "北俱盧洲",
+     "basis": "zero-shot",
+     "reason": "Gemini and established Chinese name for Uttarakuru."
+    }
+   ]
+  },
+  {
+   "term_id": "T719",
+   "bo": "གཙུག་ལག་ཁང",
+   "sanskrit": "vihāra",
+   "senses": [
+    {
+     "sense": "monastery",
+     "occurrences": "all",
+     "academic": "寺院",
+     "children": "寺院",
+     "basis": "new",
+     "reason": "Plain established word for vihāra; Gemini 寺廟 is a variant."
+    }
+   ]
+  },
+  {
+   "term_id": "T735",
+   "bo": "བནྡེ་དཔལ་བརྩེགས",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "Tibetan translator-editor",
+     "occurrences": "all",
+     "academic": "班第吉祥積",
+     "children": "班第吉祥積",
+     "basis": "zero-shot",
+     "reason": "Gemini 吉祥積 translates Paltsek; 班第 for bande. ⚑ conventional name, to verify."
+    }
+   ]
+  }
+ ]
+}

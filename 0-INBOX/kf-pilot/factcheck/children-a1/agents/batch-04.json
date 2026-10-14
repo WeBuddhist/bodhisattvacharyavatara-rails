@@ -1,0 +1,269 @@
+{
+ "batch": "batch-04",
+ "segments": [
+  {
+   "id": "3-15",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-19",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-20",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-21",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-22",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "In the past, the Well-Gone Ones created the awakening mind.",
+     "evidence": "Tibetan/academic open with 'Just as' (ཇི་ལྟར), setting up the comparison completed in the next verse ('Likewise').",
+     "fix": "Just as the Well-Gone Ones of the past created the awakening mind and, step by step, followed the trainings of the awakening heroes,"
+    }
+   ]
+  },
+  {
+   "id": "3-23",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "terminology",
+     "severity": "minor",
+     "span": "wandering beings",
+     "evidence": "Locked term for འགྲོ is 'being'.",
+     "fix": "In the same way, I will create the awakening mind to help all beings."
+    }
+   ]
+  },
+  {
+   "id": "3-24",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-25",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-26",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "act like my new family",
+     "evidence": "Tibetan/academic: undertake actions in accord with (fitting) the family, not imitate the family; 'defiled' rather than 'shame'.",
+     "fix": "Now I must do whatever I can to act in a way that fits this family, so that I never stain this pure and noble family."
+    }
+   ]
+  },
+  {
+   "id": "3-27",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-28",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-29",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-30",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-31",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-32",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-33",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "3-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-3",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-5",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "promise in your mind",
+     "evidence": "Tibetan ཡིད་ཀྱིས་སྦྱིན་པར་བསམ་བྱས: having intended/thought in the mind to give, not a promise.",
+     "fix": "Suppose you decide in your mind to give away a small, ordinary thing."
+    }
+   ]
+  },
+  {
+   "id": "4-6",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-7",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-8",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-9",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-10",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "fluency",
+     "severity": "minor",
+     "span": "What if I destroy the happiness of every being with a body? ... We do not even need to ask!",
+     "evidence": "Academic: 'what need to speak of destroying the happiness of embodied beings?' (a rhetorical a fortiori); also 'even' and the conditional 'if' are lost, so the logic is muddled.",
+     "fix": "Even destroying the happiness of one living being would bring my own ruin. So how much worse to destroy the happiness of beings with bodies, who fill all of space to its very edge!"
+    }
+   ]
+  },
+  {
+   "id": "4-11",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-12",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "carefully",
+     "evidence": "Tibetan གུས་པར: respectfully.",
+     "fix": "Because of this, I must respectfully do what I vowed."
+    }
+   ]
+  },
+  {
+   "id": "4-13",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-14",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-15",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "When will I ever get these things again?",
+     "evidence": "Academic: 'when will they be obtained?'; 'again' is not there.",
+     "fix": "When will I ever get these things?"
+    }
+   ]
+  },
+  {
+   "id": "4-16",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-17",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-18",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "4-19",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "only gather harmful deeds, things will be bad",
+     "evidence": "Academic: 'have accumulated misdeeds'; no 'only' and no extra 'things will be bad'.",
+     "fix": "If I do not do good deeds and I pile up harmful deeds, then for even a billion great ages I will not hear even the sound of the happy realms."
+    }
+   ]
+  },
+  {
+   "id": "4-20",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

@@ -1,0 +1,253 @@
+{
+ "batch": "batch-11",
+ "segments": [
+  {
+   "id": "6-102",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-103",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-104",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-105",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-106",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-107",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-108",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-109",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "पवित्र शिक्षा में भी तो कोई इच्छा नहीं होती",
+     "evidence": "The Tibetan/academic text says the sacred Dharma, which is fit to be a cause of accomplishment, is also worshipped; the children's text drops the point that the Dharma is a cause of accomplishment and instead asserts that it has no intention.",
+     "fix": "लेकिन पवित्र शिक्षा भी तो कुछ पाने का कारण बनती है, फिर हम उसकी पूजा क्यों करते हैं?"
+    }
+   ]
+  },
+  {
+   "id": "6-110",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-111",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-112",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-113",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-114",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "वह उसके फल से जानी जाती है",
+     "evidence": "The academic text says the quality of the intention is not by itself but comes from the result (fruit), and that by this they are equal; the children's text changes \"comes from the fruit\" to \"is known by its fruit\" and leaves unclear who is equal.",
+     "fix": "इरादे की अच्छी खूबी अपने आप नहीं आती, वह फल से आती है, इसलिए जीव और बुद्ध इस बात में बराबर हैं। जीवों में भी अच्छी खूबी होती है, इसलिए वे बराबर हैं।"
+    }
+   ]
+  },
+  {
+   "id": "6-115",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-116",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "omission",
+     "severity": "minor",
+     "span": "अच्छी खूबियों का सागर रखने वाले बुद्धों",
+     "evidence": "The Tibetan/academic text says the Buddhas have an ocean of limitless (anant) qualities; \"limitless\" is dropped.",
+     "fix": "पर अनगिनत अच्छी खूबियों का सागर रखने वाले बुद्धों के बराबर कोई नहीं है।"
+    }
+   ]
+  },
+  {
+   "id": "6-117",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-118",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-119",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-120",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-121",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-122",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-123",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-124",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-125",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-126",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-127",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-128",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-129",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-130",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-131",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-132",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "addition",
+     "severity": "minor",
+     "span": "यह तो जीवों को खुश करने से ही मिलती है",
+     "evidence": "The text only says that what is gained by pleasing beings cannot be given by a king (Buddhahood); it does not say Buddhahood comes ONLY from pleasing beings.",
+     "fix": "यह तो जीवों को खुश करने से मिलता है।"
+    }
+   ]
+  },
+  {
+   "id": "6-133",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "6-134",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "बार-बार जन्म का चक्र पार करते हुए",
+     "evidence": "The academic text says \"while wandering/circling in samsara\"; \"पार करते हुए\" suggests crossing over or escaping the cycle, which is a different idea.",
+     "fix": "बार-बार जन्म के चक्र में घूमते हुए, धैर्य रखने से हम सुंदर और स्वस्थ बनते हैं।"
+    }
+   ]
+  },
+  {
+   "id": "6-a",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-1",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-2",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-3",
+   "verdict": "pass",
+   "issues": [
+    {
+     "type": "mistranslation",
+     "severity": "minor",
+     "span": "से घबराता नहीं है",
+     "evidence": "The Tibetan/academic text says one is not weary of (not disillusioned with) samsaric suffering; \"does not get scared\" means fearlessness, a different and even positive idea.",
+     "fix": "जब कोई 'बार-बार जन्म का चक्र' के 'दुख' से ऊबता नहीं है, यानी उससे निकलना नहीं चाहता।"
+    }
+   ]
+  },
+  {
+   "id": "7-4",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-5",
+   "verdict": "pass",
+   "issues": []
+  },
+  {
+   "id": "7-6",
+   "verdict": "pass",
+   "issues": []
+  }
+ ]
+}

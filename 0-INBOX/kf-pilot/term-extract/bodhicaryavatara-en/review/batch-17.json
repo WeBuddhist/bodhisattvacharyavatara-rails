@@ -1,0 +1,310 @@
+{
+ "raw": {
+  "segments": [
+   {
+    "id": "8-38",
+    "drop": [
+     {
+      "n": 3,
+      "reason": "ordinary verb phrase"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-39",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "ordinary phrase"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-40",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-41",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-42",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-43",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-44",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-45",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-46",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-47",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-48",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-49",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-50",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-51",
+    "drop": [
+     {
+      "n": 2,
+      "reason": "ordinary negation"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-52",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-53",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-54",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-55",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-56",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-57",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-58",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "ordinary negation"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-59",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-60",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-61",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-62",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-63",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-64",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-65",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-66",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-67",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-68",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-69",
+    "drop": [
+     {
+      "n": 3,
+      "reason": "one-off metaphor"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-70",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-71",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "ordinary noun"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-72",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-73",
+    "drop": [
+     {
+      "n": 1,
+      "reason": "used here in the ordinary sense of hardship/fatigue, not mental afflictions"
+     }
+    ],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-74",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   },
+   {
+    "id": "8-75",
+    "drop": [],
+    "fix_span": [],
+    "add": []
+   }
+  ]
+ },
+ "decisions": {
+  "drop": [
+   {
+    "id": "8-38",
+    "bo": "དུལ་བར་བྱ",
+    "reason": "ordinary verb phrase"
+   },
+   {
+    "id": "8-39",
+    "bo": "འཇིག་རྟེན་འདི",
+    "reason": "ordinary phrase"
+   },
+   {
+    "id": "8-51",
+    "bo": "ཆགས་མེད",
+    "reason": "ordinary negation"
+   },
+   {
+    "id": "8-58",
+    "bo": "ཆགས་མེད",
+    "reason": "ordinary negation"
+   },
+   {
+    "id": "8-69",
+    "bo": "གྲོང་གི་དུར་ཁྲོད",
+    "reason": "one-off metaphor"
+   },
+   {
+    "id": "8-71",
+    "bo": "ནོར",
+    "reason": "ordinary noun"
+   },
+   {
+    "id": "8-73",
+    "bo": "ཉོན་མོངས",
+    "reason": "used here in the ordinary sense of hardship/fatigue, not mental afflictions"
+   }
+  ],
+  "fix_span": [],
+  "add": []
+ }
+}

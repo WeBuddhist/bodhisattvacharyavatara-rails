@@ -1,0 +1,722 @@
+{
+ "batch": "batch-02",
+ "terms": [
+  {
+   "term_id": "T002",
+   "bo": "སེམས་ཅན",
+   "sanskrit": "sattva",
+   "senses": [
+    {
+     "sense": "sentient beings",
+     "occurrences": "all",
+     "academic": "sentient being",
+     "children": "living being",
+     "basis": "style-sheet",
+     "reason": "Core term: both translations attest \"sentient being\"; children's per style sheet."
+    }
+   ]
+  },
+  {
+   "term_id": "T018",
+   "bo": "དམྱལ་བ",
+   "sanskrit": "naraka",
+   "senses": [
+    {
+     "sense": "hell",
+     "occurrences": "all",
+     "academic": "hell",
+     "children": "hell",
+     "basis": "style-sheet",
+     "reason": "Core term; both agree."
+    }
+   ]
+  },
+  {
+   "term_id": "T034",
+   "bo": "རྒྱལ་བ",
+   "sanskrit": "jina",
+   "senses": [
+    {
+     "sense": "epithet of the Buddhas",
+     "occurrences": "all",
+     "academic": "Victor",
+     "children": "Victorious One",
+     "basis": "style-sheet",
+     "reason": "Core term and Policy 18; G's \"Conqueror\" dropped."
+    }
+   ]
+  },
+  {
+   "term_id": "T050",
+   "bo": "ཤེས་པ",
+   "sanskrit": "jñāna",
+   "senses": [
+    {
+     "sense": "consciousness",
+     "occurrences": "all",
+     "academic": "consciousness",
+     "children": "awareness",
+     "basis": "style-sheet",
+     "reason": "Core term; both attest \"consciousness\"; \"cognition\" is a context variant only."
+    }
+   ]
+  },
+  {
+   "term_id": "T066",
+   "bo": "མི་གཙང",
+   "sanskrit": "amedhya",
+   "senses": [
+    {
+     "sense": "impure, filthy",
+     "occurrences": "all",
+     "academic": "impurity",
+     "children": "filth",
+     "basis": "both",
+     "reason": "Both attest impurity/filth; \"impurity\" for the academic, plain \"filth\" for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T082",
+   "bo": "དངོས་མེད",
+   "sanskrit": "abhāva",
+   "senses": [
+    {
+     "sense": "non-existent thing",
+     "occurrences": "all",
+     "academic": "non-entity",
+     "children": "non-existent thing",
+     "basis": "style-sheet",
+     "reason": "Core term; both attest \"non-entity\"; Policy 10 avoids \"nothingness\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T098",
+   "bo": "ཉེས་པ",
+   "sanskrit": "aparādha",
+   "senses": [
+    {
+     "sense": "fault",
+     "occurrences": "all",
+     "academic": "fault",
+     "children": "fault",
+     "basis": "both",
+     "reason": "Policy 14: ཉེས་པ is \"fault\"; both attest it, plain English for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T114",
+   "bo": "དཔག་བསམ་ཤིང",
+   "sanskrit": "kalpavṛkṣa",
+   "senses": [
+    {
+     "sense": "wish-fulfilling tree",
+     "occurrences": "all",
+     "academic": "wish-fulfilling tree",
+     "children": "wish-granting tree",
+     "basis": "both",
+     "reason": "Both attest \"wish-fulfilling tree\"; DM and G also attest \"wish-granting tree\" for children."
+    }
+   ]
+  },
+  {
+   "term_id": "T130",
+   "bo": "དབེན་པ",
+   "sanskrit": "viveka",
+   "senses": [
+    {
+     "sense": "solitude",
+     "occurrences": "all",
+     "academic": "solitude",
+     "children": "solitude",
+     "basis": "dm",
+     "reason": "DM's consistent \"solitude\"; G varies (isolation, solitary places)."
+    }
+   ]
+  },
+  {
+   "term_id": "T146",
+   "bo": "ཕྱག་འཚལ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "pay homage",
+     "occurrences": "all",
+     "academic": "pay homage",
+     "children": "bow down",
+     "basis": "style-sheet",
+     "reason": "Policy 22 fixes \"pay homage\"; children's \"bow down\" is plain and new."
+    }
+   ]
+  },
+  {
+   "term_id": "T162",
+   "bo": "ཁོང་ཁྲོ",
+   "sanskrit": "pratigha",
+   "senses": [
+    {
+     "sense": "anger",
+     "occurrences": "all",
+     "academic": "anger",
+     "children": "anger",
+     "basis": "style-sheet",
+     "reason": "Policy 27: ཁྲོ variants share \"anger\"; both attest it."
+    }
+   ]
+  },
+  {
+   "term_id": "T178",
+   "bo": "དུར་ཁྲོད",
+   "sanskrit": "śmaśāna",
+   "senses": [
+    {
+     "sense": "charnel ground",
+     "occurrences": "all",
+     "academic": "charnel ground",
+     "children": "place of the dead",
+     "basis": "both",
+     "reason": "Both attest \"charnel ground\"; children's plain phrase is new."
+    }
+   ]
+  },
+  {
+   "term_id": "T194",
+   "bo": "བདེ་གཤེགས་སྲས",
+   "sanskrit": "sugatātmaja",
+   "senses": [
+    {
+     "sense": "child of the Sugata",
+     "occurrences": "all",
+     "academic": "son of the Sugata",
+     "children": "child of the Well-Gone One",
+     "basis": "both",
+     "reason": "Both attest \"son of the Sugata\"; builds on core བདེ་གཤེགས; children's gender-neutral \"child\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T210",
+   "bo": "བྱང་ཆུབ་ཀྱི་སེམས",
+   "sanskrit": "bodhicitta",
+   "senses": [
+    {
+     "sense": "awakening mind",
+     "occurrences": "all",
+     "academic": "bodhicitta",
+     "children": "awakening mind",
+     "basis": "style-sheet",
+     "reason": "Variant of བྱང་ཆུབ་སེམས; Policy 2: bodhicitta (academic), \"awakening mind\" (children)."
+    }
+   ]
+  },
+  {
+   "term_id": "T226",
+   "bo": "སེམས་ཀྱི་གླང་པོ",
+   "sanskrit": "cittamātaṅga",
+   "senses": [
+    {
+     "sense": "elephant of the mind",
+     "occurrences": "all",
+     "academic": "elephant of the mind",
+     "children": "elephant of the mind",
+     "basis": "both",
+     "reason": "Both translations agree; builds on core སེམས \"mind\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T242",
+   "bo": "དྲེགས་པ",
+   "sanskrit": "mada",
+   "senses": [
+    {
+     "sense": "conceit",
+     "occurrences": "all",
+     "academic": "conceit",
+     "children": "feeling superior",
+     "basis": "new",
+     "reason": "Both say \"arrogance\", but Policy 28 gives that to རྒྱགས; \"conceit\" keeps them distinct."
+    }
+   ]
+  },
+  {
+   "term_id": "T258",
+   "bo": "བདག་དང་གཞན་དུ་མཉམ་པ",
+   "sanskrit": "parātmasamatā",
+   "senses": [
+    {
+     "sense": "equality of self and others",
+     "occurrences": "all",
+     "academic": "equality of self and others",
+     "children": "seeing self and others as equal",
+     "basis": "dm",
+     "reason": "Builds on core བདག \"self\"; DM's form; children's is a plain paraphrase."
+    }
+   ]
+  },
+  {
+   "term_id": "T274",
+   "bo": "བརྐམ་པ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "greed",
+     "occurrences": "all",
+     "academic": "greed",
+     "children": "greed",
+     "basis": "new",
+     "reason": "Both say \"craving\", which Policy 28 fixes for སྲེད་པ; \"greed\" keeps བརྐམ་པ distinct."
+    }
+   ]
+  },
+  {
+   "term_id": "T290",
+   "bo": "བྱེད་པོ",
+   "sanskrit": "kartṛ",
+   "senses": [
+    {
+     "sense": "agent of action",
+     "occurrences": [
+      "9-72"
+     ],
+     "academic": "agent",
+     "children": "doer",
+     "basis": "both",
+     "reason": "Both attest \"agent\" for the doer of an action in the continuum argument."
+    },
+    {
+     "sense": "creator (Īśvara)",
+     "occurrences": [
+      "9-120"
+     ],
+     "academic": "creator",
+     "children": "maker of the world",
+     "basis": "both",
+     "reason": "Both attest \"creator\" for the world-maker rejected in the Īśvara argument."
+    }
+   ]
+  },
+  {
+   "term_id": "T306",
+   "bo": "སྐྱེས་བུའི་དོན",
+   "sanskrit": "puruṣārtha",
+   "senses": [
+    {
+     "sense": "purpose of a human being",
+     "occurrences": "all",
+     "academic": "human purpose",
+     "children": "purpose of a human life",
+     "basis": "gm",
+     "reason": "Core དོན \"purpose\" sense; G's \"human purpose\"; children's is plainer."
+    }
+   ]
+  },
+  {
+   "term_id": "T322",
+   "bo": "ཚངས་པ",
+   "sanskrit": "brahman",
+   "senses": [
+    {
+     "sense": "Brahmā (god)",
+     "occurrences": "all",
+     "academic": "Brahmā",
+     "children": "Brahma",
+     "basis": "both",
+     "reason": "Proper name; both give Brahmā; children drop diacritics."
+    }
+   ]
+  },
+  {
+   "term_id": "T338",
+   "bo": "སྤོས",
+   "sanskrit": "dhūpa",
+   "senses": [
+    {
+     "sense": "incense",
+     "occurrences": "all",
+     "academic": "incense",
+     "children": "incense",
+     "basis": "both",
+     "reason": "Both agree; plain English."
+    }
+   ]
+  },
+  {
+   "term_id": "T354",
+   "bo": "སྡིག་ལྡན",
+   "sanskrit": "pāpin",
+   "senses": [
+    {
+     "sense": "one burdened with misdeeds",
+     "occurrences": "all",
+     "academic": "one burdened with misdeeds",
+     "children": "one who has done harmful deeds",
+     "basis": "new",
+     "reason": "Policy 14 avoids \"sinner/sinful\"; builds on core སྡིག་པ \"misdeed\" + ལྡན."
+    }
+   ]
+  },
+  {
+   "term_id": "T370",
+   "bo": "ལོངས་སྤྱོད",
+   "sanskrit": "bhoga",
+   "senses": [
+    {
+     "sense": "possessions",
+     "occurrences": "all",
+     "academic": "possession",
+     "children": "belonging",
+     "basis": "dm",
+     "reason": "DM's \"possessions\"; G's \"wealth\" is narrower; children's is plainer."
+    }
+   ]
+  },
+  {
+   "term_id": "T386",
+   "bo": "བསླབ",
+   "sanskrit": "śikṣā",
+   "senses": [
+    {
+     "sense": "training",
+     "occurrences": "all",
+     "academic": "training",
+     "children": "training",
+     "basis": "both",
+     "reason": "Both attest \"trainings\"; plain English."
+    }
+   ]
+  },
+  {
+   "term_id": "T402",
+   "bo": "ཕྱི་རོལ་དངོས་པོ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "external entity",
+     "occurrences": "all",
+     "academic": "external entity",
+     "children": "outside thing",
+     "basis": "style-sheet",
+     "reason": "Policy 19: builds on core དངོས་པོ \"entity\" and \"thing\"; \"phenomena\" is not followed."
+    }
+   ]
+  },
+  {
+   "term_id": "T418",
+   "bo": "ག་ཞར",
+   "sanskrit": "upahāsa",
+   "senses": [
+    {
+     "sense": "mockery",
+     "occurrences": "all",
+     "academic": "mockery",
+     "children": "mockery",
+     "basis": "both",
+     "reason": "Both agree; plain English."
+    }
+   ]
+  },
+  {
+   "term_id": "T434",
+   "bo": "ཁ་ན་མ་ཐོ་མེད",
+   "sanskrit": "anavadya",
+   "senses": [
+    {
+     "sense": "blameless",
+     "occurrences": "all",
+     "academic": "blameless",
+     "children": "free of blame",
+     "basis": "dm",
+     "reason": "DM's \"blameless\"; G's \"faultless\" would collide with ཉེས་པ \"fault\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T450",
+   "bo": "མདོ་རྣམས་ཀུན་ལས་བཏུས་པ",
+   "sanskrit": "Sūtrasamuccaya",
+   "senses": [
+    {
+     "sense": "title of a work by Nāgārjuna",
+     "occurrences": "all",
+     "academic": "Compendium of Sūtras",
+     "children": "Collection of the Buddha's Talks",
+     "basis": "dm",
+     "reason": "DM's translated title; G keeps Sanskrit; children get no Sanskrit and no \"sūtra\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T466",
+   "bo": "མངོན་པར་ཞེན་པ",
+   "sanskrit": "abhiniveśa",
+   "senses": [
+    {
+     "sense": "fixation",
+     "occurrences": "all",
+     "academic": "fixation",
+     "children": "holding on tightly",
+     "basis": "new",
+     "reason": "Both say \"attachment\", which Policy 28 fixes for ཆགས་པ; \"fixation\" keeps them distinct."
+    }
+   ]
+  },
+  {
+   "term_id": "T482",
+   "bo": "བསྟོད་དང་གྲགས",
+   "sanskrit": "stutiyaśas",
+   "senses": [
+    {
+     "sense": "praise and fame",
+     "occurrences": "all",
+     "academic": "praise and fame",
+     "children": "praise and fame",
+     "basis": "both",
+     "reason": "Both agree; plain English."
+    }
+   ]
+  },
+  {
+   "term_id": "T498",
+   "bo": "འཁོར་ལོས་སྒྱུར་བ",
+   "sanskrit": "cakravartin",
+   "senses": [
+    {
+     "sense": "universal monarch",
+     "occurrences": "all",
+     "academic": "universal monarch",
+     "children": "king of the whole world",
+     "basis": "both",
+     "reason": "Both attest \"universal monarch\"; children's plain phrase is new."
+    }
+   ]
+  },
+  {
+   "term_id": "T514",
+   "bo": "བསོད་ནམས་རྒྱ་མཚོ",
+   "sanskrit": "puṇyasāgara",
+   "senses": [
+    {
+     "sense": "ocean of merit",
+     "occurrences": "all",
+     "academic": "ocean of merit",
+     "children": "ocean of stored goodness",
+     "basis": "style-sheet",
+     "reason": "Policy 19 names this compound; children builds on \"store of goodness\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T530",
+   "bo": "མཁའ་ལྡིང",
+   "sanskrit": "garuḍa",
+   "senses": [
+    {
+     "sense": "garuḍa",
+     "occurrences": "all",
+     "academic": "garuḍa",
+     "children": "giant sky bird",
+     "basis": "both",
+     "reason": "Both attest garuda; Policy 15 keeps it Sanskrit (academic); children's plain phrase is new."
+    }
+   ]
+  },
+  {
+   "term_id": "T546",
+   "bo": "རྟག་པ་མེད་པ",
+   "sanskrit": "aśāśvata",
+   "senses": [
+    {
+     "sense": "impermanent",
+     "occurrences": "all",
+     "academic": "impermanent",
+     "children": "not lasting",
+     "basis": "both",
+     "reason": "Both agree \"impermanent\"; children's is plain."
+    }
+   ]
+  },
+  {
+   "term_id": "T562",
+   "bo": "བཤང",
+   "sanskrit": "amedhya",
+   "senses": [
+    {
+     "sense": "excrement",
+     "occurrences": "all",
+     "academic": "excrement",
+     "children": "body waste",
+     "basis": "dm",
+     "reason": "DM's \"excrement\"; G's \"feces\" is a variant; children's is plain."
+    }
+   ]
+  },
+  {
+   "term_id": "T578",
+   "bo": "དངོས་པོ་མེད",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "absence of an entity",
+     "occurrences": "all",
+     "academic": "absence of an entity",
+     "children": "without a thing",
+     "basis": "new",
+     "reason": "Builds on core དངོས་པོ \"entity\"; kept apart from དངོས་མེད \"non-entity\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T594",
+   "bo": "ངར་འཛིན",
+   "sanskrit": "ahaṃkāra",
+   "senses": [
+    {
+     "sense": "grasping as \"I\"",
+     "occurrences": "all",
+     "academic": "grasping as \"I\"",
+     "children": "taking as \"I\"",
+     "basis": "both",
+     "reason": "Both attest \"grasped as 'I'\"; head form noun, children's is plainer."
+    }
+   ]
+  },
+  {
+   "term_id": "T610",
+   "bo": "སྒྱུ་མའི་སྐྱེས་བུ",
+   "sanskrit": "māyāpuruṣa",
+   "senses": [
+    {
+     "sense": "illusory person",
+     "occurrences": "all",
+     "academic": "illusory person",
+     "children": "person made by magic",
+     "basis": "both",
+     "reason": "Both attest \"illusory person\"; children's paraphrase keeps the idea."
+    }
+   ]
+  },
+  {
+   "term_id": "T626",
+   "bo": "གདུལ་བྱ",
+   "sanskrit": "vineya",
+   "senses": [
+    {
+     "sense": "one to be tamed",
+     "occurrences": "all",
+     "academic": "one to be tamed",
+     "children": "one to be guided",
+     "basis": "gm",
+     "reason": "G's \"tamed\" avoids collision with བསླབ \"training\"; children's is plainer."
+    }
+   ]
+  },
+  {
+   "term_id": "T642",
+   "bo": "ཉོན་མོངས་ཤེས་བྱའི་སྒྲིབ་པ",
+   "sanskrit": "kleśajñeyāvaraṇa",
+   "senses": [
+    {
+     "sense": "obscuration of afflictions and of objects of knowledge",
+     "occurrences": "all",
+     "academic": "obscuration of afflictions and of objects of knowledge",
+     "children": "veil of troubling emotions and of things to know",
+     "basis": "style-sheet",
+     "reason": "Policy 19 gives this fixed technical phrase; children builds on core parts."
+    }
+   ]
+  },
+  {
+   "term_id": "T658",
+   "bo": "རྟོག",
+   "sanskrit": "kalpanā",
+   "senses": [
+    {
+     "sense": "conceptual thought",
+     "occurrences": "all",
+     "academic": "conceptual thought",
+     "children": "imagining",
+     "basis": "dm",
+     "reason": "DM's \"conceptual thought\"; G's \"conception\" is vague; children's is new."
+    }
+   ]
+  },
+  {
+   "term_id": "T674",
+   "bo": "བརྟགས་པའི་དངོས",
+   "sanskrit": "kalpita bhāva",
+   "senses": [
+    {
+     "sense": "imputed entity",
+     "occurrences": "all",
+     "academic": "imputed entity",
+     "children": "made-up thing",
+     "basis": "gm",
+     "reason": "G's \"imputed\" with core དངོས་པོ \"entity\"; children builds on \"thing\"."
+    }
+   ]
+  },
+  {
+   "term_id": "T690",
+   "bo": "བསོད་ནམས་ཚོགས",
+   "sanskrit": "puṇyasaṃbhāra",
+   "senses": [
+    {
+     "sense": "accumulation of merit",
+     "occurrences": "all",
+     "academic": "accumulation of merit",
+     "children": "gathered store of goodness",
+     "basis": "gm",
+     "reason": "G's \"accumulation of merit\"; builds on core བསོད་ནམས; children's is new."
+    }
+   ]
+  },
+  {
+   "term_id": "T706",
+   "bo": "མི་ངལ",
+   "sanskrit": "akṣaṇa",
+   "senses": [
+    {
+     "sense": "state without leisure",
+     "occurrences": "all",
+     "academic": "non-leisure",
+     "children": "state without freedom",
+     "basis": "dm",
+     "reason": "DM's \"non-leisure\" (pairs with leisure); G's \"unfree states\" is vaguer."
+    }
+   ]
+  },
+  {
+   "term_id": "T722",
+   "bo": "དགེ་སློང་མ",
+   "sanskrit": "bhikṣuṇī",
+   "senses": [
+    {
+     "sense": "nun",
+     "occurrences": "all",
+     "academic": "nun",
+     "children": "nun",
+     "basis": "both",
+     "reason": "Both agree; plain English."
+    }
+   ]
+  },
+  {
+   "term_id": "T738",
+   "bo": "བནྡེ་རིན་ཆེན་བཟང་པོ",
+   "sanskrit": null,
+   "senses": [
+    {
+     "sense": "translator monk",
+     "occurrences": "all",
+     "academic": "Rinchen Zangpo",
+     "children": "Rinchen Zangpo",
+     "basis": "style-sheet",
+     "reason": "Policy 26: Tibetan name in simple phonetic form; colophon is academic-only."
+    }
+   ]
+  }
+ ]
+}

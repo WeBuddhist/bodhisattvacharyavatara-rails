@@ -1,17 +1,24 @@
 ---
 book_id: BCAC10_PKM_bo
-title: "བྱང་ཆུབ་ཀྱི་སྤྱོད་པ་ལ་འཇུག་པའི་དཀའ་འགྲེལ། "
-title_in_english: "Difficult Points Commentary on Entering the Conduct of a Bodhisattva (Bodhicaryāvatārapañjikā)"
-author: "མཁས་པ་ཤེས་རབ་འབྱུང་གནས་བློ་གྲོས། "
-author_in_english: "Prajñākaramati"
+title: བྱང་ཆུབ་ཀྱི་སྤྱོད་པ་ལ་འཇུག་པའི་དཀའ་འགྲེལ།
+title_in_english: Difficult Points Commentary on Entering the Conduct of a Bodhisattva (Bodhicaryāvatārapañjikā)
+author: shes rab 'byung gnas blo gros/
+author_in_english: Prajñākaramati
 file_type: commentary
 language: Tibetan
 lang_tag: bo
-source_description: ""
-derge_catalog_id: D3872
-status: 1-segmented
+source_description: 
+category_id: JD5ULLPAV1cxg7RSb7L3q
+license: public
+source: "https://webuddhist.com/"
+root_text: "1-SOURCES\\Translations\\bo-བློ་ལྡན་ཤེས་རབ།.md"
+bdrc_work_id: MW23703_3872
+text_id:
+edition_id: 
+toc_id: 
+commentary_of: 0lvicjSqSLdtXCZQjSYvj
 ---
-# ༄༅། །བྱང་ཆུབ་ཀྱི་སྤྱོད་པ་ལ་འཇུག་པའི་དཀའ་འགྲེལ། 
+# ༄༅། །བྱང་ཆུབ་ཀྱི་སྤྱོད་པ་ལ་འཇུག་པའི་དཀའ་འགྲེལ། ^0
 
 ## ཀླད་ཀྱི་དོན། ^I-0
 

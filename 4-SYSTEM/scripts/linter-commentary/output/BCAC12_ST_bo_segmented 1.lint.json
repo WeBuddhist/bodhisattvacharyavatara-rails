@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "source": "C:\\Users\\geshe lobzang tseten\\repos\\bodhisattvacharyavatara-rails\\1-SOURCES\\Commentaries\\formated_commentary\\BCAC12_ST_bo_segmented 1.md",
+  "validated_at": "2026-10-20T11:48:47.093852+00:00",
+  "notes": [
+    "bdrc: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "toc: 5 headers found"
+  ],
+  "warnings": [
+    "no title labels found in TTL for I3CN4457"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་བ",
+      "en": "Commentary on the Bodhicaryāvatāra"
+    },
+    "alt_titles": null,
+    "language": "bo",
+    "commentary_of": "0lvicjSqSLdtXCZQjSYvj",
+    "translation_of": null,
+    "category_id": "JD5ULLPAV1cxg7RSb7L3q",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author",
+        "bdrc_id": "P1618"
+      }
+    ],
+    "tag_ids": null
+  }
+}

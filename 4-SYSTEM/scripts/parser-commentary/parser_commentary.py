@@ -23,6 +23,13 @@ from pathlib import Path
 
 OUTPUT_DIR = Path(__file__).parent / "output"
 
+
+def _stem_dir(stem: str) -> Path:
+    """Per-text output folder: output/<stem>/ (created on demand)."""
+    d = OUTPUT_DIR / stem
+    d.mkdir(parents=True, exist_ok=True)
+    return d
+
 YAML_PROPS_RE = re.compile(r"\A---\r?\n(.*?)\r?\n---\r?\n?", re.DOTALL)
 REF_RE = re.compile(r'(\^[A-Za-z0-9]+(?:-[A-Za-z0-9]+)*)\s*$')  # allows multi-level header IDs (^2-1-0), same as linter
 ROMAN_RE = re.compile(r'^[IVXLCDM]+$')
@@ -158,8 +165,7 @@ def extract_text_input(lint_path):
     stem = lint_path.stem
     if stem.endswith(".lint"):
         stem = stem[:-len(".lint")]
-    out_path = OUTPUT_DIR / f"{stem}.text.json"
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    out_path = _stem_dir(stem) / f"{stem}.text.json"
     out_path.write_text(json.dumps(clean, ensure_ascii=False, indent=2), encoding="utf-8")
     return out_path
 
@@ -322,8 +328,7 @@ def build_edition(source_path, lint_path):
     }
 
     stem = source_path.stem
-    out_path = OUTPUT_DIR / f"{stem}.edition.json"
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    out_path = _stem_dir(stem) / f"{stem}.edition.json"
     out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
     # `_headings` is handed to build_toc in memory and is deliberately absent
     # from the written payload — it is TOC input, not edition data.
@@ -402,8 +407,7 @@ def build_toc(source_path, edition_result):
     out = {"sections": sections}
 
     stem = source_path.stem
-    out_path = OUTPUT_DIR / f"{stem}.toc.json"
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    out_path = _stem_dir(stem) / f"{stem}.toc.json"
     out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
     return out_path, out
 
@@ -467,8 +471,7 @@ def build_alignment(source_path):
 
     out = {"alignments": alignments}
     stem = source_path.stem
-    out_path = OUTPUT_DIR / f"{stem}.alignment.json"
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    out_path = _stem_dir(stem) / f"{stem}.alignment.json"
     out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
     return out_path, out
 

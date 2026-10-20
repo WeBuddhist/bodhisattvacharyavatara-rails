@@ -7,9 +7,28 @@ author_in_english: "Attributed to Kunkhyen Tsona"
 file_type: commentary
 language: Tibetan
 lang_tag: bo
-source_description: "Block from VEIE0OPI1C1BBFCB trilingual alignment corpus (BDRC volume I3CN4454)"
+source_description: ""
 bdrc_work_id: I3CN4454
 status: segmented
+
+book_id: BCAC13_KTB_bo
+title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་གཏམ་རྒྱུད།
+title_in_english: A Narrative of the Bodhicaryāvatār
+author: ཀུན་མཁྱེན་འཚོ་སྣ་བས་མཛད་པར་གྲགས།
+author_in_english: Attributed to Kunkhyen Tsona
+file_type: commentary
+language: Tibetan
+lang_tag: bo
+source_description: Block from VEIE0OPI1C1BBFCB trilingual alignment corpus (BDRC volume I3CN4454)
+category_id: JD5ULLPAV1cxg7RSb7L3q
+license: public
+source: "https://webuddhist.com/"
+root_text: "1-SOURCES\\Translations\\bo-བློ་ལྡན་ཤེས་རབ།.md"
+bdrc_work_id: I3CN4454
+text_id: 
+edition_id: 
+toc_id: 
+commentary_of: 0lvicjSqSLdtXCZQjSYvj
 ---
 # བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་གཏམ་རྒྱུད། ^0
 

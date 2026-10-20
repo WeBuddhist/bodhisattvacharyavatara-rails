@@ -15,11 +15,14 @@ Runs four functions:
 
 ```
 output/
-  <stem>.text.json        # clean text_input payload
-  <stem>.edition.json     # edition content + segmentation
-  <stem>.toc.json         # nested TOC with character spans
-  <stem>.alignment.json   # commentary -> root/translation segment alignments
+  <stem>/                   # one folder per commentary
+    <stem>.text.json        # clean text_input payload
+    <stem>.edition.json     # edition content + segmentation
+    <stem>.toc.json         # nested TOC with character spans
+    <stem>.alignment.json   # commentary -> root/translation segment alignments
 ```
+
+`upload_commentary.py` reads this folder by default (`output/<stem>/`).
 
 ## Alignment
 

@@ -13,9 +13,9 @@ license: public
 source: "https://webuddhist.com/"
 root_text: "1-SOURCES\\Translations\\bo-བློ་ལྡན་ཤེས་རབ།.md"
 bdrc_work_id: MW23703_3872
-text_id:
-edition_id: 
-toc_id: 
+text_id: r4aHPnbyotK6iKQ4Zf1SN
+edition_id: m7w6V9eKnEiJCuAi7b7sz
+toc_id: xFLBerC0czGASITTqEDPE
 commentary_of: 0lvicjSqSLdtXCZQjSYvj
 ---
 # ༄༅། །བྱང་ཆུབ་ཀྱི་སྤྱོད་པ་ལ་འཇུག་པའི་དཀའ་འགྲེལ། ^0

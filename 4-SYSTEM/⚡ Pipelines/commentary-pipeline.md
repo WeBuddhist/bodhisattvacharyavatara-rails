@@ -72,7 +72,7 @@ Eight-stage flow for turning a raw commentary text into block-ID'd, root-transcl
 - **Input:** `<title>.md`
 - **Process:** Push the finished text to the database.
 - **Output:** Database record.
-- **Tooling:** _TBD — upload script._
+- **Tooling:** `4-SYSTEM/scripts/upload_commentary.py` — run `lint_commentary.py` and `parser_commentary.py` first; use `--dry-run` to check before uploading.
 
 ---
 

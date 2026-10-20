@@ -1,15 +1,22 @@
 ---
 book_id: BCAC12_ST_bo
-title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་བ། 
+title: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་བ
 title_in_english: Commentary on the Bodhicaryāvatāra
 author: སློབ་དཔོན་བསོད་ནམས་རྩེ་མོ། 
 author_in_english: Sönam Tsemo (1142–1182)
 file_type: commentary
 language: Tibetan
 lang_tag: bo
-source_description: "Block from VEIE0OPI1C1BBFCB trilingual alignment corpus (BDRC work I3CN4457)"
+source_description: Block from VEIE0OPI1C1BBFCB trilingual alignment corpus (BDRC work I3CN4457)
+category_id: JD5ULLPAV1cxg7RSb7L3q
+license: public
+source: "https://webuddhist.com/"
+root_text: "1-SOURCES\\Translations\\bo-བློ་ལྡན་ཤེས་རབ།.md"
 bdrc_work_id: I3CN4457
-status: 1-segmented
+text_id: 
+edition_id: 
+toc_id: 
+commentary_of: 0lvicjSqSLdtXCZQjSYvj
 ---
 # ༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་འགྲེལ་བ་བཞུགས། །
 

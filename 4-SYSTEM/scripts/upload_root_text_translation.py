@@ -24,7 +24,7 @@ import urllib.request
 import urllib.error
 from pathlib import Path
 
-API_BASE = "http://13.250.189.160/v2"
+API_BASE = "https://library.webuddhist.com/v2"
 DEFAULT_OUTPUT_DIR = Path(__file__).parent / "parser-root-text" / "output"
 
 YAML_PROPS_RE = re.compile(r"\A---\r?\n(.*?)\r?\n---\r?\n?", re.DOTALL)

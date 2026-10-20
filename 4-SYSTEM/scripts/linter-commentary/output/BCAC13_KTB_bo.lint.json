@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "source": "C:\\Users\\geshe lobzang tseten\\repos\\bodhisattvacharyavatara-rails\\1-SOURCES\\Commentaries\\formated_commentary\\BCAC13_KTB_bo.md",
+  "validated_at": "2026-10-20T12:06:11.593840+00:00",
+  "notes": [
+    "bdrc: not set (optional)",
+    "wiki: not set (optional)",
+    "date: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "toc: 38 headers found"
+  ],
+  "warnings": [
+    "no title labels found in TTL for I3CN4454",
+    "no Person found in BDRC for 'Attributed to Kunkhyen Tsona'"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་གཏམ་རྒྱུད།",
+      "en": "A Narrative of the Bodhicaryāvatār"
+    },
+    "alt_titles": null,
+    "language": "bo",
+    "commentary_of": "0lvicjSqSLdtXCZQjSYvj",
+    "translation_of": null,
+    "category_id": "JD5ULLPAV1cxg7RSb7L3q",
+    "license": "public",
+    "contributions": [
+      {
+        "type": "person",
+        "role": "author"
+      }
+    ],
+    "tag_ids": null
+  }
+}

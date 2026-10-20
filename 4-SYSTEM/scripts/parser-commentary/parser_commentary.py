@@ -45,7 +45,10 @@ _WYLIE_RE = re.compile(r"'[a-zA-Z]")
 # lines — e.g. a block ID `^I-13` ending one line and a `>` blockquote
 # marker starting the next — so the line boundary itself can fall inside
 # the marker.
-VERSE_ID_RE = re.compile(r'\^[A-Za-z0-9]+-[A-Za-z0-9]+>')
+VERSE_ID_RE = re.compile(r'\^[A-Za-z0-9]+-[A-Za-z0-9]+>?')
+
+# Leading markdown blockquote markers (`> `, `>> `) — stripped from edition content.
+BLOCKQUOTE_RE = re.compile(r'^\s*(?:>\s?)+')
 
 
 def _wylie_to_unicode(text, lang_tag):
@@ -226,6 +229,7 @@ def _build_content_and_segmentation(blocks, doc_default):
                     ref_idx = text.rfind(ref)
                     if ref_idx != -1:
                         text = text[:ref_idx].rstrip()
+                text = BLOCKQUOTE_RE.sub("", text)
                 if not text:
                     continue
                 start = pos
@@ -233,6 +237,10 @@ def _build_content_and_segmentation(blocks, doc_default):
                 pos += len(text)
                 line_spans.append({"start": start, "end": start + len(text)})
             seg_type = _infer_segment_type(ref_no_caret, doc_default)
+            # A blockquote (`> …` lines) is a verse/quotation, whatever its ref says.
+            first_line = next((l for l in content_lines if l.strip()), "")
+            if first_line.lstrip().startswith(">"):
+                seg_type = "verse"
             seg_list.append({"lines": line_spans, "type": seg_type, "reference": ref_no_caret})
 
     return "".join(parts), seg_list, headings

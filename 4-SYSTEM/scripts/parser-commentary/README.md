@@ -72,6 +72,7 @@ python3 4-SYSTEM\scripts\parser-commentary\parser_commentary.py "4-SYSTEM\script
 
 - Run `linter-commentary/lint_commentary.py` first — the parser reads `commentary_of` and other resolved fields from the lint JSON
 - Blocks without a reference marker (`^ref`) are skipped with a warning
+- A block whose first line starts with `>` (a markdown blockquote) is typed `verse`, overriding the ref-based type; the leading `>` markers are dropped from the edition content (segment spans are computed on the stripped text)
 - Pure transclusion blocks (`![[...]]` only) are silently skipped — they are used for alignment, not content
 - Tibetan TOC titles in Wylie are auto-converted to Unicode
 - Alignment is always attempted for commentaries (unlike translations, where it's conditional) — if the commentary body has no transclusion links, `alignment.json` will simply have an empty `alignments` array

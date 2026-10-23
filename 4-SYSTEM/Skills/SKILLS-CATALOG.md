@@ -172,6 +172,12 @@ These skills populate `2-RAILS/` with the structured context that translation an
 **Outputs:** A complete `3-TRANSFORMATIONS/Translations/<track-name>/requirements.md`, written in the target language.
 → `requirements-author/SKILL.md` *(to be written)*
 
+### `zh-track-prompt` **[exists]**
+**Purpose:** Build or revise a Chinese translation track's prompt: a Chinese-only system prompt written with the user as a bilingual draft and assembled into the track's requirements.md.
+**Inputs:** The zh track folder (requirements.md, termbase.md, audience.md), the translation runner, the termbase files, the vault annex's commentary list, a style sample and decisions from the user.
+**Outputs:** `0-INBOX/zh-prompt/zh-<descriptor>-prompt-draft.md`, the rebuilt `3-TRANSFORMATIONS/Translations/zh-<descriptor>/requirements.md` (previous version archived), termbase locks for the chosen formulas, and optionally an A/B test plan and operator guide.
+→ [`zh-track-prompt/SKILL.md`](zh-track-prompt/SKILL.md)
+
 ---
 
 ## Translation skills

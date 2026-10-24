@@ -1,0 +1,462 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T201",
+    "senses": [
+     {
+      "sense": "three times",
+      "academic": "tres tiempos",
+      "children": "pasado, presente y futuro",
+      "note": "Buddhist formula for past, present, and future."
+     }
+    ]
+   },
+   {
+    "term_id": "T202",
+    "senses": [
+     {
+      "sense": "master (teacher)",
+      "academic": "maestro",
+      "children": "maestro",
+      "note": "ācārya; Sanskrit kept implicit, standard Spanish rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T203",
+    "senses": [
+     {
+      "sense": "great compassion",
+      "academic": "gran compasión",
+      "children": "gran compasión",
+      "note": "mahākaruṇā, the Buddha's compassion for all beings."
+     }
+    ]
+   },
+   {
+    "term_id": "T204",
+    "senses": [
+     {
+      "sense": "Three Jewels",
+      "academic": "Tres Joyas",
+      "children": "Tres Joyas",
+      "note": "Buddha, Dharma, Sangha; capitalized as proper name."
+     }
+    ]
+   },
+   {
+    "term_id": "T205",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Samantabhadra",
+      "children": "Samantabhadra",
+      "note": "Proper name, unchanged in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T206",
+    "senses": [
+     {
+      "sense": "Mañjuśrī",
+      "academic": "Mañjuśrī",
+      "children": "Mañjushri",
+      "note": "Bodhisattva of wisdom; children form drops diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T207",
+    "senses": [
+     {
+      "sense": "Avalokiteśvara",
+      "academic": "Avalokiteśvara",
+      "children": "Avalokiteshvara",
+      "note": "Bodhisattva of compassion; simplified spelling for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T208",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Ākāśagarbha",
+      "children": "Akashagarbha",
+      "note": "Proper name; diacritics removed for young readers."
+     }
+    ]
+   },
+   {
+    "term_id": "T209",
+    "senses": [
+     {
+      "sense": "omniscient",
+      "academic": "omnisciente",
+      "children": "que todo lo sabe",
+      "note": "Adjective epithet of Buddhas; plain phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T210",
+    "senses": [
+     {
+      "sense": "awakening mind",
+      "academic": "bodhicitta",
+      "children": "mente del despertar",
+      "note": "Reuses fixed bodhicitta renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T211",
+    "senses": [
+     {
+      "sense": "pass into nirvāṇa",
+      "academic": "nirvāṇa",
+      "children": "libertad de la tristeza",
+      "note": "Term kept in academic register; glossed plainly for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T212",
+    "senses": [
+     {
+      "sense": "countless eon",
+      "academic": "eones incontables",
+      "children": "incontables edades muy largas",
+      "note": "Builds on fixed eon rendering: eón / edad muy larga."
+     }
+    ]
+   },
+   {
+    "term_id": "T213",
+    "senses": [
+     {
+      "sense": "inexhaustible treasure",
+      "academic": "tesoro inagotable",
+      "children": "tesoro que nunca se acaba",
+      "note": "Image of bodhicitta as an endless treasure."
+     }
+    ]
+   },
+   {
+    "term_id": "T214",
+    "senses": [
+     {
+      "sense": "path",
+      "academic": "camino",
+      "children": "camino",
+      "note": "mārga, the Buddhist path; same everyday word both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T215",
+    "senses": [
+     {
+      "sense": "asura",
+      "academic": "asura",
+      "children": "semidiós",
+      "note": "Class of jealous beings; children get a plain equivalent."
+     }
+    ]
+   },
+   {
+    "term_id": "T216",
+    "senses": [
+     {
+      "sense": "striving",
+      "academic": "diligencia",
+      "children": "esfuerzo",
+      "note": "yatna as zealous application to practice."
+     }
+    ]
+   },
+   {
+    "term_id": "T217",
+    "senses": [
+     {
+      "sense": "faith",
+      "academic": "fe",
+      "children": "confianza",
+      "note": "śraddhā; trusting confidence, simple word for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T218",
+    "senses": [
+     {
+      "sense": "human body",
+      "academic": "cuerpo humano",
+      "children": "cuerpo humano",
+      "note": "Reuses fixed kāya rendering cuerpo."
+     }
+    ]
+   },
+   {
+    "term_id": "T219",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Bienaventurado",
+      "children": "Bienaventurado",
+      "note": "bhagavat; standard Spanish rendering of the epithet."
+     }
+    ]
+   },
+   {
+    "term_id": "T220",
+    "senses": [
+     {
+      "sense": "liberation",
+      "academic": "liberación",
+      "children": "libertad",
+      "note": "vimokṣa as release from saṃsāra."
+     },
+     {
+      "sense": "life story of a saint",
+      "academic": "relato de liberación",
+      "children": "historia de su vida",
+      "note": "Hagiographic genre; distinct sense, distinct rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T221",
+    "senses": [
+     {
+      "sense": "leisure",
+      "academic": "ocio",
+      "children": "libertad para practicar",
+      "note": "kṣaṇa, the free endowment of precious human rebirth."
+     }
+    ]
+   },
+   {
+    "term_id": "T222",
+    "senses": [
+     {
+      "sense": "Mount Meru",
+      "academic": "monte Meru",
+      "children": "monte Meru",
+      "note": "Cosmic mountain; proper name unchanged."
+     }
+    ]
+   },
+   {
+    "term_id": "T223",
+    "senses": [
+     {
+      "sense": "ten directions",
+      "academic": "diez direcciones",
+      "children": "diez direcciones",
+      "note": "Standard Buddhist spatial formula."
+     }
+    ]
+   },
+   {
+    "term_id": "T224",
+    "senses": [
+     {
+      "sense": "illusion",
+      "academic": "ilusión",
+      "children": "ilusión",
+      "note": "Reuses fixed māyā rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T225",
+    "senses": [
+     {
+      "sense": "sense object",
+      "academic": "objeto sensorial",
+      "children": "cosa que percibimos",
+      "note": "viṣaya, object of a sense faculty."
+     }
+    ]
+   },
+   {
+    "term_id": "T226",
+    "senses": [
+     {
+      "sense": "elephant of the mind",
+      "academic": "elefante de la mente",
+      "children": "elefante de la mente",
+      "note": "Metaphor for the wild mind in chapter 5."
+     }
+    ]
+   },
+   {
+    "term_id": "T227",
+    "senses": [
+     {
+      "sense": "rākṣasa",
+      "academic": "rākṣasa",
+      "children": "demonio",
+      "note": "Flesh-eating demon; children get plain equivalent."
+     }
+    ]
+   },
+   {
+    "term_id": "T228",
+    "senses": [
+     {
+      "sense": "hell of sentient beings",
+      "academic": "infierno de los seres sintientes",
+      "children": "infierno de los seres vivos",
+      "note": "Combines fixed naraka and sattva renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T229",
+    "senses": [
+     {
+      "sense": "three worlds",
+      "academic": "tres mundos",
+      "children": "tres mundos",
+      "note": "Desire, form, and formless realms; reuses fixed loka."
+     }
+    ]
+   },
+   {
+    "term_id": "T230",
+    "senses": [
+     {
+      "sense": "recitation",
+      "academic": "recitación",
+      "children": "recitación",
+      "note": "japa, repeated verbal recitation practice."
+     }
+    ]
+   },
+   {
+    "term_id": "T231",
+    "senses": [
+     {
+      "sense": "wound of the mind",
+      "academic": "herida de la mente",
+      "children": "herida de la mente",
+      "note": "Metaphor for anger as an inner wound."
+     }
+    ]
+   },
+   {
+    "term_id": "T232",
+    "senses": [
+     {
+      "sense": "name of a hell",
+      "academic": "Infierno Aplastante",
+      "children": "infierno aplastante",
+      "note": "saṃghāta, the crushing hell; descriptive Spanish name."
+     }
+    ]
+   },
+   {
+    "term_id": "T233",
+    "senses": [
+     {
+      "sense": "gateway of the mind",
+      "academic": "puerta de la mente",
+      "children": "puerta de la mente",
+      "note": "manodvāra, the mental door of cognition."
+     }
+    ]
+   },
+   {
+    "term_id": "T234",
+    "senses": [
+     {
+      "sense": "agitation",
+      "academic": "agitación",
+      "children": "inquietud",
+      "note": "auddhatya, restless excitement of mind."
+     }
+    ]
+   },
+   {
+    "term_id": "T235",
+    "senses": [
+     {
+      "sense": "self-praise",
+      "academic": "autoelogio",
+      "children": "alabarse a sí mismo",
+      "note": "Praising oneself; verb phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T236",
+    "senses": [
+     {
+      "sense": "disparagement of others",
+      "academic": "denigración de los demás",
+      "children": "hablar mal de los demás",
+      "note": "Paired with self-praise; simple phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T237",
+    "senses": [
+     {
+      "sense": "guarding introspection",
+      "academic": "custodia de la introspección",
+      "children": "cuidar la atención",
+      "note": "Title of chapter 5; watchful self-monitoring."
+     }
+    ]
+   },
+   {
+    "term_id": "T238",
+    "senses": [
+     {
+      "sense": "meditation",
+      "academic": "meditación",
+      "children": "meditación",
+      "note": "bhāvayet, cultivating or meditating; everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T239",
+    "senses": [
+     {
+      "sense": "peace",
+      "academic": "paz",
+      "children": "paz",
+      "note": "śama/śiva as inner peace; same word both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T240",
+    "senses": [
+     {
+      "sense": "mental unhappiness",
+      "academic": "infelicidad mental",
+      "children": "tristeza",
+      "note": "daurmanasya, mental discontent; simplest word for children."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 5642,
+  "output": 2425,
+  "thinking": 3636,
+  "cache_read": 256,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 62.22,
+ "attempt": 1
+}

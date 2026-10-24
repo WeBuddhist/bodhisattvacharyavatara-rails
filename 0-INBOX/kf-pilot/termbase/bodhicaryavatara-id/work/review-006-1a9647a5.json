@@ -1,0 +1,59 @@
+{
+ "parsed": {
+  "objections": [
+   {
+    "term_id": "T615",
+    "sense": "eye ointment",
+    "field": "academic",
+    "proposed": "salep mata",
+    "reason": "'Celak' is cosmetic kohl; añjana here is a medicinal eye salve, as the children's field says."
+   },
+   {
+    "term_id": "T624",
+    "sense": "thorough pacification",
+    "field": "academic",
+    "proposed": "penenteraman menyeluruh",
+    "reason": "Correct Indonesian spelling is 'penenteraman' (from tenteram); 'penentraman' is a misspelling."
+   },
+   {
+    "term_id": "T636",
+    "sense": "delusion",
+    "field": "academic",
+    "proposed": "kebodohan",
+    "reason": "Same English rendering as T038 (delusion = 'kebodohan'); academic fields should agree."
+   },
+   {
+    "term_id": "T640",
+    "sense": "refutation",
+    "field": "academic",
+    "proposed": "sanggahan",
+    "reason": "'Sangkalan' means a denial; a logical refutation is 'sanggahan'."
+   },
+   {
+    "term_id": "T678",
+    "sense": "non-entity",
+    "field": "academic",
+    "proposed": "non-entitas",
+    "reason": "Inconsistent spelling with T082 ('non-entitas')."
+   },
+   {
+    "term_id": "T691",
+    "sense": "non-apprehension",
+    "field": "academic",
+    "proposed": "tanpa penangkapan objek",
+    "reason": "'Non-aprehensi' is misspelled and inconsistent with T623, same English 'non-apprehension'."
+   },
+   {
+    "term_id": "T707",
+    "sense": "compassion",
+    "field": "academic",
+    "proposed": "welas asih",
+    "reason": "Compassion is 'welas asih' in T048; 'karuna' here is inconsistent."
+   }
+  ]
+ },
+ "tokens": {},
+ "model": "claude-sonnet-5-5",
+ "seconds": null,
+ "attempt": 1
+}

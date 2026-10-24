@@ -1,4 +1,8 @@
-# 第49天 — Padmakara 白話中文
+---
+title: 第49天 — Padmakara 白話中文 — AI 翻譯
+ai_generated: true
+---
+# 第49天 — Padmakara 白話中文 — AI 翻譯
 
 **第三品：受持菩提心　偈 3.17–3.19**
 

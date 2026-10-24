@@ -1,0 +1,247 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T722",
+    "senses": [
+     {
+      "sense": "nun",
+      "academic": "monja",
+      "children": "monja",
+      "note": "Established Brazilian term for a Buddhist nun; everyday word, same for both registers as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T723",
+    "senses": [
+     {
+      "sense": "alms",
+      "academic": "esmola",
+      "children": "esmola",
+      "note": "Standard term for alms/food offered to monastics; same rendering in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T724",
+    "senses": [
+     {
+      "sense": "hardship",
+      "academic": "austeridade",
+      "children": "grande sacrifício",
+      "note": "Ascetic hardship practice; academic uses standard term, children a plain phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T725",
+    "senses": [
+     {
+      "sense": "welfare of others",
+      "academic": "bem-estar dos outros",
+      "children": "bem dos outros",
+      "note": "Follows English rendering 'others' rather than fixed jagat compound."
+     }
+    ]
+   },
+   {
+    "term_id": "T726",
+    "senses": [
+     {
+      "sense": "solitary buddha",
+      "academic": "pratyekabuddha",
+      "children": "buda que despertou sozinho",
+      "note": "Academic keeps Sanskrit transliteration as in Brazilian scholarship; children explains plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T727",
+    "senses": [
+     {
+      "sense": "first bodhisattva ground",
+      "academic": "Terra da Alegria Perfeita",
+      "children": "Terra da Alegria Perfeita",
+      "note": "Bhūmi rendered 'terra' as in the ten grounds; identical rendering in both registers like English."
+     }
+    ]
+   },
+   {
+    "term_id": "T728",
+    "senses": [
+     {
+      "sense": "place of seclusion",
+      "academic": "lugar solitário",
+      "children": "lugar tranquilo",
+      "note": "Mirrors English distinction: 'solitary place' vs 'quiet place'."
+     }
+    ]
+   },
+   {
+    "term_id": "T729",
+    "senses": [
+     {
+      "sense": "Saṅgha of bodhisattvas",
+      "academic": "Sanga de bodisatvas",
+      "children": "comunidade de heróis do despertar",
+      "note": "Reuses fixed renderings: Sanga, bodisatva, herói do despertar."
+     }
+    ]
+   },
+   {
+    "term_id": "T730",
+    "senses": [
+     {
+      "sense": "teaching (the Buddha's doctrine)",
+      "academic": "ensinamento",
+      "children": "ensinamento do Buda",
+      "note": "Academic plain 'ensinamento'; children specifies the Buddha as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T731",
+    "senses": [
+     {
+      "sense": "virtuous intellect",
+      "academic": "intelecto virtuoso",
+      "children": "mente que pensa o bem",
+      "note": "Children reuses fixed 'mente' with plain explanation of virtuous thinking."
+     }
+    ]
+   },
+   {
+    "term_id": "T732",
+    "senses": [
+     {
+      "sense": "spiritual friend",
+      "academic": "amigo espiritual",
+      "children": "bom amigo",
+      "note": "Direct equivalents of the English academic and children's renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T733",
+    "senses": [
+     {
+      "sense": "name of the author",
+      "academic": "Śāntideva",
+      "children": "Shantideva",
+      "note": "Proper name; academic keeps diacritics, children uses simplified spelling."
+     }
+    ]
+   },
+   {
+    "term_id": "T734",
+    "senses": [
+     {
+      "sense": "Sarvajñādeva",
+      "academic": "Sarvajñādeva",
+      "children": "Sarvajnadeva",
+      "note": "Proper name; diacritics in academic, simplified for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T735",
+    "senses": [
+     {
+      "sense": "Tibetan translator-editor",
+      "academic": "Bande Paltsek",
+      "children": "Bande Paltsek",
+      "note": "Tibetan proper name kept in standard romanized form."
+     }
+    ]
+   },
+   {
+    "term_id": "T736",
+    "senses": [
+     {
+      "sense": "place name",
+      "academic": "Caxemira",
+      "children": "Caxemira",
+      "note": "Standard Brazilian Portuguese form of the place name Kashmir."
+     }
+    ]
+   },
+   {
+    "term_id": "T737",
+    "senses": [
+     {
+      "sense": "Dharmaśrībhadra (name)",
+      "academic": "Dharmaśrībhadra",
+      "children": "Dharmashribhadra",
+      "note": "Proper name; diacritics in academic, simplified spelling for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T738",
+    "senses": [
+     {
+      "sense": "translator monk",
+      "academic": "Rinchen Zangpo",
+      "children": "Rinchen Zangpo",
+      "note": "Tibetan proper name in standard romanized form."
+     }
+    ]
+   },
+   {
+    "term_id": "T739",
+    "senses": [
+     {
+      "sense": "Śākya Lodrö",
+      "academic": "Śākya Lodrö",
+      "children": "Shakya Lodro",
+      "note": "Proper name; academic keeps diacritics, children simplified."
+     }
+    ]
+   },
+   {
+    "term_id": "T740",
+    "senses": [
+     {
+      "sense": "central region",
+      "academic": "região central",
+      "children": "terra central",
+      "note": "Descriptive rendering mirroring English 'central region'/'central land'."
+     }
+    ]
+   },
+   {
+    "term_id": "T741",
+    "senses": [
+     {
+      "sense": "Sumatikīrti",
+      "academic": "Sumatikīrti",
+      "children": "Sumatikirti",
+      "note": "Proper name; academic with macron, children simplified."
+     }
+    ]
+   },
+   {
+    "term_id": "T742",
+    "senses": [
+     {
+      "sense": "name of a Tibetan translator",
+      "academic": "Loden Sherab",
+      "children": "Loden Sherab",
+      "note": "Tibetan proper name in standard romanized form."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 2286,
+  "output": 1350,
+  "thinking": 2111,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 106.37,
+ "attempt": 1
+}

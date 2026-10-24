@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T562",
+    "senses": [
+     {
+      "sense": "excrement",
+      "academic": "excremento",
+      "children": "cocô",
+      "note": "Children use the everyday word for feces."
+     }
+    ]
+   },
+   {
+    "term_id": "T563",
+    "senses": [
+     {
+      "sense": "saliva",
+      "academic": "saliva",
+      "children": "cuspe",
+      "note": "'Cuspe' is the everyday word for saliva."
+     }
+    ]
+   },
+   {
+    "term_id": "T564",
+    "senses": [
+     {
+      "sense": "cage of bones",
+      "academic": "gaiola de ossos",
+      "children": "gaiola de ossos",
+      "note": "Same literal image works in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T565",
+    "senses": [
+     {
+      "sense": "insentient",
+      "academic": "insenciente",
+      "children": "sem mente",
+      "note": "Negates fixed 'ser senciente' and 'mente'."
+     }
+    ]
+   },
+   {
+    "term_id": "T566",
+    "senses": [
+     {
+      "sense": "cage of filth",
+      "academic": "gaiola de imundície",
+      "children": "gaiola de sujeira",
+      "note": "Filth rendered as imundície or sujeira by register."
+     }
+    ]
+   },
+   {
+    "term_id": "T567",
+    "senses": [
+     {
+      "sense": "impure field",
+      "academic": "campo impuro",
+      "children": "campo sujo",
+      "note": "Field kept literal, as in the source."
+     }
+    ]
+   },
+   {
+    "term_id": "T568",
+    "senses": [
+     {
+      "sense": "worm born of filth",
+      "academic": "verme da imundície",
+      "children": "verme que nasce na sujeira",
+      "note": "Children phrase makes 'born in filth' explicit."
+     }
+    ]
+   },
+   {
+    "term_id": "T569",
+    "senses": [
+     {
+      "sense": "camphor",
+      "academic": "cânfora",
+      "children": "cânfora",
+      "note": "Same everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T570",
+    "senses": [
+     {
+      "sense": "wealth",
+      "academic": "riqueza",
+      "children": "riqueza",
+      "note": "Same word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T571",
+    "senses": [
+     {
+      "sense": "suffering of existence",
+      "academic": "sofrimento da existência",
+      "children": "sofrimento da vida",
+      "note": "Reuses fixed 'sofrimento'."
+     }
+    ]
+   },
+   {
+    "term_id": "T572",
+    "senses": [
+     {
+      "sense": "disadvantage",
+      "academic": "desvantagem",
+      "children": "lado ruim",
+      "note": "Children phrase keeps 'drawback' in plain words."
+     }
+    ]
+   },
+   {
+    "term_id": "T573",
+    "senses": [
+     {
+      "sense": "desire",
+      "academic": "desejo",
+      "children": "desejo",
+      "note": "Same word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T574",
+    "senses": [
+     {
+      "sense": "contentment",
+      "academic": "contentamento",
+      "children": "ser feliz com o que se tem",
+      "note": "Children phrase glosses contentment simply."
+     }
+    ]
+   },
+   {
+    "term_id": "T575",
+    "senses": [
+     {
+      "sense": "Indra",
+      "academic": "Indra",
+      "children": "Indra",
+      "note": "Proper name in standard local form."
+     }
+    ]
+   },
+   {
+    "term_id": "T576",
+    "senses": [
+     {
+      "sense": "conceptual thought",
+      "academic": "pensamento conceitual",
+      "children": "pensamento",
+      "note": "Children simplify to plain 'thinking'."
+     }
+    ]
+   },
+   {
+    "term_id": "T577",
+    "senses": [
+     {
+      "sense": "Supuṣpacandra (name)",
+      "academic": "Supuṣpacandra",
+      "children": "Supushpachandra",
+      "note": "Children spelling drops diacritics for readability."
+     }
+    ]
+   },
+   {
+    "term_id": "T578",
+    "senses": [
+     {
+      "sense": "absence of an entity",
+      "academic": "ausência de entidade",
+      "children": "sem coisa nenhuma",
+      "note": "Reuses fixed 'entidade' and 'coisa'."
+     }
+    ]
+   },
+   {
+    "term_id": "T579",
+    "senses": [
+     {
+      "sense": "self-grasping",
+      "academic": "agarramento ao eu",
+      "children": "ficar segurando o eu",
+      "note": "Reuses fixed 'eu'; kept distinct from T594 and T596."
+     }
+    ]
+   },
+   {
+    "term_id": "T580",
+    "senses": [
+     {
+      "sense": "intellect of self",
+      "academic": "intelecto do eu",
+      "children": "ideia do eu",
+      "note": "buddhi as 'intelecto'; children phrase as idea of self."
+     }
+    ]
+   },
+   {
+    "term_id": "T581",
+    "senses": [
+     {
+      "sense": "blessing",
+      "academic": "bênção",
+      "children": "bênção",
+      "note": "Same word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T582",
+    "senses": [
+     {
+      "sense": "exchange of self and others",
+      "academic": "troca entre si e os outros",
+      "children": "troca entre si e os outros",
+      "note": "Same rendering in both registers, as English does."
+     }
+    ]
+   },
+   {
+    "term_id": "T583",
+    "senses": [
+     {
+      "sense": "supreme secret (self-other exchange)",
+      "academic": "segredo supremo",
+      "children": "maior segredo",
+      "note": "Children put 'greatest secret' plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T584",
+    "senses": [
+     {
+      "sense": "demon",
+      "academic": "demônio",
+      "children": "demônio",
+      "note": "Same word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T585",
+    "senses": [
+     {
+      "sense": "own welfare",
+      "academic": "bem-estar próprio",
+      "children": "próprio bem",
+      "note": "Same rendering as duplicate entry T586."
+     }
+    ]
+   },
+   {
+    "term_id": "T586",
+    "senses": [
+     {
+      "sense": "own welfare",
+      "academic": "bem-estar próprio",
+      "children": "próprio bem",
+      "note": "Same rendering as duplicate entry T585."
+     }
+    ]
+   },
+   {
+    "term_id": "T587",
+    "senses": [
+     {
+      "sense": "exchange",
+      "academic": "troca",
+      "children": "troca",
+      "note": "Same word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T588",
+    "senses": [
+     {
+      "sense": "next world",
+      "academic": "outro mundo",
+      "children": "próxima vida",
+      "note": "Children shift to 'next life', as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T589",
+    "senses": [
+     {
+      "sense": "great demon",
+      "academic": "grande demônio",
+      "children": "grande demônio",
+      "note": "Compound built on 'demônio'."
+     }
+    ]
+   },
+   {
+    "term_id": "T590",
+    "senses": [
+     {
+      "sense": "self",
+      "academic": "próprio eu",
+      "children": "eu",
+      "note": "Academic adds emphasis 'próprio'; children keep fixed 'eu'."
+     }
+    ]
+   },
+   {
+    "term_id": "T591",
+    "senses": [
+     {
+      "sense": "rivalry",
+      "academic": "rivalidade",
+      "children": "rivalidade",
+      "note": "Same word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T592",
+    "senses": [
+     {
+      "sense": "view",
+      "academic": "visão",
+      "children": "crença",
+      "note": "'Visão' is standard for dṛṣṭi; children use 'crença'."
+     }
+    ]
+   },
+   {
+    "term_id": "T593",
+    "senses": [
+     {
+      "sense": "learning",
+      "academic": "aprendizado",
+      "children": "aprendizado",
+      "note": "Same word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T594",
+    "senses": [
+     {
+      "sense": "grasping as \"I\"",
+      "academic": "apreensão como \"eu\"",
+      "children": "tomar como \"eu\"",
+      "note": "Distinct from T579 and T596; reuses fixed 'eu'."
+     }
+    ]
+   },
+   {
+    "term_id": "T595",
+    "senses": [
+     {
+      "sense": "excellence",
+      "academic": "excelência",
+      "children": "excelência",
+      "note": "Same word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T596",
+    "senses": [
+     {
+      "sense": "grasping at self",
+      "academic": "apreensão do eu",
+      "children": "agarrar o eu",
+      "note": "Distinct from T579; reuses fixed 'eu'."
+     }
+    ]
+   },
+   {
+    "term_id": "T597",
+    "senses": [
+     {
+      "sense": "mental dullness",
+      "academic": "embotamento mental",
+      "children": "mente lenta",
+      "note": "Children phrase keeps the meaning plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T598",
+    "senses": [
+     {
+      "sense": "obscuration",
+      "academic": "obscurecimento",
+      "children": "véu",
+      "note": "Academic standard term; children use 'véu', as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T599",
+    "senses": [
+     {
+      "sense": "object of meditative focus",
+      "academic": "objeto perfeito de foco",
+      "children": "coisa perfeita para focar",
+      "note": "Children phrase reuses fixed 'coisa'."
+     }
+    ]
+   },
+   {
+    "term_id": "T600",
+    "senses": [
+     {
+      "sense": "title of chapter 8",
+      "academic": "Concentração Meditativa",
+      "children": "Foco Calmo",
+      "note": "Chapter 8 title; children version stays simple."
+     }
+    ]
+   },
+   {
+    "term_id": "T601",
+    "senses": [
+     {
+      "sense": "branch",
+      "academic": "ramo",
+      "children": "ramo",
+      "note": "Same word in both registers."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 3906,
+  "output": 2234,
+  "thinking": 5347,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 227.19,
+ "attempt": 1
+}

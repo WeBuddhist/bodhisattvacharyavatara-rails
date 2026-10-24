@@ -1,0 +1,468 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T241",
+    "senses": [
+     {
+      "sense": "liberation",
+      "academic": "libération",
+      "children": "liberté",
+      "note": "Standard Buddhist term; children use everyday word for freedom."
+     }
+    ]
+   },
+   {
+    "term_id": "T242",
+    "senses": [
+     {
+      "sense": "conceit",
+      "academic": "arrogance",
+      "children": "se croire supérieur",
+      "note": "Distinct from fixed pride (orgueil); haughtiness rendered as arrogance."
+     }
+    ]
+   },
+   {
+    "term_id": "T243",
+    "senses": [
+     {
+      "sense": "being with a mind",
+      "academic": "être doué d'esprit",
+      "children": "être qui a un esprit",
+      "note": "Reuses fixed rendering esprit for mind."
+     }
+    ]
+   },
+   {
+    "term_id": "T244",
+    "senses": [
+     {
+      "sense": "adventitious",
+      "academic": "adventice",
+      "children": "passager",
+      "note": "Adventice is established in French Buddhist writing (souillures adventices)."
+     }
+    ]
+   },
+   {
+    "term_id": "T245",
+    "senses": [
+     {
+      "sense": "forest of sword-leaves",
+      "academic": "forêt de feuilles-épées",
+      "children": "forêt aux feuilles comme des épées",
+      "note": "Hell realm image; children phrase keeps the sword-leaf picture."
+     }
+    ]
+   },
+   {
+    "term_id": "T246",
+    "senses": [
+     {
+      "sense": "conduct",
+      "academic": "conduite",
+      "children": "façon d'agir",
+      "note": "Matches title term caryā in Bodhisattvacaryāvatāra."
+     }
+    ]
+   },
+   {
+    "term_id": "T247",
+    "senses": [
+     {
+      "sense": "death",
+      "academic": "mort",
+      "children": "mort",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T248",
+    "senses": [
+     {
+      "sense": "being angry",
+      "academic": "colère",
+      "children": "colère",
+      "note": "English gives anger for both registers; reuses fixed anger rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T249",
+    "senses": [
+     {
+      "sense": "insentient thing",
+      "academic": "inanimé",
+      "children": "chose sans esprit",
+      "note": "Opposite of sacetana; children phrase mirrors being with a mind."
+     }
+    ]
+   },
+   {
+    "term_id": "T250",
+    "senses": [
+     {
+      "sense": "loving mind",
+      "academic": "esprit aimant",
+      "children": "esprit plein d'amour",
+      "note": "Reuses fixed esprit; children phrase keeps love plus mind."
+     }
+    ]
+   },
+   {
+    "term_id": "T251",
+    "senses": [
+     {
+      "sense": "excellence",
+      "academic": "excellence",
+      "children": "perfection",
+      "note": "Children use simpler near-synonym for excellence."
+     }
+    ]
+   },
+   {
+    "term_id": "T252",
+    "senses": [
+     {
+      "sense": "cause of patience",
+      "academic": "cause de la patience",
+      "children": "cause de la patience",
+      "note": "Compound reuses fixed cause and patience."
+     }
+    ]
+   },
+   {
+    "term_id": "T253",
+    "senses": [
+     {
+      "sense": "qualities of a Buddha",
+      "academic": "qualité d'un Bouddha",
+      "children": "qualité d'un Bouddha",
+      "note": "Reuses fixed Bouddha; singular per English rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T254",
+    "senses": [
+     {
+      "sense": "offering",
+      "academic": "offrande",
+      "children": "offrande",
+      "note": "Everyday French word, usable in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T255",
+    "senses": [
+     {
+      "sense": "three realms",
+      "academic": "trois mondes",
+      "children": "trois mondes",
+      "note": "Reuses fixed monde; standard French for trailokya."
+     }
+    ]
+   },
+   {
+    "term_id": "T256",
+    "senses": [
+     {
+      "sense": "opposing factor",
+      "academic": "facteur opposé",
+      "children": "contraire",
+      "note": "Abhidharma term; children use simple opposite."
+     }
+    ]
+   },
+   {
+    "term_id": "T257",
+    "senses": [
+     {
+      "sense": "birth in saṃsāra",
+      "academic": "naissance",
+      "children": "naissance",
+      "note": "Everyday word for rebirth in the cycle."
+     },
+     {
+      "sense": "arising of phenomena",
+      "academic": "production",
+      "children": "apparition",
+      "note": "Production is the standard French rendering of arising (utpāda)."
+     }
+    ]
+   },
+   {
+    "term_id": "T258",
+    "senses": [
+     {
+      "sense": "equality of self and others",
+      "academic": "égalité de soi et d'autrui",
+      "children": "se voir comme égal aux autres",
+      "note": "Classic meditation phrase; reuses fixed soi."
+     }
+    ]
+   },
+   {
+    "term_id": "T259",
+    "senses": [
+     {
+      "sense": "Śrāvaka",
+      "academic": "auditeur",
+      "children": "disciple qui écoute",
+      "note": "Auditeur is the established French equivalent of śrāvaka."
+     }
+    ]
+   },
+   {
+    "term_id": "T260",
+    "senses": [
+     {
+      "sense": "aspiration",
+      "academic": "aspiration",
+      "children": "grand souhait",
+      "note": "Children phrase keeps the idea of a strong wish."
+     }
+    ]
+   },
+   {
+    "term_id": "T261",
+    "senses": [
+     {
+      "sense": "joy",
+      "academic": "joie",
+      "children": "joie",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T262",
+    "senses": [
+     {
+      "sense": "ocean of eons",
+      "academic": "océan d'éons",
+      "children": "océan de très longues périodes",
+      "note": "Reuses fixed éon renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T263",
+    "senses": [
+     {
+      "sense": "result of karmic ripening",
+      "academic": "fruit de maturation",
+      "children": "résultat qui mûrit",
+      "note": "Standard French for vipākaphala; reuses fixed résultat for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T264",
+    "senses": [
+     {
+      "sense": "what is not virtuous",
+      "academic": "non-vertu",
+      "children": "mauvaise action",
+      "note": "Built on fixed vertu; children phrase matches fixed misdeed style."
+     }
+    ]
+   },
+   {
+    "term_id": "T265",
+    "senses": [
+     {
+      "sense": "pride as the enemy",
+      "academic": "ennemi qu'est l'orgueil",
+      "children": "ennemi appelé orgueil",
+      "note": "Reuses fixed orgueil; personifies pride as the enemy."
+     }
+    ]
+   },
+   {
+    "term_id": "T266",
+    "senses": [
+     {
+      "sense": "ascetic",
+      "academic": "ascète",
+      "children": "personne qui mène une vie dure",
+      "note": "Children phrase explains hard practice plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T267",
+    "senses": [
+     {
+      "sense": "sleep",
+      "academic": "sommeil",
+      "children": "sommeil",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T268",
+    "senses": [
+     {
+      "sense": "discursive thought",
+      "academic": "pensée discursive",
+      "children": "pensée agitée",
+      "note": "Distraction sense; children use restless thought image."
+     },
+     {
+      "sense": "conceptual thought",
+      "academic": "pensée conceptuelle",
+      "children": "idée",
+      "note": "Neutral sense; children use everyday idée."
+     }
+    ]
+   },
+   {
+    "term_id": "T269",
+    "senses": [
+     {
+      "sense": "friend",
+      "academic": "ami",
+      "children": "ami",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T270",
+    "senses": [
+     {
+      "sense": "friend",
+      "academic": "être cher",
+      "children": "ami",
+      "note": "Academic keeps loved one nuance; children simply friend, as English."
+     }
+    ]
+   },
+   {
+    "term_id": "T271",
+    "senses": [
+     {
+      "sense": "meditative equipoise",
+      "academic": "équilibre méditatif",
+      "children": "calme de l'esprit",
+      "note": "Established meditation term; children phrase reuses fixed esprit."
+     }
+    ]
+   },
+   {
+    "term_id": "T272",
+    "senses": [
+     {
+      "sense": "vulture",
+      "academic": "vautour",
+      "children": "vautour",
+      "note": "Everyday animal name, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T273",
+    "senses": [
+     {
+      "sense": "bag of filth",
+      "academic": "sac d'immondices",
+      "children": "sac de saletés",
+      "note": "Body-contemplation image; children use plain word for filth."
+     }
+    ]
+   },
+   {
+    "term_id": "T274",
+    "senses": [
+     {
+      "sense": "greed",
+      "academic": "avidité",
+      "children": "vouloir tout pour soi",
+      "note": "Distinct from fixed attachment (attachement); children phrase explains greed."
+     }
+    ]
+   },
+   {
+    "term_id": "T275",
+    "senses": [
+     {
+      "sense": "happiness and suffering",
+      "academic": "bonheur et souffrance",
+      "children": "bonheur et souffrance",
+      "note": "Compound reuses fixed bonheur and souffrance."
+     }
+    ]
+   },
+   {
+    "term_id": "T276",
+    "senses": [
+     {
+      "sense": "clinging to self",
+      "academic": "attachement au soi",
+      "children": "s'accrocher très fort au soi",
+      "note": "Clinging rendered with attachement; reuses fixed soi."
+     }
+    ]
+   },
+   {
+    "term_id": "T277",
+    "senses": [
+     {
+      "sense": "grasping at a self",
+      "academic": "saisie du soi",
+      "children": "s'accrocher à un soi",
+      "note": "Grasping rendered as saisie, standard for ātmagrāha; distinct from clinging."
+     }
+    ]
+   },
+   {
+    "term_id": "T278",
+    "senses": [
+     {
+      "sense": "gain and honor",
+      "academic": "gains et honneurs",
+      "children": "gain et respect",
+      "note": "Worldly concerns pair; children replace honor with respect, as English."
+     }
+    ]
+   },
+   {
+    "term_id": "T279",
+    "senses": [
+     {
+      "sense": "chapter 9 title",
+      "academic": "Perfection de sagesse",
+      "children": "sagesse parfaite",
+      "note": "Established French title for prajñāpāramitā chapter."
+     }
+    ]
+   },
+   {
+    "term_id": "T280",
+    "senses": [
+     {
+      "sense": "ultimate truth",
+      "academic": "vérité ultime",
+      "children": "vérité la plus profonde",
+      "note": "Standard pair with conventional truth; children phrase keeps deepest truth idea."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4086,
+  "output": 2471,
+  "thinking": 3645,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 154.68,
+ "attempt": 1
+}

@@ -1,0 +1,480 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T081",
+    "senses": [
+     {
+      "sense": "craving",
+      "academic": "soif",
+      "children": "envie très forte",
+      "note": "Standard French Buddhist rendering of tṛṣṇā, second link of dependent arising."
+     }
+    ]
+   },
+   {
+    "term_id": "T082",
+    "senses": [
+     {
+      "sense": "non-existent thing",
+      "academic": "non-entité",
+      "children": "chose qui n'existe pas",
+      "note": "Negation of fixed term entity (entité/chose)."
+     }
+    ]
+   },
+   {
+    "term_id": "T083",
+    "senses": [
+     {
+      "sense": "emptiness",
+      "academic": "vacuité",
+      "children": "vide",
+      "note": "Vacuité is the established French rendering of śūnyatā."
+     }
+    ]
+   },
+   {
+    "term_id": "T084",
+    "senses": [
+     {
+      "sense": "Īśvara",
+      "academic": "Īśvara",
+      "children": "Créateur",
+      "note": "Proper name kept in academic register; glossed as creator god for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T085",
+    "senses": [
+     {
+      "sense": "scripture",
+      "academic": "Écriture",
+      "children": "texte sacré",
+      "note": "Refers to authoritative Buddhist scriptures quoted as proof."
+     }
+    ]
+   },
+   {
+    "term_id": "T086",
+    "senses": [
+     {
+      "sense": "existence",
+      "academic": "existence",
+      "children": "vie",
+      "note": "Cyclic existence; vie keeps it simple for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T087",
+    "senses": [
+     {
+      "sense": "protector (of beings, epithet of buddhas)",
+      "academic": "Protecteur",
+      "children": "Protecteur",
+      "note": "Epithet of the buddhas as guardians of beings."
+     }
+    ]
+   },
+   {
+    "term_id": "T088",
+    "senses": [
+     {
+      "sense": "ordaining teacher",
+      "academic": "précepteur",
+      "children": "maître qui m'a ordonné",
+      "note": "Upādhyāya, the master who confers monastic ordination."
+     }
+    ]
+   },
+   {
+    "term_id": "T089",
+    "senses": [
+     {
+      "sense": "ascetic (person)",
+      "academic": "ascète",
+      "children": "personne à la pratique stricte",
+      "note": "Person observing religious vows and austerities."
+     },
+     {
+      "sense": "ascetic discipline",
+      "academic": "discipline ascétique",
+      "children": "pratique stricte",
+      "note": "The vow or austerity itself, not the person."
+     }
+    ]
+   },
+   {
+    "term_id": "T090",
+    "senses": [
+     {
+      "sense": "take refuge",
+      "academic": "prendre refuge",
+      "children": "chercher refuge",
+      "note": "Standard formula of going for refuge to the Three Jewels."
+     }
+    ]
+   },
+   {
+    "term_id": "T091",
+    "senses": [
+     {
+      "sense": "spiritual teacher",
+      "academic": "maître spirituel",
+      "children": "maître",
+      "note": "Guru as spiritual guide; maître is everyday French."
+     }
+    ]
+   },
+   {
+    "term_id": "T092",
+    "senses": [
+     {
+      "sense": "anger",
+      "academic": "colère",
+      "children": "colère",
+      "note": "Matches fixed rendering of krodha."
+     }
+    ]
+   },
+   {
+    "term_id": "T093",
+    "senses": [
+     {
+      "sense": "Avīci hell",
+      "academic": "enfer Avīci",
+      "children": "Avitchi",
+      "note": "Most terrible of the hot hells; name simplified phonetically for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T094",
+    "senses": [
+     {
+      "sense": "ethical discipline",
+      "academic": "discipline éthique",
+      "children": "bonne conduite",
+      "note": "Śīla, second of the six perfections."
+     }
+    ]
+   },
+   {
+    "term_id": "T095",
+    "senses": [
+     {
+      "sense": "gain",
+      "academic": "gain",
+      "children": "gain",
+      "note": "Material gain, one of the eight worldly concerns."
+     }
+    ]
+   },
+   {
+    "term_id": "T096",
+    "senses": [
+     {
+      "sense": "honor",
+      "academic": "honneur",
+      "children": "honneur",
+      "note": "Respect and veneration received from others."
+     }
+    ]
+   },
+   {
+    "term_id": "T097",
+    "senses": [
+     {
+      "sense": "like a log",
+      "academic": "comme un morceau de bois",
+      "children": "comme une bûche",
+      "note": "Simile for remaining unmoved under provocation."
+     }
+    ]
+   },
+   {
+    "term_id": "T098",
+    "senses": [
+     {
+      "sense": "fault",
+      "academic": "faute",
+      "children": "faute",
+      "note": "Moral fault or wrongdoing; faute is everyday French."
+     }
+    ]
+   },
+   {
+    "term_id": "T099",
+    "senses": [
+     {
+      "sense": "welfare of others",
+      "academic": "bien d'autrui",
+      "children": "bien des autres",
+      "note": "The bodhisattva's aim of benefiting others."
+     }
+    ]
+   },
+   {
+    "term_id": "T100",
+    "senses": [
+     {
+      "sense": "Mahāyāna",
+      "academic": "Mahāyāna",
+      "children": "Grand Véhicule",
+      "note": "Sanskrit name kept academically; literal meaning given to children."
+     }
+    ]
+   },
+   {
+    "term_id": "T101",
+    "senses": [
+     {
+      "sense": "gain",
+      "academic": "gain",
+      "children": "gain",
+      "note": "Same rendering as T095; English treats both identically."
+     }
+    ]
+   },
+   {
+    "term_id": "T102",
+    "senses": [
+     {
+      "sense": "perfection of diligence",
+      "academic": "effort enthousiaste",
+      "children": "effort joyeux",
+      "note": "Vīrya, fourth perfection; established French rendering follows Padmakara."
+     }
+    ]
+   },
+   {
+    "term_id": "T103",
+    "senses": [
+     {
+      "sense": "person filled with desire",
+      "academic": "personne concupiscente",
+      "children": "personne pleine de désirs",
+      "note": "Someone driven by sensual craving."
+     }
+    ]
+   },
+   {
+    "term_id": "T104",
+    "senses": [
+     {
+      "sense": "thing that exists",
+      "academic": "entité",
+      "children": "chose",
+      "note": "Reuses the fixed rendering of entity (bhāva; vastu)."
+     }
+    ]
+   },
+   {
+    "term_id": "T105",
+    "senses": [
+     {
+      "sense": "visible form",
+      "academic": "forme",
+      "children": "forme",
+      "note": "Rūpa as visible appearance, object of the eye."
+     }
+    ]
+   },
+   {
+    "term_id": "T106",
+    "senses": [
+     {
+      "sense": "luminous, clear (of mind or lamp)",
+      "academic": "lumineux",
+      "children": "brillant",
+      "note": "Adjective describing clarity of mind or lamplight."
+     },
+     {
+      "sense": "manifest (of pleasure)",
+      "academic": "manifeste",
+      "children": "clair",
+      "note": "Something plainly evident or perceptible."
+     }
+    ]
+   },
+   {
+    "term_id": "T107",
+    "senses": [
+     {
+      "sense": "sound",
+      "academic": "son",
+      "children": "son",
+      "note": "Auditory object; son is everyday French."
+     }
+    ]
+   },
+   {
+    "term_id": "T108",
+    "senses": [
+     {
+      "sense": "benefit",
+      "academic": "bienfait",
+      "children": "bienfait",
+      "note": "Advantage or good resulting from something."
+     }
+    ]
+   },
+   {
+    "term_id": "T109",
+    "senses": [
+     {
+      "sense": "lord of sages",
+      "academic": "Seigneur des sages",
+      "children": "Seigneur des sages",
+      "note": "Epithet of the Buddha, supreme among sages (munis)."
+     }
+    ]
+   },
+   {
+    "term_id": "T110",
+    "senses": [
+     {
+      "sense": "child of the Victors",
+      "academic": "enfant des Victorieux",
+      "children": "enfant des Victorieux",
+      "note": "Reuses fixed rendering of jina (Victorieux); epithet of bodhisattvas."
+     }
+    ]
+   },
+   {
+    "term_id": "T111",
+    "senses": [
+     {
+      "sense": "refuge",
+      "academic": "refuge",
+      "children": "abri",
+      "note": "Place of safety; abri is the simple everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T112",
+    "senses": [
+     {
+      "sense": "the Buddha's teaching, sublime",
+      "academic": "sublime Dharma",
+      "children": "saints enseignements",
+      "note": "Builds on fixed Dharma (Dharma/enseignements) with qualifier."
+     }
+    ]
+   },
+   {
+    "term_id": "T113",
+    "senses": [
+     {
+      "sense": "child of the Buddhas",
+      "academic": "enfant des Bouddhas",
+      "children": "enfant des Bouddhas",
+      "note": "Epithet of bodhisattvas, spiritual offspring of the buddhas."
+     }
+    ]
+   },
+   {
+    "term_id": "T114",
+    "senses": [
+     {
+      "sense": "wish-fulfilling tree",
+      "academic": "arbre qui exauce les souhaits",
+      "children": "arbre à souhaits",
+      "note": "Mythic tree granting all wishes."
+     }
+    ]
+   },
+   {
+    "term_id": "T115",
+    "senses": [
+     {
+      "sense": "great compassion",
+      "academic": "grande compassion",
+      "children": "grande compassion",
+      "note": "Supreme compassion of buddhas and bodhisattvas."
+     }
+    ]
+   },
+   {
+    "term_id": "T116",
+    "senses": [
+     {
+      "sense": "Tathāgata",
+      "academic": "Tathāgata",
+      "children": "Ainsi-Allé",
+      "note": "Epithet of a buddha; children get the standard French gloss."
+     }
+    ]
+   },
+   {
+    "term_id": "T117",
+    "senses": [
+     {
+      "sense": "compassion",
+      "academic": "compassion",
+      "children": "compassion",
+      "note": "Compassion; word is familiar enough for young readers."
+     }
+    ]
+   },
+   {
+    "term_id": "T118",
+    "senses": [
+     {
+      "sense": "the Buddha's teaching, sublime",
+      "academic": "sublime Dharma",
+      "children": "saints enseignements",
+      "note": "Identical to T112 as English treats both the same."
+     }
+    ]
+   },
+   {
+    "term_id": "T119",
+    "senses": [
+     {
+      "sense": "assembly (of bodhisattvas, Saṅgha)",
+      "academic": "assemblée",
+      "children": "assemblée",
+      "note": "Gathering or community of practitioners."
+     },
+     {
+      "sense": "accumulation (of merit and wisdom)",
+      "academic": "accumulation",
+      "children": "réserve de bonté",
+      "note": "Stockpile gathered on the path; echoes fixed children's merit rendering."
+     },
+     {
+      "sense": "collection (of parts)",
+      "academic": "collection",
+      "children": "ensemble de parties",
+      "note": "Aggregate of components, e.g. of a chariot."
+     }
+    ]
+   },
+   {
+    "term_id": "T120",
+    "senses": [
+     {
+      "sense": "confess",
+      "academic": "confesser",
+      "children": "avouer",
+      "note": "Open declaration of one's misdeeds before the buddhas."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 5650,
+  "output": 2497,
+  "thinking": 3623,
+  "cache_read": 256,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 156.38,
+ "attempt": 1
+}

@@ -1,0 +1,36 @@
+---
+track: ko-academic
+text: Bodhicaryāvatāra (Śāntideva), Tibetan root bo-བློ་ལྡན་ཤེས་རབ།
+target_language: ko (Korean, Hangul)
+register: academic
+status: draft
+termbase: termbase.md
+contract_language: en (written in English; the translation is in the target language)
+source_rails: none complete yet — the KF pilot grounds each verse in the aligned Sanskrit (1-SOURCES/Text/BCAV08_SH_sk.md) and three aligned Tibetan commentaries (Khenpo Kunpal, Khenpo Shenga, Gyaltsab Je) instead; see 0-INBOX/kf-pilot/STATE.md
+---
+
+# Requirements — Bodhicaryāvatāra, Korean, academic
+
+## Target language
+Korean, in Hangul. Modern standard Korean in Hangul, without Hanja in the text.
+
+## Audience and register
+Students and practitioners reading a careful study translation; university readers of Buddhist texts (see `audience.md`). Faithful, precise, readable Korean; no archaism. Plain written style (한다체).
+
+## Source and grounding
+- Translate from the Tibetan. Use the aligned Sanskrit and the aligned commentary passages to settle the meaning of each verse; the checked English academic translation (../en-academic/) is given to confirm the meaning, not as the text to translate; the Korean machine draft may be consulted but is not an authority.
+- Where the commentaries read a verse differently, follow the reading they share; if they truly split, follow the Tibetan's most literal sense.
+- Translate the whole verse, in order: no omissions, no additions, no summary.
+- Never add explanations, glosses or notes in the translation itself.
+
+## Vocabulary
+- Every term in `termbase.md` is rendered with its locked academic rendering, inflected for number and grammar as needed. Where a term has several senses, the sense assigned to that occurrence is used.
+- Established Korean Buddhist terminology (Sino-Korean, e.g. 보리심, 보살, 공, 열반) in Hangul, as the termbase sets it.
+- Proper names: the customary Korean Buddhist forms (적천, 문수, 보현, 관세음).
+
+## Form and style
+- A four-line Tibetan verse becomes four lines of Korean free verse (no rhyme, no metre), separated by line breaks, following the Tibetan line order wherever Korean syntax allows. Longer or shorter verses keep their own line count. Prose blocks (title, homage, colophon) stay prose.
+- Standard modern Korean punctuation; each line must read naturally and the verse must parse as a whole.
+- Keep Śāntideva's first-person voice ("I", "my mind") and his rhetorical questions as questions.
+- In chapter 9, an opponent's objection stays recognisable as an objection; do not merge it into the reply.
+- Headings: translate the Tibetan chapter title literally and concisely.

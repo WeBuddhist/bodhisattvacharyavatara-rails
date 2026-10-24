@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T441",
+    "senses": [
+     {
+      "sense": "epithet of a buddha",
+      "academic": "Yang Mahawelas Asih",
+      "children": "Sang Pema welas Asih",
+      "note": "Standard Indonesian Buddhist idiom for compassion is 'welas asih'."
+     }
+    ]
+   },
+   {
+    "term_id": "T442",
+    "senses": [
+     {
+      "sense": "three Dharma robes",
+      "academic": "tiga jubah Dharma",
+      "children": "tiga jubah biksu",
+      "note": "Monk's three robes; children get the plain word 'biksu'."
+     }
+    ]
+   },
+   {
+    "term_id": "T443",
+    "senses": [
+     {
+      "sense": "conduct of the bodhisattva",
+      "academic": "perilaku bodhisatwa",
+      "children": "cara bertindak pahlawan kebangkitan",
+      "note": "Reuses fixed renderings for bodhisattva in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T444",
+    "senses": [
+     {
+      "sense": "Three Heaps Sūtra",
+      "academic": "Sutra Tiga Tumpukan",
+      "children": "teks Tiga Tumpukan",
+      "note": "Indonesian spelling 'sutra'; children get 'teks' for sūtra."
+     }
+    ]
+   },
+   {
+    "term_id": "T445",
+    "senses": [
+     {
+      "sense": "dedication",
+      "academic": "pelimpahan jasa",
+      "children": "berbagi kebaikan",
+      "note": "Established Indonesian Buddhist term for dedication of merit."
+     }
+    ]
+   },
+   {
+    "term_id": "T446",
+    "senses": [
+     {
+      "sense": "spiritual friend",
+      "academic": "teman spiritual",
+      "children": "teman pembimbing",
+      "note": "Also known as kalyana mitta in Indonesian Buddhist circles."
+     }
+    ]
+   },
+   {
+    "term_id": "T447",
+    "senses": [
+     {
+      "sense": "Śrīsaṃbhava",
+      "academic": "Śrīsaṃbhava",
+      "children": "Srisambhava",
+      "note": "Proper name; children's version drops diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T448",
+    "senses": [
+     {
+      "sense": "title of a sūtra",
+      "academic": "Sutra Ākāśagarbha",
+      "children": "Ajaran Akasagarbha",
+      "note": "Title kept in Sanskrit; children get plain spelling and 'ajaran'."
+     }
+    ]
+   },
+   {
+    "term_id": "T449",
+    "senses": [
+     {
+      "sense": "Śikṣāsamuccaya (title)",
+      "academic": "Śikṣāsamuccaya",
+      "children": "Kumpulan Latihan",
+      "note": "Title untranslated academically; children get a descriptive plain name."
+     }
+    ]
+   },
+   {
+    "term_id": "T450",
+    "senses": [
+     {
+      "sense": "title of a work by Nāgārjuna",
+      "academic": "Himpunan Sutra",
+      "children": "Kumpulan Wejangan Buddha",
+      "note": "English academic translates the title, so Indonesian academic does too."
+     }
+    ]
+   },
+   {
+    "term_id": "T451",
+    "senses": [
+     {
+      "sense": "noble Nāgārjuna",
+      "academic": "Ārya Nāgārjuna",
+      "children": "Nagarjuna",
+      "note": "Children use just the plain name, as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T452",
+    "senses": [
+     {
+      "sense": "Nāgārjuna",
+      "academic": "Nāgārjuna",
+      "children": "Nagarjuna",
+      "note": "Proper name; children's spelling simplified."
+     }
+    ]
+   },
+   {
+    "term_id": "T453",
+    "senses": [
+     {
+      "sense": "Noble",
+      "academic": "Arya",
+      "children": "orang mulia",
+      "note": "Academic keeps the loanword arya; children get everyday words."
+     }
+    ]
+   },
+   {
+    "term_id": "T454",
+    "senses": [
+     {
+      "sense": "generosity",
+      "academic": "dana",
+      "children": "memberi",
+      "note": "'Dana' is established in Indonesian Buddhist usage for generosity."
+     }
+    ]
+   },
+   {
+    "term_id": "T455",
+    "senses": [
+     {
+      "sense": "good conduct, good deed",
+      "academic": "perilaku baik",
+      "children": "tindakan baik",
+      "note": "Kept distinct from virtue (kebajikan/perbuatan baik)."
+     }
+    ]
+   },
+   {
+    "term_id": "T456",
+    "senses": [
+     {
+      "sense": "renunciation",
+      "academic": "renunsiasi",
+      "children": "keinginan untuk bebas",
+      "note": "'Renunsiasi' is a recognized Indonesian academic word."
+     }
+    ]
+   },
+   {
+    "term_id": "T457",
+    "senses": [
+     {
+      "sense": "name of a goddess",
+      "academic": "Durgā",
+      "children": "Durga",
+      "note": "Proper name; children's spelling simplified."
+     }
+    ]
+   },
+   {
+    "term_id": "T458",
+    "senses": [
+     {
+      "sense": "Karṇapa (people)",
+      "academic": "Karṇapa",
+      "children": "Karnapa",
+      "note": "Ethnic name; children's spelling simplified."
+     }
+    ]
+   },
+   {
+    "term_id": "T459",
+    "senses": [
+     {
+      "sense": "bile",
+      "academic": "empedu",
+      "children": "empedu",
+      "note": "'Empedu' is the everyday Indonesian word, fine for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T460",
+    "senses": [
+     {
+      "sense": "heedlessness",
+      "academic": "kelalaian",
+      "children": "kecerobohan",
+      "note": "Academic 'kelalaian'; children get a more everyday synonym."
+     }
+    ]
+   },
+   {
+    "term_id": "T461",
+    "senses": [
+     {
+      "sense": "fasting",
+      "academic": "puasa",
+      "children": "tidak makan",
+      "note": "Children's phrase mirrors the English plain explanation."
+     }
+    ]
+   },
+   {
+    "term_id": "T462",
+    "senses": [
+     {
+      "sense": "non-meritorious conduct",
+      "academic": "perilaku tanpa jasa kebajikan",
+      "children": "perbuatan yang tidak menambah tabungan kebaikan",
+      "note": "Reuses fixed renderings for merit in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T464",
+    "senses": [
+     {
+      "sense": "perversity",
+      "academic": "pandangan terbalik",
+      "children": "cara yang keliru",
+      "note": "Buddhist sense of viparyaya as inverted, mistaken view."
+     }
+    ]
+   },
+   {
+    "term_id": "T465",
+    "senses": [
+     {
+      "sense": "intention",
+      "academic": "intensi",
+      "children": "niat",
+      "note": "Children get the everyday word 'niat'."
+     }
+    ]
+   },
+   {
+    "term_id": "T466",
+    "senses": [
+     {
+      "sense": "fixation",
+      "academic": "fiksasi",
+      "children": "memegang erat-erat",
+      "note": "Kept distinct from attachment (kemelekatan)."
+     }
+    ]
+   },
+   {
+    "term_id": "T467",
+    "senses": [
+     {
+      "sense": "harsh speech",
+      "academic": "ucapan kasar",
+      "children": "kata-kata kasar",
+      "note": "One of the unwholesome speech acts; plain rendering both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T468",
+    "senses": [
+     {
+      "sense": "other life",
+      "academic": "kehidupan lain",
+      "children": "kehidupan lain",
+      "note": "English gives both registers the same idea; one shared rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T469",
+    "senses": [
+     {
+      "sense": "obstacle",
+      "academic": "rintangan",
+      "children": "penghalang",
+      "note": "Everyday synonyms; both natural in Indonesian."
+     }
+    ]
+   },
+   {
+    "term_id": "T470",
+    "senses": [
+     {
+      "sense": "wrong livelihood",
+      "academic": "penghidupan yang salah",
+      "children": "cara mencari nafkah yang salah",
+      "note": "Standard phrase for micchājīva; children get the nafkah wording."
+     }
+    ]
+   },
+   {
+    "term_id": "T471",
+    "senses": [
+     {
+      "sense": "suffering of death",
+      "academic": "penderitaan kematian",
+      "children": "penderitaan kematian",
+      "note": "Reuses fixed 'penderitaan' in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T472",
+    "senses": [
+     {
+      "sense": "one with good qualities",
+      "academic": "yang memiliki sifat baik",
+      "children": "orang yang punya sifat baik",
+      "note": "Reuses fixed 'sifat baik'; children add 'orang'."
+     }
+    ]
+   },
+   {
+    "term_id": "T473",
+    "senses": [
+     {
+      "sense": "seen and unseen",
+      "academic": "yang terlihat dan tak terlihat",
+      "children": "kehidupan ini dan kehidupan berikutnya",
+      "note": "Children's version spells out the implied this life and next."
+     }
+    ]
+   },
+   {
+    "term_id": "T474",
+    "senses": [
+     {
+      "sense": "generation of bodhicitta",
+      "academic": "pembangkitan bodicitta",
+      "children": "pembangkitan pikiran kebangkitan",
+      "note": "Reuses fixed renderings for bodhicitta in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T475",
+    "senses": [
+     {
+      "sense": "Buddhahood",
+      "academic": "kebuddhaan",
+      "children": "menjadi Buddha",
+      "note": "Regular Indonesian derivation ke-…-an from Buddha."
+     }
+    ]
+   },
+   {
+    "term_id": "T476",
+    "senses": [
+     {
+      "sense": "honor and respect",
+      "academic": "kehormatan dan penghormatan",
+      "children": "rasa hormat",
+      "note": "Two-noun phrase kept in academic; children simplified."
+     }
+    ]
+   },
+   {
+    "term_id": "T477",
+    "senses": [
+     {
+      "sense": "benefactor",
+      "academic": "dermawan",
+      "children": "pemberi",
+      "note": "'Dermawan' is the standard word for a generous donor."
+     }
+    ]
+   },
+   {
+    "term_id": "T478",
+    "senses": [
+     {
+      "sense": "enemy",
+      "academic": "musuh",
+      "children": "musuh",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T479",
+    "senses": [
+     {
+      "sense": "cauldron of hell",
+      "academic": "kuali neraka",
+      "children": "kuali neraka",
+      "note": "'Kuali' is the everyday word for a large cooking pot."
+     }
+    ]
+   },
+   {
+    "term_id": "T480",
+    "senses": [
+     {
+      "sense": "praise",
+      "academic": "pujian",
+      "children": "pujian",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T481",
+    "senses": [
+     {
+      "sense": "honor",
+      "academic": "kehormatan",
+      "children": "kehormatan",
+      "note": "Single-noun sense kept distinct from the two-noun T476."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4273,
+  "output": 2460,
+  "thinking": 4554,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 198.04,
+ "attempt": 1
+}

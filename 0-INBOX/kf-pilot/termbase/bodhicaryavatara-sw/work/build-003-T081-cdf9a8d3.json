@@ -1,0 +1,480 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T081",
+    "senses": [
+     {
+      "sense": "craving",
+      "academic": "tamaa",
+      "children": "kutaka sana",
+      "note": "Established Swahili noun for craving; children phrase mirrors 'wanting'. Distinct from attachment 'kushikamana'."
+     }
+    ]
+   },
+   {
+    "term_id": "T082",
+    "senses": [
+     {
+      "sense": "non-existent thing",
+      "academic": "kitu kisichopo",
+      "children": "kitu kisichokuwepo",
+      "note": "Negation of fixed 'kitu' (entity); parallel to bhāva rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T083",
+    "senses": [
+     {
+      "sense": "emptiness",
+      "academic": "utupu",
+      "children": "utupu",
+      "note": "Standard Swahili word for emptiness; same in both registers as English does."
+     }
+    ]
+   },
+   {
+    "term_id": "T084",
+    "senses": [
+     {
+      "sense": "Īśvara",
+      "academic": "Ishvara",
+      "children": "Muumba",
+      "note": "Proper name in Swahili spelling for scholars; children get 'Muumba', everyday word for Creator."
+     }
+    ]
+   },
+   {
+    "term_id": "T085",
+    "senses": [
+     {
+      "sense": "scripture",
+      "academic": "maandiko matakatifu",
+      "children": "andiko takatifu",
+      "note": "Descriptive phrase; plural in academic, singular head form for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T086",
+    "senses": [
+     {
+      "sense": "existence",
+      "academic": "kuwepo",
+      "children": "uzima",
+      "note": "Abstract noun for scholars; everyday 'uzima' (life) for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T087",
+    "senses": [
+     {
+      "sense": "protector (of beings, epithet of buddhas)",
+      "academic": "Mlinzi",
+      "children": "Mlinzi",
+      "note": "Capitalized epithet; everyday word, same both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T088",
+    "senses": [
+     {
+      "sense": "ordaining teacher",
+      "academic": "upadhyaya",
+      "children": "mwalimu aliyeniweka wakfu",
+      "note": "Technical loan kept in academic register; children phrase mirrors 'teacher who ordained me'."
+     }
+    ]
+   },
+   {
+    "term_id": "T089",
+    "senses": [
+     {
+      "sense": "ascetic (person)",
+      "academic": "mtawa",
+      "children": "mtu wa maisha magumu ya kiroho",
+      "note": "'Mtawa' is established Swahili for ascetic; children phrase describes the person plainly."
+     },
+     {
+      "sense": "ascetic discipline",
+      "academic": "utawa",
+      "children": "maisha magumu ya kiroho",
+      "note": "Abstract 'utawa' pairs with 'mtawa'; children phrase reused inside the person rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T090",
+    "senses": [
+     {
+      "sense": "take refuge",
+      "academic": "kukimbilia",
+      "children": "kutafuta hifadhi",
+      "note": "Verb 'kukimbilia' pairs with noun 'kimbilio' (refuge); children phrase mirrors 'go to for shelter'."
+     }
+    ]
+   },
+   {
+    "term_id": "T091",
+    "senses": [
+     {
+      "sense": "spiritual teacher",
+      "academic": "guru",
+      "children": "mwalimu",
+      "note": "Loan 'guru' established in Swahili; everyday 'mwalimu' for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T092",
+    "senses": [
+     {
+      "sense": "anger",
+      "academic": "hasira",
+      "children": "hasira",
+      "note": "Reuses fixed rendering for krodha (anger)."
+     }
+    ]
+   },
+   {
+    "term_id": "T093",
+    "senses": [
+     {
+      "sense": "Avīci hell",
+      "academic": "jehanamu ya Avichi",
+      "children": "Avichi",
+      "note": "Builds on fixed 'jehanamu' (hell); name in Swahili spelling, children keep name alone as English does."
+     }
+    ]
+   },
+   {
+    "term_id": "T094",
+    "senses": [
+     {
+      "sense": "ethical discipline",
+      "academic": "maadili",
+      "children": "tabia njema",
+      "note": "'Maadili' is standard for ethics; children phrase mirrors 'good conduct'."
+     }
+    ]
+   },
+   {
+    "term_id": "T095",
+    "senses": [
+     {
+      "sense": "gain",
+      "academic": "faida",
+      "children": "faida",
+      "note": "Everyday word, same both registers; identical with T101 as English is identical."
+     }
+    ]
+   },
+   {
+    "term_id": "T096",
+    "senses": [
+     {
+      "sense": "honor",
+      "academic": "heshima",
+      "children": "heshima",
+      "note": "Everyday word for respect and honor, usable in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T097",
+    "senses": [
+     {
+      "sense": "like a log",
+      "academic": "kama gogo la mti",
+      "children": "kama gogo",
+      "note": "'Gogo' is log; academic specifies wood, children shorten as English does."
+     }
+    ]
+   },
+   {
+    "term_id": "T098",
+    "senses": [
+     {
+      "sense": "fault",
+      "academic": "kosa",
+      "children": "kosa",
+      "note": "Kept distinct from 'dhambi' (misdeed); everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T099",
+    "senses": [
+     {
+      "sense": "welfare of others",
+      "academic": "ustawi wa wengine",
+      "children": "manufaa ya wengine",
+      "note": "'Ustawi' precise for welfare; children phrase mirrors 'good of others'."
+     }
+    ]
+   },
+   {
+    "term_id": "T100",
+    "senses": [
+     {
+      "sense": "Mahāyāna",
+      "academic": "Mahayana",
+      "children": "Gari Kubwa",
+      "note": "Loan in Swahili spelling for scholars; children get literal 'Great Vehicle' in plain words."
+     }
+    ]
+   },
+   {
+    "term_id": "T101",
+    "senses": [
+     {
+      "sense": "gain",
+      "academic": "faida",
+      "children": "faida",
+      "note": "Same term and sense as T095, rendered identically."
+     }
+    ]
+   },
+   {
+    "term_id": "T102",
+    "senses": [
+     {
+      "sense": "perfection of diligence",
+      "academic": "bidii",
+      "children": "kujituma kwa furaha",
+      "note": "'Bidii' standard for diligence; children phrase mirrors 'joyful effort'."
+     }
+    ]
+   },
+   {
+    "term_id": "T103",
+    "senses": [
+     {
+      "sense": "person filled with desire",
+      "academic": "mwenye ashiki",
+      "children": "mtu mwenye tamaa nyingi",
+      "note": "'Ashiki' conveys lust; children phrase mirrors 'person full of desire'."
+     }
+    ]
+   },
+   {
+    "term_id": "T104",
+    "senses": [
+     {
+      "sense": "thing that exists",
+      "academic": "kitu",
+      "children": "kitu",
+      "note": "Reuses fixed rendering for bhāva/vastu (entity)."
+     }
+    ]
+   },
+   {
+    "term_id": "T105",
+    "senses": [
+     {
+      "sense": "visible form",
+      "academic": "umbo",
+      "children": "umbo",
+      "note": "'Umbo' covers both 'form' and 'shape'; same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T106",
+    "senses": [
+     {
+      "sense": "luminous, clear (of mind or lamp)",
+      "academic": "mwangavu",
+      "children": "inayong'aa",
+      "note": "'Mwangavu' means bright, clear; children phrase mirrors 'shining'."
+     },
+     {
+      "sense": "manifest (of pleasure)",
+      "academic": "dhahiri",
+      "children": "wazi",
+      "note": "Distinct sense gets distinct rendering; 'dhahiri' precise, 'wazi' everyday."
+     }
+    ]
+   },
+   {
+    "term_id": "T107",
+    "senses": [
+     {
+      "sense": "sound",
+      "academic": "sauti",
+      "children": "sauti",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T108",
+    "senses": [
+     {
+      "sense": "benefit",
+      "academic": "manufaa",
+      "children": "manufaa",
+      "note": "Kept distinct from 'faida' (gain); everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T109",
+    "senses": [
+     {
+      "sense": "lord of sages",
+      "academic": "Bwana wa Wenye Hekima",
+      "children": "Bwana wa watu wenye hekima",
+      "note": "Descriptive epithet; 'sage' rendered as person of wisdom in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T110",
+    "senses": [
+     {
+      "sense": "child of the Victors",
+      "academic": "Mtoto wa Washindi",
+      "children": "Mtoto wa Washindi",
+      "note": "Compound reuses fixed 'Mshindi' (Victor) in plural."
+     }
+    ]
+   },
+   {
+    "term_id": "T111",
+    "senses": [
+     {
+      "sense": "refuge",
+      "academic": "kimbilio",
+      "children": "hifadhi",
+      "note": "Noun pairs with 'kukimbilia' (take refuge); 'hifadhi' mirrors children's 'shelter'."
+     }
+    ]
+   },
+   {
+    "term_id": "T112",
+    "senses": [
+     {
+      "sense": "the Buddha's teaching, sublime",
+      "academic": "Dharma Tukufu",
+      "children": "mafundisho matakatifu",
+      "note": "Builds on fixed 'Dharma'/'mafundisho'; 'tukufu' and 'matakatifu' render sublime."
+     }
+    ]
+   },
+   {
+    "term_id": "T113",
+    "senses": [
+     {
+      "sense": "child of the Buddhas",
+      "academic": "Mtoto wa Mabuddha",
+      "children": "Mtoto wa Mabuddha",
+      "note": "Builds on fixed 'Buddha' with normal Swahili plural 'Mabuddha'."
+     }
+    ]
+   },
+   {
+    "term_id": "T114",
+    "senses": [
+     {
+      "sense": "wish-fulfilling tree",
+      "academic": "mti unaotimiza matamanio",
+      "children": "mti wa kutimiza matamanio",
+      "note": "Descriptive phrase; same image in both registers, slightly plainer for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T115",
+    "senses": [
+     {
+      "sense": "great compassion",
+      "academic": "huruma kuu",
+      "children": "huruma kuu",
+      "note": "Builds on 'huruma' (compassion, T117) with 'kuu' for great."
+     }
+    ]
+   },
+   {
+    "term_id": "T116",
+    "senses": [
+     {
+      "sense": "Tathāgata",
+      "academic": "Tathagata",
+      "children": "Aliyekwenda Hivyo",
+      "note": "Loan in Swahili spelling for scholars; children get literal 'Thus-Gone One'."
+     }
+    ]
+   },
+   {
+    "term_id": "T117",
+    "senses": [
+     {
+      "sense": "compassion",
+      "academic": "huruma",
+      "children": "huruma",
+      "note": "Everyday word; base for 'huruma kuu' (great compassion)."
+     }
+    ]
+   },
+   {
+    "term_id": "T118",
+    "senses": [
+     {
+      "sense": "the Buddha's teaching, sublime",
+      "academic": "Dharma Tukufu",
+      "children": "mafundisho matakatifu",
+      "note": "Same term and sense as T112, rendered identically."
+     }
+    ]
+   },
+   {
+    "term_id": "T119",
+    "senses": [
+     {
+      "sense": "assembly (of bodhisattvas, Saṅgha)",
+      "academic": "jumuiya",
+      "children": "kikundi",
+      "note": "'Jumuiya' suits a formal assembly; children get everyday 'kikundi' (group)."
+     },
+     {
+      "sense": "accumulation (of merit and wisdom)",
+      "academic": "hazina",
+      "children": "wema uliokusanywa",
+      "note": "'Hazina' (store) for saṃbhāra; children phrase mirrors 'stored-up goodness'."
+     },
+     {
+      "sense": "collection (of parts)",
+      "academic": "mkusanyiko",
+      "children": "mkusanyiko wa sehemu",
+      "note": "Distinct from accumulation; children add 'wa sehemu' mirroring 'of parts'."
+     }
+    ]
+   },
+   {
+    "term_id": "T120",
+    "senses": [
+     {
+      "sense": "confess",
+      "academic": "kuungama",
+      "children": "kukiri",
+      "note": "'Kuungama' is formal confession; everyday 'kukiri' mirrors 'own up to'."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 5733,
+  "output": 2820,
+  "thinking": 8253,
+  "cache_read": 256,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 189.06,
+ "attempt": 1
+}

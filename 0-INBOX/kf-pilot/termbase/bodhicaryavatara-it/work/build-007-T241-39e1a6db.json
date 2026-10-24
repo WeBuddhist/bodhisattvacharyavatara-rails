@@ -1,0 +1,468 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T241",
+    "senses": [
+     {
+      "sense": "liberation",
+      "academic": "liberazione",
+      "children": "libertà",
+      "note": "Standard Italian Buddhist term; everyday word for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T242",
+    "senses": [
+     {
+      "sense": "conceit",
+      "academic": "alterigia",
+      "children": "sentirsi superiore",
+      "note": "Distinct from orgoglio (pride); haughty self-satisfaction."
+     }
+    ]
+   },
+   {
+    "term_id": "T243",
+    "senses": [
+     {
+      "sense": "being with a mind",
+      "academic": "essere dotato di mente",
+      "children": "essere con una mente",
+      "note": "Literal rendering; parallels insentient acetana."
+     }
+    ]
+   },
+   {
+    "term_id": "T244",
+    "senses": [
+     {
+      "sense": "adventitious",
+      "academic": "avventizio",
+      "children": "temporaneo",
+      "note": "Established scholarly term for defilements not intrinsic to mind."
+     }
+    ]
+   },
+   {
+    "term_id": "T245",
+    "senses": [
+     {
+      "sense": "forest of sword-leaves",
+      "academic": "foresta di foglie di spada",
+      "children": "foresta di foglie taglienti come spade",
+      "note": "Hell realm name; descriptive phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T246",
+    "senses": [
+     {
+      "sense": "conduct",
+      "academic": "condotta",
+      "children": "modo di agire",
+      "note": "Same caryā as in the text title, rendered via there."
+     }
+    ]
+   },
+   {
+    "term_id": "T247",
+    "senses": [
+     {
+      "sense": "death",
+      "academic": "morte",
+      "children": "morte",
+      "note": "Everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T248",
+    "senses": [
+     {
+      "sense": "being angry",
+      "academic": "rabbia",
+      "children": "rabbia",
+      "note": "Matches fixed krodha rendering; inflected as verb in context."
+     }
+    ]
+   },
+   {
+    "term_id": "T249",
+    "senses": [
+     {
+      "sense": "insentient thing",
+      "academic": "insenziente",
+      "children": "cosa senza mente",
+      "note": "Opposite of sacetana; plain phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T250",
+    "senses": [
+     {
+      "sense": "loving mind",
+      "academic": "mente amorevole",
+      "children": "mente piena d'amore",
+      "note": "Compound of maitrī and citta (mente)."
+     }
+    ]
+   },
+   {
+    "term_id": "T251",
+    "senses": [
+     {
+      "sense": "excellence",
+      "academic": "eccellenza",
+      "children": "eccellenza",
+      "note": "Covers favorable endowments and perfections."
+     }
+    ]
+   },
+   {
+    "term_id": "T252",
+    "senses": [
+     {
+      "sense": "cause of patience",
+      "academic": "causa della pazienza",
+      "children": "causa della pazienza",
+      "note": "Reuses fixed renderings of causa and pazienza."
+     }
+    ]
+   },
+   {
+    "term_id": "T253",
+    "senses": [
+     {
+      "sense": "qualities of a Buddha",
+      "academic": "qualità di un Buddha",
+      "children": "qualità di un Buddha",
+      "note": "Buddha-qualities such as powers and fearlessnesses."
+     }
+    ]
+   },
+   {
+    "term_id": "T254",
+    "senses": [
+     {
+      "sense": "offering",
+      "academic": "offerta",
+      "children": "offerta",
+      "note": "Ritual offering; everyday word works for both."
+     }
+    ]
+   },
+   {
+    "term_id": "T255",
+    "senses": [
+     {
+      "sense": "three realms",
+      "academic": "tre reami",
+      "children": "tre mondi",
+      "note": "Reuses reame academically and mondo (loka) for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T256",
+    "senses": [
+     {
+      "sense": "opposing factor",
+      "academic": "fattore opposto",
+      "children": "opposto",
+      "note": "Logical and soteriological sense of counter-agent."
+     }
+    ]
+   },
+   {
+    "term_id": "T257",
+    "senses": [
+     {
+      "sense": "birth in saṃsāra",
+      "academic": "nascita",
+      "children": "nascita",
+      "note": "Rebirth within cyclic existence."
+     },
+     {
+      "sense": "arising of phenomena",
+      "academic": "sorgere",
+      "children": "venire all'esistenza",
+      "note": "Production of phenomena; distinct from birth sense."
+     }
+    ]
+   },
+   {
+    "term_id": "T258",
+    "senses": [
+     {
+      "sense": "equality of self and others",
+      "academic": "eguaglianza tra l'io e gli altri",
+      "children": "vedere se stessi e gli altri come uguali",
+      "note": "Key practice in chapter 8; self rendered io per fixed term."
+     }
+    ]
+   },
+   {
+    "term_id": "T259",
+    "senses": [
+     {
+      "sense": "Śrāvaka",
+      "academic": "śrāvaka",
+      "children": "Ascoltatore",
+      "note": "Sanskrit retained academically; translated for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T260",
+    "senses": [
+     {
+      "sense": "aspiration",
+      "academic": "aspirazione",
+      "children": "forte desiderio",
+      "note": "Wholesome wish, distinct from craving."
+     }
+    ]
+   },
+   {
+    "term_id": "T261",
+    "senses": [
+     {
+      "sense": "joy",
+      "academic": "gioia",
+      "children": "gioia",
+      "note": "Everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T262",
+    "senses": [
+     {
+      "sense": "ocean of eons",
+      "academic": "oceano di eoni",
+      "children": "oceano di grandi epoche",
+      "note": "Reuses fixed eone and grande epoca renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T263",
+    "senses": [
+     {
+      "sense": "result of karmic ripening",
+      "academic": "risultato della maturazione karmica",
+      "children": "risultato che matura",
+      "note": "Reuses fixed risultato; vipāka as karmic maturation."
+     }
+    ]
+   },
+   {
+    "term_id": "T264",
+    "senses": [
+     {
+      "sense": "what is not virtuous",
+      "academic": "non-virtù",
+      "children": "azione cattiva",
+      "note": "Negation of fixed virtù and buona azione renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T265",
+    "senses": [
+     {
+      "sense": "pride as the enemy",
+      "academic": "nemico che è l'orgoglio",
+      "children": "nemico chiamato orgoglio",
+      "note": "Reuses fixed orgoglio; appositional compound."
+     }
+    ]
+   },
+   {
+    "term_id": "T266",
+    "senses": [
+     {
+      "sense": "ascetic",
+      "academic": "asceta",
+      "children": "persona che fa pratiche difficili",
+      "note": "Practitioner of austerities; descriptive for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T267",
+    "senses": [
+     {
+      "sense": "sleep",
+      "academic": "sonno",
+      "children": "sonno",
+      "note": "Everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T268",
+    "senses": [
+     {
+      "sense": "discursive thought",
+      "academic": "pensiero discorsivo",
+      "children": "pensiero irrequieto",
+      "note": "Restless mental chatter disturbing meditation."
+     },
+     {
+      "sense": "conceptual thought",
+      "academic": "pensiero concettuale",
+      "children": "idea",
+      "note": "Concept formation in general; simpler sense for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T269",
+    "senses": [
+     {
+      "sense": "friend",
+      "academic": "amico",
+      "children": "amico",
+      "note": "Everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T270",
+    "senses": [
+     {
+      "sense": "friend",
+      "academic": "persona cara",
+      "children": "amico",
+      "note": "Beloved one; academic stresses affection, children simplify."
+     }
+    ]
+   },
+   {
+    "term_id": "T271",
+    "senses": [
+     {
+      "sense": "meditative equipoise",
+      "academic": "equilibrio meditativo",
+      "children": "calmare la mente",
+      "note": "Settled, balanced meditative state."
+     }
+    ]
+   },
+   {
+    "term_id": "T272",
+    "senses": [
+     {
+      "sense": "vulture",
+      "academic": "avvoltoio",
+      "children": "avvoltoio",
+      "note": "Everyday animal name in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T273",
+    "senses": [
+     {
+      "sense": "bag of filth",
+      "academic": "sacco di immondizia",
+      "children": "sacco di sporcizia",
+      "note": "Image of the impure body; simpler wording for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T274",
+    "senses": [
+     {
+      "sense": "greed",
+      "academic": "avidità",
+      "children": "avidità",
+      "note": "Distinct from attaccamento (lobha) in the fixed list."
+     }
+    ]
+   },
+   {
+    "term_id": "T275",
+    "senses": [
+     {
+      "sense": "happiness and suffering",
+      "academic": "felicità e sofferenza",
+      "children": "felicità e sofferenza",
+      "note": "Reuses fixed felicità and sofferenza."
+     }
+    ]
+   },
+   {
+    "term_id": "T276",
+    "senses": [
+     {
+      "sense": "clinging to self",
+      "academic": "attaccamento all'io",
+      "children": "aggrapparsi a se stessi",
+      "note": "Sneha as affectionate clinging; io per fixed term."
+     }
+    ]
+   },
+   {
+    "term_id": "T277",
+    "senses": [
+     {
+      "sense": "grasping at a self",
+      "academic": "concezione dell'io",
+      "children": "tenersi stretti all'idea di un io",
+      "note": "Ahaṃkāra as I-making; distinct from ātmasneha."
+     }
+    ]
+   },
+   {
+    "term_id": "T278",
+    "senses": [
+     {
+      "sense": "gain and honor",
+      "academic": "guadagno e onore",
+      "children": "guadagno e rispetto",
+      "note": "Worldly concerns; onore academically, rispetto for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T279",
+    "senses": [
+     {
+      "sense": "chapter 9 title",
+      "academic": "Perfezione della saggezza",
+      "children": "Perfezione della saggezza",
+      "note": "Standard Italian title for prajñāpāramitā chapter."
+     }
+    ]
+   },
+   {
+    "term_id": "T280",
+    "senses": [
+     {
+      "sense": "ultimate truth",
+      "academic": "verità ultima",
+      "children": "verità più profonda",
+      "note": "Paramārtha-satya; plain phrase for children."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4089,
+  "output": 2455,
+  "thinking": 4711,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 137.88,
+ "attempt": 1
+}

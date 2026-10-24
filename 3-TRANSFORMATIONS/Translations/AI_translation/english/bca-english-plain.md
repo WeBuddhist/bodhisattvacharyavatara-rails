@@ -1,5 +1,6 @@
 ---
-title: Engaging in Bodhisattva Conduct - Plain English Translation
+title: Engaging in Bodhisattva Conduct - Plain English Translation — AI translation
+ai_generated: true
 language: English
 lang_tag: en
 file_type: translation
@@ -16,7 +17,7 @@ edition_id: 2AWdQyWXlLjIqMqLosTXV
 toc_id: FAVKVvd9OVfrkmq2YMEVG
 ---
 
-# Engaging in Bodhisattva Conduct ^0
+# Engaging in Bodhisattva Conduct — AI translation ^0
 
 ## Introduction ^I-0
 

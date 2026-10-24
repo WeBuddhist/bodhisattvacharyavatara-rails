@@ -1,0 +1,5 @@
+{"objections": [
+{"term_id": "T722", "sense": "nun", "field": "academic", "proposed": "moniale", "reason": "'Nonne' is Christian; 'moniale' is the established Buddhist term for bhikṣuṇī and pairs with 'moine' (T188, T302)."},
+{"term_id": "T722", "sense": "nun", "field": "children", "proposed": "moniale", "reason": "Consistent with 'moine ou moniale' in T302 and T487 children; 'nonne' is Christian."},
+{"term_id": "T727", "sense": "first bodhisattva ground", "field": "children", "proposed": "étape de la joie parfaite", "reason": "bhūmi is 'étape' in children field (T155, T366); 'terre' is the academic rendering only."}
+]}

@@ -1,5 +1,5 @@
 ---
-title: Engaging in the Conduct of the Bodhisattvas
+title: Engaging in the Conduct of the Bodhisattvas — AI translation
 track: DharmaMitra zero-shot (english)
 title_original: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
 title_source: set by hand from the Tibetan title བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།, 2026-10-07
@@ -22,6 +22,7 @@ source_language: tibetan
 target_language: english
 generator: dharmamitra cat-translate v1
 endpoint: https://dharmamitra.org/api-search/cat-translate/v1/translate
+ai_generated: true
 focus: tibetan
 context_blocks: 3
 batching: <=1 blocks/call, <=900 src chars, <=6000 payload chars
@@ -35,7 +36,7 @@ note: Machine baseline — not a rails-governed translation. Every line below is
 status: draft
 ---
 
-# Engaging in the Conduct of the Bodhisattvas ^0
+# Engaging in the Conduct of the Bodhisattvas — AI translation ^0
 
 ## The Introductory Meaning ^I-0
 

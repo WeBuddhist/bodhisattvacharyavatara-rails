@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T682",
+    "senses": [
+     {
+      "sense": "ocean of suffering",
+      "academic": "océano de sufrimiento",
+      "children": "océano de sufrimiento",
+      "note": "Compound reuses fixed rendering of duḥkha (sufrimiento)."
+     }
+    ]
+   },
+   {
+    "term_id": "T683",
+    "senses": [
+     {
+      "sense": "distraction",
+      "academic": "distracción",
+      "children": "distracción",
+      "note": "Same everyday word works in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T684",
+    "senses": [
+     {
+      "sense": "great lower realm",
+      "academic": "gran reino inferior",
+      "children": "gran reino infeliz",
+      "note": "Compound reuses fixed renderings of durgati (reino inferior / reino infeliz)."
+     }
+    ]
+   },
+   {
+    "term_id": "T685",
+    "senses": [
+     {
+      "sense": "wrong path",
+      "academic": "camino erróneo",
+      "children": "camino equivocado",
+      "note": "Children uses everyday word for mistaken."
+     }
+    ]
+   },
+   {
+    "term_id": "T686",
+    "senses": [
+     {
+      "sense": "river of afflictions",
+      "academic": "río de aflicciones",
+      "children": "río de emociones que perturban",
+      "note": "Reuses fixed kleśa renderings (aflicción / emoción que perturba)."
+     }
+    ]
+   },
+   {
+    "term_id": "T687",
+    "senses": [
+     {
+      "sense": "river of suffering",
+      "academic": "río de sufrimiento",
+      "children": "río de sufrimiento",
+      "note": "Reuses fixed duḥkha rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T688",
+    "senses": [
+     {
+      "sense": "aging and death",
+      "academic": "envejecimiento y muerte",
+      "children": "hacerse viejo y morir",
+      "note": "Children uses plain verb phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T689",
+    "senses": [
+     {
+      "sense": "fire of suffering",
+      "academic": "fuego de sufrimiento",
+      "children": "fuego de sufrimiento",
+      "note": "Reuses fixed duḥkha rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T690",
+    "senses": [
+     {
+      "sense": "accumulation of merit",
+      "academic": "acumulación de mérito",
+      "children": "reserva de bondad",
+      "note": "Academic reuses fixed puṇya (mérito); children conveys gathered store of goodness."
+     }
+    ]
+   },
+   {
+    "term_id": "T691",
+    "senses": [
+     {
+      "sense": "non-apprehension",
+      "academic": "no-aprehensión",
+      "children": "no fijarse en nada",
+      "note": "Technical term; children paraphrases as not fixing on anything."
+     }
+    ]
+   },
+   {
+    "term_id": "T692",
+    "senses": [
+     {
+      "sense": "world system",
+      "academic": "sistema de mundos",
+      "children": "reino del mundo",
+      "note": "Standard cosmological term; children uses realm of the world."
+     }
+    ]
+   },
+   {
+    "term_id": "T693",
+    "senses": [
+     {
+      "sense": "Sukhāvatī",
+      "academic": "Sukhāvatī",
+      "children": "Sukhavati",
+      "note": "Proper name of Buddha-field; children drops diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T694",
+    "senses": [
+     {
+      "sense": "name of a thorny tree in hell",
+      "academic": "śālmali",
+      "children": "shalmali",
+      "note": "Proper name kept; children without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T695",
+    "senses": [
+     {
+      "sense": "divine palace",
+      "academic": "palacio celestial",
+      "children": "palacio del cielo",
+      "note": "Children uses everyday word cielo."
+     }
+    ]
+   },
+   {
+    "term_id": "T696",
+    "senses": [
+     {
+      "sense": "hell river",
+      "academic": "río infranqueable",
+      "children": "río que no se puede cruzar",
+      "note": "Academic single adjective; children spells out the meaning."
+     }
+    ]
+   },
+   {
+    "term_id": "T697",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Vajrapāṇi",
+      "children": "Vajrapani",
+      "note": "Proper name; children without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T698",
+    "senses": [
+     {
+      "sense": "Padmapāṇi (name of Avalokiteśvara)",
+      "academic": "Padmapāṇi",
+      "children": "Padmapani",
+      "note": "Proper name; children without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T699",
+    "senses": [
+     {
+      "sense": "youth with a topknot",
+      "academic": "joven con un moño en la coronilla",
+      "children": "niño con un moño",
+      "note": "Children simplifies youth to boy and shortens the phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T700",
+    "senses": [
+     {
+      "sense": "compassion, affection",
+      "academic": "afecto",
+      "children": "compasión",
+      "note": "Academic follows English affection; children uses everyday compassion."
+     }
+    ]
+   },
+   {
+    "term_id": "T701",
+    "senses": [
+     {
+      "sense": "root of virtue",
+      "academic": "raíz de virtud",
+      "children": "raíz de buenas acciones",
+      "note": "Reuses fixed kuśala renderings (virtud / buena acción)."
+     }
+    ]
+   },
+   {
+    "term_id": "T702",
+    "senses": [
+     {
+      "sense": "animal",
+      "academic": "animal",
+      "children": "animal",
+      "note": "Everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T703",
+    "senses": [
+     {
+      "sense": "Uttarakuru",
+      "academic": "Uttarakuru",
+      "children": "Uttarakuru",
+      "note": "Proper name of the northern continent."
+     }
+    ]
+   },
+   {
+    "term_id": "T704",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Avalokiteśvara",
+      "children": "Avalokiteshvara",
+      "note": "Proper name; children without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T705",
+    "senses": [
+     {
+      "sense": "Māyādevī (goddess)",
+      "academic": "Māyādevī",
+      "children": "Mayadevi",
+      "note": "Proper name; children without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T706",
+    "senses": [
+     {
+      "sense": "state without leisure",
+      "academic": "estado sin ocio",
+      "children": "estado sin libertad",
+      "note": "Standard Buddhist phrase; children uses freedom instead of leisure."
+     }
+    ]
+   },
+   {
+    "term_id": "T707",
+    "senses": [
+     {
+      "sense": "compassion",
+      "academic": "compasión",
+      "children": "compasión",
+      "note": "Same everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T708",
+    "senses": [
+     {
+      "sense": "treasury of space",
+      "academic": "tesoro del espacio",
+      "children": "casa de tesoros del espacio",
+      "note": "Also bodhisattva name; children renders treasure house literally."
+     }
+    ]
+   },
+   {
+    "term_id": "T709",
+    "senses": [
+     {
+      "sense": "conduct of awakening",
+      "academic": "conducta del despertar",
+      "children": "forma de actuar para el despertar",
+      "note": "Reuses fixed bodhi rendering (despertar); children paraphrases conduct."
+     }
+    ]
+   },
+   {
+    "term_id": "T710",
+    "senses": [
+     {
+      "sense": "action of Māra",
+      "academic": "acción de Māra",
+      "children": "acción de Mara",
+      "note": "Proper name Māra kept; children without diacritic."
+     }
+    ]
+   },
+   {
+    "term_id": "T711",
+    "senses": [
+     {
+      "sense": "lapis lazuli",
+      "academic": "lapislázuli",
+      "children": "lapislázuli",
+      "note": "Standard Spanish gem name in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T712",
+    "senses": [
+     {
+      "sense": "circle of retinue",
+      "academic": "círculo",
+      "children": "círculo",
+      "note": "Follows English rendering circle."
+     }
+    ]
+   },
+   {
+    "term_id": "T713",
+    "senses": [
+     {
+      "sense": "sound of the Dharma",
+      "academic": "sonido del Dharma",
+      "children": "sonido de las enseñanzas",
+      "note": "Reuses fixed dharma renderings (Dharma / enseñanzas)."
+     }
+    ]
+   },
+   {
+    "term_id": "T714",
+    "senses": [
+     {
+      "sense": "cloud of offerings",
+      "academic": "nube de ofrendas",
+      "children": "nube de ofrendas",
+      "note": "Same plain phrase in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T715",
+    "senses": [
+     {
+      "sense": "teacher of wandering beings",
+      "academic": "maestro de los seres errantes",
+      "children": "maestro de los seres",
+      "note": "Reuses fixed jagat renderings (ser errante / ser)."
+     }
+    ]
+   },
+   {
+    "term_id": "T716",
+    "senses": [
+     {
+      "sense": "king",
+      "academic": "rey",
+      "children": "rey",
+      "note": "Everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T717",
+    "senses": [
+     {
+      "sense": "secret mantra",
+      "academic": "mantra secreto",
+      "children": "palabras sagradas secretas",
+      "note": "Children explains mantra as sacred words."
+     }
+    ]
+   },
+   {
+    "term_id": "T718",
+    "senses": [
+     {
+      "sense": "ḍākinī",
+      "academic": "ḍākinī",
+      "children": "viajera del cielo",
+      "note": "Academic keeps Sanskrit term; children renders sky-goer."
+     }
+    ]
+   },
+   {
+    "term_id": "T719",
+    "senses": [
+     {
+      "sense": "monastery",
+      "academic": "monasterio",
+      "children": "monasterio",
+      "note": "Everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T720",
+    "senses": [
+     {
+      "sense": "recitation",
+      "academic": "recitación",
+      "children": "recitar",
+      "note": "Children uses the plain verb form."
+     }
+    ]
+   },
+   {
+    "term_id": "T721",
+    "senses": [
+     {
+      "sense": "Saṅgha",
+      "academic": "Saṅgha",
+      "children": "comunidad de monjes y monjas",
+      "note": "Academic keeps established term; children explains the community."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4116,
+  "output": 2396,
+  "thinking": 2810,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 147.59,
+ "attempt": 1
+}

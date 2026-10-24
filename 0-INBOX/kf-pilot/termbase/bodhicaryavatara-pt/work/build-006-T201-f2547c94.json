@@ -1,0 +1,462 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T201",
+    "senses": [
+     {
+      "sense": "three times",
+      "academic": "três tempos",
+      "children": "passado, presente e futuro",
+      "note": "Past, present, future; standard Buddhist phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T202",
+    "senses": [
+     {
+      "sense": "master (teacher)",
+      "academic": "mestre",
+      "children": "professor",
+      "note": "Ācārya as spiritual teacher; children get everyday school word."
+     }
+    ]
+   },
+   {
+    "term_id": "T203",
+    "senses": [
+     {
+      "sense": "great compassion",
+      "academic": "grande compaixão",
+      "children": "grande compaixão",
+      "note": "Same rendering both registers, matching English."
+     }
+    ]
+   },
+   {
+    "term_id": "T204",
+    "senses": [
+     {
+      "sense": "Three Jewels",
+      "academic": "Três Joias",
+      "children": "Três Joias",
+      "note": "Buddha, Dharma, Sangha; capitalized set term."
+     }
+    ]
+   },
+   {
+    "term_id": "T205",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Samantabhadra",
+      "children": "Samantabhadra",
+      "note": "Proper name kept unchanged."
+     }
+    ]
+   },
+   {
+    "term_id": "T206",
+    "senses": [
+     {
+      "sense": "Mañjuśrī",
+      "academic": "Mañjuśrī",
+      "children": "Manjushri",
+      "note": "Mañjughoṣa is epithet of Mañjuśrī; children without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T207",
+    "senses": [
+     {
+      "sense": "Avalokiteśvara",
+      "academic": "Avalokiteśvara",
+      "children": "Avalokiteshvara",
+      "note": "Proper name; children get simplified spelling."
+     }
+    ]
+   },
+   {
+    "term_id": "T208",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Ākāśagarbha",
+      "children": "Akashagarbha",
+      "note": "Proper name; children get simplified spelling."
+     }
+    ]
+   },
+   {
+    "term_id": "T209",
+    "senses": [
+     {
+      "sense": "omniscient",
+      "academic": "onisciente",
+      "children": "que tudo sabe",
+      "note": "Children get plain adjective phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T210",
+    "senses": [
+     {
+      "sense": "awakening mind",
+      "academic": "bodhicitta",
+      "children": "mente do despertar",
+      "note": "Reuses fixed bodhicitta renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T211",
+    "senses": [
+     {
+      "sense": "pass into nirvāṇa",
+      "academic": "nirvana",
+      "children": "liberdade da tristeza",
+      "note": "Children phrase mirrors English 'freedom from sorrow'."
+     }
+    ]
+   },
+   {
+    "term_id": "T212",
+    "senses": [
+     {
+      "sense": "countless eon",
+      "academic": "incontáveis éons",
+      "children": "incontáveis grandes eras",
+      "note": "Builds on fixed kalpa renderings éon / grande era."
+     }
+    ]
+   },
+   {
+    "term_id": "T213",
+    "senses": [
+     {
+      "sense": "inexhaustible treasure",
+      "academic": "tesouro inesgotável",
+      "children": "tesouro que nunca acaba",
+      "note": "Children phrase mirrors English 'never runs out'."
+     }
+    ]
+   },
+   {
+    "term_id": "T214",
+    "senses": [
+     {
+      "sense": "path",
+      "academic": "caminho",
+      "children": "caminho",
+      "note": "Matches 'Caminho' in fixed title rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T215",
+    "senses": [
+     {
+      "sense": "asura",
+      "academic": "asura",
+      "children": "semideus",
+      "note": "Class of jealous demigods; children get plain equivalent."
+     }
+    ]
+   },
+   {
+    "term_id": "T216",
+    "senses": [
+     {
+      "sense": "striving",
+      "academic": "diligência",
+      "children": "esforço",
+      "note": "Joyful effort in practice."
+     }
+    ]
+   },
+   {
+    "term_id": "T217",
+    "senses": [
+     {
+      "sense": "faith",
+      "academic": "fé",
+      "children": "confiança",
+      "note": "Children get everyday trust word."
+     }
+    ]
+   },
+   {
+    "term_id": "T218",
+    "senses": [
+     {
+      "sense": "human body",
+      "academic": "corpo humano",
+      "children": "corpo humano",
+      "note": "Precious human rebirth context."
+     }
+    ]
+   },
+   {
+    "term_id": "T219",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Bem-aventurado",
+      "children": "Abençoado",
+      "note": "Bhagavat; traditional Portuguese honorific for the Buddha."
+     }
+    ]
+   },
+   {
+    "term_id": "T220",
+    "senses": [
+     {
+      "sense": "liberation",
+      "academic": "libertação",
+      "children": "liberdade",
+      "note": "Spiritual liberation; children get everyday freedom word."
+     },
+     {
+      "sense": "life story of a saint",
+      "academic": "história de libertação",
+      "children": "história de vida",
+      "note": "Genre of hagiography showing path to liberation."
+     }
+    ]
+   },
+   {
+    "term_id": "T221",
+    "senses": [
+     {
+      "sense": "leisure",
+      "academic": "tempo livre",
+      "children": "liberdade para praticar",
+      "note": "Freedom from the eight unfree states, allowing practice."
+     }
+    ]
+   },
+   {
+    "term_id": "T222",
+    "senses": [
+     {
+      "sense": "Mount Meru",
+      "academic": "Monte Meru",
+      "children": "Monte Meru",
+      "note": "Cosmic mountain; proper name unchanged."
+     }
+    ]
+   },
+   {
+    "term_id": "T223",
+    "senses": [
+     {
+      "sense": "ten directions",
+      "academic": "dez direções",
+      "children": "dez direções",
+      "note": "Four cardinal, four intermediate, zenith, nadir."
+     }
+    ]
+   },
+   {
+    "term_id": "T224",
+    "senses": [
+     {
+      "sense": "illusion",
+      "academic": "ilusão",
+      "children": "ilusão",
+      "note": "Reuses fixed māyā renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T225",
+    "senses": [
+     {
+      "sense": "sense object",
+      "academic": "objeto dos sentidos",
+      "children": "coisa que percebemos",
+      "note": "Object of the six senses."
+     }
+    ]
+   },
+   {
+    "term_id": "T226",
+    "senses": [
+     {
+      "sense": "elephant of the mind",
+      "academic": "elefante da mente",
+      "children": "elefante da mente",
+      "note": "Metaphor for the wild, untamed mind."
+     }
+    ]
+   },
+   {
+    "term_id": "T227",
+    "senses": [
+     {
+      "sense": "rākṣasa",
+      "academic": "rākṣasa",
+      "children": "demônio",
+      "note": "Flesh-eating demon; children get plain equivalent."
+     }
+    ]
+   },
+   {
+    "term_id": "T228",
+    "senses": [
+     {
+      "sense": "hell of sentient beings",
+      "academic": "inferno dos seres sencientes",
+      "children": "inferno dos seres vivos",
+      "note": "Compound reusing fixed inferno and ser senciente/ser vivo."
+     }
+    ]
+   },
+   {
+    "term_id": "T229",
+    "senses": [
+     {
+      "sense": "three worlds",
+      "academic": "três mundos",
+      "children": "três mundos",
+      "note": "Desire, form and formless realms."
+     }
+    ]
+   },
+   {
+    "term_id": "T230",
+    "senses": [
+     {
+      "sense": "recitation",
+      "academic": "recitação",
+      "children": "recitação",
+      "note": "Repetition of mantra or text; same rendering both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T231",
+    "senses": [
+     {
+      "sense": "wound of the mind",
+      "academic": "ferida da mente",
+      "children": "ferida da mente",
+      "note": "Metaphor for mental pain; same image both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T232",
+    "senses": [
+     {
+      "sense": "name of a hell",
+      "academic": "Inferno do Esmagamento",
+      "children": "Inferno Esmagador",
+      "note": "Saṃghāta, hot hell where beings are crushed."
+     }
+    ]
+   },
+   {
+    "term_id": "T233",
+    "senses": [
+     {
+      "sense": "gateway of the mind",
+      "academic": "portal da mente",
+      "children": "porta da mente",
+      "note": "Mental door through which actions arise."
+     }
+    ]
+   },
+   {
+    "term_id": "T234",
+    "senses": [
+     {
+      "sense": "agitation",
+      "academic": "agitação",
+      "children": "inquietação",
+      "note": "Mental restlessness, an affliction factor."
+     }
+    ]
+   },
+   {
+    "term_id": "T235",
+    "senses": [
+     {
+      "sense": "self-praise",
+      "academic": "autoelogio",
+      "children": "elogiar a si mesmo",
+      "note": "Paired with disparaging others, chapter 7."
+     }
+    ]
+   },
+   {
+    "term_id": "T236",
+    "senses": [
+     {
+      "sense": "disparagement of others",
+      "academic": "depreciação dos outros",
+      "children": "rebaixar os outros",
+      "note": "Children phrase mirrors English 'putting others down'."
+     }
+    ]
+   },
+   {
+    "term_id": "T237",
+    "senses": [
+     {
+      "sense": "guarding introspection",
+      "academic": "guarda da introspecção",
+      "children": "cuidar da atenção",
+      "note": "Protecting vigilant self-awareness, chapter 5 theme."
+     }
+    ]
+   },
+   {
+    "term_id": "T238",
+    "senses": [
+     {
+      "sense": "meditation",
+      "academic": "meditação",
+      "children": "meditação",
+      "note": "Cultivation in meditation; same rendering both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T239",
+    "senses": [
+     {
+      "sense": "peace",
+      "academic": "paz",
+      "children": "paz",
+      "note": "Inner peace; same simple word both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T240",
+    "senses": [
+     {
+      "sense": "mental unhappiness",
+      "academic": "infelicidade mental",
+      "children": "infelicidade",
+      "note": "Mental, as opposed to physical, unhappiness."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4096,
+  "output": 2349,
+  "thinking": 3243,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 164.17,
+ "attempt": 1
+}

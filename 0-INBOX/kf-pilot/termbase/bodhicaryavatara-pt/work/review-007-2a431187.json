@@ -1,0 +1,31 @@
+{
+ "parsed": {
+  "objections": [
+   {
+    "term_id": "T724",
+    "sense": "hardship",
+    "field": "academic",
+    "proposed": "provação",
+    "reason": "\"austeridade\" is already the rendering of tapas (T122, dka' thub); duṣkaracaryā means hardship, so two different terms would share one rendering."
+   },
+   {
+    "term_id": "T727",
+    "sense": "first bodhisattva ground",
+    "field": "academic",
+    "proposed": "Estágio da Alegria Perfeita",
+    "reason": "bhūmi 'ground' is rendered \"estágio\" in T155, while \"terra\" is the earth element there; \"Terra\" is inconsistent and ambiguous."
+   },
+   {
+    "term_id": "T727",
+    "sense": "first bodhisattva ground",
+    "field": "children",
+    "proposed": "Fase da Alegria Perfeita",
+    "reason": "T155 children renders bodhisattva ground as \"fase\"; \"Terra\" is inconsistent and could be read as planet Earth by children."
+   }
+  ]
+ },
+ "tokens": {},
+ "model": "claude-sonnet-5-5",
+ "seconds": null,
+ "attempt": 1
+}

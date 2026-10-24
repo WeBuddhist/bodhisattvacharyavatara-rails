@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T321",
+    "senses": [
+     {
+      "sense": "seer",
+      "academic": "resi",
+      "children": "pertapa yang bijaksana",
+      "note": "Resi is the established Indonesian word for a Vedic sage-seer."
+     }
+    ]
+   },
+   {
+    "term_id": "T322",
+    "senses": [
+     {
+      "sense": "Brahmā (god)",
+      "academic": "Brahma",
+      "children": "Brahma",
+      "note": "Standard Indonesian spelling of the god's name."
+     }
+    ]
+   },
+   {
+    "term_id": "T323",
+    "senses": [
+     {
+      "sense": "Sugata",
+      "academic": "Sugata",
+      "children": "Yang Pergi dengan Baik",
+      "note": "Epithet of the Buddha kept in Sanskrit for academic use."
+     }
+    ]
+   },
+   {
+    "term_id": "T324",
+    "senses": [
+     {
+      "sense": "precious mind",
+      "academic": "batin yang berharga",
+      "children": "pikiran yang berharga",
+      "note": "Uses fixed citta renderings: batin (academic), pikiran (children)."
+     }
+    ]
+   },
+   {
+    "term_id": "T325",
+    "senses": [
+     {
+      "sense": "Jewel",
+      "academic": "Ratna",
+      "children": "permata",
+      "note": "As in the Three Jewels (Triratna), established in Indonesian Buddhist usage."
+     }
+    ]
+   },
+   {
+    "term_id": "T326",
+    "senses": [
+     {
+      "sense": "jewel tree",
+      "academic": "pohon permata",
+      "children": "pohon permata",
+      "note": "Wish-fulfilling jewel tree among the offerings."
+     }
+    ]
+   },
+   {
+    "term_id": "T327",
+    "senses": [
+     {
+      "sense": "worthy recipient of offerings",
+      "academic": "penerima persembahan yang layak",
+      "children": "orang yang layak menerima pemberian",
+      "note": "Dakshiniya, one who merits gifts and offerings."
+     }
+    ]
+   },
+   {
+    "term_id": "T328",
+    "senses": [
+     {
+      "sense": "supreme bodhisattva",
+      "academic": "bodhisatwa agung",
+      "children": "pahlawan kebangkitan teragung",
+      "note": "Compound reuses the fixed bodhisattva renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T329",
+    "senses": [
+     {
+      "sense": "existence",
+      "academic": "keberadaan",
+      "children": "kehidupan",
+      "note": "Bhava as cyclic existence in samsara."
+     }
+    ]
+   },
+   {
+    "term_id": "T330",
+    "senses": [
+     {
+      "sense": "misdeed",
+      "academic": "perbuatan jahat",
+      "children": "perbuatan yang merugikan",
+      "note": "Matches the fixed papa renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T331",
+    "senses": [
+     {
+      "sense": "bath",
+      "academic": "pemandian",
+      "children": "mandi",
+      "note": "Ritual bathing offered to the Buddhas."
+     }
+    ]
+   },
+   {
+    "term_id": "T332",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Samantabhadra",
+      "children": "Samantabhadra",
+      "note": "Proper name unchanged in Indonesian."
+     }
+    ]
+   },
+   {
+    "term_id": "T333",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Awalokiteswara",
+      "children": "Awalokiteswara",
+      "note": "Standard Indonesian form of Avalokiteshvara."
+     }
+    ]
+   },
+   {
+    "term_id": "T334",
+    "senses": [
+     {
+      "sense": "three-thousandfold world system",
+      "academic": "sistem dunia tiga ribu",
+      "children": "dunia berisi tiga ribu dunia",
+      "note": "Trisahasra, the vast cosmos of world systems."
+     }
+    ]
+   },
+   {
+    "term_id": "T335",
+    "senses": [
+     {
+      "sense": "object of offering",
+      "academic": "objek persembahan",
+      "children": "yang layak menerima persembahan",
+      "note": "Recipient toward whom offerings are directed."
+     }
+    ]
+   },
+   {
+    "term_id": "T336",
+    "senses": [
+     {
+      "sense": "heavenly flower",
+      "academic": "mandara",
+      "children": "bunga surgawi",
+      "note": "Mandara flower raining from heaven in offerings."
+     }
+    ]
+   },
+   {
+    "term_id": "T337",
+    "senses": [
+     {
+      "sense": "blue lotus",
+      "academic": "teratai biru",
+      "children": "teratai biru",
+      "note": "Indivara; teratai is standard Indonesian for lotus."
+     }
+    ]
+   },
+   {
+    "term_id": "T338",
+    "senses": [
+     {
+      "sense": "incense",
+      "academic": "dupa",
+      "children": "dupa",
+      "note": "Dupa is everyday Indonesian for incense."
+     }
+    ]
+   },
+   {
+    "term_id": "T339",
+    "senses": [
+     {
+      "sense": "divine feast",
+      "academic": "jamuan suci",
+      "children": "jamuan para dewa",
+      "note": "Naivedya, food feast offered to the exalted ones."
+     }
+    ]
+   },
+   {
+    "term_id": "T340",
+    "senses": [
+     {
+      "sense": "lamp",
+      "academic": "pelita",
+      "children": "lampu",
+      "note": "Pradipa, oil lamp offered to the Buddhas."
+     }
+    ]
+   },
+   {
+    "term_id": "T341",
+    "senses": [
+     {
+      "sense": "immeasurable palace",
+      "academic": "istana tak terukur",
+      "children": "istana yang tak terukur",
+      "note": "Vimana as a boundless celestial mansion offered in verse."
+     }
+    ]
+   },
+   {
+    "term_id": "T342",
+    "senses": [
+     {
+      "sense": "suffering (variant spelling)",
+      "academic": "penderitaan",
+      "children": "penderitaan",
+      "note": "Matches the fixed duhkha renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T343",
+    "senses": [
+     {
+      "sense": "supreme assembly (the Saṅgha)",
+      "academic": "Sangha Agung",
+      "children": "kelompok suci yang paling agung",
+      "note": "Ganottama as an honorific title for the Sangha."
+     }
+    ]
+   },
+   {
+    "term_id": "T344",
+    "senses": [
+     {
+      "sense": "buddha-field",
+      "academic": "tanah Buddha",
+      "children": "negeri Buddha",
+      "note": "Kshetra, the land or domain purified by a Buddha."
+     }
+    ]
+   },
+   {
+    "term_id": "T345",
+    "senses": [
+     {
+      "sense": "basis of bodhicitta",
+      "academic": "landasan bodicitta",
+      "children": "landasan pikiran kebangkitan",
+      "note": "Compound reuses the fixed bodhicitta renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T346",
+    "senses": [
+     {
+      "sense": "essence of awakening",
+      "academic": "intisari pencerahan",
+      "children": "inti kebangkitan",
+      "note": "Bodhimanda glossed as the very heart of awakening."
+     }
+    ]
+   },
+   {
+    "term_id": "T347",
+    "senses": [
+     {
+      "sense": "fully awakened Buddha",
+      "academic": "Buddha yang tercerahkan sepenuhnya",
+      "children": "Buddha yang bangkit sepenuhnya",
+      "note": "Sambuddha; awakening fixed as pencerahan or kebangkitan."
+     }
+    ]
+   },
+   {
+    "term_id": "T348",
+    "senses": [
+     {
+      "sense": "rejoice",
+      "academic": "turut bersukacita",
+      "children": "ikut merasa gembira",
+      "note": "Anumodana, rejoicing in others' merit."
+     }
+    ]
+   },
+   {
+    "term_id": "T349",
+    "senses": [
+     {
+      "sense": "one burdened with misdeeds",
+      "academic": "orang yang sarat perbuatan jahat",
+      "children": "orang yang pernah melakukan perbuatan yang merugikan",
+      "note": "Built on the fixed papa renderings; burdened sense."
+     }
+    ]
+   },
+   {
+    "term_id": "T350",
+    "senses": [
+     {
+      "sense": "purification",
+      "academic": "penyucian",
+      "children": "pembersihan",
+      "note": "Cleansing of misdeeds through confession."
+     }
+    ]
+   },
+   {
+    "term_id": "T351",
+    "senses": [
+     {
+      "sense": "definite liberation",
+      "academic": "pembebasan yang pasti",
+      "children": "kebebasan yang pasti",
+      "note": "Liberation rendered pembebasan per Indonesian Buddhist usage."
+     }
+    ]
+   },
+   {
+    "term_id": "T352",
+    "senses": [
+     {
+      "sense": "Protector of beings",
+      "academic": "Sang Pelindung Makhluk Dunia",
+      "children": "Sang Pelindung Makhluk",
+      "note": "Jagannatha; uses fixed jagat renderings for beings."
+     }
+    ]
+   },
+   {
+    "term_id": "T353",
+    "senses": [
+     {
+      "sense": "assembly of bodhisattvas",
+      "academic": "himpunan bodhisatwa",
+      "children": "kelompok pahlawan kebangkitan",
+      "note": "Compound reuses the fixed bodhisattva renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T354",
+    "senses": [
+     {
+      "sense": "one burdened with misdeeds",
+      "academic": "orang yang memiliki perbuatan jahat",
+      "children": "orang yang pernah melakukan perbuatan yang merugikan",
+      "note": "Papin; possessing sense, matching fixed papa renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T355",
+    "senses": [
+     {
+      "sense": "Kṣitigarbha",
+      "academic": "Ksitigarbha",
+      "children": "Ksitigarbha",
+      "note": "Proper name in standard Indonesian spelling."
+     }
+    ]
+   },
+   {
+    "term_id": "T356",
+    "senses": [
+     {
+      "sense": "Vajra-wielder",
+      "academic": "Pemegang Wajra",
+      "children": "Pemegang Petir",
+      "note": "Vajrin; vajra spelled wajra in Indonesian usage."
+     }
+    ]
+   },
+   {
+    "term_id": "T357",
+    "senses": [
+     {
+      "sense": "desire",
+      "academic": "hasrat",
+      "children": "keinginan yang besar",
+      "note": "Raga as afflictive desire, distinct from fixed lobha (kemelekatan)."
+     }
+    ]
+   },
+   {
+    "term_id": "T358",
+    "senses": [
+     {
+      "sense": "name of the human continent",
+      "academic": "Jambudwipa",
+      "children": "Jambudwipa",
+      "note": "Proper name in standard Indonesian spelling."
+     }
+    ]
+   },
+   {
+    "term_id": "T359",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Sang Tabib Mahatahu",
+      "children": "Dokter yang Tahu Segalanya",
+      "note": "Sarvajna-vaidya, the Buddha as all-knowing healer."
+     }
+    ]
+   },
+   {
+    "term_id": "T360",
+    "senses": [
+     {
+      "sense": "unit of distance",
+      "academic": "yojana",
+      "children": "satuan jarak kuno",
+      "note": "Ancient Indian unit of distance, roughly thirteen to fifteen kilometers."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4186,
+  "output": 2498,
+  "thinking": 9780,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 357.69,
+ "attempt": 1
+}

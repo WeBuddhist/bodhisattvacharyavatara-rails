@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T682",
+    "senses": [
+     {
+      "sense": "ocean of suffering",
+      "academic": "oceano de sofrimento",
+      "children": "oceano de sofrimento",
+      "note": "Compound reuses fixed rendering of duḥkha; identical in both registers, as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T683",
+    "senses": [
+     {
+      "sense": "distraction",
+      "academic": "distração",
+      "children": "distração",
+      "note": "Everyday Portuguese word works for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T684",
+    "senses": [
+     {
+      "sense": "great lower realm",
+      "academic": "grande reino inferior",
+      "children": "grande reino infeliz",
+      "note": "Reuses fixed renderings of durgati in each register."
+     }
+    ]
+   },
+   {
+    "term_id": "T685",
+    "senses": [
+     {
+      "sense": "wrong path",
+      "academic": "caminho errado",
+      "children": "caminho errado",
+      "note": "Plain phrase identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T686",
+    "senses": [
+     {
+      "sense": "river of afflictions",
+      "academic": "rio de aflições",
+      "children": "rio de emoções perturbadoras",
+      "note": "Reuses fixed renderings of kleśa in each register."
+     }
+    ]
+   },
+   {
+    "term_id": "T687",
+    "senses": [
+     {
+      "sense": "river of suffering",
+      "academic": "rio de sofrimento",
+      "children": "rio de sofrimento",
+      "note": "Reuses fixed rendering of duḥkha; same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T688",
+    "senses": [
+     {
+      "sense": "aging and death",
+      "academic": "envelhecimento e morte",
+      "children": "envelhecer e morrer",
+      "note": "Nominal phrase academic; verb phrase simpler for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T689",
+    "senses": [
+     {
+      "sense": "fire of suffering",
+      "academic": "fogo do sofrimento",
+      "children": "fogo do sofrimento",
+      "note": "Reuses fixed rendering of duḥkha; same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T690",
+    "senses": [
+     {
+      "sense": "accumulation of merit",
+      "academic": "acúmulo de mérito",
+      "children": "reserva de bondade acumulada",
+      "note": "Reuses fixed renderings of puṇya in each register."
+     }
+    ]
+   },
+   {
+    "term_id": "T691",
+    "senses": [
+     {
+      "sense": "non-apprehension",
+      "academic": "não-apreensão",
+      "children": "não se fixar em nada",
+      "note": "Technical term academic; plain explanatory phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T692",
+    "senses": [
+     {
+      "sense": "world system",
+      "academic": "sistema de mundos",
+      "children": "reino do mundo",
+      "note": "Reuses fixed rendering of loka; mirrors English register distinction."
+     }
+    ]
+   },
+   {
+    "term_id": "T693",
+    "senses": [
+     {
+      "sense": "Sukhāvatī",
+      "academic": "Sukhavati",
+      "children": "Sukhavati",
+      "note": "Proper name of the pure land, kept in standard transliteration."
+     }
+    ]
+   },
+   {
+    "term_id": "T694",
+    "senses": [
+     {
+      "sense": "name of a thorny tree in hell",
+      "academic": "śālmali",
+      "children": "Shalmali",
+      "note": "Sanskrit proper name; children get simplified spelling."
+     }
+    ]
+   },
+   {
+    "term_id": "T695",
+    "senses": [
+     {
+      "sense": "divine palace",
+      "academic": "palácio celestial",
+      "children": "palácio celestial",
+      "note": "Portuguese has one natural phrase for both English variants."
+     }
+    ]
+   },
+   {
+    "term_id": "T696",
+    "senses": [
+     {
+      "sense": "hell river",
+      "academic": "rio intransponível",
+      "children": "rio que não se pode atravessar",
+      "note": "Adjective academic; plain relative clause for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T697",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Vajrapāṇi",
+      "children": "Vajrapani",
+      "note": "Proper name; children get spelling without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T698",
+    "senses": [
+     {
+      "sense": "Padmapāṇi (name of Avalokiteśvara)",
+      "academic": "Padmapāṇi",
+      "children": "Padmapani",
+      "note": "Proper name; children get spelling without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T699",
+    "senses": [
+     {
+      "sense": "youth with a topknot",
+      "academic": "jovem com coque",
+      "children": "menino com coque",
+      "note": "Topknot rendered as coque; boy for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T700",
+    "senses": [
+     {
+      "sense": "compassion, affection",
+      "academic": "afeição",
+      "children": "compaixão",
+      "note": "Follows English: affection academic, compassion for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T701",
+    "senses": [
+     {
+      "sense": "root of virtue",
+      "academic": "raiz de virtude",
+      "children": "raiz de boas ações",
+      "note": "Reuses fixed renderings of kuśala in each register."
+     }
+    ]
+   },
+   {
+    "term_id": "T702",
+    "senses": [
+     {
+      "sense": "animal",
+      "academic": "animal",
+      "children": "animal",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T703",
+    "senses": [
+     {
+      "sense": "Uttarakuru",
+      "academic": "Uttarakuru",
+      "children": "Uttarakuru",
+      "note": "Proper name of the northern continent, unchanged."
+     }
+    ]
+   },
+   {
+    "term_id": "T704",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Avalokiteśvara",
+      "children": "Avalokiteshvara",
+      "note": "Proper name; children get spelling without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T705",
+    "senses": [
+     {
+      "sense": "Māyādevī (goddess)",
+      "academic": "Māyādevī",
+      "children": "Mayadevi",
+      "note": "Proper name; children get spelling without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T706",
+    "senses": [
+     {
+      "sense": "state without leisure",
+      "academic": "estado sem lazer",
+      "children": "estado sem liberdade",
+      "note": "Buddhist technical expression; freedom wording for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T707",
+    "senses": [
+     {
+      "sense": "compassion",
+      "academic": "compaixão",
+      "children": "compaixão",
+      "note": "Same everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T708",
+    "senses": [
+     {
+      "sense": "treasury of space",
+      "academic": "tesouro do espaço",
+      "children": "casa do tesouro do espaço",
+      "note": "Mirrors English treasury vs. treasure house distinction."
+     }
+    ]
+   },
+   {
+    "term_id": "T709",
+    "senses": [
+     {
+      "sense": "conduct of awakening",
+      "academic": "conduta do despertar",
+      "children": "maneira de agir para o despertar",
+      "note": "Reuses fixed rendering of bodhi in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T710",
+    "senses": [
+     {
+      "sense": "action of Māra",
+      "academic": "ação de Māra",
+      "children": "ação de Mara",
+      "note": "Proper name Māra kept; children without diacritic."
+     }
+    ]
+   },
+   {
+    "term_id": "T711",
+    "senses": [
+     {
+      "sense": "lapis lazuli",
+      "academic": "lápis-lazúli",
+      "children": "lápis-lazúli",
+      "note": "Standard Portuguese name of the gemstone."
+     }
+    ]
+   },
+   {
+    "term_id": "T712",
+    "senses": [
+     {
+      "sense": "circle of retinue",
+      "academic": "círculo",
+      "children": "círculo",
+      "note": "Follows English choice of plain circle for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T713",
+    "senses": [
+     {
+      "sense": "sound of the Dharma",
+      "academic": "som do Darma",
+      "children": "som dos ensinamentos",
+      "note": "Reuses fixed renderings of Dharma in each register."
+     }
+    ]
+   },
+   {
+    "term_id": "T714",
+    "senses": [
+     {
+      "sense": "cloud of offerings",
+      "academic": "nuvem de oferendas",
+      "children": "nuvem de oferendas",
+      "note": "Same phrase natural in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T715",
+    "senses": [
+     {
+      "sense": "teacher of wandering beings",
+      "academic": "mestre dos seres errantes",
+      "children": "mestre dos seres",
+      "note": "Reuses fixed renderings of jagat in each register."
+     }
+    ]
+   },
+   {
+    "term_id": "T716",
+    "senses": [
+     {
+      "sense": "king",
+      "academic": "rei",
+      "children": "rei",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T717",
+    "senses": [
+     {
+      "sense": "secret mantra",
+      "academic": "mantra secreto",
+      "children": "palavras sagradas secretas",
+      "note": "Mantra kept academic; plain phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T718",
+    "senses": [
+     {
+      "sense": "ḍākinī",
+      "academic": "ḍākinī",
+      "children": "viajante do céu",
+      "note": "Sanskrit term kept academic; sky-goer paraphrased for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T719",
+    "senses": [
+     {
+      "sense": "monastery",
+      "academic": "mosteiro",
+      "children": "mosteiro",
+      "note": "Standard Portuguese word, both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T720",
+    "senses": [
+     {
+      "sense": "recitation",
+      "academic": "recitação",
+      "children": "recitação",
+      "note": "Same word natural in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T721",
+    "senses": [
+     {
+      "sense": "Saṅgha",
+      "academic": "Sanga",
+      "children": "comunidade de monges e monjas",
+      "note": "Established Brazilian Buddhist form Sanga; spelled out for children."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4106,
+  "output": 2398,
+  "thinking": 2899,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 154.39,
+ "attempt": 1
+}

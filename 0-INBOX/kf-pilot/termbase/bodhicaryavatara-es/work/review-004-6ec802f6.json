@@ -1,0 +1,94 @@
+{
+ "parsed": {
+  "objections": [
+   {
+    "term_id": "T367",
+    "sense": "generation of bodhicitta",
+    "field": "academic",
+    "proposed": "generación de la bodhicitta",
+    "reason": "'del bodhicitta' conflicts with 'la bodhicitta' used in T474; gender of bodhicitta must be consistent."
+   },
+   {
+    "term_id": "T394",
+    "sense": "chapter title: Heedfulness",
+    "field": "academic",
+    "proposed": "El esmero",
+    "reason": "'La atención' collides with 'atención plena' (smṛti); align with the rendering of apramāda (T121 'esmero')."
+   },
+   {
+    "term_id": "T394",
+    "sense": "chapter title: Heedfulness",
+    "field": "children",
+    "proposed": "El cuidado",
+    "reason": "Align with T121 children rendering 'cuidado' (apramāda), replacing the earlier 'atención cuidadosa' echo."
+   },
+   {
+    "term_id": "T400",
+    "sense": "mind of renunciation",
+    "field": "academic",
+    "proposed": "mente de abstención",
+    "reason": "spong ba/virati means abstaining from harm; 'renuncia' is too close to 'renunciación' (niḥsāra, T456) and 'desprendimiento' (T398)."
+   },
+   {
+    "term_id": "T403",
+    "sense": "Brahmā",
+    "field": "children",
+    "proposed": "Brahma",
+    "reason": "Children's fields drop diacritics; T322 (same god) uses 'Brahma'."
+   },
+   {
+    "term_id": "T409",
+    "sense": "name of a hell",
+    "field": "academic",
+    "proposed": "Infierno Destructor",
+    "reason": "Hell names are capitalised in the academic field (T232 'Infierno Aplastante'); draft has mixed case."
+   },
+   {
+    "term_id": "T409",
+    "sense": "name of a hell",
+    "field": "children",
+    "proposed": "infierno destructor",
+    "reason": "Children's field uses lowercase for hell names (T232 'infierno aplastante'); draft is inconsistent."
+   },
+   {
+    "term_id": "T432",
+    "sense": "apprehension, fear of wrongdoing",
+    "field": "academic",
+    "proposed": "temor",
+    "reason": "'aprensión' in Spanish means unfounded worry or squeamishness; the sense is fear of doing wrong, also near 'aprehensión' (T286)."
+   },
+   {
+    "term_id": "T437",
+    "sense": "supreme leisure",
+    "field": "academic",
+    "proposed": "libertad suprema",
+    "reason": "'ocio' suggests idle recreation; use 'libertad' as for dal ba (T221), as in 'libertades y dotes'."
+   },
+   {
+    "term_id": "T444",
+    "sense": "Three Heaps Sūtra",
+    "field": "academic",
+    "proposed": "Sūtra de los tres montones",
+    "reason": "'agregados' means the five skandhas in Spanish; the English is 'Heaps' and the children's field already says 'montones'."
+   },
+   {
+    "term_id": "T445",
+    "sense": "dedication",
+    "field": "academic",
+    "proposed": "dedicatoria",
+    "reason": "'dedicación' means commitment in Spanish; 'dedicatoria' is the established term for dedicating merit (see T300)."
+   },
+   {
+    "term_id": "T464",
+    "sense": "perversity",
+    "field": "academic",
+    "proposed": "distorsión",
+    "reason": "'perversión' suggests moral or sexual perversion; viparyaya (phyin ci log) means distorted, inverted view."
+   }
+  ]
+ },
+ "tokens": {},
+ "model": "claude-sonnet-5-5",
+ "seconds": null,
+ "attempt": 1
+}

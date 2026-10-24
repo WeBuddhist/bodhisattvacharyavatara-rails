@@ -1,0 +1,468 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T241",
+    "senses": [
+     {
+      "sense": "liberation",
+      "academic": "libertação",
+      "children": "liberdade",
+      "note": "Standard Buddhist term; mukti rendered like moksha."
+     }
+    ]
+   },
+   {
+    "term_id": "T242",
+    "senses": [
+     {
+      "sense": "conceit",
+      "academic": "soberba",
+      "children": "sentir-se superior",
+      "note": "Inflated self-regard, kept distinct from fixed orgulho (pride)."
+     }
+    ]
+   },
+   {
+    "term_id": "T243",
+    "senses": [
+     {
+      "sense": "being with a mind",
+      "academic": "ser dotado de mente",
+      "children": "ser que tem mente",
+      "note": "Animate being possessing mind, contrasted with insentient things below."
+     }
+    ]
+   },
+   {
+    "term_id": "T244",
+    "senses": [
+     {
+      "sense": "adventitious",
+      "academic": "adventício",
+      "children": "passageiro",
+      "note": "Technical term: defilements not intrinsic to the mind's nature."
+     }
+    ]
+   },
+   {
+    "term_id": "T245",
+    "senses": [
+     {
+      "sense": "forest of sword-leaves",
+      "academic": "floresta de folhas de espada",
+      "children": "floresta de folhas de espada",
+      "note": "Hell region whose leaves are sharp swords; English keeps same gloss."
+     }
+    ]
+   },
+   {
+    "term_id": "T246",
+    "senses": [
+     {
+      "sense": "conduct",
+      "academic": "conduta",
+      "children": "modo de agir",
+      "note": "Same root as in the text's title; here standalone conduct."
+     }
+    ]
+   },
+   {
+    "term_id": "T247",
+    "senses": [
+     {
+      "sense": "death",
+      "academic": "morte",
+      "children": "morte",
+      "note": "Everyday word works for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T248",
+    "senses": [
+     {
+      "sense": "being angry",
+      "academic": "raiva",
+      "children": "raiva",
+      "note": "English glosses it like krodha, so the fixed rendering raiva is reused."
+     }
+    ]
+   },
+   {
+    "term_id": "T249",
+    "senses": [
+     {
+      "sense": "insentient thing",
+      "academic": "insenciente",
+      "children": "coisa sem mente",
+      "note": "Opposite of sacetana; mirrors fixed ser senciente."
+     }
+    ]
+   },
+   {
+    "term_id": "T250",
+    "senses": [
+     {
+      "sense": "loving mind",
+      "academic": "mente amorosa",
+      "children": "mente cheia de amor",
+      "note": "Compound with citta; fixed mente reused."
+     }
+    ]
+   },
+   {
+    "term_id": "T251",
+    "senses": [
+     {
+      "sense": "excellence",
+      "academic": "excelência",
+      "children": "qualidade excelente",
+      "note": "Favorable endowments, e.g., of a precious human life."
+     }
+    ]
+   },
+   {
+    "term_id": "T252",
+    "senses": [
+     {
+      "sense": "cause of patience",
+      "academic": "causa da paciência",
+      "children": "o que faz nascer a paciência",
+      "note": "Compound of fixed causa and paciência."
+     }
+    ]
+   },
+   {
+    "term_id": "T253",
+    "senses": [
+     {
+      "sense": "qualities of a Buddha",
+      "academic": "qualidade de um Buda",
+      "children": "qualidade de um Buda",
+      "note": "Fixed Buda reused; English keeps same gloss in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T254",
+    "senses": [
+     {
+      "sense": "offering",
+      "academic": "oferenda",
+      "children": "presente",
+      "note": "Ritual offering to Buddhas; children get the everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T255",
+    "senses": [
+     {
+      "sense": "three realms",
+      "academic": "três reinos",
+      "children": "três reinos",
+      "note": "Desire, form, and formless realms; same simple gloss both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T256",
+    "senses": [
+     {
+      "sense": "opposing factor",
+      "academic": "fator opositor",
+      "children": "o contrário",
+      "note": "Opponent or antidote factor in Abhidharma-style analysis."
+     }
+    ]
+   },
+   {
+    "term_id": "T257",
+    "senses": [
+     {
+      "sense": "birth in saṃsāra",
+      "academic": "nascimento",
+      "children": "nascimento",
+      "note": "Rebirth within cyclic existence."
+     },
+     {
+      "sense": "arising of phenomena",
+      "academic": "surgimento",
+      "children": "vir a existir",
+      "note": "Coming-into-being of phenomena, not literal birth."
+     }
+    ]
+   },
+   {
+    "term_id": "T258",
+    "senses": [
+     {
+      "sense": "equality of self and others",
+      "academic": "igualdade entre si e os outros",
+      "children": "ver a si mesmo e aos outros como iguais",
+      "note": "Key meditation of chapter 8 on exchanging self and others."
+     }
+    ]
+   },
+   {
+    "term_id": "T259",
+    "senses": [
+     {
+      "sense": "Śrāvaka",
+      "academic": "śrāvaka",
+      "children": "Ouvinte",
+      "note": "Sanskrit term kept academically; children get plain gloss Hearer."
+     }
+    ]
+   },
+   {
+    "term_id": "T260",
+    "senses": [
+     {
+      "sense": "aspiration",
+      "academic": "aspiração",
+      "children": "desejo forte",
+      "note": "Positive wish or zeal, not mere craving."
+     }
+    ]
+   },
+   {
+    "term_id": "T261",
+    "senses": [
+     {
+      "sense": "joy",
+      "academic": "alegria",
+      "children": "alegria",
+      "note": "Same everyday word suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T262",
+    "senses": [
+     {
+      "sense": "ocean of eons",
+      "academic": "oceano de éons",
+      "children": "oceano de grandes eras",
+      "note": "Fixed éon and grande era reused in the compound."
+     }
+    ]
+   },
+   {
+    "term_id": "T263",
+    "senses": [
+     {
+      "sense": "result of karmic ripening",
+      "academic": "resultado amadurecido",
+      "children": "resultado que amadurece",
+      "note": "Karmic fruit; fixed resultado reused."
+     }
+    ]
+   },
+   {
+    "term_id": "T264",
+    "senses": [
+     {
+      "sense": "what is not virtuous",
+      "academic": "não virtude",
+      "children": "má ação",
+      "note": "Negation of fixed virtude and boa ação."
+     }
+    ]
+   },
+   {
+    "term_id": "T265",
+    "senses": [
+     {
+      "sense": "pride as the enemy",
+      "academic": "inimigo que é o orgulho",
+      "children": "inimigo chamado orgulho",
+      "note": "Personified pride; fixed orgulho reused."
+     }
+    ]
+   },
+   {
+    "term_id": "T266",
+    "senses": [
+     {
+      "sense": "ascetic",
+      "academic": "asceta",
+      "children": "pessoa que faz práticas difíceis",
+      "note": "Religious practitioner of austerities."
+     }
+    ]
+   },
+   {
+    "term_id": "T267",
+    "senses": [
+     {
+      "sense": "sleep",
+      "academic": "sono",
+      "children": "sono",
+      "note": "Everyday sono works for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T268",
+    "senses": [
+     {
+      "sense": "discursive thought",
+      "academic": "pensamento discursivo",
+      "children": "pensamento inquieto",
+      "note": "Agitated, wandering thinking that stirs the mind."
+     },
+     {
+      "sense": "conceptual thought",
+      "academic": "pensamento conceitual",
+      "children": "ideia",
+      "note": "Concept formation; children simply get ideia."
+     }
+    ]
+   },
+   {
+    "term_id": "T269",
+    "senses": [
+     {
+      "sense": "friend",
+      "academic": "amigo",
+      "children": "amigo",
+      "note": "Same plain word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T270",
+    "senses": [
+     {
+      "sense": "friend",
+      "academic": "ente querido",
+      "children": "amigo",
+      "note": "Academic keeps loved one distinct from mitra; children match English."
+     }
+    ]
+   },
+   {
+    "term_id": "T271",
+    "senses": [
+     {
+      "sense": "meditative equipoise",
+      "academic": "equanimidade meditativa",
+      "children": "aquietar a mente",
+      "note": "Settled meditative state; fixed mente reused in children phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T272",
+    "senses": [
+     {
+      "sense": "vulture",
+      "academic": "abutre",
+      "children": "abutre",
+      "note": "Abutre is the standard Brazilian word."
+     }
+    ]
+   },
+   {
+    "term_id": "T273",
+    "senses": [
+     {
+      "sense": "bag of filth",
+      "academic": "saco de imundície",
+      "children": "saco de sujeira",
+      "note": "Image of the impure body; children get everyday sujeira."
+     }
+    ]
+   },
+   {
+    "term_id": "T274",
+    "senses": [
+     {
+      "sense": "greed",
+      "academic": "ganância",
+      "children": "ganância",
+      "note": "Distinct from fixed apego (attachment); everyday word suits children."
+     }
+    ]
+   },
+   {
+    "term_id": "T275",
+    "senses": [
+     {
+      "sense": "happiness and suffering",
+      "academic": "felicidade e sofrimento",
+      "children": "felicidade e sofrimento",
+      "note": "Fixed felicidade and sofrimento combined."
+     }
+    ]
+   },
+   {
+    "term_id": "T276",
+    "senses": [
+     {
+      "sense": "clinging to self",
+      "academic": "apego ao eu",
+      "children": "agarrar-se com força a um eu",
+      "note": "Built on fixed apego and eu; children use fixed agarrar-se."
+     }
+    ]
+   },
+   {
+    "term_id": "T277",
+    "senses": [
+     {
+      "sense": "grasping at a self",
+      "academic": "apreensão de um eu",
+      "children": "agarrar-se a um eu",
+      "note": "Technical apreensão for grasping (graha), distinct from clinging."
+     }
+    ]
+   },
+   {
+    "term_id": "T278",
+    "senses": [
+     {
+      "sense": "gain and honor",
+      "academic": "ganho e honra",
+      "children": "ganho e respeito",
+      "note": "Two worldly concerns: receiving things and being honored."
+     }
+    ]
+   },
+   {
+    "term_id": "T279",
+    "senses": [
+     {
+      "sense": "chapter 9 title",
+      "academic": "Perfeição da Sabedoria",
+      "children": "Perfeição da Sabedoria",
+      "note": "Standard title of the wisdom chapter (prajnaparamita); English same both."
+     }
+    ]
+   },
+   {
+    "term_id": "T280",
+    "senses": [
+     {
+      "sense": "ultimate truth",
+      "academic": "verdade última",
+      "children": "verdade mais profunda",
+      "note": "Ultimate level of truth, paired with conventional truth."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4068,
+  "output": 2001,
+  "thinking": 6543,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 254.87,
+ "attempt": 1
+}

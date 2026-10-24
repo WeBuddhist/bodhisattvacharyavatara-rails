@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T602",
+    "senses": [
+     {
+      "sense": "two truths",
+      "academic": "duas verdades",
+      "children": "duas verdades",
+      "note": "Standard Madhyamaka term; same plain form serves both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T603",
+    "senses": [
+     {
+      "sense": "worldly person",
+      "academic": "pessoa mundana",
+      "children": "pessoa do mundo",
+      "note": "Ordinary, unawakened person; children phrase mirrors English."
+     }
+    ]
+   },
+   {
+    "term_id": "T604",
+    "senses": [
+     {
+      "sense": "direct perception",
+      "academic": "percepção direta",
+      "children": "ver diretamente",
+      "note": "Pratyakṣa in epistemology; children use everyday verb phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T605",
+    "senses": [
+     {
+      "sense": "purity",
+      "academic": "pureza",
+      "children": "limpeza",
+      "note": "Children use everyday word for cleanness."
+     }
+    ]
+   },
+   {
+    "term_id": "T606",
+    "senses": [
+     {
+      "sense": "momentary",
+      "academic": "momentâneo",
+      "children": "que dura só um instante",
+      "note": "Adjective glossed as short plain phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T607",
+    "senses": [
+     {
+      "sense": "yogi",
+      "academic": "iogue",
+      "children": "meditador",
+      "note": "Brazilian spelling iogue; children say meditator."
+     }
+    ]
+   },
+   {
+    "term_id": "T608",
+    "senses": [
+     {
+      "sense": "truly existent",
+      "academic": "realmente existente",
+      "children": "que existe de verdade",
+      "note": "Same academic rendering as T609 since English matches."
+     }
+    ]
+   },
+   {
+    "term_id": "T609",
+    "senses": [
+     {
+      "sense": "truly existent",
+      "academic": "realmente existente",
+      "children": "que existe verdadeiramente",
+      "note": "Academic identical to T608; children mirrors 'truly' adverb."
+     }
+    ]
+   },
+   {
+    "term_id": "T610",
+    "senses": [
+     {
+      "sense": "illusory person",
+      "academic": "pessoa ilusória",
+      "children": "pessoa criada por magia",
+      "note": "Classic illusionist example; children follow 'made by magic'."
+     }
+    ]
+   },
+   {
+    "term_id": "T611",
+    "senses": [
+     {
+      "sense": "error",
+      "academic": "erro",
+      "children": "equívoco",
+      "note": "Children use equívoco to keep distinction from academic erro."
+     }
+    ]
+   },
+   {
+    "term_id": "T612",
+    "senses": [
+     {
+      "sense": "in reality",
+      "academic": "na realidade",
+      "children": "como as coisas são de verdade",
+      "note": "Children phrase expresses things as they really are."
+     }
+    ]
+   },
+   {
+    "term_id": "T613",
+    "senses": [
+     {
+      "sense": "barren woman's daughter",
+      "academic": "filha de mulher estéril",
+      "children": "filha de uma mulher que não pode ter filhos",
+      "note": "Stock example of utter nonexistence; children spell it out plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T614",
+    "senses": [
+     {
+      "sense": "self-awareness",
+      "academic": "autoconsciência",
+      "children": "consciência de si mesma",
+      "note": "Svasaṃvitti of Buddhist epistemology; reflexive awareness."
+     }
+    ]
+   },
+   {
+    "term_id": "T615",
+    "senses": [
+     {
+      "sense": "eye ointment",
+      "academic": "pomada oftálmica",
+      "children": "pomada para os olhos",
+      "note": "Añjana collyrium; children phrase fully everyday."
+     }
+    ]
+   },
+   {
+    "term_id": "T616",
+    "senses": [
+     {
+      "sense": "cause of suffering",
+      "academic": "causa do sofrimento",
+      "children": "causa do sofrimento",
+      "note": "Uses fixed sofrimento; identical English yields identical rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T617",
+    "senses": [
+     {
+      "sense": "conceptualization of true existence",
+      "academic": "conceitualização da existência verdadeira",
+      "children": "achar que as coisas existem de verdade",
+      "note": "Reifying thought; children phrase keeps same idea simply."
+     }
+    ]
+   },
+   {
+    "term_id": "T618",
+    "senses": [
+     {
+      "sense": "apprehended object",
+      "academic": "objeto apreendido",
+      "children": "coisa que a mente capta",
+      "note": "Grāhya pole of perception; children use fixed coisa."
+     }
+    ]
+   },
+   {
+    "term_id": "T619",
+    "senses": [
+     {
+      "sense": "Cittamātra",
+      "academic": "Cittamātra",
+      "children": "Só a Mente",
+      "note": "School name kept in Sanskrit academically; children translate meaning."
+     }
+    ]
+   },
+   {
+    "term_id": "T620",
+    "senses": [
+     {
+      "sense": "illusory woman",
+      "academic": "mulher ilusória",
+      "children": "mulher criada por ilusão",
+      "note": "Parallel to T610; children follow 'made by illusion'."
+     }
+    ]
+   },
+   {
+    "term_id": "T621",
+    "senses": [
+     {
+      "sense": "latent tendency of emptiness",
+      "academic": "tendência latente da vacuidade",
+      "children": "hábito profundo do vazio",
+      "note": "Śūnyatā as vacuidade; children use vazio with deep habit."
+     }
+    ]
+   },
+   {
+    "term_id": "T622",
+    "senses": [
+     {
+      "sense": "latent tendency of entities",
+      "academic": "tendência latente das entidades",
+      "children": "hábito que as coisas deixam na mente",
+      "note": "Reuses fixed entidade/coisa; children phrase mirrors English."
+     }
+    ]
+   },
+   {
+    "term_id": "T623",
+    "senses": [
+     {
+      "sense": "non-apprehension",
+      "academic": "não apreensão",
+      "children": "sem nada para a mente focar",
+      "note": "Pairs with apreensão (T633); children express objectless focus."
+     }
+    ]
+   },
+   {
+    "term_id": "T624",
+    "senses": [
+     {
+      "sense": "thorough pacification",
+      "academic": "pacificação completa",
+      "children": "calma completa",
+      "note": "Children use everyday calma for pacification."
+     }
+    ]
+   },
+   {
+    "term_id": "T625",
+    "senses": [
+     {
+      "sense": "wish-fulfilling jewel",
+      "academic": "joia que realiza desejos",
+      "children": "joia que realiza desejos",
+      "note": "Cintāmaṇi; same phrase natural in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T626",
+    "senses": [
+     {
+      "sense": "one to be tamed",
+      "academic": "ser a ser domado",
+      "children": "pessoa a ser guiada",
+      "note": "Vineya, disciple to be trained; children follow 'guided'."
+     }
+    ]
+   },
+   {
+    "term_id": "T627",
+    "senses": [
+     {
+      "sense": "aspiration prayer",
+      "academic": "prece de aspiração",
+      "children": "prece de um desejo",
+      "note": "Praṇidhāna; children phrase expresses a wishing prayer."
+     }
+    ]
+   },
+   {
+    "term_id": "T628",
+    "senses": [
+     {
+      "sense": "garuḍa",
+      "academic": "garuda",
+      "children": "grande ave do céu",
+      "note": "Mythic bird; children use descriptive everyday phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T629",
+    "senses": [
+     {
+      "sense": "truth",
+      "academic": "verdade",
+      "children": "verdade",
+      "note": "Identical English; everyday word suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T630",
+    "senses": [
+     {
+      "sense": "liberation",
+      "academic": "libertação",
+      "children": "liberdade",
+      "note": "Mukti; children use everyday liberdade."
+     }
+    ]
+   },
+   {
+    "term_id": "T631",
+    "senses": [
+     {
+      "sense": "Vedas (scripture)",
+      "academic": "Vedas",
+      "children": "Vedas",
+      "note": "Proper name of scriptures; standard Brazilian form."
+     }
+    ]
+   },
+   {
+    "term_id": "T632",
+    "senses": [
+     {
+      "sense": "non-Buddhist",
+      "academic": "não-budista",
+      "children": "pessoa que não é budista",
+      "note": "Tīrthika; children phrase explains plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T633",
+    "senses": [
+     {
+      "sense": "with apprehension",
+      "academic": "apreensão",
+      "children": "segurar as coisas",
+      "note": "Sāvalambana; counterpart of T623 não apreensão."
+     }
+    ]
+   },
+   {
+    "term_id": "T634",
+    "senses": [
+     {
+      "sense": "grasping",
+      "academic": "aferramento",
+      "children": "segurar firme",
+      "note": "Upādāna; aferramento avoids clash with apego (lobha)."
+     }
+    ]
+   },
+   {
+    "term_id": "T635",
+    "senses": [
+     {
+      "sense": "afflicted",
+      "academic": "aflito",
+      "children": "perturbado por emoções perturbadoras",
+      "note": "Kliṣṭa tied to fixed kleśa renderings aflição/emoção perturbadora."
+     }
+    ]
+   },
+   {
+    "term_id": "T636",
+    "senses": [
+     {
+      "sense": "delusion",
+      "academic": "engano",
+      "children": "confusão",
+      "note": "Same as moha renderings since English matches exactly."
+     }
+    ]
+   },
+   {
+    "term_id": "T637",
+    "senses": [
+     {
+      "sense": "absorption of non-perception",
+      "academic": "absorção meditativa da não-percepção",
+      "children": "meditação profunda sem perceber nada",
+      "note": "Asaṃjñisamāpatti; children phrase keeps same meaning simply."
+     }
+    ]
+   },
+   {
+    "term_id": "T638",
+    "senses": [
+     {
+      "sense": "meditative absorption",
+      "academic": "absorção meditativa",
+      "children": "concentração profunda",
+      "note": "Samāpatti; children use familiar deep concentration."
+     }
+    ]
+   },
+   {
+    "term_id": "T639",
+    "senses": [
+     {
+      "sense": "Mahākāśyapa",
+      "academic": "Mahākāśyapa",
+      "children": "Mahakashyapa",
+      "note": "Disciple's name; diacritics kept academically, dropped for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T640",
+    "senses": [
+     {
+      "sense": "refutation",
+      "academic": "refutação",
+      "children": "provar que está errado",
+      "note": "Dūṣaṇa; children phrase mirrors 'proving wrong'."
+     }
+    ]
+   },
+   {
+    "term_id": "T641",
+    "senses": [
+     {
+      "sense": "position",
+      "academic": "posição",
+      "children": "posição",
+      "note": "Pakṣa as thesis held in debate; word accessible to children."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4160,
+  "output": 2497,
+  "thinking": 8432,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 341.79,
+ "attempt": 1
+}

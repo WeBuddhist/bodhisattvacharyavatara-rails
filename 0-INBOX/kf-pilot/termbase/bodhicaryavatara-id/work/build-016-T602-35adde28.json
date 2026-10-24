@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T602",
+    "senses": [
+     {
+      "sense": "two truths",
+      "academic": "dua kebenaran",
+      "children": "dua kebenaran",
+      "note": "Conventional and ultimate truth; established rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T603",
+    "senses": [
+     {
+      "sense": "worldly person",
+      "academic": "orang duniawi",
+      "children": "orang biasa di dunia",
+      "note": "Ordinary untrained person, contrasted with the yogi."
+     }
+    ]
+   },
+   {
+    "term_id": "T604",
+    "senses": [
+     {
+      "sense": "direct perception",
+      "academic": "persepsi langsung",
+      "children": "melihat langsung",
+      "note": "Pratyakṣa, non-conceptual direct cognition in epistemology."
+     }
+    ]
+   },
+   {
+    "term_id": "T605",
+    "senses": [
+     {
+      "sense": "purity",
+      "academic": "kemurnian",
+      "children": "kebersihan",
+      "note": "Śuci as freedom from defilement."
+     }
+    ]
+   },
+   {
+    "term_id": "T606",
+    "senses": [
+     {
+      "sense": "momentary",
+      "academic": "bersifat sesaat",
+      "children": "hanya berlangsung sesaat",
+      "note": "Kṣaṇika, existing only an instant."
+     }
+    ]
+   },
+   {
+    "term_id": "T607",
+    "senses": [
+     {
+      "sense": "yogi",
+      "academic": "yogi",
+      "children": "pelaku meditasi",
+      "note": "Practitioner of meditative insight."
+     }
+    ]
+   },
+   {
+    "term_id": "T608",
+    "senses": [
+     {
+      "sense": "truly existent",
+      "academic": "ada secara nyata",
+      "children": "sungguh-sungguh ada",
+      "note": "Sadbhāva, real existence as object of critique."
+     }
+    ]
+   },
+   {
+    "term_id": "T609",
+    "senses": [
+     {
+      "sense": "truly existent",
+      "academic": "benar-benar ada",
+      "children": "benar-benar ada",
+      "note": "Same meaning as T608; variant wording kept."
+     }
+    ]
+   },
+   {
+    "term_id": "T610",
+    "senses": [
+     {
+      "sense": "illusory person",
+      "academic": "manusia ilusi",
+      "children": "orang buatan sihir",
+      "note": "Conjured person used in illusion analogies."
+     }
+    ]
+   },
+   {
+    "term_id": "T611",
+    "senses": [
+     {
+      "sense": "error",
+      "academic": "kekeliruan",
+      "children": "kesalahan",
+      "note": "Bhrānti, mistaken cognition."
+     }
+    ]
+   },
+   {
+    "term_id": "T612",
+    "senses": [
+     {
+      "sense": "in reality",
+      "academic": "secara hakiki",
+      "children": "sebagaimana adanya",
+      "note": "Tattvataḥ, from the standpoint of ultimate reality."
+     }
+    ]
+   },
+   {
+    "term_id": "T613",
+    "senses": [
+     {
+      "sense": "barren woman's daughter",
+      "academic": "putri wanita mandul",
+      "children": "anak perempuan dari wanita tanpa anak",
+      "note": "Standard example of something utterly nonexistent."
+     }
+    ]
+   },
+   {
+    "term_id": "T614",
+    "senses": [
+     {
+      "sense": "self-awareness",
+      "academic": "kesadaran diri",
+      "children": "sadar akan dirinya sendiri",
+      "note": "Svasaṃvitti, reflexive awareness of consciousness."
+     }
+    ]
+   },
+   {
+    "term_id": "T615",
+    "senses": [
+     {
+      "sense": "eye ointment",
+      "academic": "celak mata",
+      "children": "salep mata",
+      "note": "Añjana, medicinal or cosmetic eye application."
+     }
+    ]
+   },
+   {
+    "term_id": "T616",
+    "senses": [
+     {
+      "sense": "cause of suffering",
+      "academic": "penyebab penderitaan",
+      "children": "penyebab penderitaan",
+      "note": "Reuses fixed renderings for cause and suffering."
+     }
+    ]
+   },
+   {
+    "term_id": "T617",
+    "senses": [
+     {
+      "sense": "conceptualization of true existence",
+      "academic": "konseptualisasi keberadaan sejati",
+      "children": "menganggap segala sesuatu sungguh nyata",
+      "note": "Kalpanā that apprehends things as truly existent."
+     }
+    ]
+   },
+   {
+    "term_id": "T618",
+    "senses": [
+     {
+      "sense": "apprehended object",
+      "academic": "objek yang ditangkap",
+      "children": "sesuatu yang ditangkap pikiran",
+      "note": "Grāhya, object pole of cognition."
+     }
+    ]
+   },
+   {
+    "term_id": "T619",
+    "senses": [
+     {
+      "sense": "Cittamātra",
+      "academic": "Cittamatra",
+      "children": "Hanya Pikiran",
+      "note": "Mind Only school; name kept as proper noun academically."
+     }
+    ]
+   },
+   {
+    "term_id": "T620",
+    "senses": [
+     {
+      "sense": "illusory woman",
+      "academic": "wanita ilusi",
+      "children": "wanita buatan ilusi",
+      "note": "Conjured woman in illusion analogies."
+     }
+    ]
+   },
+   {
+    "term_id": "T621",
+    "senses": [
+     {
+      "sense": "latent tendency of emptiness",
+      "academic": "kecenderungan laten kekosongan",
+      "children": "kebiasaan akan kekosongan",
+      "note": "Vāsanā as habitual imprint directed at emptiness."
+     }
+    ]
+   },
+   {
+    "term_id": "T622",
+    "senses": [
+     {
+      "sense": "latent tendency of entities",
+      "academic": "kecenderungan laten entitas",
+      "children": "kebiasaan yang ditinggalkan sesuatu dalam pikiran",
+      "note": "Habitual imprint left by reified things; reuses fixed entity rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T623",
+    "senses": [
+     {
+      "sense": "non-apprehension",
+      "academic": "tanpa penangkapan objek",
+      "children": "tidak ada yang dijadikan sasaran",
+      "note": "Nirālamba, cognition without an object-support."
+     }
+    ]
+   },
+   {
+    "term_id": "T624",
+    "senses": [
+     {
+      "sense": "thorough pacification",
+      "academic": "penentraman menyeluruh",
+      "children": "ketenangan sempurna",
+      "note": "Complete stilling of conceptual activity."
+     }
+    ]
+   },
+   {
+    "term_id": "T625",
+    "senses": [
+     {
+      "sense": "wish-fulfilling jewel",
+      "academic": "permata pengabul keinginan",
+      "children": "permata pengabul keinginan",
+      "note": "Cintāmaṇi, legendary jewel granting all wishes."
+     }
+    ]
+   },
+   {
+    "term_id": "T626",
+    "senses": [
+     {
+      "sense": "one to be tamed",
+      "academic": "orang yang harus dijinakkan",
+      "children": "orang yang perlu dibimbing",
+      "note": "Vineya, disciple to be trained by the Buddha."
+     }
+    ]
+   },
+   {
+    "term_id": "T627",
+    "senses": [
+     {
+      "sense": "aspiration prayer",
+      "academic": "pranidhana",
+      "children": "doa harapan",
+      "note": "Praṇidhāna, established as loanword in Indonesian Buddhism."
+     }
+    ]
+   },
+   {
+    "term_id": "T628",
+    "senses": [
+     {
+      "sense": "garuḍa",
+      "academic": "garuda",
+      "children": "burung langit raksasa",
+      "note": "Mythic great bird, standard Indonesian form."
+     }
+    ]
+   },
+   {
+    "term_id": "T629",
+    "senses": [
+     {
+      "sense": "truth",
+      "academic": "kebenaran",
+      "children": "kebenaran",
+      "note": "Satya as truth or reality."
+     }
+    ]
+   },
+   {
+    "term_id": "T630",
+    "senses": [
+     {
+      "sense": "liberation",
+      "academic": "pembebasan",
+      "children": "kebebasan",
+      "note": "Mukti, release from saṃsāra."
+     }
+    ]
+   },
+   {
+    "term_id": "T631",
+    "senses": [
+     {
+      "sense": "Vedas (scripture)",
+      "academic": "Weda",
+      "children": "Weda",
+      "note": "Standard Indonesian spelling of the Hindu scriptures."
+     }
+    ]
+   },
+   {
+    "term_id": "T632",
+    "senses": [
+     {
+      "sense": "non-Buddhist",
+      "academic": "tirthika",
+      "children": "bukan Buddhis",
+      "note": "Tīrthika, adherent of non-Buddhist schools."
+     }
+    ]
+   },
+   {
+    "term_id": "T633",
+    "senses": [
+     {
+      "sense": "with apprehension",
+      "academic": "penangkapan objek",
+      "children": "berpegang pada sesuatu",
+      "note": "Sāvalambana, cognition still taking an object-support."
+     }
+    ]
+   },
+   {
+    "term_id": "T634",
+    "senses": [
+     {
+      "sense": "grasping",
+      "academic": "upadana",
+      "children": "berpegang erat",
+      "note": "Upādāna, established loanword for clinging in dependent arising."
+     }
+    ]
+   },
+   {
+    "term_id": "T635",
+    "senses": [
+     {
+      "sense": "afflicted",
+      "academic": "diliputi kekotoran batin",
+      "children": "dikuasai perasaan yang mengganggu",
+      "note": "Kliṣṭa, reuses fixed rendering for kleśa."
+     }
+    ]
+   },
+   {
+    "term_id": "T636",
+    "senses": [
+     {
+      "sense": "delusion",
+      "academic": "kebingungan",
+      "children": "kebingungan",
+      "note": "Saṃmoha, close to fixed moha rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T637",
+    "senses": [
+     {
+      "sense": "absorption of non-perception",
+      "academic": "pencapaian tanpa persepsi",
+      "children": "meditasi dalam tanpa menyadari apa pun",
+      "note": "Asaṃjñisamāpatti, trance without perception."
+     }
+    ]
+   },
+   {
+    "term_id": "T638",
+    "senses": [
+     {
+      "sense": "meditative absorption",
+      "academic": "pencapaian meditatif",
+      "children": "meditasi yang sangat dalam",
+      "note": "Samāpatti, deep meditative attainment."
+     }
+    ]
+   },
+   {
+    "term_id": "T639",
+    "senses": [
+     {
+      "sense": "Mahākāśyapa",
+      "academic": "Mahakasyapa",
+      "children": "Mahakasyapa",
+      "note": "Proper name, the Buddha's senior disciple."
+     }
+    ]
+   },
+   {
+    "term_id": "T640",
+    "senses": [
+     {
+      "sense": "refutation",
+      "academic": "sangkalan",
+      "children": "membuktikan salah",
+      "note": "Dūṣaṇa, logical disproof in debate."
+     }
+    ]
+   },
+   {
+    "term_id": "T641",
+    "senses": [
+     {
+      "sense": "position",
+      "academic": "posisi",
+      "children": "posisi",
+      "note": "Pakṣa, thesis or standpoint held in debate."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4246,
+  "output": 2442,
+  "thinking": 8776,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 345.93,
+ "attempt": 1
+}

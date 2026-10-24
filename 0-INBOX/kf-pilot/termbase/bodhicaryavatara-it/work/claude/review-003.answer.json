@@ -1,0 +1,74 @@
+{
+ "objections": [
+  {
+   "term_id": "T255",
+   "sense": "three realms",
+   "field": "children",
+   "proposed": "tre reami",
+   "reason": "'tre mondi' is already used for trailokya/'jig rten gsum (T229); khams gsum needs a distinct rendering and matches the academic 'tre reami'."
+  },
+  {
+   "term_id": "T273",
+   "sense": "bag of filth",
+   "field": "academic",
+   "proposed": "sacco di impurità",
+   "reason": "'immondizia' means rubbish/garbage; amedhya is impurity, as in T066 'impurità'."
+  },
+  {
+   "term_id": "T293",
+   "sense": "collection",
+   "field": "academic",
+   "proposed": "insieme",
+   "reason": "'aggregato' is the established Italian term for skandha (phung po); use 'insieme' as in T119 'collection'."
+  },
+  {
+   "term_id": "T297",
+   "sense": "permanent",
+   "field": "children",
+   "proposed": "che dura per sempre",
+   "reason": "Same term rtag/nitya as T126, rendered 'che dura per sempre'; keep consistent with T149/T298 'non dura'."
+  },
+  {
+   "term_id": "T300",
+   "sense": "dedication",
+   "field": "academic",
+   "proposed": "dedica",
+   "reason": "'dedizione' means devotion or commitment; the established term for dedicating merit (bsngo ba) is 'dedica'."
+  },
+  {
+   "term_id": "T312",
+   "sense": "caravan leader",
+   "field": "academic",
+   "proposed": "capo di carovana",
+   "reason": "'condottiero' means military commander or warlord; a sārthavāha is a merchant guiding a caravan."
+  },
+  {
+   "term_id": "T322",
+   "sense": "Brahmā (god)",
+   "field": "children",
+   "proposed": "Brahma",
+   "reason": "Children's field uses diacritic-free names (Manjushri, Avalokiteshvara); 'Brahmā' with macron is not child-friendly."
+  },
+  {
+   "term_id": "T323",
+   "sense": "Sugata",
+   "field": "children",
+   "proposed": "Colui che è andato bene",
+   "reason": "Inconsistent with T052 and T194 which render Sugata as 'Colui che è andato bene'."
+  },
+  {
+   "term_id": "T328",
+   "sense": "supreme bodhisattva",
+   "field": "academic",
+   "proposed": "bodhisattva supremo",
+   "reason": "'essere supremo' reads as 'Supreme Being' (God) in Italian; sems dpa' mchog means supreme bodhisattva."
+  },
+  {
+   "term_id": "T258",
+   "sense": "equality of self and others",
+   "field": "academic",
+   "proposed": "eguaglianza tra sé e gli altri",
+   "reason": "Inconsistent with T508/T582 where bdag dang gzhan is rendered 'sé e gli altri'; keep 'sé' throughout."
+  }
+ ]
+}

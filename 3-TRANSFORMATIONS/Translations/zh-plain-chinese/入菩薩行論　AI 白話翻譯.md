@@ -1,3 +1,7 @@
+---
+title: 入菩薩行論　AI 白話翻譯 — AI 翻譯
+ai_generated: true
+---
 入菩薩行論
 
 

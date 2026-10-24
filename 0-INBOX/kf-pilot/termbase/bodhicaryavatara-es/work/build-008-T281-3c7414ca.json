@@ -1,0 +1,462 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T281",
+    "senses": [
+     {
+      "sense": "illusory mind",
+      "academic": "mente ilusoria",
+      "children": "mente de ilusión",
+      "note": "Compound of fixed illusion (ilusión) and mind (mente)."
+     }
+    ]
+   },
+   {
+    "term_id": "T282",
+    "senses": [
+     {
+      "sense": "aspect",
+      "academic": "aspecto",
+      "children": "cómo aparece",
+      "note": "Children's phrase mirrors 'way it appears'."
+     }
+    ]
+   },
+   {
+    "term_id": "T283",
+    "senses": [
+     {
+      "sense": "mind itself",
+      "academic": "mente misma",
+      "children": "mente misma",
+      "note": "Same wording works in both registers; fixed mind = mente."
+     }
+    ]
+   },
+   {
+    "term_id": "T284",
+    "senses": [
+     {
+      "sense": "latent tendency",
+      "academic": "tendencia latente",
+      "children": "hábito profundo",
+      "note": "Established Buddhist term; children's version keeps 'deep habit' idea."
+     }
+    ]
+   },
+   {
+    "term_id": "T285",
+    "senses": [
+     {
+      "sense": "shrine",
+      "academic": "santuario",
+      "children": "lugar sagrado",
+      "note": "Caitya/stūpa-like shrine; simpler everyday phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T286",
+    "senses": [
+     {
+      "sense": "apprehension",
+      "academic": "aprehensión",
+      "children": "fijarse en algo",
+      "note": "Mental fixing on an object; children get plain verb phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T287",
+    "senses": [
+     {
+      "sense": "doubt",
+      "academic": "duda",
+      "children": "duda",
+      "note": "Everyday word suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T288",
+    "senses": [
+     {
+      "sense": "sattva (quality of the Sāṃkhya)",
+      "academic": "sattva",
+      "children": "claridad",
+      "note": "Technical guṇa kept in Sanskrit academically; children get plain 'brightness'."
+     }
+    ]
+   },
+   {
+    "term_id": "T289",
+    "senses": [
+     {
+      "sense": "tamas (Sāṃkhya guṇa)",
+      "academic": "tamas",
+      "children": "oscuridad",
+      "note": "Sanskrit term for scholars; 'darkness' for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T290",
+    "senses": [
+     {
+      "sense": "agent of action",
+      "academic": "agente",
+      "children": "el que hace",
+      "note": "Philosophical agent; children get 'doer'."
+     },
+     {
+      "sense": "creator (Īśvara)",
+      "academic": "creador",
+      "children": "creador del mundo",
+      "note": "Distinct sense: creator god; children get 'maker of the world'."
+     }
+    ]
+   },
+   {
+    "term_id": "T291",
+    "senses": [
+     {
+      "sense": "sense faculty",
+      "academic": "facultad sensorial",
+      "children": "órgano de los sentidos",
+      "note": "Standard indriya rendering; organ phrasing is clearer for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T292",
+    "senses": [
+     {
+      "sense": "atom",
+      "academic": "átomo",
+      "children": "átomo",
+      "note": "English uses one word for both; Spanish matches."
+     }
+    ]
+   },
+   {
+    "term_id": "T293",
+    "senses": [
+     {
+      "sense": "collection",
+      "academic": "conjunto",
+      "children": "grupo",
+      "note": "Aggregation of atoms/beings; simple 'group' for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T294",
+    "senses": [
+     {
+      "sense": "one who feels",
+      "academic": "sujeto que siente",
+      "children": "el que siente",
+      "note": "Feeler/experiencer; plainer phrasing for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T295",
+    "senses": [
+     {
+      "sense": "sprout",
+      "academic": "brote",
+      "children": "brote",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T296",
+    "senses": [
+     {
+      "sense": "effect of a cause",
+      "academic": "resultado",
+      "children": "resultado",
+      "note": "Reuses fixed rendering of phala = resultado."
+     }
+    ]
+   },
+   {
+    "term_id": "T297",
+    "senses": [
+     {
+      "sense": "permanent",
+      "academic": "permanente",
+      "children": "que nunca cambia",
+      "note": "Adjective; children's phrase mirrors 'never-changing'."
+     }
+    ]
+   },
+   {
+    "term_id": "T298",
+    "senses": [
+     {
+      "sense": "impermanence",
+      "academic": "impermanencia",
+      "children": "no durar para siempre",
+      "note": "Key Buddhist term; children get plain 'not lasting' idea."
+     }
+    ]
+   },
+   {
+    "term_id": "T299",
+    "senses": [
+     {
+      "sense": "Māra",
+      "academic": "Māra",
+      "children": "Mara",
+      "note": "Proper name; children without diacritics, as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T300",
+    "senses": [
+     {
+      "sense": "dedication",
+      "academic": "dedicación",
+      "children": "compartir la bondad",
+      "note": "Dedication of merit; children's phrase mirrors 'sharing the goodness'."
+     }
+    ]
+   },
+   {
+    "term_id": "T301",
+    "senses": [
+     {
+      "sense": "hell being",
+      "academic": "ser infernal",
+      "children": "ser del infierno",
+      "note": "A being reborn in hell; reuses fixed infierno and ser."
+     }
+    ]
+   },
+   {
+    "term_id": "T302",
+    "senses": [
+     {
+      "sense": "ordination",
+      "academic": "ordenación",
+      "children": "hacerse monje o monja",
+      "note": "Going forth into monastic life; children get plain explanation."
+     }
+    ]
+   },
+   {
+    "term_id": "T303",
+    "senses": [
+     {
+      "sense": "Sanskrit title",
+      "academic": "Bodhisattvacaryāvatāra",
+      "children": "Bodhisattvacharyavatara",
+      "note": "Original title; children without diacritics, as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T304",
+    "senses": [
+     {
+      "sense": "Dharmakāya",
+      "academic": "Dharmakāya",
+      "children": "cuerpo de la verdad",
+      "note": "Sanskrit kept academically; children get 'truth body' with fixed cuerpo."
+     }
+    ]
+   },
+   {
+    "term_id": "T305",
+    "senses": [
+     {
+      "sense": "vow",
+      "academic": "voto",
+      "children": "promesa",
+      "note": "Monastic/bodhisattva vow; everyday 'promise' for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T306",
+    "senses": [
+     {
+      "sense": "purpose of a human being",
+      "academic": "propósito humano",
+      "children": "la meta de la vida",
+      "note": "Aim of human life; simplified goal-phrasing for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T307",
+    "senses": [
+     {
+      "sense": "perfect awakening",
+      "academic": "despertar perfecto",
+      "children": "despertar completo",
+      "note": "Reuses fixed awakening = despertar; 'full' as completo for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T308",
+    "senses": [
+     {
+      "sense": "supreme happiness",
+      "academic": "felicidad suprema",
+      "children": "la mayor felicidad",
+      "note": "Reuses fixed happiness = felicidad."
+     }
+    ]
+   },
+   {
+    "term_id": "T309",
+    "senses": [
+     {
+      "sense": "gold-making elixir",
+      "academic": "elixir que produce oro",
+      "children": "poción para hacer oro",
+      "note": "Alchemical elixir; 'potion' wording for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T310",
+    "senses": [
+     {
+      "sense": "jewel",
+      "academic": "joya",
+      "children": "joya",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T311",
+    "senses": [
+     {
+      "sense": "body (of a Victor)",
+      "academic": "cuerpo",
+      "children": "cuerpo",
+      "note": "Reuses fixed body = cuerpo."
+     }
+    ]
+   },
+   {
+    "term_id": "T312",
+    "senses": [
+     {
+      "sense": "caravan leader",
+      "academic": "jefe de caravana",
+      "children": "líder de los viajeros",
+      "note": "Guide of merchants; 'leader of travelers' for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T313",
+    "senses": [
+     {
+      "sense": "epithet of Maitreya",
+      "academic": "Protector Maitreya",
+      "children": "Protector Maitreya",
+      "note": "Proper-name epithet, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T314",
+    "senses": [
+     {
+      "sense": "Sudhana (name)",
+      "academic": "Sudhana",
+      "children": "Sudhana",
+      "note": "Proper name, unchanged."
+     }
+    ]
+   },
+   {
+    "term_id": "T315",
+    "senses": [
+     {
+      "sense": "engaging bodhicitta",
+      "academic": "bodhicitta de aplicación",
+      "children": "mente que parte hacia el despertar",
+      "note": "Reuses fixed bodhicitta; children get 'mind that sets out to awaken'."
+     }
+    ]
+   },
+   {
+    "term_id": "T316",
+    "senses": [
+     {
+      "sense": "engaging bodhicitta",
+      "academic": "bodhicitta de aplicación",
+      "children": "mente que parte hacia el despertar",
+      "note": "Same sense as T315, same Spanish renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T317",
+    "senses": [
+     {
+      "sense": "realm",
+      "academic": "reino",
+      "children": "reino",
+      "note": "Consistent with fixed reino in reino inferior/reino infeliz."
+     }
+    ]
+   },
+   {
+    "term_id": "T318",
+    "senses": [
+     {
+      "sense": "irreversible",
+      "academic": "irreversible",
+      "children": "que nunca vuelve atrás",
+      "note": "Technical adjective; children get 'never turning back'."
+     }
+    ]
+   },
+   {
+    "term_id": "T319",
+    "senses": [
+     {
+      "sense": "name of an interlocutor",
+      "academic": "Subāhu",
+      "children": "Subahu",
+      "note": "Proper name; children without diacritics, as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T320",
+    "senses": [
+     {
+      "sense": "question (sūtra title element)",
+      "academic": "pregunta",
+      "children": "pregunta",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4024,
+  "output": 2410,
+  "thinking": 4384,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 151.04,
+ "attempt": 1
+}

@@ -1,0 +1,462 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T041",
+    "senses": [
+     {
+      "sense": "karma",
+      "academic": "carma",
+      "children": "ação",
+      "note": "Brazilian spelling 'carma'; children's plain word is 'ação'."
+     }
+    ]
+   },
+   {
+    "term_id": "T042",
+    "senses": [
+     {
+      "sense": "mindfulness",
+      "academic": "atenção plena",
+      "children": "manter na mente",
+      "note": "Established BP Buddhist term for smṛti as mindfulness."
+     },
+     {
+      "sense": "memory (recollection)",
+      "academic": "memória",
+      "children": "memória",
+      "note": "Distinct sense: recollection, rendered 'memória' in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T043",
+    "senses": [
+     {
+      "sense": "nature",
+      "academic": "natureza",
+      "children": "natureza",
+      "note": "svabhāva as 'natureza'; same everyday word suits children."
+     }
+    ]
+   },
+   {
+    "term_id": "T044",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Sábio",
+      "children": "Sábio",
+      "note": "Muni translated as 'Sábio', already an everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T045",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Protetor",
+      "children": "Protetor",
+      "note": "Nātha as 'Protetor' in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T046",
+    "senses": [
+     {
+      "sense": "training",
+      "academic": "treinamento",
+      "children": "treinamento",
+      "note": "śikṣā as 'treinamento', common in BP Buddhist usage."
+     }
+    ]
+   },
+   {
+    "term_id": "T047",
+    "senses": [
+     {
+      "sense": "introspection",
+      "academic": "introspecção",
+      "children": "vigilância",
+      "note": "Children's rendering mirrors English 'watchfulness'."
+     }
+    ]
+   },
+   {
+    "term_id": "T048",
+    "senses": [
+     {
+      "sense": "compassion",
+      "academic": "compaixão",
+      "children": "compaixão",
+      "note": "karuṇā as 'compaixão' in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T049",
+    "senses": [
+     {
+      "sense": "feeling",
+      "academic": "sensação",
+      "children": "sensação",
+      "note": "vedanā technically 'sensação'; everyday enough for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T050",
+    "senses": [
+     {
+      "sense": "consciousness",
+      "academic": "consciência",
+      "children": "consciência",
+      "note": "'consciência' covers both consciousness and awareness."
+     }
+    ]
+   },
+   {
+    "term_id": "T051",
+    "senses": [
+     {
+      "sense": "object of knowledge",
+      "academic": "objeto de conhecimento",
+      "children": "coisa a conhecer",
+      "note": "Children's phrase mirrors English 'thing to know'."
+     }
+    ]
+   },
+   {
+    "term_id": "T052",
+    "senses": [
+     {
+      "sense": "Sugata",
+      "academic": "Sugata",
+      "children": "Bem-Ido",
+      "note": "Epithet kept in Sanskrit academically; translated for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T053",
+    "senses": [
+     {
+      "sense": "wise person",
+      "academic": "sábio",
+      "children": "pessoa sábia",
+      "note": "Substantivized 'sábio' academic; explicit phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T054",
+    "senses": [
+     {
+      "sense": "virtue",
+      "academic": "virtude",
+      "children": "boa ação",
+      "note": "Reuses fixed rendering for virtue (kuśala)."
+     }
+    ]
+   },
+   {
+    "term_id": "T055",
+    "senses": [
+     {
+      "sense": "attachment",
+      "academic": "apego",
+      "children": "agarrar-se",
+      "note": "Reuses fixed rendering for attachment (lobha)."
+     }
+    ]
+   },
+   {
+    "term_id": "T056",
+    "senses": [
+     {
+      "sense": "beings who wander in saṃsāra",
+      "academic": "ser errante",
+      "children": "ser",
+      "note": "Reuses fixed rendering for jagat."
+     }
+    ]
+   },
+   {
+    "term_id": "T057",
+    "senses": [
+     {
+      "sense": "wisdom",
+      "academic": "sabedoria",
+      "children": "sabedoria",
+      "note": "prajñā as 'sabedoria', standard in BP Buddhist texts."
+     }
+    ]
+   },
+   {
+    "term_id": "T058",
+    "senses": [
+     {
+      "sense": "hell",
+      "academic": "inferno",
+      "children": "inferno",
+      "note": "Reuses fixed rendering for naraka."
+     }
+    ]
+   },
+   {
+    "term_id": "T059",
+    "senses": [
+     {
+      "sense": "conventional (truth)",
+      "academic": "verdade convencional",
+      "children": "verdade do dia a dia",
+      "note": "Children's phrase renders 'everyday truth' plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T060",
+    "senses": [
+     {
+      "sense": "nirvāṇa",
+      "academic": "nirvana",
+      "children": "liberdade do sofrimento",
+      "note": "BP spelling without diacritic; children per English 'freedom from sorrow'."
+     }
+    ]
+   },
+   {
+    "term_id": "T061",
+    "senses": [
+     {
+      "sense": "happy realm",
+      "academic": "reino feliz",
+      "children": "reino feliz",
+      "note": "Parallels fixed 'reino inferior/reino infeliz' for lower realms."
+     }
+    ]
+   },
+   {
+    "term_id": "T062",
+    "senses": [
+     {
+      "sense": "generosity",
+      "academic": "generosidade",
+      "children": "dar",
+      "note": "Children's 'dar' mirrors English 'giving'."
+     }
+    ]
+   },
+   {
+    "term_id": "T063",
+    "senses": [
+     {
+      "sense": "reality",
+      "academic": "realidade",
+      "children": "como as coisas são de verdade",
+      "note": "Children's phrase mirrors 'the way things really are'."
+     }
+    ]
+   },
+   {
+    "term_id": "T064",
+    "senses": [
+     {
+      "sense": "own welfare",
+      "academic": "bem-estar próprio",
+      "children": "próprio bem",
+      "note": "Parallel to T072 'welfare of others'."
+     }
+    ]
+   },
+   {
+    "term_id": "T065",
+    "senses": [
+     {
+      "sense": "childish person, fool",
+      "academic": "ser infantil",
+      "children": "pessoa infantil",
+      "note": "bāla as 'childish one', kept literal in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T066",
+    "senses": [
+     {
+      "sense": "impure, filthy",
+      "academic": "impureza",
+      "children": "sujeira",
+      "note": "Children's 'sujeira' renders English 'filth'."
+     }
+    ]
+   },
+   {
+    "term_id": "T067",
+    "senses": [
+     {
+      "sense": "sensual desire",
+      "academic": "desejo sensual",
+      "children": "desejo de prazer",
+      "note": "Children's phrase mirrors 'desire for pleasure'."
+     }
+    ]
+   },
+   {
+    "term_id": "T068",
+    "senses": [
+     {
+      "sense": "faith",
+      "academic": "fé",
+      "children": "fé",
+      "note": "'fé' is everyday Portuguese, kept in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T069",
+    "senses": [
+     {
+      "sense": "child of the Buddhas",
+      "academic": "filho",
+      "children": "filho",
+      "note": "suta, 'child/son' of the Buddhas, rendered 'filho'."
+     }
+    ]
+   },
+   {
+    "term_id": "T070",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Tathagata",
+      "children": "Assim-Ido",
+      "note": "Sanskrit kept academically; 'Thus-Gone One' translated for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T071",
+    "senses": [
+     {
+      "sense": "ignorance",
+      "academic": "ignorância",
+      "children": "ignorância",
+      "note": "Distinct from fixed moha 'engano/confusão' (delusion sense)."
+     }
+    ]
+   },
+   {
+    "term_id": "T072",
+    "senses": [
+     {
+      "sense": "others' welfare",
+      "academic": "bem-estar dos outros",
+      "children": "bem dos outros",
+      "note": "Parallel to T064 'own welfare'."
+     }
+    ]
+   },
+   {
+    "term_id": "T073",
+    "senses": [
+     {
+      "sense": "name of the bodhisattva",
+      "academic": "Manjushri",
+      "children": "Manjushri",
+      "note": "Standard Brazilian form of the bodhisattva's name."
+     }
+    ]
+   },
+   {
+    "term_id": "T074",
+    "senses": [
+     {
+      "sense": "Lord of Death",
+      "academic": "Senhor da Morte",
+      "children": "Senhor da Morte",
+      "note": "Direct translation, everyday words suit both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T075",
+    "senses": [
+     {
+      "sense": "Yama",
+      "academic": "Yama",
+      "children": "Yama",
+      "note": "Proper name kept as 'Yama' in Brazilian usage."
+     }
+    ]
+   },
+   {
+    "term_id": "T076",
+    "senses": [
+     {
+      "sense": "lower realm",
+      "academic": "reino inferior",
+      "children": "reino infeliz",
+      "note": "Reuses fixed rendering for lower realm (durgati)."
+     }
+    ]
+   },
+   {
+    "term_id": "T077",
+    "senses": [
+     {
+      "sense": "space",
+      "academic": "espaço",
+      "children": "espaço",
+      "note": "ākāśa as 'espaço', same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T078",
+    "senses": [
+     {
+      "sense": "downfall",
+      "academic": "queda",
+      "children": "queda",
+      "note": "āpatti rendered 'queda'; simple word suits children."
+     }
+    ]
+   },
+   {
+    "term_id": "T079",
+    "senses": [
+     {
+      "sense": "intellect",
+      "academic": "intelecto",
+      "children": "mente pensante",
+      "note": "Children's phrase reuses fixed 'mente' for 'thinking mind'."
+     }
+    ]
+   },
+   {
+    "term_id": "T080",
+    "senses": [
+     {
+      "sense": "conduct of awakening",
+      "academic": "conduta do despertar",
+      "children": "modo de agir para o despertar",
+      "note": "Reuses fixed 'despertar' (bodhi) in both registers."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 5305,
+  "output": 2366,
+  "thinking": 3719,
+  "cache_read": 256,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 173.68,
+ "attempt": 1
+}

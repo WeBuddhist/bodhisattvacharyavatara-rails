@@ -1,5 +1,6 @@
 ---
-title: 《入菩薩行論》
+title: 《入菩薩行論》 — AI 翻譯（學術版）
+ai_generated: true
 track: zh-academic
 language: Chinese
 lang_tag: zh
@@ -17,7 +18,7 @@ generation_date: 2026-10-08
 status: draft
 ---
 
-# 《入菩薩行論》 ^0
+# 《入菩薩行論》 — AI 翻譯（學術版） ^0
 
 ## 序分 ^I-0
 

@@ -1,0 +1,11 @@
+{"objections": [
+{"term_id": "T621", "sense": "latent tendency of emptiness", "field": "children", "proposed": "hábito profundo da vacuidade", "reason": "Children's rendering of śūnyatā is \"vacuidade\" (T136); \"vazio\" is inconsistent and risks a nihilistic reading."},
+{"term_id": "T623", "sense": "non-apprehension", "field": "academic", "proposed": "não-apreensão", "reason": "Same Tibetan dmigs pa med pa and same English as T691, which uses the hyphenated \"não-apreensão\"; spelling must be uniform (cf. não-entidade, não-virtude)."},
+{"term_id": "T628", "sense": "garuḍa", "field": "children", "proposed": "pássaro gigante do céu", "reason": "Same Tibetan mkha' lding and same term as T530, whose children rendering is \"pássaro gigante do céu\"; the two should match."},
+{"term_id": "T636", "sense": "delusion", "field": "academic", "proposed": "delusão", "reason": "\"engano\" means mistake or deception; \"delusão\" is the established rendering of moha/saṃmoha and consistent with the proposed fix for T038."},
+{"term_id": "T638", "sense": "meditative absorption", "field": "children", "proposed": "absorção profunda", "reason": "English children is \"deep absorption\"; \"concentração profunda\" blurs samāpatti with samādhi/ting 'dzin (T414, T539), which is about focus."},
+{"term_id": "T646", "sense": "one who experiences", "field": "academic", "proposed": "aquele que experimenta", "reason": "\"experimentador\" means one who conducts experiments in Portuguese; bhoktṛ is the one who experiences or enjoys the result."},
+{"term_id": "T706", "sense": "state without leisure", "field": "academic", "proposed": "estado sem liberdade", "reason": "\"lazer\" means recreation and misses the sense of freedom to practise (dal ba); the children field already says \"sem liberdade\"; consistent with kṣaṇa fix."},
+{"term_id": "T709", "sense": "conduct of awakening", "field": "children", "proposed": "modo de agir para o despertar", "reason": "Same term bodhicaryā as T080, whose children rendering is \"modo de agir para o despertar\"; \"maneira\" is inconsistent."},
+{"term_id": "T714", "sense": "cloud of offerings", "field": "children", "proposed": "nuvem de ofertas", "reason": "Children's rendering of pūjā/mchod is \"oferta\" (T198, T254); \"oferendas\" is inconsistent within the children's field."}
+]}

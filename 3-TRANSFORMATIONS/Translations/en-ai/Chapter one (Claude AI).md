@@ -1,3 +1,7 @@
+---
+title: "Chapter One: The Benefits of Bodhicitta — AI translation"
+ai_generated: true
+---
 ## Chapter One: The Benefits of Bodhicitta
 
 _From Śāntideva's Bodhicaryāvatāra (Guide to the Bodhisattva's Way of Life)_

@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T361",
+    "senses": [
+     {
+      "sense": "non-virtue",
+      "academic": "não-virtude",
+      "children": "má ação",
+      "note": "Opposite of virtue; children's mirrors fixed 'boa ação'."
+     }
+    ]
+   },
+   {
+    "term_id": "T362",
+    "senses": [
+     {
+      "sense": "natural misdeed",
+      "academic": "má ação natural",
+      "children": "ato errado em si mesmo",
+      "note": "Reuses fixed 'má ação'; wrong by its own nature, not by rule."
+     }
+    ]
+   },
+   {
+    "term_id": "T363",
+    "senses": [
+     {
+      "sense": "proscribed misdeed",
+      "academic": "má ação proscrita",
+      "children": "ato proibido que faz mal",
+      "note": "Misdeed by prohibition, contrasted with natural misdeed."
+     }
+    ]
+   },
+   {
+    "term_id": "T364",
+    "senses": [
+     {
+      "sense": "joined palms",
+      "academic": "palmas unidas",
+      "children": "mãos juntas",
+      "note": "Gesture of reverence, anjali."
+     }
+    ]
+   },
+   {
+    "term_id": "T365",
+    "senses": [
+     {
+      "sense": "definite liberation",
+      "academic": "liberação definitiva",
+      "children": "liberdade completa",
+      "note": "Final, irreversible freedom from samsara."
+     }
+    ]
+   },
+   {
+    "term_id": "T366",
+    "senses": [
+     {
+      "sense": "level of the children of the Victors",
+      "academic": "nível dos filhos dos Vencedores",
+      "children": "nível dos filhos dos Vitoriosos",
+      "note": "Reuses fixed renderings of Victor; bodhisattva level (bhūmi)."
+     }
+    ]
+   },
+   {
+    "term_id": "T367",
+    "senses": [
+     {
+      "sense": "generation of bodhicitta",
+      "academic": "geração da bodhicitta",
+      "children": "nascimento da mente do despertar",
+      "note": "Reuses fixed bodhicitta renderings; cittotpāda."
+     }
+    ]
+   },
+   {
+    "term_id": "T368",
+    "senses": [
+     {
+      "sense": "lamp of the Dharma",
+      "academic": "lâmpada do Darma",
+      "children": "lâmpada dos ensinamentos",
+      "note": "Reuses fixed Darma/ensinamentos renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T369",
+    "senses": [
+     {
+      "sense": "intermediate eon of famine",
+      "academic": "éon intermediário da fome",
+      "children": "grande era intermediária da fome",
+      "note": "Reuses fixed eon renderings; minor kalpa of starvation."
+     }
+    ]
+   },
+   {
+    "term_id": "T370",
+    "senses": [
+     {
+      "sense": "possessions",
+      "academic": "bens",
+      "children": "pertences",
+      "note": "Wealth and enjoyments (bhoga), often offered or given away."
+     }
+    ]
+   },
+   {
+    "term_id": "T371",
+    "senses": [
+     {
+      "sense": "wish-fulfilling jewel",
+      "academic": "joia que realiza desejos",
+      "children": "joia que realiza desejos",
+      "note": "Cintāmaṇi; image for bodhicitta."
+     }
+    ]
+   },
+   {
+    "term_id": "T372",
+    "senses": [
+     {
+      "sense": "excellent vase",
+      "academic": "vaso excelente",
+      "children": "vaso maravilhoso",
+      "note": "Auspicious treasure vase (bhadraghaṭa)."
+     }
+    ]
+   },
+   {
+    "term_id": "T373",
+    "senses": [
+     {
+      "sense": "knowledge-mantra",
+      "academic": "mantra do conhecimento",
+      "children": "palavras sagradas poderosas",
+      "note": "Vidyā as potent sacred formula."
+     }
+    ]
+   },
+   {
+    "term_id": "T374",
+    "senses": [
+     {
+      "sense": "great medicine",
+      "academic": "grande remédio",
+      "children": "grande remédio",
+      "note": "Supreme healing remedy; image for bodhicitta."
+     }
+    ]
+   },
+   {
+    "term_id": "T375",
+    "senses": [
+     {
+      "sense": "wish-fulfilling cow",
+      "academic": "vaca da abundância",
+      "children": "vaca que realiza desejos",
+      "note": "Mythic cow of plenty (kāmadhenu)."
+     }
+    ]
+   },
+   {
+    "term_id": "T376",
+    "senses": [
+     {
+      "sense": "great elements",
+      "academic": "grande elemento",
+      "children": "elemento básico",
+      "note": "Mahābhūta: earth, water, fire, wind; head form singular."
+     }
+    ]
+   },
+   {
+    "term_id": "T377",
+    "senses": [
+     {
+      "sense": "realm of sentient beings",
+      "academic": "reino dos seres sencientes",
+      "children": "reino dos seres vivos",
+      "note": "Reuses fixed sentient being renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T378",
+    "senses": [
+     {
+      "sense": "bodhicitta (honorific)",
+      "academic": "bodhicitta",
+      "children": "mente do despertar",
+      "note": "Same as fixed bodhicitta; honorific usage in address."
+     }
+    ]
+   },
+   {
+    "term_id": "T379",
+    "senses": [
+     {
+      "sense": "human existence",
+      "academic": "existência humana",
+      "children": "vida humana",
+      "note": "Precious human rebirth."
+     }
+    ]
+   },
+   {
+    "term_id": "T380",
+    "senses": [
+     {
+      "sense": "family of the Buddhas",
+      "academic": "família dos Budas",
+      "children": "família dos Budas",
+      "note": "Spiritual lineage (kula) of the Buddhas."
+     }
+    ]
+   },
+   {
+    "term_id": "T381",
+    "senses": [
+     {
+      "sense": "nectar",
+      "academic": "néctar",
+      "children": "néctar",
+      "note": "Ambrosia, deathless elixir."
+     }
+    ]
+   },
+   {
+    "term_id": "T382",
+    "senses": [
+     {
+      "sense": "path of existence",
+      "academic": "caminho da existência",
+      "children": "caminho da vida",
+      "note": "Course of samsaric life."
+     }
+    ]
+   },
+   {
+    "term_id": "T383",
+    "senses": [
+     {
+      "sense": "universal bridge",
+      "academic": "ponte universal",
+      "children": "ponte para todos",
+      "note": "Bodhisattva as bridge for all beings."
+     }
+    ]
+   },
+   {
+    "term_id": "T384",
+    "senses": [
+     {
+      "sense": "not knowing",
+      "academic": "não-conhecimento",
+      "children": "não saber",
+      "note": "Ajñāna, unawareness; distinct from fixed 'engano' (moha)."
+     }
+    ]
+   },
+   {
+    "term_id": "T385",
+    "senses": [
+     {
+      "sense": "child of the Victors",
+      "academic": "filho dos Vencedores",
+      "children": "filho dos Vitoriosos",
+      "note": "Reuses fixed Victor renderings; epithet of bodhisattvas."
+     }
+    ]
+   },
+   {
+    "term_id": "T386",
+    "senses": [
+     {
+      "sense": "training",
+      "academic": "treinamento",
+      "children": "treinamento",
+      "note": "Śikṣā, the bodhisattva's discipline of learning."
+     }
+    ]
+   },
+   {
+    "term_id": "T387",
+    "senses": [
+     {
+      "sense": "unsurpassed happiness",
+      "academic": "felicidade insuperável",
+      "children": "maior felicidade",
+      "note": "Reuses fixed felicidade; anuttara, highest possible."
+     }
+    ]
+   },
+   {
+    "term_id": "T388",
+    "senses": [
+     {
+      "sense": "liberation",
+      "academic": "liberação",
+      "children": "liberdade",
+      "note": "Nominal rendering of mocayati, setting free."
+     }
+    ]
+   },
+   {
+    "term_id": "T389",
+    "senses": [
+     {
+      "sense": "Omniscient One",
+      "academic": "Onisciente",
+      "children": "Aquele que Tudo Sabe",
+      "note": "Epithet of the Buddha, all-knowing."
+     }
+    ]
+   },
+   {
+    "term_id": "T390",
+    "senses": [
+     {
+      "sense": "fire of hell",
+      "academic": "fogo do inferno",
+      "children": "fogo do inferno",
+      "note": "Reuses fixed inferno."
+     }
+    ]
+   },
+   {
+    "term_id": "T391",
+    "senses": [
+     {
+      "sense": "regret, remorse",
+      "academic": "arrependimento",
+      "children": "arrependimento",
+      "note": "Paścāttāpa, remorse over past misdeeds."
+     }
+    ]
+   },
+   {
+    "term_id": "T392",
+    "senses": [
+     {
+      "sense": "Avīci hell",
+      "academic": "inferno Avīci",
+      "children": "Avichi",
+      "note": "Most severe hell; children's uses simplified name."
+     }
+    ]
+   },
+   {
+    "term_id": "T393",
+    "senses": [
+     {
+      "sense": "faculties",
+      "academic": "conjunto de faculdades",
+      "children": "grupo dos sentidos",
+      "note": "Indriyagaṇa, the sense faculties together."
+     }
+    ]
+   },
+   {
+    "term_id": "T394",
+    "senses": [
+     {
+      "sense": "chapter title: Heedfulness",
+      "academic": "Vigilância",
+      "children": "Cuidado",
+      "note": "Chapter 4 title; apramāda, careful attentiveness."
+     }
+    ]
+   },
+   {
+    "term_id": "T395",
+    "senses": [
+     {
+      "sense": "hell guardian",
+      "academic": "guardião do inferno",
+      "children": "guardião do inferno",
+      "note": "Hell warden (narakapāla)."
+     }
+    ]
+   },
+   {
+    "term_id": "T396",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Aquele que Fala a Verdade",
+      "children": "Aquele que Diz a Verdade",
+      "note": "Tattvavādin, Speaker of Truth."
+     }
+    ]
+   },
+   {
+    "term_id": "T397",
+    "senses": [
+     {
+      "sense": "mind of misdeed",
+      "academic": "mente da má ação",
+      "children": "mente que faz mal",
+      "note": "Reuses fixed mente and misdeed renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T398",
+    "senses": [
+     {
+      "sense": "mind of relinquishing",
+      "academic": "mente do desprendimento",
+      "children": "mente que dá tudo",
+      "note": "Tyāgacitta; total giving, distinct from T400 renunciation."
+     }
+    ]
+   },
+   {
+    "term_id": "T399",
+    "senses": [
+     {
+      "sense": "perfection of ethical discipline",
+      "academic": "perfeição da disciplina ética",
+      "children": "perfeição do bom comportamento",
+      "note": "Śīlapāramitā, second perfection."
+     }
+    ]
+   },
+   {
+    "term_id": "T400",
+    "senses": [
+     {
+      "sense": "mind of renunciation",
+      "academic": "mente da renúncia",
+      "children": "mente que abre mão",
+      "note": "Viraticitta, turning away from wrongdoing; distinct from T398."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4215,
+  "output": 2493,
+  "thinking": 5478,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 87.65,
+ "attempt": 1
+}

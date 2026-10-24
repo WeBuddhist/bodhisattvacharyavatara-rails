@@ -1,0 +1,87 @@
+{
+ "parsed": {
+  "objections": [
+   {
+    "term_id": "T617",
+    "sense": "conceptualization of true existence",
+    "field": "academic",
+    "proposed": "conceptualisation de l'existence véritable",
+    "reason": "'existence véritable' is the established rendering used in T677; 'existence vraie' is inconsistent."
+   },
+   {
+    "term_id": "T625",
+    "sense": "wish-fulfilling jewel",
+    "field": "academic",
+    "proposed": "joyau qui exauce les souhaits",
+    "reason": "Participle 'exauçant' is clumsy and differs from the children field and from T371; use the same relative clause."
+   },
+   {
+    "term_id": "T628",
+    "sense": "garuḍa",
+    "field": "children",
+    "proposed": "oiseau géant du ciel",
+    "reason": "Same garuḍa as T530, rendered 'oiseau géant du ciel'; keep identical."
+   },
+   {
+    "term_id": "T642",
+    "sense": "obscuration of afflictions and of objects of knowledge",
+    "field": "academic",
+    "proposed": "obscurcissement des afflictions et du connaissable",
+    "reason": "āvaraṇa/sgrib pa is 'obscurcissement' in T598 academic; 'voile' is the children's rendering."
+   },
+   {
+    "term_id": "T646",
+    "sense": "one who experiences",
+    "field": "academic",
+    "proposed": "celui qui fait l'expérience",
+    "reason": "'celui qui éprouve' is already T294 (vedaka, feeler); bhoktṛ (experiencer) needs a distinct rendering."
+   },
+   {
+    "term_id": "T646",
+    "sense": "one who experiences",
+    "field": "children",
+    "proposed": "celui qui vit l'expérience",
+    "reason": "'celui qui ressent' is already T294 (vedaka); keep bhoktṛ distinct."
+   },
+   {
+    "term_id": "T661",
+    "sense": "power of consciousness",
+    "field": "children",
+    "proposed": "pouvoir de la conscience",
+    "reason": "Academic field says 'pouvoir'; children's 'force' is used for bala/dpung (T515) and inconsistent with 'pouvoir' for stobs (T521)."
+   },
+   {
+    "term_id": "T669",
+    "sense": "coarse",
+    "field": "children",
+    "proposed": "grossier",
+    "reason": "Same sthūla is 'grossier' in T190 children; 'gros' means big or fat and changes the meaning."
+   },
+   {
+    "term_id": "T692",
+    "sense": "world system",
+    "field": "children",
+    "proposed": "univers",
+    "reason": "'grand monde' means high society in French and is vague; 'univers' conveys lokadhātu simply."
+   },
+   {
+    "term_id": "T721",
+    "sense": "Saṅgha",
+    "field": "children",
+    "proposed": "communauté des moines et des moniales",
+    "reason": "Align with T302 'moniale'; 'nonnes' is a Christian term."
+   },
+   {
+    "term_id": "T721",
+    "sense": "Saṅgha",
+    "field": "academic",
+    "proposed": "Saṅgha",
+    "reason": "English and T729 use 'Saṅgha'; 'Saṃgha' is an inconsistent transliteration of the same word."
+   }
+  ]
+ },
+ "tokens": {},
+ "model": "claude-sonnet-5-5",
+ "seconds": null,
+ "attempt": 1
+}

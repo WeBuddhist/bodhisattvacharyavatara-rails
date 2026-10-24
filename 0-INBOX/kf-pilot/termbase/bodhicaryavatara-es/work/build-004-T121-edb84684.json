@@ -1,0 +1,480 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T121",
+    "senses": [
+     {
+      "sense": "heedfulness",
+      "academic": "diligencia",
+      "children": "atención cuidadosa",
+      "note": "Established Spanish Buddhist rendering of apramāda, opposite of pramāda."
+     }
+    ]
+   },
+   {
+    "term_id": "T122",
+    "senses": [
+     {
+      "sense": "austerity",
+      "academic": "austeridad",
+      "children": "práctica difícil",
+      "note": "Tapas as ascetic practice; children's phrase mirrors 'hard practice'."
+     }
+    ]
+   },
+   {
+    "term_id": "T123",
+    "senses": [
+     {
+      "sense": "laziness",
+      "academic": "pereza",
+      "children": "pereza",
+      "note": "Everyday word suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T124",
+    "senses": [
+     {
+      "sense": "antidote",
+      "academic": "antídoto",
+      "children": "remedio",
+      "note": "Standard pratipakṣa rendering; 'remedio' is the simple everyday equivalent."
+     }
+    ]
+   },
+   {
+    "term_id": "T125",
+    "senses": [
+     {
+      "sense": "sūtra",
+      "academic": "sūtra",
+      "children": "texto de enseñanzas",
+      "note": "Sanskrit term kept academically; children get a plain descriptive phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T126",
+    "senses": [
+     {
+      "sense": "permanent",
+      "academic": "permanente",
+      "children": "que dura para siempre",
+      "note": "Adjective; children's phrase mirrors 'lasting forever'."
+     }
+    ]
+   },
+   {
+    "term_id": "T127",
+    "senses": [
+     {
+      "sense": "fame, renown",
+      "academic": "fama",
+      "children": "fama",
+      "note": "Same everyday word in both registers."
+     },
+     {
+      "sense": "common usage",
+      "academic": "convención",
+      "children": "uso común",
+      "note": "Prasiddhi as conventional usage; distinct from the 'fame' sense."
+     }
+    ]
+   },
+   {
+    "term_id": "T128",
+    "senses": [
+     {
+      "sense": "envy",
+      "academic": "envidia",
+      "children": "envidia",
+      "note": "Spanish 'envidia' covers both envy and jealousy senses."
+     }
+    ]
+   },
+   {
+    "term_id": "T129",
+    "senses": [
+     {
+      "sense": "despondency",
+      "academic": "desánimo",
+      "children": "desánimo",
+      "note": "Everyday word; also 'abatimiento' possible but less common."
+     }
+    ]
+   },
+   {
+    "term_id": "T130",
+    "senses": [
+     {
+      "sense": "solitude",
+      "academic": "soledad",
+      "children": "soledad",
+      "note": "Viveka as physical seclusion; same word for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T131",
+    "senses": [
+     {
+      "sense": "lifetime",
+      "academic": "existencia",
+      "children": "vida",
+      "note": "'Existencia' is standard for a samsaric lifetime; children say 'vida'."
+     }
+    ]
+   },
+   {
+    "term_id": "T132",
+    "senses": [
+     {
+      "sense": "sandalwood",
+      "academic": "sándalo",
+      "children": "sándalo",
+      "note": "Standard Spanish name for the wood and tree."
+     }
+    ]
+   },
+   {
+    "term_id": "T133",
+    "senses": [
+     {
+      "sense": "conceptualization",
+      "academic": "pensamiento conceptual",
+      "children": "pensamiento inquieto",
+      "note": "Vikalpa-type discursive thought; children's phrase mirrors 'busy thinking'."
+     }
+    ]
+   },
+   {
+    "term_id": "T134",
+    "senses": [
+     {
+      "sense": "continuous stream of mind or person",
+      "academic": "continuum",
+      "children": "corriente continua",
+      "note": "Saṃtāna; 'continuum' is used in Spanish academic Buddhist writing."
+     }
+    ]
+   },
+   {
+    "term_id": "T135",
+    "senses": [
+     {
+      "sense": "accomplished meditator",
+      "academic": "yogui",
+      "children": "maestro de meditación",
+      "note": "RAE form 'yogui'; children's phrase mirrors 'meditation master'."
+     }
+    ]
+   },
+   {
+    "term_id": "T136",
+    "senses": [
+     {
+      "sense": "emptiness",
+      "academic": "vacuidad",
+      "children": "vacío",
+      "note": "'Vacuidad' is the established Spanish Buddhist term for śūnyatā."
+     }
+    ]
+   },
+   {
+    "term_id": "T137",
+    "senses": [
+     {
+      "sense": "consciousness",
+      "academic": "conciencia",
+      "children": "conciencia",
+      "note": "Jñāna here as consciousness/awareness, not wisdom."
+     }
+    ]
+   },
+   {
+    "term_id": "T138",
+    "senses": [
+     {
+      "sense": "dream",
+      "academic": "sueño",
+      "children": "sueño",
+      "note": "Everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T139",
+    "senses": [
+     {
+      "sense": "analysis",
+      "academic": "análisis",
+      "children": "pensamiento cuidadoso",
+      "note": "Children's phrase mirrors 'careful thinking'."
+     }
+    ]
+   },
+   {
+    "term_id": "T140",
+    "senses": [
+     {
+      "sense": "in saṃsāra",
+      "academic": "saṃsāra",
+      "children": "ciclo de renacimientos",
+      "note": "Reuses the fixed renderings for saṃsāra."
+     },
+     {
+      "sense": "retinue",
+      "academic": "séquito",
+      "children": "seguidores",
+      "note": "Homograph sense: entourage, unrelated to the cycle of rebirth."
+     }
+    ]
+   },
+   {
+    "term_id": "T141",
+    "senses": [
+     {
+      "sense": "heedlessness",
+      "academic": "indiligencia",
+      "children": "descuido",
+      "note": "Opposite of apramāda ('diligencia'), keeping the academic pair."
+     }
+    ]
+   },
+   {
+    "term_id": "T142",
+    "senses": [
+     {
+      "sense": "ocean of good qualities",
+      "academic": "océano de cualidades positivas",
+      "children": "océano de buenas cualidades",
+      "note": "Compound reuses fixed guṇa renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T143",
+    "senses": [
+     {
+      "sense": "Victor",
+      "academic": "Vencedor",
+      "children": "Victorioso",
+      "note": "Reuses the fixed renderings for jina."
+     }
+    ]
+   },
+   {
+    "term_id": "T144",
+    "senses": [
+     {
+      "sense": "lotus",
+      "academic": "loto",
+      "children": "loto",
+      "note": "Standard Spanish for the flower."
+     }
+    ]
+   },
+   {
+    "term_id": "T145",
+    "senses": [
+     {
+      "sense": "stūpa, shrine",
+      "academic": "estupa",
+      "children": "santuario",
+      "note": "'Estupa' is the Spanish form of stūpa; children get 'santuario'."
+     }
+    ]
+   },
+   {
+    "term_id": "T146",
+    "senses": [
+     {
+      "sense": "pay homage",
+      "academic": "rendir homenaje",
+      "children": "inclinarse con respeto",
+      "note": "Verb phrase in head form; children's mirrors 'bow down'."
+     }
+    ]
+   },
+   {
+    "term_id": "T147",
+    "senses": [
+     {
+      "sense": "Guide",
+      "academic": "Guía",
+      "children": "Guía",
+      "note": "Epithet of the Buddha; capitalized in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T148",
+    "senses": [
+     {
+      "sense": "messenger of Yama",
+      "academic": "mensajero de Yama",
+      "children": "mensajero de Yama",
+      "note": "Proper name Yama kept in standard form."
+     }
+    ]
+   },
+   {
+    "term_id": "T149",
+    "senses": [
+     {
+      "sense": "impermanent",
+      "academic": "impermanente",
+      "children": "que no dura",
+      "note": "Adjective; children's phrase mirrors 'not lasting'."
+     }
+    ]
+   },
+   {
+    "term_id": "T150",
+    "senses": [
+     {
+      "sense": "rejoicing in virtue",
+      "academic": "regocijarse",
+      "children": "alegrarse",
+      "note": "Anumodanā as rejoicing in others' virtue; verb head forms."
+     }
+    ]
+   },
+   {
+    "term_id": "T151",
+    "senses": [
+     {
+      "sense": "protector, saviour",
+      "academic": "Salvador",
+      "children": "Protector",
+      "note": "Epithet of the Buddha; capitalized."
+     }
+    ]
+   },
+   {
+    "term_id": "T152",
+    "senses": [
+     {
+      "sense": "nirvana",
+      "academic": "nirvāṇa",
+      "children": "liberación de la tristeza",
+      "note": "Sanskrit kept with diacritics academically; children's mirrors 'freedom from sorrow'."
+     }
+    ]
+   },
+   {
+    "term_id": "T153",
+    "senses": [
+     {
+      "sense": "family",
+      "academic": "familia",
+      "children": "familia",
+      "note": "Kula as family or spiritual lineage."
+     }
+    ]
+   },
+   {
+    "term_id": "T154",
+    "senses": [
+     {
+      "sense": "hungry ghost",
+      "academic": "preta",
+      "children": "fantasma hambriento",
+      "note": "'Preta' is established in Spanish Buddhist texts; children get the descriptive phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T155",
+    "senses": [
+     {
+      "sense": "bodhisattva ground",
+      "academic": "tierra",
+      "children": "etapa",
+      "note": "'Tierra' is standard for bhūmi (diez tierras); children say 'etapa'."
+     },
+     {
+      "sense": "earth (element)",
+      "academic": "tierra",
+      "children": "tierra",
+      "note": "Earth as element; same Spanish word as the ground sense."
+     }
+    ]
+   },
+   {
+    "term_id": "T156",
+    "senses": [
+     {
+      "sense": "mantra",
+      "academic": "mantra",
+      "children": "palabras sagradas",
+      "note": "Loanword established in Spanish; children get a plain phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T157",
+    "senses": [
+     {
+      "sense": "craving",
+      "academic": "ansia",
+      "children": "deseo fuerte",
+      "note": "Tṛṣṇā as intense craving; children's phrase mirrors 'wanting'."
+     }
+    ]
+   },
+   {
+    "term_id": "T158",
+    "senses": [
+     {
+      "sense": "perfection of generosity",
+      "academic": "perfección de la generosidad",
+      "children": "perfección de dar",
+      "note": "Compound reuses pāramitā ('perfección'); children simplify 'generosity' to 'dar'."
+     }
+    ]
+   },
+   {
+    "term_id": "T159",
+    "senses": [
+     {
+      "sense": "perfection",
+      "academic": "perfección",
+      "children": "perfección",
+      "note": "Same word works for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T160",
+    "senses": [
+     {
+      "sense": "self-mastery",
+      "academic": "autodominio",
+      "children": "control de uno mismo",
+      "note": "Mastery over one's own mind; children's phrase mirrors the English."
+     },
+     {
+      "sense": "independence",
+      "academic": "independencia",
+      "children": "independencia",
+      "note": "Distinct sense: freedom from dependence on others."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4021,
+  "output": 2520,
+  "thinking": 3562,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 158.2,
+ "attempt": 1
+}

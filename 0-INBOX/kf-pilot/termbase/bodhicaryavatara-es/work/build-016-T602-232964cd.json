@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T602",
+    "senses": [
+     {
+      "sense": "two truths",
+      "academic": "dos verdades",
+      "children": "dos verdades",
+      "note": "Standard Buddhist pair: conventional and ultimate truth."
+     }
+    ]
+   },
+   {
+    "term_id": "T603",
+    "senses": [
+     {
+      "sense": "worldly person",
+      "academic": "persona mundana",
+      "children": "persona del mundo",
+      "note": "Ordinary person without insight into reality."
+     }
+    ]
+   },
+   {
+    "term_id": "T604",
+    "senses": [
+     {
+      "sense": "direct perception",
+      "academic": "percepción directa",
+      "children": "ver directamente",
+      "note": "Pratyakṣa, non-conceptual direct cognition."
+     }
+    ]
+   },
+   {
+    "term_id": "T605",
+    "senses": [
+     {
+      "sense": "purity",
+      "academic": "pureza",
+      "children": "limpieza",
+      "note": "Physical or moral cleanness."
+     }
+    ]
+   },
+   {
+    "term_id": "T606",
+    "senses": [
+     {
+      "sense": "momentary",
+      "academic": "momentáneo",
+      "children": "que dura solo un instante",
+      "note": "Adjective; exists only for a moment."
+     }
+    ]
+   },
+   {
+    "term_id": "T607",
+    "senses": [
+     {
+      "sense": "yogi",
+      "academic": "yogui",
+      "children": "meditador",
+      "note": "Practitioner of meditation; Spanish form yogui."
+     }
+    ]
+   },
+   {
+    "term_id": "T608",
+    "senses": [
+     {
+      "sense": "truly existent",
+      "academic": "realmente existente",
+      "children": "que existe de verdad",
+      "note": "Same Spanish as T609; English senses coincide."
+     }
+    ]
+   },
+   {
+    "term_id": "T609",
+    "senses": [
+     {
+      "sense": "truly existent",
+      "academic": "realmente existente",
+      "children": "que existe de verdad",
+      "note": "Same Spanish as T608; English senses coincide."
+     }
+    ]
+   },
+   {
+    "term_id": "T610",
+    "senses": [
+     {
+      "sense": "illusory person",
+      "academic": "persona ilusoria",
+      "children": "persona creada por magia",
+      "note": "Magician's phantom person, classic illusion example."
+     }
+    ]
+   },
+   {
+    "term_id": "T611",
+    "senses": [
+     {
+      "sense": "error",
+      "academic": "error",
+      "children": "equivocación",
+      "note": "Mistaken cognition."
+     }
+    ]
+   },
+   {
+    "term_id": "T612",
+    "senses": [
+     {
+      "sense": "in reality",
+      "academic": "en la realidad",
+      "children": "como son las cosas de verdad",
+      "note": "Adverbial phrase, tattvataḥ."
+     }
+    ]
+   },
+   {
+    "term_id": "T613",
+    "senses": [
+     {
+      "sense": "barren woman's daughter",
+      "academic": "hija de una mujer estéril",
+      "children": "hija de una mujer que no puede tener hijos",
+      "note": "Stock example of something utterly nonexistent."
+     }
+    ]
+   },
+   {
+    "term_id": "T614",
+    "senses": [
+     {
+      "sense": "self-awareness",
+      "academic": "autoconciencia",
+      "children": "conciencia de sí misma",
+      "note": "Svasaṃvitti, reflexive awareness of mind."
+     }
+    ]
+   },
+   {
+    "term_id": "T615",
+    "senses": [
+     {
+      "sense": "eye ointment",
+      "academic": "ungüento para los ojos",
+      "children": "pomada para los ojos",
+      "note": "Añjana, medicinal or magical eye salve."
+     }
+    ]
+   },
+   {
+    "term_id": "T616",
+    "senses": [
+     {
+      "sense": "cause of suffering",
+      "academic": "causa del sufrimiento",
+      "children": "causa del sufrimiento",
+      "note": "Reuses fixed renderings of cause and suffering."
+     }
+    ]
+   },
+   {
+    "term_id": "T617",
+    "senses": [
+     {
+      "sense": "conceptualization of true existence",
+      "academic": "conceptualización de la existencia verdadera",
+      "children": "pensar que las cosas existen de verdad",
+      "note": "Conceptual thought projecting real existence onto things."
+     }
+    ]
+   },
+   {
+    "term_id": "T618",
+    "senses": [
+     {
+      "sense": "apprehended object",
+      "academic": "objeto aprehendido",
+      "children": "cosa que la mente capta",
+      "note": "Grāhya, the object pole of cognition."
+     }
+    ]
+   },
+   {
+    "term_id": "T619",
+    "senses": [
+     {
+      "sense": "Cittamātra",
+      "academic": "Cittamātra",
+      "children": "Solo Mente",
+      "note": "School name kept in Sanskrit academically; children get meaning."
+     }
+    ]
+   },
+   {
+    "term_id": "T620",
+    "senses": [
+     {
+      "sense": "illusory woman",
+      "academic": "mujer ilusoria",
+      "children": "mujer creada por ilusión",
+      "note": "Magician's phantom woman, classic illusion example."
+     }
+    ]
+   },
+   {
+    "term_id": "T621",
+    "senses": [
+     {
+      "sense": "latent tendency of emptiness",
+      "academic": "tendencia latente de la vacuidad",
+      "children": "hábito de la vacuidad",
+      "note": "Vāsanā as deep-seated mental habit or imprint."
+     }
+    ]
+   },
+   {
+    "term_id": "T622",
+    "senses": [
+     {
+      "sense": "latent tendency of entities",
+      "academic": "tendencia latente de las entidades",
+      "children": "hábito que dejan las cosas en la mente",
+      "note": "Entity follows fixed rendering entidad/cosa."
+     }
+    ]
+   },
+   {
+    "term_id": "T623",
+    "senses": [
+     {
+      "sense": "non-apprehension",
+      "academic": "no aprehensión",
+      "children": "sin ningún objeto en que fijarse",
+      "note": "Nirālamba, meditation without any focal object."
+     }
+    ]
+   },
+   {
+    "term_id": "T624",
+    "senses": [
+     {
+      "sense": "thorough pacification",
+      "academic": "pacificación completa",
+      "children": "calma completa",
+      "note": "Verb nominalized; complete stilling of mind."
+     }
+    ]
+   },
+   {
+    "term_id": "T625",
+    "senses": [
+     {
+      "sense": "wish-fulfilling jewel",
+      "academic": "joya que cumple deseos",
+      "children": "joya que cumple deseos",
+      "note": "Cintāmaṇi, mythical gem granting wishes."
+     }
+    ]
+   },
+   {
+    "term_id": "T626",
+    "senses": [
+     {
+      "sense": "one to be tamed",
+      "academic": "el que debe ser domado",
+      "children": "persona que necesita ser guiada",
+      "note": "Vineya, disciple fit to be trained."
+     }
+    ]
+   },
+   {
+    "term_id": "T627",
+    "senses": [
+     {
+      "sense": "aspiration prayer",
+      "academic": "oración de aspiración",
+      "children": "oración para pedir un deseo",
+      "note": "Praṇidhāna, prayer of resolve or aspiration."
+     }
+    ]
+   },
+   {
+    "term_id": "T628",
+    "senses": [
+     {
+      "sense": "garuḍa",
+      "academic": "garuḍa",
+      "children": "gran ave del cielo",
+      "note": "Mythical giant bird; name kept academically."
+     }
+    ]
+   },
+   {
+    "term_id": "T629",
+    "senses": [
+     {
+      "sense": "truth",
+      "academic": "verdad",
+      "children": "verdad",
+      "note": "Satya, truth."
+     }
+    ]
+   },
+   {
+    "term_id": "T630",
+    "senses": [
+     {
+      "sense": "liberation",
+      "academic": "liberación",
+      "children": "libertad",
+      "note": "Mukti, freedom from saṃsāra."
+     }
+    ]
+   },
+   {
+    "term_id": "T631",
+    "senses": [
+     {
+      "sense": "Vedas (scripture)",
+      "academic": "Vedas",
+      "children": "Vedas",
+      "note": "Proper name of Hindu scriptures, same both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T632",
+    "senses": [
+     {
+      "sense": "non-Buddhist",
+      "academic": "no budista",
+      "children": "persona que no es budista",
+      "note": "Tīrthika, adherent of non-Buddhist schools."
+     }
+    ]
+   },
+   {
+    "term_id": "T633",
+    "senses": [
+     {
+      "sense": "with apprehension",
+      "academic": "aprehensión",
+      "children": "aferrarse a las cosas",
+      "note": "English academic rendering drops 'with'; Spanish follows it."
+     }
+    ]
+   },
+   {
+    "term_id": "T634",
+    "senses": [
+     {
+      "sense": "grasping",
+      "academic": "apropiación",
+      "children": "aferrarse",
+      "note": "Upādāna as in the twelve links; distinct from apego (lobha)."
+     }
+    ]
+   },
+   {
+    "term_id": "T635",
+    "senses": [
+     {
+      "sense": "afflicted",
+      "academic": "aflijido",
+      "children": "perturbado por una emoción que perturba",
+      "note": "Children reuses fixed affliction rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T636",
+    "senses": [
+     {
+      "sense": "delusion",
+      "academic": "ofuscación",
+      "children": "confusión",
+      "note": "English matches fixed moha sense, so Spanish reused."
+     }
+    ]
+   },
+   {
+    "term_id": "T637",
+    "senses": [
+     {
+      "sense": "absorption of non-perception",
+      "academic": "absorción meditativa de no percepción",
+      "children": "meditación profunda sin percepción",
+      "note": "Asaṃjñisamāpatti, trance without any perception."
+     }
+    ]
+   },
+   {
+    "term_id": "T638",
+    "senses": [
+     {
+      "sense": "meditative absorption",
+      "academic": "absorción meditativa",
+      "children": "absorción profunda",
+      "note": "Samāpatti, deep meditative state."
+     }
+    ]
+   },
+   {
+    "term_id": "T639",
+    "senses": [
+     {
+      "sense": "Mahākāśyapa",
+      "academic": "Mahākāśyapa",
+      "children": "Mahakashyapa",
+      "note": "Proper name; children get simplified spelling without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T640",
+    "senses": [
+     {
+      "sense": "refutation",
+      "academic": "refutación",
+      "children": "demostración de que algo es falso",
+      "note": "Dūṣaṇa, logical disproof of an opponent's claim."
+     }
+    ]
+   },
+   {
+    "term_id": "T641",
+    "senses": [
+     {
+      "sense": "position",
+      "academic": "posición",
+      "children": "postura",
+      "note": "Pakṣa, thesis or stance in debate."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4170,
+  "output": 2403,
+  "thinking": 2426,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 136.02,
+ "attempt": 1
+}

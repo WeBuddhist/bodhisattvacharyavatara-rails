@@ -1,0 +1,462 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T001",
+    "senses": [
+     {
+      "sense": "suffering",
+      "academic": "penderitaan",
+      "children": "penderitaan",
+      "note": "Standard Indonesian Buddhist rendering of duḥkha; same word works for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T002",
+    "senses": [
+     {
+      "sense": "sentient beings",
+      "academic": "makhluk berperasaan",
+      "children": "makhluk hidup",
+      "note": "Academic term established in Indonesian Buddhist texts; children get everyday wording."
+     }
+    ]
+   },
+   {
+    "term_id": "T003",
+    "senses": [
+     {
+      "sense": "mind",
+      "academic": "batin",
+      "children": "pikiran",
+      "note": "Batin is the usual Indonesian rendering of citta; distinguished from manas."
+     }
+    ]
+   },
+   {
+    "term_id": "T004",
+    "senses": [
+     {
+      "sense": "affliction",
+      "academic": "kekotoran batin",
+      "children": "perasaan yang mengganggu",
+      "note": "Kekotoran batin is the established translation of kleśa/kilesa in Indonesian Buddhism."
+     }
+    ]
+   },
+   {
+    "term_id": "T005",
+    "senses": [
+     {
+      "sense": "living beings of the world",
+      "academic": "makhluk dunia",
+      "children": "makhluk",
+      "note": "Kept distinct from sattva; jagat rendered as beings of the world."
+     }
+    ]
+   },
+   {
+    "term_id": "T006",
+    "senses": [
+     {
+      "sense": "body",
+      "academic": "tubuh",
+      "children": "tubuh",
+      "note": "Everyday Indonesian word, suitable for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T007",
+    "senses": [
+     {
+      "sense": "merit",
+      "academic": "jasa kebajikan",
+      "children": "tabungan kebaikan",
+      "note": "Jasa kebajikan is standard for puṇya/puñña; children phrase mirrors 'store of goodness'."
+     }
+    ]
+   },
+   {
+    "term_id": "T008",
+    "senses": [
+     {
+      "sense": "Buddha",
+      "academic": "Buddha",
+      "children": "Buddha",
+      "note": "Proper name unchanged in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T009",
+    "senses": [
+     {
+      "sense": "good quality",
+      "academic": "sifat baik",
+      "children": "sifat baik",
+      "note": "Same plain phrase works in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T010",
+    "senses": [
+     {
+      "sense": "bodhisattva",
+      "academic": "bodhisatwa",
+      "children": "pahlawan kebangkitan",
+      "note": "Indonesian standard spelling bodhisatwa; children phrase mirrors 'awakening hero'."
+     }
+    ]
+   },
+   {
+    "term_id": "T011",
+    "senses": [
+     {
+      "sense": "misdeed",
+      "academic": "perbuatan jahat",
+      "children": "perbuatan yang merugikan",
+      "note": "Same rendering as T025, matching the identical English senses."
+     }
+    ]
+   },
+   {
+    "term_id": "T012",
+    "senses": [
+     {
+      "sense": "the awakening mind",
+      "academic": "bodicitta",
+      "children": "pikiran kebangkitan",
+      "note": "Technical term kept in Indonesian spelling; children phrase built from pikiran."
+     }
+    ]
+   },
+   {
+    "term_id": "T013",
+    "senses": [
+     {
+      "sense": "world",
+      "academic": "dunia",
+      "children": "dunia",
+      "note": "Everyday word used in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T014",
+    "senses": [
+     {
+      "sense": "virtue",
+      "academic": "kebajikan",
+      "children": "perbuatan baik",
+      "note": "Kebajikan is the established Indonesian rendering of kuśala."
+     }
+    ]
+   },
+   {
+    "term_id": "T015",
+    "senses": [
+     {
+      "sense": "happiness",
+      "academic": "kebahagiaan",
+      "children": "kebahagiaan",
+      "note": "Same rendering as T033; everyday word suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T016",
+    "senses": [
+     {
+      "sense": "mind",
+      "academic": "pikiran",
+      "children": "pikiran",
+      "note": "Rendered pikiran to keep manas distinct from citta (batin) academically."
+     }
+    ]
+   },
+   {
+    "term_id": "T017",
+    "senses": [
+     {
+      "sense": "cycle of rebirth, saṃsāra",
+      "academic": "samsara",
+      "children": "putaran lahir kembali",
+      "note": "Loanword standard in academic Indonesian; children phrase explains the cycle plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T018",
+    "senses": [
+     {
+      "sense": "hell",
+      "academic": "neraka",
+      "children": "neraka",
+      "note": "Everyday Indonesian word, identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T019",
+    "senses": [
+     {
+      "sense": "the Buddha's teaching",
+      "academic": "Dharma",
+      "children": "ajaran Buddha",
+      "note": "Capitalized Dharma standard in Indonesian Buddhist usage; children get plain phrase."
+     },
+     {
+      "sense": "things as such (chapter 9)",
+      "academic": "fenomena",
+      "children": "sesuatu yang muncul",
+      "note": "Abhidharma-style sense rendered as phenomenon, distinct from the teaching sense."
+     }
+    ]
+   },
+   {
+    "term_id": "T020",
+    "senses": [
+     {
+      "sense": "awakening",
+      "academic": "pencerahan",
+      "children": "kebangkitan",
+      "note": "Pencerahan is established for bodhi; kebangkitan is plainer for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T021",
+    "senses": [
+     {
+      "sense": "pride",
+      "academic": "keangkuhan",
+      "children": "kesombongan",
+      "note": "Formal keangkuhan for academic prose; everyday kesombongan for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T022",
+    "senses": [
+     {
+      "sense": "self",
+      "academic": "atman",
+      "children": "diri sendiri",
+      "note": "Sanskrit loanword standard in Indonesian discourse; children get everyday phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T023",
+    "senses": [
+     {
+      "sense": "condition",
+      "academic": "kondisi",
+      "children": "keadaan",
+      "note": "Kondisi is standard for pratyaya; children get the everyday near-equivalent."
+     }
+    ]
+   },
+   {
+    "term_id": "T024",
+    "senses": [
+     {
+      "sense": "result of action",
+      "academic": "hasil",
+      "children": "hasil",
+      "note": "Same plain word in both registers, matching the single English rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T025",
+    "senses": [
+     {
+      "sense": "misdeed",
+      "academic": "perbuatan jahat",
+      "children": "perbuatan yang merugikan",
+      "note": "Identical to T011 since the English senses match."
+     }
+    ]
+   },
+   {
+    "term_id": "T026",
+    "senses": [
+     {
+      "sense": "cause",
+      "academic": "penyebab",
+      "children": "penyebab",
+      "note": "Everyday word suitable for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T027",
+    "senses": [
+     {
+      "sense": "title of the work",
+      "academic": "Memasuki Jalan Bodhisatwa",
+      "children": "Memasuki Jalan Pahlawan Kebangkitan",
+      "note": "Title translated; children version reuses pahlawan kebangkitan for bodhisattva."
+     }
+    ]
+   },
+   {
+    "term_id": "T028",
+    "senses": [
+     {
+      "sense": "attachment, clinging",
+      "academic": "kemelekatan",
+      "children": "melekat erat",
+      "note": "Kemelekatan is the established Buddhist term; children phrase is literal and plain."
+     }
+    ]
+   },
+   {
+    "term_id": "T029",
+    "senses": [
+     {
+      "sense": "entity",
+      "academic": "entitas",
+      "children": "sesuatu",
+      "note": "Academic loanword for chapter 9 ontology; children get the simplest word."
+     }
+    ]
+   },
+   {
+    "term_id": "T030",
+    "senses": [
+     {
+      "sense": "anger",
+      "academic": "kemarahan",
+      "children": "rasa marah",
+      "note": "Kept distinct from dveṣa (kebencian); children phrase uses everyday marah."
+     }
+    ]
+   },
+   {
+    "term_id": "T031",
+    "senses": [
+     {
+      "sense": "illusion",
+      "academic": "ilusi",
+      "children": "ilusi",
+      "note": "Ilusi is everyday Indonesian too, familiar to children from magic contexts."
+     }
+    ]
+   },
+   {
+    "term_id": "T032",
+    "senses": [
+     {
+      "sense": "god",
+      "academic": "dewa",
+      "children": "dewa",
+      "note": "Standard Indonesian Buddhist term for deva in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T033",
+    "senses": [
+     {
+      "sense": "happiness",
+      "academic": "kebahagiaan",
+      "children": "kebahagiaan",
+      "note": "Identical to T015 since the English senses match."
+     }
+    ]
+   },
+   {
+    "term_id": "T034",
+    "senses": [
+     {
+      "sense": "epithet of the Buddhas",
+      "academic": "Sang Penakluk",
+      "children": "Sang Pemenang",
+      "note": "Jina translated as epithet, avoiding the misleading Indonesian homograph."
+     }
+    ]
+   },
+   {
+    "term_id": "T035",
+    "senses": [
+     {
+      "sense": "hatred",
+      "academic": "kebencian",
+      "children": "rasa benci",
+      "note": "Kebencian standard for dveṣa/dosa; children phrase is plainer."
+     }
+    ]
+   },
+   {
+    "term_id": "T036",
+    "senses": [
+     {
+      "sense": "embodied being",
+      "academic": "makhluk berjasad",
+      "children": "makhluk yang bertubuh",
+      "note": "Both phrases literally convey having a body; children version uses everyday words."
+     }
+    ]
+   },
+   {
+    "term_id": "T037",
+    "senses": [
+     {
+      "sense": "patience",
+      "academic": "kesabaran",
+      "children": "kesabaran",
+      "note": "Everyday word; the established rendering of kṣānti."
+     }
+    ]
+   },
+   {
+    "term_id": "T038",
+    "senses": [
+     {
+      "sense": "delusion",
+      "academic": "kebodohan",
+      "children": "kebingungan",
+      "note": "Kebodohan is the classic rendering of moha among the three roots; children get confusion."
+     }
+    ]
+   },
+   {
+    "term_id": "T039",
+    "senses": [
+     {
+      "sense": "eon, long age",
+      "academic": "kalpa",
+      "children": "zaman yang sangat panjang",
+      "note": "Loanword kalpa standard in Indonesian; children phrase describes a vast age."
+     }
+    ]
+   },
+   {
+    "term_id": "T040",
+    "senses": [
+     {
+      "sense": "unhappy rebirth state",
+      "academic": "alam rendah",
+      "children": "alam yang menyedihkan",
+      "note": "Alam rendah mirrors 'lower realm'; children phrase stresses unhappiness plainly."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4107,
+  "output": 2464,
+  "thinking": 7344,
+  "cache_read": 0,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 265.97,
+ "attempt": 1
+}

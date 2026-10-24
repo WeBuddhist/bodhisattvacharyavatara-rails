@@ -1,0 +1,622 @@
+{
+ "builder": "kimi-k3",
+ "reviewer": "claude-sonnet-5-5",
+ "objections": [
+  {
+   "term_id": "T034",
+   "sense": "epithet of the Buddhas",
+   "field": "academic",
+   "proposed": "Vincitore",
+   "reason": "Established Italian rendering of jina is 'Vincitore'; 'Vittorioso' is uncommon. Matches children's field.",
+   "applied": true
+  },
+  {
+   "term_id": "T110",
+   "sense": "child of the Victors",
+   "field": "academic",
+   "proposed": "figlio dei Vincitori",
+   "reason": "Follows T034 correction: jina is 'Vincitore', not 'Vittorioso'.",
+   "applied": true
+  },
+  {
+   "term_id": "T083",
+   "sense": "emptiness",
+   "field": "children",
+   "proposed": "vacuità",
+   "reason": "'vuoto' reads as plain void/nothingness and diverges from academic field; use the established term 'vacuità' consistently.",
+   "applied": true
+  },
+  {
+   "term_id": "T091",
+   "sense": "spiritual teacher",
+   "field": "academic",
+   "proposed": "maestro spirituale",
+   "reason": "Plain 'maestro' is also used for ācārya (T202); distinguish the guru/bla ma sense, as the sense label says 'spiritual teacher'.",
+   "applied": true
+  },
+  {
+   "term_id": "T097",
+   "sense": "like a log",
+   "field": "children",
+   "proposed": "come un pezzo di legno",
+   "reason": "'ciocco' is archaic/rare and not simple enough for ages 8 to 12.",
+   "applied": true
+  },
+  {
+   "term_id": "T099",
+   "sense": "welfare of others",
+   "field": "academic",
+   "proposed": "bene altrui",
+   "reason": "Inconsistent with T072 (same concept, 'bene altrui') and T064 'bene proprio'; 'benessere' shifts the meaning to comfort.",
+   "applied": true
+  },
+  {
+   "term_id": "T116",
+   "sense": "Tathāgata",
+   "field": "children",
+   "proposed": "Colui che è andato così",
+   "reason": "Inconsistent capitalisation with T070 (same epithet); use identical form.",
+   "applied": true
+  },
+  {
+   "term_id": "T093",
+   "sense": "Avīci hell",
+   "field": "children",
+   "proposed": "Avici",
+   "reason": "Children's names are written without diacritics; T392 (same hell) already uses 'Avici'. Keep identical.",
+   "applied": true
+  },
+  {
+   "term_id": "T131",
+   "sense": "lifetime",
+   "field": "academic",
+   "proposed": "vita",
+   "reason": "'esistenza' is already used for bhava (T086, srid pa); a lifetime (tshe rabs) should be distinct.",
+   "applied": true
+  },
+  {
+   "term_id": "T136",
+   "sense": "emptiness",
+   "field": "children",
+   "proposed": "vacuità",
+   "reason": "'vuotezza' is archaic and not a Buddhist term; use 'vacuità', consistent with the academic field and T083.",
+   "applied": true
+  },
+  {
+   "term_id": "T141",
+   "sense": "heedlessness",
+   "field": "academic",
+   "proposed": "negligenza",
+   "reason": "'noncuranza' means nonchalance or indifference, not lack of care/mindfulness (pramāda); 'negligenza' fits and contrasts with apramāda.",
+   "applied": true
+  },
+  {
+   "term_id": "T143",
+   "sense": "Victor",
+   "field": "academic",
+   "proposed": "Vincitore",
+   "reason": "Established Italian rendering of jina is 'Vincitore'; consistent with T034 and T110 and the children's field.",
+   "applied": true
+  },
+  {
+   "term_id": "T152",
+   "sense": "nirvana",
+   "field": "children",
+   "proposed": "libertà dalla tristezza",
+   "reason": "Inconsistent with T060 for the same gloss 'freedom from sorrow' (mya ngan 'das); align all nirvāṇa children's glosses.",
+   "applied": true
+  },
+  {
+   "term_id": "T211",
+   "sense": "pass into nirvāṇa",
+   "field": "children",
+   "proposed": "libertà dalla tristezza",
+   "reason": "Inconsistent: 'dolore' here versus 'tristezza' in T060 for the same gloss 'freedom from sorrow'.",
+   "applied": true
+  },
+  {
+   "term_id": "T157",
+   "sense": "craving",
+   "field": "children",
+   "proposed": "desiderio bruciante",
+   "reason": "Inconsistent with T081 (tṛṣṇā, same English 'craving'/'wanting'); plain 'desiderio' blurs it with other desire terms.",
+   "applied": true
+  },
+  {
+   "term_id": "T158",
+   "sense": "perfection of generosity",
+   "field": "children",
+   "proposed": "perfezione del dare",
+   "reason": "'generosità perfetta' is ungrammatical as a name of the pāramitā; follows T062 'dare' and T159 'perfezione'.",
+   "applied": true
+  },
+  {
+   "term_id": "T168",
+   "sense": "own interest",
+   "field": "academic",
+   "proposed": "bene proprio",
+   "reason": "Inconsistent with T064 (rang don, svārtha, 'bene proprio'); 'interesse personale' sounds selfish and drifts from 'own welfare'.",
+   "applied": true
+  },
+  {
+   "term_id": "T176",
+   "sense": "childish person",
+   "field": "academic",
+   "proposed": "fanciullo",
+   "reason": "Same term bāla/byis pa as T065, which uses 'fanciullo'; keep the academic rendering consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T178",
+   "sense": "charnel ground",
+   "field": "academic",
+   "proposed": "cimitero",
+   "reason": "'terreno di cremazione' means a cremation ground; a charnel ground (dur khrod) is where corpses lie; 'cimitero' is the usual Italian rendering.",
+   "applied": true
+  },
+  {
+   "term_id": "T183",
+   "sense": "habituation",
+   "field": "academic",
+   "proposed": "familiarizzazione",
+   "reason": "'assuefazione' means addiction/tolerance; gom pa/abhyāsa is established in Italian as 'familiarizzazione'.",
+   "applied": true
+  },
+  {
+   "term_id": "T237",
+   "sense": "guarding introspection",
+   "field": "children",
+   "proposed": "custodire lo stare attenti",
+   "reason": "'vigilanza' is the academic rendering of apramāda (T121); saṃprajanya children's form should follow T047 'stare attenti'.",
+   "applied": true
+  },
+  {
+   "term_id": "T240",
+   "sense": "mental unhappiness",
+   "field": "children",
+   "proposed": "infelicità",
+   "reason": "'tristezza' is already used for śoka/mya ngan (T175, T060); different terms need different renderings.",
+   "applied": true
+  },
+  {
+   "term_id": "T150",
+   "sense": "rejoicing in virtue",
+   "field": "academic",
+   "proposed": "rallegrarsi",
+   "reason": "Inconsistent with T348 (same term yi rang, 'rallegrarsi'); 'rallegrarsi' is the established Italian verb for rejoicing in others' virtue.",
+   "applied": true
+  },
+  {
+   "term_id": "T277",
+   "sense": "grasping at a self",
+   "field": "academic",
+   "proposed": "afferramento dell'io",
+   "reason": "Same Tibetan bdag tu 'dzin pa as T596, rendered differently; 'concezione' loses the idea of grasping. Unify.",
+   "applied": true
+  },
+  {
+   "term_id": "T277",
+   "sense": "grasping at a self",
+   "field": "children",
+   "proposed": "aggrapparsi a un io",
+   "reason": "Same term as T579/T596 with three different children's renderings; unify with the simplest.",
+   "applied": true
+  },
+  {
+   "term_id": "T255",
+   "sense": "three realms",
+   "field": "children",
+   "proposed": "tre reami",
+   "reason": "'tre mondi' is already used for trailokya/'jig rten gsum (T229); khams gsum needs a distinct rendering and matches the academic 'tre reami'.",
+   "applied": true
+  },
+  {
+   "term_id": "T273",
+   "sense": "bag of filth",
+   "field": "academic",
+   "proposed": "sacco di impurità",
+   "reason": "'immondizia' means rubbish/garbage; amedhya is impurity, as in T066 'impurità'.",
+   "applied": true
+  },
+  {
+   "term_id": "T293",
+   "sense": "collection",
+   "field": "academic",
+   "proposed": "insieme",
+   "reason": "'aggregato' is the established Italian term for skandha (phung po); use 'insieme' as in T119 'collection'.",
+   "applied": true
+  },
+  {
+   "term_id": "T297",
+   "sense": "permanent",
+   "field": "children",
+   "proposed": "che dura per sempre",
+   "reason": "Same term rtag/nitya as T126, rendered 'che dura per sempre'; keep consistent with T149/T298 'non dura'.",
+   "applied": true
+  },
+  {
+   "term_id": "T300",
+   "sense": "dedication",
+   "field": "academic",
+   "proposed": "dedica",
+   "reason": "'dedizione' means devotion or commitment; the established term for dedicating merit (bsngo ba) is 'dedica'.",
+   "applied": true
+  },
+  {
+   "term_id": "T312",
+   "sense": "caravan leader",
+   "field": "academic",
+   "proposed": "capo di carovana",
+   "reason": "'condottiero' means military commander or warlord; a sārthavāha is a merchant guiding a caravan.",
+   "applied": true
+  },
+  {
+   "term_id": "T322",
+   "sense": "Brahmā (god)",
+   "field": "children",
+   "proposed": "Brahma",
+   "reason": "Children's field uses diacritic-free names (Manjushri, Avalokiteshvara); 'Brahmā' with macron is not child-friendly.",
+   "applied": true
+  },
+  {
+   "term_id": "T323",
+   "sense": "Sugata",
+   "field": "children",
+   "proposed": "Colui che è andato bene",
+   "reason": "Inconsistent with T052 and T194 which render Sugata as 'Colui che è andato bene'.",
+   "applied": true
+  },
+  {
+   "term_id": "T328",
+   "sense": "supreme bodhisattva",
+   "field": "academic",
+   "proposed": "bodhisattva supremo",
+   "reason": "'essere supremo' reads as 'Supreme Being' (God) in Italian; sems dpa' mchog means supreme bodhisattva.",
+   "applied": true
+  },
+  {
+   "term_id": "T258",
+   "sense": "equality of self and others",
+   "field": "academic",
+   "proposed": "eguaglianza tra sé e gli altri",
+   "reason": "Inconsistent with T508/T582 where bdag dang gzhan is rendered 'sé e gli altri'; keep 'sé' throughout.",
+   "applied": true
+  },
+  {
+   "term_id": "T366",
+   "sense": "level of the children of the Victors",
+   "field": "academic",
+   "proposed": "livello dei figli dei Vincitori",
+   "reason": "Follows T034/T143: jina is 'Vincitore'; consistent with the children's field.",
+   "applied": true
+  },
+  {
+   "term_id": "T385",
+   "sense": "child of the Victors",
+   "field": "academic",
+   "proposed": "figlio dei Vincitori",
+   "reason": "Follows T034/T143: jina is 'Vincitore'; same as T110 and children's field.",
+   "applied": true
+  },
+  {
+   "term_id": "T394",
+   "sense": "chapter title: Heedfulness",
+   "field": "academic",
+   "proposed": "Vigilanza",
+   "reason": "apramāda is 'vigilanza' in T121; 'Diligenza' is used for vīrya (T102), so the chapter title is inconsistent and misleading.",
+   "applied": true
+  },
+  {
+   "term_id": "T423",
+   "sense": "regret (variant of འགྱོད་པ)",
+   "field": "academic",
+   "proposed": "rimpianto",
+   "reason": "Variant of T391 'rimpianto'; same word must have the same academic rendering.",
+   "applied": true
+  },
+  {
+   "term_id": "T432",
+   "sense": "apprehension, fear of wrongdoing",
+   "field": "academic",
+   "proposed": "timore",
+   "reason": "'apprensione' means worry in Italian and is also used for ālambana in T286; 'timore' conveys fear of wrongdoing.",
+   "applied": true
+  },
+  {
+   "term_id": "T437",
+   "sense": "supreme leisure",
+   "field": "academic",
+   "proposed": "agio supremo",
+   "reason": "Inconsistent with dal ba rendered 'agio' in T221 and T195; 'opportunità' changes the term.",
+   "applied": true
+  },
+  {
+   "term_id": "T438",
+   "sense": "weapon of wisdom",
+   "field": "children",
+   "proposed": "spada della saggezza",
+   "reason": "'lama' is ambiguous in a Tibetan Buddhist text (a teacher); 'spada' is clear for children.",
+   "applied": true
+  },
+  {
+   "term_id": "T445",
+   "sense": "dedication",
+   "field": "academic",
+   "proposed": "dedica",
+   "reason": "'dedicazione' is not the usual term and conflicts with T300; use 'dedica' for dedicating merit.",
+   "applied": true
+  },
+  {
+   "term_id": "T460",
+   "sense": "heedlessness",
+   "field": "academic",
+   "proposed": "negligenza",
+   "reason": "'noncuranza' means indifference; consistent with T141 'negligenza' for pramāda.",
+   "applied": true
+  },
+  {
+   "term_id": "T464",
+   "sense": "perversity",
+   "field": "academic",
+   "proposed": "capovolgimento",
+   "reason": "'perversità' suggests moral wickedness; viparyaya means inversion or distorted view.",
+   "applied": true
+  },
+  {
+   "term_id": "T470",
+   "sense": "wrong livelihood",
+   "field": "academic",
+   "proposed": "sostentamento errato",
+   "reason": "'sussistenza errata' is unnatural; the Eightfold Path term is based on 'sostentamento'.",
+   "applied": true
+  },
+  {
+   "term_id": "T491",
+   "sense": "field of the Victors",
+   "field": "academic",
+   "proposed": "campo dei Vincitori",
+   "reason": "jina is 'Vincitore' (T034, T143); academic field should match the children's field.",
+   "applied": true
+  },
+  {
+   "term_id": "T532",
+   "sense": "Victor Lion",
+   "field": "academic",
+   "proposed": "Leone Vincitore",
+   "reason": "jina is 'Vincitore' (T034, T143); matches children's field.",
+   "applied": true
+  },
+  {
+   "term_id": "T502",
+   "sense": "self-contempt",
+   "field": "children",
+   "proposed": "disprezzare se stessi",
+   "reason": "'guardarsi dall'alto in basso' suggests arrogance toward others; the meaning is despising oneself.",
+   "applied": true
+  },
+  {
+   "term_id": "T504",
+   "sense": "idleness",
+   "field": "children",
+   "proposed": "il non far niente",
+   "reason": "'pigrizia' is already used for ālasya (T123) and T537; idleness (snyom las) needs a distinct rendering.",
+   "applied": true
+  },
+  {
+   "term_id": "T537",
+   "sense": "lethargy",
+   "field": "children",
+   "proposed": "poca voglia di fare",
+   "reason": "'pigrizia' is already used for ālasya laziness (T123); lethargy/sluggishness needs a distinct rendering.",
+   "applied": true
+  },
+  {
+   "term_id": "T582",
+   "sense": "exchange of self and others",
+   "field": "academic",
+   "proposed": "scambio tra sé e gli altri",
+   "reason": "Same term as T508, rendered 'scambio tra sé e gli altri'; keep identical.",
+   "applied": true
+  },
+  {
+   "term_id": "T509",
+   "sense": "Speaker of Truth",
+   "field": "academic",
+   "proposed": "Colui che dice la verità",
+   "reason": "Inconsistent capitalisation with T396 (same epithet): 'verità' should be lower case.",
+   "applied": true
+  },
+  {
+   "term_id": "T517",
+   "sense": "relinquishment",
+   "field": "academic",
+   "proposed": "abbandono",
+   "reason": "'rinuncia' is used for niḥsāra/renunciation (T456, T400); tyāga/dor ba is 'abbandono' as in T398.",
+   "applied": true
+  },
+  {
+   "term_id": "T518",
+   "sense": "relinquishment",
+   "field": "academic",
+   "proposed": "abbandono",
+   "reason": "'rinuncia' is used for renunciation (T456, T400); tyāga is 'abbandono' as in T398.",
+   "applied": true
+  },
+  {
+   "term_id": "T522",
+   "sense": "fault",
+   "field": "academic",
+   "proposed": "colpa",
+   "reason": "Same English 'fault' as T098 ཉེས་པ (colpa); same Tibetan root should have the same Italian.",
+   "applied": true
+  },
+  {
+   "term_id": "T522",
+   "sense": "fault",
+   "field": "children",
+   "proposed": "sbaglio",
+   "reason": "Same English 'fault' as T098, which uses 'sbaglio'; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T541",
+   "sense": "calm abiding",
+   "field": "academic",
+   "proposed": "quiete mentale",
+   "reason": "'calma dimorante' is a calque, not an established Italian term for śamatha; 'quiete mentale' is the usual rendering.",
+   "applied": true
+  },
+  {
+   "term_id": "T545",
+   "sense": "mind of disillusionment",
+   "field": "academic",
+   "proposed": "mente della disillusione",
+   "reason": "Same saṃvega as T483 'disillusione'; 'disincanto' is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T555",
+   "sense": "path of existence",
+   "field": "children",
+   "proposed": "sentiero della vita",
+   "reason": "Same concept as T382 which uses 'sentiero della vita'.",
+   "applied": true
+  },
+  {
+   "term_id": "T556",
+   "sense": "recollection of the Buddha",
+   "field": "children",
+   "proposed": "tenere il Buddha nella mente",
+   "reason": "Same term as T411 (buddhānusmṛti), rendered 'tenere il Buddha nella mente'; keep identical.",
+   "applied": true
+  },
+  {
+   "term_id": "T566",
+   "sense": "cage of filth",
+   "field": "academic",
+   "proposed": "gabbia di impurità",
+   "reason": "'immondizia' means rubbish/garbage; amedhya is impurity (T066), consistent with T273.",
+   "applied": true
+  },
+  {
+   "term_id": "T568",
+   "sense": "worm born of filth",
+   "field": "academic",
+   "proposed": "verme nato dall'impurità",
+   "reason": "'immondizia' means rubbish/garbage; use impurity consistently with T066 and T273.",
+   "applied": true
+  },
+  {
+   "term_id": "T579",
+   "sense": "self-grasping",
+   "field": "academic",
+   "proposed": "afferramento dell'io",
+   "reason": "'aggrappamento' is not a standard Italian word; unify with T277/T596.",
+   "applied": true
+  },
+  {
+   "term_id": "T596",
+   "sense": "grasping at self",
+   "field": "academic",
+   "proposed": "afferramento dell'io",
+   "reason": "Same term as T277 and T579 but rendered 'appropriazione dell'io', which means something else; unify.",
+   "applied": true
+  },
+  {
+   "term_id": "T596",
+   "sense": "grasping at self",
+   "field": "children",
+   "proposed": "aggrapparsi a un io",
+   "reason": "'afferrare un io' differs from T277/T579; unify with 'aggrapparsi a un io'.",
+   "applied": true
+  },
+  {
+   "term_id": "T585",
+   "sense": "own welfare",
+   "field": "academic",
+   "proposed": "bene proprio",
+   "reason": "Inconsistent with T064 'bene proprio' for the same English 'own welfare'; 'benessere' shifts to comfort.",
+   "applied": true
+  },
+  {
+   "term_id": "T586",
+   "sense": "own welfare",
+   "field": "academic",
+   "proposed": "bene proprio",
+   "reason": "Inconsistent with T064 'bene proprio'; 'benessere' shifts to comfort.",
+   "applied": true
+  },
+  {
+   "term_id": "T585",
+   "sense": "own welfare",
+   "field": "children",
+   "proposed": "il proprio bene",
+   "reason": "Ungrammatical without the article; matches T064 'il proprio bene'.",
+   "applied": true
+  },
+  {
+   "term_id": "T586",
+   "sense": "own welfare",
+   "field": "children",
+   "proposed": "il proprio bene",
+   "reason": "Ungrammatical without the article; matches T064 'il proprio bene'.",
+   "applied": true
+  },
+  {
+   "term_id": "T621",
+   "sense": "latent tendency of emptiness",
+   "field": "children",
+   "proposed": "abitudine alla vacuità",
+   "reason": "Consistent with 'vacuità' for śūnyatā (T083, T136); 'vuoto' misleads as a plain void.",
+   "applied": true
+  },
+  {
+   "term_id": "T654",
+   "sense": "conceptual clinging",
+   "field": "academic",
+   "proposed": "attaccamento concettuale",
+   "reason": "'aderenza concettuale' is unnatural Italian; clinging (zhen pa) is 'attaccamento' as elsewhere.",
+   "applied": true
+  },
+  {
+   "term_id": "T706",
+   "sense": "state without leisure",
+   "field": "academic",
+   "proposed": "stato privo di agio",
+   "reason": "'non-agio' is an unidiomatic calque; keep 'agio' (T221) but express the negation naturally.",
+   "applied": true
+  },
+  {
+   "term_id": "T708",
+   "sense": "treasury of space",
+   "field": "academic",
+   "proposed": "tesoro dello spazio",
+   "reason": "'tesoreria' means a finance office; mdzod is a treasure-store ('tesoro', as in the children's field).",
+   "applied": true
+  },
+  {
+   "term_id": "T724",
+   "sense": "hardship",
+   "field": "academic",
+   "proposed": "privazione",
+   "reason": "'austerità' is already used for tapas (T122); duṣkaracaryā/dka' ba spyad pa needs a distinct term for hardship.",
+   "applied": true
+  },
+  {
+   "term_id": "T725",
+   "sense": "welfare of others",
+   "field": "academic",
+   "proposed": "bene altrui",
+   "reason": "Inconsistent with T072 'bene altrui' (same concept); 'benessere' shifts the meaning to comfort.",
+   "applied": true
+  },
+  {
+   "term_id": "T732",
+   "sense": "spiritual friend",
+   "field": "children",
+   "proposed": "amico che guida",
+   "reason": "Same term kalyāṇamitra as T446, rendered 'amico che guida'; keep identical.",
+   "applied": true
+  }
+ ]
+}

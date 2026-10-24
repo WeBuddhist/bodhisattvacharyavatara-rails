@@ -1,0 +1,462 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T001",
+    "senses": [
+     {
+      "sense": "suffering",
+      "academic": "souffrance",
+      "children": "souffrance",
+      "note": "duḥkha; 'souffrance' is the established French Buddhist rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T002",
+    "senses": [
+     {
+      "sense": "sentient beings",
+      "academic": "être sensible",
+      "children": "être vivant",
+      "note": "sattva; 'être sensible' standard in French Buddhist literature."
+     }
+    ]
+   },
+   {
+    "term_id": "T003",
+    "senses": [
+     {
+      "sense": "mind",
+      "academic": "esprit",
+      "children": "esprit",
+      "note": "citta; 'esprit' is the usual French rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T004",
+    "senses": [
+     {
+      "sense": "affliction",
+      "academic": "affliction",
+      "children": "émotion perturbatrice",
+      "note": "kleśa; 'affliction' established in French Buddhist studies."
+     }
+    ]
+   },
+   {
+    "term_id": "T005",
+    "senses": [
+     {
+      "sense": "living beings of the world",
+      "academic": "être errant",
+      "children": "être",
+      "note": "jagat; beings wandering through saṃsāra."
+     }
+    ]
+   },
+   {
+    "term_id": "T006",
+    "senses": [
+     {
+      "sense": "body",
+      "academic": "corps",
+      "children": "corps",
+      "note": "kāya; everyday word kept in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T007",
+    "senses": [
+     {
+      "sense": "merit",
+      "academic": "mérite",
+      "children": "réserve de bonté",
+      "note": "puṇya; children phrasing keeps the 'store' idea."
+     }
+    ]
+   },
+   {
+    "term_id": "T008",
+    "senses": [
+     {
+      "sense": "Buddha",
+      "academic": "Bouddha",
+      "children": "Bouddha",
+      "note": "Standard French spelling of the name."
+     }
+    ]
+   },
+   {
+    "term_id": "T009",
+    "senses": [
+     {
+      "sense": "good quality",
+      "academic": "bonne qualité",
+      "children": "bonne qualité",
+      "note": "guṇa; same everyday phrase in both registers, as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T010",
+    "senses": [
+     {
+      "sense": "bodhisattva",
+      "academic": "bodhisattva",
+      "children": "héros de l'éveil",
+      "note": "Sanskrit kept academically; children phrase reused in title T027."
+     }
+    ]
+   },
+   {
+    "term_id": "T011",
+    "senses": [
+     {
+      "sense": "misdeed",
+      "academic": "méfait",
+      "children": "mauvaise action",
+      "note": "pāpa; same renderings as duplicate entry T025."
+     }
+    ]
+   },
+   {
+    "term_id": "T012",
+    "senses": [
+     {
+      "sense": "the awakening mind",
+      "academic": "bodhicitta",
+      "children": "esprit d'éveil",
+      "note": "Sanskrit retained in academic register, mirroring English."
+     }
+    ]
+   },
+   {
+    "term_id": "T013",
+    "senses": [
+     {
+      "sense": "world",
+      "academic": "monde",
+      "children": "monde",
+      "note": "loka; everyday French word."
+     }
+    ]
+   },
+   {
+    "term_id": "T014",
+    "senses": [
+     {
+      "sense": "virtue",
+      "academic": "vertu",
+      "children": "bonne action",
+      "note": "kuśala; wholesome deed in plain phrasing for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T015",
+    "senses": [
+     {
+      "sense": "happiness",
+      "academic": "bonheur",
+      "children": "bonheur",
+      "note": "sukha; same renderings as duplicate entry T033."
+     }
+    ]
+   },
+   {
+    "term_id": "T016",
+    "senses": [
+     {
+      "sense": "mind",
+      "academic": "esprit",
+      "children": "esprit",
+      "note": "manas; same French as citta, since English gives 'mind' for both."
+     }
+    ]
+   },
+   {
+    "term_id": "T017",
+    "senses": [
+     {
+      "sense": "cycle of rebirth, saṃsāra",
+      "academic": "saṃsāra",
+      "children": "cycle des renaissances",
+      "note": "Sanskrit term retained academically, as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T018",
+    "senses": [
+     {
+      "sense": "hell",
+      "academic": "enfer",
+      "children": "enfer",
+      "note": "naraka; everyday French word."
+     }
+    ]
+   },
+   {
+    "term_id": "T019",
+    "senses": [
+     {
+      "sense": "the Buddha's teaching",
+      "academic": "Dharma",
+      "children": "enseignements",
+      "note": "Dharma capitalized for the teaching; plural matches children English."
+     },
+     {
+      "sense": "things as such (chapter 9)",
+      "academic": "phénomène",
+      "children": "chose qui apparaît",
+      "note": "Technical sense of chapter 9; 'phénomène' is standard French."
+     }
+    ]
+   },
+   {
+    "term_id": "T020",
+    "senses": [
+     {
+      "sense": "awakening",
+      "academic": "éveil",
+      "children": "éveil",
+      "note": "bodhi; 'éveil' is the established French rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T021",
+    "senses": [
+     {
+      "sense": "pride",
+      "academic": "orgueil",
+      "children": "orgueil",
+      "note": "māna; 'orgueil' standard for the affliction of pride."
+     }
+    ]
+   },
+   {
+    "term_id": "T022",
+    "senses": [
+     {
+      "sense": "self",
+      "academic": "soi",
+      "children": "soi",
+      "note": "ātman; 'soi' is the standard French philosophical rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T023",
+    "senses": [
+     {
+      "sense": "condition",
+      "academic": "condition",
+      "children": "circonstance",
+      "note": "pratyaya; children uses the everyday near-synonym."
+     }
+    ]
+   },
+   {
+    "term_id": "T024",
+    "senses": [
+     {
+      "sense": "result of action",
+      "academic": "résultat",
+      "children": "résultat",
+      "note": "phala; follows approved English 'result' ('fruit' also current)."
+     }
+    ]
+   },
+   {
+    "term_id": "T025",
+    "senses": [
+     {
+      "sense": "misdeed",
+      "academic": "méfait",
+      "children": "mauvaise action",
+      "note": "pāpa; identical to T011 as English is identical."
+     }
+    ]
+   },
+   {
+    "term_id": "T026",
+    "senses": [
+     {
+      "sense": "cause",
+      "academic": "cause",
+      "children": "cause",
+      "note": "kāraṇa; everyday French word."
+     }
+    ]
+   },
+   {
+    "term_id": "T027",
+    "senses": [
+     {
+      "sense": "title of the work",
+      "academic": "Entrée dans la voie du bodhisattva",
+      "children": "Entrée dans la voie du héros de l'éveil",
+      "note": "Title; children version reuses 'héros de l'éveil' from T010."
+     }
+    ]
+   },
+   {
+    "term_id": "T028",
+    "senses": [
+     {
+      "sense": "attachment, clinging",
+      "academic": "attachement",
+      "children": "s'accrocher",
+      "note": "lobha rendered per approved English; children uses plain verb."
+     }
+    ]
+   },
+   {
+    "term_id": "T029",
+    "senses": [
+     {
+      "sense": "entity",
+      "academic": "entité",
+      "children": "chose",
+      "note": "bhāva/vastu; chapter 9 ontology term."
+     }
+    ]
+   },
+   {
+    "term_id": "T030",
+    "senses": [
+     {
+      "sense": "anger",
+      "academic": "colère",
+      "children": "colère",
+      "note": "krodha; everyday French word."
+     }
+    ]
+   },
+   {
+    "term_id": "T031",
+    "senses": [
+     {
+      "sense": "illusion",
+      "academic": "illusion",
+      "children": "illusion",
+      "note": "māyā; 'illusion' established and child-friendly."
+     }
+    ]
+   },
+   {
+    "term_id": "T032",
+    "senses": [
+     {
+      "sense": "god",
+      "academic": "dieu",
+      "children": "dieu",
+      "note": "deva; 'dieu' is the usual French rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T033",
+    "senses": [
+     {
+      "sense": "happiness",
+      "academic": "bonheur",
+      "children": "bonheur",
+      "note": "sukha; identical to T015 as English is identical."
+     }
+    ]
+   },
+   {
+    "term_id": "T034",
+    "senses": [
+     {
+      "sense": "epithet of the Buddhas",
+      "academic": "Victorieux",
+      "children": "le Victorieux",
+      "note": "jina; 'le Victorieux' is the established French epithet."
+     }
+    ]
+   },
+   {
+    "term_id": "T035",
+    "senses": [
+     {
+      "sense": "hatred",
+      "academic": "haine",
+      "children": "haine",
+      "note": "dveṣa; everyday French word."
+     }
+    ]
+   },
+   {
+    "term_id": "T036",
+    "senses": [
+     {
+      "sense": "embodied being",
+      "academic": "être incarné",
+      "children": "être qui a un corps",
+      "note": "śarīrin/dehin; children phrase spells out the meaning plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T037",
+    "senses": [
+     {
+      "sense": "patience",
+      "academic": "patience",
+      "children": "patience",
+      "note": "kṣānti; everyday French word."
+     }
+    ]
+   },
+   {
+    "term_id": "T038",
+    "senses": [
+     {
+      "sense": "delusion",
+      "academic": "aveuglement",
+      "children": "confusion",
+      "note": "moha; 'aveuglement' standard for the third poison."
+     }
+    ]
+   },
+   {
+    "term_id": "T039",
+    "senses": [
+     {
+      "sense": "eon, long age",
+      "academic": "éon",
+      "children": "très longue période",
+      "note": "kalpa; 'éon' used in French academic writing."
+     }
+    ]
+   },
+   {
+    "term_id": "T040",
+    "senses": [
+     {
+      "sense": "unhappy rebirth state",
+      "academic": "monde inférieur",
+      "children": "monde malheureux",
+      "note": "durgati; 'mauvaise destinée' also current in French."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4101,
+  "output": 2329,
+  "thinking": 8110,
+  "cache_read": 0,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 271.61,
+ "attempt": 1
+}

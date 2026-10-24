@@ -1,0 +1,624 @@
+{
+ "builder": "kimi-k3",
+ "reviewer": "claude-sonnet-5-5",
+ "objections": [
+  {
+   "term_id": "T119",
+   "sense": "accumulation (of merit and wisdom)",
+   "field": "children",
+   "proposed": "provisiones de bondad y sabiduría",
+   "reason": "'bondad acumulada' is already the children's rendering of puṇya (T007); saṃbhāra needs a distinct term (provisions).",
+   "applied": true
+  },
+  {
+   "term_id": "T116",
+   "sense": "Tathāgata",
+   "field": "children",
+   "proposed": "el que se fue así",
+   "reason": "Same epithet as T070; inconsistent wording and capitalisation ('el Que Así se Fue' vs 'el que se fue así').",
+   "applied": true
+  },
+  {
+   "term_id": "T052",
+   "sense": "Sugata",
+   "field": "children",
+   "proposed": "el que se fue bien",
+   "reason": "English is 'Well-Gone One'; 'llegó a la felicidad' departs from it and breaks parallel with 'el que se fue así' (Tathāgata).",
+   "applied": true
+  },
+  {
+   "term_id": "T073",
+   "sense": "name of the bodhisattva",
+   "field": "children",
+   "proposed": "Mañjushri",
+   "reason": "'Mányushri' is a non-standard respelling and inconsistent with T206 'Mañjushri'; ñ renders the Sanskrit sound correctly in Spanish.",
+   "applied": true
+  },
+  {
+   "term_id": "T060",
+   "sense": "nirvāṇa",
+   "field": "children",
+   "proposed": "liberación de la tristeza",
+   "reason": "English is 'freedom from sorrow'; T152 uses 'liberación de la tristeza'. 'Sufrimiento' is the rendering of duḥkha (T001); keep distinct.",
+   "applied": true
+  },
+  {
+   "term_id": "T065",
+   "sense": "childish person, fool",
+   "field": "children",
+   "proposed": "persona necia",
+   "reason": "Same Sanskrit bāla as T176, where children gets 'persona necia'; 'persona infantil' is ambiguous and inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T091",
+   "sense": "spiritual teacher",
+   "field": "academic",
+   "proposed": "maestro espiritual",
+   "reason": "'maestro' is also used for ācārya (T202); guru needs a distinct academic rendering.",
+   "applied": true
+  },
+  {
+   "term_id": "T119",
+   "sense": "collection (of parts)",
+   "field": "academic",
+   "proposed": "conjunto",
+   "reason": "T293 (same word tshogs pa, 'collection') uses 'conjunto', the better Spanish word; 'colección' suggests a set of objects, not parts of a whole.",
+   "applied": true
+  },
+  {
+   "term_id": "T121",
+   "sense": "heedfulness",
+   "field": "academic",
+   "proposed": "esmero",
+   "reason": "'diligencia' is already used for vīrya (T102) and yatna (T216); bag yod (apramāda) is care/conscientiousness, not effort.",
+   "applied": true
+  },
+  {
+   "term_id": "T121",
+   "sense": "heedfulness",
+   "field": "children",
+   "proposed": "cuidado",
+   "reason": "'atención cuidadosa' echoes 'atención plena' (smṛti); simpler and distinct.",
+   "applied": true
+  },
+  {
+   "term_id": "T141",
+   "sense": "heedlessness",
+   "field": "academic",
+   "proposed": "negligencia",
+   "reason": "'indiligencia' is not a normal Spanish word; negligencia is the natural opposite of esmero.",
+   "applied": true
+  },
+  {
+   "term_id": "T131",
+   "sense": "lifetime",
+   "field": "academic",
+   "proposed": "vida",
+   "reason": "'existencia' is the rendering of bhava (T086); janman/tshe rabs means a lifetime.",
+   "applied": true
+  },
+  {
+   "term_id": "T161",
+   "sense": "sūtra",
+   "field": "children",
+   "proposed": "texto de enseñanzas",
+   "reason": "Same word as T125 (mdo); children rendering should match; 'escritura' is also used for āgama (T085).",
+   "applied": true
+  },
+  {
+   "term_id": "T151",
+   "sense": "protector, saviour",
+   "field": "children",
+   "proposed": "el que salva",
+   "reason": "'Protector' is already the rendering of nātha (T045/T087); tāyin (skyob pa, one who saves) must be distinct.",
+   "applied": true
+  },
+  {
+   "term_id": "T168",
+   "sense": "own interest",
+   "field": "children",
+   "proposed": "bien de uno mismo",
+   "reason": "Same Sanskrit svārtha as T064, which uses 'bien de uno mismo'; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T172",
+   "sense": "aspiration, zeal",
+   "field": "children",
+   "proposed": "ganas firmes",
+   "reason": "'deseo intenso' is too close to craving ('deseo fuerte', T081) and sounds negative for a positive mental factor.",
+   "applied": true
+  },
+  {
+   "term_id": "T176",
+   "sense": "childish person",
+   "field": "academic",
+   "proposed": "necio",
+   "reason": "Same Sanskrit bāla as T065, where academic is 'necio'; the two entries have swapped academic and children renderings.",
+   "applied": true
+  },
+  {
+   "term_id": "T189",
+   "sense": "rajas, one of the three guṇas",
+   "field": "children",
+   "proposed": "energía inquieta",
+   "reason": "'inquietud' is already used for auddhatya (T234); rajas (Sāṃkhya activity) needs a distinct rendering.",
+   "applied": true
+  },
+  {
+   "term_id": "T190",
+   "sense": "coarse",
+   "field": "academic",
+   "proposed": "burdo",
+   "reason": "'grosero' means rude in Spanish; burdo (opposed to sutil) is the established rendering of sthūla/rags pa.",
+   "applied": true
+  },
+  {
+   "term_id": "T190",
+   "sense": "coarse",
+   "field": "children",
+   "proposed": "grueso",
+   "reason": "'áspero' means rough to the touch; 'grueso' pairs naturally with 'fino' (sūkṣma, T670) and matches T669.",
+   "applied": true
+  },
+  {
+   "term_id": "T194",
+   "sense": "child of the Sugata",
+   "field": "children",
+   "proposed": "hijo del que se fue bien",
+   "reason": "'Bien Avenido' is not a rendering of Well-Gone One and is meaningless; align with Sugata (T052).",
+   "applied": true
+  },
+  {
+   "term_id": "T195",
+   "sense": "leisure and endowment",
+   "field": "academic",
+   "proposed": "libertades y dotes",
+   "reason": "'ocio y dotación' is not the established term; Spanish usage is 'libertades y dotes' (the eight freedoms and ten endowments).",
+   "applied": true
+  },
+  {
+   "term_id": "T221",
+   "sense": "leisure",
+   "field": "academic",
+   "proposed": "libertad",
+   "reason": "'ocio' now suggests idle recreation; dal ba here means freedom from adverse conditions, as in 'libertades y dotes'.",
+   "applied": true
+  },
+  {
+   "term_id": "T185",
+   "sense": "continuum",
+   "field": "academic",
+   "proposed": "continuum",
+   "reason": "Same Sanskrit saṃtāna as T134, which uses 'continuum'; 'continuo' is an adjective and inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T211",
+   "sense": "pass into nirvāṇa",
+   "field": "children",
+   "proposed": "liberación de la tristeza",
+   "reason": "Match T152 and the English 'freedom from sorrow'; 'libertad' is used for vimokṣa (T220).",
+   "applied": true
+  },
+  {
+   "term_id": "T219",
+   "sense": "epithet of the Buddha",
+   "field": "children",
+   "proposed": "el Bendito",
+   "reason": "'Bienaventurado' is too difficult for readers aged 8 to 12; 'el Bendito' is simple and equivalent to Blessed One.",
+   "applied": true
+  },
+  {
+   "term_id": "T240",
+   "sense": "mental unhappiness",
+   "field": "children",
+   "proposed": "malestar",
+   "reason": "'tristeza' is already used for śoka (T175) and nirvāṇa; yid mi bde ba is mental discomfort or unease.",
+   "applied": true
+  },
+  {
+   "term_id": "T244",
+   "sense": "adventitious",
+   "field": "academic",
+   "proposed": "adventicio",
+   "reason": "'advenedizo' means upstart or social climber in Spanish; 'adventicio' is the established term for adventitious (stains, defilements).",
+   "applied": true
+  },
+  {
+   "term_id": "T260",
+   "sense": "aspiration",
+   "field": "children",
+   "proposed": "ganas firmes",
+   "reason": "'deseo fuerte' is the children's rendering of craving (T081) and sounds negative; match T172.",
+   "applied": true
+  },
+  {
+   "term_id": "T268",
+   "sense": "discursive thought",
+   "field": "children",
+   "proposed": "pensamiento saltarín",
+   "reason": "Identical to T133 'pensamiento inquieto' (rnam rtog); vitarka needs its own wording (thought jumping from thing to thing).",
+   "applied": true
+  },
+  {
+   "term_id": "T268",
+   "sense": "conceptual thought",
+   "field": "children",
+   "proposed": "pensamiento inquieto",
+   "reason": "'idea' is the content, not the act of conceptualising; this is the same word as T133, which uses 'pensamiento inquieto'.",
+   "applied": true
+  },
+  {
+   "term_id": "T270",
+   "sense": "friend",
+   "field": "children",
+   "proposed": "persona querida",
+   "reason": "'amigo' is already the children's rendering of mitra (T269); priya means a loved one, as in the academic field.",
+   "applied": true
+  },
+  {
+   "term_id": "T277",
+   "sense": "grasping at a self",
+   "field": "academic",
+   "proposed": "aferramiento a un yo",
+   "reason": "'aprehensión' suggests fear in Spanish and is also used for ālambana (T286); 'aferramiento' renders 'dzin pa (grasping).",
+   "applied": true
+  },
+  {
+   "term_id": "T278",
+   "sense": "gain and honor",
+   "field": "children",
+   "proposed": "ganancia y honor",
+   "reason": "'respeto' differs from T096 satkāra, whose children rendering is 'honor'.",
+   "applied": true
+  },
+  {
+   "term_id": "T284",
+   "sense": "latent tendency",
+   "field": "academic",
+   "proposed": "impronta",
+   "reason": "vāsanā (bag chags) is established in Spanish as 'impronta'; 'tendencia latente' suggests anusaya, the dormant affliction.",
+   "applied": true
+  },
+  {
+   "term_id": "T300",
+   "sense": "dedication",
+   "field": "academic",
+   "proposed": "dedicatoria",
+   "reason": "'dedicación' means commitment or devotion in Spanish; the dedication of merit is established as 'dedicatoria'.",
+   "applied": true
+  },
+  {
+   "term_id": "T323",
+   "sense": "Sugata",
+   "field": "children",
+   "proposed": "el que se fue bien",
+   "reason": "'el Bien Llegado' does not render Well-Gone One; align with T052 and T194.",
+   "applied": true
+  },
+  {
+   "term_id": "T328",
+   "sense": "supreme bodhisattva",
+   "field": "academic",
+   "proposed": "bodhisattva supremo",
+   "reason": "'ser supremo' reads as 'the Supreme Being' (God) in Spanish; the sense is the supreme bodhisattva (sems dpa' mchog).",
+   "applied": true
+  },
+  {
+   "term_id": "T367",
+   "sense": "generation of bodhicitta",
+   "field": "academic",
+   "proposed": "generación de la bodhicitta",
+   "reason": "'del bodhicitta' conflicts with 'la bodhicitta' used in T474; gender of bodhicitta must be consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T394",
+   "sense": "chapter title: Heedfulness",
+   "field": "academic",
+   "proposed": "El esmero",
+   "reason": "'La atención' collides with 'atención plena' (smṛti); align with the rendering of apramāda (T121 'esmero').",
+   "applied": true
+  },
+  {
+   "term_id": "T394",
+   "sense": "chapter title: Heedfulness",
+   "field": "children",
+   "proposed": "El cuidado",
+   "reason": "Align with T121 children rendering 'cuidado' (apramāda), replacing the earlier 'atención cuidadosa' echo.",
+   "applied": false,
+   "kept": "unusable or no change"
+  },
+  {
+   "term_id": "T400",
+   "sense": "mind of renunciation",
+   "field": "academic",
+   "proposed": "mente de abstención",
+   "reason": "spong ba/virati means abstaining from harm; 'renuncia' is too close to 'renunciación' (niḥsāra, T456) and 'desprendimiento' (T398).",
+   "applied": true
+  },
+  {
+   "term_id": "T403",
+   "sense": "Brahmā",
+   "field": "children",
+   "proposed": "Brahma",
+   "reason": "Children's fields drop diacritics; T322 (same god) uses 'Brahma'.",
+   "applied": true
+  },
+  {
+   "term_id": "T409",
+   "sense": "name of a hell",
+   "field": "academic",
+   "proposed": "Infierno Destructor",
+   "reason": "Hell names are capitalised in the academic field (T232 'Infierno Aplastante'); draft has mixed case.",
+   "applied": true
+  },
+  {
+   "term_id": "T409",
+   "sense": "name of a hell",
+   "field": "children",
+   "proposed": "infierno destructor",
+   "reason": "Children's field uses lowercase for hell names (T232 'infierno aplastante'); draft is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T432",
+   "sense": "apprehension, fear of wrongdoing",
+   "field": "academic",
+   "proposed": "temor",
+   "reason": "'aprensión' in Spanish means unfounded worry or squeamishness; the sense is fear of doing wrong, also near 'aprehensión' (T286).",
+   "applied": true
+  },
+  {
+   "term_id": "T437",
+   "sense": "supreme leisure",
+   "field": "academic",
+   "proposed": "libertad suprema",
+   "reason": "'ocio' suggests idle recreation; use 'libertad' as for dal ba (T221), as in 'libertades y dotes'.",
+   "applied": true
+  },
+  {
+   "term_id": "T444",
+   "sense": "Three Heaps Sūtra",
+   "field": "academic",
+   "proposed": "Sūtra de los tres montones",
+   "reason": "'agregados' means the five skandhas in Spanish; the English is 'Heaps' and the children's field already says 'montones'.",
+   "applied": true
+  },
+  {
+   "term_id": "T445",
+   "sense": "dedication",
+   "field": "academic",
+   "proposed": "dedicatoria",
+   "reason": "'dedicación' means commitment in Spanish; 'dedicatoria' is the established term for dedicating merit (see T300).",
+   "applied": true
+  },
+  {
+   "term_id": "T464",
+   "sense": "perversity",
+   "field": "academic",
+   "proposed": "distorsión",
+   "reason": "'perversión' suggests moral or sexual perversion; viparyaya (phyin ci log) means distorted, inverted view.",
+   "applied": true
+  },
+  {
+   "term_id": "T493",
+   "sense": "supreme good quality",
+   "field": "children",
+   "proposed": "la mejor cualidad",
+   "reason": "'la mejor buena cualidad' is clumsy and repeats 'buena'.",
+   "applied": true
+  },
+  {
+   "term_id": "T504",
+   "sense": "idleness",
+   "field": "children",
+   "proposed": "no hacer nada",
+   "reason": "'pereza' is already the rendering of ālasya (T123); avyāpāra (snyom las) is idleness, not laziness.",
+   "applied": true
+  },
+  {
+   "term_id": "T508",
+   "sense": "exchange of self and others",
+   "field": "academic",
+   "proposed": "intercambio del yo con los demás",
+   "reason": "Same Sanskrit as T582, which has a different wording; use one rendering for both.",
+   "applied": false,
+   "kept": "unusable or no change"
+  },
+  {
+   "term_id": "T517",
+   "sense": "relinquishment",
+   "field": "academic",
+   "proposed": "desprendimiento",
+   "reason": "'renuncia' is too close to 'renunciación' (niḥsāra, T456); use desprendimiento as for tyāga (T398).",
+   "applied": true
+  },
+  {
+   "term_id": "T518",
+   "sense": "relinquishment",
+   "field": "academic",
+   "proposed": "desprendimiento",
+   "reason": "'renuncia' is too close to 'renunciación' (niḥsāra, T456); use desprendimiento as for tyāga (T398).",
+   "applied": true
+  },
+  {
+   "term_id": "T537",
+   "sense": "lethargy",
+   "field": "children",
+   "proposed": "pesadez",
+   "reason": "'pereza' is already used for ālasya (T123) and avyāpāra; sluggishness is heaviness of mind, not laziness.",
+   "applied": true
+  },
+  {
+   "term_id": "T545",
+   "sense": "mind of disillusionment",
+   "field": "academic",
+   "proposed": "mente de desencanto",
+   "reason": "Same saṃvega as T483, which uses 'desencanto'; 'desilusión' means disappointment in Spanish.",
+   "applied": true
+  },
+  {
+   "term_id": "T552",
+   "sense": "praise",
+   "field": "academic",
+   "proposed": "alabanza",
+   "reason": "T480 (stuti, praise) uses 'alabanza'; 'elogio' is inconsistent for the same English term.",
+   "applied": true
+  },
+  {
+   "term_id": "T552",
+   "sense": "praise",
+   "field": "children",
+   "proposed": "alabanza",
+   "reason": "'halago' means flattery, a negative sense; use 'alabanza' as in T480.",
+   "applied": true
+  },
+  {
+   "term_id": "T582",
+   "sense": "exchange of self and others",
+   "field": "academic",
+   "proposed": "intercambio del yo con los demás",
+   "reason": "Same Sanskrit as T508; unify wording ('uno mismo' vs 'yo' and 'cambio' vs 'intercambio').",
+   "applied": true
+  },
+  {
+   "term_id": "T582",
+   "sense": "exchange of self and others",
+   "field": "children",
+   "proposed": "cambiar el yo por los demás",
+   "reason": "Same Sanskrit as T508; unify wording.",
+   "applied": true
+  },
+  {
+   "term_id": "T588",
+   "sense": "next world",
+   "field": "children",
+   "proposed": "la vida siguiente",
+   "reason": "'el otro mundo' idiomatically means the afterlife or death and may frighten children; English is 'next life' (cf. T473).",
+   "applied": true
+  },
+  {
+   "term_id": "T594",
+   "sense": "grasping as \"I\"",
+   "field": "academic",
+   "proposed": "aferramiento como «yo»",
+   "reason": "'aprehensión' suggests fear or arrest in Spanish; 'dzin pa (grasping) is rendered 'aferramiento' in T579.",
+   "applied": true
+  },
+  {
+   "term_id": "T596",
+   "sense": "grasping at self",
+   "field": "academic",
+   "proposed": "aferramiento al yo",
+   "reason": "'aprehensión' suggests fear or arrest in Spanish; use 'aferramiento', as in T579.",
+   "applied": true
+  },
+  {
+   "term_id": "T598",
+   "sense": "obscuration",
+   "field": "academic",
+   "proposed": "oscurecimiento",
+   "reason": "'oscurecimiento' is the preferred spelling and is already used in T642; unify spelling.",
+   "applied": true
+  },
+  {
+   "term_id": "T621",
+   "sense": "latent tendency of emptiness",
+   "field": "academic",
+   "proposed": "impronta de la vacuidad",
+   "reason": "vāsanā (bag chags) is established in Spanish as 'impronta'; see T284.",
+   "applied": true
+  },
+  {
+   "term_id": "T622",
+   "sense": "latent tendency of entities",
+   "field": "academic",
+   "proposed": "impronta de las entidades",
+   "reason": "vāsanā (bag chags) is established in Spanish as 'impronta'; see T284.",
+   "applied": true
+  },
+  {
+   "term_id": "T623",
+   "sense": "non-apprehension",
+   "field": "academic",
+   "proposed": "no-aprehensión",
+   "reason": "Same Tibetan as T691, spelled 'no-aprehensión'; unify the hyphenation.",
+   "applied": true
+  },
+  {
+   "term_id": "T625",
+   "sense": "wish-fulfilling jewel",
+   "field": "academic",
+   "proposed": "joya que concede deseos",
+   "reason": "Same cintāmaṇi as T371 (academic 'joya que concede deseos'); academic fields should match.",
+   "applied": true
+  },
+  {
+   "term_id": "T635",
+   "sense": "afflicted",
+   "field": "academic",
+   "proposed": "afligido",
+   "reason": "'aflijido' is a misspelling of 'afligido'.",
+   "applied": true
+  },
+  {
+   "term_id": "T646",
+   "sense": "one who experiences",
+   "field": "academic",
+   "proposed": "experimentador",
+   "reason": "'experimentante' is not standard Spanish; 'experimentador' is the normal agent noun.",
+   "applied": true
+  },
+  {
+   "term_id": "T668",
+   "sense": "experience",
+   "field": "children",
+   "proposed": "lo que se vive",
+   "reason": "'sensación' is the rendering of vedanā (T049); saṃvitti (myong ba) is experience.",
+   "applied": true
+  },
+  {
+   "term_id": "T669",
+   "sense": "coarse",
+   "field": "academic",
+   "proposed": "burdo",
+   "reason": "Same sthūla as T190; 'grosero' means rude in Spanish, 'burdo' is the established term (opposite of sutil).",
+   "applied": true
+  },
+  {
+   "term_id": "T690",
+   "sense": "accumulation of merit",
+   "field": "children",
+   "proposed": "provisiones de bondad",
+   "reason": "Align with the proposed T119 'provisiones de bondad y sabiduría' for saṃbhāra; avoids clash with 'bondad acumulada' (puṇya).",
+   "applied": true
+  },
+  {
+   "term_id": "T706",
+   "sense": "state without leisure",
+   "field": "academic",
+   "proposed": "estado sin libertad",
+   "reason": "'ocio' suggests idle recreation; align with 'libertades y dotes' (T195) and the children's field.",
+   "applied": true
+  },
+  {
+   "term_id": "T724",
+   "sense": "hardship",
+   "field": "academic",
+   "proposed": "penalidades",
+   "reason": "'austeridad' is the rendering of tapas (T122, dka' thub); duṣkaracaryā is arduous hardship, not austerity.",
+   "applied": true
+  },
+  {
+   "term_id": "T732",
+   "sense": "spiritual friend",
+   "field": "children",
+   "proposed": "amigo que guía",
+   "reason": "Same kalyāṇamitra as T446, whose children rendering is 'amigo que guía'; 'buen amigo' loses the sense.",
+   "applied": true
+  }
+ ]
+}

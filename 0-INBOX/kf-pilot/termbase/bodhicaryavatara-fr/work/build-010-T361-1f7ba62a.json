@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T361",
+    "senses": [
+     {
+      "sense": "non-virtue",
+      "academic": "non-vertu",
+      "children": "action qui n'est pas bonne",
+      "note": "Negation of fixed 'vertu'; children phrase avoids clash with 'mauvaise action' (misdeed)."
+     }
+    ]
+   },
+   {
+    "term_id": "T362",
+    "senses": [
+     {
+      "sense": "natural misdeed",
+      "academic": "méfait naturel",
+      "children": "action mauvaise en soi",
+      "note": "Reuses fixed 'méfait'; wrong by nature, not by prohibition."
+     }
+    ]
+   },
+   {
+    "term_id": "T363",
+    "senses": [
+     {
+      "sense": "proscribed misdeed",
+      "academic": "méfait proscrit",
+      "children": "action interdite",
+      "note": "Forbidden by precept rather than wrong in itself; reuses fixed 'méfait'."
+     }
+    ]
+   },
+   {
+    "term_id": "T364",
+    "senses": [
+     {
+      "sense": "joined palms",
+      "academic": "paumes jointes",
+      "children": "mains jointes",
+      "note": "Añjali gesture of respect; children uses everyday 'mains'."
+     }
+    ]
+   },
+   {
+    "term_id": "T365",
+    "senses": [
+     {
+      "sense": "definite liberation",
+      "academic": "libération définitive",
+      "children": "liberté complète",
+      "note": "Certain, irreversible liberation; distinct from T388 'libération'."
+     }
+    ]
+   },
+   {
+    "term_id": "T366",
+    "senses": [
+     {
+      "sense": "level of the children of the Victors",
+      "academic": "niveau des enfants des Victorieux",
+      "children": "étape des enfants des Victorieux",
+      "note": "Bodhisattva stage; reuses fixed 'Victorieux'."
+     }
+    ]
+   },
+   {
+    "term_id": "T367",
+    "senses": [
+     {
+      "sense": "generation of bodhicitta",
+      "academic": "génération du bodhicitta",
+      "children": "naissance de l'esprit d'éveil",
+      "note": "Cittotpāda; reuses fixed bodhicitta renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T368",
+    "senses": [
+     {
+      "sense": "lamp of the Dharma",
+      "academic": "lampe du Dharma",
+      "children": "lampe des enseignements",
+      "note": "Reuses fixed Dharma renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T369",
+    "senses": [
+     {
+      "sense": "intermediate eon of famine",
+      "academic": "éon intermédiaire de famine",
+      "children": "très longue période intermédiaire de famine",
+      "note": "Reuses fixed éon renderings; famine age between greater eons."
+     }
+    ]
+   },
+   {
+    "term_id": "T370",
+    "senses": [
+     {
+      "sense": "possessions",
+      "academic": "possession",
+      "children": "bien",
+      "note": "Bhoga as owned property and enjoyments."
+     }
+    ]
+   },
+   {
+    "term_id": "T371",
+    "senses": [
+     {
+      "sense": "wish-fulfilling jewel",
+      "academic": "joyau qui exauce les vœux",
+      "children": "joyau qui exauce les vœux",
+      "note": "Cintāmaṇi; phrase already simple, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T372",
+    "senses": [
+     {
+      "sense": "excellent vase",
+      "academic": "vase excellent",
+      "children": "vase merveilleux",
+      "note": "Bhadraghaṭa, auspicious inexhaustible treasure vase."
+     }
+    ]
+   },
+   {
+    "term_id": "T373",
+    "senses": [
+     {
+      "sense": "knowledge-mantra",
+      "academic": "mantra de connaissance",
+      "children": "paroles sacrées puissantes",
+      "note": "Vidyā as potent sacred formula."
+     }
+    ]
+   },
+   {
+    "term_id": "T374",
+    "senses": [
+     {
+      "sense": "great medicine",
+      "academic": "grande médecine",
+      "children": "grand remède",
+      "note": "Mahauṣadhi; children uses everyday 'remède'."
+     }
+    ]
+   },
+   {
+    "term_id": "T375",
+    "senses": [
+     {
+      "sense": "wish-fulfilling cow",
+      "academic": "vache d'abondance",
+      "children": "vache qui exauce les vœux",
+      "note": "Kāmadhenu, mythic cow granting every wish."
+     }
+    ]
+   },
+   {
+    "term_id": "T376",
+    "senses": [
+     {
+      "sense": "great elements",
+      "academic": "grand élément",
+      "children": "élément de base",
+      "note": "Mahābhūta: earth, water, fire, wind."
+     }
+    ]
+   },
+   {
+    "term_id": "T377",
+    "senses": [
+     {
+      "sense": "realm of sentient beings",
+      "academic": "domaine des êtres sensibles",
+      "children": "monde des êtres vivants",
+      "note": "Sattvadhātu; reuses fixed sentient being renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T378",
+    "senses": [
+     {
+      "sense": "bodhicitta (honorific)",
+      "academic": "bodhicitta",
+      "children": "esprit d'éveil",
+      "note": "Honorific usage; identical to fixed renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T379",
+    "senses": [
+     {
+      "sense": "human existence",
+      "academic": "existence humaine",
+      "children": "vie humaine",
+      "note": "Precious human rebirth."
+     }
+    ]
+   },
+   {
+    "term_id": "T380",
+    "senses": [
+     {
+      "sense": "family of the Buddhas",
+      "academic": "famille des Bouddhas",
+      "children": "famille des Bouddhas",
+      "note": "Buddhakula; phrase simple enough for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T381",
+    "senses": [
+     {
+      "sense": "nectar",
+      "academic": "nectar",
+      "children": "nectar",
+      "note": "Rasāyana as deathless nectar; everyday French word."
+     }
+    ]
+   },
+   {
+    "term_id": "T382",
+    "senses": [
+     {
+      "sense": "path of existence",
+      "academic": "chemin de l'existence",
+      "children": "chemin de la vie",
+      "note": "Bhavādhva, the course of saṃsāric existence."
+     }
+    ]
+   },
+   {
+    "term_id": "T383",
+    "senses": [
+     {
+      "sense": "universal bridge",
+      "academic": "pont universel",
+      "children": "pont pour tous",
+      "note": "Setu, image of the bodhisattva carrying all beings across."
+     }
+    ]
+   },
+   {
+    "term_id": "T384",
+    "senses": [
+     {
+      "sense": "not knowing",
+      "academic": "non-connaissance",
+      "children": "ne pas savoir",
+      "note": "Ajñāna as simple not-knowing, weaker than fixed 'aveuglement'."
+     }
+    ]
+   },
+   {
+    "term_id": "T385",
+    "senses": [
+     {
+      "sense": "child of the Victors",
+      "academic": "enfant des Victorieux",
+      "children": "enfant des Victorieux",
+      "note": "Jinātmaja, epithet of bodhisattvas; reuses fixed 'Victorieux'."
+     }
+    ]
+   },
+   {
+    "term_id": "T386",
+    "senses": [
+     {
+      "sense": "training",
+      "academic": "entraînement",
+      "children": "apprentissage",
+      "note": "Śikṣā as disciplined training in the precepts."
+     }
+    ]
+   },
+   {
+    "term_id": "T387",
+    "senses": [
+     {
+      "sense": "unsurpassed happiness",
+      "academic": "bonheur insurpassable",
+      "children": "plus grand bonheur",
+      "note": "Reuses fixed 'bonheur'; anuttara means unsurpassed."
+     }
+    ]
+   },
+   {
+    "term_id": "T388",
+    "senses": [
+     {
+      "sense": "liberation",
+      "academic": "libération",
+      "children": "liberté",
+      "note": "Standard mokṣa vocabulary; distinct from T365."
+     }
+    ]
+   },
+   {
+    "term_id": "T389",
+    "senses": [
+     {
+      "sense": "Omniscient One",
+      "academic": "l'Omniscient",
+      "children": "celui qui sait tout",
+      "note": "Sarvajña, epithet of the Buddha."
+     }
+    ]
+   },
+   {
+    "term_id": "T390",
+    "senses": [
+     {
+      "sense": "fire of hell",
+      "academic": "feu de l'enfer",
+      "children": "feu de l'enfer",
+      "note": "Reuses fixed 'enfer'; phrase already simple."
+     }
+    ]
+   },
+   {
+    "term_id": "T391",
+    "senses": [
+     {
+      "sense": "regret, remorse",
+      "academic": "regret",
+      "children": "regret",
+      "note": "Paścāttāpa; everyday French word suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T392",
+    "senses": [
+     {
+      "sense": "Avīci hell",
+      "academic": "enfer Avīci",
+      "children": "Avīci",
+      "note": "Proper name of the most terrible hell, kept unchanged."
+     }
+    ]
+   },
+   {
+    "term_id": "T393",
+    "senses": [
+     {
+      "sense": "faculties",
+      "academic": "ensemble des facultés",
+      "children": "groupe des sens",
+      "note": "Indriyagaṇa, the sense faculties taken collectively."
+     }
+    ]
+   },
+   {
+    "term_id": "T394",
+    "senses": [
+     {
+      "sense": "chapter title: Heedfulness",
+      "academic": "Vigilance",
+      "children": "Prudence",
+      "note": "Chapter four title; established French rendering of apramāda."
+     }
+    ]
+   },
+   {
+    "term_id": "T395",
+    "senses": [
+     {
+      "sense": "hell guardian",
+      "academic": "gardien de l'enfer",
+      "children": "gardien de l'enfer",
+      "note": "Naraka guards; phrase simple in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T396",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Celui qui dit la vérité",
+      "children": "celui qui dit la vérité",
+      "note": "Tattvavādin, epithet of the Buddha."
+     }
+    ]
+   },
+   {
+    "term_id": "T397",
+    "senses": [
+     {
+      "sense": "mind of misdeed",
+      "academic": "esprit du méfait",
+      "children": "esprit qui fait du mal",
+      "note": "Reuses fixed 'esprit' and 'méfait'."
+     }
+    ]
+   },
+   {
+    "term_id": "T398",
+    "senses": [
+     {
+      "sense": "mind of relinquishing",
+      "academic": "esprit d'abandon",
+      "children": "esprit qui donne tout",
+      "note": "Tyāga as relinquishing; kept distinct from T400 'renoncement'."
+     }
+    ]
+   },
+   {
+    "term_id": "T399",
+    "senses": [
+     {
+      "sense": "perfection of ethical discipline",
+      "academic": "perfection de la discipline éthique",
+      "children": "perfection de la bonne conduite",
+      "note": "Śīlapāramitā, second of the six perfections."
+     }
+    ]
+   },
+   {
+    "term_id": "T400",
+    "senses": [
+     {
+      "sense": "mind of renunciation",
+      "academic": "esprit de renoncement",
+      "children": "esprit qui renonce à tout",
+      "note": "Virati as turning away from misdeeds."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4233,
+  "output": 2548,
+  "thinking": 6344,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 236.97,
+ "attempt": 1
+}

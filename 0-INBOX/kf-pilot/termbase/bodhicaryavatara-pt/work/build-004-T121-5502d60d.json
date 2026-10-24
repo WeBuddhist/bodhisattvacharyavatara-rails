@@ -1,0 +1,480 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T121",
+    "senses": [
+     {
+      "sense": "heedfulness",
+      "academic": "cuidado atento",
+      "children": "atenção cuidadosa",
+      "note": "Apramāda as vigilant care; pairs with pramāda as its opposite."
+     }
+    ]
+   },
+   {
+    "term_id": "T122",
+    "senses": [
+     {
+      "sense": "austerity",
+      "academic": "austeridade",
+      "children": "prática difícil",
+      "note": "Ascetic discipline; children get a plain phrase meaning hard practice."
+     }
+    ]
+   },
+   {
+    "term_id": "T123",
+    "senses": [
+     {
+      "sense": "laziness",
+      "academic": "indolência",
+      "children": "preguiça",
+      "note": "Technical register uses indolência; everyday preguiça for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T124",
+    "senses": [
+     {
+      "sense": "antidote",
+      "academic": "antídoto",
+      "children": "remédio",
+      "note": "Counteragent to afflictions; remédio keeps healing image for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T125",
+    "senses": [
+     {
+      "sense": "sūtra",
+      "academic": "sutra",
+      "children": "texto de ensinamentos",
+      "note": "Brazilian academic usage without diacritics, matching fixed termbase style."
+     }
+    ]
+   },
+   {
+    "term_id": "T126",
+    "senses": [
+     {
+      "sense": "permanent",
+      "academic": "permanente",
+      "children": "que dura para sempre",
+      "note": "Adjective; children get an everyday descriptive phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T127",
+    "senses": [
+     {
+      "sense": "fame, renown",
+      "academic": "fama",
+      "children": "fama",
+      "note": "Everyday word, identical in both registers."
+     },
+     {
+      "sense": "common usage",
+      "academic": "convenção",
+      "children": "uso comum",
+      "note": "Prasiddhi as conventional designation; children get the everyday way people speak."
+     }
+    ]
+   },
+   {
+    "term_id": "T128",
+    "senses": [
+     {
+      "sense": "envy",
+      "academic": "inveja",
+      "children": "ciúme",
+      "note": "Distinction mirrors envy versus jealousy in the English."
+     }
+    ]
+   },
+   {
+    "term_id": "T129",
+    "senses": [
+     {
+      "sense": "despondency",
+      "academic": "abatimento",
+      "children": "desânimo",
+      "note": "Loss of heart; desânimo is the everyday child's word."
+     }
+    ]
+   },
+   {
+    "term_id": "T130",
+    "senses": [
+     {
+      "sense": "solitude",
+      "academic": "solidão",
+      "children": "solidão",
+      "note": "Physical seclusion for practice; word is already everyday."
+     }
+    ]
+   },
+   {
+    "term_id": "T131",
+    "senses": [
+     {
+      "sense": "lifetime",
+      "academic": "existência",
+      "children": "vida",
+      "note": "Janman as one birth-life within saṃsāra; children simply vida."
+     }
+    ]
+   },
+   {
+    "term_id": "T132",
+    "senses": [
+     {
+      "sense": "sandalwood",
+      "academic": "sândalo",
+      "children": "sândalo",
+      "note": "Standard Brazilian name of the fragrant wood."
+     }
+    ]
+   },
+   {
+    "term_id": "T133",
+    "senses": [
+     {
+      "sense": "conceptualization",
+      "academic": "pensamento conceitual",
+      "children": "pensamento agitado",
+      "note": "Vikalpa-type discursive thought; children get busy-thinking phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T134",
+    "senses": [
+     {
+      "sense": "continuous stream of mind or person",
+      "academic": "contínuo",
+      "children": "fluxo contínuo",
+      "note": "Saṃtāna as mind-stream; children get the flowing-stream image."
+     }
+    ]
+   },
+   {
+    "term_id": "T135",
+    "senses": [
+     {
+      "sense": "accomplished meditator",
+      "academic": "iogue",
+      "children": "mestre da meditação",
+      "note": "Portuguese form iogue; children get meditation-master phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T136",
+    "senses": [
+     {
+      "sense": "emptiness",
+      "academic": "vacuidade",
+      "children": "vacuidade",
+      "note": "Established Buddhist term; English and Chinese keep one form for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T137",
+    "senses": [
+     {
+      "sense": "consciousness",
+      "academic": "consciência",
+      "children": "percepção",
+      "note": "Knowing faculty; percepção mirrors awareness for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T138",
+    "senses": [
+     {
+      "sense": "dream",
+      "academic": "sonho",
+      "children": "sonho",
+      "note": "Everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T139",
+    "senses": [
+     {
+      "sense": "analysis",
+      "academic": "análise",
+      "children": "pensar com cuidado",
+      "note": "Vicāra as investigative examination; children get careful-thinking phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T140",
+    "senses": [
+     {
+      "sense": "in saṃsāra",
+      "academic": "samsara",
+      "children": "ciclo de renascimentos",
+      "note": "Reuses the fixed renderings for saṃsāra."
+     },
+     {
+      "sense": "retinue",
+      "academic": "séquito",
+      "children": "seguidores",
+      "note": "Entourage of a teacher; children get followers."
+     }
+    ]
+   },
+   {
+    "term_id": "T141",
+    "senses": [
+     {
+      "sense": "heedlessness",
+      "academic": "desatenção",
+      "children": "descuido",
+      "note": "Opposite of apramāda; careless inattention."
+     }
+    ]
+   },
+   {
+    "term_id": "T142",
+    "senses": [
+     {
+      "sense": "ocean of good qualities",
+      "academic": "oceano de boas qualidades",
+      "children": "oceano de boas qualidades",
+      "note": "Compound reuses fixed rendering boa qualidade."
+     }
+    ]
+   },
+   {
+    "term_id": "T143",
+    "senses": [
+     {
+      "sense": "Victor",
+      "academic": "Vencedor",
+      "children": "Vitorioso",
+      "note": "Reuses the fixed renderings for jina."
+     }
+    ]
+   },
+   {
+    "term_id": "T144",
+    "senses": [
+     {
+      "sense": "lotus",
+      "academic": "lótus",
+      "children": "lótus",
+      "note": "Everyday flower name in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T145",
+    "senses": [
+     {
+      "sense": "stūpa, shrine",
+      "academic": "estupa",
+      "children": "santuário",
+      "note": "Brazilian academic form estupa; children get shrine."
+     }
+    ]
+   },
+   {
+    "term_id": "T146",
+    "senses": [
+     {
+      "sense": "pay homage",
+      "academic": "prestar homenagem",
+      "children": "curvar-se",
+      "note": "Infinitive head form; children get bowing down."
+     }
+    ]
+   },
+   {
+    "term_id": "T147",
+    "senses": [
+     {
+      "sense": "Guide",
+      "academic": "Guia",
+      "children": "Guia",
+      "note": "Epithet of the Buddha; capitalized in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T148",
+    "senses": [
+     {
+      "sense": "messenger of Yama",
+      "academic": "mensageiro de Yama",
+      "children": "mensageiro de Yama",
+      "note": "Proper name Yama kept in standard form for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T149",
+    "senses": [
+     {
+      "sense": "impermanent",
+      "academic": "impermanente",
+      "children": "que não dura",
+      "note": "Adjective; children get a plain not-lasting phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T150",
+    "senses": [
+     {
+      "sense": "rejoicing in virtue",
+      "academic": "regozijar-se",
+      "children": "alegrar-se",
+      "note": "Anumodanā as sympathetic joy in others' virtue; verb head form."
+     }
+    ]
+   },
+   {
+    "term_id": "T151",
+    "senses": [
+     {
+      "sense": "protector, saviour",
+      "academic": "Salvador",
+      "children": "Protetor",
+      "note": "Epithet of the Buddha; children get Protector as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T152",
+    "senses": [
+     {
+      "sense": "nirvana",
+      "academic": "nirvana",
+      "children": "libertação do sofrimento",
+      "note": "Children's phrase uses fixed sofrimento; freedom from sorrow."
+     }
+    ]
+   },
+   {
+    "term_id": "T153",
+    "senses": [
+     {
+      "sense": "family",
+      "academic": "família",
+      "children": "família",
+      "note": "Lineage or family; everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T154",
+    "senses": [
+     {
+      "sense": "hungry ghost",
+      "academic": "fantasma faminto",
+      "children": "fantasma faminto",
+      "note": "Established Brazilian rendering of preta; same for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T155",
+    "senses": [
+     {
+      "sense": "bodhisattva ground",
+      "academic": "estágio",
+      "children": "fase",
+      "note": "Bhūmi as bodhisattva level, kept distinct from earth element."
+     },
+     {
+      "sense": "earth (element)",
+      "academic": "terra",
+      "children": "terra",
+      "note": "The element earth; everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T156",
+    "senses": [
+     {
+      "sense": "mantra",
+      "academic": "mantra",
+      "children": "palavras sagradas",
+      "note": "Loanword already established; children get sacred-words phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T157",
+    "senses": [
+     {
+      "sense": "craving",
+      "academic": "desejo ardente",
+      "children": "querer",
+      "note": "Tṛṣṇā as burning thirst, distinct from fixed apego for lobha."
+     }
+    ]
+   },
+   {
+    "term_id": "T158",
+    "senses": [
+     {
+      "sense": "perfection of generosity",
+      "academic": "perfeição da generosidade",
+      "children": "perfeição de dar",
+      "note": "First pāramitā; children get giving instead of generosity."
+     }
+    ]
+   },
+   {
+    "term_id": "T159",
+    "senses": [
+     {
+      "sense": "perfection",
+      "academic": "perfeição",
+      "children": "perfeição",
+      "note": "Pāramitā; word is accessible enough for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T160",
+    "senses": [
+     {
+      "sense": "self-mastery",
+      "academic": "autodomínio",
+      "children": "controle de si mesmo",
+      "note": "Mastery over one's own mind; children get being-in-control phrase."
+     },
+     {
+      "sense": "independence",
+      "academic": "independência",
+      "children": "independência",
+      "note": "Not depending on conditions; everyday word in both registers."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 5547,
+  "output": 2469,
+  "thinking": 5637,
+  "cache_read": 256,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 253.67,
+ "attempt": 1
+}

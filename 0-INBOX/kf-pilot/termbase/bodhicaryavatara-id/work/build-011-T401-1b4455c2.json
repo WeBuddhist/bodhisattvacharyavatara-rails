@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T401",
+    "senses": [
+     {
+      "sense": "mind of anger",
+      "academic": "batin yang marah",
+      "children": "pikiran yang marah",
+      "note": "Compound of anger (kemarahan) and mind (batin), reusing fixed renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T402",
+    "senses": [
+     {
+      "sense": "external entity",
+      "academic": "entitas eksternal",
+      "children": "sesuatu di luar",
+      "note": "Thing outside the mind; reuses fixed entity renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T403",
+    "senses": [
+     {
+      "sense": "Brahmā",
+      "academic": "Brahmā",
+      "children": "Brahma",
+      "note": "High god; standard Indonesian form is Brahma."
+     }
+    ]
+   },
+   {
+    "term_id": "T404",
+    "senses": [
+     {
+      "sense": "clear mind",
+      "academic": "batin yang jernih",
+      "children": "pikiran yang jernih",
+      "note": "Lucid state of mind; citta rendered per fixed list."
+     }
+    ]
+   },
+   {
+    "term_id": "T405",
+    "senses": [
+     {
+      "sense": "body and speech",
+      "academic": "tubuh dan ucapan",
+      "children": "tubuh dan kata-kata",
+      "note": "Two of the three doors of action."
+     }
+    ]
+   },
+   {
+    "term_id": "T406",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Yang Mengetahui Realitas",
+      "children": "Yang Tahu Keadaan Sesungguhnya",
+      "note": "Sarvavid; Buddha who knows things as they really are."
+     }
+    ]
+   },
+   {
+    "term_id": "T407",
+    "senses": [
+     {
+      "sense": "secret of the mind",
+      "academic": "rahasia batin",
+      "children": "rahasia pikiran",
+      "note": "Guhya of mind; citta rendered per fixed list."
+     }
+    ]
+   },
+   {
+    "term_id": "T408",
+    "senses": [
+     {
+      "sense": "guarding the mind",
+      "academic": "penjagaan batin",
+      "children": "menjaga pikiran",
+      "note": "Cittarakṣā, central practice of chapter five."
+     }
+    ]
+   },
+   {
+    "term_id": "T409",
+    "senses": [
+     {
+      "sense": "name of a hell",
+      "academic": "Neraka Penghancur",
+      "children": "Neraka Penghancur",
+      "note": "Hell name rendered descriptively as a proper name."
+     }
+    ]
+   },
+   {
+    "term_id": "T410",
+    "senses": [
+     {
+      "sense": "practitioner of restraint",
+      "academic": "praktisi pengendalian diri",
+      "children": "orang yang mengendalikan diri",
+      "note": "Yati; one who restrains body, speech, and mind."
+     }
+    ]
+   },
+   {
+    "term_id": "T411",
+    "senses": [
+     {
+      "sense": "recollection of the Buddha",
+      "academic": "mengingat Buddha",
+      "children": "selalu ingat pada Buddha",
+      "note": "Buddhānusmṛti; akin to Pali Buddhanussati practice."
+     }
+    ]
+   },
+   {
+    "term_id": "T412",
+    "senses": [
+     {
+      "sense": "shame",
+      "academic": "malu",
+      "children": "malu",
+      "note": "Trapā; distinct from T431 sense of shame."
+     }
+    ]
+   },
+   {
+    "term_id": "T413",
+    "senses": [
+     {
+      "sense": "mad elephant of the mind",
+      "academic": "gajah gila batin",
+      "children": "gajah gila pikiran",
+      "note": "Metaphor: the untamed mind like a mad elephant."
+     }
+    ]
+   },
+   {
+    "term_id": "T414",
+    "senses": [
+     {
+      "sense": "concentration",
+      "academic": "konsentrasi",
+      "children": "fokus yang dalam",
+      "note": "Samādhāna; meditative concentration."
+     }
+    ]
+   },
+   {
+    "term_id": "T415",
+    "senses": [
+     {
+      "sense": "moment",
+      "academic": "momen",
+      "children": "sekejap",
+      "note": "Kṣaṇa; a very short instant of time."
+     }
+    ]
+   },
+   {
+    "term_id": "T416",
+    "senses": [
+     {
+      "sense": "equanimity",
+      "academic": "ekuanimitas",
+      "children": "pikiran yang seimbang",
+      "note": "Upekṣā; even-minded, balanced attitude."
+     }
+    ]
+   },
+   {
+    "term_id": "T417",
+    "senses": [
+     {
+      "sense": "secondary affliction",
+      "academic": "kekotoran batin sekunder",
+      "children": "perasaan yang mengganggu tambahan",
+      "note": "Upakleśa; reuses fixed affliction renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T418",
+    "senses": [
+     {
+      "sense": "mockery",
+      "academic": "olok-olok",
+      "children": "ejekan",
+      "note": "Upahāsa; derision, making fun of others."
+     }
+    ]
+   },
+   {
+    "term_id": "T419",
+    "senses": [
+     {
+      "sense": "arrogance",
+      "academic": "kecongkakan",
+      "children": "sifat congkak",
+      "note": "Mada; kept distinct from pride (keangkuhan/kesombongan)."
+     }
+    ]
+   },
+   {
+    "term_id": "T420",
+    "senses": [
+     {
+      "sense": "exposing others' faults",
+      "academic": "mengungkap kesalahan orang lain",
+      "children": "membuka kesalahan orang lain",
+      "note": "Making others' faults known publicly."
+     }
+    ]
+   },
+   {
+    "term_id": "T421",
+    "senses": [
+     {
+      "sense": "duplicity",
+      "academic": "tipu daya",
+      "children": "kelicikan",
+      "note": "Vañcaka; deceitfulness, double-dealing."
+     }
+    ]
+   },
+   {
+    "term_id": "T422",
+    "senses": [
+     {
+      "sense": "deceptive mind",
+      "academic": "batin yang menipu",
+      "children": "pikiran yang menipu",
+      "note": "Mind set on deceiving; citta per fixed list."
+     }
+    ]
+   },
+   {
+    "term_id": "T423",
+    "senses": [
+     {
+      "sense": "regret (variant of )",
+      "academic": "penyesalan",
+      "children": "rasa sesal",
+      "note": "Variant sense of regret, kaukṛtya."
+     }
+    ]
+   },
+   {
+    "term_id": "T424",
+    "senses": [
+     {
+      "sense": "fame",
+      "academic": "ketenaran",
+      "children": "ketenaran",
+      "note": "Kīrti; renown, being widely spoken of."
+     }
+    ]
+   },
+   {
+    "term_id": "T425",
+    "senses": [
+     {
+      "sense": "attendants and retinue",
+      "academic": "pelayan dan pengikut",
+      "children": "pembantu dan pengikut",
+      "note": "Parivāra; servants together with one's following."
+     }
+    ]
+   },
+   {
+    "term_id": "T426",
+    "senses": [
+     {
+      "sense": "impatience",
+      "academic": "ketidaksabaran",
+      "children": "sifat tidak sabar",
+      "note": "Opposite of patience (kesabaran)."
+     }
+    ]
+   },
+   {
+    "term_id": "T427",
+    "senses": [
+     {
+      "sense": "impudence",
+      "academic": "kelancangan",
+      "children": "sifat kurang ajar",
+      "note": "Pragalbha; shameless boldness toward others."
+     }
+    ]
+   },
+   {
+    "term_id": "T428",
+    "senses": [
+     {
+      "sense": "idle chatter",
+      "academic": "obrolan sia-sia",
+      "children": "obrolan tidak penting",
+      "note": "Mukhara; talkativeness, pointless talk."
+     }
+    ]
+   },
+   {
+    "term_id": "T429",
+    "senses": [
+     {
+      "sense": "hero",
+      "academic": "pahlawan",
+      "children": "pahlawan",
+      "note": "Śūra; courageous hero, not the bodhisattva compound."
+     }
+    ]
+   },
+   {
+    "term_id": "T430",
+    "senses": [
+     {
+      "sense": "excellent faith",
+      "academic": "keyakinan luhur",
+      "children": "kepercayaan yang dalam",
+      "note": "Suprasanna; strong, serene faith and trust."
+     }
+    ]
+   },
+   {
+    "term_id": "T431",
+    "senses": [
+     {
+      "sense": "sense of shame",
+      "academic": "rasa malu",
+      "children": "rasa malu",
+      "note": "Lajjā; inner sense of shame, distinct from T412."
+     }
+    ]
+   },
+   {
+    "term_id": "T432",
+    "senses": [
+     {
+      "sense": "apprehension, fear of wrongdoing",
+      "academic": "kekhawatiran",
+      "children": "takut berbuat salah",
+      "note": "Bhaya; apprehension about doing wrong."
+     }
+    ]
+   },
+   {
+    "term_id": "T433",
+    "senses": [
+     {
+      "sense": "compassionate one",
+      "academic": "yang berbelas kasih",
+      "children": "yang penuh belas kasih",
+      "note": "Dayānvita; one endowed with compassion."
+     }
+    ]
+   },
+   {
+    "term_id": "T434",
+    "senses": [
+     {
+      "sense": "blameless",
+      "academic": "tanpa cela",
+      "children": "tidak bisa disalahkan",
+      "note": "Anavadya; beyond reproach or blame."
+     }
+    ]
+   },
+   {
+    "term_id": "T435",
+    "senses": [
+     {
+      "sense": "emanation",
+      "academic": "emanasi",
+      "children": "ciptaan ajaib",
+      "note": "Nirmāṇa; a form created by meditative power."
+     }
+    ]
+   },
+   {
+    "term_id": "T436",
+    "senses": [
+     {
+      "sense": "I",
+      "academic": "aku",
+      "children": "aku",
+      "note": "First-person pronoun, target of self-grasping."
+     }
+    ]
+   },
+   {
+    "term_id": "T437",
+    "senses": [
+     {
+      "sense": "supreme leisure",
+      "academic": "kesempatan tertinggi",
+      "children": "kesempatan terbaik untuk berlatih",
+      "note": "Kṣaṇavara; the finest free opportunity for practice."
+     }
+    ]
+   },
+   {
+    "term_id": "T438",
+    "senses": [
+     {
+      "sense": "weapon of wisdom",
+      "academic": "senjata kebijaksanaan",
+      "children": "pedang kebijaksanaan",
+      "note": "Prajñā figured as weapon or blade."
+     }
+    ]
+   },
+   {
+    "term_id": "T439",
+    "senses": [
+     {
+      "sense": "human body",
+      "academic": "setiap tubuh manusia",
+      "children": "tubuh manusia",
+      "note": "Every human body; reuses fixed body (tubuh)."
+     }
+    ]
+   },
+   {
+    "term_id": "T440",
+    "senses": [
+     {
+      "sense": "wish-fulfilling",
+      "academic": "pengabul keinginan",
+      "children": "pengabul keinginan",
+      "note": "Yathākāmaṃgama; fulfilling or following every wish."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4104,
+  "output": 2442,
+  "thinking": 11683,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 420.89,
+ "attempt": 1
+}

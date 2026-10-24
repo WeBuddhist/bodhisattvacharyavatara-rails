@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T441",
+    "senses": [
+     {
+      "sense": "epithet of a buddha",
+      "academic": "Compassivo",
+      "children": "Compassivo",
+      "note": "Epithet of the Buddha; same everyday word works for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T442",
+    "senses": [
+     {
+      "sense": "three Dharma robes",
+      "academic": "três vestes do Darma",
+      "children": "três túnicas de monge",
+      "note": "Reuses fixed Darma; children phrase follows monk's robes."
+     }
+    ]
+   },
+   {
+    "term_id": "T443",
+    "senses": [
+     {
+      "sense": "conduct of the bodhisattva",
+      "academic": "conduta do bodisatva",
+      "children": "modo de agir do herói do despertar",
+      "note": "Reuses fixed bodisatva and herói do despertar."
+     }
+    ]
+   },
+   {
+    "term_id": "T444",
+    "senses": [
+     {
+      "sense": "Three Heaps Sūtra",
+      "academic": "Sutra dos Três Acúmulos",
+      "children": "texto dos Três Montes",
+      "note": "Academic follows Brazilian Buddhist usage; children keeps heaps as montes."
+     }
+    ]
+   },
+   {
+    "term_id": "T445",
+    "senses": [
+     {
+      "sense": "dedication",
+      "academic": "dedicação",
+      "children": "compartilhar a bondade",
+      "note": "Children phrase renders sharing the goodness plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T446",
+    "senses": [
+     {
+      "sense": "spiritual friend",
+      "academic": "amigo espiritual",
+      "children": "amigo que guia",
+      "note": "Children phrase keeps guiding-friend idea."
+     }
+    ]
+   },
+   {
+    "term_id": "T447",
+    "senses": [
+     {
+      "sense": "Śrīsaṃbhava",
+      "academic": "Śrīsaṃbhava",
+      "children": "Shrisambhava",
+      "note": "Proper name; diacritics academic, simplified spelling for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T448",
+    "senses": [
+     {
+      "sense": "title of a sūtra",
+      "academic": "Sutra de Ākāśagarbha",
+      "children": "Ensinamento de Akashagarbha",
+      "note": "Title; children uses plain word ensinamento and simplified name."
+     }
+    ]
+   },
+   {
+    "term_id": "T449",
+    "senses": [
+     {
+      "sense": "Śikṣāsamuccaya (title)",
+      "academic": "Śikṣāsamuccaya",
+      "children": "Coleção de Treinamentos",
+      "note": "Academic keeps Sanskrit title; children renders meaning plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T450",
+    "senses": [
+     {
+      "sense": "title of a work by Nāgārjuna",
+      "academic": "Compêndio dos Sutras",
+      "children": "Coleção das Conversas do Buda",
+      "note": "Children phrase follows collection of the Buddha's talks."
+     }
+    ]
+   },
+   {
+    "term_id": "T451",
+    "senses": [
+     {
+      "sense": "noble Nāgārjuna",
+      "academic": "nobre Nāgārjuna",
+      "children": "Nagarjuna",
+      "note": "Reuses fixed Nobre; children drops epithet per English."
+     }
+    ]
+   },
+   {
+    "term_id": "T452",
+    "senses": [
+     {
+      "sense": "Nāgārjuna",
+      "academic": "Nāgārjuna",
+      "children": "Nagarjuna",
+      "note": "Proper name; diacritics academic, simplified for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T453",
+    "senses": [
+     {
+      "sense": "Noble",
+      "academic": "Nobre",
+      "children": "nobre",
+      "note": "Standard rendering of ārya as honorific."
+     }
+    ]
+   },
+   {
+    "term_id": "T454",
+    "senses": [
+     {
+      "sense": "generosity",
+      "academic": "generosidade",
+      "children": "dar",
+      "note": "Children uses plain verb-noun for giving."
+     }
+    ]
+   },
+   {
+    "term_id": "T455",
+    "senses": [
+     {
+      "sense": "good conduct, good deed",
+      "academic": "boa conduta",
+      "children": "boa ação",
+      "note": "Children matches fixed virtue rendering, as English coincides."
+     }
+    ]
+   },
+   {
+    "term_id": "T456",
+    "senses": [
+     {
+      "sense": "renunciation",
+      "academic": "renúncia",
+      "children": "desejo de ser livre",
+      "note": "Children phrase expresses the wish for freedom."
+     }
+    ]
+   },
+   {
+    "term_id": "T457",
+    "senses": [
+     {
+      "sense": "name of a goddess",
+      "academic": "Durgā",
+      "children": "Durga",
+      "note": "Proper name; diacritics academic, simplified for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T458",
+    "senses": [
+     {
+      "sense": "Karṇapa (people)",
+      "academic": "Karṇapa",
+      "children": "Karnapa",
+      "note": "People's name; diacritics academic, simplified for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T459",
+    "senses": [
+     {
+      "sense": "bile",
+      "academic": "bile",
+      "children": "bile",
+      "note": "Everyday anatomical term, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T460",
+    "senses": [
+     {
+      "sense": "heedlessness",
+      "academic": "descuido",
+      "children": "falta de cuidado",
+      "note": "Descuido is established for pramāda; children spelled out plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T461",
+    "senses": [
+     {
+      "sense": "fasting",
+      "academic": "jejum",
+      "children": "ficar sem comer",
+      "note": "Children phrase says going without food."
+     }
+    ]
+   },
+   {
+    "term_id": "T462",
+    "senses": [
+     {
+      "sense": "non-meritorious conduct",
+      "academic": "conduta não meritória",
+      "children": "jeito de agir que não cria reserva de bondade",
+      "note": "Children reuses fixed reserva de bondade for merit."
+     }
+    ]
+   },
+   {
+    "term_id": "T464",
+    "senses": [
+     {
+      "sense": "perversity",
+      "academic": "perversidade",
+      "children": "modo equivocado",
+      "note": "Children phrase follows mistaken way."
+     }
+    ]
+   },
+   {
+    "term_id": "T465",
+    "senses": [
+     {
+      "sense": "intention",
+      "academic": "intenção",
+      "children": "intenção",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T466",
+    "senses": [
+     {
+      "sense": "fixation",
+      "academic": "fixação",
+      "children": "segurar com força",
+      "note": "Children phrase keeps holding-on-tightly idea, distinct from apego."
+     }
+    ]
+   },
+   {
+    "term_id": "T467",
+    "senses": [
+     {
+      "sense": "harsh speech",
+      "academic": "fala áspera",
+      "children": "palavras duras",
+      "note": "Children uses everyday dura for harsh words."
+     }
+    ]
+   },
+   {
+    "term_id": "T468",
+    "senses": [
+     {
+      "sense": "other life",
+      "academic": "outra vida",
+      "children": "outra vida",
+      "note": "Same plain phrase serves both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T469",
+    "senses": [
+     {
+      "sense": "obstacle",
+      "academic": "obstáculo",
+      "children": "algo no caminho",
+      "note": "Children phrase renders something in the way."
+     }
+    ]
+   },
+   {
+    "term_id": "T470",
+    "senses": [
+     {
+      "sense": "wrong livelihood",
+      "academic": "meio de vida errado",
+      "children": "jeito errado de ganhar a vida",
+      "note": "Meio de vida is established for livelihood in the path."
+     }
+    ]
+   },
+   {
+    "term_id": "T471",
+    "senses": [
+     {
+      "sense": "suffering of death",
+      "academic": "sofrimento da morte",
+      "children": "sofrimento da morte",
+      "note": "Reuses fixed sofrimento; plain phrase fits both."
+     }
+    ]
+   },
+   {
+    "term_id": "T472",
+    "senses": [
+     {
+      "sense": "one with good qualities",
+      "academic": "dotado de boas qualidades",
+      "children": "pessoa com boas qualidades",
+      "note": "Reuses fixed boa qualidade; children spells out person."
+     }
+    ]
+   },
+   {
+    "term_id": "T473",
+    "senses": [
+     {
+      "sense": "seen and unseen",
+      "academic": "visível e invisível",
+      "children": "esta vida e a próxima",
+      "note": "Children glosses as this life and the next, per English."
+     }
+    ]
+   },
+   {
+    "term_id": "T474",
+    "senses": [
+     {
+      "sense": "generation of bodhicitta",
+      "academic": "geração da bodhicitta",
+      "children": "fazer nascer a mente do despertar",
+      "note": "Reuses fixed bodhicitta and mente do despertar."
+     }
+    ]
+   },
+   {
+    "term_id": "T475",
+    "senses": [
+     {
+      "sense": "Buddhahood",
+      "academic": "despertar como Buda",
+      "children": "tornar-se Buda",
+      "note": "Follows English academic phrasing; reuses fixed despertar and Buda."
+     }
+    ]
+   },
+   {
+    "term_id": "T476",
+    "senses": [
+     {
+      "sense": "honor and respect",
+      "academic": "honra e respeito",
+      "children": "respeito",
+      "note": "Children simplifies to respect, per English."
+     }
+    ]
+   },
+   {
+    "term_id": "T477",
+    "senses": [
+     {
+      "sense": "benefactor",
+      "academic": "benfeitor",
+      "children": "doador",
+      "note": "Children uses everyday doador for giver."
+     }
+    ]
+   },
+   {
+    "term_id": "T478",
+    "senses": [
+     {
+      "sense": "enemy",
+      "academic": "inimigo",
+      "children": "inimigo",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T479",
+    "senses": [
+     {
+      "sense": "cauldron of hell",
+      "academic": "caldeirão do inferno",
+      "children": "caldeirão do inferno",
+      "note": "Reuses fixed inferno; caldeirão is everyday."
+     }
+    ]
+   },
+   {
+    "term_id": "T480",
+    "senses": [
+     {
+      "sense": "praise",
+      "academic": "louvor",
+      "children": "elogio",
+      "note": "Louvor is the established hymnic term; elogio is everyday."
+     }
+    ]
+   },
+   {
+    "term_id": "T481",
+    "senses": [
+     {
+      "sense": "honor",
+      "academic": "honra",
+      "children": "honra",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4187,
+  "output": 2418,
+  "thinking": 3248,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 156.66,
+ "attempt": 1
+}

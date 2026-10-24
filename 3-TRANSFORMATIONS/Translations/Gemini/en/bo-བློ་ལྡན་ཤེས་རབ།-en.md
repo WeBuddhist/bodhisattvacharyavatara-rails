@@ -1,5 +1,5 @@
 ---
-title: Engaging in the Conduct of the Bodhisattvas
+title: Engaging in the Conduct of the Bodhisattvas — AI translation
 track: Gemini zero-shot (english)
 title_original: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
 title_source: set by hand from the Tibetan title བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།, 2026-10-07
@@ -22,6 +22,7 @@ source_language: tibetan
 target_language: english
 generator: gemini-3.1-pro-preview
 endpoint: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-pro-preview:generateContent
+ai_generated: true
 model: gemini-3.1-pro-preview
 thinking: default
 temperature: default
@@ -33,7 +34,7 @@ glossary: none
 line_parity_failures: 0
 style_instruction: "Translate this passage of the Tibetan Bodhicaryāvatāra (Śāntideva's Entering the Way of the Bodhisattva) into clear, accurate English. Translate the whole passage completely and in the same order: do not summarise, shorten or omit anything, and keep the same number of lines as the source. Keep proper names in their standard Sanskrit forms (Śāntideva, Mañjuśrī, Samantabhadra, Avalokiteśvara, Ākāśagarbha, Kṣitigarbha, Maitreya) and keep any mantra in Sanskrit transliteration. Do not add commentary, notes, or explanation of your own."
 rails_used: none
-generated: 2026-10-07
+generated: 2026-10-23
 blocks_translated: 927
 blocks_total: 927
 headings_translated: 13
@@ -41,7 +42,7 @@ note: Machine baseline — not a rails-governed translation. Every line below is
 status: draft
 ---
 
-# Engaging in the Conduct of the Bodhisattvas ^0
+# Engaging in the Conduct of the Bodhisattvas — AI translation ^0
 
 ## Prologue ^I-0
 

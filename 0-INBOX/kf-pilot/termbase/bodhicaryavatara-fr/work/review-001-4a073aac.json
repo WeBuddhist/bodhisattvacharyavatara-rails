@@ -1,0 +1,94 @@
+{
+ "parsed": {
+  "objections": [
+   {
+    "term_id": "T028",
+    "sense": "attachment, clinging",
+    "field": "children",
+    "proposed": "attachement",
+    "reason": "Verb infinitive 's'accrocher' cannot fill a noun slot (English 'clinging' is a noun); 'attachement' is simple enough for ages 8-12."
+   },
+   {
+    "term_id": "T055",
+    "sense": "attachment",
+    "field": "children",
+    "proposed": "attachement",
+    "reason": "Verb infinitive 's'accrocher' used for a noun term (rāga/chags); the noun 'attachement' is clear and simple."
+   },
+   {
+    "term_id": "T062",
+    "sense": "generosity",
+    "field": "children",
+    "proposed": "don",
+    "reason": "Bare infinitive 'donner' is a verb but dāna/sbyin pa is a noun (giving); 'don' is simple and matches T454."
+   },
+   {
+    "term_id": "T053",
+    "sense": "wise person",
+    "field": "academic",
+    "proposed": "personne sage",
+    "reason": "'sage' duplicates T044 muni 'Sage' (differs only by capital); two different terms need distinct renderings."
+   },
+   {
+    "term_id": "T064",
+    "sense": "own welfare",
+    "field": "academic",
+    "proposed": "bien personnel",
+    "reason": "'intérêt personnel' connotes self-interest; parārtha is 'bien d'autrui' (T099), so svārtha should pair as 'bien personnel'."
+   },
+   {
+    "term_id": "T072",
+    "sense": "others' welfare",
+    "field": "academic",
+    "proposed": "bien d'autrui",
+    "reason": "Same term parārtha is 'bien d'autrui' in T099; the two entries must be identical (and 'bien' pairs with svārtha)."
+   },
+   {
+    "term_id": "T088",
+    "sense": "ordaining teacher",
+    "field": "children",
+    "proposed": "maître qui m'a donné mes vœux",
+    "reason": "'m'a ordonné' reads as 'ordered me' to children; 'donné mes vœux' is clear."
+   },
+   {
+    "term_id": "T112",
+    "sense": "the Buddha's teaching, sublime",
+    "field": "academic",
+    "proposed": "Dharma sublime",
+    "reason": "'sublime Dharma' is an English word-order calque; French places the adjective after: 'Dharma sublime'."
+   },
+   {
+    "term_id": "T118",
+    "sense": "the Buddha's teaching, sublime",
+    "field": "academic",
+    "proposed": "Dharma sublime",
+    "reason": "Same as T112: English word-order calque; keep identical to T112 in French order."
+   },
+   {
+    "term_id": "T116",
+    "sense": "Tathāgata",
+    "field": "children",
+    "proposed": "Celui qui est ainsi allé",
+    "reason": "Same epithet as T070, which has 'Celui qui est ainsi allé'; 'Ainsi-Allé' is inconsistent and harder for children."
+   },
+   {
+    "term_id": "T119",
+    "sense": "accumulation (of merit and wisdom)",
+    "field": "children",
+    "proposed": "bonté accumulée",
+    "reason": "'réserve de bonté' is already T007 puṇya (merit); accumulation (tshogs) is a different term and needs a distinct rendering."
+   },
+   {
+    "term_id": "T065",
+    "sense": "childish person, fool",
+    "field": "academic",
+    "proposed": "personne puérile",
+    "reason": "'immature' is not 'childish'; same term bāla/byis pa is 'personne puérile' in T176, so the two entries must agree."
+   }
+  ]
+ },
+ "tokens": {},
+ "model": "claude-sonnet-5-5",
+ "seconds": null,
+ "attempt": 1
+}

@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T642",
+    "senses": [
+     {
+      "sense": "obscuration of afflictions and of objects of knowledge",
+      "academic": "kizuizi cha uchafuzi wa akili na vitu vya kujulikana",
+      "children": "pazia la hisia zinazosumbua na mambo ya kujua",
+      "note": "Two obscurations; reuses fixed affliction renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T643",
+    "senses": [
+     {
+      "sense": "six consciousnesses",
+      "academic": "fahamu sita",
+      "children": "aina sita za fahamu",
+      "note": "Six vijñānas: five sense consciousnesses plus mental consciousness."
+     }
+    ]
+   },
+   {
+    "term_id": "T644",
+    "senses": [
+     {
+      "sense": "designated",
+      "academic": "iliyoteuliwa",
+      "children": "iliyopewa jina",
+      "note": "Designated by concept, not existing from its own side."
+     }
+    ]
+   },
+   {
+    "term_id": "T645",
+    "senses": [
+     {
+      "sense": "karma and result",
+      "academic": "karma na matokeo",
+      "children": "tendo na matokeo",
+      "note": "Reuses fixed rendering matokeo for result."
+     }
+    ]
+   },
+   {
+    "term_id": "T646",
+    "senses": [
+     {
+      "sense": "one who experiences",
+      "academic": "mwenye uzoefu",
+      "children": "anayepitia",
+      "note": "The experiencer or enjoyer, as in Sāṃkhya puruṣa."
+     }
+    ]
+   },
+   {
+    "term_id": "T647",
+    "senses": [
+     {
+      "sense": "imputed",
+      "academic": "iliyodhaniwa",
+      "children": "iliyowazwa",
+      "note": "Imputed by conceptual thought rather than real."
+     }
+    ]
+   },
+   {
+    "term_id": "T648",
+    "senses": [
+     {
+      "sense": "assemblage of conditions",
+      "academic": "mkusanyiko wa masharti",
+      "children": "mkusanyiko wa hali",
+      "note": "Reuses fixed condition renderings sharti and hali."
+     }
+    ]
+   },
+   {
+    "term_id": "T649",
+    "senses": [
+     {
+      "sense": "part",
+      "academic": "sehemu",
+      "children": "sehemu",
+      "note": "Ordinary word for part."
+     }
+    ]
+   },
+   {
+    "term_id": "T650",
+    "senses": [
+     {
+      "sense": "directional part",
+      "academic": "sehemu ya mwelekeo",
+      "children": "sehemu ya upande mmoja",
+      "note": "Spatial part used in atomism arguments."
+     }
+    ]
+   },
+   {
+    "term_id": "T651",
+    "senses": [
+     {
+      "sense": "experience",
+      "academic": "uzoefu",
+      "children": "kupitia",
+      "note": "Direct experience; shares English label with saṃvitti."
+     }
+    ]
+   },
+   {
+    "term_id": "T652",
+    "senses": [
+     {
+      "sense": "subtle state",
+      "academic": "uhafifu",
+      "children": "umbo hafifu",
+      "note": "Noun of subtlety; children says faint form."
+     }
+    ]
+   },
+   {
+    "term_id": "T653",
+    "senses": [
+     {
+      "sense": "opposing condition",
+      "academic": "sharti linalopinga",
+      "children": "hali inayopinga",
+      "note": "Condition that obstructs a result."
+     }
+    ]
+   },
+   {
+    "term_id": "T654",
+    "senses": [
+     {
+      "sense": "conceptual clinging",
+      "academic": "kushikamana na dhana",
+      "children": "kushikilia wazo",
+      "note": "Clinging to concepts; builds on fixed attachment."
+     }
+    ]
+   },
+   {
+    "term_id": "T655",
+    "senses": [
+     {
+      "sense": "partless",
+      "academic": "isiyo na sehemu",
+      "children": "bila sehemu",
+      "note": "Partless, as of a smallest atom."
+     }
+    ]
+   },
+   {
+    "term_id": "T656",
+    "senses": [
+     {
+      "sense": "contact",
+      "academic": "mguso",
+      "children": "kugusa",
+      "note": "Sense contact, one of the links of arising."
+     }
+    ]
+   },
+   {
+    "term_id": "T657",
+    "senses": [
+     {
+      "sense": "two truths",
+      "academic": "kweli mbili",
+      "children": "kweli mbili",
+      "note": "Conventional and ultimate truth."
+     }
+    ]
+   },
+   {
+    "term_id": "T658",
+    "senses": [
+     {
+      "sense": "conceptual thought",
+      "academic": "wazo la dhana",
+      "children": "kuwaza",
+      "note": "Conceptual thought that constructs objects."
+     }
+    ]
+   },
+   {
+    "term_id": "T659",
+    "senses": [
+     {
+      "sense": "analysis",
+      "academic": "uchambuzi",
+      "children": "kuchunguza kwa makini",
+      "note": "Analytical meditation examining things."
+     }
+    ]
+   },
+   {
+    "term_id": "T660",
+    "senses": [
+     {
+      "sense": "object of analysis",
+      "academic": "kinachochambuzwa",
+      "children": "kitu kinachochunguzwa",
+      "note": "The thing under analysis."
+     }
+    ]
+   },
+   {
+    "term_id": "T661",
+    "senses": [
+     {
+      "sense": "power of consciousness",
+      "academic": "nguvu ya fahamu",
+      "children": "uwezo wa kufahamu",
+      "note": "Capacity of consciousness to know objects."
+     }
+    ]
+   },
+   {
+    "term_id": "T662",
+    "senses": [
+     {
+      "sense": "worldly direct perception",
+      "academic": "kutambua moja kwa moja kwa kidunia",
+      "children": "kuona moja kwa moja kila siku",
+      "note": "Ordinary direct perception, contrasted with yogic perception."
+     }
+    ]
+   },
+   {
+    "term_id": "T663",
+    "senses": [
+     {
+      "sense": "element",
+      "academic": "elementi",
+      "children": "kipengele cha msingi",
+      "note": "Great element such as earth or fire."
+     }
+    ]
+   },
+   {
+    "term_id": "T664",
+    "senses": [
+     {
+      "sense": "beyond thought",
+      "academic": "isiyofikirika",
+      "children": "zaidi ya mawazo",
+      "note": "Cannot be grasped by thought."
+     }
+    ]
+   },
+   {
+    "term_id": "T665",
+    "senses": [
+     {
+      "sense": "beginningless",
+      "academic": "isiyo na mwanzo",
+      "children": "bila mwanzo",
+      "note": "Having no beginning in time."
+     }
+    ]
+   },
+   {
+    "term_id": "T666",
+    "senses": [
+     {
+      "sense": "Sāṃkhya",
+      "academic": "Samkhya",
+      "children": "Samkhya",
+      "note": "Proper name of the Indian philosophical school, Swahili spelling."
+     }
+    ]
+   },
+   {
+    "term_id": "T667",
+    "senses": [
+     {
+      "sense": "equilibrium",
+      "academic": "usawa",
+      "children": "usawa kamili",
+      "note": "Equilibrium of the three guṇas in Sāṃkhya."
+     }
+    ]
+   },
+   {
+    "term_id": "T668",
+    "senses": [
+     {
+      "sense": "experience",
+      "academic": "uzoefu",
+      "children": "hisia",
+      "note": "Moment of experience or feeling."
+     }
+    ]
+   },
+   {
+    "term_id": "T669",
+    "senses": [
+     {
+      "sense": "coarse",
+      "academic": "nene",
+      "children": "isiyo laini",
+      "note": "Coarse, opposite of subtle."
+     }
+    ]
+   },
+   {
+    "term_id": "T670",
+    "senses": [
+     {
+      "sense": "subtle",
+      "academic": "hafifu",
+      "children": "laini",
+      "note": "Subtle or fine, opposite of coarse."
+     }
+    ]
+   },
+   {
+    "term_id": "T671",
+    "senses": [
+     {
+      "sense": "subtle",
+      "academic": "hafifu",
+      "children": "laini",
+      "note": "Same term and sense as T670, same renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T672",
+    "senses": [
+     {
+      "sense": "non-existent",
+      "academic": "isiyopo",
+      "children": "ambayo haipo",
+      "note": "That which does not exist."
+     }
+    ]
+   },
+   {
+    "term_id": "T673",
+    "senses": [
+     {
+      "sense": "meditation",
+      "academic": "tafakari",
+      "children": "kutuliza akili",
+      "note": "Meditative cultivation, bhāvanā."
+     }
+    ]
+   },
+   {
+    "term_id": "T674",
+    "senses": [
+     {
+      "sense": "imputed entity",
+      "academic": "kitu kilichodhaniwa",
+      "children": "kitu kilichowazwa",
+      "note": "Compound of imputed plus fixed entity rendering kitu."
+     }
+    ]
+   },
+   {
+    "term_id": "T675",
+    "senses": [
+     {
+      "sense": "without a cause",
+      "academic": "bila sababu",
+      "children": "bila sababu",
+      "note": "Reuses fixed rendering sababu for cause."
+     }
+    ]
+   },
+   {
+    "term_id": "T676",
+    "senses": [
+     {
+      "sense": "reflection",
+      "academic": "akisi",
+      "children": "picha kwenye kioo",
+      "note": "Reflected image, like in a mirror."
+     }
+    ]
+   },
+   {
+    "term_id": "T677",
+    "senses": [
+     {
+      "sense": "true existence",
+      "academic": "uwepo halisi",
+      "children": "kuwa kweli",
+      "note": "Truly existing, as opposed to merely apparent."
+     }
+    ]
+   },
+   {
+    "term_id": "T678",
+    "senses": [
+     {
+      "sense": "non-entity",
+      "academic": "kitu kisichopo",
+      "children": "kitu ambacho hakipo",
+      "note": "A thing that does not exist."
+     }
+    ]
+   },
+   {
+    "term_id": "T679",
+    "senses": [
+     {
+      "sense": "cessation",
+      "academic": "kukoma",
+      "children": "kuisha",
+      "note": "Cessation, nirodha, of suffering and its causes."
+     }
+    ]
+   },
+   {
+    "term_id": "T680",
+    "senses": [
+     {
+      "sense": "neither arisen nor ceased",
+      "academic": "isiyozaliwa wala isiyokoma",
+      "children": "ambacho hakijawahi kuzaliwa wala kuisha",
+      "note": "Middle Way description of phenomena."
+     }
+    ]
+   },
+   {
+    "term_id": "T681",
+    "senses": [
+     {
+      "sense": "empty",
+      "academic": "tupu",
+      "children": "tupu",
+      "note": "Empty of own-being; everyday Swahili word."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4075,
+  "output": 2307,
+  "thinking": 17343,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 353.71,
+ "attempt": 1
+}

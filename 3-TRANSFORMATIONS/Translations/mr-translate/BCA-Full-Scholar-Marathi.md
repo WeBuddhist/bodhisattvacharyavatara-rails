@@ -1,5 +1,6 @@
 ---
-title: "बोधिसत्त्वचर्यावतार — मराठी अनुवाद (विद्वत्स्तर)"
+title: "बोधिसत्त्वचर्यावतार — मराठी अनुवाद (विद्वत्स्तर) — एआय अनुवाद"
+ai_generated: true
 transformation_type: translation
 track: mr-scholar-audience
 context_packages:
@@ -57,7 +58,7 @@ merged_chapters: 1-10
 generation_date: 2026-07-16
 status: draft
 ---
-# बोधिसत्त्वचर्यावतार — मराठी अनुवाद (विद्वत्स्तर)
+# बोधिसत्त्वचर्यावतार — मराठी अनुवाद (विद्वत्स्तर) — एआय अनुवाद
 
 ---
 

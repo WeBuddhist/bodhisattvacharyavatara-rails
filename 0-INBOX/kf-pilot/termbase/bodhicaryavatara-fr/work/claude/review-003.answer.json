@@ -1,0 +1,109 @@
+{
+ "objections": [
+  {
+   "term_id": "T251",
+   "sense": "excellence",
+   "field": "children",
+   "proposed": "excellence",
+   "reason": "'perfection' is the established rendering of pāramitā (T159); sampad needs a distinct word, and English children's value is 'excellence'."
+  },
+  {
+   "term_id": "T255",
+   "sense": "three realms",
+   "field": "academic",
+   "proposed": "trois royaumes",
+   "reason": "'trois mondes' is already T229 ('jig rten gsum, three worlds); khams gsum is the three realms, and English keeps them apart."
+  },
+  {
+   "term_id": "T255",
+   "sense": "three realms",
+   "field": "children",
+   "proposed": "trois royaumes",
+   "reason": "Same collision with T229 'trois mondes'; 'royaumes' follows 'realms' (cf. T317 children 'royaume')."
+  },
+  {
+   "term_id": "T264",
+   "sense": "what is not virtuous",
+   "field": "children",
+   "proposed": "action qui n'est pas bonne",
+   "reason": "'mauvaise action' is already pāpa (T011, T025, T330); T361 (same mi dge) already uses 'action qui n'est pas bonne'. Keep the two aligned."
+  },
+  {
+   "term_id": "T268",
+   "sense": "conceptual thought",
+   "field": "children",
+   "proposed": "pensée qui forme des idées",
+   "reason": "'idée' names a thing, not the activity of conceptualizing (rnam rtog); a phrase keeps the process meaning."
+  },
+  {
+   "term_id": "T279",
+   "sense": "chapter 9 title",
+   "field": "academic",
+   "proposed": "Perfection de la sagesse",
+   "reason": "Missing article; must parallel T158 'perfection de la générosité'."
+  },
+  {
+   "term_id": "T279",
+   "sense": "chapter 9 title",
+   "field": "children",
+   "proposed": "perfection de la sagesse",
+   "reason": "'sagesse parfaite' inverts the title structure and breaks parallel with T158 'perfection du don'."
+  },
+  {
+   "term_id": "T298",
+   "sense": "impermanence",
+   "field": "children",
+   "proposed": "le fait de ne pas durer",
+   "reason": "'qui ne dure pas' is an adjective phrase (identical to T149 anitya); anityatā is a noun."
+  },
+  {
+   "term_id": "T310",
+   "sense": "jewel",
+   "field": "children",
+   "proposed": "joyau",
+   "reason": "Same ratna is 'joyau' in T325 and 'Trois Joyaux' in T204; 'bijou' breaks the link."
+  },
+  {
+   "term_id": "T313",
+   "sense": "epithet of Maitreya",
+   "field": "children",
+   "proposed": "Maitreya le Protecteur",
+   "reason": "Capital P as in academic field and T045/T087 'Protecteur' epithet."
+  },
+  {
+   "term_id": "T323",
+   "sense": "Sugata",
+   "field": "children",
+   "proposed": "Celui qui est bien allé",
+   "reason": "Same epithet as T052, rendered 'Celui qui est bien allé'; 'Bien-Allé' is inconsistent and hard for children."
+  },
+  {
+   "term_id": "T327",
+   "sense": "worthy recipient of offerings",
+   "field": "academic",
+   "proposed": "destinataire digne d'offrandes",
+   "reason": "'receveur' is awkward (tax collector, ticket seller) in French; 'destinataire' is the natural term."
+  },
+  {
+   "term_id": "T334",
+   "sense": "three-thousandfold world system",
+   "field": "academic",
+   "proposed": "trichiliocosme",
+   "reason": "'Trichiliocosme' is the established French Buddhist term; 'trois mille mondes' misstates the thousandfold-cubed structure."
+  },
+  {
+   "term_id": "T354",
+   "sense": "one burdened with misdeeds",
+   "field": "academic",
+   "proposed": "chargé de méfaits",
+   "reason": "Same sense label as T349 ('chargé de méfaits'); 'auteur' changes meaning to perpetrator, whereas sdig ldan means possessing misdeeds."
+  },
+  {
+   "term_id": "T345",
+   "sense": "basis of bodhicitta",
+   "field": "academic",
+   "proposed": "fondement de la bodhicitta",
+   "reason": "Gender inconsistent: T474 uses 'la bodhicitta' (the established French usage) but this entry has 'du bodhicitta'."
+  }
+ ]
+}

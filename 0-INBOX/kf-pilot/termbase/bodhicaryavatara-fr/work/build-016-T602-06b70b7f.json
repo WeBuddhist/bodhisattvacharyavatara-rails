@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T602",
+    "senses": [
+     {
+      "sense": "two truths",
+      "academic": "deux vérités",
+      "children": "deux vérités",
+      "note": "Standard Madhyamaka pair: conventional and ultimate truth."
+     }
+    ]
+   },
+   {
+    "term_id": "T603",
+    "senses": [
+     {
+      "sense": "worldly person",
+      "academic": "personne mondaine",
+      "children": "personne du monde",
+      "note": "Reuses fixed loka rendering 'monde'."
+     }
+    ]
+   },
+   {
+    "term_id": "T604",
+    "senses": [
+     {
+      "sense": "direct perception",
+      "academic": "perception directe",
+      "children": "voir directement",
+      "note": "Epistemological term; children phrased as plain seeing."
+     }
+    ]
+   },
+   {
+    "term_id": "T605",
+    "senses": [
+     {
+      "sense": "purity",
+      "academic": "pureté",
+      "children": "propreté",
+      "note": "Children uses everyday word for cleanness."
+     }
+    ]
+   },
+   {
+    "term_id": "T606",
+    "senses": [
+     {
+      "sense": "momentary",
+      "academic": "instantané",
+      "children": "qui ne dure qu'un instant",
+      "note": "Adjective; glosses the technical sense plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T607",
+    "senses": [
+     {
+      "sense": "yogi",
+      "academic": "yogi",
+      "children": "méditant",
+      "note": "Loanword kept academically; children get plain agent noun."
+     }
+    ]
+   },
+   {
+    "term_id": "T608",
+    "senses": [
+     {
+      "sense": "truly existent",
+      "academic": "réellement existant",
+      "children": "qui existe vraiment",
+      "note": "Substantial reality sense (sadbhāva)."
+     }
+    ]
+   },
+   {
+    "term_id": "T609",
+    "senses": [
+     {
+      "sense": "truly existent",
+      "academic": "existant en vérité",
+      "children": "qui existe pour de vrai",
+      "note": "Ultimate-truth sense kept distinct from sadbhāva."
+     }
+    ]
+   },
+   {
+    "term_id": "T610",
+    "senses": [
+     {
+      "sense": "illusory person",
+      "academic": "personne illusoire",
+      "children": "personne créée par magie",
+      "note": "Reuses fixed māyā 'illusion' idea."
+     }
+    ]
+   },
+   {
+    "term_id": "T611",
+    "senses": [
+     {
+      "sense": "error",
+      "academic": "erreur",
+      "children": "erreur",
+      "note": "Everyday French word suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T612",
+    "senses": [
+     {
+      "sense": "in reality",
+      "academic": "en réalité",
+      "children": "comme les choses sont vraiment",
+      "note": "Adverbial phrase; children spell out the meaning."
+     }
+    ]
+   },
+   {
+    "term_id": "T613",
+    "senses": [
+     {
+      "sense": "barren woman's daughter",
+      "academic": "fille d'une femme stérile",
+      "children": "fille d'une femme sans enfants",
+      "note": "Classic example of an impossible thing."
+     }
+    ]
+   },
+   {
+    "term_id": "T614",
+    "senses": [
+     {
+      "sense": "self-awareness",
+      "academic": "conscience de soi",
+      "children": "se connaître soi-même",
+      "note": "svasaṃvitti as reflexive awareness."
+     }
+    ]
+   },
+   {
+    "term_id": "T615",
+    "senses": [
+     {
+      "sense": "eye ointment",
+      "academic": "onguent pour les yeux",
+      "children": "pommade pour les yeux",
+      "note": "añjana, medicinal eye salve."
+     }
+    ]
+   },
+   {
+    "term_id": "T616",
+    "senses": [
+     {
+      "sense": "cause of suffering",
+      "academic": "cause de la souffrance",
+      "children": "cause de la souffrance",
+      "note": "Reuses fixed 'cause' and 'souffrance'."
+     }
+    ]
+   },
+   {
+    "term_id": "T617",
+    "senses": [
+     {
+      "sense": "conceptualization of true existence",
+      "academic": "conceptualisation de l'existence vraie",
+      "children": "penser que les choses existent vraiment",
+      "note": "Mental construction of real existence."
+     }
+    ]
+   },
+   {
+    "term_id": "T618",
+    "senses": [
+     {
+      "sense": "apprehended object",
+      "academic": "objet appréhendé",
+      "children": "chose que l'esprit saisit",
+      "note": "grāhya pole of perception; children use 'chose'."
+     }
+    ]
+   },
+   {
+    "term_id": "T619",
+    "senses": [
+     {
+      "sense": "Cittamātra",
+      "academic": "Cittamātra",
+      "children": "l'esprit seul",
+      "note": "School name kept in Sanskrit; children translated."
+     }
+    ]
+   },
+   {
+    "term_id": "T620",
+    "senses": [
+     {
+      "sense": "illusory woman",
+      "academic": "femme illusoire",
+      "children": "femme créée par l'illusion",
+      "note": "Magician's conjured woman example."
+     }
+    ]
+   },
+   {
+    "term_id": "T621",
+    "senses": [
+     {
+      "sense": "latent tendency of emptiness",
+      "academic": "tendance latente de la vacuité",
+      "children": "habitude du vide",
+      "note": "vāsanā as ingrained habit; vacuité kept."
+     }
+    ]
+   },
+   {
+    "term_id": "T622",
+    "senses": [
+     {
+      "sense": "latent tendency of entities",
+      "academic": "tendance latente des entités",
+      "children": "habitude laissée dans l'esprit par les choses",
+      "note": "Reuses fixed bhāva/vastu 'entité/chose'."
+     }
+    ]
+   },
+   {
+    "term_id": "T623",
+    "senses": [
+     {
+      "sense": "non-apprehension",
+      "academic": "non-appréhension",
+      "children": "sans rien sur quoi fixer l'esprit",
+      "note": "nirālamba: objectless meditative state."
+     }
+    ]
+   },
+   {
+    "term_id": "T624",
+    "senses": [
+     {
+      "sense": "thorough pacification",
+      "academic": "pacification complète",
+      "children": "calme complet",
+      "note": "praśāmyati rendered nominally for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T625",
+    "senses": [
+     {
+      "sense": "wish-fulfilling jewel",
+      "academic": "joyau exauçant les souhaits",
+      "children": "joyau qui exauce les souhaits",
+      "note": "cintāmaṇi, the mythical wish-granting gem."
+     }
+    ]
+   },
+   {
+    "term_id": "T626",
+    "senses": [
+     {
+      "sense": "one to be tamed",
+      "academic": "être à discipliner",
+      "children": "personne à guider",
+      "note": "vineya: disciple to be trained."
+     }
+    ]
+   },
+   {
+    "term_id": "T627",
+    "senses": [
+     {
+      "sense": "aspiration prayer",
+      "academic": "prière d'aspiration",
+      "children": "prière de souhait",
+      "note": "praṇidhāna as aspirational prayer."
+     }
+    ]
+   },
+   {
+    "term_id": "T628",
+    "senses": [
+     {
+      "sense": "garuḍa",
+      "academic": "garuḍa",
+      "children": "grand oiseau du ciel",
+      "note": "Mythical bird; Sanskrit kept academically."
+     }
+    ]
+   },
+   {
+    "term_id": "T629",
+    "senses": [
+     {
+      "sense": "truth",
+      "academic": "vérité",
+      "children": "vérité",
+      "note": "satya; everyday word suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T630",
+    "senses": [
+     {
+      "sense": "liberation",
+      "academic": "libération",
+      "children": "liberté",
+      "note": "mukti; children use simpler near-synonym."
+     }
+    ]
+   },
+   {
+    "term_id": "T631",
+    "senses": [
+     {
+      "sense": "Vedas (scripture)",
+      "academic": "Véda",
+      "children": "Véda",
+      "note": "Scripture name in standard French form."
+     }
+    ]
+   },
+   {
+    "term_id": "T632",
+    "senses": [
+     {
+      "sense": "non-Buddhist",
+      "academic": "non-bouddhiste",
+      "children": "non-bouddhiste",
+      "note": "tīrthika; simple adjective works for both."
+     }
+    ]
+   },
+   {
+    "term_id": "T633",
+    "senses": [
+     {
+      "sense": "with apprehension",
+      "academic": "appréhension",
+      "children": "s'accrocher aux choses",
+      "note": "sāvalambana: mind holding an object."
+     }
+    ]
+   },
+   {
+    "term_id": "T634",
+    "senses": [
+     {
+      "sense": "grasping",
+      "academic": "saisie",
+      "children": "tenir fermement",
+      "note": "upādāna as standard 'saisie'; children plain."
+     }
+    ]
+   },
+   {
+    "term_id": "T635",
+    "senses": [
+     {
+      "sense": "afflicted",
+      "academic": "affligé",
+      "children": "troublé par les émotions perturbatrices",
+      "note": "Reuses fixed kleśa children's phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T636",
+    "senses": [
+     {
+      "sense": "delusion",
+      "academic": "aveuglement",
+      "children": "confusion",
+      "note": "English matches fixed moha renderings, so reused."
+     }
+    ]
+   },
+   {
+    "term_id": "T637",
+    "senses": [
+     {
+      "sense": "absorption of non-perception",
+      "academic": "absorption méditative de non-perception",
+      "children": "méditation profonde sans rien percevoir",
+      "note": "asaṃjñisamāpatti, a perceptionless absorption."
+     }
+    ]
+   },
+   {
+    "term_id": "T638",
+    "senses": [
+     {
+      "sense": "meditative absorption",
+      "academic": "absorption méditative",
+      "children": "absorption profonde",
+      "note": "samāpatti; children simplified."
+     }
+    ]
+   },
+   {
+    "term_id": "T639",
+    "senses": [
+     {
+      "sense": "Mahākāśyapa",
+      "academic": "Mahākāśyapa",
+      "children": "Mahakashyapa",
+      "note": "Proper name; children drop diacritics as English does."
+     }
+    ]
+   },
+   {
+    "term_id": "T640",
+    "senses": [
+     {
+      "sense": "refutation",
+      "academic": "réfutation",
+      "children": "montrer que c'est faux",
+      "note": "dūṣaṇa; children phrased as plain action."
+     }
+    ]
+   },
+   {
+    "term_id": "T641",
+    "senses": [
+     {
+      "sense": "position",
+      "academic": "position",
+      "children": "position",
+      "note": "pakṣa as philosophical thesis; everyday word."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4178,
+  "output": 2403,
+  "thinking": 4297,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 179.61,
+ "attempt": 1
+}

@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T401",
+    "senses": [
+     {
+      "sense": "mind of anger",
+      "academic": "mente di rabbia",
+      "children": "mente piena di rabbia",
+      "note": "Compound of fixed rabbia and mente."
+     }
+    ]
+   },
+   {
+    "term_id": "T402",
+    "senses": [
+     {
+      "sense": "external entity",
+      "academic": "entità esterna",
+      "children": "cosa esterna",
+      "note": "External uses fixed entity renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T403",
+    "senses": [
+     {
+      "sense": "Brahmā",
+      "academic": "Brahmā",
+      "children": "Brahma",
+      "note": "Standard Italian deity name; children drop macron."
+     }
+    ]
+   },
+   {
+    "term_id": "T404",
+    "senses": [
+     {
+      "sense": "clear mind",
+      "academic": "mente chiara",
+      "children": "mente chiara",
+      "note": "Clear modifies fixed mente."
+     }
+    ]
+   },
+   {
+    "term_id": "T405",
+    "senses": [
+     {
+      "sense": "body and speech",
+      "academic": "corpo e parola",
+      "children": "corpo e parole",
+      "note": "Buddhist triad wording: corpo e parola."
+     }
+    ]
+   },
+   {
+    "term_id": "T406",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Conoscitore della realtà",
+      "children": "Chi sa come sono davvero le cose",
+      "note": "Epithet emphasizing direct knowledge of reality."
+     }
+    ]
+   },
+   {
+    "term_id": "T407",
+    "senses": [
+     {
+      "sense": "secret of the mind",
+      "academic": "segreto della mente",
+      "children": "segreto della mente",
+      "note": "Secret modifies fixed mente."
+     }
+    ]
+   },
+   {
+    "term_id": "T408",
+    "senses": [
+     {
+      "sense": "guarding the mind",
+      "academic": "custodia della mente",
+      "children": "proteggere la mente",
+      "note": "Children uses plain infinitive phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T409",
+    "senses": [
+     {
+      "sense": "name of a hell",
+      "academic": "inferno Distruttore",
+      "children": "inferno Distruttore",
+      "note": "Descriptive hell name with fixed inferno."
+     }
+    ]
+   },
+   {
+    "term_id": "T410",
+    "senses": [
+     {
+      "sense": "practitioner of restraint",
+      "academic": "praticante del dominio di sé",
+      "children": "persona che si controlla",
+      "note": "Yati rendered as self-restraint practitioner."
+     }
+    ]
+   },
+   {
+    "term_id": "T411",
+    "senses": [
+     {
+      "sense": "recollection of the Buddha",
+      "academic": "ricordo del Buddha",
+      "children": "tenere il Buddha nella mente",
+      "note": "Anusmṛti as recollection; children phrase with fixed mente."
+     }
+    ]
+   },
+   {
+    "term_id": "T412",
+    "senses": [
+     {
+      "sense": "shame",
+      "academic": "vergogna",
+      "children": "vergogna",
+      "note": "Plain shame, distinct from moral sense of shame."
+     }
+    ]
+   },
+   {
+    "term_id": "T413",
+    "senses": [
+     {
+      "sense": "mad elephant of the mind",
+      "academic": "elefante impazzito della mente",
+      "children": "elefante matto della mente",
+      "note": "Metaphor for the untamed fixed mente."
+     }
+    ]
+   },
+   {
+    "term_id": "T414",
+    "senses": [
+     {
+      "sense": "concentration",
+      "academic": "concentrazione",
+      "children": "concentrazione profonda",
+      "note": "Samādhāna rendered as concentration."
+     }
+    ]
+   },
+   {
+    "term_id": "T415",
+    "senses": [
+     {
+      "sense": "moment",
+      "academic": "istante",
+      "children": "momento",
+      "note": "Kṣaṇa as technical instant; children use momento."
+     }
+    ]
+   },
+   {
+    "term_id": "T416",
+    "senses": [
+     {
+      "sense": "equanimity",
+      "academic": "equanimità",
+      "children": "mente calma e uguale",
+      "note": "Even-mindedness kept as a plain phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T417",
+    "senses": [
+     {
+      "sense": "secondary affliction",
+      "academic": "afflizione secondaria",
+      "children": "emozione che disturba secondaria",
+      "note": "Secondary modifies fixed affliction renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T418",
+    "senses": [
+     {
+      "sense": "mockery",
+      "academic": "derisione",
+      "children": "presa in giro",
+      "note": "Academic noun; children use everyday singular phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T419",
+    "senses": [
+     {
+      "sense": "arrogance",
+      "academic": "arroganza",
+      "children": "credersi superiore",
+      "note": "Arrogance kept distinct from fixed orgoglio."
+     }
+    ]
+   },
+   {
+    "term_id": "T420",
+    "senses": [
+     {
+      "sense": "exposing others' faults",
+      "academic": "rivelazione dei difetti altrui",
+      "children": "far vedere i difetti degli altri",
+      "note": "Fault-exposing phrase, not a different misdeed."
+     }
+    ]
+   },
+   {
+    "term_id": "T421",
+    "senses": [
+     {
+      "sense": "duplicity",
+      "academic": "doppiezza",
+      "children": "furbizia",
+      "note": "Duplicity as doppiezza; children follow approved sneakiness."
+     }
+    ]
+   },
+   {
+    "term_id": "T422",
+    "senses": [
+     {
+      "sense": "deceptive mind",
+      "academic": "mente ingannatrice",
+      "children": "mente che inganna",
+      "note": "Deceptive modifies fixed mente."
+     }
+    ]
+   },
+   {
+    "term_id": "T423",
+    "senses": [
+     {
+      "sense": "regret (variant of )",
+      "academic": "rimorso",
+      "children": "rimpianto",
+      "note": "Ethical regret; label variant preserved."
+     }
+    ]
+   },
+   {
+    "term_id": "T424",
+    "senses": [
+     {
+      "sense": "fame",
+      "academic": "fama",
+      "children": "fama",
+      "note": "Ordinary fame."
+     }
+    ]
+   },
+   {
+    "term_id": "T425",
+    "senses": [
+     {
+      "sense": "attendants and retinue",
+      "academic": "assistenti e seguito",
+      "children": "aiutanti e seguaci",
+      "note": "Parivāra split by register."
+     }
+    ]
+   },
+   {
+    "term_id": "T426",
+    "senses": [
+     {
+      "sense": "impatience",
+      "academic": "impazienza",
+      "children": "impazienza",
+      "note": "Opposite of fixed pazienza."
+     }
+    ]
+   },
+   {
+    "term_id": "T427",
+    "senses": [
+     {
+      "sense": "impudence",
+      "academic": "sfrontatezza",
+      "children": "maleducazione",
+      "note": "Impudence distinct from mada arrogance."
+     }
+    ]
+   },
+   {
+    "term_id": "T428",
+    "senses": [
+     {
+      "sense": "idle chatter",
+      "academic": "chiacchiericcio",
+      "children": "chiacchiere inutili",
+      "note": "Idle talk, not mere talkativeness."
+     }
+    ]
+   },
+   {
+    "term_id": "T429",
+    "senses": [
+     {
+      "sense": "hero",
+      "academic": "eroe",
+      "children": "eroe",
+      "note": "Plain hero, not bodhisattva rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T430",
+    "senses": [
+     {
+      "sense": "excellent faith",
+      "academic": "fede eccellente",
+      "children": "fiducia profonda",
+      "note": "Prasanna as serene faith; children say trust."
+     }
+    ]
+   },
+   {
+    "term_id": "T431",
+    "senses": [
+     {
+      "sense": "sense of shame",
+      "academic": "senso della vergogna",
+      "children": "senso della vergogna",
+      "note": "Positive moral sense of shame."
+     }
+    ]
+   },
+   {
+    "term_id": "T432",
+    "senses": [
+     {
+      "sense": "apprehension, fear of wrongdoing",
+      "academic": "apprensione",
+      "children": "paura di fare qualcosa di sbagliato",
+      "note": "Moral apprehension about wrongdoing."
+     }
+    ]
+   },
+   {
+    "term_id": "T433",
+    "senses": [
+     {
+      "sense": "compassionate one",
+      "academic": "dotato di compassione",
+      "children": "pieno di compassione",
+      "note": "Substantivized compassionate person."
+     }
+    ]
+   },
+   {
+    "term_id": "T434",
+    "senses": [
+     {
+      "sense": "blameless",
+      "academic": "irreprensibile",
+      "children": "senza colpa",
+      "note": "Anavadya as irreprensibile."
+     }
+    ]
+   },
+   {
+    "term_id": "T435",
+    "senses": [
+     {
+      "sense": "emanation",
+      "academic": "emanazione",
+      "children": "creazione magica",
+      "note": "Nirmāṇa as magically produced creation."
+     }
+    ]
+   },
+   {
+    "term_id": "T436",
+    "senses": [
+     {
+      "sense": "I",
+      "academic": "io",
+      "children": "io",
+      "note": "First-person pronoun, not ātman."
+     }
+    ]
+   },
+   {
+    "term_id": "T437",
+    "senses": [
+     {
+      "sense": "supreme leisure",
+      "academic": "suprema opportunità",
+      "children": "migliore occasione per praticare",
+      "note": "Leisure means freedom and opportunity to practise."
+     }
+    ]
+   },
+   {
+    "term_id": "T438",
+    "senses": [
+     {
+      "sense": "weapon of wisdom",
+      "academic": "arma della saggezza",
+      "children": "lama della saggezza",
+      "note": "Prajñā as saggezza; children choose blade."
+     }
+    ]
+   },
+   {
+    "term_id": "T439",
+    "senses": [
+     {
+      "sense": "human body",
+      "academic": "ogni corpo umano",
+      "children": "corpo umano",
+      "note": "Academic keeps universal quantifier; fixed corpo."
+     }
+    ]
+   },
+   {
+    "term_id": "T440",
+    "senses": [
+     {
+      "sense": "wish-fulfilling",
+      "academic": "che esaudisce i desideri",
+      "children": "che fa avverare i desideri",
+      "note": "Adjectival wish-fulfilling power phrase."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4039,
+  "output": 1862,
+  "thinking": 7557,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 197.16,
+ "attempt": 1
+}

@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T441",
+    "senses": [
+     {
+      "sense": "epithet of a buddha",
+      "academic": "le Compatissant",
+      "children": "le Compatissant",
+      "note": "Epithet highlighting the Buddha's compassion; same rendering both registers as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T442",
+    "senses": [
+     {
+      "sense": "three Dharma robes",
+      "academic": "trois robes du Dharma",
+      "children": "trois robes de moine",
+      "note": "Monk's three robes; children rendering says monk plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T443",
+    "senses": [
+     {
+      "sense": "conduct of the bodhisattva",
+      "academic": "conduite du bodhisattva",
+      "children": "façon d'agir du héros de l'éveil",
+      "note": "Children uses fixed rendering for bodhisattva."
+     }
+    ]
+   },
+   {
+    "term_id": "T444",
+    "senses": [
+     {
+      "sense": "Three Heaps Sūtra",
+      "academic": "Sūtra des trois monceaux",
+      "children": "texte des trois monceaux",
+      "note": "Triskandhasūtra; children calls it a text, not a sūtra."
+     }
+    ]
+   },
+   {
+    "term_id": "T445",
+    "senses": [
+     {
+      "sense": "dedication",
+      "academic": "dédicace",
+      "children": "partage de la bonté",
+      "note": "Dedication of merit; children phrase mirrors sharing goodness."
+     }
+    ]
+   },
+   {
+    "term_id": "T446",
+    "senses": [
+     {
+      "sense": "spiritual friend",
+      "academic": "ami spirituel",
+      "children": "ami qui guide",
+      "note": "Kalyāṇamitra, the teacher or guide on the path."
+     }
+    ]
+   },
+   {
+    "term_id": "T447",
+    "senses": [
+     {
+      "sense": "Śrīsaṃbhava",
+      "academic": "Śrīsaṃbhava",
+      "children": "Shrisambhava",
+      "note": "Proper name; children drops diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T448",
+    "senses": [
+     {
+      "sense": "title of a sūtra",
+      "academic": "Sūtra d'Ākāśagarbha",
+      "children": "Enseignement d'Akashagarbha",
+      "note": "Sūtra named after the bodhisattva Ākāśagarbha."
+     }
+    ]
+   },
+   {
+    "term_id": "T449",
+    "senses": [
+     {
+      "sense": "Śikṣāsamuccaya (title)",
+      "academic": "Śikṣāsamuccaya",
+      "children": "Recueil des entraînements",
+      "note": "Śāntideva's compendium; Sanskrit kept academic, translated for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T450",
+    "senses": [
+     {
+      "sense": "title of a work by Nāgārjuna",
+      "academic": "Recueil des sūtras",
+      "children": "Recueil des paroles du Bouddha",
+      "note": "Nāgārjuna's anthology; sūtra explained as the Buddha's words for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T451",
+    "senses": [
+     {
+      "sense": "noble Nāgārjuna",
+      "academic": "noble Nāgārjuna",
+      "children": "Nagarjuna",
+      "note": "Honorific form of the philosopher's name."
+     }
+    ]
+   },
+   {
+    "term_id": "T452",
+    "senses": [
+     {
+      "sense": "Nāgārjuna",
+      "academic": "Nāgārjuna",
+      "children": "Nagarjuna",
+      "note": "Proper name; simplified spelling for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T453",
+    "senses": [
+     {
+      "sense": "Noble",
+      "academic": "Noble",
+      "children": "noble",
+      "note": "Ārya, one who has attained noble realization."
+     }
+    ]
+   },
+   {
+    "term_id": "T454",
+    "senses": [
+     {
+      "sense": "generosity",
+      "academic": "générosité",
+      "children": "don",
+      "note": "First pāramitā; children uses everyday word for giving."
+     }
+    ]
+   },
+   {
+    "term_id": "T455",
+    "senses": [
+     {
+      "sense": "good conduct, good deed",
+      "academic": "bonne conduite",
+      "children": "bonne action",
+      "note": "Wholesome behavior and deeds."
+     }
+    ]
+   },
+   {
+    "term_id": "T456",
+    "senses": [
+     {
+      "sense": "renunciation",
+      "academic": "renonciation",
+      "children": "envie d'être libre",
+      "note": "Wishing to leave saṃsāra; children phrase expresses the wish for freedom."
+     }
+    ]
+   },
+   {
+    "term_id": "T457",
+    "senses": [
+     {
+      "sense": "name of a goddess",
+      "academic": "Durgā",
+      "children": "Durga",
+      "note": "Proper name of the goddess."
+     }
+    ]
+   },
+   {
+    "term_id": "T458",
+    "senses": [
+     {
+      "sense": "Karṇapa (people)",
+      "academic": "Karṇapa",
+      "children": "Karnapa",
+      "note": "Name of a people; children drops diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T459",
+    "senses": [
+     {
+      "sense": "bile",
+      "academic": "bile",
+      "children": "bile",
+      "note": "Everyday bodily term, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T460",
+    "senses": [
+     {
+      "sense": "heedlessness",
+      "academic": "insouciance",
+      "children": "négligence",
+      "note": "Pramāda, lack of vigilance; simpler word for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T461",
+    "senses": [
+     {
+      "sense": "fasting",
+      "academic": "jeûne",
+      "children": "rester sans manger",
+      "note": "Abstaining from food; plain phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T462",
+    "senses": [
+     {
+      "sense": "non-meritorious conduct",
+      "academic": "conduite non méritoire",
+      "children": "façon d'agir qui ne remplit pas la réserve de bonté",
+      "note": "Children reuses fixed rendering of merit, réserve de bonté."
+     }
+    ]
+   },
+   {
+    "term_id": "T464",
+    "senses": [
+     {
+      "sense": "perversity",
+      "academic": "perversion",
+      "children": "façon erronée",
+      "note": "Viparyaya, inverted wrong view; children says mistaken way."
+     }
+    ]
+   },
+   {
+    "term_id": "T465",
+    "senses": [
+     {
+      "sense": "intention",
+      "academic": "intention",
+      "children": "intention",
+      "note": "Already an everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T466",
+    "senses": [
+     {
+      "sense": "fixation",
+      "academic": "fixation",
+      "children": "tenir très fort",
+      "note": "Stubborn clinging; distinct from attachement, s'accrocher."
+     }
+    ]
+   },
+   {
+    "term_id": "T467",
+    "senses": [
+     {
+      "sense": "harsh speech",
+      "academic": "parole dure",
+      "children": "paroles blessantes",
+      "note": "One of the ten nonvirtuous acts; hurtful words for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T468",
+    "senses": [
+     {
+      "sense": "other life",
+      "academic": "autre existence",
+      "children": "autre vie",
+      "note": "Future or other rebirth."
+     }
+    ]
+   },
+   {
+    "term_id": "T469",
+    "senses": [
+     {
+      "sense": "obstacle",
+      "academic": "obstacle",
+      "children": "chose qui bloque le chemin",
+      "note": "Children paraphrases something standing in the way."
+     }
+    ]
+   },
+   {
+    "term_id": "T470",
+    "senses": [
+     {
+      "sense": "wrong livelihood",
+      "academic": "moyens de subsistance erronés",
+      "children": "mauvaise façon de gagner sa vie",
+      "note": "Opposite of right livelihood on the eightfold path."
+     }
+    ]
+   },
+   {
+    "term_id": "T471",
+    "senses": [
+     {
+      "sense": "suffering of death",
+      "academic": "souffrance de la mort",
+      "children": "souffrance de la mort",
+      "note": "Uses fixed rendering souffrance; same both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T472",
+    "senses": [
+     {
+      "sense": "one with good qualities",
+      "academic": "personne dotée de bonnes qualités",
+      "children": "personne qui a de bonnes qualités",
+      "note": "Reuses fixed rendering bonne qualité."
+     }
+    ]
+   },
+   {
+    "term_id": "T473",
+    "senses": [
+     {
+      "sense": "seen and unseen",
+      "academic": "le visible et l'invisible",
+      "children": "cette vie et la vie d'après",
+      "note": "Idiomatically this life and the next, as children rendering states."
+     }
+    ]
+   },
+   {
+    "term_id": "T474",
+    "senses": [
+     {
+      "sense": "generation of bodhicitta",
+      "academic": "génération de la bodhicitta",
+      "children": "faire naître l'esprit d'éveil",
+      "note": "Reuses fixed bodhicitta renderings in each register."
+     }
+    ]
+   },
+   {
+    "term_id": "T475",
+    "senses": [
+     {
+      "sense": "Buddhahood",
+      "academic": "éveil en tant que Bouddha",
+      "children": "devenir un Bouddha",
+      "note": "Attainment of awakening as a Buddha."
+     }
+    ]
+   },
+   {
+    "term_id": "T476",
+    "senses": [
+     {
+      "sense": "honor and respect",
+      "academic": "honneur et respect",
+      "children": "respect",
+      "note": "Children condenses to one everyday word, as English does."
+     }
+    ]
+   },
+   {
+    "term_id": "T477",
+    "senses": [
+     {
+      "sense": "benefactor",
+      "academic": "bienfaiteur",
+      "children": "donateur",
+      "note": "Dānapati, patron who gives to the community."
+     }
+    ]
+   },
+   {
+    "term_id": "T478",
+    "senses": [
+     {
+      "sense": "enemy",
+      "academic": "ennemi",
+      "children": "ennemi",
+      "note": "Everyday word, same both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T479",
+    "senses": [
+     {
+      "sense": "cauldron of hell",
+      "academic": "chaudron des enfers",
+      "children": "chaudron des enfers",
+      "note": "Hell cauldron; uses fixed enfer rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T480",
+    "senses": [
+     {
+      "sense": "praise",
+      "academic": "louange",
+      "children": "louange",
+      "note": "Hymn or words of praise offered to Buddhas."
+     }
+    ]
+   },
+   {
+    "term_id": "T481",
+    "senses": [
+     {
+      "sense": "honor",
+      "academic": "honneur",
+      "children": "honneur",
+      "note": "Distinct sense from T476, which adds respect."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4205,
+  "output": 2472,
+  "thinking": 5693,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 218.23,
+ "attempt": 1
+}

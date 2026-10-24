@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T401",
+    "senses": [
+     {
+      "sense": "mind of anger",
+      "academic": "akili ya hasira",
+      "children": "akili ya hasira",
+      "note": "Compound reuses fixed terms akili (citta) and hasira (krodha)."
+     }
+    ]
+   },
+   {
+    "term_id": "T402",
+    "senses": [
+     {
+      "sense": "external entity",
+      "academic": "kitu cha nje",
+      "children": "kitu cha nje",
+      "note": "Reuses fixed rendering kitu for entity."
+     }
+    ]
+   },
+   {
+    "term_id": "T403",
+    "senses": [
+     {
+      "sense": "Brahmā",
+      "academic": "Brahma",
+      "children": "Brahma",
+      "note": "Proper name in standard Swahili spelling without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T404",
+    "senses": [
+     {
+      "sense": "clear mind",
+      "academic": "akili safi",
+      "children": "akili safi",
+      "note": "Reuses akili; safi covers clear and pure."
+     }
+    ]
+   },
+   {
+    "term_id": "T405",
+    "senses": [
+     {
+      "sense": "body and speech",
+      "academic": "mwili na usemi",
+      "children": "mwili na maneno",
+      "note": "Children use everyday maneno for speech."
+     }
+    ]
+   },
+   {
+    "term_id": "T406",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Mjuaji wa Uhalisia",
+      "children": "Mjuaji wa mambo kama yalivyo",
+      "note": "Honorific epithet; children phrase mirrors plain English gloss."
+     }
+    ]
+   },
+   {
+    "term_id": "T407",
+    "senses": [
+     {
+      "sense": "secret of the mind",
+      "academic": "siri ya akili",
+      "children": "siri ya akili",
+      "note": "Reuses fixed akili; siri is everyday word for secret."
+     }
+    ]
+   },
+   {
+    "term_id": "T408",
+    "senses": [
+     {
+      "sense": "guarding the mind",
+      "academic": "ulinzi wa akili",
+      "children": "kulinda akili",
+      "note": "Academic nominal form; children simple infinitive phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T409",
+    "senses": [
+     {
+      "sense": "name of a hell",
+      "academic": "Jehanamu ya Uharibifu",
+      "children": "Jehanamu ya Kuharibu",
+      "note": "Proper hell name built on fixed jehanamu."
+     }
+    ]
+   },
+   {
+    "term_id": "T410",
+    "senses": [
+     {
+      "sense": "practitioner of restraint",
+      "academic": "mwenye kujizuia",
+      "children": "mtu anayejitawala",
+      "note": "Yati rendered descriptively as one who restrains self."
+     }
+    ]
+   },
+   {
+    "term_id": "T411",
+    "senses": [
+     {
+      "sense": "recollection of the Buddha",
+      "academic": "kumkumbuka Buddha",
+      "children": "kumweka Buddha akilini",
+      "note": "Children phrase follows keeping the Buddha in mind."
+     }
+    ]
+   },
+   {
+    "term_id": "T412",
+    "senses": [
+     {
+      "sense": "shame",
+      "academic": "aibu",
+      "children": "aibu",
+      "note": "Common everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T413",
+    "senses": [
+     {
+      "sense": "mad elephant of the mind",
+      "academic": "tembo mwenye wazimu wa akili",
+      "children": "tembo mwenye wazimu wa akili",
+      "note": "Metaphor kept literally; reuses akili."
+     }
+    ]
+   },
+   {
+    "term_id": "T414",
+    "senses": [
+     {
+      "sense": "concentration",
+      "academic": "samadhi",
+      "children": "umakini mkubwa",
+      "note": "Established loan for academic; plain phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T415",
+    "senses": [
+     {
+      "sense": "moment",
+      "academic": "kitambo",
+      "children": "kitambo",
+      "note": "Kitambo covers the very brief instant of kṣaṇa."
+     }
+    ]
+   },
+   {
+    "term_id": "T416",
+    "senses": [
+     {
+      "sense": "equanimity",
+      "academic": "usawa wa akili",
+      "children": "moyo tulivu",
+      "note": "Even-mindedness rendered as calm, balanced mind."
+     }
+    ]
+   },
+   {
+    "term_id": "T417",
+    "senses": [
+     {
+      "sense": "secondary affliction",
+      "academic": "uchafuzi mdogo wa akili",
+      "children": "hisia ndogo zinazosumbua",
+      "note": "Built on fixed kleśa renderings with mdogo/ndogo for secondary."
+     }
+    ]
+   },
+   {
+    "term_id": "T418",
+    "senses": [
+     {
+      "sense": "mockery",
+      "academic": "dhihaka",
+      "children": "dhihaka",
+      "note": "Standard Swahili word, same both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T419",
+    "senses": [
+     {
+      "sense": "arrogance",
+      "academic": "majivuno",
+      "children": "kujivuna",
+      "note": "Kept distinct from kiburi (pride)."
+     }
+    ]
+   },
+   {
+    "term_id": "T420",
+    "senses": [
+     {
+      "sense": "exposing others' faults",
+      "academic": "kufichua makosa ya wengine",
+      "children": "kusema makosa ya wengine",
+      "note": "Gerund phrase; children use simpler kusema."
+     }
+    ]
+   },
+   {
+    "term_id": "T421",
+    "senses": [
+     {
+      "sense": "duplicity",
+      "academic": "hila",
+      "children": "ujanja",
+      "note": "Deceitful cunning; children use everyday ujanja."
+     }
+    ]
+   },
+   {
+    "term_id": "T422",
+    "senses": [
+     {
+      "sense": "deceptive mind",
+      "academic": "akili ya kudanganya",
+      "children": "akili ya kudanganya",
+      "note": "Reuses akili; kudanganya covers deceptive and deceiving."
+     }
+    ]
+   },
+   {
+    "term_id": "T423",
+    "senses": [
+     {
+      "sense": "regret (variant of )",
+      "academic": "majuto",
+      "children": "majuto",
+      "note": "Standard noun for regret, simple enough for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T424",
+    "senses": [
+     {
+      "sense": "fame",
+      "academic": "umaarufu",
+      "children": "umaarufu",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T425",
+    "senses": [
+     {
+      "sense": "attendants and retinue",
+      "academic": "wahudumu na wafuasi",
+      "children": "wasaidizi na wafuasi",
+      "note": "Children use wasaidizi for helpers."
+     }
+    ]
+   },
+   {
+    "term_id": "T426",
+    "senses": [
+     {
+      "sense": "impatience",
+      "academic": "ukosefu wa uvumilivu",
+      "children": "kukosa subira",
+      "note": "Negation of fixed patience renderings uvumilivu and subira."
+     }
+    ]
+   },
+   {
+    "term_id": "T427",
+    "senses": [
+     {
+      "sense": "impudence",
+      "academic": "kutokuwa na heshima",
+      "children": "kutokuwa na adabu",
+      "note": "Rudeness shown as lack of respect or manners."
+     }
+    ]
+   },
+   {
+    "term_id": "T428",
+    "senses": [
+     {
+      "sense": "idle chatter",
+      "academic": "maneno ya upuuzi",
+      "children": "maneno ya bure",
+      "note": "Idle, pointless talk; children phrase simpler."
+     }
+    ]
+   },
+   {
+    "term_id": "T429",
+    "senses": [
+     {
+      "sense": "hero",
+      "academic": "shujaa",
+      "children": "shujaa",
+      "note": "Everyday word shared by both registers; compare shujaa wa uamsho."
+     }
+    ]
+   },
+   {
+    "term_id": "T430",
+    "senses": [
+     {
+      "sense": "excellent faith",
+      "academic": "imani safi",
+      "children": "imani kuu",
+      "note": "Faith as imani; children phrase conveys deep trust."
+     }
+    ]
+   },
+   {
+    "term_id": "T431",
+    "senses": [
+     {
+      "sense": "sense of shame",
+      "academic": "haya",
+      "children": "haya",
+      "note": "Haya (modest shame) distinct from aibu (shame, T412)."
+     }
+    ]
+   },
+   {
+    "term_id": "T432",
+    "senses": [
+     {
+      "sense": "apprehension, fear of wrongdoing",
+      "academic": "hofu",
+      "children": "hofu ya kutenda vibaya",
+      "note": "Children spelling out fear of doing wrong."
+     }
+    ]
+   },
+   {
+    "term_id": "T433",
+    "senses": [
+     {
+      "sense": "compassionate one",
+      "academic": "mwenye huruma",
+      "children": "mwenye huruma",
+      "note": "Same simple phrase in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T434",
+    "senses": [
+     {
+      "sense": "blameless",
+      "academic": "asiye na lawama",
+      "children": "asiye na kosa",
+      "note": "Children use everyday kosa for blame."
+     }
+    ]
+   },
+   {
+    "term_id": "T435",
+    "senses": [
+     {
+      "sense": "emanation",
+      "academic": "umbo la kiujiza",
+      "children": "kitu kilichoumbwa kwa uchawi",
+      "note": "Descriptive rendering of nirmāṇa; no established Swahili loan."
+     }
+    ]
+   },
+   {
+    "term_id": "T436",
+    "senses": [
+     {
+      "sense": "I",
+      "academic": "mimi",
+      "children": "mimi",
+      "note": "Ordinary pronoun in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T437",
+    "senses": [
+     {
+      "sense": "supreme leisure",
+      "academic": "faragha tukufu",
+      "children": "nafasi bora ya kujifunza",
+      "note": "Leisure as rare free opportunity for Dharma practice."
+     }
+    ]
+   },
+   {
+    "term_id": "T438",
+    "senses": [
+     {
+      "sense": "weapon of wisdom",
+      "academic": "silaha ya hekima",
+      "children": "upanga wa hekima",
+      "note": "Prajñā rendered hekima; children use blade image."
+     }
+    ]
+   },
+   {
+    "term_id": "T439",
+    "senses": [
+     {
+      "sense": "human body",
+      "academic": "kila mwili wa binadamu",
+      "children": "mwili wa binadamu",
+      "note": "Academic keeps universal sense; children simple phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T440",
+    "senses": [
+     {
+      "sense": "wish-fulfilling",
+      "academic": "yenye kutimiza matakwa",
+      "children": "inayotimiza matamanio",
+      "note": "Adjectival phrase; children use matamanio for wishes."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4119,
+  "output": 2419,
+  "thinking": 5668,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 137.62,
+ "attempt": 1
+}

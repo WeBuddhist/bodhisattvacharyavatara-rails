@@ -1,0 +1,60 @@
+{
+ "objections": [
+  {
+   "term_id": "T034",
+   "sense": "epithet of the Buddhas",
+   "field": "academic",
+   "proposed": "Vincitore",
+   "reason": "Established Italian rendering of jina is 'Vincitore'; 'Vittorioso' is uncommon. Matches children's field."
+  },
+  {
+   "term_id": "T110",
+   "sense": "child of the Victors",
+   "field": "academic",
+   "proposed": "figlio dei Vincitori",
+   "reason": "Follows T034 correction: jina is 'Vincitore', not 'Vittorioso'."
+  },
+  {
+   "term_id": "T083",
+   "sense": "emptiness",
+   "field": "children",
+   "proposed": "vacuità",
+   "reason": "'vuoto' reads as plain void/nothingness and diverges from academic field; use the established term 'vacuità' consistently."
+  },
+  {
+   "term_id": "T091",
+   "sense": "spiritual teacher",
+   "field": "academic",
+   "proposed": "maestro spirituale",
+   "reason": "Plain 'maestro' is also used for ācārya (T202); distinguish the guru/bla ma sense, as the sense label says 'spiritual teacher'."
+  },
+  {
+   "term_id": "T097",
+   "sense": "like a log",
+   "field": "children",
+   "proposed": "come un pezzo di legno",
+   "reason": "'ciocco' is archaic/rare and not simple enough for ages 8 to 12."
+  },
+  {
+   "term_id": "T099",
+   "sense": "welfare of others",
+   "field": "academic",
+   "proposed": "bene altrui",
+   "reason": "Inconsistent with T072 (same concept, 'bene altrui') and T064 'bene proprio'; 'benessere' shifts the meaning to comfort."
+  },
+  {
+   "term_id": "T116",
+   "sense": "Tathāgata",
+   "field": "children",
+   "proposed": "Colui che è andato così",
+   "reason": "Inconsistent capitalisation with T070 (same epithet); use identical form."
+  },
+  {
+   "term_id": "T093",
+   "sense": "Avīci hell",
+   "field": "children",
+   "proposed": "Avici",
+   "reason": "Children's names are written without diacritics; T392 (same hell) already uses 'Avici'. Keep identical."
+  }
+ ]
+}

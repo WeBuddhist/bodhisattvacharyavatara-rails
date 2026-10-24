@@ -1,5 +1,6 @@
 ---
-title: 《走進菩薩的修行之道》
+title: 《走進菩薩的修行之道》 — AI 翻譯（兒童版）
+ai_generated: true
 track: zh-children
 language: Chinese
 lang_tag: zh
@@ -17,7 +18,7 @@ generation_date: 2026-10-08
 status: draft
 ---
 
-# 《走進菩薩的修行之道》 ^0
+# 《走進菩薩的修行之道》 — AI 翻譯（兒童版） ^0
 
 ## 前言 ^I-0
 

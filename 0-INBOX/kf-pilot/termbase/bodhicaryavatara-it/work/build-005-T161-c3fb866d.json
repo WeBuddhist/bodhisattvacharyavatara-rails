@@ -1,0 +1,468 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T161",
+    "senses": [
+     {
+      "sense": "sūtra",
+      "academic": "sūtra",
+      "children": "scrittura",
+      "note": "Transliteration standard in Italian Buddhist studies; plain 'scrittura' for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T162",
+    "senses": [
+     {
+      "sense": "anger",
+      "academic": "rabbia",
+      "children": "rabbia",
+      "note": "English label identical to krodha; same rendering kept, per English."
+     }
+    ]
+   },
+   {
+    "term_id": "T163",
+    "senses": [
+     {
+      "sense": "primal matter of Sāṃkhya",
+      "academic": "Pradhāna",
+      "children": "materia primordiale",
+      "note": "Sanskrit proper term kept academically; descriptive phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T164",
+    "senses": [
+     {
+      "sense": "space",
+      "academic": "spazio",
+      "children": "spazio",
+      "note": "Everyday word suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T165",
+    "senses": [
+     {
+      "sense": "hell guardian",
+      "academic": "guardiano dell'inferno",
+      "children": "guardiano dell'inferno",
+      "note": "Fixed 'inferno' reused; phrase already simple."
+     }
+    ]
+   },
+   {
+    "term_id": "T166",
+    "senses": [
+     {
+      "sense": "this life",
+      "academic": "questa vita",
+      "children": "questa vita",
+      "note": "Same plain phrase works in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T167",
+    "senses": [
+     {
+      "sense": "patience, tolerance",
+      "academic": "pazienza",
+      "children": "pazienza",
+      "note": "Matches fixed kṣānti rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T168",
+    "senses": [
+     {
+      "sense": "own interest",
+      "academic": "interesse personale",
+      "children": "il proprio bene",
+      "note": "Academic keeps technical 'interesse'; children phrase mirrors 'own good'."
+     }
+    ]
+   },
+   {
+    "term_id": "T169",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Saggio",
+      "children": "Saggio",
+      "note": "Standard Italian rendering of Muni as Buddha epithet."
+     }
+    ]
+   },
+   {
+    "term_id": "T170",
+    "senses": [
+     {
+      "sense": "Buddhahood",
+      "academic": "buddhità",
+      "children": "stato di Buddha",
+      "note": "Abstract noun for scholars; plain phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T171",
+    "senses": [
+     {
+      "sense": "distraction",
+      "academic": "distrazione",
+      "children": "distrazione",
+      "note": "Common word fits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T172",
+    "senses": [
+     {
+      "sense": "aspiration, zeal",
+      "academic": "aspirazione",
+      "children": "forte desiderio",
+      "note": "Technical 'aspirazione'; simple wish-phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T173",
+    "senses": [
+     {
+      "sense": "meditative concentration",
+      "academic": "concentrazione meditativa",
+      "children": "concentrazione tranquilla",
+      "note": "Standard meditation term; calm-focus phrasing for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T174",
+    "senses": [
+     {
+      "sense": "true reality",
+      "academic": "vera realtà",
+      "children": "ciò che è davvero reale",
+      "note": "Academic noun phrase; explanatory plain phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T175",
+    "senses": [
+     {
+      "sense": "grief",
+      "academic": "dolore",
+      "children": "tristezza",
+      "note": "'Dolore' kept distinct from 'sofferenza' (duḥkha); softer word for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T176",
+    "senses": [
+     {
+      "sense": "childish person",
+      "academic": "persona infantile",
+      "children": "persona sciocca",
+      "note": "Academic literal; children's matches English 'foolish person'."
+     }
+    ]
+   },
+   {
+    "term_id": "T177",
+    "senses": [
+     {
+      "sense": "welfare, own and others' aim",
+      "academic": "bene",
+      "children": "bene",
+      "note": "Standard rendering of artha as welfare; already simple."
+     },
+     {
+      "sense": "object",
+      "academic": "oggetto",
+      "children": "oggetto",
+      "note": "Distinct sense, distinct rendering; everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T178",
+    "senses": [
+     {
+      "sense": "charnel ground",
+      "academic": "terreno di cremazione",
+      "children": "luogo dei morti",
+      "note": "Academic precise term; gentle plain phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T179",
+    "senses": [
+     {
+      "sense": "skeleton",
+      "academic": "scheletro",
+      "children": "scheletro",
+      "note": "Everyday word, both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T180",
+    "senses": [
+     {
+      "sense": "impure",
+      "academic": "impuro",
+      "children": "sporco",
+      "note": "Register adjective academically; simple 'sporco' for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T181",
+    "senses": [
+     {
+      "sense": "seed",
+      "academic": "seme",
+      "children": "seme",
+      "note": "Everyday word, both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T182",
+    "senses": [
+     {
+      "sense": "selflessness",
+      "academic": "assenza dell'io",
+      "children": "senza un io separato",
+      "note": "Reuses fixed 'io' (ātman); children phrase mirrors 'no separate self'."
+     }
+    ]
+   },
+   {
+    "term_id": "T183",
+    "senses": [
+     {
+      "sense": "habituation",
+      "academic": "assuefazione",
+      "children": "farci l'abitudine",
+      "note": "Technical noun; process phrase matching 'getting used to'."
+     }
+    ]
+   },
+   {
+    "term_id": "T184",
+    "senses": [
+     {
+      "sense": "means of valid knowing",
+      "academic": "cognizione valida",
+      "children": "modo affidabile di conoscere",
+      "note": "Established pramāṇa rendering; plain explanation for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T185",
+    "senses": [
+     {
+      "sense": "continuum",
+      "academic": "continuum",
+      "children": "flusso ininterrotto",
+      "note": "Latinism standard in scholarship; flow image for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T186",
+    "senses": [
+     {
+      "sense": "lamp",
+      "academic": "lampada",
+      "children": "lampada",
+      "note": "Everyday word, both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T187",
+    "senses": [
+     {
+      "sense": "consciousness",
+      "academic": "coscienza",
+      "children": "consapevolezza",
+      "note": "Academic 'coscienza'; children matches English 'awareness'."
+     }
+    ]
+   },
+   {
+    "term_id": "T188",
+    "senses": [
+     {
+      "sense": "monk",
+      "academic": "monaco",
+      "children": "monaco",
+      "note": "Standard Italian for bhikṣu."
+     }
+    ]
+   },
+   {
+    "term_id": "T189",
+    "senses": [
+     {
+      "sense": "rajas, one of the three guṇas",
+      "academic": "rajas",
+      "children": "irrequietezza",
+      "note": "Transliteration kept academically; quality described for children."
+     },
+     {
+      "sense": "atom",
+      "academic": "atomo",
+      "children": "particella minuscola",
+      "note": "Distinct sense; plain size phrase mirrors 'tiny particle'."
+     }
+    ]
+   },
+   {
+    "term_id": "T190",
+    "senses": [
+     {
+      "sense": "coarse",
+      "academic": "grossolano",
+      "children": "ruvido",
+      "note": "Register adjective; children matches English 'rough'."
+     }
+    ]
+   },
+   {
+    "term_id": "T191",
+    "senses": [
+     {
+      "sense": "basis",
+      "academic": "base",
+      "children": "sostegno",
+      "note": "Academic 'base'; children matches English 'support'."
+     }
+    ]
+   },
+   {
+    "term_id": "T192",
+    "senses": [
+     {
+      "sense": "goddess",
+      "academic": "dea",
+      "children": "dea",
+      "note": "Everyday word, both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T193",
+    "senses": [
+     {
+      "sense": "chief editor-translator",
+      "academic": "capo redattore-traduttore",
+      "children": "capo traduttore-revisore",
+      "note": "Colophon role title; simplified wording for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T194",
+    "senses": [
+     {
+      "sense": "child of the Sugata",
+      "academic": "figlio del Sugata",
+      "children": "figlio di Colui che è andato bene",
+      "note": "Epithet transliterated academically; meaning spelled out for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T195",
+    "senses": [
+     {
+      "sense": "leisure and endowment",
+      "academic": "agio e dotazione",
+      "children": "vita libera e fortunata",
+      "note": "Technical pair term; children matches 'free and fortunate life'."
+     }
+    ]
+   },
+   {
+    "term_id": "T196",
+    "senses": [
+     {
+      "sense": "plantain tree",
+      "academic": "banano",
+      "children": "albero delle banane",
+      "note": "Botanical noun; explicit tree phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T197",
+    "senses": [
+     {
+      "sense": "aspiring bodhicitta",
+      "academic": "bodhicitta dell'aspirazione",
+      "children": "mente che desidera il risveglio",
+      "note": "Compound reuses fixed bodhicitta renderings with aspiration qualifier."
+     }
+    ]
+   },
+   {
+    "term_id": "T198",
+    "senses": [
+     {
+      "sense": "offering",
+      "academic": "offerta",
+      "children": "offerta",
+      "note": "Standard ritual term, already simple."
+     }
+    ]
+   },
+   {
+    "term_id": "T199",
+    "senses": [
+     {
+      "sense": "chapter 2 title",
+      "academic": "Confessione delle azioni negative",
+      "children": "Confessione delle azioni che fanno del male",
+      "note": "Title reuses fixed misdeed renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T200",
+    "senses": [
+     {
+      "sense": "sacred image",
+      "academic": "immagine",
+      "children": "statua",
+      "note": "Academic matches English 'image'; concrete 'statua' for children."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 5548,
+  "output": 2390,
+  "thinking": 3227,
+  "cache_read": 256,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 110.76,
+ "attempt": 1
+}

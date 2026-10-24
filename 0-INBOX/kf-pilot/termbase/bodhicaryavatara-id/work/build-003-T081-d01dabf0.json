@@ -1,0 +1,480 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T081",
+    "senses": [
+     {
+      "sense": "craving",
+      "academic": "kehausan",
+      "children": "keinginan",
+      "note": "tṛṣṇā as 'kehausan' follows Indonesian Buddhist usage; children use plain 'keinginan'."
+     }
+    ]
+   },
+   {
+    "term_id": "T082",
+    "senses": [
+     {
+      "sense": "non-existent thing",
+      "academic": "non-entitas",
+      "children": "sesuatu yang tidak ada",
+      "note": "Mirrors fixed 'entitas/sesuatu' to keep the entity/non-entity contrast."
+     }
+    ]
+   },
+   {
+    "term_id": "T083",
+    "senses": [
+     {
+      "sense": "emptiness",
+      "academic": "sunyata",
+      "children": "kekosongan",
+      "note": "'sunyata' is established in Indonesian Buddhism; children get everyday 'kekosongan'."
+     }
+    ]
+   },
+   {
+    "term_id": "T084",
+    "senses": [
+     {
+      "sense": "Īśvara",
+      "academic": "Iswara",
+      "children": "Sang Pencipta",
+      "note": "Standard Indonesian spelling of the name; children phrase conveys the creator idea."
+     }
+    ]
+   },
+   {
+    "term_id": "T085",
+    "senses": [
+     {
+      "sense": "scripture",
+      "academic": "kitab suci",
+      "children": "kitab suci",
+      "note": "Avoids 'agama', which in Indonesian means religion and would mislead."
+     }
+    ]
+   },
+   {
+    "term_id": "T086",
+    "senses": [
+     {
+      "sense": "existence",
+      "academic": "keberadaan",
+      "children": "kehidupan",
+      "note": "bhava as 'keberadaan'; children rendered as 'kehidupan' per English 'life'."
+     }
+    ]
+   },
+   {
+    "term_id": "T087",
+    "senses": [
+     {
+      "sense": "protector (of beings, epithet of buddhas)",
+      "academic": "Sang Pelindung",
+      "children": "Pelindung",
+      "note": "Epithet pattern 'Sang …' matches fixed 'Sang Penakluk'; children simplified."
+     }
+    ]
+   },
+   {
+    "term_id": "T088",
+    "senses": [
+     {
+      "sense": "ordaining teacher",
+      "academic": "upadhyaya",
+      "children": "guru yang mentahbiskanku",
+      "note": "Loanword kept academically; children phrase explains the ordaining role plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T089",
+    "senses": [
+     {
+      "sense": "ascetic (person)",
+      "academic": "petapa",
+      "children": "orang yang bertapa",
+      "note": "'petapa' is the standard Indonesian term; children phrase is everyday."
+     },
+     {
+      "sense": "ascetic discipline",
+      "academic": "tapa",
+      "children": "latihan yang ketat",
+      "note": "'tapa' is the established term for the practice; children use a plain phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T090",
+    "senses": [
+     {
+      "sense": "take refuge",
+      "academic": "berlindung",
+      "children": "mencari perlindungan",
+      "note": "'berlindung' is the standard Indonesian rendering of śaraṇaṃ gam."
+     }
+    ]
+   },
+   {
+    "term_id": "T091",
+    "senses": [
+     {
+      "sense": "spiritual teacher",
+      "academic": "guru",
+      "children": "guru",
+      "note": "'guru' is already everyday Indonesian, so both registers share it."
+     }
+    ]
+   },
+   {
+    "term_id": "T092",
+    "senses": [
+     {
+      "sense": "anger",
+      "academic": "kemarahan",
+      "children": "rasa marah",
+      "note": "Same sense as fixed krodha entry, so its renderings are reused."
+     }
+    ]
+   },
+   {
+    "term_id": "T093",
+    "senses": [
+     {
+      "sense": "Avīci hell",
+      "academic": "neraka Avici",
+      "children": "Avici",
+      "note": "Name kept in Indonesian spelling; fixed 'neraka' supplies the generic word."
+     }
+    ]
+   },
+   {
+    "term_id": "T094",
+    "senses": [
+     {
+      "sense": "ethical discipline",
+      "academic": "sila",
+      "children": "perilaku baik",
+      "note": "'sila' is the established Indonesian Buddhist term (as in Panca Sila)."
+     }
+    ]
+   },
+   {
+    "term_id": "T095",
+    "senses": [
+     {
+      "sense": "gain",
+      "academic": "keuntungan",
+      "children": "keuntungan",
+      "note": "'keuntungan' covers one of the eight worldly concerns; everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T096",
+    "senses": [
+     {
+      "sense": "honor",
+      "academic": "penghormatan",
+      "children": "penghormatan",
+      "note": "'penghormatan' is standard and simple enough for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T097",
+    "senses": [
+     {
+      "sense": "like a log",
+      "academic": "seperti sebatang kayu",
+      "children": "seperti batang kayu",
+      "note": "Simile rendered with ordinary Indonesian words for a wooden log."
+     }
+    ]
+   },
+   {
+    "term_id": "T098",
+    "senses": [
+     {
+      "sense": "fault",
+      "academic": "kesalahan",
+      "children": "kesalahan",
+      "note": "'kesalahan' is the natural everyday equivalent for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T099",
+    "senses": [
+     {
+      "sense": "welfare of others",
+      "academic": "kesejahteraan orang lain",
+      "children": "kebaikan orang lain",
+      "note": "Academic uses 'kesejahteraan'; children simplify to 'kebaikan'."
+     }
+    ]
+   },
+   {
+    "term_id": "T100",
+    "senses": [
+     {
+      "sense": "Mahāyāna",
+      "academic": "Mahayana",
+      "children": "Kendaraan Besar",
+      "note": "Name kept academically; children translate the meaning 'Great Vehicle'."
+     }
+    ]
+   },
+   {
+    "term_id": "T101",
+    "senses": [
+     {
+      "sense": "gain",
+      "academic": "keuntungan",
+      "children": "keuntungan",
+      "note": "Identical sense to T095, rendered identically."
+     }
+    ]
+   },
+   {
+    "term_id": "T102",
+    "senses": [
+     {
+      "sense": "perfection of diligence",
+      "academic": "ketekunan",
+      "children": "usaha yang penuh sukacita",
+      "note": "vīrya as 'ketekunan'; children phrase keeps the joyful-effort nuance."
+     }
+    ]
+   },
+   {
+    "term_id": "T103",
+    "senses": [
+     {
+      "sense": "person filled with desire",
+      "academic": "orang yang penuh nafsu",
+      "children": "orang yang penuh keinginan",
+      "note": "Academic keeps the stronger 'nafsu'; children soften to 'keinginan'."
+     }
+    ]
+   },
+   {
+    "term_id": "T104",
+    "senses": [
+     {
+      "sense": "thing that exists",
+      "academic": "entitas",
+      "children": "sesuatu",
+      "note": "Same English 'entity' as the fixed entry, so fixed renderings reused."
+     }
+    ]
+   },
+   {
+    "term_id": "T105",
+    "senses": [
+     {
+      "sense": "visible form",
+      "academic": "rupa",
+      "children": "bentuk",
+      "note": "'rupa' is standard Indonesian for visible form; children use 'bentuk'."
+     }
+    ]
+   },
+   {
+    "term_id": "T106",
+    "senses": [
+     {
+      "sense": "luminous, clear (of mind or lamp)",
+      "academic": "bercahaya",
+      "children": "bersinar",
+      "note": "Adjective for radiance of mind or lamp; children get everyday 'bersinar'."
+     },
+     {
+      "sense": "manifest (of pleasure)",
+      "academic": "nyata",
+      "children": "jelas",
+      "note": "Second sense means plainly present; children rendered as 'jelas'."
+     }
+    ]
+   },
+   {
+    "term_id": "T107",
+    "senses": [
+     {
+      "sense": "sound",
+      "academic": "bunyi",
+      "children": "bunyi",
+      "note": "'bunyi' is the ordinary Indonesian word for sound in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T108",
+    "senses": [
+     {
+      "sense": "benefit",
+      "academic": "manfaat",
+      "children": "manfaat",
+      "note": "'manfaat' avoids collision with 'keuntungan' used for lābha."
+     }
+    ]
+   },
+   {
+    "term_id": "T109",
+    "senses": [
+     {
+      "sense": "lord of sages",
+      "academic": "Pemimpin Para Muni",
+      "children": "Pemimpin para orang bijak",
+      "note": "Academic keeps 'muni'; children explain sages as 'orang bijak'."
+     }
+    ]
+   },
+   {
+    "term_id": "T110",
+    "senses": [
+     {
+      "sense": "child of the Victors",
+      "academic": "putra para Penakluk",
+      "children": "anak para Pemenang",
+      "note": "Builds on fixed 'Sang Penakluk/Sang Pemenang' renderings of jina."
+     }
+    ]
+   },
+   {
+    "term_id": "T111",
+    "senses": [
+     {
+      "sense": "refuge",
+      "academic": "perlindungan",
+      "children": "tempat berlindung",
+      "note": "Pairs with T090 'berlindung'; children phrase shows the shelter idea."
+     }
+    ]
+   },
+   {
+    "term_id": "T112",
+    "senses": [
+     {
+      "sense": "the Buddha's teaching, sublime",
+      "academic": "Dharma yang luhur",
+      "children": "ajaran Buddha yang suci",
+      "note": "Builds on fixed 'Dharma/ajaran Buddha' with a qualifier for 'sublime'."
+     }
+    ]
+   },
+   {
+    "term_id": "T113",
+    "senses": [
+     {
+      "sense": "child of the Buddhas",
+      "academic": "putra para Buddha",
+      "children": "anak para Buddha",
+      "note": "Epithet for bodhisattvas; children use everyday 'anak'."
+     }
+    ]
+   },
+   {
+    "term_id": "T114",
+    "senses": [
+     {
+      "sense": "wish-fulfilling tree",
+      "academic": "kalpataru",
+      "children": "pohon pengabul keinginan",
+      "note": "'kalpataru' is known in Indonesian culture; children phrase explains it."
+     }
+    ]
+   },
+   {
+    "term_id": "T115",
+    "senses": [
+     {
+      "sense": "great compassion",
+      "academic": "karuna agung",
+      "children": "belas kasih yang besar",
+      "note": "Builds on 'karuna/belas kasih' for compassion with 'agung/besar'."
+     }
+    ]
+   },
+   {
+    "term_id": "T116",
+    "senses": [
+     {
+      "sense": "Tathāgata",
+      "academic": "Tathagata",
+      "children": "Tathagata",
+      "note": "Epithet-name kept untranslated in Indonesian for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T117",
+    "senses": [
+     {
+      "sense": "compassion",
+      "academic": "karuna",
+      "children": "belas kasih",
+      "note": "'karuna' is the established term; 'belas kasih' is the everyday phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T118",
+    "senses": [
+     {
+      "sense": "the Buddha's teaching, sublime",
+      "academic": "Dharma yang luhur",
+      "children": "ajaran Buddha yang suci",
+      "note": "Identical sense to T112, rendered identically."
+     }
+    ]
+   },
+   {
+    "term_id": "T119",
+    "senses": [
+     {
+      "sense": "assembly (of bodhisattvas, Saṅgha)",
+      "academic": "himpunan",
+      "children": "perkumpulan",
+      "note": "Gathering of practitioners; children use familiar 'perkumpulan'."
+     },
+     {
+      "sense": "accumulation (of merit and wisdom)",
+      "academic": "akumulasi",
+      "children": "kebaikan yang terkumpul",
+      "note": "Technical 'akumulasi'; children phrase echoes 'stored-up goodness'."
+     },
+     {
+      "sense": "collection (of parts)",
+      "academic": "kumpulan",
+      "children": "kumpulan bagian-bagian",
+      "note": "Mereological sense; children spell out 'of parts' explicitly."
+     }
+    ]
+   },
+   {
+    "term_id": "T120",
+    "senses": [
+     {
+      "sense": "confess",
+      "academic": "mengakui",
+      "children": "mengaku",
+      "note": "Confession of misdeeds; children use the shorter everyday form 'mengaku'."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 5718,
+  "output": 2743,
+  "thinking": 5057,
+  "cache_read": 256,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 219.91,
+ "attempt": 1
+}

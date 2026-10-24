@@ -1,0 +1,480 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T121",
+    "senses": [
+     {
+      "sense": "heedfulness",
+      "academic": "vigilanza",
+      "children": "attenzione",
+      "note": "Apramāda: watchful care, opposite of negligence; 'vigilanza' standard in Italian Buddhist usage."
+     }
+    ]
+   },
+   {
+    "term_id": "T122",
+    "senses": [
+     {
+      "sense": "austerity",
+      "academic": "austerità",
+      "children": "pratica difficile",
+      "note": "Tapas as demanding ascetic practice; children get a plain descriptive phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T123",
+    "senses": [
+     {
+      "sense": "laziness",
+      "academic": "pigrizia",
+      "children": "pigrizia",
+      "note": "Everyday word suits both registers, as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T124",
+    "senses": [
+     {
+      "sense": "antidote",
+      "academic": "antidoto",
+      "children": "rimedio",
+      "note": "Pratipakṣa as counteragent to afflictions; 'antidoto' is the established technical term."
+     }
+    ]
+   },
+   {
+    "term_id": "T125",
+    "senses": [
+     {
+      "sense": "sūtra",
+      "academic": "sūtra",
+      "children": "testo di insegnamenti",
+      "note": "Loanword kept for scholars; children get a plain description of a scripture."
+     }
+    ]
+   },
+   {
+    "term_id": "T126",
+    "senses": [
+     {
+      "sense": "permanent",
+      "academic": "permanente",
+      "children": "che dura per sempre",
+      "note": "Adjective; children get a plain paraphrase of lasting forever."
+     }
+    ]
+   },
+   {
+    "term_id": "T127",
+    "senses": [
+     {
+      "sense": "fame, renown",
+      "academic": "fama",
+      "children": "fama",
+      "note": "Yaśas as renown; everyday word works for both registers."
+     },
+     {
+      "sense": "common usage",
+      "academic": "convenzione",
+      "children": "uso comune",
+      "note": "Prasiddhi as conventional usage; distinct rendering from the 'fame' sense."
+     }
+    ]
+   },
+   {
+    "term_id": "T128",
+    "senses": [
+     {
+      "sense": "envy",
+      "academic": "invidia",
+      "children": "invidia",
+      "note": "'Invidia' is familiar to Italian children; 'gelosia' would shift meaning."
+     }
+    ]
+   },
+   {
+    "term_id": "T129",
+    "senses": [
+     {
+      "sense": "despondency",
+      "academic": "abbattimento",
+      "children": "scoraggiamento",
+      "note": "Dejection that makes one give up practice; simpler synonym for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T130",
+    "senses": [
+     {
+      "sense": "solitude",
+      "academic": "solitudine",
+      "children": "solitudine",
+      "note": "Viveka as physical and mental seclusion; same everyday word both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T131",
+    "senses": [
+     {
+      "sense": "lifetime",
+      "academic": "esistenza",
+      "children": "vita",
+      "note": "Janman as one life among many rebirths; 'esistenza' keeps rebirth nuance."
+     }
+    ]
+   },
+   {
+    "term_id": "T132",
+    "senses": [
+     {
+      "sense": "sandalwood",
+      "academic": "sandalo",
+      "children": "sandalo",
+      "note": "Standard Italian name for the fragrant wood; same for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T133",
+    "senses": [
+     {
+      "sense": "conceptualization",
+      "academic": "pensiero concettuale",
+      "children": "pensare troppo",
+      "note": "Discursive, elaborating thought (vikalpa); children get a plain busy-mind phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T134",
+    "senses": [
+     {
+      "sense": "continuous stream of mind or person",
+      "academic": "continuum",
+      "children": "flusso che continua",
+      "note": "Saṃtāna: unbroken succession of moments; 'continuum' is established in Italian Buddhism."
+     }
+    ]
+   },
+   {
+    "term_id": "T135",
+    "senses": [
+     {
+      "sense": "accomplished meditator",
+      "academic": "yogi",
+      "children": "maestro di meditazione",
+      "note": "Yogin as advanced practitioner, not gymnast; children get an explanatory phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T136",
+    "senses": [
+     {
+      "sense": "emptiness",
+      "academic": "vacuità",
+      "children": "vuotezza",
+      "note": "'Vacuità' is the established Italian rendering of śūnyatā; plainer 'vuotezza' for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T137",
+    "senses": [
+     {
+      "sense": "consciousness",
+      "academic": "coscienza",
+      "children": "consapevolezza",
+      "note": "Jñāna here as knowing awareness, not wisdom; children get the everyday near-synonym."
+     }
+    ]
+   },
+   {
+    "term_id": "T138",
+    "senses": [
+     {
+      "sense": "dream",
+      "academic": "sogno",
+      "children": "sogno",
+      "note": "Everyday word identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T139",
+    "senses": [
+     {
+      "sense": "analysis",
+      "academic": "analisi",
+      "children": "pensare con attenzione",
+      "note": "Vicāra as investigative examination; children get a plain careful-thinking phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T140",
+    "senses": [
+     {
+      "sense": "in saṃsāra",
+      "academic": "saṃsāra",
+      "children": "ciclo delle rinascite",
+      "note": "Reuses the fixed renderings for saṃsāra."
+     },
+     {
+      "sense": "retinue",
+      "academic": "seguito",
+      "children": "seguaci",
+      "note": "Different Sanskrit homograph meaning attendants; distinct from the rebirth-cycle sense."
+     }
+    ]
+   },
+   {
+    "term_id": "T141",
+    "senses": [
+     {
+      "sense": "heedlessness",
+      "academic": "noncuranza",
+      "children": "disattenzione",
+      "note": "Pramāda as careless negligence, opposite of vigilanza (T121)."
+     }
+    ]
+   },
+   {
+    "term_id": "T142",
+    "senses": [
+     {
+      "sense": "ocean of good qualities",
+      "academic": "oceano di qualità positive",
+      "children": "oceano di qualità positive",
+      "note": "Compound reuses the fixed rendering of guṇa ('qualità positiva')."
+     }
+    ]
+   },
+   {
+    "term_id": "T143",
+    "senses": [
+     {
+      "sense": "Victor",
+      "academic": "Vittorioso",
+      "children": "Vincitore",
+      "note": "Reuses the fixed renderings of jina."
+     }
+    ]
+   },
+   {
+    "term_id": "T144",
+    "senses": [
+     {
+      "sense": "lotus",
+      "academic": "loto",
+      "children": "fiore di loto",
+      "note": "Same flower; children get the fuller, more familiar everyday expression."
+     }
+    ]
+   },
+   {
+    "term_id": "T145",
+    "senses": [
+     {
+      "sense": "stūpa, shrine",
+      "academic": "stūpa",
+      "children": "santuario",
+      "note": "Caitya as reliquary monument; loanword for scholars, familiar word for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T146",
+    "senses": [
+     {
+      "sense": "pay homage",
+      "academic": "rendere omaggio",
+      "children": "inchinarsi",
+      "note": "Verb in head form; children get the simple physical gesture of bowing."
+     }
+    ]
+   },
+   {
+    "term_id": "T147",
+    "senses": [
+     {
+      "sense": "Guide",
+      "academic": "Guida",
+      "children": "Guida",
+      "note": "Epithet of the Buddha; capitalized everyday noun works for both."
+     }
+    ]
+   },
+   {
+    "term_id": "T148",
+    "senses": [
+     {
+      "sense": "messenger of Yama",
+      "academic": "messaggero di Yama",
+      "children": "messaggero di Yama",
+      "note": "Yama kept in standard form; the phrase is already plain enough for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T149",
+    "senses": [
+     {
+      "sense": "impermanent",
+      "academic": "impermanente",
+      "children": "che non dura",
+      "note": "Adjective; children get a plain paraphrase of not lasting."
+     }
+    ]
+   },
+   {
+    "term_id": "T150",
+    "senses": [
+     {
+      "sense": "rejoicing in virtue",
+      "academic": "gioire",
+      "children": "essere felici",
+      "note": "Anumodanā as taking joy in others' virtue; verb head form in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T151",
+    "senses": [
+     {
+      "sense": "protector, saviour",
+      "academic": "Salvatore",
+      "children": "Protettore",
+      "note": "Epithet of the Buddha; capitalized to match English register distinction."
+     }
+    ]
+   },
+   {
+    "term_id": "T152",
+    "senses": [
+     {
+      "sense": "nirvana",
+      "academic": "nirvāṇa",
+      "children": "libertà dalla sofferenza",
+      "note": "Loanword with diacritics for scholars; children get a plain freedom-from-pain phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T153",
+    "senses": [
+     {
+      "sense": "family",
+      "academic": "famiglia",
+      "children": "famiglia",
+      "note": "Kula as family or spiritual lineage; everyday word for both."
+     }
+    ]
+   },
+   {
+    "term_id": "T154",
+    "senses": [
+     {
+      "sense": "hungry ghost",
+      "academic": "spirito affamato",
+      "children": "fantasma affamato",
+      "note": "Preta of the hungry-ghost realm; 'fantasma' is the plainer child-friendly word."
+     }
+    ]
+   },
+   {
+    "term_id": "T155",
+    "senses": [
+     {
+      "sense": "bodhisattva ground",
+      "academic": "terra",
+      "children": "tappa",
+      "note": "Bhūmi as bodhisattva level; 'terra' standard (le dieci terre), 'tappa' for children."
+     },
+     {
+      "sense": "earth (element)",
+      "academic": "elemento terra",
+      "children": "terra",
+      "note": "The great element earth; fuller phrase keeps it distinct from the bodhisattva-ground sense."
+     }
+    ]
+   },
+   {
+    "term_id": "T156",
+    "senses": [
+     {
+      "sense": "mantra",
+      "academic": "mantra",
+      "children": "parole sacre",
+      "note": "Loanword established in Italian; children get a plain descriptive phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T157",
+    "senses": [
+     {
+      "sense": "craving",
+      "academic": "brama",
+      "children": "desiderio",
+      "note": "'Brama' is the established Italian rendering of tṛṣṇā; plainer word for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T158",
+    "senses": [
+     {
+      "sense": "perfection of generosity",
+      "academic": "perfezione della generosità",
+      "children": "generosità perfetta",
+      "note": "Compound reuses 'perfezione' (pāramitā); children get the simpler inverted phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T159",
+    "senses": [
+     {
+      "sense": "perfection",
+      "academic": "perfezione",
+      "children": "perfezione",
+      "note": "Direct equivalent, understandable also for young readers, matching English."
+     }
+    ]
+   },
+   {
+    "term_id": "T160",
+    "senses": [
+     {
+      "sense": "self-mastery",
+      "academic": "padronanza di sé",
+      "children": "controllo di sé",
+      "note": "Mastery over one's own mind and actions; shorter plain phrase for children."
+     },
+     {
+      "sense": "independence",
+      "academic": "indipendenza",
+      "children": "indipendenza",
+      "note": "Not depending on external conditions; everyday word suits both registers."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 5568,
+  "output": 2655,
+  "thinking": 7092,
+  "cache_read": 256,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 199.02,
+ "attempt": 1
+}

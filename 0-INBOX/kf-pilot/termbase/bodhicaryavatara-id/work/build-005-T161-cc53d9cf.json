@@ -1,0 +1,468 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T161",
+    "senses": [
+     {
+      "sense": "sūtra",
+      "academic": "sutra",
+      "children": "kitab suci",
+      "note": "Established Indonesian Buddhist term; children get plain 'holy book'."
+     }
+    ]
+   },
+   {
+    "term_id": "T162",
+    "senses": [
+     {
+      "sense": "anger",
+      "academic": "kemarahan",
+      "children": "rasa marah",
+      "note": "English matches fixed anger rendering, so same Indonesian terms reused."
+     }
+    ]
+   },
+   {
+    "term_id": "T163",
+    "senses": [
+     {
+      "sense": "primal matter of Sāṃkhya",
+      "academic": "Pradhāna",
+      "children": "zat asal",
+      "note": "Sāṃkhya technical name kept for scholars; children get plain description."
+     }
+    ]
+   },
+   {
+    "term_id": "T164",
+    "senses": [
+     {
+      "sense": "space",
+      "academic": "ruang hampa",
+      "children": "angkasa",
+      "note": "Ākāśa as unconditioned space; everyday word for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T165",
+    "senses": [
+     {
+      "sense": "hell guardian",
+      "academic": "penjaga neraka",
+      "children": "penjaga neraka",
+      "note": "Already everyday wording, identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T166",
+    "senses": [
+     {
+      "sense": "this life",
+      "academic": "kehidupan ini",
+      "children": "kehidupan ini",
+      "note": "Plain phrase, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T167",
+    "senses": [
+     {
+      "sense": "patience, tolerance",
+      "academic": "kesabaran",
+      "children": "kesabaran",
+      "note": "Same Sanskrit term as fixed patience entry; renderings reused."
+     }
+    ]
+   },
+   {
+    "term_id": "T168",
+    "senses": [
+     {
+      "sense": "own interest",
+      "academic": "kesejahteraan diri sendiri",
+      "children": "kebaikan diri sendiri",
+      "note": "Own welfare, not selfish gain; kept distinct from general welfare."
+     }
+    ]
+   },
+   {
+    "term_id": "T169",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Sang Muni",
+      "children": "Sang Bijaksana",
+      "note": "Muni kept as title for scholars; children get meaning 'the Wise One'."
+     }
+    ]
+   },
+   {
+    "term_id": "T170",
+    "senses": [
+     {
+      "sense": "Buddhahood",
+      "academic": "kebuddhaan",
+      "children": "keadaan Buddha",
+      "note": "Established abstract noun; children get plain 'state of a Buddha'."
+     }
+    ]
+   },
+   {
+    "term_id": "T171",
+    "senses": [
+     {
+      "sense": "distraction",
+      "academic": "distraksi",
+      "children": "gangguan",
+      "note": "Meditation term; children get everyday word for disturbed attention."
+     }
+    ]
+   },
+   {
+    "term_id": "T172",
+    "senses": [
+     {
+      "sense": "aspiration, zeal",
+      "academic": "aspirasi",
+      "children": "keinginan yang kuat",
+      "note": "Wholesome zeal toward practice; plain strong wish for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T173",
+    "senses": [
+     {
+      "sense": "meditative concentration",
+      "academic": "konsentrasi meditatif",
+      "children": "fokus yang tenang",
+      "note": "Dhyāna rendered descriptively; simple calm focus for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T174",
+    "senses": [
+     {
+      "sense": "true reality",
+      "academic": "realitas sejati",
+      "children": "kenyataan yang sesungguhnya",
+      "note": "Ultimate nature of things; plain phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T175",
+    "senses": [
+     {
+      "sense": "grief",
+      "academic": "dukacita",
+      "children": "kesedihan",
+      "note": "Formal grief word for scholars; everyday sadness word for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T176",
+    "senses": [
+     {
+      "sense": "childish person",
+      "academic": "orang kekanak-kanakan",
+      "children": "orang bodoh",
+      "note": "Bāla as spiritually immature; children get simple foolish person."
+     }
+    ]
+   },
+   {
+    "term_id": "T177",
+    "senses": [
+     {
+      "sense": "welfare, own and others' aim",
+      "academic": "kesejahteraan",
+      "children": "kebaikan",
+      "note": "Artha as benefit or welfare, distinct from object sense."
+     },
+     {
+      "sense": "object",
+      "academic": "objek",
+      "children": "objek",
+      "note": "Object of cognition; word is common enough for children too."
+     }
+    ]
+   },
+   {
+    "term_id": "T178",
+    "senses": [
+     {
+      "sense": "charnel ground",
+      "academic": "smasana",
+      "children": "kuburan",
+      "note": "Sanskrit term used in Indonesian scholarship; children get graveyard."
+     }
+    ]
+   },
+   {
+    "term_id": "T179",
+    "senses": [
+     {
+      "sense": "skeleton",
+      "academic": "kerangka",
+      "children": "kerangka",
+      "note": "Everyday word already; same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T180",
+    "senses": [
+     {
+      "sense": "impure",
+      "academic": "tidak suci",
+      "children": "kotor",
+      "note": "Body-impurity contemplation; plain dirty for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T181",
+    "senses": [
+     {
+      "sense": "seed",
+      "academic": "biji",
+      "children": "biji",
+      "note": "Standard word for seed; same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T182",
+    "senses": [
+     {
+      "sense": "selflessness",
+      "academic": "tanpa atman",
+      "children": "tidak ada diri yang terpisah",
+      "note": "Reuses fixed atman rendering; children get plain no-separate-self phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T183",
+    "senses": [
+     {
+      "sense": "habituation",
+      "academic": "pembiasaan",
+      "children": "membiasakan diri",
+      "note": "Repeated familiarization; children get getting-used-to phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T184",
+    "senses": [
+     {
+      "sense": "means of valid knowing",
+      "academic": "pramana",
+      "children": "cara tahu yang tepercaya",
+      "note": "Established epistemology term; children get reliable-way-of-knowing phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T185",
+    "senses": [
+     {
+      "sense": "continuum",
+      "academic": "kontinuum",
+      "children": "aliran yang tak terputus",
+      "note": "Mind-stream continuum; children get unbroken flow phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T186",
+    "senses": [
+     {
+      "sense": "lamp",
+      "academic": "pelita",
+      "children": "lampu",
+      "note": "Traditional lamp word for scholars; everyday lampu for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T187",
+    "senses": [
+     {
+      "sense": "consciousness",
+      "academic": "kesadaran",
+      "children": "kesadaran",
+      "note": "Standard rendering of vijñāna; everyday enough for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T188",
+    "senses": [
+     {
+      "sense": "monk",
+      "academic": "biksu",
+      "children": "biksu",
+      "note": "Established Indonesian Buddhist word; same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T189",
+    "senses": [
+     {
+      "sense": "rajas, one of the three guṇas",
+      "academic": "rajas",
+      "children": "kegelisahan",
+      "note": "Guṇa name kept for scholars; children get restlessness meaning."
+     },
+     {
+      "sense": "atom",
+      "academic": "atom",
+      "children": "partikel sangat kecil",
+      "note": "Smallest matter unit; children get tiny-particle phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T190",
+    "senses": [
+     {
+      "sense": "coarse",
+      "academic": "kasar",
+      "children": "kasar",
+      "note": "Everyday word; same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T191",
+    "senses": [
+     {
+      "sense": "basis",
+      "academic": "landasan",
+      "children": "tumpuan",
+      "note": "Āśraya as supporting basis; simple support word for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T192",
+    "senses": [
+     {
+      "sense": "goddess",
+      "academic": "dewi",
+      "children": "dewi",
+      "note": "Standard word, matches fixed dewa pattern."
+     }
+    ]
+   },
+   {
+    "term_id": "T193",
+    "senses": [
+     {
+      "sense": "chief editor-translator",
+      "academic": "penerjemah-penyunting utama",
+      "children": "penerjemah dan penyunting utama",
+      "note": "Tibetan colophon title; children get slightly plainer connector."
+     }
+    ]
+   },
+   {
+    "term_id": "T194",
+    "senses": [
+     {
+      "sense": "child of the Sugata",
+      "academic": "putra Sang Sugata",
+      "children": "anak Sang Sugata",
+      "note": "Sugata kept as Buddha epithet; children use everyday 'anak'."
+     }
+    ]
+   },
+   {
+    "term_id": "T195",
+    "senses": [
+     {
+      "sense": "leisure and endowment",
+      "academic": "keluangan dan kelengkapan",
+      "children": "kehidupan yang bebas dan beruntung",
+      "note": "Precious human rebirth freedoms; children get free-and-lucky life phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T196",
+    "senses": [
+     {
+      "sense": "plantain tree",
+      "academic": "pohon pisang",
+      "children": "pohon pisang",
+      "note": "Kadalī rendered with common Indonesian banana-tree word."
+     }
+    ]
+   },
+   {
+    "term_id": "T197",
+    "senses": [
+     {
+      "sense": "aspiring bodhicitta",
+      "academic": "bodicitta aspirasi",
+      "children": "pikiran yang ingin bangkit",
+      "note": "Reuses fixed bodhicitta renderings with aspiring qualifier added."
+     }
+    ]
+   },
+   {
+    "term_id": "T198",
+    "senses": [
+     {
+      "sense": "offering",
+      "academic": "persembahan",
+      "children": "persembahan",
+      "note": "Pūjā as offering act; everyday word works for both."
+     }
+    ]
+   },
+   {
+    "term_id": "T199",
+    "senses": [
+     {
+      "sense": "chapter 2 title",
+      "academic": "Pengakuan Perbuatan Jahat",
+      "children": "Mengakui Perbuatan yang Merugikan",
+      "note": "Reuses fixed misdeed renderings in chapter-title form."
+     }
+    ]
+   },
+   {
+    "term_id": "T200",
+    "senses": [
+     {
+      "sense": "sacred image",
+      "academic": "arca",
+      "children": "patung",
+      "note": "Sacred statue or image; everyday statue word for children."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 5613,
+  "output": 2461,
+  "thinking": 5865,
+  "cache_read": 256,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 254.2,
+ "attempt": 1
+}

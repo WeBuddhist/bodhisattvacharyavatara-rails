@@ -1,0 +1,480 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T121",
+    "senses": [
+     {
+      "sense": "heedfulness",
+      "academic": "ukadilifu",
+      "children": "kuwa makini",
+      "note": "Careful, undistracted conduct of body, speech and mind; opposite of pramāda."
+     }
+    ]
+   },
+   {
+    "term_id": "T122",
+    "senses": [
+     {
+      "sense": "austerity",
+      "academic": "kujifunga",
+      "children": "mazoezi magumu",
+      "note": "Ascetic self-denial; kujifunga is the established Swahili term for religious austerity."
+     }
+    ]
+   },
+   {
+    "term_id": "T123",
+    "senses": [
+     {
+      "sense": "laziness",
+      "academic": "uvivu",
+      "children": "uvivu",
+      "note": "Everyday Swahili word; no separate Buddhist term exists."
+     }
+    ]
+   },
+   {
+    "term_id": "T124",
+    "senses": [
+     {
+      "sense": "antidote",
+      "academic": "tiba",
+      "children": "dawa",
+      "note": "Counteragent that removes an affliction, like medicine against illness."
+     }
+    ]
+   },
+   {
+    "term_id": "T125",
+    "senses": [
+     {
+      "sense": "sūtra",
+      "academic": "sutra",
+      "children": "kitabu cha mafundisho",
+      "note": "Discourse of the Buddha; loanword kept in Swahili spelling for academic register."
+     }
+    ]
+   },
+   {
+    "term_id": "T126",
+    "senses": [
+     {
+      "sense": "permanent",
+      "academic": "wa kudumu",
+      "children": "ya kudumu milele",
+      "note": "Adjective in head form; opposite of anitya (T149)."
+     }
+    ]
+   },
+   {
+    "term_id": "T127",
+    "senses": [
+     {
+      "sense": "fame, renown",
+      "academic": "umaarufu",
+      "children": "umaarufu",
+      "note": "Worldly renown, one of the eight worldly concerns."
+     },
+     {
+      "sense": "common usage",
+      "academic": "desturi",
+      "children": "matumizi ya kawaida",
+      "note": "Prasiddhi: conventional designation accepted in everyday usage."
+     }
+    ]
+   },
+   {
+    "term_id": "T128",
+    "senses": [
+     {
+      "sense": "envy",
+      "academic": "wivu",
+      "children": "wivu",
+      "note": "Resentment at others' good fortune; everyday word serves both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T129",
+    "senses": [
+     {
+      "sense": "despondency",
+      "academic": "kukata tamaa",
+      "children": "kuvunjika moyo",
+      "note": "Loss of heart or hope, an obstacle to joyful effort."
+     }
+    ]
+   },
+   {
+    "term_id": "T130",
+    "senses": [
+     {
+      "sense": "solitude",
+      "academic": "upekee",
+      "children": "kuwa peke yako",
+      "note": "Physical and mental seclusion praised in chapter eight."
+     }
+    ]
+   },
+   {
+    "term_id": "T131",
+    "senses": [
+     {
+      "sense": "lifetime",
+      "academic": "maisha",
+      "children": "maisha",
+      "note": "One span of life within beginningless rebirth."
+     }
+    ]
+   },
+   {
+    "term_id": "T132",
+    "senses": [
+     {
+      "sense": "sandalwood",
+      "academic": "sandali",
+      "children": "sandali",
+      "note": "Sandali is the established Swahili word for sandalwood."
+     }
+    ]
+   },
+   {
+    "term_id": "T133",
+    "senses": [
+     {
+      "sense": "conceptualization",
+      "academic": "dhana",
+      "children": "mawazo mengi",
+      "note": "Vikalpa: discursive conceptual thinking that meditation calms."
+     }
+    ]
+   },
+   {
+    "term_id": "T134",
+    "senses": [
+     {
+      "sense": "continuous stream of mind or person",
+      "academic": "mfululizo",
+      "children": "tiririko unaoendelea",
+      "note": "Unbroken succession of mind-moments conventionally called a person."
+     }
+    ]
+   },
+   {
+    "term_id": "T135",
+    "senses": [
+     {
+      "sense": "accomplished meditator",
+      "academic": "yogi",
+      "children": "mkuu wa kutafakari",
+      "note": "Practitioner accomplished in meditation; loanword for scholars."
+     }
+    ]
+   },
+   {
+    "term_id": "T136",
+    "senses": [
+     {
+      "sense": "emptiness",
+      "academic": "utupu",
+      "children": "kuwa tupu",
+      "note": "Śūnyatā: lack of inherent existence, not sheer nothingness."
+     }
+    ]
+   },
+   {
+    "term_id": "T137",
+    "senses": [
+     {
+      "sense": "consciousness",
+      "academic": "fahamu",
+      "children": "ufahamu",
+      "note": "Here jñāna means awareness or knowing, not transcendent wisdom."
+     }
+    ]
+   },
+   {
+    "term_id": "T138",
+    "senses": [
+     {
+      "sense": "dream",
+      "academic": "ndoto",
+      "children": "ndoto",
+      "note": "Everyday word; standard simile for illusoriness."
+     }
+    ]
+   },
+   {
+    "term_id": "T139",
+    "senses": [
+     {
+      "sense": "analysis",
+      "academic": "uchambuzi",
+      "children": "kufikiria kwa makini",
+      "note": "Discerning examination, especially in the wisdom chapter."
+     }
+    ]
+   },
+   {
+    "term_id": "T140",
+    "senses": [
+     {
+      "sense": "in saṃsāra",
+      "academic": "samsara",
+      "children": "mzunguko wa kuzaliwa tena",
+      "note": "Cyclic existence; rendering follows the fixed glossary."
+     },
+     {
+      "sense": "retinue",
+      "academic": "msafara",
+      "children": "wafuasi",
+      "note": "Rare homograph reading: a master surrounded by his entourage."
+     }
+    ]
+   },
+   {
+    "term_id": "T141",
+    "senses": [
+     {
+      "sense": "heedlessness",
+      "academic": "uzembe",
+      "children": "kutokuwa makini",
+      "note": "Careless negligence, the opposite of apramāda (T121)."
+     }
+    ]
+   },
+   {
+    "term_id": "T142",
+    "senses": [
+     {
+      "sense": "ocean of good qualities",
+      "academic": "bahari ya sifa njema",
+      "children": "bahari ya sifa njema",
+      "note": "Epithet of the Buddha; compound reuses fixed guṇa rendering sifa njema."
+     }
+    ]
+   },
+   {
+    "term_id": "T143",
+    "senses": [
+     {
+      "sense": "Victor",
+      "academic": "Mshindi",
+      "children": "Mshindi",
+      "note": "Epithet of the Buddha; rendering follows the fixed glossary."
+     }
+    ]
+   },
+   {
+    "term_id": "T144",
+    "senses": [
+     {
+      "sense": "lotus",
+      "academic": "yungiyungi",
+      "children": "yungiyungi",
+      "note": "Yungiyungi is the established Swahili word for lotus or water lily."
+     }
+    ]
+   },
+   {
+    "term_id": "T145",
+    "senses": [
+     {
+      "sense": "stūpa, shrine",
+      "academic": "stupa",
+      "children": "mahali patakatifu",
+      "note": "Monument or shrine holding relics, an object of veneration."
+     }
+    ]
+   },
+   {
+    "term_id": "T146",
+    "senses": [
+     {
+      "sense": "pay homage",
+      "academic": "kutoa heshima",
+      "children": "kupiga magoti",
+      "note": "Reverent salutation, often expressed by bowing or prostration."
+     }
+    ]
+   },
+   {
+    "term_id": "T147",
+    "senses": [
+     {
+      "sense": "Guide",
+      "academic": "Kiongozi",
+      "children": "Kiongozi",
+      "note": "Epithet of the Buddha, who leads beings out of samsara."
+     }
+    ]
+   },
+   {
+    "term_id": "T148",
+    "senses": [
+     {
+      "sense": "messenger of Yama",
+      "academic": "mjumbe wa Yama",
+      "children": "mjumbe wa Yama",
+      "note": "Yama, lord of death; his messengers summon beings at death."
+     }
+    ]
+   },
+   {
+    "term_id": "T149",
+    "senses": [
+     {
+      "sense": "impermanent",
+      "academic": "isiyodumu",
+      "children": "ya muda tu",
+      "note": "Adjective in head form; opposite of nitya (T126)."
+     }
+    ]
+   },
+   {
+    "term_id": "T150",
+    "senses": [
+     {
+      "sense": "rejoicing in virtue",
+      "academic": "kufurahi fadhila",
+      "children": "kufurahi",
+      "note": "Anumodanā: taking joy in others' goodness, multiplying one's merit."
+     }
+    ]
+   },
+   {
+    "term_id": "T151",
+    "senses": [
+     {
+      "sense": "protector, saviour",
+      "academic": "Mokozi",
+      "children": "Mlinzi",
+      "note": "Epithet of the Buddha as rescuer; Mokozi is the established Swahili term."
+     }
+    ]
+   },
+   {
+    "term_id": "T152",
+    "senses": [
+     {
+      "sense": "nirvana",
+      "academic": "nirvana",
+      "children": "uhuru kutoka huzuni",
+      "note": "Liberation beyond sorrow; loanword kept for academic register."
+     }
+    ]
+   },
+   {
+    "term_id": "T153",
+    "senses": [
+     {
+      "sense": "family",
+      "academic": "ukoo",
+      "children": "familia",
+      "note": "Kula as lineage or spiritual family, including the Buddha's family."
+     }
+    ]
+   },
+   {
+    "term_id": "T154",
+    "senses": [
+     {
+      "sense": "hungry ghost",
+      "academic": "mzimu mwenye njaa",
+      "children": "mzimu mwenye njaa",
+      "note": "Preta: tormented spirit; descriptive phrase, as no Swahili loan exists."
+     }
+    ]
+   },
+   {
+    "term_id": "T155",
+    "senses": [
+     {
+      "sense": "bodhisattva ground",
+      "academic": "hatua",
+      "children": "hatua",
+      "note": "One of the ten bodhisattva levels on the path to awakening."
+     },
+     {
+      "sense": "earth (element)",
+      "academic": "udongo",
+      "children": "ardhi",
+      "note": "Earth as the solid element, one of the four great elements."
+     }
+    ]
+   },
+   {
+    "term_id": "T156",
+    "senses": [
+     {
+      "sense": "mantra",
+      "academic": "mantra",
+      "children": "maneno matakatifu",
+      "note": "Sacred formula of syllables recited for protection and power."
+     }
+    ]
+   },
+   {
+    "term_id": "T157",
+    "senses": [
+     {
+      "sense": "craving",
+      "academic": "tamaa",
+      "children": "kutamani",
+      "note": "Tṛṣṇā: thirsty craving that binds beings to samsara."
+     }
+    ]
+   },
+   {
+    "term_id": "T158",
+    "senses": [
+     {
+      "sense": "perfection of generosity",
+      "academic": "ukamilifu wa ukarimu",
+      "children": "ukamilifu wa kutoa",
+      "note": "First of the six perfections; compound of pāramitā, ukamilifu."
+     }
+    ]
+   },
+   {
+    "term_id": "T159",
+    "senses": [
+     {
+      "sense": "perfection",
+      "academic": "ukamilifu",
+      "children": "ukamilifu",
+      "note": "Pāramitā: a virtue carried to completeness, beyond ordinary practice."
+     }
+    ]
+   },
+   {
+    "term_id": "T160",
+    "senses": [
+     {
+      "sense": "self-mastery",
+      "academic": "kujitawala",
+      "children": "kujidhibiti",
+      "note": "Mastery over one's own mind, free from the power of afflictions."
+     },
+     {
+      "sense": "independence",
+      "academic": "kujitegemea",
+      "children": "kujitegemea",
+      "note": "Freedom from dependence on external causes or other persons."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 16,
+  "output": 2607,
+  "thinking": 6933,
+  "cache_read": 5888,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 163.86,
+ "attempt": 1
+}

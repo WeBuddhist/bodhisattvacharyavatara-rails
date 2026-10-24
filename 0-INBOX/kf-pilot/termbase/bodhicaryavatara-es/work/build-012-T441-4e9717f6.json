@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T441",
+    "senses": [
+     {
+      "sense": "epithet of a buddha",
+      "academic": "el Compasivo",
+      "children": "el Compasivo",
+      "note": "Epithet of a buddha; same everyday wording serves both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T442",
+    "senses": [
+     {
+      "sense": "three Dharma robes",
+      "academic": "tres túnicas del Dharma",
+      "children": "tres túnicas de monje",
+      "note": "Monastic triple robe; Dharma kept academically, plain for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T443",
+    "senses": [
+     {
+      "sense": "conduct of the bodhisattva",
+      "academic": "conducta del bodhisattva",
+      "children": "forma de actuar del héroe del despertar",
+      "note": "Reuses fixed renderings for bodhisattva in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T444",
+    "senses": [
+     {
+      "sense": "Three Heaps Sūtra",
+      "academic": "Sūtra de los tres agregados",
+      "children": "texto de los tres montones",
+      "note": "Skandha as agregado academically; literal heap wording for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T445",
+    "senses": [
+     {
+      "sense": "dedication",
+      "academic": "dedicación",
+      "children": "compartir la bondad",
+      "note": "Dedication of merit; children phrase echoes fixed merit rendering bondad."
+     }
+    ]
+   },
+   {
+    "term_id": "T446",
+    "senses": [
+     {
+      "sense": "spiritual friend",
+      "academic": "amigo espiritual",
+      "children": "amigo que guía",
+      "note": "Standard kalyāṇamitra rendering; guiding function stated for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T447",
+    "senses": [
+     {
+      "sense": "Śrīsaṃbhava",
+      "academic": "Śrīsaṃbhava",
+      "children": "Shrisambhava",
+      "note": "Proper name; diacritics dropped in children register."
+     }
+    ]
+   },
+   {
+    "term_id": "T448",
+    "senses": [
+     {
+      "sense": "title of a sūtra",
+      "academic": "Sūtra de Ākāśagarbha",
+      "children": "Enseñanza de Akashagarbha",
+      "note": "Sūtra title; sūtra becomes enseñanza for children, name simplified."
+     }
+    ]
+   },
+   {
+    "term_id": "T449",
+    "senses": [
+     {
+      "sense": "Śikṣāsamuccaya (title)",
+      "academic": "Śikṣāsamuccaya",
+      "children": "Compendio de entrenamientos",
+      "note": "Sanskrit title kept academically; translated descriptively for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T450",
+    "senses": [
+     {
+      "sense": "title of a work by Nāgārjuna",
+      "academic": "Compendio de sūtras",
+      "children": "Colección de las enseñanzas del Buda",
+      "note": "Translated title; children phrase uses fixed enseñanzas and Buda."
+     }
+    ]
+   },
+   {
+    "term_id": "T451",
+    "senses": [
+     {
+      "sense": "noble Nāgārjuna",
+      "academic": "noble Nāgārjuna",
+      "children": "Nagarjuna",
+      "note": "Honorific kept academically; simplified name only for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T452",
+    "senses": [
+     {
+      "sense": "Nāgārjuna",
+      "academic": "Nāgārjuna",
+      "children": "Nagarjuna",
+      "note": "Proper name; diacritics dropped in children register."
+     }
+    ]
+   },
+   {
+    "term_id": "T453",
+    "senses": [
+     {
+      "sense": "Noble",
+      "academic": "Noble",
+      "children": "noble",
+      "note": "Technical honorific capitalized academically; everyday adjective for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T454",
+    "senses": [
+     {
+      "sense": "generosity",
+      "academic": "generosidad",
+      "children": "dar",
+      "note": "First perfection; plain verb form for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T455",
+    "senses": [
+     {
+      "sense": "good conduct, good deed",
+      "academic": "buena conducta",
+      "children": "buen comportamiento",
+      "note": "Kept distinct from fixed children rendering buena acción for kuśala."
+     }
+    ]
+   },
+   {
+    "term_id": "T456",
+    "senses": [
+     {
+      "sense": "renunciation",
+      "academic": "renunciación",
+      "children": "deseo de ser libre",
+      "note": "Standard renunciación; children phrase expresses wish for freedom."
+     }
+    ]
+   },
+   {
+    "term_id": "T457",
+    "senses": [
+     {
+      "sense": "name of a goddess",
+      "academic": "Durgā",
+      "children": "Durga",
+      "note": "Proper name of the goddess; diacritic dropped for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T458",
+    "senses": [
+     {
+      "sense": "Karṇapa (people)",
+      "academic": "Karṇapa",
+      "children": "Karnapa",
+      "note": "Name of a people; diacritic dropped in children register."
+     }
+    ]
+   },
+   {
+    "term_id": "T459",
+    "senses": [
+     {
+      "sense": "bile",
+      "academic": "bilis",
+      "children": "bilis",
+      "note": "Everyday anatomical term identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T460",
+    "senses": [
+     {
+      "sense": "heedlessness",
+      "academic": "negligencia",
+      "children": "descuido",
+      "note": "Pramāda as established negligencia; simpler synonym for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T461",
+    "senses": [
+     {
+      "sense": "fasting",
+      "academic": "ayuno",
+      "children": "estar sin comer",
+      "note": "Ayuno technically; plain description of not eating for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T462",
+    "senses": [
+     {
+      "sense": "non-meritorious conduct",
+      "academic": "conducta no meritoria",
+      "children": "manera de actuar que no acumula bondad",
+      "note": "Children phrase mirrors fixed merit rendering bondad acumulada."
+     }
+    ]
+   },
+   {
+    "term_id": "T464",
+    "senses": [
+     {
+      "sense": "perversity",
+      "academic": "perversión",
+      "children": "manera equivocada",
+      "note": "Viparyaya as perversión; inverted mistaken way phrased simply."
+     }
+    ]
+   },
+   {
+    "term_id": "T465",
+    "senses": [
+     {
+      "sense": "intention",
+      "academic": "intención",
+      "children": "intención",
+      "note": "Everyday word usable unchanged in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T466",
+    "senses": [
+     {
+      "sense": "fixation",
+      "academic": "fijación",
+      "children": "aferrarse con fuerza",
+      "note": "Children phrase builds on fixed attachment rendering aferrarse."
+     }
+    ]
+   },
+   {
+    "term_id": "T467",
+    "senses": [
+     {
+      "sense": "harsh speech",
+      "academic": "lenguaje áspero",
+      "children": "palabras duras",
+      "note": "Standard non-virtue of speech; simpler wording for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T468",
+    "senses": [
+     {
+      "sense": "other life",
+      "academic": "otra vida",
+      "children": "otra vida",
+      "note": "Same plain phrase serves both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T469",
+    "senses": [
+     {
+      "sense": "obstacle",
+      "academic": "obstáculo",
+      "children": "algo que estorba",
+      "note": "Everyday description of something blocking the way for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T470",
+    "senses": [
+     {
+      "sense": "wrong livelihood",
+      "academic": "medios de vida erróneos",
+      "children": "forma equivocada de ganarse la vida",
+      "note": "Eightfold-path term; earning-a-living phrasing for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T471",
+    "senses": [
+     {
+      "sense": "suffering of death",
+      "academic": "sufrimiento de la muerte",
+      "children": "sufrimiento de la muerte",
+      "note": "Reuses fixed suffering rendering; identical phrase both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T472",
+    "senses": [
+     {
+      "sense": "one with good qualities",
+      "academic": "dotado de cualidades positivas",
+      "children": "persona con buenas cualidades",
+      "note": "Reuses fixed good-quality renderings in each register."
+     }
+    ]
+   },
+   {
+    "term_id": "T473",
+    "senses": [
+     {
+      "sense": "seen and unseen",
+      "academic": "lo visto y lo no visto",
+      "children": "esta vida y la siguiente",
+      "note": "Technical pair kept academically; children phrase names the two lives."
+     }
+    ]
+   },
+   {
+    "term_id": "T474",
+    "senses": [
+     {
+      "sense": "generation of bodhicitta",
+      "academic": "generación de la bodhicitta",
+      "children": "hacer surgir la mente del despertar",
+      "note": "Reuses fixed bodhicitta renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T475",
+    "senses": [
+     {
+      "sense": "Buddhahood",
+      "academic": "estado de Buda",
+      "children": "llegar a ser Buda",
+      "note": "Buddhatva as state of Buddhahood; becoming phrasing for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T476",
+    "senses": [
+     {
+      "sense": "honor and respect",
+      "academic": "honor y respeto",
+      "children": "respeto",
+      "note": "Compound kept academically; single everyday word for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T477",
+    "senses": [
+     {
+      "sense": "benefactor",
+      "academic": "benefactor",
+      "children": "el que da",
+      "note": "Donor title; plain description of giving for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T478",
+    "senses": [
+     {
+      "sense": "enemy",
+      "academic": "enemigo",
+      "children": "enemigo",
+      "note": "Everyday word identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T479",
+    "senses": [
+     {
+      "sense": "cauldron of hell",
+      "academic": "caldera del infierno",
+      "children": "caldera del infierno",
+      "note": "Reuses fixed hell rendering infierno in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T480",
+    "senses": [
+     {
+      "sense": "praise",
+      "academic": "alabanza",
+      "children": "alabanza",
+      "note": "Everyday devotional term usable unchanged for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T481",
+    "senses": [
+     {
+      "sense": "honor",
+      "academic": "honor",
+      "children": "honor",
+      "note": "Second sense of satkāra; single honor without respect component."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4197,
+  "output": 2476,
+  "thinking": 5190,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 199.35,
+ "attempt": 1
+}

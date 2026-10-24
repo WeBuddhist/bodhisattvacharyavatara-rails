@@ -1,0 +1,462 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T281",
+    "senses": [
+     {
+      "sense": "illusory mind",
+      "academic": "esprit illusoire",
+      "children": "esprit d'une illusion",
+      "note": "Compound of fixed māyā (illusion) and citta (esprit)."
+     }
+    ]
+   },
+   {
+    "term_id": "T282",
+    "senses": [
+     {
+      "sense": "aspect",
+      "academic": "aspect",
+      "children": "façon d'apparaître",
+      "note": "Standard ākāra as aspect; children phrase mirrors 'way it appears'."
+     }
+    ]
+   },
+   {
+    "term_id": "T283",
+    "senses": [
+     {
+      "sense": "mind itself",
+      "academic": "esprit lui-même",
+      "children": "esprit lui-même",
+      "note": "Reuses fixed citta rendering with reflexive emphasis."
+     }
+    ]
+   },
+   {
+    "term_id": "T284",
+    "senses": [
+     {
+      "sense": "latent tendency",
+      "academic": "tendance latente",
+      "children": "habitude profonde",
+      "note": "Vāsanā as latent tendency; children use plain 'deep habit'."
+     }
+    ]
+   },
+   {
+    "term_id": "T285",
+    "senses": [
+     {
+      "sense": "shrine",
+      "academic": "sanctuaire",
+      "children": "sanctuaire",
+      "note": "Chinese and Hindi evidence suggests stūpa/caitya; sanctuary chosen per English."
+     }
+    ]
+   },
+   {
+    "term_id": "T286",
+    "senses": [
+     {
+      "sense": "apprehension",
+      "academic": "appréhension",
+      "children": "fixer son attention sur quelque chose",
+      "note": "Ālambana as cognitive apprehension; children phrase describes fixing attention."
+     }
+    ]
+   },
+   {
+    "term_id": "T287",
+    "senses": [
+     {
+      "sense": "doubt",
+      "academic": "doute",
+      "children": "doute",
+      "note": "Everyday French word suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T288",
+    "senses": [
+     {
+      "sense": "sattva (quality of the Sāṃkhya)",
+      "academic": "sattva",
+      "children": "luminosité",
+      "note": "Technical Sāṃkhya term transliterated academically; brightness for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T289",
+    "senses": [
+     {
+      "sense": "tamas (Sāṃkhya guṇa)",
+      "academic": "tamas",
+      "children": "obscurité",
+      "note": "Transliteration kept academically; darkness rendered plainly for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T290",
+    "senses": [
+     {
+      "sense": "agent of action",
+      "academic": "agent",
+      "children": "celui qui fait",
+      "note": "Agent of an action; children phrase names the doer."
+     },
+     {
+      "sense": "creator (Īśvara)",
+      "academic": "créateur",
+      "children": "créateur du monde",
+      "note": "Īśvara as creator; children specify maker of the world."
+     }
+    ]
+   },
+   {
+    "term_id": "T291",
+    "senses": [
+     {
+      "sense": "sense faculty",
+      "academic": "faculté sensorielle",
+      "children": "organe des sens",
+      "note": "Standard indriya rendering; children use sense organ."
+     }
+    ]
+   },
+   {
+    "term_id": "T292",
+    "senses": [
+     {
+      "sense": "atom",
+      "academic": "atome",
+      "children": "atome",
+      "note": "Same everyday word works for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T293",
+    "senses": [
+     {
+      "sense": "collection",
+      "academic": "collection",
+      "children": "rassemblement",
+      "note": "Collection academically; gathering phrased simply for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T294",
+    "senses": [
+     {
+      "sense": "one who feels",
+      "academic": "celui qui éprouve",
+      "children": "celui qui ressent",
+      "note": "Vedaka as the feeler; children use everyday 'ressent'."
+     }
+    ]
+   },
+   {
+    "term_id": "T295",
+    "senses": [
+     {
+      "sense": "sprout",
+      "academic": "germe",
+      "children": "pousse",
+      "note": "Botanical sprout; 'pousse' is the child-friendly word."
+     }
+    ]
+   },
+   {
+    "term_id": "T296",
+    "senses": [
+     {
+      "sense": "effect of a cause",
+      "academic": "résultat",
+      "children": "résultat",
+      "note": "Reuses fixed phala rendering 'résultat'."
+     }
+    ]
+   },
+   {
+    "term_id": "T297",
+    "senses": [
+     {
+      "sense": "permanent",
+      "academic": "permanent",
+      "children": "qui ne change jamais",
+      "note": "Children phrase explains never-changing plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T298",
+    "senses": [
+     {
+      "sense": "impermanence",
+      "academic": "impermanence",
+      "children": "qui ne dure pas",
+      "note": "Children phrase mirrors 'not lasting', parallel to permanent entry."
+     }
+    ]
+   },
+   {
+    "term_id": "T299",
+    "senses": [
+     {
+      "sense": "Māra",
+      "academic": "Māra",
+      "children": "Mara",
+      "note": "Proper name; diacritics dropped in children's register."
+     }
+    ]
+   },
+   {
+    "term_id": "T300",
+    "senses": [
+     {
+      "sense": "dedication",
+      "academic": "dédicace",
+      "children": "partage de la bonté",
+      "note": "Pariṇāmanā as dedication of merit; children share the goodness."
+     }
+    ]
+   },
+   {
+    "term_id": "T301",
+    "senses": [
+     {
+      "sense": "hell being",
+      "academic": "être des enfers",
+      "children": "être vivant des enfers",
+      "note": "Combines fixed naraka (enfer) with being renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T302",
+    "senses": [
+     {
+      "sense": "ordination",
+      "academic": "ordination",
+      "children": "devenir moine ou moniale",
+      "note": "Children phrase explains going forth as monk or nun."
+     }
+    ]
+   },
+   {
+    "term_id": "T303",
+    "senses": [
+     {
+      "sense": "Sanskrit title",
+      "academic": "Bodhisattvacaryāvatāra",
+      "children": "Bodhisattvacharyavatara",
+      "note": "Title transliterated; simplified spelling for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T304",
+    "senses": [
+     {
+      "sense": "Dharmakāya",
+      "academic": "Dharmakāya",
+      "children": "corps de vérité",
+      "note": "Technical term kept academically; truth body for children, reusing kāya."
+     }
+    ]
+   },
+   {
+    "term_id": "T305",
+    "senses": [
+     {
+      "sense": "vow",
+      "academic": "vœu",
+      "children": "promesse",
+      "note": "Saṃvara as vow; promise is the child-friendly equivalent."
+     }
+    ]
+   },
+   {
+    "term_id": "T306",
+    "senses": [
+     {
+      "sense": "purpose of a human being",
+      "academic": "but de l'être humain",
+      "children": "but de la vie humaine",
+      "note": "Puruṣārtha as human purpose; children phrase references human life."
+     }
+    ]
+   },
+   {
+    "term_id": "T307",
+    "senses": [
+     {
+      "sense": "perfect awakening",
+      "academic": "éveil parfait",
+      "children": "éveil complet",
+      "note": "Reuses fixed bodhi (éveil); full awakening for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T308",
+    "senses": [
+     {
+      "sense": "supreme happiness",
+      "academic": "bonheur suprême",
+      "children": "plus grand bonheur",
+      "note": "Reuses fixed sukha (bonheur) with superlative qualifier."
+     }
+    ]
+   },
+   {
+    "term_id": "T309",
+    "senses": [
+     {
+      "sense": "gold-making elixir",
+      "academic": "élixir qui transforme en or",
+      "children": "potion qui fabrique de l'or",
+      "note": "Alchemical elixir; potion is the child-friendly word."
+     }
+    ]
+   },
+   {
+    "term_id": "T310",
+    "senses": [
+     {
+      "sense": "jewel",
+      "academic": "joyau",
+      "children": "bijou",
+      "note": "Ratna as jewel; 'bijou' is everyday children's vocabulary."
+     }
+    ]
+   },
+   {
+    "term_id": "T311",
+    "senses": [
+     {
+      "sense": "body (of a Victor)",
+      "academic": "corps",
+      "children": "corps",
+      "note": "English gives plain 'body', reusing fixed kāya rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T312",
+    "senses": [
+     {
+      "sense": "caravan leader",
+      "academic": "chef de caravane",
+      "children": "chef des voyageurs",
+      "note": "Caravan leader academically; leader of travelers for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T313",
+    "senses": [
+     {
+      "sense": "epithet of Maitreya",
+      "academic": "Maitreya le Protecteur",
+      "children": "Maitreya le protecteur",
+      "note": "Standard local form of Maitreya with protector epithet."
+     }
+    ]
+   },
+   {
+    "term_id": "T314",
+    "senses": [
+     {
+      "sense": "Sudhana (name)",
+      "academic": "Sudhana",
+      "children": "Sudhana",
+      "note": "Proper name unchanged in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T315",
+    "senses": [
+     {
+      "sense": "engaging bodhicitta",
+      "academic": "bodhicitta d'engagement",
+      "children": "esprit qui se met en route vers l'éveil",
+      "note": "Standard engaging bodhicitta; children describe setting out to awaken."
+     }
+    ]
+   },
+   {
+    "term_id": "T316",
+    "senses": [
+     {
+      "sense": "engaging bodhicitta",
+      "academic": "bodhicitta d'engagement",
+      "children": "esprit qui se met en route vers l'éveil",
+      "note": "English identical to T315, so rendering kept identical."
+     }
+    ]
+   },
+   {
+    "term_id": "T317",
+    "senses": [
+     {
+      "sense": "realm",
+      "academic": "domaine",
+      "children": "royaume",
+      "note": "Dhātu as realm/domain; 'royaume' is familiar to children."
+     }
+    ]
+   },
+   {
+    "term_id": "T318",
+    "senses": [
+     {
+      "sense": "irreversible",
+      "academic": "irréversible",
+      "children": "qui ne revient jamais en arrière",
+      "note": "Children phrase explains never turning back plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T319",
+    "senses": [
+     {
+      "sense": "name of an interlocutor",
+      "academic": "Subāhu",
+      "children": "Subahu",
+      "note": "Proper name; diacritics dropped for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T320",
+    "senses": [
+     {
+      "sense": "question (sūtra title element)",
+      "academic": "question",
+      "children": "question",
+      "note": "Identical everyday word in both registers."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4032,
+  "output": 2442,
+  "thinking": 4077,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 160.65,
+ "attempt": 1
+}

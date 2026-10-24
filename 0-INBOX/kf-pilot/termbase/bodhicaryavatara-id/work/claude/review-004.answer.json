@@ -1,0 +1,158 @@
+{
+ "objections": [
+  {
+   "term_id": "T365",
+   "sense": "definite liberation",
+   "field": "academic",
+   "proposed": "pembebasan yang pasti",
+   "reason": "Same English rendering as T351 (nges thar), which is 'pembebasan yang pasti'; 'definitif' is a stiff calque."
+  },
+  {
+   "term_id": "T367",
+   "sense": "generation of bodhicitta",
+   "field": "academic",
+   "proposed": "pembangkitan bodhicitta",
+   "reason": "Use standard spelling bodhicitta, consistent with bodhisatwa."
+  },
+  {
+   "term_id": "T378",
+   "sense": "bodhicitta (honorific)",
+   "field": "academic",
+   "proposed": "bodhicitta",
+   "reason": "Use standard spelling bodhicitta, consistent with bodhisatwa."
+  },
+  {
+   "term_id": "T474",
+   "sense": "generation of bodhicitta",
+   "field": "academic",
+   "proposed": "pembangkitan bodhicitta",
+   "reason": "Use standard spelling bodhicitta, consistent with bodhisatwa."
+  },
+  {
+   "term_id": "T393",
+   "sense": "faculties",
+   "field": "children",
+   "proposed": "kelompok indera",
+   "reason": "'Indra' is the god Indra; the sense is spelled 'indera'."
+  },
+  {
+   "term_id": "T399",
+   "sense": "perfection of ethical discipline",
+   "field": "academic",
+   "proposed": "sila paramita",
+   "reason": "Inconsistent with T158 'dana paramita' and T159 'paramita'; use the same pattern for the perfections."
+  },
+  {
+   "term_id": "T403",
+   "sense": "Brahmā",
+   "field": "academic",
+   "proposed": "Brahma",
+   "reason": "Inconsistent with T322 (Brahma); names are written without diacritics in this glossary."
+  },
+  {
+   "term_id": "T409",
+   "sense": "name of a hell",
+   "field": "academic",
+   "proposed": "Neraka Pemusnah",
+   "reason": "Same rendering as T232 (Crushing Hell, bsdus 'joms) for a different hell (ris 'joms, Destroying)."
+  },
+  {
+   "term_id": "T409",
+   "sense": "name of a hell",
+   "field": "children",
+   "proposed": "Neraka Pemusnah",
+   "reason": "Same rendering as T232 for a different hell; English approved names differ."
+  },
+  {
+   "term_id": "T416",
+   "sense": "equanimity",
+   "field": "academic",
+   "proposed": "upeksa",
+   "reason": "'Ekuanimitas' is a non-Buddhist calque; 'upeksa' is the established Indonesian Buddhist term."
+  },
+  {
+   "term_id": "T441",
+   "sense": "epithet of a buddha",
+   "field": "children",
+   "proposed": "Yang Penuh Belas Kasih",
+   "reason": "'Sang Pema welas Asih' is garbled; English children's rendering is 'Compassionate One'."
+  },
+  {
+   "term_id": "T447",
+   "sense": "Śrīsaṃbhava",
+   "field": "academic",
+   "proposed": "Srisambhava",
+   "reason": "Names are written without diacritics elsewhere (Manjusri, Ksitigarbha); keep one orthography."
+  },
+  {
+   "term_id": "T448",
+   "sense": "title of a sūtra",
+   "field": "academic",
+   "proposed": "Sutra Akasagarbha",
+   "reason": "T208 writes Akasagarbha without diacritics; keep one spelling."
+  },
+  {
+   "term_id": "T451",
+   "sense": "noble Nāgārjuna",
+   "field": "academic",
+   "proposed": "Arya Nagarjuna",
+   "reason": "Names appear without diacritics in Indonesian renderings; T453 uses 'Arya'."
+  },
+  {
+   "term_id": "T452",
+   "sense": "Nāgārjuna",
+   "field": "academic",
+   "proposed": "Nagarjuna",
+   "reason": "Names appear without diacritics in Indonesian renderings; matches the children's field."
+  },
+  {
+   "term_id": "T454",
+   "sense": "generosity",
+   "field": "academic",
+   "proposed": "kemurahan hati",
+   "reason": "Same English rendering as T062 (dāna = kemurahan hati); one term should have one rendering."
+  },
+  {
+   "term_id": "T456",
+   "sense": "renunciation",
+   "field": "academic",
+   "proposed": "tekad untuk bebas",
+   "reason": "Established Tibetan Buddhist Indonesian term for nges 'byung; 'renunsiasi' is an unestablished calque."
+  },
+  {
+   "term_id": "T457",
+   "sense": "name of a goddess",
+   "field": "academic",
+   "proposed": "Durga",
+   "reason": "Names are written without diacritics elsewhere; keep one orthography."
+  },
+  {
+   "term_id": "T458",
+   "sense": "Karṇapa (people)",
+   "field": "academic",
+   "proposed": "Karnapa",
+   "reason": "Names are written without diacritics elsewhere; keep one orthography."
+  },
+  {
+   "term_id": "T465",
+   "sense": "intention",
+   "field": "academic",
+   "proposed": "niat",
+   "reason": "'Intensi' is a psychology term; 'niat' is the established word for bsam pa and matches the children's field."
+  },
+  {
+   "term_id": "T433",
+   "sense": "compassionate one",
+   "field": "academic",
+   "proposed": "yang berwelas asih",
+   "reason": "Academic field uses the children's spelling 'belas kasih'; academic compassion is 'welas asih' (T048)."
+  },
+  {
+   "term_id": "T414",
+   "sense": "concentration",
+   "field": "academic",
+   "proposed": "samadhi",
+   "reason": "Same English rendering as T539 (samādhi = samadhi); two different Indonesian renderings for one term."
+  }
+ ]
+}

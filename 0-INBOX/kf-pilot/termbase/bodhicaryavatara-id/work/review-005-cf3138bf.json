@@ -1,0 +1,136 @@
+{
+ "parsed": {
+  "objections": [
+   {
+    "term_id": "T487",
+    "sense": "ordination",
+    "field": "children",
+    "proposed": "menjadi biksu atau biksuni",
+    "reason": "'Biku' is inconsistent with 'biksu' (T188) and T302."
+   },
+   {
+    "term_id": "T495",
+    "sense": "Protector of the World",
+    "field": "academic",
+    "proposed": "Sang Pelindung Dunia",
+    "reason": "Epithets of the Buddha carry 'Sang' (T045, T313); without it this one is inconsistent."
+   },
+   {
+    "term_id": "T495",
+    "sense": "Protector of the World",
+    "field": "children",
+    "proposed": "Sang Pelindung Dunia",
+    "reason": "Epithets of the Buddha carry 'Sang' (T045, T313); without it this one is inconsistent."
+   },
+   {
+    "term_id": "T497",
+    "sense": "compassionate one",
+    "field": "academic",
+    "proposed": "yang berwelas asih",
+    "reason": "'Sosok' is superfluous; matches T433 pattern and T048 'welas asih'."
+   },
+   {
+    "term_id": "T513",
+    "sense": "compassionate one",
+    "field": "academic",
+    "proposed": "yang berwelas asih",
+    "reason": "'Sosok' is superfluous; matches T433 pattern and T048 'welas asih'."
+   },
+   {
+    "term_id": "T509",
+    "sense": "Speaker of Truth",
+    "field": "academic",
+    "proposed": "Sang Penutur Kebenaran",
+    "reason": "Same approved English as T396 ('Sang Penutur Kebenaran'); 'Pengucap' is an inconsistent variant."
+   },
+   {
+    "term_id": "T509",
+    "sense": "Speaker of Truth",
+    "field": "children",
+    "proposed": "Yang Mengatakan Kebenaran",
+    "reason": "Same approved English as T396, which uses this rendering."
+   },
+   {
+    "term_id": "T523",
+    "sense": "the Buddha's teaching",
+    "field": "academic",
+    "proposed": "ajaran Buddha",
+    "reason": "In Indonesian 'sasana' also means hall or building; 'ajaran Buddha' is unambiguous and matches the children's field."
+   },
+   {
+    "term_id": "T531",
+    "sense": "effort",
+    "field": "academic",
+    "proposed": "usaha",
+    "reason": "'Upaya' means skillful means (thabs, upāya) in Buddhist usage and would be confused with it."
+   },
+   {
+    "term_id": "T536",
+    "sense": "one keeping ascetic discipline",
+    "field": "academic",
+    "proposed": "petapa",
+    "reason": "Spelling should match T089 and T266 'petapa'; 'pertapa' is an inconsistent variant."
+   },
+   {
+    "term_id": "T540",
+    "sense": "distraction",
+    "field": "academic",
+    "proposed": "distraksi total",
+    "reason": "'Keteralihan' is not idiomatic and breaks consistency with T171 'distraksi'."
+   },
+   {
+    "term_id": "T545",
+    "sense": "mind of disillusionment",
+    "field": "academic",
+    "proposed": "kejenuhan batin",
+    "reason": "'Kejeraan' means being deterred; the sense is weariness with saṃsāra, as T483 'kejenuhan'."
+   },
+   {
+    "term_id": "T556",
+    "sense": "recollection of the Buddha",
+    "field": "academic",
+    "proposed": "mengingat Buddha",
+    "reason": "Inconsistent with T411 (same term, 'mengingat Buddha'); 'pengingatan' is awkward."
+   },
+   {
+    "term_id": "T567",
+    "sense": "impure field",
+    "field": "academic",
+    "proposed": "ladang tidak murni",
+    "reason": "Kṣetra/zhing is 'ladang' in T490 and T491; 'lapangan' means open ground."
+   },
+   {
+    "term_id": "T577",
+    "sense": "Supuṣpacandra (name)",
+    "field": "academic",
+    "proposed": "Supuspacandra",
+    "reason": "Names are written without diacritics elsewhere (Manjusri, Ksitigarbha); children's field already does."
+   },
+   {
+    "term_id": "T579",
+    "sense": "self-grasping",
+    "field": "academic",
+    "proposed": "cengkeraman pada atman",
+    "reason": "Same concept as T277 (grasping at a self); 'kemelekatan pada atman' is T276 (clinging to self), a different term."
+   },
+   {
+    "term_id": "T596",
+    "sense": "grasping at self",
+    "field": "academic",
+    "proposed": "cengkeraman pada atman",
+    "reason": "Same concept as T277; 'genggaman' is not idiomatic as a noun for grasping."
+   },
+   {
+    "term_id": "T580",
+    "sense": "intellect of self",
+    "field": "academic",
+    "proposed": "akal budi atman",
+    "reason": "Intellect (blo) is 'akal budi' in T079; 'intelek' is inconsistent."
+   }
+  ]
+ },
+ "tokens": {},
+ "model": "claude-sonnet-5-5",
+ "seconds": null,
+ "attempt": 1
+}

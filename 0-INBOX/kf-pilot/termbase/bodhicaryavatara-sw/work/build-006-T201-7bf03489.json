@@ -1,0 +1,462 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T201",
+    "senses": [
+     {
+      "sense": "three times",
+      "academic": "nyakati tatu",
+      "children": "zamani, sasa na siku zijazo",
+      "note": "Past, present and future as one doctrinal set."
+     }
+    ]
+   },
+   {
+    "term_id": "T202",
+    "senses": [
+     {
+      "sense": "master (teacher)",
+      "academic": "acharya",
+      "children": "mwalimu",
+      "note": "Sanskrit loan academically; everyday teacher for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T203",
+    "senses": [
+     {
+      "sense": "great compassion",
+      "academic": "huruma kuu",
+      "children": "huruma kuu",
+      "note": "Great compassion wishes all beings free from suffering."
+     }
+    ]
+   },
+   {
+    "term_id": "T204",
+    "senses": [
+     {
+      "sense": "Three Jewels",
+      "academic": "Vito Vitatu",
+      "children": "Vito Vitatu",
+      "note": "Buddha, Dharma and Sangha are the three refuges."
+     }
+    ]
+   },
+   {
+    "term_id": "T205",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Samantabhadra",
+      "children": "Samantabhadra",
+      "note": "Bodhisattva name kept in standard transcription."
+     }
+    ]
+   },
+   {
+    "term_id": "T206",
+    "senses": [
+     {
+      "sense": "Mañjuśrī",
+      "academic": "Manjushri",
+      "children": "Manjushri",
+      "note": "Same bodhisattva as Manjushri."
+     }
+    ]
+   },
+   {
+    "term_id": "T207",
+    "senses": [
+     {
+      "sense": "Avalokiteśvara",
+      "academic": "Avalokiteshvara",
+      "children": "Avalokiteshvara",
+      "note": "Bodhisattva name kept in standard transcription."
+     }
+    ]
+   },
+   {
+    "term_id": "T208",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Akashagarbha",
+      "children": "Akashagarbha",
+      "note": "Bodhisattva name kept in standard transcription."
+     }
+    ]
+   },
+   {
+    "term_id": "T209",
+    "senses": [
+     {
+      "sense": "omniscient",
+      "academic": "mwenye kujua yote",
+      "children": "anayejua kila kitu",
+      "note": "Epithet for a Buddha's complete knowledge."
+     }
+    ]
+   },
+   {
+    "term_id": "T210",
+    "senses": [
+     {
+      "sense": "awakening mind",
+      "academic": "bodhicitta",
+      "children": "akili ya uamsho",
+      "note": "Reuses the fixed bodhicitta renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T211",
+    "senses": [
+     {
+      "sense": "pass into nirvāṇa",
+      "academic": "nirvana",
+      "children": "uhuru kutoka huzuni",
+      "note": "Final release from rebirth and sorrow."
+     }
+    ]
+   },
+   {
+    "term_id": "T212",
+    "senses": [
+     {
+      "sense": "countless eon",
+      "academic": "kalpa zisizohesabika",
+      "children": "zama ndefu zisizohesabika",
+      "note": "Built from the fixed rendering for eon."
+     }
+    ]
+   },
+   {
+    "term_id": "T213",
+    "senses": [
+     {
+      "sense": "inexhaustible treasure",
+      "academic": "hazina isiyokwisha",
+      "children": "hazina isiyokwisha",
+      "note": "Treasure image for inexhaustible merit or qualities."
+     }
+    ]
+   },
+   {
+    "term_id": "T214",
+    "senses": [
+     {
+      "sense": "path",
+      "academic": "njia",
+      "children": "njia",
+      "note": "The way or course of practice toward awakening."
+     }
+    ]
+   },
+   {
+    "term_id": "T215",
+    "senses": [
+     {
+      "sense": "asura",
+      "academic": "asura",
+      "children": "nusu mungu",
+      "note": "Loan for a class of beings; demigod for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T216",
+    "senses": [
+     {
+      "sense": "striving",
+      "academic": "bidii",
+      "children": "juhudi",
+      "note": "Sustained effort that keeps practice from slipping."
+     }
+    ]
+   },
+   {
+    "term_id": "T217",
+    "senses": [
+     {
+      "sense": "faith",
+      "academic": "imani",
+      "children": "imani",
+      "note": "Trusting confidence in Buddha, Dharma and Sangha."
+     }
+    ]
+   },
+   {
+    "term_id": "T218",
+    "senses": [
+     {
+      "sense": "human body",
+      "academic": "mwili wa binadamu",
+      "children": "mwili wa binadamu",
+      "note": "Reuses fixed body rendering with human specified."
+     }
+    ]
+   },
+   {
+    "term_id": "T219",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Aliyebarikiwa",
+      "children": "Aliyebarikiwa",
+      "note": "Honorific epithet of a Buddha, not the creator God."
+     }
+    ]
+   },
+   {
+    "term_id": "T220",
+    "senses": [
+     {
+      "sense": "liberation",
+      "academic": "ukombozi",
+      "children": "uhuru",
+      "note": "Release from samsara and afflictions."
+     },
+     {
+      "sense": "life story of a saint",
+      "academic": "hadithi ya ukombozi",
+      "children": "hadithi ya maisha",
+      "note": "A saint's spiritual biography, not release itself."
+     }
+    ]
+   },
+   {
+    "term_id": "T221",
+    "senses": [
+     {
+      "sense": "leisure",
+      "academic": "nafasi ya kufanya mazoezi",
+      "children": "uhuru wa kufanya mazoezi",
+      "note": "Not a moment; it means freedom and opportunity to practice."
+     }
+    ]
+   },
+   {
+    "term_id": "T222",
+    "senses": [
+     {
+      "sense": "Mount Meru",
+      "academic": "Mlima Meru",
+      "children": "Mlima Meru",
+      "note": "Cosmic mountain kept as a proper name."
+     }
+    ]
+   },
+   {
+    "term_id": "T223",
+    "senses": [
+     {
+      "sense": "ten directions",
+      "academic": "pande kumi",
+      "children": "pande kumi",
+      "note": "Four cardinal, four intermediate, up and down."
+     }
+    ]
+   },
+   {
+    "term_id": "T224",
+    "senses": [
+     {
+      "sense": "illusion",
+      "academic": "maya",
+      "children": "picha ya uongo",
+      "note": "Reuses the fixed rendering for illusion."
+     }
+    ]
+   },
+   {
+    "term_id": "T225",
+    "senses": [
+     {
+      "sense": "sense object",
+      "academic": "kitu kinachohisiwa",
+      "children": "kitu tunachohisi",
+      "note": "Object of eye, ear, nose, tongue, body or mind."
+     }
+    ]
+   },
+   {
+    "term_id": "T226",
+    "senses": [
+     {
+      "sense": "elephant of the mind",
+      "academic": "tembo wa akili",
+      "children": "tembo wa akili",
+      "note": "Image of an unruly mind needing training."
+     }
+    ]
+   },
+   {
+    "term_id": "T227",
+    "senses": [
+     {
+      "sense": "rākṣasa",
+      "academic": "rakshasa",
+      "children": "shetani",
+      "note": "Loan for a man-eating harmful spirit; demon for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T228",
+    "senses": [
+     {
+      "sense": "hell of sentient beings",
+      "academic": "jehanamu ya viumbe vyenye hisia",
+      "children": "jehanamu ya viumbe hai",
+      "note": "Combines fixed renderings for hell and sentient beings."
+     }
+    ]
+   },
+   {
+    "term_id": "T229",
+    "senses": [
+     {
+      "sense": "three worlds",
+      "academic": "milimwengu mitatu",
+      "children": "dunia tatu",
+      "note": "Desire, form and formless realms."
+     }
+    ]
+   },
+   {
+    "term_id": "T230",
+    "senses": [
+     {
+      "sense": "recitation",
+      "academic": "kutamka kwa kurudia",
+      "children": "kurudia maneno",
+      "note": "Repetitive recitation, often of a mantra."
+     }
+    ]
+   },
+   {
+    "term_id": "T231",
+    "senses": [
+     {
+      "sense": "wound of the mind",
+      "academic": "jeraha la akili",
+      "children": "jeraha la akili",
+      "note": "Hurt left in the mind by afflictions."
+     }
+    ]
+   },
+   {
+    "term_id": "T232",
+    "senses": [
+     {
+      "sense": "name of a hell",
+      "academic": "Jehanamu ya Kupondeka",
+      "children": "Jehanamu ya Kupondeka",
+      "note": "Specific hell where beings are crushed together."
+     }
+    ]
+   },
+   {
+    "term_id": "T233",
+    "senses": [
+     {
+      "sense": "gateway of the mind",
+      "academic": "lango la akili",
+      "children": "mlango wa akili",
+      "note": "Channel through which mental objects enter awareness."
+     }
+    ]
+   },
+   {
+    "term_id": "T234",
+    "senses": [
+     {
+      "sense": "agitation",
+      "academic": "msukosuko wa akili",
+      "children": "kutotulia",
+      "note": "Excited restlessness that scatters attention."
+     }
+    ]
+   },
+   {
+    "term_id": "T235",
+    "senses": [
+     {
+      "sense": "self-praise",
+      "academic": "kujisifu",
+      "children": "kujisifu",
+      "note": "Praising oneself, paired with belittling others."
+     }
+    ]
+   },
+   {
+    "term_id": "T236",
+    "senses": [
+     {
+      "sense": "disparagement of others",
+      "academic": "kudharau wengine",
+      "children": "kudharau wengine",
+      "note": "Belittling others, paired with self-praise."
+     }
+    ]
+   },
+   {
+    "term_id": "T237",
+    "senses": [
+     {
+      "sense": "guarding introspection",
+      "academic": "ulinzi wa kujichunguza",
+      "children": "kulinda uangalifu",
+      "note": "Protecting clear self-awareness so actions stay heedful."
+     }
+    ]
+   },
+   {
+    "term_id": "T238",
+    "senses": [
+     {
+      "sense": "meditation",
+      "academic": "tafakari",
+      "children": "kutafakari",
+      "note": "Repeated cultivation of an idea in meditation."
+     }
+    ]
+   },
+   {
+    "term_id": "T239",
+    "senses": [
+     {
+      "sense": "peace",
+      "academic": "amani",
+      "children": "amani",
+      "note": "Covers calmness and auspicious peace."
+     }
+    ]
+   },
+   {
+    "term_id": "T240",
+    "senses": [
+     {
+      "sense": "mental unhappiness",
+      "academic": "huzuni ya akili",
+      "children": "kutokuwa na furaha",
+      "note": "Mental dissatisfaction, distinct from bodily pain."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4197,
+  "output": 1951,
+  "thinking": 14653,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 318.67,
+ "attempt": 1
+}

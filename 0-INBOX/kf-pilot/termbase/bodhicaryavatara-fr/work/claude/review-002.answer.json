@@ -1,0 +1,144 @@
+{
+ "objections": [
+  {
+   "term_id": "T121",
+   "sense": "heedfulness",
+   "field": "children",
+   "proposed": "prudence",
+   "reason": "'vigilance' is already the children's rendering of saṃprajanya (T047); apramāda (carefulness) needs a distinct word."
+  },
+  {
+   "term_id": "T141",
+   "sense": "heedlessness",
+   "field": "children",
+   "proposed": "imprudence",
+   "reason": "Keeps the pair apramāda/pramāda symmetrical with T121 'prudence'; 'inattention' would collide with smṛti 'attention'."
+  },
+  {
+   "term_id": "T128",
+   "sense": "envy",
+   "field": "academic",
+   "proposed": "jalousie",
+   "reason": "īrṣyā is established as 'jalousie'; 'envie' is ambiguous (desire) and collides with 'envie' used for craving (T157)."
+  },
+  {
+   "term_id": "T131",
+   "sense": "lifetime",
+   "field": "academic",
+   "proposed": "vie",
+   "reason": "'existence' is already the rendering of bhava (T086); tshe rabs/janman means a lifetime, so 'vie'."
+  },
+  {
+   "term_id": "T151",
+   "sense": "protector, saviour",
+   "field": "children",
+   "proposed": "Sauveur",
+   "reason": "'Protecteur' is already used for nātha (T045, T087); tāyin/skyob pa is 'Saviour' in the academic field, so keep it distinct."
+  },
+  {
+   "term_id": "T152",
+   "sense": "nirvana",
+   "field": "children",
+   "proposed": "libération du chagrin",
+   "reason": "mya ngan is sorrow, not duḥkha; inconsistent with T060 'libération du chagrin' and clashes with souffrance (T001)."
+  },
+  {
+   "term_id": "T157",
+   "sense": "craving",
+   "field": "academic",
+   "proposed": "soif",
+   "reason": "Same term tṛṣṇā is 'soif' in T081; academic renderings must agree."
+  },
+  {
+   "term_id": "T157",
+   "sense": "craving",
+   "field": "children",
+   "proposed": "envie très forte",
+   "reason": "Match T081 children; bare 'envie' is too weak for craving."
+  },
+  {
+   "term_id": "T161",
+   "sense": "sūtra",
+   "field": "children",
+   "proposed": "texte d'enseignement",
+   "reason": "Same term sūtra is 'texte d'enseignement' in T125; 'texte sacré' is already used for āgama (T085)."
+  },
+  {
+   "term_id": "T163",
+   "sense": "primal matter of Sāṃkhya",
+   "field": "children",
+   "proposed": "matière originelle",
+   "reason": "'matière première' means industrial raw material in French and misleads; 'originelle' conveys primal."
+  },
+  {
+   "term_id": "T168",
+   "sense": "own interest",
+   "field": "academic",
+   "proposed": "bien personnel",
+   "reason": "Same term svārtha; align with T064 and the 'bien d'autrui' (parārtha) pairing; 'bien propre' is unidiomatic."
+  },
+  {
+   "term_id": "T168",
+   "sense": "own interest",
+   "field": "children",
+   "proposed": "son propre bien",
+   "reason": "Same term svārtha is 'son propre bien' in T064; the periphrasis is inconsistent."
+  },
+  {
+   "term_id": "T175",
+   "sense": "grief",
+   "field": "children",
+   "proposed": "chagrin",
+   "reason": "'tristesse' is also the children's rendering of daurmanasya (T240); 'chagrin' keeps śoka distinct and matches nirvāṇa 'chagrin'."
+  },
+  {
+   "term_id": "T176",
+   "sense": "childish person",
+   "field": "children",
+   "proposed": "personne immature",
+   "reason": "Same term bāla as T065, which has 'personne immature'; 'sotte' is insulting and gendered for readers aged 8-12."
+  },
+  {
+   "term_id": "T183",
+   "sense": "habituation",
+   "field": "academic",
+   "proposed": "familiarisation",
+   "reason": "'Accoutumance' connotes addiction in French; goms pa is established as 'familiarisation'."
+  },
+  {
+   "term_id": "T194",
+   "sense": "child of the Sugata",
+   "field": "academic",
+   "proposed": "enfant du Sugata",
+   "reason": "Sense is 'child'; other sras compounds (T110, T113) use 'enfant', not 'fils'."
+  },
+  {
+   "term_id": "T194",
+   "sense": "child of the Sugata",
+   "field": "children",
+   "proposed": "enfant de Celui qui est bien allé",
+   "reason": "Sugata is 'Celui qui est bien allé' in T052; 'Bien-Allé' is inconsistent and hard for children."
+  },
+  {
+   "term_id": "T237",
+   "sense": "guarding introspection",
+   "field": "children",
+   "proposed": "garder la vigilance",
+   "reason": "saṃprajanya is 'vigilance' in T047 children; 'rester attentif' loses the term and the 'guarding' sense."
+  },
+  {
+   "term_id": "T127",
+   "sense": "fame, renown",
+   "field": "children",
+   "proposed": "célébrité",
+   "reason": "Simpler for ages 8-12 than 'renommée', and matches T424 and T482 which already use 'célébrité'."
+  },
+  {
+   "term_id": "T375",
+   "sense": "wish-fulfilling cow",
+   "field": "children",
+   "proposed": "vache qui exauce les souhaits",
+   "reason": "'vœux' is also 'vow' (saṃvara, T305); 'souhaits' is used for the same wish-fulfilling notion in T114, T625."
+  }
+ ]
+}

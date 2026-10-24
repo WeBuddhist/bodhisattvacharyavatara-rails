@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T321",
+    "senses": [
+     {
+      "sense": "seer",
+      "academic": "ṛṣi",
+      "children": "sage voyant",
+      "note": "Sanskrit term retained in French scholarship; children get a plain descriptive phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T322",
+    "senses": [
+     {
+      "sense": "Brahmā (god)",
+      "academic": "Brahmā",
+      "children": "Brahma",
+      "note": "Proper name of the god; children without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T323",
+    "senses": [
+     {
+      "sense": "Sugata",
+      "academic": "Sugata",
+      "children": "le Bien-Allé",
+      "note": "Buddha epithet; children use the established French translation."
+     }
+    ]
+   },
+   {
+    "term_id": "T324",
+    "senses": [
+     {
+      "sense": "precious mind",
+      "academic": "esprit précieux",
+      "children": "esprit précieux",
+      "note": "Reuses fixed rendering of citta as esprit; same phrase suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T325",
+    "senses": [
+     {
+      "sense": "Jewel",
+      "academic": "Joyau",
+      "children": "joyau",
+      "note": "As in the Three Jewels (Trois Joyaux), standard French Buddhist usage."
+     }
+    ]
+   },
+   {
+    "term_id": "T326",
+    "senses": [
+     {
+      "sense": "jewel tree",
+      "academic": "arbre à joyaux",
+      "children": "arbre à joyaux",
+      "note": "Compound reusing the Jewel rendering; identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T327",
+    "senses": [
+     {
+      "sense": "worthy recipient of offerings",
+      "academic": "digne receveur d'offrandes",
+      "children": "celui qui mérite les cadeaux",
+      "note": "Person fit to receive gifts; children wording uses cadeaux for offerings."
+     }
+    ]
+   },
+   {
+    "term_id": "T328",
+    "senses": [
+     {
+      "sense": "supreme bodhisattva",
+      "academic": "être suprême",
+      "children": "le plus grand héros de l'éveil",
+      "note": "Academic follows English supreme being; children reuse héros de l'éveil."
+     }
+    ]
+   },
+   {
+    "term_id": "T329",
+    "senses": [
+     {
+      "sense": "existence",
+      "academic": "existence",
+      "children": "vie",
+      "note": "Cyclic existence; children simply call it life."
+     }
+    ]
+   },
+   {
+    "term_id": "T330",
+    "senses": [
+     {
+      "sense": "misdeed",
+      "academic": "méfait",
+      "children": "mauvaise action",
+      "note": "Reuses the fixed renderings for pāpa."
+     }
+    ]
+   },
+   {
+    "term_id": "T331",
+    "senses": [
+     {
+      "sense": "bath",
+      "academic": "bain",
+      "children": "bain",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T332",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Samantabhadra",
+      "children": "Samantabhadra",
+      "note": "Proper name, standard form in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T333",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Avalokiteśvara",
+      "children": "Avalokiteshvara",
+      "note": "Proper name; children version drops diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T334",
+    "senses": [
+     {
+      "sense": "three-thousandfold world system",
+      "academic": "système de trois mille mondes",
+      "children": "monde de trois mille mondes",
+      "note": "Cosmic system of a billion worlds; children keep the simple three-thousand-worlds phrasing."
+     }
+    ]
+   },
+   {
+    "term_id": "T335",
+    "senses": [
+     {
+      "sense": "object of offering",
+      "academic": "objet d'offrande",
+      "children": "celui qui mérite les offrandes",
+      "note": "Recipient toward whom offerings are directed; kept distinct from T327's gifts wording."
+     }
+    ]
+   },
+   {
+    "term_id": "T336",
+    "senses": [
+     {
+      "sense": "heavenly flower",
+      "academic": "mandāra",
+      "children": "fleur céleste",
+      "note": "Sanskrit flower name retained academically; children get a plain description."
+     }
+    ]
+   },
+   {
+    "term_id": "T337",
+    "senses": [
+     {
+      "sense": "blue lotus",
+      "academic": "lotus bleu",
+      "children": "lotus bleu",
+      "note": "Same plain term in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T338",
+    "senses": [
+     {
+      "sense": "incense",
+      "academic": "encens",
+      "children": "encens",
+      "note": "Everyday word, identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T339",
+    "senses": [
+     {
+      "sense": "divine feast",
+      "academic": "festin divin",
+      "children": "festin des dieux",
+      "note": "Food offering to deities; children reuse dieu."
+     }
+    ]
+   },
+   {
+    "term_id": "T340",
+    "senses": [
+     {
+      "sense": "lamp",
+      "academic": "lampe",
+      "children": "lampe",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T341",
+    "senses": [
+     {
+      "sense": "immeasurable palace",
+      "academic": "palais incommensurable",
+      "children": "palais trop grand pour être mesuré",
+      "note": "Celestial mansion; children phrase explains incommensurable plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T342",
+    "senses": [
+     {
+      "sense": "suffering (variant spelling)",
+      "academic": "souffrance",
+      "children": "souffrance",
+      "note": "Reuses the fixed renderings for duḥkha."
+     }
+    ]
+   },
+   {
+    "term_id": "T343",
+    "senses": [
+     {
+      "sense": "supreme assembly (the Saṅgha)",
+      "academic": "Assemblée suprême",
+      "children": "Assemblée suprême",
+      "note": "Epithet of the Saṅgha; English keeps one form, so French does too."
+     }
+    ]
+   },
+   {
+    "term_id": "T344",
+    "senses": [
+     {
+      "sense": "buddha-field",
+      "academic": "champ de Bouddha",
+      "children": "pays de Bouddha",
+      "note": "Buddhakṣetra; standard French champ de Bouddha, children say the Buddha's country."
+     }
+    ]
+   },
+   {
+    "term_id": "T345",
+    "senses": [
+     {
+      "sense": "basis of bodhicitta",
+      "academic": "fondement du bodhicitta",
+      "children": "base de l'esprit d'éveil",
+      "note": "Reuses fixed bodhicitta renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T346",
+    "senses": [
+     {
+      "sense": "essence of awakening",
+      "academic": "essence de l'éveil",
+      "children": "cœur de l'éveil",
+      "note": "Follows the English gloss; children use cœur for essence."
+     }
+    ]
+   },
+   {
+    "term_id": "T347",
+    "senses": [
+     {
+      "sense": "fully awakened Buddha",
+      "academic": "Bouddha pleinement éveillé",
+      "children": "Bouddha complètement éveillé",
+      "note": "Reuses fixed Bouddha and éveil; children use the simpler adverb."
+     }
+    ]
+   },
+   {
+    "term_id": "T348",
+    "senses": [
+     {
+      "sense": "rejoice",
+      "academic": "se réjouir",
+      "children": "être heureux de",
+      "note": "Verb of sympathetic joy (anumodanā); children phrase is everyday French."
+     }
+    ]
+   },
+   {
+    "term_id": "T349",
+    "senses": [
+     {
+      "sense": "one burdened with misdeeds",
+      "academic": "chargé de méfaits",
+      "children": "celui qui a fait de mauvaises actions",
+      "note": "Burdened reading; children match T354 since English gives them the same wording."
+     }
+    ]
+   },
+   {
+    "term_id": "T350",
+    "senses": [
+     {
+      "sense": "purification",
+      "academic": "purification",
+      "children": "nettoyage",
+      "note": "Cleansing away of misdeeds; children use the everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T351",
+    "senses": [
+     {
+      "sense": "definite liberation",
+      "academic": "libération définitive",
+      "children": "liberté certaine",
+      "note": "Certain future freedom from saṃsāra; children phrase stays plain."
+     }
+    ]
+   },
+   {
+    "term_id": "T352",
+    "senses": [
+     {
+      "sense": "Protector of beings",
+      "academic": "Protecteur des êtres errants",
+      "children": "Protecteur des êtres",
+      "note": "Epithet reusing fixed jagat renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T353",
+    "senses": [
+     {
+      "sense": "assembly of bodhisattvas",
+      "academic": "assemblée des bodhisattvas",
+      "children": "groupe de héros de l'éveil",
+      "note": "Reuses fixed bodhisattva renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T354",
+    "senses": [
+     {
+      "sense": "one burdened with misdeeds",
+      "academic": "auteur de méfaits",
+      "children": "celui qui a fait de mauvaises actions",
+      "note": "Possessing reading of pāpin; children identical to T349 as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T355",
+    "senses": [
+     {
+      "sense": "Kṣitigarbha",
+      "academic": "Kṣitigarbha",
+      "children": "Kshitigarbha",
+      "note": "Proper name of the bodhisattva; children without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T356",
+    "senses": [
+     {
+      "sense": "Vajra-wielder",
+      "academic": "Porteur du vajra",
+      "children": "porteur de la foudre",
+      "note": "Epithet of Vajrapāṇi; children render vajra as thunderbolt."
+     }
+    ]
+   },
+   {
+    "term_id": "T357",
+    "senses": [
+     {
+      "sense": "desire",
+      "academic": "désir",
+      "children": "envie",
+      "note": "Rāga kept distinct from lobha (attachement); children use everyday envie."
+     }
+    ]
+   },
+   {
+    "term_id": "T358",
+    "senses": [
+     {
+      "sense": "name of the human continent",
+      "academic": "Jambudvīpa",
+      "children": "Jambudvipa",
+      "note": "Proper name of the continent; children without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T359",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Médecin omniscient",
+      "children": "docteur qui sait tout",
+      "note": "Buddha as healer; children use docteur and plain wording."
+     }
+    ]
+   },
+   {
+    "term_id": "T360",
+    "senses": [
+     {
+      "sense": "unit of distance",
+      "academic": "yojana",
+      "children": "lieue",
+      "note": "Sanskrit term kept academically; children use the familiar old French league."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4118,
+  "output": 2557,
+  "thinking": 5799,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 212.5,
+ "attempt": 1
+}

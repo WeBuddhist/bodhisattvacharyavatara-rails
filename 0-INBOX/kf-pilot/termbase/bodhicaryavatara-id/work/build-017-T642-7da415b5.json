@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T642",
+    "senses": [
+     {
+      "sense": "obscuration of afflictions and of objects of knowledge",
+      "academic": "selubung kekotoran batin dan objek pengetahuan",
+      "children": "tabir perasaan yang mengganggu dan hal-hal yang diketahui",
+      "note": "āvaraṇa as 'selubung'; kleśa reuses fixed 'kekotoran batin'; children mirrors 'veil' with 'tabir'."
+     }
+    ]
+   },
+   {
+    "term_id": "T643",
+    "senses": [
+     {
+      "sense": "six consciousnesses",
+      "academic": "enam kesadaran",
+      "children": "enam macam kesadaran",
+      "note": "vijñāna rendered 'kesadaran'; children phrase mirrors 'kinds of awareness'."
+     }
+    ]
+   },
+   {
+    "term_id": "T644",
+    "senses": [
+     {
+      "sense": "designated",
+      "academic": "ditetapkan",
+      "children": "diberi nama",
+      "note": "kalpyate as verbal designation, distinct from kalpita 'imputed'."
+     }
+    ]
+   },
+   {
+    "term_id": "T645",
+    "senses": [
+     {
+      "sense": "karma and result",
+      "academic": "karma dan hasil",
+      "children": "perbuatan dan hasilnya",
+      "note": "phala reuses fixed 'hasil'; children uses everyday 'perbuatan'."
+     }
+    ]
+   },
+   {
+    "term_id": "T646",
+    "senses": [
+     {
+      "sense": "one who experiences",
+      "academic": "yang mengalami",
+      "children": "orang yang mengalami",
+      "note": "bhoktṛ as agent of experience; no established one-word Indonesian equivalent."
+     }
+    ]
+   },
+   {
+    "term_id": "T647",
+    "senses": [
+     {
+      "sense": "imputed",
+      "academic": "diimputasikan",
+      "children": "dibayangkan",
+      "note": "kalpita keeps Madhyamaka sense of conceptual imputation; children mirrors 'imagined'."
+     }
+    ]
+   },
+   {
+    "term_id": "T648",
+    "senses": [
+     {
+      "sense": "assemblage of conditions",
+      "academic": "kumpulan kondisi",
+      "children": "berkumpulnya keadaan",
+      "note": "pratyaya reuses fixed 'kondisi/keadaan'; sāmagrī as 'kumpulan'."
+     }
+    ]
+   },
+   {
+    "term_id": "T649",
+    "senses": [
+     {
+      "sense": "part",
+      "academic": "bagian",
+      "children": "bagian",
+      "note": "aṃśa in atomism debates; same everyday word serves both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T650",
+    "senses": [
+     {
+      "sense": "directional part",
+      "academic": "bagian menurut arah",
+      "children": "bagian di satu arah",
+      "note": "digvibhāga: spatial division of atoms; 'menurut arah' keeps directional sense."
+     }
+    ]
+   },
+   {
+    "term_id": "T651",
+    "senses": [
+     {
+      "sense": "experience",
+      "academic": "pengalaman",
+      "children": "pengalaman",
+      "note": "anubhava shares rendering with saṃvitti, as English shares the academic label."
+     }
+    ]
+   },
+   {
+    "term_id": "T652",
+    "senses": [
+     {
+      "sense": "subtle state",
+      "academic": "keadaan halus",
+      "children": "bentuk samar",
+      "note": "sūkṣmatā as state of subtlety; children 'bentuk samar' mirrors 'faint form'."
+     }
+    ]
+   },
+   {
+    "term_id": "T653",
+    "senses": [
+     {
+      "sense": "opposing condition",
+      "academic": "kondisi yang bertentangan",
+      "children": "keadaan yang bertentangan",
+      "note": "viruddha as 'bertentangan'; pratyaya reuses fixed renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T654",
+    "senses": [
+     {
+      "sense": "conceptual clinging",
+      "academic": "kemelekatan konseptual",
+      "children": "berpegang erat pada suatu gagasan",
+      "note": "abhiniveśa linked to fixed 'kemelekatan'; children mirrors 'holding on to an idea'."
+     }
+    ]
+   },
+   {
+    "term_id": "T655",
+    "senses": [
+     {
+      "sense": "partless",
+      "academic": "tanpa bagian",
+      "children": "tanpa bagian",
+      "note": "niraṃśa negates 'bagian'; same plain phrase serves both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T656",
+    "senses": [
+     {
+      "sense": "contact",
+      "academic": "kontak",
+      "children": "sentuhan",
+      "note": "sparśana standard 'kontak' in sense-faculty formulas; children mirrors 'touch'."
+     }
+    ]
+   },
+   {
+    "term_id": "T657",
+    "senses": [
+     {
+      "sense": "two truths",
+      "academic": "dua kebenaran",
+      "children": "dua kebenaran",
+      "note": "satyadvaya: established Indonesian Buddhist 'dua kebenaran'."
+     }
+    ]
+   },
+   {
+    "term_id": "T658",
+    "senses": [
+     {
+      "sense": "conceptual thought",
+      "academic": "pikiran konseptual",
+      "children": "membayangkan",
+      "note": "kalpanā as conceptual construction; children mirrors 'imagining'."
+     }
+    ]
+   },
+   {
+    "term_id": "T659",
+    "senses": [
+     {
+      "sense": "analysis",
+      "academic": "analisis",
+      "children": "pemeriksaan yang teliti",
+      "note": "vicāra in wisdom-chapter reasoning; children mirrors 'careful examination'."
+     }
+    ]
+   },
+   {
+    "term_id": "T660",
+    "senses": [
+     {
+      "sense": "object of analysis",
+      "academic": "objek analisis",
+      "children": "sesuatu yang sedang diperiksa",
+      "note": "vicārya reuses 'analisis'; children mirrors 'thing being examined'."
+     }
+    ]
+   },
+   {
+    "term_id": "T661",
+    "senses": [
+     {
+      "sense": "power of consciousness",
+      "academic": "kekuatan kesadaran",
+      "children": "kekuatan kesadaran",
+      "note": "Consciousness rendered 'kesadaran' consistently with vijñāna entries."
+     }
+    ]
+   },
+   {
+    "term_id": "T662",
+    "senses": [
+     {
+      "sense": "worldly direct perception",
+      "academic": "persepsi langsung duniawi",
+      "children": "melihat langsung sehari-hari",
+      "note": "lokapratyakṣa: pratyakṣa as 'persepsi langsung'; children mirrors 'everyday direct seeing'."
+     }
+    ]
+   },
+   {
+    "term_id": "T663",
+    "senses": [
+     {
+      "sense": "element",
+      "academic": "unsur",
+      "children": "unsur",
+      "note": "bhūta as 'unsur', standard for mahābhūta in Indonesian Buddhist usage."
+     }
+    ]
+   },
+   {
+    "term_id": "T664",
+    "senses": [
+     {
+      "sense": "beyond thought",
+      "academic": "tak terpikirkan",
+      "children": "di luar pikiran",
+      "note": "acintya standard 'tak terpikirkan'; children mirrors 'beyond thought'."
+     }
+    ]
+   },
+   {
+    "term_id": "T665",
+    "senses": [
+     {
+      "sense": "beginningless",
+      "academic": "tanpa awal",
+      "children": "tanpa awal",
+      "note": "anādi sense; same plain phrase serves both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T666",
+    "senses": [
+     {
+      "sense": "Sāṃkhya",
+      "academic": "Samkhya",
+      "children": "Samkhya",
+      "note": "Proper name of the philosophical school; standard Indonesian spelling without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T667",
+    "senses": [
+     {
+      "sense": "equilibrium",
+      "academic": "keseimbangan",
+      "children": "keseimbangan sempurna",
+      "note": "aviṣamasthita: balanced state of the guṇas in Sāṃkhya doctrine."
+     }
+    ]
+   },
+   {
+    "term_id": "T668",
+    "senses": [
+     {
+      "sense": "experience",
+      "academic": "pengalaman",
+      "children": "perasaan",
+      "note": "saṃvitti shares academic rendering with anubhava, as English does; children mirrors 'feeling'."
+     }
+    ]
+   },
+   {
+    "term_id": "T669",
+    "senses": [
+     {
+      "sense": "coarse",
+      "academic": "kasar",
+      "children": "kasar",
+      "note": "sthūla opposite of sūkṣma; everyday 'kasar' serves both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T670",
+    "senses": [
+     {
+      "sense": "subtle",
+      "academic": "halus",
+      "children": "halus",
+      "note": "sūkṣma as opposite of sthūla; same word both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T671",
+    "senses": [
+     {
+      "sense": "subtle",
+      "academic": "halus",
+      "children": "halus",
+      "note": "Identical English labels, so identical renderings as T670."
+     }
+    ]
+   },
+   {
+    "term_id": "T672",
+    "senses": [
+     {
+      "sense": "non-existent",
+      "academic": "tidak ada",
+      "children": "tidak ada",
+      "note": "asat; plain negation of existence serves both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T673",
+    "senses": [
+     {
+      "sense": "meditation",
+      "academic": "meditasi",
+      "children": "meditasi",
+      "note": "bhāvanā as 'meditasi', established and everyday Indonesian term."
+     }
+    ]
+   },
+   {
+    "term_id": "T674",
+    "senses": [
+     {
+      "sense": "imputed entity",
+      "academic": "entitas yang diimputasikan",
+      "children": "sesuatu yang dibayangkan",
+      "note": "Compound reuses fixed 'entitas/sesuatu' and T647 'diimputasikan/dibayangkan'."
+     }
+    ]
+   },
+   {
+    "term_id": "T675",
+    "senses": [
+     {
+      "sense": "without a cause",
+      "academic": "tanpa penyebab",
+      "children": "tanpa penyebab",
+      "note": "Reuses fixed 'penyebab' for hetu."
+     }
+    ]
+   },
+   {
+    "term_id": "T676",
+    "senses": [
+     {
+      "sense": "reflection",
+      "academic": "refleksi",
+      "children": "bayangan",
+      "note": "pratibimba as mirror-image; children 'bayangan' is the everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T677",
+    "senses": [
+     {
+      "sense": "true existence",
+      "academic": "keberadaan sejati",
+      "children": "benar-benar nyata",
+      "note": "satyatā as truly existing; children mirrors 'being truly real'."
+     }
+    ]
+   },
+   {
+    "term_id": "T678",
+    "senses": [
+     {
+      "sense": "non-entity",
+      "academic": "nonentitas",
+      "children": "sesuatu yang tidak ada",
+      "note": "abhāva negates fixed 'entitas'; children mirrors 'non-existent thing'."
+     }
+    ]
+   },
+   {
+    "term_id": "T679",
+    "senses": [
+     {
+      "sense": "cessation",
+      "academic": "penghentian",
+      "children": "berhenti",
+      "note": "nirodha standard 'penghentian', as in 'penghentian penderitaan'; children mirrors 'stopping'."
+     }
+    ]
+   },
+   {
+    "term_id": "T680",
+    "senses": [
+     {
+      "sense": "neither arisen nor ceased",
+      "academic": "tidak lahir dan tidak berhenti",
+      "children": "tidak pernah lahir dan tidak pernah berakhir",
+      "note": "ajāta-aniruddha in emptiness reasoning; children mirrors 'never born and never ending'."
+     }
+    ]
+   },
+   {
+    "term_id": "T681",
+    "senses": [
+     {
+      "sense": "empty",
+      "academic": "kosong",
+      "children": "kosong",
+      "note": "śūnya; everyday 'kosong' serves both registers, as in 'sunyata = kekosongan'."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4060,
+  "output": 2247,
+  "thinking": 7088,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 269.72,
+ "attempt": 1
+}

@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T361",
+    "senses": [
+     {
+      "sense": "non-virtue",
+      "academic": "ketidakbajikan",
+      "children": "perbuatan buruk",
+      "note": "Akuśala; negates fixed virtue rendering 'kebajikan'."
+     }
+    ]
+   },
+   {
+    "term_id": "T362",
+    "senses": [
+     {
+      "sense": "natural misdeed",
+      "academic": "perbuatan jahat menurut hakikatnya",
+      "children": "perbuatan yang merugikan pada dasarnya",
+      "note": "Deed wrong in itself; reuses fixed 'misdeed' renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T363",
+    "senses": [
+     {
+      "sense": "proscribed misdeed",
+      "academic": "perbuatan jahat karena larangan",
+      "children": "perbuatan yang merugikan karena dilarang",
+      "note": "Deed wrong because proscribed; reuses fixed 'misdeed' renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T364",
+    "senses": [
+     {
+      "sense": "joined palms",
+      "academic": "kedua telapak tangan dirapatkan",
+      "children": "kedua tangan dirapatkan",
+      "note": "Añjali gesture of reverence with palms pressed together."
+     }
+    ]
+   },
+   {
+    "term_id": "T365",
+    "senses": [
+     {
+      "sense": "definite liberation",
+      "academic": "pembebasan definitif",
+      "children": "kebebasan sepenuhnya",
+      "note": "Certain, complete release; consistent with 'pembebasan' for liberation."
+     }
+    ]
+   },
+   {
+    "term_id": "T366",
+    "senses": [
+     {
+      "sense": "level of the children of the Victors",
+      "academic": "tingkat para putra Sang Penakluk",
+      "children": "tingkat anak-anak Sang Pemenang",
+      "note": "Bodhisattva levels; reuses fixed 'Victor' renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T367",
+    "senses": [
+     {
+      "sense": "generation of bodhicitta",
+      "academic": "pembangkitan bodicitta",
+      "children": "kelahiran pikiran kebangkitan",
+      "note": "Cittotpāda; reuses fixed bodhicitta renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T368",
+    "senses": [
+     {
+      "sense": "lamp of the Dharma",
+      "academic": "pelita Dharma",
+      "children": "lampu ajaran Buddha",
+      "note": "Reuses fixed Dharma renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T369",
+    "senses": [
+     {
+      "sense": "intermediate eon of famine",
+      "academic": "kalpa antara kelaparan",
+      "children": "zaman antara kelaparan yang sangat panjang",
+      "note": "Antarakalpa; reuses fixed eon renderings, keeps 'intermediate'."
+     }
+    ]
+   },
+   {
+    "term_id": "T370",
+    "senses": [
+     {
+      "sense": "possessions",
+      "academic": "kepemilikan",
+      "children": "barang milik",
+      "note": "Bhoga as things owned and enjoyed."
+     }
+    ]
+   },
+   {
+    "term_id": "T371",
+    "senses": [
+     {
+      "sense": "wish-fulfilling jewel",
+      "academic": "permata pengabul keinginan",
+      "children": "permata yang mengabulkan keinginan",
+      "note": "Cintāmaṇi, mythic jewel granting all wishes."
+     }
+    ]
+   },
+   {
+    "term_id": "T372",
+    "senses": [
+     {
+      "sense": "excellent vase",
+      "academic": "guci mulia",
+      "children": "guci yang luar biasa",
+      "note": "Bhadraghaṭa, auspicious inexhaustible vase in offering lists."
+     }
+    ]
+   },
+   {
+    "term_id": "T373",
+    "senses": [
+     {
+      "sense": "knowledge-mantra",
+      "academic": "mantra pengetahuan",
+      "children": "kata-kata suci yang ampuh",
+      "note": "Vidyā as potent sacred formula; children renders its function plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T374",
+    "senses": [
+     {
+      "sense": "great medicine",
+      "academic": "obat agung",
+      "children": "obat ajaib",
+      "note": "Mahauṣadhi; children keeps the idea of wondrous remedy."
+     }
+    ]
+   },
+   {
+    "term_id": "T375",
+    "senses": [
+     {
+      "sense": "wish-fulfilling cow",
+      "academic": "sapi kelimpahan",
+      "children": "sapi pengabul keinginan",
+      "note": "Kāmadhenu; academic mirrors 'cow of plenty'."
+     }
+    ]
+   },
+   {
+    "term_id": "T376",
+    "senses": [
+     {
+      "sense": "great elements",
+      "academic": "unsur besar",
+      "children": "unsur dasar",
+      "note": "Mahābhūta: earth, water, fire, wind."
+     }
+    ]
+   },
+   {
+    "term_id": "T377",
+    "senses": [
+     {
+      "sense": "realm of sentient beings",
+      "academic": "alam makhluk berperasaan",
+      "children": "alam makhluk hidup",
+      "note": "Sattvadhātu; reuses fixed 'sentient being' renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T378",
+    "senses": [
+     {
+      "sense": "bodhicitta (honorific)",
+      "academic": "bodicitta",
+      "children": "pikiran kebangkitan",
+      "note": "Honorific usage; identical to fixed bodhicitta renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T379",
+    "senses": [
+     {
+      "sense": "human existence",
+      "academic": "keberadaan manusia",
+      "children": "kehidupan manusia",
+      "note": "Mānuṣa-bhava, existence as a human being."
+     }
+    ]
+   },
+   {
+    "term_id": "T380",
+    "senses": [
+     {
+      "sense": "family of the Buddhas",
+      "academic": "keluarga para Buddha",
+      "children": "keluarga para Buddha",
+      "note": "Buddhakula, the lineage of the Buddhas; same English in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T381",
+    "senses": [
+     {
+      "sense": "nectar",
+      "academic": "amerta",
+      "children": "nektar",
+      "note": "Divine nectar; 'amerta' standard Indonesian, 'nektar' familiar to schoolchildren."
+     }
+    ]
+   },
+   {
+    "term_id": "T382",
+    "senses": [
+     {
+      "sense": "path of existence",
+      "academic": "jalan keberadaan",
+      "children": "jalan kehidupan",
+      "note": "Bhavādhvan, the road of cyclic existence."
+     }
+    ]
+   },
+   {
+    "term_id": "T383",
+    "senses": [
+     {
+      "sense": "universal bridge",
+      "academic": "jembatan universal",
+      "children": "jembatan untuk semua orang",
+      "note": "Setu, bodhisattva as a bridge for all beings."
+     }
+    ]
+   },
+   {
+    "term_id": "T384",
+    "senses": [
+     {
+      "sense": "not knowing",
+      "academic": "ketidaktahuan",
+      "children": "tidak tahu",
+      "note": "Ajñāna, simple unknowing; distinct from delusion 'kebodohan'."
+     }
+    ]
+   },
+   {
+    "term_id": "T385",
+    "senses": [
+     {
+      "sense": "child of the Victors",
+      "academic": "putra Sang Penakluk",
+      "children": "anak Sang Pemenang",
+      "note": "Jinātmaja, the bodhisattva; reuses fixed 'Victor' renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T386",
+    "senses": [
+     {
+      "sense": "training",
+      "academic": "pelatihan",
+      "children": "latihan",
+      "note": "Śikṣā; transliteration 'siksa' avoided as it means torture in Indonesian."
+     }
+    ]
+   },
+   {
+    "term_id": "T387",
+    "senses": [
+     {
+      "sense": "unsurpassed happiness",
+      "academic": "kebahagiaan yang tak terlampaui",
+      "children": "kebahagiaan terbesar",
+      "note": "Anuttara-sukha; reuses fixed 'kebahagiaan'."
+     }
+    ]
+   },
+   {
+    "term_id": "T388",
+    "senses": [
+     {
+      "sense": "liberation",
+      "academic": "pembebasan",
+      "children": "kebebasan",
+      "note": "Nominal sense; consistent with 'pembebasan' in T365."
+     }
+    ]
+   },
+   {
+    "term_id": "T389",
+    "senses": [
+     {
+      "sense": "Omniscient One",
+      "academic": "Yang Mahatahu",
+      "children": "Yang Tahu Segalanya",
+      "note": "Sarvajña, epithet of the Buddha."
+     }
+    ]
+   },
+   {
+    "term_id": "T390",
+    "senses": [
+     {
+      "sense": "fire of hell",
+      "academic": "api neraka",
+      "children": "api neraka",
+      "note": "Reuses fixed 'neraka'; same English in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T391",
+    "senses": [
+     {
+      "sense": "regret, remorse",
+      "academic": "penyesalan",
+      "children": "penyesalan",
+      "note": "Paścāttāpa; one Indonesian word covers regret and remorse."
+     }
+    ]
+   },
+   {
+    "term_id": "T392",
+    "senses": [
+     {
+      "sense": "Avīci hell",
+      "academic": "neraka Avici",
+      "children": "Avici",
+      "note": "Proper name of the worst hell; children keep bare name per English."
+     }
+    ]
+   },
+   {
+    "term_id": "T393",
+    "senses": [
+     {
+      "sense": "faculties",
+      "academic": "himpunan indria",
+      "children": "kelompok indra",
+      "note": "Indriyagaṇa; technical 'indria', everyday 'indra' for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T394",
+    "senses": [
+     {
+      "sense": "chapter title: Heedfulness",
+      "academic": "Kewaspadaan",
+      "children": "Kehati-hatian",
+      "note": "Apramāda, title of chapter four of the Bodhicaryāvatāra."
+     }
+    ]
+   },
+   {
+    "term_id": "T395",
+    "senses": [
+     {
+      "sense": "hell guardian",
+      "academic": "penjaga neraka",
+      "children": "penjaga neraka",
+      "note": "Narakapāla; reuses fixed 'neraka'."
+     }
+    ]
+   },
+   {
+    "term_id": "T396",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Sang Penutur Kebenaran",
+      "children": "Yang Mengatakan Kebenaran",
+      "note": "Tattvavādin, the Buddha as speaker of truth and reality."
+     }
+    ]
+   },
+   {
+    "term_id": "T397",
+    "senses": [
+     {
+      "sense": "mind of misdeed",
+      "academic": "batin perbuatan jahat",
+      "children": "pikiran yang merugikan",
+      "note": "Reuses fixed 'batin/pikiran' and 'misdeed' renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T398",
+    "senses": [
+     {
+      "sense": "mind of relinquishing",
+      "academic": "batin pelepasan",
+      "children": "pikiran yang melepaskan segalanya",
+      "note": "Tyāgacitta, the mind ready to give away everything."
+     }
+    ]
+   },
+   {
+    "term_id": "T399",
+    "senses": [
+     {
+      "sense": "perfection of ethical discipline",
+      "academic": "kesempurnaan sila",
+      "children": "kesempurnaan perilaku baik",
+      "note": "Śīlapāramitā; 'sila' is established Indonesian Buddhist usage."
+     }
+    ]
+   },
+   {
+    "term_id": "T400",
+    "senses": [
+     {
+      "sense": "mind of renunciation",
+      "academic": "batin penahanan diri",
+      "children": "pikiran yang menjauhi kejahatan",
+      "note": "Viraticitta, abstaining from misdeeds; distinct from tyāga (giving)."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4301,
+  "output": 2683,
+  "thinking": 11945,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 141.9,
+ "attempt": 1
+}

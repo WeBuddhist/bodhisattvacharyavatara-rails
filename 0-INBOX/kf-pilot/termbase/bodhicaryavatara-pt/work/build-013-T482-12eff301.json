@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T482",
+    "senses": [
+     {
+      "sense": "praise and fame",
+      "academic": "louvor e fama",
+      "children": "elogios e fama",
+      "note": "Compound of praise (stuti) and renown (yaśas)."
+     }
+    ]
+   },
+   {
+    "term_id": "T483",
+    "senses": [
+     {
+      "sense": "disillusionment",
+      "academic": "desencanto",
+      "children": "cansaço do ciclo de renascimentos",
+      "note": "Saṃvega as weary urgency toward saṃsāra; reuses fixed saṃsāra rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T484",
+    "senses": [
+     {
+      "sense": "liberation",
+      "academic": "liberação",
+      "children": "liberdade",
+      "note": "Mukti as release from bondage."
+     }
+    ]
+   },
+   {
+    "term_id": "T485",
+    "senses": [
+     {
+      "sense": "blessing",
+      "academic": "bênção",
+      "children": "bênção",
+      "note": "Adhiṣṭhāna as spiritual blessing or empowerment."
+     }
+    ]
+   },
+   {
+    "term_id": "T486",
+    "senses": [
+     {
+      "sense": "cause of merit",
+      "academic": "causa de mérito",
+      "children": "causa de uma reserva de bondade",
+      "note": "Reuses fixed renderings for causa and puṇya."
+     }
+    ]
+   },
+   {
+    "term_id": "T487",
+    "senses": [
+     {
+      "sense": "ordination",
+      "academic": "ordenação",
+      "children": "tornar-se monge ou monja",
+      "note": "Pravrajyā, going forth into monastic life."
+     }
+    ]
+   },
+   {
+    "term_id": "T488",
+    "senses": [
+     {
+      "sense": "result of patience",
+      "academic": "resultado da paciência",
+      "children": "resultado da paciência",
+      "note": "Reuses fixed resultado and paciência."
+     }
+    ]
+   },
+   {
+    "term_id": "T489",
+    "senses": [
+     {
+      "sense": "hateful mind",
+      "academic": "mente odiosa",
+      "children": "mente cheia de ódio",
+      "note": "Reuses fixed mente and ódio."
+     }
+    ]
+   },
+   {
+    "term_id": "T490",
+    "senses": [
+     {
+      "sense": "field of sentient beings",
+      "academic": "campo de seres sencientes",
+      "children": "campo de seres vivos",
+      "note": "Reuses fixed ser senciente/ser vivo."
+     }
+    ]
+   },
+   {
+    "term_id": "T491",
+    "senses": [
+     {
+      "sense": "field of the Victors",
+      "academic": "campo dos Vencedores",
+      "children": "campo dos Vitoriosos",
+      "note": "Reuses fixed Vencedor/Vitorioso for jina."
+     }
+    ]
+   },
+   {
+    "term_id": "T492",
+    "senses": [
+     {
+      "sense": "perfection of excellence",
+      "academic": "perfeição da excelência",
+      "children": "excelência perfeita",
+      "note": "Sampat plus pāra, excellence brought to perfection."
+     }
+    ]
+   },
+   {
+    "term_id": "T493",
+    "senses": [
+     {
+      "sense": "supreme good quality",
+      "academic": "boa qualidade suprema",
+      "children": "boa qualidade suprema",
+      "note": "Reuses fixed boa qualidade for guṇa."
+     }
+    ]
+   },
+   {
+    "term_id": "T494",
+    "senses": [
+     {
+      "sense": "supreme quality of a Buddha",
+      "academic": "qualidade suprema de um Buda",
+      "children": "maior qualidade de um Buda",
+      "note": "Buddhadharma as a Buddha's supreme attribute."
+     }
+    ]
+   },
+   {
+    "term_id": "T495",
+    "senses": [
+     {
+      "sense": "Protector of the World",
+      "academic": "Protetor do Mundo",
+      "children": "Protetor do Mundo",
+      "note": "Epithet lokanātha, lord and refuge of the world."
+     }
+    ]
+   },
+   {
+    "term_id": "T496",
+    "senses": [
+     {
+      "sense": "suffering of the world",
+      "academic": "sofrimento do mundo",
+      "children": "sofrimento do mundo",
+      "note": "Reuses fixed sofrimento and mundo."
+     }
+    ]
+   },
+   {
+    "term_id": "T497",
+    "senses": [
+     {
+      "sense": "compassionate one",
+      "academic": "compassivo",
+      "children": "pessoa cheia de compaixão",
+      "note": "Kṛpāvant, one endowed with compassion."
+     }
+    ]
+   },
+   {
+    "term_id": "T498",
+    "senses": [
+     {
+      "sense": "universal monarch",
+      "academic": "monarca universal",
+      "children": "rei do mundo inteiro",
+      "note": "Cakravartin, wheel-turning world ruler."
+     }
+    ]
+   },
+   {
+    "term_id": "T499",
+    "senses": [
+     {
+      "sense": "bodhisattva in the work's title",
+      "academic": "bodisatva",
+      "children": "herói do despertar",
+      "note": "Matches fixed title rendering of bodhisattva."
+     }
+    ]
+   },
+   {
+    "term_id": "T500",
+    "senses": [
+     {
+      "sense": "Patience",
+      "academic": "Paciência",
+      "children": "Paciência",
+      "note": "Chapter title; reuses fixed paciência."
+     }
+    ]
+   },
+   {
+    "term_id": "T501",
+    "senses": [
+     {
+      "sense": "diligence",
+      "academic": "diligência",
+      "children": "esforço alegre",
+      "note": "Vīrya, energetic joyful perseverance."
+     }
+    ]
+   },
+   {
+    "term_id": "T502",
+    "senses": [
+     {
+      "sense": "self-contempt",
+      "academic": "autodesprezo",
+      "children": "desprezar a si mesmo",
+      "note": "Disparaging oneself, a form of discouragement."
+     }
+    ]
+   },
+   {
+    "term_id": "T503",
+    "senses": [
+     {
+      "sense": "attachment to what is base",
+      "academic": "apego ao que é vil",
+      "children": "agarrar-se ao que é ruim",
+      "note": "Reuses fixed apego/agarrar-se for attachment."
+     }
+    ]
+   },
+   {
+    "term_id": "T504",
+    "senses": [
+     {
+      "sense": "idleness",
+      "academic": "ociosidade",
+      "children": "preguiça",
+      "note": "Avyāpāra, inactivity opposing diligence."
+     }
+    ]
+   },
+   {
+    "term_id": "T505",
+    "senses": [
+     {
+      "sense": "force",
+      "academic": "hoste de forças",
+      "children": "grande exército",
+      "note": "Balavyūha, marshaled army of forces."
+     }
+    ]
+   },
+   {
+    "term_id": "T506",
+    "senses": [
+     {
+      "sense": "earnest application",
+      "academic": "aplicação empenhada",
+      "children": "dedicação de todo o coração",
+      "note": "Tātparya as wholehearted dedication to the task."
+     }
+    ]
+   },
+   {
+    "term_id": "T507",
+    "senses": [
+     {
+      "sense": "self-mastery",
+      "academic": "autodomínio",
+      "children": "controle de si mesmo",
+      "note": "Bringing oneself under one's own control."
+     }
+    ]
+   },
+   {
+    "term_id": "T508",
+    "senses": [
+     {
+      "sense": "exchange of self and others",
+      "academic": "troca entre si e os outros",
+      "children": "trocar de lugar com os outros",
+      "note": "Classic meditation exchanging self and others."
+     }
+    ]
+   },
+   {
+    "term_id": "T509",
+    "senses": [
+     {
+      "sense": "Speaker of Truth",
+      "academic": "Aquele que Fala a Verdade",
+      "children": "aquele que fala a verdade",
+      "note": "Satyavādin, epithet of the Buddha."
+     }
+    ]
+   },
+   {
+    "term_id": "T510",
+    "senses": [
+     {
+      "sense": "power of diligence",
+      "academic": "poder da diligência",
+      "children": "força do esforço alegre",
+      "note": "Reuses diligence renderings from T501."
+     }
+    ]
+   },
+   {
+    "term_id": "T511",
+    "senses": [
+     {
+      "sense": "Supreme Physician",
+      "academic": "Médico Supremo",
+      "children": "o melhor médico",
+      "note": "Varavaidya, epithet of the Buddha as healer."
+     }
+    ]
+   },
+   {
+    "term_id": "T512",
+    "senses": [
+     {
+      "sense": "wrong conception",
+      "academic": "concepção errônea",
+      "children": "pensamento errado",
+      "note": "Mithyākalpanā, mistaken imagination or thought."
+     }
+    ]
+   },
+   {
+    "term_id": "T513",
+    "senses": [
+     {
+      "sense": "compassionate one",
+      "academic": "compassivo",
+      "children": "pessoa cheia de compaixão",
+      "note": "Kṛpālu; same rendering as T497 kṛpāvant."
+     }
+    ]
+   },
+   {
+    "term_id": "T514",
+    "senses": [
+     {
+      "sense": "ocean of merit",
+      "academic": "oceano de mérito",
+      "children": "oceano de reserva de bondade",
+      "note": "Reuses fixed mérito/reserva de bondade for puṇya."
+     }
+    ]
+   },
+   {
+    "term_id": "T515",
+    "senses": [
+     {
+      "sense": "force",
+      "academic": "força",
+      "children": "força",
+      "note": "Bala as military force or strength."
+     }
+    ]
+   },
+   {
+    "term_id": "T516",
+    "senses": [
+     {
+      "sense": "steadfastness",
+      "academic": "firmeza",
+      "children": "firmeza",
+      "note": "Sthāman, stable firmness of resolve."
+     }
+    ]
+   },
+   {
+    "term_id": "T517",
+    "senses": [
+     {
+      "sense": "relinquishment",
+      "academic": "renúncia",
+      "children": "deixar ir",
+      "note": "Mukti here as giving up, distinct from liberation."
+     }
+    ]
+   },
+   {
+    "term_id": "T518",
+    "senses": [
+     {
+      "sense": "relinquishment",
+      "academic": "renúncia",
+      "children": "deixar ir",
+      "note": "Tyāga; same rendering as T517 relinquishment."
+     }
+    ]
+   },
+   {
+    "term_id": "T519",
+    "senses": [
+     {
+      "sense": "earnest application (a power of diligence)",
+      "academic": "aplicação empenhada",
+      "children": "dedicação de todo o coração",
+      "note": "Same rendering as T506 tātparya."
+     }
+    ]
+   },
+   {
+    "term_id": "T520",
+    "senses": [
+     {
+      "sense": "mastery",
+      "academic": "maestria",
+      "children": "controle completo",
+      "note": "Vaśitā, sovereign mastery or control."
+     }
+    ]
+   },
+   {
+    "term_id": "T521",
+    "senses": [
+     {
+      "sense": "power",
+      "academic": "poder",
+      "children": "poder",
+      "note": "Bala as spiritual power, distinct from force."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4128,
+  "output": 2424,
+  "thinking": 4350,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 75.05,
+ "attempt": 1
+}

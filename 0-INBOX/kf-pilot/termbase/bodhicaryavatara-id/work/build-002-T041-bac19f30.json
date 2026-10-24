@@ -1,0 +1,462 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T041",
+    "senses": [
+     {
+      "sense": "karma",
+      "academic": "karma",
+      "children": "perbuatan",
+      "note": "Established loanword kept for academic; plain 'deed' for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T042",
+    "senses": [
+     {
+      "sense": "mindfulness",
+      "academic": "kesadaran penuh",
+      "children": "terus mengingat",
+      "note": "Standard Indonesian rendering of mindfulness; children phrase mirrors keeping in mind."
+     },
+     {
+      "sense": "memory (recollection)",
+      "academic": "ingatan",
+      "children": "ingatan",
+      "note": "Everyday word suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T043",
+    "senses": [
+     {
+      "sense": "nature",
+      "academic": "sifat hakiki",
+      "children": "sifat asli",
+      "note": "svabhāva rendered as intrinsic nature, simplified for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T044",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Sang Muni",
+      "children": "Sang Muni",
+      "note": "Epithet retained as standard Indonesian Buddhist form in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T045",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Sang Pelindung",
+      "children": "Sang Pelindung",
+      "note": "Translated epithet; word already simple enough for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T046",
+    "senses": [
+     {
+      "sense": "training",
+      "academic": "pelatihan",
+      "children": "latihan",
+      "note": "Standard for śikṣā; shortened everyday form for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T047",
+    "senses": [
+     {
+      "sense": "introspection",
+      "academic": "introspeksi",
+      "children": "kewaspadaan",
+      "note": "Academic loanword; children get plain watchfulness."
+     }
+    ]
+   },
+   {
+    "term_id": "T048",
+    "senses": [
+     {
+      "sense": "compassion",
+      "academic": "welas asih",
+      "children": "belas kasih",
+      "note": "Established Indonesian Buddhist term; everyday synonym for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T049",
+    "senses": [
+     {
+      "sense": "feeling",
+      "academic": "sensasi",
+      "children": "perasaan",
+      "note": "Technical vedanā as sensasi; everyday perasaan for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T050",
+    "senses": [
+     {
+      "sense": "consciousness",
+      "academic": "kesadaran",
+      "children": "kesadaran",
+      "note": "Single everyday word covers both registers here."
+     }
+    ]
+   },
+   {
+    "term_id": "T051",
+    "senses": [
+     {
+      "sense": "object of knowledge",
+      "academic": "objek pengetahuan",
+      "children": "hal yang diketahui",
+      "note": "Children phrase keeps knowable-thing meaning plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T052",
+    "senses": [
+     {
+      "sense": "Sugata",
+      "academic": "Sugata",
+      "children": "Yang Pergi dengan Baik",
+      "note": "Epithet kept academically; glossed meaning for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T053",
+    "senses": [
+     {
+      "sense": "wise person",
+      "academic": "orang bijaksana",
+      "children": "orang bijak",
+      "note": "Slightly simpler adjective for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T054",
+    "senses": [
+     {
+      "sense": "virtue",
+      "academic": "kebajikan",
+      "children": "perbuatan baik",
+      "note": "Matches fixed virtue renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T055",
+    "senses": [
+     {
+      "sense": "attachment",
+      "academic": "kemelekatan",
+      "children": "melekat erat",
+      "note": "Same renderings as fixed lobha attachment."
+     }
+    ]
+   },
+   {
+    "term_id": "T056",
+    "senses": [
+     {
+      "sense": "beings who wander in saṃsāra",
+      "academic": "makhluk dunia",
+      "children": "makhluk",
+      "note": "Reuses fixed jagat renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T057",
+    "senses": [
+     {
+      "sense": "wisdom",
+      "academic": "kebijaksanaan",
+      "children": "kebijaksanaan",
+      "note": "Common word, natural in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T058",
+    "senses": [
+     {
+      "sense": "hell",
+      "academic": "neraka",
+      "children": "neraka",
+      "note": "Reuses fixed naraka rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T059",
+    "senses": [
+     {
+      "sense": "conventional (truth)",
+      "academic": "kebenaran konvensional",
+      "children": "kebenaran sehari-hari",
+      "note": "Children phrase conveys everyday truth plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T060",
+    "senses": [
+     {
+      "sense": "nirvāṇa",
+      "academic": "nirwana",
+      "children": "kebebasan dari kesedihan",
+      "note": "Standard Indonesian spelling; freedom-from-sorrow phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T061",
+    "senses": [
+     {
+      "sense": "happy realm",
+      "academic": "alam bahagia",
+      "children": "alam yang menyenangkan",
+      "note": "Parallel to fixed lower realm phrasing."
+     }
+    ]
+   },
+   {
+    "term_id": "T062",
+    "senses": [
+     {
+      "sense": "generosity",
+      "academic": "kemurahan hati",
+      "children": "memberi",
+      "note": "Children register uses plain act of giving."
+     }
+    ]
+   },
+   {
+    "term_id": "T063",
+    "senses": [
+     {
+      "sense": "reality",
+      "academic": "realitas",
+      "children": "keadaan yang sesungguhnya",
+      "note": "Children phrase mirrors how things really are."
+     }
+    ]
+   },
+   {
+    "term_id": "T064",
+    "senses": [
+     {
+      "sense": "own welfare",
+      "academic": "kesejahteraan diri",
+      "children": "kebaikan diri sendiri",
+      "note": "Mirrors others' welfare entry for consistency."
+     }
+    ]
+   },
+   {
+    "term_id": "T065",
+    "senses": [
+     {
+      "sense": "childish person, fool",
+      "academic": "orang kekanak-kanakan",
+      "children": "orang yang seperti anak kecil",
+      "note": "Childishness kept as core meaning in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T066",
+    "senses": [
+     {
+      "sense": "impure, filthy",
+      "academic": "ketidakmurnian",
+      "children": "kotoran",
+      "note": "Abstract noun academic; concrete filth for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T067",
+    "senses": [
+     {
+      "sense": "sensual desire",
+      "academic": "hasrat indriawi",
+      "children": "keinginan mencari kesenangan",
+      "note": "Children phrase states desire for pleasure simply."
+     }
+    ]
+   },
+   {
+    "term_id": "T068",
+    "senses": [
+     {
+      "sense": "faith",
+      "academic": "keyakinan",
+      "children": "kepercayaan",
+      "note": "Established Buddhist keyakinan; everyday trust word for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T069",
+    "senses": [
+     {
+      "sense": "child of the Buddhas",
+      "academic": "putra",
+      "children": "anak",
+      "note": "Refers to bodhisattvas as children of the Buddhas."
+     }
+    ]
+   },
+   {
+    "term_id": "T070",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Tathagata",
+      "children": "Yang Pergi dengan Demikian",
+      "note": "Name kept academically; meaning glossed for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T071",
+    "senses": [
+     {
+      "sense": "ignorance",
+      "academic": "ketidaktahuan",
+      "children": "tidak tahu",
+      "note": "Distinct from fixed moha-as-delusion renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T072",
+    "senses": [
+     {
+      "sense": "others' welfare",
+      "academic": "kesejahteraan orang lain",
+      "children": "kebaikan orang lain",
+      "note": "Parallel to own welfare entry."
+     }
+    ]
+   },
+   {
+    "term_id": "T073",
+    "senses": [
+     {
+      "sense": "name of the bodhisattva",
+      "academic": "Manjusri",
+      "children": "Manjusri",
+      "note": "Standard Indonesian form of the name in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T074",
+    "senses": [
+     {
+      "sense": "Lord of Death",
+      "academic": "Penguasa Kematian",
+      "children": "Raja Kematian",
+      "note": "Same image; simpler king wording for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T075",
+    "senses": [
+     {
+      "sense": "Yama",
+      "academic": "Yama",
+      "children": "Yama",
+      "note": "Proper name unchanged."
+     }
+    ]
+   },
+   {
+    "term_id": "T076",
+    "senses": [
+     {
+      "sense": "lower realm",
+      "academic": "alam rendah",
+      "children": "alam yang menyedihkan",
+      "note": "Matches fixed durgati lower realm renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T077",
+    "senses": [
+     {
+      "sense": "space",
+      "academic": "ruang",
+      "children": "angkasa",
+      "note": "Everyday sky-space word for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T078",
+    "senses": [
+     {
+      "sense": "downfall",
+      "academic": "kejatuhan",
+      "children": "jatuh",
+      "note": "Plain verb form for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T079",
+    "senses": [
+     {
+      "sense": "intellect",
+      "academic": "akal budi",
+      "children": "kemampuan berpikir",
+      "note": "Children phrase names the thinking faculty plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T080",
+    "senses": [
+     {
+      "sense": "conduct of awakening",
+      "academic": "laku pencerahan",
+      "children": "cara bertindak demi kebangkitan",
+      "note": "Uses fixed pencerahan/kebangkitan split for bodhi."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 5391,
+  "output": 2296,
+  "thinking": 7604,
+  "cache_read": 256,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 282.74,
+ "attempt": 1
+}

@@ -1,0 +1,462 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T041",
+    "senses": [
+     {
+      "sense": "karma",
+      "academic": "karma",
+      "children": "tendo",
+      "note": "Established loanword in Swahili spelling; children use the everyday word for action."
+     }
+    ]
+   },
+   {
+    "term_id": "T042",
+    "senses": [
+     {
+      "sense": "mindfulness",
+      "academic": "ukumbusho",
+      "children": "kuweka akilini",
+      "note": "No established loan; remembrance-based term, plain phrase for children."
+     },
+     {
+      "sense": "memory (recollection)",
+      "academic": "kumbukumbu",
+      "children": "kumbukumbu",
+      "note": "Standard everyday word for memory fits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T043",
+    "senses": [
+     {
+      "sense": "nature",
+      "academic": "asili",
+      "children": "asili",
+      "note": "Asili conveys intrinsic nature and is common enough for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T044",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Mwenye Hekima",
+      "children": "Mwenye Hekima",
+      "note": "Epithet translated descriptively as the Wise One; words already everyday."
+     }
+    ]
+   },
+   {
+    "term_id": "T045",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Mlindaji",
+      "children": "Mlindaji",
+      "note": "Epithet translated as Protector; common everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T046",
+    "senses": [
+     {
+      "sense": "training",
+      "academic": "mafunzo",
+      "children": "mafunzo",
+      "note": "Standard word for training suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T047",
+    "senses": [
+     {
+      "sense": "introspection",
+      "academic": "uchunguzi wa nafsi",
+      "children": "kuwa makini",
+      "note": "Academic phrase for self-examination; children phrase for staying watchful."
+     }
+    ]
+   },
+   {
+    "term_id": "T048",
+    "senses": [
+     {
+      "sense": "compassion",
+      "academic": "huruma",
+      "children": "huruma",
+      "note": "Common word huruma covers compassion in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T049",
+    "senses": [
+     {
+      "sense": "feeling",
+      "academic": "hisia",
+      "children": "hisia",
+      "note": "Hisia is the standard term for feeling, consistent with fixed sentient being."
+     }
+    ]
+   },
+   {
+    "term_id": "T050",
+    "senses": [
+     {
+      "sense": "consciousness",
+      "academic": "fahamu",
+      "children": "kufahamu",
+      "note": "Fahamu for consciousness; children use the plain verb form."
+     }
+    ]
+   },
+   {
+    "term_id": "T051",
+    "senses": [
+     {
+      "sense": "object of knowledge",
+      "academic": "kitu kinachojulikana",
+      "children": "kitu cha kujua",
+      "note": "Descriptive phrases; children's version simpler, same meaning."
+     }
+    ]
+   },
+   {
+    "term_id": "T052",
+    "senses": [
+     {
+      "sense": "Sugata",
+      "academic": "Sugata",
+      "children": "Aliyekwenda Vema",
+      "note": "Academic keeps the Sanskrit loan; children translate the meaning."
+     }
+    ]
+   },
+   {
+    "term_id": "T053",
+    "senses": [
+     {
+      "sense": "wise person",
+      "academic": "mwenye hekima",
+      "children": "mtu mwenye hekima",
+      "note": "Everyday descriptive phrase for a wise person."
+     }
+    ]
+   },
+   {
+    "term_id": "T054",
+    "senses": [
+     {
+      "sense": "virtue",
+      "academic": "fadhila",
+      "children": "tendo jema",
+      "note": "Reuses fixed kuśala renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T055",
+    "senses": [
+     {
+      "sense": "attachment",
+      "academic": "kushikamana",
+      "children": "kushikilia",
+      "note": "Reuses fixed lobha renderings for the same English sense."
+     }
+    ]
+   },
+   {
+    "term_id": "T056",
+    "senses": [
+     {
+      "sense": "beings who wander in saṃsāra",
+      "academic": "kiumbe anayetangatanga",
+      "children": "kiumbe",
+      "note": "Reuses fixed jagat renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T057",
+    "senses": [
+     {
+      "sense": "wisdom",
+      "academic": "hekima",
+      "children": "hekima",
+      "note": "Hekima is the standard everyday and scholarly word for wisdom."
+     }
+    ]
+   },
+   {
+    "term_id": "T058",
+    "senses": [
+     {
+      "sense": "hell",
+      "academic": "jehanamu",
+      "children": "jehanamu",
+      "note": "Reuses fixed naraka rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T059",
+    "senses": [
+     {
+      "sense": "conventional (truth)",
+      "academic": "ukweli wa kimila",
+      "children": "ukweli wa kila siku",
+      "note": "Academic kimila for conventional; children phrase for everyday truth."
+     }
+    ]
+   },
+   {
+    "term_id": "T060",
+    "senses": [
+     {
+      "sense": "nirvāṇa",
+      "academic": "nirvana",
+      "children": "uhuru kutoka huzuni",
+      "note": "Loanword in Swahili spelling; children phrase for freedom from sorrow."
+     }
+    ]
+   },
+   {
+    "term_id": "T061",
+    "senses": [
+     {
+      "sense": "happy realm",
+      "academic": "ulimwengu wa furaha",
+      "children": "mahali pa furaha",
+      "note": "Mirrors fixed lower realm renderings, with furaha."
+     }
+    ]
+   },
+   {
+    "term_id": "T062",
+    "senses": [
+     {
+      "sense": "generosity",
+      "academic": "ukarimu",
+      "children": "kupa",
+      "note": "Ukarimu is standard for generosity; children use plain word for giving."
+     }
+    ]
+   },
+   {
+    "term_id": "T063",
+    "senses": [
+     {
+      "sense": "reality",
+      "academic": "uhalisi",
+      "children": "mambo yalivyo kweli",
+      "note": "Uhalisi for reality; children phrase says how things really are."
+     }
+    ]
+   },
+   {
+    "term_id": "T064",
+    "senses": [
+     {
+      "sense": "own welfare",
+      "academic": "maslahi ya nafsi",
+      "children": "wema wa nafsi",
+      "note": "Reuses fixed nafsi for self; parallel to others' welfare."
+     }
+    ]
+   },
+   {
+    "term_id": "T065",
+    "senses": [
+     {
+      "sense": "childish person, fool",
+      "academic": "mjinga",
+      "children": "mtu mwenye tabia za kitoto",
+      "note": "Mjinga standard for fool; children phrase describes childish behaviour."
+     }
+    ]
+   },
+   {
+    "term_id": "T066",
+    "senses": [
+     {
+      "sense": "impure, filthy",
+      "academic": "uchafu",
+      "children": "uchafu",
+      "note": "Uchafu covers both impurity and filth in everyday use."
+     }
+    ]
+   },
+   {
+    "term_id": "T067",
+    "senses": [
+     {
+      "sense": "sensual desire",
+      "academic": "tamaa za hisia",
+      "children": "tamaa ya anasa",
+      "note": "Academic ties desire to the senses; children phrase desire for pleasure."
+     }
+    ]
+   },
+   {
+    "term_id": "T068",
+    "senses": [
+     {
+      "sense": "faith",
+      "academic": "imani",
+      "children": "imani",
+      "note": "Imani is the everyday and technical word for faith."
+     }
+    ]
+   },
+   {
+    "term_id": "T069",
+    "senses": [
+     {
+      "sense": "child of the Buddhas",
+      "academic": "mwana wa Buddha",
+      "children": "mwana wa Buddha",
+      "note": "Literal rendering child of Buddha; words already everyday."
+     }
+    ]
+   },
+   {
+    "term_id": "T070",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Tathagata",
+      "children": "Aliyekwenda Hivyo",
+      "note": "Academic keeps loan in Swahili spelling; children translate Thus-Gone One."
+     }
+    ]
+   },
+   {
+    "term_id": "T071",
+    "senses": [
+     {
+      "sense": "ignorance",
+      "academic": "ujinga",
+      "children": "kutojua",
+      "note": "Distinct from fixed delusion sense; plain not-knowing phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T072",
+    "senses": [
+     {
+      "sense": "others' welfare",
+      "academic": "maslahi ya wengine",
+      "children": "wema wa wengine",
+      "note": "Parallel construction to own welfare, using wengine."
+     }
+    ]
+   },
+   {
+    "term_id": "T073",
+    "senses": [
+     {
+      "sense": "name of the bodhisattva",
+      "academic": "Manjushri",
+      "children": "Manjushri",
+      "note": "Proper name kept in standard Latin form without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T074",
+    "senses": [
+     {
+      "sense": "Lord of Death",
+      "academic": "Bwana wa Kifo",
+      "children": "Bwana wa Kifo",
+      "note": "Epithet translated; words simple enough for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T075",
+    "senses": [
+     {
+      "sense": "Yama",
+      "academic": "Yama",
+      "children": "Yama",
+      "note": "Proper name kept unchanged."
+     }
+    ]
+   },
+   {
+    "term_id": "T076",
+    "senses": [
+     {
+      "sense": "lower realm",
+      "academic": "ulimwengu wa chini",
+      "children": "mahali pa huzuni",
+      "note": "Reuses fixed durgati renderings; children phrase matches unhappy realm."
+     }
+    ]
+   },
+   {
+    "term_id": "T077",
+    "senses": [
+     {
+      "sense": "space",
+      "academic": "anga",
+      "children": "anga",
+      "note": "Anga is the established term for space as an element."
+     }
+    ]
+   },
+   {
+    "term_id": "T078",
+    "senses": [
+     {
+      "sense": "downfall",
+      "academic": "anguko",
+      "children": "kuanguka",
+      "note": "Academic noun anguko; children use the plain verb form."
+     }
+    ]
+   },
+   {
+    "term_id": "T079",
+    "senses": [
+     {
+      "sense": "intellect",
+      "academic": "ufahamu",
+      "children": "akili inayofikiri",
+      "note": "Ufahamu keeps intellect distinct from fixed mind akili; children phrase thinking mind."
+     }
+    ]
+   },
+   {
+    "term_id": "T080",
+    "senses": [
+     {
+      "sense": "conduct of awakening",
+      "academic": "mwenendo wa uamsho",
+      "children": "matendo ya uamsho",
+      "note": "Reuses fixed uamsho for awakening; mwenendo for conduct."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 5406,
+  "output": 2404,
+  "thinking": 6564,
+  "cache_read": 256,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 155.25,
+ "attempt": 1
+}

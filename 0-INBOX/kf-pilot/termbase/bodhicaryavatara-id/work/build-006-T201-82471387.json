@@ -1,0 +1,462 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T201",
+    "senses": [
+     {
+      "sense": "three times",
+      "academic": "tiga masa",
+      "children": "masa lalu, masa kini, dan masa depan",
+      "note": "Academic 'tiga masa' is standard Indonesian Buddhist usage for tryadhvan."
+     }
+    ]
+   },
+   {
+    "term_id": "T202",
+    "senses": [
+     {
+      "sense": "master (teacher)",
+      "academic": "acarya",
+      "children": "guru",
+      "note": "Acarya retained academically; everyday 'guru' for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T203",
+    "senses": [
+     {
+      "sense": "great compassion",
+      "academic": "mahakaruna",
+      "children": "belas kasih yang besar",
+      "note": "Sanskrit compound kept in academic register, plain phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T204",
+    "senses": [
+     {
+      "sense": "Three Jewels",
+      "academic": "Triratna",
+      "children": "Tiga Permata",
+      "note": "Triratna standard in Indonesian Buddhism; translated for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T205",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Samantabhadra",
+      "children": "Samantabhadra",
+      "note": "Proper name unchanged in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T206",
+    "senses": [
+     {
+      "sense": "Mañjuśrī",
+      "academic": "Manjusri",
+      "children": "Manjusri",
+      "note": "Standard Indonesian spelling without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T207",
+    "senses": [
+     {
+      "sense": "Avalokiteśvara",
+      "academic": "Awalokiteswara",
+      "children": "Awalokiteswara",
+      "note": "Standard Indonesian form of the bodhisattva's name."
+     }
+    ]
+   },
+   {
+    "term_id": "T208",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Akasagarbha",
+      "children": "Akasagarbha",
+      "note": "Proper name in standard Indonesian spelling, both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T209",
+    "senses": [
+     {
+      "sense": "omniscient",
+      "academic": "mahatahu",
+      "children": "yang tahu segalanya",
+      "note": "Adjective mahatahu academically; plain phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T210",
+    "senses": [
+     {
+      "sense": "awakening mind",
+      "academic": "bodicitta",
+      "children": "pikiran kebangkitan",
+      "note": "Reuses fixed renderings for bodhicitta."
+     }
+    ]
+   },
+   {
+    "term_id": "T211",
+    "senses": [
+     {
+      "sense": "pass into nirvāṇa",
+      "academic": "nirwana",
+      "children": "bebas dari kesedihan",
+      "note": "Indonesian standard 'nirwana'; everyday phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T212",
+    "senses": [
+     {
+      "sense": "countless eon",
+      "academic": "kalpa tak terhitung",
+      "children": "zaman yang sangat panjang dan tak terhitung",
+      "note": "Reuses fixed renderings for kalpa/eon."
+     }
+    ]
+   },
+   {
+    "term_id": "T213",
+    "senses": [
+     {
+      "sense": "inexhaustible treasure",
+      "academic": "harta tak terhabiskan",
+      "children": "harta karun yang tidak pernah habis",
+      "note": "Concise academic phrase; expanded everyday wording for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T214",
+    "senses": [
+     {
+      "sense": "path",
+      "academic": "marga",
+      "children": "jalan",
+      "note": "Sanskrit marga kept academically; everyday 'jalan' for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T215",
+    "senses": [
+     {
+      "sense": "asura",
+      "academic": "asura",
+      "children": "setengah dewa",
+      "note": "Term kept academically; glossed simply for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T216",
+    "senses": [
+     {
+      "sense": "striving",
+      "academic": "ketekunan",
+      "children": "usaha keras",
+      "note": "Noun forms; everyday equivalent for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T217",
+    "senses": [
+     {
+      "sense": "faith",
+      "academic": "keyakinan",
+      "children": "kepercayaan",
+      "note": "Standard terms; simpler everyday word for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T218",
+    "senses": [
+     {
+      "sense": "human body",
+      "academic": "tubuh manusia",
+      "children": "tubuh manusia",
+      "note": "Already plain everyday Indonesian; same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T219",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Bhagawan",
+      "children": "Bhagawan",
+      "note": "Standard Indonesian form of Bhagavat."
+     }
+    ]
+   },
+   {
+    "term_id": "T220",
+    "senses": [
+     {
+      "sense": "liberation",
+      "academic": "pembebasan",
+      "children": "kebebasan",
+      "note": "Standard Buddhist term; simple everyday word for children."
+     },
+     {
+      "sense": "life story of a saint",
+      "academic": "kisah pembebasan",
+      "children": "kisah hidup",
+      "note": "Hagiographic sense; shortened for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T221",
+    "senses": [
+     {
+      "sense": "leisure",
+      "academic": "kesempatan",
+      "children": "kebebasan untuk berlatih",
+      "note": "Leisure in the sense of freedom to practice Dharma."
+     }
+    ]
+   },
+   {
+    "term_id": "T222",
+    "senses": [
+     {
+      "sense": "Mount Meru",
+      "academic": "Gunung Meru",
+      "children": "Gunung Meru",
+      "note": "Proper name; same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T223",
+    "senses": [
+     {
+      "sense": "ten directions",
+      "academic": "sepuluh penjuru",
+      "children": "sepuluh arah",
+      "note": "'Penjuru' formal; 'arah' everyday."
+     }
+    ]
+   },
+   {
+    "term_id": "T224",
+    "senses": [
+     {
+      "sense": "illusion",
+      "academic": "ilusi",
+      "children": "ilusi",
+      "note": "Reuses fixed rendering for māyā."
+     }
+    ]
+   },
+   {
+    "term_id": "T225",
+    "senses": [
+     {
+      "sense": "sense object",
+      "academic": "objek indriawi",
+      "children": "hal yang kita rasakan",
+      "note": "Technical academic term; plain description for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T226",
+    "senses": [
+     {
+      "sense": "elephant of the mind",
+      "academic": "gajah batin",
+      "children": "gajah pikiran",
+      "note": "Compound reuses fixed renderings for citta (mind)."
+     }
+    ]
+   },
+   {
+    "term_id": "T227",
+    "senses": [
+     {
+      "sense": "rākṣasa",
+      "academic": "raksasa",
+      "children": "raksasa",
+      "note": "Indonesian word already conveys the demon; same both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T228",
+    "senses": [
+     {
+      "sense": "hell of sentient beings",
+      "academic": "neraka makhluk berperasaan",
+      "children": "neraka makhluk hidup",
+      "note": "Reuses fixed renderings for naraka and sattva."
+     }
+    ]
+   },
+   {
+    "term_id": "T229",
+    "senses": [
+     {
+      "sense": "three worlds",
+      "academic": "tiga dunia",
+      "children": "tiga dunia",
+      "note": "Reuses fixed rendering for loka; identical in English too."
+     }
+    ]
+   },
+   {
+    "term_id": "T230",
+    "senses": [
+     {
+      "sense": "recitation",
+      "academic": "japa",
+      "children": "mengulang mantra",
+      "note": "Sanskrit term kept academically; described plainly for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T231",
+    "senses": [
+     {
+      "sense": "wound of the mind",
+      "academic": "luka batin",
+      "children": "luka pikiran",
+      "note": "Compound reuses fixed renderings for citta (mind)."
+     }
+    ]
+   },
+   {
+    "term_id": "T232",
+    "senses": [
+     {
+      "sense": "name of a hell",
+      "academic": "Neraka Penghancur",
+      "children": "Neraka Penghancur",
+      "note": "Translated hell name; same in both registers as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T233",
+    "senses": [
+     {
+      "sense": "gateway of the mind",
+      "academic": "gerbang pikiran",
+      "children": "pintu pikiran",
+      "note": "Reuses fixed rendering for manas (pikiran)."
+     }
+    ]
+   },
+   {
+    "term_id": "T234",
+    "senses": [
+     {
+      "sense": "agitation",
+      "academic": "kegelisahan",
+      "children": "susah diam",
+      "note": "Technical affliction term; everyday description for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T235",
+    "senses": [
+     {
+      "sense": "self-praise",
+      "academic": "pujian diri",
+      "children": "memuji diri sendiri",
+      "note": "Nominal form academic; verbal everyday phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T236",
+    "senses": [
+     {
+      "sense": "disparagement of others",
+      "academic": "perendahan orang lain",
+      "children": "merendahkan orang lain",
+      "note": "Pairs with self-praise; verbal everyday form for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T237",
+    "senses": [
+     {
+      "sense": "guarding introspection",
+      "academic": "menjaga introspeksi",
+      "children": "menjaga kewaspadaan",
+      "note": "Samprajanya as introspeksi academically; kewaspadaan for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T238",
+    "senses": [
+     {
+      "sense": "meditation",
+      "academic": "meditasi",
+      "children": "meditasi",
+      "note": "Everyday loanword understood in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T239",
+    "senses": [
+     {
+      "sense": "peace",
+      "academic": "kedamaian",
+      "children": "kedamaian",
+      "note": "Same word in both registers, matching English."
+     }
+    ]
+   },
+   {
+    "term_id": "T240",
+    "senses": [
+     {
+      "sense": "mental unhappiness",
+      "academic": "kesedihan batin",
+      "children": "rasa tidak bahagia",
+      "note": "Abhidharma term with batin; plain phrase for children."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4182,
+  "output": 2385,
+  "thinking": 3786,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 172.89,
+ "attempt": 1
+}

@@ -1,0 +1,790 @@
+{
+ "builder": "kimi-k3",
+ "reviewer": "claude-sonnet-5-5",
+ "objections": [
+  {
+   "term_id": "T028",
+   "sense": "attachment, clinging",
+   "field": "children",
+   "proposed": "attachement",
+   "reason": "Verb infinitive 's'accrocher' cannot fill a noun slot (English 'clinging' is a noun); 'attachement' is simple enough for ages 8-12.",
+   "applied": true
+  },
+  {
+   "term_id": "T055",
+   "sense": "attachment",
+   "field": "children",
+   "proposed": "attachement",
+   "reason": "Verb infinitive 's'accrocher' used for a noun term (rāga/chags); the noun 'attachement' is clear and simple.",
+   "applied": true
+  },
+  {
+   "term_id": "T062",
+   "sense": "generosity",
+   "field": "children",
+   "proposed": "don",
+   "reason": "Bare infinitive 'donner' is a verb but dāna/sbyin pa is a noun (giving); 'don' is simple and matches T454.",
+   "applied": true
+  },
+  {
+   "term_id": "T053",
+   "sense": "wise person",
+   "field": "academic",
+   "proposed": "personne sage",
+   "reason": "'sage' duplicates T044 muni 'Sage' (differs only by capital); two different terms need distinct renderings.",
+   "applied": true
+  },
+  {
+   "term_id": "T064",
+   "sense": "own welfare",
+   "field": "academic",
+   "proposed": "bien personnel",
+   "reason": "'intérêt personnel' connotes self-interest; parārtha is 'bien d'autrui' (T099), so svārtha should pair as 'bien personnel'.",
+   "applied": true
+  },
+  {
+   "term_id": "T072",
+   "sense": "others' welfare",
+   "field": "academic",
+   "proposed": "bien d'autrui",
+   "reason": "Same term parārtha is 'bien d'autrui' in T099; the two entries must be identical (and 'bien' pairs with svārtha).",
+   "applied": true
+  },
+  {
+   "term_id": "T088",
+   "sense": "ordaining teacher",
+   "field": "children",
+   "proposed": "maître qui m'a donné mes vœux",
+   "reason": "'m'a ordonné' reads as 'ordered me' to children; 'donné mes vœux' is clear.",
+   "applied": true
+  },
+  {
+   "term_id": "T112",
+   "sense": "the Buddha's teaching, sublime",
+   "field": "academic",
+   "proposed": "Dharma sublime",
+   "reason": "'sublime Dharma' is an English word-order calque; French places the adjective after: 'Dharma sublime'.",
+   "applied": true
+  },
+  {
+   "term_id": "T118",
+   "sense": "the Buddha's teaching, sublime",
+   "field": "academic",
+   "proposed": "Dharma sublime",
+   "reason": "Same as T112: English word-order calque; keep identical to T112 in French order.",
+   "applied": true
+  },
+  {
+   "term_id": "T116",
+   "sense": "Tathāgata",
+   "field": "children",
+   "proposed": "Celui qui est ainsi allé",
+   "reason": "Same epithet as T070, which has 'Celui qui est ainsi allé'; 'Ainsi-Allé' is inconsistent and harder for children.",
+   "applied": true
+  },
+  {
+   "term_id": "T119",
+   "sense": "accumulation (of merit and wisdom)",
+   "field": "children",
+   "proposed": "bonté accumulée",
+   "reason": "'réserve de bonté' is already T007 puṇya (merit); accumulation (tshogs) is a different term and needs a distinct rendering.",
+   "applied": true
+  },
+  {
+   "term_id": "T065",
+   "sense": "childish person, fool",
+   "field": "academic",
+   "proposed": "personne puérile",
+   "reason": "'immature' is not 'childish'; same term bāla/byis pa is 'personne puérile' in T176, so the two entries must agree.",
+   "applied": true
+  },
+  {
+   "term_id": "T121",
+   "sense": "heedfulness",
+   "field": "children",
+   "proposed": "prudence",
+   "reason": "'vigilance' is already the children's rendering of saṃprajanya (T047); apramāda (carefulness) needs a distinct word.",
+   "applied": true
+  },
+  {
+   "term_id": "T141",
+   "sense": "heedlessness",
+   "field": "children",
+   "proposed": "imprudence",
+   "reason": "Keeps the pair apramāda/pramāda symmetrical with T121 'prudence'; 'inattention' would collide with smṛti 'attention'.",
+   "applied": true
+  },
+  {
+   "term_id": "T128",
+   "sense": "envy",
+   "field": "academic",
+   "proposed": "jalousie",
+   "reason": "īrṣyā is established as 'jalousie'; 'envie' is ambiguous (desire) and collides with 'envie' used for craving (T157).",
+   "applied": true
+  },
+  {
+   "term_id": "T131",
+   "sense": "lifetime",
+   "field": "academic",
+   "proposed": "vie",
+   "reason": "'existence' is already the rendering of bhava (T086); tshe rabs/janman means a lifetime, so 'vie'.",
+   "applied": true
+  },
+  {
+   "term_id": "T151",
+   "sense": "protector, saviour",
+   "field": "children",
+   "proposed": "Sauveur",
+   "reason": "'Protecteur' is already used for nātha (T045, T087); tāyin/skyob pa is 'Saviour' in the academic field, so keep it distinct.",
+   "applied": true
+  },
+  {
+   "term_id": "T152",
+   "sense": "nirvana",
+   "field": "children",
+   "proposed": "libération du chagrin",
+   "reason": "mya ngan is sorrow, not duḥkha; inconsistent with T060 'libération du chagrin' and clashes with souffrance (T001).",
+   "applied": true
+  },
+  {
+   "term_id": "T157",
+   "sense": "craving",
+   "field": "academic",
+   "proposed": "soif",
+   "reason": "Same term tṛṣṇā is 'soif' in T081; academic renderings must agree.",
+   "applied": true
+  },
+  {
+   "term_id": "T157",
+   "sense": "craving",
+   "field": "children",
+   "proposed": "envie très forte",
+   "reason": "Match T081 children; bare 'envie' is too weak for craving.",
+   "applied": true
+  },
+  {
+   "term_id": "T161",
+   "sense": "sūtra",
+   "field": "children",
+   "proposed": "texte d'enseignement",
+   "reason": "Same term sūtra is 'texte d'enseignement' in T125; 'texte sacré' is already used for āgama (T085).",
+   "applied": true
+  },
+  {
+   "term_id": "T163",
+   "sense": "primal matter of Sāṃkhya",
+   "field": "children",
+   "proposed": "matière originelle",
+   "reason": "'matière première' means industrial raw material in French and misleads; 'originelle' conveys primal.",
+   "applied": true
+  },
+  {
+   "term_id": "T168",
+   "sense": "own interest",
+   "field": "academic",
+   "proposed": "bien personnel",
+   "reason": "Same term svārtha; align with T064 and the 'bien d'autrui' (parārtha) pairing; 'bien propre' is unidiomatic.",
+   "applied": true
+  },
+  {
+   "term_id": "T168",
+   "sense": "own interest",
+   "field": "children",
+   "proposed": "son propre bien",
+   "reason": "Same term svārtha is 'son propre bien' in T064; the periphrasis is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T175",
+   "sense": "grief",
+   "field": "children",
+   "proposed": "chagrin",
+   "reason": "'tristesse' is also the children's rendering of daurmanasya (T240); 'chagrin' keeps śoka distinct and matches nirvāṇa 'chagrin'.",
+   "applied": true
+  },
+  {
+   "term_id": "T176",
+   "sense": "childish person",
+   "field": "children",
+   "proposed": "personne immature",
+   "reason": "Same term bāla as T065, which has 'personne immature'; 'sotte' is insulting and gendered for readers aged 8-12.",
+   "applied": true
+  },
+  {
+   "term_id": "T183",
+   "sense": "habituation",
+   "field": "academic",
+   "proposed": "familiarisation",
+   "reason": "'Accoutumance' connotes addiction in French; goms pa is established as 'familiarisation'.",
+   "applied": true
+  },
+  {
+   "term_id": "T194",
+   "sense": "child of the Sugata",
+   "field": "academic",
+   "proposed": "enfant du Sugata",
+   "reason": "Sense is 'child'; other sras compounds (T110, T113) use 'enfant', not 'fils'.",
+   "applied": true
+  },
+  {
+   "term_id": "T194",
+   "sense": "child of the Sugata",
+   "field": "children",
+   "proposed": "enfant de Celui qui est bien allé",
+   "reason": "Sugata is 'Celui qui est bien allé' in T052; 'Bien-Allé' is inconsistent and hard for children.",
+   "applied": true
+  },
+  {
+   "term_id": "T237",
+   "sense": "guarding introspection",
+   "field": "children",
+   "proposed": "garder la vigilance",
+   "reason": "saṃprajanya is 'vigilance' in T047 children; 'rester attentif' loses the term and the 'guarding' sense.",
+   "applied": true
+  },
+  {
+   "term_id": "T127",
+   "sense": "fame, renown",
+   "field": "children",
+   "proposed": "célébrité",
+   "reason": "Simpler for ages 8-12 than 'renommée', and matches T424 and T482 which already use 'célébrité'.",
+   "applied": true
+  },
+  {
+   "term_id": "T375",
+   "sense": "wish-fulfilling cow",
+   "field": "children",
+   "proposed": "vache qui exauce les souhaits",
+   "reason": "'vœux' is also 'vow' (saṃvara, T305); 'souhaits' is used for the same wish-fulfilling notion in T114, T625.",
+   "applied": true
+  },
+  {
+   "term_id": "T251",
+   "sense": "excellence",
+   "field": "children",
+   "proposed": "excellence",
+   "reason": "'perfection' is the established rendering of pāramitā (T159); sampad needs a distinct word, and English children's value is 'excellence'.",
+   "applied": true
+  },
+  {
+   "term_id": "T255",
+   "sense": "three realms",
+   "field": "academic",
+   "proposed": "trois royaumes",
+   "reason": "'trois mondes' is already T229 ('jig rten gsum, three worlds); khams gsum is the three realms, and English keeps them apart.",
+   "applied": true
+  },
+  {
+   "term_id": "T255",
+   "sense": "three realms",
+   "field": "children",
+   "proposed": "trois royaumes",
+   "reason": "Same collision with T229 'trois mondes'; 'royaumes' follows 'realms' (cf. T317 children 'royaume').",
+   "applied": true
+  },
+  {
+   "term_id": "T264",
+   "sense": "what is not virtuous",
+   "field": "children",
+   "proposed": "action qui n'est pas bonne",
+   "reason": "'mauvaise action' is already pāpa (T011, T025, T330); T361 (same mi dge) already uses 'action qui n'est pas bonne'. Keep the two aligned.",
+   "applied": true
+  },
+  {
+   "term_id": "T268",
+   "sense": "conceptual thought",
+   "field": "children",
+   "proposed": "pensée qui forme des idées",
+   "reason": "'idée' names a thing, not the activity of conceptualizing (rnam rtog); a phrase keeps the process meaning.",
+   "applied": true
+  },
+  {
+   "term_id": "T279",
+   "sense": "chapter 9 title",
+   "field": "academic",
+   "proposed": "Perfection de la sagesse",
+   "reason": "Missing article; must parallel T158 'perfection de la générosité'.",
+   "applied": true
+  },
+  {
+   "term_id": "T279",
+   "sense": "chapter 9 title",
+   "field": "children",
+   "proposed": "perfection de la sagesse",
+   "reason": "'sagesse parfaite' inverts the title structure and breaks parallel with T158 'perfection du don'.",
+   "applied": true
+  },
+  {
+   "term_id": "T298",
+   "sense": "impermanence",
+   "field": "children",
+   "proposed": "le fait de ne pas durer",
+   "reason": "'qui ne dure pas' is an adjective phrase (identical to T149 anitya); anityatā is a noun.",
+   "applied": true
+  },
+  {
+   "term_id": "T310",
+   "sense": "jewel",
+   "field": "children",
+   "proposed": "joyau",
+   "reason": "Same ratna is 'joyau' in T325 and 'Trois Joyaux' in T204; 'bijou' breaks the link.",
+   "applied": true
+  },
+  {
+   "term_id": "T313",
+   "sense": "epithet of Maitreya",
+   "field": "children",
+   "proposed": "Maitreya le Protecteur",
+   "reason": "Capital P as in academic field and T045/T087 'Protecteur' epithet.",
+   "applied": true
+  },
+  {
+   "term_id": "T323",
+   "sense": "Sugata",
+   "field": "children",
+   "proposed": "Celui qui est bien allé",
+   "reason": "Same epithet as T052, rendered 'Celui qui est bien allé'; 'Bien-Allé' is inconsistent and hard for children.",
+   "applied": true
+  },
+  {
+   "term_id": "T327",
+   "sense": "worthy recipient of offerings",
+   "field": "academic",
+   "proposed": "destinataire digne d'offrandes",
+   "reason": "'receveur' is awkward (tax collector, ticket seller) in French; 'destinataire' is the natural term.",
+   "applied": true
+  },
+  {
+   "term_id": "T334",
+   "sense": "three-thousandfold world system",
+   "field": "academic",
+   "proposed": "trichiliocosme",
+   "reason": "'Trichiliocosme' is the established French Buddhist term; 'trois mille mondes' misstates the thousandfold-cubed structure.",
+   "applied": true
+  },
+  {
+   "term_id": "T354",
+   "sense": "one burdened with misdeeds",
+   "field": "academic",
+   "proposed": "chargé de méfaits",
+   "reason": "Same sense label as T349 ('chargé de méfaits'); 'auteur' changes meaning to perpetrator, whereas sdig ldan means possessing misdeeds.",
+   "applied": true
+  },
+  {
+   "term_id": "T345",
+   "sense": "basis of bodhicitta",
+   "field": "academic",
+   "proposed": "fondement de la bodhicitta",
+   "reason": "Gender inconsistent: T474 uses 'la bodhicitta' (the established French usage) but this entry has 'du bodhicitta'.",
+   "applied": true
+  },
+  {
+   "term_id": "T366",
+   "sense": "level of the children of the Victors",
+   "field": "academic",
+   "proposed": "terre des enfants des Victorieux",
+   "reason": "Tibetan sa is bhūmi, rendered 'terre' in T155; 'niveau' is inconsistent (children field already uses 'étape' as in T155).",
+   "applied": true
+  },
+  {
+   "term_id": "T367",
+   "sense": "generation of bodhicitta",
+   "field": "academic",
+   "proposed": "génération de la bodhicitta",
+   "reason": "Gender inconsistent with T474 ('de la bodhicitta'), the established usage.",
+   "applied": true
+  },
+  {
+   "term_id": "T370",
+   "sense": "possessions",
+   "field": "children",
+   "proposed": "ce qu'on possède",
+   "reason": "'bien' is used for welfare/good (T064, T099, T177); here it means possessions and would be confused.",
+   "applied": true
+  },
+  {
+   "term_id": "T377",
+   "sense": "realm of sentient beings",
+   "field": "children",
+   "proposed": "royaume des êtres vivants",
+   "reason": "dhātu is 'royaume' in children field at T317; 'monde' is used for loka (T013).",
+   "applied": true
+  },
+  {
+   "term_id": "T386",
+   "sense": "training",
+   "field": "children",
+   "proposed": "entraînement",
+   "reason": "Same śikṣā is 'entraînement' in T046 children; 'apprentissage' is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T392",
+   "sense": "Avīci hell",
+   "field": "children",
+   "proposed": "Avitchi",
+   "reason": "Same name rendered 'Avitchi' in T093 children; the macron form is not child-friendly and inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T395",
+   "sense": "hell guardian",
+   "field": "academic",
+   "proposed": "gardien des enfers",
+   "reason": "Same sense as T165, which has 'gardien des enfers' (plural).",
+   "applied": true
+  },
+  {
+   "term_id": "T395",
+   "sense": "hell guardian",
+   "field": "children",
+   "proposed": "gardien des enfers",
+   "reason": "Same sense as T165, which has 'gardien des enfers' (plural).",
+   "applied": true
+  },
+  {
+   "term_id": "T403",
+   "sense": "Brahmā",
+   "field": "children",
+   "proposed": "Brahma",
+   "reason": "Children's names drop diacritics (T322 'Brahma', T73 'Manjushri'); keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T242",
+   "sense": "conceit",
+   "field": "academic",
+   "proposed": "hauteur",
+   "reason": "'arrogance' is already T419 (rgyags); English academic here is 'haughtiness', so 'hauteur' keeps mada/dregs pa distinct.",
+   "applied": true
+  },
+  {
+   "term_id": "T433",
+   "sense": "compassionate one",
+   "field": "academic",
+   "proposed": "personne compatissante",
+   "reason": "'le Compatissant' is the epithet of a buddha (T441, kṛpālu); dayānvita is an ordinary compassionate person.",
+   "applied": true
+  },
+  {
+   "term_id": "T460",
+   "sense": "heedlessness",
+   "field": "academic",
+   "proposed": "manque de vigilance",
+   "reason": "'insouciance' means carefree lightness, not heedlessness; same term pramāda is 'manque de vigilance' in T141.",
+   "applied": true
+  },
+  {
+   "term_id": "T460",
+   "sense": "heedlessness",
+   "field": "children",
+   "proposed": "imprudence",
+   "reason": "Align with T141 pramāda children (opposite of apramāda 'prudence', T394); 'négligence' is a different notion.",
+   "applied": true
+  },
+  {
+   "term_id": "T464",
+   "sense": "perversity",
+   "field": "academic",
+   "proposed": "inversion",
+   "reason": "viparyaya is established in French as 'inversion'/erroneous view; 'perversion' wrongly suggests moral or sexual depravity.",
+   "applied": true
+  },
+  {
+   "term_id": "T468",
+   "sense": "other life",
+   "field": "academic",
+   "proposed": "autre vie",
+   "reason": "Lifetime is 'vie' (T131, T166 'vie présente'); 'existence' is reserved for bhava (T086).",
+   "applied": true
+  },
+  {
+   "term_id": "T480",
+   "sense": "praise",
+   "field": "children",
+   "proposed": "compliments",
+   "reason": "Same word (bstod) is 'compliments' in T482 and T552 children; 'louange' is harder for ages 8-12 and inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T400",
+   "sense": "mind of renunciation",
+   "field": "academic",
+   "proposed": "esprit de renonciation",
+   "reason": "Renunciation is 'renonciation' in T456; 'renoncement' is also drafted for relinquishment (T517, T518), causing a clash.",
+   "applied": true
+  },
+  {
+   "term_id": "T432",
+   "sense": "apprehension, fear of wrongdoing",
+   "field": "academic",
+   "proposed": "crainte",
+   "reason": "'appréhension' is the established rendering of dmigs pa (T286, T623, T633, T691); bhaya (fear of wrongdoing) needs a different word.",
+   "applied": true
+  },
+  {
+   "term_id": "T371",
+   "sense": "wish-fulfilling jewel",
+   "field": "academic",
+   "proposed": "joyau qui exauce les souhaits",
+   "reason": "Same cintāmaṇi as T625; 'vœux' also means 'vow' (T305). Align both on 'souhaits'.",
+   "applied": true
+  },
+  {
+   "term_id": "T371",
+   "sense": "wish-fulfilling jewel",
+   "field": "children",
+   "proposed": "joyau qui exauce les souhaits",
+   "reason": "Same cintāmaṇi as T625; align on 'souhaits' ('vœux' also means vow).",
+   "applied": true
+  },
+  {
+   "term_id": "T440",
+   "sense": "wish-fulfilling",
+   "field": "academic",
+   "proposed": "qui exauce les souhaits",
+   "reason": "'vœux' also means 'vow'; 'souhaits' is used for yid bzhin in T625 and the children field here.",
+   "applied": true
+  },
+  {
+   "term_id": "T487",
+   "sense": "ordination",
+   "field": "children",
+   "proposed": "devenir moine ou moniale",
+   "reason": "Same wording as T302 children ('moine ou moniale'); 'nonne' is a Christian term.",
+   "applied": true
+  },
+  {
+   "term_id": "T501",
+   "sense": "diligence",
+   "field": "academic",
+   "proposed": "effort enthousiaste",
+   "reason": "Same term vīrya is 'effort enthousiaste' in T102; 'persévérance' is inconsistent and the children field already says 'effort joyeux'.",
+   "applied": true
+  },
+  {
+   "term_id": "T504",
+   "sense": "idleness",
+   "field": "children",
+   "proposed": "ne rien faire",
+   "reason": "'paresse' is already ālasya (T123, T537); avyāpāra (idleness) needs a distinct, simple rendering.",
+   "applied": true
+  },
+  {
+   "term_id": "T505",
+   "sense": "force",
+   "field": "academic",
+   "proposed": "ensemble de forces",
+   "reason": "'armée de forces' is tautological and unidiomatic; English is 'host of forces'.",
+   "applied": true
+  },
+  {
+   "term_id": "T510",
+   "sense": "power of diligence",
+   "field": "academic",
+   "proposed": "puissance de l'effort enthousiaste",
+   "reason": "stobs is 'puissance' (T521) and vīrya is 'effort enthousiaste' (T102); 'force' is used for dpung/bala (T515).",
+   "applied": true
+  },
+  {
+   "term_id": "T510",
+   "sense": "power of diligence",
+   "field": "children",
+   "proposed": "pouvoir de l'effort joyeux",
+   "reason": "stobs is 'pouvoir' in T521 children; 'force' is used for bala/dpung (T515).",
+   "applied": true
+  },
+  {
+   "term_id": "T517",
+   "sense": "relinquishment",
+   "field": "academic",
+   "proposed": "abandon",
+   "reason": "'renoncement' collides with renunciation (T400, T456); tyāga is 'abandon' in T398 ('esprit d'abandon').",
+   "applied": true
+  },
+  {
+   "term_id": "T518",
+   "sense": "relinquishment",
+   "field": "academic",
+   "proposed": "abandon",
+   "reason": "'renoncement' collides with renunciation (T400, T456); tyāga is 'abandon' in T398 ('esprit d'abandon').",
+   "applied": true
+  },
+  {
+   "term_id": "T534",
+   "sense": "result of victory",
+   "field": "children",
+   "proposed": "résultat de la victoire",
+   "reason": "Children's field uses 'résultat' for phala elsewhere (T024, T296, T488); 'fruit' is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T549",
+   "sense": "conceit",
+   "field": "children",
+   "proposed": "avoir la grosse tête",
+   "reason": "'se croire supérieur' is already the children's rendering of mada (T242); English here is 'puffed-up feeling'.",
+   "applied": true
+  },
+  {
+   "term_id": "T562",
+   "sense": "excrement",
+   "field": "children",
+   "proposed": "déchets du corps",
+   "reason": "'crotte' means animal droppings and is slangy; English is 'body waste'.",
+   "applied": true
+  },
+  {
+   "term_id": "T563",
+   "sense": "saliva",
+   "field": "children",
+   "proposed": "salive",
+   "reason": "'bave' means drool, not spit; 'salive' is accurate and simple.",
+   "applied": true
+  },
+  {
+   "term_id": "T565",
+   "sense": "insentient",
+   "field": "academic",
+   "proposed": "inanimé",
+   "reason": "Same acetana is 'inanimé' in T249; 'insensible' means unfeeling or numb in French.",
+   "applied": true
+  },
+  {
+   "term_id": "T580",
+   "sense": "intellect of self",
+   "field": "children",
+   "proposed": "pensée du soi",
+   "reason": "'moi' is inconsistent with 'soi' used for ātman in academic field and everywhere else.",
+   "applied": true
+  },
+  {
+   "term_id": "T595",
+   "sense": "excellence",
+   "field": "children",
+   "proposed": "excellence",
+   "reason": "'perfection' is reserved for pāramitā (T159); same as T251 saṃpad.",
+   "applied": true
+  },
+  {
+   "term_id": "T596",
+   "sense": "grasping at self",
+   "field": "academic",
+   "proposed": "saisie du soi",
+   "reason": "'emprise sur le soi' means control over the self; bdag tu 'dzin is 'saisie du soi' (T277, T579).",
+   "applied": true
+  },
+  {
+   "term_id": "T617",
+   "sense": "conceptualization of true existence",
+   "field": "academic",
+   "proposed": "conceptualisation de l'existence véritable",
+   "reason": "'existence véritable' is the established rendering used in T677; 'existence vraie' is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T625",
+   "sense": "wish-fulfilling jewel",
+   "field": "academic",
+   "proposed": "joyau qui exauce les souhaits",
+   "reason": "Participle 'exauçant' is clumsy and differs from the children field and from T371; use the same relative clause.",
+   "applied": true
+  },
+  {
+   "term_id": "T628",
+   "sense": "garuḍa",
+   "field": "children",
+   "proposed": "oiseau géant du ciel",
+   "reason": "Same garuḍa as T530, rendered 'oiseau géant du ciel'; keep identical.",
+   "applied": true
+  },
+  {
+   "term_id": "T642",
+   "sense": "obscuration of afflictions and of objects of knowledge",
+   "field": "academic",
+   "proposed": "obscurcissement des afflictions et du connaissable",
+   "reason": "āvaraṇa/sgrib pa is 'obscurcissement' in T598 academic; 'voile' is the children's rendering.",
+   "applied": true
+  },
+  {
+   "term_id": "T646",
+   "sense": "one who experiences",
+   "field": "academic",
+   "proposed": "celui qui fait l'expérience",
+   "reason": "'celui qui éprouve' is already T294 (vedaka, feeler); bhoktṛ (experiencer) needs a distinct rendering.",
+   "applied": true
+  },
+  {
+   "term_id": "T646",
+   "sense": "one who experiences",
+   "field": "children",
+   "proposed": "celui qui vit l'expérience",
+   "reason": "'celui qui ressent' is already T294 (vedaka); keep bhoktṛ distinct.",
+   "applied": true
+  },
+  {
+   "term_id": "T661",
+   "sense": "power of consciousness",
+   "field": "children",
+   "proposed": "pouvoir de la conscience",
+   "reason": "Academic field says 'pouvoir'; children's 'force' is used for bala/dpung (T515) and inconsistent with 'pouvoir' for stobs (T521).",
+   "applied": true
+  },
+  {
+   "term_id": "T669",
+   "sense": "coarse",
+   "field": "children",
+   "proposed": "grossier",
+   "reason": "Same sthūla is 'grossier' in T190 children; 'gros' means big or fat and changes the meaning.",
+   "applied": true
+  },
+  {
+   "term_id": "T692",
+   "sense": "world system",
+   "field": "children",
+   "proposed": "univers",
+   "reason": "'grand monde' means high society in French and is vague; 'univers' conveys lokadhātu simply.",
+   "applied": true
+  },
+  {
+   "term_id": "T721",
+   "sense": "Saṅgha",
+   "field": "children",
+   "proposed": "communauté des moines et des moniales",
+   "reason": "Align with T302 'moniale'; 'nonnes' is a Christian term.",
+   "applied": true
+  },
+  {
+   "term_id": "T721",
+   "sense": "Saṅgha",
+   "field": "academic",
+   "proposed": "Saṅgha",
+   "reason": "English and T729 use 'Saṅgha'; 'Saṃgha' is an inconsistent transliteration of the same word.",
+   "applied": true
+  },
+  {
+   "term_id": "T722",
+   "sense": "nun",
+   "field": "academic",
+   "proposed": "moniale",
+   "reason": "'Nonne' is Christian; 'moniale' is the established Buddhist term for bhikṣuṇī and pairs with 'moine' (T188, T302).",
+   "applied": true
+  },
+  {
+   "term_id": "T722",
+   "sense": "nun",
+   "field": "children",
+   "proposed": "moniale",
+   "reason": "Consistent with 'moine ou moniale' in T302 and T487 children; 'nonne' is Christian.",
+   "applied": true
+  },
+  {
+   "term_id": "T727",
+   "sense": "first bodhisattva ground",
+   "field": "children",
+   "proposed": "étape de la joie parfaite",
+   "reason": "bhūmi is 'étape' in children field (T155, T366); 'terre' is the academic rendering only.",
+   "applied": true
+  }
+ ]
+}

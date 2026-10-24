@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T321",
+    "senses": [
+     {
+      "sense": "seer",
+      "academic": "vidente",
+      "children": "vidente sabio",
+      "note": "Ancient Indian sage with visionary insight; children phrase stresses wisdom."
+     }
+    ]
+   },
+   {
+    "term_id": "T322",
+    "senses": [
+     {
+      "sense": "Brahmā (god)",
+      "academic": "Brahmā",
+      "children": "Brahma",
+      "note": "High god of the Indian pantheon; children drops diacritic."
+     }
+    ]
+   },
+   {
+    "term_id": "T323",
+    "senses": [
+     {
+      "sense": "Sugata",
+      "academic": "Sugata",
+      "children": "el Bien Llegado",
+      "note": "Buddha epithet, 'gone to bliss'; children renders meaning plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T324",
+    "senses": [
+     {
+      "sense": "precious mind",
+      "academic": "mente preciosa",
+      "children": "mente preciosa",
+      "note": "Bodhicitta as jewel-like mind; same wording works for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T325",
+    "senses": [
+     {
+      "sense": "Jewel",
+      "academic": "Joya",
+      "children": "Joya",
+      "note": "Honorific for the Buddha as supreme jewel."
+     }
+    ]
+   },
+   {
+    "term_id": "T326",
+    "senses": [
+     {
+      "sense": "jewel tree",
+      "academic": "árbol de joyas",
+      "children": "árbol de joyas",
+      "note": "Wish-fulfilling tree made of gems in pure lands."
+     }
+    ]
+   },
+   {
+    "term_id": "T327",
+    "senses": [
+     {
+      "sense": "worthy recipient of offerings",
+      "academic": "digno receptor de ofrendas",
+      "children": "digno de recibir regalos",
+      "note": "One who merits offerings; children uses everyday 'regalos'."
+     }
+    ]
+   },
+   {
+    "term_id": "T328",
+    "senses": [
+     {
+      "sense": "supreme bodhisattva",
+      "academic": "ser supremo",
+      "children": "héroe del despertar más grande",
+      "note": "Topmost bodhisattva; children reuses fixed 'héroe del despertar'."
+     }
+    ]
+   },
+   {
+    "term_id": "T329",
+    "senses": [
+     {
+      "sense": "existence",
+      "academic": "existencia",
+      "children": "vida",
+      "note": "Cyclic becoming in samsara; children says 'life'."
+     }
+    ]
+   },
+   {
+    "term_id": "T330",
+    "senses": [
+     {
+      "sense": "misdeed",
+      "academic": "mala acción",
+      "children": "acción dañina",
+      "note": "Reuses fixed renderings for pāpa."
+     }
+    ]
+   },
+   {
+    "term_id": "T331",
+    "senses": [
+     {
+      "sense": "bath",
+      "academic": "baño",
+      "children": "baño",
+      "note": "Ritual bathing offered to Buddhas and bodhisattvas."
+     }
+    ]
+   },
+   {
+    "term_id": "T332",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Samantabhadra",
+      "children": "Samantabhadra",
+      "note": "Proper name kept unchanged in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T333",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Avalokiteśvara",
+      "children": "Avalokiteshvara",
+      "note": "Bodhisattva of compassion; children drops diacritic."
+     }
+    ]
+   },
+   {
+    "term_id": "T334",
+    "senses": [
+     {
+      "sense": "three-thousandfold world system",
+      "academic": "sistema de tres mil mundos",
+      "children": "mundo de tres mil mundos",
+      "note": "Vast cosmos of a billion worlds; children keeps simple count image."
+     }
+    ]
+   },
+   {
+    "term_id": "T335",
+    "senses": [
+     {
+      "sense": "object of offering",
+      "academic": "objeto de ofrendas",
+      "children": "digno de recibir ofrendas",
+      "note": "Recipient toward whom offerings are directed; children phrases as worthiness."
+     }
+    ]
+   },
+   {
+    "term_id": "T336",
+    "senses": [
+     {
+      "sense": "heavenly flower",
+      "academic": "mandāra",
+      "children": "flor celestial",
+      "note": "Divine coral-tree blossom; children translates descriptively."
+     }
+    ]
+   },
+   {
+    "term_id": "T337",
+    "senses": [
+     {
+      "sense": "blue lotus",
+      "academic": "loto azul",
+      "children": "loto azul",
+      "note": "Blue water-lily offered in worship; same simple term both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T338",
+    "senses": [
+     {
+      "sense": "incense",
+      "academic": "incienso",
+      "children": "incienso",
+      "note": "Fragrant smoke offering; everyday Spanish word fits both."
+     }
+    ]
+   },
+   {
+    "term_id": "T339",
+    "senses": [
+     {
+      "sense": "divine feast",
+      "academic": "festín divino",
+      "children": "festín de los dioses",
+      "note": "Food offering imagined as a banquet for gods."
+     }
+    ]
+   },
+   {
+    "term_id": "T340",
+    "senses": [
+     {
+      "sense": "lamp",
+      "academic": "lámpara",
+      "children": "lámpara",
+      "note": "Oil lamp offered as light; same everyday word both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T341",
+    "senses": [
+     {
+      "sense": "immeasurable palace",
+      "academic": "palacio inconmensurable",
+      "children": "palacio sin medida",
+      "note": "Celestial mansion of limitless size; children avoids rare adjective."
+     }
+    ]
+   },
+   {
+    "term_id": "T342",
+    "senses": [
+     {
+      "sense": "suffering (variant spelling)",
+      "academic": "sufrimiento",
+      "children": "sufrimiento",
+      "note": "Variant spelling of duḥkha; reuses fixed renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T343",
+    "senses": [
+     {
+      "sense": "supreme assembly (the Saṅgha)",
+      "academic": "Asamblea Suprema",
+      "children": "Asamblea Suprema",
+      "note": "Honorific title for the Saṅgha; capitalized title kept in both."
+     }
+    ]
+   },
+   {
+    "term_id": "T344",
+    "senses": [
+     {
+      "sense": "buddha-field",
+      "academic": "campo de Buda",
+      "children": "tierra del Buda",
+      "note": "Realm where a Buddha teaches; children uses 'tierra'."
+     }
+    ]
+   },
+   {
+    "term_id": "T345",
+    "senses": [
+     {
+      "sense": "basis of bodhicitta",
+      "academic": "base de la bodhicitta",
+      "children": "base de la mente del despertar",
+      "note": "Sentient beings as foundation of bodhicitta; reuses fixed bodhicitta renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T346",
+    "senses": [
+     {
+      "sense": "essence of awakening",
+      "academic": "esencia del despertar",
+      "children": "corazón del despertar",
+      "note": "Seat or core of enlightenment; reuses fixed 'despertar'."
+     }
+    ]
+   },
+   {
+    "term_id": "T347",
+    "senses": [
+     {
+      "sense": "fully awakened Buddha",
+      "academic": "Buda plenamente despierto",
+      "children": "Buda completamente despierto",
+      "note": "Perfectly awakened one; reuses fixed 'Buda' and 'despertar'."
+     }
+    ]
+   },
+   {
+    "term_id": "T348",
+    "senses": [
+     {
+      "sense": "rejoice",
+      "academic": "regocijarse",
+      "children": "alegrarse",
+      "note": "Verb, rejoicing in others' merit; infinitive head form."
+     }
+    ]
+   },
+   {
+    "term_id": "T349",
+    "senses": [
+     {
+      "sense": "one burdened with misdeeds",
+      "academic": "cargado de malas acciones",
+      "children": "quien ha hecho acciones dañinas",
+      "note": "Person weighed down by misdeeds; reuses fixed pāpa renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T350",
+    "senses": [
+     {
+      "sense": "purification",
+      "academic": "purificación",
+      "children": "limpieza",
+      "note": "Cleansing of misdeeds through confession; children says 'cleaning'."
+     }
+    ]
+   },
+   {
+    "term_id": "T351",
+    "senses": [
+     {
+      "sense": "definite liberation",
+      "academic": "liberación definitiva",
+      "children": "libertad segura",
+      "note": "Certain release from samsara; children uses simple 'sure freedom'."
+     }
+    ]
+   },
+   {
+    "term_id": "T352",
+    "senses": [
+     {
+      "sense": "Protector of beings",
+      "academic": "Protector de los seres errantes",
+      "children": "Protector de los seres",
+      "note": "Buddha as guardian; reuses fixed jagat renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T353",
+    "senses": [
+     {
+      "sense": "assembly of bodhisattvas",
+      "academic": "asamblea de bodhisattvas",
+      "children": "grupo de héroes del despertar",
+      "note": "Gathering of bodhisattvas; children reuses fixed bodhisattva rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T354",
+    "senses": [
+     {
+      "sense": "one burdened with misdeeds",
+      "academic": "que posee malas acciones",
+      "children": "quien ha hecho acciones dañinas",
+      "note": "Person possessing misdeeds; wording kept distinct from T349 academic."
+     }
+    ]
+   },
+   {
+    "term_id": "T355",
+    "senses": [
+     {
+      "sense": "Kṣitigarbha",
+      "academic": "Kṣitigarbha",
+      "children": "Kshitigarbha",
+      "note": "Bodhisattva 'Earth Womb'; children drops diacritic."
+     }
+    ]
+   },
+   {
+    "term_id": "T356",
+    "senses": [
+     {
+      "sense": "Vajra-wielder",
+      "academic": "Portador del vajra",
+      "children": "el que sostiene el rayo",
+      "note": "Epithet of Vajrapāṇi; children translates vajra as thunderbolt."
+     }
+    ]
+   },
+   {
+    "term_id": "T357",
+    "senses": [
+     {
+      "sense": "desire",
+      "academic": "deseo",
+      "children": "anhelo",
+      "note": "Craving, one of the three poisons; children uses 'longing'."
+     }
+    ]
+   },
+   {
+    "term_id": "T358",
+    "senses": [
+     {
+      "sense": "name of the human continent",
+      "academic": "Jambudvīpa",
+      "children": "Jambudvipa",
+      "note": "Southern continent of human beings; children drops diacritic."
+     }
+    ]
+   },
+   {
+    "term_id": "T359",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Médico Omnisciente",
+      "children": "Médico que lo Sabe Todo",
+      "note": "Buddha as all-knowing healer of afflictions; children paraphrases."
+     }
+    ]
+   },
+   {
+    "term_id": "T360",
+    "senses": [
+     {
+      "sense": "unit of distance",
+      "academic": "yojana",
+      "children": "legua",
+      "note": "Ancient Indian league; children uses familiar old unit 'legua'."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4110,
+  "output": 2543,
+  "thinking": 6343,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 218.48,
+ "attempt": 1
+}

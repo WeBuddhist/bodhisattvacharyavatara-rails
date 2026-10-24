@@ -1,4 +1,8 @@
-# 第25天 — Padmakara 白話中文
+---
+title: 第25天 — Padmakara 白話中文 — AI 翻譯
+ai_generated: true
+---
+# 第25天 — Padmakara 白話中文 — AI 翻譯
 
 **第二品：懺悔罪業　偈 2.37-2.39**
 

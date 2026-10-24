@@ -1,0 +1,468 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T161",
+    "senses": [
+     {
+      "sense": "sūtra",
+      "academic": "sūtra",
+      "children": "texte sacré",
+      "note": "Discourse scripture; children get a plain phrase meaning sacred text."
+     }
+    ]
+   },
+   {
+    "term_id": "T162",
+    "senses": [
+     {
+      "sense": "anger",
+      "academic": "colère",
+      "children": "colère",
+      "note": "English matches krodha rendering; same French kept for both."
+     }
+    ]
+   },
+   {
+    "term_id": "T163",
+    "senses": [
+     {
+      "sense": "primal matter of Sāṃkhya",
+      "academic": "Pradhāna",
+      "children": "matière première",
+      "note": "Sāṃkhya primal substance; Sanskrit kept in academic register."
+     }
+    ]
+   },
+   {
+    "term_id": "T164",
+    "senses": [
+     {
+      "sense": "space",
+      "academic": "espace",
+      "children": "espace",
+      "note": "Everyday word suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T165",
+    "senses": [
+     {
+      "sense": "hell guardian",
+      "academic": "gardien des enfers",
+      "children": "gardien des enfers",
+      "note": "Built on fixed rendering enfer; plain phrase fits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T166",
+    "senses": [
+     {
+      "sense": "this life",
+      "academic": "vie présente",
+      "children": "cette vie",
+      "note": "Standard academic phrase; children get the most everyday wording."
+     }
+    ]
+   },
+   {
+    "term_id": "T167",
+    "senses": [
+     {
+      "sense": "patience, tolerance",
+      "academic": "patience",
+      "children": "patience",
+      "note": "Matches fixed rendering of kṣānti."
+     }
+    ]
+   },
+   {
+    "term_id": "T168",
+    "senses": [
+     {
+      "sense": "own interest",
+      "academic": "bien propre",
+      "children": "ce qui est bon pour soi",
+      "note": "Aligned with artha as bien; children get a plain explanatory phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T169",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Sage",
+      "children": "Sage",
+      "note": "Capitalized epithet of the Buddha, standard in French Buddhist writing."
+     }
+    ]
+   },
+   {
+    "term_id": "T170",
+    "senses": [
+     {
+      "sense": "Buddhahood",
+      "academic": "bouddhéité",
+      "children": "état de bouddha",
+      "note": "Established scholarly term; children get a plain phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T171",
+    "senses": [
+     {
+      "sense": "distraction",
+      "academic": "distraction",
+      "children": "distraction",
+      "note": "Everyday French word, no register split needed."
+     }
+    ]
+   },
+   {
+    "term_id": "T172",
+    "senses": [
+     {
+      "sense": "aspiration, zeal",
+      "academic": "aspiration",
+      "children": "grand souhait",
+      "note": "Positive zeal; children phrase mirrors strong wish."
+     }
+    ]
+   },
+   {
+    "term_id": "T173",
+    "senses": [
+     {
+      "sense": "meditative concentration",
+      "academic": "concentration méditative",
+      "children": "concentration calme",
+      "note": "Standard translation of dhyāna; simplified for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T174",
+    "senses": [
+     {
+      "sense": "true reality",
+      "academic": "réalité véritable",
+      "children": "ce qui est vraiment réel",
+      "note": "Ultimate nature of things; plain paraphrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T175",
+    "senses": [
+     {
+      "sense": "grief",
+      "academic": "chagrin",
+      "children": "tristesse",
+      "note": "Children get the everyday word for sorrow."
+     }
+    ]
+   },
+   {
+    "term_id": "T176",
+    "senses": [
+     {
+      "sense": "childish person",
+      "academic": "personne puérile",
+      "children": "personne sotte",
+      "note": "bāla as spiritually immature person; simpler wording for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T177",
+    "senses": [
+     {
+      "sense": "welfare, own and others' aim",
+      "academic": "bien",
+      "children": "bien",
+      "note": "Standard French Buddhist rendering of artha as welfare."
+     },
+     {
+      "sense": "object",
+      "academic": "objet",
+      "children": "objet",
+      "note": "Object of knowledge; everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T178",
+    "senses": [
+     {
+      "sense": "charnel ground",
+      "academic": "charnier",
+      "children": "lieu des morts",
+      "note": "Established academic term; children get a plain location phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T179",
+    "senses": [
+     {
+      "sense": "skeleton",
+      "academic": "squelette",
+      "children": "squelette",
+      "note": "Everyday anatomical word."
+     }
+    ]
+   },
+   {
+    "term_id": "T180",
+    "senses": [
+     {
+      "sense": "impure",
+      "academic": "impur",
+      "children": "sale",
+      "note": "Children get the everyday opposite of clean."
+     }
+    ]
+   },
+   {
+    "term_id": "T181",
+    "senses": [
+     {
+      "sense": "seed",
+      "academic": "graine",
+      "children": "graine",
+      "note": "Standard rendering of bīja, also a karmic metaphor."
+     }
+    ]
+   },
+   {
+    "term_id": "T182",
+    "senses": [
+     {
+      "sense": "selflessness",
+      "academic": "absence de soi",
+      "children": "absence de soi séparé",
+      "note": "Built on fixed rendering soi; children phrase mirrors no separate self."
+     }
+    ]
+   },
+   {
+    "term_id": "T183",
+    "senses": [
+     {
+      "sense": "habituation",
+      "academic": "accoutumance",
+      "children": "habitude",
+      "note": "Repeated familiarization; children get the everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T184",
+    "senses": [
+     {
+      "sense": "means of valid knowing",
+      "academic": "cognition valide",
+      "children": "moyen fiable de connaître",
+      "note": "Epistemological term; children get a plain reliability phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T185",
+    "senses": [
+     {
+      "sense": "continuum",
+      "academic": "continuum",
+      "children": "flot ininterrompu",
+      "note": "Mind-stream; children phrase pictures an unbroken flow."
+     }
+    ]
+   },
+   {
+    "term_id": "T186",
+    "senses": [
+     {
+      "sense": "lamp",
+      "academic": "lampe",
+      "children": "lampe",
+      "note": "Everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T187",
+    "senses": [
+     {
+      "sense": "consciousness",
+      "academic": "conscience",
+      "children": "conscience",
+      "note": "Standard rendering of vijñāna; word is familiar to children."
+     }
+    ]
+   },
+   {
+    "term_id": "T188",
+    "senses": [
+     {
+      "sense": "monk",
+      "academic": "moine",
+      "children": "moine",
+      "note": "Standard rendering of bhikṣu."
+     }
+    ]
+   },
+   {
+    "term_id": "T189",
+    "senses": [
+     {
+      "sense": "rajas, one of the three guṇas",
+      "academic": "rajas",
+      "children": "agitation",
+      "note": "Sanskrit kept academically; children get its quality, restlessness."
+     },
+     {
+      "sense": "atom",
+      "academic": "atome",
+      "children": "particule minuscule",
+      "note": "aṇu as smallest particle; plain phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T190",
+    "senses": [
+     {
+      "sense": "coarse",
+      "academic": "grossier",
+      "children": "grossier",
+      "note": "Coarse as opposed to subtle; word is also everyday."
+     }
+    ]
+   },
+   {
+    "term_id": "T191",
+    "senses": [
+     {
+      "sense": "basis",
+      "academic": "base",
+      "children": "support",
+      "note": "āśraya as foundation; children get the concrete everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T192",
+    "senses": [
+     {
+      "sense": "goddess",
+      "academic": "déesse",
+      "children": "déesse",
+      "note": "Parallel to fixed dieu."
+     }
+    ]
+   },
+   {
+    "term_id": "T193",
+    "senses": [
+     {
+      "sense": "chief editor-translator",
+      "academic": "traducteur-réviseur en chef",
+      "children": "traducteur-réviseur en chef",
+      "note": "Colophon role; English keeps one label, so French does too."
+     }
+    ]
+   },
+   {
+    "term_id": "T194",
+    "senses": [
+     {
+      "sense": "child of the Sugata",
+      "academic": "fils du Sugata",
+      "children": "enfant du Bien-Allé",
+      "note": "Bodhisattva epithet; children get Sugata translated plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T195",
+    "senses": [
+     {
+      "sense": "leisure and endowment",
+      "academic": "loisirs et dotations",
+      "children": "vie libre et chanceuse",
+      "note": "Precious human life freedoms; children phrase mirrors free and fortunate."
+     }
+    ]
+   },
+   {
+    "term_id": "T196",
+    "senses": [
+     {
+      "sense": "plantain tree",
+      "academic": "bananier",
+      "children": "bananier",
+      "note": "French uses one word for plantain and banana tree."
+     }
+    ]
+   },
+   {
+    "term_id": "T197",
+    "senses": [
+     {
+      "sense": "aspiring bodhicitta",
+      "academic": "bodhicitta d'aspiration",
+      "children": "esprit d'éveil qui souhaite",
+      "note": "Reuses fixed bodhicitta renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T198",
+    "senses": [
+     {
+      "sense": "offering",
+      "academic": "offrande",
+      "children": "offrande",
+      "note": "pūjā as act of offering; word is familiar to children."
+     }
+    ]
+   },
+   {
+    "term_id": "T199",
+    "senses": [
+     {
+      "sense": "chapter 2 title",
+      "academic": "Confession des méfaits",
+      "children": "Avouer ses mauvaises actions",
+      "note": "Chapter title; reuses fixed renderings of pāpa in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T200",
+    "senses": [
+     {
+      "sense": "sacred image",
+      "academic": "image",
+      "children": "statue",
+      "note": "Consecrated representation; children get the concrete everyday word."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 5545,
+  "output": 2355,
+  "thinking": 8057,
+  "cache_read": 256,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 280.03,
+ "attempt": 1
+}

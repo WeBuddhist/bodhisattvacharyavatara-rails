@@ -1,0 +1,462 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T001",
+    "senses": [
+     {
+      "sense": "suffering",
+      "academic": "sofferenza",
+      "children": "sofferenza",
+      "note": "First noble truth; everyday Italian word works in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T002",
+    "senses": [
+     {
+      "sense": "sentient beings",
+      "academic": "essere senziente",
+      "children": "essere vivente",
+      "note": "Established Italian Buddhist rendering; singular head form, inflected in context."
+     }
+    ]
+   },
+   {
+    "term_id": "T003",
+    "senses": [
+     {
+      "sense": "mind",
+      "academic": "mente",
+      "children": "mente",
+      "note": "Standard translation of citta."
+     }
+    ]
+   },
+   {
+    "term_id": "T004",
+    "senses": [
+     {
+      "sense": "affliction",
+      "academic": "afflizione",
+      "children": "emozione che disturba",
+      "note": "Afflizione is the established Italian term for kleśa; children get a plain phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T005",
+    "senses": [
+     {
+      "sense": "living beings of the world",
+      "academic": "essere errante",
+      "children": "essere",
+      "note": "Jagat evokes beings wandering through saṃsāra; children use the simple everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T006",
+    "senses": [
+     {
+      "sense": "body",
+      "academic": "corpo",
+      "children": "corpo",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T007",
+    "senses": [
+     {
+      "sense": "merit",
+      "academic": "merito",
+      "children": "bontà accumulata",
+      "note": "Merito is standard; children phrase conveys goodness stored up."
+     }
+    ]
+   },
+   {
+    "term_id": "T008",
+    "senses": [
+     {
+      "sense": "Buddha",
+      "academic": "Buddha",
+      "children": "Buddha",
+      "note": "Proper name kept unchanged in Italian."
+     }
+    ]
+   },
+   {
+    "term_id": "T009",
+    "senses": [
+     {
+      "sense": "good quality",
+      "academic": "qualità positiva",
+      "children": "qualità positiva",
+      "note": "Natural Italian equivalent of guṇa as virtue or good quality."
+     }
+    ]
+   },
+   {
+    "term_id": "T010",
+    "senses": [
+     {
+      "sense": "bodhisattva",
+      "academic": "bodhisattva",
+      "children": "eroe del risveglio",
+      "note": "Technical term kept for scholars; children get a plain explanatory phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T011",
+    "senses": [
+     {
+      "sense": "misdeed",
+      "academic": "azione negativa",
+      "children": "azione che fa del male",
+      "note": "Standard karmic rendering; children phrase stresses harm done."
+     }
+    ]
+   },
+   {
+    "term_id": "T012",
+    "senses": [
+     {
+      "sense": "the awakening mind",
+      "academic": "bodhicitta",
+      "children": "mente del risveglio",
+      "note": "Key technical term retained in academic register, translated plainly for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T013",
+    "senses": [
+     {
+      "sense": "world",
+      "academic": "mondo",
+      "children": "mondo",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T014",
+    "senses": [
+     {
+      "sense": "virtue",
+      "academic": "virtù",
+      "children": "buona azione",
+      "note": "Kuśala as wholesome action; children phrase names a concrete good deed."
+     }
+    ]
+   },
+   {
+    "term_id": "T015",
+    "senses": [
+     {
+      "sense": "happiness",
+      "academic": "felicità",
+      "children": "felicità",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T016",
+    "senses": [
+     {
+      "sense": "mind",
+      "academic": "mente",
+      "children": "mente",
+      "note": "English does not distinguish manas from citta, so Italian uses the same word."
+     }
+    ]
+   },
+   {
+    "term_id": "T017",
+    "senses": [
+     {
+      "sense": "cycle of rebirth, saṃsāra",
+      "academic": "saṃsāra",
+      "children": "ciclo delle rinascite",
+      "note": "Sanskrit term kept with diacritics for scholars; children get a plain phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T018",
+    "senses": [
+     {
+      "sense": "hell",
+      "academic": "inferno",
+      "children": "inferno",
+      "note": "Standard Italian rendering of the Buddhist hell realms."
+     }
+    ]
+   },
+   {
+    "term_id": "T019",
+    "senses": [
+     {
+      "sense": "the Buddha's teaching",
+      "academic": "Dharma",
+      "children": "insegnamenti",
+      "note": "Capitalized technical term for scholars; children get the plain everyday word."
+     },
+     {
+      "sense": "things as such (chapter 9)",
+      "academic": "fenomeno",
+      "children": "cosa che appare",
+      "note": "Abhidharma sense of dharma; fenomeno is the established Italian rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T020",
+    "senses": [
+     {
+      "sense": "awakening",
+      "academic": "risveglio",
+      "children": "risveglio",
+      "note": "Accurate modern rendering of bodhi, consistent with eroe del risveglio."
+     }
+    ]
+   },
+   {
+    "term_id": "T021",
+    "senses": [
+     {
+      "sense": "pride",
+      "academic": "orgoglio",
+      "children": "orgoglio",
+      "note": "Orgoglio is the established Italian term for māna among the afflictions."
+     }
+    ]
+   },
+   {
+    "term_id": "T022",
+    "senses": [
+     {
+      "sense": "self",
+      "academic": "io",
+      "children": "se stesso",
+      "note": "Io is standard in Italian Buddhist philosophy, as in non-io for anātman."
+     }
+    ]
+   },
+   {
+    "term_id": "T023",
+    "senses": [
+     {
+      "sense": "condition",
+      "academic": "condizione",
+      "children": "circostanza",
+      "note": "Technical term of dependent arising; children use the everyday near-synonym."
+     }
+    ]
+   },
+   {
+    "term_id": "T024",
+    "senses": [
+     {
+      "sense": "result of action",
+      "academic": "risultato",
+      "children": "risultato",
+      "note": "Karmic result; follows the English choice rather than the literal frutto."
+     }
+    ]
+   },
+   {
+    "term_id": "T025",
+    "senses": [
+     {
+      "sense": "misdeed",
+      "academic": "azione negativa",
+      "children": "azione che fa del male",
+      "note": "Same rendering as T011, the duplicate entry for pāpa."
+     }
+    ]
+   },
+   {
+    "term_id": "T026",
+    "senses": [
+     {
+      "sense": "cause",
+      "academic": "causa",
+      "children": "causa",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T027",
+    "senses": [
+     {
+      "sense": "title of the work",
+      "academic": "Ingresso nella via del bodhisattva",
+      "children": "Ingresso nella via dell'eroe del risveglio",
+      "note": "Translated title; children's version reuses the fixed rendering eroe del risveglio."
+     }
+    ]
+   },
+   {
+    "term_id": "T028",
+    "senses": [
+     {
+      "sense": "attachment, clinging",
+      "academic": "attaccamento",
+      "children": "aggrapparsi",
+      "note": "Attaccamento is the established term; children get a simple verbal phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T029",
+    "senses": [
+     {
+      "sense": "entity",
+      "academic": "entità",
+      "children": "cosa",
+      "note": "Ontological term of chapter 9; children use the plain everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T030",
+    "senses": [
+     {
+      "sense": "anger",
+      "academic": "rabbia",
+      "children": "rabbia",
+      "note": "Standard modern rendering of krodha, central to chapter 6."
+     }
+    ]
+   },
+   {
+    "term_id": "T031",
+    "senses": [
+     {
+      "sense": "illusion",
+      "academic": "illusione",
+      "children": "illusione",
+      "note": "Standard rendering of māyā; already an everyday Italian word."
+     }
+    ]
+   },
+   {
+    "term_id": "T032",
+    "senses": [
+     {
+      "sense": "god",
+      "academic": "dio",
+      "children": "dio",
+      "note": "Devas rendered with the everyday Italian word, inflected in context."
+     }
+    ]
+   },
+   {
+    "term_id": "T033",
+    "senses": [
+     {
+      "sense": "happiness",
+      "academic": "felicità",
+      "children": "felicità",
+      "note": "Same rendering as T015, the duplicate entry for sukha."
+     }
+    ]
+   },
+   {
+    "term_id": "T034",
+    "senses": [
+     {
+      "sense": "epithet of the Buddhas",
+      "academic": "Vittorioso",
+      "children": "Vincitore",
+      "note": "Jina means conqueror; children get the more common Italian word."
+     }
+    ]
+   },
+   {
+    "term_id": "T035",
+    "senses": [
+     {
+      "sense": "hatred",
+      "academic": "odio",
+      "children": "odio",
+      "note": "One of the three poisons; everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T036",
+    "senses": [
+     {
+      "sense": "embodied being",
+      "academic": "essere incarnato",
+      "children": "essere con un corpo",
+      "note": "Children phrase spells out the meaning of the technical expression."
+     }
+    ]
+   },
+   {
+    "term_id": "T037",
+    "senses": [
+     {
+      "sense": "patience",
+      "academic": "pazienza",
+      "children": "pazienza",
+      "note": "The perfection of kṣānti; everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T038",
+    "senses": [
+     {
+      "sense": "delusion",
+      "academic": "ottenebramento",
+      "children": "confusione",
+      "note": "Ottenebramento is the established term for moha; children get the simpler word."
+     }
+    ]
+   },
+   {
+    "term_id": "T039",
+    "senses": [
+     {
+      "sense": "eon, long age",
+      "academic": "eone",
+      "children": "grande epoca",
+      "note": "Cosmic time span; children phrase conveys an immensely long age."
+     }
+    ]
+   },
+   {
+    "term_id": "T040",
+    "senses": [
+     {
+      "sense": "unhappy rebirth state",
+      "academic": "reame inferiore",
+      "children": "reame infelice",
+      "note": "Unfortunate rebirth destinations below the human realm."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 5,
+  "output": 2361,
+  "thinking": 3300,
+  "cache_read": 4096,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 114.86,
+ "attempt": 1
+}

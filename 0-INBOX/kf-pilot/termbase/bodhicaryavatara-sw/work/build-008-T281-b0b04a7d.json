@@ -1,0 +1,462 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T281",
+    "senses": [
+     {
+      "sense": "illusory mind",
+      "academic": "akili ya maya",
+      "children": "akili ya picha ya uongo",
+      "note": "Compound of fixed maya (illusion) and citta (akili); children uses fixed 'picha ya uongo'."
+     }
+    ]
+   },
+   {
+    "term_id": "T282",
+    "senses": [
+     {
+      "sense": "aspect",
+      "academic": "umbo",
+      "children": "jinsi inavyoonekana",
+      "note": "Ākāra as perceptual aspect; children phrase mirrors 'way it appears'."
+     }
+    ]
+   },
+   {
+    "term_id": "T283",
+    "senses": [
+     {
+      "sense": "mind itself",
+      "academic": "akili yenyewe",
+      "children": "akili yenyewe",
+      "note": "Fixed citta (akili) with reflexive emphasis."
+     }
+    ]
+   },
+   {
+    "term_id": "T284",
+    "senses": [
+     {
+      "sense": "latent tendency",
+      "academic": "mwelekeo uliojifichwa",
+      "children": "tabia iliyokita mizizi",
+      "note": "No established vāsanā loan in Swahili; descriptive phrases for latent imprint."
+     }
+    ]
+   },
+   {
+    "term_id": "T285",
+    "senses": [
+     {
+      "sense": "shrine",
+      "academic": "hekalu",
+      "children": "mahali patakatifu",
+      "note": "Hekalu is standard Swahili for temple/shrine; children use everyday phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T286",
+    "senses": [
+     {
+      "sense": "apprehension",
+      "academic": "kutambua kwa akili",
+      "children": "kukaza akili kwenye kitu",
+      "note": "Ālambana as mental grasping; children phrase matches 'fixing on something'."
+     }
+    ]
+   },
+   {
+    "term_id": "T287",
+    "senses": [
+     {
+      "sense": "doubt",
+      "academic": "shaka",
+      "children": "shaka",
+      "note": "Shaka is the everyday Swahili word for doubt, fits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T288",
+    "senses": [
+     {
+      "sense": "sattva (quality of the Sāṃkhya)",
+      "academic": "sattva",
+      "children": "mwangaza",
+      "note": "Sāṃkhya guṇa kept as loan in academic register; children get descriptive brightness."
+     }
+    ]
+   },
+   {
+    "term_id": "T289",
+    "senses": [
+     {
+      "sense": "tamas (Sāṃkhya guṇa)",
+      "academic": "tamas",
+      "children": "giza",
+      "note": "Loan in Swahili spelling for scholars; children use everyday 'darkness'."
+     }
+    ]
+   },
+   {
+    "term_id": "T290",
+    "senses": [
+     {
+      "sense": "agent of action",
+      "academic": "mtendaji",
+      "children": "mtendaji",
+      "note": "Everyday agent noun covers both registers."
+     },
+     {
+      "sense": "creator (Īśvara)",
+      "academic": "muumba",
+      "children": "muumba wa dunia",
+      "note": "Distinct sense: creator deity; children phrase spells out 'maker of the world'."
+     }
+    ]
+   },
+   {
+    "term_id": "T291",
+    "senses": [
+     {
+      "sense": "sense faculty",
+      "academic": "uwezo wa hisia",
+      "children": "kiungo cha hisia",
+      "note": "Faculty as capacity of sense; children phrase matches 'sense organ'."
+     }
+    ]
+   },
+   {
+    "term_id": "T292",
+    "senses": [
+     {
+      "sense": "atom",
+      "academic": "atomu",
+      "children": "chembe ndogo kabisa",
+      "note": "Atomu is the established Swahili scientific loan; children get plain description."
+     }
+    ]
+   },
+   {
+    "term_id": "T293",
+    "senses": [
+     {
+      "sense": "collection",
+      "academic": "mkusanyiko",
+      "children": "kusanyiko",
+      "note": "Both are everyday Swahili nouns for collection/gathering."
+     }
+    ]
+   },
+   {
+    "term_id": "T294",
+    "senses": [
+     {
+      "sense": "one who feels",
+      "academic": "mwenye kuhisi",
+      "children": "mwenye kuhisi",
+      "note": "Plain agent phrase; same everyday wording serves both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T295",
+    "senses": [
+     {
+      "sense": "sprout",
+      "academic": "chipuko",
+      "children": "chipuko",
+      "note": "Chipuko is everyday Swahili for sprout."
+     }
+    ]
+   },
+   {
+    "term_id": "T296",
+    "senses": [
+     {
+      "sense": "effect of a cause",
+      "academic": "matokeo",
+      "children": "matokeo",
+      "note": "Reuses fixed phala rendering 'matokeo'."
+     }
+    ]
+   },
+   {
+    "term_id": "T297",
+    "senses": [
+     {
+      "sense": "permanent",
+      "academic": "ya kudumu",
+      "children": "isiyobadilika",
+      "note": "Children phrase mirrors 'never-changing'."
+     }
+    ]
+   },
+   {
+    "term_id": "T298",
+    "senses": [
+     {
+      "sense": "impermanence",
+      "academic": "kutokudumu",
+      "children": "kutodumu",
+      "note": "Verbal noun negation of kudumu; children wording matches 'not lasting'."
+     }
+    ]
+   },
+   {
+    "term_id": "T299",
+    "senses": [
+     {
+      "sense": "Māra",
+      "academic": "Mara",
+      "children": "Mara",
+      "note": "Proper name in plain Swahili spelling."
+     }
+    ]
+   },
+   {
+    "term_id": "T300",
+    "senses": [
+     {
+      "sense": "dedication",
+      "academic": "kutoa thawabu",
+      "children": "kugawana wema",
+      "note": "Dedication of merit reuses fixed thawabu; children phrase echoes 'sharing the goodness'."
+     }
+    ]
+   },
+   {
+    "term_id": "T301",
+    "senses": [
+     {
+      "sense": "hell being",
+      "academic": "kiumbe wa jehanamu",
+      "children": "kiumbe wa jehanamu",
+      "note": "Reuses fixed jehanamu (hell) with everyday word for a being."
+     }
+    ]
+   },
+   {
+    "term_id": "T302",
+    "senses": [
+     {
+      "sense": "ordination",
+      "academic": "kuingia utawani",
+      "children": "kuwa mtawa",
+      "note": "Utawa is established Swahili for religious/monastic life; children phrase matches 'becoming a monk or nun'."
+     }
+    ]
+   },
+   {
+    "term_id": "T303",
+    "senses": [
+     {
+      "sense": "Sanskrit title",
+      "academic": "Bodhisattvacaryāvatāra",
+      "children": "Bodhisattvacharyavatara",
+      "note": "Sanskrit title kept; children version drops diacritics per English evidence."
+     }
+    ]
+   },
+   {
+    "term_id": "T304",
+    "senses": [
+     {
+      "sense": "Dharmakāya",
+      "academic": "Dharmakaya",
+      "children": "mwili wa kweli",
+      "note": "Loan in Swahili spelling for scholars; children mirror 'truth body'."
+     }
+    ]
+   },
+   {
+    "term_id": "T305",
+    "senses": [
+     {
+      "sense": "vow",
+      "academic": "kiapo",
+      "children": "ahadi",
+      "note": "Kiapo is solemn vow; ahadi is everyday promise."
+     }
+    ]
+   },
+   {
+    "term_id": "T306",
+    "senses": [
+     {
+      "sense": "purpose of a human being",
+      "academic": "lengo la binadamu",
+      "children": "lengo la maisha ya mtu",
+      "note": "Puruṣārtha as human aim; children phrase spells out purpose of a human life."
+     }
+    ]
+   },
+   {
+    "term_id": "T307",
+    "senses": [
+     {
+      "sense": "perfect awakening",
+      "academic": "uamsho mkamilifu",
+      "children": "uamsho kamili",
+      "note": "Compound reuses fixed bodhi rendering 'uamsho'."
+     }
+    ]
+   },
+   {
+    "term_id": "T308",
+    "senses": [
+     {
+      "sense": "supreme happiness",
+      "academic": "furaha kuu",
+      "children": "furaha kubwa kabisa",
+      "note": "Reuses fixed sukha rendering 'furaha' with superlative qualifiers."
+     }
+    ]
+   },
+   {
+    "term_id": "T309",
+    "senses": [
+     {
+      "sense": "gold-making elixir",
+      "academic": "dawa ya kutengeneza dhahabu",
+      "children": "dawa ya kufanya dhahabu",
+      "note": "Alchemical elixir described plainly; dahabu is everyday Swahili for gold."
+     }
+    ]
+   },
+   {
+    "term_id": "T310",
+    "senses": [
+     {
+      "sense": "jewel",
+      "academic": "johari",
+      "children": "johari",
+      "note": "Johari is the established everyday Swahili word for jewel."
+     }
+    ]
+   },
+   {
+    "term_id": "T311",
+    "senses": [
+     {
+      "sense": "body (of a Victor)",
+      "academic": "mwili",
+      "children": "mwili",
+      "note": "Reuses fixed kāya rendering 'mwili'; Victor context supplied by translator."
+     }
+    ]
+   },
+   {
+    "term_id": "T312",
+    "senses": [
+     {
+      "sense": "caravan leader",
+      "academic": "kiongozi wa karavani",
+      "children": "kiongozi wa wasafiri",
+      "note": "Karavani is established in Swahili; children phrase matches 'leader of travelers'."
+     }
+    ]
+   },
+   {
+    "term_id": "T313",
+    "senses": [
+     {
+      "sense": "epithet of Maitreya",
+      "academic": "Mlinzi Maitreya",
+      "children": "Mlinzi Maitreya",
+      "note": "Name kept in standard form with everyday word mlinzi (protector)."
+     }
+    ]
+   },
+   {
+    "term_id": "T314",
+    "senses": [
+     {
+      "sense": "Sudhana (name)",
+      "academic": "Sudhana",
+      "children": "Sudhana",
+      "note": "Proper name in standard form."
+     }
+    ]
+   },
+   {
+    "term_id": "T315",
+    "senses": [
+     {
+      "sense": "engaging bodhicitta",
+      "academic": "bodhicitta ya kuingia",
+      "children": "akili inayoelekea uamsho",
+      "note": "Reuses fixed bodhicitta; children phrase mirrors 'mind that sets out to awaken'."
+     }
+    ]
+   },
+   {
+    "term_id": "T316",
+    "senses": [
+     {
+      "sense": "engaging bodhicitta",
+      "academic": "bodhicitta ya kuingia",
+      "children": "akili inayoelekea uamsho",
+      "note": "Same sense as T315; identical renderings kept."
+     }
+    ]
+   },
+   {
+    "term_id": "T317",
+    "senses": [
+     {
+      "sense": "realm",
+      "academic": "uwanja",
+      "children": "ufalme",
+      "note": "Uwanja as sphere of existence; children use everyday ufalme for realm."
+     }
+    ]
+   },
+   {
+    "term_id": "T318",
+    "senses": [
+     {
+      "sense": "irreversible",
+      "academic": "isiyotendulika",
+      "children": "isiyorudi nyuma",
+      "note": "Children phrase mirrors 'never turning back'."
+     }
+    ]
+   },
+   {
+    "term_id": "T319",
+    "senses": [
+     {
+      "sense": "name of an interlocutor",
+      "academic": "Subahu",
+      "children": "Subahu",
+      "note": "Proper name in plain Swahili spelling."
+     }
+    ]
+   },
+   {
+    "term_id": "T320",
+    "senses": [
+     {
+      "sense": "question (sūtra title element)",
+      "academic": "swali",
+      "children": "swali",
+      "note": "Swali is the everyday Swahili word for question."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4115,
+  "output": 2132,
+  "thinking": 8486,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 190.34,
+ "attempt": 1
+}

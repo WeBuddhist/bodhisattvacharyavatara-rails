@@ -1,4 +1,8 @@
-# 第二天 — Padmakara 白話中文
+---
+title: 第二天 — Padmakara 白話中文 — AI 翻譯
+ai_generated: true
+---
+# 第二天 — Padmakara 白話中文 — AI 翻譯
 
 **第一品：菩提心的功德　偈 1.4–1.6**
 

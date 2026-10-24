@@ -1,0 +1,462 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T281",
+    "senses": [
+     {
+      "sense": "illusory mind",
+      "academic": "mente ilusória",
+      "children": "mente de ilusão",
+      "note": "Compound of fixed māyā (ilusão) and citta (mente); renders both faithfully."
+     }
+    ]
+   },
+   {
+    "term_id": "T282",
+    "senses": [
+     {
+      "sense": "aspect",
+      "academic": "aspecto",
+      "children": "jeito como aparece",
+      "note": "Ākāra as mode of appearance; children's phrase mirrors English 'way it appears'."
+     }
+    ]
+   },
+   {
+    "term_id": "T283",
+    "senses": [
+     {
+      "sense": "mind itself",
+      "academic": "a mente em si",
+      "children": "a própria mente",
+      "note": "Reflexive emphasis distinguishing from plain fixed 'mente'."
+     }
+    ]
+   },
+   {
+    "term_id": "T284",
+    "senses": [
+     {
+      "sense": "latent tendency",
+      "academic": "tendência latente",
+      "children": "hábito profundo",
+      "note": "Vāsanā as residual imprint; children get everyday 'hábito profundo'."
+     }
+    ]
+   },
+   {
+    "term_id": "T285",
+    "senses": [
+     {
+      "sense": "shrine",
+      "academic": "santuário",
+      "children": "santuário",
+      "note": "Stambha literally 'pillar'; context indicates a Buddhist shrine or sacred monument."
+     }
+    ]
+   },
+   {
+    "term_id": "T286",
+    "senses": [
+     {
+      "sense": "apprehension",
+      "academic": "apreensão",
+      "children": "fixar a mente em algo",
+      "note": "Ālambana as taking hold of an object; children phrase keeps that meaning."
+     }
+    ]
+   },
+   {
+    "term_id": "T287",
+    "senses": [
+     {
+      "sense": "doubt",
+      "academic": "dúvida",
+      "children": "dúvida",
+      "note": "Vicikitsā, one of the afflictions; everyday word suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T288",
+    "senses": [
+     {
+      "sense": "sattva (quality of the Sāṃkhya)",
+      "academic": "sattva",
+      "children": "luminosidade",
+      "note": "Sāṃkhya guṇa kept in Sanskrit academically; children get its brightness sense, distinct from fixed sattva 'ser senciente'."
+     }
+    ]
+   },
+   {
+    "term_id": "T289",
+    "senses": [
+     {
+      "sense": "tamas (Sāṃkhya guṇa)",
+      "academic": "tamas",
+      "children": "escuridão",
+      "note": "Sāṃkhya guṇa retained academically; children get the plain word for darkness."
+     }
+    ]
+   },
+   {
+    "term_id": "T290",
+    "senses": [
+     {
+      "sense": "agent of action",
+      "academic": "agente",
+      "children": "quem faz",
+      "note": "Kartṛ as grammatical/philosophical agent; children phrase names the doer plainly."
+     },
+     {
+      "sense": "creator (Īśvara)",
+      "academic": "criador",
+      "children": "quem fez o mundo",
+      "note": "Kartṛ as creator god; distinct rendering from agent sense, as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T291",
+    "senses": [
+     {
+      "sense": "sense faculty",
+      "academic": "faculdade sensorial",
+      "children": "órgão dos sentidos",
+      "note": "Indriya; established academic term, children name the bodily organ."
+     }
+    ]
+   },
+   {
+    "term_id": "T292",
+    "senses": [
+     {
+      "sense": "atom",
+      "academic": "átomo",
+      "children": "átomo",
+      "note": "Aṇu (paramāṇu); 'átomo' is already everyday Brazilian usage, both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T293",
+    "senses": [
+     {
+      "sense": "collection",
+      "academic": "coleção",
+      "children": "ajuntamento",
+      "note": "Samūha as aggregation; children get the plain word for gathered things."
+     }
+    ]
+   },
+   {
+    "term_id": "T294",
+    "senses": [
+     {
+      "sense": "one who feels",
+      "academic": "aquele que sente",
+      "children": "quem sente",
+      "note": "Vedaka, the feeler posited by opponents; no established noun in Portuguese."
+     }
+    ]
+   },
+   {
+    "term_id": "T295",
+    "senses": [
+     {
+      "sense": "sprout",
+      "academic": "broto",
+      "children": "broto",
+      "note": "Aṅkura; 'broto' is everyday Brazilian Portuguese, fitting both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T296",
+    "senses": [
+     {
+      "sense": "effect of a cause",
+      "academic": "resultado",
+      "children": "resultado",
+      "note": "Reuses fixed rendering for phala as effect/result."
+     }
+    ]
+   },
+   {
+    "term_id": "T297",
+    "senses": [
+     {
+      "sense": "permanent",
+      "academic": "permanente",
+      "children": "que nunca muda",
+      "note": "Nitya; children phrase mirrors English 'never-changing'."
+     }
+    ]
+   },
+   {
+    "term_id": "T298",
+    "senses": [
+     {
+      "sense": "impermanence",
+      "academic": "impermanência",
+      "children": "não durar para sempre",
+      "note": "Anityatā; established academic term, plain verbal phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T299",
+    "senses": [
+     {
+      "sense": "Māra",
+      "academic": "Māra",
+      "children": "Mara",
+      "note": "Proper name; diacritic retained academically, simplified for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T300",
+    "senses": [
+     {
+      "sense": "dedication",
+      "academic": "dedicação",
+      "children": "compartilhar a bondade",
+      "note": "Pariṇāmanā, dedication of merit; children phrase mirrors English 'sharing the goodness'."
+     }
+    ]
+   },
+   {
+    "term_id": "T301",
+    "senses": [
+     {
+      "sense": "hell being",
+      "academic": "ser infernal",
+      "children": "ser do inferno",
+      "note": "Nāraka as the being, distinct from fixed naraka 'inferno' (the place)."
+     }
+    ]
+   },
+   {
+    "term_id": "T302",
+    "senses": [
+     {
+      "sense": "ordination",
+      "academic": "ordenação",
+      "children": "tornar-se monge ou monja",
+      "note": "Pravrajita, going forth into monastic life; children phrase states it plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T303",
+    "senses": [
+     {
+      "sense": "Sanskrit title",
+      "academic": "Bodhisattvacaryāvatāra",
+      "children": "Bodhisattvacaryavatara",
+      "note": "Sanskrit title retained; children drop diacritics only, as approved in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T304",
+    "senses": [
+     {
+      "sense": "Dharmakāya",
+      "academic": "Dharmakāya",
+      "children": "corpo da verdade",
+      "note": "Sanskrit kept academically; children render 'truth body' per approved English."
+     }
+    ]
+   },
+   {
+    "term_id": "T305",
+    "senses": [
+     {
+      "sense": "vow",
+      "academic": "voto",
+      "children": "promessa",
+      "note": "Saṃvara as monastic vow/restraint; 'voto' is standard in Brazilian Buddhism."
+     }
+    ]
+   },
+   {
+    "term_id": "T306",
+    "senses": [
+     {
+      "sense": "purpose of a human being",
+      "academic": "propósito humano",
+      "children": "o objetivo da vida humana",
+      "note": "Puruṣārtha; children phrase follows approved English 'purpose of a human life'."
+     }
+    ]
+   },
+   {
+    "term_id": "T307",
+    "senses": [
+     {
+      "sense": "perfect awakening",
+      "academic": "despertar perfeito",
+      "children": "despertar completo",
+      "note": "Reuses fixed bodhi 'despertar'; qualifiers mirror perfect/full distinction."
+     }
+    ]
+   },
+   {
+    "term_id": "T308",
+    "senses": [
+     {
+      "sense": "supreme happiness",
+      "academic": "felicidade suprema",
+      "children": "a maior felicidade",
+      "note": "Reuses fixed sukha 'felicidade'; children get 'greatest' in plain words."
+     }
+    ]
+   },
+   {
+    "term_id": "T309",
+    "senses": [
+     {
+      "sense": "gold-making elixir",
+      "academic": "elixir que produz ouro",
+      "children": "poção que faz ouro",
+      "note": "Rasajāta, alchemical elixir; 'poção' is the everyday children's equivalent."
+     }
+    ]
+   },
+   {
+    "term_id": "T310",
+    "senses": [
+     {
+      "sense": "jewel",
+      "academic": "joia",
+      "children": "joia",
+      "note": "Ratna; 'joia' already everyday, both registers identical as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T311",
+    "senses": [
+     {
+      "sense": "body (of a Victor)",
+      "academic": "corpo",
+      "children": "corpo",
+      "note": "Reuses fixed kāya 'corpo'; the Victor reference belongs to context, not the term."
+     }
+    ]
+   },
+   {
+    "term_id": "T312",
+    "senses": [
+     {
+      "sense": "caravan leader",
+      "academic": "chefe de caravana",
+      "children": "líder dos viajantes",
+      "note": "Sārthavāha; children phrase mirrors approved English 'leader of travelers'."
+     }
+    ]
+   },
+   {
+    "term_id": "T313",
+    "senses": [
+     {
+      "sense": "epithet of Maitreya",
+      "academic": "Protetor Maitreya",
+      "children": "Protetor Maitreya",
+      "note": "Maitreyanātha; Maitreya in standard Brazilian spelling, epithet identical both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T314",
+    "senses": [
+     {
+      "sense": "Sudhana (name)",
+      "academic": "Sudhana",
+      "children": "Sudhana",
+      "note": "Proper name retained unchanged in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T315",
+    "senses": [
+     {
+      "sense": "engaging bodhicitta",
+      "academic": "bodhicitta engajada",
+      "children": "mente que parte para o despertar",
+      "note": "Bodhiprasthāna; reuses fixed bodhicitta, children phrase mirrors 'mind that sets out to awaken'."
+     }
+    ]
+   },
+   {
+    "term_id": "T316",
+    "senses": [
+     {
+      "sense": "engaging bodhicitta",
+      "academic": "bodhicitta engajada",
+      "children": "mente que parte para o despertar",
+      "note": "Prasthānacitta; same sense as bodhiprasthāna, so same renderings as English does."
+     }
+    ]
+   },
+   {
+    "term_id": "T317",
+    "senses": [
+     {
+      "sense": "realm",
+      "academic": "reino",
+      "children": "reino",
+      "note": "Dhātu as realm of existence; consistent with fixed 'reino infeliz' for durgati."
+     }
+    ]
+   },
+   {
+    "term_id": "T318",
+    "senses": [
+     {
+      "sense": "irreversible",
+      "academic": "irreversível",
+      "children": "que nunca volta atrás",
+      "note": "Anivartya; children phrase mirrors approved English 'never turning back'."
+     }
+    ]
+   },
+   {
+    "term_id": "T319",
+    "senses": [
+     {
+      "sense": "name of an interlocutor",
+      "academic": "Subāhu",
+      "children": "Subahu",
+      "note": "Proper name; diacritic retained academically, simplified for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T320",
+    "senses": [
+     {
+      "sense": "question (sūtra title element)",
+      "academic": "pergunta",
+      "children": "pergunta",
+      "note": "Pṛcchā (paripṛcchā) in sūtra titles; everyday word suits both registers."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4014,
+  "output": 2221,
+  "thinking": 4082,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 72.45,
+ "attempt": 1
+}

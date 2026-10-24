@@ -1,0 +1,480 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T121",
+    "senses": [
+     {
+      "sense": "heedfulness",
+      "academic": "vigilance",
+      "children": "vigilance",
+      "note": "Standard French rendering of apramāda; opposite of T141."
+     }
+    ]
+   },
+   {
+    "term_id": "T122",
+    "senses": [
+     {
+      "sense": "austerity",
+      "academic": "ascèse",
+      "children": "pratique difficile",
+      "note": "Rigorous religious practice; children get a plain phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T123",
+    "senses": [
+     {
+      "sense": "laziness",
+      "academic": "paresse",
+      "children": "paresse",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T124",
+    "senses": [
+     {
+      "sense": "antidote",
+      "academic": "antidote",
+      "children": "remède",
+      "note": "Counteragent to the afflictions; 'antidote' standard in French Buddhist works."
+     }
+    ]
+   },
+   {
+    "term_id": "T125",
+    "senses": [
+     {
+      "sense": "sūtra",
+      "academic": "sūtra",
+      "children": "texte d'enseignement",
+      "note": "Loanword kept in academic register; plain gloss for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T126",
+    "senses": [
+     {
+      "sense": "permanent",
+      "academic": "permanent",
+      "children": "qui dure toujours",
+      "note": "Adjective; children get plain 'lasting forever' phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T127",
+    "senses": [
+     {
+      "sense": "fame, renown",
+      "academic": "renommée",
+      "children": "renommée",
+      "note": "Same rendering both registers, as in English."
+     },
+     {
+      "sense": "common usage",
+      "academic": "convention",
+      "children": "usage courant",
+      "note": "Sense of prasiddhi: everyday convention or usage."
+     }
+    ]
+   },
+   {
+    "term_id": "T128",
+    "senses": [
+     {
+      "sense": "envy",
+      "academic": "envie",
+      "children": "jalousie",
+      "note": "Academic 'envie' mirrors envy; children get 'jalousie'."
+     }
+    ]
+   },
+   {
+    "term_id": "T129",
+    "senses": [
+     {
+      "sense": "despondency",
+      "academic": "abattement",
+      "children": "découragement",
+      "note": "Loss of heart; 'abattement' precise academic choice."
+     }
+    ]
+   },
+   {
+    "term_id": "T130",
+    "senses": [
+     {
+      "sense": "solitude",
+      "academic": "solitude",
+      "children": "solitude",
+      "note": "Physical and mental seclusion; same word both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T131",
+    "senses": [
+     {
+      "sense": "lifetime",
+      "academic": "existence",
+      "children": "vie",
+      "note": "One lifetime within saṃsāra; standard French 'existence'."
+     }
+    ]
+   },
+   {
+    "term_id": "T132",
+    "senses": [
+     {
+      "sense": "sandalwood",
+      "academic": "bois de santal",
+      "children": "bois de santal",
+      "note": "Everyday French for the fragrant wood; both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T133",
+    "senses": [
+     {
+      "sense": "conceptualization",
+      "academic": "pensée conceptuelle",
+      "children": "pensées agitées",
+      "note": "Discursive thought (vikalpa); children get 'busy thinking'."
+     }
+    ]
+   },
+   {
+    "term_id": "T134",
+    "senses": [
+     {
+      "sense": "continuous stream of mind or person",
+      "academic": "continuum",
+      "children": "flux continu",
+      "note": "Mind-stream; 'continuum' established in French Buddhist studies."
+     }
+    ]
+   },
+   {
+    "term_id": "T135",
+    "senses": [
+     {
+      "sense": "accomplished meditator",
+      "academic": "yogi",
+      "children": "maître de la méditation",
+      "note": "Loanword for scholars; plain descriptive phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T136",
+    "senses": [
+     {
+      "sense": "emptiness",
+      "academic": "vacuité",
+      "children": "vacuité",
+      "note": "Established French for śūnyatā; English keeps one word for both."
+     }
+    ]
+   },
+   {
+    "term_id": "T137",
+    "senses": [
+     {
+      "sense": "consciousness",
+      "academic": "conscience",
+      "children": "conscience",
+      "note": "Awareness, not wisdom; same word both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T138",
+    "senses": [
+     {
+      "sense": "dream",
+      "academic": "rêve",
+      "children": "rêve",
+      "note": "Everyday word; same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T139",
+    "senses": [
+     {
+      "sense": "analysis",
+      "academic": "analyse",
+      "children": "réflexion attentive",
+      "note": "Analytical examination; children get 'careful thinking'."
+     }
+    ]
+   },
+   {
+    "term_id": "T140",
+    "senses": [
+     {
+      "sense": "in saṃsāra",
+      "academic": "saṃsāra",
+      "children": "cycle des renaissances",
+      "note": "Reuses fixed rendering of saṃsāra."
+     },
+     {
+      "sense": "retinue",
+      "academic": "suite",
+      "children": "accompagnants",
+      "note": "Distinct sense: entourage; 'suite' is the academic term."
+     }
+    ]
+   },
+   {
+    "term_id": "T141",
+    "senses": [
+     {
+      "sense": "heedlessness",
+      "academic": "manque de vigilance",
+      "children": "inattention",
+      "note": "Opposite of apramāda (T121); mirrors its rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T142",
+    "senses": [
+     {
+      "sense": "ocean of good qualities",
+      "academic": "océan de bonnes qualités",
+      "children": "océan de bonnes qualités",
+      "note": "Compound reusing fixed 'bonne qualité'; same both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T143",
+    "senses": [
+     {
+      "sense": "Victor",
+      "academic": "Victorieux",
+      "children": "le Victorieux",
+      "note": "Epithet of the Buddha; reuses fixed rendering of jina."
+     }
+    ]
+   },
+   {
+    "term_id": "T144",
+    "senses": [
+     {
+      "sense": "lotus",
+      "academic": "lotus",
+      "children": "lotus",
+      "note": "Everyday word; same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T145",
+    "senses": [
+     {
+      "sense": "stūpa, shrine",
+      "academic": "stūpa",
+      "children": "sanctuaire",
+      "note": "Caitya as reliquary monument; plain 'sanctuaire' for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T146",
+    "senses": [
+     {
+      "sense": "pay homage",
+      "academic": "rendre hommage",
+      "children": "s'incliner",
+      "note": "Verb in head form; children get 'bow down'."
+     }
+    ]
+   },
+   {
+    "term_id": "T147",
+    "senses": [
+     {
+      "sense": "Guide",
+      "academic": "Guide",
+      "children": "Guide",
+      "note": "Epithet of the Buddha; same word both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T148",
+    "senses": [
+     {
+      "sense": "messenger of Yama",
+      "academic": "messager de Yama",
+      "children": "messager de Yama",
+      "note": "Yama, lord of death, kept in standard form."
+     }
+    ]
+   },
+   {
+    "term_id": "T149",
+    "senses": [
+     {
+      "sense": "impermanent",
+      "academic": "impermanent",
+      "children": "qui ne dure pas",
+      "note": "Opposite of T126; children get 'not lasting'."
+     }
+    ]
+   },
+   {
+    "term_id": "T150",
+    "senses": [
+     {
+      "sense": "rejoicing in virtue",
+      "academic": "se réjouir",
+      "children": "se réjouir",
+      "note": "Rejoicing in others' merit; verb head form both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T151",
+    "senses": [
+     {
+      "sense": "protector, saviour",
+      "academic": "Sauveur",
+      "children": "Protecteur",
+      "note": "Epithet of the Buddha; capitalized in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T152",
+    "senses": [
+     {
+      "sense": "nirvana",
+      "academic": "nirvāṇa",
+      "children": "libération de la souffrance",
+      "note": "Children's phrase uses fixed 'souffrance' for duḥkha."
+     }
+    ]
+   },
+   {
+    "term_id": "T153",
+    "senses": [
+     {
+      "sense": "family",
+      "academic": "famille",
+      "children": "famille",
+      "note": "Also spiritual family or lineage; everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T154",
+    "senses": [
+     {
+      "sense": "hungry ghost",
+      "academic": "preta",
+      "children": "fantôme affamé",
+      "note": "Loanword in academic use; plain gloss for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T155",
+    "senses": [
+     {
+      "sense": "bodhisattva ground",
+      "academic": "terre",
+      "children": "étape",
+      "note": "Bhūmi as bodhisattva level; 'terre' is the French technical term."
+     },
+     {
+      "sense": "earth (element)",
+      "academic": "terre",
+      "children": "terre",
+      "note": "Earth element; everyday word both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T156",
+    "senses": [
+     {
+      "sense": "mantra",
+      "academic": "mantra",
+      "children": "formule sacrée",
+      "note": "Loanword for scholars; 'sacred words' phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T157",
+    "senses": [
+     {
+      "sense": "craving",
+      "academic": "désir ardent",
+      "children": "envie",
+      "note": "Tṛṣṇā, thirst-like craving; children get plain 'wanting'."
+     }
+    ]
+   },
+   {
+    "term_id": "T158",
+    "senses": [
+     {
+      "sense": "perfection of generosity",
+      "academic": "perfection de la générosité",
+      "children": "perfection du don",
+      "note": "Compound reusing fixed 'perfection' (pāramitā, T159)."
+     }
+    ]
+   },
+   {
+    "term_id": "T159",
+    "senses": [
+     {
+      "sense": "perfection",
+      "academic": "perfection",
+      "children": "perfection",
+      "note": "Established French for pāramitā; same both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T160",
+    "senses": [
+     {
+      "sense": "self-mastery",
+      "academic": "maîtrise de soi",
+      "children": "se maîtriser",
+      "note": "Control over oneself; children get plain verb phrase."
+     },
+     {
+      "sense": "independence",
+      "academic": "indépendance",
+      "children": "indépendance",
+      "note": "Distinct sense: independence; same both registers."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 5821,
+  "output": 2475,
+  "thinking": 4765,
+  "cache_read": 0,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 125.57,
+ "attempt": 1
+}

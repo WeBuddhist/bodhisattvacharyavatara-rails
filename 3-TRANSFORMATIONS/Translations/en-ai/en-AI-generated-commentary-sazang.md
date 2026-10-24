@@ -1,5 +1,6 @@
 ---
-title: "AI-generated Translation of Sazang Mati Panchen Lodro Gyaltsen's Commentary on the Bodhisattvacaryāvatāra (Chapters 0 & 1)"
+title: "AI-generated Translation of Sazang Mati Panchen Lodro Gyaltsen's Commentary on the Bodhisattvacaryāvatāra (Chapters 0 & 1) — AI translation"
+ai_generated: true
 source_language: bo
 target_language: en
 status: ai-generated
@@ -11,7 +12,7 @@ referenced_files:
 created_at: 2026-05-28
 ---
 
-# Commentary on the Bodhisattvacaryāvatāra: Brilliant Illumination of the Meaning of the Text
+# Commentary on the Bodhisattvacaryāvatāra: Brilliant Illumination of the Meaning of the Text — AI translation
 ### By Sazang Mati Panchen Lodro Gyaltsen (ས་བཟང་མ་ཏི་པཎ་ཆེན་བློ་གྲོས་རྒྱལ་མཚན།)
 
 ---

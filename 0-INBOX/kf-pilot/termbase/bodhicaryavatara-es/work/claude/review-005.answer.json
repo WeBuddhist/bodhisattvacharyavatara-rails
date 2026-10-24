@@ -1,0 +1,109 @@
+{
+"objections": [
+{
+"term_id": "T493",
+"sense": "supreme good quality",
+"field": "children",
+"proposed": "la mejor cualidad",
+"reason": "'la mejor buena cualidad' is clumsy and repeats 'buena'."
+},
+{
+"term_id": "T504",
+"sense": "idleness",
+"field": "children",
+"proposed": "no hacer nada",
+"reason": "'pereza' is already the rendering of ālasya (T123); avyāpāra (snyom las) is idleness, not laziness."
+},
+{
+"term_id": "T508",
+"sense": "exchange of self and others",
+"field": "academic",
+"proposed": "intercambio del yo con los demás",
+"reason": "Same Sanskrit as T582, which has a different wording; use one rendering for both."
+},
+{
+"term_id": "T517",
+"sense": "relinquishment",
+"field": "academic",
+"proposed": "desprendimiento",
+"reason": "'renuncia' is too close to 'renunciación' (niḥsāra, T456); use desprendimiento as for tyāga (T398)."
+},
+{
+"term_id": "T518",
+"sense": "relinquishment",
+"field": "academic",
+"proposed": "desprendimiento",
+"reason": "'renuncia' is too close to 'renunciación' (niḥsāra, T456); use desprendimiento as for tyāga (T398)."
+},
+{
+"term_id": "T537",
+"sense": "lethargy",
+"field": "children",
+"proposed": "pesadez",
+"reason": "'pereza' is already used for ālasya (T123) and avyāpāra; sluggishness is heaviness of mind, not laziness."
+},
+{
+"term_id": "T545",
+"sense": "mind of disillusionment",
+"field": "academic",
+"proposed": "mente de desencanto",
+"reason": "Same saṃvega as T483, which uses 'desencanto'; 'desilusión' means disappointment in Spanish."
+},
+{
+"term_id": "T552",
+"sense": "praise",
+"field": "academic",
+"proposed": "alabanza",
+"reason": "T480 (stuti, praise) uses 'alabanza'; 'elogio' is inconsistent for the same English term."
+},
+{
+"term_id": "T552",
+"sense": "praise",
+"field": "children",
+"proposed": "alabanza",
+"reason": "'halago' means flattery, a negative sense; use 'alabanza' as in T480."
+},
+{
+"term_id": "T582",
+"sense": "exchange of self and others",
+"field": "academic",
+"proposed": "intercambio del yo con los demás",
+"reason": "Same Sanskrit as T508; unify wording ('uno mismo' vs 'yo' and 'cambio' vs 'intercambio')."
+},
+{
+"term_id": "T582",
+"sense": "exchange of self and others",
+"field": "children",
+"proposed": "cambiar el yo por los demás",
+"reason": "Same Sanskrit as T508; unify wording."
+},
+{
+"term_id": "T588",
+"sense": "next world",
+"field": "children",
+"proposed": "la vida siguiente",
+"reason": "'el otro mundo' idiomatically means the afterlife or death and may frighten children; English is 'next life' (cf. T473)."
+},
+{
+"term_id": "T594",
+"sense": "grasping as \"I\"",
+"field": "academic",
+"proposed": "aferramiento como «yo»",
+"reason": "'aprehensión' suggests fear or arrest in Spanish; 'dzin pa (grasping) is rendered 'aferramiento' in T579."
+},
+{
+"term_id": "T596",
+"sense": "grasping at self",
+"field": "academic",
+"proposed": "aferramiento al yo",
+"reason": "'aprehensión' suggests fear or arrest in Spanish; use 'aferramiento', as in T579."
+},
+{
+"term_id": "T598",
+"sense": "obscuration",
+"field": "academic",
+"proposed": "oscurecimiento",
+"reason": "'oscurecimiento' is the preferred spelling and is already used in T642; unify spelling."
+}
+]
+}

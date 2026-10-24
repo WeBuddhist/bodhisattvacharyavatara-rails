@@ -1,0 +1,462 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T201",
+    "senses": [
+     {
+      "sense": "three times",
+      "academic": "tre tempi",
+      "children": "passato, presente e futuro",
+      "note": "Established Buddhist term; children get the explicit expansion past, present, future."
+     }
+    ]
+   },
+   {
+    "term_id": "T202",
+    "senses": [
+     {
+      "sense": "master (teacher)",
+      "academic": "maestro",
+      "children": "insegnante",
+      "note": "Standard Italian for ācārya; everyday school word for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T203",
+    "senses": [
+     {
+      "sense": "great compassion",
+      "academic": "grande compassione",
+      "children": "grande compassione",
+      "note": "Same simple phrase works in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T204",
+    "senses": [
+     {
+      "sense": "Three Jewels",
+      "academic": "Tre Gioielli",
+      "children": "Tre Gioielli",
+      "note": "Standard Italian rendering of the Buddhist refuge formula."
+     }
+    ]
+   },
+   {
+    "term_id": "T205",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Samantabhadra",
+      "children": "Samantabhadra",
+      "note": "Proper name kept in standard Sanskrit form for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T206",
+    "senses": [
+     {
+      "sense": "Mañjuśrī",
+      "academic": "Mañjuśrī",
+      "children": "Manjushri",
+      "note": "Academic keeps diacritics; children get simplified phonetic spelling."
+     }
+    ]
+   },
+   {
+    "term_id": "T207",
+    "senses": [
+     {
+      "sense": "Avalokiteśvara",
+      "academic": "Avalokiteśvara",
+      "children": "Avalokiteshvara",
+      "note": "Academic keeps diacritics; children get simplified spelling."
+     }
+    ]
+   },
+   {
+    "term_id": "T208",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Ākāśagarbha",
+      "children": "Akashagarbha",
+      "note": "Academic keeps diacritics; children get simplified spelling."
+     }
+    ]
+   },
+   {
+    "term_id": "T209",
+    "senses": [
+     {
+      "sense": "omniscient",
+      "academic": "onnisciente",
+      "children": "che sa tutto",
+      "note": "Technical adjective versus plain everyday phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T210",
+    "senses": [
+     {
+      "sense": "awakening mind",
+      "academic": "bodhicitta",
+      "children": "mente del risveglio",
+      "note": "Reuses the fixed rendering already chosen for bodhicitta."
+     }
+    ]
+   },
+   {
+    "term_id": "T211",
+    "senses": [
+     {
+      "sense": "pass into nirvāṇa",
+      "academic": "nirvāṇa",
+      "children": "libertà dal dolore",
+      "note": "Sanskrit term kept academically; children get plain paraphrase matching English."
+     }
+    ]
+   },
+   {
+    "term_id": "T212",
+    "senses": [
+     {
+      "sense": "countless eon",
+      "academic": "innumerevoli eoni",
+      "children": "innumerevoli grandi epoche",
+      "note": "Reuses fixed eone and grande epoca in plural form."
+     }
+    ]
+   },
+   {
+    "term_id": "T213",
+    "senses": [
+     {
+      "sense": "inexhaustible treasure",
+      "academic": "tesoro inesauribile",
+      "children": "tesoro che non finisce mai",
+      "note": "Children's version says 'treasure that never runs out' in everyday words."
+     }
+    ]
+   },
+   {
+    "term_id": "T214",
+    "senses": [
+     {
+      "sense": "path",
+      "academic": "via",
+      "children": "sentiero",
+      "note": "Academic matches the title's via; children get the everyday word sentiero."
+     }
+    ]
+   },
+   {
+    "term_id": "T215",
+    "senses": [
+     {
+      "sense": "asura",
+      "academic": "asura",
+      "children": "semidio",
+      "note": "Class name kept academically; children get plain equivalent demigod."
+     }
+    ]
+   },
+   {
+    "term_id": "T216",
+    "senses": [
+     {
+      "sense": "striving",
+      "academic": "diligenza",
+      "children": "impegno",
+      "note": "Academic virtue term; children get everyday word for effort."
+     }
+    ]
+   },
+   {
+    "term_id": "T217",
+    "senses": [
+     {
+      "sense": "faith",
+      "academic": "fede",
+      "children": "fiducia",
+      "note": "Standard renderings of śraddhā in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T218",
+    "senses": [
+     {
+      "sense": "human body",
+      "academic": "corpo umano",
+      "children": "corpo umano",
+      "note": "Plain compound reusing fixed corpo."
+     }
+    ]
+   },
+   {
+    "term_id": "T219",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Beato",
+      "children": "Beato",
+      "note": "Established Italian epithet for Bhagavān in sutra translations."
+     }
+    ]
+   },
+   {
+    "term_id": "T220",
+    "senses": [
+     {
+      "sense": "liberation",
+      "academic": "liberazione",
+      "children": "libertà",
+      "note": "Standard term vimokṣa; children get everyday freedom."
+     },
+     {
+      "sense": "life story of a saint",
+      "academic": "storia di liberazione",
+      "children": "storia di vita",
+      "note": "Genre term (Tibetan rnam thar); children get plain life story."
+     }
+    ]
+   },
+   {
+    "term_id": "T221",
+    "senses": [
+     {
+      "sense": "leisure",
+      "academic": "agio",
+      "children": "libertà di praticare",
+      "note": "Academic agio as in 'agio e dotazione'; children paraphrase freedom to practice."
+     }
+    ]
+   },
+   {
+    "term_id": "T222",
+    "senses": [
+     {
+      "sense": "Mount Meru",
+      "academic": "monte Meru",
+      "children": "monte Meru",
+      "note": "Standard Italian form of the sacred mountain's name."
+     }
+    ]
+   },
+   {
+    "term_id": "T223",
+    "senses": [
+     {
+      "sense": "ten directions",
+      "academic": "dieci direzioni",
+      "children": "dieci direzioni",
+      "note": "Identical phrase suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T224",
+    "senses": [
+     {
+      "sense": "illusion",
+      "academic": "illusione",
+      "children": "illusione",
+      "note": "Reuses the fixed rendering for māyā."
+     }
+    ]
+   },
+   {
+    "term_id": "T225",
+    "senses": [
+     {
+      "sense": "sense object",
+      "academic": "oggetto sensoriale",
+      "children": "cosa che percepiamo",
+      "note": "Technical term versus plain phrase for things perceived by the senses."
+     }
+    ]
+   },
+   {
+    "term_id": "T226",
+    "senses": [
+     {
+      "sense": "elephant of the mind",
+      "academic": "elefante della mente",
+      "children": "elefante della mente",
+      "note": "Image is vivid and clear in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T227",
+    "senses": [
+     {
+      "sense": "rākṣasa",
+      "academic": "rākṣasa",
+      "children": "demone",
+      "note": "Sanskrit class name kept academically; children get everyday demon."
+     }
+    ]
+   },
+   {
+    "term_id": "T228",
+    "senses": [
+     {
+      "sense": "hell of sentient beings",
+      "academic": "inferno degli esseri senzienti",
+      "children": "inferno degli esseri viventi",
+      "note": "Compound reusing fixed inferno and essere senziente/vivente."
+     }
+    ]
+   },
+   {
+    "term_id": "T229",
+    "senses": [
+     {
+      "sense": "three worlds",
+      "academic": "tre mondi",
+      "children": "tre mondi",
+      "note": "Identical phrase suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T230",
+    "senses": [
+     {
+      "sense": "recitation",
+      "academic": "recitazione",
+      "children": "recitazione",
+      "note": "Standard term for japa in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T231",
+    "senses": [
+     {
+      "sense": "wound of the mind",
+      "academic": "ferita della mente",
+      "children": "ferita della mente",
+      "note": "Image is equally clear in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T232",
+    "senses": [
+     {
+      "sense": "name of a hell",
+      "academic": "inferno dello Schiacciamento",
+      "children": "inferno che schiaccia",
+      "note": "Descriptive translation of Saṃghāta; children get a plain verbal phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T233",
+    "senses": [
+     {
+      "sense": "gateway of the mind",
+      "academic": "porta della mente",
+      "children": "porta della mente",
+      "note": "Porta naturally covers both gateway and door in Italian."
+     }
+    ]
+   },
+   {
+    "term_id": "T234",
+    "senses": [
+     {
+      "sense": "agitation",
+      "academic": "agitazione",
+      "children": "irrequietezza",
+      "note": "Technical term versus everyday word for restlessness."
+     }
+    ]
+   },
+   {
+    "term_id": "T235",
+    "senses": [
+     {
+      "sense": "self-praise",
+      "academic": "lode di sé",
+      "children": "lodare se stessi",
+      "note": "Nominal head form academically; plain verbal phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T236",
+    "senses": [
+     {
+      "sense": "disparagement of others",
+      "academic": "denigrazione altrui",
+      "children": "sminuire gli altri",
+      "note": "Formal term versus everyday phrase for putting others down."
+     }
+    ]
+   },
+   {
+    "term_id": "T237",
+    "senses": [
+     {
+      "sense": "guarding introspection",
+      "academic": "custodia dell'introspezione",
+      "children": "custodire la vigilanza",
+      "note": "Key term of chapter five; children get plain guarding of watchfulness."
+     }
+    ]
+   },
+   {
+    "term_id": "T238",
+    "senses": [
+     {
+      "sense": "meditation",
+      "academic": "meditazione",
+      "children": "meditazione",
+      "note": "Same familiar word serves both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T239",
+    "senses": [
+     {
+      "sense": "peace",
+      "academic": "pace",
+      "children": "pace",
+      "note": "Same everyday word serves both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T240",
+    "senses": [
+     {
+      "sense": "mental unhappiness",
+      "academic": "infelicità mentale",
+      "children": "tristezza",
+      "note": "Technical specification versus everyday sadness; sofferenza reserved for duḥkha."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4117,
+  "output": 2407,
+  "thinking": 5313,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 151.04,
+ "attempt": 1
+}

@@ -1,0 +1,207 @@
+{
+ "objections": [
+  {
+   "term_id": "T121",
+   "sense": "heedfulness",
+   "field": "academic",
+   "proposed": "tahadhari",
+   "reason": "'ukadilifu' is not an established Swahili word; 'tahadhari' (vigilance, care) fits apramāda."
+  },
+  {
+   "term_id": "T121",
+   "sense": "heedfulness",
+   "field": "children",
+   "proposed": "kuwa mwangalifu",
+   "reason": "'kuwa makini' is also used for saṃprajanya (T047, watchfulness); two different terms must differ."
+  },
+  {
+   "term_id": "T122",
+   "sense": "austerity",
+   "field": "academic",
+   "proposed": "kujinyima",
+   "reason": "'kujifunga' means to tie or confine oneself, not austerity; 'kujinyima' is self-denial, the sense of tapas."
+  },
+  {
+   "term_id": "T130",
+   "sense": "solitude",
+   "field": "academic",
+   "proposed": "faragha",
+   "reason": "'upekee' means uniqueness, not solitude; 'faragha' (seclusion, solitude) fits viveka."
+  },
+  {
+   "term_id": "T132",
+   "sense": "sandalwood",
+   "field": "academic",
+   "proposed": "msandali",
+   "reason": "'sandali' means a sandal (footwear); sandalwood is 'msandali'."
+  },
+  {
+   "term_id": "T132",
+   "sense": "sandalwood",
+   "field": "children",
+   "proposed": "msandali",
+   "reason": "'sandali' means a sandal (footwear); sandalwood is 'msandali'."
+  },
+  {
+   "term_id": "T134",
+   "sense": "continuous stream of mind or person",
+   "field": "children",
+   "proposed": "mtiririko unaoendelea",
+   "reason": "'tiririko' is not the standard noun; 'mtiririko' (flow), as already used in T185."
+  },
+  {
+   "term_id": "T137",
+   "sense": "consciousness",
+   "field": "children",
+   "proposed": "kufahamu",
+   "reason": "Same English 'awareness' rendered 'kufahamu' in T050 and T187; keep consistent."
+  },
+  {
+   "term_id": "T146",
+   "sense": "pay homage",
+   "field": "children",
+   "proposed": "kuinama",
+   "reason": "'kupiga magoti' means to kneel; the approved English is 'bow down', which is 'kuinama'."
+  },
+  {
+   "term_id": "T150",
+   "sense": "rejoicing in virtue",
+   "field": "academic",
+   "proposed": "kufurahia fadhila",
+   "reason": "'kufurahi' does not take a direct object; 'kufurahia' (rejoice in) is grammatical."
+  },
+  {
+   "term_id": "T151",
+   "sense": "protector, saviour",
+   "field": "academic",
+   "proposed": "Mwokozi",
+   "reason": "'Mokozi' is a misspelling; the Swahili word for Saviour is 'Mwokozi'."
+  },
+  {
+   "term_id": "T155",
+   "sense": "earth (element)",
+   "field": "academic",
+   "proposed": "ardhi",
+   "reason": "'udongo' means soil; the earth element is better 'ardhi', matching the children's field."
+  },
+  {
+   "term_id": "T157",
+   "sense": "craving",
+   "field": "children",
+   "proposed": "kutaka sana",
+   "reason": "Same tṛṣṇā and English 'wanting' as T081, which uses 'kutaka sana'; keep consistent."
+  },
+  {
+   "term_id": "T168",
+   "sense": "own interest",
+   "field": "academic",
+   "proposed": "maslahi ya nafsi",
+   "reason": "Same svārtha and English 'own welfare' as T064, rendered 'maslahi ya nafsi'; keep consistent."
+  },
+  {
+   "term_id": "T168",
+   "sense": "own interest",
+   "field": "children",
+   "proposed": "wema wa nafsi",
+   "reason": "Same svārtha and English 'own good' as T064, rendered 'wema wa nafsi'; keep consistent."
+  },
+  {
+   "term_id": "T169",
+   "sense": "epithet of the Buddha",
+   "field": "academic",
+   "proposed": "Mwenye Hekima",
+   "reason": "Same muni/thub pa and English 'Sage' as T044, rendered 'Mwenye Hekima'; keep consistent."
+  },
+  {
+   "term_id": "T169",
+   "sense": "epithet of the Buddha",
+   "field": "children",
+   "proposed": "Mwenye Hekima",
+   "reason": "Same muni/thub pa and English 'Sage' as T044; 'Mwanahakima' is inconsistent and not common Swahili."
+  },
+  {
+   "term_id": "T176",
+   "sense": "childish person",
+   "field": "academic",
+   "proposed": "mtu wa kitoto",
+   "reason": "Same bāla as T065 (proposed 'mtu wa kitoto'); 'mjinga' loses 'childish' and clashes with 'ujinga' (ignorance)."
+  },
+  {
+   "term_id": "T177",
+   "sense": "object",
+   "field": "academic",
+   "proposed": "kitu lengwa",
+   "reason": "'somo' means subject or lesson, not an object of cognition; 'kitu kinachotambuliwa' is used for grāhya (T618)."
+  },
+  {
+   "term_id": "T180",
+   "sense": "impure",
+   "field": "academic",
+   "proposed": "chafu",
+   "reason": "'najisi' denotes Islamic ritual impurity; same Tibetan mi gtsang is 'uchafu' in T066, so 'chafu' is consistent and neutral."
+  },
+  {
+   "term_id": "T188",
+   "sense": "monk",
+   "field": "academic",
+   "proposed": "mmonaki",
+   "reason": "'mmonaji' is not an established word; the Swahili word for monk is 'mmonaki'."
+  },
+  {
+   "term_id": "T188",
+   "sense": "monk",
+   "field": "children",
+   "proposed": "mmonaki",
+   "reason": "'mmonaji' is not an established word; the Swahili word for monk is 'mmonaki'."
+  },
+  {
+   "term_id": "T197",
+   "sense": "aspiring bodhicitta",
+   "field": "children",
+   "proposed": "akili inayotamani mwamko",
+   "reason": "Follows the change of 'awakening' from 'uamsho' (revival) to 'mwamko' (T020)."
+  },
+  {
+   "term_id": "T199",
+   "sense": "chapter 2 title",
+   "field": "academic",
+   "proposed": "Kuungama Vitendo Vibaya",
+   "reason": "'dhambi' (theistic sin) is wrong for pāpa; confession is 'kuungama' in T120 academic, not 'kukiri'."
+  },
+  {
+   "term_id": "T210",
+   "sense": "awakening mind",
+   "field": "children",
+   "proposed": "akili ya mwamko",
+   "reason": "Follows the change of 'awakening' from 'uamsho' (revival) to 'mwamko' (T020)."
+  },
+  {
+   "term_id": "T224",
+   "sense": "illusion",
+   "field": "academic",
+   "proposed": "udanganyifu",
+   "reason": "'maya' is an untranslated Sanskrit loan; approved English is plain 'illusion'. Same as T031."
+  },
+  {
+   "term_id": "T229",
+   "sense": "three worlds",
+   "field": "academic",
+   "proposed": "ulimwengu wa aina tatu",
+   "reason": "'milimwengu' is not a valid plural of 'ulimwengu'; this avoids the plural."
+  },
+  {
+   "term_id": "T149",
+   "sense": "impermanent",
+   "field": "children",
+   "proposed": "isiyodumu",
+   "reason": "'ya muda tu' is also used for T244 (temporary); two different terms must differ. 'isiyodumu' matches T298."
+  },
+  {
+   "term_id": "T141",
+   "sense": "heedlessness",
+   "field": "children",
+   "proposed": "kutokuwa mwangalifu",
+   "reason": "Antonym of apramāda children 'kuwa mwangalifu' (T121); 'kutokuwa makini' is the watchfulness (T047) family."
+  }
+ ]
+}

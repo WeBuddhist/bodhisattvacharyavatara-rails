@@ -1,0 +1,101 @@
+{
+ "parsed": {
+  "objections": [
+   {
+    "term_id": "T492",
+    "sense": "perfection of excellence",
+    "field": "children",
+    "proposed": "perfeição da excelência",
+    "reason": "\"excelência perfeita\" inverts the structure; other pāramitā entries (T158, T399) use \"perfeição de/da ...\", so children and academic should match."
+   },
+   {
+    "term_id": "T504",
+    "sense": "idleness",
+    "field": "children",
+    "proposed": "ficar à toa",
+    "reason": "\"preguiça\" is already the children's rendering of ālasya (T123) and T537; idleness (snyom las) needs a distinct simple rendering."
+   },
+   {
+    "term_id": "T509",
+    "sense": "Speaker of Truth",
+    "field": "children",
+    "proposed": "Aquele que Diz a Verdade",
+    "reason": "Epithet capitalized and phrased as in T396 (\"Aquele que Diz a Verdade\"); the lowercase \"fala\" version is inconsistent."
+   },
+   {
+    "term_id": "T514",
+    "sense": "ocean of merit",
+    "field": "children",
+    "proposed": "oceano de reservas de bondade",
+    "reason": "\"oceano de reserva de bondade\" is ungrammatical (singular \"reserva\" after \"oceano de\"); the plural reads naturally and keeps the puṇya rendering."
+   },
+   {
+    "term_id": "T517",
+    "sense": "relinquishment",
+    "field": "academic",
+    "proposed": "desprendimento",
+    "reason": "\"renúncia\" is already used for niḥsāra/nges 'byung (T456) and tyāga is \"desprendimento\" in T398; two different terms must not share one rendering."
+   },
+   {
+    "term_id": "T518",
+    "sense": "relinquishment",
+    "field": "academic",
+    "proposed": "desprendimento",
+    "reason": "Same Sanskrit tyāga as T398 (\"desprendimento\"); \"renúncia\" duplicates the rendering of niḥsāra (T456)."
+   },
+   {
+    "term_id": "T537",
+    "sense": "lethargy",
+    "field": "children",
+    "proposed": "moleza",
+    "reason": "\"preguiça\" is already the children's rendering of ālasya (T123); lethargy/sluggishness needs a distinct simple word."
+   },
+   {
+    "term_id": "T539",
+    "sense": "concentration",
+    "field": "children",
+    "proposed": "foco profundo",
+    "reason": "Same term ting 'dzin as T414, whose children rendering is \"foco profundo\" (matching English \"deep focus\"); \"concentração profunda\" is inconsistent and harder."
+   },
+   {
+    "term_id": "T543",
+    "sense": "non-attachment",
+    "field": "academic",
+    "proposed": "não-apego",
+    "reason": "The draft hyphenates negated abstract terms (não-virtude, não-entidade, não-conhecimento, não-apreensão); \"não apego\" is inconsistent."
+   },
+   {
+    "term_id": "T582",
+    "sense": "exchange of self and others",
+    "field": "children",
+    "proposed": "trocar de lugar com os outros",
+    "reason": "Same term as T508, whose children rendering is simple and consistent; \"troca entre si e os outros\" is too abstract for readers aged 8 to 12."
+   },
+   {
+    "term_id": "T594",
+    "sense": "grasping as \"I\"",
+    "field": "academic",
+    "proposed": "agarramento como \"eu\"",
+    "reason": "\"apreensão\" also means worry and duplicates ālambana (T286); 'dzin pa/grasping is rendered \"agarramento\" (T579)."
+   },
+   {
+    "term_id": "T596",
+    "sense": "grasping at self",
+    "field": "academic",
+    "proposed": "agarramento ao eu",
+    "reason": "\"apreensão\" also means worry and duplicates ālambana (T286); bdag tu 'dzin pa is rendered \"agarramento ao eu\" in T579."
+   },
+   {
+    "term_id": "T600",
+    "sense": "title of chapter 8",
+    "field": "children",
+    "proposed": "Foco Tranquilo",
+    "reason": "Dhyāna children rendering in T173 is \"foco tranquilo\"; \"Foco Calmo\" is inconsistent."
+   }
+  ]
+ },
+ "tokens": {},
+ "model": "claude-sonnet-5-5",
+ "seconds": null,
+ "attempt": 1
+}

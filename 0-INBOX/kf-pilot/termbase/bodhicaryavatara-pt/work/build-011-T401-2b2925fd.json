@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T401",
+    "senses": [
+     {
+      "sense": "mind of anger",
+      "academic": "mente de raiva",
+      "children": "mente com raiva",
+      "note": "Compound reusing fixed renderings for anger (raiva) and mind (mente)."
+     }
+    ]
+   },
+   {
+    "term_id": "T402",
+    "senses": [
+     {
+      "sense": "external entity",
+      "academic": "entidade externa",
+      "children": "coisa de fora",
+      "note": "Reuses fixed entity renderings: entidade / coisa."
+     }
+    ]
+   },
+   {
+    "term_id": "T403",
+    "senses": [
+     {
+      "sense": "Brahmā",
+      "academic": "Brahmā",
+      "children": "Bramá",
+      "note": "Standard Brazilian spelling Bramá used for children; diacritic form for scholars."
+     }
+    ]
+   },
+   {
+    "term_id": "T404",
+    "senses": [
+     {
+      "sense": "clear mind",
+      "academic": "mente clara",
+      "children": "mente clara",
+      "note": "English gives identical label for both registers, so renderings match."
+     }
+    ]
+   },
+   {
+    "term_id": "T405",
+    "senses": [
+     {
+      "sense": "body and speech",
+      "academic": "corpo e fala",
+      "children": "corpo e palavras",
+      "note": "Academic uses established Buddhist triad term fala (corpo, fala e mente)."
+     }
+    ]
+   },
+   {
+    "term_id": "T406",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Conhecedor da Realidade",
+      "children": "Aquele que sabe como as coisas são de verdade",
+      "note": "Epithet capitalized in academic register; plain descriptive phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T407",
+    "senses": [
+     {
+      "sense": "secret of the mind",
+      "academic": "segredo da mente",
+      "children": "segredo da mente",
+      "note": "Identical English labels; simple wording suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T408",
+    "senses": [
+     {
+      "sense": "guarding the mind",
+      "academic": "guarda da mente",
+      "children": "guarda da mente",
+      "note": "Noun phrase in head form; same rendering both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T409",
+    "senses": [
+     {
+      "sense": "name of a hell",
+      "academic": "inferno Destruidor",
+      "children": "inferno Destruidor",
+      "note": "Proper name of a hell; reuses fixed inferno."
+     }
+    ]
+   },
+   {
+    "term_id": "T410",
+    "senses": [
+     {
+      "sense": "practitioner of restraint",
+      "academic": "praticante da contenção",
+      "children": "pessoa que se controla",
+      "note": "Yati as one who practices restraint; plain everyday phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T411",
+    "senses": [
+     {
+      "sense": "recollection of the Buddha",
+      "academic": "recordação do Buda",
+      "children": "lembrar do Buda",
+      "note": "Established anusmṛti as recordação; reuses fixed Buda."
+     }
+    ]
+   },
+   {
+    "term_id": "T412",
+    "senses": [
+     {
+      "sense": "shame",
+      "academic": "vergonha",
+      "children": "vergonha",
+      "note": "Kept distinct from sense of shame (pudor) at T431."
+     }
+    ]
+   },
+   {
+    "term_id": "T413",
+    "senses": [
+     {
+      "sense": "mad elephant of the mind",
+      "academic": "elefante enlouquecido da mente",
+      "children": "elefante doido da mente",
+      "note": "Metaphor preserved; doido is the everyday child-friendly word."
+     }
+    ]
+   },
+   {
+    "term_id": "T414",
+    "senses": [
+     {
+      "sense": "concentration",
+      "academic": "concentração",
+      "children": "foco profundo",
+      "note": "Children's phrase mirrors English deep focus."
+     }
+    ]
+   },
+   {
+    "term_id": "T415",
+    "senses": [
+     {
+      "sense": "moment",
+      "academic": "instante",
+      "children": "momento",
+      "note": "Instante conveys the technical kṣaṇa; momento is everyday speech."
+     }
+    ]
+   },
+   {
+    "term_id": "T416",
+    "senses": [
+     {
+      "sense": "equanimity",
+      "academic": "equanimidade",
+      "children": "mente equilibrada",
+      "note": "Children's phrase reflects even-mindedness."
+     }
+    ]
+   },
+   {
+    "term_id": "T417",
+    "senses": [
+     {
+      "sense": "secondary affliction",
+      "academic": "aflição secundária",
+      "children": "emoção perturbadora secundária",
+      "note": "Reuses fixed affliction renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T418",
+    "senses": [
+     {
+      "sense": "mockery",
+      "academic": "escárnio",
+      "children": "zombaria",
+      "note": "Escárnio is the formal term; zombaria is everyday."
+     }
+    ]
+   },
+   {
+    "term_id": "T419",
+    "senses": [
+     {
+      "sense": "arrogance",
+      "academic": "arrogância",
+      "children": "arrogância",
+      "note": "Kept distinct from fixed pride (orgulho)."
+     }
+    ]
+   },
+   {
+    "term_id": "T420",
+    "senses": [
+     {
+      "sense": "exposing others' faults",
+      "academic": "exposição dos defeitos alheios",
+      "children": "mostrar os defeitos dos outros",
+      "note": "Academic noun phrase; infinitive phrase serves as child-friendly head form."
+     }
+    ]
+   },
+   {
+    "term_id": "T421",
+    "senses": [
+     {
+      "sense": "duplicity",
+      "academic": "duplicidade",
+      "children": "fingimento",
+      "note": "Fingimento captures sneakiness in plain language."
+     }
+    ]
+   },
+   {
+    "term_id": "T422",
+    "senses": [
+     {
+      "sense": "deceptive mind",
+      "academic": "mente enganadora",
+      "children": "mente que engana",
+      "note": "Reuses fixed mente; distinction from T421 kept per English."
+     }
+    ]
+   },
+   {
+    "term_id": "T423",
+    "senses": [
+     {
+      "sense": "regret (variant of )",
+      "academic": "arrependimento",
+      "children": "arrependimento",
+      "note": "Common word understandable to children; same rendering both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T424",
+    "senses": [
+     {
+      "sense": "fame",
+      "academic": "fama",
+      "children": "fama",
+      "note": "Everyday word in Brazilian Portuguese; identical labels."
+     }
+    ]
+   },
+   {
+    "term_id": "T425",
+    "senses": [
+     {
+      "sense": "attendants and retinue",
+      "academic": "séquito e servos",
+      "children": "ajudantes e seguidores",
+      "note": "Children's rendering mirrors helpers and followers."
+     }
+    ]
+   },
+   {
+    "term_id": "T426",
+    "senses": [
+     {
+      "sense": "impatience",
+      "academic": "impaciência",
+      "children": "falta de paciência",
+      "note": "Children's phrase built from fixed paciência."
+     }
+    ]
+   },
+   {
+    "term_id": "T427",
+    "senses": [
+     {
+      "sense": "impudence",
+      "academic": "impudência",
+      "children": "grosseria",
+      "note": "Grosseria matches children's rudeness."
+     }
+    ]
+   },
+   {
+    "term_id": "T428",
+    "senses": [
+     {
+      "sense": "idle chatter",
+      "academic": "tagarelice",
+      "children": "conversa à toa",
+      "note": "Conversa à toa is natural Brazilian everyday usage."
+     }
+    ]
+   },
+   {
+    "term_id": "T429",
+    "senses": [
+     {
+      "sense": "hero",
+      "academic": "herói",
+      "children": "herói",
+      "note": "Consistent with herói in fixed herói do despertar."
+     }
+    ]
+   },
+   {
+    "term_id": "T430",
+    "senses": [
+     {
+      "sense": "excellent faith",
+      "academic": "fé excelente",
+      "children": "confiança profunda",
+      "note": "Children's rendering mirrors deep trust."
+     }
+    ]
+   },
+   {
+    "term_id": "T431",
+    "senses": [
+     {
+      "sense": "sense of shame",
+      "academic": "pudor",
+      "children": "vergonha de fazer coisa errada",
+      "note": "Ethical sense of shame; distinct from plain vergonha at T412."
+     }
+    ]
+   },
+   {
+    "term_id": "T432",
+    "senses": [
+     {
+      "sense": "apprehension, fear of wrongdoing",
+      "academic": "temor",
+      "children": "medo de fazer coisa errada",
+      "note": "Classic pair with pudor; children's phrase mirrors fear of doing wrong."
+     }
+    ]
+   },
+   {
+    "term_id": "T433",
+    "senses": [
+     {
+      "sense": "compassionate one",
+      "academic": "compassivo",
+      "children": "quem tem compaixão",
+      "note": "Epithet as adjective in academic register; plain phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T434",
+    "senses": [
+     {
+      "sense": "blameless",
+      "academic": "irrepreensível",
+      "children": "sem culpa",
+      "note": "Children's phrase mirrors free of blame."
+     }
+    ]
+   },
+   {
+    "term_id": "T435",
+    "senses": [
+     {
+      "sense": "emanation",
+      "academic": "emanação",
+      "children": "criação mágica",
+      "note": "Established term as in corpo de emanação; magical creation for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T436",
+    "senses": [
+     {
+      "sense": "I",
+      "academic": "eu",
+      "children": "eu",
+      "note": "Everyday pronoun; consistent with fixed self (eu)."
+     }
+    ]
+   },
+   {
+    "term_id": "T437",
+    "senses": [
+     {
+      "sense": "supreme leisure",
+      "academic": "lazer supremo",
+      "children": "melhor chance de praticar",
+      "note": "Lazer is established in Brazilian Buddhist usage for kṣaṇa; children's phrase mirrors best chance to practise."
+     }
+    ]
+   },
+   {
+    "term_id": "T438",
+    "senses": [
+     {
+      "sense": "weapon of wisdom",
+      "academic": "arma da sabedoria",
+      "children": "lâmina da sabedoria",
+      "note": "Children's blade of wisdom rendered as lâmina da sabedoria."
+     }
+    ]
+   },
+   {
+    "term_id": "T439",
+    "senses": [
+     {
+      "sense": "human body",
+      "academic": "todo corpo humano",
+      "children": "corpo humano",
+      "note": "Academic keeps the universal quantifier; reuses fixed corpo."
+     }
+    ]
+   },
+   {
+    "term_id": "T440",
+    "senses": [
+     {
+      "sense": "wish-fulfilling",
+      "academic": "realizador de desejos",
+      "children": "que realiza desejos",
+      "note": "Adjectival phrase; translator adapts to the noun it modifies."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4018,
+  "output": 2423,
+  "thinking": 5895,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 95.62,
+ "attempt": 1
+}

@@ -1,0 +1,566 @@
+{
+ "builder": "kimi-k3",
+ "reviewer": "claude-sonnet-5-5",
+ "objections": [
+  {
+   "term_id": "T038",
+   "sense": "delusion",
+   "field": "academic",
+   "proposed": "delusão",
+   "reason": "\"engano\" means mistake or deception in Portuguese; \"delusão\" is the established Buddhist rendering of moha/rmongs pa, and \"ilusão\" is taken by māyā.",
+   "applied": true
+  },
+  {
+   "term_id": "T050",
+   "sense": "consciousness",
+   "field": "children",
+   "proposed": "percepção",
+   "reason": "Same term as T137 (jñāna/shes) whose children rendering is \"percepção\"; \"consciência\" is also used for vijñāna (T187), so two terms collide.",
+   "applied": true
+  },
+  {
+   "term_id": "T053",
+   "sense": "wise person",
+   "field": "academic",
+   "proposed": "pessoa sábia",
+   "reason": "\"sábio\" is identical to muni \"Sábio\" (T044); English approved is \"wise person\", so use \"pessoa sábia\" to keep the two terms distinct.",
+   "applied": true
+  },
+  {
+   "term_id": "T060",
+   "sense": "nirvāṇa",
+   "field": "children",
+   "proposed": "liberdade da tristeza",
+   "reason": "Inconsistent with T152 and T211 for the same term; Tibetan mya ngan means sorrow (T175 \"tristeza\"), and \"sofrimento\" is reserved for duḥkha.",
+   "applied": true
+  },
+  {
+   "term_id": "T065",
+   "sense": "childish person, fool",
+   "field": "academic",
+   "proposed": "pessoa infantil",
+   "reason": "\"ser infantil\" reads as the verb phrase 'to be childish'; a noun phrase is needed, and T176 (same term bāla) uses \"pessoa infantil\".",
+   "applied": true
+  },
+  {
+   "term_id": "T073",
+   "sense": "name of the bodhisattva",
+   "field": "academic",
+   "proposed": "Mañjuśrī",
+   "reason": "Inconsistent with T206 (same figure), which keeps diacritics in the academic field as for other deity names; approved English is Mañjuśrī.",
+   "applied": true
+  },
+  {
+   "term_id": "T081",
+   "sense": "craving",
+   "field": "academic",
+   "proposed": "desejo ardente",
+   "reason": "Inconsistent with T157 (same term tṛṣṇā, \"desejo ardente\"); \"anseio\" can be positive longing, while \"desejo ardente\" conveys craving.",
+   "applied": true
+  },
+  {
+   "term_id": "T083",
+   "sense": "emptiness",
+   "field": "children",
+   "proposed": "vacuidade",
+   "reason": "Inconsistent with T136 (same term śūnyatā, children \"vacuidade\"); \"vazio\" risks a nihilistic reading and the English is identical.",
+   "applied": true
+  },
+  {
+   "term_id": "T084",
+   "sense": "Īśvara",
+   "field": "academic",
+   "proposed": "Īśvara",
+   "reason": "Academic field keeps diacritics for proper names (Pradhāna, Mañjuśrī, Avalokiteśvara); approved English is Īśvara.",
+   "applied": true
+  },
+  {
+   "term_id": "T091",
+   "sense": "spiritual teacher",
+   "field": "children",
+   "proposed": "mestre espiritual",
+   "reason": "\"professor\" suggests a school teacher, not a spiritual teacher, and equals ācārya T202 children; \"mestre espiritual\" is simple and distinct.",
+   "applied": true
+  },
+  {
+   "term_id": "T093",
+   "sense": "Avīci hell",
+   "field": "academic",
+   "proposed": "inferno Avīci",
+   "reason": "Approved English keeps the macron (Avīci) and the academic field keeps diacritics for proper names.",
+   "applied": true
+  },
+  {
+   "term_id": "T114",
+   "sense": "wish-fulfilling tree",
+   "field": "academic",
+   "proposed": "árvore que realiza desejos",
+   "reason": "\"wish-fulfilling\" is rendered \"que realiza desejos\" in T371, T375, T440 and in this entry's children field; \"concede\" is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T116",
+   "sense": "Tathāgata",
+   "field": "children",
+   "proposed": "Assim-Ido",
+   "reason": "Inconsistent with T070 (same term) \"Assim-Ido\" and parallel T052 \"Bem-Ido\"; the long paraphrase breaks the Well-Gone pattern.",
+   "applied": true
+  },
+  {
+   "term_id": "T119",
+   "sense": "accumulation (of merit and wisdom)",
+   "field": "children",
+   "proposed": "bondade acumulada",
+   "reason": "\"reserva de bondade\" is already the children's rendering of puṇya (T007); two different terms must not share one rendering.",
+   "applied": true
+  },
+  {
+   "term_id": "T121",
+   "sense": "heedfulness",
+   "field": "children",
+   "proposed": "cuidado",
+   "reason": "\"atenção\" belongs to smṛti (\"atenção plena\"); \"cuidado\" matches English carefulness and pairs with \"descuido\" for pramāda (T141).",
+   "applied": true
+  },
+  {
+   "term_id": "T130",
+   "sense": "solitude",
+   "field": "children",
+   "proposed": "estar a sós",
+   "reason": "\"solidão\" suggests loneliness and sadness; viveka is peaceful seclusion, which readers aged 8 to 12 would misread.",
+   "applied": true
+  },
+  {
+   "term_id": "T131",
+   "sense": "lifetime",
+   "field": "academic",
+   "proposed": "vida",
+   "reason": "\"existência\" is already the academic rendering of bhava (T086); tshe rabs means a lifetime, consistent with T166 \"esta vida\".",
+   "applied": true
+  },
+  {
+   "term_id": "T131",
+   "sense": "lifetime",
+   "field": "children",
+   "proposed": "tempo de vida",
+   "reason": "\"vida\" duplicates the children rendering of bhava (T086); \"tempo de vida\" renders 'lifetime' distinctly.",
+   "applied": true
+  },
+  {
+   "term_id": "T134",
+   "sense": "continuous stream of mind or person",
+   "field": "academic",
+   "proposed": "continuum",
+   "reason": "Same Sanskrit saṃtāna and same English \"continuum\" as T185, which uses \"continuum\"; \"contínuo\" is an adjective and inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T141",
+   "sense": "heedlessness",
+   "field": "academic",
+   "proposed": "descuido",
+   "reason": "\"desatenção\" collides with the field of smṛti (\"atenção plena\") and T460 (same term pramāda) uses \"descuido\"; it also pairs with \"cuidado\".",
+   "applied": true
+  },
+  {
+   "term_id": "T151",
+   "sense": "protector, saviour",
+   "field": "children",
+   "proposed": "Aquele que salva",
+   "reason": "\"Protetor\" is already used for nātha (T045, T087); tāyin/skyob pa is 'one who saves', so two different terms would share one rendering.",
+   "applied": true
+  },
+  {
+   "term_id": "T152",
+   "sense": "nirvana",
+   "field": "children",
+   "proposed": "liberdade da tristeza",
+   "reason": "Inconsistent with T211 \"liberdade da tristeza\" for the same term; mya ngan is sorrow, and \"sofrimento\" is reserved for duḥkha.",
+   "applied": true
+  },
+  {
+   "term_id": "T198",
+   "sense": "offering",
+   "field": "academic",
+   "proposed": "oferenda",
+   "reason": "\"oferta\" means a commercial offer or gift; \"oferenda\" is the established Buddhist term for pūjā/mchod pa.",
+   "applied": true
+  },
+  {
+   "term_id": "T221",
+   "sense": "leisure",
+   "field": "academic",
+   "proposed": "liberdade",
+   "reason": "\"tempo livre\" means spare time, missing the sense of freedom from unfavorable conditions; inconsistent with T195 \"liberdade e dotação\".",
+   "applied": true
+  },
+  {
+   "term_id": "T237",
+   "sense": "guarding introspection",
+   "field": "children",
+   "proposed": "guardar a vigilância",
+   "reason": "Inconsistent with T047 saṃprajanya children \"vigilância\"; \"atenção\" belongs to smṛti and the English is \"guarding watchfulness\".",
+   "applied": true
+  },
+  {
+   "term_id": "T254",
+   "sense": "offering",
+   "field": "children",
+   "proposed": "oferta",
+   "reason": "Inconsistent with T198 (same term pūjā/mchod), whose children rendering is \"oferta\"; \"presente\" changes the sense to a gift.",
+   "applied": true
+  },
+  {
+   "term_id": "T264",
+   "sense": "what is not virtuous",
+   "field": "academic",
+   "proposed": "não-virtude",
+   "reason": "Same term as T361 (mi dge ba) and parallel to T384 \"não-conhecimento\"; the hyphenated spelling \"não-virtude\" should be uniform.",
+   "applied": true
+  },
+  {
+   "term_id": "T271",
+   "sense": "meditative equipoise",
+   "field": "academic",
+   "proposed": "equilíbrio meditativo",
+   "reason": "\"equanimidade\" is the established rendering of upekṣā, a different term; mnyam par gzhag pa means equipoise, so \"equilíbrio\" is accurate.",
+   "applied": true
+  },
+  {
+   "term_id": "T277",
+   "sense": "grasping at a self",
+   "field": "academic",
+   "proposed": "agarramento a um eu",
+   "reason": "\"apreensão\" also means worry in Portuguese and duplicates T286 (dmigs pa); bdag tu 'dzin pa is grasping, established as \"agarramento\".",
+   "applied": true
+  },
+  {
+   "term_id": "T304",
+   "sense": "Dharmakāya",
+   "field": "academic",
+   "proposed": "Darmakaya",
+   "reason": "The draft writes Dharma as \"Darma\" and naturalizes other terms (Tathagata, Mahayana, sutra); \"Dharmakāya\" is inconsistent with that convention.",
+   "applied": true
+  },
+  {
+   "term_id": "T323",
+   "sense": "Sugata",
+   "field": "children",
+   "proposed": "Bem-Ido",
+   "reason": "Inconsistent with T052 (same term sugata), whose children rendering is \"Bem-Ido\"; \"foi para o bem\" is also a loose paraphrase.",
+   "applied": true
+  },
+  {
+   "term_id": "T327",
+   "sense": "worthy recipient of offerings",
+   "field": "children",
+   "proposed": "digno de receber ofertas",
+   "reason": "\"presentes\" is inconsistent with the offering terms (T198, T254, T335), which use oferta/oferenda; mchod means offering, not gift.",
+   "applied": true
+  },
+  {
+   "term_id": "T335",
+   "sense": "object of offering",
+   "field": "children",
+   "proposed": "digno de ofertas",
+   "reason": "Children's rendering of pūjā/mchod is \"oferta\" (T198, T254); \"oferendas\" is inconsistent within the children's field.",
+   "applied": true
+  },
+  {
+   "term_id": "T328",
+   "sense": "supreme bodhisattva",
+   "field": "academic",
+   "proposed": "bodisatva supremo",
+   "reason": "\"ser supremo\" reads as 'Supreme Being' (God) in Portuguese; sems dpa' mchog is the supreme bodhisattva, as the sense label states.",
+   "applied": true
+  },
+  {
+   "term_id": "T365",
+   "sense": "definite liberation",
+   "field": "academic",
+   "proposed": "libertação definitiva",
+   "reason": "The draft renders liberation as \"libertação\" (T241, T351, T220); \"liberação\" is inconsistent, and T351 has the same English \"definite liberation\".",
+   "applied": true
+  },
+  {
+   "term_id": "T366",
+   "sense": "level of the children of the Victors",
+   "field": "academic",
+   "proposed": "estágio dos filhos dos Vencedores",
+   "reason": "Tibetan sa is bhūmi, rendered \"estágio\" in T155; \"nível\" is inconsistent for the same term.",
+   "applied": true
+  },
+  {
+   "term_id": "T366",
+   "sense": "level of the children of the Victors",
+   "field": "children",
+   "proposed": "fase dos filhos dos Vitoriosos",
+   "reason": "Tibetan sa is bhūmi, rendered \"fase\" in the children's field in T155; \"nível\" is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T388",
+   "sense": "liberation",
+   "field": "academic",
+   "proposed": "libertação",
+   "reason": "Same Tibetan thar ba and English \"liberation\" as T241, which uses \"libertação\"; \"liberação\" is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T394",
+   "sense": "chapter title: Heedfulness",
+   "field": "academic",
+   "proposed": "Cuidado Atento",
+   "reason": "\"Vigilância\" is the rendering of saṃprajanya (T047); apramāda (bag yod) is \"cuidado atento\" in T121, so the chapter title must match.",
+   "applied": true
+  },
+  {
+   "term_id": "T395",
+   "sense": "hell guardian",
+   "field": "children",
+   "proposed": "guarda do inferno",
+   "reason": "Same concept as T165 (hell guardian), whose children rendering is \"guarda do inferno\"; the two should match.",
+   "applied": true
+  },
+  {
+   "term_id": "T399",
+   "sense": "perfection of ethical discipline",
+   "field": "children",
+   "proposed": "perfeição da boa conduta",
+   "reason": "Children's rendering of śīla is \"boa conduta\" in T094; \"bom comportamento\" is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T403",
+   "sense": "Brahmā",
+   "field": "children",
+   "proposed": "Brahma",
+   "reason": "T322 (same god) uses \"Brahma\" in the children's field, matching the transliteration pattern of other names (Manjushri, Mara); \"Bramá\" is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T437",
+   "sense": "supreme leisure",
+   "field": "academic",
+   "proposed": "liberdade suprema",
+   "reason": "\"lazer\" means recreation, not the freedom to practise (dal ba); consistent with the proposed \"liberdade\" for kṣaṇa (T221) and T195.",
+   "applied": true
+  },
+  {
+   "term_id": "T444",
+   "sense": "Three Heaps Sūtra",
+   "field": "children",
+   "proposed": "texto dos Três Acúmulos",
+   "reason": "\"Montes\" evokes mountains and differs from the academic \"Três Acúmulos\"; both fields should render 'heaps' alike.",
+   "applied": true
+  },
+  {
+   "term_id": "T464",
+   "sense": "perversity",
+   "field": "academic",
+   "proposed": "distorção",
+   "reason": "\"perversidade\" means wickedness or cruelty in Portuguese; viparyaya/phyin ci log means a distorted or inverted view, not malice.",
+   "applied": true
+  },
+  {
+   "term_id": "T492",
+   "sense": "perfection of excellence",
+   "field": "children",
+   "proposed": "perfeição da excelência",
+   "reason": "\"excelência perfeita\" inverts the structure; other pāramitā entries (T158, T399) use \"perfeição de/da ...\", so children and academic should match.",
+   "applied": true
+  },
+  {
+   "term_id": "T504",
+   "sense": "idleness",
+   "field": "children",
+   "proposed": "ficar à toa",
+   "reason": "\"preguiça\" is already the children's rendering of ālasya (T123) and T537; idleness (snyom las) needs a distinct simple rendering.",
+   "applied": true
+  },
+  {
+   "term_id": "T509",
+   "sense": "Speaker of Truth",
+   "field": "children",
+   "proposed": "Aquele que Diz a Verdade",
+   "reason": "Epithet capitalized and phrased as in T396 (\"Aquele que Diz a Verdade\"); the lowercase \"fala\" version is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T514",
+   "sense": "ocean of merit",
+   "field": "children",
+   "proposed": "oceano de reservas de bondade",
+   "reason": "\"oceano de reserva de bondade\" is ungrammatical (singular \"reserva\" after \"oceano de\"); the plural reads naturally and keeps the puṇya rendering.",
+   "applied": true
+  },
+  {
+   "term_id": "T517",
+   "sense": "relinquishment",
+   "field": "academic",
+   "proposed": "desprendimento",
+   "reason": "\"renúncia\" is already used for niḥsāra/nges 'byung (T456) and tyāga is \"desprendimento\" in T398; two different terms must not share one rendering.",
+   "applied": true
+  },
+  {
+   "term_id": "T518",
+   "sense": "relinquishment",
+   "field": "academic",
+   "proposed": "desprendimento",
+   "reason": "Same Sanskrit tyāga as T398 (\"desprendimento\"); \"renúncia\" duplicates the rendering of niḥsāra (T456).",
+   "applied": true
+  },
+  {
+   "term_id": "T537",
+   "sense": "lethargy",
+   "field": "children",
+   "proposed": "moleza",
+   "reason": "\"preguiça\" is already the children's rendering of ālasya (T123); lethargy/sluggishness needs a distinct simple word.",
+   "applied": true
+  },
+  {
+   "term_id": "T539",
+   "sense": "concentration",
+   "field": "children",
+   "proposed": "foco profundo",
+   "reason": "Same term ting 'dzin as T414, whose children rendering is \"foco profundo\" (matching English \"deep focus\"); \"concentração profunda\" is inconsistent and harder.",
+   "applied": true
+  },
+  {
+   "term_id": "T543",
+   "sense": "non-attachment",
+   "field": "academic",
+   "proposed": "não-apego",
+   "reason": "The draft hyphenates negated abstract terms (não-virtude, não-entidade, não-conhecimento, não-apreensão); \"não apego\" is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T582",
+   "sense": "exchange of self and others",
+   "field": "children",
+   "proposed": "trocar de lugar com os outros",
+   "reason": "Same term as T508, whose children rendering is simple and consistent; \"troca entre si e os outros\" is too abstract for readers aged 8 to 12.",
+   "applied": true
+  },
+  {
+   "term_id": "T594",
+   "sense": "grasping as \"I\"",
+   "field": "academic",
+   "proposed": "agarramento como \"eu\"",
+   "reason": "\"apreensão\" also means worry and duplicates ālambana (T286); 'dzin pa/grasping is rendered \"agarramento\" (T579).",
+   "applied": true
+  },
+  {
+   "term_id": "T596",
+   "sense": "grasping at self",
+   "field": "academic",
+   "proposed": "agarramento ao eu",
+   "reason": "\"apreensão\" also means worry and duplicates ālambana (T286); bdag tu 'dzin pa is rendered \"agarramento ao eu\" in T579.",
+   "applied": true
+  },
+  {
+   "term_id": "T600",
+   "sense": "title of chapter 8",
+   "field": "children",
+   "proposed": "Foco Tranquilo",
+   "reason": "Dhyāna children rendering in T173 is \"foco tranquilo\"; \"Foco Calmo\" is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T621",
+   "sense": "latent tendency of emptiness",
+   "field": "children",
+   "proposed": "hábito profundo da vacuidade",
+   "reason": "Children's rendering of śūnyatā is \"vacuidade\" (T136); \"vazio\" is inconsistent and risks a nihilistic reading.",
+   "applied": true
+  },
+  {
+   "term_id": "T623",
+   "sense": "non-apprehension",
+   "field": "academic",
+   "proposed": "não-apreensão",
+   "reason": "Same Tibetan dmigs pa med pa and same English as T691, which uses the hyphenated \"não-apreensão\"; spelling must be uniform (cf. não-entidade, não-virtude).",
+   "applied": true
+  },
+  {
+   "term_id": "T628",
+   "sense": "garuḍa",
+   "field": "children",
+   "proposed": "pássaro gigante do céu",
+   "reason": "Same Tibetan mkha' lding and same term as T530, whose children rendering is \"pássaro gigante do céu\"; the two should match.",
+   "applied": true
+  },
+  {
+   "term_id": "T636",
+   "sense": "delusion",
+   "field": "academic",
+   "proposed": "delusão",
+   "reason": "\"engano\" means mistake or deception; \"delusão\" is the established rendering of moha/saṃmoha and consistent with the proposed fix for T038.",
+   "applied": true
+  },
+  {
+   "term_id": "T638",
+   "sense": "meditative absorption",
+   "field": "children",
+   "proposed": "absorção profunda",
+   "reason": "English children is \"deep absorption\"; \"concentração profunda\" blurs samāpatti with samādhi/ting 'dzin (T414, T539), which is about focus.",
+   "applied": true
+  },
+  {
+   "term_id": "T646",
+   "sense": "one who experiences",
+   "field": "academic",
+   "proposed": "aquele que experimenta",
+   "reason": "\"experimentador\" means one who conducts experiments in Portuguese; bhoktṛ is the one who experiences or enjoys the result.",
+   "applied": true
+  },
+  {
+   "term_id": "T706",
+   "sense": "state without leisure",
+   "field": "academic",
+   "proposed": "estado sem liberdade",
+   "reason": "\"lazer\" means recreation and misses the sense of freedom to practise (dal ba); the children field already says \"sem liberdade\"; consistent with kṣaṇa fix.",
+   "applied": true
+  },
+  {
+   "term_id": "T709",
+   "sense": "conduct of awakening",
+   "field": "children",
+   "proposed": "modo de agir para o despertar",
+   "reason": "Same term bodhicaryā as T080, whose children rendering is \"modo de agir para o despertar\"; \"maneira\" is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T714",
+   "sense": "cloud of offerings",
+   "field": "children",
+   "proposed": "nuvem de ofertas",
+   "reason": "Children's rendering of pūjā/mchod is \"oferta\" (T198, T254); \"oferendas\" is inconsistent within the children's field.",
+   "applied": true
+  },
+  {
+   "term_id": "T724",
+   "sense": "hardship",
+   "field": "academic",
+   "proposed": "provação",
+   "reason": "\"austeridade\" is already the rendering of tapas (T122, dka' thub); duṣkaracaryā means hardship, so two different terms would share one rendering.",
+   "applied": true
+  },
+  {
+   "term_id": "T727",
+   "sense": "first bodhisattva ground",
+   "field": "academic",
+   "proposed": "Estágio da Alegria Perfeita",
+   "reason": "bhūmi 'ground' is rendered \"estágio\" in T155, while \"terra\" is the earth element there; \"Terra\" is inconsistent and ambiguous.",
+   "applied": true
+  },
+  {
+   "term_id": "T727",
+   "sense": "first bodhisattva ground",
+   "field": "children",
+   "proposed": "Fase da Alegria Perfeita",
+   "reason": "T155 children renders bodhisattva ground as \"fase\"; \"Terra\" is inconsistent and could be read as planet Earth by children.",
+   "applied": true
+  }
+ ]
+}

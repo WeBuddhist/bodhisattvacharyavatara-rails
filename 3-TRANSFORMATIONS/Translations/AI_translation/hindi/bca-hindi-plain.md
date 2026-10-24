@@ -1,5 +1,6 @@
 ---
-title: बोधिसत्वों के आचरण में प्रवेश - Plain Hindi Translation
+title: बोधिसत्वों के आचरण में प्रवेश - Plain Hindi Translation — एआई अनुवाद
+ai_generated: true
 language: Hindi
 file_type: translation
 root_text: 1-SOURCES\Translations\bo-བློ་ལྡན་ཤེས་རབ།.md
@@ -15,7 +16,7 @@ edition_id: gz0jVjcJJ7IHFQiSRp9to
 toc_id: uBJjapa476Zbcl2jBOd8f
 ---
 
-# यहाँ "बोधिसत्वचर्यावतार" आरम्भ होता है। ^0
+# यहाँ "बोधिसत्वचर्यावतार" आरम्भ होता है। — एआई अनुवाद ^0
 
 ## भूमिका। ^I-0
 

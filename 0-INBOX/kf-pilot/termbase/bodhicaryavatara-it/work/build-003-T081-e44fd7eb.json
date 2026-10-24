@@ -1,0 +1,480 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T081",
+    "senses": [
+     {
+      "sense": "craving",
+      "academic": "brama",
+      "children": "desiderio bruciante",
+      "note": "tṛṣṇā rendered as 'brama' in Italian Buddhist literature; children get an everyday phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T082",
+    "senses": [
+     {
+      "sense": "non-existent thing",
+      "academic": "non-entità",
+      "children": "cosa che non esiste",
+      "note": "Mirrors fixed 'entità/cosa' with negation, matching English non-entity."
+     }
+    ]
+   },
+   {
+    "term_id": "T083",
+    "senses": [
+     {
+      "sense": "emptiness",
+      "academic": "vacuità",
+      "children": "vuoto",
+      "note": "Established technical term 'vacuità'; everyday 'vuoto' for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T084",
+    "senses": [
+     {
+      "sense": "Īśvara",
+      "academic": "Īśvara",
+      "children": "Creatore",
+      "note": "Proper name kept in academic register; children's rendering reflects the creator-god idea."
+     }
+    ]
+   },
+   {
+    "term_id": "T085",
+    "senses": [
+     {
+      "sense": "scripture",
+      "academic": "scrittura",
+      "children": "testo sacro",
+      "note": "āgama as authoritative Buddhist scripture."
+     }
+    ]
+   },
+   {
+    "term_id": "T086",
+    "senses": [
+     {
+      "sense": "existence",
+      "academic": "esistenza",
+      "children": "vita",
+      "note": "bhava as conditioned existence; 'vita' is the everyday equivalent."
+     }
+    ]
+   },
+   {
+    "term_id": "T087",
+    "senses": [
+     {
+      "sense": "protector (of beings, epithet of buddhas)",
+      "academic": "Protettore",
+      "children": "Protettore",
+      "note": "Epithet of buddhas; same word works in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T088",
+    "senses": [
+     {
+      "sense": "ordaining teacher",
+      "academic": "precettore",
+      "children": "maestro che mi ha ordinato",
+      "note": "upādhyāya, the preceptor who confers ordination."
+     }
+    ]
+   },
+   {
+    "term_id": "T089",
+    "senses": [
+     {
+      "sense": "ascetic (person)",
+      "academic": "asceta",
+      "children": "persona di pratica rigorosa",
+      "note": "Person observing strict vows."
+     },
+     {
+      "sense": "ascetic discipline",
+      "academic": "disciplina ascetica",
+      "children": "pratica rigorosa",
+      "note": "The practice or vow itself, distinct from the person."
+     }
+    ]
+   },
+   {
+    "term_id": "T090",
+    "senses": [
+     {
+      "sense": "take refuge",
+      "academic": "prendere rifugio",
+      "children": "cercare riparo",
+      "note": "Standard formula of going for refuge; infinitive head form."
+     }
+    ]
+   },
+   {
+    "term_id": "T091",
+    "senses": [
+     {
+      "sense": "spiritual teacher",
+      "academic": "maestro",
+      "children": "maestro",
+      "note": "guru as spiritual teacher; 'maestro' fits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T092",
+    "senses": [
+     {
+      "sense": "anger",
+      "academic": "rabbia",
+      "children": "rabbia",
+      "note": "Reuses the fixed rendering of krodha/anger."
+     }
+    ]
+   },
+   {
+    "term_id": "T093",
+    "senses": [
+     {
+      "sense": "Avīci hell",
+      "academic": "inferno Avīci",
+      "children": "Avīci",
+      "note": "Proper name of the worst hell; fixed 'inferno' reused in academic form."
+     }
+    ]
+   },
+   {
+    "term_id": "T094",
+    "senses": [
+     {
+      "sense": "ethical discipline",
+      "academic": "disciplina etica",
+      "children": "buona condotta",
+      "note": "śīla as ethical discipline, one of the perfections."
+     }
+    ]
+   },
+   {
+    "term_id": "T095",
+    "senses": [
+     {
+      "sense": "gain",
+      "academic": "guadagno",
+      "children": "guadagno",
+      "note": "One of the worldly concerns; everyday word suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T096",
+    "senses": [
+     {
+      "sense": "honor",
+      "academic": "onore",
+      "children": "onore",
+      "note": "satkāra as worldly honor or veneration received."
+     }
+    ]
+   },
+   {
+    "term_id": "T097",
+    "senses": [
+     {
+      "sense": "like a log",
+      "academic": "come un ceppo di legno",
+      "children": "come un ciocco",
+      "note": "Simile for unmoving equanimity; 'ciocco' is the everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T098",
+    "senses": [
+     {
+      "sense": "fault",
+      "academic": "colpa",
+      "children": "sbaglio",
+      "note": "aparādha as fault or wrongdoing, distinct from fixed 'azione negativa'."
+     }
+    ]
+   },
+   {
+    "term_id": "T099",
+    "senses": [
+     {
+      "sense": "welfare of others",
+      "academic": "benessere degli altri",
+      "children": "bene degli altri",
+      "note": "parārtha, the aim of benefiting others."
+     }
+    ]
+   },
+   {
+    "term_id": "T100",
+    "senses": [
+     {
+      "sense": "Mahāyāna",
+      "academic": "Mahāyāna",
+      "children": "Grande Veicolo",
+      "note": "Tradition name kept in academic register; translated for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T101",
+    "senses": [
+     {
+      "sense": "gain",
+      "academic": "guadagno",
+      "children": "guadagno",
+      "note": "Identical sense to T095, same rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T102",
+    "senses": [
+     {
+      "sense": "perfection of diligence",
+      "academic": "diligenza",
+      "children": "sforzo gioioso",
+      "note": "vīrya, the perfection of joyful, energetic effort."
+     }
+    ]
+   },
+   {
+    "term_id": "T103",
+    "senses": [
+     {
+      "sense": "person filled with desire",
+      "academic": "persona lussuriosa",
+      "children": "persona piena di desideri",
+      "note": "kāmin, someone dominated by sensual desire."
+     }
+    ]
+   },
+   {
+    "term_id": "T104",
+    "senses": [
+     {
+      "sense": "thing that exists",
+      "academic": "entità",
+      "children": "cosa",
+      "note": "Reuses the fixed rendering of bhāva/vastu as entity."
+     }
+    ]
+   },
+   {
+    "term_id": "T105",
+    "senses": [
+     {
+      "sense": "visible form",
+      "academic": "forma",
+      "children": "forma",
+      "note": "rūpa as visible form; everyday 'forma' works for both."
+     }
+    ]
+   },
+   {
+    "term_id": "T106",
+    "senses": [
+     {
+      "sense": "luminous, clear (of mind or lamp)",
+      "academic": "luminoso",
+      "children": "splendente",
+      "note": "Adjective for mind or lamp giving light."
+     },
+     {
+      "sense": "manifest (of pleasure)",
+      "academic": "manifesto",
+      "children": "chiaro",
+      "note": "Something plainly evident, distinct from luminous."
+     }
+    ]
+   },
+   {
+    "term_id": "T107",
+    "senses": [
+     {
+      "sense": "sound",
+      "academic": "suono",
+      "children": "suono",
+      "note": "śabda as audible sound; same word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T108",
+    "senses": [
+     {
+      "sense": "benefit",
+      "academic": "beneficio",
+      "children": "beneficio",
+      "note": "anuśaṃsā, advantage or benefit of practice; everyday enough for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T109",
+    "senses": [
+     {
+      "sense": "lord of sages",
+      "academic": "Signore dei saggi",
+      "children": "Signore dei saggi",
+      "note": "munīndra, epithet of the Buddha; same phrasing both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T110",
+    "senses": [
+     {
+      "sense": "child of the Victors",
+      "academic": "figlio dei Vittoriosi",
+      "children": "figlio dei Vincitori",
+      "note": "Reuses fixed 'Vittorioso/Vincitore' for jina."
+     }
+    ]
+   },
+   {
+    "term_id": "T111",
+    "senses": [
+     {
+      "sense": "refuge",
+      "academic": "rifugio",
+      "children": "riparo",
+      "note": "śaraṇa as refuge; 'riparo' is the everyday equivalent."
+     }
+    ]
+   },
+   {
+    "term_id": "T112",
+    "senses": [
+     {
+      "sense": "the Buddha's teaching, sublime",
+      "academic": "Dharma sublime",
+      "children": "insegnamenti sacri",
+      "note": "Reuses fixed 'Dharma/insegnamenti' with the qualifier."
+     }
+    ]
+   },
+   {
+    "term_id": "T113",
+    "senses": [
+     {
+      "sense": "child of the Buddhas",
+      "academic": "figlio dei Buddha",
+      "children": "figlio dei Buddha",
+      "note": "buddhātmaja, epithet of bodhisattvas; same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T114",
+    "senses": [
+     {
+      "sense": "wish-fulfilling tree",
+      "academic": "albero che esaudisce i desideri",
+      "children": "albero dei desideri",
+      "note": "Mythic wish-fulfilling tree; shorter familiar phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T115",
+    "senses": [
+     {
+      "sense": "great compassion",
+      "academic": "grande compassione",
+      "children": "grande compassione",
+      "note": "mahākṛpā; 'compassione' is everyday Italian."
+     }
+    ]
+   },
+   {
+    "term_id": "T116",
+    "senses": [
+     {
+      "sense": "Tathāgata",
+      "academic": "Tathāgata",
+      "children": "Colui che è Andato Così",
+      "note": "Epithet kept in Sanskrit for scholars; meaning-based phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T117",
+    "senses": [
+     {
+      "sense": "compassion",
+      "academic": "compassione",
+      "children": "compassione",
+      "note": "Same everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T118",
+    "senses": [
+     {
+      "sense": "the Buddha's teaching, sublime",
+      "academic": "Dharma sublime",
+      "children": "insegnamenti sacri",
+      "note": "Identical sense to T112, same rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T119",
+    "senses": [
+     {
+      "sense": "assembly (of bodhisattvas, Saṅgha)",
+      "academic": "assemblea",
+      "children": "assemblea",
+      "note": "Gathering of bodhisattvas or monastics."
+     },
+     {
+      "sense": "accumulation (of merit and wisdom)",
+      "academic": "accumulazione",
+      "children": "riserva di bontà",
+      "note": "saṃbhāra, the twofold accumulation; children's phrase kept distinct from fixed 'bontà accumulata'."
+     },
+     {
+      "sense": "collection (of parts)",
+      "academic": "insieme",
+      "children": "insieme di parti",
+      "note": "Aggregation of constituent parts, as of a chariot or body."
+     }
+    ]
+   },
+   {
+    "term_id": "T120",
+    "senses": [
+     {
+      "sense": "confess",
+      "academic": "confessare",
+      "children": "ammettere",
+      "note": "deśayati, openly declaring misdeeds; infinitive head form."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 5653,
+  "output": 2598,
+  "thinking": 3105,
+  "cache_read": 256,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 108.56,
+ "attempt": 1
+}

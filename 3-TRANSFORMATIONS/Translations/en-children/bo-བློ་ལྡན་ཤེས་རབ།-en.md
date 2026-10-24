@@ -1,5 +1,6 @@
 ---
-title: Entering the Way of the Awakening Hero
+title: Entering the Way of the Awakening Hero — AI translation (children's)
+ai_generated: true
 track: en-children
 language: English
 lang_tag: en
@@ -17,7 +18,7 @@ generation_date: 2026-10-08
 status: draft
 ---
 
-# Entering the Way of the Awakening Hero ^0
+# Entering the Way of the Awakening Hero — AI translation (children's) ^0
 
 ## Prologue ^I-0
 

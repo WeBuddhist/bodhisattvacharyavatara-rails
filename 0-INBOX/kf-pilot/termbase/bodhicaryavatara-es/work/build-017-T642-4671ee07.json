@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T642",
+    "senses": [
+     {
+      "sense": "obscuration of afflictions and of objects of knowledge",
+      "academic": "oscurecimiento de las aflicciones y de los objetos de conocimiento",
+      "children": "velo de las emociones que perturban y de las cosas por conocer",
+      "note": "Standard Spanish rendering of kleśāvaraṇa and jñeyāvaraṇa combined; children uses 'veil' image."
+     }
+    ]
+   },
+   {
+    "term_id": "T643",
+    "senses": [
+     {
+      "sense": "six consciousnesses",
+      "academic": "seis conciencias",
+      "children": "seis tipos de conciencia",
+      "note": "Vijñāna rendered 'conciencia' as usual in Spanish Buddhist literature."
+     }
+    ]
+   },
+   {
+    "term_id": "T644",
+    "senses": [
+     {
+      "sense": "designated",
+      "academic": "designado",
+      "children": "etiquetado",
+      "note": "Participle; children uses everyday 'etiquetado' for 'labelled'."
+     }
+    ]
+   },
+   {
+    "term_id": "T645",
+    "senses": [
+     {
+      "sense": "karma and result",
+      "academic": "karma y resultado",
+      "children": "acción y resultado",
+      "note": "Reuses fixed 'resultado'; 'karma' kept in academic register."
+     }
+    ]
+   },
+   {
+    "term_id": "T646",
+    "senses": [
+     {
+      "sense": "one who experiences",
+      "academic": "experimentante",
+      "children": "el que experimenta",
+      "note": "'Experimentante' avoids ambiguity of 'experimentador' (experimenter)."
+     }
+    ]
+   },
+   {
+    "term_id": "T647",
+    "senses": [
+     {
+      "sense": "imputed",
+      "academic": "imputado",
+      "children": "imaginado",
+      "note": "Participle of kalpayati; children matches 'imagined'."
+     }
+    ]
+   },
+   {
+    "term_id": "T648",
+    "senses": [
+     {
+      "sense": "assemblage of conditions",
+      "academic": "conjunto de condiciones",
+      "children": "reunión de circunstancias",
+      "note": "Reuses fixed 'condición'/'circunstancia' for pratyaya in each register."
+     }
+    ]
+   },
+   {
+    "term_id": "T649",
+    "senses": [
+     {
+      "sense": "part",
+      "academic": "parte",
+      "children": "parte",
+      "note": "Everyday word identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T650",
+    "senses": [
+     {
+      "sense": "directional part",
+      "academic": "parte direccional",
+      "children": "parte en una dirección",
+      "note": "Technical atomism term; children phrase explains 'directional' plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T651",
+    "senses": [
+     {
+      "sense": "experience",
+      "academic": "experiencia",
+      "children": "experiencia",
+      "note": "Everyday word identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T652",
+    "senses": [
+     {
+      "sense": "subtle state",
+      "academic": "estado sutil",
+      "children": "forma apenas visible",
+      "note": "Children conveys 'faint form' with simple words."
+     }
+    ]
+   },
+   {
+    "term_id": "T653",
+    "senses": [
+     {
+      "sense": "opposing condition",
+      "academic": "condición opuesta",
+      "children": "circunstancia opuesta",
+      "note": "Reuses fixed register-specific renderings of pratyaya."
+     }
+    ]
+   },
+   {
+    "term_id": "T654",
+    "senses": [
+     {
+      "sense": "conceptual clinging",
+      "academic": "apego conceptual",
+      "children": "aferrarse a una idea",
+      "note": "Reuses fixed 'apego'; children verbal phrase matches 'holding on to an idea'."
+     }
+    ]
+   },
+   {
+    "term_id": "T655",
+    "senses": [
+     {
+      "sense": "partless",
+      "academic": "carente de partes",
+      "children": "sin partes",
+      "note": "Adjectival phrase; children simplest equivalent."
+     }
+    ]
+   },
+   {
+    "term_id": "T656",
+    "senses": [
+     {
+      "sense": "contact",
+      "academic": "contacto",
+      "children": "tacto",
+      "note": "Children 'tacto' is the everyday word for touch."
+     }
+    ]
+   },
+   {
+    "term_id": "T657",
+    "senses": [
+     {
+      "sense": "two truths",
+      "academic": "dos verdades",
+      "children": "dos verdades",
+      "note": "Established term; already simple enough for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T658",
+    "senses": [
+     {
+      "sense": "conceptual thought",
+      "academic": "pensamiento conceptual",
+      "children": "imaginación",
+      "note": "Children 'imaginación' matches 'imagining'."
+     }
+    ]
+   },
+   {
+    "term_id": "T659",
+    "senses": [
+     {
+      "sense": "analysis",
+      "academic": "análisis",
+      "children": "examen cuidadoso",
+      "note": "Children phrase mirrors 'careful examination'."
+     }
+    ]
+   },
+   {
+    "term_id": "T660",
+    "senses": [
+     {
+      "sense": "object of analysis",
+      "academic": "objeto de análisis",
+      "children": "cosa que se examina",
+      "note": "Passive participle; children relative clause keeps meaning."
+     }
+    ]
+   },
+   {
+    "term_id": "T661",
+    "senses": [
+     {
+      "sense": "power of consciousness",
+      "academic": "poder de la conciencia",
+      "children": "poder de darse cuenta",
+      "note": "Children expresses 'awareness' as 'darse cuenta'."
+     }
+    ]
+   },
+   {
+    "term_id": "T662",
+    "senses": [
+     {
+      "sense": "worldly direct perception",
+      "academic": "percepción directa mundana",
+      "children": "ver directamente en la vida diaria",
+      "note": "Pratyakṣa as 'percepción directa'; children renders 'everyday direct seeing'."
+     }
+    ]
+   },
+   {
+    "term_id": "T663",
+    "senses": [
+     {
+      "sense": "element",
+      "academic": "elemento",
+      "children": "elemento",
+      "note": "Mahābhūta as 'elemento'; already everyday vocabulary."
+     }
+    ]
+   },
+   {
+    "term_id": "T664",
+    "senses": [
+     {
+      "sense": "beyond thought",
+      "academic": "inconcebible",
+      "children": "más allá del pensamiento",
+      "note": "Academic single adjective; children literal plain phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T665",
+    "senses": [
+     {
+      "sense": "beginningless",
+      "academic": "sin principio",
+      "children": "sin comienzo",
+      "note": "'Sin principio' is standard; children uses 'comienzo' as simpler word."
+     }
+    ]
+   },
+   {
+    "term_id": "T666",
+    "senses": [
+     {
+      "sense": "Sāṃkhya",
+      "academic": "Sāṃkhya",
+      "children": "Samkhya",
+      "note": "Proper name of the school; diacritics dropped for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T667",
+    "senses": [
+     {
+      "sense": "equilibrium",
+      "academic": "equilibrio",
+      "children": "equilibrio perfecto",
+      "note": "Sāṃkhya technical state of balance of the guṇas; children adds 'perfecto'."
+     }
+    ]
+   },
+   {
+    "term_id": "T668",
+    "senses": [
+     {
+      "sense": "experience",
+      "academic": "experiencia",
+      "children": "sensación",
+      "note": "Children 'sensación' matches 'feeling'."
+     }
+    ]
+   },
+   {
+    "term_id": "T669",
+    "senses": [
+     {
+      "sense": "coarse",
+      "academic": "grosero",
+      "children": "grueso",
+      "note": "'Grosero' standard opposite of 'sutil'; 'grueso' everyday for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T670",
+    "senses": [
+     {
+      "sense": "subtle",
+      "academic": "sutil",
+      "children": "fino",
+      "note": "'Sutil' established; children 'fino' matches 'fine'."
+     }
+    ]
+   },
+   {
+    "term_id": "T671",
+    "senses": [
+     {
+      "sense": "subtle",
+      "academic": "sutil",
+      "children": "fino",
+      "note": "Same rendering as T670 since English senses identical."
+     }
+    ]
+   },
+   {
+    "term_id": "T672",
+    "senses": [
+     {
+      "sense": "non-existent",
+      "academic": "inexistente",
+      "children": "que no existe",
+      "note": "Children uses plain relative clause."
+     }
+    ]
+   },
+   {
+    "term_id": "T673",
+    "senses": [
+     {
+      "sense": "meditation",
+      "academic": "meditación",
+      "children": "meditación",
+      "note": "Already everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T674",
+    "senses": [
+     {
+      "sense": "imputed entity",
+      "academic": "entidad imputada",
+      "children": "cosa imaginada",
+      "note": "Reuses fixed 'entidad'/'cosa' and renderings of kalpita (T647)."
+     }
+    ]
+   },
+   {
+    "term_id": "T675",
+    "senses": [
+     {
+      "sense": "without a cause",
+      "academic": "sin causa",
+      "children": "sin causa",
+      "note": "Reuses fixed 'causa'; phrase already simple."
+     }
+    ]
+   },
+   {
+    "term_id": "T676",
+    "senses": [
+     {
+      "sense": "reflection",
+      "academic": "reflejo",
+      "children": "reflejo",
+      "note": "'Reflejo' is the everyday word for mirror-image."
+     }
+    ]
+   },
+   {
+    "term_id": "T677",
+    "senses": [
+     {
+      "sense": "true existence",
+      "academic": "existencia verdadera",
+      "children": "ser real de verdad",
+      "note": "Children phrase mirrors 'being truly real'."
+     }
+    ]
+   },
+   {
+    "term_id": "T678",
+    "senses": [
+     {
+      "sense": "non-entity",
+      "academic": "no-entidad",
+      "children": "cosa inexistente",
+      "note": "Negates fixed 'entidad'; children matches 'non-existent thing'."
+     }
+    ]
+   },
+   {
+    "term_id": "T679",
+    "senses": [
+     {
+      "sense": "cessation",
+      "academic": "cesación",
+      "children": "detención",
+      "note": "'Cesación' standard for nirodha; children 'detención' matches 'stopping'."
+     }
+    ]
+   },
+   {
+    "term_id": "T680",
+    "senses": [
+     {
+      "sense": "neither arisen nor ceased",
+      "academic": "no nacido y no cesado",
+      "children": "que nunca nace y nunca termina",
+      "note": "Children clause mirrors 'never born and never ending'."
+     }
+    ]
+   },
+   {
+    "term_id": "T681",
+    "senses": [
+     {
+      "sense": "empty",
+      "academic": "vacío",
+      "children": "vacío",
+      "note": "'Vacío' is both the technical and everyday word."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 3984,
+  "output": 2403,
+  "thinking": 5162,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 213.42,
+ "attempt": 1
+}

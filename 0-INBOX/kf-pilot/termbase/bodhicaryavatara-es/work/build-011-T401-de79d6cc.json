@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T401",
+    "senses": [
+     {
+      "sense": "mind of anger",
+      "academic": "mente de ira",
+      "children": "mente de rabia",
+      "note": "Compound of fixed renderings for anger (ira/rabia) and mind (mente)."
+     }
+    ]
+   },
+   {
+    "term_id": "T402",
+    "senses": [
+     {
+      "sense": "external entity",
+      "academic": "entidad externa",
+      "children": "cosa de fuera",
+      "note": "Reuses fixed entity rendering (entidad/cosa)."
+     }
+    ]
+   },
+   {
+    "term_id": "T403",
+    "senses": [
+     {
+      "sense": "Brahmā",
+      "academic": "Brahmā",
+      "children": "Brahmā",
+      "note": "Proper name of the deity; standard form kept in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T404",
+    "senses": [
+     {
+      "sense": "clear mind",
+      "academic": "mente clara",
+      "children": "mente clara",
+      "note": "Everyday words already; same rendering in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T405",
+    "senses": [
+     {
+      "sense": "body and speech",
+      "academic": "cuerpo y palabra",
+      "children": "cuerpo y palabras",
+      "note": "Academic follows standard Buddhist triad wording (cuerpo, palabra, mente)."
+     }
+    ]
+   },
+   {
+    "term_id": "T406",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Conocedor de la Realidad",
+      "children": "el que sabe cómo son las cosas de verdad",
+      "note": "Epithet of the Buddha; children get a plain explanatory phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T407",
+    "senses": [
+     {
+      "sense": "secret of the mind",
+      "academic": "secreto de la mente",
+      "children": "secreto de la mente",
+      "note": "Plain phrase works in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T408",
+    "senses": [
+     {
+      "sense": "guarding the mind",
+      "academic": "custodia de la mente",
+      "children": "cuidar la mente",
+      "note": "Noun phrase for scholars; simple verb phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T409",
+    "senses": [
+     {
+      "sense": "name of a hell",
+      "academic": "infierno Destructor",
+      "children": "infierno Destructor",
+      "note": "Hell name built on fixed rendering infierno."
+     }
+    ]
+   },
+   {
+    "term_id": "T410",
+    "senses": [
+     {
+      "sense": "practitioner of restraint",
+      "academic": "practicante de la contención",
+      "children": "persona que se controla a sí misma",
+      "note": "Sanskrit yati; restraint expressed as self-control for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T411",
+    "senses": [
+     {
+      "sense": "recollection of the Buddha",
+      "academic": "recuerdo del Buda",
+      "children": "tener al Buda presente",
+      "note": "Reuses fixed Buddha rendering (Buda)."
+     }
+    ]
+   },
+   {
+    "term_id": "T412",
+    "senses": [
+     {
+      "sense": "shame",
+      "academic": "vergüenza",
+      "children": "vergüenza",
+      "note": "Everyday word; kept identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T413",
+    "senses": [
+     {
+      "sense": "mad elephant of the mind",
+      "academic": "elefante enloquecido de la mente",
+      "children": "elefante loco de la mente",
+      "note": "Metaphor kept; simpler adjective for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T414",
+    "senses": [
+     {
+      "sense": "concentration",
+      "academic": "concentración",
+      "children": "concentración profunda",
+      "note": "Standard meditative term; children get descriptive deepening."
+     }
+    ]
+   },
+   {
+    "term_id": "T415",
+    "senses": [
+     {
+      "sense": "moment",
+      "academic": "instante",
+      "children": "momento",
+      "note": "kṣaṇa as instant for scholars, everyday momento for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T416",
+    "senses": [
+     {
+      "sense": "equanimity",
+      "academic": "ecuanimidad",
+      "children": "mente equilibrada",
+      "note": "Technical term rendered as plain balanced-mind phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T417",
+    "senses": [
+     {
+      "sense": "secondary affliction",
+      "academic": "aflicción secundaria",
+      "children": "emoción secundaria que perturba",
+      "note": "Built on fixed affliction rendering (aflicción/emoción que perturba)."
+     }
+    ]
+   },
+   {
+    "term_id": "T418",
+    "senses": [
+     {
+      "sense": "mockery",
+      "academic": "burla",
+      "children": "burla",
+      "note": "Everyday word; same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T419",
+    "senses": [
+     {
+      "sense": "arrogance",
+      "academic": "arrogancia",
+      "children": "arrogancia",
+      "note": "Understandable to children; kept identical."
+     }
+    ]
+   },
+   {
+    "term_id": "T420",
+    "senses": [
+     {
+      "sense": "exposing others' faults",
+      "academic": "exposición de las faltas ajenas",
+      "children": "revelar las faltas de los demás",
+      "note": "Nominal form academic; simple action phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T421",
+    "senses": [
+     {
+      "sense": "duplicity",
+      "academic": "duplicidad",
+      "children": "engaño a escondidas",
+      "note": "Children get sneakiness expressed as hidden deceit."
+     }
+    ]
+   },
+   {
+    "term_id": "T422",
+    "senses": [
+     {
+      "sense": "deceptive mind",
+      "academic": "mente engañosa",
+      "children": "mente que engaña",
+      "note": "Adjective phrase academic; relative clause for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T423",
+    "senses": [
+     {
+      "sense": "regret (variant of )",
+      "academic": "arrepentimiento",
+      "children": "arrepentimiento",
+      "note": "Standard term; accessible in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T424",
+    "senses": [
+     {
+      "sense": "fame",
+      "academic": "fama",
+      "children": "fama",
+      "note": "Everyday word; identical renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T425",
+    "senses": [
+     {
+      "sense": "attendants and retinue",
+      "academic": "asistentes y séquito",
+      "children": "ayudantes y seguidores",
+      "note": "Children get plain helpers-and-followers wording."
+     }
+    ]
+   },
+   {
+    "term_id": "T426",
+    "senses": [
+     {
+      "sense": "impatience",
+      "academic": "impaciencia",
+      "children": "impaciencia",
+      "note": "Common word; same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T427",
+    "senses": [
+     {
+      "sense": "impudence",
+      "academic": "insolencia",
+      "children": "grosería",
+      "note": "Rudeness rendered with everyday word for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T428",
+    "senses": [
+     {
+      "sense": "idle chatter",
+      "academic": "charla ociosa",
+      "children": "charla sin sentido",
+      "note": "Children get purposeless-talk phrasing."
+     }
+    ]
+   },
+   {
+    "term_id": "T429",
+    "senses": [
+     {
+      "sense": "hero",
+      "academic": "héroe",
+      "children": "héroe",
+      "note": "Everyday word; identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T430",
+    "senses": [
+     {
+      "sense": "excellent faith",
+      "academic": "fe excelente",
+      "children": "confianza profunda",
+      "note": "Faith as trust for children, matching deep-trust sense."
+     }
+    ]
+   },
+   {
+    "term_id": "T431",
+    "senses": [
+     {
+      "sense": "sense of shame",
+      "academic": "sentido de la vergüenza",
+      "children": "saber sentir vergüenza",
+      "note": "Distinguished from T412 shame by the 'sense of' component."
+     }
+    ]
+   },
+   {
+    "term_id": "T432",
+    "senses": [
+     {
+      "sense": "apprehension, fear of wrongdoing",
+      "academic": "aprensión",
+      "children": "miedo a hacer algo malo",
+      "note": "Children get explicit fear-of-wrongdoing phrasing."
+     }
+    ]
+   },
+   {
+    "term_id": "T433",
+    "senses": [
+     {
+      "sense": "compassionate one",
+      "academic": "el compasivo",
+      "children": "el que siente compasión",
+      "note": "Nominalized adjective academic; descriptive phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T434",
+    "senses": [
+     {
+      "sense": "blameless",
+      "academic": "intachable",
+      "children": "sin culpa",
+      "note": "Single adjective academic; plain phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T435",
+    "senses": [
+     {
+      "sense": "emanation",
+      "academic": "emanación",
+      "children": "creación mágica",
+      "note": "Technical nirmāṇa; magical-creation phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T436",
+    "senses": [
+     {
+      "sense": "I",
+      "academic": "yo",
+      "children": "yo",
+      "note": "Matches fixed rendering for self (yo)."
+     }
+    ]
+   },
+   {
+    "term_id": "T437",
+    "senses": [
+     {
+      "sense": "supreme leisure",
+      "academic": "ocio supremo",
+      "children": "la mejor oportunidad para practicar",
+      "note": "Leisure in the Buddhist sense of free opportunity for practice."
+     }
+    ]
+   },
+   {
+    "term_id": "T438",
+    "senses": [
+     {
+      "sense": "weapon of wisdom",
+      "academic": "arma de la sabiduría",
+      "children": "espada de la sabiduría",
+      "note": "Children's blade rendered concretely as sword."
+     }
+    ]
+   },
+   {
+    "term_id": "T439",
+    "senses": [
+     {
+      "sense": "human body",
+      "academic": "todo cuerpo humano",
+      "children": "cuerpo humano",
+      "note": "Academic keeps the universal 'every' of the English label."
+     }
+    ]
+   },
+   {
+    "term_id": "T440",
+    "senses": [
+     {
+      "sense": "wish-fulfilling",
+      "academic": "que concede deseos",
+      "children": "que cumple deseos",
+      "note": "Adjectival phrase; simpler verb for children."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4028,
+  "output": 2369,
+  "thinking": 3668,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 153.11,
+ "attempt": 1
+}

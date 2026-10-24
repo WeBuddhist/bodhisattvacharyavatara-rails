@@ -1,0 +1,102 @@
+{
+ "objections": [
+  {
+   "term_id": "T244",
+   "sense": "adventitious",
+   "field": "academic",
+   "proposed": "insidental",
+   "reason": "'Aksidental' suggests an accident; adventitious (glo bur) means incidental, arriving from outside, not intrinsic."
+  },
+  {
+   "term_id": "T251",
+   "sense": "excellence",
+   "field": "academic",
+   "proposed": "keunggulan",
+   "reason": "'Kesempurnaan' is already used for pāramitā (T159, T158); keep one rendering per term."
+  },
+  {
+   "term_id": "T277",
+   "sense": "grasping at a self",
+   "field": "academic",
+   "proposed": "cengkeraman pada atman",
+   "reason": "'Genggaman' means a grip as a noun and is not idiomatic for the act of grasping."
+  },
+  {
+   "term_id": "T277",
+   "sense": "grasping at a self",
+   "field": "children",
+   "proposed": "berpegang pada diri sendiri",
+   "reason": "'Memegang pada' is ungrammatical Indonesian; T276 already uses 'berpegang erat'."
+  },
+  {
+   "term_id": "T282",
+   "sense": "aspect",
+   "field": "children",
+   "proposed": "cara munculnya",
+   "reason": "'Tampaknya' means 'apparently', not 'the way it appears'."
+  },
+  {
+   "term_id": "T285",
+   "sense": "shrine",
+   "field": "academic",
+   "proposed": "tempat pemujaan",
+   "reason": "Untranslated 'caitya' clashes with T145, where caitya is rendered 'stupa'; use an Indonesian term."
+  },
+  {
+   "term_id": "T293",
+   "sense": "collection",
+   "field": "academic",
+   "proposed": "kumpulan",
+   "reason": "Collection is 'kumpulan' in T119; 'himpunan' is also used for assembly, causing a clash."
+  },
+  {
+   "term_id": "T295",
+   "sense": "sprout",
+   "field": "academic",
+   "proposed": "tunas",
+   "reason": "'Kecambah' is a bean sprout; the Buddhist sprout (aṅkura, shoot from a seed) is 'tunas', as the children's field has."
+  },
+  {
+   "term_id": "T315",
+   "sense": "engaging bodhicitta",
+   "field": "academic",
+   "proposed": "bodhicitta pelaksanaan",
+   "reason": "Use standard spelling bodhicitta, consistent with bodhisatwa."
+  },
+  {
+   "term_id": "T316",
+   "sense": "engaging bodhicitta",
+   "field": "academic",
+   "proposed": "bodhicitta pelaksanaan",
+   "reason": "Use standard spelling bodhicitta, consistent with bodhisatwa."
+  },
+  {
+   "term_id": "T345",
+   "sense": "basis of bodhicitta",
+   "field": "academic",
+   "proposed": "landasan bodhicitta",
+   "reason": "Use standard spelling bodhicitta, consistent with bodhisatwa."
+  },
+  {
+   "term_id": "T325",
+   "sense": "Jewel",
+   "field": "academic",
+   "proposed": "Permata",
+   "reason": "Same word as T310 ratna (permata); untranslated 'Ratna' reads as a personal name."
+  },
+  {
+   "term_id": "T353",
+   "sense": "assembly of bodhisattvas",
+   "field": "academic",
+   "proposed": "majelis bodhisatwa",
+   "reason": "Assembly is 'majelis' (T119 proposal); 'himpunan' reads as a mathematical set."
+  },
+  {
+   "term_id": "T291",
+   "sense": "sense faculty",
+   "field": "children",
+   "proposed": "alat indera",
+   "reason": "'Indra' is the god; the sense organ is spelled 'indera' in Indonesian."
+  }
+ ]
+}

@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T682",
+    "senses": [
+     {
+      "sense": "ocean of suffering",
+      "academic": "oceano di sofferenza",
+      "children": "oceano di sofferenza",
+      "note": "Reuses fixed rendering sofferenza for duḥkha; same phrase works in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T683",
+    "senses": [
+     {
+      "sense": "distraction",
+      "academic": "distrazione",
+      "children": "distrazione",
+      "note": "Everyday Italian word, suitable for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T684",
+    "senses": [
+     {
+      "sense": "great lower realm",
+      "academic": "grande reame inferiore",
+      "children": "grande reame infelice",
+      "note": "Compound reusing fixed renderings of durgati (lower realm)."
+     }
+    ]
+   },
+   {
+    "term_id": "T685",
+    "senses": [
+     {
+      "sense": "wrong path",
+      "academic": "via errata",
+      "children": "strada sbagliata",
+      "note": "Academic keeps Buddhist via for mārga; children use everyday strada sbagliata."
+     }
+    ]
+   },
+   {
+    "term_id": "T686",
+    "senses": [
+     {
+      "sense": "river of afflictions",
+      "academic": "fiume di afflizioni",
+      "children": "fiume di emozioni che disturbano",
+      "note": "Reuses fixed renderings of kleśa in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T687",
+    "senses": [
+     {
+      "sense": "river of suffering",
+      "academic": "fiume di sofferenza",
+      "children": "fiume di sofferenza",
+      "note": "Reuses fixed sofferenza; identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T688",
+    "senses": [
+     {
+      "sense": "aging and death",
+      "academic": "vecchiaia e morte",
+      "children": "invecchiare e morire",
+      "note": "Academic uses nouns as in the twelve links; children use simple verbs."
+     }
+    ]
+   },
+   {
+    "term_id": "T689",
+    "senses": [
+     {
+      "sense": "fire of suffering",
+      "academic": "fuoco di sofferenza",
+      "children": "fuoco di sofferenza",
+      "note": "Reuses fixed sofferenza; image is clear for children too."
+     }
+    ]
+   },
+   {
+    "term_id": "T690",
+    "senses": [
+     {
+      "sense": "accumulation of merit",
+      "academic": "accumulazione di merito",
+      "children": "bontà accumulata",
+      "note": "Academic saṃbhāra as accumulazione; children's fixed puṇya rendering already covers the sense."
+     }
+    ]
+   },
+   {
+    "term_id": "T691",
+    "senses": [
+     {
+      "sense": "non-apprehension",
+      "academic": "non-apprensione",
+      "children": "non fissarsi su niente",
+      "note": "Technical anupalambha as non-apprensione; children phrase means not fixing on anything."
+     }
+    ]
+   },
+   {
+    "term_id": "T692",
+    "senses": [
+     {
+      "sense": "world system",
+      "academic": "sistema di mondo",
+      "children": "reame del mondo",
+      "note": "Academic sistema di mondo is standard for lokadhātu; children use simple reame."
+     }
+    ]
+   },
+   {
+    "term_id": "T693",
+    "senses": [
+     {
+      "sense": "Sukhāvatī",
+      "academic": "Sukhāvatī",
+      "children": "Sukhavati",
+      "note": "Proper name of the pure land; diacritics dropped for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T694",
+    "senses": [
+     {
+      "sense": "name of a thorny tree in hell",
+      "academic": "śālmali",
+      "children": "Shalmali",
+      "note": "Proper name kept as in English; children without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T695",
+    "senses": [
+     {
+      "sense": "divine palace",
+      "academic": "palazzo celeste",
+      "children": "palazzo del cielo",
+      "note": "Vimāna as heavenly palace; children phrase uses everyday del cielo."
+     }
+    ]
+   },
+   {
+    "term_id": "T696",
+    "senses": [
+     {
+      "sense": "hell river",
+      "academic": "fiume invalicabile",
+      "children": "fiume che non si può attraversare",
+      "note": "Vaitaraṇī as unfordable river; children phrase spells out the meaning."
+     }
+    ]
+   },
+   {
+    "term_id": "T697",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Vajrapāṇi",
+      "children": "Vajrapani",
+      "note": "Proper name; diacritics dropped for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T698",
+    "senses": [
+     {
+      "sense": "Padmapāṇi (name of Avalokiteśvara)",
+      "academic": "Padmapāṇi",
+      "children": "Padmapani",
+      "note": "Proper name, standard Sanskrit form; children without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T699",
+    "senses": [
+     {
+      "sense": "youth with a topknot",
+      "academic": "giovane con la crocchia",
+      "children": "ragazzo con la crocchia",
+      "note": "Crocchia renders topknot; children use ragazzo for youth."
+     }
+    ]
+   },
+   {
+    "term_id": "T700",
+    "senses": [
+     {
+      "sense": "compassion, affection",
+      "academic": "affetto",
+      "children": "compassione",
+      "note": "Follows English: academic affection, children compassion."
+     }
+    ]
+   },
+   {
+    "term_id": "T701",
+    "senses": [
+     {
+      "sense": "root of virtue",
+      "academic": "radice di virtù",
+      "children": "radice delle buone azioni",
+      "note": "Compound reusing fixed renderings of kuśala in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T702",
+    "senses": [
+     {
+      "sense": "animal",
+      "academic": "animale",
+      "children": "animale",
+      "note": "Everyday word, identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T703",
+    "senses": [
+     {
+      "sense": "Uttarakuru",
+      "academic": "Uttarakuru",
+      "children": "Uttarakuru",
+      "note": "Proper name of the northern continent, unchanged."
+     }
+    ]
+   },
+   {
+    "term_id": "T704",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Avalokiteśvara",
+      "children": "Avalokiteshvara",
+      "note": "Proper name; children without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T705",
+    "senses": [
+     {
+      "sense": "Māyādevī (goddess)",
+      "academic": "Māyādevī",
+      "children": "Mayadevi",
+      "note": "Proper name; children without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T706",
+    "senses": [
+     {
+      "sense": "state without leisure",
+      "academic": "non-agio",
+      "children": "condizione senza libertà",
+      "note": "Akṣaṇa as non-agio in scholarly usage; children phrase mirrors state without freedom."
+     }
+    ]
+   },
+   {
+    "term_id": "T707",
+    "senses": [
+     {
+      "sense": "compassion",
+      "academic": "compassione",
+      "children": "compassione",
+      "note": "Standard rendering of kṛpā, already everyday Italian."
+     }
+    ]
+   },
+   {
+    "term_id": "T708",
+    "senses": [
+     {
+      "sense": "treasury of space",
+      "academic": "tesoreria dello spazio",
+      "children": "tesoro dello spazio",
+      "note": "Gaganagañja rendered descriptively; children use simpler tesoro."
+     }
+    ]
+   },
+   {
+    "term_id": "T709",
+    "senses": [
+     {
+      "sense": "conduct of awakening",
+      "academic": "condotta del risveglio",
+      "children": "modo di agire per il risveglio",
+      "note": "Reuses fixed risveglio; children phrase explains conduct as way of acting."
+     }
+    ]
+   },
+   {
+    "term_id": "T710",
+    "senses": [
+     {
+      "sense": "action of Māra",
+      "academic": "azione di Māra",
+      "children": "azione di Mara",
+      "note": "Proper name Māra; children without diacritic."
+     }
+    ]
+   },
+   {
+    "term_id": "T711",
+    "senses": [
+     {
+      "sense": "lapis lazuli",
+      "academic": "lapislazzuli",
+      "children": "lapislazzuli",
+      "note": "Standard Italian gem name, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T712",
+    "senses": [
+     {
+      "sense": "circle of retinue",
+      "academic": "cerchio",
+      "children": "cerchio",
+      "note": "Maṇḍala rendered descriptively as cerchio, following English circle."
+     }
+    ]
+   },
+   {
+    "term_id": "T713",
+    "senses": [
+     {
+      "sense": "sound of the Dharma",
+      "academic": "suono del Dharma",
+      "children": "suono degli insegnamenti",
+      "note": "Reuses fixed renderings of dharma (Dharma / insegnamenti)."
+     }
+    ]
+   },
+   {
+    "term_id": "T714",
+    "senses": [
+     {
+      "sense": "cloud of offerings",
+      "academic": "nube di offerte",
+      "children": "nuvola di offerte",
+      "note": "Literary nube for academic; everyday nuvola for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T715",
+    "senses": [
+     {
+      "sense": "teacher of wandering beings",
+      "academic": "maestro degli esseri erranti",
+      "children": "maestro degli esseri",
+      "note": "Compound reusing fixed renderings of jagat in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T716",
+    "senses": [
+     {
+      "sense": "king",
+      "academic": "re",
+      "children": "re",
+      "note": "Everyday word, identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T717",
+    "senses": [
+     {
+      "sense": "secret mantra",
+      "academic": "mantra segreto",
+      "children": "parole sacre segrete",
+      "note": "Mantra kept academically; children phrase explains as secret sacred words."
+     }
+    ]
+   },
+   {
+    "term_id": "T718",
+    "senses": [
+     {
+      "sense": "ḍākinī",
+      "academic": "ḍākinī",
+      "children": "colei che vola nel cielo",
+      "note": "Sanskrit term kept academically; children phrase mirrors sky-goer."
+     }
+    ]
+   },
+   {
+    "term_id": "T719",
+    "senses": [
+     {
+      "sense": "monastery",
+      "academic": "monastero",
+      "children": "monastero",
+      "note": "Everyday word, identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T720",
+    "senses": [
+     {
+      "sense": "recitation",
+      "academic": "recitazione",
+      "children": "recitare",
+      "note": "Noun for academic; simple verb head form for children, matching reciting."
+     }
+    ]
+   },
+   {
+    "term_id": "T721",
+    "senses": [
+     {
+      "sense": "Saṅgha",
+      "academic": "Saṅgha",
+      "children": "comunità dei monaci e delle monache",
+      "note": "Technical term kept academically; children phrase spells out the community."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4127,
+  "output": 2520,
+  "thinking": 5318,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 140.32,
+ "attempt": 1
+}

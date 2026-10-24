@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T321",
+    "senses": [
+     {
+      "sense": "seer",
+      "academic": "rishi",
+      "children": "mwonaji mwenye hekima",
+      "note": "Sanskrit loan adapted to Swahili spelling; children phrase keeps 'wise seer'."
+     }
+    ]
+   },
+   {
+    "term_id": "T322",
+    "senses": [
+     {
+      "sense": "Brahmā (god)",
+      "academic": "Brahma",
+      "children": "Brahma",
+      "note": "High god Brahmā; Swahili drops the long-vowel diacritic."
+     }
+    ]
+   },
+   {
+    "term_id": "T323",
+    "senses": [
+     {
+      "sense": "Sugata",
+      "academic": "Sugata",
+      "children": "Aliyekwenda Vema",
+      "note": "Epithet of the Buddha; children phrase renders 'Well-Gone One'."
+     }
+    ]
+   },
+   {
+    "term_id": "T324",
+    "senses": [
+     {
+      "sense": "precious mind",
+      "academic": "akili ya thamani",
+      "children": "akili ya thamani",
+      "note": "Compound of ratna (jewel) and fixed citta 'akili'; 'precious' descriptive."
+     }
+    ]
+   },
+   {
+    "term_id": "T325",
+    "senses": [
+     {
+      "sense": "Jewel",
+      "academic": "Jito",
+      "children": "jito",
+      "note": "'Jito' is the established Swahili word for a jewel or gem."
+     }
+    ]
+   },
+   {
+    "term_id": "T326",
+    "senses": [
+     {
+      "sense": "jewel tree",
+      "academic": "mti wa vito",
+      "children": "mti wa vito",
+      "note": "Wish-fulfilling tree made of jewels; 'vito' plural of jito."
+     }
+    ]
+   },
+   {
+    "term_id": "T327",
+    "senses": [
+     {
+      "sense": "worthy recipient of offerings",
+      "academic": "anayestahili sadaka",
+      "children": "anayestahili zawadi",
+      "note": "The Buddhist 'field of merit' idea; children uses everyday 'zawadi'."
+     }
+    ]
+   },
+   {
+    "term_id": "T328",
+    "senses": [
+     {
+      "sense": "supreme bodhisattva",
+      "academic": "bodhisattva bora kabisa",
+      "children": "shujaa mkuu wa uamsho",
+      "note": "Reuses fixed bodhisattva renderings in both registers; 'supreme' added."
+     }
+    ]
+   },
+   {
+    "term_id": "T329",
+    "senses": [
+     {
+      "sense": "existence",
+      "academic": "kuwepo",
+      "children": "maisha",
+      "note": "Bhava as cyclic existence; children uses everyday 'life'."
+     }
+    ]
+   },
+   {
+    "term_id": "T330",
+    "senses": [
+     {
+      "sense": "misdeed",
+      "academic": "dhambi",
+      "children": "tendo la madhara",
+      "note": "Reuses fixed renderings for pāpa exactly."
+     }
+    ]
+   },
+   {
+    "term_id": "T331",
+    "senses": [
+     {
+      "sense": "bath",
+      "academic": "kuoga",
+      "children": "kuoga",
+      "note": "Gerund head form; covers the ritual bath offered to Buddhas."
+     }
+    ]
+   },
+   {
+    "term_id": "T332",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Samantabhadra",
+      "children": "Samantabhadra",
+      "note": "Proper name kept in standard international form."
+     }
+    ]
+   },
+   {
+    "term_id": "T333",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Avalokiteshvara",
+      "children": "Avalokiteshvara",
+      "note": "Standard form without diacritics; the compassionate bodhisattva."
+     }
+    ]
+   },
+   {
+    "term_id": "T334",
+    "senses": [
+     {
+      "sense": "three-thousandfold world system",
+      "academic": "mfumo wa ulimwengu wenye sehemu elfu tatu",
+      "children": "dunia iliyo na dunia elfu tatu",
+      "note": "A cosmic system of three thousand worlds; avoids rare plural of ulimwengu."
+     }
+    ]
+   },
+   {
+    "term_id": "T335",
+    "senses": [
+     {
+      "sense": "object of offering",
+      "academic": "mpokeaji wa sadaka",
+      "children": "anayestahili sadaka",
+      "note": "One to whom offerings are directed, e.g., Buddhas and bodhisattvas."
+     }
+    ]
+   },
+   {
+    "term_id": "T336",
+    "senses": [
+     {
+      "sense": "heavenly flower",
+      "academic": "mandara",
+      "children": "ua la mbinguni",
+      "note": "Heavenly coral-tree blossom; academic keeps loan, children descriptive."
+     }
+    ]
+   },
+   {
+    "term_id": "T337",
+    "senses": [
+     {
+      "sense": "blue lotus",
+      "academic": "yungiyungi wa buluu",
+      "children": "yungiyungi wa buluu",
+      "note": "'Yungiyungi' (water lily) is the everyday Swahili word closest to lotus."
+     }
+    ]
+   },
+   {
+    "term_id": "T338",
+    "senses": [
+     {
+      "sense": "incense",
+      "academic": "ubani",
+      "children": "ubani",
+      "note": "'Ubani' is the common Swahili word for incense, frankincense."
+     }
+    ]
+   },
+   {
+    "term_id": "T339",
+    "senses": [
+     {
+      "sense": "divine feast",
+      "academic": "karamu takatifu",
+      "children": "karamu ya miungu",
+      "note": "Children phrase uses fixed 'mungu' plural for 'feast of the gods'."
+     }
+    ]
+   },
+   {
+    "term_id": "T340",
+    "senses": [
+     {
+      "sense": "lamp",
+      "academic": "taa",
+      "children": "taa",
+      "note": "Ordinary everyday word for lamp, fitting both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T341",
+    "senses": [
+     {
+      "sense": "immeasurable palace",
+      "academic": "jumba lisilopimika",
+      "children": "jumba lisilo na kipimo",
+      "note": "Vimāna as a boundless divine palace; children wording simpler."
+     }
+    ]
+   },
+   {
+    "term_id": "T342",
+    "senses": [
+     {
+      "sense": "suffering (variant spelling)",
+      "academic": "maumivu",
+      "children": "maumivu",
+      "note": "Variant of duḥkha; reuses the fixed rendering exactly."
+     }
+    ]
+   },
+   {
+    "term_id": "T343",
+    "senses": [
+     {
+      "sense": "supreme assembly (the Saṅgha)",
+      "academic": "Jumuiya Tukufu",
+      "children": "Jumuiya Tukufu",
+      "note": "Capitalized title for the Saṅgha as the supreme assembly."
+     }
+    ]
+   },
+   {
+    "term_id": "T344",
+    "senses": [
+     {
+      "sense": "buddha-field",
+      "academic": "uwanja wa Buddha",
+      "children": "nchi ya Buddha",
+      "note": "Kṣetra as a Buddha's realm; academic keeps 'field', children 'land'."
+     }
+    ]
+   },
+   {
+    "term_id": "T345",
+    "senses": [
+     {
+      "sense": "basis of bodhicitta",
+      "academic": "msingi wa bodhicitta",
+      "children": "msingi wa akili ya uamsho",
+      "note": "Compound reuses the fixed bodhicitta renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T346",
+    "senses": [
+     {
+      "sense": "essence of awakening",
+      "academic": "kiini cha uamsho",
+      "children": "moyo wa uamsho",
+      "note": "'Kiini' (essence) academic; fixed 'uamsho' reused in both."
+     }
+    ]
+   },
+   {
+    "term_id": "T347",
+    "senses": [
+     {
+      "sense": "fully awakened Buddha",
+      "academic": "Buddha aliyeamka kikamilifu",
+      "children": "Buddha aliyeamka kabisa",
+      "note": "Saṃbuddha intensifies Buddha; 'amka' renders awakening plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T348",
+    "senses": [
+     {
+      "sense": "rejoice",
+      "academic": "kufurahia",
+      "children": "kufurahia",
+      "note": "Anumodanā: rejoicing in others' merit; 'kufurahia' covers both."
+     }
+    ]
+   },
+   {
+    "term_id": "T349",
+    "senses": [
+     {
+      "sense": "one burdened with misdeeds",
+      "academic": "mwenye mzigo wa dhambi",
+      "children": "aliyetenda matendo ya madhara",
+      "note": "'Burdened' kept distinct from T354 'possessing'; fixed dhambi reused."
+     }
+    ]
+   },
+   {
+    "term_id": "T350",
+    "senses": [
+     {
+      "sense": "purification",
+      "academic": "usafishaji",
+      "children": "kusafisha",
+      "note": "Cleansing of misdeeds; children uses the plain verb form."
+     }
+    ]
+   },
+   {
+    "term_id": "T351",
+    "senses": [
+     {
+      "sense": "definite liberation",
+      "academic": "ukombozi wa uhakika",
+      "children": "uhuru wa uhakika",
+      "note": "'Ukombozi' for liberation academically; children uses 'uhuru'."
+     }
+    ]
+   },
+   {
+    "term_id": "T352",
+    "senses": [
+     {
+      "sense": "Protector of beings",
+      "academic": "Mlinzi wa Viumbe Wanaotangatanga",
+      "children": "Mlinzi wa Viumbe",
+      "note": "Compound reuses fixed jagat renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T353",
+    "senses": [
+     {
+      "sense": "assembly of bodhisattvas",
+      "academic": "jumuiya ya mabodhisattva",
+      "children": "kundi la mashujaa wa uamsho",
+      "note": "Reuses fixed bodhisattva renderings with Swahili plurals."
+     }
+    ]
+   },
+   {
+    "term_id": "T354",
+    "senses": [
+     {
+      "sense": "one burdened with misdeeds",
+      "academic": "mwenye dhambi",
+      "children": "aliyetenda matendo ya madhara",
+      "note": "English matches T349 children's wording, so rendering matches there."
+     }
+    ]
+   },
+   {
+    "term_id": "T355",
+    "senses": [
+     {
+      "sense": "Kṣitigarbha",
+      "academic": "Kshitigarbha",
+      "children": "Kshitigarbha",
+      "note": "Proper name; Swahili-friendly spelling without the diacritic."
+     }
+    ]
+   },
+   {
+    "term_id": "T356",
+    "senses": [
+     {
+      "sense": "Vajra-wielder",
+      "academic": "Mshika Vajra",
+      "children": "Mshika Radi",
+      "note": "Epithet of Vajrapāṇi; children uses 'radi' for thunderbolt."
+     }
+    ]
+   },
+   {
+    "term_id": "T357",
+    "senses": [
+     {
+      "sense": "desire",
+      "academic": "tamaa",
+      "children": "tamaa",
+      "note": "Rāga as craving desire; kept distinct from fixed lobha 'kushikamana'."
+     }
+    ]
+   },
+   {
+    "term_id": "T358",
+    "senses": [
+     {
+      "sense": "name of the human continent",
+      "academic": "Jambudvipa",
+      "children": "Jambudvipa",
+      "note": "Proper name of the human continent in Buddhist cosmology."
+     }
+    ]
+   },
+   {
+    "term_id": "T359",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Mganga Mwenye Kujua Yote",
+      "children": "Daktari Mwenye Kujua Yote",
+      "note": "Buddha as the all-knowing healer; children uses 'daktari'."
+     }
+    ]
+   },
+   {
+    "term_id": "T360",
+    "senses": [
+     {
+      "sense": "unit of distance",
+      "academic": "yojana",
+      "children": "kipimo cha umbali",
+      "note": "Ancient distance unit, roughly a day's march; children descriptive."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4201,
+  "output": 2679,
+  "thinking": 7919,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 190.88,
+ "attempt": 1
+}

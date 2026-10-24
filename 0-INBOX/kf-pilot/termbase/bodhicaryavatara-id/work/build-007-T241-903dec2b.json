@@ -1,0 +1,468 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T241",
+    "senses": [
+     {
+      "sense": "liberation",
+      "academic": "pembebasan",
+      "children": "kebebasan",
+      "note": "Standard Indonesian Buddhist term mukti = pembebasan; children use everyday 'kebebasan'."
+     }
+    ]
+   },
+   {
+    "term_id": "T242",
+    "senses": [
+     {
+      "sense": "conceit",
+      "academic": "kecongkakan",
+      "children": "merasa lebih hebat",
+      "note": "Mada as haughty conceit; distinct from fixed 'pride' (keangkuhan/kesombongan)."
+     }
+    ]
+   },
+   {
+    "term_id": "T243",
+    "senses": [
+     {
+      "sense": "being with a mind",
+      "academic": "makhluk berbatin",
+      "children": "makhluk yang punya pikiran",
+      "note": "Reuses fixed citta renderings: batin (academic), pikiran (children)."
+     }
+    ]
+   },
+   {
+    "term_id": "T244",
+    "senses": [
+     {
+      "sense": "adventitious",
+      "academic": "aksidental",
+      "children": "sementara",
+      "note": "Philosophical sense of adventitious defilements; children read as 'temporary'."
+     }
+    ]
+   },
+   {
+    "term_id": "T245",
+    "senses": [
+     {
+      "sense": "forest of sword-leaves",
+      "academic": "hutan berdaun pedang",
+      "children": "hutan berdaun pedang",
+      "note": "Hell realm name; identical descriptive phrase works for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T246",
+    "senses": [
+     {
+      "sense": "conduct",
+      "academic": "perilaku",
+      "children": "cara bertindak",
+      "note": "Caryā as conduct; title fixed as 'Jalan', so generic conduct uses 'perilaku'."
+     }
+    ]
+   },
+   {
+    "term_id": "T247",
+    "senses": [
+     {
+      "sense": "death",
+      "academic": "kematian",
+      "children": "kematian",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T248",
+    "senses": [
+     {
+      "sense": "being angry",
+      "academic": "kemarahan",
+      "children": "marah",
+      "note": "Verbal sense of kupyati; children use simple verb 'marah'."
+     }
+    ]
+   },
+   {
+    "term_id": "T249",
+    "senses": [
+     {
+      "sense": "insentient thing",
+      "academic": "benda tak berbatin",
+      "children": "benda tanpa pikiran",
+      "note": "Negative counterpart of sacetana, reusing fixed citta renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T250",
+    "senses": [
+     {
+      "sense": "loving mind",
+      "academic": "batin cinta kasih",
+      "children": "pikiran penuh kasih",
+      "note": "Maitrī rendered 'cinta kasih' per Indonesian Buddhist usage, with fixed citta."
+     }
+    ]
+   },
+   {
+    "term_id": "T251",
+    "senses": [
+     {
+      "sense": "excellence",
+      "academic": "kesempurnaan",
+      "children": "keunggulan",
+      "note": "Sampad as excellence/endowment; simpler 'keunggulan' for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T252",
+    "senses": [
+     {
+      "sense": "cause of patience",
+      "academic": "penyebab kesabaran",
+      "children": "penyebab kesabaran",
+      "note": "Compound reusing fixed 'penyebab' (cause) and 'kesabaran' (patience)."
+     }
+    ]
+   },
+   {
+    "term_id": "T253",
+    "senses": [
+     {
+      "sense": "qualities of a Buddha",
+      "academic": "sifat baik Buddha",
+      "children": "sifat baik Buddha",
+      "note": "Buddha-qualities; reuses fixed guṇa 'sifat baik'."
+     }
+    ]
+   },
+   {
+    "term_id": "T254",
+    "senses": [
+     {
+      "sense": "offering",
+      "academic": "persembahan",
+      "children": "persembahan",
+      "note": "Pūjā as offering; 'persembahan' is standard and child-friendly."
+     }
+    ]
+   },
+   {
+    "term_id": "T255",
+    "senses": [
+     {
+      "sense": "three realms",
+      "academic": "tiga alam",
+      "children": "tiga alam",
+      "note": "Established Indonesian Buddhist 'tiga alam' for trailokya."
+     }
+    ]
+   },
+   {
+    "term_id": "T256",
+    "senses": [
+     {
+      "sense": "opposing factor",
+      "academic": "faktor penentang",
+      "children": "lawan",
+      "note": "Vipakṣa as antidote/opponent; children read 'lawan'."
+     }
+    ]
+   },
+   {
+    "term_id": "T257",
+    "senses": [
+     {
+      "sense": "birth in saṃsāra",
+      "academic": "kelahiran",
+      "children": "kelahiran",
+      "note": "Rebirth within saṃsāra; plain 'kelahiran' both registers."
+     },
+     {
+      "sense": "arising of phenomena",
+      "academic": "kemunculan",
+      "children": "munculnya",
+      "note": "Arising (utpāda) of phenomena; children 'munculnya' (coming into being)."
+     }
+    ]
+   },
+   {
+    "term_id": "T258",
+    "senses": [
+     {
+      "sense": "equality of self and others",
+      "academic": "kesamaan diri dan orang lain",
+      "children": "menganggap diri sendiri dan orang lain sama",
+      "note": "BCA ch. 8 practice; children get an explanatory plain phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T259",
+    "senses": [
+     {
+      "sense": "Śrāvaka",
+      "academic": "Srawaka",
+      "children": "Pendengar",
+      "note": "Standard Indonesian form 'Srawaka'; children 'Pendengar' (Hearer)."
+     }
+    ]
+   },
+   {
+    "term_id": "T260",
+    "senses": [
+     {
+      "sense": "aspiration",
+      "academic": "aspirasi",
+      "children": "keinginan yang kuat",
+      "note": "Chanda as wholesome aspiration (BCA ch. 7); children 'strong wish'."
+     }
+    ]
+   },
+   {
+    "term_id": "T261",
+    "senses": [
+     {
+      "sense": "joy",
+      "academic": "kegembiraan",
+      "children": "kegembiraan",
+      "note": "Rati as joy/delight; kept distinct from sukha 'kebahagiaan'."
+     }
+    ]
+   },
+   {
+    "term_id": "T262",
+    "senses": [
+     {
+      "sense": "ocean of eons",
+      "academic": "samudra kalpa",
+      "children": "samudra zaman yang sangat panjang",
+      "note": "Compound reusing fixed kalpa renderings for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T263",
+    "senses": [
+     {
+      "sense": "result of karmic ripening",
+      "academic": "hasil kematangan karma",
+      "children": "hasil yang matang",
+      "note": "Vipākaphala; reuses fixed phala 'hasil'."
+     }
+    ]
+   },
+   {
+    "term_id": "T264",
+    "senses": [
+     {
+      "sense": "what is not virtuous",
+      "academic": "ketidakbajikan",
+      "children": "perbuatan buruk",
+      "note": "Akuśala; 'ketidakbajikan' negates fixed 'kebajikan', children 'bad deed'."
+     }
+    ]
+   },
+   {
+    "term_id": "T265",
+    "senses": [
+     {
+      "sense": "pride as the enemy",
+      "academic": "musuh berupa keangkuhan",
+      "children": "musuh bernama kesombongan",
+      "note": "Compound reusing fixed pride renderings (keangkuhan/kesombongan)."
+     }
+    ]
+   },
+   {
+    "term_id": "T266",
+    "senses": [
+     {
+      "sense": "ascetic",
+      "academic": "petapa",
+      "children": "orang yang berlatih keras",
+      "note": "'Petapa' is standard Indonesian for ascetic; children get plain phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T267",
+    "senses": [
+     {
+      "sense": "sleep",
+      "academic": "tidur",
+      "children": "tidur",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T268",
+    "senses": [
+     {
+      "sense": "discursive thought",
+      "academic": "pikiran diskursif",
+      "children": "pikiran yang tidak tenang",
+      "note": "Restless wandering thought; children 'pikiran yang tidak tenang'."
+     },
+     {
+      "sense": "conceptual thought",
+      "academic": "pikiran konseptual",
+      "children": "gagasan",
+      "note": "Conceptual thought (vikalpa); children simply 'gagasan' (idea)."
+     }
+    ]
+   },
+   {
+    "term_id": "T269",
+    "senses": [
+     {
+      "sense": "friend",
+      "academic": "sahabat",
+      "children": "teman",
+      "note": "Mitra as friend; 'sahabat' formal, 'teman' everyday."
+     }
+    ]
+   },
+   {
+    "term_id": "T270",
+    "senses": [
+     {
+      "sense": "friend",
+      "academic": "orang yang dicintai",
+      "children": "teman",
+      "note": "Priya as loved one, distinct from mitra; children both 'teman' as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T271",
+    "senses": [
+     {
+      "sense": "meditative equipoise",
+      "academic": "keseimbangan meditatif",
+      "children": "menenangkan pikiran",
+      "note": "Samādhāna as settled equipoise; children 'menenangkan pikiran'."
+     }
+    ]
+   },
+   {
+    "term_id": "T272",
+    "senses": [
+     {
+      "sense": "vulture",
+      "academic": "burung nasar",
+      "children": "burung bangkai",
+      "note": "'Nasar' precise for vulture; children know 'burung bangkai'."
+     }
+    ]
+   },
+   {
+    "term_id": "T273",
+    "senses": [
+     {
+      "sense": "bag of filth",
+      "academic": "kantong kotoran",
+      "children": "kantong kotoran",
+      "note": "Image of the body as a filth-bag; same plain phrase both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T274",
+    "senses": [
+     {
+      "sense": "greed",
+      "academic": "keserakahan",
+      "children": "keserakahan",
+      "note": "Greed rendered 'keserakahan', distinct from fixed attachment 'kemelekatan'."
+     }
+    ]
+   },
+   {
+    "term_id": "T275",
+    "senses": [
+     {
+      "sense": "happiness and suffering",
+      "academic": "kebahagiaan dan penderitaan",
+      "children": "kebahagiaan dan penderitaan",
+      "note": "Compound reusing fixed sukha and duḥkha renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T276",
+    "senses": [
+     {
+      "sense": "clinging to self",
+      "academic": "kemelekatan pada atman",
+      "children": "berpegang erat pada diri sendiri",
+      "note": "Ātmasneha; reuses fixed 'kemelekatan' and 'atman/diri sendiri'."
+     }
+    ]
+   },
+   {
+    "term_id": "T277",
+    "senses": [
+     {
+      "sense": "grasping at a self",
+      "academic": "genggaman pada atman",
+      "children": "memegang pada diri sendiri",
+      "note": "Grasping (grāha) distinct from clinging (sneha) in T276."
+     }
+    ]
+   },
+   {
+    "term_id": "T278",
+    "senses": [
+     {
+      "sense": "gain and honor",
+      "academic": "keuntungan dan penghormatan",
+      "children": "keuntungan dan rasa hormat",
+      "note": "Lābha-satkāra pair; children 'respect' as 'rasa hormat'."
+     }
+    ]
+   },
+   {
+    "term_id": "T279",
+    "senses": [
+     {
+      "sense": "chapter 9 title",
+      "academic": "Kesempurnaan Kebijaksanaan",
+      "children": "Kebijaksanaan yang Sempurna",
+      "note": "Prajñāpāramitā chapter; children get reordered plain phrasing."
+     }
+    ]
+   },
+   {
+    "term_id": "T280",
+    "senses": [
+     {
+      "sense": "ultimate truth",
+      "academic": "kebenaran mutlak",
+      "children": "kebenaran terdalam",
+      "note": "Paramārtha-satya as 'kebenaran mutlak'; children 'deepest truth'."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4154,
+  "output": 2788,
+  "thinking": 5669,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 235.26,
+ "attempt": 1
+}

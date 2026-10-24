@@ -1,5 +1,6 @@
 ---
-title: बोधिसत्त्वों के मार्ग में प्रवेश (Bodhisattvacaryāvatāra)
+title: बोधिसत्त्वों के मार्ग में प्रवेश (Bodhisattvacaryāvatāra) — एआई अनुवाद
+ai_generated: true
 author: शांतिदेव (Śāntideva)
 language: Hindi
 file_type: translation
@@ -16,7 +17,7 @@ note: "Termbase-guided Hindi translation produced verse-by-verse (pada-aligned t
 status: final
 ---
 
-# बोधिसत्त्वों के मार्ग में प्रवेश ^0
+# बोधिसत्त्वों के मार्ग में प्रवेश — एआई अनुवाद ^0
 
 ## भूमिका ^I-0
 

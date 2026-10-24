@@ -1,4 +1,6 @@
 ---
+title: यहाँ से शुरू होता है बोधिसत्व का मार्ग — एआई अनुवाद
+ai_generated: true
 source: bo-བློ་ལྡན་ཤེས་རབ།_split_chapters (Tibetan canonical Kangyur/Derge Bodhicaryāvatāra by Śāntideva, translated by Sarvajñādeva, Bande Paltsek, Dharmaśrībhadra, Rinchen Zangpo, Śākya-blo-gros, Sumatikīrti, and Blo ldan shes rab)
 termbase: hindi/tibetan-hindi-termbase-children.md
 audience: audience_profile/children.md (ages 8-12, simple/warm register, understanding > simplicity > core meaning > accuracy)
@@ -6,7 +8,7 @@ translation_approach: rails-verse-translator skill — each segment translated f
 segment_id_coverage: intro (5 segments) + ch1 (38) + ch2 (67) + ch3 (35) + ch4 (50) + ch5 (111) + ch6 (136) + ch7 (77) + ch8 (187) + ch9 (169) + ch10 (60) + colophon (6) = 941 segments, verified against source for exact segment ID match and per-segment line count across the whole merged document
 ---
 
-# यहाँ से शुरू होता है बोधिसत्व का मार्ग ^0
+# यहाँ से शुरू होता है बोधिसत्व का मार्ग — एआई अनुवाद ^0
 
 ## शुरुआती शब्द ^I-0
 

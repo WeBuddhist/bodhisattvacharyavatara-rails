@@ -1,0 +1,468 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T161",
+    "senses": [
+     {
+      "sense": "sūtra",
+      "academic": "sutra",
+      "children": "escritura sagrada",
+      "note": "Sutra is the established form in Brazilian Buddhist literature."
+     }
+    ]
+   },
+   {
+    "term_id": "T162",
+    "senses": [
+     {
+      "sense": "anger",
+      "academic": "raiva",
+      "children": "raiva",
+      "note": "Same rendering as fixed krodha, since English gives one word for both."
+     }
+    ]
+   },
+   {
+    "term_id": "T163",
+    "senses": [
+     {
+      "sense": "primal matter of Sāṃkhya",
+      "academic": "Pradhāna",
+      "children": "matéria primordial",
+      "note": "Sanskrit proper term kept in academic register; plain description for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T164",
+    "senses": [
+     {
+      "sense": "space",
+      "academic": "espaço",
+      "children": "espaço",
+      "note": "Everyday word works in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T165",
+    "senses": [
+     {
+      "sense": "hell guardian",
+      "academic": "guardião do inferno",
+      "children": "guarda do inferno",
+      "note": "Children's version uses the simpler everyday word guarda."
+     }
+    ]
+   },
+   {
+    "term_id": "T166",
+    "senses": [
+     {
+      "sense": "this life",
+      "academic": "esta vida",
+      "children": "esta vida",
+      "note": "Plain phrase identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T167",
+    "senses": [
+     {
+      "sense": "patience, tolerance",
+      "academic": "paciência",
+      "children": "paciência",
+      "note": "Matches the fixed rendering of kṣānti."
+     }
+    ]
+   },
+   {
+    "term_id": "T168",
+    "senses": [
+     {
+      "sense": "own interest",
+      "academic": "bem-estar próprio",
+      "children": "o próprio bem",
+      "note": "Reuses bem-estar, the rendering of artha as welfare."
+     }
+    ]
+   },
+   {
+    "term_id": "T169",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Sábio",
+      "children": "Sábio",
+      "note": "Standard translation of Muni as epithet; capitalized."
+     }
+    ]
+   },
+   {
+    "term_id": "T170",
+    "senses": [
+     {
+      "sense": "Buddhahood",
+      "academic": "budeidade",
+      "children": "estado de Buda",
+      "note": "Budeidade is attested in Brazilian academic Buddhist writing."
+     }
+    ]
+   },
+   {
+    "term_id": "T171",
+    "senses": [
+     {
+      "sense": "distraction",
+      "academic": "distração",
+      "children": "distração",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T172",
+    "senses": [
+     {
+      "sense": "aspiration, zeal",
+      "academic": "aspiração",
+      "children": "desejo forte",
+      "note": "Children's phrase mirrors the English strong wish."
+     }
+    ]
+   },
+   {
+    "term_id": "T173",
+    "senses": [
+     {
+      "sense": "meditative concentration",
+      "academic": "concentração meditativa",
+      "children": "foco tranquilo",
+      "note": "Children's version expresses calm focus in simple words."
+     }
+    ]
+   },
+   {
+    "term_id": "T174",
+    "senses": [
+     {
+      "sense": "true reality",
+      "academic": "verdadeira realidade",
+      "children": "o que é real de verdade",
+      "note": "Children's phrase keeps the idea of what is truly real."
+     }
+    ]
+   },
+   {
+    "term_id": "T175",
+    "senses": [
+     {
+      "sense": "grief",
+      "academic": "pesar",
+      "children": "tristeza",
+      "note": "Pesar is the precise formal word; tristeza for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T176",
+    "senses": [
+     {
+      "sense": "childish person",
+      "academic": "pessoa infantil",
+      "children": "pessoa tola",
+      "note": "Academic keeps the childishness nuance; children's stresses foolishness."
+     }
+    ]
+   },
+   {
+    "term_id": "T177",
+    "senses": [
+     {
+      "sense": "welfare, own and others' aim",
+      "academic": "bem-estar",
+      "children": "bem",
+      "note": "Reused in the compound svārtha, own welfare."
+     },
+     {
+      "sense": "object",
+      "academic": "objeto",
+      "children": "objeto",
+      "note": "Philosophical sense of artha; everyday word suffices."
+     }
+    ]
+   },
+   {
+    "term_id": "T178",
+    "senses": [
+     {
+      "sense": "charnel ground",
+      "academic": "campo de cremação",
+      "children": "lugar dos mortos",
+      "note": "Place where corpses are disposed of; softened plain phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T179",
+    "senses": [
+     {
+      "sense": "skeleton",
+      "academic": "esqueleto",
+      "children": "esqueleto",
+      "note": "Everyday word, identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T180",
+    "senses": [
+     {
+      "sense": "impure",
+      "academic": "impuro",
+      "children": "sujo",
+      "note": "Sujo is the simple everyday equivalent of unclean."
+     }
+    ]
+   },
+   {
+    "term_id": "T181",
+    "senses": [
+     {
+      "sense": "seed",
+      "academic": "semente",
+      "children": "semente",
+      "note": "Same everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T182",
+    "senses": [
+     {
+      "sense": "selflessness",
+      "academic": "ausência de eu",
+      "children": "não ter um eu separado",
+      "note": "Reuses fixed rendering of ātman as eu."
+     }
+    ]
+   },
+   {
+    "term_id": "T183",
+    "senses": [
+     {
+      "sense": "habituation",
+      "academic": "habituação",
+      "children": "acostumar-se",
+      "note": "Children's verbal phrase mirrors getting used to."
+     }
+    ]
+   },
+   {
+    "term_id": "T184",
+    "senses": [
+     {
+      "sense": "means of valid knowing",
+      "academic": "cognição válida",
+      "children": "jeito confiável de conhecer",
+      "note": "Standard epistemological term; plain reliable-way-of-knowing for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T185",
+    "senses": [
+     {
+      "sense": "continuum",
+      "academic": "continuum",
+      "children": "fluxo que nunca para",
+      "note": "Continuum is standard in Brazilian academic Buddhist usage."
+     }
+    ]
+   },
+   {
+    "term_id": "T186",
+    "senses": [
+     {
+      "sense": "lamp",
+      "academic": "lâmpada",
+      "children": "lâmpada",
+      "note": "Everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T187",
+    "senses": [
+     {
+      "sense": "consciousness",
+      "academic": "consciência",
+      "children": "consciência",
+      "note": "Consciência is familiar enough for young readers."
+     }
+    ]
+   },
+   {
+    "term_id": "T188",
+    "senses": [
+     {
+      "sense": "monk",
+      "academic": "monge",
+      "children": "monge",
+      "note": "Standard translation of bhikṣu."
+     }
+    ]
+   },
+   {
+    "term_id": "T189",
+    "senses": [
+     {
+      "sense": "rajas, one of the three guṇas",
+      "academic": "rajas",
+      "children": "inquietação",
+      "note": "Transliteration standard for the guṇa; plain restlessness for children."
+     },
+     {
+      "sense": "atom",
+      "academic": "átomo",
+      "children": "partícula minúscula",
+      "note": "Aṇu as atom; children's phrase means tiny particle."
+     }
+    ]
+   },
+   {
+    "term_id": "T190",
+    "senses": [
+     {
+      "sense": "coarse",
+      "academic": "grosseiro",
+      "children": "áspero",
+      "note": "Grosseiro is the standard opposite of sutil in philosophy."
+     }
+    ]
+   },
+   {
+    "term_id": "T191",
+    "senses": [
+     {
+      "sense": "basis",
+      "academic": "base",
+      "children": "apoio",
+      "note": "Support is the plainer everyday equivalent for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T192",
+    "senses": [
+     {
+      "sense": "goddess",
+      "academic": "deusa",
+      "children": "deusa",
+      "note": "Everyday word, parallel to fixed deus."
+     }
+    ]
+   },
+   {
+    "term_id": "T193",
+    "senses": [
+     {
+      "sense": "chief editor-translator",
+      "academic": "tradutor-revisor-chefe",
+      "children": "tradutor principal que revisou o texto",
+      "note": "Colophon role; children get a plain descriptive phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T194",
+    "senses": [
+     {
+      "sense": "child of the Sugata",
+      "academic": "filho do Sugata",
+      "children": "filho do Bem-Ido",
+      "note": "Sugata kept academically; translated as Bem-Ido for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T195",
+    "senses": [
+     {
+      "sense": "leisure and endowment",
+      "academic": "liberdade e dotação",
+      "children": "vida livre e sortuda",
+      "note": "Established pair for kṣaṇa and saṃpad; free and lucky life for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T196",
+    "senses": [
+     {
+      "sense": "plantain tree",
+      "academic": "bananeira-da-terra",
+      "children": "pé de banana",
+      "note": "Bananeira-da-terra specifies plantain; kids say pé de banana."
+     }
+    ]
+   },
+   {
+    "term_id": "T197",
+    "senses": [
+     {
+      "sense": "aspiring bodhicitta",
+      "academic": "bodhicitta de aspiração",
+      "children": "mente que quer despertar",
+      "note": "Reuses fixed bodhicitta renderings; standard technical compound."
+     }
+    ]
+   },
+   {
+    "term_id": "T198",
+    "senses": [
+     {
+      "sense": "offering",
+      "academic": "oferta",
+      "children": "oferta",
+      "note": "Everyday word, identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T199",
+    "senses": [
+     {
+      "sense": "chapter 2 title",
+      "academic": "Confissão das Más Ações",
+      "children": "Confessando os Atos que Fazem Mal",
+      "note": "Reuses fixed misdeed renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T200",
+    "senses": [
+     {
+      "sense": "sacred image",
+      "academic": "imagem sagrada",
+      "children": "estátua",
+      "note": "Pratimā as devotional image; statue is the plain word for children."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 5527,
+  "output": 2392,
+  "thinking": 5062,
+  "cache_read": 256,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 213.44,
+ "attempt": 1
+}

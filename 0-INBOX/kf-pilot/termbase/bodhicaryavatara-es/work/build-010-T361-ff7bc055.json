@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T361",
+    "senses": [
+     {
+      "sense": "non-virtue",
+      "academic": "no virtud",
+      "children": "mala acción",
+      "note": "Negation of fixed kuśala rendering 'virtud'; children uses everyday negative deed phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T362",
+    "senses": [
+     {
+      "sense": "natural misdeed",
+      "academic": "mala acción natural",
+      "children": "acción dañina por sí misma",
+      "note": "Compound of fixed 'mala acción'; wrong by its own nature, not by rule."
+     }
+    ]
+   },
+   {
+    "term_id": "T363",
+    "senses": [
+     {
+      "sense": "proscribed misdeed",
+      "academic": "mala acción proscrita",
+      "children": "acción dañina prohibida",
+      "note": "Compound of fixed 'mala acción'; misdeed by prohibition, contrasted with natural misdeed."
+     }
+    ]
+   },
+   {
+    "term_id": "T364",
+    "senses": [
+     {
+      "sense": "joined palms",
+      "academic": "palmas juntas",
+      "children": "manos juntas",
+      "note": "Gesture of respect; children uses everyday word for hands."
+     }
+    ]
+   },
+   {
+    "term_id": "T365",
+    "senses": [
+     {
+      "sense": "definite liberation",
+      "academic": "liberación definitiva",
+      "children": "libertad completa",
+      "note": "Liberation rendered consistently with T388; children uses everyday 'libertad'."
+     }
+    ]
+   },
+   {
+    "term_id": "T366",
+    "senses": [
+     {
+      "sense": "level of the children of the Victors",
+      "academic": "nivel de los hijos de los Vencedores",
+      "children": "nivel de los hijos de los Victoriosos",
+      "note": "Reuses fixed 'Vencedor/Victorioso' and T385 'child of the Victors'."
+     }
+    ]
+   },
+   {
+    "term_id": "T367",
+    "senses": [
+     {
+      "sense": "generation of bodhicitta",
+      "academic": "generación del bodhicitta",
+      "children": "nacimiento de la mente del despertar",
+      "note": "Reuses fixed 'bodhicitta/mente del despertar'; children uses everyday 'birth'."
+     }
+    ]
+   },
+   {
+    "term_id": "T368",
+    "senses": [
+     {
+      "sense": "lamp of the Dharma",
+      "academic": "lámpara del Dharma",
+      "children": "lámpara de las enseñanzas",
+      "note": "Reuses fixed 'Dharma/enseñanzas' renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T369",
+    "senses": [
+     {
+      "sense": "intermediate eon of famine",
+      "academic": "eón intermedio de hambruna",
+      "children": "edad muy larga intermedia de hambre",
+      "note": "Reuses fixed 'eón/edad muy larga'; children uses everyday 'hambre'."
+     }
+    ]
+   },
+   {
+    "term_id": "T370",
+    "senses": [
+     {
+      "sense": "possessions",
+      "academic": "posesiones",
+      "children": "pertenencias",
+      "note": "Everyday register uses common word for one's belongings."
+     }
+    ]
+   },
+   {
+    "term_id": "T371",
+    "senses": [
+     {
+      "sense": "wish-fulfilling jewel",
+      "academic": "joya que concede deseos",
+      "children": "joya que cumple deseos",
+      "note": "Children uses everyday verb 'cumplir' instead of 'conceder'."
+     }
+    ]
+   },
+   {
+    "term_id": "T372",
+    "senses": [
+     {
+      "sense": "excellent vase",
+      "academic": "vasija excelente",
+      "children": "vasija maravillosa",
+      "note": "Auspicious ritual vessel; children uses everyday adjective."
+     }
+    ]
+   },
+   {
+    "term_id": "T373",
+    "senses": [
+     {
+      "sense": "knowledge-mantra",
+      "academic": "mantra de conocimiento",
+      "children": "palabras sagradas poderosas",
+      "note": "Children paraphrases technical vidyā as plain phrase keeping same meaning."
+     }
+    ]
+   },
+   {
+    "term_id": "T374",
+    "senses": [
+     {
+      "sense": "great medicine",
+      "academic": "gran medicina",
+      "children": "gran medicina",
+      "note": "Same plain rendering serves both registers, as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T375",
+    "senses": [
+     {
+      "sense": "wish-fulfilling cow",
+      "academic": "vaca de la abundancia",
+      "children": "vaca que concede deseos",
+      "note": "Academic follows English 'cow of plenty'; children states its wish-granting power plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T376",
+    "senses": [
+     {
+      "sense": "great elements",
+      "academic": "gran elemento",
+      "children": "elemento básico",
+      "note": "Head form singular; children uses everyday 'básico'."
+     }
+    ]
+   },
+   {
+    "term_id": "T377",
+    "senses": [
+     {
+      "sense": "realm of sentient beings",
+      "academic": "reino de los seres sintientes",
+      "children": "reino de los seres vivos",
+      "note": "Reuses fixed 'ser sintiente/ser vivo' renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T378",
+    "senses": [
+     {
+      "sense": "bodhicitta (honorific)",
+      "academic": "bodhicitta",
+      "children": "mente del despertar",
+      "note": "Identical to fixed bodhicitta entry; honorific usage only."
+     }
+    ]
+   },
+   {
+    "term_id": "T379",
+    "senses": [
+     {
+      "sense": "human existence",
+      "academic": "existencia humana",
+      "children": "vida humana",
+      "note": "Children uses everyday 'vida' for 'existence'."
+     }
+    ]
+   },
+   {
+    "term_id": "T380",
+    "senses": [
+     {
+      "sense": "family of the Buddhas",
+      "academic": "familia de los Budas",
+      "children": "familia de los Budas",
+      "note": "Reuses fixed 'Buda'; identical rendering in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T381",
+    "senses": [
+     {
+      "sense": "nectar",
+      "academic": "néctar",
+      "children": "néctar",
+      "note": "Everyday word already; same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T382",
+    "senses": [
+     {
+      "sense": "path of existence",
+      "academic": "camino de la existencia",
+      "children": "camino de la vida",
+      "note": "Reuses 'camino' from fixed title; children uses everyday 'vida'."
+     }
+    ]
+   },
+   {
+    "term_id": "T383",
+    "senses": [
+     {
+      "sense": "universal bridge",
+      "academic": "puente universal",
+      "children": "puente para todos",
+      "note": "Children expresses 'universal' with plain everyday phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T384",
+    "senses": [
+     {
+      "sense": "not knowing",
+      "academic": "desconocimiento",
+      "children": "no saber",
+      "note": "Kept distinct from moha 'ofuscación/confusión', as English distinguishes."
+     }
+    ]
+   },
+   {
+    "term_id": "T385",
+    "senses": [
+     {
+      "sense": "child of the Victors",
+      "academic": "hijo de los Vencedores",
+      "children": "hijo de los Victoriosos",
+      "note": "Reuses fixed 'Vencedor/Victorioso'; standard epithet of bodhisattvas."
+     }
+    ]
+   },
+   {
+    "term_id": "T386",
+    "senses": [
+     {
+      "sense": "training",
+      "academic": "entrenamiento",
+      "children": "entrenamiento",
+      "note": "Established Spanish rendering of śikṣā; already accessible to children."
+     }
+    ]
+   },
+   {
+    "term_id": "T387",
+    "senses": [
+     {
+      "sense": "unsurpassed happiness",
+      "academic": "felicidad insuperable",
+      "children": "mayor felicidad",
+      "note": "Reuses fixed 'felicidad'; children uses simpler superlative."
+     }
+    ]
+   },
+   {
+    "term_id": "T388",
+    "senses": [
+     {
+      "sense": "liberation",
+      "academic": "liberación",
+      "children": "libertad",
+      "note": "Consistent with T365; children uses everyday 'libertad'."
+     }
+    ]
+   },
+   {
+    "term_id": "T389",
+    "senses": [
+     {
+      "sense": "Omniscient One",
+      "academic": "el Omnisciente",
+      "children": "el que lo sabe todo",
+      "note": "Epithet of the Buddha; children paraphrases with everyday words."
+     }
+    ]
+   },
+   {
+    "term_id": "T390",
+    "senses": [
+     {
+      "sense": "fire of hell",
+      "academic": "fuego del infierno",
+      "children": "fuego del infierno",
+      "note": "Reuses fixed 'infierno'; same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T391",
+    "senses": [
+     {
+      "sense": "regret, remorse",
+      "academic": "arrepentimiento",
+      "children": "arrepentimiento",
+      "note": "Standard rendering of paścāttāpa; already understandable for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T392",
+    "senses": [
+     {
+      "sense": "Avīci hell",
+      "academic": "infierno Avīci",
+      "children": "Avichi",
+      "note": "Proper name kept; children uses simplified form as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T393",
+    "senses": [
+     {
+      "sense": "faculties",
+      "academic": "conjunto de facultades",
+      "children": "grupo de sentidos",
+      "note": "Children renders sense faculties with everyday 'sentidos'."
+     }
+    ]
+   },
+   {
+    "term_id": "T394",
+    "senses": [
+     {
+      "sense": "chapter title: Heedfulness",
+      "academic": "La atención",
+      "children": "El cuidado",
+      "note": "Chapter 4 title (apramāda); children uses everyday 'cuidado'."
+     }
+    ]
+   },
+   {
+    "term_id": "T395",
+    "senses": [
+     {
+      "sense": "hell guardian",
+      "academic": "guardián del infierno",
+      "children": "guardián del infierno",
+      "note": "Reuses fixed 'infierno'; same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T396",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "El que proclama la verdad",
+      "children": "El que dice la verdad",
+      "note": "Tattvavādin as Buddha epithet; children uses everyday verb 'decir'."
+     }
+    ]
+   },
+   {
+    "term_id": "T397",
+    "senses": [
+     {
+      "sense": "mind of misdeed",
+      "academic": "mente de mala acción",
+      "children": "mente dañina",
+      "note": "Reuses fixed 'mente' and 'mala acción'; children follows English 'harmful mind'."
+     }
+    ]
+   },
+   {
+    "term_id": "T398",
+    "senses": [
+     {
+      "sense": "mind of relinquishing",
+      "academic": "mente del desprendimiento",
+      "children": "mente que lo da todo",
+      "note": "Kept distinct from T400 renunciation; tyāga as giving away."
+     }
+    ]
+   },
+   {
+    "term_id": "T399",
+    "senses": [
+     {
+      "sense": "perfection of ethical discipline",
+      "academic": "perfección de la disciplina ética",
+      "children": "perfección de la buena conducta",
+      "note": "Standard pāramitā terminology; children uses everyday 'buena conducta'."
+     }
+    ]
+   },
+   {
+    "term_id": "T400",
+    "senses": [
+     {
+      "sense": "mind of renunciation",
+      "academic": "mente de la renuncia",
+      "children": "mente que renuncia",
+      "note": "Virati as abstaining; distinct from T398 'desprendimiento'."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4225,
+  "output": 2624,
+  "thinking": 4469,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 182.29,
+ "attempt": 1
+}

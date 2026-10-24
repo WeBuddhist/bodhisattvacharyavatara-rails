@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T522",
+    "senses": [
+     {
+      "sense": "fault",
+      "academic": "faute",
+      "children": "faute",
+      "note": "doṣa as moral fault; same everyday word serves both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T523",
+    "senses": [
+     {
+      "sense": "the Buddha's teaching",
+      "academic": "enseignement",
+      "children": "enseignements",
+      "note": "śāsana as the Buddha's dispensation; children matches fixed Dharma rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T524",
+    "senses": [
+     {
+      "sense": "fearlessness",
+      "academic": "absence de peur",
+      "children": "absence de peur",
+      "note": "abhaya standardly 'absence de peur' in French Buddhist usage."
+     }
+    ]
+   },
+   {
+    "term_id": "T525",
+    "senses": [
+     {
+      "sense": "virtuous factor",
+      "academic": "facteur vertueux",
+      "children": "sorte de bonne action",
+      "note": "Reuses fixed kuśala renderings 'vertu' and 'bonne action'."
+     }
+    ]
+   },
+   {
+    "term_id": "T526",
+    "senses": [
+     {
+      "sense": "Vajradhvaja",
+      "academic": "Vajradhvaja",
+      "children": "Vajradhvaja",
+      "note": "Proper name kept in standard Sanskrit form."
+     }
+    ]
+   },
+   {
+    "term_id": "T527",
+    "senses": [
+     {
+      "sense": "resources",
+      "academic": "ressources",
+      "children": "ressources",
+      "note": "sāmagrī as the material resources needed for practice."
+     }
+    ]
+   },
+   {
+    "term_id": "T528",
+    "senses": [
+     {
+      "sense": "other life",
+      "academic": "autre vie",
+      "children": "une autre vie",
+      "note": "janmāntara as a future or other existence."
+     }
+    ]
+   },
+   {
+    "term_id": "T529",
+    "senses": [
+     {
+      "sense": "pride in action",
+      "academic": "orgueil de l'action",
+      "children": "orgueil de ce qu'on fait",
+      "note": "Compound reuses fixed rendering of pride as 'orgueil'."
+     }
+    ]
+   },
+   {
+    "term_id": "T530",
+    "senses": [
+     {
+      "sense": "garuḍa",
+      "academic": "garuḍa",
+      "children": "oiseau géant du ciel",
+      "note": "Mythic bird kept in Sanskrit for scholars, described plainly for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T531",
+    "senses": [
+     {
+      "sense": "effort",
+      "academic": "effort",
+      "children": "effort",
+      "note": "ceṣṭā as diligent effort; everyday word works for both."
+     }
+    ]
+   },
+   {
+    "term_id": "T532",
+    "senses": [
+     {
+      "sense": "Victor Lion",
+      "academic": "Lion des Victorieux",
+      "children": "Lion victorieux",
+      "note": "Compound reuses fixed jina rendering 'Victorieux'."
+     }
+    ]
+   },
+   {
+    "term_id": "T533",
+    "senses": [
+     {
+      "sense": "affliction of pride",
+      "academic": "affliction de l'orgueil",
+      "children": "émotion perturbatrice d'orgueil",
+      "note": "Reuses fixed kleśa and pride renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T534",
+    "senses": [
+     {
+      "sense": "result of victory",
+      "academic": "résultat de la victoire",
+      "children": "fruit de la victoire",
+      "note": "Compound reuses fixed phala rendering 'résultat' for academic."
+     }
+    ]
+   },
+   {
+    "term_id": "T535",
+    "senses": [
+     {
+      "sense": "karmic ripening",
+      "academic": "maturation",
+      "children": "mûrissement",
+      "note": "vipāka standardly 'maturation' (karmique) in French Buddhist scholarship."
+     }
+    ]
+   },
+   {
+    "term_id": "T536",
+    "senses": [
+     {
+      "sense": "one keeping ascetic discipline",
+      "academic": "ascète",
+      "children": "pratiquant rigoureux",
+      "note": "vratin as one bound by religious vows and austerities."
+     }
+    ]
+   },
+   {
+    "term_id": "T537",
+    "senses": [
+     {
+      "sense": "lethargy",
+      "academic": "léthargie",
+      "children": "paresse",
+      "note": "ālasya as sluggish idleness hindering practice."
+     }
+    ]
+   },
+   {
+    "term_id": "T538",
+    "senses": [
+     {
+      "sense": "enthusiasm",
+      "academic": "enthousiasme",
+      "children": "grande envie",
+      "note": "utsāha as joyful eagerness to act."
+     }
+    ]
+   },
+   {
+    "term_id": "T539",
+    "senses": [
+     {
+      "sense": "concentration",
+      "academic": "concentration",
+      "children": "concentration profonde",
+      "note": "samādhi as meditative concentration, distinct from equipoise sense."
+     }
+    ]
+   },
+   {
+    "term_id": "T540",
+    "senses": [
+     {
+      "sense": "distraction",
+      "academic": "distraction complète",
+      "children": "esprit qui vagabonde",
+      "note": "vikṣepa as the mind scattering away from its object."
+     }
+    ]
+   },
+   {
+    "term_id": "T541",
+    "senses": [
+     {
+      "sense": "calm abiding",
+      "academic": "calme mental",
+      "children": "calme intérieur",
+      "note": "śamatha standardly rendered 'calme mental' in French Buddhist texts."
+     }
+    ]
+   },
+   {
+    "term_id": "T542",
+    "senses": [
+     {
+      "sense": "special insight",
+      "academic": "vision supérieure",
+      "children": "vision claire",
+      "note": "vipaśyanā standardly 'vision supérieure' in French Buddhist usage."
+     }
+    ]
+   },
+   {
+    "term_id": "T543",
+    "senses": [
+     {
+      "sense": "non-attachment",
+      "academic": "absence d'attachement",
+      "children": "ne pas s'accrocher",
+      "note": "Negation of fixed lobha renderings 'attachement' and 's'accrocher'."
+     }
+    ]
+   },
+   {
+    "term_id": "T544",
+    "senses": [
+     {
+      "sense": "meditative equipoise",
+      "academic": "équilibre méditatif",
+      "children": "esprit stable",
+      "note": "samādhi as settled equipoise, distinct from concentration sense."
+     }
+    ]
+   },
+   {
+    "term_id": "T545",
+    "senses": [
+     {
+      "sense": "mind of disillusionment",
+      "academic": "esprit de désillusion",
+      "children": "esprit fatigué",
+      "note": "saṃvega as disillusioned urgency toward saṃsāra."
+     }
+    ]
+   },
+   {
+    "term_id": "T546",
+    "senses": [
+     {
+      "sense": "impermanent",
+      "academic": "impermanent",
+      "children": "qui ne dure pas",
+      "note": "aśāśvata as not eternal, not lasting."
+     }
+    ]
+   },
+   {
+    "term_id": "T547",
+    "senses": [
+     {
+      "sense": "friend",
+      "academic": "amis et parents",
+      "children": "ami",
+      "note": "Academic sense covers both friends and relatives as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T548",
+    "senses": [
+     {
+      "sense": "ordinary being",
+      "academic": "être ordinaire",
+      "children": "personne ordinaire",
+      "note": "pṛthagjana as unawakened ordinary person."
+     }
+    ]
+   },
+   {
+    "term_id": "T549",
+    "senses": [
+     {
+      "sense": "conceit",
+      "academic": "vanité",
+      "children": "se croire supérieur",
+      "note": "Distinct from fixed 'orgueil' (pride); conceit as self-inflation."
+     }
+    ]
+   },
+   {
+    "term_id": "T550",
+    "senses": [
+     {
+      "sense": "fear",
+      "academic": "peur",
+      "children": "peur",
+      "note": "bhaya as fear; everyday word serves both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T551",
+    "senses": [
+     {
+      "sense": "good reputation",
+      "academic": "bonne réputation",
+      "children": "bon nom",
+      "note": "Fame or good name among people."
+     }
+    ]
+   },
+   {
+    "term_id": "T552",
+    "senses": [
+     {
+      "sense": "praise",
+      "academic": "louange",
+      "children": "compliments",
+      "note": "Verbal praise; plain everyday word for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T553",
+    "senses": [
+     {
+      "sense": "disparage",
+      "academic": "dénigrer",
+      "children": "dire du mal",
+      "note": "Verb given in infinitive head form for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T554",
+    "senses": [
+     {
+      "sense": "alms bowl",
+      "academic": "bol à aumônes",
+      "children": "bol à aumônes",
+      "note": "pātra as the monk's begging bowl."
+     }
+    ]
+   },
+   {
+    "term_id": "T555",
+    "senses": [
+     {
+      "sense": "path of existence",
+      "academic": "chemin de l'existence",
+      "children": "chemin de la vie",
+      "note": "bhavādhvan as the road of cyclic existence."
+     }
+    ]
+   },
+   {
+    "term_id": "T556",
+    "senses": [
+     {
+      "sense": "recollection of the Buddha",
+      "academic": "remémoration du Bouddha",
+      "children": "se souvenir du Bouddha",
+      "note": "buddhānusmṛti as mindful recollection; reuses fixed 'Bouddha'."
+     }
+    ]
+   },
+   {
+    "term_id": "T557",
+    "senses": [
+     {
+      "sense": "skeleton",
+      "academic": "squelette",
+      "children": "squelette",
+      "note": "asthi sense here is the whole skeleton, not a single bone."
+     }
+    ]
+   },
+   {
+    "term_id": "T558",
+    "senses": [
+     {
+      "sense": "affliction",
+      "academic": "affliction",
+      "children": "émotion perturbatrice",
+      "note": "Matches fixed kleśa renderings exactly."
+     }
+    ]
+   },
+   {
+    "term_id": "T559",
+    "senses": [
+     {
+      "sense": "miser",
+      "academic": "avare",
+      "children": "personne avare",
+      "note": "One who hoards and refuses to give."
+     }
+    ]
+   },
+   {
+    "term_id": "T560",
+    "senses": [
+     {
+      "sense": "heap of flesh",
+      "academic": "amas de chair",
+      "children": "tas de chair",
+      "note": "Body viewed as a mere pile of flesh."
+     }
+    ]
+   },
+   {
+    "term_id": "T561",
+    "senses": [
+     {
+      "sense": "reanimated corpse",
+      "academic": "cadavre réanimé",
+      "children": "cadavre qui marche",
+      "note": "vetāla as a corpse reanimated by a spirit."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 3898,
+  "output": 1959,
+  "thinking": 3147,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 141.25,
+ "attempt": 1
+}

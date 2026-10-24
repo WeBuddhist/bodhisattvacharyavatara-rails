@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T642",
+    "senses": [
+     {
+      "sense": "obscuration of afflictions and of objects of knowledge",
+      "academic": "oscuramento delle afflizioni e degli oggetti di conoscenza",
+      "children": "velo delle emozioni che disturbano e delle cose da conoscere",
+      "note": "Compound of kleśa and jñeyāvaraṇa; reuses fixed rendering for affliction."
+     }
+    ]
+   },
+   {
+    "term_id": "T643",
+    "senses": [
+     {
+      "sense": "six consciousnesses",
+      "academic": "sei coscienze",
+      "children": "sei tipi di consapevolezza",
+      "note": "Standard Abhidharma set of six consciousnesses."
+     }
+    ]
+   },
+   {
+    "term_id": "T644",
+    "senses": [
+     {
+      "sense": "designated",
+      "academic": "designato",
+      "children": "etichettato",
+      "note": "Distinct from kalpita (imputed); participle used as head form."
+     }
+    ]
+   },
+   {
+    "term_id": "T645",
+    "senses": [
+     {
+      "sense": "karma and result",
+      "academic": "karma e risultato",
+      "children": "azione e risultato",
+      "note": "Reuses fixed rendering for phala."
+     }
+    ]
+   },
+   {
+    "term_id": "T646",
+    "senses": [
+     {
+      "sense": "one who experiences",
+      "academic": "sperimentatore",
+      "children": "chi sperimenta",
+      "note": "Agent noun; children's phrase mirrors the English paraphrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T647",
+    "senses": [
+     {
+      "sense": "imputed",
+      "academic": "imputato",
+      "children": "immaginato",
+      "note": "Established Madhyamaka usage in Italian."
+     }
+    ]
+   },
+   {
+    "term_id": "T648",
+    "senses": [
+     {
+      "sense": "assemblage of conditions",
+      "academic": "insieme delle condizioni",
+      "children": "insieme di circostanze",
+      "note": "Reuses fixed renderings for pratyaya in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T649",
+    "senses": [
+     {
+      "sense": "part",
+      "academic": "parte",
+      "children": "parte",
+      "note": "Everyday word identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T650",
+    "senses": [
+     {
+      "sense": "directional part",
+      "academic": "parte direzionale",
+      "children": "parte in una direzione",
+      "note": "Technical term from the atomism debate."
+     }
+    ]
+   },
+   {
+    "term_id": "T651",
+    "senses": [
+     {
+      "sense": "experience",
+      "academic": "esperienza",
+      "children": "esperienza",
+      "note": "English matches saṃvitti's academic sense, so same rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T652",
+    "senses": [
+     {
+      "sense": "subtle state",
+      "academic": "stato sottile",
+      "children": "forma tenue",
+      "note": "Abstract noun built on sūkṣma."
+     }
+    ]
+   },
+   {
+    "term_id": "T653",
+    "senses": [
+     {
+      "sense": "opposing condition",
+      "academic": "condizione avversa",
+      "children": "circostanza contraria",
+      "note": "Reuses fixed pratyaya renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T654",
+    "senses": [
+     {
+      "sense": "conceptual clinging",
+      "academic": "aderenza concettuale",
+      "children": "tenersi stretti a un'idea",
+      "note": "Aderenza distinguishes abhiniveśa from lobha (attaccamento)."
+     }
+    ]
+   },
+   {
+    "term_id": "T655",
+    "senses": [
+     {
+      "sense": "partless",
+      "academic": "privo di parti",
+      "children": "senza parti",
+      "note": "Key term in the partless-particle argument."
+     }
+    ]
+   },
+   {
+    "term_id": "T656",
+    "senses": [
+     {
+      "sense": "contact",
+      "academic": "contatto",
+      "children": "tocco",
+      "note": "Sense-contact factor; children get the everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T657",
+    "senses": [
+     {
+      "sense": "two truths",
+      "academic": "due verità",
+      "children": "due verità",
+      "note": "Conventional and ultimate truth; same plain form both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T658",
+    "senses": [
+     {
+      "sense": "conceptual thought",
+      "academic": "pensiero concettuale",
+      "children": "immaginazione",
+      "note": "Kalpanā as discursive, concept-forming thought."
+     }
+    ]
+   },
+   {
+    "term_id": "T659",
+    "senses": [
+     {
+      "sense": "analysis",
+      "academic": "analisi",
+      "children": "esame attento",
+      "note": "Reasoned investigation in the ninth chapter."
+     }
+    ]
+   },
+   {
+    "term_id": "T660",
+    "senses": [
+     {
+      "sense": "object of analysis",
+      "academic": "oggetto di analisi",
+      "children": "cosa esaminata",
+      "note": "Passive counterpart of vicāra."
+     }
+    ]
+   },
+   {
+    "term_id": "T661",
+    "senses": [
+     {
+      "sense": "power of consciousness",
+      "academic": "potere della coscienza",
+      "children": "potere della consapevolezza",
+      "note": "Consciousness rendering kept consistent with T643."
+     }
+    ]
+   },
+   {
+    "term_id": "T662",
+    "senses": [
+     {
+      "sense": "worldly direct perception",
+      "academic": "percezione diretta mondana",
+      "children": "visione diretta di tutti i giorni",
+      "note": "Ordinary perception contrasted with yogic perception."
+     }
+    ]
+   },
+   {
+    "term_id": "T663",
+    "senses": [
+     {
+      "sense": "element",
+      "academic": "elemento",
+      "children": "elemento",
+      "note": "The great elements, earth, water, fire, wind."
+     }
+    ]
+   },
+   {
+    "term_id": "T664",
+    "senses": [
+     {
+      "sense": "beyond thought",
+      "academic": "inconcepibile",
+      "children": "al di là del pensiero",
+      "note": "Academic adjective; children's phrase mirrors the English."
+     }
+    ]
+   },
+   {
+    "term_id": "T665",
+    "senses": [
+     {
+      "sense": "beginningless",
+      "academic": "privo di inizio",
+      "children": "senza inizio",
+      "note": "Standard rendering of anādi."
+     }
+    ]
+   },
+   {
+    "term_id": "T666",
+    "senses": [
+     {
+      "sense": "Sāṃkhya",
+      "academic": "Sāṃkhya",
+      "children": "Samkhya",
+      "note": "Name of the Indian philosophical school; children drop diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T667",
+    "senses": [
+     {
+      "sense": "equilibrium",
+      "academic": "equilibrio",
+      "children": "equilibrio perfetto",
+      "note": "Sāṃkhya equilibrium of the three guṇas."
+     }
+    ]
+   },
+   {
+    "term_id": "T668",
+    "senses": [
+     {
+      "sense": "experience",
+      "academic": "esperienza",
+      "children": "sensazione",
+      "note": "Academic matches anubhava; children follow the English 'feeling'."
+     }
+    ]
+   },
+   {
+    "term_id": "T669",
+    "senses": [
+     {
+      "sense": "coarse",
+      "academic": "grossolano",
+      "children": "ruvido",
+      "note": "Opposite of sūkṣma."
+     }
+    ]
+   },
+   {
+    "term_id": "T670",
+    "senses": [
+     {
+      "sense": "subtle",
+      "academic": "sottile",
+      "children": "tenue",
+      "note": "Same sense as T671, so renderings match."
+     }
+    ]
+   },
+   {
+    "term_id": "T671",
+    "senses": [
+     {
+      "sense": "subtle",
+      "academic": "sottile",
+      "children": "tenue",
+      "note": "Same sense as T670, so renderings match."
+     }
+    ]
+   },
+   {
+    "term_id": "T672",
+    "senses": [
+     {
+      "sense": "non-existent",
+      "academic": "inesistente",
+      "children": "che non esiste",
+      "note": "Children get a plain paraphrase of the same idea."
+     }
+    ]
+   },
+   {
+    "term_id": "T673",
+    "senses": [
+     {
+      "sense": "meditation",
+      "academic": "meditazione",
+      "children": "meditazione",
+      "note": "Already an everyday word in Italian."
+     }
+    ]
+   },
+   {
+    "term_id": "T674",
+    "senses": [
+     {
+      "sense": "imputed entity",
+      "academic": "entità imputata",
+      "children": "cosa immaginata",
+      "note": "Compound reuses kalpita and bhāva renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T675",
+    "senses": [
+     {
+      "sense": "without a cause",
+      "academic": "senza causa",
+      "children": "senza una causa",
+      "note": "Reuses fixed rendering for cause."
+     }
+    ]
+   },
+   {
+    "term_id": "T676",
+    "senses": [
+     {
+      "sense": "reflection",
+      "academic": "riflesso",
+      "children": "riflesso",
+      "note": "Mirror-image simile; everyday word suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T677",
+    "senses": [
+     {
+      "sense": "true existence",
+      "academic": "vera esistenza",
+      "children": "essere veramente reale",
+      "note": "Madhyamaka target of negation."
+     }
+    ]
+   },
+   {
+    "term_id": "T678",
+    "senses": [
+     {
+      "sense": "non-entity",
+      "academic": "non-entità",
+      "children": "cosa inesistente",
+      "note": "Built on the fixed renderings for entity."
+     }
+    ]
+   },
+   {
+    "term_id": "T679",
+    "senses": [
+     {
+      "sense": "cessation",
+      "academic": "cessazione",
+      "children": "fermarsi",
+      "note": "Third noble truth term; children get a plain verb-noun."
+     }
+    ]
+   },
+   {
+    "term_id": "T680",
+    "senses": [
+     {
+      "sense": "neither arisen nor ceased",
+      "academic": "non nato e non cessato",
+      "children": "mai nato e mai finito",
+      "note": "Classic pair describing emptiness."
+     }
+    ]
+   },
+   {
+    "term_id": "T681",
+    "senses": [
+     {
+      "sense": "empty",
+      "academic": "vuoto",
+      "children": "vuoto",
+      "note": "Adjective corresponding to śūnyatā, emptiness."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 3995,
+  "output": 2296,
+  "thinking": 4032,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 113.0,
+ "attempt": 1
+}

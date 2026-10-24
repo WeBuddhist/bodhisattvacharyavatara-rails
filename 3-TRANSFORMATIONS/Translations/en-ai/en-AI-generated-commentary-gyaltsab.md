@@ -1,5 +1,6 @@
 ---
-title: "AI-generated Translation of Commentary by Gyaltsab Darma Rinchen (Chapters 0 & 1)"
+title: "AI-generated Translation of Commentary by Gyaltsab Darma Rinchen (Chapters 0 & 1) — AI translation"
+ai_generated: true
 source_language: bo
 target_language: en
 status: ai-generated
@@ -11,7 +12,7 @@ referenced_files:
 created_at: 2026-05-28
 ---
 
-# Commentary on Entering the Way of the Hero of Enlightenment, entitled "The Gateway for the Buddha's Heirs" (རྒྱལ་སྲས་འཇུག་ངོགས་)
+# Commentary on Entering the Way of the Hero of Enlightenment, entitled "The Gateway for the Buddha's Heirs" (རྒྱལ་སྲས་འཇུག་ངོགས་) — AI translation
 
 ## 0. Introduction (སྔོན་འགྲོ།)
 

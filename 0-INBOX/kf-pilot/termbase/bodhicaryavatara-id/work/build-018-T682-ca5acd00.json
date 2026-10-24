@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T682",
+    "senses": [
+     {
+      "sense": "ocean of suffering",
+      "academic": "samudra penderitaan",
+      "children": "lautan penderitaan",
+      "note": "Compound with fixed duḥkha; children uses everyday 'lautan' for ocean."
+     }
+    ]
+   },
+   {
+    "term_id": "T683",
+    "senses": [
+     {
+      "sense": "distraction",
+      "academic": "distraksi",
+      "children": "perhatian yang teralih",
+      "note": "Vikṣepa, scattering of attention; children phrased as attention wandering off."
+     }
+    ]
+   },
+   {
+    "term_id": "T684",
+    "senses": [
+     {
+      "sense": "great lower realm",
+      "academic": "alam rendah yang besar",
+      "children": "alam yang sangat menyedihkan",
+      "note": "Intensified form of fixed 'lower realm' renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T685",
+    "senses": [
+     {
+      "sense": "wrong path",
+      "academic": "jalan sesat",
+      "children": "jalan yang salah",
+      "note": "Academic 'jalan sesat' is standard for wrong/deviant paths."
+     }
+    ]
+   },
+   {
+    "term_id": "T686",
+    "senses": [
+     {
+      "sense": "river of afflictions",
+      "academic": "sungai kekotoran batin",
+      "children": "sungai perasaan yang mengganggu",
+      "note": "Reuses fixed kleśa renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T687",
+    "senses": [
+     {
+      "sense": "river of suffering",
+      "academic": "sungai penderitaan",
+      "children": "sungai penderitaan",
+      "note": "English identical in both registers; rendering kept identical."
+     }
+    ]
+   },
+   {
+    "term_id": "T688",
+    "senses": [
+     {
+      "sense": "aging and death",
+      "academic": "penuaan dan kematian",
+      "children": "menjadi tua dan meninggal",
+      "note": "Jarāmaraṇa of the twelve links; children verbalized plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T689",
+    "senses": [
+     {
+      "sense": "fire of suffering",
+      "academic": "api penderitaan",
+      "children": "api penderitaan",
+      "note": "English identical in both registers; rendering kept identical."
+     }
+    ]
+   },
+   {
+    "term_id": "T690",
+    "senses": [
+     {
+      "sense": "accumulation of merit",
+      "academic": "pengumpulan jasa kebajikan",
+      "children": "tabungan kebaikan yang terkumpul",
+      "note": "Saṃbhāra as gathering; reuses fixed puṇya renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T691",
+    "senses": [
+     {
+      "sense": "non-apprehension",
+      "academic": "non-aprehensi",
+      "children": "tidak terpaku pada apa pun",
+      "note": "Technical Madhyamaka term; no standard Indonesian equivalent, loanword used academically."
+     }
+    ]
+   },
+   {
+    "term_id": "T692",
+    "senses": [
+     {
+      "sense": "world system",
+      "academic": "sistem dunia",
+      "children": "alam dunia",
+      "note": "Lokadhātu, a cosmic world-realm in Buddhist cosmology."
+     }
+    ]
+   },
+   {
+    "term_id": "T693",
+    "senses": [
+     {
+      "sense": "Sukhāvatī",
+      "academic": "Sukhawati",
+      "children": "Sukhawati",
+      "note": "Amitabha's pure land; standard Indonesian spelling with 'w'."
+     }
+    ]
+   },
+   {
+    "term_id": "T694",
+    "senses": [
+     {
+      "sense": "name of a thorny tree in hell",
+      "academic": "Salmali",
+      "children": "Salmali",
+      "note": "Proper name of the hell tree, retained in standard Indonesian spelling."
+     }
+    ]
+   },
+   {
+    "term_id": "T695",
+    "senses": [
+     {
+      "sense": "divine palace",
+      "academic": "istana surgawi",
+      "children": "istana di surga",
+      "note": "Vimāna, celestial mansion of devas; children phrased with everyday words."
+     }
+    ]
+   },
+   {
+    "term_id": "T696",
+    "senses": [
+     {
+      "sense": "hell river",
+      "academic": "sungai yang tak terseberangi",
+      "children": "sungai yang tidak bisa diseberangi",
+      "note": "Vaitaraṇī rendered descriptively per English; register differs in wording only."
+     }
+    ]
+   },
+   {
+    "term_id": "T697",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Wajrapani",
+      "children": "Wajrapani",
+      "note": "Bodhisattva name in standard Indonesian spelling."
+     }
+    ]
+   },
+   {
+    "term_id": "T698",
+    "senses": [
+     {
+      "sense": "Padmapāṇi (name of Avalokiteśvara)",
+      "academic": "Padmapani",
+      "children": "Padmapani",
+      "note": "Epithet of Avalokiteshvara, 'lotus-handed'; standard Indonesian spelling."
+     }
+    ]
+   },
+   {
+    "term_id": "T699",
+    "senses": [
+     {
+      "sense": "youth with a topknot",
+      "academic": "pemuda bersanggul",
+      "children": "anak lelaki bersanggul",
+      "note": "Topknot rendered 'sanggul'; youth becomes 'anak lelaki' for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T700",
+    "senses": [
+     {
+      "sense": "compassion, affection",
+      "academic": "kasih sayang",
+      "children": "belas kasih",
+      "note": "Academic follows English 'affection'; children follows English 'compassion'."
+     }
+    ]
+   },
+   {
+    "term_id": "T701",
+    "senses": [
+     {
+      "sense": "root of virtue",
+      "academic": "akar kebajikan",
+      "children": "akar perbuatan baik",
+      "note": "Reuses fixed kuśala renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T702",
+    "senses": [
+     {
+      "sense": "animal",
+      "academic": "binatang",
+      "children": "hewan",
+      "note": "Animal realm (tiryak); 'hewan' is the friendlier everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T703",
+    "senses": [
+     {
+      "sense": "Uttarakuru",
+      "academic": "Uttarakuru",
+      "children": "Uttarakuru",
+      "note": "Northern continent in Buddhist cosmology; name unchanged."
+     }
+    ]
+   },
+   {
+    "term_id": "T704",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Awalokiteswara",
+      "children": "Awalokiteswara",
+      "note": "Standard Indonesian form of Avalokiteshvara."
+     }
+    ]
+   },
+   {
+    "term_id": "T705",
+    "senses": [
+     {
+      "sense": "Māyādevī (goddess)",
+      "academic": "Mayadewi",
+      "children": "Mayadewi",
+      "note": "Mother of the Buddha; standard Indonesian spelling 'Mayadewi'."
+     }
+    ]
+   },
+   {
+    "term_id": "T706",
+    "senses": [
+     {
+      "sense": "state without leisure",
+      "academic": "keadaan tanpa keluangan",
+      "children": "keadaan tanpa kebebasan",
+      "note": "Akṣaṇa, birth lacking opportunity or freedom to practice Dharma."
+     }
+    ]
+   },
+   {
+    "term_id": "T707",
+    "senses": [
+     {
+      "sense": "compassion",
+      "academic": "karuna",
+      "children": "belas kasih",
+      "note": "Kṛpā; 'karuna' is established in Indonesian Buddhist usage."
+     }
+    ]
+   },
+   {
+    "term_id": "T708",
+    "senses": [
+     {
+      "sense": "treasury of space",
+      "academic": "perbendaharaan angkasa",
+      "children": "gudang harta angkasa",
+      "note": "Also the bodhisattva Gaganagañja; rendered by meaning per English."
+     }
+    ]
+   },
+   {
+    "term_id": "T709",
+    "senses": [
+     {
+      "sense": "conduct of awakening",
+      "academic": "laku pencerahan",
+      "children": "cara bertindak demi kebangkitan",
+      "note": "Caryā as 'laku' (practice/conduct); reuses fixed bodhi renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T710",
+    "senses": [
+     {
+      "sense": "action of Māra",
+      "academic": "karma Mara",
+      "children": "perbuatan Mara",
+      "note": "Deeds of Mara, the tempter; name in standard Indonesian form."
+     }
+    ]
+   },
+   {
+    "term_id": "T711",
+    "senses": [
+     {
+      "sense": "lapis lazuli",
+      "academic": "lapis lazuli",
+      "children": "batu lapis lazuli",
+      "note": "Gem name already used in Indonesian; children adds 'batu' for clarity."
+     }
+    ]
+   },
+   {
+    "term_id": "T712",
+    "senses": [
+     {
+      "sense": "circle of retinue",
+      "academic": "mandala",
+      "children": "lingkaran",
+      "note": "Indonesian retains established 'mandala'; children uses plain 'lingkaran'."
+     }
+    ]
+   },
+   {
+    "term_id": "T713",
+    "senses": [
+     {
+      "sense": "sound of the Dharma",
+      "academic": "suara Dharma",
+      "children": "suara ajaran Buddha",
+      "note": "Reuses fixed dharma (teaching) renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T714",
+    "senses": [
+     {
+      "sense": "cloud of offerings",
+      "academic": "awan persembahan",
+      "children": "awan persembahan",
+      "note": "English identical in both registers; rendering kept identical."
+     }
+    ]
+   },
+   {
+    "term_id": "T715",
+    "senses": [
+     {
+      "sense": "teacher of wandering beings",
+      "academic": "guru makhluk dunia",
+      "children": "guru para makhluk",
+      "note": "Reuses fixed jagat renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T716",
+    "senses": [
+     {
+      "sense": "king",
+      "academic": "raja",
+      "children": "raja",
+      "note": "Everyday word, identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T717",
+    "senses": [
+     {
+      "sense": "secret mantra",
+      "academic": "mantra rahasia",
+      "children": "kata-kata suci yang rahasia",
+      "note": "Children unpacks 'mantra' as sacred words per English rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T718",
+    "senses": [
+     {
+      "sense": "ḍākinī",
+      "academic": "dakini",
+      "children": "pengembara langit",
+      "note": "Sanskrit term retained academically; children follows English 'sky-goer'."
+     }
+    ]
+   },
+   {
+    "term_id": "T719",
+    "senses": [
+     {
+      "sense": "monastery",
+      "academic": "wihara",
+      "children": "wihara",
+      "note": "'Wihara' is the established everyday Indonesian word for Buddhist monastery."
+     }
+    ]
+   },
+   {
+    "term_id": "T720",
+    "senses": [
+     {
+      "sense": "recitation",
+      "academic": "resitasi",
+      "children": "melantunkan bacaan",
+      "note": "Svādhyāya, recitation of scriptures; children phrased as chanting aloud."
+     }
+    ]
+   },
+   {
+    "term_id": "T721",
+    "senses": [
+     {
+      "sense": "Saṅgha",
+      "academic": "Sangha",
+      "children": "perkumpulan biksu dan biksuni",
+      "note": "Established 'Sangha' academically; children follows English explanation."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4192,
+  "output": 2567,
+  "thinking": 6169,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 261.3,
+ "attempt": 1
+}

@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T361",
+    "senses": [
+     {
+      "sense": "non-virtue",
+      "academic": "maovu",
+      "children": "tendo baya",
+      "note": "akuśala; opposite of kuśala (fadhila); kept distinct from dhambi."
+     }
+    ]
+   },
+   {
+    "term_id": "T362",
+    "senses": [
+     {
+      "sense": "natural misdeed",
+      "academic": "dhambi ya asili",
+      "children": "tendo la madhara kwa lenyewe",
+      "note": "Wrong by its own nature; reuses fixed misdeed renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T363",
+    "senses": [
+     {
+      "sense": "proscribed misdeed",
+      "academic": "dhambi iliyopigwa marufuku",
+      "children": "tendo la madhara lililo marufuku",
+      "note": "Wrong because forbidden by precept; reuses fixed misdeed renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T364",
+    "senses": [
+     {
+      "sense": "joined palms",
+      "academic": "viganja vilivyoshikamana",
+      "children": "mikono iliyobanwa pamoja",
+      "note": "Añjali gesture of reverence, palms pressed together."
+     }
+    ]
+   },
+   {
+    "term_id": "T365",
+    "senses": [
+     {
+      "sense": "definite liberation",
+      "academic": "ukombozi wa hakika",
+      "children": "uhuru kamili",
+      "note": "Final, irreversible liberation; consistent with ukombozi for liberation."
+     }
+    ]
+   },
+   {
+    "term_id": "T366",
+    "senses": [
+     {
+      "sense": "level of the children of the Victors",
+      "academic": "ngazi ya wana wa Washindi",
+      "children": "ngazi ya watoto wa Washindi",
+      "note": "Bodhisattva level (bhūmi); reuses fixed Victor rendering Mshindi."
+     }
+    ]
+   },
+   {
+    "term_id": "T367",
+    "senses": [
+     {
+      "sense": "generation of bodhicitta",
+      "academic": "kuzuka kwa bodhicitta",
+      "children": "kuzaliwa kwa akili ya uamsho",
+      "note": "Cittotpāda; reuses fixed bodhicitta renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T368",
+    "senses": [
+     {
+      "sense": "lamp of the Dharma",
+      "academic": "taa ya Dharma",
+      "children": "taa ya mafundisho",
+      "note": "Reuses fixed Dharma renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T369",
+    "senses": [
+     {
+      "sense": "intermediate eon of famine",
+      "academic": "kalpa ya kati ya njaa",
+      "children": "zama ndefu la kati la njaa",
+      "note": "Reuses fixed kalpa renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T370",
+    "senses": [
+     {
+      "sense": "possessions",
+      "academic": "mali",
+      "children": "mali",
+      "note": "Bhoga; possessions and things enjoyed."
+     }
+    ]
+   },
+   {
+    "term_id": "T371",
+    "senses": [
+     {
+      "sense": "wish-fulfilling jewel",
+      "academic": "johari itimizayo matamanio",
+      "children": "johari inayotimiza matamanio",
+      "note": "Cintāmaṇi, mythical gem granting wishes."
+     }
+    ]
+   },
+   {
+    "term_id": "T372",
+    "senses": [
+     {
+      "sense": "excellent vase",
+      "academic": "gudulia bora",
+      "children": "chombo cha ajabu",
+      "note": "Bhadraghaṭa, auspicious treasure vase."
+     }
+    ]
+   },
+   {
+    "term_id": "T373",
+    "senses": [
+     {
+      "sense": "knowledge-mantra",
+      "academic": "mantra ya maarifa",
+      "children": "maneno matakatifu yenye nguvu",
+      "note": "Vidyā, esoteric knowledge formula."
+     }
+    ]
+   },
+   {
+    "term_id": "T374",
+    "senses": [
+     {
+      "sense": "great medicine",
+      "academic": "dawa kuu",
+      "children": "dawa kuu",
+      "note": "Mahauṣadhi, supremely effective remedy."
+     }
+    ]
+   },
+   {
+    "term_id": "T375",
+    "senses": [
+     {
+      "sense": "wish-fulfilling cow",
+      "academic": "ng'ombe wa wingi",
+      "children": "ng'ombe anayetimiza matamanio",
+      "note": "Kāmadhenu, mythical cow of abundance."
+     }
+    ]
+   },
+   {
+    "term_id": "T376",
+    "senses": [
+     {
+      "sense": "great elements",
+      "academic": "elementi kuu",
+      "children": "kipengele cha msingi",
+      "note": "Mahābhūta: earth, water, fire, wind."
+     }
+    ]
+   },
+   {
+    "term_id": "T377",
+    "senses": [
+     {
+      "sense": "realm of sentient beings",
+      "academic": "ulimwengu wa viumbe vyenye hisia",
+      "children": "ulimwengu wa viumbe hai",
+      "note": "Reuses fixed sentient being renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T378",
+    "senses": [
+     {
+      "sense": "bodhicitta (honorific)",
+      "academic": "bodhicitta",
+      "children": "akili ya uamsho",
+      "note": "Honorific occurrence; reuses fixed bodhicitta renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T379",
+    "senses": [
+     {
+      "sense": "human existence",
+      "academic": "uhai wa kibinadamu",
+      "children": "maisha ya kibinadamu",
+      "note": "Human state of existence (bhava) within saṃsāra."
+     }
+    ]
+   },
+   {
+    "term_id": "T380",
+    "senses": [
+     {
+      "sense": "family of the Buddhas",
+      "academic": "ukoo wa Mabuddha",
+      "children": "familia ya Mabuddha",
+      "note": "Buddhakula, lineage of the Buddhas."
+     }
+    ]
+   },
+   {
+    "term_id": "T381",
+    "senses": [
+     {
+      "sense": "nectar",
+      "academic": "kinywaji cha milele",
+      "children": "kinywaji cha milele",
+      "note": "Amrita; descriptive phrase for the nectar of immortality."
+     }
+    ]
+   },
+   {
+    "term_id": "T382",
+    "senses": [
+     {
+      "sense": "path of existence",
+      "academic": "njia ya uwepo",
+      "children": "njia ya maisha",
+      "note": "Bhavādhva, the long road through cyclic existence."
+     }
+    ]
+   },
+   {
+    "term_id": "T383",
+    "senses": [
+     {
+      "sense": "universal bridge",
+      "academic": "daraja la wote",
+      "children": "daraja la kila mtu",
+      "note": "Setu, bridge for all beings to cross."
+     }
+    ]
+   },
+   {
+    "term_id": "T384",
+    "senses": [
+     {
+      "sense": "not knowing",
+      "academic": "kutokujua",
+      "children": "kutokujua",
+      "note": "Ajñāna, absence of knowing; distinct from moha (upotofu wa akili)."
+     }
+    ]
+   },
+   {
+    "term_id": "T385",
+    "senses": [
+     {
+      "sense": "child of the Victors",
+      "academic": "mwana wa Washindi",
+      "children": "mtoto wa Washindi",
+      "note": "Epithet of bodhisattvas; reuses fixed Victor rendering Mshindi."
+     }
+    ]
+   },
+   {
+    "term_id": "T386",
+    "senses": [
+     {
+      "sense": "training",
+      "academic": "mafunzo",
+      "children": "mafunzo",
+      "note": "Śikṣā, training in the precepts."
+     }
+    ]
+   },
+   {
+    "term_id": "T387",
+    "senses": [
+     {
+      "sense": "unsurpassed happiness",
+      "academic": "furaha isiyoshindwa",
+      "children": "furaha kuu",
+      "note": "Anuttara, unsurpassed; reuses fixed sukha rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T388",
+    "senses": [
+     {
+      "sense": "liberation",
+      "academic": "ukombozi",
+      "children": "uhuru",
+      "note": "From mocayati, freeing; noun form."
+     }
+    ]
+   },
+   {
+    "term_id": "T389",
+    "senses": [
+     {
+      "sense": "Omniscient One",
+      "academic": "Mjuzi wa Yote",
+      "children": "Mwenye Kujua Kila Kitu",
+      "note": "Sarvajña, epithet of the Buddha."
+     }
+    ]
+   },
+   {
+    "term_id": "T390",
+    "senses": [
+     {
+      "sense": "fire of hell",
+      "academic": "moto wa jehanamu",
+      "children": "moto wa jehanamu",
+      "note": "Reuses fixed hell rendering jehanamu."
+     }
+    ]
+   },
+   {
+    "term_id": "T391",
+    "senses": [
+     {
+      "sense": "regret, remorse",
+      "academic": "majuto",
+      "children": "kujutia",
+      "note": "Paścāttāpa, remorse felt after misdeeds."
+     }
+    ]
+   },
+   {
+    "term_id": "T392",
+    "senses": [
+     {
+      "sense": "Avīci hell",
+      "academic": "jehanamu ya Avichi",
+      "children": "Avichi",
+      "note": "Proper name, spelled in Swahili fashion; most terrible hell."
+     }
+    ]
+   },
+   {
+    "term_id": "T393",
+    "senses": [
+     {
+      "sense": "faculties",
+      "academic": "mkusanyiko wa vyombo vya hisia",
+      "children": "kundi la hisia",
+      "note": "Indriyagaṇa, the sense faculties taken together."
+     }
+    ]
+   },
+   {
+    "term_id": "T394",
+    "senses": [
+     {
+      "sense": "chapter title: Heedfulness",
+      "academic": "Uangalifu",
+      "children": "Kuwa makini",
+      "note": "Chapter title; apramāda, vigilance against carelessness."
+     }
+    ]
+   },
+   {
+    "term_id": "T395",
+    "senses": [
+     {
+      "sense": "hell guardian",
+      "academic": "mlinzi wa jehanamu",
+      "children": "mlinzi wa jehanamu",
+      "note": "Narakapāla, guardians who torment hell beings."
+     }
+    ]
+   },
+   {
+    "term_id": "T396",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Msemaji wa Kweli",
+      "children": "Asemaye Kweli",
+      "note": "Tattvavādin, epithet of the Buddha."
+     }
+    ]
+   },
+   {
+    "term_id": "T397",
+    "senses": [
+     {
+      "sense": "mind of misdeed",
+      "academic": "akili ya dhambi",
+      "children": "akili ya madhara",
+      "note": "Reuses fixed renderings of mind and misdeed."
+     }
+    ]
+   },
+   {
+    "term_id": "T398",
+    "senses": [
+     {
+      "sense": "mind of relinquishing",
+      "academic": "akili ya kutoa",
+      "children": "akili ya kutoa kila kitu",
+      "note": "Tyāgacitta, mind ready to give everything away."
+     }
+    ]
+   },
+   {
+    "term_id": "T399",
+    "senses": [
+     {
+      "sense": "perfection of ethical discipline",
+      "academic": "ukamilifu wa nidhamu ya kimaadili",
+      "children": "ukamilifu wa tabia njema",
+      "note": "Śīlapāramitā, the perfection of moral conduct."
+     }
+    ]
+   },
+   {
+    "term_id": "T400",
+    "senses": [
+     {
+      "sense": "mind of renunciation",
+      "academic": "akili ya kujizuia",
+      "children": "akili ya kuacha",
+      "note": "Viraticitta, mind of abstaining from what is harmful."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4316,
+  "output": 2590,
+  "thinking": 8275,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 187.71,
+ "attempt": 1
+}

@@ -1,0 +1,247 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T722",
+    "senses": [
+     {
+      "sense": "nun",
+      "academic": "biksuni",
+      "children": "biksuni",
+      "note": "Standard Indonesian Buddhist form of bhikṣuṇī; already everyday usage, kept for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T723",
+    "senses": [
+     {
+      "sense": "alms",
+      "academic": "pindapata",
+      "children": "makanan sedekah",
+      "note": "Established term piṇḍapāta for monastic almsround; children get plain description of donated food."
+     }
+    ]
+   },
+   {
+    "term_id": "T724",
+    "senses": [
+     {
+      "sense": "hardship",
+      "academic": "praktik asketik berat",
+      "children": "latihan diri yang sangat berat",
+      "note": "Refers to severe ascetic practice, not generic difficulty; children's phrase keeps that meaning simply."
+     }
+    ]
+   },
+   {
+    "term_id": "T725",
+    "senses": [
+     {
+      "sense": "welfare of others",
+      "academic": "kesejahteraan makhluk dunia",
+      "children": "kebaikan sesama makhluk",
+      "note": "Reuses fixed jagat renderings ('makhluk dunia' academic, 'makhluk' children)."
+     }
+    ]
+   },
+   {
+    "term_id": "T726",
+    "senses": [
+     {
+      "sense": "solitary buddha",
+      "academic": "Pratyekabuddha",
+      "children": "Buddha yang bangkit sendiri",
+      "note": "Sanskrit term standard in Indonesian scholarship; children phrase mirrors 'self-awakened one'."
+     }
+    ]
+   },
+   {
+    "term_id": "T727",
+    "senses": [
+     {
+      "sense": "first bodhisattva ground",
+      "academic": "Bhumi Kebahagiaan Sempurna",
+      "children": "Tingkat Kebahagiaan Sempurna",
+      "note": "First of ten bodhisattva bhūmis; children use everyday 'tingkat' instead of technical 'bhumi'."
+     }
+    ]
+   },
+   {
+    "term_id": "T728",
+    "senses": [
+     {
+      "sense": "place of seclusion",
+      "academic": "tempat menyendiri",
+      "children": "tempat yang sepi",
+      "note": "Forest or retreat spot for practice; children's rendering stresses quietness."
+     }
+    ]
+   },
+   {
+    "term_id": "T729",
+    "senses": [
+     {
+      "sense": "Saṅgha of bodhisattvas",
+      "academic": "Sangha para bodhisatwa",
+      "children": "perkumpulan pahlawan kebangkitan",
+      "note": "Reuses fixed bodhisattva renderings: 'bodhisatwa' academic, 'pahlawan kebangkitan' children."
+     }
+    ]
+   },
+   {
+    "term_id": "T730",
+    "senses": [
+     {
+      "sense": "teaching (the Buddha's doctrine)",
+      "academic": "sasana",
+      "children": "ajaran Buddha",
+      "note": "'Sasana' is established Indonesian Buddhist term for the Buddha's dispensation."
+     }
+    ]
+   },
+   {
+    "term_id": "T731",
+    "senses": [
+     {
+      "sense": "virtuous intellect",
+      "academic": "intelek bajik",
+      "children": "pikiran yang baik",
+      "note": "Wholesome intelligence aligned with virtue; children's phrase uses fixed 'pikiran'."
+     }
+    ]
+   },
+   {
+    "term_id": "T732",
+    "senses": [
+     {
+      "sense": "spiritual friend",
+      "academic": "kalyanamitra",
+      "children": "sahabat yang baik",
+      "note": "Kalyāṇamitra is established in Indonesian Buddhist usage; children get 'good friend'."
+     }
+    ]
+   },
+   {
+    "term_id": "T733",
+    "senses": [
+     {
+      "sense": "name of the author",
+      "academic": "Śāntideva",
+      "children": "Santideva",
+      "note": "Standard scholarly spelling with diacritics; children's version drops diacritics only."
+     }
+    ]
+   },
+   {
+    "term_id": "T734",
+    "senses": [
+     {
+      "sense": "Sarvajñādeva",
+      "academic": "Sarvajñādeva",
+      "children": "Sarvajnadeva",
+      "note": "Proper name retained; children's spelling simplified without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T735",
+    "senses": [
+     {
+      "sense": "Tibetan translator-editor",
+      "academic": "Bande Paltsek",
+      "children": "Bande Paltsek",
+      "note": "Tibetan proper name (dPal brtsegs) kept as established; identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T736",
+    "senses": [
+     {
+      "sense": "place name",
+      "academic": "Kashmir",
+      "children": "Kashmir",
+      "note": "Standard Indonesian place name; same everyday form suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T737",
+    "senses": [
+     {
+      "sense": "Dharmaśrībhadra (name)",
+      "academic": "Dharmaśrībhadra",
+      "children": "Dharmasribhadra",
+      "note": "Proper name retained; children's spelling drops diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T738",
+    "senses": [
+     {
+      "sense": "translator monk",
+      "academic": "Rinchen Zangpo",
+      "children": "Rinchen Zangpo",
+      "note": "Standard Tibetan name transliteration; identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T739",
+    "senses": [
+     {
+      "sense": "Śākya Lodrö",
+      "academic": "Śākya Lodrö",
+      "children": "Sakya Lodro",
+      "note": "Children's form uses familiar Indonesian 'Sakya' spelling, as in Sakyamuni."
+     }
+    ]
+   },
+   {
+    "term_id": "T740",
+    "senses": [
+     {
+      "sense": "central region",
+      "academic": "wilayah tengah",
+      "children": "negeri tengah",
+      "note": "Madhyadeśa, the central land of Buddhist India; children's phrase stays simple."
+     }
+    ]
+   },
+   {
+    "term_id": "T741",
+    "senses": [
+     {
+      "sense": "Sumatikīrti",
+      "academic": "Sumatikīrti",
+      "children": "Sumatikirti",
+      "note": "Proper name of translator; children's spelling drops diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T742",
+    "senses": [
+     {
+      "sense": "name of a Tibetan translator",
+      "academic": "Loden Sherab",
+      "children": "Loden Sherab",
+      "note": "Standard Tibetan name (Blo ldan shes rab) transliteration; same in both registers."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 2372,
+  "output": 1460,
+  "thinking": 3601,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 149.52,
+ "attempt": 1
+}

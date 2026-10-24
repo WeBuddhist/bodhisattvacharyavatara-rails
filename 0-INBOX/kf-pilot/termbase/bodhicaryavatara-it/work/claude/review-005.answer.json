@@ -1,0 +1,172 @@
+{
+ "objections": [
+  {
+   "term_id": "T491",
+   "sense": "field of the Victors",
+   "field": "academic",
+   "proposed": "campo dei Vincitori",
+   "reason": "jina is 'Vincitore' (T034, T143); academic field should match the children's field."
+  },
+  {
+   "term_id": "T532",
+   "sense": "Victor Lion",
+   "field": "academic",
+   "proposed": "Leone Vincitore",
+   "reason": "jina is 'Vincitore' (T034, T143); matches children's field."
+  },
+  {
+   "term_id": "T502",
+   "sense": "self-contempt",
+   "field": "children",
+   "proposed": "disprezzare se stessi",
+   "reason": "'guardarsi dall'alto in basso' suggests arrogance toward others; the meaning is despising oneself."
+  },
+  {
+   "term_id": "T504",
+   "sense": "idleness",
+   "field": "children",
+   "proposed": "il non far niente",
+   "reason": "'pigrizia' is already used for ālasya (T123) and T537; idleness (snyom las) needs a distinct rendering."
+  },
+  {
+   "term_id": "T537",
+   "sense": "lethargy",
+   "field": "children",
+   "proposed": "poca voglia di fare",
+   "reason": "'pigrizia' is already used for ālasya laziness (T123); lethargy/sluggishness needs a distinct rendering."
+  },
+  {
+   "term_id": "T582",
+   "sense": "exchange of self and others",
+   "field": "academic",
+   "proposed": "scambio tra sé e gli altri",
+   "reason": "Same term as T508, rendered 'scambio tra sé e gli altri'; keep identical."
+  },
+  {
+   "term_id": "T509",
+   "sense": "Speaker of Truth",
+   "field": "academic",
+   "proposed": "Colui che dice la verità",
+   "reason": "Inconsistent capitalisation with T396 (same epithet): 'verità' should be lower case."
+  },
+  {
+   "term_id": "T517",
+   "sense": "relinquishment",
+   "field": "academic",
+   "proposed": "abbandono",
+   "reason": "'rinuncia' is used for niḥsāra/renunciation (T456, T400); tyāga/dor ba is 'abbandono' as in T398."
+  },
+  {
+   "term_id": "T518",
+   "sense": "relinquishment",
+   "field": "academic",
+   "proposed": "abbandono",
+   "reason": "'rinuncia' is used for renunciation (T456, T400); tyāga is 'abbandono' as in T398."
+  },
+  {
+   "term_id": "T522",
+   "sense": "fault",
+   "field": "academic",
+   "proposed": "colpa",
+   "reason": "Same English 'fault' as T098 ཉེས་པ (colpa); same Tibetan root should have the same Italian."
+  },
+  {
+   "term_id": "T522",
+   "sense": "fault",
+   "field": "children",
+   "proposed": "sbaglio",
+   "reason": "Same English 'fault' as T098, which uses 'sbaglio'; keep consistent."
+  },
+  {
+   "term_id": "T541",
+   "sense": "calm abiding",
+   "field": "academic",
+   "proposed": "quiete mentale",
+   "reason": "'calma dimorante' is a calque, not an established Italian term for śamatha; 'quiete mentale' is the usual rendering."
+  },
+  {
+   "term_id": "T545",
+   "sense": "mind of disillusionment",
+   "field": "academic",
+   "proposed": "mente della disillusione",
+   "reason": "Same saṃvega as T483 'disillusione'; 'disincanto' is inconsistent."
+  },
+  {
+   "term_id": "T555",
+   "sense": "path of existence",
+   "field": "children",
+   "proposed": "sentiero della vita",
+   "reason": "Same concept as T382 which uses 'sentiero della vita'."
+  },
+  {
+   "term_id": "T556",
+   "sense": "recollection of the Buddha",
+   "field": "children",
+   "proposed": "tenere il Buddha nella mente",
+   "reason": "Same term as T411 (buddhānusmṛti), rendered 'tenere il Buddha nella mente'; keep identical."
+  },
+  {
+   "term_id": "T566",
+   "sense": "cage of filth",
+   "field": "academic",
+   "proposed": "gabbia di impurità",
+   "reason": "'immondizia' means rubbish/garbage; amedhya is impurity (T066), consistent with T273."
+  },
+  {
+   "term_id": "T568",
+   "sense": "worm born of filth",
+   "field": "academic",
+   "proposed": "verme nato dall'impurità",
+   "reason": "'immondizia' means rubbish/garbage; use impurity consistently with T066 and T273."
+  },
+  {
+   "term_id": "T579",
+   "sense": "self-grasping",
+   "field": "academic",
+   "proposed": "afferramento dell'io",
+   "reason": "'aggrappamento' is not a standard Italian word; unify with T277/T596."
+  },
+  {
+   "term_id": "T596",
+   "sense": "grasping at self",
+   "field": "academic",
+   "proposed": "afferramento dell'io",
+   "reason": "Same term as T277 and T579 but rendered 'appropriazione dell'io', which means something else; unify."
+  },
+  {
+   "term_id": "T596",
+   "sense": "grasping at self",
+   "field": "children",
+   "proposed": "aggrapparsi a un io",
+   "reason": "'afferrare un io' differs from T277/T579; unify with 'aggrapparsi a un io'."
+  },
+  {
+   "term_id": "T585",
+   "sense": "own welfare",
+   "field": "academic",
+   "proposed": "bene proprio",
+   "reason": "Inconsistent with T064 'bene proprio' for the same English 'own welfare'; 'benessere' shifts to comfort."
+  },
+  {
+   "term_id": "T586",
+   "sense": "own welfare",
+   "field": "academic",
+   "proposed": "bene proprio",
+   "reason": "Inconsistent with T064 'bene proprio'; 'benessere' shifts to comfort."
+  },
+  {
+   "term_id": "T585",
+   "sense": "own welfare",
+   "field": "children",
+   "proposed": "il proprio bene",
+   "reason": "Ungrammatical without the article; matches T064 'il proprio bene'."
+  },
+  {
+   "term_id": "T586",
+   "sense": "own welfare",
+   "field": "children",
+   "proposed": "il proprio bene",
+   "reason": "Ungrammatical without the article; matches T064 'il proprio bene'."
+  }
+ ]
+}

@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T682",
+    "senses": [
+     {
+      "sense": "ocean of suffering",
+      "academic": "bahari ya maumivu",
+      "children": "bahari ya maumivu",
+      "note": "Compound reuses fixed rendering for suffering (maumivu)."
+     }
+    ]
+   },
+   {
+    "term_id": "T683",
+    "senses": [
+     {
+      "sense": "distraction",
+      "academic": "kutawanyika kwa akili",
+      "children": "kukosa makini",
+      "note": "Wandering of attention; children wording keeps plain everyday verbs."
+     }
+    ]
+   },
+   {
+    "term_id": "T684",
+    "senses": [
+     {
+      "sense": "great lower realm",
+      "academic": "ulimwengu mkubwa wa chini",
+      "children": "mahali pa huzuni kubwa",
+      "note": "Builds on fixed lower realm renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T685",
+    "senses": [
+     {
+      "sense": "wrong path",
+      "academic": "njia potofu",
+      "children": "njia mbaya",
+      "note": "Potofu for scholarly precision; mbaya simpler for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T686",
+    "senses": [
+     {
+      "sense": "river of afflictions",
+      "academic": "mto wa uchafuzi wa akili",
+      "children": "mto wa hisia zinazosumbua",
+      "note": "Reuses fixed affliction renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T687",
+    "senses": [
+     {
+      "sense": "river of suffering",
+      "academic": "mto wa maumivu",
+      "children": "mto wa maumivu",
+      "note": "Compound reuses fixed rendering for suffering."
+     }
+    ]
+   },
+   {
+    "term_id": "T688",
+    "senses": [
+     {
+      "sense": "aging and death",
+      "academic": "uzee na kifo",
+      "children": "kuzeeka na kufa",
+      "note": "Abstract nouns academically; plain verbs for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T689",
+    "senses": [
+     {
+      "sense": "fire of suffering",
+      "academic": "moto wa maumivu",
+      "children": "moto wa maumivu",
+      "note": "Compound reuses fixed rendering for suffering."
+     }
+    ]
+   },
+   {
+    "term_id": "T690",
+    "senses": [
+     {
+      "sense": "accumulation of merit",
+      "academic": "mkusanyiko wa thawabu",
+      "children": "hazina ya wema iliyokusanywa",
+      "note": "Reuses fixed merit renderings; children phrase mirrors gathered store."
+     }
+    ]
+   },
+   {
+    "term_id": "T691",
+    "senses": [
+     {
+      "sense": "non-apprehension",
+      "academic": "kutokamata kitu",
+      "children": "kutoshikilia kitu chochote",
+      "note": "Grasping at nothing; children phrase matches not fixing on anything."
+     }
+    ]
+   },
+   {
+    "term_id": "T692",
+    "senses": [
+     {
+      "sense": "world system",
+      "academic": "mfumo wa ulimwengu",
+      "children": "eneo la dunia",
+      "note": "Reuses fixed world renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T693",
+    "senses": [
+     {
+      "sense": "Sukhāvatī",
+      "academic": "Sukhavati",
+      "children": "Sukhavati",
+      "note": "Proper name of the pure land, kept in Swahili spelling."
+     }
+    ]
+   },
+   {
+    "term_id": "T694",
+    "senses": [
+     {
+      "sense": "name of a thorny tree in hell",
+      "academic": "shalmali",
+      "children": "Shalmali",
+      "note": "Tree name transliterated without diacritics per Swahili practice."
+     }
+    ]
+   },
+   {
+    "term_id": "T695",
+    "senses": [
+     {
+      "sense": "divine palace",
+      "academic": "jumba la mbinguni",
+      "children": "jumba la mbinguni",
+      "note": "Jumba is standard Swahili for palace; mbinguni gives celestial sense."
+     }
+    ]
+   },
+   {
+    "term_id": "T696",
+    "senses": [
+     {
+      "sense": "hell river",
+      "academic": "mto usiovukika",
+      "children": "mto usioweza kuvukwa",
+      "note": "Unfordable river; children phrasing uses simpler words."
+     }
+    ]
+   },
+   {
+    "term_id": "T697",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Vajrapani",
+      "children": "Vajrapani",
+      "note": "Proper name in Swahili spelling; diacritics dropped in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T698",
+    "senses": [
+     {
+      "sense": "Padmapāṇi (name of Avalokiteśvara)",
+      "academic": "Padmapani",
+      "children": "Padmapani",
+      "note": "Proper name in Swahili spelling, diacritics dropped."
+     }
+    ]
+   },
+   {
+    "term_id": "T699",
+    "senses": [
+     {
+      "sense": "youth with a topknot",
+      "academic": "kijana mwenye shungi",
+      "children": "mvulana mwenye shungi",
+      "note": "Shungi is the Swahili word for a tuft or knot of hair."
+     }
+    ]
+   },
+   {
+    "term_id": "T700",
+    "senses": [
+     {
+      "sense": "compassion, affection",
+      "academic": "upendo",
+      "children": "huruma",
+      "note": "Affection rendered upendo; children sense is compassion (huruma)."
+     }
+    ]
+   },
+   {
+    "term_id": "T701",
+    "senses": [
+     {
+      "sense": "root of virtue",
+      "academic": "mzizi wa fadhila",
+      "children": "mzizi wa matendo mema",
+      "note": "Reuses fixed virtue renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T702",
+    "senses": [
+     {
+      "sense": "animal",
+      "academic": "mnyama",
+      "children": "mnyama",
+      "note": "Everyday Swahili word suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T703",
+    "senses": [
+     {
+      "sense": "Uttarakuru",
+      "academic": "Uttarakuru",
+      "children": "Uttarakuru",
+      "note": "Proper name of the northern continent, kept unchanged."
+     }
+    ]
+   },
+   {
+    "term_id": "T704",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Avalokiteshvara",
+      "children": "Avalokiteshvara",
+      "note": "Proper name; sh reflects Swahili spelling of ś."
+     }
+    ]
+   },
+   {
+    "term_id": "T705",
+    "senses": [
+     {
+      "sense": "Māyādevī (goddess)",
+      "academic": "Mayadevi",
+      "children": "Mayadevi",
+      "note": "Proper name in Swahili spelling, diacritics dropped."
+     }
+    ]
+   },
+   {
+    "term_id": "T706",
+    "senses": [
+     {
+      "sense": "state without leisure",
+      "academic": "ukosefu wa nafasi",
+      "children": "hali bila uhuru",
+      "note": "Akṣaṇa: no opportunity to practice; children phrase stresses lack of freedom."
+     }
+    ]
+   },
+   {
+    "term_id": "T707",
+    "senses": [
+     {
+      "sense": "compassion",
+      "academic": "huruma",
+      "children": "huruma",
+      "note": "Standard Swahili word works in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T708",
+    "senses": [
+     {
+      "sense": "treasury of space",
+      "academic": "hazina ya anga",
+      "children": "hazina ya anga",
+      "note": "Anga for space or sky; hazina matches fixed treasure wording."
+     }
+    ]
+   },
+   {
+    "term_id": "T709",
+    "senses": [
+     {
+      "sense": "conduct of awakening",
+      "academic": "mwenendo wa uamsho",
+      "children": "matendo ya uamsho",
+      "note": "Reuses fixed awakening rendering (uamsho) in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T710",
+    "senses": [
+     {
+      "sense": "action of Māra",
+      "academic": "matendo ya Mara",
+      "children": "matendo ya Mara",
+      "note": "Mara kept as proper name; same phrase serves both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T711",
+    "senses": [
+     {
+      "sense": "lapis lazuli",
+      "academic": "lapislazuli",
+      "children": "jiwe la thamani la bluu",
+      "note": "Gem loan for scholars; descriptive deep-blue gem for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T712",
+    "senses": [
+     {
+      "sense": "circle of retinue",
+      "academic": "duara",
+      "children": "duara",
+      "note": "English uses circle for both registers; maṇḍala left as ordinary duara."
+     }
+    ]
+   },
+   {
+    "term_id": "T713",
+    "senses": [
+     {
+      "sense": "sound of the Dharma",
+      "academic": "sauti ya Dharma",
+      "children": "sauti ya mafundisho",
+      "note": "Reuses fixed Dharma renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T714",
+    "senses": [
+     {
+      "sense": "cloud of offerings",
+      "academic": "wingu la sadaka",
+      "children": "wingu la sadaka",
+      "note": "Sadaka is the established Swahili word for religious offerings."
+     }
+    ]
+   },
+   {
+    "term_id": "T715",
+    "senses": [
+     {
+      "sense": "teacher of wandering beings",
+      "academic": "mwalimu wa viumbe wanaotangatanga",
+      "children": "mwalimu wa viumbe",
+      "note": "Reuses fixed wandering being renderings, pluralized, in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T716",
+    "senses": [
+     {
+      "sense": "king",
+      "academic": "mfalme",
+      "children": "mfalme",
+      "note": "Everyday Swahili word suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T717",
+    "senses": [
+     {
+      "sense": "secret mantra",
+      "academic": "mantra ya siri",
+      "children": "maneno matakatifu ya siri",
+      "note": "Mantra kept as loan; children get a plain descriptive phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T718",
+    "senses": [
+     {
+      "sense": "ḍākinī",
+      "academic": "dakini",
+      "children": "anayeruka angani",
+      "note": "Loan for scholars; children phrase renders sky-goer literally."
+     }
+    ]
+   },
+   {
+    "term_id": "T719",
+    "senses": [
+     {
+      "sense": "monastery",
+      "academic": "monasteri",
+      "children": "nyumba ya watawa",
+      "note": "Established loan monasteri; children get a descriptive phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T720",
+    "senses": [
+     {
+      "sense": "recitation",
+      "academic": "usomaji kwa sauti",
+      "children": "kusoma kwa sauti",
+      "note": "Reading or chanting aloud; noun form academic, verb phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T721",
+    "senses": [
+     {
+      "sense": "Saṅgha",
+      "academic": "Sangha",
+      "children": "jumuiya ya watawa",
+      "note": "Loan for scholars; children phrase means community of monks and nuns."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4207,
+  "output": 2073,
+  "thinking": 7090,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 155.61,
+ "attempt": 1
+}

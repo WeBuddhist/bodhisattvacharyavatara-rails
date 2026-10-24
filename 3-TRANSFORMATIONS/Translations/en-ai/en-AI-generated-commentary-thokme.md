@@ -1,5 +1,6 @@
 ---
-title: "AI-generated Translation of Commentary by Ngulchu Thokme (Chapters 0 & 1)"
+title: "AI-generated Translation of Commentary by Ngulchu Thokme (Chapters 0 & 1) — AI translation"
+ai_generated: true
 source_language: bo
 target_language: en
 status: ai-generated
@@ -11,7 +12,7 @@ referenced_files:
 created_at: 2026-05-28
 ---
 
-# Commentary on Entering the Way of the Hero of Enlightenment, entitled "The Ocean of Good Explanations" 
+# Commentary on Entering the Way of the Hero of Enlightenment, entitled "The Ocean of Good Explanations" — AI translation
 
 ## 0. Homage and Preface 
 

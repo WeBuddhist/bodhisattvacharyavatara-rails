@@ -1,5 +1,6 @@
 ---
-title: Entering the Way of the Bodhisattva
+title: Entering the Way of the Bodhisattva — AI translation (academic)
+ai_generated: true
 track: en-academic
 language: English
 lang_tag: en
@@ -17,7 +18,7 @@ generation_date: 2026-10-08
 status: draft
 ---
 
-# Entering the Way of the Bodhisattva ^0
+# Entering the Way of the Bodhisattva — AI translation (academic) ^0
 
 ## Prologue ^I-0
 

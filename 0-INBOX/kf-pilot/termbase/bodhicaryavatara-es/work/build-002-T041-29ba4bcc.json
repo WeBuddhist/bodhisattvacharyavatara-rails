@@ -1,0 +1,462 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T041",
+    "senses": [
+     {
+      "sense": "karma",
+      "academic": "karma",
+      "children": "acción",
+      "note": "Deeds shaping future rebirths; Sanskrit loanword kept in academic register."
+     }
+    ]
+   },
+   {
+    "term_id": "T042",
+    "senses": [
+     {
+      "sense": "mindfulness",
+      "academic": "atención plena",
+      "children": "tener presente",
+      "note": "Smṛti as mindful attention; children's phrase keeps 'keeping in mind'."
+     },
+     {
+      "sense": "memory (recollection)",
+      "academic": "memoria",
+      "children": "memoria",
+      "note": "Smṛti as recollection; everyday word suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T043",
+    "senses": [
+     {
+      "sense": "nature",
+      "academic": "naturaleza propia",
+      "children": "naturaleza",
+      "note": "Svabhāva as inherent nature; simplified to everyday word for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T044",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Sabio",
+      "children": "Sabio",
+      "note": "Muni, epithet of the Buddha; capitalized like English Sage."
+     }
+    ]
+   },
+   {
+    "term_id": "T045",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Protector",
+      "children": "Protector",
+      "note": "Nātha, epithet of the Buddha as guardian of beings."
+     }
+    ]
+   },
+   {
+    "term_id": "T046",
+    "senses": [
+     {
+      "sense": "training",
+      "academic": "entrenamiento",
+      "children": "entrenamiento",
+      "note": "Śikṣā as training in the path; word is familiar to children."
+     }
+    ]
+   },
+   {
+    "term_id": "T047",
+    "senses": [
+     {
+      "sense": "introspection",
+      "academic": "introspección",
+      "children": "estar atento",
+      "note": "Saṃprajanya as vigilant self-observation; plain watchfulness phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T048",
+    "senses": [
+     {
+      "sense": "compassion",
+      "academic": "compasión",
+      "children": "compasión",
+      "note": "Karuṇā, the wish that others be free from suffering."
+     }
+    ]
+   },
+   {
+    "term_id": "T049",
+    "senses": [
+     {
+      "sense": "feeling",
+      "academic": "sensación",
+      "children": "sensación",
+      "note": "Vedanā as pleasant, unpleasant, or neutral feeling."
+     }
+    ]
+   },
+   {
+    "term_id": "T050",
+    "senses": [
+     {
+      "sense": "consciousness",
+      "academic": "conciencia",
+      "children": "darse cuenta",
+      "note": "Jñāna here as awareness; verb phrase keeps children's wording simple."
+     }
+    ]
+   },
+   {
+    "term_id": "T051",
+    "senses": [
+     {
+      "sense": "object of knowledge",
+      "academic": "objeto de conocimiento",
+      "children": "cosa que conocer",
+      "note": "Jñeya, whatever can be known."
+     }
+    ]
+   },
+   {
+    "term_id": "T052",
+    "senses": [
+     {
+      "sense": "Sugata",
+      "academic": "Sugata",
+      "children": "el que llegó a la felicidad",
+      "note": "Epithet of the Buddha; children's phrase renders Well-Gone One plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T053",
+    "senses": [
+     {
+      "sense": "wise person",
+      "academic": "sabio",
+      "children": "persona sabia",
+      "note": "Paṇḍita as the wise or learned person."
+     }
+    ]
+   },
+   {
+    "term_id": "T054",
+    "senses": [
+     {
+      "sense": "virtue",
+      "academic": "virtud",
+      "children": "buena acción",
+      "note": "Matches fixed rendering for virtue (kuśala)."
+     }
+    ]
+   },
+   {
+    "term_id": "T055",
+    "senses": [
+     {
+      "sense": "attachment",
+      "academic": "apego",
+      "children": "aferrarse",
+      "note": "Rāga as craving attachment; mirrors fixed rendering for lobha."
+     }
+    ]
+   },
+   {
+    "term_id": "T056",
+    "senses": [
+     {
+      "sense": "beings who wander in saṃsāra",
+      "academic": "ser errante",
+      "children": "ser",
+      "note": "Fixed rendering for jagat, beings wandering in saṃsāra."
+     }
+    ]
+   },
+   {
+    "term_id": "T057",
+    "senses": [
+     {
+      "sense": "wisdom",
+      "academic": "sabiduría",
+      "children": "sabiduría",
+      "note": "Prajñā as insight into how things really are."
+     }
+    ]
+   },
+   {
+    "term_id": "T058",
+    "senses": [
+     {
+      "sense": "hell",
+      "academic": "infierno",
+      "children": "infierno",
+      "note": "Fixed rendering for naraka."
+     }
+    ]
+   },
+   {
+    "term_id": "T059",
+    "senses": [
+     {
+      "sense": "conventional (truth)",
+      "academic": "verdad convencional",
+      "children": "verdad de cada día",
+      "note": "Saṃvṛti-satya; children's phrase reflects everyday truth."
+     }
+    ]
+   },
+   {
+    "term_id": "T060",
+    "senses": [
+     {
+      "sense": "nirvāṇa",
+      "academic": "nirvāṇa",
+      "children": "liberación del sufrimiento",
+      "note": "Loanword kept academically; children's phrase renders freedom from sorrow."
+     }
+    ]
+   },
+   {
+    "term_id": "T061",
+    "senses": [
+     {
+      "sense": "happy realm",
+      "academic": "reino feliz",
+      "children": "reino feliz",
+      "note": "Sugati, fortunate rebirth; parallels fixed reino infeliz."
+     }
+    ]
+   },
+   {
+    "term_id": "T062",
+    "senses": [
+     {
+      "sense": "generosity",
+      "academic": "generosidad",
+      "children": "dar",
+      "note": "Dāna as giving; plain verb for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T063",
+    "senses": [
+     {
+      "sense": "reality",
+      "academic": "realidad",
+      "children": "cómo son las cosas de verdad",
+      "note": "Ultimate reality; children's phrase mirrors the way things really are."
+     }
+    ]
+   },
+   {
+    "term_id": "T064",
+    "senses": [
+     {
+      "sense": "own welfare",
+      "academic": "bienestar propio",
+      "children": "bien de uno mismo",
+      "note": "Svārtha, one's own benefit."
+     }
+    ]
+   },
+   {
+    "term_id": "T065",
+    "senses": [
+     {
+      "sense": "childish person, fool",
+      "academic": "necio",
+      "children": "persona infantil",
+      "note": "Bāla as spiritually immature fool; phrased plainly for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T066",
+    "senses": [
+     {
+      "sense": "impure, filthy",
+      "academic": "impureza",
+      "children": "suciedad",
+      "note": "Amedhya as filthiness, often said of the body."
+     }
+    ]
+   },
+   {
+    "term_id": "T067",
+    "senses": [
+     {
+      "sense": "sensual desire",
+      "academic": "deseo sensual",
+      "children": "deseo de placer",
+      "note": "Kāma as craving for sense pleasures."
+     }
+    ]
+   },
+   {
+    "term_id": "T068",
+    "senses": [
+     {
+      "sense": "faith",
+      "academic": "fe",
+      "children": "fe",
+      "note": "Śraddhā as trusting faith in the teachings."
+     }
+    ]
+   },
+   {
+    "term_id": "T069",
+    "senses": [
+     {
+      "sense": "child of the Buddhas",
+      "academic": "hijo de los Budas",
+      "children": "hijo de los Budas",
+      "note": "Suta as spiritual child of the Buddhas, i.e., a bodhisattva."
+     }
+    ]
+   },
+   {
+    "term_id": "T070",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Tathāgata",
+      "children": "el que se fue así",
+      "note": "Epithet of the Buddha; children's phrase renders Thus-Gone One literally."
+     }
+    ]
+   },
+   {
+    "term_id": "T071",
+    "senses": [
+     {
+      "sense": "ignorance",
+      "academic": "ignorancia",
+      "children": "ignorancia",
+      "note": "Moha here as not knowing reality; distinct from fixed ofuscación sense."
+     }
+    ]
+   },
+   {
+    "term_id": "T072",
+    "senses": [
+     {
+      "sense": "others' welfare",
+      "academic": "bienestar de los demás",
+      "children": "bien de los demás",
+      "note": "Parārtha, benefit of others; mirrors svārtha renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T073",
+    "senses": [
+     {
+      "sense": "name of the bodhisattva",
+      "academic": "Mañjuśrī",
+      "children": "Mányushri",
+      "note": "Bodhisattva of wisdom; children's spelling eases pronunciation."
+     }
+    ]
+   },
+   {
+    "term_id": "T074",
+    "senses": [
+     {
+      "sense": "Lord of Death",
+      "academic": "Señor de la Muerte",
+      "children": "Señor de la Muerte",
+      "note": "Personified death; identical in both registers, as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T075",
+    "senses": [
+     {
+      "sense": "Yama",
+      "academic": "Yama",
+      "children": "Yama",
+      "note": "Proper name of the god of death; standard form."
+     }
+    ]
+   },
+   {
+    "term_id": "T076",
+    "senses": [
+     {
+      "sense": "lower realm",
+      "academic": "reino inferior",
+      "children": "reino infeliz",
+      "note": "Apāya as unfortunate rebirth; matches fixed durgati renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T077",
+    "senses": [
+     {
+      "sense": "space",
+      "academic": "espacio",
+      "children": "espacio",
+      "note": "Ākāśa as open, limitless space."
+     }
+    ]
+   },
+   {
+    "term_id": "T078",
+    "senses": [
+     {
+      "sense": "downfall",
+      "academic": "caída",
+      "children": "caída",
+      "note": "Āpatti as moral downfall; same everyday word serves both."
+     }
+    ]
+   },
+   {
+    "term_id": "T079",
+    "senses": [
+     {
+      "sense": "intellect",
+      "academic": "intelecto",
+      "children": "mente que piensa",
+      "note": "Discursive intellect; children's phrase reflects thinking mind."
+     }
+    ]
+   },
+   {
+    "term_id": "T080",
+    "senses": [
+     {
+      "sense": "conduct of awakening",
+      "academic": "conducta del despertar",
+      "children": "forma de actuar para el despertar",
+      "note": "Bodhicaryā as awakening conduct; reuses fixed despertar."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 5315,
+  "output": 2414,
+  "thinking": 8499,
+  "cache_read": 256,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 113.57,
+ "attempt": 1
+}

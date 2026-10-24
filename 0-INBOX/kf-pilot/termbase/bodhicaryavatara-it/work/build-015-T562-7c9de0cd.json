@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T562",
+    "senses": [
+     {
+      "sense": "excrement",
+      "academic": "escremento",
+      "children": "cacca",
+      "note": "Children's everyday word mirrors 'body waste'."
+     }
+    ]
+   },
+   {
+    "term_id": "T563",
+    "senses": [
+     {
+      "sense": "saliva",
+      "academic": "saliva",
+      "children": "sputo",
+      "note": "Children's 'sputo' matches English 'spit'."
+     }
+    ]
+   },
+   {
+    "term_id": "T564",
+    "senses": [
+     {
+      "sense": "cage of bones",
+      "academic": "gabbia d'ossa",
+      "children": "gabbia d'ossa",
+      "note": "Literal image already simple enough for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T565",
+    "senses": [
+     {
+      "sense": "insentient",
+      "academic": "insenziente",
+      "children": "senza mente",
+      "note": "Academic parallels fixed 'essere senziente'; children phrase says 'without a mind'."
+     }
+    ]
+   },
+   {
+    "term_id": "T566",
+    "senses": [
+     {
+      "sense": "cage of filth",
+      "academic": "gabbia d'immondizia",
+      "children": "gabbia di sporcizia",
+      "note": "Children uses everyday 'sporcizia' for filth."
+     }
+    ]
+   },
+   {
+    "term_id": "T567",
+    "senses": [
+     {
+      "sense": "impure field",
+      "academic": "campo impuro",
+      "children": "campo sporco",
+      "note": "Children's 'sporco' equals unclean."
+     }
+    ]
+   },
+   {
+    "term_id": "T568",
+    "senses": [
+     {
+      "sense": "worm born of filth",
+      "academic": "verme dell'immondizia",
+      "children": "verme nato nella sporcizia",
+      "note": "Children's phrase states the worm is born in filth."
+     }
+    ]
+   },
+   {
+    "term_id": "T569",
+    "senses": [
+     {
+      "sense": "camphor",
+      "academic": "canfora",
+      "children": "canfora",
+      "note": "Everyday substance name, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T570",
+    "senses": [
+     {
+      "sense": "wealth",
+      "academic": "ricchezza",
+      "children": "ricchezza",
+      "note": "'Ricchezza' is already an everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T571",
+    "senses": [
+     {
+      "sense": "suffering of existence",
+      "academic": "sofferenza dell'esistenza",
+      "children": "sofferenza della vita",
+      "note": "Keeps fixed 'sofferenza'; children uses 'vita' for existence."
+     }
+    ]
+   },
+   {
+    "term_id": "T572",
+    "senses": [
+     {
+      "sense": "disadvantage",
+      "academic": "svantaggio",
+      "children": "lato negativo",
+      "note": "Children's phrase equals 'drawback'."
+     }
+    ]
+   },
+   {
+    "term_id": "T573",
+    "senses": [
+     {
+      "sense": "desire",
+      "academic": "desiderio",
+      "children": "desiderio",
+      "note": "'Desiderio' is everyday Italian."
+     }
+    ]
+   },
+   {
+    "term_id": "T574",
+    "senses": [
+     {
+      "sense": "contentment",
+      "academic": "contentezza",
+      "children": "essere contenti di quello che si ha",
+      "note": "Children's phrase says being happy with what one has."
+     }
+    ]
+   },
+   {
+    "term_id": "T575",
+    "senses": [
+     {
+      "sense": "Indra",
+      "academic": "Indra",
+      "children": "Indra",
+      "note": "Proper name unchanged in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T576",
+    "senses": [
+     {
+      "sense": "conceptual thought",
+      "academic": "pensiero concettuale",
+      "children": "pensiero",
+      "note": "Children drops the technical qualifier."
+     }
+    ]
+   },
+   {
+    "term_id": "T577",
+    "senses": [
+     {
+      "sense": "Supuṣpacandra (name)",
+      "academic": "Supuṣpacandra",
+      "children": "Supushpacandra",
+      "note": "Children's spelling drops diacritics, as English children's form did."
+     }
+    ]
+   },
+   {
+    "term_id": "T578",
+    "senses": [
+     {
+      "sense": "absence of an entity",
+      "academic": "assenza di un'entità",
+      "children": "senza una cosa",
+      "note": "Children reuses fixed 'cosa' for entity."
+     }
+    ]
+   },
+   {
+    "term_id": "T579",
+    "senses": [
+     {
+      "sense": "self-grasping",
+      "academic": "aggrappamento all'io",
+      "children": "aggrapparsi a un io",
+      "note": "Reuses fixed 'io' for self; grasping rendered as aggrapparsi."
+     }
+    ]
+   },
+   {
+    "term_id": "T580",
+    "senses": [
+     {
+      "sense": "intellect of self",
+      "academic": "intelletto dell'io",
+      "children": "pensiero dell'io",
+      "note": "Children uses everyday 'pensiero' for intellect."
+     }
+    ]
+   },
+   {
+    "term_id": "T581",
+    "senses": [
+     {
+      "sense": "blessing",
+      "academic": "benedizione",
+      "children": "benedizione",
+      "note": "Standard Italian rendering of adhiṣṭhāna, already familiar to children."
+     }
+    ]
+   },
+   {
+    "term_id": "T582",
+    "senses": [
+     {
+      "sense": "exchange of self and others",
+      "academic": "scambio di sé e degli altri",
+      "children": "scambio tra se stessi e gli altri",
+      "note": "Children reuses fixed 'se stesso' for self."
+     }
+    ]
+   },
+   {
+    "term_id": "T583",
+    "senses": [
+     {
+      "sense": "supreme secret (self-other exchange)",
+      "academic": "segreto supremo",
+      "children": "segreto più grande",
+      "note": "Children's 'più grande' equals 'greatest'."
+     }
+    ]
+   },
+   {
+    "term_id": "T584",
+    "senses": [
+     {
+      "sense": "demon",
+      "academic": "demone",
+      "children": "demone",
+      "note": "Piśāca rendered as ordinary 'demone' per English."
+     }
+    ]
+   },
+   {
+    "term_id": "T585",
+    "senses": [
+     {
+      "sense": "own welfare",
+      "academic": "proprio benessere",
+      "children": "proprio bene",
+      "note": "Children's 'proprio bene' equals 'own good'."
+     }
+    ]
+   },
+   {
+    "term_id": "T586",
+    "senses": [
+     {
+      "sense": "own welfare",
+      "academic": "proprio benessere",
+      "children": "proprio bene",
+      "note": "Identical sense as T585, same renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T587",
+    "senses": [
+     {
+      "sense": "exchange",
+      "academic": "scambio",
+      "children": "scambio",
+      "note": "Matches the compound 'scambio' of T582."
+     }
+    ]
+   },
+   {
+    "term_id": "T588",
+    "senses": [
+     {
+      "sense": "next world",
+      "academic": "mondo successivo",
+      "children": "vita successiva",
+      "note": "Children uses 'vita' for English 'next life'."
+     }
+    ]
+   },
+   {
+    "term_id": "T589",
+    "senses": [
+     {
+      "sense": "great demon",
+      "academic": "grande demone",
+      "children": "grande demone",
+      "note": "Literal and already simple."
+     }
+    ]
+   },
+   {
+    "term_id": "T590",
+    "senses": [
+     {
+      "sense": "self",
+      "academic": "io stesso",
+      "children": "se stesso",
+      "note": "Academic 'io stesso' renders emphatic 'very self'; children matches fixed 'se stesso'."
+     }
+    ]
+   },
+   {
+    "term_id": "T591",
+    "senses": [
+     {
+      "sense": "rivalry",
+      "academic": "rivalità",
+      "children": "rivalità",
+      "note": "'Rivalità' is everyday Italian."
+     }
+    ]
+   },
+   {
+    "term_id": "T592",
+    "senses": [
+     {
+      "sense": "view",
+      "academic": "visione",
+      "children": "credenza",
+      "note": "Established Buddhist 'visione'; children's 'credenza' equals 'belief'."
+     }
+    ]
+   },
+   {
+    "term_id": "T593",
+    "senses": [
+     {
+      "sense": "learning",
+      "academic": "apprendimento",
+      "children": "imparare",
+      "note": "Children's infinitive used as a plain noun, like English 'learning'."
+     }
+    ]
+   },
+   {
+    "term_id": "T594",
+    "senses": [
+     {
+      "sense": "grasping as \"I\"",
+      "academic": "identificazione con l'«io»",
+      "children": "considerare come «io»",
+      "note": "Ahaṃkāra as identifying with an 'I'; children's phrase equals 'taking as I'."
+     }
+    ]
+   },
+   {
+    "term_id": "T595",
+    "senses": [
+     {
+      "sense": "excellence",
+      "academic": "eccellenza",
+      "children": "eccellenza",
+      "note": "'Eccellenza' is already understandable to children."
+     }
+    ]
+   },
+   {
+    "term_id": "T596",
+    "senses": [
+     {
+      "sense": "grasping at self",
+      "academic": "appropriazione dell'io",
+      "children": "afferrare un io",
+      "note": "Distinct from T579; children's phrase equals 'grabbing hold of a self'."
+     }
+    ]
+   },
+   {
+    "term_id": "T597",
+    "senses": [
+     {
+      "sense": "mental dullness",
+      "academic": "torpore mentale",
+      "children": "mente intorpidita",
+      "note": "Academic 'torpore' is the standard meditation term; children describes a dull mind."
+     }
+    ]
+   },
+   {
+    "term_id": "T598",
+    "senses": [
+     {
+      "sense": "obscuration",
+      "academic": "oscuramento",
+      "children": "velo",
+      "note": "Children's 'velo' matches English 'veil'."
+     }
+    ]
+   },
+   {
+    "term_id": "T599",
+    "senses": [
+     {
+      "sense": "object of meditative focus",
+      "academic": "perfetto oggetto di concentrazione",
+      "children": "cosa perfetta su cui concentrarsi",
+      "note": "Children's phrase keeps 'perfect thing to focus on'."
+     }
+    ]
+   },
+   {
+    "term_id": "T600",
+    "senses": [
+     {
+      "sense": "title of chapter 8",
+      "academic": "Concentrazione meditativa",
+      "children": "Concentrazione calma",
+      "note": "Chapter title; children's 'calma' mirrors 'Calm Focus'."
+     }
+    ]
+   },
+   {
+    "term_id": "T601",
+    "senses": [
+     {
+      "sense": "branch",
+      "academic": "branca",
+      "children": "ramo",
+      "note": "Children uses the everyday tree word 'ramo'."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 3927,
+  "output": 1950,
+  "thinking": 8584,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 197.97,
+ "attempt": 1
+}

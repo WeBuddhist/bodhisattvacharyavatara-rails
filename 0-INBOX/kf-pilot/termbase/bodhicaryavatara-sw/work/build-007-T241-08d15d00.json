@@ -1,0 +1,468 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T241",
+    "senses": [
+     {
+      "sense": "liberation",
+      "academic": "ukombozi",
+      "children": "uhuru",
+      "note": "Liberation from saṃsāra; ukombozi is the standard Swahili term for release."
+     }
+    ]
+   },
+   {
+    "term_id": "T242",
+    "senses": [
+     {
+      "sense": "conceit",
+      "academic": "kujiona",
+      "children": "kujiona kuwa bora",
+      "note": "Haughty conceit; kept distinct from fixed pride (kiburi)."
+     }
+    ]
+   },
+   {
+    "term_id": "T243",
+    "senses": [
+     {
+      "sense": "being with a mind",
+      "academic": "kiumbe chenye akili",
+      "children": "kiumbe chenye akili",
+      "note": "Being endowed with a mind; aligns with fixed mind and sentient-being vocabulary."
+     }
+    ]
+   },
+   {
+    "term_id": "T244",
+    "senses": [
+     {
+      "sense": "adventitious",
+      "academic": "isiyo ya asili",
+      "children": "ya muda tu",
+      "note": "Incidental, coming from outside; not part of the mind's true nature."
+     }
+    ]
+   },
+   {
+    "term_id": "T245",
+    "senses": [
+     {
+      "sense": "forest of sword-leaves",
+      "academic": "msitu wa majani ya upanga",
+      "children": "msitu wa majani makali kama upanga",
+      "note": "Hell realm whose tree leaves are sword blades."
+     }
+    ]
+   },
+   {
+    "term_id": "T246",
+    "senses": [
+     {
+      "sense": "conduct",
+      "academic": "mwenendo",
+      "children": "jinsi ya kutenda",
+      "note": "Conduct, practice of the path; the fixed title uses njia."
+     }
+    ]
+   },
+   {
+    "term_id": "T247",
+    "senses": [
+     {
+      "sense": "death",
+      "academic": "kifo",
+      "children": "kifo",
+      "note": "Death."
+     }
+    ]
+   },
+   {
+    "term_id": "T248",
+    "senses": [
+     {
+      "sense": "being angry",
+      "academic": "hasira",
+      "children": "hasira",
+      "note": "English matches fixed krodha rendering, so the same term is reused."
+     }
+    ]
+   },
+   {
+    "term_id": "T249",
+    "senses": [
+     {
+      "sense": "insentient thing",
+      "academic": "kisicho na akili",
+      "children": "kitu bila akili",
+      "note": "Insentient; the opposite of sacetana (T243)."
+     }
+    ]
+   },
+   {
+    "term_id": "T250",
+    "senses": [
+     {
+      "sense": "loving mind",
+      "academic": "akili yenye upendo",
+      "children": "moyo wa upendo",
+      "note": "Mind of loving-kindness (maitrī plus citta)."
+     }
+    ]
+   },
+   {
+    "term_id": "T251",
+    "senses": [
+     {
+      "sense": "excellence",
+      "academic": "ukamilifu",
+      "children": "ubora",
+      "note": "Excellence, fullness of good qualities and fortune."
+     }
+    ]
+   },
+   {
+    "term_id": "T252",
+    "senses": [
+     {
+      "sense": "cause of patience",
+      "academic": "sababu ya uvumilivu",
+      "children": "sababu ya subira",
+      "note": "Compound reusing the fixed renderings for patience and cause."
+     }
+    ]
+   },
+   {
+    "term_id": "T253",
+    "senses": [
+     {
+      "sense": "qualities of a Buddha",
+      "academic": "sifa njema za Buddha",
+      "children": "sifa njema za Buddha",
+      "note": "Here buddhadharma means the Buddha's qualities, not the teaching."
+     }
+    ]
+   },
+   {
+    "term_id": "T254",
+    "senses": [
+     {
+      "sense": "offering",
+      "academic": "sadaka",
+      "children": "sadaka",
+      "note": "Pūjā as ritual offering; sadaka is the established Swahili word."
+     }
+    ]
+   },
+   {
+    "term_id": "T255",
+    "senses": [
+     {
+      "sense": "three realms",
+      "academic": "ulimwengu mitatu",
+      "children": "dunia tatu",
+      "note": "The desire, form, and formless realms; reuses fixed world renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T256",
+    "senses": [
+     {
+      "sense": "opposing factor",
+      "academic": "kipingani",
+      "children": "kinyume chake",
+      "note": "The factor on the opposite, contrary side."
+     }
+    ]
+   },
+   {
+    "term_id": "T257",
+    "senses": [
+     {
+      "sense": "birth in saṃsāra",
+      "academic": "kuzaliwa",
+      "children": "kuzaliwa",
+      "note": "Birth, that is rebirth within saṃsāra."
+     },
+     {
+      "sense": "arising of phenomena",
+      "academic": "kujitokeza",
+      "children": "kuanza kuwepo",
+      "note": "The arising or coming into being of phenomena."
+     }
+    ]
+   },
+   {
+    "term_id": "T258",
+    "senses": [
+     {
+      "sense": "equality of self and others",
+      "academic": "usawa wa nafsi na wengine",
+      "children": "kuona nafsi na wengine kuwa sawa",
+      "note": "Equality meditation; reuses fixed self (nafsi)."
+     }
+    ]
+   },
+   {
+    "term_id": "T259",
+    "senses": [
+     {
+      "sense": "Śrāvaka",
+      "academic": "Shravaka",
+      "children": "mwanafunzi msikilizaji",
+      "note": "Sanskrit loan in Swahili spelling; 'Hearer' disciple explained for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T260",
+    "senses": [
+     {
+      "sense": "aspiration",
+      "academic": "azma",
+      "children": "tamaa kubwa",
+      "note": "Wholesome aspiration or resolve, not selfish craving."
+     }
+    ]
+   },
+   {
+    "term_id": "T261",
+    "senses": [
+     {
+      "sense": "joy",
+      "academic": "shangwe",
+      "children": "furaha",
+      "note": "Joy; shangwe keeps it distinct from fixed happiness (furaha)."
+     }
+    ]
+   },
+   {
+    "term_id": "T262",
+    "senses": [
+     {
+      "sense": "ocean of eons",
+      "academic": "bahari ya kalpa",
+      "children": "bahari ya zama ndefu",
+      "note": "Compound reusing the fixed renderings for eon."
+     }
+    ]
+   },
+   {
+    "term_id": "T263",
+    "senses": [
+     {
+      "sense": "result of karmic ripening",
+      "academic": "matokeo yaliyoiva",
+      "children": "matokeo yanayoiva",
+      "note": "Ripened karmic result (vipāka); reuses fixed result (matokeo)."
+     }
+    ]
+   },
+   {
+    "term_id": "T264",
+    "senses": [
+     {
+      "sense": "what is not virtuous",
+      "academic": "ukosefu wa fadhila",
+      "children": "tendo baya",
+      "note": "Akuśala, the opposite of the fixed rendering for virtue."
+     }
+    ]
+   },
+   {
+    "term_id": "T265",
+    "senses": [
+     {
+      "sense": "pride as the enemy",
+      "academic": "kiburi kama adui",
+      "children": "adui aitwaye kiburi",
+      "note": "Pride personified as the enemy; reuses fixed pride (kiburi)."
+     }
+    ]
+   },
+   {
+    "term_id": "T266",
+    "senses": [
+     {
+      "sense": "ascetic",
+      "academic": "mtawa",
+      "children": "mtu wa ibada ngumu",
+      "note": "Ascetic practitioner of austerities (tapas)."
+     }
+    ]
+   },
+   {
+    "term_id": "T267",
+    "senses": [
+     {
+      "sense": "sleep",
+      "academic": "usingizi",
+      "children": "usingizi",
+      "note": "Sleep, drowsiness."
+     }
+    ]
+   },
+   {
+    "term_id": "T268",
+    "senses": [
+     {
+      "sense": "discursive thought",
+      "academic": "mawazo machafu",
+      "children": "mawazo yasiyotulia",
+      "note": "Restless, agitated, wandering thoughts."
+     },
+     {
+      "sense": "conceptual thought",
+      "academic": "wazo la dhana",
+      "children": "wazo",
+      "note": "Conceptual thought, an idea or mental construct."
+     }
+    ]
+   },
+   {
+    "term_id": "T269",
+    "senses": [
+     {
+      "sense": "friend",
+      "academic": "rafiki",
+      "children": "rafiki",
+      "note": "Friend."
+     }
+    ]
+   },
+   {
+    "term_id": "T270",
+    "senses": [
+     {
+      "sense": "friend",
+      "academic": "mpendwa",
+      "children": "rafiki",
+      "note": "Loved one; the academic rendering keeps the affectionate nuance."
+     }
+    ]
+   },
+   {
+    "term_id": "T271",
+    "senses": [
+     {
+      "sense": "meditative equipoise",
+      "academic": "kusawazisha akili",
+      "children": "kutuliza akili",
+      "note": "Meditative equipoise, the even and settled placement of mind."
+     }
+    ]
+   },
+   {
+    "term_id": "T272",
+    "senses": [
+     {
+      "sense": "vulture",
+      "academic": "tumbusi",
+      "children": "tumbusi",
+      "note": "Vulture, the standard Swahili word."
+     }
+    ]
+   },
+   {
+    "term_id": "T273",
+    "senses": [
+     {
+      "sense": "bag of filth",
+      "academic": "mfuko wa taka",
+      "children": "mfuko uliojaa uchafu",
+      "note": "The body depicted as a bag full of filth."
+     }
+    ]
+   },
+   {
+    "term_id": "T274",
+    "senses": [
+     {
+      "sense": "greed",
+      "academic": "choyo",
+      "children": "choyo",
+      "note": "Greed; kept distinct from fixed attachment (kushikamana)."
+     }
+    ]
+   },
+   {
+    "term_id": "T275",
+    "senses": [
+     {
+      "sense": "happiness and suffering",
+      "academic": "furaha na maumivu",
+      "children": "furaha na maumivu",
+      "note": "Compound reusing the fixed renderings for happiness and suffering."
+     }
+    ]
+   },
+   {
+    "term_id": "T276",
+    "senses": [
+     {
+      "sense": "clinging to self",
+      "academic": "kushikamana na nafsi",
+      "children": "kushikilia nafsi kwa nguvu",
+      "note": "Affectionate clinging to a self; reuses fixed attachment and self wording."
+     }
+    ]
+   },
+   {
+    "term_id": "T277",
+    "senses": [
+     {
+      "sense": "grasping at a self",
+      "academic": "kushika dhana ya nafsi",
+      "children": "kushikilia nafsi",
+      "note": "Ahaṃkāra as grasping at an 'I', not mere pride."
+     }
+    ]
+   },
+   {
+    "term_id": "T278",
+    "senses": [
+     {
+      "sense": "gain and honor",
+      "academic": "faida na heshima",
+      "children": "faida na heshima",
+      "note": "Worldly gain and honor or respect."
+     }
+    ]
+   },
+   {
+    "term_id": "T279",
+    "senses": [
+     {
+      "sense": "chapter 9 title",
+      "academic": "Ukamilifu wa Hekima",
+      "children": "Hekima Kamili",
+      "note": "Chapter 9 title, the Perfection of Wisdom (prajñāpāramitā)."
+     }
+    ]
+   },
+   {
+    "term_id": "T280",
+    "senses": [
+     {
+      "sense": "ultimate truth",
+      "academic": "ukweli wa juu kabisa",
+      "children": "ukweli wa kina kabisa",
+      "note": "Ultimate truth (paramārtha-satya), the deepest level of truth."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4169,
+  "output": 2554,
+  "thinking": 5726,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 150.27,
+ "attempt": 1
+}

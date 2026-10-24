@@ -1,0 +1,123 @@
+{
+ "objections": [
+  {
+   "term_id": "T131",
+   "sense": "lifetime",
+   "field": "academic",
+   "proposed": "vita",
+   "reason": "'esistenza' is already used for bhava (T086, srid pa); a lifetime (tshe rabs) should be distinct."
+  },
+  {
+   "term_id": "T136",
+   "sense": "emptiness",
+   "field": "children",
+   "proposed": "vacuità",
+   "reason": "'vuotezza' is archaic and not a Buddhist term; use 'vacuità', consistent with the academic field and T083."
+  },
+  {
+   "term_id": "T141",
+   "sense": "heedlessness",
+   "field": "academic",
+   "proposed": "negligenza",
+   "reason": "'noncuranza' means nonchalance or indifference, not lack of care/mindfulness (pramāda); 'negligenza' fits and contrasts with apramāda."
+  },
+  {
+   "term_id": "T143",
+   "sense": "Victor",
+   "field": "academic",
+   "proposed": "Vincitore",
+   "reason": "Established Italian rendering of jina is 'Vincitore'; consistent with T034 and T110 and the children's field."
+  },
+  {
+   "term_id": "T152",
+   "sense": "nirvana",
+   "field": "children",
+   "proposed": "libertà dalla tristezza",
+   "reason": "Inconsistent with T060 for the same gloss 'freedom from sorrow' (mya ngan 'das); align all nirvāṇa children's glosses."
+  },
+  {
+   "term_id": "T211",
+   "sense": "pass into nirvāṇa",
+   "field": "children",
+   "proposed": "libertà dalla tristezza",
+   "reason": "Inconsistent: 'dolore' here versus 'tristezza' in T060 for the same gloss 'freedom from sorrow'."
+  },
+  {
+   "term_id": "T157",
+   "sense": "craving",
+   "field": "children",
+   "proposed": "desiderio bruciante",
+   "reason": "Inconsistent with T081 (tṛṣṇā, same English 'craving'/'wanting'); plain 'desiderio' blurs it with other desire terms."
+  },
+  {
+   "term_id": "T158",
+   "sense": "perfection of generosity",
+   "field": "children",
+   "proposed": "perfezione del dare",
+   "reason": "'generosità perfetta' is ungrammatical as a name of the pāramitā; follows T062 'dare' and T159 'perfezione'."
+  },
+  {
+   "term_id": "T168",
+   "sense": "own interest",
+   "field": "academic",
+   "proposed": "bene proprio",
+   "reason": "Inconsistent with T064 (rang don, svārtha, 'bene proprio'); 'interesse personale' sounds selfish and drifts from 'own welfare'."
+  },
+  {
+   "term_id": "T176",
+   "sense": "childish person",
+   "field": "academic",
+   "proposed": "fanciullo",
+   "reason": "Same term bāla/byis pa as T065, which uses 'fanciullo'; keep the academic rendering consistent."
+  },
+  {
+   "term_id": "T178",
+   "sense": "charnel ground",
+   "field": "academic",
+   "proposed": "cimitero",
+   "reason": "'terreno di cremazione' means a cremation ground; a charnel ground (dur khrod) is where corpses lie; 'cimitero' is the usual Italian rendering."
+  },
+  {
+   "term_id": "T183",
+   "sense": "habituation",
+   "field": "academic",
+   "proposed": "familiarizzazione",
+   "reason": "'assuefazione' means addiction/tolerance; gom pa/abhyāsa is established in Italian as 'familiarizzazione'."
+  },
+  {
+   "term_id": "T237",
+   "sense": "guarding introspection",
+   "field": "children",
+   "proposed": "custodire lo stare attenti",
+   "reason": "'vigilanza' is the academic rendering of apramāda (T121); saṃprajanya children's form should follow T047 'stare attenti'."
+  },
+  {
+   "term_id": "T240",
+   "sense": "mental unhappiness",
+   "field": "children",
+   "proposed": "infelicità",
+   "reason": "'tristezza' is already used for śoka/mya ngan (T175, T060); different terms need different renderings."
+  },
+  {
+   "term_id": "T150",
+   "sense": "rejoicing in virtue",
+   "field": "academic",
+   "proposed": "rallegrarsi",
+   "reason": "Inconsistent with T348 (same term yi rang, 'rallegrarsi'); 'rallegrarsi' is the established Italian verb for rejoicing in others' virtue."
+  },
+  {
+   "term_id": "T277",
+   "sense": "grasping at a self",
+   "field": "academic",
+   "proposed": "afferramento dell'io",
+   "reason": "Same Tibetan bdag tu 'dzin pa as T596, rendered differently; 'concezione' loses the idea of grasping. Unify."
+  },
+  {
+   "term_id": "T277",
+   "sense": "grasping at a self",
+   "field": "children",
+   "proposed": "aggrapparsi a un io",
+   "reason": "Same term as T579/T596 with three different children's renderings; unify with the simplest."
+  }
+ ]
+}

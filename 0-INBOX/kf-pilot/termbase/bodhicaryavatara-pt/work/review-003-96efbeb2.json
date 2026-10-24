@@ -1,0 +1,73 @@
+{
+ "parsed": {
+  "objections": [
+   {
+    "term_id": "T254",
+    "sense": "offering",
+    "field": "children",
+    "proposed": "oferta",
+    "reason": "Inconsistent with T198 (same term pūjā/mchod), whose children rendering is \"oferta\"; \"presente\" changes the sense to a gift."
+   },
+   {
+    "term_id": "T264",
+    "sense": "what is not virtuous",
+    "field": "academic",
+    "proposed": "não-virtude",
+    "reason": "Same term as T361 (mi dge ba) and parallel to T384 \"não-conhecimento\"; the hyphenated spelling \"não-virtude\" should be uniform."
+   },
+   {
+    "term_id": "T271",
+    "sense": "meditative equipoise",
+    "field": "academic",
+    "proposed": "equilíbrio meditativo",
+    "reason": "\"equanimidade\" is the established rendering of upekṣā, a different term; mnyam par gzhag pa means equipoise, so \"equilíbrio\" is accurate."
+   },
+   {
+    "term_id": "T277",
+    "sense": "grasping at a self",
+    "field": "academic",
+    "proposed": "agarramento a um eu",
+    "reason": "\"apreensão\" also means worry in Portuguese and duplicates T286 (dmigs pa); bdag tu 'dzin pa is grasping, established as \"agarramento\"."
+   },
+   {
+    "term_id": "T304",
+    "sense": "Dharmakāya",
+    "field": "academic",
+    "proposed": "Darmakaya",
+    "reason": "The draft writes Dharma as \"Darma\" and naturalizes other terms (Tathagata, Mahayana, sutra); \"Dharmakāya\" is inconsistent with that convention."
+   },
+   {
+    "term_id": "T323",
+    "sense": "Sugata",
+    "field": "children",
+    "proposed": "Bem-Ido",
+    "reason": "Inconsistent with T052 (same term sugata), whose children rendering is \"Bem-Ido\"; \"foi para o bem\" is also a loose paraphrase."
+   },
+   {
+    "term_id": "T327",
+    "sense": "worthy recipient of offerings",
+    "field": "children",
+    "proposed": "digno de receber ofertas",
+    "reason": "\"presentes\" is inconsistent with the offering terms (T198, T254, T335), which use oferta/oferenda; mchod means offering, not gift."
+   },
+   {
+    "term_id": "T335",
+    "sense": "object of offering",
+    "field": "children",
+    "proposed": "digno de ofertas",
+    "reason": "Children's rendering of pūjā/mchod is \"oferta\" (T198, T254); \"oferendas\" is inconsistent within the children's field."
+   },
+   {
+    "term_id": "T328",
+    "sense": "supreme bodhisattva",
+    "field": "academic",
+    "proposed": "bodisatva supremo",
+    "reason": "\"ser supremo\" reads as 'Supreme Being' (God) in Portuguese; sems dpa' mchog is the supreme bodhisattva, as the sense label states."
+   }
+  ]
+ },
+ "tokens": {},
+ "model": "claude-sonnet-5-5",
+ "seconds": null,
+ "attempt": 1
+}

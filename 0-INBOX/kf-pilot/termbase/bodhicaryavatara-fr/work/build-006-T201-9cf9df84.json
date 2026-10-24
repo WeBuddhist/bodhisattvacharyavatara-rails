@@ -1,0 +1,462 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T201",
+    "senses": [
+     {
+      "sense": "three times",
+      "academic": "trois temps",
+      "children": "passé, présent et futur",
+      "note": "Standard Buddhist triad of past, present, future; children spell it out."
+     }
+    ]
+   },
+   {
+    "term_id": "T202",
+    "senses": [
+     {
+      "sense": "master (teacher)",
+      "academic": "maître",
+      "children": "professeur",
+      "note": "French 'maître' renders ācārya; children get the everyday school word."
+     }
+    ]
+   },
+   {
+    "term_id": "T203",
+    "senses": [
+     {
+      "sense": "great compassion",
+      "academic": "grande compassion",
+      "children": "grande compassion",
+      "note": "Compassion is accessible to children; same rendering both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T204",
+    "senses": [
+     {
+      "sense": "Three Jewels",
+      "academic": "Trois Joyaux",
+      "children": "Trois Joyaux",
+      "note": "Established French translation of ratnatraya (Buddha, Dharma, Saṃgha)."
+     }
+    ]
+   },
+   {
+    "term_id": "T205",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Samantabhadra",
+      "children": "Samantabhadra",
+      "note": "Proper name kept in standard Sanskrit form for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T206",
+    "senses": [
+     {
+      "sense": "Mañjuśrī",
+      "academic": "Mañjuśrī",
+      "children": "Manjushri",
+      "note": "Diacritics in academic; simplified phonetic spelling for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T207",
+    "senses": [
+     {
+      "sense": "Avalokiteśvara",
+      "academic": "Avalokiteśvara",
+      "children": "Avalokiteshvara",
+      "note": "Diacritics in academic; simplified phonetic spelling for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T208",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Ākāśagarbha",
+      "children": "Akashagarbha",
+      "note": "Diacritics in academic; simplified phonetic spelling for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T209",
+    "senses": [
+     {
+      "sense": "omniscient",
+      "academic": "omniscient",
+      "children": "qui sait tout",
+      "note": "Technical adjective academic; plain descriptive phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T210",
+    "senses": [
+     {
+      "sense": "awakening mind",
+      "academic": "bodhicitta",
+      "children": "esprit d'éveil",
+      "note": "Matches fixed entry: technical term kept, children get plain phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T211",
+    "senses": [
+     {
+      "sense": "pass into nirvāṇa",
+      "academic": "nirvāṇa",
+      "children": "être délivré du chagrin",
+      "note": "Verbal sense; children phrase expresses freedom from sorrow simply."
+     }
+    ]
+   },
+   {
+    "term_id": "T212",
+    "senses": [
+     {
+      "sense": "countless eon",
+      "academic": "éons innombrables",
+      "children": "très longues périodes sans nombre",
+      "note": "Reuses fixed rendering of eon (éon / très longue période) in plural."
+     }
+    ]
+   },
+   {
+    "term_id": "T213",
+    "senses": [
+     {
+      "sense": "inexhaustible treasure",
+      "academic": "trésor inépuisable",
+      "children": "trésor qui ne s'épuise jamais",
+      "note": "Children phrase unpacks 'inépuisable' with everyday words."
+     }
+    ]
+   },
+   {
+    "term_id": "T214",
+    "senses": [
+     {
+      "sense": "path",
+      "academic": "voie",
+      "children": "chemin",
+      "note": "Mārga is 'voie' in French Buddhist usage; children say 'chemin'."
+     }
+    ]
+   },
+   {
+    "term_id": "T215",
+    "senses": [
+     {
+      "sense": "asura",
+      "academic": "asura",
+      "children": "demi-dieu",
+      "note": "Class name kept academic; children get the common gloss 'demi-god'."
+     }
+    ]
+   },
+   {
+    "term_id": "T216",
+    "senses": [
+     {
+      "sense": "striving",
+      "academic": "diligence",
+      "children": "effort",
+      "note": "Academic follows English 'diligence'; children use the everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T217",
+    "senses": [
+     {
+      "sense": "faith",
+      "academic": "foi",
+      "children": "confiance",
+      "note": "Śraddhā as 'foi'; children phrase it as trust."
+     }
+    ]
+   },
+   {
+    "term_id": "T218",
+    "senses": [
+     {
+      "sense": "human body",
+      "academic": "corps humain",
+      "children": "corps humain",
+      "note": "Plain expression already; identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T219",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Bienheureux",
+      "children": "le Bienheureux",
+      "note": "Established French rendering of bhagavat as Buddha's epithet."
+     }
+    ]
+   },
+   {
+    "term_id": "T220",
+    "senses": [
+     {
+      "sense": "liberation",
+      "academic": "libération",
+      "children": "liberté",
+      "note": "Spiritual release; children get the everyday word 'freedom'."
+     },
+     {
+      "sense": "life story of a saint",
+      "academic": "récit de libération",
+      "children": "histoire d'une vie",
+      "note": "Genre term (Tib. rnam thar); children get plain 'life story'."
+     }
+    ]
+   },
+   {
+    "term_id": "T221",
+    "senses": [
+     {
+      "sense": "leisure",
+      "academic": "loisir",
+      "children": "liberté de pratiquer",
+      "note": "As in the eight leisures of precious human life; children phrase explains it."
+     }
+    ]
+   },
+   {
+    "term_id": "T222",
+    "senses": [
+     {
+      "sense": "Mount Meru",
+      "academic": "mont Meru",
+      "children": "mont Meru",
+      "note": "Proper name of the cosmic mountain; same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T223",
+    "senses": [
+     {
+      "sense": "ten directions",
+      "academic": "dix directions",
+      "children": "dix directions",
+      "note": "Standard formula; fully transparent in French for children too."
+     }
+    ]
+   },
+   {
+    "term_id": "T224",
+    "senses": [
+     {
+      "sense": "illusion",
+      "academic": "illusion",
+      "children": "illusion",
+      "note": "Matches fixed entry for māyā; everyday French word."
+     }
+    ]
+   },
+   {
+    "term_id": "T225",
+    "senses": [
+     {
+      "sense": "sense object",
+      "academic": "objet des sens",
+      "children": "chose que l'on perçoit",
+      "note": "Standard Abhidharma term; children phrase describes it plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T226",
+    "senses": [
+     {
+      "sense": "elephant of the mind",
+      "academic": "éléphant de l'esprit",
+      "children": "éléphant de l'esprit",
+      "note": "Vivid image; reuses fixed rendering of citta as 'esprit'."
+     }
+    ]
+   },
+   {
+    "term_id": "T227",
+    "senses": [
+     {
+      "sense": "rākṣasa",
+      "academic": "rākṣasa",
+      "children": "démon",
+      "note": "Mythical class kept in Sanskrit academic; children get 'demon'."
+     }
+    ]
+   },
+   {
+    "term_id": "T228",
+    "senses": [
+     {
+      "sense": "hell of sentient beings",
+      "academic": "enfer des êtres sensibles",
+      "children": "enfer des êtres vivants",
+      "note": "Reuses fixed renderings: être sensible (academic), être vivant (children)."
+     }
+    ]
+   },
+   {
+    "term_id": "T229",
+    "senses": [
+     {
+      "sense": "three worlds",
+      "academic": "trois mondes",
+      "children": "trois mondes",
+      "note": "Standard rendering of trailokya; transparent for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T230",
+    "senses": [
+     {
+      "sense": "recitation",
+      "academic": "récitation",
+      "children": "récitation",
+      "note": "Everyday French word; identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T231",
+    "senses": [
+     {
+      "sense": "wound of the mind",
+      "academic": "blessure de l'esprit",
+      "children": "blessure de l'esprit",
+      "note": "Image reuses fixed rendering of citta as 'esprit'; clear for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T232",
+    "senses": [
+     {
+      "sense": "name of a hell",
+      "academic": "enfer de l'écrasement",
+      "children": "enfer qui écrase",
+      "note": "Saṃghāta hell translated; children phrase uses simple verb form."
+     }
+    ]
+   },
+   {
+    "term_id": "T233",
+    "senses": [
+     {
+      "sense": "gateway of the mind",
+      "academic": "porte de l'esprit",
+      "children": "porte de l'esprit",
+      "note": "French 'porte' covers both gate and door; reuses 'esprit'."
+     }
+    ]
+   },
+   {
+    "term_id": "T234",
+    "senses": [
+     {
+      "sense": "agitation",
+      "academic": "agitation",
+      "children": "ne pas tenir en place",
+      "note": "Technical affliction; children phrase describes restlessness simply."
+     }
+    ]
+   },
+   {
+    "term_id": "T235",
+    "senses": [
+     {
+      "sense": "self-praise",
+      "academic": "éloge de soi-même",
+      "children": "se vanter",
+      "note": "Children get the everyday verb for praising oneself."
+     }
+    ]
+   },
+   {
+    "term_id": "T236",
+    "senses": [
+     {
+      "sense": "disparagement of others",
+      "academic": "dénigrement d'autrui",
+      "children": "rabaisser les autres",
+      "note": "Academic uses 'autrui'; children get the plain verb phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T237",
+    "senses": [
+     {
+      "sense": "guarding introspection",
+      "academic": "garde de l'introspection",
+      "children": "veiller à rester attentif",
+      "note": "Saṃprajanya as introspective vigilance; children phrase keeps meaning."
+     }
+    ]
+   },
+   {
+    "term_id": "T238",
+    "senses": [
+     {
+      "sense": "meditation",
+      "academic": "méditation",
+      "children": "méditation",
+      "note": "Standard word understood by children; same both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T239",
+    "senses": [
+     {
+      "sense": "peace",
+      "academic": "paix",
+      "children": "paix",
+      "note": "Everyday word already; identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T240",
+    "senses": [
+     {
+      "sense": "mental unhappiness",
+      "academic": "tristesse mentale",
+      "children": "tristesse",
+      "note": "Abhidharma affliction (daurmanasya); children get plain 'sadness'."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 5650,
+  "output": 2525,
+  "thinking": 5326,
+  "cache_read": 256,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 214.18,
+ "attempt": 1
+}

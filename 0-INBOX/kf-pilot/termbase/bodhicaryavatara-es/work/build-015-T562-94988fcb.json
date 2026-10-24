@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T562",
+    "senses": [
+     {
+      "sense": "excrement",
+      "academic": "excremento",
+      "children": "desechos del cuerpo",
+      "note": "Bodily waste; children get a plain everyday phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T563",
+    "senses": [
+     {
+      "sense": "saliva",
+      "academic": "saliva",
+      "children": "saliva",
+      "note": "Everyday word already; identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T564",
+    "senses": [
+     {
+      "sense": "cage of bones",
+      "academic": "jaula de huesos",
+      "children": "jaula de huesos",
+      "note": "Image of the skeleton; concrete phrase suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T565",
+    "senses": [
+     {
+      "sense": "insentient",
+      "academic": "insentiente",
+      "children": "sin mente",
+      "note": "Lacking consciousness; children phrased as without a mind."
+     }
+    ]
+   },
+   {
+    "term_id": "T566",
+    "senses": [
+     {
+      "sense": "cage of filth",
+      "academic": "jaula de inmundicia",
+      "children": "jaula de suciedad",
+      "note": "Body as cage of impurity; simpler wording for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T567",
+    "senses": [
+     {
+      "sense": "impure field",
+      "academic": "campo impuro",
+      "children": "campo sucio",
+      "note": "Field where impure things grow; plain version for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T568",
+    "senses": [
+     {
+      "sense": "worm born of filth",
+      "academic": "gusano de la inmundicia",
+      "children": "gusano que nace en la suciedad",
+      "note": "Worm arising from impurity; children get explicit phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T569",
+    "senses": [
+     {
+      "sense": "camphor",
+      "academic": "alcanfor",
+      "children": "alcanfor",
+      "note": "Standard Spanish name of the substance; same both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T570",
+    "senses": [
+     {
+      "sense": "wealth",
+      "academic": "riqueza",
+      "children": "riqueza",
+      "note": "Common word; identical across registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T571",
+    "senses": [
+     {
+      "sense": "suffering of existence",
+      "academic": "sufrimiento de la existencia",
+      "children": "sufrimiento de la vida",
+      "note": "Reuses fixed sufrimiento; children say life for existence."
+     }
+    ]
+   },
+   {
+    "term_id": "T572",
+    "senses": [
+     {
+      "sense": "disadvantage",
+      "academic": "desventaja",
+      "children": "inconveniente",
+      "note": "Fault or drawback of something; everyday word for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T573",
+    "senses": [
+     {
+      "sense": "desire",
+      "academic": "deseo",
+      "children": "deseo",
+      "note": "Sensual desire; word is already everyday Spanish."
+     }
+    ]
+   },
+   {
+    "term_id": "T574",
+    "senses": [
+     {
+      "sense": "contentment",
+      "academic": "satisfacción",
+      "children": "estar contento con lo que se tiene",
+      "note": "Being satisfied with little; plain phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T575",
+    "senses": [
+     {
+      "sense": "Indra",
+      "academic": "Indra",
+      "children": "Indra",
+      "note": "Proper name of the god; unchanged in Spanish."
+     }
+    ]
+   },
+   {
+    "term_id": "T576",
+    "senses": [
+     {
+      "sense": "conceptual thought",
+      "academic": "pensamiento conceptual",
+      "children": "pensamiento",
+      "note": "Discursive imagination; children just say thinking."
+     }
+    ]
+   },
+   {
+    "term_id": "T577",
+    "senses": [
+     {
+      "sense": "Supuṣpacandra (name)",
+      "academic": "Supuṣpacandra",
+      "children": "Supushpachandra",
+      "note": "Proper name; diacritics simplified for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T578",
+    "senses": [
+     {
+      "sense": "absence of an entity",
+      "academic": "ausencia de una entidad",
+      "children": "sin ninguna cosa",
+      "note": "No real thing present; reuses fixed entidad and cosa."
+     }
+    ]
+   },
+   {
+    "term_id": "T579",
+    "senses": [
+     {
+      "sense": "self-grasping",
+      "academic": "aferramiento al yo",
+      "children": "aferrarse al yo",
+      "note": "Clinging to an imagined self; reuses fixed yo."
+     }
+    ]
+   },
+   {
+    "term_id": "T580",
+    "senses": [
+     {
+      "sense": "intellect of self",
+      "academic": "intelecto del yo",
+      "children": "idea del yo",
+      "note": "Mind that conceives a self; children say idea."
+     }
+    ]
+   },
+   {
+    "term_id": "T581",
+    "senses": [
+     {
+      "sense": "blessing",
+      "academic": "bendición",
+      "children": "bendición",
+      "note": "Spiritual empowerment or blessing; same word both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T582",
+    "senses": [
+     {
+      "sense": "exchange of self and others",
+      "academic": "intercambio de uno mismo y los demás",
+      "children": "cambio entre uno mismo y los demás",
+      "note": "Key meditation of chapter 8; simpler cambio for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T583",
+    "senses": [
+     {
+      "sense": "supreme secret (self-other exchange)",
+      "academic": "secreto supremo",
+      "children": "secreto más grande",
+      "note": "The highest secret teaching; plain superlative for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T584",
+    "senses": [
+     {
+      "sense": "demon",
+      "academic": "demonio",
+      "children": "demonio",
+      "note": "Flesh-eating spirit; everyday word works for both."
+     }
+    ]
+   },
+   {
+    "term_id": "T585",
+    "senses": [
+     {
+      "sense": "own welfare",
+      "academic": "bienestar propio",
+      "children": "bien de uno mismo",
+      "note": "One's own benefit; plain possessive phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T586",
+    "senses": [
+     {
+      "sense": "own welfare",
+      "academic": "bienestar propio",
+      "children": "bien de uno mismo",
+      "note": "Duplicate of T585; renderings kept identical."
+     }
+    ]
+   },
+   {
+    "term_id": "T587",
+    "senses": [
+     {
+      "sense": "exchange",
+      "academic": "intercambio",
+      "children": "cambio",
+      "note": "Standalone term reused within the compound T582."
+     }
+    ]
+   },
+   {
+    "term_id": "T588",
+    "senses": [
+     {
+      "sense": "next world",
+      "academic": "mundo venidero",
+      "children": "el otro mundo",
+      "note": "World after death; reuses fixed mundo."
+     }
+    ]
+   },
+   {
+    "term_id": "T589",
+    "senses": [
+     {
+      "sense": "great demon",
+      "academic": "gran demonio",
+      "children": "gran demonio",
+      "note": "Intensified form of demonio; same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T590",
+    "senses": [
+     {
+      "sense": "self",
+      "academic": "el propio yo",
+      "children": "yo",
+      "note": "Emphatic very self; reuses fixed yo."
+     }
+    ]
+   },
+   {
+    "term_id": "T591",
+    "senses": [
+     {
+      "sense": "rivalry",
+      "academic": "rivalidad",
+      "children": "rivalidad",
+      "note": "Competing with others; word accessible to children."
+     }
+    ]
+   },
+   {
+    "term_id": "T592",
+    "senses": [
+     {
+      "sense": "view",
+      "academic": "visión",
+      "children": "creencia",
+      "note": "Opinion or doctrinal view; children say belief."
+     }
+    ]
+   },
+   {
+    "term_id": "T593",
+    "senses": [
+     {
+      "sense": "learning",
+      "academic": "aprendizaje",
+      "children": "aprendizaje",
+      "note": "Knowledge gained through hearing teachings; everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T594",
+    "senses": [
+     {
+      "sense": "grasping as \"I\"",
+      "academic": "aprehensión como «yo»",
+      "children": "tomar como «yo»",
+      "note": "Conceiving something as I; plain verb phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T595",
+    "senses": [
+     {
+      "sense": "excellence",
+      "academic": "excelencia",
+      "children": "excelencia",
+      "note": "Splendor or perfect endowment; same word both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T596",
+    "senses": [
+     {
+      "sense": "grasping at self",
+      "academic": "aprehensión del yo",
+      "children": "aferrarse al yo",
+      "note": "Clinging to a self; children phrase matches T579."
+     }
+    ]
+   },
+   {
+    "term_id": "T597",
+    "senses": [
+     {
+      "sense": "mental dullness",
+      "academic": "torpeza mental",
+      "children": "mente adormecida",
+      "note": "Meditative sluggishness; children picture a sleepy mind."
+     }
+    ]
+   },
+   {
+    "term_id": "T598",
+    "senses": [
+     {
+      "sense": "obscuration",
+      "academic": "obscurecimiento",
+      "children": "velo",
+      "note": "What veils the mind; children use the veil image."
+     }
+    ]
+   },
+   {
+    "term_id": "T599",
+    "senses": [
+     {
+      "sense": "object of meditative focus",
+      "academic": "objeto perfecto de enfoque",
+      "children": "cosa perfecta en la que concentrarse",
+      "note": "Ideal support for attention; reuses fixed cosa."
+     }
+    ]
+   },
+   {
+    "term_id": "T600",
+    "senses": [
+     {
+      "sense": "title of chapter 8",
+      "academic": "Concentración meditativa",
+      "children": "Concentración tranquila",
+      "note": "Chapter title; children get calm, simple wording."
+     }
+    ]
+   },
+   {
+    "term_id": "T601",
+    "senses": [
+     {
+      "sense": "branch",
+      "academic": "rama",
+      "children": "rama",
+      "note": "Auxiliary factor or limb; everyday word suits both."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 3916,
+  "output": 2300,
+  "thinking": 5218,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 199.66,
+ "attempt": 1
+}

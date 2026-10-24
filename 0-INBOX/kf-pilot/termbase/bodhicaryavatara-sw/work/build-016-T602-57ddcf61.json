@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T602",
+    "senses": [
+     {
+      "sense": "two truths",
+      "academic": "ukweli mbili",
+      "children": "kweli mbili",
+      "note": "Reuses truth rendering; conventional and ultimate truths of Madhyamaka."
+     }
+    ]
+   },
+   {
+    "term_id": "T603",
+    "senses": [
+     {
+      "sense": "worldly person",
+      "academic": "mtu wa ulimwengu",
+      "children": "mtu wa dunia",
+      "note": "Reuses fixed loka renderings ulimwengu and dunia."
+     }
+    ]
+   },
+   {
+    "term_id": "T604",
+    "senses": [
+     {
+      "sense": "direct perception",
+      "academic": "utambuzi moja kwa moja",
+      "children": "kuona moja kwa moja",
+      "note": "Valid cognition without conceptual mediation."
+     }
+    ]
+   },
+   {
+    "term_id": "T605",
+    "senses": [
+     {
+      "sense": "purity",
+      "academic": "usafi",
+      "children": "usafi",
+      "note": "Everyday Swahili word fits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T606",
+    "senses": [
+     {
+      "sense": "momentary",
+      "academic": "ya papo hapo",
+      "children": "ya muda mfupi tu",
+      "note": "Adjectival; translator adjusts agreement prefix in context."
+     }
+    ]
+   },
+   {
+    "term_id": "T607",
+    "senses": [
+     {
+      "sense": "yogi",
+      "academic": "yogi",
+      "children": "mtu wa tafakari",
+      "note": "Established loan for scholars; plain phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T608",
+    "senses": [
+     {
+      "sense": "truly existent",
+      "academic": "kinachokuwepo kweli",
+      "children": "kinachopo kweli",
+      "note": "Same rendering as T609 since English labels match."
+     }
+    ]
+   },
+   {
+    "term_id": "T609",
+    "senses": [
+     {
+      "sense": "truly existent",
+      "academic": "kinachokuwepo kweli",
+      "children": "kinachopo kweli",
+      "note": "Identical English sense to T608, so identical renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T610",
+    "senses": [
+     {
+      "sense": "illusory person",
+      "academic": "mtu wa maya",
+      "children": "mtu wa uchawi",
+      "note": "Reuses maya loan academically; magic phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T611",
+    "senses": [
+     {
+      "sense": "error",
+      "academic": "hitilafu",
+      "children": "kosa",
+      "note": "Cognitive error; everyday kosa for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T612",
+    "senses": [
+     {
+      "sense": "in reality",
+      "academic": "kwa kweli",
+      "children": "kama vitu vilivyo kweli",
+      "note": "Adverbial phrase of ultimate standpoint."
+     }
+    ]
+   },
+   {
+    "term_id": "T613",
+    "senses": [
+     {
+      "sense": "barren woman's daughter",
+      "academic": "binti wa mwanamke tasa",
+      "children": "binti wa mwanamke asiye na watoto",
+      "note": "Standard example of a nonexistent thing."
+     }
+    ]
+   },
+   {
+    "term_id": "T614",
+    "senses": [
+     {
+      "sense": "self-awareness",
+      "academic": "kujitambua",
+      "children": "kujijua",
+      "note": "Reflexive awareness of consciousness itself."
+     }
+    ]
+   },
+   {
+    "term_id": "T615",
+    "senses": [
+     {
+      "sense": "eye ointment",
+      "academic": "marhamu ya macho",
+      "children": "dawa ya kupaka machoni",
+      "note": "Medical ointment causing illusory visions in the analogy."
+     }
+    ]
+   },
+   {
+    "term_id": "T616",
+    "senses": [
+     {
+      "sense": "cause of suffering",
+      "academic": "sababu ya maumivu",
+      "children": "sababu ya maumivu",
+      "note": "Reuses fixed sababu and maumivu renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T617",
+    "senses": [
+     {
+      "sense": "conceptualization of true existence",
+      "academic": "dhana ya kuwepo kweli",
+      "children": "kufikiri vitu vipo kweli",
+      "note": "Grasping things as truly existent."
+     }
+    ]
+   },
+   {
+    "term_id": "T618",
+    "senses": [
+     {
+      "sense": "apprehended object",
+      "academic": "kitu kinachotambuliwa",
+      "children": "kitu kinachopokelewa na akili",
+      "note": "Object pole of cognition; reuses kitu and akili."
+     }
+    ]
+   },
+   {
+    "term_id": "T619",
+    "senses": [
+     {
+      "sense": "Cittamātra",
+      "academic": "Cittamatra",
+      "children": "Akili Pekee",
+      "note": "School name kept as loan; children get plain meaning."
+     }
+    ]
+   },
+   {
+    "term_id": "T620",
+    "senses": [
+     {
+      "sense": "illusory woman",
+      "academic": "mwanamke wa maya",
+      "children": "mwanamke wa picha ya uongo",
+      "note": "Reuses fixed maya renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T621",
+    "senses": [
+     {
+      "sense": "latent tendency of emptiness",
+      "academic": "mwelekeo wa ndani wa utupu",
+      "children": "tabia ya utupu",
+      "note": "Vāsanā imprint; utupu renders emptiness."
+     }
+    ]
+   },
+   {
+    "term_id": "T622",
+    "senses": [
+     {
+      "sense": "latent tendency of entities",
+      "academic": "mwelekeo wa ndani wa vitu",
+      "children": "tabia iliyobaki akilini kutokana na vitu",
+      "note": "Reuses fixed kitu rendering pluralized as vitu."
+     }
+    ]
+   },
+   {
+    "term_id": "T623",
+    "senses": [
+     {
+      "sense": "non-apprehension",
+      "academic": "kutotambua",
+      "children": "kutokuwa na kitu cha kuzingatia",
+      "note": "Absence of an apprehended object; infinitive as head form."
+     }
+    ]
+   },
+   {
+    "term_id": "T624",
+    "senses": [
+     {
+      "sense": "thorough pacification",
+      "academic": "utulivu kamili",
+      "children": "kutulia kabisa",
+      "note": "Complete stilling of conceptual mind."
+     }
+    ]
+   },
+   {
+    "term_id": "T625",
+    "senses": [
+     {
+      "sense": "wish-fulfilling jewel",
+      "academic": "johari itimizayo matakwa",
+      "children": "kito kitimizacho matamanio",
+      "note": "Mythic jewel granting all wishes."
+     }
+    ]
+   },
+   {
+    "term_id": "T626",
+    "senses": [
+     {
+      "sense": "one to be tamed",
+      "academic": "anayefaa kufugwa",
+      "children": "anayefaa kuongozwa",
+      "note": "Disciple fit for training; softened to guided for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T627",
+    "senses": [
+     {
+      "sense": "aspiration prayer",
+      "academic": "sala ya matamanio",
+      "children": "sala ya kutamani",
+      "note": "Praṇidhāna as prayer of noble aspiration."
+     }
+    ]
+   },
+   {
+    "term_id": "T628",
+    "senses": [
+     {
+      "sense": "garuḍa",
+      "academic": "Garuda",
+      "children": "ndege mkubwa wa angani",
+      "note": "Mythic bird name kept; descriptive phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T629",
+    "senses": [
+     {
+      "sense": "truth",
+      "academic": "ukweli",
+      "children": "kweli",
+      "note": "Base noun reused in two truths compound."
+     }
+    ]
+   },
+   {
+    "term_id": "T630",
+    "senses": [
+     {
+      "sense": "liberation",
+      "academic": "ukombozi",
+      "children": "uhuru",
+      "note": "Release from saṃsāra; uhuru everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T631",
+    "senses": [
+     {
+      "sense": "Vedas (scripture)",
+      "academic": "Veda",
+      "children": "Veda",
+      "note": "Scripture name already known in Swahili as Veda."
+     }
+    ]
+   },
+   {
+    "term_id": "T632",
+    "senses": [
+     {
+      "sense": "non-Buddhist",
+      "academic": "asiye Mbuddha",
+      "children": "mtu asiye Mbuddha",
+      "note": "Tīrthika as follower of non-Buddhist systems."
+     }
+    ]
+   },
+   {
+    "term_id": "T633",
+    "senses": [
+     {
+      "sense": "with apprehension",
+      "academic": "kutambua",
+      "children": "kushikilia vitu",
+      "note": "Counterpart of non-apprehension; object-focused cognition."
+     }
+    ]
+   },
+   {
+    "term_id": "T634",
+    "senses": [
+     {
+      "sense": "grasping",
+      "academic": "kunyakua",
+      "children": "kushika kwa nguvu",
+      "note": "Upādāna clinging, distinct from fixed attachment rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T635",
+    "senses": [
+     {
+      "sense": "afflicted",
+      "academic": "chenye uchafuzi wa akili",
+      "children": "yenye hisia zinazosumbua",
+      "note": "Reuses fixed kleśa renderings in adjectival form."
+     }
+    ]
+   },
+   {
+    "term_id": "T636",
+    "senses": [
+     {
+      "sense": "delusion",
+      "academic": "upotofu wa akili",
+      "children": "kuchanganyikiwa",
+      "note": "Same English label as fixed moha, so same renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T637",
+    "senses": [
+     {
+      "sense": "absorption of non-perception",
+      "academic": "kuzama katika tafakari bila kutambua",
+      "children": "tafakari ya kina bila kutambua kitu",
+      "note": "Builds on samāpatti rendering plus non-perception."
+     }
+    ]
+   },
+   {
+    "term_id": "T638",
+    "senses": [
+     {
+      "sense": "meditative absorption",
+      "academic": "kuzama katika tafakari",
+      "children": "kuzama kwa kina",
+      "note": "Deep meditative equipoise; base for compound T637."
+     }
+    ]
+   },
+   {
+    "term_id": "T639",
+    "senses": [
+     {
+      "sense": "Mahākāśyapa",
+      "academic": "Mahakashyapa",
+      "children": "Mahakashyapa",
+      "note": "Proper name in standard Swahili Latin spelling."
+     }
+    ]
+   },
+   {
+    "term_id": "T640",
+    "senses": [
+     {
+      "sense": "refutation",
+      "academic": "ukanushaji",
+      "children": "kuthibitisha kuwa si kweli",
+      "note": "Logical disproof of an opponent's position."
+     }
+    ]
+   },
+   {
+    "term_id": "T641",
+    "senses": [
+     {
+      "sense": "position",
+      "academic": "msimamo",
+      "children": "msimamo",
+      "note": "Philosophical thesis or standpoint in debate."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4261,
+  "output": 2481,
+  "thinking": 6459,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 155.76,
+ "attempt": 1
+}

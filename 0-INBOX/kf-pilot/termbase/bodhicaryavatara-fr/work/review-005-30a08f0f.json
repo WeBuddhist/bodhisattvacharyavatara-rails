@@ -1,0 +1,122 @@
+{
+ "parsed": {
+  "objections": [
+   {
+    "term_id": "T487",
+    "sense": "ordination",
+    "field": "children",
+    "proposed": "devenir moine ou moniale",
+    "reason": "Same wording as T302 children ('moine ou moniale'); 'nonne' is a Christian term."
+   },
+   {
+    "term_id": "T501",
+    "sense": "diligence",
+    "field": "academic",
+    "proposed": "effort enthousiaste",
+    "reason": "Same term vīrya is 'effort enthousiaste' in T102; 'persévérance' is inconsistent and the children field already says 'effort joyeux'."
+   },
+   {
+    "term_id": "T504",
+    "sense": "idleness",
+    "field": "children",
+    "proposed": "ne rien faire",
+    "reason": "'paresse' is already ālasya (T123, T537); avyāpāra (idleness) needs a distinct, simple rendering."
+   },
+   {
+    "term_id": "T505",
+    "sense": "force",
+    "field": "academic",
+    "proposed": "ensemble de forces",
+    "reason": "'armée de forces' is tautological and unidiomatic; English is 'host of forces'."
+   },
+   {
+    "term_id": "T510",
+    "sense": "power of diligence",
+    "field": "academic",
+    "proposed": "puissance de l'effort enthousiaste",
+    "reason": "stobs is 'puissance' (T521) and vīrya is 'effort enthousiaste' (T102); 'force' is used for dpung/bala (T515)."
+   },
+   {
+    "term_id": "T510",
+    "sense": "power of diligence",
+    "field": "children",
+    "proposed": "pouvoir de l'effort joyeux",
+    "reason": "stobs is 'pouvoir' in T521 children; 'force' is used for bala/dpung (T515)."
+   },
+   {
+    "term_id": "T517",
+    "sense": "relinquishment",
+    "field": "academic",
+    "proposed": "abandon",
+    "reason": "'renoncement' collides with renunciation (T400, T456); tyāga is 'abandon' in T398 ('esprit d'abandon')."
+   },
+   {
+    "term_id": "T518",
+    "sense": "relinquishment",
+    "field": "academic",
+    "proposed": "abandon",
+    "reason": "'renoncement' collides with renunciation (T400, T456); tyāga is 'abandon' in T398 ('esprit d'abandon')."
+   },
+   {
+    "term_id": "T534",
+    "sense": "result of victory",
+    "field": "children",
+    "proposed": "résultat de la victoire",
+    "reason": "Children's field uses 'résultat' for phala elsewhere (T024, T296, T488); 'fruit' is inconsistent."
+   },
+   {
+    "term_id": "T549",
+    "sense": "conceit",
+    "field": "children",
+    "proposed": "avoir la grosse tête",
+    "reason": "'se croire supérieur' is already the children's rendering of mada (T242); English here is 'puffed-up feeling'."
+   },
+   {
+    "term_id": "T562",
+    "sense": "excrement",
+    "field": "children",
+    "proposed": "déchets du corps",
+    "reason": "'crotte' means animal droppings and is slangy; English is 'body waste'."
+   },
+   {
+    "term_id": "T563",
+    "sense": "saliva",
+    "field": "children",
+    "proposed": "salive",
+    "reason": "'bave' means drool, not spit; 'salive' is accurate and simple."
+   },
+   {
+    "term_id": "T565",
+    "sense": "insentient",
+    "field": "academic",
+    "proposed": "inanimé",
+    "reason": "Same acetana is 'inanimé' in T249; 'insensible' means unfeeling or numb in French."
+   },
+   {
+    "term_id": "T580",
+    "sense": "intellect of self",
+    "field": "children",
+    "proposed": "pensée du soi",
+    "reason": "'moi' is inconsistent with 'soi' used for ātman in academic field and everywhere else."
+   },
+   {
+    "term_id": "T595",
+    "sense": "excellence",
+    "field": "children",
+    "proposed": "excellence",
+    "reason": "'perfection' is reserved for pāramitā (T159); same as T251 saṃpad."
+   },
+   {
+    "term_id": "T596",
+    "sense": "grasping at self",
+    "field": "academic",
+    "proposed": "saisie du soi",
+    "reason": "'emprise sur le soi' means control over the self; bdag tu 'dzin is 'saisie du soi' (T277, T579)."
+   }
+  ]
+ },
+ "tokens": {},
+ "model": "claude-sonnet-5-5",
+ "seconds": null,
+ "attempt": 1
+}

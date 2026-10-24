@@ -1,0 +1,87 @@
+{
+ "parsed": {
+  "objections": [
+   {
+    "term_id": "T121",
+    "sense": "heedfulness",
+    "field": "children",
+    "proposed": "cuidado",
+    "reason": "\"atenção\" belongs to smṛti (\"atenção plena\"); \"cuidado\" matches English carefulness and pairs with \"descuido\" for pramāda (T141)."
+   },
+   {
+    "term_id": "T130",
+    "sense": "solitude",
+    "field": "children",
+    "proposed": "estar a sós",
+    "reason": "\"solidão\" suggests loneliness and sadness; viveka is peaceful seclusion, which readers aged 8 to 12 would misread."
+   },
+   {
+    "term_id": "T131",
+    "sense": "lifetime",
+    "field": "academic",
+    "proposed": "vida",
+    "reason": "\"existência\" is already the academic rendering of bhava (T086); tshe rabs means a lifetime, consistent with T166 \"esta vida\"."
+   },
+   {
+    "term_id": "T131",
+    "sense": "lifetime",
+    "field": "children",
+    "proposed": "tempo de vida",
+    "reason": "\"vida\" duplicates the children rendering of bhava (T086); \"tempo de vida\" renders 'lifetime' distinctly."
+   },
+   {
+    "term_id": "T134",
+    "sense": "continuous stream of mind or person",
+    "field": "academic",
+    "proposed": "continuum",
+    "reason": "Same Sanskrit saṃtāna and same English \"continuum\" as T185, which uses \"continuum\"; \"contínuo\" is an adjective and inconsistent."
+   },
+   {
+    "term_id": "T141",
+    "sense": "heedlessness",
+    "field": "academic",
+    "proposed": "descuido",
+    "reason": "\"desatenção\" collides with the field of smṛti (\"atenção plena\") and T460 (same term pramāda) uses \"descuido\"; it also pairs with \"cuidado\"."
+   },
+   {
+    "term_id": "T151",
+    "sense": "protector, saviour",
+    "field": "children",
+    "proposed": "Aquele que salva",
+    "reason": "\"Protetor\" is already used for nātha (T045, T087); tāyin/skyob pa is 'one who saves', so two different terms would share one rendering."
+   },
+   {
+    "term_id": "T152",
+    "sense": "nirvana",
+    "field": "children",
+    "proposed": "liberdade da tristeza",
+    "reason": "Inconsistent with T211 \"liberdade da tristeza\" for the same term; mya ngan is sorrow, and \"sofrimento\" is reserved for duḥkha."
+   },
+   {
+    "term_id": "T198",
+    "sense": "offering",
+    "field": "academic",
+    "proposed": "oferenda",
+    "reason": "\"oferta\" means a commercial offer or gift; \"oferenda\" is the established Buddhist term for pūjā/mchod pa."
+   },
+   {
+    "term_id": "T221",
+    "sense": "leisure",
+    "field": "academic",
+    "proposed": "liberdade",
+    "reason": "\"tempo livre\" means spare time, missing the sense of freedom from unfavorable conditions; inconsistent with T195 \"liberdade e dotação\"."
+   },
+   {
+    "term_id": "T237",
+    "sense": "guarding introspection",
+    "field": "children",
+    "proposed": "guardar a vigilância",
+    "reason": "Inconsistent with T047 saṃprajanya children \"vigilância\"; \"atenção\" belongs to smṛti and the English is \"guarding watchfulness\"."
+   }
+  ]
+ },
+ "tokens": {},
+ "model": "claude-sonnet-5-5",
+ "seconds": null,
+ "attempt": 1
+}

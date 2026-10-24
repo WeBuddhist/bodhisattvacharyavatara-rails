@@ -1,0 +1,14 @@
+{"objections": [
+{"term_id": "T722", "sense": "nun", "field": "children", "proposed": "mtawa wa kike", "reason": "'mwanamke aliyejikabidhi kwa dini' is too long and complex for ages 8-12; 'mtawa wa kike' is simple and matches T302/T487."},
+{"term_id": "T724", "sense": "hardship", "field": "academic", "proposed": "taabu", "reason": "'mateso' is reserved for suffering (duḥkha, T001); hardship (dka' ba) is 'taabu'."},
+{"term_id": "T724", "sense": "hardship", "field": "children", "proposed": "mambo magumu", "reason": "'kujitesa' means torturing oneself, not hardship; also hard for children. 'mambo magumu' means difficult things."},
+{"term_id": "T725", "sense": "welfare of others", "field": "children", "proposed": "wema wa wengine", "reason": "Same concept 'good of others' as T072, rendered 'wema wa wengine'; keep consistent."},
+{"term_id": "T728", "sense": "place of seclusion", "field": "academic", "proposed": "mahali pa faragha", "reason": "Keeps consistent with viveka/dben pa (T130, proposed 'faragha'); 'upweke' suggests loneliness."},
+{"term_id": "T729", "sense": "Saṅgha of bodhisattvas", "field": "children", "proposed": "jumuiya ya mashujaa wa mwamko", "reason": "'uamsho' means revival; awakening is 'mwamko' (see T020)."},
+{"term_id": "T730", "sense": "teaching (the Buddha's doctrine)", "field": "academic", "proposed": "mafundisho ya Buddha", "reason": "'mafunzo' already renders śikṣā 'training' (T046); śāsana is rendered 'mafundisho ya Buddha' in T523."},
+{"term_id": "T733", "sense": "name of the author", "field": "academic", "proposed": "Shantideva", "reason": "Swahili orthography does not use IAST diacritics; other names (T73, T319, T332) are plain Latin; keep consistent."},
+{"term_id": "T734", "sense": "Sarvajñādeva", "field": "academic", "proposed": "Sarvajnadeva", "reason": "Swahili orthography does not use IAST diacritics; other names are plain Latin; keep consistent."},
+{"term_id": "T737", "sense": "Dharmaśrībhadra (name)", "field": "academic", "proposed": "Dharmashribhadra", "reason": "Swahili orthography does not use IAST diacritics; other names are plain Latin; keep consistent."},
+{"term_id": "T739", "sense": "Śākya Lodrö", "field": "academic", "proposed": "Shakya Lodro", "reason": "Swahili orthography does not use IAST diacritics; other names are plain Latin; keep consistent."},
+{"term_id": "T741", "sense": "Sumatikīrti", "field": "academic", "proposed": "Sumatikirti", "reason": "Swahili orthography does not use IAST diacritics; other names are plain Latin; keep consistent."}
+]}

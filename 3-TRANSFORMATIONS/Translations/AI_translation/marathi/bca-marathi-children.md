@@ -1,5 +1,6 @@
 ---
-title: इथून सुरू होतो बोधिसत्त्वाचा मार्ग - children version
+title: इथून सुरू होतो बोधिसत्त्वाचा मार्ग - children version — एआय अनुवाद
+ai_generated: true
 language: Marathi
 file_type: translation
 root_text: 1-SOURCES/Translations/bo-བློ་ལྡན་ཤེས་རབ།.md
@@ -15,7 +16,7 @@ edition_id: AVGM32fuCApuhpmw7oa5q
 toc_id: KUJaODlWEgRnODyZsCXCx
 ---
 
-# इथून सुरू होतो बोधिसत्त्वाचा मार्ग ^0
+# इथून सुरू होतो बोधिसत्त्वाचा मार्ग — एआय अनुवाद ^0
 
 ## सुरुवातीचे शब्द ^I-0
 

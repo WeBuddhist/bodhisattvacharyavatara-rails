@@ -1,0 +1,248 @@
+{
+ "parsed": {
+  "objections": [
+   {
+    "term_id": "T602",
+    "sense": "two truths",
+    "field": "academic",
+    "proposed": "ukweli wa aina mbili",
+    "reason": "'ukweli' is class 11 singular and cannot take 'mbili'; 'ukweli mbili' is ungrammatical."
+   },
+   {
+    "term_id": "T657",
+    "sense": "two truths",
+    "field": "academic",
+    "proposed": "ukweli wa aina mbili",
+    "reason": "Same term as T602; keep consistent and grammatical (T602 academic differs from T657 academic in the draft)."
+   },
+   {
+    "term_id": "T608",
+    "sense": "truly existent",
+    "field": "children",
+    "proposed": "kilichopo kweli",
+    "reason": "'kinachopo' is not a valid verb form; 'kilichopo' (that which exists) is correct and simple."
+   },
+   {
+    "term_id": "T609",
+    "sense": "truly existent",
+    "field": "children",
+    "proposed": "kilichopo kweli",
+    "reason": "'kinachopo' is not a valid verb form; 'kilichopo' (that which exists) is correct and simple."
+   },
+   {
+    "term_id": "T610",
+    "sense": "illusory person",
+    "field": "academic",
+    "proposed": "mtu wa udanganyifu",
+    "reason": "'maya' is an untranslated Sanskrit loan; use the Swahili rendering of illusion (see T031)."
+   },
+   {
+    "term_id": "T620",
+    "sense": "illusory woman",
+    "field": "academic",
+    "proposed": "mwanamke wa udanganyifu",
+    "reason": "'maya' is an untranslated Sanskrit loan; use the Swahili rendering of illusion (see T031)."
+   },
+   {
+    "term_id": "T616",
+    "sense": "cause of suffering",
+    "field": "academic",
+    "proposed": "sababu ya mateso",
+    "reason": "'maumivu' means physical pain; suffering is 'mateso' (see T001)."
+   },
+   {
+    "term_id": "T616",
+    "sense": "cause of suffering",
+    "field": "children",
+    "proposed": "sababu ya mateso",
+    "reason": "'maumivu' means physical pain; suffering is 'mateso' (see T001)."
+   },
+   {
+    "term_id": "T682",
+    "sense": "ocean of suffering",
+    "field": "academic",
+    "proposed": "bahari ya mateso",
+    "reason": "'maumivu' means physical pain; suffering is 'mateso' (see T001)."
+   },
+   {
+    "term_id": "T682",
+    "sense": "ocean of suffering",
+    "field": "children",
+    "proposed": "bahari ya mateso",
+    "reason": "'maumivu' means physical pain; suffering is 'mateso' (see T001)."
+   },
+   {
+    "term_id": "T687",
+    "sense": "river of suffering",
+    "field": "academic",
+    "proposed": "mto wa mateso",
+    "reason": "'maumivu' means physical pain; suffering is 'mateso' (see T001)."
+   },
+   {
+    "term_id": "T687",
+    "sense": "river of suffering",
+    "field": "children",
+    "proposed": "mto wa mateso",
+    "reason": "'maumivu' means physical pain; suffering is 'mateso' (see T001)."
+   },
+   {
+    "term_id": "T689",
+    "sense": "fire of suffering",
+    "field": "academic",
+    "proposed": "moto wa mateso",
+    "reason": "'maumivu' means physical pain; suffering is 'mateso' (see T001)."
+   },
+   {
+    "term_id": "T689",
+    "sense": "fire of suffering",
+    "field": "children",
+    "proposed": "moto wa mateso",
+    "reason": "'maumivu' means physical pain; suffering is 'mateso' (see T001)."
+   },
+   {
+    "term_id": "T621",
+    "sense": "latent tendency of emptiness",
+    "field": "academic",
+    "proposed": "mwelekeo uliojifichwa wa utupu",
+    "reason": "Vāsanā is 'mwelekeo uliojifichwa' in T284; 'mwelekeo wa ndani' is inconsistent."
+   },
+   {
+    "term_id": "T622",
+    "sense": "latent tendency of entities",
+    "field": "academic",
+    "proposed": "mwelekeo uliojifichwa wa vitu",
+    "reason": "Vāsanā is 'mwelekeo uliojifichwa' in T284; 'mwelekeo wa ndani' is inconsistent."
+   },
+   {
+    "term_id": "T625",
+    "sense": "wish-fulfilling jewel",
+    "field": "academic",
+    "proposed": "kito kinachotimiza matamanio",
+    "reason": "Jewel is 'kito' (T204, T325, T371); 'johari' and 'matakwa' are inconsistent with T114/T371."
+   },
+   {
+    "term_id": "T626",
+    "sense": "one to be tamed",
+    "field": "academic",
+    "proposed": "anayefaa kufunzwa",
+    "reason": "'kufugwa' means to be domesticated (animals); for people use 'kufunzwa' (be trained)."
+   },
+   {
+    "term_id": "T634",
+    "sense": "grasping",
+    "field": "academic",
+    "proposed": "kung'ang'ania",
+    "reason": "'kunyakua' means to snatch or seize suddenly, not clinging or grasping (upādāna)."
+   },
+   {
+    "term_id": "T634",
+    "sense": "grasping",
+    "field": "children",
+    "proposed": "kung'ang'ania",
+    "reason": "'kushika kwa nguvu' is already used for abhiniveśa (T466, 'kushikilia kwa nguvu'); two terms need different words."
+   },
+   {
+    "term_id": "T636",
+    "sense": "delusion",
+    "field": "academic",
+    "proposed": "mkanganyiko wa akili",
+    "reason": "Same delusion as T038 (proposed 'mkanganyiko wa akili'); 'upotofu' implies moral deviation, not delusion."
+   },
+   {
+    "term_id": "T642",
+    "sense": "obscuration of afflictions and of objects of knowledge",
+    "field": "academic",
+    "proposed": "kifuniko cha uchafuzi wa akili na vitu vya kujulikana",
+    "reason": "Obscuration (āvaraṇa) is 'kifuniko' in T598; 'kizuizi' is inconsistent."
+   },
+   {
+    "term_id": "T644",
+    "sense": "designated",
+    "field": "academic",
+    "proposed": "iliyopewa jina",
+    "reason": "'iliyoteuliwa' means appointed or chosen for a role, not designated/labelled; matches the children's field."
+   },
+   {
+    "term_id": "T646",
+    "sense": "one who experiences",
+    "field": "academic",
+    "proposed": "anayepitia",
+    "reason": "'mwenye uzoefu' means an experienced (skilled) person, not one who experiences; wrong meaning."
+   },
+   {
+    "term_id": "T669",
+    "sense": "coarse",
+    "field": "academic",
+    "proposed": "ghafi",
+    "reason": "Same sthūla and English as T190, rendered 'ghafi'; 'nene' means fat or thick."
+   },
+   {
+    "term_id": "T673",
+    "sense": "meditation",
+    "field": "children",
+    "proposed": "kutafakari",
+    "reason": "Same English 'meditation' as T238, rendered 'kutafakari'; keep consistent."
+   },
+   {
+    "term_id": "T647",
+    "sense": "imputed",
+    "field": "children",
+    "proposed": "iliyobuniwa",
+    "reason": "'iliyowazwa' (passive of 'kuwaza') is unnatural; 'iliyobuniwa' (invented) is natural for imagined."
+   },
+   {
+    "term_id": "T674",
+    "sense": "imputed entity",
+    "field": "children",
+    "proposed": "kitu kilichobuniwa",
+    "reason": "'kilichowazwa' is unnatural; 'kilichobuniwa' (invented, made up) is natural."
+   },
+   {
+    "term_id": "T683",
+    "sense": "distraction",
+    "field": "academic",
+    "proposed": "utawanyiko wa akili",
+    "reason": "Same vikṣepa and English as T171, rendered 'utawanyiko wa akili'; keep consistent."
+   },
+   {
+    "term_id": "T683",
+    "sense": "distraction",
+    "field": "children",
+    "proposed": "kutawanyika kwa mawazo",
+    "reason": "Same vikṣepa and English as T171, rendered 'kutawanyika kwa mawazo'; keep consistent."
+   },
+   {
+    "term_id": "T690",
+    "sense": "accumulation of merit",
+    "field": "academic",
+    "proposed": "ukusanyaji wa thawabu",
+    "reason": "Accumulation (tshogs) is 'ukusanyaji' (T119 accumulation); 'mkusanyiko' is the rendering for collection."
+   },
+   {
+    "term_id": "T691",
+    "sense": "non-apprehension",
+    "field": "academic",
+    "proposed": "kutotambua",
+    "reason": "Same English 'non-apprehension' as T623, rendered 'kutotambua'; 'kutokamata kitu' is inconsistent."
+   },
+   {
+    "term_id": "T709",
+    "sense": "conduct of awakening",
+    "field": "academic",
+    "proposed": "mwenendo wa mwamko",
+    "reason": "'uamsho' means revival; awakening is 'mwamko' (see T020)."
+   },
+   {
+    "term_id": "T709",
+    "sense": "conduct of awakening",
+    "field": "children",
+    "proposed": "matendo ya mwamko",
+    "reason": "'uamsho' means revival; awakening is 'mwamko' (see T020)."
+   }
+  ]
+ },
+ "tokens": {},
+ "model": "claude-sonnet-5-5",
+ "seconds": null,
+ "attempt": 1
+}

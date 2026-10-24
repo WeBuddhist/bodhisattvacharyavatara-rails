@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T562",
+    "senses": [
+     {
+      "sense": "excrement",
+      "academic": "tinja",
+      "children": "kotoran",
+      "note": "Precise term versus everyday word for bodily waste."
+     }
+    ]
+   },
+   {
+    "term_id": "T563",
+    "senses": [
+     {
+      "sense": "saliva",
+      "academic": "air liur",
+      "children": "ludah",
+      "note": "Formal compound versus everyday word for spit."
+     }
+    ]
+   },
+   {
+    "term_id": "T564",
+    "senses": [
+     {
+      "sense": "cage of bones",
+      "academic": "kurungan tulang",
+      "children": "kurungan tulang",
+      "note": "Same phrase fits both registers, mirroring English."
+     }
+    ]
+   },
+   {
+    "term_id": "T565",
+    "senses": [
+     {
+      "sense": "insentient",
+      "academic": "tanpa kesadaran",
+      "children": "tanpa pikiran",
+      "note": "Negation of sentience; children version mirrors fixed rendering of mind."
+     }
+    ]
+   },
+   {
+    "term_id": "T566",
+    "senses": [
+     {
+      "sense": "cage of filth",
+      "academic": "kurungan kotoran",
+      "children": "kurungan kotoran",
+      "note": "Parallel to cage of bones; same for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T567",
+    "senses": [
+     {
+      "sense": "impure field",
+      "academic": "lapangan tidak murni",
+      "children": "ladang yang kotor",
+      "note": "Kṣetra as field; simpler everyday wording for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T568",
+    "senses": [
+     {
+      "sense": "worm born of filth",
+      "academic": "cacing kotoran",
+      "children": "cacing dari kotoran",
+      "note": "Literal rendering of filth-born worm."
+     }
+    ]
+   },
+   {
+    "term_id": "T569",
+    "senses": [
+     {
+      "sense": "camphor",
+      "academic": "kapur barus",
+      "children": "kapur barus",
+      "note": "Standard Indonesian for camphor, already an everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T570",
+    "senses": [
+     {
+      "sense": "wealth",
+      "academic": "kekayaan",
+      "children": "kekayaan",
+      "note": "Same everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T571",
+    "senses": [
+     {
+      "sense": "suffering of existence",
+      "academic": "penderitaan keberadaan",
+      "children": "penderitaan hidup",
+      "note": "Bhava as existence; reuses fixed rendering of suffering."
+     }
+    ]
+   },
+   {
+    "term_id": "T572",
+    "senses": [
+     {
+      "sense": "disadvantage",
+      "academic": "kerugian",
+      "children": "sisi buruk",
+      "note": "Kerugian is established Indonesian Buddhist rendering of ādīnava."
+     }
+    ]
+   },
+   {
+    "term_id": "T573",
+    "senses": [
+     {
+      "sense": "desire",
+      "academic": "hasrat",
+      "children": "keinginan",
+      "note": "Kāma as sensual desire; everyday synonym for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T574",
+    "senses": [
+     {
+      "sense": "contentment",
+      "academic": "kepuasan",
+      "children": "puas dengan apa yang ada",
+      "note": "Plain phrase glosses contentment for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T575",
+    "senses": [
+     {
+      "sense": "Indra",
+      "academic": "Indra",
+      "children": "Indra",
+      "note": "Proper name kept in standard local form."
+     }
+    ]
+   },
+   {
+    "term_id": "T576",
+    "senses": [
+     {
+      "sense": "conceptual thought",
+      "academic": "pikiran konseptual",
+      "children": "pemikiran",
+      "note": "Technical term becomes plain word for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T577",
+    "senses": [
+     {
+      "sense": "Supuṣpacandra (name)",
+      "academic": "Supuṣpacandra",
+      "children": "Supuspacandra",
+      "note": "Simplified spelling without diacritics for young readers."
+     }
+    ]
+   },
+   {
+    "term_id": "T578",
+    "senses": [
+     {
+      "sense": "absence of an entity",
+      "academic": "ketidakadaan entitas",
+      "children": "tanpa sesuatu",
+      "note": "Reuses fixed renderings of entity in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T579",
+    "senses": [
+     {
+      "sense": "self-grasping",
+      "academic": "kemelekatan pada atman",
+      "children": "berpegang pada diri sendiri",
+      "note": "Reuses fixed renderings of attachment and atman."
+     }
+    ]
+   },
+   {
+    "term_id": "T580",
+    "senses": [
+     {
+      "sense": "intellect of self",
+      "academic": "intelek atman",
+      "children": "pikiran tentang diri sendiri",
+      "note": "Buddhi as intellect; children phrase uses everyday words."
+     }
+    ]
+   },
+   {
+    "term_id": "T581",
+    "senses": [
+     {
+      "sense": "blessing",
+      "academic": "berkah",
+      "children": "berkah",
+      "note": "Standard Indonesian rendering of adhiṣṭhāna blessing."
+     }
+    ]
+   },
+   {
+    "term_id": "T582",
+    "senses": [
+     {
+      "sense": "exchange of self and others",
+      "academic": "pertukaran diri dan orang lain",
+      "children": "bertukar diri dengan orang lain",
+      "note": "Key meditation practice of exchanging self and others."
+     }
+    ]
+   },
+   {
+    "term_id": "T583",
+    "senses": [
+     {
+      "sense": "supreme secret (self-other exchange)",
+      "academic": "rahasia tertinggi",
+      "children": "rahasia terbesar",
+      "note": "Supreme secret, namely the self-other exchange practice."
+     }
+    ]
+   },
+   {
+    "term_id": "T584",
+    "senses": [
+     {
+      "sense": "demon",
+      "academic": "setan",
+      "children": "setan",
+      "note": "Everyday Indonesian word for demon."
+     }
+    ]
+   },
+   {
+    "term_id": "T585",
+    "senses": [
+     {
+      "sense": "own welfare",
+      "academic": "kesejahteraan diri sendiri",
+      "children": "kebaikan diri sendiri",
+      "note": "Ātmārtha as one's own benefit."
+     }
+    ]
+   },
+   {
+    "term_id": "T586",
+    "senses": [
+     {
+      "sense": "own welfare",
+      "academic": "kesejahteraan diri sendiri",
+      "children": "kebaikan diri sendiri",
+      "note": "Identical sense to T585, same rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T587",
+    "senses": [
+     {
+      "sense": "exchange",
+      "academic": "pertukaran",
+      "children": "tukar-menukar",
+      "note": "Matches the exchange rendering used in compound T582."
+     }
+    ]
+   },
+   {
+    "term_id": "T588",
+    "senses": [
+     {
+      "sense": "next world",
+      "academic": "dunia lain",
+      "children": "kehidupan berikutnya",
+      "note": "Paraloka as the world beyond; children version says next life."
+     }
+    ]
+   },
+   {
+    "term_id": "T589",
+    "senses": [
+     {
+      "sense": "great demon",
+      "academic": "setan besar",
+      "children": "setan besar",
+      "note": "Builds on the rendering of piśāca as setan."
+     }
+    ]
+   },
+   {
+    "term_id": "T590",
+    "senses": [
+     {
+      "sense": "self",
+      "academic": "atman itu sendiri",
+      "children": "diri sendiri",
+      "note": "Emphatic very self; reuses fixed renderings of atman."
+     }
+    ]
+   },
+   {
+    "term_id": "T591",
+    "senses": [
+     {
+      "sense": "rivalry",
+      "academic": "persaingan",
+      "children": "berebut menang",
+      "note": "Rivalry among people; plain phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T592",
+    "senses": [
+     {
+      "sense": "view",
+      "academic": "pandangan",
+      "children": "keyakinan",
+      "note": "Dṛṣṭi as doctrinal view; belief for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T593",
+    "senses": [
+     {
+      "sense": "learning",
+      "academic": "pembelajaran",
+      "children": "pelajaran",
+      "note": "Śruta as learning gained through hearing the teachings."
+     }
+    ]
+   },
+   {
+    "term_id": "T594",
+    "senses": [
+     {
+      "sense": "grasping as \"I\"",
+      "academic": "menggenggam sebagai 'aku'",
+      "children": "menganggap sebagai 'aku'",
+      "note": "Grasping conceives an I; simpler verb for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T595",
+    "senses": [
+     {
+      "sense": "excellence",
+      "academic": "keunggulan",
+      "children": "keadaan terbaik",
+      "note": "Saṃpad as excellence or perfect endowment."
+     }
+    ]
+   },
+   {
+    "term_id": "T596",
+    "senses": [
+     {
+      "sense": "grasping at self",
+      "academic": "genggaman pada atman",
+      "children": "memegang erat diri sendiri",
+      "note": "Kept distinct from self-grasping in T579."
+     }
+    ]
+   },
+   {
+    "term_id": "T597",
+    "senses": [
+     {
+      "sense": "mental dullness",
+      "academic": "kelesuan batin",
+      "children": "pikiran yang lemas",
+      "note": "Mental dullness as sluggishness of mind."
+     }
+    ]
+   },
+   {
+    "term_id": "T598",
+    "senses": [
+     {
+      "sense": "obscuration",
+      "academic": "selubung",
+      "children": "tirai",
+      "note": "Āvaraṇa as a veil covering the mind."
+     }
+    ]
+   },
+   {
+    "term_id": "T599",
+    "senses": [
+     {
+      "sense": "object of meditative focus",
+      "academic": "objek fokus yang sempurna",
+      "children": "hal yang paling tepat untuk difokuskan",
+      "note": "Perfect meditation object; plain phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T600",
+    "senses": [
+     {
+      "sense": "title of chapter 8",
+      "academic": "Konsentrasi Meditatif",
+      "children": "Fokus yang Tenang",
+      "note": "Title of chapter eight on meditative concentration."
+     }
+    ]
+   },
+   {
+    "term_id": "T601",
+    "senses": [
+     {
+      "sense": "branch",
+      "academic": "cabang",
+      "children": "cabang",
+      "note": "Branch or auxiliary factor; same word in both registers."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 3992,
+  "output": 2342,
+  "thinking": 7966,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 312.18,
+ "attempt": 1
+}

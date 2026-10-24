@@ -1,0 +1,462 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T001",
+    "senses": [
+     {
+      "sense": "suffering",
+      "academic": "maumivu",
+      "children": "maumivu",
+      "note": "Dukkha; maumivu covers existential and physical suffering in Swahili."
+     }
+    ]
+   },
+   {
+    "term_id": "T002",
+    "senses": [
+     {
+      "sense": "sentient beings",
+      "academic": "kiumbe chenye hisia",
+      "children": "kiumbe hai",
+      "note": "Sattva; academic stresses feeling capacity, children plain living being."
+     }
+    ]
+   },
+   {
+    "term_id": "T003",
+    "senses": [
+     {
+      "sense": "mind",
+      "academic": "akili",
+      "children": "akili",
+      "note": "Citta; akili is the standard Swahili term for mind."
+     }
+    ]
+   },
+   {
+    "term_id": "T004",
+    "senses": [
+     {
+      "sense": "affliction",
+      "academic": "uchafuzi wa akili",
+      "children": "hisia zinazosumbua",
+      "note": "Klesha as mental defilement; children get plain troubling feelings."
+     }
+    ]
+   },
+   {
+    "term_id": "T005",
+    "senses": [
+     {
+      "sense": "living beings of the world",
+      "academic": "kiumbe anayetangatanga",
+      "children": "kiumbe",
+      "note": "Jagat as wandering being in samsara; children simply being."
+     }
+    ]
+   },
+   {
+    "term_id": "T006",
+    "senses": [
+     {
+      "sense": "body",
+      "academic": "mwili",
+      "children": "mwili",
+      "note": "Kaya; mwili is the everyday Swahili word for body."
+     }
+    ]
+   },
+   {
+    "term_id": "T007",
+    "senses": [
+     {
+      "sense": "merit",
+      "academic": "thawabu",
+      "children": "hazina ya wema",
+      "note": "Thawabu is established Swahili for spiritual merit; children store of goodness."
+     }
+    ]
+   },
+   {
+    "term_id": "T008",
+    "senses": [
+     {
+      "sense": "Buddha",
+      "academic": "Buddha",
+      "children": "Buddha",
+      "note": "Proper name kept in standard Swahili spelling."
+     }
+    ]
+   },
+   {
+    "term_id": "T009",
+    "senses": [
+     {
+      "sense": "good quality",
+      "academic": "sifa njema",
+      "children": "sifa njema",
+      "note": "Guna as virtue or good quality; plain phrase works in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T010",
+    "senses": [
+     {
+      "sense": "bodhisattva",
+      "academic": "bodhisattva",
+      "children": "shujaa wa uamsho",
+      "note": "Loan kept academically; children get awakening hero rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T011",
+    "senses": [
+     {
+      "sense": "misdeed",
+      "academic": "dhambi",
+      "children": "tendo la madhara",
+      "note": "Papa; dhambi is established, children get harmful deed phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T012",
+    "senses": [
+     {
+      "sense": "the awakening mind",
+      "academic": "bodhicitta",
+      "children": "akili ya uamsho",
+      "note": "Loan for scholars; children get plain awakening mind phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T013",
+    "senses": [
+     {
+      "sense": "world",
+      "academic": "ulimwengu",
+      "children": "dunia",
+      "note": "Both mean world; dunia is the more everyday word for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T014",
+    "senses": [
+     {
+      "sense": "virtue",
+      "academic": "fadhila",
+      "children": "tendo jema",
+      "note": "Kushala; fadhila is established loan, children get good deed."
+     }
+    ]
+   },
+   {
+    "term_id": "T015",
+    "senses": [
+     {
+      "sense": "happiness",
+      "academic": "furaha",
+      "children": "furaha",
+      "note": "Sukha; furaha is the common Swahili word for happiness."
+     }
+    ]
+   },
+   {
+    "term_id": "T016",
+    "senses": [
+     {
+      "sense": "mind",
+      "academic": "akili",
+      "children": "akili",
+      "note": "Manas rendered akili, same as citta since English keeps no distinction."
+     }
+    ]
+   },
+   {
+    "term_id": "T017",
+    "senses": [
+     {
+      "sense": "cycle of rebirth, saṃsāra",
+      "academic": "samsara",
+      "children": "mzunguko wa kuzaliwa tena",
+      "note": "Loan in Swahili spelling; children get descriptive cycle of rebirth."
+     }
+    ]
+   },
+   {
+    "term_id": "T018",
+    "senses": [
+     {
+      "sense": "hell",
+      "academic": "jehanamu",
+      "children": "jehanamu",
+      "note": "Naraka; jehanamu is the established everyday Swahili word for hell."
+     }
+    ]
+   },
+   {
+    "term_id": "T019",
+    "senses": [
+     {
+      "sense": "the Buddha's teaching",
+      "academic": "Dharma",
+      "children": "mafundisho",
+      "note": "Capitalized loan for the teaching; children simply teachings."
+     },
+     {
+      "sense": "things as such (chapter 9)",
+      "academic": "tukio",
+      "children": "kitu kinachoonekana",
+      "note": "Dharma as phenomenon in chapter nine; children thing that appears."
+     }
+    ]
+   },
+   {
+    "term_id": "T020",
+    "senses": [
+     {
+      "sense": "awakening",
+      "academic": "uamsho",
+      "children": "uamsho",
+      "note": "Bodhi rendered uamsho, awakening, in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T021",
+    "senses": [
+     {
+      "sense": "pride",
+      "academic": "kiburi",
+      "children": "kiburi",
+      "note": "Kiburi is the everyday Swahili word for pride or arrogance."
+     }
+    ]
+   },
+   {
+    "term_id": "T022",
+    "senses": [
+     {
+      "sense": "self",
+      "academic": "nafsi",
+      "children": "nafsi",
+      "note": "Atman; nafsi is the standard Swahili term for self."
+     }
+    ]
+   },
+   {
+    "term_id": "T023",
+    "senses": [
+     {
+      "sense": "condition",
+      "academic": "sharti",
+      "children": "hali",
+      "note": "Pratyaya as causal condition; children get everyday circumstance word."
+     }
+    ]
+   },
+   {
+    "term_id": "T024",
+    "senses": [
+     {
+      "sense": "result of action",
+      "academic": "matokeo",
+      "children": "matokeo",
+      "note": "Phala as karmic result; matokeo is plain result for both."
+     }
+    ]
+   },
+   {
+    "term_id": "T025",
+    "senses": [
+     {
+      "sense": "misdeed",
+      "academic": "dhambi",
+      "children": "tendo la madhara",
+      "note": "Same as T011; rendering kept consistent."
+     }
+    ]
+   },
+   {
+    "term_id": "T026",
+    "senses": [
+     {
+      "sense": "cause",
+      "academic": "sababu",
+      "children": "sababu",
+      "note": "Karana; sababu is the standard everyday word for cause."
+     }
+    ]
+   },
+   {
+    "term_id": "T027",
+    "senses": [
+     {
+      "sense": "title of the work",
+      "academic": "Kuingia katika Njia ya Bodhisattva",
+      "children": "Kuingia katika Njia ya Shujaa wa Uamsho",
+      "note": "Title translation, reusing fixed renderings of bodhisattva in each register."
+     }
+    ]
+   },
+   {
+    "term_id": "T028",
+    "senses": [
+     {
+      "sense": "attachment, clinging",
+      "academic": "kushikamana",
+      "children": "kushikilia",
+      "note": "Lobha; academic attachment, children plain holding on tight."
+     }
+    ]
+   },
+   {
+    "term_id": "T029",
+    "senses": [
+     {
+      "sense": "entity",
+      "academic": "kitu",
+      "children": "kitu",
+      "note": "Bhava or vastu; kitu serves as entity in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T030",
+    "senses": [
+     {
+      "sense": "anger",
+      "academic": "hasira",
+      "children": "hasira",
+      "note": "Krodha; hasira is the everyday Swahili word for anger."
+     }
+    ]
+   },
+   {
+    "term_id": "T031",
+    "senses": [
+     {
+      "sense": "illusion",
+      "academic": "maya",
+      "children": "picha ya uongo",
+      "note": "Loan maya for scholars; children get false image phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T032",
+    "senses": [
+     {
+      "sense": "god",
+      "academic": "mungu",
+      "children": "mungu",
+      "note": "Deva; mungu covers deity, everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T033",
+    "senses": [
+     {
+      "sense": "happiness",
+      "academic": "furaha",
+      "children": "furaha",
+      "note": "Same as T015; rendering kept consistent."
+     }
+    ]
+   },
+   {
+    "term_id": "T034",
+    "senses": [
+     {
+      "sense": "epithet of the Buddhas",
+      "academic": "Mshindi",
+      "children": "Mshindi",
+      "note": "Jina, the Victor; capitalized epithet in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T035",
+    "senses": [
+     {
+      "sense": "hatred",
+      "academic": "chuki",
+      "children": "chuki",
+      "note": "Dvesha; chuki is the standard Swahili word for hatred."
+     }
+    ]
+   },
+   {
+    "term_id": "T036",
+    "senses": [
+     {
+      "sense": "embodied being",
+      "academic": "kiumbe mwenye mwili",
+      "children": "kiumbe mwenye mwili",
+      "note": "Shariin or dehin; descriptive phrase works for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T037",
+    "senses": [
+     {
+      "sense": "patience",
+      "academic": "uvumilivu",
+      "children": "subira",
+      "note": "Kshanti; uvumilivu formal, subira the everyday word for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T038",
+    "senses": [
+     {
+      "sense": "delusion",
+      "academic": "upotofu wa akili",
+      "children": "kuchanganyikiwa",
+      "note": "Moha as mental distortion; children get simple confusion."
+     }
+    ]
+   },
+   {
+    "term_id": "T039",
+    "senses": [
+     {
+      "sense": "eon, long age",
+      "academic": "kalpa",
+      "children": "zama ndefu",
+      "note": "Technical loan kalpa; children get great age phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T040",
+    "senses": [
+     {
+      "sense": "unhappy rebirth state",
+      "academic": "ulimwengu wa chini",
+      "children": "mahali pa huzuni",
+      "note": "Durgati as lower realm; children get unhappy place phrase."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4129,
+  "output": 2427,
+  "thinking": 6561,
+  "cache_read": 0,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 142.94,
+ "attempt": 1
+}

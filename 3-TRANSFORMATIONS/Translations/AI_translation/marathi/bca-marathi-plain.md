@@ -1,5 +1,6 @@
 ---
-title: बोधिसत्वांच्या मार्गात प्रवेश plain-marathi
+title: बोधिसत्वांच्या मार्गात प्रवेश plain-marathi — एआय अनुवाद
+ai_generated: true
 alt_titles: 
 language: Marathi
 file_type: translation
@@ -16,7 +17,7 @@ edition_id:
 toc_id: 
 ---
 
-# बोधिसत्वांच्या मार्गात प्रवेश ^0
+# बोधिसत्वांच्या मार्गात प्रवेश — एआय अनुवाद ^0
 
 ## भूमिका ^I-0
 

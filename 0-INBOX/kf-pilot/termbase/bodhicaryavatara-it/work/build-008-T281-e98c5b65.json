@@ -1,0 +1,462 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T281",
+    "senses": [
+     {
+      "sense": "illusory mind",
+      "academic": "mente illusoria",
+      "children": "mente di un'illusione",
+      "note": "Compound of māyā (illusione) and citta (mente); fixed renderings reused."
+     }
+    ]
+   },
+   {
+    "term_id": "T282",
+    "senses": [
+     {
+      "sense": "aspect",
+      "academic": "aspetto",
+      "children": "modo in cui appare",
+      "note": "Cognitive aspect or mode of appearance of an object."
+     }
+    ]
+   },
+   {
+    "term_id": "T283",
+    "senses": [
+     {
+      "sense": "mind itself",
+      "academic": "mente stessa",
+      "children": "mente stessa",
+      "note": "Fixed citta = mente; English identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T284",
+    "senses": [
+     {
+      "sense": "latent tendency",
+      "academic": "tendenza latente",
+      "children": "abitudine profonda",
+      "note": "Habitual imprint left in the mind by past actions."
+     }
+    ]
+   },
+   {
+    "term_id": "T285",
+    "senses": [
+     {
+      "sense": "shrine",
+      "academic": "santuario",
+      "children": "luogo sacro",
+      "note": "Sacred monument, often rendered stūpa; here kept generic."
+     }
+    ]
+   },
+   {
+    "term_id": "T286",
+    "senses": [
+     {
+      "sense": "apprehension",
+      "academic": "apprensione",
+      "children": "fissarsi su qualcosa",
+      "note": "Act of the mind taking hold of an object."
+     }
+    ]
+   },
+   {
+    "term_id": "T287",
+    "senses": [
+     {
+      "sense": "doubt",
+      "academic": "dubbio",
+      "children": "dubbio",
+      "note": "Everyday word; identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T288",
+    "senses": [
+     {
+      "sense": "sattva (quality of the Sāṃkhya)",
+      "academic": "sattva",
+      "children": "luminosità",
+      "note": "Sāṃkhya guṇa; Sanskrit kept academically, distinct from essere senziente."
+     }
+    ]
+   },
+   {
+    "term_id": "T289",
+    "senses": [
+     {
+      "sense": "tamas (Sāṃkhya guṇa)",
+      "academic": "tamas",
+      "children": "oscurità",
+      "note": "Sāṃkhya guṇa of darkness and inertia; Sanskrit kept academically."
+     }
+    ]
+   },
+   {
+    "term_id": "T290",
+    "senses": [
+     {
+      "sense": "agent of action",
+      "academic": "agente",
+      "children": "chi agisce",
+      "note": "One who performs an action, in debates on self."
+     },
+     {
+      "sense": "creator (Īśvara)",
+      "academic": "creatore",
+      "children": "creatore del mondo",
+      "note": "God as maker of the world, the view being refuted."
+     }
+    ]
+   },
+   {
+    "term_id": "T291",
+    "senses": [
+     {
+      "sense": "sense faculty",
+      "academic": "facoltà sensoriale",
+      "children": "organo di senso",
+      "note": "Standard Abhidharma term; children get the concrete organ."
+     }
+    ]
+   },
+   {
+    "term_id": "T292",
+    "senses": [
+     {
+      "sense": "atom",
+      "academic": "atomo",
+      "children": "atomo",
+      "note": "Everyday loanword; same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T293",
+    "senses": [
+     {
+      "sense": "collection",
+      "academic": "aggregato",
+      "children": "gruppo",
+      "note": "Assemblage, e.g. of atoms forming an object."
+     }
+    ]
+   },
+   {
+    "term_id": "T294",
+    "senses": [
+     {
+      "sense": "one who feels",
+      "academic": "colui che sente",
+      "children": "chi sente",
+      "note": "The supposed experiencing self, argued against in chapter 9."
+     }
+    ]
+   },
+   {
+    "term_id": "T295",
+    "senses": [
+     {
+      "sense": "sprout",
+      "academic": "germoglio",
+      "children": "germoglio",
+      "note": "Everyday word; same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T296",
+    "senses": [
+     {
+      "sense": "effect of a cause",
+      "academic": "risultato",
+      "children": "risultato",
+      "note": "Fixed phala = risultato reused for the effect of a cause."
+     }
+    ]
+   },
+   {
+    "term_id": "T297",
+    "senses": [
+     {
+      "sense": "permanent",
+      "academic": "permanente",
+      "children": "che non cambia mai",
+      "note": "Adjective in head form; children get a plain paraphrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T298",
+    "senses": [
+     {
+      "sense": "impermanence",
+      "academic": "impermanenza",
+      "children": "il non durare",
+      "note": "Abstract noun; children phrase mirrors 'not lasting'."
+     }
+    ]
+   },
+   {
+    "term_id": "T299",
+    "senses": [
+     {
+      "sense": "Māra",
+      "academic": "Māra",
+      "children": "Mara",
+      "note": "Proper name; children drop the diacritic."
+     }
+    ]
+   },
+   {
+    "term_id": "T300",
+    "senses": [
+     {
+      "sense": "dedication",
+      "academic": "dedizione",
+      "children": "condividere la bontà",
+      "note": "Dedication of merit; children phrase uses fixed 'bontà' idea."
+     }
+    ]
+   },
+   {
+    "term_id": "T301",
+    "senses": [
+     {
+      "sense": "hell being",
+      "academic": "essere infernale",
+      "children": "essere dell'inferno",
+      "note": "A being born in hell; fixed naraka = inferno reused."
+     }
+    ]
+   },
+   {
+    "term_id": "T302",
+    "senses": [
+     {
+      "sense": "ordination",
+      "academic": "ordinazione monastica",
+      "children": "diventare monaco o monaca",
+      "note": "Going forth into monastic life; children phrase keeps same meaning."
+     }
+    ]
+   },
+   {
+    "term_id": "T303",
+    "senses": [
+     {
+      "sense": "Sanskrit title",
+      "academic": "Bodhisattvacaryāvatāra",
+      "children": "Bodhisattvacaryavatara",
+      "note": "Sanskrit title kept; children lose diacritics only."
+     }
+    ]
+   },
+   {
+    "term_id": "T304",
+    "senses": [
+     {
+      "sense": "Dharmakāya",
+      "academic": "Dharmakāya",
+      "children": "corpo della verità",
+      "note": "Sanskrit kept academically; children phrase uses fixed kāya = corpo."
+     }
+    ]
+   },
+   {
+    "term_id": "T305",
+    "senses": [
+     {
+      "sense": "vow",
+      "academic": "voto",
+      "children": "promessa",
+      "note": "Restraining vow or commitment; children get everyday 'promessa'."
+     }
+    ]
+   },
+   {
+    "term_id": "T306",
+    "senses": [
+     {
+      "sense": "purpose of a human being",
+      "academic": "scopo dell'essere umano",
+      "children": "scopo della vita umana",
+      "note": "The aim attainable with a human life."
+     }
+    ]
+   },
+   {
+    "term_id": "T307",
+    "senses": [
+     {
+      "sense": "perfect awakening",
+      "academic": "risveglio perfetto",
+      "children": "risveglio completo",
+      "note": "Fixed bodhi = risveglio reused in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T308",
+    "senses": [
+     {
+      "sense": "supreme happiness",
+      "academic": "felicità suprema",
+      "children": "felicità più grande",
+      "note": "Fixed sukha = felicità reused in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T309",
+    "senses": [
+     {
+      "sense": "gold-making elixir",
+      "academic": "elisir che produce oro",
+      "children": "pozione che crea oro",
+      "note": "Alchemical elixir turning base metal into gold."
+     }
+    ]
+   },
+   {
+    "term_id": "T310",
+    "senses": [
+     {
+      "sense": "jewel",
+      "academic": "gioiello",
+      "children": "gioiello",
+      "note": "Everyday word; same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T311",
+    "senses": [
+     {
+      "sense": "body (of a Victor)",
+      "academic": "corpo",
+      "children": "corpo",
+      "note": "Fixed kāya = corpo; the body of a Vittorioso (jina)."
+     }
+    ]
+   },
+   {
+    "term_id": "T312",
+    "senses": [
+     {
+      "sense": "caravan leader",
+      "academic": "condottiero di carovana",
+      "children": "capo dei viaggiatori",
+      "note": "Guide leading travelers, image of the bodhisattva."
+     }
+    ]
+   },
+   {
+    "term_id": "T313",
+    "senses": [
+     {
+      "sense": "epithet of Maitreya",
+      "academic": "Protettore Maitreya",
+      "children": "Protettore Maitreya",
+      "note": "Maitreya as protector; English identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T314",
+    "senses": [
+     {
+      "sense": "Sudhana (name)",
+      "academic": "Sudhana",
+      "children": "Sudhana",
+      "note": "Proper name, pilgrim of the Gaṇḍavyūha; unchanged."
+     }
+    ]
+   },
+   {
+    "term_id": "T315",
+    "senses": [
+     {
+      "sense": "engaging bodhicitta",
+      "academic": "bodhicitta di applicazione",
+      "children": "mente che parte verso il risveglio",
+      "note": "Fixed bodhicitta reused; the mind that sets out on the path."
+     }
+    ]
+   },
+   {
+    "term_id": "T316",
+    "senses": [
+     {
+      "sense": "engaging bodhicitta",
+      "academic": "bodhicitta di applicazione",
+      "children": "mente che parte verso il risveglio",
+      "note": "Same sense as T315; identical rendering as English does."
+     }
+    ]
+   },
+   {
+    "term_id": "T317",
+    "senses": [
+     {
+      "sense": "realm",
+      "academic": "reame",
+      "children": "reame",
+      "note": "Consistent with fixed 'reame inferiore / reame infelice'."
+     }
+    ]
+   },
+   {
+    "term_id": "T318",
+    "senses": [
+     {
+      "sense": "irreversible",
+      "academic": "irreversibile",
+      "children": "che non torna più indietro",
+      "note": "Stage from which no falling back is possible."
+     }
+    ]
+   },
+   {
+    "term_id": "T319",
+    "senses": [
+     {
+      "sense": "name of an interlocutor",
+      "academic": "Subāhu",
+      "children": "Subahu",
+      "note": "Proper name; children drop the diacritic."
+     }
+    ]
+   },
+   {
+    "term_id": "T320",
+    "senses": [
+     {
+      "sense": "question (sūtra title element)",
+      "academic": "domanda",
+      "children": "domanda",
+      "note": "As in sūtra titles like 'Questions of Subāhu'; everyday word."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4035,
+  "output": 2456,
+  "thinking": 5592,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 153.02,
+ "attempt": 1
+}

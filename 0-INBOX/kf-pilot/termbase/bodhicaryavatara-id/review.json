@@ -1,0 +1,766 @@
+{
+ "builder": "kimi-k3",
+ "reviewer": "claude-sonnet-5-5",
+ "objections": [
+  {
+   "term_id": "T012",
+   "sense": "the awakening mind",
+   "field": "academic",
+   "proposed": "bodhicitta",
+   "reason": "Established spelling keeps 'dh', consistent with bodhisatwa and Buddha elsewhere in the glossary.",
+   "applied": true
+  },
+  {
+   "term_id": "T049",
+   "sense": "feeling",
+   "field": "academic",
+   "proposed": "perasaan",
+   "reason": "Vedanā is rendered 'perasaan' in Indonesian Buddhist usage; 'sensasi' is a non-standard calque.",
+   "applied": true
+  },
+  {
+   "term_id": "T078",
+   "sense": "downfall",
+   "field": "academic",
+   "proposed": "pelanggaran",
+   "reason": "Āpatti/ltung ba is an established Indonesian vinaya term 'pelanggaran'; 'kejatuhan' suggests a physical or political fall.",
+   "applied": true
+  },
+  {
+   "term_id": "T078",
+   "sense": "downfall",
+   "field": "children",
+   "proposed": "pelanggaran aturan",
+   "reason": "'Jatuh' reads as a physical fall to children; the meaning is breaking a vow.",
+   "applied": true
+  },
+  {
+   "term_id": "T087",
+   "sense": "protector (of beings, epithet of buddhas)",
+   "field": "children",
+   "proposed": "Sang Pelindung",
+   "reason": "Inconsistent with T045 (same epithet, 'Sang Pelindung').",
+   "applied": true
+  },
+  {
+   "term_id": "T116",
+   "sense": "Tathāgata",
+   "field": "children",
+   "proposed": "Yang Pergi dengan Demikian",
+   "reason": "Inconsistent with T070: same term and same English children's rendering 'Thus-Gone One'.",
+   "applied": true
+  },
+  {
+   "term_id": "T117",
+   "sense": "compassion",
+   "field": "academic",
+   "proposed": "welas asih",
+   "reason": "Compassion is 'welas asih' in T048; mixing Sanskrit 'karuna' for the same concept is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T115",
+   "sense": "great compassion",
+   "field": "academic",
+   "proposed": "mahakaruna",
+   "reason": "Fixed established term; also matches T203 (same concept, mahakaruna), keeping great compassion consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T119",
+   "sense": "assembly (of bodhisattvas, Saṅgha)",
+   "field": "academic",
+   "proposed": "majelis",
+   "reason": "'Himpunan' reads as a mathematical set or association; 'majelis' is the established term for a Saṅgha or assembly.",
+   "applied": true
+  },
+  {
+   "term_id": "T120",
+   "sense": "confess",
+   "field": "academic",
+   "proposed": "mengakui kesalahan",
+   "reason": "Bare 'mengakui' means acknowledge or claim; confessing wrongdoing needs the object kesalahan.",
+   "applied": true
+  },
+  {
+   "term_id": "T120",
+   "sense": "confess",
+   "field": "children",
+   "proposed": "mengakui kesalahan",
+   "reason": "'Mengaku' alone means to claim or admit something; the meaning is owning up to wrongs.",
+   "applied": true
+  },
+  {
+   "term_id": "T044",
+   "sense": "epithet of the Buddha",
+   "field": "children",
+   "proposed": "Sang Bijaksana",
+   "reason": "English children's rendering is 'Sage'; 'Muni' is not understandable to 8-12 year olds and T169 uses Sang Bijaksana.",
+   "applied": true
+  },
+  {
+   "term_id": "T064",
+   "sense": "own welfare",
+   "field": "academic",
+   "proposed": "kesejahteraan diri sendiri",
+   "reason": "Same term as T168, T585, T586, which use 'kesejahteraan diri sendiri'; align all to the natural fuller form.",
+   "applied": true
+  },
+  {
+   "term_id": "T119",
+   "sense": "accumulation (of merit and wisdom)",
+   "field": "academic",
+   "proposed": "pengumpulan",
+   "reason": "Inconsistent with T690 (accumulation of merit = 'pengumpulan jasa kebajikan'); 'akumulasi' is a loan calque.",
+   "applied": true
+  },
+  {
+   "term_id": "T136",
+   "sense": "emptiness",
+   "field": "academic",
+   "proposed": "sunyata",
+   "reason": "Same concept as T083 (sunyata); 'kesunyataan' is an inconsistent variant of the term.",
+   "applied": true
+  },
+  {
+   "term_id": "T140",
+   "sense": "retinue",
+   "field": "academic",
+   "proposed": "pengiring",
+   "reason": "'Pariwara' in modern Indonesian means advertisement, not retinue; 'pengiring' conveys the sense.",
+   "applied": true
+  },
+  {
+   "term_id": "T152",
+   "sense": "nirvana",
+   "field": "children",
+   "proposed": "bebas dari kesedihan",
+   "reason": "Tibetan mya ngan las 'das means beyond sorrow; inconsistent with T060 and T211 which use kesedihan.",
+   "applied": true
+  },
+  {
+   "term_id": "T157",
+   "sense": "craving",
+   "field": "academic",
+   "proposed": "kehausan",
+   "reason": "Same term as T081 (kehausan); 'hasrat' is also used for kāma in T067, causing a clash.",
+   "applied": true
+  },
+  {
+   "term_id": "T164",
+   "sense": "space",
+   "field": "academic",
+   "proposed": "ruang",
+   "reason": "Inconsistent with T077 (ākāśa = ruang); 'ruang hampa' means vacuum.",
+   "applied": true
+  },
+  {
+   "term_id": "T197",
+   "sense": "aspiring bodhicitta",
+   "field": "academic",
+   "proposed": "bodhicitta aspirasi",
+   "reason": "Use the standard spelling bodhicitta, consistent with bodhisatwa.",
+   "applied": true
+  },
+  {
+   "term_id": "T210",
+   "sense": "awakening mind",
+   "field": "academic",
+   "proposed": "bodhicitta",
+   "reason": "Use the standard spelling bodhicitta, consistent with bodhisatwa.",
+   "applied": true
+  },
+  {
+   "term_id": "T214",
+   "sense": "path",
+   "field": "academic",
+   "proposed": "jalan",
+   "reason": "'Marga' means clan name in everyday Indonesian; 'jalan' is also used in the title and is clear.",
+   "applied": true
+  },
+  {
+   "term_id": "T219",
+   "sense": "epithet of the Buddha",
+   "field": "children",
+   "proposed": "Yang Terberkahi",
+   "reason": "Approved English children's rendering is 'Blessed One'; 'Bhagawan' is not understandable to children and is the Hindu-style form.",
+   "applied": true
+  },
+  {
+   "term_id": "T221",
+   "sense": "leisure",
+   "field": "academic",
+   "proposed": "keluangan",
+   "reason": "Kṣaṇa is the 'leisure' half of T195 (keluangan dan kelengkapan); 'kesempatan' means opportunity and breaks the pair.",
+   "applied": true
+  },
+  {
+   "term_id": "T236",
+   "sense": "disparagement of others",
+   "field": "academic",
+   "proposed": "celaan terhadap orang lain",
+   "reason": "'Perendahan' is not idiomatic Indonesian; 'celaan' correctly conveys smod pa (disparaging, criticizing).",
+   "applied": true
+  },
+  {
+   "term_id": "T163",
+   "sense": "primal matter of Sāṃkhya",
+   "field": "academic",
+   "proposed": "Pradhana",
+   "reason": "Names are given without diacritics elsewhere (Manjusri, Ksitigarbha); keep one orthography in Indonesian text.",
+   "applied": true
+  },
+  {
+   "term_id": "T244",
+   "sense": "adventitious",
+   "field": "academic",
+   "proposed": "insidental",
+   "reason": "'Aksidental' suggests an accident; adventitious (glo bur) means incidental, arriving from outside, not intrinsic.",
+   "applied": true
+  },
+  {
+   "term_id": "T251",
+   "sense": "excellence",
+   "field": "academic",
+   "proposed": "keunggulan",
+   "reason": "'Kesempurnaan' is already used for pāramitā (T159, T158); keep one rendering per term.",
+   "applied": true
+  },
+  {
+   "term_id": "T277",
+   "sense": "grasping at a self",
+   "field": "academic",
+   "proposed": "cengkeraman pada atman",
+   "reason": "'Genggaman' means a grip as a noun and is not idiomatic for the act of grasping.",
+   "applied": true
+  },
+  {
+   "term_id": "T277",
+   "sense": "grasping at a self",
+   "field": "children",
+   "proposed": "berpegang pada diri sendiri",
+   "reason": "'Memegang pada' is ungrammatical Indonesian; T276 already uses 'berpegang erat'.",
+   "applied": true
+  },
+  {
+   "term_id": "T282",
+   "sense": "aspect",
+   "field": "children",
+   "proposed": "cara munculnya",
+   "reason": "'Tampaknya' means 'apparently', not 'the way it appears'.",
+   "applied": true
+  },
+  {
+   "term_id": "T285",
+   "sense": "shrine",
+   "field": "academic",
+   "proposed": "tempat pemujaan",
+   "reason": "Untranslated 'caitya' clashes with T145, where caitya is rendered 'stupa'; use an Indonesian term.",
+   "applied": true
+  },
+  {
+   "term_id": "T293",
+   "sense": "collection",
+   "field": "academic",
+   "proposed": "kumpulan",
+   "reason": "Collection is 'kumpulan' in T119; 'himpunan' is also used for assembly, causing a clash.",
+   "applied": true
+  },
+  {
+   "term_id": "T295",
+   "sense": "sprout",
+   "field": "academic",
+   "proposed": "tunas",
+   "reason": "'Kecambah' is a bean sprout; the Buddhist sprout (aṅkura, shoot from a seed) is 'tunas', as the children's field has.",
+   "applied": true
+  },
+  {
+   "term_id": "T315",
+   "sense": "engaging bodhicitta",
+   "field": "academic",
+   "proposed": "bodhicitta pelaksanaan",
+   "reason": "Use standard spelling bodhicitta, consistent with bodhisatwa.",
+   "applied": true
+  },
+  {
+   "term_id": "T316",
+   "sense": "engaging bodhicitta",
+   "field": "academic",
+   "proposed": "bodhicitta pelaksanaan",
+   "reason": "Use standard spelling bodhicitta, consistent with bodhisatwa.",
+   "applied": true
+  },
+  {
+   "term_id": "T345",
+   "sense": "basis of bodhicitta",
+   "field": "academic",
+   "proposed": "landasan bodhicitta",
+   "reason": "Use standard spelling bodhicitta, consistent with bodhisatwa.",
+   "applied": true
+  },
+  {
+   "term_id": "T325",
+   "sense": "Jewel",
+   "field": "academic",
+   "proposed": "Permata",
+   "reason": "Same word as T310 ratna (permata); untranslated 'Ratna' reads as a personal name.",
+   "applied": true
+  },
+  {
+   "term_id": "T353",
+   "sense": "assembly of bodhisattvas",
+   "field": "academic",
+   "proposed": "majelis bodhisatwa",
+   "reason": "Assembly is 'majelis' (T119 proposal); 'himpunan' reads as a mathematical set.",
+   "applied": true
+  },
+  {
+   "term_id": "T291",
+   "sense": "sense faculty",
+   "field": "children",
+   "proposed": "alat indera",
+   "reason": "'Indra' is the god; the sense organ is spelled 'indera' in Indonesian.",
+   "applied": true
+  },
+  {
+   "term_id": "T365",
+   "sense": "definite liberation",
+   "field": "academic",
+   "proposed": "pembebasan yang pasti",
+   "reason": "Same English rendering as T351 (nges thar), which is 'pembebasan yang pasti'; 'definitif' is a stiff calque.",
+   "applied": true
+  },
+  {
+   "term_id": "T367",
+   "sense": "generation of bodhicitta",
+   "field": "academic",
+   "proposed": "pembangkitan bodhicitta",
+   "reason": "Use standard spelling bodhicitta, consistent with bodhisatwa.",
+   "applied": true
+  },
+  {
+   "term_id": "T378",
+   "sense": "bodhicitta (honorific)",
+   "field": "academic",
+   "proposed": "bodhicitta",
+   "reason": "Use standard spelling bodhicitta, consistent with bodhisatwa.",
+   "applied": true
+  },
+  {
+   "term_id": "T474",
+   "sense": "generation of bodhicitta",
+   "field": "academic",
+   "proposed": "pembangkitan bodhicitta",
+   "reason": "Use standard spelling bodhicitta, consistent with bodhisatwa.",
+   "applied": true
+  },
+  {
+   "term_id": "T393",
+   "sense": "faculties",
+   "field": "children",
+   "proposed": "kelompok indera",
+   "reason": "'Indra' is the god Indra; the sense is spelled 'indera'.",
+   "applied": true
+  },
+  {
+   "term_id": "T399",
+   "sense": "perfection of ethical discipline",
+   "field": "academic",
+   "proposed": "sila paramita",
+   "reason": "Inconsistent with T158 'dana paramita' and T159 'paramita'; use the same pattern for the perfections.",
+   "applied": true
+  },
+  {
+   "term_id": "T403",
+   "sense": "Brahmā",
+   "field": "academic",
+   "proposed": "Brahma",
+   "reason": "Inconsistent with T322 (Brahma); names are written without diacritics in this glossary.",
+   "applied": true
+  },
+  {
+   "term_id": "T409",
+   "sense": "name of a hell",
+   "field": "academic",
+   "proposed": "Neraka Pemusnah",
+   "reason": "Same rendering as T232 (Crushing Hell, bsdus 'joms) for a different hell (ris 'joms, Destroying).",
+   "applied": true
+  },
+  {
+   "term_id": "T409",
+   "sense": "name of a hell",
+   "field": "children",
+   "proposed": "Neraka Pemusnah",
+   "reason": "Same rendering as T232 for a different hell; English approved names differ.",
+   "applied": true
+  },
+  {
+   "term_id": "T416",
+   "sense": "equanimity",
+   "field": "academic",
+   "proposed": "upeksa",
+   "reason": "'Ekuanimitas' is a non-Buddhist calque; 'upeksa' is the established Indonesian Buddhist term.",
+   "applied": true
+  },
+  {
+   "term_id": "T441",
+   "sense": "epithet of a buddha",
+   "field": "children",
+   "proposed": "Yang Penuh Belas Kasih",
+   "reason": "'Sang Pema welas Asih' is garbled; English children's rendering is 'Compassionate One'.",
+   "applied": true
+  },
+  {
+   "term_id": "T447",
+   "sense": "Śrīsaṃbhava",
+   "field": "academic",
+   "proposed": "Srisambhava",
+   "reason": "Names are written without diacritics elsewhere (Manjusri, Ksitigarbha); keep one orthography.",
+   "applied": true
+  },
+  {
+   "term_id": "T448",
+   "sense": "title of a sūtra",
+   "field": "academic",
+   "proposed": "Sutra Akasagarbha",
+   "reason": "T208 writes Akasagarbha without diacritics; keep one spelling.",
+   "applied": true
+  },
+  {
+   "term_id": "T451",
+   "sense": "noble Nāgārjuna",
+   "field": "academic",
+   "proposed": "Arya Nagarjuna",
+   "reason": "Names appear without diacritics in Indonesian renderings; T453 uses 'Arya'.",
+   "applied": true
+  },
+  {
+   "term_id": "T452",
+   "sense": "Nāgārjuna",
+   "field": "academic",
+   "proposed": "Nagarjuna",
+   "reason": "Names appear without diacritics in Indonesian renderings; matches the children's field.",
+   "applied": true
+  },
+  {
+   "term_id": "T454",
+   "sense": "generosity",
+   "field": "academic",
+   "proposed": "kemurahan hati",
+   "reason": "Same English rendering as T062 (dāna = kemurahan hati); one term should have one rendering.",
+   "applied": true
+  },
+  {
+   "term_id": "T456",
+   "sense": "renunciation",
+   "field": "academic",
+   "proposed": "tekad untuk bebas",
+   "reason": "Established Tibetan Buddhist Indonesian term for nges 'byung; 'renunsiasi' is an unestablished calque.",
+   "applied": true
+  },
+  {
+   "term_id": "T457",
+   "sense": "name of a goddess",
+   "field": "academic",
+   "proposed": "Durga",
+   "reason": "Names are written without diacritics elsewhere; keep one orthography.",
+   "applied": true
+  },
+  {
+   "term_id": "T458",
+   "sense": "Karṇapa (people)",
+   "field": "academic",
+   "proposed": "Karnapa",
+   "reason": "Names are written without diacritics elsewhere; keep one orthography.",
+   "applied": true
+  },
+  {
+   "term_id": "T465",
+   "sense": "intention",
+   "field": "academic",
+   "proposed": "niat",
+   "reason": "'Intensi' is a psychology term; 'niat' is the established word for bsam pa and matches the children's field.",
+   "applied": true
+  },
+  {
+   "term_id": "T433",
+   "sense": "compassionate one",
+   "field": "academic",
+   "proposed": "yang berwelas asih",
+   "reason": "Academic field uses the children's spelling 'belas kasih'; academic compassion is 'welas asih' (T048).",
+   "applied": true
+  },
+  {
+   "term_id": "T414",
+   "sense": "concentration",
+   "field": "academic",
+   "proposed": "samadhi",
+   "reason": "Same English rendering as T539 (samādhi = samadhi); two different Indonesian renderings for one term.",
+   "applied": true
+  },
+  {
+   "term_id": "T487",
+   "sense": "ordination",
+   "field": "children",
+   "proposed": "menjadi biksu atau biksuni",
+   "reason": "'Biku' is inconsistent with 'biksu' (T188) and T302.",
+   "applied": true
+  },
+  {
+   "term_id": "T495",
+   "sense": "Protector of the World",
+   "field": "academic",
+   "proposed": "Sang Pelindung Dunia",
+   "reason": "Epithets of the Buddha carry 'Sang' (T045, T313); without it this one is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T495",
+   "sense": "Protector of the World",
+   "field": "children",
+   "proposed": "Sang Pelindung Dunia",
+   "reason": "Epithets of the Buddha carry 'Sang' (T045, T313); without it this one is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T497",
+   "sense": "compassionate one",
+   "field": "academic",
+   "proposed": "yang berwelas asih",
+   "reason": "'Sosok' is superfluous; matches T433 pattern and T048 'welas asih'.",
+   "applied": true
+  },
+  {
+   "term_id": "T513",
+   "sense": "compassionate one",
+   "field": "academic",
+   "proposed": "yang berwelas asih",
+   "reason": "'Sosok' is superfluous; matches T433 pattern and T048 'welas asih'.",
+   "applied": true
+  },
+  {
+   "term_id": "T509",
+   "sense": "Speaker of Truth",
+   "field": "academic",
+   "proposed": "Sang Penutur Kebenaran",
+   "reason": "Same approved English as T396 ('Sang Penutur Kebenaran'); 'Pengucap' is an inconsistent variant.",
+   "applied": true
+  },
+  {
+   "term_id": "T509",
+   "sense": "Speaker of Truth",
+   "field": "children",
+   "proposed": "Yang Mengatakan Kebenaran",
+   "reason": "Same approved English as T396, which uses this rendering.",
+   "applied": true
+  },
+  {
+   "term_id": "T523",
+   "sense": "the Buddha's teaching",
+   "field": "academic",
+   "proposed": "ajaran Buddha",
+   "reason": "In Indonesian 'sasana' also means hall or building; 'ajaran Buddha' is unambiguous and matches the children's field.",
+   "applied": true
+  },
+  {
+   "term_id": "T531",
+   "sense": "effort",
+   "field": "academic",
+   "proposed": "usaha",
+   "reason": "'Upaya' means skillful means (thabs, upāya) in Buddhist usage and would be confused with it.",
+   "applied": true
+  },
+  {
+   "term_id": "T536",
+   "sense": "one keeping ascetic discipline",
+   "field": "academic",
+   "proposed": "petapa",
+   "reason": "Spelling should match T089 and T266 'petapa'; 'pertapa' is an inconsistent variant.",
+   "applied": true
+  },
+  {
+   "term_id": "T540",
+   "sense": "distraction",
+   "field": "academic",
+   "proposed": "distraksi total",
+   "reason": "'Keteralihan' is not idiomatic and breaks consistency with T171 'distraksi'.",
+   "applied": true
+  },
+  {
+   "term_id": "T545",
+   "sense": "mind of disillusionment",
+   "field": "academic",
+   "proposed": "kejenuhan batin",
+   "reason": "'Kejeraan' means being deterred; the sense is weariness with saṃsāra, as T483 'kejenuhan'.",
+   "applied": true
+  },
+  {
+   "term_id": "T556",
+   "sense": "recollection of the Buddha",
+   "field": "academic",
+   "proposed": "mengingat Buddha",
+   "reason": "Inconsistent with T411 (same term, 'mengingat Buddha'); 'pengingatan' is awkward.",
+   "applied": true
+  },
+  {
+   "term_id": "T567",
+   "sense": "impure field",
+   "field": "academic",
+   "proposed": "ladang tidak murni",
+   "reason": "Kṣetra/zhing is 'ladang' in T490 and T491; 'lapangan' means open ground.",
+   "applied": true
+  },
+  {
+   "term_id": "T577",
+   "sense": "Supuṣpacandra (name)",
+   "field": "academic",
+   "proposed": "Supuspacandra",
+   "reason": "Names are written without diacritics elsewhere (Manjusri, Ksitigarbha); children's field already does.",
+   "applied": true
+  },
+  {
+   "term_id": "T579",
+   "sense": "self-grasping",
+   "field": "academic",
+   "proposed": "cengkeraman pada atman",
+   "reason": "Same concept as T277 (grasping at a self); 'kemelekatan pada atman' is T276 (clinging to self), a different term.",
+   "applied": true
+  },
+  {
+   "term_id": "T596",
+   "sense": "grasping at self",
+   "field": "academic",
+   "proposed": "cengkeraman pada atman",
+   "reason": "Same concept as T277; 'genggaman' is not idiomatic as a noun for grasping.",
+   "applied": true
+  },
+  {
+   "term_id": "T580",
+   "sense": "intellect of self",
+   "field": "academic",
+   "proposed": "akal budi atman",
+   "reason": "Intellect (blo) is 'akal budi' in T079; 'intelek' is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T615",
+   "sense": "eye ointment",
+   "field": "academic",
+   "proposed": "salep mata",
+   "reason": "'Celak' is cosmetic kohl; añjana here is a medicinal eye salve, as the children's field says.",
+   "applied": true
+  },
+  {
+   "term_id": "T624",
+   "sense": "thorough pacification",
+   "field": "academic",
+   "proposed": "penenteraman menyeluruh",
+   "reason": "Correct Indonesian spelling is 'penenteraman' (from tenteram); 'penentraman' is a misspelling.",
+   "applied": true
+  },
+  {
+   "term_id": "T636",
+   "sense": "delusion",
+   "field": "academic",
+   "proposed": "kebodohan",
+   "reason": "Same English rendering as T038 (delusion = 'kebodohan'); academic fields should agree.",
+   "applied": true
+  },
+  {
+   "term_id": "T640",
+   "sense": "refutation",
+   "field": "academic",
+   "proposed": "sanggahan",
+   "reason": "'Sangkalan' means a denial; a logical refutation is 'sanggahan'.",
+   "applied": true
+  },
+  {
+   "term_id": "T678",
+   "sense": "non-entity",
+   "field": "academic",
+   "proposed": "non-entitas",
+   "reason": "Inconsistent spelling with T082 ('non-entitas').",
+   "applied": true
+  },
+  {
+   "term_id": "T691",
+   "sense": "non-apprehension",
+   "field": "academic",
+   "proposed": "tanpa penangkapan objek",
+   "reason": "'Non-aprehensi' is misspelled and inconsistent with T623, same English 'non-apprehension'.",
+   "applied": true
+  },
+  {
+   "term_id": "T707",
+   "sense": "compassion",
+   "field": "academic",
+   "proposed": "welas asih",
+   "reason": "Compassion is 'welas asih' in T048; 'karuna' here is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T730",
+   "sense": "teaching (the Buddha's doctrine)",
+   "field": "academic",
+   "proposed": "ajaran Buddha",
+   "reason": "In Indonesian 'sasana' also means hall or building; 'ajaran Buddha' is unambiguous (consistent with T523 proposal).",
+   "applied": true
+  },
+  {
+   "term_id": "T731",
+   "sense": "virtuous intellect",
+   "field": "academic",
+   "proposed": "akal budi yang bajik",
+   "reason": "Intellect (blo) is 'akal budi' in T079; 'intelek' is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T732",
+   "sense": "spiritual friend",
+   "field": "academic",
+   "proposed": "teman spiritual",
+   "reason": "Same Sanskrit and English as T446, which uses 'teman spiritual'; the untranslated form is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T733",
+   "sense": "name of the author",
+   "field": "academic",
+   "proposed": "Santideva",
+   "reason": "Names are written without diacritics in Indonesian text (Manjusri, Ksitigarbha); matches the children's field.",
+   "applied": true
+  },
+  {
+   "term_id": "T734",
+   "sense": "Sarvajñādeva",
+   "field": "academic",
+   "proposed": "Sarvajnadeva",
+   "reason": "Names are written without diacritics elsewhere; keep one orthography.",
+   "applied": true
+  },
+  {
+   "term_id": "T737",
+   "sense": "Dharmaśrībhadra (name)",
+   "field": "academic",
+   "proposed": "Dharmasribhadra",
+   "reason": "Names are written without diacritics elsewhere; keep one orthography.",
+   "applied": true
+  },
+  {
+   "term_id": "T739",
+   "sense": "Śākya Lodrö",
+   "field": "academic",
+   "proposed": "Sakya Lodro",
+   "reason": "Tibetan names appear without diacritics (Rinchen Zangpo, Loden Sherab); keep one orthography.",
+   "applied": true
+  },
+  {
+   "term_id": "T741",
+   "sense": "Sumatikīrti",
+   "field": "academic",
+   "proposed": "Sumatikirti",
+   "reason": "Names are written without diacritics elsewhere; keep one orthography.",
+   "applied": true
+  }
+ ]
+}

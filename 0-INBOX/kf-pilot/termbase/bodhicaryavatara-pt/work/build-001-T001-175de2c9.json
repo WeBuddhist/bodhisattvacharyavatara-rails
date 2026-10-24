@@ -1,0 +1,462 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T001",
+    "senses": [
+     {
+      "sense": "suffering",
+      "academic": "sofrimento",
+      "children": "sofrimento",
+      "note": "Standard PT rendering of duḥkha; everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T002",
+    "senses": [
+     {
+      "sense": "sentient beings",
+      "academic": "ser senciente",
+      "children": "ser vivo",
+      "note": "'Ser senciente' is established in Brazilian Buddhist texts; children get the everyday equivalent."
+     }
+    ]
+   },
+   {
+    "term_id": "T003",
+    "senses": [
+     {
+      "sense": "mind",
+      "academic": "mente",
+      "children": "mente",
+      "note": "Citta as mind; 'mente' is already plain and universal."
+     }
+    ]
+   },
+   {
+    "term_id": "T004",
+    "senses": [
+     {
+      "sense": "affliction",
+      "academic": "aflição",
+      "children": "emoção perturbadora",
+      "note": "'Aflição' matches kleśa in PT Buddhist usage; plain phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T005",
+    "senses": [
+     {
+      "sense": "living beings of the world",
+      "academic": "ser errante",
+      "children": "ser",
+      "note": "Mirrors English 'wandering being' (jagat = that which wanders); simplified for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T006",
+    "senses": [
+     {
+      "sense": "body",
+      "academic": "corpo",
+      "children": "corpo",
+      "note": "Everyday word, identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T007",
+    "senses": [
+     {
+      "sense": "merit",
+      "academic": "mérito",
+      "children": "reserva de bondade",
+      "note": "'Mérito' is the standard rendering of puṇya; children get a plain phrase for stored goodness."
+     }
+    ]
+   },
+   {
+    "term_id": "T008",
+    "senses": [
+     {
+      "sense": "Buddha",
+      "academic": "Buda",
+      "children": "Buda",
+      "note": "Standard Brazilian form of the proper name."
+     }
+    ]
+   },
+   {
+    "term_id": "T009",
+    "senses": [
+     {
+      "sense": "good quality",
+      "academic": "boa qualidade",
+      "children": "boa qualidade",
+      "note": "Plain phrase already; same in both registers as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T010",
+    "senses": [
+     {
+      "sense": "bodhisattva",
+      "academic": "bodisatva",
+      "children": "herói do despertar",
+      "note": "'Bodisatva' is the common Brazilian spelling; children's phrase mirrors 'awakening hero'."
+     }
+    ]
+   },
+   {
+    "term_id": "T011",
+    "senses": [
+     {
+      "sense": "misdeed",
+      "academic": "má ação",
+      "children": "ato que faz mal",
+      "note": "Neutral rendering of pāpa avoiding Christian 'pecado'; plain version for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T012",
+    "senses": [
+     {
+      "sense": "the awakening mind",
+      "academic": "bodhicitta",
+      "children": "mente do despertar",
+      "note": "Sanskrit kept in academic PT usage, as in English; translated phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T013",
+    "senses": [
+     {
+      "sense": "world",
+      "academic": "mundo",
+      "children": "mundo",
+      "note": "Everyday word, identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T014",
+    "senses": [
+     {
+      "sense": "virtue",
+      "academic": "virtude",
+      "children": "boa ação",
+      "note": "'Virtude' renders kuśala academically; children get 'good deed' equivalent."
+     }
+    ]
+   },
+   {
+    "term_id": "T015",
+    "senses": [
+     {
+      "sense": "happiness",
+      "academic": "felicidade",
+      "children": "felicidade",
+      "note": "Everyday word; same rendering as T033."
+     }
+    ]
+   },
+   {
+    "term_id": "T016",
+    "senses": [
+     {
+      "sense": "mind",
+      "academic": "mente",
+      "children": "mente",
+      "note": "English gives manas the same rendering as citta, so PT keeps 'mente' for both."
+     }
+    ]
+   },
+   {
+    "term_id": "T017",
+    "senses": [
+     {
+      "sense": "cycle of rebirth, saṃsāra",
+      "academic": "samsara",
+      "children": "ciclo de renascimentos",
+      "note": "Common Brazilian spelling 'samsara'; descriptive plain phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T018",
+    "senses": [
+     {
+      "sense": "hell",
+      "academic": "inferno",
+      "children": "inferno",
+      "note": "Standard PT equivalent of naraka; already everyday vocabulary."
+     }
+    ]
+   },
+   {
+    "term_id": "T019",
+    "senses": [
+     {
+      "sense": "the Buddha's teaching",
+      "academic": "Darma",
+      "children": "ensinamentos",
+      "note": "'Darma' is the established Brazilian form; children get the plain everyday word."
+     },
+     {
+      "sense": "things as such (chapter 9)",
+      "academic": "fenômeno",
+      "children": "coisa que aparece",
+      "note": "Chapter 9 sense rendered 'fenômeno' academically; simple descriptive phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T020",
+    "senses": [
+     {
+      "sense": "awakening",
+      "academic": "despertar",
+      "children": "despertar",
+      "note": "'Despertar' renders bodhi and is accessible to children too."
+     }
+    ]
+   },
+   {
+    "term_id": "T021",
+    "senses": [
+     {
+      "sense": "pride",
+      "academic": "orgulho",
+      "children": "orgulho",
+      "note": "Everyday word, identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T022",
+    "senses": [
+     {
+      "sense": "self",
+      "academic": "eu",
+      "children": "eu",
+      "note": "'Eu' is the standard PT rendering of ātman (cf. anātman, 'não-eu')."
+     }
+    ]
+   },
+   {
+    "term_id": "T023",
+    "senses": [
+     {
+      "sense": "condition",
+      "academic": "condição",
+      "children": "circunstância",
+      "note": "Keeps the English distinction between 'condition' and 'circumstance'."
+     }
+    ]
+   },
+   {
+    "term_id": "T024",
+    "senses": [
+     {
+      "sense": "result of action",
+      "academic": "resultado",
+      "children": "resultado",
+      "note": "'Resultado' renders phala as karmic result; plain enough for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T025",
+    "senses": [
+     {
+      "sense": "misdeed",
+      "academic": "má ação",
+      "children": "ato que faz mal",
+      "note": "Same sense as T011, identical renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T026",
+    "senses": [
+     {
+      "sense": "cause",
+      "academic": "causa",
+      "children": "causa",
+      "note": "Everyday word, identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T027",
+    "senses": [
+     {
+      "sense": "title of the work",
+      "academic": "Entrando no Caminho do Bodisatva",
+      "children": "Entrando no Caminho do Herói do Despertar",
+      "note": "Mirrors the approved English title; reuses 'bodisatva' and 'herói do despertar'."
+     }
+    ]
+   },
+   {
+    "term_id": "T028",
+    "senses": [
+     {
+      "sense": "attachment, clinging",
+      "academic": "apego",
+      "children": "agarrar-se",
+      "note": "'Apego' is the established PT rendering; children get a plain verb phrase for clinging."
+     }
+    ]
+   },
+   {
+    "term_id": "T029",
+    "senses": [
+     {
+      "sense": "entity",
+      "academic": "entidade",
+      "children": "coisa",
+      "note": "'Entidade' for the philosophical sense of bhāva/vastu; 'coisa' for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T030",
+    "senses": [
+     {
+      "sense": "anger",
+      "academic": "raiva",
+      "children": "raiva",
+      "note": "'Raiva' renders krodha and is everyday vocabulary; dveṣa is rendered 'ódio'."
+     }
+    ]
+   },
+   {
+    "term_id": "T031",
+    "senses": [
+     {
+      "sense": "illusion",
+      "academic": "ilusão",
+      "children": "ilusão",
+      "note": "'Ilusão' is the standard rendering of māyā; already familiar to children."
+     }
+    ]
+   },
+   {
+    "term_id": "T032",
+    "senses": [
+     {
+      "sense": "god",
+      "academic": "deus",
+      "children": "deus",
+      "note": "Everyday word for deva, identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T033",
+    "senses": [
+     {
+      "sense": "happiness",
+      "academic": "felicidade",
+      "children": "felicidade",
+      "note": "Same sense as T015, identical renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T034",
+    "senses": [
+     {
+      "sense": "epithet of the Buddhas",
+      "academic": "Vencedor",
+      "children": "Vitorioso",
+      "note": "Jina rendered 'Vencedor' academically; 'Vitorioso' mirrors 'Victorious One' for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T035",
+    "senses": [
+     {
+      "sense": "hatred",
+      "academic": "ódio",
+      "children": "ódio",
+      "note": "'Ódio' renders dveṣa, kept distinct from krodha ('raiva')."
+     }
+    ]
+   },
+   {
+    "term_id": "T036",
+    "senses": [
+     {
+      "sense": "embodied being",
+      "academic": "ser encarnado",
+      "children": "ser com corpo",
+      "note": "'Ser encarnado' is the standard PT phrase; plain descriptive phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T037",
+    "senses": [
+     {
+      "sense": "patience",
+      "academic": "paciência",
+      "children": "paciência",
+      "note": "'Paciência' is the established rendering of kṣānti; everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T038",
+    "senses": [
+     {
+      "sense": "delusion",
+      "academic": "engano",
+      "children": "confusão",
+      "note": "'Engano' renders moha, kept distinct from māyā ('ilusão'); 'confusão' for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T039",
+    "senses": [
+     {
+      "sense": "eon, long age",
+      "academic": "éon",
+      "children": "grande era",
+      "note": "'Éon' is the Brazilian spelling; children get a simple phrase for a vast age."
+     }
+    ]
+   },
+   {
+    "term_id": "T040",
+    "senses": [
+     {
+      "sense": "unhappy rebirth state",
+      "academic": "reino inferior",
+      "children": "reino infeliz",
+      "note": "Keeps the English distinction between 'lower realm' and 'unhappy realm'."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4109,
+  "output": 2447,
+  "thinking": 4303,
+  "cache_read": 0,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 193.8,
+ "attempt": 1
+}

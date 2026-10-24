@@ -1,5 +1,6 @@
 ---
-title: 入菩薩行論　AI 白話翻譯
+title: 入菩薩行論　AI 白話翻譯 — AI 翻譯
+ai_generated: true
 language: zh
 lang_tag: zh
 file_type: translation
@@ -8,7 +9,7 @@ status: draft
 covers_verses: 1-1–2-65
 ---
 
-# 入菩薩行論　AI 白話翻譯
+# 入菩薩行論　AI 白話翻譯 — AI 翻譯
 
 ## 第一品：菩提心的功德 ^1-0
 

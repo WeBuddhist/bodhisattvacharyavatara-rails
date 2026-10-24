@@ -1,0 +1,247 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T722",
+    "senses": [
+     {
+      "sense": "nun",
+      "academic": "monaca",
+      "children": "monaca",
+      "note": "Standard Italian term for a Buddhist nun; same word is everyday for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T723",
+    "senses": [
+     {
+      "sense": "alms",
+      "academic": "elemosina",
+      "children": "elemosina",
+      "note": "Established rendering of piṇḍapāta; everyday Italian word usable in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T724",
+    "senses": [
+     {
+      "sense": "hardship",
+      "academic": "austerità",
+      "children": "pratica molto dura",
+      "note": "Ascetic hardship; children get a plain phrase describing a very hard practice."
+     }
+    ]
+   },
+   {
+    "term_id": "T725",
+    "senses": [
+     {
+      "sense": "welfare of others",
+      "academic": "benessere degli altri",
+      "children": "bene degli altri",
+      "note": "Mirrors English distinction: benessere for welfare, bene for good."
+     }
+    ]
+   },
+   {
+    "term_id": "T726",
+    "senses": [
+     {
+      "sense": "solitary buddha",
+      "academic": "pratyekabuddha",
+      "children": "colui che si risveglia da solo",
+      "note": "Sanskrit term kept in academic use; children get a plain self-awakened phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T727",
+    "senses": [
+     {
+      "sense": "first bodhisattva ground",
+      "academic": "Terra della Gioia Perfetta",
+      "children": "terra della gioia perfetta",
+      "note": "Terra is standard Italian for bhūmi; same everyday words suit children."
+     }
+    ]
+   },
+   {
+    "term_id": "T728",
+    "senses": [
+     {
+      "sense": "place of seclusion",
+      "academic": "luogo solitario",
+      "children": "luogo tranquillo",
+      "note": "Solitary versus quiet place distinction kept, following the English."
+     }
+    ]
+   },
+   {
+    "term_id": "T729",
+    "senses": [
+     {
+      "sense": "Saṅgha of bodhisattvas",
+      "academic": "Saṅgha dei bodhisattva",
+      "children": "comunità degli eroi del risveglio",
+      "note": "Children's rendering reuses the fixed eroe del risveglio for bodhisattva."
+     }
+    ]
+   },
+   {
+    "term_id": "T730",
+    "senses": [
+     {
+      "sense": "teaching (the Buddha's doctrine)",
+      "academic": "insegnamento",
+      "children": "insegnamenti del Buddha",
+      "note": "Children's phrase names the Buddha explicitly, mirroring the English gloss."
+     }
+    ]
+   },
+   {
+    "term_id": "T731",
+    "senses": [
+     {
+      "sense": "virtuous intellect",
+      "academic": "intelletto virtuoso",
+      "children": "mente che pensa bene",
+      "note": "Academic keeps intelletto; children get a simple mind-that-thinks-well phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T732",
+    "senses": [
+     {
+      "sense": "spiritual friend",
+      "academic": "amico spirituale",
+      "children": "buon amico",
+      "note": "Established rendering of kalyāṇamitra; children simply say good friend."
+     }
+    ]
+   },
+   {
+    "term_id": "T733",
+    "senses": [
+     {
+      "sense": "name of the author",
+      "academic": "Śāntideva",
+      "children": "Shantideva",
+      "note": "Diacritics in academic register, simplified spelling for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T734",
+    "senses": [
+     {
+      "sense": "Sarvajñādeva",
+      "academic": "Sarvajñādeva",
+      "children": "Sarvajnadeva",
+      "note": "Proper name; diacritics academic, plain spelling for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T735",
+    "senses": [
+     {
+      "sense": "Tibetan translator-editor",
+      "academic": "Bande Paltsek",
+      "children": "Bande Paltsek",
+      "note": "Tibetan personal name kept unchanged in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T736",
+    "senses": [
+     {
+      "sense": "place name",
+      "academic": "Kashmir",
+      "children": "Kashmir",
+      "note": "Standard form of the region's name in Italian usage."
+     }
+    ]
+   },
+   {
+    "term_id": "T737",
+    "senses": [
+     {
+      "sense": "Dharmaśrībhadra (name)",
+      "academic": "Dharmaśrībhadra",
+      "children": "Dharmashribhadra",
+      "note": "Proper name; diacritics academic, plain spelling for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T738",
+    "senses": [
+     {
+      "sense": "translator monk",
+      "academic": "Rinchen Zangpo",
+      "children": "Rinchen Zangpo",
+      "note": "Tibetan personal name kept unchanged in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T739",
+    "senses": [
+     {
+      "sense": "Śākya Lodrö",
+      "academic": "Śākya Lodrö",
+      "children": "Shakya Lodro",
+      "note": "Proper name; diacritics academic, simplified spelling for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T740",
+    "senses": [
+     {
+      "sense": "central region",
+      "academic": "regione centrale",
+      "children": "terra centrale",
+      "note": "Regione for academic; terra as the simpler everyday word for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T741",
+    "senses": [
+     {
+      "sense": "Sumatikīrti",
+      "academic": "Sumatikīrti",
+      "children": "Sumatikirti",
+      "note": "Proper name; diacritics academic, plain spelling for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T742",
+    "senses": [
+     {
+      "sense": "name of a Tibetan translator",
+      "academic": "Loden Sherab",
+      "children": "Loden Sherab",
+      "note": "Tibetan personal name kept unchanged in both registers."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 2307,
+  "output": 1354,
+  "thinking": 2182,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 62.99,
+ "attempt": 1
+}

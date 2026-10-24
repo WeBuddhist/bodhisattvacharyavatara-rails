@@ -1,0 +1,87 @@
+{
+ "parsed": {
+  "objections": [
+   {
+    "term_id": "T365",
+    "sense": "definite liberation",
+    "field": "academic",
+    "proposed": "libertação definitiva",
+    "reason": "The draft renders liberation as \"libertação\" (T241, T351, T220); \"liberação\" is inconsistent, and T351 has the same English \"definite liberation\"."
+   },
+   {
+    "term_id": "T366",
+    "sense": "level of the children of the Victors",
+    "field": "academic",
+    "proposed": "estágio dos filhos dos Vencedores",
+    "reason": "Tibetan sa is bhūmi, rendered \"estágio\" in T155; \"nível\" is inconsistent for the same term."
+   },
+   {
+    "term_id": "T366",
+    "sense": "level of the children of the Victors",
+    "field": "children",
+    "proposed": "fase dos filhos dos Vitoriosos",
+    "reason": "Tibetan sa is bhūmi, rendered \"fase\" in the children's field in T155; \"nível\" is inconsistent."
+   },
+   {
+    "term_id": "T388",
+    "sense": "liberation",
+    "field": "academic",
+    "proposed": "libertação",
+    "reason": "Same Tibetan thar ba and English \"liberation\" as T241, which uses \"libertação\"; \"liberação\" is inconsistent."
+   },
+   {
+    "term_id": "T394",
+    "sense": "chapter title: Heedfulness",
+    "field": "academic",
+    "proposed": "Cuidado Atento",
+    "reason": "\"Vigilância\" is the rendering of saṃprajanya (T047); apramāda (bag yod) is \"cuidado atento\" in T121, so the chapter title must match."
+   },
+   {
+    "term_id": "T395",
+    "sense": "hell guardian",
+    "field": "children",
+    "proposed": "guarda do inferno",
+    "reason": "Same concept as T165 (hell guardian), whose children rendering is \"guarda do inferno\"; the two should match."
+   },
+   {
+    "term_id": "T399",
+    "sense": "perfection of ethical discipline",
+    "field": "children",
+    "proposed": "perfeição da boa conduta",
+    "reason": "Children's rendering of śīla is \"boa conduta\" in T094; \"bom comportamento\" is inconsistent."
+   },
+   {
+    "term_id": "T403",
+    "sense": "Brahmā",
+    "field": "children",
+    "proposed": "Brahma",
+    "reason": "T322 (same god) uses \"Brahma\" in the children's field, matching the transliteration pattern of other names (Manjushri, Mara); \"Bramá\" is inconsistent."
+   },
+   {
+    "term_id": "T437",
+    "sense": "supreme leisure",
+    "field": "academic",
+    "proposed": "liberdade suprema",
+    "reason": "\"lazer\" means recreation, not the freedom to practise (dal ba); consistent with the proposed \"liberdade\" for kṣaṇa (T221) and T195."
+   },
+   {
+    "term_id": "T444",
+    "sense": "Three Heaps Sūtra",
+    "field": "children",
+    "proposed": "texto dos Três Acúmulos",
+    "reason": "\"Montes\" evokes mountains and differs from the academic \"Três Acúmulos\"; both fields should render 'heaps' alike."
+   },
+   {
+    "term_id": "T464",
+    "sense": "perversity",
+    "field": "academic",
+    "proposed": "distorção",
+    "reason": "\"perversidade\" means wickedness or cruelty in Portuguese; viparyaya/phyin ci log means a distorted or inverted view, not malice."
+   }
+  ]
+ },
+ "tokens": {},
+ "model": "claude-sonnet-5-5",
+ "seconds": null,
+ "attempt": 1
+}

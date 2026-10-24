@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T361",
+    "senses": [
+     {
+      "sense": "non-virtue",
+      "academic": "non-virtù",
+      "children": "azione cattiva",
+      "note": "Negation of fixed kuśala 'virtù'; opposite of good action."
+     }
+    ]
+   },
+   {
+    "term_id": "T362",
+    "senses": [
+     {
+      "sense": "natural misdeed",
+      "academic": "azione negativa naturale",
+      "children": "azione sbagliata di per sé",
+      "note": "Wrong by its own nature; reuses fixed 'azione negativa'."
+     }
+    ]
+   },
+   {
+    "term_id": "T363",
+    "senses": [
+     {
+      "sense": "proscribed misdeed",
+      "academic": "azione negativa proscritta",
+      "children": "azione vietata che fa del male",
+      "note": "Wrong because forbidden by rule, not by nature."
+     }
+    ]
+   },
+   {
+    "term_id": "T364",
+    "senses": [
+     {
+      "sense": "joined palms",
+      "academic": "palmi giunti",
+      "children": "mani unite",
+      "note": "Gesture of reverence, the añjali position."
+     }
+    ]
+   },
+   {
+    "term_id": "T365",
+    "senses": [
+     {
+      "sense": "definite liberation",
+      "academic": "liberazione definitiva",
+      "children": "libertà completa",
+      "note": "Final escape from cyclic existence."
+     }
+    ]
+   },
+   {
+    "term_id": "T366",
+    "senses": [
+     {
+      "sense": "level of the children of the Victors",
+      "academic": "livello dei figli dei Vittoriosi",
+      "children": "livello dei figli dei Vincitori",
+      "note": "Bodhisattva ground; reuses fixed renderings of Victor."
+     }
+    ]
+   },
+   {
+    "term_id": "T367",
+    "senses": [
+     {
+      "sense": "generation of bodhicitta",
+      "academic": "generazione della bodhicitta",
+      "children": "nascita della mente del risveglio",
+      "note": "Cittotpāda; reuses fixed bodhicitta renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T368",
+    "senses": [
+     {
+      "sense": "lamp of the Dharma",
+      "academic": "lampada del Dharma",
+      "children": "lampada degli insegnamenti",
+      "note": "Reuses fixed Dharma renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T369",
+    "senses": [
+     {
+      "sense": "intermediate eon of famine",
+      "academic": "eone intermedio di carestia",
+      "children": "grande epoca intermedia di carestia",
+      "note": "Reuses fixed kalpa renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T370",
+    "senses": [
+     {
+      "sense": "possessions",
+      "academic": "beni",
+      "children": "cose possedute",
+      "note": "Worldly goods and enjoyments, bhoga."
+     }
+    ]
+   },
+   {
+    "term_id": "T371",
+    "senses": [
+     {
+      "sense": "wish-fulfilling jewel",
+      "academic": "gioiello che esaudisce i desideri",
+      "children": "gioiello che realizza i desideri",
+      "note": "Cintāmaṇi, the mythical wish-granting gem."
+     }
+    ]
+   },
+   {
+    "term_id": "T372",
+    "senses": [
+     {
+      "sense": "excellent vase",
+      "academic": "vaso eccellente",
+      "children": "vaso meraviglioso",
+      "note": "Bhadraghaṭa, auspicious inexhaustible vase."
+     }
+    ]
+   },
+   {
+    "term_id": "T373",
+    "senses": [
+     {
+      "sense": "knowledge-mantra",
+      "academic": "mantra della conoscenza",
+      "children": "parole sacre potenti",
+      "note": "Vidyā as sacred spell carrying power."
+     }
+    ]
+   },
+   {
+    "term_id": "T374",
+    "senses": [
+     {
+      "sense": "great medicine",
+      "academic": "grande medicina",
+      "children": "grande medicina",
+      "note": "Supreme remedy; English gives identical renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T375",
+    "senses": [
+     {
+      "sense": "wish-fulfilling cow",
+      "academic": "vacca dell'abbondanza",
+      "children": "mucca che realizza i desideri",
+      "note": "Kāmadhenu, mythic cow granting all wishes."
+     }
+    ]
+   },
+   {
+    "term_id": "T376",
+    "senses": [
+     {
+      "sense": "great elements",
+      "academic": "grande elemento",
+      "children": "elemento di base",
+      "note": "Mahābhūta: earth, water, fire, and wind."
+     }
+    ]
+   },
+   {
+    "term_id": "T377",
+    "senses": [
+     {
+      "sense": "realm of sentient beings",
+      "academic": "reame degli esseri senzienti",
+      "children": "reame degli esseri viventi",
+      "note": "Reuses fixed sattva renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T378",
+    "senses": [
+     {
+      "sense": "bodhicitta (honorific)",
+      "academic": "bodhicitta",
+      "children": "mente del risveglio",
+      "note": "Matches the fixed bodhicitta entry."
+     }
+    ]
+   },
+   {
+    "term_id": "T379",
+    "senses": [
+     {
+      "sense": "human existence",
+      "academic": "esistenza umana",
+      "children": "vita umana",
+      "note": "The precious human rebirth."
+     }
+    ]
+   },
+   {
+    "term_id": "T380",
+    "senses": [
+     {
+      "sense": "family of the Buddhas",
+      "academic": "famiglia dei Buddha",
+      "children": "famiglia dei Buddha",
+      "note": "Spiritual lineage of the Buddhas."
+     }
+    ]
+   },
+   {
+    "term_id": "T381",
+    "senses": [
+     {
+      "sense": "nectar",
+      "academic": "nettare",
+      "children": "nettare",
+      "note": "Sweet healing essence, like amṛta."
+     }
+    ]
+   },
+   {
+    "term_id": "T382",
+    "senses": [
+     {
+      "sense": "path of existence",
+      "academic": "sentiero dell'esistenza",
+      "children": "sentiero della vita",
+      "note": "The long course through cyclic existence."
+     }
+    ]
+   },
+   {
+    "term_id": "T383",
+    "senses": [
+     {
+      "sense": "universal bridge",
+      "academic": "ponte universale",
+      "children": "ponte per tutti",
+      "note": "Bodhisattva as a bridge for all beings."
+     }
+    ]
+   },
+   {
+    "term_id": "T384",
+    "senses": [
+     {
+      "sense": "not knowing",
+      "academic": "non-conoscenza",
+      "children": "non sapere",
+      "note": "Kept distinct from avidyā, rendered 'ignoranza'."
+     }
+    ]
+   },
+   {
+    "term_id": "T385",
+    "senses": [
+     {
+      "sense": "child of the Victors",
+      "academic": "figlio dei Vittoriosi",
+      "children": "figlio dei Vincitori",
+      "note": "Epithet of bodhisattvas; reuses fixed Victor."
+     }
+    ]
+   },
+   {
+    "term_id": "T386",
+    "senses": [
+     {
+      "sense": "training",
+      "academic": "addestramento",
+      "children": "allenamento",
+      "note": "Śikṣā, the bodhisattva's ethical training."
+     }
+    ]
+   },
+   {
+    "term_id": "T387",
+    "senses": [
+     {
+      "sense": "unsurpassed happiness",
+      "academic": "felicità insuperabile",
+      "children": "felicità più grande",
+      "note": "Reuses fixed sukha 'felicità'."
+     }
+    ]
+   },
+   {
+    "term_id": "T388",
+    "senses": [
+     {
+      "sense": "liberation",
+      "academic": "liberazione",
+      "children": "libertà",
+      "note": "Freedom from bondage, from the root mocayati."
+     }
+    ]
+   },
+   {
+    "term_id": "T389",
+    "senses": [
+     {
+      "sense": "Omniscient One",
+      "academic": "Onnisciente",
+      "children": "Colui che sa tutto",
+      "note": "Epithet of the Buddha."
+     }
+    ]
+   },
+   {
+    "term_id": "T390",
+    "senses": [
+     {
+      "sense": "fire of hell",
+      "academic": "fuoco dell'inferno",
+      "children": "fuoco dell'inferno",
+      "note": "Reuses fixed naraka 'inferno'."
+     }
+    ]
+   },
+   {
+    "term_id": "T391",
+    "senses": [
+     {
+      "sense": "regret, remorse",
+      "academic": "rimpianto",
+      "children": "rimpianto",
+      "note": "English gives identical renderings for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T392",
+    "senses": [
+     {
+      "sense": "Avīci hell",
+      "academic": "inferno Avīci",
+      "children": "Avici",
+      "note": "Lowest hell; children use the simplified name as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T393",
+    "senses": [
+     {
+      "sense": "faculties",
+      "academic": "insieme delle facoltà",
+      "children": "gruppo dei sensi",
+      "note": "The sense faculties taken collectively."
+     }
+    ]
+   },
+   {
+    "term_id": "T394",
+    "senses": [
+     {
+      "sense": "chapter title: Heedfulness",
+      "academic": "Diligenza",
+      "children": "Attenzione",
+      "note": "Chapter four; apramāda as in Pali appamāda translations."
+     }
+    ]
+   },
+   {
+    "term_id": "T395",
+    "senses": [
+     {
+      "sense": "hell guardian",
+      "academic": "guardiano dell'inferno",
+      "children": "guardiano dell'inferno",
+      "note": "Reuses fixed naraka 'inferno'."
+     }
+    ]
+   },
+   {
+    "term_id": "T396",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Colui che proclama la verità",
+      "children": "Colui che dice la verità",
+      "note": "Tattvavādin, one who speaks what is true."
+     }
+    ]
+   },
+   {
+    "term_id": "T397",
+    "senses": [
+     {
+      "sense": "mind of misdeed",
+      "academic": "mente dell'azione negativa",
+      "children": "mente che fa del male",
+      "note": "Reuses fixed citta and pāpa renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T398",
+    "senses": [
+     {
+      "sense": "mind of relinquishing",
+      "academic": "mente dell'abbandono",
+      "children": "mente che dona tutto",
+      "note": "Tyāga as letting go; kept distinct from T400 renunciation."
+     }
+    ]
+   },
+   {
+    "term_id": "T399",
+    "senses": [
+     {
+      "sense": "perfection of ethical discipline",
+      "academic": "perfezione della disciplina etica",
+      "children": "perfezione della buona condotta",
+      "note": "Śīlapāramitā, the second perfection."
+     }
+    ]
+   },
+   {
+    "term_id": "T400",
+    "senses": [
+     {
+      "sense": "mind of renunciation",
+      "academic": "mente della rinuncia",
+      "children": "mente che rinuncia",
+      "note": "Virati as turning away from wrongdoing."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4236,
+  "output": 2451,
+  "thinking": 6025,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 150.62,
+ "attempt": 1
+}

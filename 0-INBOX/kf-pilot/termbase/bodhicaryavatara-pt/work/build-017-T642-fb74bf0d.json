@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T642",
+    "senses": [
+     {
+      "sense": "obscuration of afflictions and of objects of knowledge",
+      "academic": "obscurecimento das aflições e dos objetos de conhecimento",
+      "children": "véu das emoções perturbadoras e das coisas a conhecer",
+      "note": "Uses fixed kleśa children's rendering; academic follows Brazilian Buddhist use of 'obscurecimento'."
+     }
+    ]
+   },
+   {
+    "term_id": "T643",
+    "senses": [
+     {
+      "sense": "six consciousnesses",
+      "academic": "seis consciências",
+      "children": "seis tipos de consciência",
+      "note": "Standard Buddhist list; children's version says 'kinds of consciousness' in plain words."
+     }
+    ]
+   },
+   {
+    "term_id": "T644",
+    "senses": [
+     {
+      "sense": "designated",
+      "academic": "designado",
+      "children": "rotulado",
+      "note": "Participle form for Madhyamaka usage; children's 'rotulado' matches 'labelled'."
+     }
+    ]
+   },
+   {
+    "term_id": "T645",
+    "senses": [
+     {
+      "sense": "karma and result",
+      "academic": "carma e resultado",
+      "children": "ação e resultado",
+      "note": "'Carma' is the established Brazilian form; children get plain 'action and result'."
+     }
+    ]
+   },
+   {
+    "term_id": "T646",
+    "senses": [
+     {
+      "sense": "one who experiences",
+      "academic": "experimentador",
+      "children": "quem experimenta",
+      "note": "Agent noun of experiencing; children use an everyday relative phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T647",
+    "senses": [
+     {
+      "sense": "imputed",
+      "academic": "imputado",
+      "children": "imaginado",
+      "note": "Standard Madhyamaka 'imputado'; children's matches English 'imagined'."
+     }
+    ]
+   },
+   {
+    "term_id": "T648",
+    "senses": [
+     {
+      "sense": "assemblage of conditions",
+      "academic": "conjunto de condições",
+      "children": "reunião de circunstâncias",
+      "note": "Reuses fixed pratyaya renderings: condição / circunstância."
+     }
+    ]
+   },
+   {
+    "term_id": "T649",
+    "senses": [
+     {
+      "sense": "part",
+      "academic": "parte",
+      "children": "parte",
+      "note": "Ordinary word, identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T650",
+    "senses": [
+     {
+      "sense": "directional part",
+      "academic": "parte direcional",
+      "children": "parte em uma direção",
+      "note": "Philosophical atomism term; children get a plain directional phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T651",
+    "senses": [
+     {
+      "sense": "experience",
+      "academic": "experiência",
+      "children": "experiência",
+      "note": "Everyday word suits both registers; same English label as T668."
+     }
+    ]
+   },
+   {
+    "term_id": "T652",
+    "senses": [
+     {
+      "sense": "subtle state",
+      "academic": "estado sutil",
+      "children": "forma sutil",
+      "note": "Children's 'forma sutil' mirrors English 'faint form' in simple words."
+     }
+    ]
+   },
+   {
+    "term_id": "T653",
+    "senses": [
+     {
+      "sense": "opposing condition",
+      "academic": "condição oposta",
+      "children": "circunstância contrária",
+      "note": "Reuses fixed pratyaya renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T654",
+    "senses": [
+     {
+      "sense": "conceptual clinging",
+      "academic": "apego conceitual",
+      "children": "agarrar-se a uma ideia",
+      "note": "Academic 'apego conceitual'; children reuse fixed attachment verb 'agarrar-se'."
+     }
+    ]
+   },
+   {
+    "term_id": "T655",
+    "senses": [
+     {
+      "sense": "partless",
+      "academic": "sem partes",
+      "children": "sem partes",
+      "note": "Negated counterpart of T649; identical plain phrase in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T656",
+    "senses": [
+     {
+      "sense": "contact",
+      "academic": "contato",
+      "children": "toque",
+      "note": "Technical 'contato' (one of the links); children's 'toque' matches 'touch'."
+     }
+    ]
+   },
+   {
+    "term_id": "T657",
+    "senses": [
+     {
+      "sense": "two truths",
+      "academic": "duas verdades",
+      "children": "duas verdades",
+      "note": "Established Madhyamaka expression; already plain enough for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T658",
+    "senses": [
+     {
+      "sense": "conceptual thought",
+      "academic": "pensamento conceitual",
+      "children": "imaginação",
+      "note": "Children's 'imaginação' renders 'imagining' as a simple noun."
+     }
+    ]
+   },
+   {
+    "term_id": "T659",
+    "senses": [
+     {
+      "sense": "analysis",
+      "academic": "análise",
+      "children": "exame cuidadoso",
+      "note": "Meditative investigation; children's phrase matches 'careful examination'."
+     }
+    ]
+   },
+   {
+    "term_id": "T660",
+    "senses": [
+     {
+      "sense": "object of analysis",
+      "academic": "objeto de análise",
+      "children": "coisa examinada",
+      "note": "Counterpart of T659; reuses fixed 'coisa' from the entity entry."
+     }
+    ]
+   },
+   {
+    "term_id": "T661",
+    "senses": [
+     {
+      "sense": "power of consciousness",
+      "academic": "poder da consciência",
+      "children": "poder de perceber",
+      "note": "Children's 'poder de perceber' conveys 'power of awareness' in everyday words."
+     }
+    ]
+   },
+   {
+    "term_id": "T662",
+    "senses": [
+     {
+      "sense": "worldly direct perception",
+      "academic": "percepção direta mundana",
+      "children": "visão direta do dia a dia",
+      "note": "Epistemological term; children's noun phrase matches 'everyday direct seeing'."
+     }
+    ]
+   },
+   {
+    "term_id": "T663",
+    "senses": [
+     {
+      "sense": "element",
+      "academic": "elemento",
+      "children": "elemento",
+      "note": "Great elements (earth, water, etc.); everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T664",
+    "senses": [
+     {
+      "sense": "beyond thought",
+      "academic": "inconcebível",
+      "children": "além do pensamento",
+      "note": "Academic single adjective; children's phrase literally matches 'beyond thought'."
+     }
+    ]
+   },
+   {
+    "term_id": "T665",
+    "senses": [
+     {
+      "sense": "beginningless",
+      "academic": "sem começo",
+      "children": "sem começo",
+      "note": "Usual Brazilian Buddhist rendering of anādi; same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T666",
+    "senses": [
+     {
+      "sense": "Sāṃkhya",
+      "academic": "Sāṃkhya",
+      "children": "Samkhya",
+      "note": "Name of an Indian philosophical school; diacritics dropped for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T667",
+    "senses": [
+     {
+      "sense": "equilibrium",
+      "academic": "equilíbrio",
+      "children": "equilíbrio perfeito",
+      "note": "Sāṃkhya balance of the guṇas; children add 'perfeito' for clarity."
+     }
+    ]
+   },
+   {
+    "term_id": "T668",
+    "senses": [
+     {
+      "sense": "experience",
+      "academic": "experiência",
+      "children": "sensação",
+      "note": "English academic same as T651, so same rendering; children's 'sensação' matches 'feeling'."
+     }
+    ]
+   },
+   {
+    "term_id": "T669",
+    "senses": [
+     {
+      "sense": "coarse",
+      "academic": "grosseiro",
+      "children": "áspero",
+      "note": "Counterpart of sūkṣma; children's 'áspero' matches English 'rough'."
+     }
+    ]
+   },
+   {
+    "term_id": "T670",
+    "senses": [
+     {
+      "sense": "subtle",
+      "academic": "sutil",
+      "children": "fino",
+      "note": "Standard pair with 'grosseiro'; children's 'fino' matches English 'fine'."
+     }
+    ]
+   },
+   {
+    "term_id": "T671",
+    "senses": [
+     {
+      "sense": "subtle",
+      "academic": "sutil",
+      "children": "fino",
+      "note": "Same English labels as T670, so identical renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T672",
+    "senses": [
+     {
+      "sense": "non-existent",
+      "academic": "inexistente",
+      "children": "que não existe",
+      "note": "Academic adjective; children get a plain explanatory phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T673",
+    "senses": [
+     {
+      "sense": "meditation",
+      "academic": "meditação",
+      "children": "meditação",
+      "note": "Already an everyday word in Brazilian Portuguese."
+     }
+    ]
+   },
+   {
+    "term_id": "T674",
+    "senses": [
+     {
+      "sense": "imputed entity",
+      "academic": "entidade imputada",
+      "children": "coisa imaginada",
+      "note": "Compound reuses fixed bhāva renderings: entidade / coisa."
+     }
+    ]
+   },
+   {
+    "term_id": "T675",
+    "senses": [
+     {
+      "sense": "without a cause",
+      "academic": "sem causa",
+      "children": "sem causa",
+      "note": "Reuses fixed kāraṇa rendering 'causa'; identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T676",
+    "senses": [
+     {
+      "sense": "reflection",
+      "academic": "reflexo",
+      "children": "reflexo",
+      "note": "'Reflexo' is the reflected image itself; everyday word suits children too."
+     }
+    ]
+   },
+   {
+    "term_id": "T677",
+    "senses": [
+     {
+      "sense": "true existence",
+      "academic": "existência verdadeira",
+      "children": "ser de verdade",
+      "note": "Madhyamaka target of negation; children get the plain equivalent of 'being truly real'."
+     }
+    ]
+   },
+   {
+    "term_id": "T678",
+    "senses": [
+     {
+      "sense": "non-entity",
+      "academic": "não-entidade",
+      "children": "coisa que não existe",
+      "note": "Negation of fixed 'entidade/coisa'; children's phrase matches 'non-existent thing'."
+     }
+    ]
+   },
+   {
+    "term_id": "T679",
+    "senses": [
+     {
+      "sense": "cessation",
+      "academic": "cessação",
+      "children": "parada",
+      "note": "Third noble truth term; children's 'parada' matches 'stopping'."
+     }
+    ]
+   },
+   {
+    "term_id": "T680",
+    "senses": [
+     {
+      "sense": "neither arisen nor ceased",
+      "academic": "não-nascido e não-cessante",
+      "children": "que nunca nasceu e nunca acaba",
+      "note": "Academic compound adjectives; children's clause matches 'never born and never ending'."
+     }
+    ]
+   },
+   {
+    "term_id": "T681",
+    "senses": [
+     {
+      "sense": "empty",
+      "academic": "vazio",
+      "children": "vazio",
+      "note": "Adjective of śūnyatā; 'vazio' is everyday and suits both registers."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 3974,
+  "output": 2511,
+  "thinking": 3809,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 191.54,
+ "attempt": 1
+}

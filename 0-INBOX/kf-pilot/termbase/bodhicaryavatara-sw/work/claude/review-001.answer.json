@@ -1,0 +1,207 @@
+{
+ "objections": [
+  {
+   "term_id": "T001",
+   "sense": "suffering",
+   "field": "academic",
+   "proposed": "mateso",
+   "reason": "'maumivu' means physical pains; the standard Swahili word for suffering (duḥkha) is 'mateso'."
+  },
+  {
+   "term_id": "T001",
+   "sense": "suffering",
+   "field": "children",
+   "proposed": "mateso",
+   "reason": "'maumivu' means physical pains; 'mateso' is the natural word for suffering in general."
+  },
+  {
+   "term_id": "T011",
+   "sense": "misdeed",
+   "field": "academic",
+   "proposed": "kitendo kibaya",
+   "reason": "'dhambi' means theistic sin against God; approved English is neutral 'misdeed'. Pairs with 'tendo jema' for kuśala."
+  },
+  {
+   "term_id": "T025",
+   "sense": "misdeed",
+   "field": "academic",
+   "proposed": "kitendo kibaya",
+   "reason": "'dhambi' means theistic sin against God; approved English is neutral 'misdeed'. Keep consistent with T011."
+  },
+  {
+   "term_id": "T019",
+   "sense": "things as such (chapter 9)",
+   "field": "academic",
+   "proposed": "dhihirisho",
+   "reason": "'tukio' means an event or occurrence, not a phenomenon (dharma as appearing thing)."
+  },
+  {
+   "term_id": "T020",
+   "sense": "awakening",
+   "field": "academic",
+   "proposed": "mwamko",
+   "reason": "'uamsho' means revival or rousing others (and has strong local religious/political connotations); 'mwamko' is the state of having awakened."
+  },
+  {
+   "term_id": "T020",
+   "sense": "awakening",
+   "field": "children",
+   "proposed": "mwamko",
+   "reason": "'uamsho' means revival or rousing others; 'mwamko' is natural for awakening."
+  },
+  {
+   "term_id": "T010",
+   "sense": "bodhisattva",
+   "field": "children",
+   "proposed": "shujaa wa mwamko",
+   "reason": "Follows the change of 'awakening' to 'mwamko' (T020) for consistency."
+  },
+  {
+   "term_id": "T012",
+   "sense": "the awakening mind",
+   "field": "children",
+   "proposed": "akili ya mwamko",
+   "reason": "Follows the change of 'awakening' to 'mwamko' (T020) for consistency."
+  },
+  {
+   "term_id": "T027",
+   "sense": "title of the work",
+   "field": "children",
+   "proposed": "Kuingia katika Njia ya Shujaa wa Mwamko",
+   "reason": "Follows the change of 'awakening' to 'mwamko' (T020) for consistency."
+  },
+  {
+   "term_id": "T080",
+   "sense": "conduct of awakening",
+   "field": "academic",
+   "proposed": "mwenendo wa mwamko",
+   "reason": "Follows the change of 'awakening' to 'mwamko' (T020) for consistency."
+  },
+  {
+   "term_id": "T080",
+   "sense": "conduct of awakening",
+   "field": "children",
+   "proposed": "matendo ya mwamko",
+   "reason": "Follows the change of 'awakening' to 'mwamko' (T020) for consistency."
+  },
+  {
+   "term_id": "T031",
+   "sense": "illusion",
+   "field": "academic",
+   "proposed": "udanganyifu",
+   "reason": "'maya' is an untranslated Sanskrit loan, opaque to Swahili readers; English policy translates 'illusion', not a loanword."
+  },
+  {
+   "term_id": "T038",
+   "sense": "delusion",
+   "field": "academic",
+   "proposed": "mkanganyiko wa akili",
+   "reason": "'upotofu' means moral deviation or depravity, not delusion/confusion of mind; sounds like the children's 'kuchanganyikiwa'."
+  },
+  {
+   "term_id": "T042",
+   "sense": "mindfulness",
+   "field": "academic",
+   "proposed": "umakinifu",
+   "reason": "'ukumbusho' means reminder/memorial, not mindfulness; 'kumbukumbu' is separately used for memory."
+  },
+  {
+   "term_id": "T045",
+   "sense": "epithet of the Buddha",
+   "field": "academic",
+   "proposed": "Mlinzi",
+   "reason": "Same Tibetan mgon po / nātha rendered 'Mlinzi' in T087; 'Mlindaji' is inconsistent and less natural."
+  },
+  {
+   "term_id": "T045",
+   "sense": "epithet of the Buddha",
+   "field": "children",
+   "proposed": "Mlinzi",
+   "reason": "Same Tibetan mgon po / nātha rendered 'Mlinzi' in T087; keep consistent."
+  },
+  {
+   "term_id": "T053",
+   "sense": "wise person",
+   "field": "academic",
+   "proposed": "mwenye busara",
+   "reason": "'mwenye hekima' duplicates T044 (muni, 'Mwenye Hekima') for a different term; 'busara' keeps the sense and separates them."
+  },
+  {
+   "term_id": "T053",
+   "sense": "wise person",
+   "field": "children",
+   "proposed": "mtu mwenye busara",
+   "reason": "Avoids duplicating T044 'Mwenye Hekima'; keeps the sense 'wise person'."
+  },
+  {
+   "term_id": "T065",
+   "sense": "childish person, fool",
+   "field": "academic",
+   "proposed": "mtu wa kitoto",
+   "reason": "'mjinga' (fool) shares a root with 'ujinga' (ignorance, T071) and loses the 'childish' sense of bāla/byis pa."
+  },
+  {
+   "term_id": "T069",
+   "sense": "child of the Buddhas",
+   "field": "academic",
+   "proposed": "mtoto wa Mabuddha",
+   "reason": "Same meaning as T113 and T110 which use 'Mtoto wa ...'; 'mwana' is inconsistent and singular 'Buddha' loses the plural."
+  },
+  {
+   "term_id": "T069",
+   "sense": "child of the Buddhas",
+   "field": "children",
+   "proposed": "mtoto wa Mabuddha",
+   "reason": "Same meaning as T113 and T110 which use 'Mtoto wa ...'; keep consistent and plural."
+  },
+  {
+   "term_id": "T099",
+   "sense": "welfare of others",
+   "field": "academic",
+   "proposed": "maslahi ya wengine",
+   "reason": "Same Sanskrit parārtha and same English as T072, which uses 'maslahi ya wengine'; renderings must match."
+  },
+  {
+   "term_id": "T099",
+   "sense": "welfare of others",
+   "field": "children",
+   "proposed": "wema wa wengine",
+   "reason": "Same parārtha as T072 ('wema wa wengine'); keep consistent."
+  },
+  {
+   "term_id": "T119",
+   "sense": "accumulation (of merit and wisdom)",
+   "field": "academic",
+   "proposed": "ukusanyaji",
+   "reason": "'hazina' means treasury or stored wealth, not the act of accumulating (tshogs); 'ukusanyaji' fits and differs from 'mkusanyiko'."
+  },
+  {
+   "term_id": "T052",
+   "sense": "Sugata",
+   "field": "children",
+   "proposed": "Aliyeenda Vema",
+   "reason": "Correct relative form of 'kwenda' is 'aliyeenda'; matches T194. Also keeps all 'Well-Gone One' renderings consistent."
+  },
+  {
+   "term_id": "T070",
+   "sense": "epithet of the Buddha",
+   "field": "children",
+   "proposed": "Aliyeenda Hivyo",
+   "reason": "Correct relative form of 'kwenda' is 'aliyeenda'; keep consistent with T052/T194."
+  },
+  {
+   "term_id": "T116",
+   "sense": "Tathāgata",
+   "field": "children",
+   "proposed": "Aliyeenda Hivyo",
+   "reason": "Correct relative form of 'kwenda' is 'aliyeenda'; keep consistent with T070."
+  },
+  {
+   "term_id": "T086",
+   "sense": "existence",
+   "field": "children",
+   "proposed": "maisha",
+   "reason": "Same bhava and English 'life' as T329, rendered 'maisha'; 'uzima' means health or wholeness."
+  }
+ ]
+}

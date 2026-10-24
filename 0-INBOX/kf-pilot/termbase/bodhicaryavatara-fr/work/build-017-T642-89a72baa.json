@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T642",
+    "senses": [
+     {
+      "sense": "obscuration of afflictions and of objects of knowledge",
+      "academic": "voile des afflictions et du connaissable",
+      "children": "voile des émotions perturbatrices et des choses à connaître",
+      "note": "Standard pair kleśāvaraṇa/jñeyāvaraṇa; children reuses fixed émotion perturbatrice."
+     }
+    ]
+   },
+   {
+    "term_id": "T643",
+    "senses": [
+     {
+      "sense": "six consciousnesses",
+      "academic": "six consciences",
+      "children": "six sortes de conscience",
+      "note": "vijñāna as conscience is standard in French Buddhist studies."
+     }
+    ]
+   },
+   {
+    "term_id": "T644",
+    "senses": [
+     {
+      "sense": "designated",
+      "academic": "désigné",
+      "children": "nommé",
+      "note": "Past participle as head form; translator inflects in context."
+     }
+    ]
+   },
+   {
+    "term_id": "T645",
+    "senses": [
+     {
+      "sense": "karma and result",
+      "academic": "karma et résultat",
+      "children": "action et résultat",
+      "note": "Reuses fixed résultat; karma kept in academic register."
+     }
+    ]
+   },
+   {
+    "term_id": "T646",
+    "senses": [
+     {
+      "sense": "one who experiences",
+      "academic": "celui qui éprouve",
+      "children": "celui qui ressent",
+      "note": "bhoktṛ, the subject undergoing experience; no single French noun exists."
+     }
+    ]
+   },
+   {
+    "term_id": "T647",
+    "senses": [
+     {
+      "sense": "imputed",
+      "academic": "imputé",
+      "children": "imaginé",
+      "note": "Distinct from T644 désigné; kalpita rendered imputé in Madhyamaka scholarship."
+     }
+    ]
+   },
+   {
+    "term_id": "T648",
+    "senses": [
+     {
+      "sense": "assemblage of conditions",
+      "academic": "ensemble de conditions",
+      "children": "réunion de circonstances",
+      "note": "Reuses fixed pratyaya: condition academic, circonstance children."
+     }
+    ]
+   },
+   {
+    "term_id": "T649",
+    "senses": [
+     {
+      "sense": "part",
+      "academic": "partie",
+      "children": "morceau",
+      "note": "Plain everyday morceau for children; partie for academic."
+     }
+    ]
+   },
+   {
+    "term_id": "T650",
+    "senses": [
+     {
+      "sense": "directional part",
+      "academic": "partie directionnelle",
+      "children": "morceau dans une direction",
+      "note": "Spatial division of an atom; reuses partie/morceau from T649."
+     }
+    ]
+   },
+   {
+    "term_id": "T651",
+    "senses": [
+     {
+      "sense": "experience",
+      "academic": "expérience",
+      "children": "expérience",
+      "note": "anubhava as expérience; same word serves both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T652",
+    "senses": [
+     {
+      "sense": "subtle state",
+      "academic": "état subtil",
+      "children": "forme très fine",
+      "note": "Abstract noun sūkṣmatā; children uses fin matching T670."
+     }
+    ]
+   },
+   {
+    "term_id": "T653",
+    "senses": [
+     {
+      "sense": "opposing condition",
+      "academic": "condition opposée",
+      "children": "circonstance opposée",
+      "note": "Reuses fixed pratyaya renderings for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T654",
+    "senses": [
+     {
+      "sense": "conceptual clinging",
+      "academic": "attachement conceptuel",
+      "children": "s'accrocher à une idée",
+      "note": "Reuses fixed children s'accrocher for clinging."
+     }
+    ]
+   },
+   {
+    "term_id": "T655",
+    "senses": [
+     {
+      "sense": "partless",
+      "academic": "sans parties",
+      "children": "sans parties",
+      "note": "Negation of aṃśa; identical plain phrase works in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T656",
+    "senses": [
+     {
+      "sense": "contact",
+      "academic": "contact",
+      "children": "toucher",
+      "note": "sparśana, sense contact; everyday toucher for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T657",
+    "senses": [
+     {
+      "sense": "two truths",
+      "academic": "deux vérités",
+      "children": "deux vérités",
+      "note": "satyadvaya; same phrase natural in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T658",
+    "senses": [
+     {
+      "sense": "conceptual thought",
+      "academic": "pensée conceptuelle",
+      "children": "imagination",
+      "note": "kalpanā as discursive imagining; simplified for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T659",
+    "senses": [
+     {
+      "sense": "analysis",
+      "academic": "analyse",
+      "children": "examen attentif",
+      "note": "vicāra, investigative examination of an object."
+     }
+    ]
+   },
+   {
+    "term_id": "T660",
+    "senses": [
+     {
+      "sense": "object of analysis",
+      "academic": "objet d'analyse",
+      "children": "chose examinée",
+      "note": "Pairs with T659; reuses children chose from fixed bhāva."
+     }
+    ]
+   },
+   {
+    "term_id": "T661",
+    "senses": [
+     {
+      "sense": "power of consciousness",
+      "academic": "pouvoir de la conscience",
+      "children": "force de la conscience",
+      "note": "Capacity of awareness; everyday force replaces pouvoir for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T662",
+    "senses": [
+     {
+      "sense": "worldly direct perception",
+      "academic": "perception directe mondaine",
+      "children": "perception directe quotidienne",
+      "note": "lokapratyakṣa, ordinary valid perception; quotidien simplifies mondain."
+     }
+    ]
+   },
+   {
+    "term_id": "T663",
+    "senses": [
+     {
+      "sense": "element",
+      "academic": "élément",
+      "children": "élément",
+      "note": "bhūta, great element; élément already everyday French."
+     }
+    ]
+   },
+   {
+    "term_id": "T664",
+    "senses": [
+     {
+      "sense": "beyond thought",
+      "academic": "inconcevable",
+      "children": "impossible à imaginer",
+      "note": "acintya; plain paraphrase for children keeps same meaning."
+     }
+    ]
+   },
+   {
+    "term_id": "T665",
+    "senses": [
+     {
+      "sense": "beginningless",
+      "academic": "sans commencement",
+      "children": "sans début",
+      "note": "Children uses everyday début instead of commencement."
+     }
+    ]
+   },
+   {
+    "term_id": "T666",
+    "senses": [
+     {
+      "sense": "Sāṃkhya",
+      "academic": "Sāṃkhya",
+      "children": "Samkhya",
+      "note": "Proper name of Indian philosophical school; diacritics dropped for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T667",
+    "senses": [
+     {
+      "sense": "equilibrium",
+      "academic": "équilibre",
+      "children": "équilibre parfait",
+      "note": "Balanced state of the guṇas in Sāṃkhya; children adds parfait."
+     }
+    ]
+   },
+   {
+    "term_id": "T668",
+    "senses": [
+     {
+      "sense": "experience",
+      "academic": "expérience",
+      "children": "sensation",
+      "note": "saṃvitti as felt experience; sensation matches children feeling."
+     }
+    ]
+   },
+   {
+    "term_id": "T669",
+    "senses": [
+     {
+      "sense": "coarse",
+      "academic": "grossier",
+      "children": "gros",
+      "note": "Pairs with subtil/fin for subtle; gros is everyday antonym."
+     }
+    ]
+   },
+   {
+    "term_id": "T670",
+    "senses": [
+     {
+      "sense": "subtle",
+      "academic": "subtil",
+      "children": "fin",
+      "note": "sūkṣma; fin is everyday antonym of gros (T669)."
+     }
+    ]
+   },
+   {
+    "term_id": "T671",
+    "senses": [
+     {
+      "sense": "subtle",
+      "academic": "subtil",
+      "children": "fin",
+      "note": "Same lemma and sense as T670; identical renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T672",
+    "senses": [
+     {
+      "sense": "non-existent",
+      "academic": "inexistant",
+      "children": "qui n'existe pas",
+      "note": "asat; children paraphrases with plain verb phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T673",
+    "senses": [
+     {
+      "sense": "meditation",
+      "academic": "méditation",
+      "children": "méditation",
+      "note": "Cultivation practice; méditation already familiar in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T674",
+    "senses": [
+     {
+      "sense": "imputed entity",
+      "academic": "entité imputée",
+      "children": "chose imaginée",
+      "note": "Compound reuses kalpita (imputé/imaginé) plus fixed bhāva (entité/chose)."
+     }
+    ]
+   },
+   {
+    "term_id": "T675",
+    "senses": [
+     {
+      "sense": "without a cause",
+      "academic": "sans cause",
+      "children": "sans cause",
+      "note": "Negation of fixed cause; identical phrase suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T676",
+    "senses": [
+     {
+      "sense": "reflection",
+      "academic": "reflet",
+      "children": "reflet",
+      "note": "pratibimba, mirrored image; reflet already everyday French."
+     }
+    ]
+   },
+   {
+    "term_id": "T677",
+    "senses": [
+     {
+      "sense": "true existence",
+      "academic": "existence véritable",
+      "children": "être vraiment réel",
+      "note": "satyatā in Madhyamaka; children uses plain copula phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T678",
+    "senses": [
+     {
+      "sense": "non-entity",
+      "academic": "non-entité",
+      "children": "chose inexistante",
+      "note": "Negates fixed bhāva: entité academic, chose children."
+     }
+    ]
+   },
+   {
+    "term_id": "T679",
+    "senses": [
+     {
+      "sense": "cessation",
+      "academic": "cessation",
+      "children": "arrêt",
+      "note": "nirodha, third noble truth; everyday arrêt for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T680",
+    "senses": [
+     {
+      "sense": "neither arisen nor ceased",
+      "academic": "non-né et non-cessant",
+      "children": "qui n'a ni naissance ni fin",
+      "note": "Classic Madhyamaka formula; children paraphrase stays plain."
+     }
+    ]
+   },
+   {
+    "term_id": "T681",
+    "senses": [
+     {
+      "sense": "empty",
+      "academic": "vide",
+      "children": "vide",
+      "note": "śūnya; adjective vide standard and simple in both registers."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 3992,
+  "output": 1975,
+  "thinking": 4270,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 178.78,
+ "attempt": 1
+}

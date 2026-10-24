@@ -1,0 +1,468 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T161",
+    "senses": [
+     {
+      "sense": "sūtra",
+      "academic": "sūtra",
+      "children": "escritura",
+      "note": "Sacred scripture; loanword kept in academic register, plain word for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T162",
+    "senses": [
+     {
+      "sense": "anger",
+      "academic": "ira",
+      "children": "rabia",
+      "note": "English uses same label as fixed krodha, so its renderings are reused."
+     }
+    ]
+   },
+   {
+    "term_id": "T163",
+    "senses": [
+     {
+      "sense": "primal matter of Sāṃkhya",
+      "academic": "Pradhāna",
+      "children": "materia primordial",
+      "note": "Sāṃkhya technical term; transliterated academically, descriptive phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T164",
+    "senses": [
+     {
+      "sense": "space",
+      "academic": "espacio",
+      "children": "espacio",
+      "note": "Space as element; everyday word suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T165",
+    "senses": [
+     {
+      "sense": "hell guardian",
+      "academic": "guardián del infierno",
+      "children": "guardián del infierno",
+      "note": "Guardian of the hell realms; phrase is plain enough for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T166",
+    "senses": [
+     {
+      "sense": "this life",
+      "academic": "esta vida",
+      "children": "esta vida",
+      "note": "The present lifetime; same everyday phrase in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T167",
+    "senses": [
+     {
+      "sense": "patience, tolerance",
+      "academic": "paciencia",
+      "children": "paciencia",
+      "note": "Same Sanskrit as fixed kṣānti; reuses the established rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T168",
+    "senses": [
+     {
+      "sense": "own interest",
+      "academic": "bienestar propio",
+      "children": "propio bien",
+      "note": "One's own benefit; aligned with the rendering of artha as welfare."
+     }
+    ]
+   },
+   {
+    "term_id": "T169",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Sabio",
+      "children": "Sabio",
+      "note": "The Buddha called the Sage; epithet works as a name in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T170",
+    "senses": [
+     {
+      "sense": "Buddhahood",
+      "academic": "budeidad",
+      "children": "estado de Buda",
+      "note": "The state of full awakening; abstract noun academically, plain phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T171",
+    "senses": [
+     {
+      "sense": "distraction",
+      "academic": "distracción",
+      "children": "distracción",
+      "note": "Mental wandering away from focus; everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T172",
+    "senses": [
+     {
+      "sense": "aspiration, zeal",
+      "academic": "aspiración",
+      "children": "deseo intenso",
+      "note": "Positive wish or zeal, distinct from craving."
+     }
+    ]
+   },
+   {
+    "term_id": "T173",
+    "senses": [
+     {
+      "sense": "meditative concentration",
+      "academic": "concentración meditativa",
+      "children": "concentración tranquila",
+      "note": "Deep calm meditative absorption; simplified as calm focus for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T174",
+    "senses": [
+     {
+      "sense": "true reality",
+      "academic": "realidad verdadera",
+      "children": "lo que es real de verdad",
+      "note": "Things as they truly are; plain explanatory phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T175",
+    "senses": [
+     {
+      "sense": "grief",
+      "academic": "pesar",
+      "children": "tristeza",
+      "note": "Sorrow; 'aflicción' is reserved for the fixed term kleśa."
+     }
+    ]
+   },
+   {
+    "term_id": "T176",
+    "senses": [
+     {
+      "sense": "childish person",
+      "academic": "persona infantil",
+      "children": "persona necia",
+      "note": "Immature, unwise person, the classic bāla of Buddhist literature."
+     }
+    ]
+   },
+   {
+    "term_id": "T177",
+    "senses": [
+     {
+      "sense": "welfare, own and others' aim",
+      "academic": "bienestar",
+      "children": "bien",
+      "note": "Benefit or aim, of oneself and others; matches svārtha rendering."
+     },
+     {
+      "sense": "object",
+      "academic": "objeto",
+      "children": "objeto",
+      "note": "Object of knowledge or perception; everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T178",
+    "senses": [
+     {
+      "sense": "charnel ground",
+      "academic": "campo de cadáveres",
+      "children": "lugar de los muertos",
+      "note": "Ground where corpses are left or cremated; softened phrasing for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T179",
+    "senses": [
+     {
+      "sense": "skeleton",
+      "academic": "esqueleto",
+      "children": "esqueleto",
+      "note": "The bones of the body; everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T180",
+    "senses": [
+     {
+      "sense": "impure",
+      "academic": "impuro",
+      "children": "sucio",
+      "note": "Physically or ritually unclean; simple adjective for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T181",
+    "senses": [
+     {
+      "sense": "seed",
+      "academic": "semilla",
+      "children": "semilla",
+      "note": "Seed, also used as a karmic metaphor; everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T182",
+    "senses": [
+     {
+      "sense": "selflessness",
+      "academic": "ausencia de yo",
+      "children": "sin un yo separado",
+      "note": "Absence of an independent self; ātman fixed as 'yo' is reused."
+     }
+    ]
+   },
+   {
+    "term_id": "T183",
+    "senses": [
+     {
+      "sense": "habituation",
+      "academic": "habituación",
+      "children": "acostumbrarse",
+      "note": "Becoming accustomed through repeated practice; verb phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T184",
+    "senses": [
+     {
+      "sense": "means of valid knowing",
+      "academic": "cognición válida",
+      "children": "manera confiable de conocer",
+      "note": "Reliable knowledge; standard epistemological term academically."
+     }
+    ]
+   },
+   {
+    "term_id": "T185",
+    "senses": [
+     {
+      "sense": "continuum",
+      "academic": "continuo",
+      "children": "flujo ininterrumpido",
+      "note": "Unbroken stream, often of mind; flow image for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T186",
+    "senses": [
+     {
+      "sense": "lamp",
+      "academic": "lámpara",
+      "children": "lámpara",
+      "note": "Everyday lamp, used in offering and light metaphors."
+     }
+    ]
+   },
+   {
+    "term_id": "T187",
+    "senses": [
+     {
+      "sense": "consciousness",
+      "academic": "conciencia",
+      "children": "conciencia",
+      "note": "Awareness that knows objects; everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T188",
+    "senses": [
+     {
+      "sense": "monk",
+      "academic": "monje",
+      "children": "monje",
+      "note": "Ordained Buddhist monk; everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T189",
+    "senses": [
+     {
+      "sense": "rajas, one of the three guṇas",
+      "academic": "rajas",
+      "children": "inquietud",
+      "note": "Guṇa of agitation and passion; transliterated academically, described for children."
+     },
+     {
+      "sense": "atom",
+      "academic": "átomo",
+      "children": "partícula diminuta",
+      "note": "Smallest indivisible particle in Abhidharma cosmology."
+     }
+    ]
+   },
+   {
+    "term_id": "T190",
+    "senses": [
+     {
+      "sense": "coarse",
+      "academic": "grosero",
+      "children": "áspero",
+      "note": "Coarse as opposed to subtle; texture word for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T191",
+    "senses": [
+     {
+      "sense": "basis",
+      "academic": "base",
+      "children": "apoyo",
+      "note": "That on which something rests or depends."
+     }
+    ]
+   },
+   {
+    "term_id": "T192",
+    "senses": [
+     {
+      "sense": "goddess",
+      "academic": "diosa",
+      "children": "diosa",
+      "note": "Female deity; everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T193",
+    "senses": [
+     {
+      "sense": "chief editor-translator",
+      "academic": "traductor-editor jefe",
+      "children": "traductor-editor jefe",
+      "note": "Translator who finalized the Tibetan edition; English keeps one label, so one rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T194",
+    "senses": [
+     {
+      "sense": "child of the Sugata",
+      "academic": "hijo del Sugata",
+      "children": "hijo del Bien Avenido",
+      "note": "Epithet of bodhisattvas; Sugata rendered descriptively for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T195",
+    "senses": [
+     {
+      "sense": "leisure and endowment",
+      "academic": "ocio y dotación",
+      "children": "vida libre y afortunada",
+      "note": "The free and endowed precious human life; plain description for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T196",
+    "senses": [
+     {
+      "sense": "plantain tree",
+      "academic": "platanero",
+      "children": "bananero",
+      "note": "Banana or plantain tree, the classic simile for lack of core."
+     }
+    ]
+   },
+   {
+    "term_id": "T197",
+    "senses": [
+     {
+      "sense": "aspiring bodhicitta",
+      "academic": "bodhicitta de aspiración",
+      "children": "mente que desea despertar",
+      "note": "Aspiring form of bodhicitta; reuses the fixed renderings of bodhicitta."
+     }
+    ]
+   },
+   {
+    "term_id": "T198",
+    "senses": [
+     {
+      "sense": "offering",
+      "academic": "ofrenda",
+      "children": "ofrenda",
+      "note": "Ritual offering or veneration; everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T199",
+    "senses": [
+     {
+      "sense": "chapter 2 title",
+      "academic": "Confesión de las malas acciones",
+      "children": "Confesar las acciones dañinas",
+      "note": "Chapter title; reuses the fixed renderings of pāpa as misdeed."
+     }
+    ]
+   },
+   {
+    "term_id": "T200",
+    "senses": [
+     {
+      "sense": "sacred image",
+      "academic": "imagen",
+      "children": "estatua",
+      "note": "Statue or image of the Buddha; concrete word for children."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 5537,
+  "output": 2474,
+  "thinking": 5384,
+  "cache_read": 256,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 88.18,
+ "attempt": 1
+}

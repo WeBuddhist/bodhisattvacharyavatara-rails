@@ -1,0 +1,468 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T161",
+    "senses": [
+     {
+      "sense": "sūtra",
+      "academic": "sutra",
+      "children": "kitabu cha mafundisho",
+      "note": "Discourse scripture of the Buddha; loan for scholars, plain phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T162",
+    "senses": [
+     {
+      "sense": "anger",
+      "academic": "hasira",
+      "children": "hasira",
+      "note": "Same English as fixed krodha entry, so same Swahili rendering reused."
+     }
+    ]
+   },
+   {
+    "term_id": "T163",
+    "senses": [
+     {
+      "sense": "primal matter of Sāṃkhya",
+      "academic": "Pradhana",
+      "children": "dutu ya mwanzo",
+      "note": "Sāṃkhya philosophical term kept as loan; children get plain descriptive phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T164",
+    "senses": [
+     {
+      "sense": "space",
+      "academic": "anga",
+      "children": "anga",
+      "note": "Open space or sky; everyday Swahili word works in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T165",
+    "senses": [
+     {
+      "sense": "hell guardian",
+      "academic": "mlinzi wa jehanamu",
+      "children": "mlinzi wa jehanamu",
+      "note": "Reuses fixed rendering jehanamu for hell; phrase already simple."
+     }
+    ]
+   },
+   {
+    "term_id": "T166",
+    "senses": [
+     {
+      "sense": "this life",
+      "academic": "maisha haya",
+      "children": "maisha haya",
+      "note": "Present lifetime, as opposed to future rebirths."
+     }
+    ]
+   },
+   {
+    "term_id": "T167",
+    "senses": [
+     {
+      "sense": "patience, tolerance",
+      "academic": "uvumilivu",
+      "children": "subira",
+      "note": "Matches fixed kṣānti entry exactly in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T168",
+    "senses": [
+     {
+      "sense": "own interest",
+      "academic": "maslahi binafsi",
+      "children": "mema yake mwenyewe",
+      "note": "Compound of artha; reuses maslahi and mema from T177."
+     }
+    ]
+   },
+   {
+    "term_id": "T169",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Muni",
+      "children": "Mwanahakima",
+      "note": "Title of the Buddha as the silent sage, as in Śākyamuni."
+     }
+    ]
+   },
+   {
+    "term_id": "T170",
+    "senses": [
+     {
+      "sense": "Buddhahood",
+      "academic": "ubuddha",
+      "children": "hali ya kuwa Buddha",
+      "note": "Abstract u- noun for scholars; plain state phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T171",
+    "senses": [
+     {
+      "sense": "distraction",
+      "academic": "utawanyiko wa akili",
+      "children": "kutawanyika kwa mawazo",
+      "note": "Scattering of the mind away from its object of focus."
+     }
+    ]
+   },
+   {
+    "term_id": "T172",
+    "senses": [
+     {
+      "sense": "aspiration, zeal",
+      "academic": "azma",
+      "children": "tamaa kubwa",
+      "note": "Wholesome eagerness and strong wish to practice the Dharma."
+     }
+    ]
+   },
+   {
+    "term_id": "T173",
+    "senses": [
+     {
+      "sense": "meditative concentration",
+      "academic": "umakini wa tafakuri",
+      "children": "kuzingatia kwa utulivu",
+      "note": "Focused absorption of meditation; calm steady attention for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T174",
+    "senses": [
+     {
+      "sense": "true reality",
+      "academic": "ukweli halisi",
+      "children": "kilicho cha kweli",
+      "note": "Things as they truly are, the ultimate nature of reality."
+     }
+    ]
+   },
+   {
+    "term_id": "T175",
+    "senses": [
+     {
+      "sense": "grief",
+      "academic": "huzuni",
+      "children": "huzuni",
+      "note": "Deep sorrow; same everyday word suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T176",
+    "senses": [
+     {
+      "sense": "childish person",
+      "academic": "mjinga",
+      "children": "mtu mjinga",
+      "note": "Immature, unwise ordinary person; not a literal child."
+     }
+    ]
+   },
+   {
+    "term_id": "T177",
+    "senses": [
+     {
+      "sense": "welfare, own and others' aim",
+      "academic": "maslahi",
+      "children": "mema",
+      "note": "Benefit or aim; base of compound svārtha (T168)."
+     },
+     {
+      "sense": "object",
+      "academic": "somo",
+      "children": "kitu",
+      "note": "Object of knowledge or perception, distinct from entity kitu sense."
+     }
+    ]
+   },
+   {
+    "term_id": "T178",
+    "senses": [
+     {
+      "sense": "charnel ground",
+      "academic": "kiwanja cha maiti",
+      "children": "mahali pa wafu",
+      "note": "Open ground where corpses are left, used for meditation."
+     }
+    ]
+   },
+   {
+    "term_id": "T179",
+    "senses": [
+     {
+      "sense": "skeleton",
+      "academic": "mifupa",
+      "children": "mifupa",
+      "note": "Framework of bones; everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T180",
+    "senses": [
+     {
+      "sense": "impure",
+      "academic": "najisi",
+      "children": "chafu",
+      "note": "Adjective; najisi is the technical term, chafu everyday."
+     }
+    ]
+   },
+   {
+    "term_id": "T181",
+    "senses": [
+     {
+      "sense": "seed",
+      "academic": "mbegu",
+      "children": "mbegu",
+      "note": "Literal seed, also metaphor for karmic potential."
+     }
+    ]
+   },
+   {
+    "term_id": "T182",
+    "senses": [
+     {
+      "sense": "selflessness",
+      "academic": "utovu wa nafsi",
+      "children": "kutokuwepo kwa nafsi tofauti",
+      "note": "Absence of an independent self; reuses fixed nafsi for ātman."
+     }
+    ]
+   },
+   {
+    "term_id": "T183",
+    "senses": [
+     {
+      "sense": "habituation",
+      "academic": "uzoevu",
+      "children": "kuzoea",
+      "note": "Becoming accustomed through repeated practice or familiarity."
+     }
+    ]
+   },
+   {
+    "term_id": "T184",
+    "senses": [
+     {
+      "sense": "means of valid knowing",
+      "academic": "utambuzi sahihi",
+      "children": "njia ya kuaminika ya kujua",
+      "note": "Epistemological term for reliable cognition such as perception or inference."
+     }
+    ]
+   },
+   {
+    "term_id": "T185",
+    "senses": [
+     {
+      "sense": "continuum",
+      "academic": "mfululizo",
+      "children": "mtiririko usiokatizwa",
+      "note": "Unbroken stream, especially the mind-stream across lifetimes."
+     }
+    ]
+   },
+   {
+    "term_id": "T186",
+    "senses": [
+     {
+      "sense": "lamp",
+      "academic": "taa",
+      "children": "taa",
+      "note": "Everyday word; symbol of wisdom dispelling darkness."
+     }
+    ]
+   },
+   {
+    "term_id": "T187",
+    "senses": [
+     {
+      "sense": "consciousness",
+      "academic": "fahamu",
+      "children": "kufahamu",
+      "note": "Awareness that cognizes objects; one of the five aggregates."
+     }
+    ]
+   },
+   {
+    "term_id": "T188",
+    "senses": [
+     {
+      "sense": "monk",
+      "academic": "mmonaji",
+      "children": "mmonaji",
+      "note": "Ordained Buddhist monk; standard Swahili term, no fixed loan exists."
+     }
+    ]
+   },
+   {
+    "term_id": "T189",
+    "senses": [
+     {
+      "sense": "rajas, one of the three guṇas",
+      "academic": "Rajas",
+      "children": "kukosa utulivu",
+      "note": "Sāṃkhya quality of activity and agitation; loan kept for scholars."
+     },
+     {
+      "sense": "atom",
+      "academic": "atomu",
+      "children": "chembe ndogo kabisa",
+      "note": "Smallest indivisible particle of matter in Abhidharma analysis."
+     }
+    ]
+   },
+   {
+    "term_id": "T190",
+    "senses": [
+     {
+      "sense": "coarse",
+      "academic": "ghafi",
+      "children": "isiyo laini",
+      "note": "Coarse or gross, opposite of subtle, in analysis of matter and mind."
+     }
+    ]
+   },
+   {
+    "term_id": "T191",
+    "senses": [
+     {
+      "sense": "basis",
+      "academic": "msingi",
+      "children": "tegemeo",
+      "note": "Foundation or support on which something depends, such as the body."
+     }
+    ]
+   },
+   {
+    "term_id": "T192",
+    "senses": [
+     {
+      "sense": "goddess",
+      "academic": "mungu wa kike",
+      "children": "mungu wa kike",
+      "note": "Feminine form built from fixed mungu for god."
+     }
+    ]
+   },
+   {
+    "term_id": "T193",
+    "senses": [
+     {
+      "sense": "chief editor-translator",
+      "academic": "mhariri-mfasiri mkuu",
+      "children": "mhariri na mfasiri mkuu",
+      "note": "Colophon role of the great reviser-translator of the Tibetan edition."
+     }
+    ]
+   },
+   {
+    "term_id": "T194",
+    "senses": [
+     {
+      "sense": "child of the Sugata",
+      "academic": "mwana wa Sugata",
+      "children": "mwana wa Aliyeenda Vema",
+      "note": "Epithet of bodhisattvas as spiritual children of the Buddha."
+     }
+    ]
+   },
+   {
+    "term_id": "T195",
+    "senses": [
+     {
+      "sense": "leisure and endowment",
+      "academic": "nafasi na vipawa",
+      "children": "maisha ya uhuru na bahati",
+      "note": "The freedoms and advantages of a precious human rebirth."
+     }
+    ]
+   },
+   {
+    "term_id": "T196",
+    "senses": [
+     {
+      "sense": "plantain tree",
+      "academic": "mgomba",
+      "children": "mti wa ndizi",
+      "note": "Banana plant, image of lacking a solid core when peeled apart."
+     }
+    ]
+   },
+   {
+    "term_id": "T197",
+    "senses": [
+     {
+      "sense": "aspiring bodhicitta",
+      "academic": "bodhicitta ya kutamani",
+      "children": "akili inayotamani uamsho",
+      "note": "Compound reusing fixed bodhicitta and akili ya uamsho renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T198",
+    "senses": [
+     {
+      "sense": "offering",
+      "academic": "sadaka",
+      "children": "sadaka",
+      "note": "Established Swahili word for religious offering; fits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T199",
+    "senses": [
+     {
+      "sense": "chapter 2 title",
+      "academic": "Kukiri Dhambi",
+      "children": "Kukiri Matendo ya Madhara",
+      "note": "Chapter title reusing fixed dhambi and tendo la madhara for misdeed."
+     }
+    ]
+   },
+   {
+    "term_id": "T200",
+    "senses": [
+     {
+      "sense": "sacred image",
+      "academic": "sanamu",
+      "children": "sanamu",
+      "note": "Statue or image of the Buddha; everyday established word."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 5628,
+  "output": 2536,
+  "thinking": 6614,
+  "cache_read": 256,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 161.91,
+ "attempt": 1
+}

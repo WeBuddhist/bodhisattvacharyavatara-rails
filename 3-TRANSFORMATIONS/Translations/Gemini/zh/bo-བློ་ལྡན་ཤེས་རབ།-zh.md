@@ -1,5 +1,5 @@
 ---
-title: 入菩薩行論
+title: 入菩薩行論 — AI 翻譯
 track: Gemini zero-shot (chinese)
 title_original: བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ།
 title_source: established Chinese title, set by hand 2026-10-07
@@ -22,6 +22,7 @@ source_language: tibetan
 target_language: chinese
 generator: gemini-3.1-pro-preview
 endpoint: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-pro-preview:generateContent
+ai_generated: true
 model: gemini-3.1-pro-preview
 thinking: default
 temperature: default
@@ -33,7 +34,7 @@ glossary: none
 line_parity_failures: 0
 style_instruction: "This is a section heading of the Tibetan Bodhicaryāvatāra. Translate it into modern Chinese in Traditional characters as a short heading: one line only, no sentence, no commentary, no quotation marks. The heading has no number: do not add any numeral or numbering. Use established Chinese Buddhist terms."
 rails_used: none
-generated: 2026-10-07
+generated: 2026-10-23
 blocks_translated: 927
 blocks_total: 927
 headings_translated: 13
@@ -41,7 +42,7 @@ note: Machine baseline — not a rails-governed translation. Every line below is
 status: draft
 ---
 
-# 入菩薩行論 ^0
+# 入菩薩行論 — AI 翻譯 ^0
 
 ## 序分 ^I-0
 

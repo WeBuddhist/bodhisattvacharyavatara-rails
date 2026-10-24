@@ -1,0 +1,87 @@
+{
+ "parsed": {
+  "objections": [
+   {
+    "term_id": "T244",
+    "sense": "adventitious",
+    "field": "academic",
+    "proposed": "adventicio",
+    "reason": "'advenedizo' means upstart or social climber in Spanish; 'adventicio' is the established term for adventitious (stains, defilements)."
+   },
+   {
+    "term_id": "T260",
+    "sense": "aspiration",
+    "field": "children",
+    "proposed": "ganas firmes",
+    "reason": "'deseo fuerte' is the children's rendering of craving (T081) and sounds negative; match T172."
+   },
+   {
+    "term_id": "T268",
+    "sense": "discursive thought",
+    "field": "children",
+    "proposed": "pensamiento saltarín",
+    "reason": "Identical to T133 'pensamiento inquieto' (rnam rtog); vitarka needs its own wording (thought jumping from thing to thing)."
+   },
+   {
+    "term_id": "T268",
+    "sense": "conceptual thought",
+    "field": "children",
+    "proposed": "pensamiento inquieto",
+    "reason": "'idea' is the content, not the act of conceptualising; this is the same word as T133, which uses 'pensamiento inquieto'."
+   },
+   {
+    "term_id": "T270",
+    "sense": "friend",
+    "field": "children",
+    "proposed": "persona querida",
+    "reason": "'amigo' is already the children's rendering of mitra (T269); priya means a loved one, as in the academic field."
+   },
+   {
+    "term_id": "T277",
+    "sense": "grasping at a self",
+    "field": "academic",
+    "proposed": "aferramiento a un yo",
+    "reason": "'aprehensión' suggests fear in Spanish and is also used for ālambana (T286); 'aferramiento' renders 'dzin pa (grasping)."
+   },
+   {
+    "term_id": "T278",
+    "sense": "gain and honor",
+    "field": "children",
+    "proposed": "ganancia y honor",
+    "reason": "'respeto' differs from T096 satkāra, whose children rendering is 'honor'."
+   },
+   {
+    "term_id": "T284",
+    "sense": "latent tendency",
+    "field": "academic",
+    "proposed": "impronta",
+    "reason": "vāsanā (bag chags) is established in Spanish as 'impronta'; 'tendencia latente' suggests anusaya, the dormant affliction."
+   },
+   {
+    "term_id": "T300",
+    "sense": "dedication",
+    "field": "academic",
+    "proposed": "dedicatoria",
+    "reason": "'dedicación' means commitment or devotion in Spanish; the dedication of merit is established as 'dedicatoria'."
+   },
+   {
+    "term_id": "T323",
+    "sense": "Sugata",
+    "field": "children",
+    "proposed": "el que se fue bien",
+    "reason": "'el Bien Llegado' does not render Well-Gone One; align with T052 and T194."
+   },
+   {
+    "term_id": "T328",
+    "sense": "supreme bodhisattva",
+    "field": "academic",
+    "proposed": "bodhisattva supremo",
+    "reason": "'ser supremo' reads as 'the Supreme Being' (God) in Spanish; the sense is the supreme bodhisattva (sems dpa' mchog)."
+   }
+  ]
+ },
+ "tokens": {},
+ "model": "claude-sonnet-5-5",
+ "seconds": null,
+ "attempt": 1
+}

@@ -1,0 +1,151 @@
+{
+ "objections": [
+  {
+   "term_id": "T366",
+   "sense": "level of the children of the Victors",
+   "field": "academic",
+   "proposed": "terre des enfants des Victorieux",
+   "reason": "Tibetan sa is bhūmi, rendered 'terre' in T155; 'niveau' is inconsistent (children field already uses 'étape' as in T155)."
+  },
+  {
+   "term_id": "T367",
+   "sense": "generation of bodhicitta",
+   "field": "academic",
+   "proposed": "génération de la bodhicitta",
+   "reason": "Gender inconsistent with T474 ('de la bodhicitta'), the established usage."
+  },
+  {
+   "term_id": "T370",
+   "sense": "possessions",
+   "field": "children",
+   "proposed": "ce qu'on possède",
+   "reason": "'bien' is used for welfare/good (T064, T099, T177); here it means possessions and would be confused."
+  },
+  {
+   "term_id": "T377",
+   "sense": "realm of sentient beings",
+   "field": "children",
+   "proposed": "royaume des êtres vivants",
+   "reason": "dhātu is 'royaume' in children field at T317; 'monde' is used for loka (T013)."
+  },
+  {
+   "term_id": "T386",
+   "sense": "training",
+   "field": "children",
+   "proposed": "entraînement",
+   "reason": "Same śikṣā is 'entraînement' in T046 children; 'apprentissage' is inconsistent."
+  },
+  {
+   "term_id": "T392",
+   "sense": "Avīci hell",
+   "field": "children",
+   "proposed": "Avitchi",
+   "reason": "Same name rendered 'Avitchi' in T093 children; the macron form is not child-friendly and inconsistent."
+  },
+  {
+   "term_id": "T395",
+   "sense": "hell guardian",
+   "field": "academic",
+   "proposed": "gardien des enfers",
+   "reason": "Same sense as T165, which has 'gardien des enfers' (plural)."
+  },
+  {
+   "term_id": "T395",
+   "sense": "hell guardian",
+   "field": "children",
+   "proposed": "gardien des enfers",
+   "reason": "Same sense as T165, which has 'gardien des enfers' (plural)."
+  },
+  {
+   "term_id": "T403",
+   "sense": "Brahmā",
+   "field": "children",
+   "proposed": "Brahma",
+   "reason": "Children's names drop diacritics (T322 'Brahma', T73 'Manjushri'); keep consistent."
+  },
+  {
+   "term_id": "T242",
+   "sense": "conceit",
+   "field": "academic",
+   "proposed": "hauteur",
+   "reason": "'arrogance' is already T419 (rgyags); English academic here is 'haughtiness', so 'hauteur' keeps mada/dregs pa distinct."
+  },
+  {
+   "term_id": "T433",
+   "sense": "compassionate one",
+   "field": "academic",
+   "proposed": "personne compatissante",
+   "reason": "'le Compatissant' is the epithet of a buddha (T441, kṛpālu); dayānvita is an ordinary compassionate person."
+  },
+  {
+   "term_id": "T460",
+   "sense": "heedlessness",
+   "field": "academic",
+   "proposed": "manque de vigilance",
+   "reason": "'insouciance' means carefree lightness, not heedlessness; same term pramāda is 'manque de vigilance' in T141."
+  },
+  {
+   "term_id": "T460",
+   "sense": "heedlessness",
+   "field": "children",
+   "proposed": "imprudence",
+   "reason": "Align with T141 pramāda children (opposite of apramāda 'prudence', T394); 'négligence' is a different notion."
+  },
+  {
+   "term_id": "T464",
+   "sense": "perversity",
+   "field": "academic",
+   "proposed": "inversion",
+   "reason": "viparyaya is established in French as 'inversion'/erroneous view; 'perversion' wrongly suggests moral or sexual depravity."
+  },
+  {
+   "term_id": "T468",
+   "sense": "other life",
+   "field": "academic",
+   "proposed": "autre vie",
+   "reason": "Lifetime is 'vie' (T131, T166 'vie présente'); 'existence' is reserved for bhava (T086)."
+  },
+  {
+   "term_id": "T480",
+   "sense": "praise",
+   "field": "children",
+   "proposed": "compliments",
+   "reason": "Same word (bstod) is 'compliments' in T482 and T552 children; 'louange' is harder for ages 8-12 and inconsistent."
+  },
+  {
+   "term_id": "T400",
+   "sense": "mind of renunciation",
+   "field": "academic",
+   "proposed": "esprit de renonciation",
+   "reason": "Renunciation is 'renonciation' in T456; 'renoncement' is also drafted for relinquishment (T517, T518), causing a clash."
+  },
+  {
+   "term_id": "T432",
+   "sense": "apprehension, fear of wrongdoing",
+   "field": "academic",
+   "proposed": "crainte",
+   "reason": "'appréhension' is the established rendering of dmigs pa (T286, T623, T633, T691); bhaya (fear of wrongdoing) needs a different word."
+  },
+  {
+   "term_id": "T371",
+   "sense": "wish-fulfilling jewel",
+   "field": "academic",
+   "proposed": "joyau qui exauce les souhaits",
+   "reason": "Same cintāmaṇi as T625; 'vœux' also means 'vow' (T305). Align both on 'souhaits'."
+  },
+  {
+   "term_id": "T371",
+   "sense": "wish-fulfilling jewel",
+   "field": "children",
+   "proposed": "joyau qui exauce les souhaits",
+   "reason": "Same cintāmaṇi as T625; align on 'souhaits' ('vœux' also means vow)."
+  },
+  {
+   "term_id": "T440",
+   "sense": "wish-fulfilling",
+   "field": "academic",
+   "proposed": "qui exauce les souhaits",
+   "reason": "'vœux' also means 'vow'; 'souhaits' is used for yid bzhin in T625 and the children field here."
+  }
+ ]
+}

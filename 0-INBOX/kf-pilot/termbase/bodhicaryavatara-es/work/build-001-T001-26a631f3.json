@@ -1,0 +1,462 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T001",
+    "senses": [
+     {
+      "sense": "suffering",
+      "academic": "sufrimiento",
+      "children": "sufrimiento",
+      "note": "Standard Buddhist term; the everyday word serves both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T002",
+    "senses": [
+     {
+      "sense": "sentient beings",
+      "academic": "ser sintiente",
+      "children": "ser vivo",
+      "note": "Established Spanish Buddhist rendering; children get a simpler everyday equivalent."
+     }
+    ]
+   },
+   {
+    "term_id": "T003",
+    "senses": [
+     {
+      "sense": "mind",
+      "academic": "mente",
+      "children": "mente",
+      "note": "Same word in both registers, matching English."
+     }
+    ]
+   },
+   {
+    "term_id": "T004",
+    "senses": [
+     {
+      "sense": "affliction",
+      "academic": "aflicción",
+      "children": "emoción que perturba",
+      "note": "Aflicción is the established Spanish rendering of kleśa; children get a plain phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T005",
+    "senses": [
+     {
+      "sense": "living beings of the world",
+      "academic": "ser errante",
+      "children": "ser",
+      "note": "Jagat as beings wandering through saṃsāra; children get the plainest word."
+     }
+    ]
+   },
+   {
+    "term_id": "T006",
+    "senses": [
+     {
+      "sense": "body",
+      "academic": "cuerpo",
+      "children": "cuerpo",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T007",
+    "senses": [
+     {
+      "sense": "merit",
+      "academic": "mérito",
+      "children": "bondad acumulada",
+      "note": "Mérito is standard for puṇya; children's phrase keeps the store-of-goodness idea."
+     }
+    ]
+   },
+   {
+    "term_id": "T008",
+    "senses": [
+     {
+      "sense": "Buddha",
+      "academic": "Buda",
+      "children": "Buda",
+      "note": "Standard Spanish form of the name."
+     }
+    ]
+   },
+   {
+    "term_id": "T009",
+    "senses": [
+     {
+      "sense": "good quality",
+      "academic": "cualidad positiva",
+      "children": "buena cualidad",
+      "note": "Guṇa as positive quality; children get the simplest wording."
+     }
+    ]
+   },
+   {
+    "term_id": "T010",
+    "senses": [
+     {
+      "sense": "bodhisattva",
+      "academic": "bodhisattva",
+      "children": "héroe del despertar",
+      "note": "Loanword kept for scholars; children's phrase matches the English rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T011",
+    "senses": [
+     {
+      "sense": "misdeed",
+      "academic": "mala acción",
+      "children": "acción dañina",
+      "note": "Avoids 'pecado', a Christian term; children get 'harmful action'."
+     }
+    ]
+   },
+   {
+    "term_id": "T012",
+    "senses": [
+     {
+      "sense": "the awakening mind",
+      "academic": "bodhicitta",
+      "children": "mente del despertar",
+      "note": "Technical loan kept academically; children get a plain calque."
+     }
+    ]
+   },
+   {
+    "term_id": "T013",
+    "senses": [
+     {
+      "sense": "world",
+      "academic": "mundo",
+      "children": "mundo",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T014",
+    "senses": [
+     {
+      "sense": "virtue",
+      "academic": "virtud",
+      "children": "buena acción",
+      "note": "Kuśala as virtue; children get 'good deed'."
+     }
+    ]
+   },
+   {
+    "term_id": "T015",
+    "senses": [
+     {
+      "sense": "happiness",
+      "academic": "felicidad",
+      "children": "felicidad",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T016",
+    "senses": [
+     {
+      "sense": "mind",
+      "academic": "mente",
+      "children": "mente",
+      "note": "Manas also rendered mente, mirroring the single English rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T017",
+    "senses": [
+     {
+      "sense": "cycle of rebirth, saṃsāra",
+      "academic": "saṃsāra",
+      "children": "ciclo de renacimientos",
+      "note": "IAST loan kept for scholars; children get an explanatory phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T018",
+    "senses": [
+     {
+      "sense": "hell",
+      "academic": "infierno",
+      "children": "infierno",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T019",
+    "senses": [
+     {
+      "sense": "the Buddha's teaching",
+      "academic": "Dharma",
+      "children": "enseñanzas",
+      "note": "Capitalized loan for the teaching; children get the plain word."
+     },
+     {
+      "sense": "things as such (chapter 9)",
+      "academic": "fenómeno",
+      "children": "cosa que aparece",
+      "note": "Philosophical sense of dharma; children get a simple descriptive phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T020",
+    "senses": [
+     {
+      "sense": "awakening",
+      "academic": "despertar",
+      "children": "despertar",
+      "note": "Despertar preferred over iluminación for precision with bodhi."
+     }
+    ]
+   },
+   {
+    "term_id": "T021",
+    "senses": [
+     {
+      "sense": "pride",
+      "academic": "orgullo",
+      "children": "orgullo",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T022",
+    "senses": [
+     {
+      "sense": "self",
+      "academic": "yo",
+      "children": "yo",
+      "note": "Yo is the standard Spanish rendering of ātman (cf. no-yo for anātman)."
+     }
+    ]
+   },
+   {
+    "term_id": "T023",
+    "senses": [
+     {
+      "sense": "condition",
+      "academic": "condición",
+      "children": "circunstancia",
+      "note": "Children's rendering matches the English choice of 'circumstance'."
+     }
+    ]
+   },
+   {
+    "term_id": "T024",
+    "senses": [
+     {
+      "sense": "result of action",
+      "academic": "resultado",
+      "children": "resultado",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T025",
+    "senses": [
+     {
+      "sense": "misdeed",
+      "academic": "mala acción",
+      "children": "acción dañina",
+      "note": "Identical to T011; rendering reused."
+     }
+    ]
+   },
+   {
+    "term_id": "T026",
+    "senses": [
+     {
+      "sense": "cause",
+      "academic": "causa",
+      "children": "causa",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T027",
+    "senses": [
+     {
+      "sense": "title of the work",
+      "academic": "Entrada en el camino del bodhisattva",
+      "children": "Entrada en el camino del héroe del despertar",
+      "note": "Children's title reuses 'héroe del despertar' from the bodhisattva entry."
+     }
+    ]
+   },
+   {
+    "term_id": "T028",
+    "senses": [
+     {
+      "sense": "attachment, clinging",
+      "academic": "apego",
+      "children": "aferrarse",
+      "note": "Apego is the established rendering; children get a plain infinitive."
+     }
+    ]
+   },
+   {
+    "term_id": "T029",
+    "senses": [
+     {
+      "sense": "entity",
+      "academic": "entidad",
+      "children": "cosa",
+      "note": "Technical term for scholars; children get the everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T030",
+    "senses": [
+     {
+      "sense": "anger",
+      "academic": "ira",
+      "children": "rabia",
+      "note": "Ira for krodha academically; rabia is the word children actually use."
+     }
+    ]
+   },
+   {
+    "term_id": "T031",
+    "senses": [
+     {
+      "sense": "illusion",
+      "academic": "ilusión",
+      "children": "ilusión",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T032",
+    "senses": [
+     {
+      "sense": "god",
+      "academic": "dios",
+      "children": "dios",
+      "note": "Deva rendered dios; everyday word for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T033",
+    "senses": [
+     {
+      "sense": "happiness",
+      "academic": "felicidad",
+      "children": "felicidad",
+      "note": "Identical to T015; rendering reused."
+     }
+    ]
+   },
+   {
+    "term_id": "T034",
+    "senses": [
+     {
+      "sense": "epithet of the Buddhas",
+      "academic": "Vencedor",
+      "children": "Victorioso",
+      "note": "Jina as 'the one who conquered'; children get the adjectival form."
+     }
+    ]
+   },
+   {
+    "term_id": "T035",
+    "senses": [
+     {
+      "sense": "hatred",
+      "academic": "odio",
+      "children": "odio",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T036",
+    "senses": [
+     {
+      "sense": "embodied being",
+      "academic": "ser encarnado",
+      "children": "ser con cuerpo",
+      "note": "Children get a plain paraphrase of 'being with a body'."
+     }
+    ]
+   },
+   {
+    "term_id": "T037",
+    "senses": [
+     {
+      "sense": "patience",
+      "academic": "paciencia",
+      "children": "paciencia",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T038",
+    "senses": [
+     {
+      "sense": "delusion",
+      "academic": "ofuscación",
+      "children": "confusión",
+      "note": "Ofuscación is the established Spanish Buddhist rendering of moha."
+     }
+    ]
+   },
+   {
+    "term_id": "T039",
+    "senses": [
+     {
+      "sense": "eon, long age",
+      "academic": "eón",
+      "children": "edad muy larga",
+      "note": "Eón is standard Spanish; children get a plain description of the vast age."
+     }
+    ]
+   },
+   {
+    "term_id": "T040",
+    "senses": [
+     {
+      "sense": "unhappy rebirth state",
+      "academic": "reino inferior",
+      "children": "reino infeliz",
+      "note": "Lower rebirth realms of saṃsāra; children get 'unhappy realm'."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4102,
+  "output": 2322,
+  "thinking": 4805,
+  "cache_read": 0,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 164.35,
+ "attempt": 1
+}

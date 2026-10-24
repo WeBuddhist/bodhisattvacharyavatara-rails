@@ -1,0 +1,247 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T722",
+    "senses": [
+     {
+      "sense": "nun",
+      "academic": "nonne",
+      "children": "nonne",
+      "note": "Standard French term for an ordained Buddhist nun (bhikṣuṇī)."
+     }
+    ]
+   },
+   {
+    "term_id": "T723",
+    "senses": [
+     {
+      "sense": "alms",
+      "academic": "aumône",
+      "children": "nourriture offerte",
+      "note": "Food collected by monastics; children's phrase says food given as a gift."
+     }
+    ]
+   },
+   {
+    "term_id": "T724",
+    "senses": [
+     {
+      "sense": "hardship",
+      "academic": "austérité",
+      "children": "épreuve difficile",
+      "note": "Established French term for duṣkaracaryā, difficult ascetic practice."
+     }
+    ]
+   },
+   {
+    "term_id": "T725",
+    "senses": [
+     {
+      "sense": "welfare of others",
+      "academic": "bien d'autrui",
+      "children": "bien des autres",
+      "note": "Academic uses autrui; children's uses everyday words with same meaning."
+     }
+    ]
+   },
+   {
+    "term_id": "T726",
+    "senses": [
+     {
+      "sense": "solitary buddha",
+      "academic": "pratyekabuddha",
+      "children": "celui qui s'éveille tout seul",
+      "note": "Sanskrit term kept academically; children phrase conveys awakening alone."
+     }
+    ]
+   },
+   {
+    "term_id": "T727",
+    "senses": [
+     {
+      "sense": "first bodhisattva ground",
+      "academic": "Terre de joie parfaite",
+      "children": "terre de joie parfaite",
+      "note": "First of the ten grounds; French renders bhūmi as terre."
+     }
+    ]
+   },
+   {
+    "term_id": "T728",
+    "senses": [
+     {
+      "sense": "place of seclusion",
+      "academic": "lieu solitaire",
+      "children": "endroit calme",
+      "note": "Academic stresses solitude; children's phrase keeps quiet, undisturbed sense."
+     }
+    ]
+   },
+   {
+    "term_id": "T729",
+    "senses": [
+     {
+      "sense": "Saṅgha of bodhisattvas",
+      "academic": "Saṅgha des bodhisattvas",
+      "children": "communauté des héros de l'éveil",
+      "note": "Children's version reuses fixed children's rendering of bodhisattva."
+     }
+    ]
+   },
+   {
+    "term_id": "T730",
+    "senses": [
+     {
+      "sense": "teaching (the Buddha's doctrine)",
+      "academic": "enseignement",
+      "children": "enseignement du Bouddha",
+      "note": "śāsana as the Buddha's doctrine; children's version makes the owner explicit."
+     }
+    ]
+   },
+   {
+    "term_id": "T731",
+    "senses": [
+     {
+      "sense": "virtuous intellect",
+      "academic": "intellect vertueux",
+      "children": "esprit qui pense bien",
+      "note": "A mind inclined to virtue; children phrase keeps good-thinking idea."
+     }
+    ]
+   },
+   {
+    "term_id": "T732",
+    "senses": [
+     {
+      "sense": "spiritual friend",
+      "academic": "ami spirituel",
+      "children": "bon ami",
+      "note": "Standard French rendering of kalyāṇamitra; children uses everyday phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T733",
+    "senses": [
+     {
+      "sense": "name of the author",
+      "academic": "Śāntideva",
+      "children": "Shantideva",
+      "note": "Proper name; children spelling drops diacritics for easy reading."
+     }
+    ]
+   },
+   {
+    "term_id": "T734",
+    "senses": [
+     {
+      "sense": "Sarvajñādeva",
+      "academic": "Sarvajñādeva",
+      "children": "Sarvajnadeva",
+      "note": "Proper name; children version without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T735",
+    "senses": [
+     {
+      "sense": "Tibetan translator-editor",
+      "academic": "Bandé Paltsek",
+      "children": "Bandé Paltsek",
+      "note": "Tibetan proper name in standard French transcription."
+     }
+    ]
+   },
+   {
+    "term_id": "T736",
+    "senses": [
+     {
+      "sense": "place name",
+      "academic": "Cachemire",
+      "children": "Cachemire",
+      "note": "Standard French form of the place name Kashmir."
+     }
+    ]
+   },
+   {
+    "term_id": "T737",
+    "senses": [
+     {
+      "sense": "Dharmaśrībhadra (name)",
+      "academic": "Dharmaśrībhadra",
+      "children": "Dharmashribhadra",
+      "note": "Proper name; children spelling simplified without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T738",
+    "senses": [
+     {
+      "sense": "translator monk",
+      "academic": "Rinchen Zangpo",
+      "children": "Rinchen Zangpo",
+      "note": "Tibetan proper name kept in its usual Western form."
+     }
+    ]
+   },
+   {
+    "term_id": "T739",
+    "senses": [
+     {
+      "sense": "Śākya Lodrö",
+      "academic": "Śākya Lodrö",
+      "children": "Shakya Lodro",
+      "note": "Proper name; children version without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T740",
+    "senses": [
+     {
+      "sense": "central region",
+      "academic": "région centrale",
+      "children": "pays central",
+      "note": "Refers to the central land of Buddhist India; children uses simple words."
+     }
+    ]
+   },
+   {
+    "term_id": "T741",
+    "senses": [
+     {
+      "sense": "Sumatikīrti",
+      "academic": "Sumatikīrti",
+      "children": "Sumatikirti",
+      "note": "Proper name; children version without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T742",
+    "senses": [
+     {
+      "sense": "name of a Tibetan translator",
+      "academic": "Loden Sherab",
+      "children": "Loden Sherab",
+      "note": "Tibetan proper name kept in its usual Western form."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 2304,
+  "output": 1330,
+  "thinking": 2601,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 112.36,
+ "attempt": 1
+}

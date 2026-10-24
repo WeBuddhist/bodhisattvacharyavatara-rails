@@ -1,0 +1,25 @@
+{
+ "objections": [
+  {
+   "term_id": "T724",
+   "sense": "hardship",
+   "field": "academic",
+   "proposed": "privazione",
+   "reason": "'austerità' is already used for tapas (T122); duṣkaracaryā/dka' ba spyad pa needs a distinct term for hardship."
+  },
+  {
+   "term_id": "T725",
+   "sense": "welfare of others",
+   "field": "academic",
+   "proposed": "bene altrui",
+   "reason": "Inconsistent with T072 'bene altrui' (same concept); 'benessere' shifts the meaning to comfort."
+  },
+  {
+   "term_id": "T732",
+   "sense": "spiritual friend",
+   "field": "children",
+   "proposed": "amico che guida",
+   "reason": "Same term kalyāṇamitra as T446, rendered 'amico che guida'; keep identical."
+  }
+ ]
+}

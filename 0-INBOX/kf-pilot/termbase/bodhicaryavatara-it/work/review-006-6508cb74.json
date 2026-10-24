@@ -1,0 +1,38 @@
+{
+ "parsed": {
+  "objections": [
+   {
+    "term_id": "T621",
+    "sense": "latent tendency of emptiness",
+    "field": "children",
+    "proposed": "abitudine alla vacuità",
+    "reason": "Consistent with 'vacuità' for śūnyatā (T083, T136); 'vuoto' misleads as a plain void."
+   },
+   {
+    "term_id": "T654",
+    "sense": "conceptual clinging",
+    "field": "academic",
+    "proposed": "attaccamento concettuale",
+    "reason": "'aderenza concettuale' is unnatural Italian; clinging (zhen pa) is 'attaccamento' as elsewhere."
+   },
+   {
+    "term_id": "T706",
+    "sense": "state without leisure",
+    "field": "academic",
+    "proposed": "stato privo di agio",
+    "reason": "'non-agio' is an unidiomatic calque; keep 'agio' (T221) but express the negation naturally."
+   },
+   {
+    "term_id": "T708",
+    "sense": "treasury of space",
+    "field": "academic",
+    "proposed": "tesoro dello spazio",
+    "reason": "'tesoreria' means a finance office; mdzod is a treasure-store ('tesoro', as in the children's field)."
+   }
+  ]
+ },
+ "tokens": {},
+ "model": "claude-sonnet-5-5",
+ "seconds": null,
+ "attempt": 1
+}

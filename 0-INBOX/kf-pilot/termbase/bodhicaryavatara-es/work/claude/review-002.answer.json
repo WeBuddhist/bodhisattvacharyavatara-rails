@@ -1,0 +1,137 @@
+{
+"objections": [
+{
+"term_id": "T121",
+"sense": "heedfulness",
+"field": "academic",
+"proposed": "esmero",
+"reason": "'diligencia' is already used for vīrya (T102) and yatna (T216); bag yod (apramāda) is care/conscientiousness, not effort."
+},
+{
+"term_id": "T121",
+"sense": "heedfulness",
+"field": "children",
+"proposed": "cuidado",
+"reason": "'atención cuidadosa' echoes 'atención plena' (smṛti); simpler and distinct."
+},
+{
+"term_id": "T141",
+"sense": "heedlessness",
+"field": "academic",
+"proposed": "negligencia",
+"reason": "'indiligencia' is not a normal Spanish word; negligencia is the natural opposite of esmero."
+},
+{
+"term_id": "T131",
+"sense": "lifetime",
+"field": "academic",
+"proposed": "vida",
+"reason": "'existencia' is the rendering of bhava (T086); janman/tshe rabs means a lifetime."
+},
+{
+"term_id": "T161",
+"sense": "sūtra",
+"field": "children",
+"proposed": "texto de enseñanzas",
+"reason": "Same word as T125 (mdo); children rendering should match; 'escritura' is also used for āgama (T085)."
+},
+{
+"term_id": "T151",
+"sense": "protector, saviour",
+"field": "children",
+"proposed": "el que salva",
+"reason": "'Protector' is already the rendering of nātha (T045/T087); tāyin (skyob pa, one who saves) must be distinct."
+},
+{
+"term_id": "T168",
+"sense": "own interest",
+"field": "children",
+"proposed": "bien de uno mismo",
+"reason": "Same Sanskrit svārtha as T064, which uses 'bien de uno mismo'; keep consistent."
+},
+{
+"term_id": "T172",
+"sense": "aspiration, zeal",
+"field": "children",
+"proposed": "ganas firmes",
+"reason": "'deseo intenso' is too close to craving ('deseo fuerte', T081) and sounds negative for a positive mental factor."
+},
+{
+"term_id": "T176",
+"sense": "childish person",
+"field": "academic",
+"proposed": "necio",
+"reason": "Same Sanskrit bāla as T065, where academic is 'necio'; the two entries have swapped academic and children renderings."
+},
+{
+"term_id": "T189",
+"sense": "rajas, one of the three guṇas",
+"field": "children",
+"proposed": "energía inquieta",
+"reason": "'inquietud' is already used for auddhatya (T234); rajas (Sāṃkhya activity) needs a distinct rendering."
+},
+{
+"term_id": "T190",
+"sense": "coarse",
+"field": "academic",
+"proposed": "burdo",
+"reason": "'grosero' means rude in Spanish; burdo (opposed to sutil) is the established rendering of sthūla/rags pa."
+},
+{
+"term_id": "T190",
+"sense": "coarse",
+"field": "children",
+"proposed": "grueso",
+"reason": "'áspero' means rough to the touch; 'grueso' pairs naturally with 'fino' (sūkṣma, T670) and matches T669."
+},
+{
+"term_id": "T194",
+"sense": "child of the Sugata",
+"field": "children",
+"proposed": "hijo del que se fue bien",
+"reason": "'Bien Avenido' is not a rendering of Well-Gone One and is meaningless; align with Sugata (T052)."
+},
+{
+"term_id": "T195",
+"sense": "leisure and endowment",
+"field": "academic",
+"proposed": "libertades y dotes",
+"reason": "'ocio y dotación' is not the established term; Spanish usage is 'libertades y dotes' (the eight freedoms and ten endowments)."
+},
+{
+"term_id": "T221",
+"sense": "leisure",
+"field": "academic",
+"proposed": "libertad",
+"reason": "'ocio' now suggests idle recreation; dal ba here means freedom from adverse conditions, as in 'libertades y dotes'."
+},
+{
+"term_id": "T185",
+"sense": "continuum",
+"field": "academic",
+"proposed": "continuum",
+"reason": "Same Sanskrit saṃtāna as T134, which uses 'continuum'; 'continuo' is an adjective and inconsistent."
+},
+{
+"term_id": "T211",
+"sense": "pass into nirvāṇa",
+"field": "children",
+"proposed": "liberación de la tristeza",
+"reason": "Match T152 and the English 'freedom from sorrow'; 'libertad' is used for vimokṣa (T220)."
+},
+{
+"term_id": "T219",
+"sense": "epithet of the Buddha",
+"field": "children",
+"proposed": "el Bendito",
+"reason": "'Bienaventurado' is too difficult for readers aged 8 to 12; 'el Bendito' is simple and equivalent to Blessed One."
+},
+{
+"term_id": "T240",
+"sense": "mental unhappiness",
+"field": "children",
+"proposed": "malestar",
+"reason": "'tristeza' is already used for śoka (T175) and nirvāṇa; yid mi bde ba is mental discomfort or unease."
+}
+]
+}

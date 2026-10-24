@@ -1,0 +1,462 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T281",
+    "senses": [
+     {
+      "sense": "illusory mind",
+      "academic": "batin ilusif",
+      "children": "pikiran seperti ilusi",
+      "note": "Combines fixed māyā as ilusi and citta as batin."
+     }
+    ]
+   },
+   {
+    "term_id": "T282",
+    "senses": [
+     {
+      "sense": "aspect",
+      "academic": "aspek",
+      "children": "cara tampaknya",
+      "note": "Ākāra as mode of appearance."
+     }
+    ]
+   },
+   {
+    "term_id": "T283",
+    "senses": [
+     {
+      "sense": "mind itself",
+      "academic": "batin itu sendiri",
+      "children": "pikiran itu sendiri",
+      "note": "Emphatic use of fixed citta."
+     }
+    ]
+   },
+   {
+    "term_id": "T284",
+    "senses": [
+     {
+      "sense": "latent tendency",
+      "academic": "kecenderungan laten",
+      "children": "kebiasaan mendalam",
+      "note": "Latent imprint left by prior actions."
+     }
+    ]
+   },
+   {
+    "term_id": "T285",
+    "senses": [
+     {
+      "sense": "shrine",
+      "academic": "caitya",
+      "children": "tempat pemujaan",
+      "note": "Sense follows shrine or caitya, not literal pillar."
+     }
+    ]
+   },
+   {
+    "term_id": "T286",
+    "senses": [
+     {
+      "sense": "apprehension",
+      "academic": "penangkapan",
+      "children": "menetapkan pikiran pada sesuatu",
+      "note": "Cognitive holding of an object."
+     }
+    ]
+   },
+   {
+    "term_id": "T287",
+    "senses": [
+     {
+      "sense": "doubt",
+      "academic": "keragu-raguan",
+      "children": "rasa ragu",
+      "note": "Standard hindrance term."
+     }
+    ]
+   },
+   {
+    "term_id": "T288",
+    "senses": [
+     {
+      "sense": "sattva (quality of the Sāṃkhya)",
+      "academic": "sattva",
+      "children": "kecerahan",
+      "note": "Sāṃkhya guṇa, not sentient being."
+     }
+    ]
+   },
+   {
+    "term_id": "T289",
+    "senses": [
+     {
+      "sense": "tamas (Sāṃkhya guṇa)",
+      "academic": "tamas",
+      "children": "kegelapan",
+      "note": "Sāṃkhya guṇa of darkness and inertia."
+     }
+    ]
+   },
+   {
+    "term_id": "T290",
+    "senses": [
+     {
+      "sense": "agent of action",
+      "academic": "pelaku",
+      "children": "yang melakukan",
+      "note": "Agent noun kartṛ."
+     },
+     {
+      "sense": "creator (Īśvara)",
+      "academic": "pencipta",
+      "children": "pencipta dunia",
+      "note": "Īśvara as world-creator."
+     }
+    ]
+   },
+   {
+    "term_id": "T291",
+    "senses": [
+     {
+      "sense": "sense faculty",
+      "academic": "indria",
+      "children": "alat indra",
+      "note": "Buddhist faculty term, broader than bodily organ."
+     }
+    ]
+   },
+   {
+    "term_id": "T292",
+    "senses": [
+     {
+      "sense": "atom",
+      "academic": "atom",
+      "children": "partikel sangat kecil",
+      "note": "Minimal particle in atomism discussions."
+     }
+    ]
+   },
+   {
+    "term_id": "T293",
+    "senses": [
+     {
+      "sense": "collection",
+      "academic": "himpunan",
+      "children": "kumpulan",
+      "note": "Collection or aggregate, especially of atoms."
+     }
+    ]
+   },
+   {
+    "term_id": "T294",
+    "senses": [
+     {
+      "sense": "one who feels",
+      "academic": "perasa",
+      "children": "yang merasakan",
+      "note": "Agent noun from the root for feeling."
+     }
+    ]
+   },
+   {
+    "term_id": "T295",
+    "senses": [
+     {
+      "sense": "sprout",
+      "academic": "kecambah",
+      "children": "tunas",
+      "note": "Image for what arises from a seed."
+     }
+    ]
+   },
+   {
+    "term_id": "T296",
+    "senses": [
+     {
+      "sense": "effect of a cause",
+      "academic": "hasil",
+      "children": "hasil",
+      "note": "Reuses fixed phala as hasil."
+     }
+    ]
+   },
+   {
+    "term_id": "T297",
+    "senses": [
+     {
+      "sense": "permanent",
+      "academic": "kekal",
+      "children": "tidak pernah berubah",
+      "note": "Opposite of impermanence."
+     }
+    ]
+   },
+   {
+    "term_id": "T298",
+    "senses": [
+     {
+      "sense": "impermanence",
+      "academic": "ketidakkekalan",
+      "children": "tidak bertahan lama",
+      "note": "Standard Abhidharma term."
+     }
+    ]
+   },
+   {
+    "term_id": "T299",
+    "senses": [
+     {
+      "sense": "Māra",
+      "academic": "Mara",
+      "children": "Mara",
+      "note": "Proper name in local Indonesian spelling."
+     }
+    ]
+   },
+   {
+    "term_id": "T300",
+    "senses": [
+     {
+      "sense": "dedication",
+      "academic": "pelimpahan jasa",
+      "children": "berbagi kebaikan",
+      "note": "Dedication of merit toward awakening."
+     }
+    ]
+   },
+   {
+    "term_id": "T301",
+    "senses": [
+     {
+      "sense": "hell being",
+      "academic": "makhluk neraka",
+      "children": "penghuni neraka",
+      "note": "Adjectival nāraka denotes a hell-being."
+     }
+    ]
+   },
+   {
+    "term_id": "T302",
+    "senses": [
+     {
+      "sense": "ordination",
+      "academic": "penahbisan",
+      "children": "menjadi biksu atau biksuni",
+      "note": "Sense is ordination, though pravrajita means gone-forth one."
+     }
+    ]
+   },
+   {
+    "term_id": "T303",
+    "senses": [
+     {
+      "sense": "Sanskrit title",
+      "academic": "Bodhisattvacaryāvatāra",
+      "children": "Bodhisattvacaryavatara",
+      "note": "Sanskrit title retained; children use simplified spelling."
+     }
+    ]
+   },
+   {
+    "term_id": "T304",
+    "senses": [
+     {
+      "sense": "Dharmakāya",
+      "academic": "Dharmakaya",
+      "children": "tubuh kebenaran",
+      "note": "Established Buddha-body term; children paraphrase truth body."
+     }
+    ]
+   },
+   {
+    "term_id": "T305",
+    "senses": [
+     {
+      "sense": "vow",
+      "academic": "ikrar",
+      "children": "janji",
+      "note": "Rendered as vow, not the restraint sense."
+     }
+    ]
+   },
+   {
+    "term_id": "T306",
+    "senses": [
+     {
+      "sense": "purpose of a human being",
+      "academic": "tujuan hidup manusia",
+      "children": "tujuan hidup sebagai manusia",
+      "note": "Puruṣārtha as the aim of human life."
+     }
+    ]
+   },
+   {
+    "term_id": "T307",
+    "senses": [
+     {
+      "sense": "perfect awakening",
+      "academic": "pencerahan paripurna",
+      "children": "kebangkitan penuh",
+      "note": "Built on fixed bodhi renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T308",
+    "senses": [
+     {
+      "sense": "supreme happiness",
+      "academic": "kebahagiaan tertinggi",
+      "children": "kebahagiaan terbesar",
+      "note": "Superlative of fixed sukha rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T309",
+    "senses": [
+     {
+      "sense": "gold-making elixir",
+      "academic": "eliksir pembuat emas",
+      "children": "ramuan pembuat emas",
+      "note": "Alchemical elixir that turns things to gold."
+     }
+    ]
+   },
+   {
+    "term_id": "T310",
+    "senses": [
+     {
+      "sense": "jewel",
+      "academic": "permata",
+      "children": "permata",
+      "note": "Generic jewel sense."
+     }
+    ]
+   },
+   {
+    "term_id": "T311",
+    "senses": [
+     {
+      "sense": "body (of a Victor)",
+      "academic": "tubuh",
+      "children": "tubuh",
+      "note": "Contextual Victor's body; rendering stays fixed kāya."
+     }
+    ]
+   },
+   {
+    "term_id": "T312",
+    "senses": [
+     {
+      "sense": "caravan leader",
+      "academic": "pemimpin kafilah",
+      "children": "pemimpin rombongan perjalanan",
+      "note": "Caravan-leader image for a guiding bodhisattva."
+     }
+    ]
+   },
+   {
+    "term_id": "T313",
+    "senses": [
+     {
+      "sense": "epithet of Maitreya",
+      "academic": "Sang Pelindung Maitreya",
+      "children": "Sang Pelindung Maitreya",
+      "note": "Honorific epithet with Maitreya in local form."
+     }
+    ]
+   },
+   {
+    "term_id": "T314",
+    "senses": [
+     {
+      "sense": "Sudhana (name)",
+      "academic": "Sudhana",
+      "children": "Sudhana",
+      "note": "Personal name kept in local form."
+     }
+    ]
+   },
+   {
+    "term_id": "T315",
+    "senses": [
+     {
+      "sense": "engaging bodhicitta",
+      "academic": "bodicitta pelaksanaan",
+      "children": "pikiran kebangkitan yang mulai melangkah",
+      "note": "Engaging bodhicitta, reusing fixed bodicitta."
+     }
+    ]
+   },
+   {
+    "term_id": "T316",
+    "senses": [
+     {
+      "sense": "engaging bodhicitta",
+      "academic": "bodicitta pelaksanaan",
+      "children": "pikiran kebangkitan yang mulai melangkah",
+      "note": "Same English sense as bodhiprasthāna; same rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T317",
+    "senses": [
+     {
+      "sense": "realm",
+      "academic": "alam",
+      "children": "alam",
+      "note": "Cosmic realm, not the element sense."
+     }
+    ]
+   },
+   {
+    "term_id": "T318",
+    "senses": [
+     {
+      "sense": "irreversible",
+      "academic": "tidak dapat berbalik",
+      "children": "tidak pernah mundur",
+      "note": "Irreversible stage on the path."
+     }
+    ]
+   },
+   {
+    "term_id": "T319",
+    "senses": [
+     {
+      "sense": "name of an interlocutor",
+      "academic": "Subahu",
+      "children": "Subahu",
+      "note": "Personal name kept in local form."
+     }
+    ]
+   },
+   {
+    "term_id": "T320",
+    "senses": [
+     {
+      "sense": "question (sūtra title element)",
+      "academic": "pertanyaan",
+      "children": "pertanyaan",
+      "note": "Sūtra-title element meaning question."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4100,
+  "output": 1888,
+  "thinking": 14220,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 512.47,
+ "attempt": 1
+}

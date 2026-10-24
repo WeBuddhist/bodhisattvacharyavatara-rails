@@ -1,0 +1,247 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T722",
+    "senses": [
+     {
+      "sense": "nun",
+      "academic": "bhikshuni",
+      "children": "mwanamke aliyejikabidhi kwa dini",
+      "note": "Buddhist nun; Sanskrit loan respelled for academic use, descriptive phrase for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T723",
+    "senses": [
+     {
+      "sense": "alms",
+      "academic": "sadaka ya chakula",
+      "children": "chakula cha sadaka",
+      "note": "Almsfood collected by monks; 'sadaka' is the established Swahili loan for alms."
+     }
+    ]
+   },
+   {
+    "term_id": "T724",
+    "senses": [
+     {
+      "sense": "hardship",
+      "academic": "mateso ya utauwa",
+      "children": "kujitesa",
+      "note": "Ascetic hardships deliberately endured in practice, as by the Buddha before awakening."
+     }
+    ]
+   },
+   {
+    "term_id": "T725",
+    "senses": [
+     {
+      "sense": "welfare of others",
+      "academic": "maslahi ya wengine",
+      "children": "manufaa ya wengine",
+      "note": "Compound of jagat ('wandering being'); rendered per English sense rather than fixed term."
+     }
+    ]
+   },
+   {
+    "term_id": "T726",
+    "senses": [
+     {
+      "sense": "solitary buddha",
+      "academic": "pratyekabuddha",
+      "children": "mwenye kujiamsha mwenyewe",
+      "note": "Sanskrit loan for scholars; children's phrase means one who awakens by himself, alone."
+     }
+    ]
+   },
+   {
+    "term_id": "T727",
+    "senses": [
+     {
+      "sense": "first bodhisattva ground",
+      "academic": "Ngazi ya Furaha Kamili",
+      "children": "Ngazi ya Furaha Kamili",
+      "note": "First of the ten bodhisattva grounds; identical rendering since English labels match."
+     }
+    ]
+   },
+   {
+    "term_id": "T728",
+    "senses": [
+     {
+      "sense": "place of seclusion",
+      "academic": "mahali pa upweke",
+      "children": "mahali tulivu",
+      "note": "Retreat dwelling away from people; children's version stresses quietness."
+     }
+    ]
+   },
+   {
+    "term_id": "T729",
+    "senses": [
+     {
+      "sense": "Saṅgha of bodhisattvas",
+      "academic": "Sangha ya mabodhisattva",
+      "children": "jumuiya ya mashujaa wa uamsho",
+      "note": "Sangha as loan; children's phrase reuses fixed 'shujaa wa uamsho' for bodhisattva."
+     }
+    ]
+   },
+   {
+    "term_id": "T730",
+    "senses": [
+     {
+      "sense": "teaching (the Buddha's doctrine)",
+      "academic": "mafunzo",
+      "children": "mafundisho ya Buddha",
+      "note": "The Buddha's dispensation; kept distinct from fixed 'mafundisho' used for Dharma."
+     }
+    ]
+   },
+   {
+    "term_id": "T731",
+    "senses": [
+     {
+      "sense": "virtuous intellect",
+      "academic": "akili ya fadhila",
+      "children": "akili yenye mawazo mema",
+      "note": "Reuses fixed 'akili' (mind) and 'fadhila' (virtue); children get plain good-thinking phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T732",
+    "senses": [
+     {
+      "sense": "spiritual friend",
+      "academic": "rafiki wa kiroho",
+      "children": "rafiki mwema",
+      "note": "kalyāṇamitra, the virtuous guide; children's rendering is simply a good friend."
+     }
+    ]
+   },
+   {
+    "term_id": "T733",
+    "senses": [
+     {
+      "sense": "name of the author",
+      "academic": "Śāntideva",
+      "children": "Shantideva",
+      "note": "Author of the Bodhicaryāvatāra; scholarly form with diacritics, plain spelling for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T734",
+    "senses": [
+     {
+      "sense": "Sarvajñādeva",
+      "academic": "Sarvajñādeva",
+      "children": "Sarvajnadeva",
+      "note": "Kashmiri master who assisted the translation; diacritics only in academic form."
+     }
+    ]
+   },
+   {
+    "term_id": "T735",
+    "senses": [
+     {
+      "sense": "Tibetan translator-editor",
+      "academic": "Bande Paltsek",
+      "children": "Bande Paltsek",
+      "note": "Tibetan name (Dpal brtsegs) kept in standard Western transcription for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T736",
+    "senses": [
+     {
+      "sense": "place name",
+      "academic": "Kashmir",
+      "children": "Kashmir",
+      "note": "Region of northern India; standard local form already current in Swahili usage."
+     }
+    ]
+   },
+   {
+    "term_id": "T737",
+    "senses": [
+     {
+      "sense": "Dharmaśrībhadra (name)",
+      "academic": "Dharmaśrībhadra",
+      "children": "Dharmashribhadra",
+      "note": "Indian scholar involved in the translation; plain spelling in children's register."
+     }
+    ]
+   },
+   {
+    "term_id": "T738",
+    "senses": [
+     {
+      "sense": "translator monk",
+      "academic": "Rinchen Zangpo",
+      "children": "Rinchen Zangpo",
+      "note": "Famed Tibetan translator; name kept unchanged in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T739",
+    "senses": [
+     {
+      "sense": "Śākya Lodrö",
+      "academic": "Śākya Lodrö",
+      "children": "Shakya Lodro",
+      "note": "Tibetan scholar-translator; simplified spelling without diacritics for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T740",
+    "senses": [
+     {
+      "sense": "central region",
+      "academic": "eneo la kati",
+      "children": "nchi ya kati",
+      "note": "The central land (Madhyadeśa / Ü) of the Buddhist world; plain wording for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T741",
+    "senses": [
+     {
+      "sense": "Sumatikīrti",
+      "academic": "Sumatikīrti",
+      "children": "Sumatikirti",
+      "note": "Indian pandita involved in translation; diacritics dropped in children's form."
+     }
+    ]
+   },
+   {
+    "term_id": "T742",
+    "senses": [
+     {
+      "sense": "name of a Tibetan translator",
+      "academic": "Loden Sherab",
+      "children": "Loden Sherab",
+      "note": "Tibetan translator (Blo ldan shes rab); standard transcription identical in both registers."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 2387,
+  "output": 1480,
+  "thinking": 3211,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 83.82,
+ "attempt": 1
+}

@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T562",
+    "senses": [
+     {
+      "sense": "excrement",
+      "academic": "kinyesi",
+      "children": "taka za mwili",
+      "note": "Bodily waste; children use a plain everyday phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T563",
+    "senses": [
+     {
+      "sense": "saliva",
+      "academic": "mate",
+      "children": "mate",
+      "note": "Everyday word already, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T564",
+    "senses": [
+     {
+      "sense": "cage of bones",
+      "academic": "tundu la mifupa",
+      "children": "tundu la mifupa",
+      "note": "Image of the body as a bone-cage; phrase is simple enough for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T565",
+    "senses": [
+     {
+      "sense": "insentient",
+      "academic": "kisicho na hisia",
+      "children": "bila akili",
+      "note": "Negates the fixed 'kiumbe chenye hisia'; children mirror 'without a mind'."
+     }
+    ]
+   },
+   {
+    "term_id": "T566",
+    "senses": [
+     {
+      "sense": "cage of filth",
+      "academic": "tundu la uchafu",
+      "children": "tundu la uchafu",
+      "note": "Parallel to 'cage of bones'; same wording works for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T567",
+    "senses": [
+     {
+      "sense": "impure field",
+      "academic": "uwanja usio safi",
+      "children": "shamba lisilo safi",
+      "note": "Kṣetra as 'field'; children use the everyday word for field."
+     }
+    ]
+   },
+   {
+    "term_id": "T568",
+    "senses": [
+     {
+      "sense": "worm born of filth",
+      "academic": "mdudu wa uchafu",
+      "children": "mdudu wa uchafuni",
+      "note": "Filth-born worm in body contemplation; children phrase stays plain."
+     }
+    ]
+   },
+   {
+    "term_id": "T569",
+    "senses": [
+     {
+      "sense": "camphor",
+      "academic": "kafuri",
+      "children": "kafuri",
+      "note": "Established Swahili loanword for camphor."
+     }
+    ]
+   },
+   {
+    "term_id": "T570",
+    "senses": [
+     {
+      "sense": "wealth",
+      "academic": "utajiri",
+      "children": "mali",
+      "note": "Abstract noun for scholars; everyday word for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T571",
+    "senses": [
+     {
+      "sense": "suffering of existence",
+      "academic": "maumivu ya kuwepo",
+      "children": "maumivu ya maisha",
+      "note": "Compound reuses fixed 'maumivu' (duḥkha); children say 'of life'."
+     }
+    ]
+   },
+   {
+    "term_id": "T572",
+    "senses": [
+     {
+      "sense": "disadvantage",
+      "academic": "madhara",
+      "children": "upande mbaya",
+      "note": "The danger or downside of something; children get a plain phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T573",
+    "senses": [
+     {
+      "sense": "desire",
+      "academic": "shauku",
+      "children": "tamaa",
+      "note": "Sensual desire; avoids confusion with Swahili 'kama' (like)."
+     }
+    ]
+   },
+   {
+    "term_id": "T574",
+    "senses": [
+     {
+      "sense": "contentment",
+      "academic": "kuridhika",
+      "children": "kufurahia ulichonacho",
+      "note": "Children's phrase mirrors 'being happy with enough'."
+     }
+    ]
+   },
+   {
+    "term_id": "T575",
+    "senses": [
+     {
+      "sense": "Indra",
+      "academic": "Indra",
+      "children": "Indra",
+      "note": "Proper name of the god, unchanged in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T576",
+    "senses": [
+     {
+      "sense": "conceptual thought",
+      "academic": "mawazo ya dhana",
+      "children": "kufikiri",
+      "note": "Concept-laden thinking; children just say 'thinking'."
+     }
+    ]
+   },
+   {
+    "term_id": "T577",
+    "senses": [
+     {
+      "sense": "Supuṣpacandra (name)",
+      "academic": "Supuṣpacandra",
+      "children": "Supushpachandra",
+      "note": "Proper name; children get simplified spelling as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T578",
+    "senses": [
+     {
+      "sense": "absence of an entity",
+      "academic": "kutokuwepo kwa kitu",
+      "children": "bila kitu",
+      "note": "Reuses fixed 'kitu' (entity); children phrase mirrors 'without a thing'."
+     }
+    ]
+   },
+   {
+    "term_id": "T579",
+    "senses": [
+     {
+      "sense": "self-grasping",
+      "academic": "kushika nafsi",
+      "children": "kushikilia nafsi",
+      "note": "Reuses fixed 'nafsi' (self); kept distinct from T594 and T596."
+     }
+    ]
+   },
+   {
+    "term_id": "T580",
+    "senses": [
+     {
+      "sense": "intellect of self",
+      "academic": "akili ya nafsi",
+      "children": "fikra za 'mimi'",
+      "note": "Buddhi rendered with fixed 'akili'; children phrase it as thoughts of 'me'."
+     }
+    ]
+   },
+   {
+    "term_id": "T581",
+    "senses": [
+     {
+      "sense": "blessing",
+      "academic": "baraka",
+      "children": "baraka",
+      "note": "Established Swahili loanword, natural for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T582",
+    "senses": [
+     {
+      "sense": "exchange of self and others",
+      "academic": "badilishano la nafsi na wengine",
+      "children": "kubadilishana nafsi na wengine",
+      "note": "Reuses T587 'badilishano'; children use the everyday verb form."
+     }
+    ]
+   },
+   {
+    "term_id": "T583",
+    "senses": [
+     {
+      "sense": "supreme secret (self-other exchange)",
+      "academic": "siri kuu",
+      "children": "siri kubwa kabisa",
+      "note": "The highest secret teaching; children say 'greatest secret'."
+     }
+    ]
+   },
+   {
+    "term_id": "T584",
+    "senses": [
+     {
+      "sense": "demon",
+      "academic": "shetani",
+      "children": "shetani",
+      "note": "Established Swahili word for demon, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T585",
+    "senses": [
+     {
+      "sense": "own welfare",
+      "academic": "maslahi ya binafsi",
+      "children": "wema wa binafsi",
+      "note": "One's own benefit; identical to T586 as English is identical."
+     }
+    ]
+   },
+   {
+    "term_id": "T586",
+    "senses": [
+     {
+      "sense": "own welfare",
+      "academic": "maslahi ya binafsi",
+      "children": "wema wa binafsi",
+      "note": "Same sense as T585, rendered identically."
+     }
+    ]
+   },
+   {
+    "term_id": "T587",
+    "senses": [
+     {
+      "sense": "exchange",
+      "academic": "badilishano",
+      "children": "kubadilishana",
+      "note": "Verbal noun for scholars; everyday verb form for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T588",
+    "senses": [
+     {
+      "sense": "next world",
+      "academic": "ulimwengu ujao",
+      "children": "maisha yajayo",
+      "note": "Academic reuses fixed 'ulimwengu' (loka); children mirror 'next life'."
+     }
+    ]
+   },
+   {
+    "term_id": "T589",
+    "senses": [
+     {
+      "sense": "great demon",
+      "academic": "shetani mkubwa",
+      "children": "shetani mkubwa",
+      "note": "Builds on T584 'shetani'; same for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T590",
+    "senses": [
+     {
+      "sense": "self",
+      "academic": "nafsi yenyewe",
+      "children": "nafsi",
+      "note": "Reuses fixed 'nafsi'; academic adds emphasis for 'very self'."
+     }
+    ]
+   },
+   {
+    "term_id": "T591",
+    "senses": [
+     {
+      "sense": "rivalry",
+      "academic": "ushindani",
+      "children": "ushindani",
+      "note": "Everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T592",
+    "senses": [
+     {
+      "sense": "view",
+      "academic": "mtazamo",
+      "children": "imani",
+      "note": "Philosophical 'view' for scholars; 'belief' for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T593",
+    "senses": [
+     {
+      "sense": "learning",
+      "academic": "masomo",
+      "children": "kujifunza",
+      "note": "Learning through hearing teachings; children use the verb."
+     }
+    ]
+   },
+   {
+    "term_id": "T594",
+    "senses": [
+     {
+      "sense": "grasping as \"I\"",
+      "academic": "kushikilia 'mimi'",
+      "children": "kuchukulia kama 'mimi'",
+      "note": "Taking things as 'I'; distinct from the self-grasping terms T579, T596."
+     }
+    ]
+   },
+   {
+    "term_id": "T595",
+    "senses": [
+     {
+      "sense": "excellence",
+      "academic": "ubora",
+      "children": "ubora",
+      "note": "Everyday word for excellence, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T596",
+    "senses": [
+     {
+      "sense": "grasping at self",
+      "academic": "kushikilia nafsi",
+      "children": "kukamata nafsi",
+      "note": "Reuses fixed 'nafsi'; children's phrase mirrors 'grabbing hold of a self'."
+     }
+    ]
+   },
+   {
+    "term_id": "T597",
+    "senses": [
+     {
+      "sense": "mental dullness",
+      "academic": "uzito wa akili",
+      "children": "uchovu wa akili",
+      "note": "Reuses fixed 'akili'; children phrase as tiredness of the mind."
+     }
+    ]
+   },
+   {
+    "term_id": "T598",
+    "senses": [
+     {
+      "sense": "obscuration",
+      "academic": "kifuniko cha akili",
+      "children": "pazia la akili",
+      "note": "What covers the mind; children's 'pazia' mirrors 'veil'."
+     }
+    ]
+   },
+   {
+    "term_id": "T599",
+    "senses": [
+     {
+      "sense": "object of meditative focus",
+      "academic": "kitu kamili cha kuzingatia",
+      "children": "kitu kamili cha kufikiria",
+      "note": "Reuses fixed 'kitu'; 'perfect' object rendered 'kamili'."
+     }
+    ]
+   },
+   {
+    "term_id": "T600",
+    "senses": [
+     {
+      "sense": "title of chapter 8",
+      "academic": "Umakini wa Tafakuri",
+      "children": "Umakini wa Utulivu",
+      "note": "Chapter title; children's version mirrors 'Calm Focus'."
+     }
+    ]
+   },
+   {
+    "term_id": "T601",
+    "senses": [
+     {
+      "sense": "branch",
+      "academic": "tawi",
+      "children": "tawi",
+      "note": "Branch or limb of a practice; everyday word for both."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4007,
+  "output": 2500,
+  "thinking": 4422,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 122.64,
+ "attempt": 1
+}

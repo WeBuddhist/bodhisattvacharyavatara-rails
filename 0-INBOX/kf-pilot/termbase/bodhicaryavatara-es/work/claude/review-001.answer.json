@@ -1,0 +1,60 @@
+{
+"objections": [
+{
+"term_id": "T119",
+"sense": "accumulation (of merit and wisdom)",
+"field": "children",
+"proposed": "provisiones de bondad y sabiduría",
+"reason": "'bondad acumulada' is already the children's rendering of puṇya (T007); saṃbhāra needs a distinct term (provisions)."
+},
+{
+"term_id": "T116",
+"sense": "Tathāgata",
+"field": "children",
+"proposed": "el que se fue así",
+"reason": "Same epithet as T070; inconsistent wording and capitalisation ('el Que Así se Fue' vs 'el que se fue así')."
+},
+{
+"term_id": "T052",
+"sense": "Sugata",
+"field": "children",
+"proposed": "el que se fue bien",
+"reason": "English is 'Well-Gone One'; 'llegó a la felicidad' departs from it and breaks parallel with 'el que se fue así' (Tathāgata)."
+},
+{
+"term_id": "T073",
+"sense": "name of the bodhisattva",
+"field": "children",
+"proposed": "Mañjushri",
+"reason": "'Mányushri' is a non-standard respelling and inconsistent with T206 'Mañjushri'; ñ renders the Sanskrit sound correctly in Spanish."
+},
+{
+"term_id": "T060",
+"sense": "nirvāṇa",
+"field": "children",
+"proposed": "liberación de la tristeza",
+"reason": "English is 'freedom from sorrow'; T152 uses 'liberación de la tristeza'. 'Sufrimiento' is the rendering of duḥkha (T001); keep distinct."
+},
+{
+"term_id": "T065",
+"sense": "childish person, fool",
+"field": "children",
+"proposed": "persona necia",
+"reason": "Same Sanskrit bāla as T176, where children gets 'persona necia'; 'persona infantil' is ambiguous and inconsistent."
+},
+{
+"term_id": "T091",
+"sense": "spiritual teacher",
+"field": "academic",
+"proposed": "maestro espiritual",
+"reason": "'maestro' is also used for ācārya (T202); guru needs a distinct academic rendering."
+},
+{
+"term_id": "T119",
+"sense": "collection (of parts)",
+"field": "academic",
+"proposed": "conjunto",
+"reason": "T293 (same word tshogs pa, 'collection') uses 'conjunto', the better Spanish word; 'colección' suggests a set of objects, not parts of a whole."
+}
+]
+}

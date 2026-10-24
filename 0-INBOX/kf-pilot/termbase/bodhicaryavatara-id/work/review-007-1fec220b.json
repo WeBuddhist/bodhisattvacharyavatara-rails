@@ -1,0 +1,66 @@
+{
+ "parsed": {
+  "objections": [
+   {
+    "term_id": "T730",
+    "sense": "teaching (the Buddha's doctrine)",
+    "field": "academic",
+    "proposed": "ajaran Buddha",
+    "reason": "In Indonesian 'sasana' also means hall or building; 'ajaran Buddha' is unambiguous (consistent with T523 proposal)."
+   },
+   {
+    "term_id": "T731",
+    "sense": "virtuous intellect",
+    "field": "academic",
+    "proposed": "akal budi yang bajik",
+    "reason": "Intellect (blo) is 'akal budi' in T079; 'intelek' is inconsistent."
+   },
+   {
+    "term_id": "T732",
+    "sense": "spiritual friend",
+    "field": "academic",
+    "proposed": "teman spiritual",
+    "reason": "Same Sanskrit and English as T446, which uses 'teman spiritual'; the untranslated form is inconsistent."
+   },
+   {
+    "term_id": "T733",
+    "sense": "name of the author",
+    "field": "academic",
+    "proposed": "Santideva",
+    "reason": "Names are written without diacritics in Indonesian text (Manjusri, Ksitigarbha); matches the children's field."
+   },
+   {
+    "term_id": "T734",
+    "sense": "Sarvajñādeva",
+    "field": "academic",
+    "proposed": "Sarvajnadeva",
+    "reason": "Names are written without diacritics elsewhere; keep one orthography."
+   },
+   {
+    "term_id": "T737",
+    "sense": "Dharmaśrībhadra (name)",
+    "field": "academic",
+    "proposed": "Dharmasribhadra",
+    "reason": "Names are written without diacritics elsewhere; keep one orthography."
+   },
+   {
+    "term_id": "T739",
+    "sense": "Śākya Lodrö",
+    "field": "academic",
+    "proposed": "Sakya Lodro",
+    "reason": "Tibetan names appear without diacritics (Rinchen Zangpo, Loden Sherab); keep one orthography."
+   },
+   {
+    "term_id": "T741",
+    "sense": "Sumatikīrti",
+    "field": "academic",
+    "proposed": "Sumatikirti",
+    "reason": "Names are written without diacritics elsewhere; keep one orthography."
+   }
+  ]
+ },
+ "tokens": {},
+ "model": "claude-sonnet-5-5",
+ "seconds": null,
+ "attempt": 1
+}

@@ -1,0 +1,88 @@
+{
+ "objections": [
+  {
+   "term_id": "T136",
+   "sense": "emptiness",
+   "field": "academic",
+   "proposed": "sunyata",
+   "reason": "Same concept as T083 (sunyata); 'kesunyataan' is an inconsistent variant of the term."
+  },
+  {
+   "term_id": "T140",
+   "sense": "retinue",
+   "field": "academic",
+   "proposed": "pengiring",
+   "reason": "'Pariwara' in modern Indonesian means advertisement, not retinue; 'pengiring' conveys the sense."
+  },
+  {
+   "term_id": "T152",
+   "sense": "nirvana",
+   "field": "children",
+   "proposed": "bebas dari kesedihan",
+   "reason": "Tibetan mya ngan las 'das means beyond sorrow; inconsistent with T060 and T211 which use kesedihan."
+  },
+  {
+   "term_id": "T157",
+   "sense": "craving",
+   "field": "academic",
+   "proposed": "kehausan",
+   "reason": "Same term as T081 (kehausan); 'hasrat' is also used for kāma in T067, causing a clash."
+  },
+  {
+   "term_id": "T164",
+   "sense": "space",
+   "field": "academic",
+   "proposed": "ruang",
+   "reason": "Inconsistent with T077 (ākāśa = ruang); 'ruang hampa' means vacuum."
+  },
+  {
+   "term_id": "T197",
+   "sense": "aspiring bodhicitta",
+   "field": "academic",
+   "proposed": "bodhicitta aspirasi",
+   "reason": "Use the standard spelling bodhicitta, consistent with bodhisatwa."
+  },
+  {
+   "term_id": "T210",
+   "sense": "awakening mind",
+   "field": "academic",
+   "proposed": "bodhicitta",
+   "reason": "Use the standard spelling bodhicitta, consistent with bodhisatwa."
+  },
+  {
+   "term_id": "T214",
+   "sense": "path",
+   "field": "academic",
+   "proposed": "jalan",
+   "reason": "'Marga' means clan name in everyday Indonesian; 'jalan' is also used in the title and is clear."
+  },
+  {
+   "term_id": "T219",
+   "sense": "epithet of the Buddha",
+   "field": "children",
+   "proposed": "Yang Terberkahi",
+   "reason": "Approved English children's rendering is 'Blessed One'; 'Bhagawan' is not understandable to children and is the Hindu-style form."
+  },
+  {
+   "term_id": "T221",
+   "sense": "leisure",
+   "field": "academic",
+   "proposed": "keluangan",
+   "reason": "Kṣaṇa is the 'leisure' half of T195 (keluangan dan kelengkapan); 'kesempatan' means opportunity and breaks the pair."
+  },
+  {
+   "term_id": "T236",
+   "sense": "disparagement of others",
+   "field": "academic",
+   "proposed": "celaan terhadap orang lain",
+   "reason": "'Perendahan' is not idiomatic Indonesian; 'celaan' correctly conveys smod pa (disparaging, criticizing)."
+  },
+  {
+   "term_id": "T163",
+   "sense": "primal matter of Sāṃkhya",
+   "field": "academic",
+   "proposed": "Pradhana",
+   "reason": "Names are given without diacritics elsewhere (Manjusri, Ksitigarbha); keep one orthography in Indonesian text."
+  }
+ ]
+}

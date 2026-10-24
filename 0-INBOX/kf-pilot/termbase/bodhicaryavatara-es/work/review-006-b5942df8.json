@@ -1,0 +1,80 @@
+{
+ "parsed": {
+  "objections": [
+   {
+    "term_id": "T621",
+    "sense": "latent tendency of emptiness",
+    "field": "academic",
+    "proposed": "impronta de la vacuidad",
+    "reason": "vāsanā (bag chags) is established in Spanish as 'impronta'; see T284."
+   },
+   {
+    "term_id": "T622",
+    "sense": "latent tendency of entities",
+    "field": "academic",
+    "proposed": "impronta de las entidades",
+    "reason": "vāsanā (bag chags) is established in Spanish as 'impronta'; see T284."
+   },
+   {
+    "term_id": "T623",
+    "sense": "non-apprehension",
+    "field": "academic",
+    "proposed": "no-aprehensión",
+    "reason": "Same Tibetan as T691, spelled 'no-aprehensión'; unify the hyphenation."
+   },
+   {
+    "term_id": "T625",
+    "sense": "wish-fulfilling jewel",
+    "field": "academic",
+    "proposed": "joya que concede deseos",
+    "reason": "Same cintāmaṇi as T371 (academic 'joya que concede deseos'); academic fields should match."
+   },
+   {
+    "term_id": "T635",
+    "sense": "afflicted",
+    "field": "academic",
+    "proposed": "afligido",
+    "reason": "'aflijido' is a misspelling of 'afligido'."
+   },
+   {
+    "term_id": "T646",
+    "sense": "one who experiences",
+    "field": "academic",
+    "proposed": "experimentador",
+    "reason": "'experimentante' is not standard Spanish; 'experimentador' is the normal agent noun."
+   },
+   {
+    "term_id": "T668",
+    "sense": "experience",
+    "field": "children",
+    "proposed": "lo que se vive",
+    "reason": "'sensación' is the rendering of vedanā (T049); saṃvitti (myong ba) is experience."
+   },
+   {
+    "term_id": "T669",
+    "sense": "coarse",
+    "field": "academic",
+    "proposed": "burdo",
+    "reason": "Same sthūla as T190; 'grosero' means rude in Spanish, 'burdo' is the established term (opposite of sutil)."
+   },
+   {
+    "term_id": "T690",
+    "sense": "accumulation of merit",
+    "field": "children",
+    "proposed": "provisiones de bondad",
+    "reason": "Align with the proposed T119 'provisiones de bondad y sabiduría' for saṃbhāra; avoids clash with 'bondad acumulada' (puṇya)."
+   },
+   {
+    "term_id": "T706",
+    "sense": "state without leisure",
+    "field": "academic",
+    "proposed": "estado sin libertad",
+    "reason": "'ocio' suggests idle recreation; align with 'libertades y dotes' (T195) and the children's field."
+   }
+  ]
+ },
+ "tokens": {},
+ "model": "claude-sonnet-5-5",
+ "seconds": null,
+ "attempt": 1
+}

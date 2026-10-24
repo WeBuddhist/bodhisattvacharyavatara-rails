@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T482",
+    "senses": [
+     {
+      "sense": "praise and fame",
+      "academic": "lode e fama",
+      "children": "lodi e fama",
+      "note": "Simple coordinated pair; both registers stay close to everyday Italian."
+     }
+    ]
+   },
+   {
+    "term_id": "T483",
+    "senses": [
+     {
+      "sense": "disillusionment",
+      "academic": "disillusione",
+      "children": "stanchezza del ciclo delle rinascite",
+      "note": "Saṃvega as revulsion toward saṃsāra; children phrase reuses fixed saṃsāra rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T484",
+    "senses": [
+     {
+      "sense": "liberation",
+      "academic": "liberazione",
+      "children": "libertà",
+      "note": "Mukti as liberation, distinct from the relinquishment sense in T517."
+     }
+    ]
+   },
+   {
+    "term_id": "T485",
+    "senses": [
+     {
+      "sense": "blessing",
+      "academic": "benedizione",
+      "children": "benedizione",
+      "note": "Adhiṣṭhāna rendered with the standard Italian equivalent."
+     }
+    ]
+   },
+   {
+    "term_id": "T486",
+    "senses": [
+     {
+      "sense": "cause of merit",
+      "academic": "causa del merito",
+      "children": "causa di bontà accumulata",
+      "note": "Compound reuses fixed causa and merito/bontà accumulata."
+     }
+    ]
+   },
+   {
+    "term_id": "T487",
+    "senses": [
+     {
+      "sense": "ordination",
+      "academic": "ordinazione",
+      "children": "diventare monaco o monaca",
+      "note": "Pravrajyā as leaving home for monastic life; children phrase states it plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T488",
+    "senses": [
+     {
+      "sense": "result of patience",
+      "academic": "risultato della pazienza",
+      "children": "risultato della pazienza",
+      "note": "Compound reuses fixed risultato and pazienza."
+     }
+    ]
+   },
+   {
+    "term_id": "T489",
+    "senses": [
+     {
+      "sense": "hateful mind",
+      "academic": "mente odiosa",
+      "children": "mente piena di odio",
+      "note": "Children version spells out odio, the fixed rendering for hatred."
+     }
+    ]
+   },
+   {
+    "term_id": "T490",
+    "senses": [
+     {
+      "sense": "field of sentient beings",
+      "academic": "campo degli esseri senzienti",
+      "children": "campo degli esseri viventi",
+      "note": "Reuses fixed sentient being renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T491",
+    "senses": [
+     {
+      "sense": "field of the Victors",
+      "academic": "campo dei Vittoriosi",
+      "children": "campo dei Vincitori",
+      "note": "Reuses fixed Victor renderings (Vittorioso/Vincitore)."
+     }
+    ]
+   },
+   {
+    "term_id": "T492",
+    "senses": [
+     {
+      "sense": "perfection of excellence",
+      "academic": "perfezione dell'eccellenza",
+      "children": "perfezione dell'eccellenza",
+      "note": "English gives identical registers, so Italian does too."
+     }
+    ]
+   },
+   {
+    "term_id": "T493",
+    "senses": [
+     {
+      "sense": "supreme good quality",
+      "academic": "qualità positiva suprema",
+      "children": "qualità positiva suprema",
+      "note": "Reuses fixed good quality rendering with the superlative."
+     }
+    ]
+   },
+   {
+    "term_id": "T494",
+    "senses": [
+     {
+      "sense": "supreme quality of a Buddha",
+      "academic": "qualità suprema di un Buddha",
+      "children": "qualità più grande di un Buddha",
+      "note": "Children uses everyday superlative più grande for supreme."
+     }
+    ]
+   },
+   {
+    "term_id": "T495",
+    "senses": [
+     {
+      "sense": "Protector of the World",
+      "academic": "Protettore del Mondo",
+      "children": "Protettore del Mondo",
+      "note": "Epithet of Avalokiteśvara; reuses fixed mondo."
+     }
+    ]
+   },
+   {
+    "term_id": "T496",
+    "senses": [
+     {
+      "sense": "suffering of the world",
+      "academic": "sofferenza del mondo",
+      "children": "sofferenza del mondo",
+      "note": "Reuses fixed sofferenza and mondo."
+     }
+    ]
+   },
+   {
+    "term_id": "T497",
+    "senses": [
+     {
+      "sense": "compassionate one",
+      "academic": "compassionevole",
+      "children": "persona compassionevole",
+      "note": "Substantivized adjective; same rendering as T513 (kṛpālu)."
+     }
+    ]
+   },
+   {
+    "term_id": "T498",
+    "senses": [
+     {
+      "sense": "universal monarch",
+      "academic": "monarca universale",
+      "children": "re di tutto il mondo",
+      "note": "Standard Italian for cakravartin; children paraphrases plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T499",
+    "senses": [
+     {
+      "sense": "bodhisattva in the work's title",
+      "academic": "bodhisattva",
+      "children": "eroe del risveglio",
+      "note": "Reuses fixed glossary renderings, matching the title entry."
+     }
+    ]
+   },
+   {
+    "term_id": "T500",
+    "senses": [
+     {
+      "sense": "Patience",
+      "academic": "Pazienza",
+      "children": "Pazienza",
+      "note": "Chapter-title use; reuses fixed pazienza."
+     }
+    ]
+   },
+   {
+    "term_id": "T501",
+    "senses": [
+     {
+      "sense": "diligence",
+      "academic": "diligenza",
+      "children": "sforzo gioioso",
+      "note": "Vīrya; children conveys the joyful-effort nuance."
+     }
+    ]
+   },
+   {
+    "term_id": "T502",
+    "senses": [
+     {
+      "sense": "self-contempt",
+      "academic": "disprezzo di sé",
+      "children": "guardarsi dall'alto in basso",
+      "note": "Children mirrors the English phrase looking down on oneself."
+     }
+    ]
+   },
+   {
+    "term_id": "T503",
+    "senses": [
+     {
+      "sense": "attachment to what is base",
+      "academic": "attaccamento a ciò che è vile",
+      "children": "aggrapparsi a ciò che è cattivo",
+      "note": "Reuses fixed attachment renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T504",
+    "senses": [
+     {
+      "sense": "idleness",
+      "academic": "ozio",
+      "children": "pigrizia",
+      "note": "One of the three lazinesses; children uses the everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T505",
+    "senses": [
+     {
+      "sense": "force",
+      "academic": "schiera di forze",
+      "children": "forza",
+      "note": "Balavyūha as marshaled host; children simplifies to forza."
+     }
+    ]
+   },
+   {
+    "term_id": "T506",
+    "senses": [
+     {
+      "sense": "earnest application",
+      "academic": "applicazione fervente",
+      "children": "impegno totale",
+      "note": "Same rendering as T519, since the English sense is identical."
+     }
+    ]
+   },
+   {
+    "term_id": "T507",
+    "senses": [
+     {
+      "sense": "self-mastery",
+      "academic": "padronanza di sé",
+      "children": "controllo di se stessi",
+      "note": "Children uses the plainer controllo with fixed se stesso."
+     }
+    ]
+   },
+   {
+    "term_id": "T508",
+    "senses": [
+     {
+      "sense": "exchange of self and others",
+      "academic": "scambio tra sé e gli altri",
+      "children": "scambio tra se stessi e gli altri",
+      "note": "Classic BCA practice; children uses fixed se stesso."
+     }
+    ]
+   },
+   {
+    "term_id": "T509",
+    "senses": [
+     {
+      "sense": "Speaker of Truth",
+      "academic": "Colui che dice la Verità",
+      "children": "chi dice la verità",
+      "note": "Epithet of the Buddha; children drops the solemn capitalization."
+     }
+    ]
+   },
+   {
+    "term_id": "T510",
+    "senses": [
+     {
+      "sense": "power of diligence",
+      "academic": "forza della diligenza",
+      "children": "forza dello sforzo gioioso",
+      "note": "Reuses the T501 vīrya renderings in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T511",
+    "senses": [
+     {
+      "sense": "Supreme Physician",
+      "academic": "Medico Supremo",
+      "children": "il medico più bravo",
+      "note": "Children uses the everyday superlative for vara."
+     }
+    ]
+   },
+   {
+    "term_id": "T512",
+    "senses": [
+     {
+      "sense": "wrong conception",
+      "academic": "concezione errata",
+      "children": "pensiero sbagliato",
+      "note": "Children renders thinking rather than the technical conception."
+     }
+    ]
+   },
+   {
+    "term_id": "T513",
+    "senses": [
+     {
+      "sense": "compassionate one",
+      "academic": "compassionevole",
+      "children": "persona compassionevole",
+      "note": "Same sense as T497, so the same rendering is kept."
+     }
+    ]
+   },
+   {
+    "term_id": "T514",
+    "senses": [
+     {
+      "sense": "ocean of merit",
+      "academic": "oceano di merito",
+      "children": "oceano di bontà accumulata",
+      "note": "Reuses fixed merito/bontà accumulata."
+     }
+    ]
+   },
+   {
+    "term_id": "T515",
+    "senses": [
+     {
+      "sense": "force",
+      "academic": "forza",
+      "children": "forza",
+      "note": "Bala as force, distinct from the power sense in T521."
+     }
+    ]
+   },
+   {
+    "term_id": "T516",
+    "senses": [
+     {
+      "sense": "steadfastness",
+      "academic": "fermezza",
+      "children": "stabilità",
+      "note": "Children uses the more common word stabilità."
+     }
+    ]
+   },
+   {
+    "term_id": "T517",
+    "senses": [
+     {
+      "sense": "relinquishment",
+      "academic": "rinuncia",
+      "children": "lasciar andare",
+      "note": "Mukti here as giving up, not liberation (contrast T484)."
+     }
+    ]
+   },
+   {
+    "term_id": "T518",
+    "senses": [
+     {
+      "sense": "relinquishment",
+      "academic": "rinuncia",
+      "children": "lasciar andare",
+      "note": "English identical to T517, so Italian matches it."
+     }
+    ]
+   },
+   {
+    "term_id": "T519",
+    "senses": [
+     {
+      "sense": "earnest application (a power of diligence)",
+      "academic": "applicazione fervente",
+      "children": "impegno totale",
+      "note": "Same rendering as T506; a subdivision of vīrya."
+     }
+    ]
+   },
+   {
+    "term_id": "T520",
+    "senses": [
+     {
+      "sense": "mastery",
+      "academic": "padronanza",
+      "children": "padronanza",
+      "note": "Vaśitā; same everyday word serves both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T521",
+    "senses": [
+     {
+      "sense": "power",
+      "academic": "potere",
+      "children": "potere",
+      "note": "Bala as power, kept distinct from force (T515)."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4149,
+  "output": 2504,
+  "thinking": 4837,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 127.85,
+ "attempt": 1
+}

@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T321",
+    "senses": [
+     {
+      "sense": "seer",
+      "academic": "vidente",
+      "children": "sábio vidente",
+      "note": "Ancient Indian sage; 'rishi' also current in Brazil but 'vidente' matches English."
+     }
+    ]
+   },
+   {
+    "term_id": "T322",
+    "senses": [
+     {
+      "sense": "Brahmā (god)",
+      "academic": "Brahmā",
+      "children": "Brahma",
+      "note": "Proper name; diacritic dropped in children's register."
+     }
+    ]
+   },
+   {
+    "term_id": "T323",
+    "senses": [
+     {
+      "sense": "Sugata",
+      "academic": "Sugata",
+      "children": "Aquele que foi para o bem",
+      "note": "Buddha epithet; children glosses the meaning 'Well-Gone One'."
+     }
+    ]
+   },
+   {
+    "term_id": "T324",
+    "senses": [
+     {
+      "sense": "precious mind",
+      "academic": "mente preciosa",
+      "children": "mente preciosa",
+      "note": "Compound of fixed 'mente'."
+     }
+    ]
+   },
+   {
+    "term_id": "T325",
+    "senses": [
+     {
+      "sense": "Jewel",
+      "academic": "Joia",
+      "children": "Joia",
+      "note": "Capitalized as in English; often the Buddha or wish-fulfilling gem."
+     }
+    ]
+   },
+   {
+    "term_id": "T326",
+    "senses": [
+     {
+      "sense": "jewel tree",
+      "academic": "árvore de joias",
+      "children": "árvore de joias",
+      "note": "Reuses rendering of 'Joia'."
+     }
+    ]
+   },
+   {
+    "term_id": "T327",
+    "senses": [
+     {
+      "sense": "worthy recipient of offerings",
+      "academic": "digno receptor de oferendas",
+      "children": "digno de presentes",
+      "note": "Distinct from T335 'objeto de oferenda'."
+     }
+    ]
+   },
+   {
+    "term_id": "T328",
+    "senses": [
+     {
+      "sense": "supreme bodhisattva",
+      "academic": "ser supremo",
+      "children": "maior herói do despertar",
+      "note": "Children reuses fixed 'herói do despertar' for bodhisattva."
+     }
+    ]
+   },
+   {
+    "term_id": "T329",
+    "senses": [
+     {
+      "sense": "existence",
+      "academic": "existência",
+      "children": "vida",
+      "note": "Cyclic existence; children uses everyday 'vida' per English."
+     }
+    ]
+   },
+   {
+    "term_id": "T330",
+    "senses": [
+     {
+      "sense": "misdeed",
+      "academic": "má ação",
+      "children": "ato que faz mal",
+      "note": "Reuses fixed renderings for pāpa."
+     }
+    ]
+   },
+   {
+    "term_id": "T331",
+    "senses": [
+     {
+      "sense": "bath",
+      "academic": "banho",
+      "children": "banho",
+      "note": "Offering context: ritual bath."
+     }
+    ]
+   },
+   {
+    "term_id": "T332",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Samantabhadra",
+      "children": "Samantabhadra",
+      "note": "Proper name kept as is."
+     }
+    ]
+   },
+   {
+    "term_id": "T333",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Avalokiteśvara",
+      "children": "Avalokiteshvara",
+      "note": "Standard Brazilian form; diacritic dropped for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T334",
+    "senses": [
+     {
+      "sense": "three-thousandfold world system",
+      "academic": "sistema de três mil mundos",
+      "children": "mundo de três mil mundos",
+      "note": "Cosmic system of one billion worlds."
+     }
+    ]
+   },
+   {
+    "term_id": "T335",
+    "senses": [
+     {
+      "sense": "object of offering",
+      "academic": "objeto de oferenda",
+      "children": "digno de oferendas",
+      "note": "Recipient toward whom offerings are directed."
+     }
+    ]
+   },
+   {
+    "term_id": "T336",
+    "senses": [
+     {
+      "sense": "heavenly flower",
+      "academic": "mandāra",
+      "children": "flor celestial",
+      "note": "Flower of the gods; Sanskrit kept in academic register."
+     }
+    ]
+   },
+   {
+    "term_id": "T337",
+    "senses": [
+     {
+      "sense": "blue lotus",
+      "academic": "lótus azul",
+      "children": "lótus azul",
+      "note": "Everyday term, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T338",
+    "senses": [
+     {
+      "sense": "incense",
+      "academic": "incenso",
+      "children": "incenso",
+      "note": "Everyday term, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T339",
+    "senses": [
+     {
+      "sense": "divine feast",
+      "academic": "festim divino",
+      "children": "banquete dos deuses",
+      "note": "Food offering presented to deities."
+     }
+    ]
+   },
+   {
+    "term_id": "T340",
+    "senses": [
+     {
+      "sense": "lamp",
+      "academic": "lâmpada",
+      "children": "lâmpada",
+      "note": "Everyday term, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T341",
+    "senses": [
+     {
+      "sense": "immeasurable palace",
+      "academic": "palácio imensurável",
+      "children": "palácio sem medida",
+      "note": "Celestial mansion; children phrase mirrors 'beyond measure'."
+     }
+    ]
+   },
+   {
+    "term_id": "T342",
+    "senses": [
+     {
+      "sense": "suffering (variant spelling)",
+      "academic": "sofrimento",
+      "children": "sofrimento",
+      "note": "Variant of duḥkha; reuses fixed renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T343",
+    "senses": [
+     {
+      "sense": "supreme assembly (the Saṅgha)",
+      "academic": "Assembleia Suprema",
+      "children": "Assembleia Suprema",
+      "note": "Honorific for the Saṅgha; same form as English in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T344",
+    "senses": [
+     {
+      "sense": "buddha-field",
+      "academic": "campo",
+      "children": "terra",
+      "note": "A Buddha's realm or sphere of influence."
+     }
+    ]
+   },
+   {
+    "term_id": "T345",
+    "senses": [
+     {
+      "sense": "basis of bodhicitta",
+      "academic": "base da bodhicitta",
+      "children": "base da mente do despertar",
+      "note": "Reuses fixed bodhicitta renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T346",
+    "senses": [
+     {
+      "sense": "essence of awakening",
+      "academic": "essência do despertar",
+      "children": "coração do despertar",
+      "note": "Also the seat of enlightenment; reuses fixed 'despertar'."
+     }
+    ]
+   },
+   {
+    "term_id": "T347",
+    "senses": [
+     {
+      "sense": "fully awakened Buddha",
+      "academic": "Buda plenamente desperto",
+      "children": "Buda totalmente desperto",
+      "note": "Reuses fixed 'Buda' and 'despertar'."
+     }
+    ]
+   },
+   {
+    "term_id": "T348",
+    "senses": [
+     {
+      "sense": "rejoice",
+      "academic": "regozijar-se",
+      "children": "alegrar-se por",
+      "note": "Rejoicing in others' virtue; verb in infinitive head form."
+     }
+    ]
+   },
+   {
+    "term_id": "T349",
+    "senses": [
+     {
+      "sense": "one burdened with misdeeds",
+      "academic": "sobrecarregado de más ações",
+      "children": "quem fez atos que fazem mal",
+      "note": "Reuses fixed misdeed renderings; distinct from T354."
+     }
+    ]
+   },
+   {
+    "term_id": "T350",
+    "senses": [
+     {
+      "sense": "purification",
+      "academic": "purificação",
+      "children": "limpeza",
+      "note": "Cleansing of misdeeds."
+     }
+    ]
+   },
+   {
+    "term_id": "T351",
+    "senses": [
+     {
+      "sense": "definite liberation",
+      "academic": "libertação definitiva",
+      "children": "liberdade certa",
+      "note": "'Libertação' is standard Brazilian Buddhist rendering of liberation."
+     }
+    ]
+   },
+   {
+    "term_id": "T352",
+    "senses": [
+     {
+      "sense": "Protector of beings",
+      "academic": "Protetor dos seres errantes",
+      "children": "Protetor dos seres",
+      "note": "Reuses fixed jagat renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T353",
+    "senses": [
+     {
+      "sense": "assembly of bodhisattvas",
+      "academic": "assembleia de bodisatvas",
+      "children": "grupo de heróis do despertar",
+      "note": "Reuses fixed bodhisattva renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T354",
+    "senses": [
+     {
+      "sense": "one burdened with misdeeds",
+      "academic": "possuidor de más ações",
+      "children": "quem fez atos que fazem mal",
+      "note": "English children identical to T349, so children rendering matches."
+     }
+    ]
+   },
+   {
+    "term_id": "T355",
+    "senses": [
+     {
+      "sense": "Kṣitigarbha",
+      "academic": "Kṣitigarbha",
+      "children": "Kshitigarbha",
+      "note": "Proper name; diacritic dropped for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T356",
+    "senses": [
+     {
+      "sense": "Vajra-wielder",
+      "academic": "Portador do Vajra",
+      "children": "aquele que segura o raio",
+      "note": "Epithet of Vajrapāṇi; children explains vajra as thunderbolt."
+     }
+    ]
+   },
+   {
+    "term_id": "T357",
+    "senses": [
+     {
+      "sense": "desire",
+      "academic": "desejo",
+      "children": "desejo forte",
+      "note": "Afflicted longing; distinct from fixed 'apego' (lobha)."
+     }
+    ]
+   },
+   {
+    "term_id": "T358",
+    "senses": [
+     {
+      "sense": "name of the human continent",
+      "academic": "Jambudvīpa",
+      "children": "Jambudvipa",
+      "note": "Proper name; diacritic dropped for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T359",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Médico Onisciente",
+      "children": "médico que sabe tudo",
+      "note": "Buddha as all-knowing healer."
+     }
+    ]
+   },
+   {
+    "term_id": "T360",
+    "senses": [
+     {
+      "sense": "unit of distance",
+      "academic": "yojana",
+      "children": "légua",
+      "note": "Sanskrit kept academically; 'légua' is the everyday equivalent."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4100,
+  "output": 2436,
+  "thinking": 5455,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 230.73,
+ "attempt": 1
+}

@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T562",
+    "senses": [
+     {
+      "sense": "excrement",
+      "academic": "excrément",
+      "children": "crotte",
+      "note": "Children use everyday word for body waste."
+     }
+    ]
+   },
+   {
+    "term_id": "T563",
+    "senses": [
+     {
+      "sense": "saliva",
+      "academic": "salive",
+      "children": "bave",
+      "note": "Children's everyday equivalent of saliva."
+     }
+    ]
+   },
+   {
+    "term_id": "T564",
+    "senses": [
+     {
+      "sense": "cage of bones",
+      "academic": "cage d'os",
+      "children": "cage d'os",
+      "note": "Identical image kept in both registers, as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T565",
+    "senses": [
+     {
+      "sense": "insentient",
+      "academic": "insensible",
+      "children": "sans esprit",
+      "note": "Lacking consciousness; children phrased as 'without a mind'."
+     }
+    ]
+   },
+   {
+    "term_id": "T566",
+    "senses": [
+     {
+      "sense": "cage of filth",
+      "academic": "cage d'immondices",
+      "children": "cage de saleté",
+      "note": "Academic register uses formal word for filth."
+     }
+    ]
+   },
+   {
+    "term_id": "T567",
+    "senses": [
+     {
+      "sense": "impure field",
+      "academic": "champ impur",
+      "children": "champ sale",
+      "note": "Children use everyday 'dirty' instead of 'impure'."
+     }
+    ]
+   },
+   {
+    "term_id": "T568",
+    "senses": [
+     {
+      "sense": "worm born of filth",
+      "academic": "ver des immondices",
+      "children": "ver qui naît dans la saleté",
+      "note": "Children's version spells out 'born in filth'."
+     }
+    ]
+   },
+   {
+    "term_id": "T569",
+    "senses": [
+     {
+      "sense": "camphor",
+      "academic": "camphre",
+      "children": "camphre",
+      "note": "Everyday substance name identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T570",
+    "senses": [
+     {
+      "sense": "wealth",
+      "academic": "richesse",
+      "children": "richesse",
+      "note": "Same everyday word serves both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T571",
+    "senses": [
+     {
+      "sense": "suffering of existence",
+      "academic": "souffrance de l'existence",
+      "children": "souffrance de la vie",
+      "note": "Reuses fixed rendering 'souffrance'."
+     }
+    ]
+   },
+   {
+    "term_id": "T572",
+    "senses": [
+     {
+      "sense": "disadvantage",
+      "academic": "inconvénient",
+      "children": "mauvais côté",
+      "note": "Children phrased as the 'bad side' of something."
+     }
+    ]
+   },
+   {
+    "term_id": "T573",
+    "senses": [
+     {
+      "sense": "desire",
+      "academic": "désir",
+      "children": "désir",
+      "note": "Same word natural in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T574",
+    "senses": [
+     {
+      "sense": "contentment",
+      "academic": "contentement",
+      "children": "être content de ce qu'on a",
+      "note": "Children's phrase glosses contentment as being happy with what one has."
+     }
+    ]
+   },
+   {
+    "term_id": "T575",
+    "senses": [
+     {
+      "sense": "Indra",
+      "academic": "Indra",
+      "children": "Indra",
+      "note": "Proper name kept unchanged."
+     }
+    ]
+   },
+   {
+    "term_id": "T576",
+    "senses": [
+     {
+      "sense": "conceptual thought",
+      "academic": "pensée conceptuelle",
+      "children": "pensée",
+      "note": "Children simplified to plain 'thinking'."
+     }
+    ]
+   },
+   {
+    "term_id": "T577",
+    "senses": [
+     {
+      "sense": "Supuṣpacandra (name)",
+      "academic": "Supuṣpacandra",
+      "children": "Supushpachandra",
+      "note": "Diacritics dropped for child readers, matching English practice."
+     }
+    ]
+   },
+   {
+    "term_id": "T578",
+    "senses": [
+     {
+      "sense": "absence of an entity",
+      "academic": "absence d'entité",
+      "children": "absence de chose",
+      "note": "Children reuse fixed rendering 'chose' for entity."
+     }
+    ]
+   },
+   {
+    "term_id": "T579",
+    "senses": [
+     {
+      "sense": "self-grasping",
+      "academic": "saisie du soi",
+      "children": "s'accrocher à un soi",
+      "note": "Standard Buddhist French 'saisie du soi'; children as holding on."
+     }
+    ]
+   },
+   {
+    "term_id": "T580",
+    "senses": [
+     {
+      "sense": "intellect of self",
+      "academic": "intellect du soi",
+      "children": "pensée du moi",
+      "note": "Children render it as the thought of a 'me'."
+     }
+    ]
+   },
+   {
+    "term_id": "T581",
+    "senses": [
+     {
+      "sense": "blessing",
+      "academic": "bénédiction",
+      "children": "bénédiction",
+      "note": "Same word works for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T582",
+    "senses": [
+     {
+      "sense": "exchange of self and others",
+      "academic": "échange de soi et d'autrui",
+      "children": "échange entre soi et les autres",
+      "note": "Key meditation practice; children phrased with everyday words."
+     }
+    ]
+   },
+   {
+    "term_id": "T583",
+    "senses": [
+     {
+      "sense": "supreme secret (self-other exchange)",
+      "academic": "secret suprême",
+      "children": "plus grand secret",
+      "note": "Children say 'greatest secret'."
+     }
+    ]
+   },
+   {
+    "term_id": "T584",
+    "senses": [
+     {
+      "sense": "demon",
+      "academic": "démon",
+      "children": "démon",
+      "note": "Same word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T585",
+    "senses": [
+     {
+      "sense": "own welfare",
+      "academic": "bien personnel",
+      "children": "son propre bien",
+      "note": "Children's phrase mirrors 'own good'."
+     }
+    ]
+   },
+   {
+    "term_id": "T586",
+    "senses": [
+     {
+      "sense": "own welfare",
+      "academic": "bien personnel",
+      "children": "son propre bien",
+      "note": "Identical sense rendered identically to T585."
+     }
+    ]
+   },
+   {
+    "term_id": "T587",
+    "senses": [
+     {
+      "sense": "exchange",
+      "academic": "échange",
+      "children": "échange",
+      "note": "Same word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T588",
+    "senses": [
+     {
+      "sense": "next world",
+      "academic": "monde futur",
+      "children": "vie future",
+      "note": "Children rendered as 'next life'."
+     }
+    ]
+   },
+   {
+    "term_id": "T589",
+    "senses": [
+     {
+      "sense": "great demon",
+      "academic": "grand démon",
+      "children": "grand démon",
+      "note": "Same phrase in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T590",
+    "senses": [
+     {
+      "sense": "self",
+      "academic": "soi-même",
+      "children": "soi",
+      "note": "Emphatic 'very self' as 'soi-même'; children keep fixed 'soi'."
+     }
+    ]
+   },
+   {
+    "term_id": "T591",
+    "senses": [
+     {
+      "sense": "rivalry",
+      "academic": "rivalité",
+      "children": "rivalité",
+      "note": "Same word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T592",
+    "senses": [
+     {
+      "sense": "view",
+      "academic": "vue",
+      "children": "croyance",
+      "note": "Standard Buddhist 'vue'; children as 'belief'."
+     }
+    ]
+   },
+   {
+    "term_id": "T593",
+    "senses": [
+     {
+      "sense": "learning",
+      "academic": "savoir",
+      "children": "apprentissage",
+      "note": "Learning gained through hearing teachings."
+     }
+    ]
+   },
+   {
+    "term_id": "T594",
+    "senses": [
+     {
+      "sense": "grasping as \"I\"",
+      "academic": "saisie du « je »",
+      "children": "prendre pour un « je »",
+      "note": "Children phrase it as taking something to be an 'I'."
+     }
+    ]
+   },
+   {
+    "term_id": "T595",
+    "senses": [
+     {
+      "sense": "excellence",
+      "academic": "excellence",
+      "children": "perfection",
+      "note": "Children's simpler near-synonym for excellence."
+     }
+    ]
+   },
+   {
+    "term_id": "T596",
+    "senses": [
+     {
+      "sense": "grasping at self",
+      "academic": "emprise sur le soi",
+      "children": "agripper un soi",
+      "note": "Distinguished from T579 'saisie du soi' as English distinguishes the senses."
+     }
+    ]
+   },
+   {
+    "term_id": "T597",
+    "senses": [
+     {
+      "sense": "mental dullness",
+      "academic": "torpeur mentale",
+      "children": "esprit engourdi",
+      "note": "Children phrase it as a drowsy, heavy mind."
+     }
+    ]
+   },
+   {
+    "term_id": "T598",
+    "senses": [
+     {
+      "sense": "obscuration",
+      "academic": "obscurcissement",
+      "children": "voile",
+      "note": "Children use the everyday image of a veil."
+     }
+    ]
+   },
+   {
+    "term_id": "T599",
+    "senses": [
+     {
+      "sense": "object of meditative focus",
+      "academic": "objet de concentration parfait",
+      "children": "chose parfaite sur laquelle se concentrer",
+      "note": "Follows English 'perfect object of focus'; children reuse 'chose'."
+     }
+    ]
+   },
+   {
+    "term_id": "T600",
+    "senses": [
+     {
+      "sense": "title of chapter 8",
+      "academic": "Concentration méditative",
+      "children": "Concentration calme",
+      "note": "Chapter title; children simplified to 'calm focus'."
+     }
+    ]
+   },
+   {
+    "term_id": "T601",
+    "senses": [
+     {
+      "sense": "branch",
+      "academic": "branche",
+      "children": "branche",
+      "note": "Auxiliary factor; same word in both registers."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 3924,
+  "output": 2268,
+  "thinking": 5444,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 228.6,
+ "attempt": 1
+}

@@ -1,0 +1,456 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T682",
+    "senses": [
+     {
+      "sense": "ocean of suffering",
+      "academic": "océan de souffrance",
+      "children": "océan de souffrance",
+      "note": "Compound of fixed 'souffrance'; identical in both registers, mirroring English."
+     }
+    ]
+   },
+   {
+    "term_id": "T683",
+    "senses": [
+     {
+      "sense": "distraction",
+      "academic": "distraction",
+      "children": "distraction",
+      "note": "French 'distraction' is everyday and technical alike; kept for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T684",
+    "senses": [
+     {
+      "sense": "great lower realm",
+      "academic": "grand monde inférieur",
+      "children": "grand monde malheureux",
+      "note": "Reuses fixed renderings of 'lower realm' (durgati) with 'grand'."
+     }
+    ]
+   },
+   {
+    "term_id": "T685",
+    "senses": [
+     {
+      "sense": "wrong path",
+      "academic": "mauvaise voie",
+      "children": "mauvais chemin",
+      "note": "Children use everyday 'chemin' instead of the Buddhist 'voie'."
+     }
+    ]
+   },
+   {
+    "term_id": "T686",
+    "senses": [
+     {
+      "sense": "river of afflictions",
+      "academic": "rivière d'afflictions",
+      "children": "rivière d'émotions perturbatrices",
+      "note": "Reuses fixed 'affliction' renderings; ogha rendered 'rivière' per English."
+     }
+    ]
+   },
+   {
+    "term_id": "T687",
+    "senses": [
+     {
+      "sense": "river of suffering",
+      "academic": "rivière de souffrance",
+      "children": "rivière de souffrance",
+      "note": "Parallel to T686; fixed 'souffrance' reused in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T688",
+    "senses": [
+     {
+      "sense": "aging and death",
+      "academic": "vieillesse et mort",
+      "children": "vieillir et mourir",
+      "note": "Standard dependent-origination member; children rendered as simple verbs."
+     }
+    ]
+   },
+   {
+    "term_id": "T689",
+    "senses": [
+     {
+      "sense": "fire of suffering",
+      "academic": "feu de la souffrance",
+      "children": "feu de la souffrance",
+      "note": "Same image in both registers, mirroring English."
+     }
+    ]
+   },
+   {
+    "term_id": "T690",
+    "senses": [
+     {
+      "sense": "accumulation of merit",
+      "academic": "accumulation de mérite",
+      "children": "réserve de bonté rassemblée",
+      "note": "Reuses fixed 'mérite'/'réserve de bonté'; 'rassemblée' conveys accumulation."
+     }
+    ]
+   },
+   {
+    "term_id": "T691",
+    "senses": [
+     {
+      "sense": "non-apprehension",
+      "academic": "non-appréhension",
+      "children": "ne se fixer sur rien",
+      "note": "Technical anupalambha; children phrased as not fixating on anything."
+     }
+    ]
+   },
+   {
+    "term_id": "T692",
+    "senses": [
+     {
+      "sense": "world system",
+      "academic": "système de mondes",
+      "children": "grand monde",
+      "note": "Lokadhātu as 'système de mondes'; children simplified to 'grand monde'."
+     }
+    ]
+   },
+   {
+    "term_id": "T693",
+    "senses": [
+     {
+      "sense": "Sukhāvatī",
+      "academic": "Sukhāvatī",
+      "children": "Sukhavati",
+      "note": "Proper name of Amitābha's pure land; children without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T694",
+    "senses": [
+     {
+      "sense": "name of a thorny tree in hell",
+      "academic": "śālmali",
+      "children": "Shalmali",
+      "note": "Proper name of hell tree kept as is; children without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T695",
+    "senses": [
+     {
+      "sense": "divine palace",
+      "academic": "palais céleste",
+      "children": "palais du ciel",
+      "note": "Vimāna as celestial palace; children use plainer 'palais du ciel'."
+     }
+    ]
+   },
+   {
+    "term_id": "T696",
+    "senses": [
+     {
+      "sense": "hell river",
+      "academic": "rivière infranchissable",
+      "children": "rivière qu'on ne peut pas traverser",
+      "note": "Vaitaraṇī glossed per English; children given a plain spoken phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T697",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Vajrapāṇi",
+      "children": "Vajrapani",
+      "note": "Proper name; children spelling without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T698",
+    "senses": [
+     {
+      "sense": "Padmapāṇi (name of Avalokiteśvara)",
+      "academic": "Padmapāṇi",
+      "children": "Padmapani",
+      "note": "Proper name, epithet of Avalokiteśvara; children without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T699",
+    "senses": [
+     {
+      "sense": "youth with a topknot",
+      "academic": "adolescent au chignon",
+      "children": "garçon au chignon",
+      "note": "Cīrīkumāra; 'garçon' for children matching English 'boy'."
+     }
+    ]
+   },
+   {
+    "term_id": "T700",
+    "senses": [
+     {
+      "sense": "compassion, affection",
+      "academic": "affection",
+      "children": "compassion",
+      "note": "Follows English distinction: academic 'affection', children 'compassion'."
+     }
+    ]
+   },
+   {
+    "term_id": "T701",
+    "senses": [
+     {
+      "sense": "root of virtue",
+      "academic": "racine de vertu",
+      "children": "racine des bonnes actions",
+      "note": "Reuses fixed 'vertu'/'bonne action' in the compound."
+     }
+    ]
+   },
+   {
+    "term_id": "T702",
+    "senses": [
+     {
+      "sense": "animal",
+      "academic": "animal",
+      "children": "animal",
+      "note": "Everyday word, identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T703",
+    "senses": [
+     {
+      "sense": "Uttarakuru",
+      "academic": "Uttarakuru",
+      "children": "Uttarakuru",
+      "note": "Proper name of the northern continent; unchanged in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T704",
+    "senses": [
+     {
+      "sense": "name of a bodhisattva",
+      "academic": "Avalokiteśvara",
+      "children": "Avalokiteshvara",
+      "note": "Proper name; children spelling without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T705",
+    "senses": [
+     {
+      "sense": "Māyādevī (goddess)",
+      "academic": "Māyādevī",
+      "children": "Mayadevi",
+      "note": "Proper name; children spelling without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T706",
+    "senses": [
+     {
+      "sense": "state without leisure",
+      "academic": "absence de loisir",
+      "children": "état sans liberté",
+      "note": "Akṣaṇa, one of eight unfree states; children follow English 'state without freedom'."
+     }
+    ]
+   },
+   {
+    "term_id": "T707",
+    "senses": [
+     {
+      "sense": "compassion",
+      "academic": "compassion",
+      "children": "compassion",
+      "note": "Identical in both registers, as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T708",
+    "senses": [
+     {
+      "sense": "treasury of space",
+      "academic": "trésor de l'espace",
+      "children": "coffre aux trésors de l'espace",
+      "note": "Also bodhisattva name Gaganagañja; children render 'treasure house' plainly."
+     }
+    ]
+   },
+   {
+    "term_id": "T709",
+    "senses": [
+     {
+      "sense": "conduct of awakening",
+      "academic": "conduite de l'éveil",
+      "children": "façon d'agir pour l'éveil",
+      "note": "Reuses fixed 'éveil'; children paraphrase 'conduct' as way of acting."
+     }
+    ]
+   },
+   {
+    "term_id": "T710",
+    "senses": [
+     {
+      "sense": "action of Māra",
+      "academic": "action de Māra",
+      "children": "action de Mara",
+      "note": "Proper name Māra; children spelling without diacritic."
+     }
+    ]
+   },
+   {
+    "term_id": "T711",
+    "senses": [
+     {
+      "sense": "lapis lazuli",
+      "academic": "lapis-lazuli",
+      "children": "lapis-lazuli",
+      "note": "Standard French gemstone name, suitable for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T712",
+    "senses": [
+     {
+      "sense": "circle of retinue",
+      "academic": "cercle",
+      "children": "cercle",
+      "note": "Maṇḍala in sense of circle; same everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T713",
+    "senses": [
+     {
+      "sense": "sound of the Dharma",
+      "academic": "son du Dharma",
+      "children": "son des enseignements",
+      "note": "Reuses fixed 'Dharma'/'enseignements' in the compound."
+     }
+    ]
+   },
+   {
+    "term_id": "T714",
+    "senses": [
+     {
+      "sense": "cloud of offerings",
+      "academic": "nuage d'offrandes",
+      "children": "nuage d'offrandes",
+      "note": "Same image in both registers; 'offrandes' is accessible to children."
+     }
+    ]
+   },
+   {
+    "term_id": "T715",
+    "senses": [
+     {
+      "sense": "teacher of wandering beings",
+      "academic": "maître des êtres errants",
+      "children": "maître des êtres",
+      "note": "Reuses fixed 'être errant'/'être' (jagat) with 'maître' for guru."
+     }
+    ]
+   },
+   {
+    "term_id": "T716",
+    "senses": [
+     {
+      "sense": "king",
+      "academic": "roi",
+      "children": "roi",
+      "note": "Everyday word, identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T717",
+    "senses": [
+     {
+      "sense": "secret mantra",
+      "academic": "mantra secret",
+      "children": "paroles sacrées secrètes",
+      "note": "Children replace technical 'mantra' with plain 'paroles sacrées'."
+     }
+    ]
+   },
+   {
+    "term_id": "T718",
+    "senses": [
+     {
+      "sense": "ḍākinī",
+      "academic": "ḍākinī",
+      "children": "voyageuse du ciel",
+      "note": "Technical term kept for scholars; children get 'sky-goer' paraphrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T719",
+    "senses": [
+     {
+      "sense": "monastery",
+      "academic": "monastère",
+      "children": "monastère",
+      "note": "Standard equivalent of vihāra in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T720",
+    "senses": [
+     {
+      "sense": "recitation",
+      "academic": "récitation",
+      "children": "réciter",
+      "note": "Svādhyāya; children given infinitive head form like fixed 's'accrocher'."
+     }
+    ]
+   },
+   {
+    "term_id": "T721",
+    "senses": [
+     {
+      "sense": "Saṅgha",
+      "academic": "Saṃgha",
+      "children": "communauté des moines et des nonnes",
+      "note": "Technical term kept academically; children get a plain explanatory phrase."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 4124,
+  "output": 2610,
+  "thinking": 2386,
+  "cache_read": 1792,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 172.17,
+ "attempt": 1
+}

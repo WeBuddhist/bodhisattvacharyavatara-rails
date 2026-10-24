@@ -1,0 +1,480 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T121",
+    "senses": [
+     {
+      "sense": "heedfulness",
+      "academic": "kewaspadaan",
+      "children": "kehati-hatian",
+      "note": "Apramada: vigilant care that avoids heedlessness."
+     }
+    ]
+   },
+   {
+    "term_id": "T122",
+    "senses": [
+     {
+      "sense": "austerity",
+      "academic": "praktik pertapaan",
+      "children": "latihan yang berat",
+      "note": "Ascetic discipline or practice."
+     }
+    ]
+   },
+   {
+    "term_id": "T123",
+    "senses": [
+     {
+      "sense": "laziness",
+      "academic": "kemalasan",
+      "children": "rasa malas",
+      "note": "Opposite of joyful effort."
+     }
+    ]
+   },
+   {
+    "term_id": "T124",
+    "senses": [
+     {
+      "sense": "antidote",
+      "academic": "penangkal",
+      "children": "obat penawar",
+      "note": "Counteracting factor against an affliction."
+     }
+    ]
+   },
+   {
+    "term_id": "T125",
+    "senses": [
+     {
+      "sense": "sūtra",
+      "academic": "sutra",
+      "children": "teks ajaran",
+      "note": "Discourse text; Indonesian form without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T126",
+    "senses": [
+     {
+      "sense": "permanent",
+      "academic": "kekal",
+      "children": "berlangsung selamanya",
+      "note": "Pairs with anitya, rendered tidak kekal."
+     }
+    ]
+   },
+   {
+    "term_id": "T127",
+    "senses": [
+     {
+      "sense": "fame, renown",
+      "academic": "kemasyhuran",
+      "children": "ketenaran",
+      "note": "Renown or good reputation."
+     },
+     {
+      "sense": "common usage",
+      "academic": "konvensi umum",
+      "children": "sebutan sehari-hari",
+      "note": "Conventional designation accepted in ordinary usage."
+     }
+    ]
+   },
+   {
+    "term_id": "T128",
+    "senses": [
+     {
+      "sense": "envy",
+      "academic": "iri hati",
+      "children": "rasa cemburu",
+      "note": "Envy at others' advantages."
+     }
+    ]
+   },
+   {
+    "term_id": "T129",
+    "senses": [
+     {
+      "sense": "despondency",
+      "academic": "keputusasaan",
+      "children": "patah semangat",
+      "note": "Loss of heart, not clinical depression."
+     }
+    ]
+   },
+   {
+    "term_id": "T130",
+    "senses": [
+     {
+      "sense": "solitude",
+      "academic": "kesunyian",
+      "children": "menyendiri",
+      "note": "Seclusion supportive of meditation."
+     }
+    ]
+   },
+   {
+    "term_id": "T131",
+    "senses": [
+     {
+      "sense": "lifetime",
+      "academic": "kehidupan",
+      "children": "satu kehidupan",
+      "note": "One birth-to-death span."
+     }
+    ]
+   },
+   {
+    "term_id": "T132",
+    "senses": [
+     {
+      "sense": "sandalwood",
+      "academic": "cendana",
+      "children": "cendana",
+      "note": "Sandalwood; Indonesian cendana."
+     }
+    ]
+   },
+   {
+    "term_id": "T133",
+    "senses": [
+     {
+      "sense": "conceptualization",
+      "academic": "pikiran konseptual",
+      "children": "pikiran yang ramai",
+      "note": "Discursive conceptual thinking."
+     }
+    ]
+   },
+   {
+    "term_id": "T134",
+    "senses": [
+     {
+      "sense": "continuous stream of mind or person",
+      "academic": "kontinuum",
+      "children": "arus yang terus mengalir",
+      "note": "Continuum of consciousness or person."
+     }
+    ]
+   },
+   {
+    "term_id": "T135",
+    "senses": [
+     {
+      "sense": "accomplished meditator",
+      "academic": "yogi",
+      "children": "ahli meditasi",
+      "note": "Practitioner accomplished in meditation."
+     }
+    ]
+   },
+   {
+    "term_id": "T136",
+    "senses": [
+     {
+      "sense": "emptiness",
+      "academic": "kesunyataan",
+      "children": "kekosongan",
+      "note": "Emptiness of inherent existence, not mere nothingness."
+     }
+    ]
+   },
+   {
+    "term_id": "T137",
+    "senses": [
+     {
+      "sense": "consciousness",
+      "academic": "kesadaran",
+      "children": "kesadaran",
+      "note": "Here awareness, not wisdom-knowledge."
+     }
+    ]
+   },
+   {
+    "term_id": "T138",
+    "senses": [
+     {
+      "sense": "dream",
+      "academic": "mimpi",
+      "children": "mimpi",
+      "note": "Dream experience."
+     }
+    ]
+   },
+   {
+    "term_id": "T139",
+    "senses": [
+     {
+      "sense": "analysis",
+      "academic": "analisis",
+      "children": "pemikiran yang saksama",
+      "note": "Analytical examination."
+     }
+    ]
+   },
+   {
+    "term_id": "T140",
+    "senses": [
+     {
+      "sense": "in saṃsāra",
+      "academic": "samsara",
+      "children": "putaran lahir kembali",
+      "note": "Reuses fixed samsara rendering."
+     },
+     {
+      "sense": "retinue",
+      "academic": "pariwara",
+      "children": "pengikut",
+      "note": "Homographic sense: attendant circle."
+     }
+    ]
+   },
+   {
+    "term_id": "T141",
+    "senses": [
+     {
+      "sense": "heedlessness",
+      "academic": "kelalaian",
+      "children": "kecerobohan",
+      "note": "Opposite of apramada/kewaspadaan."
+     }
+    ]
+   },
+   {
+    "term_id": "T142",
+    "senses": [
+     {
+      "sense": "ocean of good qualities",
+      "academic": "samudra sifat baik",
+      "children": "lautan sifat baik",
+      "note": "Fixed guna reused as sifat baik."
+     }
+    ]
+   },
+   {
+    "term_id": "T143",
+    "senses": [
+     {
+      "sense": "Victor",
+      "academic": "Sang Penakluk",
+      "children": "Sang Pemenang",
+      "note": "Reuses fixed jina rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T144",
+    "senses": [
+     {
+      "sense": "lotus",
+      "academic": "teratai",
+      "children": "bunga teratai",
+      "note": "Lotus; Indonesian teratai."
+     }
+    ]
+   },
+   {
+    "term_id": "T145",
+    "senses": [
+     {
+      "sense": "stūpa, shrine",
+      "academic": "stupa",
+      "children": "tempat suci",
+      "note": "Caitya as Buddhist monument or shrine."
+     }
+    ]
+   },
+   {
+    "term_id": "T146",
+    "senses": [
+     {
+      "sense": "pay homage",
+      "academic": "memberi penghormatan",
+      "children": "membungkuk hormat",
+      "note": "Reverential salutation."
+     }
+    ]
+   },
+   {
+    "term_id": "T147",
+    "senses": [
+     {
+      "sense": "Guide",
+      "academic": "Sang Pembimbing",
+      "children": "Sang Pembimbing",
+      "note": "Epithet of the Buddha as guide."
+     }
+    ]
+   },
+   {
+    "term_id": "T148",
+    "senses": [
+     {
+      "sense": "messenger of Yama",
+      "academic": "utusan Yama",
+      "children": "utusan Yama",
+      "note": "Yama is the lord of death."
+     }
+    ]
+   },
+   {
+    "term_id": "T149",
+    "senses": [
+     {
+      "sense": "impermanent",
+      "academic": "tidak kekal",
+      "children": "tidak bertahan lama",
+      "note": "Pairs with nitya, rendered kekal."
+     }
+    ]
+   },
+   {
+    "term_id": "T150",
+    "senses": [
+     {
+      "sense": "rejoicing in virtue",
+      "academic": "turut bersukacita atas kebajikan",
+      "children": "ikut senang atas perbuatan baik",
+      "note": "Reuses fixed kusala as kebajikan/perbuatan baik."
+     }
+    ]
+   },
+   {
+    "term_id": "T151",
+    "senses": [
+     {
+      "sense": "protector, saviour",
+      "academic": "Sang Penyelamat",
+      "children": "Sang Pelindung",
+      "note": "Epithet: saviour academically, protector for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T152",
+    "senses": [
+     {
+      "sense": "nirvana",
+      "academic": "nirwana",
+      "children": "bebas dari penderitaan",
+      "note": "Standard Indonesian spelling nirwana."
+     }
+    ]
+   },
+   {
+    "term_id": "T153",
+    "senses": [
+     {
+      "sense": "family",
+      "academic": "keluarga",
+      "children": "keluarga",
+      "note": "Family; may denote Buddha-lineage."
+     }
+    ]
+   },
+   {
+    "term_id": "T154",
+    "senses": [
+     {
+      "sense": "hungry ghost",
+      "academic": "preta",
+      "children": "hantu kelaparan",
+      "note": "Preta, a being of the hungry-ghost realm."
+     }
+    ]
+   },
+   {
+    "term_id": "T155",
+    "senses": [
+     {
+      "sense": "bodhisattva ground",
+      "academic": "bhumi",
+      "children": "tingkat",
+      "note": "Technical bodhisattva path level."
+     },
+     {
+      "sense": "earth (element)",
+      "academic": "unsur tanah",
+      "children": "tanah",
+      "note": "Earth element, not only the planet."
+     }
+    ]
+   },
+   {
+    "term_id": "T156",
+    "senses": [
+     {
+      "sense": "mantra",
+      "academic": "mantra",
+      "children": "kata-kata suci",
+      "note": "Sacred formula."
+     }
+    ]
+   },
+   {
+    "term_id": "T157",
+    "senses": [
+     {
+      "sense": "craving",
+      "academic": "hasrat",
+      "children": "keinginan",
+      "note": "Strong thirst-like desire."
+     }
+    ]
+   },
+   {
+    "term_id": "T158",
+    "senses": [
+     {
+      "sense": "perfection of generosity",
+      "academic": "dana paramita",
+      "children": "kesempurnaan memberi",
+      "note": "Dana-paramita; giving brought to perfection."
+     }
+    ]
+   },
+   {
+    "term_id": "T159",
+    "senses": [
+     {
+      "sense": "perfection",
+      "academic": "paramita",
+      "children": "kesempurnaan",
+      "note": "Paramita retained as technical term."
+     }
+    ]
+   },
+   {
+    "term_id": "T160",
+    "senses": [
+     {
+      "sense": "self-mastery",
+      "academic": "penguasaan diri",
+      "children": "kendali diri",
+      "note": "Mastery over one's own mind and acts."
+     },
+     {
+      "sense": "independence",
+      "academic": "kemandirian",
+      "children": "tidak bergantung pada apa pun",
+      "note": "Not dependent on anything else."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 5633,
+  "output": 1856,
+  "thinking": 14241,
+  "cache_read": 256,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 506.44,
+ "attempt": 1
+}

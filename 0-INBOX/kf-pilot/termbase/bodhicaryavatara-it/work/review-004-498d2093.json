@@ -1,0 +1,87 @@
+{
+ "parsed": {
+  "objections": [
+   {
+    "term_id": "T366",
+    "sense": "level of the children of the Victors",
+    "field": "academic",
+    "proposed": "livello dei figli dei Vincitori",
+    "reason": "Follows T034/T143: jina is 'Vincitore'; consistent with the children's field."
+   },
+   {
+    "term_id": "T385",
+    "sense": "child of the Victors",
+    "field": "academic",
+    "proposed": "figlio dei Vincitori",
+    "reason": "Follows T034/T143: jina is 'Vincitore'; same as T110 and children's field."
+   },
+   {
+    "term_id": "T394",
+    "sense": "chapter title: Heedfulness",
+    "field": "academic",
+    "proposed": "Vigilanza",
+    "reason": "apramāda is 'vigilanza' in T121; 'Diligenza' is used for vīrya (T102), so the chapter title is inconsistent and misleading."
+   },
+   {
+    "term_id": "T423",
+    "sense": "regret (variant of འགྱོད་པ)",
+    "field": "academic",
+    "proposed": "rimpianto",
+    "reason": "Variant of T391 'rimpianto'; same word must have the same academic rendering."
+   },
+   {
+    "term_id": "T432",
+    "sense": "apprehension, fear of wrongdoing",
+    "field": "academic",
+    "proposed": "timore",
+    "reason": "'apprensione' means worry in Italian and is also used for ālambana in T286; 'timore' conveys fear of wrongdoing."
+   },
+   {
+    "term_id": "T437",
+    "sense": "supreme leisure",
+    "field": "academic",
+    "proposed": "agio supremo",
+    "reason": "Inconsistent with dal ba rendered 'agio' in T221 and T195; 'opportunità' changes the term."
+   },
+   {
+    "term_id": "T438",
+    "sense": "weapon of wisdom",
+    "field": "children",
+    "proposed": "spada della saggezza",
+    "reason": "'lama' is ambiguous in a Tibetan Buddhist text (a teacher); 'spada' is clear for children."
+   },
+   {
+    "term_id": "T445",
+    "sense": "dedication",
+    "field": "academic",
+    "proposed": "dedica",
+    "reason": "'dedicazione' is not the usual term and conflicts with T300; use 'dedica' for dedicating merit."
+   },
+   {
+    "term_id": "T460",
+    "sense": "heedlessness",
+    "field": "academic",
+    "proposed": "negligenza",
+    "reason": "'noncuranza' means indifference; consistent with T141 'negligenza' for pramāda."
+   },
+   {
+    "term_id": "T464",
+    "sense": "perversity",
+    "field": "academic",
+    "proposed": "capovolgimento",
+    "reason": "'perversità' suggests moral wickedness; viparyaya means inversion or distorted view."
+   },
+   {
+    "term_id": "T470",
+    "sense": "wrong livelihood",
+    "field": "academic",
+    "proposed": "sostentamento errato",
+    "reason": "'sussistenza errata' is unnatural; the Eightfold Path term is based on 'sostentamento'."
+   }
+  ]
+ },
+ "tokens": {},
+ "model": "claude-sonnet-5-5",
+ "seconds": null,
+ "attempt": 1
+}

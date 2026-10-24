@@ -1,5 +1,6 @@
 ---
-title: "AI-generated Translation of Chapter One (bo-བློ་ལྡན་ཤེས་རབ།)"
+title: "AI-generated Translation of Chapter One (bo-བློ་ལྡན་ཤེས་རབ།) — AI translation"
+ai_generated: true
 source_language: bo
 target_language: en
 status: ai-generated
@@ -11,7 +12,7 @@ referenced_files:
 created_at: 2026-05-28
 ---
 
-# Chapter One: The Benefits of the Mind of Enlightenment (ལེའུ་དང་པོ། བྱང་ཆུབ་སེམས་ཀྱི་ཕན་ཡོན་བཤད་པ།)
+# Chapter One: The Benefits of the Mind of Enlightenment (ལེའུ་དང་པོ། བྱང་ཆུབ་སེམས་ཀྱི་ཕན་ཡོན་བཤད་པ།) — AI translation
 
 I pay respectful homage to the Blissful Ones who possess the Truth Body, and to their heirs. I also bow to everyone who is worthy of honor. I shall now briefly describe how to enter the commitments of the Buddha's heirs, in accordance with the scriptures. ^1-1
 

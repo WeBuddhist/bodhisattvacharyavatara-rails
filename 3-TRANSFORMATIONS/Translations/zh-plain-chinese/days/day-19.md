@@ -1,4 +1,8 @@
-# 第19天 — Padmakara 白話中文
+---
+title: 第19天 — Padmakara 白話中文 — AI 翻譯
+ai_generated: true
+---
+# 第19天 — Padmakara 白話中文 — AI 翻譯
 
 **第二品：懺悔罪業　偈 2.19-2.21**
 

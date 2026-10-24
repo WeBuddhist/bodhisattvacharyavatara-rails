@@ -1,0 +1,108 @@
+{
+ "parsed": {
+  "objections": [
+   {
+    "term_id": "T012",
+    "sense": "the awakening mind",
+    "field": "academic",
+    "proposed": "bodhicitta",
+    "reason": "Established spelling keeps 'dh', consistent with bodhisatwa and Buddha elsewhere in the glossary."
+   },
+   {
+    "term_id": "T049",
+    "sense": "feeling",
+    "field": "academic",
+    "proposed": "perasaan",
+    "reason": "Vedanā is rendered 'perasaan' in Indonesian Buddhist usage; 'sensasi' is a non-standard calque."
+   },
+   {
+    "term_id": "T078",
+    "sense": "downfall",
+    "field": "academic",
+    "proposed": "pelanggaran",
+    "reason": "Āpatti/ltung ba is an established Indonesian vinaya term 'pelanggaran'; 'kejatuhan' suggests a physical or political fall."
+   },
+   {
+    "term_id": "T078",
+    "sense": "downfall",
+    "field": "children",
+    "proposed": "pelanggaran aturan",
+    "reason": "'Jatuh' reads as a physical fall to children; the meaning is breaking a vow."
+   },
+   {
+    "term_id": "T087",
+    "sense": "protector (of beings, epithet of buddhas)",
+    "field": "children",
+    "proposed": "Sang Pelindung",
+    "reason": "Inconsistent with T045 (same epithet, 'Sang Pelindung')."
+   },
+   {
+    "term_id": "T116",
+    "sense": "Tathāgata",
+    "field": "children",
+    "proposed": "Yang Pergi dengan Demikian",
+    "reason": "Inconsistent with T070: same term and same English children's rendering 'Thus-Gone One'."
+   },
+   {
+    "term_id": "T117",
+    "sense": "compassion",
+    "field": "academic",
+    "proposed": "welas asih",
+    "reason": "Compassion is 'welas asih' in T048; mixing Sanskrit 'karuna' for the same concept is inconsistent."
+   },
+   {
+    "term_id": "T115",
+    "sense": "great compassion",
+    "field": "academic",
+    "proposed": "mahakaruna",
+    "reason": "Fixed established term; also matches T203 (same concept, mahakaruna), keeping great compassion consistent."
+   },
+   {
+    "term_id": "T119",
+    "sense": "assembly (of bodhisattvas, Saṅgha)",
+    "field": "academic",
+    "proposed": "majelis",
+    "reason": "'Himpunan' reads as a mathematical set or association; 'majelis' is the established term for a Saṅgha or assembly."
+   },
+   {
+    "term_id": "T120",
+    "sense": "confess",
+    "field": "academic",
+    "proposed": "mengakui kesalahan",
+    "reason": "Bare 'mengakui' means acknowledge or claim; confessing wrongdoing needs the object kesalahan."
+   },
+   {
+    "term_id": "T120",
+    "sense": "confess",
+    "field": "children",
+    "proposed": "mengakui kesalahan",
+    "reason": "'Mengaku' alone means to claim or admit something; the meaning is owning up to wrongs."
+   },
+   {
+    "term_id": "T044",
+    "sense": "epithet of the Buddha",
+    "field": "children",
+    "proposed": "Sang Bijaksana",
+    "reason": "English children's rendering is 'Sage'; 'Muni' is not understandable to 8-12 year olds and T169 uses Sang Bijaksana."
+   },
+   {
+    "term_id": "T064",
+    "sense": "own welfare",
+    "field": "academic",
+    "proposed": "kesejahteraan diri sendiri",
+    "reason": "Same term as T168, T585, T586, which use 'kesejahteraan diri sendiri'; align all to the natural fuller form."
+   },
+   {
+    "term_id": "T119",
+    "sense": "accumulation (of merit and wisdom)",
+    "field": "academic",
+    "proposed": "pengumpulan",
+    "reason": "Inconsistent with T690 (accumulation of merit = 'pengumpulan jasa kebajikan'); 'akumulasi' is a loan calque."
+   }
+  ]
+ },
+ "tokens": {},
+ "model": "claude-sonnet-5-5",
+ "seconds": null,
+ "attempt": 1
+}

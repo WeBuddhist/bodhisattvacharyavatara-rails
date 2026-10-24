@@ -1,0 +1,480 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T081",
+    "senses": [
+     {
+      "sense": "craving",
+      "academic": "ansia",
+      "children": "deseo fuerte",
+      "note": "tṛṣṇā as 'ansia' is established in Spanish Buddhist literature; children get a plain phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T082",
+    "senses": [
+     {
+      "sense": "non-existent thing",
+      "academic": "no-entidad",
+      "children": "cosa que no existe",
+      "note": "Mirrors fixed 'entidad'/'cosa'; negation parallels English non-entity."
+     }
+    ]
+   },
+   {
+    "term_id": "T083",
+    "senses": [
+     {
+      "sense": "emptiness",
+      "academic": "vacuidad",
+      "children": "vacío",
+      "note": "'Vacuidad' is the standard scholarly Spanish rendering of śūnyatā."
+     }
+    ]
+   },
+   {
+    "term_id": "T084",
+    "senses": [
+     {
+      "sense": "Īśvara",
+      "academic": "Īśvara",
+      "children": "Creador",
+      "note": "Proper name kept in academic register; children get its role as creator god."
+     }
+    ]
+   },
+   {
+    "term_id": "T085",
+    "senses": [
+     {
+      "sense": "scripture",
+      "academic": "escritura",
+      "children": "texto sagrado",
+      "note": "Canonical religious texts; children get an everyday descriptive phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T086",
+    "senses": [
+     {
+      "sense": "existence",
+      "academic": "existencia",
+      "children": "vida",
+      "note": "bhava as cyclic existence; children rendered as 'vida' per English."
+     }
+    ]
+   },
+   {
+    "term_id": "T087",
+    "senses": [
+     {
+      "sense": "protector (of beings, epithet of buddhas)",
+      "academic": "Protector",
+      "children": "Protector",
+      "note": "Epithet of buddhas; same word works in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T088",
+    "senses": [
+     {
+      "sense": "ordaining teacher",
+      "academic": "preceptor",
+      "children": "maestro que me ordenó",
+      "note": "upādhyāya as monastic preceptor; children phrase mirrors English."
+     }
+    ]
+   },
+   {
+    "term_id": "T089",
+    "senses": [
+     {
+      "sense": "ascetic (person)",
+      "academic": "asceta",
+      "children": "persona de práctica estricta",
+      "note": "Person observing vows; children get a plain description."
+     },
+     {
+      "sense": "ascetic discipline",
+      "academic": "disciplina ascética",
+      "children": "práctica estricta",
+      "note": "The observance itself, kept distinct from the person."
+     }
+    ]
+   },
+   {
+    "term_id": "T090",
+    "senses": [
+     {
+      "sense": "take refuge",
+      "academic": "tomar refugio",
+      "children": "buscar amparo",
+      "note": "Standard formula; children use an everyday equivalent."
+     }
+    ]
+   },
+   {
+    "term_id": "T091",
+    "senses": [
+     {
+      "sense": "spiritual teacher",
+      "academic": "maestro",
+      "children": "maestro",
+      "note": "guru rendered 'maestro'; identical in both registers as everyday word."
+     }
+    ]
+   },
+   {
+    "term_id": "T092",
+    "senses": [
+     {
+      "sense": "anger",
+      "academic": "ira",
+      "children": "rabia",
+      "note": "Matches fixed rendering of krodha: same meaning, same Spanish terms."
+     }
+    ]
+   },
+   {
+    "term_id": "T093",
+    "senses": [
+     {
+      "sense": "Avīci hell",
+      "academic": "infierno Avīci",
+      "children": "Avichi",
+      "note": "Fixed 'infierno' plus proper name; children use simplified name alone."
+     }
+    ]
+   },
+   {
+    "term_id": "T094",
+    "senses": [
+     {
+      "sense": "ethical discipline",
+      "academic": "disciplina ética",
+      "children": "buena conducta",
+      "note": "śīla as 'disciplina ética' is established; children get everyday phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T095",
+    "senses": [
+     {
+      "sense": "gain",
+      "academic": "ganancia",
+      "children": "ganancia",
+      "note": "Worldly gain, one of the eight worldly concerns; everyday word serves both."
+     }
+    ]
+   },
+   {
+    "term_id": "T096",
+    "senses": [
+     {
+      "sense": "honor",
+      "academic": "honra",
+      "children": "honor",
+      "note": "Respect and veneration received; slight register contrast as in English."
+     }
+    ]
+   },
+   {
+    "term_id": "T097",
+    "senses": [
+     {
+      "sense": "like a log",
+      "academic": "como un tronco de madera",
+      "children": "como un tronco",
+      "note": "Simile of stillness in meditation; fuller phrase academic, shorter for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T098",
+    "senses": [
+     {
+      "sense": "fault",
+      "academic": "falta",
+      "children": "culpa",
+      "note": "Moral fault or wrongdoing; children get the everyday 'culpa'."
+     }
+    ]
+   },
+   {
+    "term_id": "T099",
+    "senses": [
+     {
+      "sense": "welfare of others",
+      "academic": "bienestar de los demás",
+      "children": "el bien de los demás",
+      "note": "Altruistic aim of the bodhisattva; children phrase mirrors English."
+     }
+    ]
+   },
+   {
+    "term_id": "T100",
+    "senses": [
+     {
+      "sense": "Mahāyāna",
+      "academic": "Mahāyāna",
+      "children": "Gran Vehículo",
+      "note": "Sanskrit name kept academically; translated meaning for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T101",
+    "senses": [
+     {
+      "sense": "gain",
+      "academic": "ganancia",
+      "children": "ganancia",
+      "note": "Same sense and rendering as T095 for consistency."
+     }
+    ]
+   },
+   {
+    "term_id": "T102",
+    "senses": [
+     {
+      "sense": "perfection of diligence",
+      "academic": "diligencia",
+      "children": "esfuerzo alegre",
+      "note": "vīrya pāramitā; children phrase conveys joyful effort per English."
+     }
+    ]
+   },
+   {
+    "term_id": "T103",
+    "senses": [
+     {
+      "sense": "person filled with desire",
+      "academic": "persona lujuriosa",
+      "children": "persona llena de deseos",
+      "note": "Sensual craving personified; children get a plain description."
+     }
+    ]
+   },
+   {
+    "term_id": "T104",
+    "senses": [
+     {
+      "sense": "thing that exists",
+      "academic": "entidad",
+      "children": "cosa",
+      "note": "Reuses fixed rendering of 'entity' as required."
+     }
+    ]
+   },
+   {
+    "term_id": "T105",
+    "senses": [
+     {
+      "sense": "visible form",
+      "academic": "forma",
+      "children": "forma",
+      "note": "rūpa as visible shape; 'forma' covers both English registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T106",
+    "senses": [
+     {
+      "sense": "luminous, clear (of mind or lamp)",
+      "academic": "luminoso",
+      "children": "brillante",
+      "note": "Brightness quality; children use everyday 'brillante'."
+     },
+     {
+      "sense": "manifest (of pleasure)",
+      "academic": "manifiesto",
+      "children": "claro",
+      "note": "Evident presence of a feeling, kept distinct from luminosity."
+     }
+    ]
+   },
+   {
+    "term_id": "T107",
+    "senses": [
+     {
+      "sense": "sound",
+      "academic": "sonido",
+      "children": "sonido",
+      "note": "Everyday word adequate for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T108",
+    "senses": [
+     {
+      "sense": "benefit",
+      "academic": "beneficio",
+      "children": "beneficio",
+      "note": "Advantage or profit of practice; same word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T109",
+    "senses": [
+     {
+      "sense": "lord of sages",
+      "academic": "Señor de los Sabios",
+      "children": "Señor de los Sabios",
+      "note": "Epithet of the Buddha (munīndra); transparent phrase suits both."
+     }
+    ]
+   },
+   {
+    "term_id": "T110",
+    "senses": [
+     {
+      "sense": "child of the Victors",
+      "academic": "hijo de los Vencedores",
+      "children": "hijo de los Victoriosos",
+      "note": "Built on fixed jina renderings 'Vencedor'/'Victorioso'."
+     }
+    ]
+   },
+   {
+    "term_id": "T111",
+    "senses": [
+     {
+      "sense": "refuge",
+      "academic": "refugio",
+      "children": "amparo",
+      "note": "Noun matching the verb T090; children use a simpler shelter word."
+     }
+    ]
+   },
+   {
+    "term_id": "T112",
+    "senses": [
+     {
+      "sense": "the Buddha's teaching, sublime",
+      "academic": "Dharma sublime",
+      "children": "enseñanzas sagradas",
+      "note": "Compound reuses fixed 'Dharma'/'enseñanzas' renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T113",
+    "senses": [
+     {
+      "sense": "child of the Buddhas",
+      "academic": "hijo de los Budas",
+      "children": "hijo de los Budas",
+      "note": "Bodhisattva epithet; fixed 'Buda' reused in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T114",
+    "senses": [
+     {
+      "sense": "wish-fulfilling tree",
+      "academic": "árbol de los deseos",
+      "children": "árbol que concede deseos",
+      "note": "Mythic kalpavṛkṣa; children get an explicit descriptive phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T115",
+    "senses": [
+     {
+      "sense": "great compassion",
+      "academic": "gran compasión",
+      "children": "gran compasión",
+      "note": "mahākṛpā; same simple phrase works for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T116",
+    "senses": [
+     {
+      "sense": "Tathāgata",
+      "academic": "Tathāgata",
+      "children": "el Que Así se Fue",
+      "note": "Sanskrit title kept academically; children get its translated meaning."
+     }
+    ]
+   },
+   {
+    "term_id": "T117",
+    "senses": [
+     {
+      "sense": "compassion",
+      "academic": "compasión",
+      "children": "compasión",
+      "note": "Everyday word already; identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T118",
+    "senses": [
+     {
+      "sense": "the Buddha's teaching, sublime",
+      "academic": "Dharma sublime",
+      "children": "enseñanzas sagradas",
+      "note": "Same sense and rendering as T112 for consistency."
+     }
+    ]
+   },
+   {
+    "term_id": "T119",
+    "senses": [
+     {
+      "sense": "assembly (of bodhisattvas, Saṅgha)",
+      "academic": "asamblea",
+      "children": "asamblea",
+      "note": "Gathered community; word is familiar enough for children."
+     },
+     {
+      "sense": "accumulation (of merit and wisdom)",
+      "academic": "acumulación",
+      "children": "bondad acumulada",
+      "note": "saṃbhāra; children phrase echoes fixed 'bondad acumulada' for merit."
+     },
+     {
+      "sense": "collection (of parts)",
+      "academic": "colección",
+      "children": "conjunto de partes",
+      "note": "Aggregated parts of a thing; children get an explicit plain phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T120",
+    "senses": [
+     {
+      "sense": "confess",
+      "academic": "confesar",
+      "children": "admitir",
+      "note": "Confession of misdeeds; children use the everyday 'admitir'."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 5642,
+  "output": 2614,
+  "thinking": 3569,
+  "cache_read": 256,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 70.56,
+ "attempt": 1
+}

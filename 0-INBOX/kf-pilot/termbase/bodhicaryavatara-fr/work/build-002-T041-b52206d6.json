@@ -1,0 +1,462 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T041",
+    "senses": [
+     {
+      "sense": "karma",
+      "academic": "karma",
+      "children": "action",
+      "note": "Karman as action with consequences; academic keeps the Sanskrit loanword."
+     }
+    ]
+   },
+   {
+    "term_id": "T042",
+    "senses": [
+     {
+      "sense": "mindfulness",
+      "academic": "pleine conscience",
+      "children": "attention",
+      "note": "Established French Buddhist rendering; children use everyday 'attention'."
+     },
+     {
+      "sense": "memory (recollection)",
+      "academic": "mémoire",
+      "children": "mémoire",
+      "note": "Same everyday word serves both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T043",
+    "senses": [
+     {
+      "sense": "nature",
+      "academic": "nature propre",
+      "children": "nature",
+      "note": "Svabhāva established as 'nature propre' in French scholarship."
+     }
+    ]
+   },
+   {
+    "term_id": "T044",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Sage",
+      "children": "Sage",
+      "note": "Muni, the Silent Sage; same capitalized epithet for both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T045",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Protecteur",
+      "children": "Protecteur",
+      "note": "Nātha as guardian epithet of the Buddha."
+     }
+    ]
+   },
+   {
+    "term_id": "T046",
+    "senses": [
+     {
+      "sense": "training",
+      "academic": "entraînement",
+      "children": "entraînement",
+      "note": "Śikṣā as in the three trainings; everyday word suits both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T047",
+    "senses": [
+     {
+      "sense": "introspection",
+      "academic": "introspection",
+      "children": "vigilance",
+      "note": "Saṃprajanya: clear awareness of one's own mind; children get 'vigilance'."
+     }
+    ]
+   },
+   {
+    "term_id": "T048",
+    "senses": [
+     {
+      "sense": "compassion",
+      "academic": "compassion",
+      "children": "compassion",
+      "note": "Karuṇā; identical everyday term in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T049",
+    "senses": [
+     {
+      "sense": "feeling",
+      "academic": "sensation",
+      "children": "sensation",
+      "note": "Vedanā standardly rendered 'sensation' in French."
+     }
+    ]
+   },
+   {
+    "term_id": "T050",
+    "senses": [
+     {
+      "sense": "consciousness",
+      "academic": "conscience",
+      "children": "conscience",
+      "note": "Jñāna here as awareness; French 'conscience' covers both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T051",
+    "senses": [
+     {
+      "sense": "object of knowledge",
+      "academic": "objet de connaissance",
+      "children": "chose à connaître",
+      "note": "Jñeya; children get a plain paraphrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T052",
+    "senses": [
+     {
+      "sense": "Sugata",
+      "academic": "Sugata",
+      "children": "Celui qui est bien allé",
+      "note": "Academic keeps the epithet; children receive its meaning in plain words."
+     }
+    ]
+   },
+   {
+    "term_id": "T053",
+    "senses": [
+     {
+      "sense": "wise person",
+      "academic": "sage",
+      "children": "personne sage",
+      "note": "Paṇḍita as learned, wise person; nominal form in academic register."
+     }
+    ]
+   },
+   {
+    "term_id": "T054",
+    "senses": [
+     {
+      "sense": "virtue",
+      "academic": "vertu",
+      "children": "bonne action",
+      "note": "Reuses the fixed kuśala renderings for this sense."
+     }
+    ]
+   },
+   {
+    "term_id": "T055",
+    "senses": [
+     {
+      "sense": "attachment",
+      "academic": "attachement",
+      "children": "s'accrocher",
+      "note": "Same sense as fixed lobha, so identical renderings reused."
+     }
+    ]
+   },
+   {
+    "term_id": "T056",
+    "senses": [
+     {
+      "sense": "beings who wander in saṃsāra",
+      "academic": "être errant",
+      "children": "être",
+      "note": "Reuses fixed jagat renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T057",
+    "senses": [
+     {
+      "sense": "wisdom",
+      "academic": "sagesse",
+      "children": "sagesse",
+      "note": "Prajñā standardly 'sagesse' in French translations."
+     }
+    ]
+   },
+   {
+    "term_id": "T058",
+    "senses": [
+     {
+      "sense": "hell",
+      "academic": "enfer",
+      "children": "enfer",
+      "note": "Reuses fixed naraka renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T059",
+    "senses": [
+     {
+      "sense": "conventional (truth)",
+      "academic": "vérité conventionnelle",
+      "children": "vérité de tous les jours",
+      "note": "Saṃvṛti-satya; children get the everyday-truth paraphrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T060",
+    "senses": [
+     {
+      "sense": "nirvāṇa",
+      "academic": "nirvāṇa",
+      "children": "libération du chagrin",
+      "note": "Academic keeps the term; children receive the sorrow-free paraphrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T061",
+    "senses": [
+     {
+      "sense": "happy realm",
+      "academic": "monde heureux",
+      "children": "monde heureux",
+      "note": "Sugati, parallel to fixed durgati 'monde inférieur'."
+     }
+    ]
+   },
+   {
+    "term_id": "T062",
+    "senses": [
+     {
+      "sense": "generosity",
+      "academic": "générosité",
+      "children": "donner",
+      "note": "Dāna; children use the plain verb in head form."
+     }
+    ]
+   },
+   {
+    "term_id": "T063",
+    "senses": [
+     {
+      "sense": "reality",
+      "academic": "réalité",
+      "children": "comment les choses sont vraiment",
+      "note": "Children receive a plain phrase for how things truly are."
+     }
+    ]
+   },
+   {
+    "term_id": "T064",
+    "senses": [
+     {
+      "sense": "own welfare",
+      "academic": "intérêt personnel",
+      "children": "son propre bien",
+      "note": "Svārtha; paired with parārtha 'intérêt d'autrui'."
+     }
+    ]
+   },
+   {
+    "term_id": "T065",
+    "senses": [
+     {
+      "sense": "childish person, fool",
+      "academic": "être immature",
+      "children": "personne immature",
+      "note": "Bāla as spiritually immature person, not a literal child."
+     }
+    ]
+   },
+   {
+    "term_id": "T066",
+    "senses": [
+     {
+      "sense": "impure, filthy",
+      "academic": "impureté",
+      "children": "saleté",
+      "note": "Amedhya; children get the everyday word for filth."
+     }
+    ]
+   },
+   {
+    "term_id": "T067",
+    "senses": [
+     {
+      "sense": "sensual desire",
+      "academic": "désir sensuel",
+      "children": "désir de plaisir",
+      "note": "Kāma; children receive a simple paraphrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T068",
+    "senses": [
+     {
+      "sense": "faith",
+      "academic": "foi",
+      "children": "foi",
+      "note": "Śraddhā; everyday word serves both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T069",
+    "senses": [
+     {
+      "sense": "child of the Buddhas",
+      "academic": "enfant",
+      "children": "enfant",
+      "note": "Suta: the bodhisattva as spiritual child of the Buddhas."
+     }
+    ]
+   },
+   {
+    "term_id": "T070",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Tathāgata",
+      "children": "Celui qui est ainsi allé",
+      "note": "Academic keeps the Sanskrit epithet; children get its plain meaning."
+     }
+    ]
+   },
+   {
+    "term_id": "T071",
+    "senses": [
+     {
+      "sense": "ignorance",
+      "academic": "ignorance",
+      "children": "ignorance",
+      "note": "Moha in the sense of not-knowing, distinct from fixed 'aveuglement' sense."
+     }
+    ]
+   },
+   {
+    "term_id": "T072",
+    "senses": [
+     {
+      "sense": "others' welfare",
+      "academic": "intérêt d'autrui",
+      "children": "bien des autres",
+      "note": "Parārtha; paired with svārtha 'intérêt personnel'."
+     }
+    ]
+   },
+   {
+    "term_id": "T073",
+    "senses": [
+     {
+      "sense": "name of the bodhisattva",
+      "academic": "Mañjuśrī",
+      "children": "Manjushri",
+      "note": "Mañjughoṣa is Mañjuśrī; children get the name without diacritics."
+     }
+    ]
+   },
+   {
+    "term_id": "T074",
+    "senses": [
+     {
+      "sense": "Lord of Death",
+      "academic": "Seigneur de la mort",
+      "children": "Seigneur de la mort",
+      "note": "Mṛtyu personified; English gives identical renderings, so French matches."
+     }
+    ]
+   },
+   {
+    "term_id": "T075",
+    "senses": [
+     {
+      "sense": "Yama",
+      "academic": "Yama",
+      "children": "Yama",
+      "note": "Proper name kept unchanged in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T076",
+    "senses": [
+     {
+      "sense": "lower realm",
+      "academic": "monde inférieur",
+      "children": "monde malheureux",
+      "note": "Apāya; reuses the fixed durgati renderings."
+     }
+    ]
+   },
+   {
+    "term_id": "T077",
+    "senses": [
+     {
+      "sense": "space",
+      "academic": "espace",
+      "children": "espace",
+      "note": "Ākāśa; same everyday word in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T078",
+    "senses": [
+     {
+      "sense": "downfall",
+      "academic": "chute",
+      "children": "chute",
+      "note": "Āpatti as moral downfall or offense; same word both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T079",
+    "senses": [
+     {
+      "sense": "intellect",
+      "academic": "intellect",
+      "children": "esprit qui pense",
+      "note": "Children receive a plain phrase for the thinking faculty."
+     }
+    ]
+   },
+   {
+    "term_id": "T080",
+    "senses": [
+     {
+      "sense": "conduct of awakening",
+      "academic": "conduite de l'éveil",
+      "children": "façon d'agir pour l'éveil",
+      "note": "Bodhicaryā; children get a plain paraphrase using fixed 'éveil'."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 5323,
+  "output": 2436,
+  "thinking": 4281,
+  "cache_read": 256,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 176.88,
+ "attempt": 1
+}

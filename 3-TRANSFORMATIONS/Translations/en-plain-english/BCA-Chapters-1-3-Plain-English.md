@@ -1,4 +1,8 @@
-# A Guide to the Bodhisattva's Way of Life
+---
+title: A Guide to the Bodhisattva's Way of Life — AI translation
+ai_generated: true
+---
+# A Guide to the Bodhisattva's Way of Life — AI translation
 ### Chapters One through Three — Plain English Translation (Grade 8)
 *Translated from the Sanskrit of Śāntideva*
 

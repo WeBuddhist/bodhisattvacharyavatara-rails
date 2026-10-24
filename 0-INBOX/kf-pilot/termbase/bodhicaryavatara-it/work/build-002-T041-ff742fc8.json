@@ -1,0 +1,462 @@
+{
+ "parsed": {
+  "terms": [
+   {
+    "term_id": "T041",
+    "senses": [
+     {
+      "sense": "karma",
+      "academic": "karma",
+      "children": "azione",
+      "note": "Karman as action and its results; children use plain 'azione'."
+     }
+    ]
+   },
+   {
+    "term_id": "T042",
+    "senses": [
+     {
+      "sense": "mindfulness",
+      "academic": "consapevolezza",
+      "children": "tenere a mente",
+      "note": "Standard Italian Buddhist rendering of smṛti as mindfulness."
+     },
+     {
+      "sense": "memory (recollection)",
+      "academic": "memoria",
+      "children": "ricordo",
+      "note": "Recollection sense, distinct from mindfulness; English uses one word."
+     }
+    ]
+   },
+   {
+    "term_id": "T043",
+    "senses": [
+     {
+      "sense": "nature",
+      "academic": "natura",
+      "children": "natura",
+      "note": "Svabhāva; philosophical contexts may gloss as intrinsic nature."
+     }
+    ]
+   },
+   {
+    "term_id": "T044",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Saggio",
+      "children": "Saggio",
+      "note": "Muni, capitalized epithet of the Buddha in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T045",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Protettore",
+      "children": "Protettore",
+      "note": "Nātha, capitalized epithet of the Buddha in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T046",
+    "senses": [
+     {
+      "sense": "training",
+      "academic": "addestramento",
+      "children": "allenamento",
+      "note": "Śikṣā as spiritual training; everyday 'allenamento' for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T047",
+    "senses": [
+     {
+      "sense": "introspection",
+      "academic": "introspezione",
+      "children": "stare attenti",
+      "note": "Saṃprajanya, watchful awareness paired with mindfulness."
+     }
+    ]
+   },
+   {
+    "term_id": "T048",
+    "senses": [
+     {
+      "sense": "compassion",
+      "academic": "compassione",
+      "children": "compassione",
+      "note": "Karuṇā; everyday word already, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T049",
+    "senses": [
+     {
+      "sense": "feeling",
+      "academic": "sensazione",
+      "children": "sensazione",
+      "note": "Vedanā; established as 'sensazione' in Italian Buddhist terminology."
+     }
+    ]
+   },
+   {
+    "term_id": "T050",
+    "senses": [
+     {
+      "sense": "consciousness",
+      "academic": "coscienza",
+      "children": "consapevolezza",
+      "note": "Jñāna as consciousness/awareness, not wisdom-knowledge here."
+     }
+    ]
+   },
+   {
+    "term_id": "T051",
+    "senses": [
+     {
+      "sense": "object of knowledge",
+      "academic": "oggetto di conoscenza",
+      "children": "cosa da conoscere",
+      "note": "Jñeya, whatever can be known."
+     }
+    ]
+   },
+   {
+    "term_id": "T052",
+    "senses": [
+     {
+      "sense": "Sugata",
+      "academic": "Sugata",
+      "children": "Colui che è andato bene",
+      "note": "Academic keeps Sanskrit epithet; children translate the meaning."
+     }
+    ]
+   },
+   {
+    "term_id": "T053",
+    "senses": [
+     {
+      "sense": "wise person",
+      "academic": "persona saggia",
+      "children": "persona saggia",
+      "note": "Paṇḍita; lowercase to distinguish from the epithet 'Saggio'."
+     }
+    ]
+   },
+   {
+    "term_id": "T054",
+    "senses": [
+     {
+      "sense": "virtue",
+      "academic": "virtù",
+      "children": "buona azione",
+      "note": "Matches fixed rendering of kuśala for consistency."
+     }
+    ]
+   },
+   {
+    "term_id": "T055",
+    "senses": [
+     {
+      "sense": "attachment",
+      "academic": "attaccamento",
+      "children": "aggrapparsi",
+      "note": "Rāga; reuses fixed rendering of lobha 'attachment'."
+     }
+    ]
+   },
+   {
+    "term_id": "T056",
+    "senses": [
+     {
+      "sense": "beings who wander in saṃsāra",
+      "academic": "essere errante",
+      "children": "essere",
+      "note": "Jagat; reuses fixed rendering exactly."
+     }
+    ]
+   },
+   {
+    "term_id": "T057",
+    "senses": [
+     {
+      "sense": "wisdom",
+      "academic": "saggezza",
+      "children": "saggezza",
+      "note": "Prajñā; 'saggezza' is the established Italian rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T058",
+    "senses": [
+     {
+      "sense": "hell",
+      "academic": "inferno",
+      "children": "inferno",
+      "note": "Naraka; reuses fixed rendering."
+     }
+    ]
+   },
+   {
+    "term_id": "T059",
+    "senses": [
+     {
+      "sense": "conventional (truth)",
+      "academic": "verità convenzionale",
+      "children": "verità quotidiana",
+      "note": "Saṃvṛti as the conventional level of the two truths."
+     }
+    ]
+   },
+   {
+    "term_id": "T060",
+    "senses": [
+     {
+      "sense": "nirvāṇa",
+      "academic": "nirvāṇa",
+      "children": "libertà dalla tristezza",
+      "note": "Children's phrase conveys freedom from sorrow, per English model."
+     }
+    ]
+   },
+   {
+    "term_id": "T061",
+    "senses": [
+     {
+      "sense": "happy realm",
+      "academic": "reame felice",
+      "children": "reame felice",
+      "note": "Sugati; mirrors fixed 'reame inferiore'/'reame infelice' pattern."
+     }
+    ]
+   },
+   {
+    "term_id": "T062",
+    "senses": [
+     {
+      "sense": "generosity",
+      "academic": "generosità",
+      "children": "dare",
+      "note": "Dāna; children use the plain verb 'dare'."
+     }
+    ]
+   },
+   {
+    "term_id": "T063",
+    "senses": [
+     {
+      "sense": "reality",
+      "academic": "realtà",
+      "children": "come sono davvero le cose",
+      "note": "Children's phrase follows the English plain-language model."
+     }
+    ]
+   },
+   {
+    "term_id": "T064",
+    "senses": [
+     {
+      "sense": "own welfare",
+      "academic": "bene proprio",
+      "children": "il proprio bene",
+      "note": "Svārtha, one's own benefit; paired with parārtha."
+     }
+    ]
+   },
+   {
+    "term_id": "T065",
+    "senses": [
+     {
+      "sense": "childish person, fool",
+      "academic": "fanciullo",
+      "children": "persona infantile",
+      "note": "Bāla, the spiritually immature person, not a literal child."
+     }
+    ]
+   },
+   {
+    "term_id": "T066",
+    "senses": [
+     {
+      "sense": "impure, filthy",
+      "academic": "impurità",
+      "children": "sporcizia",
+      "note": "Amedhya, e.g., the impurity of the body; noun head form."
+     }
+    ]
+   },
+   {
+    "term_id": "T067",
+    "senses": [
+     {
+      "sense": "sensual desire",
+      "academic": "desiderio sensuale",
+      "children": "desiderio di piacere",
+      "note": "Kāma as craving for sense pleasures."
+     }
+    ]
+   },
+   {
+    "term_id": "T068",
+    "senses": [
+     {
+      "sense": "faith",
+      "academic": "fede",
+      "children": "fede",
+      "note": "Śraddhā; everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T069",
+    "senses": [
+     {
+      "sense": "child of the Buddhas",
+      "academic": "figlio",
+      "children": "figlio",
+      "note": "Suta; bodhisattvas as figurative children of the Buddhas."
+     }
+    ]
+   },
+   {
+    "term_id": "T070",
+    "senses": [
+     {
+      "sense": "epithet of the Buddha",
+      "academic": "Tathāgata",
+      "children": "Colui che è andato così",
+      "note": "Academic keeps Sanskrit; children translate 'Thus-Gone One'."
+     }
+    ]
+   },
+   {
+    "term_id": "T071",
+    "senses": [
+     {
+      "sense": "ignorance",
+      "academic": "ignoranza",
+      "children": "ignoranza",
+      "note": "Moha as ignorance; kept distinct from fixed 'ottenebramento'."
+     }
+    ]
+   },
+   {
+    "term_id": "T072",
+    "senses": [
+     {
+      "sense": "others' welfare",
+      "academic": "bene altrui",
+      "children": "bene degli altri",
+      "note": "Parārtha, paired with svārtha 'bene proprio'."
+     }
+    ]
+   },
+   {
+    "term_id": "T073",
+    "senses": [
+     {
+      "sense": "name of the bodhisattva",
+      "academic": "Mañjuśrī",
+      "children": "Manjushri",
+      "note": "Standard Italian form of the bodhisattva's name; simplified for children."
+     }
+    ]
+   },
+   {
+    "term_id": "T074",
+    "senses": [
+     {
+      "sense": "Lord of Death",
+      "academic": "Signore della Morte",
+      "children": "Signore della Morte",
+      "note": "Mṛtyu personified; identical in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T075",
+    "senses": [
+     {
+      "sense": "Yama",
+      "academic": "Yama",
+      "children": "Yama",
+      "note": "Proper name, standard local form in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T076",
+    "senses": [
+     {
+      "sense": "lower realm",
+      "academic": "reame inferiore",
+      "children": "reame infelice",
+      "note": "Apāya; reuses fixed rendering of durgati 'lower realm'."
+     }
+    ]
+   },
+   {
+    "term_id": "T077",
+    "senses": [
+     {
+      "sense": "space",
+      "academic": "spazio",
+      "children": "spazio",
+      "note": "Ākāśa; everyday word, same in both registers."
+     }
+    ]
+   },
+   {
+    "term_id": "T078",
+    "senses": [
+     {
+      "sense": "downfall",
+      "academic": "trasgressione",
+      "children": "caduta",
+      "note": "Āpatti; established as moral transgression, children get 'fall'."
+     }
+    ]
+   },
+   {
+    "term_id": "T079",
+    "senses": [
+     {
+      "sense": "intellect",
+      "academic": "intelletto",
+      "children": "mente che pensa",
+      "note": "Discriminative mental faculty; children get a plain phrase."
+     }
+    ]
+   },
+   {
+    "term_id": "T080",
+    "senses": [
+     {
+      "sense": "conduct of awakening",
+      "academic": "condotta del risveglio",
+      "children": "modo di agire per il risveglio",
+      "note": "Bodhicaryā; reuses fixed 'risveglio' for bodhi."
+     }
+    ]
+   }
+  ]
+ },
+ "tokens": {
+  "input": 5326,
+  "output": 2430,
+  "thinking": 3399,
+  "cache_read": 256,
+  "cache_write": 0
+ },
+ "model": "kimi-k3",
+ "seconds": 61.81,
+ "attempt": 1
+}

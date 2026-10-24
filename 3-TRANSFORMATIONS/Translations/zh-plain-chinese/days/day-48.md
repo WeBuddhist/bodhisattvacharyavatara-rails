@@ -1,4 +1,8 @@
-# 第48天 — Padmakara 白話中文
+---
+title: 第48天 — Padmakara 白話中文 — AI 翻譯
+ai_generated: true
+---
+# 第48天 — Padmakara 白話中文 — AI 翻譯
 
 **第三品：受持菩提心　偈 3.15–3.16**
 

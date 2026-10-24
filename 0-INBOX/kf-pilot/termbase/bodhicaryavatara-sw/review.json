@@ -1,0 +1,1702 @@
+{
+ "builder": "kimi-k3",
+ "reviewer": "claude-sonnet-5-5",
+ "objections": [
+  {
+   "term_id": "T001",
+   "sense": "suffering",
+   "field": "academic",
+   "proposed": "mateso",
+   "reason": "'maumivu' means physical pains; the standard Swahili word for suffering (duḥkha) is 'mateso'.",
+   "applied": true
+  },
+  {
+   "term_id": "T001",
+   "sense": "suffering",
+   "field": "children",
+   "proposed": "mateso",
+   "reason": "'maumivu' means physical pains; 'mateso' is the natural word for suffering in general.",
+   "applied": true
+  },
+  {
+   "term_id": "T011",
+   "sense": "misdeed",
+   "field": "academic",
+   "proposed": "kitendo kibaya",
+   "reason": "'dhambi' means theistic sin against God; approved English is neutral 'misdeed'. Pairs with 'tendo jema' for kuśala.",
+   "applied": true
+  },
+  {
+   "term_id": "T025",
+   "sense": "misdeed",
+   "field": "academic",
+   "proposed": "kitendo kibaya",
+   "reason": "'dhambi' means theistic sin against God; approved English is neutral 'misdeed'. Keep consistent with T011.",
+   "applied": true
+  },
+  {
+   "term_id": "T019",
+   "sense": "things as such (chapter 9)",
+   "field": "academic",
+   "proposed": "dhihirisho",
+   "reason": "'tukio' means an event or occurrence, not a phenomenon (dharma as appearing thing).",
+   "applied": true
+  },
+  {
+   "term_id": "T020",
+   "sense": "awakening",
+   "field": "academic",
+   "proposed": "mwamko",
+   "reason": "'uamsho' means revival or rousing others (and has strong local religious/political connotations); 'mwamko' is the state of having awakened.",
+   "applied": true
+  },
+  {
+   "term_id": "T020",
+   "sense": "awakening",
+   "field": "children",
+   "proposed": "mwamko",
+   "reason": "'uamsho' means revival or rousing others; 'mwamko' is natural for awakening.",
+   "applied": true
+  },
+  {
+   "term_id": "T010",
+   "sense": "bodhisattva",
+   "field": "children",
+   "proposed": "shujaa wa mwamko",
+   "reason": "Follows the change of 'awakening' to 'mwamko' (T020) for consistency.",
+   "applied": true
+  },
+  {
+   "term_id": "T012",
+   "sense": "the awakening mind",
+   "field": "children",
+   "proposed": "akili ya mwamko",
+   "reason": "Follows the change of 'awakening' to 'mwamko' (T020) for consistency.",
+   "applied": true
+  },
+  {
+   "term_id": "T027",
+   "sense": "title of the work",
+   "field": "children",
+   "proposed": "Kuingia katika Njia ya Shujaa wa Mwamko",
+   "reason": "Follows the change of 'awakening' to 'mwamko' (T020) for consistency.",
+   "applied": true
+  },
+  {
+   "term_id": "T080",
+   "sense": "conduct of awakening",
+   "field": "academic",
+   "proposed": "mwenendo wa mwamko",
+   "reason": "Follows the change of 'awakening' to 'mwamko' (T020) for consistency.",
+   "applied": true
+  },
+  {
+   "term_id": "T080",
+   "sense": "conduct of awakening",
+   "field": "children",
+   "proposed": "matendo ya mwamko",
+   "reason": "Follows the change of 'awakening' to 'mwamko' (T020) for consistency.",
+   "applied": true
+  },
+  {
+   "term_id": "T031",
+   "sense": "illusion",
+   "field": "academic",
+   "proposed": "udanganyifu",
+   "reason": "'maya' is an untranslated Sanskrit loan, opaque to Swahili readers; English policy translates 'illusion', not a loanword.",
+   "applied": true
+  },
+  {
+   "term_id": "T038",
+   "sense": "delusion",
+   "field": "academic",
+   "proposed": "mkanganyiko wa akili",
+   "reason": "'upotofu' means moral deviation or depravity, not delusion/confusion of mind; sounds like the children's 'kuchanganyikiwa'.",
+   "applied": true
+  },
+  {
+   "term_id": "T042",
+   "sense": "mindfulness",
+   "field": "academic",
+   "proposed": "umakinifu",
+   "reason": "'ukumbusho' means reminder/memorial, not mindfulness; 'kumbukumbu' is separately used for memory.",
+   "applied": true
+  },
+  {
+   "term_id": "T045",
+   "sense": "epithet of the Buddha",
+   "field": "academic",
+   "proposed": "Mlinzi",
+   "reason": "Same Tibetan mgon po / nātha rendered 'Mlinzi' in T087; 'Mlindaji' is inconsistent and less natural.",
+   "applied": true
+  },
+  {
+   "term_id": "T045",
+   "sense": "epithet of the Buddha",
+   "field": "children",
+   "proposed": "Mlinzi",
+   "reason": "Same Tibetan mgon po / nātha rendered 'Mlinzi' in T087; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T053",
+   "sense": "wise person",
+   "field": "academic",
+   "proposed": "mwenye busara",
+   "reason": "'mwenye hekima' duplicates T044 (muni, 'Mwenye Hekima') for a different term; 'busara' keeps the sense and separates them.",
+   "applied": true
+  },
+  {
+   "term_id": "T053",
+   "sense": "wise person",
+   "field": "children",
+   "proposed": "mtu mwenye busara",
+   "reason": "Avoids duplicating T044 'Mwenye Hekima'; keeps the sense 'wise person'.",
+   "applied": true
+  },
+  {
+   "term_id": "T065",
+   "sense": "childish person, fool",
+   "field": "academic",
+   "proposed": "mtu wa kitoto",
+   "reason": "'mjinga' (fool) shares a root with 'ujinga' (ignorance, T071) and loses the 'childish' sense of bāla/byis pa.",
+   "applied": true
+  },
+  {
+   "term_id": "T069",
+   "sense": "child of the Buddhas",
+   "field": "academic",
+   "proposed": "mtoto wa Mabuddha",
+   "reason": "Same meaning as T113 and T110 which use 'Mtoto wa ...'; 'mwana' is inconsistent and singular 'Buddha' loses the plural.",
+   "applied": true
+  },
+  {
+   "term_id": "T069",
+   "sense": "child of the Buddhas",
+   "field": "children",
+   "proposed": "mtoto wa Mabuddha",
+   "reason": "Same meaning as T113 and T110 which use 'Mtoto wa ...'; keep consistent and plural.",
+   "applied": true
+  },
+  {
+   "term_id": "T099",
+   "sense": "welfare of others",
+   "field": "academic",
+   "proposed": "maslahi ya wengine",
+   "reason": "Same Sanskrit parārtha and same English as T072, which uses 'maslahi ya wengine'; renderings must match.",
+   "applied": true
+  },
+  {
+   "term_id": "T099",
+   "sense": "welfare of others",
+   "field": "children",
+   "proposed": "wema wa wengine",
+   "reason": "Same parārtha as T072 ('wema wa wengine'); keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T119",
+   "sense": "accumulation (of merit and wisdom)",
+   "field": "academic",
+   "proposed": "ukusanyaji",
+   "reason": "'hazina' means treasury or stored wealth, not the act of accumulating (tshogs); 'ukusanyaji' fits and differs from 'mkusanyiko'.",
+   "applied": true
+  },
+  {
+   "term_id": "T052",
+   "sense": "Sugata",
+   "field": "children",
+   "proposed": "Aliyeenda Vema",
+   "reason": "Correct relative form of 'kwenda' is 'aliyeenda'; matches T194. Also keeps all 'Well-Gone One' renderings consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T070",
+   "sense": "epithet of the Buddha",
+   "field": "children",
+   "proposed": "Aliyeenda Hivyo",
+   "reason": "Correct relative form of 'kwenda' is 'aliyeenda'; keep consistent with T052/T194.",
+   "applied": true
+  },
+  {
+   "term_id": "T116",
+   "sense": "Tathāgata",
+   "field": "children",
+   "proposed": "Aliyeenda Hivyo",
+   "reason": "Correct relative form of 'kwenda' is 'aliyeenda'; keep consistent with T070.",
+   "applied": true
+  },
+  {
+   "term_id": "T086",
+   "sense": "existence",
+   "field": "children",
+   "proposed": "maisha",
+   "reason": "Same bhava and English 'life' as T329, rendered 'maisha'; 'uzima' means health or wholeness.",
+   "applied": true
+  },
+  {
+   "term_id": "T121",
+   "sense": "heedfulness",
+   "field": "academic",
+   "proposed": "tahadhari",
+   "reason": "'ukadilifu' is not an established Swahili word; 'tahadhari' (vigilance, care) fits apramāda.",
+   "applied": true
+  },
+  {
+   "term_id": "T121",
+   "sense": "heedfulness",
+   "field": "children",
+   "proposed": "kuwa mwangalifu",
+   "reason": "'kuwa makini' is also used for saṃprajanya (T047, watchfulness); two different terms must differ.",
+   "applied": true
+  },
+  {
+   "term_id": "T122",
+   "sense": "austerity",
+   "field": "academic",
+   "proposed": "kujinyima",
+   "reason": "'kujifunga' means to tie or confine oneself, not austerity; 'kujinyima' is self-denial, the sense of tapas.",
+   "applied": true
+  },
+  {
+   "term_id": "T130",
+   "sense": "solitude",
+   "field": "academic",
+   "proposed": "faragha",
+   "reason": "'upekee' means uniqueness, not solitude; 'faragha' (seclusion, solitude) fits viveka.",
+   "applied": true
+  },
+  {
+   "term_id": "T132",
+   "sense": "sandalwood",
+   "field": "academic",
+   "proposed": "msandali",
+   "reason": "'sandali' means a sandal (footwear); sandalwood is 'msandali'.",
+   "applied": true
+  },
+  {
+   "term_id": "T132",
+   "sense": "sandalwood",
+   "field": "children",
+   "proposed": "msandali",
+   "reason": "'sandali' means a sandal (footwear); sandalwood is 'msandali'.",
+   "applied": true
+  },
+  {
+   "term_id": "T134",
+   "sense": "continuous stream of mind or person",
+   "field": "children",
+   "proposed": "mtiririko unaoendelea",
+   "reason": "'tiririko' is not the standard noun; 'mtiririko' (flow), as already used in T185.",
+   "applied": true
+  },
+  {
+   "term_id": "T137",
+   "sense": "consciousness",
+   "field": "children",
+   "proposed": "kufahamu",
+   "reason": "Same English 'awareness' rendered 'kufahamu' in T050 and T187; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T146",
+   "sense": "pay homage",
+   "field": "children",
+   "proposed": "kuinama",
+   "reason": "'kupiga magoti' means to kneel; the approved English is 'bow down', which is 'kuinama'.",
+   "applied": true
+  },
+  {
+   "term_id": "T150",
+   "sense": "rejoicing in virtue",
+   "field": "academic",
+   "proposed": "kufurahia fadhila",
+   "reason": "'kufurahi' does not take a direct object; 'kufurahia' (rejoice in) is grammatical.",
+   "applied": true
+  },
+  {
+   "term_id": "T151",
+   "sense": "protector, saviour",
+   "field": "academic",
+   "proposed": "Mwokozi",
+   "reason": "'Mokozi' is a misspelling; the Swahili word for Saviour is 'Mwokozi'.",
+   "applied": true
+  },
+  {
+   "term_id": "T155",
+   "sense": "earth (element)",
+   "field": "academic",
+   "proposed": "ardhi",
+   "reason": "'udongo' means soil; the earth element is better 'ardhi', matching the children's field.",
+   "applied": true
+  },
+  {
+   "term_id": "T157",
+   "sense": "craving",
+   "field": "children",
+   "proposed": "kutaka sana",
+   "reason": "Same tṛṣṇā and English 'wanting' as T081, which uses 'kutaka sana'; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T168",
+   "sense": "own interest",
+   "field": "academic",
+   "proposed": "maslahi ya nafsi",
+   "reason": "Same svārtha and English 'own welfare' as T064, rendered 'maslahi ya nafsi'; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T168",
+   "sense": "own interest",
+   "field": "children",
+   "proposed": "wema wa nafsi",
+   "reason": "Same svārtha and English 'own good' as T064, rendered 'wema wa nafsi'; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T169",
+   "sense": "epithet of the Buddha",
+   "field": "academic",
+   "proposed": "Mwenye Hekima",
+   "reason": "Same muni/thub pa and English 'Sage' as T044, rendered 'Mwenye Hekima'; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T169",
+   "sense": "epithet of the Buddha",
+   "field": "children",
+   "proposed": "Mwenye Hekima",
+   "reason": "Same muni/thub pa and English 'Sage' as T044; 'Mwanahakima' is inconsistent and not common Swahili.",
+   "applied": true
+  },
+  {
+   "term_id": "T176",
+   "sense": "childish person",
+   "field": "academic",
+   "proposed": "mtu wa kitoto",
+   "reason": "Same bāla as T065 (proposed 'mtu wa kitoto'); 'mjinga' loses 'childish' and clashes with 'ujinga' (ignorance).",
+   "applied": true
+  },
+  {
+   "term_id": "T177",
+   "sense": "object",
+   "field": "academic",
+   "proposed": "kitu lengwa",
+   "reason": "'somo' means subject or lesson, not an object of cognition; 'kitu kinachotambuliwa' is used for grāhya (T618).",
+   "applied": true
+  },
+  {
+   "term_id": "T180",
+   "sense": "impure",
+   "field": "academic",
+   "proposed": "chafu",
+   "reason": "'najisi' denotes Islamic ritual impurity; same Tibetan mi gtsang is 'uchafu' in T066, so 'chafu' is consistent and neutral.",
+   "applied": true
+  },
+  {
+   "term_id": "T188",
+   "sense": "monk",
+   "field": "academic",
+   "proposed": "mmonaki",
+   "reason": "'mmonaji' is not an established word; the Swahili word for monk is 'mmonaki'.",
+   "applied": true
+  },
+  {
+   "term_id": "T188",
+   "sense": "monk",
+   "field": "children",
+   "proposed": "mmonaki",
+   "reason": "'mmonaji' is not an established word; the Swahili word for monk is 'mmonaki'.",
+   "applied": true
+  },
+  {
+   "term_id": "T197",
+   "sense": "aspiring bodhicitta",
+   "field": "children",
+   "proposed": "akili inayotamani mwamko",
+   "reason": "Follows the change of 'awakening' from 'uamsho' (revival) to 'mwamko' (T020).",
+   "applied": true
+  },
+  {
+   "term_id": "T199",
+   "sense": "chapter 2 title",
+   "field": "academic",
+   "proposed": "Kuungama Vitendo Vibaya",
+   "reason": "'dhambi' (theistic sin) is wrong for pāpa; confession is 'kuungama' in T120 academic, not 'kukiri'.",
+   "applied": true
+  },
+  {
+   "term_id": "T210",
+   "sense": "awakening mind",
+   "field": "children",
+   "proposed": "akili ya mwamko",
+   "reason": "Follows the change of 'awakening' from 'uamsho' (revival) to 'mwamko' (T020).",
+   "applied": true
+  },
+  {
+   "term_id": "T224",
+   "sense": "illusion",
+   "field": "academic",
+   "proposed": "udanganyifu",
+   "reason": "'maya' is an untranslated Sanskrit loan; approved English is plain 'illusion'. Same as T031.",
+   "applied": true
+  },
+  {
+   "term_id": "T229",
+   "sense": "three worlds",
+   "field": "academic",
+   "proposed": "ulimwengu wa aina tatu",
+   "reason": "'milimwengu' is not a valid plural of 'ulimwengu'; this avoids the plural.",
+   "applied": true
+  },
+  {
+   "term_id": "T149",
+   "sense": "impermanent",
+   "field": "children",
+   "proposed": "isiyodumu",
+   "reason": "'ya muda tu' is also used for T244 (temporary); two different terms must differ. 'isiyodumu' matches T298.",
+   "applied": true
+  },
+  {
+   "term_id": "T141",
+   "sense": "heedlessness",
+   "field": "children",
+   "proposed": "kutokuwa mwangalifu",
+   "reason": "Antonym of apramāda children 'kuwa mwangalifu' (T121); 'kutokuwa makini' is the watchfulness (T047) family.",
+   "applied": true
+  },
+  {
+   "term_id": "T251",
+   "sense": "excellence",
+   "field": "academic",
+   "proposed": "ubora",
+   "reason": "'ukamilifu' already renders pāramitā (perfection, T159); two different terms must differ. 'ubora' means excellence.",
+   "applied": true
+  },
+  {
+   "term_id": "T255",
+   "sense": "three realms",
+   "field": "academic",
+   "proposed": "maeneo matatu",
+   "reason": "'ulimwengu mitatu' has wrong agreement and duplicates the 'three worlds' term (T229); khams is a realm, as in T317 ('eneo').",
+   "applied": true
+  },
+  {
+   "term_id": "T255",
+   "sense": "three realms",
+   "field": "children",
+   "proposed": "maeneo matatu",
+   "reason": "'dunia tatu' duplicates the rendering of 'three worlds' (T229); khams is a realm, as in T317.",
+   "applied": true
+  },
+  {
+   "term_id": "T256",
+   "sense": "opposing factor",
+   "field": "academic",
+   "proposed": "kipingamizi",
+   "reason": "'kipingani' is not an established Swahili word; 'kipingamizi' (that which opposes) is.",
+   "applied": true
+  },
+  {
+   "term_id": "T268",
+   "sense": "discursive thought",
+   "field": "academic",
+   "proposed": "mawazo yanayotangatanga",
+   "reason": "'mawazo machafu' means dirty or lewd thoughts, a wrong meaning; discursive thought is wandering thought.",
+   "applied": true
+  },
+  {
+   "term_id": "T275",
+   "sense": "happiness and suffering",
+   "field": "academic",
+   "proposed": "furaha na mateso",
+   "reason": "'maumivu' means physical pain; suffering (duḥkha) is 'mateso' (see T001).",
+   "applied": true
+  },
+  {
+   "term_id": "T275",
+   "sense": "happiness and suffering",
+   "field": "children",
+   "proposed": "furaha na mateso",
+   "reason": "'maumivu' means physical pain; suffering is 'mateso' (see T001).",
+   "applied": true
+  },
+  {
+   "term_id": "T342",
+   "sense": "suffering (variant spelling)",
+   "field": "academic",
+   "proposed": "mateso",
+   "reason": "'maumivu' means physical pain; suffering is 'mateso', consistent with T001.",
+   "applied": true
+  },
+  {
+   "term_id": "T342",
+   "sense": "suffering (variant spelling)",
+   "field": "children",
+   "proposed": "mateso",
+   "reason": "'maumivu' means physical pain; suffering is 'mateso', consistent with T001.",
+   "applied": true
+  },
+  {
+   "term_id": "T281",
+   "sense": "illusory mind",
+   "field": "academic",
+   "proposed": "akili ya udanganyifu",
+   "reason": "'maya' is an untranslated Sanskrit loan; use the Swahili rendering of illusion chosen for T031/T224.",
+   "applied": true
+  },
+  {
+   "term_id": "T282",
+   "sense": "aspect",
+   "field": "academic",
+   "proposed": "sura",
+   "reason": "'umbo' already renders rūpa (form, T105); ākāra as mode of appearance is 'sura'.",
+   "applied": true
+  },
+  {
+   "term_id": "T307",
+   "sense": "perfect awakening",
+   "field": "academic",
+   "proposed": "mwamko mkamilifu",
+   "reason": "'uamsho' means revival; awakening is 'mwamko' (see T020).",
+   "applied": true
+  },
+  {
+   "term_id": "T307",
+   "sense": "perfect awakening",
+   "field": "children",
+   "proposed": "mwamko kamili",
+   "reason": "'uamsho' means revival; awakening is 'mwamko' (see T020).",
+   "applied": true
+  },
+  {
+   "term_id": "T310",
+   "sense": "jewel",
+   "field": "academic",
+   "proposed": "kito",
+   "reason": "Three Jewels (T204) uses 'vito' and T326 'mti wa vito'; 'kito' keeps jewel consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T310",
+   "sense": "jewel",
+   "field": "children",
+   "proposed": "kito",
+   "reason": "Three Jewels (T204) uses 'vito' and T326 'mti wa vito'; 'kito' keeps jewel consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T315",
+   "sense": "engaging bodhicitta",
+   "field": "children",
+   "proposed": "akili inayoelekea mwamko",
+   "reason": "'uamsho' means revival; awakening is 'mwamko' (see T020).",
+   "applied": true
+  },
+  {
+   "term_id": "T316",
+   "sense": "engaging bodhicitta",
+   "field": "children",
+   "proposed": "akili inayoelekea mwamko",
+   "reason": "'uamsho' means revival; awakening is 'mwamko' (see T020).",
+   "applied": true
+  },
+  {
+   "term_id": "T317",
+   "sense": "realm",
+   "field": "academic",
+   "proposed": "eneo",
+   "reason": "'uwanja' (field/ground) is not realm; and academic and children differ. 'eneo' (domain, area) fits dhātu/khams.",
+   "applied": true
+  },
+  {
+   "term_id": "T317",
+   "sense": "realm",
+   "field": "children",
+   "proposed": "eneo",
+   "reason": "'ufalme' means kingdom (and echoes 'Kingdom of God'); 'eneo' is a neutral, simple word for realm.",
+   "applied": true
+  },
+  {
+   "term_id": "T318",
+   "sense": "irreversible",
+   "field": "academic",
+   "proposed": "isiyoweza kurudi nyuma",
+   "reason": "'isiyotendulika' is not an established Swahili word; this is clear and natural.",
+   "applied": true
+  },
+  {
+   "term_id": "T323",
+   "sense": "Sugata",
+   "field": "children",
+   "proposed": "Aliyeenda Vema",
+   "reason": "Correct relative form of 'kwenda' is 'aliyeenda'; consistent with T052/T194.",
+   "applied": true
+  },
+  {
+   "term_id": "T325",
+   "sense": "Jewel",
+   "field": "academic",
+   "proposed": "Kito",
+   "reason": "'Jito' is the augmentative (large gem) and clashes with 'Vito Vitatu' for the Three Jewels (T204); the singular of 'vito' is 'kito'.",
+   "applied": true
+  },
+  {
+   "term_id": "T325",
+   "sense": "Jewel",
+   "field": "children",
+   "proposed": "Kito",
+   "reason": "'jito' is an augmentative and clashes with 'Vito Vitatu' (T204); the singular of 'vito' is 'kito'.",
+   "applied": true
+  },
+  {
+   "term_id": "T328",
+   "sense": "supreme bodhisattva",
+   "field": "children",
+   "proposed": "shujaa mkuu wa mwamko",
+   "reason": "'uamsho' means revival; awakening is 'mwamko' (see T020).",
+   "applied": true
+  },
+  {
+   "term_id": "T330",
+   "sense": "misdeed",
+   "field": "academic",
+   "proposed": "kitendo kibaya",
+   "reason": "'dhambi' means theistic sin; approved English is neutral 'misdeed' (see T011).",
+   "applied": true
+  },
+  {
+   "term_id": "T345",
+   "sense": "basis of bodhicitta",
+   "field": "children",
+   "proposed": "msingi wa akili ya mwamko",
+   "reason": "'uamsho' means revival; awakening is 'mwamko' (see T020).",
+   "applied": true
+  },
+  {
+   "term_id": "T346",
+   "sense": "essence of awakening",
+   "field": "academic",
+   "proposed": "kiini cha mwamko",
+   "reason": "'uamsho' means revival; awakening is 'mwamko' (see T020).",
+   "applied": true
+  },
+  {
+   "term_id": "T346",
+   "sense": "essence of awakening",
+   "field": "children",
+   "proposed": "moyo wa mwamko",
+   "reason": "'uamsho' means revival; awakening is 'mwamko' (see T020).",
+   "applied": true
+  },
+  {
+   "term_id": "T349",
+   "sense": "one burdened with misdeeds",
+   "field": "academic",
+   "proposed": "mwenye mzigo wa vitendo vibaya",
+   "reason": "'dhambi' means theistic sin; approved English is 'misdeeds' (see T011).",
+   "applied": true
+  },
+  {
+   "term_id": "T353",
+   "sense": "assembly of bodhisattvas",
+   "field": "children",
+   "proposed": "kundi la mashujaa wa mwamko",
+   "reason": "'uamsho' means revival; awakening is 'mwamko' (see T020).",
+   "applied": true
+  },
+  {
+   "term_id": "T354",
+   "sense": "one burdened with misdeeds",
+   "field": "academic",
+   "proposed": "mwenye vitendo vibaya",
+   "reason": "'dhambi' means theistic sin; approved English is 'misdeeds' (see T011).",
+   "applied": true
+  },
+  {
+   "term_id": "T359",
+   "sense": "epithet of the Buddha",
+   "field": "academic",
+   "proposed": "Tabibu Mwenye Kujua Yote",
+   "reason": "'mganga' evokes a traditional healer or witch doctor; 'tabibu' is the dignified word for physician.",
+   "applied": true
+  },
+  {
+   "term_id": "T249",
+   "sense": "insentient thing",
+   "field": "academic",
+   "proposed": "kisicho na hisia",
+   "reason": "Sentient is 'chenye hisia' (T002) and insentient in T565 is 'kisicho na hisia'; 'kisicho na akili' is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T344",
+   "sense": "buddha-field",
+   "field": "academic",
+   "proposed": "shamba la Buddha",
+   "reason": "Tibetan zhing is 'shamba' (field) in T490, T491, T567; 'uwanja' is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T361",
+   "sense": "non-virtue",
+   "field": "academic",
+   "proposed": "ukosefu wa fadhila",
+   "reason": "'maovu' means 'evil things' (plural adjective); same Tibetan mi dge as T264 rendered 'ukosefu wa fadhila'. Keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T362",
+   "sense": "natural misdeed",
+   "field": "academic",
+   "proposed": "kitendo kibaya cha asili",
+   "reason": "'dhambi' means theistic sin; approved English is neutral 'misdeed' (see T011).",
+   "applied": true
+  },
+  {
+   "term_id": "T363",
+   "sense": "proscribed misdeed",
+   "field": "academic",
+   "proposed": "kitendo kibaya kilichokatazwa",
+   "reason": "'dhambi' means theistic sin; approved English is neutral 'misdeed' (see T011).",
+   "applied": true
+  },
+  {
+   "term_id": "T365",
+   "sense": "definite liberation",
+   "field": "academic",
+   "proposed": "ukombozi wa uhakika",
+   "reason": "Same English 'definite liberation' as T351, rendered 'ukombozi wa uhakika'; 'wa hakika' is also less grammatical.",
+   "applied": true
+  },
+  {
+   "term_id": "T366",
+   "sense": "level of the children of the Victors",
+   "field": "academic",
+   "proposed": "ngazi ya watoto wa Washindi",
+   "reason": "Child of the Victors is 'Mtoto wa Washindi' in T110; 'wana' is inconsistent with it.",
+   "applied": true
+  },
+  {
+   "term_id": "T367",
+   "sense": "generation of bodhicitta",
+   "field": "children",
+   "proposed": "kuzaliwa kwa akili ya mwamko",
+   "reason": "'uamsho' means revival; awakening is 'mwamko' (see T020).",
+   "applied": true
+  },
+  {
+   "term_id": "T369",
+   "sense": "intermediate eon of famine",
+   "field": "children",
+   "proposed": "zama ndefu ya kati ya njaa",
+   "reason": "'zama' is class 9/10 and takes 'ya', not 'la'; 'zama ndefu la kati la njaa' is ungrammatical.",
+   "applied": true
+  },
+  {
+   "term_id": "T371",
+   "sense": "wish-fulfilling jewel",
+   "field": "academic",
+   "proposed": "kito kinachotimiza matamanio",
+   "reason": "Jewel is rendered 'kito/vito' in T204, T325, T326 (T310); 'johari' is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T371",
+   "sense": "wish-fulfilling jewel",
+   "field": "children",
+   "proposed": "kito kinachotimiza matamanio",
+   "reason": "Jewel is rendered 'kito/vito' in T204, T325, T326 (T310); 'johari' is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T377",
+   "sense": "realm of sentient beings",
+   "field": "academic",
+   "proposed": "eneo la viumbe vyenye hisia",
+   "reason": "Tibetan khams is 'eneo' (realm) in T317/T255; 'ulimwengu' is the rendering of loka/'jig rten.",
+   "applied": true
+  },
+  {
+   "term_id": "T377",
+   "sense": "realm of sentient beings",
+   "field": "children",
+   "proposed": "eneo la viumbe hai",
+   "reason": "Tibetan khams is 'eneo' (realm) in T317/T255; 'ulimwengu' is the rendering of loka/'jig rten.",
+   "applied": true
+  },
+  {
+   "term_id": "T378",
+   "sense": "bodhicitta (honorific)",
+   "field": "children",
+   "proposed": "akili ya mwamko",
+   "reason": "'uamsho' means revival; awakening is 'mwamko' (see T020).",
+   "applied": true
+  },
+  {
+   "term_id": "T385",
+   "sense": "child of the Victors",
+   "field": "academic",
+   "proposed": "mtoto wa Washindi",
+   "reason": "Same meaning as T110 ('Mtoto wa Washindi'); 'mwana' is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T387",
+   "sense": "unsurpassed happiness",
+   "field": "academic",
+   "proposed": "furaha isiyozidiwa",
+   "reason": "'isiyoshindwa' means unconquerable or undefeated; 'unsurpassed' is 'isiyozidiwa'.",
+   "applied": true
+  },
+  {
+   "term_id": "T393",
+   "sense": "faculties",
+   "field": "academic",
+   "proposed": "mkusanyiko wa uwezo wa hisia",
+   "reason": "Indriya is 'uwezo wa hisia' in T291; 'vyombo vya hisia' is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T393",
+   "sense": "faculties",
+   "field": "children",
+   "proposed": "kundi la viungo vya hisia",
+   "reason": "Indriya is 'kiungo cha hisia' in T291; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T394",
+   "sense": "chapter title: Heedfulness",
+   "field": "academic",
+   "proposed": "Tahadhari",
+   "reason": "Must match apramāda in T121 ('tahadhari'); 'uangalifu' is not used there.",
+   "applied": true
+  },
+  {
+   "term_id": "T394",
+   "sense": "chapter title: Heedfulness",
+   "field": "children",
+   "proposed": "Kuwa Mwangalifu",
+   "reason": "Must match apramāda children in T121 ('kuwa mwangalifu'); 'kuwa makini' is used for saṃprajanya (T047).",
+   "applied": true
+  },
+  {
+   "term_id": "T397",
+   "sense": "mind of misdeed",
+   "field": "academic",
+   "proposed": "akili ya kutenda mabaya",
+   "reason": "'dhambi' means theistic sin; approved English is neutral 'misdeed' (see T011).",
+   "applied": true
+  },
+  {
+   "term_id": "T406",
+   "sense": "epithet of the Buddha",
+   "field": "academic",
+   "proposed": "Mjuaji wa Uhalisi",
+   "reason": "Reality is 'uhalisi' in T063; the spelling 'uhalisia' is inconsistent with it.",
+   "applied": true
+  },
+  {
+   "term_id": "T415",
+   "sense": "moment",
+   "field": "academic",
+   "proposed": "wakati mfupi",
+   "reason": "'kitambo' means a while or some time, not an instant; kṣaṇa/skad cig is a moment.",
+   "applied": true
+  },
+  {
+   "term_id": "T415",
+   "sense": "moment",
+   "field": "children",
+   "proposed": "wakati mfupi",
+   "reason": "'kitambo' means a while or some time, not an instant; kṣaṇa/skad cig is a moment.",
+   "applied": true
+  },
+  {
+   "term_id": "T437",
+   "sense": "supreme leisure",
+   "field": "academic",
+   "proposed": "nafasi bora ya kufanya mazoezi",
+   "reason": "'faragha' means seclusion or privacy, not leisure; leisure (kṣaṇa) is 'nafasi ya kufanya mazoezi' in T221.",
+   "applied": true
+  },
+  {
+   "term_id": "T443",
+   "sense": "conduct of the bodhisattva",
+   "field": "children",
+   "proposed": "mwenendo wa shujaa wa mwamko",
+   "reason": "'uamsho' means revival; awakening is 'mwamko' (see T020).",
+   "applied": true
+  },
+  {
+   "term_id": "T445",
+   "sense": "dedication",
+   "field": "academic",
+   "proposed": "kutoa thawabu",
+   "reason": "Same English 'dedication' as T300, rendered 'kutoa thawabu'; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T445",
+   "sense": "dedication",
+   "field": "children",
+   "proposed": "kugawana wema",
+   "reason": "Same English 'sharing the goodness' as T300, rendered 'kugawana wema'; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T454",
+   "sense": "generosity",
+   "field": "children",
+   "proposed": "kupa",
+   "reason": "Same dāna and English 'giving' as T062, rendered 'kupa'; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T460",
+   "sense": "heedlessness",
+   "field": "academic",
+   "proposed": "uzembe",
+   "reason": "Same pramāda and English as T141, rendered 'uzembe'; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T460",
+   "sense": "heedlessness",
+   "field": "children",
+   "proposed": "kutokuwa mwangalifu",
+   "reason": "Same pramāda and English as T141; keep consistent and distinct from watchfulness 'kuwa makini'.",
+   "applied": true
+  },
+  {
+   "term_id": "T471",
+   "sense": "suffering of death",
+   "field": "academic",
+   "proposed": "mateso ya kifo",
+   "reason": "'maumivu' means physical pain; suffering (duḥkha) is 'mateso' (see T001).",
+   "applied": true
+  },
+  {
+   "term_id": "T471",
+   "sense": "suffering of death",
+   "field": "children",
+   "proposed": "mateso ya kifo",
+   "reason": "'maumivu' means physical pain; suffering is 'mateso' (see T001).",
+   "applied": true
+  },
+  {
+   "term_id": "T474",
+   "sense": "generation of bodhicitta",
+   "field": "children",
+   "proposed": "kuamsha akili ya mwamko",
+   "reason": "'uamsho' means revival; awakening is 'mwamko' (see T020).",
+   "applied": true
+  },
+  {
+   "term_id": "T475",
+   "sense": "Buddhahood",
+   "field": "academic",
+   "proposed": "mwamko kama Buddha",
+   "reason": "'uamsho' means revival; awakening is 'mwamko' (see T020).",
+   "applied": true
+  },
+  {
+   "term_id": "T487",
+   "sense": "ordination",
+   "field": "academic",
+   "proposed": "kuingia utawani",
+   "reason": "Same concept as T302, rendered 'kuingia utawani'; 'utawa' is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T487",
+   "sense": "ordination",
+   "field": "children",
+   "proposed": "kuwa mtawa",
+   "reason": "Same concept as T302 'kuwa mtawa'; 'mtawa' covers monks and nuns, and 'mmonaki mwanamke' is awkward.",
+   "applied": true
+  },
+  {
+   "term_id": "T495",
+   "sense": "Protector of the World",
+   "field": "academic",
+   "proposed": "Mlinzi wa Ulimwengu",
+   "reason": "Protector (mgon po) is 'Mlinzi' in T087; 'Mlindaji' is inconsistent and less natural.",
+   "applied": true
+  },
+  {
+   "term_id": "T495",
+   "sense": "Protector of the World",
+   "field": "children",
+   "proposed": "Mlinzi wa Dunia",
+   "reason": "Protector (mgon po) is 'Mlinzi' in T087; 'Mlindaji' is inconsistent and less natural.",
+   "applied": true
+  },
+  {
+   "term_id": "T496",
+   "sense": "suffering of the world",
+   "field": "academic",
+   "proposed": "mateso ya ulimwengu",
+   "reason": "'maumivu' means physical pain; suffering is 'mateso' (see T001).",
+   "applied": true
+  },
+  {
+   "term_id": "T496",
+   "sense": "suffering of the world",
+   "field": "children",
+   "proposed": "mateso ya dunia",
+   "reason": "'maumivu' means physical pain; suffering is 'mateso' (see T001).",
+   "applied": true
+  },
+  {
+   "term_id": "T499",
+   "sense": "bodhisattva in the work's title",
+   "field": "children",
+   "proposed": "shujaa wa mwamko",
+   "reason": "'uamsho' means revival; awakening is 'mwamko' (see T020).",
+   "applied": true
+  },
+  {
+   "term_id": "T501",
+   "sense": "diligence",
+   "field": "children",
+   "proposed": "kujituma kwa furaha",
+   "reason": "Same 'joyful effort' as T102, rendered 'kujituma kwa furaha'; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T510",
+   "sense": "power of diligence",
+   "field": "children",
+   "proposed": "nguvu ya kujituma kwa furaha",
+   "reason": "Keep consistent with T102/T501 rendering of 'joyful effort'.",
+   "applied": true
+  },
+  {
+   "term_id": "T504",
+   "sense": "idleness",
+   "field": "academic",
+   "proposed": "kutofanya kazi",
+   "reason": "'uvivu' already renders laziness (T123) and lethargy (T537); three different terms need different words.",
+   "applied": true
+  },
+  {
+   "term_id": "T504",
+   "sense": "idleness",
+   "field": "children",
+   "proposed": "kukaa bure",
+   "reason": "'uvivu' already renders laziness (T123) and sluggishness (T537); use a distinct simple phrase.",
+   "applied": true
+  },
+  {
+   "term_id": "T537",
+   "sense": "lethargy",
+   "field": "academic",
+   "proposed": "ulegevu",
+   "reason": "'uvivu' already renders laziness (T123) and idleness (T504); 'ulegevu' means slackness or sluggishness.",
+   "applied": true
+  },
+  {
+   "term_id": "T537",
+   "sense": "lethargy",
+   "field": "children",
+   "proposed": "ulegevu",
+   "reason": "'uvivu' already renders laziness (T123); 'ulegevu' fits sluggishness.",
+   "applied": true
+  },
+  {
+   "term_id": "T508",
+   "sense": "exchange of self and others",
+   "field": "academic",
+   "proposed": "badilishano la nafsi na wengine",
+   "reason": "Same term as T582, rendered 'badilishano la nafsi na wengine' in academic; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T517",
+   "sense": "relinquishment",
+   "field": "academic",
+   "proposed": "kuachilia",
+   "reason": "'kuyaacha' contains a class-6 object concord ('leave them') with no antecedent; 'kuachilia' means to let go.",
+   "applied": true
+  },
+  {
+   "term_id": "T518",
+   "sense": "relinquishment",
+   "field": "academic",
+   "proposed": "kuachilia",
+   "reason": "'kuyaacha' contains a class-6 object concord ('leave them') with no antecedent; 'kuachilia' means to let go.",
+   "applied": true
+  },
+  {
+   "term_id": "T528",
+   "sense": "other life",
+   "field": "academic",
+   "proposed": "maisha mengine",
+   "reason": "'uzima mwingine' is unnatural; same English as T468, rendered 'maisha mengine'.",
+   "applied": true
+  },
+  {
+   "term_id": "T536",
+   "sense": "one keeping ascetic discipline",
+   "field": "academic",
+   "proposed": "mtawa",
+   "reason": "English is 'ascetic', rendered 'mtawa' for vrata in T089; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T539",
+   "sense": "concentration",
+   "field": "academic",
+   "proposed": "samadhi",
+   "reason": "Same samādhi and English 'concentration' as T414, rendered 'samadhi'; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T539",
+   "sense": "concentration",
+   "field": "children",
+   "proposed": "umakini mkubwa",
+   "reason": "Same samādhi and English 'deep focus' as T414, rendered 'umakini mkubwa'; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T549",
+   "sense": "conceit",
+   "field": "academic",
+   "proposed": "kujikweza",
+   "reason": "'majivuno' already renders arrogance (T419); two different terms need different words.",
+   "applied": true
+  },
+  {
+   "term_id": "T555",
+   "sense": "path of existence",
+   "field": "academic",
+   "proposed": "njia ya uwepo",
+   "reason": "Same English as T382, rendered 'njia ya uwepo'; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T561",
+   "sense": "reanimated corpse",
+   "field": "academic",
+   "proposed": "maiti iliyofufuliwa",
+   "reason": "'maitii' is a misspelling; the word for corpse is 'maiti'.",
+   "applied": true
+  },
+  {
+   "term_id": "T561",
+   "sense": "reanimated corpse",
+   "field": "children",
+   "proposed": "maiti inayotembea",
+   "reason": "'maitii' is a misspelling; the word for corpse is 'maiti'.",
+   "applied": true
+  },
+  {
+   "term_id": "T564",
+   "sense": "cage of bones",
+   "field": "academic",
+   "proposed": "ngome ya mifupa",
+   "reason": "'tundu' means a hole, not a cage; 'ngome' is a cage or enclosure.",
+   "applied": true
+  },
+  {
+   "term_id": "T564",
+   "sense": "cage of bones",
+   "field": "children",
+   "proposed": "ngome ya mifupa",
+   "reason": "'tundu' means a hole, not a cage; 'ngome' is a cage or enclosure.",
+   "applied": true
+  },
+  {
+   "term_id": "T566",
+   "sense": "cage of filth",
+   "field": "academic",
+   "proposed": "ngome ya uchafu",
+   "reason": "'tundu' means a hole, not a cage; 'ngome' is a cage or enclosure.",
+   "applied": true
+  },
+  {
+   "term_id": "T566",
+   "sense": "cage of filth",
+   "field": "children",
+   "proposed": "ngome ya uchafu",
+   "reason": "'tundu' means a hole, not a cage; 'ngome' is a cage or enclosure.",
+   "applied": true
+  },
+  {
+   "term_id": "T567",
+   "sense": "impure field",
+   "field": "academic",
+   "proposed": "shamba lisilo safi",
+   "reason": "Tibetan zhing is 'shamba' (field) in T490, T491; 'uwanja' is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T571",
+   "sense": "suffering of existence",
+   "field": "academic",
+   "proposed": "mateso ya kuwepo",
+   "reason": "'maumivu' means physical pain; suffering is 'mateso' (see T001).",
+   "applied": true
+  },
+  {
+   "term_id": "T571",
+   "sense": "suffering of existence",
+   "field": "children",
+   "proposed": "mateso ya maisha",
+   "reason": "'maumivu' means physical pain; suffering is 'mateso' (see T001).",
+   "applied": true
+  },
+  {
+   "term_id": "T573",
+   "sense": "desire",
+   "field": "academic",
+   "proposed": "tamaa",
+   "reason": "'shauku' means eagerness and is used for utsāha (T538, children); 'tamaa' is desire, as in T357.",
+   "applied": true
+  },
+  {
+   "term_id": "T579",
+   "sense": "self-grasping",
+   "field": "academic",
+   "proposed": "kushikilia nafsi",
+   "reason": "Self-grasping is 'kushikilia nafsi' in T596 and T277 children; 'kushika nafsi' is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T585",
+   "sense": "own welfare",
+   "field": "academic",
+   "proposed": "maslahi ya nafsi",
+   "reason": "Same English 'own welfare' as T064, rendered 'maslahi ya nafsi'; 'ya binafsi' is also ungrammatical.",
+   "applied": true
+  },
+  {
+   "term_id": "T585",
+   "sense": "own welfare",
+   "field": "children",
+   "proposed": "wema wa nafsi",
+   "reason": "Same English 'own good' as T064, rendered 'wema wa nafsi'; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T586",
+   "sense": "own welfare",
+   "field": "academic",
+   "proposed": "maslahi ya nafsi",
+   "reason": "Same English 'own welfare' as T064, rendered 'maslahi ya nafsi'; 'ya binafsi' is also ungrammatical.",
+   "applied": true
+  },
+  {
+   "term_id": "T586",
+   "sense": "own welfare",
+   "field": "children",
+   "proposed": "wema wa nafsi",
+   "reason": "Same English 'own good' as T064, rendered 'wema wa nafsi'; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T592",
+   "sense": "view",
+   "field": "children",
+   "proposed": "maoni",
+   "reason": "'imani' means faith (śraddhā, T068/T217); two different terms need different words. 'maoni' means views or opinions.",
+   "applied": true
+  },
+  {
+   "term_id": "T597",
+   "sense": "mental dullness",
+   "field": "children",
+   "proposed": "ukungu wa akili",
+   "reason": "'uchovu' means tiredness, not dullness or fogginess of mind.",
+   "applied": true
+  },
+  {
+   "term_id": "T600",
+   "sense": "title of chapter 8",
+   "field": "children",
+   "proposed": "Kuzingatia kwa Utulivu",
+   "reason": "Same English 'Calm Focus' as T173, rendered 'kuzingatia kwa utulivu'; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T577",
+   "sense": "Supuṣpacandra (name)",
+   "field": "academic",
+   "proposed": "Supushpachandra",
+   "reason": "Swahili orthography does not use IAST diacritics; other names are plain Latin; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T602",
+   "sense": "two truths",
+   "field": "academic",
+   "proposed": "ukweli wa aina mbili",
+   "reason": "'ukweli' is class 11 singular and cannot take 'mbili'; 'ukweli mbili' is ungrammatical.",
+   "applied": true
+  },
+  {
+   "term_id": "T657",
+   "sense": "two truths",
+   "field": "academic",
+   "proposed": "ukweli wa aina mbili",
+   "reason": "Same term as T602; keep consistent and grammatical (T602 academic differs from T657 academic in the draft).",
+   "applied": true
+  },
+  {
+   "term_id": "T608",
+   "sense": "truly existent",
+   "field": "children",
+   "proposed": "kilichopo kweli",
+   "reason": "'kinachopo' is not a valid verb form; 'kilichopo' (that which exists) is correct and simple.",
+   "applied": true
+  },
+  {
+   "term_id": "T609",
+   "sense": "truly existent",
+   "field": "children",
+   "proposed": "kilichopo kweli",
+   "reason": "'kinachopo' is not a valid verb form; 'kilichopo' (that which exists) is correct and simple.",
+   "applied": true
+  },
+  {
+   "term_id": "T610",
+   "sense": "illusory person",
+   "field": "academic",
+   "proposed": "mtu wa udanganyifu",
+   "reason": "'maya' is an untranslated Sanskrit loan; use the Swahili rendering of illusion (see T031).",
+   "applied": true
+  },
+  {
+   "term_id": "T620",
+   "sense": "illusory woman",
+   "field": "academic",
+   "proposed": "mwanamke wa udanganyifu",
+   "reason": "'maya' is an untranslated Sanskrit loan; use the Swahili rendering of illusion (see T031).",
+   "applied": true
+  },
+  {
+   "term_id": "T616",
+   "sense": "cause of suffering",
+   "field": "academic",
+   "proposed": "sababu ya mateso",
+   "reason": "'maumivu' means physical pain; suffering is 'mateso' (see T001).",
+   "applied": true
+  },
+  {
+   "term_id": "T616",
+   "sense": "cause of suffering",
+   "field": "children",
+   "proposed": "sababu ya mateso",
+   "reason": "'maumivu' means physical pain; suffering is 'mateso' (see T001).",
+   "applied": true
+  },
+  {
+   "term_id": "T682",
+   "sense": "ocean of suffering",
+   "field": "academic",
+   "proposed": "bahari ya mateso",
+   "reason": "'maumivu' means physical pain; suffering is 'mateso' (see T001).",
+   "applied": true
+  },
+  {
+   "term_id": "T682",
+   "sense": "ocean of suffering",
+   "field": "children",
+   "proposed": "bahari ya mateso",
+   "reason": "'maumivu' means physical pain; suffering is 'mateso' (see T001).",
+   "applied": true
+  },
+  {
+   "term_id": "T687",
+   "sense": "river of suffering",
+   "field": "academic",
+   "proposed": "mto wa mateso",
+   "reason": "'maumivu' means physical pain; suffering is 'mateso' (see T001).",
+   "applied": true
+  },
+  {
+   "term_id": "T687",
+   "sense": "river of suffering",
+   "field": "children",
+   "proposed": "mto wa mateso",
+   "reason": "'maumivu' means physical pain; suffering is 'mateso' (see T001).",
+   "applied": true
+  },
+  {
+   "term_id": "T689",
+   "sense": "fire of suffering",
+   "field": "academic",
+   "proposed": "moto wa mateso",
+   "reason": "'maumivu' means physical pain; suffering is 'mateso' (see T001).",
+   "applied": true
+  },
+  {
+   "term_id": "T689",
+   "sense": "fire of suffering",
+   "field": "children",
+   "proposed": "moto wa mateso",
+   "reason": "'maumivu' means physical pain; suffering is 'mateso' (see T001).",
+   "applied": true
+  },
+  {
+   "term_id": "T621",
+   "sense": "latent tendency of emptiness",
+   "field": "academic",
+   "proposed": "mwelekeo uliojifichwa wa utupu",
+   "reason": "Vāsanā is 'mwelekeo uliojifichwa' in T284; 'mwelekeo wa ndani' is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T622",
+   "sense": "latent tendency of entities",
+   "field": "academic",
+   "proposed": "mwelekeo uliojifichwa wa vitu",
+   "reason": "Vāsanā is 'mwelekeo uliojifichwa' in T284; 'mwelekeo wa ndani' is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T625",
+   "sense": "wish-fulfilling jewel",
+   "field": "academic",
+   "proposed": "kito kinachotimiza matamanio",
+   "reason": "Jewel is 'kito' (T204, T325, T371); 'johari' and 'matakwa' are inconsistent with T114/T371.",
+   "applied": true
+  },
+  {
+   "term_id": "T626",
+   "sense": "one to be tamed",
+   "field": "academic",
+   "proposed": "anayefaa kufunzwa",
+   "reason": "'kufugwa' means to be domesticated (animals); for people use 'kufunzwa' (be trained).",
+   "applied": true
+  },
+  {
+   "term_id": "T634",
+   "sense": "grasping",
+   "field": "academic",
+   "proposed": "kung'ang'ania",
+   "reason": "'kunyakua' means to snatch or seize suddenly, not clinging or grasping (upādāna).",
+   "applied": true
+  },
+  {
+   "term_id": "T634",
+   "sense": "grasping",
+   "field": "children",
+   "proposed": "kung'ang'ania",
+   "reason": "'kushika kwa nguvu' is already used for abhiniveśa (T466, 'kushikilia kwa nguvu'); two terms need different words.",
+   "applied": true
+  },
+  {
+   "term_id": "T636",
+   "sense": "delusion",
+   "field": "academic",
+   "proposed": "mkanganyiko wa akili",
+   "reason": "Same delusion as T038 (proposed 'mkanganyiko wa akili'); 'upotofu' implies moral deviation, not delusion.",
+   "applied": true
+  },
+  {
+   "term_id": "T642",
+   "sense": "obscuration of afflictions and of objects of knowledge",
+   "field": "academic",
+   "proposed": "kifuniko cha uchafuzi wa akili na vitu vya kujulikana",
+   "reason": "Obscuration (āvaraṇa) is 'kifuniko' in T598; 'kizuizi' is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T644",
+   "sense": "designated",
+   "field": "academic",
+   "proposed": "iliyopewa jina",
+   "reason": "'iliyoteuliwa' means appointed or chosen for a role, not designated/labelled; matches the children's field.",
+   "applied": true
+  },
+  {
+   "term_id": "T646",
+   "sense": "one who experiences",
+   "field": "academic",
+   "proposed": "anayepitia",
+   "reason": "'mwenye uzoefu' means an experienced (skilled) person, not one who experiences; wrong meaning.",
+   "applied": true
+  },
+  {
+   "term_id": "T669",
+   "sense": "coarse",
+   "field": "academic",
+   "proposed": "ghafi",
+   "reason": "Same sthūla and English as T190, rendered 'ghafi'; 'nene' means fat or thick.",
+   "applied": true
+  },
+  {
+   "term_id": "T673",
+   "sense": "meditation",
+   "field": "children",
+   "proposed": "kutafakari",
+   "reason": "Same English 'meditation' as T238, rendered 'kutafakari'; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T647",
+   "sense": "imputed",
+   "field": "children",
+   "proposed": "iliyobuniwa",
+   "reason": "'iliyowazwa' (passive of 'kuwaza') is unnatural; 'iliyobuniwa' (invented) is natural for imagined.",
+   "applied": true
+  },
+  {
+   "term_id": "T674",
+   "sense": "imputed entity",
+   "field": "children",
+   "proposed": "kitu kilichobuniwa",
+   "reason": "'kilichowazwa' is unnatural; 'kilichobuniwa' (invented, made up) is natural.",
+   "applied": true
+  },
+  {
+   "term_id": "T683",
+   "sense": "distraction",
+   "field": "academic",
+   "proposed": "utawanyiko wa akili",
+   "reason": "Same vikṣepa and English as T171, rendered 'utawanyiko wa akili'; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T683",
+   "sense": "distraction",
+   "field": "children",
+   "proposed": "kutawanyika kwa mawazo",
+   "reason": "Same vikṣepa and English as T171, rendered 'kutawanyika kwa mawazo'; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T690",
+   "sense": "accumulation of merit",
+   "field": "academic",
+   "proposed": "ukusanyaji wa thawabu",
+   "reason": "Accumulation (tshogs) is 'ukusanyaji' (T119 accumulation); 'mkusanyiko' is the rendering for collection.",
+   "applied": true
+  },
+  {
+   "term_id": "T691",
+   "sense": "non-apprehension",
+   "field": "academic",
+   "proposed": "kutotambua",
+   "reason": "Same English 'non-apprehension' as T623, rendered 'kutotambua'; 'kutokamata kitu' is inconsistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T709",
+   "sense": "conduct of awakening",
+   "field": "academic",
+   "proposed": "mwenendo wa mwamko",
+   "reason": "'uamsho' means revival; awakening is 'mwamko' (see T020).",
+   "applied": true
+  },
+  {
+   "term_id": "T709",
+   "sense": "conduct of awakening",
+   "field": "children",
+   "proposed": "matendo ya mwamko",
+   "reason": "'uamsho' means revival; awakening is 'mwamko' (see T020).",
+   "applied": true
+  },
+  {
+   "term_id": "T722",
+   "sense": "nun",
+   "field": "children",
+   "proposed": "mtawa wa kike",
+   "reason": "'mwanamke aliyejikabidhi kwa dini' is too long and complex for ages 8-12; 'mtawa wa kike' is simple and matches T302/T487.",
+   "applied": true
+  },
+  {
+   "term_id": "T724",
+   "sense": "hardship",
+   "field": "academic",
+   "proposed": "taabu",
+   "reason": "'mateso' is reserved for suffering (duḥkha, T001); hardship (dka' ba) is 'taabu'.",
+   "applied": true
+  },
+  {
+   "term_id": "T724",
+   "sense": "hardship",
+   "field": "children",
+   "proposed": "mambo magumu",
+   "reason": "'kujitesa' means torturing oneself, not hardship; also hard for children. 'mambo magumu' means difficult things.",
+   "applied": true
+  },
+  {
+   "term_id": "T725",
+   "sense": "welfare of others",
+   "field": "children",
+   "proposed": "wema wa wengine",
+   "reason": "Same concept 'good of others' as T072, rendered 'wema wa wengine'; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T728",
+   "sense": "place of seclusion",
+   "field": "academic",
+   "proposed": "mahali pa faragha",
+   "reason": "Keeps consistent with viveka/dben pa (T130, proposed 'faragha'); 'upweke' suggests loneliness.",
+   "applied": true
+  },
+  {
+   "term_id": "T729",
+   "sense": "Saṅgha of bodhisattvas",
+   "field": "children",
+   "proposed": "jumuiya ya mashujaa wa mwamko",
+   "reason": "'uamsho' means revival; awakening is 'mwamko' (see T020).",
+   "applied": true
+  },
+  {
+   "term_id": "T730",
+   "sense": "teaching (the Buddha's doctrine)",
+   "field": "academic",
+   "proposed": "mafundisho ya Buddha",
+   "reason": "'mafunzo' already renders śikṣā 'training' (T046); śāsana is rendered 'mafundisho ya Buddha' in T523.",
+   "applied": true
+  },
+  {
+   "term_id": "T733",
+   "sense": "name of the author",
+   "field": "academic",
+   "proposed": "Shantideva",
+   "reason": "Swahili orthography does not use IAST diacritics; other names (T73, T319, T332) are plain Latin; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T734",
+   "sense": "Sarvajñādeva",
+   "field": "academic",
+   "proposed": "Sarvajnadeva",
+   "reason": "Swahili orthography does not use IAST diacritics; other names are plain Latin; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T737",
+   "sense": "Dharmaśrībhadra (name)",
+   "field": "academic",
+   "proposed": "Dharmashribhadra",
+   "reason": "Swahili orthography does not use IAST diacritics; other names are plain Latin; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T739",
+   "sense": "Śākya Lodrö",
+   "field": "academic",
+   "proposed": "Shakya Lodro",
+   "reason": "Swahili orthography does not use IAST diacritics; other names are plain Latin; keep consistent.",
+   "applied": true
+  },
+  {
+   "term_id": "T741",
+   "sense": "Sumatikīrti",
+   "field": "academic",
+   "proposed": "Sumatikirti",
+   "reason": "Swahili orthography does not use IAST diacritics; other names are plain Latin; keep consistent.",
+   "applied": true
+  }
+ ]
+}

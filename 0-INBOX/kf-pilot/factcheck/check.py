@@ -34,24 +34,29 @@ def problems(batch, out):
     return errs
 
 
-if sys.argv[1] == "--merge":
-    run = pathlib.Path(sys.argv[2])
-    segs = []
-    for f in sorted((run / "agents").glob("batch-*.json")):
-        segs += json.loads(f.read_text(encoding="utf-8"))["segments"]
-    (run / "verdicts.json").write_text(json.dumps(segs, ensure_ascii=False, indent=1), encoding="utf-8")
-    from collections import Counter
-    sev = Counter(i["severity"] for s in segs for i in s["issues"])
-    typ = Counter(i["type"] for s in segs for i in s["issues"] if i["severity"] != "minor")
-    print(json.dumps({"segments": len(segs), "pass": sum(s["verdict"] == "pass" for s in segs),
-                      "fail": sum(s["verdict"] == "fail" for s in segs), "issues_by_severity": sev,
-                      "blocking_issues_by_type": typ}))
-    sys.exit(0)
-batch = json.load(open(sys.argv[1], encoding="utf-8"))
-try:
-    out = json.load(open(sys.argv[2], encoding="utf-8"))
-except Exception as exc:  # noqa: BLE001
-    sys.exit(f"JSON does not load: {exc}")
-errs = problems(batch, out)
-print("OK" if not errs else "\n".join(errs))
-sys.exit(1 if errs else 0)
+def main():
+    if sys.argv[1] == "--merge":
+        run = pathlib.Path(sys.argv[2])
+        segs = []
+        for f in sorted((run / "agents").glob("batch-*.json")):
+            segs += json.loads(f.read_text(encoding="utf-8"))["segments"]
+        (run / "verdicts.json").write_text(json.dumps(segs, ensure_ascii=False, indent=1), encoding="utf-8")
+        from collections import Counter
+        sev = Counter(i["severity"] for s in segs for i in s["issues"])
+        typ = Counter(i["type"] for s in segs for i in s["issues"] if i["severity"] != "minor")
+        print(json.dumps({"segments": len(segs), "pass": sum(s["verdict"] == "pass" for s in segs),
+                          "fail": sum(s["verdict"] == "fail" for s in segs), "issues_by_severity": sev,
+                          "blocking_issues_by_type": typ}))
+        sys.exit(0)
+    batch = json.load(open(sys.argv[1], encoding="utf-8"))
+    try:
+        out = json.load(open(sys.argv[2], encoding="utf-8"))
+    except Exception as exc:  # noqa: BLE001
+        sys.exit(f"JSON does not load: {exc}")
+    errs = problems(batch, out)
+    print("OK" if not errs else "\n".join(errs))
+    sys.exit(1 if errs else 0)
+
+
+if __name__ == "__main__":
+    main()

@@ -1,4 +1,8 @@
-# 第三十九天 — Padmakara 白話中文
+---
+title: 第三十九天 — Padmakara 白話中文 — AI 翻譯
+ai_generated: true
+---
+# 第三十九天 — Padmakara 白話中文 — AI 翻譯
 
 **第三品：受持菩提心　偈 3.13–3.15**
 

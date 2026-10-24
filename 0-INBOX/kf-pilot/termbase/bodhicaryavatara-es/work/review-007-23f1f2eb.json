@@ -1,0 +1,24 @@
+{
+ "parsed": {
+  "objections": [
+   {
+    "term_id": "T724",
+    "sense": "hardship",
+    "field": "academic",
+    "proposed": "penalidades",
+    "reason": "'austeridad' is the rendering of tapas (T122, dka' thub); duṣkaracaryā is arduous hardship, not austerity."
+   },
+   {
+    "term_id": "T732",
+    "sense": "spiritual friend",
+    "field": "children",
+    "proposed": "amigo que guía",
+    "reason": "Same kalyāṇamitra as T446, whose children rendering is 'amigo que guía'; 'buen amigo' loses the sense."
+   }
+  ]
+ },
+ "tokens": {},
+ "model": "claude-sonnet-5-5",
+ "seconds": null,
+ "attempt": 1
+}

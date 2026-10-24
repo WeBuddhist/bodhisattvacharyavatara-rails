@@ -1,5 +1,6 @@
 ---
-title: "बोधिचर्यावतार — अध्याय २, श्लोक २५–५० (हिंदी पद्यानुवाद)"
+title: "बोधिचर्यावतार — अध्याय २, श्लोक २५–५० (हिंदी पद्यानुवाद) — एआई अनुवाद"
+ai_generated: true
 transformation_type: translation
 track: hi-poetic
 lang_tag: hi
@@ -41,7 +42,7 @@ rails_status_note: "सभी रेल-फ़ाइलें status: draft ह�
 divergence_log: 3-TRANSFORMATIONS/Translations/hi-poetic/divergence-log.md
 ---
 
-# अध्याय २ : पाप देशना — श्लोक २५ से ५०
+# अध्याय २ : पाप देशना — श्लोक २५ से ५० — एआई अनुवाद
 
 **(२५)**
 बोधिचित्त के जितने आधार, और जो पावन स्तूप हैं, 

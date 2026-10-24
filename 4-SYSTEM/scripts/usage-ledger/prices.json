@@ -9,6 +9,9 @@
   "gemini-3.1-pro-preview": {"input": 2.00, "output": 12.00, "thinking": 12.00, "cache_read": 0.20, "cache_write": 0},
   "claude-sonnet-5-5": {"input": 2.00, "output": 10.00, "thinking": 10.00, "cache_read": 0.20, "cache_write": 2.50},
   "claude-opus-5-5": {"input": 4.00, "output": 20.00, "thinking": 20.00, "cache_read": 0.20, "cache_write": 5.00},
-  "dharmamitra": {"input": 0, "output": 0, "thinking": 0, "cache_read": 0, "cache_write": 0}
- }
+  "dharmamitra": {"input": 0, "output": 0, "thinking": 0, "cache_read": 0, "cache_write": 0},
+  "gpt-6-sol": {"input": 2.00, "output": 10.00, "thinking": 10.00, "cache_read": 0.20, "cache_write": 0},
+  "kimi-k3": {"input": 3.00, "output": 15.00, "thinking": 15.00, "cache_read": 0.30, "cache_write": 0}
+ },
+ "notes": "gpt-6-sol and kimi-k3 (added 2026-10-23): prices from third-party aggregators, not the providers' own price pages; check before quoting costs. gemini-3.8-flash not priced (unknown)."
 }

@@ -1,7 +1,8 @@
 ---
 file_type: translation
 root_text: 1-SOURCES\Translations\bo-བློ་ལྡན་ཤེས་རབ།.md
-title: The way of the bodhisattva - plain English version
+title: The way of the bodhisattva - plain English version — AI translation
+ai_generated: true
 lang_tag: en
 category_id: JD5ULLPAV1cxg7RSb7L3q
 license: public
@@ -14,7 +15,7 @@ edition_id:
 toc_id: 
 ---
 
-# A Guide to the Bodhisattva's Way of Life ^0
+# A Guide to the Bodhisattva's Way of Life — AI translation ^0
 
 ## Introduction ^I-0
 

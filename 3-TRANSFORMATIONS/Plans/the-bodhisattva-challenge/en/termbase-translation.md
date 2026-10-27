@@ -321,3 +321,20 @@ a signal that the review step is not happening.
 | རྩ་ལྟུང་              | root downfalls                                                                                                                | Day 115    | pending |
 | འཇུག་སྡོམ་            | the engaging vow (tentative)                                                                                                  | Day 115    | pending |
 | བློན་པོའི་གཅིག        | one for ministers (the Tibetan says only 'one'; unclear)                                                                      | Day 115    | pending |
+| ཁོང་ཁྲོ་             | anger                                                                         | Day 117    | pending |
+| ཞེ་སྡང་              | hatred                                                                        | Day 117    | pending |
+| བཟོད་པ་              | patience                                                                      | Day 117    | pending |
+| དགེ་རྩ་              | the roots of good                                                             | Day 117    | pending |
+| གཉེན་པོ་             | antidote                                                                      | Day 117    | pending |
+| དཀའ་ཐུབ་             | austerity                                                                     | Day 117    | pending |
+| ཟུག་རྔུ་             | dart                                                                          | Day 118    | pending |
+| ཡིད་མི་བདེ་བ་        | unhappiness                                                                   | Day 119    | pending |
+| ཟངས་ཀྱི་བུམ་པ་རྙོག་པ | a damaged copper pot (tentative; the exact damage named by རྙོག་པ is unclear) | Day 120    | pending |
+| ཐར་པ་                | liberation                                                                    | Day 121    | pending |
+| བློན་པོ་གོ་ར་བ་      | Minister Gorawa (tentative)                                                   | Day 122    | pending |
+| བྲག་གཅོང་            | a rocky gorge                                                                 | Day 122    | pending |
+| བློ་ཆེན་པོའི་གོ་ཆ་   | the armor of a great mind                                                     | Day 122    | pending |
+| བཟེ་རེ་              | making a fuss                                                                 | Day 123    | pending |
+| སྡར་མ་               | coward                                                                        | Day 123    | pending |
+| ཅ་ཅོ་བཏོན་           | complain (tentative)                                                          | Day 124    | pending |
+| ལས་ངན་འཕར་བ          | past bad karma coming up (tentative)                                          | Day 124    | pending |

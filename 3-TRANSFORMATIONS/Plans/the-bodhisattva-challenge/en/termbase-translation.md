@@ -339,7 +339,7 @@ a signal that the review step is not happening.
 | ཅ་ཅོ་བཏོན་           | complain (tentative)                                                          | Day 124    | pending |
 | ལས་ངན་འཕར་བ          | past bad karma coming up (tentative)                                          | Day 124    | pending |
 | ཝཱ་ར་ཎཱ་སི | Varanasi | Day 126 | pending |
-| ཉེ་ཁྲིས་ཀྱི་རྨ་བྱ | a tame peacock (tentative; the meaning of ཉེ་ཁྲིས་ is unclear) | Day 126 | pending |
+| ཉེ་ཁྲིས་ཀྱི་རྨ་བྱ | a peacock nearby | Day 126 | pending |
 | མོ་གཤམ་གྱི་བུ | the son of a barren woman | Day 127 | pending |
 | རི་བོང་གི་རྭ | a rabbit's horn | Day 127 | pending |
 | འཆར་གཞི་འདིང་མཁན་གཙོ་བོ | a main planner (tentative) | Day 127 | pending |
@@ -353,5 +353,5 @@ a signal that the review step is not happening.
 | བདེན་པའི་བྱང་ཆུབ | Truth Awakening (name rendered literally; the guest is the one named) | Day 130 | pending |
 | མངའ་བདག | ruling (tentative) | Day 130 | pending |
 | གདོན | a spirit | Day 131 | pending |
-| ཁག་མི་དཀྲི་བ | is not affected by it (tentative; the meaning of ཁག་དཀྲི་ is unclear) | Day 132 | pending |
+| ཁག་མི་དཀྲི་བ | do not blame | Day 132 | pending |
 | གློ་བུར་གྱི་སྐྱོན | a sudden fault | Day 132 | pending |

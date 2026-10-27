@@ -4,8 +4,8 @@ Written 2026-10-02. Paste or point a fresh session at this file, then say e.g. "
 
 ## Status
 
-- **Done through Day 125** (Chapter 6, verse 23), both `en/` and `hi/`. Chapter 5 (Days 74-116) is complete; Chapter 6 output folders are `en/Days/Chapter-6 D117-D170/` and `hi/Days/Chapter-6 D117-D170/` (verse block IDs `^6-N`, filenames `<n>-ch6-v<a>-<b>-eng.md` / `-hi.md`).
-- **Next: Day 126.** Tibetan sources exist for Chapters 6-10 under `Plans/Dalai Lama/`.
+- **Done through Day 133** (Chapter 6, verse 43), both `en/` and `hi/`. Chapter 5 (Days 74-116) is complete; Chapter 6 output folders are `en/Days/Chapter-6 D117-D170/` and `hi/Days/Chapter-6 D117-D170/` (verse block IDs `^6-N`, filenames `<n>-ch6-v<a>-<b>-eng.md` / `-hi.md`).
+- **Next: Day 134.** Tibetan sources exist for Chapters 6-10 under `Plans/Dalai Lama/`.
 - Chapter 6 term choices (all still pending in the termbases): ཁོང་ཁྲོ་ / ཁྲོ་བ་ = anger / क्रोध; ཞེ་སྡང་ = hatred / द्वेष; བཟོད་པ་ = patience / धैर्य; ཡིད་མི་བདེ་བ་ = unhappiness / मन का दुख; གཉེན་པོ་ = antidote / उपाय. Keep anger and hatred distinct.
 - Days 15-36 (Chapter 2) are older rails-authored files in a different style from 37+. Never touched or reconciled.
 - The user's request pattern is simply "create day N" or "N-M". If a day is skipped in the request, check whether it exists and ask once (Day 85 was skipped once; user said fill it).

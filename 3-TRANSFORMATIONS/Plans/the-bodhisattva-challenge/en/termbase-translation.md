@@ -125,6 +125,45 @@ descriptions get said in ordinary words.
 | འགྲེལ་བ་རྣམས་སུ་གསུངས་པ་ལྟར། | as the commentaries say |
 | འགྲེལ་བཤད་ཁག་ལས། | the commentaries |
 | གསུངས་པ་ལྟར། | as it is taught |
+| མཁན་པོ་ཀུན་བཟང་དཔལ་ལྡན་ | Khenpo Kunzang Palden |
+| སློབ་དཔོན་ཀླུ་སྒྲུབ་ | Master Nagarjuna |
+| རྒྱལ་པོ་གསལ་རྒྱལ་ | King Prasenajit |
+| སྤྲང་པོ་ས་ད་ | the beggar Sada |
+| བཙུན་ཏ་ | Chunda, the blacksmith's son (Hindi चुंदा) |
+| དྲི་མ་མེད་པར་གྲགས་པ་ | Vimalakirti |
+| རྒྱལ་པོ་ཟླ་འོད་ | King Candraprabha |
+| རྒྱལ་པོ་བི་མ་སེན་ | King Bhimasena |
+| བྲམ་ཟེ་ལེའུ་དེ་བ་ | the brahmin Ledeva |
+| ༸རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ་ | His Holiness the Dalai Lama (project convention) |
+| མགོན་པོ་ཀླུ་སྒྲུབ་ | the Protector Nagarjuna |
+| མཁན་པོ་མི་ཉག་ཀུན་བཟང་བསོད་ནམས་ | Khenpo Minyak Kunzang Sonam |
+| རྫ་མཁན་གྱི་ཁྱེའུ་སྣང་བྱེད་ | the potter's son Nangje |
+| དགེ་སློང་མི་འཁྲུགས་པ་ | the monk Akshobhya |
+| སངས་རྒྱས་སྤྱན་ཆེན་པོ་ | Buddha Great Eye |
+| སྨན་གྱི་བླ་མ་ | the Medicine Buddha (Hindi भैषज्यगुरु) |
+| རྒྱལ་པོ་དབང་ཆེན་སྡེ་ | King Wangchen De |
+| ཉི་འོག་གི་རྒྱལ་པོ་ | the king of the southern land |
+| ཐུབ་པ་ | the Sage |
+| བློ་གྲོས་རྒྱ་མཚོ་ | Sagaramati (the sutra's addressee) |
+| ཤཱ་རིའི་བུ་ | Shariputra |
+| གྲུབ་ཐོབ་ཆེན་པོ་ཏེ་ལོ་པ་ | the great adept Tilopa |
+| རྗེ་བཙུན་མི་ལ་རས་པ་ | Jetsun Milarepa |
+| མཁས་གྲུབ་ནོར་བཟང་རྒྱ་མཚོ་ | Khedrub Norzang Gyatso |
+| སློབ་དཔོན་འཕགས་པ་ལྷ་ | Master Aryadeva |
+| ཀླུའི་རྒྱལ་པོ་རྒྱ་མཚོ་ | the naga king Sagara |
+| འཕགས་པ་སྤྱན་རས་གཟིགས་ | the noble Avalokiteshvara |
+| སྐྱབས་རྗེ་གླིང་རིན་པོ་ཆེ་ | Kyabje Ling Rinpoche |
+| རྒྱལ་པོ་གཙུག་ན་རིན་པོ་ཆེ | King Manicuda (with the Jataka figure Maṇicūḍa; not yet confirmed) |
+| ཇོ་བོ་ཨ་ཏི་ཤ | Jowo Atisha |
+| ལེགས་པའི་སྐར་མ | Sunakshatra |
+| ལྷས་བྱིན | Devadatta |
+| ཏཱ་ལའི་བླ་མ་ | His Holiness the Dalai Lama (project convention) |
+| སྟོན་པ་ | the Buddha (the Teacher, identified as the Buddha) |
+| དེད་དཔོན་སྙིང་རྗེ་ཆེན་པོ་ | the caravan leader Great Compassion (treated as a name) |
+| བྲམ་ཟེའི་ཁྱེའུ་སྐར་མ | the young brahmin Star (name rendered literally) |
+| གཞོན་ནུ་དཔལ་འབྱུང་ | the young man Paljung (name rendered as in the verse source) |
+| བློན་པོ་གོ་ར་བ་ | Minister Gorawa |
+| བདེན་པའི་བྱང་ཆུབ | Truth Awakening (name rendered literally; the guest is the one named) |
 
 Never resolve a vague attribution ("the commentaries") to a specific named
 commentator, and never drop one because the sentence reads better without it.
@@ -141,6 +180,22 @@ clause to "the commentaries".
 | བཤེས་སྤྲིང་ལས། | the _Letter to a Friend_ says / in the _Letter to a Friend_ |
 | ཀ་ནི་ཀའི་སྤྲིང་ཡིག་ལས། | the _Letter to Kanika_ says / in the _Letter to Kanika_ |
 | མདོ་སྡེ་ལས། | the sutras say |
+| དྲག་ཤུལ་ཅན་གྱིས་ཞུས་པའི་མདོ་ | the Sutra Requested by Ugra |
+| རིན་ཆེན་ཕྲེང་བ་ | the Ratnavali (Hindi रत्नावली) |
+| བསླབ་བཏུས་ | the Shikshasamuchaya (Hindi शिक्षासमुच्चय) |
+| བློ་གྲོས་མི་ཟད་པའི་མདོ་ | the Akshayamati Sutra (Hindi अक्षयमति सूत्र) |
+| བཞི་བརྒྱ་པ་ | the Chatuhshataka (Hindi चतुःशतक) |
+| ཟླ་བ་སྒྲོན་མེའི་མདོ་ | the Chandrapradipa Sutra |
+| འགྲོ་བ་རྣམ་འབྱེད་ཀྱི་མདོ | the Sutra Distinguishing Rebirths (traditional Sanskrit title not yet confirmed) |
+| བཤེས་ལེགས་ལས། | the _Letter to a Friend_ says (this day's Tibetan spells the citation differently from the established བཤེས་སྤྲིང་ term; not fully confirmed as the same text) |
+| དགའ་བོ་མངལ་འཇུག་གི་མདོ | the _Sutra of Nanda's Entering the Womb_ (Nanda identification not confirmed) |
+| མདོ་སྡེའི་རྒྱན་ | the _Ornament of the Sutras_ |
+| མདོ་སྡེ་དཀོན་མཆོག་བརྩེགས་པ | the _Heap of Jewels Sutra_ (Sanskrit title Ratnakuta not confirmed) |
+| ནམ་མཁའ་མཛོད་ཀྱི་མདོ | the _Akashagarbha Sutra_ (spelled ནམ་མཁའ་མཛོད་ here and ནམ་མཁའི་སྙིང་པོ་ on Day 115, assumed to be the same sutra) |
+| ཕུང་པོ་གསུམ་པ | the _Three Aggregates Sutra_ (as in the verse source) |
+| དཔུང་བཟང་ | the _Good Arm_ (a cited work; literal rendering, identification not confirmed) |
+| མདོ་སྡེ་ཕལ་པོ་ཆེ | the _Avatamsaka Sutra_ |
+| དཀོན་མཆོག་སྤྲིན | the _Jewel Cloud Sutra_ |
 
 Other scriptural sources attested in this plan: _Advice to a King_, the
 _Udanavarga_, the _Golden Light Sutra_, the _Smrityupasthana_.
@@ -157,6 +212,16 @@ section 3.** The skill reads it from here; it is not duplicated in `SKILL.md`.
 | རང་སེམས་འདུལ་བ། | _(Taming the mind)_ |
 | སྦྱིན་པའི་ཉམས་ལེན། | _(Generosity Practice)_ |
 | བཟོད་པའི་ཉམས་ལེན། | _(Patience Practice)_ |
+| ཚུལ་ཁྲིམས་ཀྱི་ཉམས་ལེན། | _(Ethics Practice)_ |
+| བརྩོན་འགྲུས་ཀྱི་ཉམས་ལེན། | _(Diligence Practice)_ |
+| ཤེས་རབ་ཀྱི་ཉམས་ལེན། | _(Wisdom Practice)_ |
+| མི་རྟག་པ་དྲན་པའི་ཉམས་ལེན། | _(Practice of remembering that nothing lasts)_ |
+| ཉོན་མོངས་ངོས་འཛིན་པ། | _(Recognizing the afflictions)_ |
+| ཞེ་སྡང་སྤོང་བ། | _(Giving up anger)_ |
+| ཉོན་མོངས་མི་གསོ་བ། | _(Not feeding the afflictions)_ |
+| བརྩོན་འགྲུས་མི་གཏོང་བ། | _(Not giving up the effort)_ |
+| དཀའ་སྤྱད་དང་དུ་ལེན་པ། | _(Welcoming hardship)_ |
+| བསམ་གཏན་གྱི་ཉམས་ལེན། | _(Meditation Practice)_ |
 
 A category not in this table is a stop. Propose a rendering, log it under
 "Pending terms", and ask before writing the day.
@@ -179,6 +244,111 @@ A category not in this table is a stop. Propose a rendering, log it under
 | emanate, manifest forth | imagine, picture |
 | Bodhisattva Shantideva | Master Shantideva, then Shantideva |
 
+## Approved terms — promoted from pending
+
+Approved by Tenkal on 2026-10-27 (all pending terms at that date, Days 38-133). Use these renderings as fixed. Names went to "Persons and commentaries", texts to "Scriptural sources", categories to "Practice-category labels"; everything else is here. The note column keeps any caveat that was logged with the term.
+
+| Tibetan | English | Note | First seen |
+|---|---|---|---|
+| ཡི་རང་ | rejoice |  | Day 41 |
+| བདུད་བཞི་ | the four maras |  | Day 43 |
+| མྱ་ངན་ལས་འདའ་བ་ | pass into nirvana |  | Day 43 |
+| སྲིད་ཞི་ | samsara and nirvana |  | Day 51 |
+| བྱམས་སེམས་ | loving-kindness |  | Day 53 |
+| ཐོས་བསམ་ | hearing and reflecting |  | Day 53 |
+| ཚོགས་སྦྱོར་གྱི་ལམ་ | the first stages of the path | the paths of accumulation and joining | Day 54 |
+| ཁམས་གསུམ་ | the three worlds |  | Day 54 |
+| བདུད་རྩི་ | nectar |  | Day 55 |
+| ཡི་དྭགས་ | hungry ghost |  | Day 56 |
+| བདུད་ | Mara |  | Day 57 |
+| ཉན་ཐོས་ཀྱི་ལམ་ | the path of the hearers |  | Day 57 |
+| དགྲ་བཅོམ་པ་ | arhat |  | Day 57 |
+| མཆོག་གི་དངོས་གྲུབ་ | the supreme attainment |  | Day 58 |
+| ལྟུང་བ་ | downfall |  | Day 58 |
+| སྐུ་གསུང་ཐུགས་ཀྱི་རྟེན་ | images, texts and stupas |  | Day 59 |
+| འབྱུང་བ་བཞི་ | the four elements |  | Day 60 |
+| དལ་འབྱོར་ | this rare human life |  | Day 60 |
+| སེང་གྷ་ལའི་གླིང་ | Simhala Island |  | Day 75 |
+| རང་སངས་རྒྱས | solitary realizer |  | Day 80 |
+| སེམས་ཀྱི་གསང་བ | the secret of the mind |  | Day 80 |
+| བསྡུས་འཇོམས་ | the Crushing Hell |  | Day 81 |
+| སྐྱོར་འབྱིན | going back on our word | the verse source has flattering | Day 92 |
+| རེ་དོགས་ | hopes and fears |  | Day 92 |
+| ང་རྒྱལ་རྣམ་པ་བདུན | the seven kinds of pride |  | Day 92 |
+| རྒོད་པ | restlessness |  | Day 92 |
+| ག་ཞར | mockery |  | Day 92 |
+| རྒྱགས་པ | arrogance |  | Day 92 |
+| མཚང་འབྲུ་བ | exposing faults |  | Day 92 |
+| ཀུན་སློང་ | intention |  | Day 92 |
+| རང་གཅེས་འཛིན་ | cherishing ourselves |  | Day 94 |
+| སོ་སོ་སྐྱེ་བོ | ordinary people |  | Day 95 |
+| ཤིང་དུམ | a piece of wood |  | Day 93 |
+| ཁ་རོག་ | silently | rendered as say nothing | Day 93 |
+| ཕྱེ་མ་ལེབ | dust | the meaning of ལེབ is unclear | Day 96 |
+| མི་ཁོམ་པ་བརྒྱད | the eight states without freedom |  | Day 96 |
+| འབུ་ཕྲན | tiny worms |  | Day 97 |
+| རྒྱུ་ལོང་ | intestines |  | Day 97 |
+| རྒྱུས་པ | sinews |  | Day 98 |
+| སྲིད་པའི་མཚོ་ | the ocean of samsara | སྲིད་པ་ rendered as samsara | Day 101 |
+| གཟུགས་སྐུ་ | the form body of a buddha |  | Day 101 |
+| ཕྱིན་དྲུག་ | the six perfections |  | Day 101 |
+| ཁྲོ་གཉེར་ | frowning |  | Day 101 |
+| སྒོ་མོ་དལ་གྱིས་རྒྱག་པ | closing doors gently | could also mean knocking | Day 101 |
+| ཏིང་ངེ་འཛིན་གྱི་ཚེར་མ་ | the thorns of deep meditative concentration | literal | Day 102 |
+| གྭ་རྒྱ་ལྦ་ | gwa, gya and lba | left untranslated; meaning not confirmed | Day 103 |
+| གྲྭ་རྒན་ | old monk |  | Day 103 |
+| ལྟས་ངན་ | bad omen |  | Day 103 |
+| མི་ནག་མདུང་ཐུང་ཅན | a bad man with a short spear | མི་ནག may also mean a dark-skinned man | Day 106 |
+| ཚོགས་འདུམས་པ | completed the accumulation | the verb འདུམས་ is unclear | Day 106 |
+| ལོག་པར་ལྟུང་བ | those who have fallen into wrong ways |  | Day 107 |
+| བརྟུལ་ཞུགས་ | those who keep strict discipline |  | Day 107 |
+| བསོད་སྙོམས་ | alms |  | Day 107 |
+| ཆོས་གོས་གསུམ | the three Dharma robes |  | Day 107 |
+| འདོད་ཆགས་ | desire |  | Day 107 |
+| ཁྲིམས་ལྡན་ | with ethics |  | Day 108 |
+| ཐེག་པ་དམན་པ | the lesser vehicle |  | Day 109 |
+| བདུད་ཀྱིས་གླགས་རྙེད་པ | Mara finds an opening |  | Day 112 |
+| བླ་མེད་བྱང་ཆུབ་ | unsurpassed awakening |  | Day 113 |
+| བཤེས་གཉེན་ | spiritual friend |  | Day 114 |
+| དགེ་བའི་བཤེས་གཉེན་ | good spiritual friend |  | Day 114 |
+| སྡེ་སྣོད་ | scriptures |  | Day 114 |
+| ཕལ་ཆེན་པོ་ཏི་དྲུག | the six volumes of the Avatamsaka |  | Day 115 |
+| རྩ་ལྟུང་ | root downfalls |  | Day 115 |
+| འཇུག་སྡོམ་ | the engaging vow |  | Day 115 |
+| བློན་པོའི་གཅིག | one for ministers | the Tibetan says only 'one'; unclear | Day 115 |
+| ཁོང་ཁྲོ་ | anger |  | Day 117 |
+| ཞེ་སྡང་ | hatred |  | Day 117 |
+| བཟོད་པ་ | patience |  | Day 117 |
+| དགེ་རྩ་ | the roots of good |  | Day 117 |
+| གཉེན་པོ་ | antidote |  | Day 117 |
+| དཀའ་ཐུབ་ | austerity |  | Day 117 |
+| ཟུག་རྔུ་ | dart |  | Day 118 |
+| ཡིད་མི་བདེ་བ་ | unhappiness |  | Day 119 |
+| ཟངས་ཀྱི་བུམ་པ་རྙོག་པ | a damaged copper pot | the exact damage named by རྙོག་པ is unclear | Day 120 |
+| ཐར་པ་ | liberation |  | Day 121 |
+| བྲག་གཅོང་ | a rocky gorge |  | Day 122 |
+| བློ་ཆེན་པོའི་གོ་ཆ་ | the armor of a great mind |  | Day 122 |
+| བཟེ་རེ་ | making a fuss |  | Day 123 |
+| སྡར་མ་ | coward |  | Day 123 |
+| ཅ་ཅོ་བཏོན་ | complain |  | Day 124 |
+| ལས་ངན་འཕར་བ | past bad karma coming up |  | Day 124 |
+| ཝཱ་ར་ཎཱ་སི | Varanasi |  | Day 126 |
+| ཉེ་ཁྲིས་ཀྱི་རྨ་བྱ | a peacock nearby |  | Day 126 |
+| མོ་གཤམ་གྱི་བུ | the son of a barren woman |  | Day 127 |
+| རི་བོང་གི་རྭ | a rabbit's horn |  | Day 127 |
+| འཆར་གཞི་འདིང་མཁན་གཙོ་བོ | a main planner |  | Day 127 |
+| རང་དབང་ཅན་གྱི་བདག | an independent self |  | Day 127 |
+| རྟག་པའི་བདག | a permanent self |  | Day 128 |
+| སྤྲུལ་པ | something magically made |  | Day 129 |
+| སྐྱེད་ཚལ | a pleasure garden |  | Day 129 |
+| མ་ག་དྷ | Magadha |  | Day 130 |
+| ནཱ་ལེནྡྲ | Nalendra |  | Day 130 |
+| ཁ་ཆེ | Kashmir |  | Day 130 |
+| མངའ་བདག | ruling |  | Day 130 |
+| གདོན | a spirit |  | Day 131 |
+| ཁག་མི་དཀྲི་བ | do not blame |  | Day 132 |
+| གློ་བུར་གྱི་སྐྱོན | a sudden fault |  | Day 132 |
+
 ## Pending terms
 
 A term encountered in translation and not covered above is logged here **and** in
@@ -190,168 +360,7 @@ term in `pending_terms:` then has the entry cleared on its next touch. A term
 must not sit here indefinitely: an entry older than one chapter of generation is
 a signal that the review step is not happening.
 
+All terms pending on 2026-10-27 were approved and promoted into the tables above. New pending terms go below.
+
 | Tibetan                        | Proposed                                                                                              | First seen | Status  |
 | ------------------------------ | ----------------------------------------------------------------------------------------------------- | ---------- | ------- |
-| མཁན་པོ་ཀུན་བཟང་དཔལ་ལྡན་        | Khenpo Kunzang Palden                                                                                 | Day 38     | pending |
-| སློབ་དཔོན་ཀླུ་སྒྲུབ་           | Master Nagarjuna                                                                                      | Day 40     | pending |
-| རྒྱལ་པོ་གསལ་རྒྱལ་              | King Prasenajit                                                                                       | Day 41     | pending |
-| ཡི་རང་                         | rejoice                                                                                               | Day 41     | pending |
-| སྤྲང་པོ་ས་ད་                   | the beggar Sada                                                                                       | Day 41     | pending |
-| བཙུན་ཏ་                        | Chunda, the blacksmith's son (Hindi चुंदा)                                                            | Day 43     | pending |
-| བདུད་བཞི་                      | the four maras                                                                                        | Day 43     | pending |
-| མྱ་ངན་ལས་འདའ་བ་                | pass into nirvana                                                                                     | Day 43     | pending |
-| དྲི་མ་མེད་པར་གྲགས་པ་           | Vimalakirti                                                                                           | Day 44     | pending |
-| རྒྱལ་པོ་ཟླ་འོད་                | King Candraprabha                                                                                     | Day 45     | pending |
-| རྒྱལ་པོ་བི་མ་སེན་              | King Bhimasena                                                                                        | Day 45     | pending |
-| བྲམ་ཟེ་ལེའུ་དེ་བ་              | the brahmin Ledeva                                                                                    | Day 45     | pending |
-| དྲག་ཤུལ་ཅན་གྱིས་ཞུས་པའི་མདོ་   | the Sutra Requested by Ugra                                                                           | Day 46     | pending |
-| ༸རྒྱལ་བ་བསྟན་འཛིན་རྒྱ་མཚོ་     | His Holiness the Dalai Lama (project convention)                                                      | Day 48     | pending |
-| མགོན་པོ་ཀླུ་སྒྲུབ་             | the Protector Nagarjuna                                                                               | Day 48     | pending |
-| རིན་ཆེན་ཕྲེང་བ་                | the Ratnavali (Hindi रत्नावली)                                                                        | Day 48     | pending |
-| མཁན་པོ་མི་ཉག་ཀུན་བཟང་བསོད་ནམས་ | Khenpo Minyak Kunzang Sonam                                                                           | Day 49     | pending |
-| བསླབ་བཏུས་                     | the Shikshasamuchaya (Hindi शिक्षासमुच्चय)                                                            | Day 49     | pending |
-| བློ་གྲོས་མི་ཟད་པའི་མདོ་        | the Akshayamati Sutra (Hindi अक्षयमति सूत्र)                                                          | Day 49     | pending |
-| རྫ་མཁན་གྱི་ཁྱེའུ་སྣང་བྱེད་     | the potter's son Nangje                                                                               | Day 50     | pending |
-| དགེ་སློང་མི་འཁྲུགས་པ་          | the monk Akshobhya                                                                                    | Day 50     | pending |
-| སངས་རྒྱས་སྤྱན་ཆེན་པོ་          | Buddha Great Eye                                                                                      | Day 50     | pending |
-| སྨན་གྱི་བླ་མ་                  | the Medicine Buddha (Hindi भैषज्यगुरु)                                                                | Day 50     | pending |
-| ཚུལ་ཁྲིམས་ཀྱི་ཉམས་ལེན།         | _(Ethics Practice)_ — NEW CATEGORY, needs approval                                                    | Day 51     | pending |
-| སྲིད་ཞི་                       | samsara and nirvana                                                                                   | Day 51     | pending |
-| རྒྱལ་པོ་དབང་ཆེན་སྡེ་           | King Wangchen De                                                                                      | Day 52     | pending |
-| ཉི་འོག་གི་རྒྱལ་པོ་             | the king of the southern land                                                                         | Day 52     | pending |
-| བྱམས་སེམས་                     | loving-kindness                                                                                       | Day 53     | pending |
-| ཐོས་བསམ་                       | hearing and reflecting                                                                                | Day 53     | pending |
-| བརྩོན་འགྲུས་ཀྱི་ཉམས་ལེན།       | _(Diligence Practice)_ — NEW CATEGORY, needs approval                                                 | Day 54     | pending |
-| ཚོགས་སྦྱོར་གྱི་ལམ་             | the first stages of the path (the paths of accumulation and joining)                                  | Day 54     | pending |
-| ཁམས་གསུམ་                      | the three worlds                                                                                      | Day 54     | pending |
-| ཤེས་རབ་ཀྱི་ཉམས་ལེན།            | _(Wisdom Practice)_ — NEW CATEGORY, needs approval                                                    | Day 55     | pending |
-| ཐུབ་པ་                         | the Sage                                                                                              | Day 55     | pending |
-| བདུད་རྩི་                      | nectar                                                                                                | Day 55     | pending |
-| བློ་གྲོས་རྒྱ་མཚོ་              | Sagaramati (the sutra's addressee)                                                                    | Day 56     | pending |
-| ཡི་དྭགས་                       | hungry ghost                                                                                          | Day 56     | pending |
-| ཤཱ་རིའི་བུ་                    | Shariputra                                                                                            | Day 57     | pending |
-| བདུད་                          | Mara                                                                                                  | Day 57     | pending |
-| ཉན་ཐོས་ཀྱི་ལམ་                 | the path of the hearers                                                                               | Day 57     | pending |
-| དགྲ་བཅོམ་པ་                    | arhat                                                                                                 | Day 57     | pending |
-| གྲུབ་ཐོབ་ཆེན་པོ་ཏེ་ལོ་པ་       | the great adept Tilopa                                                                                | Day 58     | pending |
-| མཆོག་གི་དངོས་གྲུབ་             | the supreme attainment                                                                                | Day 58     | pending |
-| ལྟུང་བ་                        | downfall                                                                                              | Day 58     | pending |
-| རྗེ་བཙུན་མི་ལ་རས་པ་            | Jetsun Milarepa                                                                                       | Day 59     | pending |
-| མཁས་གྲུབ་ནོར་བཟང་རྒྱ་མཚོ་      | Khedrub Norzang Gyatso                                                                                | Day 59     | pending |
-| སྐུ་གསུང་ཐུགས་ཀྱི་རྟེན་        | images, texts and stupas                                                                              | Day 59     | pending |
-| མི་རྟག་པ་དྲན་པའི་ཉམས་ལེན།      | _(Practice of remembering that nothing lasts)_ — NEW CATEGORY, needs approval                         | Day 60     | pending |
-| སློབ་དཔོན་འཕགས་པ་ལྷ་           | Master Aryadeva                                                                                       | Day 60     | pending |
-| བཞི་བརྒྱ་པ་                    | the Chatuhshataka (Hindi चतुःशतक)                                                                     | Day 60     | pending |
-| འབྱུང་བ་བཞི་                   | the four elements                                                                                     | Day 60     | pending |
-| དལ་འབྱོར་                      | this rare human life                                                                                  | Day 60     | pending |
-| ཀླུའི་རྒྱལ་པོ་རྒྱ་མཚོ་         | the naga king Sagara                                                                                  | Day 61     | pending |
-| འཕགས་པ་སྤྱན་རས་གཟིགས་          | the noble Avalokiteshvara                                                                             | Day 64     | pending |
-| ཉོན་མོངས་ངོས་འཛིན་པ།           | _(Recognizing the afflictions)_ — NEW CATEGORY, needs approval                                        | Day 65     | pending |
-| སྐྱབས་རྗེ་གླིང་རིན་པོ་ཆེ་      | Kyabje Ling Rinpoche                                                                                  | Day 65     | pending |
-| ཞེ་སྡང་སྤོང་བ།                 | _(Giving up anger)_ — NEW CATEGORY, needs approval                                                    | Day 66     | pending |
-| ཉོན་མོངས་མི་གསོ་བ།             | _(Not feeding the afflictions)_ — NEW CATEGORY, needs approval                                        | Day 67     | pending |
-| བརྩོན་འགྲུས་མི་གཏོང་བ།         | _(Not giving up the effort)_ — NEW CATEGORY, needs approval                                           | Day 68     | pending |
-| དཀའ་སྤྱད་དང་དུ་ལེན་པ།          | _(Welcoming hardship)_ — NEW CATEGORY, needs approval                                                 | Day 69     | pending |
-| ཟླ་བ་སྒྲོན་མེའི་མདོ་           | the Chandrapradipa Sutra                                                                              | Day 73     | pending |
-| སེང་གྷ་ལའི་གླིང་               | Simhala Island                                                                                        | Day 75     | pending |
-| འགྲོ་བ་རྣམ་འབྱེད་ཀྱི་མདོ       | the Sutra Distinguishing Rebirths (tentative rendering; traditional Sanskrit title not yet confirmed) | Day 76     | pending |
-| རྒྱལ་པོ་གཙུག་ན་རིན་པོ་ཆེ       | King Manicuda (tentative identification with the Jataka figure Maṇicūḍa; not yet confirmed)           | Day 78     | pending |
-| རང་སངས་རྒྱས                    | solitary realizer                                                                                     | Day 80     | pending |
-| སེམས་ཀྱི་གསང་བ                 | the secret of the mind                                                                                | Day 80     | pending |
-| བསྡུས་འཇོམས་         | the Crushing Hell                                      | Day 81     | pending |
-| བསམ་གཏན་གྱི་ཉམས་ལེན། | _(Meditation Practice)_ — NEW CATEGORY, needs approval | Day 82     | pending |
-| ཇོ་བོ་ཨ་ཏི་ཤ         | Jowo Atisha                                            | Day 82     | pending |
-| བཤེས་ལེགས་ལས། | the _Letter to a Friend_ says (tentative — this day's Tibetan spells the citation differently from the established བཤེས་སྤྲིང་ term; not fully confirmed as the same text) | Day 85     | pending |
-| སྐྱོར་འབྱིན       | going back on our word (tentative; the verse source has flattering) | Day 92     | pending |
-| རེ་དོགས་          | hopes and fears (tentative)                                         | Day 92     | pending |
-| ང་རྒྱལ་རྣམ་པ་བདུན | the seven kinds of pride                                            | Day 92     | pending |
-| རྒོད་པ            | restlessness                                                        | Day 92     | pending |
-| ག་ཞར              | mockery                                                             | Day 92     | pending |
-| རྒྱགས་པ           | arrogance                                                           | Day 92     | pending |
-| མཚང་འབྲུ་བ        | exposing faults                                                     | Day 92     | pending |
-| ཀུན་སློང་         | intention                                                           | Day 92     | pending |
-| རང་གཅེས་འཛིན་     | cherishing ourselves                                                | Day 94     | pending |
-| ལེགས་པའི་སྐར་མ    | Sunakshatra                                                         | Day 95     | pending |
-| ལྷས་བྱིན          | Devadatta                                                           | Day 95     | pending |
-| སོ་སོ་སྐྱེ་བོ     | ordinary people                                                     | Day 95     | pending |
-| ཤིང་དུམ | a piece of wood                               | Day 93     | pending |
-| ཁ་རོག་  | silently (tentative; rendered as say nothing) | Day 93     | pending |
-| ཕྱེ་མ་ལེབ              | dust (tentative; the meaning of ལེབ is unclear)                                          | Day 96     | pending |
-| མི་ཁོམ་པ་བརྒྱད         | the eight states without freedom                                                         | Day 96     | pending |
-| དགའ་བོ་མངལ་འཇུག་གི་མདོ | the _Sutra of Nanda's Entering the Womb_ (tentative; Nanda identification not confirmed) | Day 97     | pending |
-| འབུ་ཕྲན                | tiny worms                                                                               | Day 97     | pending |
-| རྒྱུ་ལོང་              | intestines (tentative)                                                                   | Day 97     | pending |
-| རྒྱུས་པ                | sinews                                                                                   | Day 98     | pending |
-| མདོ་སྡེའི་རྒྱན་ | the _Ornament of the Sutras_ | Day 100    | pending |
-| སྲིད་པའི་མཚོ་          | the ocean of samsara (སྲིད་པ་ rendered as samsara)          | Day 101    | pending |
-| གཟུགས་སྐུ་             | the form body of a buddha                                   | Day 101    | pending |
-| ཕྱིན་དྲུག་             | the six perfections                                         | Day 101    | pending |
-| ཁྲོ་གཉེར་              | frowning                                                    | Day 101    | pending |
-| སྒོ་མོ་དལ་གྱིས་རྒྱག་པ  | closing doors gently (tentative; could also mean knocking)  | Day 101    | pending |
-| ཏཱ་ལའི་བླ་མ་           | His Holiness the Dalai Lama (project convention)            | Day 102    | pending |
-| ཏིང་ངེ་འཛིན་གྱི་ཚེར་མ་ | the thorns of deep meditative concentration (literal)       | Day 102    | pending |
-| སྟོན་པ་                | the Buddha (the Teacher, identified as the Buddha)          | Day 102    | pending |
-| གྭ་རྒྱ་ལྦ་             | gwa, gya and lba (left untranslated; meaning not confirmed) | Day 103    | pending |
-| གྲྭ་རྒན་               | old monk                                                    | Day 103    | pending |
-| ལྟས་ངན་                | bad omen                                                    | Day 103    | pending |
-| དེད་དཔོན་སྙིང་རྗེ་ཆེན་པོ་  | the caravan leader Great Compassion (tentative; treated as a name)               | Day 106    | pending |
-| མི་ནག་མདུང་ཐུང་ཅན          | a bad man with a short spear (tentative; མི་ནག may also mean a dark-skinned man) | Day 106    | pending |
-| བྲམ་ཟེའི་ཁྱེའུ་སྐར་མ       | the young brahmin Star (tentative; name rendered literally)                      | Day 106    | pending |
-| ཚོགས་འདུམས་པ               | completed the accumulation (tentative; the verb འདུམས་ is unclear)               | Day 106    | pending |
-| ལོག་པར་ལྟུང་བ              | those who have fallen into wrong ways (tentative)                                | Day 107    | pending |
-| བརྟུལ་ཞུགས་                | those who keep strict discipline (tentative)                                     | Day 107    | pending |
-| བསོད་སྙོམས་                | alms                                                                             | Day 107    | pending |
-| ཆོས་གོས་གསུམ               | the three Dharma robes                                                           | Day 107    | pending |
-| འདོད་ཆགས་                  | desire (tentative)                                                               | Day 107    | pending |
-| ཁྲིམས་ལྡན་                 | with ethics (tentative)                                                          | Day 108    | pending |
-| མདོ་སྡེ་དཀོན་མཆོག་བརྩེགས་པ | the _Heap of Jewels Sutra_ (tentative; Sanskrit title Ratnakuta not confirmed)   | Day 109    | pending |
-| ཐེག་པ་དམན་པ                | the lesser vehicle                                                               | Day 109    | pending |
-| ནམ་མཁའ་མཛོད་ཀྱི་མདོ   | the _Akashagarbha Sutra_ (tentative; spelled ནམ་མཁའ་མཛོད་ here and ནམ་མཁའི་སྙིང་པོ་ on Day 115, assumed to be the same sutra) | Day 112    | pending |
-| ཕུང་པོ་གསུམ་པ         | the _Three Aggregates Sutra_ (as in the verse source)                                                                         | Day 112    | pending |
-| བདུད་ཀྱིས་གླགས་རྙེད་པ | Mara finds an opening                                                                                                         | Day 112    | pending |
-| དཔུང་བཟང་             | the _Good Arm_ (a cited work; literal rendering, identification not confirmed)                                                | Day 113    | pending |
-| བླ་མེད་བྱང་ཆུབ་       | unsurpassed awakening                                                                                                         | Day 113    | pending |
-| གཞོན་ནུ་དཔལ་འབྱུང་    | the young man Paljung (name rendered as in the verse source)                                                                  | Day 114    | pending |
-| བཤེས་གཉེན་            | spiritual friend                                                                                                              | Day 114    | pending |
-| དགེ་བའི་བཤེས་གཉེན་    | good spiritual friend                                                                                                         | Day 114    | pending |
-| སྡེ་སྣོད་             | scriptures (tentative)                                                                                                        | Day 114    | pending |
-| མདོ་སྡེ་ཕལ་པོ་ཆེ      | the _Avatamsaka Sutra_ (tentative)                                                                                            | Day 115    | pending |
-| དཀོན་མཆོག་སྤྲིན       | the _Jewel Cloud Sutra_ (tentative)                                                                                           | Day 115    | pending |
-| ཕལ་ཆེན་པོ་ཏི་དྲུག     | the six volumes of the Avatamsaka (tentative)                                                                                 | Day 115    | pending |
-| རྩ་ལྟུང་              | root downfalls                                                                                                                | Day 115    | pending |
-| འཇུག་སྡོམ་            | the engaging vow (tentative)                                                                                                  | Day 115    | pending |
-| བློན་པོའི་གཅིག        | one for ministers (the Tibetan says only 'one'; unclear)                                                                      | Day 115    | pending |
-| ཁོང་ཁྲོ་             | anger                                                                         | Day 117    | pending |
-| ཞེ་སྡང་              | hatred                                                                        | Day 117    | pending |
-| བཟོད་པ་              | patience                                                                      | Day 117    | pending |
-| དགེ་རྩ་              | the roots of good                                                             | Day 117    | pending |
-| གཉེན་པོ་             | antidote                                                                      | Day 117    | pending |
-| དཀའ་ཐུབ་             | austerity                                                                     | Day 117    | pending |
-| ཟུག་རྔུ་             | dart                                                                          | Day 118    | pending |
-| ཡིད་མི་བདེ་བ་        | unhappiness                                                                   | Day 119    | pending |
-| ཟངས་ཀྱི་བུམ་པ་རྙོག་པ | a damaged copper pot (tentative; the exact damage named by རྙོག་པ is unclear) | Day 120    | pending |
-| ཐར་པ་                | liberation                                                                    | Day 121    | pending |
-| བློན་པོ་གོ་ར་བ་      | Minister Gorawa (tentative)                                                   | Day 122    | pending |
-| བྲག་གཅོང་            | a rocky gorge                                                                 | Day 122    | pending |
-| བློ་ཆེན་པོའི་གོ་ཆ་   | the armor of a great mind                                                     | Day 122    | pending |
-| བཟེ་རེ་              | making a fuss                                                                 | Day 123    | pending |
-| སྡར་མ་               | coward                                                                        | Day 123    | pending |
-| ཅ་ཅོ་བཏོན་           | complain (tentative)                                                          | Day 124    | pending |
-| ལས་ངན་འཕར་བ          | past bad karma coming up (tentative)                                          | Day 124    | pending |
-| ཝཱ་ར་ཎཱ་སི | Varanasi | Day 126 | pending |
-| ཉེ་ཁྲིས་ཀྱི་རྨ་བྱ | a peacock nearby | Day 126 | pending |
-| མོ་གཤམ་གྱི་བུ | the son of a barren woman | Day 127 | pending |
-| རི་བོང་གི་རྭ | a rabbit's horn | Day 127 | pending |
-| འཆར་གཞི་འདིང་མཁན་གཙོ་བོ | a main planner (tentative) | Day 127 | pending |
-| རང་དབང་ཅན་གྱི་བདག | an independent self | Day 127 | pending |
-| རྟག་པའི་བདག | a permanent self | Day 128 | pending |
-| སྤྲུལ་པ | something magically made (tentative) | Day 129 | pending |
-| སྐྱེད་ཚལ | a pleasure garden | Day 129 | pending |
-| མ་ག་དྷ | Magadha | Day 130 | pending |
-| ནཱ་ལེནྡྲ | Nalendra | Day 130 | pending |
-| ཁ་ཆེ | Kashmir | Day 130 | pending |
-| བདེན་པའི་བྱང་ཆུབ | Truth Awakening (name rendered literally; the guest is the one named) | Day 130 | pending |
-| མངའ་བདག | ruling (tentative) | Day 130 | pending |
-| གདོན | a spirit | Day 131 | pending |
-| ཁག་མི་དཀྲི་བ | do not blame | Day 132 | pending |
-| གློ་བུར་གྱི་སྐྱོན | a sudden fault | Day 132 | pending |

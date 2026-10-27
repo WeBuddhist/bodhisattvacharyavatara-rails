@@ -6,7 +6,7 @@ Written 2026-10-02. Paste or point a fresh session at this file, then say e.g. "
 
 - **Done through Day 133** (Chapter 6, verse 43), both `en/` and `hi/`. Chapter 5 (Days 74-116) is complete; Chapter 6 output folders are `en/Days/Chapter-6 D117-D170/` and `hi/Days/Chapter-6 D117-D170/` (verse block IDs `^6-N`, filenames `<n>-ch6-v<a>-<b>-eng.md` / `-hi.md`).
 - **Next: Day 134.** Tibetan sources exist for Chapters 6-10 under `Plans/Dalai Lama/`.
-- Chapter 6 term choices (all still pending in the termbases): ཁོང་ཁྲོ་ / ཁྲོ་བ་ = anger / क्रोध; ཞེ་སྡང་ = hatred / द्वेष; བཟོད་པ་ = patience / धैर्य; ཡིད་མི་བདེ་བ་ = unhappiness / मन का दुख; གཉེན་པོ་ = antidote / उपाय. Keep anger and hatred distinct.
+- Chapter 6 term choices (approved 2026-10-27 with all other pending terms): ཁོང་ཁྲོ་ / ཁྲོ་བ་ = anger / क्रोध; ཞེ་སྡང་ = hatred / द्वेष; བཟོད་པ་ = patience / धैर्य; ཡིད་མི་བདེ་བ་ = unhappiness / मन का दुख; གཉེན་པོ་ = antidote / उपाय. Keep anger and hatred distinct.
 - Days 15-36 (Chapter 2) are older rails-authored files in a different style from 37+. Never touched or reconciled.
 - The user's request pattern is simply "create day N" or "N-M". If a day is skipped in the request, check whether it exists and ask once (Day 85 was skipped once; user said fill it).
 
@@ -54,7 +54,7 @@ New practice categories, proper names, text titles: **propose a rendering, log i
 6. **Verify every finding yourself against the Tibetan** before fixing. Most were real; reject any that are not.
 7. Apply fixes with python read-modify-write (assert the old string exists).
 8. `cp` into the vault `en/Days/...` and `hi/Days/...` and **md5sum-compare** every file.
-9. Sync pending terms into both termbases with `sync_termbase_pending.py` (same folder as this file). Then `git diff` both termbases: it must be purely additive (only the new rows).
+9. Sync pending terms into both termbases with `sync_termbase_pending.py` (same folder as this file). It skips any Tibetan term already in any termbase table, so approved terms are not re-added. All pending terms up to Day 133 were approved on 2026-10-27: reuse those renderings and do not log them again. Then `git diff` both termbases: it must be purely additive (only the new rows).
 10. Report: what was created, real audit findings and fixes, any upstream verse-source deviations, new pending terms. Short.
 
 ## Gotchas learned the hard way

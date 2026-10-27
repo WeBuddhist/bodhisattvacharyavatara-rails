@@ -1,6 +1,6 @@
 """Append-only sync of day-file `pending_terms:` into both termbase Pending tables.
 Run from the-bodhisattva-challenge/ :  python3 sync_termbase_pending.py
-Only adds rows whose Tibetan key is not already in the table; never rewrites existing rows.
+Only adds rows whose Tibetan key is not already in any termbase table (pending or approved); never rewrites existing rows.
 Check `git diff` afterwards: it must be purely additive."""
 import re, os, glob
 
@@ -53,6 +53,10 @@ for lang in ('en', 'hi'):
     while end < len(lines) and lines[end].strip().startswith('|'):
         existing.add(lines[end].split('|')[1].strip())
         end += 1
+    # Terms already approved anywhere in the termbase (any table row) are not re-added.
+    for l in lines:
+        if l.strip().startswith('|'):
+            existing.add(l.split('|')[1].strip())
     new = [(t, d, r) for t, (d, r) in sorted(entries.items(), key=lambda kv: kv[1][0]) if t not in existing]
     if not new:
         print(f"{lang}: nothing new")

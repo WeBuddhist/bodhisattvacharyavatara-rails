@@ -20,10 +20,10 @@ status: draft
 ## Version 1
 ### Opening (0–12 sec)
 **On screen**
-- Close-up of the creator looking directly into the lens, holding a small, valuable antique or a simple polished stone in an open palm.
+- A dark screen that suddenly lights up with a single, clear flame of a candle flickering in the frame.
 
 **Voiceover**
-His Holiness the Dalai Lama reminds us that this life of yours is not just ordinary. It is an extremely rare support for achieving something truly profound and meaningful.
+His Holiness the Dalai Lama teaches that this life of yours is not just ordinary. It is a rare, golden opportunity to achieve something truly profound and meaningful.
 
 ### Middle (12–48 sec)
 **On screen**
@@ -42,10 +42,10 @@ You have the support. You have the mind. All that remains is to use it. Tomorrow
 ## Version 2
 ### Opening (0–12 sec)
 **On screen**
-- A montage of a busy city street, then a quick cut to a person sitting quietly in a park, then a tight shot of the creator's face.
+- A tight shot of a lone leaf caught in a strong wind, tumbling across the frame before settling gently on the ground.
 
 **Voiceover**
-You have a gift that most beings in this world never touch. You have a human body and a mind capable of understanding the deepest truths of the path.
+You have a rare gift that most beings never touch. You have a human body and a mind capable of understanding the deepest, most life-changing truths.
 
 ### Middle (12–48 sec)
 **On screen**
@@ -64,10 +64,10 @@ Instead of waiting for later, pick one thing today that genuinely matters. You a
 ## Version 3
 ### Opening (0–12 sec)
 **On screen**
-- The creator walks briskly toward the camera, then stops abruptly, leaning in to whisper in a conversational, urgent tone.
+- The creator walks into frame, stops to look at their watch, then shakes their head and turns to face the camera directly.
 
 **Voiceover**
-Most people walk through life assuming they have infinite time, but the Dalai Lama teaches that this specific freedom you have right now is actually quite rare.
+Stop for a second. The Dalai Lama says this specific freedom you have right now is extraordinarily rare. We tend to forget that, and act as if we have infinite time.
 
 ### Middle (12–48 sec)
 **On screen**
